@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+
 <!ENTITY  startupAction.label         "כאשר &brandShortName; מופעל:">
 
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
@@ -11,6 +12,18 @@ reportIdleAfter.label and idleTime parts don't have to mean the exact
 same thing as in English; please try instead to translate the whole
 sentence. -->
 
+<!ENTITY  andSetStatusToAway.accesskey  "ר">
 
+<!ENTITY  sendTyping.label              "שליחת התרעת הקלדה בדיונים">
+<!ENTITY  sendTyping.accesskey          "ק">
 
+<!ENTITY  chatNotifications.label             "כשמגיעות הודעות שמיועדות אליך:">
+<!ENTITY  desktopChatNotifications.label      "הצגת התרעה:">
+<!ENTITY  desktopChatNotifications.accesskey  "ר">
+<!ENTITY  completeNotification.label          "עם שם השולח ותצוגה מקדימה של הודעה">
+<!ENTITY  buddyInfoOnly.label                 "עם שם השולח בלבד">
+<!ENTITY  dummyNotification.label             "ללא כל מידע">
+<!ENTITY  getAttention.label                  "הבהוב הפריט בשורת המשימות">
+<!ENTITY  getAttention.accesskey              "ב">
+<!ENTITY  getAttentionMac.label               "הנפשת הסמל במעגן">
 

@@ -77,8 +77,10 @@
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesMenu.label                           "מאפיינים">
+<!ENTITY propertiesMenu.accesskey                       "א">
 <!ENTITY propertiesCmd.key                              "i">
 <!ENTITY abPropertiesMenu.label                         "מאפייני פנקס כתובות">
+<!ENTITY abPropertiesMenu.accesskey                     "א">
 <!ENTITY contactPropertiesMenu.label                    "מאפייני איש קשר">
 <!ENTITY mailingListPropertiesMenu.label                "מאפייני רשימת דיוור">
 

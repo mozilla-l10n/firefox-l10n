@@ -7,6 +7,7 @@
 <!ENTITY doNotDownloadImap.label "כדי לשמור שטח דיסק, הורדת הודעות מהשרת ושמירת עותקים מקומיים לשימוש לא מקוון יכולים להיות מוגבלים לפי גיל או גודל הודעה">
 <!ENTITY allFoldersOffline.label "שמור הודעות לחשבון זה על מחשב זה">
 <!ENTITY allFoldersOffline.accesskey "ע">
+<!ENTITY allFoldersOffline2.accesskey "ש">
 <!ENTITY offlineNotDownload.label "הודעות גדולות מאשר">
 <!ENTITY offlineNotDownload.accesskey "ג">
 <!ENTITY autosyncNotDownload.label "אל תוריד הודעות גדולות מ־">
@@ -27,8 +28,6 @@
 <!ENTITY retentionKeepAll.accesskey "ש">
 <!ENTITY retentionKeepRecent.label "מחק הכול מלבד">
 <!ENTITY retentionKeepRecent.accesskey "מ">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "מחק תמיד הודעות שנקראו (עוקף הגדרות גיל)">
 <!ENTITY retentionApplyToFlagged.label "שמור תמיד הודעות מסומנות">
 <!ENTITY retentionApplyToFlagged.accesskey "ס">
 <!ENTITY nntpRemoveMsgBody.label "הסר גוף בהודעות בנות יותר מאשר">
@@ -56,4 +55,3 @@
 <!ENTITY monthAgeInterval.label          "חודשים">
 <!ENTITY yearAgeInterval.label           "שנים">
 <!ENTITY ageAutosyncAfter.label          "">
-

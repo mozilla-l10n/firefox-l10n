@@ -13,3 +13,4 @@
 <!ENTITY account.autojoin              "ערוצים להצטרפות אוטומטית:">
 <!ENTITY account.proxySettings.caption "הגדרות שרת מתווך:">
 <!ENTITY account.proxySettings.change.label     "שינוי…">
+<!ENTITY account.proxySettings.change.accessKey "ש">

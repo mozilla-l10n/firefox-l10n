@@ -22,12 +22,14 @@
 <!ENTITY attachFileCmd.accesskey "ק">
 <!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "קישור לקובץ">
+<!ENTITY attachCloudCmd.accesskey "ק">
 <!ENTITY attachPageCmd.label "דף אינטרנט…">
 <!ENTITY attachPageCmd.accesskey "א">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "כרטיס אישי (vCard)">
 <!ENTITY attachVCardCmd.accesskey "כ">
 <!ENTITY remindLater.label "להזכיר לי מאוחר יותר">
+<!ENTITY remindLater.accesskey "ז">
 <!ENTITY closeCmd.label "סגירה">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "ג">
@@ -51,6 +53,7 @@
 <!ENTITY printSetupCmd.label "הגדרת עמוד…">
 <!ENTITY printSetupCmd.accesskey "ה">
 <!ENTITY printPreviewCmd.label "תצוגה מקדימה להדפסה">
+<!ENTITY printPreviewCmd.accesskey "ד">
 <!ENTITY printCmd.label "הדפסה…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "ד">
@@ -83,10 +86,14 @@
 <!ENTITY renameAttachmentCmd.label "שינוי שם קובץ מצורף…">
 <!ENTITY renameAttachmentCmd.accesskey "ש">
 <!ENTITY reorderAttachmentsCmd.label "סידור קבצים מצורפים מחדש…">
+<!ENTITY reorderAttachmentsCmd.accesskey "צ">
+<!ENTITY reorderAttachmentsCmd.key "ח">
 <!ENTITY selectAllCmd.label "בחר הכול">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "ב">
 <!ENTITY findBarCmd.label "חיפוש…">
+<!ENTITY findBarCmd.accesskey "ח">
+<!ENTITY findBarCmd.key "ח">
 <!ENTITY findReplaceCmd.label "חיפוש והחלפה…">
 <!ENTITY findAgainCmd.label "מצא שוב">
 <!ENTITY findAgainCmd.accesskey "g">

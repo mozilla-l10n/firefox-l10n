@@ -156,7 +156,9 @@
 <!ENTITY recentFolders.label "אחרונים">
 <!ENTITY recentFolders.accesskey "א">
 <!ENTITY compactVersion.label "תצוגה חסכונית">
+<!ENTITY compactVersion.accesskey "ח">
 <!ENTITY folderPaneBar.label "סרגל כלים של חלונית תיקיות">
+<!ENTITY folderPaneBar.accesskey "ס">
 <!ENTITY folderModeSelector.label "תצוגות תיקייה">
 
 <!-- Sort Menu -->
@@ -305,6 +307,7 @@
 <!ENTITY goBackCmd.accesskey "א">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "צ׳אט">
+<!ENTITY goChatCmd.accesskey "צ">
 <!ENTITY prevStarredMsgCmd.label "הודעה מסומנת בכוכבית">
 <!ENTITY prevStarredMsgCmd.accesskey "ס">
 <!ENTITY folderMenu.label "תיקייה">
@@ -347,9 +350,14 @@
 <!ENTITY forwardAsAttachmentCmd.label "קובץ מצורף">
 <!ENTITY forwardAsAttachmentCmd.accesskey "A">
 <!ENTITY editAsNewMsgCmd.label "עריכה כהודעה חדשה">
+<!ENTITY editAsNewMsgCmd.accesskey "ע">
+<!ENTITY editAsNewMsgCmd.key "ע">
 <!ENTITY editDraftMsgCmd.label "עריכת הודעת טיוטה">
+<!ENTITY editDraftMsgCmd.accesskey "ט">
+<!ENTITY editTemplateMsgCmd.label "עריכת תבנית">
+<!ENTITY editTemplateMsgCmd.accesskey "ת">
 <!ENTITY newMsgFromTemplateCmd.label "הודעה חדשה מתבנית">
-<!-- do not change "VK_RETURN" -->
+<!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "צור מסנן מהודעה…">
 <!ENTITY createFilter.accesskey "צ">
 <!ENTITY moveMsgToMenu.label "העבר">
@@ -418,7 +426,10 @@
 <!ENTITY openConversationCmd.accesskey "ד">
 <!ENTITY openConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "קבצים מצורפים">
+<!ENTITY openFeedMessage1.label "בעת פתיחת הודעות בהזנה">
+<!ENTITY openFeedMessage1.accesskey "פ">
 <!ENTITY openFeedWebPage.label "פתיחה כעמוד אינטרנט">
+<!ENTITY openFeedWebPage.accesskey "ע">
 <!ENTITY openFeedSummary.label "פתיחה כתקציר">
 <!ENTITY openFeedWebPageInMP.label "החלף בין דף אינטרנט ותקציר בחלונית ההודעה">
 <!ENTITY openFeedWebPageInMP.accesskey "ח">

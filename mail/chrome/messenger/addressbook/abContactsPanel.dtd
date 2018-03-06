@@ -6,11 +6,13 @@
 <!ENTITY abPropertiesMenu.label             "מאפייני פנקס כתובות">
 <!ENTITY contactPropertiesMenu.label        "מאפייני איש קשר">
 <!ENTITY mailingListPropertiesMenu.label    "מאפייני רשימת דיוור">
+<!ENTITY mailingListPropertiesMenu.accesskey "ר">
 
 <!ENTITY abContextMenuButton.tooltip        "הצגת תפריט הקשר של פנקס כתובות">
 <!ENTITY addressbookPicker.label            "פנקס כתובות">
 <!ENTITY addressbookPicker.accesskey        "פ">
 <!ENTITY searchContacts.label               "חיפוש באנשי קשר:">
+<!ENTITY searchContacts.accesskey           "נ">
 <!ENTITY SearchNameOrEmail.label            "שם או דוא״ל">
 
 <!ENTITY addtoToFieldMenu.label             "הוספה לשדה אל">
@@ -22,12 +24,18 @@
 <!ENTITY deleteAddrBookCard.label           "מחיקה">
 <!ENTITY deleteAddrBookCard.accesskey       "מ">
 <!ENTITY propertiesContext.label            "מאפיינים">
+<!ENTITY propertiesContext.accesskey        "א">
 <!ENTITY abPropertiesContext.label          "מאפיינים">
+<!ENTITY abPropertiesContext.accesskey      "א">
 <!ENTITY editContactContext.label           "עריכת איש קשר">
+<!ENTITY editContactContext.accesskey       "ע">
 <!ENTITY editMailingListContext.label       "עריכת רשימה">
+<!ENTITY editMailingListContext.accesskey   "ע">
 
 <!ENTITY newContactAbContext.label          "איש קשר חדש">
+<!ENTITY newContactAbContext.accesskey      "ח">
 <!ENTITY newListAbContext.label             "רשימה חדשה">
+<!ENTITY newListAbContext.accesskey         "ד">
 
 <!ENTITY toButton.label                     "הוסף לשורה אל:">
 <!ENTITY toButton.accesskey                 "א">

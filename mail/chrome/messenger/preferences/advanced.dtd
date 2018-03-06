@@ -12,12 +12,18 @@
 <!ENTITY enableGlodaSearch.label       "אפשר חיפוש גלובלי ואינדוקס">
 <!ENTITY enableGlodaSearch.accesskey   "ח">
 
+<!ENTITY useAutoScroll.label           "שימוש בגלילה אוטומטית">
+<!ENTITY useAutoScroll.accesskey       "א">
+<!ENTITY useSmoothScrolling.label      "שימוש בגלילה חלקה">
+<!ENTITY useSmoothScrolling.accesskey  "ח">
 
 <!ENTITY systemIntegration.label       "השתלבות במערכת">
 <!ENTITY alwaysCheckDefault.label      "בדוק בכל הפעלה אם &brandShortName; היא תוכנת דואר ברירת המחדל">
 <!ENTITY alwaysCheckDefault.accesskey  "ב">
 <!ENTITY searchIntegration.label       "אפשר ל־&searchIntegration.engineName; לחפש הודעות">
 <!ENTITY searchIntegration.accesskey   "ח">
+<!ENTITY checkDefaultsNow.label        "לבדוק כעת…">
+<!ENTITY checkDefaultsNow.accesskey    "כ">
 <!ENTITY configEditDesc.label          "הגדרות מתקדמות">
 <!ENTITY configEdit.label              "עורך הגדרות...">
 <!ENTITY configEdit.accesskey          "ע">
@@ -26,7 +32,11 @@
 <!ENTITY showReturnReceipts.accesskey  "ז">
 
 <!-- Data Choices -->
+<!ENTITY telemetryLearnMore.label        "מידע נוסף">
 
+<!ENTITY crashReporterSection.label      "דיווח קריסות">
+<!ENTITY enableCrashReporter.label       "הפעלת דיווח קריסות">
+<!ENTITY enableCrashReporter.accesskey   "ק">
 
 <!-- Update -->
 <!-- LOCALIZATION NOTE (updateApp.label):

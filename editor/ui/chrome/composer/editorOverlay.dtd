@@ -29,6 +29,7 @@
 <!ENTITY insertMenu.accesskey "i">
 <!ENTITY insertLinkCmd2.label "קישור…">
 <!ENTITY insertLinkCmd2.accesskey "ק">
+<!ENTITY insertLinkCmd2.key "ש">
 <!ENTITY insertAnchorCmd.label "עוגן בעל שם...">
 <!ENTITY insertAnchorCmd.accesskey "A">
 <!ENTITY insertImageCmd.label "תמונה...">
