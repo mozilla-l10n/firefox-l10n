@@ -17,8 +17,12 @@
 <!ENTITY dnsNotFound.longDesc "<p>Navegador na nu ganari' sa nana'uit 'ngà direksion dugutujt.</p><ul><li>Gachrun daj ga su direksion (p.e. <q><strong>ww</strong>.mozilla-mexico.org</q> si luga <q><strong>www</strong>.mozilla-mexico.org</q>)</li><li>Ya'nga' hua direksion na án? Gahuin ni 'ngà gire'ej.</li><li>¿Hua 'nga sa na'e gi'iaj sun 'ngà aché nunt riña sitio web na anj? Ni'iaj si hua hue'uè si internet  ni si servidot DNS.</li><li>¿Hua 'ngo firewall àsi proxy si agat nu dugumin ma anj? 'Ngà nitaj si nagi'iaj hue'uet ma ni si ga'ue gache nut riña web.</li></ul>">
 
 <!ENTITY fileNotFound.title "Nu narì'ij fichero">
+<!ENTITY fileNotFound.longDesc "<ul><li>¿Nadunat si yugui ma ni' así naduret ma sâ'?</li><li>¿Hua 'nga sa machin ni' asi 'ngo letra gachón riña direksion sâ'?</li><li>¿Girit permisu da' ga'ue gatut ñuna ve'ej?</li></ul>">
 
+<!ENTITY fileAccessDenied.title "Nun raj yinaj gun' aa atû'">
+<!ENTITY fileAccessDenied.longDesc "<ul> <li> Ga'ue si ganare'ej nej si guisikïj dadin' na'ue gun ña atû'.</li> </ul>">
 
+<!ENTITY generic.title "Na'ue garayinaj sa achín ni'iat">
 
 
 
