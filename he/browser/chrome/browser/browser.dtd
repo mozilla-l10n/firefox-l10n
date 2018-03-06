@@ -242,6 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.popupBlocked.tooltip             "חסמת חלונות קופצים עבור אתר זה.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "חילוץ נתוני משטחי ציור עבור אתר זה נחסמה.">
 
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "חסמת מפני האתר הזה את האפשרות להשתמש בתוסף החיצוני Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "חסמת גישת MIDI לאתר זה.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "הצגת היסטוריה">
