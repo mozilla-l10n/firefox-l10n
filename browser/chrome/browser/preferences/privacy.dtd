@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Mbrojtje Nga Gjurmimet">
-<!ENTITY  trackingProtection2.description      "Gjurmimi është grumbullimi i të dhënave tuaja të shfletimit nëpër sajte të shumtë. Gjurmimi mund të përdoret për të krijuar një profil tuajin dhe për t&apos;ju shfaqur lëndë bazuar në të dhënat tuaja personale dhe të shfletimit.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "Përdore Mbrojtjen Nga Gjurmimet për bllokim të gjurmuesve të ditur">
 <!ENTITY  trackingProtection3.description      "Mbrojtja Nga Gjurmimet bllokon gjurmues internetorë që grumbullojnë të dhëna shfletimi tuajat nëpër shumë sajte.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "Përdore Mbrojtjen Nga Gjurmimet për bllokim gjurmuesish të ditur">
 <!ENTITY  trackingProtectionAlways.label       "Përherë">
@@ -13,7 +11,6 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "v">
 <!ENTITY  trackingProtectionNever.label        "Kurrë">
 <!ENTITY  trackingProtectionNever.accesskey    "u">
-<!ENTITY  trackingProtectionLearnMore.label    "Mësoni më tepër">
 <!ENTITY  trackingProtectionLearnMore2.label    "Mësoni më tepër rreth Mbrojtjes Nga Gjurmimet dhe privatësisë tuaj">
 <!ENTITY  trackingProtectionExceptions.label   "Përjashtime…">
 <!ENTITY  trackingProtectionExceptions.accesskey "a">
@@ -24,11 +21,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "Mësoni më tepër">
 <!ENTITY changeBlockList2.label               "Ndryshoni Listë Bllokimesh…">
 <!ENTITY changeBlockList2.accesskey           "N">
-
-<!ENTITY  doNotTrack.description        "Dërgojuni sajteve një sinjal “Mos Më Gjurmo” se nuk doni të ndiqeni">
-<!ENTITY  doNotTrack.learnMore.label    "Mësoni më tepër">
-<!ENTITY  doNotTrack.default.label      "Vetëm kur përdoret Mbrojtje Nga Gjurmimet">
-<!ENTITY  doNotTrack.always.label       "Përherë">
 
 <!ENTITY  history.label                 "Historik">
 <!ENTITY  permissions.label             "Leje">
@@ -52,8 +44,8 @@
 <!ENTITY  acceptThirdParty2.pre.label     "Prano cookies palësh të treta">
 <!ENTITY  acceptThirdParty2.pre.accesskey "t">
 
-<!ENTITY  acceptCookies3.label          "Prano cookies dhe të dhëna sajtesh nga sajtet">
-<!ENTITY  acceptCookies3.accesskey      "P">
+<!ENTITY  acceptCookies4.label          "Prano nga sajte cookies dhe të dhëna sajtesh (e këshilluar)">
+<!ENTITY  acceptCookies4.accesskey      "P">
 
 <!ENTITY  blockCookies.label            "Blloko cookies dhe të dhëna sajtesh (mund të shkaktojë mosfunksionim sajtesh)">
 <!ENTITY  blockCookies.accesskey        "B">
@@ -93,6 +85,8 @@
 <!ENTITY  rememberActions.middle.label        ", ose ">
 <!ENTITY  rememberActions.removeCookies.label "hiqni cookies individuale">
 <!ENTITY  rememberActions.post.label          ".">
+
+<!ENTITY  rememberDescription1.label      "&brandShortName;-i do të mbajë mend historikun tuaj të shfletimeve, shkarkimeve, formularëve dhe kërkimeve.">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName;-i do të përdorë të njëjtat rregullime si të shfletimit privat, dhe nuk do të mbajë mend ndonjë historik, teksa shfletoni në Web.">
 

@@ -5,6 +5,8 @@
 <!ENTITY     window.title                  "Rregullime - Të dhëna Sajti">
 
 <!ENTITY     window1.title                 "Rregullime - Cookies dhe të Dhëna Sajtesh">
+
+<!ENTITY     window2.title                 "Administroni Cookies dhe të Dhëna Sajtesh">
 <!ENTITY     hostCol.label                 "Sajt">
 <!ENTITY     statusCol.label               "Gjendje">
 <!ENTITY     cookiesCol.label              "Cookies">
