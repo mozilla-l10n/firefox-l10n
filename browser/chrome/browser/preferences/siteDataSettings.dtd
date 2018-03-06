@@ -5,6 +5,8 @@
 <!ENTITY     window.title                  "הגדרות - נתוני אתר">
 
 <!ENTITY     window1.title                 "הגדרות - עוגיות ונתוני אתרים">
+
+<!ENTITY     window2.title                 "ניהול עוגיות ונתוני אתרים">
 <!ENTITY     hostCol.label                 "אתר">
 <!ENTITY     statusCol.label               "מצב">
 <!ENTITY     cookiesCol.label              "עוגיות">

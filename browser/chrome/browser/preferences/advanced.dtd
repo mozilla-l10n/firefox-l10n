@@ -67,6 +67,8 @@ available. -->
 <!ENTITY clearSiteData1.accesskey        "נ">
 <!ENTITY siteDataSettings.label          "הגדרות…">
 <!ENTITY siteDataSettings.accesskey      "ה">
+<!ENTITY siteDataSettings1.label         "ניהול נתונים…">
+<!ENTITY siteDataSettings1.accesskey     "נ">
 <!ENTITY siteDataLearnMoreLink.label     "מידע נוסף">
 
 <!-- LOCALIZATION NOTE:
