@@ -242,6 +242,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.popupBlocked.tooltip             "Olet estänyt ponnahdusikkunat tältä sivustolta.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Olet estänyt kanvaksen sisällön lukemisen tältä sivustolta.">
 
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "Olet estänyt Adobe Flash -liitännäisen käytön tältä sivustolta.">
+<!ENTITY urlbar.midiBlocked.tooltip              "Olet estänyt MIDI-käytön tältä sivustolta.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Avaa sivuhistoria">
 
@@ -1007,3 +1009,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
+<!ENTITY addonPostInstallMessage.label "Voit hallita lisäosia avaamalla <image class='addon-toolbar-icon'/>-valikon ja napsauttamalla <image class='addon-addon-icon'/>-kuvaketta.">
