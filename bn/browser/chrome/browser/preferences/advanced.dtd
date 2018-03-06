@@ -67,6 +67,7 @@ available. -->
 <!ENTITY clearSiteData1.accesskey        "l">
 <!ENTITY siteDataSettings.label          "সেটিং">
 <!ENTITY siteDataSettings.accesskey      "i">
+<!ENTITY siteDataSettings1.label         "ডাটা ব্যবস্থাপনা…">
 <!ENTITY siteDataSettings1.accesskey     "M">
 <!ENTITY siteDataLearnMoreLink.label     "আরও জানুন">
 
