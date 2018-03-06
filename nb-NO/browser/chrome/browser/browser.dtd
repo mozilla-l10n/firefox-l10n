@@ -240,9 +240,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Du har blokkert varsler for dette nettstedet.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Du har blokkert vedvarende lagring for denne nettsiden.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Du har blokkert sprettoppvinduer for dette nettstedet.">
-
 <!ENTITY urlbar.canvasBlocked.tooltip            "Du har blokkert uttrekking av canvas-data for dette nettstedet.">
 
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "Du har blokkert dette nettstedet fra å bruke Adobe Flash-programtillegget.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Du har blokkert MIDI-tilgang for dette nettstedet.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Vis historikk">
@@ -388,7 +388,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "Ingen synkroniserte faner … ennå!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Vil du se faner fra de andre enhetene dine her?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Synkroniseringsinnstillinger">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Åpne synkroniseringinnstillinger">
@@ -397,7 +396,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Logg inn på Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Administrer enheter …">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Vis sidestolpe med synkroniserte faner">
-
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Koble til en annen enhet">
 
 <!ENTITY appMenuRecentHighlights.label "Siste høydepunkter">
@@ -806,7 +804,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Synkroniserte faner">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Logg inn på Firefox fra andre enheter for å vise deres faner her.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "Ingen synkroniserte faner … ennå!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Vil du se faner fra de andre enhetene dine her?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Logg inn for å vise en liste over faner fra andre enheter.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "Kontoen din må verifiseres.">
@@ -816,7 +813,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Skru på fane-synkronisering for å vise en liste over faner fra dine andre enheter.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Søk synkroniserte faner">
-
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Koble til en annen enhet">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
