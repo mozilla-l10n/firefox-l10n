@@ -5,6 +5,8 @@
 <!ENTITY     window.title                  "সেটিং - সাইট ডেটা">
 
 <!ENTITY     window1.title                 "সেটিং - কুকিজ এবং সাইট ডাটা">
+
+<!ENTITY     window2.title                 "কুকি এবং সাইট ডাটা ব্যবস্থাপনা">
 <!ENTITY     hostCol.label                 "সাইট">
 <!ENTITY     statusCol.label               "অবস্থা">
 <!ENTITY     cookiesCol.label              "কুকি">
