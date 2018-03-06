@@ -422,7 +422,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "ລາຍງານສະຖານະການໃຊ້ງານ &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "ແບ່ງປັນຂໍ້ມູນການໃຊ້ງານຂອງທ່ານກັບ &vendorShortName; ກ່ຽວກັບສະຖານະພາບຕົວທ່ອງເວັບຂອງທ່ານ ແລະ ເພື່ອຊ່ວຍໃຫ້ທ່ານຮູ້ຈັກປະສິດທິພາບການເຮັດວຽກຂອງຕົວທ່ອງເວັບຂອງທ່ານ.">
-<!ENTITY datareporting_abouthr_title "ເບິງລາຍງານສະຖານະການໃຊ້ງານຂອງທ່ານ">
 <!ENTITY datareporting_telemetry_title "ການວັດແທກໄລຍະໄກ">
 <!ENTITY datareporting_telemetry_summary "ແບ່ງປັນຂໍ້ມູນປະສິດທິພາບການເຮັດວຽກ, ອຸປະກອນ ແລະ ການປັບແຕ່ງຕົວທ່ອງເວັບຂອງທ່ານກັບ &vendorShortName; ເພື່ອຊ່ວຍພວກເຮົາເຮັດໃຫ້ &brandShortName; ດີຂື້ກ່ວາເກົາ">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; ສົ່ງລາຍງານຄວາມຜິດພາດທີ່ຈະຊ່ວຍໃຫ້ &vendorShortName; ເພື່ອເຮັດໃຫ້ຕົວທ່ອງເວັບຂອງທ່ານມີຄວາມສະຖຽນ ແລະ ປອດໄພຫລາຍຂື້ນ.">
@@ -454,6 +453,7 @@
 <!ENTITY share_image_failed "ບໍ່ສາມາດແບ່ງປັນຮູບພາບນີ້ໄດ້">
 <!ENTITY save_as_pdf "ບັກທຶກເປັນ PDF">
 <!ENTITY print "ພິມ">
+<!ENTITY view_page_source "ເບິງແຫລ່ງທີມາຂອງຫນ້ານີ້">
 <!ENTITY find_in_page "ຄົ້ນຫາໃນຫນ້ານີ້">
 <!ENTITY desktop_mode "ຂໍນຳໃຊ້ເວັບໄຊທ໌ສຳລັບເດສກ໌ທັອບ">
 <!ENTITY page "ຫນ້າ">
@@ -485,7 +485,6 @@
 <!ENTITY contextmenu_open_new_tab "ເປີດໃນແທັບໃຫມ່">
 <!ENTITY contextmenu_open_private_tab "ເປີດໃນແທັບສ່ວນຕົວ">
 <!ENTITY contextmenu_remove "ລຶບ">
-<!ENTITY contextmenu_add_to_launcher "ເພີ່ມໃສ່ໜ້າທໍາອິດ">
 <!ENTITY contextmenu_add_page_shortcut "ເພີ່ມຫນ້າຊັອດຄັດ">
 <!ENTITY contextmenu_set_as_homepage "ຕັ້ງໃຫ້ເປັນຫນ້າທຳອິດ">
 <!ENTITY contextmenu_share "ແບ່ງປັນ">
@@ -540,7 +539,6 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "ຫນ້າເວັບໄຊທ໌ໄດ້ຖືກລົບອອກແລ້ວ">
-
 <!ENTITY folder_removed "ໂຟລເດີຖືກລຶບແລ້ວ">
 
 <!ENTITY bookmark_edit_title "ແກ້ໄຂບຸກມາກສ໌">
@@ -813,6 +811,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced by the Android OS version (e.g., 14)-->
 <!ENTITY unsupported_sdk_version "ຂໍອະໄພ! &brandShortName; ນີ້ຈະບໍ່ເຮັດວຽກຢູ່ໃນອຸປະກອນນີ້ (&formatS1;, &formatS2;). ກະລຸນາໂຫລດໃຫມ່.">
 
+<!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
+<!ENTITY corrupt_apk "ບໍ່ສາມາດເປີດ &brandShortName;. ກະລຸນາຕິດຕັ້ງໃຫມ່ ແລະ ລອງເປິດເບິງອີກເທື່ອຫນຶ່ງ.">
+
 <!ENTITY eol_notification_title2 "&brandShortName; ຈະບໍ່ມີການອັບເດດອີກຕໍ່ໄປ">
 <!ENTITY eol_notification_summary "ແຕະເພື່ອຮຽນຮູ້ເພີ່ມເຕີມ">
 
@@ -820,8 +821,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; ແມ່ນລຸ້ນລ່າສຸດແລ້ວ">
 <!ENTITY whatsnew_notification_summary "ຊອກເບິງວ່າມີຫຍັງໃຫມ່ໃນລຸ້ນນີ້">
-
-<!ENTITY promotion_add_to_homescreen "ເພີ່ມໃສ່ໜ້າທໍາອິດ">
 
 <!ENTITY promotion_add_page_shortcut "ເພີ່ມຫນ້າຊັອດຄັດ">
 
