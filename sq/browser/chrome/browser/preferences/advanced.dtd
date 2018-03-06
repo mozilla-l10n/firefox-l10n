@@ -44,6 +44,8 @@ available. -->
 <!ENTITY collectBrowserErrors.accesskey      "L">
 <!ENTITY collectBrowserErrorsLearnMore.label "Mësoni më tepër">
 
+<!ENTITY sendBackloggedCrashReports.label  "Lejoje &brandShortName;-in të dërgojë njoftime të dikurshme vithisjesh në emrin tuaj">
+<!ENTITY sendBackloggedCrashReports.accesskey "L">
 <!ENTITY crashReporterLearnMore.label    "Mësoni Më Tepër">
 
 <!ENTITY networkTab.label                "Rrjet">
@@ -65,6 +67,8 @@ available. -->
 <!ENTITY clearSiteData1.accesskey        "P">
 <!ENTITY siteDataSettings.label          "Rregullime…">
 <!ENTITY siteDataSettings.accesskey      "R">
+<!ENTITY siteDataSettings1.label         "Administroni Të dhëna…">
+<!ENTITY siteDataSettings1.accesskey     "A">
 <!ENTITY siteDataLearnMoreLink.label     "Mësoni më tepër">
 
 <!-- LOCALIZATION NOTE:
