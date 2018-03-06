@@ -975,8 +975,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY updateRestart.message2 "ხელახლა გაშვების შემდეგ, &brandShorterName; აღადგენს თქვენს ყველა გახსნილ ჩანართსა და ფანჯარას, პირადი ჩანართებისა და ფანჯრების გარდა.">
 <!ENTITY updateRestart.header.message2 "&brandShorterName;-ის გასაახლებლად, გაუშვით ხელახლა.">
-<!ENTITY updateRestart.acceptButton.label "ხელახლა გაშვება და აღდგენა">
-<!ENTITY updateRestart.acceptButton.accesskey "ხ">
+<!ENTITY updateRestart.acceptButton.label "გაშვება და აღდგენა">
+<!ENTITY updateRestart.acceptButton.accesskey "გ">
 <!ENTITY updateRestart.cancelButton.label "ახლა არა">
 <!ENTITY updateRestart.cancelButton.accesskey "ა">
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName;-ის გასაახლებლად, გაუშვით ხელახლა">
