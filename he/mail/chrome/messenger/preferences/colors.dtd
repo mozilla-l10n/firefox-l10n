@@ -4,7 +4,18 @@
 
 <!ENTITY  colorsDialog.title              "צבעים">
 
+<!ENTITY  overridePageColors.label        "דריסת הצבעים שהוקצו על ידי התוכן עם בחירותי שלהלן:">
+<!ENTITY  overridePageColors.accesskey    "ד">
 
 <!ENTITY  overridePageColors.always.label "תמיד">
+<!ENTITY  overridePageColors.auto.label   "רק בערכות נושא בניגודיות גבוהה">
+<!ENTITY  overridePageColors.never.label  "לעולם לא">
 
+<!ENTITY  color                           "טקסט ורקע">
+<!ENTITY  textColor.label                 "טקסט:">
+<!ENTITY  textColor.accesskey             "ט">
+<!ENTITY  backgroundColor.label           "רקע:">
+<!ENTITY  backgroundColor.accesskey       "ר">
+<!ENTITY  useSystemColors.label           "שימוש בצבעי המערכת">
+<!ENTITY  useSystemColors.accesskey       "צ">
 

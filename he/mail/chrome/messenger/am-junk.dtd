@@ -17,6 +17,7 @@
 <!ENTITY purge2.label "ימים">
 
 <!ENTITY whitelistHeader.label "לא לסמן כזבל אוטומטית אם השולח הוא מבין אלה: ">
+<!ENTITY whitelistHeader.accesskey "ל">
 
 <!ENTITY ispHeaders.label "סמוך על כותרי דואר זבל שנוצרו על־ידי:">
 <!ENTITY ispHeaders.accesskey "ס">
@@ -25,3 +26,4 @@
 <!ENTITY junkActions.label "יעד ותחלופה">
 
 <!ENTITY globalJunkPrefs.label "העדפות זבל כלליות…">
+<!ENTITY globalJunkPrefs.accesskey "כ">

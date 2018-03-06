@@ -6,6 +6,7 @@
 <!ENTITY useGlobalPrefs.label         "השתמש בהעדפות קבלות חוזרות הכלליות שלי עבור חשבון זה">
 <!ENTITY useGlobalPrefs.accesskey     "ע">
 <!ENTITY globalReceipts.label         "העדפות כלליות…">
+<!ENTITY globalReceipts.accesskey     "כ">
 <!ENTITY useCustomPrefs.label         "התאם אישית קבלות חוזרות עבור חשבון זה">
 <!ENTITY useCustomPrefs.accesskey     "ש">
 <!ENTITY requestReceipt.label         "בעת שליחת הודעות, בקש תמיד קבלה חוזרת">

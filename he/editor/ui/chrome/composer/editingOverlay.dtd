@@ -16,6 +16,7 @@
 <!ENTITY saveAsCmd.label "שמירה בשם…">
 <!ENTITY saveAsCmd.accesskey "ב">
 <!ENTITY saveAsChangeEncodingCmd2.label "שמירה ושינוי קידוד הטקסט">
+<!ENTITY saveAsChangeEncodingCmd2.accesskey "ק">
 <!ENTITY publishCmd.label "פרסום">
 <!ENTITY publishCmd.accesskey "פ">
 <!ENTITY publishCmd.key "פ">

@@ -42,3 +42,4 @@
 <!ENTITY smtpDefaultServer.label "השתמש בשרת ברירת המחדל">
 
 <!ENTITY smtpServerEdit.label "עריכת שרת SMTP…">
+<!ENTITY smtpServerEdit.accesskey "ש">

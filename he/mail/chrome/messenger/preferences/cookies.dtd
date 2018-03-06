@@ -2,18 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!--
-# Translator(s):
-#
-# Tomer Cohen <tomer.mozilla@tomercohen.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Tomer Cohen <tomer.mozilla@tomercohen.com>
-#
--->
 <!ENTITY window.width                      "36em">
 
 <!ENTITY cookiesonsystem.label             "העוגיות הבאות מאוחסנות במחשב שלך:">
@@ -30,6 +18,7 @@
 <!ENTITY props.path.label                  "נתיב:">
 <!ENTITY props.secure.label                "שלח עבור:">
 <!ENTITY props.expires.label               "תוקף:">
+<!ENTITY props.container.label             "מגירה:">
 
 <!ENTITY window.title                      "עוגיות">
 <!ENTITY windowClose.key                   "w">
@@ -41,5 +30,4 @@
 
 <!ENTITY button.close.label                "סגירה">
 <!ENTITY button.close.accesskey            "ס">
-
 
