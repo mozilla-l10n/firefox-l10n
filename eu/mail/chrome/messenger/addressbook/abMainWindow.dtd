@@ -124,6 +124,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY messengerCmd.label                             "Posta eta berri-taldeak">
 <!ENTITY messengerCmd.accesskey                         "P">
 <!ENTITY messengerCmd.commandkey                        "1">
+<!ENTITY addressBookCmd.label                           "Helbide-liburua">
+<!ENTITY addressBookCmd.accesskey                       "h">
+<!ENTITY addressBookCmd.key                             "B">
 <!ENTITY searchAddressesCmd.label                       "Bilatu helbideak…">
 <!ENTITY searchAddressesCmd.accesskey                   "B">
 <!ENTITY importCmd.label                                "Inportatu…">
