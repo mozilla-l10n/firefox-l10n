@@ -67,6 +67,8 @@ available. -->
 <!ENTITY clearSiteData1.accesskey        "L">
 <!ENTITY siteDataSettings.label          "Configuración…">
 <!ENTITY siteDataSettings.accesskey      "C">
+<!ENTITY siteDataSettings1.label         "Administrar datos…">
+<!ENTITY siteDataSettings1.accesskey     "M">
 <!ENTITY siteDataLearnMoreLink.label     "Conocer más">
 
 <!-- LOCALIZATION NOTE:
