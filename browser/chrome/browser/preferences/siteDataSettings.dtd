@@ -3,8 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Thiết lập - Dữ liệu trang">
+
+<!ENTITY     window1.title                 "Cài đặt - Cookie và dữ liệu trang">
+
 <!ENTITY     hostCol.label                 "Trang">
 <!ENTITY     statusCol.label               "Trạng thái">
+<!ENTITY     cookiesCol.label              "Cookie">
 <!ENTITY     usageCol.label                "Lưu trữ">
 <!ENTITY     searchTextboxPlaceHolder             "Tìm kiếm trang web">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
@@ -17,3 +21,5 @@
 <!ENTITY     removingDialog.title          "Xóa dữ liệu trang web">
 <!ENTITY     removingSelected.description  "Xóa dữ liệu trang sẽ đồng thời xóa các cookie và các nội dung web ngoại tuyến. Điều này có thể khiến bạn đăng xuất ra khỏi các trang web. Bạn có chắc chắn về sự thay đổi này chứ?">
 <!ENTITY     siteTree2.label               "Cookie của những trang web dưới đây sẽ bị xóa">
+<!ENTITY     removingDialog1.title         "Xóa cache và dữ liệu trang">
+<!ENTITY     removingSelected1.description "Xóa cookie và dữ liệu trang có thể khiến bạn bị đăng xuất khỏi trang web. Bạn có chắc chắn muốn thay đổi không?">
