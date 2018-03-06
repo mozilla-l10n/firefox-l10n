@@ -240,9 +240,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "ამ საიტისთვის შეტყობინებების ჩვენების უფლება შეზღუდული გაქვთ.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "ამ საიტისთვის, მუდმივ მეხსიერებასთან წვდომა შეზღუდული გაქვთ.">
 <!ENTITY urlbar.popupBlocked.tooltip             "ამ საიტზე, ამომხტომი ფირნიშები შეზღუდული გაქვთ.">
-
 <!ENTITY urlbar.canvasBlocked.tooltip            "ამ საიტისთვის, გრაფიკული მონაცემების გამოსახვის უფლება შეზღუდული გაქვთ.">
 
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "ამ საიტისთვის Adobe Flash მოდულის გამოყენების უფლება შეზღუდული გაქვთ.">
 <!ENTITY urlbar.midiBlocked.tooltip              "ამ საიტისთვის MIDI წვდომის უფლება შეზღუდული გაქვთ.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "ისტორიის ჩვენება">
@@ -388,7 +388,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "დასინქრონებული ჩანართები არაა… ჯერ!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "გსურთ სხვა მოწყობილობების ჩანართების აქ ნახვა?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "სინქრონიზაციის პარამეტრები">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "სინქრონიზაციის პარამეტრები">
@@ -397,7 +396,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Sync-ში შესვლა">
 <!ENTITY appMenuRemoteTabs.managedevices.label "მოწყობილობების მართვა…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "დასინქრონებული ჩანართების გვერდითი ზოლის ნახვა">
-
 <!ENTITY appMenuRemoteTabs.connectdevice.label "სხვა მოწყობილობის დაკავშირება">
 
 <!ENTITY appMenuRecentHighlights.label "გამორჩეული სიახლეები">
@@ -806,7 +804,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "დასინქრონებული ჩანართები">
 <!ENTITY syncedTabs.sidebar.noclients.label    "შედით Firefox-ში თქვენი სხვა მოწყობილობებიდან მათი ჩანართების აქ სანახავად.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "დასინქრონებული ჩანართები არაა… ჯერ!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "გსურთ სხვა მოწყობილობების ჩანართების აქ ნახვა?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "შედით თქვენი სხვა მოწყობილობებიდან ჩანართების სიის სანახავად.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "თქვენი ანგარიში საჭიროებს დამოწმებას.">
@@ -816,7 +813,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "ჩართეთ ჩანართების სინქრონიზაცია თქვენი სხვა მოწყობილობებიდან ჩანართების სიის სანახავად.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "დასინქრონებული ჩანართების მოძიება">
-
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "სხვა მოწყობილობის დაკავშირება">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,

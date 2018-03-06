@@ -67,6 +67,8 @@ available. -->
 <!ENTITY clearSiteData1.accesskey        "მ">
 <!ENTITY siteDataSettings.label          "პარამეტრები…">
 <!ENTITY siteDataSettings.accesskey      "ტ">
+<!ENTITY siteDataSettings1.label         "მონაცემების მართვა…">
+<!ENTITY siteDataSettings1.accesskey     "მ">
 <!ENTITY siteDataLearnMoreLink.label     "შეიტყვეთ მეტი">
 
 <!-- LOCALIZATION NOTE:

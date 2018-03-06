@@ -5,6 +5,8 @@
 <!ENTITY     window.title                  "პარამეტრები - საიტის მონაცემები">
 
 <!ENTITY     window1.title                 "პარამეტრები - ფუნთუშები და საიტის მონაცემები">
+
+<!ENTITY     window2.title                 "ფუნთუშების და საიტების მონაცემების მართვა">
 <!ENTITY     hostCol.label                 "საიტი">
 <!ENTITY     statusCol.label               "მდგომარეობა">
 <!ENTITY     cookiesCol.label              "ფუნთუშები">
