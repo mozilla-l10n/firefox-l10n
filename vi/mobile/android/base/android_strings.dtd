@@ -422,7 +422,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "Báo cáo tình trạng &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "Chia sẻ dữ liệu với &vendorShortName; về tình trạng của trình duyệt và giúp bạn hiểu về hiệu suất của phần mềm">
-<!ENTITY datareporting_abouthr_title "Xem báo cáo tình trạng của tôi">
 <!ENTITY datareporting_telemetry_title "Hệ thống từ xa">
 <!ENTITY datareporting_telemetry_summary "Chia sẻ hiệu năng, cách sử dụng, phần cứng và dữ liệu tùy biến liên quan đến trình duyệt của bạn với &vendorShortName; để giúp chúng tôi tạo ra &brandShortName; tốt hơn">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; nộp báo cáo sự cố để giúp &vendorShortName; làm cho trình duyệt của bạn ổn định và an toàn hơn">
@@ -809,6 +808,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 <!ENTITY unsupported_sdk_version "Xin lỗi! &brandShortName; sẽ không làm việc trên thiết bị này (&formatS1;, &formatS2;). Xin vui lòng tải về phiên bản khác.">
+
+<!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
+<!ENTITY corrupt_apk "Không thể mở &brandShortName;. Hãy cài lại và thử lại.">
 
 <!ENTITY eol_notification_title2 "&brandShortName; sẽ không còn được cập nhật">
 <!ENTITY eol_notification_summary "Chạm để tìm hiểu thêm">
