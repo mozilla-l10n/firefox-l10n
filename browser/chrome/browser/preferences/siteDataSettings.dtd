@@ -5,6 +5,8 @@
 <!ENTITY     window.title                  "الإعدادات - بيانات المواقع">
 
 <!ENTITY     window1.title                 "الإعدادات - الكعكات و بيانات المواقع">
+
+<!ENTITY     window2.title                 "أدِر الكعكات و بيانات المواقع">
 <!ENTITY     hostCol.label                 "الموقع">
 <!ENTITY     statusCol.label               "الحالة">
 <!ENTITY     cookiesCol.label              "الكعكات">
