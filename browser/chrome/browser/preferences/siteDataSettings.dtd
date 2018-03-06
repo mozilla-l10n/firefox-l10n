@@ -23,3 +23,4 @@
 <!ENTITY     siteTree2.label               "Cookie của những trang web dưới đây sẽ bị xóa">
 <!ENTITY     removingDialog1.title         "Xóa cache và dữ liệu trang">
 <!ENTITY     removingSelected1.description "Xóa cookie và dữ liệu trang có thể khiến bạn bị đăng xuất khỏi trang web. Bạn có chắc chắn muốn thay đổi không?">
+<!ENTITY     siteTree3.label               "Cookie và dữ liệu của các trang web sau sẽ bị xóa">

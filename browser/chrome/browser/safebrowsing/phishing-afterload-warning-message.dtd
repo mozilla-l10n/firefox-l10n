@@ -32,9 +32,11 @@
 
 
 <!ENTITY safeb.blocked.unwantedPage.title2 "Trang bạn đang truy cập có thể chứa phần mềm gây hại">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc2 "&brandShortName; đã chặn trang này bởi vì nó cố lừa bạn cài đặt các chương trình gây ảnh hưởng đến trải nghiệm duyệt web của bạn (ví dụ, thay đổi trang chủ hoặc hiển thị thêm quảng cáo trên các trang web bạn truy cập).">
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.override "<span id='unwanted_sitename'/> đã được <a id='error_desc_link'>báo cáo là có chứa phần mềm có hại</a>. Bạn có thể <a id='ignore_warning_link'>bỏ qua rủi ro</a> và truy cập trang web không an toàn này.">
 
 
 
