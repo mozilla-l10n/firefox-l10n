@@ -53,6 +53,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reloadCmd.commandkey "r">
 <!ENTITY menu_wrapLongLines.title "Bryt lange linjer">
 <!ENTITY menu_wrapLongLines.accesskey "y">
+<!ENTITY menu_highlightSyntax.label "Syntaks-markering">
+<!ENTITY menu_highlightSyntax.accesskey "a">
 <!ENTITY menu_textSize.label "Skriftstørrelse">
 <!ENTITY menu_textSize.accesskey "s">
 <!ENTITY menu_textEnlarge.label "Større skrift">
@@ -75,5 +77,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY backCmd.accesskey "b">
 <!ENTITY forwardCmd.label "Frem">
 <!ENTITY forwardCmd.accesskey "F">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
 
+<!ENTITY copyLinkCmd.label "Kopier lenkeadresse">
+<!ENTITY copyLinkCmd.accesskey "l">
+<!ENTITY copyEmailCmd.label "Kopier e-postadresse">
+<!ENTITY copyEmailCmd.accesskey "e">
 
