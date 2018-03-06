@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY wizard.title             "Titz'uk K'ak'a' Cholb'äl Q'ij" >
+<!ENTITY wizard.label             "Titz'uk k'ak'a' cholb'äl q'ij" >
 
 
 <!ENTITY locationpage.username.label      "Rub'i' winäq:" >

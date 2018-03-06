@@ -15,9 +15,15 @@
    - task tree view. -->
 <!ENTITY calendar.unifinder.tree.done.label                "Xk'is">
 <!ENTITY calendar.unifinder.tree.priority.label            "Ya'on ruq'ij">
+<!ENTITY calendar.unifinder.tree.priority.tooltip2         "Tinuk' chi ya'on ruq'ij">
 <!ENTITY calendar.unifinder.tree.title.label               "B'i'aj">
+<!ENTITY calendar.unifinder.tree.title.tooltip2            "Tinuk' chi b'i'aj">
+<!ENTITY calendar.unifinder.tree.percentcomplete.label     "&#37; Tz'aqät">
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "Tinuk' chi &#37; tz'aqät">
 <!ENTITY calendar.unifinder.tree.startdate.label           "Titikirisäx">
+<!ENTITY calendar.unifinder.tree.startdate.tooltip2        "Tinuk' chi rutikirib'al q'ijul">
 <!ENTITY calendar.unifinder.tree.enddate.label             "K'isib'äl">
+<!ENTITY calendar.unifinder.tree.enddate.tooltip2          "Tinuk' chi ruk'isib'äl q'ijul">
 <!ENTITY calendar.unifinder.tree.completeddate.label       "Tz'aqatisan">
 <!ENTITY calendar.unifinder.tree.categories.label          "Ruwäch">
 <!ENTITY calendar.unifinder.tree.location.label            "K'ojlib'äl">
@@ -27,10 +33,18 @@
 
 
 
+<!ENTITY calendar.nextday.label                 "Jun chik Q'ij" >
+<!ENTITY calendar.prevday.label                 "Ruwa Q'ij" >
+<!ENTITY calendar.nextday.accesskey             "x" >
+<!ENTITY calendar.prevday.accesskey             "s" >
 <!ENTITY calendar.nextweek.label                "Jun Chik Apo Wuqq'ij" >
 <!ENTITY calendar.prevweek.label                "Jun kan Wuqq'ij" >
+<!ENTITY calendar.nextweek.accesskey            "x" >
+<!ENTITY calendar.prevweek.accesskey            "s" >
 <!ENTITY calendar.nextmonth.label               "Ri Jun Chik Ik'" >
 <!ENTITY calendar.prevmonth.label               "Jun kan Ik'" >
+<!ENTITY calendar.nextmonth.accesskey           "x" >
+<!ENTITY calendar.prevmonth.accesskey           "s" >
 
 
 <!ENTITY calendar.print.button.label            "Titz'ajb'äx" >
@@ -41,10 +55,13 @@
 
 
 
+<!ENTITY calendar.list.header.label                 "Cholb'äl q'ij">
 
 <!ENTITY calendar.task.filter.title.label           "Tik'ut pe">
 <!ENTITY calendar.task.filter.all.label             "Ronojel">
+<!ENTITY calendar.task.filter.all.accesskey         "A">
 <!ENTITY calendar.task.filter.today.label           "Wakami">
+<!ENTITY calendar.task.filter.today.accesskey       "T">
 
 <!-- LOCALIZATION NOTE(calendar.task.filter.current.label)
      "Current Tasks" will show all tasks, except those with a start date set
@@ -55,9 +72,12 @@
 <!ENTITY calendar.task-details.title.label           "b'i'aj">
 <!ENTITY calendar.task-details.organizer.label       "richin">
 <!ENTITY calendar.task-details.priority.label        "ya'on ruq'ij">
+<!ENTITY calendar.task-details.priority.low.label    "Ko'öl">
 <!ENTITY calendar.task-details.priority.normal.label "Relik">
+<!ENTITY calendar.task-details.priority.high.label   "Nïm">
 <!ENTITY calendar.task-details.status.label          "b'anikil">
 <!ENTITY calendar.task-details.category.label        "ruwäch">
+<!ENTITY calendar.task-details.attachments.label     "taq taqoj">
 
 
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+K&gt;">
