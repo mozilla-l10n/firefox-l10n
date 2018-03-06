@@ -128,6 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "N">
 <!ENTITY toggleReaderMode.key "R">
 
+<!ENTITY toggleReaderMode.win.keycode "VK_F9">
+
 <!ENTITY fxaSignIn.label "Kirjaudu sisään &syncBrand.shortName.label;-palveluun">
 <!ENTITY fxaSignedIn.tooltip "Avaa &syncBrand.shortName.label;-asetukset">
 <!ENTITY fxaSignInError.label "Palauta yhteys &syncBrand.shortName.label;-palveluun">
@@ -229,6 +231,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Hallinnoi sivun kääntämistä toiselle kielelle">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Hallinnoi DRM-ohjelmiston käyttöä">
 
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Avaa MIDI-paneeli">
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Olet estänyt kameran tältä sivustolta.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Olet estänyt mikrofonin tältä sivustolta.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Olet estänyt tämän sivuston jakamasta näyttöäsi.">
@@ -236,8 +240,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Olet estänyt ilmoitukset tältä sivustolta.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Olet estänyt pysyvän tallennustilan käytön tältä sivustolta.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Olet estänyt ponnahdusikkunat tältä sivustolta.">
-
 <!ENTITY urlbar.canvasBlocked.tooltip            "Olet estänyt kanvaksen sisällön lukemisen tältä sivustolta.">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Avaa sivuhistoria">
 
@@ -382,7 +386,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "Ei synkronoituja välilehtiä… vielä!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Haluatko nähdä muiden laitteiden välilehdet tässä?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync-palvelun asetukset">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Avaa Sync-asetukset">
@@ -391,7 +394,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Kirjaudu Sync-palveluun">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Hallitse laitteita…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Synkronoitujen välilehtien sivupaneeli">
-
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Yhdistä toinen laite">
 
 <!ENTITY appMenuRecentHighlights.label "Viimeaikaiset nostot">
@@ -800,7 +802,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Synkronoidut välilehdet">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Kirjaudu Firefoxiin muilla laitteillasi, jotta voit katsella niiden välilehtiä tästä.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "Ei synkronoituja välilehtiä… vielä!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Haluatko nähdä muiden laitteiden välilehdet tässä?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Kirjaudu sisään, jotta voit katsella listaa muiden laitteidesi välilehdistä.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "Tilisi tarvitsee vahvistaa.">
@@ -810,7 +811,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Ota välilehtien synkronointi käyttöön, jotta voit katsella listaa muiden laitteidesi välilehdistä.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Etsi synkronoiduista välilehdistä">
-
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Yhdistä toinen laite">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
@@ -1003,3 +1003,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "Esteettömyysominaisuudet käytössä">
+
+<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
+     The first <image> tag is replaced with the icon for the add-ons menu.
+     The second <image> tag is replaced with the icon for the toolbar menu. -->
