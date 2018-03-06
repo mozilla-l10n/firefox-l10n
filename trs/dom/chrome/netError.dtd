@@ -14,7 +14,9 @@
 <!ENTITY deniedPortAccess.longDesc "<p>Riña nū 'ngo puerto a'nîn ma gu' (p.e. <q>mozilla.org:80</q> guenda puerto 80 riña mozilla.org) ma riña garasun' ma huin <em>diferentes</em> 'ngà aché nun' riña Web. duna'kin' àkuanj radón' hua ai ma.</p>">
 
 <!ENTITY dnsNotFound.title "Nū nari'ij direksiôn">
+<!ENTITY dnsNotFound.longDesc "<p>Navegador na nu ganari' sa nana'uit 'ngà direksion dugutujt.</p><ul><li>Gachrun daj ga su direksion (p.e. <q><strong>ww</strong>.mozilla-mexico.org</q> si luga <q><strong>www</strong>.mozilla-mexico.org</q>)</li><li>Ya'nga' hua direksion na án? Gahuin ni 'ngà gire'ej.</li><li>¿Hua 'nga sa na'e gi'iaj sun 'ngà aché nunt riña sitio web na anj? Ni'iaj si hua hue'uè si internet  ni si servidot DNS.</li><li>¿Hua 'ngo firewall àsi proxy si agat nu dugumin ma anj? 'Ngà nitaj si nagi'iaj hue'uet ma ni si ga'ue gache nut riña web.</li></ul>">
 
+<!ENTITY fileNotFound.title "Nu narì'ij fichero">
 
 
 
@@ -39,3 +41,4 @@
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
