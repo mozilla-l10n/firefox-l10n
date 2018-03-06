@@ -112,6 +112,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "Trình gỡ lỗi bố cục">
+<!ENTITY ldbCmd.accesskey "L">
 <!ENTITY mirrorTabCmd.label "Nhân đôi thẻ">
 <!ENTITY mirrorTabCmd.accesskey "m">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -126,6 +127,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Hiện tất cả các thẻ">
 <!ENTITY showAllTabsCmd.accesskey "A">
 <!ENTITY toggleReaderMode.key "R">
+
 
 <!ENTITY fxaSignIn.label "Đăng nhập vào &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Mở tùy chỉnh của &syncBrand.shortName.label;">
@@ -170,6 +172,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY closeWindow.label "Đóng cửa sổ">
 <!ENTITY closeWindow.accesskey "d">
 
+<!ENTITY bookmarksMenu.label "Trang đánh dấu">
 <!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "Đánh dấu trang này">
 <!ENTITY editThisBookmarkCmd.label "Chỉnh sửa dấu trang này">
@@ -178,6 +181,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenupopup.label "Đăng kí theo dõi trang này">
 <!ENTITY subscribeToPageMenuitem.label "Đăng kí theo dõi trang này…">
 <!ENTITY addCurPagesCmd.label "Đánh dấu tất cả các thẻ…">
+<!ENTITY showAllBookmarks2.label "Xem tất cả trang đánh dấu">
 <!ENTITY recentBookmarks.label "Trang đánh dấu gần đây">
 <!ENTITY otherBookmarksCmd.label "Trang đánh dấu khác">
 <!ENTITY mobileBookmarksCmd.label "Trang đánh dấu trên di động">
@@ -226,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Quản lý việc dịch trang">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Quản lý sử dụng phần mềm DRM">
 
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Bạn đã chặn camera của mình ở trang này">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Bạn đã chặn micro của mình ở trang này">
 <!ENTITY urlbar.screenBlocked.tooltip            "Bạn đã chặn việc chia sẻ màn hình của mình với trang web này.">
@@ -233,8 +238,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Bạn đã chặn thông báo ở trang này.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Bạn đã chặn lưu dữ liệu lâu dài ở trang này.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Bạn đã chặn popup ở trang web này.">
-
 <!ENTITY urlbar.canvasBlocked.tooltip            "Bạn đã chặn khai thác dữ liệu canvas đối với trang web này.">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Xem lịch sử">
 
@@ -379,7 +384,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "Hiện… không có thẻ đã đồng bộ!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Muốn xem thẻ từ các thiết bị khác của bạn ở đây?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Tùy chỉnh Đồng bộ">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Mở Tùy chỉnh Đồng bộ">
@@ -388,7 +392,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Đăng nhập vào Đồng bộ">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Quản lý các thiết bị…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Xem các thẻ trên thanh lề đã đồng bộ">
-
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Kết nối thiết bị khác">
 
 <!ENTITY appMenuRecentHighlights.label "Nổi bật gần đây">
@@ -588,6 +591,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "Gửi video qua email…">
 <!ENTITY emailVideoCmd.accesskey      "a">
+<!ENTITY emailAudioCmd.label          "Gửi âm thanh qua email…">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "Kích hoạt plugin này">
 <!ENTITY playPluginCmd.accesskey      "c">
@@ -601,6 +605,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageContentsCmd.accesskey  "y">
 <!ENTITY copyVideoURLCmd.label        "Sao chép địa chỉ video">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.label        "Sao chép địa chỉ âm thanh">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY copyEmailCmd.label           "Sao chép địa chỉ email">
 <!ENTITY copyEmailCmd.accesskey       "E">
@@ -795,7 +800,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Các thẻ đã đồng bộ">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Đăng nhập vào Firefox từ các thiết bị khác của bạn để xem các thẻ đó ở đây.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "Hiện… chưa có thẻ đã đồng bộ!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Muốn xem thẻ từ các thiết bị khác của bạn ở đây?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Đăng nhập để xem danh sách thẻ từ các thiết bị khác của bạn.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "Tài khoản của bạn cần được xác thực.">
@@ -805,7 +809,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Bật đồng bộ thẻ để xem danh sách thẻ từ các thiết bị khác của bạn.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Tìm các thẻ đã đồng bộ">
-
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Kết nối thiết bị khác">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
@@ -998,3 +1001,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "Chức năng về khả năng truy cập đã được bật">
+
+<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
+     The first <image> tag is replaced with the icon for the add-ons menu.
+     The second <image> tag is replaced with the icon for the toolbar menu. -->

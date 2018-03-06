@@ -37,10 +37,13 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Chúng tôi cố gắng cung cấp cho bạn sự lựa chọn và chỉ thu thập những gì chúng tôi cần để cung cấp và cải thiện &brandShortName; cho tất cả mọi người. Chúng tôi luôn xin phép trước khi thu thập thông tin cá nhân.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Chính sách riêng tư">
 
-<!ENTITY collectBrowserErrorsLearnMore.label "Tìm hiểu thêm">
-
 <!ENTITY alwaysSubmitCrashReports1.label  "Cho phép &brandShortName; gửi các báo cáo sự cố tới Mozilla">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+
+<!ENTITY collectBrowserErrors.label          "Cho phép &brandShortName; gửi báo cáo lỗi trình duyệt (bao gồm thông báo lỗi) cho Mozilla">
+<!ENTITY collectBrowserErrors.accesskey      "b">
+<!ENTITY collectBrowserErrorsLearnMore.label "Tìm hiểu thêm">
+
 <!ENTITY crashReporterLearnMore.label    "Tìm hiểu thêm">
 
 <!ENTITY networkTab.label                "Mạng">
@@ -48,8 +51,6 @@ available. -->
 <!ENTITY networkProxy.label              "Mạng lưới proxy">
 
 <!ENTITY connectionDesc.label            "Cách thức &brandShortName; kết nối vào Internet">
-
-<!ENTITY connectionSettingsLearnMore.label "Tìm hiểu thêm">
 <!ENTITY connectionSettings.label        "Thiết lập…">
 <!ENTITY connectionSettings.accesskey    "p">
 

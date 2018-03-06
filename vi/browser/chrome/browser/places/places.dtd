@@ -70,6 +70,7 @@
 <!ENTITY cmd.new_separator.label           "Ngăn cách Mới">
 <!ENTITY cmd.new_separator.accesskey       "N">
 
+<!ENTITY cmd.reloadLivebookmark.label      "Tải lại trang đánh dấu động">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "l">
 
 <!ENTITY cmd.moveBookmarks.label                  "Di chuyển…">

@@ -9,6 +9,7 @@
 
 <!ENTITY  proxyTitle.label              "Cấu hình các Proxy để truy cập vào Internet">
 
+<!ENTITY  proxyTitle.label2             "Cấu hình proxy để truy cập Internet">
 <!ENTITY  noProxyTypeRadio.label        "Không dùng proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "Dùng các thiết lập proxy của hệ thống">
