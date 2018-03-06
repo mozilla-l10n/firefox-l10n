@@ -53,8 +53,6 @@ available. -->
 <!ENTITY networkProxy.label              "وسيط الشبكة">
 
 <!ENTITY connectionDesc.label            "اضبط كيفية اتصال &brandShortName; بالإنترنت">
-
-<!ENTITY connectionSettingsLearnMore.label "اطّلع على المزيد">
 <!ENTITY connectionSettings.label        "الإعدادات…">
 <!ENTITY connectionSettings.accesskey    "ع">
 
@@ -69,6 +67,8 @@ available. -->
 <!ENTITY clearSiteData1.accesskey        "س">
 <!ENTITY siteDataSettings.label          "الإعدادات…">
 <!ENTITY siteDataSettings.accesskey      "ع">
+<!ENTITY siteDataSettings1.label         "أدِر البيانات…">
+<!ENTITY siteDataSettings1.accesskey     "د">
 <!ENTITY siteDataLearnMoreLink.label     "اطّلع على المزيد">
 
 <!-- LOCALIZATION NOTE:

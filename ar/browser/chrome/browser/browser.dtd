@@ -240,9 +240,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "لقد حجبت التنبيهات عن هذا الموقع.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "لقد حجبت الحفظ الدائم للبيانات عن هذا الموقع.">
 <!ENTITY urlbar.popupBlocked.tooltip             "لقد حجبت المنبثقات من هذا الموقع.">
-
 <!ENTITY urlbar.canvasBlocked.tooltip            "لقد منعت استخراج بيانات رقعة الرسم في هذا الموقع.">
 
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "لقد حجبت هذا الموقع من استخدام ملحقة أدوبي فلاش.">
 <!ENTITY urlbar.midiBlocked.tooltip              "لقد حجبنا عن هذا الموقع الوصول إلى MIDI.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "اعرض التأريخ">
@@ -388,7 +388,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "لم تُزامَن أي ألسنة… بعد">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "أتريد رؤية ألسنتك من الأجهزة الأخرى هنا؟">
 <!ENTITY appMenuRemoteTabs.openprefs.label "تفضيلات المزامنة">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "افتح تفضيلات «تزامُن»">
@@ -397,7 +396,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "لِج إلى «المزامنة»">
 <!ENTITY appMenuRemoteTabs.managedevices.label "أدِر الأجهزة…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "أظهر شريط الألسنة المزامَنة الجانبي">
-
 <!ENTITY appMenuRemoteTabs.connectdevice.label "صِلْ جهازا آخر">
 
 <!ENTITY appMenuRecentHighlights.label "آخر الأخبار المهمة">
@@ -806,7 +804,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "الألسنة المُزامنة">
 <!ENTITY syncedTabs.sidebar.noclients.label    "لِج إلى فيَرفُكس من أجهزتك الأخرى لعرض ألسنتهم هنا.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "لم تُزامَن أي ألسنة… بعد">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "أتريد رؤية ألسنتك من الأجهزة الأخرى هنا؟">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "لِج لعرض قائمة بالألسنة من أجهزتك الأخرى.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "يجب تأكيد حسابك.">
@@ -816,7 +813,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "فعّل مزامنة الألسنة لعرض قائمة بالألسنة من أجهزتك الأخرى.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "ابحث في الألسنة المُزامنة">
-
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "صِلْ جهازا آخر">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
