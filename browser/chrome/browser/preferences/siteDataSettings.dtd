@@ -4,7 +4,7 @@
 
 <!ENTITY     window.title                  "Баптаулар - Сайт деректері">
 
-<!ENTITY     window1.title                 "Баптаулар - Cookies файлдары және сайт деректері">
+<!ENTITY     window2.title                 "Cookies файлдары және сайт деректерін басқару">
 <!ENTITY     hostCol.label                 "Сайт">
 <!ENTITY     statusCol.label               "Қалып-күйі">
 <!ENTITY     cookiesCol.label              "Cookies файлдары">
