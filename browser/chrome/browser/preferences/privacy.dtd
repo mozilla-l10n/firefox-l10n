@@ -44,7 +44,11 @@
 <!ENTITY  acceptThirdParty2.pre.label     "Aceptar cookies de terceros">
 <!ENTITY  acceptThirdParty2.pre.accesskey "p">
 
+<!ENTITY  acceptCookies4.label          "Aceptar cookies y datos de los sitios web (recomendado)">
+<!ENTITY  acceptCookies4.accesskey      "A">
 
+<!ENTITY  blockCookies.label            "Bloquear cookies y datos del sitio (puede que algunos sitios no funcionen)">
+<!ENTITY  blockCookies.accesskey        "B">
 
 <!ENTITY  acceptThirdParty3.pre.label     "Aceptar cookies de terceros y datos del sitio">
 <!ENTITY  acceptThirdParty3.pre.accesskey "t">
@@ -82,6 +86,7 @@
 <!ENTITY  rememberActions.removeCookies.label "eliminar determinadas cookies">
 <!ENTITY  rememberActions.post.label          ".">
 
+<!ENTITY  rememberDescription1.label      "&brandShortName; recordará su historial de navegación, descargas, formularios e historial de búsquedas.">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; utilizará la misma configuración que para las búsquedas privadas y no recordará el historial mientras navegue por la web.">
 
