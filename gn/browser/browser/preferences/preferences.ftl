@@ -22,7 +22,7 @@ pref-page =
 search-input =
     .style = width: 15.4em
 policies-notice = { PLATFORM() ->
-       *[other] u organización ha desactivado la capacidad de cambiar algunas preferencias.
+       *[other] Nde atyguasu omboguéma ikatúva omambue heta jererohoryvéva.
     }
 pane-general-title = Tuichakue
 category-general =
