@@ -19,9 +19,9 @@
 <!ENTITY firstrun_data_subtext2 "Oprește imaginile pentru a consuma mai puțin trafic de date pe fiecare site pe care îl vizitezi.">
 <!ENTITY firstrun_sync_title "Sincronizare">
 <!ENTITY firstrun_sync_message2 "Continuă de unde ai rămas.">
-<!ENTITY firstrun_sync_subtext2 "Folosește Sincronizare pentru a găsi pe toate dispozitivele tale marcajele, parolele şi celelalte lucruri pe care le salvezi în &brandShortName;.">
+<!ENTITY firstrun_sync_subtext2 "Folosește Sync pentru a găsi pe toate dispozitivele tale marcajele, parolele şi celelalte lucruri pe care le salvezi în &brandShortName;.">
 <!ENTITY firstrun_signin_message "Conectează-te și începe">
-<!ENTITY firstrun_signin_button "Autentifică-te la Sincronizare">
+<!ENTITY firstrun_signin_button "Autentifică-te la Sync">
 <!ENTITY  onboard_start_button_browser "Începe navigarea">
 <!ENTITY firstrun_button_notnow "Nu chiar acum">
 <!ENTITY firstrun_button_next "Înainte">
