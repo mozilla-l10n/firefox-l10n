@@ -9,8 +9,8 @@
 <!ENTITY retry.label "Eha'ãjey">
 <!ENTITY returnToPreviousPage.label "Eguevi">
 <!ENTITY advanced.label "Opanungáva">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Ndaikatúi eike">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -18,8 +18,9 @@
 <!ENTITY deniedPortAccess.title "Ko kundaharenda ndaikatúi eipuru">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Mohendahavusu ndojejuhúiva">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Ehechajey kundaharape ndoguerekóipa jejavy ijehaípe <strong>ww</strong>.example.com <strong>www</strong>.example.com rendaguépe</li> <li>Ndaikatúiramo emyanyhẽ kuatiarogue, ehechajey jeikekatu nemohendaha ñanduti rehegua.</li> <li>Nemohendaha térã ñanduti oguerekóramo ñemo'ã peteĩ tatakytĩha térã proxy, ehecháke &brandShortName; oguerekópa ñemoneĩ oikekuaa hag̃ua ñandutípe.</li> </ul>">
+<!ENTITY dnsNotFound.pageTitle "Mohendahavusu ndojejuhúiva">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "Hmm. Oĩ apañuãi ejuhu hag̃ua ko tenda.">
 
 <!ENTITY fileNotFound.title "Marandurenda ndojejuhúiva">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Ehechajey marandurenda réra ndoguerekoiha jejavy ijehaípe, avei taiguasu ojepurukuévo.</li> <li>Ehechajey pe marandurenda noñemongu'éipa, oñembohéra ambue térã ñemboguepyréva.</li> </ul>">
@@ -35,8 +36,7 @@
 
 <!ENTITY openPortalLoginPage.label2 "Eike tembiapo ñepyrũ ñanduti kuatiaroguépe">
 
-<!ENTITY malformedURI.title "Pe kundaharape ndoikói">
-<!ENTITY malformedURI.longDesc "<ul> <li>Ñanduti kundaharape ojehai jepi kóicha <strong>http://www.example.com/</strong></li> <li>Ema'ẽjey eipuru porãpa barra ojero'áva tenonde gotyo (i.e. <strong>/</strong>).</li> </ul>">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY netInterrupt.title "Pe jeike ojejokóma">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
@@ -104,10 +104,10 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Marandu opapotaitéva: SSL_ERROR_UNSUPPORTED_VERSION">
+
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
-
 <!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; ndoikeséi <span id='wrongSystemTime_URL'/> oĩvai rupi aravopapaha ne mohendaha pegua ha ojoko hína jeike katu.</p> <p>Ne mohendaha oñemoĩ hína <span id='wrongSystemTime_systemDate'/> ramo, oĩ rangue hína <span id='wrongSystemTime_actualDate'/> ramo. Emyatyrõ hag̃ua ko apañuãi emoambue nde aravo ha arange ojuehe hag̃ua aravo tee rehe.</p>">
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; ndoikeséi <span id='wrongSystemTimeWithoutReference_URL'/> oĩvai rupi aravopapaha ne mohendaha pegua ha ojoko hína jeike katu.</p> <p>Ne mohendaha oñemoĩ hína <span id='wrongSystemTimeWithoutReference_systemDate'/> ramo. Emyatyrõ hag̃ua ko apañuãi, emoambue nde aravo ha arange ojuehe hag̃ua aravo tee rehe.</p>">
 
@@ -119,6 +119,7 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> oipuru tembipuru pyahu rekorosãrã ndoikovéimava ha oimeraẽva ombyaikuaáva. Peteĩ tekoñaña ikatu ohechauka marandu hekorosãha gua'ú. Pe ñanduti renda ñangarekohára omyatãraẽva'erã pe mohendahavusu oike mboyve tendápe.</p><p>Ayvu jejavy: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
 
 <!ENTITY prefReset.longDesc "Ne ñemboheko ñanduti rekorosãrã rehegua ikatu hína ojapo kóva. Emoĩporãsépa ñemboheko ijypyguáva rupi?">
 <!ENTITY prefReset.label "Embojevy ñemboheko ijypykuépe">
