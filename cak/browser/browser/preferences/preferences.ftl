@@ -21,6 +21,10 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
+policies-notice = { PLATFORM() ->
+        [windows] Ri amoloj xeruchüp rub'eyal richin yejal jujun taq cha'oj.
+       *[other] Ri amoloj xeruchüp rub'eyal richin yejal jujun taq ajowab'äl.
+    }
 pane-general-title = Chijun
 category-general =
     .tooltiptext = { pane-general-title }
