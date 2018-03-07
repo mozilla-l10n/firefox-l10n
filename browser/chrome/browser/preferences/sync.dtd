@@ -36,7 +36,7 @@
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Apparaatnaam">
 <!ENTITY changeSyncDeviceName2.label "Apparaatnaam wijzigen…">
-<!ENTITY changeSyncDeviceName2.accesskey "n">
+<!ENTITY changeSyncDeviceName2.accesskey "w">
 <!ENTITY cancelChangeSyncDeviceName.label "Annuleren">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "A">
 <!ENTITY saveChangeSyncDeviceName.label "Opslaan">

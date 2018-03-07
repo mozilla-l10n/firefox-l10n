@@ -25,6 +25,12 @@ pref-page =
 search-input =
     .style = width: 15.4em
 
+policies-notice =
+    { PLATFORM() ->
+        [windows] Uw organisatie heeft de mogelijkheid tot het wijzigen van enkele opties uitgeschakeld.
+       *[other] Uw organisatie heeft de mogelijkheid tot het wijzigen van enkele voorkeuren uitgeschakeld.
+    }
+
 pane-general-title = Algemeen
 category-general =
     .tooltiptext = { pane-general-title }
