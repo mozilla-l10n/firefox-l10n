@@ -390,7 +390,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Wilt u hier uw tabbladen van andere apparaten zien?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Synchronisatievoorkeuren">
-<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Synchronisatievoorkeuren openen">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Sync-voorkeuren openen">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Meld u aan om een lijst van tabbladen van uw andere apparaten weer te geven.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Uw account moet worden geverifieerd.">
 <!ENTITY appMenuRemoteTabs.signin.label "Aanmelden bij Sync">
