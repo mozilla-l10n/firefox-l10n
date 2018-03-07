@@ -5,8 +5,8 @@
 <!ENTITY addressbookWindow.title                        "Адрестік кітапша">
 <!ENTITY blankResultsPaneMessage.label                  "Бұл адрестік кітапша контакттарды тек іздеуден кейін көрсетеді">
 <!ENTITY localResultsOnlyMessage.label                  "Қашықтағы адрестік кітапшалардан контакттар іздеу басталмаса, көрсетілмейді">
-<!-- File Menu -->
 
+<!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Файл">
 <!ENTITY fileMenu.accesskey                             "Ф">
 <!ENTITY newMenu.label                                  "Жаңа">
@@ -40,8 +40,8 @@
 <!ENTITY printContactCmd.key                            "P">
 <!ENTITY printAddressBook.label                         "Адрестік кітапшаны баспаға шығару…">
 <!ENTITY printAddressBook.accesskey                     "А">
-<!-- Edit Menu -->
 
+<!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Түзету">
 <!ENTITY editMenu.accesskey                             "Т">
 <!ENTITY undoCmd.label                                  "Болдырмау">
@@ -85,8 +85,8 @@
 <!ENTITY contactPropertiesMenu.accesskey                "и">
 <!ENTITY mailingListPropertiesMenu.label                "Хаттарды тарату тізімінің қасиеттері">
 <!ENTITY mailingListPropertiesMenu.accesskey            "т">
-<!-- View Menu -->
 
+<!-- View Menu -->
 <!ENTITY viewMenu.label                                 "Түрі">
 <!ENTITY viewMenu.accesskey                             "р">
 <!ENTITY viewToolbarsMenu.label                         "Саймандар панельдері">
@@ -117,13 +117,16 @@ because displayed names don't have the comma in between. -->
 <!ENTITY displayNameCmd.accesskey                       "К">
 <!ENTITY sortMenu.label                                 "Бойынша сұрыптау">
 <!ENTITY sortMenu.accesskey                             "Б">
-<!-- Tools Menu -->
 
+<!-- Tools Menu -->
 <!ENTITY tasksMenu.label                                "Саймандар">
 <!ENTITY tasksMenu.accesskey                            "С">
 <!ENTITY messengerCmd.label                             "Пошта және жаңалықтар топтары">
 <!ENTITY messengerCmd.accesskey                         "П">
 <!ENTITY messengerCmd.commandkey                        "1">
+<!ENTITY addressBookCmd.label                           "Адрестік кітапша">
+<!ENTITY addressBookCmd.accesskey                       "а">
+<!ENTITY addressBookCmd.key                             "т">
 <!ENTITY searchAddressesCmd.label                       "Адрестерді іздеу…">
 <!ENTITY searchAddressesCmd.accesskey                   "з">
 <!ENTITY importCmd.label                                "Импорттау…">
@@ -134,8 +137,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY preferencesCmd2.accesskey                      "О">
 <!ENTITY preferencesCmdUnix.label                       "Параметрлер">
 <!ENTITY preferencesCmdUnix.accesskey                   "м">
-<!-- Address Book Toolbar and Context Menus -->
 
+<!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "Жаңа контакт">
 <!ENTITY newContactButton.accesskey                     "к">
 <!ENTITY newlistButton.label                            "Жаңа тізім">
@@ -159,8 +162,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY printButton.accesskey                          "с">
 <!ENTITY deleteButton2.label                            "Өшіру">
 <!ENTITY deleteButton2.accesskey                        "Ө">
-<!-- Address Book Toolbar Tooltips -->
 
+<!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Жаңа адрестік кітапша контактын жасау">
 <!ENTITY newlistButton.tooltip                          "Жаңа тізімді жасау">
 <!ENTITY editPropertiesButton.tooltip                   "Таңдалған нәрсені түзету">
@@ -170,18 +173,18 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "Пошта хабарламасын жіберу">
 <!ENTITY newIM.tooltip                                  "Лезде хабарламаны немесе чатты жіберу">
 <!ENTITY deleteButton2.tooltip                          "Таңдалған нәрсені өшіру">
+
 <!-- Dir Tree header -->
-
 <!ENTITY dirTreeHeader.label                            "Адрестік кітапшалар">
-<!-- Search Bar -->
 
+<!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Аты немесе эл. поштасы">
 <!ENTITY SearchNameOrEmail.accesskey                    "т">
 <!ENTITY advancedButton.tooltip                         "Кеңейтілген адресті іздеу">
 <!ENTITY quickSearchCmd.key                             "з">
 <!ENTITY searchItem.title "Жылдам іздеу">
-<!-- Results Pane -->
 
+<!-- Results Pane -->
 <!ENTITY Addrbook.label                                 "Адрестік кітапша">
 <!ENTITY Addrbook.accesskey                             "к">
 <!ENTITY GeneratedName.label                            "Аты">
@@ -216,9 +219,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY sortDescending.accesskey                       "К">
 <!ENTITY _PhoneticName.label                            "Қалайша айтылады">
 <!ENTITY _PhoneticName.accesskey                        "й">
+
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
-
 <!ENTITY contact.heading                                "Контакт">
 <!ENTITY home.heading                                   "Үй">
 <!ENTITY other.heading                                  "Басқа">
@@ -231,11 +234,11 @@ because displayed names don't have the comma in between. -->
 <!-- For Map It! -->
 <!ENTITY mapItButton.label                              "Картаны алу">
 <!ENTITY mapIt.tooltip                                  "Бұл адрес үшін интернеттен картаны көрсету">
+
 <!-- Status Bar -->
-
 <!ENTITY statusText.label                               "">
-<!--  Mac OS X Window Menu -->
 
+<!--  Mac OS X Window Menu -->
 <!ENTITY windowMenu.label                               "Терезе">
 <!ENTITY minimizeWindow.label                           "Шақтау">
 <!ENTITY minimizeWindow.key                             "m">
