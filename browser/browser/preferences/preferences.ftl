@@ -21,6 +21,10 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
+policies-notice = { PLATFORM() ->
+        [windows] Waša organizacija je změny někotrych nastajenjow znjemóžnił.
+       *[other] Waša organizacija je změny někotrych nastajenjow znjemóžnił.
+    }
 pane-general-title = Powšitkowny
 category-general =
     .tooltiptext = { pane-general-title }
