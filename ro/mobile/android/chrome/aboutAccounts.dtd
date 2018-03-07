@@ -4,7 +4,7 @@
 
 <!ENTITY aboutAccounts.connected.title "Conturi Firefox">
 <!ENTITY aboutAccounts.connected.description "Ești conectat ca">
-<!ENTITY aboutAccounts.syncPreferences.label "Atinge aici pentru a verifica setările de Sincronizare">
+<!ENTITY aboutAccounts.syncPreferences.label "Atinge aici pentru a verifica setările de sincronizare">
 
 <!ENTITY aboutAccounts.noConnection.title "Fără conexiune la internet">
 <!ENTITY aboutAccounts.retry.label "Încearcă din nou">
