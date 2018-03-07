@@ -2,8 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutAccounts.connected.title "Jabchu Firefox">
+<!ENTITY aboutAccounts.connected.description "Kwee muli mchpach">
+<!ENTITY aboutAccounts.syncPreferences.label "Kamyu sam mchublwiyuha m'uhikyawa yal mtawin">
 
+<!ENTITY aboutAccounts.noConnection.title "Kos internet pem">
+<!ENTITY aboutAccounts.retry.label "Mtkweek mnamaan">
 
-
-
-
+<!ENTITY aboutAccounts.restrictedError.title "Jabch yutem">
+<!ENTITY aboutAccounts.restrictedError.description "Oaa mul yal kos Firefix jabchu myoob kyaaw yutem.">

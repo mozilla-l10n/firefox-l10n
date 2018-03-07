@@ -72,16 +72,25 @@
 <!-- Localization note: Only affects background syncing, user initiated
      syncs will still be done regardless of the connection -->
 <!ENTITY fxaccount_pref_sync_use_metered_summary2 'Mŕboo kos &brandShortName; amchu t\&apos;tkya kyoha chublwiiyb temhikyawa'>
+<!ENTITY fxaccount_status_legal 'K\&apos;mir mir knaabch' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
+<!ENTITY fxaccount_status_linktos2 'Kabwik chbtaarch'>
+<!ENTITY fxaccount_status_linkprivacy2 'Kabwik yemi wii jan yuwuha'>
+<!ENTITY fxaccount_remove_account 'Chpachu ujiiñ &ellipsis;'>
 
+<!ENTITY fxaccount_remove_account_dialog_title2 'Sync chpachu ujiñ?'>
+<!ENTITY fxaccount_remove_account_dialog_message2 'M\&apos;amu haypaayt dispositivyal yok picha, yuso kos mjabuham chublwwiytema.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast2 'Firefox jabu &formatS;'>
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
+<!ENTITY fxaccount_remove_account_dialog_action_confirm 'Chpachu ujiiñ'>
 
+<!ENTITY fxaccount_enable_debug_mode 'Tkryewu chubowu'>
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
@@ -92,9 +101,15 @@
      Account} Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
      Account. -->
+<!ENTITY fxaccount_options_title '&syncBrand.shortName.label; tewu nyaam trech chu'>
+<!ENTITY fxaccount_options_configure_title '&syncBrand.shortName.label; num mchmii'>
 
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; num mchmii'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 '&formatS; mulik mnamaan hikyawa sal mtawiin'>
 
+<!ENTITY fxaccount_sync_finish_migrating_notification_title 'Yak mchiwu pay mwiir &syncBrand.shortName.label;?'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text '&formatS; mulik mnamaan hikyawa sal mtawiin'>
