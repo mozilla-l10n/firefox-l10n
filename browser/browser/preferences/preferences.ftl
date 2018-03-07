@@ -21,6 +21,10 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
+policies-notice = { PLATFORM() ->
+        [windows] A szervezete letiltotta egyes beállítások módosítását.
+       *[other] A szervezete letiltotta egyes beállítások módosítását.
+    }
 pane-general-title = Általános
 category-general =
     .tooltiptext = { pane-general-title }
