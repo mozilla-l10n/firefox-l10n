@@ -191,5 +191,5 @@ functionality specific to thunderbird. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> користи застарелу безбедносну технологију подложну нападима. Нападач лако може открити ваше поверљиве податке. Администратор странице мора поправити сервер пре него што посетите страницу.</p><p>Код грешке: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
-<!ENTITY blockedByPolicyTemp.title "Страница је блокирана">
-<!ENTITY blockedByPolicyTemp.longDesc "<p>Ваш администратор је забранио приступ.</p>">
+
+<!ENTITY blockedByPolicy.title "Блокирана страница">
