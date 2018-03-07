@@ -127,6 +127,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "a">
 <!ENTITY toggleReaderMode.key "R">
 
+<!ENTITY toggleReaderMode.win.keycode "VK_F9">
+
 <!ENTITY fxaSignIn.label "Mag Sign in sa &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Buksan ang Pagpipilian ng &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Muling kumonekta sa &syncBrand.shortName.label;">
@@ -228,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Pangasiwaan ang pahinang pagsasalin">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Pamahalaan ang paggamit ng DRM software">
 
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Hinarangan mo ang iyong camera para sa website na ito.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Na-block mo ang iyong mikropono para sa website na ito.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Na-block mo ang website na ito mula sa pagbabahagi ng iyong screen.">
@@ -235,8 +238,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Na-block mo ang mga notification para sa website na ito.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Na-block mo ang paulit-ulit na imbakan para sa website na ito.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Hinarangan mo ang mga pop-up sa website na ito.">
-
 <!ENTITY urlbar.canvasBlocked.tooltip            "Na-block mo ang data extraction ng canvas para sa website na ito.">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Ipakita ang kasaysayan">
 
@@ -381,7 +384,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "Walang naka-sync na mga tab ... pa!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Gusto mong makita ang iyong mga tab mula sa iba pang mga device dito?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "I-sync ang Preferences">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Mag-sign in upang tingnan ang isang listahan ng mga tab mula sa iyong iba pang mga device.">
@@ -389,7 +391,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Mag-sign in sa Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Pamahalaan ang mga Device...">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Tingnan ang mga Naka-sync Tab Sidebar">
-
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Ikonekta ang Isa pang Device">
 
 <!ENTITY appMenuRecentHighlights.label "Kamakailang Mga Tampok">
@@ -798,7 +799,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Mga Synced na Tab">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Mag-sign in sa Firefox mula sa iyong iba pang mga device upang tingnan ang kanilang mga tab dito.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "Wala pang synced... tabs!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Gusto mong makita ang iyong mga tab mula sa iba pang mga device dito?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Mag sign-in para makita ang listahan ng mga tab galing sa iba mo pang devices.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "Ang iyong account ay kailangang ma-verify.">
@@ -808,7 +808,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Paganahin ang tab syncing para makita ang listahan ng tabs na galing sa iba mo pang devices.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Maghanap ng mga naka-sync na tab">
-
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Ikonekta ang Isa pang Device">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
@@ -1001,3 +1000,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "Pinagana ang Mga Tampok ng Accessibility">
+
+<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
+     The first <image> tag is replaced with the icon for the add-ons menu.
+     The second <image> tag is replaced with the icon for the toolbar menu. -->

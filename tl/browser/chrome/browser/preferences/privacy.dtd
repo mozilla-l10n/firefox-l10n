@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Proteksyon sa Pagsubaybay">
-<!ENTITY  trackingProtection2.description      "Ang pagsubaybay ay ang koleksyon ng iyong data sa pag-browse sa maramihang mga website. Maaaring gamitin ang pagsubaybay upang bumuo ng profile at display content batay sa iyong pag-browse at personal na impormasyon.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "Gamitin ang Proteksyon sa Pagsubaybay upang harangan ang mga kilalang tracker">
 <!ENTITY  trackingProtection3.description      "Ang Proteksyon sa Pagsubaybay ay naghaharang sa mga online na tracker na nagkokolekta ng iyong impormasyon tungkol sa pag-browse sa maramihang mga website.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "Gamitin ang Proteksyon sa Pagsubaybay upang harangan ang mga kilalang tracker">
 <!ENTITY  trackingProtectionAlways.label       "Palagi">
@@ -13,7 +11,6 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "l">
 <!ENTITY  trackingProtectionNever.label        "Hindi Kailanman">
 <!ENTITY  trackingProtectionNever.accesskey    "n">
-<!ENTITY  trackingProtectionLearnMore.label    "Matuto ng higit pa">
 <!ENTITY  trackingProtectionLearnMore2.label    "Matuto nang higit pa tungkol sa Proteksyon sa Pagsubaybay at iyong pagiging pribado">
 <!ENTITY  trackingProtectionExceptions.label   "Mga eksepsyon…">
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
@@ -24,11 +21,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "Matuto ng higit pa">
 <!ENTITY changeBlockList2.label               "Bagohin ang Listahan ng mga Bina-block…">
 <!ENTITY changeBlockList2.accesskey           "C">
-
-<!ENTITY  doNotTrack.description        "Magpadala ng mga website ng signal na ”Huwag Subaybayan” na hindi mo gustong masubaybayan">
-<!ENTITY  doNotTrack.learnMore.label    "Matuto ng higit pa">
-<!ENTITY  doNotTrack.default.label      "Lamang kapag gumagamit ng Pagsubaybay na Proteksyon">
-<!ENTITY  doNotTrack.always.label       "Palagi">
 
 <!ENTITY  history.label                 "Kasaysayan">
 <!ENTITY  permissions.label             "Mga pahintulot">
@@ -51,6 +43,12 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "Tanggapin ang mga cookies ng third-party">
 <!ENTITY  acceptThirdParty2.pre.accesskey "y">
+
+<!ENTITY  acceptCookies4.accesskey      "A">
+
+<!ENTITY  blockCookies.accesskey        "B">
+
+<!ENTITY  acceptThirdParty3.pre.accesskey "y">
 <!ENTITY  acceptThirdParty.always.label   "Palagi">
 <!ENTITY  acceptThirdParty.never.label    "Huwag kailanman">
 <!ENTITY  acceptThirdParty.visited.label  "Mula sa binisita">
@@ -85,6 +83,7 @@
 <!ENTITY  rememberActions.removeCookies.label "alisin ang mga indibidwal na cookies">
 <!ENTITY  rememberActions.post.label          ".">
 
+
 <!ENTITY  dontrememberDescription.label  "Gagamit ng parehong settings ng private browsing ang &brandShortName;, at hindi nito tatandaan ang kasaysayan ng pag-browse ninyo ng Web.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
@@ -92,6 +91,8 @@
 <!ENTITY  dontrememberActions.pre.label          "Maaari na gusto mo rin na ">
 <!ENTITY  dontrememberActions.clearHistory.label "Burahin ang lahat ng kasalukuyang kasaysayan">
 <!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  clearHistoryButton.accesskey   "s">
 
 <!ENTITY  privateBrowsingPermanent2.label "Laging gumamit ng pribadong mode ng pagba-browse">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">

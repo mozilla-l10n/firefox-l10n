@@ -37,11 +37,13 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Nagsusumikap kami na magbigay sa iyo ng mga pagpipilian at mangolekta lamang kung ano ang kailangan namin upang magbigay at pagbutihin ang &brandShortName; para sa lahat. Lagi kaming humihingi ng pahintulot bago matanggap ang personal na impormasyon.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Abiso pang Sarilinan">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "Payagan ang &brandShortName; na magpadala ng mga ulat ng pag-crash sa Mozilla">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+
 <!ENTITY collectBrowserErrors.accesskey      "b">
 <!ENTITY collectBrowserErrorsLearnMore.label "Matuto ng higit pa">
 
-<!ENTITY alwaysSubmitCrashReports1.label  "Payagan ang &brandShortName; na magpadala ng mga ulat ng pag-crash sa Mozilla">
-<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+<!ENTITY sendBackloggedCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Karagdagang kaalaman">
 
 <!ENTITY networkTab.label                "Network">
@@ -49,8 +51,6 @@ available. -->
 <!ENTITY networkProxy.label              "Proxy ng Network">
 
 <!ENTITY connectionDesc.label            "I-configure kung paano kokonekta ang &brandShortName; sa Internet">
-
-<!ENTITY connectionSettingsLearnMore.label "Matuto ng higit pa">
 <!ENTITY connectionSettings.label        "Settings…">
 <!ENTITY connectionSettings.accesskey    "e">
 
@@ -60,8 +60,10 @@ available. -->
 <!ENTITY siteData.label                  "Datus ng Site">
 <!ENTITY clearSiteData.label             "Burahin ang lahat na Data">
 <!ENTITY clearSiteData.accesskey         "l">
+<!ENTITY clearSiteData1.accesskey        "l">
 <!ENTITY siteDataSettings.label          "Mga pagtatakda…">
 <!ENTITY siteDataSettings.accesskey      "i">
+<!ENTITY siteDataSettings1.accesskey     "M">
 <!ENTITY siteDataLearnMoreLink.label     "Karagdagang kaalaman">
 
 <!-- LOCALIZATION NOTE:
