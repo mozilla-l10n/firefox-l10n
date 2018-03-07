@@ -37,12 +37,15 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Pyrimme antamaan sinulle vapauden valita ja keräämään vain tietoja, joita tarvitsemme voidaksemme tarjota &brandShortName;in kaikille ja parantaa sitä. Kysymme aina lupaa ennen kuin vastaanotamme henkilötietoja.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Tietosuojakäytäntö">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "Salli, että &brandShortName; lähettää kaatumisilmoitukset Mozillalle">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "e">
+
 <!ENTITY collectBrowserErrors.label          "Salli, että &brandShortName; lähettää selaimen virheraportit (virheilmoitukset mukaan lukien) Mozillalle">
 <!ENTITY collectBrowserErrors.accesskey      "v">
 <!ENTITY collectBrowserErrorsLearnMore.label "Lue lisää">
 
-<!ENTITY alwaysSubmitCrashReports1.label  "Salli, että &brandShortName; lähettää kaatumisilmoitukset Mozillalle">
-<!ENTITY alwaysSubmitCrashReports1.accesskey "e">
+<!ENTITY sendBackloggedCrashReports.label  "Salli, että &brandShortName; lähettää lähettämättömät kaatumisilmoitukset puolestasi">
+<!ENTITY sendBackloggedCrashReports.accesskey "e">
 <!ENTITY crashReporterLearnMore.label    "Lue lisää">
 
 <!ENTITY networkTab.label                "Verkko">
@@ -50,8 +53,6 @@ available. -->
 <!ENTITY networkProxy.label              "Verkon välityspalvelin">
 
 <!ENTITY connectionDesc.label            "Muokkaa &brandShortName;in verkkoyhteysasetuksia">
-
-<!ENTITY connectionSettingsLearnMore.label "Lue lisää">
 <!ENTITY connectionSettings.label        "Asetukset…">
 <!ENTITY connectionSettings.accesskey    "A">
 
@@ -61,8 +62,13 @@ available. -->
 <!ENTITY siteData.label                  "Sivustojen tallentamat tiedot">
 <!ENTITY clearSiteData.label             "Tyhjennä kaikki tiedot">
 <!ENTITY clearSiteData.accesskey         "k">
+<!ENTITY siteData1.label                 "Evästeet ja sivustojen tallentamat tiedot">
+<!ENTITY clearSiteData1.label            "Tyhjennä tiedot…">
+<!ENTITY clearSiteData1.accesskey        "y">
 <!ENTITY siteDataSettings.label          "Asetukset…">
 <!ENTITY siteDataSettings.accesskey      "e">
+<!ENTITY siteDataSettings1.label         "Hallitse tietoja…">
+<!ENTITY siteDataSettings1.accesskey     "H">
 <!ENTITY siteDataLearnMoreLink.label     "Lue lisää">
 
 <!-- LOCALIZATION NOTE:
