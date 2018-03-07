@@ -38,6 +38,7 @@
 
 <!ENTITY saveFileCmd.label            "Salvează">
 <!ENTITY saveFileCmd.accesskey        "S">
+<!ENTITY saveFileCmd.commandkey       "s">
 
 <!ENTITY saveFileAsCmd.label          "Salvează ca…">
 <!ENTITY saveFileAsCmd.accesskey      "A">
@@ -55,21 +56,28 @@
 <!ENTITY highlightTrailingSpace.accesskey "H">
 
 <!ENTITY largerFont.accesskey         "a">
- <!-- + is above this key on many keyboards -->
+<!ENTITY largerFont.commandkey        "+">
+<!ENTITY largerFont.commandkey2       "="> <!-- + is above this key on many keyboards -->
 
 <!ENTITY smallerFont.accesskey        "M">
+<!ENTITY smallerFont.commandkey       "-">
 
 <!ENTITY normalSize.label             "Mărime normală">
 <!ENTITY normalSize.accesskey         "N">
+<!ENTITY normalSize.commandkey        "0">
 
 <!ENTITY editMenu.accesskey           "E">
 
 <!ENTITY run.accesskey                "R">
+<!ENTITY run.key                      "r">
 
 <!ENTITY inspect.accesskey            "I">
+<!ENTITY inspect.key                  "i">
 
 <!ENTITY display.accesskey            "D">
+<!ENTITY display.key                  "l">
 
+<!ENTITY pprint.key                   "p">
 <!ENTITY pprint.accesskey             "P">
 
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
@@ -116,6 +124,7 @@
   -  the browser Error Console, the key should be identical to the property of
   -  the same name in browser.dtd.
   -->
+<!ENTITY errorConsoleCmd.commandkey   "j">
 
 <!-- LOCALIZATION NOTE (evalFunction.label): This command allows the developer
   -  to evaluate the top-level function that the cursor is currently at.

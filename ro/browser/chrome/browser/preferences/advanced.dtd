@@ -41,6 +41,7 @@ available. -->
 <!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 
 <!ENTITY collectBrowserErrors.label          "Permite-i lui &brandShortName; să trimită rapoarte de eroare ale browserului (inclusiv mesajele erorilor) către Mozilla">
+<!ENTITY collectBrowserErrors.accesskey      "b">
 <!ENTITY collectBrowserErrorsLearnMore.label "Află mai multe">
 
 <!ENTITY sendBackloggedCrashReports.label  "Permite-i lui &brandShortName; să trimită în numele tău rapoarte de defecțiuni înregistrate în jurnal">
@@ -52,8 +53,6 @@ available. -->
 <!ENTITY networkProxy.label              "Proxy pentru rețea">
 
 <!ENTITY connectionDesc.label            "Configurează modul în care &brandShortName; se conectează la internet">
-
-<!ENTITY connectionSettingsLearnMore.label "Află mai multe">
 <!ENTITY connectionSettings.label        "Setări…">
 <!ENTITY connectionSettings.accesskey    "e">
 
@@ -63,10 +62,13 @@ available. -->
 <!ENTITY siteData.label                  "Date privind site-urile">
 <!ENTITY clearSiteData.label             "Șterge toate datele">
 <!ENTITY clearSiteData.accesskey         "l">
-<!ENTITY siteData1.label                 "Cookie-uri și datele site-urilor">
-<!ENTITY clearSiteData1.label            "Șterge datele…">
 <!ENTITY siteDataSettings.label          "Setări…">
 <!ENTITY siteDataSettings.accesskey      "e">
+<!ENTITY siteData1.label                 "Cookie-uri și datele site-urilor">
+<!ENTITY clearSiteData1.label            "Șterge datele…">
+<!ENTITY clearSiteData1.accesskey        "l">
+<!ENTITY siteDataSettings1.label         "Gestionează datele…">
+<!ENTITY siteDataSettings1.accesskey     "M">
 <!ENTITY siteDataLearnMoreLink.label     "Află mai multe">
 
 <!-- LOCALIZATION NOTE:
