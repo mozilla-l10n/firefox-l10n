@@ -111,6 +111,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "Informații privind pagina">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.accesskey "L">
 <!ENTITY mirrorTabCmd.label "Duplică fila">
 <!ENTITY mirrorTabCmd.accesskey "M">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -125,6 +126,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Afișează toate filele">
 <!ENTITY showAllTabsCmd.accesskey "a">
 <!ENTITY toggleReaderMode.key "R">
+
+<!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "Autentifică-te la &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Deschide preferințele pentru &syncBrand.shortName.label;">
@@ -227,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Gestionează traducerea paginii">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Gestionează utilizarea de software DRM">
 
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Ai blocat camera pentru acest site web.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Ai blocat microfonul pentru acest site web.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Ai blocat acest site web să îți partajeze ecranul.">
@@ -234,8 +238,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ai blocat notificările pentru acest site web.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Ai blocat stocarea persistentă de date pentru acest site web.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Ai blocat ferestrele pop-up pentru acest site.">
-
 <!ENTITY urlbar.canvasBlocked.tooltip            "Ai blocat extragerea de date canvas pentru acest site.">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Afișează istoricul">
 
@@ -380,15 +384,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "Nicio filă sincronizată…încă!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Vrei să vezi filele de pe celelalte dispozitive aici?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferințe de sincronizare">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Deschide preferințele Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Autentifică-te pentru a vedea o listă de file de pe celelalte dispozitive.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Contul tău trebuie verificat.">
-<!ENTITY appMenuRemoteTabs.signin.label "Autentifică-te la Sincronizare">
+<!ENTITY appMenuRemoteTabs.signin.label "Autentifică-te la Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Gestionează dispozitivele…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Vezi bara laterală cu file sincronizate">
-
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Conectează alt dispozitiv">
 
 <!ENTITY appMenuRecentHighlights.label "Evidențieri recente">
@@ -797,17 +800,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "File sincronizate">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Autentifică-te în Firefox de pe alte dispozitive pentru a vedea filele lor aici.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "Nicio filă sincronizată…încă!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Vrei să vezi filele de pe celelalte dispozitive aici?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Autentifică-te pentru a vedea o listă de file de pe celelalte dispozitive.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "Contul tău trebuie verificat.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Nicio filă deschisă">
-<!ENTITY syncedTabs.sidebar.openprefs.label    "Deschide preferințele pentru &syncBrand.shortName.label;">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "Deschide preferințele &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Activează sincronizarea filelor pentru a vedea o listă de file de celelalte dispozitive ale tale.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Caută în filele sincronizate">
-
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Conectează alt dispozitiv">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
@@ -1000,3 +1001,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "Funcţii de accesibilitate activate">
+
+<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
+     The first <image> tag is replaced with the icon for the add-ons menu.
+     The second <image> tag is replaced with the icon for the toolbar menu. -->
