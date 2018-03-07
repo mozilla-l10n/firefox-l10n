@@ -422,7 +422,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "Reporto de sanitate de &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "Comparti datos con &vendorShortName; super tu sanitate de navigator e adjuta te comprehender le performance del navigator tue">
-<!ENTITY datareporting_abouthr_title "Vider mi reporto de sanitate">
 <!ENTITY datareporting_telemetry_title "Telemetria">
 <!ENTITY datareporting_telemetry_summary "Comparti datos de uso, hardware, e personalisationes re tu navigator con &vendorShortName; pro nos adjutar a render &brandShortName; melior">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; submitte le reportos de collapso pro adjutar &vendorShortName; a facer tu navigator plus stabile e secur">
@@ -812,6 +811,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 <!ENTITY unsupported_sdk_version "Pardono! Iste &brandShortName; non functionara in iste apparato (&formatS1;,&formatS2;). Per favor discarga le version correcte.">
+
+<!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
+<!ENTITY corrupt_apk "Incapace a aperir &brandShortName;. Per favor reinstalla lo e retenta.">
 
 <!ENTITY eol_notification_title2 "&brandShortName; non essera plus actualisante">
 <!ENTITY eol_notification_summary "Tocca pro apprender plus">
