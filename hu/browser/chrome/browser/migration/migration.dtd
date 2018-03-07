@@ -21,6 +21,10 @@
 <!ENTITY importFromCanary.accesskey     "n">
 <!ENTITY importFromChrome.label         "Chrome">
 <!ENTITY importFromChrome.accesskey     "C">
+<!ENTITY importFromChromeBeta.label     "Chrome béta">
+<!ENTITY importFromChromeBeta.accesskey "b">
+<!ENTITY importFromChromeDev.label      "Chrome fejlesztői">
+<!ENTITY importFromChromeDev.accesskey  "f">
 <!ENTITY importFromChromium.label       "Chromium">
 <!ENTITY importFromChromium.accesskey   "u">
 <!ENTITY importFromFirefox.label        "Firefox">
