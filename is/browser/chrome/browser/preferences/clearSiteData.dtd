@@ -6,7 +6,7 @@
 <!ENTITY window.width                 "35em">
 
 <!ENTITY window.description           "Ef þú hreinsar út allar smákökur og gögn sem eru geymd af &brandShortName; gæti það orðið til þess að þú verðir skráður út af vefsvæðum og ótengd gögn verði fjarlægð. Hreinsum á skyndinminni hefur ekki áhrif á innskráningar.">
-<!ENTITY windowClose.key              "þ">
+<!ENTITY windowClose.key              "w">
 
 <!ENTITY clearSiteData.label          "Smákökur og gögn vefsvæðis">
 <!ENTITY clearSiteData.accesskey      "S">
