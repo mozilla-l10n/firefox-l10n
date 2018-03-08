@@ -128,6 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "в">
 <!ENTITY toggleReaderMode.key "R">
 
+<!ENTITY toggleReaderMode.win.keycode "VK_F9">
+
 <!ENTITY fxaSignIn.label "Войти в Синхронизацию">
 <!ENTITY fxaSignedIn.tooltip "Открыть настройки Синхронизации">
 <!ENTITY fxaSignInError.label "Снова подсоединиться к Синхронизации">
@@ -229,6 +231,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Управление переводом страницы">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Управление запуском программы DRM">
 
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Открыть MIDI-панель">
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Вы заблокировали доступ этого веб-сайта к вашей камере.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Вы заблокировали доступ этого веб-сайта к вашему микрофону.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Вы заблокировали доступ этого веб-сайта к вашему экрану.">
@@ -236,8 +240,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Вы заблокировали уведомления с этого веб-сайта.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Вы заблокировали доступ этого веб-сайта к постоянному хранилищу.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Вы заблокировали всплывающие окна с этого сайта.">
-
 <!ENTITY urlbar.canvasBlocked.tooltip            "Вы заблокировали извлечение данных canvas с этого веб-сайта.">
+
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "Вы запретили этому веб-сайту использовать плагин Adobe Flash.">
+<!ENTITY urlbar.midiBlocked.tooltip              "Вы заблокировали доступ этого веб-сайта к MIDI.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Показать историю">
 
@@ -382,7 +388,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "Пока здесь нет облачных вкладок!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Хотите увидеть здесь ваши вкладки с других устройств?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Настройки синхронизации">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Открыть настройки синхронизации">
@@ -391,7 +396,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Войти в Синхронизацию">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Управление устройствами…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Показать боковую панель облачных вкладок">
-
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Подключить другое устройство">
 
 <!ENTITY appMenuRecentHighlights.label "Последнее Избранное">
@@ -800,7 +804,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Облачные вкладки">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Войдите в Firefox на других устройствах, чтобы увидеть здесь их вкладки.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "Пока здесь нет облачных вкладок!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Хотите увидеть здесь ваши вкладки с других устройств?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Войдите, чтобы увидеть список вкладок с других устройств.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "Ваш аккаунт должен быть подтверждён.">
@@ -810,7 +813,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Включите синхронизацию вкладок, чтобы увидеть список вкладок с других устройств.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Поиск облачных вкладок">
-
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Подключить другое устройство">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
