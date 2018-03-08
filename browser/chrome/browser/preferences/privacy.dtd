@@ -44,10 +44,13 @@
 <!ENTITY  acceptThirdParty2.pre.label     "Aceptar cookies de terceros">
 <!ENTITY  acceptThirdParty2.pre.accesskey "y">
 
+<!ENTITY  acceptCookies4.label          "Aceptar cookies y datos de sitios (recomendado)">
 <!ENTITY  acceptCookies4.accesskey      "A">
 
+<!ENTITY  blockCookies.label            "Bloquear cookies y datos de sitios (puede hacer que algunos sitios no funcionen)">
 <!ENTITY  blockCookies.accesskey        "B">
 
+<!ENTITY  acceptThirdParty3.pre.label     "Aceptar cookies y datos de sitio de terceros">
 <!ENTITY  acceptThirdParty3.pre.accesskey "y">
 <!ENTITY  acceptThirdParty.always.label   "Siempre">
 <!ENTITY  acceptThirdParty.never.label    "Nunca">
@@ -83,6 +86,7 @@
 <!ENTITY  rememberActions.removeCookies.label "remover cookies individuales">
 <!ENTITY  rememberActions.post.label          ".">
 
+<!ENTITY  rememberDescription1.label      "&brandShortName; recordará su historial de navegación, descargas, formularios y de búsquedas.">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; usará las mismas configuraciones que la navegación privada, y no recordará historial alguno de páginas que visites.">
 
