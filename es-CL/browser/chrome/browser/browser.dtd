@@ -231,6 +231,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Gestionar traducción de página">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Gestionar uso de software DRM">
 
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Abra panel MIDI">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Has bloqueado tu cámara para este sitio.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Has bloqueado tu micrófono para este sitio.">
@@ -239,9 +240,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Has bloqueado las notificaciones para este sitio.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Has bloqueado el almacenamiento persistente para este sitio.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Bloqueaste las ventanas emergentes para este sitio web.">
-
 <!ENTITY urlbar.canvasBlocked.tooltip            "Has bloqueado la extracción de datos de canvas para este sitio.">
 
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "Has bloqueado a este sitio el uso del complemento Adobe Flash Player.">
+<!ENTITY urlbar.midiBlocked.tooltip              "Has bloqueado el acceso MIDI para este sitio.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mostrar historial">
 
@@ -386,7 +388,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "No hay pestañas sincronizadas… ¡por el momento!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "¿Te gustaría ver las pestañas de tus otros dispositivos aquí?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferencias de sincronización">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Abrir preferencias de Sync">
@@ -395,7 +396,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Conectarse a Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Administrar servicios…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Ver barra lateral con las pestañas sincronizadas">
-
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Conectar otro dispositivo">
 
 <!ENTITY appMenuRecentHighlights.label "Destacados recientes">
@@ -804,7 +804,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Pestañas sincronizadas">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Conéctate a Firefox desde tus otros dispositivos para ver esas pestañas aquí.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "No hay pestañas sincronizadas… ¡por el momento!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "¿Te gustaría ver las pestañas de tus otros dispositivos aquí?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Conéctate para ver una lista de las pestañas de tus otros dispositivos.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "Tu cuenta necesita ser verificada.">
@@ -814,7 +813,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Activa la sincronización de pestañas para ver una lista de las pestañas de tus otros dispositivos.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Buscar pestañas sincronizadas">
-
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Conectar otro dispositivo">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
@@ -1011,3 +1009,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
+<!ENTITY addonPostInstallMessage.label "Gestiona tus complementos haciendo clic en <image class='addon-addon-icon'/> en el menú <image class='addon-toolbar-icon'/>.">

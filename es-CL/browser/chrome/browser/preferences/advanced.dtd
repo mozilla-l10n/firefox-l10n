@@ -37,12 +37,15 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Nos esforzamos por proveerte con opciones y recolectar solo lo que necesitamos para proveer y mejorar &brandShortName; para todos. Siempre solicitamos permiso antes de recibir información personal.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Política de privacidad">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "Permitir a &brandShortName; enviar informes de fallos a Mozilla">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+
 <!ENTITY collectBrowserErrors.label          "Permitir a &brandShortName; enviar reportes de errores (incluyendo mensajes de error) a Mozilla">
 <!ENTITY collectBrowserErrors.accesskey      "b">
 <!ENTITY collectBrowserErrorsLearnMore.label "Aprender más">
 
-<!ENTITY alwaysSubmitCrashReports1.label  "Permitir a &brandShortName; enviar informes de fallos a Mozilla">
-<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+<!ENTITY sendBackloggedCrashReports.label  "Permitir a &brandShortName; enviar reportes de fallos acumulados a tu nombre">
+<!ENTITY sendBackloggedCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Aprender más">
 
 <!ENTITY networkTab.label                "Red">
@@ -50,8 +53,6 @@ available. -->
 <!ENTITY networkProxy.label              "Proxy de red">
 
 <!ENTITY connectionDesc.label            "Configurar cómo &brandShortName; se conecta a Internet">
-
-<!ENTITY connectionSettingsLearnMore.label "Aprender más">
 <!ENTITY connectionSettings.label        "Configuraciones…">
 <!ENTITY connectionSettings.accesskey    "e">
 
@@ -63,6 +64,11 @@ available. -->
 <!ENTITY clearSiteData.accesskey         "l">
 <!ENTITY siteDataSettings.label          "Ajustes…">
 <!ENTITY siteDataSettings.accesskey      "i">
+<!ENTITY siteData1.label                 "Cookies y datos de sitio">
+<!ENTITY clearSiteData1.label            "Limpiar datos…">
+<!ENTITY clearSiteData1.accesskey        "l">
+<!ENTITY siteDataSettings1.label         "Gestionar datos…">
+<!ENTITY siteDataSettings1.accesskey     "M">
 <!ENTITY siteDataLearnMoreLink.label     "Aprender más">
 
 <!-- LOCALIZATION NOTE:

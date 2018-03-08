@@ -3,9 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Ajustes - Datos de sitio">
+
+<!ENTITY     window2.title                 "Gestionar cookies y datos de sitio">
 <!ENTITY     hostCol.label                 "Sitio">
 <!ENTITY     statusCol.label               "Estado">
+<!ENTITY     cookiesCol.label              "Cookies">
 <!ENTITY     usageCol.label                "Almacenamiento">
+<!ENTITY     lastAccessedCol.label                "Último uso">
 <!ENTITY     searchTextboxPlaceHolder             "Buscar sitios web">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
 <!ENTITY     removeSelected.label          "Eliminar seleccionados">
