@@ -110,6 +110,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "صفحہ معلومات">
 <!ENTITY pageInfoCmd.accesskey "م">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.accesskey "L">
 <!ENTITY mirrorTabCmd.label "ٹیب کا عکس">
 <!ENTITY mirrorTabCmd.accesskey "ع">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -124,6 +125,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "تمام ٹیب دکھائیں">
 <!ENTITY showAllTabsCmd.accesskey "ت">
 <!ENTITY toggleReaderMode.key "R">
+
+<!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; سائن ان کریں">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; ترجیحات کھولیں">
@@ -188,13 +191,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "ھ">
 
 <!ENTITY backCmd.label                "واپس">
+<!ENTITY backCmd.accesskey            "B">
 <!ENTITY backButton.tooltip           "ایک صفحہ واپس جائیں">
 <!ENTITY forwardCmd.label             "آگے">
+<!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "ایک صفحہ آگے جائیں">
 <!ENTITY backForwardButtonMenu.tooltip "سابقات دکھانے کے لیے دایاں کلک کریں یا نیچے کھینچیں">
 <!ENTITY backForwardButtonMenuMac.tooltip "سابقات دکھانے کے لیے نیچے کھینچیں">
 <!ENTITY reloadCmd.label              "پھر لوڈ کریں">
+<!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "رکیں">
+<!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        "۔">
 <!ENTITY goEndCap.tooltip             "محل وقوع بار میں دیے گئے پتے پر جائیں">
 <!ENTITY printButton.label            "چھاپیں">
@@ -221,11 +228,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "صفحہ کہ ترجمہ کو بندوبست کریں">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM سافٹ ویئر کہ استعمال کو بندوبست کریں">
 
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "آپ نے اس ویب سائٹ کے لیئے کیمرہ بلاک کیا ہوا ہے">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "آپ نے اس ویب سائٹ کے لیئے مائیکروفون بلاک کیا ہوا ہے۔">
 <!ENTITY urlbar.screenBlocked.tooltip            "آپ نے اس ویب سائٹ کو سکرین کا اشتراک کرنے سے بلاک کیا ہے">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "آپ نے اس ویب سائٹ کے لیئے محل وقوع کی معلومات کو بلاک کیا ہوا ہے">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "آپ نے اس ویب سائٹ کے لیئے کوائف کے ذخیرہ کو بلاک کیا ہوا ہے">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "آپ نے اس ویب سائٹ کے لیئے اطلاع کو بلاک کیا ہوا ہے">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "آپ نے اس ویب سائٹ کے لیئے مسلسل اسٹوریج کو بلاک کیا ہوا ہے۔">
 
@@ -294,7 +301,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "ن">
 <!ENTITY newPrivateWindow.label     "نیا نجی دریچہ">
 <!ENTITY newPrivateWindow.accesskey "د">
-<!ENTITY newNonRemoteWindow.label   "نیا غیر-e10s دریچہ">
 
 <!ENTITY editMenu.label         "تدوین کریں">
 <!ENTITY editMenu.accesskey       "ت">
@@ -349,17 +355,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "تمام سابقات دکھائیں">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "تخصیص کریں">
-<!ENTITY appMenuCustomize.tooltip "مینیو اور ٹول باریں تخصیص کریں">
-<!ENTITY appMenuCustomizeExit.label "تخصیص سے خروج کریں">
-<!ENTITY appMenuCustomizeExit.tooltip "تخصیص کرنا تکمیل کریں">
 <!ENTITY appMenuHistory.showAll.label "تمام سابقات دکھائیں">
 <!ENTITY appMenuHistory.clearRecent.label "حالیہ سابقات خالی کریں…">
 <!ENTITY appMenuHistory.restoreSession.label "پچھلا سیشن بحال کریں">
 <!ENTITY appMenuHistory.viewSidebar.label "بغلی بار میں سابقات دیکھیں">
 <!ENTITY appMenuHistory.recentHistory.label "حالیہ سابقات">
 <!ENTITY appMenuHelp.label "مدد">
-<!ENTITY appMenuHelp.tooltip "مدد مینیو کھولیں">
 
 <!ENTITY appMenuRemoteTabs.label "ہمہ وقت ساز ٹیب">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -379,7 +380,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "کوی ہم وقت ٹیب ابی موجود نہیں…اب تک!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "اپنے ٹیب کو دوسرے آلات سے یہاں سے دیکھنا پسند کریں گے؟">
 <!ENTITY appMenuRemoteTabs.openprefs.label "ہمہ وقت ساز ترجیحات">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "ٹیبیں کی فہرست دیکھنے کے لئے اپنے دیگر آلات سے سائن ان کریں۔">
@@ -431,14 +431,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "توسیعات:">
 <!ENTITY urlbar.switchToTab.label     "ٹیب پر سوئچ کریں:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "کیا آپ اپنے تلاش انجن تجربے کو تجاویز سے بہتر بنانا چاہیں گے؟">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "مزید سیکھیں…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "نہیں">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "ہاں">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "ٹوٹکا:">
@@ -562,6 +554,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "ڈیسک ٹاپ پس منظر کے طور پر سیٹ کریں ...">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "س">
 <!ENTITY bookmarkPageCmd2.label       "یہ صفحہ نشان زد کریں">
+<!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.label      "یہ ربط نشان زد کریں">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "ر">
 <!ENTITY bookmarkThisFrameCmd.label      "یہ فریم نشان زد کریں">
@@ -716,8 +709,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "سادہ پیج طرز">
 <!ENTITY pageStylePersistentOnly.accesskey "س">
 
-<!ENTITY pageReportIcon.tooltip            "اس ویب سائٹ کے لیے پاپ اپ بلاک سیٹنگیں بدلیں کریں">
-
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -747,6 +738,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "ہوگیا">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
+
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
 
 <!ENTITY identity.connectionSecure "بعید کنکشن">
 <!ENTITY identity.connectionNotSecure "کنکشن قابل بھروسا نہیں">
@@ -798,7 +792,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "ہمہ وقت ساز ٹیب">
 <!ENTITY syncedTabs.sidebar.noclients.label    "یہاں انکے ٹیبیں دیکھنیں کے لئے اپنے دیگر آلات سے Firefox میں سائن ان کرے۔">
-<!ENTITY syncedTabs.sidebar.noclients.title    "کوی ہم وقت ٹیب ابی موجود نہیں…اب تک!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "اپنے ٹیب کو دوسرے آلات سے یہاں سے دیکھنا پسند کریں گے؟">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "ٹیبیں کی فہرست دیکھنیں کے لئے اپنے دیگر آلات سے سائن ان کریں۔">
 <!ENTITY syncedTabs.sidebar.notabs.label       "کوئی کھلے ٹیب نہیں">
@@ -842,8 +835,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "ہمہ وقت سازی ">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "اپنی پسندیدہ اشیاء کو ٹول بار یا اورفلوںمینو میں شامل کرے۔">
-<!ENTITY customizeMode.menuAndToolbars.empty "مزید ٹول چاہتے ہیں؟">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "ہزاروں ایڈ اون سے انتخاب کریں">
 <!ENTITY customizeMode.restoreDefaults "طےشدہ بحال کریں">
 <!ENTITY customizeMode.done "مکمل">
 <!ENTITY customizeMode.titlebar "عنوان بار">
@@ -856,7 +847,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "مزید تھیم لائیں">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-<!ENTITY customizeMode.emptyOverflowList.description "اشیاء کو اپنی پہنچ تک رکھنے کے لئے یہا ڈریگ اور ڈروپ کرے لیکن ٹول بار سے باہر…">
 <!ENTITY customizeMode.uidensity "کثافت">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
@@ -975,6 +965,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName; کی تازہ کاری کرنے کے لیئے دوبارہ شروع کریں">
 
+<!ENTITY newTabControlled.keepButton.accesskey "K">
+<!ENTITY newTabControlled.restoreButton.accesskey "R">
+
 <!ENTITY pageActionButton.tooltip "صفحہ اعمال">
 <!ENTITY pageAction.addToUrlbar.label "ایڈریس بار میں شامل کرے">
 <!ENTITY pageAction.removeFromUrlbar.label "ایڈریس بار سے ہٹائے">
@@ -988,3 +981,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
      used as a textual label for the indicator used by assistive technology
      users. -->
+
+<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
+     The first <image> tag is replaced with the icon for the add-ons menu.
+     The second <image> tag is replaced with the icon for the toolbar menu. -->

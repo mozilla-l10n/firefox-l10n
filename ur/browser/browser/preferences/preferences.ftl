@@ -8,8 +8,7 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = ہمیشہ
 pref-page =
-    .title =
-        { PLATFORM() ->
+    .title = { PLATFORM() ->
             [windows] اختیارات
            *[other] ترجیحات
         }
@@ -46,6 +45,7 @@ feature-enable-requires-restart = اس فیچر کو اہل کرنے کے لیے
 feature-disable-requires-restart = اس فیچر کو نا اہل کرنے کے لیے { -brand-short-name } کو دوباره شروع کرنا ہو گا۔
 should-restart-title = { -brand-short-name } دوبارہ شروع کریں
 should-restart-ok = { -brand-short-name } کو ابھی دوباره شروع کریں
+cancel-no-restart-button = منسوخ کریں
 restart-later = بعد میں دوباره شروع کریں
 
 ## General Section
@@ -78,8 +78,7 @@ home-page-header = اپنا ہوم صفحہ دکھائیں
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label =
-        { $tabCount ->
+    .label = { $tabCount ->
             [1] حالیہ صفحہ برتیں
            *[other] حالیہ صفحے استعمال کریں
         }
@@ -114,8 +113,7 @@ browser-containers-settings =
     .label = سیٹنگیں…
     .accesskey = س
 containers-disable-alert-title = تمام  حامل ٹیبس بند کریں
-containers-disable-alert-ok-button =
-    { $tabCount ->
+containers-disable-alert-ok-button = { $tabCount ->
         [one] { $tabCount } کنٹینر ٹیب بند کریں
        *[other] { $tabCount } کنٹینر ٹیبس بند کریں
     }
@@ -156,13 +154,11 @@ download-save-to =
     .label = مسل محفوظ کریں بر
     .accesskey = م
 download-choose-folder =
-    .label =
-        { PLATFORM() ->
+    .label = { PLATFORM() ->
             [macos] انتخاب کریں…
            *[other] براؤز کریں…
         }
-    .accesskey =
-        { PLATFORM() ->
+    .accesskey = { PLATFORM() ->
             [macos] ا
            *[other] ا
         }
@@ -212,6 +208,7 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
+network-proxy-connection-learn-more = مزید سیکھیں
 network-proxy-connection-settings =
     .label = سیٹنگیں…
     .accesskey = س

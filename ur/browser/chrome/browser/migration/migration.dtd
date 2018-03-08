@@ -21,6 +21,8 @@
 <!ENTITY importFromCanary.accesskey     "ی">
 <!ENTITY importFromChrome.label         "Chrome">
 <!ENTITY importFromChrome.accesskey     "C">
+<!ENTITY importFromChromeBeta.accesskey "B">
+<!ENTITY importFromChromeDev.accesskey  "D">
 <!ENTITY importFromChromium.label       "کرومیم">
 <!ENTITY importFromChromium.accesskey   "م">
 <!ENTITY importFromFirefox.label        "فائر فاکس ">

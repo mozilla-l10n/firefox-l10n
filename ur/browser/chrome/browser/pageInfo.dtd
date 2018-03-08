@@ -55,12 +55,10 @@
 <!ENTITY  permAskAlways         "ہمیشہ پوچھیں">
 <!ENTITY  permAllow             "اجازت دیں">
 <!ENTITY  permAllowSession      "سیشن کے لیے اجازت دیں">
+<!ENTITY  permHide              "چھپائیں">
 <!ENTITY  permBlock             "بلاک کریں">
 <!ENTITY  permissionsFor        "اجازتیں بر:">
 <!ENTITY  permPlugins           "پلگ ان متحرک کریں">
-
-<!ENTITY  permClearStorage           "ذخیرہ خالی کریں">
-<!ENTITY  permClearStorage.accesskey "س">
 
 <!ENTITY  securityTab           "سلامتی">
 <!ENTITY  securityTab.accesskey "س">

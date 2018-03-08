@@ -3,8 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "سیٹکگیں - سائٹ کے کوائف">
+
 <!ENTITY     hostCol.label                 "سائٹ">
 <!ENTITY     statusCol.label               "موجودہ حالت ">
+<!ENTITY     cookiesCol.label              "کوکیاں">
 <!ENTITY     usageCol.label                "ذخیرہ">
 <!ENTITY     searchTextboxPlaceHolder             "ویبسائٹ تلاش کریں">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
