@@ -12,7 +12,7 @@
 <!ENTITY mailingListPropertiesMenu.label    "Vlastnosti skupiny">
 <!ENTITY mailingListPropertiesMenu.accesskey "i">
 
-<!ENTITY abContextMenuButton.tooltip        "Zobrazit kontextovou nabídku adresáře">
+<!ENTITY abContextMenuButton.tooltip        "Zobrazit kontextovou nabídku složky kontaktů">
 <!ENTITY addressbookPicker.label            "Kontakty:">
 <!ENTITY addressbookPicker.accesskey        "S">
 <!ENTITY searchContacts.label               "Hledat v kontaktech:">
