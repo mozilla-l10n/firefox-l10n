@@ -21,3 +21,5 @@
 <!ENTITY     removingDialog.title          "Eliminando datos del sitio">
 <!ENTITY     removingSelected.description  "Eliminar los datos del sitio también eliminará las cookies y el contenido web sin conexión relacionados. Esto te puede cerrar sesión en los sitios web. ¿Estás seguro de que quieres hacer los cambios?">
 <!ENTITY     siteTree2.label               "Las cookies del siguiente sitio web serán removidas">
+<!ENTITY     removingDialog1.title         "Eliminando cookies y datos de sitio">
+<!ENTITY     siteTree3.label               "Se eliminarán las cookies y los datos de sitio para los siguientes sitios web">
