@@ -39,6 +39,13 @@ available. -->
 
 <!ENTITY alwaysSubmitCrashReports1.label  "Permitter que &brandShortName; invia reportos de collapso a Mozilla">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+
+<!ENTITY collectBrowserErrors.label          "Consentir a &brandShortName; de inviar reportos de error de navigator (includite messages de error) a Mozilla">
+<!ENTITY collectBrowserErrors.accesskey      "b">
+<!ENTITY collectBrowserErrorsLearnMore.label "Saper plus">
+
+<!ENTITY sendBackloggedCrashReports.label  "Consentir &brandShortName; de inviar in tu nomine reportos de collapso arretrate">
+<!ENTITY sendBackloggedCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Saper plus">
 
 <!ENTITY networkTab.label                "Rete">
@@ -46,8 +53,6 @@ available. -->
 <!ENTITY networkProxy.label              "Proxy de rete">
 
 <!ENTITY connectionDesc.label            "Configura como &brandShortName; se connecte a Internet">
-
-<!ENTITY connectionSettingsLearnMore.label "Saper plus">
 <!ENTITY connectionSettings.label        "Parametros…">
 <!ENTITY connectionSettings.accesskey    "e">
 
@@ -59,6 +64,11 @@ available. -->
 <!ENTITY clearSiteData.accesskey         "l">
 <!ENTITY siteDataSettings.label          "Parametros…">
 <!ENTITY siteDataSettings.accesskey      "P">
+<!ENTITY siteData1.label                 "Cookies e datos de sitos">
+<!ENTITY clearSiteData1.label            "Clarar le datos...">
+<!ENTITY clearSiteData1.accesskey        "l">
+<!ENTITY siteDataSettings1.label         "Gerer le datos...">
+<!ENTITY siteDataSettings1.accesskey     "G">
 <!ENTITY siteDataLearnMoreLink.label     "Saper plus">
 
 <!-- LOCALIZATION NOTE:

@@ -21,6 +21,10 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
+policies-notice = { PLATFORM() ->
+        [windows] Tu organisation ha disactivate le poter de cambiar alcun optiones.
+       *[other] Tu organisation ha disactivate le poter de cambiar alcun preferentias.
+    }
 pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
