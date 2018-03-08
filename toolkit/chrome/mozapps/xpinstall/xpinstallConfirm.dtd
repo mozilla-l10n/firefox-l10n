@@ -1,8 +1,0 @@
-<!-- extracted from institems.xul -->
-
-<!ENTITY dialog.title "Ukufakwa kwehlelo lekhomphyutha">
-<!ENTITY warningText2.label "Ihlelo lekhomphyutha elonakalisako lingalimaza ikhomphyutha yakho namkha lingalandeli ivikelo lakho.">
-<!ENTITY warningText3.label "Kufanele ufake ihlelo lekhomphyutha elibuya kumithombo oyaziko kwaphela.">
-
-<!ENTITY from.label "ibuya ku:">
-
