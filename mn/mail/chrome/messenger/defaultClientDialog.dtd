@@ -1,9 +1,0 @@
-<!ENTITY defaultClient.title  "Анхдагч хэрэглэгч">
-<!ENTITY defaultClient.intro  "Дараах үйлдлүүдэд &brandShortName;-г анхдагч ачаалагч болго:">
-
-<!ENTITY email.label "Захиа">
-<!ENTITY newsgroups.label "Мэдээний групп">
-<!ENTITY rss.label "RSS мэдээ">
-
-<!ENTITY checkOnStartup.label "&brandShortName;-г ачаалах үед үргэлж энэ шалгалтыг гүйцэтгэ">
-<!ENTITY checkOnStartup.accesskey "ү">
