@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "Kontakty">
-<!ENTITY blankResultsPaneMessage.label                  "Tento adresář zobrazuje kontakty pouze po vyhledání">
-<!ENTITY localResultsOnlyMessage.label                  "Kontakty ze vzdálených adresářů se nezobrazují dokud je nevyhledáváte">
+<!ENTITY blankResultsPaneMessage.label                  "Tato složka kontaktů zobrazuje kontakty pouze po vyhledání">
+<!ENTITY localResultsOnlyMessage.label                  "Kontakty ze vzdálených složek kontaktů se nezobrazují dokud je nevyhledáváte">
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Soubor">
@@ -18,7 +18,7 @@
 <!ENTITY newListCmd.accesskey                           "S">
 <!ENTITY newAddressBookCmd.label                        "Složka kontaktů…">
 <!ENTITY newAddressBookCmd.accesskey                    "a">
-<!ENTITY newLDAPDirectoryCmd.label                      "LDAP adresář…">
+<!ENTITY newLDAPDirectoryCmd.label                      "Složka kontaktů LDAP…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newMessageCmd.label                            "Zpráva">
 <!ENTITY newMessageCmd.key                              "M">
@@ -61,7 +61,7 @@
 <!ENTITY pasteCmd.accesskey                             "V">
 <!ENTITY deleteCmd.label                                "Smazat">
 <!ENTITY deleteCmd.accesskey                            "m">
-<!ENTITY deleteAbCmd.label                              "Smazat adresář">
+<!ENTITY deleteAbCmd.label                              "Smazat složku kontaktů">
 <!ENTITY deleteContactCmd.label                         "Smazat kontakt">
 <!ENTITY deleteContactsCmd.label                        "Smazat kontakty">
 <!ENTITY deleteListCmd.label                            "Smazat seznam">
@@ -93,7 +93,7 @@
 <!ENTITY viewToolbarsMenu.accesskey                     "N">
 <!ENTITY menubarCmd.label                               "Lišta nabídky">
 <!ENTITY menubarCmd.accesskey                           "n">
-<!ENTITY showAbToolbarCmd.label                         "Lišta adresáře">
+<!ENTITY showAbToolbarCmd.label                         "Lišta kontaktů">
 <!ENTITY showAbToolbarCmd.accesskey                     "d">
 <!ENTITY showTaskbarCmd.label                           "Stavový řádek">
 <!ENTITY showTaskbarCmd.accesskey                       "t">
@@ -101,7 +101,7 @@
 <!ENTITY customizeToolbar.accesskey                     "z">
 <!ENTITY layoutMenu.label                               "Rozložení">
 <!ENTITY layoutMenu.accesskey                           "R">
-<!ENTITY showDirectoryPane.label                        "Panel adresáře">
+<!ENTITY showDirectoryPane.label                        "Panel kontaktů">
 <!ENTITY showDirectoryPane.accesskey                    "a">
 <!ENTITY showContactPane2.label                         "Panel kontaktu">
 <!ENTITY showContactPane2.accesskey                     "k">
@@ -167,7 +167,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.tooltip                       "Vytvoří nový kontakt">
 <!ENTITY newlistButton.tooltip                          "Vytvoří novou skupinu">
 <!ENTITY editPropertiesButton.tooltip                   "Upraví označenou položku">
-<!ENTITY editAbPropertiesButton.tooltip                 "Upraví vlastnosti označeného adresáře">
+<!ENTITY editAbPropertiesButton.tooltip                 "Upraví vlastnosti označené složky kontaktů">
 <!ENTITY editContactPropertiesButton.tooltip            "Upraví označený kontakt">
 <!ENTITY editMailingListPropertiesButton.tooltip        "Upraví označenou skupinu">
 <!ENTITY newmsgButton.tooltip                           "Vytvoří novou zprávu">
