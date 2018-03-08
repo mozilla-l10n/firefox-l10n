@@ -99,5 +99,5 @@ functionality specific to thunderbird. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> iseqdac tatiknulujit taqbuṛt ur nezmir ad terr zzedmat. Aẓeddam yezmer ad yzkker s wudem fessusen talɣut i tɣileḍ d taɣelsant.  Andbal n usmel yesra di tazwara ad iseggem aqeddac send ad tezmireḍ ad terzuḍ ɣe usmel.</p><p>Tangalt n tuccḍa: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
-<!ENTITY blockedByPolicyTemp.title "Asebter iwḥel">
-<!ENTITY blockedByPolicyTemp.longDesc "<p>Anedbal-inek isewḥel anekcum</p>">
+
+<!ENTITY blockedByPolicy.title "Asebter iwaḥlen">
