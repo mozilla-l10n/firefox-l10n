@@ -19,6 +19,7 @@
 <!ENTITY aboutTelemetry.pageTitle "ٹیلیمٹری کوائف">
 
 
+<!ENTITY aboutTelemetry.homeSection "ابتدائی صفحہ">
 <!ENTITY aboutTelemetry.generalDataSection "  جنرل کوائف">
 <!ENTITY aboutTelemetry.environmentDataSection "ماحولیاتی کوائف">
 <!ENTITY aboutTelemetry.sessionInfoSection " سیشن کی معلومات">

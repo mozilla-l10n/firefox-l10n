@@ -21,6 +21,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "ورژن">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.securitySoftwareTitle "سلامتی سافٹ ویئر">
+<!ENTITY aboutSupport.securitySoftwareName "نام">
+
 <!ENTITY aboutSupport.featuresTitle "&brandShortName; فیچر">
 <!ENTITY aboutSupport.featureName "نام">
 <!ENTITY aboutSupport.featureVersion "ورژن">
@@ -64,6 +67,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsProfiles "پروفا ئلز">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "ملٹی عمل دریچہ">
+
 
 
 
@@ -132,3 +136,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaTitle "میڈیا">
 <!ENTITY aboutSupport.mediaDeviceName "نام">
 <!ENTITY aboutSupport.mediaDeviceGroup "گروہ">
+<!ENTITY aboutSupport.mediaDeviceState "ریاست">
+<!ENTITY aboutSupport.mediaDevicePreferred "ترییحی">
+

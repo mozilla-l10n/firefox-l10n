@@ -27,6 +27,7 @@
 <!ENTITY loaddevice.info                        "ماڈیول کے لئے جو معلومات آپ شامل کرنا چاہتے ہیں، داخل کریں۔">
 <!ENTITY loaddevice.modname2.accesskey          "M">
 <!ENTITY loaddevice.modname.default             "نیا PKCS#11 ماڈیول">
+<!ENTITY loaddevice.filename2.accesskey         "f">
 <!ENTITY loaddevice.browse                      "براؤز کریں…">
 <!ENTITY loaddevice.browse.accesskey            "B">
 

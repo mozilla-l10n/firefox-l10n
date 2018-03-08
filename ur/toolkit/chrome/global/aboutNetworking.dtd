@@ -23,6 +23,7 @@
 <!ENTITY aboutNetworking.sent                  "بھیجا گیا">
 <!ENTITY aboutNetworking.received              "وصولا گیا">
 <!ENTITY aboutNetworking.family                "خاندان">
+<!ENTITY aboutNetworking.trr                   "TRR">
 <!ENTITY aboutNetworking.addresses             "پتے">
 <!ENTITY aboutNetworking.expires               "مدت ختم ہوتی ہے (سیکنڈ)">
 <!ENTITY aboutNetworking.messagesSent          "پیغامات بھیج دئیے گیے">

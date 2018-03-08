@@ -10,8 +10,26 @@
 <!ENTITY time.millisecond.placeholder "--">
 <!ENTITY time.dayperiod.placeholder "--">
 
+<!-- Field labels for input type=time -->
+
+<!ENTITY time.hour.label "گھنٹے">
+<!ENTITY time.minute.label "منٹ">
+<!ENTITY time.second.label "سکينڈ">
+<!ENTITY time.millisecond.label "ملی سکینڈ">
+<!ENTITY time.dayperiod.label "AM/PM">
+
 <!-- Placeholders for input type=date -->
 
 <!ENTITY date.year.placeholder "yyyy">
 <!ENTITY date.month.placeholder "mm">
 <!ENTITY date.day.placeholder "dd">
+
+<!-- Field labels for input type=date -->
+
+<!ENTITY date.year.label "سال">
+<!ENTITY date.month.label "مہينہ">
+<!ENTITY date.day.label "دن">
+
+<!-- Date/time clear button -->
+
+<!ENTITY datetime.reset.label "صاف کریں">
