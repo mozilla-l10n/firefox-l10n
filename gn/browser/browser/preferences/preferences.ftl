@@ -21,6 +21,10 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
+policies-notice = { PLATFORM() ->
+        [windows] Nde atyguasu omboguéma ikatúva omambue heta Jeporavorã.
+       *[other] Nde atyguasu omboguéma ikatúva omambue heta jererohoryvéva.
+    }
 pane-general-title = Tuichakue
 category-general =
     .tooltiptext = { pane-general-title }
