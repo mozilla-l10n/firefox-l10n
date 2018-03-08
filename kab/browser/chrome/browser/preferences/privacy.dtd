@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Ammesten mgal asfuɣel">
-<!ENTITY  trackingProtection2.description      "Asfuɣel d aleqqaḍ n isefka-inek n iminig sɣur ismal web. asfuɣel seqdacent akken ad k-d-seknen agbur iddan akked isefka-inek udmawanen d isefka n iminig-inek.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "Seqdec amesten mgal asfuɣel akken ad teswaḥleḍ imsfuɣal irusinin">
 <!ENTITY  trackingProtection3.description      "Amesten mgal aḍfaṛ ad isewḥel ineḍfaṛen iqnen iluqḍen isefka n iminig inek deg ismal web.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "Seqdec amesten mgal asfuγel akken ad teswaḥleḍ imsfuγal irusinin">
 <!ENTITY  trackingProtectionAlways.label       "Yal ass">
@@ -13,7 +11,6 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "l">
 <!ENTITY  trackingProtectionNever.label        "Weṛǧin">
 <!ENTITY  trackingProtectionNever.accesskey    "W">
-<!ENTITY  trackingProtectionLearnMore.label    "Issin ugar">
 <!ENTITY  trackingProtectionLearnMore2.label    "Issin ugar γef umesten mgal aḍfaṛ akked tasertit n tbaḍnit">
 <!ENTITY  trackingProtectionExceptions.label   "Tisuraf…">
 <!ENTITY  trackingProtectionExceptions.accesskey "s">
@@ -24,11 +21,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "Issin ugar">
 <!ENTITY changeBlockList2.label               "Snifel tabdart n usewḥel…">
 <!ENTITY changeBlockList2.accesskey           "D">
-
-<!ENTITY  doNotTrack.description        "Ad yazen tamuli “ur sfuɣul ara” ɣer ismal web akken ad gzun d akken ur tebɣiḍ ara asfuɣel">
-<!ENTITY  doNotTrack.learnMore.label    "Issin ugar">
-<!ENTITY  doNotTrack.default.label      "Ala s useqdec n ummesten mgal aḍfaṛ">
-<!ENTITY  doNotTrack.always.label       "Yal tikelt">
 
 <!ENTITY  history.label                 "Amazray">
 <!ENTITY  permissions.label             "Tisirag">
@@ -52,8 +44,7 @@
 <!ENTITY  acceptThirdParty2.pre.label     "Qbel inagan n tuqqna n wis kraḍ">
 <!ENTITY  acceptThirdParty2.pre.accesskey "f">
 
-<!ENTITY  acceptCookies3.label          "Qbel inagan n tuqna akked isefka sγur ismal">
-<!ENTITY  acceptCookies3.accesskey      "A">
+<!ENTITY  acceptCookies4.accesskey      "A">
 
 <!ENTITY  blockCookies.label            "Sewḥel inagan n tuqna akked isefka n usmel (izmer ad yiṛez ismal web)">
 <!ENTITY  blockCookies.accesskey        "B">
@@ -93,6 +84,7 @@
 <!ENTITY  rememberActions.middle.label        ", neγ ">
 <!ENTITY  rememberActions.removeCookies.label "kkes inagan n tuqqna ilmisen">
 <!ENTITY  rememberActions.post.label          ".">
+
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; ad isseqdec iɣewwaṛen n tunigin tusligt, u diɣen ur iḥerrez ara amazray n tunigin-inek. ">
 
