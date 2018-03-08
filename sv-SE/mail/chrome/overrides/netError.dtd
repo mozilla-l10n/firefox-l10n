@@ -193,5 +193,5 @@ functionality specific to thunderbird. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> använder en säkerhetsteknologi som är föråldrad och sårbar för angrepp. En angripare kan lätt avslöja information som du tänkt ska vara säker. Webbplatsens administratör måste rätta till servern innan du kan besöka webbplatsen.</p><p>Felkod: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
-<!ENTITY blockedByPolicyTemp.title "Sidan blockerad">
-<!ENTITY blockedByPolicyTemp.longDesc "<p>Åtkomst har inaktiverats av administratören.</p>">
+
+<!ENTITY blockedByPolicy.title "Blockerad sida">
