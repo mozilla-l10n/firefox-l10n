@@ -156,9 +156,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-<!ENTITY exitDOMFullscreen.button "Dilni Nga Sa Krejt Ekrani (Esc)">
+<!ENTITY exitDOMFullscreen.button "Dilni nga Sa Krejt Ekrani (Esc)">
 <!ENTITY exitDOMFullscreenMac.button "Dilni Nga Sa Krejt Ekrani (esc)">
-<!ENTITY leaveDOMFullScreen.label "Dilni Nga Sa Krejt Ekrani">
+<!ENTITY leaveDOMFullScreen.label "Dilni nga Sa Krejt Ekrani">
 <!ENTITY leaveDOMFullScreen.accesskey "D">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
@@ -240,7 +240,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ia keni bllokuar këtij sajti njoftimet.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "E keni bllokuar depozitimin e qëndrueshëm për këtë sajt.">
 <!ENTITY urlbar.popupBlocked.tooltip             "I keni bllokuar flluskat për këtë sajt.">
-
 <!ENTITY urlbar.canvasBlocked.tooltip            "Për këtë sajt e keni bllokuar përftimin e të dhënave të kanavacës.">
 
 <!ENTITY urlbar.midiBlocked.tooltip              "E keni bllokuar hyrjen MIDI për këtë sajt.">
@@ -388,7 +387,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "Ende pa skeda të njëkohësuara!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Doni të shihni këtu skedat tuaja prej pajisjesh të tjera?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Parapëlqime Njëkohësimi">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Hapni Parapëlqime Sync-u">
@@ -397,7 +395,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Hyni në Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Administroni Pajisje…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Shihni Anështyllën e Skedave të Njëkohësuara">
-
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Lidhni Një Pajisje Tjetër">
 
 <!ENTITY appMenuRecentHighlights.label "Nxjerrje Në Pah Së Fundi">
@@ -806,7 +803,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Skeda të Njëkohësuara">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Bëni hyrjen te llogaritë tuaja Firefox prej pajisjeve tuaja të tjera që të shihni këtu skedat e tyre.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "Ende pa skeda të njëkohësuara!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Doni të shihni këtu skedat tuaja prej pajisjesh të tjera?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Bëni hyrjen që të shihni një listë skedash nga pajisjet tuaja të tjera.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "Llogaria juaj duhet verifikuar.">
@@ -816,7 +812,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Aktivizoni njëkohësim skedash që të shihni një listë skedash prej pajisjeve tuaja të tjera.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Kërko në skeda të njëkohësuara">
-
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Lidhni Një Pajisje Tjetër">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
