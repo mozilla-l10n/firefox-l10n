@@ -36,7 +36,7 @@
 <!ENTITY event.attendees.notify.label                "Njoftoni pjesëmarrësit">
 <!ENTITY event.attendees.notify.accesskey            "f">
 <!ENTITY event.attendees.notifyundisclosed.label     "Ndaji ftesat sipas pjesëmarrësve">
-<!ENTITY event.attendees.notifyundisclosed.accesskey "x">
+<!ENTITY event.attendees.notifyundisclosed.accesskey "N">
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "Kjo mundësi bën të dërgohet një email ftesë për pjesëmarrës. Çdo ftesë përmban vetëm pjesëmarrësin të cilit i dërgohet, kështu që identitetet e pjesëmarrësve të tjerë nuk zbulohen.">
 <!ENTITY event.attendees.disallowcounter.label       "Çaktivizoje matjen e kohës">
 <!ENTITY event.attendees.disallowcounter.accesskey   "Ç">
