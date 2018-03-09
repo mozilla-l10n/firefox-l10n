@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Protection contra le traciamento">
-<!ENTITY  trackingProtection2.description      "Traciamento es le collecta de tu datos de navigation trans multiple sitos web. Le traciamento pote esser usate pro construer un profilo e monstrar contento basate in tu navigation e in tu informationes personal.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "Usar le protection contra le traciamento pro blocar traciatores cognoscite">
 <!ENTITY  trackingProtection3.description      "Le protection de traciamento bloca le traciatores online que collige tu datos de navigation inter plure sitos web.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "Usar le protection contra le traciamento pro blocar traciatores cognoscite">
 <!ENTITY  trackingProtectionAlways.label       "Sempre">
@@ -13,7 +11,6 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "l">
 <!ENTITY  trackingProtectionNever.label        "Nunquam">
 <!ENTITY  trackingProtectionNever.accesskey    "n">
-<!ENTITY  trackingProtectionLearnMore.label    "Saper plus">
 <!ENTITY  trackingProtectionLearnMore2.label    "Apprende altero re le protection de traciamento e tu confidentialitate">
 <!ENTITY  trackingProtectionExceptions.label   "Exceptiones…">
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
@@ -24,11 +21,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "Saper plus">
 <!ENTITY changeBlockList2.label               "Cambiar le lista de blocage…">
 <!ENTITY changeBlockList2.accesskey           "C">
-
-<!ENTITY  doNotTrack.description        "Inviar al sitos web un signal “Non traciar” indicante que tu non vole esser traciate">
-<!ENTITY  doNotTrack.learnMore.label    "Saper plus">
-<!ENTITY  doNotTrack.default.label      "Solmente durante que tu usa le protection contra le traciamento">
-<!ENTITY  doNotTrack.always.label       "Sempre">
 
 <!ENTITY  history.label                 "Chronologia">
 <!ENTITY  permissions.label             "Permissiones">
@@ -52,8 +44,14 @@
 <!ENTITY  acceptThirdParty2.pre.label     "Acceptar cookies de tertios">
 <!ENTITY  acceptThirdParty2.pre.accesskey "t">
 
+<!ENTITY  acceptCookies4.label          "Acceptar cookies e datos de sito ab sitos web (recommendate)">
+<!ENTITY  acceptCookies4.accesskey      "A">
 
+<!ENTITY  blockCookies.label            "Blocar cookies e datos de sito (pote causar al sitos web de collaber)">
+<!ENTITY  blockCookies.accesskey        "B">
 
+<!ENTITY  acceptThirdParty3.pre.label     "Acceptar cookies e datos de sito de tertie-parte">
+<!ENTITY  acceptThirdParty3.pre.accesskey "y">
 <!ENTITY  acceptThirdParty.always.label   "Sempre">
 <!ENTITY  acceptThirdParty.never.label    "Nunquam">
 <!ENTITY  acceptThirdParty.visited.label  "Del visitates">
@@ -88,6 +86,8 @@
 <!ENTITY  rememberActions.removeCookies.label "remover cookies specific">
 <!ENTITY  rememberActions.post.label          ".">
 
+<!ENTITY  rememberDescription1.label      "&brandShortName; rememorara tu exploration, discarga, forma e chronologia de recerca.">
+
 <!ENTITY  dontrememberDescription.label  "&brandShortName; usara le mesme parametros que pro le navigation private e non memorisara le chronologia durante que tu naviga le Web.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
@@ -97,6 +97,7 @@
 <!ENTITY  dontrememberActions.post.label         ".">
 
 <!ENTITY  clearHistoryButton.label       "Vacuar le chronologia…">
+<!ENTITY  clearHistoryButton.accesskey   "s">
 
 <!ENTITY  privateBrowsingPermanent2.label "Sempre usar le modo de navigation private">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
