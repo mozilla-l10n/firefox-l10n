@@ -15,11 +15,6 @@
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
 <!ENTITY performanceUI.bufferStatusTooltip "പ്രൊഫൈലര്‍ സാമ്പിളുകളെ ഒരു വൃത്താകൃതിയിലുള്ള ബഫറില്‍ സൂക്ഷിക്കുകയും, സൂക്ഷിക്കുന്നതിനുള്ള പരിധിയില്‍ ബഫര്‍ എത്തുമ്പോള്‍ പുതിയ സാമ്പിളുകള്‍ സൂക്ഷിച്ചു വെച്ചിരിക്കുന്നതിന്റെ തുടക്കത്തിലുള്ള സാമ്പിളുകളെ മാറ്റിയെഴുതുകയും ചെയ്യുന്നു.">
 
-<!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
-  -  is displayed as a message for why the real time overview graph is disabled
-  -  when running on a non-multiprocess build. -->
-<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "നോണ്‍-മള്‍ട്ടിപ്രോസെസ് ഫയര്‍ഫോക്സില്‍ റിയല്‍ടൈം ഡാറ്റ റെക്കോര്‍ഡ്‌ ചെയ്യുന്നത് ഡിസബിള്‍ഡ് ആണ്.">
-
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a build that can run multiprocess Firefox, but just is not enabled. -->
@@ -29,7 +24,7 @@
   -  is displayed when the profiler's circular buffer has started to overlap. -->
 <!ENTITY performanceUI.bufferStatusFull "ബഫര്‍ ഫുള്‍ ആണ്.പഴയ സാമ്പിളുകള്‍ ഇപ്പൊ ഓവര്‍റൈറ്റ് ചെയ്യുകയാണ്.">
 
-<!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
+<!-- LOCALIZATION NOTE (performanceUI.unavailableNoticePB): This is the label shown
   -  in the details view while the profiler is unavailable, for example, while
   -  in Private Browsing mode. -->
 <!ENTITY performanceUI.unavailableNoticePB "ഒരു പ്രൊഫൈല്‍ റെക്കോര്‍ഡ്‌ ചെയ്യുന്നത് ഇപ്പോള്‍  ലഭ്യമല്ല. ദയവായി എല്ലാ സ്വകാര്യ ബ്രൌസിംഗ് വിന്‍ഡോകളും അടച്ചു വീണ്ടും ശ്രമിക്കുക.">
@@ -126,7 +121,7 @@
   -  This string is displayed when a recording is selected that started via console.profile.
   -  Wraps the command used to start, like "Currently recording via console.profile("label")" -->
 <!ENTITY performanceUI.console.recordingNoticeStart "നിലവില്‍ റെക്കോര്‍ഡ്‌ ചെയ്തുകൊണ്ടിരിക്കുന്നത്">
-<!ENTITY performanceUI.console.recordingNoticeEnd   "‌">
+<!ENTITY performanceUI.console.recordingNoticeEnd   "">
 
 <!-- LOCALIZATION NOTE (performanceUI.console.stopCommandStart/stopCommandEnd):
   -  This string is displayed when a recording is selected that started via console.profile.

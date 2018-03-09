@@ -7,10 +7,6 @@
 <!ENTITY  blockPopups.label           "പോപ്പപ്‌ ജാലകങ്ങള്‍ തടയുക">
 <!ENTITY  blockPopups.accesskey       "B">
 
-<!ENTITY  notificationsDoNotDisturb.label      "എന്നെ ശല്യം ചെയ്യരുത്">
-<!ENTITY  notificationsDoNotDisturb.accesskey  "n">
-<!ENTITY  notificationsDoNotDisturbDetails.value "&brandShortName;റീസ്റ്റാര്‍ട്ട്‌ ചെയ്യുന്നത് വരെ അറിയിപ്പുകള്‍ കാണിക്കുന്നതല്ല">
-
 <!ENTITY  popupExceptions.label                                 "വിട്ടുവീഴ്ചകള്‍...">
 <!ENTITY  popupExceptions.accesskey                             "ക">
 
@@ -63,7 +59,7 @@
   -  browser/translation.dtd
   -->
 <!ENTITY translation.options.attribution.beforeLogo "തര്‍ജ്ജമ ചെയ്തത്">
-<!ENTITY translation.options.attribution.afterLogo "‌‌">
+<!ENTITY translation.options.attribution.afterLogo "">
 
 <!ENTITY  drmContent2.label              "ഡിജിറ്റല്‍ റൈറ്റ് മാനേജ്മെന്റ്(DRM) കണ്ടന്റ്">
 

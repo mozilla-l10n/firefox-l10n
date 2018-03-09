@@ -20,11 +20,9 @@
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 <!ENTITY warningDesc.version        "&brandShortName; പരീക്ഷണാര്‍ത്ഥമുള്ളതാകുന്നു, അതിനാല്‍ അസ്ഥിരവുമാകുന്നു.">
-<!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "&brandShortName;-നെ കൂടുതല്‍ മെച്ചപ്പെടുത്താനായി &vendorShortName;-ലേക്കു് പ്രവര്‍ത്തനം, ഹാര്‍ഡ്‌വെയര്‍, ഉപയോഗം, സ്വന്തംമെച്ചപ്പെടുത്തലുകള്‍ എന്നിങ്ങനെയുള്ള വിവരങ്ങള്‍ യാന്ത്രികമായി ഇത് അയയ്ക്കുന്നു.">
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
-<!ENTITY community.exp.start        "‌‌">
+<!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       "ഒരു">
@@ -41,7 +39,7 @@
 <!ENTITY community.end3             " വെബ് തുറന്നതും, പൊതുവായതും, എല്ലാര്‍ക്കും ലഭ്യമായതും ആക്കാനായി ഒന്നിച്ചു് ജോലി ചെയ്യുന്നു.">
 
 <!ENTITY helpus.start               "സഹായം?">
-<!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
+<!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://donate.mozilla.org/?utm_source=firefox&utm_medium=referral&utm_campaign=firefox_about&utm_content=firefox_about. -->
 <!ENTITY helpus.donateLink          "സംഭാവന നൽക്കുക">
 <!ENTITY helpus.middle              " അല്ലെങ്കില്‍  ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
@@ -76,14 +74,14 @@
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.failed.start        "പുതുക്കാന്‍ കഴിഞ്ഞില്ല.">
 <!ENTITY update.failed.linkText     "ഏറ്റവും പുതിയ പതിപ്പു് ഡൌണ്‍ലോഡ് ചെയ്യുക">
-<!ENTITY update.failed.end          "‌‌">
+<!ENTITY update.failed.end          "">
 
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.manual.start        "പുതുക്കലുകള്‍ ലഭ്യമാവാന്‍ ">
-<!ENTITY update.manual.end          "‌‌">
+<!ENTITY update.manual.end          "">
 
 <!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
      update.unsupported.start, update.unsupported.linkText, and
@@ -93,7 +91,7 @@
      make the localized text short (see bug 843497 for screenshots). -->
 <!ENTITY update.unsupported.start    "ഈ സിസ്റ്റത്തില്‍ നിങ്ങള്‍ക്കു് കൂടുതൽ പുതുക്കലുകള്‍ നടത്താന്‍ കഴിയില്ല.">
 <!ENTITY update.unsupported.linkText "കൂടുതലറിയാന്‍">
-<!ENTITY update.unsupported.end      "‌‌">
+<!ENTITY update.unsupported.end      "">
 
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
@@ -101,7 +99,7 @@
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
 <!ENTITY update.downloading.start   "പുതുക്കല്‍ ഡൌണ്‍ലോഡ് ചെയ്യുന്നു — ">
-<!ENTITY update.downloading.end     "‌‌">
+<!ENTITY update.downloading.end     "">
 
 <!ENTITY update.applying            "പുതുക്കല്‍ നടപ്പാക്കുന്നു…">
 

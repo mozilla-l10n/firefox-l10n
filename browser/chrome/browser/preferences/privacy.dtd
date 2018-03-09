@@ -3,21 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "ട്രാക്കിംഗ് പ്രൊട്ടക്ഷൻ">
-<!ENTITY  trackingProtection2.description      "ഒന്നിലധികം വെബ്സൈറ്റുകളിൽ നിന്നും നിങ്ങളുടെ ബ്രൗസിംഗ് ഡാറ്റ ശേഖരിക്കുന്നതിനെയാണ് ട്രാക്കിംഗ് എന്നു പറയുന്നത്. നിങ്ങളുടെ ബ്രൗസിംഗും വ്യക്തിഗത വിവരങ്ങളും അടിസ്ഥാനമാക്കി ഒരു പ്രൊഫൈൽ നിർമ്മിക്കുന്നതിനും പ്രദർശിപ്പിക്കുന്നതിനും ട്രാക്കിംഗ് ഉപയോഗിക്കാനാകും.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "അറിയപ്പെടുന്ന ട്രാക്കറുകൾ തടയുന്നതിന് ട്രാക്കിംഗ് പരിരക്ഷ ഉപയോഗിക്കുക">
 <!ENTITY  trackingProtectionAlways.label       "എപ്പോഴും">
 <!ENTITY  trackingProtectionAlways.accesskey   "ഴ">
 <!ENTITY  trackingProtectionPrivate.label      "സ്വകാര്യ ജാലകങ്ങളില്‍ മാത്രം">
 <!ENTITY  trackingProtectionPrivate.accesskey  "ത">
 <!ENTITY  trackingProtectionNever.label        "ഒരിക്കലുമില്ല">
 <!ENTITY  trackingProtectionNever.accesskey    "ഒ">
-<!ENTITY  trackingProtectionLearnMore.label    "കൂടുതല്‍ അറിയുക">
 <!ENTITY  trackingProtectionExceptions.label   "വിട്ടുവീഴ്ചകള്‍…">
 <!ENTITY  trackingProtectionExceptions.accesskey "ക">
-
-<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
-<!ENTITY trackingProtectionPBM5.label         "നിരീക്ഷിക്കല്‍ സംരക്ഷണം സ്വകാര്യ ജാലകത്തില്‍ ഉപയോഗിക്കുക">
-<!ENTITY trackingProtectionPBM5.accesskey     "v">
 
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "അറിയപ്പെടുന്ന ട്രാക്കറുകൾ തടയാൻ സ്വകാര്യ ബ്രൗസറിൽ ട്രാക്കിംഗ് പ്രൊട്ടക്ഷൻ ഉപയോഗിക്കുക">
@@ -25,11 +18,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "കൂടുതല്‍ അറിയുക">
 <!ENTITY changeBlockList2.label               "ബ്ലോക്ക് ലിസ്റ്റില്‍ മാറ്റം വരുത്തുക...">
 <!ENTITY changeBlockList2.accesskey           "C">
-
-<!ENTITY  doNotTrack.description        "“ട്രാക്ക് ചെയ്യരുത്” എന്ന സിഗ്നൽ വെബ്സൈറ്റുകൾക്ക് അയയ്ക്കുക">
-<!ENTITY  doNotTrack.learnMore.label    "കൂടുതലറിവ് നേടുക">
-<!ENTITY  doNotTrack.default.label      "ട്രാക്കിംഗ് പ്രൊട്ടക്ഷൻ ഉപയോഗിക്കുമ്പോൾ മാത്രം">
-<!ENTITY  doNotTrack.always.label       "എപ്പോഴും">
 
 <!ENTITY  history.label                 "നാള്‍വഴി">
 <!ENTITY  permissions.label             "അനുമതികൾ">
@@ -52,6 +40,9 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "മൂന്നാം കക്ഷി കുക്കികൾ അംഗീകരിക്കുക">
 <!ENTITY  acceptThirdParty2.pre.accesskey "y">
+
+
+
 <!ENTITY  acceptThirdParty.always.label   "എപ്പോഴും">
 <!ENTITY  acceptThirdParty.never.label    "ഒരിക്കലും ഇല്ല">
 <!ENTITY  acceptThirdParty.visited.label  "സന്ദര്‍ശനം മുതല്‍">
@@ -73,7 +64,7 @@
 <!ENTITY  historyHeader.remember.label     "ഹിസ്റ്ററി ഓര്‍ക്കുക">
 <!ENTITY  historyHeader.dontremember.label "ഹിസ്റ്ററി ഇനിയും മുതല്‍ ഓര്‍ക്കരുത്">
 <!ENTITY  historyHeader.custom.label       "ഹിസ്റ്ററിക്കായ് ഇച്ഛാനുസൃതം  സജ്ജീകരണങ്ങള്‍ ഉപയോഗിക്കുക">
-<!ENTITY  historyHeader.post.label         "‌">
+<!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; നിങ്ങളുടെ തിരയല്‍, ബ്രൗസിങ്, ഡൗണ്‍ലോഡ്, ഫോര്‍ംസ് എന്നിവയുടെ ഹിസ്റ്ററി ഓര്‍ക്കും, നിങ്ങള്‍ സന്ദര്‍ശിക്കുന്ന സൈറ്റുകളില്‍ നിന്നും കുക്കീസ് വെക്കും..">
 
@@ -86,6 +77,7 @@
 <!ENTITY  rememberActions.removeCookies.label "ഓരോന്നായി കുക്കികള്‍ നീക്കം ചെയ്യുക">
 <!ENTITY  rememberActions.post.label          ".">
 
+
 <!ENTITY  dontrememberDescription.label  "&brandShortName; സ്വകാര്യ തിരയലിന്റെ സജ്ജീകരണങ്ങള്‍ ഉപയോഗിക്കും, അതിനാല്‍ നിങ്ങള്‍ വെബ് തിരയുംബോള്‍ ഹിസ്റ്ററി ഓര്‍ക്കുകയില്ല.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
@@ -93,6 +85,7 @@
 <!ENTITY  dontrememberActions.pre.label          "നിങ്ങള്‍ക്കെ ചെയ്യാവുന്നത് : ">
 <!ENTITY  dontrememberActions.clearHistory.label "എല്ലാ ഹിസ്റ്ററിയും മായ്ക്കുക">
 <!ENTITY  dontrememberActions.post.label         ".">
+
 
 <!ENTITY  privateBrowsingPermanent2.label "എപ്പോഴും സ്വകാര്യ ബ്രൌസിങ് മോഡ് ഉപയോഗിയ്ക്കുക">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
