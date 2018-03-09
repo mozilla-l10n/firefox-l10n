@@ -30,7 +30,7 @@
 
 <!-- Bookmark folder strings -->
 <!ENTITY bookmarks.folder.menu.label 'Könyvjelzők menü'>
-<!ENTITY bookmarks.folder.places.label '‌'>
+<!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label 'Címkék'>
 <!ENTITY bookmarks.folder.toolbar.label 'Könyvjelző eszköztár'>
 <!ENTITY bookmarks.folder.other.label 'Más könyvjelzők'>
