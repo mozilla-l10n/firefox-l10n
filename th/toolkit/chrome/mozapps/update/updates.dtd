@@ -26,7 +26,7 @@
 <!ENTITY  downloadPage.title              "กำลังดาวน์โหลด &brandShortName;">
 <!ENTITY  downloading.intro               "กำลังดาวน์โหลดการอัปเดต…">
 <!ENTITY  connecting.label                "กำลังเชื่อมต่อกับเซิร์ฟเวอร์อัปเดต…">
-<!ENTITY  verificationFailedText.label    "&brandShortName; ไม่สามารถตรวจสอบความสมบูรณ์ของการอัปเดตแบบทบเพิ่มที่ดาวน์โหลดได้ ดังนั้นตอนนี้จึงกำลังดาวน์โหลดชุดอัปเดตแบบสมบูรณ์แทน">
+<!ENTITY  verificationFailedText.label    "&brandShortName; ไม่สามารถยืนยันความสมบูรณ์ของการอัปเดตแบบทบเพิ่มที่ดาวน์โหลดได้ ดังนั้นตอนนี้จึงกำลังดาวน์โหลดชุดอัปเดตแบบสมบูรณ์แทน">
 
 <!ENTITY  viewDetails.tooltip             "ดูรายละเอียดการอัปเดตนี้">
 

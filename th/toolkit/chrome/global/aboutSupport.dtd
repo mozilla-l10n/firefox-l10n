@@ -21,6 +21,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "รุ่น">
 <!ENTITY aboutSupport.extensionId "ID">
 
+
 <!ENTITY aboutSupport.featuresTitle "คุณลักษณะของ &brandShortName;">
 <!ENTITY aboutSupport.featureName "ชื่อ">
 <!ENTITY aboutSupport.featureVersion "รุ่น">
@@ -68,6 +69,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsProcessCount "โปรเซสเนื้อหาเว็บ">
 
 
+
 <!ENTITY aboutSupport.appBasicsSafeMode "โหมดปลอดภัย">
 
 <!ENTITY aboutSupport.showDir.label "เปิดไดเรกทอรี">
@@ -94,7 +96,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsTitle "กราฟิก">
 
 <!ENTITY aboutSupport.placeDatabaseIntegrity "ความสมบูรณ์">
-<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "ตรวจสอบความสมบูรณ์">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "ยืนยันความสมบูรณ์">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 
@@ -126,3 +128,4 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceName "ชื่อ">
 <!ENTITY aboutSupport.mediaDeviceGroup "กลุ่ม">
 <!ENTITY aboutSupport.mediaDeviceVendor "ผู้จำหน่าย">
+

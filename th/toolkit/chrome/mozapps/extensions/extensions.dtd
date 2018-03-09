@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "ตัวจัดการส่วนเสริม">
 
-<!ENTITY search.placeholder                   "ค้นหาส่วนเสริมทั้งหมด">
 <!ENTITY search.buttonlabel                   "ค้นหา">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -14,7 +13,6 @@
 <!ENTITY listEmpty.availableUpdates.label     "ไม่พบการอัปเดต">
 <!ENTITY listEmpty.recentUpdates.label        "คุณไม่ได้อัปเดตส่วนเสริมใด ๆ เมื่อเร็ว ๆ นี้">
 <!ENTITY listEmpty.findUpdates.label          "ตรวจสอบการอัปเดต">
-<!ENTITY listEmpty.search.label               "ไม่พบส่วนเสริมใด ๆ ที่ตรงกัน">
 <!ENTITY listEmpty.button.label               "เรียนรู้เพิ่มเติมเกี่ยวกับส่วนเสริม">
 <!ENTITY installAddonFromFile.label           "ติดตั้งส่วนเสริมจากไฟล์…">
 <!ENTITY installAddonFromFile.accesskey       "ง">
@@ -23,11 +21,8 @@
 <!ENTITY getThemes.description                "ต้องการปรับแต่งเบราว์เซอร์ของคุณให้เป็นส่วนบุคคล?">
 <!ENTITY getThemes.learnMore                  "เลือกจากชุดตกแต่งนับพัน">
 
-<!ENTITY cmd.back.tooltip                     "ย้อนกลับไปหนึ่งหน้า">
-<!ENTITY cmd.forward.tooltip                  "เดินหน้าไปหนึ่งหน้า">
 
-
-<!ENTITY showUnsignedExtensions.button.label  "ไม่สามารถตรวจสอบส่วนขยายบางตัว">
+<!ENTITY showUnsignedExtensions.button.label  "ไม่สามารถยืนยันส่วนขยายบางตัว">
 <!ENTITY showAllExtensions.button.label       "แสดงส่วนขยายทั้งหมด">
 <!ENTITY debugAddons.label                    "ดีบั๊กส่วนเสริม">
 <!ENTITY debugAddons.accesskey                "บ">
@@ -42,7 +37,6 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "เปิดใช้งานการตรวจสอบความปลอดภัยของการอัปเดตส่วนเสริม">
 
 <!-- categories / views -->
-<!ENTITY view.search.label                    "ค้นหา">
 <!ENTITY view.discover.label                  "รับส่วนเสริม">
 <!ENTITY view.recentUpdates.label             "การอัปเดตล่าสุด">
 <!ENTITY view.availableUpdates.label          "การอัปเดตที่ใช้งานได้">
@@ -172,16 +166,6 @@
 <!ENTITY sort.name.tooltip                    "เรียงตามชื่อ">
 <!ENTITY sort.dateUpdated.label               "อัปเดตล่าสุด">
 <!ENTITY sort.dateUpdated.tooltip             "เรียงตามวันที่อัปเดต">
-<!ENTITY sort.relevance.label                 "ตรงกันที่สุด">
-<!ENTITY sort.relevance.tooltip               "เรียงตามความเกี่ยวข้อง">
-<!ENTITY sort.price.label                     "ราคา">
-<!ENTITY sort.price.tooltip                   "เรียงตามราคา">
-
-<!ENTITY search.filter2.label                 "ค้นหา:">
-<!ENTITY search.filter2.installed.label       "ส่วนเสริมของฉัน">
-<!ENTITY search.filter2.installed.tooltip     "แสดงส่วนเสริมที่ติดตั้งไว้">
-<!ENTITY search.filter2.available.label       "ส่วนเสริมที่ใช้งานได้">
-<!ENTITY search.filter2.available.tooltip     "แสดงส่วนเสริมที่ติดตั้งได้">
 
 <!ENTITY addon.homepage                       "หน้าแรก">
 <!ENTITY addon.details.label                  "เพิ่มเติม">
@@ -241,14 +225,14 @@
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-<!ENTITY disabledUnsigned.description.start "ส่วนเสริมดังต่อไปนี้ไม่ได้รับการตรวจสอบสำหรับใช้ใน &brandShortName; คุณสามารถ ">
+<!ENTITY disabledUnsigned.description.start "ส่วนเสริมดังต่อไปนี้ไม่ได้รับการยืนยันสำหรับใช้ใน &brandShortName; คุณสามารถ ">
 <!ENTITY disabledUnsigned.description.findAddonsLink "ค้นหาตัวทดแทน">
-<!ENTITY disabledUnsigned.description.end " หรือร้องขอนักพัฒนาให้นำส่วนเสริมไปรับการตรวจสอบ">
+<!ENTITY disabledUnsigned.description.end " หรือร้องขอนักพัฒนาให้นำส่วนเสริมไปรับการยืนยัน">
 <!ENTITY disabledUnsigned.learnMore "เรียนรู้เพิ่มเติมเกี่ยวกับความพยายามของเราที่ช่วยให้คุณปลอดภัยขณะออนไลน์">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
-<!ENTITY disabledUnsigned.devInfo.start "นักพัฒนาที่สนใจนำส่วนเสริมของเขาไปรับการตรวจสอบสามารถดำเนินการต่อโดยอ่าน ">
+<!ENTITY disabledUnsigned.devInfo.start "นักพัฒนาที่สนใจนำส่วนเสริมของเขาไปรับการยืนยันสามารถดำเนินการต่อโดยอ่าน ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "ด้วยตนเอง">
 <!ENTITY disabledUnsigned.devInfo.end "">
 
