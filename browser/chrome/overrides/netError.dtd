@@ -9,17 +9,16 @@
 <!ENTITY retry.label "Zama Kwakhona">
 <!ENTITY returnToPreviousPage.label "Yiya Emva">
 <!ENTITY advanced.label "Kwinqanaba Eliphambili">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Ayikwazi kudibanisa">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "Le dilesi inemida">
-<!ENTITY deniedPortAccess.longDesc "‌‌">
+<!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Iseva ayifunyenwanga">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Khangela idilesi yokuchwetheza iimposiso njenge <strong>ww</strong>.example.com endaweni ye-<strong>www</strong>.example.com</li> <li>Ukuba akukwazi ukulayisha nawaphi na amakhasi, khangela unxibelelwano lwenethiwekhi yekhompyutha yakho.</li> <li>Ukuba ikhompyutha yakho okanye inethiwekhi ayikhuselwanga yi-firewall okanye iproksi, qiniseka ukuba i-&brandShortName; ivunyelwe ukufikelela kwiWebhu.</li> </ul>">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY fileNotFound.title "Ifayile ayifumaneki">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Khangela igama lefayile yoonobumba okanye ezinye iimpazamo zokutayipha.</li> <li>Khangela ubone ukuba ingaba ifayile yashenxiswa, yathiywa ngokutsha okanye yacinywa na.</li> </ul>">
@@ -35,8 +34,7 @@
 
 <!ENTITY openPortalLoginPage.label2 "Vula iPhepha lokuLoga uNgene kwiNethwekhi">
 
-<!ENTITY malformedURI.title "Idilesi ayisebenzi">
-<!ENTITY malformedURI.longDesc "<ul> <li>Iidilesi zewebhu zidla ngokubhalwa kanje <strong>http://www.example.com/</strong></li> <li>Qiniseka ukuba usebenzisa izileshi zaphambili (okt. <strong>/</strong>).</li> </ul>">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY netInterrupt.title "Unxibelelwano luphazanyisiwe">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
@@ -104,10 +102,10 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Inkcazelo ehambele phambili: SSL_ERROR_UNSUPPORTED_VERSION">
+
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
-
 <!ENTITY certerror.wrongSystemTime2 "<p> I-&brandShortName; ayikhange iqhagamshele kwi <span id='wrongSystemTime_URL'/> ngenxa yokuba iwotshi yekhompyutha kubonakala ngathi ibonisa ixesha elingelilo yaye oku kuthintela uqhagamshelo olukhuselekileyo.</p> <p>Ikhompyutha yakho isetelwe ku- <span id='wrongSystemTime_systemDate'/>, ngoxa bekufuneka ibe ku- <span id='wrongSystemTime_actualDate'/>. Ukuze ulungise le ngxaki, tshintsha iisetingi zomhla nexesha lakho ukuze zingqamane nexesha elililo.</p>">
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p> i-&brandShortName; ayikhange iqhagamshele kwi- <span id='wrongSystemTimeWithoutReference_URL'/> ngenxa yokuba iwotshi yekhompyutha yakho ibonakala ibonisa ixesha elingelilo yaye loo nto ithintela uqhagamshelo olukhuselekileyo.</p> <p>Ikhompyutha yakho isetelwe kwi <span id='wrongSystemTimeWithoutReference_systemDate'/>. Ukulungisa le ngxaki, tshintsha iisetingi zomhla nexesha lakho ukuze zingqamane nexesha elifanelekileyo.</p>">
 
@@ -119,6 +117,7 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>isebenzisa iteknoloji yokhuseleko ephelelwe lixesha nesesichengeni sokuhlaselwa. Umhlaseli unokuthi ngokulula atyhile inkcazelo obucinga ukuba ikhuselekile. Umlawuli wewebhsayithi kuya kufuneka aqale alungise iseva kuqala ngaphambi kokuba  utyelele isayithi.</p><p>ERROR CODE: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
 
 <!ENTITY prefReset.longDesc "Kukhangeleka ngathi iisetingi zakho zokhuseleko lwenetwekhi kusenokwenzeka zibangela oku. Ngaba ufuna ukuba iisetingi zibuyiselwe?">
 <!ENTITY prefReset.label "Buyisela iisetingi zeedifolti">
