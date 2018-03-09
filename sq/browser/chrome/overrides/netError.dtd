@@ -189,7 +189,7 @@ me të vetëm në mënyrë të sigurt. Si pasojë, s&apos;është e mundur të s
 dëshmi.">
 <!ENTITY certerror.copyToClipboard.label "Kopjoje tekstin te e papastra">
 
-<!ENTITY inadequateSecurityError.title "Lidhja juaj është jo e sigurt">
+<!ENTITY inadequateSecurityError.title "Lidhja juaj s&apos;është e sigurt">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> përdor teknologji sigurie që është e vjetruar dhe e cenueshme përballë sulmesh. Dikush që sulmon do të mund të zbulonte lehtë të dhëna të cilat i mendonit të parrezikuara. Para se të mund të vizitoni këtë sajt, lypset që përgjegjësi i sajtit të ndreqë shërbyesin.</p><p>Kod gabimi: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
