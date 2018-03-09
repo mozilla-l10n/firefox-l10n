@@ -21,6 +21,10 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
+policies-notice = { PLATFORM() ->
+        [windows] Mae eich corff wedi analluogi'r gallu i newid rhai dewisiadau.
+       *[other] Mae eich corff wedi analluogi'r gallu i newid rhai dewisiadau.
+    }
 pane-general-title = Cyffredinol
 category-general =
     .tooltiptext = { pane-general-title }
