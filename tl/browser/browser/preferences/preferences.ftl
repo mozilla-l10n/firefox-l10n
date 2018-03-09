@@ -9,8 +9,7 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Palagi
 pref-page =
-    .title =
-        { PLATFORM() ->
+    .title = { PLATFORM() ->
             [windows] Options
            *[other] Mga Preferences
         }
@@ -22,6 +21,10 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
+policies-notice = { PLATFORM() ->
+        [windows] Hindi pinagana ng iyong organisasyon ang kakayahang baguhin ang ilang mga pagpipilian.
+       *[other] Hindi pinagana ng iyong organisasyon ang kakayahang baguhin ang ilang mga kagustuhan.
+    }
 pane-general-title = Pangkalahatan
 category-general =
     .tooltiptext = { pane-general-title }
@@ -47,6 +50,7 @@ feature-enable-requires-restart = { -brand-short-name } ay dapat simulan ulit up
 feature-disable-requires-restart = { -brand-short-name } ay dapat simulan ulit upang hindi paganahin ang tampok na ito.
 should-restart-title = I-Restart { -brand-short-name }
 should-restart-ok = Mag-restart { -brand-short-name } ngayon
+cancel-no-restart-button = Kanselahin
 restart-later = I-restart Mamaya
 
 ## General Section
@@ -83,8 +87,7 @@ home-page-header = Ipakita ang iyong punong pahina
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label =
-        { $tabCount ->
+    .label = { $tabCount ->
             [1] Gamitin ang Kasalukuyang Pahina
            *[other] Gamitin ang kasalukuyang mga pahina
         }
@@ -122,13 +125,11 @@ browser-containers-settings =
     .label = Mga setting…
     .accesskey = i
 containers-disable-alert-title = Isara ang Lahat ng Mga Tab ng Lalagyan?
-containers-disable-alert-desc =
-    { $tabCount ->
+containers-disable-alert-desc = { $tabCount ->
         [one] Kung hindi mo pinagana ang Mga Tab ng Lalagyan ngayon, sarado ang tab ng { $tabCount }. Sigurado ka ba na nais mong huwag paganahin ang mga Tab ng Lalagyan?
        *[other] Kung hindi mo pinagana ang Mga Tab ng Lalagyan ngayon, ang mga tab ng { $tabCount } lalagyan ay sarado. Sigurado ka bang gusto mong huwag paganahin ang Mga Tab ng Lalagyan?
     }
-containers-disable-alert-ok-button =
-    { $tabCount ->
+containers-disable-alert-ok-button = { $tabCount ->
         [one] Isara ang { $tabCount } Container Tab
        *[other] Isara ang { $tabCount } Container Tab
     }
@@ -171,13 +172,11 @@ download-save-to =
     .label = I-save ang mga file sa
     .accesskey = v
 download-choose-folder =
-    .label =
-        { PLATFORM() ->
+    .label = { PLATFORM() ->
             [macos] Choose…
            *[other] Browse…
         }
-    .accesskey =
-        { PLATFORM() ->
+    .accesskey = { PLATFORM() ->
             [macos] e
            *[other] o
         }

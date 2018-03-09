@@ -3,9 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Mga Setting - Site data">
+
 <!ENTITY     hostCol.label                 "Site">
 <!ENTITY     statusCol.label               "Status">
+<!ENTITY     cookiesCol.label              "Mga Cookie">
 <!ENTITY     usageCol.label                "Imbakan">
+<!ENTITY     lastAccessedCol.label                "Huling Ginamit">
 <!ENTITY     searchTextboxPlaceHolder             "Maghanap ng mga website">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
 <!ENTITY     removeSelected.label          "Inalis ang mga Napili">
