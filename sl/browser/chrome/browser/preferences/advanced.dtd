@@ -41,9 +41,11 @@ available. -->
 <!ENTITY alwaysSubmitCrashReports1.accesskey "p">
 
 <!ENTITY collectBrowserErrors.label          "Dovoli &brandShortName;u pošiljanje poročil o napakah brskalnika (vključno s sporočili o napakah) Mozilli">
+<!ENTITY collectBrowserErrors.accesskey      "b">
 <!ENTITY collectBrowserErrorsLearnMore.label "Več o tem">
 
 <!ENTITY sendBackloggedCrashReports.label  "Dovoli &brandShortName;u, da v vašem imenu pošilja poročila o sesutju iz zaloge">
+<!ENTITY sendBackloggedCrashReports.accesskey "z">
 <!ENTITY crashReporterLearnMore.label    "Več o tem">
 
 <!ENTITY networkTab.label                "Omrežje">
@@ -51,8 +53,6 @@ available. -->
 <!ENTITY networkProxy.label              "Omrežni posrednik">
 
 <!ENTITY connectionDesc.label            "Določite, kako naj se &brandShortName; poveže na internet.">
-
-<!ENTITY connectionSettingsLearnMore.label "Več o tem">
 <!ENTITY connectionSettings.label        "Nastavitve …">
 <!ENTITY connectionSettings.accesskey    "n">
 
@@ -62,10 +62,13 @@ available. -->
 <!ENTITY siteData.label                  "Podatki strani">
 <!ENTITY clearSiteData.label             "Počisti vse podatke">
 <!ENTITY clearSiteData.accesskey         "č">
-<!ENTITY siteData1.label                 "Piškotki in podatki strani">
-<!ENTITY clearSiteData1.label            "Počisti podatke …">
 <!ENTITY siteDataSettings.label          "Nastavitve …">
 <!ENTITY siteDataSettings.accesskey      "v">
+<!ENTITY siteData1.label                 "Piškotki in podatki strani">
+<!ENTITY clearSiteData1.label            "Počisti podatke …">
+<!ENTITY clearSiteData1.accesskey        "č">
+<!ENTITY siteDataSettings1.label         "Upravljanje podatkov …">
+<!ENTITY siteDataSettings1.accesskey     "U">
 <!ENTITY siteDataLearnMoreLink.label     "Več o tem">
 
 <!-- LOCALIZATION NOTE:
