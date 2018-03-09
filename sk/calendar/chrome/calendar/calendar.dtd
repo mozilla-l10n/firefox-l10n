@@ -325,7 +325,7 @@
 <!ENTITY calendarproperties.refreshInterval.label          "Obnoviť kalendár:">
 <!ENTITY calendarproperties.refreshInterval.manual.label   "Manuálne">
 <!ENTITY calendarproperties.name.label                     "Názov:">
-<!ENTITY calendarproperties.readonly.label                 "Len na čítanie">
+<!ENTITY calendarproperties.readonly.label                 "Iba na čítanie">
 <!ENTITY calendarproperties.firealarms.label               "Zobraziť upozornenia">
 <!ENTITY calendarproperties.cache3.label                   "Podpora pre režim offline">
 <!ENTITY calendarproperties.enabled.label                  "Zapnúť tento kalendár">
