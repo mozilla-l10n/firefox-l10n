@@ -111,6 +111,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "पृष्ठ जानकारी">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.accesskey "L">
 <!ENTITY mirrorTabCmd.label "मिरर ट्याब">
 <!ENTITY mirrorTabCmd.accesskey "M">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -125,6 +126,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "सबै ट्याबहरू देखाउनुहोस्">
 <!ENTITY showAllTabsCmd.accesskey "A">
 <!ENTITY toggleReaderMode.key "R">
+
+<!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; मा साइन इन गर्नुहोस">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; को प्राथमिकताहरू खोल्नुहोस्">
@@ -227,6 +230,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "पृष्ठ अनुवाद प्रबन्ध मिलाउनुहोस्">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM सफ्टवेयर प्रयोग प्रबन्ध मिलाउनुहोस्">
 
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "MIDI प्यानल खोल्नुहोस्">
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "तपाईँले यो वेबसाइटको लागि आफ्नो क्यामेरा अवरुद्ध गर्नु भएको छ ">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "तपाईँले यो वेबसाइटको लागि आफ्नो माइक्रोफोन अवरुद्ध गर्नु भएको छ">
 <!ENTITY urlbar.screenBlocked.tooltip            "तपाईँले यो वेबसाइटलाई आफ्नो स्क्रिन साझा गर्न अवरुद्ध गर्नु भएको छ।">
@@ -235,6 +240,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "तपाईँले यो वेबसाइटको लागि लगातार भण्डारण अवरुद्ध गर्नु भएको छ।">
 <!ENTITY urlbar.popupBlocked.tooltip             "तपाईँले यो वेबसाइटको लागि पपअप अवरुद्ध गर्नु भएको छ|">
 
+<!ENTITY urlbar.midiBlocked.tooltip              "तपाईँले यो वेबसाइटको लागि MIDI अवरुद्ध गर्नु भएको छ। ">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "इतिहास देखाउनुहोस्">
 
@@ -379,15 +385,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "अझै समन्वयन नभएका ट्याबहरू…">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "अन्य यन्त्रहरूको ट्याबहरू तपाईँ यहाँ हेर्न चाहनुहुन्छ?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync प्राथमिकताहरू">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Sync प्राथमिकताहरू खोल्नुहोस्">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "तपाईँको अन्य यन्त्रहरूबाट ट्याबहरूको सूची हेर्न साइन-इन गर्नुहोस्।">
 <!ENTITY appMenuRemoteTabs.unverified.label "तपाईँको खाता प्रमाणित गर्न जरुरी छ।">
 <!ENTITY appMenuRemoteTabs.signin.label "सिङ्क गर्न साइन इन गर्नुहोस्">
 <!ENTITY appMenuRemoteTabs.managedevices.label "यन्त्रहरू प्रबन्धन गर्नुहोस्...">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Sync गरिएका ट्याब साइडबारहरू हेर्नुहोस्">
-
 <!ENTITY appMenuRemoteTabs.connectdevice.label "अर्को उपकरण जडान गर्नुहोस्">
 
 <!ENTITY appMenuRecentHighlights.label "हालको उल्लेखनीय पक्षहरू">
@@ -796,7 +801,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Sync गरिएका ट्याबहरू">
 <!ENTITY syncedTabs.sidebar.noclients.label    "अन्य यन्त्रको ट्याबहरू हेर्न, तपाईँ अन्य यन्त्रहरूमा Firefox मा साइन-इन गर्नुहोस्।">
-<!ENTITY syncedTabs.sidebar.noclients.title    "अझै समन्वयन नभएका ट्याबहरू…">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "अन्य यन्त्रहरूको ट्याबहरू तपाईँ यहाँ हेर्न चाहनुहुन्छ?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "तपाईँको अन्य यन्त्रहरूबाट ट्याबहरूको सूची हेर्न साइन-इन गर्नुहोस्।">
 <!ENTITY syncedTabs.sidebar.unverified.label   "तपाईँको खाता प्रमाणित गर्न जरुरी छ।">
@@ -806,7 +810,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "तपाईँको अन्य यन्त्रहरूबाट ट्याबहरूको सूची हेर्न ट्याब Sync सुरु गर्नुहोस्।">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "समक्रमण गरिएका ट्याबहरू खोजि गर्नुहोस्">
-
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "अर्को उपकरण जडान गर्नुहोस्">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
@@ -986,6 +989,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.removeFromUrlbar.label "ठेगानापट्टिबाट हटाउनुहोस्">
 <!ENTITY pageAction.allowInUrlbar.label "ठेगानापट्टिमा देखाउनुहोस्">
 <!ENTITY pageAction.disallowInUrlbar.label "ठेगानापट्टिमा नदेखाउनुहोस्">
+<!ENTITY pageAction.manageExtension.label "एक्स्टेनसन व्यवस्थित गर्नुहोस्">
 
 <!ENTITY pageAction.sendTabToDevice.label "ट्याबलाई उपकरणमा पठाउनुहोस्">
 <!ENTITY sendToDevice.syncNotReady.label "उपकरणहरू समक्रमण गरिंदै…">
@@ -997,3 +1001,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "उपलब्धता सुविधा सक्षम गरियो">
+
+<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
+     The first <image> tag is replaced with the icon for the add-ons menu.
+     The second <image> tag is replaced with the icon for the toolbar menu. -->
