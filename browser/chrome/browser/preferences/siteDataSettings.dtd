@@ -4,7 +4,7 @@
 
 <!ENTITY     window.title                  "Nastavitve - Podatki strani">
 
-<!ENTITY     window1.title                 "Nastavitve - piškotki in podatki strani">
+<!ENTITY     window2.title                 "Upravljanje piškotkov in podatkov strani">
 <!ENTITY     hostCol.label                 "Stran">
 <!ENTITY     statusCol.label               "Stanje">
 <!ENTITY     cookiesCol.label              "Piškotki">

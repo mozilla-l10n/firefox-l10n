@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Zaščita pred sledenjem">
-<!ENTITY  trackingProtection2.description      "Sledenje je zbiranje podatkov o vašem brskanju prek več spletnih strani. Z uporabo sledenja je mogoče ustvariti profil ter prikazovati vsebino na podlagi vaših osebnih podatkov in podatkov o brskanju.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "Uporabljaj zaščito pred sledenjem za zavračanje znanih sledilcev">
 <!ENTITY  trackingProtection3.description      "Zaščita pred sledenjem zavrača spletne sledilce, ki zbirajo podatke brskanja po spletnih straneh.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "Uporabljaj zaščito pred sledenjem za zavračanje znanih sledilcev">
 <!ENTITY  trackingProtectionAlways.label       "Vedno">
@@ -13,7 +11,6 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "L">
 <!ENTITY  trackingProtectionNever.label        "Nikoli">
 <!ENTITY  trackingProtectionNever.accesskey    "o">
-<!ENTITY  trackingProtectionLearnMore.label    "Več o tem">
 <!ENTITY  trackingProtectionLearnMore2.label    "Več o zaščiti pred sledenjem in vaši zasebnost">
 <!ENTITY  trackingProtectionExceptions.label   "Izjeme …">
 <!ENTITY  trackingProtectionExceptions.accesskey "j">
@@ -24,11 +21,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "Več o tem">
 <!ENTITY changeBlockList2.label               "Zamenjaj seznam za zavračanje …">
 <!ENTITY changeBlockList2.accesskey           "a">
-
-<!ENTITY  doNotTrack.description        "S signalom “Brez sledenja” sporočaj spletnim stranem, naj vam ne sledijo">
-<!ENTITY  doNotTrack.learnMore.label    "Več o tem">
-<!ENTITY  doNotTrack.default.label      "Samo pri uporabi zaščite pred sledenjem">
-<!ENTITY  doNotTrack.always.label       "Vedno">
 
 <!ENTITY  history.label                 "Zgodovina">
 <!ENTITY  permissions.label             "Dovoljenja">
@@ -52,9 +44,14 @@
 <!ENTITY  acceptThirdParty2.pre.label     "Sprejemaj piškotke tretjih strani">
 <!ENTITY  acceptThirdParty2.pre.accesskey "t">
 
-<!ENTITY  acceptCookies3.label          "Sprejmi piškotke in podatke strani iz spletnih strani">
+<!ENTITY  acceptCookies4.label          "Sprejemaj piškotke in podatke spletnih strani (priporočeno)">
+<!ENTITY  acceptCookies4.accesskey      "S">
 
+<!ENTITY  blockCookies.label            "Zavračaj piškotke in podatke spletnih strani (lahko povzroči nepravilno delovanje strani)">
+<!ENTITY  blockCookies.accesskey        "Z">
 
+<!ENTITY  acceptThirdParty3.pre.label     "Sprejemaj piškotke in podatke tretjih strani">
+<!ENTITY  acceptThirdParty3.pre.accesskey "t">
 <!ENTITY  acceptThirdParty.always.label   "Vedno">
 <!ENTITY  acceptThirdParty.never.label    "Nikoli">
 <!ENTITY  acceptThirdParty.visited.label  "Izmed obiskanih">
@@ -89,6 +86,8 @@
 <!ENTITY  rememberActions.removeCookies.label "odstraniti posamezne piškotke">
 <!ENTITY  rememberActions.post.label          ".">
 
+<!ENTITY  rememberDescription1.label      "&brandShortName; si bo zapomnil vašo zgodovino brskanja, prenosov, obrazcev in iskanj.">
+
 <!ENTITY  dontrememberDescription.label  "&brandShortName; bo uporabljal enake nastavitve kot pri zasebnem brskanju in med brskanjem ne bo hranil nobene zgodovine.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
@@ -98,6 +97,7 @@
 <!ENTITY  dontrememberActions.post.label         ".">
 
 <!ENTITY  clearHistoryButton.label       "Počisti zgodovino …">
+<!ENTITY  clearHistoryButton.accesskey   "č">
 
 <!ENTITY  privateBrowsingPermanent2.label "Vedno uporabljaj zasebno brskanje">
 <!ENTITY  privateBrowsingPermanent2.accesskey "S">
