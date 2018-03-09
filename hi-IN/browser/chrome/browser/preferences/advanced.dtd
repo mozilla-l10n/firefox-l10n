@@ -37,11 +37,12 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "हम आपको हमेशा विकल्प देने का प्रयास करते हैं और केवल आवश्यक सूचनाएँ एकत्रित करते हैं ताकि &brandShortName; सबके लिए व बेहतर हो. हम व्यक्तिगत जानकारी लेने से पहले हमेशा अनुमति मांगते हैं.">
 <!ENTITY dataCollectionPrivacyNotice.label    "गोपनीयता सूचना">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "&brandShortName; को स्वतः क्रैश रिपोर्ट Mozilla को भेजने की अनुमति दें">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+
 <!ENTITY collectBrowserErrors.accesskey      "b">
 <!ENTITY collectBrowserErrorsLearnMore.label "अधिक जानें">
 
-<!ENTITY alwaysSubmitCrashReports1.label  "&brandShortName; को स्वतः क्रैश रिपोर्ट Mozilla को भेजने की अनुमति दें">
-<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "अधिक जानें">
 
 <!ENTITY networkTab.label                "संजाल">
@@ -49,8 +50,6 @@ available. -->
 <!ENTITY networkProxy.label              "नेटवर्क प्रॉक्सी">
 
 <!ENTITY connectionDesc.label            "विन्यस्त करें कि कैसे &brandShortName; इंटरनेट से जुड़ता है">
-
-<!ENTITY connectionSettingsLearnMore.label "अधिक जानें">
 <!ENTITY connectionSettings.label        "सेटिंग…">
 <!ENTITY connectionSettings.accesskey    "e">
 
@@ -94,7 +93,7 @@ available. -->
 <!ENTITY updateApplicationDescription.label
                                          "सर्वोत्तम प्रदर्शन, स्थिरता और सुरक्षा के लिए &brandShortName; को नवीनतम रखें.">
 <!ENTITY updateApplication.version.pre   "संस्करण">
-<!ENTITY updateApplication.version.post  "‌">
+<!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "के लिए &brandShortName; को अनुमति दें">
 <!ENTITY updateAuto3.label               "स्वचालित रूप से (अनुशंसित) अद्यतन स्थापित करें">
 <!ENTITY updateAuto3.accesskey           "A">

@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "ट्रैकिंग सुरक्षा">
-<!ENTITY  trackingProtection2.description      "ट्रैकिंग कई वेबसाइटों पर आपके ब्राउज़िंग डेटा का संग्रह है. ट्रैकिंग का प्रयोग आपकी ब्राउज़िंग और व्यक्तिगत जानकारी के आधार पर एक प्रोफ़ाइल बनाने और कंटेंट दिखाने की लिए किया जा सकता हैं.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "ज्ञात ट्रैकर्स को ब्लॉक करने के लिए ट्रैकिंग प्रोटैक्शन का उपयोग करें">
 <!ENTITY  trackingProtection3.description      "ट्रैकिंग सुरक्षा ऑनलाइन ट्रैकरों को ब्लॉक करता है जो कि आपके विभिन्न साइटों के ब्राउज़िंग डेटा को एकत्रित करते है.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "ज्ञात ट्रैकर्स को ब्लॉक करने के लिए ट्रैकिंग सुरक्षा का उपयोग करें">
 <!ENTITY  trackingProtectionAlways.label       "हमेशा">
@@ -13,7 +11,6 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "l">
 <!ENTITY  trackingProtectionNever.label        "कभी नहीं">
 <!ENTITY  trackingProtectionNever.accesskey    "N">
-<!ENTITY  trackingProtectionLearnMore.label    "अधिक जानें">
 <!ENTITY  trackingProtectionLearnMore2.label    "ट्रैकिंग सुरक्षा और आपकी गोपनीयता के बारे में अधिक जानें">
 <!ENTITY  trackingProtectionExceptions.label   "अपवाद…">
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
@@ -24,11 +21,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "अधिक जानें">
 <!ENTITY changeBlockList2.label               "ब्लाक लिस्ट बदलें…">
 <!ENTITY changeBlockList2.accesskey           "C">
-
-<!ENTITY  doNotTrack.description        "वेबसाइटों को “डू नॉट ट्रैक” संकेत भेजे ताकि वो आपको ट्रैक ना करें">
-<!ENTITY  doNotTrack.learnMore.label    "और अधिक जानें">
-<!ENTITY  doNotTrack.default.label      "ट्रैकिंग का उपयोग करते समय ही">
-<!ENTITY  doNotTrack.always.label       "हमेशा">
 
 <!ENTITY  history.label                 "इतिहास">
 <!ENTITY  permissions.label             "अनुमतियां">
@@ -51,6 +43,9 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "तृतीय-पक्ष कुकी स्वीकार करें">
 <!ENTITY  acceptThirdParty2.pre.accesskey "y">
+
+
+
 <!ENTITY  acceptThirdParty.always.label   "हमेशा">
 <!ENTITY  acceptThirdParty.never.label    "कभी नहीं">
 <!ENTITY  acceptThirdParty.visited.label  "भ्रमण किए हुए से">
@@ -72,7 +67,7 @@
 <!ENTITY  historyHeader.remember.label     "इतिहास याद रखें">
 <!ENTITY  historyHeader.dontremember.label "इतिहास कभी याद नहीं रखें">
 <!ENTITY  historyHeader.custom.label       "इतिहास के लिए मनपसंद सेटिंग्स का उपयोग करें">
-<!ENTITY  historyHeader.post.label         "‍">
+<!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; आपके ब्राउज़िंग, डाउनलोड, फ़ॉर्म और खोज इतिहास, आपके द्वारा देखे गए वेबसाइटों के कुकीज़ याद रखेगा.">
 
@@ -85,6 +80,7 @@
 <!ENTITY  rememberActions.removeCookies.label "अपने व्यक्तिगत कुकीज़ हटा">
 <!ENTITY  rememberActions.post.label          ".">
 
+
 <!ENTITY  dontrememberDescription.label  "&brandShortName; बतौर निजी ब्राउज़िंग की तरह समान सेटिंग का उपयोग करेगा, और कोई इतिहास याद नहीं रखेगा जब आप वेब ब्राउज़ करते हैं.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
@@ -92,6 +88,7 @@
 <!ENTITY  dontrememberActions.pre.label          "आप साथ ही चाह सकते हैं ">
 <!ENTITY  dontrememberActions.clearHistory.label "सभी मौजूदा इतिहास साफ करना">
 <!ENTITY  dontrememberActions.post.label         ".">
+
 
 <!ENTITY  privateBrowsingPermanent2.label "हमेशा निजी ब्राउजिंग विधि का उपयोग करें">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
