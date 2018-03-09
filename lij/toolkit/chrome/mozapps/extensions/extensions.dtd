@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "Gestô di Conponenti azonti">
 
-<!ENTITY search.placeholder                   "Çerca tutti i conponenti azonti">
+<!ENTITY search.placeholder2                  "Çerca in addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Çerca">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -15,7 +15,6 @@
 <!ENTITY listEmpty.availableUpdates.label     "Nisciun agiornamento trovou">
 <!ENTITY listEmpty.recentUpdates.label        "Urtimamente ti no t'æ agiornou nisciun conponente azonto">
 <!ENTITY listEmpty.findUpdates.label          "Çerca agiornamenti">
-<!ENTITY listEmpty.search.label               "No pòsso trovâ conponenti azonti">
 <!ENTITY listEmpty.button.label               "Ciù informaçioin in sci conponenti azonti">
 <!ENTITY installAddonFromFile.label           "Installa i conponenti azonti da 'n file…">
 <!ENTITY installAddonFromFile.accesskey       "I">
@@ -24,8 +23,6 @@
 <!ENTITY getThemes.description                "T'eu personalizâ o teu navegatô?">
 <!ENTITY getThemes.learnMore                  "Çerni fra migiæe de temi.">
 
-<!ENTITY cmd.back.tooltip                     "Vanni inderê de 'na pagina">
-<!ENTITY cmd.forward.tooltip                  "Vanni avanti de 'na pagina">
 
 <!ENTITY showUnsignedExtensions.button.label  "No ò posciuo verificâ quarche estenscion">
 <!ENTITY showAllExtensions.button.label       "Amia tutte e estenscioin">
@@ -42,7 +39,6 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "Abilita o contròllo de seguessa in sci agiornamenti di conponenti azonti">
 
 <!-- categories / views -->
-<!ENTITY view.search.label                    "Riçerca">
 <!ENTITY view.discover.label                  "Scarega i Conponenti azonti">
 <!ENTITY view.recentUpdates.label             "Urtimi agiornamenti">
 <!ENTITY view.availableUpdates.label          "Agiornamenti disponibili">
@@ -119,6 +115,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Fanni vedde e anotaçioin da distribuçion de sto agiornamento">
 <!ENTITY cmd.hideReleaseNotes.label           "Ascondi e anotaçioin da distribuçion">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Ascondi e anotaçioin da distribuçion de sto agiornamento">
+<!ENTITY cmd.findReplacement.label            "Treuva 'na alternativa">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
@@ -174,21 +171,15 @@
 <!ENTITY sort.name.tooltip                    "Ordina pe nomme">
 <!ENTITY sort.dateUpdated.label               "Agiornou">
 <!ENTITY sort.dateUpdated.tooltip             "Ordina pe dæta de agiornamento">
-<!ENTITY sort.relevance.label                 "A megio corispondensa">
-<!ENTITY sort.relevance.tooltip               "Oridina pe inportansa">
-<!ENTITY sort.price.label                     "Prexo">
-<!ENTITY sort.price.tooltip                   "Ordina pe prexo">
-
-<!ENTITY search.filter2.label                 "Riçerca:">
-<!ENTITY search.filter2.installed.label       "i mæ conponenti azonti">
-<!ENTITY search.filter2.installed.tooltip     "Fanni vedde i conponenti azonti instalæ">
-<!ENTITY search.filter2.available.label       "Conponenti azonti disponibili">
-<!ENTITY search.filter2.available.tooltip     "Fanni vedde i conponenti azonti che se peuan instalâ">
 
 <!ENTITY addon.homepage                       "Pagina Prinçipâ">
 <!ENTITY addon.details.label                  "Ciù">
 <!ENTITY addon.details.tooltip                "Fanni vedde ciù informaçioin rigoardo sto conponente azonto">
 <!ENTITY addon.unknownDate                    "no conosciuo">
+<!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
+     to the add-on name for extensions that are not webextensions, which
+     will stop working in Firefox 57. -->
+<!ENTITY addon.legacy.label                   "LEGACY">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
@@ -253,3 +244,8 @@
 
 <!ENTITY pluginDeprecation.description "Te manca quarcösa? Quarche plugin o no l'é ciù soportou da &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Ciù informaçioin.">
+
+<!ENTITY legacyWarning.showLegacy "Amia estenscioin legacy">
+<!ENTITY legacyExtensions.title "Estenscioin Legacy">
+<!ENTITY legacyExtensions.description "Ste estenscioin no va ben co-i corenti standard de &brandShortName; coscì en stæti dizativæ.">
+<!ENTITY legacyExtensions.learnMore "Pe saveine de ciù in sci conponenti azonti">
