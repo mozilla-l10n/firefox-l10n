@@ -53,8 +53,7 @@
                                            siguraduhin na mayroon kang pinakabagong bersyon ng &brandShortName; mula sa:">
 
 <!ENTITY  finishedPage.title              "Nakahanda na ang Update para Iinstall">
-<!ENTITY  finishedPage.text               "Ang update ay maiinstall sa sunod na patakbuhin mo ang &brandShortName. Ikaw ay
-                                           maaaring mag-restart sa &brandShortName; ngayon, o magpatuloy na magtrabaho at mag-restart mamaya.">
+<!ENTITY  finishedPage.text               "Ang update ay maiinstall sa sunod na patakbuhin mo ang &brandShortName;. Ikaw ay maaaring mag-restart sa &brandShortName; ngayon, o magpatuloy na magtrabaho at mag-restart mamaya.">
 
 <!ENTITY  finishedBackgroundPage.text     "Ang update para sa seguridad at stabilidad ng &brandShortName; ay 
                                            nadownload na at handa nang i-install.">
