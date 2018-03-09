@@ -7,14 +7,14 @@
 
 <!ENTITY loadError.label "Kukho ingxaki ekulayisheni ikhasi">
 <!ENTITY retry.label "Zama Kwakhona">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Ayikwazi kudibanisa">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "Le dilesi inemida">
-<!ENTITY deniedPortAccess.longDesc " ‌">
+<!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Iseva ayifunyenwanga">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
@@ -80,9 +80,9 @@
 
 <!ENTITY nssBadCert.title "Unxibelelwano lokhuseleko aluphumelelanga">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Oku kusenokuba yingxaki kulungiselelo lweseva okanye mntu uthile uzama ukuzenza umnini weseva.</li> <li>Ukuba wawunxityelelwe kule seva ngempumelelo ngaphambili, imposiso isenokuba yeyethutyana kwaye ungazama kwakhona kamva.</li> </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-
 <!ENTITY sharedLongDesc3 "<ul> <li>Isayithi isenokungafumaneki okwethutyana okanye ixakeke kakhulu. Zama kwakhona emva kwemizuzwana embalwa.</li> <li>Ukuba akukwazi ukulayisha amakhasi, khangela unxibelelwano lweengcombolo zesixhobo sakho esihanjiswayo okanye i-Wi-Fi.    <button id='wifi'> Vumela i-Wi-Fi </button>   </li> </ul>">
 
 <!ENTITY cspBlocked.title "Ithintelwe nguMgaqonkqubo woKhuseleko lomXholo">
@@ -94,11 +94,11 @@
 <!ENTITY securityOverride.linkText "Okanye ungongeza ieksepshini…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Ndikhuphe apha!">
 <!ENTITY securityOverride.exceptionButtonLabel "Yongeza ieksepshini…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>Akumele kongeza ieksepshini ukuba usebenzisa unxibelelwano lweintanethi ongaluthembi ncam okanye ukuba akuqhelanga ukubona isilumkiso kule seva.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
