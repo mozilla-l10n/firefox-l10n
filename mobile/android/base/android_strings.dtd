@@ -423,7 +423,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; Health Report">
 <!ENTITY datareporting_fhr_summary2 "Ndan me &vendorShortName;-n të dhëna rreth shëndetit të shfletuesit tuaj dhe ju ndihmon të vlerësoni cilësinë e punës së shfletuesit tuaj">
-<!ENTITY datareporting_abouthr_title "Shihni Raportin tuaj mbi Shëndetin">
 <!ENTITY datareporting_telemetry_title "Telemetry">
 <!ENTITY datareporting_telemetry_summary "Ndan me &vendorShortName;-n të dhëna funksionimi, përdorimi, hardware-i dhe përshtatjesh të shfletuesit tuaj, që të na ndihmojë ta bëjmë &brandShortName;-in më të mirë">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName;-u parashtron te &vendorShortName; njoftime vithisjesh, për të na ndihmuar ta bëjmë shfletuesin tuaj më të qëndrueshëm dhe më të sigurt">
@@ -760,7 +759,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
-<!ENTITY intent_uri_private_browsing_prompt "Kjo lidhje do të hapet nën &formatS;. Jeni i sigurt se doni të dilni nga Shfletimi Privat?">
+<!ENTITY intent_uri_private_browsing_prompt "Kjo lidhje do të hapet nën &formatS;. Jeni i sigurt se doni të dilet nga Shfletimi Privat?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
