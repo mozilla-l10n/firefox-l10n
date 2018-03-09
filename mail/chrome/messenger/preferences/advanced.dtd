@@ -114,7 +114,7 @@
 <!ENTITY certs.ask                       "Pyetmë çdo herë">
 <!ENTITY certs.ask.accesskey             "y">
 <!ENTITY enableOCSP.label                "Kërkojuni shërbyesve me përgjigje OCSP të ripohojnë vlefshmërinë e tanishme të dëshmive">
-<!ENTITY enableOCSP.accesskey            "Q">
+<!ENTITY enableOCSP.accesskey            "K">
 
 <!ENTITY manageCertificates.label "Administroni Dëshmi">
 <!ENTITY manageCertificates.accesskey "A">

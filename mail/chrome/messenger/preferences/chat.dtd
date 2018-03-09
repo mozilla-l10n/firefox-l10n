@@ -35,7 +35,7 @@ sentence. -->
 <!ENTITY  getAttention.accesskey              "X">
 <!ENTITY  getAttentionMac.label               "Kryej animacion ikone paneli">
 <!ENTITY  getAttentionMac.accesskey           "a">
-<!ENTITY  chatSound.accesskey                 "d">
+<!ENTITY  chatSound.accesskey                 "L">
 <!ENTITY  chatSound.label                     "Luaj një tingull">
 <!ENTITY  play.label                          "Luaje">
 <!ENTITY  play.accesskey                      "L">
@@ -50,7 +50,7 @@ sentence. -->
 <!ENTITY messageStylePreview.label         "Paraparje:">
 <!ENTITY messageStyleTheme.label           "Temë:">
 <!ENTITY messageStyleTheme.accesskey       "T">
-<!ENTITY messageStyleThunderbirdTheme.label "">
+<!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
 <!ENTITY messageStyleBubblesTheme.label    "Flluska">
 <!ENTITY messageStyleDarkTheme.label       "E errët">
 <!ENTITY messageStylePaperSheetsTheme.label "Fletë Letre">
