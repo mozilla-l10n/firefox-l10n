@@ -4,7 +4,7 @@
 
 <!ENTITY     window.title                  "การตั้งค่า - ข้อมูลไซต์">
 
-<!ENTITY     window1.title                 "การตั้งค่า - คุกกี้และข้อมูลไซต์">
+<!ENTITY     window2.title                 "จัดการคุกกี้และข้อมูลไซต์">
 <!ENTITY     hostCol.label                 "ไซต์">
 <!ENTITY     statusCol.label               "สถานะ">
 <!ENTITY     cookiesCol.label              "คุกกี้">
