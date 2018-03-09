@@ -7,14 +7,14 @@
 
 <!ENTITY loadError.label "पृष्ठ की लोडिंग में समस्या">
 <!ENTITY retry.label "फिर कोशिश करें">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "कनेक्ट करने में असमर्थ">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "यह पता प्रतिबंधित है">
-<!ENTITY deniedPortAccess.longDesc "‌">
+<!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "सर्वर नहीं मिला">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
@@ -80,9 +80,9 @@
 
 <!ENTITY nssBadCert.title "सुरक्षित कनेक्शन विफल">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>यह सर्वर के विन्यास के साथ समस्या हो सकती है, या यह कोई ऐसा हो सकता है जो सर्वर के रूप को बदलने की कोशिश कर रहा है.</li> <li>यदि आप पहले इस सर्वर से सफलतापूर्वक सम्पर्क स्थापित कर चुके हैं, तो त्रुटि अस्थायी हो सकती है, और आप बाद में पुनः कोशिश कर सकते हैं.</li> </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-
 <!ENTITY sharedLongDesc3 "<ul> <li>यह साईट अस्थाई रूप से अनुपलब्ध या अत्यंत व्यस्त हो सकता है.कुछ क्षणों में पुनः प्रयाश करें.</li> <li>यदि आप किसी भी पृष्ठ को लोड कर पाने में असमर्थ हैं, तो अपने मोबाइल उपकरण के डेटा या वाई फाई कनेक्शन की जाँच करें. <button id='wifi'>वाई फाई सक्रिय करें</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "अंतर्वस्तु सुरक्षा नीति के द्वारा अवरोधित">
@@ -94,11 +94,11 @@
 <!ENTITY securityOverride.linkText "या आप अपवाद जोड़ सकते हैं…">
 <!ENTITY securityOverride.getMeOutOfHereButton "यहाँ से मुझे बाहर निकालें!">
 <!ENTITY securityOverride.exceptionButtonLabel "अपवाद जोड़ें…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>यदि आप इंटरनेट संपर्क का उपयोग कर रहे हैं  जिस पर आप पूर्ण से विश्वास नहीं करते हैं या आप इस सर्वर के लिए चेतावनी नहीं देख पा रहे हैं तो आपको अपवाद नहीं जोड़ना चाहिए .</p> <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
