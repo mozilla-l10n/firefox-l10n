@@ -11,15 +11,26 @@
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
+<!ENTITY importFromEdge.label           "Microsoft Edge">
+<!ENTITY importFromEdge.accesskey       "E">
 <!ENTITY importFromNothing.label        "No inportâ ninte">
 <!ENTITY importFromNothing.accesskey    "N">
 <!ENTITY importFromSafari.label         "Safari">
 <!ENTITY importFromSafari.accesskey     "S">
+<!ENTITY importFromCanary.label         "Chrome Canary">
+<!ENTITY importFromCanary.accesskey     "h">
 <!ENTITY importFromChrome.label         "Chrome">
 <!ENTITY importFromChrome.accesskey     "C">
+<!ENTITY importFromChromeBeta.label     "Chrome Beta">
+<!ENTITY importFromChromeBeta.accesskey "B">
+<!ENTITY importFromChromeDev.label      "Chrome Dev">
+<!ENTITY importFromChromeDev.accesskey  "D">
+<!ENTITY importFromChromium.label       "Chromium">
+<!ENTITY importFromChromium.accesskey   "u">
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "X">
-
+<!ENTITY importFrom360se.label          "360 Secure Browser">
+<!ENTITY importFrom360se.accesskey      "3">
 
 <!ENTITY noMigrationSources.label       "Nisciunn-a aplicaçion che a contegne di segnalibbri, stöia ò paròlle segrete peu ese trova.">
 
@@ -36,16 +47,4 @@
 <!ENTITY done.title                     "Inportaçion terminâ">
 <!ENTITY done.label                     "Sti ògetti son stæti inportæ:">
 
-<!ENTITY closeSourceBrowser.label "Aseguase che o navegatô seleçionou o segge serou primma de anâ avanti.">
-<!ENTITY importFrom360se.label "360 Secure Browser">
-<!ENTITY importFrom360se.accesskey "3">
-<!ENTITY importFromCanary.label "Chrome Canary">
-<!ENTITY importFromCanary.accesskey "h">
-<!ENTITY importFromChromium.label "Chromium">
-<!ENTITY importFromChromium.accesskey "u">
-<!ENTITY importFromEdge.label "Microsoft Edge">
-<!ENTITY importFromEdge.accesskey "E">
-
-
-
-
+<!ENTITY closeSourceBrowser.label       "Aseguase che o navegatô seleçionou o segge serou primma de anâ avanti.">

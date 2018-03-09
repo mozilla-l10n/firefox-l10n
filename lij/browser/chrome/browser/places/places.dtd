@@ -85,7 +85,8 @@
 <!ENTITY col.dateadded.label     "Azonto">
 <!ENTITY col.lastmodified.label  "Cangiou o">
 
-<!ENTITY search.placeholder  "Çerca">
+<!ENTITY historySearch.placeholder  "Çerca inta stöia">
+<!ENTITY bookmarksSearch.placeholder  "Çerca inti segnalibbri">
 
 <!ENTITY cmd.find.key  "f">
 
