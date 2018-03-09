@@ -8,7 +8,7 @@
 <!ENTITY checkAutoDetect.accesskey "N">
 <!ENTITY titleStartUp "Gjendje dorazi gjatë nisjes:">
 <!ENTITY radioRememberPrevState.label "Mba mend gjendjen e mëparshme lidhur me linjën">
-<!ENTITY radioRememberPrevState.accesskey "K">
+<!ENTITY radioRememberPrevState.accesskey "M">
 <!ENTITY radioAskState.label "Pyetmë për gjendje linje">
 <!ENTITY radioAskState.accesskey "P">
 <!ENTITY radioAlwaysOnlineState.label "Në linjë">

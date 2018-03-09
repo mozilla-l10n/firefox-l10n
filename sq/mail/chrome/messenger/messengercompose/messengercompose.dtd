@@ -29,7 +29,7 @@
 <!ENTITY attachVCardCmd.label "Kartë Vetjake (vCard)">
 <!ENTITY attachVCardCmd.accesskey "V">
 <!ENTITY remindLater.label "Kujtoma Më Vonë">
-<!ENTITY remindLater.accesskey "L">
+<!ENTITY remindLater.accesskey "V">
 <!ENTITY closeCmd.label "Mbylle">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "M">
@@ -53,7 +53,7 @@
 <!ENTITY printSetupCmd.label "Rregullim Faqeje…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "Paraparje Shtypjeje">
-<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printPreviewCmd.accesskey "a">
 <!ENTITY printCmd.label "Shtypni…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "S">

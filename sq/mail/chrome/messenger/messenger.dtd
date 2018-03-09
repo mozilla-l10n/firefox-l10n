@@ -144,7 +144,7 @@
 <!ENTITY messagePaneVertical.label "Shfaqje Vertikale">
 <!ENTITY messagePaneVertical.accesskey "V">
 <!ENTITY showFolderPaneCmd.label "Kuadrat Dosjesh">
-<!ENTITY showFolderPaneCmd.accesskey "F">
+<!ENTITY showFolderPaneCmd.accesskey "u">
 <!ENTITY showFolderPaneColsCmd.label "Shtylla Kuadrati Dosjesh">
 <!ENTITY showFolderPaneColsCmd.accesskey "t">
 <!ENTITY showMessageCmd.label "Kuti Mesazhesh">
@@ -163,7 +163,7 @@
 <!ENTITY recentFolders.label "Së fundi">
 <!ENTITY recentFolders.accesskey "f">
 <!ENTITY compactVersion.label "Parje e Ngjeshur">
-<!ENTITY compactVersion.accesskey "C">
+<!ENTITY compactVersion.accesskey "P">
 <!ENTITY folderPaneBar.label "Panel Kuadrati Dosjesh">
 <!ENTITY folderPaneBar.accesskey "D">
 <!ENTITY folderModeSelector.label "Pamje Dosjesh">
@@ -440,7 +440,7 @@
 <!ENTITY openAttachmentListCmd.label "Bashkëngjitje">
 <!ENTITY openAttachmentListCmd.accesskey "h">
 <!ENTITY openFeedMessage1.label "Kur Hapen Mesazhe Prurjeje">
-<!ENTITY openFeedMessage1.accesskey "O">
+<!ENTITY openFeedMessage1.accesskey "K">
 <!ENTITY openFeedWebPage.label "Hapeni Si Faqe Web">
 <!ENTITY openFeedWebPage.accesskey "W">
 <!ENTITY openFeedSummary.label "Hape si Përmbledhje">
@@ -496,7 +496,7 @@
 <!ENTITY clearRecentHistory.label "Pastroni Historikun Së Fundi…">
 <!ENTITY clearRecentHistory.accesskey "H">
 <!ENTITY accountManagerCmd2.label "Rregullime Llogarie">
-<!ENTITY accountManagerCmd2.accesskey "S">
+<!ENTITY accountManagerCmd2.accesskey "R">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey):
      Belongs to accountManagerCmd.label, which is placed under the Edit menu
      on Unix systems
