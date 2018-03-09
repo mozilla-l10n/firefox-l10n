@@ -16,7 +16,7 @@
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "ഈ വിലാസം നിരോധിക്കപ്പെട്ടതാണ്‌ ">
-<!ENTITY deniedPortAccess.longDesc "‌">
+<!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "സെർവർ കണ്ടെത്താനായില്ല">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
@@ -116,6 +116,7 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.title "താങ്കളുടെ കണക്ഷന്‍ സുരക്ഷിതമല്ല">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
 
 <!ENTITY prefReset.longDesc "ഇതിനു കാരണം നെറ്റ്‍വർക്ക് സുരക്ഷ ക്രമീകരണങ്ങളാണെന്നു തോന്നുന്നു. സ്ഥിരസ്ഥിതി ക്രമീകരണങ്ങൾ പുനഃസ്ഥാപിക്കേണ്ടതുണ്ടോ?">
 <!ENTITY prefReset.label "സ്വതേയുള്ള സജ്ജീകരണങ്ങള്‍ വീണ്ടെടുക്കുക">

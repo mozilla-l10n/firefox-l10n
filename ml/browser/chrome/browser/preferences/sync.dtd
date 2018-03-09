@@ -44,7 +44,7 @@ signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
-<!ENTITY signedInUnverified.beforename.label "‌">
+<!ENTITY signedInUnverified.beforename.label "">
 <!ENTITY signedInUnverified.aftername.label "ഉറപ്പാക്കിയിട്ടില്ല.">
 
 <!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
@@ -53,20 +53,16 @@ before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
 <!ENTITY signedInLoginFailure.beforename.label "വീണ്ടും കണക്ട് ചെയ്യുന്നതിന് പ്രവേശിയ്ക്കുക">
-<!ENTITY signedInLoginFailure.aftername.label "‌">
+<!ENTITY signedInLoginFailure.aftername.label "">
 
-<!ENTITY notSignedIn.label           "നിങ്ങള്‍ പ്രവേശിച്ചിട്ടില്ല.">
-<!ENTITY signIn.label                "പ്രവേശിക്കുക">
-<!ENTITY signIn.accesskey            "g">
-<!ENTITY profilePicture.tooltip      "പ്രൊഫൈല്‍ ചിത്രം മാറ്റുക">
-<!ENTITY verifiedManage.label        "അക്കൗണ്ട് കൈകാര്യം ചെയ്യുക">
-<!ENTITY verifiedManage.accesskey    "o">
-<!ENTITY disconnect3.label           "ബന്ധം വിച്ചേദിക്കുക">
-<!ENTITY disconnect3.accesskey       "D">
-<!ENTITY verify.label                "ഇമെയില്‍ പരിശോധിക്കുക">
-<!ENTITY verify.accesskey            "V">
-<!ENTITY forget.label                "ഈ ഇമെയില്‍ മറക്കുക">
-<!ENTITY forget.accesskey            "F">
+<!ENTITY notSignedIn.label            "നിങ്ങള്‍ പ്രവേശിച്ചിട്ടില്ല.">
+<!ENTITY signIn.label                 "പ്രവേശിക്കുക">
+<!ENTITY signIn.accesskey             "g">
+<!ENTITY profilePicture.tooltip       "പ്രൊഫൈല്‍ ചിത്രം മാറ്റുക">
+<!ENTITY verifiedManage.label         "അക്കൗണ്ട് കൈകാര്യം ചെയ്യുക">
+<!ENTITY verifiedManage.accesskey     "o">
+<!ENTITY disconnect3.label            "ബന്ധം വിച്ചേദിക്കുക">
+<!ENTITY disconnect3.accesskey        "D">
 
 <!ENTITY signedOut.caption            "നിങ്ങളുടെ വെബിനെ നിങ്ങളുടെ കൂടെ കൊണ്ട് പോവുക">
 <!ENTITY signedOut.description        "നിങ്ങളുടെ അടയാളക്കുറിപ്പുകള്‍, നാള്‍വഴി, ടാബുകള്‍, രഹസ്യവാക്കുകള്‍, ആഡോണുകള്‍, ക്രമീകരണങ്ങള്‍ നിങ്ങളുടെ എല്ലാ ഡിവൈസുകളിലേക്കും പൊരുത്തപ്പെടുത്തുക.">
@@ -94,3 +90,4 @@ both, to better adapt this sentence to their language.
 <!ENTITY mobilePromo3.iOSLink          "ഐഓഎസ്">
 
 <!ENTITY mobilePromo3.end              " നിങ്ങളുടെ മൊബൈൽ ഉപകരണം ഉപയോഗിച്ച് സമന്വയിപ്പിക്കാൻ വേണ്ടി.">
+

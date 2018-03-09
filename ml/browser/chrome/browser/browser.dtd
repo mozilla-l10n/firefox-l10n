@@ -125,6 +125,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "A">
 <!ENTITY toggleReaderMode.key "R">
 
+
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label;-ലേക്ക് പ്രവേശിയ്ക്കുക">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; മുന്‍ഗണനകള്‍ തുറക്കുക">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label;-ലേക്ക് വീണ്ടും കണക്ട് ചെയ്യുക">
@@ -144,7 +145,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      respectively before and after the domain requiring fullscreen.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
-<!ENTITY fullscreenWarning.beforeDomain.label "‌‌">
+<!ENTITY fullscreenWarning.beforeDomain.label "">
 <!ENTITY fullscreenWarning.afterDomain.label "ഇപ്പോള്‍ പൂര്‍ണ്ണ വലിപ്പത്തിലാണു്">
 <!ENTITY fullscreenWarning.generic.label "രേഖ ഇപ്പോള്‍ പൂര്‍ണ്ണ വലിപ്പത്തിലാണു്">
 
@@ -222,14 +223,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "താള്‍ തര്‍ജ്ജമ ചെയ്യുന്നത് ക്രമീകരിക്കുക">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "ഡിആര്‍എം സോഫ്റ്റ്‌വെയറിന്റെ ഉപയോഗം ക്രമീകരിക്കുക">
 
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "ഈ വെബ് സൈറ്റിന് നിങ്ങളുടെ ക്യാമറ ഉപയോഗിയ്ക്കുവാൻ സാധ്യമല്ല.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "ഈ വെബ് സൈറ്റിന് നിങ്ങളുടെ മൈക്രോഫോൺ ഉപയോഗിയ്ക്കുവാൻ സാധ്യമല്ല.">
 <!ENTITY urlbar.screenBlocked.tooltip            "ഈ വെബ് സൈറ്റിന് നിങ്ങളുടെ സ്ക്രീൻ പങ്കിടുവാൻ സാധ്യമല്ല.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "ഈ വെബ് സൈറ്റിന് നിങ്ങൾ എവിടെയെന്നുള്ള വിവരം ലഭ്യമല്ല.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "നിങ്ങൾ ഈ വെബ്സൈറ്റിന്റെ ഡാറ്റ സൂക്ഷിപ്പ് തടഞ്ഞിരിക്കയാണ്.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "ഈ വെബ് സൈറ്റിന് അറിയിപ്പുകൾ ലഭ്യമല്ല.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "നിങ്ങൾ ഈ വെബ് സൈറ്റ്ലെ സ്ഥിര ഡാറ്റ സൂക്ഷിപ്പ്  തടഞ്ഞിരിക്കുകയാണ്">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "നിങ്ങള്‍ ഈ വെബ്സൈറ്റിന്റെ പോപ്പ് അപ്പുകള്‍ നിരോധിച്ചിരിക്കുന്നു.">
 
 
@@ -297,7 +297,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "പുതിയ സ്വകാര്യ ജാലകം">
 <!ENTITY newPrivateWindow.accesskey "ല">
-<!ENTITY newNonRemoteWindow.label   "ഇലക്ട്രോലൈസിസ് ഇല്ലാത്ത പുതിയ ജാലകം">
 
 <!ENTITY editMenu.label         "ചിട്ടപ്പെടുത്തുക">
 <!ENTITY editMenu.accesskey       "E">
@@ -352,18 +351,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "ഇതുവരെയുള്ള നാള്‍വഴി കാണിക്കുക">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "യഥേഷ്ടം സജ്ജമാക്കുക">
-<!ENTITY appMenuCustomize.tooltip "മെനുവും ടൂള്‍ബാറുകള്‍ യഥേഷ്ടമാക്കുക">
-<!ENTITY appMenuCustomizeExit.label "യഥേഷ്ടമാക്കുന്നതില്‍ നിന്നും പുറത്ത് കടക്കുക">
-<!ENTITY appMenuCustomizeExit.tooltip "യഥേഷ്ടമാക്കുന്നത് പൂര്‍ത്തിയാക്കുക">
-
 <!ENTITY appMenuHistory.showAll.label "ഇതുവരെയുള്ള നാള്‍വഴി കാണിക്കുക">
 <!ENTITY appMenuHistory.clearRecent.label "ഏറ്റവും പുതിയ നാള്‍വഴി വെടിപ്പാക്കുക…">
 <!ENTITY appMenuHistory.restoreSession.label "മുമ്പുള്ള സെഷന്‍ വീണ്ടെടുക്കുക">
 <!ENTITY appMenuHistory.viewSidebar.label "നാള്‍വഴി സൈഡ്ബാര്‍ കാണുക.">
 <!ENTITY appMenuHistory.recentHistory.label "സമീപകാല ചരിത്രം">
 <!ENTITY appMenuHelp.label "സഹായം">
-<!ENTITY appMenuHelp.tooltip "സഹായ മെനു തുറക്കുക">
 
 <!ENTITY appMenuRemoteTabs.label "സിന്‍കായ ടാബുകള്‍">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -383,7 +376,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "ഒരു ടാബും സിന്‍ക് ചെയ്തിട്ടില്ല …ഇതുവരെ!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "മറ്റു ഉപകരണങ്ങളില്‍ നിന്നുള്ള ടാബുകള്‍ ഇവിടെ കാണിക്കണോ?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "സിന്‍ക് മുന്‍ഗണനകള്‍">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "മറ്റു ഉപകരണങ്ങളില്‍ നിന്നുള്ള ടാബുകള്‍ കാണാന്‍ സൈന്‍ ഇന്‍ ചെയ്യുക.">
@@ -391,7 +383,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "സിങ്കിലേയ്ക്ക് പ്രവേശിക്കുക">
 <!ENTITY appMenuRemoteTabs.managedevices.label "ഡിവൈസുകള്‍ മാനേജ് ചെയ്യുക…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "സിന്‍ക് ചെയ്ത ടാബുകളുടെ സൈഡ്ബാര്‍ കാണിക്കുക">
-
 <!ENTITY appMenuRemoteTabs.connectdevice.label "മറ്റൊരു ഉപകരണം കണക്റ്റുചെയ്യുക">
 
 <!ENTITY appMenuRecentHighlights.label "സമീപകാല ഹൈലൈറ്റുകൾ">
@@ -438,14 +429,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "‌‌എക്സ്ടെൻഷൻ:">
 <!ENTITY urlbar.switchToTab.label     "ഏതു് റ്റാബ്:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "താങ്കളുടെ തിരയല്‍ അനുഭവങ്ങള്‍ നിര്‍ദ്ദേശങ്ങള്‍ വഴി ഭേദപെടുത്താന്‍ താങ്കള്‍ ആഗ്രഹിക്കുന്നുണ്ടോ?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "കൂടുതല്‍ അറിയുക...">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "വേണ്ട">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "ഉവ്വ്">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "ടിപ്സ്:">
@@ -504,7 +487,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
 <!ENTITY search.label                 "തിരയുക ">
-<!ENTITY searchAfter.label            "‍">
+<!ENTITY searchAfter.label            "">
 
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
@@ -680,17 +663,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.accesskey   "I">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "‍">
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "ചെറുതാക്കുക">
 <!ENTITY fullZoomReduceCmd.accesskey    "O">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "‍">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "വീണ്ടും സജ്ജമാക്കുക">
 <!ENTITY fullZoomResetCmd.accesskey     "R">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "‌">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "പദാവലിയുടെ വലിപ്പം മാത്രം മാറ്റുക">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">
@@ -722,8 +705,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStyleNoStyle.accesskey "N">
 <!ENTITY pageStylePersistentOnly.label "അടിസ്ഥാന താള്‍ ശൈലി">
 <!ENTITY pageStylePersistentOnly.accesskey "B">
-
-<!ENTITY pageReportIcon.tooltip            "ഈ താളിന്റെ പോപ്പപ്പ് തടയല്‍ നിയന്ത്രണങ്ങള്‍ മാറ്റുക">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -809,7 +790,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "സിന്‍ക് ചെയ്ത ടാബുകള്‍">
 <!ENTITY syncedTabs.sidebar.noclients.label    "മറ്റു ഡിവൈസുകളിലെ ടാബുകള്‍ കാണാന്‍ അവയില്‍ നിന്നും ഫയര്‍ഫോക്സില്‍ സൈന്‍ ഇന്‍ ചെയ്യുക.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "ഒരു ടാബും സിന്‍ക് ചെയ്തിട്ടില്ല …ഇതുവരെ!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "മറ്റു ഉപകരണങ്ങളില്‍ നിന്നുള്ള ടാബുകള്‍ ഇവിടെ കാണിക്കണോ?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "മറ്റു ഉപകരണങ്ങളില്‍ നിന്നുള്ള ടാബുകള്‍ കാണാന്‍ സൈന്‍ ഇന്‍ ചെയ്യുക.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "ടാബൊന്നും തുറന്നിരിക്കുന്നില്ല">
@@ -818,7 +798,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "മറ്റുള്ള ഉപകരണങ്ങളില്‍ നിന്നുള്ള ടാബുകള്‍ കാണുവാന്‍ ടാബ് സിന്‍ക് ഓണാക്കൂ">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "സമന്വയിപ്പിച്ച ടാബുകൾ തിരയുക">
-
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -854,8 +833,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "സിന്‍ക് ചെയ്യുക">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "നിങ്ങളുടെ പ്രിയപ്പെട്ട ഇനങ്ങൾ ടൂൾബാറിൽ അല്ലെങ്കിൽ ഓവർഫ്ലോ മെനുവിലേക്ക് ഡ്രാഗ് ചെയ്യുക.">
-<!ENTITY customizeMode.menuAndToolbars.empty "കൂടുതല്‍ പ്രയോഗങ്ങള്‍ ആവശ്യമുണ്ടോ?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "അനേകം ആഡ്-ഓണുകളില്‍ നിന്നും തെരഞ്ഞെടുക്കുക">
 <!ENTITY customizeMode.restoreDefaults "സ്വതവേയുള്ളവ പുനഃസ്ഥാപിക്കുക">
 <!ENTITY customizeMode.done "ചെയ്തു">
 <!ENTITY customizeMode.titlebar "തലക്കെട്ട് പട്ട">
@@ -868,7 +845,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "കൂടുതല്‍ തീമുകള്‍ ലഭ്യമാക്കുക">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-<!ENTITY customizeMode.emptyOverflowList.description "ടൂള്‍ബാറില്‍ നിന്നു മാറി, കയ്യകലത്തില്‍ വക്കാനായി ഇങ്ങോട്ട് വലിച്ചിടുക…">
 <!ENTITY customizeMode.overflowList.title2 "ഓവർഫ്ളോ മെനു">
 <!ENTITY customizeMode.overflowList.description "ടൂള്‍ബാറില്‍ നിന്നു മാറി, കയ്യകലത്തില്‍ വക്കാനായി ഇങ്ങോട്ട് വലിച്ചിടുക…">
 <!ENTITY customizeMode.uidensity "സാന്ദ്രത">
@@ -994,7 +970,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "പേജ് പ്രവർത്തനങ്ങൾ">
 <!ENTITY pageAction.addToUrlbar.label "അഡ്രസ് ബാറിലേക്ക് ചേർക്കുക">
 <!ENTITY pageAction.removeFromUrlbar.label "അഡ്രസ് ബാറിൽ നിന്ന് നീക്കം ചെയ്യുക">
-
 <!ENTITY pageAction.allowInUrlbar.label "അഡ്രസ് ബാറില്‍ കാണിക്കുക">
 <!ENTITY pageAction.disallowInUrlbar.label "അഡ്രസ് ബാറില്‍ കാണിക്കേണ്ടതില്ല">
 
@@ -1008,3 +983,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "അക്സസ്സിബിലിറ്റി ഫീച്ചേര്‍സ് സജ്ജമാണ്">
+
+<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
+     The first <image> tag is replaced with the icon for the add-ons menu.
+     The second <image> tag is replaced with the icon for the toolbar menu. -->
