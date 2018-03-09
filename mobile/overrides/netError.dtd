@@ -7,14 +7,14 @@
 
 <!ENTITY loadError.label "ಪುಟವನ್ನು ಲೋಡ್‍ ಮಾಡುವಲ್ಲಿ ತೊಂದರೆ ಎದುರಾಗಿದೆ">
 <!ENTITY retry.label "ಮತ್ತೆ ಪ್ರಯತ್ನಿಸು">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "ಸಂಪರ್ಕ ಹೊಂದಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "ಈ ವಿಳಾಸವು ಪ್ರತಿಬಂಧಿಸಲ್ಪಟ್ಟಿದೆ">
-<!ENTITY deniedPortAccess.longDesc "‍">
+<!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "ಪರಿಚಾರಕವು ಕಂಡುಬಂದಿಲ್ಲ">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
@@ -80,9 +80,9 @@
 
 <!ENTITY nssBadCert.title "ಸುರಕ್ಷಿತ ಸಂಪರ್ಕವು ವಿಫಲಗೊಂಡಿದೆ">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>ಇದು ಸರ್ವರ್ ಸಂರಚನೆಯಲ್ಲಿನ ಒಂದು ತೊಂದರೆ ಇರಬಹುದು, ಅಥವ ಯಾರಾದರೂ ಸರ್ವರ್‍‍ನಂತೆ ವರ್ತಿಸಲು ಪ್ರಯತ್ನಿಸುತ್ತಿರಬಹುದು.</li> <li>ಈ ಮೊದಲು ನೀವು ಸರ್ವರ್‍‍ಗೆ ಯಶಸ್ವಿಯಾಗಿ ಸಂಪರ್ಕ ಹೊಂದಲು ಸಾಧ್ಯವಾಗಿದ್ದಲ್ಲಿ, ಈಗಿನ ದೋಷವು ತಾತ್ಕಾಲಿಕವಾಗಿರಬಹುದು, ಹಾಗು ನೀವು ಸ್ವಲ್ಪ ಸಮಯದ ನಂತರ ಮರಳಿ ಪ್ರಯತ್ನಿಸಿ.</li> </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-
 <!ENTITY sharedLongDesc3 "<ul> <li>ಈ ತಾಣವು ತಾತ್ಕಾಲಿಕವಾಗಿ ಲಭ್ಯವಿಲ್ಲದಿರಬಹುದು ಅಥವಾ ಕಾರ್ಯದ ಒತ್ತಡದಲ್ಲಿರಬಹುದು. ಕೆಲವು ಕ್ಷಣಗಳ ನಂತರ ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ.</li> <li>ಯಾವುದೇ ಪುಟವೂ ತೆರೆಯದಿದ್ದಲ್ಲಿ, ನಿಮ್ಮ ಮೊಬೈಲಿನ ಡೇಟಾ ಅಥವಾ ವೈ-ಫೈ ಪರಿಶೀಲಿಸಿ.  <button id='wifi'>ವೈ-ಫೈ ಸಕ್ರಿಯಗೊಳಿಸಿ</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "ವಿಷಯ ಸುರಕ್ಷತಾ ನಿಯಮದಿಂದ ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ">
@@ -94,11 +94,11 @@
 <!ENTITY securityOverride.linkText "ಅಥವ ನೀವು ವಿನಾಯಿತಿಯನ್ನು ಸೇರಿಸಬಹದು…">
 <!ENTITY securityOverride.getMeOutOfHereButton "ನನಗೆ ಇಲ್ಲಿಂದ ಹೊರಗೆ ಕೊಂಡೊಯ್ಯಿ!">
 <!ENTITY securityOverride.exceptionButtonLabel "ವಿನಾಯಿತಿಯನ್ನು ಸೇರಿಸು…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>ನೀವು ಸಂಪೂರ್ಣವಾಗಿ ನಂಬದಿರುವ ಒಂದು ಅಂತರಜಾಲ ಸಂಪರ್ಕವನ್ನು ಬಳಸುತ್ತಿದ್ದಲ್ಲಿ ಅಥವಾ ಈ ಪರಿಚಾರಕದಿಂದ ಈ ಹಿಂದೆ ಯಾವುದೆ ಎಚ್ಚರಿಕಾ ಸಂದೇಶವು ಕಂಡು ಬಂದಿರದೆ ಇದ್ದಂತಹ ಸಂದರ್ಭದಲ್ಲಿ ನೀವು ಒಂದು ವಿನಾಯಿತಿಯನ್ನು ಸೇರಿಸಬಾರದು.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
