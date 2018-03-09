@@ -20,8 +20,6 @@
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 <!ENTITY warningDesc.version        "&brandShortName; është eksperimental dhe mund të jetë i paqëndrueshëm.">
-<!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "Dërgon vetvetiu te &vendorShortName; të dhëna mbi funksionimin, hardware-in, përdorimin dhe përshtatjet, për të ndihmuar në përmirësimin e &brandShortName;-it.">
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 <!ENTITY community.exp.start        "">
@@ -41,11 +39,11 @@
 <!ENTITY community.end3             " që punon tok për ta mbajtur Web-in të hapët, publik dhe të përdorshëm nga kushdo.">
 
 <!ENTITY helpus.start               "Doni të ndihmoni? ">
-<!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
+<!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://donate.mozilla.org/?utm_source=firefox&utm_medium=referral&utm_campaign=firefox_about&utm_content=firefox_about. -->
 <!ENTITY helpus.donateLink          "Bëni një dhurim">
 <!ENTITY helpus.middle              " ose ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY helpus.getInvolvedLink     "Përfshihuni!">
+<!ENTITY helpus.getInvolvedLink     "përfshihuni!">
 <!ENTITY helpus.end                 "">
 
 <!ENTITY releaseNotes.link          "Ç’ka të re">
