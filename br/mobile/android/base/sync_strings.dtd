@@ -30,7 +30,7 @@
 
 <!-- Bookmark folder strings -->
 <!ENTITY bookmarks.folder.menu.label 'Lañser ar sinedoù'>
-<!ENTITY bookmarks.folder.places.label 'a'>
+<!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label 'Gerioù Alc\&apos;hwez'>
 <!ENTITY bookmarks.folder.toolbar.label 'Barrenn ostilhoù ar sinedoù'>
 <!ENTITY bookmarks.folder.other.label 'Sinedoù all'>
