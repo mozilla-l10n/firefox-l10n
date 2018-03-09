@@ -322,7 +322,7 @@
 <!ENTITY removeAttachment.accesskey "v">
 <!ENTITY renameAttachment.label "Hernoemen…">
 <!ENTITY renameAttachment.accesskey "H">
-<!ENTITY reorderAttachments.label "Volgorde bijlagen wijzigen…">
+<!ENTITY reorderAttachments.label "Volgorde van bijlagen wijzigen…">
 <!ENTITY reorderAttachments.accesskey "d">
 <!ENTITY selectAll.label "Alles selecteren">
 <!ENTITY selectAll.accesskey "A">
