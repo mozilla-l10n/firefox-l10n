@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+do-not-track-description = Manda a-o scito 'n signâ  “No traciame” coscì da faghe savei che ti no veu ese traciou
 do-not-track-learn-more = Atre informaçioin
 do-not-track-option-default =
     .label = Solo quande ti deuvi a proteçion anti-traciamento.
@@ -20,6 +21,10 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
+policies-notice = { PLATFORM() ->
+        [windows] A teu òrganizaçion a l'à dizabilitou a poscibilitæ de cangiâ quarche òpçion
+       *[other] A teu òrganizaçion a l'à dizabilitou a poscibilitæ de cangiâ quarche preferensa
+    }
 pane-general-title = Generale
 category-general =
     .tooltiptext = { pane-general-title }
@@ -74,6 +79,8 @@ startup-blank-page =
     .label = Fanni vedde 'na pagina gianca
 startup-prev-session =
     .label = Fanni vedde i barcoin e feuggi averti l'urtima vòtta
+disable-extension =
+    .label = Dizabilita estençion
 home-page-header = Fanni vedde a pagina iniçiâ
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -95,6 +102,9 @@ tabs-group-header = feuggi
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab o gia fra i feuggi averti de frésco
     .accesskey = T
+open-new-link-as-tabs =
+    .label = Arvi colegamento into feuggio in cangio do barcon
+    .accesskey = V
 warn-on-close-multiple-tabs =
     .label = Avertime quande særo ciù feuggi insemme
     .accesskey = m
@@ -189,11 +199,15 @@ play-drm-content =
     .accesskey = R
 play-drm-content-learn-more = Atre informaçioin
 update-application-title = Agiornamenti de { -brand-short-name }
+update-application-description = Mantegni { -brand-short-name } agiornou pe avei megio prestaçioin, stabilitæ e seguessa.
 update-application-info = Verscion { $version } <a>Novitæ</a>
 update-history =
     .label = Fanni vedde a stöia di agiornamenti…
     .accesskey = g
 update-application-allow-description = Permetti a { -brand-short-name } de
+update-application-auto =
+    .label = Installa i agiornamenti in aotomatico (consegiou)
+    .accesskey = A
 update-application-check-choose =
     .label = Contròlla se gh'é agiornamenti, ma famme decidde se instalali
     .accesskey = C
@@ -210,10 +224,18 @@ update-enable-search-update =
 ## General Section - Performance
 
 performance-title = Prestaçioin
+performance-use-recommended-settings-checkbox =
+    .label = Deuvia e inpostaçioin racomandæ pe-e megio prestaçioin
+    .accesskey = U
+performance-use-recommended-settings-desc = Ste inpostaçioin en fæte pe l'hardware e scistema òperativo do teu compiter.
 performance-settings-learn-more = Saccine de ciù
 performance-allow-hw-accel =
     .label = Adeuvia l'aceleraçion hardware se a gh'é
     .accesskey = h
+performance-limit-content-process-option = Limite de contegnuo do processo
+    .accesskey = l
+performance-limit-content-process-enabled-desc = Deuviâ ciù contegnui do processo o peu megiorâ e prestaçioin quande ti deuvi tanti feuggi insemme, ma te faiâ stragiâ ciù memöia.
+performance-limit-content-process-disabled-desc = Cangiâ o numero de cntegnui de processo o l'é poscibile solo in { -brand-short-name } moltiprocesso. <a>Amia comme controlâ se o moltiprocesso o l'é ativo</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -240,6 +262,8 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
+network-proxy-title = Proxy da Ræ
+network-proxy-connection-learn-more = Pe saveine de ciù
 network-proxy-connection-settings =
     .label = Inpostaçioin…
     .accesskey = I

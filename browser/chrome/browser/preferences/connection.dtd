@@ -8,6 +8,8 @@
 <!ENTITY  window.macWidth2              "44em">
 
 <!ENTITY  proxyTitle.label              "Inpòsta i proxy pe intrâ in sciâ ræ">
+
+<!ENTITY  proxyTitle.label2             "Inpòsta proxy pe intrâ in Internet">
 <!ENTITY  noProxyTypeRadio.label        "No proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "Adeuvia o proxy de scistema">

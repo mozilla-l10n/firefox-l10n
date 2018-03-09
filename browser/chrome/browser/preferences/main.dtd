@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "Metti torna predefinio">
 <!ENTITY restoreDefault.accesskey  "R">
 
+<!ENTITY disableExtension.label    "Dizabilita Estenscion">
+
 <!ENTITY downloads.label     "Descaregamenti">
 
 <!ENTITY saveTo.label "Sarva file in">
@@ -42,5 +44,3 @@
 <!ENTITY useFirefoxSync.label             "Conseggio: coscì ti devi adeuviâ di profî diversci. Ti peu adeuviâ Sync pe-a scincronizaçion di dæti.">
 <!ENTITY getStarted.notloggedin.label     "Intra in&syncBrand.shortName.label;…">
 <!ENTITY getStarted.configured.label      "Arvi e inpostaçioin de &syncBrand.shortName.label;">
-
-<!ENTITY e10sEnabled.label                "Deuvia &brandShortName; in modalitæ moltiprocesso">

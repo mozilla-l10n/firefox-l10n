@@ -55,12 +55,10 @@
 <!ENTITY  permAskAlways         "Domanda de longo">
 <!ENTITY  permAllow             "Permetti">
 <!ENTITY  permAllowSession      "Permetti pe sta sescion">
+<!ENTITY  permHide              "Ascondi">
 <!ENTITY  permBlock             "Blòcco">
 <!ENTITY  permissionsFor        "Permisso pe:">
 <!ENTITY  permPlugins           "Ativa i Plugin">
-
-<!ENTITY  permClearStorage           "Scancella o sarvataggio">
-<!ENTITY  permClearStorage.accesskey "c">
 
 <!ENTITY  securityTab           "Seguessa">
 <!ENTITY  securityTab.accesskey "S">
