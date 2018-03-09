@@ -52,6 +52,7 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.newsletter.message): Subscribe form message.
   -  The newsletter is only available in english at the moment.
   -  See Bug 1415273 for support of additional languages.-->
+<!ENTITY  aboutDevtools.newsletter.message "Embyaty marandu,ñembosarái ha opa mba'e mboguatahára rehegua neñe'ë vevetépe">
 <!ENTITY  aboutDevtools.newsletter.email.placeholder "Ñanduti veve">
 <!ENTITY  aboutDevtools.newsletter.subscribeButton "Eñemboheraguapy">
 <!ENTITY  aboutDevtools.newsletter.thanks.title "¡Aguyje!">
