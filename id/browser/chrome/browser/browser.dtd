@@ -42,8 +42,8 @@ that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "Sematkan Tab">
 <!ENTITY  pinTab.accesskey                   "S">
-<!ENTITY  unpinTab.label                     "Buang dari Tab Permanen">
-<!ENTITY  unpinTab.accesskey                 "b">
+<!ENTITY  unpinTab.label                     "Copot dari Tab Permanen">
+<!ENTITY  unpinTab.accesskey                 "c">
 <!ENTITY  sendTabToDevice.label              "Kirim Tab ke Perangkat">
 <!ENTITY  sendTabToDevice.accesskey          "P">
 <!ENTITY  sendPageToDevice.label             "Kirim Laman ke Perangkat">
