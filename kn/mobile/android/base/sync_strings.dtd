@@ -30,7 +30,7 @@
 
 <!-- Bookmark folder strings -->
 <!ENTITY bookmarks.folder.menu.label 'ಬುಕ್‌ಮಾರ್ಕುಗಳ ಪರಿವಿಡಿ'>
-<!ENTITY bookmarks.folder.places.label '‍'>
+<!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label 'ಟ್ಯಾಗ್‌ಗಳು'>
 <!ENTITY bookmarks.folder.toolbar.label 'ಬುಕ್‌ಮಾರ್ಕುಗಳ ಉಪಕರಣಪಟ್ಟಿ'>
 <!ENTITY bookmarks.folder.other.label 'ಇತರೆ ಪುಟಗುರುತುಗಳು'>
