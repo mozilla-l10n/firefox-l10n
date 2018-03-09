@@ -45,7 +45,7 @@ signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
-<!ENTITY signedInUnverified.beforename.label "‌">
+<!ENTITY signedInUnverified.beforename.label "">
 <!ENTITY signedInUnverified.aftername.label "ಪರಿಶೀಲಿಸಲಾಗಿಲ್ಲ.">
 
 <!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
@@ -54,7 +54,7 @@ before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
 <!ENTITY signedInLoginFailure.beforename.label "ಮರಳಿ ಸಂಪರ್ಕಿತಗೊಳ್ಳಲು ದಯವಿಟ್ಟು ಸೈನ್‌ ಇನ್ ಆಗಿ">
-<!ENTITY signedInLoginFailure.aftername.label "‌">
+<!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label            "ನೀವು ಸೈನ್ ಇನ್ ಆಗಿಲ್ಲ.">
 <!ENTITY signIn.label                 "ಒಳಗೆ ಪ್ರವೇಶಿಸು‍">
@@ -64,11 +64,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY verifiedManage.accesskey     "o">
 <!ENTITY disconnect3.label            "ಸಂಪರ್ಕ ತಪ್ಪಿಸು…">
 <!ENTITY disconnect3.accesskey        "D">
-<!ENTITY verify.label                "ಇಮೇಲ್ ದೃಢಪಡಿಸಿ‍">
-<!ENTITY verify.accesskey            "V">
-<!ENTITY forget.label                "ಈ ಇಮೇಲ್ ಅನ್ನು ಮರೆತುಬಿಡು‍">
-<!ENTITY forget.accesskey            "F">
-
 <!ENTITY resendVerification.accesskey "d">
 <!ENTITY cancelSetup.accesskey        "p">
 
