@@ -58,7 +58,7 @@
 <!ENTITY  crash_reporter_title "Njoftues Vithisjesh &brandShortName;-u">
 <!ENTITY  crash_message2 "&brandShortName;-u pati një problem dhe u vithis. Skedat tuaja do të duhej t’i shihnit te faqja e Fillimit të &brandShortName;-ut, kur ta rinisni.">
 <!ENTITY  crash_send_report_message3 "Tregojini &vendorShortName;-s për këtë vithisje, që kështu të mund ta ndreqin">
-<!ENTITY  crash_include_url2 "Përfshije adresën e faqes ku gjendesha">
+<!ENTITY  crash_include_url2 "Përfshi adresën e faqes ku gjendesha">
 <!ENTITY  crash_sorry "Na vjen keq">
 <!ENTITY  crash_comment "Shtoni një koment (komentet janë të dukshëm botërisht)">
 <!ENTITY  crash_allow_contact2 "Lejoje &vendorShortName;-n të më kontaktojë rreth këtij njoftimi">

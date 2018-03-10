@@ -9,7 +9,7 @@
 
 <!ENTITY newPref.valueBoolean          "Buleane">
 <!ENTITY newPref.valueString           "Varg">
-<!ENTITY newPref.valueInteger          "Numër i Plotë">
+<!ENTITY newPref.valueInteger          "Numër i plotë">
 
 <!ENTITY newPref.stringPlaceholder     "Jepni një varg">
 <!ENTITY newPref.numberPlaceholder     "Jepni një numër">
