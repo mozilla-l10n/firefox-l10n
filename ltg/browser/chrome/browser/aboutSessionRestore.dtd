@@ -7,8 +7,8 @@
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 <!ENTITY restorepage.errorTitle2    "Atlaidit. Myusim naizadeve atdabuot jiusu lopys.">
-<!ENTITY restorepage.problemDesc2   "We are having trouble restoring your last browsing session. Select Restore Session to try again.">
-<!ENTITY restorepage.tryThis2       "Still not able to restore your session? Sometimes a tab is causing the issue. View previous tabs, remove the checkmark from the tabs you don’t need to recover, and then restore.">
+<!ENTITY restorepage.problemDesc2   "Myusim naizadūd atjaunōt tovu īprīkšējū porlyukōšonys seseji. Izavielej Atjaunōt seseji, kab raudzietu vāļ reizi.">
+<!ENTITY restorepage.tryThis2       "Vyssvīns naizadūd atjaunōt seseji? Jer gadejumi, kod kaida cilne traucej sesejis atjaunōšonai. Apsaver cilnes un izjam aizzeimi nu tōm, kū tev navajag atjaunōt, tod raugi par jaunu.">
 
 <!ENTITY restorepage.hideTabs       "Apslēpt īprīkšejōs cilnes">
 <!ENTITY restorepage.showTabs       "Rōdēt īprīkšejōs cilnes">
@@ -30,9 +30,9 @@
 <!ENTITY welcomeback2.restoreButton  "Kab nūteik!">
 <!ENTITY welcomeback2.restoreButton.access "L">
 
-<!ENTITY welcomeback2.tabtitle      "Success!">
+<!ENTITY welcomeback2.tabtitle      "Izadeva!">
 
-<!ENTITY welcomeback2.pageTitle     "Success!">
+<!ENTITY welcomeback2.pageTitle     "Izadeva!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; ir gotovs dorbam.">
 
 <!ENTITY welcomeback2.restoreAll.label  "Atjaunōt vysus lūgus i cilnes">
