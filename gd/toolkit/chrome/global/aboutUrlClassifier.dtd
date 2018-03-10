@@ -1,9 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
 
-<!ENTITY aboutUrlClassifier.pageTitle                   "Fiosrachadh mu url-classifier">
+<!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
+<!ENTITY aboutUrlClassifier.title                       "URL Classifier Information">
 <!ENTITY aboutUrlClassifier.providerTitle               "Solaraiche">
 <!ENTITY aboutUrlClassifier.provider                    "Solaraiche">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "An t-ùrachadh mu dheireadh">

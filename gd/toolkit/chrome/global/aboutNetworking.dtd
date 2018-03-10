@@ -23,6 +23,7 @@
 <!ENTITY aboutNetworking.sent                  "Air a chur">
 <!ENTITY aboutNetworking.received              "Air fhaighinn">
 <!ENTITY aboutNetworking.family                "Teaghlach">
+<!ENTITY aboutNetworking.trr                   "TRR">
 <!ENTITY aboutNetworking.addresses             "Seòlaidhean">
 <!ENTITY aboutNetworking.expires               "Falbhaidh an ùine air (ann an diogan)">
 <!ENTITY aboutNetworking.messagesSent          "Teachdaireachdan a chaidh a chur">

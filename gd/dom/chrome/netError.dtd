@@ -4,8 +4,8 @@
 
 <!ENTITY loadError.label "Mearachd le luchdadh na duilleige">
 <!ENTITY retry.label "Feuch ris a-rithist">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Dh'fhàillig an ceangal">
 <!ENTITY connectionFailure.longDesc "<p>Ged a tha coltas gur e làrach cheart a tha ann, cha deach aig a' bhrabhsair ceangal a dhèanamh.</p><ul><li>Saoil a bheil an làrach sìos an-dràsta fhèin? Feuch ris a-rithist an ceann tàmaill.</li><li>Mur urrainn dhut làraichean eile fhaicinn, cuir sùil air ceangal a' choimpiutair agad ris an lìonra.</li><li>A bheil an coimpiutair agad ga dhìon le cachaileith-theine no progsaidh? Faodaidh roghainnean cearra cur a-steach air seòladh an lìn.</li></ul>">
@@ -86,3 +86,5 @@
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p>Tha <span class='hostname'></span> a’ cleachdadh seann-teicneolas tèarainteachd a tha so-leònte. Cha bhiodh e doirbh do chuideigin dàta a leigeil ris a bha tèarainte ’nad bheachd. Bidh aig rianaire na làraich am frithealaiche a chàradh mus urrainn dhut tadhal air an làrach.</p><p>Còd na mearachd: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY blockedByPolicy.title "Duilleag bhacte">
