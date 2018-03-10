@@ -818,7 +818,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
-<!ENTITY whatsnew_notification_title "&brandShortName;-u është i përditësuar">
+<!ENTITY whatsnew_notification_title "&brandShortName;-i është i përditësuar">
 <!ENTITY whatsnew_notification_summary "Shihni ç’ka të re në këtë version">
 
 <!ENTITY promotion_add_page_shortcut "Shtoni shkurtore faqeje">
