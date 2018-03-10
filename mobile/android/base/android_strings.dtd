@@ -657,7 +657,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName;-u ka bllokuar në këtë faqe lëndë jo të sigurt.">
 <!ENTITY mixed_content_blocked_some1 "&brandShortName; -u ka bllokuar në këtë faqe ca lëndë jo të sigurt.">
-<!ENTITY mixed_content_display_loaded1 "Kjo faqe përmban disa pjesë jo të sigurta.">
+<!ENTITY mixed_content_display_loaded1 "Pjesë të kësaj faqeje (fjala vjen, figura) s&apos;janë të sigurta.">
 <!ENTITY mixed_content_protection_disabled1 "E keni çaktivizuar mbrojtjejn nga lëndë jo e sigurt.">
 
 <!-- Tracking content notifications in site identity popup -->
