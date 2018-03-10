@@ -2,11 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY dialogCancel.label "Anuloje">
-<!ENTITY dialogClose.label "Mbylle">
-<!ENTITY percentPrint "#1&#037;">
+<!--LOCALIZATION NOTE printProgress.dtd Main UI for Print Progress Dialog -->
+<!ENTITY printWindow.title "Po shtypet"> 
+<!ENTITY title    "Titull:"> 
+<!ENTITY progress "Përparim:">
 <!ENTITY preparing "Po përgatitet…">
 <!ENTITY printComplete "Shtypja u Plotësua.">
-<!ENTITY printWindow.title "Po shtypet">
-<!ENTITY progress "Përparim:">
-<!ENTITY title "Titull:">
+
+<!ENTITY dialogCancel.label "Anuloje"> 
+<!ENTITY dialogClose.label "Mbylleni">
+
+<!-- LOCALIZATION NOTE (percentPrint):
+
+    This string is used to format the text to the right of the progress
+    meter.
+
+    #1 will be replaced by the percentage of the file that has been saved -->
+<!ENTITY percentPrint "#1&#037;">

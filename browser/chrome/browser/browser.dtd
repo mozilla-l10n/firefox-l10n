@@ -395,7 +395,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Hyni në Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Administroni Pajisje…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Shihni Anështyllën e Skedave të Njëkohësuara">
-<!ENTITY appMenuRemoteTabs.connectdevice.label "Lidhni Një Pajisje Tjetër">
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Lidhni Një Tjetër Pajisje">
 
 <!ENTITY appMenuRecentHighlights.label "Nxjerrje Në Pah Së Fundi">
 
@@ -569,7 +569,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "Faqeruaje Këtë Kornizë">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "K">
-<!ENTITY pageAction.copyLink.label    "Kopjoje Lidhjen">
+<!ENTITY pageAction.copyLink.label    "Kopjoji Lidhjen">
 <!ENTITY copyURLFeedback.label        "U kopjua!">
 <!ENTITY emailPageCmd.label           "Dërgoni Lidhje me Email…">
 <!ENTITY emailPageCmd.accesskey       "E">
@@ -706,7 +706,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdMac2.label   "Dilni prej &brandShorterName;-it">
 <!ENTITY quitApplicationCmd.key         "Q">
 
-<!ENTITY closeCmd.label                 "Mbylle">
+<!ENTITY closeCmd.label                 "Mbylleni">
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "M">
 
@@ -812,7 +812,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Aktivizoni njëkohësim skedash që të shihni një listë skedash prej pajisjeve tuaja të tjera.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Kërko në skeda të njëkohësuara">
-<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Lidhni Një Pajisje Tjetër">
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Lidhni Një Tjetër Pajisje">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -924,7 +924,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
 
-<!ENTITY uiTour.infoPanel.close "Mbylle">
+<!ENTITY uiTour.infoPanel.close "Mbylleni">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".

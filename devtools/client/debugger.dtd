@@ -13,7 +13,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.closeButton.tooltip): This is the tooltip for
   -  the button that closes the debugger UI. -->
-<!ENTITY debuggerUI.closeButton.tooltip "Mbylle">
+<!ENTITY debuggerUI.closeButton.tooltip "Mbylleni">
 
 <!-- LOCALIZATION NOTE (debuggerUI.panesButton.tooltip): This is the tooltip for
   -  the button that toggles the panes visible or hidden in the debugger UI. -->
@@ -126,7 +126,7 @@
 <!ENTITY debuggerUI.searchToken.key       "F">
 <!ENTITY debuggerUI.searchToken.accesskey "G">
 
-<!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
+<!-- LOCALIZATION NOTE (debuggerUI.searchGoToLine): This is the text that appears
   -  in the source editor's context menu for the line search operation. -->
 <!ENTITY debuggerUI.searchGoToLine           "Kalo te Rreshti…">
 <!ENTITY debuggerUI.searchGoToLine.key       "L">
@@ -159,7 +159,7 @@
 <!ENTITY debuggerUI.seMenuCondBreak     "Shtoni Pikëndërprerje të Kushtëzuar">
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
 
-<!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
+<!-- LOCALIZATION NOTE (debuggerUI.seEditMenuCondBreak): This is the text that
   -  appears in the source editor context menu for editing a breakpoint. -->
 <!ENTITY debuggerUI.seEditMenuCondBreak     "Përpunoni Pikëndërprerje të Kushtëzuar">
 <!ENTITY debuggerUI.seEditMenuCondBreak.key "B">
@@ -183,7 +183,7 @@
 <!ENTITY debuggerUI.addWatch            "Shtoni Shprehje Për Vëzhgim">
 <!ENTITY debuggerUI.addWatch.accesskey  "v">
 
-<!-- LOCALIZATION NOTE (debuggerUI.removeWatch): This is the text that
+<!-- LOCALIZATION NOTE (debuggerUI.removeAllWatch): This is the text that
   -  appears in the watch expressions context menu for removing all expressions. -->
 <!ENTITY debuggerUI.removeAllWatch           "Hiqi Krejt Shprehjet Për Vëzhgim">
 <!ENTITY debuggerUI.removeAllWatch.key       "E">

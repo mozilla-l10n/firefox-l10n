@@ -10,7 +10,7 @@
 <!ENTITY organize.accesskey    "S">
 <!ENTITY organize.tooltip      "Organizoni faqerojtësit tuaj">
 
-<!ENTITY file.close.label               "Mbylle">
+<!ENTITY file.close.label               "Mbylleni">
 <!ENTITY file.close.accesskey           "M">
 <!ENTITY cmd.close.key                  "w">
 <!ENTITY views.label                    "Shfaqje">

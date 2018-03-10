@@ -35,7 +35,7 @@
 <!ENTITY  mediaAddress          "Adresë">
 <!ENTITY  mediaType             "Lloj">
 <!ENTITY  mediaSize             "Madhësi">
-<!ENTITY  mediaCount            "Numërim">
+<!ENTITY  mediaCount            "Numër">
 <!ENTITY  mediaDimension        "Përmasa:">
 <!ENTITY  mediaLongdesc         "Përshkrim i Gjatë:">
 <!ENTITY  mediaBlockImage.accesskey "B">
@@ -59,9 +59,6 @@
 <!ENTITY  permBlock             "Bllokoje">
 <!ENTITY  permissionsFor        "Leje për:">
 <!ENTITY  permPlugins           "Aktivizo Shtojcat">
-
-<!ENTITY  permClearStorage           "Pastroje Depozitën">
-<!ENTITY  permClearStorage.accesskey "P">
 
 <!ENTITY  securityTab           "Siguri">
 <!ENTITY  securityTab.accesskey "S">

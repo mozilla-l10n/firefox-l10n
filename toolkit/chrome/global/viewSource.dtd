@@ -24,7 +24,7 @@
 <!ENTITY printCmd.label "Shtypni…">
 <!ENTITY printCmd.accesskey "Y">
 <!ENTITY printCmd.commandkey "P">
-<!ENTITY closeCmd.label "Mbylle">
+<!ENTITY closeCmd.label "Mbylleni">
 <!ENTITY closeCmd.accesskey "M">
 <!ENTITY closeCmd.commandkey "W">
 
@@ -59,7 +59,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_textSize.accesskey "M">
 <!ENTITY menu_textEnlarge.label "Rrit Madhësi Teksti">
 <!ENTITY menu_textEnlarge.accesskey "R">
-<!ENTITY menu_textReduce.label "Zvogëlo Madhësi Teksti">
+<!ENTITY menu_textReduce.label "Zvogëloje">
 <!ENTITY menu_textReduce.accesskey "Z">
 <!ENTITY menu_textReset.label "Normal">
 <!ENTITY menu_textReset.accesskey "N">
