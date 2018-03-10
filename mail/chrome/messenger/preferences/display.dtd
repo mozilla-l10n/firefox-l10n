@@ -11,7 +11,7 @@
 <!ENTITY regularStyle.label               "I rregullt">
 <!ENTITY bold.label                       "Të trasha">
 <!ENTITY italic.label                     "Të pjerrëta">
-<!ENTITY boldItalic.label                 "Të trasha të pjerrëta">
+<!ENTITY boldItalic.label                 "Të trasha Të pjerrëta">
 <!ENTITY size.label                       "Madhësi:">
 <!ENTITY size.accesskey                   "a">
 <!ENTITY regularSize.label                "Të rregullta">
