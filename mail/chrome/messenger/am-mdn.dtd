@@ -15,7 +15,7 @@
 <!ENTITY leaveIt.label                "Lëre tek Të marrë">
 <!ENTITY leaveIt.accesskey            "L">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
-<!ENTITY moveToSent.label             "Shpjere tek dosja ime &quot;Të dërguar&quot;">
+<!ENTITY moveToSent.label             "Shpjere te dosja ime &quot;Të dërguar&quot;">
 <!ENTITY moveToSent.accesskey         "S">
 <!ENTITY requestMDN.label             "Kur marr një kërkesë për një faturë kthimi:">
 <!ENTITY returnSome.label             "Lejo fatura kthimi për disa mesazhe">
