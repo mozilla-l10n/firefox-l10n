@@ -5,7 +5,7 @@
 <!ENTITY tableWindow.title                "Veti Tabele">
 <!ENTITY applyButton.label                "Zbatoje">
 <!ENTITY applyButton.accesskey            "Z">
-<!ENTITY closeButton.label                "Mbylle">
+<!ENTITY closeButton.label                "Mbylleni">
 <!ENTITY tableTab.label                   "Tabelë">
 <!ENTITY cellTab.label                    "Kuti">
 <!ENTITY tableRows.label                  "Rreshta:">
@@ -34,7 +34,7 @@
 <!ENTITY tableCaptionLeft.label           "Majtas Tabelës">
 <!ENTITY tableCaptionRight.label          "Djathtas Tabelës">
 <!ENTITY tableCaptionNone.label           "Asnjë">
-<!ENTITY tableInheritColor.label          "(Lejo ngjyrë faqeje të duket nëpër të)">
+<!ENTITY tableInheritColor.label           "(Lejo ngjyrë faqeje të duket nëpër të)">
 
 <!ENTITY cellSelection.label              "Përzgjedhje">
 <!ENTITY cellSelectCell.label             "Kuti">
@@ -44,7 +44,7 @@
 <!ENTITY cellSelectNext.accessKey         "P">
 <!ENTITY cellSelectPrevious.label         "I mëparshmi">
 <!ENTITY cellSelectPrevious.accessKey     "M">
-<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
+<!ENTITY applyBeforeChange.label          "Ndryshimet e tanishme do të zbatohen përpara ndryshimit të përzgjedhjes.">
 <!ENTITY cellContentAlignment.label       "Drejtim Lënde">
 <!ENTITY cellHorizontal.label             "Horizontal:">
 <!ENTITY cellHorizontal.accessKey         "H">
@@ -62,7 +62,6 @@
 <!ENTITY cellAlignMiddle.label            "Përmes">
 <!ENTITY cellAlignBottom.label            "Poshtë">
 <!ENTITY cellAlignJustify.label           "Përligj">
-<!ENTITY applyBeforeChange.label          "Ndryshimet e tanishme do të zbatohen përpara ndryshimit të përzgjedhjes.">
 <!ENTITY cellInheritColor.label           "(Lër ngjyrë tabele të duket nëpër të)">
 <!ENTITY cellUseCheckboxHelp.label        "Përdor kutiza për të përcaktuar cilat veti zbatohen mbi të gjitha kutitë e përzgjedhura">
 

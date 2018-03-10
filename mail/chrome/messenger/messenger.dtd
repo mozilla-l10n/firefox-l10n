@@ -511,7 +511,7 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY addonDebugCmd.label "Diagnostikues Shtesash">
 <!ENTITY addonDebugCmd.accesskey "S">
-<!ENTITY debugAddonsCmd.label "Diagnostikoni Shtesën">
+<!ENTITY debugAddonsCmd.label "Diagnostikoni Shtesa">
 <!ENTITY debugAddonsCmd.accesskey "D">
 <!ENTITY tabsDebugCmd.label "Diagnostikues Lënde Kuadri">
 <!ENTITY tabsDebugCmd.accesskey "L">

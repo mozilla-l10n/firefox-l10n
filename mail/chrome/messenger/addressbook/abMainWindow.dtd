@@ -26,7 +26,7 @@
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
 <!ENTITY osxAddressBook.label                           "Përdor Libër Adresash Mac OS X">
 <!ENTITY osxAddressBook.accesskey                       "P">
-<!ENTITY closeCmd.label                                 "Mbylle">
+<!ENTITY closeCmd.label                                 "Mbylleni">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "M">
 <!ENTITY printSetupCmd.label                            "Rregullim Faqeje…">
@@ -230,7 +230,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY work.heading                                   "E punës">
 <!-- Special Box Headings, for mailing lists -->
 <!ENTITY description.heading                            "Përshkrim">
-<!ENTITY addresses.heading                              "Adresë">
+<!ENTITY addresses.heading                              "Adresa">
 <!-- For Map It! -->
 <!ENTITY mapItButton.label                              "Merr Hartë">
 <!ENTITY mapIt.tooltip                                  "Shfaq prej Web-it një hartë të kësaj adrese">
