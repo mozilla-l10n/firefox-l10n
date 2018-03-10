@@ -11,7 +11,7 @@
 <!ENTITY languages.customize.moveDown.label             "ย้ายลง">
 <!ENTITY languages.customize.moveDown.accesskey         "ล">
 <!ENTITY languages.customize.deleteButton.label         "เอาออก">
-<!ENTITY languages.customize.deleteButton.accesskey     "ก">
+<!ENTITY languages.customize.deleteButton.accesskey     "อ">
 <!ENTITY languages.customize.selectLanguage.label       "เลือกภาษาที่จะเพิ่ม…">
 <!ENTITY languages.customize.addButton.label            "เพิ่ม">
 <!ENTITY languages.customize.addButton.accesskey        "พ">
