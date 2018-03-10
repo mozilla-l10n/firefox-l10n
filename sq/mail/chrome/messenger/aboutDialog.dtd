@@ -29,7 +29,7 @@
 <!ENTITY community.exp.creditsLink  "bashkësi mbarëbotërore">
 <!ENTITY community.exp.end          " që punon tok për ta mbajtur Web-in të hapët, publik dhe të përdorshëm nga kushdo.">
 
-<!ENTITY community.start2           "&brandShortName; është hartuar nga ">
+<!ENTITY community.start2           "&brandShortName;-i është hartuar nga ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", një ">

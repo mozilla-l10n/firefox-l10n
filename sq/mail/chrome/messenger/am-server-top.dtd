@@ -25,6 +25,12 @@
 <!ENTITY biffEnd.label "minuta">
 <!ENTITY useIdleNotifications.label "Lejo nga shërbyesi njoftime të menjëhershme kur arrijnë mesazhe të rinj">
 <!ENTITY useIdleNotifications.accesskey "L">
+<!ENTITY connectionSecurity.label "Siguri lidhjeje:">
+<!ENTITY connectionSecurity.accesskey "S">
+<!ENTITY connectionSecurityType-0.label "Asnjë">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, në pastë">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY authMethod.label "Metodë mirëfilltësimi:">
 <!ENTITY authMethod.accesskey "m">
 <!ENTITY leaveOnServer.label "Lëri mesazhet në shërbyes">
@@ -38,7 +44,6 @@
 <!ENTITY deleteOnServer2.accesskey "d">
 <!ENTITY downloadOnBiff.label "Shkarko mesazhe të rinj vetvetiu">
 <!ENTITY downloadOnBiff.accesskey "k">
-
 <!ENTITY username.label "Emri Juaj për Hyrje">
 <!ENTITY deleteMessagePrefix.label "Kur fshij një mesazh:">
 <!ENTITY modelMoveToTrash.label "Shpjere te kjo dosje:">
@@ -46,16 +51,17 @@
 <!ENTITY modelMarkDeleted.label "Thjesht shënoje si të fshirë">
 <!ENTITY modelMarkDeleted.accesskey "t">
 <!ENTITY modelDeleteImmediately.label "Hiqe aty për aty">
+<!ENTITY modelDeleteImmediately.accesskey "H">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Gjatë daljes Pastro (&quot;Fshiji&quot;) Të Marrët">
 <!ENTITY expungeOnExit.accesskey "P">
 <!ENTITY emptyTrashOnExit.label "Zbrazi Hedhurinat Gjatë Daljes">
 <!ENTITY emptyTrashOnExit.accesskey "Z">
-<!ENTITY loginAtStartup.label "Shih për mesazhe të rinj gjatë nisjes"> 
+<!ENTITY loginAtStartup.label "Shih për mesazhe të rinj gjatë nisjes">
 <!ENTITY loginAtStartup.accesskey "S">
-<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-	 of messages between them
+   of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Pyetmë para se të shkarkosh më shumë se">
 <!ENTITY maxMessagesStart.accesskey "P">
@@ -64,27 +70,19 @@
 <!ENTITY alwaysAuthenticate.label "Kërko përherë mirëfilltësim kur lidhesh me këtë shërbyes">
 <!ENTITY alwaysAuthenticate.accesskey "k">
 <!ENTITY newsrcFilePath.label "kartelë newsrc:">
-<!ENTITY localPath.label "Drejtori vendore:">
+<!ENTITY newsrcPicker.label "Përzgjidhni Kartelë newsrc">
 <!ENTITY abbreviate.label "Trego emra grupe lajmesh tek pjesa Dosje Poste si:">
 <!ENTITY abbreviateOn.label "Emra të plotë (Për shembull, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Emra të shkurtuar (Për shembull, 'n.p.m.mail-news')">
-<!ENTITY advancedButton.label "Të mëtejshëm…">
+<!ENTITY advancedButton.label "Të mëtejshme…">
 <!ENTITY advancedButton.accesskey "m">
 <!ENTITY serverDefaultCharset2.label "Kodim Parazgjedhje Tekstesh:">
+<!ENTITY localPath.label "Drejtori vendore:">
 <!ENTITY localFolderPicker.label "Përzgjidhni Drejtori Vendore">
 <!ENTITY browseFolder.label "Shfletoni…">
 <!ENTITY browseFolder.accesskey "S">
-<!ENTITY newsrcPicker.label "Përzgjidhni Kartelë newsrc">
 <!ENTITY browseNewsrc.label "Shfletoni…">
 <!ENTITY browseNewsrc.accesskey "S">
-<!ENTITY modelDeleteImmediately.accesskey "H">
-
-<!ENTITY connectionSecurity.label "Siguri lidhjeje:">
-<!ENTITY connectionSecurity.accesskey "S">
-<!ENTITY connectionSecurityType-0.label "Asnjë">
-<!ENTITY connectionSecurityType-1.label "STARTTLS, në pastë">
-<!ENTITY connectionSecurityType-2.label "STARTTLS">
-<!ENTITY connectionSecurityType-3.label "SSL/TLS">
 
 <!ENTITY accountTitle.label "Rregullime Llogarie">
 <!ENTITY accountSettingsDesc.label "Kjo që vijon është një llogari speciale. Nuk ka identitete që i përshoqërohen asaj.">
