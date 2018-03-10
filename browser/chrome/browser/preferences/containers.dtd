@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY addButton.label      "Shto Kontejner të Ri">
+<!ENTITY addButton.label      "Shtoni Kontejner të Ri">
 <!ENTITY addButton.accesskey  "S">
 <!ENTITY preferencesButton.label "Parapëlqime">
 <!ENTITY removeButton.label   "Hiqe">
