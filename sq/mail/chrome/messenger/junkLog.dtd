@@ -6,5 +6,5 @@
 <!ENTITY adaptiveJunkLogInfo.label "Regjistër i veprimtarisë së kontrollit vetëpërshtatës për postën e pavlerë.">
 <!ENTITY clearLog.label "Pastroje Regjistrin">
 <!ENTITY clearLog.accesskey "P">
-<!ENTITY closeLog.label "Mbylle">
+<!ENTITY closeLog.label "Mbylleni">
 <!ENTITY closeLog.accesskey "M">

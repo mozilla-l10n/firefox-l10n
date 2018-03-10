@@ -11,7 +11,7 @@
 
 <!ENTITY accountManager.newAccount.label     "Llogari e Re">
 <!ENTITY accountManager.newAccount.accesskey "R">
-<!ENTITY accountManager.close.label          "Mbylle">
+<!ENTITY accountManager.close.label          "Mbylleni">
 <!ENTITY accountManager.close.accesskey      "M">
 <!-- This should match account.commandkey in instantbird.dtd -->
 <!ENTITY accountManager.close.commandkey     "a">

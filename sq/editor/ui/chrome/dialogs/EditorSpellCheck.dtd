@@ -30,7 +30,7 @@
 <!ENTITY editUserDictionaryButton.accessKey "P">
 <!ENTITY recheckButton2.label "Rikontrollo Tekstin">
 <!ENTITY recheckButton2.accessKey "R">
-<!ENTITY closeButton.label "Mbylle">
+<!ENTITY closeButton.label "Mbylleni">
 <!ENTITY closeButton.accessKey "M">
 <!ENTITY sendButton.label "Dërgoje">
 <!ENTITY sendButton.accessKey "D">

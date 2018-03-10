@@ -30,7 +30,7 @@
 <!ENTITY attachVCardCmd.accesskey "V">
 <!ENTITY remindLater.label "Kujtoma Më Vonë">
 <!ENTITY remindLater.accesskey "V">
-<!ENTITY closeCmd.label "Mbylle">
+<!ENTITY closeCmd.label "Mbylleni">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "M">
 <!ENTITY saveCmd.label "Ruaje">
