@@ -18,7 +18,7 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc3 "Kjo faqe te <span id='phishing_sitename'/> është raportuar si sajt i rremë dhe është bllokuar në bazë të parapëlqimeve tuaja mbi sigurinë.">
 <!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>Sajtet e rremë hartohen për t&apos;ju shtyrë të bëni gjëra të rrezikshme, fjala vjen, instalim software-i, ose zbulim të të dhënave tuaja personale të tilla si, fjalëkalime, numra telefonash ose kartash krediti.</p><p>Dhënia e çfarëdo të dhëne në këtë faqe mund të sjellë vjedhje identiteti ose të tjera rrengje.</p>">
 
-<!ENTITY safeb.blocked.unwantedPage.title "Sajt i Raportuar Për Software të Padëshiruar!">
+<!ENTITY safeb.blocked.unwantedPage.title "I raportuar si Sajt Software-i të Padëshiruar!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Kjo faqe web te <span id='unwanted_sitename'/> është raportuar se përmban software të padëshiruar dhe është bllokuar mbi bazën e parapëlqimeve tuaja për sigurinë.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Faqet e software-i të padëshiruar përpiqen të instalojnë programe që mund të jenë të rrejshme dhe të ndikojnë në sistemin tuaj në rrugë të papritura.">
