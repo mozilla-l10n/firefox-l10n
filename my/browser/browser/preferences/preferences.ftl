@@ -68,6 +68,9 @@ always-check-default =
     .accesskey = y
 is-default = { -brand-short-name } သည် လက်ရှိတွင် ပုံသေဘရောက်ဇာ ဖြစ်ပါသည်
 is-not-default = { -brand-short-name } သည် ပုံသေဘရောက်ဇာ ဖြစ်မနေပါ
+set-as-my-default-browser =
+    .label = စံသတ်မှတ်
+    .accesskey = D
 startup-page = { -brand-short-name } စတင်သောအခါ
     .accesskey = s
 startup-user-homepage =
@@ -76,6 +79,8 @@ startup-blank-page =
     .label = စာမျက်နှာ အလွတ်ကို ပြပေးပါ
 startup-prev-session =
     .label = နောက်ဆုံးအသုံးပြုခဲ့သော ဝင်းဒိုးများ နှင့် တပ်ဗ်များကို ပြန်ဖွင့်ပါ
+disable-extension =
+    .label = တိုးချဲ့မှု အားပိတ်ထားပါ
 home-page-header = မူလစာမျက်နှာကို ပြပါ
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
