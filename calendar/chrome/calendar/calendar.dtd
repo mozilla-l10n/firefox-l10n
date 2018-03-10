@@ -293,7 +293,7 @@
 <!ENTITY calendar.alarm.snoozefor.label             "Dremitje për" >
 <!ENTITY calendar.alarm.snoozeallfor.label          "Dremitje e Krejt për" >
 <!ENTITY calendar.alarm.title.label                 "Alarm Kalendari" >
-<!ENTITY calendar.alarm.dismiss.label               "Hidhe Tej" >
+<!ENTITY calendar.alarm.dismiss.label               "Hidhe tej" >
 <!ENTITY calendar.alarm.dismissall.label            "Hidhi Tej të Tëra" >
 
 <!ENTITY calendar.alarm.snooze.5minutes.label       "5 Minuta" >
