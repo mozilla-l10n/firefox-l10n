@@ -147,7 +147,7 @@
 <!ENTITY calendar.context.attendance.menu.label "Asistencia">
 <!ENTITY calendar.context.attendance.menu.accesskey "s">
 <!ENTITY calendar.context.attendance.occurrence.label "Esta aparición">
-<!ENTITY calendar.context.attendance.all.label "Todas las apariciones">
+<!ENTITY calendar.context.attendance.all.label "Todas las repeticiones">
 <!ENTITY calendar.context.progress.label "Progreso">
 <!ENTITY calendar.context.progress.accesskey "P">
 <!ENTITY calendar.context.priority.label "Prioridad">
