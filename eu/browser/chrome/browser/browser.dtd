@@ -240,9 +240,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Jakinarazpenak blokeatuta dauzkazu webgune honetarako.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Datuen biltegiratze iraunkorra blokeatuta daukazu webgune honetarako.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Popup leihoak blokeatuta dauzkazu webgune honetarako.">
-
 <!ENTITY urlbar.canvasBlocked.tooltip            "Canvas-eko datuen erauzketa blokeatuta daukazu webgune honetarako.">
 
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "Adobe Flash plugina erabiltzea blokeatuta daukazu webgune honetarako.">
 <!ENTITY urlbar.midiBlocked.tooltip              "MIDI sarbidea blokeatuta daukazu webgune honetarako.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Erakutsi historia">
@@ -388,7 +388,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "Sinkronizatutako fitxarik ez... momentuz!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Beste gailuetako zure fitxak hemen ikusi nahi dituzu?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync hobespenak">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Ireki Sinkronizazio-hobespenak">
@@ -397,7 +396,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Hasi saioa Sync-en">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Kudeatu gailuak…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Ikusi sinkronizatutako fitxen alboko barra">
-
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Konektatu beste gailu bat">
 
 <!ENTITY appMenuRecentHighlights.label "Nabarmendutako azkenak">
@@ -806,7 +804,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Sinkronizatutako fitxak">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Hasi saioa Firefoxen zure beste gailuetatik horien fitxak hemen ikusteko.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "Sinkronizatutako fitxarik ez... momentuz!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Beste gailuetako zure fitxak hemen ikusi nahi dituzu?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Hasi saioa zure beste gailuetako fitxak ikusteko.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "Zure kontua egiaztatu egin behar da.">
@@ -816,7 +813,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Aktibatu fitxak sinkronizatzea zure beste gailuetako fitxen zerrenda ikusteko.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Bilatu sinkronizatutako fitxak">
-
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Konektatu beste gailu bat">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,

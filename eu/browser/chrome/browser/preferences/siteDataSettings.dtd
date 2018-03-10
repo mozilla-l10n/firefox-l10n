@@ -4,7 +4,7 @@
 
 <!ENTITY     window.title                  "Ezarpenak - Guneen datuak">
 
-<!ENTITY     window1.title                 "Ezarpenak - Cookieak eta guneen datuak">
+<!ENTITY     window2.title                 "Kudeatu cookieak eta guneetako datuak">
 <!ENTITY     hostCol.label                 "Gunea">
 <!ENTITY     statusCol.label               "Egoera">
 <!ENTITY     cookiesCol.label              "Cookieak">

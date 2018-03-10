@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Jarraipenaren babesa">
-<!ENTITY  trackingProtection2.description      "Hainbat webguneren arteko zure nabigatze-datuen bildumari deritzo jarraipena. Zuri buruzko profil bat eraiki eta zure nabigazioan eta informazio pertsonalean oinarrituta edukiak bistaratzeko erabil daiteke jarraipena.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "Babestu jarraipena egiteaz ezagunak diren guneetatik">
 <!ENTITY  trackingProtection3.description      "Jarraipenaren babesarekin hainbat webguneren artean zure nabigazio-datuak biltzea blokeatuko da.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "Babestu jarraipena egiteaz ezagunak diren guneetatik">
 <!ENTITY  trackingProtectionAlways.label       "Beti">
@@ -13,7 +11,6 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "s">
 <!ENTITY  trackingProtectionNever.label        "Inoiz ez">
 <!ENTITY  trackingProtectionNever.accesskey    "I">
-<!ENTITY  trackingProtectionLearnMore.label    "Argibide gehiago">
 <!ENTITY  trackingProtectionLearnMore2.label    "Argibide gehiago jarraipenaren babesari eta zure pribatutasunari buruz">
 <!ENTITY  trackingProtectionExceptions.label   "Salbuespenak…">
 <!ENTITY  trackingProtectionExceptions.accesskey "S">
@@ -24,11 +21,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "Argibide gehiago">
 <!ENTITY changeBlockList2.label               "Aldatu blokeo-zerrenda…">
 <!ENTITY changeBlockList2.accesskey           "A">
-
-<!ENTITY  doNotTrack.description        "Bidali webguneei &quot;Do Not Track&quot; seinalea zure jarraipena ez egitea adierazteko">
-<!ENTITY  doNotTrack.learnMore.label    "Argibide gehiago">
-<!ENTITY  doNotTrack.default.label      "Jarraipenaren babesa erabiltzean soilik">
-<!ENTITY  doNotTrack.always.label       "Beti">
 
 <!ENTITY  history.label                 "Historia">
 <!ENTITY  permissions.label             "Baimenak">
@@ -52,8 +44,8 @@
 <!ENTITY  acceptThirdParty2.pre.label     "Onartu hirugarrenen cookieak">
 <!ENTITY  acceptThirdParty2.pre.accesskey "n">
 
-<!ENTITY  acceptCookies3.label          "Onartu webguneetako cookie eta datuak">
-<!ENTITY  acceptCookies3.accesskey      "O">
+<!ENTITY  acceptCookies4.label          "Onartu webguneetako cookie eta datuak (gomendatua)">
+<!ENTITY  acceptCookies4.accesskey      "O">
 
 <!ENTITY  blockCookies.label            "Blokeatu webguneetako cookie eta datuak (webguneak haustea eragin lezake)">
 <!ENTITY  blockCookies.accesskey        "B">
@@ -93,6 +85,7 @@
 <!ENTITY  rememberActions.middle.label        " nahi duzu, edo ">
 <!ENTITY  rememberActions.removeCookies.label "cookieak banan-banan ezabatu">
 <!ENTITY  rememberActions.post.label          ".">
+
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName;(e)k nabigatze pribatuaren ezarpen berak erabiliko ditu, eta ez du gogoratuko historia webean nabigatzen ari zarenean.">
 

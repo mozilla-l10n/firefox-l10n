@@ -75,6 +75,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsProcessCount "Webeko eduki-prozesuak">
 
+<!ENTITY aboutSupport.enterprisePolicies "Enpresa-politikak">
+
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Google gakoa">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla Location Service gakoa">
 

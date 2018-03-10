@@ -53,8 +53,6 @@ available. -->
 <!ENTITY networkProxy.label              "Sareko proxy-a">
 
 <!ENTITY connectionDesc.label            "Konfiguratu &brandShortName; nola konektatzen den Internetera">
-
-<!ENTITY connectionSettingsLearnMore.label "Argibide gehiago">
 <!ENTITY connectionSettings.label        "Ezarpenak…">
 <!ENTITY connectionSettings.accesskey    "E">
 
@@ -64,11 +62,13 @@ available. -->
 <!ENTITY siteData.label                  "Gunearen datuak">
 <!ENTITY clearSiteData.label             "Garbitu datu guztiak">
 <!ENTITY clearSiteData.accesskey         "G">
+<!ENTITY siteDataSettings.label          "Ezarpenak…">
+<!ENTITY siteDataSettings.accesskey      "E">
 <!ENTITY siteData1.label                 "Cookieak eta guneetako datuak">
 <!ENTITY clearSiteData1.label            "Garbitu datuak…">
 <!ENTITY clearSiteData1.accesskey        "G">
-<!ENTITY siteDataSettings.label          "Ezarpenak…">
-<!ENTITY siteDataSettings.accesskey      "E">
+<!ENTITY siteDataSettings1.label         "Kudeatu datuak…">
+<!ENTITY siteDataSettings1.accesskey     "K">
 <!ENTITY siteDataLearnMoreLink.label     "Argibide gehiago">
 
 <!-- LOCALIZATION NOTE:
