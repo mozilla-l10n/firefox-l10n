@@ -337,7 +337,7 @@
 <!ENTITY calendar.publish.dialog.title              "Botoni Kalendar">
 <!ENTITY calendar.publish.url.label                 "URL Botimi">
 <!ENTITY calendar.publish.publish.button      "Botoje">
-<!ENTITY calendar.publish.close.button      "Mbylle">
+<!ENTITY calendar.publish.close.button      "Mbylleni">
 
 <!ENTITY calendar.publish.example.url.description   "Diçka e ngjashme me http://www.myserver.com/webdav/test.ics">
 
