@@ -98,13 +98,13 @@
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Stil Teksti">
 <!ENTITY fontStyleMenu.accesskey "S">
-<!ENTITY styleBoldCmd.label "të Trasha">
+<!ENTITY styleBoldCmd.label "Të trasha">
 <!ENTITY styleBoldCmd.accesskey "T">
 <!ENTITY styleBoldCmd.key "B">
-<!ENTITY styleItalicCmd.label "të Pjerrëta">
+<!ENTITY styleItalicCmd.label "Të pjerrëta">
 <!ENTITY styleItalicCmd.accesskey "P">
 <!ENTITY styleItalicCmd.key "I">
-<!ENTITY styleUnderlineCmd.label "të Nënvizuara">
+<!ENTITY styleUnderlineCmd.label "Të nënvizuara">
 <!ENTITY styleUnderlineCmd.accesskey "N">
 <!ENTITY styleUnderlineCmd.key "U">
 <!ENTITY styleStrikeThruCmd.label "Hequrvije">
@@ -314,7 +314,7 @@
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Madhësi më e vogël shkronjash">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Madhësi më e madhe shkronjash">
 <!ENTITY boldToolbarCmd.tooltip "të Trasha">
-<!ENTITY italicToolbarCmd.tooltip "të Pjerrëta">
+<!ENTITY italicToolbarCmd.tooltip "Të pjerrëta">
 <!ENTITY underlineToolbarCmd.tooltip "të Nënvizuara">
 <!ENTITY bulletListToolbarCmd.tooltip "Vendosni ose hiqni listë me shenjë">
 <!ENTITY numberListToolbarCmd.tooltip "Vendosni ose hiqni listë me numra">
