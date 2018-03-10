@@ -38,7 +38,7 @@ help-button-label = Asistencë { -brand-short-name }-i
 focus-search =
     .key = f
 close-button =
-    .aria-label = Mbylle
+    .aria-label = Mbylleni
 
 ## Browser Restart Dialog
 

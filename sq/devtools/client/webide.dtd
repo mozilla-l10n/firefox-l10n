@@ -45,8 +45,6 @@
 
 <!ENTITY viewMenu_label "Pamje">
 <!ENTITY viewMenu_accesskey "V">
-<!ENTITY viewMenu_toggleEditor_label "Hapni/Mbyllni Përpunuesin">
-<!ENTITY viewMenu_toggleEditor_accesskey "P">
 <!ENTITY viewMenu_zoomin_label "Zmadhojeni">
 <!ENTITY viewMenu_zoomin_accesskey "m">
 <!ENTITY viewMenu_zoomout_label "Zvogëlojeni">
@@ -57,7 +55,7 @@
 <!ENTITY projectButton_label "Hapni Aplikacion">
 <!ENTITY runtimeButton_label "Përzgjidhni Runtime">
 
-<!-- We try to replicate Firefox' bindings: -->
+<!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
 <!ENTITY key_quit "W">
 <!-- open menu -->
@@ -66,8 +64,6 @@
 <!ENTITY key_play "R">
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
-<!-- toggle sidebar -->
-<!ENTITY key_toggleEditor "B">
 <!-- zoom -->
 <!ENTITY key_zoomin "+">
 <!ENTITY key_zoomin2 "=">
@@ -79,9 +75,7 @@
 <!ENTITY projectPanel_tabs "Skeda">
 <!ENTITY runtimePanel_usb "Pajisje USB">
 <!ENTITY runtimePanel_wifi "Pajisje Wi-Fi">
-<!ENTITY runtimePanel_simulator "Simulues">
 <!ENTITY runtimePanel_other "Tjetër">
-<!ENTITY runtimePanel_installsimulator "Instaloni Simulues">
 <!ENTITY runtimePanel_noadbhelper "Instaloni ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "Nuk e shihni pajisjen tuaj?">
 <!ENTITY runtimePanel_refreshDevices_label "Rifresko Pajisjet">
@@ -94,7 +88,6 @@
 <!ENTITY details_location "Vendndodhje">
 <!ENTITY details_manifestURL "ID Aplikacioni">
 <!ENTITY details_removeProject_button "Hiqe Projektin">
-<!ENTITY details_showPrepackageLog_button "Shfaq Regjistrim Pre-package">
 
 <!-- New App -->
 <!ENTITY newAppWindowTitle "Aplikacion i Ri">
@@ -105,7 +98,7 @@
 
 <!-- Decks -->
 
-<!ENTITY deck_close "Mbylle">
+<!ENTITY deck_close "Mbylleni">
 
 <!-- Addons -->
 <!ENTITY addons_title "Përbërës Ekstra">
@@ -123,21 +116,6 @@
 <!ENTITY prefs_options_rememberlastproject_tooltip "Rikthe projektin e mëparshëm, kur niset WebIDE-ja">
 <!ENTITY prefs_options_templatesurl "URL Gjedhesh">
 <!ENTITY prefs_options_templatesurl_tooltip "Tregues i gjedheve të gatshme">
-<!ENTITY prefs_options_showeditor "Shfaq përpunuesin">
-<!ENTITY prefs_options_showeditor_tooltip "Shfaq përpunuesin e brendshëm">
-<!ENTITY prefs_options_tabsize "Madhësi tabulacioni">
-<!ENTITY prefs_options_expandtab "Tabulacione me hapësira">
-<!ENTITY prefs_options_expandtab_tooltip "Përdor hapësira, në vend se shenjën e tabulacionit">
-<!ENTITY prefs_options_detectindentation "Vetëdhëmbëzoje">
-<!ENTITY prefs_options_detectindentation_tooltip "Vlerësoja dhëmbëzimin duke u bazuar në lëndën burim">
-<!ENTITY prefs_options_autocomplete "Vetëplotësim">
-<!ENTITY prefs_options_autocomplete_tooltip "Aktivizoni vetëplotësim kodi">
-<!ENTITY prefs_options_autoclosebrackets "Vetëmbylli kllapat">
-<!ENTITY prefs_options_autoclosebrackets_tooltip "Fut vetvetiu kllapa mbyllëse">
-<!ENTITY prefs_options_keybindings "Shkurtore">
-<!ENTITY prefs_options_keybindings_default "Parazgjedhje">
-<!ENTITY prefs_options_autosavefiles "Vetëruaji kartelat">
-<!ENTITY prefs_options_autosavefiles_tooltip "Ruajini vetvetiu kartelat e përpunuara, përpara se të xhirohet projekt">
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Të dhëna Runtime">
@@ -194,19 +172,3 @@
 
 <!-- Logs panel -->
 <!ENTITY logs_title "Regjistrime Urdhrash Pre-packaging">
-
-<!-- Simulator Options -->
-<!ENTITY simulator_title "Mundësi Simuluesi">
-<!ENTITY simulator_remove "Fshije Simuluesin">
-<!ENTITY simulator_reset "Rikthe Parazgjedhjet">
-<!ENTITY simulator_name "Emër">
-<!ENTITY simulator_software "Software">
-<!ENTITY simulator_version "Version">
-<!ENTITY simulator_profile "Profil">
-<!ENTITY simulator_hardware "Hardware">
-<!ENTITY simulator_device "Pajisje">
-<!ENTITY simulator_screenSize "Ekran">
-<!ENTITY simulator_pixelRatio "Përpjestim Pikselash">
-<!ENTITY simulator_tv_data "Simulim TV-je">
-<!ENTITY simulator_tv_data_open "Të dhëna Formësimi">
-<!ENTITY simulator_tv_data_open_button "Hapni Drejtori Formësimesh…">

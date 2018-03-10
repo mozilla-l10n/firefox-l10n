@@ -5,7 +5,7 @@
 
 <!ENTITY  history.title             "Historik Përditësimesh">
 <!ENTITY  history2.intro            "Janë instaluar përditësimet vijuese">
-<!ENTITY  closebutton.label         "Mbylle">
+<!ENTITY  closebutton.label         "Mbylleni">
 
 <!ENTITY  noupdates.label           "Ende nuk ka përditësime të instaluar">
 
