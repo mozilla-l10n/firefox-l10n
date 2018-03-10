@@ -187,7 +187,7 @@
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "Mbi &brandShortName;-in, FAQ, përshtypje">
 <!ENTITY pref_category_datareporting "Mundësi të dhënash">
-<!ENTITY pref_category_logins "Kredenciale Hyrjesh">
+<!ENTITY pref_category_logins "Kredenciale hyrjesh">
 <!ENTITY pref_learn_more "Mësoni më tepër">
 <!ENTITY pref_category_installed_search_engines "Motorë të instaluar kërkimesh">
 <!ENTITY pref_category_add_search_providers "Shtoni më tepër furnizues kërkimesh">
@@ -445,7 +445,7 @@
 <!ENTITY quit "Dilni">
 
 <!ENTITY addons "Shtesa">
-<!ENTITY logins "Kredenciale Hyrjesh">
+<!ENTITY logins "Kredenciale hyrjesh">
 <!ENTITY downloads "Shkarkime">
 <!ENTITY char_encoding "Kodim Shkronjash">
 

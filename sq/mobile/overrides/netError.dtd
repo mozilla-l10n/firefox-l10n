@@ -49,7 +49,7 @@
 </ul>
 ">
 
-<!ENTITY generic.title "Hëm…">
+<!ENTITY generic.title "Hëm.">
 <!ENTITY generic.longDesc "
 <p>&brandShortName;-i, për ndonjë arsye, nuk mund ta ngarkojë këtë faqe.</p>
 ">
@@ -76,7 +76,7 @@
 <!ENTITY notCached.title "Dokumenti Ka Skaduar">
 <!ENTITY notCached.longDesc "<p>Dokumenti i kërkuar nuk gjendet më te fshehtina e &brandShortName;-it.</p><ul><li>Si një masë parandaluese sigurie, &brandShortName;-i nuk rikërkon vetvetiu dokumente rezervat.</li><li>Që ta rikërkoni dokumentin prej sajtit, klikoni mbi Riprovoni.</li></ul>">
 
-<!ENTITY netOffline.title "Mënyrë i Palidhur">
+<!ENTITY netOffline.title "Mënyrë jo në linë">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY netOffline.longDesc3 "
