@@ -701,7 +701,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_start_title2 "Ka përditësim gati për &brandShortName;-un">
 <!ENTITY updater_start_select2 "Prekeni që të shkarkohet">
 
-<!ENTITY updater_downloading_title2 "Po shkarkohet &brandShortName;-u">
+<!ENTITY updater_downloading_title2 "Po shkarkohet &brandShortName;-i">
 <!ENTITY updater_downloading_title_failed2 "Shkarkimi dështoi">
 <!ENTITY updater_downloading_select2 "Prekeni që të zbatohet përditësimi pasi të jetë shkarkuar">
 <!ENTITY updater_downloading_retry2 "Prekeni që të riprovohet">
