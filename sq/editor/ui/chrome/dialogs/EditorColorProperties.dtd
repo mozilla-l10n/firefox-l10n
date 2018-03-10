@@ -5,7 +5,7 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label "Ngjyra dhe Sfond Faqeje">
 <!ENTITY pageColors.label "Ngjyra Faqeje">
-<!ENTITY defaultColorsRadio.label "Ngjyrat parazgjedhje të lexuesit (Mos cakto ngjyra për faqet)">
+<!ENTITY defaultColorsRadio.label "Ngjyrat parazgjedhje të lexuesit (Mos cakto ngjyra për faqen)">
 <!ENTITY defaultColorsRadio.accessKey "t">
 <!ENTITY defaultColorsRadio.tooltip "Përdorni rregullime ngjyrash vetëm prej shfletuesit të lexuesit">
 <!ENTITY customColorsRadio.label "Përdor ngjyra vetjake:">

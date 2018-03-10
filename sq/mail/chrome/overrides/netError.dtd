@@ -65,7 +65,7 @@
 <!ENTITY notCached.title "Dokumenti Ka Skaduar">
 <!ENTITY notCached.longDesc "<p>Dokumenti i kërkuar nuk mund të kihet në prej fshehtinës.</p><ul><li>Si masë parandaluese, &brandShortName;-i nuk rikërkon vetvetiu dokumente rezervat.</li><li>Klikoni mbi Riprovoni të rikërkohet dokumenti prej sajtit.</li></ul>">
 
-<!ENTITY netOffline.title "Mënyrë Jo Në Linjë">
+<!ENTITY netOffline.title "Mënyrë jo në linjë">
 <!ENTITY netOffline.longDesc2 "
 <ul>
   <li>Shtypni &quot;Riprovoni&quot; që të kalohet nën mënyrën në linjë dhe të ringarkohet faqja.</li>

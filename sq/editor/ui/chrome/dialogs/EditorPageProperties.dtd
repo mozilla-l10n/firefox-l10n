@@ -5,7 +5,7 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label "Veti Faqeje">
 <!ENTITY location.label "Vendndodhje:">
-<!ENTITY lastModified.label "Ndryshuar së Fundmi:">
+<!ENTITY lastModified.label "Ndryshuar Së Fundi Më:">
 <!ENTITY titleInput.label "Titull:">
 <!ENTITY titleInput.accessKey "T">
 <!ENTITY authorInput.label "Autor:">

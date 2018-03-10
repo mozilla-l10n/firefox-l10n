@@ -13,14 +13,14 @@
 <!ENTITY editButton.accesskey "P">
 <!ENTITY deleteButton.label "Fshije">
 <!ENTITY deleteButton.accesskey "e">
-<!ENTITY reorderTopButton "Në Krye">
+<!ENTITY reorderTopButton "Shpjere Në Krye">
 <!ENTITY reorderTopButton.accessKey "k">
 <!ENTITY reorderTopButton.toolTip "Risistemojeni filtrin që të ekzekutohet përpara krejt të tjerëve">
-<!ENTITY reorderUpButton.label "Sipër">
+<!ENTITY reorderUpButton.label "Shpjere Sipër">
 <!ENTITY reorderUpButton.accesskey "S">
-<!ENTITY reorderDownButton.label "Poshtë">
+<!ENTITY reorderDownButton.label "Shpjere Poshtë">
 <!ENTITY reorderDownButton.accesskey "o">
-<!ENTITY reorderBottomButton "Në Fund">
+<!ENTITY reorderBottomButton "Shpjere në Fund">
 <!ENTITY reorderBottomButton.accessKey "F">
 <!ENTITY reorderBottomButton.toolTip "Risistemojeni filtrin që të ekzekutohet pas krejt të tjerëve">
 <!ENTITY filterHeader.label "Filtrat veprues punojnë vetvetiu në radhën e treguar më poshtë.">

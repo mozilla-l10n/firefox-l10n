@@ -12,7 +12,7 @@
 <!ENTITY closeTabCmd2.accesskey "M">
 <!ENTITY closeOtherTabsCmd2.label "Mbyllini Skedat e Tjera">
 <!ENTITY closeOtherTabsCmd2.accesskey "T">
-<!ENTITY recentlyClosedTabsCmd.label "Skeda të Mbyllura Së Fundmi">
+<!ENTITY recentlyClosedTabsCmd.label "Skeda të Mbyllura Së Fundi">
 <!ENTITY recentlyClosedTabsCmd.accesskey "F">
 
 <!ENTITY undoCloseTabCmd.commandkey "T">
@@ -72,7 +72,7 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "P">
 <!ENTITY synchronizeOfflineCmd.label "Shkarkoni/Njëkohësoni Tani…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
-<!ENTITY settingsOfflineCmd2.label "Rregullime Për Jo Në Linjë">
+<!ENTITY settingsOfflineCmd2.label "Rregullime për Jo Në Linjë">
 <!ENTITY settingsOfflineCmd2.accesskey "e">
 <!ENTITY downloadSelectedCmd.label "Merr Mesazhet e Përzgjedhur">
 <!ENTITY downloadSelectedCmd.accesskey "u">
@@ -322,7 +322,7 @@
 <!ENTITY prevStarredMsgCmd.accesskey "Y">
 <!ENTITY folderMenu.label "Dosje">
 <!ENTITY folderMenu.accesskey "D">
-<!ENTITY goRecentlyClosedTabs.label "Skeda të Mbyllura Së Fundmi">
+<!ENTITY goRecentlyClosedTabs.label "Skeda të Mbyllura Së Fundi">
 <!ENTITY goRecentlyClosedTabs.accesskey "S">
 <!ENTITY startPageCmd.label "Faqe Fillimi Poste">
 <!ENTITY startPageCmd.accesskey "F">
@@ -374,7 +374,7 @@
 <!ENTITY createFilter.accesskey "F">
 <!ENTITY moveMsgToMenu.label "Shpjere Te">
 <!ENTITY moveMsgToMenu.accesskey "S">
-<!ENTITY moveCopyMsgRecentMenu.label "Së Fundmi">
+<!ENTITY moveCopyMsgRecentMenu.label "Së Fundi">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "F">
 <!ENTITY copyMessageLocation.label "Kopjo Vendndodhje Mesazhi">
 <!ENTITY copyMessageLocation.accesskey "M">
@@ -785,7 +785,7 @@
 <!ENTITY contextMultiForwardAsAttachment.accesskey "B">
 <!ENTITY contextMoveMsgMenu.label "Shpjere Te">
 <!ENTITY contextMoveMsgMenu.accesskey "e">
-<!ENTITY contextMoveCopyMsgRecentMenu.label "Së Fundmi">
+<!ENTITY contextMoveCopyMsgRecentMenu.label "Së Fundi">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "F">
 <!ENTITY contextCopyMsgMenu.label "Kopjoje Te">
 <!ENTITY contextCopyMsgMenu.accesskey "K">
