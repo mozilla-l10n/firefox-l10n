@@ -128,7 +128,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchGoToLine): This is the text that appears
   -  in the source editor's context menu for the line search operation. -->
-<!ENTITY debuggerUI.searchGoToLine           "Kalo te Rreshti…">
+<!ENTITY debuggerUI.searchGoToLine           "Kaloni te Rreshti…">
 <!ENTITY debuggerUI.searchGoToLine.key       "L">
 <!ENTITY debuggerUI.searchGoToLine.accesskey "a">
 
