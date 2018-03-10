@@ -91,7 +91,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "F">
 <!ENTITY bookmarksToolbarItem.label "Objekte Paneli Faqerojtësish">
 
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "Ringarkoji Krejt Skedat">
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Ringarko Krejt Skedat">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "R">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Faqeruani Krejt Skedat…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "F">
@@ -262,7 +262,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideBookmarksSidebar.label         "Fshihe Anështyllën e Faqerojtësve">
 <!ENTITY viewBookmarksToolbar.label         "Shihni Panel Faqerojtësish">
 <!ENTITY hideBookmarksToolbar.label         "Fshihe Panelin e Faqerojtësve">
-<!ENTITY searchBookmarks.label              "Kërkoni te Faqerojtësit">
+<!ENTITY searchBookmarks.label              "Kërkoni Te Faqerojtësit">
 <!ENTITY bookmarkingTools.label             "Mjete Faqeruajtjeje">
 <!ENTITY addBookmarksMenu.label             "Shtoje Menunë e Faqerojtësve te Paneli">
 <!ENTITY removeBookmarksMenu.label          "Hiqe Menunë e Faqerojtësve nga Paneli">
@@ -354,9 +354,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY historyMenu.label "Historik">
 <!ENTITY historyMenu.accesskey "H">
-<!ENTITY historyUndoMenu.label "Skeda të Mbyllura së Fundmi">
+<!ENTITY historyUndoMenu.label "Skeda të Mbyllura Së Fundi">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Dritare të mbyllura Së Fundmi">
+<!ENTITY historyUndoWindowMenu.label "Dritare të mbyllura Së Fundi">
 <!ENTITY historyRestoreLastSession.label "Riktheni Sesionin e Mëparshëm">
 
 <!ENTITY showAllHistoryCmd2.label "Shfaq Krejt Historikun">
@@ -824,7 +824,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openInNewTab.accesskey           "s">
 <!ENTITY syncedTabs.context.openInNewWindow.label            "Hape në Dritare të Re">
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "D">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Hape në Dritare Private">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Hape në Dritare të Re Private">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Faqeruajeni Këtë Skedë…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "F">

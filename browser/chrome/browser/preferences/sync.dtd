@@ -11,7 +11,7 @@
 <!ENTITY engine.tabs.accesskey      "S">
 <!ENTITY engine.history.label       "Historikun Tim">
 <!ENTITY engine.history.accesskey   "H">
-<!ENTITY engine.logins.label        "Kredenciale Hyrjesh">
+<!ENTITY engine.logins.label        "Kredenciale hyrjesh">
 <!ENTITY engine.logins.title        "Emra përdoruesi dhe fjalëkalime qe keni ruajtur">
 <!ENTITY engine.logins.accesskey    "K">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -70,11 +70,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY verifiedManage.accesskey     "A">
 <!ENTITY disconnect3.label            "Shkëputeni…">
 <!ENTITY disconnect3.accesskey        "S">
-<!ENTITY verify.label                "Verifikoni Email">
-<!ENTITY verify.accesskey            "V">
-<!ENTITY forget.label                "Harroje këtë Email">
-<!ENTITY forget.accesskey            "H">
-
 <!ENTITY resendVerification.label     "Ridërgo Verifikim">
 <!ENTITY resendVerification.accesskey "d">
 <!ENTITY cancelSetup.label            "Anuloje Rregullimin">

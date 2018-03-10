@@ -24,7 +24,7 @@
 <!ENTITY projectMenu_remove_accesskey "q">
 <!ENTITY projectMenu_showPrefs_label "Parapëlqime">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
-<!ENTITY projectMenu_manageComponents_label "Administroini Përbërës Ekstra">
+<!ENTITY projectMenu_manageComponents_label "Administroni Përbërës Ekstra">
 <!ENTITY projectMenu_manageComponents_accesskey "A">
 <!ENTITY projectMenu_refreshTabs_label "Rifresko Skedat">
 
