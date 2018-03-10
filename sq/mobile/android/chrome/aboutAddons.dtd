@@ -11,5 +11,5 @@
 <!ENTITY addonAction.undo                       "Anuloje">
 <!ENTITY addonAction.update                     "Përditësoje">
 
-<!ENTITY addonUnsigned.message                  "Kjo shtesë s&apos;u verifikua dot nga &brandShortName;-u.">
+<!ENTITY addonUnsigned.message                  "Kjo shtesë s&apos;u verifikua dot nga &brandShortName;.">
 <!ENTITY addonUnsigned.learnMore                "Mësoni më tepër">

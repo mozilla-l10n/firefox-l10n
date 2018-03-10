@@ -43,7 +43,7 @@
 <!ENTITY firstrun_account_title "Ju">
 <!ENTITY firstrun_account_message "E keni &brandShortName;-in në një pajisje tjetër?">
 
-<!ENTITY  onboard_start_restricted1 "Jini i parrezikuar dhe në kontroll, me këtë version të thjeshtëzuar të &brandShortName;-ut.">
+<!ENTITY  onboard_start_restricted1 "Jini i parrezikuar dhe në kontroll, me këtë version të thjeshtëzuar të &brandShortName;.">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -55,8 +55,8 @@
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 <!ENTITY  tab_offline_version "Po shfaqet versoni offline">
 
-<!ENTITY  crash_reporter_title "Njoftues Vithisjesh &brandShortName;-u">
-<!ENTITY  crash_message2 "&brandShortName;-u pati një problem dhe u vithis. Skedat tuaja do të duhej t’i shihnit te faqja e Fillimit të &brandShortName;-ut, kur ta rinisni.">
+<!ENTITY  crash_reporter_title "Njoftues Vithisjesh &brandShortName;">
+<!ENTITY  crash_message2 "&brandShortName; pati një problem dhe u vithis. Skedat tuaja do të duhej t’i shihnit te faqja e Fillimit të &brandShortName;, kur ta rinisni.">
 <!ENTITY  crash_send_report_message3 "Tregojini &vendorShortName;-s për këtë vithisje, që kështu të mund ta ndreqin">
 <!ENTITY  crash_include_url2 "Përfshi adresën e faqes ku gjendesha">
 <!ENTITY  crash_sorry "Na vjen keq">
@@ -68,7 +68,7 @@
 <!ENTITY  crash_close_label "Mbylleni">
 <!ENTITY  crash_restart_label "Rinise &brandShortName;">
 
-<!ENTITY url_bar_default_text2 "Kërkoni ose shkruani adresë">
+<!ENTITY url_bar_default_text2 "Bëni kërkim ose jepni adresë">
 
 <!ENTITY bookmark "Faqeruaje">
 <!ENTITY bookmark_remove "Hiqe faqerojtësin">
@@ -228,7 +228,7 @@
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
-<!ENTITY home_homepage_radio_default "Kreu i &brandShortName;-ut">
+<!ENTITY home_homepage_radio_default "Kreu i &brandShortName;">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
@@ -347,7 +347,7 @@
 <!ENTITY pref_clear_on_exit_dialog_title "Përzgjidhni cilat të dhëna të pastrohen">
 <!ENTITY pref_restore_tabs "Rikthe skeda">
 <!ENTITY pref_restore_always "Riktheji përherë">
-<!ENTITY pref_restore_quit "Mos i rikthe pas daljes nga &brandShortName;-u">
+<!ENTITY pref_restore_quit "Mos i rikthe pas daljes nga &brandShortName;">
 
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
@@ -387,7 +387,7 @@
 
 <!ENTITY pref_default_browser "Bëjeni shfletuesin parazgjedhje">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Vizitoni Asistencën e Mozilla-s">
-<!ENTITY pref_about_firefox "Rreth &brandShortName;-ut">
+<!ENTITY pref_about_firefox "Rreth &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "Jepni përshtypjet">
 
@@ -406,11 +406,11 @@
 <!ENTITY pref_panels_move_up "Ngjite sipër">
 <!ENTITY pref_panels_move_down "Zbrite poshtë">
 
-<!ENTITY datareporting_notification_title "Statistika &amp; të dhëna &brandShortName;-u ">
+<!ENTITY datareporting_notification_title "Statistika &amp; të dhëna &brandShortName;">
 <!ENTITY datareporting_notification_action "Zgjidhni ç’të ndahet me të tjerët">
 <!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
 <!ENTITY datareporting_notification_action_long "Zgjidhni ç’të dhëna të ndahen me të tjerët">
-<!ENTITY datareporting_notification_summary "Për përmirësimin e punimit tuaj, &brandShortName;-u dërgon vetvetiu te &vendorShortName; disa të dhëna.">
+<!ENTITY datareporting_notification_summary "Për përmirësimin e punimit tuaj, &brandShortName; dërgon vetvetiu te &vendorShortName; disa të dhëna.">
 <!-- When this item is removed, also remove datareporting_notification_action_long:
      it is unused in strings.xml. -->
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
@@ -421,7 +421,7 @@
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
-<!ENTITY datareporting_fhr_title "&brandShortName; Health Report">
+<!ENTITY datareporting_fhr_title "Raport Shëndeti &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "Ndan me &vendorShortName;-n të dhëna rreth shëndetit të shfletuesit tuaj dhe ju ndihmon të vlerësoni cilësinë e punës së shfletuesit tuaj">
 <!ENTITY datareporting_telemetry_title "Telemetry">
 <!ENTITY datareporting_telemetry_summary "Ndan me &vendorShortName;-n të dhëna funksionimi, përdorimi, hardware-i dhe përshtatjesh të shfletuesit tuaj, që të na ndihmojë ta bëjmë &brandShortName;-in më të mirë">
@@ -580,7 +580,7 @@
 
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
-<!ENTITY home_title "Kreu i &brandShortName;-ut">
+<!ENTITY home_title "Kreu i &brandShortName;">
 <!ENTITY home_history_title "Historik">
 <!ENTITY home_synced_devices_smartfolder "Pajisje të njëkohësuara">
 <!ENTITY home_synced_devices_number "&formatD; pajisje">
@@ -655,7 +655,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_chromeui "Kjo është një faqe &brandShortName; e sigurt">
 
 <!-- Mixed content notifications in site identity popup -->
-<!ENTITY mixed_content_blocked_all1 "&brandShortName;-u ka bllokuar në këtë faqe lëndë jo të sigurt.">
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; ka bllokuar në këtë faqe lëndë jo të sigurt.">
 <!ENTITY mixed_content_blocked_some1 "&brandShortName; -u ka bllokuar në këtë faqe ca lëndë jo të sigurt.">
 <!ENTITY mixed_content_display_loaded1 "Pjesë të kësaj faqeje (fjala vjen, figura) s&apos;janë të sigurta.">
 <!ENTITY mixed_content_protection_disabled1 "E keni çaktivizuar mbrojtjejn nga lëndë jo e sigurt.">
@@ -721,12 +721,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY exit_guest_session "Dilni nga Sesion Mysafiri">
 <!ENTITY guest_session_dialog_continue "Vazhdo">
 <!ENTITY guest_session_dialog_cancel "Anuloje">
-<!ENTITY new_guest_session_title "&brandShortName;-u tani do të riniset">
+<!ENTITY new_guest_session_title "&brandShortName; tani do të riniset">
 <!ENTITY new_guest_session_text2 "Personi që po e përdor nuk do të jetë në gjendje të shohë ndonjë të dhënë tuajën personale shfletimesh (të tilla si kredenciale hyrjesh të ruajtura, historik ose faqerojtës të ruajtur).\n\nKur mysafiri juaj të ketë mbaruar punë, të dhënat e tij të shfletimit do të fshihen dhe do të rikthehet sesioni juaj.">
 <!ENTITY guest_browsing_notification_title "Shfletimi si mysafir është i aktivizuar">
 <!ENTITY guest_browsing_notification_text "Prekeni që të dilet prej tij">
 
-<!ENTITY exit_guest_session_title "&brandShortName;-u tani do të riniset">
+<!ENTITY exit_guest_session_title "&brandShortName; tani do të riniset">
 <!ENTITY exit_guest_session_text "Të dhënat e shfletimit të këtij sesioni do të fshihen.">
 
 <!-- Miscellaneous -->

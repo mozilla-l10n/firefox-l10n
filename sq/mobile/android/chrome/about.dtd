@@ -1,7 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY aboutPage.title                        "Rreth &brandShortName;-ut">
+<!ENTITY aboutPage.title                        "Rreth &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName;-i është eksperimental dhe mund të jetë i paqëndrueshëm.">
 <!ENTITY aboutPage.checkForUpdates.link         "Kontrollo për Përditësime »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Po shihet për përditësime…">
