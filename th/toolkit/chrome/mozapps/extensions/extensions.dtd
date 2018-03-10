@@ -119,7 +119,7 @@
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 <!ENTITY discover.title                       "ส่วนเสริมคืออะไร?">
-<!ENTITY discover.description2                "ส่วนเสริมคือแอปพลิเคชันที่ช่วยให้คุณปรับแต่ง &brandShortName; ให้เป็นส่วนบุคคลด้วยความสามารถหรือลักษณะพิเศษ ลองแถบข้างที่ช่วยประหยัดเวลา, ตัวแจ้งสภาพอากาศ หรือชุดตกแต่งเพื่อทำให้ &brandShortName; เป็นของคุณเอง">
+<!ENTITY discover.description2                "ส่วนเสริมคือแอปพลิเคชันที่ช่วยให้คุณปรับแต่ง &brandShortName; ให้เป็นส่วนบุคคลด้วยฟังก์ชันการทำงานหรือลักษณะพิเศษ ลองแถบข้างที่ช่วยประหยัดเวลา, ตัวแจ้งสภาพอากาศ หรือชุดตกแต่งเพื่อทำให้ &brandShortName; เป็นของคุณเอง">
 <!ENTITY discover.footer                      "เมื่อคุณเชื่อมต่อกับอินเทอร์เน็ต บานหน้าต่างนี้จะแสดงส่วนเสริมบางส่วนที่ดีที่สุดและได้รับความนิยมสูงสุดเพื่อให้คุณลองใช้">
 
 <!-- detail view -->
