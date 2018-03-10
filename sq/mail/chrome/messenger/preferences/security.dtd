@@ -5,7 +5,7 @@
 <!ENTITY itemJunk.label          "E pavlerë">
 <!ENTITY itemPhishing.label      "Mashtrime Email">
 <!ENTITY itemPasswords.label     "Fjalëkalime">
-<!ENTITY itemAntiVirus.label     "Anti-Virus">
+<!ENTITY itemAntiVirus.label     "Antivirus">
 
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "Caktoni rregullimet tuaja parazgjedhje për postën e pavlerë. Rregullimet për postë të pavlerë, sipas llogarish të veçanta, mund të formësohen te Rregullime Llogarish.">
@@ -19,7 +19,6 @@
 <!ENTITY markAsReadOnSpam.accesskey "M">
 <!ENTITY enableAdaptiveJunkLogging.label "Aktivizo regjistrim nga filtrat për të pavlerat">
 <!ENTITY enableAdaptiveJunkLogging.accesskey "A">
-
 <!ENTITY openJunkLog.label "Shfaq regjistrimin">
 <!ENTITY openJunkLog.accesskey "h">
 <!ENTITY resetTrainingData.label "Rirregulloni të Dhëna Stërvitjeje">
@@ -31,7 +30,6 @@
 <!ENTITY enablePhishingDetector1.accesskey  "M">
 <!ENTITY useDownloadedList.label "Përdor listë të shkarkuar email-esh të dyshuar si mashtrim">
 <!ENTITY useDownloadedList.accesskey "P">
-
 
 <!-- Passwords -->
 <!ENTITY savedPasswords.intro           "&brandShortName;-i mund të mbajë mend fjalëkalimet për tërë llogaritë tuaja.">
@@ -47,3 +45,4 @@
 <!ENTITY antiVirus.intro      "&brandShortName;-i mund t&apos;ia lehtësojë software-it tuaj anti-virus analizat për viruse në mesazhe poste ardhëse, përpara se ato të depozitohen lokalisht.">
 <!ENTITY antiVirus.label      "Lejo klientë anti-virus të vendosin në karantinë mesazhe të veçantë ardhës">
 <!ENTITY antiVirus.accesskey  "L">
+
