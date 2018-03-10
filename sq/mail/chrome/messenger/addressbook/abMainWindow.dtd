@@ -209,7 +209,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY PagerNumber.accesskey                          "q">
 <!ENTITY FaxNumber.label                                "Faksesh">
 <!ENTITY FaxNumber.accesskey                            "F">
-<!ENTITY HomePhone.label                                "Telefonash Shtëpie">
+<!ENTITY HomePhone.label                                "Telefonash Banese">
 <!ENTITY HomePhone.accesskey                            "i">
 <!ENTITY WorkPhone.label                                "Telefonash Pune">
 <!ENTITY WorkPhone.accesskey                            "P">
