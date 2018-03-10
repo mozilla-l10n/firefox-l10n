@@ -761,7 +761,7 @@
 <!ENTITY contextEditMsgAsNew.label "Përpunojeni Si Mesazh të Ri">
 <!ENTITY contextEditMsgAsNew.accesskey "P">
 <!ENTITY contextEditDraftMsg.label "Përpunoni Mesazhin Skicë">
-<!ENTITY contextEditTemplate.label "Pepunoni Gjedhen">
+<!ENTITY contextEditTemplate.label "Përpunoni Gjedhen">
 <!ENTITY contextEditTemplate.accesskey "P">
 <!ENTITY contextArchive.label "Arkiv">
 <!ENTITY contextArchive.accesskey "A">
