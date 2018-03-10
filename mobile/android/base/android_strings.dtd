@@ -65,7 +65,7 @@
 <!ENTITY  crash_email "Email-i juaj">
 <!ENTITY  crash_closing_alert "Të dilet pa dërguar një njoftim vithisjeje?">
 <!ENTITY  sending_crash_report "Po dërgohet njoftimi i vithisjes\u2026">
-<!ENTITY  crash_close_label "Mbylle">
+<!ENTITY  crash_close_label "Mbylleni">
 <!ENTITY  crash_restart_label "Rinise &brandShortName;-un">
 
 <!ENTITY url_bar_default_text2 "Kërkoni ose shkruani adresë">
@@ -474,7 +474,7 @@
 <!ENTITY find_text "Gjej në Faqe">
 <!ENTITY find_prev "E mëparshmja">
 <!ENTITY find_next "Pasuesja">
-<!ENTITY find_close "Mbylle">
+<!ENTITY find_close "Mbylleni">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
