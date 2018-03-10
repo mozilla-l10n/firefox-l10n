@@ -461,6 +461,11 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Tuilleadain">
 <!ENTITY addons.accesskey "a">
+<!ENTITY addonPrefs.label "Roghainnean nan leudachan">
+<!ENTITY addonPrefs.accesskey "O">
+<!ENTITY addonPrefsUnix.label "Roghainnean nan leudachan">
+<!ENTITY addonPrefsUnix.accesskey "P">
+<!ENTITY addonNoPrefs.label "Cha deach roghainnean leudachan a lorg.">
 <!ENTITY activitymanager.label "Manaidsear gnìomhachd">
 <!ENTITY activitymanager.accesskey "M">
 <!ENTITY imAccountsStatus.label "Staid cabadaich">
