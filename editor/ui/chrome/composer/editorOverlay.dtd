@@ -13,7 +13,7 @@
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Ngjite Si">
 <!ENTITY pasteAs.accesskey "S">
-<!ENTITY pasteAsQuotationCmd.label "Ngjite Si Përmendje">
+<!ENTITY pasteAsQuotationCmd.label "Ngjite Si Citim">
 <!ENTITY pasteAsQuotationCmd.accesskey "P">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findBarCmd.label "Gjeni…">

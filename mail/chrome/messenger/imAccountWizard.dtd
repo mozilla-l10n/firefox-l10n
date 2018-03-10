@@ -19,7 +19,7 @@
 
 <!ENTITY accountAdvancedTitle.label   "Mundësi të Mëtejshme">
 <!ENTITY accountAdvancedInfo.label    "Jeni të lirë ta anashkaloni këtë hap, nëse dëshironi.">
-<!ENTITY accountAdvanced.newMailNotification.label   "Njoftomë kur ka Postë të re">
+<!ENTITY accountAdvanced.newMailNotification.label   "Njoftomë për Postë të re">
 <!ENTITY accountAliasGroupbox.caption "Aliase Vendorë">
 <!ENTITY accountAliasField.label      "Alias:">
 <!ENTITY accountAliasInfo.label       "Kjo do të shfaqet te bisedat tuaja vetëm kur flisni ju, kontaktet e largëta nuk kanë për ta parë.">

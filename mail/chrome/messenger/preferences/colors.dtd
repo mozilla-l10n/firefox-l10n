@@ -10,7 +10,7 @@
 <!ENTITY  overridePageColors.accesskey    "o">
 
 <!ENTITY  overridePageColors.always.label "Përherë">
-<!ENTITY  overridePageColors.auto.label   "Vetëm me tema Kontrasti të Lartë">
+<!ENTITY  overridePageColors.auto.label   "Vetëm për tema Me Shumë Kontrast">
 <!ENTITY  overridePageColors.never.label  "Kurrë">
 
 <!ENTITY  color                           "Tekst dhe Sfond">

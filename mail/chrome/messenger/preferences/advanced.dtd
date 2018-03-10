@@ -102,7 +102,7 @@
 <!ENTITY useCacheBefore.label            "Përdor deri më">
 <!ENTITY useCacheBefore.accesskey        "d">
 <!ENTITY useCacheAfter.label             "MB hapësirë për fshehtinën">
-<!ENTITY overrideSmartCacheSize.label    "Anashkaloje administrimin e vetvetishëm të fshehtinës">
+<!ENTITY overrideSmartCacheSize.label    "Anashkalo administrim të vetvetishëm fshehtine">
 <!ENTITY overrideSmartCacheSize.accesskey "A">
 <!ENTITY clearCacheNow.label             "Pastroje Tani">
 <!ENTITY clearCacheNow.accesskey         "P">

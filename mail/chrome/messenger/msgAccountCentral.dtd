@@ -24,4 +24,4 @@
 <!ENTITY searchMsgsLink.label         "Kërkoni në mesazhe">
 <!ENTITY filtersLink.label            "Administroni filtra mesazhesh">
 <!ENTITY junkSettings.label           "Rregullime për postë të pavlerë">
-<!ENTITY offlineLink.label            "Rregullime për I palidhur">
+<!ENTITY offlineLink.label            "Rregullime për jo në linjë">
