@@ -242,6 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.popupBlocked.tooltip             "Bhac thu priob-uinneagan air an làrach-lìn seo.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Bhac thu às-tharraing dàta canabhais air an làrach-lìn seo.">
 
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "Bhac thu an làrach-lìn seo o bhith a’ cleachdadh plugan Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Bhac thu inntrigeadh MIDI air an làrach-lìn seo.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Seall an eachdraidh">

@@ -62,11 +62,13 @@ available. -->
 <!ENTITY siteData.label                  "Dàta na làraich">
 <!ENTITY clearSiteData.label             "Falamhaich an dàta air fad">
 <!ENTITY clearSiteData.accesskey         "l">
+<!ENTITY siteDataSettings.label          "Roghainnean…">
+<!ENTITY siteDataSettings.accesskey      "i">
 <!ENTITY siteData1.label                 "Briosgaidean is dàta làraichean">
 <!ENTITY clearSiteData1.label            "Falamhaich an dàta...">
 <!ENTITY clearSiteData1.accesskey        "l">
-<!ENTITY siteDataSettings.label          "Roghainnean…">
-<!ENTITY siteDataSettings.accesskey      "i">
+<!ENTITY siteDataSettings1.label         "Stiùirich an dàta...">
+<!ENTITY siteDataSettings1.accesskey     "M">
 <!ENTITY siteDataLearnMoreLink.label     "Barrachd fiosrachaidh">
 
 <!-- LOCALIZATION NOTE:

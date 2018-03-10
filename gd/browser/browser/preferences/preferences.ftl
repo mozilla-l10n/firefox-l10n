@@ -21,6 +21,10 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 17em
+policies-notice = { PLATFORM() ->
+        [windows] Chuir am buidheann agad casg air atharrachadh cuid a roghainnean.
+       *[other] Chuir am buidheann agad casg air atharrachadh cuid a roghainnean.
+    }
 pane-general-title = Coitcheann
 category-general =
     .tooltiptext = { pane-general-title }
