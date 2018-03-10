@@ -70,11 +70,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY verifiedManage.accesskey     "n">
 <!ENTITY disconnect3.label            "Dì-cheangail...">
 <!ENTITY disconnect3.accesskey        "D">
-<!ENTITY verify.label                "Dearbh am post-d">
-<!ENTITY verify.accesskey            "m">
-<!ENTITY forget.label                "Dìochuimhnich am post-d seo">
-<!ENTITY forget.accesskey            "o">
-
 <!ENTITY resendVerification.label     "Cuir an dearbhadh às ùr">
 <!ENTITY resendVerification.accesskey "d">
 <!ENTITY cancelSetup.label            "Sguir dhen t-suidheachadh">
@@ -106,3 +101,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
 <!ENTITY mobilePromo3.end              " gus sioncronachadh a dhèanamh leis an uidheam mobile agad.">
+
+<!ENTITY mobilepromo.singledevice      "Ceangail uidheam eile ris">
+<!ENTITY mobilepromo.multidevice       "Stiùirich na h-uidheaman">

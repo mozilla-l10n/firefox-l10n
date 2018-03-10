@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Dìon o thracadh">
-<!ENTITY  trackingProtection2.description      "Tha tracadh a’ ciallachadh gu bheil cuideigin a’ cumail sùil air an dàta bhrabhsaidh agad air feadh grunn làraichean-lìn. ’S urrainn do dhaoine pròifil a chruthachadh le dàta tracaidh mar seo, stèidhichte air an dàta bhrabhsaidh agus an dàta phearsanta agad.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "Cleachd dìon o thracadh airson casg a chur air tracaichean aithnichte">
 <!ENTITY  trackingProtection3.description      "Bacaidh an dìon o thracadh thu o thracaichean air loidhne a chruinnicheas an dàta brabhsaidh agad air feadh diofar làraichean-lìn.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "Cleachd dìon o thracadh airson casg a chur air tracaichean aithnichte">
 <!ENTITY  trackingProtectionAlways.label       "An-còmhnaidh">
@@ -13,7 +11,6 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "p">
 <!ENTITY  trackingProtectionNever.label        "Chan ann idir">
 <!ENTITY  trackingProtectionNever.accesskey    "N">
-<!ENTITY  trackingProtectionLearnMore.label    "Barrachd fiosrachaidh">
 <!ENTITY  trackingProtectionLearnMore2.label    "Barrachd fiosrachaidh mu dhìon o thracadh agus do phrìobhaideachd">
 <!ENTITY  trackingProtectionExceptions.label   "Eisgeachdan…">
 <!ENTITY  trackingProtectionExceptions.accesskey "E">
@@ -24,11 +21,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "Barrachd fiosrachaidh">
 <!ENTITY changeBlockList2.label               "Atharrai&amp;ch an liosta bacaidh...">
 <!ENTITY changeBlockList2.accesskey           "c">
-
-<!ENTITY  doNotTrack.description        "Cuir sanas “Na dèan tracadh orm” gu làraichean-lìn a dh’innseas nach eil thu ag iarraidh gun dèanar tracadh ort">
-<!ENTITY  doNotTrack.learnMore.label    "Barrachd fiosrachaidh">
-<!ENTITY  doNotTrack.default.label      "Dìreach nuair a chleachdar dìon o thracadh">
-<!ENTITY  doNotTrack.always.label       "An-còmhnaidh">
 
 <!ENTITY  history.label                 "Eachdraidh">
 <!ENTITY  permissions.label             "Ceadan">
@@ -51,6 +43,15 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "Gabh ri briosgaidean treas-phàrtaidh">
 <!ENTITY  acceptThirdParty2.pre.accesskey "y">
+
+<!ENTITY  acceptCookies4.label          "Gabh ri briosgaidean is dàta làraich o làraichean-lìn (mholamaid seo)">
+<!ENTITY  acceptCookies4.accesskey      "A">
+
+<!ENTITY  blockCookies.label            "Bac briosgaidean is dàta làraich (dh’fhaoidte nach obraich cuid a làraichean ma nì thu seo)">
+<!ENTITY  blockCookies.accesskey        "B">
+
+<!ENTITY  acceptThirdParty3.pre.label     "Gabh ri briosgaidean is dàta làraich o threas-phàrtaidhean">
+<!ENTITY  acceptThirdParty3.pre.accesskey "y">
 <!ENTITY  acceptThirdParty.always.label   "An-còmhnaidh">
 <!ENTITY  acceptThirdParty.never.label    "Chan ann idir">
 <!ENTITY  acceptThirdParty.visited.label  "O fheadhainn air an deach tadhal">
@@ -85,6 +86,8 @@
 <!ENTITY  rememberActions.removeCookies.label "briosgaidean fa leth a thoirt air falbh">
 <!ENTITY  rememberActions.post.label          ".">
 
+<!ENTITY  rememberDescription1.label      "Cuimhnichidh &brandShortName; eachdraidh a’ bhrabhsaidh, nam foirm, nan lorg is nan rudan a luchdaich thu a-nuas.">
+
 <!ENTITY  dontrememberDescription.label  "Cleachdaidh &brandShortName; na dearbh roghainnean 's a tha agad ann an brabhsadh prìobhaideach agus cha chuimhnich e eachdraidh sam bith 's tu a' brabhsadh an lìn.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
@@ -92,6 +95,9 @@
 <!ENTITY  dontrememberActions.pre.label          "'S dòcha gum b' fheairrde dhut cuideachd ">
 <!ENTITY  dontrememberActions.clearHistory.label "an eachdraidh làithreach gu lèir a ghlanadh">
 <!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  clearHistoryButton.label       "Falamhaich an eachdraidh...">
+<!ENTITY  clearHistoryButton.accesskey   "s">
 
 <!ENTITY  privateBrowsingPermanent2.label "Dèan brabhsadh prìobhaideach an-còmhnaidh">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
