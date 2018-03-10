@@ -53,8 +53,6 @@ available. -->
 <!ENTITY networkProxy.label              "Proxy Laylaytol">
 
 <!ENTITY connectionDesc.label            "Teelto no &brandShortName; seŋortoo e Enternet">
-
-<!ENTITY connectionSettingsLearnMore.label "Ɓeydu humpito">
 <!ENTITY connectionSettings.label        "Teelte…">
 <!ENTITY connectionSettings.accesskey    "e">
 
@@ -64,11 +62,13 @@ available. -->
 <!ENTITY siteData.label                  "Keɓe Lowre">
 <!ENTITY clearSiteData.label             "Momtu Keɓe ɗee Fof">
 <!ENTITY clearSiteData.accesskey         "o">
+<!ENTITY siteDataSettings.label          "Teelte… ">
+<!ENTITY siteDataSettings.accesskey      "e">
 <!ENTITY siteData1.label                 "Kuukiije kam e Keɓe Lowre">
 <!ENTITY clearSiteData1.label            "Momtu Keɓe…">
 <!ENTITY clearSiteData1.accesskey        "l">
-<!ENTITY siteDataSettings.label          "Teelte… ">
-<!ENTITY siteDataSettings.accesskey      "e">
+<!ENTITY siteDataSettings1.label         "Yuɓɓin keɓe…">
+<!ENTITY siteDataSettings1.accesskey     "M">
 <!ENTITY siteDataLearnMoreLink.label     "Jokku taro">
 
 <!-- LOCALIZATION NOTE:
