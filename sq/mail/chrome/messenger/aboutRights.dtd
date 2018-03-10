@@ -39,7 +39,7 @@
 <!-- point 4 text for unbranded builds -->
 <!ENTITY rights.intro-point4a-unbranded "Nëse ky produkt përmban shërbime web, çfarëdo kushtesh të zbatueshëm për shërbimin(et) do të duhej të tregoheshin me një lidhje te ">
 <!ENTITY rights.intro-point4b-unbranded "ndarja">
-<!ENTITY rights.intro-point4c-unbranded "Shërbime Sajtesh.">
+<!ENTITY rights.intro-point4c-unbranded " Shërbime Sajtesh.">
 
 <!ENTITY rights.webservices-header "Shërbime Sajtesh &brandFullName;">
 
