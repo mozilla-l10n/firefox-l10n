@@ -57,7 +57,7 @@
 <!ENTITY calendar.unifinder.tree.duration.tooltip2         "Renditi sipas kohësh përfundimi">
 <!ENTITY calendar.unifinder.close.tooltip                  "Mbyllni kërkim veprimtarish dhe listë veprimtarish">
 
-<!ENTITY calendar.today.button.tooltip          "Shkoni te e sotmja" >
+<!ENTITY calendar.today.button.tooltip          "Shkoni te Sot" >
 <!ENTITY calendar.todaypane.button.tooltip      "Shfaqni Kutinë për të Sotmen" >
 
 <!ENTITY calendar.day.button.tooltip            "Kaloni te pamje dite" >
