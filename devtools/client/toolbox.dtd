@@ -25,7 +25,7 @@
 
 <!-- LOCALIZATION NOTE (options.context.inspector): This is the label for
   -  the heading of the Inspector group in the options panel. -->
-<!ENTITY options.context.inspector "Shqyrtues">
+<!ENTITY options.context.inspector "Mbikëqyrës">
 
 <!-- LOCALIZATION NOTE (options.showUserAgentStyles.label): This is the label
   -  for the checkbox option to show user agent styles in the Inspector

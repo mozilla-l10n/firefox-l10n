@@ -21,6 +21,10 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
+policies-notice = { PLATFORM() ->
+        [windows] Enti juaj e ka çaktivizuar aftësinë e ndryshimit të disa mundësive
+       *[other] Enti juaj e ka çaktivizuar mundësinë e ndryshimit të disa parapëlqimeve
+    }
 pane-general-title = Të përgjithshme
 category-general =
     .tooltiptext = { pane-general-title }
@@ -77,7 +81,7 @@ startup-prev-session =
     .label = Shfaq dritaret dhe skedat e mia të herës së fundit
 disable-extension =
     .label = Çaktivizoje Zgjerimin
-home-page-header = Shfaq kreun tim
+home-page-header = Faqe hyrëse
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -259,7 +263,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Ndërmjetës Rrjeti
-network-proxy-connection-learn-more = Mësoni më tepër
+network-proxy-connection-learn-more = Mësoni Më Tepër
 network-proxy-connection-settings =
     .label = Rregullime…
     .accesskey = R

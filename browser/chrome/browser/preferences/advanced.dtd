@@ -31,7 +31,7 @@ available. -->
 
 <!ENTITY enableHealthReport2.label       "Lejojeni &brandShortName;-in të dërgojë të dhëna teknike dhe ndërveprimi te Mozilla">
 <!ENTITY enableHealthReport2.accesskey   "L">
-<!ENTITY healthReportLearnMore.label     "Mësoni Më Tepër">
+<!ENTITY healthReportLearnMore.label     "Mësoni më tepër">
 
 <!ENTITY dataCollection.label            "Grumbullim dhe Përdorim të Dhënash nga &brandShortName;-i">
 <!ENTITY dataCollectionDesc.label        "Përpiqemi t’ju japim mundësi zgjedhjesh dhe grumbullojmë vetëm ç’na duhet për të ofruar dhe përmirësuar &brandShortName;-in për këdo. Kërkojmë përherë leje përpara se të marrim të dhëna personale.">
@@ -62,11 +62,11 @@ available. -->
 <!ENTITY siteData.label                  "Të dhëna Sajti">
 <!ENTITY clearSiteData.label             "Pastro Krejt të Dhënat">
 <!ENTITY clearSiteData.accesskey         "K">
+<!ENTITY siteDataSettings.label          "Rregullime…">
+<!ENTITY siteDataSettings.accesskey      "R">
 <!ENTITY siteData1.label                 "Cookies dhe të Dhëna Sajtesh">
 <!ENTITY clearSiteData1.label            "Pastroni të Dhëna…">
 <!ENTITY clearSiteData1.accesskey        "P">
-<!ENTITY siteDataSettings.label          "Rregullime…">
-<!ENTITY siteDataSettings.accesskey      "R">
 <!ENTITY siteDataSettings1.label         "Administroni Të dhëna…">
 <!ENTITY siteDataSettings1.accesskey     "A">
 <!ENTITY siteDataLearnMoreLink.label     "Mësoni më tepër">

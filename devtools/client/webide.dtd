@@ -128,7 +128,7 @@
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Buleane">
-<!ENTITY device_typenumber "E plotë">
+<!ENTITY device_typenumber "Numër i plotë">
 <!ENTITY device_typestring "Varg">
 <!ENTITY device_typeobject "Objekt">
 <!ENTITY device_typenone "Përzgjidhni një lloj">
@@ -149,7 +149,7 @@
 
 <!-- Monitor -->
 <!ENTITY monitor_title "Monitor">
-<!ENTITY monitor_help "Nidhmë">
+<!ENTITY monitor_help "Ndihmë">
 
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
