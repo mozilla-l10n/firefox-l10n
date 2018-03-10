@@ -21,6 +21,10 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
+policies-notice = { PLATFORM() ->
+        [windows] Zure erakundeak hainbat aukera aldatzeko modua desgaitu du.
+       *[other] Zure erakundeak hainbat hobespen aldatzeko modua desgaitu du.
+    }
 pane-general-title = Orokorra
 category-general =
     .tooltiptext = { pane-general-title }
