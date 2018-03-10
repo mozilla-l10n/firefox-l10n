@@ -279,7 +279,7 @@
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.key "g">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY searchMailCmd.label "Kërkoni te Mesazhet…">
+<!ENTITY searchMailCmd.label "Kërkoni Te Mesazhet…">
 <!ENTITY searchMailCmd.accesskey "M">
 <!ENTITY searchMailCmd.key "f">
 <!ENTITY searchAddressesCmd.label "Kërkoni te Adresat…">
@@ -688,7 +688,7 @@
 <!ENTITY SearchNameOrEmail.accesskey "E">
 
 <!-- Gloda Search Bar -->
-<!ENTITY glodaSearchBar.placeholder "Kërkoni në mesazhet…">
+<!ENTITY glodaSearchBar.placeholder "Kërkoni te mesazhet…">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Subjekt">
