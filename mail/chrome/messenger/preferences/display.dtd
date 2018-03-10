@@ -36,7 +36,7 @@
 <!ENTITY removeTagButton.accesskey "F">
 
 <!-- Fonts and Colors -->
-<!ENTITY fontsAndColors1.label   "Shkronja &amp;Ngjyra">
+<!ENTITY fontsAndColors1.label   "Shkronja &amp; Ngjyra">
 <!ENTITY defaultFont.label       "Shkronja parazgjedhje:">
 <!ENTITY defaultFont.accesskey   "a">
 <!ENTITY defaultSize.label       "Madhësi:">

@@ -11,7 +11,7 @@
 <!ENTITY SelectSize.accesskey "L">
 <!ENTITY SelectMultiple.label "Përzgjedhje e Shumëfishtë">
 <!ENTITY SelectMultiple.accesskey "P">
-<!ENTITY SelectDisabled.label "Çaktivizuar">
+<!ENTITY SelectDisabled.label "E çaktivizuar">
 <!ENTITY SelectDisabled.accesskey "Ç">
 <!ENTITY SelectTabIndex.label "Tregues Tab:">
 <!ENTITY SelectTabIndex.accesskey "T">
@@ -19,7 +19,7 @@
 <!ENTITY OptGroup.label "Grup Mundësish">
 <!ENTITY OptGroupLabel.label "Etiketë:">
 <!ENTITY OptGroupLabel.accesskey "E">
-<!ENTITY OptGroupDisabled.label "Çaktivizuar">
+<!ENTITY OptGroupDisabled.label "E çaktivizuar">
 <!ENTITY OptGroupDisabled.accesskey "Ç">
 
 <!ENTITY Option.label "Mundësi">
@@ -29,7 +29,7 @@
 <!ENTITY OptionValue.accesskey "V">
 <!ENTITY OptionSelected.label "Përzgjedhur Paraprakisht">
 <!ENTITY OptionSelected.accesskey "P">
-<!ENTITY OptionDisabled.label "Çaktivizuar">
+<!ENTITY OptionDisabled.label "E çaktivizuar">
 <!ENTITY OptionDisabled.accesskey "Ç">
 
 <!ENTITY TextHeader.label "Tekst">
