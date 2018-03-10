@@ -8,11 +8,11 @@
 
 <!ENTITY privateBrowsing.title                           "Privatuo puorlūkuošona">
 <!ENTITY privateBrowsing.title.tracking                  "Privatuo puorlūkuošona ar izsekuošonys aizsardzeibu">
-<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "When you browse in a Private Window, Firefox ">
-<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "does not save">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Kod porlyukoj privatajā lūgā, Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "nasagloboj">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
 <!ENTITY aboutPrivateBrowsing.info.visited               "apmaklātuos lopys">
-<!ENTITY aboutPrivateBrowsing.info.searches              "searches">
+<!ENTITY aboutPrivateBrowsing.info.searches              "meklejumus">
 <!ENTITY aboutPrivateBrowsing.info.cookies               "seikdatnes">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "pagaidu failus">
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
@@ -21,12 +21,12 @@
 <!ENTITY aboutPrivateBrowsing.info.downloads             "lejupīluodes">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "gruomotzeimes">
 <!ENTITY aboutPrivateBrowsing.note.before                "Privatuo puorlūkuošona ">
-<!ENTITY aboutPrivateBrowsing.note.emphasize             "doesn’t make you anonymous">
-<!ENTITY aboutPrivateBrowsing.note.after                 " on the Internet. Your employer or Internet service provider can still know what page you visit.">
+<!ENTITY aboutPrivateBrowsing.note.emphasize             "napadora tevi anonimu">
+<!ENTITY aboutPrivateBrowsing.note.after                 " internetā. Tovs daorba deviejs voi interneta pakolpojumu snīdzējs vyssvīns var uzzynōt, kurys lopys esi vierīs.">
 <!ENTITY aboutPrivateBrowsing.learnMore3.before          "Uzzinit vairuok par ">
 <!ENTITY aboutPrivateBrowsing.learnMore3.title           "Privatuo puorlūkuošona">
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
 <!ENTITY trackingProtection.title                        "Izsekuošonys aizsardzeiba">
-<!ENTITY trackingProtection.description2                 "Some websites use trackers that can monitor your activity across the Internet. With Tracking Protection Firefox will block many trackers that can collect information about your browsing behavior.">
-<!ENTITY trackingProtection.startTour1                   "See how it works">
+<!ENTITY trackingProtection.description2                 "Dažys lopys izmontoj izsekōtōjus, kuri var izsekōt tovu aktivitati internetā. Ar izsekōšonys aizsardzeibu Firefox bloķēs daudzus nu sekōtōjiem, kuri vōc informaciji par tovom aktivitatem internetā.">
+<!ENTITY trackingProtection.startTour1                   "Uzzynoj, kai tys strōdoj">
