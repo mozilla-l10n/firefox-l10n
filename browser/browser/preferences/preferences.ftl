@@ -21,6 +21,10 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
+policies-notice = { PLATFORM() ->
+        [windows] Organizația ta a dezactivat posibilitatea de a modifica anumite opțiuni.
+       *[other] Organizația ta a dezactivat posibilitatea de a modifica anumite preferințe.
+    }
 pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
@@ -70,11 +74,11 @@ set-as-my-default-browser =
 startup-page = Când { -brand-short-name } pornește:
     .accesskey = s
 startup-user-homepage =
-    .label = Arată pagina de start
+    .label = Afișează pagina de start
 startup-blank-page =
-    .label = Arată o pagină goală
+    .label = Afișează o pagină goală
 startup-prev-session =
-    .label = Arată ferestrele și filele de data trecută
+    .label = Afișează ferestrele și filele de data trecută
 disable-extension =
     .label = Dezactivează extensia
 home-page-header = Arată pagina de start
@@ -249,7 +253,7 @@ browsing-use-smooth-scrolling =
     .label = Folosește derularea lină
     .accesskey = i
 browsing-use-onscreen-keyboard =
-    .label = Arată o tastatură tactilă când este necesar
+    .label = Afișează o tastatură tactilă când este necesar
     .accesskey = k
 browsing-use-cursor-navigation =
     .label = Folosește întotdeauna săgețile pentru a naviga în pagini
