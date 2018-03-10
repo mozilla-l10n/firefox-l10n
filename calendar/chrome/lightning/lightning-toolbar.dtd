@@ -30,7 +30,7 @@
 <!ENTITY lightning.toolbar.newevent.label     "Veprimtari">
 <!ENTITY lightning.toolbar.newevent.tooltip   "Krijoni veprimtari të re">
 <!ENTITY lightning.toolbar.newtask.label      "Punë">
-<!ENTITY lightning.toolbar.newtask.tooltip    "Krijoni një punë të re">
+<!ENTITY lightning.toolbar.newtask.tooltip    "Krijoni punë të re">
 
 <!-- Calendar and Task Mode Toolbar -->
 <!ENTITY lightning.toolbar.day.label                 "Ditë">
@@ -44,7 +44,7 @@
 <!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton1.tooltip
      from messenger.dtd -->
 <!ENTITY lightning.toolbar.appmenuButton.label       "Menu Aplikacionesh">
-<!ENTITY lightning.toolbar.appmenuButton1.tooltip     "Shfaq Menunë e &brandShortName;-it">
+<!ENTITY lightning.toolbar.appmenuButton1.tooltip    "Shfaq Menunë e &brandShortName;-it">
 <!ENTITY lightning.toolbar.calendarmenu.label        "Kuadrat Kalendari">
 <!ENTITY lightning.toolbar.calendarmenu.accesskey    "K">
 <!ENTITY lightning.toolbar.calendarpane.label        "Shfaqe Kuadratin e Kalendarit">
