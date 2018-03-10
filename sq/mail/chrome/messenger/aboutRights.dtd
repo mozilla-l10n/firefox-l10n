@@ -5,7 +5,7 @@
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.title            "Mbi të Drejtat Tuaja">
 <!ENTITY rights.intro-header     "Mbi të Drejtat Tuaja">
-<!ENTITY rights.intro "&brandFullName;-i është &quot;software&quot; i lirë dhe me burim të hapur, i ndërtuar nga një bashkësi disamijëshe anembanë botës. Ka pak gjëra që do të ishte mirë t&apos;i dini:">
+<!ENTITY rights.intro "&brandFullName;-i është software i lirë dhe me burim të hapur, krijuar nga një bashkësi disamijëshe anembanë botës. Ka pak gjëra që do të duhej t&apos;i dinit:">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
