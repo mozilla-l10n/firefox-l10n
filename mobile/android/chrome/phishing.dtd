@@ -24,4 +24,4 @@
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Faqet e software-i të padëshiruar përpiqen të instalojnë programe që mund të jenë të rrejshme dhe të ndikojnë në sistemin tuaj në rrugë të papritura.">
 
 <!ENTITY safeb.blocked.harmfulPage.title "Sajti ku po shkoni mund të përmbajë malware">
-<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName;-i e bllokoi këtë faqe, ngaqë mund të përpiqet të instalojë aplikacione të rrezikshme që vjedhim ose fshijnë informacione tuajat (për shembull foto, fjalëkalime, mesazhe dhe karta krediti).">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName;-i e bllokoi këtë faqe, ngaqë mund të përpiqet të instalojë aplikacione të rrezikshme që vjedhin ose fshijnë të dhëna tuajat (për shembull, foto, fjalëkalime, mesazhe dhe karta kreditit).">
