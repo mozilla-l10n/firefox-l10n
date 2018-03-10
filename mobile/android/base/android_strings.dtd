@@ -60,7 +60,7 @@
 <!ENTITY  crash_send_report_message3 "Tregojini &vendorShortName;-s për këtë vithisje, që kështu të mund ta ndreqin">
 <!ENTITY  crash_include_url2 "Përfshije adresën e faqes ku gjendesha">
 <!ENTITY  crash_sorry "Na vjen keq">
-<!ENTITY  crash_comment "Shtoni një koment (komentet janë të dukshme botërisht)">
+<!ENTITY  crash_comment "Shtoni një koment (komentet janë të dukshëm botërisht)">
 <!ENTITY  crash_allow_contact2 "Lejoje &vendorShortName;-n të më kontaktojë rreth këtij njoftimi">
 <!ENTITY  crash_email "Email-i juaj">
 <!ENTITY  crash_closing_alert "Të dilet pa dërguar një njoftim vithisjeje?">
