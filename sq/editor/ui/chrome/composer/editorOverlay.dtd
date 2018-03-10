@@ -104,7 +104,7 @@
 <!ENTITY styleItalicCmd.label "Të pjerrëta">
 <!ENTITY styleItalicCmd.accesskey "P">
 <!ENTITY styleItalicCmd.key "I">
-<!ENTITY styleUnderlineCmd.label "Të nënvizuara">
+<!ENTITY styleUnderlineCmd.label "Të nënvijëzuara">
 <!ENTITY styleUnderlineCmd.accesskey "N">
 <!ENTITY styleUnderlineCmd.key "U">
 <!ENTITY styleStrikeThruCmd.label "Hequrvije">
@@ -117,7 +117,7 @@
 <!ENTITY styleNonbreakingCmd.accesskey "a">
 <!ENTITY styleEm.label "Theksim">
 <!ENTITY styleEm.accesskey "E">
-<!ENTITY styleStrong.label "Theksim më të Fortë">
+<!ENTITY styleStrong.label "Theksim Më të Fortë">
 <!ENTITY styleStrong.accesskey "t">
 <!ENTITY styleCite.label "Përmendje">
 <!ENTITY styleCite.accesskey "J">
@@ -315,7 +315,7 @@
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Madhësi më e madhe shkronjash">
 <!ENTITY boldToolbarCmd.tooltip "të Trasha">
 <!ENTITY italicToolbarCmd.tooltip "Të pjerrëta">
-<!ENTITY underlineToolbarCmd.tooltip "të Nënvizuara">
+<!ENTITY underlineToolbarCmd.tooltip "Të Nënvijëzuara">
 <!ENTITY bulletListToolbarCmd.tooltip "Vendosni ose hiqni listë me shenjë">
 <!ENTITY numberListToolbarCmd.tooltip "Vendosni ose hiqni listë me numra">
 <!ENTITY outdentToolbarCmd.tooltip "Tekst jashtazi (zhvendose majtas)">

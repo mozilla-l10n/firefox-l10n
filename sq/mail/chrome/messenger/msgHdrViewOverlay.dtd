@@ -52,7 +52,7 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Shfaqe Përherë pjesën Përgjigjiuni Dërguesit">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "P">
 
-<!ENTITY otherActionsButton2.label "Të tjera">
+<!ENTITY otherActionsButton2.label "Më tepër">
 <!ENTITY otherActionsButton.tooltip "Veprime të tjera">
 <!ENTITY otherActionsOpenConversation1.label "Hape si Bisedë">
 <!ENTITY otherActionsOpenConversation1.accesskey "B">
