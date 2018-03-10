@@ -44,6 +44,7 @@
 <!ENTITY  acceptThirdParty2.pre.label     "Acceptă cookie-uri de la terți">
 <!ENTITY  acceptThirdParty2.pre.accesskey "y">
 
+<!ENTITY  acceptCookies4.label          "Acceptă cookie-uri și datele site-urilor de la site-uri web (recomandat)">
 <!ENTITY  acceptCookies4.accesskey      "A">
 
 <!ENTITY  blockCookies.label            "Blochează cookie-urile și datele site-urilor (poate provoca afectarea aspectului site-urilor web)">
@@ -85,6 +86,7 @@
 <!ENTITY  rememberActions.removeCookies.label "să ștergi anumite cookie-uri">
 <!ENTITY  rememberActions.post.label          ".">
 
+<!ENTITY  rememberDescription1.label      "&brandShortName; va memora istoricul navigării, descărcărilor, formularelor și căutărilor.">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; va folosi aceleași setări ca navigarea privată și nu va memora niciun istoric pe măsură ce navighezi pe web.">
 
