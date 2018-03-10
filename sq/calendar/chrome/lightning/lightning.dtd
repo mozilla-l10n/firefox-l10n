@@ -42,7 +42,6 @@
      These strings are used in the calendar wizard and the calendar properties dialog, but are only
      displayed when setting/using a caldav calendar -->
 <!ENTITY lightning.calendarproperties.email.label                           "Email:">
-
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.label            "Parapëlqe planifikim email-esh më anë të klientit">
 <!-- LOCALIZATON NOTE(lightning.calendarproperties.forceEmailScheduling.tooltiptext1,
      lightning.calendarproperties.forceEmailScheduling.tooltiptext2)
@@ -58,7 +57,7 @@
 <!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Pranoni ftesë veprimtarie për krejt përsëritjet e veprimtarisë">
 <!ENTITY lightning.imipbar.btnAdd.label                                     "Shtojeni">
 <!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Shtojni veprimtarinë te kalendari">
-<!ENTITY lightning.imipbar.btnDecline.label                                 "Hidheni tej">
+<!ENTITY lightning.imipbar.btnDecline.label                                 "Hidheni poshtë">
 <!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Hidhni tej ftesën e veprimtarisë">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Hidhni tej krejt">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Hidhni tej ftesën e veprimtarisë për krejt përsëritjet e veprimtarisë">
