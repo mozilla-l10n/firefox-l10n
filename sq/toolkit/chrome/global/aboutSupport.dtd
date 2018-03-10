@@ -79,6 +79,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsProcessCount "Procese Lënde Web">
 
+
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Kyç Google">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Kyç Mozilla Location Service">
 
@@ -118,7 +119,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "E aktivizuar">
 <!ENTITY aboutSupport.a11yForceDisabled "Parandaloje Përdorshmërinë">
 
-<!ENTITY aboutSupport.libraryVersionsTitle "Versione Librarie">
+<!ENTITY aboutSupport.libraryVersionsTitle "Versione Librarish">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Historik Instalimesh">
 <!ENTITY aboutSupport.updateHistoryTitle "Historik Përditësimesh">
