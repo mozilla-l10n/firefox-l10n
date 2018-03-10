@@ -14,7 +14,7 @@
 <!ENTITY TextAreaCols.accessKey "S">
 <!ENTITY TextAreaReadOnly.label "Vetëm Lexim">
 <!ENTITY TextAreaReadOnly.accessKey "L">
-<!ENTITY TextAreaDisabled.label "Çaktivizuar">
+<!ENTITY TextAreaDisabled.label "E çaktivizuar">
 <!ENTITY TextAreaDisabled.accessKey "Ç">
 <!ENTITY TextAreaTabIndex.label "Tregues Tab:">
 <!ENTITY TextAreaTabIndex.accessKey "T">

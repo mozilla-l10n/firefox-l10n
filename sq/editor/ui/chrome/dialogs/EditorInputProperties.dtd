@@ -33,7 +33,7 @@
 <!ENTITY InputSelected.accesskey "P">
 <!ENTITY InputReadOnly.label "Vetëm Lexim">
 <!ENTITY InputReadOnly.accesskey "L">
-<!ENTITY InputDisabled.label "Çaktivizuar">
+<!ENTITY InputDisabled.label "E çaktivizuar">
 <!ENTITY InputDisabled.accesskey "Ç">
 <!ENTITY tabIndex.label "Tregues Tab:">
 <!ENTITY tabIndex.accesskey "T">
