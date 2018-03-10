@@ -17,7 +17,7 @@
 <!ENTITY treehead.siteName2.label         "Sajte">
 <!ENTITY removeSite.label                 "Hiqe Sajtin">
 <!ENTITY removeSite.accesskey             "S">
-<!ENTITY removeAllSites.label             "Hiqni Krejt Sajtet">
+<!ENTITY removeAllSites.label             "Hiqi Krejt Sajtet">
 <!ENTITY removeAllSites.accesskey         "i">
 
 <!ENTITY button.close.label               "Mbylleni">

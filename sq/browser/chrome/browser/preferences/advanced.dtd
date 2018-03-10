@@ -82,7 +82,7 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "MB hapësirë">
 <!ENTITY clearCacheNow.label             "Pastroje Tani">
 <!ENTITY clearCacheNow.accesskey         "T">
-<!ENTITY overrideSmartCacheSize.label    "Anashkalo administrimin e vetvetishëm të fshehtinës">
+<!ENTITY overrideSmartCacheSize.label    "Anashkalo administrim të vetvetishëm fshehtine">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
 <!ENTITY updateTab.label                 "Përditësim">

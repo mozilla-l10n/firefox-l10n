@@ -138,7 +138,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.sandboxSyscallArgs "Argumente">
 
 <!ENTITY aboutSupport.safeModeTitle "Provoni Mënyrën e Parrezik">
-<!ENTITY aboutSupport.restartInSafeMode.label "Riniseni me Shtesa të Çaktivizuara…">
+<!ENTITY aboutSupport.restartInSafeMode.label "Riniseni me Shtesat të Çaktivizuara…">
 
 <!ENTITY aboutSupport.graphicsFeaturesTitle "Veçori">
 <!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnostikime">
