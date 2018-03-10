@@ -476,7 +476,7 @@
 <!ENTITY imStatus.showAccounts       "Shfaq Llogari…">
 <!ENTITY joinChatCmd.label "Hyni Në Fjalosje…">
 <!ENTITY joinChatCmd.accesskey "o">
-<!ENTITY savedFiles.label "Kartela të ruajtura">
+<!ENTITY savedFiles.label "Kartela të Ruajtura">
 <!ENTITY savedFiles.accesskey "l">
 <!ENTITY savedFiles.key "j">
 <!ENTITY filtersCmd2.label "Filtra Mesazhesh">

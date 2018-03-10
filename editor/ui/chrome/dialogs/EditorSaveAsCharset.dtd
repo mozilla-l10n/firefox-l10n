@@ -7,8 +7,11 @@
 <!-- This button is for the progressive disclosure of additional editing functionality -->
 
 <!-- These strings are for use specifically in the editor's link dialog. -->
-<!ENTITY windowTitle2.label "Ruajtje dhe Ndryshim Kodimi Teksti">
+<!ENTITY windowTitle2.label "Ruaje Dhe Ndërroji Kodimin e Tekstit">
 <!ENTITY documentTitleTitle.label "Titull Faqeje">
 <!ENTITY documentCharsetTitle2.label "Kodim Teksti">
 <!ENTITY documentCharsetDesc2.label "Përzgjidhni kodim teksti nën të cilin doni të ruhet një dokument:">
 <!ENTITY documentExportToText.label "Eksportoje si Tekst">
+
+
+
