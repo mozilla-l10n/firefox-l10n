@@ -44,9 +44,9 @@
 <!ENTITY month.11.name "Nëntor" >
 <!ENTITY month.12.name "Dhjetor" >
 
-<!ENTITY onemonthbackward.tooltip "Një Muaj Mbrapsht" >
-<!ENTITY onemonthforward.tooltip "Një Muaj Para" >
+<!ENTITY onemonthbackward.tooltip "Një Muaj Prapa" >
+<!ENTITY onemonthforward.tooltip "Një Muaj Më Tej" >
 <!ENTITY showToday.tooltip "Shkoni te Sot">
-<!ENTITY onedayforward.tooltip "Një Ditë Para">
+<!ENTITY onedayforward.tooltip "Një Ditë Më Tej">
 <!ENTITY onedaybackward.tooltip "Një Ditë Mbrapsht">
 <!ENTITY showselectedday.tooltip "Shfaqni veprimtari për ditën e përzgjedhur">
