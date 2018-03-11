@@ -9,6 +9,7 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
+<!ENTITY mainWindow.preface "Kaynak: ">
 
 <!ENTITY fileMenu.label "Dosya">
 <!ENTITY fileMenu.accesskey "D">
@@ -32,7 +33,11 @@ textReset.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
+<!ENTITY textEnlarge.commandkey "+">
+<!ENTITY textReduce.commandkey "-">
+<!ENTITY textReduce.commandkey2 "">
 <!ENTITY textReset.commandkey "0">
+<!ENTITY textReset.commandkey2 "">
 
 <!ENTITY goToLineCmd.label "Satıra git…">
 <!ENTITY goToLineCmd.accesskey "S">
@@ -41,13 +46,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reloadCmd.label "Tazele">
 <!ENTITY reloadCmd.accesskey "T">
 <!ENTITY reloadCmd.commandkey "r">
+<!ENTITY menu_wrapLongLines.title "Uzun satırları böl">
+<!ENTITY menu_wrapLongLines.accesskey "U">
 <!ENTITY menu_highlightSyntax.label "Söz dizimi vurgusu">
 <!ENTITY menu_highlightSyntax.accesskey "u">
 <!ENTITY menu_textSize.label "Metin boyutu">
 <!ENTITY menu_textSize.accesskey "M">
+<!ENTITY menu_textEnlarge.label "Büyüt">
+<!ENTITY menu_textEnlarge.accesskey "B">
+<!ENTITY menu_textReduce.label "Küçült">
+<!ENTITY menu_textReduce.accesskey "K">
 <!ENTITY menu_textReset.label "Normal">
 <!ENTITY menu_textReset.accesskey "N">
 
+<!ENTITY findOnCmd.label     "Bu sayfada bul…">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
 
