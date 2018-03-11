@@ -296,7 +296,7 @@
 <!ENTITY nextUnreadMsgCmd.label "Mesazh i Palexuar">
 <!ENTITY nextUnreadMsgCmd.accesskey "P">
 <!ENTITY nextUnreadMsgCmd.key "n">
-<!ENTITY nextStarredMsgCmd.label "Mesazh me Yllkë">
+<!ENTITY nextStarredMsgCmd.label "Mesazh Me Yllkë">
 <!ENTITY nextStarredMsgCmd.accesskey "Y">
 <!ENTITY nextUnreadThread.label "Rrjedhë e Palexuar">
 <!ENTITY nextUnreadThread.accesskey "R">
@@ -741,7 +741,7 @@
 <!ENTITY receivedColumn2.tooltip "Renditi sipas datës së marrjes">
 <!ENTITY starredColumn2.tooltip "Renditi sipas yjesh">
 <!ENTITY locationColumn2.tooltip "Renditi sipas vendndodhjesh">
-<!ENTITY idColumn2.tooltip "Renditi sipas rendit të marrjes">
+<!ENTITY idColumn2.tooltip "Renditi sipas radhe marrjeje">
 <!ENTITY attachmentColumn2.tooltip "Renditi sipas bashkëngjitjesh">
 
 <!-- Thread Pane Context Menu -->

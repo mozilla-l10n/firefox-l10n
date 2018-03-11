@@ -16,19 +16,19 @@
 <!ENTITY quickFilterBar.toggleBarVisibility.menu.label
          "Shtyllë Filtri të Shpejtë">
 
-<!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.appmenu.label):
-     The label to display for the "App Menu... Preferences..." menu item that
-     controls whether the quick filter bar is visible.
-     -->
-<!ENTITY quickFilterBar.toggleBarVisibility.appmenu.label
-         "Shtyllë Filtri të Shpejtë">
-
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.menu.accesskey):
      The access key for the "View... Toolbars..." menu item label that controls
      whether the quick filter bar is visible.
      -->
 <!ENTITY quickFilterBar.toggleBarVisibility.menu.accesskey
          "S">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.appmenu.label):
+     The label to display for the "App Menu... Preferences..." menu item that
+     controls whether the quick filter bar is visible.
+     -->
+<!ENTITY quickFilterBar.toggleBarVisibility.appmenu.label
+         "Shtyllë Filtri të Shpejtë">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.button.tooltip):
      The tooltip to display when hovering over the button on the tab bar that
@@ -66,7 +66,7 @@
      include messages that have been starred/flagged.
      -->
 <!ENTITY quickFilterBar.starred.label
-         "Me yll">
+         "Me yllkë">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.starred.tooltip):
      The tooltip for the filter button that causes us to filter results to only
@@ -161,25 +161,22 @@
 <!ENTITY quickFilterBar.textbox.emptyText.base1
          "Filtrojini këto mesazhe #1">
 
-<!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.keyLabel.nonmac):
-     The description of the key-binding to get into the box on windows and
-     linux (which use the control key).  We use the keybinding for cmd_find
-     used by the find-in-message mechanism, so that's the letter to indicate
-     if you don't use 'f' for your localization.
-     -->
-<!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.nonmac
-         "&lt;Ctrl+Shift+K&gt;">
-
 <!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
      This is the key used to show the quick filter bar. -->
 <!ENTITY quickFilterBar.show.key2
          "k">
 
+<!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.keyLabel.nonmac):
+     The description of the key-binding to get into the box on windows and
+     linux (which use the control key).  This should match the value of
+     quickFilterBar.show.key above.
+     -->
+<!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.nonmac
+         "&lt;Ctrl+Shift+K&gt;">
+
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.keyLabel.mac):
      The description of the key-binding to get into the box on mac systems.
-     We use the keybinding for cmd_find used by the find-in-message mechanism,
-     so that's the letter to indicate  if you don't use 'f' for your
-     localization.
+     This should match the value of quickFilterBar.show.key above.
      -->
 <!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.mac
          "&lt;&#x21E7;&#x2318;K&gt;">

@@ -10,7 +10,7 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifierseparator " - ">
-<!ENTITY mainWindow.preface "Burim i i: ">
+<!ENTITY mainWindow.preface "Burim i: ">
 
 <!ENTITY fileMenu.label "Kartelë">
 <!ENTITY fileMenu.accesskey "K">
