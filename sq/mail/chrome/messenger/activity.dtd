@@ -10,7 +10,7 @@ file names and tall enough to hint that there are more activities in the list --
 
 <!ENTITY activity.title                  "Përgjegjës Veprimtarie">
 
-<!ENTITY cmd.pause.label                  "Pushoje">
+<!ENTITY cmd.pause.label                  "Ndale">
 <!ENTITY cmd.pause.accesskey              "P">
 <!ENTITY cmd.resume.label                 "Rinise">
 <!ENTITY cmd.resume.accesskey             "R">

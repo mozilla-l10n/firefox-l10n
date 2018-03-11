@@ -13,7 +13,7 @@
 <!ENTITY editButton.accesskey "P">
 <!ENTITY deleteButton.label "Fshije">
 <!ENTITY deleteButton.accesskey "e">
-<!ENTITY reorderTopButton "Shpjere Në Krye">
+<!ENTITY reorderTopButton "Shpjere në Krye">
 <!ENTITY reorderTopButton.accessKey "k">
 <!ENTITY reorderTopButton.toolTip "Risistemojeni filtrin që të ekzekutohet përpara krejt të tjerëve">
 <!ENTITY reorderUpButton.label "Shpjere Sipër">

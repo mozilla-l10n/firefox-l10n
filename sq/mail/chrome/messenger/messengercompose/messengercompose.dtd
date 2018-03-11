@@ -110,7 +110,7 @@
 <!ENTITY reorderAttachmentsPanel.label "Rirenditni Bashkëngjitje">
 <!ENTITY moveAttachmentTopPanelBtn.label "Shpjere në Krye">
 <!ENTITY moveAttachmentTopPanelBtn.accesskey "y">
-<!ENTITY moveAttachmentUpPanelBtn.label "Ngjite Sipër">
+<!ENTITY moveAttachmentUpPanelBtn.label "Shpjere Sipër">
 <!ENTITY moveAttachmentUpPanelBtn.accesskey "S">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Lëvizi bashkë">
 <!ENTITY moveAttachmentBundleUpPanelBtn.accesskey "b">
