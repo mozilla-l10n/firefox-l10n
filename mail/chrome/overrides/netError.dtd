@@ -95,7 +95,7 @@
 <!ENTITY unknownProtocolFound.title "Nuk u kuptua adresa">
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
-  <li>Mund t&apos;ju duhet të instaloni tjetër program për të hapur këtë adresë</li>
+  <li>Mund t&apos;ju duhet të instaloni tjetër program për të hapur këtë adresë.</li>
 </ul>
 ">
 
