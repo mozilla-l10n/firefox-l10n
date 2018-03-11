@@ -23,13 +23,13 @@
 <!ENTITY day.7.Ddd "Sht" >
 <!ENTITY day.7.Ddd.accesskey "S">
 
-<!ENTITY day.1.name "e Diel" >
-<!ENTITY day.2.name "e Hënë" >
-<!ENTITY day.3.name "e Martë" >
-<!ENTITY day.4.name "e Mërkurë" >
-<!ENTITY day.5.name "e Enjte" >
-<!ENTITY day.6.name "e Premte" >
-<!ENTITY day.7.name "e Shtunë" >
+<!ENTITY day.1.name "E diel" >
+<!ENTITY day.2.name "E hënë" >
+<!ENTITY day.3.name "E martë" >
+<!ENTITY day.4.name "E mërkurë" >
+<!ENTITY day.5.name "E enjte" >
+<!ENTITY day.6.name "E premte" >
+<!ENTITY day.7.name "E shtunë" >
 
 <!ENTITY month.1.name "Janar" >
 <!ENTITY month.2.name "Shkurt" >
