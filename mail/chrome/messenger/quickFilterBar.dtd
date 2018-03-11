@@ -89,7 +89,7 @@
      books.
      -->
 <!ENTITY quickFilterBar.inaddrbook.tooltip
-         "Zobrazí pouze zprávy od lidí v adresáři">
+         "Zobrazí pouze zprávy od lidí v kontaktech">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.tags.label):
      The label for the filter button that causes us to filter results to only

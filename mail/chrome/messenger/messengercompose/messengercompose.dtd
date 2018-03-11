@@ -158,7 +158,7 @@
 <!ENTITY customizeToolbar.label "Přizpůsobit…">
 <!ENTITY customizeToolbar.accesskey "z">
 
-<!ENTITY addressSidebar.label "Lišta adresáře">
+<!ENTITY addressSidebar.label "Lišta kontaktů">
 <!ENTITY addressSidebar.accesskey "a">
 
 <!-- Format Menu -->
@@ -220,7 +220,7 @@
 <!ENTITY messengerCmd.label "Pošta a diskusní skupiny">
 <!ENTITY messengerCmd.accesskey "P">
 <!ENTITY messengerCmd.commandkey "1">
-<!ENTITY addressBookCmd.label "Adresář">
+<!ENTITY addressBookCmd.label "Kontakty">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY accountManagerCmd2.label "Nastavení účtu">
@@ -241,7 +241,7 @@
 <!-- Mail Toolbar -->
 <!ENTITY sendButton.label "Odeslat">
 <!ENTITY quoteButton.label "Citovat">
-<!ENTITY addressButton.label "Adresář">
+<!ENTITY addressButton.label "Kontakty">
 <!ENTITY attachButton.label "Připojit">
 <!ENTITY spellingButton.label "Pravopis">
 <!ENTITY saveButton.label "Uložit">
@@ -251,7 +251,7 @@
 <!ENTITY sendButton.tooltip "Odešle tuto zprávu">
 <!ENTITY sendlaterButton.tooltip "Odešle tuto zprávu později">
 <!ENTITY quoteButton.tooltip "Ocituje předchozí zprávu">
-<!ENTITY addressButton.tooltip "Vybere příjemce z adresáře">
+<!ENTITY addressButton.tooltip "Vybere příjemce z kontaktů">
 <!ENTITY attachButton.tooltip "Připojí k této zprávě přílohu">
 <!ENTITY spellingButton.tooltip "Zkontroluje pravopis vybrané části nebo celé zprávy">
 <!ENTITY saveButton.tooltip "Uloží tuto zprávu">
@@ -344,7 +344,7 @@
 <!ENTITY spellAddDictionaries.accesskey "P">
 
 <!-- Title for the address picker panel -->
-<!ENTITY addressesSidebarTitle.label "Adresář">
+<!ENTITY addressesSidebarTitle.label "Kontakty">
 
 <!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Nastavení adresy odesílatele…">
