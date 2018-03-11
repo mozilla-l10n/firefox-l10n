@@ -103,7 +103,7 @@
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
   <li>Kontrolloni rregullimet për ndërmjetësin, për t&apos;u siguruar që janë të sakta.</li>
-  <li>Lidhuni me përgjegjësin e rrjetit tuaj, për t&apos;u siguruar që shërbyesi ndërmjetës po punon</li>
+  <li>Lidhuni me përgjegjësin e rrjetit tuaj, për t&apos;u siguruar që shërbyesi ndërmjetës po punon.</li>
 </ul>
 ">
 

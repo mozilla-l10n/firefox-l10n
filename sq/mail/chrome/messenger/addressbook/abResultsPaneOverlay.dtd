@@ -26,7 +26,7 @@
 <!ENTITY PagerNumber.accesskey                 "q">
 <!ENTITY FaxNumber.label                       "Faks">
 <!ENTITY FaxNumber.accesskey                   "F">
-<!ENTITY HomePhone.label                       "Telefon Banese">
+<!ENTITY HomePhone.label                       "Telefon Shtëpie">
 <!ENTITY HomePhone.accesskey                   "s">
 <!ENTITY WorkPhone.label                       "Telefon Pune">
 <!ENTITY WorkPhone.accesskey                   "P">
