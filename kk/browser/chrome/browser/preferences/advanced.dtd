@@ -62,11 +62,13 @@ available. -->
 <!ENTITY siteData.label                  "Сайт деректері">
 <!ENTITY clearSiteData.label             "Барлық деректерді тазарту">
 <!ENTITY clearSiteData.accesskey         "з">
+<!ENTITY siteDataSettings.label          "Баптаулар…">
+<!ENTITY siteDataSettings.accesskey      "п">
 <!ENTITY siteData1.label                 "Cookies файлдары және сайт деректері">
 <!ENTITY clearSiteData1.label            "Деректерді өшіру…">
 <!ENTITY clearSiteData1.accesskey        "ш">
-<!ENTITY siteDataSettings.label          "Баптаулар…">
-<!ENTITY siteDataSettings.accesskey      "п">
+<!ENTITY siteDataSettings1.label         "Деректерді басқару…">
+<!ENTITY siteDataSettings1.accesskey     "б">
 <!ENTITY siteDataLearnMoreLink.label     "Көбірек білу">
 
 <!-- LOCALIZATION NOTE:
