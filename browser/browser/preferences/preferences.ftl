@@ -21,6 +21,10 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
+policies-notice = { PLATFORM() ->
+        [windows] Organisaatiosi on estänyt joidenkin asetusten muuttamisen.
+       *[other] Organisaatiosi on estänyt joidenkin asetusten muuttamisen.
+    }
 pane-general-title = Yleiset
 category-general =
     .tooltiptext = { pane-general-title }
