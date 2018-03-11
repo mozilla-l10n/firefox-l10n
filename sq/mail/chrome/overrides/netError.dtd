@@ -13,7 +13,7 @@
 <!ENTITY connectionFailure.title "Nuk arrin të lidhet">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "Mbi këtë adresë ka kufizime">
+<!ENTITY deniedPortAccess.title "Kjo adresë është e ndaluar">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Nuk u gjet shërbyes">
