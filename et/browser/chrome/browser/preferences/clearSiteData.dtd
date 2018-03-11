@@ -5,6 +5,18 @@
 <!ENTITY window.title                 "Andmete kustutamine">
 <!ENTITY window.width                 "35em">
 
+<!ENTITY window.description           "Kustutades kõik &brandShortName;i poolt salvestatud küpsised ja saitide andmed, võib tulemuseks olla see, et sind logitakse saitidest välja ja võrguta režiimis kasutamiseks mõeldud andmed eemaldatakse. Vahemälus olevate andmete kustutamine ei mõjuta sinu kasutajakontosid.">
+<!ENTITY windowClose.key              "w">
 
+<!ENTITY clearSiteData.label          "Küpsised ja saidi andmed">
+<!ENTITY clearSiteData.accesskey      "K">
+<!ENTITY clearSiteData.description    "Kustutamisel võib põhjustada saitidest väljalogimist">
 
+<!ENTITY clearCache.label             "Veebisisu vahemälu">
+<!ENTITY clearCache.accesskey         "V">
+<!ENTITY clearCache.description       "Kustutamisel tuleb veebilehtede pildid ja andmed uuesti laadida">
 
+<!ENTITY button.cancel.label          "Loobu">
+<!ENTITY button.cancel.accesskey      "L">
+<!ENTITY button.clear.label           "Kustuta">
+<!ENTITY button.clear.accesskey       "u">
