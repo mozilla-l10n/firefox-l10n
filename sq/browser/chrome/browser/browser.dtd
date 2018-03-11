@@ -220,7 +220,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Administroni përdorim shtojcash">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Ndryshoni zgjedhjen për nëse mund të merrni njoftime prej sajtit apo jo">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Depozitoni të dhëna në Depozitë të Qëndrueshme">
-<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Fshihe Anështyllën e Faqerojtësve">
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Fshiheni Anështyllën e Faqerojtësve">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Administroni ndarjen me sajtin të kamerës dhe/ose mikrofonit tuaj">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Administroni ndarjen me sajtin të mikrofonit tuaj">
@@ -376,7 +376,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.label "Shfaqni Më Tepër">
-<!ENTITY appMenuRemoteTabs.showMore.tooltip "Shfaq më tepër skeda nga kjo pajisje">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "Shfaqni më tepër skeda nga kjo pajisje">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showAll.label "Shfaqini Krejt">
