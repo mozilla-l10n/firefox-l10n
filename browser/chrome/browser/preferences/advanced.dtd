@@ -53,8 +53,6 @@ available. -->
 <!ENTITY networkProxy.label              "네트워크 프록시">
 
 <!ENTITY connectionDesc.label            "&brandShortName;가 인터넷에 연결하는 방법을 선택합니다.">
-
-<!ENTITY connectionSettingsLearnMore.label "자세히 보기">
 <!ENTITY connectionSettings.label        "설정…">
 <!ENTITY connectionSettings.accesskey    "e">
 
@@ -64,11 +62,13 @@ available. -->
 <!ENTITY siteData.label                  "사이트 데이터">
 <!ENTITY clearSiteData.label             "모든 데이터 삭제">
 <!ENTITY clearSiteData.accesskey         "l">
+<!ENTITY siteDataSettings.label          "설정…">
+<!ENTITY siteDataSettings.accesskey      "i">
 <!ENTITY siteData1.label                 "쿠키와 사이트 데이타">
 <!ENTITY clearSiteData1.label            "데이타 삭제…">
 <!ENTITY clearSiteData1.accesskey        "l">
-<!ENTITY siteDataSettings.label          "설정…">
-<!ENTITY siteDataSettings.accesskey      "i">
+<!ENTITY siteDataSettings1.label         "데이타 관리…">
+<!ENTITY siteDataSettings1.accesskey     "M">
 <!ENTITY siteDataLearnMoreLink.label     "더 알아보기">
 
 <!-- LOCALIZATION NOTE:
