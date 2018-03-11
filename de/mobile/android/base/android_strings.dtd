@@ -810,7 +810,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY unsupported_sdk_version "Leider funktioniert &brandShortName; nicht auf diesem Gerät (&formatS1;, &formatS2;). Bitte laden Sie die passende Version herunter.">
 
 <!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
-<!ENTITY corrupt_apk "&brandShortName; kann nicht geöffnet werden. Bitte erneut installieren und erneut versuchen.">
+<!ENTITY corrupt_apk "&brandShortName; kann nicht geöffnet werden. Bitte installieren Sie noch einmal und versuchen Sie es erneut.">
 
 <!ENTITY eol_notification_title2 "&brandShortName; wird sich nicht länger aktualisieren.">
 <!ENTITY eol_notification_summary "Hier tippen, um mehr zu erfahren.">
