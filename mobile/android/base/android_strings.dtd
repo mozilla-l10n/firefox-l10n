@@ -420,7 +420,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName;i terviseraport">
 <!ENTITY datareporting_fhr_summary2 "Jagab andmeid brauseri seisundist &vendorShortName;ga ja aitab sul aru saada oma brauseri jõudlusest">
-<!ENTITY datareporting_abouthr_title "Kuva terviseraportit">
 <!ENTITY datareporting_telemetry_title "Telemeetria">
 <!ENTITY datareporting_telemetry_summary "Jagab sinu brauseri sooritusvõimsuse, kasutamise, kohandamiste ja riistvara andmeid &vendorShortName;ga, et aidata meil &brandShortName; paremaks teha">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; saadab vearaportid &vendorShortName;le, et aidata meil teha sinu brauser stabiilsemaks ja turvalisemaks">
@@ -452,6 +451,7 @@
 <!ENTITY share_image_failed "Selle pildi jagamine pole võimalik">
 <!ENTITY save_as_pdf "Salvesta PDFina">
 <!ENTITY print "Prindi">
+<!ENTITY view_page_source "Vaata veebilehe lähtekoodi">
 <!ENTITY find_in_page "Otsi lehelt">
 <!ENTITY desktop_mode "Töölaua versioon">
 <!ENTITY page "Leht">
@@ -483,7 +483,6 @@
 <!ENTITY contextmenu_open_new_tab "Ava uuel kaardil">
 <!ENTITY contextmenu_open_private_tab "Ava privaatsel kaardil">
 <!ENTITY contextmenu_remove "Eemalda">
-<!ENTITY contextmenu_add_to_launcher "Lisa avaekraanile">
 <!ENTITY contextmenu_add_page_shortcut "Lisa otsetee lehele">
 <!ENTITY contextmenu_set_as_homepage "Määra avaleheks">
 <!ENTITY contextmenu_share "Jaga">
@@ -538,7 +537,6 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Leht eemaldatud">
-
 <!ENTITY folder_removed "Kaust eemaldati">
 
 <!ENTITY bookmark_edit_title "Järjehoidja muutmine">
@@ -812,6 +810,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced by the Android OS version (e.g., 14)-->
 <!ENTITY unsupported_sdk_version "Vabandust! See &brandShortName; ei tööta sellel seadmel (&formatS1;, &formatS2;). Palun laadi alla õige versioon.">
 
+<!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
+<!ENTITY corrupt_apk "&brandShortName;i avamine pole võimalik. Palun paigalda ja proovi uuesti.">
+
 <!ENTITY eol_notification_title2 "&brandShortName; ei saa rohkem uuendusi">
 <!ENTITY eol_notification_summary "Rohkema teabe saamiseks puuduta">
 
@@ -819,8 +820,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName;i on uuendatud">
 <!ENTITY whatsnew_notification_summary "Vaata, mis on uut selles versioonis">
-
-<!ENTITY promotion_add_to_homescreen "Lisa avaekraanile">
 
 <!ENTITY promotion_add_page_shortcut "Lisa otsetee lehele">
 
