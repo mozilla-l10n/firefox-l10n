@@ -171,8 +171,8 @@
 <!ENTITY  event.toolbar.attendees.label                   "Ftoni Pjesëmarrës">
 <!ENTITY  event.toolbar.privacy.label                     "Privatësi">
 
-<!ENTITY  event.toolbar.save.tooltip2                     "Ruaje">
-<!ENTITY  event.toolbar.saveandclose.tooltip              "Ruaje dhe Mbylle">
+<!ENTITY  event.toolbar.save.tooltip2                     "Ruajeni">
+<!ENTITY  event.toolbar.saveandclose.tooltip              "Ruajeni dhe Mbylleni">
 <!ENTITY  event.toolbar.delete.tooltip                    "Fshijeni">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Ftoni Pjesëmarrës">
 <!ENTITY  event.toolbar.attachments.tooltip               "Shtoni Bashkëngjitje">
@@ -401,7 +401,7 @@
 <!ENTITY read.only.event.start.label     "Datë Fillimi:">
 <!ENTITY read.only.task.start.label      "Datë Fillimi:">
 <!ENTITY read.only.event.end.label       "Datë Mbarimi:">
-<!ENTITY read.only.task.due.label        "Datë Përfundimi:">
+<!ENTITY read.only.task.due.label        "Datë Afati:">
 <!ENTITY read.only.repeat.label          "Përsëritje:">
 <!ENTITY read.only.location.label        "Vendndodhje:">
 <!ENTITY read.only.category.label        "Kategori:">
