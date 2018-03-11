@@ -215,7 +215,7 @@
 <!ENTITY task.from.accesskey                              "i">
 <!ENTITY event.to.label                                   "Përfundim:" >
 <!ENTITY event.to.accesskey                               "P">
-<!ENTITY task.to.label                                    "Datë Përfundimi:" >
+<!ENTITY task.to.label                                    "Datë Afati:" >
 <!ENTITY task.to.accesskey                                "D">
 <!ENTITY task.status.label                                "Gjendje:" >
 <!ENTITY task.status.accesskey                            "e">

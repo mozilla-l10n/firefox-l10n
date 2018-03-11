@@ -143,7 +143,7 @@
 <!ENTITY calendar.task-details.repeat.label          "përsërite">
 <!ENTITY calendar.task-details.attachments.label     "bashkëngjitje">
 <!ENTITY calendar.task-details.start.label           "datë fillimi">
-<!ENTITY calendar.task-details.due.label             "datë përfundimi">
+<!ENTITY calendar.task-details.due.label             "datë afati">
 
 <!ENTITY calendar.task.category.button.tooltip  "Kategorizoni punët">
 <!ENTITY calendar.task.complete.button.tooltip  "Shënojini punët e përzgjedhura si të plotësuara">
@@ -358,7 +358,7 @@
 <!ENTITY calendar.print.to.label "Deri">
 <!ENTITY calendar.print.settingsGroup.label "Rregullime Shtypjeje">
 <!ENTITY calendar.print.optionsGroup.label "Mundësi">
-<!ENTITY calendar.print.taskswithnoduedate.label "Punë pa datë skadimi">
+<!ENTITY calendar.print.taskswithnoduedate.label "Punë pa datë afati">
 <!ENTITY calendar.print.completedtasks.label "Punë të plotësuara">
 
 <!-- Error reporting -->
