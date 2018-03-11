@@ -981,11 +981,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "M">
 <!ENTITY updateRestart.panelUI.label2 "Uuendamiseks taaskäivita &brandShorterName;">
 
+<!ENTITY newTabControlled.message "Laiendus on muutnud uue kaardi lehte. Sa võid taastada sätted, kui sa ei soovi seda muudatust.">
+<!ENTITY newTabControlled.header.message "Uue kaardi sisu on muutunud.">
+<!ENTITY newTabControlled.keepButton.label "Säilita muudatused">
+<!ENTITY newTabControlled.keepButton.accesskey "S">
+<!ENTITY newTabControlled.restoreButton.label "Taasta sätted">
+<!ENTITY newTabControlled.restoreButton.accesskey "T">
 
 <!ENTITY pageActionButton.tooltip "Lehe toimingud">
 <!ENTITY pageAction.addToUrlbar.label "Lisa aadressiribale">
 <!ENTITY pageAction.removeFromUrlbar.label "Eemalda aadressiribalt">
 <!ENTITY pageAction.allowInUrlbar.label "Kuva aadressiribal">
+<!ENTITY pageAction.disallowInUrlbar.label "Ära kuva aadressiribal">
+<!ENTITY pageAction.manageExtension.label "Halda laiendust…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Saada kaart seadmesse">
 <!ENTITY sendToDevice.syncNotReady.label "Seadmeid sünkroniseeritakse…">
@@ -1001,3 +1009,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
+<!ENTITY addonPostInstallMessage.label "Halda oma laiendusi, klõpsates nupul <image class='addon-addon-icon'/> menüüs <image class='addon-toolbar-icon'/>.">
