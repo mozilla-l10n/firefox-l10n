@@ -97,7 +97,7 @@
 <!ENTITY undeleteMsgsCmd.accesskey "i">
 <!ENTITY deleteFolderCmd.label "Fshije Dosjen">
 <!ENTITY deleteFolderCmd.accesskey "j">
-<!ENTITY unsubscribeNewsgroupCmd.label "Çpajtohuni">
+<!ENTITY unsubscribeNewsgroupCmd.label "Shpajtohuni">
 <!ENTITY unsubscribeNewsgroupCmd.accesskey "h">
 <!ENTITY selectMenu.label "Përzgjidhni">
 <!ENTITY selectMenu.accesskey "ë">
@@ -666,7 +666,7 @@
 <!ENTITY folderContextEmptyJunk.accesskey "P">
 <!ENTITY folderContextSendUnsentMessages.label "Dërgo Mesazhet e Padërguar">
 <!ENTITY folderContextSendUnsentMessages.accesskey "P">
-<!ENTITY folderContextUnsubscribe.label "Çpajtohuni">
+<!ENTITY folderContextUnsubscribe.label "Shpajtohuni">
 <!ENTITY folderContextUnsubscribe.accesskey "Ç">
 <!ENTITY folderContextMarkNewsgroupRead.label "Shënoje Grupin e Lajmeve si Të lexuar">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "L">

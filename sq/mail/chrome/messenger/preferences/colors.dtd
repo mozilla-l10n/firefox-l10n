@@ -21,7 +21,7 @@
 <!ENTITY  useSystemColors.label           "Përdor ngjyra sistemi">
 <!ENTITY  useSystemColors.accesskey       "m">
 
-<!ENTITY  underlineLinks.label            "Nënvijëzoji Lidhjet">
+<!ENTITY  underlineLinks.label            "Nënvijëzoji lidhjet">
 <!ENTITY  underlineLinks.accesskey        "N">
 <!ENTITY  links                           "Ngjyra Lidhjesh">
 <!ENTITY  linkColor.label                 "Lidhje të Pavizituara:">

@@ -9,7 +9,7 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Ndihmë">
 <!ENTITY helpMenuWin.accesskey "N">
-<!ENTITY helpTroubleshootingInfo.label     "Të dhëna diagnostikimi">
+<!ENTITY helpTroubleshootingInfo.label     "Të dhëna Diagnostikimi">
 <!ENTITY helpTroubleshootingInfo.accesskey "T">
 <!ENTITY helpSafeMode.label     "Riniseni me Shtesat të Çaktivizuara…">
 <!ENTITY helpSafeMode.accesskey "R">
