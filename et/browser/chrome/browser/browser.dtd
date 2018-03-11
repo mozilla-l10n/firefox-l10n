@@ -125,6 +125,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "K">
 <!ENTITY toggleReaderMode.key "R">
 
+
 <!ENTITY fxaSignIn.label "Logi &syncBrand.shortName.label;i sisse">
 <!ENTITY fxaSignedIn.tooltip "Ava &syncBrand.shortName.label;i sätted">
 <!ENTITY fxaSignInError.label "Ühenda &syncBrand.shortName.label;iga uuesti">
@@ -221,15 +222,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Halda lehe tõlkimist">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Halda DRM-tarkvara kasutust">
 
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Oled sellel lehel keelanud kaamera kasutamise.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Oled sellel lehel keelanud mikrofoni kasutamise.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Oled sellel lehel keelanud ekraanijagamise.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Oled sellel lehel keelanud asukohateabe kasutamise.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Oled sellel lehel keelanud andmete salvestamise.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Oled sellel lehel teavitused keelanud.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Oled sellel saidil keelanud andmete püsivalt salvestamise.">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "Oled sellel lehel hüpikaknad blokkinud.">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Kuva ajalugu">
 
@@ -295,7 +296,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "U">
 <!ENTITY newPrivateWindow.label     "Uus privaatne aken">
 <!ENTITY newPrivateWindow.accesskey "p">
-<!ENTITY newNonRemoteWindow.label   "Uus e10s'ta aken">
 
 <!ENTITY editMenu.label         "Redigeerimine">
 <!ENTITY editMenu.accesskey       "R">
@@ -350,17 +350,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Näita kogu ajalugu">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Kohanda">
-<!ENTITY appMenuCustomize.tooltip "Kohanda menüüd ja tööriistaribasid">
-<!ENTITY appMenuCustomizeExit.label "Välju kohandamisest">
-<!ENTITY appMenuCustomizeExit.tooltip "Lõpeta kohandamine">
 <!ENTITY appMenuHistory.showAll.label "Kuva kogu ajalugu">
 <!ENTITY appMenuHistory.clearRecent.label "Kustuta hiljutine ajalugu…">
 <!ENTITY appMenuHistory.restoreSession.label "Taasta eelmine seanss">
 <!ENTITY appMenuHistory.viewSidebar.label "Kuva ajaloo külgriba">
 <!ENTITY appMenuHistory.recentHistory.label "Hiljutine ajalugu">
 <!ENTITY appMenuHelp.label "Abi">
-<!ENTITY appMenuHelp.tooltip "Ava abimenüü">
 
 <!ENTITY appMenuRemoteTabs.label "Sünkroniseeritud kaardid">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -380,7 +375,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "Sünkroniseeritud kaarte pole… veel!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Soovid näha teistes seadmetes avatud kaarte?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Synci sätted">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Teistes seadmetes avatud kaartide vaatamiseks logi sisse.">
@@ -432,14 +426,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Laiendus:">
 <!ENTITY urlbar.switchToTab.label     "Lülitu kaardile:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "Kas soovid oma otsinguid soovituste abil paremaks muuta?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Rohkem teavet…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "R">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Ei">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "E">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Jah">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "J">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Nipp:">
@@ -717,8 +703,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Veebilehe baasstiil">
 <!ENTITY pageStylePersistentOnly.accesskey "b">
 
-<!ENTITY pageReportIcon.tooltip            "Muuda selle veebilehe hüpikakende blokkimise sätteid">
-
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -748,6 +732,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Sobib">
 <!ENTITY editBookmark.removeBookmark.accessKey       "E">
+
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Saidi turvalisus">
 
 <!ENTITY identity.connectionSecure "Turvaline ühendus">
 <!ENTITY identity.connectionNotSecure "Ebaturvaline ühendus">
@@ -799,7 +787,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Sünkroniseeritud kaardid">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Logi Firefoxi sisse oma teistest seadmetest, et näha nende kaarte siin.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "Sünkroniseeritud kaarte pole… veel!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Soovid siin näha teistes seadmetes avatud kaarte?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Teistes seadmetes avatud kaartide nimekirja nägemiseks logi sisse.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Avatud kaarte pole">
@@ -843,8 +830,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Sync">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Lohista oma lemmikelemendid tööriistaribale või nurgatagusesse menüüsse.">
-<!ENTITY customizeMode.menuAndToolbars.empty "Soovid rohkem tööriistu?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Vali tuhandete lisade seast">
 <!ENTITY customizeMode.restoreDefaults "Taasta vaikeväärtused">
 <!ENTITY customizeMode.done "Valmis">
 <!ENTITY customizeMode.titlebar "Tiitliriba">
@@ -856,7 +841,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "H">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Hangi rohkem teemasid">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "a">
-<!ENTITY customizeMode.emptyOverflowList.description "Lohista elemente siia, et hoida nad käeulatuses, aga mitte tööriistaribal…">
 <!ENTITY customizeMode.overflowList.title2 "Nurgatagune menüü">
 <!ENTITY customizeMode.overflowList.description "Lohista elemente siia, et hoida nad käeulatuses, aga mitte tööriistaribal…">
 <!ENTITY customizeMode.uidensity "Tihedus">
@@ -977,6 +961,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "M">
 <!ENTITY updateRestart.panelUI.label2 "Uuendamiseks taaskäivita &brandShorterName;">
 
+
 <!ENTITY pageActionButton.tooltip "Lehe toimingud">
 <!ENTITY pageAction.addToUrlbar.label "Lisa aadressiribale">
 <!ENTITY pageAction.removeFromUrlbar.label "Eemalda aadressiribalt">
@@ -991,3 +976,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "Hõlbustus on lubatud">
+
+<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
+     The first <image> tag is replaced with the icon for the add-ons menu.
+     The second <image> tag is replaced with the icon for the toolbar menu. -->
