@@ -369,7 +369,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.recentHistory.label "Historik Së Fundi">
 <!ENTITY appMenuHelp.label "Ndihmë">
 
-<!ENTITY appMenuRemoteTabs.label "Skeda të njëkohësuara">
+<!ENTITY appMenuRemoteTabs.label "Skeda të Njëkohësuara">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "S&apos;ka skeda të hapura">
