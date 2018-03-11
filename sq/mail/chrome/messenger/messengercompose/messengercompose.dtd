@@ -153,7 +153,7 @@
 <!ENTITY showCompositionToolbarCmd.accesskey "H">
 <!ENTITY showFormattingBarCmd.label "Panel Formatimi">
 <!ENTITY showFormattingBarCmd.accesskey "F">
-<!ENTITY showTaskbarCmd.label "Shtyllë Gjendje">
+<!ENTITY showTaskbarCmd.label "Shtyllë Gjendjesh">
 <!ENTITY showTaskbarCmd.accesskey "S">
 <!ENTITY customizeToolbar.label "Përshtateni…">
 <!ENTITY customizeToolbar.accesskey "t">

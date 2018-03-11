@@ -40,7 +40,7 @@
 <!ENTITY viewMenu.accesskey        "S">
 <!ENTITY viewToolbarsMenu.label        "Panele">
 <!ENTITY viewToolbarsMenu.accesskey      "P">
-<!ENTITY showTaskbarCmd.label          "Shtyllë Gjendjeje">
+<!ENTITY showTaskbarCmd.label          "Shtyllë Gjendjesh">
 <!ENTITY showTaskbarCmd.accesskey        "G">
 
 <!ENTITY closeCmd.label      "Mbylleni">
