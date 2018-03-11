@@ -13,7 +13,7 @@
 <!ENTITY SelectMultiple.accesskey "P">
 <!ENTITY SelectDisabled.label "E çaktivizuar">
 <!ENTITY SelectDisabled.accesskey "Ç">
-<!ENTITY SelectTabIndex.label "Tregues Tab:">
+<!ENTITY SelectTabIndex.label "Vlerë Tabulacioni:">
 <!ENTITY SelectTabIndex.accesskey "T">
 
 <!ENTITY OptGroup.label "Grup Mundësish">
