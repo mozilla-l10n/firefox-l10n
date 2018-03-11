@@ -457,7 +457,7 @@
 <!ENTITY tasksMenu.accesskey "N">
 <!ENTITY messengerCmd.label "Pošta a diskusní skupiny">
 <!ENTITY messengerCmd.accesskey "P">
-<!ENTITY addressBookCmd.label "Adresář">
+<!ENTITY addressBookCmd.label "Kontakty">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Doplňky">
@@ -559,7 +559,7 @@
 <!ENTITY junkItem.title "Nevyžádané">
 <!ENTITY junkButton.label "Nevyžádané">
 <!ENTITY notJunkButton.label "Není nevyžádaná">
-<!ENTITY addressBookButton.label "Adresář">
+<!ENTITY addressBookButton.label "Kontakty">
 <!ENTITY chatButton.label "Chat">
 <!ENTITY glodaSearch.title "Globální hledání">
 <!ENTITY searchItem.title "Rychlé hledání">
@@ -597,7 +597,7 @@
 <!ENTITY stopButton.tooltip "Ukončí probíhající spojení">
 <!ENTITY junkButton.tooltip "Označí vybrané zprávy jako nevyžádané">
 <!ENTITY notJunkButton.tooltip "Označí vybrané zprávy jako běžné">
-<!ENTITY addressBookButton.tooltip "Přejde do Adresáře">
+<!ENTITY addressBookButton.tooltip "Přejde do Kontaktů">
 <!ENTITY chatButton.tooltip "Zobrazí panel chatu">
 <!ENTITY tagButton.tooltip "Přidá štítek">
 <!ENTITY compactButton.tooltip "Ze zvolené složky odstraní smazané zprávy">
@@ -968,4 +968,4 @@
 <!-- Mac OS X Dock Icon pop-up menu -->
 <!ENTITY dockOptions.label              "Nastavení ikony aplikace…">
 <!ENTITY writeNewMessageDock.label      "Napsat novou zprávu">
-<!ENTITY openAddressBookDock.label      "Otevřít adresář">
+<!ENTITY openAddressBookDock.label      "Otevřít kontakty">
