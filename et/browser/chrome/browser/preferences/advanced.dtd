@@ -39,6 +39,13 @@ available. -->
 
 <!ENTITY alwaysSubmitCrashReports1.label  "&brandShortName;il lubatakse Mozillale vearaporteid saata">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "v">
+
+<!ENTITY collectBrowserErrors.label          "Luba &brandShortName;il saata Mozillale brauseri vearaporteid (sisaldavad veateateid)">
+<!ENTITY collectBrowserErrors.accesskey      "M">
+<!ENTITY collectBrowserErrorsLearnMore.label "Rohkem teavet">
+
+<!ENTITY sendBackloggedCrashReports.label  "&brandShortName;il lubatakse saatmata vearaporteid saata">
+<!ENTITY sendBackloggedCrashReports.accesskey "s">
 <!ENTITY crashReporterLearnMore.label    "Rohkem teavet">
 
 <!ENTITY networkTab.label                "Võrk">
@@ -51,14 +58,17 @@ available. -->
 
 <!ENTITY httpCache.label                 "Veebisisu vahemälu">
 
-<!ENTITY offlineStorage2.label           "Võrguta režiimi veebisisu ja kasutaja andmed">
-
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Saidi andmed">
 <!ENTITY clearSiteData.label             "Kustuta kõik andmed">
 <!ENTITY clearSiteData.accesskey         "u">
 <!ENTITY siteDataSettings.label          "Sätted…">
 <!ENTITY siteDataSettings.accesskey      "d">
+<!ENTITY siteData1.label                 "Küpsised ja saidi andmed">
+<!ENTITY clearSiteData1.label            "Kustuta andmed…">
+<!ENTITY clearSiteData1.accesskey        "u">
+<!ENTITY siteDataSettings1.label         "Halda andmeid…">
+<!ENTITY siteDataSettings1.accesskey     "H">
 <!ENTITY siteDataLearnMoreLink.label     "Rohkem teavet">
 
 <!-- LOCALIZATION NOTE:
@@ -72,8 +82,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "MiB kettaruumiga">
 <!ENTITY clearCacheNow.label             "Tühjenda">
 <!ENTITY clearCacheNow.accesskey         "T">
-<!ENTITY clearOfflineAppCacheNow.label   "Tühjenda">
-<!ENTITY clearOfflineAppCacheNow.accesskey "h">
 <!ENTITY overrideSmartCacheSize.label    "Keelatakse automaatne vahemälu haldamine">
 <!ENTITY overrideSmartCacheSize.accesskey "K">
 
@@ -110,17 +118,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Otsingumootoreid uuendatakse automaatselt">
 <!ENTITY enableSearchUpdate2.accesskey   "O">
-
-<!ENTITY offlineStorageNotify.label               "Hoiatatakse, kui veebileht soovib salvestada andmeid võrguta režiimis kasutamiseks">
-<!ENTITY offlineStorageNotify.accesskey           "o">
-<!ENTITY offlineStorageNotifyExceptions.label     "Erandid…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "r">
-
-<!ENTITY offlineAppsList3.label          "Järgmistel veebilehtedel on lubatud salvestada andmeid võrguta režiimis kasutamiseks">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Eemalda">
-<!ENTITY offlineAppsListRemove.accesskey "E">
-<!ENTITY offlineAppRemove.confirm        "Eemalda võrguta kasutatavad andmed">
 
 <!ENTITY certificateTab.label            "Sertifikaadid">
 <!ENTITY certPersonal2.description       "Kui server nõuab kasutaja isiklikku sertifikaati, siis">
