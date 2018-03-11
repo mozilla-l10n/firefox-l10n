@@ -104,7 +104,7 @@
 <!ENTITY netReset.title "Lidhja u rivendos">
 <!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
-<!ENTITY netTimeout.title "Lidhjes i përfundoi koha">
+<!ENTITY netTimeout.title "Lidhjes i mbaroi koha">
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "Adresa nuk u kuptua">
