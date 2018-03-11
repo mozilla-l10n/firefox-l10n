@@ -392,7 +392,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Hapni Parapëlqime Sync-u">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Bëni hyrjen që të shihni një listë skedash prej pajisjesh tuajat të tjera.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Llogaria juaj duhet verifikuar.">
-<!ENTITY appMenuRemoteTabs.signin.label "Hyni në Sync">
+<!ENTITY appMenuRemoteTabs.signin.label "Bëni hyrjen, që të Njëkohësohet">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Administroni Pajisje…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Shihni Anështyllën e Skedave të Njëkohësuara">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Lidhni Një Tjetër Pajisje">
@@ -804,7 +804,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.label              "Skeda të Njëkohësuara">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Bëni hyrjen te llogaritë tuaja Firefox prej pajisjeve tuaja të tjera që të shihni këtu skedat e tyre.">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Doni të shihni këtu skedat tuaja prej pajisjesh të tjera?">
-<!ENTITY syncedTabs.sidebar.notsignedin.label  "Bëni hyrjen që të shihni një listë skedash nga pajisjet tuaja të tjera.">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "Bëni hyrjen që të shihni një listë skedash prej pajisjesh tuajat të tjera.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "Llogaria juaj duhet verifikuar.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "S&apos;ka skeda të hapura">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Hapni Parapëlqimet për &syncBrand.shortName.label;-un">
