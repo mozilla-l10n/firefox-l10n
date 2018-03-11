@@ -61,7 +61,7 @@
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName;-i është i përditësuar">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "Përditësimet janë të çaktivizuara nga përgjegjësit e sistemit tuaj">
+<!ENTITY update.adminDisabled       "Përditësimet janë çaktivizuar nga përgjegjësi i sistemit tuaj">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName;-i po përditësohet nga një instancë tjetër">
 

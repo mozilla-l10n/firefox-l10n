@@ -41,7 +41,7 @@ sentence. -->
 <!ENTITY  play.accesskey                      "L">
 <!ENTITY  systemSound.label                   "Tingull parazgjedhje sistemi për postë të re">
 <!ENTITY  systemSound.accesskey               "P">
-<!ENTITY  customsound.label                   "Përdor kartelën vijuese për tingull">
+<!ENTITY  customsound.label                   "Përdor kartelën zanore vijuese">
 <!ENTITY  customsound.accesskey               "P">
 <!ENTITY  browse.label                        "Shfletoni…">
 <!ENTITY  browse.accesskey                    "S">
