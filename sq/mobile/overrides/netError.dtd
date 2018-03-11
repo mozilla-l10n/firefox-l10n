@@ -10,7 +10,7 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Nuk arrin të lidhet">
+<!ENTITY connectionFailure.title "S&apos;arrin të lidhet">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "Kjo adresë është e ndaluar">
@@ -94,7 +94,7 @@
 </ul>
 ">
 
-<!ENTITY unsafeContentType.title "Lloj Jo i Parrezik Kartelash">
+<!ENTITY unsafeContentType.title "Lloj Kartele Jo i Parrezik">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
   <li>Ju lutemi, lidhuni me të zotët e sajtit për t&apos;u bërë të ditur këtë problem.</li>
@@ -122,7 +122,7 @@
 </ul>
 ">
 
-<!ENTITY proxyResolveFailure.title "Nuk arrin të gjejë shërbyesin ndërmjetës">
+<!ENTITY proxyResolveFailure.title "Nuk arrihet të gjendet shërbyesi ndërmjetës">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "

@@ -271,7 +271,7 @@
 <!ENTITY pref_show_web_fonts "Shfaqni shkronja web">
 <!ENTITY pref_show_web_fonts_summary2 "Shkarko shkronja të largëta kur ngarkohet një faqe">
 
-<!ENTITY pref_tracking_protection_title2 "Mbrojtje Nga Gjurmimi">
+<!ENTITY pref_tracking_protection_title2 "Mbrojtje Nga Gjurmimet">
 <!ENTITY pref_donottrack_title "Mos më gjurmo">
 <!ENTITY pref_donottrack_summary "&brandShortName;-i do t’u thotë sajteve se nuk doni të gjurmoheni">
 
@@ -573,7 +573,7 @@
 <!ENTITY button_clear "Pastroje">
 <!ENTITY button_copy "Kopjoje">
 
-<!ENTITY home_top_sites_title "Sajtet Kryesues">
+<!ENTITY home_top_sites_title "Sajte Kryesues">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Shtoni një sajt">
