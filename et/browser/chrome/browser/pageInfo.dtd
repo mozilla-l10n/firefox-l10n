@@ -55,12 +55,10 @@
 <!ENTITY  permAskAlways         "Alati küsitakse">
 <!ENTITY  permAllow             "Lubatud">
 <!ENTITY  permAllowSession      "Lubatud selleks seansiks">
+<!ENTITY  permHide              "Peida">
 <!ENTITY  permBlock             "Keelatud">
 <!ENTITY  permissionsFor        "Õigused veebilehele:">
 <!ENTITY  permPlugins           "Pluginate aktiveerimine">
-
-<!ENTITY  permClearStorage           "Kustuta andmed">
-<!ENTITY  permClearStorage.accesskey "K">
 
 <!ENTITY  securityTab           "Turvalisus">
 <!ENTITY  securityTab.accesskey "r">
