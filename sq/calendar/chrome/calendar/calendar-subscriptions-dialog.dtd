@@ -9,6 +9,6 @@
 <!ENTITY calendar.subscriptions.dialog.search.button.label              "Kërko">
 <!ENTITY calendar.subscriptions.dialog.select.label.value               "Përzgjidhni kalendarë te të cilët të pajtoheni:">
 <!ENTITY calendar.subscriptions.dialog.subscribe.button.label           "Pajtomë">
-<!ENTITY calendar.subscriptions.dialog.unsubscribe.button.label         "Çpajtomë">
+<!ENTITY calendar.subscriptions.dialog.unsubscribe.button.label         "Shpajtomë">
 <!ENTITY calendar.subscriptions.dialog.statusmessage.busy.label         "Kërkim…">
 <!ENTITY calendar.subscriptions.dialog.statusmessage.nomatches.label    "Nuk u gjetën përputhje.">
