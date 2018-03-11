@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutNetworking.title                 "Rreth Punimit të Rrjetit">
-<!ENTITY aboutNetworking.warning               "Kjo është shumë eksperimentale. Mos e përdorni pa mbikëqyrej nga të rriturit.">
+<!ENTITY aboutNetworking.title                 "Rreth Punimit në Rrjet">
+<!ENTITY aboutNetworking.warning               "Kjo është tejet eksperimentale. Mos e përdorni pa mbikëqyrje nga të rriturit.">
 <!ENTITY aboutNetworking.showNextTime          "Shfaqe këtë sinjalizim herës tjetër">
 <!ENTITY aboutNetworking.ok                    "OK">
 <!ENTITY aboutNetworking.HTTP                  "HTTP">
@@ -50,4 +50,4 @@
 <!ENTITY aboutNetworking.rcwnPerfWrite         "Shkrim">
 <!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Mesatare e Shkurtër">
 <!ENTITY aboutNetworking.rcwnAvgShort          "Mesatare e Shkurtër">
-<!ENTITY aboutNetworking.rcwnAvgLong           "Mesatare e Gjarë">
+<!ENTITY aboutNetworking.rcwnAvgLong           "Mesatare e Gjerë">

@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
-<!ENTITY aboutUrlClassifier.pageTitle                   "Të dhëna rreth url-classifier">
 <!ENTITY aboutUrlClassifier.title                       "Të dhëna Klasifikuesi URL-je">
 <!ENTITY aboutUrlClassifier.providerTitle               "Furnizues">
 <!ENTITY aboutUrlClassifier.provider                    "Furnizues">
@@ -25,7 +24,7 @@
 <!ENTITY aboutUrlClassifier.cacheFullhash               "Hash i plotë">
 <!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Skadim fshehtine pozitive">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Diagnostikim">
-<!ENTITY aboutUrlClassifier.debugModuleBtn              "Rregulloni Module Regjistrimi">
+<!ENTITY aboutUrlClassifier.debugModuleBtn              "Caktoni Module Regjistrimi">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Caktoni Kartelë Regjistër">
 <!ENTITY aboutUrlClassifier.debugJSLogChk               "Rregulloni Regjistër JS">
 <!ENTITY aboutUrlClassifier.debugSBModules              "Module regjistrash Shfletimi të Parrezik">
