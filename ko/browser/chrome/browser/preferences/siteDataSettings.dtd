@@ -4,7 +4,7 @@
 
 <!ENTITY     window.title                  "설정 - 사이트 데이타">
 
-<!ENTITY     window1.title                 "설정 - 쿠키와 사이트 데이타">
+<!ENTITY     window2.title                 "쿠키와 사이트 데이타 관리">
 <!ENTITY     hostCol.label                 "사이트">
 <!ENTITY     statusCol.label               "상태">
 <!ENTITY     cookiesCol.label              "쿠키">

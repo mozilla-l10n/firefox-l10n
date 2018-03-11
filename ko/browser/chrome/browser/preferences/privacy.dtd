@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "추적 방지">
-<!ENTITY  trackingProtection2.description      "추적이란 여러 웹사이트에 거쳐 사용자의 브라우징 데이터를 수집하는 것을 말합니다. 추적은 사용자의 브라우징 데이터와 개인정보를 이용해 사용자를 프로파일링하고 이를 기반으로 콘텐츠를 표시하는데 사용됩니다.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "추적 방지를 사용해서 알려진 추적 기관 차단">
 <!ENTITY  trackingProtection3.description      "추적 방지 기능은 여러 웹사이트에 걸처 사용자의 탐색 데이터를 수집하는 추적자를 차단합니다.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "알려진 추적자를 차단하는 추적 방지 기능 사용">
 <!ENTITY  trackingProtectionAlways.label       "항상 사용하기">
@@ -13,7 +11,6 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "y">
 <!ENTITY  trackingProtectionNever.label        "항상 사용하지 않기">
 <!ENTITY  trackingProtectionNever.accesskey    "n">
-<!ENTITY  trackingProtectionLearnMore.label    "더 알아보기">
 <!ENTITY  trackingProtectionLearnMore2.label    "추적 방지와 개인정보 보호 살펴보기">
 <!ENTITY  trackingProtectionExceptions.label   "예외…">
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
@@ -24,11 +21,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "자세히 보기">
 <!ENTITY changeBlockList2.label               "차단 목록 변경…">
 <!ENTITY changeBlockList2.accesskey           "C">
-
-<!ENTITY  doNotTrack.description        "웹사이트에 “방문자 추적 금지” 신호를 보내서 추적을 원하지 않는다고 알림">
-<!ENTITY  doNotTrack.learnMore.label    "더 알아보기">
-<!ENTITY  doNotTrack.default.label      "추적 방지 기능을 사용할 때만">
-<!ENTITY  doNotTrack.always.label       "항상">
 
 <!ENTITY  history.label                 "방문 기록">
 <!ENTITY  permissions.label             "권한">
@@ -52,8 +44,8 @@
 <!ENTITY  acceptThirdParty2.pre.label     "제3자 쿠키 허용">
 <!ENTITY  acceptThirdParty2.pre.accesskey "y">
 
-<!ENTITY  acceptCookies3.label          "웹사이트의 쿠키와 사이트 데이타 허용">
-<!ENTITY  acceptCookies3.accesskey      "A">
+<!ENTITY  acceptCookies4.label          "웹사이트의 쿠키와 사이트 데이타 허용(권장)">
+<!ENTITY  acceptCookies4.accesskey      "A">
 
 <!ENTITY  blockCookies.label            "쿠키와 사이트 데이타 차단(웹사이트가 깨질 수 있음)">
 <!ENTITY  blockCookies.accesskey        "B">
@@ -93,6 +85,8 @@
 <!ENTITY  rememberActions.middle.label        " 또는 ">
 <!ENTITY  rememberActions.removeCookies.label "쿠키 삭제">
 <!ENTITY  rememberActions.post.label          ".">
+
+<!ENTITY  rememberDescription1.label      "&brandShortName;가 탐색과 다운로드, 서식, 검색 히스토리를 저장합니다.">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName;는 사생활 보호 모드와 같은 설정을 가지며 웹 사이트 방문 중 어떤 기록도 저장하지 않습니다.">
 
