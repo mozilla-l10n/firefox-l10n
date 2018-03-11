@@ -60,8 +60,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_textReset.accesskey "N">
 
 <!ENTITY findOnCmd.label     "Bu sayfada bul…">
+<!ENTITY findOnCmd.accesskey "B">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label  "Sonrakini bul">
+<!ENTITY findAgainCmd.accesskey "o">
+<!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findSelectionCmd.commandkey "e">
 
+<!ENTITY backCmd.label "Geri">
+<!ENTITY backCmd.accesskey "G">
+<!ENTITY forwardCmd.label "İleri">
+<!ENTITY forwardCmd.accesskey "e">
 
 <!ENTITY copyLinkCmd.label "Bağlantı konumunu kopyala">
 <!ENTITY copyLinkCmd.accesskey "B">
