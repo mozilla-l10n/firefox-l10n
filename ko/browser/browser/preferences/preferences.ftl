@@ -60,7 +60,7 @@ startup-header = 시작 페이지
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = { -brand-short-name }과 Firefox 같이 돌리기
-use-firefox-sync = 귀띔: 이렇게 하면 프로필을 따로 쓰게 됩니다. 동기화를 써서 데이터를 공유하십시오.
+use-firefox-sync = 팁: 이렇게 하면 프로필을 따로 쓰게 됩니다. { -sync-brand-short-name }를 써서 데이터를 공유하십시오.
 get-started-not-logged-in = { -sync-brand-short-name }에 로그인…
 get-started-configured = { -sync-brand-short-name } 설정 열기
 always-check-default =
