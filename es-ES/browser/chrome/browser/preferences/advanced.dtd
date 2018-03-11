@@ -45,6 +45,7 @@ available. -->
 <!ENTITY collectBrowserErrorsLearnMore.label "Saber más">
 
 <!ENTITY sendBackloggedCrashReports.label  "Permitir que &brandShortName; envíe los informes de fallos pendientes en su nombre">
+<!ENTITY sendBackloggedCrashReports.accesskey "r">
 <!ENTITY crashReporterLearnMore.label    "Saber más">
 
 <!ENTITY networkTab.label                "Red">
@@ -61,11 +62,13 @@ available. -->
 <!ENTITY siteData.label                  "Datos del sitio">
 <!ENTITY clearSiteData.label             "Limpiar todos los datos">
 <!ENTITY clearSiteData.accesskey         "a">
-<!ENTITY siteData1.label                 "Cookies y datos del sitio">
-<!ENTITY clearSiteData1.label            "Limpiar datos…">
 <!ENTITY siteDataSettings.label          "Configuración…">
 <!ENTITY siteDataSettings.accesskey      "f">
+<!ENTITY siteData1.label                 "Cookies y datos del sitio">
+<!ENTITY clearSiteData1.label            "Limpiar datos…">
+<!ENTITY clearSiteData1.accesskey        "L">
 <!ENTITY siteDataSettings1.label         "Administrar datos…">
+<!ENTITY siteDataSettings1.accesskey     "M">
 <!ENTITY siteDataLearnMoreLink.label     "Saber más">
 
 <!-- LOCALIZATION NOTE:
