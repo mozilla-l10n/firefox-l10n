@@ -4,7 +4,7 @@
 
 <!ENTITY     window.title                  "Arventennoù - Roadennoù lec'hienn">
 
-<!ENTITY     window1.title                 "Arventennoù - Toupinoù ha roadennoù">
+<!ENTITY     window2.title                 "Merañ an toupinoù hag ar roadennoù lec'hienn">
 <!ENTITY     hostCol.label                 "Lec'hienn">
 <!ENTITY     statusCol.label               "Stad">
 <!ENTITY     cookiesCol.label              "Toupinoù">

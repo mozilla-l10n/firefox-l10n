@@ -53,8 +53,6 @@ available. -->
 <!ENTITY networkProxy.label              "Proksi ar rouedad">
 
 <!ENTITY connectionDesc.label            "Kefluniañ penaos en em gennask &brandShortName; ouzh an Internet">
-
-<!ENTITY connectionSettingsLearnMore.label "Gouzout hiroc'h">
 <!ENTITY connectionSettings.label        "Arventennoù…">
 <!ENTITY connectionSettings.accesskey    "e">
 
@@ -64,11 +62,13 @@ available. -->
 <!ENTITY siteData.label                  "Roadennoù al lec'hienn">
 <!ENTITY clearSiteData.label             "Skarzhañ an holl roadennoù">
 <!ENTITY clearSiteData.accesskey         "S">
+<!ENTITY siteDataSettings.label          "Arventennoù…">
+<!ENTITY siteDataSettings.accesskey      "e">
 <!ENTITY siteData1.label                 "Toupinoù ha roadennoù lec'hienn">
 <!ENTITY clearSiteData1.label            "Skarzhañ ar roadennoù…">
 <!ENTITY clearSiteData1.accesskey        "S">
-<!ENTITY siteDataSettings.label          "Arventennoù…">
-<!ENTITY siteDataSettings.accesskey      "e">
+<!ENTITY siteDataSettings1.label         "Merañ ar roadennoù…">
+<!ENTITY siteDataSettings1.accesskey     "M">
 <!ENTITY siteDataLearnMoreLink.label     "Gouzout hiroc'h">
 
 <!-- LOCALIZATION NOTE:

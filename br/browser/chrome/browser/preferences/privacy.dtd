@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Gwarez heuliañ">
-<!ENTITY  trackingProtection2.description      "An heuliañ a zo dastumadeg ho roadennoù merdeiñ e-touez meur a lec'hienn. An heuliañ a c'hall bezañ implijet evit sevel un aelad ha skrammañ endalc'hadoù diazezet war ho merdeiñ hag ho titouroù personel.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "Arverañ ar gwarez heuliañ evit stankañ heulierien anavezet">
 <!ENTITY  trackingProtection3.description      "Ar gwarez heuliañ a stank an heulierien enlinenn a zastum ho roadennoù merdeiñ war meur a lec'hienn.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "Arverañ ar gwarez heuliañ evit stankañ heulierien anavezet">
 <!ENTITY  trackingProtectionAlways.label       "Atav">
@@ -13,7 +11,6 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "p">
 <!ENTITY  trackingProtectionNever.label        "Morse">
 <!ENTITY  trackingProtectionNever.accesskey    "M">
-<!ENTITY  trackingProtectionLearnMore.label    "Gouzout hiroc'h">
 <!ENTITY  trackingProtectionLearnMore2.label    "Gouzout hiroc'h a-zivout ar gwarez heuliañ hag ho puhez prevez">
 <!ENTITY  trackingProtectionExceptions.label   "Nemedennoù…">
 <!ENTITY  trackingProtectionExceptions.accesskey "N">
@@ -24,11 +21,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "Gouzout hiroc'h">
 <!ENTITY changeBlockList2.label               "Kemmañ ar roll stankañ…">
 <!ENTITY changeBlockList2.accesskey           "K">
-
-<!ENTITY  doNotTrack.description        "Kas un arhent “Do Not Track” (na heulian) d'al lec'hiennoù evit kemenn dezho ne fell ket deoc'h bezañ heuliet">
-<!ENTITY  doNotTrack.learnMore.label    "Gouzout hiroc'h">
-<!ENTITY  doNotTrack.default.label      "Pa ran gant ar gwarez heuliañ hepken">
-<!ENTITY  doNotTrack.always.label       "Atav">
 
 <!ENTITY  history.label                 "Roll istor">
 <!ENTITY  permissions.label             "Aotreoù">
@@ -52,8 +44,8 @@
 <!ENTITY  acceptThirdParty2.pre.label     "Degemer toupinoù un trede">
 <!ENTITY  acceptThirdParty2.pre.accesskey "t">
 
-<!ENTITY  acceptCookies3.label          "Asantiñ an toupinoù hag ar roadennoù lec'hienn eus al lec'hiennoù web">
-<!ENTITY  acceptCookies3.accesskey      "A">
+<!ENTITY  acceptCookies4.label          "Asantiñ an toupinoù hag ar roadennoù lec'hienn eus al lec'hiennoù web (erbedet)">
+<!ENTITY  acceptCookies4.accesskey      "A">
 
 <!ENTITY  blockCookies.label            "Stankañ an toupinoù hag ar roadennoù lec'hienn (gallout a ra terriñ lec'hiennoù 'zo)">
 <!ENTITY  blockCookies.accesskey        "S">
@@ -93,6 +85,8 @@
 <!ENTITY  rememberActions.middle.label        ", pe ">
 <!ENTITY  rememberActions.removeCookies.label "dilemel un toupin">
 <!ENTITY  rememberActions.post.label          ".">
+
+<!ENTITY  rememberDescription1.label      "&brandShortName; a zalc'ho soñj eus ho roll istor, ho pellgargadennoù, ho furmskridoù hag ho klaskoù.">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; a implijo ar memes arventennoù hag ar merdeiñ prevez, ha ne zalc'ho ket soñj ar roll istor.">
 
