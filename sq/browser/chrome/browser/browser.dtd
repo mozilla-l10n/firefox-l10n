@@ -15,7 +15,7 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Shfletim Privat)">
 
-<!ENTITY appmenu.tooltip                     "Hape menunë">
+<!ENTITY appmenu.tooltip                     "Hapeni menunë">
 <!ENTITY navbarOverflow.label                "Më tepër mjete…">
 
 <!-- Tab context menu -->
@@ -219,19 +219,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Hapni panelin e mesazhit Ruaje fjalëkalimin">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Administroni përdorim shtojcash">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Ndryshoni zgjedhjen për nëse mund të merrni njoftime prej sajtit apo jo">
-<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Depozito të dhëna në Depozitë të Qëndrueshme">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Depozitoni të dhëna në Depozitë të Qëndrueshme">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Fshihe Anështyllën e Faqerojtësve">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Administroni ndarjen me sajtin të kamerës dhe/ose mikrofonit tuaj">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Administroni ndarjen me sajtin të mikrofonit tuaj">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Administroni ndarjen me sajtin të dritares ose ekranit tuaj">
 
-<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Hap panelin e mesazheve të instalimit">
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Hapni panelin e mesazheve të instalimit">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Përkthejeni këtë faqe">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Administroni përkthim faqeje">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Administroni përdorim software-i DRM">
 
-<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Hap panel MIDI">
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Hapni panel MIDI">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "E keni bllokuar kamerën tuaj për këtë sajt.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "E keni bllokuar kamerën tuaj për këtë sajt.">
@@ -244,7 +244,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.midiBlocked.tooltip              "E keni bllokuar hyrjen MIDI për këtë sajt.">
 
-<!ENTITY urlbar.openHistoryPopup.tooltip                "Shfaq historikun">
+<!ENTITY urlbar.openHistoryPopup.tooltip                "Shfaqni historikun">
 
 <!ENTITY searchItem.title             "Kërkoni">
 
@@ -375,12 +375,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notabs.label "S&apos;ka skeda të hapura">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
-<!ENTITY appMenuRemoteTabs.showMore.label "Shfaq Më Tepër">
+<!ENTITY appMenuRemoteTabs.showMore.label "Shfaqni Më Tepër">
 <!ENTITY appMenuRemoteTabs.showMore.tooltip "Shfaq më tepër skeda nga kjo pajisje">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
-<!ENTITY appMenuRemoteTabs.showAll.label "Shfaqi Krejt">
-<!ENTITY appMenuRemoteTabs.showAll.tooltip "Shfaq krejt skedat nga kjo pajisje">
+<!ENTITY appMenuRemoteTabs.showAll.label "Shfaqini Krejt">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "Shfaqni krejt skedat nga kjo pajisje">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Aktivizoni njëkohësim skedash që të shihni një listë skedash prej pajisjesh tuajat të tjera.">
