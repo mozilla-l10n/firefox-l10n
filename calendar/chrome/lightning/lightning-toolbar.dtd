@@ -7,7 +7,6 @@
 <!ENTITY lightning.toolbar.task.name "Opgavelinje">
 <!ENTITY lightning.toolbar.task.name.accesskey "O">
 
-
 <!ENTITY lightning.toolbar.sync.label "Synkroniser">
 <!ENTITY lightning.toolbar.sync.tooltip "Genindlæs kalendere og synkroniser ændringer">
 <!ENTITY lightning.toolbar.delete.label "Slet">
@@ -24,13 +23,13 @@
 <!ENTITY lightning.toolbar.calendar.tooltip   "Skift til fanebladet Kalender">
 <!ENTITY lightning.toolbar.calendar.accesskey "K">
 <!ENTITY lightning.toolbar.task.label         "Opgaver">
-<!ENTITY lightning.toolbar.task.tooltip       "Skift til fanebladet Opgave">
+<!ENTITY lightning.toolbar.task.tooltip       "Skift til fanebladet Opgaver">
 <!ENTITY lightning.toolbar.task.accesskey     "O">
 
 <!-- Toolbar write button -->
-<!ENTITY lightning.toolbar.newevent.label "Begivenhed">
+<!ENTITY lightning.toolbar.newevent.label     "Begivenhed">
 <!ENTITY lightning.toolbar.newevent.tooltip   "Opret en ny begivenhed">
-<!ENTITY lightning.toolbar.newtask.label "Opgave">
+<!ENTITY lightning.toolbar.newtask.label      "Opgave">
 <!ENTITY lightning.toolbar.newtask.tooltip    "Opret en ny opgave">
 
 <!-- Calendar and Task Mode Toolbar -->
@@ -42,9 +41,10 @@
 <!ENTITY lightning.toolbar.multiweek.accesskey       "l">
 <!ENTITY lightning.toolbar.month.label               "Måned">
 <!ENTITY lightning.toolbar.month.accesskey           "M">
-
+<!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton1.tooltip
+     from messenger.dtd -->
 <!ENTITY lightning.toolbar.appmenuButton.label       "Programmenu">
-<!ENTITY lightning.toolbar.appmenuButton1.tooltip     "Vis &brandShortName;-menuen">
+<!ENTITY lightning.toolbar.appmenuButton1.tooltip    "Vis &brandShortName;-menuen">
 <!ENTITY lightning.toolbar.calendarmenu.label        "Fanebladet Kalender">
 <!ENTITY lightning.toolbar.calendarmenu.accesskey    "K">
 <!ENTITY lightning.toolbar.calendarpane.label        "Vis fanebladet Kalender">
