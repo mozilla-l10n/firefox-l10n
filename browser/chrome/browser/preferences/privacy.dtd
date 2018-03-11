@@ -65,7 +65,7 @@
 <!ENTITY  cookieExceptions.label        "Përjashtime…">
 <!ENTITY  cookieExceptions.accesskey    "P">
 
-<!ENTITY  showCookies.label             "Shfaqni Cookie…">
+<!ENTITY  showCookies.label             "Shfaqni Cookie-t…">
 <!ENTITY  showCookies.accesskey         "C">
 
 <!ENTITY  historyHeader2.pre.label         "&brandShortName;-i">
