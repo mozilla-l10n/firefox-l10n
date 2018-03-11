@@ -10,7 +10,7 @@
 <!ENTITY replyToField4.label "Përgjigjuni te ">
 
 <!ENTITY subjectField4.label "Subjekt ">
-<!ENTITY ccField4.label "Cc ">
+<!ENTITY ccField4.label "Cc">
 <!ENTITY bccField4.label "Bcc ">
 <!ENTITY newsgroupsField4.label "Grupe lajmesh ">
 <!ENTITY followupToField4.label "Vazhdojeni te ">
