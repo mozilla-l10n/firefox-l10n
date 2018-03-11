@@ -172,7 +172,7 @@
 <!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.key2 "VK_F7">
 <!ENTITY checkSpellingCmd2.accesskey "K">
-<!ENTITY enableInlineSpellChecker.label "Kontrollo Drejtshkrimin Në Shkrim e Sipër">
+<!ENTITY enableInlineSpellChecker.label "Kontroll Drejtshkrimi Teksa Shkruani">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY quoteCmd.label "Citoje Mesazhin">
 <!ENTITY quoteCmd.accesskey "C">
