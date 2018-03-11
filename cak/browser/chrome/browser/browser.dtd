@@ -747,7 +747,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Ruya'ik taq soltzij…">
 <!ENTITY spellAddDictionaries.accesskey "R">
 
-<!ENTITY editBookmark.done.label                     "K'isoj">
+<!ENTITY editBookmark.done.label                     "Xk'achoj">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
@@ -850,7 +850,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Ke'aqirirej ri jeb'ël taq awachinaq pa ri kikajtz'ik samajib'äl o chi rij ri k'utsamaj.">
 <!ENTITY customizeMode.restoreDefaults "Ke'atzolij ri taq wachinel e k'o wi">
-<!ENTITY customizeMode.done "K'isoj">
+<!ENTITY customizeMode.done "Xk'achoj">
 <!ENTITY customizeMode.titlebar "Rub'i' molsamaj">
 <!ENTITY customizeMode.extraDragSpace "Tiqirirëx Kojol">
 <!ENTITY customizeMode.toolbars2 "Taq cholsamajib'äl">
