@@ -30,7 +30,7 @@
 <!ENTITY certmgr.certdetail.cn                "Emër i Rëndomtë (ER)">
 <!ENTITY certmgr.certdetail.o                 "Organizëm (O)">
 <!ENTITY certmgr.certdetail.ou                "Njësi Organizative (OU)">
-<!ENTITY certmgr.certdetail.serialnumber      "Numër Serie">
+<!ENTITY certmgr.certdetail.serialnumber      "Numër Serial">
 <!ENTITY certmgr.certdetail.sha256fingerprint "Shenja gishtash SHA-256">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "Shenja gishtash SHA1">
 
@@ -48,7 +48,7 @@
 <!ENTITY certmgr.begins                       "Fillon Më">
 <!ENTITY certmgr.expires                      "Skadon Më">
 <!ENTITY certmgr.email                        "Adresë Email">
-<!ENTITY certmgr.serial                       "Numër Serie">
+<!ENTITY certmgr.serial                       "Numër Serial">
 
 <!ENTITY certmgr.close.label                  "Mbylleni">
 <!ENTITY certmgr.close.accesskey              "M">

@@ -42,7 +42,7 @@
      -->
 <!ENTITY downloadsSummary.minWidth2       "25ch">
 
-<!ENTITY cmd.pause.label                  "Pushoje">
+<!ENTITY cmd.pause.label                  "Ndale">
 <!ENTITY cmd.pause.accesskey              "P">
 <!ENTITY cmd.resume.label                 "Rimerre">
 <!ENTITY cmd.resume.accesskey             "R">

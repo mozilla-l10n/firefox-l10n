@@ -158,7 +158,7 @@
 <!ENTITY rating2.label                        "Vlerësim">
 
 <!-- download/install progress -->
-<!ENTITY progress.pause.tooltip               "Pushim">
+<!ENTITY progress.pause.tooltip               "Ndalesë">
 <!ENTITY progress.cancel.tooltip              "Anulim">
 
 
