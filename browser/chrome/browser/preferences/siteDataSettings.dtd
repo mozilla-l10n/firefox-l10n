@@ -3,9 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Sätted - saidi andmed">
+
 <!ENTITY     hostCol.label                 "Sait">
 <!ENTITY     statusCol.label               "Olek">
+<!ENTITY     cookiesCol.label              "Küpsised">
 <!ENTITY     usageCol.label                "Kasutus">
+<!ENTITY     lastAccessedCol.label                "Viimati kasutatud">
 <!ENTITY     searchTextboxPlaceHolder             "Otsi saite">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "O">
 <!ENTITY     removeSelected.label          "Kustuta valitud">
