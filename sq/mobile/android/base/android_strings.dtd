@@ -391,7 +391,7 @@
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "Jepni përshtypjet">
 
-<!ENTITY pref_dialog_set_default "Caktoje si parazgjedhje">
+<!ENTITY pref_dialog_set_default "Vëre si parazgjedhje">
 <!ENTITY pref_dialog_default "Parazgjedhje">
 <!ENTITY pref_dialog_remove "Hiqe">
 <!ENTITY pref_dialog_activitystream_header_content "Lëndë shtesë">
