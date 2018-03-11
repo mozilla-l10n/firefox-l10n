@@ -81,7 +81,7 @@
 <!ENTITY bookmark_updated "Blêdwizer bywurke">
 <!ENTITY bookmark_options "Opsjes">
 <!ENTITY bookmark_save "Bewarje">
-<!ENTITY screenshot_added_to_bookmarks "Schermafbeelding aan bladwijzers toegevoegd">
+<!ENTITY screenshot_added_to_bookmarks "Skermôfbylding oan blêdwizers tafoege">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
@@ -422,7 +422,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName;-steatrapport">
 <!ENTITY datareporting_fhr_summary2 "Dielt gegevens mei &vendorShortName; oer jo browsersteat en helpt jo jo browserprestaasjes te begripen">
-<!ENTITY datareporting_abouthr_title "Myn steatrapport besjen">
 <!ENTITY datareporting_telemetry_title "Telemetry">
 <!ENTITY datareporting_telemetry_summary "Dielt gegevens oer prestaasjes, hardware, gebrûk en oanpassingen fan jo browser mei &vendorShortName; om &brandShortName; te helpen ferbetterjen">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; ferstjoert ûngelokrapporten om &vendorShortName; te helpen jo browser stabiler en feiliger te meitsjen">
