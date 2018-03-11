@@ -21,6 +21,10 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
+policies-notice = { PLATFORM() ->
+        [windows] Diweredekaet eo bet ho parregezh da gemmañ dibarzhioù 'zo. 
+       *[other] Diweredekaet eo bet ho parregezh da gemmañ gwellvezioù 'zo. 
+    }
 pane-general-title = Hollek
 category-general =
     .tooltiptext = { pane-general-title }
@@ -46,6 +50,7 @@ feature-enable-requires-restart = Ret eo adloc'hañ { -brand-short-name } evit g
 feature-disable-requires-restart = Ret eo adloc'hañ { -brand-short-name } evit diweredekaat ar c'heweriuster-mañ.
 should-restart-title = Adloc'hañ { -brand-short-name }
 should-restart-ok = Adloc'hañ { -brand-short-name } diouzhtu
+cancel-no-restart-button = Nullañ
 restart-later = Adloc'hañ diwezhatoc'h
 
 ## General Section

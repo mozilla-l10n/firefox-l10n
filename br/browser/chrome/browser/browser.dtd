@@ -240,9 +240,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Stanket ho peus ar rebuzadurioù evit al lec'hienn-mañ.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Stanket ho peus ar c'hadaviñ diastal evit al lec'hienn-mañ.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Stanket hoc'h eus an diflugelloù evit al lec'hienn-mañ.">
-
 <!ENTITY urlbar.canvasBlocked.tooltip            "Stanket ho peus eztennadur ar roadennoù ar steuenn.">
 
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "Difennet ho peus al lec'hienn-mañ da arverañ an enlugellad Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Stanket ho peus an haeziñ MIDI evit al lec'hienn-mañ.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Diskouez ar roll istor">
@@ -388,7 +388,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "Sinedoù goubredet ebet... Evit ar mare!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Fellout a ra deoc'h gwelout ivinelloù ho trevnadoù all amañ?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Gwellvezioù goubredañ">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Digeriñ gwellvezioù Sync">
@@ -397,7 +396,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Kennaskañ ouzh Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Ardeiñ an trevnadoù…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Gwelout barrenn-gostez an ivinelloù goubredet ">
-
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Kennaskañ un trevnad all">
 
 <!ENTITY appMenuRecentHighlights.label "Usskedoù nevez">
@@ -806,7 +804,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Ivinelloù goubredet">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Kennaskit da Firefox gant trevnadoù all evit gwelout o ivinelloù aze.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "Sinedoù goubredet ebet... Evit ar mare!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Fellout a ra deoc'h gwelout ivinelloù ho trevnadoù all amañ?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Kennaskit da welet ur roll ivinelloù eus ho trevnadoù all">
 <!ENTITY syncedTabs.sidebar.unverified.label   "Ret eo gwiriekaat ho kont.">
@@ -816,7 +813,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Gweredekait goubredañ an ivinelloù evit gwelout ur roll ivinelloù eus ho trevnadoù all.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Klask en ivinelloù goubredet">
-
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Kennaskañ un trevnad all">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
