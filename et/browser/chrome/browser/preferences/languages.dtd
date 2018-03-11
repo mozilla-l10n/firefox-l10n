@@ -15,4 +15,4 @@
 <!ENTITY languages.customize.selectLanguage.label       "Vali lisatav keel...">
 <!ENTITY languages.customize.addButton.label            "Lisa">
 <!ENTITY languages.customize.addButton.accesskey        "L">
-
+<!ENTITY languages.customize.spoofEnglish               "Parema privaatsuse tagamiseks nõutakse veebilehtede inglisekeelseid versioone">
