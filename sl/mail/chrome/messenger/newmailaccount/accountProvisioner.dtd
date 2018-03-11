@@ -31,7 +31,7 @@
 <!ENTITY successful.successMessage "Uspešno ste si namestili svoj račun.">
 <!ENTITY successful.write "Sestavite zdaj kako e-pošto">
 <!ENTITY successful.write.desc "Sporočite svoj novi naslov vašim prijateljem in družini.<br/>Čemu novi račun, če ne zato, da ste v stiku z njimi?">
-<!ENTITY successful.customize "Uredite si &brandShortName; z nekaj kul dodatki">
+<!ENTITY successful.customize "Prilagodite si &brandShortName; z nekaj kul dodatki">
 <!ENTITY successful.customize.desc "Na razpolago imate tisoče dodatkov, s katerim si lahko uredite &brandShortName;, kot vam najbolje ustreza.">
 <!ENTITY successful.attach "Dodajte svoji e-pošti oseben podpis">
 <!ENTITY successful.attach.desc "Vsakemu sporočilu lahko na koncu samodejno dodate kak navedek ali pa podatke o sebi.">
