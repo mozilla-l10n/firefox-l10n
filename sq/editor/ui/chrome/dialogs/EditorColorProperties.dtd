@@ -18,7 +18,7 @@
 <!ENTITY linkText.accessKey "L">
 <!ENTITY activeLinkText.label "Tekst lidhjeje vepruese">
 <!ENTITY activeLinkText.accessKey "V">
-<!ENTITY visitedLinkText.label "Tekst lidhjesh të vizituara">
+<!ENTITY visitedLinkText.label "Tekst lidhjeje të vizituar">
 <!ENTITY visitedLinkText.accessKey "Z">
 <!ENTITY background.label "Sfond:">
 <!ENTITY background.accessKey "S">

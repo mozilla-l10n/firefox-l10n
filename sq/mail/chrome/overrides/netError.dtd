@@ -99,7 +99,7 @@
 </ul>
 ">
 
-<!ENTITY proxyConnectFailure.title "Shërbyesi ndërmjetës po i hedh poshtë kërkesat për lidhje">
+<!ENTITY proxyConnectFailure.title "Shërbyesi ndërmjetës po hedh poshtë lidhjet">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
   <li>Kontrolloni rregullimet për ndërmjetësin, për t&apos;u siguruar që janë të sakta.</li>
