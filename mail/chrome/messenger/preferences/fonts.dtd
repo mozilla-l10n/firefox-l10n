@@ -71,7 +71,7 @@
 <!-- Language settings -->
 <!ENTITY sendDefaultCharset.label         "Postë Ikëse:">
 <!ENTITY sendDefaultCharset.accesskey     "i">
-<!ENTITY languagesTitle2.label            "Kodim Tekstesh">
+<!ENTITY languagesTitle2.label            "Kodim Teksti">
 <!ENTITY composingDescription2.label      "Caktoni kodim parazgjedhje teskti për dërgim dhe marrje poste">
 
 <!ENTITY viewDefaultCharsetList.label     "Postë Ardhëse:">
