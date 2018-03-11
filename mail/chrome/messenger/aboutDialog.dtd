@@ -37,7 +37,7 @@
 <!ENTITY community.creditsLink      "bashkësi mbarëbotërore">
 <!ENTITY community.end3             " që punon tok për ta mbajtur Web-in të hapët, publik dhe të përdorshëm nga kushdo.">
 
-<!ENTITY helpus.start               "Dëshironi të ndihmoni? ">
+<!ENTITY helpus.start               "Doni të ndihmoni? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
 <!ENTITY helpus.donateLink          "Bëni një dhurim">
 <!ENTITY helpus.middle              " ose ">
