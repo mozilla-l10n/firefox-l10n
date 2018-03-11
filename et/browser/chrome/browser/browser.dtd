@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Saada link seadmesse">
 <!ENTITY  sendLinkToDevice.accesskey         "i">
 <!ENTITY  sendToDeviceFeedback.label         "Saadetud!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "Järjekorras (seade pole võrgus)">
 <!ENTITY  moveToNewWindow.label              "Liiguta uude aknasse">
 <!ENTITY  moveToNewWindow.accesskey          "k">
 <!ENTITY  bookmarkAllTabs.label              "Lisa kõik kaardid järjehoidjatesse…">
@@ -110,6 +111,8 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "Veebilehe info">
 <!ENTITY pageInfoCmd.accesskey "i">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.label "Layout Debugger">
+<!ENTITY ldbCmd.accesskey "L">
 <!ENTITY mirrorTabCmd.label "Edasta kaarti">
 <!ENTITY mirrorTabCmd.accesskey "E">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -125,6 +128,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "K">
 <!ENTITY toggleReaderMode.key "R">
 
+<!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "Logi &syncBrand.shortName.label;i sisse">
 <!ENTITY fxaSignedIn.tooltip "Ava &syncBrand.shortName.label;i sätted">
@@ -189,13 +193,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "i">
 
 <!ENTITY backCmd.label                "Tagasi">
+<!ENTITY backCmd.accesskey            "T">
 <!ENTITY backButton.tooltip           "Tagasi üks leht">
 <!ENTITY forwardCmd.label             "Edasi">
+<!ENTITY forwardCmd.accesskey         "E">
 <!ENTITY forwardButton.tooltip        "Edasi üks leht">
 <!ENTITY backForwardButtonMenu.tooltip "Ajaloo kuvamiseks tee paremklõps või hoia all">
 <!ENTITY backForwardButtonMenuMac.tooltip "Ajaloo kuvamiseks hoia all">
 <!ENTITY reloadCmd.label              "Laadi uuesti">
+<!ENTITY reloadCmd.accesskey          "L">
 <!ENTITY stopCmd.label                "Peata">
+<!ENTITY stopCmd.accesskey            "P">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Mine aadressiribal olevale aadressile">
 <!ENTITY printButton.label            "Prindi">
@@ -206,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Ava teavituse paneel">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Ava asukohataotluse paneel">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Ava lisa paigaldamise teavituspaneel">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Halda kanvaa ekstraktimise õigusi">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Ava võrguta režiimi andmete teavituspaneel">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Ava parooli salvestamise teavituspaneel">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Halda pluginate kasutust">
@@ -222,6 +231,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Halda lehe tõlkimist">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Halda DRM-tarkvara kasutust">
 
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Ava MIDI paneel">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Oled sellel lehel keelanud kaamera kasutamise.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Oled sellel lehel keelanud mikrofoni kasutamise.">
@@ -230,7 +240,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Oled sellel lehel teavitused keelanud.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Oled sellel saidil keelanud andmete püsivalt salvestamise.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Oled sellel lehel hüpikaknad blokkinud.">
+<!ENTITY urlbar.canvasBlocked.tooltip            "Oled sellel lehel keelanud kanvaa andmete ekstraktimise.">
 
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "Oled sellele lehel keelanud plugina Adobe Flash kasutamise.">
+<!ENTITY urlbar.midiBlocked.tooltip              "Oled sellel lehel keelanud ligipääsu MIDIle.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Kuva ajalugu">
 
@@ -377,10 +390,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Soovid näha teistes seadmetes avatud kaarte?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Synci sätted">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Ava Synci sätted">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Teistes seadmetes avatud kaartide vaatamiseks logi sisse.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Sinu konto vajab kinnitamist.">
 <!ENTITY appMenuRemoteTabs.signin.label "Logi Synci sisse">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Halda seadmeid…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Vaata sünkroniseeritud kaartide külgriba">
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Ühenda teine seade">
 
 <!ENTITY appMenuRecentHighlights.label "Hiljuti esile tõstetud">
 
@@ -549,6 +565,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Määra taustapildiks…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "M">
 <!ENTITY bookmarkPageCmd2.label       "Pane see veebileht järjehoidjatesse">
+<!ENTITY bookmarkPageCmd2.accesskey   "j">
 <!ENTITY bookmarkThisLinkCmd.label      "Pane see link järjehoidjatesse">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "n">
 <!ENTITY bookmarkThisFrameCmd.label      "Pane see paneel järjehoidjatesse">
@@ -789,12 +806,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.label    "Logi Firefoxi sisse oma teistest seadmetest, et näha nende kaarte siin.">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Soovid siin näha teistes seadmetes avatud kaarte?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Teistes seadmetes avatud kaartide nimekirja nägemiseks logi sisse.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "Sinu konto vajab kinnitamist.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Avatud kaarte pole">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Ava &syncBrand.shortName.label;i sätted">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Teistes seadmetes avatud kaartide nimekirja nägemiseks lülita sisse kaartide sünkroniseerimine.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Otsi sünkroniseeritud kaartide seast">
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Ühenda teine seade">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -833,6 +852,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.restoreDefaults "Taasta vaikeväärtused">
 <!ENTITY customizeMode.done "Valmis">
 <!ENTITY customizeMode.titlebar "Tiitliriba">
+<!ENTITY customizeMode.extraDragSpace "Lohistamise ala">
 <!ENTITY customizeMode.toolbars2 "Tööriistaribad">
 <!ENTITY customizeMode.lwthemes "Teemad">
 <!ENTITY customizeMode.lwthemes.myThemes "Minu teemad">
