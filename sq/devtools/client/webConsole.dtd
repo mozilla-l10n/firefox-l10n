@@ -61,7 +61,7 @@
 
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
-<!ENTITY btnConsoleSharedWorkers "Shared Workers">
+<!ENTITY btnConsoleSharedWorkers "Workers të Përbashkët">
 <!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
   -  should not be translated. -->
 <!ENTITY btnConsoleServiceWorkers "Service Workers">

@@ -54,7 +54,7 @@
      -->
 <!ENTITY cmd.show.label                   "Hap Dosjen Përkatëse">
 <!ENTITY cmd.show.accesskey               "D">
-<!ENTITY cmd.showMac.label                "Shfaqe Te Gjetësi">
+<!ENTITY cmd.showMac.label                "Shfaqe Në Finder">
 <!ENTITY cmd.showMac.accesskey            "S">
 <!ENTITY cmd.showDownloads.label          "Shfaq Dosjen e Shkarkimeve">
 <!ENTITY cmd.retry.label                  "Riprovo">
