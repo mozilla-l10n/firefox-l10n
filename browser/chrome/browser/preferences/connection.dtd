@@ -8,6 +8,8 @@
 <!ENTITY  window.macWidth2              "48em">
 
 <!ENTITY  proxyTitle.label              "Interneti puhverserveri häälestamine">
+
+<!ENTITY  proxyTitle.label2             "Interneti puhverserveri häälestamine">
 <!ENTITY  noProxyTypeRadio.label        "Internetti ühendutakse otse">
 <!ENTITY  noProxyTypeRadio.accesskey    "I">
 <!ENTITY  systemTypeRadio.label         "Kasutatakse süsteemi puhverserveri sätteid">
