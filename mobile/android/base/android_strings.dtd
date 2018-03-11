@@ -480,7 +480,7 @@
      as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY media_sending_to "Po e dërgon te Pajisja">
 <!ENTITY media_play "Luaje">
-<!ENTITY media_pause "Pushim">
+<!ENTITY media_pause "Ndalesë">
 <!ENTITY media_stop "Ndale">
 
 <!ENTITY contextmenu_open_new_tab "Hape në Skedë të Re">
