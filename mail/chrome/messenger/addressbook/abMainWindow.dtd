@@ -222,7 +222,7 @@ because displayed names don't have the comma in between. -->
 
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
-<!ENTITY contact.heading                                "Kontakte">
+<!ENTITY contact.heading                                "Kontakt">
 <!ENTITY home.heading                                   "Shtëpie">
 <!ENTITY other.heading                                  "Tjetër">
 <!ENTITY chat.heading                                   "Fjalosje">

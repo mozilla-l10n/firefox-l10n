@@ -28,7 +28,7 @@
 <!ENTITY account.delete.accesskey     "F">
 <!ENTITY account.edit.label           "Veti">
 <!ENTITY account.edit.accesskey       "V">
-<!ENTITY account.moveup.label         "Ngjite sipër">
+<!ENTITY account.moveup.label         "Shpjere sipër">
 <!ENTITY account.movedown.label       "Zbrite poshtë">
 <!ENTITY account.cancelReconnection.label         "Anuloje rilidhjen">
 <!ENTITY account.cancelReconnection.accesskey     "A">

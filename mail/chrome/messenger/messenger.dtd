@@ -53,7 +53,7 @@
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "l">
 <!ENTITY getNextNMsgCmd2.label "Merr Mesazhet e Rinj Pasues">
 <!ENTITY getNextNMsgCmd2.accesskey "M">
-<!ENTITY sendUnsentCmd.label "Dërgo Mesazhe Të Padërguar">
+<!ENTITY sendUnsentCmd.label "Dërgo Mesazhet e Padërguar">
 <!ENTITY sendUnsentCmd.accesskey "u">
 <!ENTITY subscribeCmd.label "Pajtohuni…">
 <!ENTITY subscribeCmd.accesskey "P">
@@ -518,7 +518,7 @@
 <!ENTITY errorConsoleCmd.label "Konsol Gabimesh">
 <!ENTITY errorConsoleCmd.accesskey "K">
 <!ENTITY errorConsoleCmd.commandkey "j">
-<!ENTITY scratchpadCmd.label "E papastër">
+<!ENTITY scratchpadCmd.label "Fletë e Papastër">
 <!ENTITY scratchpadCmd.accesskey "a">
 
 <!--LOCALIZATION NOTE (scratchpadCmd.keycode):
@@ -856,7 +856,7 @@
 <!-- Media (video/audio) controls -->
 <!ENTITY contextPlay.label "Luaje">
 <!ENTITY contextPlay.accesskey "L">
-<!ENTITY contextPause.label "Pushoje">
+<!ENTITY contextPause.label "Ndale">
 <!ENTITY contextPause.accesskey "P">
 <!ENTITY contextMute.label "Pa Zë">
 <!ENTITY contextMute.accesskey "a">

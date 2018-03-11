@@ -10,7 +10,7 @@
 <!ENTITY fieldMapImport.previous.label "I mëparshmi">
 <!ENTITY fieldMapImport.previous.accesskey "m">
 <!ENTITY fieldMapImport.text "Përdorni Ngjitu dhe Zbrit për të përputhur fusha libri adresash majtas me të dhëna të sakta për t&apos;u importuar djathtas. Hiquni shenjën elementëve që nuk doni të importohen.">
-<!ENTITY fieldMapImport.up.label "Sipër">
+<!ENTITY fieldMapImport.up.label "Shpjere Sipër">
 <!ENTITY fieldMapImport.up.accesskey "i">
 <!ENTITY fieldMapImport.down.label "Poshtë">
 <!ENTITY fieldMapImport.down.accesskey "o">

@@ -34,7 +34,7 @@
 
 <!ENTITY TextHeader.label "Tekst">
 <!ENTITY ValueHeader.label "Vlerë">
-<!ENTITY SelectedHeader.label "Përzgjedhur">
+<!ENTITY SelectedHeader.label "E përzgjedhur">
 
 <!ENTITY AddOption.label "Shto Mundësi">
 <!ENTITY AddOption.accesskey "M">
@@ -42,7 +42,7 @@
 <!ENTITY AddOptGroup.accesskey "G">
 <!ENTITY RemoveElement.label "Hiqe">
 <!ENTITY RemoveElement.accesskey "H">
-<!ENTITY MoveElementUp.label "Ngrije">
+<!ENTITY MoveElementUp.label "Shpjere Sipër">
 <!ENTITY MoveElementUp.accesskey "N">
 <!ENTITY MoveElementDown.label "Ule">
 <!ENTITY MoveElementDown.accesskey "U">
