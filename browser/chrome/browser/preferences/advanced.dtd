@@ -113,7 +113,7 @@ available. -->
 <!ENTITY updateHistory2.label            "Shfaq Historik Përditësimesh…">
 <!ENTITY updateHistory2.accesskey        "P">
 
-<!ENTITY useService.label                "Përdor shërbim në prapaskenë për të instaluar përditësimet">
+<!ENTITY useService.label                "Për instalim përditësimesh përdor një shërbim në prapaskenë">
 <!ENTITY useService.accesskey            "P">
 
 <!ENTITY enableSearchUpdate2.label       "Të përditësojë vetvetiu motorët e kërkimeve">

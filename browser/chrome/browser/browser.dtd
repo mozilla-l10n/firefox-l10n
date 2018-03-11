@@ -383,7 +383,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.showAll.tooltip "Shfaqni krejt skedat nga kjo pajisje">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Aktivizoni njëkohësim skedash që të shihni një listë skedash prej pajisjesh tuajat të tjera.">
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Aktivizoni njëkohësim skedash që të shihni një listë skedash prej pajisjeve tuaja të tjera.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->

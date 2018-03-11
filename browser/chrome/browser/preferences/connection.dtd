@@ -44,7 +44,7 @@
 <!ENTITY  noproxy2.label                "Pa ndërmjetës për">
 <!ENTITY  noproxy2.accesskey            "a">
 <!ENTITY  noproxyExplain.label          "Shembull: .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "Përdor të njëjtin ndërmjetës për krejt protokollet">
+<!ENTITY  shareproxy.label              "Përdor këtë shërbyes ndërmjetës për tërë protokollet">
 <!ENTITY  shareproxy.accesskey          "k">
 <!ENTITY  autologinproxy.label          "Mos shfaq kërkesë mirëfilltësimi, nëse është ruajtur fjalëkalim">
 <!ENTITY  autologinproxy.accesskey      "i">
