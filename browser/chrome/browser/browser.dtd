@@ -44,7 +44,7 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "F">
 <!ENTITY  unpinTab.label                     "Shfiksoje Skedën">
 <!ENTITY  unpinTab.accesskey                 "f">
-<!ENTITY  sendTabToDevice.label              "Dërgoje Skedën te Pajisja">
+<!ENTITY  sendTabToDevice.label              "Dërgoje Skedën në Pajisje">
 <!ENTITY  sendTabToDevice.accesskey          "P">
 <!ENTITY  sendPageToDevice.label             "Dërgoje Faqen te Pajisja">
 <!ENTITY  sendPageToDevice.accesskey         "P">
