@@ -172,7 +172,7 @@
 <!ENTITY calendar.context.copyevent.accesskey         "K">
 <!ENTITY calendar.context.pasteevent.label            "Ngjite">
 <!ENTITY calendar.context.pasteevent.accesskey        "N">
-<!ENTITY calendar.context.button.label                "Kutia për Sot" >
+<!ENTITY calendar.context.button.label                "Kuadrati Sot" >
 <!ENTITY calendar.context.button.accesskey            "K" >
 <!ENTITY calendar.context.attendance.menu.label       "Pjesëmarrje" >
 <!ENTITY calendar.context.attendance.menu.accesskey   "e" >
