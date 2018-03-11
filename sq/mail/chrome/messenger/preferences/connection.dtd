@@ -42,6 +42,6 @@
 <!ENTITY  shareproxy.accesskey          "d">
 <!ENTITY  autologinproxy.label          "Mos shfaq kërkesë mirëfilltësimi, nëse është ruajtur fjalëkalim">
 <!ENTITY  autologinproxy.accesskey      "o">
-<!ENTITY  autologinproxy.tooltip        "Me këtë mundësi mirëfilltësimi te ndërmjetësit bëhet heshtazi, kur keni kredenciale të ruajtura për ta. Nëse mirëfilltësimi dështon, kërkesa do të shfaqet.">
+<!ENTITY  autologinproxy.tooltip        "Me këtë mundësi, mirëfilltësimi te ndërmjetësit, bëhet heshtazi, kur keni kredenciale të ruajtura për ta. Nëse mirëfilltësimi dështon, do të shfaqet kërkesa.">
 <!ENTITY  socksRemoteDNS.label          "DNS ndërmjetësi kur përdoret SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "D">

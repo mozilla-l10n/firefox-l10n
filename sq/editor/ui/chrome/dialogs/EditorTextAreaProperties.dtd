@@ -16,7 +16,7 @@
 <!ENTITY TextAreaReadOnly.accessKey "L">
 <!ENTITY TextAreaDisabled.label "E çaktivizuar">
 <!ENTITY TextAreaDisabled.accessKey "Ç">
-<!ENTITY TextAreaTabIndex.label "Tregues Tab:">
+<!ENTITY TextAreaTabIndex.label "Vlerë Tabulacioni:">
 <!ENTITY TextAreaTabIndex.accessKey "T">
 <!ENTITY TextAreaAccessKey.label "Tast Hyrjeje:">
 <!ENTITY TextAreaAccessKey.accessKey "H">

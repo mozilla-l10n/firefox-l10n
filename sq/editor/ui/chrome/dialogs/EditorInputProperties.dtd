@@ -35,7 +35,7 @@
 <!ENTITY InputReadOnly.accesskey "L">
 <!ENTITY InputDisabled.label "E çaktivizuar">
 <!ENTITY InputDisabled.accesskey "Ç">
-<!ENTITY tabIndex.label "Tregues Tab:">
+<!ENTITY tabIndex.label "Vlerë Tabulacioni:">
 <!ENTITY tabIndex.accesskey "T">
 <!ENTITY TextSize.label "Madhësi Fushe:">
 <!ENTITY TextSize.accesskey "M">
