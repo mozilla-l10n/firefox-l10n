@@ -23,6 +23,7 @@
 <!ENTITY aboutNetworking.sent                  "Kaset">
 <!ENTITY aboutNetworking.received              "Degemeret">
 <!ENTITY aboutNetworking.family                "Familh">
+<!ENTITY aboutNetworking.trr                   "TRR">
 <!ENTITY aboutNetworking.addresses             "Chomlec'hioù">
 <!ENTITY aboutNetworking.expires               "Deiziad termen (eilennoù)">
 <!ENTITY aboutNetworking.messagesSent          "Kemennadennoù kaset">
@@ -45,14 +46,12 @@
 <!ENTITY aboutNetworking.rcwnStatus            "Satud RCWN">
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "Konter berzhioù ar c'hrubuilh">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Konter berzhioù web">
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutNetworking.totalNetworkRequests  "Niver hollek a azgoulennoù rouedad">
+<!ENTITY aboutNetworking.rcwnOperation         "Obererezhioù ar c'hrubuilh">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "Digoradurioù">
+<!ENTITY aboutNetworking.rcwnPerfRead          "Lenn">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "Skrivañ">
+<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Digoradur enankad">
+<!ENTITY aboutNetworking.rcwnAvgShort          "Keidenn vihan">
+<!ENTITY aboutNetworking.rcwnAvgLong           "Keidenn vras">
+<!ENTITY aboutNetworking.rcwnStddevLong        "Forc'had rizh bras">
