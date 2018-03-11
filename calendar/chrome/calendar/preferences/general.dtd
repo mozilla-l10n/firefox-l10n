@@ -33,10 +33,7 @@
 <!ENTITY pref.default_task_offset_start.label "E lidhur me Fillimin">
 <!ENTITY pref.default_task_offset_next_hour.label "E lidhur me Orën Pasuese">
 
-<!ENTITY pref.calendar.todaypane.agenda.caption "Kuadrati Për Sot">
-<!ENTITY pref.soondays.label "Ndarja për së afërmi shfaq:">
-<!ENTITY pref.soondays.accesskey "a">
-
+<!ENTITY pref.calendar.todaypane.agenda.caption "Kuadrati Sot">
 <!-- LOCALIZATION NOTE (pref.soondays2.label):
      "Upcoming" is the name of a section and the translation must match the
      translation of that section name (calendar.upcoming.button.label). Also,
