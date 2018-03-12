@@ -151,7 +151,7 @@ was trying to connect. -->
 
 <!ENTITY sharedLongDesc "
 <ul>
-  <li>Veebileht võib olla ajutiselt kättesaamatu või liialt hõivatud. Proovi mõne hetke
+  <li>Veebileht võib olla ajutiselt kättesaamatu või liialt hõivatud. Proovi mõne aja
     pärast uuesti.</li>
   <li>Kui sa ei saa avada ühtegi lehte, siis kontrolli oma arvuti
     võrguühendust.</li>
@@ -197,6 +197,7 @@ võimalik.">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> kasutab turvalisuse tehnoloogiaid, mis on aegunud ja avatud rünnakutele. Ründaja võib suurema vaevata pääseda ligi teabele, mis sinu arvates on kaitstud. Saidi külastamiseks peab saidi administraator selle serveri kõigepealt ära parandama.</p><p>Veakood: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
 
 <!ENTITY prefReset.longDesc "Paistab, et seda probleemi võivad põhjustada sinu võrguturvalisuse sätted. Kas soovid taastada vaikesätted?">
 <!ENTITY prefReset.label "Taasta vaikesätted">
