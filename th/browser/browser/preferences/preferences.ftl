@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = เสมอ
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] ตัวเลือก
            *[other] ค่ากำหนด
         }
@@ -21,7 +22,8 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
-policies-notice = { PLATFORM() ->
+policies-notice =
+    { PLATFORM() ->
         [windows] องค์กรของคุณได้ปิดใช้งานความสามารถในการเปลี่ยนตัวเลือกบางอย่าง
        *[other] องค์กรของคุณได้ปิดใช้งานความสามารถในการเปลี่ยนค่ากำหนดบางอย่าง
     }
@@ -87,7 +89,8 @@ home-page-header = หน้าแรก
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label = { $tabCount ->
+    .label =
+        { $tabCount ->
             [1] ใช้หน้าปัจจุบัน
            *[other] ใช้หน้าปัจจุบัน
         }
@@ -166,11 +169,13 @@ download-save-to =
     .label = บันทึกไฟล์ไปยัง
     .accesskey = ฟ
 download-choose-folder =
-    .label = { PLATFORM() ->
+    .label =
+        { PLATFORM() ->
             [macos] เลือก…
            *[other] เรียกดู…
         }
-    .accesskey = { PLATFORM() ->
+    .accesskey =
+        { PLATFORM() ->
             [macos] ล
            *[other] ร
         }
