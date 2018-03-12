@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = alati
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Sätted
            *[other] Eelistused
         }
@@ -21,7 +22,8 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
-policies-notice = { PLATFORM() ->
+policies-notice =
+    { PLATFORM() ->
         [windows] Sinu organisatsioon on keelanud mõningate sätete muutmise.
        *[other] Sinu organisatsioon on keelanud mõningate eelistuste muutmise.
     }
@@ -81,13 +83,14 @@ startup-prev-session =
     .label = kuvatakse viimati avatud aknaid ja kaarte
 disable-extension =
     .label = Keela see laiendus
-home-page-header = kuvatakse avalehte
+home-page-header = Avaleht
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label = { $tabCount ->
+    .label =
+        { $tabCount ->
             [1] Kasuta aktiivset veebilehte
            *[other] Kasuta aktiivseid veebilehti
         }
@@ -125,11 +128,13 @@ browser-containers-settings =
     .label = Sätted…
     .accesskey = d
 containers-disable-alert-title = Konteinerkaartide sulgemine
-containers-disable-alert-desc = { $tabCount ->
+containers-disable-alert-desc =
+    { $tabCount ->
         [one] Kui sa keelad konteinerkaardid, siis suletakse üks konteinerkaart. Kas oled kindel, et soovid konteinerkaardid keelata?
        *[other] Kui sa keelad konteinerkaardid, siis suletakse { $tabCount } konteinerkaarti. Kas oled kindel, et soovid konteinerkaardid keelata?
     }
-containers-disable-alert-ok-button = { $tabCount ->
+containers-disable-alert-ok-button =
+    { $tabCount ->
         [one] Sulge konteinerkaart
        *[other] Sulge { $tabCount } konteinerkaarti
     }
@@ -172,11 +177,13 @@ download-save-to =
     .label = Failid salvestatakse asukohta
     .accesskey = v
 download-choose-folder =
-    .label = { PLATFORM() ->
+    .label =
+        { PLATFORM() ->
             [macos] Vali...
            *[other] Lehitse...
         }
-    .accesskey = { PLATFORM() ->
+    .accesskey =
+        { PLATFORM() ->
             [macos] a
            *[other] e
         }
