@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = ಯಾವಾಗಲೂ
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] ಆಯ್ಕೆಗಳು
            *[other] ಆದ್ಯತೆಗಳು
         }
@@ -83,7 +84,8 @@ home-page-header = ನನ್ನ ನೆಲೆ ತಾಣವನ್ನು ತೋರ�
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label = { $tabCount ->
+    .label =
+        { $tabCount ->
             [1] ಈಗಿನ ಪುಟವನ್ನು ಬಳಸು
            *[other] ಈಗಿನ ಪುಟಗಳನ್ನು ಬಳಸು 
         }
@@ -156,11 +158,13 @@ download-save-to =
     .label = ಕಡತಗಳನ್ನು ಇಲ್ಲಿ ಉಳಿಸು
     .accesskey = v
 download-choose-folder =
-    .label = { PLATFORM() ->
+    .label =
+        { PLATFORM() ->
             [macos] ಆರಿಸು...
            *[other] ನೋಡು...
         }
-    .accesskey = { PLATFORM() ->
+    .accesskey =
+        { PLATFORM() ->
             [macos] e
            *[other] o
         }
