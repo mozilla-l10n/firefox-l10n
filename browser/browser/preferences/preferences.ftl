@@ -63,7 +63,7 @@ startup-blank-page =
     .label = បង្ហាញ​ទំព័រ​ទទេ
 startup-prev-session =
     .label = បង្ហាញ​បង្អួច និង​ផ្ទាំង​របស់​ខ្ញុំ​កាល​ពី​មុន
-home-page-header = បង្ហាញ​ទំព័រ​ដើម​របស់​អ្នក
+home-page-header = ទំព័រ​ដើម
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
