@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Заўсёды
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Налады
            *[other] Налады
         }
@@ -77,13 +78,14 @@ startup-prev-session =
     .label = паказваць апошнія вокны і карткі
 disable-extension =
     .label = Адключыць пашырэнне
-home-page-header = паказваць вашу хатнюю старонку
+home-page-header = Хатняя старонка
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label = { $tabCount ->
+    .label =
+        { $tabCount ->
             [1] Ужыць цяперашнюю старонку
            *[other] Ужыць дзейныя старонкі
         }
@@ -121,12 +123,14 @@ browser-containers-settings =
     .label = Налады…
     .accesskey = а
 containers-disable-alert-title = Закрыць усе карткі кантэйнера?
-containers-disable-alert-desc = { $tabCount ->
+containers-disable-alert-desc =
+    { $tabCount ->
         [one] Калі вы выключыце ўсе акенцы кантэйнера, будзе закрыта { $tabCount } картка кантэйнера. Вы сапраўды хочаце выключыць кантэйнер?
         [few] Калі вы выключыце ўсе акенцы кантэйнера, будуць закрыты { $tabCount } карткі кантэйнера. Вы сапраўды хочаце выключыць кантэйнер?
        *[many] Калі вы выключыце ўсе акенцы кантэйнера, будуць закрыты { $tabCount } картак кантэйнера. Вы сапраўды хочаце выключыць кантэйнер?
     }
-containers-disable-alert-ok-button = { $tabCount ->
+containers-disable-alert-ok-button =
+    { $tabCount ->
         [one] Закрыць { $tabCount } картку ў кантэйнеры
         [few] Закрыць { $tabCount } карткі ў кантэйнеры
        *[many] Закрыць { $tabCount } картак у кантэйнеры
@@ -170,11 +174,13 @@ download-save-to =
     .label = Захоўваць файлы ў
     .accesskey = З
 download-choose-folder =
-    .label = { PLATFORM() ->
+    .label =
+        { PLATFORM() ->
             [macos] Выбраць…
            *[other] Агляд…
         }
-    .accesskey = { PLATFORM() ->
+    .accesskey =
+        { PLATFORM() ->
             [macos] В
            *[other] г
         }
