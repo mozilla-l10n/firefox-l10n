@@ -78,7 +78,7 @@ startup-prev-session =
     .label = Mostrar suas janelas e abas anteriores
 disable-extension =
     .label = Desabilitar extensão
-home-page-header = Mostrar sua página inicial
+home-page-header = Página inicial
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
