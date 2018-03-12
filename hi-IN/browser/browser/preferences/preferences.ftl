@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = हमेशा
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] विकल्प
            *[other] वरीयता
         }
@@ -83,7 +84,8 @@ home-page-header = आपका होम पेज दिखाएँ
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label = { $tabCount ->
+    .label =
+        { $tabCount ->
             [1] मौजूदा पृष्ठ का उपयोग करें
            *[other] मौजूदा पृष्ठों का उपयोग करें
         }
@@ -121,11 +123,13 @@ browser-containers-settings =
     .label = सेटिंग्स…
     .accesskey = i
 containers-disable-alert-title = क्या आप सभी कंटेनर टैब्स बंद करना चाहते हैं?
-containers-disable-alert-desc = { $tabCount ->
+containers-disable-alert-desc =
+    { $tabCount ->
         [one] अगर आप अभी पात्र टैब निष्क्रिय करेंगे, { $tabCount } पात्र टैब बंद हो जाएगा. क्या आप पक्का पात्र टैब निष्क्रिय करना चाहते हैं?
        *[other] अगर आप पात्र टैब अभी निष्क्रिय करेंगे, { $tabCount } पात्र टैब बंद हो जाएगा. क्या आप पक्का पात्र टैब निष्क्रिय करना चाहते हैं?
     }
-containers-disable-alert-ok-button = { $tabCount ->
+containers-disable-alert-ok-button =
+    { $tabCount ->
         [one] { $tabCount } कंटेनर टैब्स बंद करें
        *[other] { $tabCount } कंटेनर टैब्स बंद करें
     }
@@ -168,11 +172,13 @@ download-save-to =
     .label = यहाँ फ़ाइल सहेजें
     .accesskey = v
 download-choose-folder =
-    .label = { PLATFORM() ->
+    .label =
+        { PLATFORM() ->
             [macos] चुनें…
            *[other] ब्राउज करें…
         }
-    .accesskey = { PLATFORM() ->
+    .accesskey =
+        { PLATFORM() ->
             [macos] e
            *[other] o
         }
