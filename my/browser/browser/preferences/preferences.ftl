@@ -83,7 +83,7 @@ startup-prev-session =
     .label = နောက်ဆုံးအသုံးပြုခဲ့သော ဝင်းဒိုးများ နှင့် တပ်ဗ်များကို ပြန်ဖွင့်ပါ
 disable-extension =
     .label = တိုးချဲ့မှု အားပိတ်ထားပါ
-home-page-header = မူလစာမျက်နှာကို ပြပါ
+home-page-header = အဖွင့်စာမျက်နှာ
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
