@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Всегда
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Настройки
            *[other] Настройки
         }
@@ -21,7 +22,8 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
-policies-notice = { PLATFORM() ->
+policies-notice =
+    { PLATFORM() ->
         [windows] Ваша организация запретила возможность изменения некоторых настроек.
        *[other] Ваша организация запретила возможность изменения некоторых настроек.
     }
@@ -87,7 +89,8 @@ home-page-header = Показать домашнюю страницу
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label = { $tabCount ->
+    .label =
+        { $tabCount ->
             [1] Использовать текущую страницу
            *[other] Использовать текущие страницы
         }
@@ -125,12 +128,14 @@ browser-containers-settings =
     .label = Параметры…
     .accesskey = м
 containers-disable-alert-title = Закрыть все вкладки в контейнере?
-containers-disable-alert-desc = { $tabCount ->
+containers-disable-alert-desc =
+    { $tabCount ->
         [one] Если вы отключите сейчас вкладки в контейнере, { $tabCount } вкладка в контейнере будет закрыта. Вы уверены, что хотите отключить вкладки в контейнере?
         [few] Если вы отключите сейчас вкладки в контейнере, { $tabCount } вкладки в контейнере будут закрыты. Вы уверены, что хотите отключить вкладки в контейнере?
        *[many] Если вы отключите сейчас вкладки в контейнере, { $tabCount } вкладок в контейнере будут закрыты. Вы уверены, что хотите отключить вкладки в контейнере?
     }
-containers-disable-alert-ok-button = { $tabCount ->
+containers-disable-alert-ok-button =
+    { $tabCount ->
         [one] Закрыть { $tabCount } вкладку в контейнере
         [few] Закрыть { $tabCount } вкладки в контейнере
        *[many] Закрыть { $tabCount } вкладок в контейнере
@@ -174,11 +179,13 @@ download-save-to =
     .label = Путь для сохранения файлов
     .accesskey = ь
 download-choose-folder =
-    .label = { PLATFORM() ->
+    .label =
+        { PLATFORM() ->
             [macos] Выбрать…
            *[other] Обзор…
         }
-    .accesskey = { PLATFORM() ->
+    .accesskey =
+        { PLATFORM() ->
             [macos] ы
            *[other] б
         }
