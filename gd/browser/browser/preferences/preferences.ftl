@@ -83,7 +83,7 @@ startup-prev-session =
     .label = Seall na h-uinneagan is tabaichean a bha agad san t-seisean mu dheireadh
 disable-extension =
     .label = Cuir an leudachan à comas
-home-page-header = Seall an duilleag-dhachaigh agad
+home-page-header = An duilleag-dhachaidh
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
