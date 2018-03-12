@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Palagi
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Options
            *[other] Mga Preferences
         }
@@ -21,7 +22,8 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
-policies-notice = { PLATFORM() ->
+policies-notice =
+    { PLATFORM() ->
         [windows] Hindi pinagana ng iyong organisasyon ang kakayahang baguhin ang ilang mga pagpipilian.
        *[other] Hindi pinagana ng iyong organisasyon ang kakayahang baguhin ang ilang mga kagustuhan.
     }
@@ -81,13 +83,14 @@ startup-prev-session =
     .label = Ipakita ang iyong mga window at tab noong nakaraan
 disable-extension =
     .label = Huwag Paganahin and Extensyon
-home-page-header = Ipakita ang iyong punong pahina
+home-page-header = Punong pahina
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label = { $tabCount ->
+    .label =
+        { $tabCount ->
             [1] Gamitin ang Kasalukuyang Pahina
            *[other] Gamitin ang kasalukuyang mga pahina
         }
@@ -125,11 +128,13 @@ browser-containers-settings =
     .label = Mga setting…
     .accesskey = i
 containers-disable-alert-title = Isara ang Lahat ng Mga Tab ng Lalagyan?
-containers-disable-alert-desc = { $tabCount ->
+containers-disable-alert-desc =
+    { $tabCount ->
         [one] Kung hindi mo pinagana ang Mga Tab ng Lalagyan ngayon, sarado ang tab ng { $tabCount }. Sigurado ka ba na nais mong huwag paganahin ang mga Tab ng Lalagyan?
        *[other] Kung hindi mo pinagana ang Mga Tab ng Lalagyan ngayon, ang mga tab ng { $tabCount } lalagyan ay sarado. Sigurado ka bang gusto mong huwag paganahin ang Mga Tab ng Lalagyan?
     }
-containers-disable-alert-ok-button = { $tabCount ->
+containers-disable-alert-ok-button =
+    { $tabCount ->
         [one] Isara ang { $tabCount } Container Tab
        *[other] Isara ang { $tabCount } Container Tab
     }
@@ -172,11 +177,13 @@ download-save-to =
     .label = I-save ang mga file sa
     .accesskey = v
 download-choose-folder =
-    .label = { PLATFORM() ->
+    .label =
+        { PLATFORM() ->
             [macos] Choose…
            *[other] Browse…
         }
-    .accesskey = { PLATFORM() ->
+    .accesskey =
+        { PLATFORM() ->
             [macos] e
            *[other] o
         }
