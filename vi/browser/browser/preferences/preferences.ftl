@@ -77,7 +77,7 @@ startup-prev-session =
     .label = Hiển thị cửa sổ và thẻ lần trước của bạn
 disable-extension =
     .label = Tắt phần mở rộng
-home-page-header = Hiển thị trang chủ của bạn
+home-page-header = Trang chủ
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
