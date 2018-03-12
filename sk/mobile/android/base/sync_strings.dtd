@@ -78,7 +78,7 @@
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos2 'Podmienky používania'>
-<!ENTITY fxaccount_status_linkprivacy2 'Zásady ochrany osobných údajov'>
+<!ENTITY fxaccount_status_linkprivacy2 'Zásady ochrany súkromia'>
 <!ENTITY fxaccount_remove_account 'Odpojiť&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title2 'Odpojiť sa zo služby Sync?'>
