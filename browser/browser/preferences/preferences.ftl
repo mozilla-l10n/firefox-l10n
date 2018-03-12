@@ -83,7 +83,7 @@ startup-prev-session =
     .label = A legutóbbi ablakok és lapok megjelenítése
 disable-extension =
     .label = Kiterjesztés letiltása
-home-page-header = Kezdőlap megjelenítése
+home-page-header = Kezdőlap
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
