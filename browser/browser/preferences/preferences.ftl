@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Beti
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Aukerak
            *[other] Hobespenak
         }
@@ -21,7 +22,8 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
-policies-notice = { PLATFORM() ->
+policies-notice =
+    { PLATFORM() ->
         [windows] Zure erakundeak hainbat aukera aldatzeko modua desgaitu du.
        *[other] Zure erakundeak hainbat hobespen aldatzeko modua desgaitu du.
     }
@@ -81,13 +83,14 @@ startup-prev-session =
     .label = Berreskuratu azken saioko fitxak eta leihoak
 disable-extension =
     .label = Desgaitu hedapena
-home-page-header = Erakutsi hasiera-orria
+home-page-header = Hasiera-orria
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label = { $tabCount ->
+    .label =
+        { $tabCount ->
             [1] Erabili uneko orria
            *[other] Erabili uneko orriak
         }
@@ -125,11 +128,13 @@ browser-containers-settings =
     .label = Ezarpenak…
     .accesskey = r
 containers-disable-alert-title = Itxi edukiontzi-fitxa gutziak?
-containers-disable-alert-desc = { $tabCount ->
+containers-disable-alert-desc =
+    { $tabCount ->
         [one] Edukiontzi-fitxak orain desgaituz gero, edukiontzi-fitxa bat itxi egingo da. Ziur zaude edukiontzi-fitxak desgaitu nahi dituzula?
        *[other] Edukiontzi-fitxak orain desgaituz gero, { $tabCount } edukiontzi-fitxa itxi egingo dira. Ziur zaude edukiontzi-fitxak desgaitu nahi dituzula?
     }
-containers-disable-alert-ok-button = { $tabCount ->
+containers-disable-alert-ok-button =
+    { $tabCount ->
         [one] Itxi edukiontzi-fitxa bat
        *[other] Itxi { $tabCount } edukiontzi-fitxa
     }
@@ -172,11 +177,13 @@ download-save-to =
     .label = Gorde fitxategiak hemen: 
     .accesskey = G
 download-choose-folder =
-    .label = { PLATFORM() ->
+    .label =
+        { PLATFORM() ->
             [macos] Aukeratu…
            *[other] Arakatu…
         }
-    .accesskey = { PLATFORM() ->
+    .accesskey =
+        { PLATFORM() ->
             [macos] e
            *[other] A
         }
