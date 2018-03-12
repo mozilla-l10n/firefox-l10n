@@ -77,7 +77,7 @@ startup-prev-session =
     .label = शेवटच्या वेळे पासून माझ्या विंडोज आणि टॅब्स दाखवा
 disable-extension =
     .label = वाढीव कार्यक्रम निष्क्रिय करा
-home-page-header = माझे मुख्य पृष्ठ दाखवा
+home-page-header = मुख्य पृष्ठ
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
