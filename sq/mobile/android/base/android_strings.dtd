@@ -657,7 +657,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; ka bllokuar në këtë faqe lëndë jo të sigurt.">
 <!ENTITY mixed_content_blocked_some1 "&brandShortName; -u ka bllokuar në këtë faqe ca lëndë jo të sigurt.">
-<!ENTITY mixed_content_display_loaded1 "Pjesë të kësaj faqeje (fjala vjen, figura) s\&apos;janë të sigurta.">
+<!ENTITY mixed_content_display_loaded1 "Pjesë të kësaj faqeje (fjala vjen, figura) s’janë të sigurta.">
 <!ENTITY mixed_content_protection_disabled1 "E keni çaktivizuar mbrojtjejn nga lëndë jo e sigurt.">
 
 <!-- Tracking content notifications in site identity popup -->
@@ -848,7 +848,7 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "Në modë">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
-<!ENTITY activity_stream_highlights_empty "Filloni shfletimin, dhe do t\&apos;ju shfaqim disa nga artikujt, videot dhe të tjera faqe interesante që keni vizituar apo faqerojtur këtu kohët e fundit.">
+<!ENTITY activity_stream_highlights_empty "Filloni shfletimin, dhe do t’ju shfaqim disa nga artikujt, videot dhe të tjera faqe interesante që keni vizituar apo faqerojtur këtu kohët e fundit.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
@@ -858,7 +858,7 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY private_tab_panel_title "Shfletim Privat + Mbrojtje Nga Gjurmimet">
 <!ENTITY private_tab_panel_description "&brandShortName;-i bllokon pjesë faqesh që mund të gjurmojnë veprimtarinë tuaj të shfletimit.">
-<!ENTITY private_tab_panel_description2 "S\&apos;do të mbajmë mend asgjë nga historiku i shfletimeve, por kartelat e shkarkuara dhe faqerojtësit e rinj do të ruhen te pajisja juaj.">
+<!ENTITY private_tab_panel_description2 "S’do të mbajmë mend asgjë nga historiku i shfletimeve, por kartelat e shkarkuara dhe faqerojtësit e rinj do të ruhen te pajisja juaj.">
 <!ENTITY private_tab_learn_more "Doni të mësoni më tepër rreth kësaj?">
 
 <!ENTITY fullscreen_warning "U kalua nën Sa Krejt Ekrani">
