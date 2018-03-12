@@ -45,7 +45,6 @@
      from messenger.dtd -->
 <!ENTITY lightning.toolbar.appmenuButton.label       "Programmenu">
 <!ENTITY lightning.toolbar.appmenuButton1.tooltip    "Vis &brandShortName;-menuen">
-<!ENTITY lightning.toolbar.calendarmenu.label        "Fanebladet Kalender">
+<!ENTITY lightning.toolbar.calendarmenu.label        "Kalenderrude">
 <!ENTITY lightning.toolbar.calendarmenu.accesskey    "K">
-<!ENTITY lightning.toolbar.calendarpane.label        "Vis fanebladet Kalender">
 <!ENTITY lightning.toolbar.calendarpane.accesskey    "K">
