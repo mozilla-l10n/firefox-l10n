@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Vždy
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Možnosti
            *[other] Předvolby
         }
@@ -21,7 +22,8 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
-policies-notice = { PLATFORM() ->
+policies-notice =
+    { PLATFORM() ->
         [windows] Vaše organizace zakázala změny některých možností.
        *[other] Vaše organizace zakázala změny některých předvoleb.
     }
@@ -81,13 +83,14 @@ startup-prev-session =
     .label = Zobrazit okna a panely z minula
 disable-extension =
     .label = Zakázat rozšíření
-home-page-header = Zobrazit vaši domovskou stránku
+home-page-header = Domovská stránka
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label = { $tabCount ->
+    .label =
+        { $tabCount ->
             [1] Použít aktuální stránku
            *[other] Použít aktuální stránky
         }
@@ -125,12 +128,14 @@ browser-containers-settings =
     .label = Nastavení…
     .accesskey = v
 containers-disable-alert-title = Zavřít všechny kontejnerové panely?
-containers-disable-alert-desc = { $tabCount ->
+containers-disable-alert-desc =
+    { $tabCount ->
         [one] Zakážete-li kontejnerové panely, bude zavřen { $tabCount } kontejnerový panel. Opravdu chcete zakázat kontejnerové panely?
         [few] Zakážete-li kontejnerové panely, budou zavřeny { $tabCount } kontejnerové panely. Opravdu chcete zakázat kontejnerové panely?
        *[other] Zakážete-li kontejnerové panely, bude zavřeno { $tabCount } kontejnerových panelů. Opravdu chcete zakázat kontejnerové panely?
     }
-containers-disable-alert-ok-button = { $tabCount ->
+containers-disable-alert-ok-button =
+    { $tabCount ->
         [one] Zavřít { $tabCount } kontejnerový panel
         [few] Zavřít { $tabCount } kontejnerové panely
        *[other] Zavřít { $tabCount } kontejnerových panelů
@@ -174,11 +179,13 @@ download-save-to =
     .label = Ukládat všechny soubory do složky
     .accesskey = v
 download-choose-folder =
-    .label = { PLATFORM() ->
+    .label =
+        { PLATFORM() ->
             [macos] Vybrat…
            *[other] Procházet…
         }
-    .accesskey = { PLATFORM() ->
+    .accesskey =
+        { PLATFORM() ->
             [macos] y
            *[other] o
         }
