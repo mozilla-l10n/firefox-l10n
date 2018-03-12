@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = எப்போதும்
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] தேர்வுகள்
            *[other] முன்னுரிமைகள்
         }
@@ -77,13 +78,14 @@ startup-prev-session =
     .label = கடைசி நேரத்திலிருந்த உங்களுடைய சாளரங்கள் மற்றும் கீற்றுகளைக் காட்டவும்
 disable-extension =
     .label = துணைநிரலை முடக்கவும்
-home-page-header = உங்களுடைய முகப்பு பக்கத்தைக் காட்டவும்
+home-page-header = முகப்பு பக்கம்
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label = { $tabCount ->
+    .label =
+        { $tabCount ->
             [1] நடப்பு பக்கத்தை பயன்படுத்து
            *[other] நடப்பு பக்கங்களை பயன்படுத்து
         }
@@ -118,11 +120,13 @@ browser-containers-settings =
     .label = அமைவுகள்…
     .accesskey = i
 containers-disable-alert-title = அனைத்து கலன் கீற்றுகளையும் மூடவா?
-containers-disable-alert-desc = { $tabCount ->
+containers-disable-alert-desc =
+    { $tabCount ->
         [one] நீங்கள் இப்போது கொள்கலன் கீற்றுகளை முடக்கினால், { $tabCount } கலன் கீற்று மூடப்படும். கலன் கீற்றுகளைச் செயல்நீக்க வேண்டுமா?
        *[other] நீங்கள் இப்போது கொள்கலன் கீற்றுகளை முடக்கினால், { $tabCount } கலன் கீற்றுகள் மூடப்படும். கலன் கீற்றுகளைச் செயல்நீக்க வேண்டுமா?
     }
-containers-disable-alert-ok-button = { $tabCount ->
+containers-disable-alert-ok-button =
+    { $tabCount ->
         [one] { $tabCount } கலன் கீற்றை மூடு
        *[other] { $tabCount } கலன் கீற்றுகளை மூடு
     }
@@ -165,11 +169,13 @@ download-save-to =
     .label = கோப்புகளை இங்கு சேமி
     .accesskey = v
 download-choose-folder =
-    .label = { PLATFORM() ->
+    .label =
+        { PLATFORM() ->
             [macos] தேர்ந்தெடு...
            *[other] உலாவு...
         }
-    .accesskey = { PLATFORM() ->
+    .accesskey =
+        { PLATFORM() ->
             [macos] த
            *[other] ல
         }
