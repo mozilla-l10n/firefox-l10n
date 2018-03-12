@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = תמיד
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] אפשרויות
            *[other] העדפות
         }
@@ -21,7 +22,8 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
-policies-notice = { PLATFORM() ->
+policies-notice =
+    { PLATFORM() ->
         [windows] הארגון שלך חסם את האפשרות לשנות מספר אפשרויות.
        *[other] הארגון שלך חסם את האפשרות לשנות מספר העדפות.
     }
@@ -81,13 +83,14 @@ startup-prev-session =
     .label = יוצגו החלונות והלשוניות מהפעם האחרונה
 disable-extension =
     .label = נטרול הרחבה
-home-page-header = דף הבית
+home-page-header = יוצג דף הבית
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label = { $tabCount ->
+    .label =
+        { $tabCount ->
             [1] שימוש בדף הנוכחי
            *[other] שימוש בדפים הנוכחיים
         }
@@ -125,11 +128,13 @@ browser-containers-settings =
     .label = הגדרות…
     .accesskey = ג
 containers-disable-alert-title = האם לסגור את כל מגירות הלשוניות?
-containers-disable-alert-desc = { $tabCount ->
+containers-disable-alert-desc =
+    { $tabCount ->
         [one] אם האפשרות „לשוניות מגירות” תבוטל כעת, מגירת לשונית אחת תיסגר. האם ברצונך לבטל את מגירות הלשוניות?
        *[other] אם האפשרות „לשוניות מגירות” תבוטל כעת, { $tabCount } מגירות לשוניות תסגרנה. האם ברצונך לבטל את מגירות הלשוניות?
     }
-containers-disable-alert-ok-button = { $tabCount ->
+containers-disable-alert-ok-button =
+    { $tabCount ->
         [one] סגירת מגירת לשונית אחת
        *[other] סגירת { $tabCount } מגירות לשוניות
     }
@@ -172,11 +177,13 @@ download-save-to =
     .label = שמירת קבצים אל
     .accesskey = ק
 download-choose-folder =
-    .label = { PLATFORM() ->
+    .label =
+        { PLATFORM() ->
             [macos] בחירה…
            *[other] עיון…
         }
-    .accesskey = { PLATFORM() ->
+    .accesskey =
+        { PLATFORM() ->
             [macos] ב
            *[other] י
         }
