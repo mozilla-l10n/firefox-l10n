@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = An-còmhnaidh
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Roghainnean
            *[other] Roghainnean
         }
@@ -21,7 +22,8 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 17em
-policies-notice = { PLATFORM() ->
+policies-notice =
+    { PLATFORM() ->
         [windows] Chuir am buidheann agad casg air atharrachadh cuid a roghainnean.
        *[other] Chuir am buidheann agad casg air atharrachadh cuid a roghainnean.
     }
@@ -87,7 +89,8 @@ home-page-header = Seall an duilleag-dhachaigh agad
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label = { $tabCount ->
+    .label =
+        { $tabCount ->
             [1] Cleachd an duilleag làithreach
            *[other] Cleachd na duilleagan làithreach
         }
@@ -125,13 +128,15 @@ browser-containers-settings =
     .label = Roghainnean…
     .accesskey = i
 containers-disable-alert-title = A bheil thu airson gach taba soithich a dhùnadh?
-containers-disable-alert-desc = { $tabCount ->
+containers-disable-alert-desc =
+    { $tabCount ->
         [one] Ma chuireas tu tabaichean soithich à comas an-dràsta, thèid { $tabCount } taba soithich a dhùnadh an-dràsta. A bheil thu cinnteach gu bheil thu airson na tabaichean soithich a chur à comas?
         [two] Ma chuireas tu tabaichean soithich à comas an-dràsta, thèid { $tabCount } thaba soithich a dhùnadh an-dràsta. A bheil thu cinnteach gu bheil thu airson na tabaichean soithich a chur à comas?
         [few] Ma chuireas tu tabaichean soithich à comas an-dràsta, thèid { $tabCount } tabaichean soithich a dhùnadh an-dràsta. A bheil thu cinnteach gu bheil thu airson na tabaichean soithich a chur à comas?
        *[other] Ma chuireas tu tabaichean soithich à comas an-dràsta, thèid { $tabCount } taba soithich a dhùnadh an-dràsta. A bheil thu cinnteach gu bheil thu airson na tabaichean soithich a chur à comas?
     }
-containers-disable-alert-ok-button = { $tabCount ->
+containers-disable-alert-ok-button =
+    { $tabCount ->
         [one] Dùin { $tabCount } taba soithich
         [two] Dùin { $tabCount } thaba soithich
         [few] Dùin { $tabCount } tabaichean soithich
@@ -176,11 +181,13 @@ download-save-to =
     .label = Sàbhail faidhlichean ann an
     .accesskey = S
 download-choose-folder =
-    .label = { PLATFORM() ->
+    .label =
+        { PLATFORM() ->
             [macos] Tagh…
            *[other] Brabhsaich…
         }
-    .accesskey = { PLATFORM() ->
+    .accesskey =
+        { PLATFORM() ->
             [macos] T
            *[other] B
         }
