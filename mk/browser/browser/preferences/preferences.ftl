@@ -47,7 +47,7 @@ startup-blank-page =
     .label = Прикажи празна страница
 startup-prev-session =
     .label = Прикажи ги прозорците и јазичињата од последниот пат
-home-page-header = Прикажи ја мојата почетна страница
+home-page-header = Почетна страница
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
