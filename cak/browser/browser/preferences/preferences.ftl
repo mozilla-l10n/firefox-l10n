@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Junelïk
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Taq cha'oj
            *[other] Taq ajowab'äl
         }
@@ -21,7 +22,8 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
-policies-notice = { PLATFORM() ->
+policies-notice =
+    { PLATFORM() ->
         [windows] Ri amoloj xeruchüp rub'eyal richin yejal jujun taq cha'oj.
        *[other] Ri amoloj xeruchüp rub'eyal richin yejal jujun taq ajowab'äl.
     }
@@ -81,13 +83,14 @@ startup-prev-session =
     .label = Kek'ut ri taq rutzuwäch chuqa' taq ruwi' ruk'isib'äl rumolojri'ïl
 disable-extension =
     .label = Tichup ri K'amal
-home-page-header = Tik'ut pe ri tikirib'äl ruxaq ruk'amaya'l
+home-page-header = Tikirib'äl ruxaq
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label = { $tabCount ->
+    .label =
+        { $tabCount ->
             [1] Tokisäx ri ruxaq k'amaya'l k'o wakami
            *[other] Ke'okisäx ri taq ruxaq k'amaya'l e k'o wakami
         }
@@ -125,11 +128,13 @@ browser-containers-settings =
     .label = Taq nuk'ulem…
     .accesskey = l
 containers-disable-alert-title = ¿La yetz'apïx konojel ri kik'ojlib'al taq ruwi'?
-containers-disable-alert-desc = { $tabCount ->
+containers-disable-alert-desc =
+    { $tabCount ->
         [one] We ye'achüp ri ruk'ojlib'al taq ruwi' wakami, { $tabCount } ruk'ojlib'al ruwi' xtitz'apïx. ¿La kan nawajo' ye'achüp ruk'ojlib'al taq ruwi'?
        *[other] We ye'achüp ri kik'ojlib'al taq ruwi' wakami, { $tabCount } kik'ojlib'al taq ruwi' xketz'apïx. ¿La kan nawajo' ye'achüp ri ruk'ojlib'al taq ruwi'?
     }
-containers-disable-alert-ok-button = { $tabCount ->
+containers-disable-alert-ok-button =
+    { $tabCount ->
         [one] Titz'apïx { $tabCount } ruk'ojlib'al ruwi'
        *[other] Ketz'apïx { $tabCount } ruk'ojlib'al taq ruwi'
     }
@@ -172,11 +177,13 @@ download-save-to =
     .label = Tiyak pa ruyonil
     .accesskey = y
 download-choose-folder =
-    .label = { PLATFORM() ->
+    .label =
+        { PLATFORM() ->
             [macos] Ticha'…
            *[other] Tinik'öx…
         }
-    .accesskey = { PLATFORM() ->
+    .accesskey =
+        { PLATFORM() ->
             [macos] T
            *[other] n
         }
