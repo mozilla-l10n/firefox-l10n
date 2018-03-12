@@ -77,7 +77,7 @@ startup-prev-session =
     .label = Mussar las fanestras ed ils tabs da l'ultima sesida
 disable-extension =
     .label = Deactivar l'extensiun
-home-page-header = Mussar la pagina da partenza
+home-page-header = Pagina da partenza
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
