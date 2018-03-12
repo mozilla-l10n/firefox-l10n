@@ -83,7 +83,7 @@ startup-prev-session =
     .label = Afișează ferestrele și filele de data trecută
 disable-extension =
     .label = Dezactivează extensia
-home-page-header = Arată pagina de start
+home-page-header = Pagină de start
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
