@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = De longo
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Inpostaçioin
            *[other] Preferense
         }
@@ -21,7 +22,8 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
-policies-notice = { PLATFORM() ->
+policies-notice =
+    { PLATFORM() ->
         [windows] A teu òrganizaçion a l'à dizabilitou a poscibilitæ de cangiâ quarche òpçion
        *[other] A teu òrganizaçion a l'à dizabilitou a poscibilitæ de cangiâ quarche preferensa
     }
@@ -87,7 +89,8 @@ home-page-header = Fanni vedde a pagina iniçiâ
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label = { $tabCount ->
+    .label =
+        { $tabCount ->
             [1] Adeuvia a pagina corente
            *[other] Adeuvia e pagine corenti
         }
@@ -125,11 +128,13 @@ browser-containers-settings =
     .label = Inpostaçioin…
     .accesskey = i
 containers-disable-alert-title = Særa tutti i contegnitoî de feuggi?
-containers-disable-alert-desc = { $tabCount ->
+containers-disable-alert-desc =
+    { $tabCount ->
         [one] Se ti ti dizabiliti i Contegnitoî de Feuggi oua, { $tabCount } contegnitô de feuggi saiâ serou. T'ê seguo de dizabilitâ i Contegnitoî de Feuggi?
        *[other] Se ti ti dizabiliti i Contegnitoî de Feuggi oua, { $tabCount } contegnitoî de feuggi saian seræ. T'ê seguo de dizabilitâ i Contegnitoî de Feuggi?
     }
-containers-disable-alert-ok-button = { $tabCount ->
+containers-disable-alert-ok-button =
+    { $tabCount ->
         [one] Særa { $tabCount } Contegnitô de feuggi
        *[other] Særa { $tabCount } Contegnitoî de feuggi
     }
@@ -172,11 +177,13 @@ download-save-to =
     .label = Sarva file in
     .accesskey = v
 download-choose-folder =
-    .label = { PLATFORM() ->
+    .label =
+        { PLATFORM() ->
             [macos] Çerni…
            *[other] Çerca…
         }
-    .accesskey = { PLATFORM() ->
+    .accesskey =
+        { PLATFORM() ->
             [macos] i
            *[other] Ç
         }
