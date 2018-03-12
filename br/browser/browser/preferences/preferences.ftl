@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Atav
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Dibarzhioù
            *[other] Gwellvezioù
         }
@@ -21,7 +22,8 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
-policies-notice = { PLATFORM() ->
+policies-notice =
+    { PLATFORM() ->
         [windows] Diweredekaet eo bet ho parregezh da gemmañ dibarzhioù 'zo. 
        *[other] Diweredekaet eo bet ho parregezh da gemmañ gwellvezioù 'zo. 
     }
@@ -81,13 +83,13 @@ startup-prev-session =
     .label = Diskouez ma frenestroù hag ivinelloù evel ar wech diwezhañ
 disable-extension =
     .label = Diweredekaat an askouezh
-home-page-header = Diskouez ma fennbajennad
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label = { $tabCount ->
+    .label =
+        { $tabCount ->
             [1] Arverañ ar bajenn vremanel
            *[other] Arverañ ar pajennoù bremanel
         }
@@ -125,6 +127,12 @@ browser-containers-settings =
     .label = Arventennoù…
     .accesskey = v
 containers-disable-alert-title = Serriñ an holl ivinelloù endalc'her?
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] Serriñ { $tabCount } ivinell endalc'her
+        [two] Serriñ { $tabCount } ivinell endalc'her
+       *[other] Serriñ { $tabCount } ivinell endalc'her
+    }
 containers-disable-alert-cancel-button = Leuskel gweredekaet
 
 ## General Section - Language & Appearance
@@ -164,11 +172,13 @@ download-save-to =
     .label = Enrollañ restroù e-barzh
     .accesskey = o
 download-choose-folder =
-    .label = { PLATFORM() ->
+    .label =
+        { PLATFORM() ->
             [macos] Diuzañ…
            *[other] Furchal…
         }
-    .accesskey = { PLATFORM() ->
+    .accesskey =
+        { PLATFORM() ->
             [macos] D
            *[other] F
         }
