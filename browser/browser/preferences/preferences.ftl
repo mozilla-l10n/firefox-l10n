@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Pśecej
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Nastajenja
            *[other] Nastajenja
         }
@@ -21,7 +22,8 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
-policies-notice = { PLATFORM() ->
+policies-notice =
+    { PLATFORM() ->
         [windows] Waša organizacija jo změny někotarych nastajenjow znjemóžnił.
        *[other] Waša organizacija jo změny někotarych nastajenjow znjemóžnił.
     }
@@ -81,13 +83,14 @@ startup-prev-session =
     .label = Waše wokna a rejtarki wót slědnego raza pokazaś
 disable-extension =
     .label = Rozšyrjenje znjemóžniś
-home-page-header = Waš startowy bok pokazaś
+home-page-header = Startowy bok
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label = { $tabCount ->
+    .label =
+        { $tabCount ->
             [1] Aktualny bok wužywaś
            *[other] Aktualne boki wužywaś
         }
@@ -125,13 +128,15 @@ browser-containers-settings =
     .label = Nastajenja…
     .accesskey = s
 containers-disable-alert-title = Wše kontejnerowe rejtarki zacyniś?
-containers-disable-alert-desc = { $tabCount ->
+containers-disable-alert-desc =
+    { $tabCount ->
         [one] Jolic znjemóžnjaśo něnto kontejnerowe rejtarki, se { $tabCount } kontejnerowy rejtark zacynijo. Cośo kontejnerowe rejtarki napšawdu znjemóžniś?
         [two] Jolic znjemóžnjaśo něnto kontejnerowe rejtarki, se { $tabCount } kontejnerowej rejtarka zacynijotej. Cośo kontejnerowe rejtarki napšawdu znjemóžniś?
         [few] Jolic znjemóžnjaśo něnto kontejnerowe rejtarki, se { $tabCount } kontejnerowe rejtarki zacyniju. Cośo kontejnerowe rejtarki napšawdu znjemóžniś?
        *[other] Jolic znjemóžnjaśo něnto kontejnerowe rejtarki, se { $tabCount } kontejnerowych rejtarkow zacynijo. Cośo kontejnerowe rejtarki napšawdu znjemóžniś?
     }
-containers-disable-alert-ok-button = { $tabCount ->
+containers-disable-alert-ok-button =
+    { $tabCount ->
         [one] { $tabCount } kontejnerowy rejtark zacyniś
         [two] { $tabCount } kontejnerowej rejtarka zacyniś
         [few] { $tabCount } kontejnerowe rejtarki zacyniś
@@ -176,11 +181,13 @@ download-save-to =
     .label = Dataje składowaś do
     .accesskey = D
 download-choose-folder =
-    .label = { PLATFORM() ->
+    .label =
+        { PLATFORM() ->
             [macos] Wubraś…
            *[other] Pśepytaś…
         }
-    .accesskey = { PLATFORM() ->
+    .accesskey =
+        { PLATFORM() ->
             [macos] u
            *[other] e
         }
