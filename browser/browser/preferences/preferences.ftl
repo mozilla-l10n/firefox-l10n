@@ -78,7 +78,7 @@ startup-prev-session =
     .label = Алдында ашылған терезелер мен беттерді көрсету
 disable-extension =
     .label = Кеңейтуді сөндіру
-home-page-header = Үй парағыңызды көрсету
+home-page-header = Үй парағы
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
