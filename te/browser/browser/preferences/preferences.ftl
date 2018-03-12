@@ -8,7 +8,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = ఎల్లప్పుడూ
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] ఎంపికలు
            *[other] అభిరుచులు
         }
@@ -76,13 +77,14 @@ startup-prev-session =
     .label = చివరిగా మీరు చూసిన విండోలను ట్యాబులను చూపించు
 disable-extension =
     .label = పొడగింతను అచేతనించు
-home-page-header = నా ముంగిలి పేజీని చూపించు
+home-page-header = ముంగిలి పేజీ
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label = { $tabCount ->
+    .label =
+        { $tabCount ->
             [1] ప్రస్తుత పేజీని వాడు
            *[other] ప్రస్తుత పేజీలను వాడు
         }
@@ -120,11 +122,13 @@ browser-containers-settings =
     .label = అమరికలు…
     .accesskey = i
 containers-disable-alert-title = అన్ని కంటైనర్ ట్యాబులు మూసివేయాలా?
-containers-disable-alert-desc = { $tabCount ->
+containers-disable-alert-desc =
+    { $tabCount ->
         [one] మీరు ఇప్పుడు కంటైనర్ ట్యాబ్లు ఆపివేసినా, { $tabCount } కంటైనర్ ట్యాబు మూసివేయబడుతుంది. మీరు కంటైనర్ ట్యాబులు అచేతనించుటకు నిశ్చయించుకున్నారా?
        *[other] మీరు ఇప్పుడు కంటైనర్లు ట్యాబ్లు ఆపివేసినా, { $tabCount } కంటైనర్ ట్యాబులు మూసివేయబడతాయి. మీరు ఖచ్చితంగా కంటైనర్లు ట్యాబ్లు అచేతనించాలనుకుంటున్నారా?
     }
-containers-disable-alert-ok-button = { $tabCount ->
+containers-disable-alert-ok-button =
+    { $tabCount ->
         [one] { $tabCount } కంటైనర్ ట్యాబు మూసివేయి
        *[other] { $tabCount } కంటైనర్ ట్యాబులను మూసివేయి
     }
@@ -167,11 +171,13 @@ download-save-to =
     .label = ఇచట ఫైల్సు భద్రపరచు
     .accesskey = v
 download-choose-folder =
-    .label = { PLATFORM() ->
+    .label =
+        { PLATFORM() ->
             [macos] ఎంచుకోండి…
            *[other] విహరించు…
         }
-    .accesskey = { PLATFORM() ->
+    .accesskey =
+        { PLATFORM() ->
             [macos] e
            *[other] o
         }
