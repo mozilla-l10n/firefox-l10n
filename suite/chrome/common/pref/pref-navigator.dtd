@@ -41,10 +41,10 @@
 <!ENTITY useDefault.label               "初期設定に戻す">
 <!ENTITY useDefault.accesskey           "R">
 
-<!ENTITY defaultBrowserGroup.label      "デフォルト Web ブラウザー">
-<!ENTITY defaultBrowserButton.label     "デフォルト Web ブラウザーに設定">
+<!ENTITY defaultBrowserGroup.label      "デフォルトウェブブラウザー">
+<!ENTITY defaultBrowserButton.label     "デフォルトウェブブラウザーに設定">
 <!ENTITY defaultBrowserButton.accesskey "D">
-<!ENTITY alreadyDefaultText             "&brandShortName; はすでにデフォルト Web ブラウザーに設定されています。">
-<!ENTITY defaultPendingText             "OK をクリックすると &brandShortName; はデフォルト Web ブラウザーに設定されます。">
-<!ENTITY wasMadeDefaultText             "&brandShortName; はデフォルト Web ブラウザーに設定されています。">
-<!ENTITY makeDefaultText                "&brandShortName; をデフォルト Web ブラウザーに設定します。">
+<!ENTITY alreadyDefaultText             "&brandShortName; はすでにデフォルトウェブブラウザーに設定されています。">
+<!ENTITY defaultPendingText             "OK をクリックすると &brandShortName; はデフォルトウェブブラウザーに設定されます。">
+<!ENTITY wasMadeDefaultText             "&brandShortName; はデフォルトウェブブラウザーに設定されています。">
+<!ENTITY makeDefaultText                "&brandShortName; をデフォルトウェブブラウザーに設定します。">

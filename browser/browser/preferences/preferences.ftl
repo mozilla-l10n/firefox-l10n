@@ -60,12 +60,12 @@ use-firefox-sync = ヒント: これは別のプロファイルを使用しま�
 get-started-not-logged-in = { -sync-brand-short-name } にログインする...
 get-started-configured = { -sync-brand-short-name } 設定を開く
 always-check-default =
-    .label = { -brand-short-name } がデフォルト Web ブラウザーか確認する
+    .label = { -brand-short-name } がデフォルトウェブブラウザーか確認する
     .accesskey = y
-is-default = { -brand-short-name } はデフォルト Web ブラウザーに設定されています
-is-not-default = { -brand-short-name } はデフォルト Web ブラウザーに設定されていません
+is-default = { -brand-short-name } はデフォルトウェブブラウザーに設定されています
+is-not-default = { -brand-short-name } はデフォルトウェブブラウザーに設定されていません
 set-as-my-default-browser =
-    .label = デフォルト Web ブラウザーにする...
+    .label = デフォルトウェブブラウザーにする...
     .accesskey = D
 startup-page = { -brand-short-name } を起動するとき
     .accesskey = s
@@ -166,7 +166,7 @@ download-choose-folder =
     .label =
         { PLATFORM() ->
             [macos] 選択...
-           *[other] 選択...
+           *[other] 参照...
         }
     .accesskey =
         { PLATFORM() ->
