@@ -44,7 +44,7 @@
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Podmienky používania služby">
-<!ENTITY fxaPrivacyNotice.link.label "Zásady ochrany osobných údajov">
+<!ENTITY fxaPrivacyNotice.link.label "Zásady ochrany súkromia">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -70,11 +70,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY verifiedManage.accesskey     "p">
 <!ENTITY disconnect3.label            "Odpojiť…">
 <!ENTITY disconnect3.accesskey        "d">
-<!ENTITY verify.label                "Overiť e-mailovú adresu">
-<!ENTITY verify.accesskey            "a">
-<!ENTITY forget.label                "Zabudnúť na túto e-mailovú adresu">
-<!ENTITY forget.accesskey            "b">
-
 <!ENTITY resendVerification.label     "Znova odoslať overenie">
 <!ENTITY resendVerification.accesskey "d">
 <!ENTITY cancelSetup.label            "Zrušiť nastavenie">
