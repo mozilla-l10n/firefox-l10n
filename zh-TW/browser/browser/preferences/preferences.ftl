@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = 總是
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] 選項
            *[other] 偏好設定
         }
@@ -21,7 +22,8 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
-policies-notice = { PLATFORM() ->
+policies-notice =
+    { PLATFORM() ->
         [windows] 您的組織已鎖定某些選項。
        *[other] 您的組織已鎖定某些偏好設定。
     }
@@ -81,13 +83,14 @@ startup-prev-session =
     .label = 顯示您上次瀏覽的視窗與分頁
 disable-extension =
     .label = 停用擴充套件
-home-page-header = 顯示您的首頁
+home-page-header = 首頁
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label = { $tabCount ->
+    .label =
+        { $tabCount ->
             [1] 使用目前頁面
            *[other] 使用目前所有頁面
         }
@@ -166,11 +169,13 @@ download-save-to =
     .label = 儲存檔案到
     .accesskey = v
 download-choose-folder =
-    .label = { PLATFORM() ->
+    .label =
+        { PLATFORM() ->
             [macos] 選擇…
            *[other] 瀏覽…
         }
-    .accesskey = { PLATFORM() ->
+    .accesskey =
+        { PLATFORM() ->
             [macos] e
            *[other] o
         }
