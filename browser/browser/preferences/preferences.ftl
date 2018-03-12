@@ -78,7 +78,7 @@ startup-prev-session =
     .label = prikaži nazadnje odprta okna in zavihke
 disable-extension =
     .label = Onemogoči razširitev
-home-page-header = prikaži domačo stran
+home-page-header = Domača stran
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
