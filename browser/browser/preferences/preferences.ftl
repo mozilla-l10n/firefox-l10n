@@ -78,7 +78,7 @@ startup-prev-session =
     .label = Tampilkan jendela dan tab dari sesi terakhir Anda
 disable-extension =
     .label = Nonaktifkan Ekstensi
-home-page-header = Tampilkan beranda Anda
+home-page-header = Beranda
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
