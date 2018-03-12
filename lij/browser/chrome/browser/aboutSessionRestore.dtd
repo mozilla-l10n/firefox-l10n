@@ -45,8 +45,8 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
-<!ENTITY welcomeback2.beforelink.pageInfo2  "I conponenti azonti instalæ i ò cancelæ e e inpostaçioin do navegatô en torna co-i valoî predefinii. ">
-<!ENTITY welcomeback2.afterlink.pageInfo2   " se sta operaçion a no t'à risòlto i problemi.">
+<!ENTITY welcomeback2.beforelink.pageInfo2  "I conponenti azonti instalæ i ò cancelæ e e inpostaçioin do navegatô en torna co-i valoî predefinii. Se sta operaçion a no t'à risòlto i problemi, ">
+<!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "Descòvri e atre soloçioin ch'emmo">
 
