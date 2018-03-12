@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Alltid
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Innstillingar
            *[other] Innstillingar
         }
@@ -83,7 +84,8 @@ home-page-header = Vis startsida
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label = { $tabCount ->
+    .label =
+        { $tabCount ->
             [1] Bruk open nettside
            *[other] Bruk opne nettsider
         }
@@ -121,11 +123,13 @@ browser-containers-settings =
     .label = Innstillingar…
     .accesskey = I
 containers-disable-alert-title = Late att alle innhaldsfaner?
-containers-disable-alert-desc = { $tabCount ->
+containers-disable-alert-desc =
+    { $tabCount ->
         [one] Dersom du deaktiverer innhaldsfaner no, vil { $tabCount } innhaldsfane bli stengt. Er du sikker på at du vil deaktivere innhaldsfaner?
        *[other] Dersom du deaktiverer innhaldsfaner no, vil { $tabCount } innhaldsfaner bli stengt. Er du sikker på at du vil deaktivere innhaldsfaner?
     }
-containers-disable-alert-ok-button = { $tabCount ->
+containers-disable-alert-ok-button =
+    { $tabCount ->
         [one] Lat att { $tabCount } innhaldsfane
        *[other] Lat att { $tabCount } innhaldsfaner
     }
@@ -168,11 +172,13 @@ download-save-to =
     .label = Lagre filer i
     .accesskey = L
 download-choose-folder =
-    .label = { PLATFORM() ->
+    .label =
+        { PLATFORM() ->
             [macos] Vel…
            *[other] Bla gjennom…
         }
-    .accesskey = { PLATFORM() ->
+    .accesskey =
+        { PLATFORM() ->
             [macos] V
            *[other] o
         }
