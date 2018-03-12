@@ -77,7 +77,7 @@ startup-prev-session =
     .label = Vis mine vinduer og faneblade fra sidste gang
 disable-extension =
     .label = Deaktiver udvidelse
-home-page-header = Vis min startside
+home-page-header = Startside:
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -122,7 +122,7 @@ containers-disable-alert-title = Luk alle kontekst-faneblade?
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Hvis du deaktiverer kontekst-faneblade vil { $tabCount } kontekst-faneblad blive lukket. Er du sikker på, at du vil deaktivere kontekst-faneblade?
-       *[other]  Hvis du deaktiverer kontekst-faneblade vil { $tabCount } kontekst-faneblade blive lukket. Er du sikker på, at du vil deaktivere kontekst-faneblade?
+       *[other] Hvis du deaktiverer kontekst-faneblade vil { $tabCount } kontekst-faneblade blive lukket. Er du sikker på, at du vil deaktivere kontekst-faneblade?
     }
 containers-disable-alert-ok-button =
     { $tabCount ->
