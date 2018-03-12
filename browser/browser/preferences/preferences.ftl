@@ -77,7 +77,7 @@ startup-prev-session =
     .label = Εμφάνιση παραθύρων και καρτελών από την τελευταία φορά
 disable-extension =
     .label = Απενεργοποίηση επέκτασης
-home-page-header = Εμφάνιση αρχικής σελίδας
+home-page-header = Αρχική σελίδα
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
