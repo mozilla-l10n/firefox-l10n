@@ -30,6 +30,7 @@ available. -->
 
 <!ENTITY healthReportLearnMore.label     "Atre informaçioin">
 
+<!ENTITY dataCollectionDesc.label        "Niatri çerchemmo de lasciâ a ti a decixon e de sarvase solo quello ch'o ne serve pe megiorâ &brandShortName; pe tutti. Niatri te domandiemo de longo o permisso primma de reçeive informaçioin personâ.">
 
 <!ENTITY alwaysSubmitCrashReports1.label  "Permetti a &brandShortName; de mandâ report di cianti a Mozilla">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "c">
@@ -109,6 +110,7 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "D">
 <!ENTITY enableOCSP.label                "Domanda a-i risponditoî OCSP pe confermâ a validitæ di certificati oua">
 <!ENTITY enableOCSP.accesskey            "o">
+<!ENTITY viewCerts2.label                "Fanni vedde certificati…">
 
 <!ENTITY performance.label               "Prestaçioin">
 <!ENTITY useRecommendedPerformanceSettings2.label
