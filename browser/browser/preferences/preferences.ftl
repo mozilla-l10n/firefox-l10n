@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Bob tro
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Dewisiadau
            *[other] Dewisiadau
         }
@@ -21,7 +22,8 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
-policies-notice = { PLATFORM() ->
+policies-notice =
+    { PLATFORM() ->
         [windows] Mae eich corff wedi analluogi'r gallu i newid rhai dewisiadau.
        *[other] Mae eich corff wedi analluogi'r gallu i newid rhai dewisiadau.
     }
@@ -81,13 +83,14 @@ startup-prev-session =
     .label = Dangos fy ffenestri a'm tabiau o'r tro diwethaf
 disable-extension =
     .label = Analluogi Estyniad
-home-page-header = Dangos fy nhudalen cartref
+home-page-header = Tudalen cartref
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label = { $tabCount ->
+    .label =
+        { $tabCount ->
             [1] Defnyddio'r Dudalen Bresennol
            *[other] Defnyddio'r Dudalen Bresennol
         }
@@ -125,7 +128,8 @@ browser-containers-settings =
     .label = Gosodiadau…
     .accesskey = G
 containers-disable-alert-title = Cau Tabiau Pob Cynhwysydd?
-containers-disable-alert-desc = { $tabCount ->
+containers-disable-alert-desc =
+    { $tabCount ->
         [zero] Os fyddwch yn analluogi'r Tabiau Cynhwysydd, nid fydd tabiau cynhwysydd yn cael eu cau. Ydych chi'n siŵr eich bod am analluogi Tabiau Cynhwysyddion?
         [one] Os fyddwch yn analluogi Tabiau Cynhwysyddion nawr, bydd { $tabCount } cynhwysydd tabiau yn cael ei gau. Ydych chi'n siŵr eich bod am analluogi Tabiau Cynhwysyddion?
         [two] Os fyddwch yn analluogi Tabiau Cynhwysyddion nawr, bydd { $tabCount } gynhwysydd tabiau yn cael eu cau. Ydych chi'n siŵr eich bod am analluogi Tabiau Cynhwysyddion?
@@ -133,7 +137,8 @@ containers-disable-alert-desc = { $tabCount ->
         [many] Os fyddwch yn analluogi Tabiau Cynhwysyddion nawr, bydd { $tabCount } cynhwysydd tabiau yn cael eu cau. Ydych chi'n siŵr eich bod am analluogi Tabiau Cynhwysyddion?
        *[other] Os fyddwch yn analluogi Tabiau Cynhwysyddion nawr, bydd { $tabCount } cynhwysydd tabiau yn cael eu cau. Ydych chi'n siŵr eich bod am analluogi Tabiau Cynhwysyddion?
     }
-containers-disable-alert-ok-button = { $tabCount ->
+containers-disable-alert-ok-button =
+    { $tabCount ->
         [zero] Peidio Cau Tabiau Cynhwysydd
         [one] Cau { $tabCount } Tab Cynhwysydd
         [two] Cau { $tabCount } Dab Cynhwysydd
@@ -180,11 +185,13 @@ download-save-to =
     .label = Cadw ffeiliau yn
     .accesskey = a
 download-choose-folder =
-    .label = { PLATFORM() ->
+    .label =
+        { PLATFORM() ->
             [macos] Dewis…
            *[other] Pori…
         }
-    .accesskey = { PLATFORM() ->
+    .accesskey =
+        { PLATFORM() ->
             [macos] D
            *[other] P
         }
