@@ -240,9 +240,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Vi blokis sciigojn por tiu ĉi retejo.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Vi blokis la daŭran konservejon por ĉi tiu retejo.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Vi blokis ŝprucfenestrojn por tiu ĉi retejo.">
-
 <!ENTITY urlbar.canvasBlocked.tooltip            "Vi blokis la eltiron de datumoj el kanvaso por tiu ĉi retejo.">
 
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "Vi blokis la kromprogramon Adobe Flash en tiu ĉi retejo.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Vi blokis la aliron MIDI por tiu ĉi retejo.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Montri historion">
@@ -388,7 +388,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "Neniu spegulita langeto… ankoraŭ!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Ĉu vi volas vidi ĉi tie viajn langetojn el aliaj aparatoj?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferoj de Spegulado">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Malfermi preferojn de spegulado">
@@ -397,7 +396,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Komencu seancon en Spegulado">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Administri aparatojn…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Vidi flankan strion de spegulitaj langetoj">
-
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Konekti alian aparaton">
 
 <!ENTITY appMenuRecentHighlights.label "Ĵusaj elstaraĵoj">
@@ -806,7 +804,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Spegulitaj langetoj">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Komencu seancon en Firefox, el viaj aliaj aparatoj, por vidi iliajn langetojn ĉi tie.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "Neniu spegulita langeto… ankoraŭ!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Ĉu vi volas vidi ĉi tie viajn langetojn el aliaj aparatoj?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Komencu seancon por vidi liston de langetoj el viaj aliaj aparatoj.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "Via konto bezonas esti kontrolita.">
@@ -816,7 +813,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Ŝaltu la speguladon de langetoj por vidi liston de langetoj el viaj aliaj aparatoj.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Serĉi spegulitajn langetojn">
-
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Konekti alian aparaton">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
