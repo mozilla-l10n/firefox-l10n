@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Siempre
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Opcions
            *[other] Preferencias
         }
@@ -77,13 +78,14 @@ startup-prev-session =
     .label = Amostrar las mías finestras y pestanyas d'a zaguer vegada
 disable-extension =
     .label = Desactivar extensión
-home-page-header = Amostrar la mía pachina d'inicio
+home-page-header = Pachina d'inicio
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label = { $tabCount ->
+    .label =
+        { $tabCount ->
             [1] Usar pachina actual
            *[other] Usar pachinas actuals
         }
@@ -121,11 +123,13 @@ browser-containers-settings =
     .label = Configuración…
     .accesskey = g
 containers-disable-alert-title = Zarrar totas las pestanyas de contenedor?
-containers-disable-alert-desc = { $tabCount ->
+containers-disable-alert-desc =
+    { $tabCount ->
         [one] Si desactiva agora las pestanyas de contenedor, se zarrará { $tabCount } pestanya de contenedor. Ye seguro de fer-lo?
        *[other] Si desactiva agora las pestanyas de contenedor, se zarrará { $tabCount } pestanyas de contenedor. Ye seguro de fer-lo?
     }
-containers-disable-alert-ok-button = { $tabCount ->
+containers-disable-alert-ok-button =
+    { $tabCount ->
         [one] Zarrar { $tabCount } pestanya de contenedor
        *[other] Zarrar { $tabCount } pestanyas de contenedor
     }
@@ -168,11 +172,13 @@ download-save-to =
     .label = Alzar os fichers en
     .accesskey = A
 download-choose-folder =
-    .label = { PLATFORM() ->
+    .label =
+        { PLATFORM() ->
             [macos] Trigar…
            *[other] Examinar…
         }
-    .accesskey = { PLATFORM() ->
+    .accesskey =
+        { PLATFORM() ->
             [macos] T
            *[other] x
         }
