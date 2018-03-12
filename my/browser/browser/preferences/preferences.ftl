@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = အမြဲတမ်း
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] ရွေးစရာများ
            *[other] နှစ်သက်ရာ အပြင်အဆင်များ
         }
@@ -21,7 +22,8 @@ pref-page =
 # Do not translate.
 search-input =
     .style = အကျယ် - ၁၅.၄အီးမမ်
-policies-notice = { PLATFORM() ->
+policies-notice =
+    { PLATFORM() ->
         [windows] သင့် အဖွဲ့အစည်းမှ အခြားသော လုပ်ဆောင်ချက်များအား တားမြစ်ထားသည်
        *[other] သင့် အဖွဲ့အစည်းမှ အခြားသော  လုပ်ဆောင်ချက် အပြင်အဆင် များအား တားမြစ်ထားသည်
     }
@@ -87,7 +89,8 @@ home-page-header = မူလစာမျက်နှာကို ပြပါ
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label = { $tabCount ->
+    .label =
+        { $tabCount ->
             [1] လက်ရှိစာမျက်နှာကို အသုံးပြုပါ
            *[other] လက်ရှိဖွင့်ထားသည့် စာမျက်နှာများကို အသုံးပြုပါ
         }
@@ -160,11 +163,13 @@ download-save-to =
     .label = ဖိုင်များကို ထိုနေရာတွင် သိမ်းရန်
     .accesskey = v
 download-choose-folder =
-    .label = { PLATFORM() ->
+    .label =
+        { PLATFORM() ->
             [macos] ရွေးပါ…
            *[other] ရှာဖွေရန်…
         }
-    .accesskey = { PLATFORM() ->
+    .accesskey =
+        { PLATFORM() ->
             [macos] e
            *[other] o
         }
