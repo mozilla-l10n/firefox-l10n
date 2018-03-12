@@ -77,7 +77,7 @@ startup-prev-session =
     .label = সর্বশেষ ব্যবহারের সময় উপস্থিত উইন্ডো ও ট্যাব প্রদর্শন করা হবে
 disable-extension =
     .label = এক্সটেনশনটি নিষ্ক্রিয় করুন
-home-page-header = আপনার হোমপেজ দেখান
+home-page-header = হোম পেজ
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -122,12 +122,12 @@ containers-disable-alert-title = সমস্ত কন্টেইনার ট
 containers-disable-alert-desc =
     { $tabCount ->
         [one] আপনি যদি কন্টেইনার ট্যাব অক্ষম করেন, { $tabCount } কন্টেইনার ট্যাব বন্ধ হয়ে যাবে। আপনি কি নিশ্চিত যে আপনি কন্টেইনার ট্যাব বন্ধ করতে চান?
-       *[other]  আপনি যদি এখন কন্টেইনার ট্যাব বন্ধ করে দেন, { $tabCount } কন্টেইনার ট্যাব বন্ধ হয়ে যাবে। আপনি কি নিশ্চিত যে আপনি কন্টেইনার ট্যাব অক্ষম করতে চান?
+       *[other] আপনি যদি এখন কন্টেইনার ট্যাব বন্ধ করে দেন, { $tabCount } কন্টেইনার ট্যাব বন্ধ হয়ে যাবে। আপনি কি নিশ্চিত যে আপনি কন্টেইনার ট্যাব অক্ষম করতে চান?
     }
 containers-disable-alert-ok-button =
     { $tabCount ->
         [one] { $tabCount } কন্টেইনার ট্যাব বন্ধ করুন
-       *[other]  { $tabCount } কন্টেইনার ট্যাব বন্ধ করুন
+       *[other] { $tabCount } কন্টেইনার ট্যাব বন্ধ করুন
     }
 containers-disable-alert-cancel-button = সক্ষম থাকুন
 
