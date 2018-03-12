@@ -8,7 +8,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = ہمیشہ
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] اختیارات
            *[other] ترجیحات
         }
@@ -72,13 +73,14 @@ startup-prev-session =
     .label = اپنا دریچہ اور آخری وقت کے ٹیب دکھائیں
 disable-extension =
     .label = توسیعات نا اہل بنائیں
-home-page-header = اپنا ہوم صفحہ دکھائیں
+home-page-header = ابتدائی صفحہ
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label = { $tabCount ->
+    .label =
+        { $tabCount ->
             [1] حالیہ صفحہ برتیں
            *[other] حالیہ صفحے استعمال کریں
         }
@@ -113,7 +115,8 @@ browser-containers-settings =
     .label = سیٹنگیں…
     .accesskey = س
 containers-disable-alert-title = تمام  حامل ٹیبس بند کریں
-containers-disable-alert-ok-button = { $tabCount ->
+containers-disable-alert-ok-button =
+    { $tabCount ->
         [one] { $tabCount } کنٹینر ٹیب بند کریں
        *[other] { $tabCount } کنٹینر ٹیبس بند کریں
     }
@@ -154,11 +157,13 @@ download-save-to =
     .label = مسل محفوظ کریں بر
     .accesskey = م
 download-choose-folder =
-    .label = { PLATFORM() ->
+    .label =
+        { PLATFORM() ->
             [macos] انتخاب کریں…
            *[other] براؤز کریں…
         }
-    .accesskey = { PLATFORM() ->
+    .accesskey =
+        { PLATFORM() ->
             [macos] ا
            *[other] ا
         }
