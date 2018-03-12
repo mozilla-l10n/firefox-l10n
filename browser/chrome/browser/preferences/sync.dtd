@@ -27,10 +27,10 @@
 <!ENTITY engine.addons.title        "Utvidelser og temaer for Firefox for datamaskin">
 <!ENTITY engine.addons.accesskey    "U">
 <!ENTITY engine.addresses.label     "Adresser">
-<!ENTITY engine.addresses.title     "Postadresser du har lagret (bar datamaskin)">
+<!ENTITY engine.addresses.title     "Postadresser du har lagret (bare datamaskin)">
 <!ENTITY engine.addresses.accesskey "e">
 <!ENTITY engine.creditcards.label   "Kredittkort">
-<!ENTITY engine.creditcards.title   "Navn, numre og forfallsdato (bar datamaskin)">
+<!ENTITY engine.creditcards.title   "Navn, numre og forfallsdato (bare datamaskin)">
 <!ENTITY engine.creditcards.accesskey "K">
 
 <!-- Device Settings -->
@@ -70,11 +70,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY verifiedManage.accesskey     "o">
 <!ENTITY disconnect3.label            "Koble fra…">
 <!ENTITY disconnect3.accesskey        "f">
-<!ENTITY verify.label                "Bekreft e-post">
-<!ENTITY verify.accesskey            "B">
-<!ENTITY forget.label                "Glem denne e-posten">
-<!ENTITY forget.accesskey            "G">
-
 <!ENTITY resendVerification.label     "Send bekreftelse på nytt">
 <!ENTITY resendVerification.accesskey "d">
 <!ENTITY cancelSetup.label            "Avbryt konfigurasjon">
