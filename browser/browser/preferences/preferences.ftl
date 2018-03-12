@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = 항상
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] 설정
            *[other] 환경 설정
         }
@@ -21,7 +22,8 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
-policies-notice = { PLATFORM() ->
+policies-notice =
+    { PLATFORM() ->
         [windows] 기관에서 몇몇 옵션을 바꿀 수 없게 하였습니다.
        *[other] 기관에서 몇몇 설정을 바꿀 수 없게 하였습니다.
     }
@@ -87,7 +89,8 @@ home-page-header = 홈 페이지 보기
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label = { $tabCount ->
+    .label =
+        { $tabCount ->
             [1] 현재 페이지
            *[other] 현재 탭
         }
@@ -166,11 +169,13 @@ download-save-to =
     .label = 저장 위치
     .accesskey = v
 download-choose-folder =
-    .label = { PLATFORM() ->
+    .label =
+        { PLATFORM() ->
             [macos] 선택…
            *[other] 찾아보기…
         }
-    .accesskey = { PLATFORM() ->
+    .accesskey =
+        { PLATFORM() ->
             [macos] e
            *[other] o
         }
