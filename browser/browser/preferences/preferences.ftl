@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = 始终
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] 选项
            *[other] 首选项
         }
@@ -77,13 +78,14 @@ startup-prev-session =
     .label = 显示您上次的窗口和标签页
 disable-extension =
     .label = 禁用扩展
-home-page-header = 显示您的主页
+home-page-header = 主页
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label = { $tabCount ->
+    .label =
+        { $tabCount ->
             [1] 使用当前页面
            *[other] 使用当前的多个页面
         }
@@ -121,11 +123,13 @@ browser-containers-settings =
     .label = 设置…
     .accesskey = i
 containers-disable-alert-title = 关闭所有身份标签页？
-containers-disable-alert-desc = { $tabCount ->
+containers-disable-alert-desc =
+    { $tabCount ->
         [one] 如果您现在禁用身份标签页，将有 { $tabCount } 个容器标签页被关闭。您确实要禁用身份标签页吗？
        *[other] 如果您现在禁用身份标签页，将有 { $tabCount } 个容器标签页被关闭。您确实要禁用身份标签页吗？
     }
-containers-disable-alert-ok-button = { $tabCount ->
+containers-disable-alert-ok-button =
+    { $tabCount ->
         [one] 关闭 { $tabCount } 个身份标签页
        *[other] 关闭 { $tabCount } 个身份标签页
     }
@@ -168,11 +172,13 @@ download-save-to =
     .label = 保存文件至
     .accesskey = v
 download-choose-folder =
-    .label = { PLATFORM() ->
+    .label =
+        { PLATFORM() ->
             [macos] 选择…
            *[other] 浏览…
         }
-    .accesskey = { PLATFORM() ->
+    .accesskey =
+        { PLATFORM() ->
             [macos] e
            *[other] o
         }
