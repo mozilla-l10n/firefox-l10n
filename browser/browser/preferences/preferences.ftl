@@ -77,7 +77,7 @@ startup-prev-session =
     .label = കഴിഞ്ഞ തവണത്തെ നിങ്ങളുടെ വിന്‍ഡോസും ടാബുകളും പ്രദർശിപ്പിക്കുക
 disable-extension =
     .label = എക്സ്റ്റന്‍ഷന്‍ ഡിസേബിള്‍ ചെയ്യുക
-home-page-header = നിങ്ങളുടെ ഹോം പേജ് കാണിക്കുക
+home-page-header = ഹോം പേജ്
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
