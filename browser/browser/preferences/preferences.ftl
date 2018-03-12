@@ -77,7 +77,7 @@ startup-prev-session =
     .label = atverti paskiausio seanso langus ir korteles
 disable-extension =
     .label = Išjungti priedą
-home-page-header = rodyti pradžios tinklalapį
+home-page-header = Pradžios tinklalapis
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
