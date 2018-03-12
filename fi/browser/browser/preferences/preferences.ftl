@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Aina
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Asetukset
            *[other] Asetukset
         }
@@ -21,7 +22,8 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
-policies-notice = { PLATFORM() ->
+policies-notice =
+    { PLATFORM() ->
         [windows] Organisaatiosi on estänyt joidenkin asetusten muuttamisen.
        *[other] Organisaatiosi on estänyt joidenkin asetusten muuttamisen.
     }
@@ -81,13 +83,14 @@ startup-prev-session =
     .label = Avaa viime istunnon ikkunat ja välilehdet
 disable-extension =
     .label = Poista laajennus käytöstä
-home-page-header = Avaa aloitussivu
+home-page-header = Aloitussivu
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label = { $tabCount ->
+    .label =
+        { $tabCount ->
             [1] Käytä avointa sivua
            *[other] Käytä avoimia sivuja
         }
@@ -125,11 +128,13 @@ browser-containers-settings =
     .label = Asetukset…
     .accesskey = e
 containers-disable-alert-title = Suljetaanko kaikki luokitellut välilehdet?
-containers-disable-alert-desc = { $tabCount ->
+containers-disable-alert-desc =
+    { $tabCount ->
         [one] Jos poistat luokitellut välilehdet käytöstä nyt, { $tabCount } luokiteltu välilehti suljetaan. Haluatko varmasti poistaa luokitellut välilehdet käytöstä?
        *[other] Jos poistat luokitellut välilehdet käytöstä nyt, { $tabCount } luokiteltua välilehteä suljetaan. Haluatko varmasti poistaa luokitellut välilehdet käytöstä?
     }
-containers-disable-alert-ok-button = { $tabCount ->
+containers-disable-alert-ok-button =
+    { $tabCount ->
         [one] Sulje { $tabCount } luokiteltu välilehti
        *[other] Sulje { $tabCount } luokiteltua välilehteä
     }
@@ -172,11 +177,13 @@ download-save-to =
     .label = Tallenna kansioon
     .accesskey = T
 download-choose-folder =
-    .label = { PLATFORM() ->
+    .label =
+        { PLATFORM() ->
             [macos] Valitse…
            *[other] Selaa…
         }
-    .accesskey = { PLATFORM() ->
+    .accesskey =
+        { PLATFORM() ->
             [macos] V
            *[other] S
         }
