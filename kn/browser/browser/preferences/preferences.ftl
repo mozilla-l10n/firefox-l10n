@@ -78,7 +78,7 @@ startup-prev-session =
     .label = ಹಿಂದಿನ ಬಾರಿಯ ನಿನ್ನ ಕಿಟಕಿ ಹಾಗು ಟ್ಯಾಬ್‌ಗಳನ್ನು ತೋರಿಸು
 disable-extension =
     .label = ಎಕ್ಸ್‌ಟೆನ್ಶನ್ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸು
-home-page-header = ನನ್ನ ನೆಲೆ ತಾಣವನ್ನು ತೋರಿಸು
+home-page-header = ಮುಖಪುಟ
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
