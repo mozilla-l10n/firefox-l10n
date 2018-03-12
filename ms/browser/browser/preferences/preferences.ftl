@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Sentiasa
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Pilihan
            *[other] Keutamaan
         }
@@ -21,7 +22,8 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
-policies-notice = { PLATFORM() ->
+policies-notice =
+    { PLATFORM() ->
         [windows] Organisasi anda telah menyahdayakan keupayaan untuk mengubah beberapa pilihan.
        *[other] Organisasi anda telah menyahdayakan keupayaan untuk mengubah beberapa keutamaan.
     }
@@ -81,13 +83,14 @@ startup-prev-session =
     .label = Papar tetingkap dan tab anda yang terdahulu
 disable-extension =
     .label = Nyahdayakan Ekstensi
-home-page-header = Halaman utama
+home-page-header = Papar halaman utama anda
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label = { $tabCount ->
+    .label =
+        { $tabCount ->
             [1] Gunakan Halaman Semasa
            *[other] Gunakan Halaman Semasa
         }
@@ -166,11 +169,13 @@ download-save-to =
     .label = Simpan fail ke
     .accesskey = n
 download-choose-folder =
-    .label = { PLATFORM() ->
+    .label =
+        { PLATFORM() ->
             [macos] Pilih…
            *[other] Cari…
         }
-    .accesskey = { PLATFORM() ->
+    .accesskey =
+        { PLATFORM() ->
             [macos] P
            *[other] r
         }
