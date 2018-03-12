@@ -83,7 +83,7 @@ startup-prev-session =
     .label = יוצגו החלונות והלשוניות מהפעם האחרונה
 disable-extension =
     .label = נטרול הרחבה
-home-page-header = יוצג דף הבית
+home-page-header = דף הבית
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
