@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Toujours
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Options
            *[other] Préférences
         }
@@ -21,7 +22,8 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 19em
-policies-notice = { PLATFORM() ->
+policies-notice =
+    { PLATFORM() ->
         [windows] Votre organisation a désactivé la possibilité de changer certaines options.
        *[other] Votre organisation a désactivé la possibilité de changer certaines préférences.
     }
@@ -81,13 +83,14 @@ startup-prev-session =
     .label = Afficher les derniers onglets et fenêtres utilisés
 disable-extension =
     .label = Désactiver l’extension
-home-page-header = Afficher votre page d’accueil
+home-page-header = Page d’accueil
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label = { $tabCount ->
+    .label =
+        { $tabCount ->
             [1] Page courante
            *[other] Pages courantes
         }
@@ -125,11 +128,13 @@ browser-containers-settings =
     .label = Paramètres…
     .accesskey = s
 containers-disable-alert-title = Fermer tous les onglets contextuels ?
-containers-disable-alert-desc = { $tabCount ->
+containers-disable-alert-desc =
+    { $tabCount ->
         [one] Si vous désactivez les onglets contextuels maintenant, { $tabCount } onglet contextuel sera fermé. Voulez-vous vraiment désactiver les onglets contextuels ?
        *[other] Si vous désactivez les onglets contextuels maintenant, { $tabCount } onglets contextuels seront fermés. Voulez-vous vraiment désactiver les onglets contextuels ?
     }
-containers-disable-alert-ok-button = { $tabCount ->
+containers-disable-alert-ok-button =
+    { $tabCount ->
         [one] Fermer { $tabCount } onglet contextuel
        *[other] Fermer { $tabCount } onglets contextuels
     }
@@ -172,11 +177,13 @@ download-save-to =
     .label = Enregistrer les fichiers dans le dossier
     .accesskey = n
 download-choose-folder =
-    .label = { PLATFORM() ->
+    .label =
+        { PLATFORM() ->
             [macos] Choisir…
            *[other] Parcourir…
         }
-    .accesskey = { PLATFORM() ->
+    .accesskey =
+        { PLATFORM() ->
             [macos] C
            *[other] P
         }
