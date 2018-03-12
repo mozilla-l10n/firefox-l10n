@@ -83,7 +83,7 @@ startup-prev-session =
     .label = Ovetã ha tendaykekuéra tembiapo paha rehegua jehechauka
 disable-extension =
     .label = Moĩmbaha Monge
-home-page-header = Che kuatiarogue ñepyrũha jehechauka
+home-page-header = Kuatiarogue ñepyrũ
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
