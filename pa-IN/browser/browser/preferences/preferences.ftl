@@ -77,7 +77,7 @@ startup-prev-session =
     .label = ਪਿਛਲੀ ਵਾਰ ਦੀਆਂ ਆਪਣੀਆਂ ਵਿੰਡੋ ਅਤੇ ਟੈਬਾਂ ਨੂੰ ਵੇਖੋ
 disable-extension =
     .label = ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਅਸਮਰੱਥ ਕਰੋ
-home-page-header = ਆਪਣਾ ਮੁੱਖ ਸਫ਼ਾ ਵੇਖੋ
+home-page-header = ਮੁੱਖ ਸਫ਼ਾ
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
