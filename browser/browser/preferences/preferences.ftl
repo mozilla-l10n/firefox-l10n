@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = সর্বদা
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] অপশন
            *[other] পছন্দসমূহ
         }
@@ -21,7 +22,8 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
-policies-notice = { PLATFORM() ->
+policies-notice =
+    { PLATFORM() ->
         [windows] আপনার প্রতিষ্ঠান অপশনের কিছু পরিবর্তনের সক্ষমতা নিষ্ক্রিয় করেছে।
        *[other] আপনার প্রতিষ্ঠান অপশনের কিছু পরিবর্তনের সক্ষমতা নিষ্ক্রিয় করেছে।
     }
@@ -81,13 +83,14 @@ startup-prev-session =
     .label = শেষবারের উইন্ডো ও ট্যাব দেখাবে
 disable-extension =
     .label = এক্সটেনশনটি নিষ্ক্রিয় করুন
-home-page-header = আপনার নীড়পাতা দেখাবে
+home-page-header = নীড় পাতা
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label = { $tabCount ->
+    .label =
+        { $tabCount ->
             [1] বর্তমান পাতা ব্যবহার করুন
            *[other] বর্তমান পাতা ব্যবহার কর
         }
@@ -125,11 +128,13 @@ browser-containers-settings =
     .label = সেটিং
     .accesskey = i
 containers-disable-alert-title = সব কন্টেইনার ট্যাব বন্ধ করবেন?
-containers-disable-alert-desc = { $tabCount ->
+containers-disable-alert-desc =
+    { $tabCount ->
         [one] আপনি যদি এখন কন্টেইনার ট্যাবগুলো নিস্ক্রিয় করেন, { $tabCount } কন্টেইনার ট্যাব বন্ধ হয়ে যাবে। আপনি কি নিশ্চিত আপনি কন্টেইনার ট্যাবগুলো নিষ্ক্রিয় করতে চান?
        *[other] আপনি যদি এখন কন্টেইনার ট্যাবগুলো নিস্ক্রিয় করেন, { $tabCount } কন্টেইনার ট্যাব বন্ধ হয়ে যাবে। আপনি কি নিশ্চিত আপনি কন্টেইনার ট্যাবগুলো নিষ্ক্রিয় করতে চান?
     }
-containers-disable-alert-ok-button = { $tabCount ->
+containers-disable-alert-ok-button =
+    { $tabCount ->
         [one] { $tabCount } কন্টেইনার ট্যাব বন্ধ করুন
        *[other] { $tabCount } কন্টেইনার ট্যাবগুলো বন্ধ করুন
     }
@@ -172,11 +177,13 @@ download-save-to =
     .label = ফাইল সংরক্ষণের স্থান
     .accesskey = v
 download-choose-folder =
-    .label = { PLATFORM() ->
+    .label =
+        { PLATFORM() ->
             [macos] নির্বাচন...
            *[other] ব্রাউজ...
         }
-    .accesskey = { PLATFORM() ->
+    .accesskey =
+        { PLATFORM() ->
             [macos] e
            *[other] o
         }
