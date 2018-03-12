@@ -77,7 +77,7 @@ startup-prev-session =
     .label = Montri viajn lastajn fenestrojn kaj langetojn
 disable-extension =
     .label = Malaktivigi etendaĵon
-home-page-header = Montri vian ekan paĝon
+home-page-header = Eka paĝo
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
