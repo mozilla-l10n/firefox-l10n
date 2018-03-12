@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Përherë
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Mundësi
            *[other] Parapëlqime
         }
@@ -21,7 +22,8 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
-policies-notice = { PLATFORM() ->
+policies-notice =
+    { PLATFORM() ->
         [windows] Enti juaj e ka çaktivizuar aftësinë e ndryshimit të disa mundësive
        *[other] Enti juaj e ka çaktivizuar mundësinë e ndryshimit të disa parapëlqimeve
     }
@@ -81,13 +83,14 @@ startup-prev-session =
     .label = Shfaq dritaret dhe skedat e mia të herës së fundit
 disable-extension =
     .label = Çaktivizoje Zgjerimin
-home-page-header = Faqe hyrëse
+home-page-header = Shfaq kreun tim
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label = { $tabCount ->
+    .label =
+        { $tabCount ->
             [1] Përdor Faqen e Tanishme
            *[other] Përdor Faqet e Tanishme
         }
@@ -125,11 +128,13 @@ browser-containers-settings =
     .label = Rregullime…
     .accesskey = R
 containers-disable-alert-title = Të mbyllen Krejt Skedat e Kontejnerve?
-containers-disable-alert-desc = { $tabCount ->
+containers-disable-alert-desc =
+    { $tabCount ->
         [one] Nëse i çaktivizoni tani Skedat e Kontejnerve, do të mbyllet { $tabCount } skedë kontejneri. Jeni i sigurt se doni të çaktivizohen Skeda Kontejnerësh?
        *[other] Nëse i çaktivizoni tani Skedat e Kontejnerve, do të mbyllen { $tabCount } skeda kontejneri. Jeni i sigurt se doni të çaktivizohen Skeda Kontejnerësh?
     }
-containers-disable-alert-ok-button = { $tabCount ->
+containers-disable-alert-ok-button =
+    { $tabCount ->
         [one] Mbyll { $tabCount } Skedë Kontejneri
        *[other] Mbyll { $tabCount } Skeda Kontejneri
     }
@@ -172,11 +177,13 @@ download-save-to =
     .label = Ruaji kartelat te
     .accesskey = R
 download-choose-folder =
-    .label = { PLATFORM() ->
+    .label =
+        { PLATFORM() ->
             [macos] Zgjidhni…
            *[other] Shfletoni…
         }
-    .accesskey = { PLATFORM() ->
+    .accesskey =
+        { PLATFORM() ->
             [macos] Z
            *[other] S
         }
