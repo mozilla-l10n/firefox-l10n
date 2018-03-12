@@ -3,23 +3,17 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Proteçion anti-traciamento">
-<!ENTITY  trackingProtection2.radioGroupLabel  "Deuvia a proteçion anti-traciamento pe i sciti che se san che tracian">
 <!ENTITY  trackingProtectionAlways.label       "De longo">
 <!ENTITY  trackingProtectionAlways.accesskey   "g">
 <!ENTITY  trackingProtectionPrivate.label      "Solo inti barcoin privæ">
 <!ENTITY  trackingProtectionPrivate.accesskey  "l">
 <!ENTITY  trackingProtectionNever.label        "Mai">
 <!ENTITY  trackingProtectionNever.accesskey    "m">
-<!ENTITY  trackingProtectionLearnMore.label    "Atre informaçioin">
 <!ENTITY  trackingProtectionExceptions.label   "Eceçioin…">
 <!ENTITY  trackingProtectionExceptions.accesskey "c">
 
-<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
-<!ENTITY trackingProtectionPBM5.label         "Ativa a proteçion anti-traciamento inta Navegaçion privâ">
-<!ENTITY trackingProtectionPBM5.accesskey     "e">
-<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBMLearnMore.label "Atre informaçioin">
-
 
 <!ENTITY  history.label                 "Stöia">
 
@@ -31,6 +25,9 @@
 <!ENTITY  locbar.searches.accesskey     "h">
 
 <!ENTITY  suggestionSettings2.label     "Cangia e inpostaçioin di conseggi di motoî de riçerca">
+
+
+
 
 
 <!ENTITY  acceptThirdParty.always.label   "de longo">
@@ -47,7 +44,7 @@
 <!ENTITY  showCookies.label             "Fanni vedde i cookie…">
 <!ENTITY  showCookies.accesskey         "F">
 
-<!ENTITY  historyHeader2.pre.label         "&brandShortName; saia">
+<!ENTITY  historyHeader2.pre.label         "&brandShortName; o se">
 <!ENTITY  historyHeader2.pre.accesskey     "s">
 <!ENTITY  historyHeader.remember.label     "Aregòrda a stöia">
 <!ENTITY  historyHeader.dontremember.label "No aregordâ a stöia">
@@ -65,6 +62,8 @@
 <!ENTITY  rememberActions.removeCookies.label "scancelâ cookie scingoli">
 <!ENTITY  rememberActions.post.label          ".">
 
+<!ENTITY  rememberDescription1.label      "&brandShortName; o s'aregòrda de teu navegaçioin, descaregamenti e stöia de riçerche.">
+
 <!ENTITY  dontrememberDescription.label  "&brandShortName; o deuvia e mæxime preferense da-a navegaçion privâ, e o no se aregòrda da stöia de teu navegaçioin.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
@@ -72,6 +71,7 @@
 <!ENTITY  dontrememberActions.pre.label          "Ti ti peu voei ascì ">
 <!ENTITY  dontrememberActions.clearHistory.label "Scancella tutta a stöia corente">
 <!ENTITY  dontrememberActions.post.label         ".">
+
 
 <!ENTITY  privateBrowsingPermanent2.label "Deuvia de longo o mòddo de navegaçion privou">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
@@ -94,3 +94,4 @@
 <!ENTITY  browserContainersSettings.label        "Inpostaçioin…">
 <!ENTITY  browserContainersSettings.accesskey    "i">
 
+<!ENTITY  a11yPrivacy.checkbox.label     "O blòcca i serviççi de acesibiliæ">
