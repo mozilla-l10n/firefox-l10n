@@ -383,7 +383,7 @@
 <!ENTITY pref_private_data_downloadFiles2 "ダウンロードしたファイル">
 <!ENTITY pref_private_data_syncedTabs "同期したタブ">
 
-<!ENTITY pref_default_browser "デフォルト Web ブラウザーに設定">
+<!ENTITY pref_default_browser "デフォルトウェブブラウザーに設定">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla サポート">
 <!ENTITY pref_about_firefox "&brandShortName; について">
 <!ENTITY pref_vendor_faqs "FAQ">
