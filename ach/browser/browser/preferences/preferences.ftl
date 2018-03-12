@@ -77,7 +77,7 @@ startup-prev-session =
     .label = Nyut dirica ki dirca matino mamegi ma ceng ca
 disable-extension =
     .label = Juk lamed
-home-page-header = Nyut pot buk mamegi me gang
+home-page-header = Potbuk me acakki
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
