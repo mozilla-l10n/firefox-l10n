@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Vedno
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Možnosti
            *[other] Nastavitve
         }
@@ -83,7 +84,8 @@ home-page-header = prikaži domačo stran
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label = { $tabCount ->
+    .label =
+        { $tabCount ->
             [1] Uporabi trenutno stran
            *[other] Uporabi trenutne strani
         }
@@ -121,13 +123,15 @@ browser-containers-settings =
     .label = Nastavitve …
     .accesskey = N
 containers-disable-alert-title = Zapri vse vsebniške zavihke?
-containers-disable-alert-desc = { $tabCount ->
+containers-disable-alert-desc =
+    { $tabCount ->
         [one] Če vsebniške zavihke onemogočite zdaj, bo { $tabCount } vsebniški zavihek zaprt. Ali jih res želite onemogočiti?
         [two] Če vsebniške zavihke onemogočite zdaj, bosta { $tabCount } vsebniška zavihka zaprta. Ali jih res želite onemogočiti?
         [few] Če vsebniške zavihke onemogočite zdaj, bodo { $tabCount } vsebniški zavihki zaprti. Ali jih res želite onemogočiti?
        *[other] Če vsebniške zavihke onemogočite zdaj, bo { $tabCount } vsebniških zavihkov zaprtih. Ali jih res želite onemogočiti?
     }
-containers-disable-alert-ok-button = { $tabCount ->
+containers-disable-alert-ok-button =
+    { $tabCount ->
         [one] Zapri { $tabCount } vsebniški zavihek
         [two] Zapri { $tabCount } vsebniška zavihka
         [few] Zapri { $tabCount } vsebniške zavihke
@@ -172,11 +176,13 @@ download-save-to =
     .label = Shrani datoteke v
     .accesskey = S
 download-choose-folder =
-    .label = { PLATFORM() ->
+    .label =
+        { PLATFORM() ->
             [macos] Izberi …
            *[other] Prebrskaj …
         }
-    .accesskey = { PLATFORM() ->
+    .accesskey =
+        { PLATFORM() ->
             [macos] b
            *[other] b
         }
