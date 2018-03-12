@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Her zaman
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Seçenekler
            *[other] Tercihler
         }
@@ -21,7 +22,8 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
-policies-notice = { PLATFORM() ->
+policies-notice =
+    { PLATFORM() ->
         [windows] Kurumunuz bazı seçenekleri değiştirme olanağını devre dışı bırakmış.
        *[other] Kurumunuz bazı tercihleri değiştirme olanağını devre dışı bırakmış.
     }
@@ -81,13 +83,14 @@ startup-prev-session =
     .label = Son oturumdaki pencereleri ve sekmeleri göster
 disable-extension =
     .label = Eklentiyi etkisizleştir
-home-page-header = Giriş sayfamı göster
+home-page-header = Giriş sayfası
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label = { $tabCount ->
+    .label =
+        { $tabCount ->
             [1] Geçerli sayfayı kullan
            *[other] Geçerli sayfaları kullan
         }
@@ -125,11 +128,13 @@ browser-containers-settings =
     .label = Ayarlar…
     .accesskey = A
 containers-disable-alert-title = Tüm kapsayıcı sekmeler kapatılsın mı?
-containers-disable-alert-desc = { $tabCount ->
+containers-disable-alert-desc =
+    { $tabCount ->
         [one] Kapsayıcı Sekmeler’i şimdi devre dışı bırakırsanız { $tabCount } kapsayıcı sekme kapatılacaktır. Bu özelliği devre dışı bırakmak istediğinizden emin misiniz?
        *[other] Kapsayıcı Sekmeler’i şimdi devre dışı bırakırsanız { $tabCount } kapsayıcı sekme kapatılacaktır. Bu özelliği devre dışı bırakmak istediğinizden emin misiniz?
     }
-containers-disable-alert-ok-button = { $tabCount ->
+containers-disable-alert-ok-button =
+    { $tabCount ->
         [one] { $tabCount } kapsayıcı sekmeyi kapat
        *[other] { $tabCount } kapsayıcı sekmeyi kapat
     }
@@ -172,11 +177,13 @@ download-save-to =
     .label = Dosya kayıt yeri
     .accesskey = a
 download-choose-folder =
-    .label = { PLATFORM() ->
+    .label =
+        { PLATFORM() ->
             [macos] Seç…
            *[other] Gözat…
         }
-    .accesskey = { PLATFORM() ->
+    .accesskey =
+        { PLATFORM() ->
             [macos] e
            *[other] z
         }
