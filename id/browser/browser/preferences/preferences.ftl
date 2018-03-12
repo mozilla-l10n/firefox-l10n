@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Selalu
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Pengaturan
            *[other] Pengaturan
         }
@@ -83,7 +84,8 @@ home-page-header = Tampilkan beranda Anda
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label = { $tabCount ->
+    .label =
+        { $tabCount ->
             [1] Gunakan Laman Sekarang
            *[other] Gunakan Semua Laman Berikut
         }
@@ -162,11 +164,13 @@ download-save-to =
     .label = Simpan berkas di
     .accesskey = S
 download-choose-folder =
-    .label = { PLATFORM() ->
+    .label =
+        { PLATFORM() ->
             [macos] Pilih…
            *[other] Telusuri…
         }
-    .accesskey = { PLATFORM() ->
+    .accesskey =
+        { PLATFORM() ->
             [macos] P
            *[other] e
         }
