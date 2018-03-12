@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Altyd
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Opsjes
            *[other] Opsjes
         }
@@ -77,13 +78,14 @@ startup-prev-session =
     .label = Myn finsters en ljepblêden fan de foarige kear toane
 disable-extension =
     .label = Utwreiding útskeakelje
-home-page-header = Jo startside toane
+home-page-header = Begjinside
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label = { $tabCount ->
+    .label =
+        { $tabCount ->
             [1] Aktuele side brûke
            *[other] Aktuele siden brûke
         }
@@ -121,11 +123,13 @@ browser-containers-settings =
     .label = Ynstellingen…
     .accesskey = i
 containers-disable-alert-title = Alle kontenerljepblêden slute?
-containers-disable-alert-desc = { $tabCount ->
+containers-disable-alert-desc =
+    { $tabCount ->
         [one] As jo kontenerljepblêden no útskeakelje, sil { $tabCount } kontenerljepblêd sluten wurde. Binne jo wis dat jo kontenerljepblêden útskeakelje wolle?
        *[other] As jo kontenerljepblêden no útskeakelje, sille { $tabCount } kontenerljepblêden sluten wurde. Binne jo wis dat jo kontenerljepblêden útskeakelje wolle?
     }
-containers-disable-alert-ok-button = { $tabCount ->
+containers-disable-alert-ok-button =
+    { $tabCount ->
         [one] { $tabCount } kontenerljepblêd slute
        *[other] { $tabCount } kontenerljepblêden slute
     }
@@ -168,11 +172,13 @@ download-save-to =
     .label = Bestannen bewarje yn
     .accesskey = e
 download-choose-folder =
-    .label = { PLATFORM() ->
+    .label =
+        { PLATFORM() ->
             [macos] Kieze…
            *[other] Blêdzje…
         }
-    .accesskey = { PLATFORM() ->
+    .accesskey =
+        { PLATFORM() ->
             [macos] z
            *[other] d
         }
