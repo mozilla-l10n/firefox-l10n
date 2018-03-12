@@ -6,7 +6,7 @@
 <!ENTITY window.width                 "35em">
 
 <!ENTITY window.description           "Brisanje vseh piškotkov in podatkov strani, ki jih hrani &brandShortName;, vas lahko odjavi iz spletnih strani in odstrani vsebino za delo brez povezave. Brisanje podatkov v predpomnilniku ne bo vplivalo na vaše prijave.">
-<!ENTITY windowClose.key              "z">
+<!ENTITY windowClose.key              "w">
 
 <!ENTITY clearSiteData.label          "Piškotki in podatki strani">
 <!ENTITY clearSiteData.accesskey      "š">
