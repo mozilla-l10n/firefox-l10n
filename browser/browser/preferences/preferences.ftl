@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Sahaa kala
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Cuɓe
            *[other] Cuɓoraaɗe
         }
@@ -77,13 +78,14 @@ startup-prev-session =
     .label = Hollit kenorɗe maa ɗee e tabbe cakkitiiɗe
 disable-extension =
     .label = Daaƴ Timmitol
-home-page-header = Hollu hello maa jaɓɓorgo
+home-page-header = Hello jaɓɓorgo
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label = { $tabCount ->
+    .label =
+        { $tabCount ->
             [1] Huutoro Hello Wonaango
            *[other] Huutoro Kelle Gonaaɗe Ɗee
         }
@@ -121,11 +123,13 @@ browser-containers-settings =
     .label = Teelte…
     .accesskey = l
 containers-disable-alert-title = Uddu Tabbe Mooftirɗe Kala?
-containers-disable-alert-desc = { $tabCount ->
+containers-disable-alert-desc =
+    { $tabCount ->
         [one] So a daaƴii Tabbe Mooftirɗe jooni, tabbere mooftirde { $tabCount } maa udde. Aɗa yenanaa yiɗde daaƴde Tabbe Mooftirɗe?
        *[other] So a daaƴii Tabbe Mooftirɗe jooni, Tabbe Mooftirɗe { $tabCount } maa udde. Aɗa yenanaa yiɗde daaƴde Tabbe Mooftirɗe?
     }
-containers-disable-alert-ok-button = { $tabCount ->
+containers-disable-alert-ok-button =
+    { $tabCount ->
         [one] Uddu Tabbere Mooftirde { $tabCount }
        *[other] Uddu Tabbe Mooftirɗe { $tabCount }
     }
@@ -168,11 +172,13 @@ download-save-to =
     .label = Danndu piille to
     .accesskey = n
 download-choose-folder =
-    .label = { PLATFORM() ->
+    .label =
+        { PLATFORM() ->
             [macos] Suɓo…
            *[other] Yiylo…
         }
-    .accesskey = { PLATFORM() ->
+    .accesskey =
+        { PLATFORM() ->
             [macos] o
            *[other] y
         }
