@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Yal tikelt
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Iɣewwaṛen
            *[other] Ismenyifen
         }
@@ -77,13 +78,14 @@ startup-prev-session =
     .label = Sken iccaren ineggura akked isfuyla yettusqedcen 
 disable-extension =
     .label = Sens aseɣzif
-home-page-header = Sken asebter-iw agejdan 
+home-page-header = Sken asebter-iw agejdan{ " " }
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label = { $tabCount ->
+    .label =
+        { $tabCount ->
             [1] Asebter amiran
            *[other] Isebtar imiranen
         }
@@ -121,11 +123,13 @@ browser-containers-settings =
     .label = Iγewwaṛen…
     .accesskey = I
 containers-disable-alert-title = Mdel akk iccaren imagbaren?
-containers-disable-alert-desc = { $tabCount ->
+containers-disable-alert-desc =
+    { $tabCount ->
         [one] Ma tekkseḍ iccaren imagbaren tura, iccer amagbar { $tabCount } ad yemdel. Tebɣiḍ ad tekkseḍ armad n yiccaren imagbaren?
        *[other] Ma tekkseḍ iccaren imagbaren tura, iccaren imagbaren { $tabCount } ad medlen. Tebɣiḍ ad tekkseḍ armad n yiccaren imagbaren?
     }
-containers-disable-alert-ok-button = { $tabCount ->
+containers-disable-alert-ok-button =
+    { $tabCount ->
         [one] Mdel  { $tabCount } iccer amagbar
        *[other] Mdel { $tabCount } iccaren imagbaren
     }
@@ -168,11 +172,13 @@ download-save-to =
     .label = Sekles ifuyla ɣer
     .accesskey = S
 download-choose-folder =
-    .label = { PLATFORM() ->
+    .label =
+        { PLATFORM() ->
             [macos] Fren…
            *[other] Ḍum…
         }
-    .accesskey = { PLATFORM() ->
+    .accesskey =
+        { PLATFORM() ->
             [macos] F
            *[other] u
         }
