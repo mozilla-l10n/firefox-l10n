@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Vīnmār
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Īstatiejumi
            *[other] Īstatiejumi
         }
@@ -83,7 +84,8 @@ home-page-header = Ruodeit sātys lopu
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label = { $tabCount ->
+    .label =
+        { $tabCount ->
             [1] Lītuot pošreizejū lopu
            *[other] Lītuot pošreizejuos lopys
         }
@@ -121,12 +123,14 @@ browser-containers-settings =
     .label = Īstatiejumi...
     .accesskey = i
 containers-disable-alert-title = Aiztaisēt vysas cilņu skreines?
-containers-disable-alert-desc = { $tabCount ->
+containers-disable-alert-desc =
+    { $tabCount ->
         [zero] Ja deaktivesi konteineru cilnes tagad, { $tabCount } konteineru cilnes byus aizvārtas. Voi vyssvīns gribi deaktivēt konteineru cilnes?
         [one] Ja deaktivesi konteineru cilnes tagad, { $tabCount } konteineru cilne byus aizvārta. Voi vyssvīns gribi deaktivēt konteineru cilnes?
        *[other] Ja deaktivesi konteineru cilnes tagad, { $tabCount } konteineru cilnes byus aizvārtas. Voi vyssvīns gribi deaktivēt konteineru cilnes?
     }
-containers-disable-alert-ok-button = { $tabCount ->
+containers-disable-alert-ok-button =
+    { $tabCount ->
         [zero] Aiztaisēt { $tabCount } konteineru cilnes
         [one] Aiztaisēt { $tabCount } konteineru cilni
        *[other] Aiztaisēt { $tabCount } konteineru cilnes
@@ -170,11 +174,13 @@ download-save-to =
     .label = Vīta, kur saglobuot failus:
     .accesskey = k
 download-choose-folder =
-    .label = { PLATFORM() ->
+    .label =
+        { PLATFORM() ->
             [macos] Izavielit...
            *[other] Puorsavērt...
         }
-    .accesskey = { PLATFORM() ->
+    .accesskey =
+        { PLATFORM() ->
             [macos] e
            *[other] o
         }
