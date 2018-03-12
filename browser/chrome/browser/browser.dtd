@@ -111,6 +111,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "பக்க தகவல்">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.accesskey "L">
 <!ENTITY mirrorTabCmd.label "கீற்று பிரதி">
 <!ENTITY mirrorTabCmd.accesskey "M">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -125,6 +126,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "அனைத்து கீற்றுகளையும் காட்டு">
 <!ENTITY showAllTabsCmd.accesskey "A">
 <!ENTITY toggleReaderMode.key "R">
+
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; உள்நுழை">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; முன்னுரிமைகளைத் திற">
@@ -225,6 +227,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "இப்பக்கத்தை மொழிபெயர்க்கவும்">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "பக்க மொழிபெயர்ப்புகளை நிர்வகி">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM மென்பொருள் பயன்பாட்டை நிர்வகிக்கவும்">
+
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "இந்த தளத்தில் நிழற்படக் கருவியை முடக்கியுள்ளீர்கள்.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "இத்தளத்தில் ஒலிவாங்கியை முடக்கியுள்ளீர்கள்.">
@@ -378,15 +381,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "இதுவரையில்… ஒத்திசைத்த கீற்றுகள் இல்லை!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "மற்ற கருவிகளிலிருந்து உங்கள் கீற்றுகளை இங்குப் பார்க்க விருப்பமா?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "ஒத்திசைவு முன்னுரிமைகள்">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "ஒத்திசைவு முன்னுரிமைகளைத் திற">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "உங்கள் மற்ற கருவிகளிலிருந்து கீற்றுகளின் பட்டியலைப் பார்க்க உள்நுழை.">
 <!ENTITY appMenuRemoteTabs.unverified.label "உங்கள் கணக்கு சரிபார்க்கப்பட வேண்டும்.">
 <!ENTITY appMenuRemoteTabs.signin.label "ஒத்திசைக்க உள்நுழை">
 <!ENTITY appMenuRemoteTabs.managedevices.label "சாதனங்களை நிர்வகி...">
 <!ENTITY appMenuRemoteTabs.sidebar.label "ஒத்திசைத்த கீற்றுகள் பக்கப்பட்டையைப் பார்">
-
 <!ENTITY appMenuRemoteTabs.connectdevice.label "மற்றொரு சாதனத்தை இணை">
 
 <!ENTITY appMenuRecentHighlights.label "அண்மைய மிளிர்ப்புகள்">
@@ -795,7 +797,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "ஒத்திசைத்த கீற்றுகள்">
 <!ENTITY syncedTabs.sidebar.noclients.label    "பிற கருவிகளின் கீற்றுகளை இங்கு பார்க்க அவற்றில் பயர்பாக்சில் உள்நுழை.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "இதுவரையில்… ஒத்திசைத்த கீற்றுகள் ஏதுமில்லை!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "மற்ற கருவிகளிலிருந்து உங்கள் கீற்றுகளை இங்குப் பார்க்க விருப்பமா?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "உங்களின் மற்ற கருவிகளிலிருந்து கீற்றுகளின் பட்டியலைப் பார்க்க உள்நுழை.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "உங்கள் கணக்கு சரிபார்க்கப்பட வேண்டும்.">
@@ -805,7 +806,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "மற்ற கருவிகளிலிருந்து கீற்றுகளின் பட்டியலைக் காண கீற்று ஒத்திசைவை இயக்கு.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "ஒத்திசைத்த கீற்றுகளைத் தேடவும்">
-
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "மற்றொரு சாதனத்தை இணை">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
@@ -997,3 +997,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "அணுகல்தன்மை வசதி செயற்படுத்தப்பட்டது">
+
+<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
+     The first <image> tag is replaced with the icon for the add-ons menu.
+     The second <image> tag is replaced with the icon for the toolbar menu. -->
