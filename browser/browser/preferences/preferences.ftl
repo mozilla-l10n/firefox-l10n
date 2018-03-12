@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Alltaf
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Valkostir
            *[other] Valkostir
         }
@@ -83,7 +84,8 @@ home-page-header = Sýna mína heimasíðu
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label = { $tabCount ->
+    .label =
+        { $tabCount ->
             [1] Nota núverandi síðu
            *[other] Nota núverandi síður
         }
@@ -121,11 +123,13 @@ browser-containers-settings =
     .label = Stillingar…
     .accesskey = i
 containers-disable-alert-title = Loka öllum innihaldsflipum?
-containers-disable-alert-desc = { $tabCount ->
+containers-disable-alert-desc =
+    { $tabCount ->
         [one] Ef þú gerir innihaldsflipa óvirka, verður { $tabCount } innihaldsflipa lokað. Ertu viss um að þú viljir gera innihaldsflipa óvirka?
        *[other] Ef þú gerir innihaldsflipa óvirka, verður { $tabCount } innihaldsflipum lokað. Ertu viss um að þú viljir gera innihaldsflipa óvirka?
     }
-containers-disable-alert-ok-button = { $tabCount ->
+containers-disable-alert-ok-button =
+    { $tabCount ->
         [one] Loka { $tabCount } innihaldsflipa
        *[other] Loka { $tabCount } innihaldsflipum
     }
@@ -168,11 +172,13 @@ download-save-to =
     .label = Vista skrár yfir á
     .accesskey = V
 download-choose-folder =
-    .label = { PLATFORM() ->
+    .label =
+        { PLATFORM() ->
             [macos] Velja…
            *[other] Velja…
         }
-    .accesskey = { PLATFORM() ->
+    .accesskey =
+        { PLATFORM() ->
             [macos] e
            *[other] e
         }
