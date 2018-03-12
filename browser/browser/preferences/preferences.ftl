@@ -68,7 +68,7 @@ startup-prev-session =
     .label = අවසන් වරට තිබූ ඔබගේ කවුළු සහ ටැබ් පෙන්වන්න
 disable-extension =
     .label = දිගු ක්‍රියා විරහිත කරන්න
-home-page-header = ඔබගේ නිවාස පිටුව පෙන්වන්න
+home-page-header = මුල්පිටුව
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
