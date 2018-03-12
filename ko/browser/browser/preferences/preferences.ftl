@@ -83,7 +83,7 @@ startup-prev-session =
     .label = 지난번 창과 탭 보기
 disable-extension =
     .label = 확장기능 비활성화
-home-page-header = 홈 페이지 보기
+home-page-header = 홈 페이지
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
