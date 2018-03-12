@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Alltid
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Inställningar
            *[other] Inställningar
         }
@@ -21,7 +22,8 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
-policies-notice = { PLATFORM() ->
+policies-notice =
+    { PLATFORM() ->
         [windows] Ditt företag har inaktiverat möjligheten att ändra vissa inställningar.
        *[other] Ditt företag har inaktiverat möjligheten att ändra vissa inställningar.
     }
@@ -81,13 +83,14 @@ startup-prev-session =
     .label = Visa dina fönster och flikar från förra gången
 disable-extension =
     .label = Inaktivera tillägg
-home-page-header = Visa din startsida
+home-page-header = Startsida
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label = { $tabCount ->
+    .label =
+        { $tabCount ->
             [1] Använd aktuell sida
            *[other] Använd aktuella sidor
         }
@@ -125,11 +128,13 @@ browser-containers-settings =
     .label = Inställningar…
     .accesskey = s
 containers-disable-alert-title = Stäng alla innehållsflikar?
-containers-disable-alert-desc = { $tabCount ->
+containers-disable-alert-desc =
+    { $tabCount ->
         [one] Om du inaktiverar innehållsflikar nu, { $tabCount } innehållsflik kommer att stängas. Är du säker på att du vill inaktivera innehållsflikar?
        *[other] Om du inaktiverar innehållsflikar nu, { $tabCount } innehållsflikar kommer att stängas. Är du säker på att du vill inaktivera innehållsflikar?
     }
-containers-disable-alert-ok-button = { $tabCount ->
+containers-disable-alert-ok-button =
+    { $tabCount ->
         [one] Stäng { $tabCount } innehållsflik
        *[other] Stäng { $tabCount } innehållsflikar
     }
@@ -172,11 +177,13 @@ download-save-to =
     .label = Spara filer till
     .accesskey = a
 download-choose-folder =
-    .label = { PLATFORM() ->
+    .label =
+        { PLATFORM() ->
             [macos] Välj…
            *[other] Bläddra…
         }
-    .accesskey = { PLATFORM() ->
+    .accesskey =
+        { PLATFORM() ->
             [macos] V
            *[other] B
         }
