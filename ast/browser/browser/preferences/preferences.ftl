@@ -77,7 +77,7 @@ startup-prev-session =
     .label = Amosar les ventanes y llingüetes de la cabera sesión
 disable-extension =
     .label = Deshabilitar estensión
-home-page-header = Amosar la to páxina d'aniciu
+home-page-header = Páxina d'aniciu
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -103,9 +103,7 @@ warn-on-close-multiple-tabs =
     .label = Avisar cuando zarres múltiples llingüetes
     .accesskey = m
 warn-on-open-many-tabs =
-    .label =
-        Avisar si al abrir munches llingüetes { -brand-short-name } pue dir lentu
-
+    .label = Avisar si al abrir munches llingüetes { -brand-short-name } pue dir lentu
     .accesskey = d
 switch-links-to-new-tabs =
     .label = Al abrir un enllaz nuna llingüeta nueva, cambiar a ella darréu
