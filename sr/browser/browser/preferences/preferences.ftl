@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Увек
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Поставке
            *[other] Поставке
         }
@@ -21,7 +22,8 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
-policies-notice = { PLATFORM() ->
+policies-notice =
+    { PLATFORM() ->
         [windows] Ваша организација је онемогућила могућност измене неких опција.
        *[other] Ваша организација је онемогућила могућност измене неких опција.
     }
@@ -87,7 +89,8 @@ home-page-header = Прикажи почетну страницу
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label = { $tabCount ->
+    .label =
+        { $tabCount ->
             [1] Користи тренутну страницу
            *[other] Користи тренутне странице
         }
@@ -125,12 +128,14 @@ browser-containers-settings =
     .label = Поставке…
     .accesskey = в
 containers-disable-alert-title = Затворити све контејнер језичке?
-containers-disable-alert-desc = { $tabCount ->
+containers-disable-alert-desc =
+    { $tabCount ->
         [one] Ако сада онемогућите контејнер језичке, { $tabCount } контејнер језичак ће се затворити. Да ли сте сигурни да желите да онемогућите контејнер језичке?
         [few] Ако сада онемогућите контејнер језичке, { $tabCount } контејнер језичка ће се затворити. Да ли сте сигурни да желите да онемогућите контејнер језичке?
        *[other] Ако сада онемогућите контејнер језичке, { $tabCount } контејнер језичка ће се затворити. Да ли сте сигурни да желите да онемогућите контејнер језичке?
     }
-containers-disable-alert-ok-button = { $tabCount ->
+containers-disable-alert-ok-button =
+    { $tabCount ->
         [one] Затвори { $tabCount } контејнер језичак
         [few] Затвори { $tabCount } контејнер језичака
        *[other] Затвори { $tabCount } контејнер језичака
@@ -174,11 +179,13 @@ download-save-to =
     .label = Сачувај датотеке у
     .accesskey = С
 download-choose-folder =
-    .label = { PLATFORM() ->
+    .label =
+        { PLATFORM() ->
             [macos] Избор…
            *[other] Избор…
         }
-    .accesskey = { PLATFORM() ->
+    .accesskey =
+        { PLATFORM() ->
             [macos] И
            *[other] И
         }
