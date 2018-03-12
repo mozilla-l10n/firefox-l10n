@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Mindig
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Beállítások
            *[other] Beállítások
         }
@@ -21,7 +22,8 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
-policies-notice = { PLATFORM() ->
+policies-notice =
+    { PLATFORM() ->
         [windows] A szervezete letiltotta egyes beállítások módosítását.
        *[other] A szervezete letiltotta egyes beállítások módosítását.
     }
@@ -87,7 +89,8 @@ home-page-header = Kezdőlap megjelenítése
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label = { $tabCount ->
+    .label =
+        { $tabCount ->
             [1] Aktuális oldal használata
            *[other] Aktuális oldalak használata
         }
@@ -125,11 +128,13 @@ browser-containers-settings =
     .label = Beállítások…
     .accesskey = B
 containers-disable-alert-title = Az összes konténerlap bezárása?
-containers-disable-alert-desc = { $tabCount ->
+containers-disable-alert-desc =
+    { $tabCount ->
         [one] Ha most letiltja a konténerlapokat, akkor { $tabCount } konténerlap bezáródik. Biztosan letiltja a konténerlapokat?
        *[other] Ha most letiltja a konténerlapokat, akkor { $tabCount } konténerlap bezáródik. Biztosan letiltja a konténerlapokat?
     }
-containers-disable-alert-ok-button = { $tabCount ->
+containers-disable-alert-ok-button =
+    { $tabCount ->
         [one] { $tabCount } konténerlap bezárása
        *[other] { $tabCount } konténerlap bezárása
     }
@@ -172,11 +177,13 @@ download-save-to =
     .label = Fájlok mentése
     .accesskey = m
 download-choose-folder =
-    .label = { PLATFORM() ->
+    .label =
+        { PLATFORM() ->
             [macos] Tallózás…
            *[other] Tallózás…
         }
-    .accesskey = { PLATFORM() ->
+    .accesskey =
+        { PLATFORM() ->
             [macos] T
            *[other] T
         }
