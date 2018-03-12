@@ -78,7 +78,7 @@ startup-prev-session =
     .label = Paruodeit munus lūgus i cilnes nu īprīkšejuos reizes
 disable-extension =
     .label = Deaktivēt paplošynuojumu
-home-page-header = Ruodeit sātys lopu
+home-page-header = Sātys lopa
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
