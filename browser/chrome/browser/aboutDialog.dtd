@@ -3,6 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY aboutDialog.title          "Informaçioin rigoardo &brandFullName;">
 
+<!-- LOCALIZATION NOTE (update.*):
+# These strings are also used in the update pane of preferences.
+# See about:preferences#general.
+-->
 <!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*):
 # Only one button is present at a time.
 # The button when displayed is located directly under the Firefox version in
@@ -16,8 +20,6 @@
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 <!ENTITY warningDesc.version        "&brandShortName; o l'é sperimentale e o peu ese instabile.">
-<!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "Quindi o manda in aotomatico informaçioin in sci test a &vendorShortName; pe agiutâ a megioâ &brandShortName;.">
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 <!ENTITY community.exp.start        "">
@@ -37,12 +39,12 @@
 <!ENTITY community.end3             " ch'a travaggia insemme pe mantegnî a Ræ averta, pubrica e acesibile a tutti.">
 
 <!ENTITY helpus.start               "Ti ne veu agiutâ? ">
-<!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
+<!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://donate.mozilla.org/?utm_source=firefox&utm_medium=referral&utm_campaign=firefox_about&utm_content=firefox_about. -->
 <!ENTITY helpus.donateLink          "Fanni 'na donaçion">
 <!ENTITY helpus.middle              " ò ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY helpus.getInvolvedLink     "travaggia con niatri">
-<!ENTITY helpus.end                 ".">
+<!ENTITY helpus.end                 "">
 
 <!ENTITY releaseNotes.link          "Novitæ">
 
@@ -91,7 +93,7 @@
 <!ENTITY update.unsupported.linkText "Atre informaçioin">
 <!ENTITY update.unsupported.end      "">
 
-<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
+<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).
