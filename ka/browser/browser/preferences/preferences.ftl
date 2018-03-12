@@ -83,7 +83,7 @@ startup-prev-session =
     .label = ბოლოს დახურული ფანჯრებისა და ჩანართების ჩვენება
 disable-extension =
     .label = გაფართოების ამორთვა
-home-page-header = მთავარი გვერდის ჩვენება
+home-page-header = მთავარი გვერდი
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
