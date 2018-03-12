@@ -78,7 +78,7 @@ startup-prev-session =
     .label = Sken iccaren ineggura akked isfuyla yettusqedcen 
 disable-extension =
     .label = Sens aseɣzif
-home-page-header = Sken asebter-iw agejdan{ " " }
+home-page-header = Sken asebter-iw agejdan
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
