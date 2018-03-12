@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Завжди
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Налаштування
            *[other] Налаштування
         }
@@ -21,7 +22,8 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
-policies-notice = { PLATFORM() ->
+policies-notice =
+    { PLATFORM() ->
         [windows] Ваша організація вимкнула можливість зміни деяких налаштувань.
        *[other] Ваша організація вимкнула можливість зміни деяких налаштувань.
     }
@@ -81,13 +83,14 @@ startup-prev-session =
     .label = Показувати вікна і вкладки з минулого разу
 disable-extension =
     .label = Вимкнути розширення
-home-page-header = Показувати домівку
+home-page-header = Домівка
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label = { $tabCount ->
+    .label =
+        { $tabCount ->
             [1] Використати поточну сторінку
            *[other] Використати поточні сторінки
         }
@@ -125,12 +128,14 @@ browser-containers-settings =
     .label = Налаштування…
     .accesskey = л
 containers-disable-alert-title = Закрити всі вкладки контейнера?
-containers-disable-alert-desc = { $tabCount ->
+containers-disable-alert-desc =
+    { $tabCount ->
         [one] Якщо ви вимкнете всі вкладки контейнера, буде закрито { $tabCount } вкладку контейнера. Ви дійсно хочете вимкнути контейнер?
         [few] Якщо ви вимкнете всі вкладки контейнера, буде закрито { $tabCount } вкладки контейнера. Ви дійсно хочете вимкнути контейнер?
        *[many] Якщо ви вимкнете всі вкладки контейнера, буде закрито { $tabCount } вкладок контейнера. Ви дійсно хочете вимкнути контейнер?
     }
-containers-disable-alert-ok-button = { $tabCount ->
+containers-disable-alert-ok-button =
+    { $tabCount ->
         [one] Закрити { $tabCount } вкладку контейнера
         [few] Закрити { $tabCount } вкладки контейнера
        *[many] Закрити { $tabCount } вкладок контейнера
@@ -174,11 +179,13 @@ download-save-to =
     .label = Зберігати файли до
     .accesskey = ф
 download-choose-folder =
-    .label = { PLATFORM() ->
+    .label =
+        { PLATFORM() ->
             [macos] Вибрати…
            *[other] Вибрати…
         }
-    .accesskey = { PLATFORM() ->
+    .accesskey =
+        { PLATFORM() ->
             [macos] В
            *[other] В
         }
