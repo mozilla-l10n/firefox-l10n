@@ -172,12 +172,49 @@
 <!ENTITY calendar.context.copyevent.accesskey         "o">
 <!ENTITY calendar.context.pasteevent.label            "Klistra in">
 <!ENTITY calendar.context.pasteevent.accesskey        "l">
-<!ENTITY calendar.context.button.label                "Idag" >
-<!ENTITY calendar.context.button.accesskey            "I" >
-<!ENTITY calendar.context.attendance.menu.label       "Närvaro" >
-<!ENTITY calendar.context.attendance.menu.accesskey   "N" >
-<!ENTITY calendar.context.attendance.occurrence.label "Denna händelse" >
+<!ENTITY calendar.context.button.label                "Idag">
+<!ENTITY calendar.context.button.accesskey            "I">
+
+<!ENTITY calendar.context.attendance.menu.label                 "Närvaro">
+<!ENTITY calendar.context.attendance.menu.accesskey             "N">
+<!ENTITY calendar.context.attendance.occurrence.label           "Denna händelse">
 <!ENTITY calendar.context.attendance.all.label        "Alla händelser" >
+
+<!ENTITY calendar.context.attendance.all2.label                 "Komplett serie">
+<!ENTITY calendar.context.attendance.send.label                 "Skicka en avisering nu">
+<!ENTITY calendar.context.attendance.send.accesskey             "S">
+<!ENTITY calendar.context.attendance.dontsend.label             "Skicka inte en avisering">
+<!ENTITY calendar.context.attendance.dontsend.accesskey         "n">
+
+<!ENTITY calendar.context.attendance.occ.accepted.accesskey     "A">
+<!ENTITY calendar.context.attendance.occ.accepted.label         "Accepterad">
+<!ENTITY calendar.context.attendance.occ.tentative.accesskey    "p">
+<!ENTITY calendar.context.attendance.occ.tentative.label        "Accepteras preliminärt">
+<!ENTITY calendar.context.attendance.occ.declined.accesskey     "v">
+<!ENTITY calendar.context.attendance.occ.declined.label         "Avböjd">
+<!ENTITY calendar.context.attendance.occ.delegated.accesskey    "g">
+<!ENTITY calendar.context.attendance.occ.delegated.label        "Delegerad">
+<!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "B">
+<!ENTITY calendar.context.attendance.occ.needsaction.label      "Behöver fortfarande åtgärder">
+<!ENTITY calendar.context.attendance.occ.inprogress.accesskey   "P">
+<!ENTITY calendar.context.attendance.occ.inprogress.label       "Pågår">
+<!ENTITY calendar.context.attendance.occ.completed.accesskey    "k">
+<!ENTITY calendar.context.attendance.occ.completed.label        "Avklarad">
+
+<!ENTITY calendar.context.attendance.all.accepted.accesskey     "A">
+<!ENTITY calendar.context.attendance.all.accepted.label         "Accepterad">
+<!ENTITY calendar.context.attendance.all.tentative.accesskey    "p">
+<!ENTITY calendar.context.attendance.all.tentative.label        "Accepteras preliminärt">
+<!ENTITY calendar.context.attendance.all.declined.accesskey     "v">
+<!ENTITY calendar.context.attendance.all.declined.label         "Avvisad">
+<!ENTITY calendar.context.attendance.all.delegated.accesskey    "g">
+<!ENTITY calendar.context.attendance.all.delegated.label        "Delegerad">
+<!ENTITY calendar.context.attendance.all.needsaction.accesskey  "B">
+<!ENTITY calendar.context.attendance.all.needsaction.label      "Behöver fortfarande åtgärder">
+<!ENTITY calendar.context.attendance.all.inprogress.accesskey   "P">
+<!ENTITY calendar.context.attendance.all.inprogress.label       "Pågår">
+<!ENTITY calendar.context.attendance.all.completed.accesskey    "k">
+<!ENTITY calendar.context.attendance.all.completed.label        "Avklarad">
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Status">

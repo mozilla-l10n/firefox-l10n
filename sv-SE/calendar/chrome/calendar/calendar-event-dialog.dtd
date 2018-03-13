@@ -398,6 +398,7 @@
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Allmänt">
 <!ENTITY read.only.title.label           "Titel:">
+<!ENTITY read.only.calendar.label        "Kalender:">
 <!ENTITY read.only.event.start.label     "Start datum:">
 <!ENTITY read.only.task.start.label      "Start datum:">
 <!ENTITY read.only.event.end.label       "Slut datum:">
@@ -416,3 +417,17 @@
 <!ENTITY read.only.attendees.label       "Deltagare">
 <!ENTITY read.only.description.label     "beskrivning">
 <!ENTITY read.only.link.label            "Liknande länk">
+
+<!-- Summary dialog -->
+<!ENTITY summary.dialog.saveclose.label         "Spara och stäng">
+<!ENTITY summary.dialog.saveclose.tooltiptext   "Spara ändringar och stäng fönstret utan att ändra deltagandestatus och skicka ett svar">
+<!ENTITY summary.dialog.accept.label            "Acceptera">
+<!ENTITY summary.dialog.accept.tooltiptext      "Acceptera inbjudan">
+<!ENTITY summary.dialog.tentative.label         "Preliminär">
+<!ENTITY summary.dialog.tentative.tooltiptext   "Acceptera inbjudan preliminärt">
+<!ENTITY summary.dialog.decline.label           "Avböj">
+<!ENTITY summary.dialog.decline.tooltiptext     "Avböj inbjudan">
+<!ENTITY summary.dialog.dontsend.label          "Skicka inte ett svar">
+<!ENTITY summary.dialog.dontsend.tooltiptext    "Ändra din deltagandestatus utan att skicka ett svar till arrangören och stäng fönstret">
+<!ENTITY summary.dialog.send.label              "Skicka ett svar nu">
+<!ENTITY summary.dialog.send.tooltiptext        "Skicka ut ett svar till arrangören   och stäng fönstret">
