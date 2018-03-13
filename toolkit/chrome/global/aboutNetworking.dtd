@@ -23,6 +23,7 @@
 <!ENTITY aboutNetworking.sent                  "મોકલાયો">
 <!ENTITY aboutNetworking.received              "મેળવાયો">
 <!ENTITY aboutNetworking.family                "પરિવાર">
+<!ENTITY aboutNetworking.trr                   "TRR">
 <!ENTITY aboutNetworking.addresses             "સરનામાઓ">
 <!ENTITY aboutNetworking.expires               "નિવૃત્ત થાય છે (સેકન્ડો)">
 <!ENTITY aboutNetworking.messagesSent          "સંદેશાઓ મોકલાયા">
