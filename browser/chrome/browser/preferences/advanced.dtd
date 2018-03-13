@@ -121,7 +121,7 @@ available. -->
 
 <!ENTITY certificateTab.label            "Certificati">
 <!ENTITY certPersonal2.description       "Quande 'n server o domanda o teu certificato personale">
-<!ENTITY selectCerts.auto                "Seleçionn-a un in outomatico">
+<!ENTITY selectCerts.auto                "Seleçionn-a un in aotomatico">
 <!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "Domandimòu tutte e vòtte">
 <!ENTITY selectCerts.ask.accesskey       "D">
