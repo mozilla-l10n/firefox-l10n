@@ -246,6 +246,7 @@
 <!ENTITY quoteButton.tooltip "Citiraj prethodnu poruku">
 <!ENTITY addressButton.tooltip "Odaberi primaoca iz imenika">
 <!ENTITY attachButton.tooltip "Uključi prilog">
+<!ENTITY attachButton.tooltip2 "Dodaj prilog">
 <!ENTITY spellingButton.tooltip "Provjeri pravopis odabranog teksta ili cijele poruke">
 <!ENTITY saveButton.tooltip "Sačuvaj ovu poruku">
 <!ENTITY cutButton.tooltip              "Isjeci">
@@ -323,6 +324,7 @@
 <!ENTITY renameAttachment.accesskey "R">
 <!ENTITY reorderAttachments.label "Preuredi priloge…">
 <!ENTITY reorderAttachments.accesskey "s">
+<!ENTITY removeAllAttachments.label "Ukloni sve priloge">
 <!ENTITY selectAll.label "Označi sve">
 <!ENTITY selectAll.accesskey "A">
 <!ENTITY attachFile.label "Priloži datoteke…">
