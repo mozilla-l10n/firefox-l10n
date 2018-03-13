@@ -22,11 +22,11 @@
 <!ENTITY tabCrashed.requestHelp "Paleidziesi myusim?">
 <!ENTITY tabCrashed.requestHelpMessage "Avareju ziņuojumi paleidz myusim nūteikt problemys i uzlobuot &brandShortName;.">
 <!ENTITY tabCrashed.requestReport "Ziņuot par itū cilni">
-<!ENTITY tabCrashed.sendReport3 "Send an automated crash report so we can fix issues like this.">
-<!ENTITY tabCrashed.commentPlaceholder2 "Optional comments (comments are publicly visible)">
+<!ENTITY tabCrashed.sendReport3 "Syutēt automatiskus avarejis ziņojumus, kab mes varātu izlobōt klaidas.">
+<!ENTITY tabCrashed.commentPlaceholder2 "Naobligats komentars (komentars byus publiski radzams)">
 <!ENTITY tabCrashed.includeURL3 "Īkļaut ziņuojumā apmaklātuos lopys adresu, kurā &brandShortName; beja avarejis laikā.">
 <!ENTITY tabCrashed.emailPlaceholder "Ite īvodit sovu eposta adresu">
 <!ENTITY tabCrashed.emailMe "Paziņuot maņ kod ir pīejama papyldu informaceja">
-<!ENTITY tabCrashed.reportSent "Crash report already submitted; thank you for helping make &brandShortName; better!">
+<!ENTITY tabCrashed.reportSent "Avarejis ziņojumsnūsyuteits, paļdis, ka paleidzi uzlobōt &brandShortName;!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Ziņuot par fona cilnēm">
-<!ENTITY tabCrashed.autoSubmit3 "Update preferences to automatically submit reports when &brandShortName; crashes.">
+<!ENTITY tabCrashed.autoSubmit3 "Maineit īstatejumus, kab automatiski syuteitūs ziņojumi, kad &brandShortName; avarej.">
