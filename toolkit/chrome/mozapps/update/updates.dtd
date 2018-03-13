@@ -49,7 +49,7 @@
 <!ENTITY  finishedBackground.name         "Përditësim:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Përditësimi do të instalohet herës tjetër kur të niset &brandShortName;-i. Mund ta rinisni  &brandShortName;-in tani, ose të vazhdoni të punoni e ta rinisni më vonë.">
-<!ENTITY  finishedBackground.moreElevated "Ky përditësim lyp privilegje përgjegjësi. Përditësimi do të instalohet herës tjetër që niset &brandShortName;-i. Mund ta rinisni &brandShortName;-in tani, mund të vazhdoni punën dhe ta rinisni më vonë, ose ta hidhni tej këtë përditësim.">
+<!ENTITY  finishedBackground.moreElevated "Ky përditësim lyp privilegje përgjegjësi. Përditësimi do të instalohet herës tjetër që niset &brandShortName;-i. Mund ta rinisni &brandShortName;-in tani, mund të vazhdoni punën dhe ta rinisni më vonë, ose ta hidhni poshtë këtë përditësim.">
 
 <!ENTITY  update.details.label            "Hollësi">
 <!ENTITY  update.installedOn.label        "Instaluar në:">

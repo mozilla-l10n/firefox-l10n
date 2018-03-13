@@ -79,6 +79,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsProcessCount "Procese Lënde Web">
 
+<!ENTITY aboutSupport.enterprisePolicies "Rregulla të Ndërmarrjes">
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Kyç Google">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Kyç Mozilla Location Service">
