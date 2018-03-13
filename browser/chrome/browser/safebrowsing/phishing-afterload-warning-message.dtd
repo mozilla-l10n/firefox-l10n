@@ -2,8 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeb.palm.accept.label "Pòrtime feua de chi!">
-<!ENTITY safeb.palm.decline.label "Ignòra sto alarme">
+<!ENTITY safeb.palm.accept.label2 "Vanni inderê">
+<!ENTITY safeb.palm.seedetails.label "Mostra detalli">
+
 <!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu
   item. Either this or reportDeceptiveSiteMenu.label from report-phishing.dtd is
   shown. -->
@@ -13,20 +14,36 @@
   report-phishing.dtd are never shown at the same time, the same accesskey can
   be used for them. -->
 <!ENTITY safeb.palm.notdeceptive.accesskey "g">
-<!ENTITY safeb.palm.reportPage.label "Perché sta pagina a l'é stæta blocâ?">
 
-<!ENTITY safeb.blocked.malwarePage.title "Pagina de atacco segnala!">
-<!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "O scito <span id='malware_sitename'/> o l'é stæto segnalou comme 'n scito de atacco e o l'é stæto blocou da-e teu preferense de seguessa.">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>I sciti de atacco preuvan a instalâ de aplicaçioin che aröban e informaçioin privæ, adeuvian o teu computer pe atacâ i atri ò aroinan o teu computer</p><p>Quarche scito de atacco o peu mette in gio aplicaçioin pericoloze ma tante no fonçionan sensa a conoscensa ò o permisso di propietai.</p>">
+<!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
+<!ENTITY safeb.palm.advisory.desc2 "Conseggio da <a id='advisory_provider'/>.">
 
-<!ENTITY safeb.blocked.unwantedPage.title "Segnalou scito con do software indeziderou">
-<!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.unwantedPage.shortDesc "O scito <span id='unwanted_sitename'/> o l'é segnalou comme scito con do software indeziderou e o l'é blocou in baze a-e inpostaçioin de seguessa ative.">
-<!ENTITY safeb.blocked.unwantedPage.longDesc "<p>Sto tipo de sciti çercan de instalâ programmi che peuan fa de gazibbe e avei de consegoense inaspetæ in sciô scistema.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title2 "Scito inganevole!">
-<!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Sta pagina a <span id='phishing_sitename'/> l'é stæta segnalâ comme inganevole e a l'é stæta blocâ da-e teu preferense de seguessa.">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>I sciti inganevoli en fæti pe bidonate e fate fâ quarcösa de pericolozo, comme instalâ software, ò rivelâ informaçioin personâ, comme paròlle segrete, numeri de telefono ò carte de credito.</p><p>Se ti scrivi de informaçioin inte sta pagina peu sucede che te aröban l'identitæ ò te fan atri inbreuggi.</p>">
+<!ENTITY safeb.blocked.malwarePage.title2 "Vixitâ sto scito o porieiva aroinâ o computer">
+<!ENTITY safeb.blocked.malwarePage.shortDesc2 "&brandShortName; o l'à blocou sta pagina perché a preuva a instalâ do software grammo che te peu xatâ ò scancelâ informaçioin personâ into computer.">
+
+<!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+<!ENTITY safeb.blocked.malwarePage.errorDesc.override "<span id='malware_sitename'/> o l'é stæto <a id='error_desc_link'>segnalou de contegnî software grammo</a>. Ti peu <a id='report_detection'>segnalâ un erô de segnalaçion</a> ò <a id='ignore_warning_link'>ignorâ o reizego</a> e anâ in sto scito pericolozo.">
+
+<!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/> o l'é stæto <a id='error_desc_link'>segnalou de contegnî software grammo</a>. Ti peu <a id='report_detection'>segnalâ un erô de segnalaçion</a>.">
+
+
+
+
+<!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+
+
+
+
+
+<!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+
+
+
+
+<!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
 

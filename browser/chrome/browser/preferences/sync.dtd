@@ -29,7 +29,7 @@
 <!ENTITY engine.addresses.label     "Indirissi">
 <!ENTITY engine.addresses.title     "Indirissi de pòsta che t'æ sarvou (solo desktop)">
 <!ENTITY engine.addresses.accesskey "e">
-<!ENTITY engine.creditcards.label   "Papê a poffo">
+<!ENTITY engine.creditcards.label   "Carte a poffo">
 <!ENTITY engine.creditcards.title   "Nommi, numeri e dæte de scadensa (solo desktop)">
 <!ENTITY engine.creditcards.accesskey "P">
 
@@ -70,10 +70,18 @@ both, to better adapt this sentence to their language.
 <!ENTITY verifiedManage.accesskey     "o">
 <!ENTITY disconnect3.label            "Disconetti…">
 <!ENTITY disconnect3.accesskey        "D">
+<!ENTITY resendVerification.label     "Manda torna verifica">
+<!ENTITY resendVerification.accesskey "d">
+<!ENTITY cancelSetup.label            "Anulla configuraçion">
+<!ENTITY cancelSetup.accesskey        "g">
 
 <!ENTITY signedOut.caption            "A teu Ræ, de longo con ti">
 <!ENTITY signedOut.description        "Scincronizza segnalibbri, stöia, feuggi, paròlle segrete, conponenti azonti e inpostaçioin con tutti i teu dispoxitivi.">
 <!ENTITY signedOut.accountBox.title   "Conetti &syncBrand.fxAccount.label;">
+<!ENTITY signedOut.accountBox.create2 "No ti gh'æ ancon 'n account? Iniçia chi">
+<!ENTITY signedOut.accountBox.create2.accesskey "C">
+<!ENTITY signedOut.accountBox.signin2 "Intra…">
+<!ENTITY signedOut.accountBox.signin2.accesskey "I">
 
 <!ENTITY signedIn.settings.label       "Inpostaçioin de Sync">
 <!ENTITY signedIn.settings.description "Çerni cöse t'eu scincronizâ inti teu dispoxitivi deuviando &brandShortName;.">
@@ -94,3 +102,5 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY mobilePromo3.end              " pe scincronizâ co-i teu dispoxitivi mòbili.">
 
+<!ENTITY mobilepromo.singledevice      "Conetti atro dispoxitivo">
+<!ENTITY mobilepromo.multidevice       "Gestisci dispoxitivi">
