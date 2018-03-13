@@ -88,6 +88,14 @@
 <!ENTITY reorderAttachmentsCmd.label "Réorganiser les pièces jointes…">
 <!ENTITY reorderAttachmentsCmd.accesskey "a">
 <!ENTITY reorderAttachmentsCmd.key "x">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
+     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
+     as attachments.accesskey. -->
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
+     With OS-specific access modifier, this defines the shortcut key for showing/
+     hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
+     toggleAttachmentPaneCmd.key and attachments.accesskey must be the same
+     for the bucket view state machinery to work. -->
 <!ENTITY selectAllCmd.label "Tout sélectionner">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "T">
@@ -109,26 +117,10 @@
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Réorganiser les pièces jointes">
 <!ENTITY moveAttachmentTopPanelBtn.label "Déplacer tout en haut">
-<!ENTITY moveAttachmentTopPanelBtn.accesskey "t">
 <!ENTITY moveAttachmentUpPanelBtn.label "Déplacer vers le haut">
-<!ENTITY moveAttachmentUpPanelBtn.accesskey "h">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Déplacer l’ensemble">
-<!ENTITY moveAttachmentBundleUpPanelBtn.accesskey "e">
 <!ENTITY moveAttachmentDownPanelBtn.label "Déplacer vers le bas">
-<!ENTITY moveAttachmentDownPanelBtn.accesskey "b">
 <!ENTITY moveAttachmentBottomPanelBtn.label "Déplacer tout en bas">
-<!ENTITY moveAttachmentBottomPanelBtn.accesskey "o">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.label):
-     Please ensure that this translation matches
-     sortAttachmentsTogglePanelBtn.ZA.label, except for the sort direction. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.label "Trier la sélection : A - Z">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.accesskey):
-     This accesskey should be the same like
-     sortAttachmentsTogglePanelBtn.ZA.accesskey, and it should be taken from
-     the "Sort Selection:" part of the label, not from the sort direction part. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.accesskey "r">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.label "Trier la sélection : Z - A">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.accesskey "r">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -274,9 +266,12 @@
 <!ENTITY followupAddr.label "Faire suivre à :">
 <!ENTITY subject.label "Sujet :">
 <!ENTITY subject.accesskey "S">
-<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
-     to the strings in attachmentCount in composeMsgs.properties -->
+<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
+     be taken from the strings in attachmentCount in composeMsgs.properties,
+     and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
+     work, as the shortcut key functionality supersedes the access key. -->
 <!ENTITY attachments.accesskey "j">
+
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Insérer une émoticône">
@@ -314,6 +309,7 @@
 <!ENTITY pasteQuote.label "Coller comme citation">
 <!ENTITY pasteQuote.accesskey "i">
 
+<!-- Attachment Item and List Context Menus -->
 <!ENTITY openAttachment.label "Ouvrir">
 <!ENTITY openAttachment.accesskey "O">
 <!ENTITY delete.label "Supprimer">

@@ -509,8 +509,6 @@
 <!ENTITY devToolboxCmd.label "Boîte à outils de développement">
 <!ENTITY devToolboxCmd.accesskey "B">
 <!ENTITY devToolboxCmd.commandkey "i">
-<!ENTITY addonDebugCmd.label "Débogueur de modules">
-<!ENTITY addonDebugCmd.accesskey "D">
 <!ENTITY debugAddonsCmd.label "Déboguer les modules">
 <!ENTITY debugAddonsCmd.accesskey "M">
 <!ENTITY tabsDebugCmd.label "Débogueur de cadres de contenu">
