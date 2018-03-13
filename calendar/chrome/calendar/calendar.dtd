@@ -172,12 +172,49 @@
 <!ENTITY calendar.context.copyevent.accesskey         "γ">
 <!ENTITY calendar.context.pasteevent.label            "Επικόλληση">
 <!ENTITY calendar.context.pasteevent.accesskey        "λ">
-<!ENTITY calendar.context.button.label                "Παράθυρο ημέρας" >
-<!ENTITY calendar.context.button.accesskey            "θ" >
-<!ENTITY calendar.context.attendance.menu.label       "Συμμετοχή" >
-<!ENTITY calendar.context.attendance.menu.accesskey   "χ" >
-<!ENTITY calendar.context.attendance.occurrence.label "Αυτό το στιγμιότυπο" >
+<!ENTITY calendar.context.button.label                "Παράθυρο ημέρας">
+<!ENTITY calendar.context.button.accesskey            "θ">
+
+<!ENTITY calendar.context.attendance.menu.label                 "Συμμετοχή">
+<!ENTITY calendar.context.attendance.menu.accesskey             "χ">
+<!ENTITY calendar.context.attendance.occurrence.label           "Αυτό το στιγμιότυπο">
 <!ENTITY calendar.context.attendance.all.label        "Όλα τα στιγμιότυπα" >
+
+<!ENTITY calendar.context.attendance.all2.label                 "Πλήρης Σειρά">
+<!ENTITY calendar.context.attendance.send.label                 "Να αποσταλεί ειδοποίηση τώρα">
+<!ENTITY calendar.context.attendance.send.accesskey             "S">
+<!ENTITY calendar.context.attendance.dontsend.label             "Να μην αποσταλεί τώρα ειδοποίηση">
+<!ENTITY calendar.context.attendance.dontsend.accesskey         "D">
+
+<!ENTITY calendar.context.attendance.occ.accepted.accesskey     "A">
+<!ENTITY calendar.context.attendance.occ.accepted.label         "Έγινε αποδεκτό">
+<!ENTITY calendar.context.attendance.occ.tentative.accesskey    "y">
+<!ENTITY calendar.context.attendance.occ.tentative.label        "Έγινε αποδεκτό με δισταγμό">
+<!ENTITY calendar.context.attendance.occ.declined.accesskey     "c">
+<!ENTITY calendar.context.attendance.occ.declined.label         "Απορρίφθηκε">
+<!ENTITY calendar.context.attendance.occ.delegated.accesskey    "g">
+<!ENTITY calendar.context.attendance.occ.delegated.label        "Ανατέθηκε">
+<!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "S">
+<!ENTITY calendar.context.attendance.occ.needsaction.label      "Χρειάζεται ακόμη ενέργεια">
+<!ENTITY calendar.context.attendance.occ.inprogress.accesskey   "I">
+<!ENTITY calendar.context.attendance.occ.inprogress.label       "Σε εξέλιξη">
+<!ENTITY calendar.context.attendance.occ.completed.accesskey    "C">
+<!ENTITY calendar.context.attendance.occ.completed.label        "Ολοκληρώθηκε">
+
+<!ENTITY calendar.context.attendance.all.accepted.accesskey     "e">
+<!ENTITY calendar.context.attendance.all.accepted.label         "Εγκρίθηκε">
+<!ENTITY calendar.context.attendance.all.tentative.accesskey    "v">
+<!ENTITY calendar.context.attendance.all.tentative.label        "Έγινε αποδεκτό με δισταγμό">
+<!ENTITY calendar.context.attendance.all.declined.accesskey     "d">
+<!ENTITY calendar.context.attendance.all.declined.label         "Απορρίφθηκε">
+<!ENTITY calendar.context.attendance.all.delegated.accesskey    "">
+<!ENTITY calendar.context.attendance.all.delegated.label        "Ανατέθηκε">
+<!ENTITY calendar.context.attendance.all.needsaction.accesskey  "l">
+<!ENTITY calendar.context.attendance.all.needsaction.label      "Χρειάζεται ακόμη ενέργεια">
+<!ENTITY calendar.context.attendance.all.inprogress.accesskey   "p">
+<!ENTITY calendar.context.attendance.all.inprogress.label       "Σε εξέλιξη">
+<!ENTITY calendar.context.attendance.all.completed.accesskey    "m">
+<!ENTITY calendar.context.attendance.all.completed.label        "Ολοκληρώθηκε">
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Πρόοδος">

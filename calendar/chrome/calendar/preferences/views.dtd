@@ -37,3 +37,5 @@
 <!ENTITY pref.numberofweeks.4 "4 εβδομάδες">
 <!ENTITY pref.numberofweeks.5 "5 εβδομάδες">
 <!ENTITY pref.numberofweeks.6 "6 εβδομάδες">
+<!ENTITY pref.showlocation.label "Εμφάνιση τοποθεσίας">
+<!ENTITY pref.showlocation.accesskey "L">
