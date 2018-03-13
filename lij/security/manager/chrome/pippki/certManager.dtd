@@ -11,6 +11,10 @@
 <!ENTITY certmgr.tab.orphan2                  "Atri">
 
 <!ENTITY certmgr.mine2                        "Ti gh'é sti certificati da ste organizaçioin che te identifican">
+<!ENTITY certmgr.others2                      "Ti gh'é sti certificati che identifican ste personn-e">
+<!ENTITY certmgr.websites3                    "Ti gh'é sti certificati che identifican sti server">
+<!ENTITY certmgr.cas2                         "Ti gh'é sti certificati inti file che identifican ste aotoritæ">
+<!ENTITY certmgr.orphans2                     "Ti gh'é sti certificati in sti file che no son in nisciunn-a de atre categorie">
 
 <!ENTITY certmgr.detail.general_tab.title     "Generale">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
