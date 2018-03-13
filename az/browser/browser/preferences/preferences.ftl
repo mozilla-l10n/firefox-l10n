@@ -22,6 +22,11 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
+policies-notice =
+    { PLATFORM() ->
+        [windows] Təşkilatınız bəzi seçimləri dəyişdirməyinizi əngəlləyib.
+       *[other] Təşkilatınız bəzi nizamlamaları dəyişdirməyinizi əngəlləyib.
+    }
 pane-general-title = Ümumi
 category-general =
     .tooltiptext = { pane-general-title }
@@ -47,6 +52,7 @@ feature-enable-requires-restart = Yeni özəlliyi aktivləşdirmək üçün { -b
 feature-disable-requires-restart = Yeni özəlliyi söndürmək üçün { -brand-short-name } yenidən başladılmalıdır.
 should-restart-title = { -brand-short-name } yenidən başladılsın
 should-restart-ok = { -brand-short-name } indi yenidən başlat
+cancel-no-restart-button = Ləğv et
 restart-later = Sonra yenidən başlat
 
 ## General Section
@@ -264,6 +270,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Şəbəkə Proksisi
+network-proxy-connection-learn-more = Ətraflı öyrən
 network-proxy-connection-settings =
     .label = Nizamlar…
     .accesskey = a

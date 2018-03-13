@@ -23,6 +23,7 @@
 <!ENTITY aboutNetworking.sent                  "Göndərildi">
 <!ENTITY aboutNetworking.received              "Alındı">
 <!ENTITY aboutNetworking.family                "Ailə">
+<!ENTITY aboutNetworking.trr                   "TRR">
 <!ENTITY aboutNetworking.addresses             "Ünvanlar">
 <!ENTITY aboutNetworking.expires               "Vaxtı keçir (saniyələr)">
 <!ENTITY aboutNetworking.messagesSent          "Göndərilən mesajlar">

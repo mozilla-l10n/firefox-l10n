@@ -8,6 +8,8 @@
 <!ENTITY  window.macWidth2              "44em">
 
 <!ENTITY  proxyTitle.label              "İnternetə bağlanmaq üçün proxy-serverləri nizamla">
+
+<!ENTITY  proxyTitle.label2             "İnternetə Proxy Girişini nizamla">
 <!ENTITY  noProxyTypeRadio.label        "Proksisiz">
 <!ENTITY  noProxyTypeRadio.accesskey    "s">
 <!ENTITY  systemTypeRadio.label         "Sistem proxy-serverlərindən istifadə et">
