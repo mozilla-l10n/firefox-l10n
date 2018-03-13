@@ -189,17 +189,32 @@
 <!ENTITY calendar.context.attendance.occ.accepted.accesskey     "e">
 <!ENTITY calendar.context.attendance.occ.accepted.label         "Derbyn">
 <!ENTITY calendar.context.attendance.occ.tentative.accesskey    "y">
-<!ENTITY calendar.context.attendance.occ.tentative.label        "Derbyn yn betrys">
+<!ENTITY calendar.context.attendance.occ.tentative.label        "Derbyn yn amodol">
 <!ENTITY calendar.context.attendance.occ.declined.accesskey     "g">
 <!ENTITY calendar.context.attendance.occ.declined.label         "Gwrthod">
 <!ENTITY calendar.context.attendance.occ.delegated.accesskey    "r">
 <!ENTITY calendar.context.attendance.occ.delegated.label        "Dirprwyo">
 <!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "G">
-<!ENTITY calendar.context.attendance.occ.needsaction.label      "Angen gweithredu">
+<!ENTITY calendar.context.attendance.occ.needsaction.label      "Angen gwaith">
 <!ENTITY calendar.context.attendance.occ.inprogress.accesskey   "W">
-<!ENTITY calendar.context.attendance.occ.inprogress.label       "Wrthi'n penderfynnu">
+<!ENTITY calendar.context.attendance.occ.inprogress.label       "Ar waith">
 <!ENTITY calendar.context.attendance.occ.completed.accesskey    "W">
+<!ENTITY calendar.context.attendance.occ.completed.label        "Wedi cwblhau">
 
+<!ENTITY calendar.context.attendance.all.accepted.accesskey     "d">
+<!ENTITY calendar.context.attendance.all.accepted.label         "Wedi derbyn">
+<!ENTITY calendar.context.attendance.all.tentative.accesskey    "t">
+<!ENTITY calendar.context.attendance.all.tentative.label        "Derbyn yn amodol">
+<!ENTITY calendar.context.attendance.all.declined.accesskey     "w">
+<!ENTITY calendar.context.attendance.all.declined.label         "Gwrthod">
+<!ENTITY calendar.context.attendance.all.delegated.accesskey    "p">
+<!ENTITY calendar.context.attendance.all.delegated.label        "Dirprwyo">
+<!ENTITY calendar.context.attendance.all.needsaction.accesskey  "n">
+<!ENTITY calendar.context.attendance.all.needsaction.label      "Dal angen gwaith">
+<!ENTITY calendar.context.attendance.all.inprogress.accesskey   "a">
+<!ENTITY calendar.context.attendance.all.inprogress.label       "Ar waith">
+<!ENTITY calendar.context.attendance.all.completed.accesskey    "h">
+<!ENTITY calendar.context.attendance.all.completed.label        "Wedi cwblhau">
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Cynnydd">
