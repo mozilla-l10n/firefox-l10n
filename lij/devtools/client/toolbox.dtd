@@ -14,6 +14,11 @@
   -  shown next to error details when the Browser Toolbox is unable to open. -->
 <!ENTITY browserToolboxErrorMessage          "Erô into arvî i strumenti:">
 
+<!-- LOCALIZATION NOTE (browserToolboxStatusMessage): This is the label
+  -  shown next to status details when the Browser Toolbox fails to connect or
+  -  appears to be taking a while to do so. -->
+<!ENTITY browserToolboxStatusMessage "Stæto de conescion da scatoa di atressi do navegatô:">
+
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 <!ENTITY options.context.advancedSettings "Inpostaçioin avansæ">
@@ -70,7 +75,7 @@
   -  options panel and is used for settings that trigger page reload. -->
 <!ENTITY options.context.triggersPageRefresh  "* solo sescion corente, recarega a pagina">
 
-<!-- LOCALIZATION NOTE (options.enableChrome.label4): This is the label for the
+<!-- LOCALIZATION NOTE (options.enableChrome.label5): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableChrome.label5    "Ativa debug chrome do navegatô e conponenti azonti">
@@ -81,12 +86,6 @@
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableRemote.label3    "Ativa debug remòtto">
 <!ENTITY options.enableRemote.tooltip2  "Ativando sta opçion se peu adeuviâ i strumenti do svilupatô pò-u debug su istanse remòtte de Firefox comme Firefox OS">
-
-<!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
-  -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
-  -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableWorkers.label    "Ativa debug worker (in sviluppo)">
-<!ENTITY options.enableWorkers.tooltip  "Ativando sta opçion l'é poscibile adeuviâ i strumenti do svilupatô pe fâ o debug di worker">
 
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
@@ -150,20 +149,15 @@
   -  heading of the group of Debugger preferences in the options panel. -->
 <!ENTITY options.debugger.label            "Debugger">
 
-<!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
-   - label for the checkbox that toggles source maps in the Debugger -->
+<!-- LOCALIZATION NOTE (options.sourceMaps.label): This is the
+   - label for the checkbox that toggles source maps in all tools -->
 <!ENTITY options.sourceMaps.label      "Abilita a mappa di sorgenti">
-<!ENTITY options.sourceMaps.tooltip    "Se ti abilita sta òpçion i sorgenti saian mapæ into Debugger e inta Console.">
+<!ENTITY options.sourceMaps.tooltip1   "Se ti abiliti sta òpçion i sorgenti saian mapæ inti atressi.">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
 <!ENTITY options.styleeditor.label            "Editô do stile">
-
-<!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
-   - label for the checkbox that toggles showing original sources in the Style Editor -->
-<!ENTITY options.stylesheetSourceMaps.label      "Amia sorgenti òriginali">
-<!ENTITY options.stylesheetSourceMaps.tooltip    "Amia sorgenti òriginali (prez. file Sass) in Editô do stile e Analixi pagina">
 
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
@@ -184,18 +178,6 @@
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
 <!ENTITY options.screenshot.audio.label      "Fanni o son da machina fòtografica">
 <!ENTITY options.screenshot.audio.tooltip    "Abilita o son da machina fotografica quande ti fæ 'na föto do schermo">
-
-<!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
-      of all preferences that affect both the Web Console and the Network
-      Monitor -->
-<!ENTITY options.commonPrefs.label           "Preferense comuni">
-
-<!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
-  -  label for the checkbox that toggles persistent logs in the Web Console and
-  -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
-  -  about:config, in the options panel. -->
-<!ENTITY options.enablePersistentLogs.label    "Ativa registri permanenti">
-<!ENTITY options.enablePersistentLogs.tooltip  "Ativando sta opçion a Console web e o Monitor da ræ o no saiâ azerou ògni vòtta che se navega inte 'n'atra pagina">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
