@@ -242,6 +242,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.popupBlocked.tooltip             "Bu sayt üçün peyda olan pəncərələri əngəllədiniz.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Bu sayt üçün lövhə (canvas) məlumatı çıxartmanı əngəllədiniz.">
 
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "Bu saytın Adobe Flash qoşmasını işlətməsini əngəlləmisiniz.">
+<!ENTITY urlbar.midiBlocked.tooltip              "Bu saytın MIDI işlətməsini əngəlləmisiniz.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Tarixçəni göstər">
 
@@ -388,6 +390,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Digər cihazlarınızda olan vərəqləri burada görmək istərdiniz?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync Nizamlamaları">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Sync Nizamlamalarını Aç">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Digər cihazlarınızdakı vərəqlərin siyahısını görmək üçün daxil olun.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Hesabınız təsdiqlənməlidir.">
 <!ENTITY appMenuRemoteTabs.signin.label "Sync-ə Daxil ol">
@@ -435,6 +438,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Ünvanı daxil et və ya axtar">
+<!ENTITY urlbar.placeholder3          "Axtarış ifadəsini və ünvanları buraya daxil edin">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Uzantı:">
@@ -1006,3 +1010,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
+<!ENTITY addonPostInstallMessage.label "Əlavələrinizi <image class='addon-toolbar-icon'/> menyusundan <image class='addon-addon-icon'/> klikləyərək idarə edin.">

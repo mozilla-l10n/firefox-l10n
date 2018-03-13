@@ -4,8 +4,8 @@
 
 <!ENTITY loadError.label "Səhifə yüklənmə xətası">
 <!ENTITY retry.label "Təkrar Yoxla">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Əlaqə cəhdi uğursuz oldu">
 <!ENTITY connectionFailure.longDesc "<p>Baxmayaraq ki, saytın doğru olduğu görsənir, səyyah saytla əlaqə saxlaya bilmədi.</p><ul><li>Sayt müvəqqəti olaraq qapalı ola bilər? Daha sonra yenidən yoxlayın.</li><li>Digər saytları da aça bilmirsiz?  Əgər elədirsə kompüterinizin intetnet bağlantısını yoxlayın.</li><li>Kompüteriniz və ya internet bağlantınız təhlükəsizlik divarı və ya proksi ilə qorunur? Düzgün nizamlanmamış seçimlər Veb Səyahətinizə mane ola bilər.</li></ul>">
@@ -86,3 +86,5 @@
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> vaxtı keçmiş texnologiya işlədir və hücumlara açıqdır. Hücumçu güvənilir olduğunu düşündüyünüz məlumatı əldə edə bilər. Saytın administratoru problemi həll etdikdən sonra təkrar daxil ola bilərsiz.</p><p>Xəta kodu: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY blockedByPolicy.title "Əngəllənmiş Səhifə">

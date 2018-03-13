@@ -132,5 +132,7 @@ was trying to connect. -->
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> vaxtı keçmiş və hücumlara açıq bir texnologiyadan istifadə edir. Hücumçular etibarlı olduğunu düşündüyünüz məlumatlarınızı əldə edə bilərlər. Saytın idarəçisi problemi həll etdikdən sonra təkrar daxil ola bilərsiz.</p><p>Xəta kodu: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
+<!ENTITY blockedByPolicy.title "Əngəllənmiş Səhifə">
+
 <!ENTITY prefReset.longDesc "Şəbəkə təhlükəsizliyi tənzimləmələri buna səbəb ola bilər. Standart tənzimləməri geri yükləmək istəyirsinizmi?">
 <!ENTITY prefReset.label "Ön tənzimləmələri bərpa et">
