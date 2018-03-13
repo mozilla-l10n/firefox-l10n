@@ -172,12 +172,19 @@
 <!ENTITY calendar.context.copyevent.accesskey         "S">
 <!ENTITY calendar.context.pasteevent.label            "Tampal">
 <!ENTITY calendar.context.pasteevent.accesskey        "T">
-<!ENTITY calendar.context.button.label                "Anak Tetingkap Hari ini" >
-<!ENTITY calendar.context.button.accesskey            "H" >
-<!ENTITY calendar.context.attendance.menu.label       "Kehadiran" >
-<!ENTITY calendar.context.attendance.menu.accesskey   "d" >
-<!ENTITY calendar.context.attendance.occurrence.label "Kejadian Ini" >
+<!ENTITY calendar.context.button.label                "Anak Tetingkap Hari ini">
+<!ENTITY calendar.context.button.accesskey            "H">
+
+<!ENTITY calendar.context.attendance.menu.label                 "Kehadiran">
+<!ENTITY calendar.context.attendance.menu.accesskey             "d">
+<!ENTITY calendar.context.attendance.occurrence.label           "Kejadian Ini">
 <!ENTITY calendar.context.attendance.all.label        "Semua Kejadian" >
+
+<!ENTITY calendar.context.attendance.all2.label                 "Siri Lengkap">
+<!ENTITY calendar.context.attendance.send.label                 "Hantar notifikasi sekarang">
+<!ENTITY calendar.context.attendance.send.accesskey             "H">
+
+
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Kemajuan">
