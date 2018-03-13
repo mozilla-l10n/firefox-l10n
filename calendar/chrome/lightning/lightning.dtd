@@ -42,7 +42,6 @@
      These strings are used in the calendar wizard and the calendar properties dialog, but are only
      displayed when setting/using a caldav calendar -->
 <!ENTITY lightning.calendarproperties.email.label                           "E-Bost:">
-
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.label            "Ffracio amserlennu e-bost ochr y cleient">
 <!-- LOCALIZATON NOTE(lightning.calendarproperties.forceEmailScheduling.tooltiptext1,
      lightning.calendarproperties.forceEmailScheduling.tooltiptext2)
@@ -83,6 +82,13 @@
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "Diweddaru">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Diweddaru'r digwyddiad yn y calendr">
 <!ENTITY lightning.imipbar.description                                      "Mae'r neges hon yn cynnwys gwahoddiad i ddigwyddiad.">
+
+<!ENTITY lightning.imipbar.btnSend.label                                    "Anfon ymateb nawr">
+<!ENTITY lightning.imipbar.btnSend.tooltiptext                              "Anfon ymateb i'r trefnydd">
+<!ENTITY lightning.imipbar.btnSendSeries.tooltiptext                        "Anfon ymateb am y gyfres gyfan i'r trefnydd">
+<!ENTITY lightning.imipbar.btnDontSend.label                                "Peidio anfon ymateb">
+<!ENTITY lightning.imipbar.btnDontSend.tooltiptext                          "Newid eich statws cyfranogi heb anfon ymateb i'r trefnydd">
+<!ENTITY lightning.imipbar.btnDontSendSeries.tooltiptext                    "Newid eich statws cyfranogi ar gyfer y gyfres heb anfon ymateb i'r trefnydd">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
