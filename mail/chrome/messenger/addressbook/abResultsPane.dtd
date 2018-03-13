@@ -10,7 +10,11 @@
 <!ENTITY SecondEmail.label                     "Dodatna e-pošta">
 <!ENTITY Department.label                      "Oddelek">
 <!ENTITY JobTitle.label                        "Naziv">
+<!ENTITY CellularNumber.label                  "Mobilnik">
 <!ENTITY PagerNumber.label                     "Pozivnik">
 <!ENTITY FaxNumber.label                       "Faks">
+<!ENTITY HomePhone.label                       "Telefon doma">
+<!ENTITY WorkPhone.label                       "Telefon v službi">
+<!ENTITY ChatName.label                        "Ime za klepet">
 <!ENTITY sortAscending.label                   "Naraščajoče">
 <!ENTITY sortDescending.label                  "Padajoče">
