@@ -73,7 +73,7 @@
 <!ENTITY signedIn.settings.label "Ustawienia synchronizacji">
 <!ENTITY signedIn.settings.description "Wybierz, co synchronizować pomiędzy urządzeniami używając programu &brandShortName;.">
 
-<!ENTITY mobilePromo3.start "Pobierz Firefoksa na">
+<!ENTITY mobilePromo3.start "Pobierz Firefoksa na ">
 <!ENTITY mobilePromo3.androidLink "Androida">
 <!ENTITY mobilePromo3.iOSBefore " lub ">
 <!ENTITY mobilePromo3.iOSLink "iOSa">
