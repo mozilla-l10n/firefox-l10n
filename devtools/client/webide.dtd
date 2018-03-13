@@ -26,7 +26,7 @@
 <!ENTITY projectMenu_showPrefs_accesskey "e">
 <!ENTITY projectMenu_manageComponents_label "கூடுதல் கூறுகளை நிர்வகி">
 <!ENTITY projectMenu_manageComponents_accesskey "M">
-
+<!ENTITY projectMenu_refreshTabs_label "கீற்றுக்களை புதுப்பி">
 
 <!ENTITY runtimeMenu_label "இயக்க நேரம்">
 <!ENTITY runtimeMenu_accesskey "R">
@@ -40,8 +40,8 @@
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "சாதன முன்னுரிமைகள்">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
-
-
+<!ENTITY runtimeMenu_showSettings_label "சாதன அமைவுகள்">
+<!ENTITY runtimeMenu_showSettings_accesskey "s">
 
 <!ENTITY viewMenu_label "பார்">
 <!ENTITY viewMenu_accesskey "V">
@@ -54,9 +54,9 @@
 
 <!ENTITY projectButton_label "செயலியை திற">
 <!ENTITY runtimeButton_label "இயக்க நேரத்தைத் தேர்">
+
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
-
 <!ENTITY key_quit "W">
 <!-- open menu -->
 <!ENTITY key_showProjectPanel "O">
@@ -75,14 +75,12 @@
 <!ENTITY projectPanel_tabs "கீற்றுகள்">
 <!ENTITY runtimePanel_usb "USB சாதனங்கள்">
 <!ENTITY runtimePanel_wifi "அருகலைச் சாதனங்கள்">
-<!ENTITY runtimePanel_simulator "பகர்ப்புகள்">
 <!ENTITY runtimePanel_other "பிற">
-<!ENTITY runtimePanel_installsimulator "சிமுலேட்டரை நிறுவு">
 <!ENTITY runtimePanel_noadbhelper "ADB உதவியை நிறுவு">
 <!ENTITY runtimePanel_nousbdevice "உங்கள் சாதனத்தைப் பார்க்க முடியவில்லை?">
+<!ENTITY runtimePanel_refreshDevices_label "கருவிகளைப் புதுப்பி">
 
 <!-- Lense -->
-
 <!ENTITY details_valid_header "சரியானது">
 <!ENTITY details_warning_header "எச்சரிக்கைகள்">
 <!ENTITY details_error_header "பிழைகள்">
@@ -90,23 +88,23 @@
 <!ENTITY details_location "இடம்">
 <!ENTITY details_manifestURL "செயலி அடையாளம்">
 <!ENTITY details_removeProject_button "செயற்திட்டத்தை நீக்கு">
-<!-- New App -->
 
+<!-- New App -->
 <!ENTITY newAppWindowTitle "புதிய செயலி">
 <!ENTITY newAppHeader "வார்ப்புருவைத் தேர்">
 <!ENTITY newAppLoadingTemplate "வார்ப்புக்களை ஏற்றுகிறது…">
 <!ENTITY newAppProjectName "திட்டப் பெயர்:">
+
+
 <!-- Decks -->
 
-
-
 <!ENTITY deck_close "மூடுக">
-<!-- Addons -->
 
+<!-- Addons -->
 <!ENTITY addons_title "கூடுதல் கூறுகள்">
 <!ENTITY addons_aboutaddons "துணை நிரல் மேலாளரை திற">
-<!-- Prefs -->
 
+<!-- Prefs -->
 <!ENTITY prefs_title "முன்னுரிமைகள்">
 <!ENTITY prefs_editor_title "தொகுப்பி">
 <!ENTITY prefs_general_title "பொது">
@@ -118,42 +116,46 @@
 <!ENTITY prefs_options_rememberlastproject_tooltip "WebIDE தொடங்கும்பொது முந்தைய திட்டத்தை மீள்சேமி">
 <!ENTITY prefs_options_templatesurl "வார்ப்புரு URL">
 <!ENTITY prefs_options_templatesurl_tooltip "இருக்கும் வார்ப்புருக்களின் அகரவரிசை">
-<!-- Runtime Details -->
 
+<!-- Runtime Details -->
 <!ENTITY runtimedetails_title "இயக்க நேர தகவல்">
 <!ENTITY runtimedetails_adbIsRoot "ADB ஆனது root: ">
 <!ENTITY runtimedetails_summonADBRoot "மூலச் சாதனம்">
 <!ENTITY runtimedetails_ADBRootWarning "(திறக்கப்பட்ட bootloader தேவை)">
-
+<!ENTITY runtimedetails_unrestrictedPrivileges "கட்டுப்பாடற்ற DevTools முன்னுரிமைகள்: ">
 <!ENTITY runtimedetails_requestPrivileges "உயரிய சலுகைகளை கேள்">
 <!ENTITY runtimedetails_privilegesWarning "(சாதனம் மீள்துவங்கும். root அனுமதி தேவை.)">
-<!-- Device Preferences and Settings -->
 
+<!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "பூலியன்">
 <!ENTITY device_typenumber "முழுஎண்">
 <!ENTITY device_typestring "சரம்">
 <!ENTITY device_typeobject "பொருள்">
 <!ENTITY device_typenone "ஒரு வகையைத் தேர்">
-<!-- Device Preferences -->
 
+<!-- Device Preferences -->
 <!ENTITY devicepreference_title "சாதன முன்னுரிமைகள்">
 <!ENTITY devicepreference_search "தேடல் முன்னுரிமைகள்">
 <!ENTITY devicepreference_newname "புதிய முன்னுரிமை பெயர்">
 <!ENTITY devicepreference_newtext "முன்னுரிமை பெயர்">
 <!ENTITY devicepreference_addnew "புதிய முன்னுரிமையைச் சேர்">
+
 <!-- Device Settings -->
+<!ENTITY devicesetting_title "கருவியின் அமைவுகள்">
 <!ENTITY devicesetting_search "தேடல் அமைவுகள்">
-
-
+<!ENTITY devicesetting_newname "புதிய அமைவின் பெயர்">
+<!ENTITY devicesetting_newtext "அமைவின் மதிப்பு">
+<!ENTITY devicesetting_addnew "புதிய அமைப்பை சேர்">
 
 <!-- Monitor -->
-
 <!ENTITY monitor_title "கண்காணிப்பு">
 <!ENTITY monitor_help "உதவி">
+
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
      server. -->
+<!ENTITY wifi_auth_header "வாடிக்கையாளர் அடையாளம்">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
@@ -164,17 +166,3 @@
      user to transfer authentication info by transferring a token. -->
 
 <!-- Logs panel -->
-<!-- Simulator Options -->
-
-<!ENTITY simulator_reset "முன்னிருப்பை மீட்டமைக்கவும்">
-<!ENTITY simulator_name "பெயர்">
-
-<!ENTITY simulator_version "பதிப்பு">
-<!ENTITY simulator_profile "சுயவிவரம்">
-
-
-
-
-
-
-

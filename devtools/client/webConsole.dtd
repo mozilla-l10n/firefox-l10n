@@ -33,11 +33,11 @@
 <!ENTITY btnPageSecurity.label "பாதுகாப்பு">
 <!ENTITY btnPageSecurity.tooltip "பாதுகாப்பு பிழைகளையும் எச்சரிக்கைகளையும் பதிவிடு">
 <!ENTITY btnPageSecurity.accesskey "u">
+
 <!-- LOCALIZATION NOTE (btnPageLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls such console.log() and
   -  console.error(). -->
-
 <!ENTITY btnPageLogging.label   "பதிவுசெய்தல்">
 <!ENTITY btnPageLogging.tooltip "window.console பொருளுக்கு அனுப்பப்படும் செய்திகளைப் பதிவு செய்">
 <!ENTITY btnPageLogging.accesskey3 "L">
@@ -47,19 +47,23 @@
 <!ENTITY btnConsoleLog          "பதிவு">
 <!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "மீளோடைகள்">
+
 <!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls on the HTTP server. -->
-
-
+<!ENTITY btnServerLogging.label       "சேவையகம்">
+<!ENTITY btnServerLogging.accesskey   "S">
 <!ENTITY btnServerErrors              "பிழைகள்">
 <!ENTITY btnServerInfo                "தகவல்">
 <!ENTITY btnServerWarnings            "எச்சரிக்கைகள்">
 <!ENTITY btnServerLog                 "பதிவு">
+
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleSharedWorkers "பகிர்வு பணியாளர்கள்">
 <!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleServiceWorkers "சேவை பணியாளர்கள்">
 <!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
   -  should not be translated. -->
 
@@ -69,8 +73,7 @@
 <!ENTITY btnClear.accesskey    "அ">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
@@ -85,7 +88,5 @@
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
 <!ENTITY clearOutputCtrl.key  "L">
-
-
-
-
+<!ENTITY openInVarViewCmd.accesskey "V">
+<!ENTITY storeAsGlobalVar.accesskey "S">
