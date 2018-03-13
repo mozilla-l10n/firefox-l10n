@@ -5,8 +5,14 @@
 <!ENTITY wizard.title             "Titz'uk K'ak'a' Cholb'äl Q'ij" >
 <!ENTITY wizard.label             "Titz'uk k'ak'a' cholb'äl q'ij" >
 
+<!ENTITY initialpage.computer.label  "Pa Nukematz'ib'">
+<!ENTITY initialpage.network.label  "Pa K'amab'ey">
 
+<!ENTITY locationpage.login.description   "Cha'el: titz'ib'äx jun rub'i' okisanel chuqa' ewan tzij" >
 <!ENTITY locationpage.username.label      "Rub'i' winäq:" >
 <!ENTITY locationpage.password.label      "Ewan tzij:" >
 
+<!ENTITY custompage.shortdescription  "Tawichinaj ri acholb'al q'ij" >
 
+<!ENTITY finishpage.shortdescription  "Xtz'uk ri Cholb'äl Q'ij" >
+<!ENTITY finishpage.longdescription   "Xtz'uk ri acholb'al q'ij." >

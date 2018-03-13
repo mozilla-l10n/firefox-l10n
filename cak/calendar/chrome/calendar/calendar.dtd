@@ -3,7 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- General -->
+<!ENTITY calendar.calendar.label     "Cholb'äl q'ij">
+<!ENTITY calendar.calendar.accesskey "C">
 
+<!ENTITY calendar.newevent.button.tooltip         "Titz'uk jun k'ak'a' molojri'ïl" >
+<!ENTITY calendar.newtask.button.tooltip          "Titz'uk jun k'ak'a' samaj" >
 
 
 <!ENTITY calendar.today.button.label          "Wakami">
@@ -88,6 +92,10 @@
 <!ENTITY calendar.context.cutevent.label              "Tiqupïx">
 <!ENTITY calendar.context.copyevent.label             "Tiwachib'ëx">
 <!ENTITY calendar.context.pasteevent.label            "Titz'ajb'äx">
+
+
+
+
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Tajin">
