@@ -114,5 +114,44 @@
 <!ENTITY Custom3.label                  "Ichinan 3:">
 <!ENTITY Custom3.accesskey              "3">
 <!ENTITY Custom4.label                  "Ichinan 4:">
+<!ENTITY Custom4.accesskey              "4">
+<!ENTITY Notes.label                    "Ch'utitzijol:">
+<!ENTITY Notes.accesskey                "C">
 
+<!ENTITY Chat.tab                       "Chat">
+<!ENTITY Chat.accesskey                 "a">
+<!ENTITY Gtalk.label                    "Google Talk:">
+<!ENTITY Gtalk.accesskey                "G">
+<!ENTITY AIM.label                      "AIM:">
+<!ENTITY AIM2.accesskey                 "M">
+<!ENTITY Yahoo.label                    "Yahoo!:">
+<!ENTITY Yahoo.accesskey                "Y">
+<!ENTITY Skype.label                    "Skype:">
+<!ENTITY Skype.accesskey                "S">
+<!ENTITY QQ.label                       "QQ:">
+<!ENTITY QQ.accesskey                   "Q">
+<!ENTITY MSN.label                      "MSN:">
+<!ENTITY MSN2.accesskey                 "N">
+<!ENTITY ICQ.label                      "ICQ:">
+<!ENTITY ICQ.accesskey                  "I">
+<!ENTITY XMPP.label                     "Jabber ID:">
+<!ENTITY XMPP.accesskey                 "J">
+<!ENTITY IRC.label                      "IRC Nick:">
+<!ENTITY IRC.accesskey                  "R">
 
+<!ENTITY Photo.tab                      "Wachiwäch">
+<!ENTITY Photo.accesskey                "a">
+<!ENTITY PhotoDesc.label                "Ticha' jun chi ke re':">
+<!ENTITY GenericPhoto.label             "Ajchijun Wachiwäch">
+<!ENTITY GenericPhoto.accesskey         "A">
+<!ENTITY DefaultPhoto.label             "K'o wi">
+<!ENTITY PhotoFile.label                "Pa re Kematz'ib' re'">
+<!ENTITY PhotoFile.accesskey            "a">
+<!ENTITY BrowsePhoto.label              "Tokik'amayin">
+<!ENTITY BrowsePhoto.accesskey          "k">
+<!ENTITY PhotoURL.label                 "Pan Ajk'amaya'l">
+<!ENTITY PhotoURL.accesskey             "l">
+<!ENTITY PhotoURL.placeholder           "Titz'ajb'äx o titz'ib'äx ri rochochib'al rajk'amaya'l jun wachiwäch">
+<!ENTITY UpdatePhoto.label              "Tik'ex">
+<!ENTITY UpdatePhoto.accesskey          "x">
+<!ENTITY PhotoDropTarget.label          "Tiqirirëx wawe' k'ak'a' wachib'äl">
