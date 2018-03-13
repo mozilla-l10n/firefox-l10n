@@ -88,6 +88,17 @@
 <!ENTITY reorderAttachmentsCmd.label "Επανακατάταξη Συνημμένων…">
 <!ENTITY reorderAttachmentsCmd.accesskey "π">
 <!ENTITY reorderAttachmentsCmd.key "χ">
+<!ENTITY toggleAttachmentPaneCmd.label "Πίνακας Συνημμένων">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
+     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
+     as attachments.accesskey. -->
+<!ENTITY toggleAttachmentPaneCmd.accesskey "m">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
+     With OS-specific access modifier, this defines the shortcut key for showing/
+     hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
+     toggleAttachmentPaneCmd.key and attachments.accesskey must be the same
+     for the bucket view state machinery to work. -->
+<!ENTITY toggleAttachmentPaneCmd.key "m">
 <!ENTITY selectAllCmd.label "Επιλογή όλων">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "λ">
@@ -109,26 +120,10 @@
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Επανακατάταξη συνημμένων">
 <!ENTITY moveAttachmentTopPanelBtn.label "Μετακίνηση στην κορυφή">
-<!ENTITY moveAttachmentTopPanelBtn.accesskey "Κ">
 <!ENTITY moveAttachmentUpPanelBtn.label "Μετακίνηση επάνω">
-<!ENTITY moveAttachmentUpPanelBtn.accesskey "Ε">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Μετακίνηση μαζί">
-<!ENTITY moveAttachmentBundleUpPanelBtn.accesskey "κ">
 <!ENTITY moveAttachmentDownPanelBtn.label "Μετακίνηση προς τα κάτω">
-<!ENTITY moveAttachmentDownPanelBtn.accesskey "Τ">
 <!ENTITY moveAttachmentBottomPanelBtn.label "Μετακίνηση στο κάτω μέρος">
-<!ENTITY moveAttachmentBottomPanelBtn.accesskey "Κ">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.label):
-     Please ensure that this translation matches
-     sortAttachmentsTogglePanelBtn.ZA.label, except for the sort direction. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.label "Ταξινόμηση επιλεγμένων: Α - Ω">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.accesskey):
-     This accesskey should be the same like
-     sortAttachmentsTogglePanelBtn.ZA.accesskey, and it should be taken from
-     the "Sort Selection:" part of the label, not from the sort direction part. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.accesskey "o">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.label "Ταξινόμηση επιλεγμένων: Ω - Α">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.accesskey "o">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -253,6 +248,7 @@
 <!ENTITY quoteButton.tooltip "Παράθεση προηγούμενου μηνύματος">
 <!ENTITY addressButton.tooltip "Επιλογή παραλήπτη από το Ευρετήριο Διευθύνσεων">
 <!ENTITY attachButton.tooltip "Εισαγωγή ενός συνημμένου">
+<!ENTITY attachButton.tooltip2 "Προσθήκη ενός συνημμένου">
 <!ENTITY spellingButton.tooltip "Ορθογραφικός έλεγχος επιλογής ή ολόκληρου του μηνύματος">
 <!ENTITY saveButton.tooltip "Αποθήκευση μηνύματος">
 <!ENTITY cutButton.tooltip              "Αποκοπή">
@@ -274,9 +270,14 @@
 <!ENTITY followupAddr.label "Συνέχεια σε:">
 <!ENTITY subject.label "Θέμα:">
 <!ENTITY subject.accesskey "Θ">
-<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
-     to the strings in attachmentCount in composeMsgs.properties -->
+<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
+     be taken from the strings in attachmentCount in composeMsgs.properties,
+     and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
+     work, as the shortcut key functionality supersedes the access key. -->
 <!ENTITY attachments.accesskey "ν">
+
+<!ENTITY attachmentBucketHeader.tooltip "Πίνακας Συνημμένων">
+<!ENTITY attachmentBucketCloseButton.tooltip "Απόκρυψη του πίνακα συνημμένων">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Εισαγωγή φατσούλας">
@@ -314,6 +315,7 @@
 <!ENTITY pasteQuote.label "Επικόλληση ως παράθεση">
 <!ENTITY pasteQuote.accesskey "θ">
 
+<!-- Attachment Item and List Context Menus -->
 <!ENTITY openAttachment.label "Άνοιγμα">
 <!ENTITY openAttachment.accesskey "γ">
 <!ENTITY delete.label "Διαγραφή">
@@ -324,6 +326,8 @@
 <!ENTITY renameAttachment.accesskey "τ">
 <!ENTITY reorderAttachments.label "Επανακατάταξη συνημμένων…">
 <!ENTITY reorderAttachments.accesskey "π">
+<!ENTITY removeAllAttachments.label "Αφαίρεση όλων των συνημμένων">
+<!ENTITY removeAllAttachments.accesskey "v">
 <!ENTITY selectAll.label "Επιλογή όλων">
 <!ENTITY selectAll.accesskey "λ">
 <!ENTITY attachFile.label "Επισύναψη αρχείου...">
