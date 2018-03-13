@@ -20,13 +20,9 @@
 <!ENTITY openHelp.label "Helpinhoud">
 <!ENTITY openHelp.accesskey "H">
 <!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac.label "&brandShortName; Help">
 <!ENTITY openHelpMac2.label "&brandFullName; Help">
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
-
-<!ENTITY aboutMenuCmd.label "Over &brandShortName;">
-<!ENTITY aboutMenuCmd.accesskey "T">
 
 <!ENTITY aboutMenuCmd2.label "Over &brandFullName;">
 <!ENTITY aboutMenuCmd2.accesskey "T">
