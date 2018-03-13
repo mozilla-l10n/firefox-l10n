@@ -55,12 +55,10 @@
 <!ENTITY  permAskAlways         "सधै सोध्नुहोस्">
 <!ENTITY  permAllow             "अनुमति दिनुहोस्">
 <!ENTITY  permAllowSession      "यससत्रका लागि अनुमति">
+<!ENTITY  permHide              "लुकाउनुहोस्">
 <!ENTITY  permBlock             "छेक्नु">
 <!ENTITY  permissionsFor        "यसका लागि अनुमतिहरूः">
 <!ENTITY  permPlugins           "प्लगइनहरू सक्रिय पार्नुहोस्">
-
-<!ENTITY  permClearStorage           "भण्डारन खाली गर्नु">
-<!ENTITY  permClearStorage.accesskey "C">
 
 <!ENTITY  securityTab           "सुरक्षा">
 <!ENTITY  securityTab.accesskey "S">
