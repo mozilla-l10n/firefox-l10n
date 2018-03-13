@@ -36,9 +36,83 @@
 <!ENTITY NickName.label                 "Tz'ukun b'i'aj:">
 <!ENTITY NickName.accesskey             "T">
 
+<!ENTITY PrimaryEmail.label             "Taqoya'l:">
+<!ENTITY PrimaryEmail.accesskey         "T">
+<!ENTITY SecondEmail.label              "Ruka'n Taqoya'l:">
+<!ENTITY SecondEmail.accesskey          "a">
+<!ENTITY PreferMailFormat.label         "Ticha' yek'ul taq rutzjol eb'anon achi'el:">
+<!ENTITY PreferMailFormat.accesskey     "y">
+<!ENTITY PlainText.label                "Meb'anikil Cholan Tzij">
+<!ENTITY HTML.label                     "HTML">
+<!ENTITY Unknown.label                  "Man etaman ta">
+<!ENTITY chatName.label                 "Chat B'i'aj:">
 
+<!ENTITY WorkPhone.label                "Samaj:">
+<!ENTITY WorkPhone.accesskey            "m">
+<!ENTITY HomePhone.label                "Tikirib'äl:">
+<!ENTITY HomePhone.accesskey            "b">
+<!ENTITY FaxNumber.label                "Taqowuj:">
+<!ENTITY FaxNumber.accesskey            "w">
+<!ENTITY PagerNumber.label              "Kanöy winäq:">
+<!ENTITY PagerNumber.accesskey          "y">
+<!ENTITY CellularNumber.label           "Oyonib'äl:">
+<!ENTITY CellularNumber.accesskey       "b">
 
+<!ENTITY Home.tab                       "Ichinan">
+<!ENTITY Home.accesskey                 "I">
+<!ENTITY HomeAddress.label              "Ochochib'äl:">
+<!ENTITY HomeAddress.accesskey          "h">
+<!ENTITY HomeAddress2.label             "">
+<!ENTITY HomeAddress2.accesskey         "">
+<!ENTITY HomeCity.label                 "Tinamït:">
+<!ENTITY HomeCity.accesskey             "n">
+<!ENTITY HomeState.label                "Amaq'/Province:">
+<!ENTITY HomeState.accesskey            "A">
+<!ENTITY HomeZipCode.label              "ZIP/Postal B'itz'ib':">
+<!ENTITY HomeZipCode.accesskey          "Z">
+<!ENTITY HomeCountry.label              "Amaq':">
+<!ENTITY HomeCountry.accesskey          "a">
+<!ENTITY HomeWebPage.label              "Ajk'amaya'l Ruxaq:">
+<!ENTITY HomeWebPage.accesskey          "a">
+<!ENTITY Birthday.label                 "Alaxinem q'ij:">
+<!ENTITY Birthday.accesskey             "A">
+<!ENTITY In.label                       "">
+<!ENTITY Year.placeholder               "Juna'">
+<!ENTITY Or.value                       "o">
+<!ENTITY Age.placeholder                "Rujuna'">
+<!ENTITY YearsOld.label                 "">
 
+<!ENTITY Work.tab                       "Samaj">
+<!ENTITY Work.accesskey                 "S">
+<!ENTITY JobTitle.label                 "B'i'aj:">
+<!ENTITY JobTitle.accesskey             "i">
+<!ENTITY Department.label               "Tinamital:">
+<!ENTITY Department.accesskey           "m">
+<!ENTITY Company.label                  "Moloj:">
+<!ENTITY Company.accesskey              "o">
+<!ENTITY WorkAddress.label              "Ochochib'äl:">
+<!ENTITY WorkAddress.accesskey          "h">
+<!ENTITY WorkAddress2.label             "">
+<!ENTITY WorkAddress2.accesskey         "">
+<!ENTITY WorkCity.label                 "Tinamït:">
+<!ENTITY WorkCity.accesskey             "m">
+<!ENTITY WorkState.label                "Amaq'/Province:">
+<!ENTITY WorkState.accesskey            "A">
+<!ENTITY WorkZipCode.label              "ZIP/Postal B'itz'ib':">
+<!ENTITY WorkZipCode.accesskey          "Z">
+<!ENTITY WorkCountry.label              "Amaq':">
+<!ENTITY WorkCountry.accesskey          "a">
+<!ENTITY WorkWebPage.label              "Ajk'amaya'l Ruxaq:">
+<!ENTITY WorkWebPage.accesskey          "a">
 
+<!ENTITY Other.tab                      "Jun chik">
+<!ENTITY Other.accesskey                "n">
+<!ENTITY Custom1.label                  "Ichinan 1:">
+<!ENTITY Custom1.accesskey              "1">
+<!ENTITY Custom2.label                  "Ichinan 2:">
+<!ENTITY Custom2.accesskey              "2">
+<!ENTITY Custom3.label                  "Ichinan 3:">
+<!ENTITY Custom3.accesskey              "3">
+<!ENTITY Custom4.label                  "Ichinan 4:">
 
 
