@@ -509,8 +509,6 @@
 <!ENTITY devToolboxCmd.label "Ontwikkelaarswerkset">
 <!ENTITY devToolboxCmd.accesskey "O">
 <!ENTITY devToolboxCmd.commandkey "i">
-<!ENTITY addonDebugCmd.label "Add-on-debugger">
-<!ENTITY addonDebugCmd.accesskey "A">
 <!ENTITY debugAddonsCmd.label "Add-ons debuggen">
 <!ENTITY debugAddonsCmd.accesskey "b">
 <!ENTITY tabsDebugCmd.label "Contentframe-debugger">
