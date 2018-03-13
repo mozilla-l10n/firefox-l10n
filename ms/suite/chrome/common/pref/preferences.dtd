@@ -10,6 +10,7 @@
 <!ENTITY content.label "Kandungan">
 <!ENTITY fonts.label "Fon">
 <!ENTITY colors.label "Warna">
+<!ENTITY media.label "Media">
 <!ENTITY spellingPane.label "Ejaan">
 
 <!ENTITY navigator.label "Pelayar">
