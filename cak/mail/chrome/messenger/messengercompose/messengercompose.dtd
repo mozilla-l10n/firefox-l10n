@@ -88,6 +88,17 @@
 <!ENTITY reorderAttachmentsCmd.label "Kecholajïx chik taq Taqoj…">
 <!ENTITY reorderAttachmentsCmd.accesskey "a">
 <!ENTITY reorderAttachmentsCmd.key "x">
+<!ENTITY toggleAttachmentPaneCmd.label "Rupas Taqoj">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
+     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
+     as attachments.accesskey. -->
+<!ENTITY toggleAttachmentPaneCmd.accesskey "q">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
+     With OS-specific access modifier, this defines the shortcut key for showing/
+     hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
+     toggleAttachmentPaneCmd.key and attachments.accesskey must be the same
+     for the bucket view state machinery to work. -->
+<!ENTITY toggleAttachmentPaneCmd.key "h">
 <!ENTITY selectAllCmd.label "Ticha' Ronojel">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "r">
@@ -109,26 +120,10 @@
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Kecholajïx chik taq Taqoj">
 <!ENTITY moveAttachmentTopPanelBtn.label "Tisilöx pa Rutikirib'al">
-<!ENTITY moveAttachmentTopPanelBtn.accesskey "R">
 <!ENTITY moveAttachmentUpPanelBtn.label "Tijotob'äx">
-<!ENTITY moveAttachmentUpPanelBtn.accesskey "T">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Kesilöx junam">
-<!ENTITY moveAttachmentBundleUpPanelBtn.accesskey "x">
 <!ENTITY moveAttachmentDownPanelBtn.label "Tiqasäx Qa">
-<!ENTITY moveAttachmentDownPanelBtn.accesskey "Q">
 <!ENTITY moveAttachmentBottomPanelBtn.label "Tisilöx pa Ruk'isib'al">
-<!ENTITY moveAttachmentBottomPanelBtn.accesskey "R">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.label):
-     Please ensure that this translation matches
-     sortAttachmentsTogglePanelBtn.ZA.label, except for the sort direction. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.label "Tichol pa Rub'eyal: A - Z">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.accesskey):
-     This accesskey should be the same like
-     sortAttachmentsTogglePanelBtn.ZA.accesskey, and it should be taken from
-     the "Sort Selection:" part of the label, not from the sort direction part. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.accesskey "o">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.label "Tichol pa Rub'eyal: Z - A">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.accesskey "o">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -253,6 +248,7 @@
 <!ENTITY quoteButton.tooltip "Tisik'ïx ri jun kan rutzijol">
 <!ENTITY addressButton.tooltip "Ticha' jun k'ulunel pa Kitz'ib'awuj Ochochib'äl">
 <!ENTITY attachButton.tooltip "Titz'aqatisäx jun taqoj">
+<!ENTITY attachButton.tooltip2 "Titz'aqatisäx jun taqoj">
 <!ENTITY spellingButton.tooltip "Tinik'ox rutz'ib'axik cha'oj o chijun ri rutzijol">
 <!ENTITY saveButton.tooltip "Titaq re rutzijol re'">
 <!ENTITY cutButton.tooltip              "Tiqupïx">
@@ -274,9 +270,14 @@
 <!ENTITY followupAddr.label "Titaq chik Chi Re:">
 <!ENTITY subject.label "Taqikil:">
 <!ENTITY subject.accesskey "T">
-<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
-     to the strings in attachmentCount in composeMsgs.properties -->
+<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
+     be taken from the strings in attachmentCount in composeMsgs.properties,
+     and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
+     work, as the shortcut key functionality supersedes the access key. -->
 <!ENTITY attachments.accesskey "m">
+
+<!ENTITY attachmentBucketHeader.tooltip "Rupas Taqoj">
+<!ENTITY attachmentBucketCloseButton.tooltip "Tewäx ri rupas taqoj">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Tich'ik jun tze'n paläj">
@@ -314,6 +315,7 @@
 <!ENTITY pasteQuote.label "Titz'ajb'äx Achi'el Peyonïk">
 <!ENTITY pasteQuote.accesskey "P">
 
+<!-- Attachment Item and List Context Menus -->
 <!ENTITY openAttachment.label "Tijaq">
 <!ENTITY openAttachment.accesskey "j">
 <!ENTITY delete.label "Tiyuj">
@@ -324,6 +326,8 @@
 <!ENTITY renameAttachment.accesskey "c">
 <!ENTITY reorderAttachments.label "Kecholajïx chik taq Taqoj…">
 <!ENTITY reorderAttachments.accesskey "j">
+<!ENTITY removeAllAttachments.label "Keyuj ronojel taq taqoj">
+<!ENTITY removeAllAttachments.accesskey "y">
 <!ENTITY selectAll.label "Ticha' Ronojel">
 <!ENTITY selectAll.accesskey "R">
 <!ENTITY attachFile.label "Ti(ke)tz'aqatisäx Yakb'äl…">
