@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY systemIntegration.title  "Sistemska povezljivost">
+<!ENTITY systemIntegration.title  "Vključitev v sistem">
 <!ENTITY acceptIntegration.label  "Nastavi kot privzeto">
 <!ENTITY cancelIntegration.label  "Ne zdaj">
 <!ENTITY cancelIntegration2.label  "Prekliči">
@@ -17,5 +17,5 @@
 <!ENTITY checkOnStartup.label "Vedno preveri ob zagonu &brandShortName;a">
 <!ENTITY checkOnStartup.accesskey "V">
 
-<!ENTITY searchIntegration.label "Dovoli &searchIntegration.engineName;, da preišče sporočila">
+<!ENTITY searchIntegration.label "Dovoli &searchIntegration.engineName; iskanje po sporočilih">
 <!ENTITY searchIntegration.accesskey "D">
