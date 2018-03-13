@@ -45,6 +45,8 @@
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.commonMessage): Generic message displayed for
   -  all possible entry points (keyshortcut, menu item etc…). -->
+<!ENTITY  aboutDevtools.enable.commonMessage
+          "Firefox mboguatahára rembipuru oñembotýma ojipykue rupi oma'ẽag̃uive hag̃ua ne kundahára rehe.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.learnMoreLink): Text for the link to
   -  https://developer.mozilla.org/docs/Tools displayed in the top section when DevTools
@@ -62,10 +64,13 @@
   -  See Bug 1415273 for support of additional languages.-->
 <!ENTITY  aboutDevtools.newsletter.message "Embyaty marandu,ñembosarái ha opa mba'e mboguatahára rehegua neñe'ë vevetépe">
 <!ENTITY  aboutDevtools.newsletter.email.placeholder "Ñanduti veve">
+<!ENTITY  aboutDevtools.newsletter.privacy.label "Amoneĩ Mozilla-pe ohechávo che mba'ekuarã omyesakãháicha <a class='external' href='https://www.mozilla.org/privacy/'>Temiñemi purureko</a>.">
 <!ENTITY  aboutDevtools.newsletter.subscribeButton "Eñemboheraguapy">
 <!ENTITY  aboutDevtools.newsletter.thanks.title "¡Aguyje!">
+<!ENTITY  aboutDevtools.newsletter.thanks.message "Neremoneĩramo gueteri ñemboheraguapy Mozilla reheguáva, ikatu hína ejapova'erã katuete péva. Ikatú piko ehchajey oúmapa ñanduti veve g̃uahẽháme térãpa oĩ ñanduti veve ytyguáva mboguahápe.">
 
 <!ENTITY  aboutDevtools.footer.title "Firefox Developer Edition">
+<!ENTITY  aboutDevtools.footer.message "¿Ehekave mboguatahára rembipuru? Ehechajey Firefox kundahára ojejapoha mboguatahárape g̃uarã añoite ha umi mba'eapo tembiapo ag̃aguáva rehegua.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to
   -  https://www.mozilla.org/firefox/developer/ displayed in the footer. -->
