@@ -83,6 +83,12 @@
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Përditësoni veprimtarinë te kalendari">
 <!ENTITY lightning.imipbar.description                                      "Ky mesazh përmban ftesë për një veprimtari.">
 
+<!ENTITY lightning.imipbar.btnSend.label                                    "Dërgoni një përgjigje tani">
+<!ENTITY lightning.imipbar.btnSend.tooltiptext                              "Dërgojini një përgjigje organizuesit">
+<!ENTITY lightning.imipbar.btnSendSeries.tooltiptext                        "Dërgojini një përgjigje organizuesit për krejt seritë">
+<!ENTITY lightning.imipbar.btnDontSend.label                                "Mos dërgo përgjigje">
+<!ENTITY lightning.imipbar.btnDontSend.tooltiptext                          "Ndryshoni gjendjen e pjesëmarrjes tuaj pa dërguar përgjigje për organizuesin">
+<!ENTITY lightning.imipbar.btnDontSendSeries.tooltiptext                    "Ndryshoni gjendjen e pjesëmarrjes tuaj për seritë pa dërguar përgjigje për organizuesin">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
