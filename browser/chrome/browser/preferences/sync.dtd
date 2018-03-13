@@ -16,6 +16,7 @@
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, used as the checkbox which indicates if prefs are synced
 -->
+<!ENTITY engine.prefsWin.accesskey  "S">
 <!ENTITY engine.prefs.label         "प्राथमिकताहरू">
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "एडअन">
@@ -62,11 +63,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY verifiedManage.accesskey     "o">
 <!ENTITY disconnect3.label            "विच्छेद गर्नुहोस्…">
 <!ENTITY disconnect3.accesskey        "D">
-<!ENTITY verify.label                "इमेल रुजु गर्नुहोस">
-<!ENTITY verify.accesskey            "V">
-<!ENTITY forget.label                "यो इमेलको बारेमा बिर्सनुहोस्">
-<!ENTITY forget.accesskey            "F">
-
 <!ENTITY resendVerification.accesskey "d">
 <!ENTITY cancelSetup.label            "सेटअप रद्द गर्नुहोस्">
 <!ENTITY cancelSetup.accesskey        "P">
