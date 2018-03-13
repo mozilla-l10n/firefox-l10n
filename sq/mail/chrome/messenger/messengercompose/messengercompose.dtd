@@ -88,6 +88,17 @@
 <!ENTITY reorderAttachmentsCmd.label "Rirenditni Bashkëngjitjet…">
 <!ENTITY reorderAttachmentsCmd.accesskey "e">
 <!ENTITY reorderAttachmentsCmd.key "x">
+<!ENTITY toggleAttachmentPaneCmd.label "Kuadrat Bashkëngjitjesh">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
+     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
+     as attachments.accesskey. -->
+<!ENTITY toggleAttachmentPaneCmd.accesskey "n">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
+     With OS-specific access modifier, this defines the shortcut key for showing/
+     hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
+     toggleAttachmentPaneCmd.key and attachments.accesskey must be the same
+     for the bucket view state machinery to work. -->
+<!ENTITY toggleAttachmentPaneCmd.key "m">
 <!ENTITY selectAllCmd.label "Përzgjidhe Krejt">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "K">
@@ -109,26 +120,10 @@
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Rirenditni Bashkëngjitje">
 <!ENTITY moveAttachmentTopPanelBtn.label "Shpjere në Krye">
-<!ENTITY moveAttachmentTopPanelBtn.accesskey "y">
 <!ENTITY moveAttachmentUpPanelBtn.label "Shpjere Sipër">
-<!ENTITY moveAttachmentUpPanelBtn.accesskey "S">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Lëvizi bashkë">
-<!ENTITY moveAttachmentBundleUpPanelBtn.accesskey "b">
 <!ENTITY moveAttachmentDownPanelBtn.label "Zbrite Poshtë">
-<!ENTITY moveAttachmentDownPanelBtn.accesskey "P">
 <!ENTITY moveAttachmentBottomPanelBtn.label "Shpjere në Fund">
-<!ENTITY moveAttachmentBottomPanelBtn.accesskey "u">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.label):
-     Please ensure that this translation matches
-     sortAttachmentsTogglePanelBtn.ZA.label, except for the sort direction. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.label "Radhë renditjeje: A - Z">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.accesskey):
-     This accesskey should be the same like
-     sortAttachmentsTogglePanelBtn.ZA.accesskey, and it should be taken from
-     the "Sort Selection:" part of the label, not from the sort direction part. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.accesskey "a">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.label "Radhë renditjeje: Z - A">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.accesskey "a">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -253,6 +248,7 @@
 <!ENTITY quoteButton.tooltip "Citoni mesazhin e mëparshëm">
 <!ENTITY addressButton.tooltip "Përzgjidhni marrës prej një Libri Adresash">
 <!ENTITY attachButton.tooltip "Përfshini një bashkëngjitje">
+<!ENTITY attachButton.tooltip2 "Shtoni një bashkëngjitje">
 <!ENTITY spellingButton.tooltip "Kontrolloni drejtshkrimin e përzgjedhjes ose të krejt mesazhit">
 <!ENTITY saveButton.tooltip "Ruajeni këtë mesazh">
 <!ENTITY cutButton.tooltip              "Prijeni">
@@ -274,9 +270,14 @@
 <!ENTITY followupAddr.label "Vazhdoje-Te:">
 <!ENTITY subject.label "Subjekt:">
 <!ENTITY subject.accesskey "S">
-<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
-     to the strings in attachmentCount in composeMsgs.properties -->
+<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
+     be taken from the strings in attachmentCount in composeMsgs.properties,
+     and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
+     work, as the shortcut key functionality supersedes the access key. -->
 <!ENTITY attachments.accesskey "B">
+
+<!ENTITY attachmentBucketHeader.tooltip "Kuadrat Bashkëngjitjesh">
+<!ENTITY attachmentBucketCloseButton.tooltip "Fshiheni kuadratin e bashkëngjitjeve">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Futni një emotikon">
@@ -314,6 +315,7 @@
 <!ENTITY pasteQuote.label "Ngjite Si Citim">
 <!ENTITY pasteQuote.accesskey "m">
 
+<!-- Attachment Item and List Context Menus -->
 <!ENTITY openAttachment.label "Hape">
 <!ENTITY openAttachment.accesskey "H">
 <!ENTITY delete.label "Fshije">
@@ -324,6 +326,8 @@
 <!ENTITY renameAttachment.accesskey "R">
 <!ENTITY reorderAttachments.label "Rirenditni Bashkëngjitjet…">
 <!ENTITY reorderAttachments.accesskey "e">
+<!ENTITY removeAllAttachments.label "Hiqi Krejt Bashkëngjitjet">
+<!ENTITY removeAllAttachments.accesskey "i">
 <!ENTITY selectAll.label "Përzgjidhe Krejt">
 <!ENTITY selectAll.accesskey "T">
 <!ENTITY attachFile.label "Bashkëngjitni Kartelë(a)…">
