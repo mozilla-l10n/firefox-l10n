@@ -84,7 +84,11 @@
 <!ENTITY lightning.imipbar.description                                      "Detta meddelande innehåller en inbjudan till en händelse.">
 
 <!ENTITY lightning.imipbar.btnSend.label                                    "Skicka ett svar nu">
+<!ENTITY lightning.imipbar.btnSend.tooltiptext                              "Skicka ett svar till arrangören">
+<!ENTITY lightning.imipbar.btnSendSeries.tooltiptext                        "Skicka ett svar för hela serien till arrangören">
 <!ENTITY lightning.imipbar.btnDontSend.label                                "Skicka inte ett svar">
+<!ENTITY lightning.imipbar.btnDontSend.tooltiptext                          "Ändra din deltagandestatus utan att skicka ett svar till arrangören">
+<!ENTITY lightning.imipbar.btnDontSendSeries.tooltiptext                    "Ändra din deltagandestatus för serien utan att skicka ett svar till arrangören">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
