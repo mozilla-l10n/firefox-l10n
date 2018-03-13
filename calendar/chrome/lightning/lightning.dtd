@@ -83,6 +83,13 @@
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Gebeurtenis bijwerken in agenda">
 <!ENTITY lightning.imipbar.description                                      "Dit bericht bevat een uitnodiging voor een gebeurtenis.">
 
+<!ENTITY lightning.imipbar.btnSend.label                                    "Nu een antwoord verzenden">
+<!ENTITY lightning.imipbar.btnSend.tooltiptext                              "Een antwoord naar de organisator verzenden">
+<!ENTITY lightning.imipbar.btnSendSeries.tooltiptext                        "Een antwoord voor de hele serie naar de organisator verzenden">
+<!ENTITY lightning.imipbar.btnDontSend.label                                "Geen antwoord verzenden">
+<!ENTITY lightning.imipbar.btnDontSend.tooltiptext                          "Uw deelnamestatus wijzigen zonder een antwoord naar de organisator te verzenden">
+<!ENTITY lightning.imipbar.btnDontSendSeries.tooltiptext                    "Uw deelnamestatus voor de serie wijzigen zonder een een antwoord naar de organisator te verzenden">
+
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
 <!ENTITY lightning.keys.event.showTasks.key "D">

@@ -37,3 +37,5 @@
 <!ENTITY pref.numberofweeks.4 "4 weken">
 <!ENTITY pref.numberofweeks.5 "5 weken">
 <!ENTITY pref.numberofweeks.6 "6 weken">
+<!ENTITY pref.showlocation.label "Locatie tonen">
+<!ENTITY pref.showlocation.accesskey "L">

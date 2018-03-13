@@ -398,6 +398,7 @@
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Algemeen">
 <!ENTITY read.only.title.label           "Titel:">
+<!ENTITY read.only.calendar.label        "Agenda:">
 <!ENTITY read.only.event.start.label     "Begindatum:">
 <!ENTITY read.only.task.start.label      "Begindatum:">
 <!ENTITY read.only.event.end.label       "Einddatum:">
@@ -416,3 +417,17 @@
 <!ENTITY read.only.attendees.label       "Genodigden">
 <!ENTITY read.only.description.label     "Beschrijving">
 <!ENTITY read.only.link.label            "Bijbehorende koppeling">
+
+<!-- Summary dialog -->
+<!ENTITY summary.dialog.saveclose.label         "Opslaan en sluiten">
+<!ENTITY summary.dialog.saveclose.tooltiptext   "Wijzigingen opslaan en het venster sluiten zonder de deelnamestatus te wijzigen en een antwoord te verzenden">
+<!ENTITY summary.dialog.accept.label            "Accepteren">
+<!ENTITY summary.dialog.accept.tooltiptext      "De uitnodiging accepteren">
+<!ENTITY summary.dialog.tentative.label         "Voorlopig">
+<!ENTITY summary.dialog.tentative.tooltiptext   "De uitnodiging voorlopig accepteren">
+<!ENTITY summary.dialog.decline.label           "Weigeren">
+<!ENTITY summary.dialog.decline.tooltiptext     "De uitnodiging weigeren">
+<!ENTITY summary.dialog.dontsend.label          "Geen antwoord verzenden">
+<!ENTITY summary.dialog.dontsend.tooltiptext    "Uw deelnamestatus wijzigen zonder een antwoord naar de organisator te verzenden en het venster sluiten">
+<!ENTITY summary.dialog.send.label              "Nu een antwoord verzenden">
+<!ENTITY summary.dialog.send.tooltiptext        "Een antwoord naar de organisator verzenden en het venster sluiten">
