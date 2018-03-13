@@ -58,9 +58,9 @@
 <!ENTITY lightning.imipbar.btnAdd.label                                     "Shtojeni">
 <!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Shtojni veprimtarinë te kalendari">
 <!ENTITY lightning.imipbar.btnDecline.label                                 "Hidheni poshtë">
-<!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Hidhni tej ftesën e veprimtarisë">
-<!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Hidhni tej krejt">
-<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Hidhni tej ftesën e veprimtarisë për krejt përsëritjet e veprimtarisë">
+<!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Hidhni poshtë ftesën e veprimtarisë">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Hidhini poshtë krejt">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Hidheni poshtë ftesën e veprimtarisë për krejt përsëritjet e veprimtarisë">
 <!ENTITY lightning.imipbar.btnDeclineCounter.label                          "Hidhe poshtë">
 <!ENTITY lightning.imipbar.btnDeclineCounter.tooltiptext                    "Hidhe poshtë kundërpropozimin">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Fshijeni">
@@ -82,6 +82,7 @@
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "Përditësojeni">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Përditësoni veprimtarinë te kalendari">
 <!ENTITY lightning.imipbar.description                                      "Ky mesazh përmban ftesë për një veprimtari.">
+
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
