@@ -26,3 +26,13 @@
 <!ENTITY PagerNumber.accesskey                 "P">
 <!ENTITY FaxNumber.label                       "Fax">
 <!ENTITY FaxNumber.accesskey                   "F">
+<!ENTITY HomePhone.label                       "Hemtelefon">
+<!ENTITY HomePhone.accesskey                   "H">
+<!ENTITY WorkPhone.label                       "Jobbtelefon">
+<!ENTITY WorkPhone.accesskey                   "J">
+<!ENTITY ChatName.label                        "Chattnamn">
+<!ENTITY ChatName.accesskey                    "C">
+<!ENTITY sortAscending.label                   "Stigande">
+<!ENTITY sortAscending.accesskey               "S">
+<!ENTITY sortDescending.label                  "Fallande">
+<!ENTITY sortDescending.accesskey              "F">
