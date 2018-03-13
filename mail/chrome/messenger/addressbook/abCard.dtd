@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY Contact.tab                     "Stik">
 <!ENTITY Name.box                        "Ime">
 
 <!-- LOCALIZATION NOTE:
@@ -24,6 +25,7 @@
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Neznano">
 
+<!ENTITY FaxNumber.label                "Faks:">
 
 <!ENTITY HomeAddress.label              "Naslov:">
 <!ENTITY HomeCity.label                 "Mesto:">
@@ -32,6 +34,8 @@
 <!ENTITY HomeWebPage.label              "Spletna stran:">
 <!ENTITY Birthday.label                 "Datum rojstva:">
 
+<!ENTITY Work.tab                       "Služba">
+<!ENTITY JobTitle.label                 "Naslov:">
 <!ENTITY WorkAddress.label              "Naslov:">
 <!ENTITY WorkCity.label                 "Mesto:">
 <!ENTITY WorkZipCode.label              "Poštna številka:">
