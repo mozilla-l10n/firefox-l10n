@@ -6,7 +6,7 @@
 <!ENTITY window.width                 "35em">
 
 <!ENTITY window.description           "Scancelâ tutti i cookie e dati di sciti sarvæ da&brandShortName; o peu fate sciortî da-i sciti e scancelâ i contegnui feua linia. Scancelâ a chache no aviâ efetto in sci teu login.">
-<!ENTITY windowClose.key              "k">
+<!ENTITY windowClose.key              "w">
 
 <!ENTITY clearSiteData.label          "Cookie e Dati di Sciti">
 <!ENTITY clearSiteData.accesskey      "S">
