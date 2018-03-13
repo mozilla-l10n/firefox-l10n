@@ -1,0 +1,22 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.title                 "Scancella Dati">
+<!ENTITY window.width                 "35em">
+
+<!ENTITY window.description           "Scancelâ tutti i cookie e dati di sciti sarvæ da&brandShortName; o peu fate sciortî da-i sciti e scancelâ i contegnui feua linia. Scancelâ a chache no aviâ efetto in sci teu login.">
+<!ENTITY windowClose.key              "k">
+
+<!ENTITY clearSiteData.label          "Cookie e Dati di Sciti">
+<!ENTITY clearSiteData.accesskey      "S">
+<!ENTITY clearSiteData.description    "Ti poriesci sciortî da-o scito se ti scancelli questi">
+
+<!ENTITY clearCache.label             "Contegnuo Web inta cache">
+<!ENTITY clearCache.accesskey         "W">
+<!ENTITY clearCache.description       "Te saiâ domandou de recaregâ inmagini e dati">
+
+<!ENTITY button.cancel.label          "Anulla">
+<!ENTITY button.cancel.accesskey      "A">
+<!ENTITY button.clear.label           "Scancella">
+<!ENTITY button.clear.accesskey       "l">
