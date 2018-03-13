@@ -22,6 +22,11 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
+policies-notice =
+    { PLATFORM() ->
+        [windows] 您的组织已禁用某些选项。
+       *[other] 您的组织已禁用某些首选项。
+    }
 pane-general-title = 常规
 category-general =
     .tooltiptext = { pane-general-title }
