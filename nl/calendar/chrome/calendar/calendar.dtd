@@ -172,12 +172,49 @@
 <!ENTITY calendar.context.copyevent.accesskey         "K">
 <!ENTITY calendar.context.pasteevent.label            "Plakken">
 <!ENTITY calendar.context.pasteevent.accesskey        "P">
-<!ENTITY calendar.context.button.label                "Venster Vandaag" >
-<!ENTITY calendar.context.button.accesskey            "d" >
-<!ENTITY calendar.context.attendance.menu.label       "Aanwezigheid" >
-<!ENTITY calendar.context.attendance.menu.accesskey   "A" >
-<!ENTITY calendar.context.attendance.occurrence.label "Deze gebeurtenis" >
+<!ENTITY calendar.context.button.label                "Venster Vandaag">
+<!ENTITY calendar.context.button.accesskey            "d">
+
+<!ENTITY calendar.context.attendance.menu.label                 "Aanwezigheid">
+<!ENTITY calendar.context.attendance.menu.accesskey             "A">
+<!ENTITY calendar.context.attendance.occurrence.label           "Deze gebeurtenis">
 <!ENTITY calendar.context.attendance.all.label        "Alle gebeurtenissen" >
+
+<!ENTITY calendar.context.attendance.all2.label                 "Volledige serie">
+<!ENTITY calendar.context.attendance.send.label                 "Nu een notificatie verzenden">
+<!ENTITY calendar.context.attendance.send.accesskey             "N">
+<!ENTITY calendar.context.attendance.dontsend.label             "Geen notificatie verzenden">
+<!ENTITY calendar.context.attendance.dontsend.accesskey         "G">
+
+<!ENTITY calendar.context.attendance.occ.accepted.accesskey     "a">
+<!ENTITY calendar.context.attendance.occ.accepted.label         "Geaccepteerd">
+<!ENTITY calendar.context.attendance.occ.tentative.accesskey    "r">
+<!ENTITY calendar.context.attendance.occ.tentative.label        "Voorlopig geaccepteerd">
+<!ENTITY calendar.context.attendance.occ.declined.accesskey     "w">
+<!ENTITY calendar.context.attendance.occ.declined.label         "Geweigerd">
+<!ENTITY calendar.context.attendance.occ.delegated.accesskey    "d">
+<!ENTITY calendar.context.attendance.occ.delegated.label        "Gedelegeerd">
+<!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "h">
+<!ENTITY calendar.context.attendance.occ.needsaction.label      "Nog handeling vereist">
+<!ENTITY calendar.context.attendance.occ.inprogress.accesskey   "u">
+<!ENTITY calendar.context.attendance.occ.inprogress.label       "Wordt uitgevoerd">
+<!ENTITY calendar.context.attendance.occ.completed.accesskey    "V">
+<!ENTITY calendar.context.attendance.occ.completed.label        "Voltooid">
+
+<!ENTITY calendar.context.attendance.all.accepted.accesskey     "e">
+<!ENTITY calendar.context.attendance.all.accepted.label         "Geaccepteerd">
+<!ENTITY calendar.context.attendance.all.tentative.accesskey    "c">
+<!ENTITY calendar.context.attendance.all.tentative.label        "Voorlopig geaccepteerd">
+<!ENTITY calendar.context.attendance.all.declined.accesskey     "i">
+<!ENTITY calendar.context.attendance.all.declined.label         "Geweigerd">
+<!ENTITY calendar.context.attendance.all.delegated.accesskey    "l">
+<!ENTITY calendar.context.attendance.all.delegated.label        "Gedelegeerd">
+<!ENTITY calendar.context.attendance.all.needsaction.accesskey  "n">
+<!ENTITY calendar.context.attendance.all.needsaction.label      "Nog handeling vereist">
+<!ENTITY calendar.context.attendance.all.inprogress.accesskey   "g">
+<!ENTITY calendar.context.attendance.all.inprogress.label       "Wordt uitgevoerd">
+<!ENTITY calendar.context.attendance.all.completed.accesskey    "o">
+<!ENTITY calendar.context.attendance.all.completed.label        "Voltooid">
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Voortgang">
