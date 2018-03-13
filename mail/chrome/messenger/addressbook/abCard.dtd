@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY Contact.tab                     "Stik">
+<!ENTITY Contact.accesskey               "S">
 <!ENTITY Name.box                        "Ime">
 
 <!-- LOCALIZATION NOTE:
@@ -14,30 +15,67 @@
 -->
 
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
+<!ENTITY NameField1.id                  "FirstName">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
+<!ENTITY NameField2.id                  "LastName">
 <!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField1.id              "PhoneticFirstName">
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField2.id              "PhoneticLastName">
 
+<!ENTITY NameField1.label               "Ime:">
+<!ENTITY NameField1.accesskey           "I">
+<!ENTITY NameField2.label               "Priimek:">
+<!ENTITY NameField2.accesskey           "P">
+<!ENTITY DisplayName.label              "Prikaži:">
+<!ENTITY DisplayName.accesskey          "r">
+<!ENTITY preferDisplayName.label        "Vedno daj prednost prikaznemu imenu namesto glavi sporočila">
+<!ENTITY preferDisplayName.accesskey    "g">
 <!ENTITY NickName.label                 "Vzdevek:">
+<!ENTITY NickName.accesskey             "V">
 
 <!ENTITY PrimaryEmail.label             "E-pošta:">
-<!ENTITY SecondEmail.label              "Dodatna E-pošta:">
+<!ENTITY PrimaryEmail.accesskey         "E">
+<!ENTITY SecondEmail.label              "Dodatna e-pošta:">
+<!ENTITY SecondEmail.accesskey          "d">
+<!ENTITY PreferMailFormat.label         "Raje prejema sporočila, oblikovana kot:">
+<!ENTITY PreferMailFormat.accesskey     "b">
+<!ENTITY PlainText.label                "golo besedilo">
 <!ENTITY HTML.label                     "HTML">
-<!ENTITY Unknown.label                  "Neznano">
+<!ENTITY Unknown.label                  "Vseeno">
+<!ENTITY chatName.label                 "Ime za klepet:">
 
+<!ENTITY WorkPhone.label                "Službeni telefon:">
+<!ENTITY WorkPhone.accesskey            "ž">
+<!ENTITY HomePhone.label                "Domači telefon:">
+<!ENTITY HomePhone.accesskey            "č">
 <!ENTITY FaxNumber.label                "Faks:">
+<!ENTITY FaxNumber.accesskey            "F">
+<!ENTITY PagerNumber.label              "Pozivnik:">
+<!ENTITY PagerNumber.accesskey          "z">
+<!ENTITY CellularNumber.label           "Mobilnik:">
+<!ENTITY CellularNumber.accesskey       "M">
 
+<!ENTITY Home.tab                       "Osebno">
+<!ENTITY Home.accesskey                 "O">
 <!ENTITY HomeAddress.label              "Naslov:">
 <!ENTITY HomeCity.label                 "Mesto:">
+<!ENTITY HomeState.label                "Pokrajina:">
 <!ENTITY HomeZipCode.label              "Poštna številka:">
 <!ENTITY HomeCountry.label              "Država:">
 <!ENTITY HomeWebPage.label              "Spletna stran:">
 <!ENTITY Birthday.label                 "Datum rojstva:">
+<!ENTITY Year.placeholder               "leto">
+<!ENTITY Or.value                       "ali">
+<!ENTITY Age.placeholder                "starost">
 
 <!ENTITY Work.tab                       "Služba">
 <!ENTITY JobTitle.label                 "Naslov:">
+<!ENTITY Department.label               "Oddelek:">
+<!ENTITY Company.label                  "Organizacija:">
 <!ENTITY WorkAddress.label              "Naslov:">
 <!ENTITY WorkCity.label                 "Mesto:">
+<!ENTITY WorkState.label                "Pokrajina:">
 <!ENTITY WorkZipCode.label              "Poštna številka:">
 <!ENTITY WorkCountry.label              "Država:">
 <!ENTITY WorkWebPage.label              "Spletna stran:">
@@ -45,13 +83,39 @@
 <!ENTITY Notes.label                    "Beležke:">
 
 <!ENTITY Chat.tab                       "Klepet">
+<!ENTITY Chat.accesskey                 "K">
 <!ENTITY Gtalk.label                    "Google Talk:">
+<!ENTITY Gtalk.accesskey                "G">
+<!ENTITY AIM.label                      "AIM:">
+<!ENTITY AIM2.accesskey                 "A">
 <!ENTITY Yahoo.label                    "Yahoo!:">
+<!ENTITY Yahoo.accesskey                "Y">
 <!ENTITY Skype.label                    "Skype:">
+<!ENTITY Skype.accesskey                "S">
+<!ENTITY QQ.label                       "QQ:">
+<!ENTITY QQ.accesskey                   "Q">
+<!ENTITY MSN.label                      "MSN:">
+<!ENTITY MSN2.accesskey                 "M">
+<!ENTITY ICQ.label                      "ICQ:">
+<!ENTITY ICQ.accesskey                  "I">
+<!ENTITY XMPP.label                     "Jabber ID:">
+<!ENTITY XMPP.accesskey                 "J">
+<!ENTITY IRC.label                      "Vzdevek IRC:">
+<!ENTITY IRC.accesskey                  "R">
 
-<!ENTITY DefaultPhoto.label             "Privzeto">
+<!ENTITY Photo.tab                      "Slika">
+<!ENTITY Photo.accesskey                "i">
+<!ENTITY PhotoDesc.label                "Izberite eno od naslednjih možnosti:">
+<!ENTITY GenericPhoto.label             "Splošna slika">
+<!ENTITY GenericPhoto.accesskey         "p">
+<!ENTITY DefaultPhoto.label             "Privzeta">
 <!ENTITY PhotoFile.label                "Na tem računalniku">
+<!ENTITY PhotoFile.accesskey            "r">
 <!ENTITY BrowsePhoto.label              "Prebrskaj">
+<!ENTITY BrowsePhoto.accesskey          "b">
 <!ENTITY PhotoURL.label                 "Na spletu">
+<!ENTITY PhotoURL.accesskey             "s">
 <!ENTITY PhotoURL.placeholder           "Prilepite ali vtipkajte spletni naslov fotografije">
 <!ENTITY UpdatePhoto.label              "Posodobi">
+<!ENTITY UpdatePhoto.accesskey          "d">
+<!ENTITY PhotoDropTarget.label          "Povlecite novo sliko sem">
