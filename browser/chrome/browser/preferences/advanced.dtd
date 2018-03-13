@@ -39,6 +39,11 @@ available. -->
 
 <!ENTITY alwaysSubmitCrashReports1.label  "&brandShortName; səyyahına Mozillaya xəta hesabatlarını göndərməyə icazə ver">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+
+<!ENTITY collectBrowserErrors.accesskey      "b">
+<!ENTITY collectBrowserErrorsLearnMore.label "Ətraflı öyrən">
+
+<!ENTITY sendBackloggedCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Daha Ətraflı">
 
 <!ENTITY networkTab.label                "Şəbəkə">
@@ -51,14 +56,17 @@ available. -->
 
 <!ENTITY httpCache.label                 "Yaddaşda saxlanılmış web məzmunu">
 
-<!ENTITY offlineStorage2.label           "Oflayn Web Məzmunu və İstifadəçi Məlumatları">
-
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Sayt Məlumatları">
 <!ENTITY clearSiteData.label             "Bütün Məlumatları təmizlə">
 <!ENTITY clearSiteData.accesskey         "l">
 <!ENTITY siteDataSettings.label          "Tənzimləmələr…">
 <!ENTITY siteDataSettings.accesskey      "i">
+<!ENTITY siteData1.label                 "Çərəzlər və Sayt Məlumatları">
+<!ENTITY clearSiteData1.label            "Məlumatları təmizlə…">
+<!ENTITY clearSiteData1.accesskey        "l">
+<!ENTITY siteDataSettings1.label         "Məlumatları idarə et…">
+<!ENTITY siteDataSettings1.accesskey     "M">
 <!ENTITY siteDataLearnMoreLink.label     "Ətraflı öyrən">
 
 <!-- LOCALIZATION NOTE:
@@ -72,8 +80,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "MB yer">
 <!ENTITY clearCacheNow.label             "İndi təmizlə">
 <!ENTITY clearCacheNow.accesskey         "z">
-<!ENTITY clearOfflineAppCacheNow.label   "İndi təmizlə">
-<!ENTITY clearOfflineAppCacheNow.accesskey "t">
 <!ENTITY overrideSmartCacheSize.label    "Avtomatik saxlama yaddaşı nəzarətini söndür">
 <!ENTITY overrideSmartCacheSize.accesskey "o">
 
@@ -110,17 +116,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Axtarış mühərriklərini avtomatik yenilə">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
-
-<!ENTITY offlineStorageNotify.label               "Sayt oflayn istifadə üçün məlumat saxlamaq istədiyində mənə bildir">
-<!ENTITY offlineStorageNotify.accesskey           "T">
-<!ENTITY offlineStorageNotifyExceptions.label     "İstisnalar…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "x">
-
-<!ENTITY offlineAppsList3.label          "Aşağıdakı saytlara oflayn istifadə üçün məlumat saxlamağa icazə verilib">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Sil…">
-<!ENTITY offlineAppsListRemove.accesskey "S">
-<!ENTITY offlineAppRemove.confirm        "Oflayn məlumatlarını sil">
 
 <!ENTITY certificateTab.label            "Sertifikatlar">
 <!ENTITY certPersonal2.description       "Hər hansı bir server şəxsi sertifikatınızı istədikdə">
