@@ -10,6 +10,7 @@
 <!ENTITY content.label "Содержимое">
 <!ENTITY fonts.label "Шрифты">
 <!ENTITY colors.label "Цвета">
+<!ENTITY media.label "Медиа">
 <!ENTITY spellingPane.label "Орфография">
 
 <!ENTITY navigator.label "Браузер">
