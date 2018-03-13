@@ -172,12 +172,33 @@
 <!ENTITY calendar.context.copyevent.accesskey         "C">
 <!ENTITY calendar.context.pasteevent.label            "Zalijepi">
 <!ENTITY calendar.context.pasteevent.accesskey        "P">
-<!ENTITY calendar.context.button.label                "Današnje okno" >
-<!ENTITY calendar.context.button.accesskey            "T" >
-<!ENTITY calendar.context.attendance.menu.label       "Prisustvo" >
-<!ENTITY calendar.context.attendance.menu.accesskey   "d" >
-<!ENTITY calendar.context.attendance.occurrence.label "Ovo ponavljanje" >
+<!ENTITY calendar.context.button.label                "Današnje okno">
+<!ENTITY calendar.context.button.accesskey            "T">
+
+<!ENTITY calendar.context.attendance.menu.label                 "Prisustvo">
+<!ENTITY calendar.context.attendance.menu.accesskey             "d">
+<!ENTITY calendar.context.attendance.occurrence.label           "Ovo ponavljanje">
 <!ENTITY calendar.context.attendance.all.label        "Sva ponavljanja" >
+
+<!ENTITY calendar.context.attendance.all2.label                 "Kompletne serije">
+<!ENTITY calendar.context.attendance.send.label                 "Pošalji obavijest sada">
+<!ENTITY calendar.context.attendance.dontsend.label             "Ne šalji obavijest">
+
+<!ENTITY calendar.context.attendance.occ.accepted.label         "Prihvaćeno">
+<!ENTITY calendar.context.attendance.occ.tentative.label        "Prihvaćeno privremeno">
+<!ENTITY calendar.context.attendance.occ.declined.label         "Odbijeno">
+<!ENTITY calendar.context.attendance.occ.delegated.label        "Delegirano">
+<!ENTITY calendar.context.attendance.occ.needsaction.label      "Još uvijek treba akciju">
+<!ENTITY calendar.context.attendance.occ.inprogress.label       "U procesu">
+<!ENTITY calendar.context.attendance.occ.completed.label        "Završeno">
+
+<!ENTITY calendar.context.attendance.all.accepted.label         "Prihvaćeno">
+<!ENTITY calendar.context.attendance.all.tentative.label        "Prihvaćeno privremeno">
+<!ENTITY calendar.context.attendance.all.declined.label         "Odbijeno">
+<!ENTITY calendar.context.attendance.all.delegated.label        "Delegirano">
+<!ENTITY calendar.context.attendance.all.needsaction.label      "Još uvijek treba akciju">
+<!ENTITY calendar.context.attendance.all.inprogress.label       "U procesu">
+<!ENTITY calendar.context.attendance.all.completed.label        "Završeno">
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Napredak">
