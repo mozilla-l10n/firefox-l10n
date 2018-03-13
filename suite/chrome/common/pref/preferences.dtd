@@ -10,6 +10,7 @@
 <!ENTITY content.label "內容">
 <!ENTITY fonts.label "字型">
 <!ENTITY colors.label "色彩">
+<!ENTITY media.label "媒體">
 <!ENTITY spellingPane.label "拼字檢查">
 
 <!ENTITY navigator.label "網頁瀏覽器">
