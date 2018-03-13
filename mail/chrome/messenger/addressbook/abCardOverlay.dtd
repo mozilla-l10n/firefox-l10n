@@ -23,9 +23,9 @@
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
 <!ENTITY PhoneticField2.id              "PhoneticLastName">
 
-<!ENTITY NameField1.label               "Nama pertama:">
+<!ENTITY NameField1.label               "Nama Pertama:">
 <!ENTITY NameField1.accesskey           "p">
-<!ENTITY NameField2.label               "Nama keluarga:">
+<!ENTITY NameField2.label               "Nama Keluarga:">
 <!ENTITY NameField2.accesskey           "k">
 <!ENTITY PhoneticField1.label           "Fonetik:">
 <!ENTITY PhoneticField2.label           "Fonetik:">
