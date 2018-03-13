@@ -8,7 +8,9 @@
 <!ENTITY Company.label                         "Organizacija">
 <!ENTITY NickName.label                        "Vzdevek">
 <!ENTITY SecondEmail.label                     "Dodatna e-pošta">
-<!ENTITY JobTitle.label                        "Naslov">
+<!ENTITY Department.label                      "Oddelek">
+<!ENTITY JobTitle.label                        "Naziv">
+<!ENTITY PagerNumber.label                     "Pozivnik">
 <!ENTITY FaxNumber.label                       "Faks">
 <!ENTITY sortAscending.label                   "Naraščajoče">
 <!ENTITY sortDescending.label                  "Padajoče">
