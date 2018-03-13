@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "एडअन प्रबन्धक">
 
-<!ENTITY search.placeholder                   "सबै एडअन खोज्नुहोस्">
+<!ENTITY search.placeholder2                  "addons.mozilla.org मा खोज्नुहोस्">
 <!ENTITY search.buttonlabel                   "खोजी गर्नुहोस्">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -14,7 +14,6 @@
 <!ENTITY listEmpty.availableUpdates.label     "कुनै अद्यावधि फेला परेन">
 <!ENTITY listEmpty.recentUpdates.label        "तपाईँले हालै कुनै पनि एडअनहरू स्थापना गर्नु भएको छैन">
 <!ENTITY listEmpty.findUpdates.label          "अद्यावधिकहरूका लागि जाँच गर्नुहोस्">
-<!ENTITY listEmpty.search.label               "कुनै पनि मिल्ने एडअन पाइएन">
 <!ENTITY listEmpty.button.label               "एडअन बारेमा थप जान्नुहोस्">
 <!ENTITY installAddonFromFile.label           "फाइलबाट एडअनहरू स्थापना गर्नुहोस्…">
 <!ENTITY installAddonFromFile.accesskey       "I">
@@ -22,9 +21,6 @@
 
 <!ENTITY getThemes.description                "ब्राउजरलाई निजीकृत गर्ने सोच्दैहुनुहुन्छ ?">
 <!ENTITY getThemes.learnMore                  "हजारौँ थीमहरूबाट रोज्नुहोस् ।">
-
-<!ENTITY cmd.back.tooltip                     "एक पृष्ठ पछाडि जानुहोस्">
-<!ENTITY cmd.forward.tooltip                  "एक पृष्ठ अगाडि जानुहोस्">
 
 
 <!ENTITY showUnsignedExtensions.button.label  "केही एक्सटेन्सनहरू प्रमाणिकरण गर्न सकिएन">
@@ -42,7 +38,6 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "एड-अन अद्यावधिक सुरक्षा जाँच सक्षम पार्नुहोस्">
 
 <!-- categories / views -->
-<!ENTITY view.search.label                    "खोजी गर्नुहोस्">
 <!ENTITY view.discover.label                  "एड-अनहरू प्राप्त गर्नुहोस्">
 <!ENTITY view.recentUpdates.label             "हालका अद्यावधिकहरू">
 <!ENTITY view.availableUpdates.label          "उपलब्ध अद्यावधिहरू">
@@ -174,16 +169,6 @@
 <!ENTITY sort.name.tooltip                    "नाम अनुसार क्रमबद्ध गर्नुहोस्">
 <!ENTITY sort.dateUpdated.label               "अन्तिममा अद्यावधिक भएको">
 <!ENTITY sort.dateUpdated.tooltip             "अद्यावधिक मिति अनुसार क्रमबद्ध गर्नुहोस्">
-<!ENTITY sort.relevance.label                 "सर्वश्रेष्ठ म्याच">
-<!ENTITY sort.relevance.tooltip               "सान्दर्भिकता अनुसार क्रमबद्ध गर्नुहोस्">
-<!ENTITY sort.price.label                     "मूल्य">
-<!ENTITY sort.price.tooltip                   "मूल्य अनुसार क्रमबद्ध गर्नुहोस्">
-
-<!ENTITY search.filter2.label                 "खोजी गर्नुहोस्:">
-<!ENTITY search.filter2.installed.label       "मेरो एड-अनहरू">
-<!ENTITY search.filter2.installed.tooltip     "स्थापना भइसकेका एड-अनहरू सूचीकृत गर्नुहोस्">
-<!ENTITY search.filter2.available.label       "उपलब्ध एड-अनहरू">
-<!ENTITY search.filter2.available.tooltip     "स्थापना गर्न उपलब्ध एड-अनहरू देखाउनुहोस्">
 
 <!ENTITY addon.homepage                       "गृहपृष्ठ">
 <!ENTITY addon.details.label                  "थप">
