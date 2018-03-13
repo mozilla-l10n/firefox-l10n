@@ -75,6 +75,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsProcessCount "Web Məzmun Emalçıları">
 
+<!ENTITY aboutSupport.enterprisePolicies "Sahibkarlıq Siyasəti">
+
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Google açarı">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla Mövqe Xidməti Açarı">
 
