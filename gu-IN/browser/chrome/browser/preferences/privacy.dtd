@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "ટ્રેકિંગ પ્રોટેક્શન">
-<!ENTITY  trackingProtection2.description      "ટ્રેકિંગ એ બહુવિધ વેબસાઇટ્સ પર તમારા બ્રાઉઝિંગ ડેટાનો સંગ્રહ છે. ટ્રેકિંગનો ઉપયોગ તમારી બ્રાઉઝિંગ અને વ્યક્તિગત માહિતી પર આધારિત રૂપરેખા બનાવવા અને સામગ્રી પ્રદર્શિત કરવા માટે થઈ શકે છે.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "જાણીતા ટ્રેકર્સને અવરોધિત કરવા માટે ટ્રેકિંગ પ્રોટેક્શનનો ઉપયોગ કરો">
 <!ENTITY  trackingProtection3.description      "ટ્રેકિંગ પ્રોટેક્શન ઓનલાઇન ટ્રેકર જે બહુવિધ વેબસાઇટ્સ પર તમારા બ્રાઉઝિંગ ડેટાને એકત્રિત કરે તેને અવરોધે છે.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "જાણીતા ટ્રેકર્સને અવરોધિત કરવા માટે ટ્રેકિંગ પ્રોટેક્શનનો ઉપયોગ કરો">
 <!ENTITY  trackingProtectionAlways.label       "હંમેશા">
@@ -13,7 +11,6 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "I">
 <!ENTITY  trackingProtectionNever.label        "ક્યારેય નહિં">
 <!ENTITY  trackingProtectionNever.accesskey    "n">
-<!ENTITY  trackingProtectionLearnMore.label    "વધુ શીખો">
 <!ENTITY  trackingProtectionLearnMore2.label    "ટ્રેકિંગ સુરક્ષા અને તમારી ગોપનીયતા વિશે વધુ જાણો">
 <!ENTITY  trackingProtectionExceptions.label   "અપવાદો…">
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
@@ -24,11 +21,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "વધુ શીખો">
 <!ENTITY changeBlockList2.label               "અવરોધિત સૂચિ બદલો…">
 <!ENTITY changeBlockList2.accesskey           "C">
-
-<!ENTITY  doNotTrack.description        "વેબસાઇટ્સને &quot;ટ્રેક ન કરો&quot; સિગ્નલ મોકલો કે જેને તમે ટ્રૅક કરી ન શકો">
-<!ENTITY  doNotTrack.learnMore.label    "વધુ શીખો">
-<!ENTITY  doNotTrack.default.label      "માત્ર ટ્રૅકિંગ પ્રોટેક્શનનો ઉપયોગ કરતી વખતે">
-<!ENTITY  doNotTrack.always.label       "હંમેશા">
 
 <!ENTITY  history.label                 "ઇતિહાસ">
 <!ENTITY  permissions.label             "પરવાનગીઓ">
@@ -54,10 +46,11 @@
 <!ENTITY  acceptThirdParty2.pre.label     "તૃતીય-પક્ષ કૂકીઝ સ્વીકારો">
 <!ENTITY  acceptThirdParty2.pre.accesskey "y">
 
-<!ENTITY  acceptCookies3.accesskey      "A">
 
+<!ENTITY  blockCookies.label            "કૂકીઝ અને સાઇટ ડેટાને અવરોધિત કરો (વેબસાઇટ્સને તોડી શકે છે)">
 <!ENTITY  blockCookies.accesskey        "B">
 
+<!ENTITY  acceptThirdParty3.pre.label     "તૃતીય-પક્ષ કૂકીઝ અને સાઇટ ડેટાને સ્વીકારો">
 <!ENTITY  acceptThirdParty3.pre.accesskey "y">
 <!ENTITY  acceptThirdParty.always.label   "હંમેશા">
 <!ENTITY  acceptThirdParty.never.label    "ક્યારેય નહિં">
@@ -92,6 +85,7 @@
 <!ENTITY  rememberActions.middle.label        ", અથવા ">
 <!ENTITY  rememberActions.removeCookies.label "વ્યક્તિગત કુકીઓ દૂર કરવા માંગતા હશો">
 <!ENTITY  rememberActions.post.label          ".">
+
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; ખાનગી બ્રાઉઝીંગની જેમ જ સેટીંગ વાપરશે, અને તમે જેમ વેબ બ્રાઉઝ કરો તેમ ઇતિહાસ યાદ રાખશે નહિં.">
 

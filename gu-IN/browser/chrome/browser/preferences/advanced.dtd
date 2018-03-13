@@ -52,8 +52,6 @@ available. -->
 <!ENTITY networkProxy.label              "નેટવર્ક પ્રોક્સી">
 
 <!ENTITY connectionDesc.label            "કેવી રીતે &brandShortName; ઈન્ટરનેટ સાથે જોડાય છે તે રૂપરેખાંકિત કરો">
-
-<!ENTITY connectionSettingsLearnMore.label "વધુ જાણો">
 <!ENTITY connectionSettings.label        "સેટીંગ...">
 <!ENTITY connectionSettings.accesskey    "e">
 
@@ -63,10 +61,11 @@ available. -->
 <!ENTITY siteData.label                  "સાઇટ ડેટા">
 <!ENTITY clearSiteData.label             "બધા ડેટા સાફ કરો">
 <!ENTITY clearSiteData.accesskey         "I">
-<!ENTITY siteData1.label                 "કૂકીઝ અને સાઈટ ડેટા">
-<!ENTITY clearSiteData1.accesskey        "l">
 <!ENTITY siteDataSettings.label          "સેટિંગ્સ…">
 <!ENTITY siteDataSettings.accesskey      "i">
+<!ENTITY siteData1.label                 "કૂકીઝ અને સાઈટ ડેટા">
+<!ENTITY clearSiteData1.label            "માહિતી સાફ કરો…">
+<!ENTITY clearSiteData1.accesskey        "l">
 <!ENTITY siteDataLearnMoreLink.label     "વધુ શીખો">
 
 <!-- LOCALIZATION NOTE:

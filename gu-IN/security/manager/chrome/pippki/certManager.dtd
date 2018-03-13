@@ -10,6 +10,11 @@
 <!ENTITY certmgr.tab.ca                       "સત્તા">
 <!ENTITY certmgr.tab.orphan2                  "બીજા">
 
+<!ENTITY certmgr.mine2                        "તમારી પાસે આ સંસ્થાઓનાં પ્રમાણપત્રો છે કે જે તમને ઓળખી શકે છે">
+<!ENTITY certmgr.others2                      "તમારી પાસે ફાઇલમાં પ્રમાણપત્રો છે જે આ માણસોને ઓળખી શકે છે">
+<!ENTITY certmgr.websites3                    "તમારી પાસે ફાઈલ પર પ્રમાણપત્રો છે કે જે આ સર્વરોને ઓળખે છે">
+<!ENTITY certmgr.cas2                         "તમારા પાસે ફાઇલમાં પ્રમાણપત્રો છે જે આ પ્રમાણપત્ર પ્રકાશિત કરનાર અધિકારી ને ઓળખે છે">
+<!ENTITY certmgr.orphans2                     "તમારી પાસે ફાઈલ પર પ્રમાણપત્રો છે કે જેઓ અન્ય વર્ગોમાંના કોઈમાં પણ બંધબેસતા નથી">
 
 <!ENTITY certmgr.detail.general_tab.title     "સામાન્ય">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
@@ -33,7 +38,6 @@
 <!ENTITY certmgr.editcert.edittrust           "વિશ્વાસ ગોઠવણીમાં ફેરફાર કરો:">
 <!ENTITY certmgr.editcert.trustssl            "આ પ્રમાણપત્ર વેબસાઇટ ઓળખી શકે છે.">
 <!ENTITY certmgr.editcert.trustemail          "આ પ્રમાણપત્ર મેલ વપરાશકર્તાને ઓળખી શકે છે.">
-<!ENTITY certmgr.editcert.trustobjsign        "આ પ્રમાણપત્ર સોફ્ટવેર બનાવવાવાળાંને ઓળખી શકે છે.">
 
 <!ENTITY certmgr.deletecert.title             "પ્રમાણપત્ર દૂર કરો">
 
