@@ -23,6 +23,7 @@
 <!ENTITY aboutNetworking.sent                  "Mandæ">
 <!ENTITY aboutNetworking.received              "Riçevui">
 <!ENTITY aboutNetworking.family                "Famiggia">
+<!ENTITY aboutNetworking.trr                   "TRR">
 <!ENTITY aboutNetworking.addresses             "Indirissi">
 <!ENTITY aboutNetworking.expires               "Scadensa (segondi)">
 <!ENTITY aboutNetworking.messagesSent          "Mesaggi mandæ">

@@ -25,11 +25,11 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "Inserisci e informaçioin do modolo che ti veu azonze.">
-<!ENTITY loaddevice.modname                     "Nomme do mòdolo:">
-<!ENTITY loaddevice.modname.accesskey           "m">
+<!ENTITY loaddevice.modname2                    "Nomme do mòdolo">
+<!ENTITY loaddevice.modname2.accesskey          "M">
 <!ENTITY loaddevice.modname.default             "Neuvo mòdolo PKCS#11">
-<!ENTITY loaddevice.filename                    "Nomme file do mòdolo:">
-<!ENTITY loaddevice.filename.accesskey          "f">
+<!ENTITY loaddevice.filename2                   "Nomme file do mòdolo">
+<!ENTITY loaddevice.filename2.accesskey         "f">
 <!ENTITY loaddevice.browse                      "Çerca…">
 <!ENTITY loaddevice.browse.accesskey            "e">
 
