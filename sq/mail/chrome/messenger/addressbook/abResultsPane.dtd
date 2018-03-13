@@ -12,3 +12,27 @@
 <!ENTITY Company.accesskey                     "t">
 <!ENTITY _PhoneticName.label                   "Emër Fonetik">
 <!ENTITY _PhoneticName.accesskey               "F">
+<!ENTITY NickName.label                        "Nofkë">
+<!ENTITY NickName.accesskey                    "n">
+<!ENTITY SecondEmail.label                     "Email Shtesë">
+<!ENTITY SecondEmail.accesskey                 "l">
+<!ENTITY Department.label                      "Degë">
+<!ENTITY Department.accesskey                  "D">
+<!ENTITY JobTitle.label                        "Titull">
+<!ENTITY JobTitle.accesskey                    "T">
+<!ENTITY CellularNumber.label                  "Celular">
+<!ENTITY CellularNumber.accesskey              "C">
+<!ENTITY PagerNumber.label                     "Faques">
+<!ENTITY PagerNumber.accesskey                 "q">
+<!ENTITY FaxNumber.label                       "Faks">
+<!ENTITY FaxNumber.accesskey                   "F">
+<!ENTITY HomePhone.label                       "Telefon Shtëpie">
+<!ENTITY HomePhone.accesskey                   "ë">
+<!ENTITY WorkPhone.label                       "Telefon Pune">
+<!ENTITY WorkPhone.accesskey                   "u">
+<!ENTITY ChatName.label                        "Emër Fjalosjeje">
+<!ENTITY ChatName.accesskey                    "o">
+<!ENTITY sortAscending.label                   "Rritës">
+<!ENTITY sortAscending.accesskey               "r">
+<!ENTITY sortDescending.label                  "Zbritës">
+<!ENTITY sortDescending.accesskey              "b">
