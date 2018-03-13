@@ -398,6 +398,7 @@
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Umum">
 <!ENTITY read.only.title.label           "Tajuk:">
+<!ENTITY read.only.calendar.label        "Kalendar:">
 <!ENTITY read.only.event.start.label     "Tarikh Mula:">
 <!ENTITY read.only.task.start.label      "Tarikh Mula:">
 <!ENTITY read.only.event.end.label       "Tarikh Tamat:">
@@ -416,3 +417,17 @@
 <!ENTITY read.only.attendees.label       "Peserta">
 <!ENTITY read.only.description.label     "Keterangan">
 <!ENTITY read.only.link.label            "Pautan Berkaitan">
+
+<!-- Summary dialog -->
+<!ENTITY summary.dialog.saveclose.label         "Simpan dan Tutup">
+<!ENTITY summary.dialog.saveclose.tooltiptext   "Simpan perubahan dan tutup tetingkap tanpa mengubah status penyertaan dan menghantar respons">
+<!ENTITY summary.dialog.accept.label            "Terima">
+<!ENTITY summary.dialog.accept.tooltiptext      "Terima jemputan">
+<!ENTITY summary.dialog.tentative.label         "Tentatif">
+<!ENTITY summary.dialog.tentative.tooltiptext   "Terima jemputan secara tentatif">
+<!ENTITY summary.dialog.decline.label           "Tolak">
+<!ENTITY summary.dialog.decline.tooltiptext     "Tolak jemputan">
+<!ENTITY summary.dialog.dontsend.label          "Jangan hantar respons">
+<!ENTITY summary.dialog.dontsend.tooltiptext    "Tukar status penyertaan tanpa menghantar jawapan kepada penganjur dan tutup tetingkap">
+<!ENTITY summary.dialog.send.label              "Hantar respons sekarang">
+<!ENTITY summary.dialog.send.tooltiptext        "Hantar respons kepada pengatur  dan tutup tetingkap">
