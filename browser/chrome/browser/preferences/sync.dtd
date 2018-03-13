@@ -7,13 +7,31 @@
 <!ENTITY engine.bookmarks.label     "Segnalibbri">
 <!ENTITY engine.bookmarks.accesskey "S">
 <!ENTITY engine.tabs.label2         "Arvi Feuggi">
+<!ENTITY engine.tabs.title          "’Na lista de quello ch'o l'é averto in sci dispoxitivi scincronizæ">
 <!ENTITY engine.tabs.accesskey      "F">
 <!ENTITY engine.history.label       "Stöia">
 <!ENTITY engine.history.accesskey   "S">
+<!ENTITY engine.logins.label        "Login">
+<!ENTITY engine.logins.title        "Nommi utente e poule segrete che t'æ sarvou">
+<!ENTITY engine.logins.accesskey    "L">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, used as the checkbox which indicates if prefs are synced
+-->
+<!ENTITY engine.prefsWin.label      "Opçioin">
+<!ENTITY engine.prefsWin.accesskey  "O">
 <!ENTITY engine.prefs.label         "Preferense">
 <!ENTITY engine.prefs.accesskey     "P">
+<!ENTITY engine.prefs.title         "Inpostaçioin genarali, de privaçy e seguessa che t'æ cangiou">
 <!ENTITY engine.addons.label        "Conponenti azonti">
+<!ENTITY engine.addons.title        "Estenscioin e temi pe Firefox desktop">
 <!ENTITY engine.addons.accesskey    "a">
+<!ENTITY engine.addresses.label     "Indirissi">
+<!ENTITY engine.addresses.title     "Indirissi de pòsta che t'æ sarvou (solo desktop)">
+<!ENTITY engine.addresses.accesskey "e">
+<!ENTITY engine.creditcards.label   "Papê a poffo">
+<!ENTITY engine.creditcards.title   "Nommi, numeri e dæte de scadensa (solo desktop)">
+<!ENTITY engine.creditcards.accesskey "P">
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Nomme dispoxitivo">
@@ -44,26 +62,18 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.beforename.label "Acedi pe ativâ torna a conescion">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-<!ENTITY notSignedIn.label           "No ti ê introu.">
-<!ENTITY signIn.label                "Intra">
-<!ENTITY signIn.accesskey            "t">
-<!ENTITY profilePicture.tooltip      "Cangia l’inmagine do profî">
-<!ENTITY verifiedManage.label        "Gestisci account">
-<!ENTITY verifiedManage.accesskey    "o">
-<!ENTITY disconnect3.label           "Disconetti…">
-<!ENTITY disconnect3.accesskey       "D">
-<!ENTITY verify.label                "Verifica email">
-<!ENTITY verify.accesskey            "V">
-<!ENTITY forget.label                "Ascòrda sta email">
-<!ENTITY forget.accesskey            "A">
+<!ENTITY notSignedIn.label            "No ti ê introu.">
+<!ENTITY signIn.label                 "Intra">
+<!ENTITY signIn.accesskey             "t">
+<!ENTITY profilePicture.tooltip       "Cangia l’inmagine do profî">
+<!ENTITY verifiedManage.label         "Gestisci account">
+<!ENTITY verifiedManage.accesskey     "o">
+<!ENTITY disconnect3.label            "Disconetti…">
+<!ENTITY disconnect3.accesskey        "D">
 
 <!ENTITY signedOut.caption            "A teu Ræ, de longo con ti">
 <!ENTITY signedOut.description        "Scincronizza segnalibbri, stöia, feuggi, paròlle segrete, conponenti azonti e inpostaçioin con tutti i teu dispoxitivi.">
 <!ENTITY signedOut.accountBox.title   "Conetti &syncBrand.fxAccount.label;">
-<!ENTITY signedOut.accountBox.create  "Crea 'n account">
-<!ENTITY signedOut.accountBox.create.accesskey  "C">
-<!ENTITY signedOut.accountBox.signin  "Acedi">
-<!ENTITY signedOut.accountBox.signin.accesskey  "i">
 
 <!ENTITY signedIn.settings.label       "Inpostaçioin de Sync">
 <!ENTITY signedIn.settings.description "Çerni cöse t'eu scincronizâ inti teu dispoxitivi deuviando &brandShortName;.">
@@ -83,3 +93,4 @@ both, to better adapt this sentence to their language.
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
 <!ENTITY mobilePromo3.end              " pe scincronizâ co-i teu dispoxitivi mòbili.">
+

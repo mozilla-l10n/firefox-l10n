@@ -7,6 +7,13 @@
 <!ENTITY searchBar.hidden.label                "Deuvia a bara di indirissi pe çercâ e navegâ">
 <!ENTITY searchBar.shown.label                 "Azonzi bara de riçerca inta bara di atressi">
 
+<!-- LOCALIZATION NOTE (showSearchSuggestionsAboveHistory.label): This string
+     describes what the user will observe when the system prioritizes search
+     suggestions over browsing history in the results that extend down from the
+     address bar. In the original English string, "ahead" refers to location
+     (appearing most proximate to), not time (appearing before). -->
+<!ENTITY showSearchSuggestionsAboveHistory.label "Fanni vedde i conseggi in çimma a-a stöia da navegaçion inta bara di indirissi">
+
 <!ENTITY defaultSearchEngine.label             "Motô de riçerca predefinio">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Çerni o motô de riçerca predefinio da deuviâ inta bara di indirissi e inta bara de riçerca.">
