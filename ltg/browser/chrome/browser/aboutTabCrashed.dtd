@@ -6,7 +6,7 @@
 
 <!ENTITY tabCrashed.closeTab2  "Aiztaiseit cilni">
 <!ENTITY tabCrashed.restoreTab "Atjaunōt itū cilni">
-<!ENTITY tabCrashed.restoreAll "Restore All Crashed Tabs">
+<!ENTITY tabCrashed.restoreAll "Atjaunōt vysas apkrytušōs cilnes">
 
 <!-- LOCALIZATION NOTE (tabCrashed.header2): "Gah" is an English slang word
      used to express surprise or frustration (or both at the same time).  We
@@ -15,11 +15,11 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
-<!ENTITY tabCrashed.header2 "Gah. Your tab just crashed.">
-<!ENTITY tabCrashed.offerHelp2 "We can help!">
+<!ENTITY tabCrashed.header2 "Krapacs! Tova cilne apkryta.">
+<!ENTITY tabCrashed.offerHelp2 "Mes varam paledzēt!">
 <!ENTITY tabCrashed.single.offerHelpMessage2 "Izavielej &tabCrashed.restoreTab;, kab atjaunōtu lopys saturu.">
 <!ENTITY tabCrashed.multiple.offerHelpMessage2 "Izavielit &tabCrashed.restoreTab; voi &tabCrashed.restoreAll;, kab atjaunuotu lopu.">
-<!ENTITY tabCrashed.requestHelp "Will you help us?">
+<!ENTITY tabCrashed.requestHelp "Paleidziesi myusim?">
 <!ENTITY tabCrashed.requestHelpMessage "Avareju ziņuojumi paleidz myusim nūteikt problemys i uzlobuot &brandShortName;.">
 <!ENTITY tabCrashed.requestReport "Ziņuot par itū cilni">
 <!ENTITY tabCrashed.sendReport3 "Send an automated crash report so we can fix issues like this.">

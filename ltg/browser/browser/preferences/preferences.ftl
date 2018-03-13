@@ -229,16 +229,16 @@ update-enable-search-update =
 
 performance-title = Veiktspieja
 performance-use-recommended-settings-checkbox =
-    .label = Use recommended performance settings
-    .accesskey = U
-performance-use-recommended-settings-desc = These settings are tailored to your computer’s hardware and operating system.
+    .label = Izmontōt īsaceitūs veikktspiejis īstatejumus
+    .accesskey = I
+performance-use-recommended-settings-desc = Itī īstatejumi ir dalāgōti tova datora aparaturai un operietōjsistemai.
 performance-settings-learn-more = Uzzynojit vairuok
 performance-allow-hw-accel =
     .label = Nui pīejams, izmantuot aparaturys pauotrynuojumu
     .accesskey = r
 performance-limit-content-process-option = Satura procesu limits
     .accesskey = l
-performance-limit-content-process-enabled-desc = Additional content processes can improve performance when using multiple tabs, but will also use more memory.
+performance-limit-content-process-enabled-desc = Papyldu satura procesi var uzlobōt veiktspieji, izmontojut vairōkys cilnes, bet prasēs papyldu atmiņu.
 performance-limit-content-process-disabled-desc = Modificeit satura procesu skaitu ir īspiejama tikai ar vairuoku procesu { -brand-short-name }. <a>Kai puorbaudeit, voi pīejams vairuoku procesu režyms</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.

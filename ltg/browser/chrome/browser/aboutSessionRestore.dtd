@@ -36,7 +36,7 @@
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; ir gotovs dorbam.">
 
 <!ENTITY welcomeback2.restoreAll.label  "Atjaunōt vysus lūgus i cilnes">
-<!ENTITY welcomeback2.restoreSome.label "Restore only the ones you want">
+<!ENTITY welcomeback2.restoreSome.label "Atjaunōt viņ tūs, kurus gribi">
 
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
@@ -45,7 +45,7 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
-<!ENTITY welcomeback2.beforelink.pageInfo2  "Your add-ons and customizations have been removed and your browser settings have been restored to their defaults. If this didn’t fix your issue, ">
+<!ENTITY welcomeback2.beforelink.pageInfo2  "Tovi papyldynojumi un pīlāgōjumi ir nūjimti. Īstatejumi ir atjaunōti uz nūkluseitajim. Ja tys nav atrysynōjs problemu, ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "uzzinit kū vel jius varot dareit.">
