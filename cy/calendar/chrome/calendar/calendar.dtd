@@ -180,7 +180,7 @@
 <!ENTITY calendar.context.attendance.occurrence.label           "Achlysur">
 <!ENTITY calendar.context.attendance.all.label        "Pob Achlysur" >
 
-<!ENTITY calendar.context.attendance.all2.label                 "Cyfred Gyflawn">
+<!ENTITY calendar.context.attendance.all2.label                 "Cyfres Gyfan">
 <!ENTITY calendar.context.attendance.send.label                 "Anfon hysbysiad nawr">
 <!ENTITY calendar.context.attendance.send.accesskey             "A">
 <!ENTITY calendar.context.attendance.dontsend.label             "Peidio anfon hysbysiad">
