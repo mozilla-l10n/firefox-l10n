@@ -8,6 +8,7 @@
 <!ENTITY     statusCol.label               "موجودہ حالت ">
 <!ENTITY     cookiesCol.label              "کوکیاں">
 <!ENTITY     usageCol.label                "ذخیرہ">
+<!ENTITY     lastAccessedCol.label                "آخری استعمال">
 <!ENTITY     searchTextboxPlaceHolder             "ویبسائٹ تلاش کریں">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
 <!ENTITY     removeSelected.accesskey      "r">

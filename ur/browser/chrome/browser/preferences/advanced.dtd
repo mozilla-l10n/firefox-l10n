@@ -34,6 +34,11 @@ available. -->
 <!ENTITY dataCollectionPrivacyNotice.label    "رازداری کا نوٹس">
 
 <!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+
+<!ENTITY collectBrowserErrors.accesskey      "b">
+<!ENTITY collectBrowserErrorsLearnMore.label "مزید سیکھیں">
+
+<!ENTITY sendBackloggedCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "مزید سیکھیں">
 
 <!ENTITY networkTab.label                "نیٹ ورک">
@@ -44,8 +49,6 @@ available. -->
 <!ENTITY connectionSettings.accesskey    "س">
 
 <!ENTITY httpCache.label                 "کیسہ بند ویب مواد">
-
-<!ENTITY offlineStorage2.label           "آف لائن ویب مواد اور ویب کوائف">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "سائٹ کے کوائف">
@@ -66,8 +69,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "MB جگہ">
 <!ENTITY clearCacheNow.label             "ابھی صاف کریں">
 <!ENTITY clearCacheNow.accesskey         "ص">
-<!ENTITY clearOfflineAppCacheNow.label   "ابھی صاف کریں">
-<!ENTITY clearOfflineAppCacheNow.accesskey "ا">
 <!ENTITY overrideSmartCacheSize.label    "خودکار کیسہ بندوبست زیر کریں">
 <!ENTITY overrideSmartCacheSize.accesskey "ز">
 
@@ -96,16 +97,6 @@ available. -->
 <!ENTITY useService.accesskey            "پ">
 
 <!ENTITY enableSearchUpdate2.accesskey   "e">
-
-<!ENTITY offlineStorageNotify.label               "مجھے بتائیں جب کوئی ویب سائٹ آف لائن استعمال کے لیے کوائف ذخیرہ کرنے کے لیے پوچھے">
-<!ENTITY offlineStorageNotify.accesskey           "ب">
-<!ENTITY offlineStorageNotifyExceptions.label     "استثنیات…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "ا">
-
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "ہٹائیں…">
-<!ENTITY offlineAppsListRemove.accesskey "ہ">
-<!ENTITY offlineAppRemove.confirm        "آف لائن کوائف ہٹائیں">
 
 <!ENTITY certificateTab.label            "تصدیق نامے">
 <!ENTITY selectCerts.auto                "خودبخود ایک منتخب کریں">

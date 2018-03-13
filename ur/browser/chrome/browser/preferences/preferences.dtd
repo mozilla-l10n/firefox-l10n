@@ -18,6 +18,7 @@
      string visible -->
 <!ENTITY  searchField.width             "15.4em">
 
+<!ENTITY  paneSearchResults.title       "تلاش کے نتائج">
 <!ENTITY  paneGeneral.title             "عمومی">
 <!ENTITY  paneSearch.title              "تلاش کریں">
 <!ENTITY  panePrivacySecurity.title     "رازداری اور سلامتی">
