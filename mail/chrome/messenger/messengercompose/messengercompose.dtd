@@ -88,6 +88,17 @@
 <!ENTITY reorderAttachmentsCmd.label "Omordna bilagor…">
 <!ENTITY reorderAttachmentsCmd.accesskey "O">
 <!ENTITY reorderAttachmentsCmd.key "x">
+<!ENTITY toggleAttachmentPaneCmd.label "Bifogningsfönstret">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
+     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
+     as attachments.accesskey. -->
+<!ENTITY toggleAttachmentPaneCmd.accesskey "g">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
+     With OS-specific access modifier, this defines the shortcut key for showing/
+     hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
+     toggleAttachmentPaneCmd.key and attachments.accesskey must be the same
+     for the bucket view state machinery to work. -->
+<!ENTITY toggleAttachmentPaneCmd.key "m">
 <!ENTITY selectAllCmd.label "Markera allt">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "M">
@@ -109,26 +120,10 @@
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Omordna bilagor">
 <!ENTITY moveAttachmentTopPanelBtn.label "Flytta till toppen">
-<!ENTITY moveAttachmentTopPanelBtn.accesskey "t">
 <!ENTITY moveAttachmentUpPanelBtn.label "Flytta upp">
-<!ENTITY moveAttachmentUpPanelBtn.accesskey "u">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Flytta ihop">
-<!ENTITY moveAttachmentBundleUpPanelBtn.accesskey "h">
 <!ENTITY moveAttachmentDownPanelBtn.label "Flytta ner">
-<!ENTITY moveAttachmentDownPanelBtn.accesskey "n">
 <!ENTITY moveAttachmentBottomPanelBtn.label "Flytta till botten">
-<!ENTITY moveAttachmentBottomPanelBtn.accesskey "b">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.label):
-     Please ensure that this translation matches
-     sortAttachmentsTogglePanelBtn.ZA.label, except for the sort direction. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.label "Sortera urval: A - Z">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.accesskey):
-     This accesskey should be the same like
-     sortAttachmentsTogglePanelBtn.ZA.accesskey, and it should be taken from
-     the "Sort Selection:" part of the label, not from the sort direction part. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.accesskey "o">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.label "Sortera urval: Z - A">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.accesskey "o">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -253,6 +248,7 @@
 <!ENTITY quoteButton.tooltip "Citerar föregående meddelande">
 <!ENTITY addressButton.tooltip "Väljer mottagare ur någon adressbok">
 <!ENTITY attachButton.tooltip "Lägg till en bilaga">
+<!ENTITY attachButton.tooltip2 "Lägg till bilaga">
 <!ENTITY spellingButton.tooltip "Kontrollerar stavningen på markerad text eller hela meddelandet">
 <!ENTITY saveButton.tooltip "Sparar meddelandet">
 <!ENTITY cutButton.tooltip              "Klipp ut">
@@ -274,9 +270,14 @@
 <!ENTITY followupAddr.label "Uppföljning-till:">
 <!ENTITY subject.label "Ämne:">
 <!ENTITY subject.accesskey "e">
-<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
-     to the strings in attachmentCount in composeMsgs.properties -->
+<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
+     be taken from the strings in attachmentCount in composeMsgs.properties,
+     and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
+     work, as the shortcut key functionality supersedes the access key. -->
 <!ENTITY attachments.accesskey "B">
+
+<!ENTITY attachmentBucketHeader.tooltip "Bifogningsfönstret">
+<!ENTITY attachmentBucketCloseButton.tooltip "Dölj bifogningsfönstret">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Infoga en smilis">
@@ -314,6 +315,7 @@
 <!ENTITY pasteQuote.label "Klistra in som citat">
 <!ENTITY pasteQuote.accesskey "c">
 
+<!-- Attachment Item and List Context Menus -->
 <!ENTITY openAttachment.label "Öppna">
 <!ENTITY openAttachment.accesskey "Ö">
 <!ENTITY delete.label "Ta bort">
@@ -324,6 +326,8 @@
 <!ENTITY renameAttachment.accesskey "n">
 <!ENTITY reorderAttachments.label "Omordna bilagor…">
 <!ENTITY reorderAttachments.accesskey "O">
+<!ENTITY removeAllAttachments.label "Ta bort alla bilagor">
+<!ENTITY removeAllAttachments.accesskey "r">
 <!ENTITY selectAll.label "Markera allt">
 <!ENTITY selectAll.accesskey "M">
 <!ENTITY attachFile.label "Bifoga fil(er)…">
