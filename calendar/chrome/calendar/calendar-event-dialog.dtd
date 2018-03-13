@@ -398,6 +398,7 @@
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "一般">
 <!ENTITY read.only.title.label           "標題:">
+<!ENTITY read.only.calendar.label        "行事曆:">
 <!ENTITY read.only.event.start.label     "開始日:">
 <!ENTITY read.only.task.start.label      "開始日:">
 <!ENTITY read.only.event.end.label       "結束日期:">
@@ -416,3 +417,5 @@
 <!ENTITY read.only.attendees.label       "與會者">
 <!ENTITY read.only.description.label     "描述">
 <!ENTITY read.only.link.label            "相關鏈結">
+
+<!-- Summary dialog -->
