@@ -10,19 +10,23 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifierseparator " - ">
+<!ENTITY mainWindow.preface "Izvorna koda: ">
 
 <!ENTITY fileMenu.label "Datoteka">
 <!ENTITY fileMenu.accesskey "D">
 <!ENTITY savePageCmd.label "Shrani stran kot …">
 <!ENTITY savePageCmd.accesskey "k">
+<!ENTITY savePageCmd.commandkey "S">
 <!ENTITY pageSetupCmd.label "Priprava strani …">
 <!ENTITY pageSetupCmd.accesskey "r">
 <!ENTITY printPreviewCmd.label "Predogled tiskanja">
 <!ENTITY printPreviewCmd.accesskey "d">
 <!ENTITY printCmd.label "Natisni …">
 <!ENTITY printCmd.accesskey "N">
+<!ENTITY printCmd.commandkey "P">
 <!ENTITY closeCmd.label "Zapri">
 <!ENTITY closeCmd.accesskey "Z">
+<!ENTITY closeCmd.commandkey "W">
 
 <!-- LOCALIZATION NOTE :
 textEnlarge.commandkey3, textReduce.commandkey2 and
@@ -30,12 +34,22 @@ textReset.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
+<!ENTITY textEnlarge.commandkey "+">
+<!ENTITY textEnlarge.commandkey2 "=">
+<!ENTITY textReduce.commandkey "-">
+<!ENTITY textReset.commandkey "0">
 
 <!ENTITY goToLineCmd.label "Pojdi v vrstico …">
 
+<!ENTITY viewMenu.label           "Pogled">
+<!ENTITY viewMenu.accesskey       "P">
 <!ENTITY reloadCmd.label "Ponovno naloži">
+<!ENTITY reloadCmd.accesskey "n">
+<!ENTITY reloadCmd.commandkey "r">
 <!ENTITY menu_wrapLongLines.title "Prelomi dolge vrstice">
+<!ENTITY menu_wrapLongLines.accesskey "l">
 <!ENTITY menu_textSize.label "Velikost besedila">
+<!ENTITY menu_textSize.accesskey "V">
 <!ENTITY menu_textEnlarge.label "Povečaj">
 <!ENTITY menu_textEnlarge.accesskey "v">
 <!ENTITY menu_textReduce.label "Pomanjšaj">
@@ -45,7 +59,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY findOnCmd.label     "Najdi na tej strani …">
 <!ENTITY findOnCmd.accesskey "N">
+<!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Ponovno najdi">
+<!ENTITY findAgainCmd.accesskey "j">
+<!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
 <!ENTITY backCmd.label "Nazaj">
