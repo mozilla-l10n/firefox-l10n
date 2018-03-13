@@ -42,7 +42,6 @@
      These strings are used in the calendar wizard and the calendar properties dialog, but are only
      displayed when setting/using a caldav calendar -->
 <!ENTITY lightning.calendarproperties.email.label                           "Διεύθυνση ηλεκτρονικού ταχυδρομείου:">
-
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.label            "Να προτιμάται ο προγραμματισμός με ηλεκτρονικό ταχυδρομείο">
 <!-- LOCALIZATON NOTE(lightning.calendarproperties.forceEmailScheduling.tooltiptext1,
      lightning.calendarproperties.forceEmailScheduling.tooltiptext2)
@@ -83,6 +82,12 @@
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "Ενημέρωση">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Ενημέρωση του συμβάντος στο ημερολόγιο">
 <!ENTITY lightning.imipbar.description                                      "Αυτό το μήνυμα περιέχει πρόσκληση σε συμβάν.">
+
+<!ENTITY lightning.imipbar.btnSend.label                                    "Αποστολή μιας απάντησης τώρα">
+<!ENTITY lightning.imipbar.btnSend.tooltiptext                              "Αποστολή μιας απάντησης στον οργανωτή">
+<!ENTITY lightning.imipbar.btnSendSeries.tooltiptext                        "Αποστολή μιας απάντησης σε όλη τη σειρά των οργανωτών">
+<!ENTITY lightning.imipbar.btnDontSend.label                                "Να μην αποσταλεί απάντηση">
+<!ENTITY lightning.imipbar.btnDontSend.tooltiptext                          "Αλλαγή της κατάστασης συμμετοχής χωρίς αποστολή απάντησης στον οργανωτή">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "Η">

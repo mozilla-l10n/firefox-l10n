@@ -398,6 +398,7 @@
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Γενικά">
 <!ENTITY read.only.title.label           "Τίτλος:">
+<!ENTITY read.only.calendar.label        "Ημερολόγιο:">
 <!ENTITY read.only.event.start.label     "Ημερομηνία έναρξης:">
 <!ENTITY read.only.task.start.label      "Ημερομηνία έναρξης:">
 <!ENTITY read.only.event.end.label       "Ημερομηνία λήξης:">
@@ -416,3 +417,17 @@
 <!ENTITY read.only.attendees.label       "Συμμετέχοντες">
 <!ENTITY read.only.description.label     "Περιγραφή">
 <!ENTITY read.only.link.label            "Σχετικός σύνδεσμος">
+
+<!-- Summary dialog -->
+<!ENTITY summary.dialog.saveclose.label         "Αποθήκευση και κλείσιμο">
+<!ENTITY summary.dialog.saveclose.tooltiptext   "Αποθήκευση αλλαγών και κλείσιμο του παραθύρου χωρίς αλλαγή της κατάστασης συμμετοχής και αποστολής απόκρισης">
+<!ENTITY summary.dialog.accept.label            "Αποδοχή">
+<!ENTITY summary.dialog.accept.tooltiptext      "Αποδοχή της πρόσκλησης">
+<!ENTITY summary.dialog.tentative.label         "Με επιφύλαξη">
+<!ENTITY summary.dialog.tentative.tooltiptext   "Αποδοχή της πρόσκλησης με επιφύλαξη">
+<!ENTITY summary.dialog.decline.label           "Απόρριψη">
+<!ENTITY summary.dialog.decline.tooltiptext     "Απόρριψη της πρόσκλησης">
+<!ENTITY summary.dialog.dontsend.label          "Να μην αποσταλεί απόκριση">
+<!ENTITY summary.dialog.dontsend.tooltiptext    "Αλλαγή της κατάστασης συμμετοχής χωρίς αποστολή απάντησης στον οργανωτή και κλείσιμο του παραθύρου">
+<!ENTITY summary.dialog.send.label              "Αποστολή μιας απάντησης τώρα">
+<!ENTITY summary.dialog.send.tooltiptext        "Αποστολή μιας απάντησης στον οργανωτή  και κλείσιμο του παραθύρου">
