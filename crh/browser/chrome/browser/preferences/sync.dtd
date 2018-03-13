@@ -2,58 +2,103 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY engine.bookmarks.label "Saife-imleri">
+<!-- The page shown when logged in... -->
+
+<!ENTITY engine.bookmarks.label     "Saife-imleri">
 <!ENTITY engine.bookmarks.accesskey "S">
-<!ENTITY engine.tabs.label2 "Açıq İlmekler">
-<!ENTITY engine.tabs.accesskey "l">
-<!ENTITY engine.history.label "Keçmiş">
-<!ENTITY engine.history.accesskey "K">
-<!ENTITY engine.logins.label "İçeri-imzalanışlar">
-<!ENTITY engine.logins.accesskey "i">
-<!ENTITY engine.prefs.label "Tercihler">
-<!ENTITY engine.prefs.accesskey "T">
-<!ENTITY engine.addons.label "Eklentiler">
-<!ENTITY engine.addons.accesskey "E">
-<!ENTITY engine.addresses.label "Adresler">
+<!ENTITY engine.tabs.label2         "Açıq ilmekler">
+<!ENTITY engine.tabs.title          "Aynılaştırılğan cihazlarnıñ episi üzerinde açıq olğan şeylerniñ bir listesi">
+<!ENTITY engine.tabs.accesskey      "l">
+<!ENTITY engine.history.label       "Keçmiş">
+<!ENTITY engine.history.accesskey   "K">
+<!ENTITY engine.logins.label        "İçeri-imzalanışlar">
+<!ENTITY engine.logins.title        "Saqlağan olğanıñız qullanıcı adları ve sır-sözler">
+<!ENTITY engine.logins.accesskey    "i">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, used as the checkbox which indicates if prefs are synced
+-->
+<!ENTITY engine.prefsWin.label      "Seçenekler">
+<!ENTITY engine.prefsWin.accesskey  "S">
+<!ENTITY engine.prefs.label         "Tercihler">
+<!ENTITY engine.prefs.accesskey     "T">
+<!ENTITY engine.prefs.title         "Deñiştirgen olğanıñız Umumiy, Hususiyat ve Emniyet ayarları">
+<!ENTITY engine.addons.label        "Eklentiler">
+<!ENTITY engine.addons.title        "Firefox masaüstü içün uzantılar ve temalar">
+<!ENTITY engine.addons.accesskey    "E">
+<!ENTITY engine.addresses.label     "Adresler">
+<!ENTITY engine.addresses.title     "Saqlağan olğanıñız poçta adresleri (faqat masaüstü)">
 <!ENTITY engine.addresses.accesskey "e">
-<!ENTITY engine.creditcards.label "Kredit kartları">
+<!ENTITY engine.creditcards.label   "Kredit kartları">
+<!ENTITY engine.creditcards.title   "İsimler, sayılar ve eskiriş tarihleri (faqat masaüstü)">
 <!ENTITY engine.creditcards.accesskey "K">
-<!ENTITY fxaSyncDeviceName.label "Cihaz İsmi">
+
+<!-- Device Settings -->
+<!ENTITY fxaSyncDeviceName.label       "Cihaz İsmi">
 <!ENTITY changeSyncDeviceName2.label "Cihaz Adını Deñiştir…">
 <!ENTITY changeSyncDeviceName2.accesskey "h">
 <!ENTITY cancelChangeSyncDeviceName.label "Vazgeç">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "z">
 <!ENTITY saveChangeSyncDeviceName.label "Saqla">
 <!ENTITY saveChangeSyncDeviceName.accesskey "S">
-<!ENTITY prefs.tosLink.label "Hızmet Şartları">
+
+<!-- Footer stuff -->
+<!ENTITY prefs.tosLink.label        "Hızmet Şartları">
 <!ENTITY fxaPrivacyNotice.link.label "Hususiyat Tebliği">
+
+<!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
+signedInUnverified.aftername.label): these two string are used respectively
+before and after the account email address. Localizers can use one of them, or
+both, to better adapt this sentence to their language.
+-->
 <!ENTITY signedInUnverified.beforename.label "">
 <!ENTITY signedInUnverified.aftername.label "doğrulanğan degildir">
+
+<!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
+signedInLoginFailure.aftername.label): these two string are used respectively
+before and after the account email address. Localizers can use one of them, or
+both, to better adapt this sentence to their language.
+-->
 <!ENTITY signedInLoginFailure.beforename.label "Kene bağlanmaq içün lütfen içeri imzalanıñız">
 <!ENTITY signedInLoginFailure.aftername.label "">
-<!ENTITY notSignedIn.label "İçeri imzalanğan degilsiñiz.">
-<!ENTITY signIn.label "İçeri İmzalan">
-<!ENTITY signIn.accesskey "r">
-<!ENTITY profilePicture.tooltip "Profil resmini deñiştir">
-<!ENTITY verifiedManage.label "Esapnı idare et">
-<!ENTITY verifiedManage.accesskey "e">
-<!ENTITY disconnect3.label "Bağlantını qopar…">
-<!ENTITY disconnect3.accesskey "o">
-<!ENTITY verify.label "E-poştanı doğrula">
-<!ENTITY verify.accesskey "D">
-<!ENTITY forget.label "Bu e-poştanı unut">
-<!ENTITY forget.accesskey "U">
-<!ENTITY signedOut.caption "Ağıñıznı Yanıñızda Alıñız">
-<!ENTITY signedOut.description "Saife-imleriñiz, keçmişiñiz, ilmekleriñiz, sır-sözleriñiz, eklentileriñiz ve tercihleriñizni episi cihazlarıñız arqalı aynılaştırıñız.">
-<!ENTITY signedOut.accountBox.title "Bir &syncBrand.fxAccount.label; ile bağlanıñız">
+
+<!ENTITY notSignedIn.label            "İçeri imzalanğan degilsiñiz.">
+<!ENTITY signIn.label                 "İçeri İmzalan">
+<!ENTITY signIn.accesskey             "r">
+<!ENTITY profilePicture.tooltip       "Profil resmini deñiştir">
+<!ENTITY verifiedManage.label         "Esapnı idare et">
+<!ENTITY verifiedManage.accesskey     "e">
+<!ENTITY disconnect3.label            "Bağlantını qopar…">
+<!ENTITY disconnect3.accesskey        "o">
+<!ENTITY resendVerification.label     "Doğrulamanı Kene Yiber">
+<!ENTITY resendVerification.accesskey "r">
+<!ENTITY cancelSetup.label            "Ayarlamadan Vazgeç">
+<!ENTITY cancelSetup.accesskey        "z">
+
+<!ENTITY signedOut.caption            "Ağıñıznı Yanıñızda Alıñız">
+<!ENTITY signedOut.description        "Saife-imleriñiz, keçmişiñiz, ilmekleriñiz, sır-sözleriñiz, eklentileriñiz ve tercihleriñizni episi cihazlarıñız arqalı aynılaştırıñız.">
+<!ENTITY signedOut.accountBox.title   "Bir &syncBrand.fxAccount.label; ile bağlanıñız">
 <!ENTITY signedOut.accountBox.create2 "Esabıñız yoqmı? Açmağa başlañız">
 <!ENTITY signedOut.accountBox.create2.accesskey "l">
 <!ENTITY signedOut.accountBox.signin2 "İçeri İmzalan…">
 <!ENTITY signedOut.accountBox.signin2.accesskey "e">
-<!ENTITY signedIn.settings.label "Sync Ayarları">
+
+<!ENTITY signedIn.settings.label       "Sync Ayarları">
 <!ENTITY signedIn.settings.description "&brandShortName; qullanğan cihazlarıñız üzerinde ne aynılaştırılacağını saylañız.">
-<!ENTITY mobilePromo3.start "Mobil cihazıñız ile aynılaştırmaq içün ">
-<!ENTITY mobilePromo3.androidLink "Android">
-<!ENTITY mobilePromo3.iOSBefore " yaki ">
-<!ENTITY mobilePromo3.iOSLink "iOS">
-<!ENTITY mobilePromo3.end " içün Firefox'nı endiriñiz.">
+
+<!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
+     create a single sentence with active links.
+     The resulting sentence in English is: "Download Firefox for
+     Android or iOS to sync with your mobile device." -->
+
+<!ENTITY mobilePromo3.start            "Mobil cihazıñız ile aynılaştırmaq içün ">
+<!-- LOCALIZATION NOTE (mobilePromo3.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+<!ENTITY mobilePromo3.androidLink      "Android">
+
+<!-- LOCALIZATION NOTE (mobilePromo3.iOSBefore): This is text displayed between mobilePromo3.androidLink and mobilePromo3.iosLink -->
+<!ENTITY mobilePromo3.iOSBefore         " yaki ">
+<!-- LOCALIZATION NOTE (mobilePromo3.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
+<!ENTITY mobilePromo3.iOSLink          "iOS">
+
+<!ENTITY mobilePromo3.end              " içün Firefox'nı endiriñiz.">
+

@@ -2,22 +2,40 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY searchBar.label "Qıdırma Çubuğı">
-<!ENTITY searchBar.hidden.label "Adres çubuğını qıdırma ve seyrüsefer içün qullan">
-<!ENTITY searchBar.shown.label "Alet çubuğında qıdırma çubuğını ekle">
-<!ENTITY defaultSearchEngine.label "Ögbelgilengen Qıdırma Motorı">
-<!ENTITY chooseYourDefaultSearchEngine2.label "Adres çubuğında ve qıdırma çubuğında qullanılacaq ögbelgilengen qıdırma motorını saylañız.">
-<!ENTITY provideSearchSuggestions.label "Qıdırma telqinlerini temin et">
-<!ENTITY provideSearchSuggestions.accesskey "t">
-<!ENTITY showURLBarSuggestions2.label "Adres çubuğı neticelerinde qıdırma telqinlerini köster">
-<!ENTITY showURLBarSuggestions2.accesskey "t">
-<!ENTITY urlBarSuggestionsPermanentPB.label "&brandShortName; tarafıñızca keçmişni hatırlamamaq üzre ayarlanğan olğanından dolayı qonum çubuğı neticelerinde qıdırma telqinleri kösterilmeycek.">
-<!ENTITY oneClickSearchEngines.label "Tek-Çertme Qıdırma Motorları">
-<!ENTITY chooseWhichOneToDisplay2.label "Bir anahtar sözni kirsetmege başlağanıñızda adres çubuğında ve qıdırma çubuğında körüngen alternativ qıdırma motorlarını sayla.">
-<!ENTITY engineNameColumn.label "Qıdırma Motorı">
-<!ENTITY engineKeywordColumn.label "Anahtar kelime">
-<!ENTITY restoreDefaultSearchEngines.label "Ögbelgilengen Qıdırma Motorını Keri tikle">
+<!ENTITY searchBar.label                       "Qıdırma Çubuğı">
+
+<!ENTITY searchBar.hidden.label                "Adres çubuğını qıdırma ve seyrüsefer içün qullan">
+<!ENTITY searchBar.shown.label                 "Alet çubuğında qıdırma çubuğını ekle">
+
+<!-- LOCALIZATION NOTE (showSearchSuggestionsAboveHistory.label): This string
+     describes what the user will observe when the system prioritizes search
+     suggestions over browsing history in the results that extend down from the
+     address bar. In the original English string, "ahead" refers to location
+     (appearing most proximate to), not time (appearing before). -->
+<!ENTITY showSearchSuggestionsAboveHistory.label "Adres çubuğı neticelerinde qıdırma telqinlerini seyran keçmişiniñ üstünde köster">
+
+<!ENTITY defaultSearchEngine.label             "Ögbelgilengen Qıdırma Motorı">
+
+<!ENTITY chooseYourDefaultSearchEngine2.label   "Adres çubuğında ve qıdırma çubuğında qullanılacaq ögbelgilengen qıdırma motorını saylañız.">
+
+<!ENTITY provideSearchSuggestions.label        "Qıdırma telqinlerini temin et">
+<!ENTITY provideSearchSuggestions.accesskey    "t">
+
+<!ENTITY showURLBarSuggestions2.label           "Adres çubuğı neticelerinde qıdırma telqinlerini köster">
+<!ENTITY showURLBarSuggestions2.accesskey       "t">
+<!ENTITY urlBarSuggestionsPermanentPB.label    "&brandShortName; tarafıñızca keçmişni hatırlamamaq üzre ayarlanğan olğanından dolayı qonum çubuğı neticelerinde qıdırma telqinleri kösterilmeycek.">
+
+<!ENTITY oneClickSearchEngines.label           "Tek-Çertme Qıdırma Motorları">
+
+<!ENTITY chooseWhichOneToDisplay2.label         "Bir anahtar sözni kirsetmege başlağanıñızda adres çubuğında ve qıdırma çubuğında körüngen alternativ qıdırma motorlarını sayla.">
+
+<!ENTITY engineNameColumn.label                "Qıdırma Motorı">
+<!ENTITY engineKeywordColumn.label             "Anahtar kelime">
+
+<!ENTITY restoreDefaultSearchEngines.label     "Ögbelgilengen Qıdırma Motorını Keri tikle">
 <!ENTITY restoreDefaultSearchEngines.accesskey "b">
-<!ENTITY removeEngine.label "Çetleştir">
-<!ENTITY removeEngine.accesskey "r">
-<!ENTITY findMoreSearchEngines.label "Daa çoq qıdırma motorları tap">
+
+<!ENTITY removeEngine.label                    "Çetleştir">
+<!ENTITY removeEngine.accesskey                "r">
+
+<!ENTITY findMoreSearchEngines.label           "Daa çoq qıdırma motorları tap">

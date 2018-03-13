@@ -2,31 +2,32 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutUrlClassifier.pageTitle "Url-classifier aqqında malümat">
-<!ENTITY aboutUrlClassifier.providerTitle "Teminatçı">
-<!ENTITY aboutUrlClassifier.provider "Teminatçı">
-<!ENTITY aboutUrlClassifier.providerLastUpdateTime "Soñ yañartma zamanı">
-<!ENTITY aboutUrlClassifier.providerNextUpdateTime "Soñraki yañartma zamanı">
-<!ENTITY aboutUrlClassifier.providerBackOffTime "Kerileyiberme zamanı">
-<!ENTITY aboutUrlClassifier.providerLastUpdateStatus "Soñ yañartma statusı">
-<!ENTITY aboutUrlClassifier.providerUpdateBtn "Yañart">
-<!ENTITY aboutUrlClassifier.cacheTitle "Zula">
-<!ENTITY aboutUrlClassifier.cacheRefreshBtn "Tazert">
-<!ENTITY aboutUrlClassifier.cacheClearBtn "Temizle">
-<!ENTITY aboutUrlClassifier.cacheTableName "Cedvel ismi">
-<!ENTITY aboutUrlClassifier.cacheNCacheEntries "Menfiy zula kirişleri sayısı">
-<!ENTITY aboutUrlClassifier.cachePCacheEntries "Müsbet zula kirişleri sayısı">
-<!ENTITY aboutUrlClassifier.cacheShowEntries "Kirişlerni köster">
-<!ENTITY aboutUrlClassifier.cacheEntries "Zula Kirişleri">
-<!ENTITY aboutUrlClassifier.cachePrefix "Ögyalğama">
-<!ENTITY aboutUrlClassifier.cacheNCacheExpiry "Menfiy zula eskirişi">
-<!ENTITY aboutUrlClassifier.cacheFullhash "Tam qıyım (heş)">
-<!ENTITY aboutUrlClassifier.cachePCacheExpiry "Müsbet zula eskirişi">
-<!ENTITY aboutUrlClassifier.debugTitle "İlletsizlendir">
-<!ENTITY aboutUrlClassifier.debugModuleBtn "Kütük Modüllerini Tesbit Et">
-<!ENTITY aboutUrlClassifier.debugFileBtn "Kütük Dosyesini Tesbit Et">
-<!ENTITY aboutUrlClassifier.debugJSLogChk "JS Kütügini Tesbit Et">
-<!ENTITY aboutUrlClassifier.debugSBModules "Emin Kezinüv kütük modülleri">
-<!ENTITY aboutUrlClassifier.debugModules "Cari kütük modülleri">
-<!ENTITY aboutUrlClassifier.debugSBJSModules "Emin Kezinüv JS kütügi">
-<!ENTITY aboutUrlClassifier.debugFile "Cari kütük dosyesi">
+<!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
+<!ENTITY aboutUrlClassifier.title                       "URL Sınıflandırıcısı Malümatı">
+<!ENTITY aboutUrlClassifier.providerTitle               "Teminatçı">
+<!ENTITY aboutUrlClassifier.provider                    "Teminatçı">
+<!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Soñ yañartma zamanı">
+<!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Soñraki yañartma zamanı">
+<!ENTITY aboutUrlClassifier.providerBackOffTime         "Kerileyiberme zamanı">
+<!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Soñ yañartma statusı">
+<!ENTITY aboutUrlClassifier.providerUpdateBtn           "Yañart">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Zula">
+<!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Tazert">
+<!ENTITY aboutUrlClassifier.cacheClearBtn               "Temizle">
+<!ENTITY aboutUrlClassifier.cacheTableName              "Cedvel ismi">
+<!ENTITY aboutUrlClassifier.cacheNCacheEntries          "Menfiy zula kirişleri sayısı">
+<!ENTITY aboutUrlClassifier.cachePCacheEntries          "Müsbet zula kirişleri sayısı">
+<!ENTITY aboutUrlClassifier.cacheShowEntries            "Kirişlerni köster">
+<!ENTITY aboutUrlClassifier.cacheEntries                "Zula Kirişleri">
+<!ENTITY aboutUrlClassifier.cachePrefix                 "Ögyalğama">
+<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Menfiy zula eskirişi">
+<!ENTITY aboutUrlClassifier.cacheFullhash               "Tam qıyım (heş)">
+<!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Müsbet zula eskirişi">
+<!ENTITY aboutUrlClassifier.debugTitle                  "İlletsizlendir">
+<!ENTITY aboutUrlClassifier.debugModuleBtn              "Kütük Modüllerini Tesbit Et">
+<!ENTITY aboutUrlClassifier.debugFileBtn                "Kütük Dosyesini Tesbit Et">
+<!ENTITY aboutUrlClassifier.debugJSLogChk               "JS Kütügini Tesbit Et">
+<!ENTITY aboutUrlClassifier.debugSBModules              "Emin Kezinüv kütük modülleri">
+<!ENTITY aboutUrlClassifier.debugModules                "Cari kütük modülleri">
+<!ENTITY aboutUrlClassifier.debugSBJSModules            "Emin Kezinüv JS kütügi">
+<!ENTITY aboutUrlClassifier.debugFile                   "Cari kütük dosyesi">
