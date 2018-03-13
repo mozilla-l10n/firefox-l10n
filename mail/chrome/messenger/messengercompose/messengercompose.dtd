@@ -88,6 +88,14 @@
 <!ENTITY reorderAttachmentsCmd.label "Preuredi priponke …">
 <!ENTITY reorderAttachmentsCmd.accesskey "P">
 <!ENTITY reorderAttachmentsCmd.key "x">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
+     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
+     as attachments.accesskey. -->
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
+     With OS-specific access modifier, this defines the shortcut key for showing/
+     hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
+     toggleAttachmentPaneCmd.key and attachments.accesskey must be the same
+     for the bucket view state machinery to work. -->
 <!ENTITY selectAllCmd.label "Izberi vse">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "v">
@@ -109,26 +117,10 @@
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Preuredi priponke">
 <!ENTITY moveAttachmentTopPanelBtn.label "Premakni na vrh">
-<!ENTITY moveAttachmentTopPanelBtn.accesskey "v">
 <!ENTITY moveAttachmentUpPanelBtn.label "Premakni gor">
-<!ENTITY moveAttachmentUpPanelBtn.accesskey "o">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Premakni skupaj">
-<!ENTITY moveAttachmentBundleUpPanelBtn.accesskey "s">
 <!ENTITY moveAttachmentDownPanelBtn.label "Premakni dol">
-<!ENTITY moveAttachmentDownPanelBtn.accesskey "d">
 <!ENTITY moveAttachmentBottomPanelBtn.label "Premakni na dno">
-<!ENTITY moveAttachmentBottomPanelBtn.accesskey "n">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.label):
-     Please ensure that this translation matches
-     sortAttachmentsTogglePanelBtn.ZA.label, except for the sort direction. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.label "Razvrsti izbiro od A do Ž">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.accesskey):
-     This accesskey should be the same like
-     sortAttachmentsTogglePanelBtn.ZA.accesskey, and it should be taken from
-     the "Sort Selection:" part of the label, not from the sort direction part. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.accesskey "R">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.label "Razvrsti izbiro od Ž do A">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.accesskey "R">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -253,6 +245,7 @@
 <!ENTITY quoteButton.tooltip "Navedi prejšnje sporočilo">
 <!ENTITY addressButton.tooltip "Izberite prejemnika iz imenika">
 <!ENTITY attachButton.tooltip "Vključi priponko">
+<!ENTITY attachButton.tooltip2 "Dodaj prilogo">
 <!ENTITY spellingButton.tooltip "Preveri črkovanje izbire ali celotnega sporočila">
 <!ENTITY saveButton.tooltip "Shrani to sporočilo">
 <!ENTITY cutButton.tooltip              "Izreži">
@@ -274,9 +267,12 @@
 <!ENTITY followupAddr.label "Nadaljuj za:">
 <!ENTITY subject.label "Zadeva:">
 <!ENTITY subject.accesskey "Z">
-<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
-     to the strings in attachmentCount in composeMsgs.properties -->
+<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
+     be taken from the strings in attachmentCount in composeMsgs.properties,
+     and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
+     work, as the shortcut key functionality supersedes the access key. -->
 <!ENTITY attachments.accesskey "n">
+
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Vstavi smeška">
@@ -314,6 +310,7 @@
 <!ENTITY pasteQuote.label "Prilepi kot navedek">
 <!ENTITY pasteQuote.accesskey "n">
 
+<!-- Attachment Item and List Context Menus -->
 <!ENTITY openAttachment.label "Odpri">
 <!ENTITY openAttachment.accesskey "O">
 <!ENTITY delete.label "Izbriši">

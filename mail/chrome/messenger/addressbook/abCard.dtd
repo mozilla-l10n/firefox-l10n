@@ -42,7 +42,16 @@
 <!ENTITY WorkCountry.label              "Država:">
 <!ENTITY WorkWebPage.label              "Spletna stran:">
 
+<!ENTITY Notes.label                    "Beležke:">
 
+<!ENTITY Chat.tab                       "Klepet">
+<!ENTITY Gtalk.label                    "Google Talk:">
 <!ENTITY Yahoo.label                    "Yahoo!:">
 <!ENTITY Skype.label                    "Skype:">
 
+<!ENTITY DefaultPhoto.label             "Privzeto">
+<!ENTITY PhotoFile.label                "Na tem računalniku">
+<!ENTITY BrowsePhoto.label              "Prebrskaj">
+<!ENTITY PhotoURL.label                 "Na spletu">
+<!ENTITY PhotoURL.placeholder           "Prilepite ali vtipkajte spletni naslov fotografije">
+<!ENTITY UpdatePhoto.label              "Posodobi">
