@@ -58,6 +58,8 @@
 <!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName; o l'à blocou sta pagina perché a preuva a instalâ de app gramme che te peu xatâ ò scancelâ de teu informaçioin (prezenpio föto, poule segrete, mesaggi e carte a poffo).">
 
 <!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.override "<span id='harmful_sitename'/> o l'é stæto <a id='error_desc_link'>segnalou de contegnî de aplicaçioin potensialmente pericoloze</a>. Ti peu <a id='ignore_warning_link'>ignorâ o reizego</a> e anâ in sto scito pericolozo.">
 
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "<span id='harmful_sitename'/> o l'é stæto <a id='error_desc_link'>segnalou de contegnî de aplicaçioin potensialmente pericoloze</a>.">
 
 <!ENTITY safeb.blocked.harmfulPage.learnMore "Atre informaçioin in sciâ proteçion de &brandShortName;’s contra Phishing e Malware into <a id='firefox_support'>support.mozilla.org</a>.">

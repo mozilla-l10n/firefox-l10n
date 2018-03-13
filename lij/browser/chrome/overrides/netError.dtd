@@ -18,7 +18,17 @@
 <!ENTITY deniedPortAccess.title "L'acesso a-a pòrta o l'é dizabilitou pe raxoin de seguessa">
 <!ENTITY deniedPortAccess.longDesc "">
 
+<!ENTITY dnsNotFound.pageTitle "Server no atrovou">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "Ahime mi. Niatri emmo di problemi a trovâ sto scito.">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>Se l'indirisso o l'é giusto, chi gh'é tre cöse che ti peu ancon provâ:</strong>
+<ul>
+  <li>Provâ torna dòppo.</li>
+  <li>Controlâ a conescion de ræ.</li>
+  <li>Se ti ê conesso ma derê a 'n firewall, contròlla ch'o &brandShortName; o l'agge o permisso de acede a-a Ræ.</li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "File no trovou">
 <!ENTITY fileNotFound.longDesc "<ul><li>Peu ese che l'ògetto o segge stæto rinominou, scancelou ò mesciou?</li><li>Gh'é quarche erô inte l'indirisso?</li><li>Ti ghe l'æ i permissi pe acede a l'ògetto?</li></ul>">
@@ -42,7 +52,9 @@
 
 <!ENTITY openPortalLoginPage.label2 "Arvi a Pagina de Login da ræ">
 
+<!ENTITY malformedURI.pageTitle "URL grammo">
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "Oh belin. St'indirisso me pâ segge sbaliou.">
 
 <!ENTITY netInterrupt.title "Trasferimento di dæti scancellou">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
@@ -147,6 +159,7 @@ was trying to connect. -->
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> o deuvia 'na tecnòlogia de seguessa vegia ch'a l'é debole . Un mascarson o peu pigiâ con façiliæ e teu informaçioin che ti pensi segian a-o seguo. L'aministratô do scito o deve dâ recatto a-o server primma che ti ti posse vixitâ sta pagina.</p><p>Còdice d'erô: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
+<!ENTITY blockedByPolicy.title "Pagina Blocâ">
 
 <!ENTITY prefReset.longDesc "Pâ che segian e teu inpostaçioin de seguessa a caozâ questo. Ti veu repigiâ e inpostaçioin predefinie?">
 <!ENTITY prefReset.label "Repiggia inpostaçioin predefinie">
