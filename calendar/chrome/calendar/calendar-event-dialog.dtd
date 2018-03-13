@@ -398,6 +398,7 @@
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Të përgjithshme">
 <!ENTITY read.only.title.label           "Titull:">
+<!ENTITY read.only.calendar.label        "Kalendar:">
 <!ENTITY read.only.event.start.label     "Datë Fillimi:">
 <!ENTITY read.only.task.start.label      "Datë Fillimi:">
 <!ENTITY read.only.event.end.label       "Datë Mbarimi:">
@@ -416,3 +417,17 @@
 <!ENTITY read.only.attendees.label       "Pjesëmarrës">
 <!ENTITY read.only.description.label     "Përshkrim">
 <!ENTITY read.only.link.label            "Lidhje e Afërt">
+
+<!-- Summary dialog -->
+<!ENTITY summary.dialog.saveclose.label         "Ruaje dhe Mbylle">
+<!ENTITY summary.dialog.saveclose.tooltiptext   "Ruajini ndryshimet dhe mbylleni dritaren pa ndryshuar gjendjen e pjesëmarrjes dhe pa dërguar një përgjigje">
+<!ENTITY summary.dialog.accept.label            "Pranoje">
+<!ENTITY summary.dialog.accept.tooltiptext      "Pranoni ftesën">
+<!ENTITY summary.dialog.tentative.label         "Përpjekje">
+<!ENTITY summary.dialog.tentative.tooltiptext   "Pranoni përkohësisht ftesën">
+<!ENTITY summary.dialog.decline.label           "Hidhe poshtë">
+<!ENTITY summary.dialog.decline.tooltiptext     "Hidhni poshtë ftesën">
+<!ENTITY summary.dialog.dontsend.label          "Mos dërgo përgjigje">
+<!ENTITY summary.dialog.dontsend.tooltiptext    "Ndryshoni gjendjen e pjesëmarrjes tuaj pa dërguar përgjigje për organizuesin dhe mbylleni dritaren">
+<!ENTITY summary.dialog.send.label              "Dërgoni një përgjigje tani">
+<!ENTITY summary.dialog.send.tooltiptext        "Dërgoni një përgjigje organizuesit dhe mbylleni dritaren">
