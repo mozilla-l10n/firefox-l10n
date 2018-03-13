@@ -88,6 +88,7 @@
 <!ENTITY lightning.imipbar.btnSendSeries.tooltiptext                        "Αποστολή μιας απάντησης σε όλη τη σειρά των οργανωτών">
 <!ENTITY lightning.imipbar.btnDontSend.label                                "Να μην αποσταλεί απάντηση">
 <!ENTITY lightning.imipbar.btnDontSend.tooltiptext                          "Αλλαγή της κατάστασης συμμετοχής χωρίς αποστολή απάντησης στον οργανωτή">
+<!ENTITY lightning.imipbar.btnDontSendSeries.tooltiptext                    "Αλλάξτε την κατάσταση συμμετοχής σας για τη σειρά χωρίς αποστολή απόκρισης στον οργανωτή">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "Η">
