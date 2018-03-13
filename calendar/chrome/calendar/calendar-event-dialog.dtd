@@ -398,6 +398,7 @@
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Cyffredinol">
 <!ENTITY read.only.title.label           "Teitl:">
+<!ENTITY read.only.calendar.label        "Calendr:">
 <!ENTITY read.only.event.start.label     "Dyddiad Cychwyn:">
 <!ENTITY read.only.task.start.label      "Dyddiad Cychwyn:">
 <!ENTITY read.only.event.end.label       "Dyddiad Gorffen:">
@@ -416,3 +417,17 @@
 <!ENTITY read.only.attendees.label       "Mynychwyr">
 <!ENTITY read.only.description.label     "Disgrifiad">
 <!ENTITY read.only.link.label            "Dolenni Perthnasol">
+
+<!-- Summary dialog -->
+<!ENTITY summary.dialog.saveclose.label         "Cadw a Chau">
+<!ENTITY summary.dialog.saveclose.tooltiptext   "Cadw'r newidiadau a chau'r ffenestr heb newid statws cyfrannu ac anfon ymateb">
+<!ENTITY summary.dialog.accept.label            "Derbyn">
+<!ENTITY summary.dialog.accept.tooltiptext      "Derbyn y gwahoddiad">
+<!ENTITY summary.dialog.tentative.label         "Amodol">
+<!ENTITY summary.dialog.tentative.tooltiptext   "Derbyn y gwahoddiad yn amodol">
+<!ENTITY summary.dialog.decline.label           "Gwrthod">
+<!ENTITY summary.dialog.decline.tooltiptext     "Gwrthod y gwahoddiad">
+<!ENTITY summary.dialog.dontsend.label          "Peidio anfon ymateb">
+<!ENTITY summary.dialog.dontsend.tooltiptext    "Newid eich statws cyfranogi heb anfon ymateb i'r trefnydd a chau'r ffenestr">
+<!ENTITY summary.dialog.send.label              "Anfon ymateb nawr">
+<!ENTITY summary.dialog.send.tooltiptext        "Anfon ymateb i'r trefnydd  a chau'r ffenestr">
