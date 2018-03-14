@@ -18,3 +18,5 @@
 
 <!ENTITY button.cancel.label          "Cancel·la">
 <!ENTITY button.cancel.accesskey      "C">
+<!ENTITY button.clear.label           "Esborra">
+<!ENTITY button.clear.accesskey       "b">
