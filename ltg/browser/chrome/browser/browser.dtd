@@ -222,23 +222,23 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Globōt datus pastōveigā krōtuvē">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Porlyuku kontrolej nu attōluma">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Manage sharing your camera and/or microphone with the site">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Manage sharing your microphone with the site">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Manage sharing your windows or screen with the site">
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Porvoldi lopys pīkļivi tovai kamerai un/voi mikrofonam">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Porvoldi lopys pīkļivi tovai kamerai">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Porvoldi lopys pīkļivi tovim lūgim voi ekranam">
 
 <!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Attaiseit instalacejis ziņuojumu paneli">
-<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Translate this page">
-<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Manage page translation">
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Tulkōt itū lopu">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Porvaldēt lopys tulkojumus">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Puorvaļdeit DRM programaturys izmontuošonu">
 
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Attaiseit MIDI paneli">
 
-<!ENTITY urlbar.cameraBlocked.tooltip            "You have blocked your camera for this website.">
-<!ENTITY urlbar.microphoneBlocked.tooltip        "You have blocked your microphone for this website.">
+<!ENTITY urlbar.cameraBlocked.tooltip            "Kameras izmontōšona itymā lopā ir aizlīgta.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Mikrofona izmontōšona itymā lopā ir aizlīgta.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Ekrana kūplītuošona ar itū lopu ir blokeita.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Acarašonas vītys informacejis kūplītuošona ar itū lopu ir blokeita.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Paziņuojumu sajimšona nu ituos lopys ir blokeita.">
-<!ENTITY urlbar.persistentStorageBlocked.tooltip "Datu globōšona itymā lopā ir blokeita.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Datu saglpbōšona itymā lopā ir aizlīgta.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Izlacušū lūku rōdiešona itymā lopā ir aizlīgta.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Datu sajimšona nu ituos lopys canvas ir blokeita.">
 
@@ -372,7 +372,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.label "Sinhronizeituos cilnes">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
-<!ENTITY appMenuRemoteTabs.notabs.label "No open tabs">
+<!ENTITY appMenuRemoteTabs.notabs.label "Nav attaisietu cilņu">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.label "Ruodeit vairuok">
@@ -383,7 +383,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.showAll.tooltip "Ruodeit vysys cilnes nu ituos īrīces">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Turn on tab syncing to view a list of tabs from your other devices.">
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Īslēdz cilņu sinhronizaceji, kab radzātu cilnes nu cytom īreicem.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
@@ -394,10 +394,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.unverified.label "Tovam kontam jōbyun apstyprynōtam.">
 <!ENTITY appMenuRemoteTabs.signin.label "Pīsasliegt Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Puorvaļdeit īrīces…">
-<!ENTITY appMenuRemoteTabs.sidebar.label "View Synced Tabs Sidebar">
+<!ENTITY appMenuRemoteTabs.sidebar.label "Rōdēt sinhronizeitū cilņu sōnu jūslu">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Daslēgt cytu īreici">
 
-<!ENTITY appMenuRecentHighlights.label "Recent Highlights">
+<!ENTITY appMenuRecentHighlights.label "Svaigi jaunumi">
 
 <!ENTITY customizeMenu.addToToolbar.label "Pīvīnuot reikjūslai">
 <!ENTITY customizeMenu.addToToolbar.accesskey "a">
@@ -445,8 +445,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Padūms:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
-<!ENTITY urlbar.searchSuggestionsNotification.hint "Get help finding things! Look for the &#x1F50E; next to search suggestions.">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Change Options…">
+<!ENTITY urlbar.searchSuggestionsNotification.hint "Kab mudrōk atrosu vajadzeigū, meklej &#x1F50E; mekliešonys īsacejumūs.">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Mainēt īstatejumus…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Maineit īstatiejumus…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
@@ -479,7 +479,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Meklejamuo frāze">
-<!ENTITY contentSearchSubmit.tooltip  "Submit search">
+<!ENTITY contentSearchSubmit.tooltip  "Veikt mekliešonu">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
      This string is displayed in the search box when the input field is empty. -->
@@ -632,7 +632,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaUnmute.accesskey       "A">
 <!ENTITY mediaPlaybackRate2.label     "Atskaņuošonys uotrums">
 <!ENTITY mediaPlaybackRate2.accesskey "d">
-<!ENTITY mediaPlaybackRate050x2.label "Slow (0.5×)">
+<!ENTITY mediaPlaybackRate050x2.label "Lieni (0.5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "S">
 <!ENTITY mediaPlaybackRate100x2.label "Normals">
 <!ENTITY mediaPlaybackRate100x2.accesskey "N">
@@ -645,7 +645,7 @@ movie "Space Balls" and is meant to say that this speed is very
 fast. -->
 <!ENTITY mediaPlaybackRate200x2.label "Super uotri (2×)">
 <!ENTITY mediaPlaybackRate200x2.accesskey "S">
-<!ENTITY mediaLoop.label             "Loop">
+<!ENTITY mediaLoop.label             "Atkōrtōt">
 <!ENTITY mediaLoop.accesskey         "L">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
@@ -759,11 +759,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionVerified2 "Jiusu savīnuojums ar itū lopu ir drūss, lopa pīder:">
 <!ENTITY identity.connectionInternal "Itei ir drūsa &brandShortName; lopa.">
 <!ENTITY identity.extensionPage "Itei lopa ir īluodeita nu papyldynuojuma.">
-<!ENTITY identity.insecureLoginForms2 "Logins entered on this page could be compromised.">
+<!ENTITY identity.insecureLoginForms2 "Dati, kurus īvadiesi itymā lopā nav aizsorgōti un var byut portvarti.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; blokieja nadrūsū saturu itymā lopā.">
-<!ENTITY identity.passiveLoaded "Parts of this page are not secure (such as images).">
+<!ENTITY identity.passiveLoaded "Itōs lopys daļas (pīmāram biļdis) nav drūšys.">
 <!ENTITY identity.activeLoaded "Nadrūsu elementu aizsardzeiba ir deaktiveita.">
 <!ENTITY identity.weakEncryption "Itei lopa izmontoj vuoju šifriešonu.">
 
