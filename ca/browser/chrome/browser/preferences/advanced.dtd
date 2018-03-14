@@ -65,6 +65,10 @@ available. -->
 <!ENTITY siteDataSettings.label          "Paràmetres…">
 <!ENTITY siteDataSettings.accesskey      "P">
 <!ENTITY siteData1.label                 "Galetes i dades dels llocs">
+<!ENTITY clearSiteData1.label            "Neteja les dades…">
+<!ENTITY clearSiteData1.accesskey        "l">
+<!ENTITY siteDataSettings1.label         "Gestiona les dades…">
+<!ENTITY siteDataSettings1.accesskey     "G">
 <!ENTITY siteDataLearnMoreLink.label     "Més informació">
 
 <!-- LOCALIZATION NOTE:
