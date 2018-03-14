@@ -214,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Messagepanneau opmaachen">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Panneau vun de Standuert Ufroen opmaachen">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Add-on Installatioun Messagepanneau opmaachen">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Erlaabnis zur Offro vu Canvas-Donnéeën verwalten">
 
 
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Dës Säit iwwersetzen">
@@ -226,15 +227,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Du hues den Zougrëff op d'Informatioun vun Denger Positioun fir dësen Internetsite gespaart.">
 
 
+<!ENTITY urlbar.openHistoryPopup.tooltip                "Historique uweisen">
 
 <!ENTITY searchItem.title             "Sich">
 
 <!-- Toolbar items -->
+<!ENTITY homeButton.label             "Heem">
 
 <!ENTITY bookmarksButton.label          "Lieszeechen">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksSubview.label             "Lieszeechen">
+<!ENTITY bookmarksMenuButton2.label         "Lieszeeche Menü">
 <!ENTITY bookmarksMenuButton.other.label    "Aner Lieszeechen">
 <!ENTITY bookmarksMenuButton.mobile.label   "Mobil Lieszeechen">
 <!ENTITY searchBookmarks.label              "An de Lieszeeche sichen">
@@ -248,6 +252,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyButton.label            "Historique">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
+<!ENTITY toolsMenu.label              "Extras">
 <!ENTITY toolsMenu.accesskey          "T">
 
 <!ENTITY keywordfield.accesskey       "K">
