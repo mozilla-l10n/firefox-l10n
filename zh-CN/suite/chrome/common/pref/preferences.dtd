@@ -10,6 +10,7 @@
 <!ENTITY content.label "内容">
 <!ENTITY fonts.label "字体">
 <!ENTITY colors.label "颜色">
+<!ENTITY media.label "媒体">
 <!ENTITY spellingPane.label "拼写检查">
 
 <!ENTITY navigator.label "浏览器">
