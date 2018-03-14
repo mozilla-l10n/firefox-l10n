@@ -8,6 +8,8 @@
 <!ENTITY  window.macWidth2              "44em">
 
 <!ENTITY  proxyTitle.label              "Configura els servidors intermediaris per accedir a Internet">
+
+<!ENTITY  proxyTitle.label2             "Configureu el servidor intermediari per accedir a Internet">
 <!ENTITY  noProxyTypeRadio.label        "Sense servidor intermediari">
 <!ENTITY  noProxyTypeRadio.accesskey    "v">
 <!ENTITY  systemTypeRadio.label         "Utilitza els paràmetres de servidor intermediari del sistema">
