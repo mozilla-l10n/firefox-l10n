@@ -4,6 +4,7 @@
 
 <!ENTITY     window.title                  "Sätted - saidi andmed">
 
+<!ENTITY     window2.title                 "Küpsiste ja saitide andmete haldamine">
 <!ENTITY     hostCol.label                 "Sait">
 <!ENTITY     statusCol.label               "Olek">
 <!ENTITY     cookiesCol.label              "Küpsised">
@@ -20,3 +21,6 @@
 <!ENTITY     removingDialog.title          "Saidi andmete kustutamine">
 <!ENTITY     removingSelected.description  "Saidi andmete kustutamine kustutab ka seotud küpsised ja võrguta režiimis kasutamiseks mõeldud andmed. See tegevus võib põhjustada saitidest väljalogimise. Kas oled kindel, et soovid teha need muudatused?">
 <!ENTITY     siteTree2.label               "Järgnevad küpsised kustutatakse">
+<!ENTITY     removingDialog1.title         "Küpsiste ja saitide andmete kustutamine">
+<!ENTITY     removingSelected1.description "Küpsiste ja saitide andmete kustutamine võib põhjustada saitidest väljalogimist. Kas oled kindel, et soovid need muudatused teha?">
+<!ENTITY     siteTree3.label               "Järgmiste saitide küpsised ja andmed kustutatakse">
