@@ -3,7 +3,18 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "Neteja les dades">
+<!ENTITY window.width                 "35em">
 
+<!ENTITY window.description           "Esborrar totes les galetes i dades dels llocs emmagatzemades pel &brandShortName; pot fer que es tanqui la sessió dels llocs web i que s'elimini el contingut web fora de línia. Esborrar les dades de la memòria cau no afecta les sessions iniciades.">
+<!ENTITY windowClose.key              "w">
 
+<!ENTITY clearSiteData.label          "Galetes i dades dels llocs">
+<!ENTITY clearSiteData.accesskey      "G">
+<!ENTITY clearSiteData.description    "Esborrar-les pot fer que se us tanqui la sessió dels llocs web">
 
+<!ENTITY clearCache.label             "Contingut web en memòria cau">
+<!ENTITY clearCache.accesskey         "w">
+<!ENTITY clearCache.description       "Els llocs web hauran de tornar a carregar les imatges i les dades">
 
+<!ENTITY button.cancel.label          "Cancel·la">
+<!ENTITY button.cancel.accesskey      "C">
