@@ -8,6 +8,7 @@
 <!ENTITY doNothing.label                "Ne otvaraj ništa">
 <!ENTITY openProgressDialog.label       "Otvori dijalog napretka">
 <!ENTITY openDM.label                   "Otvori menaždera preuzimanja">
+<!ENTITY flashWhenOpen.label            "Samo flešajte menadžera preuzimanja ako je već otvoren">
 
 <!ENTITY downloadLocation.label         "Pri spremanju datoteke">
 <!ENTITY saveTo.label                   "Sačuvaj datoteke u">

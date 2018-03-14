@@ -10,6 +10,7 @@
 <!ENTITY content.label "Sadržaj">
 <!ENTITY fonts.label "Fontovi">
 <!ENTITY colors.label "Boje">
+<!ENTITY media.label "Mediji">
 <!ENTITY spellingPane.label "Pravopis">
 
 <!ENTITY navigator.label "Browser">

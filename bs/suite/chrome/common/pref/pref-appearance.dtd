@@ -23,3 +23,12 @@
 -->
 <!ENTITY restartOnLangChange.label              "Postavke jezika će imati efekta nakon što ponovo pokrenete &brandShortName;.">
 
+<!--LOCALIZATION NOTE (dateTimeFormatting.label): labels/accesskeys for
+     radiobuttons are set dynamically from prefutilities.properties
+-->
+<!ENTITY dateTimeFormatting.label               "Oblikovanje datuma i vremena">
+
+<!--LOCALIZATION NOTE (restartOnLocaleChange.label): Don't translate "&brandShortName;".
+    Place &brandShortName; in the phrase where the name of the application should appear
+-->
+<!ENTITY restartOnLocaleChange.label            "Postavke jezika i oblikovanja će imati efekta nakon što ponovo pokrenete &brandShortName;.">
