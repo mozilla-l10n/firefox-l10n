@@ -111,6 +111,8 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "Informació de la pàgina">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.label "Depurador de disposició">
+<!ENTITY ldbCmd.accesskey "D">
 <!ENTITY mirrorTabCmd.label "Duplica la pantalla">
 <!ENTITY mirrorTabCmd.accesskey "D">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -125,6 +127,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Mostra totes les pestanyes">
 <!ENTITY showAllTabsCmd.accesskey "a">
 <!ENTITY toggleReaderMode.key "R">
+
+<!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "Inicia la sessió al &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Obre les preferències del &syncBrand.shortName.label;">
@@ -227,17 +231,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Gestiona la traducció de pàgines">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Gestiona l'ús de programari de DRM">
 
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Obre la subfinestra MIDI">
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Heu blocat la càmera per a aquest lloc web.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Heu blocat el micròfon per a aquest lloc web.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Heu blocat la compartició de la pantalla en aquest lloc web.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Heu blocat la informació d'ubicació per a aquest lloc web.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Heu blocat l'emmagatzematge de dades per a aquest lloc web.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Heu blocat les notificacions per a aquest lloc web.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Heu blocat l'emmagatzematge persistent per a aquest lloc web.">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "Heu blocat les finestres emergents per a aquest lloc web.">
-
 <!ENTITY urlbar.canvasBlocked.tooltip            "Heu blocat l'extracció de dades de llenç (canvas) per a aquest lloc web.">
+
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "Heu blocat l'ús del connector Adobe Flash en aquest lloc web.">
+<!ENTITY urlbar.midiBlocked.tooltip              "Heu blocat l'accés MIDI per a aquest lloc web.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mostra l'historial">
 
@@ -303,7 +309,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "n">
 <!ENTITY newPrivateWindow.label     "Finestra privada nova">
 <!ENTITY newPrivateWindow.accesskey "i">
-<!ENTITY newNonRemoteWindow.label   "Finestra no e10s nova">
 
 <!ENTITY editMenu.label         "Edita">
 <!ENTITY editMenu.accesskey       "E">
@@ -358,18 +363,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Mostra tot l'historial">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Personalitza">
-<!ENTITY appMenuCustomize.tooltip "Personalitza el menú i les barres d'eines">
-<!ENTITY appMenuCustomizeExit.label "Surt de la personalització">
-<!ENTITY appMenuCustomizeExit.tooltip "Acaba la personalització">
-
 <!ENTITY appMenuHistory.showAll.label "Mostra tot l'historial">
 <!ENTITY appMenuHistory.clearRecent.label "Neteja l'historial recent…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaura la sessió anterior">
 <!ENTITY appMenuHistory.viewSidebar.label "Mostra la barra lateral de l'historial">
 <!ENTITY appMenuHistory.recentHistory.label "Historial recent">
 <!ENTITY appMenuHelp.label "Ajuda">
-<!ENTITY appMenuHelp.tooltip "Obre el menú d'ajuda">
 
 <!ENTITY appMenuRemoteTabs.label "Pestanyes sincronitzades">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -389,15 +388,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "Encara no hi ha cap pestanya sincronitzada.">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Voleu veure aquí les pestanyes d'altres dispositius?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferències del Sync">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Obre les preferències de sincronització">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Inicieu la sessió per veure una llista de les pestanyes que teniu obertes en altres dispositius.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Cal que verifiqueu el compte.">
 <!ENTITY appMenuRemoteTabs.signin.label "Inicia la sessió al Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Gestiona els dispositius…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Mostra la barra lateral «Pestanyes sincronitzades»">
-
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Connecta un altre dispositiu">
 
 <!ENTITY appMenuRecentHighlights.label "Destacats recents">
@@ -444,14 +442,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Extensió:">
 <!ENTITY urlbar.switchToTab.label     "Canvia a la pestanya:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "Voleu millorar la vostra experiència de cerca amb suggeriments?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Més informació…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "i">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "No">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Sí">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "S">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Consell:">
@@ -730,8 +720,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Estil de pàgina bàsic">
 <!ENTITY pageStylePersistentOnly.accesskey "b">
 
-<!ENTITY pageReportIcon.tooltip            "Canvia els paràmetres de blocatge de finestres emergents per a aquest lloc web">
-
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -816,7 +804,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Pestanyes sincronitzades">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Inicieu la sessió al Firefox en altres dispositius per tal de veure'n aquí les pestanyes obertes.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "Encara no hi ha cap pestanya sincronitzada.">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Voleu veure aquí les pestanyes d'altres dispositius?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Inicieu la sessió per veure una llista de les pestanyes que teniu obertes en altres dispositius.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "Cal que verifiqueu el compte.">
@@ -826,7 +813,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Activeu la sincronització de pestanyes per veure una llista de les pestanyes que teniu obertes en altres dispositius.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Cerca en les pestanyes sincronitzades">
-
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Connecta un altre dispositiu">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
@@ -863,8 +849,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Sincronització">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Arrossegueu els vostres elements favorits a la barra d'eines o al menú d'eines addicionals (»).">
-<!ENTITY customizeMode.menuAndToolbars.empty "Voleu més eines?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Trieu-les d'entre els milers de complements">
 <!ENTITY customizeMode.restoreDefaults "Restaura els valors per defecte">
 <!ENTITY customizeMode.done "Fet">
 <!ENTITY customizeMode.titlebar "Barra de títol">
@@ -877,7 +861,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "G">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Baixa més temes">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "B">
-<!ENTITY customizeMode.emptyOverflowList.description "Arrossegueu elements i deixeu-los anar aquí per tenir-los a mà, però fora de la barra d'eines…">
 <!ENTITY customizeMode.overflowList.title2 "Menú d'eines addicionals (»)">
 <!ENTITY customizeMode.overflowList.description "Arrossegueu elements i deixeu-los anar aquí per tenir-los a mà, però fora de la barra d'eines…">
 <!ENTITY customizeMode.uidensity "Densitat">
@@ -1008,7 +991,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Accions de la pàgina">
 <!ENTITY pageAction.addToUrlbar.label "Afegeix a la barra d'adreces">
 <!ENTITY pageAction.removeFromUrlbar.label "Elimina de la barra d'adreces">
-
 <!ENTITY pageAction.allowInUrlbar.label "Mostra a la barra d'adreces">
 <!ENTITY pageAction.disallowInUrlbar.label "No mostris a la barra d'adreces">
 <!ENTITY pageAction.manageExtension.label "Gestiona l'extensió…">
@@ -1023,3 +1005,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "Funcions d'accessibilitat activades">
+
+<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
+     The first <image> tag is replaced with the icon for the add-ons menu.
+     The second <image> tag is replaced with the icon for the toolbar menu. -->
+<!ENTITY addonPostInstallMessage.label "Gestioneu els vostres complements fent clic a <image class='addon-addon-icon'/> al menú <image class='addon-toolbar-icon'/>.">

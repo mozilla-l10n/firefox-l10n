@@ -22,6 +22,11 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
+policies-notice =
+    { PLATFORM() ->
+        [windows] La vostra organització ha inhabilitat la possibilitat de canviar algunes opcions.
+       *[other] La vostra organització ha inhabilitat la possibilitat de canviar algunes preferències. 
+    }
 pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
@@ -47,6 +52,7 @@ feature-enable-requires-restart = Heu de reiniciar el { -brand-short-name } per 
 feature-disable-requires-restart = Heu de reiniciar el { -brand-short-name } per inhabilitar aquesta característica.
 should-restart-title = Reinicia el { -brand-short-name }
 should-restart-ok = Reinicia el { -brand-short-name } ara
+cancel-no-restart-button = Cancel·la
 restart-later = Reinicia més tard
 
 ## General Section
@@ -99,6 +105,9 @@ tabs-group-header = Pestanyes
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab canvia de pestanya en ordre d'ús recent
     .accesskey = T
+open-new-link-as-tabs =
+    .label = Obre en pestanyes en comptes de noves finestres
+    .accesskey = F
 warn-on-close-multiple-tabs =
     .label = Avisa en tancar diverses pestanyes de cop
     .accesskey = d
@@ -261,6 +270,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Servidor intermediari de xarxa
+network-proxy-connection-learn-more = Més informació
 network-proxy-connection-settings =
     .label = Paràmetres…
     .accesskey = P
