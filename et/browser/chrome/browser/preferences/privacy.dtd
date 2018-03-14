@@ -3,32 +3,24 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Jälitamisvastane kaitse">
-<!ENTITY  trackingProtection2.description      "Jälitamiseks peetakse seda, kui sinu veebilehitsemise andmeid jälitatakse ja kogutakse üle mitme saidi. Jälitamise abil saab koostada sinu kohta profiili ja kuvada sisu vastavalt sinu isiklikele andmetele ja veebilehitsemisele.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "Teadaolevad jälitajad blokitakse">
+<!ENTITY  trackingProtection3.description      "Jälitamisvastane kaitse blokib jälitajad, kes koguvad andmeid sinu veebilehitsemise kohta üle mitmete veebilehtede.">
+<!ENTITY  trackingProtection3.radioGroupLabel  "Teadaolevad jälitajad blokitakse">
 <!ENTITY  trackingProtectionAlways.label       "alati">
 <!ENTITY  trackingProtectionAlways.accesskey   "a">
 <!ENTITY  trackingProtectionPrivate.label      "ainult privaatsetes akendes">
 <!ENTITY  trackingProtectionPrivate.accesskey  "r">
 <!ENTITY  trackingProtectionNever.label        "mitte kunagi">
 <!ENTITY  trackingProtectionNever.accesskey    "g">
-<!ENTITY  trackingProtectionLearnMore.label    "Rohkem teavet">
+<!ENTITY  trackingProtectionLearnMore2.label    "Rohkem teavet jälitamisvastase kaitse ja sinu privaatsuse kohta">
 <!ENTITY  trackingProtectionExceptions.label   "Erandid…">
 <!ENTITY  trackingProtectionExceptions.accesskey "d">
 
-<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
-<!ENTITY trackingProtectionPBM5.label         "Privaatsetes akendes takistatakse veebilehtedel kasutaja jälitamist">
-<!ENTITY trackingProtectionPBM5.accesskey     "t">
-<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "Privaatse veebilehitsemise režiimis blokitakse teadaolevad jälitajad">
 <!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Rohkem teavet">
 <!ENTITY changeBlockList2.label               "Muuda blokkimise nimekirja…">
 <!ENTITY changeBlockList2.accesskey           "M">
-
-<!ENTITY  doNotTrack.description        "Saitidele saadetakse signaal, et sa ei soovi olla jälitatud">
-<!ENTITY  doNotTrack.learnMore.label    "Rohkem teavet">
-<!ENTITY  doNotTrack.default.label      "ainult siis, kui jälitamisvastane kaitse on lubatud">
-<!ENTITY  doNotTrack.always.label       "alati">
 
 <!ENTITY  history.label                 "Ajalugu">
 <!ENTITY  permissions.label             "Õigused">
@@ -51,6 +43,15 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "Kolmanda osapoole küpsised lubatakse">
 <!ENTITY  acceptThirdParty2.pre.accesskey "o">
+
+<!ENTITY  acceptCookies4.label          "Küpsised ja saitide andmed võetakse veebilehtedelt vastu (soovitatav)">
+<!ENTITY  acceptCookies4.accesskey      "ü">
+
+<!ENTITY  blockCookies.label            "Küpsised ja saitide andmed blokitakse (võib põhjustada probleeme saitide töötamises)">
+<!ENTITY  blockCookies.accesskey        "ö">
+
+<!ENTITY  acceptThirdParty3.pre.label     "Kolmanda osapoole saitide küpsised ja saitide andmed võetakse vastu">
+<!ENTITY  acceptThirdParty3.pre.accesskey "õ">
 <!ENTITY  acceptThirdParty.always.label   "alati">
 <!ENTITY  acceptThirdParty.never.label    "mitte kunagi">
 <!ENTITY  acceptThirdParty.visited.label  "varem külastatud saitidelt">
@@ -85,6 +86,8 @@
 <!ENTITY  rememberActions.removeCookies.label "ainult üksikuid küpsiseid">
 <!ENTITY  rememberActions.post.label          ".">
 
+<!ENTITY  rememberDescription1.label      "&brandShortName; peab meeles sinu veebilehitsemise ajaloo, allalaadimised ning vormide ja otsingu ajaloo.">
+
 <!ENTITY  dontrememberDescription.label  "&brandShortName; kasutab samu sätteid, mida kasutatakse privaatse veebilehitsemise korral, veebilehitsemise ajalugu ei säilitata.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
@@ -92,6 +95,9 @@
 <!ENTITY  dontrememberActions.pre.label          "Sa võid tahta ">
 <!ENTITY  dontrememberActions.clearHistory.label "kustutada ka kogu praeguse ajaloo">
 <!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  clearHistoryButton.label       "Ajaloo kustutamine…">
+<!ENTITY  clearHistoryButton.accesskey   "j">
 
 <!ENTITY  privateBrowsingPermanent2.label "Alati kasutatakse privaatse veebilehitsemise režiimi">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
