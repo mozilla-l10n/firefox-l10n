@@ -66,6 +66,8 @@ available. -->
 <!ENTITY siteData1.label                 "કૂકીઝ અને સાઈટ ડેટા">
 <!ENTITY clearSiteData1.label            "માહિતી સાફ કરો…">
 <!ENTITY clearSiteData1.accesskey        "l">
+<!ENTITY siteDataSettings1.label         "ડેટા સંચાલન કરો…">
+<!ENTITY siteDataSettings1.accesskey     "M">
 <!ENTITY siteDataLearnMoreLink.label     "વધુ શીખો">
 
 <!-- LOCALIZATION NOTE:
