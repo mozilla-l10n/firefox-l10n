@@ -72,8 +72,8 @@
 <!ENTITY otherActionsPrint1.accesskey "A">
 
 <!-- Attachment bar context menu items -->
-<!ENTITY startExpandedCmd.label    "Initieel bijlagevenster tonen">
-<!ENTITY startExpandedCmd.accesskey    "I">
+<!ENTITY startExpandedCmd.label    "Bijlagenpaneel initieel tonen">
+<!ENTITY startExpandedCmd.accesskey    "B">
 
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label "Openen">

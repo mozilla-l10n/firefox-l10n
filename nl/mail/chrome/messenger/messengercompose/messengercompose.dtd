@@ -88,6 +88,17 @@
 <!ENTITY reorderAttachmentsCmd.label "Volgorde van bijlagen wijzigen…">
 <!ENTITY reorderAttachmentsCmd.accesskey "V">
 <!ENTITY reorderAttachmentsCmd.key "x">
+<!ENTITY toggleAttachmentPaneCmd.label "Bijlagenpaneel">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
+     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
+     as attachments.accesskey. -->
+<!ENTITY toggleAttachmentPaneCmd.accesskey "a">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
+     With OS-specific access modifier, this defines the shortcut key for showing/
+     hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
+     toggleAttachmentPaneCmd.key and attachments.accesskey must be the same
+     for the bucket view state machinery to work. -->
+<!ENTITY toggleAttachmentPaneCmd.key "m">
 <!ENTITY selectAllCmd.label "Alles selecteren">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "A">
@@ -109,26 +120,10 @@
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Volgorde van bijlagen wijzigen">
 <!ENTITY moveAttachmentTopPanelBtn.label "Bovenaan plaatsen">
-<!ENTITY moveAttachmentTopPanelBtn.accesskey "e">
 <!ENTITY moveAttachmentUpPanelBtn.label "Omhoog verplaatsen">
-<!ENTITY moveAttachmentUpPanelBtn.accesskey "t">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Samen plaatsen">
-<!ENTITY moveAttachmentBundleUpPanelBtn.accesskey "p">
 <!ENTITY moveAttachmentDownPanelBtn.label "Omlaag verplaatsen">
-<!ENTITY moveAttachmentDownPanelBtn.accesskey "r">
 <!ENTITY moveAttachmentBottomPanelBtn.label "Onderaan plaatsen">
-<!ENTITY moveAttachmentBottomPanelBtn.accesskey "d">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.label):
-     Please ensure that this translation matches
-     sortAttachmentsTogglePanelBtn.ZA.label, except for the sort direction. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.label "Selectie sorteren: A - Z">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.accesskey):
-     This accesskey should be the same like
-     sortAttachmentsTogglePanelBtn.ZA.accesskey, and it should be taken from
-     the "Sort Selection:" part of the label, not from the sort direction part. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.accesskey "S">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.label "Selectie sorteren: Z - A">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.accesskey "S">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -253,6 +248,7 @@
 <!ENTITY quoteButton.tooltip "Het vorige bericht citeren">
 <!ENTITY addressButton.tooltip "Een ontvanger uit een adresboek selecteren">
 <!ENTITY attachButton.tooltip "Een bijlage koppelen">
+<!ENTITY attachButton.tooltip2 "Een bijlage toevoegen">
 <!ENTITY spellingButton.tooltip "Spelling van selectie of hele bericht controleren">
 <!ENTITY saveButton.tooltip "Dit bericht opslaan">
 <!ENTITY cutButton.tooltip              "Knippen">
@@ -274,9 +270,14 @@
 <!ENTITY followupAddr.label "Reacties-naar:">
 <!ENTITY subject.label "Onderwerp:">
 <!ENTITY subject.accesskey "n">
-<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
-     to the strings in attachmentCount in composeMsgs.properties -->
+<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
+     be taken from the strings in attachmentCount in composeMsgs.properties,
+     and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
+     work, as the shortcut key functionality supersedes the access key. -->
 <!ENTITY attachments.accesskey "a">
+
+<!ENTITY attachmentBucketHeader.tooltip "Bijlagenpaneel">
+<!ENTITY attachmentBucketCloseButton.tooltip "Het bijlagenpaneel verbergen">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Een smiley invoegen">
@@ -314,6 +315,7 @@
 <!ENTITY pasteQuote.label "Plakken als citaat">
 <!ENTITY pasteQuote.accesskey "t">
 
+<!-- Attachment Item and List Context Menus -->
 <!ENTITY openAttachment.label "Openen">
 <!ENTITY openAttachment.accesskey "O">
 <!ENTITY delete.label "Verwijderen">
@@ -324,6 +326,8 @@
 <!ENTITY renameAttachment.accesskey "H">
 <!ENTITY reorderAttachments.label "Volgorde van bijlagen wijzigen…">
 <!ENTITY reorderAttachments.accesskey "d">
+<!ENTITY removeAllAttachments.label "Alle bijlagen verwijderen">
+<!ENTITY removeAllAttachments.accesskey "b">
 <!ENTITY selectAll.label "Alles selecteren">
 <!ENTITY selectAll.accesskey "A">
 <!ENTITY attachFile.label "Bestand(en) koppelen…">
