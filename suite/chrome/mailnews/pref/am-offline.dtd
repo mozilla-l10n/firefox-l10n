@@ -5,8 +5,6 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Om schijfruimte te besparen, niet downloaden:">
 <!ENTITY doNotDownloadNntp.label "Om schijfruimte te besparen, niet downloaden voor offlinegebruik:">
 <!ENTITY doNotDownloadImap.label "Om schijfruimte te besparen, kan het downloaden van berichten van de server en het bewaren van lokale versies voor offlinegebruik worden beperkt op leeftijd of grootte.">
-<!ENTITY allFoldersOffline.label "Berichten voor deze account op deze computer bewaren">
-<!ENTITY allFoldersOffline.accesskey "c">
 <!ENTITY allFoldersOffline2.label "Berichten in alle mappen voor deze account op deze computer bewaren">
 <!ENTITY allFoldersOffline2.accesskey "c">
 <!ENTITY allFoldersOfflineNote.label "Noot: het wijzigen van deze instelling beïnvloedt alle mappen bij deze account. Gebruik de knop Geavanceerd… om afzonderlijke mappen in te stellen.">

@@ -11,7 +11,6 @@
 
 <!ENTITY feedLocation.label          "Feed-URL:">
 <!ENTITY feedLocation.accesskey      "F">
-<!ENTITY feedLocation.placeholder    "Voer een geldige feed-URL in om toe te voegen">
 <!ENTITY feedLocation2.placeholder   "Voer een geldige feed-URL in">
 <!ENTITY locationValidate.label      "Valideren">
 <!ENTITY validateText.label          "Validatie controleren en een geldige URL ophalen">
