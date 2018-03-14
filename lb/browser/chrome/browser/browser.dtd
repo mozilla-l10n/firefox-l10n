@@ -111,6 +111,8 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "Säiteninformatiounen">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.label "Layout Debugger">
+<!ENTITY ldbCmd.accesskey "L">
 <!ENTITY mirrorTabCmd.label "Tab spigelen">
 <!ENTITY mirrorTabCmd.accesskey "n">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -125,6 +127,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "All Tabs weisen">
 <!ENTITY showAllTabsCmd.accesskey "A">
 <!ENTITY toggleReaderMode.key "R">
+
+<!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "Bei &syncBrand.shortName.label; umellen">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; Astellungen opmaachen">
@@ -209,10 +213,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Messagepanneau opmaachen">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Panneau vun de Standuert Ufroen opmaachen">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Add-on Installatioun Messagepanneau opmaachen">
 
 
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Dës Säit iwwersetzen">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Säitiwwersetzung geréieren">
+
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Du hues Deng Kamera fir dësen Internetsite gespaart.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Du hues Däi Mikro fir dësen Internetsite gespaart.">
@@ -327,7 +333,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
 
 
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -543,7 +548,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 
-
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
      These access keys are identical because their associated menu items are
@@ -605,3 +609,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
      used as a textual label for the indicator used by assistive technology
      users. -->
+
+<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
+     The first <image> tag is replaced with the icon for the add-ons menu.
+     The second <image> tag is replaced with the icon for the toolbar menu. -->
