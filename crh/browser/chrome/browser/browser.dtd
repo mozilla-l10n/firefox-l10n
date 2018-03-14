@@ -692,12 +692,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin2.label       "Çıq">
 <!ENTITY quitApplicationCmdWin2.accesskey   "Ç">
-<!ENTITY quitApplicationCmdWin2.tooltip     "&brandShortName; kezicisinden çıq">
+<!ENTITY quitApplicationCmdWin2.tooltip     "&brandShorterName; kezicisinden çıq">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Terk Et">
 <!ENTITY quitApplicationCmd.accesskey   "k">
-<!ENTITY quitApplicationCmdMac2.label   "&brandShortName; tatbiqini terk et">
+<!ENTITY quitApplicationCmdMac2.label   "&brandShorterName; tatbiqini terk et">
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Qapat">
@@ -960,7 +960,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.message "&brandShorterName; uyğulamasınıñ yañı bir kopiyasını endiriñiz ve sizge onı qurmağa yardım etecekmiz.">
 <!ENTITY updateManual.whatsnew.label "Nelerniñ yañı olğanına baqıñız.">
 <!ENTITY updateManual.header.message "&brandShorterName; eñ soñ sürümge yañartalmay.">
-<!ENTITY updateManual.acceptButton.label "&brandShortName; Endirilsin">
+<!ENTITY updateManual.acceptButton.label "&brandShorterName; Endirilsin">
 <!ENTITY updateManual.acceptButton.accesskey "E">
 <!ENTITY updateManual.cancelButton.label "Şimdi Degil">
 <!ENTITY updateManual.cancelButton.accesskey "D">
