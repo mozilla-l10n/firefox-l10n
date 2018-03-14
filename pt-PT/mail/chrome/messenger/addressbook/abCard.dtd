@@ -15,9 +15,9 @@
 -->
 
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
-<!ENTITY NameField1.id                  "PrimeiroNome">
+<!ENTITY NameField1.id                  "FirstName">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
-<!ENTITY NameField2.id                  "ÚltimoNome">
+<!ENTITY NameField2.id                  "LastName">
 <!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
 <!ENTITY PhoneticField1.id              "PhoneticFirstName">
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
@@ -36,13 +36,13 @@
 <!ENTITY NickName.label                 "Nome de utilizador:">
 <!ENTITY NickName.accesskey             "N">
 
-<!ENTITY PrimaryEmail.label             "E-mail:">
+<!ENTITY PrimaryEmail.label             "Email:">
 <!ENTITY PrimaryEmail.accesskey         "E">
-<!ENTITY SecondEmail.label              "E-mail adicional:">
+<!ENTITY SecondEmail.label              "Email adicional:">
 <!ENTITY SecondEmail.accesskey          "i">
 <!ENTITY PreferMailFormat.label         "Preferir receber mensagens formatadas como:">
 <!ENTITY PreferMailFormat.accesskey     "v">
-<!ENTITY PlainText.label                "Texto pleno">
+<!ENTITY PlainText.label                "Texto simples">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Desconhecido">
 <!ENTITY chatName.label                 "Nome do chat:">
