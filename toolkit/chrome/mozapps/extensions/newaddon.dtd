@@ -7,7 +7,7 @@
 <!ENTITY warning         "Gosodwch ychwanegion gan awduron rydych yn ymddiried ynddynt.">
 <!ENTITY allow           "Caniatáu'r gosodiad">
 <!ENTITY later           "Mae modd newid eich meddwl drwy fynd i'r Rheolwr Ychwanegion.">
-<!ENTITY continue        "Parhau">
+<!ENTITY continue        "Ymlaen">
 <!ENTITY restartMessage  "Rhaid ail gychwyn &brandShortName; i orffen gosod yr ychwanegyn.">
 <!ENTITY restartButton   "Ailgychwyn &brandShortName;">
 <!ENTITY cancelButton    "Diddymu">

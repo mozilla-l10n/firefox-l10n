@@ -4,7 +4,7 @@
 
 <!ENTITY  button-back-mac.label        "Mynd Nôl">
 <!ENTITY  button-back-mac.accesskey    "N">
-<!ENTITY  button-next-mac.label        "Parhau">
+<!ENTITY  button-next-mac.label        "Ymlaen">
 <!ENTITY  button-next-mac.accesskey    "P">
 <!ENTITY  button-finish-mac.label      "Gorffen">
 <!ENTITY  button-cancel-mac.label      "Diddymu">
