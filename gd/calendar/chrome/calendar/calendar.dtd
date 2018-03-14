@@ -172,12 +172,49 @@
 <!ENTITY calendar.context.copyevent.accesskey         "c">
 <!ENTITY calendar.context.pasteevent.label            "Cuir ann">
 <!ENTITY calendar.context.pasteevent.accesskey        "C">
-<!ENTITY calendar.context.button.label                "Leòsan an latha" >
-<!ENTITY calendar.context.button.accesskey            "t" >
-<!ENTITY calendar.context.attendance.menu.label       "Làthaireachd" >
-<!ENTITY calendar.context.attendance.menu.accesskey   "d" >
-<!ENTITY calendar.context.attendance.occurrence.label "An teachd seo" >
+<!ENTITY calendar.context.button.label                "Leòsan an latha">
+<!ENTITY calendar.context.button.accesskey            "t">
+
+<!ENTITY calendar.context.attendance.menu.label                 "Làthaireachd">
+<!ENTITY calendar.context.attendance.menu.accesskey             "d">
+<!ENTITY calendar.context.attendance.occurrence.label           "An teachd seo">
 <!ENTITY calendar.context.attendance.all.label        "Gach teachd" >
+
+<!ENTITY calendar.context.attendance.all2.label                 "Sreath slàn">
+<!ENTITY calendar.context.attendance.send.label                 "Cuir brath an-dràsta">
+<!ENTITY calendar.context.attendance.send.accesskey             "S">
+<!ENTITY calendar.context.attendance.dontsend.label             "Na cuir brath">
+<!ENTITY calendar.context.attendance.dontsend.accesskey         "D">
+
+<!ENTITY calendar.context.attendance.occ.accepted.accesskey     "A">
+<!ENTITY calendar.context.attendance.occ.accepted.label         "Air gabhail ris">
+<!ENTITY calendar.context.attendance.occ.tentative.accesskey    "y">
+<!ENTITY calendar.context.attendance.occ.tentative.label        "Air gabhail ris gun chinnt">
+<!ENTITY calendar.context.attendance.occ.declined.accesskey     "c">
+<!ENTITY calendar.context.attendance.occ.declined.label         "Air a dhiùltadh">
+<!ENTITY calendar.context.attendance.occ.delegated.accesskey    "g">
+<!ENTITY calendar.context.attendance.occ.delegated.label        "Air a thiomnachadh">
+<!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "S">
+<!ENTITY calendar.context.attendance.occ.needsaction.label      "Feum air gnìomh fhathast">
+<!ENTITY calendar.context.attendance.occ.inprogress.accesskey   "I">
+<!ENTITY calendar.context.attendance.occ.inprogress.label       "’Ga phròiseasadh">
+<!ENTITY calendar.context.attendance.occ.completed.accesskey    "C">
+<!ENTITY calendar.context.attendance.occ.completed.label        "Air a choileanadh">
+
+<!ENTITY calendar.context.attendance.all.accepted.accesskey     "e">
+<!ENTITY calendar.context.attendance.all.accepted.label         "Air gabhail ris">
+<!ENTITY calendar.context.attendance.all.tentative.accesskey    "v">
+<!ENTITY calendar.context.attendance.all.tentative.label        "Air gabhail ris gun chinnt">
+<!ENTITY calendar.context.attendance.all.declined.accesskey     "d">
+<!ENTITY calendar.context.attendance.all.declined.label         "Air a dhiùltadh">
+<!ENTITY calendar.context.attendance.all.delegated.accesskey    "l">
+<!ENTITY calendar.context.attendance.all.delegated.label        "Air a thiomnachadh">
+<!ENTITY calendar.context.attendance.all.needsaction.accesskey  "l">
+<!ENTITY calendar.context.attendance.all.needsaction.label      "Feum air gnìomh fhathast">
+<!ENTITY calendar.context.attendance.all.inprogress.accesskey   "p">
+<!ENTITY calendar.context.attendance.all.inprogress.label       "’Ga phròiseasadh">
+<!ENTITY calendar.context.attendance.all.completed.accesskey    "m">
+<!ENTITY calendar.context.attendance.all.completed.label        "Air a choileanadh">
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Adhartas">
