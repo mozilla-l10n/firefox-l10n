@@ -131,7 +131,7 @@ containers-disable-alert-title = Chiudere tutte le schede contenitore?
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Disattivando questa funzione verrà chiusa { $tabCount } scheda contenitore. Continuare?
-       *[other]  Disattivando questa funzione verranno chiuse { $tabCount } schede contenitore. Continuare?
+       *[other] Disattivando questa funzione verranno chiuse { $tabCount } schede contenitore. Continuare?
     }
 containers-disable-alert-ok-button =
     { $tabCount ->
