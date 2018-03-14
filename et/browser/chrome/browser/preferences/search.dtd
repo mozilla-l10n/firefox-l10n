@@ -7,6 +7,13 @@
 <!ENTITY searchBar.hidden.label                "Aadressiriba kasutatakse otsimiseks ja navigeerimiseks">
 <!ENTITY searchBar.shown.label                 "Kasutatakse eraldi otsinguriba">
 
+<!-- LOCALIZATION NOTE (showSearchSuggestionsAboveHistory.label): This string
+     describes what the user will observe when the system prioritizes search
+     suggestions over browsing history in the results that extend down from the
+     address bar. In the original English string, "ahead" refers to location
+     (appearing most proximate to), not time (appearing before). -->
+<!ENTITY showSearchSuggestionsAboveHistory.label "Aadressiriba tulemustes kuvatakse otsingusoovitusi enne lehitsemise ajalugu">
+
 <!ENTITY defaultSearchEngine.label             "Vaikeotsingumootor">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Vali vaikeotsingumootor, mida kasutatakse aadressi- ja otsinguribal.">
