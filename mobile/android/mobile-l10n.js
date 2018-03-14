@@ -4,4 +4,3 @@
 
 #filter substitution
 
-pref("general.useragent.locale", "sl");
