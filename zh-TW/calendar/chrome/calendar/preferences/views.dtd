@@ -37,4 +37,5 @@
 <!ENTITY pref.numberofweeks.4 "4 週">
 <!ENTITY pref.numberofweeks.5 "5 週">
 <!ENTITY pref.numberofweeks.6 "6 週">
+<!ENTITY pref.showlocation.label "顯示地點">
 <!ENTITY pref.showlocation.accesskey "L">

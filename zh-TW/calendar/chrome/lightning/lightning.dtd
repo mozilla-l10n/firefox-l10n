@@ -42,7 +42,6 @@
      These strings are used in the calendar wizard and the calendar properties dialog, but are only
      displayed when setting/using a caldav calendar -->
 <!ENTITY lightning.calendarproperties.email.label                           "電子郵件:">
-
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.label            "偏好由客戶端郵件進行排程">
 <!-- LOCALIZATON NOTE(lightning.calendarproperties.forceEmailScheduling.tooltiptext1,
      lightning.calendarproperties.forceEmailScheduling.tooltiptext2)
@@ -83,6 +82,13 @@
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "更新">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "更新行事曆中的活動">
 <!ENTITY lightning.imipbar.description                                      "此郵件包含事件的邀請。">
+
+<!ENTITY lightning.imipbar.btnSend.label                                    "立刻傳送回覆">
+<!ENTITY lightning.imipbar.btnSend.tooltiptext                              "立刻傳送回覆給主辦人">
+<!ENTITY lightning.imipbar.btnSendSeries.tooltiptext                        "立刻傳送整個系列的回覆給主辦人">
+<!ENTITY lightning.imipbar.btnDontSend.label                                "不要傳送回覆">
+<!ENTITY lightning.imipbar.btnDontSend.tooltiptext                          "變更您的參與狀態，而不傳送回覆給主辦人">
+<!ENTITY lightning.imipbar.btnDontSendSeries.tooltiptext                    "變更您整個系列活動的參與狀態，而不傳送回覆給主辦人">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
