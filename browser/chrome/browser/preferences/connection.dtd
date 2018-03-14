@@ -8,6 +8,8 @@
 <!ENTITY  window.macWidth2              "44em">
 
 <!ENTITY  proxyTitle.label              "இணையத்தை அணுக ப்ராக்ஸிகளை கட்டமைக்கவும்">
+
+<!ENTITY  proxyTitle.label2             "இணையத்தை அணுக பதிலாளை கட்டமைக்கவும்">
 <!ENTITY  noProxyTypeRadio.label        "பதிலாள் இல்லை">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "கணினி பதிலாள் அமைவுகளை பயன்படுத்துக">
