@@ -398,6 +398,7 @@
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "常规">
 <!ENTITY read.only.title.label           "标题：">
+<!ENTITY read.only.calendar.label        "日历：">
 <!ENTITY read.only.event.start.label     "开始日期：">
 <!ENTITY read.only.task.start.label      "开始日期：">
 <!ENTITY read.only.event.end.label       "截止日期：">
@@ -416,3 +417,8 @@
 <!ENTITY read.only.attendees.label       "参与者">
 <!ENTITY read.only.description.label     "描述">
 <!ENTITY read.only.link.label            "相关链接">
+
+<!-- Summary dialog -->
+<!ENTITY summary.dialog.saveclose.label         "保存并关闭">
+<!ENTITY summary.dialog.decline.label           "拒绝">
+<!ENTITY summary.dialog.dontsend.label          "不要发送回复">
