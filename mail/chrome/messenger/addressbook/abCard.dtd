@@ -154,3 +154,4 @@
 <!ENTITY PhotoURL.placeholder           "Plak of typ het internetadres van een foto">
 <!ENTITY UpdatePhoto.label              "Bijwerken">
 <!ENTITY UpdatePhoto.accesskey          "B">
+<!ENTITY PhotoDropTarget.label          "Sleep een nieuwe foto hiernaartoe">
