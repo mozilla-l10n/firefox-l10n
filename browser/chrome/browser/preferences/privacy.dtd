@@ -44,8 +44,14 @@
 <!ENTITY  acceptThirdParty2.pre.label     "Accepta galetes de tercers">
 <!ENTITY  acceptThirdParty2.pre.accesskey "c">
 
+<!ENTITY  acceptCookies4.label          "Accepta les galetes i dades dels llocs web (recomanat)">
+<!ENTITY  acceptCookies4.accesskey      "A">
 
+<!ENTITY  blockCookies.label            "Bloca les galetes i dades dels llocs (pot fer que alguns llocs web no funcionin)">
+<!ENTITY  blockCookies.accesskey        "B">
 
+<!ENTITY  acceptThirdParty3.pre.label     "Accepta les galetes i dades dels llocs de tercers">
+<!ENTITY  acceptThirdParty3.pre.accesskey "t">
 <!ENTITY  acceptThirdParty.always.label   "Sempre">
 <!ENTITY  acceptThirdParty.never.label    "Mai">
 <!ENTITY  acceptThirdParty.visited.label  "De llocs visitats">
