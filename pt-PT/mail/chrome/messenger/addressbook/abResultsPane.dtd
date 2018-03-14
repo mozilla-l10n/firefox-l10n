@@ -1,0 +1,34 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY Addrbook.label                        "Livro de endereços">
+<!ENTITY Addrbook.accesskey                    "B">
+<!ENTITY GeneratedName.label                   "Nome">
+<!ENTITY GeneratedName.accesskey               "N">
+<!ENTITY PrimaryEmail.label                    "E-mail">
+<!ENTITY PrimaryEmail.accesskey                "E">
+<!ENTITY Company.label                         "Organização">
+<!ENTITY Company.accesskey                     "z">
+<!ENTITY _PhoneticName.label                   "Nome fonético">
+<!ENTITY _PhoneticName.accesskey               "o">
+<!ENTITY NickName.label                        "Nome de utilizador">
+<!ENTITY NickName.accesskey                    "i">
+<!ENTITY SecondEmail.label                     "E-mail adicional">
+<!ENTITY SecondEmail.accesskey                 "I">
+<!ENTITY Department.label                      "Departamento">
+<!ENTITY Department.accesskey                  "r">
+<!ENTITY JobTitle.label                        "Título">
+<!ENTITY JobTitle.accesskey                    "T">
+<!ENTITY CellularNumber.label                  "Telemóvel">
+<!ENTITY CellularNumber.accesskey              "M">
+<!ENTITY PagerNumber.label                     "Pager">
+<!ENTITY PagerNumber.accesskey                 "P">
+<!ENTITY FaxNumber.label                       "Fax">
+<!ENTITY FaxNumber.accesskey                   "F">
+<!ENTITY HomePhone.label                       "Telefone de casa">
+<!ENTITY HomePhone.accesskey                   "H">
+<!ENTITY WorkPhone.label                       "Telefone do trabalho">
+<!ENTITY WorkPhone.accesskey                   "W">
+<!ENTITY ChatName.label                        "Nome do chat">
+<!ENTITY ChatName.accesskey                    "C">
