@@ -88,6 +88,17 @@
 <!ENTITY reorderAttachmentsCmd.label "Susun semula Lampiran…">
 <!ENTITY reorderAttachmentsCmd.accesskey "s">
 <!ENTITY reorderAttachmentsCmd.key "x">
+<!ENTITY toggleAttachmentPaneCmd.label "Anak Tetingkap Lampiran">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
+     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
+     as attachments.accesskey. -->
+<!ENTITY toggleAttachmentPaneCmd.accesskey "m">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
+     With OS-specific access modifier, this defines the shortcut key for showing/
+     hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
+     toggleAttachmentPaneCmd.key and attachments.accesskey must be the same
+     for the bucket view state machinery to work. -->
+<!ENTITY toggleAttachmentPaneCmd.key "m">
 <!ENTITY selectAllCmd.label "Pilih Semua">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
@@ -109,26 +120,10 @@
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Susun semula Lampiran">
 <!ENTITY moveAttachmentTopPanelBtn.label "Pindah ke Atas">
-<!ENTITY moveAttachmentTopPanelBtn.accesskey "A">
 <!ENTITY moveAttachmentUpPanelBtn.label "Pindah Atas">
-<!ENTITY moveAttachmentUpPanelBtn.accesskey "P">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Pindah bersama">
-<!ENTITY moveAttachmentBundleUpPanelBtn.accesskey "b">
 <!ENTITY moveAttachmentDownPanelBtn.label "Pindah Bawah">
-<!ENTITY moveAttachmentDownPanelBtn.accesskey "B">
 <!ENTITY moveAttachmentBottomPanelBtn.label "Pindah ke Bawah">
-<!ENTITY moveAttachmentBottomPanelBtn.accesskey "P">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.label):
-     Please ensure that this translation matches
-     sortAttachmentsTogglePanelBtn.ZA.label, except for the sort direction. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.label "Susun Pilihan: A - Z">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.accesskey):
-     This accesskey should be the same like
-     sortAttachmentsTogglePanelBtn.ZA.accesskey, and it should be taken from
-     the "Sort Selection:" part of the label, not from the sort direction part. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.accesskey "s">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.label "Susun Pilihan: Z - A">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.accesskey "s">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -253,6 +248,7 @@
 <!ENTITY quoteButton.tooltip "Petik mesej terdahulu">
 <!ENTITY addressButton.tooltip "Pilih penerima dalam Buku Alamat">
 <!ENTITY attachButton.tooltip "Sertakan lampiran">
+<!ENTITY attachButton.tooltip2 "Tambah lampiran">
 <!ENTITY spellingButton.tooltip "Semak ejaan pilihan atau seluruh mesej">
 <!ENTITY saveButton.tooltip "Simpan mesej ini">
 <!ENTITY cutButton.tooltip              "Potong">
@@ -274,9 +270,14 @@
 <!ENTITY followupAddr.label "Susulan-Kepada:">
 <!ENTITY subject.label "Subjek:">
 <!ENTITY subject.accesskey "S">
-<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
-     to the strings in attachmentCount in composeMsgs.properties -->
+<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
+     be taken from the strings in attachmentCount in composeMsgs.properties,
+     and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
+     work, as the shortcut key functionality supersedes the access key. -->
 <!ENTITY attachments.accesskey "m">
+
+<!ENTITY attachmentBucketHeader.tooltip "Anak Tetingkap Lampiran">
+<!ENTITY attachmentBucketCloseButton.tooltip "Sorok anak tetingkap lampiran">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Sisip wajah senyuman">
@@ -314,6 +315,7 @@
 <!ENTITY pasteQuote.label "Tampal Sebagai Petikan">
 <!ENTITY pasteQuote.accesskey "P">
 
+<!-- Attachment Item and List Context Menus -->
 <!ENTITY openAttachment.label "Buka">
 <!ENTITY openAttachment.accesskey "B">
 <!ENTITY delete.label "Buang">
@@ -324,6 +326,8 @@
 <!ENTITY renameAttachment.accesskey "S">
 <!ENTITY reorderAttachments.label "Susun semula Lampiran…">
 <!ENTITY reorderAttachments.accesskey "s">
+<!ENTITY removeAllAttachments.label "Buang Semua Lampiran">
+<!ENTITY removeAllAttachments.accesskey "g">
 <!ENTITY selectAll.label "Pilih Semua">
 <!ENTITY selectAll.accesskey "S">
 <!ENTITY attachFile.label "Lampirkan Fail…">
