@@ -172,12 +172,49 @@
 <!ENTITY calendar.context.copyevent.accesskey         "C">
 <!ENTITY calendar.context.pasteevent.label            "粘贴">
 <!ENTITY calendar.context.pasteevent.accesskey        "P">
-<!ENTITY calendar.context.button.label                "今日面板" >
-<!ENTITY calendar.context.button.accesskey            "T" >
-<!ENTITY calendar.context.attendance.menu.label       "出席者" >
-<!ENTITY calendar.context.attendance.menu.accesskey   "d" >
-<!ENTITY calendar.context.attendance.occurrence.label "此事件" >
+<!ENTITY calendar.context.button.label                "今日面板">
+<!ENTITY calendar.context.button.accesskey            "T">
+
+<!ENTITY calendar.context.attendance.menu.label                 "出席者">
+<!ENTITY calendar.context.attendance.menu.accesskey             "d">
+<!ENTITY calendar.context.attendance.occurrence.label           "此事件">
 <!ENTITY calendar.context.attendance.all.label        "全部事件" >
+
+<!ENTITY calendar.context.attendance.all2.label                 "完整系列">
+<!ENTITY calendar.context.attendance.send.label                 "立刻发送通知">
+<!ENTITY calendar.context.attendance.send.accesskey             "S">
+<!ENTITY calendar.context.attendance.dontsend.label             "不要发送通知">
+<!ENTITY calendar.context.attendance.dontsend.accesskey         "D">
+
+<!ENTITY calendar.context.attendance.occ.accepted.accesskey     "A">
+<!ENTITY calendar.context.attendance.occ.accepted.label         "已接受">
+<!ENTITY calendar.context.attendance.occ.tentative.accesskey    "y">
+<!ENTITY calendar.context.attendance.occ.tentative.label        "暂时接受">
+<!ENTITY calendar.context.attendance.occ.declined.accesskey     "c">
+<!ENTITY calendar.context.attendance.occ.declined.label         "已拒绝">
+<!ENTITY calendar.context.attendance.occ.delegated.accesskey    "g">
+<!ENTITY calendar.context.attendance.occ.delegated.label        "已指派">
+<!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "S">
+<!ENTITY calendar.context.attendance.occ.needsaction.label      "尚须处理">
+<!ENTITY calendar.context.attendance.occ.inprogress.accesskey   "I">
+<!ENTITY calendar.context.attendance.occ.inprogress.label       "进行中">
+<!ENTITY calendar.context.attendance.occ.completed.accesskey    "C">
+<!ENTITY calendar.context.attendance.occ.completed.label        "已完成">
+
+<!ENTITY calendar.context.attendance.all.accepted.accesskey     "e">
+<!ENTITY calendar.context.attendance.all.accepted.label         "已接受">
+<!ENTITY calendar.context.attendance.all.tentative.accesskey    "v">
+<!ENTITY calendar.context.attendance.all.tentative.label        "暂时接受">
+<!ENTITY calendar.context.attendance.all.declined.accesskey     "d">
+<!ENTITY calendar.context.attendance.all.declined.label         "已拒绝">
+<!ENTITY calendar.context.attendance.all.delegated.accesskey    "l">
+<!ENTITY calendar.context.attendance.all.delegated.label        "已指派">
+<!ENTITY calendar.context.attendance.all.needsaction.accesskey  "l">
+<!ENTITY calendar.context.attendance.all.needsaction.label      "尚须处理">
+<!ENTITY calendar.context.attendance.all.inprogress.accesskey   "p">
+<!ENTITY calendar.context.attendance.all.inprogress.label       "进行中">
+<!ENTITY calendar.context.attendance.all.completed.accesskey    "m">
+<!ENTITY calendar.context.attendance.all.completed.label        "已完成">
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "进度">

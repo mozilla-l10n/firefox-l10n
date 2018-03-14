@@ -42,7 +42,6 @@
      These strings are used in the calendar wizard and the calendar properties dialog, but are only
      displayed when setting/using a caldav calendar -->
 <!ENTITY lightning.calendarproperties.email.label                           "电子邮箱：">
-
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.label            "偏好由客户端安排定时发送邮件">
 <!-- LOCALIZATON NOTE(lightning.calendarproperties.forceEmailScheduling.tooltiptext1,
      lightning.calendarproperties.forceEmailScheduling.tooltiptext2)
@@ -83,6 +82,8 @@
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "更新">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "更新日历中的事件">
 <!ENTITY lightning.imipbar.description                                      "本信息包含一个事件的邀请。">
+
+<!ENTITY lightning.imipbar.btnSend.label                                    "立刻发送回复">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
