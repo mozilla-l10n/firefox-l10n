@@ -219,7 +219,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Dës Säit iwwersetzen">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Säitiwwersetzung geréieren">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Benotzen vun DRM Software verwalten">
 
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "MIDI Panneau opmaachen">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Du hues Deng Kamera fir dësen Internetsite gespaart.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Du hues Däi Mikro fir dësen Internetsite gespaart.">
