@@ -419,3 +419,10 @@
 <!ENTITY read.only.link.label            "相關鏈結">
 
 <!-- Summary dialog -->
+<!ENTITY summary.dialog.saveclose.label         "儲存並關閉">
+<!ENTITY summary.dialog.accept.label            "接受">
+<!ENTITY summary.dialog.accept.tooltiptext      "接受邀請">
+<!ENTITY summary.dialog.tentative.label         "暫定">
+<!ENTITY summary.dialog.tentative.tooltiptext   "暫時接受邀請">
+<!ENTITY summary.dialog.decline.label           "拒絕">
+<!ENTITY summary.dialog.decline.tooltiptext     "拒絕邀請">
