@@ -22,6 +22,11 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
+policies-notice =
+    { PLATFORM() ->
+        [windows] आपके संगठन ने कुछ विकल्पों को बदलने की क्षमता अक्षम कर दिया है.
+       *[other] आपके संगठन ने कुछ प्राथमिकताओं को बदलने की क्षमता अक्षम कर दिया है.
+    }
 pane-general-title = सामान्य
 category-general =
     .tooltiptext = { pane-general-title }

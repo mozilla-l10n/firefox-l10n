@@ -111,6 +111,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "पृष्ठ सूचना">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.label "लेआउट डीबगर">
 <!ENTITY ldbCmd.accesskey "L">
 <!ENTITY mirrorTabCmd.label "परछाई टैब">
 <!ENTITY mirrorTabCmd.accesskey "M">
@@ -127,6 +128,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "A">
 <!ENTITY toggleReaderMode.key "R">
 
+<!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; में साइन इन करें">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; वरीयताएँ खोलें">
@@ -229,6 +231,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "पृष्ठ अनुवाद प्रंबंधित करें">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM सॉफ्टवेयर का उपयोग प्रबंधित करे">
 
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "MIDI पैनल खोलें">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "आप इस वेबसाइट के लिए अपने कैमरा को अवरूद्ध किये हैं.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "आपने इस वेबसाइट के लिए अपने माइक्रोफ़ोन को अवरूद्ध किया है.">
@@ -239,6 +242,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.popupBlocked.tooltip             "आपने इस वेबसाइट पर पॉप-अप अवरुद्ध किए हैं.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "आपने इस वेबसाइट के लिए कैनवास डेटा निष्कर्षण को अवरोधित किया है.">
 
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "आपने Adobe Flash plugin का प्रयोग कर इस वेबसाइट को अवरुद्ध कर दिया है.">
+<!ENTITY urlbar.midiBlocked.tooltip              "आपने इस वेबसाइट के लिए MIDI उपयोग अवरुद्ध कर दिया है.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "इतिहास दिखाएँ">
 
@@ -385,6 +390,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "यहाँ अन्य डिवाइस से अपना टैब देखना चाहते हैं?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "प्राथमिकताएँ सिंक कीजिए">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "सिंक प्राथमिकतायें खोलें">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "टैब्स की सूची देखने के लिए अपने दुसरे उपकरणों से साइन इन करें.">
 <!ENTITY appMenuRemoteTabs.unverified.label "आपके खाते की पृष्टि करने की आवश्यकता है.">
 <!ENTITY appMenuRemoteTabs.signin.label "सिंक करने के लिए साइन इन करें">
@@ -976,11 +982,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName; अद्यतन करने के लिए पुन: प्रारंभ करें">
 
 <!ENTITY newTabControlled.message "किसी एक्सटेंशन ने वह पेज बदल दिया है जिसे आप नया टैब खोलते समय देखते हैं. यदि आप यह परिवर्तन नहीं चाहते हैं, तो आप अपनी सेटिंग पुनर्स्थापित कर सकते हैं.">
+
 <!ENTITY newTabControlled.header.message "आपका नया टैब बदल गया है.">
 <!ENTITY newTabControlled.keepButton.label "परिवर्तन रखें">
 <!ENTITY newTabControlled.keepButton.accesskey "K">
 <!ENTITY newTabControlled.restoreButton.label "सेटिंग्स पुनर्स्थापित करें">
 <!ENTITY newTabControlled.restoreButton.accesskey "R">
+
 
 <!ENTITY pageActionButton.tooltip "पृष्ठ क्रियाएँ">
 <!ENTITY pageAction.addToUrlbar.label "पतापट्टी में जोड़े">
