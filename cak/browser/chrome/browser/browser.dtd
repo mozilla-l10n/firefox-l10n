@@ -983,11 +983,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Titikirisäx chik richin nik'ex &brandShorterName;">
 
 <!ENTITY newTabControlled.message "Jun k'amal xujäl ri ruxaq natz'ët toq najäq jun K'ak'a' Ruwi'. Yatikïr natzolij ri taq anuk'ulem we man niqa ta chawäch re jaloj re'.">
+
 <!ENTITY newTabControlled.header.message "Xjal ri K'ak'a' Ruwi'.">
 <!ENTITY newTabControlled.keepButton.label "Kek'oje' na ri taq Jaloj">
 <!ENTITY newTabControlled.keepButton.accesskey "K">
 <!ENTITY newTabControlled.restoreButton.label "Ketzolïx ri taq Nuk'ulem">
 <!ENTITY newTabControlled.restoreButton.accesskey "K">
+
+<!ENTITY newTabControlled.disableButton.label "Tichup ri K'amal">
+<!ENTITY newTabControlled.disableButton.accesskey "T">
 
 <!ENTITY pageActionButton.tooltip "Taq rub'anoj ruxaq">
 <!ENTITY pageAction.addToUrlbar.label "Titz'aqatisäx ri Kikajtz'ik Ochochib'äl">
