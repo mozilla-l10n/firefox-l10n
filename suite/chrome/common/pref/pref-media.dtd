@@ -7,3 +7,5 @@
 <!-- LOCALIZATION NOTE : FILE Media management prefs -->
 <!ENTITY pref.media.title                  "Media">
 <!ENTITY mediaHTML5Preferences.label       "Ljud/Video">
+<!ENTITY allowMediaAutoplay.label          "Aktivera automatisk uppspelning av HTML5-innehåll">
+<!ENTITY allowMediaAutoplay.accesskey      "A">
