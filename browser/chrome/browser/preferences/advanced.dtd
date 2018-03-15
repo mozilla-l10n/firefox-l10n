@@ -58,11 +58,12 @@ available. -->
 <!ENTITY siteData.label                  "సైటు డేటా">
 <!ENTITY clearSiteData.label             "మొత్తం డేటాను క్లియర్ చేయి">
 <!ENTITY clearSiteData.accesskey         "l">
+<!ENTITY siteDataSettings.label          "అమరికలు…">
+<!ENTITY siteDataSettings.accesskey      "i">
 <!ENTITY siteData1.label                 "కుకీలు మరియు సైటు డేటా">
 <!ENTITY clearSiteData1.label            "డేటాను తుజిచివేయి…">
 <!ENTITY clearSiteData1.accesskey        "l">
-<!ENTITY siteDataSettings.label          "అమరికలు…">
-<!ENTITY siteDataSettings.accesskey      "i">
+<!ENTITY siteDataSettings1.label         "డేటాని నిర్వహించండి…">
 <!ENTITY siteDataSettings1.accesskey     "M">
 <!ENTITY siteDataLearnMoreLink.label     "మరింత తెలుసుకోండి">
 
