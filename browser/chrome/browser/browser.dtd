@@ -991,7 +991,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.restoreButton.accesskey "t">
 
 <!ENTITY newTabControlled.disableButton.label "Inaktivera tillägg">
-<!ENTITY newTabControlled.disableButton.accesskey "I">
+<!ENTITY newTabControlled.disableButton.accesskey "n">
 
 <!ENTITY pageActionButton.tooltip "Åtgärder för sida">
 <!ENTITY pageAction.addToUrlbar.label "Lägg till i adressfältet">
