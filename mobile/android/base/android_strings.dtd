@@ -422,7 +422,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "Informe de salú de &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "Comparte datos con &vendorShortName; tocante a la salú del to restolador y ayuda a pescanciar el so rindimientu">
-<!ENTITY datareporting_abouthr_title "Ver el mio informe de salú">
 <!ENTITY datareporting_telemetry_title "Telemetría">
 <!ENTITY datareporting_telemetry_summary "Comparte\&apos;l rindimientu, usu, hardware y personalización de datos tocante al to restolador con &vendorShortName; p\&apos;ameyorar &brandShortName;">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; unvia informes de casques p\&apos;ayudar a &vendorShortName; a facer más estable y seguru\&apos;l to restolador">
@@ -812,6 +811,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 <!ENTITY unsupported_sdk_version "¡Perdón! &brandShortName; nun funcionará nesti preséu (&formatS1;, &formatS2;). Baxa la versión correuta, por favor.">
+
+<!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
+<!ENTITY corrupt_apk "Nun pue abrise &brandShortName;. Volvi instalalu ya téntalo de nueves, por favor.">
 
 <!ENTITY eol_notification_title2 "&brandShortName; yá nun va anovase">
 <!ENTITY eol_notification_summary "Calca pa deprender más">
