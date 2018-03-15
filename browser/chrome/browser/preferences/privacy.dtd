@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Ochrana pred sledovaním">
-<!ENTITY  trackingProtection2.description      "Sledovanie je zhromažďovanie údajov o vašom prehliadaní na rôznych stránkach. Môže byť použité na vytvorenie profilu a zobrazovanie obsahu alebo reklám na základe vašich osobných údajov.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "Blokovať sledovacie prvky pomocou Ochrany pred sledovaním">
 <!ENTITY  trackingProtection3.description      "Ochrana pred sledovaním blokuje sledovacie prvky, ktoré o vás zbierajú údaje naprieč webovými stránkami.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "Blokovať známe sledovacie prvky pomocou Ochrany pred sledovaním">
 <!ENTITY  trackingProtectionAlways.label       "Vždy">
@@ -13,7 +11,6 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "L">
 <!ENTITY  trackingProtectionNever.label        "Nikdy">
 <!ENTITY  trackingProtectionNever.accesskey    "N">
-<!ENTITY  trackingProtectionLearnMore.label    "Ďalšie informácie">
 <!ENTITY  trackingProtectionLearnMore2.label    "Ďalšie informácie o Ochrane pred sledovaním a o vašom súkromí">
 <!ENTITY  trackingProtectionExceptions.label   "Výnimky…">
 <!ENTITY  trackingProtectionExceptions.accesskey "m">
@@ -24,11 +21,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "Ďalšie informácie">
 <!ENTITY changeBlockList2.label               "Zmeniť zoznam blokovania…">
 <!ENTITY changeBlockList2.accesskey           "Z">
-
-<!ENTITY  doNotTrack.description        "Požiadať webové stránky pomocou signálu “Do Not Track”, aby vás nesledovali">
-<!ENTITY  doNotTrack.learnMore.label    "Ďalšie informácie">
-<!ENTITY  doNotTrack.default.label      "Len pri použití Ochrany pred sledovaním">
-<!ENTITY  doNotTrack.always.label       "Vždy">
 
 <!ENTITY  history.label                 "História">
 <!ENTITY  permissions.label             "Povolenia">
@@ -52,8 +44,8 @@
 <!ENTITY  acceptThirdParty2.pre.label     "Povoliť cookies tretích strán">
 <!ENTITY  acceptThirdParty2.pre.accesskey "k">
 
-<!ENTITY  acceptCookies3.label          "Povoliť stránkam ukladať cookies a údaje stránok">
-<!ENTITY  acceptCookies3.accesskey      "P">
+<!ENTITY  acceptCookies4.label          "Povoliť stránkam ukladať cookies a údaje stránok (odporúčané)">
+<!ENTITY  acceptCookies4.accesskey      "a">
 
 <!ENTITY  blockCookies.label            "Blokovať ukladanie cookies a údajov stránok (stránky nemusia správne fungovať)">
 <!ENTITY  blockCookies.accesskey        "B">
@@ -93,6 +85,8 @@
 <!ENTITY  rememberActions.middle.label        ", alebo ">
 <!ENTITY  rememberActions.removeCookies.label "odstrániť jednotlivé súbory cookies">
 <!ENTITY  rememberActions.post.label          ".">
+
+<!ENTITY  rememberDescription1.label      "&brandShortName; si bude pamätať históriu vášho prehliadania, preberania, formulárov a vyhľadávania.">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; použije totožné nastavenia s režimom Súkromné prehliadanie a nebude si pamätať žiadnu históriu prehliadania webu.">
 
