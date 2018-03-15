@@ -20,3 +20,32 @@
 
 <!ENTITY finishpage.shortdescription  "Kalendar Dicipta" >
 <!ENTITY finishpage.longdescription   "Kalendar anda sudah dicipta." >
+
+<!-- Below are new strings for the revised new calendar dialog. The above strings should be
+    removed/renamed later on -->
+
+<!ENTITY sourcetabs.other.label  "Lain-lain">
+
+<!ENTITY buttons.create.label "Cipta Kalendar">
+<!ENTITY buttons.create.accesskey "r">
+
+<!ENTITY buttons.find.label "Cari Kalendar">
+<!ENTITY buttons.find.accesskey "C">
+
+<!ENTITY buttons.back.label "Undur">
+<!ENTITY buttons.back.accesskey "U">
+
+<!ENTITY buttons.subscribe.label "Langgan">
+<!ENTITY buttons.subscribe.accesskey "L">
+
+<!ENTITY calendartype.label "Jenis Kalendar:">
+<!ENTITY location.label "Lokasi:">
+<!ENTITY location.placeholder "Nama URL atau hos pelayan kalendar">
+
+<!ENTITY network.nocredentials.label "Lokasi ini tidak perlukan kelayakan">
+<!ENTITY network.loading.description "Sila tunggu sementara kalendar anda akan ditemukan.">
+<!ENTITY network.notfound.description "Tidak dapat mencari kalendar di lokasi ini. Sila semak tetapan anda.">
+<!ENTITY network.authfail.description "Kelayakan yang anda masukkan tidak diterima. Sila semak tetapan anda.">
+
+<!ENTITY network.subscribe.single.description "Sila pilih kalendar yang anda mahu langgan.">
+<!ENTITY network.subscribe.multiple.description "Pelbagai jenis kalendar ada disediakan di lokasi ini. Sila pilih jenis kalendar, kemudian tandakan kalendar yang anda mahu langgan.">
