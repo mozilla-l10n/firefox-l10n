@@ -48,13 +48,24 @@ separate-profile-mode =
     .label = Permitir a { -brand-short-name } e Firefox executarse ao mesmo tempo
 use-firefox-sync = Consello: Isto usa perfiles separados. Use { -sync-brand-short-name } para compartir datos entre eles.
 get-started-not-logged-in = Identifíquese no { -sync-brand-short-name }…
+get-started-configured = Abrir as preferencias do { -sync-brand-short-name }
 always-check-default =
     .label = Comprobar sempre se { -brand-short-name } é o seu navegador predeterminado
     .accesskey = o
 is-default = { -brand-short-name } xa é o navegador predeterminado
 is-not-default = { -brand-short-name } non é o navegador predeterminado
+set-as-my-default-browser =
+    .label = Estabelecer como predeterminado...
+    .accesskey = D
+startup-page = Cando { -brand-short-name } se inicia
+    .accesskey = s
+startup-user-homepage =
+    .label = Amosar a súa páxina de inicio
 startup-blank-page =
     .label = Amosar unha páxina en branco
+startup-prev-session =
+    .label = Amosar as súas xanelas e lapelas da última vez
+home-page-header = Páxina de inicio
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -143,9 +154,14 @@ browsing-use-smooth-scrolling =
 browsing-use-cursor-navigation =
     .label = Utilizar sempre as teclas de desprazamento para navegar nas páxinas
     .accesskey = c
+browsing-search-on-start-typing =
+    .label = Buscar o texto ao comezar a escribir
+    .accesskey = x
 
 ## General Section - Proxy
 
+network-proxy-title = Proxy de rede
+network-proxy-connection-learn-more = Obter máis información
 network-proxy-connection-settings =
     .label = Configuración…
     .accesskey = C
