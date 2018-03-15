@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+do-not-track-learn-more = Máis información
+do-not-track-option-always =
+    .label = Sempre
 pref-page =
     .title =
         { PLATFORM() ->
@@ -11,12 +14,17 @@ pref-page =
 pane-general-title = Xeral
 category-general =
     .tooltiptext = { pane-general-title }
+pane-search-title = Buscar
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title = Privacidade e seguranza
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+# The word "account" can be translated, do not translate or transliterate "Firefox".
+pane-sync-title = Conta Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
+help-button-label = Asistencia do { -brand-short-name }
 focus-search =
     .key = f
 close-button =
@@ -27,6 +35,9 @@ close-button =
 feature-enable-requires-restart = Debe reiniciar o { -brand-short-name } para activar esta característica.
 feature-disable-requires-restart = Debe reiniciar o { -brand-short-name } para desactivar esta característica.
 should-restart-title = Reiniciar o { -brand-short-name }
+should-restart-ok = Reiniciar o { -brand-short-name } agora
+cancel-no-restart-button = Cancelar
+restart-later = Reiniciar máis tarde
 
 ## General Section
 
@@ -36,6 +47,7 @@ startup-header = Inicio
 separate-profile-mode =
     .label = Permitir a { -brand-short-name } e Firefox executarse ao mesmo tempo
 use-firefox-sync = Consello: Isto usa perfiles separados. Use { -sync-brand-short-name } para compartir datos entre eles.
+get-started-not-logged-in = Identifíquese no { -sync-brand-short-name }…
 always-check-default =
     .label = Comprobar sempre se { -brand-short-name } é o seu navegador predeterminado
     .accesskey = o
