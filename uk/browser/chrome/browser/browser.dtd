@@ -983,11 +983,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Перезапуск для оновлення &brandShorterName;">
 
 <!ENTITY newTabControlled.message "Розширення змінило сторінку, яку ви бачите, коли ви відкрили нову вкладку. Якщо ви не хочете цих змін, ви можете відновити налаштування.">
+
 <!ENTITY newTabControlled.header.message "Ваша нова вкладка була змінена.">
 <!ENTITY newTabControlled.keepButton.label "Зберегти зміни">
 <!ENTITY newTabControlled.keepButton.accesskey "б">
 <!ENTITY newTabControlled.restoreButton.label "Відновити налаштування">
 <!ENTITY newTabControlled.restoreButton.accesskey "н">
+
+<!ENTITY newTabControlled.disableButton.label "Вимкнути розширення">
 
 <!ENTITY pageActionButton.tooltip "Дії сторінки">
 <!ENTITY pageAction.addToUrlbar.label "Додати до панелі адреси">
