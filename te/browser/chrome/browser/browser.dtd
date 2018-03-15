@@ -110,6 +110,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "పేజీ సమాచారం">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.label "లేఅవుట్ డీబగ్గర్">
 <!ENTITY ldbCmd.accesskey "L">
 <!ENTITY mirrorTabCmd.label "మిర్రర్ ట్యాబ్">
 <!ENTITY mirrorTabCmd.accesskey "M">
@@ -212,6 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "సందేశపు ప్యానెలును తెరువు">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "స్థాన అభ్యర్థన ప్యానెలును తెరువు">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "యాడ్-ఆన్ స్థాపన సందేశపు ప్యానెలు తెరువు">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "కాన్వాస్ వెలికితీత అనుమతిని నిర్వహించండి">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "ఆఫ్‌లైన్ నిల్వ సందేశ ప్యానెలును తెరువు">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "పాస్‌వర్డ్ భద్రపరచు సందేశపు ప్యానెలును తెరువు">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "ప్లగ్-ఇన్ వాడకాన్ని నిర్వహించండి">
@@ -236,6 +238,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "మీ స్థాన సమాచారాన్ని వాడకుండా ఈ వెబ్‌సైటుని నిరోధించారు.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "నోటిఫికేషన్లు చూపించకుండా ఈ వెబ్‌సైటుని నిరోధించారు.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "మీరు ఈ వెబ్సైట్ కోసం నిరంతర నిల్వ నిరోధించారు.">
+<!ENTITY urlbar.popupBlocked.tooltip             "మీరు ఈ వెబ్‌సైటు యొక్క పాప్-అప్లను నిరోధించారు.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "ఈ వెబ్‌సైటుని కాన్వాస్ డేటా వెలికితీయకుండా మీరు నిరోధించారు.">
 
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "అడోబి ఫ్లాష్ చొప్పింతను వాడనీయకుండా ఈ వెబ్‌సైటును మీరు నిరోధించారు.">
