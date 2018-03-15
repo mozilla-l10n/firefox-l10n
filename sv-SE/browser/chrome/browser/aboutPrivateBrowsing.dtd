@@ -4,6 +4,7 @@
 
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.title):
      Please ensure this exactly matches tabs.emptyPrivateTabTitle in tabbrowser.properties -->
+<!ENTITY aboutPrivateBrowsing.title                      "Privat surfning">
 <!ENTITY aboutPrivateBrowsing.notPrivate.title           "Öppna ett privat fönster?">
 
 <!ENTITY aboutPrivateBrowsing.notPrivate                 "Du är nu inte i ett privat fönster.">
