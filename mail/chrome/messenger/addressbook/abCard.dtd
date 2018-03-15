@@ -86,8 +86,8 @@
 <!ENTITY Work.accesskey                 "M">
 <!ENTITY JobTitle.label                 "Beosztás:">
 <!ENTITY JobTitle.accesskey             "e">
-<!ENTITY Department.label               "Osztály:">
-<!ENTITY Department.accesskey           "O">
+<!ENTITY Department.label               "Részleg:">
+<!ENTITY Department.accesskey           "R">
 <!ENTITY Company.label                  "Szervezet:">
 <!ENTITY Company.accesskey              "z">
 <!ENTITY WorkAddress.label              "Cím:">
@@ -95,6 +95,63 @@
 <!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label                 "Város:">
+<!ENTITY WorkCity.accesskey             "V">
+<!ENTITY WorkState.label                "Állam/tartomány:">
+<!ENTITY WorkState.accesskey            "t">
+<!ENTITY WorkZipCode.label              "Irányítószám:">
+<!ENTITY WorkZipCode.accesskey          "I">
+<!ENTITY WorkCountry.label              "Ország:">
+<!ENTITY WorkCountry.accesskey          "g">
+<!ENTITY WorkWebPage.label              "Weboldal:">
+<!ENTITY WorkWebPage.accesskey          "W">
 
+<!ENTITY Other.tab                      "Egyéb">
+<!ENTITY Other.accesskey                "E">
+<!ENTITY Custom1.label                  "1. egyéni:">
+<!ENTITY Custom1.accesskey              "1">
+<!ENTITY Custom2.label                  "2. egyéni:">
+<!ENTITY Custom2.accesskey              "2">
+<!ENTITY Custom3.label                  "3. egyéni:">
+<!ENTITY Custom3.accesskey              "3">
+<!ENTITY Custom4.label                  "4. egyéni:">
+<!ENTITY Custom4.accesskey              "4">
+<!ENTITY Notes.label                    "Megjegyzések:">
+<!ENTITY Notes.accesskey                "j">
 
+<!ENTITY Chat.tab                       "Csevegés">
+<!ENTITY Chat.accesskey                 "e">
+<!ENTITY Gtalk.label                    "Google Talk:">
+<!ENTITY Gtalk.accesskey                "G">
+<!ENTITY AIM.label                      "AIM:">
+<!ENTITY AIM2.accesskey                 "M">
+<!ENTITY Yahoo.label                    "Yahoo!:">
+<!ENTITY Yahoo.accesskey                "Y">
+<!ENTITY Skype.label                    "Skype:">
+<!ENTITY Skype.accesskey                "S">
+<!ENTITY QQ.label                       "QQ:">
+<!ENTITY QQ.accesskey                   "Q">
+<!ENTITY MSN.label                      "MSN:">
+<!ENTITY MSN2.accesskey                 "N">
+<!ENTITY ICQ.label                      "ICQ:">
+<!ENTITY ICQ.accesskey                  "I">
+<!ENTITY XMPP.label                     "Jabber-azonosító:">
+<!ENTITY XMPP.accesskey                 "J">
+<!ENTITY IRC.label                      "IRC becenév:">
+<!ENTITY IRC.accesskey                  "R">
 
+<!ENTITY Photo.tab                      "Fénykép">
+<!ENTITY Photo.accesskey                "p">
+<!ENTITY PhotoDesc.label                "Válasszon a következők közül:">
+<!ENTITY GenericPhoto.label             "Általános fénykép">
+<!ENTITY GenericPhoto.accesskey         "l">
+<!ENTITY DefaultPhoto.label             "Alapértelmezett">
+<!ENTITY PhotoFile.label                "Ezen a számítógépen">
+<!ENTITY PhotoFile.accesskey            "n">
+<!ENTITY BrowsePhoto.label              "Tallózás">
+<!ENTITY BrowsePhoto.accesskey          "T">
+<!ENTITY PhotoURL.label                 "A weben">
+<!ENTITY PhotoURL.accesskey             "b">
+<!ENTITY PhotoURL.placeholder           "Illessze be vagy írja be a fénykép webcímét">
+<!ENTITY UpdatePhoto.label              "Frissítés">
+<!ENTITY UpdatePhoto.accesskey          "F">
+<!ENTITY PhotoDropTarget.label          "Húzzon új fényképet ide">
