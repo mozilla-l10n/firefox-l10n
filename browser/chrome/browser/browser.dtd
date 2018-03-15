@@ -110,6 +110,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "Πληροφορίες σελίδας">
 <!ENTITY pageInfoCmd.accesskey "λ">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.accesskey "Δ">
 <!ENTITY mirrorTabCmd.label "Άνοιγμα ίδιας καρτέλας">
 <!ENTITY mirrorTabCmd.accesskey "γ">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -124,6 +125,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Προβολή όλων των καρτελών">
 <!ENTITY showAllTabsCmd.accesskey "λ">
 <!ENTITY toggleReaderMode.key "R">
+
+<!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "Σύνδεση στο &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Άνοιγμα προτιμήσεων του &syncBrand.shortName.label;">
@@ -224,6 +227,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Μετάφραση σελίδας">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Διαχείριση μετάφρασης σελίδας">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Διαχείριση χρήσης λογισμικού DRM">
+
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Έχετε αποκλείσει την κάμερά σας για τον ιστοτόπο.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Έχετε αποκλείσει το μικρόφωνό σας για τον ιστοτόπο.">
@@ -376,15 +380,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "Καμία συγχρονισμένη καρτέλα… ακόμη!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Θέλετε να δείτε τις καρτέλες από τις άλλες σας συσκευές εδώ;">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Προτιμήσεις συγχρονισμού">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Άνοιγμα προτιμήσεων συγχρονισμού">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Συνδεθείτε για να δείτε μία λίστα με καρτέλες από τις άλλες σας συσκευές.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Ο λογαριασμός σας πρέπει να επαληθευτεί.">
 <!ENTITY appMenuRemoteTabs.signin.label "Σύνδεση στο Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Διαχείριση συσκευών…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Δείτε την πλευρική στήλη του Συγχρονισμού">
-
 
 
 <!ENTITY customizeMenu.addToToolbar.label "Προσθήκη στη γραμμή εργαλείων">
@@ -790,7 +793,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Συγχρονισμένες καρτέλες">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Συνδεθείτε στο Firefox από τις άλλες συσκευές σας για να δείτε τις καρτέλες τους εδώ.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "Καμία συγχρονισμένη καρτέλα… ακόμη!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Θέλετε να δείτε τις καρτέλες σας από άλλες συσκευές εδώ;">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Συνδεθείτε για να δείτε μια λίστα καρτελών από τις άλλες συσκευές σας.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "Ο λογαριασμός σας πρέπει να επαληθευτεί.">
@@ -800,7 +802,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Ενεργοποιήστε τον συγχρονισμό καρτελών για να δείτε μια λίστα από καρτέλες από τις άλλες σας συσκευές.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Αναζήτηση συγχρονισμένων καρτελών">
-
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Σύνδεση άλλης συσκευής">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
@@ -969,11 +970,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "Ό">
 <!ENTITY updateRestart.panelUI.label2 "Επανεκκίνηση για ενημέρωση του &brandShorterName;">
 
+
 <!ENTITY newTabControlled.header.message "Η νέα σας καρτέλα έχει αλλάξει.">
 <!ENTITY newTabControlled.keepButton.label "Διατήρηση αλλαγών">
 <!ENTITY newTabControlled.keepButton.accesskey "Δ">
 <!ENTITY newTabControlled.restoreButton.label "Επαναφορά ρυθμίσεων">
 <!ENTITY newTabControlled.restoreButton.accesskey "Ε">
+
 
 <!ENTITY pageActionButton.tooltip "Ενέργειες σελίδας">
 <!ENTITY pageAction.addToUrlbar.label "Προσθήκη στη γραμμή διευθύνσεων">
@@ -992,3 +995,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "Οι λειτουργίες προσβασιμότητας ενεργοποιήθηκαν">
+
+<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
+     The first <image> tag is replaced with the icon for the add-ons menu.
+     The second <image> tag is replaced with the icon for the toolbar menu. -->

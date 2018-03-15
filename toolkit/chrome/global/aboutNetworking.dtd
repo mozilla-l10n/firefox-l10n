@@ -23,6 +23,7 @@
 <!ENTITY aboutNetworking.sent                  "Απεσταλμένα">
 <!ENTITY aboutNetworking.received              "Ληφθέντα">
 <!ENTITY aboutNetworking.family                "Οικογένεια">
+<!ENTITY aboutNetworking.trr                   "TRR">
 <!ENTITY aboutNetworking.addresses             "Διευθύνσεις">
 <!ENTITY aboutNetworking.expires               "Λήγει (δευτερόλεπτα)">
 <!ENTITY aboutNetworking.messagesSent          "Απεσταλμένα μηνύματα">

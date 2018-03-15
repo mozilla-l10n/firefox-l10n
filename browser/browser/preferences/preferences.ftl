@@ -47,6 +47,7 @@ feature-enable-requires-restart = Θα πρέπει να γίνει επανεκ
 feature-disable-requires-restart = Θα πρέπει να γίνει επανεκκίνηση του { -brand-short-name } για απενεργοποίηση αυτής της λειτουργίας..
 should-restart-title = Επανεκκίνηση του { -brand-short-name }
 should-restart-ok = Επανεκκίνηση του { -brand-short-name } τώρα
+cancel-no-restart-button = Ακύρωση
 restart-later = Επανεκκίνηση αργότερα
 
 ## General Section
@@ -264,6 +265,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Διακομιστής μεσολάβησης δικτύου
+network-proxy-connection-learn-more = Μάθετε περισσότερα
 network-proxy-connection-settings =
     .label = Ρυθμίσεις…
     .accesskey = θ

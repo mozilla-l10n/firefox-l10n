@@ -39,6 +39,8 @@ available. -->
 
 <!ENTITY alwaysSubmitCrashReports1.label  "Να επιτρέπεται στο &brandShortName; η αποστολή αναφορών κατάρρευσης στη Mozilla">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "κ">
+
+
 <!ENTITY crashReporterLearnMore.label    "Μάθετε περισσότερα">
 
 <!ENTITY networkTab.label                "Δίκτυο">
@@ -51,14 +53,14 @@ available. -->
 
 <!ENTITY httpCache.label                 "Προσωρινό περιεχόμενο ιστού">
 
-<!ENTITY offlineStorage2.label           "Περιεχόμενο εργασίας χωρίς σύνδεση και δεδομένα χρήστη">
-
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Δεδομένα ιστοσελίδας">
 <!ENTITY clearSiteData.label             "Εκκαθάριση όλων των δεδομένων">
 <!ENTITY clearSiteData.accesskey         "κ">
 <!ENTITY siteDataSettings.label          "Ρυθμίσεις…">
 <!ENTITY siteDataSettings.accesskey      "ι">
+<!ENTITY siteDataSettings1.label         "Διαχείριση δεδομένων…">
+<!ENTITY siteDataSettings1.accesskey     "Δ">
 <!ENTITY siteDataLearnMoreLink.label     "Μάθετε περισσότερα">
 
 <!-- LOCALIZATION NOTE:
@@ -72,8 +74,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "MB χώρου">
 <!ENTITY clearCacheNow.label             "Εκκαθάριση τώρα">
 <!ENTITY clearCacheNow.accesskey         "Ε">
-<!ENTITY clearOfflineAppCacheNow.label   "Εκκαθάριση τώρα">
-<!ENTITY clearOfflineAppCacheNow.accesskey "Τ">
 <!ENTITY overrideSmartCacheSize.label    "Παράκαμψη αυτόματης διαχείρισης cache">
 <!ENTITY overrideSmartCacheSize.accesskey "Π">
 
@@ -110,17 +110,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Αυτόματη ενημέρωση μηχανών αναζήτησης">
 <!ENTITY enableSearchUpdate2.accesskey   "μ">
-
-<!ENTITY offlineStorageNotify.label               "Ειδοποίηση όταν μια ιστοσελίδα ζητά να αποθηκεύσει δεδομένα για χρήση εκτός σύνδεσης">
-<!ENTITY offlineStorageNotify.accesskey           "Ε">
-<!ENTITY offlineStorageNotifyExceptions.label     "Εξαιρέσεις…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "ξ">
-
-<!ENTITY offlineAppsList3.label          "Στις παρακάτω ιστοσελίδες επιτρέπεται η αποθήκευση δεδομένων για χρήση χωρίς σύνδεση">
-<!ENTITY offlineAppsList.height          "10em">
-<!ENTITY offlineAppsListRemove.label     "Αφαίρεση…">
-<!ENTITY offlineAppsListRemove.accesskey "ρ">
-<!ENTITY offlineAppRemove.confirm        "Αφαίρεση δεδομένων εκτός σύνδεσης">
 
 <!ENTITY certificateTab.label            "Πιστοποιητικά">
 <!ENTITY certPersonal2.description       "Όταν ένας διακομιστής απαιτεί το προσωπικό σας πιστοποιητικό">
