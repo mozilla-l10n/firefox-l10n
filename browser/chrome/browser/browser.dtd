@@ -438,6 +438,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "खोजें या पता दर्ज करें">
+<!ENTITY urlbar.placeholder3          "खोज शब्दों और पते यहाँ दर्ज करें">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "विस्तारक:">
@@ -989,6 +990,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.restoreButton.label "सेटिंग्स पुनर्स्थापित करें">
 <!ENTITY newTabControlled.restoreButton.accesskey "R">
 
+<!ENTITY newTabControlled.disableButton.label "एक्सटेंशन अक्षम करें">
+<!ENTITY newTabControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "पृष्ठ क्रियाएँ">
 <!ENTITY pageAction.addToUrlbar.label "पतापट्टी में जोड़े">
