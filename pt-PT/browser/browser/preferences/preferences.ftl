@@ -184,7 +184,7 @@ download-choose-folder =
         }
     .accesskey =
         { PLATFORM() ->
-            [macos] E
+            [macos] e
            *[other] o
         }
 download-always-ask-where =
