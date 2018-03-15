@@ -28,6 +28,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.securitySoftwareTitle "Λογισμικό ασφαλείας">
 <!ENTITY aboutSupport.securitySoftwareType "Τύπος">
 <!ENTITY aboutSupport.securitySoftwareName "Όνομα">
+<!ENTITY aboutSupport.securitySoftwareFirewall "Τείχος προστασίας">
 
 <!ENTITY aboutSupport.featuresTitle "Χαρακτηριστικά του &brandShortName;">
 <!ENTITY aboutSupport.featureName "Όνομα">
@@ -75,6 +76,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Παράθυρα πολυδιεργασιών">
 
 <!ENTITY aboutSupport.appBasicsProcessCount "Διεργασίες διαδικτυακού περιεχομένου">
+
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Κλειδί Google">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Κλειδί υπηρεσίας τοποθεσίας Mozilla">
@@ -161,3 +163,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceLatency "Καθυστέρηση">
 
 <!ENTITY aboutSupport.intlAppTitle "Ρυθμίσεις εφαρμογής">
+<!ENTITY aboutSupport.intlLocalesDefault "Προεπιλεγμένη γλώσσα">
+<!ENTITY aboutSupport.intlOSTitle "Λειτουργικό σύστημα">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "Γλώσσες συστήματος">
+<!ENTITY aboutSupport.intlRegionalPrefs "Προτιμήσεις περιοχής">
