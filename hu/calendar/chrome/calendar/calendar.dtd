@@ -180,6 +180,7 @@
 <!ENTITY calendar.context.attendance.occurrence.label           "Ez alkalommal">
 <!ENTITY calendar.context.attendance.all.label        "Minden alkalommal" >
 
+<!ENTITY calendar.context.attendance.all2.label                 "Teljes sorozat">
 <!ENTITY calendar.context.attendance.send.label                 "Értesítés küldése most">
 <!ENTITY calendar.context.attendance.send.accesskey             "k">
 <!ENTITY calendar.context.attendance.dontsend.label             "Ne küldjön értesítést">
