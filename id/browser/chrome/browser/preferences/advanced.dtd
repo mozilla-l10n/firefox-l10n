@@ -62,11 +62,12 @@ available. -->
 <!ENTITY siteData.label                  "Data Situs">
 <!ENTITY clearSiteData.label             "Bersihkan Semua Data">
 <!ENTITY clearSiteData.accesskey         "B">
+<!ENTITY siteDataSettings.label          "Pengaturan…">
+<!ENTITY siteDataSettings.accesskey      "u">
 <!ENTITY siteData1.label                 "Kuki dan Data Situs">
 <!ENTITY clearSiteData1.label            "Hapus Data…">
 <!ENTITY clearSiteData1.accesskey        "l">
-<!ENTITY siteDataSettings.label          "Pengaturan…">
-<!ENTITY siteDataSettings.accesskey      "u">
+<!ENTITY siteDataSettings1.label         "Kelola Data…">
 <!ENTITY siteDataLearnMoreLink.label     "Pelajari lebih lanjut">
 
 <!-- LOCALIZATION NOTE:
