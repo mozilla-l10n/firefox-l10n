@@ -172,7 +172,7 @@ was trying to connect. -->
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> కాలం చెల్లిన దాడికి దుర్భలంగా ఉన్న భద్రతా సాంకేతికత వాడుతోంది. మీరు భద్రం అనుకున్న సమాచారాన్ని దాడి చేసినవారు సులభంగా బయల్పరచవచ్చు. మీరు సైటును చూడగలిగే ముందు సైటు నిర్వాహకులు సైటు సేవికను బాగుచేయాలి.</p><p>దోష సంకేతం: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
-<!ENTITY blockedByPolicyTemp.title "పేజీ నిరోధించబడింది">
+<!ENTITY blockedByPolicy.title "నిరోధించిన పేజీ">
 
 <!ENTITY prefReset.longDesc "ఇది మీ నెట్‌వర్కు భద్రతా అమరికల వల్ల అయివుండవచ్చనిపిస్తోంది. అప్రమేత అమరికలను పునరుద్ధరించమంటారా?">
 <!ENTITY prefReset.label "అప్రమేయ అమరికలను పునరుద్ధరించు">
