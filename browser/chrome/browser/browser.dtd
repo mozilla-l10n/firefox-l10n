@@ -983,11 +983,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Startujće znowa, zo byšće &brandShorterName; aktualizował">
 
 <!ENTITY newTabControlled.message "Rozšěrjenje je stronu změnił, kotruž widźiće, hdyž nowy rajtark wočinjeće. Móžeće swoje nastajenja wobnowić, jeli tutu změnu nochceće.">
+
 <!ENTITY newTabControlled.header.message "Waš nowy rajtark je so změnił.">
 <!ENTITY newTabControlled.keepButton.label "Změny wobchować">
 <!ENTITY newTabControlled.keepButton.accesskey "Z">
 <!ENTITY newTabControlled.restoreButton.label "Nastajenja wobnowić">
 <!ENTITY newTabControlled.restoreButton.accesskey "N">
+
+<!ENTITY newTabControlled.disableButton.label "Rozšěrjenje znjemóžnić">
+<!ENTITY newTabControlled.disableButton.accesskey "R">
 
 <!ENTITY pageActionButton.tooltip "Akcije strony">
 <!ENTITY pageAction.addToUrlbar.label "Adresowemu polu přidać">
