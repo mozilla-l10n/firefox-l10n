@@ -438,6 +438,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Insere un adresse o face un recerca">
+<!ENTITY urlbar.placeholder3          "Insere hic terminos e adresses de recerca">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Extension:">
@@ -982,11 +983,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Reinitiar pro actualisar &brandShorterName;">
 
 <!ENTITY newTabControlled.message "Un extension cambiava le pagina que tu vide quando tu aperi un scheda nove. Tu pote restaurar iste parametros si tu non vole iste modification.">
+
 <!ENTITY newTabControlled.header.message "Tu nove scheda cambiava.">
 <!ENTITY newTabControlled.keepButton.label "Mantener le cambios">
 <!ENTITY newTabControlled.keepButton.accesskey "M">
 <!ENTITY newTabControlled.restoreButton.label "Restaurar le parametros">
 <!ENTITY newTabControlled.restoreButton.accesskey "R">
+
+<!ENTITY newTabControlled.disableButton.label "Disactivar le extension">
+<!ENTITY newTabControlled.disableButton.accesskey "">
 
 <!ENTITY pageActionButton.tooltip "Actiones del pagina">
 <!ENTITY pageAction.addToUrlbar.label "Adder al barra de adresse">
