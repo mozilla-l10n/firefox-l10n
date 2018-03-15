@@ -965,8 +965,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName; کی تازہ کاری کرنے کے لیئے دوبارہ شروع کریں">
 
+
 <!ENTITY newTabControlled.keepButton.accesskey "K">
+<!ENTITY newTabControlled.restoreButton.label "سیٹنگیں بحال کریں">
 <!ENTITY newTabControlled.restoreButton.accesskey "R">
+
 
 <!ENTITY pageActionButton.tooltip "صفحہ اعمال">
 <!ENTITY pageAction.addToUrlbar.label "ایڈریس بار میں شامل کرے">
