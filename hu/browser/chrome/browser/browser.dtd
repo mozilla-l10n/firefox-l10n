@@ -983,11 +983,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Újraindítás a &brandShorterName; frissítéséhez">
 
 <!ENTITY newTabControlled.message "Egy kiterjesztés megváltoztatta a lapot, amely az Új lap megnyitásakor fogadja. Visszaállíthatja a beállításokat, ha nem szeretné ezt a változást.">
+
 <!ENTITY newTabControlled.header.message "Az Új lap megváltozott.">
 <!ENTITY newTabControlled.keepButton.label "Módosítások megtartása">
 <!ENTITY newTabControlled.keepButton.accesskey "M">
 <!ENTITY newTabControlled.restoreButton.label "Beállítások visszaállítása">
 <!ENTITY newTabControlled.restoreButton.accesskey "v">
+
+<!ENTITY newTabControlled.disableButton.label "Kiterjesztés letiltása">
+<!ENTITY newTabControlled.disableButton.accesskey "l">
 
 <!ENTITY pageActionButton.tooltip "Oldal műveletek">
 <!ENTITY pageAction.addToUrlbar.label "Hozzáadás a címsávhoz">
