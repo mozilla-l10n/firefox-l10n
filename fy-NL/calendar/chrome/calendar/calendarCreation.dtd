@@ -20,3 +20,27 @@
 
 <!ENTITY finishpage.shortdescription  "Aginda makke" >
 <!ENTITY finishpage.longdescription   "Jo aginda is makke." >
+
+<!-- Below are new strings for the revised new calendar dialog. The above strings should be
+    removed/renamed later on -->
+
+<!ENTITY sourcetabs.other.label  "Oars">
+
+<!ENTITY buttons.create.label "Aginda meitsje">
+<!ENTITY buttons.create.accesskey "m">
+
+<!ENTITY buttons.find.label "Aginda sykje">
+<!ENTITY buttons.find.accesskey "s">
+
+<!ENTITY buttons.back.label "Tebek">
+<!ENTITY buttons.back.accesskey "T">
+
+<!ENTITY buttons.subscribe.label "Abonnearje">
+<!ENTITY buttons.subscribe.accesskey "A">
+
+<!ENTITY calendartype.label "Agindatype:">
+<!ENTITY location.label "Lokaasje:">
+<!ENTITY location.placeholder "URL of hostnamme fan de agindaserver">
+
+<!ENTITY network.nocredentials.label "Dizze lokaasje fereasket gjin ferifikaasje">
+
