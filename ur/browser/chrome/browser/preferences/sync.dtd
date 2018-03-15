@@ -24,6 +24,7 @@
 <!ENTITY engine.addons.accesskey    "ا">
 <!ENTITY engine.addresses.label     "پتے">
 <!ENTITY engine.addresses.accesskey "e">
+<!ENTITY engine.creditcards.label   "کریڈٹ کارڈز">
 <!ENTITY engine.creditcards.accesskey "C">
 
 <!-- Device Settings -->
@@ -64,6 +65,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY disconnect3.label            "منقطع کریں…">
 <!ENTITY disconnect3.accesskey        "D">
 <!ENTITY resendVerification.accesskey "d">
+<!ENTITY cancelSetup.label            "سیٹ اپ منسوخ کریں">
 <!ENTITY cancelSetup.accesskey        "p">
 
 <!ENTITY signedOut.caption            "اپنی ویب اپنے ساتھ رکھیں">
@@ -92,3 +94,5 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY mobilePromo3.end              "آپ کے موبائل ڈیوائس کے ساتھ ہمہ وقت ساز">
 
+<!ENTITY mobilepromo.singledevice      "اہک اور آلہ جوڑیں">
+<!ENTITY mobilepromo.multidevice       "آلات کو بندرست کریں">
