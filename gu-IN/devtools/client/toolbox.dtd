@@ -14,6 +14,11 @@
   -  shown next to error details when the Browser Toolbox is unable to open. -->
 <!ENTITY browserToolboxErrorMessage          "બ્રાઉઝર ટૂલબોક્સ ખોલવામાં ભૂલ:">
 
+<!-- LOCALIZATION NOTE (browserToolboxStatusMessage): This is the label
+  -  shown next to status details when the Browser Toolbox fails to connect or
+  -  appears to be taking a while to do so. -->
+<!ENTITY browserToolboxStatusMessage "બ્રાઉઝર ટૂલબોક્સ જોડાણ સ્થિતિ:">
+
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 <!ENTITY options.context.advancedSettings "ઉન્નત સેટીંગ">
@@ -70,7 +75,7 @@
   -  options panel and is used for settings that trigger page reload. -->
 <!ENTITY options.context.triggersPageRefresh  "* ફક્ત વર્તમાન સત્ર, પાનાંને ફરી લાવે છે">
 
-<!-- LOCALIZATION NOTE (options.enableChrome.label4): This is the label for the
+<!-- LOCALIZATION NOTE (options.enableChrome.label5): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableChrome.label5    "બ્રાઉઝર chrome અને એડ-ઓન ડિબગિંગ ટૂલબોક્સ સક્ષમ કરો">
@@ -144,7 +149,7 @@
   -  heading of the group of Debugger preferences in the options panel. -->
 <!ENTITY options.debugger.label            "ડિબગર">
 
-<!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
+<!-- LOCALIZATION NOTE (options.sourceMaps.label): This is the
    - label for the checkbox that toggles source maps in all tools -->
 <!ENTITY options.sourceMaps.label      "સ્રોત નકશા સક્ષમ કરો">
 <!ENTITY options.sourceMaps.tooltip1   "જો તમે આ વિકલ્પ સ્રોતોને સક્ષમ કરો છો તો ટૂલ્સમાં સરખાવવામાં આવશે.">

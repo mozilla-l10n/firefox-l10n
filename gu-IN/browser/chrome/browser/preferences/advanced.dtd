@@ -44,6 +44,7 @@ available. -->
 <!ENTITY collectBrowserErrors.accesskey      "b">
 <!ENTITY collectBrowserErrorsLearnMore.label "વધુ જાણો">
 
+<!ENTITY sendBackloggedCrashReports.label  "તમારા વતી &brandShortName; ને બૅકલોગ ક્રેશ રિપોર્ટ્સ મોકલવાની મંજૂરી આપો">
 <!ENTITY sendBackloggedCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "વધારે શીખો">
 
