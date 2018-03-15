@@ -983,11 +983,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Reiniciar para atualizar o &brandShorterName;">
 
 <!ENTITY newTabControlled.message "Uma extensão alterou a página que vê quando abre um novo separador. Pode restaurar as suas definições se não quiser esta alteração.">
+
 <!ENTITY newTabControlled.header.message "O seu novo separador foi alterado.">
 <!ENTITY newTabControlled.keepButton.label "Manter alterações">
 <!ENTITY newTabControlled.keepButton.accesskey "M">
 <!ENTITY newTabControlled.restoreButton.label "Restaurar definições">
 <!ENTITY newTabControlled.restoreButton.accesskey "R">
+
+<!ENTITY newTabControlled.disableButton.label "Desativar extensão">
+<!ENTITY newTabControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "Ações da página">
 <!ENTITY pageAction.addToUrlbar.label "Adicionar à barra de endereço">
