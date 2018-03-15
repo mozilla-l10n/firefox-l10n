@@ -983,11 +983,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Starta om för att uppdatera &brandShorterName;">
 
 <!ENTITY newTabControlled.message "Ett tillägg har ändrat den sida du ser när du öppnar en ny flik. Du kan återställa dina inställningar om du inte vill ha den här ändringen.">
+
 <!ENTITY newTabControlled.header.message "Din nya flik har ändrats.">
 <!ENTITY newTabControlled.keepButton.label "Behåll ändringar">
 <!ENTITY newTabControlled.keepButton.accesskey "B">
 <!ENTITY newTabControlled.restoreButton.label "Återställ inställningar">
 <!ENTITY newTabControlled.restoreButton.accesskey "t">
+
+<!ENTITY newTabControlled.disableButton.label "Inaktivera tillägg">
+<!ENTITY newTabControlled.disableButton.accesskey "I">
 
 <!ENTITY pageActionButton.tooltip "Åtgärder för sida">
 <!ENTITY pageAction.addToUrlbar.label "Lägg till i adressfältet">
