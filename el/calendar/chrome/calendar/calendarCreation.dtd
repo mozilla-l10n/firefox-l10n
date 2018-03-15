@@ -20,3 +20,26 @@
 
 <!ENTITY finishpage.shortdescription  "Το ημερολόγιο δημιουργήθηκε" >
 <!ENTITY finishpage.longdescription   "Το ημερολόγιό σας έχει δημιουργηθεί." >
+
+<!-- Below are new strings for the revised new calendar dialog. The above strings should be
+    removed/renamed later on -->
+
+<!ENTITY sourcetabs.other.label  "Άλλο">
+
+<!ENTITY buttons.create.label "Δημιουργία ημερολογίου">
+<!ENTITY buttons.create.accesskey "μ">
+
+<!ENTITY buttons.find.label "Εύρεση ημερολογίων">
+<!ENTITY buttons.find.accesskey "Ε">
+
+<!ENTITY buttons.back.label "Πίσω">
+<!ENTITY buttons.back.accesskey "Π">
+
+<!ENTITY buttons.subscribe.label "Εγγραφή">
+<!ENTITY buttons.subscribe.accesskey "Ε">
+
+<!ENTITY calendartype.label "Τύπος ημερολογίου:">
+<!ENTITY location.label "Τοποθεσία:">
+
+<!ENTITY network.nocredentials.label "Αυτή η τοποθεσία δεν απαιτεί διαπιστευτήρια">
+
