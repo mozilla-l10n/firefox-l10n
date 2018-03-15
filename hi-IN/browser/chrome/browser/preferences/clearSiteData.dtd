@@ -11,6 +11,7 @@
 <!ENTITY clearSiteData.accesskey      "S">
 <!ENTITY clearSiteData.description    "यदि मिटाते हैं तो आप वेबसाइटों से साईन आउट हो जायेंगे">
 
+<!ENTITY clearCache.label             "कैश्च वेब कंटेंट">
 <!ENTITY clearCache.accesskey         "W">
 
 <!ENTITY button.cancel.label          "रद्द करें">
