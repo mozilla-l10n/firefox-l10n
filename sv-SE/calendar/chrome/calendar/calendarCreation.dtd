@@ -20,3 +20,18 @@
 
 <!ENTITY finishpage.shortdescription  "Kalender skapad" >
 <!ENTITY finishpage.longdescription   "Din kalender har blivit skapad" >
+
+<!-- Below are new strings for the revised new calendar dialog. The above strings should be
+    removed/renamed later on -->
+
+
+<!ENTITY buttons.create.label "Skapa kalender">
+
+
+
+<!ENTITY buttons.subscribe.label "Prenumerera">
+
+<!ENTITY calendartype.label "Kalender Typ:">
+<!ENTITY location.label "Plats:">
+
+
