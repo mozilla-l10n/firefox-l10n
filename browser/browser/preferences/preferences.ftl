@@ -22,6 +22,11 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 16.4em
+policies-notice =
+    { PLATFORM() ->
+        [windows] சில விருப்பங்களை மாற்றும் ஆற்றலை உங்கள் நிறுவனம் முடக்கியுள்ளது.
+       *[other] சில முன்னுரிமைகளை மாற்றும் ஆற்றலை உங்கள் நிறுவனம் முடக்கியுள்ளது.
+    }
 pane-general-title = பொது
 category-general =
     .tooltiptext = { pane-general-title }
@@ -100,6 +105,9 @@ tabs-group-header = கீற்றுகள்
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab விசைக் கொண்டு அண்மையில் பாவித்த கீற்றுகளின் ஊடாக வலம் வரலாம்
     .accesskey = T
+open-new-link-as-tabs =
+    .label = தொடுப்புகளை புதிய சாளரத்தில் திறவாமல் கீற்றுகளில் திறக்கவும்
+    .accesskey = w
 warn-on-close-multiple-tabs =
     .label = பல கீற்றுகளை மூடும் போது உங்களை எச்சரிக்கும்
     .accesskey = m
