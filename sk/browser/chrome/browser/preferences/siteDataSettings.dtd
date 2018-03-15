@@ -4,7 +4,7 @@
 
 <!ENTITY     window.title                  "Nastavenia - Údaje stránok">
 
-<!ENTITY     window1.title                 "Nastavenia - Cookies a údaje stránok">
+<!ENTITY     window2.title                 "Správa cookies a údajov stránok">
 <!ENTITY     hostCol.label                 "Stránka">
 <!ENTITY     statusCol.label               "Stav">
 <!ENTITY     cookiesCol.label              "Cookies">
