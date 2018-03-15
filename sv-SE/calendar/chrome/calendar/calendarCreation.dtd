@@ -38,7 +38,7 @@
 <!ENTITY buttons.subscribe.label "Prenumerera">
 <!ENTITY buttons.subscribe.accesskey "P">
 
-<!ENTITY calendartype.label "Kalender Typ:">
+<!ENTITY calendartype.label "Kalendertyp:">
 <!ENTITY location.label "Plats:">
 <!ENTITY location.placeholder "URL eller namn på kalender-servern">
 
@@ -48,4 +48,4 @@
 <!ENTITY network.authfail.description "Inloggningen du angav fungerade inte. Var god kontrollera dina inställningar.">
 
 <!ENTITY network.subscribe.single.description "Välj de kalendrar du vill prenumerera på.">
-<!ENTITY network.subscribe.multiple.description "Flera kalendertyper är tillgängliga på denna adress. Välj en kalendertyp, och markera sedan de kalendrar du vill prenumerera på.">
+<!ENTITY network.subscribe.multiple.description "Flera kalendertyper är tillgängliga på denna adress. Välj en kalendertyp och markera sedan de kalendrar du vill prenumerera på.">
