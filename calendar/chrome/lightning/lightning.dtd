@@ -42,7 +42,6 @@
      These strings are used in the calendar wizard and the calendar properties dialog, but are only
      displayed when setting/using a caldav calendar -->
 <!ENTITY lightning.calendarproperties.email.label                           "E-mail:">
-
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.label            "Ügyféloldali e-mail ütemezés előnyben részesítése">
 <!-- LOCALIZATON NOTE(lightning.calendarproperties.forceEmailScheduling.tooltiptext1,
      lightning.calendarproperties.forceEmailScheduling.tooltiptext2)
@@ -83,6 +82,13 @@
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "Frissítés">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Esemény frissítése a naptárban">
 <!ENTITY lightning.imipbar.description                                      "Ez az üzenet egy eseményre szóló meghívót tartalmaz.">
+
+<!ENTITY lightning.imipbar.btnSend.label                                    "Válasz küldése most">
+<!ENTITY lightning.imipbar.btnSend.tooltiptext                              "Válasz küldése a szervezőnek">
+<!ENTITY lightning.imipbar.btnSendSeries.tooltiptext                        "Válasz küldése a szervezőnek az egész sorozattal kapcsolatban">
+<!ENTITY lightning.imipbar.btnDontSend.label                                "Ne küldjön választ">
+<!ENTITY lightning.imipbar.btnDontSend.tooltiptext                          "A részvételi állapot megváltoztatása a szervezőnek küldött válasz nélkül">
+<!ENTITY lightning.imipbar.btnDontSendSeries.tooltiptext                    "A részvételi állapot megváltoztatása a teljes sorozatra a szervezőnek küldött válasz nélkül">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
