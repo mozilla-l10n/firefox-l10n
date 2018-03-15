@@ -983,11 +983,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Рестартуј да се &brandShorterName; ажурира">
 
 <!ENTITY newTabControlled.message "Екстензија је променила подразумевану страницу новог језичка. Можете вратити ваше поставке ако не желите ову промену странице.">
+
 <!ENTITY newTabControlled.header.message "Ваша страница новог језичка се променила.">
 <!ENTITY newTabControlled.keepButton.label "Задржи промене">
 <!ENTITY newTabControlled.keepButton.accesskey "З">
 <!ENTITY newTabControlled.restoreButton.label "Врати поставке">
 <!ENTITY newTabControlled.restoreButton.accesskey "В">
+
+<!ENTITY newTabControlled.disableButton.label "Онемогући екстензију">
+<!ENTITY newTabControlled.disableButton.accesskey "О">
 
 <!ENTITY pageActionButton.tooltip "Радње странице">
 <!ENTITY pageAction.addToUrlbar.label "Додај адресној траци">
