@@ -274,3 +274,12 @@ network-proxy-connection-learn-more = Rohkem teavet
 network-proxy-connection-settings =
     .label = Sätted...
     .accesskey = e
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Korduv võtmesõna
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Sa valisid võtmesõna, mis on kasutusel juba otsingumootori "{ $name }" juures. Palun vali mõni muu.
