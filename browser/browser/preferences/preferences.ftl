@@ -270,6 +270,11 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = نوار جست وجو
+search-bar-hidden =
+    .label = استفاده از نوادر آدرس برای پیمایش و جست وجو
+search-bar-shown =
+    .label = اضافه کردن نوار جست‌وجو به نوار ابزار
 search-engine-default-header = موتور جست‌وجو پیش‌فرض
 search-engine-default-desc = انتخاب یک موتور جست‌وجو پیش فرض برای استفاده در نوار ادرس و نوار جست‌وجو
 search-suggestions-option =
@@ -278,6 +283,13 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = نمایش پیشنهادهای جست‌و‌جو در نوار آدرس
     .accesskey = آ
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = نمایش پیشنهادات جست‌وجو در بالا ی تاریخچه مرورگر در نوار آدرس
 search-suggestions-cant-show = پیشنهادهای جست‌وجو در نوار مکان نمایش داده نخواهد شده زیرا شما { -brand-short-name } را به گونه‌ای تنظیم کرده‌اید که هیچ تاریخچه‌ای را نگه ندارد.
 search-one-click-header = موتورهای جست‌وجوی تک-کلیکی
 search-one-click-desc = در هنگام وارد کردن کلید واژه‌ها جهت جست‌وجو، موتورهای جست‌وجو جایگزین را از قسمت پایینی نوار آدرس یا نوار جست‌وجو انتخاب کنید.
