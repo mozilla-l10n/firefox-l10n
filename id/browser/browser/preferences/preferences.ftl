@@ -274,6 +274,16 @@ search-engine-default-desc = Pilih mesin pencari baku yang akan digunakan di bil
 search-suggestions-option =
     .label = Sertakan saran pencarian
     .accesskey = s
+search-show-suggestions-url-bar-option =
+    .label = Tampilkan saran pencarian di hasil bilah alamat
+    .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Tampilkan saran pencarian di atas riwayat penjelajahan dalam hasil bilah alamat
 search-suggestions-cant-show = Saran pencarian tidak akan ditampilkan di hasil bilah lokasi karena Anda telah mengatur { -brand-short-name } agar tidak mengingat riwayat.
 search-one-click-header = Mesin pencari sekali klik
 search-one-click-desc = Pilih mesin pencari alternatif yang muncul di bawah bilah alamat dan bilah pencarian ketika Anda mulai memasukkan kata kunci.
