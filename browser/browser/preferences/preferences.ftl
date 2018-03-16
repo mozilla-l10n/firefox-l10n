@@ -274,3 +274,20 @@ network-proxy-connection-learn-more = 详细了解
 network-proxy-connection-settings =
     .label = 设置…
     .accesskey = e
+
+## Search Section
+
+search-engine-default-header = 默认搜索引擎
+search-suggestions-option =
+    .label = 提供搜索建议
+    .accesskey = s
+search-suggestions-cant-show = 由于您已经设置 { -brand-short-name } 不要记住浏览历史，地址栏中将不会显示搜索建议。
+search-one-click-header = 快捷搜索引擎列表
+search-choose-engine-column =
+    .label = 搜索引擎
+search-restore-default =
+    .label = 恢复默认搜索引擎
+    .accesskey = d
+search-remove-engine =
+    .label = 移除
+    .accesskey = r
