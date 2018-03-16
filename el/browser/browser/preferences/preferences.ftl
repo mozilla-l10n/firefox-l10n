@@ -272,4 +272,37 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Γραμμή αναζήτησης
+search-bar-hidden =
+    .label = Χρήση της γραμμής διευθύνσεων για αναζήτηση και πλοήγηση
+search-bar-shown =
+    .label = Προσθήκη γραμμής αναζήτησης στη γραμμή εργαλείων
 search-engine-default-header = Προεπιλεγμένη μηχανή αναζήτησης
+search-engine-default-desc = Επιλέξτε την προεπιλεγμένη μηχανή αναζήτησης για χρήση στη γραμμή διευθύνσεων και στη γραμμή αναζήτησης.
+search-suggestions-option =
+    .label = Παροχή προτάσεων αναζήτησης
+    .accesskey = Π
+search-show-suggestions-url-bar-option =
+    .label = Εμφάνιση προτάσεων αναζήτησης στα αποτελέσματα της γραμμής διευθύνσεων
+    .accesskey = τ
+search-suggestions-cant-show = Οι προτάσεις αναζήτησης δεν θα εμφανίζονται στη γραμμή διευθύνσεων, καθώς έχετε ρυθμίσει το { -brand-short-name } ώστε να μην διατηρεί ποτέ το ιστορικό.
+search-one-click-header = Μηχανές αναζήτησης με ένα κλικ
+search-one-click-desc = Επιλέξτε τις εναλλακτικές μηχανές αναζήτησης που εμφανίζονται κάτω από τη γραμμή διευθύνσεων και τη γραμμή αναζήτησης όταν αρχίσετε να πληκτρολογείτε μια λέξη-κλειδί.
+search-choose-engine-column =
+    .label = Μηχανή αναζήτησης
+search-choose-keyword-column =
+    .label = Λέξη-κλειδί
+search-restore-default =
+    .label = Επαναφορά προεπιλεγμένων μηχανών αναζήτησης
+    .accesskey = φ
+search-remove-engine =
+    .label = Αφαίρεση
+    .accesskey = Α
+search-find-more-link = Εύρεση περισσότερων μηχανών αναζήτησης
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Διπλή λέξη-κλειδί
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Έχετε επιλέξει μια λέξη-κλειδί που χρησιμοποιείται ήδη από το “{ $name }”. Παρακαλώ επιλέξτε κάποια άλλη.
+search-keyword-warning-bookmark = Έχετε επιλέξει μια λέξη-κλειδί που χρησιμοποιείται ήδη από ένα σελιδοδείκτη. Παρακαλώ επιλέξτε κάποια άλλη.
