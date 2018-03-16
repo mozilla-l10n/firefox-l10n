@@ -268,6 +268,7 @@ search-engine-default-header = Mesin Pencari Baku
 search-suggestions-option =
     .label = Sertakan saran pencarian
     .accesskey = s
+search-suggestions-cant-show = Saran pencarian tidak akan ditampilkan di hasil bilah lokasi karena Anda telah mengatur { -brand-short-name } agar tidak mengingat riwayat.
 search-one-click-header = Mesin pencari sekali klik
 search-choose-engine-column =
     .label = Mesin Pencari
@@ -282,4 +283,7 @@ search-remove-engine =
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Kata Kunci Ganda
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Anda telah memilih kata kunci yang sama dengan "{ $name }". Silakan pilih kata lain.
 search-keyword-warning-bookmark = Anda telah memilih kata kunci yang sama dengan nama Markah. Silakan pilih kata lain.
