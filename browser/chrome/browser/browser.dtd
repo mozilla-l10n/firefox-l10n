@@ -991,6 +991,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.restoreButton.accesskey "н">
 
 <!ENTITY newTabControlled.disableButton.label "Вимкнути розширення">
+<!ENTITY newTabControlled.disableButton.accesskey "м">
 
 <!ENTITY pageActionButton.tooltip "Дії сторінки">
 <!ENTITY pageAction.addToUrlbar.label "Додати до панелі адреси">
