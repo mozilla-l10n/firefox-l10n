@@ -274,3 +274,9 @@ network-proxy-connection-learn-more = En savoir plus
 network-proxy-connection-settings =
     .label = Paramètres…
     .accesskey = P
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Doublon de mot-clé
