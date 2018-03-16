@@ -277,9 +277,44 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Otsinguriba
+search-bar-hidden =
+    .label = Aadressiriba kasutatakse otsimiseks ja navigeerimiseks
+search-bar-shown =
+    .label = Kasutatakse eraldi otsinguriba
+search-engine-default-header = Vaikeotsingumootor
+search-engine-default-desc = Vali vaikeotsingumootor, mida kasutatakse aadressi- ja otsinguribal.
+search-suggestions-option =
+    .label = Pakutakse otsingusoovitusi
+    .accesskey = P
+search-show-suggestions-url-bar-option =
+    .label = Aadressiriba tulemustes kuvatakse otsingusoovitusi
+    .accesskey = k
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Aadressiriba tulemustes kuvatakse otsingusoovitusi enne lehitsemise ajalugu
+search-suggestions-cant-show = Otsingusoovitusi asukohariba tulemuste seas ei kuvata, sest { -brand-short-name } ei ole häälestatud ajalugu säilitama.
+search-one-click-header = Ühe klõpsu otsingumootorid
+search-one-click-desc = Vali alternatiivsed otsingumootorid, mida kuvatakse aadressi- ja otsinguriba all, kui alustad märksõna sisestamist.
+search-choose-engine-column =
+    .label = Otsingumootor
+search-choose-keyword-column =
+    .label = Võtmesõna
+search-restore-default =
+    .label = Lähtesta vaikeotsingumootorid
+    .accesskey = L
+search-remove-engine =
+    .label = Eemalda
+    .accesskey = E
+search-find-more-link = Leia veel otsingumootoreid
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Korduv võtmesõna
 # Variables:
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Sa valisid võtmesõna, mis on kasutusel juba otsingumootori "{ $name }" juures. Palun vali mõni muu.
+search-keyword-warning-bookmark = Sa valisid võtmesõna, mis on kasutusel järjehoidja juures. Palun vali mõni muu.
