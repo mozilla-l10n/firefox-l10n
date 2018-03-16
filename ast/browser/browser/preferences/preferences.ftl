@@ -236,3 +236,9 @@ network-proxy-title = Proxy de rede
 network-proxy-connection-settings =
     .label = Configuración…
     .accesskey = o
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Pallabra clave duplicada
