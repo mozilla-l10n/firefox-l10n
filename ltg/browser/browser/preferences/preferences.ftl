@@ -271,3 +271,13 @@ network-proxy-connection-learn-more = Vaira
 network-proxy-connection-settings =
     .label = Īstatiejumi...
     .accesskey = e
+
+## Search Section
+
+search-suggestions-option =
+    .label = Provide search suggestions
+    .accesskey = s
+search-suggestions-cant-show = Search suggestions will not be shown in location bar results because you have configured { -brand-short-name } to never remember history.
+search-restore-default =
+    .label = Restore Default Search Engines
+    .accesskey = d
