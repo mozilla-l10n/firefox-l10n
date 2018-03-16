@@ -263,6 +263,26 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = ਮੂਲ ਖੋਜ ਇੰਜਣ
+search-suggestions-option =
+    .label = ਖੋਜ ਸੁਝਾਅ ਦਿੰਦਾ ਹੈ
+    .accesskey = s
+search-suggestions-cant-show = ਟਿਕਾਣਾ ਖੋਜ ਨਤੀਜਿਆਂ ਵਿੱਚ ਖੋਜ ਸੁਝਾਅ ਨਹੀਂ ਵੇਖਾਏ ਜਾਣਗੇ, ਕਿਉਂਕਿ ਤੁਸੀਂ { -brand-short-name } ਨੂੰ ਕਦੇ ਵੀ ਅਤੀਤ ਯਾਦ ਨਾ ਰੱਖਣ ਲਈ ਸੰਰਚਿਤ ਕੀਤਾ ਹੈ।
+search-one-click-header = ਇੱਕ-ਕਲਿੱਕ ਖੋਜ ਇੰਜਣ
+search-choose-engine-column =
+    .label = ਖੋਜ ਇੰਜਣ
+search-choose-keyword-column =
+    .label = ਸ਼ਬਦ
+search-restore-default =
+    .label = ਮੂਲ ਖੋਜ ਇੰਜਣ ਨੂੰ ਮੁੜ-ਸਟੋਰ ਕਰੋ
+    .accesskey = d
+search-remove-engine =
+    .label = ਹਟਾਓ
+    .accesskey = r
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = ਡੁਪਲੀਕੇਟ ਸ਼ਬਦ
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = ਤੁਸੀਂ ਸ਼ਬਦ ਨੂੰ ਚੁਣਿਆ ਹੈ, ਜੋ ਕਿ ਇਸ ਸਮੇਂ "{ $name }" ਵਰਤੋਂ ਵਰਤਿਆ ਜਾ ਰਿਹਾ ਹੈ। ਹੋਰ ਨੂੰ ਚੁਣੋ ਜੀ।
+search-keyword-warning-bookmark = ਤੁਸੀਂ ਸ਼ਬਦ ਨੂੰ ਚੁਣਿਆ ਹੈ, ਜੋ ਕਿ ਇਸ ਸਮੇਂ ਬੁੱਕਮਾਰਕ ਵਰਤੋਂ ਲਈ ਵਰਤਿਆ ਜਾ ਰਿਹਾ ਹੈ। ਹੋਰ ਨੂੰ ਚੁਣੋ ਜੀ।
