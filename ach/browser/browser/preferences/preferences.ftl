@@ -258,3 +258,29 @@ network-proxy-connection-learn-more = Nong ngec mapol
 network-proxy-connection-settings =
     .label = Tero…
     .accesskey = e
+
+## Search Section
+
+search-engine-default-header = Ingin me yeny makwongo
+search-suggestions-option =
+    .label = Mi tam me yeny
+    .accesskey = y
+search-suggestions-cant-show = Pe ki binyuto tam me yeny i adwogi me lanyut me kabedo pien i tero { -brand-short-name } pe me poo ikom gin mukato matwal.
+search-choose-engine-column =
+    .label = Ingin me Yeny
+search-choose-keyword-column =
+    .label = Lok mapire tek
+search-restore-default =
+    .label = Dwok ingin me yeny makwongo
+    .accesskey = k
+search-remove-engine =
+    .label = Kwany
+    .accesskey = K
+search-find-more-link = Med injin me yeny mukene
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Por lok mapire tek
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = I yero lok mapire tek ma latic kwede kombedi obedo "{ $name }". Tim ber iyer mukene.
+search-keyword-warning-bookmark = I yero lok mapire tek ma kombedi alama buk tye ka tic kwede. Tim ber iyer mukene.
