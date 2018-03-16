@@ -220,6 +220,7 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = تلاش بار
 search-engine-default-header = طےشدہ تلاش انجن
 search-suggestions-option =
     .label = تلاش تجاویز مہیا کریں
