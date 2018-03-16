@@ -10,6 +10,7 @@
 <!ENTITY content.label "Obsah">
 <!ENTITY fonts.label "Písma">
 <!ENTITY colors.label "Barvy">
+<!ENTITY media.label "Média">
 <!ENTITY spellingPane.label "Pravopis">
 
 <!ENTITY navigator.label "Prohlížeč">
