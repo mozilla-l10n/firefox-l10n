@@ -126,7 +126,12 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-choose-keyword-column =
+    .label = Ekigambo ekikulu
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Ekigambo ekikulu Kiddiddwamu
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Olonze ekigambo ekikulu ekiri mukukozesebwa "{ $name }". Bambi funayo ekirala.
 search-keyword-warning-bookmark = Olonze ekigambo ekikulu ekiri mu kukozesebwa akalambe. Bambi funayo ekirala.
