@@ -274,6 +274,8 @@ network-proxy-connection-settings =
 
 search-engine-default-header = Mecanismo de pesquisa padrão
 search-one-click-header = Mecanismos de pesquisa em um clique
+search-choose-engine-column =
+    .label = Mecanismo de pesquisa
 search-choose-keyword-column =
     .label = Palavra-chave
 search-remove-engine =
