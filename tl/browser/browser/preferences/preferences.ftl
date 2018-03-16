@@ -302,4 +302,7 @@ search-find-more-link = Maghanap ng higit pang mga search engine
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Nadobleng Keyword
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Ginagamit ng “{ $name }” ang pinili mong keyword. Pumili nalang ng iba.
 search-keyword-warning-bookmark = Ginagamit ng isang bookmark ang keyword na pinili ninyo. Pumili ng iba.
