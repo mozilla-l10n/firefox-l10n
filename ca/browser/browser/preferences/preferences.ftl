@@ -274,3 +274,10 @@ network-proxy-connection-learn-more = Més informació
 network-proxy-connection-settings =
     .label = Paràmetres…
     .accesskey = P
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Duplica la paraula clau
+search-keyword-warning-bookmark = Heu triat una paraula clau que ja utilitza una adreça d'interès. Seleccioneu-ne una altra.
