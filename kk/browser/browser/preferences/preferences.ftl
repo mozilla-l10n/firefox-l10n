@@ -269,3 +269,10 @@ network-proxy-connection-learn-more = Көбірек білу
 network-proxy-connection-settings =
     .label = Баптау…
     .accesskey = а
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Қысқаша атау қазір қолдануда
+search-keyword-warning-bookmark = Сіз таңдаған қысқаша атауды қазір бетбелгілердің біреуі қолданады. Басқасын таңдаңыз.
