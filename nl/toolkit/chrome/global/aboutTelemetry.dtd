@@ -46,6 +46,6 @@
 <!ENTITY aboutTelemetry.rawPayloadSection "Onbewerkte nettolading">
 <!ENTITY aboutTelemetry.raw "Onbewerkte JSON">
 
-<!ENTITY aboutTelemetry.fullSqlWarning "NOOT: debugging van trage SQL is ingeschakeld. Volledige SQL-strings kunnen hieronder worden weergegeven, maar ze zullen niet bij Telemetry worden ingediend.">
+<!ENTITY aboutTelemetry.fullSqlWarning "NOOT: debugging van trage SQL is ingeschakeld. Volledige SQL-strings kunnen hieronder worden weergegeven, maar deze zullen niet bij Telemetry worden ingediend.">
 <!ENTITY aboutTelemetry.fetchStackSymbols "Functienamen voor stacks ophalen">
 <!ENTITY aboutTelemetry.hideStackSymbols "Onbewerkte stackgegevens tonen">
