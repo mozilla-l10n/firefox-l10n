@@ -277,5 +277,8 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-one-click-header = ერთ-წკაპიანი საძიებო სისტემები
+search-choose-engine-column =
+    .label = საძიებო სისტემა
 search-choose-keyword-column =
     .label = საკვანძო სიტყვა
