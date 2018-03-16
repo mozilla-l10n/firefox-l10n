@@ -114,3 +114,22 @@ browsing-use-smooth-scrolling =
 
 ## General Section - Proxy
 
+
+## Search Section
+
+search-suggestions-option =
+    .label = Neela batla ditshitshinyo
+    .accesskey = b
+search-restore-default =
+    .label = Busetsa Thulaganyetsoruri ya Dilaodisi kgolo Patlo
+    .accesskey = T
+search-remove-engine =
+    .label = Tlosa
+    .accesskey = T
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Lefokopatlo le Ntsifetse
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = O tlhophile lefokopatlo le ga jaana le dirisiwang ke "{ $name }". Tswêê-tswêê tlhopha le lengwe.
+search-keyword-warning-bookmark = O tlhophile lefokopatlo le ga jaana le dirisiwang ke letswaotsebe. Tswêê-tswêê tlhopha le lengwe.
