@@ -269,3 +269,10 @@ network-proxy-connection-learn-more = Ne saber mai
 network-proxy-connection-settings =
     .label = Paramètres
     .accesskey = e
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Doblon de mot clau
+search-keyword-warning-bookmark = Avètz causit un mot clau que ja es utilizat per un marcapaginas. Causissètz-ne un autre.
