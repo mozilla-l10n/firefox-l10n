@@ -267,3 +267,13 @@ network-proxy-title = Netzwerk-Proxy
 network-proxy-connection-settings =
     .label = Einstellungen…
     .accesskey = n
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Schlüsselwort duplizieren
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Sie haben ein Schlüsselwort ausgewählt, das bereits von "{ $name }" verwendet wird, bitte wählen Sie ein anderes.
+search-keyword-warning-bookmark = Sie haben ein Schlüsselwort ausgewählt, das bereits von einem Lesezeichen verwendet wird, bitte wählen Sie ein anderes.
