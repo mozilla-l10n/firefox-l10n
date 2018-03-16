@@ -276,3 +276,10 @@ network-proxy-connection-learn-more = Gouzout hiroc'h
 network-proxy-connection-settings =
     .label = Arventennoù…
     .accesskey = e
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Arredaoliñ ur ger alc'hwez
+search-keyword-warning-bookmark = Dibabet hoc'h eus ur ger alc'hwez war arver evit bremañ gant ur sined. Mar plij, diuzit unan all.
