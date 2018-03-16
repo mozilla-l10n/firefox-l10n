@@ -123,3 +123,10 @@ browsing-use-cursor-navigation =
 network-proxy-connection-settings =
     .label = Etegeka…
     .accesskey = t
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Ekigambo ekikulu Kiddiddwamu
+search-keyword-warning-bookmark = Olonze ekigambo ekikulu ekiri mu kukozesebwa akalambe. Bambi funayo ekirala.
