@@ -982,11 +982,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Redémarrer pour mettre à jour &brandShorterName;">
 
 <!ENTITY newTabControlled.message "Une extension a modifié la page qui s’affiche lorsque vous ouvrez un nouvel onglet. Vous pouvez restaurer vos paramètres si vous n’acceptez pas ces modifications.">
+
 <!ENTITY newTabControlled.header.message "La page Nouvel onglet a été modifiée.">
 <!ENTITY newTabControlled.keepButton.label "Conserver les modifications">
 <!ENTITY newTabControlled.keepButton.accesskey "C">
 <!ENTITY newTabControlled.restoreButton.label "Restaurer les paramètres">
 <!ENTITY newTabControlled.restoreButton.accesskey "R">
+
+<!ENTITY newTabControlled.disableButton.label "Désactiver l’extension">
+<!ENTITY newTabControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "Actions pour la page">
 <!ENTITY pageAction.addToUrlbar.label "Ajouter à la barre d’adresse">
