@@ -227,6 +227,7 @@ search-engine-default-header = Tilasu ceecijinay
 search-suggestions-option =
     .label = Ceeci honnandiyaney noo
     .accesskey = C
+search-suggestions-cant-show = Ceeci honnandiyaney ši cebe gorodoo zuu hunyaney ra zama war na { -brand-short-name } hanse a ma ši honga taariki kul.
 search-one-click-header = Cee-foo naaguyan ceecijinawey
 search-choose-engine-column =
     .label = Ceecijinay
