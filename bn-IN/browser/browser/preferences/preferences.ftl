@@ -264,3 +264,29 @@ network-proxy-title = নেটওয়ার্ক প্রক্সি
 network-proxy-connection-settings =
     .label = বৈশিষ্ট্যাবলী...
     .accesskey = ব
+
+## Search Section
+
+search-engine-default-header = ডিফল্ট সার্চ ইঞ্জিন
+search-suggestions-option =
+    .label = সার্চ সাজেশন প্রদান করুন
+    .accesskey = s
+search-suggestions-cant-show = অনুসন্ধানের পরামর্শগুলি লোকেশান বারে দেখানো হবেনা কারণ আপনি { -brand-short-name } কনফিগার করেছেন হিস্ট্রিতে মনে না রাখার জন্য।
+search-one-click-header = একক-ক্লিক সার্চ ইঞ্জিন
+search-choose-engine-column =
+    .label = সার্চ ইঞ্জিন
+search-choose-keyword-column =
+    .label = নির্দেশক শব্দ
+search-restore-default =
+    .label = ডিফল্ট সার্চ ইঞ্জিন রিস্টোর করুন
+    .accesskey = D
+search-remove-engine =
+    .label = মুছে ফেলুন
+    .accesskey = R
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = নির্দেশক শব্দ উপস্থিত রয়েছে
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = "{ $name }" দ্বারা বর্তমানে ব্যবহৃত একটি নির্দেশক শব্দ নির্বাচন করা হয়েছে। অনুগ্রহ করে একটি পৃথক নির্দেশক শব্দ নির্বাচন করুন।
+search-keyword-warning-bookmark = বর্তমানে একটি বুকমার্ক দ্বারা ব্যবহৃত নির্দেশক শব্দ নির্বাচন করা হয়েছে। অনুগ্রহ করে একটি পৃথক নির্দেশক শব্দ নির্বাচন করুন।
