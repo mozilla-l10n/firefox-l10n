@@ -60,8 +60,8 @@ startup-blank-page =
 use-current-pages =
     .label =
         { $tabCount ->
-            [1]  मोजुदा पृष्ठक प्रयोग  करू 
-           *[other]  मोजुदा पृष्ठक प्रयोग  करू 
+            [1] मोजुदा पृष्ठक प्रयोग  करू 
+           *[other] मोजुदा पृष्ठक प्रयोग  करू 
         }
     .accesskey = C
 choose-bookmark =
@@ -147,3 +147,10 @@ browsing-use-cursor-navigation =
 network-proxy-connection-settings =
     .label = सेटिंग…
     .accesskey = e
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = बीजशब्द अनुकृति
+search-keyword-warning-bookmark = अहाँ एकटाटा बीजशब्द चुनने छी जे अखन पुस्तकचिह्नक द्वारा प्रयोग मे अछि. कृप्या दूसरा चुनू.
