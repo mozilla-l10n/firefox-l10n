@@ -279,6 +279,7 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Barrenn glask
 search-engine-default-header = Keflusker enklask dre ziouer
 search-engine-default-desc = Dibab al lusker klask dre ziouer da arverañ er varrenn chomlec'hioù hag er varrenn glask.
 search-suggestions-option =
