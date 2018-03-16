@@ -271,3 +271,4 @@ network-proxy-connection-settings =
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = คำแทนนี้ซ้ำกับคำแทนอื่น
+search-keyword-warning-bookmark = คำแทนที่คุณเลือกซ้ำกับคำแทนที่ถูกใช้โดยที่คั่นหน้า โปรดเลือกคำแทนอื่น
