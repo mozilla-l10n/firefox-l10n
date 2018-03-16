@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Jälitamisvastane kaitse">
-<!ENTITY  trackingProtection3.description      "Jälitamisvastane kaitse blokib jälitajad, kes koguvad andmeid sinu veebilehitsemise kohta üle mitmete veebilehtede.">
+<!ENTITY  trackingProtection3.description      "Jälitamisvastane kaitse blokib jälitajad, kes koguvad andmeid sinu veebilehitsemise kohta üle mitme veebilehe.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "Teadaolevad jälitajad blokitakse">
 <!ENTITY  trackingProtectionAlways.label       "alati">
 <!ENTITY  trackingProtectionAlways.accesskey   "a">
@@ -120,7 +120,7 @@
 <!ENTITY  browserContainersSettings.label        "Sätted…">
 <!ENTITY  browserContainersSettings.accesskey    "d">
 
-<!ENTITY  a11yPrivacy.checkbox.label     "Hõlpsusteenustel takistatakse ligipääs sinu brauserile">
+<!ENTITY  a11yPrivacy.checkbox.label     "Hõlpsusteenustel ei lubata sinu brauserile ligi pääsda">
 <!ENTITY  a11yPrivacy.checkbox.accesskey "H">
 <!ENTITY  a11yPrivacy.learnmore.label    "Rohkem teavet">
 <!ENTITY enableSafeBrowsingLearnMore.label "Rohkem teavet">
