@@ -273,6 +273,22 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = Predvolený vyhľadávací modul
+search-suggestions-option =
+    .label = Zobrazovať návrhy vyhľadávania
+    .accesskey = Z
+search-suggestions-cant-show = Návrhy vyhľadávania nebudú zobrazené vo výsledkoch panela s adresou, pretože ste { -brand-short-name } nastavili tak, aby si nepamätal históriu.
+search-one-click-header = Vyhľadávacie moduly na jedno kliknutie
+search-choose-engine-column =
+    .label = Vyhľadávací modul
+search-choose-keyword-column =
+    .label = Kľúčové slovo
+search-restore-default =
+    .label = Obnoviť predvolené vyhľadávacie moduly
+    .accesskey = O
+search-remove-engine =
+    .label = Odstrániť
+    .accesskey = d
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Duplicitné kľúčové slovo
