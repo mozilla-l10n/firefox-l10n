@@ -124,3 +124,10 @@ browsing-use-cursor-navigation =
 network-proxy-connection-settings =
     .label = Nhyehyɛe…
     .accesskey = y
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = San kyerɛw Kasafua-titiriw
+search-keyword-warning-bookmark = Wo apaw kasafua-titiriw a bukmaak de redi dwuma seiseiara. Yɛsrɛ wo sɛ paw foforo.
