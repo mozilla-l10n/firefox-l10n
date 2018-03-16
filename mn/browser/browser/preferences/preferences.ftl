@@ -112,7 +112,12 @@ browsing-use-cursor-navigation =
 
 ## Search Section
 
+search-choose-keyword-column =
+    .label = Түлхүүр үг
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Түлхүүр үгийг хувил
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Таны сонгосон үг одоогоор "{ $name }"-д хэрэглэгдэж байна. Өөр үг сонгоно уу.
 search-keyword-warning-bookmark = Та одоогоор хаяганд хэрэглэгдэж байгаа үг сонгосон байна. Өөр үг сонгоно уу.
