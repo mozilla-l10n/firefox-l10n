@@ -277,7 +277,32 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = Motor de cerca per defecte
+search-engine-default-desc = Trieu el motor de cerca per defecte que s'utilitzarà en la barra d'adreces i de cerca.
+search-suggestions-option =
+    .label = Mostra suggeriments de cerca
+    .accesskey = s
+search-show-suggestions-url-bar-option =
+    .label = Mostra suggeriments de cerca als resultats de la barra d'adreces
+    .accesskey = l
+search-suggestions-cant-show = No es mostraran suggeriments de cerca als resultats de la barra d'ubicació perquè heu configurat el { -brand-short-name } per tal que no recordi mai l'historial.
+search-one-click-header = Motors de cerca amb un sol clic
+search-one-click-desc = Trieu els motors de cerca alternatius que es mostraran sota la barra d'adreces i de cerca en començar a escriure una paraula.
+search-choose-engine-column =
+    .label = Motor de cerca
+search-choose-keyword-column =
+    .label = Paraula clau
+search-restore-default =
+    .label = Restaura els motors de cerca per defecte
+    .accesskey = R
+search-remove-engine =
+    .label = Elimina
+    .accesskey = E
+search-find-more-link = Afegiu més motors de cerca
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Duplica la paraula clau
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Heu triat una paraula clau que ja utilitza «{ $name }». Seleccioneu-ne una altra.
 search-keyword-warning-bookmark = Heu triat una paraula clau que ja utilitza una adreça d'interès. Seleccioneu-ne una altra.
