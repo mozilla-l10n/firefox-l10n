@@ -114,3 +114,13 @@ browsing-use-cursor-navigation =
 network-proxy-connection-settings =
     .label = Nastawë…
     .accesskey = N
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Kluczowé słowò ju je
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Wëbróné kluczowé słowò je ju w ùżëcym przez przezérnik "{ $name }". Wëbierzë jinszé.
+search-keyword-warning-bookmark = Wëbróné kluczowé słowò je ju w ùżëcym przez załóżkã "%S". Wëbierzë jinszé.
