@@ -277,6 +277,20 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = Alapértelmezett keresőszolgáltatás
+search-suggestions-option =
+    .label = Keresési javaslatok
+    .accesskey = K
+search-choose-engine-column =
+    .label = Keresőszolgáltatás
+search-choose-keyword-column =
+    .label = Kulcsszó
+search-restore-default =
+    .label = Alapértelmezett keresőszolgáltatások visszaállítása
+    .accesskey = v
+search-remove-engine =
+    .label = Eltávolítás
+    .accesskey = E
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Duplikált kulcsszó
