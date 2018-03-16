@@ -158,6 +158,29 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = Основен пребарувач
+search-engine-default-desc = Изберете го основниот пребарувач кој ќе се користи во лентата за адреси и пребарување.
+search-suggestions-option =
+    .label = Прикажувај предлог-пребарувања
+    .accesskey = s
+search-suggestions-cant-show = Предлог-пребарувањата нема да се прикажуваат во резултатите во адресната лента бидејќи { -brand-short-name } е прилагоден никогаш да не ја снима историјата на прелистување.
+search-one-click-header = Пребарувачи на еден клик
+search-one-click-desc = Изберете ги алтернативните пребарувачи кои се прикажуваат под лентата за адреси и пребарување при внес на нов клучен збор.
+search-choose-engine-column =
+    .label = Пребарувач
+search-choose-keyword-column =
+    .label = Клучен збор
+search-restore-default =
+    .label = Врати ги основните пербарувачи
+    .accesskey = d
+search-remove-engine =
+    .label = Избриши
+    .accesskey = r
+search-find-more-link = Пронајди уште пребарувачи
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Дупликат клучен збор
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Избравте клучен збор што моментално се користи во „{ $name }“. Изберете друг.
+search-keyword-warning-bookmark = Избравте клучен збор што моментално се користи за обележувач. Изберете друг.
