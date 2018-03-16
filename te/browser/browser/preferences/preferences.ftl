@@ -261,3 +261,21 @@ network-proxy-connection-learn-more = ఇంకా తెలుసుకోం�
 network-proxy-connection-settings =
     .label = అమరికలు…
     .accesskey = e
+
+## Search Section
+
+search-engine-default-header = అప్రమేయ శోధన యంత్రం
+search-suggestions-option =
+    .label = వెతుకుడు సలహాలను చూపించు
+    .accesskey = s
+search-one-click-header = ఒక్క-నొక్కు శోధన యంత్రాలు
+search-choose-engine-column =
+    .label = శోధన యంత్రం
+search-choose-keyword-column =
+    .label = కీపదం
+search-restore-default =
+    .label = అప్రమేయ శోధన యంత్రాలను పునరుద్ధరించు
+    .accesskey = D
+search-remove-engine =
+    .label = తీసివేయి
+    .accesskey = R
