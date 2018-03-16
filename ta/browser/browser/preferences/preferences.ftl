@@ -274,3 +274,10 @@ network-proxy-connection-learn-more = மேலும் அறிய
 network-proxy-connection-settings =
     .label = அமைவுகள்…
     .accesskey = e
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = இரட்டை முக்கிய சொல்
+search-keyword-warning-bookmark = நீங்கள் தேர்ந்தெடுத்த ஒரு முக்கியச்சொல் தற்போது ஒரு புத்தகக்குறியால் பயன்படுத்தப்படுகிறது. வேறொன்றை தேர்ந்தெடுக்கவும்.
