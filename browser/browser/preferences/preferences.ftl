@@ -269,6 +269,12 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = Enjin Carian Piawai
+search-suggestions-option =
+    .label = Sediakan cadangan carian
+    .accesskey = s
+search-suggestions-cant-show = Cadangan carian tidak akan dipaparkan dalam keputusan bar lokasi kerana anda telah mengkonfigurasi { -brand-short-name } untuk tidak mengingati sejarah.
+search-one-click-header = Enjin carian klik-tunggal
 search-choose-engine-column =
     .label = Enjin Carian
 search-choose-keyword-column =
