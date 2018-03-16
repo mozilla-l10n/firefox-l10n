@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "Lisade haldur">
 
-<!ENTITY search.placeholder                   "Otsi kõiki lisasid">
+<!ENTITY search.placeholder2                  "Otsi saidilt addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Otsi">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -14,7 +14,6 @@
 <!ENTITY listEmpty.availableUpdates.label     "Uuendusi ei leitud">
 <!ENTITY listEmpty.recentUpdates.label        "Hiljuti pole uuendatud ühtki lisa">
 <!ENTITY listEmpty.findUpdates.label          "Kontrolli uuendusi">
-<!ENTITY listEmpty.search.label               "Ühtegi sobivat lisa ei leitud">
 <!ENTITY listEmpty.button.label               "Rohkem teavet lisade kohta">
 <!ENTITY installAddonFromFile.label           "Paigalda lisa failist…">
 <!ENTITY installAddonFromFile.accesskey       "P">
@@ -23,8 +22,6 @@
 <!ENTITY getThemes.description                "Kas soovid oma brauseri kodusemaks muuta?">
 <!ENTITY getThemes.learnMore                  "Vali tuhandete teemade seast.">
 
-<!ENTITY cmd.back.tooltip                     "Mine üks leht tagasi">
-<!ENTITY cmd.forward.tooltip                  "Mine üks leht edasi">
 
 <!ENTITY showUnsignedExtensions.button.label  "Mõnda laiendust polnud võimalik verifitseerida">
 <!ENTITY showAllExtensions.button.label       "Kuva kõiki laiendusi">
@@ -41,7 +38,6 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "Luba lisade uuendamise turvalisuse kontrollimine">
 
 <!-- categories / views -->
-<!ENTITY view.search.label                    "Otsing">
 <!ENTITY view.discover.label                  "Hangi lisasid">
 <!ENTITY view.recentUpdates.label             "Hiljutised uuendused">
 <!ENTITY view.availableUpdates.label          "Saadaolevad uuendused">
@@ -174,16 +170,6 @@
 <!ENTITY sort.name.tooltip                    "Sordi nime järgi">
 <!ENTITY sort.dateUpdated.label               "Viimati uuendatud">
 <!ENTITY sort.dateUpdated.tooltip             "Sordi uuendatuse järgi">
-<!ENTITY sort.relevance.label                 "Täpsus">
-<!ENTITY sort.relevance.tooltip               "Sordi täpsuse järgi">
-<!ENTITY sort.price.label                     "Hind">
-<!ENTITY sort.price.tooltip                   "Sordi hinna järgi">
-
-<!ENTITY search.filter2.label                 "Otsitakse:">
-<!ENTITY search.filter2.installed.label       "Paigaldatud lisade seast">
-<!ENTITY search.filter2.installed.tooltip     "Kuva paigaldatud lisasid">
-<!ENTITY search.filter2.available.label       "Saadaolevate lisade seast">
-<!ENTITY search.filter2.available.tooltip     "Kuva paigaldatavaid lisasid">
 
 <!ENTITY addon.homepage                       "Koduleht">
 <!ENTITY addon.details.label                  "Veel">
@@ -258,7 +244,6 @@
 <!ENTITY pluginDeprecation.description "Tunned millestki puudust? Mõned pluginad ei ole enam &brandShortName;i poolt toetatud.">
 <!ENTITY pluginDeprecation.learnMore "Rohkem teavet.">
 
-<!ENTITY legacyWarning.description "Tunned millestki puudust? Mõned laiendused pole enam &brandShortName;i poolt toetatud.">
 <!ENTITY legacyWarning.showLegacy "Kuva aegunud laiendusi">
 <!ENTITY legacyExtensions.title "Aegunud laiendused">
 <!ENTITY legacyExtensions.description "Need laiendused ei vasta tänapäevastele &brandShortName;i standarditele ja need keelati.">
