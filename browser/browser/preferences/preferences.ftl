@@ -285,7 +285,25 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = Peiriant Chwilio Rhagosodedig
+search-suggestions-option =
+    .label = Darparu awgrymiadau chwilio
+    .accesskey = c
+search-suggestions-cant-show = Ni fydd awgrymiadau chwilio'n cael eu dangos yn y bar lleoliad gan eich bod wedi ffurfweddu { -brand-short-name } i byth cofio hanes.
+search-choose-engine-column =
+    .label = Peiriannau Chwilio
+search-choose-keyword-column =
+    .label = Allweddair
+search-restore-default =
+    .label = Adfer Peiriannau Chwilio Rhagosodedig
+    .accesskey = A
+search-remove-engine =
+    .label = Tynnu
+    .accesskey = T
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Allweddair Dyblyg
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Rydych wedi defnyddio allweddair sy'n cael ei ddefnyddio gan "{ $name }". Dewiswch un arall.
 search-keyword-warning-bookmark = Rydych wedi defnyddio allweddair sy'n cael ei ddefnyddio gan nod tudalen. Dewiswch un arall.
