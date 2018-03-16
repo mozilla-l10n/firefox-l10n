@@ -273,9 +273,16 @@ network-proxy-connection-settings =
 ## Search Section
 
 search-engine-default-header = Motor de cerca per defaut
+search-engine-default-desc = Causir lo motor de recèrca per defaut per d'utilizar dins las barras d'adreça e de recèrca.
 search-suggestions-option =
     .label = Afichar de suggestions de recèrca
     .accesskey = A
+search-show-suggestions-url-bar-option =
+    .label = Afichar las suggestions dins los resultats de la barra d'adreça
+    .accesskey = l
+search-suggestions-cant-show = Recercar las suggestions que son pas afichadas dins los resultats de la barra d'adreça qu'avètz configurat { -brand-short-name } per pas jamai servar l'istoric.
+search-one-click-header = Motor de recèrca en un clic
+search-one-click-desc = Causir de motors de recerca altenatius qu'apareisson jos las barras d'adreça e de recèrca quand sètz a picar un mot.
 search-choose-engine-column =
     .label = Motor de recèrca
 search-choose-keyword-column =
