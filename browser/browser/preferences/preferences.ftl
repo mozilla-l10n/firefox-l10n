@@ -272,6 +272,11 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = શોધ બાર
+search-bar-hidden =
+    .label = શોધ અને સંશોધક માટે સરનામાં બારનો ઉપયોગ કરો
+search-bar-shown =
+    .label = ટૂલબારમાં શોધ બાર ઉમેરો
 search-engine-default-header = મૂળભૂત શોધ એંજીન
 search-engine-default-desc = સરનામાં બાર અને શોધ બારમાં વાપરવા માટે ડિફૉલ્ટ શોધ એંજિન પસંદ કરો.
 search-suggestions-option =
