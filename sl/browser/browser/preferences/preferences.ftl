@@ -276,6 +276,11 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Iskalna vrstica
+search-bar-hidden =
+    .label = Za iskanje in brskanje uporabi naslovno vrstico
+search-bar-shown =
+    .label = Dodaj iskalno vrstico v orodno vrstico
 search-engine-default-header = Privzet iskalnik
 search-engine-default-desc = Izberite privzeti iskalnik, ki ga želite uporabiti v naslovni in iskalni vrstici.
 search-suggestions-option =
