@@ -243,7 +243,12 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-choose-keyword-column =
+    .label = သော့ချက် စာလုံး
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = သော့ချက် စာလုံး ပုံတူပွားပါ
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = လောလောဆယ် "{ $name }" သုံးစွဲနေတဲ့ သော့ချက်တခုကို သင် ရွေးထားပြီးပြီ။ အခြားကို ရွေးပါ။
 search-keyword-warning-bookmark = လောလောဆယ် မှတ်သားချက်တခုက သုံးစွဲနေတဲ့ သော့ချက် တခုကို သင်​ ရွေးထားတယ်။ အခြားကို ရွေးပါ။
