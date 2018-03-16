@@ -274,6 +274,21 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = Noklusētais meklētājs
+search-suggestions-option =
+    .label = Piedāvāt meklēšanas ieteikumus
+    .accesskey = s
+search-one-click-header = Viena klikšķa meklētāji
+search-choose-engine-column =
+    .label = Meklētāji
+search-choose-keyword-column =
+    .label = Atslēgas vārds
+search-restore-default =
+    .label = Atjaunot sākotnējos meklētājus
+    .accesskey = t
+search-remove-engine =
+    .label = Aizvākt
+    .accesskey = z
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Šāds atslēgas vārds jau eksistē
