@@ -274,3 +274,9 @@ network-proxy-connection-learn-more = अधिक जानें
 network-proxy-connection-settings =
     .label = सेटिंग…
     .accesskey = e
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = बीजशब्द अनुकृति
