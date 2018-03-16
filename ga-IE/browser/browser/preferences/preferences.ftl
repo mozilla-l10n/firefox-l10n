@@ -264,9 +264,16 @@ network-proxy-connection-settings =
 ## Search Section
 
 search-engine-default-header = Inneall Cuardaigh Réamhshocraithe
+search-engine-default-desc = Roghnaigh inneall cuardaigh réamhshocraithe le húsáid sa bharra suímh agus sa bharra cuardaigh.
 search-suggestions-option =
     .label = Tabhair moltaí cuardaigh dom
     .accesskey = c
+search-show-suggestions-url-bar-option =
+    .label = Taispeáin moltaí cuardaigh i dtorthaí sa mbarra suímh
+    .accesskey = s
+search-suggestions-cant-show = Ní thaispeánfar moltaí cuardaigh sa mbarra suímh toisc go ndúirt tú le { -brand-short-name } gan do stair bhrabhsála a mheabhrú.
+search-one-click-header = Innill Chuardaigh Aonchlic
+search-one-click-desc = Roghnaigh innill chuardaigh mhalartacha le taispeáint faoin bharra suímh agus faoin bharra cuardaigh nuair a thosaíonn tú ag clóscríobh.
 search-choose-engine-column =
     .label = Inneall Cuardaigh
 search-choose-keyword-column =
@@ -277,7 +284,11 @@ search-restore-default =
 search-remove-engine =
     .label = Bain
     .accesskey = B
+search-find-more-link = Tuilleadh inneall cuardaigh
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Eochairfhocail Dhúblach
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Roghnaigh tú eochairfhocal atá in úsáid faoi láthair ag “{ $name }”. Roghnaigh ceann eile le do thoil.
 search-keyword-warning-bookmark = Roghnaigh tú eochairfhocal atá in úsáid faoi láthair ag leabharmharc. Roghnaigh ceann eile le do thoil.
