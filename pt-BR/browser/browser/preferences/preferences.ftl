@@ -273,6 +273,7 @@ network-proxy-connection-settings =
 ## Search Section
 
 search-engine-default-header = Mecanismo de pesquisa padrão
+search-engine-default-desc = Escolha o mecanismo de pesquisa padrão para usar na barra de endereços e na barra de pesquisa.
 search-suggestions-option =
     .label = Sugestões de pesquisa
     .accesskey = S
@@ -285,6 +286,7 @@ search-show-suggestions-above-history-option =
     .label = Mostrar sugestões de pesquisa antes do histórico de navegação nos resultados da barra de endereço
 search-suggestions-cant-show = As sugestões de pesquisa não serão mostradas nos resultados da barra de endereço, porque você configurou o { -brand-short-name } para nunca lembrar o histórico.
 search-one-click-header = Mecanismos de pesquisa em um clique
+search-one-click-desc = Escolha os mecanismos de pesquisa alternativos que aparecem abaixo da barra de endereços e da barra de pesquisa quando você começa a inserir uma palavra-chave.
 search-choose-engine-column =
     .label = Mecanismo de pesquisa
 search-choose-keyword-column =
@@ -295,6 +297,7 @@ search-restore-default =
 search-remove-engine =
     .label = Remover
     .accesskey = R
+search-find-more-link = Procurar mais mecanismos de pesquisa
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Palavra-chave duplicada
