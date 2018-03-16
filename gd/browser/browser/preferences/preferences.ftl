@@ -281,6 +281,11 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Bàr nan lorg
+search-bar-hidden =
+    .label = Cleachd bàr an t-seòlaidh airson lorg is seòladaireachd a dhèanamh
+search-bar-shown =
+    .label = Cuir bàr nan lorg ris a’ bhàr-inneal
 search-engine-default-header = An t-einnsean-luirg bunaiteach
 search-engine-default-desc = Tagh an t-einnsean-luirg bunaiteach a thèid a chleachdadh ann am bàr an t-seòlaidh is bàr nan lorg.
 search-suggestions-option =
@@ -289,6 +294,13 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Seall molaidhean luirg ann an toraidhean bàr an t-seòlaidh
     .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Seall molaidhean luirg air thoiseach air an eachdraidh bhrabhsaidh ann an toraidhean bàr an t-seòlaidh
 search-suggestions-cant-show = Cha dèid molaidhean luirg a shealltainn ann an toraidhean bàr an t-seòlaidh a chionn ’s gun do dh’iarr thu air { -brand-short-name } gun a bhith a’ cumail na h-eachdraidh sa chuimhne.
 search-one-click-header = Einnseanan-luirg aon-bhriogaidh
 search-one-click-desc = Tagh na h-einnseanan-luirg eile a nochdas fo bhàr an t-seòlaidh is bàr nan lorg nuair a thòisicheas tu air facal-luirg a chur a-steach.
