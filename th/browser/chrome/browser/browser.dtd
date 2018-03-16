@@ -432,6 +432,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "ค้นหาหรือป้อนที่อยู่">
+<!ENTITY urlbar.placeholder3          "ป้อนคำค้นหาและที่อยู่ที่นี่">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "ส่วนขยาย:">
@@ -974,8 +975,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "ม">
 <!ENTITY updateRestart.panelUI.label2 "เริ่มการทำงานใหม่เพื่ออัปเดต &brandShorterName;">
 
+
 <!ENTITY newTabControlled.restoreButton.label "เรียกคืนการตั้งค่า">
 <!ENTITY newTabControlled.restoreButton.accesskey "ร">
+
+<!ENTITY newTabControlled.disableButton.label "ปิดใช้งานส่วนขยาย">
+<!ENTITY newTabControlled.disableButton.accesskey "ป">
 
 <!ENTITY pageActionButton.tooltip "การกระทำของหน้า">
 <!ENTITY pageAction.addToUrlbar.label "เพิ่มไปยังแถบที่อยู่">
