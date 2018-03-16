@@ -279,6 +279,33 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Панель пошуку
+search-bar-hidden =
+    .label = Використовувати панель адреси для пошуку та навігації
+search-bar-shown =
+    .label = Додати панель пошуку на панель інструментів
+search-engine-default-header = Типовий засіб пошуку
+search-engine-default-desc = Оберіть типовий пошуковий засіб для використання в панелях адреси і пошуку.
+search-suggestions-option =
+    .label = Показувати пошукові пропозиції
+    .accesskey = і
+search-show-suggestions-url-bar-option =
+    .label = Показувати пошукові пропозиції в результатах панелі адреси
+    .accesskey = ш
+search-suggestions-cant-show = Пошукові пропозиції не будуть показуватись в панелі адреси, тому що ви налаштували { -brand-short-name } ніколи не запам'ятовувати історію.
+search-one-click-header = Засоби пошуку в один клік
+search-one-click-desc = Оберіть альтернативні пошукові засоби, що з'являються під рядками адреси і пошуку, коли ви починаєте вводити запит.
+search-choose-engine-column =
+    .label = Засіб пошуку
+search-choose-keyword-column =
+    .label = Скорочення
+search-restore-default =
+    .label = Відновити типові засоби пошуку
+    .accesskey = с
+search-remove-engine =
+    .label = Прибрати
+    .accesskey = б
+search-find-more-link = Знайти інші засоби пошуку
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Це скорочення вже використовується
