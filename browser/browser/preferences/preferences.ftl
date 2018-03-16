@@ -277,6 +277,11 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Barra de búsqueda
+search-bar-hidden =
+    .label = Usar la barra de direcciones para buscar y navegar
+search-bar-shown =
+    .label = Agregar barra de búsqueda a la barra de herramientas
 search-engine-default-header = Buscador predeterminado
 search-engine-default-desc = Seleccionar el buscador predeterminado para usar en la barra de direcciones y la barra de búsqueda.
 search-suggestions-option =
