@@ -116,3 +116,15 @@ browsing-use-cursor-navigation =
 network-proxy-connection-settings =
     .label = Parametris…
     .accesskey = P
+
+## Search Section
+
+search-choose-keyword-column =
+    .label = Peraule clâf
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Peraule clâf duplicade
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Tu âs sielzût une peraule clâf za doprade par "{ $name }". Sielç une altre.
+search-keyword-warning-bookmark = Tu âs sielzût une peraule clâf za doprade par un segnelibri. Sielç une altre.
