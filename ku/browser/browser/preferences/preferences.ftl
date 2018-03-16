@@ -125,7 +125,15 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-choose-keyword-column =
+    .label = Peyva Kilît
+search-remove-engine =
+    .label = Rake
+    .accesskey = R
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Peyva Kilît Zêde Bike
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Te peyveke kilît ku ji hêla "{ $name }"yê ve tê bikaranîn hilbijartiye. Ji kerema xwe re peyveke din hilbijêre.
 search-keyword-warning-bookmark = Te peyveke kilît ku ji hêla bijareyê ve tê bikaranîn hilbijartiye. Ji kerema xwe re peyveke din hilbijêre.
