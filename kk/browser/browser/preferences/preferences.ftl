@@ -272,6 +272,11 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Іздеу жолағы
+search-bar-hidden =
+    .label = Іздеу және навигация үшін адрестік жолақты қолдану
+search-bar-shown =
+    .label = Құралдар панеліне іздеу панелін қосу
 search-engine-default-header = Негізгі іздеу жүйесі
 search-engine-default-desc = Адрестік жолақ және іздеу өрісі үшін қолданылатын негізгі іздеу жүйесін таңдау.
 search-suggestions-option =
@@ -280,6 +285,13 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Адрестер жолағы нәтижелерінде іздеу ұсыныстарын көрсету
     .accesskey = р
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Адрестік жолақ нәтижелерінде іздеу ұсыныстарын шолу тарихының алдында көрсету
 search-suggestions-cant-show = Орналасу жолағынан іздеу нәтижелерінде іздеу ұсыныстары көрсетілмейді, өйткені сіз { -brand-short-name } өнімін тарихты есте сақтамайтындай етіп баптадыңыз.
 search-one-click-header = Бірлік шертумен іздеу қызметтері
 search-one-click-desc = Сіз кілттік сөзді енгізген кезде адрестік жолағы және іздеу өрістерінің астында көрсетілетін қосымша іздеу жүйелерін таңдаңыз.
