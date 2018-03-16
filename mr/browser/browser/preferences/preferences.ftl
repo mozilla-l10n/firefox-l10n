@@ -271,6 +271,9 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = शोध पट्टी
+search-bar-shown =
+    .label = साधनपट्टीत शोध पट्टी जोडा
 search-engine-default-header = पूर्वनिर्धारित शोध इंजिन
 search-engine-default-desc = पत्ता पट्टी आणि शोध पट्टी मध्ये वापरण्यासाठी पूर्वनिर्धारित शोध इंजिन निवडा
 search-suggestions-option =
