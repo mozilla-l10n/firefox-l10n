@@ -172,12 +172,24 @@
 <!ENTITY calendar.context.copyevent.accesskey         "K">
 <!ENTITY calendar.context.pasteevent.label            "Prilepi">
 <!ENTITY calendar.context.pasteevent.accesskey        "P">
-<!ENTITY calendar.context.button.label                "Današnji dan" >
-<!ENTITY calendar.context.button.accesskey            "D" >
-<!ENTITY calendar.context.attendance.menu.label       "Prisotnost" >
-<!ENTITY calendar.context.attendance.menu.accesskey   "P" >
-<!ENTITY calendar.context.attendance.occurrence.label "Ta ponovitev" >
+<!ENTITY calendar.context.button.label                "Današnji dan">
+<!ENTITY calendar.context.button.accesskey            "D">
+
+<!ENTITY calendar.context.attendance.menu.label                 "Prisotnost">
+<!ENTITY calendar.context.attendance.menu.accesskey             "P">
+<!ENTITY calendar.context.attendance.occurrence.label           "Ta ponovitev">
 <!ENTITY calendar.context.attendance.all.label        "Vse ponovitve" >
+
+
+<!ENTITY calendar.context.attendance.occ.accepted.label         "Sprejeto">
+<!ENTITY calendar.context.attendance.occ.declined.label         "Zavrnjeno">
+<!ENTITY calendar.context.attendance.occ.inprogress.label       "V teku">
+<!ENTITY calendar.context.attendance.occ.completed.label        "Dokončano">
+
+<!ENTITY calendar.context.attendance.all.accepted.label         "Sprejeto">
+<!ENTITY calendar.context.attendance.all.declined.label         "Zavrnjeno">
+<!ENTITY calendar.context.attendance.all.inprogress.label       "V teku">
+<!ENTITY calendar.context.attendance.all.completed.label        "Dokončano">
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Napredek">
