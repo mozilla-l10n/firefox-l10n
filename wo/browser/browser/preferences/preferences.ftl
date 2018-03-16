@@ -119,3 +119,13 @@ browsing-use-cursor-navigation =
 network-proxy-connection-settings =
     .label = Parameetar…
     .accesskey = P
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Caabi baat bi dafa seex
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Tànn nga caabi baat bu « { $name } » di jëfandikoo, tànnal beneen.
+search-keyword-warning-bookmark = Tànn nga caabi baat bu benn mandarga xët di jëfandikoo, tànnal beneen.
