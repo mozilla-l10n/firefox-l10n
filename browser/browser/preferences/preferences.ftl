@@ -278,16 +278,38 @@ network-proxy-connection-settings =
 ## Search Section
 
 search-engine-default-header = 默认搜索引擎
+search-engine-default-desc = 选择在地址栏和搜索栏中搜索时默认使用的搜索引擎。
 search-suggestions-option =
     .label = 提供搜索建议
     .accesskey = s
+search-show-suggestions-url-bar-option =
+    .label = 在地址栏结果中显示搜索建议
+    .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = 在地址栏显示的结果中，将搜索建议显示在浏览历史上方
 search-suggestions-cant-show = 由于您已经设置 { -brand-short-name } 不要记住浏览历史，地址栏中将不会显示搜索建议。
 search-one-click-header = 快捷搜索引擎列表
+search-one-click-desc = 请选择在地址栏和搜索栏输入关键词时，您希望显示在下方的其他可选用的搜索引擎。
 search-choose-engine-column =
     .label = 搜索引擎
+search-choose-keyword-column =
+    .label = 关键词
 search-restore-default =
     .label = 恢复默认搜索引擎
     .accesskey = d
 search-remove-engine =
     .label = 移除
     .accesskey = r
+search-find-more-link = 寻找更多搜索引擎
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = 关键词重复
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = 您选择的关键词已用于“{ $name }”，请换一个。
+search-keyword-warning-bookmark = 您选择的关键词已用于某个书签，请换一个。
