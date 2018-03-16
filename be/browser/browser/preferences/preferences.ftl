@@ -275,10 +275,18 @@ network-proxy-connection-settings =
 ## Search Section
 
 search-engine-default-header = Прадвызначаны пашукавік
+search-suggestions-option =
+    .label = Паказваць пошукавыя прапановы
+    .accesskey = ы
+search-suggestions-cant-show = Пошукавыя прапановы у панэлі адрасу паказвацца не будуць, бо вы наладзілі { -brand-short-name } ніколі не запамінаць гісторыю.
+search-one-click-header = Пашукавікі ў адну пстрычку
 search-choose-engine-column =
     .label = Пашукавік
 search-choose-keyword-column =
     .label = Ключавое слова
+search-restore-default =
+    .label = Аднавіць прадвызначаны набор пашукавікоў
+    .accesskey = в
 search-remove-engine =
     .label = Выдаліць
     .accesskey = д
