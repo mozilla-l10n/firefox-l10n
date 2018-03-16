@@ -272,7 +272,32 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = Негізгі іздеу жүйесі
+search-engine-default-desc = Адрестік жолақ және іздеу өрісі үшін қолданылатын негізгі іздеу жүйесін таңдау.
+search-suggestions-option =
+    .label = Іздеу ұсыныстарын көрсету
+    .accesskey = с
+search-show-suggestions-url-bar-option =
+    .label = Адрестер жолағы нәтижелерінде іздеу ұсыныстарын көрсету
+    .accesskey = р
+search-suggestions-cant-show = Орналасу жолағынан іздеу нәтижелерінде іздеу ұсыныстары көрсетілмейді, өйткені сіз { -brand-short-name } өнімін тарихты есте сақтамайтындай етіп баптадыңыз.
+search-one-click-header = Бірлік шертумен іздеу қызметтері
+search-one-click-desc = Сіз кілттік сөзді енгізген кезде адрестік жолағы және іздеу өрістерінің астында көрсетілетін қосымша іздеу жүйелерін таңдаңыз.
+search-choose-engine-column =
+    .label = Іздеу жүйесі
+search-choose-keyword-column =
+    .label = Кілтсөз
+search-restore-default =
+    .label = Бастапқы іздеу жүйелерін қалпына келтіру
+    .accesskey = д
+search-remove-engine =
+    .label = Өшіру
+    .accesskey = ш
+search-find-more-link = Көбірек іздеу қызметтерін қосу
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Қысқаша атау қазір қолдануда
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Сіз таңдаған қысқаша атау қазір "{ $name }" қолдануда. Басқасын таңдаңыз.
 search-keyword-warning-bookmark = Сіз таңдаған қысқаша атауды қазір бетбелгілердің біреуі қолданады. Басқасын таңдаңыз.
