@@ -150,7 +150,25 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = तयशुदा खोज इंजिन
+search-suggestions-option =
+    .label = खोज सुझाव प्रदान करू
+    .accesskey = s
+search-suggestions-cant-show = खोज सुझाव स्थान पट्टी मे देखाएल नहि जाएत किएक अहाँ { -brand-short-name } केँकहियो इतिहास याद नहि राखब कलेल कॉन्फ़िगर कएने छी.
+search-choose-engine-column =
+    .label = खोज इंजन
+search-choose-keyword-column =
+    .label = बीजशब्द
+search-restore-default =
+    .label = तयशुदा सर्च इंजन पुनर्स्थापित करू (D)
+    .accesskey = D
+search-remove-engine =
+    .label = हटाउ
+    .accesskey = R
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = बीजशब्द अनुकृति
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = अहाँ एकटा बीजशब्द चुनने छी जे अखन "{ $name }" क द्वारा प्रयोग मे अछि . कृप्या दूसरा चुनू.
 search-keyword-warning-bookmark = अहाँ एकटाटा बीजशब्द चुनने छी जे अखन पुस्तकचिह्नक द्वारा प्रयोग मे अछि. कृप्या दूसरा चुनू.
