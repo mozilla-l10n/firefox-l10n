@@ -983,11 +983,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "重启 &brandShorterName; 以更新">
 
 <!ENTITY newTabControlled.message "一个扩展更改了您打开新标签页时看到的页面。如果您不想做此更改，可以还原此设置。">
+
 <!ENTITY newTabControlled.header.message "您的新标签页已变更。">
 <!ENTITY newTabControlled.keepButton.label "保留更改">
 <!ENTITY newTabControlled.keepButton.accesskey "K">
 <!ENTITY newTabControlled.restoreButton.label "还原设置">
 <!ENTITY newTabControlled.restoreButton.accesskey "R">
+
+<!ENTITY newTabControlled.disableButton.label "禁用扩展">
+<!ENTITY newTabControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "页面动作">
 <!ENTITY pageAction.addToUrlbar.label "添加到地址栏">
