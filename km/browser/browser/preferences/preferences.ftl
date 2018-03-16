@@ -233,7 +233,26 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = ម៉ាស៊ីន​ស្វែងរក​លំនាំដើម
+search-suggestions-option =
+    .label = បង្ហាញ​ការ​ផ្ដល់​យោបល់​ស្វែងរក
+    .accesskey = រ
+search-suggestions-cant-show = សំណើ​ស្វែងរក​នឹង​​មិន​បង្ហាញ​នៅ​ក្នុង​លទ្ធផល​របារ​ទីតាំង​​ទេ ព្រោះ​អ្នក​បាន​កំណត់​រចនាសម្ព័ន្ធ { -brand-short-name } មិន​ដែល​ឲ្យ​ចងចាំ​ប្រវត្តិ។
+search-one-click-header = ម៉ាស៊ីន​ស្វែងរក​ចុច​តែ​ម្ដង
+search-choose-engine-column =
+    .label = ម៉ាស៊ីន​ស្វែងរក
+search-choose-keyword-column =
+    .label = ពាក្យ​គន្លឹះ
+search-restore-default =
+    .label = ស្ដារ​ម៉ាស៊ីន​ស្វែងរកលំនាំដើម
+    .accesskey = ល
+search-remove-engine =
+    .label = យក​ចេញ...
+    .accesskey = ញ
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = ពាក្យ​គន្លឹះ​ស្ទួន
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = អ្នក​បានជ្រើស​រើស​ពាក្យ​គន្លឹះ ដែល​បច្ចុប្បន្ន​នេះ​​​​កំពុង​ប្រើ​ដោយ "{ $name }"។ សូម​ជ្រើសរើស​ពាក្យ​គន្លឹះ​ផ្សេង​ទៀត។
 search-keyword-warning-bookmark = អ្នក​បាន​ជ្រើសរើស​ពាក្យ​គន្លឹះ​ដែល​ត្រូវ​បាន​ប្រើ​បច្ចុប្បន្ន​ដោយ​ចំណាំ ។ សូម​ជ្រើស​មួយ​ផ្សេង​ទៀត ។
