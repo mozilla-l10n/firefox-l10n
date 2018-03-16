@@ -272,7 +272,26 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = Motor de busca por defecto
+search-suggestions-option =
+    .label = Dar sucherencia de busca
+    .accesskey = b
+search-suggestions-cant-show = No s'amostrarán sucherencias de busca a os resultaus d'a barra d'ubicación porque ha configurau o { -brand-short-name } pa que no recuerde nunca o historial.
 search-one-click-header = Motors de busca d'un solo click
+search-choose-engine-column =
+    .label = Motors de busca
+search-choose-keyword-column =
+    .label = Parola clau
+search-restore-default =
+    .label = Restaurar os motors de busca por defecto
+    .accesskey = d
+search-remove-engine =
+    .label = Borrar…
+    .accesskey = r
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Duplicar a parola clau
 # Variables:
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Ha trigau una parola clau que ya emplega "{ $name }". Trigue-ne unatra.
+search-keyword-warning-bookmark = Ha trigau una parola clau que ya emplega unatro marcapachinas. Trigue-ne unatra.
