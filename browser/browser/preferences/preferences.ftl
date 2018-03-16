@@ -271,12 +271,29 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Serĉa strio
+search-bar-hidden =
+    .label = Uzi la adresan strion por serĉi kaj viziti
+search-bar-shown =
+    .label = Aldoni serĉan strion al ilaro
 search-engine-default-header = Norma serĉilo
+search-engine-default-desc = Elekti la norman serĉilon por la adresa kaj serĉa strio.
 search-suggestions-option =
     .label = Montri serĉajn sugestojn
     .accesskey = s
+search-show-suggestions-url-bar-option =
+    .label = Montri sugestojn de serĉiloj en la rezultoj de la adresa strio
+    .accesskey = M
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Montri serĉajn sugestojn antaŭ ol retuman historion en la resultoj de la adresa strio
 search-suggestions-cant-show = Sugestoj de serĉiloj ne aperos en la rezultoj de la adresa strio ĉar vi petis al { -brand-short-name } neniam memori la historion.
 search-one-click-header = Serĉiloj per unu alklako
+search-one-click-desc = Elekti la alternativajn serĉilojn, kiuj aperos sub la adresa kaj serĉa strio kiam vi ektajpas ŝlosilvorton.
 search-choose-engine-column =
     .label = Serĉilo
 search-choose-keyword-column =
@@ -287,6 +304,7 @@ search-restore-default =
 search-remove-engine =
     .label = Forigi
     .accesskey = F
+search-find-more-link = Serĉi pli da serĉiloj
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Duobligita kategoria vorto
