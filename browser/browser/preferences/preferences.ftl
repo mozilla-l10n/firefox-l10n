@@ -274,7 +274,13 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Радок пошуку
+search-bar-hidden =
+    .label = Выкарыстоўваць адрасны радок для пошуку і навігацыі
+search-bar-shown =
+    .label = Дадаць радок пошуку на паліцу прылад
 search-engine-default-header = Прадвызначаны пашукавік
+search-engine-default-desc = Выберыце прадвызначаную пошукавую сістэму для выкарыстання ў адрасным радку і панэлі пошуку.
 search-suggestions-option =
     .label = Паказваць пошукавыя прапановы
     .accesskey = ы
