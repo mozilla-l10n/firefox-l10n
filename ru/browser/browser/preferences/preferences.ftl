@@ -279,7 +279,11 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = Поисковая система по умолчанию
 search-engine-default-desc = Выберите поисковую систему по умолчанию для использования в панели адреса и панели поиска.
+search-suggestions-option =
+    .label = Отображать поисковые предложения
+    .accesskey = о
 search-show-suggestions-url-bar-option =
     .label = Отображать поисковые предложения при использовании панели адреса
     .accesskey = ж
@@ -290,5 +294,24 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Отображать поисковые предложения перед историей веб-сёрфинга при использовании панели адреса
+search-suggestions-cant-show = При использовании панели адреса поисковые предложения отображаться не будут, так как вы настроили { -brand-short-name } никогда не запоминать историю.
+search-one-click-header = Поиск одним щелчком
 search-one-click-desc = Выберите альтернативные поисковые системы, которые появятся под панелью адреса и панелью поиска, когда вы начнёте вводить ключевое слово.
+search-choose-engine-column =
+    .label = Поисковая система
+search-choose-keyword-column =
+    .label = Краткое имя
+search-restore-default =
+    .label = Восстановить набор поисковых систем по умолчанию
+    .accesskey = а
+search-remove-engine =
+    .label = Удалить
+    .accesskey = и
 search-find-more-link = Найти другие поисковые системы
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Краткое имя уже используется
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Вы выбрали краткое имя, которое в данный момент используется «{ $name }». Пожалуйста, выберите другое.
+search-keyword-warning-bookmark = Вы выбрали краткое имя, которое в данный момент используется одной из закладок. Пожалуйста, выберите другое.
