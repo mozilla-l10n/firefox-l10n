@@ -269,12 +269,29 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = 搜尋列
+search-bar-hidden =
+    .label = 使用網址列搜尋與上網
+search-bar-shown =
+    .label = 在工具列新增搜尋列
 search-engine-default-header = 預設搜尋引擎
+search-engine-default-desc = 選擇在網址列與搜尋列搜尋時預設使用的搜尋引擎。
 search-suggestions-option =
     .label = 提供搜尋建議
     .accesskey = s
+search-show-suggestions-url-bar-option =
+    .label = 在網址列結果中顯示搜尋建議
+    .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = 在網址列顯示的結果中，將搜尋建議放在瀏覽紀錄前面
 search-suggestions-cant-show = 由於您已經設定 { -brand-short-name } 不要記住瀏覽紀錄，網址列中將不會顯示建議搜尋結果。
 search-one-click-header = 快捷搜尋引擎清單
+search-one-click-desc = 請選擇當您在網址列或搜尋列輸入關鍵字時，可選用的其他搜尋引擎。
 search-choose-engine-column =
     .label = 搜尋引擎
 search-choose-keyword-column =
@@ -285,6 +302,7 @@ search-restore-default =
 search-remove-engine =
     .label = 移除
     .accesskey = r
+search-find-more-link = 尋找更多搜尋引擎
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = 關鍵字重複
