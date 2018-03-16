@@ -269,3 +269,22 @@ network-proxy-connection-learn-more = Issin ugar
 network-proxy-connection-settings =
     .label = Iɣewwaṛen…
     .accesskey = e
+
+## Search Section
+
+search-engine-default-header = Amsedday n unadi amezwer
+search-suggestions-option =
+    .label = Sken isumar n unadi
+    .accesskey = S
+search-suggestions-cant-show = Anadi n isumar ur d ittwaskan ara deg yigmaḍ n ufeggag n tansa acku tsewleḍ { -brand-short-name } akken ur iḥerrez ara amazray.
+search-one-click-header = Imseddayen n unadi ara tkecmeḍ s yiwen n usiti{ " " }
+search-choose-engine-column =
+    .label = Amsedday n unadi
+search-choose-keyword-column =
+    .label = Awal tasarut
+search-restore-default =
+    .label = Err-d imseddayen n unadi amezwer
+    .accesskey = E
+search-remove-engine =
+    .label = Kkes
+    .accesskey = K
