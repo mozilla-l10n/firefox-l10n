@@ -983,11 +983,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Herstart om &brandShorterName; bij te werken">
 
 <!ENTITY newTabControlled.message "Een extensie heeft de pagina die u ziet bij het openen van een nieuw tabblad gewijzigd. Als u deze wijziging niet wilt, kunt u uw instellingen terugzetten.">
+
 <!ENTITY newTabControlled.header.message "Uw nieuwe tabblad is gewijzigd.">
 <!ENTITY newTabControlled.keepButton.label "Wijzigingen behouden">
 <!ENTITY newTabControlled.keepButton.accesskey "b">
 <!ENTITY newTabControlled.restoreButton.label "Instellingen terugzetten">
 <!ENTITY newTabControlled.restoreButton.accesskey "r">
+
+<!ENTITY newTabControlled.disableButton.label "Extensie uitschakelen">
+<!ENTITY newTabControlled.disableButton.accesskey "u">
 
 <!ENTITY pageActionButton.tooltip "Pagina-acties">
 <!ENTITY pageAction.addToUrlbar.label "Toevoegen aan adresbalk">
