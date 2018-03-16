@@ -271,7 +271,26 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = Հիմնական որոնիչը
+search-suggestions-option =
+    .label = Ցուցադրել որոնման հուշումներ
+    .accesskey = ո
+search-suggestions-cant-show = Որոնման առաջարկությունները չեն ցուցադրվի գտնման վայրի տողի արդյունքներում, քանի որ դուք կազմաձևել եք { -brand-short-name }-ը, որ երբեք չհիշի պատմությունը։
+search-one-click-header = Մեկ սեղմամբ որոնիչներ
+search-choose-engine-column =
+    .label = Որոնիչներ
+search-choose-keyword-column =
+    .label = Հիմնաբառ
+search-restore-default =
+    .label = Վերականգնել հիմնական որոնիչը
+    .accesskey = հ
+search-remove-engine =
+    .label = Հեռացնել
+    .accesskey = Հ
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Կրկնել հիմաբառը
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Դուք ընտրել եք կրկնվող հիմաբառ, որը արդեն օգտագործվում է "{ $name }" -ի կողմից: Խնդրում ենք ընտրել մեկ ուրիշը:
 search-keyword-warning-bookmark = Դուք ընտրեցիք հիմնաբառ, որը այս պահին օգտագործվում է էջանիշի կողմից: Խնդրում եմ ընտրեք մեկ ուրիշը:
