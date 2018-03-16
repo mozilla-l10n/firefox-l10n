@@ -44,6 +44,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY goToLineCmd.label "Gean nei rigel…">
 <!ENTITY goToLineCmd.accesskey "G">
+<!ENTITY goToLineCmd.commandkey "l">
 
 <!ENTITY viewMenu.label           "Byld">
 <!ENTITY viewMenu.accesskey       "B">
