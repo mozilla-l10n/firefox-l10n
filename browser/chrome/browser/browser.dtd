@@ -438,6 +438,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Pytaś abo adresu zapódaś">
+<!ENTITY urlbar.placeholder3          "Zapódajśo how pytańske wuraze a adrese">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Rozšyrjenje:">
@@ -982,11 +983,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Startujśo znowego, aby &brandShorterName; aktualizěrował">
 
 <!ENTITY newTabControlled.message "Rozšyrjenje jo bok změnił, kótaryž wiźiśo, gaž nowy rejtark wócynjaśo. Móžośo swóje nastajenja wótnowiś, jolic toś tu změnu njocośo.">
+
 <!ENTITY newTabControlled.header.message "Waš nowy rejtark jo se změnił.">
 <!ENTITY newTabControlled.keepButton.label "Změny wobchowaś">
 <!ENTITY newTabControlled.keepButton.accesskey "Z">
 <!ENTITY newTabControlled.restoreButton.label "Nastajenja wótnowiś">
 <!ENTITY newTabControlled.restoreButton.accesskey "N">
+
+<!ENTITY newTabControlled.disableButton.label "Rozšyrjenje znjemóžniś">
+<!ENTITY newTabControlled.disableButton.accesskey "R">
 
 <!ENTITY pageActionButton.tooltip "Akcije boka">
 <!ENTITY pageAction.addToUrlbar.label "Adresowemu póloju pśidaś">
