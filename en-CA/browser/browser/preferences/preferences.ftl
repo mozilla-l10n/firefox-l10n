@@ -267,6 +267,28 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Search Bar
+search-bar-hidden =
+    .label = Use the address bar for search and navigation
+search-bar-shown =
+    .label = Add search bar in toolbar
+search-engine-default-header = Default Search Engine
+search-suggestions-option =
+    .label = Provide search suggestions
+    .accesskey = s
+search-suggestions-cant-show = Search suggestions will not be shown in location bar results because you have configured { -brand-short-name } to never remember history.
+search-one-click-header = One-Click Search Engines
+search-choose-engine-column =
+    .label = Search Engine
+search-choose-keyword-column =
+    .label = Keyword
+search-restore-default =
+    .label = Restore Default Search Engines
+    .accesskey = D
+search-remove-engine =
+    .label = Remove
+    .accesskey = R
+search-find-more-link = Find more search engines
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Duplicate Keyword
