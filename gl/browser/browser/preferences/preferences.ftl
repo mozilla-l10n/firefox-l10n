@@ -165,3 +165,29 @@ network-proxy-connection-learn-more = Obter máis información
 network-proxy-connection-settings =
     .label = Configuración…
     .accesskey = C
+
+## Search Section
+
+search-engine-default-header = Buscador predeterminado
+search-suggestions-option =
+    .label = Fornecer suxestións de busca
+    .accesskey = s
+search-suggestions-cant-show = As suxestións de busca non se amosarán nos resultados da barra de localización porque configurou { -brand-short-name } para que non lembre o historial.
+search-one-click-header = Buscadores nun clic
+search-choose-engine-column =
+    .label = Buscador
+search-choose-keyword-column =
+    .label = Palabra clave
+search-restore-default =
+    .label = Restaurar os buscadores predeterminados
+    .accesskey = d
+search-remove-engine =
+    .label = Retirar
+    .accesskey = r
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Duplicar a palabra clave
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = A palabra clave que escolleu está a ser utilizada por "{ $name }". Seleccione outra.
+search-keyword-warning-bookmark = A palabra clave que escolleu está a ser utilizada por un marcador. Seleccione outra.
