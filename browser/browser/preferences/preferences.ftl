@@ -272,12 +272,44 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Søkjelinje
+search-bar-hidden =
+    .label = Bruk adresselinja for søk og navigering
+search-bar-shown =
+    .label = Legg til søkjelinje i verktøylinja
 search-engine-default-header = Standard søkjemotor
+search-engine-default-desc = Vel standard-søkjemotor som skal brukast i adresselinja og søkjelinja.
+search-suggestions-option =
+    .label = Tilby søkjeforslag
+    .accesskey = T
+search-show-suggestions-url-bar-option =
+    .label = Vis søkjeforslag i resultata til adresselinja
+    .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Vis søkjeforslag før nettlesarhistorikk i adressefeltresultata
+search-suggestions-cant-show = Søkjeforslag vil ikkje visast i adresselinjeresultata fordi du har konfigurert { -brand-short-name } til å aldri hugse historikk.
+search-one-click-header = Eittklikks-søkjemotorar
+search-one-click-desc = Vel alternative søkjemotorar som vert viste under adresselinja og søkjelinja når du byrjar å skrive inn eit søkjeord.
+search-choose-engine-column =
+    .label = Søkjemotor
 search-choose-keyword-column =
     .label = Nykelord
+search-restore-default =
+    .label = Bygg oppatt standard søkjemotorar
+    .accesskey = G
 search-remove-engine =
     .label = Fjern
     .accesskey = F
+search-find-more-link = Finn fleire søkjemotorar
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Kopiere stikkord
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Du har valt eit nykelord som allereie er i bruk av «{ $name }». Vel eit anna nykelord.
+search-keyword-warning-bookmark = Du har valt eit nykelord som allereie vert brukt av eit bokmerke. Vel eit anna nykelord.
