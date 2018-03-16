@@ -269,3 +269,15 @@ network-proxy-connection-learn-more = Les meir
 network-proxy-connection-settings =
     .label = Innstillingar…
     .accesskey = I
+
+## Search Section
+
+search-engine-default-header = Standard søkjemotor
+search-choose-keyword-column =
+    .label = Nykelord
+search-remove-engine =
+    .label = Fjern
+    .accesskey = F
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Kopiere stikkord
