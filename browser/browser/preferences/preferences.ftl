@@ -278,11 +278,16 @@ network-proxy-connection-settings =
 ## Search Section
 
 search-engine-default-header = Buscador predeterminado
+search-engine-default-desc = Seleccionar el buscador predeterminado para usar en la barra de direcciones y la barra de búsqueda.
 search-suggestions-option =
     .label = Proveer sugerencias de búsqueda
     .accesskey = s
+search-show-suggestions-url-bar-option =
+    .label = Mostrar sugerencias de búsqueda en los resultados de la barra de direcciones
+    .accesskey = M
 search-suggestions-cant-show = Las sugerencias de búsqueda no se mostrarán en la barra de direcciones porque ha configurado { -brand-short-name } para que nunca recuerde el historial.
 search-one-click-header = Buscadores con un clic
+search-one-click-desc = Seleccionar los buscadores alternativos que aparecen debajo de la barra de direcciones y barra de búsqueda al comenzar a escribir una palabra.
 search-choose-engine-column =
     .label = Buscador
 search-choose-keyword-column =
@@ -293,6 +298,7 @@ search-restore-default =
 search-remove-engine =
     .label = Eliminar
     .accesskey = r
+search-find-more-link = Agregar más buscadores
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Palabra clave duplicada
