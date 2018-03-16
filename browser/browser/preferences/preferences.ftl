@@ -279,13 +279,13 @@ network-proxy-connection-settings =
 
 search-bar-header = অনুসন্ধান বার
 search-bar-hidden =
-    .label = অনুসন্ধান এবং নেভিগেশন জন্য ঠিকানা বার ব্যবহার করুন
+    .label = অনুসন্ধান এবং নেভিগেশনের জন্য ঠিকানা বার ব্যবহার করুন
 search-bar-shown =
     .label = টুলবারে অনুসন্ধান বার যুক্ত করুন
 search-engine-default-header = ডিফল্ট অনুসন্ধান ইঞ্জিন
-search-engine-default-desc = ঠিকানা বার এবং অনুসন্ধান বার ব্যবহার করতে ডিফল্ট অনুসন্ধান ইঞ্জিন নির্বাচন করুন।
+search-engine-default-desc = ঠিকানা বার এবং অনুসন্ধান বারে ব্যবহারের জন্য ডিফল্ট অনুসন্ধান ইঞ্জিন পছন্দ করুন।
 search-suggestions-option =
-    .label = অনুসন্ধান পরামর্শ প্রদান করুন s
+    .label = অনুসন্ধান পরামর্শ প্রদান করুন
     .accesskey = s
 search-show-suggestions-url-bar-option =
     .label = ঠিকানা বার ফলাফলে অনুসন্ধান পরামর্শ দেখাও
@@ -296,7 +296,7 @@ search-show-suggestions-url-bar-option =
 # "ahead" refers to location (appearing most proximate to), not time
 # (appearing before).
 search-show-suggestions-above-history-option =
-    .label = ঠিকানা বারের ফলাফলে ব্রাউজিং ইতিহাসের আগে অনুসন্ধান প্রস্তাবনা দেখাও
+    .label = ঠিকানা বার ফলাফলে ব্রাউজিং ইতিহাসের আগে অনুসন্ধান পরামর্শ দেখাও
 search-suggestions-cant-show = { -brand-short-name } এর কনফিগারেশনে ইতিহাস মনে না রাখতে বলার কারনে লোকেশন বারে অনুসন্ধান পরামর্শ দেখাবে না।
 search-one-click-header = এক-ক্লিক অনুসন্ধান ইঞ্জিন
 search-one-click-desc = আপনি কীওয়ার্ড লিখতে শুরু করার সময় ঠিকানা বার এবং অনুসন্ধান বারের নীচে প্রদর্শিত বিকল্প অনুসন্ধান ইঞ্জিনগুলো নির্বাচন করুন।
