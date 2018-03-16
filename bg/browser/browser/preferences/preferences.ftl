@@ -272,15 +272,43 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Лента за търсене
+search-bar-hidden =
+    .label = Използване на адресната лента за търсене и отваряне на страници
+search-bar-shown =
+    .label = Добавяне на лента за търсене в лентата с инструменти
 search-engine-default-header = Стандартна търсеща машина
+search-engine-default-desc = Изберете търсеща машина, която да използвате от адресната лента и лентата за търсене.
+search-suggestions-option =
+    .label = Показване на предложения при търсене
+    .accesskey = П
+search-show-suggestions-url-bar-option =
+    .label = Показване на предложения при търсене в резултатите на адресната лента
+    .accesskey = р
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Показване на подсказките преди резултатите от историята при търсене от адресната лента
+search-suggestions-cant-show = Предложения при търсене в резултатите на адресната лента няма да бъдат показвани, защото { -brand-short-name } е настроен да не запазва историята на разглеждане.
 search-one-click-header = Търсене с едно щракване
+search-one-click-desc = Изберете допълнителни търсещи машини, които да се показват под адресната лента и лентата за търсене при въвеждане на текст.
 search-choose-engine-column =
     .label = Търсеща машина
 search-choose-keyword-column =
     .label = Ключова дума
+search-restore-default =
+    .label = Връщане на стандартните
+    .accesskey = В
 search-remove-engine =
     .label = Премахване
     .accesskey = П
+search-find-more-link = Други търсещи машини
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Дублиране на ключовата дума
 # Variables:
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Избрали сте ключова дума, която вече се използва от „{ $name }“. Моля, изберете друга.
