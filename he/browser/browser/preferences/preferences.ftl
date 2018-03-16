@@ -277,6 +277,23 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = מנוע חיפוש בררת מחדל
+search-suggestions-option =
+    .label = הצגת המלצות חיפוש
+    .accesskey = מ
+search-one-click-header = מנועי חיפוש בלחיצה אחת
+search-one-click-desc = בחירת מנועי חיפוש חלופיים שיופיעו מתחת לסרגל הכתובת וסרגל החיפוש עם תחילת ההקלדה של מילות מפתח.
+search-choose-engine-column =
+    .label = מנוע חיפוש
+search-choose-keyword-column =
+    .label = מילת מפתח
+search-restore-default =
+    .label = שחזור למנועי חיפוש בררת מחדל
+    .accesskey = ש
+search-remove-engine =
+    .label = הסרה
+    .accesskey = ה
+search-find-more-link = מנועי חיפוש נוספים
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = מילת מפתח כפולה
