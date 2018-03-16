@@ -292,6 +292,13 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Afișează sugestiile de căutare în rezultatele din bara de adresă
     .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Arată sugestiile de căutare înaintea istoricului de navigare în rezultatele din bara de adrese
 search-suggestions-cant-show = Sugestiile de căutare nu vor fi afișate în rezultatele din bara de adrese deoarece ai configurat { -brand-short-name } ca să nu țină minte niciodată istoricul.
 search-one-click-header = Motoare de căutare la un clic distanță
 search-one-click-desc = Alege motoarele de căutare alternative care apar sub bara de adresă și bara de căutare atunci când începi să introduci un cuvânt cheie.
@@ -299,6 +306,9 @@ search-choose-engine-column =
     .label = Motor de căutare
 search-choose-keyword-column =
     .label = Cuvânt cheie
+search-restore-default =
+    .label = Restabilește motoarele de căutare implicite
+    .accesskey = d
 search-remove-engine =
     .label = Elimină
     .accesskey = R
