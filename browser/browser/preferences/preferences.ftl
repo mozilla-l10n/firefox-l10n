@@ -275,4 +275,7 @@ network-proxy-connection-settings =
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Palavra-chave duplicada
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = A palavra-chave escolhida já é usada por “{ $name }”. Por favor, selecione outra.
 search-keyword-warning-bookmark = A palavra-chave escolhida já é usada por um favorito. Por favor, selecione outra.
