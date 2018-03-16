@@ -38,4 +38,10 @@
 <!ENTITY location.label "Lokacija:">
 <!ENTITY location.placeholder "URL ili ime hosta servera kalendara">
 
+<!ENTITY network.nocredentials.label "Ova lokacija ne zahtijeva uvjerenja">
+<!ENTITY network.loading.description "Molimo sačekajte dok vaši kalendari ne budu otkriveni.">
+<!ENTITY network.notfound.description "Ne mogu pronaći kalendare na ovoj lokaciji. Molimo provjerite vaše postavke.">
+<!ENTITY network.authfail.description "Uvjerenja koja ste unijeli nisu prihvaćena. Molimo provjerite vaše postavke.">
 
+<!ENTITY network.subscribe.single.description "Molimo odaberite kalendare na koje se želite pretplatiti.">
+<!ENTITY network.subscribe.multiple.description "Višestruki tipovi kalendara su dostupni za ovu lokaciju. Molimo odaberite tip kalendara, zatim označite kalendare na koje se želite pretplatiti.">
