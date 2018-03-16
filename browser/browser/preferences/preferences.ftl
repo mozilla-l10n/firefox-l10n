@@ -274,6 +274,14 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = Прадвызначаны пашукавік
+search-choose-engine-column =
+    .label = Пашукавік
+search-choose-keyword-column =
+    .label = Ключавое слова
+search-remove-engine =
+    .label = Выдаліць
+    .accesskey = д
 # Variables:
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Вы выбралі ключавое слова, якое зараз ужываецца для "{ $name }". Выберыце, калі ласка, іншае.
