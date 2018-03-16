@@ -277,5 +277,27 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = Motor de pesquisa predefinido
+search-engine-default-desc = Escolha o motor de pesquisa predefinido a utilizar na barra de endereço e barra de pesquisa.
+search-suggestions-option =
+    .label = Mostrar sugestões de pesquisa
+    .accesskey = s
+search-show-suggestions-url-bar-option =
+    .label = Mostrar sugestões de pesquisa nos resultados da barra de endereço
+    .accesskey = l
+search-suggestions-cant-show = Sugestões de pesquisa não serão apresentadas nos resultados da barra de localização porque configurou o { -brand-short-name } para nunca memorizar histórico.
+search-one-click-header = Motores de pesquisa de um clique
 search-choose-engine-column =
     .label = Motor de pesquisa
+search-choose-keyword-column =
+    .label = Palavra-chave
+search-restore-default =
+    .label = Restaurar motores de pesquisa predefinidos
+    .accesskey = d
+search-remove-engine =
+    .label = Remover
+    .accesskey = R
+search-find-more-link = Encontrar mais motores de pesquisa
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Palavra-chave duplicada
