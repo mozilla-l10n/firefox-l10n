@@ -264,3 +264,13 @@ network-proxy-title = Network Proxy
 network-proxy-connection-settings =
     .label = Settings…
     .accesskey = S
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Duplicate Keyword
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = You have chosen a keyword that is currently in use by "{ $name }". Please select another.
+search-keyword-warning-bookmark = You have chosen a keyword that is currently in use by a bookmark. Please select another.
