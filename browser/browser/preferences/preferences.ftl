@@ -268,7 +268,32 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = Zadana tražilica
+search-engine-default-desc = Odaberite zadani pretraživač koji ćete koristiti u adresnoj traci i traci pretraživanja.
+search-suggestions-option =
+    .label = Prikaži prijedloge pretraživanja
+    .accesskey = P
+search-show-suggestions-url-bar-option =
+    .label = Prikaži prijedloge pretraživanja među rezultatima adresne trake
+    .accesskey = l
+search-suggestions-cant-show = Sugestije pretraživanja neće biti prikazane u lokacijskoj traci jer ste podesili { -brand-short-name } da ne pamti povijest.
+search-one-click-header = Pretraživači na jedan klik
+search-one-click-desc = Odaberite alternativne pretraživače koji će se pojaviti ispod adresne trake i trake pretraživanja kada započmete upisivati pojmove.
+search-choose-engine-column =
+    .label = Pretraživač
+search-choose-keyword-column =
+    .label = Ključna riječ
+search-restore-default =
+    .label = Vrati zadane pretraživače
+    .accesskey = d
+search-remove-engine =
+    .label = Ukloni
+    .accesskey = U
+search-find-more-link = Pronađite još pretraživača
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Postojeća ključna riječ
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Odabrali ste ključnu riječ koja se koristi za "{ $name }". Molim odaberite drugu.
 search-keyword-warning-bookmark = Odabrali ste ključnu riječ koju koristi zabilješka. Molim odaberite drugu.
