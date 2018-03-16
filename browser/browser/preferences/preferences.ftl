@@ -268,6 +268,11 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Traka pretraživanja
+search-bar-hidden =
+    .label = Koristite adresnu traku za pretraživanje i navigaciju
+search-bar-shown =
+    .label = Dodajte traku pretraživanja u alatnu traku
 search-engine-default-header = Zadana tražilica
 search-engine-default-desc = Odaberite zadani pretraživač koji ćete koristiti u adresnoj traci i traci pretraživanja.
 search-suggestions-option =
