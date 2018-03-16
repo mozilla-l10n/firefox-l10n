@@ -277,9 +277,20 @@ network-proxy-connection-settings =
 ## Search Section
 
 search-engine-default-header = Privzet iskalnik
+search-engine-default-desc = Izberite privzeti iskalnik, ki ga želite uporabiti v naslovni in iskalni vrstici.
 search-suggestions-option =
     .label = Predlogi iskanja
     .accesskey = s
+search-show-suggestions-url-bar-option =
+    .label = Prikaži predloge iskanja v rezultatih naslovne vrstice
+    .accesskey = P
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Med rezultati naslovne vrstice prikaži predloge iskanja pred zgodovino brskanja
 search-suggestions-cant-show = Predlogi iskanja v vrstici z naslovom ne bodo prikazani, ker ste { -brand-short-name } nastavili tako, da si nikoli ne zapomni zgodovine.
 search-one-click-header = Iskalniki, dostopni z enim klikom
 search-one-click-desc = Izberite nadomestne iskalnike, ki se pojavijo pod naslovno in iskalno vrstico, ko začnete vnašati ključno besedo.
@@ -293,6 +304,7 @@ search-restore-default =
 search-remove-engine =
     .label = Odstrani
     .accesskey = r
+search-find-more-link = Najdi več iskalnikov
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Podvojena ključna beseda
