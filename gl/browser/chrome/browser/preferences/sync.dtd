@@ -6,9 +6,14 @@
 
 <!ENTITY engine.bookmarks.label     "Marcadores">
 <!ENTITY engine.bookmarks.accesskey "M">
+<!ENTITY engine.tabs.label2         "Lapelas abertas">
 <!ENTITY engine.tabs.accesskey      "L">
 <!ENTITY engine.history.label       "Historial">
 <!ENTITY engine.history.accesskey   "r">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, used as the checkbox which indicates if prefs are synced
+-->
 <!ENTITY engine.prefs.label         "Preferencias">
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "Complementos">
@@ -39,18 +44,14 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.beforename.label "Identifíquese para volver a conectarse">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-<!ENTITY notSignedIn.label           "Non está identificado.">
-<!ENTITY signIn.label                "Identificarse">
-<!ENTITY profilePicture.tooltip      "Cambiar a foto do perfil">
-<!ENTITY verifiedManage.label        "Xestionar conta">
-<!ENTITY verify.label                "Comprobar correo">
-<!ENTITY forget.label                "Esquecer este correo">
+<!ENTITY notSignedIn.label            "Non está identificado.">
+<!ENTITY signIn.label                 "Identificarse">
+<!ENTITY profilePicture.tooltip       "Cambiar a foto do perfil">
+<!ENTITY verifiedManage.label         "Xestionar conta">
 
 <!ENTITY signedOut.caption            "Leve a Web con vostede">
 <!ENTITY signedOut.description        "Sincronice os marcadores, o historial, as lapelas, os contrasinais, os complementos e as preferencias en todos os seus dispositivos.">
 <!ENTITY signedOut.accountBox.title   "Conectar con &syncBrand.fxAccount.label;">
-<!ENTITY signedOut.accountBox.create  "Crear unha conta">
-<!ENTITY signedOut.accountBox.signin  "Identificarse">
 
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
@@ -62,4 +63,5 @@ both, to better adapt this sentence to their language.
 
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSBefore): This is text displayed between mobilePromo3.androidLink and mobilePromo3.iosLink -->
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
+
 
