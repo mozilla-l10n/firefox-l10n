@@ -274,11 +274,22 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Mekliešonys jūsla
+search-bar-hidden =
+    .label = Izmantuot adresu jūslu mekliešonai i adresim
+search-bar-shown =
+    .label = Pīvīnuot mekliešonys jūslu reikjūslai
 search-engine-default-header = Nūkluseitais mekleituojs
+search-engine-default-desc = Choose the default search engine to use in the address bar and search bar.
 search-suggestions-option =
     .label = Provide search suggestions
     .accesskey = s
+search-show-suggestions-url-bar-option =
+    .label = Ruodeit mekliešonys īteikumus adresu juslā
+    .accesskey = R
 search-suggestions-cant-show = Search suggestions will not be shown in location bar results because you have configured { -brand-short-name } to never remember history.
+search-one-click-header = One-Click Search Engines
+search-one-click-desc = Choose the alternative search engines that appear below the address bar and search bar when you start to enter a keyword.
 search-choose-engine-column =
     .label = Mekleituoji
 search-choose-keyword-column =
@@ -289,6 +300,7 @@ search-restore-default =
 search-remove-engine =
     .label = Aizvuokt
     .accesskey = z
+search-find-more-link = Pīvīnuot meklietuojus
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Itaids atslāgi vuords jau eksistej
