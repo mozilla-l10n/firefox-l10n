@@ -274,3 +274,21 @@ network-proxy-connection-learn-more = Aprender más
 network-proxy-connection-settings =
     .label = Configuraciones…
     .accesskey = e
+
+## Search Section
+
+search-engine-default-header = Motor de búsqueda predeterminado
+search-suggestions-option =
+    .label = Proveer sugerencias de búsqueda
+    .accesskey = s
+search-one-click-header = Cambio rápido de buscadores
+search-choose-engine-column =
+    .label = Motor de búsqueda
+search-choose-keyword-column =
+    .label = Palabra clave
+search-restore-default =
+    .label = Restaurar motores de búsqueda predeterminados
+    .accesskey = d
+search-remove-engine =
+    .label = Remover
+    .accesskey = r
