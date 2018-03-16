@@ -277,16 +277,37 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-hidden =
+    .label = অনুসন্ধান এবং নেভিগেশন জন্য ঠিকানা বার ব্যবহার করুন
+search-engine-default-header = ডিফল্ট অনুসন্ধান ইঞ্জিন
+search-engine-default-desc = ঠিকানা বার এবং অনুসন্ধান বার ব্যবহার করতে ডিফল্ট অনুসন্ধান ইঞ্জিন নির্বাচন করুন।
 search-suggestions-option =
     .label = অনুসন্ধান পরামর্শ প্রদান করুন s
     .accesskey = s
+search-show-suggestions-url-bar-option =
+    .label = ঠিকানা বার ফলাফলে অনুসন্ধান পরামর্শ দেখাও
+    .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = ঠিকানা বারের ফলাফলে ব্রাউজিং ইতিহাসের আগে অনুসন্ধান প্রস্তাবনা দেখাও
 search-suggestions-cant-show = { -brand-short-name } এর কনফিগারেশনে ইতিহাস মনে না রাখতে বলার কারনে লোকেশন বারে অনুসন্ধান পরামর্শ দেখাবে না।
 search-one-click-header = এক-ক্লিক অনুসন্ধান ইঞ্জিন
+search-one-click-desc = আপনি কীওয়ার্ড লিখতে শুরু করার সময় ঠিকানা বার এবং অনুসন্ধান বারের নীচে প্রদর্শিত বিকল্প অনুসন্ধান ইঞ্জিনগুলো নির্বাচন করুন।
+search-choose-engine-column =
+    .label = অনুসন্ধান ইঞ্জিন
 search-choose-keyword-column =
     .label = কীওয়ার্ড
+search-restore-default =
+    .label = ডিফল্ট অনুসন্ধান ইঞ্জিন পুনঃস্থাপন
+    .accesskey = D
 search-remove-engine =
     .label = অপসারণ করুন R
     .accesskey = R
+search-find-more-link = আরও অনুসন্ধান ইঞ্জিন খুঁজুন
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = কীওয়ার্ড ইতোমধ্যে বিদ্যমান
