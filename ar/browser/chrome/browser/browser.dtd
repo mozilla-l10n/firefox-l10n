@@ -983,11 +983,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "أعد التشغيل لتحديث &brandShorterName;">
 
 <!ENTITY newTabControlled.message "ثمة امتداد غيّر الصفحة التي تراها عند فتح لسان جديد. يمكنك استعادة الإعداد السابق إن لم تقبل بهذا التغيير.">
+
 <!ENTITY newTabControlled.header.message "لقد تغيرت صفحة اللسان الجديد.">
 <!ENTITY newTabControlled.keepButton.label "أبقِ التغييرات">
 <!ENTITY newTabControlled.keepButton.accesskey "غ">
 <!ENTITY newTabControlled.restoreButton.label "استعد ما كان">
 <!ENTITY newTabControlled.restoreButton.accesskey "ك">
+
+<!ENTITY newTabControlled.disableButton.label "عطّل الامتداد">
+<!ENTITY newTabControlled.disableButton.accesskey "ط">
 
 <!ENTITY pageActionButton.tooltip "إجراءات الصفحة">
 <!ENTITY pageAction.addToUrlbar.label "أضف إلى شريط العناوين">
