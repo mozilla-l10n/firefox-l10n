@@ -274,3 +274,10 @@ network-proxy-connection-learn-more = Läs mer
 network-proxy-connection-settings =
     .label = Inställningar…
     .accesskey = n
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Duplicera nyckelord
+search-keyword-warning-bookmark = Du har valt ett nyckelord som redan används av ett bokmärke. Var god välj ett annat.
