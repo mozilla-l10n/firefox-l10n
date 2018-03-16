@@ -127,7 +127,13 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-remove-engine =
+    .label = Yi
+    .accesskey = Y
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = San kyerɛw Kasafua-titiriw
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Wo apaw kasafua-titiriw a "{ $name }" de redi dwuma seiseiara. Yɛsrɛ wo sɛ paw foforo.
 search-keyword-warning-bookmark = Wo apaw kasafua-titiriw a bukmaak de redi dwuma seiseiara. Yɛsrɛ wo sɛ paw foforo.
