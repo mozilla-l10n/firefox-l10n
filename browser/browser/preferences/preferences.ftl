@@ -122,3 +122,10 @@ browsing-use-cursor-navigation =
 network-proxy-connection-settings =
     .label = Mîheng…
     .accesskey = e
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Peyva Kilît Zêde Bike
+search-keyword-warning-bookmark = Te peyveke kilît ku ji hêla bijareyê ve tê bikaranîn hilbijartiye. Ji kerema xwe re peyveke din hilbijêre.
