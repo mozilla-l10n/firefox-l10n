@@ -268,11 +268,40 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = แถบค้นหา
+search-bar-hidden =
+    .label = ใช้แถบที่อยู่สำหรับการค้นหาและการนำทาง
+search-bar-shown =
+    .label = เพิ่มแถบค้นหาในแถบเครื่องมือ
+search-engine-default-header = เครื่องมือค้นหาเริ่มต้น
+search-engine-default-desc = เลือกเครื่องมือค้นหาเริ่มต้นที่จะใช้ในแถบที่อยู่และแถบค้นหา
+search-suggestions-option =
+    .label = ให้ข้อเสนอแนะการค้นหา
+    .accesskey = ห
+search-show-suggestions-url-bar-option =
+    .label = แสดงข้อเสนอแนะการค้นหาในผลลัพธ์ของแถบที่อยู่
+    .accesskey = ส
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = แสดงข้อเสนอแนะการค้นหานำหน้าประวัติการท่องเว็บในผลลัพธ์ของแถบที่อยู่
+search-suggestions-cant-show = ข้อเสนอแนะการค้นหาจะไม่แสดงในผลลัพธ์ของแถบตำแหน่งที่ตั้งเนื่องจากคุณได้กำหนดค่า { -brand-short-name } ให้ไม่จดจำประวัติเสมอ
 search-one-click-header = เครื่องมือค้นหาในคลิกเดียว
+search-one-click-desc = เลือกเครื่องมือค้นหาทางเลือกที่จะปรากฏด้านล่างแถบที่อยู่และแถบค้นหาเมื่อคุณเริ่มป้อนคำสำคัญ
 search-choose-engine-column =
     .label = เครื่องมือค้นหา
 search-choose-keyword-column =
     .label = คำสำคัญ
+search-restore-default =
+    .label = เรียกคืนเครื่องมือค้นหาเริ่มต้น
+    .accesskey = ร
+search-remove-engine =
+    .label = เอาออก
+    .accesskey = อ
+search-find-more-link = ค้นหาเครื่องมือค้นหาเพิ่มเติม
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = คำแทนนี้ซ้ำกับคำแทนอื่น
