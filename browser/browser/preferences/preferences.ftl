@@ -280,11 +280,16 @@ network-proxy-connection-settings =
 ## Search Section
 
 search-engine-default-header = Подразумевани претраживач
+search-engine-default-desc = Изаберите подразумевани претраживач за адресну траку и траку за претрагу.
 search-suggestions-option =
     .label = Пружи предлоге претраге
     .accesskey = г
+search-show-suggestions-url-bar-option =
+    .label = Прикажи предлоге претраге у резултатима адресне траке
+    .accesskey = г
 search-suggestions-cant-show = Предлози претраге неће бити приказани у траци за локацију зато што сте подесили да { -brand-short-name } никада не памти историју.
 search-one-click-header = One-click претраживачи
+search-one-click-desc = Изаберите алтернативне претраживаче који ће се појављивати испод адресне траке и траке за претрагу приликом уноса кључне речи.
 search-choose-engine-column =
     .label = Претраживач
 search-choose-keyword-column =
@@ -295,6 +300,7 @@ search-restore-default =
 search-remove-engine =
     .label = Уклони
     .accesskey = У
+search-find-more-link = Нађите још претраживача
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Поновљена кључна реч
