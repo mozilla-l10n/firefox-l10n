@@ -277,6 +277,11 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Jeheka Renda
+search-bar-hidden =
+    .label = Eipuru kundaharape renda oñeikundaha ha ojeheka hag̃ua
+search-bar-shown =
+    .label = Toñembojoaju jeheka renda tembipuru rendápe
 search-engine-default-header = Hekaha ypykuéva
 search-engine-default-desc = Eiporavo hekaha mongu'eha ijypykuéva eipuru hag̃ua kundaharape ha jehekaha rendápe.
 search-suggestions-option =
@@ -285,6 +290,13 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Ehechauka ñe'ẽreka joguaha kundaharape ha avei jejuhu hague rendápe
     .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Tojechauka kundaharape rendápe ñe'ẽreka joguaha tembiasakue mboyve
 search-suggestions-cant-show = Jeheka je'epyréva ndojekuaamo'ãi kundaharape renda apopyrépe, oñembohekóma rupi { -brand-short-name } aníke nemandu'a tembiasakuére.
 search-one-click-header = Jehekaha mongu'eha jekutu peteĩva
 search-one-click-desc = Eiporavo hekaha mongu'eha mbojopyrukuaáva ojekuaáva kundaharape ha jehekaha renda guýpe eñepyrũvo emoinge peteĩ ñe'ẽ ñemigua.
