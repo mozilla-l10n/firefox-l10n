@@ -281,7 +281,32 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = Standardna pytnica
+search-engine-default-desc = Wubjeŕśo standardnu pytnicu, kótaraž ma se w adresowem pólu a pytańskem polu wužywaś.
+search-suggestions-option =
+    .label = Pytańske naraźenja pódaś
+    .accesskey = P
+search-show-suggestions-url-bar-option =
+    .label = Pytańske naraźenja we wuslědkach adresowego póla pokazaś
+    .accesskey = l
+search-suggestions-cant-show = Pytańske naraźenja njebudu se we wuslědkach adresowego póla pokazaś, dokulaž sćo { -brand-short-name } tak konfigurěrował, až njespomnjejo se nigda historiju.
+search-one-click-header = Pytnice z jadnym kliknjenim
+search-one-click-desc = Wubjeŕśo alternatiwne pytnice, kótarež se pód adresowym pólom a pytańskim pólom pokazuju, gaž klucowe słowo zapódawaśo.
+search-choose-engine-column =
+    .label = Pytnica
+search-choose-keyword-column =
+    .label = Klucowe słowo
+search-restore-default =
+    .label = Standardne pytnice wótnowiś
+    .accesskey = S
+search-remove-engine =
+    .label = Wótpóraś
+    .accesskey = W
+search-find-more-link = Dalšne pytnice pytaś
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Klucowe słowo duplicěrowaś
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Sćo klucowe słowo wubrał, kótarež wužywa se rowno wót "{ $name }". Pšosym wubjeŕśo druge.
 search-keyword-warning-bookmark = Sćo klucowe słowo wubrał, kótarež wužiwa se rowno wót cytańskich znemjenjow. Pšosym wubjeŕśo druge.
