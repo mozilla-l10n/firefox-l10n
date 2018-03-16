@@ -273,12 +273,29 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Paieškos laukas
+search-bar-hidden =
+    .label = Paieškai ir naršymui naudoti adreso lauką
+search-bar-shown =
+    .label = Pridėti paieškos lauką į priemonių juostą
 search-engine-default-header = Numatytoji ieškyklė
+search-engine-default-desc = Pasirinkite numatytąją ieškyklę, kuri bus naudojama adreso ir paieškos laukuose.
 search-suggestions-option =
     .label = Pateikti paieškos pasiūlymus
     .accesskey = i
+search-show-suggestions-url-bar-option =
+    .label = Rodyti paieškos žodžių siūlymus adreso lauko rezultatuose
+    .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Rodyti paieškos žodžių siūlymus virš naršymo žurnalo, matomus adreso juostos rezultatuose
 search-suggestions-cant-show = Paieškos žodžių siūlymai adreso lauke nebus rodomi, kadangi esate nustatę, jog „{ -brand-short-name }“ niekada nevestų žurnalo.
 search-one-click-header = Ieškyklės vienu spustelėjimu
+search-one-click-desc = Pasirinkite alternatyvias ieškykles, kurios pasirodo po adreso ir paieškos laukais, kai pradedate vesti žodį.
 search-choose-engine-column =
     .label = Ieškyklė
 search-choose-keyword-column =
