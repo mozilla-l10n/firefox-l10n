@@ -23,10 +23,10 @@
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
 <!ENTITY PhoneticField2.id              "PhoneticLastName">
 
-<!ENTITY NameField1.label               "Primo:">
-<!ENTITY NameField1.accesskey           "P">
-<!ENTITY NameField2.label               "Ultimo:">
-<!ENTITY NameField2.accesskey           "U">
+<!ENTITY NameField1.label               "Nome:">
+<!ENTITY NameField1.accesskey           "NP">
+<!ENTITY NameField2.label               "Cognome:">
+<!ENTITY NameField2.accesskey           "C">
 <!ENTITY PhoneticField1.label           "Fonetico:">
 <!ENTITY PhoneticField2.label           "Fonetico:">
 <!ENTITY DisplayName.label              "Nome visualizzato:">
