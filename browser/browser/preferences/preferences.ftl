@@ -276,3 +276,19 @@ network-proxy-connection-learn-more = Подробнее
 network-proxy-connection-settings =
     .label = Настроить…
     .accesskey = с
+
+## Search Section
+
+search-engine-default-desc = Выберите поисковую систему по умолчанию для использования в панели адреса и панели поиска.
+search-show-suggestions-url-bar-option =
+    .label = Отображать поисковые предложения при использовании панели адреса
+    .accesskey = ж
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Отображать поисковые предложения перед историей веб-сёрфинга при использовании панели адреса
+search-one-click-desc = Выберите альтернативные поисковые системы, которые появятся под панелью адреса и панелью поиска, когда вы начнёте вводить ключевое слово.
+search-find-more-link = Найти другие поисковые системы
