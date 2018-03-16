@@ -272,6 +272,13 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = Mecanismo de pesquisa padrão
+search-one-click-header = Mecanismos de pesquisa em um clique
+search-choose-keyword-column =
+    .label = Palavra-chave
+search-remove-engine =
+    .label = Remover
+    .accesskey = R
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Palavra-chave duplicada
