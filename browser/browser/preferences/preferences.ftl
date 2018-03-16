@@ -267,12 +267,22 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = অনুসন্ধান  বার
+search-bar-hidden =
+    .label = অনুসন্ধান এবং নেভিগেশনের জন্য ঠিকানা বার ব্যবহার করুন
+search-bar-shown =
+    .label = টুলবারে অনুসন্ধান বার যোগ করুন
 search-engine-default-header = ডিফল্ট সার্চ ইঞ্জিন
+search-engine-default-desc = ঠিকানা বারে এবং অনুসন্ধান বারে ব্যবহার করার জন্য ডিফল্ট সার্চ ইঞ্জিন চয়ন করুন।
 search-suggestions-option =
     .label = সার্চ সাজেশন প্রদান করুন
     .accesskey = s
+search-show-suggestions-url-bar-option =
+    .label = ঠিকানা বার ফলাফলগুলিতে অনুসন্ধানের পরামর্শগুলি দেখান
+    .accesskey = l
 search-suggestions-cant-show = অনুসন্ধানের পরামর্শগুলি লোকেশান বারে দেখানো হবেনা কারণ আপনি { -brand-short-name } কনফিগার করেছেন হিস্ট্রিতে মনে না রাখার জন্য।
 search-one-click-header = একক-ক্লিক সার্চ ইঞ্জিন
+search-one-click-desc = আপনি কীওয়ার্ড লিখতে শুরু করার সময় ঠিকানা বার এবং অনুসন্ধান বারের নীচে প্রদর্শিত বিকল্প অনুসন্ধান ইঞ্জিনগুলি নির্বাচন করুন।
 search-choose-engine-column =
     .label = সার্চ ইঞ্জিন
 search-choose-keyword-column =
@@ -283,6 +293,7 @@ search-restore-default =
 search-remove-engine =
     .label = মুছে ফেলুন
     .accesskey = R
+search-find-more-link = আরো অনুসন্ধানের ইঞ্জিনগুলিকে খুঁজুন
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = নির্দেশক শব্দ উপস্থিত রয়েছে
