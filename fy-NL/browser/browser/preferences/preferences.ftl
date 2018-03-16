@@ -283,3 +283,10 @@ search-choose-keyword-column =
 search-remove-engine =
     .label = Fuortsmite
     .accesskey = F
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Dûbel kaaiwurd
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Jo hawwe in kaaiwurd keazen dat op dit stuit yn gebrûk is troch ‘{ $name }’. Selektearje asjebleaft in oar.
+search-keyword-warning-bookmark = Jo hawwe in kaaiwurd keazen dat op dit stuit yn gebrûk is troch in blêdwizer. Selektearje asjebleaft in oar.
