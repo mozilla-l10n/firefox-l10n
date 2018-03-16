@@ -270,3 +270,10 @@ network-proxy-connection-learn-more = Sužinoti daugiau
 network-proxy-connection-settings =
     .label = Nuostatos…
     .accesskey = N
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Pasikartojantis reikšminis žodis
+search-keyword-warning-bookmark = Įvedėte reikšminį žodį, kurį jau naudojate adresyno įrašui. Prašom įvesti kitą.
