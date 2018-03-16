@@ -272,6 +272,11 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Leitarslá
+search-bar-hidden =
+    .label = Nota leitarslá til að leita og stýra
+search-bar-shown =
+    .label = Bæta við leitarslá í verkfæraslá
 search-engine-default-header = Sjálfgefin leitarvél
 search-engine-default-desc = Veldu sjálfgefna leitarvél sem er notuð fyrir staðsetningarslá og leitarslá
 search-suggestions-option =
