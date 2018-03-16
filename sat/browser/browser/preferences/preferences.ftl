@@ -131,6 +131,9 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-remove-engine =
+    .label = ओचोक्(R)
+    .accesskey = R
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = नोकोल तेयार का़ठी साबाद
