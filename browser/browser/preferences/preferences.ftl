@@ -278,8 +278,19 @@ search-engine-default-header = Прадвызначаны пашукавік
 search-suggestions-option =
     .label = Паказваць пошукавыя прапановы
     .accesskey = ы
+search-show-suggestions-url-bar-option =
+    .label = Паказваць пошукавыя прапановы пры выкарыстанні адраснага радка
+    .accesskey = п
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Адлюстроўваць пошукавыя прапановы перад гісторыяй вэб-аглядання пры выкарыстанні адраснага радка
 search-suggestions-cant-show = Пошукавыя прапановы у панэлі адрасу паказвацца не будуць, бо вы наладзілі { -brand-short-name } ніколі не запамінаць гісторыю.
 search-one-click-header = Пашукавікі ў адну пстрычку
+search-one-click-desc = Абярыце альтэрнатыўныя пашукавікі, якія з'яўляюцца пад адрасным радком ці панэллю пошуку, калі вы пачынаеце ўводзіць ключавое слова.
 search-choose-engine-column =
     .label = Пашукавік
 search-choose-keyword-column =
@@ -290,6 +301,7 @@ search-restore-default =
 search-remove-engine =
     .label = Выдаліць
     .accesskey = д
+search-find-more-link = Знайсці іншыя пашукавікі
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Паўторнае ключавое слова
