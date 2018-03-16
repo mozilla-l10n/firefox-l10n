@@ -264,10 +264,22 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-hidden =
+    .label = వెదకడానికీ పేజీలకు వెళ్ళడానికీ చిరునామా పట్టీనే వాడు
+search-bar-shown =
+    .label = పనిముట్లపట్టీలో వెతుకుడు పెట్టెను చూపించు
 search-engine-default-header = అప్రమేయ శోధన యంత్రం
 search-suggestions-option =
     .label = వెతుకుడు సలహాలను చూపించు
     .accesskey = s
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = చిరునామా పట్టీ ఫలితాలలో విహరణ చరిత్ర కంటే ముుందు వెతుకుడు సూచనలను చూపించు
+search-suggestions-cant-show = స్థాన పట్టీ ఫలితాలలో వెతుకుడు సలహాలను చూపించలేము ఎందుకంటే { -brand-short-name } మీ చరిత్రను ఎప్పుడూ గుర్తుంచుకోకుండా అమర్చుకున్నారు.
 search-one-click-header = ఒక్క-నొక్కు శోధన యంత్రాలు
 search-choose-engine-column =
     .label = శోధన యంత్రం
