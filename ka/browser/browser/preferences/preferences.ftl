@@ -277,8 +277,12 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = ნაგულისხმევი საძიებო სისტემა
 search-one-click-header = ერთ-წკაპიანი საძიებო სისტემები
 search-choose-engine-column =
     .label = საძიებო სისტემა
 search-choose-keyword-column =
     .label = საკვანძო სიტყვა
+search-restore-default =
+    .label = ნაგულისხმევი საძიებო სისტემების აღდგენა
+    .accesskey = ნ
