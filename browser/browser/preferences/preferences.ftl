@@ -271,12 +271,22 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Որոնման գոտի
+search-bar-hidden =
+    .label = Օգտագործեք հասցեի գոտին՝ որոնման և ուղորդման համար
+search-bar-shown =
+    .label = Ավելացնել որոնման գոտին գործիքագոտիում
 search-engine-default-header = Հիմնական որոնիչը
+search-engine-default-desc = Ընտրեք լռելյայն որոնիչը՝ օգտագործելու համար հասցեի և որոնման գոտիում:
 search-suggestions-option =
     .label = Ցուցադրել որոնման հուշումներ
     .accesskey = ո
+search-show-suggestions-url-bar-option =
+    .label = Ցուցադրել որոնման առաջարկները հասցեի գոտու արդյունքներում
+    .accesskey = l
 search-suggestions-cant-show = Որոնման առաջարկությունները չեն ցուցադրվի գտնման վայրի տողի արդյունքներում, քանի որ դուք կազմաձևել եք { -brand-short-name }-ը, որ երբեք չհիշի պատմությունը։
 search-one-click-header = Մեկ սեղմամբ որոնիչներ
+search-one-click-desc = Ընտրեք այլընտրանքային որոնիչներ, որոնք կերևան ստորև հասցեի գոտում և որոնման գոտիում, երբ մուտքագրեք հիմնաբառ:
 search-choose-engine-column =
     .label = Որոնիչներ
 search-choose-keyword-column =
@@ -287,6 +297,7 @@ search-restore-default =
 search-remove-engine =
     .label = Հեռացնել
     .accesskey = Հ
+search-find-more-link = Գտնել լրացուցիչ որոնիչներ
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Կրկնել հիմաբառը
