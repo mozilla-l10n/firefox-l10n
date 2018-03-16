@@ -2,43 +2,30 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionLearnMore.label    "Máis información">
 
-<!ENTITY tracking.label                 "Seguimento">
-<!ENTITY trackingProtectionPBM5.label         "Usar protección contra o seguimento nas xanelas privadas">
-<!ENTITY trackingProtectionPBM5.accesskey     "v">
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBMLearnMore.label "Máis información">
-<!ENTITY changeBlockList.label          "Cambiar lista de bloqueo">
-<!ENTITY changeBlockList.accesskey      "l">
-
-<!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 
 <!ENTITY  history.label                 "Historial">
 
-<!ENTITY  locationBar.label             "Barra de localización">
-
-<!ENTITY  locbar.history.label          "Historial">
-<!ENTITY  locbar.history.accesskey      "H">
+<!ENTITY  addressBar.suggest.label      "Cando use a barra de enderezos, suxerir do">
+<!ENTITY  locbar.history2.label         "Historial de navegación">
 <!ENTITY  locbar.bookmarks.label        "Marcadores">
 <!ENTITY  locbar.bookmarks.accesskey    "M">
-<!ENTITY  locbar.openpage.label         "Abrir lapelas">
+<!ENTITY  locbar.openpage.label         "Lapelas abertas">
 <!ENTITY  locbar.openpage.accesskey     "b">
 <!ENTITY  locbar.searches.label         "Buscas relacionadas do buscador predeterminado">
 <!ENTITY  locbar.searches.accesskey     "d">
 
 
-<!ENTITY  acceptCookies.label           "Aceptar as cookies das páxinas web">
-<!ENTITY  acceptCookies.accesskey       "A">
 
-<!ENTITY  acceptThirdParty.pre.label      "Aceptar cookies de terceiros:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+
+
+
 <!ENTITY  acceptThirdParty.always.label   "Sempre">
 <!ENTITY  acceptThirdParty.never.label    "Nunca">
 <!ENTITY  acceptThirdParty.visited.label  "Dos visitados">
 
-<!ENTITY  keepUntil.label               "Conservar ata:">
-<!ENTITY  keepUntil.accesskey           "C">
 
 <!ENTITY  expire.label                  "que caduquen">
 <!ENTITY  close.label                   "que peche &brandShortName;">
@@ -65,6 +52,7 @@
 <!ENTITY  rememberActions.removeCookies.label "retirar as cookies de xeito individual">
 <!ENTITY  rememberActions.post.label          ".">
 
+
 <!ENTITY  dontrememberDescription.label  "&brandShortName; usará a mesma configuración que na navegación privada, e non gardará ningún historial mentres navega pola Internet.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
@@ -72,6 +60,7 @@
 <!ENTITY  dontrememberActions.pre.label          "Tamén pode querer ">
 <!ENTITY  dontrememberActions.clearHistory.label "borrar todo o historial actual">
 <!ENTITY  dontrememberActions.post.label         ".">
+
 
 <!ENTITY  privateBrowsingPermanent2.label "Usar sempre o modo de navegación privada">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
@@ -87,4 +76,5 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Configuración…">
 <!ENTITY  clearOnCloseSettings.accesskey "g">
+
 
