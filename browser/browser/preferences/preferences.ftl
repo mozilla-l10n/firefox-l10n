@@ -277,6 +277,11 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Barra de pesquisa
+search-bar-hidden =
+    .label = Utilizar a barra de endereço para pesquisa e navegação
+search-bar-shown =
+    .label = Adicionar barra de pesquisa à barra de ferramentas
 search-engine-default-header = Motor de pesquisa predefinido
 search-engine-default-desc = Escolha o motor de pesquisa predefinido a utilizar na barra de endereço e barra de pesquisa.
 search-suggestions-option =
@@ -285,8 +290,16 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Mostrar sugestões de pesquisa nos resultados da barra de endereço
     .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Mostrar sugestões de pesquisa à frente do histórico de navegação nos resultados da barra de endereço
 search-suggestions-cant-show = Sugestões de pesquisa não serão apresentadas nos resultados da barra de localização porque configurou o { -brand-short-name } para nunca memorizar histórico.
 search-one-click-header = Motores de pesquisa de um clique
+search-one-click-desc = Escolha os motores de pesquisa alternativos que aparecem debaixo da barra de endereço e barra de pesquisa quando começa a introduzir uma palavra-chave.
 search-choose-engine-column =
     .label = Motor de pesquisa
 search-choose-keyword-column =
