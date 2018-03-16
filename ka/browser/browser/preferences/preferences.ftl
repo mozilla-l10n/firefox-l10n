@@ -274,3 +274,8 @@ network-proxy-connection-learn-more = ვრცლად
 network-proxy-connection-settings =
     .label = პარამეტრები…
     .accesskey = პ
+
+## Search Section
+
+search-choose-keyword-column =
+    .label = საკვანძო სიტყვა
