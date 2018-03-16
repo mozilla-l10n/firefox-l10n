@@ -270,7 +270,32 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = موتور جست‌وجو پیش‌فرض
+search-engine-default-desc = انتخاب یک موتور جست‌وجو پیش فرض برای استفاده در نوار ادرس و نوار جست‌وجو
+search-suggestions-option =
+    .label = عرضه پیشنهادهای جست‌وجو
+    .accesskey = ج
+search-show-suggestions-url-bar-option =
+    .label = نمایش پیشنهادهای جست‌و‌جو در نوار آدرس
+    .accesskey = آ
+search-suggestions-cant-show = پیشنهادهای جست‌وجو در نوار مکان نمایش داده نخواهد شده زیرا شما { -brand-short-name } را به گونه‌ای تنظیم کرده‌اید که هیچ تاریخچه‌ای را نگه ندارد.
+search-one-click-header = موتورهای جست‌وجوی تک-کلیکی
+search-one-click-desc = در هنگام وارد کردن کلید واژه‌ها جهت جست‌وجو، موتورهای جست‌وجو جایگزین را از قسمت پایینی نوار آدرس یا نوار جست‌وجو انتخاب کنید.
+search-choose-engine-column =
+    .label = موتور جست‌وجو
+search-choose-keyword-column =
+    .label = کلیدواژه
+search-restore-default =
+    .label = برگرداندن موتور جست‌وجوی پیش‌فرض
+    .accesskey = پ
+search-remove-engine =
+    .label = حذف
+    .accesskey = ح
+search-find-more-link = پیدا کردن موتورهای جست‌وجو بیشتر
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = کلیدواژهٔ تکراری
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = شما کلیدواژه‌ای انتخاب نموده‌اید که در حال حاضر توسط «{ $name }» در حال استفاده است. لطفا کلیدواژه دیگری انتخاب کنید.
 search-keyword-warning-bookmark = شما کلیدواژه‌ای انتخاب نموده‌اید که در حال حاضر توسط یک نشانک در حال استفاده است.  لطفاً کلیدواژهٔ دیگری انتخاب کنید.
