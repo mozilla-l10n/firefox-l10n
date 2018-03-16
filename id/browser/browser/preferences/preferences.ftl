@@ -261,3 +261,25 @@ network-proxy-connection-learn-more = Pelajari lebih lanjut
 network-proxy-connection-settings =
     .label = Setelan…
     .accesskey = S
+
+## Search Section
+
+search-engine-default-header = Mesin Pencari Baku
+search-suggestions-option =
+    .label = Sertakan saran pencarian
+    .accesskey = s
+search-one-click-header = Mesin pencari sekali klik
+search-choose-engine-column =
+    .label = Mesin Pencari
+search-choose-keyword-column =
+    .label = Kata Kunci
+search-restore-default =
+    .label = Pulihkan Mesin Pencari Bawaan
+    .accesskey = n
+search-remove-engine =
+    .label = Hapus
+    .accesskey = H
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Kata Kunci Ganda
+search-keyword-warning-bookmark = Anda telah memilih kata kunci yang sama dengan nama Markah. Silakan pilih kata lain.
