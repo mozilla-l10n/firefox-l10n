@@ -124,3 +124,10 @@ browsing-use-cursor-navigation =
 network-proxy-connection-settings =
     .label = Dipeakanyo…
     .accesskey = e
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Dira kopi ya lentšu la motheo
+search-keyword-warning-bookmark = O kgethile lentšu la motheo leo gabjale le dirišwago ke pukutshwayo. Hle kgetha le lengwe.
