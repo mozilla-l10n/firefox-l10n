@@ -277,12 +277,29 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Sökfält
+search-bar-hidden =
+    .label = Använd adressfältet för sökning och navigering
+search-bar-shown =
+    .label = Lägg till sökfältet i verktygsfältet
 search-engine-default-header = Standard sökmotor
+search-engine-default-desc = Välj standardsökmotor som ska användas i adressfältet och sökfältet.
 search-suggestions-option =
     .label = Ge sökförslag
     .accesskey = s
+search-show-suggestions-url-bar-option =
+    .label = Visa sökförslag i adressfältets resultat
+    .accesskey = f
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Visa sökförslag före surfhistoriken i adressfältets resultat
 search-suggestions-cant-show = Sökförslag kommer inte att visas i adressfältet eftersom du har konfigurerat { -brand-short-name } att aldrig spara historik.
 search-one-click-header = Sökfältets sökmotorer
+search-one-click-desc = Välj alternativa sökmotorer som visas under adressfältet och sökfältet när du börjar skriva in ett nyckelord.
 search-choose-engine-column =
     .label = Sökmotor
 search-choose-keyword-column =
@@ -293,6 +310,7 @@ search-restore-default =
 search-remove-engine =
     .label = Ta bort
     .accesskey = T
+search-find-more-link = Hitta fler sökmotorer
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Duplicera nyckelord
