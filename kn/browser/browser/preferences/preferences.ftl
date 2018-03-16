@@ -234,11 +234,15 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = ಹುಡುಕು  ಪಟ್ಟಿ
+search-bar-shown =
+    .label = ಹುಡುಕು ಪಟ್ಟಿಯನ್ನು ಉಪಕರಣಪಟ್ಟಿಗೆ ಸೇರಿಸು
 search-engine-default-header = ಪೂರ್ವನಿಯೋಜಿತ ಹುಡುಕು ಎಂಜಿನ್
 search-suggestions-option =
     .label = search ಸಲಹೆಗಳನ್ನು ತೋರಿಸು
     .accesskey = s
 search-suggestions-cant-show = ಎಂದಿಗೂ ಸಹ ಇತಿಹಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳಬೇಡ ಎಂದು ನೀವು { -brand-short-name } ಅನ್ನು ಸಂರಚಿಸಿರುವುದರಿಂದ ಹುಡುಕುವಾಗ ಸ್ಥಳದ ಪಟ್ಟಿಯ ಫಲಿತಾಂಶಗಳಲ್ಲಿ ಯಾವುದೆ ಸಲಹೆಗಳನ್ನು ತೋರಿಸಲಾಗುವುದಿಲ್ಲ.
+search-one-click-header = ಏಕ-ಕ್ಲಿಕ್ ಹುಡುಕು ಎಂಜಿನ್‌ಗಳು
 search-choose-engine-column =
     .label = ಹುಡುಕು ಎಂಜಿನ್‌
 search-choose-keyword-column =
