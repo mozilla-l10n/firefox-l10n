@@ -274,3 +274,21 @@ network-proxy-connection-learn-more = Daha fazla bilgi al
 network-proxy-connection-settings =
     .label = Ayarlar…
     .accesskey = A
+
+## Search Section
+
+search-engine-default-header = Varsayılan arama motoru
+search-suggestions-option =
+    .label = Arama önerileri sun
+    .accesskey = ö
+search-one-click-header = Tek tıklamalı arama motorları
+search-choose-engine-column =
+    .label = Arama motoru
+search-choose-keyword-column =
+    .label = Anahtar kelime
+search-restore-default =
+    .label = Varsayılan arama motorlarını geri yükle
+    .accesskey = V
+search-remove-engine =
+    .label = Kaldır
+    .accesskey = K
