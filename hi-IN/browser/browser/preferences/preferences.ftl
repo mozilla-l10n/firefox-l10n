@@ -281,6 +281,9 @@ search-engine-default-header = तयशुदा खोज इंजिन
 search-suggestions-option =
     .label = खोज सुझाव प्रदान करें
     .accesskey = s
+search-show-suggestions-url-bar-option =
+    .label = पता पट्टी परिणाम में खोज सुझाव दिखाएँ
+    .accesskey = l
 search-suggestions-cant-show = खोज सुझाव स्थान पट्टी में दिखाएँ नहीं जायेंगे क्योंकी आपने { -brand-short-name } को कभी भी इतिहास याद न रखने क लिए कॉन्फ़िगर करा है{ " " }
 search-one-click-header = एकल-क्लिक सर्च इंजन
 search-choose-engine-column =
@@ -293,6 +296,7 @@ search-restore-default =
 search-remove-engine =
     .label = हटाएँ
     .accesskey = R
+search-find-more-link = अधिक खोज इंजन पाएँ
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = बीजशब्द अनुकृति
