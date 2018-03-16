@@ -126,7 +126,13 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-remove-engine =
+    .label = Susa
+    .accesskey = S
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Yenza ikhophi yegama elingukhiye
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Ukhathe igama elingukhiye elisetshenziswa ngu-"{ $name }" okwamanje. Sicela ukhethe elinye.
 search-keyword-warning-bookmark = Ukhathe igama elingukhiye elisebenzisa uphawu lokubekisa okwamanje. Sicela ukhethe elinye.
