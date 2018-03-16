@@ -5,8 +5,8 @@
 <!ENTITY ctrlTabRecentlyUsedOrder.label       "Ctrl+Tab liigub kaartide vahel viimase kasutamise järjekorras">
 <!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "T">
 
-<!ENTITY newWindowsAsTabs.label       "Uued aknad avatakse uuel kaardil">
-<!ENTITY newWindowsAsTabs.accesskey   "U">
+<!ENTITY newWindowsAsTabs3.label       "Lingid avatakse kaartidel, mitte uutes akendes">
+<!ENTITY newWindowsAsTabs3.accesskey   "L">
 
 <!ENTITY warnOnCloseMultipleTabs.label      "Hoiatus, kui suletakse mitu kaarti korraga">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "H">

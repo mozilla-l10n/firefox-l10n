@@ -983,11 +983,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Uuendamiseks taaskäivita &brandShorterName;">
 
 <!ENTITY newTabControlled.message "Laiendus on muutnud uue kaardi lehte. Sa võid taastada sätted, kui sa ei soovi seda muudatust.">
+
 <!ENTITY newTabControlled.header.message "Uue kaardi sisu on muutunud.">
 <!ENTITY newTabControlled.keepButton.label "Säilita muudatused">
 <!ENTITY newTabControlled.keepButton.accesskey "S">
 <!ENTITY newTabControlled.restoreButton.label "Taasta sätted">
 <!ENTITY newTabControlled.restoreButton.accesskey "T">
+
+<!ENTITY newTabControlled.disableButton.label "Keela see laiendus">
+<!ENTITY newTabControlled.disableButton.accesskey "l">
 
 <!ENTITY pageActionButton.tooltip "Lehe toimingud">
 <!ENTITY pageAction.addToUrlbar.label "Lisa aadressiribale">

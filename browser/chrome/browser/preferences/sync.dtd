@@ -7,23 +7,30 @@
 <!ENTITY engine.bookmarks.label     "Järjehoidjad">
 <!ENTITY engine.bookmarks.accesskey "j">
 <!ENTITY engine.tabs.label2         "Avatud kaardid">
+<!ENTITY engine.tabs.title          "Nimekiri kaartidest, mis on avatud sünkroniseeritud seadmetes">
 <!ENTITY engine.tabs.accesskey      "r">
 <!ENTITY engine.history.label       "Ajalugu">
 <!ENTITY engine.history.accesskey   "a">
 <!ENTITY engine.logins.label        "Kasutajakontod">
+<!ENTITY engine.logins.title        "Salvestatud kasutajanimed ja paroolid">
 <!ENTITY engine.logins.accesskey    "u">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, used as the checkbox which indicates if prefs are synced
 -->
 <!ENTITY engine.prefsWin.label      "Sätted">
+<!ENTITY engine.prefsWin.accesskey  "S">
 <!ENTITY engine.prefs.label         "Eelistused">
 <!ENTITY engine.prefs.accesskey     "e">
+<!ENTITY engine.prefs.title         "Üldiste, privaatsuse ja turvalisuse sätete muudatused">
 <!ENTITY engine.addons.label        "Lisad">
+<!ENTITY engine.addons.title        "Arvutis kasutatava Firefoxi laiendused ja teemad">
 <!ENTITY engine.addons.accesskey    "i">
 <!ENTITY engine.addresses.label     "Aadressid">
+<!ENTITY engine.addresses.title     "Salvestatud postiaadressid (toetatud ainult arvutis töötavad brauserid)">
 <!ENTITY engine.addresses.accesskey "d">
 <!ENTITY engine.creditcards.label   "Krediitkaardid">
+<!ENTITY engine.creditcards.title   "Nimed, numbrid ja aegumiskuupäevad (toetatud ainult arvutis töötavad brauserid)">
 <!ENTITY engine.creditcards.accesskey "t">
 
 <!-- Device Settings -->
@@ -63,6 +70,10 @@ both, to better adapt this sentence to their language.
 <!ENTITY verifiedManage.accesskey     "o">
 <!ENTITY disconnect3.label            "Katkesta ühendus…">
 <!ENTITY disconnect3.accesskey        "K">
+<!ENTITY resendVerification.label     "Saada kinnitamise e-kiri uuesti">
+<!ENTITY resendVerification.accesskey "k">
+<!ENTITY cancelSetup.label            "Katkesta seadistamine">
+<!ENTITY cancelSetup.accesskey        "s">
 
 <!ENTITY signedOut.caption            "Võta oma veeb endaga kaasa">
 <!ENTITY signedOut.description        "Sync võimaldab sul sünkroniseerida järjehoidjad, ajaloo, kaardid, paroolid, lisad ja sätted kõigis sinu seadmetes.">
@@ -91,3 +102,5 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY mobilePromo3.end              ", et sünkroniseerida oma mobiilse seadmega.">
 
+<!ENTITY mobilepromo.singledevice      "Ühenda teine seade">
+<!ENTITY mobilepromo.multidevice       "Halda seadmeid">
