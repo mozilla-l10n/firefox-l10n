@@ -280,6 +280,10 @@ network-proxy-connection-settings =
 ## Search Section
 
 search-bar-header = Barrenn glask
+search-bar-hidden =
+    .label = Arverañ ar varrenn chomlec'hioù evit ar c'hlaskoù hag ar merdeiñ
+search-bar-shown =
+    .label = Ouzhpennañ ar varrenn glask er varrenn ostilhoù
 search-engine-default-header = Keflusker enklask dre ziouer
 search-engine-default-desc = Dibab al lusker klask dre ziouer da arverañ er varrenn chomlec'hioù hag er varrenn glask.
 search-suggestions-option =
@@ -288,6 +292,13 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Diskouez ar c'hinnigoù enklask e disoc'hoù ar varenn chomlec'hioù
     .accesskey = D
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Diskouez an alioù klask a-us d'ar roll istor e disoc'hoù ar varrenn chomlec'h
 search-suggestions-cant-show = Ne vo ket skrammet ar c'hinnigoù enklask e disoc'hoù ar varrenn chomlec'hioù dre m'ho peus kefluniet { -brand-short-name }  evit ma ne zalc'hfe ket soñj eus ho roll istor.
 search-one-click-header = Luskerioù enklask ur-c'hlik
 search-one-click-desc = Dibabit al luskerioù enklask all diskouezet dindan ar varrenn chomlec'hioù hag ar varrenn glask pa grogit da skrivañ ur ger.
