@@ -222,11 +222,17 @@ network-proxy-connection-settings =
 ## Search Section
 
 search-engine-default-header = පෙරනිමි සෙවුම් එළවුම
+search-suggestions-option =
+    .label = සෙවුම් යෝජනා ලබාදෙන්න
+    .accesskey = s
 search-one-click-header = ඒක-ක්ලික් සෙවුම් එළවුම්
 search-choose-engine-column =
     .label = සෙචුම් එළවුම
 search-choose-keyword-column =
     .label = මූල පදය
+search-restore-default =
+    .label = පෙරනිමි සෙවුම් එළවුමට යළි සකසන්න
+    .accesskey = D
 search-remove-engine =
     .label = ඉවත් කරන්න
     .accesskey = R
