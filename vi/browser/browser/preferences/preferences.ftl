@@ -260,3 +260,10 @@ network-proxy-connection-learn-more = Tìm hiểu thêm
 network-proxy-connection-settings =
     .label = Thiết lập…
     .accesskey = p
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Nhân bản Từ khóa
+search-keyword-warning-bookmark = Bạn đã chọn một từ khóa hiện đang được dùng bởi một trang đánh dấu. Vui lòng chọn từ khác.
