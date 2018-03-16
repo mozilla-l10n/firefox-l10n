@@ -272,12 +272,22 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Palal NJiilaw
+search-bar-hidden =
+    .label = Huutoro palal ñiiɓirɗe ngal ngam yiylaade e feeraade
+search-bar-shown =
+    .label = Ɓeydu palal njiilaw e palal kuutorɗe
 search-engine-default-header = Yiylorde Woowaande
+search-engine-default-desc = Suɓo yiylorde woowaande ngam huutoraade e palal ñiiɓirɗe e yiylorde.
 search-suggestions-option =
     .label = Hokku wasiyaaji njiilaw
     .accesskey = w
+search-show-suggestions-url-bar-option =
+    .label = Hollo basiye njiilaw e njaltudi palal ñiiɓirɗe ngal
+    .accesskey = l
 search-suggestions-cant-show = Basiye njiilaw kolliroytaake e njaltudi palal nokkuure sabu ko a teeltiiɗo { -brand-short-name } yoo waas siiftorde aslol.
 search-one-click-header = Yiylorde nde dobannde wootere
+search-one-click-desc = Suɓo jiylorɗe goɗɗe gonɗe les palal ñiiɓirɗe ngal e palal yiylorde so a fuɗɗiima naatnude helmere yiylorde.
 search-choose-engine-column =
     .label = Yiylorde
 search-choose-keyword-column =
@@ -288,6 +298,7 @@ search-restore-default =
 search-remove-engine =
     .label = Ittu
     .accesskey = I
+search-find-more-link = Yiylo jiylorɗe goɗɗe
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Sowto Helmede
