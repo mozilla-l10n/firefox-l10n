@@ -218,3 +218,13 @@ browsing-search-on-start-typing =
 network-proxy-connection-settings =
     .label = සැකසුම්...
     .accesskey = e
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = මූල පදය කිහිපවරක් භවිතකර ඇත
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = ඔබ විසින් තෝරාගත් මූල පදය දැනට "{ $name }" විසින් භාවිතා කරයි. කරුණාකර වෙනත් එකක් තෝරන්න.
+search-keyword-warning-bookmark = ඔබ විසින් තෝරාගත් මූල පදය දැනට පිටු සලකුණක් විසින් භාවිතා කරයි. කරුණාකර වෙනත් එකක් තෝරාගන්න.
