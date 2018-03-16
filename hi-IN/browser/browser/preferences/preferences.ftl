@@ -277,6 +277,26 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = तयशुदा खोज इंजिन
+search-suggestions-option =
+    .label = खोज सुझाव प्रदान करें
+    .accesskey = s
+search-suggestions-cant-show = खोज सुझाव स्थान पट्टी में दिखाएँ नहीं जायेंगे क्योंकी आपने { -brand-short-name } को कभी भी इतिहास याद न रखने क लिए कॉन्फ़िगर करा है{ " " }
+search-one-click-header = एकल-क्लिक सर्च इंजन
+search-choose-engine-column =
+    .label = खोज इंजन
+search-choose-keyword-column =
+    .label = बीजशब्द
+search-restore-default =
+    .label = Default सर्च इंजन पुनर्स्थापित करें
+    .accesskey = D
+search-remove-engine =
+    .label = हटाएँ
+    .accesskey = R
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = बीजशब्द अनुकृति
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = आपने एक बीजशब्द चुना है जो अभी "{ $name }" के द्वारा प्रयोग में है. कृपया दूसरा चुनें.
+search-keyword-warning-bookmark = आपने एक बीजशब्द चुना है जो अभी पुस्तचिह्न के द्वारा प्रयोग में है. कृपया दूसरा चुनें.‌
