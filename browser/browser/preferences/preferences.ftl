@@ -272,11 +272,24 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = खोजीपट्टि
+search-bar-hidden =
+    .label = खोजी र नेभिगेसनका लागि ठेगाना पट्टी प्रयोग गर्नुहोस्
+search-bar-shown =
+    .label = उपकरणपट्टिमा खोजिपट्टि थप्नुहोस्
+search-engine-default-header = पूर्वनिर्धारित खोजी इन्जिन
+search-engine-default-desc = खोजिपट्टि र ठेगानापट्टि मा प्रयोग गर्न पुर्वनिर्धारित खोजि इन्जिन चयन गर्नुहोस् ।
 search-suggestions-option =
     .label = खोज सुझावहरू प्रदान गर्ने
     .accesskey = s
+search-show-suggestions-url-bar-option =
+    .label = ठेगानापट्टिको नतिजाहरूमा खोज सुझावहरू देखाउनुहोस्
+    .accesskey = I
 search-suggestions-cant-show = खोज इतिहास कहिले पनि लोकेसन बारमा देखिदैन किनभने { -brand-short-name } लाई कहिले पनि इतिहास नसम्झनेमा सेट गर्नुभएको छ ।
 search-one-click-header = एक-क्लिक खोज इन्जिनहरू
+search-one-click-desc = बैकल्पिक खोज इन्जिनहरू चयन गर्नुहोस् जुन तपाईँले खोजशब्दहरू प्रविष्ट गर्न थालेपछि ठेगानापट्टि र खोजीपट्टि को तलपट्टि देखा पर्दछ ।
+search-choose-engine-column =
+    .label = खोजी इन्जिन
 search-choose-keyword-column =
     .label = शब्दकुञ्जी
 search-restore-default =
@@ -285,6 +298,7 @@ search-restore-default =
 search-remove-engine =
     .label = हटाउनुहोस्
     .accesskey = R
+search-find-more-link = थप खोज इन्जिनहरू फेला पार्नुहोस्
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = नक्कली शब्दकुञ्जी
