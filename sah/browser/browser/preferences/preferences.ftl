@@ -125,3 +125,10 @@ browsing-use-cursor-navigation =
 network-proxy-connection-settings =
     .label = Туруоруулар...
     .accesskey = р
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Маннык аат хайыы-үйэ баар эбит
+search-keyword-warning-bookmark = Эн талбыт аатыҥ биир бэлиэ-сирэйгэ туһаныллар эбит. Бука диэн, атыны тал.
