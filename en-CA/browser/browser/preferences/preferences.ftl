@@ -280,6 +280,13 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Show search suggestions in address bar results
     .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Show search suggestions ahead of browsing history in address bar results
 search-suggestions-cant-show = Search suggestions will not be shown in location bar results because you have configured { -brand-short-name } to never remember history.
 search-one-click-header = One-Click Search Engines
 search-one-click-desc = Choose the alternative search engines that appear below the address bar and search bar when you start to enter a keyword.
