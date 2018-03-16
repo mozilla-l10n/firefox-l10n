@@ -273,11 +273,25 @@ network-proxy-connection-settings =
 ## Search Section
 
 search-engine-default-header = Mecanismo de pesquisa padrão
+search-suggestions-option =
+    .label = Sugestões de pesquisa
+    .accesskey = S
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Mostrar sugestões de pesquisa antes do histórico de navegação nos resultados da barra de endereço
+search-suggestions-cant-show = As sugestões de pesquisa não serão mostradas nos resultados da barra de endereço, porque você configurou o { -brand-short-name } para nunca lembrar o histórico.
 search-one-click-header = Mecanismos de pesquisa em um clique
 search-choose-engine-column =
     .label = Mecanismo de pesquisa
 search-choose-keyword-column =
     .label = Palavra-chave
+search-restore-default =
+    .label = Restaurar mecanismos de pesquisa padrão
+    .accesskey = p
 search-remove-engine =
     .label = Remover
     .accesskey = R
