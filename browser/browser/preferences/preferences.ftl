@@ -266,3 +266,10 @@ network-proxy-connection-learn-more = Ketahui Selanjutnya
 network-proxy-connection-settings =
     .label = Tetapan…
     .accesskey = t
+
+## Search Section
+
+search-choose-engine-column =
+    .label = Enjin Carian
+search-choose-keyword-column =
+    .label = Kata kunci
