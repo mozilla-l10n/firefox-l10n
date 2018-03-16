@@ -269,11 +269,29 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = 검색 표시줄
+search-bar-hidden =
+    .label = 주소 표시줄을 사용하여 검색과 탐색
+search-bar-shown =
+    .label = 도구 모음에 검색 표시줄 추가
 search-engine-default-header = 기본 검색 사이트
+search-engine-default-desc = 주소바와 검색바에서 사용할 기본 검색 엔진을 선택하세요.
 search-suggestions-option =
     .label = 검색어 자동 완성 쓰기
     .accesskey = s
+search-show-suggestions-url-bar-option =
+    .label = 주소바 결과에 검색 추천 보임
+    .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = 주소창의 검색 기록 앞에 검색 추천 보이기
+search-suggestions-cant-show = { -brand-short-name }가 탐색 목록을 저장하지 않도록 설정했기 때문에 주소창 결과에 검색 추천이 나오지 않을 것입니다.
 search-one-click-header = 원클릭 검색 사이트
+search-one-click-desc = 단어 입력을 시작했을 때 주소바와 검색바 아래에 나타날 대체 검색 엔진을 선택하세요.
 search-choose-engine-column =
     .label = 검색 사이트
 search-choose-keyword-column =
@@ -284,6 +302,7 @@ search-restore-default =
 search-remove-engine =
     .label = 지우기
     .accesskey = r
+search-find-more-link = 더 많은 검색 엔진 찾기
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = 키워드 복사
