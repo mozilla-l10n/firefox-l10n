@@ -109,7 +109,7 @@ containers-disable-alert-title = Ufuna ukuvala Zonke iiThebhu zeeKhonteyina?
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Ukuba uyazivala iiThebhu zeKhonteyina ngoku, i-{ $tabCount } ithebhu yekhonteyina iya kuvalwa. Uqinisekile ukuba ufuna ukuzivala iiThebhu zeKhonteyina?
-       *[other]  Ukuba uyazivala iiThebhu zeKhonteyina ngoku, ii-{ $tabCount } iithebhu zekhonteyina ziya kuvalwa. Uqinisekile ukuba ufuna ukuzivala iiThebhu zeKhonteyina?
+       *[other] Ukuba uyazivala iiThebhu zeKhonteyina ngoku, ii-{ $tabCount } iithebhu zekhonteyina ziya kuvalwa. Uqinisekile ukuba ufuna ukuzivala iiThebhu zeKhonteyina?
     }
 containers-disable-alert-ok-button =
     { $tabCount ->
@@ -238,3 +238,10 @@ browsing-search-on-start-typing =
 network-proxy-connection-settings =
     .label = Isetingi…
     .accesskey = e
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Phindaphinda igama eliphambili
+search-keyword-warning-bookmark = Ukhethe igama eliphambili elisetyenziswa kungokunje yibhukhmakhi. Nceda ukhethe elinye.
