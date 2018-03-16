@@ -45,3 +45,8 @@ performance-settings-learn-more = Cchiú nfurmazzioni
 network-proxy-connection-settings =
     .label = Mpustazzioni…
     .accesskey = M
+
+## Search Section
+
+search-bar-shown =
+    .label = Agghiunci la sbarra di circata nnâ sbarra dî strummenta
