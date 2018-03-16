@@ -269,3 +269,10 @@ network-proxy-connection-learn-more = Fræðast meira
 network-proxy-connection-settings =
     .label = Stillingar…
     .accesskey = S
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Stikkorð er þegar til
+search-keyword-warning-bookmark = Þú hefur valið stikkorð sem er þegar í notkun af bókamerki. Veldu eitthvað annað.
