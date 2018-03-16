@@ -149,3 +149,10 @@ browsing-use-cursor-navigation =
 network-proxy-connection-settings =
     .label = Settings…
     .accesskey = e
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Duplicate Keyword
+search-keyword-warning-bookmark = You have chosen a keyword that is currently in use by a bookmark. Please select another.
