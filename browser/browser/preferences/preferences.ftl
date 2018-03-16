@@ -277,7 +277,32 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = முன்னிருப்பு தேடுப்பொறி
+search-engine-default-desc = இடப்பட்டையிலும் தேடுபட்டையிலும் பாவிக்க இயல்புநிலைத் தேடுபொறியைத் தேர்ந்தெடு{ " " }
+search-suggestions-option =
+    .label = தேடல் பரிந்துரைகளை வழங்கு
+    .accesskey = s
+search-show-suggestions-url-bar-option =
+    .label = தேடல் பரிந்துரைகளை இடப்பட்டை முடிவுகளில் காண்பி
+    .accesskey = l
+search-suggestions-cant-show = தேடல் பரிந்துரைகள் இடப்பட்டையில் காட்டப்படாது ஏனெனில் நீங்கள் { -brand-short-name } என்பதை வரலாற்றில் நினைவு கொள்ளாமல் இருக்கும்படி கட்டமைத்துள்ளீர்கள்.
+search-one-click-header = ஒரு சொடுக்கு தேடுபொறிகள்
+search-one-click-desc = நீங்கள் உள்ளிட துவங்கும்போது, இடப்பட்டை மற்றும் தேடுபட்டையின் அடியில் இடம்பெறும் மாற்று தேடுபொறியைத் தேர்ந்தெடுக
+search-choose-engine-column =
+    .label = தேடுபொறி
+search-choose-keyword-column =
+    .label = முக்கியச்சொல்
+search-restore-default =
+    .label = முன்னிருப்பு தேடுபொறிகளை மீட்டமை
+    .accesskey = D
+search-remove-engine =
+    .label = நீக்கு
+    .accesskey = R
+search-find-more-link = மேலும் பல தேடு பொறிகளைக் கண்டுபிடி
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = இரட்டை முக்கிய சொல்
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = நீங்கள் தேர்ந்தெடுத்த ஒரு முக்கியச்சொல் தற்போது "{ $name }"ஆல் பயன்படுத்தப்படுகிறது. வேறொன்றை தேர்ந்தெடுக்கவும்.
 search-keyword-warning-bookmark = நீங்கள் தேர்ந்தெடுத்த ஒரு முக்கியச்சொல் தற்போது ஒரு புத்தகக்குறியால் பயன்படுத்தப்படுகிறது. வேறொன்றை தேர்ந்தெடுக்கவும்.
