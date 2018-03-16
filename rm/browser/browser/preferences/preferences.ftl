@@ -264,3 +264,39 @@ network-proxy-title = Proxy da la rait
 network-proxy-connection-settings =
     .label = Parameters…
     .accesskey = P
+
+## Search Section
+
+search-bar-header = Trav da tschertgar
+search-bar-hidden =
+    .label = Utilisar la trav d'adressas per tschertgar e navigar
+search-bar-shown =
+    .label = Agiuntar la trav da tschertgar a la trav d'utensils
+search-engine-default-header = Maschina da tschertgar da standard
+search-engine-default-desc = Tscherna la maschina da tschertgar da standard per la trav d'adressas e la trav da tschertgar.
+search-suggestions-option =
+    .label = Porscher propostas da tschertgar
+    .accesskey = s
+search-show-suggestions-url-bar-option =
+    .label = Mussar propostas da tschertga en ils resultats da la trav d'adressas
+    .accesskey = M
+search-one-click-header = Maschinas da tschertgar cun-in-clic
+search-one-click-desc = Tscherna las maschinas da tschertgar alternativas che cumparan sut la trav d'adressas e la trav da tschertgar sche ti cumenzas a tippar in pled.
+search-choose-engine-column =
+    .label = Maschina da tschertgar
+search-choose-keyword-column =
+    .label = Chavazzin
+search-restore-default =
+    .label = Restaurar las maschinas da tschertgar da standard
+    .accesskey = d
+search-remove-engine =
+    .label = Allontanar
+    .accesskey = r
+search-find-more-link = Chattar ulteriuras maschinas da tschertgar
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Duplitgar il pled magic
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Ti has tschernì in pled magic che vegn gia utilisà da "{ $name }". Tscherna per plaschair in auter.
+search-keyword-warning-bookmark = Ti has tschernì in pled magic che vegn gia utilisà d'in segnapagina. Tscherna per plaschair in auter.
