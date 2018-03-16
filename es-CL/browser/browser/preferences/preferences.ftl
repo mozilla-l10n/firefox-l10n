@@ -277,11 +277,29 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Barra de búsqueda
+search-bar-hidden =
+    .label = Usa la barra de direcciones para buscar y navegar
+search-bar-shown =
+    .label = Añadir barra de búsqueda a la barra de herramientas
 search-engine-default-header = Motor de búsqueda predeterminado
+search-engine-default-desc = Elegir el motor de búsqueda predeterminado a usar en la barra de direcciones y en la barra de búsqueda.
 search-suggestions-option =
     .label = Proveer sugerencias de búsqueda
     .accesskey = s
+search-show-suggestions-url-bar-option =
+    .label = Mostrar sugerencias de búqueda en los resultados de la barra de direcciones
+    .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Mostrar sugerencias de búsqueda antes del historial de navegación en los resultados de la barra de direcciones
+search-suggestions-cant-show = Las sugerencias de búsqueda no serán mostradas en la barra de direcciones porque configuraste { -brand-short-name } para que nunca recuerde el historial.
 search-one-click-header = Cambio rápido de buscadores
+search-one-click-desc = Elegir los motores de búsqueda alternativos que aparecen bajo la barra de direcciones y la barra de búsqueda cuando empiezas a escribir una palabra clave.
 search-choose-engine-column =
     .label = Motor de búsqueda
 search-choose-keyword-column =
@@ -292,3 +310,11 @@ search-restore-default =
 search-remove-engine =
     .label = Remover
     .accesskey = r
+search-find-more-link = Buscar más motores de búsqueda
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Palabra clave duplicada
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Has escogido una palabra clave que está siendo usada por "{ $name }". Por favor, escoge otra.
+search-keyword-warning-bookmark = Has escogido una palabra clave que está siendo usada por un marcador. Por favor, escoge otra.
