@@ -269,3 +269,10 @@ network-proxy-connection-learn-more = Saber-ne mas
 network-proxy-connection-settings =
     .label = Configuración…
     .accesskey = o
+
+## Search Section
+
+search-one-click-header = Motors de busca d'un solo click
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Ha trigau una parola clau que ya emplega "{ $name }". Trigue-ne unatra.
