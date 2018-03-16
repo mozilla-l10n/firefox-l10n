@@ -4,7 +4,7 @@
 
 <!ENTITY     window.title                  "સેટિંગ્સ - સાઇટ ડેટા">
 
-<!ENTITY     window1.title                 "સેટિંગ્સ - કૂકીઝ અને સાઇટ ડેટા">
+<!ENTITY     window2.title                 "કુકીઝ અને સાઇટ ડેટા મેનેજ કરો">
 <!ENTITY     hostCol.label                 "સાઈટ">
 <!ENTITY     statusCol.label               "સ્થિતિ">
 <!ENTITY     cookiesCol.label              "કૂકીઝ">
