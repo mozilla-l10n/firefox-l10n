@@ -278,9 +278,31 @@ network-proxy-connection-settings =
 ## Search Section
 
 search-engine-default-header = K'o wi chi kanonel
+search-engine-default-desc = Tacha' ri ruk'u'x kanob'äl kan k'o wi richin nawokisaj pa ri kikajtz'ik taq ochochib'äl chuqa' pa ri rukajtz'ik kanoxïk.
+search-suggestions-option =
+    .label = Tiya' pe taq chilab'en  richin nikanöx
+    .accesskey = n
+search-show-suggestions-url-bar-option =
+    .label = Kek'ut pe taq ruchilab'enik kanoxïk chi kikojol ri kiq'iq'oj kikajtz'ik taq ochochib'äl
+    .accesskey = q
+search-suggestions-cant-show = Man xkeq'alajin ta pe ri taq chilab'exïk richin nikanöx pa rukajtz'ik ochochib'äl ruma chi anuk'un ri { -brand-short-name } richin majub'ey tunataj ri anatab'al.
+search-one-click-header = Samajel taq kanob'äl rik'in jupitz'oj
+search-one-click-desc = Ke'acha' chi kikojol ri kik'u'x taq kanob'äl yeq'alajin pe chuxe' ri kikajtz'ik taq ochochib'äl chuqa' ri rukajtz'ik kanoxïk toq natz'ib'aj qa jun ruxe'el tzij.
+search-choose-engine-column =
+    .label = Rusamajel kanob'äl
+search-choose-keyword-column =
+    .label = Ruk'u'x tzij
+search-restore-default =
+    .label = Ketzolïx ri kisamajel kanob'äl ruk'amon wi pe
+    .accesskey = r
 search-remove-engine =
     .label = Telesäx
     .accesskey = s
+search-find-more-link = Kekanöx ch'aqa' chik kik'u'x taq kanob'äl
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Kamulun ewan tzij
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Xacha' jun ewan tzij ri tajin nokisäx ruma “{ $name }”. Tacha' jun chik.
+search-keyword-warning-bookmark = Xacha' jun ewan tzij okisan ruma jun yaketal. Tacha' jun chik.
