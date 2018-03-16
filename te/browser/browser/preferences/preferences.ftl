@@ -264,6 +264,7 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = శోధన పట్టి
 search-bar-hidden =
     .label = వెదకడానికీ పేజీలకు వెళ్ళడానికీ చిరునామా పట్టీనే వాడు
 search-bar-shown =
@@ -291,6 +292,7 @@ search-restore-default =
 search-remove-engine =
     .label = తీసివేయి
     .accesskey = R
+search-find-more-link = మరిన్ని శోధన యంత్రాలను కనుగొనండి
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = నకిలీ కీ పదము
