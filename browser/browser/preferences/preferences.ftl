@@ -264,3 +264,13 @@ network-proxy-title = Netværks-proxy
 network-proxy-connection-settings =
     .label = Indstillinger…
     .accesskey = I
+
+## Search Section
+
+search-engine-default-header = Standard-søgetjeneste
+search-suggestions-option =
+    .label = Vis søgeforslag
+    .accesskey = s
+search-one-click-header = Lyn-søgetjenester
+search-choose-engine-column =
+    .label = Søgetjeneste
