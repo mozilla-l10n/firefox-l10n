@@ -277,12 +277,29 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Søkelinje
+search-bar-hidden =
+    .label = Bruk adresselinjen for søk og navigering
+search-bar-shown =
+    .label = Legg til søkelinje i verktøylinjen
 search-engine-default-header = Standard søkemotor
+search-engine-default-desc = Velg standardsøkemotor som skal brukes i adresselinjen og søkelinjen.
 search-suggestions-option =
     .label = Tilby søkeforslag
     .accesskey = T
+search-show-suggestions-url-bar-option =
+    .label = Vis søkeforslag i adresselinjens resultater
+    .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Vis søkeforslag før nettleserhistorikk i adressefeltsresultatene
 search-suggestions-cant-show = Søkeforslag vil ikke vises i adresselinjeresultatene fordi du har konfigurert { -brand-short-name } til å aldri huske historikk.
 search-one-click-header = Ettklikks søkemotorer
+search-one-click-desc = Velg alternative søkemotorer som vises under adresselinjen og søkelinjen når du begynner å skrive inn et søkeord.
 search-choose-engine-column =
     .label = Søkemotor
 search-choose-keyword-column =
@@ -293,6 +310,7 @@ search-restore-default =
 search-remove-engine =
     .label = Fjern
     .accesskey = F
+search-find-more-link = Finn flere søkemotorer
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Duplikat nøkkelord
