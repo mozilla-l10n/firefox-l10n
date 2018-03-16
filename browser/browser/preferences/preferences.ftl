@@ -277,6 +277,11 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = खोज पट्टी
+search-bar-hidden =
+    .label = खोज और परिवहन के लिए पता पट्टी की प्रयोग करें
+search-bar-shown =
+    .label = औज़ार पट्टी में खोज पट्टी जोड़े
 search-engine-default-header = तयशुदा खोज इंजिन
 search-engine-default-desc = { " " }पता पट्टी और खोज पट्टी में उपयोग करने के लिए डिफ़ॉल्ट खोज इंजन का चयन करें.
 search-suggestions-option =
@@ -287,6 +292,7 @@ search-show-suggestions-url-bar-option =
     .accesskey = l
 search-suggestions-cant-show = खोज सुझाव स्थान पट्टी में दिखाएँ नहीं जायेंगे क्योंकी आपने { -brand-short-name } को कभी भी इतिहास याद न रखने क लिए कॉन्फ़िगर करा है{ " " }
 search-one-click-header = एकल-क्लिक सर्च इंजन
+search-one-click-desc = खोजशब्द दर्ज करना प्रारंभ करते समय वैकल्पिक खोज इंजिन चुने जोकि पता पट्टी और खोज पट्टी के नीचे प्रकट होते हैं.
 search-choose-engine-column =
     .label = खोज इंजन
 search-choose-keyword-column =
