@@ -274,10 +274,25 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = Nūkluseitais mekleituojs
 search-suggestions-option =
     .label = Provide search suggestions
     .accesskey = s
 search-suggestions-cant-show = Search suggestions will not be shown in location bar results because you have configured { -brand-short-name } to never remember history.
+search-choose-engine-column =
+    .label = Mekleituoji
+search-choose-keyword-column =
+    .label = Atslāgi vuords
 search-restore-default =
     .label = Restore Default Search Engines
     .accesskey = d
+search-remove-engine =
+    .label = Aizvuokt
+    .accesskey = z
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Itaids atslāgi vuords jau eksistej
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Jius izavieliejatīs atslāgi vuordu, kū itūbreid jau izmontoj "{ $name }". Lyudzu, izavielit cytu.
+search-keyword-warning-bookmark = Jius izavieliejatīs atslāgi vuordu, kū jau izmontoj kaida gruomotzeime. Lyudzu, izavielit cytu.
