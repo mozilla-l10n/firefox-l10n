@@ -269,3 +269,7 @@ network-proxy-connection-learn-more = Μάθετε περισσότερα
 network-proxy-connection-settings =
     .label = Ρυθμίσεις…
     .accesskey = θ
+
+## Search Section
+
+search-engine-default-header = Προεπιλεγμένη μηχανή αναζήτησης
