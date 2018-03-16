@@ -269,13 +269,44 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Bar Carian
+search-bar-hidden =
+    .label = Gunakan bar alamat untuk mencari dan navigasi
+search-bar-shown =
+    .label = Tambah bar carian dalam bar alatan
 search-engine-default-header = Enjin Carian Piawai
+search-engine-default-desc = Pilih enjin carian piawai untuk digunakan dalam bar alamat dan bar carian.
 search-suggestions-option =
     .label = Sediakan cadangan carian
     .accesskey = s
+search-show-suggestions-url-bar-option =
+    .label = Papar cadangan carian dalam keputusan bar alamat
+    .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Papar cadangan carian sebelum sejarah pelayaran dalam hasil bar alamat
 search-suggestions-cant-show = Cadangan carian tidak akan dipaparkan dalam keputusan bar lokasi kerana anda telah mengkonfigurasi { -brand-short-name } untuk tidak mengingati sejarah.
 search-one-click-header = Enjin carian klik-tunggal
+search-one-click-desc = Pilih enjin carian alternatif yang muncul di bawah bar alamat dan bar carian apabila anda mula memasukkan kata kunci.
 search-choose-engine-column =
     .label = Enjin Carian
 search-choose-keyword-column =
     .label = Kata kunci
+search-restore-default =
+    .label = Pulih Enjin Carian Piawai
+    .accesskey = w
+search-remove-engine =
+    .label = Buang
+    .accesskey = u
+search-find-more-link = Cari lebih banyak enjin carian
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Kata kunci Duplikasi
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Anda telah memilih kata kunci yang sedang digunakan oleh "{ $name }". Sila pilih yang lain.
+search-keyword-warning-bookmark = Anda telah memilih kata kunci yang sedang digunakan oleh tandabuku. Sila pilih yang lain.
