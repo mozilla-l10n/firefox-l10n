@@ -281,6 +281,7 @@ search-engine-default-header = Varsayılan arama motoru
 search-suggestions-option =
     .label = Arama önerileri sun
     .accesskey = ö
+search-suggestions-cant-show = { -brand-short-name } tarayıcısını geçmişi hatırlamayacak şekilde ayarladığınız için konum çubuğu sonuçlarında arama önerileri gösterilmeyecektir.
 search-one-click-header = Tek tıklamalı arama motorları
 search-choose-engine-column =
     .label = Arama motoru
@@ -292,3 +293,10 @@ search-restore-default =
 search-remove-engine =
     .label = Kaldır
     .accesskey = K
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Tekrarlanan Anahtar Kelime
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Şu anda “{ $name }” tarafından kullanılan bir anahtar kelime seçtiniz. Lütfen başka bir şey seçin.
+search-keyword-warning-bookmark = Şu anda bir yer imi tarafından kullanılan bir anahtar kelime seçtiniz. Lütfen başka bir şey seçin.
