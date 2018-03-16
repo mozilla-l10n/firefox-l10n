@@ -278,10 +278,10 @@ search-engine-default-header = Enjin Carian Piawai
 search-engine-default-desc = Pilih enjin carian piawai untuk digunakan dalam bar alamat dan bar carian.
 search-suggestions-option =
     .label = Sediakan cadangan carian
-    .accesskey = s
+    .accesskey = S
 search-show-suggestions-url-bar-option =
     .label = Papar cadangan carian dalam keputusan bar alamat
-    .accesskey = l
+    .accesskey = P
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
