@@ -219,3 +219,29 @@ browsing-search-on-start-typing =
 network-proxy-connection-settings =
     .label = Parametrlar…
     .accesskey = e
+
+## Search Section
+
+search-engine-default-header = Standart qidiruv tizimi
+search-suggestions-option =
+    .label = Qidiruv tavsiyalarini keltirish
+    .accesskey = Q
+search-suggestions-cant-show = Qidiruv tavsiyalari manzil qatorida ko‘rsatilmaydi, chunki { -brand-short-name } brauzerini tarixni eslab qolmaydigan qilib sozlagansiz.
+search-one-click-header = Bir bosishda izlash qidiruv tizimlari
+search-choose-engine-column =
+    .label = Qidiruv tizimlari
+search-choose-keyword-column =
+    .label = Kalit so‘z
+search-restore-default =
+    .label = Standart qidiruv tizimlarini tiklash
+    .accesskey = S
+search-remove-engine =
+    .label = Olib tashlash
+    .accesskey = O
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Kalit so‘z nusxasini yaratish
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = "{ $name }" foydalanadigan kalit so‘zni tanlagansiz. Boshqasini tanlang.
+search-keyword-warning-bookmark = Xatcho‘pda foydalaniladigan kalit so‘zni tanlagansiz. Boshqasini tanlang.
