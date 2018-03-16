@@ -269,3 +269,29 @@ network-proxy-connection-learn-more = Ɓeydu humpito
 network-proxy-connection-settings =
     .label = Teelte…
     .accesskey = e
+
+## Search Section
+
+search-engine-default-header = Yiylorde Woowaande
+search-suggestions-option =
+    .label = Hokku wasiyaaji njiilaw
+    .accesskey = w
+search-suggestions-cant-show = Basiye njiilaw kolliroytaake e njaltudi palal nokkuure sabu ko a teeltiiɗo { -brand-short-name } yoo waas siiftorde aslol.
+search-one-click-header = Yiylorde nde dobannde wootere
+search-choose-engine-column =
+    .label = Yiylorde
+search-choose-keyword-column =
+    .label = Helmere yiylorde
+search-restore-default =
+    .label = Artir Jiylorɗe Goowaaɗe
+    .accesskey = t
+search-remove-engine =
+    .label = Ittu
+    .accesskey = I
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Sowto Helmede
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = A suɓiima helmere yiylorde wonnde e huutoreede e oo sahaa e "{ $name }". Tiiɗno labo woɗnde.
+search-keyword-warning-bookmark = A suɓiima helmere yiylorde wonnde e huutoreede e oo sahaa e maantorol. Tiiɗno labo woɗnde.
