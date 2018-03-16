@@ -225,7 +225,26 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = Versteksoekenjin
+search-suggestions-option =
+    .label = Verskaf soekvoorstelle
+    .accesskey = s
+search-suggestions-cant-show = Soekvoorstelle sal nie in die liggingbalk gewys word nie omdat { -brand-short-name } opgestel is om nooit geskiedenis te onthou nie.
+search-one-click-header = Enkelklik-soekenjins
+search-choose-engine-column =
+    .label = Soekenjin
+search-choose-keyword-column =
+    .label = Sleutelwoord
+search-restore-default =
+    .label = Stel versteksoekenjins terug
+    .accesskey = v
+search-remove-engine =
+    .label = Verwyder
+    .accesskey = V
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Dupliseer sleutelwoord
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = U het 'n sleutelwoord gekies wat tans deur "{ $name }" gebruik word. Kies 'n ander een.
 search-keyword-warning-bookmark = U het 'n sleutelwoord gekies wat tans deur 'n boekmerk gebruik word. Kies 'n ander een.
