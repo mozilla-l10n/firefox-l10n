@@ -29,7 +29,7 @@ restart-later = Bí~rè là kíy sé rá
 
 ## General Section
 
-startup-header =  Tòlô
+startup-header = Tòlô
 startup-blank-page =
     .label = Mb-lòɁ lô nakìs
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -99,3 +99,8 @@ browsing-title = Te tak kuan lu koo lash luu
 network-proxy-connection-settings =
     .label = Tak thus kuey como lash luuy...
     .accesskey = T
+
+## Search Section
+
+search-choose-keyword-column =
+    .label = Taa diif dizh
