@@ -268,3 +268,29 @@ network-proxy-connection-learn-more = Pli da informo
 network-proxy-connection-settings =
     .label = Agordoj…
     .accesskey = g
+
+## Search Section
+
+search-engine-default-header = Norma serĉilo
+search-suggestions-option =
+    .label = Montri serĉajn sugestojn
+    .accesskey = s
+search-suggestions-cant-show = Sugestoj de serĉiloj ne aperos en la rezultoj de la adresa strio ĉar vi petis al { -brand-short-name } neniam memori la historion.
+search-one-click-header = Serĉiloj per unu alklako
+search-choose-engine-column =
+    .label = Serĉilo
+search-choose-keyword-column =
+    .label = Ŝlosilvorto
+search-restore-default =
+    .label = Remeti la normajn serĉilojn
+    .accesskey = n
+search-remove-engine =
+    .label = Forigi
+    .accesskey = F
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Duobligita kategoria vorto
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Vi elektis kategorian vorton kiu estas nuntempe uzata de "{ $name }". Bonvolu elekti alian.
+search-keyword-warning-bookmark = Vi elektis kategorian vorton kiu estas nuntempe uzata de legosigno. Bonvolu elekti alian.
