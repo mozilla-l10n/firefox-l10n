@@ -438,6 +438,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Bizskrivit un termen da glask pe ur chomlec'h">
+<!ENTITY urlbar.placeholder3          "Enankit gerioù klask ha chomlec'hioù amañ">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Askouezh:">
@@ -982,11 +983,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Adloc'hit evit hizivaat &brandShorterName;">
 
 <!ENTITY newTabControlled.message "Kemmet eo bet gant un askouezh ar bajenn a welit pa tigorit un ivinell nevez. Gallout a rit he atoriñ en arventennoù.">
+
 <!ENTITY newTabControlled.header.message "Kemmet eo bet pajenn an ivinell nevez.">
 <!ENTITY newTabControlled.keepButton.label "Mirout ar c'hemmoù">
 <!ENTITY newTabControlled.keepButton.accesskey "M">
 <!ENTITY newTabControlled.restoreButton.label "Atoriñ an arventennoù">
 <!ENTITY newTabControlled.restoreButton.accesskey "A">
+
+<!ENTITY newTabControlled.disableButton.label "Diweredekaat an askouezh">
+<!ENTITY newTabControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "Gweredoù ar bajenn">
 <!ENTITY pageAction.addToUrlbar.label "Ouzhpennañ d'ar varenn chomlec'h">
