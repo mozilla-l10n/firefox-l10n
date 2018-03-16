@@ -270,3 +270,10 @@ network-proxy-connection-learn-more = Saznajte više
 network-proxy-connection-settings =
     .label = Postavke…
     .accesskey = e
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Duplicirana ključna riječ
+search-keyword-warning-bookmark = Izabrali ste ključnu riječ koju trenutno koristi zabilješka. Molimo izaberite drugu.
