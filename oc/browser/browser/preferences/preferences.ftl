@@ -272,7 +272,24 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = Motor de cerca per defaut
+search-suggestions-option =
+    .label = Afichar de suggestions de recèrca
+    .accesskey = A
+search-choose-engine-column =
+    .label = Motor de recèrca
+search-choose-keyword-column =
+    .label = Mot clau
+search-restore-default =
+    .label = Restablir los motors de recèrca per defaut
+    .accesskey = d
+search-remove-engine =
+    .label = Suprimir
+    .accesskey = S
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Doblon de mot clau
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Avètz causit un mot clau que ja es utilizat per « { $name } ». Causissètz-ne un autre.
 search-keyword-warning-bookmark = Avètz causit un mot clau que ja es utilizat per un marcapaginas. Causissètz-ne un autre.
