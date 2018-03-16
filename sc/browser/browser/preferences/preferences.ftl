@@ -47,3 +47,7 @@ performance-settings-learn-more = Leghe àteru
 
 ## General Section - Proxy
 
+
+## Search Section
+
+search-engine-default-header = Pone su primu chircadore chi b'est istadu
