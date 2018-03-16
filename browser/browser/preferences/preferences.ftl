@@ -274,3 +274,47 @@ network-proxy-connection-learn-more = Mësoni Më Tepër
 network-proxy-connection-settings =
     .label = Rregullime…
     .accesskey = R
+
+## Search Section
+
+search-bar-header = Shtyllë Kërkimesh
+search-bar-hidden =
+    .label = Përdoreni shtyllën e adresave për kërkime dhe lëvizje
+search-bar-shown =
+    .label = Shtoni te paneli shtyllë kërkimesh
+search-engine-default-header = Motor Parazgjedhje Kërkimesh
+search-engine-default-desc = Zgjidhni motorin parazgjedhje të kërkimeve që do të përdoret te shtylla e adresave dhe shtylla e kërkimeve.
+search-suggestions-option =
+    .label = Ofro këshillime kërkimesh
+    .accesskey = O
+search-show-suggestions-url-bar-option =
+    .label = Shfaq këshillime kërkimi te përfundimet për shtyllë vendesh
+    .accesskey = q
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Shfaq te përfundimet në shtyllën e adresave sugjerime kërkimi përpara se historik shfletimi
+search-suggestions-cant-show = Këshillimet për kërkime nuk do të shfaqen te shtylla e vendndodhjeve, ngaqë { -brand-short-name }-in e keni formësuar të mos mbajë kurrë mend historikun e shfletimeve.
+search-one-click-header = Motorë kërkimesh me një klikim
+search-one-click-desc = Zgjidhni motorë alternativë kërkimesh që duket nën shtyllën e adresave dhe shtyllën e kërkimeve kur filloni të jepni një fjalëkyç.
+search-choose-engine-column =
+    .label = Motor Kërkimesh
+search-choose-keyword-column =
+    .label = Fjalëkyç
+search-restore-default =
+    .label = Rikthe Motorët Parazgjedhje të Kërkimeve
+    .accesskey = R
+search-remove-engine =
+    .label = Hiqe
+    .accesskey = H
+search-find-more-link = Gjeni më tepër motorë kërkimesh
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Fjalëkyç i Përsëdytur
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Keni zgjedhur një fjalëkyç që hëpërhë po përdoret nga "{ $name }". Ju lutemi, përzgjidhni një tjetër.
+search-keyword-warning-bookmark = Zgjodhët një fjalëkyç që hëpërhë po përdoret nga një faqerojtës. Ju lutemi, përzgjidhni një tjetër.
