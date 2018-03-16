@@ -269,3 +269,17 @@ network-proxy-connection-learn-more = Lês mear
 network-proxy-connection-settings =
     .label = Ynstellingen…
     .accesskey = Y
+
+## Search Section
+
+search-engine-default-header = Standertsykmasine
+search-suggestions-option =
+    .label = Sykfoarstellen jaan
+    .accesskey = S
+search-choose-engine-column =
+    .label = Sykmasine
+search-choose-keyword-column =
+    .label = Kaaiwurd
+search-remove-engine =
+    .label = Fuortsmite
+    .accesskey = F
