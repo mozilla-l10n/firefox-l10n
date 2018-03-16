@@ -243,8 +243,22 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = မူသေ ရှာဖွေရေး ယန္တရား
+search-suggestions-option =
+    .label = ရှာဖွေရေး အကြံပြုချက်များကို ပြပါ
+    .accesskey = s
+search-suggestions-cant-show = ရှာဖွေရေးဘားတွင် ရှာဖွေမှု အကြံပြုချက်များကို ပြသမည်မဟုတ်ပါ။ မှတ်တမ်းများ မှတ်မထားရန် { -brand-short-name } ကို သတ်မှတ်ထားသောကြောင့် ဖြစ်သည်။
+search-one-click-header = ကလစ် တစ်ချက်နှိပ် ရှာဖွေရေးယန္တရားများ
+search-choose-engine-column =
+    .label = ရှာဖွေရေးယန္တရား
 search-choose-keyword-column =
     .label = သော့ချက် စာလုံး
+search-restore-default =
+    .label = ရှာဖွေရေးယန္တရားများကို မူလအတိုင်း ပြန်ထားပါ
+    .accesskey = d
+search-remove-engine =
+    .label = ဖယ်ရှားပါ
+    .accesskey = r
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = သော့ချက် စာလုံး ပုံတူပွားပါ
