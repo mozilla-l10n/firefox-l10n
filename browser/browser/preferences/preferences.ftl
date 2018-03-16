@@ -276,3 +276,9 @@ network-proxy-connection-learn-more = Află mai multe
 network-proxy-connection-settings =
     .label = Setări…
     .accesskey = e
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Cuvânt cheie duplicat
