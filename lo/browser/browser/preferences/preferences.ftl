@@ -101,6 +101,35 @@ performance-default-content-process-count =
 
 ## Search Section
 
+search-bar-header = ແທັບຄົ້ນຫາ
+search-bar-hidden =
+    .label = ນໍາໃຊ້ແທັບທີ່ຢູ່ເພື່ອຄົ້ນຫາ ແລະ ນໍາທາງ
+search-bar-shown =
+    .label = ເພີ່ມແທັບຄົ້ນຫາໃນແທັບເຄື່ອງມື
+search-engine-default-header = ເຄື່ອງມືການຄົ້ນຫາເລີ່ມຕົ້ນ
+search-engine-default-desc = ເລືອກເຄື່ອງມືການຄົ້ນຫາເລີ່ມຕົ້ນເພື່ອໃຊ້ໃນແທັບທີ່ຢູ່ ແລະ ແທັບຄົ້ນຫາ
+search-suggestions-option =
+    .label = ໃຫ້ຄໍາແນະນໍາໃນການຄົ້ນຫາ
+    .accesskey = S
+search-show-suggestions-url-bar-option =
+    .label = ສະແດງຜົນໄດ້ຮັບໃນແທັບທີ່ຢູ່
+    .accesskey = l
+search-one-click-header = One-Click ເຄື່ອງມືການຄົ້ນຫາ
+search-choose-engine-column =
+    .label = ເຄື່ອງມືການຄົ້ນຫາ
+search-choose-keyword-column =
+    .label = ຄໍາທີ່ຕ້ອງການຄົ້ນຫາ
+search-restore-default =
+    .label = ກູ້ຄືນເຄື່ອງມືການຄົ້ນຫາເລີ່ມຕົ້ນ
+    .accesskey = d
 search-remove-engine =
     .label = ລຶບ
     .accesskey = ລ
+search-find-more-link = ໃຊ້ເຄື່ອງມືການຄົ້ນຫາເພີ່ມ
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = ຄໍາທີ່ໃຊ້ຄົ້ນຊ້ໍາກັນ
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = ທ່ານໄດ້ເລືອກເອົາຄຳທີ່ໃຊ້ທີ່ຖືກໂດຍ“{ $name }”ກະລຸນາເລືອກຄຳໃຊ້ອື່ນ
+search-keyword-warning-bookmark = ທ່ານໄດ້ເລືອກເອົາຄໍາທີ່ໃຊ້ທີ່ຖືກໃຊ້ໂດຍຄັ່ນໜ້າ ກະລຸນາເລືອກຄຳໃຊ້ອື່ນ
