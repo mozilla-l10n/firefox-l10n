@@ -272,6 +272,20 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Pasek wyszukiwania
+search-bar-hidden =
+    .label = Pasek adresu z funkcjami wyszukiwania i nawigacji
+search-bar-shown =
+    .label = Osobny pasek wyszukiwania
+search-engine-default-header = Domyślna wyszukiwarka
+search-engine-default-desc = Wybierz domyślną wyszukiwarkę paska adresu i paska wyszukiwania.
+search-one-click-header = Dodatkowe wyszukiwarki
+search-one-click-desc = Wybierz dodatkowe wyszukiwarki wyświetlane na dole wyników wyszukiwania w pasku adresu i pasku wyszukiwania.
+search-choose-engine-column =
+    .label = Nazwa
+search-choose-keyword-column =
+    .label = Słowo kluczowe
+search-find-more-link = Więcej wyszukiwarek
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Słowo kluczowe już istnieje
