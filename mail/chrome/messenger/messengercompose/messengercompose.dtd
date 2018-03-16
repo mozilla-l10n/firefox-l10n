@@ -88,6 +88,17 @@
 <!ENTITY reorderAttachmentsCmd.label "Folchoarder fan bylagen wizigje…">
 <!ENTITY reorderAttachmentsCmd.accesskey "F">
 <!ENTITY reorderAttachmentsCmd.key "x">
+<!ENTITY toggleAttachmentPaneCmd.label "Bylagefinster">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
+     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
+     as attachments.accesskey. -->
+<!ENTITY toggleAttachmentPaneCmd.accesskey "f">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
+     With OS-specific access modifier, this defines the shortcut key for showing/
+     hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
+     toggleAttachmentPaneCmd.key and attachments.accesskey must be the same
+     for the bucket view state machinery to work. -->
+<!ENTITY toggleAttachmentPaneCmd.key "f">
 <!ENTITY selectAllCmd.label "Alles selektearje">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "A">
@@ -109,26 +120,10 @@
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Folchoarder fan bylagen wizigje">
 <!ENTITY moveAttachmentTopPanelBtn.label "Boppe-oan pleatse">
-<!ENTITY moveAttachmentTopPanelBtn.accesskey "B">
 <!ENTITY moveAttachmentUpPanelBtn.label "Omheech ferpleatse">
-<!ENTITY moveAttachmentUpPanelBtn.accesskey "O">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Tegearre pleatse">
-<!ENTITY moveAttachmentBundleUpPanelBtn.accesskey "T">
 <!ENTITY moveAttachmentDownPanelBtn.label "Omleech ferpleatse">
-<!ENTITY moveAttachmentDownPanelBtn.accesskey "l">
 <!ENTITY moveAttachmentBottomPanelBtn.label "Underoan pleatse">
-<!ENTITY moveAttachmentBottomPanelBtn.accesskey "U">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.label):
-     Please ensure that this translation matches
-     sortAttachmentsTogglePanelBtn.ZA.label, except for the sort direction. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.label "Seleksje sortearje: A - Z">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.accesskey):
-     This accesskey should be the same like
-     sortAttachmentsTogglePanelBtn.ZA.accesskey, and it should be taken from
-     the "Sort Selection:" part of the label, not from the sort direction part. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.accesskey "A">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.label "Seleksje sortearje: Z - A">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.accesskey "Z">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -253,6 +248,7 @@
 <!ENTITY quoteButton.tooltip "It foarige berjocht sitearje">
 <!ENTITY addressButton.tooltip "Immen út in adresboek selektearje">
 <!ENTITY attachButton.tooltip "In bylage keppelje">
+<!ENTITY attachButton.tooltip2 "Bylage tafoegje">
 <!ENTITY spellingButton.tooltip "Kontrolearje stavering fan seleksje of folsleine berjocht">
 <!ENTITY saveButton.tooltip "Dit berjocht bewarje">
 <!ENTITY cutButton.tooltip              "Knippe">
@@ -274,9 +270,14 @@
 <!ENTITY followupAddr.label "Reaksjes nei:">
 <!ENTITY subject.label "Underwerp:">
 <!ENTITY subject.accesskey "n">
-<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
-     to the strings in attachmentCount in composeMsgs.properties -->
+<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
+     be taken from the strings in attachmentCount in composeMsgs.properties,
+     and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
+     work, as the shortcut key functionality supersedes the access key. -->
 <!ENTITY attachments.accesskey "a">
+
+<!ENTITY attachmentBucketHeader.tooltip "Bylagefinster">
+<!ENTITY attachmentBucketCloseButton.tooltip "It bylagefinster ferstopje">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "In glimke ynfoegje">
@@ -314,6 +315,7 @@
 <!ENTITY pasteQuote.label "Plakke as sitaat">
 <!ENTITY pasteQuote.accesskey "s">
 
+<!-- Attachment Item and List Context Menus -->
 <!ENTITY openAttachment.label "Iepenje">
 <!ENTITY openAttachment.accesskey "I">
 <!ENTITY delete.label "Fuortsmite">
@@ -324,6 +326,8 @@
 <!ENTITY renameAttachment.accesskey "O">
 <!ENTITY reorderAttachments.label "Folchoarder bylagen wizigje…">
 <!ENTITY reorderAttachments.accesskey "b">
+<!ENTITY removeAllAttachments.label "Alle bylagen fuortsmite">
+<!ENTITY removeAllAttachments.accesskey "A">
 <!ENTITY selectAll.label "Alles selektearje">
 <!ENTITY selectAll.accesskey "A">
 <!ENTITY attachFile.label "Bestân(nen) keppelje…">
