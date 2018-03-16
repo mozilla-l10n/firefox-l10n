@@ -272,12 +272,29 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Barra de busqueda
+search-bar-hidden =
+    .label = Fe servir la barra d'adrezas pa buscar y navegar
+search-bar-shown =
+    .label = Anyader la barra de busqueda en a barra de ferramientas
 search-engine-default-header = Motor de busca por defecto
+search-engine-default-desc = Trigar lo motor de busqueda per defecto a fer servir en a barra d'adrezas y barra de busqueda.
 search-suggestions-option =
     .label = Dar sucherencia de busca
     .accesskey = b
+search-show-suggestions-url-bar-option =
+    .label = Amostrar las sucherencias de busqueda en os resultaus d'a barra d'adrezas
+    .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Amostrar las sucherencias de busqueda antes de l'hstorial de navegación en os resultasu d'a barra d'adrezas
 search-suggestions-cant-show = No s'amostrarán sucherencias de busca a os resultaus d'a barra d'ubicación porque ha configurau o { -brand-short-name } pa que no recuerde nunca o historial.
 search-one-click-header = Motors de busca d'un solo click
+search-one-click-desc = Triga los motors de busqueda alternativos que amaneixerán debaixo d'a barra d'adrezas y la barra de busqueda quan empecipies a tecliar una parola clau.
 search-choose-engine-column =
     .label = Motors de busca
 search-choose-keyword-column =
@@ -288,6 +305,7 @@ search-restore-default =
 search-remove-engine =
     .label = Borrar…
     .accesskey = r
+search-find-more-link = Troba mas motors de busqueda
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Duplicar a parola clau
