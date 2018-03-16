@@ -287,6 +287,7 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Vis søgeforslag før resultater fra din browserhistorik i adresselinjen
+search-suggestions-cant-show = Søgeforslag vil ikke blive vist i adressefeltet, fordi du har sat { -brand-short-name } op til aldrig at gemme historik.
 search-one-click-header = Lyn-søgetjenester
 search-one-click-desc = Vælg de alternative søgetjenester, der vises under adresselinjen og søgelinjen, når du begynder at indtaste en søgeterm.
 search-choose-engine-column =
