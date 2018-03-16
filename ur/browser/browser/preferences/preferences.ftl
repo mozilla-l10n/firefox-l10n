@@ -220,7 +220,25 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = طےشدہ تلاش انجن
+search-suggestions-option =
+    .label = تلاش تجاویز مہیا کریں
+    .accesskey = ت
+search-suggestions-cant-show = تلاش کردہ تجاویز محل وقوع کے بار کے نتائج میں دکھاءی نھیں جائنگے کیونکہ { -brand-short-name } تاریخ کبھی یاد نہیں رکھنے پر تشکیل کردہ ہے۔
+search-choose-engine-column =
+    .label = تلاش انجن{ " " }
+search-choose-keyword-column =
+    .label = کلیدی لفظ
+search-restore-default =
+    .label = طےشدہ تلاش انجن بحال کریں
+    .accesskey = ط
+search-remove-engine =
+    .label = ہٹائیں
+    .accesskey = ہ
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = کلیدی لفظ مثنی کریں
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = آپ نے ایسا کلیدی لفظ منتخب کیا ہے جسے "{ $name }" اس وقت استعمال کر رہا ہے۔ مہربانی کر کہ کوئی اور منتخب کیجیے۔
 search-keyword-warning-bookmark = آپ نے ایسا کلیدی لفظ منتخب کیا ہے جسے ایک نشانی اس وقت استعمال کر رہی ہے۔ مہربانی کر کہ کوئی اور منتخب کیجیے۔
