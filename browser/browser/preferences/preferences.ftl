@@ -277,12 +277,29 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Arama çubuğu
+search-bar-hidden =
+    .label = Hem arama hem de gezinti için adres çubuğunu kullan
+search-bar-shown =
+    .label = Araç çubuğuna arama çubuğunu ekle
 search-engine-default-header = Varsayılan arama motoru
+search-engine-default-desc = Adres çubuğunda ve arama çubuğunda kullanılacak varsayılan arama motorunu seçin.
 search-suggestions-option =
     .label = Arama önerileri sun
     .accesskey = ö
+search-show-suggestions-url-bar-option =
+    .label = Adres çubuğu sonuçlarında arama önerilerini göster
+    .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Adres çubuğu sonuçlarında arama önerilerini gezinti geçmişinden önce göster
 search-suggestions-cant-show = { -brand-short-name } tarayıcısını geçmişi hatırlamayacak şekilde ayarladığınız için konum çubuğu sonuçlarında arama önerileri gösterilmeyecektir.
 search-one-click-header = Tek tıklamalı arama motorları
+search-one-click-desc = Anahtar kelimeleri yazmaya başladığınızda adres çubuğunun ve arama çubuğunun altında görünecek alternatif arama motorlarını seçin.
 search-choose-engine-column =
     .label = Arama motoru
 search-choose-keyword-column =
@@ -293,6 +310,7 @@ search-restore-default =
 search-remove-engine =
     .label = Kaldır
     .accesskey = K
+search-find-more-link = Daha fazla arama motoru bul
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Tekrarlanan Anahtar Kelime
