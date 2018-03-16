@@ -128,7 +128,12 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-choose-keyword-column =
+    .label = Күлүүс тыл
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Маннык аат хайыы-үйэ баар эбит
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = «{ $name }» бу ааты хайыы-үйэ туһана сылдар эбит. Бука диэн, атыны тал.
 search-keyword-warning-bookmark = Эн талбыт аатыҥ биир бэлиэ-сирэйгэ туһаныллар эбит. Бука диэн, атыны тал.
