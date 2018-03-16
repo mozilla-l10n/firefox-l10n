@@ -277,6 +277,17 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = Bilaketa-motor lehenetsia
+search-choose-engine-column =
+    .label = Bilaketa-motorra
+search-choose-keyword-column =
+    .label = Gako-hitza
+search-restore-default =
+    .label = Berrezarri bilaketa-motor lehenetsiak
+    .accesskey = h
+search-remove-engine =
+    .label = Kendu
+    .accesskey = K
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Bikoiztutako gako-hitza
