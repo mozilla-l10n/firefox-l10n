@@ -265,3 +265,10 @@ network-proxy-title = Mrežni proxy
 network-proxy-connection-settings =
     .label = Postavke...
     .accesskey = e
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Postojeća ključna riječ
+search-keyword-warning-bookmark = Odabrali ste ključnu riječ koju koristi zabilješka. Molim odaberite drugu.
