@@ -278,6 +278,7 @@ search-engine-default-header = Noklusētais meklētājs
 search-suggestions-option =
     .label = Piedāvāt meklēšanas ieteikumus
     .accesskey = s
+search-suggestions-cant-show = Meklēšanas ieteikumi netiks parādīti adreses joslā, jo { -brand-short-name } ir nokonfigurēts neatcerēties vēsturi.
 search-one-click-header = Viena klikšķa meklētāji
 search-choose-engine-column =
     .label = Meklētāji
@@ -292,4 +293,7 @@ search-remove-engine =
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Šāds atslēgas vārds jau eksistē
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Jūs izvēlējāties atslēgas vārdu, ko šobrīd jau izmanto "{ $name }". Lūdzu, izvēlieties citu.
 search-keyword-warning-bookmark = Jūs izvēlējāties atslēgas vārdu, ko jau izmanto kāda grāmatzīme. Lūdzu, izvēlieties citu.
