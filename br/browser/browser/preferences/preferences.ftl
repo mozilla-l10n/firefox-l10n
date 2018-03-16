@@ -279,7 +279,25 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = Keflusker enklask dre ziouer
+search-suggestions-option =
+    .label = Kinnig alioù enklask
+    .accesskey = a
+search-suggestions-cant-show = Ne vo ket skrammet ar c'hinnigoù enklask e disoc'hoù ar varrenn chomlec'hioù dre m'ho peus kefluniet { -brand-short-name }  evit ma ne zalc'hfe ket soñj eus ho roll istor.
+search-choose-engine-column =
+    .label = Keflusker enklask
+search-choose-keyword-column =
+    .label = Ger-alc'hwez
+search-restore-default =
+    .label = Assav ar c'hefluskerioù enklask dre ziouer
+    .accesskey = z
+search-remove-engine =
+    .label = Dilemel
+    .accesskey = D
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Arredaoliñ ur ger alc'hwez
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Dibabet hoc'h eus ur ger alc'hwez war arver evit bremañ gant "{ $name }". Mar plij, diuzit unan all.
 search-keyword-warning-bookmark = Dibabet hoc'h eus ur ger alc'hwez war arver evit bremañ gant ur sined. Mar plij, diuzit unan all.
