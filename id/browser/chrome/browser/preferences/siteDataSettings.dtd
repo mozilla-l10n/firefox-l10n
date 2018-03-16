@@ -4,7 +4,7 @@
 
 <!ENTITY     window.title                  "Setelan - Data situs">
 
-<!ENTITY     window1.title                 "Setelan - Kuki dan Data Situs">
+<!ENTITY     window2.title                 "Kelola Kuki dan Data Situs">
 <!ENTITY     hostCol.label                 "Situs">
 <!ENTITY     statusCol.label               "Status">
 <!ENTITY     cookiesCol.label              "Kuki">
