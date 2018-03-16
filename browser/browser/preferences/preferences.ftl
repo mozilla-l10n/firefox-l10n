@@ -279,6 +279,11 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = Výchozí vyhledávací modul
+search-choose-engine-column =
+    .label = Vyhledávací modul
+search-choose-keyword-column =
+    .label = Klíčové slovo
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Použité klíčové slovo
