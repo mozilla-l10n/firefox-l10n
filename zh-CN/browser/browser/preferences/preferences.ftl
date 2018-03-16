@@ -277,6 +277,11 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = 搜索栏
+search-bar-hidden =
+    .label = 使用地址栏完成搜索和访问
+search-bar-shown =
+    .label = 添加搜索栏到工具栏
 search-engine-default-header = 默认搜索引擎
 search-engine-default-desc = 选择在地址栏和搜索栏中搜索时默认使用的搜索引擎。
 search-suggestions-option =
