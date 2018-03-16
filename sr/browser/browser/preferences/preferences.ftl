@@ -279,6 +279,11 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Трака за претрагу
+search-bar-hidden =
+    .label = Користи адресну траку за претрагу и навигацију
+search-bar-shown =
+    .label = Додај траку за претрагу на алатну траку
 search-engine-default-header = Подразумевани претраживач
 search-engine-default-desc = Изаберите подразумевани претраживач за адресну траку и траку за претрагу.
 search-suggestions-option =
@@ -287,6 +292,13 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Прикажи предлоге претраге у резултатима адресне траке
     .accesskey = г
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Прикажи предлоге претраге испред историје прегледања у резултатима у адресној траци
 search-suggestions-cant-show = Предлози претраге неће бити приказани у траци за локацију зато што сте подесили да { -brand-short-name } никада не памти историју.
 search-one-click-header = One-click претраживачи
 search-one-click-desc = Изаберите алтернативне претраживаче који ће се појављивати испод адресне траке и траке за претрагу приликом уноса кључне речи.
