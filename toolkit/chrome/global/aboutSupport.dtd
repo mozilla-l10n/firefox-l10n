@@ -25,8 +25,11 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Versioon">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.securitySoftwareTitle "Turvatarkvara">
+<!ENTITY aboutSupport.securitySoftwareType "Tüüp">
 <!ENTITY aboutSupport.securitySoftwareName "Nimi">
 <!ENTITY aboutSupport.securitySoftwareAntivirus "Viirusetõrje">
+<!ENTITY aboutSupport.securitySoftwareAntiSpyware "Nuhkvaratõrje">
 <!ENTITY aboutSupport.securitySoftwareFirewall "Tulemüür">
 
 <!ENTITY aboutSupport.featuresTitle "&brandShortName;i erifunktsioonid">
@@ -76,6 +79,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsProcessCount "Veebisisu protsessid">
 
+<!ENTITY aboutSupport.enterprisePolicies "Rühmapoliitikad">
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Google võti">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla asukohateenuse võti">
@@ -162,4 +166,12 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceRate "Sagedus">
 <!ENTITY aboutSupport.mediaDeviceLatency "Latentsus">
 
+<!ENTITY aboutSupport.intlTitle "Lokaliseerimine">
 <!ENTITY aboutSupport.intlAppTitle "Rakenduse sätted">
+<!ENTITY aboutSupport.intlLocalesRequested "Keele-eelistused">
+<!ENTITY aboutSupport.intlLocalesAvailable "Saadaolevad lokaadid">
+<!ENTITY aboutSupport.intlLocalesSupported "Rakenduste lokaadid">
+<!ENTITY aboutSupport.intlLocalesDefault "Vaikelokaat">
+<!ENTITY aboutSupport.intlOSTitle "Operatsioonisüsteem">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "Süsteemi lokaadid">
+<!ENTITY aboutSupport.intlRegionalPrefs "Regionaalsed sätted">
