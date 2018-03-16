@@ -274,3 +274,9 @@ network-proxy-connection-learn-more = Ətraflı öyrən
 network-proxy-connection-settings =
     .label = Nizamlar…
     .accesskey = a
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Təkrarlanan Açar Söz
