@@ -152,7 +152,25 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = Default Search Engine
+search-suggestions-option =
+    .label = Provide search suggestions
+    .accesskey = s
+search-suggestions-cant-show = Search suggestions will not be shown in location bar results because you have configured { -brand-short-name } to never remember history.
+search-choose-engine-column =
+    .label = Search Engine
+search-choose-keyword-column =
+    .label = Keyword
+search-restore-default =
+    .label = Restore Default Search Engines
+    .accesskey = D
+search-remove-engine =
+    .label = Remove
+    .accesskey = R
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Duplicate Keyword
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = You have chosen a keyword that is currently in use by “{ $name }”. Please select another.
 search-keyword-warning-bookmark = You have chosen a keyword that is currently in use by a bookmark. Please select another.
