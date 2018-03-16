@@ -274,3 +274,10 @@ network-proxy-connection-learn-more = Argibide gehiago
 network-proxy-connection-settings =
     .label = Ezarpenak…
     .accesskey = E
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Bikoiztutako gako-hitza
+search-keyword-warning-bookmark = Aukeratu duzun gako-hitza dagoeneko laster-marka batek erabiltzen du. Aukeratu beste bat.
