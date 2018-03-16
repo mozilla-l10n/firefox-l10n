@@ -85,3 +85,11 @@ browsing-use-cursor-navigation =
 
 ## General Section - Proxy
 
+
+## Search Section
+
+search-choose-keyword-column =
+    .label = Uantakua minta
+search-remove-engine =
+    .label = Kéntitani
+    .accesskey = K
