@@ -277,6 +277,40 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Barra de búsqueda
+search-bar-hidden =
+    .label = Use la barra de direcciones para búsquedas y navegación
+search-bar-shown =
+    .label = Añadir barra de búsqueda en la barra de herramientas
+search-engine-default-header = Buscador predeterminado
+search-engine-default-desc = Elija el buscador por omisión que desea usar en las barras de direcciones y de búsqueda.
+search-suggestions-option =
+    .label = Proporcionar sugerencias de búsqueda
+    .accesskey = P
+search-show-suggestions-url-bar-option =
+    .label = Mostrar sugerencias de búsqueda en los resultados de la barra de direcciones
+    .accesskey = M
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Mostrar sugerencias de búsqueda antes del historial de navegación en los resultados de la barra de direcciones
+search-suggestions-cant-show = Las sugerencias de búsqueda no se mostrarán en los resultados de la barra de direcciones porque ha configurado { -brand-short-name } para que nunca recuerde el historial.
+search-one-click-header = Buscadores con un clic
+search-one-click-desc = Elija los buscadores alternativos que aparecen bajo las barras de direcciones y de búsqueda cuando comienza a escribir una palabra clave.
+search-choose-engine-column =
+    .label = Buscador
+search-choose-keyword-column =
+    .label = Palabra clave
+search-restore-default =
+    .label = Restaurar buscadores predeterminados
+    .accesskey = R
+search-remove-engine =
+    .label = Eliminar
+    .accesskey = E
+search-find-more-link = Encontrar más buscadores
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Palabra clave duplicada
