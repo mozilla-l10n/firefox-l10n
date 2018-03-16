@@ -277,6 +277,22 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = Moteur de recherche par défaut
+search-suggestions-option =
+    .label = Afficher les suggestions de recherche
+    .accesskey = A
+search-suggestions-cant-show = Les suggestions de recherche ne seront pas affichées parmi les résultats de la barre d’adresse car vous avez configuré { -brand-short-name } de façon à ce qu’il ne conserve jamais l’historique.
+search-one-click-header = Moteurs de recherche accessibles en un clic
+search-choose-engine-column =
+    .label = Moteur de recherche
+search-choose-keyword-column =
+    .label = Mot-clé
+search-restore-default =
+    .label = Restaurer les moteurs de recherche par défaut
+    .accesskey = R
+search-remove-engine =
+    .label = Supprimer
+    .accesskey = S
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Doublon de mot-clé
