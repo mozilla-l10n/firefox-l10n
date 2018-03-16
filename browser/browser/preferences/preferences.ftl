@@ -127,7 +127,13 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-remove-engine =
+    .label = Tloša
+    .accesskey = T
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Dira kopi ya lentšu la motheo
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = O kgethile lentšu la motheo leo gabjale le dirišwago ke "{ $name }". Hle kgetha le lengwe.
 search-keyword-warning-bookmark = O kgethile lentšu la motheo leo gabjale le dirišwago ke pukutshwayo. Hle kgetha le lengwe.
