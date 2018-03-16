@@ -273,7 +273,26 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = Glavni pretraživač
+search-suggestions-option =
+    .label = Pružaj prijedloge za pretraživanje
+    .accesskey = p
+search-suggestions-cant-show = Prijedlozi za pretragu neće biti prikazani u rezultatima lokacijske trake jer ste podesili { -brand-short-name } da ne pamti historiju.
+search-one-click-header = Jedan-klik pretraživači
+search-choose-engine-column =
+    .label = Pretraživač
+search-choose-keyword-column =
+    .label = Ključna riječ
+search-restore-default =
+    .label = Vrati izvorne pretraživače
+    .accesskey = č
+search-remove-engine =
+    .label = Ukloni
+    .accesskey = U
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Duplicirana ključna riječ
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Izabrali ste ključnu riječ koju trenutno koristi "{ $name }". Molimo izaberite drugu.
 search-keyword-warning-bookmark = Izabrali ste ključnu riječ koju trenutno koristi zabilješka. Molimo izaberite drugu.
