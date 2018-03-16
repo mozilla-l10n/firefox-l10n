@@ -277,6 +277,11 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = தேடும் பட்டை
+search-bar-hidden =
+    .label = தேடுதல் மற்றும் வழிகாட்டலுக்கு முகவரி பட்டையைப் பயன்படுத்தவும்
+search-bar-shown =
+    .label = கருவிப்பட்டையினுள் தேடும் பட்டையைச் சேர்
 search-engine-default-header = முன்னிருப்பு தேடுப்பொறி
 search-engine-default-desc = இடப்பட்டையிலும் தேடுபட்டையிலும் பாவிக்க இயல்புநிலைத் தேடுபொறியைத் தேர்ந்தெடு{ " " }
 search-suggestions-option =
