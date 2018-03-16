@@ -281,6 +281,11 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Pytanske polo
+search-bar-hidden =
+    .label = Wužiwajće adresowe polo za pytanje a nawigaciju
+search-bar-shown =
+    .label = Pytanske polo symbolowej lajsće přidać
 search-engine-default-header = Standardna pytawa
 search-engine-default-desc = Wubjerće standardnu pytawu, kotraž ma so w adresowym polu a pytanskim polu wužiwać.
 search-suggestions-option =
@@ -289,6 +294,13 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Pytanske namjety we wuslědkach adresoweho pola pokazać
     .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Pytanske namjety před přehladowanskej historiju we wuslědkach adresoweho pola pokazać
 search-suggestions-cant-show = Pytanske namjety njebudu so we wuslědkach adresoweho pola pokazać, dokelž sće { -brand-short-name } tak konfigurował, zo sej ženje historiju njespomjatkuje.
 search-one-click-header = Pytawy z jednym kliknjenjom
 search-one-click-desc = Wubjerće alternatiwne pytawy, kotrež so pod adresowym polom a pytanskim polom jewja, hdyž klučowe słowo zapodawaće.
