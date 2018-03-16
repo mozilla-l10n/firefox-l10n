@@ -269,3 +269,10 @@ network-proxy-connection-learn-more = Saber mais
 network-proxy-connection-settings =
     .label = Configurar conexão…
     .accesskey = e
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Palavra-chave duplicada
+search-keyword-warning-bookmark = A palavra-chave escolhida já é usada por um favorito. Por favor, selecione outra.
