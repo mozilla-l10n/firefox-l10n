@@ -277,6 +277,11 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Bilaketa-barra
+search-bar-hidden =
+    .label = Erabili helbide-barra bilaketarako eta nabigaziorako
+search-bar-shown =
+    .label = Gehitu bilaketa-barra tresna-barran
 search-engine-default-header = Bilaketa-motor lehenetsia
 search-engine-default-desc = Aukeratu helbide- eta bilaketa-barran erabili beharreko bilaketa-motor lehenetsia.
 search-suggestions-option =
@@ -285,6 +290,13 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Erakutsi bilaketa-iradokizunak helbide-barrako emaitzetan
     .accesskey = h
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Helbide-barrako emaitzetan, erakutsi bilaketa-gomendioak nabigatze-historiaren aurretik
 search-suggestions-cant-show = Bilaketa-iradokizunak ez dira helbide-barran erakutsiko { -brand-short-name }(e)k historia inoiz ez gogoratzeko konfiguratu duzulako.
 search-one-click-header = Klik bakarreko bilaketa-motorrak
 search-one-click-desc = Aukeratu gako-hitz bat idazten hastean helbide- eta bilaketa-barren azpian agertzen diren ordezko bilaketa-motorrak.
