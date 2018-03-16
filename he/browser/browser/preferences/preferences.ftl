@@ -277,10 +277,20 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = שורת החיפוש
+search-bar-hidden =
+    .label = שימוש בשורת הכתובת לחיפוש וניווט
+search-bar-shown =
+    .label = הוספת שורת החיפוש לסרגל הכלים
 search-engine-default-header = מנוע חיפוש בררת מחדל
+search-engine-default-desc = בחירת מנוע חיפוש בררת המחדל לשימוש בסרגל הכתובת ובסרגל החיפוש.
 search-suggestions-option =
     .label = הצגת המלצות חיפוש
     .accesskey = מ
+search-show-suggestions-url-bar-option =
+    .label = הצגת הצעות חיפוש בתוצאות שורת הכתובת
+    .accesskey = ח
+search-suggestions-cant-show = הצעות חיפוש לא יופיעו בתוצאות סרגל המיקום מכיוון שהגדרת ש־{ -brand-short-name } לעולם לא לזכור היסטוריה.
 search-one-click-header = מנועי חיפוש בלחיצה אחת
 search-one-click-desc = בחירת מנועי חיפוש חלופיים שיופיעו מתחת לסרגל הכתובת וסרגל החיפוש עם תחילת ההקלדה של מילות מפתח.
 search-choose-engine-column =
