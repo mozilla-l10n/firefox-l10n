@@ -276,6 +276,13 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Hiển thị gợi ý tìm kiếm trong kết quả thanh địa chỉ
     .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Hiện những gợi ý tìm kiếm phía trước lịch sử duyệt web trong kết quả thanh địa chỉ
 search-suggestions-cant-show = Gợi ý tìm kiếm sẽ không được hiện ở thanh địa chỉ vì bạn đã thiết lập { -brand-short-name } không bao giờ ghi nhớ lịch sử.
 search-one-click-header = Công cụ tìm kiếm với một lần nhấn
 search-one-click-desc = Chọn các công cụ tìm kiếm thay thế xuất hiện bên dưới thanh địa chỉ và thanh tìm kiếm khi bạn bắt đầu nhập một từ khoá.
