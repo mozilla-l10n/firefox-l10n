@@ -133,3 +133,10 @@ browsing-use-cursor-navigation =
 network-proxy-connection-settings =
     .label = ବିନ୍ୟାସ…
     .accesskey = e
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = ନକଲି ସୂଚକ ଶବ୍ଦ
+search-keyword-warning-bookmark = ଆପଣ ଗୋଟିଏ ସୂଚକ ଶବ୍ଦ ବାଛିଛନ୍ତି ଯାହାକି ବର୍ତ୍ତମାନ ଗୋଟିଏ ଚିହ୍ନିତ ସ୍ଥାନ ଦ୍ୱାରା ବ୍ୟବହୃତ ହେଉଛି.ଦୟାକରି ଅନ୍ୟ ଏକ ଚୟନ କରନ୍ତୁ.
