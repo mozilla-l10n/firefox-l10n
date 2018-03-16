@@ -132,7 +132,24 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = অবিকল্পিত সন্ধান ইঞ্জিন
+search-suggestions-option =
+    .label = সন্ধানৰ পৰামৰ্শসমূহ দিয়ক
+    .accesskey = s
+search-choose-engine-column =
+    .label = সন্ধান ইঞ্জিন
+search-choose-keyword-column =
+    .label = কিৱাৰ্ড
+search-restore-default =
+    .label = অবিকল্পিত সন্ধান ইঞ্জিন পুনৰুদ্ধাৰ কৰক
+    .accesskey = D
+search-remove-engine =
+    .label = আতৰাওক
+    .accesskey = R
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = দ্বৈত কিৱাৰ্ড
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = আপুনি "{ $name }"এ বৰ্ত্তমানে ব্যৱহাৰ কৰা কিৱাৰ্ড নিৰ্বাচন কৰিছে। অনুগ্ৰহ কৰি অন্য এটা নিৰ্বাচন কৰক।
 search-keyword-warning-bookmark = এটা পত্ৰচিহ্নৰ দ্বাৰা ব্যৱহৃত কিৱাৰ্ড আপুনি নিৰ্বাচন কৰিছে। অনুগ্ৰহ কৰি অন্য এটা নিৰ্বাচন কৰক।
