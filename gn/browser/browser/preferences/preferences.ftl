@@ -274,3 +274,35 @@ network-proxy-connection-learn-more = Kuaave
 network-proxy-connection-settings =
     .label = Ñemboheko…
     .accesskey = e
+
+## Search Section
+
+search-engine-default-header = Hekaha ypykuéva
+search-engine-default-desc = Eiporavo hekaha mongu'eha ijypykuéva eipuru hag̃ua kundaharape ha jehekaha rendápe.
+search-suggestions-option =
+    .label = Ehechauka ñe'ẽreka joguaha
+    .accesskey = s
+search-show-suggestions-url-bar-option =
+    .label = Ehechauka ñe'ẽreka joguaha kundaharape ha avei jejuhu hague rendápe
+    .accesskey = l
+search-suggestions-cant-show = Jeheka je'epyréva ndojekuaamo'ãi kundaharape renda apopyrépe, oñembohekóma rupi { -brand-short-name } aníke nemandu'a tembiasakuére.
+search-one-click-header = Jehekaha mongu'eha jekutu peteĩva
+search-one-click-desc = Eiporavo hekaha mongu'eha mbojopyrukuaáva ojekuaáva kundaharape ha jehekaha renda guýpe eñepyrũvo emoinge peteĩ ñe'ẽ ñemigua.
+search-choose-engine-column =
+    .label = Jehekaha
+search-choose-keyword-column =
+    .label = Jehero
+search-restore-default =
+    .label = Embojevy ijypykuéva ha jehekaha mongu'eha
+    .accesskey = D
+search-remove-engine =
+    .label = Pe'a
+    .accesskey = R
+search-find-more-link = Ejuhu hetave hekaha mongu'eha
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Jehero jo'apyre{ " " }
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Eiporavókuri peteĩ jehero oipurúmava "{ $name }". Ikatúpiko eiporavo ambue.
+search-keyword-warning-bookmark = Eiporavókuri peteĩ jehero oipurúmava ambue techaukaha. Ikatúpiko eiporavo ambue.
