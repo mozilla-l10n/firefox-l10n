@@ -280,10 +280,16 @@ network-proxy-connection-settings =
 ## Search Section
 
 search-engine-default-header = Keflusker enklask dre ziouer
+search-engine-default-desc = Dibab al lusker klask dre ziouer da arverañ er varrenn chomlec'hioù hag er varrenn glask.
 search-suggestions-option =
     .label = Kinnig alioù enklask
     .accesskey = a
+search-show-suggestions-url-bar-option =
+    .label = Diskouez ar c'hinnigoù enklask e disoc'hoù ar varenn chomlec'hioù
+    .accesskey = D
 search-suggestions-cant-show = Ne vo ket skrammet ar c'hinnigoù enklask e disoc'hoù ar varrenn chomlec'hioù dre m'ho peus kefluniet { -brand-short-name }  evit ma ne zalc'hfe ket soñj eus ho roll istor.
+search-one-click-header = Luskerioù enklask ur-c'hlik
+search-one-click-desc = Dibabit al luskerioù enklask all diskouezet dindan ar varrenn chomlec'hioù hag ar varrenn glask pa grogit da skrivañ ur ger.
 search-choose-engine-column =
     .label = Keflusker enklask
 search-choose-keyword-column =
@@ -294,6 +300,7 @@ search-restore-default =
 search-remove-engine =
     .label = Dilemel
     .accesskey = D
+search-find-more-link = Klask luskerioù klask all
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Arredaoliñ ur ger alc'hwez
