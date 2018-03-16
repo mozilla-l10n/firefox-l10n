@@ -109,3 +109,10 @@ browsing-use-cursor-navigation =
 
 ## General Section - Proxy
 
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Түлхүүр үгийг хувил
+search-keyword-warning-bookmark = Та одоогоор хаяганд хэрэглэгдэж байгаа үг сонгосон байна. Өөр үг сонгоно уу.
