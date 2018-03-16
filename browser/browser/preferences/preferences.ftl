@@ -264,12 +264,19 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Bilah Pencarian
+search-bar-hidden =
+    .label = Gunakan bilah alamat untuk mencari dan navigasi
+search-bar-shown =
+    .label = Tambahkan bilah pencarian di bilah alat
 search-engine-default-header = Mesin Pencari Baku
+search-engine-default-desc = Pilih mesin pencari baku yang akan digunakan di bilah alamat dan bilah pencarian.
 search-suggestions-option =
     .label = Sertakan saran pencarian
     .accesskey = s
 search-suggestions-cant-show = Saran pencarian tidak akan ditampilkan di hasil bilah lokasi karena Anda telah mengatur { -brand-short-name } agar tidak mengingat riwayat.
 search-one-click-header = Mesin pencari sekali klik
+search-one-click-desc = Pilih mesin pencari alternatif yang muncul di bawah bilah alamat dan bilah pencarian ketika Anda mulai memasukkan kata kunci.
 search-choose-engine-column =
     .label = Mesin Pencari
 search-choose-keyword-column =
@@ -280,6 +287,7 @@ search-restore-default =
 search-remove-engine =
     .label = Hapus
     .accesskey = H
+search-find-more-link = Temukan lebih banyak mesin pencari
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Kata Kunci Ganda
