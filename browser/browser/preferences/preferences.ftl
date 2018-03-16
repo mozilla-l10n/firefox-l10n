@@ -271,6 +271,32 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = पूर्वनिर्धारित शोध इंजिन
+search-engine-default-desc = पत्ता पट्टी आणि शोध पट्टी मध्ये वापरण्यासाठी पूर्वनिर्धारित शोध इंजिन निवडा
+search-suggestions-option =
+    .label = शोध सूचना पुरवा
+    .accesskey = s
+search-show-suggestions-url-bar-option =
+    .label = पत्ता पट्टी परिणामांत शोध सूचना दाखवा
+    .accesskey = l
+search-suggestions-cant-show = आपल्या शोध सूचना लोकेशन बारवर दिसणार नाही कारण आपण इतिहास लक्षात न ठेवण्यासाठी { -brand-short-name } हे संयोजित केले आहे
+search-one-click-header = एक-क्लिक शोध इंजिन
+search-one-click-desc = जेव्हा आपण मूळशब्द प्रविष्ट करण्यास सुरू करता तेव्हा पत्ता पट्टी आणि शोध पट्टीच्या खाली दिसणारे पर्यायी शोध इंजिन्स निवडा.
+search-choose-engine-column =
+    .label = शोध इंजिन्स
+search-choose-keyword-column =
+    .label = मुख्यशब्द
+search-restore-default =
+    .label = पूर्वनिर्धारित शोध इंजिन पुर्वस्थित करा
+    .accesskey = D
+search-remove-engine =
+    .label = काढून टाका
+    .accesskey = R
+search-find-more-link = आणखी शोध इंजिन शोधा
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = समान मुख्यशब्द
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = आपण सध्या "{ $name }" द्वारे वापरण्यात आलेला कीवर्ड निवडला आहे. कृपया अन्य निवडा.
+search-keyword-warning-bookmark = आपण सध्या वाचनखूणाद्वारे वापरण्यात आलेला कीवर्ड निवडला आहे. कृपया अन्य निवडा.
