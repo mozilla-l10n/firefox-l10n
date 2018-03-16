@@ -278,9 +278,16 @@ network-proxy-connection-settings =
 ## Search Section
 
 search-engine-default-header = Alapértelmezett keresőszolgáltatás
+search-engine-default-desc = Válassza ki a címsávban és a keresősávban alapértelmezetten használandó keresőszolgáltatást.
 search-suggestions-option =
     .label = Keresési javaslatok
     .accesskey = K
+search-show-suggestions-url-bar-option =
+    .label = Keresési javaslatok megjelenítése a címsáv találataiban
+    .accesskey = K
+search-suggestions-cant-show = A keresési javaslatok nem jelennek meg a címsáv találatai között, mert a { -brand-short-name } nem jegyzi meg az előzményeket.
+search-one-click-header = Egy kattintásos keresőszolgáltatások
+search-one-click-desc = Válassza ki a címsáv alatt és a keresősávban gépeléskor megjelenő alternatív keresőszolgáltatatásokat.
 search-choose-engine-column =
     .label = Keresőszolgáltatás
 search-choose-keyword-column =
@@ -291,7 +298,11 @@ search-restore-default =
 search-remove-engine =
     .label = Eltávolítás
     .accesskey = E
+search-find-more-link = További keresőszolgáltatások felvétele
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Duplikált kulcsszó
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Olyan kulcsszót választott, amelyet jelenleg „{ $name }” használ. Válasszon másikat.
 search-keyword-warning-bookmark = Olyan kulcsszót választott, amelyet jelenleg egy könyvjelző használ. Válasszon másikat.
