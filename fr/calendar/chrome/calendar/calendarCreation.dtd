@@ -24,11 +24,22 @@
 <!-- Below are new strings for the revised new calendar dialog. The above strings should be
     removed/renamed later on -->
 
+<!ENTITY sourcetabs.other.label  "Autre">
 
+<!ENTITY buttons.create.label "Créer un agenda">
+<!ENTITY buttons.create.accesskey "C">
 
+<!ENTITY buttons.find.label "Rechercher des agendas">
+<!ENTITY buttons.find.accesskey "a">
 
+<!ENTITY buttons.back.label "Retour">
+<!ENTITY buttons.back.accesskey "R">
 
+<!ENTITY buttons.subscribe.label "S’abonner">
+<!ENTITY buttons.subscribe.accesskey "S">
 
+<!ENTITY calendartype.label "Type d’agenda :">
+<!ENTITY location.label "Adresse :">
 
 
 <!ENTITY network.subscribe.single.description "Sélectionnez les agendas auxquels vous souhaitez vous abonner.">
