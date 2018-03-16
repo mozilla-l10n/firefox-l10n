@@ -277,12 +277,29 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Barre de recherche
+search-bar-hidden =
+    .label = Utiliser la barre d’adresse pour naviguer et effectuer des recherches
+search-bar-shown =
+    .label = Ajouter la barre de recherche à la barre d’outils
 search-engine-default-header = Moteur de recherche par défaut
+search-engine-default-desc = Sélectionnez le moteur de recherche à utiliser par défaut dans la barre d’adresse et la barre de recherche.
 search-suggestions-option =
     .label = Afficher les suggestions de recherche
     .accesskey = A
+search-show-suggestions-url-bar-option =
+    .label = Afficher les suggestions de recherche parmi les résultats de la barre d’adresse
+    .accesskey = c
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Afficher les suggestions de recherche avant l’historique de navigation dans les résultats de la barre d’adresse
 search-suggestions-cant-show = Les suggestions de recherche ne seront pas affichées parmi les résultats de la barre d’adresse car vous avez configuré { -brand-short-name } de façon à ce qu’il ne conserve jamais l’historique.
 search-one-click-header = Moteurs de recherche accessibles en un clic
+search-one-click-desc = Sélectionnez les moteurs de recherche alternatifs qui apparaissent sous la barre d’adresse et la barre de recherche lorsque vous commencez à saisir un mot-clé.
 search-choose-engine-column =
     .label = Moteur de recherche
 search-choose-keyword-column =
@@ -293,6 +310,7 @@ search-restore-default =
 search-remove-engine =
     .label = Supprimer
     .accesskey = S
+search-find-more-link = Découvrir d’autres moteurs de recherche
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Doublon de mot-clé
