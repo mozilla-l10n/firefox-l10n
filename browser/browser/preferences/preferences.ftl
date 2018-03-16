@@ -273,12 +273,29 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Vyhľadávací panel
+search-bar-hidden =
+    .label = Použiť na vyhľadávanie a navigáciu panel s adresou
+search-bar-shown =
+    .label = Pridať na panel nástrojov vyhľadávací panel
 search-engine-default-header = Predvolený vyhľadávací modul
+search-engine-default-desc = Vyberte si predvolený vyhľadávací modul pre vyhľadávanie z panela s adresou a vyhľadávacieho panela.
 search-suggestions-option =
     .label = Zobrazovať návrhy vyhľadávania
     .accesskey = Z
+search-show-suggestions-url-bar-option =
+    .label = Zobrazovať návrhy vyhľadávania vo výsledkoch panela s adresou
+    .accesskey = a
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Zobrazovať návrhy vyhľadávania v paneli s adresou pred históriou prehliadania
 search-suggestions-cant-show = Návrhy vyhľadávania nebudú zobrazené vo výsledkoch panela s adresou, pretože ste { -brand-short-name } nastavili tak, aby si nepamätal históriu.
 search-one-click-header = Vyhľadávacie moduly na jedno kliknutie
+search-one-click-desc = Vyberte ďalšie vyhľadávacie moduly, ktoré sa zobrazia v ponuke panela s adresou a vyhľadávacieho panela.
 search-choose-engine-column =
     .label = Vyhľadávací modul
 search-choose-keyword-column =
@@ -289,6 +306,7 @@ search-restore-default =
 search-remove-engine =
     .label = Odstrániť
     .accesskey = d
+search-find-more-link = Nájsť ďalšie vyhľadávacie moduly
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Duplicitné kľúčové slovo
