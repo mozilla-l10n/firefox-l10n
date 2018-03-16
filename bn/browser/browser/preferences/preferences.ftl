@@ -277,7 +277,20 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-suggestions-option =
+    .label = অনুসন্ধান পরামর্শ প্রদান করুন s
+    .accesskey = s
+search-suggestions-cant-show = { -brand-short-name } এর কনফিগারেশনে ইতিহাস মনে না রাখতে বলার কারনে লোকেশন বারে অনুসন্ধান পরামর্শ দেখাবে না।
+search-one-click-header = এক-ক্লিক অনুসন্ধান ইঞ্জিন
+search-choose-keyword-column =
+    .label = কীওয়ার্ড
+search-remove-engine =
+    .label = অপসারণ করুন R
+    .accesskey = R
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = কীওয়ার্ড ইতোমধ্যে বিদ্যমান
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = আপনার দেয়া কীওয়ার্ডটি ইতোমধ্যে "{ $name }" ব্যবহার করছে। অনুগ্রহ করে একটি ভিন্ন কীওয়ার্ড নির্বাচন করুন।
 search-keyword-warning-bookmark = আপনার দেয়া কীওয়ার্ডটি ইতোমধ্যে একটি বুকমার্ক ব্যবহার করছে। অনুগ্রহ করে একটি ভিন্ন কীওয়ার্ড নির্বাচন করুন।
