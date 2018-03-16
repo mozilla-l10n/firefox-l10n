@@ -2,12 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  trackingProtectionHeader2.label      "Protección contra o seguimento">
 
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBMLearnMore.label "Máis información">
 
 <!ENTITY  history.label                 "Historial">
 
+<!ENTITY  addressBar.label              "Barra de enderezos">
 <!ENTITY  addressBar.suggest.label      "Cando use a barra de enderezos, suxerir do">
 <!ENTITY  locbar.history2.label         "Historial de navegación">
 <!ENTITY  locbar.bookmarks.label        "Marcadores">
