@@ -267,6 +267,40 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Qıdırma Çubuğı
+search-bar-hidden =
+    .label = Adres çubuğını qıdırma ve seyrüsefer içün qullan
+search-bar-shown =
+    .label = Alet çubuğında qıdırma çubuğını ekle
+search-engine-default-header = Ögbelgilengen Qıdırma Motorı
+search-engine-default-desc = Adres çubuğında ve qıdırma çubuğında qullanılacaq ögbelgilengen qıdırma motorını saylañız.
+search-suggestions-option =
+    .label = Qıdırma telqinlerini temin et
+    .accesskey = t
+search-show-suggestions-url-bar-option =
+    .label = Adres çubuğı neticelerinde qıdırma telqinlerini köster
+    .accesskey = t
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Adres çubuğı neticelerinde qıdırma telqinlerini seyran keçmişiniñ üstünde köster
+search-suggestions-cant-show = { -brand-short-name } tarafıñızca keçmişni hatırlamamaq üzre ayarlanğan olğanından dolayı qonum çubuğı neticelerinde qıdırma telqinleri kösterilmeycek.
+search-one-click-header = Tek-Çertme Qıdırma Motorları
+search-one-click-desc = Bir anahtar sözni kirsetmege başlağanıñızda adres çubuğında ve qıdırma çubuğında körüngen alternativ qıdırma motorlarını sayla.
+search-choose-engine-column =
+    .label = Qıdırma Motorı
+search-choose-keyword-column =
+    .label = Anahtar kelime
+search-restore-default =
+    .label = Ögbelgilengen Qıdırma Motorını Keri tikle
+    .accesskey = b
+search-remove-engine =
+    .label = Çetleştir
+    .accesskey = r
+search-find-more-link = Daa çoq qıdırma motorları tap
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Mükerrer Anahtar Kelime
