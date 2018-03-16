@@ -272,10 +272,25 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Afeggag n unadi
+search-bar-hidden =
+    .label = Seqdec afeggag n tansa akken ad tnadiḍ wa ad tinigeḍ
+search-bar-shown =
+    .label = Rnu afeggag n unadi deg ufeggag n ifecka
 search-engine-default-header = Amsedday n unadi amezwer
 search-suggestions-option =
     .label = Sken isumar n unadi
     .accesskey = S
+search-show-suggestions-url-bar-option =
+    .label = Sken isumar n unadi deg ugmuḍ n ufeggag n tansa
+    .accesskey = u
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Sken-d asumer n unadi uqbel amazray n tunigin deg ugemmuḍ deg ufeggag n tansa
 search-suggestions-cant-show = Anadi n isumar ur d ittwaskan ara deg yigmaḍ n ufeggag n tansa acku tsewleḍ { -brand-short-name } akken ur iḥerrez ara amazray.
 search-one-click-header = Imseddayen n unadi ara tkecmeḍ s yiwen n usiti{ " " }
 search-choose-engine-column =
