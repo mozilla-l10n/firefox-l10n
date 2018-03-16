@@ -272,3 +272,7 @@ network-proxy-connection-settings =
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = 關鍵字重複
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = 您選用的關鍵字目前正被「{ $name }」所使用，請另選一個。
+search-keyword-warning-bookmark = 您選用的關鍵字目前正被書籤項目所使用，請另選一個。
