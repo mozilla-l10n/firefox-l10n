@@ -281,7 +281,32 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = An t-einnsean-luirg bunaiteach
+search-engine-default-desc = Tagh an t-einnsean-luirg bunaiteach a thèid a chleachdadh ann am bàr an t-seòlaidh is bàr nan lorg.
+search-suggestions-option =
+    .label = Thoir dhomh molaidhean-luirg
+    .accesskey = T
+search-show-suggestions-url-bar-option =
+    .label = Seall molaidhean luirg ann an toraidhean bàr an t-seòlaidh
+    .accesskey = l
+search-suggestions-cant-show = Cha dèid molaidhean luirg a shealltainn ann an toraidhean bàr an t-seòlaidh a chionn ’s gun do dh’iarr thu air { -brand-short-name } gun a bhith a’ cumail na h-eachdraidh sa chuimhne.
+search-one-click-header = Einnseanan-luirg aon-bhriogaidh
+search-one-click-desc = Tagh na h-einnseanan-luirg eile a nochdas fo bhàr an t-seòlaidh is bàr nan lorg nuair a thòisicheas tu air facal-luirg a chur a-steach.
+search-choose-engine-column =
+    .label = Einnseanan-luirg
+search-choose-keyword-column =
+    .label = Facal-luirg
+search-restore-default =
+    .label = Aisig na h-einnseanan-luirg bunaiteach
+    .accesskey = s
+search-remove-engine =
+    .label = Thoir air falbh
+    .accesskey = r
+search-find-more-link = Faigh barrachd einnseanan-luirg
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Facal-luirg dùbailte
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Thagh thu facal-luirg a tha ’ga chleachdadh le “{ $name }” mu thràth. An tagh thu fear eile?
 search-keyword-warning-bookmark = Tagh thu facal-luirg a tha 'ga chleachdadh ann an comharra-lìn mu thràth. An tagh thu fear eile?
