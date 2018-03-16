@@ -278,3 +278,35 @@ network-proxy-connection-learn-more = Dalše informacije
 network-proxy-connection-settings =
     .label = Nastajenja…
     .accesskey = N
+
+## Search Section
+
+search-engine-default-header = Standardna pytawa
+search-engine-default-desc = Wubjerće standardnu pytawu, kotraž ma so w adresowym polu a pytanskim polu wužiwać.
+search-suggestions-option =
+    .label = Pytanske namjety podać
+    .accesskey = P
+search-show-suggestions-url-bar-option =
+    .label = Pytanske namjety we wuslědkach adresoweho pola pokazać
+    .accesskey = l
+search-suggestions-cant-show = Pytanske namjety njebudu so we wuslědkach adresoweho pola pokazać, dokelž sće { -brand-short-name } tak konfigurował, zo sej ženje historiju njespomjatkuje.
+search-one-click-header = Pytawy z jednym kliknjenjom
+search-one-click-desc = Wubjerće alternatiwne pytawy, kotrež so pod adresowym polom a pytanskim polom jewja, hdyž klučowe słowo zapodawaće.
+search-choose-engine-column =
+    .label = Pytawa
+search-choose-keyword-column =
+    .label = Klučowe słowo
+search-restore-default =
+    .label = Standardne pytawy wobnowić
+    .accesskey = S
+search-remove-engine =
+    .label = Wotstronić
+    .accesskey = o
+search-find-more-link = Dalše pytawy pytać
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Klučowe słowo podwojić
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Sće klučowe słowo wubrał, kotrež so runje wot "{ $name }" wužiwa. Prošu wubjerće druhe.
+search-keyword-warning-bookmark = Sće klučowe słowo wubrał, kotrež so runje wot zapołožkow wužiwa. Prošu wubjerće druhe.
