@@ -273,7 +273,27 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = Numatytoji ieškyklė
+search-suggestions-option =
+    .label = Pateikti paieškos pasiūlymus
+    .accesskey = i
+search-suggestions-cant-show = Paieškos žodžių siūlymai adreso lauke nebus rodomi, kadangi esate nustatę, jog „{ -brand-short-name }“ niekada nevestų žurnalo.
+search-one-click-header = Ieškyklės vienu spustelėjimu
+search-choose-engine-column =
+    .label = Ieškyklė
+search-choose-keyword-column =
+    .label = Reikšminis žodis
+search-restore-default =
+    .label = Atkurti numatytąsias ieškykles
+    .accesskey = n
+search-remove-engine =
+    .label = Pašalinti
+    .accesskey = š
+search-find-more-link = Rasti daugiau ieškyklių
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Pasikartojantis reikšminis žodis
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Įvedėte reikšminį žodį, kurį jau naudoja „{ $name }“. Prašome įvesti kitą.
 search-keyword-warning-bookmark = Įvedėte reikšminį žodį, kurį jau naudojate adresyno įrašui. Prašom įvesti kitą.
