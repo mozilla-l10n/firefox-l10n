@@ -273,6 +273,15 @@ network-proxy-connection-settings =
 ## Search Section
 
 search-engine-default-header = મૂળભૂત શોધ એંજીન
+search-engine-default-desc = સરનામાં બાર અને શોધ બારમાં વાપરવા માટે ડિફૉલ્ટ શોધ એંજિન પસંદ કરો.
+search-suggestions-option =
+    .label = શોધ સૂચનો પૂરા પાડો
+    .accesskey = s
+search-show-suggestions-url-bar-option =
+    .label = સરનામાં બાર પરિણામોમાં શોધ સૂચનો બતાવો
+    .accesskey = I
+search-one-click-header = શોધ એન્જિન્સ વન-ક્લિક કરો
+search-one-click-desc = વૈકલ્પિક શોધ એંજીન્સ પસંદ કરો જે સરનામાં બાર અને શોધ બાર નીચે દેખાય છે જ્યારે તમે કોઈ કીવર્ડ દાખલ કરવાનું શરૂ કરો છો.
 search-choose-engine-column =
     .label = શોધ એન્જિન
 search-choose-keyword-column =
