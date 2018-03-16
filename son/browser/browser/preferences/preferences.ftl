@@ -223,7 +223,25 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = Tilasu ceecijinay
+search-suggestions-option =
+    .label = Ceeci honnandiyaney noo
+    .accesskey = C
+search-one-click-header = Cee-foo naaguyan ceecijinawey
+search-choose-engine-column =
+    .label = Ceecijinay
+search-choose-keyword-column =
+    .label = Kufalkalima
+search-restore-default =
+    .label = Tilasu ceecijinawey willi
+    .accesskey = T
+search-remove-engine =
+    .label = Kaa
+    .accesskey = K
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Kufalkalima filla
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = War na kufalkalima suuba kaŋ goo goy ra "{ $name }" se sohõda. Wa itana foo suuba.
 search-keyword-warning-bookmark = War na kufalkalima suuba kaŋ goo goy ra doo-šilbay se sohõda. Taare iwaani suuba.
