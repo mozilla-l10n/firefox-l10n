@@ -283,7 +283,31 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = محرك البحث المبدئي
+search-engine-default-desc = اختر محرك البحث المبدئي في شريطي العنواوين و البحث.
+search-suggestions-option =
+    .label = اعرض اقتراحات البحث
+    .accesskey = ع
+search-show-suggestions-url-bar-option =
+    .label = أظهر اقتراحات البحث في نتائج شريط العناوين
+    .accesskey = ت
+search-suggestions-cant-show = لن تظهر اقتراحات البحث في نتائج شريط الموقع لأنّك أعددت { -brand-short-name } على ألّا يتذكر التأريخ.
+search-one-click-header = محركات البحث بنقرة واحدة
+search-choose-engine-column =
+    .label = محرك البحث
+search-choose-keyword-column =
+    .label = كلمة مفتاحية
+search-restore-default =
+    .label = استعد محركات البحث المبدئية
+    .accesskey = د
+search-remove-engine =
+    .label = احذف
+    .accesskey = ح
+search-find-more-link = اعثر على المزيد من محركات البحث
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = كرر الكلمة المفتاحية
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = لقد اخترت كلمة مفتاحية يستخدمها ”{ $name }“ حاليا. من فضلك اختر واحدة أخرى.
 search-keyword-warning-bookmark = لقد اخترت كلمة مفتاحية تستخدمها علامة حاليا. من فضلك اختر واحدة أخرى.
