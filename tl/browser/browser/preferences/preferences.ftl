@@ -274,3 +274,10 @@ network-proxy-connection-learn-more = Matuto ng higit pa
 network-proxy-connection-settings =
     .label = Settings…
     .accesskey = e
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Nadobleng Keyword
+search-keyword-warning-bookmark = Ginagamit ng isang bookmark ang keyword na pinili ninyo. Pumili ng iba.
