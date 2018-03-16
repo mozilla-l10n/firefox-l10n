@@ -253,6 +253,7 @@ search-restore-default =
 search-remove-engine =
     .label = Remove
     .accesskey = R
+search-find-more-link = ಇನ್ನಷ್ಟು ಹುಡುಕು ಎಂಜಿನ್‌ಗಳನ್ನು ಹುಡುಕು
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = ಬಳಸಲ್ಪಟ್ಟ ಕೀಲಿಪದ
