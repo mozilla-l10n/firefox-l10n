@@ -278,3 +278,10 @@ network-proxy-connection-learn-more = Barrachd fiosrachaidh
 network-proxy-connection-settings =
     .label = Roghainnean…
     .accesskey = e
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Facal-luirg dùbailte
+search-keyword-warning-bookmark = Tagh thu facal-luirg a tha 'ga chleachdadh ann an comharra-lìn mu thràth. An tagh thu fear eile?
