@@ -277,6 +277,22 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = Motô de riçerca predefinio
+search-suggestions-option =
+    .label = Fanni vedde conseggi de riçerca
+    .accesskey = V
+search-suggestions-cant-show = I conseggi de riçerca no saian mostræ tra i exiti da-a bara di indirissi perché { -brand-short-name } o l'é inpostou pe no sarvâ a stöia.
+search-one-click-header = Motoî de riçerca in un sciacco
+search-choose-engine-column =
+    .label = Motô de riçerca
+search-choose-keyword-column =
+    .label = Paròlla ciave
+search-restore-default =
+    .label = Ripiggia i motoî de riçerca predefinii
+    .accesskey = R
+search-remove-engine =
+    .label = Scancella
+    .accesskey = E
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Sta paròlla ciave a gh'é za
