@@ -273,3 +273,25 @@ network-proxy-connection-learn-more = Več o tem
 network-proxy-connection-settings =
     .label = Nastavitve …
     .accesskey = n
+
+## Search Section
+
+search-engine-default-header = Privzet iskalnik
+search-suggestions-option =
+    .label = Predlogi iskanja
+    .accesskey = s
+search-one-click-header = Iskalniki, dostopni z enim klikom
+search-choose-engine-column =
+    .label = Iskalnik
+search-choose-keyword-column =
+    .label = Ključna beseda
+search-remove-engine =
+    .label = Odstrani
+    .accesskey = r
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Podvojena ključna beseda
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Izbrali ste ključno besedo, ki jo trenutno uporablja "{ $name }". Prosim, izberite drugo.
+search-keyword-warning-bookmark = Izbrali ste ključno besedo, ki jo trenutno uporablja zaznamek. Prosim, izberite drugo.
