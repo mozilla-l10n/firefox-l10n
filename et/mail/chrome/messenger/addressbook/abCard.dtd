@@ -133,4 +133,25 @@
 <!ENTITY MSN.label                      "MSN:">
 <!ENTITY MSN2.accesskey                 "N">
 <!ENTITY ICQ.label                      "ICQ:">
+<!ENTITY ICQ.accesskey                  "C">
+<!ENTITY XMPP.label                     "Jabberi ID:">
+<!ENTITY XMPP.accesskey                 "J">
+<!ENTITY IRC.label                      "IRC hüüdnimi:">
+<!ENTITY IRC.accesskey                  "ü">
 
+<!ENTITY Photo.tab                      "Pilt">
+<!ENTITY Photo.accesskey                "i">
+<!ENTITY PhotoDesc.label                "Valitakse üks järgnevatest:">
+<!ENTITY GenericPhoto.label             "Üldine pilt">
+<!ENTITY GenericPhoto.accesskey         "Ü">
+<!ENTITY DefaultPhoto.label             "vaikimisi">
+<!ENTITY PhotoFile.label                "Sellest arvutist">
+<!ENTITY PhotoFile.accesskey            "S">
+<!ENTITY BrowsePhoto.label              "Sirvi">
+<!ENTITY BrowsePhoto.accesskey          "r">
+<!ENTITY PhotoURL.label                 "Veebist">
+<!ENTITY PhotoURL.accesskey             "b">
+<!ENTITY PhotoURL.placeholder           "Kopeeri või sisesta pildi asukoht veebis">
+<!ENTITY UpdatePhoto.label              "Uuenda">
+<!ENTITY UpdatePhoto.accesskey          "U">
+<!ENTITY PhotoDropTarget.label          "Lohista uus pilt siia">
