@@ -262,6 +262,32 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = 検索バー
+search-bar-hidden =
+    .label = 検索とナビゲーションにアドレスバーを使用する
+search-bar-shown =
+    .label = 検索バーをツールバーに追加する
+search-engine-default-header = デフォルト検索エンジン
+search-engine-default-desc = アドレスバーと検索バーで使用されるデフォルト検索エンジンを選択してください。
+search-suggestions-option =
+    .label = 検索候補を使用する
+    .accesskey = s
+search-show-suggestions-url-bar-option =
+    .label = アドレスバーに検索候補を表示する
+    .accesskey = l
+search-one-click-header = ワンクリック検索エンジン
+search-one-click-desc = キーワードの入力開始時にアドレスバーや検索バーの下に現れる代替検索エンジンを選んでください。
+search-choose-engine-column =
+    .label = 検索エンジン
+search-choose-keyword-column =
+    .label = キーワード
+search-restore-default =
+    .label = デフォルト検索エンジンを復元
+    .accesskey = d
+search-remove-engine =
+    .label = 削除
+    .accesskey = r
+search-find-more-link = 他の検索エンジンを追加
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = キーワードが重複しています
