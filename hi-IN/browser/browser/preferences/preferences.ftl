@@ -278,6 +278,7 @@ network-proxy-connection-settings =
 ## Search Section
 
 search-engine-default-header = तयशुदा खोज इंजिन
+search-engine-default-desc = { " " }पता पट्टी और खोज पट्टी में उपयोग करने के लिए डिफ़ॉल्ट खोज इंजन का चयन करें.
 search-suggestions-option =
     .label = खोज सुझाव प्रदान करें
     .accesskey = s
