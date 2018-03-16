@@ -314,3 +314,7 @@ search-find-more-link = Encontrar mais motores de pesquisa
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Palavra-chave duplicada
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Escolheu uma palavra-chave que está atualmente a ser utilizada por “{ $name }”. Por favor, selecione outra.
+search-keyword-warning-bookmark = Escolheu uma palavra chave que está a ser utilizada por um marcador. Por favor, escolha outra.
