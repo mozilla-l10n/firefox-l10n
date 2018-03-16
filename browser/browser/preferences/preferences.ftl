@@ -55,6 +55,9 @@ should-restart-ok = Riavvia { -brand-short-name } adesso
 cancel-no-restart-button = Annulla
 restart-later = Riavvia in seguito
 
+## Preferences UI Search Results
+
+
 ## General Section
 
 startup-header = Avvio
@@ -274,3 +277,10 @@ network-proxy-connection-learn-more = Ulteriori informazioni
 network-proxy-connection-settings =
     .label = Impostazioni…
     .accesskey = z
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Parola chiave duplicata
+search-keyword-warning-bookmark = La parola chiave scelta è già utilizzata da un segnalibro. Selezionarne una diversa.
