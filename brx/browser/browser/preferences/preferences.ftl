@@ -130,3 +130,27 @@ browsing-use-cursor-navigation =
 network-proxy-connection-settings =
     .label = सेटिं...(e)
     .accesskey = e
+
+## Search Section
+
+search-engine-default-header = डिफल्ट नागिरनाय इन्जिन
+search-suggestions-option =
+    .label = नागिरनाय बोसोन हो
+    .accesskey = s
+search-choose-engine-column =
+    .label = नागिरनाय इन्जिन
+search-choose-keyword-column =
+    .label = गाहाय सोदोब
+search-restore-default =
+    .label = डिफल्ट नागिरनाय इन्जिनखौ लाबोफिन
+    .accesskey = D
+search-remove-engine =
+    .label = बोखार
+    .accesskey = ब
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = डुप्लिकेट गाहाय सोदोब
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = नोंथाङा बावैसो "{ $name }" जों बाहायजानाय मोनसे गाहाय सोदोबखौ बासिखबाय। अननानै गुबुन मोनसे सायख।
+search-keyword-warning-bookmark = नोंथाङा बावैसो बुकमार्कजों बाहायजानाय मोनसे गाहाय सोदोबखौ बासिखबाय। अननानै गुबुन मोनसे सायख।
