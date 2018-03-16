@@ -263,6 +263,20 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = Inneall Cuardaigh Réamhshocraithe
+search-suggestions-option =
+    .label = Tabhair moltaí cuardaigh dom
+    .accesskey = c
+search-choose-engine-column =
+    .label = Inneall Cuardaigh
+search-choose-keyword-column =
+    .label = Lorgfhocal
+search-restore-default =
+    .label = Athchóirigh na hInnill Chuardaigh Réamhshocraithe
+    .accesskey = d
+search-remove-engine =
+    .label = Bain
+    .accesskey = B
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Eochairfhocail Dhúblach
