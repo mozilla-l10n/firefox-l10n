@@ -263,11 +263,22 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Thanh tìm kiếm
+search-bar-hidden =
+    .label = Dùng thanh địa chỉ để tìm kiếm và điều hướng
+search-bar-shown =
+    .label = Thêm thanh tìm kiếm vào thanh công cụ
 search-engine-default-header = Dịch vụ tìm kiếm mặc định
+search-engine-default-desc = Chọn công cụ tìm kiếm mặc định để sử dụng trong thanh địa chỉ và thanh tìm kiếm.
 search-suggestions-option =
     .label = Tự động đề nghị từ khóa tìm kiếm
     .accesskey = n
+search-show-suggestions-url-bar-option =
+    .label = Hiển thị gợi ý tìm kiếm trong kết quả thanh địa chỉ
+    .accesskey = l
 search-suggestions-cant-show = Gợi ý tìm kiếm sẽ không được hiện ở thanh địa chỉ vì bạn đã thiết lập { -brand-short-name } không bao giờ ghi nhớ lịch sử.
+search-one-click-header = Công cụ tìm kiếm với một lần nhấn
+search-one-click-desc = Chọn các công cụ tìm kiếm thay thế xuất hiện bên dưới thanh địa chỉ và thanh tìm kiếm khi bạn bắt đầu nhập một từ khoá.
 search-choose-engine-column =
     .label = Dịch vụ tìm kiếm
 search-choose-keyword-column =
@@ -278,6 +289,7 @@ search-restore-default =
 search-remove-engine =
     .label = Xóa
     .accesskey = X
+search-find-more-link = Tìm các công cụ tìm kiếm khác
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Nhân bản Từ khóa
