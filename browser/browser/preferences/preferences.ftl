@@ -269,3 +269,26 @@ network-proxy-connection-learn-more = अझै जान्नुहोस्
 network-proxy-connection-settings =
     .label = सेटिङ्हरू…
     .accesskey = e
+
+## Search Section
+
+search-suggestions-option =
+    .label = खोज सुझावहरू प्रदान गर्ने
+    .accesskey = s
+search-suggestions-cant-show = खोज इतिहास कहिले पनि लोकेसन बारमा देखिदैन किनभने { -brand-short-name } लाई कहिले पनि इतिहास नसम्झनेमा सेट गर्नुभएको छ ।
+search-one-click-header = एक-क्लिक खोज इन्जिनहरू
+search-choose-keyword-column =
+    .label = शब्दकुञ्जी
+search-restore-default =
+    .label = पूर्वानिर्धारीत खोज इन्जिन पुनर्स्थापना गर्नुहोस्{ " " }
+    .accesskey = D
+search-remove-engine =
+    .label = हटाउनुहोस्
+    .accesskey = R
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = नक्कली शब्दकुञ्जी
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = तपाईँले चयन गर्नु भएको खोज शब्द हाल "{ $name }" ले प्रयोग गरिरहेको छ। कृपया अर्को चयन गर्नुहोस्।
+search-keyword-warning-bookmark = तपाईँले चयन गर्नु भएको खोजशब्द हाल पुस्तकचिनोले प्रयोग गरिरहेको छ। कृपया अर्को चयन गर्नुहोस्।
