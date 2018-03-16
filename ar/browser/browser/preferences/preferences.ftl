@@ -283,6 +283,7 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = شريط البحث
 search-engine-default-header = محرك البحث المبدئي
 search-engine-default-desc = اختر محرك البحث المبدئي في شريطي العنواوين و البحث.
 search-suggestions-option =
@@ -291,8 +292,16 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = أظهر اقتراحات البحث في نتائج شريط العناوين
     .accesskey = ت
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = فضّل اقتراحات البحث على تأريخ التصفح في نتائج شريط العنوان
 search-suggestions-cant-show = لن تظهر اقتراحات البحث في نتائج شريط الموقع لأنّك أعددت { -brand-short-name } على ألّا يتذكر التأريخ.
 search-one-click-header = محركات البحث بنقرة واحدة
+search-one-click-desc = اختر محركات البحث البديلة التي تظهر تحت شريطي العناوين و البحث عندما تكتب كلمة بحث.
 search-choose-engine-column =
     .label = محرك البحث
 search-choose-keyword-column =
