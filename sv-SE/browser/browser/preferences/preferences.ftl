@@ -277,7 +277,26 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = Standard sökmotor
+search-suggestions-option =
+    .label = Ge sökförslag
+    .accesskey = s
+search-suggestions-cant-show = Sökförslag kommer inte att visas i adressfältet eftersom du har konfigurerat { -brand-short-name } att aldrig spara historik.
+search-one-click-header = Sökfältets sökmotorer
+search-choose-engine-column =
+    .label = Sökmotor
+search-choose-keyword-column =
+    .label = Nyckelord
+search-restore-default =
+    .label = Återställ standard sökmotorer
+    .accesskey = D
+search-remove-engine =
+    .label = Ta bort
+    .accesskey = T
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Duplicera nyckelord
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Du har valt ett nyckelord som redan används av “{ $name }”. Var god välj ett annat.
 search-keyword-warning-bookmark = Du har valt ett nyckelord som redan används av ett bokmärke. Var god välj ett annat.
