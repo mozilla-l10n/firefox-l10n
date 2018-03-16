@@ -274,12 +274,29 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Meklēšanas josla
+search-bar-hidden =
+    .label = Izmantot adrešu joslu meklēšanai un adresēm
+search-bar-shown =
+    .label = Pievienot meklēšanas joslu rīkjoslai
 search-engine-default-header = Noklusētais meklētājs
+search-engine-default-desc = Izvēlieties noklusēto meklētāju adrešu joslai un meklēšanai.
 search-suggestions-option =
     .label = Piedāvāt meklēšanas ieteikumus
     .accesskey = s
+search-show-suggestions-url-bar-option =
+    .label = Rādīt meklēšanas ieteikumus adrešu joslā
+    .accesskey = r
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Rādīt meklēšanas ieteikumus pirms pārlūkošanas vēstures adreses joslā
 search-suggestions-cant-show = Meklēšanas ieteikumi netiks parādīti adreses joslā, jo { -brand-short-name } ir nokonfigurēts neatcerēties vēsturi.
 search-one-click-header = Viena klikšķa meklētāji
+search-one-click-desc = Izvēlieties papildu meklētāju, kas parādīsies adrešu joslā un meklēšanas joslā, kad sāksiet rakstīt.{ " " }
 search-choose-engine-column =
     .label = Meklētāji
 search-choose-keyword-column =
@@ -290,6 +307,7 @@ search-restore-default =
 search-remove-engine =
     .label = Aizvākt
     .accesskey = z
+search-find-more-link = Pievienot meklētājus
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Šāds atslēgas vārds jau eksistē
