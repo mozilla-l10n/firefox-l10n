@@ -277,6 +277,22 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = Oletushakukone
+search-suggestions-option =
+    .label = Näytä hakuehdotuksia
+    .accesskey = N
+search-suggestions-cant-show = Hakuehdotuksia ei näytetä osoitepalkista tehtävistä hauista, koska olet kieltänyt sivuhistorian tallentamisen.
+search-one-click-header = Hakukoneet pikavalikossa
+search-choose-engine-column =
+    .label = Hakukone
+search-choose-keyword-column =
+    .label = Pikakomento
+search-restore-default =
+    .label = Palauta oletushakukoneet
+    .accesskey = a
+search-remove-engine =
+    .label = Poista
+    .accesskey = P
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Pikakomento jo käytössä
