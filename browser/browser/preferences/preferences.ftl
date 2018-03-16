@@ -221,6 +221,15 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = පෙරනිමි සෙවුම් එළවුම
+search-one-click-header = ඒක-ක්ලික් සෙවුම් එළවුම්
+search-choose-engine-column =
+    .label = සෙචුම් එළවුම
+search-choose-keyword-column =
+    .label = මූල පදය
+search-remove-engine =
+    .label = ඉවත් කරන්න
+    .accesskey = R
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = මූල පදය කිහිපවරක් භවිතකර ඇත
