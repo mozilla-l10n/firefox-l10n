@@ -132,3 +132,27 @@ browsing-use-cursor-navigation =
 network-proxy-connection-settings =
     .label = سیٹینگس
     .accesskey = e
+
+## Search Section
+
+search-engine-default-header = ڈیفالٹْہ تلاش اِنجن
+search-suggestions-option =
+    .label = فراہم کْریو تلاش صلاح &
+    .accesskey = s
+search-choose-engine-column =
+    .label = ژھانڈ  اِ نجن
+search-choose-keyword-column =
+    .label = كی وٲرڈ
+search-restore-default =
+    .label = ریسٹور کْریو ڈیفالٹْہ تلاش اِنجن &
+    .accesskey = D
+search-remove-engine =
+    .label = تئ ہٹئویو
+    .accesskey = R
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = كی وٲرڈ كریو نقل
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = توہیہ چُھ ژورمُت اکھ سُہ کی وأرڈ یوس وْنکینس  استعمال کران چُھ  "{ $name }"۔ مہربأنی کرْتھ ژأریو بدل۔
+search-keyword-warning-bookmark = توہیہ چُھ ژورمُت اکھ سُہ کی وأرڈ یوس وْنکینس اکھ بوک مارْک  استعمال کران چُھ۔ مہربأنی کرْتھ ژأریو بدل۔
