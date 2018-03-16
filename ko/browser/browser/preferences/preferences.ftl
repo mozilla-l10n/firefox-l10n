@@ -266,3 +266,21 @@ network-proxy-connection-learn-more = 자세히 보기
 network-proxy-connection-settings =
     .label = 설정…
     .accesskey = e
+
+## Search Section
+
+search-engine-default-header = 기본 검색 사이트
+search-suggestions-option =
+    .label = 검색어 자동 완성 쓰기
+    .accesskey = s
+search-one-click-header = 원클릭 검색 사이트
+search-choose-engine-column =
+    .label = 검색 사이트
+search-choose-keyword-column =
+    .label = 키워드
+search-restore-default =
+    .label = 기본 검색 사이트 되돌리기
+    .accesskey = d
+search-remove-engine =
+    .label = 지우기
+    .accesskey = r
