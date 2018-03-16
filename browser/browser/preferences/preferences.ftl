@@ -277,12 +277,29 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Bara de Riçerca
+search-bar-hidden =
+    .label = Deuvia a bara di indirissi pe çercâ e navegâ
+search-bar-shown =
+    .label = Azonzi bara de riçerca inta bara di atressi
 search-engine-default-header = Motô de riçerca predefinio
+search-engine-default-desc = Çerni o motô de riçerca predefinio da deuviâ inta bara di indirissi e inta bara de riçerca.
 search-suggestions-option =
     .label = Fanni vedde conseggi de riçerca
     .accesskey = V
+search-show-suggestions-url-bar-option =
+    .label = Fanni vedde conseggi de riçerca tra i rizoltæ da bara di indirissi
+    .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Fanni vedde i conseggi in çimma a-a stöia da navegaçion inta bara di indirissi
 search-suggestions-cant-show = I conseggi de riçerca no saian mostræ tra i exiti da-a bara di indirissi perché { -brand-short-name } o l'é inpostou pe no sarvâ a stöia.
 search-one-click-header = Motoî de riçerca in un sciacco
+search-one-click-desc = Çerni i motoî de riçerca alternativi che saian mostræ sotta a bara di indirissi e bara de riçerca quande ti iniçi a scrive.
 search-choose-engine-column =
     .label = Motô de riçerca
 search-choose-keyword-column =
@@ -293,6 +310,7 @@ search-restore-default =
 search-remove-engine =
     .label = Scancella
     .accesskey = E
+search-find-more-link = Treuva ciù motoî de riçerca
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Sta paròlla ciave a gh'é za
