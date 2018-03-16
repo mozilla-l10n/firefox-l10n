@@ -277,6 +277,22 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = Əsas axtarış mühərriyi
+search-suggestions-option =
+    .label = Axtarış təkliflərini göstər
+    .accesskey = t
+search-one-click-header = Tək klikli axtarış mühərrikləri
+search-choose-engine-column =
+    .label = Axtarış Mühərriyi
+search-choose-keyword-column =
+    .label = Açar söz
+search-remove-engine =
+    .label = Sil
+    .accesskey = S
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Təkrarlanan Açar Söz
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Hazırda “{ $name }” tərəfindən istifadə olunan bir açar söz seçdiniz. Lütfən başqa birini seçin.
+search-keyword-warning-bookmark = Hazırda bir əlfəcin tərəfindən istifadə olunan açar söz seçdiniz. Lütfən başqa birini seçin.
