@@ -279,12 +279,25 @@ search-bar-shown =
     .label = Osobny pasek wyszukiwania
 search-engine-default-header = Domyślna wyszukiwarka
 search-engine-default-desc = Wybierz domyślną wyszukiwarkę paska adresu i paska wyszukiwania.
+search-suggestions-option =
+    .label = Podpowiedzi wyszukiwania
+    .accesskey = P
+search-show-suggestions-url-bar-option =
+    .label = Podpowiedzi wyszukiwania w podpowiedziach paska adresu
+    .accesskey = e
+search-suggestions-cant-show = Podpowiedzi wyszukiwania nie będą wyświetlane w podpowiedziach paska adresu, ponieważ wyłączono zachowywanie historii przeglądania programu { -brand-short-name }.
 search-one-click-header = Dodatkowe wyszukiwarki
 search-one-click-desc = Wybierz dodatkowe wyszukiwarki wyświetlane na dole wyników wyszukiwania w pasku adresu i pasku wyszukiwania.
 search-choose-engine-column =
     .label = Nazwa
 search-choose-keyword-column =
     .label = Słowo kluczowe
+search-restore-default =
+    .label = Przywróć domyślne
+    .accesskey = d
+search-remove-engine =
+    .label = Usuń
+    .accesskey = U
 search-find-more-link = Więcej wyszukiwarek
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
