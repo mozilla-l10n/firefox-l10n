@@ -398,6 +398,7 @@
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Splošno">
 <!ENTITY read.only.title.label           "Naziv:">
+<!ENTITY read.only.calendar.label        "Koledar:">
 <!ENTITY read.only.event.start.label     "Začetni datum:">
 <!ENTITY read.only.task.start.label      "Začetni datum:">
 <!ENTITY read.only.event.end.label       "Končni datum:">
@@ -416,3 +417,11 @@
 <!ENTITY read.only.attendees.label       "Udeleženci">
 <!ENTITY read.only.description.label     "Opis">
 <!ENTITY read.only.link.label            "Sorodna povezava">
+
+<!-- Summary dialog -->
+<!ENTITY summary.dialog.saveclose.label         "Shrani in zapri">
+<!ENTITY summary.dialog.accept.label            "Sprejmi">
+<!ENTITY summary.dialog.accept.tooltiptext      "Sprejmi povabilo">
+<!ENTITY summary.dialog.decline.label           "Zavrni">
+<!ENTITY summary.dialog.decline.tooltiptext     "Zavrni povabilo">
+<!ENTITY summary.dialog.dontsend.label          "Ne pošlji odgovora">

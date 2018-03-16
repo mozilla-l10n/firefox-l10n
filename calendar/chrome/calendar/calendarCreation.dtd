@@ -20,3 +20,18 @@
 
 <!ENTITY finishpage.shortdescription  "Koledar ustvarjen" >
 <!ENTITY finishpage.longdescription   "Vaš koledar je bil ustvarjen." >
+
+<!-- Below are new strings for the revised new calendar dialog. The above strings should be
+    removed/renamed later on -->
+
+<!ENTITY sourcetabs.other.label  "Drugo">
+
+<!ENTITY buttons.create.label "Ustvari koledar">
+
+
+<!ENTITY buttons.back.label "Nazaj">
+
+<!ENTITY buttons.subscribe.label "Naroči se">
+
+
+
