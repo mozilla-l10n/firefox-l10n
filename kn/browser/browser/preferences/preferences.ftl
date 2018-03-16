@@ -231,3 +231,10 @@ network-proxy-connection-learn-more = ಇನ್ನಷ್ಟು ತಿಳಿಯ�
 network-proxy-connection-settings =
     .label = ಸಿದ್ಧತೆಗಳು...
     .accesskey = e
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = ಬಳಸಲ್ಪಟ್ಟ ಕೀಲಿಪದ
+search-keyword-warning-bookmark = ಒಂದು ಬುಕ್‌ಮಾರ್ಕಿನಿಂದ ಈಗಾಗಲೆ ಬಳಸಲ್ಪಡುತ್ತಿರುವ ಒಂದು ಕೀಲಿಪದವನ್ನು ಆಯ್ಕೆ ಮಾಡಿದ್ದೀರಿ. ದಯವಿಟ್ಟು ಬೇರೆಯದನ್ನು ಆಯ್ಕೆ ಮಾಡಿ.
