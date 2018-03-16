@@ -278,6 +278,16 @@ network-proxy-connection-settings =
 ## Search Section
 
 search-engine-default-header = Bilaketa-motor lehenetsia
+search-engine-default-desc = Aukeratu helbide- eta bilaketa-barran erabili beharreko bilaketa-motor lehenetsia.
+search-suggestions-option =
+    .label = Hornitu bilaketa-iradokizunak
+    .accesskey = b
+search-show-suggestions-url-bar-option =
+    .label = Erakutsi bilaketa-iradokizunak helbide-barrako emaitzetan
+    .accesskey = h
+search-suggestions-cant-show = Bilaketa-iradokizunak ez dira helbide-barran erakutsiko { -brand-short-name }(e)k historia inoiz ez gogoratzeko konfiguratu duzulako.
+search-one-click-header = Klik bakarreko bilaketa-motorrak
+search-one-click-desc = Aukeratu gako-hitz bat idazten hastean helbide- eta bilaketa-barren azpian agertzen diren ordezko bilaketa-motorrak.
 search-choose-engine-column =
     .label = Bilaketa-motorra
 search-choose-keyword-column =
@@ -288,7 +298,11 @@ search-restore-default =
 search-remove-engine =
     .label = Kendu
     .accesskey = K
+search-find-more-link = Bilatu bilaketa-motor gehiago
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Bikoiztutako gako-hitza
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Aukeratu duzun gako-hitza dagoeneko "{ $name }"(e)k erabiltzen du. Aukeratu beste bat.
 search-keyword-warning-bookmark = Aukeratu duzun gako-hitza dagoeneko laster-marka batek erabiltzen du. Aukeratu beste bat.
