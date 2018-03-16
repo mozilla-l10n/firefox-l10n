@@ -277,6 +277,28 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = Default na Search Engine
+search-engine-default-desc = Piliin ang default na search engine na gagamitin sa address bar at search bar.
+search-suggestions-option =
+    .label = Magbigay ng mga suhestiyon sa paghahanap
+    .accesskey = s
+search-show-suggestions-url-bar-option =
+    .label = Ipakita ang mga suhestiyon sa paghahanap ng mga resulta sa address bar
+    .accesskey = l
+search-suggestions-cant-show = Ang mga mungkahi sa paghahanap ay hindi maipapakita ang mga resulta sa bar ng lokasyon dahil na-configure mo ang { -brand-short-name } Upang hindi matandaan ang kasaysayan.
+search-one-click-header = Isang-Click Search Engines
+search-one-click-desc = Piliin ang mga alternatibong search engine na lalabas sa ibaba ng address bar at search bar kapag nagsimula kang magpasok ng isang keyword.
+search-choose-engine-column =
+    .label = Search Engine
+search-choose-keyword-column =
+    .label = Keyword
+search-restore-default =
+    .label = Ibalik ang Mga Default na Mga Search Engine
+    .accesskey = d
+search-remove-engine =
+    .label = Alisin
+    .accesskey = r
+search-find-more-link = Maghanap ng higit pang mga search engine
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Nadobleng Keyword
