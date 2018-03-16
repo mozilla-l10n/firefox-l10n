@@ -280,7 +280,44 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Barra di ricerca
+search-bar-hidden =
+    .label = Utilizza la barra degli indirizzi per ricerche e navigazione
+search-bar-shown =
+    .label = Aggiungi la barra di ricerca alla barra degli strumenti
+search-engine-default-header = Motore di ricerca predefinito
+search-engine-default-desc = Seleziona il motore di ricerca predefinito da utilizzare nella barra degli indirizzi e nella barra di ricerca.
+search-suggestions-option =
+    .label = Visualizza suggerimenti di ricerca
+    .accesskey = V
+search-show-suggestions-url-bar-option =
+    .label = Visualizza suggerimenti di ricerca tra i risultati della barra degli indirizzi
+    .accesskey = i
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Mostra i suggerimenti di ricerca prima della cronologia nei risultati della barra degli indirizzi
+search-suggestions-cant-show = I suggerimenti di ricerca non verranno visualizzati tra i risultati della barra degli indirizzi in quanto { -brand-short-name } è configurato per non salvare la cronologia.
+search-one-click-header = Motori di ricerca in un clic
+search-one-click-desc = Scegli i motori di ricerca alternativi che appaiono nella barra degli indirizzi e nella barra di ricerca quando si inizia a digitare una parola chiave.
+search-choose-engine-column =
+    .label = Motore di ricerca
+search-choose-keyword-column =
+    .label = Parola chiave
+search-restore-default =
+    .label = Ripristina i motori di ricerca predefiniti
+    .accesskey = m
+search-remove-engine =
+    .label = Rimuovi
+    .accesskey = R
+search-find-more-link = Trova altri motori di ricerca
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Parola chiave duplicata
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = La parola chiave scelta è già utilizzata da “{ $name }”. Selezionarne una diversa.
 search-keyword-warning-bookmark = La parola chiave scelta è già utilizzata da un segnalibro. Selezionarne una diversa.
