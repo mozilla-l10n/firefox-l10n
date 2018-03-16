@@ -274,3 +274,13 @@ network-proxy-connection-learn-more = Les mer
 network-proxy-connection-settings =
     .label = Innstillinger …
     .accesskey = I
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Duplikat nøkkelord
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Du har valgt et nøkkelord som allerede brukes av «{ $name }». Velg et annet nøkkelord.
+search-keyword-warning-bookmark = Du har valgt et nøkkelord som brukes av et annet bokmerke. Velg et annet nøkkelord.
