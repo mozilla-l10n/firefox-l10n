@@ -126,7 +126,13 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-remove-engine =
+    .label = Ondoa
+    .accesskey = O
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Rudia Nenomsingi
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Umechagua nenomsingi ambalo kwa sasa linatumiwa na "{ $name }". Tafadhali chagua lingine.
 search-keyword-warning-bookmark = Umechagua nenomsingi ambalo kwa sasa linatumiwa na alamisho. Tafadhali chague lingine.
