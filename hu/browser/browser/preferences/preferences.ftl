@@ -274,3 +274,10 @@ network-proxy-connection-learn-more = További tudnivalók
 network-proxy-connection-settings =
     .label = Beállítások…
     .accesskey = B
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Duplikált kulcsszó
+search-keyword-warning-bookmark = Olyan kulcsszót választott, amelyet jelenleg egy könyvjelző használ. Válasszon másikat.
