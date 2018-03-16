@@ -269,3 +269,13 @@ network-proxy-title = Proxy sieciowe
 network-proxy-connection-settings =
     .label = Ustawienia…
     .accesskey = U
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Słowo kluczowe już istnieje
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Wybrano słowo kluczowe używane obecnie przez wyszukiwarkę { $name }. Należy wybrać inne.
+search-keyword-warning-bookmark = Wybrano słowo kluczowe używane obecnie przez zakładkę. Należy wybrać inne.
