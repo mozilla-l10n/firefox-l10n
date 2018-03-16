@@ -286,10 +286,16 @@ network-proxy-connection-settings =
 ## Search Section
 
 search-engine-default-header = Peiriant Chwilio Rhagosodedig
+search-engine-default-desc = Dewis y peiriant chwilio ragosodedig i'w ddefnyddio yn y bar cyfeiriad a'r bar chwilio.
 search-suggestions-option =
     .label = Darparu awgrymiadau chwilio
     .accesskey = c
+search-show-suggestions-url-bar-option =
+    .label = Dangos awgrymiadau chwilio yng nghanlyniadau'r bar lleoliad
+    .accesskey = D
 search-suggestions-cant-show = Ni fydd awgrymiadau chwilio'n cael eu dangos yn y bar lleoliad gan eich bod wedi ffurfweddu { -brand-short-name } i byth cofio hanes.
+search-one-click-header = Peiriannau Chwilio Un Clic
+search-one-click-desc = Dewis peiriant chwilio arall sy'n ymddangos o dan y bar cyfeiriad a'r bar chwilio pan fyddwch yn cychwyn allweddair.
 search-choose-engine-column =
     .label = Peiriannau Chwilio
 search-choose-keyword-column =
@@ -300,6 +306,7 @@ search-restore-default =
 search-remove-engine =
     .label = Tynnu
     .accesskey = T
+search-find-more-link = Ychwanegu peiriannau chwilio eraill
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Allweddair Dyblyg
