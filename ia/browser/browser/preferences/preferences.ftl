@@ -274,3 +274,40 @@ network-proxy-connection-learn-more = Saper plus
 network-proxy-connection-settings =
     .label = Parametros…
     .accesskey = e
+
+## Search Section
+
+search-bar-header = Barra de recerca
+search-bar-hidden =
+    .label = Utilisar le barra de adresse pro recercar e navigar
+search-bar-shown =
+    .label = Adder le barra de recerca in le barra de instrumentos
+search-engine-default-header = Motor de recerca predefinite
+search-engine-default-desc = Elige le motor de recerca pro usar como predefinition pro le barra de adresse e le de recerca.
+search-suggestions-option =
+    .label = Provider le suggestiones de recerca
+    .accesskey = s
+search-show-suggestions-url-bar-option =
+    .label = Monstrar le suggestiones de recerca in le resultatos del barra de adresse
+    .accesskey = l
+search-suggestions-cant-show = Le suggestiones de recerca non essera monstrate inter le resultatos del barra de adresse perque tu ha configurate { -brand-short-name } pro non memorisar jammais le chronologia.
+search-one-click-header = Motores de recerca a un sol clic
+search-one-click-desc = Elige le motores de recerca alternative que appare infra le barra de adresse o le de recerca quando tu comencia a scriber un parola clave.
+search-choose-engine-column =
+    .label = Motor de recerca
+search-choose-keyword-column =
+    .label = Parola clave
+search-restore-default =
+    .label = Restaurar le motores de recerca predefinite
+    .accesskey = d
+search-remove-engine =
+    .label = Remover
+    .accesskey = r
+search-find-more-link = Trovar plus motores de recerca
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Parola clave duplicate
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Tu ha eligite un parola clave que es actualmente usate per “{ $name }”. Per favor selige un altere.
+search-keyword-warning-bookmark = Tu ha eligite un parola clave que es actualmente in uso per un marcapaginas. Per favor selige un altere.
