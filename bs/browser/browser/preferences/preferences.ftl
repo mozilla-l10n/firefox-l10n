@@ -273,12 +273,29 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Traka za pretragu
+search-bar-hidden =
+    .label = Koristi adresnu traku za pretragu i navigaciju
+search-bar-shown =
+    .label = Dodaj traku za pretragu u alatnu traku
 search-engine-default-header = Glavni pretraživač
+search-engine-default-desc = Izaberite glavni pretraživač koji želite koristiti u adresnoj i traci za pretraživanje.
 search-suggestions-option =
     .label = Pružaj prijedloge za pretraživanje
     .accesskey = p
+search-show-suggestions-url-bar-option =
+    .label = Prikazuj prijedloge za pretragu u rezultatima adresne trake
+    .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Prikazuj prijedloge za pretragu ispred historije surfanja u rezultatima adresne trake
 search-suggestions-cant-show = Prijedlozi za pretragu neće biti prikazani u rezultatima lokacijske trake jer ste podesili { -brand-short-name } da ne pamti historiju.
 search-one-click-header = Jedan-klik pretraživači
+search-one-click-desc = Izaberite alternativne pretraživače koji će se prikazati ispod adresne i trake za pretraživanje kada počnete unositi ključnu riječ.
 search-choose-engine-column =
     .label = Pretraživač
 search-choose-keyword-column =
@@ -289,6 +306,7 @@ search-restore-default =
 search-remove-engine =
     .label = Ukloni
     .accesskey = U
+search-find-more-link = Pronađi još pretraživača
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Duplicirana ključna riječ
