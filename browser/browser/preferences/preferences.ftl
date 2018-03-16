@@ -284,6 +284,10 @@ network-proxy-connection-settings =
 ## Search Section
 
 search-bar-header = شريط البحث
+search-bar-hidden =
+    .label = استخدم شريط العنوان للبحث و التنقل
+search-bar-shown =
+    .label = أضف شريط البحث إلى شريط الأدوات
 search-engine-default-header = محرك البحث المبدئي
 search-engine-default-desc = اختر محرك البحث المبدئي في شريطي العنواوين و البحث.
 search-suggestions-option =
