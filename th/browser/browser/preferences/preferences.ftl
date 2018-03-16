@@ -83,7 +83,6 @@ startup-prev-session =
     .label = แสดงหน้าต่างและแท็บของคุณจากครั้งล่าสุด
 disable-extension =
     .label = ปิดใช้งานส่วนขยาย
-home-page-header = หน้าแรก
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -266,3 +265,9 @@ network-proxy-connection-learn-more = เรียนรู้เพิ่มเ
 network-proxy-connection-settings =
     .label = การตั้งค่า…
     .accesskey = ต
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = คำแทนนี้ซ้ำกับคำแทนอื่น
