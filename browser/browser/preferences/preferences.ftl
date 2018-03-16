@@ -290,6 +290,9 @@ search-restore-default =
 search-remove-engine =
     .label = Выдаліць
     .accesskey = д
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Паўторнае ключавое слова
 # Variables:
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Вы выбралі ключавое слова, якое зараз ужываецца для "{ $name }". Выберыце, калі ласка, іншае.
