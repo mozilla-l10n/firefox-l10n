@@ -277,6 +277,9 @@ search-engine-default-desc = Escolha o mecanismo de pesquisa padrão para usar n
 search-suggestions-option =
     .label = Sugestões de pesquisa
     .accesskey = S
+search-show-suggestions-url-bar-option =
+    .label = Mostrar sugestões de pesquisa nos resultados da barra de endereços
+    .accesskey = l
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
