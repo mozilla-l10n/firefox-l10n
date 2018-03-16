@@ -302,7 +302,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Датотека">
 <!ENTITY fileMenu.accesskey       "Д">
-<!ENTITY newUserContext.label             "Нови језичак">
+<!ENTITY newUserContext.label             "Нови контејнер">
 <!ENTITY newUserContext.accesskey         "ј">
 <!ENTITY newNavigatorCmd.label        "Нови прозор">
 <!ENTITY newNavigatorCmd.key        "N">
