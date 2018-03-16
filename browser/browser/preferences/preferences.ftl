@@ -272,17 +272,40 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Sykbalke
+search-bar-hidden =
+    .label = Brûk de adresbalke foar sykjen en navigearjen
+search-bar-shown =
+    .label = Sykbalke yn arkbalke tafoegje
 search-engine-default-header = Standertsykmasine
+search-engine-default-desc = Kies de standert sykmasine foar gebrûk yn de adresbalke en sykbalke.
 search-suggestions-option =
     .label = Sykfoarstellen jaan
     .accesskey = S
+search-show-suggestions-url-bar-option =
+    .label = Sykfoarstellen yn adresbalkeresultaten toane
+    .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Syksuggestjes boppe browserskiednis toane yn adresbalkeresultaten
+search-suggestions-cant-show = Sykfoarstellen wurde net yn lokaasjebalkresultaten toand, omdat jo { -brand-short-name } konfigurearre hawwe om nea skiednis te ûnthâlden.
+search-one-click-header = Ien-klik-sykmasinen
+search-one-click-desc = Kies de alternative sykmasinen dy't ûnder de adresbalke en sykbalke ferskine as jo in kaaiwurd begjinne yn te fieren.
 search-choose-engine-column =
     .label = Sykmasine
 search-choose-keyword-column =
     .label = Kaaiwurd
+search-restore-default =
+    .label = Standertsykmasinen weromsette
+    .accesskey = S
 search-remove-engine =
     .label = Fuortsmite
     .accesskey = F
+search-find-more-link = Mear sykmasinen fine
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Dûbel kaaiwurd
