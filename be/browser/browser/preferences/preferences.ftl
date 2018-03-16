@@ -271,3 +271,10 @@ network-proxy-connection-learn-more = Падрабязней
 network-proxy-connection-settings =
     .label = Налады…
     .accesskey = л
+
+## Search Section
+
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Вы выбралі ключавое слова, якое зараз ужываецца для "{ $name }". Выберыце, калі ласка, іншае.
+search-keyword-warning-bookmark = Вы выбралі ключавое слова, якое зараз ужываецца закладкай. Выберыце, калі ласка, іншае.
