@@ -277,6 +277,11 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Rukajtz'ik Kanoxïk
+search-bar-hidden =
+    .label = Tokisax ri kikajtz'ik ochochib'äl richin nikanöx chuqa' ri okem pa k'amaya'l
+search-bar-shown =
+    .label = Titz'aqatisäx ri rukajtz'ik kanoxïk pa molsamajib'äl
 search-engine-default-header = K'o wi chi kanonel
 search-engine-default-desc = Tacha' ri ruk'u'x kanob'äl kan k'o wi richin nawokisaj pa ri kikajtz'ik taq ochochib'äl chuqa' pa ri rukajtz'ik kanoxïk.
 search-suggestions-option =
@@ -285,6 +290,13 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Kek'ut pe taq ruchilab'enik kanoxïk chi kikojol ri kiq'iq'oj kikajtz'ik taq ochochib'äl
     .accesskey = q
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Kek'ut pe taq chilab'enïk nab'ey chuwäch ri natab'äl pa ri xe'ilitäj pa ri kikajtz'ik taq ochochib'äl
 search-suggestions-cant-show = Man xkeq'alajin ta pe ri taq chilab'exïk richin nikanöx pa rukajtz'ik ochochib'äl ruma chi anuk'un ri { -brand-short-name } richin majub'ey tunataj ri anatab'al.
 search-one-click-header = Samajel taq kanob'äl rik'in jupitz'oj
 search-one-click-desc = Ke'acha' chi kikojol ri kik'u'x taq kanob'äl yeq'alajin pe chuxe' ri kikajtz'ik taq ochochib'äl chuqa' ri rukajtz'ik kanoxïk toq natz'ib'aj qa jun ruxe'el tzij.
