@@ -277,6 +277,11 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Barra de cerca
+search-bar-hidden =
+    .label = Utilitza la barra d'adreces per cercar i navegar
+search-bar-shown =
+    .label = Afegeix la barra de cerca a la barra d'eines
 search-engine-default-header = Motor de cerca per defecte
 search-engine-default-desc = Trieu el motor de cerca per defecte que s'utilitzarà en la barra d'adreces i de cerca.
 search-suggestions-option =
@@ -285,6 +290,13 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Mostra suggeriments de cerca als resultats de la barra d'adreces
     .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = En els resultats de la barra d'adreces, mostra els suggeriments de cerca abans de l'historial de navegació
 search-suggestions-cant-show = No es mostraran suggeriments de cerca als resultats de la barra d'ubicació perquè heu configurat el { -brand-short-name } per tal que no recordi mai l'historial.
 search-one-click-header = Motors de cerca amb un sol clic
 search-one-click-desc = Trieu els motors de cerca alternatius que es mostraran sota la barra d'adreces i de cerca en començar a escriure una paraula.
