@@ -272,6 +272,18 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = મૂળભૂત શોધ એંજીન
+search-choose-engine-column =
+    .label = શોધ એન્જિન
+search-choose-keyword-column =
+    .label = મુખ્ય શબ્દ
+search-restore-default =
+    .label = મૂળભૂત શોધ એંજીન તરીકે પુનઃસંગ્રહો
+    .accesskey = d
+search-remove-engine =
+    .label = દૂર કરો
+    .accesskey = r
+search-find-more-link = વધુ શોધ યંત્ર શોધો
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = નકલી મુખ્ય શબ્દ
