@@ -438,6 +438,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Zadejte adresu nebo vyhledávání">
+<!ENTITY urlbar.placeholder3          "Sem zadávejte adresy nebo vyhledávání">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Rozšíření:">
@@ -982,11 +983,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Restartovat a aktualizovat aplikaci &brandShorterName;">
 
 <!ENTITY newTabControlled.message "Rozšíření změnilo stránku zobrazovanou v nově otevřených panelech. Pokud tuto změnu nechcete, můžete obnovit svoje původní nastavení.">
+
 <!ENTITY newTabControlled.header.message "Obsah nového panelu byl změněn.">
 <!ENTITY newTabControlled.keepButton.label "Zachovat změny">
 <!ENTITY newTabControlled.keepButton.accesskey "Z">
 <!ENTITY newTabControlled.restoreButton.label "Obnovit nastavení">
 <!ENTITY newTabControlled.restoreButton.accesskey "O">
+
+<!ENTITY newTabControlled.disableButton.label "Zakázat rozšíření">
+<!ENTITY newTabControlled.disableButton.accesskey "Z">
 
 <!ENTITY pageActionButton.tooltip "Akce stránky">
 <!ENTITY pageAction.addToUrlbar.label "Přidat do adresního řádku">

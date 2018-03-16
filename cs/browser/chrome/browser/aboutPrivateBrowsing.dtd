@@ -2,6 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.title):
+     Please ensure this exactly matches tabs.emptyPrivateTabTitle in tabbrowser.properties -->
+<!ENTITY aboutPrivateBrowsing.title                      "Anonymní prohlížení">
+<!ENTITY aboutPrivateBrowsing.notPrivate.title           "Otevřít anonymní okno?">
+
 <!ENTITY aboutPrivateBrowsing.notPrivate                 "Aktuálně nepracujete s anonymním oknem.">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Otevřít anonymní okno">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "a">
