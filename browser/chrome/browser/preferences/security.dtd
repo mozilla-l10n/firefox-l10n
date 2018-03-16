@@ -11,10 +11,12 @@
 
 
 
+
 <!ENTITY  addonExceptions.label         "Excepcións…">
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
+<!ENTITY  formsAndPasswords.label       "Formularios e contrasinais">
 
 <!ENTITY  passwordExceptions.label      "Excepcións…">
 <!ENTITY  passwordExceptions.accesskey  "p">
