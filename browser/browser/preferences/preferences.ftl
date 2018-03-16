@@ -279,6 +279,11 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Панель поиска
+search-bar-hidden =
+    .label = Использовать адресную строку для поиска и навигации
+search-bar-shown =
+    .label = Добавить панель поиска на панель инструментов
 search-engine-default-header = Поисковая система по умолчанию
 search-engine-default-desc = Выберите поисковую систему по умолчанию для использования в панели адреса и панели поиска.
 search-suggestions-option =
