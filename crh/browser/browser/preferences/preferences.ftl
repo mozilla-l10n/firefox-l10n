@@ -264,3 +264,13 @@ network-proxy-title = Şebeke Proksisi
 network-proxy-connection-settings =
     .label = Tesbitler…
     .accesskey = T
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Mükerrer Anahtar Kelime
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Al-azırda “{ $name }” tarafından qullanılğan bir anahtar kelime saylağansıñız. Lütfen başqa birini saylañız.
+search-keyword-warning-bookmark = Al-azırda bir saife-imi tarafından qullanılğan bir anahtar kelime saylağansıñız. Lütfen başqa birini saylañız.
