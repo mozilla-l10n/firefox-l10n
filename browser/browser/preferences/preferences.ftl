@@ -286,6 +286,7 @@ search-restore-default =
 search-remove-engine =
     .label = Suprimir
     .accesskey = S
+search-find-more-link = Trapar mai motors de recèrcas
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Doblon de mot clau
