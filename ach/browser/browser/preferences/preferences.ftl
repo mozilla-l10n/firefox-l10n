@@ -261,11 +261,26 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Lanyut me yeny
+search-bar-hidden =
+    .label = Tii ki lanyut me kanonge me yeny ki wot
+search-bar-shown =
+    .label = Med lanyut me yeny i gitic
 search-engine-default-header = Ingin me yeny makwongo
+search-engine-default-desc = Yer injin me yeny makwongo me tic kwede i lanyut me kanonge ki lanyut me yeny.
 search-suggestions-option =
     .label = Mi tam me yeny
     .accesskey = y
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Nyut tam amia me yeny inyim jami mukato me yeny ii adwogi pa lanyut me kabedo
 search-suggestions-cant-show = Pe ki binyuto tam me yeny i adwogi me lanyut me kabedo pien i tero { -brand-short-name } pe me poo ikom gin mukato matwal.
+search-one-click-header = Ingin me yeny ma idiyo kicel
+search-one-click-desc = Yer injin yeny mukene manyute piny ite lanyut kanonge ki lanyut yeny ka i cako keto nyig lok ma pire tek.
 search-choose-engine-column =
     .label = Ingin me Yeny
 search-choose-keyword-column =
