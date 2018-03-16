@@ -277,8 +277,29 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = ძიების ველი
+search-bar-hidden =
+    .label = მისამართების ერთიანი ველი, ძიებისა და გვერდებზე გადაადგილებისთვის
+search-bar-shown =
+    .label = ძიების ველის დამატება ხელსაწყოთა ზოლზე
 search-engine-default-header = ნაგულისხმევი საძიებო სისტემა
+search-engine-default-desc = მიუთითეთ ნაგულისხმევი საძიებო სისტემა, რომელსაც გამოიყენებთ მისამართებისა და ძიების ველებში.
+search-suggestions-option =
+    .label = ძიების შემოთავაზებები
+    .accesskey = ძ
+search-show-suggestions-url-bar-option =
+    .label = ძიების შემოთავაზებები მისამართების ველის შედეგებში
+    .accesskey = ძ
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = ძიების შემოთავაზებების, მონახულებული გვერდების ისტორიაზე წინ გამოჩენა, მისამართების ველის შედეგებში
+search-suggestions-cant-show = მისამართების ველში ძიების შემოთავაზებები არ გამოჩნდება, ვინაიდან { -brand-short-name }-ს მითითებული აქვს, რომ ისტორია არასდროს დაიმახსოვროს.
 search-one-click-header = ერთ-წკაპიანი საძიებო სისტემები
+search-one-click-desc = მიუთითეთ სათადარიგო საძიებო სისტემები, რომელიც გამოჩნდება მისამართებისა და ძიების ველების ქვემოთ, საძებნი ფრაზის აკრეფისას.
 search-choose-engine-column =
     .label = საძიებო სისტემა
 search-choose-keyword-column =
@@ -286,3 +307,14 @@ search-choose-keyword-column =
 search-restore-default =
     .label = ნაგულისხმევი საძიებო სისტემების აღდგენა
     .accesskey = ნ
+search-remove-engine =
+    .label = ამოღება
+    .accesskey = ა
+search-find-more-link = სხვა საძიებო სისტემების მონახვა
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = საკვანძო სიტყვა უკვე გამოყენებულია
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = თქვენ მიერ შერჩეულ საკვანძო სიტყვას უკვე იყენებს "{ $name }". გთხოვთ, შეარჩიოთ სხვა.
+search-keyword-warning-bookmark = თქვენ მიერ შერჩეულ საკვანძო სიტყვას უკვე იყენებს სანიშნი. გთხოვთ, შეარჩიოთ სხვა.
