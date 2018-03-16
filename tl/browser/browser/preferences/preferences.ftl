@@ -277,6 +277,11 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Search Bar
+search-bar-hidden =
+    .label = Gamitin ang address bar para sa paghahanap at pag-navigate
+search-bar-shown =
+    .label = Idagdag ang search bar sa toolbar
 search-engine-default-header = Default na Search Engine
 search-engine-default-desc = Piliin ang default na search engine na gagamitin sa address bar at search bar.
 search-suggestions-option =
