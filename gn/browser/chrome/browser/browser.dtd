@@ -983,11 +983,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Emoñepyrũjey embohekopyahu hag̃ua &brandShorterName;">
 
 <!ENTITY newTabControlled.message "Peteĩ moĩmbaha omoambuékuri togue rehecháva ojeike vove pype. Rembojevykuaa heko ndereipotáiramo mba'éichapa ojehechauka.">
+
 <!ENTITY newTabControlled.header.message "Ne Tendayke Pyahu iñambuékuri.">
 <!ENTITY newTabControlled.keepButton.label "Topyta Ñemoambue">
 <!ENTITY newTabControlled.keepButton.accesskey "K">
 <!ENTITY newTabControlled.restoreButton.label "Mbohekoha Ñembojevy">
 <!ENTITY newTabControlled.restoreButton.accesskey "R">
+
+<!ENTITY newTabControlled.disableButton.label "Eipe'aite jepysokue">
+<!ENTITY newTabControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "Kuatiarogue rembiapo">
 <!ENTITY pageAction.addToUrlbar.label "Embojuaju kundaharape rendáre ">
