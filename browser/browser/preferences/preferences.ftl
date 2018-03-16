@@ -285,6 +285,13 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Sýna leitarábendingar sem niðurstöður í staðsetningarslá
     .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Sýna leitarábendingar fyrir framan leitarsögu í niðurstöðum staðsetningarsláar
 search-suggestions-cant-show = Leitarábendingar verða ekki sýndar í staðsetningarslá þar sem þú hefur stillt { -brand-short-name } þannig að hann muni ekki neina leitarsögu.
 search-one-click-header = Leitarvélar með einum smelli
 search-one-click-desc = Veldu auka leitarvélar sem birtast hér fyrir neðan staðsetningarslá og leitarslá þegar þú byrjar að slá inn lykilorð.
