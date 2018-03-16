@@ -274,3 +274,13 @@ network-proxy-connection-learn-more = מידע נוסף
 network-proxy-connection-settings =
     .label = הגדרות...
     .accesskey = ה
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = מילת מפתח כפולה
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = בחרת להשתמש במילת מפתח שנמצאת כרגע בשימוש עבור "{ $name }". אנא בחר במילה אחרת.
+search-keyword-warning-bookmark = בחרת להשתמש במילת מפתח שנמצאת כרגע בשימוש של סימנייה. אנא בחר במילה אחרת.
