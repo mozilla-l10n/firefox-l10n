@@ -244,13 +244,21 @@ search-bar-hidden =
     .label = Usar la barra de direiciones pa guetar y restolar
 search-bar-shown =
     .label = Amestar barra de gueta na barra de ferramientes
+search-engine-default-header = Guetador por defeutu
 search-engine-default-desc = Escoyer el motor de gueta predetermináu a usar na barra de direiciones y na barra de gueta.
+search-suggestions-option =
+    .label = Apurrir suxerencies de gueta
+    .accesskey = D
 search-suggestions-cant-show = Les suxerencies de gueta nun van amosase nos resultaos de la barra de direiciones porque configurasti { -brand-short-name } pa que nun recuerde l'historial.
+search-one-click-header = Motores de gueta nun clic
 search-one-click-desc = Escoyer los motores de gueta alternativos qu'apaecen baxo la barra de direiciones y la barra de gueta cuando entames a escribir una pallabra clave.
 search-choose-engine-column =
     .label = Guetador
 search-choose-keyword-column =
     .label = Pallabra clave
+search-restore-default =
+    .label = Reafitar motores de gueta por defeutu
+    .accesskey = R
 search-remove-engine =
     .label = Desaniciar
     .accesskey = D
@@ -258,3 +266,7 @@ search-find-more-link = Atopar más motores de gueta
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Pallabra clave duplicada
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Esbillesti una pallabra clave qu'anguaño s'usa por «{ $name }». Esbilla otra, por favor.
+search-keyword-warning-bookmark = Esbillesti una pallabra clave qu'anguaño s'usa nun marcador. Esbilla otra, por favor.
