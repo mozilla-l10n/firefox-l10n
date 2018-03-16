@@ -125,6 +125,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "a">
 <!ENTITY toggleReaderMode.key "R">
 
+
 <!ENTITY fxaSignIn.label "Conectarse a &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Abir as preferencias de &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Volver a conectarse a &syncBrand.shortName.label;">
@@ -220,6 +221,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Xestiona a tradución da páxina">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Xestiona o uso de software DRM">
 
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Bloqueou a cámara para este sitio web.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Bloqueou o micrófono para este sitio web.">
 
@@ -286,7 +288,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Nova xanela privada">
 <!ENTITY newPrivateWindow.accesskey "x">
-<!ENTITY newNonRemoteWindow.label   "Nova xanela non e10s">
 
 <!ENTITY editMenu.label         "Editar">
 <!ENTITY editMenu.accesskey       "E">
@@ -341,17 +342,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Amosar todo o historial">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Personalizar">
-<!ENTITY appMenuCustomize.tooltip "Personalizar o menú e as barras de ferramentas">
-<!ENTITY appMenuCustomizeExit.label "Saír da personalización">
-<!ENTITY appMenuCustomizeExit.tooltip "Rematar a personalización">
 <!ENTITY appMenuHistory.showAll.label "Amosar todo o historial">
 <!ENTITY appMenuHistory.clearRecent.label "Borrar historial recente…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurar a sesión anterior">
 <!ENTITY appMenuHistory.viewSidebar.label "Ver o panel do historial">
 <!ENTITY appMenuHistory.recentHistory.label "Historial recente">
 <!ENTITY appMenuHelp.label "Axuda">
-<!ENTITY appMenuHelp.tooltip "Abrir o menú de axuda">
 
 <!ENTITY appMenuRemoteTabs.label "Lapelas sincronizadas">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -370,6 +366,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.openprefs.label "Preferencias da sincronización">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Acceda para ver unha lista de lapelas dos outros dispositivos.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Necesita comprobar a súa conta.">
+<!ENTITY appMenuRemoteTabs.signin.label "Acceda ao Sync">
+<!ENTITY appMenuRemoteTabs.managedevices.label "Xestionar dispositivos…">
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Conectar outro dispositivo">
 
 
 <!ENTITY customizeMenu.addToToolbar.label "Engadir á barra de ferramentas">
@@ -408,14 +410,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Extensión:">
 <!ENTITY urlbar.switchToTab.label     "Cambiar á lapela:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "Desexa mellorar a súa experiencia de buscar con suxestións?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Obter máis información…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "m">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Non">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Si">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "i">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Consello:">
@@ -688,8 +682,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Estilo de páxina básico">
 <!ENTITY pageStylePersistentOnly.accesskey "b">
 
-<!ENTITY pageReportIcon.tooltip            "Modificar a configuración de bloqueo de xanelas emerxentes para este sitio web">
-
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -719,6 +711,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Feito">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
+
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Seguranza do sitio">
 
 <!ENTITY identity.connectionSecure "Conexión segura">
 <!ENTITY identity.connectionNotSecure "A conexión non é segura">
@@ -751,18 +747,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "Obteña máis información">
 
+<!ENTITY identity.removeCertException.label "Retirar excepción">
+<!ENTITY identity.removeCertException.accesskey "R">
 
 <!ENTITY identity.moreInfoLinkText2 "Máis información">
 
 <!ENTITY identity.permissions "Permisos">
 <!ENTITY identity.permissionsEmpty "Non lle concedeu ningún permiso especial a este sitio.">
+<!ENTITY identity.permissionsReloadHint "Pode ser preciso recargar a páxina para que os cambios teñan efecto.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Lapelas do navegador">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
+<!ENTITY syncTabsMenu3.label     "Lapelas sincronizadas">
 
+<!ENTITY syncedTabs.sidebar.label              "Lapelas sincronizadas">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 
@@ -799,10 +800,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "r">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY customizeMode.menuAndToolbars.empty "Quere máis ferramentas?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Escolla entre centos de complementos">
 <!ENTITY customizeMode.restoreDefaults "Restaurar a configuración predeterminada">
+<!ENTITY customizeMode.done "Feito">
 <!ENTITY customizeMode.titlebar "Barra de título">
+<!ENTITY customizeMode.toolbars2 "Barras de ferramentas">
 <!ENTITY customizeMode.lwthemes "Temas">
 <!ENTITY customizeMode.lwthemes.myThemes "Os meus temas">
 <!ENTITY customizeMode.lwthemes.recommended "Recomendado">
@@ -810,15 +811,25 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "X">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Obter máis temas">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "b">
+<!ENTITY customizeMode.uidensity "Densidade">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
+<!ENTITY customizeMode.uidensity.menuNormal.label "Normal">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Normal">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
      “Compact” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Compact). -->
+<!ENTITY customizeMode.uidensity.menuCompact.label "Compacto">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Compacto">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "C">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
      “Touch” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Touch), and it means that control layout is
      optimized for touch devices. -->
+<!ENTITY customizeMode.uidensity.menuTouch.label "Táctil">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Táctil">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
 
 
 <!ENTITY getUserMedia.selectCamera.label "Cámara a compartir:">
@@ -893,6 +904,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
+
+
 <!ENTITY pageActionButton.tooltip "Accións da páxina">
 <!ENTITY pageAction.addToUrlbar.label "Engadir á barra de enderezos">
 <!ENTITY pageAction.removeFromUrlbar.label "Retirar da barra de enderezos">
@@ -905,3 +919,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
      used as a textual label for the indicator used by assistive technology
      users. -->
+
+<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
+     The first <image> tag is replaced with the icon for the add-ons menu.
+     The second <image> tag is replaced with the icon for the toolbar menu. -->
