@@ -279,6 +279,24 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = Motor de căutare implicit
+search-engine-default-desc = Alege motorul de căutare implicit pentru a fi folosit în bara de adresă și în bara de căutare.
+search-suggestions-option =
+    .label = Furnizează sugestii de căutare
+    .accesskey = s
+search-show-suggestions-url-bar-option =
+    .label = Afișează sugestiile de căutare în rezultatele din bara de adresă
+    .accesskey = l
+search-suggestions-cant-show = Sugestiile de căutare nu vor fi afișate în rezultatele din bara de adrese deoarece ai configurat { -brand-short-name } ca să nu țină minte niciodată istoricul.
+search-one-click-header = Motoare de căutare la un clic distanță
+search-choose-engine-column =
+    .label = Motor de căutare
+search-choose-keyword-column =
+    .label = Cuvânt cheie
+search-remove-engine =
+    .label = Elimină
+    .accesskey = R
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Cuvânt cheie duplicat
+search-keyword-warning-bookmark = Ai ales un cuvânt cheie care este folosit de un marcaj. Te rugăm să selectezi altul.
