@@ -123,3 +123,10 @@ browsing-use-cursor-navigation =
 network-proxy-connection-settings =
     .label = Mipangilio…
     .accesskey = i
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Rudia Nenomsingi
+search-keyword-warning-bookmark = Umechagua nenomsingi ambalo kwa sasa linatumiwa na alamisho. Tafadhali chague lingine.
