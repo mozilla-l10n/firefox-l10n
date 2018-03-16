@@ -7,9 +7,13 @@
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 
+<!ENTITY restorepage.hideTabs       "Agochar as lapelas anteriores">
+<!ENTITY restorepage.showTabs       "Ver as lapelas anteriores">
 
 <!ENTITY restorepage.tryagainButton2 "Restaurar sesión">
 <!ENTITY restorepage.restore.access2 "R">
+<!ENTITY restorepage.closeButton2    "Comezar nova sesión">
+<!ENTITY restorepage.close.access2   "N">
 
 <!ENTITY restorepage.restoreHeader  "Restaurar">
 <!ENTITY restorepage.listHeader     "Xanelas e lapelas">
@@ -28,6 +32,8 @@
 <!ENTITY welcomeback2.pageTitle     "Rematou!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; está preparado.">
 
+<!ENTITY welcomeback2.restoreAll.label  "Restaurar todas as xanelas e lapelas">
+<!ENTITY welcomeback2.restoreSome.label "Restaurar só as que queira">
 
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,

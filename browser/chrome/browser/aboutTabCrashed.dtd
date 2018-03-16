@@ -2,7 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tabCrashed.closeTab "Pechar esta lapela">
+
+<!ENTITY tabCrashed.closeTab2  "Pechar lapela">
 <!ENTITY tabCrashed.restoreTab "Restaurar esta lapela">
 <!ENTITY tabCrashed.restoreAll "Restaurar todas as lapelas quebradas">
 
@@ -13,4 +14,5 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
+<!ENTITY tabCrashed.offerHelp2 "Podemos axudarlle!">
 <!ENTITY tabCrashed.reportSent "Xa se enviou o informe de erro; grazas por axudar a mellorar &brandShortName;!">
