@@ -155,3 +155,9 @@ browsing-use-cursor-navigation =
 network-proxy-connection-settings =
     .label = Поставки…
     .accesskey = с
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Дупликат клучен збор
