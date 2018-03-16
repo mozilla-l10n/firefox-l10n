@@ -274,3 +274,8 @@ network-proxy-connection-learn-more = Saber mais
 network-proxy-connection-settings =
     .label = Definições…
     .accesskey = e
+
+## Search Section
+
+search-choose-engine-column =
+    .label = Motor de pesquisa
