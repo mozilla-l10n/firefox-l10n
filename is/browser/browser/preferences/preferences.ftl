@@ -272,7 +272,32 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = Sjálfgefin leitarvél
+search-engine-default-desc = Veldu sjálfgefna leitarvél sem er notuð fyrir staðsetningarslá og leitarslá
+search-suggestions-option =
+    .label = Birta uppástungur fyrir leit
+    .accesskey = s
+search-show-suggestions-url-bar-option =
+    .label = Sýna leitarábendingar sem niðurstöður í staðsetningarslá
+    .accesskey = l
+search-suggestions-cant-show = Leitarábendingar verða ekki sýndar í staðsetningarslá þar sem þú hefur stillt { -brand-short-name } þannig að hann muni ekki neina leitarsögu.
+search-one-click-header = Leitarvélar með einum smelli
+search-one-click-desc = Veldu auka leitarvélar sem birtast hér fyrir neðan staðsetningarslá og leitarslá þegar þú byrjar að slá inn lykilorð.
+search-choose-engine-column =
+    .label = Leitarvél
+search-choose-keyword-column =
+    .label = Stikkorð
+search-restore-default =
+    .label = Endurheimta sjálfgefnar leitarvélar
+    .accesskey = d
+search-remove-engine =
+    .label = Fjarlægja
+    .accesskey = r
+search-find-more-link = Finna fleiri leitarvélar
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Stikkorð er þegar til
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Þú hefur valið stikkorð sem er þegar í notkun af “{ $name }”. Veldu eitthvað annað.
 search-keyword-warning-bookmark = Þú hefur valið stikkorð sem er þegar í notkun af bókamerki. Veldu eitthvað annað.
