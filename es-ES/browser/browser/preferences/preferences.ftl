@@ -274,3 +274,13 @@ network-proxy-connection-learn-more = Saber más
 network-proxy-connection-settings =
     .label = Configuración…
     .accesskey = o
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Palabra clave duplicada
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Ha seleccionado una palabra clave que está siendo usada por "{ $name }". Por favor, seleccione otra.
+search-keyword-warning-bookmark = Ha seleccionado una palabra clave que está siendo usada por otro marcador. Por favor, seleccione otra.
