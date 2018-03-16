@@ -278,6 +278,7 @@ search-bar-hidden =
 search-bar-shown =
     .label = Rnu afeggag n unadi deg ufeggag n ifecka
 search-engine-default-header = Amsedday n unadi amezwer
+search-engine-default-desc = Fren amsedday n unadi amezwer ad tesqedceḍ deg ufeggag n tansa akked deg ufeggag n unadi.
 search-suggestions-option =
     .label = Sken isumar n unadi
     .accesskey = S
@@ -293,6 +294,7 @@ search-show-suggestions-above-history-option =
     .label = Sken-d asumer n unadi uqbel amazray n tunigin deg ugemmuḍ deg ufeggag n tansa
 search-suggestions-cant-show = Anadi n isumar ur d ittwaskan ara deg yigmaḍ n ufeggag n tansa acku tsewleḍ { -brand-short-name } akken ur iḥerrez ara amazray.
 search-one-click-header = Imseddayen n unadi ara tkecmeḍ s yiwen n usiti{ " " }
+search-one-click-desc = Fren imseddayen n unadi-nniḍen ad d-ibanen daw ufeggag n tansa akked ufeggag n unadi m'ara ad tebduḍ ad tsekcameḍ awal n tsarut.
 search-choose-engine-column =
     .label = Amsedday n unadi
 search-choose-keyword-column =
@@ -303,3 +305,11 @@ search-restore-default =
 search-remove-engine =
     .label = Kkes
     .accesskey = K
+search-find-more-link = Aff ugar n yimseddayen n unadi
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Sleg awal n tsarutt
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Tferneḍ awal n tsarutt i  yettusqedcen yakan sɣur "{ $name }".. Ma ulac aɣilif fren wayeḍ.
+search-keyword-warning-bookmark = Tferneḍ awal n tsarutt i yettusqedcen yakan di tecreḍṭ n usebter. Ma ulac aɣilif fren wayeḍ.
