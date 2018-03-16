@@ -284,3 +284,10 @@ search-restore-default =
 search-remove-engine =
     .label = 지우기
     .accesskey = r
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = 키워드 복사
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = "{ $name }"에서 이미 사용 중인 키워드를 선택했습니다. 다른 것을 선택하십시오.
+search-keyword-warning-bookmark = 북마크에서 이미 사용 중인 키워드를 선택했습니다. 다른 것을 선택하십시오.
