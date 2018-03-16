@@ -276,3 +276,9 @@ network-proxy-connection-learn-more = Сазнајте више
 network-proxy-connection-settings =
     .label = Поставке…
     .accesskey = П
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Поновљена кључна реч
