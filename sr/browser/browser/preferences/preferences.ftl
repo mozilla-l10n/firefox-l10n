@@ -279,6 +279,26 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = Подразумевани претраживач
+search-suggestions-option =
+    .label = Пружи предлоге претраге
+    .accesskey = г
+search-suggestions-cant-show = Предлози претраге неће бити приказани у траци за локацију зато што сте подесили да { -brand-short-name } никада не памти историју.
+search-one-click-header = One-click претраживачи
+search-choose-engine-column =
+    .label = Претраживач
+search-choose-keyword-column =
+    .label = Кључна реч
+search-restore-default =
+    .label = Врати на подразумеване претраживаче
+    .accesskey = В
+search-remove-engine =
+    .label = Уклони
+    .accesskey = У
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Поновљена кључна реч
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Изабрали сте кључну реч коју тренутно користи "{ $name }". Одаберете неку другу.
+search-keyword-warning-bookmark = Изабрали сте кључну реч коју тренутно користи забелешка. Одаберете неку другу.
