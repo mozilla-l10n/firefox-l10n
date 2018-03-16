@@ -393,7 +393,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Vil du se dine faneblade fra andre enheder her?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Indstillinger for Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Log ind for at få vist faneblade, som er åbne på dine andre enheder.">
-<!ENTITY appMenuRemoteTabs.unverified.label "Din konto behøver at blive bekræftet.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Din konto skal bekræftes.">
 <!ENTITY appMenuRemoteTabs.signin.label "Log ind på Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Håndter enheder…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Vis synkroniserede faneblade i sidepanel">
