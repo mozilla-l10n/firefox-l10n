@@ -274,3 +274,13 @@ network-proxy-connection-learn-more = Tetamäx ch'aqa' chik
 network-proxy-connection-settings =
     .label = Tinuk'…
     .accesskey = n
+
+## Search Section
+
+search-engine-default-header = K'o wi chi kanonel
+search-remove-engine =
+    .label = Telesäx
+    .accesskey = s
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Kamulun ewan tzij
