@@ -220,3 +220,10 @@ browsing-search-on-start-typing =
 network-proxy-connection-settings =
     .label = Kayandiyaney…
     .accesskey = a
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Kufalkalima filla
+search-keyword-warning-bookmark = War na kufalkalima suuba kaŋ goo goy ra doo-šilbay se sohõda. Taare iwaani suuba.
