@@ -263,7 +263,25 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = Dịch vụ tìm kiếm mặc định
+search-suggestions-option =
+    .label = Tự động đề nghị từ khóa tìm kiếm
+    .accesskey = n
+search-suggestions-cant-show = Gợi ý tìm kiếm sẽ không được hiện ở thanh địa chỉ vì bạn đã thiết lập { -brand-short-name } không bao giờ ghi nhớ lịch sử.
+search-choose-engine-column =
+    .label = Dịch vụ tìm kiếm
+search-choose-keyword-column =
+    .label = Từ khóa
+search-restore-default =
+    .label = Đặt lại dịch vụ tìm kiếm mặc định
+    .accesskey = l
+search-remove-engine =
+    .label = Xóa
+    .accesskey = X
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Nhân bản Từ khóa
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Bạn đã chọn một từ khóa hiện đang được dùng bởi "{ $name }". Vui lòng chọn từ khác.
 search-keyword-warning-bookmark = Bạn đã chọn một từ khóa hiện đang được dùng bởi một trang đánh dấu. Vui lòng chọn từ khác.
