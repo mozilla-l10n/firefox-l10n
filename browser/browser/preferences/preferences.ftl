@@ -277,12 +277,29 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Hakupalkki
+search-bar-hidden =
+    .label = Käytä osoitepalkkia hakemiseen ja sivuille siirtymiseen
+search-bar-shown =
+    .label = Lisää hakupalkki työkalupalkkiin
 search-engine-default-header = Oletushakukone
+search-engine-default-desc = Valitse oletushakukone, jota käytetään osoite- ja hakupalkissa.
 search-suggestions-option =
     .label = Näytä hakuehdotuksia
     .accesskey = N
+search-show-suggestions-url-bar-option =
+    .label = Näytä hakuehdotukset osoitepalkkihauissa
+    .accesskey = o
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Näytä hakuehdotukset osoitepalkin tuloksissa ennen selaushistoriaa
 search-suggestions-cant-show = Hakuehdotuksia ei näytetä osoitepalkista tehtävistä hauista, koska olet kieltänyt sivuhistorian tallentamisen.
 search-one-click-header = Hakukoneet pikavalikossa
+search-one-click-desc = Valitse vaihtoehtoiset hakukoneet, jotka ilmestyvät osoite- ja hakupalkin alalaitaan, kun alat kirjoittaa hakusanoja.
 search-choose-engine-column =
     .label = Hakukone
 search-choose-keyword-column =
@@ -293,7 +310,11 @@ search-restore-default =
 search-remove-engine =
     .label = Poista
     .accesskey = P
+search-find-more-link = Etsi lisää hakukoneita
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Pikakomento jo käytössä
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Annettu pikakomento on jo kirjanmerkillä ”{ $name }”. Kirjoita uusi pikakomento.
 search-keyword-warning-bookmark = Annettu pikakomento on jo toisella kirjanmerkillä. Kirjoita uusi pikakomento.
