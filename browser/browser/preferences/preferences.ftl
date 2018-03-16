@@ -277,6 +277,22 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = Standard søkemotor
+search-suggestions-option =
+    .label = Tilby søkeforslag
+    .accesskey = T
+search-suggestions-cant-show = Søkeforslag vil ikke vises i adresselinjeresultatene fordi du har konfigurert { -brand-short-name } til å aldri huske historikk.
+search-one-click-header = Ettklikks søkemotorer
+search-choose-engine-column =
+    .label = Søkemotor
+search-choose-keyword-column =
+    .label = Nøkkelord
+search-restore-default =
+    .label = Gjenopprett standard søkemotorer
+    .accesskey = G
+search-remove-engine =
+    .label = Fjern
+    .accesskey = F
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Duplikat nøkkelord
