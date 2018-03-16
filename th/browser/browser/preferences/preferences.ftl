@@ -268,7 +268,15 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-one-click-header = เครื่องมือค้นหาในคลิกเดียว
+search-choose-engine-column =
+    .label = เครื่องมือค้นหา
+search-choose-keyword-column =
+    .label = คำสำคัญ
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = คำแทนนี้ซ้ำกับคำแทนอื่น
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = คำแทนที่คุณเลือกซ้ำกับคำแทนที่ถูกใช้โดย “{ $name }” โปรดเลือกคำแทนอื่น
 search-keyword-warning-bookmark = คำแทนที่คุณเลือกซ้ำกับคำแทนที่ถูกใช้โดยที่คั่นหน้า โปรดเลือกคำแทนอื่น
