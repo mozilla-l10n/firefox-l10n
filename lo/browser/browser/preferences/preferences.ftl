@@ -98,3 +98,9 @@ performance-default-content-process-count =
 
 ## General Section - Proxy
 
+
+## Search Section
+
+search-remove-engine =
+    .label = ລຶບ
+    .accesskey = ລ
