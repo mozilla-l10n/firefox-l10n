@@ -241,7 +241,26 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = Injini yesiseko yokukhangela
+search-suggestions-option =
+    .label = Nika khangela iingcebiso
+    .accesskey = k
+search-suggestions-cant-show = Amacebiso okukhangela akayi kuboniswa kwiziphumo zebha yendawo ngenxa yokuba uyile i-{ -brand-short-name } ukuba ingaze iyikhumbule imbali.
+search-one-click-header = IiNjini zokuKhangela Ezicofwa Kanye
+search-choose-engine-column =
+    .label = Iinjini zokukhangela
+search-choose-keyword-column =
+    .label = Igama eliphambili
+search-restore-default =
+    .label = Buyisela Iinjini zokukhangela zesiseko
+    .accesskey = I
+search-remove-engine =
+    .label = Susa
+    .accesskey = S
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Phindaphinda igama eliphambili
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Ukhethe igama eliphambili elisetyenziswa kungokunje yi"{ $name }". Nceda ukhethe elinye.
 search-keyword-warning-bookmark = Ukhethe igama eliphambili elisetyenziswa kungokunje yibhukhmakhi. Nceda ukhethe elinye.
