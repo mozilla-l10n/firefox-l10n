@@ -266,3 +266,9 @@ network-proxy-connection-learn-more = 了解更多
 network-proxy-connection-settings =
     .label = 設定…
     .accesskey = e
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = 關鍵字重複
