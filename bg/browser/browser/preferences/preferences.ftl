@@ -269,3 +269,19 @@ network-proxy-connection-learn-more = Научете повече
 network-proxy-connection-settings =
     .label = Настройки…
     .accesskey = Н
+
+## Search Section
+
+search-engine-default-header = Стандартна търсеща машина
+search-one-click-header = Търсене с едно щракване
+search-choose-engine-column =
+    .label = Търсеща машина
+search-choose-keyword-column =
+    .label = Ключова дума
+search-remove-engine =
+    .label = Премахване
+    .accesskey = П
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Избрали сте ключова дума, която вече се използва от „{ $name }“. Моля, изберете друга.
+search-keyword-warning-bookmark = Избрали сте дума, която вече се използва от отметка. Моля, изберете друга.
