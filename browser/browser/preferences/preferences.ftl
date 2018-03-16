@@ -259,3 +259,13 @@ network-proxy-title = ネットワークプロキシ
 network-proxy-connection-settings =
     .label = 接続設定...
     .accesskey = e
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = キーワードが重複しています
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = "{ $name }" で使用されているキーワードを指定しました。他のものを指定してください。
+search-keyword-warning-bookmark = ブックマークで使用されているキーワードを指定しました。他のものを指定してください。
