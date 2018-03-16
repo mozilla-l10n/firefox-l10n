@@ -267,11 +267,22 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = സെര്‍ച്ച് ബാര്‍
+search-bar-hidden =
+    .label = തിരയൽ, നാവിഗേഷൻ എന്നിവയ്ക്കായി അഡ്ഡ്രസ്സ് ബാര്‍ ഉപയോഗിക്കുക
+search-bar-shown =
+    .label = ടൂൾബാറിൽ സെർച്ച് ബാർ ചേർക്കുക
 search-engine-default-header = സ്വതവേയുള്ള തിരച്ചില്‍ യന്ത്രം
+search-engine-default-desc = വിലാസ ബാറിലും തിരയൽ ബാറിലും ഉപയോഗിക്കാൻ സ്ഥിര തിരയൽ എഞ്ചിൻ തിരഞ്ഞെടുക്കുക.
 search-suggestions-option =
     .label = തിരച്ചിലിനുള്ള നിര്‍ദ്ദേശങ്ങള്‍ നല്‍കുക
     .accesskey = s
+search-show-suggestions-url-bar-option =
+    .label = അഡ്ഡ്രസ്സ് ബാറിലെ ഫലങ്ങളിൽ തിരയൽ നിർദ്ദേശങ്ങൾ ദൃശ്യമാക്കുക
+    .accesskey = I
 search-suggestions-cant-show = സ്ഥാനപട്ടയില്‍ തെരച്ചില്‍ നിര്‍ദ്ദേശങ്ങള്‍ കാണിക്കുന്നതല്ല. കാരണം, താങ്കള്‍ { -brand-short-name } ക്രമീകരിച്ചിരിയ്ക്കുന്നതു് നാള്‍വഴി ഒരിക്കലും ഓര്‍ക്കാതിരിയ്ക്കാനാണു്.
+search-one-click-header = ഒറ്റ-ക്ലിക്ക് സെര്‍ച്ച് എഞ്ചിനുകൾ
+search-one-click-desc = നിങ്ങൾ കീവേഡ് നൽകുന്നത് ആരംഭിക്കുമ്പോൾ വിലാസ ബാറിനും സെർച്ച് ബാറിനും താഴെയുള്ള ഇതര തിരയൽ എഞ്ചിനുകൾ തിരഞ്ഞെടുക്കുക.
 search-choose-engine-column =
     .label = തെരച്ചില്‍ എഞ്ചിന്‍
 search-choose-keyword-column =
@@ -282,6 +293,7 @@ search-restore-default =
 search-remove-engine =
     .label = നീക്കം ചെയ്യുക
     .accesskey = R
+search-find-more-link = കൂടുതൽ സെര്‍ച്ച് എഞ്ചിനുകൾ കണ്ടെത്തുക
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = കീവേര്‍ഡ് ആവര്‍ത്തിക്കുന്നു
