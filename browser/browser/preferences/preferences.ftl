@@ -277,18 +277,40 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Axtarış Sətri
+search-bar-hidden =
+    .label = Ünvan sətrini axtarış və naviqasiya üçün işlədin
+search-bar-shown =
+    .label = Axtarış sətrini alət sətrinə əlavə et
 search-engine-default-header = Əsas axtarış mühərriyi
+search-engine-default-desc = Ünvan və axtarış sətrində işlətmək üçün əsas axtarış mühərriyini seçin.
 search-suggestions-option =
     .label = Axtarış təkliflərini göstər
     .accesskey = t
+search-show-suggestions-url-bar-option =
+    .label = Ünvan sətri nəticələrində axtarış təkliflərini göstər
+    .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Ünvan Sətri nəticələrində axtarış təkliflərini səyahət tarixçəsindən əvvəl göstər
+search-suggestions-cant-show = { -brand-short-name } səyyahını tarixçəni xatırlamayacaq şəkildə nizamladığınız üçün ünvan sətri nəticələrində axtarış təklifləri göstərilməyəcək.
 search-one-click-header = Tək klikli axtarış mühərrikləri
+search-one-click-desc = Ünvan və axtarış sətrinə söz daxil etdiyinizdə gələn axtarış mühərriklərini seçin.
 search-choose-engine-column =
     .label = Axtarış Mühərriyi
 search-choose-keyword-column =
     .label = Açar söz
+search-restore-default =
+    .label = İlkin axtarış nizamlarını bərpa et
+    .accesskey = D
 search-remove-engine =
     .label = Sil
     .accesskey = S
+search-find-more-link = Daha çox axtarış mühərriyi tap
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Təkrarlanan Açar Söz
