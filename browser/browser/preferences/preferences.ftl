@@ -277,8 +277,11 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = অনুসন্ধান বার
 search-bar-hidden =
     .label = অনুসন্ধান এবং নেভিগেশন জন্য ঠিকানা বার ব্যবহার করুন
+search-bar-shown =
+    .label = টুলবারে অনুসন্ধান বার যুক্ত করুন
 search-engine-default-header = ডিফল্ট অনুসন্ধান ইঞ্জিন
 search-engine-default-desc = ঠিকানা বার এবং অনুসন্ধান বার ব্যবহার করতে ডিফল্ট অনুসন্ধান ইঞ্জিন নির্বাচন করুন।
 search-suggestions-option =
