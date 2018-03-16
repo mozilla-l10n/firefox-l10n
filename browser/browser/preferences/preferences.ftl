@@ -269,6 +269,22 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-engine-default-header = 預設搜尋引擎
+search-suggestions-option =
+    .label = 提供搜尋建議
+    .accesskey = s
+search-suggestions-cant-show = 由於您已經設定 { -brand-short-name } 不要記住瀏覽紀錄，網址列中將不會顯示建議搜尋結果。
+search-one-click-header = 快捷搜尋引擎清單
+search-choose-engine-column =
+    .label = 搜尋引擎
+search-choose-keyword-column =
+    .label = 關鍵字
+search-restore-default =
+    .label = 還原預設搜尋引擎
+    .accesskey = d
+search-remove-engine =
+    .label = 移除
+    .accesskey = r
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = 關鍵字重複
