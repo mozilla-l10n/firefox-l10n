@@ -279,6 +279,11 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Bară de căutare
+search-bar-hidden =
+    .label = Folosește bara de adresă pentru căutare și navigare
+search-bar-shown =
+    .label = Adaugă bara de căutare în bara de instrumente
 search-engine-default-header = Motor de căutare implicit
 search-engine-default-desc = Alege motorul de căutare implicit pentru a fi folosit în bara de adresă și în bara de căutare.
 search-suggestions-option =
@@ -289,6 +294,7 @@ search-show-suggestions-url-bar-option =
     .accesskey = l
 search-suggestions-cant-show = Sugestiile de căutare nu vor fi afișate în rezultatele din bara de adrese deoarece ai configurat { -brand-short-name } ca să nu țină minte niciodată istoricul.
 search-one-click-header = Motoare de căutare la un clic distanță
+search-one-click-desc = Alege motoarele de căutare alternative care apar sub bara de adresă și bara de căutare atunci când începi să introduci un cuvânt cheie.
 search-choose-engine-column =
     .label = Motor de căutare
 search-choose-keyword-column =
@@ -296,7 +302,11 @@ search-choose-keyword-column =
 search-remove-engine =
     .label = Elimină
     .accesskey = R
+search-find-more-link = Găsește mai multe motoare de căutare
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Cuvânt cheie duplicat
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Ai ales un cuvânt cheie care este folosit actualmente de „{ $name }”. Te rugăm să selectezi altul.
 search-keyword-warning-bookmark = Ai ales un cuvânt cheie care este folosit de un marcaj. Te rugăm să selectezi altul.
