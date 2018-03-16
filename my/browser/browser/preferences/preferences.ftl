@@ -240,3 +240,10 @@ browsing-search-on-start-typing =
 network-proxy-connection-settings =
     .label = အပြင်အဆင်များ...
     .accesskey = e
+
+## Search Section
+
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = သော့ချက် စာလုံး ပုံတူပွားပါ
+search-keyword-warning-bookmark = လောလောဆယ် မှတ်သားချက်တခုက သုံးစွဲနေတဲ့ သော့ချက် တခုကို သင်​ ရွေးထားတယ်။ အခြားကို ရွေးပါ။
