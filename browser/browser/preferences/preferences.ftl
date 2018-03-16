@@ -18,6 +18,21 @@ pref-page =
 # needed for x-channel. See bug 1445686 for details.
 search-input =
     .style = width: 15.4em
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] Zoeken in opties
+           *[other] Zoeken in voorkeuren
+        }
 policies-notice =
     { PLATFORM() ->
         [windows] Uw organisatie heeft de mogelijkheid tot het wijzigen van enkele opties uitgeschakeld.
@@ -50,6 +65,17 @@ should-restart-title = { -brand-short-name } herstarten
 should-restart-ok = { -brand-short-name } nu herstarten
 cancel-no-restart-button = Annuleren
 restart-later = Later herstarten
+
+## Preferences UI Search Results
+
+search-results-header = Zoekresultaten
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] Sorry! Er zijn geen resultaten in Opties voor ‘<span></span>’.
+       *[other] Sorry! Er zijn geen resultaten in Voorkeuren voor ‘<span></span>’.
+    }
+search-results-need-help = Hulp nodig? Bezoek <a>{ -brand-short-name } Support</a>
 
 ## General Section
 
