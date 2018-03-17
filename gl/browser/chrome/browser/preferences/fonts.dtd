@@ -4,22 +4,12 @@
 
 <!ENTITY  fontsDialog.title                       "Tipos de letra">
 
-<!ENTITY  language.label                          "Tipos de letra para:">
-<!ENTITY  language.accesskey                      "T">
 
-<!ENTITY  size.label                              "Tamaño:">
+<!ENTITY  size2.label                             "Tamaño">
 <!ENTITY  sizeProportional.accesskey              "ñ">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
-<!ENTITY  proportional.label                      "Proporcional:">
-<!ENTITY  proportional.accesskey                  "P">
 
-<!ENTITY  serif.label                             "Serif:">
-<!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "Sans-serif:">
-<!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "Monoespazado:">
-<!ENTITY  monospace.accesskey                     "M">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
@@ -52,8 +42,8 @@
 <!ENTITY  font.langGroup.sinhala                  "Sinhala">
 <!ENTITY  font.langGroup.tibetan                  "Tibetano">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Tamaño mínimo do tipo de letra:">
-<!ENTITY minSize.accesskey                        "o">
+<!ENTITY minSize2.label                           "Tamaño mínimo do tipo de letra">
+<!ENTITY minSize2.accesskey                       "o">
 <!ENTITY minSize.none                             "Ningún">
 
 <!-- default font type -->
@@ -62,8 +52,8 @@
 
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Codificación de texto para contido antigo">
-<!ENTITY languages.customize.Fallback2.label      "Codificación de texto alternativa:">
-<!ENTITY languages.customize.Fallback2.accesskey  "t">
+<!ENTITY languages.customize.Fallback3.label      "Codificación de texto alternativa">
+<!ENTITY languages.customize.Fallback3.accesskey  "t">
 <!ENTITY languages.customize.Fallback2.desc       "Esta codificación de texto úsase para contido antigo que non declara a súa codificación.">
 
 <!ENTITY languages.customize.Fallback.auto        "Predeterminada para o idioma actual">
