@@ -18,7 +18,9 @@
      string visible -->
 
 <!ENTITY  paneGeneral.title             "Xeral">
+<!ENTITY  panePrivacySecurity.title     "Privacidade e seguranza">
 
+<!ENTITY  languageAndAppearance.label   "Idioma e aparencia">
 
 
 <!ENTITY  browserPrivacy.label          "Privacidade do navegador">

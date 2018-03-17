@@ -90,13 +90,19 @@ show-tabs-in-taskbar =
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = Idioma e aparencia
 fonts-and-colors-header = Tipos de letra e cores
+default-font = Tipo de letra predeterminado
+    .accesskey = d
+default-font-size = Tamaño
+    .accesskey = t
 advanced-fonts =
     .label = Avanzadas…
     .accesskey = A
 colors-settings =
     .label = Cores…
     .accesskey = C
+language-header = Idioma
 choose-language-description = Escolla o seu idioma preferido para amosar as páxinas
 choose-button =
     .label = Escoller…
@@ -107,6 +113,9 @@ translate-web-pages =
 translate-exceptions =
     .label = Excepcións…
     .accesskey = x
+check-user-spelling =
+    .label = Comprobar a ortografía ao escribir
+    .accesskey = T
 
 ## General Section - Files and Applications
 

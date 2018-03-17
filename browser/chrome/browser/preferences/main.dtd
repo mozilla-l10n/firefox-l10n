@@ -4,8 +4,10 @@
 
 <!ENTITY startup.label             "Inicio">
 
+<!ENTITY startupUserHomePage.label "Amosar a súa páxina de inicio">
 <!ENTITY startupBlankPage.label    "Amosar unha páxina en branco">
 
+<!ENTITY homepage2.label           "Páxina de inicio">
 <!ENTITY useCurrentPage.label      "Usar a páxina actual">
 <!ENTITY useCurrentPage.accesskey  "c">
 <!ENTITY useMultiple.label         "Usar as páxinas actuais">
@@ -13,6 +15,7 @@
 <!ENTITY chooseBookmark.accesskey  "U">
 <!ENTITY restoreDefault.label      "Restaurar os predeterminados">
 <!ENTITY restoreDefault.accesskey  "R">
+
 
 <!ENTITY downloads.label     "Descargas">
 
@@ -25,12 +28,8 @@
 
 <!ENTITY alwaysCheckDefault2.label        "Comprobar sempre se &brandShortName; é o seu navegador predeterminado">
 <!ENTITY alwaysCheckDefault2.accesskey    "o">
-<!ENTITY setAsMyDefaultBrowser2.label     "Estabelecer como predeterminado">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "d">
 <!ENTITY isDefault.label                  "&brandShortName; xa é o navegador predeterminado">
 <!ENTITY isNotDefault.label               "&brandShortName; non é o navegador predeterminado">
 
 <!ENTITY separateProfileMode.label        "Permitir a &brandShortName; e Firefox executarse ao mesmo tempo">
 <!ENTITY useFirefoxSync.label             "Consello: Isto usa perfiles separados. Use Sync para compartir datos entre eles.">
-
-<!ENTITY e10sEnabled.label                "Activar &brandShortName; multiproceso">
