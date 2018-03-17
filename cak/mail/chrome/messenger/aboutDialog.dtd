@@ -51,7 +51,7 @@
 <!ENTITY bottomLinks.license        "Na'oj chi rij ya'öl q’ij">
 
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
-<!ENTITY bottomLinks.rights         "Kich'ojib'al Kisib'äl taq Winäq">
+<!ENTITY bottomLinks.rights         "Kich'ojib'al K'isib'äl-Okisanel">
 
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
 <!ENTITY bottomLinks.privacy        "Runa'ojil Ichinanem">
