@@ -88,6 +88,17 @@
 <!ENTITY reorderAttachmentsCmd.label "Uspořádat přílohy…">
 <!ENTITY reorderAttachmentsCmd.accesskey "s">
 <!ENTITY reorderAttachmentsCmd.key "x">
+<!ENTITY toggleAttachmentPaneCmd.label "Lišta příloh">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
+     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
+     as attachments.accesskey. -->
+<!ENTITY toggleAttachmentPaneCmd.accesskey "P">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
+     With OS-specific access modifier, this defines the shortcut key for showing/
+     hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
+     toggleAttachmentPaneCmd.key and attachments.accesskey must be the same
+     for the bucket view state machinery to work. -->
+<!ENTITY toggleAttachmentPaneCmd.key "P">
 <!ENTITY selectAllCmd.label "Vybrat vše">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
@@ -109,26 +120,10 @@
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Uspořádat přílohy">
 <!ENTITY moveAttachmentTopPanelBtn.label "Přesunout nahoru">
-<!ENTITY moveAttachmentTopPanelBtn.accesskey "n">
 <!ENTITY moveAttachmentUpPanelBtn.label "Posunout výše">
-<!ENTITY moveAttachmentUpPanelBtn.accesskey "v">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Přesunout hromadně">
-<!ENTITY moveAttachmentBundleUpPanelBtn.accesskey "h">
 <!ENTITY moveAttachmentDownPanelBtn.label "Posunout níže">
-<!ENTITY moveAttachmentDownPanelBtn.accesskey "e">
 <!ENTITY moveAttachmentBottomPanelBtn.label "Přesunout dolů">
-<!ENTITY moveAttachmentBottomPanelBtn.accesskey "d">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.label):
-     Please ensure that this translation matches
-     sortAttachmentsTogglePanelBtn.ZA.label, except for the sort direction. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.label "Uspořádat výběr od A do Z">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.accesskey):
-     This accesskey should be the same like
-     sortAttachmentsTogglePanelBtn.ZA.accesskey, and it should be taken from
-     the "Sort Selection:" part of the label, not from the sort direction part. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.accesskey "o">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.label "Uspořádat výběr od Z do A">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.accesskey "o">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -253,6 +248,7 @@
 <!ENTITY quoteButton.tooltip "Ocituje předchozí zprávu">
 <!ENTITY addressButton.tooltip "Vybere příjemce z kontaktů">
 <!ENTITY attachButton.tooltip "Připojí k této zprávě přílohu">
+<!ENTITY attachButton.tooltip2 "Přidat přílohu">
 <!ENTITY spellingButton.tooltip "Zkontroluje pravopis vybrané části nebo celé zprávy">
 <!ENTITY saveButton.tooltip "Uloží tuto zprávu">
 <!ENTITY cutButton.tooltip              "Vyjmout">
@@ -274,9 +270,14 @@
 <!ENTITY followupAddr.label "Sledování:">
 <!ENTITY subject.label "Předmět:">
 <!ENTITY subject.accesskey "d">
-<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
-     to the strings in attachmentCount in composeMsgs.properties -->
+<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
+     be taken from the strings in attachmentCount in composeMsgs.properties,
+     and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
+     work, as the shortcut key functionality supersedes the access key. -->
 <!ENTITY attachments.accesskey "P">
+
+<!ENTITY attachmentBucketHeader.tooltip "Lišta příloh">
+<!ENTITY attachmentBucketCloseButton.tooltip "Skryje lištu příloh">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Vloží smajlíka">
@@ -314,6 +315,7 @@
 <!ENTITY pasteQuote.label "Vložit jako citaci">
 <!ENTITY pasteQuote.accesskey "c">
 
+<!-- Attachment Item and List Context Menus -->
 <!ENTITY openAttachment.label "Otevřít">
 <!ENTITY openAttachment.accesskey "O">
 <!ENTITY delete.label "Smazat">
@@ -324,6 +326,8 @@
 <!ENTITY renameAttachment.accesskey "P">
 <!ENTITY reorderAttachments.label "Uspořádat přílohy…">
 <!ENTITY reorderAttachments.accesskey "s">
+<!ENTITY removeAllAttachments.label "Odebrat všechny přílohy">
+<!ENTITY removeAllAttachments.accesskey "V">
 <!ENTITY selectAll.label "Vybrat vše">
 <!ENTITY selectAll.accesskey "a">
 <!ENTITY attachFile.label "Připojit soubor…">
