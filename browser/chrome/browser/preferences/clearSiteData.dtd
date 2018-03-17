@@ -8,6 +8,7 @@
 <!ENTITY windowClose.key              "w">
 
 <!ENTITY clearSiteData.label          "คุกกี้และข้อมูลไซต์">
+<!ENTITY clearSiteData.accesskey      "ค">
 <!ENTITY clearSiteData.description    "คุณอาจได้รับการลงชื่อออกจากเว็บไซต์หากล้างข้อมูล">
 
 <!ENTITY clearCache.label             "เนื้อหาเว็บที่ถูกแคชไว้">
