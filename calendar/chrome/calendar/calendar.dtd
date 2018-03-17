@@ -172,12 +172,31 @@
 <!ENTITY calendar.context.copyevent.accesskey         "K">
 <!ENTITY calendar.context.pasteevent.label            "Vložit">
 <!ENTITY calendar.context.pasteevent.accesskey        "l">
-<!ENTITY calendar.context.button.label                "Dnešní panel" >
-<!ENTITY calendar.context.button.accesskey            "D" >
-<!ENTITY calendar.context.attendance.menu.label       "Účast" >
-<!ENTITY calendar.context.attendance.menu.accesskey   "a" >
-<!ENTITY calendar.context.attendance.occurrence.label "tento výskyt" >
+<!ENTITY calendar.context.button.label                "Dnešní panel">
+<!ENTITY calendar.context.button.accesskey            "D">
+
+<!ENTITY calendar.context.attendance.menu.label                 "Účast">
+<!ENTITY calendar.context.attendance.menu.accesskey             "a">
+<!ENTITY calendar.context.attendance.occurrence.label           "tento výskyt">
 <!ENTITY calendar.context.attendance.all.label        "Všechny výskyty" >
+
+<!ENTITY calendar.context.attendance.dontsend.label             "Neposílat oznámení">
+
+<!ENTITY calendar.context.attendance.occ.accepted.label         "Přijato">
+<!ENTITY calendar.context.attendance.occ.tentative.label        "Předběžně přijato">
+<!ENTITY calendar.context.attendance.occ.declined.label         "Odmítnuto">
+<!ENTITY calendar.context.attendance.occ.delegated.label        "Předáno">
+<!ENTITY calendar.context.attendance.occ.needsaction.label      "Stále vyžaduje akci">
+<!ENTITY calendar.context.attendance.occ.inprogress.label       "Probíhá">
+<!ENTITY calendar.context.attendance.occ.completed.label        "Dokončeno">
+
+<!ENTITY calendar.context.attendance.all.accepted.label         "Přijato">
+<!ENTITY calendar.context.attendance.all.tentative.label        "Předběžně přijato">
+<!ENTITY calendar.context.attendance.all.declined.label         "Odmítnuto">
+<!ENTITY calendar.context.attendance.all.delegated.label        "Předáno">
+<!ENTITY calendar.context.attendance.all.needsaction.label      "Stále vyžaduje akci">
+<!ENTITY calendar.context.attendance.all.inprogress.label       "Probíhá">
+<!ENTITY calendar.context.attendance.all.completed.label        "Dokončeno">
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Průběh">

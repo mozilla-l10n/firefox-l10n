@@ -398,6 +398,7 @@
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Obecné">
 <!ENTITY read.only.title.label           "Název:">
+<!ENTITY read.only.calendar.label        "Kalendář:">
 <!ENTITY read.only.event.start.label     "Začátek:">
 <!ENTITY read.only.task.start.label      "Začátek:">
 <!ENTITY read.only.event.end.label       "Konec:">
@@ -416,3 +417,13 @@
 <!ENTITY read.only.attendees.label       "Účastníci">
 <!ENTITY read.only.description.label     "Popis">
 <!ENTITY read.only.link.label            "Související odkaz">
+
+<!-- Summary dialog -->
+<!ENTITY summary.dialog.saveclose.label         "Uložit a zavřít">
+<!ENTITY summary.dialog.accept.label            "Přijmout">
+<!ENTITY summary.dialog.accept.tooltiptext      "Přijme pozvání">
+<!ENTITY summary.dialog.tentative.label         "Předběžně">
+<!ENTITY summary.dialog.tentative.tooltiptext   "Předběžně přijme pozvání">
+<!ENTITY summary.dialog.decline.label           "Odmítnout">
+<!ENTITY summary.dialog.decline.tooltiptext     "Odmítne pozvání">
+<!ENTITY summary.dialog.send.label              "Poslat odpověď">
