@@ -240,7 +240,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Tesweḥleḍ ilɣa i usmelweb-a.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Tesweḥleḍ asekles n yisefka i usmelweb-a.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Tesweḥleḍ asfaylu udhim i usmel-agi.">
-
 <!ENTITY urlbar.canvasBlocked.tooltip            "Tesweḥleḍ tussfa n yisefka n ubeckil i usmelweb-a.">
 
 <!ENTITY urlbar.midiBlocked.tooltip              "Tesweḥleḍ anekcum i MIDI γer usmel-agi.">
@@ -388,7 +387,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "Ulac accaren yemtawin… yakan!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Tebɣid ad twaliḍ da accaren-ik seg yibenkan-nniḍen?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Ismenyifen n umtawi">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Ldi amtawi n Ismenyifen">
@@ -397,7 +395,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Qqen ɣer Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Sefrek ibenkan…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Sken agalis adisan n waccaren yemtawin">
-
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Qqen ibenk-nniḍen">
 
 <!ENTITY appMenuRecentHighlights.label "Izwilen n melmi kan">
@@ -806,7 +803,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Accaren yemtawin">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Kcem ɣeṛ Firefox seg yibenkan-nniḍen akken ad d-tsekneḍ accaren-nsen dagi.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "Ulac accaren yemtawin… yakan!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Tebɣid ad twaliḍ da accaren-ik seg yibenkan-nniḍen?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Qqen akken ad d-tsekneḍ tabdart n waccaren seg yibenkan-ik-nniḍen.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "Amiḍan-ik yeḥwaǧ ad ittusenqed.">
@@ -816,7 +812,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Rmed amtawi n yiccer akken ad d-tsekneḍ tabdart n waccaren seg yibenkan-ik-nniḍen.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Nadi accaren yemtawan">
-
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Qqen ibenk-nniḍen">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
@@ -986,11 +981,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Sker i tikkelt-nniḍen akken ad tleqqmeḍ&brandShorterName;">
 
 <!ENTITY newTabControlled.message "Yiwen n usiɣzef ibeddel asebter-a i tettwaliḍ mi teldiḍ iccer amaynut. Tzemreḍ ad d-terreḍ iɣewwaren-ik ma ur k-yeɛǧib ara ubeddel-agi.">
+
 <!ENTITY newTabControlled.header.message "Iccer-ik amaynut ibeddel.">
 <!ENTITY newTabControlled.keepButton.label "Ḥrez abeddel">
 <!ENTITY newTabControlled.keepButton.accesskey "Ḥ">
 <!ENTITY newTabControlled.restoreButton.label "Err-d iɣewwaren">
 <!ENTITY newTabControlled.restoreButton.accesskey "R">
+
+<!ENTITY newTabControlled.disableButton.label "Sens aseɣzif">
 
 <!ENTITY pageActionButton.tooltip "Asebter n tigawin">
 <!ENTITY pageAction.addToUrlbar.label "Rnu ɣeṛ yimedlis n tansa">

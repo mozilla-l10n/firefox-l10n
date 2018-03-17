@@ -2,6 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.title):
+     Please ensure this exactly matches tabs.emptyPrivateTabTitle in tabbrowser.properties -->
+<!ENTITY aboutPrivateBrowsing.title                      "Tunigin tusligt">
+<!ENTITY aboutPrivateBrowsing.notPrivate.title           "Ldi asfaylu n tunigin tusligt?">
+
 <!ENTITY aboutPrivateBrowsing.notPrivate                 "Mačči deg usfaylu uslig i telliḍ tura.">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Ldi asfaylu uslig">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "s">
