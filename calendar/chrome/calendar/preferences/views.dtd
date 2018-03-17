@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- WARNING! This file contains UTF-8 encoded characters!
- - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
- - your editor isn't using UTF-8 encoding and may munge up the document!
- -->
+   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
+   - your editor isn't using UTF-8 encoding and may munge up the document!
+  -->
 
 <!ENTITY pref.calendar.view.allview.caption "Obecné">
 <!ENTITY pref.calendar.view.dayandweekviews.caption "Denní a týdenní pohledy">
@@ -37,3 +37,5 @@
 <!ENTITY pref.numberofweeks.4 "4 týdny">
 <!ENTITY pref.numberofweeks.5 "5 týdnů">
 <!ENTITY pref.numberofweeks.6 "6 týdnů">
+<!ENTITY pref.showlocation.label "Zobrazit polohu">
+<!ENTITY pref.showlocation.accesskey "l">
