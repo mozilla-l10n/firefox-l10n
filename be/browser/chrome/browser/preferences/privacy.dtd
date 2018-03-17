@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Ахова ад сачэння">
-<!ENTITY  trackingProtection2.description      "Сачэнне - гэта збор звестак аб вашым агляданні на розных вэб-сайтах. Сачэнне можа быць выкарыстана для стварэння профілю і паказу зместу на падставе звестак аб агляданні і асабістай інфармацыі.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "Ахоўваць ад асочвання вядомымі сістэмамі">
 <!ENTITY  trackingProtection3.description      "Ахова ад сачэння блакуе сеціўныя сістэмы, якія збіраюць звесткі пра ваша агляданне на шматлікіх сайтах.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "Ахоўваць ад асочвання вядомымі сістэмамі">
 <!ENTITY  trackingProtectionAlways.label       "Заўсёды">
@@ -13,7 +11,6 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "л">
 <!ENTITY  trackingProtectionNever.label        "Ніколі">
 <!ENTITY  trackingProtectionNever.accesskey    "н">
-<!ENTITY  trackingProtectionLearnMore.label    "Даведацца больш">
 <!ENTITY  trackingProtectionLearnMore2.label    "Даведацца больш пра ахову ад сачэння і прыватнасць">
 <!ENTITY  trackingProtectionExceptions.label   "Выключэнні…">
 <!ENTITY  trackingProtectionExceptions.accesskey "ч">
@@ -24,11 +21,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "Даведацца больш">
 <!ENTITY changeBlockList2.label               "Змяніць спіс блакавання…">
 <!ENTITY changeBlockList2.accesskey           "З">
-
-<!ENTITY  doNotTrack.description        "Адсылаць вэб-сайтам сігнал “Не сачыць”">
-<!ENTITY  doNotTrack.learnMore.label    "Даведацца больш">
-<!ENTITY  doNotTrack.default.label      "Толькі калі ўключана ахова ад сачэння">
-<!ENTITY  doNotTrack.always.label       "Заўсёды">
 
 <!ENTITY  history.label                 "Гісторыя">
 <!ENTITY  permissions.label             "Дазволы">
@@ -52,8 +44,8 @@
 <!ENTITY  acceptThirdParty2.pre.label     "Прымаць кукі з пабочных сайтаў">
 <!ENTITY  acceptThirdParty2.pre.accesskey "ч">
 
-<!ENTITY  acceptCookies3.label          "Прымаць кукі і дадзеныя з вэб-сайтаў">
-<!ENTITY  acceptCookies3.accesskey      "П">
+<!ENTITY  acceptCookies4.label          "Прымаць кукі і дадзеныя з вэб-сайтаў (рэкамендуецца)">
+<!ENTITY  acceptCookies4.accesskey      "П">
 
 <!ENTITY  blockCookies.label            "Блакаваць кукі і дадзеныя з сайтаў (можа прывесці да памылак адлюстравання вэб-сайта)">
 <!ENTITY  blockCookies.accesskey        "Б">
@@ -93,6 +85,8 @@
 <!ENTITY  rememberActions.middle.label        " або ">
 <!ENTITY  rememberActions.removeCookies.label "выдаліць асобныя кукі">
 <!ENTITY  rememberActions.post.label          ".">
+
+<!ENTITY  rememberDescription1.label      "&brandShortName; будзе помніць гісторыю аглядання, сцягвання, запаўнення форм і пошуку.">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; будзе ўжываць тыя ж налады, што і ў прыватным рэжыме, і не будзе памятаць гісторыю вашага аглядання Сеціва.">
 
