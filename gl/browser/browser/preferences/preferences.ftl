@@ -65,6 +65,8 @@ startup-blank-page =
     .label = Amosar unha páxina en branco
 startup-prev-session =
     .label = Amosar as súas xanelas e lapelas da última vez
+disable-extension =
+    .label = Desactivar extensión
 home-page-header = Páxina de inicio
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -84,6 +86,9 @@ restore-default =
     .label = Restaurar os predeterminados
     .accesskey = R
 tabs-group-header = Lapelas
+warn-on-close-multiple-tabs =
+    .label = Avisalo ao pechar varias lapelas
+    .accesskey = p
 show-tabs-in-taskbar =
     .label = Amosar previsualizacións das lapelas na barra de tarefas de Windows
     .accesskey = M
