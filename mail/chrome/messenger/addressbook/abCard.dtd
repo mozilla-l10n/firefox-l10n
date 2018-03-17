@@ -121,4 +121,37 @@
 <!ENTITY Chat.tab                       "Chat">
 <!ENTITY Chat.accesskey                 "a">
 <!ENTITY Gtalk.label                    "Diskusija pola Google:">
+<!ENTITY Gtalk.accesskey                "G">
+<!ENTITY AIM.label                      "AIM:">
+<!ENTITY AIM2.accesskey                 "M">
+<!ENTITY Yahoo.label                    "Yahoo!:">
+<!ENTITY Yahoo.accesskey                "Y">
+<!ENTITY Skype.label                    "Skype:">
+<!ENTITY Skype.accesskey                "S">
+<!ENTITY QQ.label                       "QQ:">
+<!ENTITY QQ.accesskey                   "Q">
+<!ENTITY MSN.label                      "MSN:">
+<!ENTITY MSN2.accesskey                 "N">
+<!ENTITY ICQ.label                      "ICQ:">
+<!ENTITY ICQ.accesskey                  "I">
+<!ENTITY XMPP.label                     "Jabber ID:">
+<!ENTITY XMPP.accesskey                 "J">
+<!ENTITY IRC.label                      "Přimjeno IRC:">
+<!ENTITY IRC.accesskey                  "R">
 
+<!ENTITY Photo.tab                      "Foto">
+<!ENTITY Photo.accesskey                "o">
+<!ENTITY PhotoDesc.label                "Jedne ze slědowacych wubrać:">
+<!ENTITY GenericPhoto.label             "Powšitkowne foto">
+<!ENTITY GenericPhoto.accesskey         "P">
+<!ENTITY DefaultPhoto.label             "Standard">
+<!ENTITY PhotoFile.label                "Na tutym ličaku">
+<!ENTITY PhotoFile.accesskey            "t">
+<!ENTITY BrowsePhoto.label              "Přepytać">
+<!ENTITY BrowsePhoto.accesskey          "e">
+<!ENTITY PhotoURL.label                 "W syći">
+<!ENTITY PhotoURL.accesskey             "s">
+<!ENTITY PhotoURL.placeholder           "Webadresu fota zasadźić abo zapisać">
+<!ENTITY UpdatePhoto.label              "Aktualizować">
+<!ENTITY UpdatePhoto.accesskey          "u">
+<!ENTITY PhotoDropTarget.label          "Nowe foto sem ćahnyć">
