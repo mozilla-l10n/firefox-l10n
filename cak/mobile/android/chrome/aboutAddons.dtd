@@ -6,7 +6,7 @@
 <!ENTITY aboutAddons.header2                    "Taq rutz'aqat">
 
 <!ENTITY addonAction.enable                     "Titzij">
-<!ENTITY addonAction.disable                    "Ruchupik">
+<!ENTITY addonAction.disable                    "Tichup">
 <!ENTITY addonAction.uninstall                  "Telesäx el">
 <!ENTITY addonAction.undo                       "Titzolïx">
 <!ENTITY addonAction.update                     "Tik'ex">
