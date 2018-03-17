@@ -207,6 +207,14 @@
 <!ENTITY calendar.context.attendance.all.tentative.label        "Nachwilu akceptowany">
 <!ENTITY calendar.context.attendance.all.declined.accesskey     "z">
 <!ENTITY calendar.context.attendance.all.declined.label         "Wotpokazany">
+<!ENTITY calendar.context.attendance.all.delegated.accesskey    "l">
+<!ENTITY calendar.context.attendance.all.delegated.label        "Delegowany">
+<!ENTITY calendar.context.attendance.all.needsaction.accesskey  "r">
+<!ENTITY calendar.context.attendance.all.needsaction.label      "Trjeba hišće akciju">
+<!ENTITY calendar.context.attendance.all.inprogress.accesskey   "i">
+<!ENTITY calendar.context.attendance.all.inprogress.label       "Beži">
+<!ENTITY calendar.context.attendance.all.completed.accesskey    "n">
+<!ENTITY calendar.context.attendance.all.completed.label        "Dokónčeny">
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Postup">
