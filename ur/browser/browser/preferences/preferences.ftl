@@ -173,6 +173,8 @@ download-always-ask-where =
     .label = مجھ سے ہمیشہ پوچھیں کہ مسل کہاں محفوظ کرنی ہے
     .accesskey = ہ
 applications-header = ایپلی کیشنیں
+applications-filter =
+    .placeholder = مسل کی اقسام یا ایپلی کیشنز تلاش کریں
 applications-type-column =
     .label = مواد قسم
     .accesskey = م
@@ -182,6 +184,9 @@ applications-action-column =
 play-drm-content-learn-more = مزید سیکھیں
 update-application-title = { -brand-short-name } تازہ کاریاں:
 update-application-info = ورژن{ $version } <a>نیا کیا ہے</a>
+update-application-manual =
+    .label = کبھی بھی تازہ کاری کی پڑتال نہیں کریں
+    .accesskey = N
 update-application-use-service =
     .label = تازہ کاریاں تنصیب کرنے کے لیے پس منظر سروس استعمال کریں
     .accesskey = پ
@@ -239,6 +244,7 @@ search-restore-default =
 search-remove-engine =
     .label = ہٹائیں
     .accesskey = ہ
+search-find-more-link = مزید تلاش انجن تلاش کریں
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = کلیدی لفظ مثنی کریں
