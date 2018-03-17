@@ -19,7 +19,7 @@
 <!ENTITY Department.label                      "Reparto">
 <!ENTITY Department.accesskey                  "r">
 <!ENTITY JobTitle.label                        "Titolo">
-<!ENTITY JobTitle.accesskey                    "Q">
+<!ENTITY JobTitle.accesskey                    "T">
 <!ENTITY CellularNumber.label                  "Cellulare">
 <!ENTITY CellularNumber.accesskey              "C">
 <!ENTITY PagerNumber.label                     "Cercapersone">
@@ -33,6 +33,6 @@
 <!ENTITY ChatName.label                        "Nome chat">
 <!ENTITY ChatName.accesskey                    "C">
 <!ENTITY sortAscending.label                   "Crescente">
-<!ENTITY sortAscending.accesskey               "A">
+<!ENTITY sortAscending.accesskey               "C">
 <!ENTITY sortDescending.label                  "Decrescente">
 <!ENTITY sortDescending.accesskey              "D">
