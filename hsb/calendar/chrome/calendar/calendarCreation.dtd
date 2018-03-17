@@ -45,4 +45,7 @@
 <!ENTITY network.nocredentials.label "Tute městno přizjewjenske daty njetrjeba">
 <!ENTITY network.loading.description "Prošu čakajće, doniž waše protyki namakane njejsu.">
 <!ENTITY network.notfound.description "Protyki njedachu so na tutym městnje namakać. Prošu přepruwujće swoje nastajenja.">
+<!ENTITY network.authfail.description "Přizjewjenske daty, kotrež sće zapodał, njebuchu akceptowane. Prošu přepruwujće swoje nastajenja.">
 
+<!ENTITY network.subscribe.single.description "Prošu wubjerće protyki, kotrež byšće rady abonował.">
+<!ENTITY network.subscribe.multiple.description "Za tute městno su wjacore protykowe typy k dispoziciji. Prošu wubjerće protykowy typ a markěrujće potom protyki, kotrež chceće abonować.">
