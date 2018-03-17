@@ -54,7 +54,7 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "Na fila (offline)">
 <!ENTITY  moveToNewWindow.label              "Mover para nova janela">
 <!ENTITY  moveToNewWindow.accesskey          "j">
-<!ENTITY  bookmarkAllTabs.label              "Criar marcadores para todos os separadores…">
+<!ENTITY  bookmarkAllTabs.label              "Adicionar todos os separadores aos marcadores…">
 <!ENTITY  bookmarkAllTabs.accesskey          "t">
 <!ENTITY  undoCloseTab.label                 "Reabrir separador fechado">
 <!ENTITY  undoCloseTab.accesskey             "b">
@@ -93,7 +93,7 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "Recarregar todos os separadores">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "a">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Criar marcadores para todos os separadores…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Adicionar todos os separadores aos marcadores…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "t">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Reabrir separador fechado">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "b">
@@ -175,13 +175,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Marcadores">
 <!ENTITY bookmarksMenu.accesskey "M">
-<!ENTITY bookmarkThisPageCmd.label "Adicionar página aos marcadores">
+<!ENTITY bookmarkThisPageCmd.label "Adicionar esta página aos marcadores">
 <!ENTITY editThisBookmarkCmd.label "Editar este marcador">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY subscribeToPageMenupopup.label "Subscrever esta página">
 <!ENTITY subscribeToPageMenuitem.label "Subscrever esta página…">
-<!ENTITY addCurPagesCmd.label "Criar marcadores para todos os separadores…">
+<!ENTITY addCurPagesCmd.label "Adicionar todos os separadores aos marcadores…">
 <!ENTITY showAllBookmarks2.label "Mostrar todos os marcadores">
 <!ENTITY recentBookmarks.label "Marcadores recentes">
 <!ENTITY otherBookmarksCmd.label "Outros marcadores">
@@ -565,11 +565,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "m">
 <!ENTITY setDesktopBackgroundCmd.label      "Definir como fundo do ambiente de trabalho…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "e">
-<!ENTITY bookmarkPageCmd2.label       "Guardar esta página nos marcadores">
+<!ENTITY bookmarkPageCmd2.label       "Adicionar esta página aos marcadores">
 <!ENTITY bookmarkPageCmd2.accesskey   "m">
-<!ENTITY bookmarkThisLinkCmd.label      "Guardar esta ligação nos marcadores">
+<!ENTITY bookmarkThisLinkCmd.label      "Adicionar esta ligação aos marcadores">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
-<!ENTITY bookmarkThisFrameCmd.label      "Guardar este frame nos marcadores">
+<!ENTITY bookmarkThisFrameCmd.label      "Adicionar este frame aos marcadores">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY pageAction.copyLink.label    "Copiar ligação">
 <!ENTITY copyURLFeedback.label        "Copiado!">
@@ -828,7 +828,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "j">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Abrir ligação em nova janela privada">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "p">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Criar marcador para este separador…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Adicionar este separador aos marcadores…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "C">
 <!ENTITY syncedTabs.context.copy.label                       "Copiar">
 <!ENTITY syncedTabs.context.copy.accesskey                   "C">
