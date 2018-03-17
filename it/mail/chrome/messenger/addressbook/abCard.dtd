@@ -24,7 +24,7 @@
 <!ENTITY PhoneticField2.id              "PhoneticLastName">
 
 <!ENTITY NameField1.label               "Nome:">
-<!ENTITY NameField1.accesskey           "NP">
+<!ENTITY NameField1.accesskey           "N">
 <!ENTITY NameField2.label               "Cognome:">
 <!ENTITY NameField2.accesskey           "C">
 <!ENTITY PhoneticField1.label           "Fonetico:">
@@ -150,7 +150,7 @@
 <!ENTITY BrowsePhoto.label              "Sfoglia">
 <!ENTITY BrowsePhoto.accesskey          "f">
 <!ENTITY PhotoURL.label                 "Sul web">
-<!ENTITY PhotoURL.accesskey             "n">
+<!ENTITY PhotoURL.accesskey             "w">
 <!ENTITY PhotoURL.placeholder           "Incolla o scrivi l'indirizzo internet di una foto">
 <!ENTITY UpdatePhoto.label              "Aggiorna">
 <!ENTITY UpdatePhoto.accesskey          "A">
