@@ -1003,7 +1003,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.sendTabToDevice.label "Даслаць картку на прыладу">
 <!ENTITY sendToDevice.syncNotReady.label "Сінхранізацыя прылад…">
 
-<!ENTITY libraryButton.tooltip "Пабачыць гісторыю, запісаныя закладкі і іншае">
+<!ENTITY libraryButton.tooltip "Паказаць гісторыю, захаваныя закладкі і іншае">
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
