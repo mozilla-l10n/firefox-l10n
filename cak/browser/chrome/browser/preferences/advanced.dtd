@@ -62,11 +62,11 @@ available. -->
 <!ENTITY siteData.label                  "Ruxaq k'amaya'l tzij">
 <!ENTITY clearSiteData.label             "Tijosq'ïx ronojel ri tzij">
 <!ENTITY clearSiteData.accesskey         "j">
+<!ENTITY siteDataSettings.label          "Tinuk'…">
+<!ENTITY siteDataSettings.accesskey      "n">
 <!ENTITY siteData1.label                 "Taq Kaxlanwey chuqa' Rutzij K'amaya'l">
 <!ENTITY clearSiteData1.label            "Tijosq'ïx Tzij…">
 <!ENTITY clearSiteData1.accesskey        "j">
-<!ENTITY siteDataSettings.label          "Tinuk'…">
-<!ENTITY siteDataSettings.accesskey      "n">
 <!ENTITY siteDataSettings1.label         "Kenuk'samajïx Tzij…">
 <!ENTITY siteDataSettings1.accesskey     "K">
 <!ENTITY siteDataLearnMoreLink.label     "Tetamäx ch'aqa' chik">
@@ -82,7 +82,7 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "MB rupam">
 <!ENTITY clearCacheNow.label             "Tijosq'ïx wakami">
 <!ENTITY clearCacheNow.accesskey         "T">
-<!ENTITY overrideSmartCacheSize.label    "Tiyuj runuk'samajixïk ruyonil jumejyak">
+<!ENTITY overrideSmartCacheSize.label    "Tiyuj runuk'samajixik ruyonil jumejyak">
 <!ENTITY overrideSmartCacheSize.accesskey "T">
 
 <!ENTITY updateTab.label                 "Tik'ex">
