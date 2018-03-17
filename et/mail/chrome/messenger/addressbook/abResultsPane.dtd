@@ -27,3 +27,12 @@
 <!ENTITY FaxNumber.label                       "Faks">
 <!ENTITY FaxNumber.accesskey                   "F">
 <!ENTITY HomePhone.label                       "Kodune telefon">
+<!ENTITY HomePhone.accesskey                   "K">
+<!ENTITY WorkPhone.label                       "Töötelefon">
+<!ENTITY WorkPhone.accesskey                   "ö">
+<!ENTITY ChatName.label                        "Nimi kiirsuhtluses">
+<!ENTITY ChatName.accesskey                    "s">
+<!ENTITY sortAscending.label                   "Kasvav">
+<!ENTITY sortAscending.accesskey               "v">
+<!ENTITY sortDescending.label                  "Kahanev">
+<!ENTITY sortDescending.accesskey              "h">

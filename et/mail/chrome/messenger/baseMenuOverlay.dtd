@@ -3,26 +3,26 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Help Menu -->
-<!ENTITY helpMenu.label                   "Abi">
-<!ENTITY helpMenu.accesskey               "A">
+<!ENTITY helpMenu.label "Abi">
+<!ENTITY helpMenu.accesskey "A">
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label                "Abi">
-<!ENTITY helpMenuWin.accesskey            "A">
-<!ENTITY helpTroubleshootingInfo.label    "Probleemide lahendamise teave">
+<!ENTITY helpMenuWin.label "Abi">
+<!ENTITY helpMenuWin.accesskey "A">
+<!ENTITY helpTroubleshootingInfo.label     "Probleemide lahendamise teave">
 <!ENTITY helpTroubleshootingInfo.accesskey "P">
-<!ENTITY helpSafeMode.label               "Taaskäivita koos lisade keelamisega…">
-<!ENTITY helpSafeMode.accesskey           "T">
-<!ENTITY releaseCmd2.label                "Väljalasketeade">
-<!ENTITY releaseCmd2.accesskey            "V">
-<!ENTITY whatsNewCmd.label                "Mis on uut">
-<!ENTITY whatsNewCmd.accesskey            "M">
-<!ENTITY openHelp.label                   "Abi sisukord">
-<!ENTITY openHelp.accesskey               "A">
-<!ENTITY openHelp.commandkey              "VK_F1">
-<!ENTITY openHelpMac.label                "&brandShortName; Abi">
-<!ENTITY openHelpMac2.commandkey          "?">
-<!ENTITY openHelpMac2.modifiers           "accel">
+<!ENTITY helpSafeMode.label     "Taaskäivita koos lisade keelamisega…">
+<!ENTITY helpSafeMode.accesskey "T">
+<!ENTITY releaseCmd2.label "Väljalasketeade">
+<!ENTITY releaseCmd2.accesskey "V">
+<!ENTITY whatsNewCmd.label "Mis on uut">
+<!ENTITY whatsNewCmd.accesskey "M">
+<!ENTITY openHelp.label "Abi sisukord">
+<!ENTITY openHelp.accesskey "A">
+<!ENTITY openHelp.commandkey "VK_F1">
+<!ENTITY openHelpMac2.label "&brandFullName;i abi">
+<!ENTITY openHelpMac2.commandkey   "?">
+<!ENTITY openHelpMac2.modifiers    "accel">
 
-<!ENTITY aboutMenuCmd.label               "&brandShortName;i teave">
-<!ENTITY aboutMenuCmd.accesskey           "t">
+<!ENTITY aboutMenuCmd2.label "&brandFullName;i teave">
+<!ENTITY aboutMenuCmd2.accesskey "t">
