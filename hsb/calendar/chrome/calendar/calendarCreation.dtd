@@ -42,4 +42,7 @@
 <!ENTITY location.label "Městno:">
 <!ENTITY location.placeholder "URL abo mjeno hosta protykoweho serwera">
 
+<!ENTITY network.nocredentials.label "Tute městno přizjewjenske daty njetrjeba">
+<!ENTITY network.loading.description "Prošu čakajće, doniž waše protyki namakane njejsu.">
+<!ENTITY network.notfound.description "Protyki njedachu so na tutym městnje namakać. Prošu přepruwujće swoje nastajenja.">
 
