@@ -114,7 +114,7 @@ was trying to connect. -->
      tags will be injected with actual values, please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "การเชื่อมต่อไม่ปลอดภัย">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "ไซต์นี้ใช้ HTTP Strict Transport Security (HSTS) เพื่อระบุให้ &brandShortName; นั้นเชื่อมต่ออย่างนิรภัยเท่านั้น ผลที่ตามมาคือจะไม่สามารถเพิ่มข้อยกเว้นให้ใบรับรองนี้ได้">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "ไซต์นี้ใช้ HTTP Strict Transport Security (HSTS) เพื่อระบุให้ &brandShortName; เชื่อมต่อไปยังไซต์อย่างปลอดภัยเท่านั้น ผลที่ตามมาคือไม่สามารถเพิ่มข้อยกเว้นสำหรับใบรับรองนี้ได้">
 <!ENTITY certerror.copyToClipboard.label "คัดลอกข้อความไปยังคลิปบอร์ด">
 
 <!ENTITY inadequateSecurityError.title "การเชื่อมต่อของคุณไม่ปลอดภัย">
