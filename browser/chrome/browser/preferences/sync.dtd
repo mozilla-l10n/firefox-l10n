@@ -14,15 +14,23 @@
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, used as the checkbox which indicates if prefs are synced
 -->
+<!ENTITY engine.prefsWin.label      "Opcións">
+<!ENTITY engine.prefsWin.accesskey  "s">
 <!ENTITY engine.prefs.label         "Preferencias">
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "Complementos">
+<!ENTITY engine.addons.title        "Extensións e temas para o Firefox de escritorio">
 <!ENTITY engine.addons.accesskey    "p">
+<!ENTITY engine.addresses.label     "Enderezos">
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Nome do dispositivo">
+<!ENTITY changeSyncDeviceName2.label "Cambiar nome do dispositivo…">
+<!ENTITY changeSyncDeviceName2.accesskey "m">
 <!ENTITY cancelChangeSyncDeviceName.label "Cancelar">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "Gardar">
+<!ENTITY saveChangeSyncDeviceName.accesskey "G">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Termos do servizo">
@@ -46,8 +54,14 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label            "Non está identificado.">
 <!ENTITY signIn.label                 "Identificarse">
+<!ENTITY signIn.accesskey             "f">
 <!ENTITY profilePicture.tooltip       "Cambiar a foto do perfil">
 <!ENTITY verifiedManage.label         "Xestionar conta">
+<!ENTITY verifiedManage.accesskey     "o">
+<!ENTITY disconnect3.label            "Desconectar…">
+<!ENTITY disconnect3.accesskey        "D">
+<!ENTITY cancelSetup.label            "Cancelar configuración">
+<!ENTITY cancelSetup.accesskey        "g">
 
 <!ENTITY signedOut.caption            "Leve a Web con vostede">
 <!ENTITY signedOut.description        "Sincronice os marcadores, o historial, as lapelas, os contrasinais, os complementos e as preferencias en todos os seus dispositivos.">
@@ -59,9 +73,16 @@ both, to better adapt this sentence to their language.
      The resulting sentence in English is: "Download Firefox for
      Android or iOS to sync with your mobile device." -->
 
+<!ENTITY mobilePromo3.start            "Descargar Firefox para ">
 <!-- LOCALIZATION NOTE (mobilePromo3.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+<!ENTITY mobilePromo3.androidLink      "Android">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSBefore): This is text displayed between mobilePromo3.androidLink and mobilePromo3.iosLink -->
+<!ENTITY mobilePromo3.iOSBefore         " ou ">
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
+<!ENTITY mobilePromo3.iOSLink          "iOS">
 
+<!ENTITY mobilePromo3.end              " para sincronizar co seu dispositivo móbil.">
 
+<!ENTITY mobilepromo.singledevice      "Conectar outro dispositivo">
+<!ENTITY mobilepromo.multidevice       "Xestionar dispositivos">
