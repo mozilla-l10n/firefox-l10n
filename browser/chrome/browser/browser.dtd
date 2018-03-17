@@ -240,9 +240,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Вы заблакавалі апавяшчэнні з гэтага вэб-сайта.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Вы заблакавалі захоўванне звестак для гэтага вэб-сайта.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Вы заблакавалі выплыўныя вокны для гэтага вэб-сайта.">
-
 <!ENTITY urlbar.canvasBlocked.tooltip            "Вы заблакавалі выманне дадзеных canvas для гэтага вэб-сайта.">
 
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "Вы забаранілі гэтаму вэб-сайту выкарыстоўваць плагін Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Вы заблакавалі MIDI доступ для гэтага вэб-сайта.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Паказаць гісторыю">
@@ -388,7 +388,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "Няма сінхранізаваных картак… пакуль!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Хочаце пабачыць свае карткі з іншых прылад?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Налады сінхранізацыі">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Адкрыць налады сінхранізацыі">
@@ -397,7 +396,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Увайсці ў Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Кіраваць прыладамі...">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Паказаць бакавую панэль сінхранізаваных картак">
-
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Злучыць іншую прыладу">
 
 <!ENTITY appMenuRecentHighlights.label "Апошнія падсвятленні">
@@ -440,6 +438,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Шукаць ці ўвесці адрас">
+<!ENTITY urlbar.placeholder3          "Уводзьце пошукавыя запыты і адрасы тут">
 <!ENTITY urlbar.accesskey             "а">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Пашырэнне:">
@@ -806,7 +805,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Сінхранізаваныя карткі">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Увайдзіце ў Firefox з вашых іншых прылад, каб пабачыць іх карткі тут.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "Няма сінхранізаваных картак… пакуль!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Хочаце пабачыць вашы карткі з іншых прылад тут?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Увайдзіце, каб бачыць спіс картак з вашых астатніх прылад.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "Ваш уліковы запіс патрабуе пацвярджэння.">
@@ -816,7 +814,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Уключыце сінхранізацыю картак, каб бачыць спіс картак з вашых іншых прылад.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Шукаць у сінхранізаваных картках">
-
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Злучыць іншую прыладу">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
@@ -986,11 +983,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Перазапуск для абнаўлення &brandShorterName;">
 
 <!ENTITY newTabControlled.message "Пашырэнне змяніла старонку, якую вы бачыце, калі адкрылі новую картку. Калі не хочаце гэтых змен, вы можаце аднавіць наладкі.">
+
 <!ENTITY newTabControlled.header.message "Ваша новая картка была зменена.">
 <!ENTITY newTabControlled.keepButton.label "Замацаваць змены">
 <!ENTITY newTabControlled.keepButton.accesskey "З">
 <!ENTITY newTabControlled.restoreButton.label "Аднавіць наладкі">
 <!ENTITY newTabControlled.restoreButton.accesskey "А">
+
+<!ENTITY newTabControlled.disableButton.label "Адключыць пашырэнне">
+<!ENTITY newTabControlled.disableButton.accesskey "А">
 
 <!ENTITY pageActionButton.tooltip "Дзеянні старонкі">
 <!ENTITY pageAction.addToUrlbar.label "Дадаць у адрасны радок">
