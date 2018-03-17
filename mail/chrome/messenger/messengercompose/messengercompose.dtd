@@ -85,6 +85,20 @@
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "Muuda manuse nime…">
 <!ENTITY renameAttachmentCmd.accesskey "e">
+<!ENTITY reorderAttachmentsCmd.label "Ümberjärjesta manused…">
+<!ENTITY reorderAttachmentsCmd.accesskey "Ü">
+<!ENTITY reorderAttachmentsCmd.key "x">
+<!ENTITY toggleAttachmentPaneCmd.label "Manuste paneel">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
+     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
+     as attachments.accesskey. -->
+<!ENTITY toggleAttachmentPaneCmd.accesskey "M">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
+     With OS-specific access modifier, this defines the shortcut key for showing/
+     hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
+     toggleAttachmentPaneCmd.key and attachments.accesskey must be the same
+     for the bucket view state machinery to work. -->
+<!ENTITY toggleAttachmentPaneCmd.key "m">
 <!ENTITY selectAllCmd.label "Vali kõik">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "i">
@@ -102,6 +116,26 @@
 <!ENTITY findPrevCmd.accesskey "O">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
+
+<!-- Reorder Attachment Panel -->
+<!ENTITY reorderAttachmentsPanel.label "Ümberjärjesta manused">
+<!ENTITY moveAttachmentTopPanelBtn.label "Liiguta esimeseks">
+<!ENTITY moveAttachmentUpPanelBtn.label "Liiguta üles">
+<!ENTITY moveAttachmentBundleUpPanelBtn.label "Liiguta koos">
+<!ENTITY moveAttachmentDownPanelBtn.label "Liiguta alla">
+<!ENTITY moveAttachmentBottomPanelBtn.label "Liiguta viimaseks">
+
+<!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
+     Please ensure that this translation matches
+     sortAttachmentsPanelBtn.Sort.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.Sort.AZ.label "Sorteeri: A - Z">
+<!ENTITY sortAttachmentsPanelBtn.Sort.ZA.label "Sorteeri: Z - A">
+<!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.SortSelection.AZ.label):
+     Please ensure that this translation matches
+     sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.label "Sorteeri valitud: A - Z">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.label "Sorteeri valitud: Z - A">
+<!ENTITY sortAttachmentsPanelBtn.key "y">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Vaade">
@@ -214,6 +248,7 @@
 <!ENTITY quoteButton.tooltip "Tsiteeri eelnevat kirja">
 <!ENTITY addressButton.tooltip "Vali kirja saaja aadressiraamatust">
 <!ENTITY attachButton.tooltip "Lisa manus">
+<!ENTITY attachButton.tooltip2 "Lisa manus">
 <!ENTITY spellingButton.tooltip "Kontrolli valiku või terve kirja õigekirja">
 <!ENTITY saveButton.tooltip "Salvesta see kiri">
 <!ENTITY cutButton.tooltip              "Lõika">
@@ -235,9 +270,14 @@
 <!ENTITY followupAddr.label "Järg postitusele:">
 <!ENTITY subject.label "Teema:">
 <!ENTITY subject.accesskey "e">
-<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
-     to the strings in attachmentCount in composeMsgs.properties -->
+<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
+     be taken from the strings in attachmentCount in composeMsgs.properties,
+     and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
+     work, as the shortcut key functionality supersedes the access key. -->
 <!ENTITY attachments.accesskey "M">
+
+<!ENTITY attachmentBucketHeader.tooltip "Manuste paneel">
+<!ENTITY attachmentBucketCloseButton.tooltip "Peida manuste paneel">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Lisa emotikon">
@@ -275,6 +315,7 @@
 <!ENTITY pasteQuote.label "Aseta tsitaadina">
 <!ENTITY pasteQuote.accesskey "t">
 
+<!-- Attachment Item and List Context Menus -->
 <!ENTITY openAttachment.label "Ava">
 <!ENTITY openAttachment.accesskey "A">
 <!ENTITY delete.label "Kustuta">
@@ -283,6 +324,10 @@
 <!ENTITY removeAttachment.accesskey "E">
 <!ENTITY renameAttachment.label "Nimeta ümber...">
 <!ENTITY renameAttachment.accesskey "N">
+<!ENTITY reorderAttachments.label "Ümberjärjesta manused…">
+<!ENTITY reorderAttachments.accesskey "Ü">
+<!ENTITY removeAllAttachments.label "Eemalda kõik manused">
+<!ENTITY removeAllAttachments.accesskey "õ">
 <!ENTITY selectAll.label "Vali kõik">
 <!ENTITY selectAll.accesskey "l">
 <!ENTITY attachFile.label "Lisa fail(id)...">
