@@ -124,6 +124,7 @@ containers-disable-alert-cancel-button = اہل بنایا رکھیں
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = زبان اور ظاہری شکل
 fonts-and-colors-header = فانٹ اور رنگ
 default-font = طےشدہ فانٹ
     .accesskey = D
@@ -152,6 +153,7 @@ check-user-spelling =
 
 ## General Section - Files and Applications
 
+files-and-applications-title = مسلیں اور ایپلی کیشن
 download-header = ڈاؤن لوڈ
 download-save-to =
     .label = مسل محفوظ کریں بر
@@ -213,6 +215,7 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
+network-proxy-title = نیٹ ورک پراکسی
 network-proxy-connection-learn-more = مزید سیکھیں
 network-proxy-connection-settings =
     .label = سیٹنگیں…

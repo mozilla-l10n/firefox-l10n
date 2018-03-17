@@ -12,6 +12,7 @@
 
 <!ENTITY restorepage.tryagainButton2 "سیشن بحال کریں">
 <!ENTITY restorepage.restore.access2 "R">
+<!ENTITY restorepage.closeButton2    "نئے سیشن کا آغازکریں">
 <!ENTITY restorepage.close.access2   "N">
 
 <!ENTITY restorepage.restoreHeader  "بحال کریں">
