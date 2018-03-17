@@ -26,3 +26,13 @@
 <!ENTITY PagerNumber.accesskey                 "P">
 <!ENTITY FaxNumber.label                       "Faks">
 <!ENTITY FaxNumber.accesskey                   "F">
+<!ENTITY HomePhone.label                       "Priwatny telefon">
+<!ENTITY HomePhone.accesskey                   "w">
+<!ENTITY WorkPhone.label                       "Słužbny telefon">
+<!ENTITY WorkPhone.accesskey                   "S">
+<!ENTITY ChatName.label                        "Chattowe mjeno">
+<!ENTITY ChatName.accesskey                    "C">
+<!ENTITY sortAscending.label                   "Postupowacy">
+<!ENTITY sortAscending.accesskey               "P">
+<!ENTITY sortDescending.label                  "Spadowacy">
+<!ENTITY sortDescending.accesskey              "S">
