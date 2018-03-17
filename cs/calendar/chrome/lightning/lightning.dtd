@@ -37,7 +37,16 @@
 <!ENTITY lightning.menu.eventtask.accesskey            "U">
 
 <!-- properties dialog, calendar creation wizard -->
-<!ENTITY lightning.calendarproperties.email.label               "E-mail:">
+<!-- LOCALIZATON NOTE(lightning.calendarproperties.email.label,
+     lightning.calendarproperties.forceEmailScheduling.label)
+     These strings are used in the calendar wizard and the calendar properties dialog, but are only
+     displayed when setting/using a caldav calendar -->
+<!ENTITY lightning.calendarproperties.email.label                           "E-mail:">
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.label            "Upřednostnit plánování emailů na straně klienta">
+<!-- LOCALIZATON NOTE(lightning.calendarproperties.forceEmailScheduling.tooltiptext1,
+     lightning.calendarproperties.forceEmailScheduling.tooltiptext2)
+     - tooltiptext1 is used in the calendar wizard when setting a new caldav calendar
+     - tooltiptext2 is used in the calendar properties dialog for caldav calendars -->
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Přijmout">
@@ -71,6 +80,8 @@
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "Aktualizovat">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Aktualizuje událost v kalendáři">
 <!ENTITY lightning.imipbar.description                                      "Tato zpráva obsahuje pozvání na událost.">
+
+<!ENTITY lightning.imipbar.btnDontSend.label                                "Neposílat odpověď">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
