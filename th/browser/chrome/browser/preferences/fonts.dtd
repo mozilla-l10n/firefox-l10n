@@ -64,10 +64,10 @@
 <!ENTITY  allowPagesToUseOwn.label                "อนุญาตให้หน้าเลือกใช้แบบอักษรของตัวเอง แทนที่จะเป็นที่คุณเลือกไว้ด้านบน">
 <!ENTITY  allowPagesToUseOwn.accesskey            "อ">
 
-<!ENTITY languages.customize.Fallback2.grouplabel "รหัสอักขระสำหรับเนื้อหาเก่า">
+<!ENTITY languages.customize.Fallback2.grouplabel "รหัสอักขระสำหรับเนื้อหาแบบเก่า">
 <!ENTITY languages.customize.Fallback3.label      "รหัสอักขระที่ใช้แสดงแทน">
 <!ENTITY languages.customize.Fallback3.accesskey  "ร">
-<!ENTITY languages.customize.Fallback2.desc       "รหัสอักขระนี้ถูกใช้สำหรับเนื้อหาเก่าที่ไม่สามารถประกาศการเข้ารหัสได้">
+<!ENTITY languages.customize.Fallback2.desc       "รหัสอักขระนี้ถูกใช้สำหรับเนื้อหาแบบเก่าที่ไม่สามารถประกาศการเข้ารหัสได้">
 
 <!ENTITY languages.customize.Fallback.auto        "ค่าเริ่มต้นสำหรับภาษาถิ่นปัจจุบัน">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):

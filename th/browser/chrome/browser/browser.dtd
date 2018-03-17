@@ -210,7 +210,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.viewSiteInfo.label                      "ดูข้อมูลไซต์">
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "เปิดแผงข้อความ">
-<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "เปิดแผงการร้องขอตำแหน่งที่ตั้ง">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "เปิดแผงคำร้องขอตำแหน่งที่ตั้ง">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "เปิดแผงข้อความการติดตั้งส่วนเสริม">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "เปิดแผงข้อความที่เก็บข้อมูลออฟไลน์">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "เปิดแผงข้อความบันทึกรหัสผ่าน">
@@ -976,6 +976,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "เริ่มการทำงานใหม่เพื่ออัปเดต &brandShorterName;">
 
 
+<!ENTITY newTabControlled.keepButton.label "เก็บการเปลี่ยนแปลง">
+<!ENTITY newTabControlled.keepButton.accesskey "ก">
 <!ENTITY newTabControlled.restoreButton.label "เรียกคืนการตั้งค่า">
 <!ENTITY newTabControlled.restoreButton.accesskey "ร">
 
