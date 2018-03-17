@@ -8,6 +8,8 @@
 <!ENTITY  window.macWidth2              "44em">
 
 <!ENTITY  proxyTitle.label              "กำหนดค่าพร็อกซีเพื่อเข้าถึงอินเทอร์เน็ต">
+
+<!ENTITY  proxyTitle.label2             "กำหนดค่าการเข้าถึงพร็อกซีกับอินเทอร์เน็ต">
 <!ENTITY  noProxyTypeRadio.label        "ไม่มีพร็อกซี">
 <!ENTITY  noProxyTypeRadio.accesskey    "ม">
 <!ENTITY  systemTypeRadio.label         "ใช้การตั้งค่าพร็อกซีของระบบ">

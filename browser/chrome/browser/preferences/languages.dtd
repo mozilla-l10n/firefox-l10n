@@ -15,3 +15,4 @@
 <!ENTITY languages.customize.selectLanguage.label       "เลือกภาษาที่จะเพิ่ม…">
 <!ENTITY languages.customize.addButton.label            "เพิ่ม">
 <!ENTITY languages.customize.addButton.accesskey        "พ">
+<!ENTITY languages.customize.spoofEnglish               "ขอหน้าเว็บภาษาอังกฤษเพื่อความเป็นส่วนตัวที่เพิ่มขึ้น">
