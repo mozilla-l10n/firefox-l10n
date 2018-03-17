@@ -119,6 +119,7 @@ check-user-spelling =
 
 ## General Section - Files and Applications
 
+files-and-applications-title = Ficheiros e aplicativos
 download-header = Descargas
 download-save-to =
     .label = Gardar ficheiros en
@@ -134,6 +135,12 @@ download-choose-folder =
             [macos] E
            *[other] i
         }
+download-always-ask-where =
+    .label = Preguntar sempre onde gardar os ficheiros
+    .accesskey = a
+applications-header = Aplicativos
+applications-filter =
+    .placeholder = Buscar tipos de ficheiros ou aplicativos
 applications-type-column =
     .label = Tipo de contido
     .accesskey = T
@@ -141,12 +148,32 @@ applications-action-column =
     .label = Acción
     .accesskey = A
 play-drm-content-learn-more = Máis información
+update-application-title = Actualizacións de { -brand-short-name }
+update-application-info = Versión { $version } <a>Novidades</a>
+update-history =
+    .label = Amosar historial de actualización…
+    .accesskey = H
+update-application-allow-description = Permitir a { -brand-short-name }
+update-application-auto =
+    .label = Instalar actualizacións automaticamente (recomendado)
+    .accesskey = a
+update-application-check-choose =
+    .label = Buscar actualizacións, pero permitirlle escoller se quere instalalas
+    .accesskey = c
+update-application-manual =
+    .label = Non buscar actualizacións (non recomendado)
+    .accesskey = n
 update-application-use-service =
     .label = Usar un servizo en segundo plano para instalar as actualizacións
     .accesskey = g
+update-enable-search-update =
+    .label = Actualizar automaticamente os buscadores
+    .accesskey = e
 
 ## General Section - Performance
 
+performance-title = Rendemento
+performance-settings-learn-more = Máis información
 performance-allow-hw-accel =
     .label = Usar a aceleración por hardware cando estea dispoñíbel
     .accesskey = r
@@ -177,6 +204,7 @@ network-proxy-connection-settings =
 
 ## Search Section
 
+search-bar-header = Barra de buscar
 search-engine-default-header = Buscador predeterminado
 search-suggestions-option =
     .label = Fornecer suxestións de busca
