@@ -22,6 +22,11 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
+policies-notice =
+    { PLATFORM() ->
+        [windows] Ваша арганізацыя выключыла магчымасць змяняць некаторыя налады.
+       *[other] Ваша арганізацыя выключыла магчымасць змяняць некаторыя налады.
+    }
 pane-general-title = Агульныя
 category-general =
     .tooltiptext = { pane-general-title }
