@@ -18,9 +18,11 @@
      string visible -->
 
 <!ENTITY  paneGeneral.title             "Xeral">
+<!ENTITY  paneFilesApplications.title   "Ficheiros e aplicativos">
 <!ENTITY  panePrivacySecurity.title     "Privacidade e seguranza">
 
 <!ENTITY  languageAndAppearance.label   "Idioma e aparencia">
+<!ENTITY  filesAndApplications.label    "Ficheiros e aplicativos">
 
 
 <!ENTITY  browserPrivacy.label          "Privacidade do navegador">

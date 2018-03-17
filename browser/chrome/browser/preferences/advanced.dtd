@@ -77,5 +77,8 @@ available. -->
 <!ENTITY enableOCSP.label                "Consultar aos servidores OCSP responder para confirmar a validez dos certificados">
 <!ENTITY enableOCSP.accesskey            "u">
 
+<!ENTITY performance.label               "Rendemento">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Máis información">
 <!ENTITY allowHWAccel.label              "Usar a aceleración por hardware cando estea dispoñíbel">
 <!ENTITY allowHWAccel.accesskey          "r">
