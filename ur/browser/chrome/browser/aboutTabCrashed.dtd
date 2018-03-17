@@ -18,6 +18,7 @@
 <!ENTITY tabCrashed.header2 "اوھ ۔ آپ کا ٹیب ابھی تباہ ہو گیا۔">
 <!ENTITY tabCrashed.offerHelp2 "ہم مدد کر سکتے ہیں!">
 <!ENTITY tabCrashed.single.offerHelpMessage2 "صفحہ کو پھر لوڈ کرنے کے لیئے &tabCrashed.restoreTab; چنیں۔">
+<!ENTITY tabCrashed.multiple.offerHelpMessage2 "/pages. پھر سے لوڈ کرنے کے لیئے &tabCrashed.restoreTab; یا &tabCrashed.restoreAll; کا انتخاب کریں">
 <!ENTITY tabCrashed.requestHelp "کیا آپ ہماری مدد کریں گے؟">
 <!ENTITY tabCrashed.requestHelpMessage "تباہ کی رپورٹس ہمیں مسائل کی تشخیص کرنے میں مدد کرتا ھے اور *&brandShortName;* کو بہترکرتا ہے۔">
 <!ENTITY tabCrashed.requestReport "اس ٹیب کی رپورٹ کریں">

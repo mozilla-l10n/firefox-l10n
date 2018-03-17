@@ -35,6 +35,7 @@
 
 <!ENTITY openPortalLoginPage.label2 "نیٹ ورک کا لاگ ان صفحہ کھولیں">
 
+<!ENTITY malformedURI.pageTitle "ناجائز URL">
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY netInterrupt.title "کنکشن خراب ہو گیا">

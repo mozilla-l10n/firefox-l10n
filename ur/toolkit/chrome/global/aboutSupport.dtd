@@ -22,6 +22,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionId "ID">
 
 <!ENTITY aboutSupport.securitySoftwareTitle "سلامتی سافٹ ویئر">
+<!ENTITY aboutSupport.securitySoftwareType "قسم">
 <!ENTITY aboutSupport.securitySoftwareName "نام">
 
 <!ENTITY aboutSupport.featuresTitle "&brandShortName; فیچر">
@@ -138,4 +139,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceGroup "گروہ">
 <!ENTITY aboutSupport.mediaDeviceState "ریاست">
 <!ENTITY aboutSupport.mediaDevicePreferred "ترییحی">
+<!ENTITY aboutSupport.mediaDeviceRate "شرح">
 

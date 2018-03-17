@@ -4,8 +4,8 @@
 
 <!ENTITY loadError.label "صفحہ لوڈ کرنے میں نقص">
 <!ENTITY retry.label "دوبارہ کوشش کریں">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "جڑنے میں ناکام ہوا">
 <!ENTITY connectionFailure.longDesc "<p>اگرچہ سائٹ جائز نظر آتی ہے لیکن براؤزر کنکشن قائم کرنے میں نا اہل رہا۔</p><ul><li>کیا سائٹ عارضی طور پر عدم دستیاب ہو سکتی تھی؟ بعد میں دوبارہ کوشش کریں۔</li><li>کیا آپ دیگر سائٹیں براؤز کرنے میں ناکام ہیں؟ کمپیوٹر کا نیٹ ورک کنکشن پڑتال کریں۔</li><li>کیا آپ کا کمپیوٹر یا نیٹ ورک فصیل یا پراکسی کے ذریعے محفوظ ہے؟ غیر صحیح سیٹنگیں ویب براؤز کرنے میں مداخلت کر سکتی ہیں۔</li></ul>">
@@ -86,3 +86,5 @@
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> سیکورٹی ٹیکنالوجی کا استعمال کرتا ہے جو کی فرسودہ اور حملے کا شکار ہے۔ حملہ آور آسانی سے اس معلومات کو ظاہر کر سکتا یے جسے آپ محفوظ سمجھ رہے ہے۔ آپکی سائٹ دورہ کرنے سے پہلے ویب سائٹ منتظمکار کو پیش کار ٹھک کرنا ہوگا۔</p><p> خرابی کا کوڈ: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY blockedByPolicy.title "بلاک شدہ صفحہ">
