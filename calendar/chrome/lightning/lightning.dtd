@@ -42,7 +42,6 @@
      These strings are used in the calendar wizard and the calendar properties dialog, but are only
      displayed when setting/using a caldav calendar -->
 <!ENTITY lightning.calendarproperties.email.label                           "E-mejl:">
-
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.label            "E-mejlowe planowanje ze strony klienta preferować">
 <!-- LOCALIZATON NOTE(lightning.calendarproperties.forceEmailScheduling.tooltiptext1,
      lightning.calendarproperties.forceEmailScheduling.tooltiptext2)
@@ -83,6 +82,13 @@
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "Aktualizować">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Podawk w protyce aktualizować">
 <!ENTITY lightning.imipbar.description                                      "Tuta powěsć přeprošenje na podawk wobsahuje.">
+
+<!ENTITY lightning.imipbar.btnSend.label                                    "Nětko wotmołwu pósłać">
+<!ENTITY lightning.imipbar.btnSend.tooltiptext                              "Organizatorej wotmołwu pósłać">
+<!ENTITY lightning.imipbar.btnSendSeries.tooltiptext                        "Organizatorej wotmołwu za cyły rjad pósłać">
+<!ENTITY lightning.imipbar.btnDontSend.label                                "Wotmołwu njesłać">
+<!ENTITY lightning.imipbar.btnDontSend.tooltiptext                          "Waš wobdźělenski status změnić, bjeztoho zo by so organizatorej wotmołwa pósłała">
+<!ENTITY lightning.imipbar.btnDontSendSeries.tooltiptext                    "Waš wobdźělenski status za rjad změnić, bjeztoho zo by so organizatorej wotmołwa pósłała">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
