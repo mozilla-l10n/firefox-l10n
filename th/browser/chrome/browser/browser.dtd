@@ -238,6 +238,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "คุณได้ปิดกั้นที่เก็บข้อมูลถาวรสำหรับเว็บไซต์นี้">
 <!ENTITY urlbar.popupBlocked.tooltip             "คุณได้ปิดกั้นป๊อปอัปสำหรับเว็บไซต์นี้">
 
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "คุณได้ปิดกั้นเว็บไซต์นี้จากการใช้ปลั๊กอิน Adobe Flash">
+<!ENTITY urlbar.midiBlocked.tooltip              "คุณได้ปิดกั้นการเข้าถึง MIDI สำหรับเว็บไซต์นี้">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "แสดงประวัติ">
 
