@@ -417,7 +417,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; تندرستی رپورٹ">
 <!ENTITY datareporting_fhr_summary2 "آپ کے براؤزر کی صحت &vendorShortName; کے ساتھ شیئر کرتا ہے اور آپ کو آپ کے براؤزر کی سرانجام دہی سمجھنے میں مدد کرتا ہے">
-<!ENTITY datareporting_abouthr_title "میری تندرستی رپورٹ دکھائیں">
 <!ENTITY datareporting_telemetry_title "ٹیلی میٹری">
 <!ENTITY datareporting_telemetry_summary "&brandShortName; کو بہتر بنانے میں مدد دینے کے لیے آپ کے براؤزر کے سرانجام دہی، استعمال، ہارڈ ویئر اور تخصیص کاری کوائف &vendorShortName; کو بھیجتا ہے">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; &vendorShortName; کو آپ کے براوزر کو قابل بھروسا اور محفوظ بنانے میں مدد دینے کے لیے کریش رپورٹیں بھیجتا ہے">
@@ -449,6 +448,7 @@
 <!ENTITY share_image_failed "یہ نقش شیئر کرنے میں ناکام">
 <!ENTITY save_as_pdf "بطور PDF محفوظ کریں">
 <!ENTITY print "پرنٹ کریں">
+<!ENTITY view_page_source "صفحہ ماخذ نظارہ کریں">
 <!ENTITY find_in_page "صفحہ میں تلاش کریں">
 <!ENTITY desktop_mode "ڈیسک ٹاپ سائٹ کی درخواست کریں">
 <!ENTITY page "صفحہ">
@@ -480,7 +480,7 @@
 <!ENTITY contextmenu_open_new_tab "نئی ٹیب میں کھولیں">
 <!ENTITY contextmenu_open_private_tab "نجی ٹیب میں کھولیں">
 <!ENTITY contextmenu_remove "ہٹائیں">
-<!ENTITY contextmenu_add_to_launcher "ابتدائی سکرین میں ڈالیں">
+<!ENTITY contextmenu_add_page_shortcut "صفحہ کے تیز راہ کا اظافہ کریں">
 <!ENTITY contextmenu_set_as_homepage "ابتدائی صفحہ پر سیٹ کرے">
 <!ENTITY contextmenu_share "شیئر">
 <!ENTITY contextmenu_pasteandgo "چسپاں کریں &amp; جائیں">
@@ -534,7 +534,6 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "صفحہ ہٹا دیا گیا">
-
 <!ENTITY folder_removed "پوشہ ہٹا دیا گیا">
 
 <!ENTITY bookmark_edit_title "نشانی تدوین کریں">
@@ -805,6 +804,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced by the Android OS version (e.g., 14)-->
 <!ENTITY unsupported_sdk_version "معذرت! یہ &brandShortName; اس آلہ پر کام نہیں کریگا (&formatS1;, &formatS2;)۔ براہ مہربانی صحیح ورزن ڈاونلوڈ لرے۔">
 
+<!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
+
 <!ENTITY eol_notification_title2 "&brandShortName; اب تازہ کاری نہیں کرے گا">
 <!ENTITY eol_notification_summary "مزید سیکھنے کے لیے یہاں کلک کریں">
 
@@ -813,8 +814,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "&brandShortName; تازہ ترین ہے">
 <!ENTITY whatsnew_notification_summary "ڈھونڈیں اس ورژن میں کیا نیا ہے">
 
-<!ENTITY promotion_add_to_homescreen "ہوم اسکرین میں شامل کریں">
-
+<!ENTITY promotion_add_page_shortcut "صفحہ کے تیز راہ کا اظافہ کریں">
 
 <!ENTITY helper_first_offline_bookmark_title "آف لائن پڑھیں">
 <!ENTITY helper_first_offline_bookmark_message "نشانیاں میں اپنے قارئین کے لنک اشیاء، بھی آف لائن تلاش کریں.">
