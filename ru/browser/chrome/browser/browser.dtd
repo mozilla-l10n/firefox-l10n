@@ -438,6 +438,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Введите поисковый запрос или адрес">
+<!ENTITY urlbar.placeholder3          "Вводите здесь поисковые запросы и адреса">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Расширение:">
@@ -982,11 +983,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Перезапустить &brandShorterName; для обновления">
 
 <!ENTITY newTabControlled.message "Страница, отображаемая при открытии Новой вкладки, была изменена расширением. Если вы этого не хотите, вы можете восстановить свои настройки.">
+
 <!ENTITY newTabControlled.header.message "Ваша Новая вкладка была изменена.">
 <!ENTITY newTabControlled.keepButton.label "Сохранить изменение">
 <!ENTITY newTabControlled.keepButton.accesskey "х">
 <!ENTITY newTabControlled.restoreButton.label "Восстановить настройки">
 <!ENTITY newTabControlled.restoreButton.accesskey "н">
+
+<!ENTITY newTabControlled.disableButton.label "Отключить расширение">
+<!ENTITY newTabControlled.disableButton.accesskey "ю">
 
 <!ENTITY pageActionButton.tooltip "Действия на странице">
 <!ENTITY pageAction.addToUrlbar.label "Добавить на панель адреса">
