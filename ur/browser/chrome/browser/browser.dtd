@@ -386,6 +386,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "ہم سازی کے لئے سائن ان کریں">
 <!ENTITY appMenuRemoteTabs.managedevices.label "آلات کو بندرست کریں…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "ہمہ وقت ساز ٹیبس کے بغلی بار کا نظارہ کریں">
+<!ENTITY appMenuRemoteTabs.connectdevice.label "اہک اور آلہ جوڑیں">
 
 <!ENTITY appMenuRecentHighlights.label "حالیہ خاص بات">
 
@@ -800,6 +801,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "اپنے دیگر آلات پر ٹیب کی فہرست دیکھنے کے لئے ٹیب ہم سازی آن کر دیں۔">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "ہمہ وقت ساز ٹیبز تلاش کریں">
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "اہک اور آلہ جوڑیں">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -976,6 +978,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "صفحہ اعمال">
 <!ENTITY pageAction.addToUrlbar.label "ایڈریس بار میں شامل کرے">
 <!ENTITY pageAction.removeFromUrlbar.label "ایڈریس بار سے ہٹائے">
+<!ENTITY pageAction.manageExtension.label "توسیعات… بندرست کریں">
 
 <!ENTITY pageAction.sendTabToDevice.label "ٹیبب کو آلہ پر بھیجیں">
 <!ENTITY sendToDevice.syncNotReady.label "آلات کی ہمہ وقت سازی کر رہے ہے…">

@@ -4,6 +4,7 @@
 
 <!ENTITY     window.title                  "سیٹکگیں - سائٹ کے کوائف">
 
+<!ENTITY     window2.title                 "کوکیوں اور سائٹ کے کواِئف کو بندرست کریں">
 <!ENTITY     hostCol.label                 "سائٹ">
 <!ENTITY     statusCol.label               "موجودہ حالت ">
 <!ENTITY     cookiesCol.label              "کوکیاں">

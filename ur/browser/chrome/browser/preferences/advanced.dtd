@@ -56,7 +56,9 @@ available. -->
 <!ENTITY clearSiteData.accesskey         "ف">
 <!ENTITY siteDataSettings.label          "سیٹنگیں…">
 <!ENTITY siteDataSettings.accesskey      "ن">
+<!ENTITY siteData1.label                 "کوکیاں اور سائٹ کے کواِئف">
 <!ENTITY clearSiteData1.accesskey        "l">
+<!ENTITY siteDataSettings1.accesskey     "M">
 <!ENTITY siteDataLearnMoreLink.label     "مزید سیکھیں">
 
 <!-- LOCALIZATION NOTE:
