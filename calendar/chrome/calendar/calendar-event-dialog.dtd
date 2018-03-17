@@ -420,6 +420,7 @@
 
 <!-- Summary dialog -->
 <!ENTITY summary.dialog.saveclose.label         "Składować a začinić">
+<!ENTITY summary.dialog.saveclose.tooltiptext   "Změny składować a wokno začinić, bjeztoho zo by so wobdźělenski status změnił a wotmołwa pósłała">
 <!ENTITY summary.dialog.accept.label            "Akceptować">
 <!ENTITY summary.dialog.accept.tooltiptext      "Přeprošenje akceptować">
 <!ENTITY summary.dialog.tentative.label         "Nachwilu">
@@ -427,5 +428,6 @@
 <!ENTITY summary.dialog.decline.label           "Wotpokazać">
 <!ENTITY summary.dialog.decline.tooltiptext     "Přeprošenje wotpokazać">
 <!ENTITY summary.dialog.dontsend.label          "Wotmołwu njesłać">
+<!ENTITY summary.dialog.dontsend.tooltiptext    "Waš wobdźělenski status změnić, bjeztoho zo by so organizatorej wotmołwa pósłała a wokno začiniła">
 <!ENTITY summary.dialog.send.label              "Nětko wotmołwu pósłać">
 <!ENTITY summary.dialog.send.tooltiptext        "Organizatorej wotmołwu pósłać a wokno začinić">
