@@ -20,3 +20,26 @@
 
 <!ENTITY finishpage.shortdescription  "Protyka je so wutworiła" >
 <!ENTITY finishpage.longdescription   "Waša protyka je so wutworiła." >
+
+<!-- Below are new strings for the revised new calendar dialog. The above strings should be
+    removed/renamed later on -->
+
+<!ENTITY sourcetabs.other.label  "Druhe">
+
+<!ENTITY buttons.create.label "Protyku wutworić">
+<!ENTITY buttons.create.accesskey "r">
+
+<!ENTITY buttons.find.label "Protyki pytać">
+<!ENTITY buttons.find.accesskey "P">
+
+<!ENTITY buttons.back.label "Wróćo">
+<!ENTITY buttons.back.accesskey "W">
+
+<!ENTITY buttons.subscribe.label "Abonować">
+<!ENTITY buttons.subscribe.accesskey "A">
+
+<!ENTITY calendartype.label "Protykowy typ:">
+<!ENTITY location.label "Městno:">
+<!ENTITY location.placeholder "URL abo mjeno hosta protykoweho serwera">
+
+
