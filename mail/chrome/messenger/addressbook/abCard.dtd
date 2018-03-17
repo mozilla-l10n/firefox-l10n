@@ -154,3 +154,4 @@
 <!ENTITY PhotoURL.placeholder           "Вставьте или наберите веб-адрес фотографии">
 <!ENTITY UpdatePhoto.label              "Обновить">
 <!ENTITY UpdatePhoto.accesskey          "б">
+<!ENTITY PhotoDropTarget.label          "Перетащите сюда новое фото">
