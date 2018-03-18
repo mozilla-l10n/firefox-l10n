@@ -14,6 +14,10 @@
   -  shown next to error details when the Browser Toolbox is unable to open. -->
 <!ENTITY browserToolboxErrorMessage          "Eroare la deschiderea trusei de instrumente a browserului:">
 
+<!-- LOCALIZATION NOTE (browserToolboxStatusMessage): This is the label
+  -  shown next to status details when the Browser Toolbox fails to connect or
+  -  appears to be taking a while to do so. -->
+
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 <!ENTITY options.context.advancedSettings "Setări avansate">
@@ -24,6 +28,7 @@
 <!-- LOCALIZATION NOTE (options.showUserAgentStyles.label): This is the label
   -  for the checkbox option to show user agent styles in the Inspector
   -  panel. -->
+<!ENTITY options.showUserAgentStyles.label "Afișează stilurile browserului">
 
 <!-- LOCALIZATION NOTE (options.collapseAttrs.label): This is the label
   -  for the checkbox option to enable collapse attributes in the Inspector

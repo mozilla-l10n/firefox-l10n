@@ -21,6 +21,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Versiune">
 <!ENTITY aboutSupport.extensionId "ID">
 
+
 <!ENTITY aboutSupport.featuresTitle "Funcționalități &brandShortName;">
 <!ENTITY aboutSupport.featureName "Nume">
 <!ENTITY aboutSupport.featureVersion "Versiune">
@@ -54,7 +55,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Pluginuri activate">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configurația versiunii compilate">
-<!ENTITY aboutSupport.appBasicsUserAgent "Agent de utilizator">
+<!ENTITY aboutSupport.appBasicsUserAgent "Agent utilizator">
 <!ENTITY aboutSupport.appBasicsOS "SO">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Utilizare memorie">
 <!ENTITY aboutSupport.appBasicsPerformance "Performanță">
@@ -67,6 +68,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Ferestre multiproces">
 
 <!ENTITY aboutSupport.appBasicsProcessCount "Procese pentru conținut web">
+
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Cheie Google">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Cheie pentru serviciul de localizare Mozilla">
