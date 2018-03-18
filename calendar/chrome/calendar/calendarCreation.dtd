@@ -20,3 +20,28 @@
 
 <!ENTITY finishpage.shortdescription  "Kalender jo se napórał" >
 <!ENTITY finishpage.longdescription   "Waš kalender jo se napórał." >
+
+<!-- Below are new strings for the revised new calendar dialog. The above strings should be
+    removed/renamed later on -->
+
+<!ENTITY sourcetabs.other.label  "Druge">
+
+<!ENTITY buttons.create.label "Kalender napóraś">
+<!ENTITY buttons.create.accesskey "l">
+
+<!ENTITY buttons.find.label "Kalendery pytaś">
+<!ENTITY buttons.find.accesskey "K">
+
+<!ENTITY buttons.back.label "Slědk">
+<!ENTITY buttons.back.accesskey "S">
+
+<!ENTITY buttons.subscribe.label "Aboněrowaś">
+<!ENTITY buttons.subscribe.accesskey "A">
+
+<!ENTITY calendartype.label "Kalendrowy typ:">
+<!ENTITY location.label "Městno:">
+<!ENTITY location.placeholder "URL abo mě hosta kalendrowego serwera">
+
+<!ENTITY network.nocredentials.label "Toś to městno pśizjawjeńske daty njetrjeba">
+<!ENTITY network.loading.description "Pšosym cakajśo, daniž waše kalendery njejsui namakane.">
+
