@@ -22,6 +22,11 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
+policies-notice =
+    { PLATFORM() ->
+        [windows] Сіздің ұйымыңыз кейбір баптауларды өзгертуді бұғаттаған.
+       *[other] Сіздің ұйымыңыз кейбір баптауларды өзгертуді бұғаттаған.
+    }
 pane-general-title = Жалпы
 category-general =
     .tooltiptext = { pane-general-title }
