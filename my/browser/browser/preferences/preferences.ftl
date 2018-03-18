@@ -105,6 +105,9 @@ tabs-group-header = တပ်ဗ်များ
 ctrl-tab-recently-used-order =
     .label = Ctrl+tab သည် အရင်သုံးခဲ့ဖူးသည့် တပ်ဗ်များကို အစဉ်လိုက် ပြောင်းပေးသွားမည်
     .accesskey = T
+open-new-link-as-tabs =
+    .label = လင့်ခ်များကို ဝင်းဒိုးများတွင်ဖွင့်မည့်အစား တပ်ဗ်ထဲတွင် ဖွင့်ပါ
+    .accesskey = W
 warn-on-close-multiple-tabs =
     .label = တပ်ဗ်အများကြီးကို ပိတ်ပါက သတိပေးပါ
     .accesskey = m
@@ -131,6 +134,7 @@ containers-disable-alert-cancel-button = ဆက်လက်ဖွင့်ထာ
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = ဘာသာစကားနှင့် အသွင်အပြင်
 fonts-and-colors-header = ဖောင့်များ & အရောင်များ
 default-font = မူသေ ဖောင့်
     .accesskey = D
@@ -142,6 +146,7 @@ advanced-fonts =
 colors-settings =
     .label = အရောင်များ...
     .accesskey = C
+language-header = ဘာသာစကား
 choose-language-description = စာမျက်နှာများကို ပြသရန် နှစ်သက်ရာဘာသာစကားကို ရွေးပါ
 choose-button =
     .label = ရွေးပါ...
@@ -158,6 +163,7 @@ check-user-spelling =
 
 ## General Section - Files and Applications
 
+files-and-applications-title = ဖိုင်များနှင့် အက်ပလီကေးရှင်းများ
 download-header = ဆွဲယူထားသည့် ဖိုင်များ
 download-save-to =
     .label = ဖိုင်များကို ထိုနေရာတွင် သိမ်းရန်
