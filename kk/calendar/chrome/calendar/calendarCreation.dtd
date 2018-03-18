@@ -20,3 +20,25 @@
 
 <!ENTITY finishpage.shortdescription  "Күнтізбе жасалды" >
 <!ENTITY finishpage.longdescription   "Күнтізбеңіз жасалды." >
+
+<!-- Below are new strings for the revised new calendar dialog. The above strings should be
+    removed/renamed later on -->
+
+<!ENTITY sourcetabs.other.label  "Басқа">
+
+<!ENTITY buttons.create.label "Күнтізбені жасау">
+<!ENTITY buttons.create.accesskey "с">
+
+<!ENTITY buttons.find.label "Күнтізбелерді табу">
+<!ENTITY buttons.find.accesskey "т">
+
+<!ENTITY buttons.back.label "Артқа">
+<!ENTITY buttons.back.accesskey "а">
+
+<!ENTITY buttons.subscribe.label "Жазылу">
+<!ENTITY buttons.subscribe.accesskey "з">
+
+<!ENTITY calendartype.label "Күнтізбе түрі:">
+<!ENTITY location.label "Орналасуы:">
+
+
