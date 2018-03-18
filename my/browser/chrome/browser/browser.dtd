@@ -386,6 +386,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "အခြားကိရိယာများမှ တပ်ဗ်များကို ဒီမှာ ကြည့်ရှုချင်ပါသလား။">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync ဆိုင်ရာ အပြင်အဆင်များ">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Sync အပြင်အဆင်ကို ဖွင့်ပါ">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "သင့်အခြားကိရိယာများရှိ တပ်ဗ်စာရင်းကို ကြည့်ရန် ဝင်ရောက်ပါ။">
 <!ENTITY appMenuRemoteTabs.unverified.label "အကောင့်ကို အတည်ပြုရန် လိုအပ်သည်။">
 <!ENTITY appMenuRemoteTabs.signin.label "Sync ကို အသုံးပြုရန် လက်မှတ်ထိုး ဝင်ရောက်ပါ">
@@ -970,12 +971,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName; ကို အဆင့်မြှင့်ရန် ပြန်ဖွင့်ပါ">
 
 
+<!ENTITY newTabControlled.keepButton.label "ပြောင်းလဲမှုများကို သိမ်းပါ">
 <!ENTITY newTabControlled.keepButton.accesskey "K">
+<!ENTITY newTabControlled.restoreButton.label "အပြင်အဆင်များကို မူလအတိုင်း ပြန်ထားပါ">
 <!ENTITY newTabControlled.restoreButton.accesskey "R">
 
+<!ENTITY newTabControlled.disableButton.label "ပေါင်းထည့်ကိရိယာကို ပိတ်ရန်">
+<!ENTITY newTabControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "စာမျက်နှာရှိ ဆောင်ရွက်နိုင်သည်များ">
+<!ENTITY pageAction.addToUrlbar.label "လိပ်စာဘားတန်းသို့ ထည့်ပါ">
+<!ENTITY pageAction.removeFromUrlbar.label "လိပ်စာဘားတန်းမှ ဖယ်ရှားပါ">
+<!ENTITY pageAction.allowInUrlbar.label "လိပ်စာဘားတန်းတွင် ပြသပါ">
+<!ENTITY pageAction.disallowInUrlbar.label "လိပ်စာဘားတန်းတွင် မပြပါနှင့်">
+<!ENTITY pageAction.manageExtension.label "ပေါင်းထည့်ကိရိယာကို စီမံရန်…">
 
+<!ENTITY pageAction.sendTabToDevice.label "တပ်ဗ်ကို ကိရိယာသို့ ပို့ပါ">
 <!ENTITY sendToDevice.syncNotReady.label "ကိရိယာများကို ထပ်တူပြုနေသည်…">
 
 

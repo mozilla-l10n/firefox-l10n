@@ -2,6 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.title):
+     Please ensure this exactly matches tabs.emptyPrivateTabTitle in tabbrowser.properties -->
+<!ENTITY aboutPrivateBrowsing.title                      "သီးသန့် ကြည့်ရှုခြင်း">
+<!ENTITY aboutPrivateBrowsing.notPrivate.title           "သီးသန့်ဝင်းဒိုးကို ဖွင့်ပါမည်လား။">
+
 <!ENTITY aboutPrivateBrowsing.notPrivate                 "သင်သည် လက်ရှိတွင် သီးသန့်ဝင်းဒိုးတွင် ရှိမနေပါ။">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "သီးသန့်ဝင်းဒိုးကို ဖွင့်ပါ">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
