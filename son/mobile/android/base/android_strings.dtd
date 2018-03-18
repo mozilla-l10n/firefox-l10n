@@ -422,7 +422,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; Health Report">
 <!ENTITY datareporting_fhr_summary2 "Bayhaya žemna nda &vendorShortName; war ceecikaa baanoo ga ka gaa ka ceecikaa goysãhaa faham">
-<!ENTITY datareporting_abouthr_title "Ay ceeci baani alhaaloo guna">
 <!ENTITY datareporting_telemetry_title "Mooruneešiyan">
 <!ENTITY datareporting_telemetry_summary "Teeyan sahã, goymee, jinay šenda nda boŋse-hanseyan bayhayey žemna war ceecikaa nda &vendorShortName; k\&apos;a gaa ka &brandShortName; boryandi koyne">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; ga kaŋyan bayrandiyaney sanba ka &vendorShortName; gaa ka war ceecikaa tee tabatante nda saajante ka tonton">
@@ -454,6 +453,7 @@
 <!ENTITY share_image_failed "Ši hin ka biyoo woo žemna">
 <!ENTITY save_as_pdf "Gaabu sanda PDF">
 <!ENTITY print "Kar">
+<!ENTITY view_page_source "Moo aššiloo guna">
 <!ENTITY find_in_page "Ceeci moɲoo ra">
 <!ENTITY desktop_mode "Ordinater nungoo hãa">
 <!ENTITY page "Moo">
@@ -485,7 +485,6 @@
 <!ENTITY contextmenu_open_new_tab "Feeri kanji taaga ra">
 <!ENTITY contextmenu_open_private_tab "Feeri sutura kanji ra">
 <!ENTITY contextmenu_remove "Kaa">
-<!ENTITY contextmenu_add_to_launcher "Tonto šintin moo dijoo ga">
 <!ENTITY contextmenu_add_page_shortcut "Moo fondodunbay tonton">
 <!ENTITY contextmenu_set_as_homepage "A tee šintinmoo">
 <!ENTITY contextmenu_share "Žemna">
@@ -540,7 +539,6 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Moo tuusante">
-
 <!ENTITY folder_removed "Foolaa hun">
 
 <!ENTITY bookmark_edit_title "Doo-šilbaa fasal">
@@ -811,6 +809,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced by the Android OS version (e.g., 14)-->
 <!ENTITY unsupported_sdk_version "Alhaa naŋ! &brandShortName; dumoo woo ši koy nda jinaa woo (&formatS1;, &formatS2;). Dumi boryaa zumandi taare.">
 
+<!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
+<!ENTITY corrupt_apk "Mana hin ka &brandShortName; feeri. Sinji taaga ka ceeci koyne.">
+
 <!ENTITY eol_notification_title2 "&brandShortName; ši yee ka taagandi">
 <!ENTITY eol_notification_summary "Karkar ka bay ka tonton">
 
@@ -818,8 +819,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; n\&apos; ka taagandi">
 <!ENTITY whatsnew_notification_summary "Guna haya taagey dumoo woo ra">
-
-<!ENTITY promotion_add_to_homescreen "Tonto šintin moo dijoo ga">
 
 <!ENTITY promotion_add_page_shortcut "Moo fondodunbay tonton">
 

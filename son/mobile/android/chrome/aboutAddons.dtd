@@ -9,6 +9,7 @@
 <!ENTITY addonAction.disable                    "Kayandi">
 <!ENTITY addonAction.uninstall                  "Dogu">
 <!ENTITY addonAction.undo                       "Taafeeri">
+<!ENTITY addonAction.update                     "Taagandi">
 
 <!ENTITY addonUnsigned.message                  "&brandShortName; mana hin ka tontonoo woo koroši.">
 <!ENTITY addonUnsigned.learnMore                "Bay ka tonton">
