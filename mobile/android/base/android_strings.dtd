@@ -113,7 +113,7 @@
 <!ENTITY menu "Menu">
 <!ENTITY back "Tilbage">
 <!ENTITY stop "Stop">
-<!ENTITY site_security "Webstedssikkerhed">
+<!ENTITY site_security "Sikkerhed for webstedet">
 <!ENTITY edit_mode_cancel "Annuller">
 
 <!ENTITY close_tab "Luk faneblad">
@@ -422,7 +422,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; sundhedsrapport">
 <!ENTITY datareporting_fhr_summary2 "Hjælper dig med at forstå din browsers ydelse og deler data om din browsers sundhed med &vendorShortName;">
-<!ENTITY datareporting_abouthr_title "Vis min sundhedsrapport">
 <!ENTITY datareporting_telemetry_title "Telemetry">
 <!ENTITY datareporting_telemetry_summary "Deler information om ydelse, brug, hardware og tilrettelser i din browser med &vendorShortName; for at hjælpe med at forbedre &brandShortName;">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; sender fejlrapporter for at hjælpe &vendorShortName; med at gøre din browser mere stabil og sikker">
