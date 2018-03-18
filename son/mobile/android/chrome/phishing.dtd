@@ -6,6 +6,7 @@
 <!ENTITY safeb.palm.decline.label "Yaamaroo woo muray">
 <!ENTITY safeb.palm.reportPage.label "Macin se moɲoo woo gagayandi?">
 <!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
+<!ENTITY safeb.palm.advisory.desc "Yaamar kaŋ <a id='advisory_provider'/> n'a tee">
 
 <!ENTITY safeb.blocked.malwarePage.title "Hawgay, darga moo!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -22,3 +23,4 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Interneti moɲoo woo kaŋ ti <span id='unwanted_sitename'/> n' ka bayrandi ka tee darga moo nd'ir n'a gagay war saajaw ibaayey bande.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Goyjinay laala mooyaŋ ga ceeci ka goyjinay sinji kaŋ ga hin ka tee zanbahaya nd'a ga hin ka war dabariɲaŋoo laybu nda taka kaŋ mana naatandi.">
 
+<!ENTITY safeb.blocked.harmfulPage.title "Jinehere nungoo ka hin ka bara nda jinay laala">
