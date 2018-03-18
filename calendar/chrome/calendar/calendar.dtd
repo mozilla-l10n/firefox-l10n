@@ -172,12 +172,23 @@
 <!ENTITY calendar.context.copyevent.accesskey         "K">
 <!ENTITY calendar.context.pasteevent.label            "Zasajźiś">
 <!ENTITY calendar.context.pasteevent.accesskey        "Z">
-<!ENTITY calendar.context.button.label                "Źinsnajšny wobcerk" >
-<!ENTITY calendar.context.button.accesskey            "i" >
-<!ENTITY calendar.context.attendance.menu.label       "Wobźělenje" >
-<!ENTITY calendar.context.attendance.menu.accesskey   "l" >
-<!ENTITY calendar.context.attendance.occurrence.label "Toś to wustupowanje" >
+<!ENTITY calendar.context.button.label                "Źinsnajšny wobcerk">
+<!ENTITY calendar.context.button.accesskey            "i">
+
+<!ENTITY calendar.context.attendance.menu.label                 "Wobźělenje">
+<!ENTITY calendar.context.attendance.menu.accesskey             "l">
+<!ENTITY calendar.context.attendance.occurrence.label           "Toś to wustupowanje">
 <!ENTITY calendar.context.attendance.all.label        "Wšykne wustupowanja" >
+
+<!ENTITY calendar.context.attendance.all2.label                 "Dopołny rěd">
+<!ENTITY calendar.context.attendance.send.label                 "Něnto powěźeńku pósłaś">
+<!ENTITY calendar.context.attendance.send.accesskey             "N">
+<!ENTITY calendar.context.attendance.dontsend.label             "Powěźeńku njesłaś">
+<!ENTITY calendar.context.attendance.dontsend.accesskey         "P">
+
+<!ENTITY calendar.context.attendance.occ.accepted.accesskey     "A">
+<!ENTITY calendar.context.attendance.occ.accepted.label         "Akceptěrowany">
+
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Póstup">
