@@ -14,6 +14,19 @@ pref-page =
             [windows] Moslamalar
            *[other] Moslamalar
         }
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input =
+    .style = width: 15.4em
+policies-notice =
+    { PLATFORM() ->
+        [windows] Tashkilotingiz ba’zi parametrlarni o‘zgartirishni bloklab qo‘ygan
+       *[other] Tashkilotingiz ba’zi parametrlarni o‘zgartirishni bloklab qo‘ygan
+    }
 pane-general-title = Umumiy
 category-general =
     .tooltiptext = { pane-general-title }
@@ -56,6 +69,9 @@ always-check-default =
     .accesskey = t
 is-default = { -brand-short-name } - hozircha standart brauzeringiz
 is-not-default = { -brand-short-name } - standart brauzeringiz emas
+set-as-my-default-browser =
+    .label = Asosiy sifatida o‘rnatish
+    .accesskey = A
 startup-page = { -brand-short-name } ishga tushirilganda:
     .accesskey = i
 startup-user-homepage =
@@ -64,6 +80,8 @@ startup-blank-page =
     .label = Bo‘sh sahifa ko‘rsatilsin
 startup-prev-session =
     .label = So‘nggi marta ochilgan barcha oynalar ko‘rsatilsin
+disable-extension =
+    .label = Kengaytmani o‘chirib qo‘yish
 home-page-header = Bosh sahifa ko‘rsatilsin
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -86,6 +104,9 @@ tabs-group-header = Ichki oynalar
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab yordamida ichki oynalarga so‘nggi foydalanish tartibida o‘tish mumkin
     .accesskey = T
+open-new-link-as-tabs =
+    .label = Havolalarni ichki oynada ochish
+    .accesskey = w
 warn-on-close-multiple-tabs =
     .label = Bir nechta ichki oynalar yopilayotganda ogohlantirilsin
     .accesskey = m
@@ -102,6 +123,10 @@ browser-containers-enabled =
     .label = Konteyner ichki oynalarni yoqib qo‘yish
     .accesskey = y
 browser-containers-learn-more = Batafsil ma’lumot
+browser-containers-settings =
+    .label = Sozlamalar
+    .accesskey = s
+containers-disable-alert-title = Barcha Container oynalari yopilsinmi?
 
 ## General Section - Language & Appearance
 
