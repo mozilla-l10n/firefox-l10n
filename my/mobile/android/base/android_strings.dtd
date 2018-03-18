@@ -50,7 +50,7 @@
 <!ENTITY  bookmarks_title "မှတ်တမ်းမှတ်ရာများ">
 <!ENTITY  history_title "မှတ်တမ်း">
 
-<!ENTITY  switch_to_tab "မျက်နှာစာ ပြောင်းကြည့်ပါ">
+<!ENTITY  switch_to_tab "တပ်ဗ်သို့ ပြောင်းကြည့်ပါ">
 
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 <!ENTITY  tab_offline_version "အော့ဖ်လိုင်းဗားရှင်းကို ပြနေသည်">
@@ -59,10 +59,10 @@
 <!ENTITY  crash_message2 "&brandShortName; တွင့် ပြဿနာ နှင့် အပျက်အစီးအချို့ရှိခဲ့သည်။ ဖွင့်ထားသော စာမျက်နှာကို သင်ပြန်ဖွင့်သော အချိန်တွင် &brandShortName; အစ စာမျက်နှာ၌ စာရင်းပြုပေးထားပါမည်။">
 <!ENTITY  crash_send_report_message3 "&vendorShortName;အား ယခုဖြစ်ရပ်အတွက် ပြင်ဆင်နိုင်စေရန် ဆက်သွယ်ပြောကြားပါ။">
 <!ENTITY  crash_include_url2 "ကျွန်ုပ်ရောက်နေသော စာမျက်နှာလိပ်စာကိုပါ ထည့်ပေးလိုက်မည်။">
-<!ENTITY  crash_sorry "ဝမ်းနည်းပါတယ်။">
+<!ENTITY  crash_sorry "တောင်းပန်ပါသည်။">
 <!ENTITY  crash_comment "မှတ်ချက်ပေးပါ (ဤမှတ်ချက်များကို အများပြည်သူက မြင်ရလိမ့်မည်)">
 <!ENTITY  crash_allow_contact2 "&vendorShortName;ကို ကျွန်ုပ်အား ဆက်သွယ်ခွင့် ပေးထားမည်">
-<!ENTITY  crash_email "သင့် အီးမေးလ်">
+<!ENTITY  crash_email "အီးမေးလ်">
 <!ENTITY  crash_closing_alert "ပျက်စီးမှုအကြောင်း သတင်းမပို့တော့ဘဲ ထွက်မည်လား?">
 <!ENTITY  sending_crash_report "ပျက်စီးမှုကို သတင်းပို့နေသည်\u2026">
 <!ENTITY  crash_close_label "ပိတ်ပါ">
@@ -70,15 +70,15 @@
 
 <!ENTITY url_bar_default_text2 "ရှာဖွေ (သို့) လိပ်စာ ထည့်သွင်းပါ">
 
-<!ENTITY bookmark "စာညှပ်">
+<!ENTITY bookmark "စာမှတ်">
 <!ENTITY bookmark_remove "စာမှတ်ကို ဖျက်ရန်">
-<!ENTITY bookmark_added "စာညှပ် ထည့်ပြီး">
+<!ENTITY bookmark_added "စာမှတ် မှတ်ပြီး">
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
 <!ENTITY bookmark_already_added "စာမှတ်လုပ်ထားပြီး">
-<!ENTITY bookmark_removed "စာညှပ်ကို ဖယ်ရှားပြီး။">
-<!ENTITY bookmark_updated "စာညှပ်ကို ပြင်ဆင်သတ်မှတ်ပြီး">
+<!ENTITY bookmark_removed "စာမှတ်ကို ဖျက်ပြီး">
+<!ENTITY bookmark_updated "စာမှတ်ကို ပြင်ဆင်ပြီး">
 <!ENTITY bookmark_options "ရွေးစရာများ">
 <!ENTITY bookmark_save "သိမ်းပါ">
 <!ENTITY screenshot_added_to_bookmarks "မျက်နှာပြင်ပုံရိပ်ဖမ်းချက်ကို စာမှတ်များထဲသို့ ထည့်ပြီးပါပြီ">
