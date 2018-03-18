@@ -351,3 +351,47 @@ network-proxy-connection-learn-more = Læs mere
 network-proxy-connection-settings =
     .label = Indstillinger…
     .accesskey = I
+
+## Search Section
+
+search-bar-header = Søgelinje
+search-bar-hidden =
+    .label = Brug adresselinjen til søgning og navigation
+search-bar-shown =
+    .label = Tilføj søgelinjen til værktøjslinjen
+search-engine-default-header = Standard-søgetjeneste
+search-engine-default-desc = Vælg den søgetjeneste, du vil bruge i adresselinjen og søgelinjen.
+search-suggestions-option =
+    .label = Vis søgeforslag
+    .accesskey = s
+search-show-suggestions-url-bar-option =
+    .label = Vis søgeforslag i adresselinjen
+    .accesskey = a
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Vis søgeforslag før resultater fra din browserhistorik i adresselinjen
+search-suggestions-cant-show = Søgeforslag vil ikke blive vist i adressefeltet, fordi du har sat { -brand-short-name } op til aldrig at gemme historik.
+search-one-click-header = Lyn-søgetjenester
+search-one-click-desc = Vælg de alternative søgetjenester, der vises under adresselinjen og søgelinjen, når du begynder at indtaste en søgeterm.
+search-choose-engine-column =
+    .label = Søgetjeneste
+search-choose-keyword-column =
+    .label = Genvej
+search-restore-default =
+    .label = Gendan standard-søgetjenester
+    .accesskey = g
+search-remove-engine =
+    .label = Fjern
+    .accesskey = f
+search-find-more-link = Find flere søgetjenester
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Genvej findes allerede
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Du har valgt en genvej som allerede bruges af "{ $name }". Vælg venligst en anden.
+search-keyword-warning-bookmark = Du har valgt en genvej som bruges af et bogmærke. Vælg venligst en anden.
