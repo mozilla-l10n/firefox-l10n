@@ -4,9 +4,31 @@
 
 <!ENTITY windowTitle "Firefox WebIDE">
 
+<!ENTITY projectMenu_accesskey "P">
+<!ENTITY projectMenu_newApp_accesskey "N">
+<!ENTITY projectMenu_importPackagedApp_accesskey "P">
+<!ENTITY projectMenu_importHostedApp_accesskey "H">
+<!ENTITY projectMenu_selectApp_accesskey "O">
+<!ENTITY projectMenu_play_accesskey "I">
+<!ENTITY projectMenu_stop_accesskey "S">
+<!ENTITY projectMenu_debug_accesskey "D">
+<!ENTITY projectMenu_remove_accesskey "R">
+<!ENTITY projectMenu_showPrefs_accesskey "e">
+<!ENTITY projectMenu_manageComponents_accesskey "M">
 <!ENTITY projectMenu_refreshTabs_label "Reîmprospătează filele">
 
+<!ENTITY runtimeMenu_accesskey "R">
+<!ENTITY runtimeMenu_disconnect_accesskey "D">
+<!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
+<!ENTITY runtimeMenu_showDetails_accesskey "E">
+<!ENTITY runtimeMenu_showMonitor_accesskey "M">
+<!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
+<!ENTITY runtimeMenu_showSettings_accesskey "s">
 
+<!ENTITY viewMenu_accesskey "V">
+<!ENTITY viewMenu_zoomin_accesskey "I">
+<!ENTITY viewMenu_zoomout_accesskey "O">
+<!ENTITY viewMenu_resetzoom_accesskey "R">
 
 
 <!-- We try to repicate Firefox' bindings: -->

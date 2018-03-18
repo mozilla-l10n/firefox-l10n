@@ -37,6 +37,7 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
+<!ENTITY performanceUI.options.filter.tooltiptext "Selectează ce date să fie afișate în cronologie">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.gear.tooltiptext): This is the
   -  tooltip for the options button. -->
