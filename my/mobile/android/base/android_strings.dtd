@@ -422,7 +422,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; ကျန်းမာရေးအစီရင်ခံစာ">
 <!ENTITY datareporting_fhr_summary2 "&vendorShortName; နှင့် အချက်အလက်မျှဝေခြင်းဖြင့် ဘယောက်ဆာကိုပိုကောင်းအောင်ပြုလုပ်ရာတွင် ကူညီပါ">
-<!ENTITY datareporting_abouthr_title "ကျန်းမာရေးအစီရင်ခံစာ အားကြည့်မည်">
 <!ENTITY datareporting_telemetry_title "တယ်လီမန်ထရီ">
 <!ENTITY datareporting_telemetry_summary "လုပ်ဆောင်ချက်များ ၊ ဟတ်ဒ်ဝဲနှင့် ပြင်ဆင်မှူအချက်အလက်များအား &vendorShortName; အားမျှဝေပေးခြင်း အားဖြင့် &brandShortName; အားပိုကောင်းအောင်လုပ်ရန်ကူညီပါ။">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; သည် ပျက်ဆီးမှု ဆိုင်ရာအချက်အလက်များကို &vendorShortName; အား ပေးပို့ခြင်းဖြင့် သင်၏ သုံးဆွဲမှုကို ပိုမိုတည်ငြိမ်လုံခြုံအောင် ပြုလုပ်ရာတွင် ကူညီပါ။">
@@ -454,6 +453,7 @@
 <!ENTITY share_image_failed "ယခုရုပ်ပုံကို မမျှဝေနိုင်ပါ">
 <!ENTITY save_as_pdf "PDF အနေဖြင့်သိမ်း">
 <!ENTITY print "ပုံနှိပ်ရန်">
+<!ENTITY view_page_source "စာမျက်နှာရင်း မြစ်ကို ကြည့်ပါ">
 <!ENTITY find_in_page "စာမျက်နှာထဲတွင် ရှာပါ">
 <!ENTITY desktop_mode "ဝဘ်ဆိုက်အကြီးကို ပြသပါ">
 <!ENTITY page "စာမျက်နှာ">
@@ -485,7 +485,6 @@
 <!ENTITY contextmenu_open_new_tab "တပ်ဗ်အသစ်တစ်ခုဖွင့်ပါ">
 <!ENTITY contextmenu_open_private_tab "တစ်ကိုယ်ရေသုံးတပ်ဗ်ဖွင့်">
 <!ENTITY contextmenu_remove "ဖယ်ရှားပါ">
-<!ENTITY contextmenu_add_to_launcher "ပင်မစာမျက်နှာသို့ ထည့်ပါ">
 <!ENTITY contextmenu_add_page_shortcut "စာမျက်နှာအမြန်ဖွင့်ခလုတ် ထည့်ပါ">
 <!ENTITY contextmenu_set_as_homepage "ပင်မစာမျက်နှာအဖြစ် သတ်မှတ်ပါ">
 <!ENTITY contextmenu_share "မျှ​ဝေရန်">
@@ -540,7 +539,6 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "စာမျက်နှာကို ဖယ်ရှားပြီး">
-
 <!ENTITY folder_removed "စာတွဲကို ဖယ်ရှားပြီးပြီ">
 
 <!ENTITY bookmark_edit_title "စာမှတ်ကို ပြင်ရန်">
@@ -811,6 +809,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced by the Android OS version (e.g., 14)-->
 <!ENTITY unsupported_sdk_version "တောင်းပန်ပါသည်။ &brandShortName; သည် ဒီကိရိယာ (&formatS1;, &formatS2;) ပေါ်တွင် လုပ်ဆောင်မည် မဟုတ်ပါ။ ကျေးဇူးပြု၍ မှန်ကန်သည့်ဗားရှင်းကို ဆွဲယူပါ။">
 
+<!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
+<!ENTITY corrupt_apk "&brandShortName; အား မဖွင့်နိုင်ပါ  ကျေးဇူးပြုပြီး ပြန်လည်တပ်ဆင်ပါ">
+
 <!ENTITY eol_notification_title2 "&brandShortName; ကို အဆင့်မြှင့်လိမ့်မည် မဟုတ်ပါ">
 <!ENTITY eol_notification_summary "ဆက်လက်လေ့လာရန် ထိပါ">
 
@@ -818,8 +819,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; သည် နောက်ဆုံးပေါ် ဖြစ်သည်">
 <!ENTITY whatsnew_notification_summary "ဒီဗားရှင်းမှာ ဘာတွေအသစ်ပါလာလဲဆိုတာကို ကြည့်ရှုပါ">
-
-<!ENTITY promotion_add_to_homescreen "ပင်မစာမျက်နှာသို့ ထည့်ပါ">
 
 <!ENTITY promotion_add_page_shortcut "စာမျက်နှာအမြန်ဖွင့်ခလုတ် ထည့်ပါ">
 
