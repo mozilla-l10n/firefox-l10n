@@ -5,7 +5,7 @@
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.title            "Chi rij Ach'ojib'al">
 <!ENTITY rights.intro-header     "Chi rij Ach'ojib'al">
-<!ENTITY rights.intro "&brandFullName; jun jamäl kema' chuqa' jaqäl chi nimaläj b'i'aj, ri nuk'un kuma molaj taq winäq aj chijun ri ruwach'ulew. Ja re' ri jujun taq na'oj ri k'atzinel nawetamaj:">
+<!ENTITY rights.intro "&brandFullName; jun jamäl chuqa' jaqäl b'itz'ib' kema', ri nuk'un kuma ach'ala'il chijun ri ruwach'ulew. Ja re' ri jujun taq na'oj k'atzinel nawetamaj:">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
