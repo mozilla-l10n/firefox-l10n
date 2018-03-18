@@ -84,6 +84,9 @@
 <!ENTITY reorderAttachmentsCmd.label "Zmień kolejność załączników…">
 <!ENTITY reorderAttachmentsCmd.accesskey "k">
 <!ENTITY reorderAttachmentsCmd.key "x">
+<!ENTITY toggleAttachmentPaneCmd.label "Lista załączników">
+<!ENTITY toggleAttachmentPaneCmd.accesskey "a">
+<!ENTITY toggleAttachmentPaneCmd.key "a">
 <!ENTITY selectAllCmd.label "Zaznacz wszystko">
 <!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY selectAllCmd.key "A">
@@ -224,6 +227,7 @@
 <!ENTITY quoteButton.tooltip "Zacytuj poprzednią wiadomość">
 <!ENTITY addressButton.tooltip "Wybierz adresata z książki adresowej">
 <!ENTITY attachButton.tooltip "Dodaj pliki do tej wiadomości">
+<!ENTITY attachButton.tooltip2 "Dodaj pliki do tej wiadomości">
 <!ENTITY spellingButton.tooltip "Sprawdź pisownię zaznaczonego fragmentu lub całej wiadomości">
 <!ENTITY saveButton.tooltip "Zapisz wiadomość jako">
 <!ENTITY cutButton.tooltip "Wytnij">
@@ -243,6 +247,9 @@
 <!ENTITY subject.label "Temat:">
 <!ENTITY subject.accesskey "T">
 <!ENTITY attachments.accesskey "a">
+
+<!ENTITY attachmentBucketHeader.tooltip "Lista załączników">
+<!ENTITY attachmentBucketCloseButton.tooltip "Ukryj listę załączników">
 
 <!ENTITY SmileButton.tooltip "Wstaw emotikonkę">
 <!ENTITY smiley1Cmd.label "Uśmiech">
@@ -288,6 +295,8 @@
 <!ENTITY renameAttachment.accesskey "Z">
 <!ENTITY reorderAttachments.label "Zmień kolejność załączników…">
 <!ENTITY reorderAttachments.accesskey "k">
+<!ENTITY removeAllAttachments.label "Usuń wszystkie załączniki">
+<!ENTITY removeAllAttachments.accesskey "U">
 <!ENTITY selectAll.label "Zaznacz wszystko">
 <!ENTITY selectAll.accesskey "w">
 <!ENTITY attachFile.label "Załącz plik">
