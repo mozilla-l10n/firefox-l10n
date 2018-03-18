@@ -24,10 +24,12 @@
 <!ENTITY  paneFilesApplications.title   "ไฟล์และแอปพลิเคชัน">
 <!ENTITY  panePrivacySecurity.title     "ความเป็นส่วนตัวและความปลอดภัย">
 <!ENTITY  paneContainers.title          "แท็บแยกข้อมูล">
-<!ENTITY  paneUpdates.title             "อัปเดต">
+<!ENTITY  paneUpdates.title             "การอัปเดต">
 
 <!ENTITY  languageAndAppearance.label   "ภาษาและลักษณะที่ปรากฏ">
 <!ENTITY  filesAndApplications.label    "ไฟล์และแอปพลิเคชัน">
+
+
 <!ENTITY  browserPrivacy.label          "ความเป็นส่วนตัวเบราว์เซอร์">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->

@@ -62,11 +62,11 @@ available. -->
 <!ENTITY siteData.label                  "ข้อมูลไซต์">
 <!ENTITY clearSiteData.label             "ล้างข้อมูลทั้งหมด">
 <!ENTITY clearSiteData.accesskey         "ง">
+<!ENTITY siteDataSettings.label          "การตั้งค่า…">
+<!ENTITY siteDataSettings.accesskey      "ต">
 <!ENTITY siteData1.label                 "คุกกี้และข้อมูลไซต์">
 <!ENTITY clearSiteData1.label            "ล้างข้อมูล…">
 <!ENTITY clearSiteData1.accesskey        "ล">
-<!ENTITY siteDataSettings.label          "การตั้งค่า…">
-<!ENTITY siteDataSettings.accesskey      "ต">
 <!ENTITY siteDataSettings1.label         "จัดการข้อมูล…">
 <!ENTITY siteDataSettings1.accesskey     "จ">
 <!ENTITY siteDataLearnMoreLink.label     "เรียนรู้เพิ่มเติม">
@@ -91,7 +91,7 @@ available. -->
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
   Please check for possible accesskey conflicts.
 -->
-<!ENTITY updateApplication.label         "อัปเดต &brandShortName;">
+<!ENTITY updateApplication.label         "การอัปเดต &brandShortName;">
 <!-- LOCALIZATION NOTE (updateApplication.version.*): updateApplication.version.pre
 # is followed by a version number, keep the trailing space or replace it with a
 # different character as needed. updateApplication.version.post is displayed
