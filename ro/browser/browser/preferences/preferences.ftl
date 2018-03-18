@@ -62,7 +62,7 @@ startup-header = Pornire
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = Permite ca { -brand-short-name } și Firefox să ruleze în același timp
-use-firefox-sync = Pont: Acesta folosește profiluri separate. Folosește Sincronizare pentru a împărtăși datele între ele.
+use-firefox-sync = Pont: Acesta folosește profiluri separate. Folosește { -sync-brand-short-name } pentru a împărtăși datele între ele.
 get-started-not-logged-in = Autentifică-te la { -sync-brand-short-name }…
 get-started-configured = Deschide preferințele { -sync-brand-short-name }
 always-check-default =
