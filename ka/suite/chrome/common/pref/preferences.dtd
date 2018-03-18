@@ -10,6 +10,7 @@
 <!ENTITY content.label "შიგთავსი">
 <!ENTITY fonts.label "შრიფტები">
 <!ENTITY colors.label "ფერები">
+<!ENTITY media.label "მედიაფაილი">
 <!ENTITY spellingPane.label "მართლწერა">
 
 <!ENTITY navigator.label "ბრაუზერი">
