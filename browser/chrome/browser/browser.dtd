@@ -804,7 +804,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.moreInfoLinkText2 "Mere information">
 
 <!ENTITY identity.permissions "Tilladelser">
-<!ENTITY identity.permissionsEmpty "Du har ikke tildelt dette websted nogle særlige tilladelser.">
+<!ENTITY identity.permissionsEmpty "Du har ikke tildelt dette websted nogen særlige tilladelser.">
 <!ENTITY identity.permissionsReloadHint "Du skal muligvis genindlæse siden, før at ændringerne slår igennem.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
