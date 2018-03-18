@@ -94,9 +94,9 @@
 <!ENTITY maintenance.accesskey  "I">
 <!ENTITY maintenance.tooltip    "Importă și fă copie de siguranță marcajelor">
 
-<!ENTITY backButton.tooltip  "Întoarce-te">
+<!ENTITY backButton.tooltip  "Navighează înapoi">
 
-<!ENTITY forwardButton.tooltip  "Mergi înainte">
+<!ENTITY forwardButton.tooltip  "Navighează înainte">
 
 <!ENTITY detailsPane.more.label "Mai mult">
 <!ENTITY detailsPane.more.accesskey "M">
