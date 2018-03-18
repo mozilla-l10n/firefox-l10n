@@ -25,14 +25,14 @@
 <!ENTITY newevent.status.needsaction.label        "Trjeba akciju" >
 <!ENTITY newevent.status.inprogress.label         "Běžy" >
 <!ENTITY newevent.status.completed.label          "Skóńcony" >
-<!-- The following entity is for New Task dialog only -->
 
+<!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#037; dopołne">
+
 <!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label,
      event.attendees.disallowcounter.label)
    - These three labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
-
 <!ENTITY event.attendees.notify.label                "Wobźělniki informěrowaś">
 <!ENTITY event.attendees.notify.accesskey            "l">
 <!ENTITY event.attendees.notifyundisclosed.label     "Źělone pśepšosenje na wobźělnika">
@@ -41,8 +41,8 @@
 <!ENTITY event.attendees.disallowcounter.label       "Pśeśiwonaraźenje wótpokazaś">
 <!ENTITY event.attendees.disallowcounter.accesskey   "t">
 <!ENTITY event.attendees.disallowcounter.tooltip     "Pódawa, až njebuźośo pśeśiworaźenja akceptěrowaś">
-<!-- Keyboard Shortcuts -->
 
+<!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
 <!ENTITY event.dialog.new.task.key2               "D">
 <!ENTITY event.dialog.new.message.key2            "N">
@@ -56,8 +56,8 @@
 <!ENTITY event.dialog.copy.key                    "C">
 <!ENTITY event.dialog.paste.key                   "V">
 <!ENTITY event.dialog.select.all.key              "A">
-<!-- Menubar -->
 
+<!-- Menubar -->
 <!ENTITY  event.menu.item.new.label                       "Nowy">
 <!ENTITY  event.menu.item.new.accesskey                   "N">
 <!ENTITY  event.menu.item.new.event.label                 "Tšojenje">
@@ -70,21 +70,21 @@
 <!ENTITY  event.menu.item.new.contact.accesskey           "K">
 <!ENTITY  event.menu.item.close.label                     "Zacyniś">
 <!ENTITY  event.menu.item.close.accesskey                 "Z">
+
 <!-- LOCALIZATION NOTE
    - event.menu.item.save.accesskey is used for the "Save" menu item
    - when editing events/tasks in a dialog window.
    - event.menu.item.save.tab.accesskey is used for the "Save" menu item
    - when editing events/tasks in a tab. -->
-
 <!ENTITY  event.menu.item.save.label                      "Składowaś">
 <!ENTITY  event.menu.item.save.accesskey                  "S">
 <!ENTITY  event.menu.item.save.tab.accesskey              "a">
+
 <!-- LOCALIZATION NOTE
     - event.menu.item.saveandclose.accesskey is used for "Save and Close"
     - menu item when editing events/tasks in a dialog window.
     - event.menu.item.saveandclose.tab.accesskey is used for "Save and Close"
     - when editing events/tasks in a tab. -->
-
 <!ENTITY  event.menu.item.saveandclose.label              "Składowaś a zacyniś">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "z">
 <!ENTITY  event.menu.item.saveandclose.tab.accesskey      "z">
@@ -163,8 +163,8 @@
 <!ENTITY event.remove.attendees.accesskey                 "k">
 <!ENTITY event.remove.attendee.label                      "Wobźělnika wótpóraś">
 <!ENTITY event.remove.attendee.accesskey                  "b">
-<!-- Toolbar -->
 
+<!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label2                       "Składowaś">
 <!ENTITY  event.toolbar.saveandclose.label                "Składowaś a zacyniś">
 <!ENTITY  event.toolbar.delete.label                      "Lašowaś">
@@ -180,6 +180,7 @@
 <!ENTITY  event.toolbar.priority.tooltip                  "Prioritu změniś">
 <!ENTITY  event.toolbar.status.tooltip                    "Status změniś">
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Wólny/zabrany cas změniś">
+
 <!-- Counter box -->
 <!-- LOCALIZATON NOTE(counter.button.*)
    - This is only visible in the UI if you have received a counterproposal before and are going to
@@ -187,15 +188,14 @@
    - populate the form fields in the dialog, there's no other immediate action on clicking like with
    - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
-
 <!ENTITY counter.button.proposal.label                    "Naraźenje nałožyś">
 <!ENTITY counter.button.proposal.accesskey                "r">
 <!ENTITY counter.button.proposal.tooltip2                 "Tšojeńske póla wupołniju se z gódnotami z pśeśiwonaraźenja, wšykney wobźělniki informěruju se jano wó składowanju z pśidatnymi změnami abo bźez pśidatnych změnow">
 <!ENTITY counter.button.original.label                    "Originalne daty nałožyś">
 <!ENTITY counter.button.original.accesskey                "i">
 <!ENTITY counter.button.original.tooltip2                 "Póla stajiju se na gódnoty z originalnego tšojenja, nježli až pśeśiwonaraźenje jo se cyniło">
-<!-- Main page -->
 
+<!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Titel:" >
 <!ENTITY event.title.textbox.accesskey                    "i">
 <!ENTITY event.location.label                             "Městno:" >
@@ -261,8 +261,8 @@
 
 <!ENTITY event.statusbarpanel.freebusy.label              "Cas ako:">
 <!ENTITY event.statusbarpanel.privacy.label               "Priwatnosć:">
-<!-- Recurrence dialog -->
 
+<!-- Recurrence dialog -->
 <!ENTITY recurrence.title.label                         "Wóspjetowanje wobźěłaś">
 
 <!ENTITY event.repeat.does.not.repeat.label             "Njewóspjetujo se">
@@ -311,6 +311,7 @@
 <!ENTITY event.recurrence.every.label                        "Kuždy:" >
 <!ENTITY repeat.units.years.both                             "lěto" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "Kužde" >
+
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
      Portuguese: 6 de Setembro
@@ -318,7 +319,6 @@
      event.recurrence.pattern.yearly.of.label is "of" in
      Edit recurrence window -> Recurrence pattern -> Repeat yearly
 -->
-
 <!ENTITY event.recurrence.pattern.yearly.of.label            "" >
 
 <!ENTITY event.recurrence.pattern.yearly.month.1.label       "januar" >
@@ -368,8 +368,8 @@
 <!ENTITY event.recurrence.appointments.label            "Terminy" >
 <!ENTITY event.repeat.until.label                       "Wóspjetowaś až do" >
 <!ENTITY event.recurrence.preview.label                 "Pśeglěd">
-<!-- Attendees dialog -->
 
+<!-- Attendees dialog -->
 <!ENTITY invite.title.label                     "Wobźělniki pśepšosyś">
 <!ENTITY event.organizer.label                  "Organizator">
 <!ENTITY event.freebusy.suggest.slot            "Cas naraźiś:">
@@ -390,14 +390,15 @@
 <!ENTITY event.attendee.usertype.resource       "Resursa">
 <!ENTITY event.attendee.usertype.room           "Rumnosć">
 <!ENTITY event.attendee.usertype.unknown        "Njeznaty">
-<!-- Timezone dialog -->
 
+<!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Pšosym pódajśo casowu conu">
 <!ENTITY event.timezone.custom.label     "Dalšne casowe cony…">
-<!-- Read-Only dialog -->
 
+<!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Powšykne">
 <!ENTITY read.only.title.label           "Titel:">
+<!ENTITY read.only.calendar.label        "Kalender:">
 <!ENTITY read.only.event.start.label     "Zachopny datum:">
 <!ENTITY read.only.task.start.label      "Zachopny datum:">
 <!ENTITY read.only.event.end.label       "Kóńcny datum:">
@@ -416,3 +417,17 @@
 <!ENTITY read.only.attendees.label       "Wobźělniki">
 <!ENTITY read.only.description.label     "Wopisanje">
 <!ENTITY read.only.link.label            "Pśisłušny wótkaz">
+
+<!-- Summary dialog -->
+<!ENTITY summary.dialog.saveclose.label         "Składowaś a zacyniś">
+<!ENTITY summary.dialog.saveclose.tooltiptext   "Změny składowaś a wokno zacyniś, mimo aby se wobźěleński status změnił a wótegrono pósłało">
+<!ENTITY summary.dialog.accept.label            "Akceptěrowaś">
+<!ENTITY summary.dialog.accept.tooltiptext      "Pśepšosenje akceptěrowaś">
+<!ENTITY summary.dialog.tentative.label         "Nachylu">
+<!ENTITY summary.dialog.tentative.tooltiptext   "Pśepšosenje nachylu akceptěrowaś">
+<!ENTITY summary.dialog.decline.label           "Wótpokazaś">
+<!ENTITY summary.dialog.decline.tooltiptext     "Pśepšosenje wótpokazaś">
+<!ENTITY summary.dialog.dontsend.label          "Wótegrono njepósłaś">
+<!ENTITY summary.dialog.dontsend.tooltiptext    "Waš wobźěleński status změniś, mimo aby se organizatoroju wótegrono pósłało a wokno zacyniło">
+<!ENTITY summary.dialog.send.label              "Něnto wótegrono pósłaś">
+<!ENTITY summary.dialog.send.tooltiptext        "Organizatoroju wótegrono pósłaś a wokno zacyniś">
