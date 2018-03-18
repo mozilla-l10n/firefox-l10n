@@ -85,7 +85,7 @@
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "Muuda manuse nime…">
 <!ENTITY renameAttachmentCmd.accesskey "e">
-<!ENTITY reorderAttachmentsCmd.label "Ümberjärjesta manused…">
+<!ENTITY reorderAttachmentsCmd.label "Muuda manuste järjestust…">
 <!ENTITY reorderAttachmentsCmd.accesskey "Ü">
 <!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY toggleAttachmentPaneCmd.label "Manuste paneel">
@@ -118,7 +118,7 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 
 <!-- Reorder Attachment Panel -->
-<!ENTITY reorderAttachmentsPanel.label "Ümberjärjesta manused">
+<!ENTITY reorderAttachmentsPanel.label "Muuda manuste järjestust">
 <!ENTITY moveAttachmentTopPanelBtn.label "Liiguta esimeseks">
 <!ENTITY moveAttachmentUpPanelBtn.label "Liiguta üles">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Liiguta koos">
@@ -324,7 +324,7 @@
 <!ENTITY removeAttachment.accesskey "E">
 <!ENTITY renameAttachment.label "Nimeta ümber...">
 <!ENTITY renameAttachment.accesskey "N">
-<!ENTITY reorderAttachments.label "Ümberjärjesta manused…">
+<!ENTITY reorderAttachments.label "Muuda manuste järjestust…">
 <!ENTITY reorderAttachments.accesskey "Ü">
 <!ENTITY removeAllAttachments.label "Eemalda kõik manused">
 <!ENTITY removeAllAttachments.accesskey "õ">

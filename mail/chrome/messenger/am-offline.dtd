@@ -7,7 +7,7 @@
 <!ENTITY doNotDownloadImap.label "Kettaruumi säästmiseks saab kirjade tõmbamist serverist ja nende säilitamist kohalike koopiatena võrguta režiimis kasutamiseks piirata aja või suuruse järgi.">
 <!ENTITY allFoldersOffline2.label "Antud konto kõigis kaustades olevad kirjad säilitatakse selles arvutis">
 <!ENTITY allFoldersOffline2.accesskey "õ">
-<!ENTITY allFoldersOfflineNote.label "Märkus: selle muudatusega muudetakse kõiki selle konto kaustu. Määrangute sättimiseks kaust haaval, klõpsa nupul Edasijõudnuile….">
+<!ENTITY allFoldersOfflineNote.label "Märkus: selle muudatusega muudetakse kõiki selle konto kaustu. Määrangute sättimiseks kausthaaval klõpsa nupul Edasijõudnuile….">
 <!ENTITY offlineNotDownload.label "suuremaid kirju kui">
 <!ENTITY offlineNotDownload.accesskey "r">
 <!ENTITY autosyncNotDownload.label "Kirju ei tõmmata, kui need on suuremad kui">
