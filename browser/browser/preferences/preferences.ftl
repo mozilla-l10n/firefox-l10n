@@ -73,7 +73,7 @@ startup-header = Opstart
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = Tillad { -brand-short-name } og Firefox at køre samtidig
-use-firefox-sync = Tip: Dette gør brug at separate profiler. Brug { -sync-brand-short-name } til at dele data mellem dem.
+use-firefox-sync = Ved tilladelse af samtidig kørsel benyttes to forskellige profiler. Tip: Brug { -sync-brand-short-name } til at dele data mellem profilerne. 
 get-started-not-logged-in = Log ind på { -sync-brand-short-name }…
 get-started-configured = Åbn indstillinger for { -sync-brand-short-name }
 
@@ -164,7 +164,7 @@ containers-disable-alert-desc =
 
 containers-disable-alert-ok-button =
     { $tabCount ->
-        [one] Luk { $tabCount } kontekst-faneblade
+        [one] Luk { $tabCount } kontekst-faneblad
        *[other] Luk { $tabCount } kontekst-faneblade
     }
 
@@ -238,7 +238,7 @@ download-always-ask-where =
 
 applications-header = Programmer
 
-applications-description = Vælg, hvordan { -brand-short-name } håndterer filer, du henter fra nettet, og de programmer, du bruger, når du browser.
+applications-description = Vælg, hvordan { -brand-short-name } håndterer hentede filer og eksterne programmer. 
 
 applications-filter =
     .placeholder = Søg efter filtyper eller programmer
