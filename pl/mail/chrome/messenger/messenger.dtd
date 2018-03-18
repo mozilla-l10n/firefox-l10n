@@ -492,8 +492,6 @@
 <!ENTITY devToolboxCmd.label "Zestaw narzędzi dla programistów">
 <!ENTITY devToolboxCmd.accesskey "Z">
 <!ENTITY devToolboxCmd.commandkey "i">
-<!ENTITY addonDebugCmd.label "Debuger dodatków">
-<!ENTITY addonDebugCmd.accesskey "D">
 <!ENTITY debugAddonsCmd.label "Debuguj dodatki">
 <!ENTITY debugAddonsCmd.accesskey "D">
 <!ENTITY tabsDebugCmd.label "Debuger ramek treści">

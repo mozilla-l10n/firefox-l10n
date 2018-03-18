@@ -107,19 +107,10 @@
 
 <!ENTITY reorderAttachmentsPanel.label "Zmień kolejność załączników">
 <!ENTITY moveAttachmentTopPanelBtn.label "Przenieś na górę">
-<!ENTITY moveAttachmentTopPanelBtn.accesskey "e">
 <!ENTITY moveAttachmentUpPanelBtn.label "Przenieś do góry">
-<!ENTITY moveAttachmentUpPanelBtn.accesskey "n">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Przenieś razem">
-<!ENTITY moveAttachmentBundleUpPanelBtn.accesskey "r">
 <!ENTITY moveAttachmentDownPanelBtn.label "Przenieś w dół">
-<!ENTITY moveAttachmentDownPanelBtn.accesskey "w">
 <!ENTITY moveAttachmentBottomPanelBtn.label "Przenieś na dół">
-<!ENTITY moveAttachmentBottomPanelBtn.accesskey "d">
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.label "Sortuj zaznaczone: A-Z">
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.accesskey "S">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.label "Sortuj zaznaczone: Z-A">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.accesskey "S">
 <!ENTITY sortAttachmentsPanelBtn.Sort.AZ.label "Sortuj: A-Z">
 <!ENTITY sortAttachmentsPanelBtn.Sort.ZA.label "Sortuj: Z-A">
 <!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.label "Sortuj zaznaczone: A-Z">
