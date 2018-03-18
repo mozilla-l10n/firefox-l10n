@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Huutoro Ndeenka Dewindol">
-<!ENTITY  trackingProtection2.description      "Rewindo ko roɓindagol keɓe banngagol nder lowe geese keewɗe. Rewindo ngoo ina waawi huutoreede ngam sosde heɓtinirde e ɗisde loowdi fawaade e banngagol maa e kabaruuji maa keeriiɗi.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "Huutoro ndeenka dewindagol ngam faddaade ñukkintooɓe anndaaɓe">
 <!ENTITY  trackingProtection3.radioGroupLabel  "Huutoro ndeenka dewindagol ngam faddaade ñukkintooɓe anndaaɓe">
 <!ENTITY  trackingProtectionAlways.label       "Sahaa kala">
 <!ENTITY  trackingProtectionAlways.accesskey   "a">
@@ -12,7 +10,6 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "o">
 <!ENTITY  trackingProtectionNever.label        "Hay sahaa">
 <!ENTITY  trackingProtectionNever.accesskey    "H">
-<!ENTITY  trackingProtectionLearnMore.label    "Ɓeydu humpito">
 <!ENTITY  trackingProtectionLearnMore2.label    "Ɓeydu humpito baɗte Ndeenka Dewindol kam e suturo maa">
 <!ENTITY  trackingProtectionExceptions.label   "Paltooje…">
 <!ENTITY  trackingProtectionExceptions.accesskey "a">
@@ -23,11 +20,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "Ɓeydu humpito">
 <!ENTITY changeBlockList2.label               "Waylu Doggol Daaƴol…">
 <!ENTITY changeBlockList2.accesskey           "W">
-
-<!ENTITY  doNotTrack.description        "Neldu lowe internet siñaal &quot;Hoto rewindo&quot; so a yiɗaa ñukkindeede">
-<!ENTITY  doNotTrack.learnMore.label    "Ɓeydu humpito">
-<!ENTITY  doNotTrack.default.label      "E sahaa ndeenka rewindo tan">
-<!ENTITY  doNotTrack.always.label       "Sahaa kala">
 
 <!ENTITY  history.label                 "Aslol">
 <!ENTITY  permissions.label             "Jamirooje">
@@ -51,8 +43,7 @@
 <!ENTITY  acceptThirdParty2.pre.label     "Jaɓ kukiiji jiggaaɗe">
 <!ENTITY  acceptThirdParty2.pre.accesskey "a">
 
-<!ENTITY  acceptCookies3.label          "Jaɓ cuukiije kam e keɓe lowre iwɗe e lowe geese">
-<!ENTITY  acceptCookies3.accesskey      "A">
+<!ENTITY  acceptCookies4.accesskey      "A">
 
 <!ENTITY  blockCookies.label            "Daaƴ kuukiije kam e keɓe lowre (ina waawi taƴde lowe geese)">
 <!ENTITY  blockCookies.accesskey        "B">
@@ -92,6 +83,7 @@
 <!ENTITY  rememberActions.middle.label        ", walla ">
 <!ENTITY  rememberActions.removeCookies.label "mumtude kukiiji keeriiɗi">
 <!ENTITY  rememberActions.post.label          ".">
+
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; maa huutoro teelte banngagol suturo ɗee tee teskotaako hay aslol gootol tuma nde mbanngoto-ɗaa e nder Geese.">
 
