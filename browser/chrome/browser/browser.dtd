@@ -269,7 +269,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchBookmarks.label              "Søg i bogmærker">
 <!ENTITY bookmarkingTools.label             "Bogmærke-værktøjer">
 <!ENTITY addBookmarksMenu.label             "Føj bogmærke-menuen til værktøjslinjen">
-<!ENTITY removeBookmarksMenu.label          "Fjern bogmærke-menuen fra værktølslinjen">
+<!ENTITY removeBookmarksMenu.label          "Fjern bogmærke-menuen fra værktøjslinjen">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
