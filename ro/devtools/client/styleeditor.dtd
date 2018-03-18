@@ -13,6 +13,7 @@
 <!ENTITY newButton.label            "Nou">
 <!ENTITY newButton.accesskey        "N">
 
+<!ENTITY importButton.label         "Importă…">
 <!ENTITY importButton.accesskey     "I">
 
 
