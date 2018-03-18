@@ -428,6 +428,6 @@
 <!ENTITY summary.dialog.decline.label           "Wotpokazać">
 <!ENTITY summary.dialog.decline.tooltiptext     "Přeprošenje wotpokazać">
 <!ENTITY summary.dialog.dontsend.label          "Wotmołwu njesłać">
-<!ENTITY summary.dialog.dontsend.tooltiptext    "Waš wobdźělenski status změnić, bjeztoho zo by so organizatorej wotmołwa pósłała a wokno začiniła">
+<!ENTITY summary.dialog.dontsend.tooltiptext    "Waš wobdźělenski status změnić, bjeztoho zo by so organizatorej wotmołwa pósłała a wokno začiniło">
 <!ENTITY summary.dialog.send.label              "Nětko wotmołwu pósłać">
 <!ENTITY summary.dialog.send.tooltiptext        "Organizatorej wotmołwu pósłać a wokno začinić">
