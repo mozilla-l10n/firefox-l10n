@@ -28,9 +28,6 @@
 <!ENTITY helpSafeMode.stop.label       "Repornește cu suplimentele activate">
 <!ENTITY helpSafeMode.stop.accesskey   "R">
 
-<!ENTITY healthReport2.label      "Raport de stare &brandShorterName;">
-<!ENTITY healthReport2.accesskey  "e">
-
 <!ENTITY helpTroubleshootingInfo.label      "Informații de depanare">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
@@ -38,7 +35,7 @@
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
 <!ENTITY helpShowTour2.label            "Tur &brandShorterName;">
-<!ENTITY helpShowTour2.accesskey        "T">
+<!ENTITY helpShowTour2.accesskey        "o">
 
 <!ENTITY preferencesCmdMac.label        "Preferințe…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
