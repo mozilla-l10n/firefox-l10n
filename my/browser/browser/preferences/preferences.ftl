@@ -192,12 +192,19 @@ applications-type-column =
 applications-action-column =
     .label = ဆောင်ရွက်ချက်
     .accesskey = A
+drm-content-header = Digital Rights Management (DRM) အကြောင်းအရာ
+play-drm-content =
+    .label = DRMဖြင့်ထိန်းထားသော အကြောင်းအရာကို ဖွင့်ပါ
+    .accesskey = p
 play-drm-content-learn-more = ပိုမိုလေ့လာရန်
 update-application-title = { -brand-short-name } မွမ်းမံမှုများ
 update-history =
     .label = မြှင့်တင်မှုမှတ်တမ်းကို ပြပါ…
     .accesskey = p
 update-application-allow-description = { -brand-short-name } ကို ဆောင်ရွက်ခွင့်ပြုရန်
+update-application-auto =
+    .label = အဆင့်မြှင့်တင်မှုကို အလိုလျောက် ဆောင်ရွက်ပါ (အကြံပြုထားသည်)
+    .accesskey = a
 update-application-check-choose =
     .label = အဆင့်မြှင့်တင်မှုများ ရှိ/မရှိ စစ်ဆေးပါ၊ သို့သော် ၎င်းတို့ကို တပ်ဆင်မည်ဆိုပါက ရွေးချယ်ခွင့်ပေးပါ။
     .accesskey = C
@@ -214,6 +221,10 @@ update-enable-search-update =
 ## General Section - Performance
 
 performance-title = စွမ်းဆောင်ရည်
+performance-use-recommended-settings-checkbox =
+    .label = အကြံပြုထားသော စွမ်းဆောင်ရည်ဆိုင်ရာ အပြင်အဆင်ကို အသုံးပြုပါ
+    .accesskey = u
+performance-settings-learn-more = ပိုမိုလေ့လာရန်
 performance-allow-hw-accel =
     .label = ဖြစ်နိုင်လျှင် စက်ကိရိယာဖြင့် အရှိန်မြှင့်တင်ခြင်းကို အသုံးပြုပါ
     .accesskey = r
@@ -243,13 +254,20 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
+network-proxy-connection-learn-more = ပိုမိုလေ့လာရန်
 network-proxy-connection-settings =
     .label = အပြင်အဆင်များ...
     .accesskey = e
 
 ## Search Section
 
+search-bar-header = ရှာဖွေရေးဘားတန်း
+search-bar-hidden =
+    .label = ရှာဖွေရန်နှင့် သွားရောက်ရန် လိပ်စာဘားတန်းကို အသုံးပြုပါ
+search-bar-shown =
+    .label = ရှာဖွေရေးဘားတန်းကို ကိရိယာဘားတန်းသို့ ထည့်ပါ
 search-engine-default-header = မူသေ ရှာဖွေရေး ယန္တရား
+search-engine-default-desc = လိပ်စာဘားတန်းနှင့် ရှာဖွေရေးဘားတန်းတွင် အသုံးပြုရန် မူသေရှာဖွေရေးယန္တရားကို ရွေးချယ်သတ်မှတ်ပါ။
 search-suggestions-option =
     .label = ရှာဖွေရေး အကြံပြုချက်များကို ပြပါ
     .accesskey = s
@@ -265,6 +283,7 @@ search-restore-default =
 search-remove-engine =
     .label = ဖယ်ရှားပါ
     .accesskey = r
+search-find-more-link = နောက်ထပ်ရှာဖွေရေးယန္တရားများကို ရှာပါ
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = သော့ချက် စာလုံး ပုံတူပွားပါ

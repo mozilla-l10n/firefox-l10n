@@ -111,6 +111,8 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "စာမျက်နှာအချက်အလက်">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.label "Layout Debugger">
+<!ENTITY ldbCmd.accesskey "L">
 <!ENTITY mirrorTabCmd.label "တပ်ဗ်ကို အပြိုင်ကြည့်ရန်">
 <!ENTITY mirrorTabCmd.accesskey "M">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -125,6 +127,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "တပ်ဗ်အားလုံးကို ပြပါ">
 <!ENTITY showAllTabsCmd.accesskey "A">
 <!ENTITY toggleReaderMode.key "R">
+
+<!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; သို့ လက်မှတ်ထိုးဝင်ပါ">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; ၏ အပြင်အဆင်များကို ဖွင့်ပါ">
@@ -227,15 +231,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "စာမျက်နှာဘာသာပြန်ခြင်းကို စီမံခန့်ခွဲရန်">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM အပျော့ထည်များ အသုံးပြုခြင်းကို စီမံရန်">
 
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "ယခုဝဘ်ဆိုက်အတွက် ကင်မရာအသုံးပြုခြင်းကို တားဆီးထားသည်။">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "ယခုဝဘ်ဆိုက်အတွက် မိုက္ကရိုဖုန်းအသုံးပြုခြင်းကို တားဆီးထားသည်။">
 <!ENTITY urlbar.screenBlocked.tooltip            "ယခုဝဘ်ဆိုက်ကို မျက်နှာပြင် မျှဝေအသုံးပြုခြင်းမှ တားဆီးထားသည်။">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "ယခုဝဘ်ဆိုက်အတွက် တည်နေရာဆိုင်ရာ အချက်အလက်ကောက်ယူခြင်းကို တားဆီးထားသည်။">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "ယခုဝဘ်ဆိုက်အတွက် အချက်အလက်သိမ်းဆည်းခြင်းကို တားဆီးထားသည်။">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "ယခုဝဘ်ဆိုက်အတွက် အသိပေးချက်များပြသခြင်းကို တားဆီးထားသည်။">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "ယခုဝဘ်ဆိုက်အတွက် အချက်အလက်သိမ်းဆည်းခြင်းကို တားဆီးထားသည်။">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "ယခုဝဘ်ဆိုက်အတွက် ကင်မရာအသုံးပြုခြင်းကို တားဆီးထားသည်။">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "မှတ်တမ်းကို ပြပါ">
 
@@ -301,7 +305,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "သီးသန့်ဝင်းဒိုးအသစ်">
 <!ENTITY newPrivateWindow.accesskey "W">
-<!ENTITY newNonRemoteWindow.label   "Non-e10s ဝင်းဒိုးအသစ်">
 
 <!ENTITY editMenu.label         "တည်းဖြတ်">
 <!ENTITY editMenu.accesskey       "E">
@@ -356,18 +359,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "မှတ်တမ်း အားလုံးကို ပြပါ">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "စိတ်ကြိုက်ပြင်ဆင်ရန်">
-<!ENTITY appMenuCustomize.tooltip "မီနူးနှင့် ကိရိယာအတန်းများကို စိတ်ကြိုက် ပြုပြင်ရန်">
-<!ENTITY appMenuCustomizeExit.label "ပြုပြင်ခြင်းမှ ထွက်ရန်">
-<!ENTITY appMenuCustomizeExit.tooltip "ပြုပြင်မှုကို အပြီးသတ်ရန်">
-
 <!ENTITY appMenuHistory.showAll.label "မှတ်တမ်းအားလုံးကို ပြပါ">
 <!ENTITY appMenuHistory.clearRecent.label "လတ်တလော အသုံးပြုထားသည့် မှတ်တမ်းကို ရှင်းပါ…">
 <!ENTITY appMenuHistory.restoreSession.label "အရင်သုံးခဲ့သည့်အတိုင်း ပြန်ဖွင့်ရန်">
 <!ENTITY appMenuHistory.viewSidebar.label "အသုံးပြုမှတ်တမ်း ဘေးတန်းကို ဖွင့်ပါ">
 <!ENTITY appMenuHistory.recentHistory.label "လတ်တလော မှတ်တမ်း">
 <!ENTITY appMenuHelp.label "အကူအညီ">
-<!ENTITY appMenuHelp.tooltip "အကူအညီမီနူးကို ဖွင့်">
 
 <!ENTITY appMenuRemoteTabs.label "ချိတ်ဆက်ထားသော တပ်ဗ်များ">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -387,7 +384,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "ထပ်တူပြုထားသည့် တပ်ဗ်များ မရှိသေးပါ…။">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "အခြားကိရိယာများမှ တပ်ဗ်များကို ဒီမှာ ကြည့်ရှုချင်ပါသလား။">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync ဆိုင်ရာ အပြင်အဆင်များ">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "သင့်အခြားကိရိယာများရှိ တပ်ဗ်စာရင်းကို ကြည့်ရန် ဝင်ရောက်ပါ။">
@@ -395,7 +391,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Sync ကို အသုံးပြုရန် လက်မှတ်ထိုး ဝင်ရောက်ပါ">
 <!ENTITY appMenuRemoteTabs.managedevices.label "စက်ကရိယာများကို ထိန်းသိမ်းမည်…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "ထပ်တူပြုပြီးသောတပ်ဗ်များ ဘေးတန်းကို ကြည့်ရန်">
-
 <!ENTITY appMenuRemoteTabs.connectdevice.label "အခြားကိရိယာကို ချိတ်ဆက်ရန်">
 
 <!ENTITY appMenuRecentHighlights.label "လတ်တလော ဦးစားပေးအကြောင်းအရာများ">
@@ -442,14 +437,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "ထပ်ပေါင်းဆော့ဖ်ဝဲလ်။">
 <!ENTITY urlbar.switchToTab.label     "ထိုတပ်ဗ်သို့ ပြောင်းကြည့်မည်">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "ရှာဖွေမှုကို ပိုမိုလုပ်ဆောင်နိုင်စေရန် အကြံပြုချက်နှင့် တွဲဖက် အသုံးပြုလိုပါသလား။">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "ပိုမိုလေ့လာရန်…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "မဆောင်ရွက်တော့ပါ">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "ဆောင်ရွက်မည်">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "Y">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "အကြံပြုချက်။">
@@ -728,8 +715,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "အခြေခံ စာမျက်နှာ ပုံစံ">
 <!ENTITY pageStylePersistentOnly.accesskey "B">
 
-<!ENTITY pageReportIcon.tooltip            "ဒီဝဘ်ဆိုက်အတွက် pop-up ပိတ်ဆို့မှုအပြင်အဆင်များကို ပြောင်းလဲရန်">
-
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -814,7 +799,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "ချိတ်ဆက်ထားသော တပ်ဗ်များ">
 <!ENTITY syncedTabs.sidebar.noclients.label    "သင့်အခြားကိရိယာများရှိ တပ်ဗ်များကို ဒီနေရာတွင်ကြည့်ရန် ထိုကိရိယာများရှိ မီးမြေခွေးသို့ ဝင်ရောက်ပါ။">
-<!ENTITY syncedTabs.sidebar.noclients.title    "ချိတ်ဆက်ထားသည့်တပ်ဗ်များ… မရှိသေးပါ။">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "အခြားကိရိယာများမှ သင့်တပ်ဗ်များကို ဒီနေရာမှာ မြင်တွေ့ချင်ပါသလား။">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "သင့်အခြားကိရိယာများရှိ တဗ်စာရင်းကို ကြည့်ရန် ဝင်ရောက်ပါ။">
 <!ENTITY syncedTabs.sidebar.unverified.label   "အကောင့်ကို အတည်ပြုရန် လိုအပ်သည်။">
@@ -824,7 +808,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "သင့်အခြား ကိရိယာများမှ တပ်ဗ်စာရင်းကို ကြည့်ရန် တပ်ဗ်ထပ်တူပြုအသုံးပြုခြင်းကို ဖွင့်ပါ။">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "ထပ်တူပြုပြီးသော တပ်ဗ်များကို ရှာရန်">
-
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "အခြားကိရိယာကို ချိတ်ဆက်ရန်">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
@@ -860,8 +843,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "တစ်ပြေးညီဖြစ်ရန်">
 
-<!ENTITY customizeMode.menuAndToolbars.empty "နောက်ထပ် ကိရိယာများ လိုအပ်ပါသလား။">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "မြောက်မြားစွာသော အတ်အွန်များထဲမှ ရွေးချယ်အသုံးပြုပါ">
 <!ENTITY customizeMode.restoreDefaults "မူလအတိုင်း သတ်မှတ်ပါ">
 <!ENTITY customizeMode.done "ပြီးပြီ">
 <!ENTITY customizeMode.titlebar "ခေါင်းစီး ဘား">
@@ -988,11 +969,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName; ကို အဆင့်မြှင့်ရန် ပြန်ဖွင့်ပါ">
 
+
 <!ENTITY newTabControlled.keepButton.accesskey "K">
 <!ENTITY newTabControlled.restoreButton.accesskey "R">
 
-<!ENTITY pageActionButton.tooltip "စာမျက်နှာရှိ ဆောင်ရွက်နိုင်သည်များ">
 
+<!ENTITY pageActionButton.tooltip "စာမျက်နှာရှိ ဆောင်ရွက်နိုင်သည်များ">
 
 <!ENTITY sendToDevice.syncNotReady.label "ကိရိယာများကို ထပ်တူပြုနေသည်…">
 
@@ -1001,3 +983,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
      used as a textual label for the indicator used by assistive technology
      users. -->
+
+<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
+     The first <image> tag is replaced with the icon for the add-ons menu.
+     The second <image> tag is replaced with the icon for the toolbar menu. -->
