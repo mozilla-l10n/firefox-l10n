@@ -9,6 +9,7 @@
 <!ENTITY     statusCol.label               "Stare">
 <!ENTITY     cookiesCol.label              "Cookie-uri">
 <!ENTITY     usageCol.label                "Stocare">
+<!ENTITY     lastAccessedCol.label                "Ultima utilizare">
 <!ENTITY     searchTextboxPlaceHolder             "Caută site-uri web">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
 <!ENTITY     removeSelected.label          "Elimină selecția">
