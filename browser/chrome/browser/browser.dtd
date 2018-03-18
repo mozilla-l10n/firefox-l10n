@@ -983,11 +983,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Reiniciar para actualizar &brandShorterName;">
 
 <!ENTITY newTabControlled.message "Una extensión ha cambiado la página que se ve al abrir una nueva pestaña. Se puede restaurar la configuración si no desea este cambio.">
+
 <!ENTITY newTabControlled.header.message "La nueva pestaña ha cambiado.">
 <!ENTITY newTabControlled.keepButton.label "Mantener cambios">
 <!ENTITY newTabControlled.keepButton.accesskey "t">
 <!ENTITY newTabControlled.restoreButton.label "Restaurar configuración">
 <!ENTITY newTabControlled.restoreButton.accesskey "R">
+
+<!ENTITY newTabControlled.disableButton.label "Deshabilitar extensión">
+<!ENTITY newTabControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "Acciones de página">
 <!ENTITY pageAction.addToUrlbar.label "Agregar a la barra de direcciones">
