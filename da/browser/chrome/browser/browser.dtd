@@ -245,7 +245,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Du har blokeret kanvas-ekstraktion for dette websted.">
 
-<!ENTITY urlbar.flashPluginBlocked.tooltip       "Du har blokeret anvendelse af Adobe Flash-plugin'en for dette websted.">
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "Du har blokeret anvendelse af Adobe Flash-plugin'et for dette websted.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Du har blokeret MIDI-adgang for dette websted.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Vis historik">
@@ -1017,7 +1017,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.restoreButton.label "Nulstil indstillinger">
 <!ENTITY newTabControlled.restoreButton.accesskey "N">
 
-<!ENTITY newTabControlled.disableButton.label "Deaktiverer udvidelse">
+<!ENTITY newTabControlled.disableButton.label "Deaktiver udvidelse">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "Sidehandlinger">
