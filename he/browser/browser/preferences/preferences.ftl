@@ -55,6 +55,16 @@ should-restart-ok = הפעלת { -brand-short-name } מחדש כעת
 cancel-no-restart-button = ביטול
 restart-later = הפעלה מחדש מאוחר יותר
 
+## Preferences UI Search Results
+
+search-results-header = תוצאות חיפוש
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] אין תוצאות באפשרויות לביטוי „<span></span>“, עמך הסליחה.
+       *[other] אין תוצאות בהעדפות לביטוי „<span></span>“, עמך הסליחה.
+    }
+
 ## General Section
 
 startup-header = הפעלה
