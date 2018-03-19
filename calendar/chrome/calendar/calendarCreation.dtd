@@ -20,3 +20,26 @@
 
 <!ENTITY finishpage.shortdescription  "Creouse o calendario" >
 <!ENTITY finishpage.longdescription   "Creouse o seu calendario." >
+
+<!-- Below are new strings for the revised new calendar dialog. The above strings should be
+    removed/renamed later on -->
+
+<!ENTITY sourcetabs.other.label  "Outro">
+
+<!ENTITY buttons.create.label "Crear calendario">
+<!ENTITY buttons.create.accesskey "r">
+
+<!ENTITY buttons.find.label "Atopar calendarios">
+<!ENTITY buttons.find.accesskey "l">
+
+<!ENTITY buttons.back.label "Atrás">
+<!ENTITY buttons.back.accesskey "A">
+
+<!ENTITY buttons.subscribe.label "Subscribir">
+<!ENTITY buttons.subscribe.accesskey "S">
+
+<!ENTITY calendartype.label "Tipo de calendario:">
+<!ENTITY location.label "Localización:">
+<!ENTITY location.placeholder "URL ou nome para o servidor do calendario">
+
+
