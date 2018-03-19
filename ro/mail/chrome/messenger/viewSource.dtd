@@ -1,0 +1,44 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- extracted from content/viewSource.xul -->
+
+<!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE -->
+<!ENTITY mainWindow.title "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifier "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifierseparator " - ">
+<!ENTITY mainWindow.preface "Sursă a: ">
+
+<!ENTITY fileMenu.label "Fișier">
+<!ENTITY fileMenu.accesskey "F">
+<!ENTITY savePageCmd.label "Salvează pagina ca…">
+<!ENTITY savePageCmd.commandkey "S">
+<!ENTITY pageSetupCmd.label "Aranjare în pagină…">
+<!ENTITY printPreviewCmd.label "Previzualizează pentru tipărire">
+<!ENTITY closeCmd.label "Închide">
+
+<!-- LOCALIZATION NOTE :
+textEnlarge.commandkey3, textReduce.commandkey2 and
+textReset.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+
+
+<!ENTITY viewMenu.label           "Vizualizare">
+<!ENTITY reloadCmd.label "Reîncărcare">
+<!ENTITY menu_wrapLongLines.title "Înfășurare linii lungi">
+<!ENTITY menu_highlightSyntax.label "Evidențierea sintaxei">
+<!ENTITY menu_textSize.label "Mărimea textului">
+
+<!ENTITY findAgainCmd.label  "Repetă căutarea">
+
+<!ENTITY backCmd.label "Înapoi">
+<!ENTITY forwardCmd.label "Înainte">
+
+<!ENTITY copyLinkCmd.label "Copiază adresa linkului">
+<!ENTITY copyEmailCmd.label "Copiază adresa de e-mail">
+
