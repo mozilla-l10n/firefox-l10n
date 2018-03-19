@@ -242,6 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.popupBlocked.tooltip             "તમે આ વેબસાઇટ માટે પોપ-અપ્સને અવરોધિત કર્યા છે.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "તમે આ વેબસાઇટ માટે કેનવાસ ડેટા નિષ્કર્ષણને અવરોધિત કર્યો છે.">
 
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "તમે Adobe Flash પ્લગઇનનો ઉપયોગ કરવાથી આ વેબસાઇટને અવરોધિત કરી છે.">
 <!ENTITY urlbar.midiBlocked.tooltip              "તમે આ વેબસાઇટ માટે MIDI ઍક્સેસને અવરોધિત કરી છે.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "ઇતિહાસ બતાવો">
