@@ -33,3 +33,6 @@
 <!ENTITY ChatName.label                        "채팅 이름">
 <!ENTITY ChatName.accesskey                    "C">
 <!ENTITY sortAscending.label                   "오름차순">
+<!ENTITY sortAscending.accesskey               "A">
+<!ENTITY sortDescending.label                  "내림차순">
+<!ENTITY sortDescending.accesskey              "D">
