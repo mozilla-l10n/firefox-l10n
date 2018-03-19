@@ -2,14 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard.title          "Sähköpostitilin asennus">
+<!ENTITY autoconfigWizard2.title         "Määritä olemassa oleva sähköpostitili">
 <!ENTITY name.label                      "Nimi:">
 <!ENTITY name.accesskey                  "N">
 <!ENTITY name.placeholder                "Etunimi Sukunimi">
 <!ENTITY name.text                       "Nimesi muille näkyvä muoto">
 <!ENTITY email.label                     "Sähköpostiosoite:">
 <!ENTITY email.accesskey                 "S">
-<!ENTITY email.placeholder               "email@example.com">
+<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
+<!ENTITY email2.placeholder              "you@example.com">
+<!ENTITY email.text                      "Nykyinen sähköpostiosoitteesi">
 <!ENTITY password.label                  "Salasana:">
 <!ENTITY password.accesskey              "a">
 <!ENTITY password.placeholder            "Salasana">
@@ -53,8 +55,8 @@
 <!ENTITY half-manual-test.accesskey      "T">
 <!ENTITY manual-edit.label               "Muokkaa asetuksia">
 <!ENTITY manual-edit.accesskey           "M">
-<!ENTITY switch-to-provisioner.label     "Hanki uusi tili">
-<!ENTITY switch-to-provisioner.accesskey "H">
+<!ENTITY open-provisioner.label          "Hanki uusi sähköpostiosoite…">
+<!ENTITY open-provisioner.accesskey      "u">
 
 
 <!ENTITY warning.label                   "Varoitus!">

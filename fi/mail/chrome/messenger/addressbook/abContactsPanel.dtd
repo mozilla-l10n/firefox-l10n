@@ -2,6 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY propertiesMenu.label               "Ominaisuudet">
+<!ENTITY propertiesMenu.accesskey           "i">
+<!ENTITY propertiesCmd.key                  "i">
+<!ENTITY abPropertiesMenu.label             "Osoitekirjan ominaisuudet">
+<!ENTITY abPropertiesMenu.accesskey         "i">
+<!ENTITY contactPropertiesMenu.label        "Yhteyshenkilön ominaisuudet">
+<!ENTITY contactPropertiesMenu.accesskey    "i">
 
 <!ENTITY addressbookPicker.label            "Osoitekirja:">
 <!ENTITY addressbookPicker.accesskey        "O">
@@ -15,6 +22,7 @@
 <!ENTITY addtoBccFieldMenu.accesskey        "p">
 <!ENTITY deleteAddrBookCard.label           "Poista">
 <!ENTITY deleteAddrBookCard.accesskey       "P">
+
 
 <!ENTITY toButton.label                     "Vastaanottaja:">
 <!ENTITY toButton.accesskey                 "V">
