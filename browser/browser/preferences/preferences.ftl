@@ -22,6 +22,21 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] Najít v možnostech
+           *[other] Najít v předvolbách
+        }
 policies-notice =
     { PLATFORM() ->
         [windows] Vaše organizace zakázala změny některých možností.
@@ -54,6 +69,17 @@ should-restart-title = Restartovat aplikaci { -brand-short-name }
 should-restart-ok = Restartovat aplikaci { -brand-short-name }
 cancel-no-restart-button = Zrušit
 restart-later = Restartovat později
+
+## Preferences UI Search Results
+
+search-results-header = Výsledky hledání
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] Je nám líto, pro „<span></span>“ jsme v možnostech nic nenašli.
+       *[other] Je nám líto, pro „<span></span>“ jsme v předvolbách nic nenašli.
+    }
+search-results-need-help = Potřebujete pomoc? Navštivte <a>Podporu aplikace { -brand-short-name }</a>
 
 ## General Section
 
