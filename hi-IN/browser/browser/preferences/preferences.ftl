@@ -79,6 +79,7 @@ search-results-sorry-message =
         [windows] माफ़ कीजिए! “<span></span>” के लिए विकल्पों में कोई परिणाम नहीं है.
        *[other] माफ़ कीजिए! “<span></span>” के लिए वरियताओं में कोई परिणाम नहीं है.
     }
+search-results-need-help = मदद चाहिये? <a>{ -brand-short-name } समर्थन</a> देखें
 
 ## General Section
 
