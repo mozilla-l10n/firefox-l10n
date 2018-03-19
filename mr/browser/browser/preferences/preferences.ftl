@@ -49,6 +49,16 @@ should-restart-title = { -brand-short-name }ला पुन्हा सुर�
 should-restart-ok = { -brand-short-name } लगेच पुनर्रारंभित करा
 restart-later = नंतर पुनःसुरु करा
 
+## Preferences UI Search Results
+
+search-results-header = शोध परिणाम
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] माफ करा! “<span></span>” च्या पर्यायासाठी कोणतेही परिणाम नाहीत.
+       *[other] माफ करा! “<span></span>” च्या प्राधान्यतेसाठी कोणतेही परिणाम नाहीत.
+    }
+
 ## General Section
 
 startup-header = प्रारंभीकरण
