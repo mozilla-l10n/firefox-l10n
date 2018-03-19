@@ -34,9 +34,18 @@
 <!ENTITY pref.default_task_offset_next_hour.label "Relativo a próxima hora">
 
 <!ENTITY pref.calendar.todaypane.agenda.caption "Panel de hoxe">
-<!ENTITY pref.soondays.label "A sección proximamente amosa:">
-<!ENTITY pref.soondays.accesskey "x">
+<!-- LOCALIZATION NOTE (pref.soondays2.label):
+     "Upcoming" is the name of a section and the translation must match the
+     translation of that section name (calendar.upcoming.button.label). Also,
+     it should be upper case (as a proper name) if the target language permits.
+  -->
+<!ENTITY pref.soondays2.label 'A sección "Proximamente" amosa:'>
+<!ENTITY pref.soondays2.accesskey "P">
 
 <!ENTITY pref.accessibility.label "Accesibilidade" >
 <!ENTITY pref.systemcolors.label "Optimizar as cores para accesibilidade" >
 <!ENTITY pref.systemcolors.accesskey "c">
+
+<!ENTITY pref.eventsandtasks.label "Eventos e tarefas" >
+<!ENTITY pref.editInTab.label "Editar eventos e tarefas nunha lapela en vez de nunha xanela de diálogo." >
+<!ENTITY pref.editInTab.accesskey "t">
