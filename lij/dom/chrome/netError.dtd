@@ -93,3 +93,5 @@
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>o deuvia ina tecnòlogia vegia ch'a peu ese atacâ. Un bonægia o peu pigiâse con façilitæ de informaçioin che ti pensavi fisan a-o seguo. L'aministratô do scito o deve dâ revatto a sto server primma che ti peu vixitalo.</p><p>Còdice erô: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY blockedByPolicy.title "Pagina Blocâ">
