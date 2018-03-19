@@ -88,14 +88,17 @@
 <!ENTITY reorderAttachmentsCmd.label "Omorganiser vedlegg…">
 <!ENTITY reorderAttachmentsCmd.accesskey "s">
 <!ENTITY reorderAttachmentsCmd.key "x">
+<!ENTITY toggleAttachmentPaneCmd.label "Vedleggspanel">
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
      For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
      as attachments.accesskey. -->
+<!ENTITY toggleAttachmentPaneCmd.accesskey "g">
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
      With OS-specific access modifier, this defines the shortcut key for showing/
      hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
      toggleAttachmentPaneCmd.key and attachments.accesskey must be the same
      for the bucket view state machinery to work. -->
+<!ENTITY toggleAttachmentPaneCmd.key "m">
 <!ENTITY selectAllCmd.label "Merk alt">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "M">
@@ -273,6 +276,8 @@
      work, as the shortcut key functionality supersedes the access key. -->
 <!ENTITY attachments.accesskey "d">
 
+<!ENTITY attachmentBucketHeader.tooltip "Vedleggspanel">
+<!ENTITY attachmentBucketCloseButton.tooltip "Skjul vedleggspanelet">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Sett inn smilefjes">
@@ -321,6 +326,8 @@
 <!ENTITY renameAttachment.accesskey "E">
 <!ENTITY reorderAttachments.label "Omorganiser vedlegg…">
 <!ENTITY reorderAttachments.accesskey "s">
+<!ENTITY removeAllAttachments.label "Fjern alle vedlegg">
+<!ENTITY removeAllAttachments.accesskey "v">
 <!ENTITY selectAll.label "Merk alt">
 <!ENTITY selectAll.accesskey "M">
 <!ENTITY attachFile.label "Legg ved filer …">
