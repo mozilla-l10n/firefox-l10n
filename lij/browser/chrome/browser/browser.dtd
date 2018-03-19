@@ -214,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Arvi panello mesaggi">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Arvi o panello de domanda de l'indirisso">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Arvi o panello de instalaçion conponente azonto">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Gestisci o permisso d'estraçion canvas">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Arvi o panello de mesaggio sarvataggio feua linia">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Arvi panello de mesaggio sarvataggio paròlle segrete">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Gestion plugin">
@@ -230,6 +231,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Gestion traduçion da pagina">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Gestisci l'uzo do software DRM">
 
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Arvi panello MIDI">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "T'æ blocou a fòtocamera pe sto scito.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "T'æ blocou o micròfono pe sto scito.">
@@ -237,7 +239,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "T'æ blocou e informaçioin de localizaçion pe sto scito.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "T'æ blocou e notifiche pe sto scito.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "T'æ blocou o sarvataggio persistente pe sto scito.">
+<!ENTITY urlbar.popupBlocked.tooltip             "Ti æ blocou i pop-up pe sto scito.">
+<!ENTITY urlbar.canvasBlocked.tooltip            "Ti æ blocou l'estaçion dati canvas pe sto scito.">
 
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "Ti æ blocou l'izo do plugin Adobe Flash pe sto scito.">
+<!ENTITY urlbar.midiBlocked.tooltip              "Ti æ blocou l'acesso MIDI pe sto scito.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Fanni vedde a stöia">
 
@@ -384,10 +390,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "T'eu amiâ chi i teu feuggi da atri dipoxitivi?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferense Sync">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Arvi preferense de scincronizaçion">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Acedi pe vedde l'elenco di feuggi averti inti atri dispoxitivi.">
+<!ENTITY appMenuRemoteTabs.unverified.label "O teu account o deve ese verificou.">
 <!ENTITY appMenuRemoteTabs.signin.label "Acedi a Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Gestisci Dispoxitivi…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Fanni vedde a bara di feuggi scincronizæ">
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Conetti 'n atro dispoxitivo">
 
 <!ENTITY appMenuRecentHighlights.label "Evidensiæ da pöco">
 
@@ -429,6 +438,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Scrivi 'n indirisso ò iniçia 'na riçerca">
+<!ENTITY urlbar.placeholder3          "Scrivi cöse çercâ e indirissi chie">
 <!ENTITY urlbar.accesskey             "S">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Estenscioin:">
@@ -556,6 +566,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Inpòsta comme sfondo do desktop…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "s">
 <!ENTITY bookmarkPageCmd2.label       "Azonzi questa pagina a-i segnalibbri">
+<!ENTITY bookmarkPageCmd2.accesskey   "n">
 <!ENTITY bookmarkThisLinkCmd.label      "Azonzi questo colegamento a-i segnalibbri">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Azonzi sto riquaddro a-i segnalibbri">
@@ -742,6 +753,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Seguessa do Scito">
 
 <!ENTITY identity.connectionSecure "Conescion segua">
 <!ENTITY identity.connectionNotSecure "Conescion no segua">
@@ -795,12 +807,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.label    "Acedi a Firefox con atri dispoxitivi pe vedde i feuggi averti.">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Comme pòsso amiâ in sta sescion i feuggi da atri dipoxitivi?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Acedi pe amiâ un elenco di feuggi averti inti atri dispoxitivi.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "O teu account o deve ese verificou.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Nisciun feuggio averto">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Arvi e inpostaçioin de &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Ativa a scincronizaçioin di feuggi pe vedde i feuggi che son inti atri dispoxitivi.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Çerca feuggio scincronizæ">
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Conetti 'n atro dispoxitivo">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -968,10 +982,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Arvi torna pe agiornâ &brandShorterName;">
 
+<!ENTITY newTabControlled.message "'Na estenscion a l'à cangiou a pagina che ti veddi quande t'arvi 'n neuvo fueggio. Ti peu regpigiâ i teu inpostaçioin se no ti veu sto cangio.">
+
+<!ENTITY newTabControlled.header.message "A pagina neuvo feuggio a l'é cangiâ.">
+<!ENTITY newTabControlled.keepButton.label "Mantegni i cangi">
+<!ENTITY newTabControlled.keepButton.accesskey "c">
+<!ENTITY newTabControlled.restoreButton.label "Repiggia inpostaçioin">
+<!ENTITY newTabControlled.restoreButton.accesskey "R">
+
+<!ENTITY newTabControlled.disableButton.label "Dizabilita Estenscion">
+<!ENTITY newTabControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "Pagina açioin">
 <!ENTITY pageAction.addToUrlbar.label "Azonzi a-a bara di indirissi">
 <!ENTITY pageAction.removeFromUrlbar.label "Leva da-a bara di indirissi">
+<!ENTITY pageAction.allowInUrlbar.label "Mostra inta bara di indirissi">
+<!ENTITY pageAction.disallowInUrlbar.label "No mostrâ inta bara di indirissi">
+<!ENTITY pageAction.manageExtension.label "Gestisci estenscioin…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Manda feuggio into dispoxitivo">
 <!ENTITY sendToDevice.syncNotReady.label "Scincronizzo dispoxitivi…">
@@ -987,3 +1014,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
+<!ENTITY addonPostInstallMessage.label "Gestisci e inpostaçioin di conponenti azonti sciacando <image class='addon-addon-icon'/> into <image class='addon-toolbar-icon'/> menû.">
