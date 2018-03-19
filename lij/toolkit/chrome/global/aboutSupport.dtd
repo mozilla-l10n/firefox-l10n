@@ -22,6 +22,13 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Verscion">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.securitySoftwareTitle "Software de Seguessa">
+<!ENTITY aboutSupport.securitySoftwareType "Tipo">
+<!ENTITY aboutSupport.securitySoftwareName "Nomme">
+<!ENTITY aboutSupport.securitySoftwareAntivirus "Antiviros">
+<!ENTITY aboutSupport.securitySoftwareAntiSpyware "Antispyware">
+<!ENTITY aboutSupport.securitySoftwareFirewall "Firewall">
+
 <!ENTITY aboutSupport.featuresTitle "Carateristiche de&brandShortName;">
 <!ENTITY aboutSupport.featureName "Nomme">
 <!ENTITY aboutSupport.featureVersion "Verscion">
@@ -67,6 +74,9 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Barcoin moltiprocesso">
 
+<!ENTITY aboutSupport.appBasicsProcessCount "Processi di contegnui web">
+
+<!ENTITY aboutSupport.enterprisePolicies "Politiche aziendali">
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Ciave Google">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Ciave do Serviçio de Localizaçion de Mozilla">
@@ -106,6 +116,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yTitle "Acesibilitæ">
 <!ENTITY aboutSupport.a11yActivated "Ativou">
 <!ENTITY aboutSupport.a11yForceDisabled "Inpedisci acesibilitæ">
+<!ENTITY aboutSupport.a11yHandlerUsed "Strumento man de acesibilitæ">
+<!ENTITY aboutSupport.a11yInstantiator "Instansiatô de acesibilitæ">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Vescioin da libraia">
 
@@ -137,3 +149,25 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Carateristiche pe-a proteçion di cianti dizabilitæ">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Mastrussi">
 
+<!ENTITY aboutSupport.mediaTitle "Media">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "Dispoxitivi de output">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Dispoxitivi de input">
+<!ENTITY aboutSupport.mediaDeviceName "Nomme">
+<!ENTITY aboutSupport.mediaDeviceGroup "Gruppo">
+<!ENTITY aboutSupport.mediaDeviceVendor "Venditô">
+<!ENTITY aboutSupport.mediaDeviceState "Stato">
+<!ENTITY aboutSupport.mediaDevicePreferred "Preferio">
+<!ENTITY aboutSupport.mediaDeviceFormat "Formou">
+<!ENTITY aboutSupport.mediaDeviceChannels "Canâ">
+<!ENTITY aboutSupport.mediaDeviceRate "Indice">
+<!ENTITY aboutSupport.mediaDeviceLatency "Ritardo">
+
+<!ENTITY aboutSupport.intlTitle "Internaçionalizaçion e Localizaçion">
+<!ENTITY aboutSupport.intlAppTitle "Inpostaçioin da aplicaçion">
+<!ENTITY aboutSupport.intlLocalesRequested "Localizaçioin domandæ">
+<!ENTITY aboutSupport.intlLocalesAvailable "Localizaçion che ghe son">
+<!ENTITY aboutSupport.intlLocalesSupported "Localizaçion de l'App">
+<!ENTITY aboutSupport.intlLocalesDefault "Localizaçion predefinia">
+<!ENTITY aboutSupport.intlOSTitle "Scistema Operativo">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "Localizaçioin de Scistema">
+<!ENTITY aboutSupport.intlRegionalPrefs "Preferense Regionâ">
