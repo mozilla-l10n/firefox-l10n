@@ -22,6 +22,21 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] Treuva in Inpostaçioin
+           *[other] Treuva in Preferense
+        }
 policies-notice =
     { PLATFORM() ->
         [windows] A teu òrganizaçion a l'à dizabilitou a poscibilitæ de cangiâ quarche òpçion
@@ -54,6 +69,17 @@ should-restart-title = Arvi torna o { -brand-short-name }
 should-restart-ok = Arvi torna { -brand-short-name } oua
 cancel-no-restart-button = Anulla
 restart-later = Arvi torna Dòppo
+
+## Preferences UI Search Results
+
+search-results-header = Exiti da riçerca
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] Me spiaxe! No emmo trovou ninte inte Inpostaçioin pe “<span></span>”.
+       *[other] Me spiaxe! No emmo trovou ninte inte Preferense pe “<span></span>”.
+    }
+search-results-need-help = Serve agiutto? Vixita <a>Sopòrto de { -brand-short-name }</a>
 
 ## General Section
 
