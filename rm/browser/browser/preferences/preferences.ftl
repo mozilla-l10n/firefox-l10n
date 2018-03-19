@@ -22,6 +22,21 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 16.4em
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 16.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] Tschertgar en las preferenzas
+           *[other] Tschertgar en las preferenzas
+        }
 pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
@@ -48,6 +63,16 @@ feature-disable-requires-restart = { -brand-short-name } sto vegnir reavià per 
 should-restart-title = Reaviar { -brand-short-name }
 should-restart-ok = Reaviar ussa { -brand-short-name }
 restart-later = Reaviar pli tard
+
+## Preferences UI Search Results
+
+search-results-header = Resultats da tschertga
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] Perstgisa! Impussibel da chattar «<span></span>» en las preferenzas.
+       *[other] Perstgisa! Impussibel da chattar «<span></span>» en las preferenzas.
+    }
 
 ## General Section
 
