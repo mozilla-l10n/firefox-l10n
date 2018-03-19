@@ -55,6 +55,16 @@ should-restart-ok = Berrabiarazi { -brand-short-name } orain
 cancel-no-restart-button = Utzi
 restart-later = Berrabiarazi geroago
 
+## Preferences UI Search Results
+
+search-results-header = Bilaketaren emaitzak
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] Barkatu! Aukeretan ez dago "<span></span>" bilaketarako emaitzarik.
+       *[other] Barkatu! Hobespenetan ez dago "<span></span>" bilaketarako emaitzarik.
+    }
+
 ## General Section
 
 startup-header = Abioa
