@@ -55,6 +55,10 @@ should-restart-ok = { -brand-short-name } újraindítása most
 cancel-no-restart-button = Mégse
 restart-later = Újraindítás később
 
+## Preferences UI Search Results
+
+search-results-header = Találatok
+
 ## General Section
 
 startup-header = Indítás
