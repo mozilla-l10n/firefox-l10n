@@ -438,6 +438,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "검색어나 주소 입력">
+<!ENTITY urlbar.placeholder3          "여기에 검색어나 주소 입력">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "확장기능:">
@@ -982,11 +983,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName; 업데이트를 위해 재시작">
 
 <!ENTITY newTabControlled.message "새 탭을 열 때 지금 보고 있는 페이지를 확장 프로그램이 변경했습니다. 이 변경을 원하지 않으면 설정을 복원할 수 있습니다.">
+
 <!ENTITY newTabControlled.header.message "새 탭이 변경되었습니다.">
 <!ENTITY newTabControlled.keepButton.label "변경 사항 유지">
 <!ENTITY newTabControlled.keepButton.accesskey "K">
 <!ENTITY newTabControlled.restoreButton.label "설정 복원">
 <!ENTITY newTabControlled.restoreButton.accesskey "R">
+
+<!ENTITY newTabControlled.disableButton.label "확장기능 비활성화">
+<!ENTITY newTabControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "페이지 작업">
 <!ENTITY pageAction.addToUrlbar.label "주소 표시줄에 추가">
