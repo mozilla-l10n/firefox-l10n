@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "Vi se cere să acreditați o autoritate nouă de certificare (AC).">
 <!ENTITY downloadCert.trustSSL "Acreditează această AC pentru identificarea site-urilor web.">
 <!ENTITY downloadCert.trustEmail "Acreditează această AC pentru identificarea utilizatorilor de e-mail.">
-<!ENTITY downloadCert.trustObjSign "Acreditează această AC pentru identificarea creatorilor de software.">
 <!ENTITY downloadCert.message3 "Înainte de a acredita această AC, ar trebui să îi examinați certificatul, precum și politicile și procedurile (dacă există).">
 <!ENTITY downloadCert.viewCert.label "Vizualizează">
 <!ENTITY downloadCert.viewCert.text "Examinează certificatul AC">
@@ -32,7 +31,7 @@
 <!ENTITY clientAuthAsk.message3 "Detaliile certificatului selectat:">
 
 <!ENTITY pkcs12.setpassword.title  "Alege o parolă de siguranță pentru certificate">
-<!ENTITY pkcs12.setpassword.message  "Parola pe care o setați aici protejează fișierul de siguranță pe care sunteți pe cale să-l creați.  Trebuie să setați această parolă pentru a continua salvarea de siguranță.">
+<!ENTITY pkcs12.setpassword.message  "Parola pe care o setezi aici protejează fișierul de siguranță pe care ești pe cale să-l creezi.  Trebuie să setezi această parolă pentru a continua salvarea de siguranță.">
 <!ENTITY pkcs12.setpassword.label1 "Parola de siguranță pentru certificate:">
 <!ENTITY pkcs12.setpassword.label2 "Parola de siguranță pentru certificate (din nou):">
 <!ENTITY pkcs12.setpassword.reminder "Important: Dacă uitați parola de siguranță pentru certificate, nu veți putea reface această copie mai târziu.  Vă rugăm să aveți grijă să o păstrați într-un loc sigur.">
