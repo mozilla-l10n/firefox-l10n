@@ -79,6 +79,7 @@ search-results-sorry-message =
         [windows] மன்னிக்கவும்! தேர்வுகளில் "<span></span>" சொல்லிற்கான முடிவுகள் எதுமில்லை.
        *[other] மன்னிக்கவும்! முன்னுரிமைகளில் "<span></span>" சொல்லிற்கான முடிவுகள் ஏதுமில்லை.
     }
+search-results-need-help = உதவி தேவையா? <a>{ -brand-short-name } ஆதரவு</a> பார்வையிடவும்
 
 ## General Section
 
