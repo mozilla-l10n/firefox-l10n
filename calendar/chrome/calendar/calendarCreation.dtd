@@ -27,16 +27,24 @@
 <!ENTITY sourcetabs.other.label  "Ostatní">
 
 <!ENTITY buttons.create.label "Vytvořit kalendář">
+<!ENTITY buttons.create.accesskey "y">
 
 <!ENTITY buttons.find.label "Najít kalendáře">
+<!ENTITY buttons.find.accesskey "N">
 
 <!ENTITY buttons.back.label "Zpět">
+<!ENTITY buttons.back.accesskey "Z">
 
 <!ENTITY buttons.subscribe.label "Odebírat">
+<!ENTITY buttons.subscribe.accesskey "O">
 
 <!ENTITY calendartype.label "Typ kalendáře:">
 <!ENTITY location.label "Adresa:">
 <!ENTITY location.placeholder "URL nebo jméno hostitele kalendářového serveru">
 
 <!ENTITY network.nocredentials.label "Toto umístění nevyžaduje přihlašovací údaje">
+<!ENTITY network.notfound.description "Kalendáře se v tomto umístění nepodařilo najít. Zkontrolujte prosím svá nastavení.">
+<!ENTITY network.authfail.description "Zadané přihlašovací údaje nebyly přijaty. Zkontrolujte prosím svá nastavení.">
 
+<!ENTITY network.subscribe.single.description "Vyberte prosím kalendář, který chcete přidat.">
+<!ENTITY network.subscribe.multiple.description "V tomto umístění se nachází více typů kalendářů. Vyberte prosím typ kalendáře a pak označte ty, které chcete přidat.">

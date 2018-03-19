@@ -420,10 +420,13 @@
 
 <!-- Summary dialog -->
 <!ENTITY summary.dialog.saveclose.label         "Uložit a zavřít">
+<!ENTITY summary.dialog.saveclose.tooltiptext   "Uloží změny a zavře okno bez změny vaší účasti nebo odeslání odpovědi">
 <!ENTITY summary.dialog.accept.label            "Přijmout">
 <!ENTITY summary.dialog.accept.tooltiptext      "Přijme pozvání">
 <!ENTITY summary.dialog.tentative.label         "Předběžně">
 <!ENTITY summary.dialog.tentative.tooltiptext   "Předběžně přijme pozvání">
 <!ENTITY summary.dialog.decline.label           "Odmítnout">
 <!ENTITY summary.dialog.decline.tooltiptext     "Odmítne pozvání">
+<!ENTITY summary.dialog.dontsend.label          "Neposílat odpověď">
+<!ENTITY summary.dialog.dontsend.tooltiptext    "Změní stav vaší účasti a zavře okno bez odeslání odpovědi organizátorovi">
 <!ENTITY summary.dialog.send.label              "Poslat odpověď">
