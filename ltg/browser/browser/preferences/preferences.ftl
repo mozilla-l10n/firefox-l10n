@@ -22,6 +22,21 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] Mekleit īstatiejumūs
+           *[other] Mekleit īstatiejumūs
+        }
 pane-general-title = Golvonī
 category-general =
     .tooltiptext = { pane-general-title }
@@ -49,6 +64,16 @@ should-restart-title = Puorstarteit { -brand-short-name }
 should-restart-ok = Puorstarteit { -brand-short-name } tagad
 cancel-no-restart-button = Atceļt
 restart-later = Puorstarteit vāluok
+
+## Preferences UI Search Results
+
+search-results-header = Mekliešonys rezultati
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] Dīmžāl meklejūt Īstatiejumu “<span></span>” nikas natyka atrosts.
+       *[other] Dīmžāl meklejūt Īstatiejumu “<span></span>” nikas natyka atrosts.
+    }
 
 ## General Section
 
