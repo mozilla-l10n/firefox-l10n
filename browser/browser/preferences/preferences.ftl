@@ -55,6 +55,16 @@ should-restart-ok = { -brand-short-name } қазір қайта қосу
 cancel-no-restart-button = Бас тарту
 restart-later = Қайта қосуды кейін орындау
 
+## Preferences UI Search Results
+
+search-results-header = Іздеу нәтижелері
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] Кешіріңіз! Опцияларды "<span></span>" үшін нәтижелер табылмады.
+       *[other] Кешіріңіз! Баптауларда "<span></span>" үшін нәтижелер табылмады.
+    }
+
 ## General Section
 
 startup-header = Іске қосылу
