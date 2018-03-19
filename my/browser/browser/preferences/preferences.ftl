@@ -55,6 +55,10 @@ should-restart-ok = ယခုပင် { -brand-short-name } ကို ပြန
 cancel-no-restart-button = မလုပ်တော့
 restart-later = နောက်မှ ပြန်ဖွင့်ပါ
 
+## Preferences UI Search Results
+
+search-results-header = ရှာဖွေမှု ရလဒ်များ
+
 ## General Section
 
 startup-header = စတင်ခြင်း
