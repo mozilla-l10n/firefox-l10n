@@ -22,6 +22,21 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] ਚੋਣਾਂ 'ਚ ਲੱਭੋ
+           *[other] ਮੇਰੀ ਪਸੰਦ 'ਚ ਲੱਭੋ
+        }
 pane-general-title = ਆਮ
 category-general =
     .tooltiptext = { pane-general-title }
@@ -48,6 +63,17 @@ feature-disable-requires-restart = ਇਹ ਫੀਚਰ ਅਸਮਰੱਥ ਕਰ
 should-restart-title = { -brand-short-name } ਨੂੰ ਮੁੜ-ਚਾਲੂ ਕਰੋ
 should-restart-ok = ਹੁਣੇ { -brand-short-name } ਨੂੰ ਮੁੜ-ਚਾਲੂ ਕਰੋ
 restart-later = ਬਾਅਦ 'ਚ ਮੁੜ-ਚਾਲੂ ਕਰੋ
+
+## Preferences UI Search Results
+
+search-results-header = ਖੋਜ ਨਤੀਜੇ
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] ਅਫ਼ਸੋਸ! “<span></span>” ਲਈ ਚੋਣਾਂ ਵਿੱਚ ਕੋਈ ਨਤੀਜੇ ਨਹੀਂ ਹਨ।
+       *[other] ਅਫ਼ਸੋਸ! “<span></span>” ਲਈ ਪਸੰਦਾਂ ਵਿੱਚ ਕੋਈ ਨਤੀਜੇ ਨਹੀਂ ਹਨ।
+    }
+search-results-need-help = ਮਦਦ ਚਾਹੀਦੀ ਹੈ? <a>{ -brand-short-name } ਸਹਿਯੋਗ</a> ਵੇਖੋ
 
 ## General Section
 
