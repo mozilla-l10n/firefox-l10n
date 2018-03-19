@@ -22,6 +22,21 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] Sök i inställningar
+           *[other] Sök i inställningar
+        }
 policies-notice =
     { PLATFORM() ->
         [windows] Ditt företag har inaktiverat möjligheten att ändra vissa inställningar.
@@ -54,6 +69,17 @@ should-restart-title = Starta om { -brand-short-name }
 should-restart-ok = Starta om { -brand-short-name } nu
 cancel-no-restart-button = Avbryt
 restart-later = Starta om senare
+
+## Preferences UI Search Results
+
+search-results-header = Sökresultat
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] Förlåt! Det finns inga resultat i Inställningar för “<span></span>”.
+       *[other] Förlåt! Det finns inga resultat i Inställningar för “<span></span>”.
+    }
+search-results-need-help = Behöver du hjälp? Besök <a>{ -brand-short-name } support</a>
 
 ## General Section
 
