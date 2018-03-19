@@ -79,6 +79,7 @@ search-results-sorry-message =
         [windows] Kusura bakmayın, seçeneklerde “<span></span>” ile ilgili bir sonuç bulamadık.
        *[other] Kusura bakmayın, tercihlerde “<span></span>” ile ilgili bir sonuç bulamadık.
     }
+search-results-need-help = Yardım mı gerekiyor? <a>{ -brand-short-name } Destek</a>’i ziyaret edin.
 
 ## General Section
 
