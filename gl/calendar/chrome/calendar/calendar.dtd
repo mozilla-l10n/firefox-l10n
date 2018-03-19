@@ -149,7 +149,7 @@
 <!ENTITY calendar.task.complete.button.tooltip  "Marcar as tarefas seleccionadas como rematadas">
 <!ENTITY calendar.task.priority.button.tooltip  "Cambiar a prioridade">
 
-<!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Filtrar tarefas… #1">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.base1           "Filtrar tarefas #1">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;CTRL+Maiús+K&gt;">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
 
@@ -172,12 +172,30 @@
 <!ENTITY calendar.context.copyevent.accesskey         "C">
 <!ENTITY calendar.context.pasteevent.label            "Pegar">
 <!ENTITY calendar.context.pasteevent.accesskey        "P">
-<!ENTITY calendar.context.button.label                "Panel de hoxe" >
-<!ENTITY calendar.context.button.accesskey            "P" >
-<!ENTITY calendar.context.attendance.menu.label       "Asistencia" >
-<!ENTITY calendar.context.attendance.menu.accesskey   "A" >
-<!ENTITY calendar.context.attendance.occurrence.label "Esta ocorrencia" >
+<!ENTITY calendar.context.button.label                "Panel de hoxe">
+<!ENTITY calendar.context.button.accesskey            "P">
+
+<!ENTITY calendar.context.attendance.menu.label                 "Asistencia">
+<!ENTITY calendar.context.attendance.menu.accesskey             "A">
+<!ENTITY calendar.context.attendance.occurrence.label           "Esta ocorrencia">
 <!ENTITY calendar.context.attendance.all.label        "Todas as ocorrencias" >
+
+<!ENTITY calendar.context.attendance.send.label                 "Enviar unha notificación agora">
+<!ENTITY calendar.context.attendance.send.accesskey             "g">
+<!ENTITY calendar.context.attendance.dontsend.label             "Non enviar unha notificación">
+<!ENTITY calendar.context.attendance.dontsend.accesskey         "h">
+
+<!ENTITY calendar.context.attendance.occ.accepted.accesskey     "A">
+<!ENTITY calendar.context.attendance.occ.accepted.label         "Aceptada">
+<!ENTITY calendar.context.attendance.occ.tentative.accesskey    "m">
+<!ENTITY calendar.context.attendance.occ.tentative.label        "Aceptada provisionalmente">
+<!ENTITY calendar.context.attendance.occ.declined.accesskey     "x">
+<!ENTITY calendar.context.attendance.occ.declined.label         "Rexeitada">
+<!ENTITY calendar.context.attendance.occ.inprogress.accesskey   "g">
+<!ENTITY calendar.context.attendance.occ.inprogress.label       "En progreso">
+<!ENTITY calendar.context.attendance.occ.completed.accesskey    "R">
+<!ENTITY calendar.context.attendance.occ.completed.label        "Rematada">
+
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Progreso">
