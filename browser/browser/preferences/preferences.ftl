@@ -79,6 +79,7 @@ search-results-sorry-message =
         [windows] Désolé, il n’y a aucun résultat dans les options pour « <span></span> ».
        *[other] Désolé, il n’y a aucun résultat dans les préférences pour « <span></span> ».
     }
+search-results-need-help = Besoin d’aide ? Consultez <a>l’assistance de { -brand-short-name }</a>
 
 ## General Section
 
