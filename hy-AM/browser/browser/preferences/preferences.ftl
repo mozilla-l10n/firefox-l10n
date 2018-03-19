@@ -73,6 +73,7 @@ search-results-sorry-message =
         [windows] Արդյունքներ չկան Ընտրանքներում “<span></span>”-ի համար:
        *[other] Կարգավորումներում այլ արդյունքներ չկան “<span></span>”-ի համար:
     }
+search-results-need-help = Օգնությու՞ն է պետք: Այցելեք <a>{ -brand-short-name } աջակցում</a>
 
 ## General Section
 
