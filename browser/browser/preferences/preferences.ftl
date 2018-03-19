@@ -79,6 +79,7 @@ search-results-sorry-message =
         [windows] Выбачайце! У наладах няма вынікаў для “<span></span>”.
        *[other] Выбачайце! У перавагах няма вынікаў для “<span></span>”.
     }
+search-results-need-help = Патрэбна дапамога? Наведайце <a>Падтрымка { -brand-short-name }</a>
 
 ## General Section
 
