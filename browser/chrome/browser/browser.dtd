@@ -438,6 +438,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Leita eða sláðu inn veffang">
+<!ENTITY urlbar.placeholder3          "Sláðu inn leitarskilyrði og heimilisföng hérna">
 <!ENTITY urlbar.accesskey             "ð">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Skráarending:">
@@ -982,11 +983,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Endurræstu til að uppfæra &brandShorterName;">
 
 <!ENTITY newTabControlled.message "Einhver viðbót hefur breytt síðunni sem er alltaf opnuð fyrir nýja flipa. Ef þú vilt ekki þessa breytingu geturðu endurheimt eldri stillingar.">
+
 <!ENTITY newTabControlled.header.message "Nýi flipinn breyttist.">
 <!ENTITY newTabControlled.keepButton.label "Halda breytingum">
 <!ENTITY newTabControlled.keepButton.accesskey "g">
 <!ENTITY newTabControlled.restoreButton.label "Endurheimta stillingar">
 <!ENTITY newTabControlled.restoreButton.accesskey "r">
+
 
 <!ENTITY pageActionButton.tooltip "Síðu aðgerðir">
 <!ENTITY pageAction.addToUrlbar.label "Bæta við í staðfestingarslá">
