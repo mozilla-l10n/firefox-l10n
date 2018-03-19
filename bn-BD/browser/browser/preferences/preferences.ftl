@@ -58,6 +58,13 @@ restart-later = পরে রিস্টার্ট করা হবে
 ## Preferences UI Search Results
 
 search-results-header = অনুসন্ধানের ফলাফল
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] দুঃখিত! “<span></span>”-র জন্য অপশনে কোন ফলাফল নেই।
+       *[other] দুঃখিত! “<span></span>”-র জন্য পছন্দসমূহে কোন ফলাফল নেই।
+    }
+search-results-need-help = সাহায্য প্রয়োজন? <a>{ -brand-short-name } সাপোর্ট</a> দেখুন
 
 ## General Section
 
