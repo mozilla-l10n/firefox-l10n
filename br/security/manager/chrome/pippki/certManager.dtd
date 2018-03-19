@@ -10,10 +10,11 @@
 <!ENTITY certmgr.tab.ca                       " Aotrouniezhoù">
 <!ENTITY certmgr.tab.orphan2                  "Re all">
 
-
-
-
-
+<!ENTITY certmgr.mine2                        "Testenioù hoc'h eus a-berzh an aozadurioù-mañ oc'h anaout ac'hanoc'h">
+<!ENTITY certmgr.others2                      "Testenioù ho peus diwar-benn an dud da-heul">
+<!ENTITY certmgr.websites3                    "Testenioù ho peus diwar-benn an dafariadoù da-heul">
+<!ENTITY certmgr.cas2                         "Testenioù hoc'h eus er restr oc'h anaout an aotrouniezh testeniañ-mañ">
+<!ENTITY certmgr.orphans2                     "Testenioù hoc'h eus war ar restr nad ont kevatal da rummadoù all ebet">
 
 <!ENTITY certmgr.detail.general_tab.title     "Hollek">
 <!ENTITY certmgr.detail.general_tab.accesskey "H">
@@ -37,7 +38,6 @@
 <!ENTITY certmgr.editcert.edittrust           "Embann an arventennoù a fiziañs :">
 <!ENTITY certmgr.editcert.trustssl            "An testeni-mañ a c'hall anaout al lec'hiennoù web.">
 <!ENTITY certmgr.editcert.trustemail          "Barrek eo an testeni-mañ da anaout an arveriaded posteloù.">
-<!ENTITY certmgr.editcert.trustobjsign        "Barrek eo an testeni-mañ da anaout ar savourion veziantoù.">
 
 <!ENTITY certmgr.deletecert.title             "Dilemel an testeni">
 

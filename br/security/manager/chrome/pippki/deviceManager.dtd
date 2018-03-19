@@ -25,11 +25,12 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "Roit ar stlennoù evit ar mollad a fell deoc'h ouzhpennañ.">
-
-
+<!ENTITY loaddevice.modname2                    "Anv mollad">
+<!ENTITY loaddevice.modname2.accesskey          "m">
 <!ENTITY loaddevice.modname.default             "Mollad Nevez PKCS#11">
-
-
+<!ENTITY loaddevice.filename2                   "Anv restr ar mollad">
+<!ENTITY loaddevice.filename2.accesskey         "r">
 <!ENTITY loaddevice.browse                      "Furchal…">
 <!ENTITY loaddevice.browse.accesskey            "r">
 
+<!ENTITY loaddevice.title2                      "Kargañ sturier an trevnad PKCS#11">
