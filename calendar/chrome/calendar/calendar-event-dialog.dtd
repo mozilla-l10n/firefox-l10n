@@ -29,12 +29,15 @@
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; completo">
 
-<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
-   - These two labels are displayed side by side in the event dialog, make sure
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label,
+     event.attendees.disallowcounter.label)
+   - These three labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
-<!ENTITY event.attendees.notify.label               "Notificar asistentes">
-<!ENTITY event.attendees.notifyundisclosed.label    "Invitación separada por cada asistente">
-<!ENTITY event.attendees.notifyundisclosed.tooltip  "Esta opción envía unha mensaxe de invitación a cada asistente. Cada invitación só contén un asistente como destinatario, de modo que non se revelan as identidades dos outros asistentes.">
+<!ENTITY event.attendees.notify.label                "Notificar asistentes">
+<!ENTITY event.attendees.notify.accesskey            "f">
+<!ENTITY event.attendees.notifyundisclosed.label     "Invitación separada por cada asistente">
+<!ENTITY event.attendees.notifyundisclosed.accesskey "v">
+<!ENTITY event.attendees.notifyundisclosed.tooltip   "Esta opción envía unha mensaxe de invitación a cada asistente. Cada invitación só contén un asistente como destinatario, de modo que non se revelan as identidades dos outros asistentes.">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -64,10 +67,25 @@
 <!ENTITY  event.menu.item.new.contact.accesskey           "C">
 <!ENTITY  event.menu.item.close.label                     "Pechar">
 <!ENTITY  event.menu.item.close.accesskey                 "c">
+
+<!-- LOCALIZATION NOTE
+   - event.menu.item.save.accesskey is used for the "Save" menu item
+   - when editing events/tasks in a dialog window.
+   - event.menu.item.save.tab.accesskey is used for the "Save" menu item
+   - when editing events/tasks in a tab. -->
 <!ENTITY  event.menu.item.save.label                      "Gardar">
 <!ENTITY  event.menu.item.save.accesskey                  "G">
+<!ENTITY  event.menu.item.save.tab.accesskey              "a">
+
+<!-- LOCALIZATION NOTE
+    - event.menu.item.saveandclose.accesskey is used for "Save and Close"
+    - menu item when editing events/tasks in a dialog window.
+    - event.menu.item.saveandclose.tab.accesskey is used for "Save and Close"
+    - when editing events/tasks in a tab. -->
 <!ENTITY  event.menu.item.saveandclose.label              "Gardar e pechar">
-<!ENTITY  event.menu.item.saveandclose.accesskey          "G">
+<!ENTITY  event.menu.item.saveandclose.accesskey          "d">
+<!ENTITY  event.menu.item.saveandclose.tab.accesskey      "p">
+
 <!ENTITY  event.menu.item.delete.label                    "Eliminar…">
 <!ENTITY  event.menu.item.delete.accesskey                "E">
 <!ENTITY  event.menu.item.page.setup.label                "Configuración da páxina">
@@ -137,15 +155,20 @@
 <!ENTITY event.email.attendees.label                      "Redactar mensaxe para todos os asistentes…">
 <!ENTITY event.email.attendees.accesskey                  "a">
 <!ENTITY event.email.tentative.attendees.label            "Redactar mensaxe para os asistentes indecisos…">
-<!ENTITY event.email.tentative.attendees.accesskey        "R">
+<!ENTITY event.email.tentative.attendees.accesskey        "x">
+<!ENTITY event.remove.attendees.label2                    "Retirar todos os asistentes">
+<!ENTITY event.remove.attendees.accesskey                 "R">
+<!ENTITY event.remove.attendee.label                      "Retirar asistente">
+<!ENTITY event.remove.attendee.accesskey                  "e">
 
 <!-- Toolbar -->
-<!ENTITY  event.toolbar.save.label                        "Gardar e pechar">
+<!ENTITY  event.toolbar.save.label2                       "Gardar">
+<!ENTITY  event.toolbar.saveandclose.label                "Gardar e pechar">
 <!ENTITY  event.toolbar.delete.label                      "Eliminar">
 <!ENTITY  event.toolbar.attendees.label                   "Invitar á asistentes">
 <!ENTITY  event.toolbar.privacy.label                     "Privacidade">
 
-<!ENTITY  event.toolbar.save.tooltip                      "Gardar e pechar">
+<!ENTITY  event.toolbar.save.tooltip2                     "Gardar">
 <!ENTITY  event.toolbar.delete.tooltip                    "Eliminar">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Invitar á asistentes">
 <!ENTITY  event.toolbar.attachments.tooltip               "Engadir anexos">
@@ -153,6 +176,14 @@
 <!ENTITY  event.toolbar.priority.tooltip                  "Cambiar prioridade">
 <!ENTITY  event.toolbar.status.tooltip                    "Cambiar estado">
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Cambiar dispoñibilidade (Libre/Ocupado)">
+
+<!-- Counter box -->
+<!-- LOCALIZATON NOTE(counter.button.*)
+   - This is only visible in the UI if you have received a counterproposal before and are going to
+   - reschedule the event from the imipbar in the email view. Clicking on the buttons will only
+   - populate the form fields in the dialog, there's no other immediate action on clicking like with
+   - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
+   - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Título:" >
@@ -165,7 +196,7 @@
 <!ENTITY event.calendar.label                             "Calendario:" >
 <!ENTITY event.calendar.accesskey                         "C">
 <!ENTITY event.attendees.label                            "Asistentes:" >
-<!ENTITY event.attendees.accesskey                        "A" >
+<!ENTITY event.attendees.accesskey                        "A">
 <!ENTITY event.alldayevent.label                          "Evento para todo o día" >
 <!ENTITY event.alldayevent.accesskey                      "d">
 <!ENTITY event.from.label                                 "Inicio:" >
@@ -373,3 +404,5 @@
 <!ENTITY read.only.attendees.label       "Asistentes">
 <!ENTITY read.only.description.label     "Descrición">
 <!ENTITY read.only.link.label            "Ligazón relacionada">
+
+<!-- Summary dialog -->

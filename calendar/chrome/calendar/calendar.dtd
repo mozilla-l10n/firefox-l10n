@@ -196,6 +196,16 @@
 <!ENTITY calendar.context.attendance.occ.completed.accesskey    "R">
 <!ENTITY calendar.context.attendance.occ.completed.label        "Rematada">
 
+<!ENTITY calendar.context.attendance.all.accepted.accesskey     "A">
+<!ENTITY calendar.context.attendance.all.accepted.label         "Aceptadas">
+<!ENTITY calendar.context.attendance.all.tentative.accesskey    "m">
+<!ENTITY calendar.context.attendance.all.tentative.label        "Aceptadas provisionalmente">
+<!ENTITY calendar.context.attendance.all.declined.accesskey     "x">
+<!ENTITY calendar.context.attendance.all.declined.label         "Rexeitadas">
+<!ENTITY calendar.context.attendance.all.inprogress.accesskey   "g">
+<!ENTITY calendar.context.attendance.all.inprogress.label       "En progreso">
+<!ENTITY calendar.context.attendance.all.completed.accesskey    "R">
+<!ENTITY calendar.context.attendance.all.completed.label        "Rematadas">
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Progreso">
