@@ -55,6 +55,16 @@ should-restart-ok = Titikirisäx chik { -brand-short-name } wakami
 cancel-no-restart-button = Tiq'at
 restart-later = Titikirisäx pa jun mej
 
+## Preferences UI Search Results
+
+search-results-header = Taq ruq'i'oj kanoxïk
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] ¡Kojakuyu'! Majun achike xqïl pa Taq Cha'oj richin ri “<span></span>”.
+       *[other] ¡Kojakuyu'! Majun achike xqïl pa Taq Ajowab'äl richin ri “<span></span>”.
+    }
+
 ## General Section
 
 startup-header = Tikirisab'äl
