@@ -88,6 +88,14 @@
 <!ENTITY reorderAttachmentsCmd.label "Omorganiser vedlegg…">
 <!ENTITY reorderAttachmentsCmd.accesskey "s">
 <!ENTITY reorderAttachmentsCmd.key "x">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
+     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
+     as attachments.accesskey. -->
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
+     With OS-specific access modifier, this defines the shortcut key for showing/
+     hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
+     toggleAttachmentPaneCmd.key and attachments.accesskey must be the same
+     for the bucket view state machinery to work. -->
 <!ENTITY selectAllCmd.label "Merk alt">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "M">
@@ -109,26 +117,10 @@
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Omorganiser vedlegg">
 <!ENTITY moveAttachmentTopPanelBtn.label "Flytt til toppen">
-<!ENTITY moveAttachmentTopPanelBtn.accesskey "t">
 <!ENTITY moveAttachmentUpPanelBtn.label "Flytt opp">
-<!ENTITY moveAttachmentUpPanelBtn.accesskey "p">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Flytt sammen">
-<!ENTITY moveAttachmentBundleUpPanelBtn.accesskey "y">
 <!ENTITY moveAttachmentDownPanelBtn.label "Flytt ned">
-<!ENTITY moveAttachmentDownPanelBtn.accesskey "d">
 <!ENTITY moveAttachmentBottomPanelBtn.label "Flytt til bunnen">
-<!ENTITY moveAttachmentBottomPanelBtn.accesskey "b">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.label):
-     Please ensure that this translation matches
-     sortAttachmentsTogglePanelBtn.ZA.label, except for the sort direction. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.label "Sorter utvalg: A - Z">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.accesskey):
-     This accesskey should be the same like
-     sortAttachmentsTogglePanelBtn.ZA.accesskey, and it should be taken from
-     the "Sort Selection:" part of the label, not from the sort direction part. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.accesskey "o">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.label "Sorter utvalg: Z - A">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.accesskey "o">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -253,6 +245,7 @@
 <!ENTITY quoteButton.tooltip "Siter forrige melding">
 <!ENTITY addressButton.tooltip "Velg mottaker fra en adressebok">
 <!ENTITY attachButton.tooltip "Ta med vedlegg">
+<!ENTITY attachButton.tooltip2 "Legg til et vedlegg">
 <!ENTITY spellingButton.tooltip "Kontroller staving av merket tekst eller hele meldingen">
 <!ENTITY saveButton.tooltip "Lagre meldingen">
 <!ENTITY cutButton.tooltip              "Klipp ut">
@@ -274,9 +267,12 @@
 <!ENTITY followupAddr.label "Oppfølging til:">
 <!ENTITY subject.label "Emne:">
 <!ENTITY subject.accesskey "m">
-<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
-     to the strings in attachmentCount in composeMsgs.properties -->
+<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
+     be taken from the strings in attachmentCount in composeMsgs.properties,
+     and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
+     work, as the shortcut key functionality supersedes the access key. -->
 <!ENTITY attachments.accesskey "d">
+
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Sett inn smilefjes">
@@ -314,6 +310,7 @@
 <!ENTITY pasteQuote.label "Lim inn som sitering">
 <!ENTITY pasteQuote.accesskey "t">
 
+<!-- Attachment Item and List Context Menus -->
 <!ENTITY openAttachment.label "Åpne">
 <!ENTITY openAttachment.accesskey "Å">
 <!ENTITY delete.label "Slett">
