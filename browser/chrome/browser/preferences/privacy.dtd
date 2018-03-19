@@ -87,6 +87,7 @@
 <!ENTITY  rememberActions.removeCookies.label "વ્યક્તિગત કુકીઓ દૂર કરવા માંગતા હશો">
 <!ENTITY  rememberActions.post.label          ".">
 
+<!ENTITY  rememberDescription1.label      "&brandShortName; તમારી બ્રાઉઝિંગ, ડાઉનલોડ, ફોર્મ અને શોધ ઇતિહાસ યાદ રાખશે.">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; ખાનગી બ્રાઉઝીંગની જેમ જ સેટીંગ વાપરશે, અને તમે જેમ વેબ બ્રાઉઝ કરો તેમ ઇતિહાસ યાદ રાખશે નહિં.">
 

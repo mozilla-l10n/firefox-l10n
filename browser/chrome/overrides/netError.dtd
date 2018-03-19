@@ -133,8 +133,7 @@ was trying to connect. -->
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> એ સુરક્ષા માટે એવી ટેક્નોલોજી વાપરે છે કે જે જૂની તથા સહેલાઇથી હુમલો કરી શકાય તેવી હોય છે. જે માહિતીને તમે સુરક્ષિત માની રહ્યા હોય તેને હુમલાખોર સહેલાઇથી પ્રદ્રશિત કરી શકે છે. તમે વેબસાઇટ પર જાઓ તે પહેલાં વેબસાઇટનાં વહીવટકર્તાએ સર્વર ને વ્યવસ્થિત કરવાની જરુર છે.</p><p>ભૂલ ક્રમાંક: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
-<!ENTITY blockedByPolicyTemp.title "પૃષ્ઠ અવરોધિત">
-<!ENTITY blockedByPolicyTemp.longDesc "<p>તમારા વ્યવસ્થાપક દ્વારા પ્રવેશ અક્ષમ કરવામાં આવી છે.</p>">
+<!ENTITY blockedByPolicy.title "અવરોધિત પૃષ્ઠ">
 
 <!ENTITY prefReset.longDesc "એવું લાગી રહ્યું છે કે તમારાં નેટવર્કની સુરક્ષા વ્યવસ્થા ને કારણે આમ થઇ રહ્યુ છે. શું આપ મૂળભૂત વ્યવસ્થા પાછી લાવવાં ઈચ્છો છો?">
 <!ENTITY prefReset.label "મૂળભુત સેટિંગ પાછા લાવો">
