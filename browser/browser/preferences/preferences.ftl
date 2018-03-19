@@ -50,6 +50,16 @@ should-restart-ok = Endurræsa { -brand-short-name } núna
 cancel-no-restart-button = Hætta við
 restart-later = Endurræsa seinna
 
+## Preferences UI Search Results
+
+search-results-header = Leitarniðurstöður
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] Því miður! Engar niðurstöður eru til fyrir stillingar fyrir “<span></span>”.
+       *[other] Því miður! Engar niðurstöður eru til fyrir stillingar fyrir “<span></span>”.
+    }
+
 ## General Section
 
 startup-header = Ræsing
