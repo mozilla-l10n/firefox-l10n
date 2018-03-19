@@ -22,6 +22,21 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] W nastajenjach pytać
+           *[other] W nastajenjach pytać
+        }
 policies-notice =
     { PLATFORM() ->
         [windows] Waša organizacija je změny někotrych nastajenjow znjemóžnił.
@@ -64,6 +79,7 @@ search-results-sorry-message =
         [windows] Bohužel žane wuslědki w nastajenjach za “<span></span>” njejsu.
        *[other] Bohužel žane wuslědki w nastajenjach za “<span></span>” njejsu.
     }
+search-results-need-help = Trjebaće pomoc? Wopytajće <a>Pomoc za { -brand-short-name }</a>
 
 ## General Section
 
