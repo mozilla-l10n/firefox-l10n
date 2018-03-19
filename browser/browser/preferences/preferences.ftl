@@ -49,6 +49,10 @@ should-restart-title = Վերամեկնարկել { -brand-short-name }-ը
 should-restart-ok = Վերամեկնարկել { -brand-short-name }-ը
 restart-later = Վերամեկնարկել հետո
 
+## Preferences UI Search Results
+
+search-results-header = Որոնման արդյունքներ
+
 ## General Section
 
 startup-header = Մեկնարկը                
