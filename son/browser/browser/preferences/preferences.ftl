@@ -35,6 +35,10 @@ should-restart-title = { -brand-short-name } tunandi taaga
 should-restart-ok = { -brand-short-name } tunandi taaga sohõ
 restart-later = Tunandi taaga nd'a too kayna
 
+## Preferences UI Search Results
+
+search-results-header = Ceeci duurawey
+
 ## General Section
 
 startup-header = Tunandi
