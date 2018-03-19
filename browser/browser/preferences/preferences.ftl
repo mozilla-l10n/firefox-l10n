@@ -22,6 +22,21 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] პარამეტრებში ძიება
+           *[other] პარამეტრებში ძიება
+        }
 policies-notice =
     { PLATFORM() ->
         [windows] თქვენს ორგანიზაციას შეზღუდული აქვს გარკვეული პარამეტრების შეცვლის შესაძლებლობა.
@@ -54,6 +69,17 @@ should-restart-title = { -brand-short-name }-ის ხელახლა გა
 should-restart-ok = { -brand-short-name } ხელახლა გაშვება ახლავე
 cancel-no-restart-button = გაუქმება
 restart-later = მოგვიანებით გაშვება
+
+## Preferences UI Search Results
+
+search-results-header = ძიების შედეგები
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] ვწუხვართ! შედეგები “<span></span>” ფრაზისთვის არ მოიძებნა.
+       *[other] ვწუხვართ! შედეგები “<span></span>” ფრაზისთვის არ მოიძებნა.
+    }
+search-results-need-help = გესაჭიროებათ დახმარება? ეწვიეთ <a>{ -brand-short-name } მხარდაჭერის გვერდი</a> ბმულს
 
 ## General Section
 
