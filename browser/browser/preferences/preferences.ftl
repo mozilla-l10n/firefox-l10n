@@ -22,6 +22,21 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] Seçimlərdə tap
+           *[other] Nizamlamalarda tap
+        }
 policies-notice =
     { PLATFORM() ->
         [windows] Təşkilatınız bəzi seçimləri dəyişdirməyinizi əngəlləyib.
@@ -54,6 +69,17 @@ should-restart-title = { -brand-short-name } yenidən başladılsın
 should-restart-ok = { -brand-short-name } indi yenidən başlat
 cancel-no-restart-button = Ləğv et
 restart-later = Sonra yenidən başlat
+
+## Preferences UI Search Results
+
+search-results-header = Axtarış Nəticələri
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] Bağışlayın! Seçimlərdə “<span></span>” üçün nəticə yoxdur.
+       *[other] Bağışlayın! Nizamlamalarda “<span></span>” üçün nəticə yoxdur.
+    }
+search-results-need-help = Kömək lazımdır? <a>{ -brand-short-name } Dəstək</a> ziyarət edin
 
 ## General Section
 
