@@ -54,6 +54,10 @@ should-restart-title = { -brand-short-name }`ni qayta ishga tushirish
 should-restart-ok = { -brand-short-name }ni hozir qayta ishga tushirish
 restart-later = Keyinroq qayta ishga tushirish
 
+## Preferences UI Search Results
+
+search-results-header = Qidiruv natijalari
+
 ## General Section
 
 startup-header = Ishga tushirish
