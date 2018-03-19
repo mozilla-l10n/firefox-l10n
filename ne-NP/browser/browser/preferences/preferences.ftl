@@ -50,6 +50,16 @@ should-restart-ok = { -brand-short-name } तत्काल पुन सुच
 cancel-no-restart-button = रद्द गर्नुहोस्
 restart-later = केहि समयपछि पुन सुचारु गर्नुहोस
 
+## Preferences UI Search Results
+
+search-results-header = खोजी परिणामहरू
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] माफ गर्नुहोस्! त्यहाँ “<span></span>” को लागि विकल्पहरूमा नतिजा छैन ।
+       *[other] माफ गर्नुहोस्! त्यहाँ “<span></span>” को लागि प्राथमिकताहरूमा नतिजा छैन ।
+    }
+
 ## General Section
 
 startup-header = सुरुवात
