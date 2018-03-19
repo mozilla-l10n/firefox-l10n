@@ -55,6 +55,16 @@ should-restart-ok = Adloc'hañ { -brand-short-name } diouzhtu
 cancel-no-restart-button = Nullañ
 restart-later = Adloc'hañ diwezhatoc'h
 
+## Preferences UI Search Results
+
+search-results-header = Disoc'hoù ar c'hlask
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] Digarezit! N'eus disoc'h ebet en dibarzhioù evit “<span></span>”.
+       *[other] Digarezit! N'eus disoc'h ebet er Gwellvezioù evit “<span></span>”.
+    }
+
 ## General Section
 
 startup-header = Loc'hañ
