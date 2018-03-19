@@ -79,6 +79,7 @@ search-results-sorry-message =
         [windows] Pardono! Il ha nulle resultato in le optiones pro “<span></span>”.
        *[other] Pardono! Il ha nulle resultato in le preferentias pro “<span></span>”.
     }
+search-results-need-help = Besonia tu de adjuta? Visita <a>Auxilio de { -brand-short-name }</a>
 
 ## General Section
 
