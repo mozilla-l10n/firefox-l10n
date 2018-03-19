@@ -74,6 +74,7 @@ search-results-sorry-message =
         [windows] Því miður! Engar niðurstöður eru til fyrir stillingar fyrir “<span></span>”.
        *[other] Því miður! Engar niðurstöður eru til fyrir stillingar fyrir “<span></span>”.
     }
+search-results-need-help = Vantar þig hjálp? Kíktu á <a>{ -brand-short-name } hjálp</a>
 
 ## General Section
 
