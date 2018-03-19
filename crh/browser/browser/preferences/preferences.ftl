@@ -49,6 +49,10 @@ should-restart-title = { -brand-short-name } tarayıcısını yeniden başlat
 should-restart-ok = { -brand-short-name } tarayıcısını yeniden başlat
 restart-later = Daha sonra yeniden başlat
 
+## Preferences UI Search Results
+
+search-results-header = Qıdırma Neticeleri
+
 ## General Section
 
 startup-header = Başlanğıç
