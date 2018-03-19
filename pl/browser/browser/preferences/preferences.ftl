@@ -22,6 +22,21 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] Szukaj w opcjach
+           *[other] Szukaj w preferencjach
+        }
 pane-general-title = Ogólne
 category-general =
     .tooltiptext = { pane-general-title }
@@ -48,6 +63,16 @@ feature-disable-requires-restart = Konieczne jest ponowne uruchomienie programu 
 should-restart-title = Ponowne uruchamianie programu { -brand-short-name }
 should-restart-ok = Uruchom ponownie
 restart-later = Później
+
+## Preferences UI Search Results
+
+search-results-header = Wyniki wyszukiwania
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] Niestety! W opcjach niczego nie odnaleziono dla wyszukiwania „<span></span>”
+       *[other] Niestety! W preferencjach niczego nie odnaleziono dla wyszukiwania „<span></span>”
+    }
 
 ## General Section
 
