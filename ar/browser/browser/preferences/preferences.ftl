@@ -55,6 +55,10 @@ should-restart-ok = أعد تشغيل { -brand-short-name } الآن
 cancel-no-restart-button = ألغِ
 restart-later = أعِد التشغيل لاحقًا
 
+## Preferences UI Search Results
+
+search-results-need-help = أتحتاج للمساعدة؟ زُر <a>دعم { -brand-short-name }</a>
+
 ## General Section
 
 startup-header = البدء
