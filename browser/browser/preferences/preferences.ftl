@@ -41,6 +41,16 @@ should-restart-title = Qalisa kwakhona { -brand-short-name }
 should-restart-ok = Phinda uqale i{ -brand-short-name } ngoku
 restart-later = Qalisa ngokutsha Kamva
 
+## Preferences UI Search Results
+
+search-results-header = IZiphumo zoKhangelo
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] Uxolo! Azikho iziphumo kuKhetho lwe- “<span></span>”.
+       *[other] Uxolo! Azikho iziphumo kwiiPrifrensi ze-“<span></span>”.
+    }
+
 ## General Section
 
 startup-header = Qalisa
