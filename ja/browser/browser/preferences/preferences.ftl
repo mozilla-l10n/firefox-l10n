@@ -73,6 +73,7 @@ search-results-sorry-message =
         [windows] “<span></span>” オプションについての検索結果はありません。
        *[other] “<span></span>” 設定についての検索結果はありません。
     }
+search-results-need-help = 助けが必要な方は、<a>{ -brand-short-name } サポート</a> をご利用ください
 
 ## General Section
 
