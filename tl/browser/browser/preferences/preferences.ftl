@@ -55,6 +55,15 @@ should-restart-ok = Mag-restart { -brand-short-name } ngayon
 cancel-no-restart-button = Kanselahin
 restart-later = I-restart Mamaya
 
+## Preferences UI Search Results
+
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] Paumanhin! Walang mga resulta sa Mga Pagpipilian para sa “<span></span>”.
+       *[other] Paumanhin! Walang mga resulta sa Mga Kagustuhan para sa “<span></span>”.
+    }
+
 ## General Section
 
 startup-header = Nagsisimula
