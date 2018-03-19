@@ -438,6 +438,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Término de búsqueda o dirección">
+<!ENTITY urlbar.placeholder3          "Introduzca aquí los términos de búsqueda y direcciones">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Extensión:">
@@ -982,11 +983,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Reinicie para actualizar &brandShorterName;">
 
 <!ENTITY newTabControlled.message "Una extensión ha cambiado la página que ve cuando abre una pestaña nueva. puede restaurar su configuración si no deseaba este cambio.">
+
 <!ENTITY newTabControlled.header.message "Su pestaña nueva ha cambiado.">
 <!ENTITY newTabControlled.keepButton.label "Conservar cambios">
 <!ENTITY newTabControlled.keepButton.accesskey "v">
 <!ENTITY newTabControlled.restoreButton.label "Restaurar configuración">
 <!ENTITY newTabControlled.restoreButton.accesskey "R">
+
+<!ENTITY newTabControlled.disableButton.label "Desactivar extensión">
+<!ENTITY newTabControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "Acciones con la página">
 <!ENTITY pageAction.addToUrlbar.label "Añadir a la barra de direcciones">
