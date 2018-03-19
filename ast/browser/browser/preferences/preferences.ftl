@@ -49,6 +49,10 @@ should-restart-title = Reaniciar { -brand-short-name }
 should-restart-ok = Reiniciar { -brand-short-name } agora
 restart-later = Reaniciar dempués
 
+## Preferences UI Search Results
+
+search-results-header = Resultaos de gueta
+
 ## General Section
 
 startup-header = Aniciu
