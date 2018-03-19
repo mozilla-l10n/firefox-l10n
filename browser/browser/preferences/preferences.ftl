@@ -58,6 +58,7 @@ search-results-sorry-message =
         [windows] متاسفیم! هیچ نتیجه‌ای در گزینه‌ها برای «<span></span>» وجود ندارد.
        *[other] متاسفیم! هیچ نتیجه‌ای در ترجیحات برای «<span></span>» وجود ندارد.
     }
+search-results-need-help = نیاز به راهنمایی دارید؟ از <a>پشتیبانی { -brand-short-name }</a> دیدن کنید
 
 ## General Section
 
