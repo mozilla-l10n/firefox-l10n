@@ -55,6 +55,10 @@ should-restart-ok = Reiniciar { -brand-short-name } ahora
 cancel-no-restart-button = Cancelar
 restart-later = Reiniciar más tarde
 
+## Preferences UI Search Results
+
+search-results-header = Resultados de la búsqueda
+
 ## General Section
 
 startup-header = Inicio
