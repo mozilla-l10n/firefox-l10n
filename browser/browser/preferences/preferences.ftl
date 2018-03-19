@@ -48,6 +48,16 @@ should-restart-title = Ponovno pokreni { -brand-short-name }
 should-restart-ok = Ponovno pokreni { -brand-short-name } sada
 restart-later = Ponovno pokreni poslije
 
+## Preferences UI Search Results
+
+search-results-header = Rezultati pretrage
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] Žao nam je! Nema rezultata u Mogućnostima za “<span></span>”.
+       *[other] Žao nam je! Nema rezultata u Postavkama za “<span></span>”.
+    }
+
 ## General Section
 
 startup-header = Pokretanje
