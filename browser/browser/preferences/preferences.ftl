@@ -22,6 +22,21 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] ابحث في الخيارات
+           *[other] ابحث في التفضيلات
+        }
 policies-notice =
     { PLATFORM() ->
         [windows] منعت الشركة إمكانية تغيير بعض الخيارات.
@@ -57,6 +72,13 @@ restart-later = أعِد التشغيل لاحقًا
 
 ## Preferences UI Search Results
 
+search-results-header = نتائج البحث
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] للأسف لا نتائج في الخيارات عن ”<span></span>“.
+       *[other] للأسف لا نتائج في التفضيلات عن ”<span></span>“.
+    }
 search-results-need-help = أتحتاج للمساعدة؟ زُر <a>دعم { -brand-short-name }</a>
 
 ## General Section
