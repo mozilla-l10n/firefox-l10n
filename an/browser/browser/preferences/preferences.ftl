@@ -22,6 +22,21 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] Trobar en Opcions
+           *[other] Trobar en Preferencias
+        }
 pane-general-title = Cheneral
 category-general =
     .tooltiptext = { pane-general-title }
@@ -53,6 +68,13 @@ restart-later = Reiniciar mas entabant
 ## Preferences UI Search Results
 
 search-results-header = Resultaus de buscar
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] No i hai garra resultau en Opcions pa “<span></span>”.
+       *[other] No i hai garra resultau en Preferencias pa “<span></span>”.
+    }
+search-results-need-help = Te cal aduya? Vesita <a>Aduya de { -brand-short-name }</a>
 
 ## General Section
 
