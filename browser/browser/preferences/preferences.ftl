@@ -55,6 +55,11 @@ should-restart-ok = હવે { -brand-short-name } પુનઃપ્રાર�
 cancel-no-restart-button = રદ કરો
 restart-later = પછી પુનઃશરૂ કરો
 
+## Preferences UI Search Results
+
+search-results-header = શોધ પરિણામ
+search-results-need-help = મદદ જોઈઅે છે? <a>{ -brand-short-name } સમર્થન</a> ની મુલાકાત લો
+
 ## General Section
 
 startup-header = શરૂઆત
