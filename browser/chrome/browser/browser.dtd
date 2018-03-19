@@ -556,7 +556,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageCmd.accesskey       "f">
 <!ENTITY viewImageInfoCmd.label       "Ofbyldingsynfo besjen">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
-<!ENTITY viewImageDescCmd.label       "Ofbyldingsomskriuwing besjen">
+<!ENTITY viewImageDescCmd.label       "Omskriuwing besjen">
 <!ENTITY viewImageDescCmd.accesskey   "o">
 <!ENTITY viewVideoCmd.label           "Fideo besjen">
 <!ENTITY viewVideoCmd.accesskey       "I">
@@ -982,11 +982,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Start &brandShorterName; opnij om te fernijen">
 
 <!ENTITY newTabControlled.message "In útwreiding hat de side dy't jo sjogge by it iepenjen fan in nij ljepblêd wizige. As jo dizze wiziging net wolle, kinne jo jo ynstellingen weromsette.">
+
 <!ENTITY newTabControlled.header.message "Jo nije ljepblêd is wizige.">
 <!ENTITY newTabControlled.keepButton.label "Wizigingen bewarje">
 <!ENTITY newTabControlled.keepButton.accesskey "W">
 <!ENTITY newTabControlled.restoreButton.label "Ynstellingen weromsette">
 <!ENTITY newTabControlled.restoreButton.accesskey "Y">
+
 
 <!ENTITY pageActionButton.tooltip "Side-aksjes">
 <!ENTITY pageAction.addToUrlbar.label "Tafoegje oan adresbalke">
