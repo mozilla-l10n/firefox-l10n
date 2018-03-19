@@ -72,6 +72,14 @@ restart-later = 稍后重启
 
 ## Preferences UI Search Results
 
+search-results-header = 搜索结果
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] 很抱歉，没有找到有关“<span></span>”的选项。
+       *[other] 很抱歉，没有找到有关“<span></span>”的首选项。
+    }
+search-results-need-help = 需要帮助？访问 <a>{ -brand-short-name } 技术支持</a>
 
 ## General Section
 
