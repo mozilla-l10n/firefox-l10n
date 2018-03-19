@@ -55,6 +55,17 @@ should-restart-ok = 立刻重新啟動 { -brand-short-name }
 cancel-no-restart-button = 取消
 restart-later = 稍後再重新啟動
 
+## Preferences UI Search Results
+
+search-results-header = 搜尋結果
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] 抱歉！沒有「<span></span>」的選項搜尋結果。
+       *[other] 抱歉！沒有「<span></span>」的偏好設定搜尋結果。
+    }
+search-results-need-help = 需要幫忙嗎？請到 <a>{ -brand-short-name } 技術支援</a>
+
 ## General Section
 
 startup-header = 啟動
