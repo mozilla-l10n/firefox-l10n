@@ -55,6 +55,16 @@ should-restart-ok = { -brand-short-name } nětko znowa startować
 cancel-no-restart-button = Přetorhnyć
 restart-later = Pozdźišo znowa startować
 
+## Preferences UI Search Results
+
+search-results-header = Pytanske wuslědki
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] Bohužel žane wuslědki w nastajenjach za “<span></span>” njejsu.
+       *[other] Bohužel žane wuslědki w nastajenjach za “<span></span>” njejsu.
+    }
+
 ## General Section
 
 startup-header = Startować
