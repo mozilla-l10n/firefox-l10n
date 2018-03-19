@@ -50,6 +50,10 @@ should-restart-ok = Mulai ulang { -brand-short-name } sekarang
 cancel-no-restart-button = Batal
 restart-later = Mulai Ulang Nanti
 
+## Preferences UI Search Results
+
+search-results-header = Hasil Pencarian
+
 ## General Section
 
 startup-header = Memulai
