@@ -74,6 +74,7 @@ search-results-sorry-message =
         [windows] Dīmžāl meklejūt Īstatiejumu “<span></span>” nikas natyka atrosts.
        *[other] Dīmžāl meklejūt Īstatiejumu “<span></span>” nikas natyka atrosts.
     }
+search-results-need-help = Vajadzeiga paleidzeiba? Ej uz <a>{ -brand-short-name } Tehniskais atbolsts</a>
 
 ## General Section
 
