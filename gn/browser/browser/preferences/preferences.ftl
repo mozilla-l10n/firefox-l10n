@@ -79,6 +79,7 @@ search-results-sorry-message =
         [windows] ¡Ambyasy! ndaipóri tembiapokue jeporavorãme “<span></span>”-pe g̃uarã.
        *[other] ¡Ambyasy! ndaipoóri jerohoryvévape tembiapokue “<span></span>”.
     }
+search-results-need-help = ¿Eokitevẽpa pytyvõ? Eoke <a>{ -brand-short-name } Ñepytyvõ</a> pe
 
 ## General Section
 
