@@ -64,6 +64,7 @@ search-results-sorry-message =
         [windows] Digarezit! N'eus disoc'h ebet en dibarzhioù evit “<span></span>”.
        *[other] Digarezit! N'eus disoc'h ebet er Gwellvezioù evit “<span></span>”.
     }
+search-results-need-help = Ezhomm sikour? Gweladenniñ <a>Skoazell { -brand-short-name }</a>
 
 ## General Section
 
