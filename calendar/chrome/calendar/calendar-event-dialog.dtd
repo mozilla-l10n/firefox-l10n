@@ -398,6 +398,7 @@
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "General">
 <!ENTITY read.only.title.label           "Título:">
+<!ENTITY read.only.calendar.label        "Calendario:">
 <!ENTITY read.only.event.start.label     "Fecha de inicio:">
 <!ENTITY read.only.task.start.label      "Fecha de inicio:">
 <!ENTITY read.only.event.end.label       "Fecha de fin:">
@@ -416,3 +417,6 @@
 <!ENTITY read.only.attendees.label       "Asistentes">
 <!ENTITY read.only.description.label     "Descripción">
 <!ENTITY read.only.link.label            "Enlaces relacionados">
+
+<!-- Summary dialog -->
+<!ENTITY summary.dialog.saveclose.label         "Guardar y cerrar">
