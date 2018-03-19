@@ -74,6 +74,7 @@ search-results-sorry-message =
         [windows] Ay haame! Hay batte yaltaani e cuɓanɗe ngam “<span></span>”.
        *[other] Ay haame! Alaa njaltudi woodi nder cuɓe wonande "<span></span>".
     }
+search-results-need-help = Aɗa sokli ballal? Yillo <a>{ -brand-short-name } Wallitorde</a>
 
 ## General Section
 
