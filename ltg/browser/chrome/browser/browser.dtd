@@ -242,6 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.popupBlocked.tooltip             "Izlacušū lūku rōdiešona itymā lopā ir aizlīgta.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Datu sajimšona nu ituos lopys canvas ir blokeita.">
 
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "Adobe Flash spraudņa izmontōšona itymā lopā ir aizlīgta.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Tu esi aizlīdzs MIDI pīkļuvi itai lopai.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Paruodeit viesturi">
@@ -437,6 +438,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Īrkosti meklejamū tekstu voi sātys lopys adresu">
+<!ENTITY urlbar.placeholder3          "Īvodi meklajamū frāzi voi lopys adresi ite">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Paplošynuojums:">
@@ -981,11 +983,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Puorstarteit &brandShorterName;, kab atjaunynuotu">
 
 <!ENTITY newTabControlled.message "Lopu, kuru atrōda pi jaunas cilnes attaisiešonys, ir izmainiejs papyldynōjums. Ka tu tō nagribi, vari atcelt vysas izmaiņas.">
+
 <!ENTITY newTabControlled.header.message "Tova jaunō cilne ir izmaineita.">
 <!ENTITY newTabControlled.keepButton.label "Paturēt izmaiņas">
 <!ENTITY newTabControlled.keepButton.accesskey "z">
 <!ENTITY newTabControlled.restoreButton.label "Atjaunōt parametrus, kai beja">
 <!ENTITY newTabControlled.restoreButton.accesskey "j">
+
+<!ENTITY newTabControlled.disableButton.label "Atslēgt paplašinojumu">
+<!ENTITY newTabControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "Lopys darbeibys">
 <!ENTITY pageAction.addToUrlbar.label "Davīnōt adreses laukam">

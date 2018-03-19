@@ -14,12 +14,8 @@ pref-page =
             [windows] Īstatiejumi
            *[other] Īstatiejumi
         }
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
+# This string is currently used only in Firefox 60 and will be removed when not
+# needed for x-channel. See bug 1445686 for details.
 search-input =
     .style = width: 15.4em
 # This is used to determine the width of the search field in about:preferences,
@@ -37,6 +33,11 @@ search-input-box =
             [windows] Mekleit īstatiejumūs
            *[other] Mekleit īstatiejumūs
         }
+policies-notice =
+    { PLATFORM() ->
+        [windows] Jiusu organizaceja aizlīguse mainēt dažus parametrus.
+       *[other] Jiusu organizaceja aizlīguse mainēt dažus parametrus.
+    }
 pane-general-title = Golvonī
 category-general =
     .tooltiptext = { pane-general-title }
