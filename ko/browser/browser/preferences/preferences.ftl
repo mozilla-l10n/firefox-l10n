@@ -22,6 +22,21 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] 옵션에서 찾기
+           *[other] 설정에서 찾기
+        }
 policies-notice =
     { PLATFORM() ->
         [windows] 기관에서 몇몇 옵션을 바꿀 수 없게 하였습니다.
@@ -54,6 +69,10 @@ should-restart-title = { -brand-short-name } 재시작
 should-restart-ok = 지금 { -brand-short-name } 재시작
 cancel-no-restart-button = 취소
 restart-later = 나중에 다시 시작
+
+## Preferences UI Search Results
+
+search-results-need-help = 도움이 필요하세요? <a>{ -brand-short-name } 지원</a>에 방문하세요.
 
 ## General Section
 
