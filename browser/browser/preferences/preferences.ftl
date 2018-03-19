@@ -50,6 +50,16 @@ should-restart-ok = Ponovno zaženi { -brand-short-name } zdaj
 cancel-no-restart-button = Prekliči
 restart-later = Ponovno zaženi pozneje
 
+## Preferences UI Search Results
+
+search-results-header = Rezultati iskanja
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] Oprostite! V možnostih ni zadetkov za “<span></span>”.
+       *[other] Oprostite! V nastavitvah ni zadetkov za “<span></span>”.
+    }
+
 ## General Section
 
 startup-header = Zagon
