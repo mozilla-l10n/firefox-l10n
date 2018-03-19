@@ -49,6 +49,16 @@ should-restart-title = Perleisti „{ -brand-short-name }“
 should-restart-ok = Perleisti „{ -brand-short-name }“ dabar
 restart-later = Perleisti vėliau
 
+## Preferences UI Search Results
+
+search-results-header = Paieškos rezultatai
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] Deja! Nuostatose nėra rezultatų, atitinkančių „<span></span>“.
+       *[other] Deja! Nuostatose nėra rezultatų, atitinkančių „<span></span>“.
+    }
+
 ## General Section
 
 startup-header = Paleistis
