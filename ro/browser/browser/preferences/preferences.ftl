@@ -55,6 +55,16 @@ should-restart-ok = Repornește { -brand-short-name } acum
 cancel-no-restart-button = Renunță
 restart-later = Repornește mai târziu
 
+## Preferences UI Search Results
+
+search-results-header = Rezultatele căutării
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] Ne pare rău! Nu există rezultate în Opțiuni pentru „<span></span>”.
+       *[other] Ne pare rău! Nu există rezultate în Preferințe pentru „<span></span>”.
+    }
+
 ## General Section
 
 startup-header = Pornire
