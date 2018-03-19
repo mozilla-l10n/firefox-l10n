@@ -49,6 +49,10 @@ should-restart-title = Restartuj { -brand-short-name }
 should-restart-ok = Restartuj { -brand-short-name } odmah
 restart-later = Restartuj kasnije
 
+## Preferences UI Search Results
+
+search-results-header = Rezultati pretrage
+
 ## General Section
 
 startup-header = Pokretanje
