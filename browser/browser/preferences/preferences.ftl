@@ -22,6 +22,21 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] Търсене в настройките
+           *[other] Търсене в настройките
+        }
 pane-general-title = Основни
 category-general =
     .tooltiptext = { pane-general-title }
@@ -49,6 +64,17 @@ should-restart-title = Рестартиране на { -brand-short-name }
 should-restart-ok = Рестартиране на { -brand-short-name }
 cancel-no-restart-button = Отказ
 restart-later = Рестартиране по-късно
+
+## Preferences UI Search Results
+
+search-results-header = Резултати
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] Съжаляваме! В настройките няма резултати за „<span></span>“.
+       *[other] Съжаляваме! В настройките няма резултати за „<span></span>“.
+    }
+search-results-need-help = Имате нужда от помощ? Посетете <a>поддръжката за { -brand-short-name }</a>
 
 ## General Section
 
