@@ -49,6 +49,16 @@ should-restart-title = { -brand-short-name } পুনরারম্ভ কর�
 should-restart-ok = { -brand-short-name } এখনই পুনরায় শুরু করুন
 restart-later = পরে পুনরারম্ভ করুন
 
+## Preferences UI Search Results
+
+search-results-header = অনুসন্ধানের ফলাফল
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] দুঃখিত! “<span></span>”-র জন্য অপশনে কোন ফলাফল নেই।
+       *[other] দুঃখিত! “<span></span>”-র জন্য পছন্দসমূহে কোন ফলাফল নেই।
+    }
+
 ## General Section
 
 startup-header = প্রারম্ভ
