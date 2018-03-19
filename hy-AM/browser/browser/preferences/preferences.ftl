@@ -22,6 +22,21 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] Գտնել Ընտրանքներում
+           *[other] Գտնել Կարգավորումներում
+        }
 pane-general-title = Ընդհանուր
 category-general =
     .tooltiptext = { pane-general-title }
@@ -52,6 +67,12 @@ restart-later = Վերամեկնարկել հետո
 ## Preferences UI Search Results
 
 search-results-header = Որոնման արդյունքներ
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] Արդյունքներ չկան Ընտրանքներում “<span></span>”-ի համար:
+       *[other] Կարգավորումներում այլ արդյունքներ չկան “<span></span>”-ի համար:
+    }
 
 ## General Section
 
