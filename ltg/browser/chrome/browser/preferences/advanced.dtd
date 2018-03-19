@@ -53,8 +53,6 @@ available. -->
 <!ENTITY networkProxy.label              "Teikla storpnīkserveris">
 
 <!ENTITY connectionDesc.label            "Konfigureit, kai &brandShortName; savīnojās ar Šķārsteiklu">
-
-<!ENTITY connectionSettingsLearnMore.label "Vaira">
 <!ENTITY connectionSettings.label        "Īstatiejumi...">
 <!ENTITY connectionSettings.accesskey    "e">
 
@@ -64,11 +62,13 @@ available. -->
 <!ENTITY siteData.label                  "Lopys dati">
 <!ENTITY clearSiteData.label             "Izdzēst vysus datus">
 <!ENTITY clearSiteData.accesskey         "v">
+<!ENTITY siteDataSettings.label          "Īstatiejumi...">
+<!ENTITY siteDataSettings.accesskey      "i">
 <!ENTITY siteData1.label                 "Cookies un lopys dati">
 <!ENTITY clearSiteData1.label            "Dzēst datus…">
 <!ENTITY clearSiteData1.accesskey        "z">
-<!ENTITY siteDataSettings.label          "Īstatiejumi...">
-<!ENTITY siteDataSettings.accesskey      "i">
+<!ENTITY siteDataSettings1.label         "Porvaļdēt datus…">
+<!ENTITY siteDataSettings1.accesskey     "P">
 <!ENTITY siteDataLearnMoreLink.label     "Uzzynojit vairuok">
 
 <!-- LOCALIZATION NOTE:
