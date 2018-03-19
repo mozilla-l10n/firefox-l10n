@@ -169,6 +169,7 @@
 <!ENTITY  event.toolbar.privacy.label                     "Privacidade">
 
 <!ENTITY  event.toolbar.save.tooltip2                     "Gardar">
+<!ENTITY  event.toolbar.saveandclose.tooltip              "Gardar e pechar">
 <!ENTITY  event.toolbar.delete.tooltip                    "Eliminar">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Invitar á asistentes">
 <!ENTITY  event.toolbar.attachments.tooltip               "Engadir anexos">
@@ -379,6 +380,7 @@
 <!ENTITY event.attendee.usertype.group          "Grupo">
 <!ENTITY event.attendee.usertype.resource       "Recurso">
 <!ENTITY event.attendee.usertype.room           "Sala">
+<!ENTITY event.attendee.usertype.unknown        "Descoñecido">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Especifique o fuso horario">
@@ -387,6 +389,7 @@
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Xeral">
 <!ENTITY read.only.title.label           "Título:">
+<!ENTITY read.only.calendar.label        "Calendario:">
 <!ENTITY read.only.event.start.label     "Data de inicio:">
 <!ENTITY read.only.task.start.label      "Data de inicio:">
 <!ENTITY read.only.event.end.label       "Data de remate:">
@@ -401,8 +404,18 @@
 <!ENTITY read.only.tentative.label       "Pode que asista">
 <!ENTITY read.only.needs.action.label    "Confirmareino máis tarde">
 <!ENTITY read.only.reminder.label        "Recordatorio:">
+<!ENTITY read.only.attachments.label     "Anexos:">
 <!ENTITY read.only.attendees.label       "Asistentes">
 <!ENTITY read.only.description.label     "Descrición">
 <!ENTITY read.only.link.label            "Ligazón relacionada">
 
 <!-- Summary dialog -->
+<!ENTITY summary.dialog.saveclose.label         "Gardar e pechar">
+<!ENTITY summary.dialog.accept.label            "Aceptar">
+<!ENTITY summary.dialog.accept.tooltiptext      "Aceptar a invitación">
+<!ENTITY summary.dialog.tentative.label         "Provisionalmente">
+<!ENTITY summary.dialog.tentative.tooltiptext   "Aceptar a invitación provisionalmente">
+<!ENTITY summary.dialog.decline.label           "Rexeitar">
+<!ENTITY summary.dialog.decline.tooltiptext     "Rexeitar a invitación">
+<!ENTITY summary.dialog.dontsend.label          "Non enviar unha resposta">
+<!ENTITY summary.dialog.send.label              "Enviar unha resposta agora">
