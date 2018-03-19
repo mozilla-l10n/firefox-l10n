@@ -53,6 +53,12 @@ restart-later = Reiniciar después
 ## Preferences UI Search Results
 
 search-results-header = Buscar resultados
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] ¡Lo siento! No hay resultados en las opciones de “<span></span>”.
+       *[other] ¡Lo siento! No hay resultados en las preferencias de “<span></span>”.
+    }
 search-results-need-help = ¿Necesitas ayuda? Visita <a>Apoyo de { -brand-short-name }</a>
 
 ## General Section
