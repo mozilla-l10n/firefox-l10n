@@ -50,6 +50,10 @@ should-restart-ok = ಈಗ { -brand-short-name } ಮರಳಿ ಆರಂಭಿಸ
 cancel-no-restart-button = ರದ್ದು ಮಾಡು
 restart-later = ಆಮೇಲೆ ಮರು ಆರಂಭಿಸು
 
+## Preferences UI Search Results
+
+search-results-header = ಹುಡುಕು ಫಲಿತಾಂಶಗಳು
+
 ## General Section
 
 startup-header = ಆರಂಭಿಕ
