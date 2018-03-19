@@ -50,6 +50,11 @@ should-restart-ok = Ales asenker { -brand-short-name } tura
 cancel-no-restart-button = Sefsex
 restart-later = Ales asenker ticki
 
+## Preferences UI Search Results
+
+search-results-header = Igmaḍ n unadi
+search-results-need-help = Tesriḍ tallelt? Rzu γer <a>{ -brand-short-name } Tallalt</a>
+
 ## General Section
 
 startup-header = Asenker
