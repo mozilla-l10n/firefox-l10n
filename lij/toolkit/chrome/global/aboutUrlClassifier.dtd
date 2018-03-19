@@ -1,0 +1,33 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
+<!ENTITY aboutUrlClassifier.title                       "Informaçioin do Clasificatô URL">
+<!ENTITY aboutUrlClassifier.providerTitle               "Fornitô">
+<!ENTITY aboutUrlClassifier.provider                    "Fornitô">
+<!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Data urtimo agiornamento">
+<!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Data pròscimo agiornamento">
+<!ENTITY aboutUrlClassifier.providerBackOffTime         "Tenpo de interuçion">
+<!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Stato urtimo agiornamento">
+<!ENTITY aboutUrlClassifier.providerUpdateBtn           "Agiornamento">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Cache">
+<!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Agiorna">
+<!ENTITY aboutUrlClassifier.cacheClearBtn               "Netezza">
+<!ENTITY aboutUrlClassifier.cacheTableName              "Nomme tabella">
+<!ENTITY aboutUrlClassifier.cacheNCacheEntries          "Numero de ingresci negativi inta cache">
+<!ENTITY aboutUrlClassifier.cachePCacheEntries          "Numero de ingresci poxitivi inta cache">
+<!ENTITY aboutUrlClassifier.cacheShowEntries            "Fanni vedde ingresci">
+<!ENTITY aboutUrlClassifier.cacheEntries                "Ingresci inta cache">
+<!ENTITY aboutUrlClassifier.cachePrefix                 "Prefisso">
+<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Scadensa da cache negativa">
+<!ENTITY aboutUrlClassifier.cacheFullhash               "Hash conpleto">
+<!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Scadensa da cache poxitiva">
+<!ENTITY aboutUrlClassifier.debugTitle                  "Debug">
+<!ENTITY aboutUrlClassifier.debugModuleBtn              "Inpòsta mòdoli do diaio">
+<!ENTITY aboutUrlClassifier.debugFileBtn                "Inpòsta file do diaio">
+<!ENTITY aboutUrlClassifier.debugJSLogChk               "Inpòsta diaio JS">
+<!ENTITY aboutUrlClassifier.debugSBModules              "Mòdolo do diaio da navegaçion segua">
+<!ENTITY aboutUrlClassifier.debugModules                "Mòdoli do diaio corenti">
+<!ENTITY aboutUrlClassifier.debugSBJSModules            "Diao JS da navegaçion segua">
+<!ENTITY aboutUrlClassifier.debugFile                   "File do diaio corente">
