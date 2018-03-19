@@ -22,6 +22,21 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] Hľadať
+           *[other] Hľadať
+        }
 pane-general-title = Všeobecné
 category-general =
     .tooltiptext = { pane-general-title }
@@ -48,6 +63,17 @@ feature-disable-requires-restart = Aby bolo možné vypnúť túto funkciu, { -b
 should-restart-title = Reštartovať { -brand-short-name }
 should-restart-ok = Reštartovať { -brand-short-name } teraz
 restart-later = Reštartovať neskôr
+
+## Preferences UI Search Results
+
+search-results-header = Výsledky vyhľadávania
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] Mrzí nás to, no pre hľadaný výraz “<span></span>” sme v možnostiach nič nenašli.
+       *[other] Mrzí nás to, no pre hľadaný výraz “<span></span>” sme v možnostiach nič nenašli.
+    }
+search-results-need-help = Potrebujete pomoc? Navštívte <a>podporu aplikácie { -brand-short-name }</a>
 
 ## General Section
 
