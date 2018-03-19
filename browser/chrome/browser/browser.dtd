@@ -242,6 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.popupBlocked.tooltip             "Uzlecošo logu rādīšana no šīs lapas ir bloķēta.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Šīs lapas canvas datu ieguve ir bloķēta.">
 
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "Adobe Flash spraudņa izmantošana šajā lapā ir bloķēta.">
 <!ENTITY urlbar.midiBlocked.tooltip              "MIDI izmantošana šajā lapā ir bloķēta.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Parādīt vēsturi">
@@ -437,6 +438,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Ieraksti meklējamo tekstu vai mājas lapas adresi">
+<!ENTITY urlbar.placeholder3          "Ievadiet meklējamo frāzi vai lapas adresi šeit">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Paplašinājums:">
@@ -981,11 +983,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Pārstartēt &brandShorterName;, lai atjauninātu">
 
 <!ENTITY newTabControlled.message "Paplašinājums ir mainījis lapu, kas redzama atverot jaunu cilni. Ja nevēlaties šīs izmaiņas, varat atjaunot iestatījumus.">
+
 <!ENTITY newTabControlled.header.message "Jaunā cilne ir izmainīta.">
 <!ENTITY newTabControlled.keepButton.label "Saglabāt izmaiņas">
 <!ENTITY newTabControlled.keepButton.accesskey "S">
 <!ENTITY newTabControlled.restoreButton.label "Atjaunot iestatījumus">
 <!ENTITY newTabControlled.restoreButton.accesskey "A">
+
+<!ENTITY newTabControlled.disableButton.label "Deaktivēt paplašinājumu">
+<!ENTITY newTabControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "Lapas darbības">
 <!ENTITY pageAction.addToUrlbar.label "Pievienot adreses joslai">
