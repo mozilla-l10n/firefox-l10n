@@ -52,6 +52,7 @@ restart-later = Reiniciar después
 
 ## Preferences UI Search Results
 
+search-results-header = Buscar resultados
 search-results-need-help = ¿Necesitas ayuda? Visita <a>Apoyo de { -brand-short-name }</a>
 
 ## General Section
