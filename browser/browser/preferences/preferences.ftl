@@ -55,6 +55,16 @@ should-restart-ok = Reiniciar { -brand-short-name } ahora
 cancel-no-restart-button = Cancelar
 restart-later = Reiniciar después
 
+## Preferences UI Search Results
+
+search-results-header = Resultados de búsqueda
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] ¡Lo sentimos! No hay resultados en opciones para “<span></span>”.
+       *[other] ¡Lo sentimos! No hay resultados en preferencias para “<span></span>”.
+    }
+
 ## General Section
 
 startup-header = Inicio
