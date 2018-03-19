@@ -55,6 +55,16 @@ should-restart-ok = Ath-thòisich { -brand-short-name } an-dràsta
 cancel-no-restart-button = Sguir dheth
 restart-later = Ath-thòisich uaireigin eile
 
+## Preferences UI Search Results
+
+search-results-header = Toraidhean luirg
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] Tha sinn duilich ach chan eil toradh sam bith dhut sna roghainnean airson “<span></span>”.
+       *[other] Tha sinn duilich ach chan eil toradh sam bith dhut sna roghainnean airson “<span></span>”.
+    }
+
 ## General Section
 
 startup-header = Aig an toiseach
