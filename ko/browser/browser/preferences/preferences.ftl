@@ -73,6 +73,12 @@ restart-later = 나중에 다시 시작
 ## Preferences UI Search Results
 
 search-results-header = 검색 결과
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] 죄송합니다! “<span></span>”옵션에 대한 결과가 없습니다.
+       *[other] 죄송합니다! “<span></span>”설정에 대한 결과가 없습니다.
+    }
 search-results-need-help = 도움이 필요하세요? <a>{ -brand-short-name } 지원</a>에 방문하세요.
 
 ## General Section
