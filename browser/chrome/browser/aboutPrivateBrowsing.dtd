@@ -4,6 +4,8 @@
 
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.title):
      Please ensure this exactly matches tabs.emptyPrivateTabTitle in tabbrowser.properties -->
+<!ENTITY aboutPrivateBrowsing.title                      "Navegacion privada">
+<!ENTITY aboutPrivateBrowsing.notPrivate.title           "Dobrir una fenèstra de navegacion privada ?">
 
 <!ENTITY aboutPrivateBrowsing.notPrivate                 "Pel moment, sètz pas dins una fenèstra de navegacion privada.">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Dobrir una fenèstra de navegacion privada">
