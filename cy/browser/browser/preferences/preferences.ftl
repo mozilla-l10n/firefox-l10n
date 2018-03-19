@@ -55,6 +55,16 @@ should-restart-ok = Ailgychwynnwch { -brand-short-name } nawr
 cancel-no-restart-button = Diddymu
 restart-later = Ailgychwyn Rhywbryd Eto
 
+## Preferences UI Search Results
+
+search-results-header = Canlyniadau Chwilio
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] Ymddiheuriadau! Nid oes canlyniadau yn y Dewisiadau ar gyfer “<span></span>”.
+       *[other] Ymddiheuriadau! Nid os canlyniadau yn y Dewisiada.u ar gyfer “<span></span>”.
+    }
+
 ## General Section
 
 startup-header = Cychwyn
