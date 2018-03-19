@@ -67,6 +67,13 @@ restart-later = Khởi động lại sau
 ## Preferences UI Search Results
 
 search-results-header = Kết quả tìm kiếm
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] Xin lỗi! Không có kết quả trong phần tủy chọn cho “<span></span>”.
+       *[other] Xin lỗi! Không có kết quả trong phần tủy chỉnh cho “<span></span>”.
+    }
+search-results-need-help = Cần trợ giúp? Ghé thăm <a>Hỗ trợ từ { -brand-short-name }</a>
 
 ## General Section
 
