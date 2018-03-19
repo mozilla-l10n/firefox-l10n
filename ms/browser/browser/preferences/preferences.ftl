@@ -22,6 +22,21 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] Cari dalam Pilihan
+           *[other] Cari dalam Keutamaan
+        }
 policies-notice =
     { PLATFORM() ->
         [windows] Organisasi anda telah menyahdayakan keupayaan untuk mengubah beberapa pilihan.
@@ -54,6 +69,17 @@ should-restart-title = Mula semula { -brand-short-name }
 should-restart-ok = Mulakan { -brand-short-name } sekarang
 cancel-no-restart-button = Batal
 restart-later = Mula semula Kemudian
+
+## Preferences UI Search Results
+
+search-results-header = Hasil Carian
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] Maaf! Tiada keputusan dalam Pilihan untuk “<span></span>”.
+       *[other] Maaf! Tiada keputusan dalam Keutamaan untuk “<span></span>”.
+    }
+search-results-need-help = Perlu bantuan? Lawat <a>Sokongan { -brand-short-name }</a>
 
 ## General Section
 
