@@ -982,11 +982,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Restartigu por ĝisdatigi &brandShorterName;">
 
 <!ENTITY newTabControlled.message "Etendaĵo ŝanĝis la paĝon, kiun vi vidas kiam vi malfermas novan langeton. Vi povas remeti viajn agordojn se vi ne volas tiun ĉi ŝanĝon.">
+
 <!ENTITY newTabControlled.header.message "Via nova langeto ŝanĝiĝis.">
 <!ENTITY newTabControlled.keepButton.label "Gardi ŝanĝojn">
 <!ENTITY newTabControlled.keepButton.accesskey "G">
 <!ENTITY newTabControlled.restoreButton.label "Remeti agordojn">
 <!ENTITY newTabControlled.restoreButton.accesskey "R">
+
+<!ENTITY newTabControlled.disableButton.label "Malaktivigi etendaĵon">
 
 <!ENTITY pageActionButton.tooltip "Retpaĝaj agoj">
 <!ENTITY pageAction.addToUrlbar.label "Aldoni al adresa strio">
