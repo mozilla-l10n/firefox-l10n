@@ -55,6 +55,16 @@ should-restart-ok = Перезапустити { -brand-short-name } зараз
 cancel-no-restart-button = Скасувати
 restart-later = Перезапустити потім
 
+## Preferences UI Search Results
+
+search-results-header = Результати пошуку
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] Вибачте! В налаштуваннях немає результатів для “<span></span>”.
+       *[other] Вибачте! В налаштуваннях немає результатів для “<span></span>”.
+    }
+
 ## General Section
 
 startup-header = Запуск
