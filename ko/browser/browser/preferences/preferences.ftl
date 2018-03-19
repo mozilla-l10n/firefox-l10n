@@ -72,6 +72,7 @@ restart-later = 나중에 다시 시작
 
 ## Preferences UI Search Results
 
+search-results-header = 검색 결과
 search-results-need-help = 도움이 필요하세요? <a>{ -brand-short-name } 지원</a>에 방문하세요.
 
 ## General Section
