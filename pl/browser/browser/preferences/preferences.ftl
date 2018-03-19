@@ -73,6 +73,7 @@ search-results-sorry-message =
         [windows] Niestety! W opcjach niczego nie odnaleziono dla wyszukiwania „<span></span>”
        *[other] Niestety! W preferencjach niczego nie odnaleziono dla wyszukiwania „<span></span>”
     }
+search-results-need-help = Potrzebujesz pomocy? Odwiedź witrynę <a>wsparcia programu { -brand-short-name }</a>
 
 ## General Section
 
