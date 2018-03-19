@@ -22,6 +22,21 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] ค้นหาในตัวเลือก
+           *[other] ค้นหาในค่ากำหนด
+        }
 policies-notice =
     { PLATFORM() ->
         [windows] องค์กรของคุณได้ปิดใช้งานความสามารถในการเปลี่ยนตัวเลือกบางอย่าง
@@ -54,6 +69,17 @@ should-restart-title = เริ่มการทำงาน { -brand-short-na
 should-restart-ok = เริ่มการทำงาน { -brand-short-name } ใหม่ตอนนี้
 cancel-no-restart-button = ยกเลิก
 restart-later = เริ่มการทำงานใหม่ในภายหลัง
+
+## Preferences UI Search Results
+
+search-results-header = ผลการค้นหา
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] ขออภัย! ไม่มีผลลัพธ์สำหรับ “<span></span>” ในตัวเลือก
+       *[other] ขออภัย! ไม่มีผลลัพธ์สำหรับ “<span></span>” ในค่ากำหนด
+    }
+search-results-need-help = ต้องการความช่วยเหลือ? เยี่ยมชม <a>การสนับสนุนของ { -brand-short-name }</a>
 
 ## General Section
 
