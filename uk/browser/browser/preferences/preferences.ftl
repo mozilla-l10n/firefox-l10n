@@ -79,6 +79,7 @@ search-results-sorry-message =
         [windows] Вибачте! В налаштуваннях немає результатів для “<span></span>”.
        *[other] Вибачте! В налаштуваннях немає результатів для “<span></span>”.
     }
+search-results-need-help = Потрібна допомога? Відвідайте <a>Підтримка { -brand-short-name }</a>
 
 ## General Section
 
