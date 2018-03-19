@@ -55,6 +55,17 @@ should-restart-ok = Поново покрени { -brand-short-name } сада
 cancel-no-restart-button = Откажи
 restart-later = Поново покрени касније
 
+## Preferences UI Search Results
+
+search-results-header = Резултати претраге
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] Жао нам је! Нема резултата у поставкама за “<span></span>”.
+       *[other] Жао нам је! Нема резултата у поставкама за “<span></span>”.
+    }
+search-results-need-help = Потребна вам је помоћ? Посетите <a>{ -brand-short-name } подршка</a>
+
 ## General Section
 
 startup-header = Покретање
