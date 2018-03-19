@@ -22,6 +22,21 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] 在选项中查找
+           *[other] 在首选项中查找
+        }
 policies-notice =
     { PLATFORM() ->
         [windows] 您的组织已禁用某些选项。
@@ -54,6 +69,9 @@ should-restart-title = 重新启动 { -brand-short-name }
 should-restart-ok = 立即重启 { -brand-short-name }
 cancel-no-restart-button = 取消
 restart-later = 稍后重启
+
+## Preferences UI Search Results
+
 
 ## General Section
 
