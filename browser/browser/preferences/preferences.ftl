@@ -22,6 +22,21 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] ഓപ്ഷനുകളിൽ കണ്ടെത്തുക
+           *[other] പ്രഫറന്‍സുകളില്‍ കണ്ടെത്തുക
+        }
 pane-general-title = സാധാരണ
 category-general =
     .tooltiptext = { pane-general-title }
@@ -48,6 +63,16 @@ feature-disable-requires-restart = ഈ വിശേഷത പ്രവര്‍�
 should-restart-title = { -brand-short-name } വീണ്ടും ആരംഭിക്കുക
 should-restart-ok = ഇപ്പോൾ { -brand-short-name } പുനരാരംഭിക്കുക
 restart-later = പിന്നീട് പുനരാരംഭിക്കുക
+
+## Preferences UI Search Results
+
+search-results-header = തിരച്ചില്‍ ഫലങ്ങള്‍
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] ക്ഷമിക്കണം! “<span></span>” നു വേണ്ടി ഓപ്ഷനുകളിൽ ഫലങ്ങളൊന്നുമില്ല.
+       *[other] ക്ഷമിക്കണം! “<span></span>” നായുള്ള പ്രഫറന്‍സില്‍ ഫലങ്ങളൊന്നുമില്ല.
+    }
 
 ## General Section
 
