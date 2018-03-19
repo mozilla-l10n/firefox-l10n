@@ -20,3 +20,14 @@
 <!ENTITY aboutUrlClassifier.cacheShowEntries            "Diskouez an enankadoù">
 <!ENTITY aboutUrlClassifier.cacheEntries                "Enankadoù ar c'hrubuilh">
 <!ENTITY aboutUrlClassifier.cachePrefix                 "Rakger">
+<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Diamzeradur krubuilh leiel">
+<!ENTITY aboutUrlClassifier.cacheFullhash               "Roud klok">
+<!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Diamzeradur krubuilh muiel">
+<!ENTITY aboutUrlClassifier.debugTitle                  "Diveugañ">
+<!ENTITY aboutUrlClassifier.debugModuleBtn              "Gweredekaat ar molladoù kerzhlevr">
+<!ENTITY aboutUrlClassifier.debugFileBtn                "Arventennañ ur restr kerzhlevr">
+<!ENTITY aboutUrlClassifier.debugJSLogChk               "Gweredekaat ar c'herzhlevr JS">
+<!ENTITY aboutUrlClassifier.debugSBModules              "Molladoù kerzhlevr ar Merdeiñ Diarvar">
+<!ENTITY aboutUrlClassifier.debugModules                "Molladoù kerzhlevr bremanel">
+<!ENTITY aboutUrlClassifier.debugSBJSModules            "Kerzhlevr JS ar merdeiñ diarvar">
+<!ENTITY aboutUrlClassifier.debugFile                   "Restr kerzhlevr bremanel">

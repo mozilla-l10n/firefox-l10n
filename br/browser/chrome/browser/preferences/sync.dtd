@@ -19,6 +19,7 @@
      over into this string, used as the checkbox which indicates if prefs are synced
 -->
 <!ENTITY engine.prefsWin.label      "Dibarzhioù">
+<!ENTITY engine.prefsWin.accesskey  "S">
 <!ENTITY engine.prefs.label         "Gwellvezioù">
 <!ENTITY engine.prefs.accesskey     "G">
 <!ENTITY engine.prefs.title         "Arventennoù hollek, buhez prevez ha diogelroez kemmet ganeoc'h">
@@ -69,11 +70,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY verifiedManage.accesskey     "A">
 <!ENTITY disconnect3.label            "Digennaskañ…">
 <!ENTITY disconnect3.accesskey        "D">
-<!ENTITY verify.label                "Gwiriañ ar chomlec'h postel">
-<!ENTITY verify.accesskey            "w">
-<!ENTITY forget.label                "Ankouaat ar chomlec'h postel-mañ">
-<!ENTITY forget.accesskey            "p">
-
 <!ENTITY resendVerification.label     "Adkas ar gwiriadur">
 <!ENTITY resendVerification.accesskey "g">
 <!ENTITY cancelSetup.label            "Nulañ ar staliadur">
