@@ -55,6 +55,10 @@ should-restart-ok = Перазапусціць { -brand-short-name } зараз
 cancel-no-restart-button = Скасаваць
 restart-later = Перазапусціць пазней
 
+## Preferences UI Search Results
+
+search-results-header = Вынікі пошуку
+
 ## General Section
 
 startup-header = Запуск
