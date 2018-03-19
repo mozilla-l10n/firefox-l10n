@@ -73,6 +73,12 @@ restart-later = પછી પુનઃશરૂ કરો
 ## Preferences UI Search Results
 
 search-results-header = શોધ પરિણામ
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] માફ કરશો! “<span></span>” માટેનાં વિકલ્પોમાં કોઈ પરિણામો નથી.
+       *[other] માફ કરશો! “<span></span>”માટે પસંદગીઓમાં કોઈ પરિણામો નથી.
+    }
 search-results-need-help = મદદ જોઈઅે છે? <a>{ -brand-short-name } સમર્થન</a> ની મુલાકાત લો
 
 ## General Section
