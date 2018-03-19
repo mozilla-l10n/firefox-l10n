@@ -22,6 +22,21 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] Знайсці ў наладах
+           *[other] Знайсці ў перавагах
+        }
 policies-notice =
     { PLATFORM() ->
         [windows] Ваша арганізацыя выключыла магчымасць змяняць некаторыя налады.
@@ -58,6 +73,12 @@ restart-later = Перазапусціць пазней
 ## Preferences UI Search Results
 
 search-results-header = Вынікі пошуку
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] Выбачайце! У наладах няма вынікаў для “<span></span>”.
+       *[other] Выбачайце! У перавагах няма вынікаў для “<span></span>”.
+    }
 
 ## General Section
 
