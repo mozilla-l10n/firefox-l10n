@@ -6,7 +6,7 @@
 <!ENTITY firstrun_urlbar_message2 "Mercé d’aver causit &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Un navegador mobil modèrne de Mozilla, que s\&apos;engatja per tòca non lucrativa a defendre un web liure e dobèrt.">
 <!ENTITY firstrun_panel_title_privacy "Vida privada">
-<!ENTITY firstrun_privacy_message "Navigatz coma se degun vos gaitèsse pas">
+<!ENTITY firstrun_privacy_message "Navegatz coma se degun vos gaitèsse pas">
 <!ENTITY firstrun_privacy_subtext "La navegacion privada amb proteccion de seguiment bloca los traçadors pendent que navigatz e se remembra pas de vòstre istoric un còp la navegacion acabada.">
 <!ENTITY firstrun_panel_title_customize "Personalizar">
 <!ENTITY firstrun_customize_message "Personalizatz &brandShortName;">
@@ -422,7 +422,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "Rapòrt de plantatge de &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "Manda de donadas a &vendorShortName; al subjècte de la santat de vòstre navegador e vos ajuda a comprene las performanças de vòstre navegador">
-<!ENTITY datareporting_abouthr_title "Afichar mon rapòrt de santat">
 <!ENTITY datareporting_telemetry_title "Telemetria">
 <!ENTITY datareporting_telemetry_summary "Manda d’informacions sus las performàncias, lo material, l’utilizacion e las personalizacions a &vendorShortName; per ajudar a melhorar &brandShortName;">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; manda de rapòrts de plantatge per ajudar &vendorShortName; a rendre vòstre navegador mai estable e securizat">
@@ -786,7 +785,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_addons_installation "Moduls complementaris">
 <!ENTITY restrictable_feature_addons_installation_description "Apondre de foncionalitats novèlas a Firefox. Nòta: Los moduls pòdon desactivar unas restriccions.">
 <!ENTITY restrictable_feature_private_browsing "Navegacion privada">
-<!ENTITY restrictable_feature_private_browsing_description "Autorizar los membres de la familha a navigar sens enregistrar d’informacions suls sites qu’an visitats.">
+<!ENTITY restrictable_feature_private_browsing_description "Autorizar los membres de la familha a navegar sens enregistrar d’informacions suls sites qu’an visitats.">
 <!ENTITY restrictable_feature_clear_history "Escafar l’istoric">
 <!ENTITY restrictable_feature_clear_history_description "Autorizar los membres de la familha a escafar d’informacions al subjècte dels sites e paginas qu’an visitats.">
 <!ENTITY restrictable_feature_advanced_settings "Paramètres avançats">
@@ -851,7 +850,7 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "Tendéncia">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
-<!ENTITY activity_stream_highlights_empty "Navigatz e pauc a pauc vos mostrarem d’articles, de vidèos e d’autras paginas qu’avètz visitadas o apondudas als marcapaginas.">
+<!ENTITY activity_stream_highlights_empty "Navegatz e pauc a pauc vos mostrarem d’articles, de vidèos e d’autras paginas qu’avètz visitadas o apondudas als marcapaginas.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
