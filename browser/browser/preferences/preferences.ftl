@@ -49,6 +49,10 @@ should-restart-title = Restartigi { -brand-short-name }
 should-restart-ok = Restartigi { -brand-short-name } nun
 restart-later = Restartigi poste
 
+## Preferences UI Search Results
+
+search-results-header = Serĉrezultoj
+
 ## General Section
 
 startup-header = Starto
