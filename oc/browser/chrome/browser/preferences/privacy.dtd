@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Proteccion contra lo seguiment">
-<!ENTITY  trackingProtection2.description      "Lo seguiment es la collècta de vòstras donadas de navegacion pels sites web. Lo seguiment pòt s'utilizar per bastir un perfil e afichar de contengut segon vòstras navegacions e donadas personalas.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "Utilizar la proteccion contra lo seguiment per blocar los traçadors coneguts">
 <!ENTITY  trackingProtection3.description      "La proteccion contra lo seguiment bloca los traçadors en linha que collectan vòstras donadas de navegacion a partir de mantun sites web.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "Utilizar la proteccion contra lo seguiment per blocar los traçadors coneguts">
 <!ENTITY  trackingProtectionAlways.label       "Totjorn">
@@ -13,7 +11,6 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "q">
 <!ENTITY  trackingProtectionNever.label        "Jamai">
 <!ENTITY  trackingProtectionNever.accesskey    "j">
-<!ENTITY  trackingProtectionLearnMore.label    "Ne saber mai">
 <!ENTITY  trackingProtectionLearnMore2.label    "Ne saber mai sus la proteccion contra lo seguiment e la proteccion de vòstra privacitat">
 <!ENTITY  trackingProtectionExceptions.label   "Excepcions…">
 <!ENTITY  trackingProtectionExceptions.accesskey "E">
@@ -24,11 +21,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "Ne saber mai">
 <!ENTITY changeBlockList2.label               "Cambiar la lista de blocatge…">
 <!ENTITY changeBlockList2.accesskey           "C">
-
-<!ENTITY  doNotTrack.description        "Mandar als sites web lo senhal “Me pistar pas” per lor dire que volètz pas èsser pistat">
-<!ENTITY  doNotTrack.learnMore.label    "Ne saber mai">
-<!ENTITY  doNotTrack.default.label      "Sonque en utilizar la proteccion contra lo seguiment">
-<!ENTITY  doNotTrack.always.label       "Totjorn">
 
 <!ENTITY  history.label                 "Istoric">
 <!ENTITY  permissions.label             "Permissions">
@@ -51,6 +43,9 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "Acceptar los cookies tèrces">
 <!ENTITY  acceptThirdParty2.pre.accesskey "y">
+
+
+
 <!ENTITY  acceptThirdParty.always.label   "Totjorn">
 <!ENTITY  acceptThirdParty.never.label    "Pas jamai">
 <!ENTITY  acceptThirdParty.visited.label  "Dels sites visitats">
@@ -85,13 +80,15 @@
 <!ENTITY  rememberActions.removeCookies.label "suprimir de cookies especifics">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  dontrememberDescription.label  "&brandShortName; utilizarà los meteisses paramètres que per la navegacion privada e conservarà pas cap d'istoric quand navigaretz sus internet.">
+
+<!ENTITY  dontrememberDescription.label  "&brandShortName; utilizarà los meteisses paramètres que per la navegacion privada e conservarà pas cap d'istoric quand navegaretz sus internet.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
 <!ENTITY  dontrememberActions.pre.label          "Benlèu que volètz">
 <!ENTITY  dontrememberActions.clearHistory.label "escafar la totalitat de l'istoric actual">
 <!ENTITY  dontrememberActions.post.label         ".">
+
 
 <!ENTITY  privateBrowsingPermanent2.label "Utilizar totjorn lo mòde de navegacion privada">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">

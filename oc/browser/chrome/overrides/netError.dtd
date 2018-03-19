@@ -97,7 +97,7 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "L'autor de <span class='hostname'/> configurèt son site web incorrectament. Per protegir vòstras informacions del panatòri, &brandShortName; s'es pas connectat pas al site web.">
 
-<!ENTITY sharedLongDesc "<ul> <li>Benlèu que lo site es temporàriament indisponible o subrecargat. Tornatz ensajar pus tard ;</li> <li>Se capitatz pas de navigar sus cap de site, verificatz la connexion a la ret de vòstre ordenador ;</li> <li>Se vòstre ordenador o vòstra ret es protegit per un parafuòc o un proxy, asseguratz-vos que &brandShortName; a l'autorizacion d'accedir al Web.</li> </ul>">
+<!ENTITY sharedLongDesc "<ul> <li>Benlèu que lo site es temporàriament indisponible o subrecargat. Tornatz ensajar pus tard ;</li> <li>Se capitatz pas de navegar sus cap de site, verificatz la connexion a la ret de vòstre ordenador ;</li> <li>Se vòstre ordenador o vòstra ret es protegit per un parafuòc o un proxy, asseguratz-vos que &brandShortName; a l'autorizacion d'accedir al Web.</li> </ul>">
 
 <!ENTITY cspBlocked.title "Blocat per una estrategia de seguretat de contengut">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; a empacha lo cargament d'aquesta pagina d 'aqueste biais perque son estrategia de seguretat de contengut lo permet pas.</p>">
@@ -137,8 +137,6 @@ certificat.">
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> utiliza una tecnologia de seguretat obsolèta e vulnerabla a las atacas. Un atacant poiriá aisidament revelar d'informacions que pensèssetz èsser seguras. L'administrator del site web deurà d'en primièr adobar lo servidor abans que poguèssetz visitar lo site.</p><p>Error code : NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
-<!ENTITY blockedByPolicyTemp.title "Pagina blocada">
-<!ENTITY blockedByPolicyTemp.longDesc "<p>L’accès es estat desactivat per vòstre administrator.</p>">
 
 <!ENTITY prefReset.longDesc "Sembla que la configuracion actuala de seguretat del ret a provocat aquesta error. Restablir los paramètres per defaut ?">
 <!ENTITY prefReset.label "Restablir los paramètres per defaut">

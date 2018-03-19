@@ -4,7 +4,7 @@
 
 <!ENTITY searchBar.label                       "Barra de recèrca">
 
-<!ENTITY searchBar.hidden.label                "Emplegar la barra d’adreças per navigar e recercar">
+<!ENTITY searchBar.hidden.label                "Emplegar la barra d’adreças per navegar e recercar">
 <!ENTITY searchBar.shown.label                 "Apondre la barre de recèrca a la barra d'aisinas">
 
 <!-- LOCALIZATION NOTE (showSearchSuggestionsAboveHistory.label): This string
