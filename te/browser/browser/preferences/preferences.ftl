@@ -49,6 +49,17 @@ should-restart-ok = ఇప్పుడు { -brand-short-name } ను పున
 cancel-no-restart-button = రద్దుచేయి
 restart-later = తరువాత పునఃప్రారంభించు
 
+## Preferences UI Search Results
+
+search-results-header = వెతుకుడు ఫలితాలు
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] క్షమించండి! “<span></span>” కోసం ఎంపికలలో ఫలితాలేమీ లేవు.
+       *[other] క్షమించండి! “<span></span>” కోసం అభిరుచులలో ఫలితాలేమీ లేవు.
+    }
+search-results-need-help = సహాయం కావాలా? <a>{ -brand-short-name } తోడ్పాటు</a>కి వెళ్ళండి
+
 ## General Section
 
 startup-header = ప్రారంభ ప్రక్రియ
