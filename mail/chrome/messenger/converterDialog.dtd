@@ -5,4 +5,6 @@
 <!ENTITY converterDialog.continueButton "Fortsett">
 <!ENTITY converterDialog.cancelButton "Avbryt">
 <!ENTITY converterDialog.finishButton "Fullfør">
+<!ENTITY converterDialog.complete "Konverteringen er ferdig. &brandShortName; vil nå starte om.">
+<!ENTITY converterDialog.error "Konverteringen mislyktes.">
 
