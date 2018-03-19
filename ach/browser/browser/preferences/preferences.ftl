@@ -49,6 +49,10 @@ should-restart-title = Nwo cako { -brand-short-name }
 should-restart-ok = Cak { -brand-short-name } odoco kombedi
 restart-later = Cak odoco lacen
 
+## Preferences UI Search Results
+
+search-results-header = Adwogi me yeny
+
 ## General Section
 
 startup-header = Caki
