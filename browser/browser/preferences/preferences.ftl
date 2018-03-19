@@ -72,6 +72,7 @@ restart-later = Genstart senere
 
 ## Preferences UI Search Results
 
+search-results-header = Søgeresultater
 # `<span></span>` will be replaced by the search term.
 search-results-sorry-message =
     { PLATFORM() ->
