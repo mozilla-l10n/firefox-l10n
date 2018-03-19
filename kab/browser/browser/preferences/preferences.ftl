@@ -53,6 +53,12 @@ restart-later = Ales asenker ticki
 ## Preferences UI Search Results
 
 search-results-header = Igmaḍ n unadi
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] Nesḥasef! Ulac igemmaḍ deg iɣewwaṛen i “<span></span>”.
+       *[other] Nesḥasef! Ulac igemmaḍ deg ismenyifen i “<span></span>”.
+    }
 search-results-need-help = Tesriḍ tallelt? Rzu γer <a>{ -brand-short-name } Tallalt</a>
 
 ## General Section
