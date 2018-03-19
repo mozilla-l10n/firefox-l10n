@@ -74,6 +74,7 @@ search-results-sorry-message =
         [windows] Desolat ! I a pas de resultats dins Opcions per « <span></span> ».
        *[other] Desolat ! I a pas de resultats dins Preferéncias per « <span></span> ».
     }
+search-results-need-help = Vos cal d’ajuda ? Visitatz <a>Assisténcia de { -brand-short-name }</a>
 
 ## General Section
 
