@@ -73,6 +73,7 @@ search-results-sorry-message =
         [windows] माफ करा! “<span></span>” च्या पर्यायासाठी कोणतेही परिणाम नाहीत.
        *[other] माफ करा! “<span></span>” च्या प्राधान्यतेसाठी कोणतेही परिणाम नाहीत.
     }
+search-results-need-help = मदत हवी आहे? भेट द्या <a>{ -brand-short-name } मदत</a>
 
 ## General Section
 
