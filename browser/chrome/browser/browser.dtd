@@ -977,6 +977,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.restoreButton.label "Επαναφορά ρυθμίσεων">
 <!ENTITY newTabControlled.restoreButton.accesskey "Ε">
 
+<!ENTITY newTabControlled.disableButton.label "Απενεργοποίηση Επέκτασης">
 
 <!ENTITY pageActionButton.tooltip "Ενέργειες σελίδας">
 <!ENTITY pageAction.addToUrlbar.label "Προσθήκη στη γραμμή διευθύνσεων">
