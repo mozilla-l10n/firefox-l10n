@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "Managerul de suplimente">
 
-<!ENTITY search.placeholder                   "Caută toate suplimentele">
-
 <!ENTITY search.placeholder2                  "Caută pe addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Căutare">
 <!-- LOCALIZATION NOTE (search.commandKey):
@@ -16,7 +14,6 @@
 <!ENTITY listEmpty.availableUpdates.label     "Nicio actualizare găsită">
 <!ENTITY listEmpty.recentUpdates.label        "Nu ați actualizat recent niciun supliment">
 <!ENTITY listEmpty.findUpdates.label          "Caută actualizări">
-<!ENTITY listEmpty.search.label               "Nu s-a putut găsi vreun supliment care se potrivește">
 <!ENTITY listEmpty.button.label               "Află mai multe despre suplimente">
 <!ENTITY installAddonFromFile.label           "Instalează supliment dintr-un fișier…">
 <!ENTITY installAddonFromFile.accesskey       "I">
@@ -41,7 +38,6 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "Activează verificarea securității actualizărilor suplimentelor">
 
 <!-- categories / views -->
-<!ENTITY view.search.label                    "Căutare">
 <!ENTITY view.discover.label                  "Obține suplimente">
 <!ENTITY view.recentUpdates.label             "Actualizări recente">
 <!ENTITY view.availableUpdates.label          "Actualizări disponibile">
@@ -125,7 +121,7 @@
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 <!ENTITY discover.title                       "Ce sunt suplimentele?">
 <!ENTITY discover.description2                "Suplimentele sunt aplicații care îți permit să personalizezi &brandShortName; cu funcții sau stiluri suplimentare. Încearcă o bară laterală care economisește timp, un notificator pentru vreme sau o temă pentru a face din &brandShortName; o experiență unică.">
-<!ENTITY discover.footer                      "Când sunteți conectat la internet, acest panou va afișa cele mai utilizate și populare extensii pentru a vă permite să le încercați.">
+<!ENTITY discover.footer                      "Când ești conectat la internet, acest panou va afișa cele mai utilizate și populare extensii pentru a-ți permite să le încerci.">
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Versiune">
@@ -171,16 +167,6 @@
 <!ENTITY sort.name.tooltip                    "Sortează după nume">
 <!ENTITY sort.dateUpdated.label               "Ultima actualizare">
 <!ENTITY sort.dateUpdated.tooltip             "Sortare după data actualizării">
-<!ENTITY sort.relevance.label                 "Cea mai bună potrivire">
-<!ENTITY sort.relevance.tooltip               "Sortează după relevanță">
-<!ENTITY sort.price.label                     "Preț">
-<!ENTITY sort.price.tooltip                   "Sortează după preț">
-
-<!ENTITY search.filter2.label                 "Căutare:">
-<!ENTITY search.filter2.installed.label       "Suplimentele mele">
-<!ENTITY search.filter2.installed.tooltip     "Arată suplimentele instalate">
-<!ENTITY search.filter2.available.label       "Suplimente disponibile">
-<!ENTITY search.filter2.available.tooltip     "Arată suplimentele disponibile pentru instalare">
 
 <!ENTITY addon.homepage                       "Pagina de start">
 <!ENTITY addon.details.label                  "Mai multe">
