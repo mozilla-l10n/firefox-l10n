@@ -68,6 +68,12 @@ restart-later = Reaviar mai tard
 ## Preferences UI Search Results
 
 search-results-header = Resultats de la recèrca
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] Desolat ! I a pas de resultats dins Opcions per « <span></span> ».
+       *[other] Desolat ! I a pas de resultats dins Preferéncias per « <span></span> ».
+    }
 
 ## General Section
 
