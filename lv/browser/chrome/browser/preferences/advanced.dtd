@@ -62,11 +62,13 @@ available. -->
 <!ENTITY siteData.label                  "Lapas dati">
 <!ENTITY clearSiteData.label             "Izdzēst visus datus">
 <!ENTITY clearSiteData.accesskey         "v">
+<!ENTITY siteDataSettings.label          "Iestatījumi...">
+<!ENTITY siteDataSettings.accesskey      "i">
 <!ENTITY siteData1.label                 "Sīkdatnes un lapu dati">
 <!ENTITY clearSiteData1.label            "Notīrīt datus…">
 <!ENTITY clearSiteData1.accesskey        "n">
-<!ENTITY siteDataSettings.label          "Iestatījumi...">
-<!ENTITY siteDataSettings.accesskey      "i">
+<!ENTITY siteDataSettings1.label         "Pārvaldīt datus…">
+<!ENTITY siteDataSettings1.accesskey     "P">
 <!ENTITY siteDataLearnMoreLink.label     "Uzzināt vairāk">
 
 <!-- LOCALIZATION NOTE:

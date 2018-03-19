@@ -75,6 +75,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsProcessCount "Tīmekļa satura process">
 
+<!ENTITY aboutSupport.enterprisePolicies "Uzņēmuma politikas">
+
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Google atslēga">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla atrašanās vietas pakalpojuma atslēga">
 
