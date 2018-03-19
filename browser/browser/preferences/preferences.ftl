@@ -79,6 +79,7 @@ search-results-sorry-message =
         [windows] אין תוצאות באפשרויות לביטוי „<span></span>“, עמך הסליחה.
        *[other] אין תוצאות בהעדפות לביטוי „<span></span>“, עמך הסליחה.
     }
+search-results-need-help = לעזרה נוספת, נא לפנות אל <a>אתר התמיכה של { -brand-short-name }</a>
 
 ## General Section
 
