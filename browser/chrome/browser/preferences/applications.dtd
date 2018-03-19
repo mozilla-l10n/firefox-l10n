@@ -3,15 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  applications.label       "Aplicacions">
-<!ENTITY  applications.description "Causir cossí &brandShortName; tracta los fichièrs qu'avètz telecargats del Web o las aplicacions qu'uilizatz al navigar.">
+<!ENTITY  applications.description "Causir cossí &brandShortName; tracta los fichièrs qu'avètz telecargats del Web o las aplicacions qu'uilizatz al navegar.">
 
 <!ENTITY  typeColumn.label        "Tipe de contengut">
 <!ENTITY  typeColumn.accesskey    "T">
 
 <!ENTITY  actionColumn2.label     "Accion">
 <!ENTITY  actionColumn2.accesskey "A">
-
-<!ENTITY  focusSearch1.key        "f">
-<!ENTITY  focusSearch2.key        "k">
 
 <!ENTITY  filter2.emptytext        "Recercar los tipes de fichièr o aplicacions">

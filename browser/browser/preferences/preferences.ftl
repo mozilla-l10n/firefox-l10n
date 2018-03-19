@@ -14,12 +14,8 @@ pref-page =
             [windows] Opcions
            *[other] Preferéncias
         }
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
+# This string is currently used only in Firefox 60 and will be removed when not
+# needed for x-channel. See bug 1445686 for details.
 search-input =
     .style = width: 15.4em
 # This is used to determine the width of the search field in about:preferences,
@@ -212,7 +208,7 @@ download-always-ask-where =
     .label = Sempre demandar ont enregistrar los fichièrs
     .accesskey = S
 applications-header = Aplicacions
-applications-description = Causir cossí { -brand-short-name } tracta los fichièrs qu'avètz telecargats del Web o las aplicacions qu'uilizatz al navigar.
+applications-description = Causir cossí { -brand-short-name } tracta los fichièrs qu'avètz telecargats del Web o las aplicacions qu'uilizatz al navegar.
 applications-filter =
     .placeholder = Recercar los tipes de fichièr o aplicacions
 applications-type-column =
@@ -300,7 +296,7 @@ network-proxy-connection-settings =
 
 search-bar-header = Barra de recèrca
 search-bar-hidden =
-    .label = Emplegar la barra d’adreças per navigar e recercar
+    .label = Emplegar la barra d’adreças per navegar e recercar
 search-bar-shown =
     .label = Apondre la barre de recèrca a la barra d'aisinas
 search-engine-default-header = Motor de cerca per defaut
