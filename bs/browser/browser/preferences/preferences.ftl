@@ -73,6 +73,7 @@ search-results-sorry-message =
         [windows] Žao nam je! Nema rezultata u Opcijama za “<span></span>”.
        *[other] Žao nam je! Nema rezultata u Postavkama za “<span></span>”.
     }
+search-results-need-help = Trebate pomoć? Posjetite <a>{ -brand-short-name } podrška</a>
 
 ## General Section
 
