@@ -53,6 +53,13 @@ restart-later = Mulai Ulang Nanti
 ## Preferences UI Search Results
 
 search-results-header = Hasil Pencarian
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] Maaf! Tidak ada hasil di Preferensi untuk “<span></span>”.
+       *[other] Maaf! Tidak ada hasil di Preferensi untuk “<span></span>”.
+    }
+search-results-need-help = Butuh bantuan? Kunjungi <a>Dukungan { -brand-short-name }</a>
 
 ## General Section
 
