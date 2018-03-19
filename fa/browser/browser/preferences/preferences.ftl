@@ -49,6 +49,16 @@ should-restart-title = راه‌اندازی مجدد { -brand-short-name }
 should-restart-ok = هم‌اکنون { -brand-short-name } راه‌اندازی مجدد شود
 restart-later = بعداْ راه‌اندازی مجدد شود
 
+## Preferences UI Search Results
+
+search-results-header = نتایج جستجو
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] متاسفیم! هیچ نتیجه‌ای در گزینه‌ها برای «<span></span>» وجود ندارد.
+       *[other] متاسفیم! هیچ نتیجه‌ای در ترجیحات برای «<span></span>» وجود ندارد.
+    }
+
 ## General Section
 
 startup-header = راه‌اندازی
