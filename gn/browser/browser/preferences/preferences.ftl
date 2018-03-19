@@ -55,6 +55,16 @@ should-restart-ok = Emoñepyrũjey { -brand-short-name } ko'ág̃a
 cancel-no-restart-button = Heja
 restart-later = Emoñepyrũjey ag̃ave
 
+## Preferences UI Search Results
+
+search-results-header = Jehekakue rehegua
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] ¡Ambyasy! ndaipóri tembiapokue jeporavorãme “<span></span>”-pe g̃uarã.
+       *[other] ¡Ambyasy! ndaipoóri jerohoryvévape tembiapokue “<span></span>”.
+    }
+
 ## General Section
 
 startup-header = Ñepyrũha
