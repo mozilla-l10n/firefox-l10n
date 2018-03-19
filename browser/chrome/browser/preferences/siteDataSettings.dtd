@@ -4,7 +4,7 @@
 
 <!ENTITY     window.title                  "Iestatījumi - Lapas dati">
 
-<!ENTITY     window1.title                 "Iestatījumi - sīkdatnes un kešatmiņa">
+<!ENTITY     window2.title                 "Pārvaldīt sīkdatnes un lapas datus">
 <!ENTITY     hostCol.label                 "Lapa">
 <!ENTITY     statusCol.label               "Statuss">
 <!ENTITY     cookiesCol.label              "Sīkdatnes">
