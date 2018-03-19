@@ -50,6 +50,16 @@ should-restart-ok = Hurmitin { -brand-short-name } jooni
 cancel-no-restart-button = Haaytu
 restart-later = Hurmitin so Ɓooyii
 
+## Preferences UI Search Results
+
+search-results-header = Njaltudi Njiilawu
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] Ay haame! Hay batte yaltaani e cuɓanɗe ngam “<span></span>”.
+       *[other] Ay haame! Alaa njaltudi woodi nder cuɓe wonande "<span></span>".
+    }
+
 ## General Section
 
 startup-header = Kurmital
