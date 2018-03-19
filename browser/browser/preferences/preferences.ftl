@@ -55,6 +55,16 @@ should-restart-ok = Reinicia el { -brand-short-name } ara
 cancel-no-restart-button = Cancel·la
 restart-later = Reinicia més tard
 
+## Preferences UI Search Results
+
+search-results-header = Resultats de la cerca
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] No s'ha trobat «<span></span>» a les opcions.
+       *[other] No s'ha trobat «<span></span>» a les preferències.
+    }
+
 ## General Section
 
 startup-header = Inici
