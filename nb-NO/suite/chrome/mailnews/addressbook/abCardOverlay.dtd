@@ -4,9 +4,9 @@
 
 <!ENTITY Contact.tab                     "Kontakt">
 <!ENTITY Contact.accesskey               "K">
-<!ENTITY Name.box                        "Navn"> 
+<!ENTITY Name.box                        "Navn">
 
-<!-- LOCALIZATION NOTE: 
+<!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
  those fields are either LN or FN depends on the target country.
  "FirstName" and "LastName" can be swapped for id to change the order
@@ -15,13 +15,13 @@
 -->
 
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
-<!ENTITY NameField1.id                  "FirstName"> 
+<!ENTITY NameField1.id                  "FirstName">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
-<!ENTITY NameField2.id                  "LastName"> 
+<!ENTITY NameField2.id                  "LastName">
 <!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField1.id              "PhoneticFirstName"> 
+<!ENTITY PhoneticField1.id              "PhoneticFirstName">
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField2.id              "PhoneticLastName"> 
+<!ENTITY PhoneticField2.id              "PhoneticLastName">
 
 <!ENTITY NameField1.label               "Fornavn:">
 <!ENTITY NameField1.accesskey           "F">
@@ -47,14 +47,6 @@
 <!ENTITY Unknown.label                  "Ukjent">
 <!ENTITY ScreenName.label               "Skjermnavn:">
 <!ENTITY ScreenName.accesskey           "S">
-
-<!ENTITY allowRemoteContent1.label      "Tillat innhold fra eksterne kilder.">
-<!ENTITY allowRemoteContent1.accesskey  "T">
-<!ENTITY allowRemoteContent1.tooltip    "I HTML-meldinger er det mulig å
-legge ved innhold fra eksterne kilder. Ved åpning av meldinger vil tilkoblinger
-til den eksterne kilden åpnes. Dette kan gjøre det mulig å spore
-at meldingen blir lest. Ved å krysse av her, tillater du slikt innbundet
-innhold i HTML-meldinger fra denne kontakten.">
 
 <!ENTITY WorkPhone.label                "Arbeid:">
 <!ENTITY WorkPhone.accesskey            "A">
@@ -124,7 +116,7 @@ innhold i HTML-meldinger fra denne kontakten.">
 <!ENTITY Custom3.accesskey              "3">
 <!ENTITY Custom4.label                  "Selvvalgt 4:">
 <!ENTITY Custom4.accesskey              "4">
-<!ENTITY Notes.label                    "Notater">
+<!ENTITY Notes.label                    "Notater:">
 <!ENTITY Notes.accesskey                "N">
 
 <!ENTITY Photo.tab                      "Foto">
