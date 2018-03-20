@@ -30,8 +30,10 @@
 <!ENTITY buttons.create.accesskey "r">
 
 <!ENTITY buttons.find.label "Localizar calendários">
+<!ENTITY buttons.find.accesskey "F">
 
 <!ENTITY buttons.back.label "Retroceder">
+<!ENTITY buttons.back.accesskey "B">
 
 <!ENTITY buttons.subscribe.label "Subscrever">
 <!ENTITY buttons.subscribe.accesskey "S">
