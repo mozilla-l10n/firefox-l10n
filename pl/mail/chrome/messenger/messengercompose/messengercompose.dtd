@@ -303,6 +303,9 @@
 <!ENTITY attachPage.label "Załącz stronę WWW…">
 <!ENTITY attachPage.accesskey "W">
 
+<!ENTITY initiallyShowAttachmentPane.label "Wyświetlaj listę załączników">
+<!ENTITY initiallyShowAttachmentPane.accesskey "W">
+
 <!ENTITY spellAddDictionaries.label "Dodaj słowniki…">
 <!ENTITY spellAddDictionaries.accesskey "D">
 
