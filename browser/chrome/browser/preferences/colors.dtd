@@ -16,7 +16,7 @@
 <!ENTITY  color                           "Tekst en eftergrûn">
 <!ENTITY  textColor2.label                "Tekst">
 <!ENTITY  textColor2.accesskey            "T">
-<!ENTITY  backgroundColor2.label          "Achtergrûn">
+<!ENTITY  backgroundColor2.label          "Eftergrûn">
 <!ENTITY  backgroundColor2.accesskey      "A">
 <!ENTITY  useSystemColors.label           "Systeemkleuren brûke">
 <!ENTITY  useSystemColors.accesskey       "S">
