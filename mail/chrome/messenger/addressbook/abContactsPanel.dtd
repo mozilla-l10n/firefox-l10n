@@ -9,9 +9,14 @@
 <!ENTITY abPropertiesMenu.accesskey         "i">
 <!ENTITY contactPropertiesMenu.label        "Yhteyshenkilön ominaisuudet">
 <!ENTITY contactPropertiesMenu.accesskey    "i">
+<!ENTITY mailingListPropertiesMenu.label    "Postituslistan ominaisuudet">
+<!ENTITY mailingListPropertiesMenu.accesskey "i">
 
+<!ENTITY abContextMenuButton.tooltip        "Näytä Osoitekirjan pikavalikko">
 <!ENTITY addressbookPicker.label            "Osoitekirja:">
 <!ENTITY addressbookPicker.accesskey        "O">
+<!ENTITY searchContacts.label               "Etsi yhteyshenkilöitä:">
+<!ENTITY searchContacts.accesskey           "y">
 <!ENTITY SearchNameOrEmail.label            "Nimestä tai osoitteesta">
 
 <!ENTITY addtoToFieldMenu.label             "Lisää vastaanottajakenttään">
@@ -22,6 +27,7 @@
 <!ENTITY addtoBccFieldMenu.accesskey        "p">
 <!ENTITY deleteAddrBookCard.label           "Poista">
 <!ENTITY deleteAddrBookCard.accesskey       "P">
+<!ENTITY propertiesContext.label            "Ominaisuudet">
 
 
 <!ENTITY toButton.label                     "Vastaanottaja:">
