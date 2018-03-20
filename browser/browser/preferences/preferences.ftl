@@ -113,20 +113,6 @@ startup-prev-session =
 disable-extension =
     .label = Disattiva estensione
 home-page-header = Pagina iniziale
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Usa la pagina corrente
-           *[other] Usa le pagine correnti
-        }
-    .accesskey = U
-choose-bookmark =
-    .label = Usa un segnalibro…
-    .accesskey = b
 restore-default =
     .label = Ripristina la pagina predefinita
     .accesskey = f
@@ -303,6 +289,43 @@ network-proxy-connection-learn-more = Ulteriori informazioni
 network-proxy-connection-settings =
     .label = Impostazioni…
     .accesskey = z
+
+## Home Section
+
+home-new-windows-tabs-header = Nuove finestre e schede
+home-new-windows-tabs-description = Scegli cosa visualizzare quando vengono aperti la pagina iniziale, nuove finestre e nuove schede.
+
+## Home Section - Home Page Customization
+
+home-homepage-mode-label = Pagina iniziale e nuove finestre
+home-newtabs-mode-label = Nuove schede
+home-restore-defaults =
+    .label = Ripristina predefiniti
+    .accesskey = R
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Pagina iniziale di Firefox (predefinita)
+home-mode-choice-custom =
+    .label = Indirizzi personalizzati…
+home-mode-choice-blank =
+    .label = Pagina vuota
+home-homepage-custom-url =
+    .placeholder = Incolla un indirizzo…
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Usa la pagina corrente
+           *[other] Usa le pagine correnti
+        }
+    .accesskey = U
+choose-bookmark =
+    .label = Usa un segnalibro…
+    .accesskey = b
 
 ## Search Section
 
