@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "Ardoer an askouezhioù">
 
-<!ENTITY search.placeholder                   "Klask en holl askouezhioù">
+<!ENTITY search.placeholder2                  "Klask war addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Klask">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -14,7 +14,6 @@
 <!ENTITY listEmpty.availableUpdates.label     "Hizivadenn ebet kavet">
 <!ENTITY listEmpty.recentUpdates.label        "N'hoc'h eus ket hizivaet askouezh ebet nevez zo">
 <!ENTITY listEmpty.findUpdates.label          "Klask hizivadennoù">
-<!ENTITY listEmpty.search.label               "Askouezh ebet bet kavet">
 <!ENTITY listEmpty.button.label               "Gouzout hiroc'h a-zivout an askouezhioù">
 <!ENTITY installAddonFromFile.label           "Staliañ askouezhioù diouzh ar restr...">
 <!ENTITY installAddonFromFile.accesskey       "i">
@@ -23,15 +22,13 @@
 <!ENTITY getThemes.description                "Klask a rit personelaat ho merdeer?">
 <!ENTITY getThemes.learnMore                  "Dibab e-touez miliadoù a neuzioù.">
 
-<!ENTITY cmd.back.tooltip                     "Mont d'ar bajennad kent">
-<!ENTITY cmd.forward.tooltip                  "Mont d'ar bajennad war-lerc'h">
 
 <!ENTITY showUnsignedExtensions.button.label  "N'haller ket gwiriekaat lod eus an askouezhioù">
 <!ENTITY showAllExtensions.button.label       "Diskouez an holl askouezhioù">
 <!ENTITY debugAddons.label                    "Diveugañ an askouezhioù">
 <!ENTITY debugAddons.accesskey                "v">
-<!-- global warnings -->
 
+<!-- global warnings -->
 <!ENTITY warning.safemode.label                    "An holl askouezhioù zo bet diweredekaet gant ar mod diogelroez.">
 <!ENTITY warning.checkcompatibility.label          "Gwiriañ keverlec'hded an askouezhioù zo dizaotreet. Posupl eo deoc'h kaout askouezhioù nad int ket keverlec'h.">
 <!ENTITY warning.checkcompatibility.enable.label   "Gweredekaat">
@@ -39,14 +36,13 @@
 <!ENTITY warning.updatesecurity.label              "Diweredekaet eo ar gwiriañ evit hizivaat an askouezhioù. Marteze e viot lakaet en arvar gant hizivadurioù.">
 <!ENTITY warning.updatesecurity.enable.label       "Gweredekaat">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Gweredekaat ar gwiriadur a-fet diogelroez hizivadur an askouezh">
-<!-- categories / views -->
 
-<!ENTITY view.search.label                    "Klask">
+<!-- categories / views -->
 <!ENTITY view.discover.label                  "Kaout askouezhioù">
 <!ENTITY view.recentUpdates.label             "Hizivadurioù nevesañ">
 <!ENTITY view.availableUpdates.label          "Hizivadurioù hegerz">
-<!-- addon updates -->
 
+<!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Gwiriañ mar bez hizivadurioù d'ober">
 <!ENTITY updates.checkForUpdates.accesskey    "G">
 <!ENTITY updates.viewUpdates.label            "Gwelout an hizivadurioù nevesañ">
@@ -74,8 +70,8 @@
 <!ENTITY updates.manualUpdatesFound.label     "Gwelout an hizivadurioù hegerz">
 <!ENTITY updates.updateSelected.label         "Staliañ Hizivadurioù">
 <!ENTITY updates.updateSelected.tooltip       "Staliañ an hizivadennoù hegerz war ar roll-mañ">
-<!-- addon actions -->
 
+<!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Diskouez muioc'h a stlennoù">
 <!ENTITY cmd.showDetails.accesskey            "s">
 <!ENTITY cmd.findUpdates.label                "Klask hizivadurioù">
@@ -118,16 +114,16 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Diskouez an notennoù handelv evit an hizivadur-mañ">
 <!ENTITY cmd.hideReleaseNotes.label           "Kuzhat an notennoù handelv">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Kuzhat an notennoù handelv evit an hizivadur-mañ">
+<!ENTITY cmd.findReplacement.label            "Kavout un erlec'hiadur">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-
 <!ENTITY discover.title                       "Petra eo an askouezhioù ?">
 <!ENTITY discover.description2                "Arloadoù a ro tro deoc'h da bersonelaat &brandShortName; gant keweriusterioù pe stiloù ouzhpenn eo an askouezhioù. Amprouit ur varrenn gostez pe un arload evit an hinad, pe un neuz da lakaat &brandShortName; da vezañ evel ma plijo deoc'h.">
 <!ENTITY discover.footer                      "Pa viot kennasket ouzh internet e tiskouezo ar penel-mañ un darn eus an askouezhioù gwellañ ha brudetañ da brouadiñ.">
-<!-- detail view -->
 
+<!-- detail view -->
 <!ENTITY detail.version.label                 "Handelv">
 <!ENTITY detail.lastupdated.label             "Hizivadur diwezhañ">
 <!ENTITY detail.creator.label                 "Diorroer">
@@ -156,31 +152,21 @@
 <!ENTITY detail.showPreferencesUnix.label     "Gwellvezioù">
 <!ENTITY detail.showPreferencesUnix.accesskey "G">
 <!ENTITY detail.showPreferencesUnix.tooltip   "Kemmañ gwellvezioù an askouezh-mañ">
+
+
 <!-- ratings -->
-
-
 <!ENTITY rating2.label                        "Prizadur">
-<!-- download/install progress -->
 
+<!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Ehan">
 <!ENTITY progress.cancel.tooltip              "Nullañ">
+
+
 <!-- list sorting -->
-
-
 <!ENTITY sort.name.label                      "Anv ">
 <!ENTITY sort.name.tooltip                    "Rummañ dre anv">
 <!ENTITY sort.dateUpdated.label               "Hizivadur diwezhañ">
 <!ENTITY sort.dateUpdated.tooltip             "Rummañ dre an deiziad hizivadur">
-<!ENTITY sort.relevance.label                 "Kenglotadenn wellañ">
-<!ENTITY sort.relevance.tooltip               "Rummañ dre zereadelezh">
-<!ENTITY sort.price.label                     "Prizadur">
-<!ENTITY sort.price.tooltip                   "Rummañ dre ar prizadur">
-
-<!ENTITY search.filter2.label                 "Klask :">
-<!ENTITY search.filter2.installed.label       "Ma askouezhioù">
-<!ENTITY search.filter2.installed.tooltip     "Diskouez an askouezhioù staliet">
-<!ENTITY search.filter2.available.label       "Askouezhioù hegerz">
-<!ENTITY search.filter2.available.tooltip     "Diskouez an askouezhioù hegerz da staliañ">
 
 <!ENTITY addon.homepage                       "Pennbajenn">
 <!ENTITY addon.details.label                  "Muioc'h">
@@ -189,6 +175,7 @@
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
+<!ENTITY addon.legacy.label                   "DIAMZERET">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
@@ -222,12 +209,12 @@
 <!ENTITY eula.accept                          "Asantiñ ha Staliañ…">
 
 <!ENTITY settings.path.button.label           "Furchal…">
+
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
 <!ENTITY experiment.info.label "Petra eo an dra-se ? Telemetry a c'hell staliañ hag erounit arnodoù ur wech an amzer.">
 <!ENTITY experiment.info.learnmore "Gouzout hiroc'h">
 <!ENTITY experiment.info.learnmore.accesskey "G">
@@ -254,7 +241,7 @@
 <!ENTITY pluginDeprecation.description "Mankout 'ra un dra bennak? Ul lodenn eus an enlugelladoù n'int ket skoret gant &brandShortName; ken.">
 <!ENTITY pluginDeprecation.learnMore "Gouzout hiroc'h.">
 
-
-
-
-
+<!ENTITY legacyWarning.showLegacy "Diskouez an askouezhioù diamzeret">
+<!ENTITY legacyExtensions.title "Askouezhioù diamzeret">
+<!ENTITY legacyExtensions.description "An askouezhioù-mañ ne glotont ket kenn gant skouerioù &brandShortName; ha diweredekaet int bet.">
+<!ENTITY legacyExtensions.learnMore "Gouzout hiroc'h a-zivout ar c'hemmoù en askouezhioù">

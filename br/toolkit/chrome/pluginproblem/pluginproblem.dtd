@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Stokit ouzh amañ evit gweredekaat an enlugellad.">
 <!ENTITY clickToActivatePlugin                               "Gweredekaat an enlugellad.">
@@ -8,10 +9,10 @@
 <!ENTITY blockedPlugin.label                                 "Harzet eo bet an enlugellad-mañ evit ho gwarez.">
 <!ENTITY hidePluginBtn.label                                 "Kuzhat an enlugellad">
 <!ENTITY managePlugins                                       "Ardeiñ an enlugelladoù...">
+
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
-
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "Adkargañ ar bajenn">
 <!ENTITY reloadPlugin.post                                   " evit klask en-dro.">
@@ -28,4 +29,4 @@
 <!ENTITY plugin.file                                         "Restr">
 <!ENTITY plugin.mimeTypes                                    "Rizhoù MIME">
 <!ENTITY plugin.flashProtectedMode.label                     "Gweredekaat mod gwarezet Adobe Flash">
-
+<!ENTITY plugin.enableBlocklists.label                       "Stankañ endalc'hadoù Flash arvarus pe touellus">
