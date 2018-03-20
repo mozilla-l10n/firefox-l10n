@@ -37,3 +37,5 @@
 <!ENTITY pref.numberofweeks.4 "4주">
 <!ENTITY pref.numberofweeks.5 "5주">
 <!ENTITY pref.numberofweeks.6 "6주">
+<!ENTITY pref.showlocation.label "위치 보기">
+<!ENTITY pref.showlocation.accesskey "L">
