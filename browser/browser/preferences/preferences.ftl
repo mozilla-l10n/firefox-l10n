@@ -14,12 +14,8 @@ pref-page =
             [windows] ตัวเลือก
            *[other] ค่ากำหนด
         }
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
+# This string is currently used only in Firefox 60 and will be removed when not
+# needed for x-channel. See bug 1445686 for details.
 search-input =
     .style = width: 15.4em
 # This is used to determine the width of the search field in about:preferences,
@@ -255,7 +251,7 @@ performance-use-recommended-settings-checkbox =
 performance-use-recommended-settings-desc = การตั้งค่าเหล่านี้ถูกปรับให้เหมาะสมกับฮาร์ดแวร์และระบบปฏิบัติการของคอมพิวเตอร์ของคุณ
 performance-settings-learn-more = เรียนรู้เพิ่มเติม
 performance-allow-hw-accel =
-    .label = ใช้การเร่งความเร็วด้วยฮาร์ดแวร์เมื่อใช้งานได้
+    .label = ใช้การเร่งความเร็วด้วยฮาร์ดแวร์เมื่อใช้ได้
     .accesskey = ง
 performance-limit-content-process-option = ขีดจำกัดโปรเซสเนื้อหา
     .accesskey = ข
