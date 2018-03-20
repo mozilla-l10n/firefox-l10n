@@ -340,6 +340,12 @@
 <!ENTITY attachPage.label "Priloži web stranicu…">
 <!ENTITY attachPage.accesskey "W">
 
+<!-- Attachment Pane Header Bar Context Menu -->
+<!-- LOCALIZATION NOTE (initiallyShowAttachmentPane.label):
+     Should use the same wording as startExpandedCmd.label
+     in msgHdrViewOverlay.dtd. -->
+<!ENTITY initiallyShowAttachmentPane.label "Na početku prikaži okno za priloge">
+
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Dodaj rječnike…">
 <!ENTITY spellAddDictionaries.accesskey "A">
