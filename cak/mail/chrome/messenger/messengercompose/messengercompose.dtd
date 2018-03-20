@@ -343,6 +343,13 @@
 <!ENTITY attachPage.label "Titz'aqatisäx Ruxaq Ajk'amaya'l…">
 <!ENTITY attachPage.accesskey "A">
 
+<!-- Attachment Pane Header Bar Context Menu -->
+<!-- LOCALIZATION NOTE (initiallyShowAttachmentPane.label):
+     Should use the same wording as startExpandedCmd.label
+     in msgHdrViewOverlay.dtd. -->
+<!ENTITY initiallyShowAttachmentPane.label "Pa Rutikirib'al Kek'ut Kipas Tz'aqatisan taq Tzij">
+<!ENTITY initiallyShowAttachmentPane.accesskey "K">
+
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Ketz'aqatisäx taq Soltzij…">
 <!ENTITY spellAddDictionaries.accesskey "t">
