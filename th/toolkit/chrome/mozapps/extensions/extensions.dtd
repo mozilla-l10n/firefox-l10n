@@ -40,7 +40,7 @@
 <!-- categories / views -->
 <!ENTITY view.discover.label                  "รับส่วนเสริม">
 <!ENTITY view.recentUpdates.label             "การอัปเดตล่าสุด">
-<!ENTITY view.availableUpdates.label          "การอัปเดตที่ใช้งานได้">
+<!ENTITY view.availableUpdates.label          "การอัปเดตที่ใช้ได้">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "ตรวจสอบการอัปเดต">
@@ -67,7 +67,7 @@
 <!ENTITY updates.downloaded.label             "ดาวน์โหลดการอัปเดตสำหรับส่วนเสริมของคุณแล้ว">
 <!ENTITY updates.restart.label                "เริ่มการทำงานใหม่ตอนนี้เพื่อให้การติดตั้งเสร็จสมบูรณ์">
 <!ENTITY updates.noneFound.label              "ไม่พบการอัปเดต">
-<!ENTITY updates.manualUpdatesFound.label     "ดูการอัปเดตที่ใช้งานได้">
+<!ENTITY updates.manualUpdatesFound.label     "ดูการอัปเดตที่ใช้ได้">
 <!ENTITY updates.updateSelected.label         "ติดตั้งการอัปเดต">
 <!ENTITY updates.updateSelected.tooltip       "ติดตั้งการอัปเดตที่มีในรายการนี้">
 
@@ -195,7 +195,7 @@
 <!ENTITY addon.updateNow.label                "อัปเดตตอนนี้">
 <!ENTITY addon.updateNow.tooltip              "ติดตั้งการอัปเดตสำหรับส่วนเสริมนี้">
 <!ENTITY addon.includeUpdate.label            "รวมในการอัปเดต">
-<!ENTITY addon.updateAvailable.label          "มีการอัปเดตที่ใช้งานได้">
+<!ENTITY addon.updateAvailable.label          "มีการอัปเดตที่ใช้ได้">
 <!ENTITY addon.checkingForUpdates.label       "กำลังตรวจสอบการอัปเดต…">
 <!ENTITY addon.releaseNotes.label             "บันทึกประจำรุ่น:">
 <!ENTITY addon.loadingReleaseNotes.label      "กำลังโหลด…">

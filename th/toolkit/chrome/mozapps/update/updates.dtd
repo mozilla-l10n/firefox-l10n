@@ -7,12 +7,12 @@
 <!ENTITY  updateCheck.label               "กำลังมองหา &brandShortName; รุ่นใหม่กว่า…">
 
 <!ENTITY  noupdatesfound.title            "ไม่พบการอัปเดต">
-<!ENTITY  noupdatesautoenabled.intro      "ไม่มีการอัปเดตที่ใช้งานได้ &brandShortName; จะตรวจสอบการอัปเดตเป็นระยะ">
-<!ENTITY  noupdatesautodisabled.intro     "ไม่มีการอัปเดตที่ใช้งานได้ โปรดตรวจสอบอีกครั้งในภายหลังหรือเปิดใช้งานการตรวจสอบการอัปเดตอัตโนมัติของ &brandShortName;">
+<!ENTITY  noupdatesautoenabled.intro      "ไม่มีการอัปเดตที่ใช้ได้ &brandShortName; จะตรวจสอบการอัปเดตเป็นระยะ">
+<!ENTITY  noupdatesautodisabled.intro     "ไม่มีการอัปเดตที่ใช้ได้ โปรดตรวจสอบอีกครั้งในภายหลังหรือเปิดใช้งานการตรวจสอบการอัปเดตอัตโนมัติของ &brandShortName;">
 
 <!ENTITY  manualUpdate.title              "ไม่สามารถอัปเดต">
 <!ENTITY  manualUpdate.desc               "มีการอัปเดตความปลอดภัยและเสถียรภาพที่แนะนำ แต่คุณไม่มีสิทธิในระบบที่ต้องการสำหรับติดตั้ง โปรดติดต่อผู้ดูแลระบบของคุณ หรือลองอีกครั้งจากบัญชีที่มีสิทธิติดตั้งซอฟต์แวร์ในคอมพิวเตอร์นี้">
-<!ENTITY  manualUpdate.space.desc         "มีการอัปเดตความปลอดภัยและเสถียรภาพที่ใช้งานได้ แต่คุณไม่มีพื้นที่เพียงพอสำหรับติดตั้ง">
+<!ENTITY  manualUpdate.space.desc         "มีการอัปเดตความปลอดภัยและเสถียรภาพที่ใช้ได้ แต่คุณไม่มีพื้นที่เพียงพอสำหรับติดตั้ง">
 <!ENTITY  manualUpdateGetMsg.label        "คุณสามารถรับ &brandShortName; รุ่นล่าสุดได้เสมอที่:">
 
 <!ENTITY  unsupported.title               "ระบบไม่รองรับ">
@@ -40,7 +40,7 @@
                                            
 <!ENTITY  errorpatching.intro             "ไม่สามารถเรียกใช้การอัปเดตแบบบางส่วน &brandShortName; จะลองอีกครั้งโดยดาวน์โหลดการอัปเดตแบบสมบูรณ์">
 
-<!ENTITY  genericBackgroundError.label    "&brandShortName; ไม่สามารถตรวจสอบว่ามีการอัปเดตที่ใช้งานได้หรือไม่ โปรดตรวจสอบให้แน่ใจว่าคุณมี &brandShortName; รุ่นล่าสุดจาก:">
+<!ENTITY  genericBackgroundError.label    "&brandShortName; ไม่สามารถตรวจสอบว่ามีการอัปเดตที่ใช้ได้หรือไม่ โปรดตรวจสอบให้แน่ใจว่าคุณมี &brandShortName; รุ่นล่าสุดจาก:">
 
 <!ENTITY  finishedPage.title              "การอัปเดตพร้อมติดตั้ง">
 <!ENTITY  finishedPage.text               "การอัปเดตจะถูกติดตั้งในครั้งถัดไปที่ &brandShortName; เริ่ม คุณสามารถเริ่มการทำงาน &brandShortName; ใหม่ตอนนี้ หรือทำงานต่อไปและเริ่มการทำงานใหม่ในภายหลัง">
