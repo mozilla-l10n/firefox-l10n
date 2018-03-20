@@ -20,3 +20,25 @@
 
 <!ENTITY finishpage.shortdescription  "Kalender opprettet" >
 <!ENTITY finishpage.longdescription   "Kalenderen er opprettet" >
+
+<!-- Below are new strings for the revised new calendar dialog. The above strings should be
+    removed/renamed later on -->
+
+<!ENTITY sourcetabs.other.label  "Annet">
+
+<!ENTITY buttons.create.label "Opprett kalender">
+<!ENTITY buttons.create.accesskey "r">
+
+<!ENTITY buttons.find.label "Finn kalendere">
+<!ENTITY buttons.find.accesskey "F">
+
+<!ENTITY buttons.back.label "Tilbake">
+<!ENTITY buttons.back.accesskey "b">
+
+<!ENTITY buttons.subscribe.label "Abonner">
+<!ENTITY buttons.subscribe.accesskey "b">
+
+<!ENTITY calendartype.label "Kalendertype:">
+<!ENTITY location.label "Adresse:">
+
+
