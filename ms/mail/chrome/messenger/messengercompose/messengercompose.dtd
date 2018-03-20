@@ -343,6 +343,13 @@
 <!ENTITY attachPage.label "Lampir Halaman Web…">
 <!ENTITY attachPage.accesskey "W">
 
+<!-- Attachment Pane Header Bar Context Menu -->
+<!-- LOCALIZATION NOTE (initiallyShowAttachmentPane.label):
+     Should use the same wording as startExpandedCmd.label
+     in msgHdrViewOverlay.dtd. -->
+<!ENTITY initiallyShowAttachmentPane.label "Papar Anak Tetingkap Lampiran Permulaan">
+<!ENTITY initiallyShowAttachmentPane.accesskey "P">
+
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Tambah Kamus…">
 <!ENTITY spellAddDictionaries.accesskey "T">
