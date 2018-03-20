@@ -343,6 +343,13 @@
 <!ENTITY attachPage.label "Webstronu připowěsnyć…">
 <!ENTITY attachPage.accesskey "W">
 
+<!-- Attachment Pane Header Bar Context Menu -->
+<!-- LOCALIZATION NOTE (initiallyShowAttachmentPane.label):
+     Should use the same wording as startExpandedCmd.label
+     in msgHdrViewOverlay.dtd. -->
+<!ENTITY initiallyShowAttachmentPane.label "Wokno přiwěškow spočatnje pokazać">
+<!ENTITY initiallyShowAttachmentPane.accesskey "W">
+
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Słowniki přidać…">
 <!ENTITY spellAddDictionaries.accesskey "S">
