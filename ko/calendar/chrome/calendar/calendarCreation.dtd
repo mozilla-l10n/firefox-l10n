@@ -42,4 +42,10 @@
 <!ENTITY location.label "위치:">
 <!ENTITY location.placeholder "캘린더 서버의 URL이나 호스트 명">
 
+<!ENTITY network.nocredentials.label "이 위치는 자격 증명을 필요로 하지 않음">
+<!ENTITY network.loading.description "캘린더를 찾을 때 까지 기다려 주세요.">
+<!ENTITY network.notfound.description "이 위치에서 캘린더를 찾지 못했습니다. 설정을 확인해 주세요.">
+<!ENTITY network.authfail.description "입력한 자격 증명이 받아들여지지 않았습니다. 설정을 확인해 주세요.">
 
+<!ENTITY network.subscribe.single.description "구독하려는 캘린더를 선택해 주세요.">
+<!ENTITY network.subscribe.multiple.description "이 위치에서는 여러개의 캘린더 형식이 가능합니다. 캘린더 형식을 선택하고 구독하려는 캘린더를 표시해 주세요.">

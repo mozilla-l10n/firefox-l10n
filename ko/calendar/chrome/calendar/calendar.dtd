@@ -172,12 +172,49 @@
 <!ENTITY calendar.context.copyevent.accesskey         "C">
 <!ENTITY calendar.context.pasteevent.label            "붙여넣기">
 <!ENTITY calendar.context.pasteevent.accesskey        "P">
-<!ENTITY calendar.context.button.label                "오늘 창" >
-<!ENTITY calendar.context.button.accesskey            "T" >
-<!ENTITY calendar.context.attendance.menu.label       "참여" >
-<!ENTITY calendar.context.attendance.menu.accesskey   "d" >
-<!ENTITY calendar.context.attendance.occurrence.label "현재 일정만" >
+<!ENTITY calendar.context.button.label                "오늘 창">
+<!ENTITY calendar.context.button.accesskey            "T">
+
+<!ENTITY calendar.context.attendance.menu.label                 "참여">
+<!ENTITY calendar.context.attendance.menu.accesskey             "d">
+<!ENTITY calendar.context.attendance.occurrence.label           "현재 일정만">
 <!ENTITY calendar.context.attendance.all.label        "모든 일정" >
+
+<!ENTITY calendar.context.attendance.all2.label                 "완전한 시리즈">
+<!ENTITY calendar.context.attendance.send.label                 "지금 알림 보냄">
+<!ENTITY calendar.context.attendance.send.accesskey             "S">
+<!ENTITY calendar.context.attendance.dontsend.label             "알림 보내지 않음">
+<!ENTITY calendar.context.attendance.dontsend.accesskey         "D">
+
+<!ENTITY calendar.context.attendance.occ.accepted.accesskey     "A">
+<!ENTITY calendar.context.attendance.occ.accepted.label         "수락">
+<!ENTITY calendar.context.attendance.occ.tentative.accesskey    "y">
+<!ENTITY calendar.context.attendance.occ.tentative.label        "미정으로 수락">
+<!ENTITY calendar.context.attendance.occ.declined.accesskey     "c">
+<!ENTITY calendar.context.attendance.occ.declined.label         "거절">
+<!ENTITY calendar.context.attendance.occ.delegated.accesskey    "g">
+<!ENTITY calendar.context.attendance.occ.delegated.label        "위임">
+<!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "S">
+<!ENTITY calendar.context.attendance.occ.needsaction.label      "아직 행동 필요">
+<!ENTITY calendar.context.attendance.occ.inprogress.accesskey   "I">
+<!ENTITY calendar.context.attendance.occ.inprogress.label       "진행중">
+<!ENTITY calendar.context.attendance.occ.completed.accesskey    "C">
+<!ENTITY calendar.context.attendance.occ.completed.label        "완료">
+
+<!ENTITY calendar.context.attendance.all.accepted.accesskey     "e">
+<!ENTITY calendar.context.attendance.all.accepted.label         "수락">
+<!ENTITY calendar.context.attendance.all.tentative.accesskey    "v">
+<!ENTITY calendar.context.attendance.all.tentative.label        "미정으로 수락">
+<!ENTITY calendar.context.attendance.all.declined.accesskey     "d">
+<!ENTITY calendar.context.attendance.all.declined.label         "거절">
+<!ENTITY calendar.context.attendance.all.delegated.accesskey    "l">
+<!ENTITY calendar.context.attendance.all.delegated.label        "위임">
+<!ENTITY calendar.context.attendance.all.needsaction.accesskey  "l">
+<!ENTITY calendar.context.attendance.all.needsaction.label      "아직 행동 필요">
+<!ENTITY calendar.context.attendance.all.inprogress.accesskey   "p">
+<!ENTITY calendar.context.attendance.all.inprogress.label       "진행중">
+<!ENTITY calendar.context.attendance.all.completed.accesskey    "m">
+<!ENTITY calendar.context.attendance.all.completed.label        "완료">
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "진행">
