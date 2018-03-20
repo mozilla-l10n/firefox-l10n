@@ -4,7 +4,7 @@
 
 <!ENTITY     window.title                  "Настройки – Данни на страници">
 
-<!ENTITY     window1.title                 "Настройки – Бисквитки и данни на страници">
+<!ENTITY     window2.title                 "Управление на бисквитки и данни на страници">
 <!ENTITY     hostCol.label                 "Страница">
 <!ENTITY     statusCol.label               "Състояние">
 <!ENTITY     cookiesCol.label              "Бисквитки">

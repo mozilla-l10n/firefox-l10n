@@ -2,6 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.title):
+     Please ensure this exactly matches tabs.emptyPrivateTabTitle in tabbrowser.properties -->
+<!ENTITY aboutPrivateBrowsing.title                      "Поверително разглеждане">
+<!ENTITY aboutPrivateBrowsing.notPrivate.title           "Отваряне на прозорец за поверително разглеждане?">
+
 <!ENTITY aboutPrivateBrowsing.notPrivate                 "В момента не сте в поверителен прозорец.">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Отваряне на поверителен прозорец">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "О">

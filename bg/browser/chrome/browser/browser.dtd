@@ -240,7 +240,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Забранили сте на страницата да ви изпраща известия.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Забранили сте на страницата достъп до хранилището за постоянни данни.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Забранили сте на страницата да отваря изскачащи прозорци.">
-
 <!ENTITY urlbar.canvasBlocked.tooltip            "Забранили сте достъпа до данните от canvas на тази страница.">
 
 <!ENTITY urlbar.midiBlocked.tooltip              "Забранили сте на страницата достъп до MIDI.">
@@ -388,7 +387,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "Няма синхронизирани раздели… все още!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Искате ли да видите свои раздели от други устройства тук?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Настройки на Sync">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Настройки на Sync">
@@ -397,7 +395,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Вписване в Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Управление на устройства…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Странична лента с раздели">
-
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Добавяне на устройство">
 
 <!ENTITY appMenuRecentHighlights.label "Последни акценти">
@@ -440,6 +437,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Търсене или въвеждане на адрес">
+<!ENTITY urlbar.placeholder3          "Въвеждайте адреси или търсете от тук">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Разширение:">
@@ -806,7 +804,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Синхронизирани раздели">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Впишете се във Firefox на друго устройство, за да видите тук неговите раздели.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "Няма синхронизирани раздели… все още!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Искате ли да видите свои раздели от други устройства тук?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Впишете се, за да видите списък с раздели от други ваши устройства.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "Сметката ви трябва да бъде потвърдена.">
@@ -816,7 +813,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Включете синхронизирането на раздели, за да видите списък с раздели от други ваши устройства.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Търсене в синхронизираните">
-
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Добавяне на устройство">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
@@ -986,11 +982,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Рестарт за обновяване на &brandShorterName;">
 
 <!ENTITY newTabControlled.message "Разширение промени страницата, която виждате при отваряне на нов раздел. Може да възстановите настройките ако такава промяна е нежелателна.">
+
 <!ENTITY newTabControlled.header.message "Новият раздел е променен">
 <!ENTITY newTabControlled.keepButton.label "Запазване">
 <!ENTITY newTabControlled.keepButton.accesskey "з">
 <!ENTITY newTabControlled.restoreButton.label "Отмяна">
 <!ENTITY newTabControlled.restoreButton.accesskey "о">
+
+<!ENTITY newTabControlled.disableButton.label "Изключване на разширението">
+<!ENTITY newTabControlled.disableButton.accesskey "и">
 
 <!ENTITY pageActionButton.tooltip "Действия със страницата">
 <!ENTITY pageAction.addToUrlbar.label "Добавяне към адресната лента">
