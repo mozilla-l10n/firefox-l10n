@@ -343,6 +343,13 @@
 <!ENTITY attachPage.label "Lisa veebileht...">
 <!ENTITY attachPage.accesskey "S">
 
+<!-- Attachment Pane Header Bar Context Menu -->
+<!-- LOCALIZATION NOTE (initiallyShowAttachmentPane.label):
+     Should use the same wording as startExpandedCmd.label
+     in msgHdrViewOverlay.dtd. -->
+<!ENTITY initiallyShowAttachmentPane.label "Kirja avamisel kuvatakse manused kohe">
+<!ENTITY initiallyShowAttachmentPane.accesskey "K">
+
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Lisa sõnaraamatuid…">
 <!ENTITY spellAddDictionaries.accesskey "L">
