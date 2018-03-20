@@ -72,7 +72,7 @@
 <!ENTITY otherActionsPrint1.accesskey "C">
 
 <!-- Attachment bar context menu items -->
-<!ENTITY startExpandedCmd.label    "Papar Anak tetingkap Lampiran Permulaan">
+<!ENTITY startExpandedCmd.label    "Papar Anak Tetingkap Lampiran Permulaan">
 <!ENTITY startExpandedCmd.accesskey    "P">
 
 <!-- Attachment context menu items -->
