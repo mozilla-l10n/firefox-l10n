@@ -187,9 +187,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Outros marcadores">
 <!ENTITY mobileBookmarksCmd.label "Marcadores de dispositivo móvel">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar mais marcadores">
-<!ENTITY showRecentlyBookmarked.label     "Mostrar marcadores recentemente adicionados">
+<!ENTITY showRecentlyBookmarked.label     "Mostrar marcadores recentes">
 <!ENTITY showRecentlyBookmarked.accesskey "t">
-<!ENTITY hideRecentlyBookmarked.label     "Ocultar marcadores recentemente adicionados">
+<!ENTITY hideRecentlyBookmarked.label     "Ocultar marcadores recentes">
 <!ENTITY hideRecentlyBookmarked.accesskey "c">
 
 <!ENTITY backCmd.label                "Anterior">
