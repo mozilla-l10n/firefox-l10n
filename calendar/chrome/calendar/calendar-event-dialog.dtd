@@ -398,6 +398,7 @@
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "일반">
 <!ENTITY read.only.title.label           "제목:">
+<!ENTITY read.only.calendar.label        "캘린더:">
 <!ENTITY read.only.event.start.label     "시작일:">
 <!ENTITY read.only.task.start.label      "착수일:">
 <!ENTITY read.only.event.end.label       "종료일:">
@@ -416,3 +417,17 @@
 <!ENTITY read.only.attendees.label       "참석자">
 <!ENTITY read.only.description.label     "설명">
 <!ENTITY read.only.link.label            "관련 링크">
+
+<!-- Summary dialog -->
+<!ENTITY summary.dialog.saveclose.label         "저장하고 닫기">
+<!ENTITY summary.dialog.saveclose.tooltiptext   "참여 상태를 변경하거나 응답을 보내지 않고 변경 내용을 저장 후 창을 닫음">
+<!ENTITY summary.dialog.accept.label            "수락">
+<!ENTITY summary.dialog.accept.tooltiptext      "초대 수락">
+<!ENTITY summary.dialog.tentative.label         "임시">
+<!ENTITY summary.dialog.tentative.tooltiptext   "미정으로 초대 수락">
+<!ENTITY summary.dialog.decline.label           "거절">
+<!ENTITY summary.dialog.decline.tooltiptext     "초대 거절">
+<!ENTITY summary.dialog.dontsend.label          "응답 보내지 않음">
+<!ENTITY summary.dialog.dontsend.tooltiptext    "초청한 사람에게 답변을 보내지 않고 참석 여부를 변경한 후 창을 닫음">
+<!ENTITY summary.dialog.send.label              "지금 응답 보냄">
+<!ENTITY summary.dialog.send.tooltiptext        "초청한 사람에게 응답을 보내고 창을 닫음">
