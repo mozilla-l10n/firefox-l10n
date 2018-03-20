@@ -20,3 +20,16 @@
 
 <!ENTITY finishpage.shortdescription  "S'ha creat el calendari" >
 <!ENTITY finishpage.longdescription   "S'ha creat el calendari." >
+
+<!-- Below are new strings for the revised new calendar dialog. The above strings should be
+    removed/renamed later on -->
+
+
+
+
+
+
+<!ENTITY calendartype.label "Tipus de calendari:">
+<!ENTITY location.label "Ubicació:">
+
+
