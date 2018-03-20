@@ -422,7 +422,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "รายงานสุขภาพ &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "แบ่งปันข้อมูลเกี่ยวกับสุขภาพเบราว์เซอร์ของคุณให้กับ &vendorShortName; และช่วยให้คุณเข้าใจประสิทธิภาพเบราว์เซอร์ของคุณ">
-<!ENTITY datareporting_abouthr_title "ดูรายงานสุขภาพของฉัน">
 <!ENTITY datareporting_telemetry_title "การวัดและส่งข้อมูลทางไกล">
 <!ENTITY datareporting_telemetry_summary "แบ่งปันข้อมูลประสิทธิภาพ, การใช้งาน, ฮาร์ดแวร์ และการปรับแต่งเกี่ยวกับเบราว์เซอร์ของคุณกับ &vendorShortName; เพื่อช่วยเราทำ &brandShortName; ให้ดีขึ้น">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; ส่งรายงานข้อขัดข้องเพื่อช่วยให้ &vendorShortName; สร้างเบราว์เซอร์ของคุณให้เสถียรและปลอดภัยยิ่งขึ้น">
@@ -698,7 +697,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY searchable_description "ที่คั่นหน้าและประวัติ">
 
  <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "มีการอัปเดตที่ใช้งานได้สำหรับ &brandShortName;">
+<!ENTITY updater_start_title2 "มีการอัปเดตที่ใช้ได้สำหรับ &brandShortName;">
 <!ENTITY updater_start_select2 "สัมผัสเพื่อดาวน์โหลด">
 
 <!ENTITY updater_downloading_title2 "กำลังดาวน์โหลด &brandShortName;">
@@ -827,7 +826,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_first_offline_bookmark_message "ค้นหารายการมุมมองผู้อ่านของคุณในที่คั่นหน้า แม้ขณะออฟไลน์">
 <!ENTITY helper_first_offline_bookmark_button "ไปยังที่คั่นหน้า">
 
-<!ENTITY helper_triple_readerview_open_title "ใช้งานได้ออฟไลน์">
+<!ENTITY helper_triple_readerview_open_title "ใช้ได้ออฟไลน์">
 <!ENTITY helper_triple_readerview_open_message "เพิ่มที่คั่นหน้าสำหรับรายการมุมมองผู้อ่านเพื่ออ่านแบบออฟไลน์">
 <!ENTITY helper_triple_readerview_open_button "เพิ่มไปยังที่คั่นหน้า">
 
