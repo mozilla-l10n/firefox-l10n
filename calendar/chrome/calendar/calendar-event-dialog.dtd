@@ -25,14 +25,14 @@
 <!ENTITY newevent.status.needsaction.label        "Necessita una acció" >
 <!ENTITY newevent.status.inprogress.label         "En curs" >
 <!ENTITY newevent.status.completed.label          "Acabada el dia" >
-<!-- The following entity is for New Task dialog only -->
 
+<!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#037; acabada">
+
 <!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label,
      event.attendees.disallowcounter.label)
    - These three labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
-
 <!ENTITY event.attendees.notify.label                "Notifica els assistents">
 <!ENTITY event.attendees.notify.accesskey            "f">
 <!ENTITY event.attendees.notifyundisclosed.label     "Invitació separada per a cada assistent">
@@ -41,8 +41,8 @@
 <!ENTITY event.attendees.disallowcounter.label       "No permetis contrapropostes">
 <!ENTITY event.attendees.disallowcounter.accesskey   "a">
 <!ENTITY event.attendees.disallowcounter.tooltip     "Indica que no voleu acceptar contrapropostes">
-<!-- Keyboard Shortcuts -->
 
+<!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
 <!ENTITY event.dialog.new.task.key2               "D">
 <!ENTITY event.dialog.new.message.key2            "N">
@@ -56,8 +56,8 @@
 <!ENTITY event.dialog.copy.key                    "C">
 <!ENTITY event.dialog.paste.key                   "V">
 <!ENTITY event.dialog.select.all.key              "A">
-<!-- Menubar -->
 
+<!-- Menubar -->
 <!ENTITY  event.menu.item.new.label                       "Nou">
 <!ENTITY  event.menu.item.new.accesskey                   "N">
 <!ENTITY  event.menu.item.new.event.label                 "Cita">
@@ -70,21 +70,21 @@
 <!ENTITY  event.menu.item.new.contact.accesskey           "C">
 <!ENTITY  event.menu.item.close.label                     "Tanca">
 <!ENTITY  event.menu.item.close.accesskey                 "T">
+
 <!-- LOCALIZATION NOTE
    - event.menu.item.save.accesskey is used for the "Save" menu item
    - when editing events/tasks in a dialog window.
    - event.menu.item.save.tab.accesskey is used for the "Save" menu item
    - when editing events/tasks in a tab. -->
-
 <!ENTITY  event.menu.item.save.label                      "Desa">
 <!ENTITY  event.menu.item.save.accesskey                  "D">
 <!ENTITY  event.menu.item.save.tab.accesskey              "a">
+
 <!-- LOCALIZATION NOTE
     - event.menu.item.saveandclose.accesskey is used for "Save and Close"
     - menu item when editing events/tasks in a dialog window.
     - event.menu.item.saveandclose.tab.accesskey is used for "Save and Close"
     - when editing events/tasks in a tab. -->
-
 <!ENTITY  event.menu.item.saveandclose.label              "Desa i tanca">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "e">
 <!ENTITY  event.menu.item.saveandclose.tab.accesskey      "t">
@@ -163,8 +163,8 @@
 <!ENTITY event.remove.attendees.accesskey                 "l">
 <!ENTITY event.remove.attendee.label                      "Elimina un assistent">
 <!ENTITY event.remove.attendee.accesskey                  "E">
-<!-- Toolbar -->
 
+<!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label2                       "Desa">
 <!ENTITY  event.toolbar.saveandclose.label                "Desa i tanca">
 <!ENTITY  event.toolbar.delete.label                      "Suprimeix">
@@ -180,6 +180,7 @@
 <!ENTITY  event.toolbar.priority.tooltip                  "Canvia la prioritat">
 <!ENTITY  event.toolbar.status.tooltip                    "Canvia l'estat">
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Canvia la disponibilitat (lliure/ocupat)">
+
 <!-- Counter box -->
 <!-- LOCALIZATON NOTE(counter.button.*)
    - This is only visible in the UI if you have received a counterproposal before and are going to
@@ -187,15 +188,14 @@
    - populate the form fields in the dialog, there's no other immediate action on clicking like with
    - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
-
 <!ENTITY counter.button.proposal.label                    "Aplica la proposta">
 <!ENTITY counter.button.proposal.accesskey                "p">
 <!ENTITY counter.button.proposal.tooltip2                 "Els camps de la cita s'emplenaran utilitzant els valors de la contraproposta; només quan es desi, amb canvis addicionals o sense, es notificaran tots els assistents degudament.">
 <!ENTITY counter.button.original.label                    "Aplica les dades originals">
 <!ENTITY counter.button.original.accesskey                "r">
 <!ENTITY counter.button.original.tooltip2                 "Els valors dels camps seran els de la cita original, abans de fer la contraproposta">
-<!-- Main page -->
 
+<!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Títol:" >
 <!ENTITY event.title.textbox.accesskey                    "T">
 <!ENTITY event.location.label                             "Ubicació:" >
@@ -261,8 +261,8 @@
 
 <!ENTITY event.statusbarpanel.freebusy.label              "Disponibilitat:">
 <!ENTITY event.statusbarpanel.privacy.label               "Privadesa:">
-<!-- Recurrence dialog -->
 
+<!-- Recurrence dialog -->
 <!ENTITY recurrence.title.label                         "Edita la repetició">
 
 <!ENTITY event.repeat.does.not.repeat.label             "No es repeteix">
@@ -311,6 +311,7 @@
 <!ENTITY event.recurrence.every.label                        "Cada:" >
 <!ENTITY repeat.units.years.both                             "any/s" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "Cada" >
+
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
      Portuguese: 6 de Setembro
@@ -318,7 +319,6 @@
      event.recurrence.pattern.yearly.of.label is "of" in
      Edit recurrence window -> Recurrence pattern -> Repeat yearly
 -->
-
 <!ENTITY event.recurrence.pattern.yearly.of.label            "de" >
 
 <!ENTITY event.recurrence.pattern.yearly.month.1.label       "gener" >
@@ -368,8 +368,8 @@
 <!ENTITY event.recurrence.appointments.label            "Cites" >
 <!ENTITY event.repeat.until.label                       "Es repeteix fins" >
 <!ENTITY event.recurrence.preview.label                 "Previsualització">
-<!-- Attendees dialog -->
 
+<!-- Attendees dialog -->
 <!ENTITY invite.title.label                     "Invita assistents">
 <!ENTITY event.organizer.label                  "Organitzador">
 <!ENTITY event.freebusy.suggest.slot            "Franja horària suggerida:">
@@ -390,14 +390,15 @@
 <!ENTITY event.attendee.usertype.resource       "Recurs">
 <!ENTITY event.attendee.usertype.room           "Sala">
 <!ENTITY event.attendee.usertype.unknown        "Desconegut">
-<!-- Timezone dialog -->
 
+<!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Indiqueu el fus horari">
 <!ENTITY event.timezone.custom.label     "Més fusos horaris…">
-<!-- Read-Only dialog -->
 
+<!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "General">
 <!ENTITY read.only.title.label           "Títol:">
+<!ENTITY read.only.calendar.label        "Calendari:">
 <!ENTITY read.only.event.start.label     "Data d'inici:">
 <!ENTITY read.only.task.start.label      "Data d'inici:">
 <!ENTITY read.only.event.end.label       "Data de fi:">
@@ -416,3 +417,14 @@
 <!ENTITY read.only.attendees.label       "Assistents">
 <!ENTITY read.only.description.label     "Descripció">
 <!ENTITY read.only.link.label            "Enllaç relacionat">
+
+<!-- Summary dialog -->
+<!ENTITY summary.dialog.saveclose.label         "Desa i tanca">
+<!ENTITY summary.dialog.accept.label            "Accepta">
+<!ENTITY summary.dialog.accept.tooltiptext      "Accepta la invitació">
+<!ENTITY summary.dialog.tentative.label         "Provisional">
+<!ENTITY summary.dialog.tentative.tooltiptext   "Accepta la invitació provisionalment">
+<!ENTITY summary.dialog.decline.label           "Declina">
+<!ENTITY summary.dialog.decline.tooltiptext     "Declina la invitació">
+<!ENTITY summary.dialog.dontsend.label          "No enviïs cap resposta">
+<!ENTITY summary.dialog.send.label              "Envia una resposta ara">
