@@ -23,9 +23,43 @@
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
 <!ENTITY PhoneticField2.id              "PhoneticLastName">
 
+<!ENTITY NameField1.label               "Amezwaru:">
+<!ENTITY NameField1.accesskey           "F">
+<!ENTITY NameField2.label               "Aneggaru:">
+<!ENTITY NameField2.accesskey           "L">
+<!ENTITY PhoneticField1.label           "Amsisli:">
+<!ENTITY PhoneticField2.label           "Amsisli:">
+<!ENTITY DisplayName.label              "Sken:">
+<!ENTITY DisplayName.accesskey          "D">
+<!ENTITY preferDisplayName.label        "Smenyaf yal tikelt askan n yisem ɣef uqerru n yizen">
+<!ENTITY preferDisplayName.accesskey    "y">
+<!ENTITY NickName.label                 "Meferisem:">
+<!ENTITY NickName.accesskey             "N">
 
+<!ENTITY PrimaryEmail.label             "Imayl:">
+<!ENTITY PrimaryEmail.accesskey         "E">
+<!ENTITY SecondEmail.label              "Imayl nniḍen:">
+<!ENTITY SecondEmail.accesskey          "i">
+<!ENTITY PreferMailFormat.label         "Yifi-it wermas n yeznan s wemsal am:">
+<!ENTITY PreferMailFormat.accesskey     "v">
+<!ENTITY PlainText.label                "Adris ačuṛan">
+<!ENTITY HTML.label                     "HTML">
+<!ENTITY Unknown.label                  "Arussin">
+<!ENTITY chatName.label                 "Isem deg tirawt taskudant:">
 
+<!ENTITY WorkPhone.label                "Amahil:">
+<!ENTITY WorkPhone.accesskey            "k">
+<!ENTITY HomePhone.label                "Axxam:">
+<!ENTITY HomePhone.accesskey            "m">
+<!ENTITY FaxNumber.label                "Faks:">
+<!ENTITY FaxNumber.accesskey            "x">
+<!ENTITY CellularNumber.label           "Aziraz:">
+<!ENTITY CellularNumber.accesskey       "b">
 
+<!ENTITY Home.tab                       "Tabaḍnit">
+<!ENTITY Home.accesskey                 "P">
+<!ENTITY HomeAddress.label              "Tansa:">
+<!ENTITY HomeAddress.accesskey          "d">
 
 
 
