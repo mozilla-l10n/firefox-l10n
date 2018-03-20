@@ -76,7 +76,15 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
+<!ENTITY propertiesMenu.label                           "Ominaisuudet">
+<!ENTITY propertiesMenu.accesskey                       "O">
 <!ENTITY propertiesCmd.key                              "i">
+<!ENTITY abPropertiesMenu.label                         "Osoitekirjan ominaisuudet">
+<!ENTITY abPropertiesMenu.accesskey                     "k">
+<!ENTITY contactPropertiesMenu.label                    "Yhteyshenkilön ominaisuudet">
+<!ENTITY contactPropertiesMenu.accesskey                "Y">
+<!ENTITY mailingListPropertiesMenu.label                "Postituslistan ominaisuudet">
+<!ENTITY mailingListPropertiesMenu.accesskey            "P">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label                                 "Näytä">
@@ -116,6 +124,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY messengerCmd.label                             "Sähköposti ja keskusteluryhmät">
 <!ENTITY messengerCmd.accesskey                         "S">
 <!ENTITY messengerCmd.commandkey                        "1">
+<!ENTITY addressBookCmd.label                           "Osoitekirja">
+<!ENTITY addressBookCmd.accesskey                       "k">
+<!ENTITY addressBookCmd.key                             "k">
 <!ENTITY searchAddressesCmd.label                       "Etsi osoitekirjasta…">
 <!ENTITY searchAddressesCmd.accesskey                   "E">
 <!ENTITY importCmd.label                                "Tuo yhteystietoja…">
@@ -132,6 +143,13 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "U">
 <!ENTITY newlistButton.label                            "Uusi lista">
 <!ENTITY newlistButton.accesskey                        "s">
+<!ENTITY showAsDefault.label                            "Oletuskansio">
+<!ENTITY showAsDefault.accesskey                        "K">
+<!ENTITY editPropertiesButton.label                     "Muokkaa">
+<!ENTITY propertiesContext.label                        "Ominaisuudet">
+<!ENTITY propertiesContext.accesskey                    "i">
+<!ENTITY abPropertiesContext.label                      "Ominaisuudet">
+<!ENTITY abPropertiesContext.accesskey                  "i">
 <!ENTITY newmsgButton.label                             "Lähetä">
 <!ENTITY newmsgButton.accesskey                         "L">
 <!ENTITY newIM.label                                    "Pikaviesti">
