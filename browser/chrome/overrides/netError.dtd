@@ -118,16 +118,6 @@
 </ul>">
 
 <!ENTITY nssFailure2.title "קישור מאובטח נכשל">
-<!ENTITY nssFailure2.longDesc2 "
-<ul>
-  <li>
-    דף זה לא ניתן להצגה כי לא ניתן לאמת את מהיימנות הנתונים שהתקבלו.
-  </li>
-  <li>
-    נא ליצור קשר עם בעלי האתר וליידע אותם על בעיה זו.
-  </li>
-</ul>
-">
 
 <!ENTITY certerror.longpagetitle1 "החיבור שלך אינו מאובטח">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
