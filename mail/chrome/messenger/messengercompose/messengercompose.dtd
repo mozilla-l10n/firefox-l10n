@@ -343,6 +343,13 @@
 <!ENTITY attachPage.label "Webside keppelje…">
 <!ENTITY attachPage.accesskey "W">
 
+<!-- Attachment Pane Header Bar Context Menu -->
+<!-- LOCALIZATION NOTE (initiallyShowAttachmentPane.label):
+     Should use the same wording as startExpandedCmd.label
+     in msgHdrViewOverlay.dtd. -->
+<!ENTITY initiallyShowAttachmentPane.label "Inisjeel bylagefinster toane">
+<!ENTITY initiallyShowAttachmentPane.accesskey "t">
+
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Wurdboeken tafoegje…">
 <!ENTITY spellAddDictionaries.accesskey "t">
