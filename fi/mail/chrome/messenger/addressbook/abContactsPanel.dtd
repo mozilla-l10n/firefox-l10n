@@ -28,7 +28,18 @@
 <!ENTITY deleteAddrBookCard.label           "Poista">
 <!ENTITY deleteAddrBookCard.accesskey       "P">
 <!ENTITY propertiesContext.label            "Ominaisuudet">
+<!ENTITY propertiesContext.accesskey        "O">
+<!ENTITY abPropertiesContext.label          "Ominaisuudet">
+<!ENTITY abPropertiesContext.accesskey      "O">
+<!ENTITY editContactContext.label           "Muokkaa yhteyshenkilön tietoja">
+<!ENTITY editContactContext.accesskey       "M">
+<!ENTITY editMailingListContext.label       "Muokkaa luetteloa">
+<!ENTITY editMailingListContext.accesskey   "M">
 
+<!ENTITY newContactAbContext.label          "Uusi yhteyshenkilö">
+<!ENTITY newContactAbContext.accesskey      "y">
+<!ENTITY newListAbContext.label             "Uusi luettelo">
+<!ENTITY newListAbContext.accesskey         "l">
 
 <!ENTITY toButton.label                     "Vastaanottaja:">
 <!ENTITY toButton.accesskey                 "V">
