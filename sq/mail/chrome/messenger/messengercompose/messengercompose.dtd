@@ -343,6 +343,13 @@
 <!ENTITY attachPage.label "Bashkëngjitni Faqe Web…">
 <!ENTITY attachPage.accesskey "q">
 
+<!-- Attachment Pane Header Bar Context Menu -->
+<!-- LOCALIZATION NOTE (initiallyShowAttachmentPane.label):
+     Should use the same wording as startExpandedCmd.label
+     in msgHdrViewOverlay.dtd. -->
+<!ENTITY initiallyShowAttachmentPane.label "Shfaqe Fillimisht Kuadratin e Bashkëngjitjeve">
+<!ENTITY initiallyShowAttachmentPane.accesskey "S">
+
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Shtoni Fjalorë…">
 <!ENTITY spellAddDictionaries.accesskey "S">
