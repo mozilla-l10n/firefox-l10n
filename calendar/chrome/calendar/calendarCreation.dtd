@@ -43,4 +43,9 @@
 <!ENTITY location.placeholder "URL ose emër strehe e shërbyesit të kalendarit">
 
 <!ENTITY network.nocredentials.label "Kjo vendndodhje nuk lyp kredenciale">
+<!ENTITY network.loading.description "Ju lutemi, prisni teksa zbulohen kalendarët tuaj.">
+<!ENTITY network.notfound.description "S’u gjetën kalendarë në këtë vendndodhje. Ju lutemi, kontrolloni rregullimet tuaja.">
+<!ENTITY network.authfail.description "Kredencialet që keni dhënë nuk u pranuan. Ju lutemi, kontrolloni rregullimet tuaja.">
 
+<!ENTITY network.subscribe.single.description "Ju lutemi, përzgjidhni kalendarët te të cilët do të donit të pajtoheshit.">
+<!ENTITY network.subscribe.multiple.description "Ka disa lloje kalendarësh të gatshëm për këtë vend. Ju lutemi, përzgjidhni llojin e kalendarit, mandej vëruni shenjë kalendarëve te të cilët do të donit të pajtoheshit.">
