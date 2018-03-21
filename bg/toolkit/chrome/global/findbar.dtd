@@ -11,9 +11,9 @@
 <!ENTITY highlightAll.label "Открояване на всички">
 <!ENTITY highlightAll.accesskey "в">
 <!ENTITY highlightAll.tooltiptext "Открояване на всички съвпадения на фразата">
-<!ENTITY caseSensitive.label "Чувствителност към регистъра">
+<!ENTITY caseSensitive.label "Съвпадение на регистъра">
 <!ENTITY caseSensitive.accesskey "Ч">
-<!ENTITY caseSensitive.tooltiptext "Търсене с чувствителност към регистъра на буквите">
+<!ENTITY caseSensitive.tooltiptext "Търсене със съвпадение на регистъра на буквите">
 <!ENTITY entireWord.label "Цели думи">
 <!ENTITY entireWord.accesskey "д">
 <!ENTITY entireWord.tooltiptext "Търси само цели думи">
