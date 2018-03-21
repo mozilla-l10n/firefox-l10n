@@ -8,6 +8,7 @@
 <!ENTITY content.label "Contenido">
 <!ENTITY fonts.label "Tipos de letra">
 <!ENTITY colors.label "Colores">
+<!ENTITY media.label "Medios">
 <!ENTITY spellingPane.label "Ortografía">
 <!ENTITY navigator.label "Navegador">
 <!ENTITY history.label "Historial">
