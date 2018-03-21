@@ -25,14 +25,14 @@
 <!ENTITY newevent.status.needsaction.label        "Әрекет қажет етіледі" >
 <!ENTITY newevent.status.inprogress.label         "Орындалуда" >
 <!ENTITY newevent.status.completed.label          "Аяқталған уақыты" >
-<!-- The following entity is for New Task dialog only -->
 
+<!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#037; дайын">
+
 <!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label,
      event.attendees.disallowcounter.label)
    - These three labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
-
 <!ENTITY event.attendees.notify.label                "Қатысушыларды ескерту">
 <!ENTITY event.attendees.notify.accesskey            "е">
 <!ENTITY event.attendees.notifyundisclosed.label     "Әр қатысушыға жеке шақыру">
@@ -41,8 +41,8 @@
 <!ENTITY event.attendees.disallowcounter.label       "Кері ұсыныстарды қабылдамау">
 <!ENTITY event.attendees.disallowcounter.accesskey   "е">
 <!ENTITY event.attendees.disallowcounter.tooltip     "Кері ұсыныстарды қабылдамайтыныңызды көрсетеді">
-<!-- Keyboard Shortcuts -->
 
+<!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
 <!ENTITY event.dialog.new.task.key2               "D">
 <!ENTITY event.dialog.new.message.key2            "N">
@@ -56,8 +56,8 @@
 <!ENTITY event.dialog.copy.key                    "C">
 <!ENTITY event.dialog.paste.key                   "V">
 <!ENTITY event.dialog.select.all.key              "A">
-<!-- Menubar -->
 
+<!-- Menubar -->
 <!ENTITY  event.menu.item.new.label                       "Жаңа">
 <!ENTITY  event.menu.item.new.accesskey                   "Ж">
 <!ENTITY  event.menu.item.new.event.label                 "Оқиға">
@@ -70,21 +70,21 @@
 <!ENTITY  event.menu.item.new.contact.accesskey           "к">
 <!ENTITY  event.menu.item.close.label                     "Жабу">
 <!ENTITY  event.menu.item.close.accesskey                 "Ж">
+
 <!-- LOCALIZATION NOTE
    - event.menu.item.save.accesskey is used for the "Save" menu item
    - when editing events/tasks in a dialog window.
    - event.menu.item.save.tab.accesskey is used for the "Save" menu item
    - when editing events/tasks in a tab. -->
-
 <!ENTITY  event.menu.item.save.label                      "Сақтау">
 <!ENTITY  event.menu.item.save.accesskey                  "С">
 <!ENTITY  event.menu.item.save.tab.accesskey              "а">
+
 <!-- LOCALIZATION NOTE
     - event.menu.item.saveandclose.accesskey is used for "Save and Close"
     - menu item when editing events/tasks in a dialog window.
     - event.menu.item.saveandclose.tab.accesskey is used for "Save and Close"
     - when editing events/tasks in a tab. -->
-
 <!ENTITY  event.menu.item.saveandclose.label              "Сақтау және жабу">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "б">
 <!ENTITY  event.menu.item.saveandclose.tab.accesskey      "б">
@@ -163,8 +163,8 @@
 <!ENTITY event.remove.attendees.accesskey                 "р">
 <!ENTITY event.remove.attendee.label                      "Қатысушыны өшіру">
 <!ENTITY event.remove.attendee.accesskey                  "ш">
-<!-- Toolbar -->
 
+<!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label2                       "Сақтау">
 <!ENTITY  event.toolbar.saveandclose.label                "Сақтау және жабу">
 <!ENTITY  event.toolbar.delete.label                      "Өшіру">
@@ -180,6 +180,7 @@
 <!ENTITY  event.toolbar.priority.tooltip                  "Приоритетін өзгерту">
 <!ENTITY  event.toolbar.status.tooltip                    "Қалып-күйін өзгерту">
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Бос/бос емес уақытын өзгерту">
+
 <!-- Counter box -->
 <!-- LOCALIZATON NOTE(counter.button.*)
    - This is only visible in the UI if you have received a counterproposal before and are going to
@@ -187,15 +188,14 @@
    - populate the form fields in the dialog, there's no other immediate action on clicking like with
    - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
-
 <!ENTITY counter.button.proposal.label                    "Ұсынысты іске асыру">
 <!ENTITY counter.button.proposal.accesskey                "с">
 <!ENTITY counter.button.proposal.tooltip2                 "Оқиға өрістері кері ұсыныстың мәндерімен толтырылатын болады, тек қосымша өзгерістермен немесе оларсыз сақтау барлық қатысушыларды ескертеді">
 <!ENTITY counter.button.original.label                    "Бастапқы деректерді іске асыру">
 <!ENTITY counter.button.original.accesskey                "т">
 <!ENTITY counter.button.original.tooltip2                 "Өрістер бастапқы оқиғаның деректерімен толтырылады, кері ұсыныс жасалғанға дейінгі күймен">
-<!-- Main page -->
 
+<!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Атауы:" >
 <!ENTITY event.title.textbox.accesskey                    "т">
 <!ENTITY event.location.label                             "Адресі:" >
@@ -261,8 +261,8 @@
 
 <!ENTITY event.statusbarpanel.freebusy.label              "Уақытты қалайша көрсету:">
 <!ENTITY event.statusbarpanel.privacy.label               "Жекелігі:">
-<!-- Recurrence dialog -->
 
+<!-- Recurrence dialog -->
 <!ENTITY recurrence.title.label                         "Қайталануын түзету">
 
 <!ENTITY event.repeat.does.not.repeat.label             "Қайталанбайды">
@@ -311,6 +311,7 @@
 <!ENTITY event.recurrence.every.label                        "Әрбір:" >
 <!ENTITY repeat.units.years.both                             "Жыл" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "Әрбір" >
+
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
      Portuguese: 6 de Setembro
@@ -318,7 +319,6 @@
      event.recurrence.pattern.yearly.of.label is "of" in
      Edit recurrence window -> Recurrence pattern -> Repeat yearly
 -->
-
 <!ENTITY event.recurrence.pattern.yearly.of.label            "" >
 
 <!ENTITY event.recurrence.pattern.yearly.month.1.label       "Қаңтар" >
@@ -368,8 +368,8 @@
 <!ENTITY event.recurrence.appointments.label            "Кездесу(лер)" >
 <!ENTITY event.repeat.until.label                       "Келесіге дейін қайталау" >
 <!ENTITY event.recurrence.preview.label                 "Алдын-ала қарап шығу">
-<!-- Attendees dialog -->
 
+<!-- Attendees dialog -->
 <!ENTITY invite.title.label                     "Қатысушыларды шақыру">
 <!ENTITY event.organizer.label                  "Ұйымдастырушы">
 <!ENTITY event.freebusy.suggest.slot            "Уақыт аралығын ұсыну:">
@@ -390,14 +390,15 @@
 <!ENTITY event.attendee.usertype.resource       "Ресурсы">
 <!ENTITY event.attendee.usertype.room           "Бөлме">
 <!ENTITY event.attendee.usertype.unknown        "Белгісіз">
-<!-- Timezone dialog -->
 
+<!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Уақыт белдеуін көрсетіңіз">
 <!ENTITY event.timezone.custom.label     "Көбірек уақыт белдеулері…">
-<!-- Read-Only dialog -->
 
+<!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Жалпы">
 <!ENTITY read.only.title.label           "Тақырыбы:">
+<!ENTITY read.only.calendar.label        "Күнтізбе:">
 <!ENTITY read.only.event.start.label     "Бастапқы күн:">
 <!ENTITY read.only.task.start.label      "Бастапқы күн:">
 <!ENTITY read.only.event.end.label       "Аяқталу күні:">
@@ -416,3 +417,13 @@
 <!ENTITY read.only.attendees.label       "Қатысушылар">
 <!ENTITY read.only.description.label     "Анықтамасы">
 <!ENTITY read.only.link.label            "Қатысты сілтеме">
+
+<!-- Summary dialog -->
+<!ENTITY summary.dialog.saveclose.label         "Сақтау және жабу">
+<!ENTITY summary.dialog.accept.label            "Қабылдау">
+<!ENTITY summary.dialog.accept.tooltiptext      "Шақыруды қабылдау">
+<!ENTITY summary.dialog.tentative.label         "Мүмкін деп">
+<!ENTITY summary.dialog.tentative.tooltiptext   "Шақыруды мүмкін деп қабылдау">
+<!ENTITY summary.dialog.decline.label           "Тайдыру">
+<!ENTITY summary.dialog.decline.tooltiptext     "Шақыруды тайдыру">
+<!ENTITY summary.dialog.dontsend.label          "Жауапты жібермеу">
