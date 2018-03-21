@@ -242,6 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.popupBlocked.tooltip             "Бұл веб-сайт үшін атып шығатын терезелерді бұғаттадыңыз.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Сіз canvas деректерін тарқатуды бұл вебсайтқа блоктадыңыз.">
 
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "Сіз бұл вебсайтқа Adobe Flash қолдануды блоктадыңыз.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Сіз MIDI қолдануды бұл вебсайтқа блоктадыңыз.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Тарихты көрсету">
@@ -437,6 +438,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Іздеу немесе адрес">
+<!ENTITY urlbar.placeholder3          "Ізделетін ұғымдарды және адрестерді осында енгізіңіз">
 <!ENTITY urlbar.accesskey             "з">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Кеңейту:">
@@ -981,11 +983,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName; жаңарту үшін қайта іске қосу">
 
 <!ENTITY newTabControlled.message "Жаңа бетті ашқан кезде көретін бетті кеңейту өзгерткен. Бұл өзгерісті қаламасаңыз, өз баптауларыңызды қалпына келтіре аласыз.">
+
 <!ENTITY newTabControlled.header.message "Сіздің жаңа бетіңіз өзгертілген.">
 <!ENTITY newTabControlled.keepButton.label "Өзгерістерді сақтау">
 <!ENTITY newTabControlled.keepButton.accesskey "с">
 <!ENTITY newTabControlled.restoreButton.label "Баптауларды қалпына келтіру">
 <!ENTITY newTabControlled.restoreButton.accesskey "р">
+
+<!ENTITY newTabControlled.disableButton.label "Кеңейтуді сөндіру">
+<!ENTITY newTabControlled.disableButton.accesskey "д">
 
 <!ENTITY pageActionButton.tooltip "Бет әрекеттері">
 <!ENTITY pageAction.addToUrlbar.label "Адрес жолағына қосу">
