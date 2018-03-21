@@ -343,6 +343,13 @@
 <!ENTITY attachPage.label "Připojit webovou stránku…">
 <!ENTITY attachPage.accesskey "w">
 
+<!-- Attachment Pane Header Bar Context Menu -->
+<!-- LOCALIZATION NOTE (initiallyShowAttachmentPane.label):
+     Should use the same wording as startExpandedCmd.label
+     in msgHdrViewOverlay.dtd. -->
+<!ENTITY initiallyShowAttachmentPane.label "Zobrazovat panel příloh">
+<!ENTITY initiallyShowAttachmentPane.accesskey "Z">
+
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Přidat slovník…">
 <!ENTITY spellAddDictionaries.accesskey "P">
