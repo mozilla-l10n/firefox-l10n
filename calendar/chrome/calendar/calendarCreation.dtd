@@ -40,5 +40,11 @@
 
 <!ENTITY calendartype.label "Күнтізбе түрі:">
 <!ENTITY location.label "Орналасуы:">
+<!ENTITY location.placeholder "Күнтізбе серверінің URL немесе хост аты">
 
+<!ENTITY network.nocredentials.label "Бұл орналасу тіркелу мәлеметтерін сұрамайды">
+<!ENTITY network.loading.description "Күнтізбелеріңіз өңделгенше күте тұрыңыз.">
+<!ENTITY network.notfound.description "Бұл орналасудан күнтізбелер табылмады. Баптауларды тексеріңіз.">
+<!ENTITY network.authfail.description "Сіз енгізген тіркелу мәліметтері қабылданбады. Баптауларды тексеріңіз.">
 
+<!ENTITY network.subscribe.single.description "Жазылғыңыз келетін күнтізбелерді таңдаңыз.">
