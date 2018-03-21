@@ -113,9 +113,6 @@ startup-prev-session =
 disable-extension =
     .label = Disattiva estensione
 home-page-header = Pagina iniziale
-restore-default =
-    .label = Ripristina la pagina predefinita
-    .accesskey = f
 tabs-group-header = Schede
 ctrl-tab-recently-used-order =
     .label = Scorri le schede con Ctrl+Tab ordinandole in base all’utilizzo più recente
@@ -326,6 +323,9 @@ use-current-pages =
 choose-bookmark =
     .label = Usa un segnalibro…
     .accesskey = b
+restore-default =
+    .label = Ripristina la pagina predefinita
+    .accesskey = f
 
 ## Search Section
 
@@ -370,3 +370,14 @@ search-keyword-warning-title = Parola chiave duplicata
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = La parola chiave scelta è già utilizzata da “{ $name }”. Selezionarne una diversa.
 search-keyword-warning-bookmark = La parola chiave scelta è già utilizzata da un segnalibro. Selezionarne una diversa.
+
+## Containers Section
+
+containers-back-link = « Torna indietro
+containers-add-button =
+    .label = Aggiungi nuovo contenitore
+    .accesskey = A
+containers-preferences-button =
+    .label = Preferenze
+containers-remove-button =
+    .label = Elimina
