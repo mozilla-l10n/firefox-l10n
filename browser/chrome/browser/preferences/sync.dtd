@@ -69,11 +69,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY verifiedManage.accesskey     "o">
 <!ENTITY disconnect3.label            "అనుసంధానం తెంచు…">
 <!ENTITY disconnect3.accesskey        "D">
-<!ENTITY verify.label                "ఈమెయిలు నిర్థారించు">
-<!ENTITY verify.accesskey            "V">
-<!ENTITY forget.label                "ఈ ఈమెయిలును మర్చిపో">
-<!ENTITY forget.accesskey            "F">
-
 <!ENTITY resendVerification.accesskey "d">
 <!ENTITY cancelSetup.label            "అమర్పు రద్దుచేయి">
 <!ENTITY cancelSetup.accesskey        "p">
@@ -104,4 +99,5 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY mobilePromo3.end              " లో దించుకోండి.">
 
+<!ENTITY mobilepromo.singledevice      "మరొక పరికరాన్ని అనుసంధానించండి">
 <!ENTITY mobilepromo.multidevice       "పరికరాల నిర్వహణ">
