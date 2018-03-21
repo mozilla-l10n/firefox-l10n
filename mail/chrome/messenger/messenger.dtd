@@ -474,8 +474,6 @@
 <!ENTITY devToolboxCmd.label "Caja de herramientas de desarrollador">
 <!ENTITY devToolboxCmd.accesskey "C">
 <!ENTITY devToolboxCmd.commandkey "i">
-<!ENTITY addonDebugCmd.label "Depurador del complemento">
-<!ENTITY addonDebugCmd.accesskey "D">
 <!ENTITY debugAddonsCmd.label "Depurar complementos">
 <!ENTITY debugAddonsCmd.accesskey "c">
 <!ENTITY tabsDebugCmd.label "Depurador del marco de contenido">
