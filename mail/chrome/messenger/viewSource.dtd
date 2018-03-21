@@ -34,8 +34,13 @@ If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
 
+<!ENTITY goToLineCmd.label "Siirry riville…">
+
+<!ENTITY menu_wrapLongLines.title "Rivitä pitkät rivit">
+<!ENTITY menu_highlightSyntax.label "Syntaksin korostus">
+<!ENTITY menu_textSize.label "Tekstin koko">
 
 
 
-
+<!ENTITY copyEmailCmd.label "Kopioi sähköpostiosoite">
 

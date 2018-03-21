@@ -85,6 +85,14 @@
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "Nimeä liite uudelleen…">
 <!ENTITY renameAttachmentCmd.accesskey "u">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
+     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
+     as attachments.accesskey. -->
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
+     With OS-specific access modifier, this defines the shortcut key for showing/
+     hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
+     toggleAttachmentPaneCmd.key and attachments.accesskey must be the same
+     for the bucket view state machinery to work. -->
 <!ENTITY selectAllCmd.label "Valitse kaikki">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "V">
@@ -102,6 +110,17 @@
 <!ENTITY findPrevCmd.accesskey "d">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
+
+<!-- Reorder Attachment Panel -->
+
+<!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
+     Please ensure that this translation matches
+     sortAttachmentsPanelBtn.Sort.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.Sort.AZ.label "Lajittele: A - Ö">
+<!ENTITY sortAttachmentsPanelBtn.Sort.ZA.label "Lajittele: Ö - A">
+<!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.SortSelection.AZ.label):
+     Please ensure that this translation matches
+     sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Näytä">
@@ -215,7 +234,6 @@
 <!ENTITY addressButton.tooltip "Valitse vastaanottaja osoitekirjasta">
 <!ENTITY attachButton.tooltip "Lisää liitetiedosto tähän viestiin">
 <!ENTITY spellingButton.tooltip "Oikolue valinta tai koko viesti">
-<!ENTITY statusLanguageText.tooltip "Oikolukukieli">
 <!ENTITY saveButton.tooltip "Tallenna tämä viesti">
 <!ENTITY cutButton.tooltip              "Leikkaa">
 <!ENTITY copyButton.tooltip             "Kopioi">
@@ -236,9 +254,12 @@
 <!ENTITY followupAddr.label "Vastausryhmä:">
 <!ENTITY subject.label "Aihe:">
 <!ENTITY subject.accesskey "A">
-<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
-     to the strings in attachmentCount in composeMsgs.properties -->
+<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
+     be taken from the strings in attachmentCount in composeMsgs.properties,
+     and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
+     work, as the shortcut key functionality supersedes the access key. -->
 <!ENTITY attachments.accesskey "e">
+
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Lisää hymiö">
@@ -276,6 +297,7 @@
 <!ENTITY pasteQuote.label "Liitä lainauksena">
 <!ENTITY pasteQuote.accesskey "t">
 
+<!-- Attachment Item and List Context Menus -->
 <!ENTITY openAttachment.label "Avaa">
 <!ENTITY openAttachment.accesskey "A">
 <!ENTITY delete.label "Poista">
@@ -299,6 +321,11 @@
 <!ENTITY attachPage.label "Liitä verkkosivu">
 <!ENTITY attachPage.accesskey "t">
 
+<!-- Attachment Pane Header Bar Context Menu -->
+<!-- LOCALIZATION NOTE (initiallyShowAttachmentPane.label):
+     Should use the same wording as startExpandedCmd.label
+     in msgHdrViewOverlay.dtd. -->
+
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Hae sanastoja…">
 <!ENTITY spellAddDictionaries.accesskey "H">
@@ -309,3 +336,5 @@
 <!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Muokkaa lähettäjän osoitetta…">
 <!ENTITY customizeFromAddress.accesskey "u">
+
+<!-- Status Bar -->

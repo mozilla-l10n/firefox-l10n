@@ -54,6 +54,9 @@
 <!ENTITY directoriesNone.label                 "Ei mitään">
 <!ENTITY editDirectories.label                 "Muokkaa hakemistoja…">
 <!ENTITY editDirectories.accesskey             "M">
+<!ENTITY showAsDefault.label                   "Oletuskansio osoitekirjan ikkunassa:">
+<!ENTITY showAsDefault.accesskey               "k">
+<!ENTITY showAsDefaultLast.label               "Viimeksi käytetty kansio">
 
 <!ENTITY sendOptionsDescription.label          "Muokkaa viestimuodon lähetysasetuksia:">
 <!ENTITY sendOptions.label                     "Lähetysasetukset…">

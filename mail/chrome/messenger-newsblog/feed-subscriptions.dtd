@@ -11,12 +11,14 @@
 
 <!ENTITY feedLocation.label          "Syötteen osoite:">
 <!ENTITY feedLocation.accesskey      "S">
-<!ENTITY feedLocation.placeholder    "Kirjoita kelvollinen syötteen osoite">
+<!ENTITY feedLocation2.placeholder   "Syötä kelvollinen syötteen osoite">
 <!ENTITY locationValidate.label      "Varmista">
 <!ENTITY validateText.label          "Varmista syöte ja hae kelvollinen osoite.">
 
 <!ENTITY feedFolder.label            "Säilytä artikkeleita:">
 <!ENTITY feedFolder.accesskey        "a">
+
+<!-- Account Settings and Subscription Dialog -->
 
 <!ENTITY quickMode.label             "Älä lataa artikkelin verkkosivua vaan näytä artikkelin yhteenveto">
 <!ENTITY quickMode.accesskey         "v">
@@ -27,6 +29,7 @@
 <!ENTITY autotagUsePrefix.accesskey  "e">
 <!ENTITY autoTagPrefix.placeholder   "Kirjoita tunnisteen etuliite">
 
+<!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Lisää">
 <!ENTITY button.addFeed.accesskey    "L">
 <!ENTITY button.removeFeed.label     "Poista">
