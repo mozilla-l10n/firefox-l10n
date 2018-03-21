@@ -2,37 +2,37 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY itemFormatting.label              "Muotoilu">
-<!ENTITY itemTags.label                    "Tunnukset">
+<!ENTITY itemFormatting.label             "Muotoilu">
+<!ENTITY itemTags.label                   "Tunnukset">
 <!ENTITY itemAdvanced.label               "Lisäasetukset">
 
-<!ENTITY style.label                       "Tyyli:">
-<!ENTITY style.accesskey                   "T">
-<!ENTITY regularStyle.label                "Normaali">
-<!ENTITY bold.label                        "Lihavoitu">
-<!ENTITY italic.label                      "Kursivoitu">
-<!ENTITY boldItalic.label                  "Lihavoitu kursiivi">
-<!ENTITY size.label                        "Koko:">
-<!ENTITY size.accesskey                    "o">
-<!ENTITY regularSize.label                 "Normaali">
-<!ENTITY bigger.label                      "Suurempi">
-<!ENTITY smaller.label                     "Pienempi">
+<!ENTITY style.label                      "Tyyli:">
+<!ENTITY style.accesskey                  "T">
+<!ENTITY regularStyle.label               "Normaali">
+<!ENTITY bold.label                       "Lihavoitu">
+<!ENTITY italic.label                     "Kursivoitu">
+<!ENTITY boldItalic.label                 "Lihavoitu kursiivi">
+<!ENTITY size.label                       "Koko:">
+<!ENTITY size.accesskey                   "o">
+<!ENTITY regularSize.label                "Normaali">
+<!ENTITY bigger.label                     "Suurempi">
+<!ENTITY smaller.label                    "Pienempi">
 <!ENTITY quotedTextColor.label            "Väri:">
 <!ENTITY quotedTextColor.accesskey        "V">
-<!ENTITY displayWidth.label                "Pelkkä teksti -viestit">
-<!ENTITY displayText.label	           "Kirjasinlaji lainattaessa pelkkä teksti -viestejä:">
+<!ENTITY displayWidth.label               "Pelkkä teksti -viestit">
+<!ENTITY displayText.label                "Kirjasinlaji lainattaessa pelkkä teksti -viestejä:">
 
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label        "Näytä hymiöt kuvina">
 <!ENTITY convertEmoticons.accesskey    "N">
 
 <!-- labels -->
-<!ENTITY displayTagsText.label    "Voit luokitella ja merkitä tärkeitä viestejä tunnuksilla.">
-<!ENTITY addTagButton.label       "Lisää">
-<!ENTITY addTagButton.accesskey   "L">
-<!ENTITY editTagButton.label      "Muokkaa">
-<!ENTITY editTagButton.accesskey   "M">
-<!ENTITY removeTagButton.label    "Poista">
+<!ENTITY displayTagsText.label     "Voit luokitella ja merkitä tärkeitä viestejä tunnuksilla.">
+<!ENTITY newTagButton.label        "Uusi…">
+<!ENTITY newTagButton.accesskey    "U">
+<!ENTITY editTagButton1.label      "Muokkaa…">
+<!ENTITY editTagButton1.accesskey  "M">
+<!ENTITY removeTagButton.label     "Poista">
 <!ENTITY removeTagButton.accesskey "P">
 
 <!-- Fonts and Colors -->

@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  generalTab.label            "Yleiset">
+
 <!ENTITY  startupAction.label         "Kun &brandShortName; käynnistyy:">
 <!ENTITY  startupAction.accesskey     "T">
 <!ENTITY  startupOffline.label        "Älä yhdistä pikaviestitilejäni">
@@ -40,3 +42,6 @@ sentence. -->
 <!ENTITY  browse.label                        "Selaa…">
 <!ENTITY  browse.accesskey                    "S">
 
+<!ENTITY messageStyleTheme.label           "Teema:">
+<!ENTITY messageStyleTheme.accesskey       "T">
+<!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">

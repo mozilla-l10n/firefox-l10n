@@ -17,6 +17,8 @@
 <!ENTITY newMessagesArrive.label          "Uuden viestin saapuessa:">
 <!ENTITY playSound.label                  "Soita äänimerkki">
 <!ENTITY playSound1.accesskey             "o">
+<!ENTITY playSoundMac.label               "Toista seuraava äänitiedosto:">
+<!ENTITY playSoundMac.accesskey           "ä">
 <!ENTITY showAnimatedAlert.label          "Näytä hälytys">
 <!ENTITY showAnimatedAlert.accesskey      "ä">
 <!ENTITY customizeMailAlert.label         "Muokkaa…">

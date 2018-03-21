@@ -2,16 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  typeColumn.label        "Sisältötyyppi">
-<!ENTITY  typeColumn.accesskey    "S">
+<!ENTITY  typeColumn.label            "Sisältötyyppi">
+<!ENTITY  typeColumn.accesskey        "S">
 
-<!ENTITY  actionColumn2.label     "Toiminto">
-<!ENTITY  actionColumn2.accesskey "o">
+<!ENTITY  actionColumn2.label         "Toiminto">
+<!ENTITY  actionColumn2.accesskey     "o">
 
-<!ENTITY  focusSearch1.key        "f">
-<!ENTITY  focusSearch2.key        "k">
+<!ENTITY  focusSearch1.key            "f">
+<!ENTITY  focusSearch2.key            "k">
 
-<!ENTITY  filter.placeholder        "Etsi">
+<!ENTITY  filter.placeholder          "Etsi">
 
 <!ENTITY saveTo.label                 "Tallenna kansioon">
 <!ENTITY saveTo.accesskey             "T">
@@ -25,8 +25,8 @@
 <!ENTITY attachments.incoming.label   "Saapuvat">
 <!ENTITY attachments.outgoing.label   "Lähtevät">
 
-<!ENTITY addCloudFileAccount.label        "Lisää">
-<!ENTITY addCloudFileAccount.accesskey    "L">
+<!ENTITY addCloudFileAccount1.label       "Lisää…">
+<!ENTITY addCloudFileAccount1.accesskey   "L">
 <!ENTITY addCloudFileAccount.description  "Lisää uusi tiedostoja linkittävä tallennuspalvelu">
 <!ENTITY removeCloudFileAccount.label     "Poista">
 <!ENTITY removeCloudFileAccount.accesskey "P">
