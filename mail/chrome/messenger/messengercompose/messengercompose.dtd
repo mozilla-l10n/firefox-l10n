@@ -88,6 +88,15 @@
 <!ENTITY reorderAttachmentsCmd.label "Пересортувати вкладення…">
 <!ENTITY reorderAttachmentsCmd.accesskey "е">
 <!ENTITY reorderAttachmentsCmd.key "x">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
+     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
+     as attachments.accesskey. -->
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
+     With OS-specific access modifier, this defines the shortcut key for showing/
+     hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
+     toggleAttachmentPaneCmd.key and attachments.accesskey must be the same
+     for the bucket view state machinery to work. -->
+<!ENTITY toggleAttachmentPaneCmd.key "m">
 <!ENTITY selectAllCmd.label "Виділити все">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "с">
@@ -109,26 +118,10 @@
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Пересортувати вкладення">
 <!ENTITY moveAttachmentTopPanelBtn.label "Перемістити вгору">
-<!ENTITY moveAttachmentTopPanelBtn.accesskey "м">
 <!ENTITY moveAttachmentUpPanelBtn.label "Вгору">
-<!ENTITY moveAttachmentUpPanelBtn.accesskey "г">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Перемістити разом">
-<!ENTITY moveAttachmentBundleUpPanelBtn.accesskey "з">
 <!ENTITY moveAttachmentDownPanelBtn.label "Вниз">
-<!ENTITY moveAttachmentDownPanelBtn.accesskey "н">
 <!ENTITY moveAttachmentBottomPanelBtn.label "Перемістити донизу">
-<!ENTITY moveAttachmentBottomPanelBtn.accesskey "н">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.label):
-     Please ensure that this translation matches
-     sortAttachmentsTogglePanelBtn.ZA.label, except for the sort direction. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.label "Порядок сортування: А - Я">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.accesskey):
-     This accesskey should be the same like
-     sortAttachmentsTogglePanelBtn.ZA.accesskey, and it should be taken from
-     the "Sort Selection:" part of the label, not from the sort direction part. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.accesskey "П">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.label "Порядок сортування: Я - А">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.accesskey "я">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -274,9 +267,12 @@
 <!ENTITY followupAddr.label "Продовжити в:">
 <!ENTITY subject.label "Тема:">
 <!ENTITY subject.accesskey "Т">
-<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
-     to the strings in attachmentCount in composeMsgs.properties -->
+<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
+     be taken from the strings in attachmentCount in composeMsgs.properties,
+     and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
+     work, as the shortcut key functionality supersedes the access key. -->
 <!ENTITY attachments.accesskey "В">
+
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Вставити смайлик">
@@ -314,6 +310,7 @@
 <!ENTITY pasteQuote.label "Вставити як цитату">
 <!ENTITY pasteQuote.accesskey "я">
 
+<!-- Attachment Item and List Context Menus -->
 <!ENTITY openAttachment.label "Відкрити">
 <!ENTITY openAttachment.accesskey "В">
 <!ENTITY delete.label "Вилучити">
@@ -338,6 +335,11 @@
 <!ENTITY convertRegularAttachment.accesskey "в">
 <!ENTITY attachPage.label "Вкласти веб-сторінку…">
 <!ENTITY attachPage.accesskey "е">
+
+<!-- Attachment Pane Header Bar Context Menu -->
+<!-- LOCALIZATION NOTE (initiallyShowAttachmentPane.label):
+     Should use the same wording as startExpandedCmd.label
+     in msgHdrViewOverlay.dtd. -->
 
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Додати словники…">
