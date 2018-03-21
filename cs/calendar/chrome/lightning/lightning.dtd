@@ -47,6 +47,8 @@
      lightning.calendarproperties.forceEmailScheduling.tooltiptext2)
      - tooltiptext1 is used in the calendar wizard when setting a new caldav calendar
      - tooltiptext2 is used in the calendar properties dialog for caldav calendars -->
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext1     "Toto můžete povolit jen po nastavení vlastností kalendáře a pokud kalendářový server podporuje plánování.">
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext2     "Tato volba je dostupná pouze pokud kalendářový server podporuje plánování. Povolení této volby umožní použít standardní plánování e-mailů místo serveru.">
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Přijmout">
@@ -81,7 +83,12 @@
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Aktualizuje událost v kalendáři">
 <!ENTITY lightning.imipbar.description                                      "Tato zpráva obsahuje pozvání na událost.">
 
+<!ENTITY lightning.imipbar.btnSend.label                                    "Poslat odpověď">
+<!ENTITY lightning.imipbar.btnSend.tooltiptext                              "Pošle odpověď organizátorovi">
+<!ENTITY lightning.imipbar.btnSendSeries.tooltiptext                        "Poslat organizátorovi odpověď na celou sérii">
 <!ENTITY lightning.imipbar.btnDontSend.label                                "Neposílat odpověď">
+<!ENTITY lightning.imipbar.btnDontSend.tooltiptext                          "Změní stav vaší účasti bez odeslání odpovědi organizátorovi">
+<!ENTITY lightning.imipbar.btnDontSendSeries.tooltiptext                    "Změní stav vaší účasti pro celou sérii bez odeslání odpovědi organizátorovi">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">

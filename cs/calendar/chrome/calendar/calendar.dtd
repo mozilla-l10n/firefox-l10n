@@ -182,22 +182,38 @@
 
 <!ENTITY calendar.context.attendance.all2.label                 "Celá série">
 <!ENTITY calendar.context.attendance.send.label                 "Poslat oznámení">
+<!ENTITY calendar.context.attendance.send.accesskey             "s">
 <!ENTITY calendar.context.attendance.dontsend.label             "Neposílat oznámení">
+<!ENTITY calendar.context.attendance.dontsend.accesskey         "N">
 
+<!ENTITY calendar.context.attendance.occ.accepted.accesskey     "a">
 <!ENTITY calendar.context.attendance.occ.accepted.label         "Přijato">
+<!ENTITY calendar.context.attendance.occ.tentative.accesskey    "i">
 <!ENTITY calendar.context.attendance.occ.tentative.label        "Předběžně přijato">
+<!ENTITY calendar.context.attendance.occ.declined.accesskey     "O">
 <!ENTITY calendar.context.attendance.occ.declined.label         "Odmítnuto">
+<!ENTITY calendar.context.attendance.occ.delegated.accesskey    "v">
 <!ENTITY calendar.context.attendance.occ.delegated.label        "Předáno">
+<!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "S">
 <!ENTITY calendar.context.attendance.occ.needsaction.label      "Stále vyžaduje akci">
+<!ENTITY calendar.context.attendance.occ.inprogress.accesskey   "h">
 <!ENTITY calendar.context.attendance.occ.inprogress.label       "Probíhá">
+<!ENTITY calendar.context.attendance.occ.completed.accesskey    "k">
 <!ENTITY calendar.context.attendance.occ.completed.label        "Dokončeno">
 
+<!ENTITY calendar.context.attendance.all.accepted.accesskey     "j">
 <!ENTITY calendar.context.attendance.all.accepted.label         "Přijato">
+<!ENTITY calendar.context.attendance.all.tentative.accesskey    "t">
 <!ENTITY calendar.context.attendance.all.tentative.label        "Předběžně přijato">
+<!ENTITY calendar.context.attendance.all.declined.accesskey     "d">
 <!ENTITY calendar.context.attendance.all.declined.label         "Odmítnuto">
+<!ENTITY calendar.context.attendance.all.delegated.accesskey    "e">
 <!ENTITY calendar.context.attendance.all.delegated.label        "Předáno">
+<!ENTITY calendar.context.attendance.all.needsaction.accesskey  "l">
 <!ENTITY calendar.context.attendance.all.needsaction.label      "Stále vyžaduje akci">
+<!ENTITY calendar.context.attendance.all.inprogress.accesskey   "P">
 <!ENTITY calendar.context.attendance.all.inprogress.label       "Probíhá">
+<!ENTITY calendar.context.attendance.all.completed.accesskey    "n">
 <!ENTITY calendar.context.attendance.all.completed.label        "Dokončeno">
 
 <!-- Task Context Menu -->

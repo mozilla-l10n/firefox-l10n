@@ -430,3 +430,4 @@
 <!ENTITY summary.dialog.dontsend.label          "Neposílat odpověď">
 <!ENTITY summary.dialog.dontsend.tooltiptext    "Změní stav vaší účasti a zavře okno bez odeslání odpovědi organizátorovi">
 <!ENTITY summary.dialog.send.label              "Poslat odpověď">
+<!ENTITY summary.dialog.send.tooltiptext        "Pošle odpověď organizátorovi a zavře okno">
