@@ -343,6 +343,13 @@
 <!ENTITY attachPage.label "附加網頁…">
 <!ENTITY attachPage.accesskey "W">
 
+<!-- Attachment Pane Header Bar Context Menu -->
+<!-- LOCALIZATION NOTE (initiallyShowAttachmentPane.label):
+     Should use the same wording as startExpandedCmd.label
+     in msgHdrViewOverlay.dtd. -->
+<!ENTITY initiallyShowAttachmentPane.label "啟動時顯示附件窗格">
+<!ENTITY initiallyShowAttachmentPane.accesskey "S">
+
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "新增字典…">
 <!ENTITY spellAddDictionaries.accesskey "A">
