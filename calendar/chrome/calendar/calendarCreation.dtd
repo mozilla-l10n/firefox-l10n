@@ -20,3 +20,27 @@
 
 <!ENTITY finishpage.shortdescription  "Kalendari u Krijua" >
 <!ENTITY finishpage.longdescription   "Kalendari juaj u krijua." >
+
+<!-- Below are new strings for the revised new calendar dialog. The above strings should be
+    removed/renamed later on -->
+
+<!ENTITY sourcetabs.other.label  "Tjetër">
+
+<!ENTITY buttons.create.label "Krijoje Kalendarin">
+<!ENTITY buttons.create.accesskey "K">
+
+<!ENTITY buttons.find.label "Gjej Kalendarë">
+<!ENTITY buttons.find.accesskey "G">
+
+<!ENTITY buttons.back.label "Mbrapsht">
+<!ENTITY buttons.back.accesskey "M">
+
+<!ENTITY buttons.subscribe.label "Pajtohuni">
+<!ENTITY buttons.subscribe.accesskey "P">
+
+<!ENTITY calendartype.label "Lloj Kalendari:">
+<!ENTITY location.label "Vendndodhje:">
+<!ENTITY location.placeholder "URL ose emër strehe e shërbyesit të kalendarit">
+
+<!ENTITY network.nocredentials.label "Kjo vendndodhje nuk lyp kredenciale">
+
