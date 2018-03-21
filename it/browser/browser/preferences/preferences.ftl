@@ -374,6 +374,7 @@ search-keyword-warning-bookmark = La parola chiave scelta è già utilizzata da 
 ## Containers Section
 
 containers-back-link = « Torna indietro
+containers-header = Schede contenitore
 containers-add-button =
     .label = Aggiungi nuovo contenitore
     .accesskey = A
