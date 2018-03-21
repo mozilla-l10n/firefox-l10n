@@ -78,3 +78,6 @@
 <!ENTITY mobilePromo3.iOSBefore " lub ">
 <!ENTITY mobilePromo3.iOSLink "iOSa">
 <!ENTITY mobilePromo3.end ", aby synchronizować ze swoim urządzeniem przenośnym.">
+
+<!ENTITY mobilepromo.singledevice "Połącz inne urządzenie">
+<!ENTITY mobilepromo.multidevice "Zarządzaj urządzeniami">
