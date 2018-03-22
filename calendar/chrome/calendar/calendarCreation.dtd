@@ -20,3 +20,32 @@
 
 <!ENTITY finishpage.shortdescription  "Crëwyd y Calendr" >
 <!ENTITY finishpage.longdescription   "Mae eich calendr wedi'i greu." >
+
+<!-- Below are new strings for the revised new calendar dialog. The above strings should be
+    removed/renamed later on -->
+
+<!ENTITY sourcetabs.other.label  "Arall">
+
+<!ENTITY buttons.create.label "Creu Calendr">
+<!ENTITY buttons.create.accesskey "r">
+
+<!ENTITY buttons.find.label "Canfod Calendrau">
+<!ENTITY buttons.find.accesskey "f">
+
+<!ENTITY buttons.back.label "Nôl">
+<!ENTITY buttons.back.accesskey "N">
+
+<!ENTITY buttons.subscribe.label "Tanysgrifio">
+<!ENTITY buttons.subscribe.accesskey "T">
+
+<!ENTITY calendartype.label "Math o Galendr:">
+<!ENTITY location.label "Lleoliad:">
+<!ENTITY location.placeholder "URL neu enw gwesteiwr gweinydd y calendr">
+
+<!ENTITY network.nocredentials.label "Nid yw'r lleoliad hwn angen dilysiad">
+<!ENTITY network.loading.description "Arhoswch tra bod eich calendrau yn cael eu darganfod.">
+<!ENTITY network.notfound.description "Heb ganfod calendrau yn y lleoliad hwn. Gwiriwch eich gosodiadau.">
+<!ENTITY network.authfail.description "Nid yw'r manylion rydych wedi eu cynnig wedi eu derbyn. Gwiriwch eich gosodiadau.">
+
+<!ENTITY network.subscribe.single.description "Dewiswch y calendrau'r hoffech danysgrifio iddynt.">
+<!ENTITY network.subscribe.multiple.description "Mae mathau calendr lluosog ar gael; ar gyfer y lleoliad hwn. Dewiswch y math o galendr, yna mario'r calendrau yr hoffech chi danysgrifio iddyn nhw.">
