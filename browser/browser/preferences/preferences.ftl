@@ -353,6 +353,7 @@ search-keyword-warning-bookmark = आपने एक बीजशब्द च�
 
 ## Containers Section
 
+containers-back-link = « वापस जाओ
 containers-header = पात्र टैब
 containers-add-button =
     .label = नया पात्र जोड़े

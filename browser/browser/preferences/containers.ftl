@@ -22,8 +22,17 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+containers-name-label = नाम
+    .accesskey = N
+    .style = { -containers-labels-style }
 containers-name-text =
     .placeholder = एक पात्र का नाम प्रविष्ट करें
+containers-icon-label = प्रती‌क
+    .accesskey = I
+    .style = { -containers-labels-style }
+containers-color-label = रंग
+    .accesskey = o
+    .style = { -containers-labels-style }
 containers-button-done =
     .label = कर दिया है
     .accesskey = D
