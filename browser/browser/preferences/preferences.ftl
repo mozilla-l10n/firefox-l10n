@@ -75,23 +75,6 @@ startup-blank-page =
 startup-prev-session =
     .label = Bonisa iifestile neethebhu zakho ukususela ukugqibela kwam
 home-page-header = Bonisa iphepha lakho lokuqala
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Sebenzisa iPhepha laNgoku
-           *[other] Sebenzisa amaPhepha aNgoku
-        }
-    .accesskey = S
-choose-bookmark =
-    .label = Sebenzisa iBhukhmakhi…
-    .accesskey = B
-restore-default =
-    .label = Buyisela kwiZiseko
-    .accesskey = B
 tabs-group-header = Izilungelelanisi zemigca
 ctrl-tab-recently-used-order =
     .label = Imijikelo yeCtrl+Tab kwiithebhu kulungelelwano olusandul' ukusetyenziswa
@@ -249,6 +232,29 @@ network-proxy-connection-settings =
     .label = Isetingi…
     .accesskey = e
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Sebenzisa iPhepha laNgoku
+           *[other] Sebenzisa amaPhepha aNgoku
+        }
+    .accesskey = S
+choose-bookmark =
+    .label = Sebenzisa iBhukhmakhi…
+    .accesskey = B
+restore-default =
+    .label = Buyisela kwiZiseko
+    .accesskey = B
+
 ## Search Section
 
 search-engine-default-header = Injini yesiseko yokukhangela
@@ -274,3 +280,10 @@ search-keyword-warning-title = Phindaphinda igama eliphambili
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Ukhethe igama eliphambili elisetyenziswa kungokunje yi"{ $name }". Nceda ukhethe elinye.
 search-keyword-warning-bookmark = Ukhethe igama eliphambili elisetyenziswa kungokunje yibhukhmakhi. Nceda ukhethe elinye.
+
+## Containers Section
+
+containers-header = Iithebhu Zekhonteyina
+containers-add-button =
+    .label = Yongeza iKhonteyina eNtsha
+    .accesskey = Y
