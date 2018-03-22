@@ -36,6 +36,16 @@ containers-color-label = Tüs
 containers-button-done =
     .label = Tamam
     .accesskey = T
+containers-remove-alert-title = Bu Konteyner Çetleştirilsinmi?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Bu konteynerni şimdi çetleştirseñiz, { $count } konteyner ilmegi qapatılacaqtır. Bu konteynerni çetleştirmege istegeniñizden eminsiñizmi?
+       *[other] Bu konteynerni şimdi çetleştirseñiz, { $count } konteyner ilmegi qapatılacaqtır. Bu konteynerni çetleştirmege istegeniñizden eminsiñizmi?
+    }
+containers-remove-ok-button = Bu Konteynerni Çetleştir
+containers-remove-cancel-button = Bu Konteynerni Çetleştirme
 containers-color-blue =
     .label = Kök
 containers-color-turquoise =
