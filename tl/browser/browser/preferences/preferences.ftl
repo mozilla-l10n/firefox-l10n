@@ -109,23 +109,6 @@ startup-prev-session =
 disable-extension =
     .label = Huwag Paganahin and Extensyon
 home-page-header = Punong pahina
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Gamitin ang Kasalukuyang Pahina
-           *[other] Gamitin ang kasalukuyang mga pahina
-        }
-    .accesskey = G
-choose-bookmark =
-    .label = Gamitan ng Bookmark
-    .accesskey = B
-restore-default =
-    .label = Ibalik sa Default
-    .accesskey = I
 tabs-group-header = Tabs
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab cycles sa pamamagitan ng mga tab sa kamakailang ginamit order
@@ -300,6 +283,29 @@ network-proxy-connection-settings =
     .label = Settings…
     .accesskey = e
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Gamitin ang Kasalukuyang Pahina
+           *[other] Gamitin ang kasalukuyang mga pahina
+        }
+    .accesskey = G
+choose-bookmark =
+    .label = Gamitan ng Bookmark
+    .accesskey = B
+restore-default =
+    .label = Ibalik sa Default
+    .accesskey = I
+
 ## Search Section
 
 search-bar-header = Search Bar
@@ -336,3 +342,14 @@ search-keyword-warning-title = Nadobleng Keyword
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Ginagamit ng “{ $name }” ang pinili mong keyword. Pumili nalang ng iba.
 search-keyword-warning-bookmark = Ginagamit ng isang bookmark ang keyword na pinili ninyo. Pumili ng iba.
+
+## Containers Section
+
+containers-back-link = « Bumalik Ka
+containers-add-button =
+    .label = Dagdagan ng Bagong Contianer
+    .accesskey = A
+containers-preferences-button =
+    .label = Mga kagustuhan
+containers-remove-button =
+    .label = Alisin
