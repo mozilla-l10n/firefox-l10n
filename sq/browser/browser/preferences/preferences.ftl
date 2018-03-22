@@ -110,23 +110,6 @@ startup-prev-session =
 disable-extension =
     .label = Çaktivizoje Zgjerimin
 home-page-header = Faqe Hyrëse
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Përdor Faqen e Tanishme
-           *[other] Përdor Faqet e Tanishme
-        }
-    .accesskey = T
-choose-bookmark =
-    .label = Përdorni Faqerojtës…
-    .accesskey = F
-restore-default =
-    .label = Riktheje te Parazgjedhja
-    .accesskey = P
 tabs-group-header = Skeda
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab ju kalon nëpër skedat sipas radhës së përdorimit së fundi
@@ -301,6 +284,29 @@ network-proxy-connection-settings =
     .label = Rregullime…
     .accesskey = R
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Përdor Faqen e Tanishme
+           *[other] Përdor Faqet e Tanishme
+        }
+    .accesskey = T
+choose-bookmark =
+    .label = Përdorni Faqerojtës…
+    .accesskey = F
+restore-default =
+    .label = Riktheje te Parazgjedhja
+    .accesskey = P
+
 ## Search Section
 
 search-bar-header = Shtyllë Kërkimesh
@@ -344,3 +350,14 @@ search-keyword-warning-title = Fjalëkyç i Përsëdytur
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Keni zgjedhur një fjalëkyç që hëpërhë po përdoret nga "{ $name }". Ju lutemi, përzgjidhni një tjetër.
 search-keyword-warning-bookmark = Zgjodhët një fjalëkyç që hëpërhë po përdoret nga një faqerojtës. Ju lutemi, përzgjidhni një tjetër.
+
+## Containers Section
+
+containers-back-link = « Shkoni Mbrapsht
+containers-add-button =
+    .label = Shtoni Kontejner të Ri
+    .accesskey = S
+containers-preferences-button =
+    .label = Parapëlqime
+containers-remove-button =
+    .label = Hiqe
