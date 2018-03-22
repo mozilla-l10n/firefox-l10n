@@ -307,6 +307,7 @@ search-keyword-warning-bookmark = လောလောဆယ် မှတ်သာ
 
 ## Containers Section
 
+containers-header = ကွန်တိန်နာတပ်ဗ်များ
 containers-add-button =
     .label = ကွန်တိန်နာအသစ်ထပ်ထည့်ပါ
     .accesskey = A
