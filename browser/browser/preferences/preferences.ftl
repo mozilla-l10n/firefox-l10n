@@ -275,6 +275,7 @@ search-keyword-warning-bookmark = អ្នក​បាន​ជ្រើសរ�
 
 ## Containers Section
 
+containers-header = ផ្ទាំង​ប្រអប់​ផ្ទុក
 containers-add-button =
     .label = បន្ថែម​ប្រអប់​ផ្ទុក​ថ្មី
     .accesskey = A
