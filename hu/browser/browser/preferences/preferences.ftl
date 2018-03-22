@@ -110,23 +110,6 @@ startup-prev-session =
 disable-extension =
     .label = Kiterjesztés letiltása
 home-page-header = Kezdőlap
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Aktuális oldal használata
-           *[other] Aktuális oldalak használata
-        }
-    .accesskey = A
-choose-bookmark =
-    .label = Könyvjelző használata…
-    .accesskey = n
-restore-default =
-    .label = Alapértelmezés
-    .accesskey = p
 tabs-group-header = Lapok
 ctrl-tab-recently-used-order =
     .label = A Ctrl+Tab a legutóbbi használat sorrendjében lépked körbe a lapokon
@@ -301,6 +284,29 @@ network-proxy-connection-settings =
     .label = Beállítások…
     .accesskey = B
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Aktuális oldal használata
+           *[other] Aktuális oldalak használata
+        }
+    .accesskey = A
+choose-bookmark =
+    .label = Könyvjelző használata…
+    .accesskey = n
+restore-default =
+    .label = Alapértelmezés
+    .accesskey = p
+
 ## Search Section
 
 search-bar-header = Keresősáv
@@ -344,3 +350,15 @@ search-keyword-warning-title = Duplikált kulcsszó
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Olyan kulcsszót választott, amelyet jelenleg „{ $name }” használ. Válasszon másikat.
 search-keyword-warning-bookmark = Olyan kulcsszót választott, amelyet jelenleg egy könyvjelző használ. Válasszon másikat.
+
+## Containers Section
+
+containers-back-link = « Vissza
+containers-header = Konténer lapok
+containers-add-button =
+    .label = Új konténer hozzáadása
+    .accesskey = a
+containers-preferences-button =
+    .label = Beállítások
+containers-remove-button =
+    .label = Eltávolítás
