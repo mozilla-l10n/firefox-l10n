@@ -103,23 +103,6 @@ startup-prev-session =
 disable-extension =
     .label = Disable Extension
 home-page-header = Home Page
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Use Current Page
-           *[other] Use Current Pages
-        }
-    .accesskey = C
-choose-bookmark =
-    .label = Use Bookmark…
-    .accesskey = B
-restore-default =
-    .label = Restore to Default
-    .accesskey = R
 tabs-group-header = Tabs
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab cycles through tabs in recently used order
@@ -290,6 +273,29 @@ network-proxy-connection-settings =
     .label = Settings…
     .accesskey = S
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Use Current Page
+           *[other] Use Current Pages
+        }
+    .accesskey = C
+choose-bookmark =
+    .label = Use Bookmark…
+    .accesskey = B
+restore-default =
+    .label = Restore to Default
+    .accesskey = R
+
 ## Search Section
 
 search-bar-header = Search Bar
@@ -333,3 +339,14 @@ search-keyword-warning-title = Duplicate Keyword
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = You have chosen a keyword that is currently in use by "{ $name }". Please select another.
 search-keyword-warning-bookmark = You have chosen a keyword that is currently in use by a bookmark. Please select another.
+
+## Containers Section
+
+containers-back-link = « Go Backwards
+containers-add-button =
+    .label = Add New Container
+    .accesskey = A
+containers-preferences-button =
+    .label = Preferences
+containers-remove-button =
+    .label = Remove
