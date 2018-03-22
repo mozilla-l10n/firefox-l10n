@@ -356,5 +356,11 @@ search-keyword-warning-bookmark = Вы выбрали краткое имя, к�
 ## Containers Section
 
 containers-back-link = « Вернуться назад
+containers-header = Вкладки в контейнере
+containers-add-button =
+    .label = Добавить новый контейнер
+    .accesskey = а
 containers-preferences-button =
     .label = Настройки
+containers-remove-button =
+    .label = Удалить
