@@ -354,6 +354,7 @@ search-keyword-warning-bookmark = Sa valisid võtmesõna, mis on kasutusel järj
 ## Containers Section
 
 containers-back-link = « Tagasi
+containers-header = Konteinerkaardid
 containers-add-button =
     .label = Lisa uus konteiner
     .accesskey = L
