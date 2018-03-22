@@ -354,6 +354,7 @@ search-keyword-warning-bookmark = Şu anda bir yer imi tarafından kullanılan b
 ## Containers Section
 
 containers-back-link = « Geri dön
+containers-header = Kapsayıcı sekmeler
 containers-add-button =
     .label = Yeni kapsayıcı ekle
     .accesskey = e
