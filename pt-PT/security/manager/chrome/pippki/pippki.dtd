@@ -16,11 +16,10 @@
 <!ENTITY resetPassword.text  "Se remover a palavra-passe mestra, todas as suas palavras-passe da web/e-mail, dados de formulários, certificados pessoais e chaves privadas guardadas serão perdidas. Tem a certeza de que quer repor a palavra-passe mestra?">
 
 <!-- Downloading a cert -->
-<!ENTITY downloadCert.title "A transferir certificado">
+<!ENTITY downloadCert.title "A descarregar certificado">
 <!ENTITY downloadCert.message1 "Foi-lhe pedido para confiar numa nova autoridade certificadora (CA).">
 <!ENTITY downloadCert.trustSSL "Confiar nesta entidade de certificação para identificar websites.">
 <!ENTITY downloadCert.trustEmail "Confiar nesta CA para identificar utilizadores de email.">
-<!ENTITY downloadCert.trustObjSign "Confiar nesta CA para identificar fabricantes de software.">
 <!ENTITY downloadCert.message3 "Antes de confiar nesta CA para qualquer fim, deve examinar o seu certificado, a sua política e os seus procedimentos (se disponíveis).">
 <!ENTITY downloadCert.viewCert.label "Ver">
 <!ENTITY downloadCert.viewCert.text "Examinar certificado da CA">

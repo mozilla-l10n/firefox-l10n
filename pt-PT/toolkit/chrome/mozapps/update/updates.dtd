@@ -26,11 +26,11 @@
 
 <!ENTITY  evangelism.desc                 "Recomendamos que aplique esta atualização do &brandShortName; o mais depressa possível.">
 
-<!ENTITY  downloadPage.title              "A transferir o &brandShortName;">
-<!ENTITY  downloading.intro               "A transferir atualização…">
+<!ENTITY  downloadPage.title              "A descarregar o &brandShortName;">
+<!ENTITY  downloading.intro               "A descarregar atualização…">
 <!ENTITY  connecting.label                "A ligar ao servidor de atualizações…">
 <!ENTITY  verificationFailedText.label    "O &brandShortName; não conseguiu verificar a integridade da 
-                                           atualização parcial transferida, pelo que está a transferir agora
+                                           atualização parcial descarregada, pelo que está a descarregar agora
                                            o pacote completo da atualização.">
 
 <!ENTITY  viewDetails.tooltip             "Ver detalhes desta atualização">
@@ -39,14 +39,14 @@
 
 <!ENTITY  error.title                     "Falha ao atualizar">
 
-<!ENTITY  error.label                     "Ocorreram erros ao verificar, transferir ou instalar esta 
+<!ENTITY  error.label                     "Ocorreram erros ao verificar, descarregar ou instalar esta 
                                            atualização. O &brandShortName; não pôde ser atualizado porque:">
                                            
 <!ENTITY  errorManual.label               "Pode atualizar manualmente o &brandShortName; acedendo a esta ligação
                                            e transferindo a versão mais recente da aplicação:">
                                            
 <!ENTITY  errorpatching.intro             "A atualização parcial não pôde ser aplicada. 
-                                           O &brandShortName; vai tentar transferir o pacote de atualização completo.">
+                                           O &brandShortName; vai tentar descarregar o pacote de atualização completo.">
 
 <!ENTITY  genericBackgroundError.label    "O &brandShortName; não consegue determinar se existe uma atualização disponível. Por favor verifique se tem a última versão do &brandShortName; em:">
 

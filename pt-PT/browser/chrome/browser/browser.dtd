@@ -283,10 +283,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.label           "Adicionar uma palavra-chave para esta pesquisa…">
 <!ENTITY keywordfield.accesskey       "A">
 
-<!ENTITY downloads.label              "Transferências">
+<!ENTITY downloads.label              "Descargas">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
-<!ENTITY libraryDownloads.label       "Transferências">
+<!ENTITY libraryDownloads.label       "Descargas">
 <!ENTITY downloads.accesskey          "T">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -959,20 +959,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.message "Atualize o seu &brandShorterName; para o mais recente em velocidade e privacidade">
 <!ENTITY updateAvailable.whatsnew.label "Veja as novidades.">
 <!ENTITY updateAvailable.header.message "Uma nova atualização do &brandShorterName; está disponível.">
-<!ENTITY updateAvailable.acceptButton.label "Transferir atualização">
+<!ENTITY updateAvailable.acceptButton.label "Descarregar atualização">
 <!ENTITY updateAvailable.acceptButton.accesskey "D">
 <!ENTITY updateAvailable.cancelButton.label "Agora não">
 <!ENTITY updateAvailable.cancelButton.accesskey "n">
-<!ENTITY updateAvailable.panelUI.label "Transferir atualização do &brandShorterName;">
+<!ENTITY updateAvailable.panelUI.label "Descarregar a atualização do &brandShorterName;">
 
 <!ENTITY updateManual.message "Transfira uma nova cópia do &brandShorterName; e iremos ajudar-lhe a instalá-lo.">
 <!ENTITY updateManual.whatsnew.label "Veja as novidades.">
 <!ENTITY updateManual.header.message "O &brandShorterName; não consegue atualizar para a versão mais recente.">
-<!ENTITY updateManual.acceptButton.label "Transferir o &brandShorterName;">
+<!ENTITY updateManual.acceptButton.label "Descarregar o &brandShorterName;">
 <!ENTITY updateManual.acceptButton.accesskey "D">
 <!ENTITY updateManual.cancelButton.label "Agora não">
 <!ENTITY updateManual.cancelButton.accesskey "n">
-<!ENTITY updateManual.panelUI.label "Transferir uma nova cópia do &brandShorterName;">
+<!ENTITY updateManual.panelUI.label "Descarregar uma nova cópia do &brandShorterName;">
 
 <!ENTITY updateRestart.message2 "Após um reinício rápido, o &brandShorterName; irá restaurar todos os seus separadores abertos e janelas que não estão no modo de navegação privada.">
 <!ENTITY updateRestart.header.message2 "Reiniciar para atualizar o &brandShorterName;.">
