@@ -70,7 +70,7 @@
 <!ENTITY offlineMenu.accesskey "l">
 <!ENTITY offlineGoOfflineCmd.label "Trabalhar offline">
 <!ENTITY offlineGoOfflineCmd.accesskey "T">
-<!ENTITY synchronizeOfflineCmd.label "Transferir/sincronizar agora…">
+<!ENTITY synchronizeOfflineCmd.label "Descarregar ou sincronizar agora…">
 <!ENTITY synchronizeOfflineCmd.accesskey "s">
 <!ENTITY settingsOfflineCmd2.label "Definições do modo offline">
 <!ENTITY settingsOfflineCmd2.accesskey "d">
@@ -317,7 +317,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Chat">
 <!ENTITY goChatCmd.accesskey "C">
-<!ENTITY goChatCmd.key "I">
 <!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Mensagem com estrela">
 <!ENTITY prevStarredMsgCmd.accesskey "s">
@@ -510,8 +509,6 @@
 <!ENTITY devToolboxCmd.label "Caixa de ferramentas do programador">
 <!ENTITY devToolboxCmd.accesskey "t">
 <!ENTITY devToolboxCmd.commandkey "i">
-<!ENTITY addonDebugCmd.label "Extra Depurador">
-<!ENTITY addonDebugCmd.accesskey "a">
 <!ENTITY debugAddonsCmd.label "Depurar extras">
 <!ENTITY debugAddonsCmd.accesskey "e">
 <!ENTITY tabsDebugCmd.label "Depurador de frame de conteúdo">
@@ -594,7 +591,7 @@
 <!ENTITY undeleteButton.tooltip "Recuperar mensagem selecionada">
 <!ENTITY markButton.tooltip "Marcar mensagens">
 <!ENTITY printButton.tooltip "Imprimir esta mensagem">
-<!ENTITY stopButton.tooltip "Parar transferência atual">
+<!ENTITY stopButton.tooltip "Parar descarga em curso">
 <!ENTITY junkButton.tooltip "Marcar mensagens selecionadas como lixo eletrónico">
 <!ENTITY notJunkButton.tooltip "Marcar mensagens selecionadas como não sendo lixo eletrónico">
 <!ENTITY addressBookButton.tooltip "Ir para o livro de endereços">
