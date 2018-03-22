@@ -22,9 +22,30 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: ४rem
+containers-name-label = नाम
+    .accesskey = N
+    .style = { -containers-labels-style }
+containers-name-text =
+    .placeholder = कन्टेनरको नाम प्रविस्ट गर्नुहोस्
+containers-icon-label = प्रतिमा
+    .accesskey = I
+    .style = { -containers-labels-style }
+containers-color-label = रङ
+    .accesskey = o
+    .style = { -containers-labels-style }
 containers-button-done =
     .label = सम्पन्न भयो
     .accesskey = D
+containers-remove-alert-title = यो कन्टेनर हटाउने हो ?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] यदि तपाईँ अहिले यो कन्टेनर हटाउनुहुन्छ भने, { $count } कन्टेनर ट्याब बन्द हुनेछ । के तपाईँ यो कन्टेनर हटाउन निश्चित हुनुहुन्छ ?
+       *[other] { " " }यदि तपाईँ अहिले यो कन्टेनर हटाउनुहुन्छ भने, { $count } कन्टेनर ट्याबहरू बन्द हुनेछन् । के तपाईँ यो कन्टेनर हटाउन निश्चित हुनुहुन्छ ?
+    }
+containers-remove-ok-button = यो कन्टेनर हटाउनुहोस्
+containers-remove-cancel-button = यो कन्टेनर नहटाउनुहोस्
 containers-color-blue =
     .label = नीलो
 containers-color-turquoise =

@@ -340,7 +340,12 @@ search-keyword-warning-bookmark = तपाईँले चयन गर्न�
 
 ## Containers Section
 
+containers-back-link = « फर्कनुहोस्
 containers-header = कन्टेनर ट्याबहरू
 containers-add-button =
     .label = नयाँ कन्टेनर थप्नुहोस्
     .accesskey = A
+containers-preferences-button =
+    .label = प्राथमिकताहरू
+containers-remove-button =
+    .label = हटाउनुहोस्
