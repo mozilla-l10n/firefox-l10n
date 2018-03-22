@@ -5,6 +5,23 @@
 containers-window-new =
     .title = Дадаць новы кантэйнер
     .style = width: 45em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update =
+    .title = Налады кантэйнера { $name }
+    .style = 45em
+containers-window-close =
+    .key = w
+# This is a term to store style to be applied
+# on the three labels in the containers add/edit dialog:
+#   - name
+#   - icon
+#   - color
+#
+# Using this term and referencing it in the `.style` attribute
+# of the three messages ensures that all three labels
+# will be aligned correctly.
+-containers-labels-style = min-width: 4rem
 containers-name-text =
     .placeholder = Увядзіце назву кантэйнера
 containers-button-done =
@@ -21,3 +38,31 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Выдаліць гэты кантэйнер
 containers-remove-cancel-button = Не выдаляць гэты кантэйнер
+containers-color-blue =
+    .label = Блакітны
+containers-color-turquoise =
+    .label = Бірузовы
+containers-color-green =
+    .label = Зялёны
+containers-color-yellow =
+    .label = Жоўты
+containers-color-orange =
+    .label = Аранжавы
+containers-color-red =
+    .label = Чырвоны
+containers-color-pink =
+    .label = Ружовы
+containers-color-purple =
+    .label = Фіялетавы
+containers-icon-fingerprint =
+    .label = Адбітак пальца
+containers-icon-briefcase =
+    .label = Партфель
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+containers-icon-dollar =
+    .label = Знак долара
+containers-icon-cart =
+    .label = Кошык
+containers-icon-circle =
+    .label = Кропка
