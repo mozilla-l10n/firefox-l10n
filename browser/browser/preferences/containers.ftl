@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+containers-window-new =
+    .title = Dodaj nov vsebnik
+    .style = width: 45em
 # Variables
 #   $name (String) - Name of the container
 containers-window-update =
@@ -19,9 +22,23 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+containers-name-text =
+    .placeholder = Vnesite ime vsebnika
 containers-button-done =
     .label = Končaj
     .accesskey = K
+containers-remove-alert-title = Odstranim ta vsebnik?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Če ta vsebnik odstranite zdaj, bo { $count } vsebniški zavihek zaprt. Ali ste prepričani, da želite odstraniti ta vsebnik?
+        [two] Če ta vsebnik odstranite zdaj, bosta { $count } vsebniška zavihka zaprta. Ali ste prepričani, da želite odstraniti ta vsebnik?
+        [few] Če ta vsebnik odstranite zdaj, bodo { $count } vsebniški zavihki zaprti. Ali ste prepričani, da želite odstraniti ta vsebnik?
+       *[other] Če ta vsebnik odstranite zdaj, bo { $count } vsebniških zavihkov zaprtih. Ali ste prepričani, da želite odstraniti ta vsebnik?
+    }
+containers-remove-ok-button = Odstrani ta vsebnik
+containers-remove-cancel-button = Ne odstrani tega vsebnika
 containers-color-blue =
     .label = Modro
 containers-color-turquoise =
