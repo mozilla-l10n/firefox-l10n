@@ -36,6 +36,7 @@ containers-color-label = ಬಣ್ಣ
 containers-button-done =
     .label = ಆಯಿತು
     .accesskey = D
+containers-remove-alert-title = ಈ ಕಂಟೇನರ್ ತೆಗೆದುಹಾಕುವುದೇ?
 containers-remove-ok-button = ಈ ಕಂಟೇನರ್ ತೆಗೆದುಹಾಕು
 containers-remove-cancel-button = ಈ ಕಂಟೇನರ್ ತೆಗೆದುಹಾಕಬೇಡ
 containers-color-blue =
