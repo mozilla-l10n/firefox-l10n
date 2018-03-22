@@ -22,8 +22,20 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+containers-name-label = Nazwa:
+    .accesskey = N
+    .style = { -containers-labels-style }
 containers-name-text =
     .placeholder = Nazwa kontekstu
+containers-icon-label = Ikona:
+    .accesskey = I
+    .style = { -containers-labels-style }
+containers-color-label = Kolor:
+    .accesskey = K
+    .style = { -containers-labels-style }
+containers-button-done =
+    .label = Gotowe
+    .accesskey = G
 containers-remove-alert-title = Usuwanie kontekstu
 # Variables:
 #   $count (Number) - Number of tabs that will be closed.

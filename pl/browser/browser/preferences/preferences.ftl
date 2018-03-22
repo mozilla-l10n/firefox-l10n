@@ -350,6 +350,9 @@ search-keyword-warning-bookmark = Wybrano słowo kluczowe używane obecnie przez
 
 containers-back-link = « Powrót
 containers-header = Karty z kontekstem
+containers-add-button =
+    .label = Dodaj kontekst
+    .accesskey = D
 containers-preferences-button =
     .label = Preferencje
 containers-remove-button =
