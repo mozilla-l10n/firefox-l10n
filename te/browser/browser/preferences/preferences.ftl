@@ -336,6 +336,7 @@ search-keyword-warning-bookmark = మీరు ఎంచుకున్న క�
 
 ## Containers Section
 
+containers-back-link = « వెనక్కి వెళ్ళు
 containers-header = కంటైనర్ ట్యాబులు
 containers-add-button =
     .label = కొత్త కంటేయినర్ జోడించు
