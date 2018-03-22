@@ -110,23 +110,6 @@ startup-prev-session =
 disable-extension =
     .label = Вимкнути розширення
 home-page-header = Домівка
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Використати поточну сторінку
-           *[other] Використати поточні сторінки
-        }
-    .accesskey = ч
-choose-bookmark =
-    .label = Використати закладку…
-    .accesskey = к
-restore-default =
-    .label = Відновити типову
-    .accesskey = д
 tabs-group-header = Вкладки
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab перемикає між вкладками в порядку недавнього їх використання
@@ -303,6 +286,29 @@ network-proxy-connection-settings =
     .label = Налаштувати…
     .accesskey = а
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Використати поточну сторінку
+           *[other] Використати поточні сторінки
+        }
+    .accesskey = ч
+choose-bookmark =
+    .label = Використати закладку…
+    .accesskey = к
+restore-default =
+    .label = Відновити типову
+    .accesskey = д
+
 ## Search Section
 
 search-bar-header = Панель пошуку
@@ -346,3 +352,14 @@ search-keyword-warning-title = Це скорочення вже використ
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Ви вибрали скорочення, котре вже використовує «{ $name }». Будь ласка, вкажіть інше.
 search-keyword-warning-bookmark = Ви вибрали скорочення, котре вже використовується закладкою. Будь ласка, вкажіть інше.
+
+## Containers Section
+
+containers-back-link = « Повернутись назад
+containers-add-button =
+    .label = Додати новий контейнер
+    .accesskey = к
+containers-preferences-button =
+    .label = Налаштування
+containers-remove-button =
+    .label = Вилучити
