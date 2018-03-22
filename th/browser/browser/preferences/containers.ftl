@@ -37,6 +37,9 @@ containers-button-done =
     .label = เสร็จสิ้น
     .accesskey = ร
 containers-remove-alert-title = เอาการแยกข้อมูลนี้ออก?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg = หากคุณเอาการแยกข้อมูลนี้ออกตอนนี้ { $count } แท็บแยกข้อมูลจะถูกปิด คุณแน่ใจหรือไม่ว่าต้องการเอาการแยกข้อมูลนี้ออก?
 containers-remove-ok-button = เอาการแยกข้อมูลนี้ออก
 containers-remove-cancel-button = ไม่เอาการแยกข้อมูลนี้ออก
 containers-color-blue =
