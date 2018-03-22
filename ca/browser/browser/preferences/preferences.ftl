@@ -353,6 +353,7 @@ search-keyword-warning-bookmark = Heu triat una paraula clau que ja utilitza una
 
 ## Containers Section
 
+containers-back-link = « Torna
 containers-header = Pestanyes de contenidor
 containers-add-button =
     .label = Afegeix un contenidor nou
