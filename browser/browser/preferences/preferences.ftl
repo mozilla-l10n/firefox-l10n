@@ -354,3 +354,10 @@ search-keyword-warning-bookmark = בחרת להשתמש במילת מפתח שנ
 ## Containers Section
 
 containers-back-link = « חזרה
+containers-add-button =
+    .label = הוספת מגירה חדשה
+    .accesskey = מ
+containers-preferences-button =
+    .label = העדפות
+containers-remove-button =
+    .label = הסרה
