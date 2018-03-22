@@ -419,7 +419,7 @@
 
 <!-- Summary dialog -->
 <!ENTITY summary.dialog.saveclose.label         "Gardar e pechar">
-<!ENTITY summary.dialog.saveclose.tooltiptext   "Gardar os cambios e pechar a xanela sen cambiar o estado de participación e enviar unha resposta">
+<!ENTITY summary.dialog.saveclose.tooltiptext   "Garda os cambios e pecha a xanela sen cambiar o estado de participación e envía unha resposta">
 <!ENTITY summary.dialog.accept.label            "Aceptar">
 <!ENTITY summary.dialog.accept.tooltiptext      "Aceptar a invitación">
 <!ENTITY summary.dialog.tentative.label         "Provisionalmente">
@@ -427,4 +427,6 @@
 <!ENTITY summary.dialog.decline.label           "Rexeitar">
 <!ENTITY summary.dialog.decline.tooltiptext     "Rexeitar a invitación">
 <!ENTITY summary.dialog.dontsend.label          "Non enviar unha resposta">
+<!ENTITY summary.dialog.dontsend.tooltiptext    "Cambia o seu estado de participación sen enviar unha resposta ao organizador e pecha a xanela">
 <!ENTITY summary.dialog.send.label              "Enviar unha resposta agora">
+<!ENTITY summary.dialog.send.tooltiptext        "Envía unha resposta ao organizador  e pecha a xanela">
