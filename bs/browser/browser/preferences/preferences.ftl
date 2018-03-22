@@ -349,6 +349,7 @@ search-keyword-warning-bookmark = Izabrali ste ključnu riječ koju trenutno kor
 
 ## Containers Section
 
+containers-back-link = « Nazad
 containers-header = Container tabovi
 containers-add-button =
     .label = Dodaj novi Container
