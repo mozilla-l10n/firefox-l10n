@@ -99,23 +99,6 @@ startup-prev-session =
 disable-extension =
     .label = ಎಕ್ಸ್‌ಟೆನ್ಶನ್ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸು
 home-page-header = ಮುಖಪುಟ
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] ಈಗಿನ ಪುಟವನ್ನು ಬಳಸು
-           *[other] ಈಗಿನ ಪುಟಗಳನ್ನು ಬಳಸು 
-        }
-    .accesskey = C
-choose-bookmark =
-    .label = ಪುಟಗುರುತನ್ನು ಬಳಸು…
-    .accesskey = B
-restore-default =
-    .label = ಪೂರ್ವನಿಯೋಜಿತಕ್ಕೆ ಮರಳಿಸು
-    .accesskey = R
 tabs-group-header = ಟ್ಯಾಬ್‌ಗಳು
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab ಇತ್ತೀಚೆಗೆ ಬಳಸಿದ ಟ್ಯಾಬ್‍ಗಳನ್ನು ತಿರುಗಿಕೊಡುತ್ತದೆ
@@ -252,6 +235,29 @@ network-proxy-connection-settings =
     .label = ಸಿದ್ಧತೆಗಳು...
     .accesskey = e
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] ಈಗಿನ ಪುಟವನ್ನು ಬಳಸು
+           *[other] ಈಗಿನ ಪುಟಗಳನ್ನು ಬಳಸು 
+        }
+    .accesskey = C
+choose-bookmark =
+    .label = ಪುಟಗುರುತನ್ನು ಬಳಸು…
+    .accesskey = B
+restore-default =
+    .label = ಪೂರ್ವನಿಯೋಜಿತಕ್ಕೆ ಮರಳಿಸು
+    .accesskey = R
+
 ## Search Section
 
 search-bar-header = ಹುಡುಕು  ಪಟ್ಟಿ
@@ -281,3 +287,7 @@ search-keyword-warning-title = ಬಳಸಲ್ಪಟ್ಟ ಕೀಲಿಪದ
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = "{ $name }" ನಿಂದ ಈಗಾಗಲೆ ಬಳಸಲ್ಪಡುತ್ತಿರುವ ಒಂದು ಕೀಲಿಪದವನ್ನು ಆಯ್ಕೆ ಮಾಡಿದ್ದೀರಿ. ದಯವಿಟ್ಟು ಬೇರೆಯದನ್ನು ಆಯ್ಕೆ ಮಾಡಿ.
 search-keyword-warning-bookmark = ಒಂದು ಬುಕ್‌ಮಾರ್ಕಿನಿಂದ ಈಗಾಗಲೆ ಬಳಸಲ್ಪಡುತ್ತಿರುವ ಒಂದು ಕೀಲಿಪದವನ್ನು ಆಯ್ಕೆ ಮಾಡಿದ್ದೀರಿ. ದಯವಿಟ್ಟು ಬೇರೆಯದನ್ನು ಆಯ್ಕೆ ಮಾಡಿ.
+
+## Containers Section
+
+containers-header = ಕಂಟೈನರ್ ಟ್ಯಾಬ್‍‍ಗಳು‍
