@@ -104,23 +104,6 @@ startup-prev-session =
 disable-extension =
     .label = Eklentini Naqabilleştir
 home-page-header = Ev saifesi
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Ağımdaki Saifeni Qullan
-           *[other] Ağımdaki Saifelerni Qullan
-        }
-    .accesskey = n
-choose-bookmark =
-    .label = Saife-imini Qullan…
-    .accesskey = S
-restore-default =
-    .label = Ög-belgilemege Keri Tikle
-    .accesskey = K
 tabs-group-header = İlmekler
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab, yaqınlarda qullanılğan sırada ilmekler arqalı dolaşır
@@ -294,6 +277,29 @@ network-proxy-connection-settings =
     .label = Tesbitler…
     .accesskey = T
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Ağımdaki Saifeni Qullan
+           *[other] Ağımdaki Saifelerni Qullan
+        }
+    .accesskey = n
+choose-bookmark =
+    .label = Saife-imini Qullan…
+    .accesskey = S
+restore-default =
+    .label = Ög-belgilemege Keri Tikle
+    .accesskey = K
+
 ## Search Section
 
 search-bar-header = Qıdırma Çubuğı
@@ -337,3 +343,15 @@ search-keyword-warning-title = Mükerrer Anahtar Kelime
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Al-azırda “{ $name }” tarafından qullanılğan bir anahtar kelime saylağansıñız. Lütfen başqa birini saylañız.
 search-keyword-warning-bookmark = Al-azırda bir saife-imi tarafından qullanılğan bir anahtar kelime saylağansıñız. Lütfen başqa birini saylañız.
+
+## Containers Section
+
+containers-back-link = « Keri Bar
+containers-header = İhtivacı İlmekler
+containers-add-button =
+    .label = Yañı Konteyner Ekle
+    .accesskey = l
+containers-preferences-button =
+    .label = Tercihler
+containers-remove-button =
+    .label = Çetleştir
