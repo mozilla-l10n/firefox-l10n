@@ -115,5 +115,36 @@
 <!ENTITY Custom3.accesskey              "3">
 <!ENTITY Custom4.label                  "Cyfaddasu 4:">
 <!ENTITY Custom4.accesskey              "4">
+<!ENTITY Notes.label                    "Nodiadau:">
+<!ENTITY Notes.accesskey                "N">
 
+<!ENTITY Chat.tab                       "Sgwrsio">
+<!ENTITY Chat.accesskey                 "S">
+<!ENTITY Gtalk.label                    "Google Talk:">
+<!ENTITY Gtalk.accesskey                "G">
+<!ENTITY AIM.label                      "AIM:">
+<!ENTITY AIM2.accesskey                 "M">
+<!ENTITY Yahoo.label                    "Yahoo!:">
+<!ENTITY Yahoo.accesskey                "Y">
+<!ENTITY Skype.label                    "Skype:">
+<!ENTITY Skype.accesskey                "S">
+<!ENTITY QQ.label                       "QQ:">
+<!ENTITY QQ.accesskey                   "Q">
+<!ENTITY MSN.label                      "MSN:">
+<!ENTITY MSN2.accesskey                 "N">
+<!ENTITY ICQ.label                      "ICQ:">
+<!ENTITY ICQ.accesskey                  "I">
+<!ENTITY XMPP.label                     "Jabber ID:">
+<!ENTITY XMPP.accesskey                 "J">
+<!ENTITY IRC.label                      "Llysenw IRC:">
+<!ENTITY IRC.accesskey                  "L">
 
+<!ENTITY Photo.tab                      "Ffoto">
+<!ENTITY Photo.accesskey                "o">
+<!ENTITY PhotoDesc.label                "Dewis un o'r canlynol:">
+<!ENTITY GenericPhoto.label             "Ffoto Generig">
+<!ENTITY GenericPhoto.accesskey         "G">
+<!ENTITY DefaultPhoto.label             "Rhagosodiad">
+<!ENTITY PhotoFile.label                "Ar y Cyfrifiadur hwn">
+<!ENTITY PhotoFile.accesskey            "A">
+<!ENTITY BrowsePhoto.label              "Pori">
