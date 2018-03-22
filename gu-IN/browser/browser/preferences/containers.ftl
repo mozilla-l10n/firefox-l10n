@@ -44,6 +44,8 @@ containers-remove-alert-msg =
         [one] જો તમે આ કન્ટેઈનરને હમણા દૂર કરો છો, તો { $count } કન્ટેનર ટેબ બંધ થઈ જશે. શું તમે ખરેખર આ કન્ટેઈનરને દૂર કરવા માંગો છો?
        *[other] જો તમે આ કન્ટેઈનરને દૂર કરો છો, તો { $count } કન્ટેનર ટેબ્સ બંધ થઈ જશે. શું તમે ખરેખર આ કન્ટેઈનરને દૂર કરવા માંગો છો?
     }
+containers-remove-ok-button = આ કન્ટેઈનર દૂર કરો
+containers-remove-cancel-button = આ કન્ટેઈનરને દૂર કરશો નહીં
 containers-color-blue =
     .label = ભૂરી
 containers-color-turquoise =
