@@ -36,6 +36,7 @@ containers-color-label = Color
 containers-button-done =
     .label = Acabat
     .accesskey = D
+containers-remove-alert-title = Suprimir aqueste contenidor ?
 # Variables:
 #   $count (Number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
