@@ -12,9 +12,9 @@
 <!ENTITY cmd.open.accesskey              "A">
 <!ENTITY cmd.show.label                  "Abrir a pasta respetiva">
 <!ENTITY cmd.show.accesskey              "b">
-<!ENTITY cmd.goToDownloadPage.label      "Ir para a página de transferência">
+<!ENTITY cmd.goToDownloadPage.label      "Ir para a página de descarga">
 <!ENTITY cmd.goToDownloadPage.accesskey  "r">
-<!ENTITY cmd.copyDownloadLink.label      "Copiar ligação da transferência">
+<!ENTITY cmd.copyDownloadLink.label      "Copiar ligação da descarga">
 <!ENTITY cmd.copyDownloadLink.accesskey  "l">
-<!ENTITY closeWhenDone.label             "Fechar esta janela ao terminar a transferência.">
+<!ENTITY closeWhenDone.label             "Fechar esta janela ao terminar a descarga.">
 <!ENTITY closeWhenDone.accesskey         "F">

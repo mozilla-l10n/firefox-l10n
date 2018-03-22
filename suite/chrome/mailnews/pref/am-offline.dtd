@@ -4,7 +4,7 @@
 
 <!ENTITY doNotDownloadPop3Movemail.label "Para poupar espaço em disco, não descarregar:">
 <!ENTITY doNotDownloadNntp.label "Para poupar espaço em disco, não descarregar para utilização offline:">
-<!ENTITY doNotDownloadImap.label "Para poupar espaço em disco, a transferência de mensagens do servidor e a manutenção de cópias offline pode ser restringida por data ou tamanho.">
+<!ENTITY doNotDownloadImap.label "Para poupar espaço em disco, a descarga de mensagens do servidor e a manutenção de cópias offline pode ser restringida por data ou tamanho.">
 <!ENTITY allFoldersOffline2.label "Manter as mensagens em todas as pastas para esta conta neste computador.">
 <!ENTITY allFoldersOffline2.accesskey "o">
 <!ENTITY allFoldersOfflineNote.label "Nota: Alterar isto afeta todas as pastas nesta conta. Para definir pastas individuais, utilize o botão Avançadas…">

@@ -440,7 +440,7 @@
 <!ENTITY deleteButton.tooltip "Apagar pasta ou mensagem selecionada">
 <!ENTITY undeleteButton.tooltip "Restaurar mensagem selecionada">
 <!ENTITY markButton.tooltip "Marcar mensagens">
-<!ENTITY stopButton.tooltip "Parar transferência atual">
+<!ENTITY stopButton.tooltip "Parar descarga em curso">
 <!ENTITY throbber.tooltip "Ir para a página inicial do &vendorShortName;">
 <!ENTITY junkButton.tooltip "Marcar mensagens selecionadas como lixo">
 <!ENTITY notJunkButton.tooltip "Marcar mensagens selecionadas como não sendo lixo">
