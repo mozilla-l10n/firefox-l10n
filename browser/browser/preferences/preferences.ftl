@@ -354,6 +354,7 @@ search-keyword-warning-bookmark = 您选择的关键词已用于某个书签，�
 ## Containers Section
 
 containers-back-link = « 返回
+containers-header = 身份标签页
 containers-add-button =
     .label = 添加新身份
     .accesskey = A
