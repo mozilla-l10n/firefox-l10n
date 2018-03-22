@@ -32,6 +32,9 @@ feature-enable-requires-restart = { -brand-short-name } мора да се ре�
 feature-disable-requires-restart = { -brand-short-name } мора да се рестартира за да се оневозможи оваа особеност.
 should-restart-title = Рестарирај го { -brand-short-name }
 
+## Preferences UI Search Results
+
+
 ## General Section
 
 startup-header = Стартување
@@ -48,23 +51,6 @@ startup-blank-page =
 startup-prev-session =
     .label = Прикажи ги прозорците и јазичињата од последниот пат
 home-page-header = Почетна страница
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Вчитана страница
-           *[other] Сите вчитани
-        }
-    .accesskey = и
-choose-bookmark =
-    .label = Користи обележувач...
-    .accesskey = б
-restore-default =
-    .label = Основна страница
-    .accesskey = р
 tabs-group-header = Јазичиња
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab преминува низ јазичињата според редоследот по кој биле користени
@@ -156,6 +142,29 @@ network-proxy-connection-settings =
     .label = Поставки…
     .accesskey = с
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Вчитана страница
+           *[other] Сите вчитани
+        }
+    .accesskey = и
+choose-bookmark =
+    .label = Користи обележувач...
+    .accesskey = б
+restore-default =
+    .label = Основна страница
+    .accesskey = р
+
 ## Search Section
 
 search-engine-default-header = Основен пребарувач
@@ -184,3 +193,11 @@ search-keyword-warning-title = Дупликат клучен збор
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Избравте клучен збор што моментално се користи во „{ $name }“. Изберете друг.
 search-keyword-warning-bookmark = Избравте клучен збор што моментално се користи за обележувач. Изберете друг.
+
+## Containers Section
+
+containers-back-link = « Назад
+containers-preferences-button =
+    .label = Поставки
+containers-remove-button =
+    .label = Избриши
