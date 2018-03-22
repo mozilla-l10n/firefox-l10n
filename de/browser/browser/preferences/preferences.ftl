@@ -104,23 +104,6 @@ startup-prev-session =
 disable-extension =
     .label = Erweiterung deaktivieren
 home-page-header = Startseite
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Aktuelle Seite verwenden
-           *[other] Aktuelle Seiten verwenden
-        }
-    .accesskey = A
-choose-bookmark =
-    .label = Lesezeichen verwenden…
-    .accesskey = L
-restore-default =
-    .label = Standard wiederherstellen
-    .accesskey = t
 tabs-group-header = Tabs
 ctrl-tab-recently-used-order =
     .label = Bei Strg+Tab die Tabs nach letzter Nutzung in absteigender Reihenfolge anzeigen
@@ -294,6 +277,29 @@ network-proxy-connection-settings =
     .label = Einstellungen…
     .accesskey = n
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Aktuelle Seite verwenden
+           *[other] Aktuelle Seiten verwenden
+        }
+    .accesskey = A
+choose-bookmark =
+    .label = Lesezeichen verwenden…
+    .accesskey = L
+restore-default =
+    .label = Standard wiederherstellen
+    .accesskey = t
+
 ## Search Section
 
 search-bar-header = Suchleiste
@@ -337,3 +343,15 @@ search-keyword-warning-title = Schlüsselwort duplizieren
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Sie haben ein Schlüsselwort ausgewählt, das bereits von "{ $name }" verwendet wird, bitte wählen Sie ein anderes.
 search-keyword-warning-bookmark = Sie haben ein Schlüsselwort ausgewählt, das bereits von einem Lesezeichen verwendet wird, bitte wählen Sie ein anderes.
+
+## Containers Section
+
+containers-back-link = « Zurück
+containers-header = Tab-Umgebungen
+containers-add-button =
+    .label = Neue Umgebung hinzufügen
+    .accesskey = N
+containers-preferences-button =
+    .label = Einstellungen
+containers-remove-button =
+    .label = Löschen
