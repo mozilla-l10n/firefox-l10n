@@ -70,15 +70,12 @@ both, to better adapt this sentence to their language.
 <!ENTITY verifiedManage.accesskey     "o">
 <!ENTITY disconnect3.label            "বিচ্ছিন্ন…">
 <!ENTITY disconnect3.accesskey        "D">
-<!ENTITY verify.label                "ইমেল যাচাই">
-<!ENTITY verify.accesskey            "V">
-<!ENTITY forget.label                "এই ইমেইল ভুলে যাও">
-<!ENTITY forget.accesskey            "F">
-
 <!ENTITY resendVerification.label     "যাচাইকরণ পুনরায় পাঠান">
 <!ENTITY resendVerification.accesskey "d">
 <!ENTITY cancelSetup.label            "সেটাপ বাতিল">
 <!ENTITY cancelSetup.accesskey        "p">
+
+<!ENTITY removeAccount.accesskey      "p">
 
 <!ENTITY signedOut.caption            "আপনার ওয়েব আপনার সঙ্গে নিন">
 <!ENTITY signedOut.description        "আপনার সকল ডিভাইস জুড়ে আপনার বুকমার্ক, ইতিহাস, ট্যাব, পাসওয়ার্ড, অ্যাড টার্ন, এবং পছন্দ সিংক্রোনাইজ করুন.">
