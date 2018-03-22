@@ -356,6 +356,7 @@ search-keyword-warning-bookmark = Ви вибрали скорочення, ко
 ## Containers Section
 
 containers-back-link = « Повернутись назад
+containers-header = Вкладки контейнера
 containers-add-button =
     .label = Додати новий контейнер
     .accesskey = к
