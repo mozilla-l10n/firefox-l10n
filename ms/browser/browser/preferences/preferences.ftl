@@ -110,23 +110,6 @@ startup-prev-session =
 disable-extension =
     .label = Nyahdayakan Ekstensi
 home-page-header = Halaman utama
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Gunakan Halaman Semasa
-           *[other] Gunakan Halaman Semasa
-        }
-    .accesskey = a
-choose-bookmark =
-    .label = Guna Tandabuku…
-    .accesskey = B
-restore-default =
-    .label = Pulih Piawai
-    .accesskey = P
 tabs-group-header = Tab
 ctrl-tab-recently-used-order =
     .label = Pusingan Ctrl+Tab mengikut tertib tab yang baru digunakan
@@ -293,6 +276,29 @@ network-proxy-connection-settings =
     .label = Tetapan…
     .accesskey = t
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Gunakan Halaman Semasa
+           *[other] Gunakan Halaman Semasa
+        }
+    .accesskey = a
+choose-bookmark =
+    .label = Guna Tandabuku…
+    .accesskey = B
+restore-default =
+    .label = Pulih Piawai
+    .accesskey = P
+
 ## Search Section
 
 search-bar-header = Bar Carian
@@ -336,3 +342,14 @@ search-keyword-warning-title = Kata kunci Duplikasi
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Anda telah memilih kata kunci yang sedang digunakan oleh "{ $name }". Sila pilih yang lain.
 search-keyword-warning-bookmark = Anda telah memilih kata kunci yang sedang digunakan oleh tandabuku. Sila pilih yang lain.
+
+## Containers Section
+
+containers-back-link = « Undur
+containers-add-button =
+    .label = Tambah Penyimpan Baru
+    .accesskey = A
+containers-preferences-button =
+    .label = Keutamaan
+containers-remove-button =
+    .label = Buang
