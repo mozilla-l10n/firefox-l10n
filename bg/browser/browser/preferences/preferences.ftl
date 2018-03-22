@@ -349,6 +349,7 @@ search-keyword-warning-bookmark = Избрали сте дума, която в�
 ## Containers Section
 
 containers-back-link = « Назад
+containers-header = Изолирани раздели
 containers-add-button =
     .label = Нов изолатор
     .accesskey = и
