@@ -22,12 +22,17 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+containers-name-text =
+    .placeholder = ကွန်တိန်နာအမည်ရေးပါ
 containers-button-done =
     .label = ပြီးပြီ
     .accesskey = D
+containers-remove-alert-title = ယခုကွန်တိုင်နာအား ဖယ်ပါ
 # Variables:
 #   $count (Number) - Number of tabs that will be closed.
 containers-remove-alert-msg = ယခုကွန်တိန်နာကို ဖျက်မည်ဆိုပါက ဖွင့်ထားသော ကွန်တိန်နာတပ်ဗ် { $count } ခုသည် ပိတ်သွားပါမည်။ ၎င်းတို့ကို ဖျက်မည်မှာ သေချာပါသလား။
+containers-remove-ok-button = ကွန်တိုင်အား ဖယ်ပါ
+containers-remove-cancel-button = ကွန်တိုင်အား မဖယ်ပါနှင့်
 containers-color-blue =
     .label = အပြာရောင်
 containers-color-turquoise =

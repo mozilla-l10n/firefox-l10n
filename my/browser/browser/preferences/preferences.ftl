@@ -88,23 +88,6 @@ startup-prev-session =
 disable-extension =
     .label = တိုးချဲ့မှု အားပိတ်ထားပါ
 home-page-header = အဖွင့်စာမျက်နှာ
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] လက်ရှိစာမျက်နှာကို အသုံးပြုပါ
-           *[other] လက်ရှိဖွင့်ထားသည့် စာမျက်နှာများကို အသုံးပြုပါ
-        }
-    .accesskey = C
-choose-bookmark =
-    .label = စာမှတ်ကို အသုံးပြုပါ…
-    .accesskey = B
-restore-default =
-    .label = မူလသတ်မှတ်ချက်အတိုင်း ပြန်ထားပါ
-    .accesskey = R
 tabs-group-header = တပ်ဗ်များ
 ctrl-tab-recently-used-order =
     .label = Ctrl+tab သည် အရင်သုံးခဲ့ဖူးသည့် တပ်ဗ်များကို အစဉ်လိုက် ပြောင်းပေးသွားမည်
@@ -263,6 +246,29 @@ network-proxy-connection-settings =
     .label = အပြင်အဆင်များ...
     .accesskey = e
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] လက်ရှိစာမျက်နှာကို အသုံးပြုပါ
+           *[other] လက်ရှိဖွင့်ထားသည့် စာမျက်နှာများကို အသုံးပြုပါ
+        }
+    .accesskey = C
+choose-bookmark =
+    .label = စာမှတ်ကို အသုံးပြုပါ…
+    .accesskey = B
+restore-default =
+    .label = မူလသတ်မှတ်ချက်အတိုင်း ပြန်ထားပါ
+    .accesskey = R
+
 ## Search Section
 
 search-bar-header = ရှာဖွေရေးဘားတန်း
@@ -298,3 +304,13 @@ search-keyword-warning-title = သော့ချက် စာလုံး ပ�
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = လောလောဆယ် "{ $name }" သုံးစွဲနေတဲ့ သော့ချက်တခုကို သင် ရွေးထားပြီးပြီ။ အခြားကို ရွေးပါ။
 search-keyword-warning-bookmark = လောလောဆယ် မှတ်သားချက်တခုက သုံးစွဲနေတဲ့ သော့ချက် တခုကို သင်​ ရွေးထားတယ်။ အခြားကို ရွေးပါ။
+
+## Containers Section
+
+containers-add-button =
+    .label = ကွန်တိန်နာအသစ်ထပ်ထည့်ပါ
+    .accesskey = A
+containers-preferences-button =
+    .label = အပြင်အဆင်များ
+containers-remove-button =
+    .label = ဖယ်ရှားပါ
