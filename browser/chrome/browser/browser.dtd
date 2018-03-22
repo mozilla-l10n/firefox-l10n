@@ -157,7 +157,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
 <!ENTITY exitDOMFullscreen.button "退出全屏模式(Esc)">
-<!ENTITY exitDOMFullscreenMac.button "退出全屏模式(Esc)">
+<!ENTITY exitDOMFullscreenMac.button "退出全屏模式 (Esc)">
 <!ENTITY leaveDOMFullScreen.label "退出全屏">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
