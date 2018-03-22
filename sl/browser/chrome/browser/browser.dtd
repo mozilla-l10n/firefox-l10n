@@ -979,11 +979,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Ponovno zaženi za posodobitev &brandShorterName;a">
 
 <!ENTITY newTabControlled.message "Razširitev je spremenila stran novega zavihka. Če te spremembe ne želite, obnovite nastavitve.">
+
 <!ENTITY newTabControlled.header.message "Stran novega zavihka se je spremenila.">
 <!ENTITY newTabControlled.keepButton.label "Ohrani spremembe">
 <!ENTITY newTabControlled.keepButton.accesskey "O">
 <!ENTITY newTabControlled.restoreButton.label "Obnovi nastavitve">
 <!ENTITY newTabControlled.restoreButton.accesskey "b">
+
+<!ENTITY newTabControlled.disableButton.label "Onemogoči razširitev">
 
 <!ENTITY pageActionButton.tooltip "Dejanja strani">
 <!ENTITY pageAction.addToUrlbar.label "Dodaj v naslovno vrstico">

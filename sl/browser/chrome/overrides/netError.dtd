@@ -195,7 +195,7 @@ poveže zgolj varno. Posledično za to digitalno potrdilo ni mogoče dodati izje
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> uporablja varnostno tehnologijo, ki je zastarela in ranljiva na napade. Napadalec lahko zlahka razkrije podatke, ki naj bi bili zaščiteni. Preden lahko obiščete to stran, bo moral njen skrbnik popraviti strežnik.</p><p>Koda napake: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
-<!ENTITY blockedByPolicyTemp.title "Stran zavrnjena">
+<!ENTITY blockedByPolicy.title "Zavrnjena stran">
 
 <!ENTITY prefReset.longDesc "Videti je, da to povzročajo omrežne nastavitve. Ali želite obnoviti privzete nastavitve?">
 <!ENTITY prefReset.label "Obnovi privzete nastavitve">
