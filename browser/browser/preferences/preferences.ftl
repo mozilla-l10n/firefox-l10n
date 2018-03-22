@@ -110,23 +110,6 @@ startup-prev-session =
 disable-extension =
     .label = Zakázat rozšíření
 home-page-header = Domovská stránka
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Použít aktuální stránku
-           *[other] Použít aktuální stránky
-        }
-    .accesskey = k
-choose-bookmark =
-    .label = Použít záložku…
-    .accesskey = z
-restore-default =
-    .label = Obnovit výchozí
-    .accesskey = b
 tabs-group-header = Panely
 ctrl-tab-recently-used-order =
     .label = Přepínat panely pomocí Ctrl+Tab v pořadí podle posledního otevření
@@ -303,6 +286,29 @@ network-proxy-connection-settings =
     .label = Nastavení…
     .accesskey = e
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Použít aktuální stránku
+           *[other] Použít aktuální stránky
+        }
+    .accesskey = k
+choose-bookmark =
+    .label = Použít záložku…
+    .accesskey = z
+restore-default =
+    .label = Obnovit výchozí
+    .accesskey = b
+
 ## Search Section
 
 search-bar-header = Vyhledávací pole
@@ -346,3 +352,9 @@ search-keyword-warning-title = Použité klíčové slovo
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Zvolili jste klíčové slovo, které už je použito pro „{ $name }“. Zvolte prosím jiné.
 search-keyword-warning-bookmark = Zvolili jste klíčové slovo, které už je použito pro záložku. Zvolte prosím jiné.
+
+## Containers Section
+
+containers-back-link = « Jít zpět
+containers-remove-button =
+    .label = Odstranit
