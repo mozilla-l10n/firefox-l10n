@@ -361,6 +361,8 @@ search-keyword-warning-bookmark = Rydych wedi defnyddio allweddair sy'n cael ei 
 
 ## Containers Section
 
+containers-back-link = « Ewch Nôl
+containers-header = Tabiau Cynwysyddion
 containers-add-button =
     .label = Ychwanegu Cynhwysydd Newydd
     .accesskey = Y
