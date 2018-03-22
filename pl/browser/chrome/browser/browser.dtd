@@ -83,6 +83,8 @@
 <!ENTITY pageInfoCmd.label "Informacje o stronie" >
 <!ENTITY pageInfoCmd.accesskey "m" >
 <!ENTITY pageInfoCmd.commandkey "i" >
+<!ENTITY ldbCmd.label "Debuger układu">
+<!ENTITY ldbCmd.accesskey "r">
 <!ENTITY mirrorTabCmd.label "Przekaż kartę">
 <!ENTITY mirrorTabCmd.accesskey "P">
 
