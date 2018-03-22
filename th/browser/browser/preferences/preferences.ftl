@@ -278,6 +278,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = หน้าต่างและแท็บใหม่
+home-new-windows-tabs-description = เลือกสิ่งที่คุณเห็นเมื่อคุณเปิดหน้าแรก, หน้าต่างใหม่ และแท็บใหม่ของคุณ
 
 ## Home Section - Home Page Customization
 
@@ -286,8 +287,14 @@ home-newtabs-mode-label = แท็บใหม่
 home-restore-defaults =
     .label = เรียกคืนค่าเริ่มต้น
     .accesskey = ร
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = หน้าแรก Firefox (ค่าเริ่มต้น)
 home-mode-choice-custom =
     .label = URL ที่กำหนดเอง…
+home-mode-choice-blank =
+    .label = หน้าว่าง
 home-homepage-custom-url =
     .placeholder = วาง URL…
 # This string has a special case for '1' and [other] (default). If necessary for

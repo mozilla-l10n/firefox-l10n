@@ -64,11 +64,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY verifiedManage.accesskey     "จ">
 <!ENTITY disconnect3.label            "ตัดการเชื่อมต่อ…">
 <!ENTITY disconnect3.accesskey        "ต">
-<!ENTITY verify.label                "ยืนยันอีเมล">
-<!ENTITY verify.accesskey            "ย">
-<!ENTITY forget.label                "ลืมอีเมลนี้">
-<!ENTITY forget.accesskey            "ล">
 
+<!ENTITY removeAccount.label          "เอาบัญชีออก">
+<!ENTITY removeAccount.accesskey      "อ">
 
 <!ENTITY signedOut.caption            "นำเว็บของคุณไปกับคุณ">
 <!ENTITY signedOut.description        "ประสานที่คั่นหน้า, ประวัติ, แท็บ, รหัสผ่าน, ส่วนเสริม และค่ากำหนดระหว่างอุปกรณ์ทั้งหมดของคุณ">
