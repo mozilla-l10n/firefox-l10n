@@ -343,6 +343,13 @@
 <!ENTITY attachPage.label "Επισύναψη ιστοσελίδας...">
 <!ENTITY attachPage.accesskey "ι">
 
+<!-- Attachment Pane Header Bar Context Menu -->
+<!-- LOCALIZATION NOTE (initiallyShowAttachmentPane.label):
+     Should use the same wording as startExpandedCmd.label
+     in msgHdrViewOverlay.dtd. -->
+<!ENTITY initiallyShowAttachmentPane.label "Εμφάνιση παραθύρου συνημμένων αρχικά">
+<!ENTITY initiallyShowAttachmentPane.accesskey "Ε">
+
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Προσθήκη λεξικών">
 <!ENTITY spellAddDictionaries.accesskey "θ">
