@@ -3,8 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "Ustawienia – dane stron">
+<!ENTITY window1.title "Ustawienia – ciasteczka i dane stron">
 <!ENTITY hostCol.label "Witryna">
 <!ENTITY statusCol.label "Status">
+<!ENTITY cookiesCol.label "Ciasteczka">
 <!ENTITY usageCol.label "Rozmiar">
 <!ENTITY searchTextboxPlaceHolder "Szukaj witryny">
 <!ENTITY searchTextboxPlaceHolder.accesskey "S">
