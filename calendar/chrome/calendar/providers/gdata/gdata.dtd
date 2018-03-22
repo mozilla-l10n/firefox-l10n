@@ -8,12 +8,12 @@
 <!ENTITY gdata.privacy.default.accesskey "S">
 
 <!ENTITY gdata.migration.title "Integrér ikke-skrivbare kalendere">
-<!ENTITY gdata.migration.description "Tjenesten Google Kalender har registreret, at du har eksisterende kalendere, som ikke er i stand til at skrive til kalendere hos Google Kalender. Hvis du vil opgradere nogle af disse kalendere, så vælg dem nedenfor">
+<!ENTITY gdata.migration.description "Tjenesten Google Kalender har registreret, at du har eksisterende kalendere, som ikke er i stand til at skrive til kalendere hos Google Kalender. Hvis du vil opgradere nogen af disse kalendere, så vælg dem nedenfor">
 <!ENTITY gdata.migration.upgrade.label "Opgrader">
 <!ENTITY gdata.migration.upgrade.accesskey "O">
 <!ENTITY gdata.migration.showagain.label "Kontroller altid">
-<!ENTITY gdata.reminder.default "Standardpåmindelse">
 
+<!ENTITY gdata.reminder.default "Standardpåmindelse">
 <!ENTITY gdata.reminder.action.sms.label "Send en SMS">
 
 <!ENTITY gdata.wizard.session.description "Vælg en eksisterende session, eller indtast en mailadresse, for at oprette en ny session. Du skal kun bruge én session pr. konto.">
