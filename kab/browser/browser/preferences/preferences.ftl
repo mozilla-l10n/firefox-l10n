@@ -348,6 +348,7 @@ search-keyword-warning-bookmark = Tferneḍ awal n tsarutt i yettusqedcen yakan 
 
 ## Containers Section
 
+containers-header = Iccaren imagbaren
 containers-preferences-button =
     .label = Timsisɣal
 containers-remove-button =
