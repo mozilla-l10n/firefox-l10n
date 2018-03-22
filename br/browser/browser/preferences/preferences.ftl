@@ -110,23 +110,6 @@ startup-prev-session =
 disable-extension =
     .label = Diweredekaat an askouezh
 home-page-header = Pennbajenn
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Arverañ ar bajenn vremanel
-           *[other] Arverañ ar pajennoù bremanel
-        }
-    .accesskey = A
-choose-bookmark =
-    .label = Arverañ ur sined…
-    .accesskey = r
-restore-default =
-    .label = Assav an arventennoù dre ziouer
-    .accesskey = z
 tabs-group-header = Ivinelloù
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab evit mont d'an ivinell implijet da ziwezhañ
@@ -303,6 +286,29 @@ network-proxy-connection-settings =
     .label = Arventennoù…
     .accesskey = e
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Arverañ ar bajenn vremanel
+           *[other] Arverañ ar pajennoù bremanel
+        }
+    .accesskey = A
+choose-bookmark =
+    .label = Arverañ ur sined…
+    .accesskey = r
+restore-default =
+    .label = Assav an arventennoù dre ziouer
+    .accesskey = z
+
 ## Search Section
 
 search-bar-header = Barrenn glask
@@ -346,3 +352,14 @@ search-keyword-warning-title = Arredaoliñ ur ger alc'hwez
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Dibabet hoc'h eus ur ger alc'hwez war arver evit bremañ gant "{ $name }". Mar plij, diuzit unan all.
 search-keyword-warning-bookmark = Dibabet hoc'h eus ur ger alc'hwez war arver evit bremañ gant ur sined. Mar plij, diuzit unan all.
+
+## Containers Section
+
+containers-header = Ivinelloù endalc'her
+containers-add-button =
+    .label = Ouzhpennañ un endalc'her nevez
+    .accesskey = O
+containers-preferences-button =
+    .label = Gwellvezioù
+containers-remove-button =
+    .label = Lemel kuit
