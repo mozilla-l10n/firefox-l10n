@@ -110,23 +110,6 @@ startup-prev-session =
 disable-extension =
     .label = துணைநிரலை முடக்கவும்
 home-page-header = முகப்பு பக்கம்
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] நடப்பு பக்கத்தை பயன்படுத்து
-           *[other] நடப்பு பக்கங்களை பயன்படுத்து
-        }
-    .accesskey = ப
-choose-bookmark =
-    .label = புத்தககுறியை பயன்படுத்தவும்...
-    .accesskey = ப
-restore-default =
-    .label = முன்னிருப்புக்கு மீட்டமை
-    .accesskey = R
 tabs-group-header = கீற்றுகள்
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab விசைக் கொண்டு அண்மையில் பாவித்த கீற்றுகளின் ஊடாக வலம் வரலாம்
@@ -301,6 +284,29 @@ network-proxy-connection-settings =
     .label = அமைவுகள்…
     .accesskey = e
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] நடப்பு பக்கத்தை பயன்படுத்து
+           *[other] நடப்பு பக்கங்களை பயன்படுத்து
+        }
+    .accesskey = ப
+choose-bookmark =
+    .label = புத்தககுறியை பயன்படுத்தவும்...
+    .accesskey = ப
+restore-default =
+    .label = முன்னிருப்புக்கு மீட்டமை
+    .accesskey = R
+
 ## Search Section
 
 search-bar-header = தேடும் பட்டை
@@ -337,3 +343,15 @@ search-keyword-warning-title = இரட்டை முக்கிய சொ�
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = நீங்கள் தேர்ந்தெடுத்த ஒரு முக்கியச்சொல் தற்போது "{ $name }"ஆல் பயன்படுத்தப்படுகிறது. வேறொன்றை தேர்ந்தெடுக்கவும்.
 search-keyword-warning-bookmark = நீங்கள் தேர்ந்தெடுத்த ஒரு முக்கியச்சொல் தற்போது ஒரு புத்தகக்குறியால் பயன்படுத்தப்படுகிறது. வேறொன்றை தேர்ந்தெடுக்கவும்.
+
+## Containers Section
+
+containers-back-link = « திரும்பிச் செல்லுங்கள்
+containers-header = கலன் கீற்றுகள்
+containers-add-button =
+    .label = புதிய கலன்களைச் சேர்
+    .accesskey = A
+containers-preferences-button =
+    .label = முன்னுரிமைகள்
+containers-remove-button =
+    .label = நீக்கு
