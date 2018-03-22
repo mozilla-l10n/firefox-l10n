@@ -41,6 +41,9 @@ policies-notice =
 pane-general-title = Golvonī
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = Sōkums
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = Mekleit
 category-search =
     .tooltiptext = { pane-search-title }
@@ -284,6 +287,7 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = Jauni lūgi i cilnes
 
 ## Home Section - Home Page Customization
 
