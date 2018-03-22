@@ -349,6 +349,7 @@ search-keyword-warning-bookmark = Jo hawwe in kaaiwurd keazen dat op dit stuit y
 ## Containers Section
 
 containers-back-link = « Tebek
+containers-header = Kontenerljepblêden
 containers-add-button =
     .label = Nije kontener tafoegje
     .accesskey = A
