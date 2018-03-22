@@ -105,23 +105,6 @@ startup-prev-session =
 disable-extension =
     .label = Desactivar extensión
 home-page-header = Pachina d'inicio
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Usar pachina actual
-           *[other] Usar pachinas actuals
-        }
-    .accesskey = c
-choose-bookmark =
-    .label = Usar o marcapachinas…
-    .accesskey = m
-restore-default =
-    .label = Restaurar ta la valura por defecto
-    .accesskey = v
 tabs-group-header = Pestanyas
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab cambia de pestanya en orden d'uso mas recient
@@ -296,6 +279,29 @@ network-proxy-connection-settings =
     .label = Configuración…
     .accesskey = o
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Usar pachina actual
+           *[other] Usar pachinas actuals
+        }
+    .accesskey = c
+choose-bookmark =
+    .label = Usar o marcapachinas…
+    .accesskey = m
+restore-default =
+    .label = Restaurar ta la valura por defecto
+    .accesskey = v
+
 ## Search Section
 
 search-bar-header = Barra de busqueda
@@ -339,3 +345,14 @@ search-keyword-warning-title = Duplicar a parola clau
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Ha trigau una parola clau que ya emplega "{ $name }". Trigue-ne unatra.
 search-keyword-warning-bookmark = Ha trigau una parola clau que ya emplega unatro marcapachinas. Trigue-ne unatra.
+
+## Containers Section
+
+containers-header = Pestanyas contenederas
+containers-add-button =
+    .label = Anyader nuevo contenedor
+    .accesskey = A
+containers-preferences-button =
+    .label = Preferencias
+containers-remove-button =
+    .label = Borrar
