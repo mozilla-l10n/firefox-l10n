@@ -346,6 +346,7 @@ search-keyword-warning-bookmark = Anda telah memilih kata kunci yang sedang digu
 ## Containers Section
 
 containers-back-link = « Undur
+containers-header = Tab Penyimpan
 containers-add-button =
     .label = Tambah Penyimpan Baru
     .accesskey = A
