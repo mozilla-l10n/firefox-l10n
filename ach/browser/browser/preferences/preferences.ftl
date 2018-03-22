@@ -104,23 +104,6 @@ startup-prev-session =
 disable-extension =
     .label = Juk lamed
 home-page-header = Potbuk me acakki
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Tii ki pot buk ma kombedi
-           *[other] Tii ki pot buk ma kombedi
-        }
-    .accesskey = p
-choose-bookmark =
-    .label = Tii ki Alama buk…
-    .accesskey = A
-restore-default =
-    .label = Dwok i makwongo
-    .accesskey = D
 tabs-group-header = Dirica matino
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab wire ikin dirica matino i kit ma ki tiyo kwedgi cokki
@@ -285,6 +268,29 @@ network-proxy-connection-settings =
     .label = Tero…
     .accesskey = e
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Tii ki pot buk ma kombedi
+           *[other] Tii ki pot buk ma kombedi
+        }
+    .accesskey = p
+choose-bookmark =
+    .label = Tii ki Alama buk…
+    .accesskey = A
+restore-default =
+    .label = Dwok i makwongo
+    .accesskey = D
+
 ## Search Section
 
 search-bar-header = Lanyut me yeny
@@ -325,3 +331,14 @@ search-keyword-warning-title = Por lok mapire tek
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = I yero lok mapire tek ma latic kwede kombedi obedo "{ $name }". Tim ber iyer mukene.
 search-keyword-warning-bookmark = I yero lok mapire tek ma kombedi alama buk tye ka tic kwede. Tim ber iyer mukene.
+
+## Containers Section
+
+containers-header = Dirica matidi me mako jami
+containers-add-button =
+    .label = Med lamak jami manyen
+    .accesskey = e
+containers-preferences-button =
+    .label = Ter
+containers-remove-button =
+    .label = Kwany
