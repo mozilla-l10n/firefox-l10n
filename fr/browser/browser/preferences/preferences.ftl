@@ -353,6 +353,7 @@ search-keyword-warning-bookmark = Vous avez choisi un mot-clé qui est déjà ut
 
 ## Containers Section
 
+containers-back-link = « Retour
 containers-header = Onglets contextuels
 containers-add-button =
     .label = Ajouter un nouveau contexte
