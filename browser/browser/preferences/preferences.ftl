@@ -357,3 +357,7 @@ containers-back-link = « Geri qayıt
 containers-add-button =
     .label = Yeni konteyner əlavə et
     .accesskey = A
+containers-preferences-button =
+    .label = Nizamlamalar
+containers-remove-button =
+    .label = Sil

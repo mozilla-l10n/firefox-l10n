@@ -25,6 +25,8 @@ containers-window-close =
 containers-name-label = Ad
     .accesskey = N
     .style = { -containers-labels-style }
+containers-name-text =
+    .placeholder = Konteyner adını daxil edin
 containers-icon-label = İkon
     .accesskey = I
     .style = { -containers-labels-style }
@@ -34,6 +36,7 @@ containers-color-label = Rəng
 containers-button-done =
     .label = Hazır
     .accesskey = D
+containers-remove-alert-title = Bu konteyner silinsin?
 # Variables:
 #   $count (Number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
@@ -41,6 +44,8 @@ containers-remove-alert-msg =
         [one] Əgər bu Konteyneri indi silsəz, { $count } konteyner vərəqi qapadılacaq. Bu Konteyneri silmək istədiyinizə əminsiniz?
        *[other] Əgər bu Konteyneri indi silsəz, { $count } konteyner vərəqi qapadılacaq. Bu Konteyneri silmək istədiyinizə əminsiniz?
     }
+containers-remove-ok-button = Bu konteyneri sil
+containers-remove-cancel-button = Bu konteyneri silmə
 containers-color-blue =
     .label = Göy
 containers-color-turquoise =
