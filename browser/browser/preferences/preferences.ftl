@@ -110,23 +110,6 @@ startup-prev-session =
 disable-extension =
     .label = Désactiver l’extension
 home-page-header = Page d’accueil
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Page courante
-           *[other] Pages courantes
-        }
-    .accesskey = U
-choose-bookmark =
-    .label = Marque-page…
-    .accesskey = m
-restore-default =
-    .label = Restaurer la configuration par défaut
-    .accesskey = R
 tabs-group-header = Onglets
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab fait défiler vos onglets en les classant selon leur dernière utilisation
@@ -301,6 +284,29 @@ network-proxy-connection-settings =
     .label = Paramètres…
     .accesskey = P
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Page courante
+           *[other] Pages courantes
+        }
+    .accesskey = U
+choose-bookmark =
+    .label = Marque-page…
+    .accesskey = m
+restore-default =
+    .label = Restaurer la configuration par défaut
+    .accesskey = R
+
 ## Search Section
 
 search-bar-header = Barre de recherche
@@ -344,3 +350,14 @@ search-keyword-warning-title = Doublon de mot-clé
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Vous avez choisi un mot-clé qui est déjà utilisé par « { $name } ». Veuillez en choisir un autre.
 search-keyword-warning-bookmark = Vous avez choisi un mot-clé qui est déjà utilisé par un marque-page. Veuillez en choisir un autre.
+
+## Containers Section
+
+containers-header = Onglets contextuels
+containers-add-button =
+    .label = Ajouter un nouveau contexte
+    .accesskey = A
+containers-preferences-button =
+    .label = Préférences
+containers-remove-button =
+    .label = Supprimer
