@@ -49,6 +49,9 @@ should-restart-ok = { -brand-short-name } کو ابھی دوباره شروع ک
 cancel-no-restart-button = منسوخ کریں
 restart-later = بعد میں دوباره شروع کریں
 
+## Preferences UI Search Results
+
+
 ## General Section
 
 startup-header = سٹارٹ اپ
@@ -74,23 +77,6 @@ startup-prev-session =
 disable-extension =
     .label = توسیعات نا اہل بنائیں
 home-page-header = ابتدائی صفحہ
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] حالیہ صفحہ برتیں
-           *[other] حالیہ صفحے استعمال کریں
-        }
-    .accesskey = ح
-choose-bookmark =
-    .label = نشانی استعمال کریں…
-    .accesskey = ن
-restore-default =
-    .label = طے شدہ بحال کریں
-    .accesskey = ب
 tabs-group-header = ٹیبس
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab ٹہبس کے زرِیعے دورہ حالیہ اسرتعمال شدپ ترغیب میں
@@ -226,6 +212,29 @@ network-proxy-connection-settings =
     .label = سیٹنگیں…
     .accesskey = س
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] حالیہ صفحہ برتیں
+           *[other] حالیہ صفحے استعمال کریں
+        }
+    .accesskey = ح
+choose-bookmark =
+    .label = نشانی استعمال کریں…
+    .accesskey = ن
+restore-default =
+    .label = طے شدہ بحال کریں
+    .accesskey = ب
+
 ## Search Section
 
 search-bar-header = تلاش بار
@@ -252,3 +261,14 @@ search-keyword-warning-title = کلیدی لفظ مثنی کریں
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = آپ نے ایسا کلیدی لفظ منتخب کیا ہے جسے "{ $name }" اس وقت استعمال کر رہا ہے۔ مہربانی کر کہ کوئی اور منتخب کیجیے۔
 search-keyword-warning-bookmark = آپ نے ایسا کلیدی لفظ منتخب کیا ہے جسے ایک نشانی اس وقت استعمال کر رہی ہے۔ مہربانی کر کہ کوئی اور منتخب کیجیے۔
+
+## Containers Section
+
+containers-header = حامل ٹیبز
+containers-add-button =
+    .label = نئے حامل کا اضافہ کریں
+    .accesskey = ا
+containers-preferences-button =
+    .label = ترجیحات
+containers-remove-button =
+    .label = ہٹائیں
