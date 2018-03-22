@@ -105,23 +105,6 @@ startup-prev-session =
 disable-extension =
     .label = Utwreiding útskeakelje
 home-page-header = Begjinside
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Aktuele side brûke
-           *[other] Aktuele siden brûke
-        }
-    .accesskey = k
-choose-bookmark =
-    .label = Blêdwizer brûke…
-    .accesskey = B
-restore-default =
-    .label = Standert werom bringe
-    .accesskey = w
 tabs-group-header = Ljepblêden
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab rint troch ljepblêden yn koartlyn brûkte folchoarder
@@ -296,6 +279,29 @@ network-proxy-connection-settings =
     .label = Ynstellingen…
     .accesskey = Y
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Aktuele side brûke
+           *[other] Aktuele siden brûke
+        }
+    .accesskey = k
+choose-bookmark =
+    .label = Blêdwizer brûke…
+    .accesskey = B
+restore-default =
+    .label = Standert werom bringe
+    .accesskey = w
+
 ## Search Section
 
 search-bar-header = Sykbalke
@@ -339,3 +345,14 @@ search-keyword-warning-title = Dûbel kaaiwurd
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Jo hawwe in kaaiwurd keazen dat op dit stuit yn gebrûk is troch ‘{ $name }’. Selektearje asjebleaft in oar.
 search-keyword-warning-bookmark = Jo hawwe in kaaiwurd keazen dat op dit stuit yn gebrûk is troch in blêdwizer. Selektearje asjebleaft in oar.
+
+## Containers Section
+
+containers-back-link = « Tebek
+containers-add-button =
+    .label = Nije kontener tafoegje
+    .accesskey = A
+containers-preferences-button =
+    .label = Foarkarren
+containers-remove-button =
+    .label = Fuortsmite
