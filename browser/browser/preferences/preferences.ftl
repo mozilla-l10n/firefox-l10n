@@ -339,6 +339,11 @@ search-keyword-warning-bookmark = Bạn đã chọn một từ khóa hiện đan
 
 ## Containers Section
 
+containers-back-link = « Quay lại
 containers-add-button =
     .label = Thêm ngăn chứa mới
     .accesskey = T
+containers-preferences-button =
+    .label = Tùy chỉnh
+containers-remove-button =
+    .label = Loại bỏ
