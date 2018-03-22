@@ -109,23 +109,6 @@ startup-prev-session =
 disable-extension =
     .label = Dezactivează extensia
 home-page-header = Pagină de start
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Folosește pagina actuală
-           *[other] Folosește paginile actuale
-        }
-    .accesskey = c
-choose-bookmark =
-    .label = Folosește un marcaj…
-    .accesskey = B
-restore-default =
-    .label = Restabilește la opțiunile implicite
-    .accesskey = F
 tabs-group-header = File
 ctrl-tab-recently-used-order =
     .label = Cicluri de Ctrl+Tab printre file în ordinea celor mai folosite recent
@@ -302,6 +285,29 @@ network-proxy-connection-settings =
     .label = Setări…
     .accesskey = e
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Folosește pagina actuală
+           *[other] Folosește paginile actuale
+        }
+    .accesskey = c
+choose-bookmark =
+    .label = Folosește un marcaj…
+    .accesskey = B
+restore-default =
+    .label = Restabilește la opțiunile implicite
+    .accesskey = F
+
 ## Search Section
 
 search-bar-header = Bară de căutare
@@ -345,3 +351,12 @@ search-keyword-warning-title = Cuvânt cheie duplicat
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Ai ales un cuvânt cheie care este folosit actualmente de „{ $name }”. Te rugăm să selectezi altul.
 search-keyword-warning-bookmark = Ai ales un cuvânt cheie care este folosit de un marcaj. Te rugăm să selectezi altul.
+
+## Containers Section
+
+containers-back-link = « Întoarce-te
+containers-header = File container
+containers-preferences-button =
+    .label = Preferințe
+containers-remove-button =
+    .label = Elimină
