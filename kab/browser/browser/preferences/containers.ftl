@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+containers-window-new =
+    .title = Rnu amagbar-nniḍen
+    .style = width: 45em
 # Variables
 #   $name (String) - Name of the container
 containers-window-update =
@@ -34,16 +37,29 @@ containers-button-done =
     .label = Immed
     .accesskey = m
 containers-remove-alert-title = Kkes amagbar-a?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Ma tekkseḍ amagbar-a tura, iccer amagbar { $count } ad ittwamdel. Tebɣiḍ ad tekkseḍ amagbar-a?
+       *[other] Ma tekkseḍ amagbar-a tura, iccer amagbar { $count } ad ittwamdel. Tebɣiḍ ad tekkseḍ amagbar-a?
+    }
 containers-remove-ok-button = Kkes amagbar-a
 containers-remove-cancel-button = Ur tekkes ara amagbar-a
 containers-color-blue =
     .label = Amidadi
+containers-color-turquoise =
+    .label = Azenǧaṛi
 containers-color-green =
     .label = Azegzaw
 containers-color-yellow =
     .label = Awraɣ
 containers-color-orange =
     .label = Ačinawi
+containers-color-red =
+    .label = Azeggaɣ
+containers-color-pink =
+    .label = Axuxi
 containers-color-purple =
     .label = Avyuli
 containers-icon-fingerprint =

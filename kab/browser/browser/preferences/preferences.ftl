@@ -350,6 +350,9 @@ search-keyword-warning-bookmark = Tferneḍ awal n tsarutt i yettusqedcen yakan 
 
 containers-back-link = « Uγal
 containers-header = Iccaren imagbaren
+containers-add-button =
+    .label = Rnu amagbar-nniḍen
+    .accesskey = R
 containers-preferences-button =
     .label = Timsisɣal
 containers-remove-button =
