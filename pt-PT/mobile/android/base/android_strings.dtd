@@ -269,7 +269,7 @@
 <!ENTITY pref_tap_to_load_images_disabled2 "Bloqueado">
 
 <!ENTITY pref_show_web_fonts "Mostrar tipos de letra da web">
-<!ENTITY pref_show_web_fonts_summary2 "Descarregar fontes remotas ao carregar uma página">
+<!ENTITY pref_show_web_fonts_summary2 "Transferir fontes remotas ao carregar uma página">
 
 <!ENTITY pref_tracking_protection_title2 "Proteção contra monitorização">
 <!ENTITY pref_donottrack_title "Do not track">
@@ -381,7 +381,7 @@
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Dados offline do website">
 <!ENTITY pref_private_data_siteSettings2 "Definições do site">
-<!ENTITY pref_private_data_downloadFiles2 "Descargas">
+<!ENTITY pref_private_data_downloadFiles2 "Transferências">
 <!ENTITY pref_private_data_syncedTabs "Separadores sincronizados">
 
 <!ENTITY pref_default_browser "Tornar navegador predefinido">
@@ -445,7 +445,7 @@
 
 <!ENTITY addons "Extras">
 <!ENTITY logins "Credenciais">
-<!ENTITY downloads "Descargas">
+<!ENTITY downloads "Transferências">
 <!ENTITY char_encoding "Codificação de caracteres">
 
 <!ENTITY share "Partilhar">
@@ -698,10 +698,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
  <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Atualização disponível para o &brandShortName;">
-<!ENTITY updater_start_select2 "Toque para descarregar">
+<!ENTITY updater_start_select2 "Toque para transferir">
 
-<!ENTITY updater_downloading_title2 "A descarregar o &brandShortName;">
-<!ENTITY updater_downloading_title_failed2 "Erro ao descarregar">
+<!ENTITY updater_downloading_title2 "A transferir o &brandShortName;">
+<!ENTITY updater_downloading_title_failed2 "Erro ao transferir">
 <!ENTITY updater_downloading_select2 "Toque para aplicar a atualização assim que for transferida">
 <!ENTITY updater_downloading_retry2 "Toque para repetir">
 
@@ -711,7 +711,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "Para descarregar ficheiros e atualizações, autorize o &brandShortName; a aceder ao armazenamento.">
+<!ENTITY updater_permission_text "Para transferir ficheiros e atualizações, autorize o &brandShortName; a aceder ao armazenamento.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 <!ENTITY updater_permission_allow "Permitir">
 
