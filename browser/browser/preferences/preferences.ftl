@@ -110,23 +110,6 @@ startup-prev-session =
 disable-extension =
     .label = عطّل الامتداد
 home-page-header = صفحة البداية
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] استخدم الصفحة الحالية
-           *[other] استخدم الصفحات الحالية
-        }
-    .accesskey = ح
-choose-bookmark =
-    .label = استخدم علامة…
-    .accesskey = ع
-restore-default =
-    .label = استعد المبدئي
-    .accesskey = س
 tabs-group-header = الألسنة
 ctrl-tab-recently-used-order =
     .label = ‏Ctrl+Tab يتنقّل عبر الألسنة حسب ترتيب آخر استخدام
@@ -307,6 +290,29 @@ network-proxy-connection-settings =
     .label = الإعدادات…
     .accesskey = ع
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] استخدم الصفحة الحالية
+           *[other] استخدم الصفحات الحالية
+        }
+    .accesskey = ح
+choose-bookmark =
+    .label = استخدم علامة…
+    .accesskey = ع
+restore-default =
+    .label = استعد المبدئي
+    .accesskey = س
+
 ## Search Section
 
 search-bar-header = شريط البحث
@@ -350,3 +356,15 @@ search-keyword-warning-title = كرر الكلمة المفتاحية
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = لقد اخترت كلمة مفتاحية يستخدمها ”{ $name }“ حاليا. من فضلك اختر واحدة أخرى.
 search-keyword-warning-bookmark = لقد اخترت كلمة مفتاحية تستخدمها علامة حاليا. من فضلك اختر واحدة أخرى.
+
+## Containers Section
+
+containers-back-link = → عد للخلف
+containers-header = الألسنة الحاوية
+containers-add-button =
+    .label = أضف حاوية جديدة
+    .accesskey = ح
+containers-preferences-button =
+    .label = التفضيلات
+containers-remove-button =
+    .label = أزِل
