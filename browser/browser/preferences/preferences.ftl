@@ -14,12 +14,8 @@ pref-page =
             [windows] 選項
            *[other] 偏好設定
         }
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
+# This string is currently used only in Firefox 60 and will be removed when not
+# needed for x-channel. See bug 1445686 for details.
 search-input =
     .style = width: 15.4em
 # This is used to determine the width of the search field in about:preferences,
@@ -45,6 +41,9 @@ policies-notice =
 pane-general-title = 一般
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = 首頁
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = 搜尋
 category-search =
     .tooltiptext = { pane-search-title }
@@ -278,9 +277,26 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = 新視窗與分頁
+home-new-windows-tabs-description = 選擇開啟首頁、新視窗、新分頁時會看到什麼東西
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = 首頁與新視窗
+home-newtabs-mode-label = 新分頁
+home-restore-defaults =
+    .label = 回復為預設值
+    .accesskey = R
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Firefox 首頁（預設值）
+home-mode-choice-custom =
+    .label = 自訂網址…
+home-mode-choice-blank =
+    .label = 空白頁
+home-homepage-custom-url =
+    .placeholder = 貼上網址…
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
