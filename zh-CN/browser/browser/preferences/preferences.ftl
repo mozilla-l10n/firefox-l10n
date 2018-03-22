@@ -110,23 +110,6 @@ startup-prev-session =
 disable-extension =
     .label = 禁用扩展
 home-page-header = 主页
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] 使用当前页面
-           *[other] 使用当前的多个页面
-        }
-    .accesskey = C
-choose-bookmark =
-    .label = 使用书签…
-    .accesskey = B
-restore-default =
-    .label = 恢复默认设置
-    .accesskey = R
 tabs-group-header = 标签页
 ctrl-tab-recently-used-order =
     .label = 按下 Ctrl+Tab 时，依照最近使用顺序循环切换标签页
@@ -301,6 +284,29 @@ network-proxy-connection-settings =
     .label = 设置…
     .accesskey = e
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] 使用当前页面
+           *[other] 使用当前的多个页面
+        }
+    .accesskey = C
+choose-bookmark =
+    .label = 使用书签…
+    .accesskey = B
+restore-default =
+    .label = 恢复默认设置
+    .accesskey = R
+
 ## Search Section
 
 search-bar-header = 搜索栏
@@ -344,3 +350,7 @@ search-keyword-warning-title = 关键词重复
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = 您选择的关键词已用于“{ $name }”，请换一个。
 search-keyword-warning-bookmark = 您选择的关键词已用于某个书签，请换一个。
+
+## Containers Section
+
+containers-back-link = « 返回
