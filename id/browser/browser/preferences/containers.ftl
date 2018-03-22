@@ -22,6 +22,12 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+containers-name-label = Nama
+    .accesskey = N
+    .style = { -containers-labels-style }
+containers-color-label = Warna
+    .accesskey = a
+    .style = { -containers-labels-style }
 containers-button-done =
     .label = Selesai
     .accesskey = S
@@ -56,3 +62,7 @@ containers-icon-cart =
     .label = Keranjang belanja
 containers-icon-circle =
     .label = Titik
+containers-icon-vacation =
+    .label = Liburan
+containers-icon-chill =
+    .label = Dingin
