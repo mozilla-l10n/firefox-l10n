@@ -70,15 +70,13 @@ both, to better adapt this sentence to their language.
 <!ENTITY verifiedManage.accesskey     "o">
 <!ENTITY disconnect3.label            "斷線…">
 <!ENTITY disconnect3.accesskey        "D">
-<!ENTITY verify.label                "驗證電子郵件地址">
-<!ENTITY verify.accesskey            "V">
-<!ENTITY forget.label                "忘記此電子郵件地址">
-<!ENTITY forget.accesskey            "F">
-
 <!ENTITY resendVerification.label     "重寄驗證信">
 <!ENTITY resendVerification.accesskey "d">
 <!ENTITY cancelSetup.label            "取消設定">
 <!ENTITY cancelSetup.accesskey        "p">
+
+<!ENTITY removeAccount.label          "移除帳號">
+<!ENTITY removeAccount.accesskey      "p">
 
 <!ENTITY signedOut.caption            "把 Web 隨身帶著走">
 <!ENTITY signedOut.description        "在您所有裝置間同步書籤、歷史紀錄、分頁、密碼、附加元件與偏好設定。">
