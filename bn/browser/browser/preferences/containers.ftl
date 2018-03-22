@@ -2,6 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+containers-window-new =
+    .title = নতুন কন্টেইনার যোগ
+    .style = width: 45em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update =
+    .title = { $name } কন্টেইনার পছন্দসমূহ
+    .style = 45em
 containers-window-close =
     .key = w
 # This is a term to store style to be applied
@@ -14,9 +22,30 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+containers-name-label = নাম
+    .accesskey = N
+    .style = { -containers-labels-style }
+containers-name-text =
+    .placeholder = কন্টেইনারের নাম লিখুন
+containers-icon-label = আইকন
+    .accesskey = I
+    .style = { -containers-labels-style }
+containers-color-label = রঙ
+    .accesskey = o
+    .style = { -containers-labels-style }
 containers-button-done =
     .label = সম্পন্ন
     .accesskey = D
+containers-remove-alert-title = এই কন্টেইনার সরাতে চান?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] আপনি যদি এখন এই কন্টেইনার মুছে ফেলেন, { $count } ধারক ট্যাব বন্ধ হয়ে যাবে. আপনি কি এই কন্টেইনার সরানোর বিষয়ে নিশ্চিত. যদি আপনি এই কন্টেইনার মুছে ফেলেন, #S ধারক ট্যাব বন্ধ হয়ে যাবে
+       *[other] { " " }আপনি কি নিশ্চিত যে আপনি এই কন্টেইনার সরাতে চান?
+    }
+containers-remove-ok-button = এই কন্টেইনার সরান
+containers-remove-cancel-button = এই কন্টেইনার অপসারণ কর না
 containers-color-blue =
     .label = নীল
 containers-color-turquoise =
@@ -45,3 +74,17 @@ containers-icon-cart =
     .label = বাজারের ঝুড়ি
 containers-icon-circle =
     .label = ডট
+containers-icon-vacation =
+    .label = ছুটি
+containers-icon-gift =
+    .label = উপহার
+containers-icon-food =
+    .label = খাদ্য
+containers-icon-fruit =
+    .label = ফল
+containers-icon-pet =
+    .label = পৌষ্য
+containers-icon-tree =
+    .label = গাছ
+containers-icon-chill =
+    .label = চিল
