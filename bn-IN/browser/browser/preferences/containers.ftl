@@ -2,6 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+containers-window-new =
+    .title = নতুন কন্টেইনার যোগ করুন
+    .style = width: 45em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update =
+    .title = { $name } কন্টেইনার পছন্দ
+    .style = 45em
 containers-window-close =
     .key = w
 # This is a term to store style to be applied
