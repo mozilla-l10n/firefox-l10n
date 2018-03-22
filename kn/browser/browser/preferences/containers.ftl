@@ -2,6 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+containers-window-new =
+    .title = ಹೊಸ ಕಂಟೈನರ್ ಸೇರಿಸಿ
+    .style = width: 45em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update =
+    .title = { $name } ಕಂಟೈನರ್ ಆದ್ಯತೆಗಳು
+    .style = 45em
 containers-window-close =
     .key = w
 # This is a term to store style to be applied
@@ -17,6 +25,8 @@ containers-window-close =
 containers-name-label = ಹೆಸರು
     .accesskey = N
     .style = { -containers-labels-style }
+containers-name-text =
+    .placeholder = ಕಂಟೈನರ್ ಹೆಸರು ನಮೂದಿಸಿ
 containers-icon-label = ಲಾಂಛನ
     .accesskey = I
     .style = { -containers-labels-style }
@@ -26,6 +36,8 @@ containers-color-label = ಬಣ್ಣ
 containers-button-done =
     .label = ಆಯಿತು
     .accesskey = D
+containers-remove-ok-button = ಈ ಕಂಟೇನರ್ ತೆಗೆದುಹಾಕು
+containers-remove-cancel-button = ಈ ಕಂಟೇನರ್ ತೆಗೆದುಹಾಕಬೇಡ
 containers-color-blue =
     .label = ನೀಲಿ
 containers-color-turquoise =
@@ -46,12 +58,22 @@ containers-icon-fingerprint =
     .label = ಬೆರಳಚ್ಚು
 containers-icon-briefcase =
     .label = ಬ್ರೀಫ್ ಕೇಸ್
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+containers-icon-dollar =
+    .label = ಡಾಲರ್ ಚಿಹ್ನೆ
+containers-icon-cart =
+    .label = ಶಾಪಿಂಗ್ ಬುಟ್ಟಿ
 containers-icon-circle =
     .label = ಚುಕ್ಕಿ
 containers-icon-vacation =
     .label = ಬಿಡುವು
+containers-icon-gift =
+    .label = ಕೊಡುಗೆ
 containers-icon-food =
     .label = ಆಹಾರ
+containers-icon-fruit =
+    .label = ಹಣ್ಣು
 containers-icon-pet =
     .label = ಸಾಕುಪ್ರಾಣಿ
 containers-icon-tree =
