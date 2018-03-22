@@ -42,6 +42,8 @@ pane-general-title = Generale
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Pagina prinçipâ
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = Çerca
 category-search =
     .tooltiptext = { pane-search-title }
@@ -283,9 +285,19 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = Neuvi Barcoin e fueggi
+home-new-windows-tabs-description = Çerni cösa ti veu vedde quande ti arvî a teu pagina prinçipâ, neuvi barcoin, e neuvi feuggi
 
 ## Home Section - Home Page Customization
 
+home-newtabs-mode-label = Neuvi feuggi
+home-restore-defaults =
+    .label = Repiggia predefinii
+    .accesskey = R
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Pagina prinçipâ de Firefox (Predefinia)
 home-mode-choice-custom =
     .label = Indirissi cliénti...
 home-mode-choice-blank =
