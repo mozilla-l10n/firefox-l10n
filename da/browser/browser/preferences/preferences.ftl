@@ -350,6 +350,7 @@ search-keyword-warning-bookmark = Du har valgt en genvej som bruges af et bogmæ
 ## Containers Section
 
 containers-back-link = « Gå tilbage
+containers-header = Kontekst-faneblade
 containers-add-button =
     .label = Tilføj ny kontekst
     .accesskey = T
