@@ -110,23 +110,6 @@ startup-prev-session =
 disable-extension =
     .label = Uzantını söndür
 home-page-header = Ana Səhifə
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Hazırkı səhifədən istifadə et
-           *[other] Hazırkı səhifələri istifadə et
-        }
-    .accesskey = H
-choose-bookmark =
-    .label = Əlfəcin istifadə et…
-    .accesskey = Ə
-restore-default =
-    .label = İlkin vəziyyətə qaytar
-    .accesskey = S
 tabs-group-header = Vərəqlər
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab son istifadə etmə sırasına görə vərəqlər arasında dönsün
@@ -301,6 +284,29 @@ network-proxy-connection-settings =
     .label = Nizamlar…
     .accesskey = a
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Hazırkı səhifədən istifadə et
+           *[other] Hazırkı səhifələri istifadə et
+        }
+    .accesskey = H
+choose-bookmark =
+    .label = Əlfəcin istifadə et…
+    .accesskey = Ə
+restore-default =
+    .label = İlkin vəziyyətə qaytar
+    .accesskey = S
+
 ## Search Section
 
 search-bar-header = Axtarış Sətri
@@ -344,3 +350,10 @@ search-keyword-warning-title = Təkrarlanan Açar Söz
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Hazırda “{ $name }” tərəfindən istifadə olunan bir açar söz seçdiniz. Lütfən başqa birini seçin.
 search-keyword-warning-bookmark = Hazırda bir əlfəcin tərəfindən istifadə olunan açar söz seçdiniz. Lütfən başqa birini seçin.
+
+## Containers Section
+
+containers-back-link = « Geri qayıt
+containers-add-button =
+    .label = Yeni konteyner əlavə et
+    .accesskey = A
