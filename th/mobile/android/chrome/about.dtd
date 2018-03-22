@@ -5,7 +5,7 @@
 <!ENTITY aboutPage.warningVersion               "&brandShortName; เป็นรุ่นทดลองและอาจไม่เสถียร">
 <!ENTITY aboutPage.checkForUpdates.link         "ตรวจสอบการอัปเดต »">
 <!ENTITY aboutPage.checkForUpdates.checking     "กำลังมองหาการอัปเดต…">
-<!ENTITY aboutPage.checkForUpdates.none         "ไม่มีการอัปเดตที่ใช้ได้">
+<!ENTITY aboutPage.checkForUpdates.none         "ไม่มีการอัปเดต">
 <!ENTITY aboutPage.checkForUpdates.available2   "ดาวน์โหลดการอัปเดต">
 <!ENTITY aboutPage.checkForUpdates.downloading  "กำลังดาวน์โหลดการอัปเดต…">
 <!ENTITY aboutPage.checkForUpdates.downloaded2  "ติดตั้งการอัปเดต">
