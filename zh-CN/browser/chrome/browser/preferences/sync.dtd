@@ -70,11 +70,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY verifiedManage.accesskey     "o">
 <!ENTITY disconnect3.label            "断开连接…">
 <!ENTITY disconnect3.accesskey        "D">
-<!ENTITY verify.label                "验证邮箱">
-<!ENTITY verify.accesskey            "V">
-<!ENTITY forget.label                "忘记此邮箱">
-<!ENTITY forget.accesskey            "F">
-
 <!ENTITY resendVerification.label     "重发验证邮件">
 <!ENTITY resendVerification.accesskey "d">
 <!ENTITY cancelSetup.label            "取消设置">
@@ -89,7 +84,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin2.accesskey "I">
 
 <!ENTITY signedIn.settings.label       "同步设置">
-<!ENTITY signedIn.settings.description "选择在您的设备上使用 &brandShortName; 时同步哪些内容。">
+<!ENTITY signedIn.settings.description "选择 &brandShortName; 要在您的设备间同步哪些数据。">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
