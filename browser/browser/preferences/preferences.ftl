@@ -110,23 +110,6 @@ startup-prev-session =
 disable-extension =
     .label = נטרול הרחבה
 home-page-header = דף הבית
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] שימוש בדף הנוכחי
-           *[other] שימוש בדפים הנוכחיים
-        }
-    .accesskey = נ
-choose-bookmark =
-    .label = שימוש בסימנייה…
-    .accesskey = ס
-restore-default =
-    .label = שחזור לבררת המחדל
-    .accesskey = ש
 tabs-group-header = לשוניות
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab מחליף את הלשוניות לפי סדר השימוש בהן
@@ -301,6 +284,29 @@ network-proxy-connection-settings =
     .label = הגדרות...
     .accesskey = ה
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] שימוש בדף הנוכחי
+           *[other] שימוש בדפים הנוכחיים
+        }
+    .accesskey = נ
+choose-bookmark =
+    .label = שימוש בסימנייה…
+    .accesskey = ס
+restore-default =
+    .label = שחזור לבררת המחדל
+    .accesskey = ש
+
 ## Search Section
 
 search-bar-header = שורת החיפוש
@@ -344,3 +350,7 @@ search-keyword-warning-title = מילת מפתח כפולה
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = בחרת להשתמש במילת מפתח שנמצאת כרגע בשימוש עבור "{ $name }". אנא בחר במילה אחרת.
 search-keyword-warning-bookmark = בחרת להשתמש במילת מפתח שנמצאת כרגע בשימוש של סימנייה. אנא בחר במילה אחרת.
+
+## Containers Section
+
+containers-back-link = « חזרה
