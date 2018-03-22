@@ -354,6 +354,7 @@ search-keyword-warning-bookmark = Has escogido una palabra clave que está siend
 ## Containers Section
 
 containers-back-link = « Retroceder
+containers-header = Pestañas contenedoras
 containers-add-button =
     .label = Añadir nuevo contenedor
     .accesskey = A
