@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+containers-window-new =
+    .title = Přidat kontejner
+    .style = width: 45em
 # Variables
 #   $name (String) - Name of the container
 containers-window-update =
@@ -30,6 +33,9 @@ containers-icon-label = Ikona
 containers-color-label = Barva
     .accesskey = r
     .style = { -containers-labels-style }
+containers-button-done =
+    .label = Hotovo
+    .accesskey = H
 containers-remove-alert-title = Odstranit tento kontejner?
 # Variables:
 #   $count (Number) - Number of tabs that will be closed.
@@ -41,6 +47,22 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Odstranit tento kontejner
 containers-remove-cancel-button = Neodstraňovat tento kontejner
+containers-color-blue =
+    .label = Modrá
+containers-color-turquoise =
+    .label = Tyrkysová
+containers-color-green =
+    .label = Zelená
+containers-color-yellow =
+    .label = Žlutá
+containers-color-orange =
+    .label = Oranžová
+containers-color-red =
+    .label = Červená
+containers-color-pink =
+    .label = Růžová
+containers-color-purple =
+    .label = Fialová
 containers-icon-fingerprint =
     .label = Otisk
 containers-icon-briefcase =
@@ -49,6 +71,10 @@ containers-icon-briefcase =
 # so don't change to local currency. See Bug 1291672.
 containers-icon-dollar =
     .label = Značka dolaru
+containers-icon-cart =
+    .label = Nákupní košík
+containers-icon-circle =
+    .label = Tečka
 containers-icon-vacation =
     .label = Dovolená
 containers-icon-gift =
