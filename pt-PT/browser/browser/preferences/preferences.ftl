@@ -106,23 +106,6 @@ startup-prev-session =
 disable-extension =
     .label = Desativar extensão
 home-page-header = Página inicial
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Utilizar a página atual
-           *[other] Utilizar páginas atuais
-        }
-    .accesskey = u
-choose-bookmark =
-    .label = Utilizar marcador…
-    .accesskey = m
-restore-default =
-    .label = Restaurar predefinição
-    .accesskey = R
 tabs-group-header = Separadores
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab atravessa em ciclo os separadores na ordem de recentemente utilizados
@@ -297,6 +280,29 @@ network-proxy-connection-settings =
     .label = Definições…
     .accesskey = e
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Utilizar a página atual
+           *[other] Utilizar páginas atuais
+        }
+    .accesskey = u
+choose-bookmark =
+    .label = Utilizar marcador…
+    .accesskey = m
+restore-default =
+    .label = Restaurar predefinição
+    .accesskey = R
+
 ## Search Section
 
 search-bar-header = Barra de pesquisa
@@ -340,3 +346,15 @@ search-keyword-warning-title = Palavra-chave duplicada
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Escolheu uma palavra-chave que está atualmente a ser utilizada por “{ $name }”. Por favor, selecione outra.
 search-keyword-warning-bookmark = Escolheu uma palavra chave que está a ser utilizada por um marcador. Por favor, escolha outra.
+
+## Containers Section
+
+containers-back-link = « Retroceder
+containers-header = Separadores contentores
+containers-add-button =
+    .label = Adicionar novo contentor
+    .accesskey = A
+containers-preferences-button =
+    .label = Preferências
+containers-remove-button =
+    .label = Remover
