@@ -166,7 +166,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.intlTitle "国际化与本地化">
 <!ENTITY aboutSupport.intlAppTitle "应用程序设置">
-<!ENTITY aboutSupport.intlLocalesRequested "需要的语言环境">
+<!ENTITY aboutSupport.intlLocalesRequested "要求的语言环境">
 <!ENTITY aboutSupport.intlLocalesAvailable "可用的语言环境">
 <!ENTITY aboutSupport.intlLocalesSupported "应用程序语言环境">
 <!ENTITY aboutSupport.intlLocalesDefault "默认语言环境">
