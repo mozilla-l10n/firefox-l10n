@@ -45,8 +45,6 @@
 
 <!ENTITY viewMenu_label "视图">
 <!ENTITY viewMenu_accesskey "V">
-<!ENTITY viewMenu_toggleEditor_label "切换编辑器">
-<!ENTITY viewMenu_toggleEditor_accesskey "E">
 <!ENTITY viewMenu_zoomin_label "放大">
 <!ENTITY viewMenu_zoomin_accesskey "I">
 <!ENTITY viewMenu_zoomout_label "缩小">
@@ -66,8 +64,6 @@
 <!ENTITY key_play "R">
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
-<!-- toggle sidebar -->
-<!ENTITY key_toggleEditor "B">
 <!-- zoom -->
 <!ENTITY key_zoomin "+">
 <!ENTITY key_zoomin2 "=">
@@ -79,9 +75,7 @@
 <!ENTITY projectPanel_tabs "标签页">
 <!ENTITY runtimePanel_usb "USB 设备">
 <!ENTITY runtimePanel_wifi "Wi-Fi 设备">
-<!ENTITY runtimePanel_simulator "模拟器">
 <!ENTITY runtimePanel_other "其他">
-<!ENTITY runtimePanel_installsimulator "安装模拟器">
 <!ENTITY runtimePanel_noadbhelper "安装 ADB 助手">
 <!ENTITY runtimePanel_nousbdevice "看不到您的设备？">
 <!ENTITY runtimePanel_refreshDevices_label "刷新设备">
@@ -94,7 +88,6 @@
 <!ENTITY details_location "位置">
 <!ENTITY details_manifestURL "应用 ID">
 <!ENTITY details_removeProject_button "移除项目">
-<!ENTITY details_showPrepackageLog_button "显示预打包日志">
 
 <!-- New App -->
 <!ENTITY newAppWindowTitle "新建应用">
@@ -123,21 +116,6 @@
 <!ENTITY prefs_options_rememberlastproject_tooltip "WebIDE 启动时恢复上一次的项目">
 <!ENTITY prefs_options_templatesurl "模板位置 URL">
 <!ENTITY prefs_options_templatesurl_tooltip "可用模板的索引">
-<!ENTITY prefs_options_showeditor "显示编辑器">
-<!ENTITY prefs_options_showeditor_tooltip "显示内部编辑器">
-<!ENTITY prefs_options_tabsize "缩进尺寸">
-<!ENTITY prefs_options_expandtab "软制表符">
-<!ENTITY prefs_options_expandtab_tooltip "使用空格代替制表符">
-<!ENTITY prefs_options_detectindentation "自动缩排">
-<!ENTITY prefs_options_detectindentation_tooltip "基于源内容推测缩进">
-<!ENTITY prefs_options_autocomplete "自动完成">
-<!ENTITY prefs_options_autocomplete_tooltip "启用自动完成代码">
-<!ENTITY prefs_options_autoclosebrackets "自动关闭括号">
-<!ENTITY prefs_options_autoclosebrackets_tooltip "自动插入关闭括号">
-<!ENTITY prefs_options_keybindings "按键绑定">
-<!ENTITY prefs_options_keybindings_default "默认">
-<!ENTITY prefs_options_autosavefiles "自动保存文件">
-<!ENTITY prefs_options_autosavefiles_tooltip "运行项目前自动保存已编辑的文件">
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "运行环境信息">
@@ -189,24 +167,8 @@
 <!ENTITY wifi_auth_yes_scanner "有二维码扫描设备？">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
-<!ENTITY wifi_auth_token_request "如果您的其他设备要求您提供一个令牌而不是扫描一个二维码，请把下面的值复制到该设备中：">
+<!ENTITY wifi_auth_token_request "如果您的另一台设备要求您直接提供令牌而非扫描二维码，请把下面的值复制到该设备中：">
 <!ENTITY wifi_auth_qr_size_note "如果显示的用于建立连接的二维码太小，请尝试放大网页或拉大窗口。">
 
 <!-- Logs panel -->
 <!ENTITY logs_title "预打包命令日志">
-
-<!-- Simulator Options -->
-<!ENTITY simulator_title "模拟器选项">
-<!ENTITY simulator_remove "删除模拟器">
-<!ENTITY simulator_reset "恢复默认设置">
-<!ENTITY simulator_name "名称">
-<!ENTITY simulator_software "软件">
-<!ENTITY simulator_version "版本">
-<!ENTITY simulator_profile "配置文件">
-<!ENTITY simulator_hardware "硬件">
-<!ENTITY simulator_device "设备">
-<!ENTITY simulator_screenSize "屏幕">
-<!ENTITY simulator_pixelRatio "像素比例">
-<!ENTITY simulator_tv_data "电视模拟器">
-<!ENTITY simulator_tv_data_open "配置数据">
-<!ENTITY simulator_tv_data_open_button "打开配置文件目录…">
