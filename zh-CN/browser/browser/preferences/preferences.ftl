@@ -354,3 +354,10 @@ search-keyword-warning-bookmark = 您选择的关键词已用于某个书签，�
 ## Containers Section
 
 containers-back-link = « 返回
+containers-add-button =
+    .label = 添加新身份
+    .accesskey = A
+containers-preferences-button =
+    .label = 首选项
+containers-remove-button =
+    .label = 移除
