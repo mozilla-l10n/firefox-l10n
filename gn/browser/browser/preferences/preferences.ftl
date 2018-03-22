@@ -110,23 +110,6 @@ startup-prev-session =
 disable-extension =
     .label = Moĩmbaha Monge
 home-page-header = Kuatiarogue ñepyrũ
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Kuatiarogue Ag̃agua jepuru
-           *[other] Kuatiarogue ag̃agua jepuru
-        }
-    .accesskey = C
-choose-bookmark =
-    .label = Techaukaha puru…
-    .accesskey = B
-restore-default =
-    .label = Embojevy heko ypykuépe
-    .accesskey = R
 tabs-group-header = Tendayke
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab cycles tendayke rupive eipuru ramovévape
@@ -301,6 +284,29 @@ network-proxy-connection-settings =
     .label = Ñemboheko…
     .accesskey = e
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Kuatiarogue Ag̃agua jepuru
+           *[other] Kuatiarogue ag̃agua jepuru
+        }
+    .accesskey = C
+choose-bookmark =
+    .label = Techaukaha puru…
+    .accesskey = B
+restore-default =
+    .label = Embojevy heko ypykuépe
+    .accesskey = R
+
 ## Search Section
 
 search-bar-header = Jeheka Renda
@@ -344,3 +350,15 @@ search-keyword-warning-title = Jehero jo'apyre{ " " }
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Eiporavókuri peteĩ jehero oipurúmava "{ $name }". Ikatúpiko eiporavo ambue.
 search-keyword-warning-bookmark = Eiporavókuri peteĩ jehero oipurúmava ambue techaukaha. Ikatúpiko eiporavo ambue.
+
+## Containers Section
+
+containers-back-link = « Ou jey
+containers-header = Tendayke guerekoha
+containers-add-button =
+    .label = Embojuaju guerekoha pyahu
+    .accesskey = E
+containers-preferences-button =
+    .label = Jerohoryvéva
+containers-remove-button =
+    .label = Mboguete
