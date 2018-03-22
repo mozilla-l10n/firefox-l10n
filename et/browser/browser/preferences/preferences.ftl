@@ -110,23 +110,6 @@ startup-prev-session =
 disable-extension =
     .label = Keela see laiendus
 home-page-header = Avaleht
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Kasuta aktiivset veebilehte
-           *[other] Kasuta aktiivseid veebilehti
-        }
-    .accesskey = K
-choose-bookmark =
-    .label = Kasuta järjehoidjat…
-    .accesskey = j
-restore-default =
-    .label = Taasta vaikeväärtus
-    .accesskey = r
 tabs-group-header = Kaardid
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab liigub kaartide vahel viimase kasutamise järjekorras
@@ -301,6 +284,29 @@ network-proxy-connection-settings =
     .label = Sätted...
     .accesskey = e
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Kasuta aktiivset veebilehte
+           *[other] Kasuta aktiivseid veebilehti
+        }
+    .accesskey = K
+choose-bookmark =
+    .label = Kasuta järjehoidjat…
+    .accesskey = j
+restore-default =
+    .label = Taasta vaikeväärtus
+    .accesskey = r
+
 ## Search Section
 
 search-bar-header = Otsinguriba
@@ -344,3 +350,14 @@ search-keyword-warning-title = Korduv võtmesõna
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Sa valisid võtmesõna, mis on kasutusel juba otsingumootori "{ $name }" juures. Palun vali mõni muu.
 search-keyword-warning-bookmark = Sa valisid võtmesõna, mis on kasutusel järjehoidja juures. Palun vali mõni muu.
+
+## Containers Section
+
+containers-back-link = « Tagasi
+containers-add-button =
+    .label = Lisa uus konteiner
+    .accesskey = L
+containers-preferences-button =
+    .label = Eelistused
+containers-remove-button =
+    .label = Eemalda
