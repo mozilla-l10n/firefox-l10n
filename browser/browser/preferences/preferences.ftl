@@ -103,23 +103,6 @@ startup-prev-session =
 disable-extension =
     .label = Deactivar l'extensiun
 home-page-header = Pagina da partenza
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Utilisar la pagina actuala
-           *[other] Utilisar las paginas actualas
-        }
-    .accesskey = g
-choose-bookmark =
-    .label = Utilisar segnapaginas…
-    .accesskey = l
-restore-default =
-    .label = Restaurar il standard
-    .accesskey = R
 tabs-group-header = Tabs
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab siglia dad in tab a l'auter en la successiun da l'ultima utilisaziun
@@ -290,6 +273,29 @@ network-proxy-connection-settings =
     .label = Parameters…
     .accesskey = P
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Utilisar la pagina actuala
+           *[other] Utilisar las paginas actualas
+        }
+    .accesskey = g
+choose-bookmark =
+    .label = Utilisar segnapaginas…
+    .accesskey = l
+restore-default =
+    .label = Restaurar il standard
+    .accesskey = R
+
 ## Search Section
 
 search-bar-header = Trav da tschertgar
@@ -326,3 +332,14 @@ search-keyword-warning-title = Duplitgar il pled magic
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Ti has tschernì in pled magic che vegn gia utilisà da "{ $name }". Tscherna per plaschair in auter.
 search-keyword-warning-bookmark = Ti has tschernì in pled magic che vegn gia utilisà d'in segnapagina. Tscherna per plaschair in auter.
+
+## Containers Section
+
+containers-back-link = « Turnar
+containers-add-button =
+    .label = Agiuntar in nov container
+    .accesskey = A
+containers-preferences-button =
+    .label = Preferenzas
+containers-remove-button =
+    .label = Allontanar
