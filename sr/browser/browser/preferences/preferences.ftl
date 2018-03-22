@@ -110,23 +110,6 @@ startup-prev-session =
 disable-extension =
     .label = Онемогући екстензију
 home-page-header = Почетна страница
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Користи тренутну страницу
-           *[other] Користи тренутне странице
-        }
-    .accesskey = т
-choose-bookmark =
-    .label = Користи забелешку…
-    .accesskey = з
-restore-default =
-    .label = Врати на подразумевану
-    .accesskey = В
 tabs-group-header = Језичци
 ctrl-tab-recently-used-order =
     .label = Кретање кроз недавно коришћене језичке уз Ctrl+Tab
@@ -303,6 +286,29 @@ network-proxy-connection-settings =
     .label = Поставке…
     .accesskey = П
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Користи тренутну страницу
+           *[other] Користи тренутне странице
+        }
+    .accesskey = т
+choose-bookmark =
+    .label = Користи забелешку…
+    .accesskey = з
+restore-default =
+    .label = Врати на подразумевану
+    .accesskey = В
+
 ## Search Section
 
 search-bar-header = Трака за претрагу
@@ -346,3 +352,13 @@ search-keyword-warning-title = Поновљена кључна реч
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Изабрали сте кључну реч коју тренутно користи "{ $name }". Одаберете неку другу.
 search-keyword-warning-bookmark = Изабрали сте кључну реч коју тренутно користи забелешка. Одаберете неку другу.
+
+## Containers Section
+
+containers-add-button =
+    .label = Додај нови контејнер
+    .accesskey = Д
+containers-preferences-button =
+    .label = Поставке
+containers-remove-button =
+    .label = Уклони
