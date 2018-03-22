@@ -109,23 +109,6 @@ startup-prev-session =
 disable-extension =
     .label = Deaktiver udvidelse
 home-page-header = Startside:
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Anvend nuværende side
-           *[other] Anvend nuværende sider
-        }
-    .accesskey = n
-choose-bookmark =
-    .label = Anvend bogmærke…
-    .accesskey = b
-restore-default =
-    .label = Gendan standard
-    .accesskey = G
 tabs-group-header = Faneblade
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tabulator-tasten skifter mellem de senest anvendte faneblade
@@ -297,6 +280,29 @@ network-proxy-connection-settings =
     .label = Indstillinger…
     .accesskey = I
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Anvend nuværende side
+           *[other] Anvend nuværende sider
+        }
+    .accesskey = n
+choose-bookmark =
+    .label = Anvend bogmærke…
+    .accesskey = b
+restore-default =
+    .label = Gendan standard
+    .accesskey = G
+
 ## Search Section
 
 search-bar-header = Søgelinje
@@ -340,3 +346,14 @@ search-keyword-warning-title = Genvej findes allerede
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Du har valgt en genvej som allerede bruges af "{ $name }". Vælg venligst en anden.
 search-keyword-warning-bookmark = Du har valgt en genvej som bruges af et bogmærke. Vælg venligst en anden.
+
+## Containers Section
+
+containers-back-link = « Gå tilbage
+containers-add-button =
+    .label = Tilføj ny kontekst
+    .accesskey = T
+containers-preferences-button =
+    .label = Indstillinger
+containers-remove-button =
+    .label = Fjern
