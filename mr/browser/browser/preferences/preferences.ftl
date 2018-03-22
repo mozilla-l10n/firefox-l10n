@@ -104,23 +104,6 @@ startup-prev-session =
 disable-extension =
     .label = वाढीव कार्यक्रम निष्क्रिय करा
 home-page-header = मुख्य पृष्ठ
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] सध्याच्या पृष्ठाचे वापर करा
-           *[other] सध्याच्या पृष्ठांचा वापर करा
-        }
-    .accesskey = C
-choose-bookmark =
-    .label = वाचनखूणाचा वापर करा…
-    .accesskey = B
-restore-default =
-    .label = पूर्वनिर्धारित स्थितीत आणा
-    .accesskey = R
 tabs-group-header = टॅब्ज
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab वापरलेल्या क्रमामध्ये टॅब्स बदली करते
@@ -295,6 +278,29 @@ network-proxy-connection-settings =
     .label = सेटिंग्ज…
     .accesskey = e
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] सध्याच्या पृष्ठाचे वापर करा
+           *[other] सध्याच्या पृष्ठांचा वापर करा
+        }
+    .accesskey = C
+choose-bookmark =
+    .label = वाचनखूणाचा वापर करा…
+    .accesskey = B
+restore-default =
+    .label = पूर्वनिर्धारित स्थितीत आणा
+    .accesskey = R
+
 ## Search Section
 
 search-bar-header = शोध पट्टी
@@ -338,3 +344,15 @@ search-keyword-warning-title = समान मुख्यशब्द
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = आपण सध्या "{ $name }" द्वारे वापरण्यात आलेला कीवर्ड निवडला आहे. कृपया अन्य निवडा.
 search-keyword-warning-bookmark = आपण सध्या वाचनखूणाद्वारे वापरण्यात आलेला कीवर्ड निवडला आहे. कृपया अन्य निवडा.
+
+## Containers Section
+
+containers-back-link = « मागे जा
+containers-header = कंटेनर टॅब्स
+containers-add-button =
+    .label = नवीन कंटेनर जोडा
+    .accesskey = A
+containers-preferences-button =
+    .label = प्राधान्यक्रम
+containers-remove-button =
+    .label = काढून टाका
