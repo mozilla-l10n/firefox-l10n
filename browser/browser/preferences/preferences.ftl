@@ -356,6 +356,9 @@ search-keyword-warning-bookmark = Zvolili jste klíčové slovo, které už je p
 ## Containers Section
 
 containers-back-link = « Jít zpět
+containers-add-button =
+    .label = Přidat kontejner
+    .accesskey = a
 containers-preferences-button =
     .label = Předvolby
 containers-remove-button =
