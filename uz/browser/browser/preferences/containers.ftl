@@ -22,11 +22,21 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+containers-name-label = Ismi
+    .accesskey = I
+    .style = { -containers-labels-style }
 containers-name-text =
     .placeholder = Konteyner nomini kiriting
+containers-icon-label = Belgi
+    .accesskey = B
+    .style = { -containers-labels-style }
+containers-color-label = Rangi
+    .accesskey = o
+    .style = { -containers-labels-style }
 containers-button-done =
     .label = Tayyor
     .accesskey = T
+containers-remove-alert-title = Bu konteyner olib tashlansinmi?
 containers-color-blue =
     .label = Ko‘k
 containers-color-turquoise =
