@@ -398,6 +398,7 @@
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Genel">
 <!ENTITY read.only.title.label           "Başlık:">
+<!ENTITY read.only.calendar.label        "Takvim:">
 <!ENTITY read.only.event.start.label     "Başlangıç tarihi:">
 <!ENTITY read.only.task.start.label      "Başlangıç tarihi:">
 <!ENTITY read.only.event.end.label       "Bitiş tarihi:">
@@ -416,3 +417,8 @@
 <!ENTITY read.only.attendees.label       "Katılımcılar">
 <!ENTITY read.only.description.label     "Açıklama">
 <!ENTITY read.only.link.label            "İlgili bağlantı">
+
+<!-- Summary dialog -->
+<!ENTITY summary.dialog.saveclose.label         "Kaydet ve kapat">
+<!ENTITY summary.dialog.accept.label            "Kabul et">
+<!ENTITY summary.dialog.accept.tooltiptext      "Daveti kabul et">
