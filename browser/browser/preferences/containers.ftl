@@ -10,6 +10,8 @@ containers-window-new =
 containers-window-update =
     .title = Προτιμήσεις θεματικής ενότητας { $name }
     .style = 45em
+containers-window-close =
+    .key = w
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -35,6 +37,13 @@ containers-button-done =
     .label = Τέλος
     .accesskey = Τ
 containers-remove-alert-title = Αφαίρεση θεματικής ενότητας;
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Αν αφαιρέσετε αυτή τη θεματική κατηγορία τώρα, θα κλείσει { $count } θεματική καρτέλα. Θέλετε σίγουρα να αφαιρέσετε αυτή τη θεματική κατηγορία;
+       *[other] Αν αφαιρέσετε αυτή τη θεματική κατηγορία τώρα, θα κλείσουν { $count } θεματικές καρτέλες. Θέλετε σίγουρα να αφαιρέσετε αυτή τη θεματική κατηγορία;
+    }
 containers-remove-ok-button = Αφαίρεση αυτής της θεματικής κατηγορίας
 containers-remove-cancel-button = Να μην αφαιρεθεί η θεματική κατηγορία
 containers-color-blue =
