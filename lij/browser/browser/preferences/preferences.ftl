@@ -290,6 +290,7 @@ home-new-windows-tabs-description = Çerni cösa ti veu vedde quande ti arvî a 
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Pagina prinçipâ e neuvi barcoin
 home-newtabs-mode-label = Neuvi feuggi
 home-restore-defaults =
     .label = Repiggia predefinii
