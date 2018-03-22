@@ -335,6 +335,7 @@ search-keyword-warning-bookmark = বর্তমানে একটি বু�
 
 ## Containers Section
 
+containers-header = কন্টেইনার ট্যাব
 containers-add-button =
     .label = একটি কন্টেইনার যোগ করুন
     .accesskey = A
