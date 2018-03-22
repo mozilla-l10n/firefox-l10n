@@ -75,6 +75,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY cancelSetup.label            "Katkesta seadistamine">
 <!ENTITY cancelSetup.accesskey        "s">
 
+<!ENTITY removeAccount.label          "Eemalda konto">
+<!ENTITY removeAccount.accesskey      "E">
+
 <!ENTITY signedOut.caption            "Võta oma veeb endaga kaasa">
 <!ENTITY signedOut.description        "Sync võimaldab sul sünkroniseerida järjehoidjad, ajaloo, kaardid, paroolid, lisad ja sätted kõigis sinu seadmetes.">
 <!ENTITY signedOut.accountBox.title   "Ühendu &syncBrand.fxAccount.label;ga">
