@@ -104,23 +104,6 @@ startup-prev-session =
 disable-extension =
     .label = ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਅਸਮਰੱਥ ਕਰੋ
 home-page-header = ਮੁੱਖ ਸਫ਼ਾ
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] ਮੇਰੇ ਮੌਜੂਦਾ ਸਫ਼ੇ ਨੂੰ ਵਰਤੋਂ
-           *[other] ਮੌਜੂਦਾ ਸਫ਼ੇ ਨੂੰ ਵਰਤੋਂ
-        }
-    .accesskey = C
-choose-bookmark =
-    .label = …ਬੁੱਕਮਾਰਕ ਨੂੰ ਵਰਤੋਂ
-    .accesskey = B
-restore-default =
-    .label = ਮੂਲ ਨੂੰ ਮੁੜ-ਸਟੋਰ ਕਰੋ
-    .accesskey = R
 tabs-group-header = Tabs
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab cycles through tabs in recently used order
@@ -287,6 +270,29 @@ network-proxy-connection-settings =
     .label = …ਸੈਟਿੰਗ
     .accesskey = e
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] ਮੇਰੇ ਮੌਜੂਦਾ ਸਫ਼ੇ ਨੂੰ ਵਰਤੋਂ
+           *[other] ਮੌਜੂਦਾ ਸਫ਼ੇ ਨੂੰ ਵਰਤੋਂ
+        }
+    .accesskey = C
+choose-bookmark =
+    .label = …ਬੁੱਕਮਾਰਕ ਨੂੰ ਵਰਤੋਂ
+    .accesskey = B
+restore-default =
+    .label = ਮੂਲ ਨੂੰ ਮੁੜ-ਸਟੋਰ ਕਰੋ
+    .accesskey = R
+
 ## Search Section
 
 search-bar-header = ਖੋਜ ਪੱਟੀ
@@ -330,3 +336,14 @@ search-keyword-warning-title = ਡੁਪਲੀਕੇਟ ਸ਼ਬਦ
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = ਤੁਸੀਂ ਸ਼ਬਦ ਨੂੰ ਚੁਣਿਆ ਹੈ, ਜੋ ਕਿ ਇਸ ਸਮੇਂ "{ $name }" ਵਰਤੋਂ ਵਰਤਿਆ ਜਾ ਰਿਹਾ ਹੈ। ਹੋਰ ਨੂੰ ਚੁਣੋ ਜੀ।
 search-keyword-warning-bookmark = ਤੁਸੀਂ ਸ਼ਬਦ ਨੂੰ ਚੁਣਿਆ ਹੈ, ਜੋ ਕਿ ਇਸ ਸਮੇਂ ਬੁੱਕਮਾਰਕ ਵਰਤੋਂ ਲਈ ਵਰਤਿਆ ਜਾ ਰਿਹਾ ਹੈ। ਹੋਰ ਨੂੰ ਚੁਣੋ ਜੀ।
+
+## Containers Section
+
+containers-header = ਕਨਟੇਨਰ ਟੈਬਾਂ
+containers-add-button =
+    .label = ਨਵਾਂ ਕਨਟੇਨਰ ਜੋੜੋ
+    .accesskey = A
+containers-preferences-button =
+    .label = ਮੇਰੀ ਪਸੰਦ
+containers-remove-button =
+    .label = ਹਟਾਓ
