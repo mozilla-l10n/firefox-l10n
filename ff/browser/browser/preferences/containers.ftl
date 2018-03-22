@@ -22,8 +22,17 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+containers-name-label = Innde
+    .accesskey = N
+    .style = { -containers-labels-style }
 containers-name-text =
     .placeholder = Winndu innde mooftirde
+containers-icon-label = Ikon
+    .accesskey = I
+    .style = { -containers-labels-style }
+containers-color-label = Noordi
+    .accesskey = o
+    .style = { -containers-labels-style }
 containers-button-done =
     .label = Gasii
     .accesskey = G

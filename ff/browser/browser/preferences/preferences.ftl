@@ -348,6 +348,7 @@ search-keyword-warning-bookmark = A suɓiima helmere yiylorde wonnde e huutoreed
 
 ## Containers Section
 
+containers-back-link = « Rutto Caggal
 containers-header = Tabbe Mooftirɗe
 containers-add-button =
     .label = Ɓeydu Mooftiree Hesere
