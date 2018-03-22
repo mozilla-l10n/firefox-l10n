@@ -20,3 +20,23 @@
 
 <!ENTITY finishpage.shortdescription  "Takvim oluşturuldu" >
 <!ENTITY finishpage.longdescription   "Takviminiz oluşturuldu." >
+
+<!-- Below are new strings for the revised new calendar dialog. The above strings should be
+    removed/renamed later on -->
+
+<!ENTITY sourcetabs.other.label  "Diğer">
+
+<!ENTITY buttons.create.label "Takvim oluştur">
+<!ENTITY buttons.create.accesskey "r">
+
+
+<!ENTITY buttons.back.label "Geri">
+<!ENTITY buttons.back.accesskey "G">
+
+<!ENTITY buttons.subscribe.label "Abone ol">
+<!ENTITY buttons.subscribe.accesskey "A">
+
+<!ENTITY calendartype.label "Takvim türü:">
+<!ENTITY location.label "Konum:">
+
+
