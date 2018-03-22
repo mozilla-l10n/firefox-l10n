@@ -2,6 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+containers-window-new =
+    .title = Aldoni novan ingon
+    .style = width: 45em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update =
+    .title = Preferoj por ingoj de { $name }
+    .style = 45em
 containers-window-close =
     .key = w
 # This is a term to store style to be applied
@@ -14,8 +22,17 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+containers-name-label = Nomo
+    .accesskey = N
+    .style = { -containers-labels-style }
 containers-name-text =
     .placeholder = Tajpu nomon de ingo
+containers-icon-label = Emblemo
+    .accesskey = E
+    .style = { -containers-labels-style }
+containers-color-label = Koloro
+    .accesskey = K
+    .style = { -containers-labels-style }
 containers-button-done =
     .label = Farita
     .accesskey = F
@@ -57,3 +74,17 @@ containers-icon-cart =
     .label = Aĉetĉareto
 containers-icon-circle =
     .label = Punkto
+containers-icon-vacation =
+    .label = Ferioj
+containers-icon-gift =
+    .label = Donaco
+containers-icon-food =
+    .label = Manĝaĵo
+containers-icon-fruit =
+    .label = Frukto
+containers-icon-pet =
+    .label = Hejmbesto
+containers-icon-tree =
+    .label = Arbo
+containers-icon-chill =
+    .label = Malstreĉo
