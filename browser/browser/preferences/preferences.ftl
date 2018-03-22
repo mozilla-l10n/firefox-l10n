@@ -110,23 +110,6 @@ startup-prev-session =
 disable-extension =
     .label = 확장기능 비활성화
 home-page-header = 홈 페이지
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] 현재 페이지
-           *[other] 현재 탭
-        }
-    .accesskey = C
-choose-bookmark =
-    .label = 북마크 사용…
-    .accesskey = B
-restore-default =
-    .label = 초기 설정
-    .accesskey = R
 tabs-group-header = 탭
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab으로 최근 사용한 순서대로 탭 순환
@@ -293,6 +276,29 @@ network-proxy-connection-settings =
     .label = 설정…
     .accesskey = e
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] 현재 페이지
+           *[other] 현재 탭
+        }
+    .accesskey = C
+choose-bookmark =
+    .label = 북마크 사용…
+    .accesskey = B
+restore-default =
+    .label = 초기 설정
+    .accesskey = R
+
 ## Search Section
 
 search-bar-header = 검색 표시줄
@@ -336,3 +342,14 @@ search-keyword-warning-title = 키워드 복사
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = "{ $name }"에서 이미 사용 중인 키워드를 선택했습니다. 다른 것을 선택하십시오.
 search-keyword-warning-bookmark = 북마크에서 이미 사용 중인 키워드를 선택했습니다. 다른 것을 선택하십시오.
+
+## Containers Section
+
+containers-back-link = « 뒤로가기
+containers-add-button =
+    .label = 새 컨테이너 추가
+    .accesskey = A
+containers-preferences-button =
+    .label = 설정
+containers-remove-button =
+    .label = 삭제

@@ -2,19 +2,50 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+containers-window-new =
+    .title = 새 컨테이너 추가
+    .style = width: 45em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update =
+    .title = { $name } 컨테이너 설정
+    .style = 45em
 containers-window-close =
     .key = w
+# This is a term to store style to be applied
+# on the three labels in the containers add/edit dialog:
+#   - name
+#   - icon
+#   - color
+#
+# Using this term and referencing it in the `.style` attribute
+# of the three messages ensures that all three labels
+# will be aligned correctly.
+-containers-labels-style = min-width: 4rem
 containers-name-label = 이름
     .accesskey = N
     .style = { -containers-labels-style }
+containers-name-text =
+    .placeholder = 컨테이너 이름 입력
 containers-icon-label = 아이콘
     .accesskey = I
     .style = { -containers-labels-style }
 containers-color-label = 색깔
     .accesskey = o
     .style = { -containers-labels-style }
+containers-button-done =
+    .label = 완료
+    .accesskey = D
+containers-remove-alert-title = 이 컨테이너를 삭제하시겠습니까?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg = 이 컨테이너를 삭제하면 { $count } 컨테이너 탭이 닫힙니다. 이 컨테이너를 정말로 삭제하시겠습니까?
+containers-remove-ok-button = 이 컨테이너 삭제
+containers-remove-cancel-button = 이 컨테이너 삭제하지 않음
 containers-color-blue =
     .label = 파랑
+containers-color-turquoise =
+    .label = 청록
 containers-color-green =
     .label = 초록
 containers-color-yellow =
@@ -37,6 +68,10 @@ containers-icon-dollar =
     .label = 달러 기호
 containers-icon-cart =
     .label = 쇼핑 카트
+containers-icon-circle =
+    .label = 점
+containers-icon-vacation =
+    .label = 휴가
 containers-icon-gift =
     .label = 선물
 containers-icon-food =
@@ -47,3 +82,5 @@ containers-icon-pet =
     .label = 애완동물
 containers-icon-tree =
     .label = 나무
+containers-icon-chill =
+    .label = 추운
