@@ -22,11 +22,46 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+containers-name-label = Nome
+    .accesskey = N
+    .style = { -containers-labels-style }
 containers-name-text =
     .placeholder = Digitar um nome para o contêiner
+containers-icon-label = Ícone
+    .accesskey = I
+    .style = { -containers-labels-style }
+containers-color-label = Cor
+    .accesskey = o
+    .style = { -containers-labels-style }
 containers-button-done =
     .label = Concluído
     .accesskey = C
+containers-remove-alert-title = Remover este contêiner?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Se você remover este Contêiner agora, { $count } aba contêiner será fechada. Você tem certeza que deseja remover este Contêiner?
+       *[other] Se você remover este Contêiner agora, { $count } abas contêiner serão fechadas. Você tem certeza que deseja remover este Contêiner?
+    }
+containers-remove-ok-button = Remover este contêiner
+containers-remove-cancel-button = Não remover este contêiner
+containers-color-blue =
+    .label = Azul
+containers-color-turquoise =
+    .label = Turquesa
+containers-color-green =
+    .label = Verde
+containers-color-yellow =
+    .label = Amarelo
+containers-color-orange =
+    .label = Laranja
+containers-color-red =
+    .label = Vermelho
+containers-color-pink =
+    .label = Rosa
+containers-color-purple =
+    .label = Púrpura
 containers-icon-fingerprint =
     .label = Impressão digital
 containers-icon-briefcase =
@@ -35,3 +70,21 @@ containers-icon-briefcase =
 # so don't change to local currency. See Bug 1291672.
 containers-icon-dollar =
     .label = Sinal de cifrão
+containers-icon-cart =
+    .label = Carrinho de compras
+containers-icon-circle =
+    .label = Ponto
+containers-icon-vacation =
+    .label = Férias
+containers-icon-gift =
+    .label = Presente
+containers-icon-food =
+    .label = Comida
+containers-icon-fruit =
+    .label = Fruta
+containers-icon-pet =
+    .label = Animal
+containers-icon-tree =
+    .label = Árvore
+containers-icon-chill =
+    .label = Relaxado

@@ -348,6 +348,7 @@ search-keyword-warning-bookmark = A palavra-chave escolhida já é usada por um 
 
 ## Containers Section
 
+containers-header = Abas contêiner
 containers-add-button =
     .label = Adicionar novo contêiner
     .accesskey = A
