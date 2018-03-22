@@ -343,6 +343,7 @@ search-keyword-warning-bookmark = You have chosen a keyword that is currently in
 ## Containers Section
 
 containers-back-link = « Go Backwards
+containers-header = Container Tabs
 containers-add-button =
     .label = Add New Container
     .accesskey = A
