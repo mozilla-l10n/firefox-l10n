@@ -315,6 +315,7 @@
 <!ENTITY appMenuRemoteTabs.noclients.title "Synchronizacja kart wyłączona">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Czy wyświetlić tutaj listę kart otwartych na innych urządzeniach?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Ustawienia synchronizacji">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Ustawienia synchronizacji">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Zaloguj się, aby wyświetlić tutaj listę kart z innych urządzeń.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Konto musi zostać zweryfikowane.">
 <!ENTITY appMenuRemoteTabs.signin.label "Zaloguj się do synchronizacji">
