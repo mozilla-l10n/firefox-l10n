@@ -110,23 +110,6 @@ startup-prev-session =
 disable-extension =
     .label = એક્સ્ટેંશન અક્ષમ કરો
 home-page-header = મુખ્ય પૃષ્ઠ
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] વર્તમાન પાનું વાપરો
-           *[other] વર્તમાન પાનાંઓ વાપરો
-        }
-    .accesskey = C
-choose-bookmark =
-    .label = બુકમાર્ક વાપરો…
-    .accesskey = B
-restore-default =
-    .label = મૂળભૂતમાં પુનઃસંગ્રહો
-    .accesskey = R
 tabs-group-header = ટૅબ્સ
 ctrl-tab-recently-used-order =
     .label = તાજેતરમાં ઉપયોગમાં લેવાયેલી ક્રમમાં ટેબ દ્વારા Ctrl+Tab ચક્ર
@@ -301,6 +284,29 @@ network-proxy-connection-settings =
     .label = સેટીંગ...
     .accesskey = e
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] વર્તમાન પાનું વાપરો
+           *[other] વર્તમાન પાનાંઓ વાપરો
+        }
+    .accesskey = C
+choose-bookmark =
+    .label = બુકમાર્ક વાપરો…
+    .accesskey = B
+restore-default =
+    .label = મૂળભૂતમાં પુનઃસંગ્રહો
+    .accesskey = R
+
 ## Search Section
 
 search-bar-header = શોધ બાર
@@ -344,3 +350,15 @@ search-keyword-warning-title = નકલી મુખ્ય શબ્દ
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = તમે પસંદ કરેલ મુખ્ય શબ્દ વર્તમાનમાં "{ $name }" દ્વારા વપરાશમાં છે. મહેરબાની કરીને અન્ય પસંદ કરો.
 search-keyword-warning-bookmark = તમે પસંદ કરેલ મુખ્ય શબ્દ વર્તમાનમાં બુકમાર્ક દ્વારા વપરાશમાં છે. મહેરબાની કરીને અન્ય પસંદ કરો.
+
+## Containers Section
+
+containers-back-link = « પાછા જાવ
+containers-header = કન્ટેઈનર ટેબ્સ
+containers-add-button =
+    .label = નવું કન્ટેઈનર ઉમેરો
+    .accesskey = A
+containers-preferences-button =
+    .label = પસંદગીઓ
+containers-remove-button =
+    .label = દૂર કરો
