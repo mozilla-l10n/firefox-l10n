@@ -283,6 +283,7 @@ search-keyword-warning-bookmark = Esbillesti una pallabra clave qu'anguaño s'us
 
 ## Containers Section
 
+containers-header = Llingüetes contenedor
 containers-add-button =
     .label = Amestar contenedor nuevu
     .accesskey = A
