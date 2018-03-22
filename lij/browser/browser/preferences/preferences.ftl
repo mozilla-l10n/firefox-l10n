@@ -110,23 +110,6 @@ startup-prev-session =
 disable-extension =
     .label = Dizabilita estençion
 home-page-header = Pagina Prinçipâ
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Adeuvia a pagina corente
-           *[other] Adeuvia e pagine corenti
-        }
-    .accesskey = c
-choose-bookmark =
-    .label = Adeuvia o segnalibbro…
-    .accesskey = s
-restore-default =
-    .label = Metti torna predefinio
-    .accesskey = R
 tabs-group-header = feuggi
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab mostra l'anteprimma di feuggi averti
@@ -301,6 +284,29 @@ network-proxy-connection-settings =
     .label = Inpostaçioin…
     .accesskey = I
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Adeuvia a pagina corente
+           *[other] Adeuvia e pagine corenti
+        }
+    .accesskey = c
+choose-bookmark =
+    .label = Adeuvia o segnalibbro…
+    .accesskey = s
+restore-default =
+    .label = Metti torna predefinio
+    .accesskey = R
+
 ## Search Section
 
 search-bar-header = Bara de Riçerca
@@ -344,3 +350,13 @@ search-keyword-warning-title = Sta paròlla ciave a gh'é za
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Ti æ çernuo 'na paròlla ciave ch'a l'é uzâ da "{ $name }". Pe piaxei che ti ne çerni 'n'atra.
 search-keyword-warning-bookmark = Ti æ çernuo 'na paròlla ciave che a l'é uzâ da un segnalibbro. Pe piaxei che ti ne çerni 'n'atra.
+
+## Containers Section
+
+containers-add-button =
+    .label = Azonzi neuvo contegnitô
+    .accesskey = A
+containers-preferences-button =
+    .label = Preferense
+containers-remove-button =
+    .label = Scancella
