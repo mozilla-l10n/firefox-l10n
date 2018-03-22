@@ -104,23 +104,6 @@ startup-prev-session =
 disable-extension =
     .label = Onemogući ekstenziju
 home-page-header = Početna stranica
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Koristi trenutnu stranicu
-           *[other] Koristi trenutne stranice
-        }
-    .accesskey = c
-choose-bookmark =
-    .label = Koristi zabilješku…
-    .accesskey = b
-restore-default =
-    .label = Vrati na izvorne vrijednosti
-    .accesskey = r
 tabs-group-header = Tabovi
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab prolazi kroz tabove u redosljedu nedavnog korištenja
@@ -297,6 +280,29 @@ network-proxy-connection-settings =
     .label = Postavke…
     .accesskey = e
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Koristi trenutnu stranicu
+           *[other] Koristi trenutne stranice
+        }
+    .accesskey = c
+choose-bookmark =
+    .label = Koristi zabilješku…
+    .accesskey = b
+restore-default =
+    .label = Vrati na izvorne vrijednosti
+    .accesskey = r
+
 ## Search Section
 
 search-bar-header = Traka za pretragu
@@ -340,3 +346,14 @@ search-keyword-warning-title = Duplicirana ključna riječ
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Izabrali ste ključnu riječ koju trenutno koristi "{ $name }". Molimo izaberite drugu.
 search-keyword-warning-bookmark = Izabrali ste ključnu riječ koju trenutno koristi zabilješka. Molimo izaberite drugu.
+
+## Containers Section
+
+containers-header = Container tabovi
+containers-add-button =
+    .label = Dodaj novi Container
+    .accesskey = a
+containers-preferences-button =
+    .label = Postavke
+containers-remove-button =
+    .label = Ukloni
