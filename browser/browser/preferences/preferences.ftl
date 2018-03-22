@@ -106,23 +106,6 @@ startup-prev-session =
 disable-extension =
     .label = Slökkva á viðbót
 home-page-header = Heimasíða
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Nota núverandi síðu
-           *[other] Nota núverandi síður
-        }
-    .accesskey = o
-choose-bookmark =
-    .label = Nota bókamerki…
-    .accesskey = b
-restore-default =
-    .label = Endurstilla
-    .accesskey = r
 tabs-group-header = Flipar
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab skiptir á milli flipa í notkunarröð
@@ -297,6 +280,29 @@ network-proxy-connection-settings =
     .label = Stillingar…
     .accesskey = S
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Nota núverandi síðu
+           *[other] Nota núverandi síður
+        }
+    .accesskey = o
+choose-bookmark =
+    .label = Nota bókamerki…
+    .accesskey = b
+restore-default =
+    .label = Endurstilla
+    .accesskey = r
+
 ## Search Section
 
 search-bar-header = Leitarslá
@@ -340,3 +346,15 @@ search-keyword-warning-title = Stikkorð er þegar til
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Þú hefur valið stikkorð sem er þegar í notkun af “{ $name }”. Veldu eitthvað annað.
 search-keyword-warning-bookmark = Þú hefur valið stikkorð sem er þegar í notkun af bókamerki. Veldu eitthvað annað.
+
+## Containers Section
+
+containers-back-link = « Til baka
+containers-header = Innihalds flipar
+containers-add-button =
+    .label = Bæta við nýjum innihaldsflipa
+    .accesskey = a
+containers-preferences-button =
+    .label = Stillingar
+containers-remove-button =
+    .label = Fjarlægja
