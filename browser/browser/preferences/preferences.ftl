@@ -354,6 +354,7 @@ search-keyword-warning-bookmark = Annettu pikakomento on jo toisella kirjanmerki
 ## Containers Section
 
 containers-back-link = « Siirry takaisin
+containers-header = Luokitellut välilehdet
 containers-add-button =
     .label = Lisää uusi luokitus
     .accesskey = L
