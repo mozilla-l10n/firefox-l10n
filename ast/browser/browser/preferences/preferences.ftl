@@ -82,23 +82,6 @@ startup-prev-session =
 disable-extension =
     .label = Deshabilitar estensión
 home-page-header = Páxina d'aniciu
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Usar páxina actual
-           *[other] Usar páxines actuales
-        }
-    .accesskey = U
-choose-bookmark =
-    .label = Usar marcador…
-    .accesskey = m
-restore-default =
-    .label = Reafitar valores
-    .accesskey = R
 tabs-group-header = Llingüetes
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab circula pente les llingüetes nel orde según el so usu recién
@@ -241,6 +224,29 @@ network-proxy-connection-settings =
     .label = Configuración…
     .accesskey = o
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Usar páxina actual
+           *[other] Usar páxines actuales
+        }
+    .accesskey = U
+choose-bookmark =
+    .label = Usar marcador…
+    .accesskey = m
+restore-default =
+    .label = Reafitar valores
+    .accesskey = R
+
 ## Search Section
 
 search-bar-header = Barra de gueta
@@ -274,3 +280,10 @@ search-keyword-warning-title = Pallabra clave duplicada
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Esbillesti una pallabra clave qu'anguaño s'usa por «{ $name }». Esbilla otra, por favor.
 search-keyword-warning-bookmark = Esbillesti una pallabra clave qu'anguaño s'usa nun marcador. Esbilla otra, por favor.
+
+## Containers Section
+
+containers-preferences-button =
+    .label = Preferencies
+containers-remove-button =
+    .label = Desaniciar
