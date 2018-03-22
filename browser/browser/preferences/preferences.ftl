@@ -110,23 +110,6 @@ startup-prev-session =
 disable-extension =
     .label = Адключыць пашырэнне
 home-page-header = Хатняя старонка
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Ужыць цяперашнюю старонку
-           *[other] Ужыць дзейныя старонкі
-        }
-    .accesskey = с
-choose-bookmark =
-    .label = Ужыць закладку…
-    .accesskey = з
-restore-default =
-    .label = Аднавіць прадвызначаную
-    .accesskey = А
 tabs-group-header = Карткі
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab пераключае паміж карткамі ў парадку апошняга выкарыстання
@@ -303,6 +286,29 @@ network-proxy-connection-settings =
     .label = Налады…
     .accesskey = л
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Ужыць цяперашнюю старонку
+           *[other] Ужыць дзейныя старонкі
+        }
+    .accesskey = с
+choose-bookmark =
+    .label = Ужыць закладку…
+    .accesskey = з
+restore-default =
+    .label = Аднавіць прадвызначаную
+    .accesskey = А
+
 ## Search Section
 
 search-bar-header = Радок пошуку
@@ -346,3 +352,13 @@ search-keyword-warning-title = Паўторнае ключавое слова
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Вы выбралі ключавое слова, якое зараз ужываецца для "{ $name }". Выберыце, калі ласка, іншае.
 search-keyword-warning-bookmark = Вы выбралі ключавое слова, якое зараз ужываецца закладкай. Выберыце, калі ласка, іншае.
+
+## Containers Section
+
+containers-add-button =
+    .label = Дадаць новы кантэйнер
+    .accesskey = Д
+containers-preferences-button =
+    .label = Налады
+containers-remove-button =
+    .label = Выдаліць
