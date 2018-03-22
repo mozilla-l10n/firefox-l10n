@@ -78,23 +78,6 @@ startup-blank-page =
 startup-prev-session =
     .label = Taispeáin mo chuid fuinneog agus cluaisíní ón seisiún roimhe seo
 home-page-header = Leathanach baile
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Úsáid an Leathanach Reatha
-           *[other] Úsáid na Leathanaigh Reatha
-        }
-    .accesskey = R
-choose-bookmark =
-    .label = Úsáid Leabharmharc…
-    .accesskey = L
-restore-default =
-    .label = Cuir na réamhshocruithe ar ais
-    .accesskey = a
 tabs-group-header = Cluaisíní
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab le dul trí na cluaisíní san ord ar bhain tú úsáid astu le déanaí
@@ -271,6 +254,29 @@ network-proxy-connection-settings =
     .label = Socruithe…
     .accesskey = e
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Úsáid an Leathanach Reatha
+           *[other] Úsáid na Leathanaigh Reatha
+        }
+    .accesskey = R
+choose-bookmark =
+    .label = Úsáid Leabharmharc…
+    .accesskey = L
+restore-default =
+    .label = Cuir na réamhshocruithe ar ais
+    .accesskey = a
+
 ## Search Section
 
 search-engine-default-header = Inneall Cuardaigh Réamhshocraithe
@@ -302,3 +308,15 @@ search-keyword-warning-title = Eochairfhocail Dhúblach
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Roghnaigh tú eochairfhocal atá in úsáid faoi láthair ag “{ $name }”. Roghnaigh ceann eile le do thoil.
 search-keyword-warning-bookmark = Roghnaigh tú eochairfhocal atá in úsáid faoi láthair ag leabharmharc. Roghnaigh ceann eile le do thoil.
+
+## Containers Section
+
+containers-back-link = « Ar Ais
+containers-header = Cluaisíní Coimeádáin
+containers-add-button =
+    .label = Coimeádán Nua
+    .accesskey = C
+containers-preferences-button =
+    .label = Sainroghanna
+containers-remove-button =
+    .label = Bain
