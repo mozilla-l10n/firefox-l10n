@@ -22,6 +22,9 @@ focus-search =
 ## Browser Restart Dialog
 
 
+## Preferences UI Search Results
+
+
 ## General Section
 
 browser-containers-learn-more = Cchiú nfurmazzioni
@@ -46,7 +49,17 @@ network-proxy-connection-settings =
     .label = Mpustazzioni…
     .accesskey = M
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+
 ## Search Section
 
 search-bar-shown =
     .label = Agghiunci la sbarra di circata nnâ sbarra dî strummenta
+
+## Containers Section
+
+containers-back-link = « Torna nn'arredi
