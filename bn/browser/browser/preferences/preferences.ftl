@@ -289,6 +289,21 @@ home-new-windows-tabs-header = নতুন উইন্ডো এবং ট্�
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = নীড়পাতা এবং নতুন পর্দা
+home-newtabs-mode-label = নতুন ট্যাবগুলি
+home-restore-defaults =
+    .label = ডিফল্ট মান পুনরায় স্থাপন
+    .accesskey = R
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Firefox Home (ডিফল্ট)
+home-mode-choice-custom =
+    .label = কাস্টম URLs…
+home-mode-choice-blank =
+    .label = ফাঁকা পাতা
+home-homepage-custom-url =
+    .placeholder = URL পেস্ট করুন…
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
