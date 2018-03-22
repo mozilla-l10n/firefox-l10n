@@ -106,23 +106,6 @@ startup-prev-session =
 disable-extension =
     .label = ปิดใช้งานส่วนขยาย
 home-page-header = หน้าแรก
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] ใช้หน้าปัจจุบัน
-           *[other] ใช้หน้าปัจจุบัน
-        }
-    .accesskey = ช
-choose-bookmark =
-    .label = ใช้ที่คั่นหน้า…
-    .accesskey = ท
-restore-default =
-    .label = เรียกคืนค่าเริ่มต้น
-    .accesskey = ร
 tabs-group-header = แท็บ
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab เพื่อสลับเปลี่ยนแท็บตามลำดับที่ใช้ล่าสุด
@@ -289,6 +272,29 @@ network-proxy-connection-settings =
     .label = การตั้งค่า…
     .accesskey = ต
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] ใช้หน้าปัจจุบัน
+           *[other] ใช้หน้าปัจจุบัน
+        }
+    .accesskey = ช
+choose-bookmark =
+    .label = ใช้ที่คั่นหน้า…
+    .accesskey = ท
+restore-default =
+    .label = เรียกคืนค่าเริ่มต้น
+    .accesskey = ร
+
 ## Search Section
 
 search-bar-header = แถบค้นหา
@@ -332,3 +338,15 @@ search-keyword-warning-title = คำแทนนี้ซ้ำกับคำ�
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = คำแทนที่คุณเลือกซ้ำกับคำแทนที่ถูกใช้โดย “{ $name }” โปรดเลือกคำแทนอื่น
 search-keyword-warning-bookmark = คำแทนที่คุณเลือกซ้ำกับคำแทนที่ถูกใช้โดยที่คั่นหน้า โปรดเลือกคำแทนอื่น
+
+## Containers Section
+
+containers-back-link = « ย้อนกลับ
+containers-header = แท็บแยกข้อมูล
+containers-add-button =
+    .label = เพิ่มการแยกข้อมูลใหม่
+    .accesskey = พ
+containers-preferences-button =
+    .label = ค่ากำหนด
+containers-remove-button =
+    .label = เอาออก
