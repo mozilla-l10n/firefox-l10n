@@ -110,23 +110,6 @@ startup-prev-session =
 disable-extension =
     .label = Отключить расширение
 home-page-header = Домашняя страница
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Использовать текущую страницу
-           *[other] Использовать текущие страницы
-        }
-    .accesskey = п
-choose-bookmark =
-    .label = Использовать закладку…
-    .accesskey = в
-restore-default =
-    .label = Восстановить по умолчанию
-    .accesskey = о
 tabs-group-header = Вкладки
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab переключает между вкладками в порядке недавнего использования
@@ -303,6 +286,29 @@ network-proxy-connection-settings =
     .label = Настроить…
     .accesskey = с
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Использовать текущую страницу
+           *[other] Использовать текущие страницы
+        }
+    .accesskey = п
+choose-bookmark =
+    .label = Использовать закладку…
+    .accesskey = в
+restore-default =
+    .label = Восстановить по умолчанию
+    .accesskey = о
+
 ## Search Section
 
 search-bar-header = Панель поиска
@@ -346,3 +352,9 @@ search-keyword-warning-title = Краткое имя уже использует
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Вы выбрали краткое имя, которое в данный момент используется «{ $name }». Пожалуйста, выберите другое.
 search-keyword-warning-bookmark = Вы выбрали краткое имя, которое в данный момент используется одной из закладок. Пожалуйста, выберите другое.
+
+## Containers Section
+
+containers-back-link = « Вернуться назад
+containers-preferences-button =
+    .label = Настройки
