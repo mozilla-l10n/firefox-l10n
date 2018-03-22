@@ -22,9 +22,30 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+containers-name-label = Namn
+    .accesskey = N
+    .style = { -containers-labels-style }
+containers-name-text =
+    .placeholder = Ange ett behållarnamn
+containers-icon-label = Ikon
+    .accesskey = k
+    .style = { -containers-labels-style }
+containers-color-label = Färg
+    .accesskey = F
+    .style = { -containers-labels-style }
 containers-button-done =
     .label = Klar
     .accesskey = K
+containers-remove-alert-title = Ta bort denna behållare?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Om du tar bort denna behållaren nu, kommer { $count } innehållsflik att stängas. Är du säker på att du vill ta bort denna behållare?
+       *[other] Om du tar bort denna behållare nu, kommer #s innehållsflikar att stängas. Är du säker på att du vill ta bort denna behållare?
+    }
+containers-remove-ok-button = Ta bort denna behållare
+containers-remove-cancel-button = Ta inte bort denna behållare
 containers-color-blue =
     .label = Blå
 containers-color-turquoise =
@@ -53,3 +74,17 @@ containers-icon-cart =
     .label = Varukorg
 containers-icon-circle =
     .label = Punkt
+containers-icon-vacation =
+    .label = Semester
+containers-icon-gift =
+    .label = Present
+containers-icon-food =
+    .label = Livsmedel
+containers-icon-fruit =
+    .label = Frukt
+containers-icon-pet =
+    .label = Husdjur
+containers-icon-tree =
+    .label = Träd
+containers-icon-chill =
+    .label = Relax
