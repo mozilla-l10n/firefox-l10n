@@ -354,6 +354,7 @@ search-keyword-warning-bookmark = Zgjodhët një fjalëkyç që hëpërhë po p�
 ## Containers Section
 
 containers-back-link = « Shkoni Mbrapsht
+containers-header = Skeda Kontejneri
 containers-add-button =
     .label = Shtoni Kontejner të Ri
     .accesskey = S
