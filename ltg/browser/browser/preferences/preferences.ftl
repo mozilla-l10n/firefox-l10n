@@ -352,6 +352,10 @@ search-keyword-warning-bookmark = Jius izavieliejatīs atslāgi vuordu, kū jau 
 ## Containers Section
 
 containers-back-link = « Īt atpakaļ
+containers-header = Skreines cilnes
+containers-add-button =
+    .label = Pīvīnōt jaunu skreini
+    .accesskey = A
 containers-preferences-button =
     .label = Īstatiejumi
 containers-remove-button =

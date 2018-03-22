@@ -2,6 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+containers-window-new =
+    .title = Pīvīnōt jaunu skreini
+    .style = width: 45em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update =
+    .title = { $name } skreines īstatiejumi
+    .style = 45em
 containers-window-close =
     .key = w
 # This is a term to store style to be applied
@@ -17,6 +25,8 @@ containers-window-close =
 containers-name-label = Nūsaukums
     .accesskey = N
     .style = { -containers-labels-style }
+containers-name-text =
+    .placeholder = Pīvīnōt skreines nūsaukumu
 containers-icon-label = Ikona
     .accesskey = I
     .style = { -containers-labels-style }
@@ -26,9 +36,56 @@ containers-color-label = Kruosa
 containers-button-done =
     .label = Gotovs
     .accesskey = G
+containers-remove-alert-title = Nūjimt itū skreini?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [zero] Ja nūjimsi itū konteineru { $count } konteineru cilnes byus aizvārtas. Voi vyssvīns nūjimt itū konteineru?
+        [one] Ja nūjimsi itū konteineru { $count } konteineru cilne byus aizvārta. Voi vyssvīns nūjimt itū konteineru?
+       *[other] Ja nūjimsi itū konteineru { $count } konteineru cilnes byus aizvārtas. Voi vyssvīns nūjimt itū konteineru?
+    }
+containers-remove-ok-button = Nūjimt itū skreini
+containers-remove-cancel-button = Najimt nūst itū skreini
+containers-color-blue =
+    .label = Zyls
+containers-color-turquoise =
+    .label = Tirkīza
+containers-color-green =
+    .label = Zaļš
+containers-color-yellow =
+    .label = Dzaltons
+containers-color-orange =
+    .label = Oranžs
+containers-color-red =
+    .label = Sorkons
+containers-color-pink =
+    .label = Ružovs
+containers-color-purple =
+    .label = Ļiļovs
 containers-icon-fingerprint =
     .label = Pierstu nūspīdums
+containers-icon-briefcase =
+    .label = Portpeļs
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+containers-icon-dollar =
+    .label = Dolāra zeime
+containers-icon-cart =
+    .label = Pierkumu skaļine
 containers-icon-circle =
     .label = Punkts
+containers-icon-vacation =
+    .label = Atvaļinojums
+containers-icon-gift =
+    .label = Dōvona
+containers-icon-food =
+    .label = Iedīņs
+containers-icon-fruit =
+    .label = Augļi
+containers-icon-pet =
+    .label = Mōjis dzeivinīks
 containers-icon-tree =
     .label = Kūks
+containers-icon-chill =
+    .label = Atpyuta
