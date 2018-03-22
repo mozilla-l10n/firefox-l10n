@@ -104,23 +104,6 @@ startup-prev-session =
 disable-extension =
     .label = Zakázať rozšírenie
 home-page-header = Domovská stránka
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Použiť aktuálnu stránku
-           *[other] Použiť aktuálne stránky
-        }
-    .accesskey = s
-choose-bookmark =
-    .label = Použiť záložku…
-    .accesskey = z
-restore-default =
-    .label = Obnoviť predvolené
-    .accesskey = O
 tabs-group-header = Karty
 ctrl-tab-recently-used-order =
     .label = Prepínať karty pomocou Ctrl+Tab v poradí podľa posledného otvorenia
@@ -297,6 +280,29 @@ network-proxy-connection-settings =
     .label = Nastavenia…
     .accesskey = N
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Použiť aktuálnu stránku
+           *[other] Použiť aktuálne stránky
+        }
+    .accesskey = s
+choose-bookmark =
+    .label = Použiť záložku…
+    .accesskey = z
+restore-default =
+    .label = Obnoviť predvolené
+    .accesskey = O
+
 ## Search Section
 
 search-bar-header = Vyhľadávací panel
@@ -340,3 +346,14 @@ search-keyword-warning-title = Duplicitné kľúčové slovo
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Zadali ste kľúčové slovo, ktoré je v súčasnosti používané modulom "{ $name }". Vyberte nejaké iné.
 search-keyword-warning-bookmark = Zadali ste kľúčové slovo, ktoré je v súčasnosti používané jednou zo záložiek. Vyberte nejaké iné.
+
+## Containers Section
+
+containers-back-link = « Späť
+containers-add-button =
+    .label = Pridať nový kontajner
+    .accesskey = P
+containers-preferences-button =
+    .label = Nastavenia
+containers-remove-button =
+    .label = Odstrániť
