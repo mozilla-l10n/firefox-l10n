@@ -42,4 +42,8 @@
 <!ENTITY location.label "Localización:">
 <!ENTITY location.placeholder "URL ou nome para o servidor do calendario">
 
+<!ENTITY network.nocredentials.label "Esta localización non require credenciais">
+<!ENTITY network.loading.description "Agarde mentres se buscan os seus calendarios.">
+<!ENTITY network.notfound.description "Non foi posíbel atopar calendarios nesta localización. Comprobe os axustes.">
+<!ENTITY network.authfail.description "As credenciais que introduciu non foron aceptadas. Comprobe os axustes.">
 
