@@ -346,6 +346,7 @@ search-keyword-warning-bookmark = Ginagamit ng isang bookmark ang keyword na pin
 ## Containers Section
 
 containers-back-link = « Bumalik Ka
+containers-header = Mga Tab ng Lalagyan
 containers-add-button =
     .label = Dagdagan ng Bagong Contianer
     .accesskey = A
