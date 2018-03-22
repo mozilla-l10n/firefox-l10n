@@ -110,23 +110,6 @@ startup-prev-session =
 disable-extension =
     .label = Analluogi Estyniad
 home-page-header = Tudalen cartref
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Defnyddio'r Dudalen Bresennol
-           *[other] Defnyddio'r Dudalen Bresennol
-        }
-    .accesskey = B
-choose-bookmark =
-    .label = Defnyddio Nod Tudalen…
-    .accesskey = N
-restore-default =
-    .label = Adfer i'r Rhagosodedig
-    .accesskey = R
 tabs-group-header = Tabiau
 ctrl-tab-recently-used-order =
     .label = Mae Ctrl+Tab yn cylchdroi drwy dabiau yn y drefn y'u defnyddiwyd yn ddiweddar
@@ -309,6 +292,29 @@ network-proxy-connection-settings =
     .label = Gosodiadau…
     .accesskey = G
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Defnyddio'r Dudalen Bresennol
+           *[other] Defnyddio'r Dudalen Bresennol
+        }
+    .accesskey = B
+choose-bookmark =
+    .label = Defnyddio Nod Tudalen…
+    .accesskey = N
+restore-default =
+    .label = Adfer i'r Rhagosodedig
+    .accesskey = R
+
 ## Search Section
 
 search-bar-header = Bar Chwilio
@@ -352,3 +358,13 @@ search-keyword-warning-title = Allweddair Dyblyg
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Rydych wedi defnyddio allweddair sy'n cael ei ddefnyddio gan "{ $name }". Dewiswch un arall.
 search-keyword-warning-bookmark = Rydych wedi defnyddio allweddair sy'n cael ei ddefnyddio gan nod tudalen. Dewiswch un arall.
+
+## Containers Section
+
+containers-add-button =
+    .label = Ychwanegu Cynhwysydd Newydd
+    .accesskey = Y
+containers-preferences-button =
+    .label = Dewisiadau
+containers-remove-button =
+    .label = Tynnu
