@@ -346,6 +346,7 @@ search-keyword-warning-bookmark = 您選用的關鍵字目前正被書籤項目�
 ## Containers Section
 
 containers-back-link = « 返回
+containers-header = 容器分頁
 containers-add-button =
     .label = 新增容器
     .accesskey = A
