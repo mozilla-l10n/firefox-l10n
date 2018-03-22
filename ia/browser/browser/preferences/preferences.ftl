@@ -110,23 +110,6 @@ startup-prev-session =
 disable-extension =
     .label = Inactivar le extension
 home-page-header = Pagina initial
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Usar le pagina actual
-           *[other] Usar le paginas actual
-        }
-    .accesskey = C
-choose-bookmark =
-    .label = Usar un marcapaginas…
-    .accesskey = m
-restore-default =
-    .label = Restaurar le predefinition
-    .accesskey = R
 tabs-group-header = Schedas
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab percurre le schedas in le ordine usate recentemente
@@ -301,6 +284,29 @@ network-proxy-connection-settings =
     .label = Parametros…
     .accesskey = e
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Usar le pagina actual
+           *[other] Usar le paginas actual
+        }
+    .accesskey = C
+choose-bookmark =
+    .label = Usar un marcapaginas…
+    .accesskey = m
+restore-default =
+    .label = Restaurar le predefinition
+    .accesskey = R
+
 ## Search Section
 
 search-bar-header = Barra de recerca
@@ -344,3 +350,15 @@ search-keyword-warning-title = Parola clave duplicate
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Tu ha eligite un parola clave que es actualmente usate per “{ $name }”. Per favor selige un altere.
 search-keyword-warning-bookmark = Tu ha eligite un parola clave que es actualmente in uso per un marcapaginas. Per favor selige un altere.
+
+## Containers Section
+
+containers-back-link = « Regressar
+containers-header = Schedas contextual
+containers-add-button =
+    .label = Adder un nove contexto
+    .accesskey = A
+containers-preferences-button =
+    .label = Preferentias
+containers-remove-button =
+    .label = Remover
