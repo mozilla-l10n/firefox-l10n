@@ -15,7 +15,7 @@
 <!ENTITY connecting "กำลังเชื่อมต่อ…">
 <!ENTITY availableAddons "ส่วนเสริมระยะไกลที่มี:">
 <!ENTITY availableTabs "แท็บระยะไกลที่มี:">
-<!ENTITY availableProcesses "โปรเซสระยะไกลที่ใช้ได้:">
+<!ENTITY availableProcesses "โปรเซสระยะไกลที่มี:">
 <!ENTITY connectionError "ข้อผิดพลาด:">
 <!ENTITY errorTimeout "ข้อผิดพลาด: การเชื่อมต่อหมดเวลา">
 <!ENTITY errorRefused "ข้อผิดพลาด: การเชื่อมต่อถูกปฏิเสธ">
