@@ -74,23 +74,6 @@ startup-blank-page =
 startup-prev-session =
     .label = Wys die vensters en oortjies van laas keer
 home-page-header = Wys my tuisblad
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Gebruik huidige bladsy
-           *[other] Gebruik huidige bladsye
-        }
-    .accesskey = G
-choose-bookmark =
-    .label = Gebruik boekmerk…
-    .accesskey = b
-restore-default =
-    .label = Stel terug na verstek
-    .accesskey = S
 tabs-group-header = Oortjies
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab besoek oortjies in die volgorde wat hulle onlangs gebruik is
@@ -233,6 +216,29 @@ network-proxy-connection-settings =
     .label = Opstelling…
     .accesskey = p
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Gebruik huidige bladsy
+           *[other] Gebruik huidige bladsye
+        }
+    .accesskey = G
+choose-bookmark =
+    .label = Gebruik boekmerk…
+    .accesskey = b
+restore-default =
+    .label = Stel terug na verstek
+    .accesskey = S
+
 ## Search Section
 
 search-engine-default-header = Versteksoekenjin
@@ -258,3 +264,10 @@ search-keyword-warning-title = Dupliseer sleutelwoord
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = U het 'n sleutelwoord gekies wat tans deur "{ $name }" gebruik word. Kies 'n ander een.
 search-keyword-warning-bookmark = U het 'n sleutelwoord gekies wat tans deur 'n boekmerk gebruik word. Kies 'n ander een.
+
+## Containers Section
+
+containers-header = Konteksoortjies
+containers-add-button =
+    .label = Voeg nuwe konteks by
+    .accesskey = V
