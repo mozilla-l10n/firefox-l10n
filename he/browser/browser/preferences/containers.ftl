@@ -2,6 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+containers-window-new =
+    .title = הוספת מגירה חדשה
+    .style = width: 45em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update =
+    .title = העדפות המגירה { $name }
+    .style = 45em
 containers-window-close =
     .key = w
 # This is a term to store style to be applied
@@ -14,9 +22,30 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+containers-name-label = שם
+    .accesskey = ש
+    .style = { -containers-labels-style }
+containers-name-text =
+    .placeholder = נא להזין שם מגירה
+containers-icon-label = סמל
+    .accesskey = ס
+    .style = { -containers-labels-style }
+containers-color-label = צבע
+    .accesskey = צ
+    .style = { -containers-labels-style }
 containers-button-done =
     .label = סיום
     .accesskey = ס
+containers-remove-alert-title = האם להסיר מגירה זו?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] אם מגירה זו תוסר, לשונית אחת תיסגר. האם ברצונך להסיר מגירה זו?
+       *[other] אם מגירה זו תוסר, { $count } לשוניות תסגרנה. האם ברצונך להסיר מגירה זו?
+    }
+containers-remove-ok-button = להסיר מגירה זו
+containers-remove-cancel-button = לא להסיר מגירה זו
 containers-color-blue =
     .label = כחול
 containers-color-turquoise =
@@ -45,3 +74,17 @@ containers-icon-cart =
     .label = עגלת קניות
 containers-icon-circle =
     .label = נקודה
+containers-icon-vacation =
+    .label = חופשה
+containers-icon-gift =
+    .label = מתנה
+containers-icon-food =
+    .label = אוכל
+containers-icon-fruit =
+    .label = פירות
+containers-icon-pet =
+    .label = חיות מחמד
+containers-icon-tree =
+    .label = עץ
+containers-icon-chill =
+    .label = רגוע
