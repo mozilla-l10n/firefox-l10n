@@ -104,23 +104,6 @@ startup-prev-session =
 disable-extension =
     .label = Wyłącz rozszerzenie
 home-page-header = Strona startowa:
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Użyj bieżącej strony
-           *[other] Użyj bieżących stron
-        }
-    .accesskey = b
-choose-bookmark =
-    .label = Użyj zakładki…
-    .accesskey = z
-restore-default =
-    .label = Przywróć domyślną
-    .accesskey = d
 tabs-group-header = Karty
 ctrl-tab-recently-used-order =
     .label = Przełączanie kart za pomocą Ctrl+Tab w kolejności ostatnich wyświetleń
@@ -296,6 +279,29 @@ network-proxy-connection-settings =
     .label = Ustawienia…
     .accesskey = U
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Użyj bieżącej strony
+           *[other] Użyj bieżących stron
+        }
+    .accesskey = b
+choose-bookmark =
+    .label = Użyj zakładki…
+    .accesskey = z
+restore-default =
+    .label = Przywróć domyślną
+    .accesskey = d
+
 ## Search Section
 
 search-bar-header = Pasek wyszukiwania
@@ -339,3 +345,12 @@ search-keyword-warning-title = Słowo kluczowe już istnieje
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Wybrano słowo kluczowe używane obecnie przez wyszukiwarkę { $name }. Należy wybrać inne.
 search-keyword-warning-bookmark = Wybrano słowo kluczowe używane obecnie przez zakładkę. Należy wybrać inne.
+
+## Containers Section
+
+containers-back-link = « Powrót
+containers-header = Karty z kontekstem
+containers-preferences-button =
+    .label = Preferencje
+containers-remove-button =
+    .label = Usuń
