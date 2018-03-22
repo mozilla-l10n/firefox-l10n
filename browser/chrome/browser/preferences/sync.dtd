@@ -75,6 +75,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY cancelSetup.label            "সেটাপ বাতিল">
 <!ENTITY cancelSetup.accesskey        "p">
 
+<!ENTITY removeAccount.label          "অ্যাকাউন্ট মুছুন">
 <!ENTITY removeAccount.accesskey      "p">
 
 <!ENTITY signedOut.caption            "আপনার ওয়েব আপনার সঙ্গে নিন">
