@@ -354,6 +354,7 @@ search-keyword-warning-bookmark = Ti æ çernuo 'na paròlla ciave che a l'é uz
 ## Containers Section
 
 containers-back-link = « Vanni inderê
+containers-header = Contegnitô di feuggi
 containers-add-button =
     .label = Azonzi neuvo contegnitô
     .accesskey = A
