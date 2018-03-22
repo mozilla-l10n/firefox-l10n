@@ -354,6 +354,7 @@ search-keyword-warning-bookmark = Du har valgt et nøkkelord som brukes av et an
 ## Containers Section
 
 containers-back-link = « Gå tilbake
+containers-header = Innholdsfaner
 containers-add-button =
     .label = Legg til ny beholder
     .accesskey = L
