@@ -355,6 +355,7 @@ search-keyword-warning-bookmark = Dibabet hoc'h eus ur ger alc'hwez war arver ev
 
 ## Containers Section
 
+containers-back-link = « Distreiñ
 containers-header = Ivinelloù endalc'her
 containers-add-button =
     .label = Ouzhpennañ un endalc'her nevez
