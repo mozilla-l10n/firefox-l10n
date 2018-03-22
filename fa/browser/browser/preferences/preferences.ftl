@@ -104,23 +104,6 @@ startup-prev-session =
 disable-extension =
     .label = غیرفعال سازی افزونه
 home-page-header = صفحه خانگی
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] استفاده از صفحهٔ فعلی
-           *[other] استفاده از صفحهٔ فعلی
-        }
-    .accesskey = ف
-choose-bookmark =
-    .label = استفاده از نشانک…
-    .accesskey = ن
-restore-default =
-    .label = بازگرداندن به پیش‌فرض‌
-    .accesskey = ب
 tabs-group-header = زبانه‌ها
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab به ترتیب زبانه‌های اخیرا استفاده شده بین آنها حرکت می‌کند
@@ -294,6 +277,29 @@ network-proxy-connection-settings =
     .label = تنظیمات…
     .accesskey = ت
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] استفاده از صفحهٔ فعلی
+           *[other] استفاده از صفحهٔ فعلی
+        }
+    .accesskey = ف
+choose-bookmark =
+    .label = استفاده از نشانک…
+    .accesskey = ن
+restore-default =
+    .label = بازگرداندن به پیش‌فرض‌
+    .accesskey = ب
+
 ## Search Section
 
 search-bar-header = نوار جست وجو
@@ -337,3 +343,15 @@ search-keyword-warning-title = کلیدواژهٔ تکراری
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = شما کلیدواژه‌ای انتخاب نموده‌اید که در حال حاضر توسط «{ $name }» در حال استفاده است. لطفا کلیدواژه دیگری انتخاب کنید.
 search-keyword-warning-bookmark = شما کلیدواژه‌ای انتخاب نموده‌اید که در حال حاضر توسط یک نشانک در حال استفاده است.  لطفاً کلیدواژهٔ دیگری انتخاب کنید.
+
+## Containers Section
+
+containers-back-link = « برگشت به عقب{ " " }
+containers-header = زبانه‌های حامل
+containers-add-button =
+    .label = افزودن حامل جدید
+    .accesskey = ا
+containers-preferences-button =
+    .label = ترجیحات
+containers-remove-button =
+    .label = حذف
