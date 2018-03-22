@@ -110,23 +110,6 @@ startup-prev-session =
 disable-extension =
     .label = এক্সটেনশনটি নিষ্ক্রিয় করুন
 home-page-header = নীড় পাতা
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] বর্তমান পাতা ব্যবহার করুন
-           *[other] বর্তমান পাতা ব্যবহার কর
-        }
-    .accesskey = C
-choose-bookmark =
-    .label = বুকমার্ক ব্যবহার করুন
-    .accesskey = B
-restore-default =
-    .label = ডিফল্ট মানে পুনঃস্থাপন করা হবে
-    .accesskey = R
 tabs-group-header = ট্যাব
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab সাম্প্রতিক ব্যবহৃত ট্যাবগুলোতে ক্রমান্বয়ে ঘুড়বে
@@ -301,6 +284,29 @@ network-proxy-connection-settings =
     .label = বৈশিষ্ট্যাবলী...
     .accesskey = e
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] বর্তমান পাতা ব্যবহার করুন
+           *[other] বর্তমান পাতা ব্যবহার কর
+        }
+    .accesskey = C
+choose-bookmark =
+    .label = বুকমার্ক ব্যবহার করুন
+    .accesskey = B
+restore-default =
+    .label = ডিফল্ট মানে পুনঃস্থাপন করা হবে
+    .accesskey = R
+
 ## Search Section
 
 search-bar-header = অনুসন্ধান বার
@@ -344,3 +350,14 @@ search-keyword-warning-title = কীওয়ার্ড ইতোমধ্যে
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = আপনার দেয়া কীওয়ার্ডটি ইতোমধ্যে "{ $name }" ব্যবহার করছে। অনুগ্রহ করে একটি ভিন্ন কীওয়ার্ড নির্বাচন করুন।
 search-keyword-warning-bookmark = আপনার দেয়া কীওয়ার্ডটি ইতোমধ্যে একটি বুকমার্ক ব্যবহার করছে। অনুগ্রহ করে একটি ভিন্ন কীওয়ার্ড নির্বাচন করুন।
+
+## Containers Section
+
+containers-header = কন্টেইনার ট্যাব
+containers-add-button =
+    .label = নতুন কন্টেইনার যোগ
+    .accesskey = A
+containers-preferences-button =
+    .label = পছন্দসমূহ
+containers-remove-button =
+    .label = অপসারণ
