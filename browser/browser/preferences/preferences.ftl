@@ -105,23 +105,6 @@ startup-prev-session =
 disable-extension =
     .label = Nonaktifkan Ekstensi
 home-page-header = Beranda
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Gunakan Laman Sekarang
-           *[other] Gunakan Semua Laman Berikut
-        }
-    .accesskey = G
-choose-bookmark =
-    .label = Gunakan Markah…
-    .accesskey = h
-restore-default =
-    .label = Kembalikan ke Bawaan
-    .accesskey = w
 tabs-group-header = Tab
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab berputar melalui tab dalam urutan yang baru saja digunakan
@@ -288,6 +271,29 @@ network-proxy-connection-settings =
     .label = Setelan…
     .accesskey = S
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Gunakan Laman Sekarang
+           *[other] Gunakan Semua Laman Berikut
+        }
+    .accesskey = G
+choose-bookmark =
+    .label = Gunakan Markah…
+    .accesskey = h
+restore-default =
+    .label = Kembalikan ke Bawaan
+    .accesskey = w
+
 ## Search Section
 
 search-bar-header = Bilah Pencarian
@@ -331,3 +337,9 @@ search-keyword-warning-title = Kata Kunci Ganda
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Anda telah memilih kata kunci yang sama dengan "{ $name }". Silakan pilih kata lain.
 search-keyword-warning-bookmark = Anda telah memilih kata kunci yang sama dengan nama Markah. Silakan pilih kata lain.
+
+## Containers Section
+
+containers-add-button =
+    .label = Tambahkan Kontainer Baru
+    .accesskey = T
