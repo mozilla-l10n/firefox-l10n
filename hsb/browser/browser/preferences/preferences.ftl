@@ -110,23 +110,6 @@ startup-prev-session =
 disable-extension =
     .label = Rozšěrjenje znjemóžnić
 home-page-header = Startowa strona
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Aktualnu stronu wužiwać
-           *[other] Aktualne strony wužiwać
-        }
-    .accesskey = A
-choose-bookmark =
-    .label = Zapołožku wužiwać…
-    .accesskey = Z
-restore-default =
-    .label = Standard wobnowić
-    .accesskey = b
 tabs-group-header = Rajtarki
 ctrl-tab-recently-used-order =
     .label = Strg+Tab přeběži rajtarki po tuchwilu postajenym porjedźe
@@ -305,6 +288,29 @@ network-proxy-connection-settings =
     .label = Nastajenja…
     .accesskey = N
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Aktualnu stronu wužiwać
+           *[other] Aktualne strony wužiwać
+        }
+    .accesskey = A
+choose-bookmark =
+    .label = Zapołožku wužiwać…
+    .accesskey = Z
+restore-default =
+    .label = Standard wobnowić
+    .accesskey = b
+
 ## Search Section
 
 search-bar-header = Pytanske polo
@@ -348,3 +354,15 @@ search-keyword-warning-title = Klučowe słowo podwojić
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Sće klučowe słowo wubrał, kotrež so runje wot "{ $name }" wužiwa. Prošu wubjerće druhe.
 search-keyword-warning-bookmark = Sće klučowe słowo wubrał, kotrež so runje wot zapołožkow wužiwa. Prošu wubjerće druhe.
+
+## Containers Section
+
+containers-back-link = « Wróćo
+containers-header = Kontejnerowe rajtarki
+containers-add-button =
+    .label = Nowy kontejner přidać
+    .accesskey = k
+containers-preferences-button =
+    .label = Nastajenja
+containers-remove-button =
+    .label = Wotstronić
