@@ -3,8 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Ρυθμίσεις - Δεδομένα Ιστοτόπου">
+
 <!ENTITY     hostCol.label                 "Ιστοτόπος">
 <!ENTITY     statusCol.label               "Κατάσταση">
+<!ENTITY     cookiesCol.label              "Cookies">
 <!ENTITY     usageCol.label                "Αποθήκευση">
 <!ENTITY     searchTextboxPlaceHolder             "Αναζήτηση ιστοσελίδων">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "Α">

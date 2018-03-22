@@ -29,9 +29,6 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.keyShortcutMessage): Message displayed when
   -  users pressed a DevTools key shortcut. -->
 
-<!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage): Message displayed when users
-  -  clicked on a "Enable Developer Tools" menu item. -->
-
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage2): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
 
@@ -44,13 +41,14 @@
 
 
 
-
 <!-- LOCALIZATION NOTE (aboutDevtools.newsletter.message): Subscribe form message.
   -  The newsletter is only available in english at the moment.
   -  See Bug 1415273 for support of additional languages.-->
 <!ENTITY  aboutDevtools.newsletter.email.placeholder "E-mail">
+<!ENTITY  aboutDevtools.newsletter.thanks.title "Ευχαριστούμε!">
 
 
 <!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to
   -  https://www.mozilla.org/firefox/developer/ displayed in the footer. -->
+<!ENTITY  aboutDevtools.footer.learnMoreLink "Μάθετε περισσότερα">
 

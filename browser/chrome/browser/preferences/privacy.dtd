@@ -3,21 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Προστασία από παρακολούθηση">
-<!ENTITY  trackingProtection2.description      "Παρακολούθηση είναι η συλλογή των δεδομένων περιήγησής σας σε πολλαπλές ιστοσελίδες. Η παρακολούθηση μπορεί να χρησιμοποιηθεί για τη δημιουργία ενός προφίλ και την προβολή περιεχομένου βάσει των διαδικτυακών και προσωπικών πληροφοριών σας.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "Χρήση προστασίας από παρακολούθηση για φραγή γνωστών ιχνηλατών">
 <!ENTITY  trackingProtectionAlways.label       "Πάντα">
 <!ENTITY  trackingProtectionAlways.accesskey   "α">
 <!ENTITY  trackingProtectionPrivate.label      "Μόνο σε ιδιωτικά παράθυρα">
 <!ENTITY  trackingProtectionPrivate.accesskey  "ο">
 <!ENTITY  trackingProtectionNever.label        "Ποτέ">
 <!ENTITY  trackingProtectionNever.accesskey    "π">
-<!ENTITY  trackingProtectionLearnMore.label    "Μάθετε περισσότερα">
 <!ENTITY  trackingProtectionExceptions.label   "Εξαιρέσεις…">
 <!ENTITY  trackingProtectionExceptions.accesskey "ξ">
-
-<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
-<!ENTITY trackingProtectionPBM5.label         "Χρήση Προστασίας από καταγραφή στα ιδιωτικά παράθυρα">
-<!ENTITY trackingProtectionPBM5.accesskey     "ρ">
 
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "Χρήση της προστασίας από παρακολούθηση στην ιδιωτική περιήγηση για φραγή γνωστών ιχνηλατών">
@@ -25,11 +18,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "Μάθετε περισσότερα">
 <!ENTITY changeBlockList2.label               "Αλλαγή λίστας αποκλεισμού…">
 <!ENTITY changeBlockList2.accesskey           "λ">
-
-<!ENTITY  doNotTrack.description        "Αποστολή σήματος “Αποτροπή καταγραφής” που σημαίνει ότι δεν θέλετε να καταγράφεστε από τις ιστοσελίδες">
-<!ENTITY  doNotTrack.learnMore.label    "Μάθετε περισσότερα">
-<!ENTITY  doNotTrack.default.label      "Μόνο κατά τη χρήση προστασίας από παρακολούθηση">
-<!ENTITY  doNotTrack.always.label       "Πάντα">
 
 <!ENTITY  history.label                 "Ιστορικό">
 <!ENTITY  permissions.label             "Δικαιώματα">
@@ -52,6 +40,9 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "Αποδοχή cookies τρίτων">
 <!ENTITY  acceptThirdParty2.pre.accesskey "ν">
+
+
+
 <!ENTITY  acceptThirdParty.always.label   "Πάντα">
 <!ENTITY  acceptThirdParty.never.label    "Ποτέ">
 <!ENTITY  acceptThirdParty.visited.label  "Από επισκέψεις">
@@ -86,6 +77,7 @@
 <!ENTITY  rememberActions.removeCookies.label "να διαγράψετε συγκεκριμένα cookies">
 <!ENTITY  rememberActions.post.label          ".">
 
+
 <!ENTITY  dontrememberDescription.label  "Το &brandShortName; θα χρησιμοποιεί τις ίδιες ρυθμίσεις με την ιδιωτική περιήγηση και δεν θα διατηρεί το ιστορικό περιήγησης σας.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
@@ -93,6 +85,9 @@
 <!ENTITY  dontrememberActions.pre.label          "Αν θέλετε, μπορείτε να ">
 <!ENTITY  dontrememberActions.clearHistory.label "εκκαθαρίσετε όλο το τρέχον ιστορικό σας">
 <!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  clearHistoryButton.label       "Εκκαθάριση ιστορικού…">
+<!ENTITY  clearHistoryButton.accesskey   "σ">
 
 <!ENTITY  privateBrowsingPermanent2.label "Μόνιμη λειτουργία ιδιωτικής περιήγησης">
 <!ENTITY  privateBrowsingPermanent2.accesskey "ι">
