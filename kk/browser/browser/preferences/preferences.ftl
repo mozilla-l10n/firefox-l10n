@@ -110,23 +110,6 @@ startup-prev-session =
 disable-extension =
     .label = Кеңейтуді сөндіру
 home-page-header = Үй парағы
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Ағымдағы бетті қолдану
-           *[other] Ағымдағы беттерді қолдану
-        }
-    .accesskey = А
-choose-bookmark =
-    .label = Бетбелгіні қолдану…
-    .accesskey = Б
-restore-default =
-    .label = Бастапқы күйге келтіру
-    .accesskey = с
 tabs-group-header = Беттер
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab беттер арасында соңғы қолданылу реті бойынша ауысады
@@ -301,6 +284,29 @@ network-proxy-connection-settings =
     .label = Баптау…
     .accesskey = а
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Ағымдағы бетті қолдану
+           *[other] Ағымдағы беттерді қолдану
+        }
+    .accesskey = А
+choose-bookmark =
+    .label = Бетбелгіні қолдану…
+    .accesskey = Б
+restore-default =
+    .label = Бастапқы күйге келтіру
+    .accesskey = с
+
 ## Search Section
 
 search-bar-header = Іздеу жолағы
@@ -344,3 +350,15 @@ search-keyword-warning-title = Қысқаша атау қазір қолдану
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Сіз таңдаған қысқаша атау қазір "{ $name }" қолдануда. Басқасын таңдаңыз.
 search-keyword-warning-bookmark = Сіз таңдаған қысқаша атауды қазір бетбелгілердің біреуі қолданады. Басқасын таңдаңыз.
+
+## Containers Section
+
+containers-back-link = « Артқа
+containers-header = Контейнер беттері
+containers-add-button =
+    .label = Жаңа контейнерді қосу
+    .accesskey = а
+containers-preferences-button =
+    .label = Баптаулар
+containers-remove-button =
+    .label = Өшіру
