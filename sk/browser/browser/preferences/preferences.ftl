@@ -350,6 +350,7 @@ search-keyword-warning-bookmark = Zadali ste kľúčové slovo, ktoré je v sú�
 ## Containers Section
 
 containers-back-link = « Späť
+containers-header = Kontajnerové karty
 containers-add-button =
     .label = Pridať nový kontajner
     .accesskey = P
