@@ -344,3 +344,7 @@ containers-back-link = « Kembali
 containers-add-button =
     .label = Tambahkan Kontainer Baru
     .accesskey = T
+containers-preferences-button =
+    .label = Preferensi
+containers-remove-button =
+    .label = Hapus
