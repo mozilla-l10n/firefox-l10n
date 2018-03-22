@@ -41,6 +41,7 @@ policies-notice =
 pane-general-title = Splošno
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = Domov
 pane-search-title = Iskanje
 category-search =
     .tooltiptext = { pane-search-title }
@@ -286,9 +287,18 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = Nova okna in zavihki
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Domača stran in nova okna
+home-newtabs-mode-label = Novi zavihki
+home-mode-choice-custom =
+    .label = URL-ji po meri ...
+home-mode-choice-blank =
+    .label = Prazna stran
+home-homepage-custom-url =
+    .placeholder = Prilepi URL ...
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
