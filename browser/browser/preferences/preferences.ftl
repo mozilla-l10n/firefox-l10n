@@ -340,6 +340,7 @@ search-keyword-warning-bookmark = Anda telah memilih kata kunci yang sama dengan
 
 ## Containers Section
 
+containers-back-link = « Kembali
 containers-add-button =
     .label = Tambahkan Kontainer Baru
     .accesskey = T
