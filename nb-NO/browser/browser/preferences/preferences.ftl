@@ -110,23 +110,6 @@ startup-prev-session =
 disable-extension =
     .label = Slå av utvidelse
 home-page-header = Startside
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Bruk åpen nettside
-           *[other] Bruk åpne nettsider
-        }
-    .accesskey = B
-choose-bookmark =
-    .label = Bruk bokmerke …
-    .accesskey = u
-restore-default =
-    .label = Bruk standard
-    .accesskey = s
 tabs-group-header = Faner
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab veksler mellom faner i nylig brukt-rekkefølge
@@ -301,6 +284,29 @@ network-proxy-connection-settings =
     .label = Innstillinger …
     .accesskey = I
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Bruk åpen nettside
+           *[other] Bruk åpne nettsider
+        }
+    .accesskey = B
+choose-bookmark =
+    .label = Bruk bokmerke …
+    .accesskey = u
+restore-default =
+    .label = Bruk standard
+    .accesskey = s
+
 ## Search Section
 
 search-bar-header = Søkelinje
@@ -344,3 +350,13 @@ search-keyword-warning-title = Duplikat nøkkelord
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Du har valgt et nøkkelord som allerede brukes av «{ $name }». Velg et annet nøkkelord.
 search-keyword-warning-bookmark = Du har valgt et nøkkelord som brukes av et annet bokmerke. Velg et annet nøkkelord.
+
+## Containers Section
+
+containers-add-button =
+    .label = Legg til ny beholder
+    .accesskey = L
+containers-preferences-button =
+    .label = Innstillinger
+containers-remove-button =
+    .label = Fjern
