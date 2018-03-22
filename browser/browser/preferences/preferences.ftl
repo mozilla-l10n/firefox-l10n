@@ -104,23 +104,6 @@ startup-prev-session =
 disable-extension =
     .label = एक्सटेन्सन अक्षम गर्नुहोस्
 home-page-header = गृहपृष्ठ
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] अहिलेको पृष्ठ प्रयोग गर्नुहोस्
-           *[other] अहिलेको पृष्ठहरू प्रयोग गर्नुहोस्
-        }
-    .accesskey = C
-choose-bookmark =
-    .label = पुस्तकचिनो प्रयोग गर्नुहोस्...
-    .accesskey = B
-restore-default =
-    .label = पूर्वनिर्धारित रूपमा लग्नुहोस्
-    .accesskey = R
 tabs-group-header = ट्याबहरू
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab ले हालसालै प्रयोग गरिएका ट्याबहरूमा चक्र लगाउँछ
@@ -295,6 +278,29 @@ network-proxy-connection-settings =
     .label = सेटिङ्हरू…
     .accesskey = e
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] अहिलेको पृष्ठ प्रयोग गर्नुहोस्
+           *[other] अहिलेको पृष्ठहरू प्रयोग गर्नुहोस्
+        }
+    .accesskey = C
+choose-bookmark =
+    .label = पुस्तकचिनो प्रयोग गर्नुहोस्...
+    .accesskey = B
+restore-default =
+    .label = पूर्वनिर्धारित रूपमा लग्नुहोस्
+    .accesskey = R
+
 ## Search Section
 
 search-bar-header = खोजीपट्टि
@@ -331,3 +337,10 @@ search-keyword-warning-title = नक्कली शब्दकुञ्जी
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = तपाईँले चयन गर्नु भएको खोज शब्द हाल "{ $name }" ले प्रयोग गरिरहेको छ। कृपया अर्को चयन गर्नुहोस्।
 search-keyword-warning-bookmark = तपाईँले चयन गर्नु भएको खोजशब्द हाल पुस्तकचिनोले प्रयोग गरिरहेको छ। कृपया अर्को चयन गर्नुहोस्।
+
+## Containers Section
+
+containers-header = कन्टेनर ट्याबहरू
+containers-add-button =
+    .label = नयाँ कन्टेनर थप्नुहोस्
+    .accesskey = A
