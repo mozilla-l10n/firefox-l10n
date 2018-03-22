@@ -87,23 +87,6 @@ startup-prev-session =
 disable-extension =
     .label = Kengaytmani o‘chirib qo‘yish
 home-page-header = Bosh sahifa ko‘rsatilsin
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Joriy sahifadan foydalanish
-           *[other] Joriy sahifalardan foydalanish
-        }
-    .accesskey = J
-choose-bookmark =
-    .label = Xatcho‘plardan foydalanish
-    .accesskey = X
-restore-default =
-    .label = Standart holatiga tiklash
-    .accesskey = S
 tabs-group-header = Ichki oynalar
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab yordamida ichki oynalarga so‘nggi foydalanish tartibida o‘tish mumkin
@@ -249,6 +232,29 @@ network-proxy-connection-settings =
     .label = Parametrlar…
     .accesskey = e
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Joriy sahifadan foydalanish
+           *[other] Joriy sahifalardan foydalanish
+        }
+    .accesskey = J
+choose-bookmark =
+    .label = Xatcho‘plardan foydalanish
+    .accesskey = X
+restore-default =
+    .label = Standart holatiga tiklash
+    .accesskey = S
+
 ## Search Section
 
 search-engine-default-header = Standart qidiruv tizimi
@@ -274,3 +280,14 @@ search-keyword-warning-title = Kalit so‘z nusxasini yaratish
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = "{ $name }" foydalanadigan kalit so‘zni tanlagansiz. Boshqasini tanlang.
 search-keyword-warning-bookmark = Xatcho‘pda foydalaniladigan kalit so‘zni tanlagansiz. Boshqasini tanlang.
+
+## Containers Section
+
+containers-header = Ichki oynalar konteyneri
+containers-add-button =
+    .label = Yangi konteyner qo‘shish
+    .accesskey = q
+containers-preferences-button =
+    .label = Parametrlar
+containers-remove-button =
+    .label = Olib tashlash
