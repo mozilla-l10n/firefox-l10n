@@ -21,6 +21,21 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] اختیارات میں تلاش کریں
+           *[other] ترجیحات میں تلاش کریں
+        }
 pane-general-title = عمومی
 category-general =
     .tooltiptext = { pane-general-title }
@@ -51,6 +66,7 @@ restart-later = بعد میں دوباره شروع کریں
 
 ## Preferences UI Search Results
 
+search-results-header = تلاش کے نتائج
 
 ## General Section
 
