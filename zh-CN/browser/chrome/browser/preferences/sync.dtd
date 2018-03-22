@@ -75,6 +75,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY cancelSetup.label            "取消设置">
 <!ENTITY cancelSetup.accesskey        "p">
 
+<!ENTITY removeAccount.label          "移除账号">
+<!ENTITY removeAccount.accesskey      "p">
+
 <!ENTITY signedOut.caption            "让您个性化的网络体验随身相伴">
 <!ENTITY signedOut.description        "在您的各种设备间同步您的书签、历史记录、标签页、密码、附加组件与首选项。">
 <!ENTITY signedOut.accountBox.title   "使用 &syncBrand.fxAccount.label; 登录，开启同步功能">
