@@ -110,23 +110,6 @@ startup-prev-session =
 disable-extension =
     .label = Rozšyrjenje znjemóžniś
 home-page-header = Startowy bok
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Aktualny bok wužywaś
-           *[other] Aktualne boki wužywaś
-        }
-    .accesskey = A
-choose-bookmark =
-    .label = Cytańske znamje wužywaś…
-    .accesskey = C
-restore-default =
-    .label = Standard wótnowiś
-    .accesskey = t
 tabs-group-header = Rejtarki
 ctrl-tab-recently-used-order =
     .label = Strg+Tab pśejźo rejtarki pó tuchylu póstajonem pórěźe
@@ -305,6 +288,29 @@ network-proxy-connection-settings =
     .label = Nastajenja…
     .accesskey = N
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Aktualny bok wužywaś
+           *[other] Aktualne boki wužywaś
+        }
+    .accesskey = A
+choose-bookmark =
+    .label = Cytańske znamje wužywaś…
+    .accesskey = C
+restore-default =
+    .label = Standard wótnowiś
+    .accesskey = t
+
 ## Search Section
 
 search-bar-header = Pytańske pólo
@@ -348,3 +354,15 @@ search-keyword-warning-title = Klucowe słowo duplicěrowaś
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Sćo klucowe słowo wubrał, kótarež wužywa se rowno wót "{ $name }". Pšosym wubjeŕśo druge.
 search-keyword-warning-bookmark = Sćo klucowe słowo wubrał, kótarež wužiwa se rowno wót cytańskich znemjenjow. Pšosym wubjeŕśo druge.
+
+## Containers Section
+
+containers-back-link = « Slědk
+containers-header = Kontejnerowe rejtarki
+containers-add-button =
+    .label = Nowy kontejner pśidaś
+    .accesskey = k
+containers-preferences-button =
+    .label = Nastajenja
+containers-remove-button =
+    .label = Wótwónoźeś
