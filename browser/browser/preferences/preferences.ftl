@@ -354,6 +354,7 @@ search-keyword-warning-bookmark = Hazırda bir əlfəcin tərəfindən istifadə
 ## Containers Section
 
 containers-back-link = « Geri qayıt
+containers-header = Konteyner Vərəqlər
 containers-add-button =
     .label = Yeni konteyner əlavə et
     .accesskey = A
