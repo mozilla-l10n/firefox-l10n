@@ -103,23 +103,6 @@ startup-prev-session =
 disable-extension =
     .label = এক্সটেনশনটি নিষ্ক্রিয় করুন
 home-page-header = হোম পেজ
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] বর্তমান পৃষ্ঠা প্রয়োগ করা হবে
-           *[other] বর্তমান পৃষ্ঠাগুলি প্রয়োগ করা হবে
-        }
-    .accesskey = C
-choose-bookmark =
-    .label = বুকমার্ক প্রয়োগ করা হবে…
-    .accesskey = B
-restore-default =
-    .label = ডিফল্ট মান পুনরায় স্থাপন করা হবে
-    .accesskey = R
 tabs-group-header = ট্যাব
 ctrl-tab-recently-used-order =
     .label = ট্যাবের মধ্যে দিয়ে Ctrl+Tab সাইকেল করে সম্প্রতি ব্যবহৃত সারিতে 
@@ -290,6 +273,29 @@ network-proxy-connection-settings =
     .label = বৈশিষ্ট্যাবলী...
     .accesskey = ব
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] বর্তমান পৃষ্ঠা প্রয়োগ করা হবে
+           *[other] বর্তমান পৃষ্ঠাগুলি প্রয়োগ করা হবে
+        }
+    .accesskey = C
+choose-bookmark =
+    .label = বুকমার্ক প্রয়োগ করা হবে…
+    .accesskey = B
+restore-default =
+    .label = ডিফল্ট মান পুনরায় স্থাপন করা হবে
+    .accesskey = R
+
 ## Search Section
 
 search-bar-header = অনুসন্ধান  বার
@@ -326,3 +332,9 @@ search-keyword-warning-title = নির্দেশক শব্দ উপস�
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = "{ $name }" দ্বারা বর্তমানে ব্যবহৃত একটি নির্দেশক শব্দ নির্বাচন করা হয়েছে। অনুগ্রহ করে একটি পৃথক নির্দেশক শব্দ নির্বাচন করুন।
 search-keyword-warning-bookmark = বর্তমানে একটি বুকমার্ক দ্বারা ব্যবহৃত নির্দেশক শব্দ নির্বাচন করা হয়েছে। অনুগ্রহ করে একটি পৃথক নির্দেশক শব্দ নির্বাচন করুন।
+
+## Containers Section
+
+containers-add-button =
+    .label = একটি কন্টেইনার যোগ করুন
+    .accesskey = A
