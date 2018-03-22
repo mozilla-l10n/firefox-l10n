@@ -353,3 +353,7 @@ containers-back-link = « Ir atrás
 containers-add-button =
     .label = Agregar un nuevo contenedor
     .accesskey = A
+containers-preferences-button =
+    .label = Preferencias
+containers-remove-button =
+    .label = Eliminar

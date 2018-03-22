@@ -25,6 +25,8 @@ containers-window-close =
 containers-name-label = Nombre
     .accesskey = N
     .style = { -containers-labels-style }
+containers-name-text =
+    .placeholder = Escribe el nombre de un marcador
 containers-icon-label = Ícono
     .accesskey = I
     .style = { -containers-labels-style }
@@ -34,6 +36,16 @@ containers-color-label = Color
 containers-button-done =
     .label = Listo
     .accesskey = D
+containers-remove-alert-title = ¿Eliminar el marcador?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Si eliminas este marcador ahora, la pestaña del marcador { $count } se cerrará. ¿Estás seguro de que quieres eliminar este marcador?
+       *[other] Si eliminas este marcador ahora, las pestañas del marcador { $count } se cerrarán. ¿Estás seguro de que quieres eliminar este marcador?
+    }
+containers-remove-ok-button = Eliminar este marcador
+containers-remove-cancel-button = No eliminar este marcador
 containers-color-blue =
     .label = Azul
 containers-color-turquoise =
