@@ -350,6 +350,7 @@ search-keyword-warning-bookmark = Seleccionaste una palabra clave usada por un m
 ## Containers Section
 
 containers-back-link = « Ir atrás
+containers-header = Pestañas contenedoras
 containers-add-button =
     .label = Agregar un nuevo contenedor
     .accesskey = A
