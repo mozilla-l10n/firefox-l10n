@@ -1,0 +1,67 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+containers-window-new =
+    .title = புதிய கலனைச் சேர்
+    .style = width: 45em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update =
+    .title = { $name } கலன்களின் முன்னுரிமைகள்
+    .style = 45em
+containers-window-close =
+    .key = w
+# This is a term to store style to be applied
+# on the three labels in the containers add/edit dialog:
+#   - name
+#   - icon
+#   - color
+#
+# Using this term and referencing it in the `.style` attribute
+# of the three messages ensures that all three labels
+# will be aligned correctly.
+-containers-labels-style = min-width: 4rem
+containers-name-text =
+    .placeholder = ஒரு கலனின் பெயரை இடுக
+containers-button-done =
+    .label = முடிந்தது
+    .accesskey = D
+containers-remove-alert-title = இந்தக் கலனை நீக்கவா?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] நீங்கள் இப்போது இந்தக் கொள்கலனை நீக்கினால், { $count } கொள்கலன் கீற்று மூடப்படும். இந்தக் கொள்கலனை நீக்க வேண்டுமா?
+       *[other] இப்போது இந்தக் கொள்னை நீக்கினால், { $count } கொள்கலன் கீற்றுகள் மூடப்படும். இந்தக் கொள்னை நீக்க வேண்டுமா?
+    }
+containers-remove-ok-button = இக்கலனை நீக்கு
+containers-remove-cancel-button = இக்கலனை நீக்க வேண்டாம்
+containers-color-blue =
+    .label = நீலம்
+containers-color-turquoise =
+    .label = நீல பச்சை
+containers-color-green =
+    .label = பச்சை
+containers-color-yellow =
+    .label = மஞ்சள்
+containers-color-orange =
+    .label = செம்மஞ்சள்
+containers-color-red =
+    .label = சிகப்பு
+containers-color-pink =
+    .label = இளஞ்சிவப்பு
+containers-color-purple =
+    .label = ஊதா
+containers-icon-fingerprint =
+    .label = கைரேகை
+containers-icon-briefcase =
+    .label = பெட்டி
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+containers-icon-dollar =
+    .label = டாலர் குறி
+containers-icon-cart =
+    .label = கடை வண்டி
+containers-icon-circle =
+    .label = புள்ளி
