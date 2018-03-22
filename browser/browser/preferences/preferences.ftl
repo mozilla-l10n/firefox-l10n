@@ -352,6 +352,7 @@ search-keyword-warning-bookmark = Jūs izvēlējāties atslēgas vārdu, ko jau 
 ## Containers Section
 
 containers-back-link = « Iet atpakaļ
+containers-header = Saturošās cilnes
 containers-add-button =
     .label = Pievienot jaunu konteineru
     .accesskey = A
