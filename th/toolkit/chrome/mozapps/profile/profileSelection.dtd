@@ -12,7 +12,7 @@
 <!ENTITY            start.label            "เริ่ม &brandShortName;">
 <!ENTITY            exit.label             "ออก">
 
-<!ENTITY            availprofiles.label    "โปรไฟล์ที่ใช้ได้">
+<!ENTITY            availprofiles.label    "โปรไฟล์ที่มี">
 
 <!ENTITY            newButton.label        "สร้างโปรไฟล์…">
 <!ENTITY            newButton.accesskey    "ส">
