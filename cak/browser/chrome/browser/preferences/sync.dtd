@@ -70,15 +70,13 @@ both, to better adapt this sentence to their language.
 <!ENTITY verifiedManage.accesskey     "y">
 <!ENTITY disconnect3.label            "Tichup…">
 <!ENTITY disconnect3.accesskey        "c">
-<!ENTITY verify.label                "Tinik'öx taqoya'l">
-<!ENTITY verify.accesskey            "n">
-<!ENTITY forget.label                "Tamestaj re taqoya'l re'">
-<!ENTITY forget.accesskey            "m">
-
 <!ENTITY resendVerification.label     "Titaq chik Jikib'anïk">
 <!ENTITY resendVerification.accesskey "q">
 <!ENTITY cancelSetup.label            "Tiq'at Nuk'ulem">
 <!ENTITY cancelSetup.accesskey        "m">
+
+<!ENTITY removeAccount.label          "Tiyuj Rub'i' Taqoya'l">
+<!ENTITY removeAccount.accesskey      "p">
 
 <!ENTITY signedOut.caption            "Tak'waj awik'in ri Ajk'amaya'l">
 <!ENTITY signedOut.description        "Ke'axima' ri taq ayaketal, natab'äl, taq ruwi', taq ewan tzij, taq tz'aqat chuqa' taq ajowab'äl chi kikojol konojel ri taq awokisaxel.">

@@ -14,12 +14,8 @@ pref-page =
             [windows] Taq cha'oj
            *[other] Taq ajowab'äl
         }
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
+# This string is currently used only in Firefox 60 and will be removed when not
+# needed for x-channel. See bug 1445686 for details.
 search-input =
     .style = width: 15.4em
 # This is used to determine the width of the search field in about:preferences,
@@ -45,6 +41,9 @@ policies-notice =
 pane-general-title = Chijun
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = Tikirib'äl
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = Tikanöx
 category-search =
     .tooltiptext = { pane-search-title }
@@ -286,9 +285,26 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = K'ak'a' taq Tzuwäch chuqa' taq Ruwi'
+home-new-windows-tabs-description = Tacha' achike natz'ët toq najäq ri tikirib'äl ruxaq, k'ak'a' taq tzuwäch, chuqa' k'ak'a' taq ruwi'
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Tikirib'äl ruxaq chuqa' k'ak'a' taq tzuwäch
+home-newtabs-mode-label = K'ak'a' taq ruwi'
+home-restore-defaults =
+    .label = Ketzolij ri E K'o wi
+    .accesskey = K
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Firefox Tikirib'äl (K'o wi)
+home-mode-choice-custom =
+    .label = Ichinan URLs...
+home-mode-choice-blank =
+    .label = Kowöl Ruxaq
+home-homepage-custom-url =
+    .placeholder = Titz'ajb'äx jun URL...
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
