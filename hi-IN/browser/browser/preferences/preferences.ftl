@@ -110,23 +110,6 @@ startup-prev-session =
 disable-extension =
     .label = एक्सटेंशन अक्षम करें
 home-page-header = मुख पृष्ठ
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] मौजूदा पृष्ठ का उपयोग करें
-           *[other] मौजूदा पृष्ठों का उपयोग करें
-        }
-    .accesskey = C
-choose-bookmark =
-    .label = पुस्तचिह्न का उपयोग करें…
-    .accesskey = B
-restore-default =
-    .label = डिफ़ॉल्ट पुनर्स्थापित करें
-    .accesskey = R
 tabs-group-header = टैब
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab टैब्स के द्वारा हाल ही में उपयोग किये गये अनुक्रम में घूमता है 
@@ -301,6 +284,29 @@ network-proxy-connection-settings =
     .label = सेटिंग…
     .accesskey = e
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] मौजूदा पृष्ठ का उपयोग करें
+           *[other] मौजूदा पृष्ठों का उपयोग करें
+        }
+    .accesskey = C
+choose-bookmark =
+    .label = पुस्तचिह्न का उपयोग करें…
+    .accesskey = B
+restore-default =
+    .label = डिफ़ॉल्ट पुनर्स्थापित करें
+    .accesskey = R
+
 ## Search Section
 
 search-bar-header = खोज पट्टी
@@ -344,3 +350,14 @@ search-keyword-warning-title = बीजशब्द अनुकृति
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = आपने एक बीजशब्द चुना है जो अभी "{ $name }" के द्वारा प्रयोग में है. कृपया दूसरा चुनें.
 search-keyword-warning-bookmark = आपने एक बीजशब्द चुना है जो अभी पुस्तचिह्न के द्वारा प्रयोग में है. कृपया दूसरा चुनें.‌
+
+## Containers Section
+
+containers-header = पात्र टैब
+containers-add-button =
+    .label = नया पात्र जोड़े
+    .accesskey = A
+containers-preferences-button =
+    .label = प्राथमिकताएँ
+containers-remove-button =
+    .label = हटायें
