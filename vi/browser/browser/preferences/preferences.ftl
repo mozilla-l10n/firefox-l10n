@@ -104,23 +104,6 @@ startup-prev-session =
 disable-extension =
     .label = Tắt phần mở rộng
 home-page-header = Trang chủ
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Sử dụng Trang hiện tại
-           *[other] Dùng các Trang hiện tại
-        }
-    .accesskey = a
-choose-bookmark =
-    .label = Dùng trang đánh dấu…
-    .accesskey = d
-restore-default =
-    .label = Khôi phục về Mặc định
-    .accesskey = M
 tabs-group-header = Thẻ
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab để chuyển qua các thẻ theo thứ tự sử dụng gần đây nhất
@@ -287,6 +270,29 @@ network-proxy-connection-settings =
     .label = Thiết lập…
     .accesskey = p
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Sử dụng Trang hiện tại
+           *[other] Dùng các Trang hiện tại
+        }
+    .accesskey = a
+choose-bookmark =
+    .label = Dùng trang đánh dấu…
+    .accesskey = d
+restore-default =
+    .label = Khôi phục về Mặc định
+    .accesskey = M
+
 ## Search Section
 
 search-bar-header = Thanh tìm kiếm
@@ -330,3 +336,9 @@ search-keyword-warning-title = Nhân bản Từ khóa
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Bạn đã chọn một từ khóa hiện đang được dùng bởi "{ $name }". Vui lòng chọn từ khác.
 search-keyword-warning-bookmark = Bạn đã chọn một từ khóa hiện đang được dùng bởi một trang đánh dấu. Vui lòng chọn từ khác.
+
+## Containers Section
+
+containers-add-button =
+    .label = Thêm ngăn chứa mới
+    .accesskey = T
