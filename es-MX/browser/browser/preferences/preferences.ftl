@@ -106,23 +106,6 @@ startup-prev-session =
 disable-extension =
     .label = Deshabilitar extensión
 home-page-header = Página de inicio
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Usar página actual
-           *[other] Usar páginas actuales
-        }
-    .accesskey = c
-choose-bookmark =
-    .label = Usar marcador…
-    .accesskey = m
-restore-default =
-    .label = Restaurar valor por defecto
-    .accesskey = R
 tabs-group-header = Pestañas
 ctrl-tab-recently-used-order =
     .label = Ctrl + Tab recorre pestañas según su uso reciente
@@ -297,6 +280,29 @@ network-proxy-connection-settings =
     .label = Configurar…
     .accesskey = C
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Usar página actual
+           *[other] Usar páginas actuales
+        }
+    .accesskey = c
+choose-bookmark =
+    .label = Usar marcador…
+    .accesskey = m
+restore-default =
+    .label = Restaurar valor por defecto
+    .accesskey = R
+
 ## Search Section
 
 search-bar-header = Barra de búsqueda
@@ -340,3 +346,10 @@ search-keyword-warning-title = Palabra clave duplicada
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Seleccionaste una palabra clave usada por "{ $name }". Selecciona otra.
 search-keyword-warning-bookmark = Seleccionaste una palabra clave usada por un marcador. Selecciona otra.
+
+## Containers Section
+
+containers-back-link = « Ir atrás
+containers-add-button =
+    .label = Agregar un nuevo contenedor
+    .accesskey = A
