@@ -336,6 +336,9 @@ search-keyword-warning-bookmark = మీరు ఎంచుకున్న క�
 
 ## Containers Section
 
+containers-add-button =
+    .label = కొత్త కంటేయినర్ జోడించు
+    .accesskey = A
 containers-preferences-button =
     .label = అభిరుచులు
 containers-remove-button =
