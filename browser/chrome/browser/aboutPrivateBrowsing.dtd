@@ -23,7 +23,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "O Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "irá guardar">
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          ":">
-<!ENTITY aboutPrivateBrowsing.info.downloads             "transferências">
+<!ENTITY aboutPrivateBrowsing.info.downloads             "descargas">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "marcadores">
 <!ENTITY aboutPrivateBrowsing.note.before                "A Navegação privada ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "não lhe dá anonimato">
