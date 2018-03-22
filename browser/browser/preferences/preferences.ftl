@@ -106,23 +106,6 @@ startup-prev-session =
 disable-extension =
     .label = Onemogoči razširitev
 home-page-header = Domača stran
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Uporabi trenutno stran
-           *[other] Uporabi trenutne strani
-        }
-    .accesskey = T
-choose-bookmark =
-    .label = Uporabi zaznamek …
-    .accesskey = z
-restore-default =
-    .label = Uporabi privzeto stran
-    .accesskey = r
 tabs-group-header = Zavihki
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab kroži med zavihki po vrsti, kot so bili nazadnje uporabljeni
@@ -301,6 +284,29 @@ network-proxy-connection-settings =
     .label = Nastavitve …
     .accesskey = n
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Uporabi trenutno stran
+           *[other] Uporabi trenutne strani
+        }
+    .accesskey = T
+choose-bookmark =
+    .label = Uporabi zaznamek …
+    .accesskey = z
+restore-default =
+    .label = Uporabi privzeto stran
+    .accesskey = r
+
 ## Search Section
 
 search-bar-header = Iskalna vrstica
@@ -344,3 +350,9 @@ search-keyword-warning-title = Podvojena ključna beseda
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Izbrali ste ključno besedo, ki jo trenutno uporablja "{ $name }". Prosim, izberite drugo.
 search-keyword-warning-bookmark = Izbrali ste ključno besedo, ki jo trenutno uporablja zaznamek. Prosim, izberite drugo.
+
+## Containers Section
+
+containers-add-button =
+    .label = Dodaj nov vsebnik
+    .accesskey = D
