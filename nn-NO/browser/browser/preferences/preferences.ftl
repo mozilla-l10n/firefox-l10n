@@ -348,6 +348,10 @@ search-keyword-warning-bookmark = Du har valt eit nykelord som allereie vert bru
 
 ## Containers Section
 
+containers-back-link = « Gå tilbake
+containers-add-button =
+    .label = Legg til ny behaldar
+    .accesskey = L
 containers-preferences-button =
     .label = Innstillingar
 containers-remove-button =

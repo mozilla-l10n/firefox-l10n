@@ -2,6 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+containers-window-new =
+    .title = Legg til ny behaldar
+    .style = width: 45em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update =
+    .title = Behaldarinstillingar for { $name }
+    .style = 45em
 containers-window-close =
     .key = w
 # This is a term to store style to be applied
@@ -14,9 +22,30 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+containers-name-label = Namn
+    .accesskey = N
+    .style = { -containers-labels-style }
+containers-name-text =
+    .placeholder = Skriv inn eit behaldarnamn
+containers-icon-label = Ikon
+    .accesskey = I
+    .style = { -containers-labels-style }
+containers-color-label = Farge
+    .accesskey = F
+    .style = { -containers-labels-style }
 containers-button-done =
     .label = Ferdig
     .accesskey = F
+containers-remove-alert-title = Fjerne denne behaldaren?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Om du fjernar dennebehaldaren no, vil { $count } innhaldsfane bli stengt. Er du sikker på at du vil fjerne denne behaldaren?
+       *[other] Om du fjernar denne behaldaren no, vil { $count } innhaldsfaner bli stengt. Er du sikker på at du vil fjerne denne behaldaren?
+    }
+containers-remove-ok-button = Fjern denne behaldaren
+containers-remove-cancel-button = Ikkje fjern denne behaldaren
 containers-color-blue =
     .label = Blå
 containers-color-turquoise =
@@ -45,3 +74,17 @@ containers-icon-cart =
     .label = Handlevogn
 containers-icon-circle =
     .label = Punkt
+containers-icon-vacation =
+    .label = Ferie
+containers-icon-gift =
+    .label = Gåve
+containers-icon-food =
+    .label = Mat
+containers-icon-fruit =
+    .label = Frukt
+containers-icon-pet =
+    .label = Kjæledyr
+containers-icon-tree =
+    .label = Tre
+containers-icon-chill =
+    .label = Avslapping
