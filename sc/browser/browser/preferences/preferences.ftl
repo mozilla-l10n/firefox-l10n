@@ -24,6 +24,9 @@ focus-search =
 ## Browser Restart Dialog
 
 
+## Preferences UI Search Results
+
+
 ## General Section
 
 startup-header = Aviu
@@ -48,6 +51,19 @@ performance-settings-learn-more = Leghe àteru
 ## General Section - Proxy
 
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+
 ## Search Section
 
 search-engine-default-header = Pone su primu chircadore chi b'est istadu
+
+## Containers Section
+
+containers-preferences-button =
+    .label = Preferèntzias
+containers-remove-button =
+    .label = Boga
