@@ -70,15 +70,13 @@ both, to better adapt this sentence to their language.
 <!ENTITY verifiedManage.accesskey     "H">
 <!ENTITY disconnect3.label            "Bağlantıyı kes…">
 <!ENTITY disconnect3.accesskey        "B">
-<!ENTITY verify.label                "E-postayı doğrula">
-<!ENTITY verify.accesskey            "d">
-<!ENTITY forget.label                "Bu e-postayı unut">
-<!ENTITY forget.accesskey            "u">
-
 <!ENTITY resendVerification.label     "Doğrulamayı yeniden gönder">
 <!ENTITY resendVerification.accesskey "d">
 <!ENTITY cancelSetup.label            "Kurulumu iptal et">
 <!ENTITY cancelSetup.accesskey        "p">
+
+<!ENTITY removeAccount.label          "Hesabı sil">
+<!ENTITY removeAccount.accesskey      "H">
 
 <!ENTITY signedOut.caption            "Web’inizi yanınızda taşıyın">
 <!ENTITY signedOut.description        "Yer imlerinizi, geçmişinizi, sekmelerinizi, eklentilerinizi ve tercihlerinizi tüm cihazlarınız arasında senkronize edin.">
