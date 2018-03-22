@@ -41,6 +41,9 @@ policies-notice =
 pane-general-title = ทั่วไป
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = หน้าแรก
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = ค้นหา
 category-search =
     .tooltiptext = { pane-search-title }
@@ -274,9 +277,19 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = หน้าต่างและแท็บใหม่
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = หน้าแรกและหน้าต่างใหม่
+home-newtabs-mode-label = แท็บใหม่
+home-restore-defaults =
+    .label = เรียกคืนค่าเริ่มต้น
+    .accesskey = ร
+home-mode-choice-custom =
+    .label = URL ที่กำหนดเอง…
+home-homepage-custom-url =
+    .placeholder = วาง URL…
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
