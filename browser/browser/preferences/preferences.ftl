@@ -347,6 +347,7 @@ search-keyword-warning-bookmark = Vi elektis kategorian vorton kiu estas nuntemp
 
 ## Containers Section
 
+containers-header = Ingaj langetoj
 containers-add-button =
     .label = Aldoni novan ingon
     .accesskey = A
