@@ -22,8 +22,14 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+containers-name-label = Nying
+    .accesskey = N
+    .style = { -containers-labels-style }
 containers-name-text =
     .placeholder = Ket nying lamak jami
+containers-icon-label = Cal
+    .accesskey = C
+    .style = { -containers-labels-style }
 containers-button-done =
     .label = Otum
     .accesskey = O
@@ -61,3 +67,11 @@ containers-icon-dollar =
     .label = Dollar sign
 containers-icon-cart =
     .label = Kikabo me wil
+containers-icon-gift =
+    .label = Mic
+containers-icon-food =
+    .label = Dek
+containers-icon-fruit =
+    .label = Nyig yat
+containers-icon-tree =
+    .label = Yat

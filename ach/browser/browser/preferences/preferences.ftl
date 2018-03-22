@@ -334,6 +334,7 @@ search-keyword-warning-bookmark = I yero lok mapire tek ma kombedi alama buk tye
 
 ## Containers Section
 
+containers-back-link = « Dok cen
 containers-header = Dirica matidi me mako jami
 containers-add-button =
     .label = Med lamak jami manyen
