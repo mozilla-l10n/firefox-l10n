@@ -340,6 +340,7 @@ search-keyword-warning-bookmark = Bạn đã chọn một từ khóa hiện đan
 ## Containers Section
 
 containers-back-link = « Quay lại
+containers-header = Thẻ ngăn chứa
 containers-add-button =
     .label = Thêm ngăn chứa mới
     .accesskey = T
