@@ -110,23 +110,6 @@ startup-prev-session =
 disable-extension =
     .label = გაფართოების ამორთვა
 home-page-header = მთავარი გვერდი
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] მიმდინარე გვერდის გამოყენება
-           *[other] მიმდინარე გვერდების გამოყენება
-        }
-    .accesskey = მ
-choose-bookmark =
-    .label = სანიშნის გამოყენება…
-    .accesskey = ს
-restore-default =
-    .label = ნაგულისხმევი
-    .accesskey = ა
 tabs-group-header = ჩანართები
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab წრიულად გადართვა ჩანართებზე, ბოლო გამოყენების რიგითობით.
@@ -301,6 +284,29 @@ network-proxy-connection-settings =
     .label = პარამეტრები…
     .accesskey = პ
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] მიმდინარე გვერდის გამოყენება
+           *[other] მიმდინარე გვერდების გამოყენება
+        }
+    .accesskey = მ
+choose-bookmark =
+    .label = სანიშნის გამოყენება…
+    .accesskey = ს
+restore-default =
+    .label = ნაგულისხმევი
+    .accesskey = ა
+
 ## Search Section
 
 search-bar-header = ძიების ველი
@@ -344,3 +350,15 @@ search-keyword-warning-title = საკვანძო სიტყვა უ�
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = თქვენ მიერ შერჩეულ საკვანძო სიტყვას უკვე იყენებს "{ $name }". გთხოვთ, შეარჩიოთ სხვა.
 search-keyword-warning-bookmark = თქვენ მიერ შერჩეულ საკვანძო სიტყვას უკვე იყენებს სანიშნი. გთხოვთ, შეარჩიოთ სხვა.
+
+## Containers Section
+
+containers-back-link = « უკან
+containers-header = სათავსი ჩანართები
+containers-add-button =
+    .label = ახალი სათავსის დამატება
+    .accesskey = ა
+containers-preferences-button =
+    .label = პარამეტრები
+containers-remove-button =
+    .label = ამოღება
