@@ -105,23 +105,6 @@ startup-prev-session =
 disable-extension =
     .label = Sens aseɣzif
 home-page-header = Asebter agejdan
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Asebter amiran
-           *[other] Isebtar imiranen
-        }
-    .accesskey = s
-choose-bookmark =
-    .label = Ticraḍ n isebtar…
-    .accesskey = T
-restore-default =
-    .label = Err-d tawila n tazwara
-    .accesskey = E
 tabs-group-header = Iccaren
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab yessezray-d iccaren n umizzwer yettwasqedcen melmi kan
@@ -296,6 +279,29 @@ network-proxy-connection-settings =
     .label = Iɣewwaṛen…
     .accesskey = e
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Asebter amiran
+           *[other] Isebtar imiranen
+        }
+    .accesskey = s
+choose-bookmark =
+    .label = Ticraḍ n isebtar…
+    .accesskey = T
+restore-default =
+    .label = Err-d tawila n tazwara
+    .accesskey = E
+
 ## Search Section
 
 search-bar-header = Afeggag n unadi
@@ -339,3 +345,10 @@ search-keyword-warning-title = Sleg awal n tsarutt
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Tferneḍ awal n tsarutt i  yettusqedcen yakan sɣur "{ $name }".. Ma ulac aɣilif fren wayeḍ.
 search-keyword-warning-bookmark = Tferneḍ awal n tsarutt i yettusqedcen yakan di tecreḍṭ n usebter. Ma ulac aɣilif fren wayeḍ.
+
+## Containers Section
+
+containers-preferences-button =
+    .label = Timsisɣal
+containers-remove-button =
+    .label = kkes
