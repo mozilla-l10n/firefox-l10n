@@ -255,6 +255,10 @@ search-keyword-warning-bookmark = ඔබ විසින් තෝරාගත�
 
 ## Containers Section
 
+containers-back-link = « ආපසු යන්න
+containers-add-button =
+    .label = නව බහාලුමක් එක් කරන්න
+    .accesskey = A
 containers-preferences-button =
     .label = අභිප්‍රේත
 containers-remove-button =
