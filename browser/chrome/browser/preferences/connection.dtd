@@ -34,7 +34,7 @@
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
-<!ENTITY  socksRemoteDNS.label2         "使用 SOCKS v5 代理 DNS">
+<!ENTITY  socksRemoteDNS.label2         "使用 SOCKS v5 时代理 DNS 查询">
 <!ENTITY  socksRemoteDNS.accesskey      "D">
 <!ENTITY  port2.label                   "端口">
 <!ENTITY  HTTPport.accesskey            "P">
