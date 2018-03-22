@@ -105,23 +105,6 @@ startup-prev-session =
 disable-extension =
     .label = పొడగింతను అచేతనించు
 home-page-header = ముంగిలి పేజీ
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] ప్రస్తుత పేజీని వాడు
-           *[other] ప్రస్తుత పేజీలను వాడు
-        }
-    .accesskey = C
-choose-bookmark =
-    .label = ఇష్టాంశాన్ని వాడు…
-    .accesskey = B
-restore-default =
-    .label = అప్రమేయాలను పునరుద్ధరించు
-    .accesskey = R
 tabs-group-header = ట్యాబులు
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab ట్యాబులను వరుసగా కాకుండా వాటిని ఇటీవల వాడిన క్రమంలో చుట్టుతిప్పుతుంది
@@ -289,6 +272,29 @@ network-proxy-connection-settings =
     .label = అమరికలు…
     .accesskey = e
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] ప్రస్తుత పేజీని వాడు
+           *[other] ప్రస్తుత పేజీలను వాడు
+        }
+    .accesskey = C
+choose-bookmark =
+    .label = ఇష్టాంశాన్ని వాడు…
+    .accesskey = B
+restore-default =
+    .label = అప్రమేయాలను పునరుద్ధరించు
+    .accesskey = R
+
 ## Search Section
 
 search-bar-header = శోధన పట్టి
@@ -327,3 +333,10 @@ search-keyword-warning-title = నకిలీ కీ పదము
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = మీరు ఎంచుకున్న కీపదము ప్రస్తుతం  "{ $name }" చేత ఉపయోగించబడుతోంది. దయచేసి వేరొక దానిని ఎంచుకొనము.
 search-keyword-warning-bookmark = మీరు ఎంచుకున్న కీపదము ప్రస్తుతం ఒక ఇష్టాంశముచేత ఉపయోగించబడుతోంది.దయచేసి వేరొక దానిని ఎంచుకొనుము.
+
+## Containers Section
+
+containers-preferences-button =
+    .label = అభిరుచులు
+containers-remove-button =
+    .label = తొలగించు
