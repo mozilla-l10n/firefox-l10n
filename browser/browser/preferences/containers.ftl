@@ -86,3 +86,5 @@ containers-icon-pet =
     .label = വളര്‍ത്തുമൃഗം
 containers-icon-tree =
     .label = മരം
+containers-icon-chill =
+    .label = ചില്‍
