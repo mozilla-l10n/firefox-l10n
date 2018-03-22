@@ -335,7 +335,12 @@ search-keyword-warning-bookmark = বর্তমানে একটি বু�
 
 ## Containers Section
 
+containers-back-link = « পিছনে যান
 containers-header = কন্টেইনার ট্যাব
 containers-add-button =
     .label = একটি কন্টেইনার যোগ করুন
     .accesskey = A
+containers-preferences-button =
+    .label = পছন্দ
+containers-remove-button =
+    .label = মুছে ফেলুন
