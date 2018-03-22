@@ -356,6 +356,7 @@ search-keyword-warning-bookmark = Zvolili jste klíčové slovo, které už je p
 ## Containers Section
 
 containers-back-link = « Jít zpět
+containers-header = Kontejnerové panely
 containers-add-button =
     .label = Přidat kontejner
     .accesskey = a
