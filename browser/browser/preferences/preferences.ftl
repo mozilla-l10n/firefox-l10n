@@ -105,23 +105,6 @@ startup-prev-session =
 disable-extension =
     .label = Изключване на разширението
 home-page-header = Начална страница
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Текущата страница
-           *[other] Текущите страници
-        }
-    .accesskey = Т
-choose-bookmark =
-    .label = Отметка…
-    .accesskey = О
-restore-default =
-    .label = Стандартната страница
-    .accesskey = С
 tabs-group-header = Раздели
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab обикаля разделите в реда на използване
@@ -296,6 +279,29 @@ network-proxy-connection-settings =
     .label = Настройки…
     .accesskey = Н
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Текущата страница
+           *[other] Текущите страници
+        }
+    .accesskey = Т
+choose-bookmark =
+    .label = Отметка…
+    .accesskey = О
+restore-default =
+    .label = Стандартната страница
+    .accesskey = С
+
 ## Search Section
 
 search-bar-header = Лента за търсене
@@ -339,3 +345,14 @@ search-keyword-warning-title = Дублиране на ключовата дум
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Избрали сте ключова дума, която вече се използва от „{ $name }“. Моля, изберете друга.
 search-keyword-warning-bookmark = Избрали сте дума, която вече се използва от отметка. Моля, изберете друга.
+
+## Containers Section
+
+containers-back-link = « Назад
+containers-add-button =
+    .label = Нов изолатор
+    .accesskey = и
+containers-preferences-button =
+    .label = Настройки
+containers-remove-button =
+    .label = Премахване
