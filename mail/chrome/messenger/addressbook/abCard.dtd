@@ -148,3 +148,10 @@
 <!ENTITY PhotoFile.label                "Ar y Cyfrifiadur hwn">
 <!ENTITY PhotoFile.accesskey            "A">
 <!ENTITY BrowsePhoto.label              "Pori">
+<!ENTITY BrowsePhoto.accesskey          "r">
+<!ENTITY PhotoURL.label                 "Ar y We">
+<!ENTITY PhotoURL.accesskey             "W">
+<!ENTITY PhotoURL.placeholder           "Gludo neu deipio cyfeiriad gwe'r ffoto">
+<!ENTITY UpdatePhoto.label              "Diweddaru">
+<!ENTITY UpdatePhoto.accesskey          "i">
+<!ENTITY PhotoDropTarget.label          "Llusgo ffoto newydd yma">
