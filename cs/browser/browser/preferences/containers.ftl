@@ -22,12 +22,15 @@ containers-window-close =
 containers-name-label = Název
     .accesskey = N
     .style = { -containers-labels-style }
+containers-name-text =
+    .placeholder = Zadejte název kontejneru
 containers-icon-label = Ikona
     .accesskey = I
     .style = { -containers-labels-style }
 containers-color-label = Barva
     .accesskey = r
     .style = { -containers-labels-style }
+containers-remove-alert-title = Odstranit tento kontejner?
 # Variables:
 #   $count (Number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
