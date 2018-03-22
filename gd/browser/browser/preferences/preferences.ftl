@@ -110,23 +110,6 @@ startup-prev-session =
 disable-extension =
     .label = Cuir an leudachan à comas
 home-page-header = An duilleag-dhachaidh
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Cleachd an duilleag làithreach
-           *[other] Cleachd na duilleagan làithreach
-        }
-    .accesskey = u
-choose-bookmark =
-    .label = Cleachd comharra-lìn…
-    .accesskey = c
-restore-default =
-    .label = Aisig na roghainnean bunaiteach
-    .accesskey = r
 tabs-group-header = Tabaichean
 ctrl-tab-recently-used-order =
     .label = Cuairtichidh Ctrl+Tab thu tro na tabaichean san robh iad agad o chionn goirid
@@ -305,6 +288,29 @@ network-proxy-connection-settings =
     .label = Roghainnean…
     .accesskey = e
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Cleachd an duilleag làithreach
+           *[other] Cleachd na duilleagan làithreach
+        }
+    .accesskey = u
+choose-bookmark =
+    .label = Cleachd comharra-lìn…
+    .accesskey = c
+restore-default =
+    .label = Aisig na roghainnean bunaiteach
+    .accesskey = r
+
 ## Search Section
 
 search-bar-header = Bàr nan lorg
@@ -348,3 +354,15 @@ search-keyword-warning-title = Facal-luirg dùbailte
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Thagh thu facal-luirg a tha ’ga chleachdadh le “{ $name }” mu thràth. An tagh thu fear eile?
 search-keyword-warning-bookmark = Tagh thu facal-luirg a tha 'ga chleachdadh ann an comharra-lìn mu thràth. An tagh thu fear eile?
+
+## Containers Section
+
+containers-back-link = « Air ais
+containers-header = Tabaichean soithich
+containers-add-button =
+    .label = Cuir soitheach ùr ris
+    .accesskey = a
+containers-preferences-button =
+    .label = Roghainnean
+containers-remove-button =
+    .label = Thoir air falbh
