@@ -14,12 +14,8 @@ pref-page =
             [windows] Поставке
            *[other] Поставке
         }
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
+# This string is currently used only in Firefox 60 and will be removed when not
+# needed for x-channel. See bug 1445686 for details.
 search-input =
     .style = width: 15.4em
 # This is used to determine the width of the search field in about:preferences,
@@ -45,6 +41,9 @@ policies-notice =
 pane-general-title = Опште
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = Почетна
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = Претрага
 category-search =
     .tooltiptext = { pane-search-title }
@@ -288,9 +287,26 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = Нови прозори и језичци
+home-new-windows-tabs-description = Изаберите шта желите да вам се приказује када отворите вашу почетну страницу, нове прозоре и нове језичке
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Почетна страница и нови прозори
+home-newtabs-mode-label = Нови језичци
+home-restore-defaults =
+    .label = Врати на подразумевано
+    .accesskey = В
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Firefox Home (Подразумевано)
+home-mode-choice-custom =
+    .label = Прилагођене адресе...
+home-mode-choice-blank =
+    .label = Празна страница
+home-homepage-custom-url =
+    .placeholder = Налепите URL адресу
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should

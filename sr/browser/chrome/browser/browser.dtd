@@ -850,7 +850,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Sync">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Превуците ваше омиљене ставке на алатну траку или у додатни мени.">
-<!ENTITY customizeMode.restoreDefaults "Обнови подразумевано">
+<!ENTITY customizeMode.restoreDefaults "Врати na подразумевано">
 <!ENTITY customizeMode.done "Готово">
 <!ENTITY customizeMode.titlebar "Трака наслова">
 <!ENTITY customizeMode.extraDragSpace "Превуци простор">
