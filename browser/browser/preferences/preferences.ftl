@@ -105,23 +105,6 @@ startup-prev-session =
 disable-extension =
     .label = Slå av utviding
 home-page-header = Startside
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Bruk open nettside
-           *[other] Bruk opne nettsider
-        }
-    .accesskey = B
-choose-bookmark =
-    .label = Bruk bokmerke…
-    .accesskey = u
-restore-default =
-    .label = Still tilbake til standard
-    .accesskey = s
 tabs-group-header = Faner
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab vekslar mellom faner i nyleg brukt-rekkjefølgje
@@ -296,6 +279,29 @@ network-proxy-connection-settings =
     .label = Innstillingar…
     .accesskey = I
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Bruk open nettside
+           *[other] Bruk opne nettsider
+        }
+    .accesskey = B
+choose-bookmark =
+    .label = Bruk bokmerke…
+    .accesskey = u
+restore-default =
+    .label = Still tilbake til standard
+    .accesskey = s
+
 ## Search Section
 
 search-bar-header = Søkjelinje
@@ -339,3 +345,10 @@ search-keyword-warning-title = Kopiere stikkord
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Du har valt eit nykelord som allereie er i bruk av «{ $name }». Vel eit anna nykelord.
 search-keyword-warning-bookmark = Du har valt eit nykelord som allereie vert brukt av eit bokmerke. Vel eit anna nykelord.
+
+## Containers Section
+
+containers-preferences-button =
+    .label = Innstillingar
+containers-remove-button =
+    .label = Fjern
