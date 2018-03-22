@@ -104,23 +104,6 @@ startup-prev-session =
 disable-extension =
     .label = Malaktivigi etendaĵon
 home-page-header = Eka paĝo
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Uzi la nunan paĝon
-           *[other] Uzi nunajn paĝojn
-        }
-    .accesskey = U
-choose-bookmark =
-    .label = Uzi legosignon…
-    .accesskey = s
-restore-default =
-    .label = Norma paĝo
-    .accesskey = N
 tabs-group-header = Langetoj
 ctrl-tab-recently-used-order =
     .label = Stir+Tabo rondiras inter langetoj ordigitaj laŭ ĵuseco
@@ -295,6 +278,29 @@ network-proxy-connection-settings =
     .label = Agordoj…
     .accesskey = g
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Uzi la nunan paĝon
+           *[other] Uzi nunajn paĝojn
+        }
+    .accesskey = U
+choose-bookmark =
+    .label = Uzi legosignon…
+    .accesskey = s
+restore-default =
+    .label = Norma paĝo
+    .accesskey = N
+
 ## Search Section
 
 search-bar-header = Serĉa strio
@@ -338,3 +344,13 @@ search-keyword-warning-title = Duobligita kategoria vorto
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Vi elektis kategorian vorton kiu estas nuntempe uzata de "{ $name }". Bonvolu elekti alian.
 search-keyword-warning-bookmark = Vi elektis kategorian vorton kiu estas nuntempe uzata de legosigno. Bonvolu elekti alian.
+
+## Containers Section
+
+containers-add-button =
+    .label = Aldoni novan ingon
+    .accesskey = A
+containers-preferences-button =
+    .label = Preferoj
+containers-remove-button =
+    .label = Forigi
