@@ -1,0 +1,50 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!-- LOCALIZATION NOTE:
+ NameField1, NameField2, PhoneticField1, PhoneticField2
+ those fields are either LN or FN depends on the target country.
+ "FirstName" and "LastName" can be swapped for id to change the order
+ but they should not be translated (same applied to phonetic id).
+ Make sure the translation of label corresponds to the order of id.
+-->
+
+<!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
+<!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
+<!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
+<!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
+
+
+<!ENTITY PrimaryEmail.label             "E-posta:">
+<!ENTITY SecondEmail.label              "Ek e-posta:">
+<!ENTITY PlainText.label                "Düz metin">
+<!ENTITY HTML.label                     "HTML">
+
+<!ENTITY WorkPhone.label                "İş:">
+<!ENTITY WorkPhone.accesskey            "ş">
+<!ENTITY FaxNumber.label                "Faks:">
+
+<!ENTITY HomeAddress.label              "Adres:">
+<!ENTITY HomeCountry.label              "Ülke:">
+<!ENTITY HomeWebPage.label              "Web sitesi:">
+<!ENTITY Birthday.label                 "Doğum günü:">
+<!ENTITY Year.placeholder               "Yıl">
+<!ENTITY Or.value                       "veya">
+<!ENTITY Age.placeholder                "Yaş">
+
+<!ENTITY Work.tab                       "İş">
+<!ENTITY WorkAddress.label              "Adres:">
+<!ENTITY WorkCountry.label              "Ülke:">
+<!ENTITY WorkWebPage.label              "Web sitesi:">
+
+<!ENTITY Other.tab                      "Diğer">
+
+<!ENTITY Skype.label                    "Skype:">
+<!ENTITY MSN.label                      "MSN:">
+
+<!ENTITY DefaultPhoto.label             "Varsayılan">
+<!ENTITY PhotoFile.label                "Bu bilgisayarda">
+<!ENTITY UpdatePhoto.label              "Güncelle">
+<!ENTITY PhotoDropTarget.label          "Yeni fotoğrafı buraya sürükleyin">
