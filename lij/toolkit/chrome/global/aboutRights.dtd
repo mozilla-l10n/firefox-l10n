@@ -16,17 +16,17 @@
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "&brandShortName; te vegne dæto sotta a-i termini da ">
 <!ENTITY rights.intro-point1b "Licensa Pubrica de Mozilla">
-<!ENTITY rights.intro-point1c ". Questo o veu dî che ti ti peu uza, copiâ e distriboî o &brandShortName; a-i atri. Ti ê o benvegnuo anche a cangiâ i sorgenti de &brandShortName; pe-i teu bezeugni. A Licensa Pubrica de Mozilla te dâ anche o dirito de distriboî e teu verscioin modificæ.">
+<!ENTITY rights.intro-point1c ". Questo o veu dî che ti ti peu deuviâ, copiâ e distriboî o &brandShortName; a-i atri. Ti ê o benvegnuo anche a cangiâ i sorgenti de &brandShortName; pe-i teu bezeugni. A Licensa Pubrica de Mozilla a te dâ anche o dirito de distriboî e teu verscioin modificæ.">
 
 <!ENTITY rights.intro-point2-a "Mozilla no te dâ di diriti in sci marchi e lòghi de Mozilla e Firefox. Atre informaçioin in sci marchi e lòghi se peuan atrovâ ">
 <!ENTITY rights.intro-point2-b "chi">
 <!ENTITY rights.intro-point2-c ".">
 
 <!-- point 2.5 text for official branded builds -->
-<!ENTITY rights.intro-point2.5 "Quarche fonçion de &brandShortName;, comme o Report di Cianti, te dâ a poscibilitæ de fornî comenti a &vendorShortName;. Se ti ne mandi di comenti a &vendorShortName; ti ne dæ anche o permisso de deuviali pe megioâ o produto e de pubricâ sti comenti in sci sciti web e de distriboili.">
+<!ENTITY rights.intro-point2.5 "Quarche fonçion de &brandShortName;, comme o Report di Cianti, te dâ a poscibilitæ de fornî comenti a &vendorShortName;. Se ti mandi di comenti a &vendorShortName; ti ne dæ anche o permisso de deuviali pe megioâ o produto e de pubricâ sti comenti in sci sciti web e de distriboili.">
 
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights2.intro-point3a "Comme niatri doviemmo e teu informaçioin e comenti che ti mandi a &vendorShortName; co-o &brandShortName; o l'é descritto inta ">
+<!ENTITY rights2.intro-point3a "O mòddo che emmo de deuviâ e teu informaçioin e comenti che mandi a &vendorShortName; co-o &brandShortName; o l'é descrito inta ">
 <!ENTITY rights2.intro-point3b "Politica da privacy de &brandShortName;">
 <!ENTITY rights.intro-point3c ".">
 
@@ -34,7 +34,7 @@
 <!ENTITY rights.intro-point3-unbranded "Tutte e politiche da privacy pe sto produto devan ese chi.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights2.intro-point4a "Quarche fonçion do &brandShortName; a peu uzâ serviççi bazæ in sciâ ræ e niatri no poemmo garantî che segian 100&#37; sensa eroi. Pe avei ciù detalli vanni inte ">
+<!ENTITY rights2.intro-point4a "Quarche fonçion de &brandShortName; a peu deuviâ serviççi in sciâ ræ e niatri no poemmo garantî che segian a-o 100&#37; sensa eroî. Pe avei ciù detalli vanni inte ">
 <!ENTITY rights.intro-point4b "Termini do serviçio">
 <!ENTITY rights.intro-point4c ".">
 
@@ -46,7 +46,7 @@
 <!ENTITY rights2.webservices-header "Serviççi de &brandFullName; bazê in sciâ ræ">
 
 <!-- point 5 -->
-<!ENTITY rights.intro-point5 "Per riprodue quarche tipo de contegnuo video, o &brandShortName; o scarega di mòdoli de decifraçion da terse parte.">
+<!ENTITY rights.intro-point5 "Pe riprodue quarche tipo de contegnuo video, &brandShortName; o scarega di mòdoli de decifraçion de terse parte.">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
