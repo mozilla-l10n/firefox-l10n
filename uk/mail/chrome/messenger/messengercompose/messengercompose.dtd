@@ -88,9 +88,11 @@
 <!ENTITY reorderAttachmentsCmd.label "Пересортувати вкладення…">
 <!ENTITY reorderAttachmentsCmd.accesskey "е">
 <!ENTITY reorderAttachmentsCmd.key "x">
+<!ENTITY toggleAttachmentPaneCmd.label "Панель вкладень">
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
      For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
      as attachments.accesskey. -->
+<!ENTITY toggleAttachmentPaneCmd.accesskey "в">
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
      With OS-specific access modifier, this defines the shortcut key for showing/
      hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
@@ -246,6 +248,7 @@
 <!ENTITY quoteButton.tooltip "Цитувати попереднй лист">
 <!ENTITY addressButton.tooltip "Вибрати адресата з адресної книги">
 <!ENTITY attachButton.tooltip "Вкласти файл в цей лист">
+<!ENTITY attachButton.tooltip2 "Додати вкладення">
 <!ENTITY spellingButton.tooltip "Перевірити правопис вибірки чи всього листа">
 <!ENTITY saveButton.tooltip "Зберегти цей лист">
 <!ENTITY cutButton.tooltip              "Вирізати">
@@ -273,6 +276,8 @@
      work, as the shortcut key functionality supersedes the access key. -->
 <!ENTITY attachments.accesskey "В">
 
+<!ENTITY attachmentBucketHeader.tooltip "Панель вкладень">
+<!ENTITY attachmentBucketCloseButton.tooltip "Сховати панель вкладень">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Вставити смайлик">
@@ -321,6 +326,8 @@
 <!ENTITY renameAttachment.accesskey "й">
 <!ENTITY reorderAttachments.label "Пересортувати вкладення…">
 <!ENTITY reorderAttachments.accesskey "е">
+<!ENTITY removeAllAttachments.label "Вилучити всі вкладення">
+<!ENTITY removeAllAttachments.accesskey "ч">
 <!ENTITY selectAll.label "Виділити все">
 <!ENTITY selectAll.accesskey "с">
 <!ENTITY attachFile.label "Вкласти файл(и)…">
@@ -340,6 +347,8 @@
 <!-- LOCALIZATION NOTE (initiallyShowAttachmentPane.label):
      Should use the same wording as startExpandedCmd.label
      in msgHdrViewOverlay.dtd. -->
+<!ENTITY initiallyShowAttachmentPane.label "Початково показувати панель вкладень">
+<!ENTITY initiallyShowAttachmentPane.accesskey "к">
 
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Додати словники…">
