@@ -104,23 +104,6 @@ startup-prev-session =
 disable-extension =
     .label = Απενεργοποίηση επέκτασης
 home-page-header = Αρχική σελίδα
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Χρήση τρέχουσας σελίδας
-           *[other] Χρήση τρεχουσών σελίδων
-        }
-    .accesskey = Τ
-choose-bookmark =
-    .label = Χρήση σελιδοδείκτη…
-    .accesskey = σ
-restore-default =
-    .label = Επαναφορά προεπιλογής
-    .accesskey = ρ
 tabs-group-header = Καρτέλες
 ctrl-tab-recently-used-order =
     .label = Εναλλαγή καρτελών με το Ctrl+Tab σε σειρά πρόσφατης χρήσης
@@ -295,6 +278,29 @@ network-proxy-connection-settings =
     .label = Ρυθμίσεις…
     .accesskey = θ
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Χρήση τρέχουσας σελίδας
+           *[other] Χρήση τρεχουσών σελίδων
+        }
+    .accesskey = Τ
+choose-bookmark =
+    .label = Χρήση σελιδοδείκτη…
+    .accesskey = σ
+restore-default =
+    .label = Επαναφορά προεπιλογής
+    .accesskey = ρ
+
 ## Search Section
 
 search-bar-header = Γραμμή αναζήτησης
@@ -331,3 +337,14 @@ search-keyword-warning-title = Διπλή λέξη-κλειδί
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Έχετε επιλέξει μια λέξη-κλειδί που χρησιμοποιείται ήδη από το “{ $name }”. Παρακαλώ επιλέξτε κάποια άλλη.
 search-keyword-warning-bookmark = Έχετε επιλέξει μια λέξη-κλειδί που χρησιμοποιείται ήδη από ένα σελιδοδείκτη. Παρακαλώ επιλέξτε κάποια άλλη.
+
+## Containers Section
+
+containers-back-link = « Επιστροφή
+containers-add-button =
+    .label = Προσθήκη νέας θεματικής ενότητας
+    .accesskey = Π
+containers-preferences-button =
+    .label = Προτιμήσεις
+containers-remove-button =
+    .label = Αφαίρεση
