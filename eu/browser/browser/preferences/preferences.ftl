@@ -110,23 +110,6 @@ startup-prev-session =
 disable-extension =
     .label = Desgaitu hedapena
 home-page-header = Hasiera-orria
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Erabili uneko orria
-           *[other] Erabili uneko orriak
-        }
-    .accesskey = u
-choose-bookmark =
-    .label = Erabili laster-marka…
-    .accesskey = b
-restore-default =
-    .label = Berrezarri lehenetsiak
-    .accesskey = r
 tabs-group-header = Fitxak
 ctrl-tab-recently-used-order =
     .label = Ktrl+Tab konbinazioak fitxaz aldatzen du azkenekoz erabilitako ordenan
@@ -301,6 +284,29 @@ network-proxy-connection-settings =
     .label = Ezarpenak…
     .accesskey = E
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Erabili uneko orria
+           *[other] Erabili uneko orriak
+        }
+    .accesskey = u
+choose-bookmark =
+    .label = Erabili laster-marka…
+    .accesskey = b
+restore-default =
+    .label = Berrezarri lehenetsiak
+    .accesskey = r
+
 ## Search Section
 
 search-bar-header = Bilaketa-barra
@@ -344,3 +350,15 @@ search-keyword-warning-title = Bikoiztutako gako-hitza
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Aukeratu duzun gako-hitza dagoeneko "{ $name }"(e)k erabiltzen du. Aukeratu beste bat.
 search-keyword-warning-bookmark = Aukeratu duzun gako-hitza dagoeneko laster-marka batek erabiltzen du. Aukeratu beste bat.
+
+## Containers Section
+
+containers-back-link = « Joan atzera
+containers-header = Edukiontzi-fitxak
+containers-add-button =
+    .label = Gehitu edukiontzi berria
+    .accesskey = G
+containers-preferences-button =
+    .label = Hobespenak
+containers-remove-button =
+    .label = Kendu
