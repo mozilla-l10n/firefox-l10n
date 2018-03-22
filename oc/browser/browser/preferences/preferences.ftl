@@ -101,23 +101,6 @@ startup-prev-session =
 disable-extension =
     .label = Desactivar l’extension
 home-page-header = Pagina d'acuèlh
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Utilizar la pagina activa
-           *[other] Utilizar las paginas activas
-        }
-    .accesskey = U
-choose-bookmark =
-    .label = Favorits…
-    .accesskey = s
-restore-default =
-    .label = Restablir la configuracion per defaut
-    .accesskey = R
 tabs-group-header = Onglets
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab fa passar los onglets dins l'òrdre de darrièra utilizacion
@@ -292,6 +275,29 @@ network-proxy-connection-settings =
     .label = Paramètres
     .accesskey = e
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Utilizar la pagina activa
+           *[other] Utilizar las paginas activas
+        }
+    .accesskey = U
+choose-bookmark =
+    .label = Favorits…
+    .accesskey = s
+restore-default =
+    .label = Restablir la configuracion per defaut
+    .accesskey = R
+
 ## Search Section
 
 search-bar-header = Barra de recèrca
@@ -335,3 +341,15 @@ search-keyword-warning-title = Doblon de mot clau
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Avètz causit un mot clau que ja es utilizat per « { $name } ». Causissètz-ne un autre.
 search-keyword-warning-bookmark = Avètz causit un mot clau que ja es utilizat per un marcapaginas. Causissètz-ne un autre.
+
+## Containers Section
+
+containers-back-link = « Tornar
+containers-header = Onglets de contenidor
+containers-add-button =
+    .label = Apondre un contenidor novèl
+    .accesskey = A
+containers-preferences-button =
+    .label = Preferéncias
+containers-remove-button =
+    .label = Suprimir
