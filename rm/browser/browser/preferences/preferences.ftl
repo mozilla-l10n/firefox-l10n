@@ -336,6 +336,7 @@ search-keyword-warning-bookmark = Ti has tschernì in pled magic che vegn gia ut
 ## Containers Section
 
 containers-back-link = « Turnar
+containers-header = Tabs da container
 containers-add-button =
     .label = Agiuntar in nov container
     .accesskey = A
