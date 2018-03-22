@@ -7,6 +7,7 @@
 <!ENTITY window.macWidth2 "45em">
 
 <!ENTITY  proxyTitle.label              "Konfiguracja serwerów proxy do połączenia z Internetem">
+<!ENTITY proxyTitle.label2 "Konfiguracja proxy do łączenia z Internetem">
 <!ENTITY  noProxyTypeRadio.label        "Bez serwera proxy">
 <!ENTITY noProxyTypeRadio.accesskey "B">
 <!ENTITY  systemTypeRadio.label         "Używaj systemowych ustawień serwerów proxy">

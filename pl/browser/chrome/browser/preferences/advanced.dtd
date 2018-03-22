@@ -39,6 +39,7 @@
 <!ENTITY networkProxy.label "Proxy sieciowe">
 
 <!ENTITY connectionDesc.label            "Określ, w jaki sposób &brandShortName; ma się łączyć z Internetem">
+<!ENTITY connectionSettingsLearnMore.label "Więcej informacji">
 <!ENTITY connectionSettings.label        "Ustawienia…">
 <!ENTITY connectionSettings.accesskey "U">
 
