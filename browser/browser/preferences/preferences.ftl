@@ -291,3 +291,7 @@ search-keyword-warning-bookmark = ಒಂದು ಬುಕ್‌ಮಾರ್ಕಿ
 ## Containers Section
 
 containers-header = ಕಂಟೈನರ್ ಟ್ಯಾಬ್‍‍ಗಳು‍
+containers-preferences-button =
+    .label = ಆದ್ಯತೆಗಳು
+containers-remove-button =
+    .label = ತೆಗೆದುಹಾಕು
