@@ -63,23 +63,6 @@ startup-blank-page =
 startup-prev-session =
     .label = War zanfuney nda cee koraa kanjey cebe
 home-page-header = War šintin moɲoo cebe
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Sohõ moɲoo goyandi
-           *[other] Sohõ moɲey goyandi
-        }
-    .accesskey = S
-choose-bookmark =
-    .label = Doo-šilbay goyandi...
-    .accesskey = D
-restore-default =
-    .label = Bere tilasu alhaali ga
-    .accesskey = B
 tabs-group-header = Kanjey
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab willandey kanjey game goyyan kanandi koraw ra
@@ -225,6 +208,29 @@ network-proxy-connection-settings =
     .label = Kayandiyaney…
     .accesskey = a
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Sohõ moɲoo goyandi
+           *[other] Sohõ moɲey goyandi
+        }
+    .accesskey = S
+choose-bookmark =
+    .label = Doo-šilbay goyandi...
+    .accesskey = D
+restore-default =
+    .label = Bere tilasu alhaali ga
+    .accesskey = B
+
 ## Search Section
 
 search-engine-default-header = Tilasu ceecijinay
@@ -250,3 +256,12 @@ search-keyword-warning-title = Kufalkalima filla
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = War na kufalkalima suuba kaŋ goo goy ra "{ $name }" se sohõda. Wa itana foo suuba.
 search-keyword-warning-bookmark = War na kufalkalima suuba kaŋ goo goy ra doo-šilbay se sohõda. Taare iwaani suuba.
+
+## Containers Section
+
+containers-header = Diikey kanjey
+containers-add-button =
+    .label = Sun taaga tonton
+    .accesskey = o
+containers-remove-button =
+    .label = Kaa
