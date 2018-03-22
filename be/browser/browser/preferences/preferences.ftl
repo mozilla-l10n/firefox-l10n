@@ -355,6 +355,7 @@ search-keyword-warning-bookmark = Вы выбралі ключавое слов�
 
 ## Containers Section
 
+containers-header = Карткі кантэйнераў
 containers-add-button =
     .label = Дадаць новы кантэйнер
     .accesskey = Д
