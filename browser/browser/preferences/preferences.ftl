@@ -74,23 +74,6 @@ startup-blank-page =
 startup-prev-session =
     .label = បង្ហាញ​បង្អួច និង​ផ្ទាំង​របស់​ខ្ញុំ​កាល​ពី​មុន
 home-page-header = ទំព័រ​ដើម
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] ប្រើ​ទំព័រ​បច្ចុប្បន្ន
-           *[other] ប្រើ​ទំព័រ​បច្ចុប្បន្ន
-        }
-    .accesskey = ប
-choose-bookmark =
-    .label = ប្រើ​ចំណាំ…
-    .accesskey = ច
-restore-default =
-    .label = ស្ដារ​ទៅ​លំនាំ​ដើម
-    .accesskey = ស
 tabs-group-header = ផ្ទាំង
 ctrl-tab-recently-used-order =
     .label = ប៊ូតុង​ Ctrl+Tab មាន​មុខងារ​ចូល​មើល​ផ្ទាំង​ដែល​បើក​ថ្មីៗ​ម្ដង​មួយ​ៗ
@@ -241,6 +224,29 @@ network-proxy-connection-settings =
     .label = ការ​កំណត់…
     .accesskey = e
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] ប្រើ​ទំព័រ​បច្ចុប្បន្ន
+           *[other] ប្រើ​ទំព័រ​បច្ចុប្បន្ន
+        }
+    .accesskey = ប
+choose-bookmark =
+    .label = ប្រើ​ចំណាំ…
+    .accesskey = ច
+restore-default =
+    .label = ស្ដារ​ទៅ​លំនាំ​ដើម
+    .accesskey = ស
+
 ## Search Section
 
 search-engine-default-header = ម៉ាស៊ីន​ស្វែងរក​លំនាំដើម
@@ -266,3 +272,10 @@ search-keyword-warning-title = ពាក្យ​គន្លឹះ​ស្ទ�
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = អ្នក​បានជ្រើស​រើស​ពាក្យ​គន្លឹះ ដែល​បច្ចុប្បន្ន​នេះ​​​​កំពុង​ប្រើ​ដោយ "{ $name }"។ សូម​ជ្រើសរើស​ពាក្យ​គន្លឹះ​ផ្សេង​ទៀត។
 search-keyword-warning-bookmark = អ្នក​បាន​ជ្រើសរើស​ពាក្យ​គន្លឹះ​ដែល​ត្រូវ​បាន​ប្រើ​បច្ចុប្បន្ន​ដោយ​ចំណាំ ។ សូម​ជ្រើស​មួយ​ផ្សេង​ទៀត ។
+
+## Containers Section
+
+containers-preferences-button =
+    .label = ចំណូលចិត្ត
+containers-remove-button =
+    .label = លុប​ចេញ
