@@ -275,6 +275,9 @@ search-keyword-warning-bookmark = អ្នក​បាន​ជ្រើសរ�
 
 ## Containers Section
 
+containers-add-button =
+    .label = បន្ថែម​ប្រអប់​ផ្ទុក​ថ្មី
+    .accesskey = A
 containers-preferences-button =
     .label = ចំណូលចិត្ត
 containers-remove-button =
