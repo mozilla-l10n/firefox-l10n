@@ -36,6 +36,13 @@ containers-color-label = Color
 containers-button-done =
     .label = Acabat
     .accesskey = D
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Se suprimiscatz aquel contenidor ara, { $count } onglet isolat serà tampat. Segur que volètz suprimir aqueste contenidor ? 
+       *[other] Se suprimiscatz aquel contenidor ara, { $count } onglets isolats seràn tampats. Segur que volètz suprimir aqueste contenidor ?
+    }
 containers-remove-ok-button = Suprimir aqueste contenidor
 containers-remove-cancel-button = Suprimir pas aqueste contenidor
 containers-color-blue =
