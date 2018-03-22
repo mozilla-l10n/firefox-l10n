@@ -983,11 +983,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Mulai ulang untuk memutakhirkan &brandShorterName;">
 
 <!ENTITY newTabControlled.message "Sebuah ekstensi telah mengubah laman yang Anda lihat ketika membuka Tab Baru. Anda dapat memulihkan setelan Anda jika tidak menginginkan perubahan ini.">
+
 <!ENTITY newTabControlled.header.message "Tab Baru Anda telah berubah.">
 <!ENTITY newTabControlled.keepButton.label "Simpan Perubahan">
 <!ENTITY newTabControlled.keepButton.accesskey "S">
 <!ENTITY newTabControlled.restoreButton.label "Pulihkan Setelan">
 <!ENTITY newTabControlled.restoreButton.accesskey "P">
+
+<!ENTITY newTabControlled.disableButton.label "Nonaktifkan Ekstensi">
 
 <!ENTITY pageActionButton.tooltip "Tindakan laman">
 <!ENTITY pageAction.addToUrlbar.label "Tambahkan ke Bilah Alamat">
