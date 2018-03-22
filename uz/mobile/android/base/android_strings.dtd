@@ -289,6 +289,8 @@
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!ENTITY pref_custom_tabs2 "Maxsus varaqlar">
+<!ENTITY pref_custom_tabs_summary4 "Ilovalarga maxsus varaqni tezkor yuklash orqali veb-kontentni ochish imkonini beradi">
 
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
@@ -420,7 +422,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; yaroqlilik ma’lumotlari">
 <!ENTITY datareporting_fhr_summary2 "Brauzeringiz mustahkamligi va uning ishlash unumdorligini tushunishingizda yordam berish uchun &vendorShortName; bilan ma’lumotlarni bo‘lishadi">
-<!ENTITY datareporting_abouthr_title "Mening yaroqlilik ma’lumotlarimni ko‘rsatish">
 <!ENTITY datareporting_telemetry_title "Telemetriya">
 <!ENTITY datareporting_telemetry_summary "&vendorShortName; bilan ishlashi, qurilma va brauzeringizni qanday moslanganligi ma’lumotlarini &brandShortName;ni yaxshilash uchun bo‘lishadi">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; nosozlik ma’lumotlarini &vendorShortName;ga brauzeringizni mustahkam va xavfsiz qilish uchun jo‘natadi">
@@ -452,6 +453,7 @@
 <!ENTITY share_image_failed "Rasm bo‘lishiilmadi">
 <!ENTITY save_as_pdf "PDF sifatida saqlash">
 <!ENTITY print "Chop qilish">
+<!ENTITY view_page_source "Sahifa manbasini ko‘rish">
 <!ENTITY find_in_page "Sahifadan topish">
 <!ENTITY desktop_mode "Saytning to‘liq versiyasi">
 <!ENTITY page "Sahifa">
@@ -483,6 +485,7 @@
 <!ENTITY contextmenu_open_new_tab "Yangi ichki oynada ochish">
 <!ENTITY contextmenu_open_private_tab "Maxfiy ichki oynada ochish">
 <!ENTITY contextmenu_remove "Olib tashlash">
+<!ENTITY contextmenu_add_page_shortcut "Sahifa yorlig‘ini qo‘shish">
 <!ENTITY contextmenu_set_as_homepage "Bosh sahifa sifatida tayinlash">
 <!ENTITY contextmenu_share "Bo‘lishish">
 <!ENTITY contextmenu_pasteandgo "Qo‘yish va o‘tish">
@@ -503,6 +506,8 @@
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
      after the user pins/unpins the currently displayed page from top sites. -->
+<!ENTITY pinned_page_to_top_sites "Sahifa Sara saytlarga mahkamlandi">
+<!ENTITY unpinned_page_from_top_sites "Sahifa Sara saytlardan olib tashlandi">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -534,8 +539,10 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Sahifa olib tashlandi">
+<!ENTITY folder_removed "Jild olib tashlandi">
 
 <!ENTITY bookmark_edit_title "Xatcho‘plarni o‘zgartirish">
+<!ENTITY bookmark_edit_folder_title "Jildni tahrirlash">
 <!ENTITY bookmark_edit_name "Nomi">
 <!ENTITY bookmark_edit_location "Manzili">
 <!ENTITY bookmark_edit_keyword "Kalit so‘z">
@@ -615,6 +622,8 @@
 
 <!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
     a site is pinned or unpinned. -->
+<!ENTITY home_pinned_site "Sayt mahkamlandi">
+<!ENTITY home_unpinned_site "Sayt olib tashlandi">
 
 <!ENTITY remote_tabs_panel_moved_title "Ichki oynalarim qayerga ketdi?">
 <!ENTITY remote_tabs_panel_moved_desc "Har safar yangi ichki oyna ochishni oson qilish uchun biz boshqa qurilmalardagi ichki oynalaringizni uy sahifangizdagi panelga ko‘chirdik.">
@@ -800,6 +809,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced by the Android OS version (e.g., 14)-->
 <!ENTITY unsupported_sdk_version "Kechirasiz! &brandShortName; brauzerining ayni shu versiyasi ushbu qurilmada (&formatS1;, &formatS2;) ishlamaydi. Boshqa versiyasini yuklab oling.">
 
+<!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
+<!ENTITY corrupt_apk "&brandShortName; ochilmadi. Qayta o‘rnatib, oching.">
+
 <!ENTITY eol_notification_title2 "&brandShortName; endi yangilanmaydi">
 <!ENTITY eol_notification_summary "Batafsil ma’lumot olish uchun bosing">
 
@@ -808,6 +820,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "&brandShortName; yap-yangi">
 <!ENTITY whatsnew_notification_summary "Bu versiyada qanday yangi xususiyatlar borligi haqida ma’lumot">
 
+<!ENTITY promotion_add_page_shortcut "Sahifa yorlig‘ini qo‘shish">
 
 <!ENTITY helper_first_offline_bookmark_title "Oflayn o‘qish">
 <!ENTITY helper_first_offline_bookmark_message "Oflayn bo‘lganda ham O‘qish rejimidagi elementlar xatcho‘plar ichidan topilsin.">
@@ -834,6 +847,7 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "Trendda">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "Saytlarni kezishni boshlang va yaqinda tashrif buyurgan yoki shu yerda xatcho‘pga olingan ayrim ajoyib maqolalar, videolar va boshqa sahifalar sizga ko‘rsatiladi.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
@@ -841,6 +855,9 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "Olib tashlash">
 <!ENTITY activity_stream_delete_history "Tarixdan o‘chirish">
 
+<!ENTITY private_tab_panel_title "Maxfiy kezish + kuzatuv himoyasi">
+<!ENTITY private_tab_panel_description "&brandShortName; Internetdagi xatti-harakatlaringiz kuzatishi mumkin bo‘lgan sahifa qismlarini bloklaydi.">
+<!ENTITY private_tab_panel_description2 "Hech qanday tarix saqlanmaydi. lekin yuklab olingan fayllar va yangi xatcho‘plar qurilmangizga saqlanishda davom etadi.">
 <!ENTITY private_tab_learn_more "Ko‘proq ma’lumot olishni xohlaysizmi?">
 
 <!ENTITY fullscreen_warning "Butun ekran rejimida">
@@ -853,3 +870,4 @@ displayed when there are more than 3 actions available for a page.
 See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "Bosh ekranga qo‘shish">
 <!ENTITY pwa_continue_to_website "Sahifaga o‘tish">
+<!ENTITY pwa_onboarding_sumo "Bu saytni bosh ekranga osongina qo‘shish orqali unga darhol kirishingiz hamda asl ilova tezligida tezkor kezishingiz mumkin.">
