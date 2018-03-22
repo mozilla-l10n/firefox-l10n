@@ -102,23 +102,6 @@ startup-prev-session =
 disable-extension =
     .label = Onemogući dodatak
 home-page-header = Početna stranica
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Koristi trenutnu stranicu
-           *[other] Koristi trenutne stranice
-        }
-    .accesskey = c
-choose-bookmark =
-    .label = Koristi zabilješku…
-    .accesskey = š
-restore-default =
-    .label = Vrati na uobičajeno
-    .accesskey = j
 tabs-group-header = Kartice
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab kruži kroz kartice redosljedom zadnje korištenih
@@ -291,6 +274,29 @@ network-proxy-connection-settings =
     .label = Postavke...
     .accesskey = e
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Koristi trenutnu stranicu
+           *[other] Koristi trenutne stranice
+        }
+    .accesskey = c
+choose-bookmark =
+    .label = Koristi zabilješku…
+    .accesskey = š
+restore-default =
+    .label = Vrati na uobičajeno
+    .accesskey = j
+
 ## Search Section
 
 search-bar-header = Traka pretraživanja
@@ -327,3 +333,15 @@ search-keyword-warning-title = Postojeća ključna riječ
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Odabrali ste ključnu riječ koja se koristi za "{ $name }". Molim odaberite drugu.
 search-keyword-warning-bookmark = Odabrali ste ključnu riječ koju koristi zabilješka. Molim odaberite drugu.
+
+## Containers Section
+
+containers-back-link = « Idi natrag
+containers-header = Sadržajne kartice
+containers-add-button =
+    .label = Dodaj novi spremnik
+    .accesskey = a
+containers-preferences-button =
+    .label = Postavke
+containers-remove-button =
+    .label = Ukloni
