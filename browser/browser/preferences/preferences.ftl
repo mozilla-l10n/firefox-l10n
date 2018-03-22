@@ -110,23 +110,6 @@ startup-prev-session =
 disable-extension =
     .label = Inaktivera tillägg
 home-page-header = Startsida
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Använd aktuell sida
-           *[other] Använd aktuella sidor
-        }
-    .accesskey = u
-choose-bookmark =
-    .label = Använd bokmärke…
-    .accesskey = d
-restore-default =
-    .label = Återställ standard
-    .accesskey = Å
 tabs-group-header = Flikar
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab växlar mellan flikarna i nyligen använd ordning
@@ -301,6 +284,29 @@ network-proxy-connection-settings =
     .label = Inställningar…
     .accesskey = n
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Använd aktuell sida
+           *[other] Använd aktuella sidor
+        }
+    .accesskey = u
+choose-bookmark =
+    .label = Använd bokmärke…
+    .accesskey = d
+restore-default =
+    .label = Återställ standard
+    .accesskey = Å
+
 ## Search Section
 
 search-bar-header = Sökfält
@@ -344,3 +350,9 @@ search-keyword-warning-title = Duplicera nyckelord
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Du har valt ett nyckelord som redan används av “{ $name }”. Var god välj ett annat.
 search-keyword-warning-bookmark = Du har valt ett nyckelord som redan används av ett bokmärke. Var god välj ett annat.
+
+## Containers Section
+
+containers-add-button =
+    .label = Lägg till ny behållare
+    .accesskey = L
