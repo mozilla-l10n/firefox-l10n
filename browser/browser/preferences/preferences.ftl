@@ -354,6 +354,7 @@ search-keyword-warning-bookmark = Du har valt ett nyckelord som redan används a
 ## Containers Section
 
 containers-back-link = « Gå tillbaka
+containers-header = Innehållsflikar
 containers-add-button =
     .label = Lägg till ny behållare
     .accesskey = L
