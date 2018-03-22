@@ -110,23 +110,6 @@ startup-prev-session =
 disable-extension =
     .label = Tichup ri K'amal
 home-page-header = Tikirib'äl ruxaq
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Tokisäx ri ruxaq k'amaya'l k'o wakami
-           *[other] Ke'okisäx ri taq ruxaq k'amaya'l e k'o wakami
-        }
-    .accesskey = w
-choose-bookmark =
-    .label = Tokisäx yaketal…
-    .accesskey = y
-restore-default =
-    .label = Titzolïx ruwäch ri rajil achi'el ruk'amon pe
-    .accesskey = T
 tabs-group-header = Taq ruwi'
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab mejaj pa taq ruwi' pa k'ak'a' kokisaxik kicholajem
@@ -301,6 +284,29 @@ network-proxy-connection-settings =
     .label = Tinuk'…
     .accesskey = n
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Tokisäx ri ruxaq k'amaya'l k'o wakami
+           *[other] Ke'okisäx ri taq ruxaq k'amaya'l e k'o wakami
+        }
+    .accesskey = w
+choose-bookmark =
+    .label = Tokisäx yaketal…
+    .accesskey = y
+restore-default =
+    .label = Titzolïx ruwäch ri rajil achi'el ruk'amon pe
+    .accesskey = T
+
 ## Search Section
 
 search-bar-header = Rukajtz'ik Kanoxïk
@@ -344,3 +350,15 @@ search-keyword-warning-title = Kamulun ewan tzij
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Xacha' jun ewan tzij ri tajin nokisäx ruma “{ $name }”. Tacha' jun chik.
 search-keyword-warning-bookmark = Xacha' jun ewan tzij okisan ruma jun yaketal. Tacha' jun chik.
+
+## Containers Section
+
+containers-back-link = « Titzolin
+containers-header = Ajk'wayöl taq ruwi'
+containers-add-button =
+    .label = Titz'aqatisäx k'ak'a' k'wayöl
+    .accesskey = t
+containers-preferences-button =
+    .label = Taq cha'oj
+containers-remove-button =
+    .label = Tiyuj

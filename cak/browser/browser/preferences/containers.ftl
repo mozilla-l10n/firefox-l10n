@@ -1,0 +1,67 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+containers-window-new =
+    .title = Titz'aqatisäx k'ak'a' k'wayöl
+    .style = width: 45em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update =
+    .title = { $name } taq rajowab'al k'wayöl
+    .style = 45em
+containers-window-close =
+    .key = w
+# This is a term to store style to be applied
+# on the three labels in the containers add/edit dialog:
+#   - name
+#   - icon
+#   - color
+#
+# Using this term and referencing it in the `.style` attribute
+# of the three messages ensures that all three labels
+# will be aligned correctly.
+-containers-labels-style = min-width: 4rem
+containers-name-text =
+    .placeholder = Tatz'ib'aj jun rub'i' k'wayöl
+containers-button-done =
+    .label = Xk'is
+    .accesskey = X
+containers-remove-alert-title = ¿La niyuj el re k'wayöl re'?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] We nayüj el re Ruk'wayöl re' wakami, { $count } ruk'wayöl ruwi' xtitz'apïx. ¿La kan nawajo' ye'ayüj re k'wayöl re'?
+       *[other] We nayüj re ruk'wayöl re' wakami, { $count } k'wayöl taq ruwi' xketz'apitäj. ¿La kan nawajo' ye'ayüj re k'wyöl re'?
+    }
+containers-remove-ok-button = Tiyuj el re k'wayöl re'
+containers-remove-cancel-button = Man tiyuj el re k'wayöl re'
+containers-color-blue =
+    .label = Xar
+containers-color-turquoise =
+    .label = Turkesa
+containers-color-green =
+    .label = Räx
+containers-color-yellow =
+    .label = Q'än
+containers-color-orange =
+    .label = Kaqköj
+containers-color-red =
+    .label = Käq
+containers-color-pink =
+    .label = Ronqs
+containers-color-purple =
+    .label = Purpura'
+containers-icon-fingerprint =
+    .label = Retal ruwi' q'ab'aj
+containers-icon-briefcase =
+    .label = Ejqatel
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+containers-icon-dollar =
+    .label = Retal Dolar
+containers-icon-cart =
+    .label = Loq'ob'äl ch'ich'
+containers-icon-circle =
+    .label = Rajil
