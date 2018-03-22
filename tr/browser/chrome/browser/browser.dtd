@@ -983,11 +983,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName; tarayıcısını güncellemek için yeniden başlat">
 
 <!ENTITY newTabControlled.message "Bir eklenti, yeni bir sekme açtığınızda gördüğünüz sayfayı değiştirdi. Bu değişikliği istemiyorsanız önceki ayarlarınızı geri yükleyebilirsiniz.">
+
 <!ENTITY newTabControlled.header.message "Yeni Sekme’niz değişti.">
 <!ENTITY newTabControlled.keepButton.label "Değişiklikleri koru">
 <!ENTITY newTabControlled.keepButton.accesskey "D">
 <!ENTITY newTabControlled.restoreButton.label "Ayarları geri yükle">
 <!ENTITY newTabControlled.restoreButton.accesskey "A">
+
+<!ENTITY newTabControlled.disableButton.label "Eklentiyi etkisizleştir">
+<!ENTITY newTabControlled.disableButton.accesskey "E">
 
 <!ENTITY pageActionButton.tooltip "Sayfa eylemleri">
 <!ENTITY pageAction.addToUrlbar.label "Adres çubuğuna ekle">
