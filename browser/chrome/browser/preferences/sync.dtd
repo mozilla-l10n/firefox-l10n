@@ -70,15 +70,13 @@ both, to better adapt this sentence to their language.
 <!ENTITY verifiedManage.accesskey     "s">
 <!ENTITY disconnect3.label            "Memutuskan…">
 <!ENTITY disconnect3.accesskey        "M">
-<!ENTITY verify.label                "Sahkan E-mel">
-<!ENTITY verify.accesskey            "S">
-<!ENTITY forget.label                "Lupakan E-mel ini">
-<!ENTITY forget.accesskey            "A">
-
 <!ENTITY resendVerification.label     "Hantar semula Pengesahan">
 <!ENTITY resendVerification.accesskey "t">
 <!ENTITY cancelSetup.label            "Batal Penetapan">
 <!ENTITY cancelSetup.accesskey        "p">
+
+<!ENTITY removeAccount.label          "Buang Akaun">
+<!ENTITY removeAccount.accesskey      "k">
 
 <!ENTITY signedOut.caption            "Bawa Web dengan anda">
 <!ENTITY signedOut.description        "Sync tandabuku, sejarah, tab, kata laluan, add-ons dan pilihan anda pada semua peranti anda.">
