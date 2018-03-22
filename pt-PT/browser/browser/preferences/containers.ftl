@@ -20,8 +20,20 @@ containers-window-update =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+containers-name-label = Nome
+    .accesskey = N
+    .style = { -containers-labels-style }
 containers-name-text =
     .placeholder = Introduza um nome de contentor
+containers-icon-label = Ícone
+    .accesskey = I
+    .style = { -containers-labels-style }
+containers-color-label = Cor
+    .accesskey = o
+    .style = { -containers-labels-style }
+containers-button-done =
+    .label = Feito
+    .accesskey = F
 containers-remove-alert-title = Remover este contentor?
 # Variables:
 #   $count (Number) - Number of tabs that will be closed.
@@ -60,3 +72,17 @@ containers-icon-cart =
     .label = Carrinho de compras
 containers-icon-circle =
     .label = Ponto
+containers-icon-vacation =
+    .label = Férias
+containers-icon-gift =
+    .label = Prenda
+containers-icon-food =
+    .label = Comida
+containers-icon-fruit =
+    .label = Fruta
+containers-icon-pet =
+    .label = Animal de estimação
+containers-icon-tree =
+    .label = Árvore
+containers-icon-chill =
+    .label = Descanço
