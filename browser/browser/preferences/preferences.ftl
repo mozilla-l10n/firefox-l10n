@@ -348,6 +348,7 @@ search-keyword-warning-bookmark = Ha trigau una parola clau que ya emplega unatr
 
 ## Containers Section
 
+containers-back-link = « Ir enta zaga
 containers-header = Pestanyas contenederas
 containers-add-button =
     .label = Anyader nuevo contenedor
