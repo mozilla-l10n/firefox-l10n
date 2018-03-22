@@ -40,6 +40,9 @@ should-restart-title = { -brand-short-name } යළි අරඹන්න
 should-restart-ok = { -brand-short-name } දැන් ප්‍රතිපණගන්වන්න
 restart-later = පසුව යළි අරඹන්න
 
+## Preferences UI Search Results
+
+
 ## General Section
 
 startup-header = ආරම්භය
@@ -69,23 +72,6 @@ startup-prev-session =
 disable-extension =
     .label = දිගු ක්‍රියා විරහිත කරන්න
 home-page-header = මුල්පිටුව
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] දැන් පවතින පිටුව
-           *[other] දැන් පවතින පිටුව
-        }
-    .accesskey = C
-choose-bookmark =
-    .label = පිටු සලකුණු භාවිතා කරන්න…
-    .accesskey = B
-restore-default =
-    .label = පෙරනිමිය
-    .accesskey = R
 tabs-group-header = ටැබ්
 ctrl-tab-recently-used-order =
     .label = මෑතදී භාවිත පෙළගැස්මට ටැබ අතර මාරුවීම සඳහා Ctrl+Tab භාවිත කරන්න
@@ -219,6 +205,29 @@ network-proxy-connection-settings =
     .label = සැකසුම්...
     .accesskey = e
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] දැන් පවතින පිටුව
+           *[other] දැන් පවතින පිටුව
+        }
+    .accesskey = C
+choose-bookmark =
+    .label = පිටු සලකුණු භාවිතා කරන්න…
+    .accesskey = B
+restore-default =
+    .label = පෙරනිමිය
+    .accesskey = R
+
 ## Search Section
 
 search-engine-default-header = පෙරනිමි සෙවුම් එළවුම
@@ -243,3 +252,10 @@ search-keyword-warning-title = මූල පදය කිහිපවරක් �
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = ඔබ විසින් තෝරාගත් මූල පදය දැනට "{ $name }" විසින් භාවිතා කරයි. කරුණාකර වෙනත් එකක් තෝරන්න.
 search-keyword-warning-bookmark = ඔබ විසින් තෝරාගත් මූල පදය දැනට පිටු සලකුණක් විසින් භාවිතා කරයි. කරුණාකර වෙනත් එකක් තෝරාගන්න.
+
+## Containers Section
+
+containers-preferences-button =
+    .label = අභිප්‍රේත
+containers-remove-button =
+    .label = ඉවත් කරන්න
