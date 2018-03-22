@@ -105,23 +105,6 @@ startup-prev-session =
 disable-extension =
     .label = Daaƴ Timmitol
 home-page-header = Hello jaɓɓorgo
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Huutoro Hello Wonaango
-           *[other] Huutoro Kelle Gonaaɗe Ɗee
-        }
-    .accesskey = W
-choose-bookmark =
-    .label = Huutoro Maantorol…
-    .accesskey = M
-restore-default =
-    .label = Artir e Goowaaɗo
-    .accesskey = A
 tabs-group-header = Tabbe
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab yaaɓat hakkunde tabbe e gorol kuutoragol ɓennungol
@@ -296,6 +279,29 @@ network-proxy-connection-settings =
     .label = Teelte…
     .accesskey = e
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Huutoro Hello Wonaango
+           *[other] Huutoro Kelle Gonaaɗe Ɗee
+        }
+    .accesskey = W
+choose-bookmark =
+    .label = Huutoro Maantorol…
+    .accesskey = M
+restore-default =
+    .label = Artir e Goowaaɗo
+    .accesskey = A
+
 ## Search Section
 
 search-bar-header = Palal NJiilaw
@@ -339,3 +345,14 @@ search-keyword-warning-title = Sowto Helmede
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = A suɓiima helmere yiylorde wonnde e huutoreede e oo sahaa e "{ $name }". Tiiɗno labo woɗnde.
 search-keyword-warning-bookmark = A suɓiima helmere yiylorde wonnde e huutoreede e oo sahaa e maantorol. Tiiɗno labo woɗnde.
+
+## Containers Section
+
+containers-header = Tabbe Mooftirɗe
+containers-add-button =
+    .label = Ɓeydu Mooftiree Hesere
+    .accesskey = Ɓ
+containers-preferences-button =
+    .label = Cuɓaaɗe
+containers-remove-button =
+    .label = Momtu
