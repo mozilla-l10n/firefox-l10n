@@ -106,23 +106,6 @@ startup-prev-session =
 disable-extension =
     .label = Deaktivēt paplošynuojumu
 home-page-header = Sātys lopa
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Lītuot pošreizejū lopu
-           *[other] Lītuot pošreizejuos lopys
-        }
-    .accesskey = L
-choose-bookmark =
-    .label = Lītuot gruomotzeimi…
-    .accesskey = g
-restore-default =
-    .label = Atjaunōt iz nūkluseitū
-    .accesskey = A
 tabs-group-header = Cilnes
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab porzaslādz storp cilnem izmontōšonys seceibā
@@ -299,6 +282,29 @@ network-proxy-connection-settings =
     .label = Īstatiejumi...
     .accesskey = e
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Lītuot pošreizejū lopu
+           *[other] Lītuot pošreizejuos lopys
+        }
+    .accesskey = L
+choose-bookmark =
+    .label = Lītuot gruomotzeimi…
+    .accesskey = g
+restore-default =
+    .label = Atjaunōt iz nūkluseitū
+    .accesskey = A
+
 ## Search Section
 
 search-bar-header = Mekliešonys jūsla
@@ -342,3 +348,11 @@ search-keyword-warning-title = Itaids atslāgi vuords jau eksistej
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Jius izavieliejatīs atslāgi vuordu, kū itūbreid jau izmontoj "{ $name }". Lyudzu, izavielit cytu.
 search-keyword-warning-bookmark = Jius izavieliejatīs atslāgi vuordu, kū jau izmontoj kaida gruomotzeime. Lyudzu, izavielit cytu.
+
+## Containers Section
+
+containers-back-link = « Īt atpakaļ
+containers-preferences-button =
+    .label = Īstatiejumi
+containers-remove-button =
+    .label = Nūjimt
