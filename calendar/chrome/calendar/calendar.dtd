@@ -180,6 +180,7 @@
 <!ENTITY calendar.context.attendance.occurrence.label           "Esta ocorrencia">
 <!ENTITY calendar.context.attendance.all.label        "Todas as ocorrencias" >
 
+<!ENTITY calendar.context.attendance.all2.label                 "Series completas">
 <!ENTITY calendar.context.attendance.send.label                 "Enviar unha notificación agora">
 <!ENTITY calendar.context.attendance.send.accesskey             "g">
 <!ENTITY calendar.context.attendance.dontsend.label             "Non enviar unha notificación">
@@ -191,6 +192,10 @@
 <!ENTITY calendar.context.attendance.occ.tentative.label        "Aceptada provisionalmente">
 <!ENTITY calendar.context.attendance.occ.declined.accesskey     "x">
 <!ENTITY calendar.context.attendance.occ.declined.label         "Rexeitada">
+<!ENTITY calendar.context.attendance.occ.delegated.accesskey    "g">
+<!ENTITY calendar.context.attendance.occ.delegated.label        "Delegado">
+<!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "s">
+<!ENTITY calendar.context.attendance.occ.needsaction.label      "Aínda precisa acción">
 <!ENTITY calendar.context.attendance.occ.inprogress.accesskey   "g">
 <!ENTITY calendar.context.attendance.occ.inprogress.label       "En progreso">
 <!ENTITY calendar.context.attendance.occ.completed.accesskey    "R">
@@ -202,6 +207,10 @@
 <!ENTITY calendar.context.attendance.all.tentative.label        "Aceptadas provisionalmente">
 <!ENTITY calendar.context.attendance.all.declined.accesskey     "x">
 <!ENTITY calendar.context.attendance.all.declined.label         "Rexeitadas">
+<!ENTITY calendar.context.attendance.all.delegated.accesskey    "l">
+<!ENTITY calendar.context.attendance.all.delegated.label        "Delegado">
+<!ENTITY calendar.context.attendance.all.needsaction.accesskey  "p">
+<!ENTITY calendar.context.attendance.all.needsaction.label      "Aínda precisa acción">
 <!ENTITY calendar.context.attendance.all.inprogress.accesskey   "g">
 <!ENTITY calendar.context.attendance.all.inprogress.label       "En progreso">
 <!ENTITY calendar.context.attendance.all.completed.accesskey    "R">

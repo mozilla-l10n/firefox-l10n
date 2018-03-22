@@ -38,6 +38,9 @@
 <!ENTITY event.attendees.notifyundisclosed.label     "Invitación separada por cada asistente">
 <!ENTITY event.attendees.notifyundisclosed.accesskey "v">
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "Esta opción envía unha mensaxe de invitación a cada asistente. Cada invitación só contén un asistente como destinatario, de modo que non se revelan as identidades dos outros asistentes.">
+<!ENTITY event.attendees.disallowcounter.label       "Desactivar contrapropostas">
+<!ENTITY event.attendees.disallowcounter.accesskey   "a">
+<!ENTITY event.attendees.disallowcounter.tooltip     "Indica que vostede non aceptará contrapropostas">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -185,6 +188,11 @@
    - populate the form fields in the dialog, there's no other immediate action on clicking like with
    - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
+<!ENTITY counter.button.proposal.label                    "Aplicar proposta">
+<!ENTITY counter.button.proposal.accesskey                "p">
+<!ENTITY counter.button.original.label                    "Aplicar a data orixinal">
+<!ENTITY counter.button.original.accesskey                "r">
+<!ENTITY counter.button.original.tooltip2                 "Os campos estabeleceranse cos valores do evento orixinal anterior á contraproposta">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Título:" >
@@ -411,6 +419,7 @@
 
 <!-- Summary dialog -->
 <!ENTITY summary.dialog.saveclose.label         "Gardar e pechar">
+<!ENTITY summary.dialog.saveclose.tooltiptext   "Gardar os cambios e pechar a xanela sen cambiar o estado de participación e enviar unha resposta">
 <!ENTITY summary.dialog.accept.label            "Aceptar">
 <!ENTITY summary.dialog.accept.tooltiptext      "Aceptar a invitación">
 <!ENTITY summary.dialog.tentative.label         "Provisionalmente">
