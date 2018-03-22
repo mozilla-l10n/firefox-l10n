@@ -22,12 +22,29 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+containers-name-label = Име
+    .accesskey = И
+    .style = { -containers-labels-style }
 containers-name-text =
     .placeholder = Унесите име контејнера
+containers-icon-label = Иконица
+    .accesskey = И
+    .style = { -containers-labels-style }
+containers-color-label = Боја
+    .accesskey = о
+    .style = { -containers-labels-style }
 containers-button-done =
     .label = Готово
     .accesskey = Г
 containers-remove-alert-title = Уклонити овај контејнер?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Ако уклоните овај контејнер, { $count } контејнер језичак ће се затворити. Да ли сте сигурни да желите да уклоните овај контејнер?
+        [few] Ако уклоните ове контејнере, { $count } контејнер језичка ће се затворити. Да ли сте сигурни да желите да уклоните ове контејнере?
+       *[other] Ако уклоните ове контејнере, { $count } контејнер језичака ће се затворити. Да ли сте сигурни да желите да уклоните ове контејнере?
+    }
 containers-remove-ok-button = Уклони овај контејнер
 containers-remove-cancel-button = Немој уклонити овај контејнер
 containers-color-blue =
@@ -58,3 +75,17 @@ containers-icon-cart =
     .label = Колица за куповину
 containers-icon-circle =
     .label = Тачка
+containers-icon-vacation =
+    .label = Одмор
+containers-icon-gift =
+    .label = Поклон
+containers-icon-food =
+    .label = Храна
+containers-icon-fruit =
+    .label = Воће
+containers-icon-pet =
+    .label = Љубимац
+containers-icon-tree =
+    .label = Дрво
+containers-icon-chill =
+    .label = Опуштено
