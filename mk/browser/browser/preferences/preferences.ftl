@@ -198,6 +198,9 @@ search-keyword-warning-bookmark = Избравте клучен збор што 
 
 containers-back-link = « Назад
 containers-header = Контејнерски јазичиња
+containers-add-button =
+    .label = Додај нов контејнер
+    .accesskey = А
 containers-preferences-button =
     .label = Поставки
 containers-remove-button =
