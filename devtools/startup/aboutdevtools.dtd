@@ -1,0 +1,85 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE : This file contains the strings used in aboutdevtools.xhtml,
+  -  displayed when going to about:devtools. UI depends on the value of the preference
+  -  "devtools.enabled".
+  -
+  -  "aboutDevtools.enable.*" and "aboutDevtools.newsletter.*" keys are used when DevTools
+     are disabled
+  -  "aboutDevtools.welcome.*" keys are used when DevTools are enabled
+  - -->
+
+<!-- LOCALIZATION NOTE (aboutDevtools.headTitle): Text of the title tag for about:devtools -->
+<!ENTITY  aboutDevtools.headTitle "Om utvecklingsverktyg">
+
+<!-- LOCALIZATION NOTE (aboutDevtools.enable.title): Title of the top about:devtools
+  -  section displayed when DevTools are disabled. -->
+<!ENTITY  aboutDevtools.enable.title "Aktivera Firefox utvecklingsverktyg">
+
+<!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementTitle): Title of the top
+  -  section displayed when devtools are disabled and the user triggered DevTools by using
+  -  the Inspect Element menu item. -->
+<!ENTITY  aboutDevtools.enable.inspectElementTitle "Aktivera Firefox utvecklingsverktyg för att använda Inspektera element">
+
+<!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementMessage): Message displayed
+  -  when users come from using the Inspect Element menu item. -->
+<!ENTITY  aboutDevtools.enable.inspectElementMessage
+          "Utforska och redigera HTML och CSS med utvecklarverktygets inspektör.">
+
+<!-- LOCALIZATION NOTE (aboutDevtools.enable.aboutDebuggingMessage): Message displayed
+  -  when users come from about:debugging. -->
+<!ENTITY  aboutDevtools.enable.aboutDebuggingMessage
+          "Utveckla och felsök WebExtensions, webb-workers, service-workers och mer med Firefox utvecklingsverktyg.">
+
+<!-- LOCALIZATION NOTE (aboutDevtools.enable.keyShortcutMessage): Message displayed when
+  -  users pressed a DevTools key shortcut. -->
+<!ENTITY  aboutDevtools.enable.keyShortcutMessage
+          "Du aktiverade en genväg till utvecklingsverktygen. Om det var ett misstag kan du stänga den här fliken.">
+
+<!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage): Message displayed when users
+  -  clicked on a "Enable Developer Tools" menu item. -->
+<!ENTITY  aboutDevtools.enable.menuMessage
+          "Utforska, redigera och felsök HTML, CSS och JavaScript med verktyg som inspektören och avlusaren.">
+
+<!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage2): Message displayed when users
+  -  clicked on a "Enable Developer Tools" menu item. -->
+<!ENTITY  aboutDevtools.enable.menuMessage2
+          "Förbättra din webbplats HTML, CSS och JavaScript med verktyg som inspektören och avlusaren.">
+
+<!-- LOCALIZATION NOTE (aboutDevtools.enable.commonMessage): Generic message displayed for
+  -  all possible entry points (keyshortcut, menu item etc…). -->
+<!ENTITY  aboutDevtools.enable.commonMessage
+          "Firefox utvecklingsverktyg är vanligtvis avstängda för att ge dig större kontroll över din webbläsare.">
+
+<!-- LOCALIZATION NOTE (aboutDevtools.enable.learnMoreLink): Text for the link to
+  -  https://developer.mozilla.org/docs/Tools displayed in the top section when DevTools
+  -  are disabled. -->
+<!ENTITY  aboutDevtools.enable.learnMoreLink "Lär dig mer om utvecklingsverktyg">
+
+<!ENTITY  aboutDevtools.enable.enableButton "Aktivera utvecklingsverktyg">
+<!ENTITY  aboutDevtools.enable.closeButton "Stäng denna sida">
+
+<!ENTITY  aboutDevtools.enable.closeButton2 "Stäng denna flik">
+
+<!ENTITY  aboutDevtools.welcome.title "Välkommen till Firefox utvecklingsverktyg!">
+
+<!ENTITY  aboutDevtools.newsletter.title "Nyhetsbrev Mozilla Developer">
+<!-- LOCALIZATION NOTE (aboutDevtools.newsletter.message): Subscribe form message.
+  -  The newsletter is only available in english at the moment.
+  -  See Bug 1415273 for support of additional languages.-->
+<!ENTITY  aboutDevtools.newsletter.message "Få nyheter om utveckling, tricks och resurser skickade direkt till din inkorg.">
+<!ENTITY  aboutDevtools.newsletter.email.placeholder "E-post">
+<!ENTITY  aboutDevtools.newsletter.privacy.label "Det är okej för mig att Mozilla hanterar min information som förklaras i denna <a class='external' href='https://www.mozilla.org/privacy/'>sekretesspolicy</a>.">
+<!ENTITY  aboutDevtools.newsletter.subscribeButton "Prenumerera">
+<!ENTITY  aboutDevtools.newsletter.thanks.title "Tack!">
+<!ENTITY  aboutDevtools.newsletter.thanks.message "Om du inte tidigare har bekräftat en prenumeration på ett Mozilla-relaterat nyhetsbrev måste du kanske göra det. Kontrollera din inkorg eller ditt spamfilter efter ett mejl från oss.">
+
+<!ENTITY  aboutDevtools.footer.title "Firefox Developer Edition">
+<!ENTITY  aboutDevtools.footer.message "Letar du efter mer än bara utvecklingsverktyg? Kolla in Firefox:s webbläsare som är byggd speciellt för utvecklare och moderna arbetsflöden.">
+
+<!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to
+  -  https://www.mozilla.org/firefox/developer/ displayed in the footer. -->
+<!ENTITY  aboutDevtools.footer.learnMoreLink "Läs mer">
+
