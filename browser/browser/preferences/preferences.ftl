@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = Enviar um sinal “Do Not Track” significando que não deseja ser monitorizado(a)
+do-not-track-description = Enviar um sinal “Do Not Track” significando que não pretende ser monitorizado(a)
 do-not-track-learn-more = Saber mais
 do-not-track-option-default =
     .label = Apenas ao utilizar a Proteção contra monitorização
@@ -138,8 +138,8 @@ browser-containers-settings =
 containers-disable-alert-title = Fechar todos os separadores contentores?
 containers-disable-alert-desc =
     { $tabCount ->
-        [one] Se desativar os separadores contentores agora, { $tabCount } contentor separador será fechado. Tem a certeza de que deseja desativar os separadores contentores?
-       *[other] Se desativar os separadores contentores agora, { $tabCount } separadores contentores serão fechados. Tem a certeza de que deseja desativar os separadores contentores?
+        [one] Se desativar os separadores contentores agora, { $tabCount } contentor separador será fechado. Tem a certeza de que pretende desativar os separadores contentores?
+       *[other] Se desativar os separadores contentores agora, { $tabCount } separadores contentores serão fechados. Tem a certeza de que pretende desativar os separadores contentores?
     }
 containers-disable-alert-ok-button =
     { $tabCount ->
@@ -180,7 +180,7 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Ficheiros e aplicações
-download-header = Descargas
+download-header = Transferências
 download-save-to =
     .label = Guardar ficheiros em
     .accesskey = f
