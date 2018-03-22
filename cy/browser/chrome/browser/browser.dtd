@@ -983,11 +983,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Ailgychwyn i ddiweddaru &brandShorterName;">
 
 <!ENTITY newTabControlled.message "Mae estyniad wedi newid y dudalen rydych yn ei gweld pan fyddwch yn agor Tab Newydd. Gallwch adfer eich gosodiadau os nad ydych yn dymuno'r newid hwn.">
+
 <!ENTITY newTabControlled.header.message "Mae eich Tab Newydd wedi newid.">
 <!ENTITY newTabControlled.keepButton.label "Cadw Newidiadau">
 <!ENTITY newTabControlled.keepButton.accesskey "N">
 <!ENTITY newTabControlled.restoreButton.label "Adfer y Gosodiadau">
 <!ENTITY newTabControlled.restoreButton.accesskey "A">
+
+<!ENTITY newTabControlled.disableButton.label "Analluogi Estyniad">
+<!ENTITY newTabControlled.disableButton.accesskey "A">
 
 <!ENTITY pageActionButton.tooltip "Gweithredoedd tudalen">
 <!ENTITY pageAction.addToUrlbar.label "Ychwanegu i'r Llyfr Cyfeiriadau">

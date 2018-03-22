@@ -70,15 +70,13 @@ both, to better adapt this sentence to their language.
 <!ENTITY verifiedManage.accesskey     "R">
 <!ENTITY disconnect3.label            "Datgysylltu…">
 <!ENTITY disconnect3.accesskey        "D">
-<!ENTITY verify.label                "Dilysu E-bost">
-<!ENTITY verify.accesskey            "E">
-<!ENTITY forget.label                "Anghofiwch yr E-bost hwn">
-<!ENTITY forget.accesskey            "A">
-
 <!ENTITY resendVerification.label     "Ail Anfon Dilysiad">
 <!ENTITY resendVerification.accesskey "A">
 <!ENTITY cancelSetup.label            "Diddymu'r Gosod">
 <!ENTITY cancelSetup.accesskey        "G">
+
+<!ENTITY removeAccount.label          "Tynnu Cyfrif">
+<!ENTITY removeAccount.accesskey      "T">
 
 <!ENTITY signedOut.caption            "Cymrwch eich Gwe gyda Chi">
 <!ENTITY signedOut.description        "Cydweddwch eich nodau tudalen, hanes, tabiau, cyfrineiriau, ychwanegion a dewisiadau ymysg eich dyfeisiau i gyd.">

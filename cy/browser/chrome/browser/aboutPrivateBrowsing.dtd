@@ -2,6 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.title):
+     Please ensure this exactly matches tabs.emptyPrivateTabTitle in tabbrowser.properties -->
+<!ENTITY aboutPrivateBrowsing.title                      "Pori Preifat">
+<!ENTITY aboutPrivateBrowsing.notPrivate.title           "Agor ffenestr breifat?">
+
 <!ENTITY aboutPrivateBrowsing.notPrivate                 "Nid ydych mewn ffenestr breifat ar hyn o bryd.">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Agor Ffenestr Breifat">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "F">
