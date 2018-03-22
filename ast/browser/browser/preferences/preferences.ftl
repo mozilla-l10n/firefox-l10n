@@ -283,6 +283,9 @@ search-keyword-warning-bookmark = Esbillesti una pallabra clave qu'anguaño s'us
 
 ## Containers Section
 
+containers-add-button =
+    .label = Amestar contenedor nuevu
+    .accesskey = A
 containers-preferences-button =
     .label = Preferencies
 containers-remove-button =
