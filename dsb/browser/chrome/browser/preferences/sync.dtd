@@ -70,15 +70,13 @@ both, to better adapt this sentence to their language.
 <!ENTITY verifiedManage.accesskey     "o">
 <!ENTITY disconnect3.label            "Zwisk źěliś…">
 <!ENTITY disconnect3.accesskey        "Z">
-<!ENTITY verify.label                "E-mail pśeglědaś">
-<!ENTITY verify.accesskey            "E">
-<!ENTITY forget.label                "Toś tu e-mail zabyś">
-<!ENTITY forget.accesskey            "b">
-
 <!ENTITY resendVerification.label     "Wobkšuśenje znowego pósłaś">
 <!ENTITY resendVerification.accesskey "z">
 <!ENTITY cancelSetup.label            "Instalaciju pśetergnuś">
 <!ENTITY cancelSetup.accesskey        "s">
+
+<!ENTITY removeAccount.label          "Konto wótpóraś">
+<!ENTITY removeAccount.accesskey      "p">
 
 <!ENTITY signedOut.caption            "Wzejśo swój web sobu">
 <!ENTITY signedOut.description        "Synchronizěrujśo swóje cytańske znamjenja, historiju, rejtarki, gronidła, dodanki a nastajenja mjazy wšymi wašymi rědami.">
