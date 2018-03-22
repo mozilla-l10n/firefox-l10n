@@ -110,23 +110,6 @@ startup-prev-session =
 disable-extension =
     .label = Eklentiyi etkisizleştir
 home-page-header = Giriş sayfası
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Geçerli sayfayı kullan
-           *[other] Geçerli sayfaları kullan
-        }
-    .accesskey = s
-choose-bookmark =
-    .label = Yer imi kullan…
-    .accesskey = m
-restore-default =
-    .label = Varsayılanı geri getir
-    .accesskey = r
 tabs-group-header = Sekmeler
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab, sekmeler arasında son kullanıldıkları sırayla atlasın
@@ -301,6 +284,29 @@ network-proxy-connection-settings =
     .label = Ayarlar…
     .accesskey = A
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Geçerli sayfayı kullan
+           *[other] Geçerli sayfaları kullan
+        }
+    .accesskey = s
+choose-bookmark =
+    .label = Yer imi kullan…
+    .accesskey = m
+restore-default =
+    .label = Varsayılanı geri getir
+    .accesskey = r
+
 ## Search Section
 
 search-bar-header = Arama çubuğu
@@ -344,3 +350,11 @@ search-keyword-warning-title = Tekrarlanan Anahtar Kelime
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Şu anda “{ $name }” tarafından kullanılan bir anahtar kelime seçtiniz. Lütfen başka bir şey seçin.
 search-keyword-warning-bookmark = Şu anda bir yer imi tarafından kullanılan bir anahtar kelime seçtiniz. Lütfen başka bir şey seçin.
+
+## Containers Section
+
+containers-back-link = « Geri dön
+containers-preferences-button =
+    .label = Tercihler
+containers-remove-button =
+    .label = Sil
