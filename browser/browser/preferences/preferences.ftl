@@ -355,6 +355,7 @@ search-keyword-warning-bookmark = Изабрали сте кључну реч к
 
 ## Containers Section
 
+containers-header = Контејнер језичци
 containers-add-button =
     .label = Додај нови контејнер
     .accesskey = Д
