@@ -16,5 +16,5 @@
 <!ENTITY spellCheckInline.accesskey           "e">
 <!ENTITY languagePopup.label                  "Idioma:">
 <!ENTITY languagePopup.accessKey              "I">
-<!ENTITY moreDictionaries.label               "Transferir mais dicionários&#x2026;">
+<!ENTITY moreDictionaries.label               "Descarregar mais dicionários&#x2026;">
 <!ENTITY noSpellCheckAvailable.label          "Nenhum dicionário disponível.">
