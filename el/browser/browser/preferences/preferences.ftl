@@ -341,6 +341,7 @@ search-keyword-warning-bookmark = Έχετε επιλέξει μια λέξη-κ
 ## Containers Section
 
 containers-back-link = « Επιστροφή
+containers-header = Θεματικές καρτέλες
 containers-add-button =
     .label = Προσθήκη νέας θεματικής ενότητας
     .accesskey = Π
