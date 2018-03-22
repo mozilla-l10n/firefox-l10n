@@ -347,6 +347,7 @@ search-keyword-warning-bookmark = Դուք ընտրեցիք հիմնաբառ, ո
 
 ## Containers Section
 
+containers-back-link = « Հետ գնալ
 containers-header = Պարունակ ներդիրներ
 containers-add-button =
     .label = Ավելացել նոր պարունակ
