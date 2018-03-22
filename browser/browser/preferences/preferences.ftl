@@ -336,6 +336,7 @@ search-keyword-warning-bookmark = നിലവില്‍ ഒരു അടയ�
 ## Containers Section
 
 containers-back-link = « തിരിച്ചുപോവുക
+containers-header = കണ്ടൈനര്‍ ടാബുകള്‍
 containers-add-button =
     .label = പുതിയ കണ്ടെയ്നര്‍ ചേര്‍ക്കുക
     .accesskey = A
