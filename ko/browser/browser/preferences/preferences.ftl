@@ -346,6 +346,7 @@ search-keyword-warning-bookmark = 북마크에서 이미 사용 중인 키워드
 ## Containers Section
 
 containers-back-link = « 뒤로가기
+containers-header = 포함 탭
 containers-add-button =
     .label = 새 컨테이너 추가
     .accesskey = A
