@@ -353,6 +353,7 @@ search-keyword-warning-bookmark = আপনার দেয়া কীওয়া�
 
 ## Containers Section
 
+containers-back-link = « ফিরে যাও
 containers-header = কন্টেইনার ট্যাব
 containers-add-button =
     .label = নতুন কন্টেইনার যোগ
