@@ -37,6 +37,13 @@ containers-button-done =
     .label = مکمل
     .accesskey = م
 containers-remove-alert-title = اس حامل کو ہٹائیں؟
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] اگر اپ اس کنٹینر کو ابھی ہٹاتیں ہے، تو { $count } کا کنٹینر ٹیب بند ہو جائے گا۔ کیا یقینن اپ اس کنٹینر کو ہٹانا چاہتے ہے؟
+       *[other] اگر اپ اس کنٹینر کو ابھی ہٹاتیں ہے، تو { $count } کے کنٹینر ٹیب بند ہو جائے گے۔ کیا یقینن اپ اس کنٹینر کو ہٹانا چاہتے ہے؟
+    }
 containers-remove-ok-button = اس حامل کو ہٹائیں
 containers-remove-cancel-button = اس حامل کو مت ہٹائیں
 containers-color-blue =
