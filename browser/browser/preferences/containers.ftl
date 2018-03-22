@@ -86,3 +86,5 @@ containers-icon-pet =
     .label = Կենդանի
 containers-icon-tree =
     .label = Ծառ
+containers-icon-chill =
+    .label = Հանգիստ
