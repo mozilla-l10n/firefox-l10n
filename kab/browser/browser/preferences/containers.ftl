@@ -19,8 +19,17 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+containers-name-label = Isem
+    .accesskey = T
+    .style = { -containers-labels-style }
 containers-name-text =
     .placeholder = Sekcem isem n umagbar{ " " }
+containers-icon-label = Tignit
+    .accesskey = G
+    .style = { -containers-labels-style }
+containers-color-label = Initen
+    .accesskey = w
+    .style = { -containers-labels-style }
 containers-button-done =
     .label = Immed
     .accesskey = m
@@ -46,3 +55,9 @@ containers-icon-cart =
     .label = Taqecwalt n lqeḍyan
 containers-icon-circle =
     .label = Taneqqiṭ
+containers-icon-food =
+    .label = Tuččit
+containers-icon-tree =
+    .label = Aseklu
+containers-icon-chill =
+    .label = Agrud
