@@ -70,15 +70,13 @@ both, to better adapt this sentence to their language.
 <!ENTITY verifiedManage.accesskey     "o">
 <!ENTITY disconnect3.label            "Zwisk dźělić…">
 <!ENTITY disconnect3.accesskey        "Z">
-<!ENTITY verify.label                "E-mejl přepruwować">
-<!ENTITY verify.accesskey            "E">
-<!ENTITY forget.label                "Tutu e-mejl zabyć">
-<!ENTITY forget.accesskey            "z">
-
 <!ENTITY resendVerification.label     "Wobkrućenje znowa pósłać">
 <!ENTITY resendVerification.accesskey "s">
 <!ENTITY cancelSetup.label            "Instalaciju přetorhnyć">
 <!ENTITY cancelSetup.accesskey        "s">
+
+<!ENTITY removeAccount.label          "Konto wotstronić">
+<!ENTITY removeAccount.accesskey      "s">
 
 <!ENTITY signedOut.caption            "Wzmiće swój web sobu">
 <!ENTITY signedOut.description        "Synchronizujće swoje zapołožki, historiju, rajtarki, hesła, přidatki a nastajenja mjez wšěmi wašimi gratami.">
