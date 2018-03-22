@@ -339,6 +339,7 @@ search-keyword-warning-bookmark = ਤੁਸੀਂ ਸ਼ਬਦ ਨੂੰ ਚੁ�
 
 ## Containers Section
 
+containers-back-link = « ਵਾਪਸ ਜਾਓ
 containers-header = ਕਨਟੇਨਰ ਟੈਬਾਂ
 containers-add-button =
     .label = ਨਵਾਂ ਕਨਟੇਨਰ ਜੋੜੋ
