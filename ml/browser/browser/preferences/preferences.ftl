@@ -103,23 +103,6 @@ startup-prev-session =
 disable-extension =
     .label = എക്സ്റ്റന്‍ഷന്‍ ഡിസേബിള്‍ ചെയ്യുക
 home-page-header = ഹോം പേജ്
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] നിലവിലുളള താള്‍ ഉപയോഗിക്കുക 
-           *[other] ഇപ്പോഴത്തെ താളുകള്‍ ഉപയോഗിക്കുക
-        }
-    .accesskey = ല
-choose-bookmark =
-    .label = അടയാളക്കുറിപ്പു് ഉപയോഗിയ്ക്കുക…
-    .accesskey = B
-restore-default =
-    .label = സ്വതവേയുള്ളതു് വീണ്ടെടുക്കുക 
-    .accesskey = ത
 tabs-group-header = റ്റാബുകള്‍
 ctrl-tab-recently-used-order =
     .label = അടുത്തിടെ ഉപയോഗിച്ച ഓർഡറില്‍ ടാബുകളിലൂടെ പോവാന്‍ Ctrl + Tab ഉപയോഗിക്കുക
@@ -290,6 +273,29 @@ network-proxy-connection-settings =
     .label = ക്രമീകരണങ്ങള്‍ 
     .accesskey = e
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] നിലവിലുളള താള്‍ ഉപയോഗിക്കുക 
+           *[other] ഇപ്പോഴത്തെ താളുകള്‍ ഉപയോഗിക്കുക
+        }
+    .accesskey = ല
+choose-bookmark =
+    .label = അടയാളക്കുറിപ്പു് ഉപയോഗിയ്ക്കുക…
+    .accesskey = B
+restore-default =
+    .label = സ്വതവേയുള്ളതു് വീണ്ടെടുക്കുക 
+    .accesskey = ത
+
 ## Search Section
 
 search-bar-header = സെര്‍ച്ച് ബാര്‍
@@ -326,3 +332,14 @@ search-keyword-warning-title = കീവേര്‍ഡ് ആവര്‍ത്
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = നിലവില്‍ "{ $name }" ഉപയോഗിക്കുന്ന ഒരു കീവേര്‍ഡ് ആണു് നിങ്ങള്‍ നല്‍കിയതു്. ദയവായി മറ്റൊന്നു് തെരഞ്ഞെടുക്കുക.
 search-keyword-warning-bookmark = നിലവില്‍ ഒരു അടയാളക്കുറിപ്പു് ഉപയോഗിക്കുന്ന കീവേര്‍ഡ് ആണു് നിങ്ങള്‍ നല്‍കിയതു്. ദയവായി മറ്റൊന്നു് തെരഞ്ഞെടുക്കുക.
+
+## Containers Section
+
+containers-back-link = « തിരിച്ചുപോവുക
+containers-add-button =
+    .label = പുതിയ കണ്ടെയ്നര്‍ ചേര്‍ക്കുക
+    .accesskey = A
+containers-preferences-button =
+    .label = പരിഗണനകള്‍
+containers-remove-button =
+    .label = നീക്കുക
