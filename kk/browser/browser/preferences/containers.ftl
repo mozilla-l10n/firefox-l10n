@@ -10,6 +10,8 @@ containers-window-new =
 containers-window-update =
     .title = { $name } контейнер баптаулары
     .style = 45em
+containers-window-close =
+    .key = w
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
