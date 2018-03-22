@@ -110,23 +110,6 @@ startup-prev-session =
 disable-extension =
     .label = Deshabilitar extensión
 home-page-header = Página de inicio
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Usar página actual
-           *[other] Usar páginas actuales
-        }
-    .accesskey = c
-choose-bookmark =
-    .label = Usar un marcador…
-    .accesskey = m
-restore-default =
-    .label = Restaurar predeterminadas
-    .accesskey = R
 tabs-group-header = Pestañas
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab rota las pestañas según su uso reciente
@@ -301,6 +284,29 @@ network-proxy-connection-settings =
     .label = Configuración…
     .accesskey = C
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Usar página actual
+           *[other] Usar páginas actuales
+        }
+    .accesskey = c
+choose-bookmark =
+    .label = Usar un marcador…
+    .accesskey = m
+restore-default =
+    .label = Restaurar predeterminadas
+    .accesskey = R
+
 ## Search Section
 
 search-bar-header = Barra de búsqueda
@@ -344,3 +350,14 @@ search-keyword-warning-title = Palabra clave duplicada
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Ha elegido una palabra clave que está actualmente en uso por "{ $name }". Seleccione otra.
 search-keyword-warning-bookmark = Ha elegido una palabra clave que está actualmente en uso por un marcador. Seleccione otra.
+
+## Containers Section
+
+containers-back-link = « Ir atrás
+containers-add-button =
+    .label = Agregar nuevo contenedor
+    .accesskey = A
+containers-preferences-button =
+    .label = Preferencias
+containers-remove-button =
+    .label = Eliminar
