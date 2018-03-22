@@ -356,6 +356,9 @@ search-keyword-warning-bookmark = Ai ales un cuvânt cheie care este folosit de 
 
 containers-back-link = « Întoarce-te
 containers-header = File container
+containers-add-button =
+    .label = Adaugă un container nou
+    .accesskey = A
 containers-preferences-button =
     .label = Preferințe
 containers-remove-button =
