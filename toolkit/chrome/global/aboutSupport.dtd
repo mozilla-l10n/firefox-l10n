@@ -129,3 +129,4 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceGroup "กลุ่ม">
 <!ENTITY aboutSupport.mediaDeviceVendor "ผู้จำหน่าย">
 
+<!ENTITY aboutSupport.intlLocalesAvailable "ภาษาที่มี">
