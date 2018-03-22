@@ -37,6 +37,9 @@ containers-button-done =
     .label = Xong
     .accesskey = X
 containers-remove-alert-title = Xóa ngăn chứa này?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg = Nếu bạn xóa ngăn chứa này bây giờ, { $count } thẻ ngăn chứa sẽ bị đóng. Bạn có chắc muốn xóa ngăn chứa này?
 containers-remove-ok-button = Xóa ngăn chứa này
 containers-remove-cancel-button = Không xóa ngăn chứa này
 containers-color-blue =
