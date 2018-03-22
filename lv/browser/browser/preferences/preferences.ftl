@@ -106,23 +106,6 @@ startup-prev-session =
 disable-extension =
     .label = Deaktivēt paplašinājumu
 home-page-header = Mājas lapa
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Lietot pašreizējo lapu
-           *[other] Lietot pašreizējās lapas
-        }
-    .accesskey = L
-choose-bookmark =
-    .label = Lietot grāmatzīmi…
-    .accesskey = g
-restore-default =
-    .label = Atjaunot uz noklusēto
-    .accesskey = A
 tabs-group-header = Cilnes
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab slēdzas starp cilnēm to izmantošanas secībā
@@ -299,6 +282,29 @@ network-proxy-connection-settings =
     .label = Iestatījumi...
     .accesskey = e
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Lietot pašreizējo lapu
+           *[other] Lietot pašreizējās lapas
+        }
+    .accesskey = L
+choose-bookmark =
+    .label = Lietot grāmatzīmi…
+    .accesskey = g
+restore-default =
+    .label = Atjaunot uz noklusēto
+    .accesskey = A
+
 ## Search Section
 
 search-bar-header = Meklēšanas josla
@@ -342,3 +348,14 @@ search-keyword-warning-title = Šāds atslēgas vārds jau eksistē
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Jūs izvēlējāties atslēgas vārdu, ko šobrīd jau izmanto "{ $name }". Lūdzu, izvēlieties citu.
 search-keyword-warning-bookmark = Jūs izvēlējāties atslēgas vārdu, ko jau izmanto kāda grāmatzīme. Lūdzu, izvēlieties citu.
+
+## Containers Section
+
+containers-back-link = « Iet atpakaļ
+containers-add-button =
+    .label = Pievienot jaunu konteineru
+    .accesskey = A
+containers-preferences-button =
+    .label = Iestatījumi
+containers-remove-button =
+    .label = Noņemt
