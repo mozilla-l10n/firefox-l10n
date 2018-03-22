@@ -104,23 +104,6 @@ startup-prev-session =
 disable-extension =
     .label = Անջատել ընդլայնումը
 home-page-header = Տնային էջ
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Օգտագործել ընթացիկ էջը
-           *[other] Օգտագործել ընթացիկ էջերը
-        }
-    .accesskey = ը
-choose-bookmark =
-    .label = Օգտագործել էջանիշ...                
-    .accesskey = է
-restore-default =
-    .label = Վերականգնել լռելայնը
-    .accesskey = Վ
 tabs-group-header = Ներդիրներ
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab՝ պտտվում է ներդիրների միջև՝ ըստ վերջին օգտագործածի
@@ -295,6 +278,29 @@ network-proxy-connection-settings =
     .label = Կարգավորել...
     .accesskey = ա
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Օգտագործել ընթացիկ էջը
+           *[other] Օգտագործել ընթացիկ էջերը
+        }
+    .accesskey = ը
+choose-bookmark =
+    .label = Օգտագործել էջանիշ...                
+    .accesskey = է
+restore-default =
+    .label = Վերականգնել լռելայնը
+    .accesskey = Վ
+
 ## Search Section
 
 search-bar-header = Որոնման գոտի
@@ -338,3 +344,14 @@ search-keyword-warning-title = Կրկնել հիմաբառը
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Դուք ընտրել եք կրկնվող հիմաբառ, որը արդեն օգտագործվում է "{ $name }" -ի կողմից: Խնդրում ենք ընտրել մեկ ուրիշը:
 search-keyword-warning-bookmark = Դուք ընտրեցիք հիմնաբառ, որը այս պահին օգտագործվում է էջանիշի կողմից: Խնդրում եմ ընտրեք մեկ ուրիշը:
+
+## Containers Section
+
+containers-header = Պարունակ ներդիրներ
+containers-add-button =
+    .label = Ավելացել նոր պարունակ
+    .accesskey = Ա
+containers-preferences-button =
+    .label = Նախընտրություններ
+containers-remove-button =
+    .label = Հեռացնել
