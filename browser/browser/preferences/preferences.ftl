@@ -104,23 +104,6 @@ startup-prev-session =
 disable-extension =
     .label = Išjungti priedą
 home-page-header = Pradžios tinklalapis
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Šiuo metu atvertas tinklalapis
-           *[other] Šiuo metu atverti tinklalapiai
-        }
-    .accesskey = Š
-choose-bookmark =
-    .label = Tinklalapis iš adresyno…
-    .accesskey = T
-restore-default =
-    .label = Atstatyti numatytąjį
-    .accesskey = A
 tabs-group-header = Kortelės
 ctrl-tab-recently-used-order =
     .label = Vald+Tab perjungia korteles paskiausiai naudotų eiliškumu
@@ -297,6 +280,29 @@ network-proxy-connection-settings =
     .label = Nuostatos…
     .accesskey = N
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Šiuo metu atvertas tinklalapis
+           *[other] Šiuo metu atverti tinklalapiai
+        }
+    .accesskey = Š
+choose-bookmark =
+    .label = Tinklalapis iš adresyno…
+    .accesskey = T
+restore-default =
+    .label = Atstatyti numatytąjį
+    .accesskey = A
+
 ## Search Section
 
 search-bar-header = Paieškos laukas
@@ -340,3 +346,15 @@ search-keyword-warning-title = Pasikartojantis reikšminis žodis
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Įvedėte reikšminį žodį, kurį jau naudoja „{ $name }“. Prašome įvesti kitą.
 search-keyword-warning-bookmark = Įvedėte reikšminį žodį, kurį jau naudojate adresyno įrašui. Prašom įvesti kitą.
+
+## Containers Section
+
+containers-back-link = « Grįžti
+containers-header = Sudėtinio rodinio kortelės
+containers-add-button =
+    .label = Pridėti naują sudėtinį rodinį
+    .accesskey = P
+containers-preferences-button =
+    .label = Nuostatos
+containers-remove-button =
+    .label = Pašalinti
