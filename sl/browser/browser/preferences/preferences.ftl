@@ -353,6 +353,7 @@ search-keyword-warning-bookmark = Izbrali ste ključno besedo, ki jo trenutno up
 
 ## Containers Section
 
+containers-back-link = « Nazaj
 containers-header = Vsebniški zavihki
 containers-add-button =
     .label = Dodaj nov vsebnik
