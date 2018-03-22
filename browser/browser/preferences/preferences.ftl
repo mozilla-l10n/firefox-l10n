@@ -110,23 +110,6 @@ startup-prev-session =
 disable-extension =
     .label = 停用擴充套件
 home-page-header = 首頁
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] 使用目前頁面
-           *[other] 使用目前所有頁面
-        }
-    .accesskey = C
-choose-bookmark =
-    .label = 使用書籤…
-    .accesskey = B
-restore-default =
-    .label = 回復為預設值
-    .accesskey = R
 tabs-group-header = 分頁
 ctrl-tab-recently-used-order =
     .label = 按下 Ctrl+Tab 時，依照最近使用分頁的順序切換分頁標籤
@@ -293,6 +276,29 @@ network-proxy-connection-settings =
     .label = 設定…
     .accesskey = e
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] 使用目前頁面
+           *[other] 使用目前所有頁面
+        }
+    .accesskey = C
+choose-bookmark =
+    .label = 使用書籤…
+    .accesskey = B
+restore-default =
+    .label = 回復為預設值
+    .accesskey = R
+
 ## Search Section
 
 search-bar-header = 搜尋列
@@ -336,3 +342,14 @@ search-keyword-warning-title = 關鍵字重複
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = 您選用的關鍵字目前正被「{ $name }」所使用，請另選一個。
 search-keyword-warning-bookmark = 您選用的關鍵字目前正被書籤項目所使用，請另選一個。
+
+## Containers Section
+
+containers-back-link = « 返回
+containers-add-button =
+    .label = 新增容器
+    .accesskey = A
+containers-preferences-button =
+    .label = 偏好設定
+containers-remove-button =
+    .label = 移除
