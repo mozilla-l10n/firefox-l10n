@@ -75,6 +75,13 @@
 <!ENTITY netOffline.title "Mòddo feua linia">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY netOffline.longDesc3 "
+<ul>
+  <li>Preuva torna. &brandShortName; o proviâ a arvî a conescion e recaregâ a pagina.
+    <button id='wifi'>Abilita Wi-Fi</button>
+  </li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.title "Erô de còdifica do contegnuo">
 <!ENTITY contentEncodingError.longDesc "<ul>
@@ -95,6 +102,11 @@
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "Indirisso no interpretabile">
+<!ENTITY unknownProtocolFound.longDesc "
+<ul>
+  <li>Peu dase che ti doviæ instalâ atre aplicaçioin pe arvî st'indirisso.</li>
+</ul>
+">
 
 <!ENTITY proxyConnectFailure.title "O server proxy o refua e conescioin">
 <!ENTITY proxyConnectFailure.longDesc "<ul>
@@ -106,6 +118,14 @@
 <!ENTITY proxyResolveFailure.title "No riescio a trovâ o proxy">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY proxyResolveFailure.longDesc3 "
+<ul>
+  <li>Contròlla e inpostaçioin do proxy pe ese seguo che en corette.</li>
+  <li>Contròlla pe ese seguo che o teu dispoxitivo o l'agge 'na conescion dati ò Wi-Fi.
+    <button id='wifi'>Abilita Wi-Fi</button>
+  </li>
+</ul>
+">
 
 <!ENTITY redirectLoop.title "A pagina no redireçionn-a ben">
 <!ENTITY redirectLoop.longDesc "<ul>
@@ -121,6 +141,12 @@
 ">
 
 <!ENTITY nssFailure2.title "Conescion segua no riescia">
+<!ENTITY nssFailure2.longDesc2 "
+<ul>
+  <li>A pagina che ti preuvi a veddi a no peu ese mostrâ perché l'aotencitæ di dæti reçevui a no peu ese verificâ.</li>
+  <li>Pe piaxei senti 'n pö o propietaio do scito pe informalo do problema.</li>
+</ul>
+">
 
 <!ENTITY nssBadCert.title "Conescion segua no riescia">
 <!ENTITY nssBadCert.longDesc2 "<ul>
@@ -131,10 +157,20 @@
 
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY sharedLongDesc3 "
+<ul>
+  <li>O scito o porieiva ese tenporaneamente inacesibile ò tròppo traficou. Preuva torna tra quarche momento.</li>
+  <li>Se no ti riesci a caregâ nisciunn-a pagina, preuva a controlâ a conescion do teu computer.
+    <button id='wifi'>Abilita Wi-Fi</button>
+  </li>
+</ul>
+">
 
 <!ENTITY cspBlocked.title "Blocou da-i criteri in sciâ seguessa di contegnui">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; o l'à blocou o caregamento da pagina con sta modalitæ perché a gh'à di criteri de seguessa di contegnui ch'ou inpediscian.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Erô de contegnuo andæto a mâ">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>A pagina che ti veu vedde a no peu ese mostrâ perché gh'é 'n erô inta trasmiscion di dæti.</p><ul><li>Pe piaxei, ciamma o responsabile do scito pe informalo do problema.</li></ul>">
 
 <!ENTITY securityOverride.linkText "ò ti peu azonze 'na eceçion…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Pòrtime feua de chi!">
