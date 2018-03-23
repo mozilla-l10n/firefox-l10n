@@ -70,15 +70,13 @@ both, to better adapt this sentence to their language.
 <!ENTITY verifiedManage.accesskey     "а">
 <!ENTITY disconnect3.label            "Адлучыцца…">
 <!ENTITY disconnect3.accesskey        "А">
-<!ENTITY verify.label                "Пацвердзіць эл.пошту">
-<!ENTITY verify.accesskey            "П">
-<!ENTITY forget.label                "Забыць гэты адрас эл.пошты">
-<!ENTITY forget.accesskey            "З">
-
 <!ENTITY resendVerification.label     "Паўторна адправіць пацвярджэнне">
 <!ENTITY resendVerification.accesskey "т">
 <!ENTITY cancelSetup.label            "Скасаваць наладку">
 <!ENTITY cancelSetup.accesskey        "к">
+
+<!ENTITY removeAccount.label          "Выдаліць уліковы запіс">
+<!ENTITY removeAccount.accesskey      "з">
 
 <!ENTITY signedOut.caption            "Вазьміце сваё Сеціва з сабой">
 <!ENTITY signedOut.description        "Сінхранізуйце свае закладкі, гісторыю, карткі, паролі, дадаткі і налады на ўсіх вашых прыладах.">
