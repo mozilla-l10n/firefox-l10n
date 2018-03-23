@@ -11,13 +11,28 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "No riescio a conette">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "Sto indirisso o l'é riservou">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Server no trovou">
-<!ENTITY dnsNotFound.longDesc2 " <ul>   <li>Contròlla che inte l'indirisso no ghe segian eroî comme     <strong>ww</strong>.ezenpio.com invece de     <strong>www</strong>.ezenpio.com</li>   <li>Se ti no riesci a caregâ nisciunn-a pagina, contròlla e inpostaçioin do teu aparato ò a teu conescion Wi-Fi.</li> </ul> ">
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "
+<ul>
+  <li>Contròlla che no ghe segian di eroî comme
+    <strong>ww</strong>.ezenpio.com in cangio de
+    <strong>www</strong>.ezenpio.com</li>
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Çerca</button>
+    </div>
+  <li>Se ti no riesci a navegâ in nisciunn-a pagina, contròlla i dati do teu dispoxitivo ò a conescion Wi-Fi.
+    <button id='wifi'>Abilita Wi-Fi</button>
+  </li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "File no trovou">
 <!ENTITY fileNotFound.longDesc "<ul>
@@ -26,27 +41,40 @@
 </ul>
 ">
 
+<!ENTITY fileAccessDenied.title "Acesso a-o file negou">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>O peu ese stæto scancelou,mesciou, ò i permissi de acesso a-i file peuan proibine l'acesso.</li>
+</ul>
+">
 
-<!ENTITY generic.title "Ahime mi.">
+<!ENTITY generic.title "Belin!">
 <!ENTITY generic.longDesc "<p>&brandShortName; o no peu caregâ sta pagina pe quarche raxon.</p> ">
 
 <!ENTITY malformedURI.title "L'indirisso o no l'é valido">
-<!ENTITY malformedURI.longDesc "<ul>
-  <li>I indirissi son scriti cosci:
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "
+<ul>
+  <li>I indirissi web de solito son scriti coscì
     <strong>http://www.ezenpio.com/</strong></li>
-  <li>Contròlla che ti uzi e bare giuste (
-    <strong>/</strong>).</li>
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Çerca</button>
+    </div>
+  <li>Stanni atento de avei deuviou e bare coscì (<strong>/</strong>).</li>
 </ul>
 ">
 
 <!ENTITY netInterrupt.title "A conescion a l'é stæta scancelâ">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Documento scheito">
 <!ENTITY notCached.longDesc "<p>O documento domandou o no l'é disponibile inta cache de &brandShortName;.</p><ul><li>Comme mezua de seguessa, o &brandShortName; o no domanda torna di documenti senscibili in aotomatico.</li><li>Sciacca Preuva Torna pe domandâ torna o documento a-o scito.</li></ul>">
 
 <!ENTITY netOffline.title "Mòddo feua linia">
-<!ENTITY netOffline.longDesc2 " <ul>   <li>Preuva torna. O &brandShortName; o proviâ a-arvî a conescion e recaregâ a pagina.</li> </ul> ">
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY contentEncodingError.title "Erô de còdifica do contegnuo">
 <!ENTITY contentEncodingError.longDesc "<ul>
@@ -61,16 +89,9 @@
 ">
 
 <!ENTITY netReset.title "A conescion a l'é stæta inpostâ torna">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netTimeout.title "A conescion a gh'à misso tròppo tenpo">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
-<!ENTITY protocolNotFound.title "No ò capio l'indirisso">
-<!ENTITY protocolNotFound.longDesc "<ul>
-  <li>Ti poriesci dovei instalâ de atre aplicaçioin pe arvî sto indirisso.</li>
-</ul>
-">
 
 <!ENTITY proxyConnectFailure.title "O server proxy o refua e conescioin">
 <!ENTITY proxyConnectFailure.longDesc "<ul>
@@ -80,11 +101,8 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "No riescio a trovâ o proxy">
-<!ENTITY proxyResolveFailure.longDesc2 "
-<ul> 
-  <li>Contròlla e inpostaçioin do proxy pe confermâ che segian corette.</li> 
-  <li>Amia ch'o teu dispoxitivo o l'agge 'na conescion ch'a fonsionn-a..</li> 
-</ul> ">
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY redirectLoop.title "A pagina no redireçionn-a ben">
 <!ENTITY redirectLoop.longDesc "<ul>
@@ -100,10 +118,6 @@
 ">
 
 <!ENTITY nssFailure2.title "Conescion segua no riescia">
-<!ENTITY nssFailure2.longDesc "<ul>
-  <li>A pagina che ti preuvi a vedde a no se peu mostrase perché l'aotentiçitæ a no se peu verificâ.</li>
-  <li>Pe piaxei ciamma o propietaio do scito pe informalo do problema. Ti peu ascì adeuviâ o menû agiutto pe fâ un report in sciô scito ch'o l'à o problema.</li>
-</ul> ">
 
 <!ENTITY nssBadCert.title "Conescion segua no riescia">
 <!ENTITY nssBadCert.longDesc2 "<ul>
@@ -112,16 +126,10 @@
 </ul>
 ">
 
-<!ENTITY sharedLongDesc2 "<ul>
-  <li>O scito o porieiva ese indisponibile o tròppo occupou. Preuva ancòn da chì a 'n pö.</li> 
-  <li>Se no ti peu caregâ nisciunn-a pagina, contròlla i dæti do teu telefonin ò a conesciòn Wi-Fi.</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
-<!ENTITY cspFrameAncestorBlocked.title "Blocou da-a teu Politica de Seguessa do Contegnuo">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>O &brandShortName; o l'inpedisce che sta pagina chi a vegne caregâ a sto mòddo perché a gh'à 'na politica de seguessa che nò-u permette.</p>">
 
-<!ENTITY corruptedContentError.title "Erô de contegnuo corotto">
-<!ENTITY corruptedContentError.longDesc "<p>A pagina che ti çerchi de vedde a no peu mostrase perché s'é atrovou un erô inta trasmiscion di dæti.</p><ul><li>Pe piaxei, contatta i padroin do scito pe faghe savei de questo problema.</li></ul>">
 
 <!ENTITY securityOverride.linkText "ò ti peu azonze 'na eceçion…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Pòrtime feua de chi!">
@@ -141,4 +149,11 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "XUL Remòtto">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Pe piaxei ciamma o propietaio do scito pe informalo do problema.</li></ul></p>">
 
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
 
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
