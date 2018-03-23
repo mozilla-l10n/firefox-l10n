@@ -14,8 +14,8 @@
 <!ENTITY firstrun_bookmarks_title "Stöia">
 <!ENTITY firstrun_bookmarks_message "I teu preferii, davanti e a-o centro">
 <!ENTITY firstrun_bookmarks_subtext "Amia i exiti da-i teu segnalibbri e stöia tanto che ti çerchi.">
-<!ENTITY firstrun_data_title "Dati">
-<!ENTITY firstrun_data_message "Meno dati, ciù risparmio">
+<!ENTITY firstrun_data_title "Dæti">
+<!ENTITY firstrun_data_message "Meno dæti, ciù risparmio">
 <!ENTITY firstrun_data_subtext2 "Asmòrta e inmagine pe spende meno dati inte tutti i sciti che ti vixiti.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "Repiggia da donde t\&apos;ei arestou.">
@@ -183,10 +183,10 @@
 <!ENTITY pref_category_accessibility "Acesibilitæ">
 <!ENTITY pref_category_accessibility_summary2 "Dimenscion do testo, zoom, comandi vocali">
 <!ENTITY pref_category_privacy_short "Privacy">
-<!ENTITY pref_category_privacy_summary4 "Traciamento, acessi, condivixon dati">
+<!ENTITY pref_category_privacy_summary4 "Traciamento, acessi, condivixon dæti">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "In sce &brandShortName;, domande che ne fan spesso, comenti">
-<!ENTITY pref_category_datareporting "Condivixon dati">
+<!ENTITY pref_category_datareporting "Condivixon dæti">
 <!ENTITY pref_category_logins "Acessi">
 <!ENTITY pref_learn_more "Atre informaçioin">
 <!ENTITY pref_category_installed_search_engines "Motoî de riçerca instalæ">
@@ -204,7 +204,7 @@
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-<!ENTITY pref_category_advanced_summary3 "Repiggi feuggi, sarvataggio dati, strumenti svilopatoî">
+<!ENTITY pref_category_advanced_summary3 "Repiggi feuggi, sarvataggio dæti, strumenti svilopatoî">
 <!ENTITY pref_category_notifications "Notifiche">
 <!ENTITY pref_category_notifications_summary "Neuve fonçioin, agiornamenti di sciti">
 <!ENTITY pref_developer_remotedebugging_usb "Debug remòtto via USB">
@@ -259,7 +259,7 @@
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-<!ENTITY pref_category_data_saver "Risparmiatô dati">
+<!ENTITY pref_category_data_saver "Risparmiatô dæti">
 <!ENTITY pref_category_media "Media">
 <!ENTITY pref_category_developer_tools "Strumenti do svilupatô">
 
@@ -337,13 +337,13 @@
 <!ENTITY pref_char_encoding "Show character encoding">
 <!ENTITY pref_char_encoding_on "Fanni vedde o menû">
 <!ENTITY pref_char_encoding_off "No fanni vedde o menû">
-<!ENTITY pref_clear_private_data2 "Scancella dati privæ">
+<!ENTITY pref_clear_private_data2 "Scancella dæti privæ">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Scancella oua">
-<!ENTITY pref_clear_on_exit_title3 "Scancella dati privæ quande sciòrto">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; o scanceliâ in aotomatico i dati quande ti seleçionn-i \&quot;Sciòrti\&quot; da-o menû prinçipâ">
-<!ENTITY pref_clear_on_exit_dialog_title "Seleçionn-a dati da scancelâ">
+<!ENTITY pref_clear_on_exit_title3 "Scancella dæti privæ quande sciòrto">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; o scanceliâ in aotomatico i dæti quande ti seleçionn-i \&quot;Sciòrti\&quot; da-o menû prinçipâ">
+<!ENTITY pref_clear_on_exit_dialog_title "Seleçionn-a dæti da scancelâ">
 <!ENTITY pref_restore_tabs "Repiggia feuggi">
 <!ENTITY pref_restore_always "Repiggia de longo">
 <!ENTITY pref_restore_quit "No repigiâ dòppo che sciòrto da &brandShortName;">
@@ -405,7 +405,7 @@
 <!ENTITY pref_panels_move_up "Mescia in sciù">
 <!ENTITY pref_panels_move_down "Mescia in zu">
 
-<!ENTITY datareporting_notification_title "Statistiche e dati de &brandShortName;">
+<!ENTITY datareporting_notification_title "Statistiche e dæti de &brandShortName;">
 <!ENTITY datareporting_notification_action "Çerni cöse condividde">
 <!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
 <!ENTITY datareporting_notification_action_long "Çerni informaçioin da condividde">
@@ -421,9 +421,9 @@
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "Valutaçion da integritæ de &brandShortName;">
-<!ENTITY datareporting_fhr_summary2 "Condividde dati con &vendorShortName; in sciâ integritæ do navegatô e te agiutta a capî e prestaçioin do teu navegatô">
+<!ENTITY datareporting_fhr_summary2 "Condividde dæti con &vendorShortName; in sciâ integritæ do navegatô e te agiutta a capî e prestaçioin do teu navegatô">
 <!ENTITY datareporting_telemetry_title "Telemetria">
-<!ENTITY datareporting_telemetry_summary "Condividde dati in sce prestaçioin, uzo, hardware e personalizaçioin do navegatô con &vendorShortName; pe agiutâ a megiorâ &brandShortName;">
+<!ENTITY datareporting_telemetry_summary "Condividde dæti in sce prestaçioin, uzo, hardware e personalizaçioin do navegatô con &vendorShortName; pe agiutâ a megiorâ &brandShortName;">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; o manda segnalaçioin di cianti a &vendorShortName; pe megiorane a stabilitæ e-a seguessa">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
@@ -656,6 +656,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; o l\&apos;à blocou do contegnuo no seguo in sta pagina.">
 <!ENTITY mixed_content_blocked_some1 "&brandShortName; o l\&apos;à blocou quarchedun di contegnui no segui in sta pagina.">
+<!ENTITY mixed_content_display_loaded1 "Quarche elemento de sta pagina o no l\&apos;é seguo (prezempio inmagini).">
+<!ENTITY mixed_content_protection_disabled1 "T\&apos;æ dizabilitou a proteçion pe-o contegnuo no seguo.">
 
 <!-- Tracking content notifications in site identity popup -->
 <!ENTITY doorhanger_tracking_title2 "Proteçion anti-traciamento">
@@ -719,12 +721,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "Vanni avanti">
 <!ENTITY guest_session_dialog_cancel "Anulla">
 <!ENTITY new_guest_session_title "&brandShortName; o s\&apos;arviâ torna">
-<!ENTITY new_guest_session_text2 "A persona ch\&apos;o deuvia o no poriâ vedde nisciun di teu dati de navegaçion (comme acessi sarvæ, stöia ò segnalibbri).\n\nQuande l\&apos;òspite o l\&apos;à finio, i seu dati saian scancelæ e a teu sescion a saiâ repigiâ.">
+<!ENTITY new_guest_session_text2 "A persona ch\&apos;o deuvia o no poriâ vedde nisciun di teu dati de navegaçion (comme acessi sarvæ, stöia ò segnalibbri).\n\nQuande l\&apos;òspite o l\&apos;à finio, i seu dæti saian scancelæ e a teu sescion a saiâ repigiâ.">
 <!ENTITY guest_browsing_notification_title "Navegaçion òspite abilitâ">
 <!ENTITY guest_browsing_notification_text "Sciacca pe sciortî">
 
 <!ENTITY exit_guest_session_title "&brandShortName; o s\&apos;arviâ torna">
-<!ENTITY exit_guest_session_text "I dati de navegaçion oe sta sescion saian scancelæ.">
+<!ENTITY exit_guest_session_text "I dæti de navegaçion oe sta sescion saian scancelæ.">
 
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
@@ -756,6 +758,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
+<!ENTITY intent_uri_private_browsing_prompt "Sto colegamento o s\&apos;arviâ in &formatS;. T\&apos;ê seguo che t\&apos;eu sciortî da Navegaçion Privâ?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
@@ -763,6 +766,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
+<!ENTITY intent_uri_private_browsing_multiple_match_title "Sciortî da Navegaçion Privâ?">
 
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
@@ -770,19 +774,29 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
+<!ENTITY devtools_auth_scan_header "Scanerizâ o còdice QR ch\&apos;o l\&apos;é mostrou into teu atro dispoxitivo">
 
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 <!ENTITY restrictable_feature_addons_installation "Conponenti azonti">
+<!ENTITY restrictable_feature_addons_installation_description "Azonzi carateristiche ò fonçioin a Firefox. Nòtta: Conponenti azonti peuan dizabilitâ çerte restriçioin.">
 <!ENTITY restrictable_feature_private_browsing "Navegaçion Privâ">
+<!ENTITY restrictable_feature_private_browsing_description "Permetti a tutta a famiggia de navegâ sensa sarvâ informaçioin in sci sciti che vixitan.">
 <!ENTITY restrictable_feature_clear_history "Scancella Stöia">
+<!ENTITY restrictable_feature_clear_history_description "Permetti a tutta a famiggia de navegâ sensa sarvâ informaçioin in sci sciti che vixitan.">
 <!ENTITY restrictable_feature_advanced_settings "Inpostaçioin avansæ">
+<!ENTITY restrictable_feature_advanced_settings_description "Questo o l\&apos;includde segnalibbri inportæ, repiggio di feuggi e agiornamenti aotomatichi. Asmòrta pe avei inpostaçioin senplificæ pe tutta a famiggia.">
+<!ENTITY restrictable_feature_camera_microphone "Fòtocamera e Micròfono">
+<!ENTITY restrictable_feature_camera_microphone_description "Permetti a tutta a famiggia de deuviâ comunicaçioin in tenpo reale in sci sciti.">
 <!ENTITY restrictable_feature_block_list "Lista di blocæ">
+<!ENTITY restrictable_feature_block_list_description "Blòcca i sciti che gh\&apos;an contegnui senscibili.">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!ENTITY bookmarks_about_browser "Firefox: In sciô teu navegatô">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "Firefox: Personalizza co-i conponenti azonti">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->

@@ -28,7 +28,7 @@
       <input id='searchtext' type='search'></input>
       <button id='searchbutton'>Çerca</button>
     </div>
-  <li>Se ti no riesci a navegâ in nisciunn-a pagina, contròlla i dati do teu dispoxitivo ò a conescion Wi-Fi.
+  <li>Se ti no riesci a navegâ in nisciunn-a pagina, contròlla i dæti do teu dispoxitivo ò a conescion Wi-Fi.
     <button id='wifi'>Abilita Wi-Fi</button>
   </li>
 </ul>
@@ -121,7 +121,7 @@
 <!ENTITY proxyResolveFailure.longDesc3 "
 <ul>
   <li>Contròlla e inpostaçioin do proxy pe ese seguo che en corette.</li>
-  <li>Contròlla pe ese seguo che o teu dispoxitivo o l'agge 'na conescion dati ò Wi-Fi.
+  <li>Contròlla pe ese seguo che o teu dispoxitivo o l'agge 'na conescion dæti ò Wi-Fi.
     <button id='wifi'>Abilita Wi-Fi</button>
   </li>
 </ul>
@@ -203,3 +203,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY inadequateSecurityError.title "A teu conescion a no l'é segua">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> o deuvia 'na tecnòlogia de seguessa vegia ch'a l'é debole . Un mascarson o peu pigiâ con façiliæ e teu informaçioin che ti pensi segian a-o seguo. L'aministratô do scito o deve dâ recatto a-o server primma che ti ti posse vixitâ sto scito.</p><p>Còdice d'erô: NS_ERROR_NET_INADEQUATE_SECURITY</p>">

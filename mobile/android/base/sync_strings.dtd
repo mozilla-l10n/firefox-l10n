@@ -82,7 +82,7 @@
 <!ENTITY fxaccount_remove_account 'Disconetti&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title2 'Disconettise da Sync?'>
-<!ENTITY fxaccount_remove_account_dialog_message2 'I teu dati de navegaçion restian in sce questo computer, ma no ti saiæ ciù scincronizou co-o teu account Sync.'>
+<!ENTITY fxaccount_remove_account_dialog_message2 'I teu dæti de navegaçion restian in sce questo computer, ma no ti saiæ ciù scincronizou co-o teu account Sync.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast2 'Account Firefox &formatS; disconesso.'>
