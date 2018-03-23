@@ -45,7 +45,7 @@ policies-notice =
 pane-general-title = მთავარი 
 category-general =
     .tooltiptext = { pane-general-title }
-pane-home-title = მთავარი
+pane-home-title = საწყისი გვერდი
 category-home =
     .tooltiptext = { pane-home-title }
 pane-search-title = ძიება
@@ -105,14 +105,14 @@ set-as-my-default-browser =
 startup-page = { -brand-short-name }-ის გაშვებისას
     .accesskey = ვ
 startup-user-homepage =
-    .label = მთავარი გვერდის ჩვენება
+    .label = საწყისი გვერდის ჩვენება
 startup-blank-page =
     .label = ცარიელი გვერდის ჩვენება
 startup-prev-session =
     .label = ბოლოს დახურული ფანჯრებისა და ჩანართების ჩვენება
 disable-extension =
     .label = გაფართოების ამორთვა
-home-page-header = მთავარი გვერდი
+home-page-header = საწყისი გვერდი
 tabs-group-header = ჩანართები
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab წრიულად გადართვა ჩანართებზე, ბოლო გამოყენების რიგითობით.
@@ -294,7 +294,7 @@ home-new-windows-tabs-description = შეარჩიეთ რისი ხი
 
 ## Home Section - Home Page Customization
 
-home-homepage-mode-label = მთავარი გვერდი და ახალი ფანჯრები
+home-homepage-mode-label = საწყისი გვერდი და ახალი ფანჯრები
 home-newtabs-mode-label = ახალი ჩანართები
 home-restore-defaults =
     .label = ნაგულისხმევის აღდგენა
@@ -302,7 +302,7 @@ home-restore-defaults =
 # "Firefox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Firefox მთავარი (ნაგულისხმევი)
+    .label = Firefox საწყისი გვერდი (ნაგულისხმევი)
 home-mode-choice-custom =
     .label = მითითებული URL-მისამართები...
 home-mode-choice-blank =
