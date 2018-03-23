@@ -415,6 +415,7 @@
 <!ENTITY datareporting_telemetry_title "Telemetria">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
+<!ENTITY datareporting_crashreporter_title_short "Segnalaçion di Cianti">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -758,6 +759,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_private_browsing "Navegaçion Privâ">
 <!ENTITY restrictable_feature_clear_history "Scancella Stöia">
 <!ENTITY restrictable_feature_advanced_settings "Inpostaçioin avansæ">
+<!ENTITY restrictable_feature_block_list "Lista di blocæ">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
@@ -772,6 +774,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
 
+<!ENTITY eol_notification_summary "Sciacca chi pe saveine de ciù">
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
