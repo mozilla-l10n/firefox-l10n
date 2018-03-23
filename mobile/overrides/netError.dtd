@@ -89,9 +89,12 @@
 ">
 
 <!ENTITY netReset.title "A conescion a l'é stæta inpostâ torna">
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "A conescion a gh'à misso tròppo tenpo">
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
+<!ENTITY unknownProtocolFound.title "Indirisso no interpretabile">
 
 <!ENTITY proxyConnectFailure.title "O server proxy o refua e conescioin">
 <!ENTITY proxyConnectFailure.longDesc "<ul>
@@ -129,7 +132,9 @@
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
+<!ENTITY cspBlocked.title "Blocou da-i criteri in sciâ seguessa di contegnui">
 
+<!ENTITY corruptedContentErrorv2.title "Erô de contegnuo andæto a mâ">
 
 <!ENTITY securityOverride.linkText "ò ti peu azonze 'na eceçion…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Pòrtime feua de chi!">
@@ -149,11 +154,16 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "XUL Remòtto">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Pe piaxei ciamma o propietaio do scito pe informalo do problema.</li></ul></p>">
 
+<!ENTITY sslv3Used.title "Inposcibile conetise in mòddo seguo">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc "Informaçion avansæ: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "A teu conescion a no l'é segua">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc "Informaçion avansæ: SSL_ERROR_NO_CYPHER_OVERLAP">
 
+<!ENTITY inadequateSecurityError.title "A teu conescion a no l'é segua">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
