@@ -27,13 +27,13 @@
 <!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
-<!ENTITY healthReportingDisabled.label   "O report di dati o l'é dizabilitou pe sta configuraçion">
+<!ENTITY healthReportingDisabled.label   "O report di dæti o l'é dizabilitou pe sta configuraçion">
 
-<!ENTITY enableHealthReport2.label       "Permetti a &brandShortName; de mandâ dati tecnichi e de interaçion a Mozilla">
+<!ENTITY enableHealthReport2.label       "Permetti a &brandShortName; de mandâ dæti tecnichi e de interaçion a Mozilla">
 <!ENTITY enableHealthReport2.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "Atre informaçioin">
 
-<!ENTITY dataCollection.label            "Acugeita dati e uzo de &brandShortName;">
+<!ENTITY dataCollection.label            "Acugeita dæti e uzo de &brandShortName;">
 <!ENTITY dataCollectionDesc.label        "Niatri çerchemmo de lasciâ a ti a decixon e de sarvase solo quello ch'o ne serve pe megiorâ &brandShortName; pe tutti. Niatri te domandiemo de longo o permisso primma de reçeive informaçioin personâ.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Informativa in sciâ privacy">
 
@@ -64,10 +64,10 @@ available. -->
 <!ENTITY clearSiteData.accesskey         "l">
 <!ENTITY siteDataSettings.label          "Inpostaçioin…">
 <!ENTITY siteDataSettings.accesskey      "i">
-<!ENTITY siteData1.label                 "Cookie e Dati di Sciti">
-<!ENTITY clearSiteData1.label            "Scancella Dati…">
+<!ENTITY siteData1.label                 "Cookie e Dæti di Sciti">
+<!ENTITY clearSiteData1.label            "Scancella dæti…">
 <!ENTITY clearSiteData1.accesskey        "l">
-<!ENTITY siteDataSettings1.label         "Gestisci Dati…">
+<!ENTITY siteDataSettings1.label         "Gestisci dæti…">
 <!ENTITY siteDataSettings1.accesskey     "G">
 <!ENTITY siteDataLearnMoreLink.label     "Pe saveine de ciù">
 
