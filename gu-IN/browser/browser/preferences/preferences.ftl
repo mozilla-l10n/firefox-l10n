@@ -292,9 +292,16 @@ network-proxy-connection-settings =
 
 ## Home Section - Home Page Customization
 
+home-newtabs-mode-label = નવી ટૅબ્સ
 home-restore-defaults =
     .label = મૂળભૂતને પુન:સંગ્રહો
     .accesskey = R
+home-mode-choice-custom =
+    .label = પોતાના URLs...
+home-mode-choice-blank =
+    .label = ખાલી પાનું
+home-homepage-custom-url =
+    .placeholder = એક URL પેસ્ટ કરો...
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
