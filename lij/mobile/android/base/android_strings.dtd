@@ -16,47 +16,95 @@
 <!ENTITY firstrun_bookmarks_subtext "Amia i exiti da-i teu segnalibbri e stöia tanto che ti çerchi.">
 <!ENTITY firstrun_data_title "Dati">
 <!ENTITY firstrun_data_message "Meno dati, ciù risparmio">
+<!ENTITY firstrun_data_subtext2 "Asmòrta e inmagine pe spende meno dati inte tutti i sciti che ti vixiti.">
+<!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_sync_message2 "Repiggia da donde t\&apos;ei arestou.">
+<!ENTITY firstrun_sync_subtext2 "Deuvia Sync pe trovâ i segnalibbri, poule segrete e atre cöse che t\&apos;æ sarvou con &brandShortName; in sce tutti i dispoxitivi.">
+<!ENTITY firstrun_signin_message "Conetite e comensa">
+<!ENTITY firstrun_signin_button "Acedi a Sync">
+<!ENTITY  onboard_start_button_browser "Iniçia a navegâ">
+<!ENTITY firstrun_button_notnow "Oua no">
+<!ENTITY firstrun_button_next "Pròscimo">
 
+<!ENTITY firstrun_tabqueue_title "Colegamenti">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
+<!ENTITY firstrun_tabqueue_message_off "Acendi coa di feuggi">
+<!ENTITY firstrun_tabqueue_subtext_off "Sarva i colegamente pe dòppo in &brandShortName; quande ti ghe sciacchi in çimma inte atre app.">
 
+<!ENTITY firstrun_tabqueue_message_on "Ariescio!">
+<!ENTITY firstrun_tabqueue_subtext_on "Ti peu de longo asmortâ questo inte &settings; sotta &pref_category_general;.">
 
+<!ENTITY firstrun_readerview_title "Articoli">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+<!ENTITY firstrun_readerview_message "Basta co-o sciato">
+<!ENTITY firstrun_readerview_subtext "Deuvia a Vista Letua pe leze megio i articolo \u2014 anche feua linia.">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+<!ENTITY firstrun_account_title "Ti">
+<!ENTITY firstrun_account_message "Ti gh\&apos;æ &brandShortName; in sce \&apos;n\&apos;atro dispoxitivo?">
 
+<!ENTITY  onboard_start_restricted1 "Stanni a-o seguo e into pin contròllo con sta verscion senplificâ de &brandShortName;.">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
+<!ENTITY  bookmarks_title "Segnalibbri">
+<!ENTITY  history_title "Stöia">
 
+<!ENTITY  switch_to_tab "Vanni a-o feuggio">
 
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
+<!ENTITY  tab_offline_version "Mostro a verscion feua linia">
 
 <!ENTITY  crash_reporter_title "Report di cianti do &brandShortName;">
+<!ENTITY  crash_message2 "&brandShortName; o l\&apos;à \&apos;n problema e o s\&apos;é ciantou. I teu feuggi dovieivan ese mostræ inta Pagina Prinçipâ de &brandShortName; quande t\&apos;arvi torna.">
+<!ENTITY  crash_send_report_message3 "Dinni a &vendorShortName; o problema coscì peuan scistemalo">
+<!ENTITY  crash_include_url2 "Mettighe l\&apos;indirisso da pagina donde eo">
+<!ENTITY  crash_sorry "Semmo despiaxui">
+<!ENTITY  crash_comment "Azonzi \&apos;n comento (i comenti en vixibili pubricamente)">
+<!ENTITY  crash_allow_contact2 "Permetti a &vendorShortName; de contatame a rigoardo de sto report">
+<!ENTITY  crash_email "A teu email">
+<!ENTITY  crash_closing_alert "Sciortî sensa mandâ \&apos;n report do cianto?">
 <!ENTITY  sending_crash_report "Mando o report do cianto\u2026">
 <!ENTITY  crash_close_label "Særa">
 <!ENTITY  crash_restart_label "Arvi torna &brandShortName;">
 
 
 <!ENTITY bookmark "Segnalibbro">
+<!ENTITY bookmark_remove "Scancella segnalibbro">
 <!ENTITY bookmark_added "Segnalibbro azonto">
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "Za azonto a-i segnalibbri">
 <!ENTITY bookmark_removed "Segnalibbro scancelou">
 <!ENTITY bookmark_updated "Segnalibbro agiornou">
+<!ENTITY bookmark_options "Inpostaçioin">
+<!ENTITY bookmark_save "Sarva">
+<!ENTITY screenshot_added_to_bookmarks "Föto do schermo azonta a-i segnalibbri">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
+<!ENTITY screenshot_folder_label_in_bookmarks "Föto do schermo">
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "Lista de letua">
 
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
+<!ENTITY bookmark_folder_items "&formatD; elementi">
+<!ENTITY bookmark_folder_one_item "1 elemento">
+<!ENTITY bookmark_folder_updated "Cartella agiornâ">
+<!ENTITY bookmark_parent_folder "Cartella poæ">
+<!ENTITY bookmark_add_folder "Azonzi neuva cartella">
 
+<!ENTITY reader_saved_offline "Sarvou feua linia">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
+<!ENTITY reader_switch_to_bookmarks "Cangia">
 
 <!ENTITY history_today_section "Ancheu">
 <!ENTITY history_yesterday_section "Vei">
+<!ENTITY history_week_section3 "Urtimi 7 giorni">
+<!ENTITY history_older_section3 "Ciù vegio de 6 meixi">
 
 <!ENTITY search "Çerca">
 <!ENTITY reload "Recarega">
@@ -70,10 +118,13 @@
 <!ENTITY one_tab "1 feuggio">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs2 "&formatD; feuggi">
 <!ENTITY new_tab_opened "Neuvo feuggio averto">
+<!ENTITY new_private_tab_opened "Neuvo feuggio privou averto">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "CANGIA">
 <!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
      visible in the UI, but rather used as a text-to-speech content description
      for sight-impaired a11y users. The content description is set on a tab
@@ -81,6 +132,7 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "Riproduco aodio – &formatS;">
 
 <!ENTITY settings "Inpostaçioin">
 <!ENTITY settings_title "Inpostaçioin">
@@ -167,6 +219,7 @@
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; feuggi in ateiza">
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
 
@@ -293,7 +346,9 @@
 
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
+<!ENTITY home_synced_devices_number "&formatD; dispoxitivi">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
+<!ENTITY home_closed_tabs_number "&formatD; feuggi">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -308,6 +363,7 @@
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; dispoxitivi ascoxi">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
