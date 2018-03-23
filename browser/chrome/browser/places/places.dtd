@@ -90,7 +90,7 @@
 
 <!ENTITY cmd.find.key  "f">
 
-<!ENTITY maintenance.label      "Inportâ e fâ de còpie de seguessa">
+<!ENTITY maintenance.label      "Inpòrta e fâ de còpie de seguessa">
 <!ENTITY maintenance.accesskey  "I">
 <!ENTITY maintenance.tooltip    "Inpòrta e fanni a còpia de seguessa di teu segnalibbri">
 

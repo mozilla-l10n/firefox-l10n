@@ -1000,7 +1000,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.disallowInUrlbar.label "No mostrâ inta bara di indirissi">
 <!ENTITY pageAction.manageExtension.label "Gestisci estenscioin…">
 
-<!ENTITY pageAction.sendTabToDevice.label "Manda feuggio into dispoxitivo">
+<!ENTITY pageAction.sendTabToDevice.label "Manda feuggio a-o dispoxitivo">
 <!ENTITY sendToDevice.syncNotReady.label "Scincronizzo dispoxitivi…">
 
 <!ENTITY libraryButton.tooltip "Fanni vedde stöia, segnalibbri sarvæ e atro">
