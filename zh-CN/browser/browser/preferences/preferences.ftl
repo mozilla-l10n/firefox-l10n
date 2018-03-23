@@ -41,7 +41,7 @@ policies-notice =
 pane-general-title = 常规
 category-general =
     .tooltiptext = { pane-general-title }
-pane-home-title = 首页
+pane-home-title = 主页
 category-home =
     .tooltiptext = { pane-home-title }
 pane-search-title = 搜索
@@ -286,11 +286,11 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = 新窗口和标签页
-home-new-windows-tabs-description = 选择您想在哪里打开您的首页、新窗口和新标签页
+home-new-windows-tabs-description = 选择打开主页、新窗口、新标签页时要显示的内容
 
 ## Home Section - Home Page Customization
 
-home-homepage-mode-label = 首页和新窗口
+home-homepage-mode-label = 主页和新窗口
 home-newtabs-mode-label = 新标签页
 home-restore-defaults =
     .label = 恢复默认设置
@@ -298,7 +298,7 @@ home-restore-defaults =
 # "Firefox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Firefox 首页 (默认)
+    .label = Firefox 主页（默认）
 home-mode-choice-custom =
     .label = 自定义网址…
 home-mode-choice-blank =
@@ -313,7 +313,7 @@ use-current-pages =
     .label =
         { $tabCount ->
             [1] 使用当前页面
-           *[other] 使用当前的多个页面
+           *[other] 使用当前所有页面
         }
     .accesskey = C
 choose-bookmark =
