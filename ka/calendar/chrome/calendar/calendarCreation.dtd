@@ -20,3 +20,25 @@
 
 <!ENTITY finishpage.shortdescription  "კალენდარი შეიქმნა" >
 <!ENTITY finishpage.longdescription   "თქვენი კალენდარი შეიქმნა." >
+
+<!-- Below are new strings for the revised new calendar dialog. The above strings should be
+    removed/renamed later on -->
+
+<!ENTITY sourcetabs.other.label  "სხვა">
+
+<!ENTITY buttons.create.label "კალენდრის შექმნა…">
+<!ENTITY buttons.create.accesskey "რ">
+
+<!ENTITY buttons.find.label "კალენდრის პოვნა…">
+<!ENTITY buttons.find.accesskey "პ">
+
+<!ENTITY buttons.back.label "უკან">
+<!ENTITY buttons.back.accesskey "უ">
+
+<!ENTITY buttons.subscribe.label "გამოწერა">
+<!ENTITY buttons.subscribe.accesskey "გ">
+
+<!ENTITY calendartype.label "კალენდრის სახეობა:">
+<!ENTITY location.label "მდებარეობა:">
+
+
