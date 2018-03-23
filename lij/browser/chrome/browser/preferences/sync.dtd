@@ -75,6 +75,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY cancelSetup.label            "Anulla configuraçion">
 <!ENTITY cancelSetup.accesskey        "g">
 
+<!ENTITY removeAccount.label          "Scancella Account">
+<!ENTITY removeAccount.accesskey      "p">
+
 <!ENTITY signedOut.caption            "A teu Ræ, de longo con ti">
 <!ENTITY signedOut.description        "Scincronizza segnalibbri, stöia, feuggi, paròlle segrete, conponenti azonti e inpostaçioin con tutti i teu dispoxitivi.">
 <!ENTITY signedOut.accountBox.title   "Conetti &syncBrand.fxAccount.label;">
