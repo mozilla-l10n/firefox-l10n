@@ -75,6 +75,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY cancelSetup.label            "Nulañ ar staliadur">
 <!ENTITY cancelSetup.accesskey        "s">
 
+<!ENTITY removeAccount.label          "Dilemel ar gont">
+<!ENTITY removeAccount.accesskey      "g">
+
 <!ENTITY signedOut.caption            "Kemerit ho web ganeoc'h">
 <!ENTITY signedOut.description        "Goubredit ho sinedoù, roll istor, ivinelloù, gerioù-tremen, askouezhioù ha gwellvezioù dre veur a urzhiataer pe trevnad.">
 <!ENTITY signedOut.accountBox.title   "Kennaskit gant un &syncBrand.fxAccount.label;">
