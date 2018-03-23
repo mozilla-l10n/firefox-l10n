@@ -49,31 +49,67 @@
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Benvegnuo into &syncBrand.shortName.label;'>
 <!ENTITY fxaccount_getting_started_description2 'Acedi pe scincronizâ feuggi, segnalibbri, acessi e atro.'>
 <!ENTITY fxaccount_getting_started_get_started 'Iniçia'>
+<!ENTITY fxaccount_getting_started_old_firefox 'Ti deuvi \&apos;na vegia verscion de &syncBrand.shortName.label;?'>
 
+<!ENTITY fxaccount_status_auth_server 'Server di account'>
+<!ENTITY fxaccount_status_sync_now 'Scincronizza oua'>
+<!ENTITY fxaccount_status_syncing2 'Scincronizaçion…'>
+<!ENTITY fxaccount_status_device_name 'Nomme dispoxitivo'>
+<!ENTITY fxaccount_status_sync_server 'Server Sync'>
+<!ENTITY fxaccount_status_needs_verification2 'O teu account o deve ese verificou. Sciacca pe mandâ torna l\&apos;email de verifica.'>
+<!ENTITY fxaccount_status_needs_credentials 'No me pòsso conette. Sciacca pe intrâ.'>
+<!ENTITY fxaccount_status_needs_upgrade 'Ti devi agiornâ &brandShortName; pe intrâ.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; o l\&apos;é scistemou, ma o no scincronizza in aotomatico. Cangia a “Aotoscincronizza dati” inte inpostaçioin Android &gt; Uzo dati.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; o l\&apos;é scistemou, ma o no scincronizza in aotomatico. Cangia a “Aotoscincronizza dati” inte inpostaçioin Android &gt; Account.'>
+<!ENTITY fxaccount_status_needs_finish_migrating 'Sciacca pe intrâ into neuvo account Firefox.'>
+<!ENTITY fxaccount_status_choose_what 'Çerni cöse scincronizâ'>
+<!ENTITY fxaccount_status_bookmarks 'Segnalibbri'>
+<!ENTITY fxaccount_status_history 'Stöia'>
+<!ENTITY fxaccount_status_passwords2 'Acessi'>
+<!ENTITY fxaccount_status_tabs 'Feuggi averti'>
+<!ENTITY fxaccount_status_additional_settings 'Atre inpostaçioin'>
+<!ENTITY fxaccount_pref_sync_use_metered2 'Scincronizza solo co-o Wi-Fi'>
 <!-- Localization note: Only affects background syncing, user initiated
      syncs will still be done regardless of the connection -->
+<!ENTITY fxaccount_pref_sync_use_metered_summary2 'Evita a &brandShortName; de scincronizâ inte \&apos;na ræ do telefonin ò che ti paghi'>
+<!ENTITY fxaccount_status_legal 'Lezze' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
+<!ENTITY fxaccount_status_linktos2 'Termini do serviçio'>
+<!ENTITY fxaccount_status_linkprivacy2 'Informativa da privacy'>
+<!ENTITY fxaccount_remove_account 'Disconetti&ellipsis;'>
 
+<!ENTITY fxaccount_remove_account_dialog_title2 'Disconettise da Sync?'>
+<!ENTITY fxaccount_remove_account_dialog_message2 'I teu dati de navegaçion restian in sce questo computer, ma no ti saiæ ciù scincronizou co-o teu account Sync.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast2 'Account Firefox &formatS; disconesso.'>
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
+<!ENTITY fxaccount_remove_account_dialog_action_confirm 'Disconnetti'>
 
+<!ENTITY fxaccount_enable_debug_mode 'Inandia mòddo debug'>
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
+<!ENTITY fxaccount_account_type_label 'Firefox'>
 
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > {Firefox
      Account} Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
      Account. -->
+<!ENTITY fxaccount_options_title 'Inpostaçioin de &syncBrand.shortName.label;'>
+<!ENTITY fxaccount_options_configure_title 'Configura &syncBrand.shortName.label;'>
 
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; o no l\&apos;é conesso'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Sciacca pe intrâ comme &formatS;'>
 
+<!ENTITY fxaccount_sync_finish_migrating_notification_title 'Smette de agiornâ &syncBrand.shortName.label;?'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text 'Sciacca pe intrâ comme &formatS;'>
