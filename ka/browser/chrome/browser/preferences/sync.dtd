@@ -70,15 +70,13 @@ both, to better adapt this sentence to their language.
 <!ENTITY verifiedManage.accesskey     "მ">
 <!ENTITY disconnect3.label            "კავშირის გაწყვეტა…">
 <!ENTITY disconnect3.accesskey        "წ">
-<!ENTITY verify.label                "ელფოსტის დამოწმება">
-<!ENTITY verify.accesskey            "დ">
-<!ENTITY forget.label                "ამ ელფოსტის დავიწყება">
-<!ENTITY forget.accesskey            "ყ">
-
 <!ENTITY resendVerification.label     "ხელახლა გამოგზავნა დასამოწმებლად">
 <!ENTITY resendVerification.accesskey "ხ">
 <!ENTITY cancelSetup.label            "გამართვის გაუქმება">
 <!ENTITY cancelSetup.accesskey        "თ">
+
+<!ENTITY removeAccount.label          "ანგარიშის წაშლა">
+<!ENTITY removeAccount.accesskey      "წ">
 
 <!ENTITY signedOut.caption            "წაიყოლეთ თქვენი მონაცემები თან">
 <!ENTITY signedOut.description        "დაასინქრონეთ თქვენი სანიშნები, ისტორია, ჩანართები, პაროლები, დამატებები და პარამეტრები ყველა მოწყობილობაზე.">
