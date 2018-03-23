@@ -12,7 +12,7 @@
 <!ENTITY highlightAll.accesskey "в">
 <!ENTITY highlightAll.tooltiptext "Открояване на всички съвпадения на фразата">
 <!ENTITY caseSensitive.label "Съвпадение на регистъра">
-<!ENTITY caseSensitive.accesskey "Ч">
+<!ENTITY caseSensitive.accesskey "р">
 <!ENTITY caseSensitive.tooltiptext "Търсене със съвпадение на регистъра на буквите">
 <!ENTITY entireWord.label "Цели думи">
 <!ENTITY entireWord.accesskey "д">
