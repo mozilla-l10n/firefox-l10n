@@ -289,6 +289,7 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = નવી વિન્ડો અને ટૅબ્સ
 
 ## Home Section - Home Page Customization
 
