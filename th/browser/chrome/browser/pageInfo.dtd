@@ -21,7 +21,7 @@
 <!ENTITY  generalMode           "โหมดการเรนเดอร์:">
 <!ENTITY  generalSize           "ขนาด:">
 <!ENTITY  generalReferrer       "URL อ้างอิง:">
-<!ENTITY  generalSource         "ที่มาแคช:">
+<!ENTITY  generalSource         "แหล่งที่มาแคช:">
 <!ENTITY  generalModified       "เปลี่ยนแปลงเมื่อ:">
 <!ENTITY  generalEncoding2      "รหัสอักขระ:">
 <!ENTITY  generalMetaName       "ชื่อ">
@@ -59,9 +59,6 @@
 <!ENTITY  permBlock             "ปิดกั้น">
 <!ENTITY  permissionsFor        "การอนุญาตสำหรับ:">
 <!ENTITY  permPlugins           "เปิดใช้งานปลั๊กอิน">
-
-<!ENTITY  permClearStorage           "ล้างที่เก็บข้อมูล">
-<!ENTITY  permClearStorage.accesskey "ล">
 
 <!ENTITY  securityTab           "ความปลอดภัย">
 <!ENTITY  securityTab.accesskey "ค">
