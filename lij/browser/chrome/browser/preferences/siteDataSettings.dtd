@@ -4,7 +4,7 @@
 
 <!ENTITY     window.title                  "Inpostaçioin - Dæti di sciti">
 
-<!ENTITY     window2.title                 "Gestisci Cookie e Dati di Sciti">
+<!ENTITY     window2.title                 "Gestisci Cookie e Dæti di Sciti">
 <!ENTITY     hostCol.label                 "Scito">
 <!ENTITY     statusCol.label               "Stato">
 <!ENTITY     cookiesCol.label              "Cookie">
@@ -21,6 +21,6 @@
 <!ENTITY     removingDialog.title          "Scancella dæti do scito">
 <!ENTITY     removingSelected.description  "Scancelâ i dæti do scito te faiâ anche scancelâ i cookie ralativi e-i contegnui feua linia. Questo te poriâ fâ sciortî da-i sciti. T'ê seguo che t'eu fâ cangiamenti?">
 <!ENTITY     siteTree2.label               "I segoenti cookie saian scancelæ">
-<!ENTITY     removingDialog1.title         "Scancella Cookie e Dati di Sciti">
-<!ENTITY     removingSelected1.description "Scancelâ cookie e dati di sciti o peu fate sciortî da-i sciti. Te seguo de fâ sti cangiamenti?">
-<!ENTITY     siteTree3.label               "I cookie e dati di sciti de sti sciti chi saian scancelæ">
+<!ENTITY     removingDialog1.title         "Scancella Cookie e Dæti di Sciti">
+<!ENTITY     removingSelected1.description "Scancelâ cookie e dæti di sciti o peu fate sciortî da-i sciti. Te seguo de fâ sti cangiamenti?">
+<!ENTITY     siteTree3.label               "I cookie e dæti di sciti de sti sciti chi saian scancelæ">

@@ -44,13 +44,13 @@
 <!ENTITY  acceptThirdParty2.pre.label     "Acetta cookie da terse parte">
 <!ENTITY  acceptThirdParty2.pre.accesskey "s">
 
-<!ENTITY  acceptCookies4.label          "Acetta cookie e dati di sciti da-i sciti (consegiou)">
+<!ENTITY  acceptCookies4.label          "Acetta cookie e dæti di sciti da-i sciti (consegiou)">
 <!ENTITY  acceptCookies4.accesskey      "A">
 
-<!ENTITY  blockCookies.label            "Blòcca cookie e dati di sciti (çerti sciti peuan no fonçionâ)">
+<!ENTITY  blockCookies.label            "Blòcca cookie e dæti di sciti (çerti sciti peuan no fonçionâ)">
 <!ENTITY  blockCookies.accesskey        "B">
 
-<!ENTITY  acceptThirdParty3.pre.label     "Acetta cookie e dati di sciti da terse parte">
+<!ENTITY  acceptThirdParty3.pre.label     "Acetta cookie e dæti di sciti da terse parte">
 <!ENTITY  acceptThirdParty3.pre.accesskey "s">
 <!ENTITY  acceptThirdParty.always.label   "de longo">
 <!ENTITY  acceptThirdParty.never.label    "mai">
