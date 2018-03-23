@@ -250,7 +250,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchItem.title             "ძიება">
 
 <!-- Toolbar items -->
-<!ENTITY homeButton.label             "მთავარი">
+<!ENTITY homeButton.label             "საწყისი გვერდი">
 
 <!ENTITY bookmarksButton.label          "სანიშნები">
 <!ENTITY bookmarksCmd.commandkey "b">

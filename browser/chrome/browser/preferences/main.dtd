@@ -6,11 +6,11 @@
 
 <!ENTITY startupPage2.label        "&brandShortName;-ის გაშვებისას">
 <!ENTITY startupPage2.accesskey    "ვ">
-<!ENTITY startupUserHomePage.label "მთავარი გვერდის ჩვენება">
+<!ENTITY startupUserHomePage.label "საწყისი გვერდის ჩვენება">
 <!ENTITY startupBlankPage.label    "ცარიელი გვერდის ჩვენება">
 <!ENTITY startupPrevSession.label  "ბოლოს დახურული ფანჯრებისა და ჩანართების ჩვენება">
 
-<!ENTITY homepage2.label           "მთავარი გვერდი">
+<!ENTITY homepage2.label           "საწყისი გვერდი">
 <!ENTITY homepage2.accesskey       "გ">
 <!ENTITY useCurrentPage.label      "მიმდინარე გვერდის გამოყენება">
 <!ENTITY useCurrentPage.accesskey  "მ">
@@ -44,5 +44,3 @@
 <!ENTITY useFirefoxSync.label             "რჩევა: ეს სხვადასხვა პროფილებს იყენებს. მათ შორის მონაცემების გასაზიარებლად Sync გამოიყენეთ.">
 <!ENTITY getStarted.notloggedin.label     "&syncBrand.shortName.label;-ში შესვლა…">
 <!ENTITY getStarted.configured.label      "&syncBrand.shortName.label;-ის პარამეტრების გახსნა">
-
-<!ENTITY e10sEnabled.label                "მრავალპროცესიანი &brandShortName;">
