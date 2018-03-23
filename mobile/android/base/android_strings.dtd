@@ -400,7 +400,9 @@
 <!ENTITY pref_panels_move_down "Mescia in zu">
 
 <!ENTITY datareporting_notification_title "Statistiche e dati de &brandShortName;">
+<!ENTITY datareporting_notification_action "Çerni cöse condividde">
 <!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
+<!ENTITY datareporting_notification_action_long "Çerni informaçioin da condividde">
 <!-- When this item is removed, also remove datareporting_notification_action_long:
      it is unused in strings.xml. -->
 
@@ -410,17 +412,24 @@
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
+<!ENTITY datareporting_telemetry_title "Telemetria">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload3 "Agiornamenti aotomatichi">
+<!ENTITY pref_update_autodownload_wifi "Solo co-o Wi-Fi">
+<!ENTITY pref_update_autodownload_never "Mai">
+<!ENTITY pref_update_autodownload_always "De longo">
 
 <!-- Localization note (help_menu) : This string is used in the main menu-->
+<!ENTITY help_menu "Agiutto">
 
 <!ENTITY quit "Sciòrti">
 
 <!ENTITY addons "Conponenti azonti">
+<!ENTITY logins "Acessi">
 <!ENTITY downloads "Descaregamenti">
 <!ENTITY char_encoding "Codifica do caratere">
 
@@ -428,9 +437,21 @@
 <!ENTITY share_title "Condividdi via">
 <!ENTITY share_image_failed "Inposcibile condividde sta inmagine">
 <!ENTITY save_as_pdf "Sarva comme PDF">
+<!ENTITY print "Stanpa">
+<!ENTITY view_page_source "Fanni vedde sorgente pagina">
 <!ENTITY find_in_page "Treuva inta pagina">
 <!ENTITY desktop_mode "Domanda verscion desktop">
+<!ENTITY page "Pagina">
+<!ENTITY tools "Atressi">
 <!ENTITY new_tab "Neuvo feuggio">
+<!ENTITY new_private_tab "Neuvo feuggio privou">
+<!ENTITY close_all_tabs "Særa tutti i feuggi">
+<!ENTITY close_private_tabs "Særa feuggi privæ">
+<!ENTITY tabs_normal "Feuggi">
+<!ENTITY tabs_private "Privou">
+<!ENTITY set_image_fail "No pòsso mette a föto">
+<!ENTITY set_image_path_fail "No pòsso sarvâ a föto">
+<!ENTITY set_image_chooser_title "Inpòsta inmagine comme">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -441,47 +462,86 @@
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY media_sending_to "Mando a-o dispoxitivo">
+<!ENTITY media_play "Riproduçion">
+<!ENTITY media_pause "Pösa">
+<!ENTITY media_stop "Ferma">
 
 <!ENTITY contextmenu_open_new_tab "Arvi in neuvo feuggio">
+<!ENTITY contextmenu_open_private_tab "Arvi in feuggio privou">
+<!ENTITY contextmenu_remove "Scancella">
+<!ENTITY contextmenu_add_page_shortcut "Azonzi scorsaieu pagina">
+<!ENTITY contextmenu_set_as_homepage "Inpòsta comme Pagina prinçipâ">
 <!ENTITY contextmenu_share "Condividdi">
 <!ENTITY contextmenu_pasteandgo "Incòlla e vanni">
 <!ENTITY contextmenu_paste "Incòlla">
 <!ENTITY contextmenu_copyurl "Còpia indirisso">
 <!ENTITY contextmenu_edit_bookmark "Cangia">
+<!ENTITY contextmenu_subscribe "Abon-ite a-a pagina">
+<!ENTITY contextmenu_site_settings "Cangia Inpostaçioin sciti">
+<!ENTITY contextmenu_top_sites_edit "Cangia">
+<!ENTITY contextmenu_top_sites_pin "Fissa scito">
+<!ENTITY contextmenu_top_sites_unpin "Leva scito">
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
+<!ENTITY contextmenu_pin_to_top_sites "Fissa in sciti prinçipâ">
+<!ENTITY contextmenu_unpin_from_top_sites "Leva da sciti prinçipâ">
+<!ENTITY contextmenu_add_search_engine "Azonzi motô de riçerca">
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
      after the user pins/unpins the currently displayed page from top sites. -->
+<!ENTITY pinned_page_to_top_sites "Pagina azonta a-i sciti prinçipâ">
+<!ENTITY unpinned_page_from_top_sites "Pagina tolta da-i sciti prinçipâ">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
+<!ENTITY doorhanger_login_no_username "[No nomme utente]">
+<!ENTITY doorhanger_login_edit_title "Cangia acesso">
+<!ENTITY doorhanger_login_edit_username_hint "Nomme utente">
+<!ENTITY doorhanger_login_edit_password_hint "Paròlla segreta">
+<!ENTITY doorhanger_login_edit_toggle "Mostra paròlla segreta">
+<!ENTITY doorhanger_login_select_message "Còpia paròlla segreta da &formatS;?">
+<!ENTITY doorhanger_login_select_toast_copy "Paròlla segreta copiâ in sci aponti">
+<!ENTITY doorhanger_login_select_action_text "Seleçionn-a atro atresso">
+<!ENTITY doorhanger_login_select_title "Còpia paròlla segreta da">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
+<!ENTITY pref_scroll_title_bar2 "Navegaçion a tutto schermo">
+<!ENTITY pref_scroll_title_bar_summary2 "Ascondi a bara di atressi de &brandShortName; quande rebello in zu a pagina">
 
+<!ENTITY pref_tab_queue_title3 "Coa di feuggi">
+<!ENTITY pref_tab_queue_summary4 "Sarva colegamenti scinn-a a-a proscima vòtta che arvo &brandShortName;">
 
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
+<!ENTITY pref_compact_tabs "Feuggi scciassi">
+<!ENTITY pref_compact_tabs_summary2 "Inpòsta i feuggi in doe colonne into mòddo pe drito">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
+<!ENTITY page_removed "Pagina scancelâ">
+<!ENTITY folder_removed "Cartella scancelâ">
 
 <!ENTITY bookmark_edit_title "Cangia segnalibbro">
+<!ENTITY bookmark_edit_folder_title "Cangia cartella">
 <!ENTITY bookmark_edit_name "Nomme">
 <!ENTITY bookmark_edit_location "Indirisso">
 <!ENTITY bookmark_edit_keyword "Paròlla ciave">
+<!ENTITY bookmark_select_folder "Seleçionn-a cartella">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
+<!ENTITY site_settings_title3       "Inpostaçioin di sciti">
 <!ENTITY site_settings_cancel       "Anulla">
 <!ENTITY site_settings_clear        "Netezza">
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
+<!ENTITY page_action_dropmarker_description "Atre açioin">
 
 <!ENTITY masterpassword_create_title "Crea unna paròlla segreta prinçipâ">
 <!ENTITY masterpassword_remove_title "Leva da mezo a paròlla segreta prinçipâ">
@@ -490,17 +550,36 @@
 
 <!ENTITY button_ok "Va ben">
 <!ENTITY button_cancel "Anulla">
+<!ENTITY button_yes "Sci">
+<!ENTITY button_no "No">
 <!ENTITY button_clear_data "Scancella dæti">
+<!ENTITY button_set "Inpòsta">
+<!ENTITY button_clear "Scancella">
+<!ENTITY button_copy "Còpia">
 
+<!ENTITY home_top_sites_title "I megio sciti">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "Azonzi scito">
 
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
+<!ENTITY home_title "Pagina prinçipâ de &brandShortName;">
+<!ENTITY home_history_title "Stöia">
+<!ENTITY home_synced_devices_smartfolder "Dispoxitivi scincronizæ">
 <!ENTITY home_synced_devices_number "&formatD; dispoxitivi">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
+<!ENTITY home_synced_devices_one "1 dispoxitivo">
+<!ENTITY home_history_back_to2 "Torna a-a stöia conpleta">
+<!ENTITY home_clear_history_button "Scancella stöia da navegaçion">
+<!ENTITY home_clear_history_confirm "T\&apos;ê seguo de scancelâ a stöia da navegaçion?">
+<!ENTITY home_bookmarks_empty "I segnalibbri sarvæ saian mostræ chie.">
+<!ENTITY home_closed_tabs_title2 "Seræ de fresco">
+<!ENTITY home_last_tabs_empty "I teu feuggi reçenti en mostræ chie.">
+<!ENTITY home_restore_all "Repiggia tutto">
 <!ENTITY home_closed_tabs_number "&formatD; feuggi">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
+<!ENTITY home_closed_tabs_one "1 feuggio">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 
@@ -509,6 +588,7 @@
 
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
+<!ENTITY home_move_back_to_filter "Torna a &formatS;">
 
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
@@ -517,12 +597,17 @@
 <!ENTITY home_remote_tabs_many_hidden_devices "&formatD; dispoxitivi ascoxi">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "Dispoxitivi ascoxi">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "Rendi vixibili i dispoxitivi seleçionæ">
 
 <!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
     a site is pinned or unpinned. -->
+<!ENTITY home_pinned_site "Sciti fisæ">
+<!ENTITY home_unpinned_site "Sciti levæ">
 
+<!ENTITY remote_tabs_panel_moved_title "Dond\&apos;en finii i mæ feuggi?">
 
 
 <!ENTITY filepicker_title "Çerni o File">
@@ -587,12 +672,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
+<!ENTITY ellipsis "…">
 
+<!ENTITY colon ":">
 
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
+<!ENTITY actionbar_menu "Menû">
+<!ENTITY actionbar_done "Fæto">
 
 <!-- Voice search in the awesome bar -->
+<!ENTITY voicesearch_prompt "Parla oua">
 
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
@@ -600,7 +690,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
+<!ENTITY remote_tabs_last_synced "Urtima scincronizaçion: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "Urtima scincronizaçion: mai">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
@@ -624,6 +716,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
+<!ENTITY restrictable_feature_addons_installation "Conponenti azonti">
+<!ENTITY restrictable_feature_private_browsing "Navegaçion Privâ">
+<!ENTITY restrictable_feature_clear_history "Scancella Stöia">
+<!ENTITY restrictable_feature_advanced_settings "Inpostaçioin avansæ">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
@@ -648,18 +744,29 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 
 <!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
+<!ENTITY activity_stream_link_more1 "CIÙ">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
+<!ENTITY activity_stream_highlight_label_bookmarked "Azonto a-i segnalibbri">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
+<!ENTITY activity_stream_highlight_label_visited "Vixitou">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
+<!ENTITY activity_stream_highlight_label_trending "De tentensa">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "Iniçia a navegâ e, in sta seçion, saian mostræ articoli, video e atre pagine vixitæ de fresco ò azonti a-i segnalibbri.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
+<!ENTITY activity_stream_remove "Scancella">
+<!ENTITY activity_stream_delete_history "Scancella da-a stöia">
 
+<!ENTITY private_tab_panel_title "Navegaçion Privâ con Anti-traciamento">
+<!ENTITY private_tab_panel_description "&brandShortName; o blòcca elementi de pagine che peuan traciâ a navegaçion.">
+<!ENTITY private_tab_panel_description2 "Niatri no s\&apos;aregordiemo da stöia da navegaçion, ma i file descaregæ e neuvi segnalibbri saian a ògni mòddo sarvæ into dispoxitivo.">
+<!ENTITY private_tab_learn_more "Ti veu atre informaçioin?">
 
 
 <!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
