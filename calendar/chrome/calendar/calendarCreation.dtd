@@ -20,3 +20,16 @@
 
 <!ENTITY finishpage.shortdescription  "日历已创建" >
 <!ENTITY finishpage.longdescription   "您的日历已成功创建。" >
+
+<!-- Below are new strings for the revised new calendar dialog. The above strings should be
+    removed/renamed later on -->
+
+<!ENTITY sourcetabs.other.label  "其他">
+
+<!ENTITY buttons.create.label "新建日历">
+
+
+
+
+
+
