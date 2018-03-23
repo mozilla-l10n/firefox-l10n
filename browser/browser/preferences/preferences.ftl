@@ -14,12 +14,8 @@ pref-page =
             [windows] Možnosti
            *[other] Předvolby
         }
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
+# This string is currently used only in Firefox 60 and will be removed when not
+# needed for x-channel. See bug 1445686 for details.
 search-input =
     .style = width: 15.4em
 # This is used to determine the width of the search field in about:preferences,
@@ -45,6 +41,9 @@ policies-notice =
 pane-general-title = Obecné
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = Domovská stránka
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = Vyhledávání
 category-search =
     .tooltiptext = { pane-search-title }
@@ -288,9 +287,26 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = Nová okna a panely
+home-new-windows-tabs-description = Vyberte si domovskou stránku a stránku zobrazovanou při otevření nového okna nebo panelu
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Na domovské stránce a v novém okně
+home-newtabs-mode-label = V novém panelu
+home-restore-defaults =
+    .label = Obnovit výchozí
+    .accesskey = O
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Výchozí domovskou stránku Firefoxu
+home-mode-choice-custom =
+    .label = Vlastní adresy…
+home-mode-choice-blank =
+    .label = Prázdnou stránku
+home-homepage-custom-url =
+    .placeholder = Vložit URL adresu…
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
