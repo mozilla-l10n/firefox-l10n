@@ -240,7 +240,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Você bloqueou as notificações para este site.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Você bloqueou o armazenamento persistente para este site.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Você bloqueou pop-ups para esse site.">
-
 <!ENTITY urlbar.canvasBlocked.tooltip            "Você bloqueou a extração de dados da tela para este site.">
 
 <!ENTITY urlbar.midiBlocked.tooltip              "Você bloqueou o acesso MIDI para este site.">
@@ -388,7 +387,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "Nenhuma aba sincronizada... ainda!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Quer ver suas abas de outros dispositivos aqui?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferências do Sync">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Abrir preferências do Sync">
@@ -397,7 +395,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Entrar no Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Gerenciar dispositivos…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Ver abas sincronizadas na barra lateral">
-
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Conectar outro dispositivo">
 
 <!ENTITY appMenuRecentHighlights.label "Destaques recentes">
@@ -806,7 +803,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Abas sincronizadas">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Entrar no Firefox em outros dispositivos para ver suas abas aqui.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "Nenhuma aba sincronizada... ainda!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Quer ver suas abas de outros dispositivos aqui?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Entrar para ver uma lista de abas de outros dispositivos.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "Sua conta precisa ser verificada.">
@@ -816,7 +812,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Ative a sincronização de abas para ver uma lista de abas de seus outros dispositivos.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Pesquisar em abas sincronizadas">
-
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Conectar outro dispositivo">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
@@ -986,11 +981,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Reiniciar para atualizar o &brandShorterName;">
 
 <!ENTITY newTabControlled.message "Uma extensão alterou a página que você vê ao abrir uma nova aba. Você pode restaurar as suas configurações se não quiser esta alteração.">
+
 <!ENTITY newTabControlled.header.message "Sua nova aba foi alterada.">
 <!ENTITY newTabControlled.keepButton.label "Manter alterações">
 <!ENTITY newTabControlled.keepButton.accesskey "M">
 <!ENTITY newTabControlled.restoreButton.label "Restaurar configurações">
 <!ENTITY newTabControlled.restoreButton.accesskey "R">
+
+<!ENTITY newTabControlled.disableButton.label "Desabilitar extensão">
+<!ENTITY newTabControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "Ações da página">
 <!ENTITY pageAction.addToUrlbar.label "Adicionar na barra de endereço">
