@@ -278,24 +278,43 @@
 <!ENTITY pref_tracking_protection_enabled_pb "Abilitou inta Navegaçion Privâ">
 <!ENTITY pref_tracking_protection_disabled "Dizativou">
 
+<!ENTITY pref_whats_new_notification "Cöse gh\&apos;é de neuvo in &brandShortName;">
+<!ENTITY pref_whats_new_notification_summary "Descòvri e neuve carateristiche dòppo l\&apos;agiornamento">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
+<!ENTITY pref_category_experimental "Fonçioin sperimentali">
 
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!ENTITY pref_custom_tabs2 "Feuggi personalizæ">
+<!ENTITY pref_custom_tabs_summary4 "Permette a-e app de arvî contegnui web inte \&apos;n feuggio personalizou che se carega a-a spedia">
 
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
+<!ENTITY custom_tabs_menu_item_open_in "Arvi in &formatS;">
+<!ENTITY custom_tabs_menu_footer "Fornio da &brandShortName;">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "URL copiâ">
 
 
+<!ENTITY tracking_protection_prompt_action_button "Capio!">
 
+<!ENTITY tab_queue_toast_message3 "Feuggio sarvou in &brandShortName;">
+<!ENTITY tab_queue_toast_action "Arvi oua">
+<!ENTITY tab_queue_prompt_title "Arvî ciù colegamenti?">
+<!ENTITY tab_queue_prompt_text4 "Sarvili scinn-a a-a proscima vòtta che arvo &brandShortName;.">
+<!ENTITY tab_queue_prompt_tip_text2 "Ti peu cangiâ questo dòppo inte Inpostaçioin">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Acende questo o permette de anâ sorvia e atre app">
+<!ENTITY tab_queue_prompt_positive_action_button "Abilita">
+<!ENTITY tab_queue_prompt_negative_action_button "Oua no">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "Vanni a-a Inpostaçioin">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
@@ -303,33 +322,84 @@
 <!ENTITY tab_queue_notification_text_plural2 "&formatD; feuggi in ateiza">
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular2 "1 feuggio o l\&apos;aspeta">
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
+<!ENTITY tab_queue_notification_settings "Pe \&quot;Arvî ciù colegamenti\&quot;, ti devi abilitâ o permisso \&apos;Vanni sorvia e atre app\&apos; pe &brandShortName;">
 
 <!ENTITY pref_char_encoding "Show character encoding">
 <!ENTITY pref_char_encoding_on "Fanni vedde o menû">
 <!ENTITY pref_char_encoding_off "No fanni vedde o menû">
+<!ENTITY pref_clear_private_data2 "Scancella dati privæ">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
+<!ENTITY pref_clear_private_data_now_tablet "Scancella oua">
+<!ENTITY pref_clear_on_exit_title3 "Scancella dati privæ quande sciòrto">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; o scanceliâ in aotomatico i dati quande ti seleçionn-i \&quot;Sciòrti\&quot; da-o menû prinçipâ">
+<!ENTITY pref_clear_on_exit_dialog_title "Seleçionn-a dati da scancelâ">
+<!ENTITY pref_restore_tabs "Repiggia feuggi">
+<!ENTITY pref_restore_always "Repiggia de longo">
+<!ENTITY pref_restore_quit "No repigiâ dòppo che sciòrto da &brandShortName;">
 
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
+<!ENTITY pref_use_system_font_size "Adeuvia dimenscion testo de scistema">
+<!ENTITY pref_use_system_font_size_summary "Adatta o contegnuo web a segonda da dimenscion do testo de scistema">
 
+<!ENTITY pref_media_autoplay_enabled "Permetti aoto-riproduçion">
+<!ENTITY pref_media_autoplay_enabled_summary "Contròlla se i sciti peuan aoto-riprodue video e atri media">
+<!ENTITY pref_zoom_force_enabled "Abilita de longo o zoom">
+<!ENTITY pref_zoom_force_enabled_summary "Fòrsa l\&apos;anâ oltre de pagine coscì ti peu fâ o zoom">
+<!ENTITY pref_voice_input "Comandi vocali">
+<!ENTITY pref_voice_input_summary2 "Permetti o detou inta bara de URL">
+<!ENTITY pref_qrcode_enabled "Letô di Còdici QR">
+<!ENTITY pref_qrcode_enabled_summary2 "Permetti o scan QR inta bara de URL">
 
 <!ENTITY pref_use_master_password "Adevia paròlla segreta prinçipâ">
+<!ENTITY pref_sync_default_title "Account Firefox">
+<!ENTITY pref_sync2 "Intra">
+<!ENTITY pref_sync_summary2 "Scincronizza feuggi, segnalibbri, acessi e stöia">
 <!ENTITY pref_search_suggestions "Veddi i sugerimenti de riçerca">
+<!ENTITY pref_history_search_suggestions "Fanni vedde stöia de riçerche">
+<!ENTITY pref_import_options "Inpòrta inpostaçioin">
+<!ENTITY pref_import_android_summary "Inpòrta segnalibbrie stöia da-o navegatô nativo">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
+<!ENTITY pref_private_data_openTabs "Feuggi averti">
+<!ENTITY pref_private_data_history2 "Stöia da navegaçion">
+<!ENTITY pref_private_data_searchHistory "Stöia de riçerche">
+<!ENTITY pref_private_data_formdata2 "Stöia di mòdoli">
 <!ENTITY pref_private_data_cookies2 "Cookie e acessi ativi">
+<!ENTITY pref_private_data_passwords2 "Acessi sarvæ">
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Dæti feua linia di sciti web">
+<!ENTITY pref_private_data_siteSettings2 "Inpostaçioin di sciti">
+<!ENTITY pref_private_data_downloadFiles2 "Descaregamenti">
+<!ENTITY pref_private_data_syncedTabs "Feuggi scincronizæ">
 
+<!ENTITY pref_default_browser "Rendi navegatô predefinio">
+<!ENTITY pref_default_browser_mozilla_support_tablet "Vixita o Sopòrto de Mozilla">
 <!ENTITY pref_about_firefox "Informaçioin rigoardo &brandShortName;">
+<!ENTITY pref_vendor_faqs "Domande e risposte">
+<!ENTITY pref_vendor_feedback "Comenta">
 
+<!ENTITY pref_dialog_set_default "Inpòsta comme predefinio">
+<!ENTITY pref_dialog_default "Predefinio">
+<!ENTITY pref_dialog_remove "Scancella">
+<!ENTITY pref_dialog_activitystream_header_content "Contegnuo azonto">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "Segnalibbri reçenti">
+<!ENTITY pref_dialog_activitystream_visited "Vixitou">
 
+<!ENTITY pref_search_last_toast "No ti peu scancelâ ò dizabilitâ o teu urtimo motô de riçerca.">
 
+<!ENTITY pref_panels_show "Fanni vedde">
+<!ENTITY pref_panels_hide "Ascondi">
+<!ENTITY pref_panels_reorder "Cangia ordine">
+<!ENTITY pref_panels_move_up "Mescia in sciù">
+<!ENTITY pref_panels_move_down "Mescia in zu">
 
+<!ENTITY datareporting_notification_title "Statistiche e dati de &brandShortName;">
 <!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
 <!-- When this item is removed, also remove datareporting_notification_action_long:
      it is unused in strings.xml. -->
