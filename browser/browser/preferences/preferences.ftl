@@ -45,6 +45,9 @@ policies-notice =
 pane-general-title = მთავარი 
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = მთავარი
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = ძიება
 category-search =
     .tooltiptext = { pane-search-title }
@@ -286,9 +289,26 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = ახალი ფანჯრები და ჩანართები
+home-new-windows-tabs-description = შეარჩიეთ რისი ხილვა გსურთ მთავარი გვერდის, ახალი ფანჯრებისა და ახალი ჩანართების გახსნისას
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = მთავარი გვერდი და ახალი ფანჯრები
+home-newtabs-mode-label = ახალი ჩანართები
+home-restore-defaults =
+    .label = ნაგულისხმევის აღდგენა
+    .accesskey = ნ
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Firefox მთავარი (ნაგულისხმევი)
+home-mode-choice-custom =
+    .label = მითითებული URL-მისამართები...
+home-mode-choice-blank =
+    .label = ცარიელი გვერდი
+home-homepage-custom-url =
+    .placeholder = URL-მისამართის ჩასმა...
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
