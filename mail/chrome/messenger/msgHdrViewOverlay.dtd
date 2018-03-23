@@ -70,12 +70,12 @@
 <!ENTITY viewSourceMenuItem1.accesskey "F">
 <!ENTITY otherActionsPrint1.label "Argraffu…">
 <!ENTITY otherActionsPrint1.accesskey "A">
+
 <!-- Attachment bar context menu items -->
-
-<!ENTITY startExpandedCmd.label    "Dangos y Paen Atodi yn Gyntaf">
+<!ENTITY startExpandedCmd.label    "Dangos y Paen Atodiad yn Gyntaf">
 <!ENTITY startExpandedCmd.accesskey    "D">
-<!-- Attachment context menu items -->
 
+<!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Agor">
 <!ENTITY openAttachmentCmd.accesskey    "o">
 <!ENTITY saveAsAttachmentCmd.label    "Cadw Fel…">
@@ -94,8 +94,8 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "i">
 
 <!ENTITY openAttachment.tooltip "Agor y ffeil atodol">
-<!-- Attachment toolbar items -->
 
+<!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Cadw">
 <!ENTITY saveAttachmentButton1.tooltip     "Cadw'r ffeil atodol">
 <!ENTITY saveAllAttachmentsButton1.label   "Cadw Pob Un">

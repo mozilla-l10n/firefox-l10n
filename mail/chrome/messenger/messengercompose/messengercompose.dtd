@@ -88,6 +88,17 @@
 <!ENTITY reorderAttachmentsCmd.label "Aildrefnu Atodiadau…">
 <!ENTITY reorderAttachmentsCmd.accesskey "A">
 <!ENTITY reorderAttachmentsCmd.key "x">
+<!ENTITY toggleAttachmentPaneCmd.label "Paen Atodiad">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
+     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
+     as attachments.accesskey. -->
+<!ENTITY toggleAttachmentPaneCmd.accesskey "P">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
+     With OS-specific access modifier, this defines the shortcut key for showing/
+     hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
+     toggleAttachmentPaneCmd.key and attachments.accesskey must be the same
+     for the bucket view state machinery to work. -->
+<!ENTITY toggleAttachmentPaneCmd.key "P">
 <!ENTITY selectAllCmd.label "Dewis Popeth">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "D">
@@ -109,26 +120,10 @@
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Aildrefnu Atodiadau">
 <!ENTITY moveAttachmentTopPanelBtn.label "Symud i'r Brig">
-<!ENTITY moveAttachmentTopPanelBtn.accesskey "B">
 <!ENTITY moveAttachmentUpPanelBtn.label "Symud i Fyny">
-<!ENTITY moveAttachmentUpPanelBtn.accesskey "F">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Symud gyda'i gilydd">
-<!ENTITY moveAttachmentBundleUpPanelBtn.accesskey "g">
 <!ENTITY moveAttachmentDownPanelBtn.label "Symud i Lawr">
-<!ENTITY moveAttachmentDownPanelBtn.accesskey "L">
 <!ENTITY moveAttachmentBottomPanelBtn.label "Symud i'r Gwaelod">
-<!ENTITY moveAttachmentBottomPanelBtn.accesskey "G">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.label):
-     Please ensure that this translation matches
-     sortAttachmentsTogglePanelBtn.ZA.label, except for the sort direction. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.label "Trefnu'r Dewis: A - Z">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.accesskey):
-     This accesskey should be the same like
-     sortAttachmentsTogglePanelBtn.ZA.accesskey, and it should be taken from
-     the "Sort Selection:" part of the label, not from the sort direction part. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.accesskey "D">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.label "Trefnu'r Dewis: Z - A">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.accesskey "e">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -253,6 +248,7 @@
 <!ENTITY quoteButton.tooltip "Dyfynnu'r neges flaenorol">
 <!ENTITY addressButton.tooltip "Dewis derbynnydd o'r Llyfr Cyfeiriadau">
 <!ENTITY attachButton.tooltip "Cynnwys atodiad">
+<!ENTITY attachButton.tooltip2 "Ychwanegu atodiad">
 <!ENTITY spellingButton.tooltip "Gwirio sillafu adran neu neges gyfan">
 <!ENTITY saveButton.tooltip "Cadw'r neges">
 <!ENTITY cutButton.tooltip              "Torri">
@@ -274,9 +270,14 @@
 <!ENTITY followupAddr.label "Dilyn i:">
 <!ENTITY subject.label "Pwnc:">
 <!ENTITY subject.accesskey "P">
-<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
-     to the strings in attachmentCount in composeMsgs.properties -->
+<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
+     be taken from the strings in attachmentCount in composeMsgs.properties,
+     and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
+     work, as the shortcut key functionality supersedes the access key. -->
 <!ENTITY attachments.accesskey "m">
+
+<!ENTITY attachmentBucketHeader.tooltip "Paen Atodiad">
+<!ENTITY attachmentBucketCloseButton.tooltip "Cuddio'r paen atodiad">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Mewnosod wyneb gwenog">
@@ -314,6 +315,7 @@
 <!ENTITY pasteQuote.label "Gludo fel Dyfyniad">
 <!ENTITY pasteQuote.accesskey "D">
 
+<!-- Attachment Item and List Context Menus -->
 <!ENTITY openAttachment.label "Agor">
 <!ENTITY openAttachment.accesskey "o">
 <!ENTITY delete.label "Dileu">
@@ -324,6 +326,8 @@
 <!ENTITY renameAttachment.accesskey "A">
 <!ENTITY reorderAttachments.label "Aildrefnu Atodiadau…">
 <!ENTITY reorderAttachments.accesskey "a">
+<!ENTITY removeAllAttachments.label "Tynnu Pob Atodiad">
+<!ENTITY removeAllAttachments.accesskey "T">
 <!ENTITY selectAll.label "Dewis Popeth">
 <!ENTITY selectAll.accesskey "D">
 <!ENTITY attachFile.label "Atodi Ffeil(iau)…">
@@ -338,6 +342,13 @@
 <!ENTITY convertRegularAttachment.accesskey "A">
 <!ENTITY attachPage.label "Atodi Tudalen Gwe…">
 <!ENTITY attachPage.accesskey "T">
+
+<!-- Attachment Pane Header Bar Context Menu -->
+<!-- LOCALIZATION NOTE (initiallyShowAttachmentPane.label):
+     Should use the same wording as startExpandedCmd.label
+     in msgHdrViewOverlay.dtd. -->
+<!ENTITY initiallyShowAttachmentPane.label "Dangos y Paen Atodi yn Gyntaf">
+<!ENTITY initiallyShowAttachmentPane.accesskey "D">
 
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Ychwanegu Geiriaduron…">
