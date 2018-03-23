@@ -68,6 +68,7 @@
 <!ENTITY  crash_close_label "Særa">
 <!ENTITY  crash_restart_label "Arvi torna &brandShortName;">
 
+<!ENTITY url_bar_default_text2 "Çerca ò scrivi indirisso">
 
 <!ENTITY bookmark "Segnalibbro">
 <!ENTITY bookmark_remove "Scancella segnalibbro">
@@ -113,6 +114,7 @@
 <!ENTITY back "Inderê">
 <!ENTITY stop "Ferma">
 <!ENTITY site_security "Seguessa do scito">
+<!ENTITY edit_mode_cancel "Anulla">
 
 <!ENTITY close_tab "Særa feuggio">
 <!ENTITY one_tab "1 feuggio">
@@ -137,39 +139,76 @@
 <!ENTITY settings "Inpostaçioin">
 <!ENTITY settings_title "Inpostaçioin">
 <!ENTITY pref_category_general "Generale">
+<!ENTITY pref_category_general_summary3 "Câza, lengoa e coa di feuggi">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
+<!ENTITY pref_category_language "Lengoa">
+<!ENTITY pref_category_language_summary "Cangia a lengoa do navegatô">
+<!ENTITY pref_browser_locale "Lengoa do navegatô">
 
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
+<!ENTITY locale_system_default "Predefinio do scistema">
 
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
+<!ENTITY overlay_share_label "Azonzi a &brandShortName;">
 
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
+<!ENTITY overlay_share_bookmark_btn_label "Segnalibbro">
+<!ENTITY overlay_share_bookmark_btn_label_already "Za azonto a-i segnalibbri">
+<!ENTITY overlay_share_send_other "Manda a atri dispoxitivi">
 
+<!ENTITY overlay_share_open_browser_btn_label "Arvi in &brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
+<!ENTITY overlay_share_send_tab_btn_label "Manda a \&apos;n atro dispoxitivo">
+<!ENTITY overlay_share_no_url "Nisciun colegamento atrovou in sta condivixon">
+<!ENTITY overlay_share_select_device "Seleçionn-a dispoxitivo">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
+<!ENTITY overlay_no_synced_devices "Nisciun dispoxitivo con Account Firefox conesso atrovou">
 
+<!ENTITY pref_category_search3 "Çerca">
+<!ENTITY pref_category_search_summary2 "Azonzi motô de riçerca, inpòsta predefinio, mostra conseggi">
+<!ENTITY pref_category_accessibility "Acesibilitæ">
+<!ENTITY pref_category_accessibility_summary2 "Dimenscion do testo, zoom, comandi vocali">
+<!ENTITY pref_category_privacy_short "Privacy">
+<!ENTITY pref_category_privacy_summary4 "Traciamento, acessi, condivixon dati">
+<!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
+<!ENTITY pref_category_vendor_summary2 "In sce &brandShortName;, domande che ne fan spesso, comenti">
+<!ENTITY pref_category_datareporting "Condivixon dati">
+<!ENTITY pref_category_logins "Acessi">
+<!ENTITY pref_learn_more "Atre informaçioin">
+<!ENTITY pref_category_installed_search_engines "Motoî de riçerca instalæ">
+<!ENTITY pref_category_add_search_providers "Azonzi ciù motoî de riçerca">
+<!ENTITY pref_category_search_restore_defaults "Repiggia motoî de riçerca">
+<!ENTITY pref_search_restore_defaults "Repiggia predefinii">
+<!ENTITY pref_search_restore_defaults_summary "Repiggia predefinii">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY pref_search_hint2 "CONSEGGIO: Azonzi un scito inta teu lista de motoî de riçerca sciacandoghe srovia a longo into canpo de riçerca e sciacando pöi l\&apos;icöna &formatI;.">
+<!ENTITY pref_category_advanced "Avansæ">
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
+<!ENTITY pref_category_advanced_summary3 "Repiggi feuggi, sarvataggio dati, strumenti svilopatoî">
+<!ENTITY pref_category_notifications "Notifiche">
+<!ENTITY pref_category_notifications_summary "Neuve fonçioin, agiornamenti di sciti">
+<!ENTITY pref_developer_remotedebugging_usb "Debug remòtto via USB">
+<!ENTITY pref_developer_remotedebugging_wifi "Debug remòtto via Wi-Fi">
 
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
