@@ -14,39 +14,38 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Agiutto"> 
 <!ENTITY helpMenuWin.accesskey    "A">
-<!ENTITY aboutProduct2.label "Informaçioin in sce &brandShorterName;">
-<!ENTITY aboutProduct2.accesskey "I">
-<!ENTITY productHelp2.label "Guidda de &brandShorterName;">
-<!ENTITY productHelp2.accesskey "G">
+<!ENTITY aboutProduct2.label      "Informaçioin in sce &brandShorterName;">
+<!ENTITY aboutProduct2.accesskey  "I">
+<!ENTITY productHelp2.label       "Guidda de &brandShorterName;">
+<!ENTITY productHelp2.accesskey   "G">
 <!ENTITY helpMac.commandkey       "?">
+
+<!ENTITY helpKeyboardShortcuts.label     "Scorsaieu da tastea">
+<!ENTITY helpKeyboardShortcuts.accesskey "S">
+
 <!ENTITY helpSafeMode.label       "Arvi torna co-i conponenti azonti dizabilitæ">
 <!ENTITY helpSafeMode.accesskey   "R">
-<!ENTITY helpShowTour2.label "Tour de &brandShorterName;">
-<!ENTITY helpShowTour2.accesskey "o">
+<!ENTITY helpSafeMode.stop.label       "Arvi torna co-i conponente azonti ativæ">
+<!ENTITY helpSafeMode.stop.accesskey   "R">
+
 <!ENTITY helpTroubleshootingInfo.label      "Informaçioin in sciâ soluçion di problemi">
 <!ENTITY helpTroubleshootingInfo.accesskey  "I">
-<!ENTITY preferencesCmdMac.label "Preferense…">
-<!ENTITY preferencesCmdMac.commandkey ",">
-<!ENTITY helpFeedbackPage.label      "Manda 'n Comento…">
+
+<!ENTITY helpFeedbackPage.label      "Manda comento…">
 <!ENTITY helpFeedbackPage.accesskey  "M">
 
-<!ENTITY hideThisAppCmdMac2.label "Ascondi &brandShorterName;">
-<!ENTITY hideThisAppCmdMac2.commandkey "H">
+<!ENTITY helpShowTour2.label            "Tour de &brandShorterName;">
+<!ENTITY helpShowTour2.accesskey        "o">
+
+<!ENTITY preferencesCmdMac.label        "Preferense…">
+<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Serviççi">
+
+<!ENTITY hideThisAppCmdMac2.label       "Ascondi &brandShorterName;">
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Ascondi i atri">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Fanni vedde tutto">
-
-<!ENTITY healthReport2.label "Analixi integritæ de &brandShorterName;">
-<!ENTITY healthReport2.accesskey "n">
-
-<!ENTITY helpKeyboardShortcuts.label "Scorsaieu da tastea">
-<!ENTITY helpKeyboardShortcuts.accesskey "S">
-
-<!ENTITY helpSafeMode.stop.label "Arvi torna co-i conponente azonti ativæ">
-<!ENTITY helpSafeMode.stop.accesskey "R">
-
-
