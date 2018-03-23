@@ -110,31 +110,31 @@
   -  in the source editor's context menu for the global search operation. -->
 <!ENTITY debuggerUI.searchGlobal           "ค้นหาในไฟล์ทั้งหมด">
 <!ENTITY debuggerUI.searchGlobal.key       "F">
-<!ENTITY debuggerUI.searchGlobal.accesskey "F">
+<!ENTITY debuggerUI.searchGlobal.accesskey "น">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchFunction): This is the text that appears
   -  in the source editor's context menu for the function search operation. -->
 <!ENTITY debuggerUI.searchFunction           "ค้นหาคำนิยามของฟังก์ชัน">
 <!ENTITY debuggerUI.searchFunction.key       "D">
-<!ENTITY debuggerUI.searchFunction.accesskey "D">
+<!ENTITY debuggerUI.searchFunction.accesskey "ห">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
   -  in the source editor's context menu for the token search operation. -->
 <!ENTITY debuggerUI.searchToken           "ค้นหา">
 <!ENTITY debuggerUI.searchToken.key       "F">
-<!ENTITY debuggerUI.searchToken.accesskey "F">
+<!ENTITY debuggerUI.searchToken.accesskey "ค">
 
-<!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
+<!-- LOCALIZATION NOTE (debuggerUI.searchGoToLine): This is the text that appears
   -  in the source editor's context menu for the line search operation. -->
 <!ENTITY debuggerUI.searchGoToLine           "ไปยังบรรทัดที่…">
 <!ENTITY debuggerUI.searchGoToLine.key       "L">
-<!ENTITY debuggerUI.searchGoToLine.accesskey "L">
+<!ENTITY debuggerUI.searchGoToLine.accesskey "ป">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchVariable): This is the text that appears
   -  in the source editor's context menu for the variables search operation. -->
 <!ENTITY debuggerUI.searchVariable           "กรองตัวแปร">
 <!ENTITY debuggerUI.searchVariable.key       "V">
-<!ENTITY debuggerUI.searchVariable.accesskey "V">
+<!ENTITY debuggerUI.searchVariable.accesskey "ก">
 
 <!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
   -  in the source editor's context menu for the variables focus operation. -->
@@ -156,14 +156,14 @@
 <!ENTITY debuggerUI.seMenuCondBreak     "เพิ่มจุดพักแบบมีเงื่อนไข">
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
 
-<!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
+<!-- LOCALIZATION NOTE (debuggerUI.seEditMenuCondBreak): This is the text that
   -  appears in the source editor context menu for editing a breakpoint. -->
 <!ENTITY debuggerUI.seEditMenuCondBreak.key "B">
 
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
 <!ENTITY debuggerUI.tabs.workers        "ตัวทำงาน">
-<!ENTITY debuggerUI.tabs.sources        "แหล่ง">
+<!ENTITY debuggerUI.tabs.sources        "แหล่งที่มา">
 <!ENTITY debuggerUI.tabs.callstack      "สแต็คการเรียก:">
 <!ENTITY debuggerUI.tabs.variables      "ตัวแปร">
 <!ENTITY debuggerUI.tabs.events         "เหตุการณ์">
@@ -178,7 +178,7 @@
 <!ENTITY debuggerUI.addWatch            "เพิ่มการติดตาม Expression">
 <!ENTITY debuggerUI.addWatch.accesskey  "E">
 
-<!-- LOCALIZATION NOTE (debuggerUI.removeWatch): This is the text that
+<!-- LOCALIZATION NOTE (debuggerUI.removeAllWatch): This is the text that
   -  appears in the watch expressions context menu for removing all expressions. -->
 <!ENTITY debuggerUI.removeAllWatch           "ลบทุกการติดตาม Expressions">
 <!ENTITY debuggerUI.removeAllWatch.key       "E">
@@ -197,11 +197,11 @@
   -  debugger sources side menu. This should be the same as
   -  netmonitorUI.context.newTab  -->
 <!ENTITY debuggerUI.context.newTab           "เปิดในแท็บใหม่">
-<!ENTITY debuggerUI.context.newTab.accesskey "O">
+<!ENTITY debuggerUI.context.newTab.accesskey "ป">
 
 <!-- LOCALIZATION NOTE (debuggerUI.context.copyUrl): This is the label displayed
   -  on the context menu that copies the selected request's url. This should be
   -  the same as netmonitorUI.context.copyUrl -->
 <!ENTITY debuggerUI.context.copyUrl           "คัดลอก URL">
-<!ENTITY debuggerUI.context.copyUrl.accesskey "C">
+<!ENTITY debuggerUI.context.copyUrl.accesskey "ค">
 <!ENTITY debuggerUI.context.copyUrl.key "C">
