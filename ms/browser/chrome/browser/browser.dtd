@@ -250,7 +250,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchItem.title             "Cari">
 
 <!-- Toolbar items -->
-<!ENTITY homeButton.label             "Halaman utama">
+<!ENTITY homeButton.label             "Halaman Utama">
 
 <!ENTITY bookmarksButton.label          "Tandabuku">
 <!ENTITY bookmarksCmd.commandkey "b">
