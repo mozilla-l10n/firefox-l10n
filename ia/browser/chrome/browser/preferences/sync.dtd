@@ -70,15 +70,13 @@ both, to better adapt this sentence to their language.
 <!ENTITY verifiedManage.accesskey     "o">
 <!ENTITY disconnect3.label            "Disconnecter se…">
 <!ENTITY disconnect3.accesskey        "D">
-<!ENTITY verify.label                "Verificar le email">
-<!ENTITY verify.accesskey            "V">
-<!ENTITY forget.label                "Oblidar iste email">
-<!ENTITY forget.accesskey            "O">
-
 <!ENTITY resendVerification.label     "Reinviar le verification">
 <!ENTITY resendVerification.accesskey "d">
 <!ENTITY cancelSetup.label            "Cancellar le configuration">
 <!ENTITY cancelSetup.accesskey        "p">
+
+<!ENTITY removeAccount.label          "Remover le conto">
+<!ENTITY removeAccount.accesskey      "R">
 
 <!ENTITY signedOut.caption            "Porta le web con te">
 <!ENTITY signedOut.description        "Synchronisa tu marcapaginas, chronologia, contrasignos, additivos, e preferentias inter tote tu apparatos.">
