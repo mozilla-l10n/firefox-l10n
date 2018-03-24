@@ -93,6 +93,7 @@
 <!ENTITY size-extraLargeCmd.label "Moi grande">
 <!ENTITY size-extraLargeCmd.accesskey "g">
 <!ENTITY size-hugeCmd.label "Enorme">
+<!ENTITY size-hugeCmd.accesskey "m">
 
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Estilo de texto">
@@ -309,6 +310,7 @@
 <!ENTITY HighlightColorButton.tooltip "Escoller cor de realce do texto">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Estabelece o tamaño do tipo de letra">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Tamaño menor do tipo de letra">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Tamaño maior do tipo de letra">
 <!ENTITY boldToolbarCmd.tooltip "Negra">
