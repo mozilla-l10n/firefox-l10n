@@ -14,8 +14,12 @@ pref-page =
             [windows] Īstatiejumi
            *[other] Īstatiejumi
         }
-# This string is currently used only in Firefox 60 and will be removed when not
-# needed for x-channel. See bug 1445686 for details.
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
 search-input =
     .style = width: 15.4em
 # This is used to determine the width of the search field in about:preferences,
@@ -123,7 +127,7 @@ warn-on-open-many-tabs =
     .label = Breidynuot, kod vairuoku ciļņu attaiseišona varātu sabremzeit { -brand-short-name }
     .accesskey = d
 switch-links-to-new-tabs =
-    .label = Kod es attaisu saiti jaunuo cilnē, puorslēgtīs iz itū cilni
+    .label = Kod es attaisu saiti jaunā cilnē, pōrīt iz itū cilni
     .accesskey = c
 show-tabs-in-taskbar =
     .label = Ruodeit ciļņu bildeitis Windows palūdzī

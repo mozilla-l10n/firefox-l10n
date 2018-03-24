@@ -514,22 +514,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY changeSearchSettings.button  "Maineit mekliešonys īstatiejumus">
 <!ENTITY changeSearchSettings.tooltip "Maineit mekliešonys īstatiejumus">
 
-<!ENTITY searchInNewTab.label         "Mekleit jaunuo cilnē">
+<!ENTITY searchInNewTab.label         "Mekleit jaunā cilnē">
 <!ENTITY searchInNewTab.accesskey     "c">
 <!ENTITY searchSetAsDefault.label     "Īstateit par nūkluseitū mekleituoju">
 <!ENTITY searchSetAsDefault.accesskey "n">
 
-<!ENTITY openLinkCmdInTab.label       "Attaiseit saiti jaunuo cilnē">
+<!ENTITY openLinkCmdInTab.label       "Attaiseit saiti jaunā cilnē">
 <!ENTITY openLinkCmdInTab.accesskey   "c">
-<!ENTITY openLinkCmd.label            "Attaiseit saiti jaunuo lūgā">
+<!ENTITY openLinkCmd.label            "Attaiseit saiti jaunā lūgā">
 <!ENTITY openLinkCmd.accesskey        "l">
-<!ENTITY openLinkInPrivateWindowCmd.label "Attaiseit saiti jaunuo privatajā lūgā">
+<!ENTITY openLinkInPrivateWindowCmd.label "Attaiseit saiti jaunā privatajā lūgā">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "p">
 <!ENTITY openLinkCmdInCurrent.label     "Attaiseit saiti">
 <!ENTITY openLinkCmdInCurrent.accesskey "A">
-<!ENTITY openFrameCmdInTab.label      "Attaiseit ītvoru jaunuo cilnē">
+<!ENTITY openFrameCmdInTab.label      "Attaiseit ītvoru jaunā cilnē">
 <!ENTITY openFrameCmdInTab.accesskey  "c">
-<!ENTITY openFrameCmd.label           "Attaiseit ītvoru jaunuo lūgā">
+<!ENTITY openFrameCmd.label           "Attaiseit ītvoru jaunā lūgā">
 <!ENTITY openFrameCmd.accesskey       "l">
 <!ENTITY openLinkCmdInContainerTab.label "Attaiseit saiti jaunā cilņu skreinē">
 <!ENTITY openLinkCmdInContainerTab.accesskey "b">
@@ -725,8 +725,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Redigeit jaunuo lūgu blokeituoja īstatiejumus…">
-<!ENTITY editPopupSettings.label "Redigeit jaunuo lūgu blokeituoja īstatiejumus…">
+<!ENTITY editPopupSettingsUnix.label "Redigeit jaunō lūgu blokeituoja īstatiejumus…">
+<!ENTITY editPopupSettings.label "Redigeit jaunō lūgu blokeituoja īstatiejumus…">
 <!ENTITY editPopupSettings.accesskey "e">
 <!ENTITY dontShowMessage.accesskey "D">
 
@@ -822,11 +822,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      mutually exclusive -->
 <!ENTITY syncedTabs.context.open.label                       "Attaiseit">
 <!ENTITY syncedTabs.context.open.accesskey                   "A">
-<!ENTITY syncedTabs.context.openInNewTab.label               "Attaiseit jaunuo cilnē">
+<!ENTITY syncedTabs.context.openInNewTab.label               "Attaiseit jaunā cilnē">
 <!ENTITY syncedTabs.context.openInNewTab.accesskey           "u">
-<!ENTITY syncedTabs.context.openInNewWindow.label            "Attaiseit saiti jaunuo lūgā">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Attaiseit saiti jaunā lūgā">
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "l">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Attaiseit saiti jaunuo privatajā lūgā">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Attaiseit saiti jaunā privatajā lūgā">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "p">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Saglobuot itū lopu gruomotzeimēs…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "b">
