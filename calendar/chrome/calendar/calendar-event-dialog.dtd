@@ -398,6 +398,7 @@
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Üldine">
 <!ENTITY read.only.title.label           "Pealkiri:">
+<!ENTITY read.only.calendar.label        "Kalender:">
 <!ENTITY read.only.event.start.label     "Alguskuupäev">
 <!ENTITY read.only.task.start.label      "Alguskuupäev:">
 <!ENTITY read.only.event.end.label       "Lõppkuupäev:">
@@ -416,3 +417,17 @@
 <!ENTITY read.only.attendees.label       "Osalejad">
 <!ENTITY read.only.description.label     "Kirjeldus">
 <!ENTITY read.only.link.label            "Seotud viide">
+
+<!-- Summary dialog -->
+<!ENTITY summary.dialog.saveclose.label         "Salvesta ja sulge">
+<!ENTITY summary.dialog.saveclose.tooltiptext   "Salvesta muudatused ja sulge aken osalemise olekut muutmata ja vastust saatmata">
+<!ENTITY summary.dialog.accept.label            "Osalen">
+<!ENTITY summary.dialog.accept.tooltiptext      "Võta kutse vastu">
+<!ENTITY summary.dialog.tentative.label         "Kahtlev">
+<!ENTITY summary.dialog.tentative.tooltiptext   "Nõustu kutsega kahtlevalt">
+<!ENTITY summary.dialog.decline.label           "Keeldu">
+<!ENTITY summary.dialog.decline.tooltiptext     "Keeldu kutsest">
+<!ENTITY summary.dialog.dontsend.label          "Ära saada vastust">
+<!ENTITY summary.dialog.dontsend.tooltiptext    "Muuda osalemise olekut korraldajale vastust saatmata ja sulge aken">
+<!ENTITY summary.dialog.send.label              "Saada vastus kohe">
+<!ENTITY summary.dialog.send.tooltiptext        "Saada korraldajale vastus ja sulge aken">
