@@ -585,7 +585,7 @@
 <!ENTITY home_synced_devices_number "&formatD; อุปกรณ์">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_synced_devices_one "1 อุปกรณ์">
-<!ENTITY home_history_back_to2 "กลับสู่ประวัติแบบเต็ม">
+<!ENTITY home_history_back_to2 "กลับไปที่ประวัติแบบเต็ม">
 <!ENTITY home_clear_history_button "ล้างประวัติการท่องเว็บ">
 <!ENTITY home_clear_history_confirm "คุณแน่ใจหรือไม่ว่าต้องการล้างประวัติของคุณ?">
 <!ENTITY home_bookmarks_empty "ที่คั่นหน้าที่คุณบันทึกไว้จะแสดงที่นี่">
@@ -606,7 +606,7 @@
 
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-<!ENTITY home_move_back_to_filter "กลับสู่ &formatS;">
+<!ENTITY home_move_back_to_filter "กลับไปที่ &formatS;">
 
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
