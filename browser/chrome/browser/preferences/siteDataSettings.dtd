@@ -4,10 +4,12 @@
 
 <!ENTITY     window.title                  "सेटिंग - साइट आँकड़ा">
 
+<!ENTITY     window2.title                 "कुकीज़ और साइट डेटा प्रबंधित करें">
 <!ENTITY     hostCol.label                 "साइट">
 <!ENTITY     statusCol.label               "स्थिति">
 <!ENTITY     cookiesCol.label              "कुकीज़">
 <!ENTITY     usageCol.label                "भंडारण">
+<!ENTITY     lastAccessedCol.label                "अंतिम प्रयुक्त">
 <!ENTITY     searchTextboxPlaceHolder             "वेबसाइट खोजें">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
 <!ENTITY     removeSelected.label          "चयनित हटाएँ">
