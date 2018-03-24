@@ -42,6 +42,10 @@
 <!ENTITY location.label "Адрес:">
 <!ENTITY location.placeholder "URL или имя хоста сервера календаря">
 
+<!ENTITY network.nocredentials.label "Для этого адреса не требуются учётные данные">
 <!ENTITY network.loading.description "Пожалуйста, подождите, ваши календари обрабатываются.">
+<!ENTITY network.notfound.description "Не удалось найти календари по данному адресу. Пожалуйста, проверьте свои настройки.">
+<!ENTITY network.authfail.description "Введённые учётные данные не приняты. Пожалуйста, проверьте ваши настройки.">
 
 <!ENTITY network.subscribe.single.description "Пожалуйста, выберите календари, на которые вы хотели бы подписаться.">
+<!ENTITY network.subscribe.multiple.description "По данному адресу доступны несколько типов календарей. Пожалуйста, выберите тип календаря, а затем отметьте календари, на которые вы бы хотели подписаться.">
