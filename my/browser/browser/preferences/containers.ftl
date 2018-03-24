@@ -22,9 +22,6 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
-containers-name-label = အမည်
-    .accesskey = အ
-    .style = အပြင်အဆင်
 containers-name-text =
     .placeholder = ကွန်တိန်နာအမည်ရေးပါ
 containers-button-done =
