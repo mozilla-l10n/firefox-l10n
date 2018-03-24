@@ -180,7 +180,7 @@
 <!ENTITY calendar.context.attendance.occurrence.label           "Этот повтор">
 <!ENTITY calendar.context.attendance.all.label        "Все повторы" >
 
-<!ENTITY calendar.context.attendance.all2.label                 "Все серии">
+<!ENTITY calendar.context.attendance.all2.label                 "Все серии событий">
 <!ENTITY calendar.context.attendance.send.label                 "Отправить уведомление сейчас">
 <!ENTITY calendar.context.attendance.send.accesskey             "п">
 <!ENTITY calendar.context.attendance.dontsend.label             "Не отправлять уведомление">
