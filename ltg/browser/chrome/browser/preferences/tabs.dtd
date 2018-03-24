@@ -5,9 +5,6 @@
 <!ENTITY ctrlTabRecentlyUsedOrder.label       "Ctrl+Tab cycles through tabs in recently used order">
 <!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "T">
 
-<!ENTITY newWindowsAsTabs.label       "Vērt jaunus lūgus jaunuos cilnēs">
-<!ENTITY newWindowsAsTabs.accesskey   "t">
-
 <!ENTITY newWindowsAsTabs3.label       "Attaiseit saites clinēs navys jaunūs lūgūs">
 <!ENTITY newWindowsAsTabs3.accesskey   "l">
 
@@ -17,7 +14,7 @@
 <!ENTITY warnOnOpenManyTabs.label       "Breidynuot, kod vairuoku ciļņu attaiseišona varātu sabremzeit &brandShortName;">
 <!ENTITY warnOnOpenManyTabs.accesskey   "d">
 
-<!ENTITY switchLinksToNewTabs.label        "Kod es attaisu saiti jaunuo cilnē, puorslēgtīs iz itū cilni">
+<!ENTITY switchLinksToNewTabs.label        "Kod es attaisu saiti jaunā cilnē, pōrīt iz itū cilni">
 <!ENTITY switchLinksToNewTabs.accesskey    "c">
 
 <!ENTITY showTabsInTaskbar.label          "Ruodeit ciļņu bildeitis Windows palūdzī">

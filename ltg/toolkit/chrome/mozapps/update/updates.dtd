@@ -4,7 +4,7 @@
 <!ENTITY  updateWizard.title              "Programaturys atjaunynuošona">
 
 <!ENTITY  checking.title                  "Puorbauda atjaunynuojumus">
-<!ENTITY  updateCheck.label               "Meklej jaunuoku &brandShortName; verseju…">
+<!ENTITY  updateCheck.label               "Meklej jaunōku &brandShortName; verseju…">
 
 <!ENTITY  noupdatesfound.title            "Nav atrosti atjaunynuojumi">
 <!ENTITY  noupdatesautoenabled.intro      "Jaunu atjaunynuojumu nav. &brandShortName; ik pa breižam puorbaudeis atjaunynuojumus.">
@@ -13,10 +13,10 @@
 <!ENTITY  manualUpdate.title              "Nasanuok atjaunynuošona">
 <!ENTITY  manualUpdate.desc               "Ir pīejami drūseibys i stabilitātes atjaunynuojumi, taču jiusim nav napīcīšamū tīseibu instaleit tūs. Lyudzu informejit par itū sovu sistemys administratoru voi ari raugit vēļreiz nu cyta lītuotuoja konta, kam ir napīcīšamuos atļuovis instaleit programaturys atjaunynuojumus.">
 <!ENTITY  manualUpdate.space.desc         "Ir pīejams īteicams drūseibys i stabilitātes atjaunynuojums, taču jiusim nav pīteikami daudz breivuos vītys, kab to uzinstaleitu.">
-<!ENTITY  manualUpdateGetMsg.label        "Jaunuokū &brandShortName; verseju jius vīnmār varot īgiut ite:">
+<!ENTITY  manualUpdateGetMsg.label        "Jaunōkū &brandShortName; verseju vīnmār var īgiut ite:">
 
 <!ENTITY  unsupported.title               "Naatbaļsteita sistema">
-<!ENTITY  unsupported.label               "Jiusu &brandShortName; ir nūvacuojs, bet jaunuokuo verseja jiusu sistemā natīk pabaļsteita. Lyudzu atjaunynojit sovu sistemu i raugit vēļreiz. Itys paziņuojums natiks ruodeits atkuortuoti, bet jius varot ">
+<!ENTITY  unsupported.label               "Tovs &brandShortName; ir nūvacōjs, bet jaunōkō verseja tovā sistemā natīk pabaļsteita. Lyudzu atjaunynoj sovu sistemu i raugi vēļreiz. Itys paziņojums natiks rōdeits atkōrtōti, bet tu vari">
 <!ENTITY  unsupportedLink.label           "uzzynojit vairuok.">
 
 <!ENTITY  clickHere.label                 "Vairuok informacejis par itū atjaunynuojumu">

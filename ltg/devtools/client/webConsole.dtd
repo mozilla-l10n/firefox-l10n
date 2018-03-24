@@ -9,7 +9,7 @@
 <!ENTITY window.title "Šķārsteikla konsole">
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
-<!ENTITY openURL.label     "Attaiseit adresu jaunuo cilnē">
+<!ENTITY openURL.label     "Attaiseit adresi jaunā cilnē">
 <!ENTITY openURL.accesskey "t">
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
   -  button that allows users to toggle the network logging output.
@@ -33,11 +33,11 @@
 <!ENTITY btnPageSecurity.label "Drūseiba">
 <!ENTITY btnPageSecurity.tooltip "Registrej drūseibys paziņuojumus i klaidys">
 <!ENTITY btnPageSecurity.accesskey "D">
+
 <!-- LOCALIZATION NOTE (btnPageLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls such console.log() and
   -  console.error(). -->
-
 <!ENTITY btnPageLogging.label   "Ziņuojumi">
 <!ENTITY btnPageLogging.tooltip "Registreit zinuojumus, kas tīk syuteiti window.console objektam">
 <!ENTITY btnPageLogging.accesskey3 "Z">
@@ -47,10 +47,10 @@
 <!ENTITY btnConsoleLog          "Ziņuojumi">
 <!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "Reflows">
+
 <!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls on the HTTP server. -->
-
 <!ENTITY btnServerLogging.label       "Serveris">
 <!ENTITY btnServerLogging.tooltip     "Log messages received from a web server">
 <!ENTITY btnServerLogging.accesskey   "S">
@@ -58,9 +58,9 @@
 <!ENTITY btnServerInfo                "Informaceja">
 <!ENTITY btnServerWarnings            "Breidynuojumi">
 <!ENTITY btnServerLog                 "Ziņuojumi">
+
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
-
 <!ENTITY btnConsoleSharedWorkers "Shared Workers">
 <!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
   -  should not be translated. -->
@@ -75,8 +75,7 @@
 <!ENTITY btnClear.accesskey    "r">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.commandkey   "-">

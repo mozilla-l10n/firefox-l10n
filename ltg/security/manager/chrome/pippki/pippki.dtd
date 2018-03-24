@@ -6,8 +6,8 @@
 <!ENTITY setPassword.title  "Maineit golvonū paroli">
 <!ENTITY setPassword.tokenName.label "Drūseibys īrīce">
 <!ENTITY setPassword.oldPassword.label "Pošreizejuo parole:">
-<!ENTITY setPassword.newPassword.label "Jaunuo parole:">
-<!ENTITY setPassword.reenterPassword.label "Jaunuo parole (vēļreiz):">
+<!ENTITY setPassword.newPassword.label "Jaunō parole:">
+<!ENTITY setPassword.reenterPassword.label "Jaunō parole (vēļreiz):">
 <!ENTITY setPassword.meter.label "Paroles kvalitates mierietuojs">
 
 <!-- Values for resetpassword.xul -->
@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "Jiusim tīk vaicuots uzaticeitīs jaunai Sertifikatu Autoritatei (CA).">
 <!ENTITY downloadCert.trustSSL "Uzaticeitīs itai CA šķārsteikla vītņu identificiešonai.">
 <!ENTITY downloadCert.trustEmail "Uzaticeitīs itai CA eposta lītuotuoju identificiešonai.">
-<!ENTITY downloadCert.trustObjSign "Uzaticeitīs itai CA programaturys izstruoduotuoju identificiešonai.">
 <!ENTITY downloadCert.message3 "Pyrms uzaticit itai CA sevkaidam mierkim, jiusim vajadzeitu izpieteit tuos sertifikatu i (nui pīejams) tuos sertifikatu izsnīgšonys politiku i procedurys.">
 <!ENTITY downloadCert.viewCert.label "Apsavērt">
 <!ENTITY downloadCert.viewCert.text "Apsavērt CA sertifikatu">
