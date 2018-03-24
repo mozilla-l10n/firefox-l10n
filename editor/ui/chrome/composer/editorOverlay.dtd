@@ -27,9 +27,9 @@
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Inserir">
 <!ENTITY insertMenu.accesskey "I">
-<!ENTITY insertLinkCmd.label "Ligazón…">
-<!ENTITY insertLinkCmd.accesskey "g">
-<!ENTITY insertLinkCmd.key "l">
+<!ENTITY insertLinkCmd2.label "Ligazón…">
+<!ENTITY insertLinkCmd2.accesskey "L">
+<!ENTITY insertLinkCmd2.key "K">
 <!ENTITY insertAnchorCmd.label "Áncora con nome…">
 <!ENTITY insertAnchorCmd.accesskey "a">
 <!ENTITY insertImageCmd.label "Imaxe…">
@@ -82,20 +82,17 @@
 
 <!ENTITY fontSizeMenu.label "Tamaño">
 <!ENTITY fontSizeMenu.accesskey "m">
-<!ENTITY size-xx-smallCmd.label "xx-pequena">
-<!ENTITY size-xx-smallCmd.accesskey "e">
-<!ENTITY size-x-smallCmd.label "x-pequena">
-<!ENTITY size-x-smallCmd.accesskey "n">
-<!ENTITY size-smallCmd.label "pequena">
+<!ENTITY size-tinyCmd.label "Moi pequena">
+<!ENTITY size-tinyCmd.accesskey "q">
+<!ENTITY size-smallCmd.label "Pequena">
 <!ENTITY size-smallCmd.accesskey "a">
-<!ENTITY size-mediumCmd.label "media">
+<!ENTITY size-mediumCmd.label "Media">
 <!ENTITY size-mediumCmd.accesskey "d">
-<!ENTITY size-largeCmd.label "grande">
+<!ENTITY size-largeCmd.label "Grande">
 <!ENTITY size-largeCmd.accesskey "r">
-<!ENTITY size-x-largeCmd.label "x-grande">
-<!ENTITY size-x-largeCmd.accesskey "x">
-<!ENTITY size-xx-largeCmd.label "xx-grande">
-<!ENTITY size-xx-largeCmd.accesskey "a">
+<!ENTITY size-extraLargeCmd.label "Moi grande">
+<!ENTITY size-extraLargeCmd.accesskey "g">
+<!ENTITY size-hugeCmd.label "Enorme">
 
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Estilo de texto">
@@ -147,7 +144,7 @@
 
 <!ENTITY paragraphMenu.label "Parágrafo">
 <!ENTITY paragraphMenu.accesskey "P">
-<!ENTITY paragraphParagraphCmd.label "Parágrafo">  
+<!ENTITY paragraphParagraphCmd.label "Parágrafo">
 <!ENTITY paragraphParagraphCmd.accesskey "P">
 <!ENTITY heading1Cmd.label "Título 1">
 <!ENTITY heading1Cmd.accesskey "1">
@@ -270,7 +267,7 @@
 <!ENTITY tableDeleteMenu.label "Eliminar">
 <!ENTITY tableDeleteMenu.accesskey "l">
 
-<!-- text for "Join Cells" is in editor.properties 
+<!-- text for "Join Cells" is in editor.properties
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly
