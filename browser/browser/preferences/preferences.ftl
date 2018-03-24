@@ -45,6 +45,7 @@ policies-notice =
 pane-general-title = सामान्य
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = मुख्य
 pane-search-title = खोजें
 category-search =
     .tooltiptext = { pane-search-title }
@@ -286,9 +287,12 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = नया विंडोज और टैब
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = मुखपृष्ठ और नई विंडो
+home-newtabs-mode-label = नया टैब
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
