@@ -293,6 +293,15 @@ home-new-windows-tabs-header = नया विंडोज और टैब
 
 home-homepage-mode-label = मुखपृष्ठ और नई विंडो
 home-newtabs-mode-label = नया टैब
+home-restore-defaults =
+    .label = डिफ़ॉल्ट पुनः स्थापित करें
+    .accesskey = R
+home-mode-choice-custom =
+    .label = संशोधित URLs
+home-mode-choice-blank =
+    .label = खाली पृष्ठ
+home-homepage-custom-url =
+    .placeholder = एक URL चिपकाएँ...
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
