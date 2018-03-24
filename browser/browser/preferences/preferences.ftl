@@ -45,6 +45,8 @@ policies-notice =
 pane-general-title = Основные
 category-general =
     .tooltiptext = { pane-general-title }
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = Поиск
 category-search =
     .tooltiptext = { pane-search-title }
@@ -288,9 +290,26 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = Новые окна и вкладки
+home-new-windows-tabs-description = Выберите, что вы хотите видеть при открытии вашей домашней страницы, новых окон и новых вкладок
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Домашняя страница и новые окна
+home-newtabs-mode-label = Новые вкладки
+home-restore-defaults =
+    .label = Восстановить по умолчанию
+    .accesskey = о
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Домашняя страница Firefox (по умолчанию)
+home-mode-choice-custom =
+    .label = Пользовательские URL...
+home-mode-choice-blank =
+    .label = Пустая страница
+home-homepage-custom-url =
+    .placeholder = Вставить URL...
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
