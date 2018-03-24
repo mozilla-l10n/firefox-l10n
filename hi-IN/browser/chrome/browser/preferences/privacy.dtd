@@ -44,10 +44,12 @@
 <!ENTITY  acceptThirdParty2.pre.label     "तृतीय-पक्ष कुकी स्वीकार करें">
 <!ENTITY  acceptThirdParty2.pre.accesskey "y">
 
+<!ENTITY  acceptCookies4.label          "वेबसाइट से कूकीज और साइट डाटा स्वीकार करें (अनुशंसित)">
 <!ENTITY  acceptCookies4.accesskey      "A">
 
 <!ENTITY  blockCookies.accesskey        "B">
 
+<!ENTITY  acceptThirdParty3.pre.label     "तृतीय पक्ष कूकीज और साइट डाटा स्वीकार करें">
 <!ENTITY  acceptThirdParty3.pre.accesskey "y">
 <!ENTITY  acceptThirdParty.always.label   "हमेशा">
 <!ENTITY  acceptThirdParty.never.label    "कभी नहीं">
