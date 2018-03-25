@@ -37,9 +37,17 @@ search-input-box =
             [windows] Find in Options
            *[other] Find in Preferences
         }
+policies-notice =
+    { PLATFORM() ->
+        [windows] Your organisation has disabled the ability to change some options.
+       *[other] Your organisation has disabled the ability to change some preferences.
+    }
 pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = Home
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = Search
 category-search =
     .tooltiptext = { pane-search-title }
@@ -62,6 +70,7 @@ feature-enable-requires-restart = { -brand-short-name } must restart to enable t
 feature-disable-requires-restart = { -brand-short-name } must restart to disable this feature.
 should-restart-title = Restart { -brand-short-name }
 should-restart-ok = Restart { -brand-short-name } now
+cancel-no-restart-button = Cancel
 restart-later = Restart Later
 
 ## Preferences UI Search Results
@@ -73,6 +82,7 @@ search-results-sorry-message =
         [windows] Sorry! There are no results in Options for “<span></span>”.
        *[other] Sorry! There are no results in Preferences for “<span></span>”.
     }
+search-results-need-help = Need help? Visit <a>{ -brand-short-name } Support</a>
 
 ## General Section
 
@@ -107,6 +117,9 @@ tabs-group-header = Tabs
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab cycles through tabs in recently used order
     .accesskey = T
+open-new-link-as-tabs =
+    .label = Open links in tabs instead of new windows
+    .accesskey = w
 warn-on-close-multiple-tabs =
     .label = Warn you when closing multiple tabs
     .accesskey = m
@@ -269,15 +282,33 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Network Proxy
+network-proxy-connection-learn-more = Learn More
 network-proxy-connection-settings =
     .label = Settings…
     .accesskey = S
 
 ## Home Section
 
+home-new-windows-tabs-header = New Windows and Tabs
+home-new-windows-tabs-description = Choose what you see when you open your homepage, new windows, and new tabs
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Homepage and new windows
+home-newtabs-mode-label = New tabs
+home-restore-defaults =
+    .label = Restore Defaults
+    .accesskey = R
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Firefox Home (Default)
+home-mode-choice-custom =
+    .label = Custom URLs…
+home-mode-choice-blank =
+    .label = Blank Page
+home-homepage-custom-url =
+    .placeholder = Paste a URL…
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
