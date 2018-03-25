@@ -420,6 +420,9 @@
 
 <!-- Summary dialog -->
 <!ENTITY summary.dialog.saveclose.label         "保存并关闭">
+<!ENTITY summary.dialog.saveclose.tooltiptext   "保存变更并关闭窗口，但不更改参与状态、不发送回复">
+<!ENTITY summary.dialog.accept.label            "接受">
+<!ENTITY summary.dialog.accept.tooltiptext      "接受邀请">
 <!ENTITY summary.dialog.tentative.label         "暂定">
 <!ENTITY summary.dialog.decline.label           "拒绝">
 <!ENTITY summary.dialog.dontsend.label          "不要发送回复">
