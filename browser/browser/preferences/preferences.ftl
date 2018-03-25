@@ -40,6 +40,9 @@ search-input-box =
 pane-general-title = Všeobecné
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = Domov
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = Vyhľadávanie
 category-search =
     .tooltiptext = { pane-search-title }
@@ -62,6 +65,7 @@ feature-enable-requires-restart = Aby bolo možné použiť túto funkciu, { -br
 feature-disable-requires-restart = Aby bolo možné vypnúť túto funkciu, { -brand-short-name } musí byť reštartovaný.
 should-restart-title = Reštartovať { -brand-short-name }
 should-restart-ok = Reštartovať { -brand-short-name } teraz
+cancel-no-restart-button = Zrušiť
 restart-later = Reštartovať neskôr
 
 ## Preferences UI Search Results
@@ -282,6 +286,7 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = Nové okná a karty
 
 ## Home Section - Home Page Customization
 
