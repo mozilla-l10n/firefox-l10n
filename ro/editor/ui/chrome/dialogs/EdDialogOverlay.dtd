@@ -14,4 +14,5 @@
 <!ENTITY makeUrlRelative.tooltip "Comută între URL-ul relativ și absolut. Trebuie să salvați pagina înainte de a face această modificare.">
 
 <!-- Shared by Link and Image dialogs -->
+<!ENTITY LinkURLEditField2.label "Introduceți o locație de pagină web, un fișier local, sau selectați o ancoră cu nume sau antet din meniul contextual al câmpului:">
 <!ENTITY LinkURLEditField2.accessKey "w">

@@ -1,0 +1,51 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY Contact.tab                     "Contact">
+<!ENTITY Contact.accesskey               "C">
+<!ENTITY Name.box                        "Nume">
+
+<!-- LOCALIZATION NOTE:
+ NameField1, NameField2, PhoneticField1, PhoneticField2
+ those fields are either LN or FN depends on the target country.
+ "FirstName" and "LastName" can be swapped for id to change the order
+ but they should not be translated (same applied to phonetic id).
+ Make sure the translation of label corresponds to the order of id.
+-->
+
+<!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
+<!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
+<!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
+<!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
+
+<!ENTITY NameField1.label               "Prenume:">
+<!ENTITY NameField2.label               "Nume de familie:">
+<!ENTITY PhoneticField1.label           "Fonetic:">
+<!ENTITY PhoneticField2.label           "Fonetic:">
+<!ENTITY DisplayName.label              "Afișat ca:">
+<!ENTITY preferDisplayName.label        "Prefer întotdeauna afișarea numelui deasupra antetului mesajului">
+<!ENTITY NickName.label                 "Pseudonim:">
+
+<!ENTITY PrimaryEmail.label             "E-mail:">
+<!ENTITY SecondEmail.label              "E-mail suplimentar:">
+<!ENTITY PreferMailFormat.label         "Preferă să primească mesaje în format:">
+<!ENTITY PlainText.label                "Text">
+<!ENTITY HTML.label                     "HTML">
+<!ENTITY Unknown.label                  "Necunoscut">
+<!ENTITY chatName.label                 "Nume de chat:">
+
+<!ENTITY WorkPhone.label                "Serviciu:">
+<!ENTITY HomePhone.label                "Acasă:">
+<!ENTITY FaxNumber.label                "Fax:">
+<!ENTITY PagerNumber.label              "Pager:">
+<!ENTITY CellularNumber.label           "Mobil:">
+
+<!ENTITY Home.tab                       "Privat">
+<!ENTITY HomeAddress.label              "Adresă:">
+<!ENTITY HomeCity.label                 "Localitate:">
+<!ENTITY HomeState.label                "Județ/Provincie:">
+
+
+
+
