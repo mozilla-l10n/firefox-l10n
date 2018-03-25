@@ -23,36 +23,36 @@
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
 <!ENTITY PhoneticField2.id              "MbiemërFonetik">
 
-<!ENTITY NameField1.label               "I pari:">
-<!ENTITY NameField1.accesskey           "a">
-<!ENTITY NameField2.label               "I fundit:">
-<!ENTITY NameField2.accesskey           "u">
-<!ENTITY PhoneticField1.label           "Fonetik:">
-<!ENTITY PhoneticField2.label           "Fonetik:">
-<!ENTITY DisplayName.label              "Në ekran:">
-<!ENTITY DisplayName.accesskey          "e">
+<!ENTITY NameField1.label               "Emër:">
+<!ENTITY NameField1.accesskey           "E">
+<!ENTITY NameField2.label               "Mbiemër:">
+<!ENTITY NameField2.accesskey           "M">
+<!ENTITY PhoneticField1.label           "Fonetike:">
+<!ENTITY PhoneticField2.label           "Fonetike:">
+<!ENTITY DisplayName.label              "Shfaqje:">
+<!ENTITY DisplayName.accesskey          "S">
 <!ENTITY preferDisplayName.label        "Parapëlqe përherë emër paraqitje në vend të titullit të mesazhit">
-<!ENTITY preferDisplayName.accesskey    "q">
+<!ENTITY preferDisplayName.accesskey    "a">
 <!ENTITY NickName.label                 "Nofkë:">
 <!ENTITY NickName.accesskey             "N">
 
 <!ENTITY PrimaryEmail.label             "Email:">
-<!ENTITY PrimaryEmail.accesskey         "E">
+<!ENTITY PrimaryEmail.accesskey         "i">
 <!ENTITY SecondEmail.label              "Email Shtesë:">
-<!ENTITY SecondEmail.accesskey          "e">
+<!ENTITY SecondEmail.accesskey          "h">
 <!ENTITY PreferMailFormat.label         "Parapëlqen të marrë mesazhe të formatuar si:">
-<!ENTITY PreferMailFormat.accesskey     "m">
-<!ENTITY PlainText.label                "Tekst i Thjeshtë">
+<!ENTITY PreferMailFormat.accesskey     "z">
+<!ENTITY PlainText.label                "Tekst të Thjeshtë">
 <!ENTITY HTML.label                     "HTML">
-<!ENTITY Unknown.label                  "E panjohur">
+<!ENTITY Unknown.label                  "Nuk dihet">
 <!ENTITY chatName.label                 "Emër Fjalosjeje:">
 
 <!ENTITY WorkPhone.label                "Pune:">
 <!ENTITY WorkPhone.accesskey            "u">
 <!ENTITY HomePhone.label                "Shtëpie:">
-<!ENTITY HomePhone.accesskey            "ë">
+<!ENTITY HomePhone.accesskey            "B">
 <!ENTITY FaxNumber.label                "Faks:">
-<!ENTITY FaxNumber.accesskey            "a">
+<!ENTITY FaxNumber.accesskey            "F">
 <!ENTITY PagerNumber.label              "Faques:">
 <!ENTITY PagerNumber.accesskey          "q">
 <!ENTITY CellularNumber.label           "Celular:">
@@ -65,15 +65,15 @@
 <!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "Qytet:">
-<!ENTITY HomeCity.accesskey             "y">
+<!ENTITY HomeCity.accesskey             "Q">
 <!ENTITY HomeState.label                "Shtet/Provincë:">
 <!ENTITY HomeState.accesskey            "S">
 <!ENTITY HomeZipCode.label              "ZIP/Kod Postar:">
 <!ENTITY HomeZipCode.accesskey          "Z">
 <!ENTITY HomeCountry.label              "Vend:">
-<!ENTITY HomeCountry.accesskey          "V">
+<!ENTITY HomeCountry.accesskey          "n">
 <!ENTITY HomeWebPage.label              "Faqe Web:">
-<!ENTITY HomeWebPage.accesskey          "F">
+<!ENTITY HomeWebPage.accesskey          "a">
 <!ENTITY Birthday.label                 "Datëlindje:">
 <!ENTITY Birthday.accesskey             "D">
 <!ENTITY In.label                       "">
@@ -85,13 +85,13 @@
 <!ENTITY Work.tab                       "Pune">
 <!ENTITY Work.accesskey                 "P">
 <!ENTITY JobTitle.label                 "Titull:">
-<!ENTITY JobTitle.accesskey             "i">
+<!ENTITY JobTitle.accesskey             "T">
 <!ENTITY Department.label               "Degë:">
 <!ENTITY Department.accesskey           "D">
 <!ENTITY Company.label                  "Ent:">
 <!ENTITY Company.accesskey              "n">
 <!ENTITY WorkAddress.label              "Adresë:">
-<!ENTITY WorkAddress.accesskey          "d">
+<!ENTITY WorkAddress.accesskey          "A">
 <!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label                 "Qytet:">
@@ -103,7 +103,7 @@
 <!ENTITY WorkCountry.label              "Vend:">
 <!ENTITY WorkCountry.accesskey          "V">
 <!ENTITY WorkWebPage.label              "Faqe Web:">
-<!ENTITY WorkWebPage.accesskey          "e">
+<!ENTITY WorkWebPage.accesskey          "F">
 
 <!ENTITY Other.tab                      "Tjetër">
 <!ENTITY Other.accesskey                "T">
@@ -116,10 +116,10 @@
 <!ENTITY Custom4.label                  "Vetjake 4:">
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "Shënime:">
-<!ENTITY Notes.accesskey                "n">
+<!ENTITY Notes.accesskey                "S">
 
 <!ENTITY Chat.tab                       "Fjalosje">
-<!ENTITY Chat.accesskey                 "a">
+<!ENTITY Chat.accesskey                 "F">
 <!ENTITY Gtalk.label                    "Google Talk:">
 <!ENTITY Gtalk.accesskey                "G">
 <!ENTITY AIM.label                      "AIM:">
@@ -140,18 +140,18 @@
 <!ENTITY IRC.accesskey                  "R">
 
 <!ENTITY Photo.tab                      "Foto">
-<!ENTITY Photo.accesskey                "o">
+<!ENTITY Photo.accesskey                "f">
 <!ENTITY PhotoDesc.label                "Zgjidhni një nga vijueset:">
 <!ENTITY GenericPhoto.label             "Foto e Thjeshtë">
-<!ENTITY GenericPhoto.accesskey         "T">
+<!ENTITY GenericPhoto.accesskey         "o">
 <!ENTITY DefaultPhoto.label             "Parazgjedhje">
 <!ENTITY PhotoFile.label                "Në këtë Kompjuter">
-<!ENTITY PhotoFile.accesskey            "N">
+<!ENTITY PhotoFile.accesskey            "K">
 <!ENTITY BrowsePhoto.label              "Shfletoni">
-<!ENTITY BrowsePhoto.accesskey          "e">
+<!ENTITY BrowsePhoto.accesskey          "S">
 <!ENTITY PhotoURL.label                 "Në Web">
 <!ENTITY PhotoURL.accesskey             "b">
 <!ENTITY PhotoURL.placeholder           "Hidheni ose shtypeni dorazi adresën web të një fotoje">
-<!ENTITY UpdatePhoto.label              "Përditësoje">
-<!ENTITY UpdatePhoto.accesskey          "o">
+<!ENTITY UpdatePhoto.label              "Përditësojeni">
+<!ENTITY UpdatePhoto.accesskey          "P">
 <!ENTITY PhotoDropTarget.label          "Hidhni këtu foto të re">
