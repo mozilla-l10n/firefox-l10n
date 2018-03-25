@@ -316,8 +316,8 @@ home-homepage-custom-url =
 use-current-pages =
     .label =
         { $tabCount ->
-            [1] მიმდინარე გვერდის გამოყენება
-           *[other] მიმდინარე გვერდების გამოყენება
+            [1] მიმდინარე გვერდი
+           *[other] მიმდინარე გვერდები
         }
     .accesskey = მ
 choose-bookmark =
