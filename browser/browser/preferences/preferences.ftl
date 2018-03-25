@@ -289,9 +289,26 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = Nuevas ventanas y pestañas
+home-new-windows-tabs-description = Elige qué ver cuando abras tu página de inicio, nuevas ventanas y nuevas pestañas
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Página de inicio y nuevas ventanas
+home-newtabs-mode-label = Nuevas pestañas
+home-restore-defaults =
+    .label = Restaurar predeterminados
+    .accesskey = R
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Inicio de Firefox (Predeterminado)
+home-mode-choice-custom =
+    .label = Personalizar URLs...
+home-mode-choice-blank =
+    .label = Página en blanco
+home-homepage-custom-url =
+    .placeholder = Pegar una URL...
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
