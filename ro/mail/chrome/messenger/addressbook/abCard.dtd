@@ -15,9 +15,13 @@
 -->
 
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
+<!ENTITY NameField1.id                  "FirstName">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
+<!ENTITY NameField2.id                  "LastName">
 <!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField1.id              "PhoneticFirstName">
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField2.id              "PhoneticLastName">
 
 <!ENTITY NameField1.label               "Prenume:">
 <!ENTITY NameField2.label               "Nume de familie:">
@@ -28,6 +32,7 @@
 <!ENTITY NickName.label                 "Pseudonim:">
 
 <!ENTITY PrimaryEmail.label             "E-mail:">
+<!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "E-mail suplimentar:">
 <!ENTITY PreferMailFormat.label         "Preferă să primească mesaje în format:">
 <!ENTITY PlainText.label                "Text">
@@ -43,9 +48,70 @@
 
 <!ENTITY Home.tab                       "Privat">
 <!ENTITY HomeAddress.label              "Adresă:">
+<!ENTITY HomeAddress2.label             "">
+<!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "Localitate:">
 <!ENTITY HomeState.label                "Județ/Provincie:">
+<!ENTITY HomeZipCode.label              "Cod poștal:">
+<!ENTITY HomeCountry.label              "Țară:">
+<!ENTITY HomeWebPage.label              "Pagină web:">
+<!ENTITY Birthday.label                 "Zi de naștere:">
+<!ENTITY In.label                       "">
+<!ENTITY Year.placeholder               "An">
+<!ENTITY Or.value                       "sau">
+<!ENTITY Age.placeholder                "Vârsta">
+<!ENTITY YearsOld.label                 "">
 
+<!ENTITY Work.tab                       "Lucru">
+<!ENTITY JobTitle.label                 "Titlu:">
+<!ENTITY Department.label               "Departament:">
+<!ENTITY Company.label                  "Organizație:">
+<!ENTITY WorkAddress.label              "Adresă:">
+<!ENTITY WorkAddress2.label             "">
+<!ENTITY WorkAddress2.accesskey         "">
+<!ENTITY WorkCity.label                 "Localitate:">
+<!ENTITY WorkState.label                "Județ/provincie:">
+<!ENTITY WorkZipCode.label              "Cod poștal:">
+<!ENTITY WorkCountry.label              "Țară:">
+<!ENTITY WorkWebPage.label              "Pagină web:">
 
+<!ENTITY Other.tab                      "Altele">
+<!ENTITY Custom1.label                  "Diverse 1:">
+<!ENTITY Custom1.accesskey              "1">
+<!ENTITY Custom2.label                  "Diverse 2:">
+<!ENTITY Custom2.accesskey              "2">
+<!ENTITY Custom3.label                  "Diverse 3:">
+<!ENTITY Custom3.accesskey              "3">
+<!ENTITY Custom4.label                  "Diverse 4:">
+<!ENTITY Custom4.accesskey              "4">
+<!ENTITY Notes.label                    "Notițe:">
+<!ENTITY Notes.accesskey                "N">
 
+<!ENTITY Chat.tab                       "Chat">
+<!ENTITY Gtalk.label                    "Google Talk:">
+<!ENTITY AIM.label                      "AIM:">
+<!ENTITY AIM2.accesskey                 "M">
+<!ENTITY Yahoo.label                    "Yahoo!:">
+<!ENTITY Yahoo.accesskey                "Y">
+<!ENTITY Skype.label                    "Skype:">
+<!ENTITY Skype.accesskey                "S">
+<!ENTITY QQ.label                       "QQ:">
+<!ENTITY QQ.accesskey                   "Q">
+<!ENTITY MSN.label                      "MSN:">
+<!ENTITY MSN2.accesskey                 "N">
+<!ENTITY ICQ.label                      "ICQ:">
+<!ENTITY XMPP.label                     "Jabber ID:">
+<!ENTITY XMPP.accesskey                 "J">
+<!ENTITY IRC.label                      "Nick de IRC:">
+<!ENTITY IRC.accesskey                  "R">
 
+<!ENTITY Photo.tab                      "Foto">
+<!ENTITY PhotoDesc.label                "Alegeți una dintre următoarele:">
+<!ENTITY GenericPhoto.label             "Poză generică">
+<!ENTITY DefaultPhoto.label             "Implicită">
+<!ENTITY PhotoFile.label                "De pe acest calculator">
+<!ENTITY BrowsePhoto.label              "Răsfoiește">
+<!ENTITY PhotoURL.label                 "De pe web">
+<!ENTITY PhotoURL.placeholder           "Inserați sau tastați adresa web a pozei">
+<!ENTITY UpdatePhoto.label              "Actualizează">
+<!ENTITY PhotoDropTarget.label          "Trageți noua fotografie aici">
