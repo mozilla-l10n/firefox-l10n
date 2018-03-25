@@ -31,8 +31,8 @@
 <!ENTITY PhoneticField2.label           "Phonétique :">
 <!ENTITY DisplayName.label              "Nom à afficher :">
 <!ENTITY DisplayName.accesskey          "o">
-<!ENTITY preferDisplayName.label        "Toujours afficher le nom au-dessus de l’en-tête du message">
-<!ENTITY preferDisplayName.accesskey    "u">
+<!ENTITY preferDisplayName.label        "Toujours préférer le nom à afficher plutôt que l’en-tête de message">
+<!ENTITY preferDisplayName.accesskey    "T">
 <!ENTITY NickName.label                 "Surnom :">
 <!ENTITY NickName.accesskey             "S">
 
@@ -45,6 +45,7 @@
 <!ENTITY PlainText.label                "Texte simple (sans HTML)">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Inconnu">
+<!ENTITY chatName.label                 "Pseudo pour discussion :">
 
 <!ENTITY WorkPhone.label                "Travail :">
 <!ENTITY WorkPhone.accesskey            "l">
@@ -54,8 +55,8 @@
 <!ENTITY FaxNumber.accesskey            "x">
 <!ENTITY PagerNumber.label              "Pager :">
 <!ENTITY PagerNumber.accesskey          "g">
-<!ENTITY CellularNumber.label           "Portable :">
-<!ENTITY CellularNumber.accesskey       "t">
+<!ENTITY CellularNumber.label           "Mobile :">
+<!ENTITY CellularNumber.accesskey       "b">
 
 <!ENTITY Home.tab                       "Privée">
 <!ENTITY Home.accesskey                 "P">
@@ -117,9 +118,29 @@
 <!ENTITY Notes.label                    "Notes :">
 <!ENTITY Notes.accesskey                "N">
 
+<!ENTITY Chat.tab                       "Discussion">
+<!ENTITY Chat.accesskey                 "s">
+<!ENTITY Gtalk.label                    "Google Talk :">
+<!ENTITY Gtalk.accesskey                "G">
+<!ENTITY AIM.label                      "AIM :">
+<!ENTITY AIM2.accesskey                 "M">
+<!ENTITY Yahoo.label                    "Yahoo! :">
+<!ENTITY Yahoo.accesskey                "Y">
+<!ENTITY Skype.label                    "Skype :">
+<!ENTITY Skype.accesskey                "S">
+<!ENTITY QQ.label                       "QQ :">
+<!ENTITY QQ.accesskey                   "Q">
+<!ENTITY MSN.label                      "MSN :">
+<!ENTITY MSN2.accesskey                 "N">
+<!ENTITY ICQ.label                      "ICQ :">
+<!ENTITY ICQ.accesskey                  "I">
+<!ENTITY XMPP.label                     "ID Jabber :">
+<!ENTITY XMPP.accesskey                 "J">
+<!ENTITY IRC.label                      "Pseudo IRC :">
+<!ENTITY IRC.accesskey                  "R">
 
 <!ENTITY Photo.tab                      "Photo">
-<!ENTITY Photo.accesskey                "o">
+<!ENTITY Photo.accesskey                "h">
 <!ENTITY PhotoDesc.label                "Choisir une des photos suivantes :">
 <!ENTITY GenericPhoto.label             "Photo générique">
 <!ENTITY GenericPhoto.accesskey         "P">
