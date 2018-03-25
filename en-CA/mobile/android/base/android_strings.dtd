@@ -422,7 +422,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; Health Report">
 <!ENTITY datareporting_fhr_summary2 "Shares data with &vendorShortName; about your browser health and helps you understand your browser performance">
-<!ENTITY datareporting_abouthr_title "View my Health Report">
 <!ENTITY datareporting_telemetry_title "Telemetry">
 <!ENTITY datareporting_telemetry_summary "Shares performance, usage, hardware and customisation data about your browser with &vendorShortName; to help us make &brandShortName; better">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; submits crash reports to help &vendorShortName; make your browser more stable and secure">
@@ -454,6 +453,7 @@
 <!ENTITY share_image_failed "Unable to share this image">
 <!ENTITY save_as_pdf "Save as PDF">
 <!ENTITY print "Print">
+<!ENTITY view_page_source "View Page Source">
 <!ENTITY find_in_page "Find in Page">
 <!ENTITY desktop_mode "Request Desktop Site">
 <!ENTITY page "Page">
@@ -485,7 +485,6 @@
 <!ENTITY contextmenu_open_new_tab "Open in New Tab">
 <!ENTITY contextmenu_open_private_tab "Open in Private Tab">
 <!ENTITY contextmenu_remove "Remove">
-<!ENTITY contextmenu_add_to_launcher "Add to Home Screen">
 <!ENTITY contextmenu_add_page_shortcut "Add Page Shortcut">
 <!ENTITY contextmenu_set_as_homepage "Set as Homepage">
 <!ENTITY contextmenu_share "Share">
@@ -540,7 +539,6 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Page removed">
-
 <!ENTITY folder_removed "Folder removed">
 
 <!ENTITY bookmark_edit_title "Edit Bookmark">
@@ -814,6 +812,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced by the Android OS version (e.g., 14)-->
 <!ENTITY unsupported_sdk_version "Sorry! This &brandShortName; won\&apos;t work on this device (&formatS1;, &formatS2;). Please download the correct version.">
 
+<!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
+<!ENTITY corrupt_apk "Unable to open &brandShortName;. Please reinstall and try again.">
+
 <!ENTITY eol_notification_title2 "&brandShortName; will no longer update">
 <!ENTITY eol_notification_summary "Tap to learn more">
 
@@ -821,8 +822,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; is up to date">
 <!ENTITY whatsnew_notification_summary "Find out what\&apos;s new in this version">
-
-<!ENTITY promotion_add_to_homescreen "Add to home screen">
 
 <!ENTITY promotion_add_page_shortcut "Add page shortcut">
 
