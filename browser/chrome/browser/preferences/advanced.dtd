@@ -39,6 +39,13 @@ available. -->
 
 <!ENTITY alwaysSubmitCrashReports1.label  "Allow &brandShortName; to send crash reports to Mozilla">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+
+<!ENTITY collectBrowserErrors.label          "Allow &brandShortName; to send browser error reports (including error messages) to Mozilla">
+<!ENTITY collectBrowserErrors.accesskey      "b">
+<!ENTITY collectBrowserErrorsLearnMore.label "Learn more">
+
+<!ENTITY sendBackloggedCrashReports.label  "Allow &brandShortName; to send backlogged crash reports on your behalf">
+<!ENTITY sendBackloggedCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Learn more">
 
 <!ENTITY networkTab.label                "Network">
@@ -51,14 +58,17 @@ available. -->
 
 <!ENTITY httpCache.label                 "Cached Web Content">
 
-<!ENTITY offlineStorage2.label           "Offline Web Content and User Data">
-
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Site Data">
 <!ENTITY clearSiteData.label             "Clear All Data">
 <!ENTITY clearSiteData.accesskey         "l">
 <!ENTITY siteDataSettings.label          "Settings…">
 <!ENTITY siteDataSettings.accesskey      "i">
+<!ENTITY siteData1.label                 "Cookies and Site Data">
+<!ENTITY clearSiteData1.label            "Clear Data…">
+<!ENTITY clearSiteData1.accesskey        "l">
+<!ENTITY siteDataSettings1.label         "Manage Data…">
+<!ENTITY siteDataSettings1.accesskey     "M">
 <!ENTITY siteDataLearnMoreLink.label     "Learn more">
 
 <!-- LOCALIZATION NOTE:
@@ -72,8 +82,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "MB of space">
 <!ENTITY clearCacheNow.label             "Clear Now">
 <!ENTITY clearCacheNow.accesskey         "C">
-<!ENTITY clearOfflineAppCacheNow.label   "Clear Now">
-<!ENTITY clearOfflineAppCacheNow.accesskey "N">
 <!ENTITY overrideSmartCacheSize.label    "Override automatic cache management">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
@@ -110,17 +118,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Automatically update search engines">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
-
-<!ENTITY offlineStorageNotify.label               "Tell you when a web site asks to store data for offline use">
-<!ENTITY offlineStorageNotify.accesskey           "T">
-<!ENTITY offlineStorageNotifyExceptions.label     "Exceptions…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "x">
-
-<!ENTITY offlineAppsList3.label          "The following web sites are allowed to store data for offline use">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Remove…">
-<!ENTITY offlineAppsListRemove.accesskey "R">
-<!ENTITY offlineAppRemove.confirm        "Remove offline data">
 
 <!ENTITY certificateTab.label            "Certificates">
 <!ENTITY certPersonal2.description       "When a server requests your personal certificate">
