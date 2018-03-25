@@ -88,6 +88,17 @@
 <!ENTITY reorderAttachmentsCmd.label "Reordenar los archivos adjuntos…">
 <!ENTITY reorderAttachmentsCmd.accesskey "s">
 <!ENTITY reorderAttachmentsCmd.key "x">
+<!ENTITY toggleAttachmentPaneCmd.label "Vista de adjuntos">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
+     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
+     as attachments.accesskey. -->
+<!ENTITY toggleAttachmentPaneCmd.accesskey "u">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
+     With OS-specific access modifier, this defines the shortcut key for showing/
+     hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
+     toggleAttachmentPaneCmd.key and attachments.accesskey must be the same
+     for the bucket view state machinery to work. -->
+<!ENTITY toggleAttachmentPaneCmd.key "m">
 <!ENTITY selectAllCmd.label "Seleccionar todo">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "t">
@@ -109,26 +120,10 @@
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Reordenar los archivos adjuntos">
 <!ENTITY moveAttachmentTopPanelBtn.label "Mover hacia arriba">
-<!ENTITY moveAttachmentTopPanelBtn.accesskey "h">
 <!ENTITY moveAttachmentUpPanelBtn.label "Subir">
-<!ENTITY moveAttachmentUpPanelBtn.accesskey "U">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Mover juntos">
-<!ENTITY moveAttachmentBundleUpPanelBtn.accesskey "v">
 <!ENTITY moveAttachmentDownPanelBtn.label "Bajar">
-<!ENTITY moveAttachmentDownPanelBtn.accesskey "B">
 <!ENTITY moveAttachmentBottomPanelBtn.label "Mover hacia abajo">
-<!ENTITY moveAttachmentBottomPanelBtn.accesskey "B">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.label):
-     Please ensure that this translation matches
-     sortAttachmentsTogglePanelBtn.ZA.label, except for the sort direction. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.label "Ordenar en sentido A - Z">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.accesskey):
-     This accesskey should be the same like
-     sortAttachmentsTogglePanelBtn.ZA.accesskey, and it should be taken from
-     the "Sort Selection:" part of the label, not from the sort direction part. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.accesskey "o">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.label "Ordenar en sentido Z - A">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.accesskey "o">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -253,6 +248,7 @@
 <!ENTITY quoteButton.tooltip "Citar el mensaje anterior">
 <!ENTITY addressButton.tooltip "Seleccionar un destinatario de una libreta de direcciones">
 <!ENTITY attachButton.tooltip "Incluir un adjunto">
+<!ENTITY attachButton.tooltip2 "Agregar un adjunto">
 <!ENTITY spellingButton.tooltip "Verificar la ortografía de la selección o el mensaje completo">
 <!ENTITY saveButton.tooltip "Guardar este mensaje">
 <!ENTITY cutButton.tooltip              "Cortar">
@@ -274,9 +270,14 @@
 <!ENTITY followupAddr.label "Reenviar a:">
 <!ENTITY subject.label "Asunto:">
 <!ENTITY subject.accesskey "s">
-<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
-     to the strings in attachmentCount in composeMsgs.properties -->
+<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
+     be taken from the strings in attachmentCount in composeMsgs.properties,
+     and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
+     work, as the shortcut key functionality supersedes the access key. -->
 <!ENTITY attachments.accesskey "j">
+
+<!ENTITY attachmentBucketHeader.tooltip "Vista de adjuntos">
+<!ENTITY attachmentBucketCloseButton.tooltip "Ocultar la vista de adjuntos">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Insertar un emoticón">
@@ -314,6 +315,7 @@
 <!ENTITY pasteQuote.label "Pegar como cita">
 <!ENTITY pasteQuote.accesskey "g">
 
+<!-- Attachment Item and List Context Menus -->
 <!ENTITY openAttachment.label "Abrir">
 <!ENTITY openAttachment.accesskey "A">
 <!ENTITY delete.label "Borrar">
@@ -324,6 +326,8 @@
 <!ENTITY renameAttachment.accesskey "R">
 <!ENTITY reorderAttachments.label "Reordenar los archivos adjuntos…">
 <!ENTITY reorderAttachments.accesskey "s">
+<!ENTITY removeAllAttachments.label "Eliminar todos los adjuntos">
+<!ENTITY removeAllAttachments.accesskey "o">
 <!ENTITY selectAll.label "Seleccionar todo">
 <!ENTITY selectAll.accesskey "t">
 <!ENTITY attachFile.label "Adjuntar archivo(s)…">
@@ -338,6 +342,13 @@
 <!ENTITY convertRegularAttachment.accesskey "A">
 <!ENTITY attachPage.label "Adjuntar página web…">
 <!ENTITY attachPage.accesskey "w">
+
+<!-- Attachment Pane Header Bar Context Menu -->
+<!-- LOCALIZATION NOTE (initiallyShowAttachmentPane.label):
+     Should use the same wording as startExpandedCmd.label
+     in msgHdrViewOverlay.dtd. -->
+<!ENTITY initiallyShowAttachmentPane.label "Mostrar vista de adjuntos al inicio">
+<!ENTITY initiallyShowAttachmentPane.accesskey "S">
 
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Agregar diccionarios…">
