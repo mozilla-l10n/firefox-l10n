@@ -6,7 +6,7 @@
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
-   
+
 <!ENTITY pref.calendar.view.allview.caption "General">
 <!ENTITY pref.calendar.view.dayandweekviews.caption "Vistas diaria y semanal">
 <!ENTITY pref.calendar.view.multiweekview.caption "Vista multisemana">
@@ -37,3 +37,5 @@
 <!ENTITY pref.numberofweeks.4 "4 semanas">
 <!ENTITY pref.numberofweeks.5 "5 semanas">
 <!ENTITY pref.numberofweeks.6 "6 semanas">
+<!ENTITY pref.showlocation.label "Mostrar ubicación">
+<!ENTITY pref.showlocation.accesskey "u">
