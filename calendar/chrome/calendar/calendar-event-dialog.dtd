@@ -420,3 +420,14 @@
 
 <!-- Summary dialog -->
 <!ENTITY summary.dialog.saveclose.label         "Guardar y cerrar">
+<!ENTITY summary.dialog.saveclose.tooltiptext   "Guardar los cambios y cerrar la ventana sin cambiar el estado de participación y enviar una respuesta">
+<!ENTITY summary.dialog.accept.label            "Aceptar">
+<!ENTITY summary.dialog.accept.tooltiptext      "Aceptar la invitación">
+<!ENTITY summary.dialog.tentative.label         "Tentativo">
+<!ENTITY summary.dialog.tentative.tooltiptext   "Aceptar la invitación tentativamente">
+<!ENTITY summary.dialog.decline.label           "Rechazar">
+<!ENTITY summary.dialog.decline.tooltiptext     "Rechazar la invitación">
+<!ENTITY summary.dialog.dontsend.label          "No enviar una respuesta">
+<!ENTITY summary.dialog.dontsend.tooltiptext    "Cambiar tu estado de participación sin enviar una respuesta al organizador y cerrar la ventana">
+<!ENTITY summary.dialog.send.label              "Enviar una respuesta ahora">
+<!ENTITY summary.dialog.send.tooltiptext        "Enviar una respuesta al organizador  y cerrar la ventana">
