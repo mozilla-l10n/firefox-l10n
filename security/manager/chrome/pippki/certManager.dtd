@@ -10,13 +10,13 @@
 <!ENTITY certmgr.tab.ca                       "证书机构">
 <!ENTITY certmgr.tab.orphan2                  "其他">
 
-<!ENTITY certmgr.mine2                        "您有这些组织用来识别您的证书">
-<!ENTITY certmgr.others2                      "您有用来识别这些人的证书文件">
-<!ENTITY certmgr.websites3                    "您有用来识别这些服务器的证书文件">
-<!ENTITY certmgr.cas2                         "您有用来识别这些证书颁发机构的证书文件">
-<!ENTITY certmgr.orphans2                     "您有不符合其他任何种类的证书文件：">
+<!ENTITY certmgr.mine2                        "您有下列组织的证书可以识别您自己">
+<!ENTITY certmgr.others2                      "您有用来识别这些人的证书">
+<!ENTITY certmgr.websites3                    "您有用来识别这些服务器的证书">
+<!ENTITY certmgr.cas2                         "您有用来识别这些证书颁发机构的证书">
+<!ENTITY certmgr.orphans2                     "您有下列不属于任何分类的证书">
 
-<!ENTITY certmgr.detail.general_tab.title     "常规">
+<!ENTITY certmgr.detail.general_tab.title     "基本信息">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
 <!ENTITY certmgr.detail.prettyprint_tab.title "详细信息">
 <!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
@@ -27,9 +27,9 @@
 <!ENTITY certmgr.periodofvalidity.label       "有效期" >
 <!ENTITY certmgr.fingerprints.label           "指纹">
 <!ENTITY certmgr.certdetail.title             "证书细节">
-<!ENTITY certmgr.certdetail.cn                "通用名(CN)">
-<!ENTITY certmgr.certdetail.o                 "组织">
-<!ENTITY certmgr.certdetail.ou                "组织单元">
+<!ENTITY certmgr.certdetail.cn                "一般名称 (CN)">
+<!ENTITY certmgr.certdetail.o                 "组织 (O)">
+<!ENTITY certmgr.certdetail.ou                "组织单位 (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "序列号">
 <!ENTITY certmgr.certdetail.sha256fingerprint "SHA-256 指纹">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 指纹">
@@ -38,7 +38,6 @@
 <!ENTITY certmgr.editcert.edittrust           "编辑信任设置：">
 <!ENTITY certmgr.editcert.trustssl            "此证书可以标识网站。">
 <!ENTITY certmgr.editcert.trustemail          "此证书可以标识电子邮件用户。">
-<!ENTITY certmgr.editcert.trustobjsign        "此证书可以标识软件制造者。">
 
 <!ENTITY certmgr.deletecert.title             "删除证书">
 
