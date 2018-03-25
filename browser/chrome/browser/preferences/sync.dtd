@@ -75,6 +75,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY cancelSetup.label            "Annuler la configuration">
 <!ENTITY cancelSetup.accesskey        "n">
 
+<!ENTITY removeAccount.label          "Supprimer le compte">
+<!ENTITY removeAccount.accesskey      "t">
 
 <!ENTITY signedOut.caption            "Emportez votre Web partout avec vous">
 <!ENTITY signedOut.description        "Synchronisez marque-pages, historique, onglets, mots de passe, modules complémentaires et préférences entre tous vos appareils.">
