@@ -117,7 +117,7 @@
 <!ENTITY newsServerNamePrefix.label "新闻服务器名(NNTP)：">
 <!ENTITY downloadOnLogin.label "立即下载消息">
 <!ENTITY downloadOnLogin.accesskey "D">
-<!ENTITY deferStorageDesc.label "不选此检查框可使该帐户的邮件保存到它自己的目录中。此操作将使该帐户变为一个最上层帐户。否则，他将成为本地文件夹全局收件箱帐户的一部分。">
+<!ENTITY deferStorageDesc.label "若取消勾选此项，此账户的邮件将存放在本身的目录内。此账户将显示为顶层账户。否则它会从属于本地的全局收件箱。">
 <!ENTITY deferStorage.label "使用全局收件箱（将邮件保存至本地文件夹中）">
 <!ENTITY deferStorage.accesskey "G">
 <!ENTITY clickFinish.label "单击“完成”保存设置并退出帐户向导。">
