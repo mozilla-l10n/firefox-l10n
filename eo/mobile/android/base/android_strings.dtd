@@ -422,7 +422,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "Sanraporto de &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "Tiu ĉi raporto dividas kun &vendorShortName; datumojn pri la sano de via retumilo kaj helpas vin kompreni ĝian efikecon">
-<!ENTITY datareporting_abouthr_title "Vidi mian sanraporton">
 <!ENTITY datareporting_telemetry_title "Telemezuro">
 <!ENTITY datareporting_telemetry_summary "Tio dividas kun &vendorShortName; datumojn pri efikeco, uzado, aparataro kaj personaj agordoj de via restesplorilo, por helpi nin plibonigi &brandShortName;.">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; sendas raportojn pri paneoj por helpi &vendorShortName; igi vian retumilon pli stabila kaj sekura">
@@ -486,7 +485,7 @@
 <!ENTITY contextmenu_open_new_tab "Malfermi en nova langeto">
 <!ENTITY contextmenu_open_private_tab "Malfermi en privata langeto">
 <!ENTITY contextmenu_remove "Forigi">
-<!ENTITY contextmenu_add_page_shortcut "Aldon paĝan ŝparvojon">
+<!ENTITY contextmenu_add_page_shortcut "Aldoni ŝparvojon al paĝo">
 <!ENTITY contextmenu_set_as_homepage "Elekti kiel hejmpaĝon">
 <!ENTITY contextmenu_share "Havigi">
 <!ENTITY contextmenu_pasteandgo "Algui kaj iri">
@@ -821,7 +820,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "&brandShortName; estas ĝisdata">
 <!ENTITY whatsnew_notification_summary "Trovi tion, kio estas nova en tiu ĉi versio">
 
-<!ENTITY promotion_add_page_shortcut "Aldon paĝan ŝparvojon">
+<!ENTITY promotion_add_page_shortcut "Aldoni ŝparvojon al paĝo">
 
 <!ENTITY helper_first_offline_bookmark_title "Legi malkonektite">
 <!ENTITY helper_first_offline_bookmark_message "Eĉ malkonektite, trovi inter la legosignoj viajn elementojn de legila vido.">
