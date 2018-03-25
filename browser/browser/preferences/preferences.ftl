@@ -290,6 +290,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Nouvelles fenêtres et nouveaux onglets
+home-new-windows-tabs-description = Choisissez ce qui doit être affiché lorsque vous ouvrez votre page d’accueil, une nouvelle fenêtre ou un nouvel onglet
 
 ## Home Section - Home Page Customization
 
@@ -302,8 +303,12 @@ home-restore-defaults =
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Page d’accueil de Firefox (par défaut)
+home-mode-choice-custom =
+    .label = Adresses web personnalisées…
 home-mode-choice-blank =
     .label = Page vide
+home-homepage-custom-url =
+    .placeholder = Collez une adresse web…
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
