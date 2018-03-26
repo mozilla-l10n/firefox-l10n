@@ -165,25 +165,25 @@
   -  appears in the debugger's side pane tabs. -->
 <!ENTITY debuggerUI.tabs.workers        "ตัวทำงาน">
 <!ENTITY debuggerUI.tabs.sources        "แหล่งที่มา">
-<!ENTITY debuggerUI.tabs.callstack      "สแต็คการเรียก:">
+<!ENTITY debuggerUI.tabs.callstack      "สแตกการเรียก">
 <!ENTITY debuggerUI.tabs.variables      "ตัวแปร">
 <!ENTITY debuggerUI.tabs.events         "เหตุการณ์">
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
   -  appears in the source editor context menu for adding an expression. -->
-<!ENTITY debuggerUI.seMenuAddWatch      "ส่วนที่เลือกเพื่อติดตาม Expression">
+<!ENTITY debuggerUI.seMenuAddWatch      "ส่วนที่เลือกเพื่อดูนิพจน์">
 <!ENTITY debuggerUI.seMenuAddWatch.key  "E">
 
 <!-- LOCALIZATION NOTE (debuggerUI.addWatch): This is the text that
   -  appears in the watch expressions context menu for adding an expression. -->
-<!ENTITY debuggerUI.addWatch            "เพิ่มการติดตาม Expression">
-<!ENTITY debuggerUI.addWatch.accesskey  "E">
+<!ENTITY debuggerUI.addWatch            "เพิ่มการดูนิพจน์">
+<!ENTITY debuggerUI.addWatch.accesskey  "พ">
 
 <!-- LOCALIZATION NOTE (debuggerUI.removeAllWatch): This is the text that
   -  appears in the watch expressions context menu for removing all expressions. -->
-<!ENTITY debuggerUI.removeAllWatch           "ลบทุกการติดตาม Expressions">
+<!ENTITY debuggerUI.removeAllWatch           "เอาการดูนิพจน์ทั้งหมดออก">
 <!ENTITY debuggerUI.removeAllWatch.key       "E">
-<!ENTITY debuggerUI.removeAllWatch.accesskey "E">
+<!ENTITY debuggerUI.removeAllWatch.accesskey "อ">
 
 <!-- LOCALIZATION NOTE (debuggerUI.stepping): These are the keycodes that
   -  control the stepping commands in the debugger (continue, step over,
