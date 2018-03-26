@@ -40,6 +40,7 @@
 
 <!ENTITY calendartype.label "Kalendertype:">
 <!ENTITY location.label "Adresse:">
+<!ENTITY location.placeholder "URL eller hostnavn på kalenderserveren">
 
 
 <!ENTITY network.subscribe.single.description "Velg kalendrene du vil abonnere på.">
