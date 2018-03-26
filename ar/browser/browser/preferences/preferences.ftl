@@ -45,6 +45,9 @@ policies-notice =
 pane-general-title = عام
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = المنزل
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = البحث
 category-search =
     .tooltiptext = { pane-search-title }
@@ -302,6 +305,12 @@ home-newtabs-mode-label = الألسنة الجديدة
 home-restore-defaults =
     .label = استعد المبدئيات
     .accesskey = س
+home-mode-choice-custom =
+    .label = عناوين مخصصة…
+home-mode-choice-blank =
+    .label = صفحة فارغة
+home-homepage-custom-url =
+    .placeholder = ألصِق عنوانا…
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
