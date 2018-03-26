@@ -37,9 +37,17 @@ search-input-box =
             [windows] विकल्पहरू मा फेला पार्नुहोस्
            *[other] प्राथमिकताहरू मा फेला पार्नुहोस्
         }
+policies-notice =
+    { PLATFORM() ->
+        [windows] तपाईंको संगठनले केही विकल्पहरू परिवर्तन गर्ने क्षमता अक्षम गरेको छ।
+       *[other] तपाईंको संगठनले केही प्राथमिकताहरू परिवर्तन गर्ने क्षमता अक्षम गरेको छ।
+    }
 pane-general-title = सामान्य
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = गृहपृष्ठ
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = खोज
 category-search =
     .tooltiptext = { pane-search-title }
