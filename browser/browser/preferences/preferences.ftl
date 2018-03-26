@@ -37,9 +37,17 @@ search-input-box =
             [windows] Søk i innstillingar
            *[other] Søk i innstillingar
         }
+policies-notice =
+    { PLATFORM() ->
+        [windows] Din organisasjon har slått av mulegheita til å endre visse innstillingar.
+       *[other] Din organisasjon har slått av mulegheita til å endre visse innstillingar.
+    }
 pane-general-title = Generelt
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = Heim
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = Søk
 category-search =
     .tooltiptext = { pane-search-title }
@@ -281,9 +289,26 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = Nye vindauge og faner
+home-new-windows-tabs-description = Vel kva du ser når du opnar startsida, nye vindauge og nye faner
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Startside og nye vindauge
+home-newtabs-mode-label = Nye faner
+home-restore-defaults =
+    .label = Bruk standard
+    .accesskey = r
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Firefox startside (standard)
+home-mode-choice-custom =
+    .label = Tilpassa nettadresser…
+home-mode-choice-blank =
+    .label = Tom side
+home-homepage-custom-url =
+    .placeholder = Lim inn ein URL…
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
