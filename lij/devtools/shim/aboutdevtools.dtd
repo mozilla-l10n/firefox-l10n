@@ -40,19 +40,25 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.learnMoreLink): Text for the link to
   -  https://developer.mozilla.org/docs/Tools displayed in the top section when DevTools
   -  are disabled. -->
+<!ENTITY  aboutDevtools.enable.learnMoreLink "Atre informaçioin in sci Strumenti do svilupatô">
 
 <!ENTITY  aboutDevtools.enable.enableButton "Abilita Strumenti do svilupatô">
 <!ENTITY  aboutDevtools.enable.closeButton2 "Særa sto feuggio">
 
 <!ENTITY  aboutDevtools.welcome.title "Benvegnuo inti Strumenti do svilupatô de Firefox!">
 
+<!ENTITY  aboutDevtools.newsletter.title "Newsletter di Svilupatoî Mozilla">
 <!-- LOCALIZATION NOTE (aboutDevtools.newsletter.message): Subscribe form message.
   -  The newsletter is only available in english at the moment.
   -  See Bug 1415273 for support of additional languages.-->
 <!ENTITY  aboutDevtools.newsletter.email.placeholder "Email">
+<!ENTITY  aboutDevtools.newsletter.privacy.label "Son d'acòrdio che Mozilla o manezze e mæ informaçioin comme spiegou inta <a class='external' href='https://www.mozilla.org/privacy/'>Politica da Privacy</a>.">
 <!ENTITY  aboutDevtools.newsletter.subscribeButton "Abon-ite">
 <!ENTITY  aboutDevtools.newsletter.thanks.title "Graçie!">
+<!ENTITY  aboutDevtools.newsletter.thanks.message "Se primma no ti æ confermou l'abonamento a-a newsletter in sce Mozilla ti doviesci fâlo. Amîa ben inta teu pòsta in intrâ ò into spam se no ti gh'æ ina email da niâtri.">
 
+<!ENTITY  aboutDevtools.footer.title "Firefox Developer Edition">
+<!ENTITY  aboutDevtools.footer.message "Ti çerchi quarcösa de ciù che di Strumenti do svilupatô? Ma aloa amia o navegatô Firefox fæto pe-i svilopatoî e 'n moderno flusso de travaggio.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to
   -  https://www.mozilla.org/firefox/developer/ displayed in the footer. -->
