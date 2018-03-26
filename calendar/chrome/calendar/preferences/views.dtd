@@ -37,3 +37,5 @@
 <!ENTITY pref.numberofweeks.4 "näidatakse 4">
 <!ENTITY pref.numberofweeks.5 "näidatakse 5">
 <!ENTITY pref.numberofweeks.6 "näidatakse 6">
+<!ENTITY pref.showlocation.label "Kuvatakse asukohta">
+<!ENTITY pref.showlocation.accesskey "u">
