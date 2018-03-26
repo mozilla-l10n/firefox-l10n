@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY Contact.tab                     "المتراسل">
-<!ENTITY Contact.accesskey               "م">
+<!ENTITY Contact.tab                     "جهة الاتصال">
+<!ENTITY Contact.accesskey               "ه">
 <!ENTITY Name.box                        "الاسم">
 
 <!-- LOCALIZATION NOTE:
@@ -31,7 +31,7 @@
 <!ENTITY PhoneticField2.label           "صوتي:">
 <!ENTITY DisplayName.label              "العرض:">
 <!ENTITY DisplayName.accesskey          "ع">
-<!ENTITY preferDisplayName.label        "فضِّل دائمًا الاسم المعروض على ترويسة الرسالة">
+<!ENTITY preferDisplayName.label        "فضِّل دائمًا اسم العرض على ترويسة الرسالة">
 <!ENTITY preferDisplayName.accesskey    "ض">
 <!ENTITY NickName.label                 "الكنية:">
 <!ENTITY NickName.accesskey             "ك">
@@ -53,9 +53,18 @@
 <!ENTITY HomePhone.accesskey            "ن">
 <!ENTITY FaxNumber.label                "الفاكس:">
 <!ENTITY FaxNumber.accesskey            "ف">
+<!ENTITY PagerNumber.label              "جهاز الاستدعاء:">
+<!ENTITY PagerNumber.accesskey          "س">
 <!ENTITY CellularNumber.label           "المحمول:">
 <!ENTITY CellularNumber.accesskey       "ح">
 
+<!ENTITY Home.tab                       "خاص">
+<!ENTITY Home.accesskey                 "خ">
+<!ENTITY HomeAddress.label              "العنوان:">
+<!ENTITY HomeAddress.accesskey          "ن">
+<!ENTITY HomeCity.label                 "المدينة:">
+<!ENTITY HomeCity.accesskey             "د">
+<!ENTITY HomeState.label                "">
 
 
 
