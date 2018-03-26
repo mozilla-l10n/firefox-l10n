@@ -30,15 +30,23 @@
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.aboutDebuggingMessage): Message displayed
   -  when users come from about:debugging. -->
+<!ENTITY  aboutDevtools.enable.aboutDebuggingMessage
+          "Sviluppa e fanni o debug co-e WebExtensions, worker web, worker de serviçioe atro ancon graçie a-i Strumenti do svilupatô de Firefox.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.keyShortcutMessage): Message displayed when
   -  users pressed a DevTools key shortcut. -->
+<!ENTITY  aboutDevtools.enable.keyShortcutMessage
+          "Ti æ ativou o scorsaieu di Strumenti do svilupatô. Se l'é stæto un erô, ti peu serâ sto feuggio.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage2): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
+<!ENTITY  aboutDevtools.enable.menuMessage2
+          "Crea o teu scito perfetto con HTML, CSS e JavaScript graçie a atressi comme l'Ispetô e-o Debugger.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.commonMessage): Generic message displayed for
   -  all possible entry points (keyshortcut, menu item etc…). -->
+<!ENTITY  aboutDevtools.enable.commonMessage
+          "I Strumenti do svilupatô en dizabilitæ comme preinpostaçion pe date ciù contròllo in sciô teu navegatô.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.learnMoreLink): Text for the link to
   -  https://developer.mozilla.org/docs/Tools displayed in the top section when DevTools
@@ -54,6 +62,7 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.newsletter.message): Subscribe form message.
   -  The newsletter is only available in english at the moment.
   -  See Bug 1415273 for support of additional languages.-->
+<!ENTITY  aboutDevtools.newsletter.message "Piggite e notiçie di svilupatoî e risorse mandæ pròprio inta teu cazella de pòsta.">
 <!ENTITY  aboutDevtools.newsletter.email.placeholder "Email">
 <!ENTITY  aboutDevtools.newsletter.privacy.label "Son d'acòrdio che Mozilla o manezze e mæ informaçioin comme spiegou inta <a class='external' href='https://www.mozilla.org/privacy/'>Politica da Privacy</a>.">
 <!ENTITY  aboutDevtools.newsletter.subscribeButton "Abon-ite">
