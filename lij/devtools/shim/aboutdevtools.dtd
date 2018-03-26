@@ -21,12 +21,17 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementTitle): Title of the top
   -  section displayed when devtools are disabled and the user triggered DevTools by using
   -  the Inspect Element menu item. -->
+<!ENTITY  aboutDevtools.enable.inspectElementTitle "Abilita Strumenti do svilupatô pe deuviâ Ispeçionn-a elemento">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementMessage): Message displayed
   -  when users come from using the Inspect Element menu item. -->
+<!ENTITY  aboutDevtools.enable.inspectElementMessage
+          "Ezamina e cangia HTML e CSS con l'ispetô di Strumenti do svilupatô.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.aboutDebuggingMessage): Message displayed
   -  when users come from about:debugging. -->
+<!ENTITY  aboutDevtools.enable.aboutDebuggingMessage
+          "Sviluppa e fanni o debug co-e WebExtensions, worker web, worker de serviçioe atro ancon graçie a-i Strumenti do svilopatô de Firefox.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.keyShortcutMessage): Message displayed when
   -  users pressed a DevTools key shortcut. -->
