@@ -154,3 +154,4 @@
 <!ENTITY PhotoURL.placeholder           "Vložte nebo vepište webovou adresu fotografie">
 <!ENTITY UpdatePhoto.label              "Aktualizovat">
 <!ENTITY UpdatePhoto.accesskey          "A">
+<!ENTITY PhotoDropTarget.label          "Sem přetáhněte novou fotku">
