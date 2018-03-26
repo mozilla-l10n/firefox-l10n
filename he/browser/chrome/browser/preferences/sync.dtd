@@ -70,15 +70,13 @@ both, to better adapt this sentence to their language.
 <!ENTITY verifiedManage.accesskey     "נ">
 <!ENTITY disconnect3.label            "התנתקות…">
 <!ENTITY disconnect3.accesskey        "ה">
-<!ENTITY verify.label                "אימות דואר אלקטרוני">
-<!ENTITY verify.accesskey            "א">
-<!ENTITY forget.label                "לשכוח מכתובת דואר אלקטרוני זו">
-<!ENTITY forget.accesskey            "ש">
-
 <!ENTITY resendVerification.label     "שליחת אימות מחדש">
 <!ENTITY resendVerification.accesskey "א">
 <!ENTITY cancelSetup.label            "ביטול ההתקנה">
 <!ENTITY cancelSetup.accesskey        "ק">
+
+<!ENTITY removeAccount.label          "הסרת חשבון">
+<!ENTITY removeAccount.accesskey      "ס">
 
 <!ENTITY signedOut.caption            "קחו את הרשת עמכם">
 <!ENTITY signedOut.description        "סנכרון הסימניות, ההיסטוריה, הלשוניות, הססמאות, ההרחבות, וההעדפות בין כל מכשיריך.">

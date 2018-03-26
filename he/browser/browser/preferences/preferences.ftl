@@ -45,6 +45,9 @@ policies-notice =
 pane-general-title = כללי
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = בית
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = חיפוש
 category-search =
     .tooltiptext = { pane-search-title }
@@ -286,9 +289,26 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = חלונות ולשוניות חדשים
+home-new-windows-tabs-description = נא לבחור מה ברצונך לראות בעת פתיחת דף הבית שלך, חלונות חדשים ולשוניות חדשות
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = דף הבית וחלונות חדשים
+home-newtabs-mode-label = לשוניות חדשות
+home-restore-defaults =
+    .label = שחזור ברירות מחדל
+    .accesskey = ש
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = דף הבית של Firefox (ברירת מחדל)
+home-mode-choice-custom =
+    .label = כתובות מותאמות אישית…
+home-mode-choice-blank =
+    .label = דף ריק
+home-homepage-custom-url =
+    .placeholder = נא להדביק כתובת…
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should

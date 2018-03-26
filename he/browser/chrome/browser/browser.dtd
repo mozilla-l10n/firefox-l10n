@@ -438,6 +438,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "חפש או הכנס כתובת">
+<!ENTITY urlbar.placeholder3          "נא להקליד כאן ביטויים לחיפוש וכתובות">
 <!ENTITY urlbar.accesskey             "ח">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "הרחבה:">
@@ -982,11 +983,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "הפעלה מחדש לעדכון &brandShorterName;">
 
 <!ENTITY newTabControlled.message "הרחבה שינתה את הדף הנראה בעת פתיחת לשונית חדשה. באפשרותך לשחזר את ההגדרות שלך אם שינוי זה אינו רצוי.">
+
 <!ENTITY newTabControlled.header.message "הלשונית החדשה שלך השתנתה.">
 <!ENTITY newTabControlled.keepButton.label "להשאיר שינויים">
 <!ENTITY newTabControlled.keepButton.accesskey "ש">
 <!ENTITY newTabControlled.restoreButton.label "לשחזר הגדרות">
 <!ENTITY newTabControlled.restoreButton.accesskey "ה">
+
+<!ENTITY newTabControlled.disableButton.label "נטרול הרחבה">
+<!ENTITY newTabControlled.disableButton.accesskey "נ">
 
 <!ENTITY pageActionButton.tooltip "פעולות דף">
 <!ENTITY pageAction.addToUrlbar.label "הוספה לשורת הכתובת">
