@@ -45,6 +45,9 @@ policies-notice =
 pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = Pagină de start
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = Căutare
 category-search =
     .tooltiptext = { pane-search-title }
@@ -232,8 +235,8 @@ update-application-manual =
     .label = Nu caute niciodată actualizări (nerecomandat)
     .accesskey = n
 update-application-use-service =
-    .label = Folosește serviciul care rulează în fundal pentru a instala actualizări
-    .accesskey = d
+    .label = Folosește un serviciul în fundal pentru a instala actualizări
+    .accesskey = b
 update-enable-search-update =
     .label = Actualizează automat motoarele de căutare
     .accesskey = e
@@ -287,9 +290,26 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = Ferestre și file noi
+home-new-windows-tabs-description = Alege ce vezi când deschizi pagina de start, ferestrele noi și filele noi
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Pagina de start și ferestrele noi
+home-newtabs-mode-label = File noi
+home-restore-defaults =
+    .label = Restaurează valorile implicite
+    .accesskey = R
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Pagina de start Firefox (Implicit)
+home-mode-choice-custom =
+    .label = URL-uri personalizate…
+home-mode-choice-blank =
+    .label = Pagină goală
+home-homepage-custom-url =
+    .placeholder = Lipește un URL…
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
