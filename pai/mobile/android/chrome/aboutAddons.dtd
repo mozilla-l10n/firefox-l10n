@@ -3,8 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAddons.title2                     "Ñumtyebu">
+<!ENTITY aboutAddons.header2                    "Maat mubtaru">
 
 <!ENTITY addonAction.enable                     "Msool">
+<!ENTITY addonAction.disable                    "Mtket">
+<!ENTITY addonAction.uninstall                  "Mujiñ">
+<!ENTITY addonAction.undo                       "Mŕmar">
 <!ENTITY addonAction.update                     "Chajana">
 
+<!ENTITY addonUnsigned.message                  "Maat mubtaru yak yoyay kos &brandShortName; kos ŕbotem kyaw yuk.">
 <!ENTITY addonUnsigned.learnMore                "Ŕporaab yuk">
