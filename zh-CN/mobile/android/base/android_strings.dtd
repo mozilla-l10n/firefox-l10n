@@ -58,7 +58,7 @@
 <!ENTITY  crash_reporter_title "&brandShortName; 崩溃报告器">
 <!ENTITY  crash_message2 "&brandShortName; 因某个问题而崩溃。下次启动 &brandShortName; 时，您的标签页将在开始页中列出。">
 <!ENTITY  crash_send_report_message3 "告知 &vendorShortName; 有关此次崩溃的情况，以便修复此问题">
-<!ENTITY  crash_include_url2 "包含当时访问页面的地址">
+<!ENTITY  crash_include_url2 "附上我当时在看页面的网址">
 <!ENTITY  crash_sorry "非常抱歉">
 <!ENTITY  crash_comment "附上说明（说明公开可见）">
 <!ENTITY  crash_allow_contact2 "允许 &vendorShortName; 就此报告与我联系">
@@ -422,7 +422,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; 健康报告">
 <!ENTITY datareporting_fhr_summary2 "帮助您了解浏览器的工作性能，并与 &vendorShortName; 分享您的浏览器健康状况。">
-<!ENTITY datareporting_abouthr_title "查看我的健康报告">
 <!ENTITY datareporting_telemetry_title "遥测技术">
 <!ENTITY datareporting_telemetry_summary "与 &vendorShortName; 分享您浏览器的工作性能、使用方式、硬件设备和有关定制的数据，帮助我们改进 &brandShortName;">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; 将会提交崩溃报告，帮助 &vendorShortName; 让您的浏览器更加稳定和安全">
