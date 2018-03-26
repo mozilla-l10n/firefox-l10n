@@ -76,6 +76,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY cancelSetup.accesskey        "p">
 
 <!ENTITY removeAccount.label          "Kkes amiḍan">
+<!ENTITY removeAccount.accesskey      "R">
 
 <!ENTITY signedOut.caption            "Awi web-inek yid-k">
 <!ENTITY signedOut.description        "Semtawi ticraḍ-inek n yisebtar, amazray, accaren, awalen uffiren, izegrar, akked yismenyifen d yibenkan-inek akk.">
