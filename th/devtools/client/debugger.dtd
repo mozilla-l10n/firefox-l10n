@@ -43,8 +43,8 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.autoPrettyPrint): This is the label for the
   -  checkbox that toggles auto pretty print. -->
-<!ENTITY debuggerUI.autoPrettyPrint     "จัดต้นฉบับที่ถูกย่อให้สวยงามโดยอัตโนมัติ">
-<!ENTITY debuggerUI.autoPrettyPrint.accesskey "P">
+<!ENTITY debuggerUI.autoPrettyPrint     "จัดต้นฉบับที่ถูกลดขนาดให้สวยงามอัตโนมัติ">
+<!ENTITY debuggerUI.autoPrettyPrint.accesskey "จ">
 
 <!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
   -  button that toggles all breakpoints for all sources. -->
@@ -165,6 +165,7 @@
   -  appears in the debugger's side pane tabs. -->
 <!ENTITY debuggerUI.tabs.workers        "ตัวทำงาน">
 <!ENTITY debuggerUI.tabs.sources        "แหล่งที่มา">
+<!ENTITY debuggerUI.tabs.traces         "การติดตาม">
 <!ENTITY debuggerUI.tabs.callstack      "สแตกการเรียก">
 <!ENTITY debuggerUI.tabs.variables      "ตัวแปร">
 <!ENTITY debuggerUI.tabs.events         "เหตุการณ์">
