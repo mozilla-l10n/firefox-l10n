@@ -87,7 +87,8 @@
 <!ENTITY lightning.imipbar.btnSend.tooltiptext                              "Saada vastus korraldajale">
 <!ENTITY lightning.imipbar.btnSendSeries.tooltiptext                        "Saada korraldajale vastus korduva sündmuse kohta">
 <!ENTITY lightning.imipbar.btnDontSend.label                                "Ära saada vastust">
-<!ENTITY lightning.imipbar.btnDontSend.tooltiptext                          "Muuda enda osalemise olekut korraldajale vastust saatmata">
+<!ENTITY lightning.imipbar.btnDontSend.tooltiptext                          "Muuda enda osalemist korraldajale vastust saatmata">
+<!ENTITY lightning.imipbar.btnDontSendSeries.tooltiptext                    "Muuda enda osalemist korduval sündmusel korraldajale vastust saatmata">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
