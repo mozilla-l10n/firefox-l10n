@@ -41,6 +41,8 @@ pane-general-title = Amatu
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Asebter agejdan
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = Nadi
 category-search =
     .tooltiptext = { pane-search-title }
@@ -282,13 +284,21 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = Isfuyla d iccaren imaynuten
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Asebter agejdan akked isfuyla imaynuten
 home-newtabs-mode-label = Iccer amaynut
 home-restore-defaults =
     .label = Err-d iɣewwaṛen imezwar
     .accesskey = R
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Asebter agejdan n Firefox
+home-mode-choice-custom =
+    .label = URLs iganen...
 home-mode-choice-blank =
     .label = Asebter ilem
 # This string has a special case for '1' and [other] (default). If necessary for
