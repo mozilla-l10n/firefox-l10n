@@ -172,12 +172,22 @@
 <!ENTITY calendar.context.copyevent.accesskey         "o">
 <!ENTITY calendar.context.pasteevent.label            "Yapıştır">
 <!ENTITY calendar.context.pasteevent.accesskey        "Y">
-<!ENTITY calendar.context.button.label                "Bugün paneli" >
-<!ENTITY calendar.context.button.accesskey            "B" >
-<!ENTITY calendar.context.attendance.menu.label       "Katılım" >
-<!ENTITY calendar.context.attendance.menu.accesskey   "ı" >
-<!ENTITY calendar.context.attendance.occurrence.label "Bu sefer" >
+<!ENTITY calendar.context.button.label                "Bugün paneli">
+<!ENTITY calendar.context.button.accesskey            "B">
+
+<!ENTITY calendar.context.attendance.menu.label                 "Katılım">
+<!ENTITY calendar.context.attendance.menu.accesskey             "ı">
+<!ENTITY calendar.context.attendance.occurrence.label           "Bu sefer">
 <!ENTITY calendar.context.attendance.all.label        "Her sefer" >
+
+<!ENTITY calendar.context.attendance.send.label                 "Şimdi bildirim gönder">
+<!ENTITY calendar.context.attendance.dontsend.label             "Bildirim gönderme">
+<!ENTITY calendar.context.attendance.dontsend.accesskey         "m">
+
+
+<!ENTITY calendar.context.attendance.all.accepted.label         "Kabul edildi">
+<!ENTITY calendar.context.attendance.all.declined.label         "Reddedildi">
+<!ENTITY calendar.context.attendance.all.completed.label        "Tamamlandı">
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "İlerleme">

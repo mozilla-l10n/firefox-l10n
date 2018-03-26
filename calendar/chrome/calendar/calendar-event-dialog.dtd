@@ -422,3 +422,5 @@
 <!ENTITY summary.dialog.saveclose.label         "Kaydet ve kapat">
 <!ENTITY summary.dialog.accept.label            "Kabul et">
 <!ENTITY summary.dialog.accept.tooltiptext      "Daveti kabul et">
+<!ENTITY summary.dialog.decline.label           "Reddet">
+<!ENTITY summary.dialog.decline.tooltiptext     "Daveti reddet">
