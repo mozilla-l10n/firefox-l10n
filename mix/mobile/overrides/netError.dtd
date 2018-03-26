@@ -104,6 +104,7 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 
 
 <!ENTITY remoteXUL.title "XUL remoto">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Saa ña mani katu'un nu ña ndasama sitio web tsaa ña niku yoo.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "Ma ku'u saa conectar ña">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
