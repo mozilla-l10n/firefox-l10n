@@ -845,7 +845,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Sincronizare">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Trage elementele favorite în bara de instrumente sau în meniul excedentar.">
-<!ENTITY customizeMode.restoreDefaults "Restabilește valorile implicite">
+<!ENTITY customizeMode.restoreDefaults "Restaurează valorile implicite">
 <!ENTITY customizeMode.done "Terminat">
 <!ENTITY customizeMode.titlebar "Bara de titlu">
 <!ENTITY customizeMode.extraDragSpace "Spațiu de tragere">

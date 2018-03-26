@@ -7,7 +7,7 @@
 <!ENTITY startupPage2.label        "Când &brandShortName; pornește:">
 <!ENTITY startupPage2.accesskey    "s">
 <!ENTITY startupUserHomePage.label "Arată pagina de start">
-<!ENTITY startupBlankPage.label    "Arată o pagină goală">
+<!ENTITY startupBlankPage.label    "Afișează o pagină goală">
 <!ENTITY startupPrevSession.label  "Arată ferestrele și filele de data trecută">
 
 <!ENTITY homepage2.label           "Pagină de start">
@@ -44,5 +44,3 @@
 <!ENTITY useFirefoxSync.label             "Pont: Acesta folosește profiluri separate. Folosește Sincronizare pentru a împărtăși datele între ele.">
 <!ENTITY getStarted.notloggedin.label     "Autentifică-te la &syncBrand.shortName.label;…">
 <!ENTITY getStarted.configured.label      "Deschide preferințele &syncBrand.shortName.label;">
-
-<!ENTITY e10sEnabled.label                "Activează funcționalitatea de multiprocese a &brandShortName;">
