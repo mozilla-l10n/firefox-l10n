@@ -46,6 +46,8 @@ pane-general-title = सामान्य
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = मुख्य
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = खोजें
 category-search =
     .tooltiptext = { pane-search-title }
@@ -288,6 +290,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = नया विंडोज और टैब
+home-new-windows-tabs-description = चुने की आप क्या देखेंगे जब आप अपना होमपेज, नयी विंडो, तथा नया टैब खोलेंगे
 
 ## Home Section - Home Page Customization
 
