@@ -2,6 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.title):
+     Please ensure this exactly matches tabs.emptyPrivateTabTitle in tabbrowser.properties -->
+<!ENTITY aboutPrivateBrowsing.title                      "निजी ब्राउजिङ्ग">
+<!ENTITY aboutPrivateBrowsing.notPrivate.title           "के तपाईँ निजि सञ्झ्याल खोल्न चाहनुहुन्छ?">
+
 <!ENTITY aboutPrivateBrowsing.notPrivate                 "तपाईँ अहिले निजी सञ्झ्याल हुनुहुन्न।">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "निजि संझ्याल खोल्नुहोस्">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
