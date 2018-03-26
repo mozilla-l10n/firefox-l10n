@@ -7,11 +7,10 @@
 <!ENTITY itemUpdate.label        "Actualizare">
 <!ENTITY itemNetworking.label    "Rețea și spațiu pe disc">
 <!ENTITY itemCertificates.label  "Certificate">
-<!-- General Settings -->
 
+<!-- General Settings -->
 <!ENTITY enableGlodaSearch.label       "Activează căutarea globală și indexarea">
 <!ENTITY enableGlodaSearch.accesskey   "i">
-
 <!ENTITY allowHWAccel.label            "Folosește accelerarea hardware când este disponibilă">
 <!ENTITY allowHWAccel.accesskey        "h">
 <!ENTITY storeType.label               "Tipul de stocare al mesajelor pentru conturile noi:">
@@ -38,8 +37,8 @@
 <!ENTITY returnReceiptsInfo.label      "Configurați cum gestionează &brandShortName; confirmările de primire">
 <!ENTITY showReturnReceipts.label      "Confirmări de primire…">
 <!ENTITY showReturnReceipts.accesskey  "r">
-<!-- Data Choices -->
 
+<!-- Data Choices -->
 <!ENTITY telemetrySection.label          "Telemetrie">
 <!ENTITY telemetryDesc.label             "Împărtășește date privind performanța, consumul, hardware-ul și personalizările browserului dumneavoastră cu &vendorShortName; pentru a ne ajuta să facem &brandShortName; mai bun">
 <!ENTITY enableTelemetry.label           "Activează telemetria">
@@ -51,6 +50,7 @@
 <!ENTITY enableCrashReporter.label       "Activează raportorul de defecțiuni">
 <!ENTITY enableCrashReporter.accesskey   "c">
 <!ENTITY crashReporterLearnMore.label    "Află mai multe">
+
 <!-- Update -->
 <!-- LOCALIZATION NOTE (updateApp.label):
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
@@ -72,10 +72,10 @@
 <!ENTITY updateHistory.label             "Afișează istoricul actualizărilor">
 <!ENTITY updateHistory.accesskey         "p">
 
-<!ENTITY useService.label                "Folosește serviciul care rulează în fundal pentru a instala actualizări">
+<!ENTITY useService.label                "Folosește un serviciul în fundal pentru a instala actualizări">
 <!ENTITY useService.accesskey            "s">
-<!-- Networking and Disk Space -->
 
+<!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Setări…">
 <!ENTITY showSettings.accesskey        "S">
 <!ENTITY proxiesConfigure.label        "Configurează modul în care &brandShortName; se conectează la internet">
@@ -89,22 +89,20 @@
 <!ENTITY offlineCompactFolders.label     "Compactează toate dosarele pentru a salva peste">
 <!ENTITY offlineCompactFolders.accesskey "C">
 <!ENTITY offlineCompactFoldersMB.label   "MB în total">
+
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-
 <!ENTITY useCacheBefore.label            "Utilizează până la">
 <!ENTITY useCacheBefore.accesskey        "U">
 <!ENTITY useCacheAfter.label             "MB de spațiu pentru cache">
-
-
 <!ENTITY clearCacheNow.label             "Șterge acum">
 <!ENTITY clearCacheNow.accesskey         "c">
-<!-- Certificates -->
 
+<!-- Certificates -->
 <!ENTITY certSelection.description       "Când un server cere certificatul meu personal:">
 <!ENTITY certs.auto                      "Selectează automat unul">
 <!ENTITY certs.auto.accesskey            "S">
