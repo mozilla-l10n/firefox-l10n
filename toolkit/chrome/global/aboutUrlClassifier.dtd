@@ -6,4 +6,5 @@
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "อัปเดต">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "แคช">
 <!ENTITY aboutUrlClassifier.cacheClearBtn               "ล้าง">
+<!ENTITY aboutUrlClassifier.cacheTableName              "ชื่อตาราง">
 <!ENTITY aboutUrlClassifier.debugTitle                  "ดีบั๊ก">
