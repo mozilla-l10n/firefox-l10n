@@ -2,14 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard.title          "Փոստարկղի կարգավորումներ">
+<!ENTITY autoconfigWizard2.title         "Տեղակայել էլ. փոստի առկա հաշիվ">
 <!ENTITY name.label                      "Ձեր անունը.">
 <!ENTITY name.accesskey                  "n">
 <!ENTITY name.placeholder                "Անուն ազգանուն">
 <!ENTITY name.text                       "Ձեր անունը, որը ցուցադրվելու է բոլորին">
 <!ENTITY email.label                     "Էլ. հասցեն.">
 <!ENTITY email.accesskey                 "l">
-<!ENTITY email.placeholder               "email@example.com">
+<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
+<!ENTITY email2.placeholder              "you@example.com">
+<!ENTITY email.text                      "Էլ. փոստի ձեր գործող հասցեն">
 <!ENTITY password.label                  "Գաղտնաբառ.">
 <!ENTITY password.accesskey              "P">
 <!ENTITY password.placeholder            "Գաղտնաբառ">
@@ -53,8 +55,8 @@
 <!ENTITY half-manual-test.accesskey      "t">
 <!ENTITY manual-edit.label               "Ձեռադիր կարգ.">
 <!ENTITY manual-edit.accesskey           "M">
-<!ENTITY switch-to-provisioner.label     "Նոր Փոստարկղ">
-<!ENTITY switch-to-provisioner.accesskey "Ն">
+<!ENTITY open-provisioner.label          "Ստանալ էլ. փոստի նոր հասցե…">
+<!ENTITY open-provisioner.accesskey      "g">
 
 
 <!ENTITY warning.label                   "Զգուշացում:">
