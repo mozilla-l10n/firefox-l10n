@@ -111,6 +111,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "पृष्ठ जानकारी">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.label "सजावट त्रुटिमोचक">
 <!ENTITY ldbCmd.accesskey "L">
 <!ENTITY mirrorTabCmd.label "मिरर ट्याब">
 <!ENTITY mirrorTabCmd.accesskey "M">
@@ -239,6 +240,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "तपाईँले यो वेबसाइटको लागि सूचनाहरू अवरुद्ध गर्नु भएको छ।">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "तपाईँले यो वेबसाइटको लागि लगातार भण्डारण अवरुद्ध गर्नु भएको छ।">
 <!ENTITY urlbar.popupBlocked.tooltip             "तपाईँले यो वेबसाइटको लागि पपअप अवरुद्ध गर्नु भएको छ|">
+<!ENTITY urlbar.canvasBlocked.tooltip            "तपाईँले यो वेबसाइटको लागि क्यानभस डाटाको निकास अवरुद्ध गर्नु भएको छ। ">
 
 <!ENTITY urlbar.midiBlocked.tooltip              "तपाईँले यो वेबसाइटको लागि MIDI अवरुद्ध गर्नु भएको छ। ">
 
@@ -978,11 +980,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "अद्यावधिक गर्न &brandShorterName; पुनःसुरु गर्नुहोस्">
 
+
 <!ENTITY newTabControlled.header.message "तपाईँको नया ट्याब परिवर्तन भएको छ।">
 <!ENTITY newTabControlled.keepButton.label "परिवर्तन राख्नुहोस">
 <!ENTITY newTabControlled.keepButton.accesskey "K">
 <!ENTITY newTabControlled.restoreButton.label "सेटिङ पुन:स्थापना गर्नुहोस्">
 <!ENTITY newTabControlled.restoreButton.accesskey "R">
+
+<!ENTITY newTabControlled.disableButton.label "एक्सटेन्सन अक्षम गर्नुहोस्">
+<!ENTITY newTabControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "पृष्ठ कार्यहरु">
 <!ENTITY pageAction.addToUrlbar.label "ठेगानापट्टिमा थप्नुहोस्">

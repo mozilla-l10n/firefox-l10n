@@ -82,6 +82,7 @@ search-results-sorry-message =
         [windows] माफ गर्नुहोस्! त्यहाँ “<span></span>” को लागि विकल्पहरूमा नतिजा छैन ।
        *[other] माफ गर्नुहोस्! त्यहाँ “<span></span>” को लागि प्राथमिकताहरूमा नतिजा छैन ।
     }
+search-results-need-help = सहयोग चाहियो? <a>{ -brand-short-name } सहयोग</a> भ्रमण गर्नुहोस्
 
 ## General Section
 
@@ -288,9 +289,25 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = नयाँ संझ्याल तथा ट्याबहरू
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = गृहपृष्ठ तथा नयाँ संझ्यालहरु
+home-newtabs-mode-label = नयाँ ट्याबहरु
+home-restore-defaults =
+    .label = पूर्वानिर्धारित अवस्थामा ल्याउनुहोस्
+    .accesskey = R 
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Firefox गृहपृष्ठ (पूर्वनिर्धारित)
+home-mode-choice-custom =
+    .label = अनुकूल URLहरू
+home-mode-choice-blank =
+    .label = खाली पृष्ठ
+home-homepage-custom-url =
+    .placeholder = URL पेस्ट गर्नुहोस्
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
