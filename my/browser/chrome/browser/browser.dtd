@@ -863,6 +863,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "အခင်းအကျင်းများကို နောက်ထပ်ရယူရန်">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 <!ENTITY customizeMode.overflowList.title2 "ပိုလျှံမီနူး">
+<!ENTITY customizeMode.overflowList.description "ကိရိယာဘားတန်းတွင် မဆံ့ပါက အလွယ်တကူ အသုံးပြုနိုင်ရန် ကိရိယာများကို ယခုနေရာထဲသို့ ကလစ်ဖိပြီး ဆွဲထည့်ပါ…">
 <!ENTITY customizeMode.uidensity "ကျစ်လျစ်မှု">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
@@ -973,6 +974,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "အသစ်စက်စက် &brandShorterName; ကို ဆွဲယူပါ">
 
+<!ENTITY updateRestart.message2 "အမြန်ပြန်လည်စတင်ခြင်း ဆောင်ရွက်ပြီးပါက &brandShorterName; သည် သီးသန့်ကြည့်ရှုခြင်းပုံစံဖြင့် အသုံးမပြုခဲ့သော တပ်ဗ်များနှင့် ဝင်းဒိုးများကို ပြန်ဖွင့်ပေးပါမည်။">
 <!ENTITY updateRestart.header.message2 "&brandShorterName; ကို အဆင့်မြှင့်ရန် ပြန်ဖွင့်ပါ။">
 <!ENTITY updateRestart.acceptButton.label "ပြန်စတင်ပြီး ကြည့်ရှုထားခဲ့သည်များကို ပြန်ဖွင့်ပါ။">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
@@ -980,7 +982,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName; ကို အဆင့်မြှင့်ရန် ပြန်ဖွင့်ပါ">
 
+<!ENTITY newTabControlled.message "တပ်ဗ်အသစ် ဖွင့်သောအခါ အိတ်စတန်းရှင်းသည် ကြည့်ရှုနေသော စာမျက်နှာကို ပြုပြင်ထားသည်။ ထိုသို့ပြုပြင်ထားခြင်းကို မနှစ်သက်ပါက မိမိအပြင်အဆင်အတိုင်း ပြန်လည် သတ်မှတ်နိုင်သည်။">
 
+<!ENTITY newTabControlled.header.message "တပ်ဗ်အသစ် ပုံစံပြောင်းပြီးပြီ။">
 <!ENTITY newTabControlled.keepButton.label "ပြောင်းလဲမှုများကို သိမ်းပါ">
 <!ENTITY newTabControlled.keepButton.accesskey "K">
 <!ENTITY newTabControlled.restoreButton.label "အပြင်အဆင်များကို မူလအတိုင်း ပြန်ထားပါ">
@@ -999,12 +1003,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.sendTabToDevice.label "တပ်ဗ်ကို ကိရိယာသို့ ပို့ပါ">
 <!ENTITY sendToDevice.syncNotReady.label "ကိရိယာများကို ထပ်တူပြုနေသည်…">
 
+<!ENTITY libraryButton.tooltip "မှတ်တမ်း၊ သိမ်းထားသည့် စာမှတ်များနှင့် အခြားစသည်တို့ကို ကြည့်ရှုရန်">
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
      used as a textual label for the indicator used by assistive technology
      users. -->
+<!ENTITY accessibilityIndicator.tooltip "သုံးစွဲနိုင်စွမ်းလုပ်ဆောင်ချက်များကို ဖွင့်ထားသည်">
 
 <!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
+<!ENTITY addonPostInstallMessage.label "<image class='addon-toolbar-icon'/> စာရင်းထဲရှိ <image class='addon-addon-icon'/> ကို နှိပ်ပြီး အတ်အွန်များကို စီမံပါ။">
