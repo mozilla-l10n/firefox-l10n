@@ -40,8 +40,11 @@
 <!ENTITY  acceptThirdParty2.pre.label     "ಮೂರನೇ ವ್ಯಕ್ತಿಯ ಕುಕಿಗಳನ್ನು ಅಂಗೀಕರಿಸು">
 <!ENTITY  acceptThirdParty2.pre.accesskey "y">
 
+<!ENTITY  acceptCookies4.accesskey      "A">
 
+<!ENTITY  blockCookies.accesskey        "B">
 
+<!ENTITY  acceptThirdParty3.pre.accesskey "y">
 <!ENTITY  acceptThirdParty.always.label   "ಯಾವಾಗಲೂ">
 <!ENTITY  acceptThirdParty.never.label    "ಎಂದಿಗೂ ಬೇಡ">
 <!ENTITY  acceptThirdParty.visited.label  "ಭೇಟಿ ಮಾಡಿದವುಗಳಿಂದ">
@@ -85,6 +88,7 @@
 <!ENTITY  dontrememberActions.clearHistory.label "ಸಹ ಅಳಿಸಲು ಬಯಸಬಹುದು">
 <!ENTITY  dontrememberActions.post.label         ".">
 
+<!ENTITY  clearHistoryButton.accesskey   "s">
 
 <!ENTITY  privateBrowsingPermanent2.label "ಯಾವಾಗಲೂ ಖಾಸಗಿ ವೀಕ್ಷಣೆ ಕ್ರಮವನ್ನು ಬಳಸು">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
