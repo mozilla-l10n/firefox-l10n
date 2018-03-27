@@ -21,7 +21,22 @@ pref-page =
 # is the name of the CSS property. It is intended only to adjust the element's width.
 # Do not translate.
 search-input =
-    .style = အကျယ် - ၁၅.၄အီးမမ်
+    .style = width: 15.4em
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] ရွေးစရာများထဲမှ ရှာပါ
+           *[other] နှစ်သက်ရာအပြင်အဆင်များထဲမှ ရှာပါ
+        }
 policies-notice =
     { PLATFORM() ->
         [windows] သင့် အဖွဲ့အစည်းမှ အခြားသော လုပ်ဆောင်ချက်များအား တားမြစ်ထားသည်
@@ -30,10 +45,13 @@ policies-notice =
 pane-general-title = အထွေထွေ
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = အဖွင့်စာမျက်နှာ
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = ရှာပါ
 category-search =
     .tooltiptext = { pane-search-title }
-pane-privacy-title = ကိုယ်ရေးကာကွယ်မှု & လုံခြုံမှု
+pane-privacy-title = ကိုယ်ရေးကာကွယ်မှု နှင့် လုံခြုံရေး
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 # The word "account" can be translated, do not translate or transliterate "Firefox".
@@ -44,7 +62,7 @@ help-button-label = { -brand-short-name } အထောက်အပံ့
 focus-search =
     .key = f
 close-button =
-    .aria-label = ပိတ်ပါ 
+    .aria-label = ပိတ်ပါ
 
 ## Browser Restart Dialog
 
@@ -58,6 +76,13 @@ restart-later = နောက်မှ ပြန်ဖွင့်ပါ
 ## Preferences UI Search Results
 
 search-results-header = ရှာဖွေမှု ရလဒ်များ
+# `<span></span>` will be replaced by the search term.
+search-results-sorry-message =
+    { PLATFORM() ->
+        [windows] ဝမ်းနည်းပါတယ်။ အပြင်အဆင်များထဲတွင် “<span></span>” အတွက် ရလဒ်များ မရှိပါ။
+       *[other] ဝမ်းနည်းပါတယ်။ နှစ်သက်ရာအပြင်အဆင်များထဲတွင် “<span></span>” အတွက် ရလဒ်များ မရှိပါ။
+    }
+search-results-need-help = အကူအညီ လိုအပ်ပါသလား။ <a>{ -brand-short-name }အထောက်အပံ့</a> တွင် ကြည့်ရှုပါ။
 
 ## General Section
 
@@ -65,7 +90,7 @@ startup-header = စတင်ခြင်း
 # { -brand-short-name } will be 'Firefox Developer Edition',
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
-    .label = { -brand-short-name } နှင့် မီးမြေခွေးတို့ကို တချိန်တည်းမှာ လုပ်ငန်းဆောင်ရွက်ခွင့် ပြုပါ
+    .label = { -brand-short-name } နှင့် Firefox တို့ကို တစ်ချိန်တည်းတွင် လုပ်ငန်းဆောင်ရွက်ခွင့် ပြုပါ
 use-firefox-sync = အရိပ်အမြွက်၊ မတူညီသည့် ပရိုဖိုင်းများကို အသုံးပြုပါသည်။ ထိုပရိုဖိုင်းများကြား အချက်အလက်မျှဝေရန် { -sync-brand-short-name } ကို အသုံးပြုပါ။
 get-started-not-logged-in = { -sync-brand-short-name } သို့ ဝင်ပါ…
 get-started-configured = { -sync-brand-short-name } ၏ အပြင်အဆင်များကို ဖွင့်ပါ
@@ -75,7 +100,7 @@ always-check-default =
 is-default = { -brand-short-name } သည် လက်ရှိတွင် ပုံသေဘရောက်ဇာ ဖြစ်ပါသည်
 is-not-default = { -brand-short-name } သည် ပုံသေဘရောက်ဇာ ဖြစ်မနေပါ
 set-as-my-default-browser =
-    .label = စံသတ်မှတ်
+    .label = စံသတ်မှတ်...
     .accesskey = D
 startup-page = { -brand-short-name } စတင်သောအခါ
     .accesskey = s
@@ -185,6 +210,7 @@ play-drm-content =
     .accesskey = p
 play-drm-content-learn-more = ပိုမိုလေ့လာရန်
 update-application-title = { -brand-short-name } မွမ်းမံမှုများ
+update-application-info = ဗားရှင်း { $version } <a>အသစ်များ</a>
 update-history =
     .label = မြှင့်တင်မှုမှတ်တမ်းကို ပြပါ…
     .accesskey = p
@@ -251,6 +277,9 @@ network-proxy-connection-settings =
 
 ## Home Section - Home Page Customization
 
+home-restore-defaults =
+    .label = မူလအတိုင်း ပြန်ထားပါ
+    .accesskey = R
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -284,6 +313,13 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = ရှာဖွေရေးအကြံပြုချက်များကို လိပ်စာဘားတန်းရလဒ်ထဲတွင် ပြသပါ
     .accesskey = i
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = ရှာဖွေခဲ့သောစာရင်းများထဲမှ အကြံပြုချက်များကို လိပ်စာဘားတန်းရလဒ်ထဲတွင် ပြသပါ
 search-suggestions-cant-show = ရှာဖွေရေးဘားတွင် ရှာဖွေမှု အကြံပြုချက်များကို ပြသမည်မဟုတ်ပါ။ မှတ်တမ်းများ မှတ်မထားရန် { -brand-short-name } ကို သတ်မှတ်ထားသောကြောင့် ဖြစ်သည်။
 search-one-click-header = ကလစ် တစ်ချက်နှိပ် ရှာဖွေရေးယန္တရားများ
 search-choose-engine-column =
@@ -307,6 +343,7 @@ search-keyword-warning-bookmark = လောလောဆယ် မှတ်သာ
 
 ## Containers Section
 
+containers-back-link = « နောက်သို့ ပြန်သွားပါ
 containers-header = ကွန်တိန်နာတပ်ဗ်များ
 containers-add-button =
     .label = ကွန်တိန်နာအသစ်ထပ်ထည့်ပါ
