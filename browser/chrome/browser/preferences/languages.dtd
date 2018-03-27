@@ -15,5 +15,4 @@
 <!ENTITY languages.customize.selectLanguage.label       "选择要添加的语言…">
 <!ENTITY languages.customize.addButton.label            "添加">
 <!ENTITY languages.customize.addButton.accesskey        "A">
-
-<!ENTITY languages.customize.spoofEnglish               "请求英文版网页以强化隐私">
+<!ENTITY languages.customize.spoofEnglish               "请求英文版网页，强化隐私保护">
