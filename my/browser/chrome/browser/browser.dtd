@@ -231,6 +231,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "စာမျက်နှာဘာသာပြန်ခြင်းကို စီမံခန့်ခွဲရန်">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM အပျော့ထည်များ အသုံးပြုခြင်းကို စီမံရန်">
 
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "MIDI ခလုတ်ခုံကို ဖွင့်ပါ">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "ယခုဝဘ်ဆိုက်အတွက် ကင်မရာအသုံးပြုခြင်းကို တားဆီးထားသည်။">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "ယခုဝဘ်ဆိုက်အတွက် မိုက္ကရိုဖုန်းအသုံးပြုခြင်းကို တားဆီးထားသည်။">
@@ -239,7 +240,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "ယခုဝဘ်ဆိုက်အတွက် အသိပေးချက်များပြသခြင်းကို တားဆီးထားသည်။">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "ယခုဝဘ်ဆိုက်အတွက် အချက်အလက်သိမ်းဆည်းခြင်းကို တားဆီးထားသည်။">
 <!ENTITY urlbar.popupBlocked.tooltip             "ယခုဝဘ်ဆိုက်အတွက် ကင်မရာအသုံးပြုခြင်းကို တားဆီးထားသည်။">
+<!ENTITY urlbar.canvasBlocked.tooltip            "ယခုဝဘ်ဆိုက်အတွက် canvas data extraction ကို တားဆီးထားသည်။">
 
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "ယခုဝဘ်ဆိုက်အတွက် Adobe Flash ပလက်အင်အသုံးပြုခြင်းကို တားဆီးထားသည်။">
+<!ENTITY urlbar.midiBlocked.tooltip              "ယခုဝဘ်ဆိုက်အတွက် MIDI အသုံးပြုခြင်းကို တားဆီးထားသည်။">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "မှတ်တမ်းကို ပြပါ">
 
@@ -434,6 +438,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "ရှာဖွေပါ (သို့) လိပ်စာရိုက်ပါ">
+<!ENTITY urlbar.placeholder3          "ရှာဖွေလိုသည့်စာလုံးများနှင့် လိပ်စာများကို ရိုက်ပါ">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "ထပ်ပေါင်းဆော့ဖ်ဝဲလ်။">
@@ -844,9 +849,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "တစ်ပြေးညီဖြစ်ရန်">
 
+<!ENTITY customizeMode.menuAndToolbars.header3 "စိတ်ကြိုက်ကိရိယာများကို ကိရိယာဘားတန်း သို့မဟုတ် ပိုလျှံမီနူးထဲသို့ ဆွဲထည့်ပါ။">
 <!ENTITY customizeMode.restoreDefaults "မူလအတိုင်း သတ်မှတ်ပါ">
 <!ENTITY customizeMode.done "ပြီးပြီ">
 <!ENTITY customizeMode.titlebar "ခေါင်းစီး ဘား">
+<!ENTITY customizeMode.extraDragSpace "နေရာလွတ်ဆွဲထည့်ရန်">
 <!ENTITY customizeMode.toolbars2 "ကိရိယာတန်းများ">
 <!ENTITY customizeMode.lwthemes "အခင်းအကျင်းများ">
 <!ENTITY customizeMode.lwthemes.myThemes "ကျွန်ုပ်၏ အခင်းအကျင်းများ">
@@ -855,6 +862,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "အခင်းအကျင်းများကို နောက်ထပ်ရယူရန်">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+<!ENTITY customizeMode.overflowList.title2 "ပိုလျှံမီနူး">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
 <!ENTITY customizeMode.uidensity.menuNormal.label "ပုံမှန်">

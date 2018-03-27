@@ -210,6 +210,7 @@ play-drm-content =
     .accesskey = p
 play-drm-content-learn-more = ပိုမိုလေ့လာရန်
 update-application-title = { -brand-short-name } မွမ်းမံမှုများ
+update-application-description = အကောင်းဆုံးစွမ်းရည်၊ တည်ငြိမ်မှုနှင့် လုံခြုံရေး ရရှိစေရန် { -brand-short-name } ကို နောက်ဆုံးပေါ် ဖြစ်စေပါ။
 update-application-info = ဗားရှင်း { $version } <a>အသစ်များ</a>
 update-history =
     .label = မြှင့်တင်မှုမှတ်တမ်းကို ပြပါ…
@@ -237,10 +238,15 @@ performance-title = စွမ်းဆောင်ရည်
 performance-use-recommended-settings-checkbox =
     .label = အကြံပြုထားသော စွမ်းဆောင်ရည်ဆိုင်ရာ အပြင်အဆင်ကို အသုံးပြုပါ
     .accesskey = u
+performance-use-recommended-settings-desc = ယခုအပြင်အဆင်များကို ကွန်ပျူတာ၏အမာထည်နှင့် လည်ပတ်စနစ်အရ သတ်မှတ်ထားခြင်း ဖြစ်သည်။
 performance-settings-learn-more = ပိုမိုလေ့လာရန်
 performance-allow-hw-accel =
     .label = ဖြစ်နိုင်လျှင် စက်ကိရိယာဖြင့် အရှိန်မြှင့်တင်ခြင်းကို အသုံးပြုပါ
     .accesskey = r
+performance-limit-content-process-option = အကြောင်းအရာပရောဆက်အကန့်အသတ်
+    .accesskey = I
+performance-limit-content-process-enabled-desc = ထပ်ပေါင်း အကြောင်းအရာပရောဆက်များသည် တပ်ဗ်များကို အသုံးပြုသောအခါ စွမ်းဆောင်ရည်ကို တိုးတက်စေသော်လည်း မှတ်ဉာဏ်ကို ပိုမိုအသုံးပြုသည်။
+performance-limit-content-process-disabled-desc = အကြောင်းအရာပရောဆက်များအရေအတွက်ကို ပြင်ဆင်ခြင်းသည် မာလ်တီပရောဆက်ပါဝင်သော { -brand-short-name } တွင်သာ ရရှိနိုင်သည်။ <a>မာလ်တီပရောဆက် အထောက်အပံ့ရ/မရ စစ်ဆေးနည်း လေ့လာရန်</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -267,6 +273,7 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
+network-proxy-title = ကွန်ယက်ကြားခံဆာဗာ
 network-proxy-connection-learn-more = ပိုမိုလေ့လာရန်
 network-proxy-connection-settings =
     .label = အပြင်အဆင်များ...
@@ -274,12 +281,26 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = ဝင်းဒိုးအသစ်နှင့် တပ်ဗ်အသစ်များ
+home-new-windows-tabs-description = အဖွင့်စာမျက်နှာ၊ ဝင်းဒိုးအသစ်များနှင့် တပ်ဗ်အသစ်များကို ဖွင့်သည့်အခါ ကြည့်ရှုလိုသည်များကို ရွေးချယ်ပါ။
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = အဖွင့်စာမျက်နှာနှင့် ဝင်းဒိုးအသစ်များ
+home-newtabs-mode-label = တပ်ဗ်အသစ်များ
 home-restore-defaults =
     .label = မူလအတိုင်း ပြန်ထားပါ
     .accesskey = R
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Firefox အဖွင့်စာမျက်နှာ (မူသေ)
+home-mode-choice-custom =
+    .label = စိတ်ကြိုက် URL များ...
+home-mode-choice-blank =
+    .label = စာမျက်နှာအလွတ်
+home-homepage-custom-url =
+    .placeholder = URL ကို ပွားယူပါ...
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -322,6 +343,7 @@ search-show-suggestions-above-history-option =
     .label = ရှာဖွေခဲ့သောစာရင်းများထဲမှ အကြံပြုချက်များကို လိပ်စာဘားတန်းရလဒ်ထဲတွင် ပြသပါ
 search-suggestions-cant-show = ရှာဖွေရေးဘားတွင် ရှာဖွေမှု အကြံပြုချက်များကို ပြသမည်မဟုတ်ပါ။ မှတ်တမ်းများ မှတ်မထားရန် { -brand-short-name } ကို သတ်မှတ်ထားသောကြောင့် ဖြစ်သည်။
 search-one-click-header = ကလစ် တစ်ချက်နှိပ် ရှာဖွေရေးယန္တရားများ
+search-one-click-desc = ပြောင်းလဲအသုံးပြုလိုသော ရှာဖွေရေးယန္တရားကို ရွေးချယ်ပါ။ ရှာဖွေလိုသောစာလုံးကို ရိုက်နှိပ်သောအခါ ၎င်းသည် လိပ်စာဘားတန်းနှင့် ရှာဖွေရေးဘားတန်းတို့ အောက်တွင် ပေါ်လာမည်။
 search-choose-engine-column =
     .label = ရှာဖွေရေးယန္တရား
 search-choose-keyword-column =
