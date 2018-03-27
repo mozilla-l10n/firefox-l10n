@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "မူလသတ်မှတ်ချက်အတိုင်း ပြန်ထားပါ">
 <!ENTITY restoreDefault.accesskey  "R">
 
+<!ENTITY disableExtension.label    "ပေါင်းထည့်တိုးချဲ့မှု ပိတ်ရန်">
+
 <!ENTITY downloads.label     "ဆွဲယူထားသည့် ဖိုင်များ">
 
 <!ENTITY saveTo.label "ဖိုင်များကို ထိုနေရာတွင် သိမ်းရန်">
@@ -33,8 +35,8 @@
 
 <!ENTITY alwaysCheckDefault2.label        "&brandShortName; သည် ပုံသေဘရောင်ဇာ ဟုတ်/မဟုတ် အမြဲစစ်ဆေးပါ">
 <!ENTITY alwaysCheckDefault2.accesskey    "y">
-<!ENTITY setAsMyDefaultBrowser2.label     "မူသေ သတ်မှတ်ရန်">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "D">
+<!ENTITY setAsMyDefaultBrowser3.label     "မူသေ သတ်မှတ်ရန် ...">
+<!ENTITY setAsMyDefaultBrowser3.accesskey "D">
 <!ENTITY isDefault.label                  "&brandShortName; သည် လက်ရှိတွင် ပုံသေဘရောက်ဇာ ဖြစ်ပါသည်">
 <!ENTITY isNotDefault.label               "&brandShortName; သည် ပုံသေဘရောက်ဇာ ဖြစ်မနေပါ">
 
@@ -42,5 +44,3 @@
 <!ENTITY useFirefoxSync.label             "အရိပ်အမြွက်၊ မတူညီသည့် ပရိုဖိုင်းများကို အသုံးပြုပါသည်။ ထိုပရိုဖိုင်းများကြား အချက်အလက်မျှဝေရန် Sync ကို အသုံးပြုပါ။">
 <!ENTITY getStarted.notloggedin.label     "&syncBrand.shortName.label; သို့ ဝင်ပါ…">
 <!ENTITY getStarted.configured.label      "&syncBrand.shortName.label; ၏ အပြင်အဆင်များကို ဖွင့်ပါ">
-
-<!ENTITY e10sEnabled.label                "&brandShortName; မာလ်တီ-ပရောဆက်ကို ဖွင့်ပါ">
