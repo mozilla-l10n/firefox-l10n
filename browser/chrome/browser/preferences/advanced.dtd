@@ -37,12 +37,15 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Մենք փորձում ենք տրամադրել ձեզ ընտրություն և հավաքել միայն այն ժամանակ, երբ մեզ պետք է տրամադրել և լավարկել &brandShortName;-ը բոլորի համար: ՄԵնք միշտ հարցնում ենք թույլտվությյուն՝ մինչև անձնական տեղեկություններ ստանալը:">
 <!ENTITY dataCollectionPrivacyNotice.label    "Գաղտնիության ծանուցում">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "Թույլատրել &brandShortName;-ին ուղարկել վթարի զեկույցներ Mozilla-ին">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+
 <!ENTITY collectBrowserErrors.label          "Թույլատրել &brandShortName;-ին ուղարկել դիտարկիչի սխալի զեկույցներ (այդ թվում՝ սխալի հաղորդագրությունները) Mozilla-ին">
 <!ENTITY collectBrowserErrors.accesskey      "b">
 <!ENTITY collectBrowserErrorsLearnMore.label "Իմանալ ավելին">
 
-<!ENTITY alwaysSubmitCrashReports1.label  "Թույլատրել &brandShortName;-ին ուղարկել վթարի զեկույցներ Mozilla-ին">
-<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+<!ENTITY sendBackloggedCrashReports.label  "Թույլատրե՞լ &brandShortName;-ին ուղարկել հետին վթարի զեկուցներ առանց հարցնելու:">
+<!ENTITY sendBackloggedCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Իմանալ ավելին">
 
 <!ENTITY networkTab.label                "Ցանցը">
@@ -50,8 +53,6 @@ available. -->
 <!ENTITY networkProxy.label              "Ցանցի պրոքսի">
 
 <!ENTITY connectionDesc.label            "Կարգավորեք համացանցին միանալու &brandShortName;-ի ցուցիչները">
-
-<!ENTITY connectionSettingsLearnMore.label "Իմանալ ավելին">
 <!ENTITY connectionSettings.label        "Կարգավորել...">
 <!ENTITY connectionSettings.accesskey    "ա">
 
@@ -63,6 +64,11 @@ available. -->
 <!ENTITY clearSiteData.accesskey         "ա">
 <!ENTITY siteDataSettings.label          "Կարգավորումներ...">
 <!ENTITY siteDataSettings.accesskey      "վ">
+<!ENTITY siteData1.label                 "Cookie-ներ և կայքի տվյալներ">
+<!ENTITY clearSiteData1.label            "Մաքրել տվյալները…">
+<!ENTITY clearSiteData1.accesskey        "l">
+<!ENTITY siteDataSettings1.label         "Կառավարել տվյալները…">
+<!ENTITY siteDataSettings1.accesskey     "M">
 <!ENTITY siteDataLearnMoreLink.label     "Իմանալ ավելին">
 
 <!-- LOCALIZATION NOTE:

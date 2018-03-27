@@ -3,9 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Կարգավորումներ՝ կայքի տվյալ">
+
+<!ENTITY     window2.title                 "Կառավարել Cookie-ները և կայքի տվյալները">
 <!ENTITY     hostCol.label                 "Կայքը">
 <!ENTITY     statusCol.label               "Կարգավիճակը">
+<!ENTITY     cookiesCol.label              "Cookie-ներ">
 <!ENTITY     usageCol.label                "Պահեստը">
+<!ENTITY     lastAccessedCol.label                "Վերջինը">
 <!ENTITY     searchTextboxPlaceHolder             "Որոնել կայքեր">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
 <!ENTITY     removeSelected.label          "Հեռացնել ընտրվածը">
@@ -17,3 +21,6 @@
 <!ENTITY     removingDialog.title          "Կայքի տվյալները հեռացվում են">
 <!ENTITY     removingSelected.description  "Կայքի տվյալների ջնջելու հետևանքով կջնջվեն նաև դրա հետ կապված cookie-ները և անցանց վեբ բովանդակությունը: Դա կարող է ձեզ դուրս գրել կայքերից: Կատարե՞լ:">
 <!ENTITY     siteTree2.label               "Հետևյալ կայքերի cookie-ները կջնջվեն:">
+<!ENTITY     removingDialog1.title         "Cookie-ների և կայքի տվյալների ջնջում">
+<!ENTITY     removingSelected1.description "Cookie-ների և կայքի տվյալների ջնջումը կարող է ձեզ դուրս բերել կայքերից: Կատարե՞լ:">
+<!ENTITY     siteTree3.label               "Cookie-ների և կայքերի տվյալները հետևյալ կայքերի համար կջնջվեն:">

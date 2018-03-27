@@ -111,6 +111,8 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "Էջի Մասին Տվյալներ">
 <!ENTITY pageInfoCmd.accesskey "վ">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.label "Դասավորության վրիպազերծում">
+<!ENTITY ldbCmd.accesskey "L">
 <!ENTITY mirrorTabCmd.label "Ներդիրի հայելապատճեն">
 <!ENTITY mirrorTabCmd.accesskey "Ն">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -125,6 +127,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Ցուցադրել բոլոր ներդիրները">
 <!ENTITY showAllTabsCmd.accesskey "բ">
 <!ENTITY toggleReaderMode.key "R">
+
+<!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "Մուտք գործել &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Բացել &syncBrand.shortName.label;-ի կարգավորումները">
@@ -227,6 +231,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Կառավարել էջի թարգմանությունը">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Կառավարել DRM ծրագրաշարի օգտագործումը">
 
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Բացել MIDI փեղկը">
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Դուք արգելափակել եք ձեր տեսախցիկը այս կայքի համար:">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Դուք արգելափակել եք բարձրախոսը այս կայքի համար:">
 <!ENTITY urlbar.screenBlocked.tooltip            "Դուք արգելափակել եք այս կայքը՝ ձեր էկրանի համօգտագործելուց:">
@@ -234,8 +240,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Դուք արգելափակել եք ծանուցումները այս կայքի համար:">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Դուք արգելափակել եք մշտական պահեստը այս կայքի համար:">
 <!ENTITY urlbar.popupBlocked.tooltip             "Դուք ունեք արգելափակված ելնող պատուհաններ այս կայքում:">
-
 <!ENTITY urlbar.canvasBlocked.tooltip            "Դուք արգելափակել եք canvas տվյալների դուրս բերումը այս կայքի համար:">
+
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "Դուք արգելափակել եք այս կայքը Adobe Flash բաղադրիչը օգտագործելուց:">
+<!ENTITY urlbar.midiBlocked.tooltip              "Դուք արգելափակել եք MIDI մատչումը այս կայքին:">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Ցուցադրել պատմությունը">
 
@@ -380,15 +388,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "Դեռ չկան համաժամեցված ներդիրներ:">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Ցանկանու՞մ եք տեսնել ձեր այլ սարքերի ներդիրները:">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Սինքի նախընտրանքներ">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Բացել Սինքի կարգավորումները">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Մուտք գործե՛ք՝ տեսնելու Ձեր այլ սարքերի ներդիրների ցանկը։">
 <!ENTITY appMenuRemoteTabs.unverified.label "Ձեր հաշիվը պետք է ստուգվի:">
 <!ENTITY appMenuRemoteTabs.signin.label "Մուտք գործել Սինք">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Կառավարել սարքերը…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Դիտել համաժամեցված ներդիրների Կողագոտին">
-
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Կապակցվել այլ սարքի">
 
 <!ENTITY appMenuRecentHighlights.label "Վերջին ընդգծւմները">
@@ -431,6 +438,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Մուտքագրեք կայքի հասցե կամ որոնում">
+<!ENTITY urlbar.placeholder3          "Մուտքագրեք որոնումը և հասցեները այստեղ">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Ընդլայնում՝">
@@ -797,7 +805,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Համաժամեցված ներդիրներ">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Մուտք գործե՛ք Firefox Ձեր այլ սարքերից՝ դրանց ներդիրներն այստեղ տեսնելու համար։">
-<!ENTITY syncedTabs.sidebar.noclients.title    "Դեռ չկան համաժամեցված ներդիրներ:">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Ցանկանու՞մ եք տեսնել ձեր այլ սարքերի ներդիրները:">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Մուտք գործե՛ք՝ տեսնելու Ձեր այլ սարքերից ավելացրած ներդիրների ցանկը։">
 <!ENTITY syncedTabs.sidebar.unverified.label   "Ձեր հաշիվը պետք է ստուգվի:">
@@ -807,7 +814,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Միացրեք ներդիրների համաժամեցումը՝ տեսնելու Ձեր այլ սարքերից ավելացրած ներդիրների ցանկը։">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Որոնել համաժամեցված ներդիրներ">
-
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Կապակցվել այլ սարքի">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
@@ -977,11 +983,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Վերամեկնարկեք՝ &brandShorterName;-ը՝ արդիացնելու համար">
 
 <!ENTITY newTabControlled.message "Ընդլայնումը փոխել է էջը, որը դուք տեսել եք Նոր Ներդիր բացելիս: Կարող եք վերականգնել ձեր կարգավորումները, եթե չեք ցանկանում սա փոխել:">
+
 <!ENTITY newTabControlled.header.message "Ձեր Նոր Ներդիրը փոխվել է:">
 <!ENTITY newTabControlled.keepButton.label "Պահել փոփոխությունները">
 <!ENTITY newTabControlled.keepButton.accesskey "K">
 <!ENTITY newTabControlled.restoreButton.label "Վերականգնել կարգավորումները">
 <!ENTITY newTabControlled.restoreButton.accesskey "R">
+
+<!ENTITY newTabControlled.disableButton.label "Անջատել ընդլայնումը">
+<!ENTITY newTabControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "Էջի գործույթները">
 <!ENTITY pageAction.addToUrlbar.label "Ավելացնել Հասցեագոտում">
@@ -1000,3 +1010,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "ՄԱտչելիության յուրահատկությունները միացված են">
+
+<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
+     The first <image> tag is replaced with the icon for the add-ons menu.
+     The second <image> tag is replaced with the icon for the toolbar menu. -->
+<!ENTITY addonPostInstallMessage.label "Կառավարեք ձեր հավելումները սեղմելով <image class='addon-addon-icon'/><image class='addon-toolbar-icon'/>ցանկին:">

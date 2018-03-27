@@ -40,6 +40,9 @@ search-input-box =
 pane-general-title = Ընդհանուր
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = Տուն
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = Որոնում
 category-search =
     .tooltiptext = { pane-search-title }
@@ -62,6 +65,7 @@ feature-enable-requires-restart = Այս հնարավորությունը միա
 feature-disable-requires-restart = Այս հնարավորությունը անջատելու համար վերաբացեք { -brand-short-name }-ը:
 should-restart-title = Վերամեկնարկել { -brand-short-name }-ը
 should-restart-ok = Վերամեկնարկել { -brand-short-name }-ը
+cancel-no-restart-button = Չեղարկել
 restart-later = Վերամեկնարկել հետո
 
 ## Preferences UI Search Results
@@ -280,9 +284,26 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = Նոր Պատուհաններ և Ներդիրներ
+home-new-windows-tabs-description = Ընտրեք, թե ինչ եք ցանկանում տեսնել տնային էջը, նոր պատուհաններ և նոր ներդիրներ բացելիս:
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Տուն էջ և նոր պատուհաններ
+home-newtabs-mode-label = Նոր Ներդիրներ
+home-restore-defaults =
+    .label = Վերականգնել ծրագրայինը
+    .accesskey = R
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Firefox-ի Տնային էջը
+home-mode-choice-custom =
+    .label = Հարմարեցված URL-ներ...
+home-mode-choice-blank =
+    .label = Դատարկ էջ
+home-homepage-custom-url =
+    .placeholder = Տեղադրել URL-ն...
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
