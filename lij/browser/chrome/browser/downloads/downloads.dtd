@@ -66,7 +66,7 @@
 <!ENTITY cmd.removeFromHistory.accesskey  "n">
 <!ENTITY cmd.clearList2.label             "Scancella Panello Anteprimma">
 <!ENTITY cmd.clearList2.accesskey         "a">
-<!ENTITY cmd.clearDownloads.label         "Cancella elenco descaregamenti">
+<!ENTITY cmd.clearDownloads.label         "Scancella elenco descaregamenti">
 <!ENTITY cmd.clearDownloads.accesskey     "n">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
      This command is shown in the context menu when downloads are blocked.
@@ -147,7 +147,7 @@
      -->
 <!ENTITY openDownloadsFolder.label        "Arvi Cartella Descaregamenti">
 
-<!ENTITY clearDownloadsButton.label       "Cancella elenco descaregamenti">
+<!ENTITY clearDownloadsButton.label       "Scancella elenco descaregamenti">
 <!ENTITY clearDownloadsButton.tooltip     "Scancella da l'elenco i descaregamenti conpletæ, anulæ ò no ariescii">
 
 <!-- LOCALIZATION NOTE (downloadsListEmpty.label):
