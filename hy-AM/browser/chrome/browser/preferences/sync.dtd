@@ -70,15 +70,13 @@ both, to better adapt this sentence to their language.
 <!ENTITY verifiedManage.accesskey     "o">
 <!ENTITY disconnect3.label            "Անջատել...">
 <!ENTITY disconnect3.accesskey        "Ա">
-<!ENTITY verify.label                "Հաստատել էլ. փոստը">
-<!ENTITY verify.accesskey            "Հ">
-<!ENTITY forget.label                "Մոռանալ այս էլ. փոստը">
-<!ENTITY forget.accesskey            "Մ">
-
 <!ENTITY resendVerification.label     "Կրկին ուղարկել հաստատումը">
 <!ENTITY resendVerification.accesskey "d">
 <!ENTITY cancelSetup.label            "Չեղարկել տեղադրումը">
 <!ENTITY cancelSetup.accesskey        "p">
+
+<!ENTITY removeAccount.label          "Ջնջել հաշիվը">
+<!ENTITY removeAccount.accesskey      "R">
 
 <!ENTITY signedOut.caption            "Ձեր վեբը Ձեզ հետ է">
 <!ENTITY signedOut.description        "Համաժամեցրեք ձեր բոլոր էջանիշերը, պատմությունը, ներդիրները, գաղտնաբաեռրը, հավելումները և կարգավորումները ձեր բոլոր սարքերի միջև:">

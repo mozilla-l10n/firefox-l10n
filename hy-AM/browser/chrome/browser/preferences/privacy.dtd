@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Հետագծման պաշտպանություն">
-<!ENTITY  trackingProtection2.description      "Հետագծումը դա ձեր դիտարկումների տվյալների հավաքումն է բազմաթիվ կայքերից: Այն կարող է օգտագործվել կառուցելու պրոֆիլ և ցուցադրելու բովանդակություն՝ ձեր դիտարկումների և անձնական տեղեկություների վրա հիմնված:">
-<!ENTITY  trackingProtection2.radioGroupLabel  "Օգտագործեք Հետագծման պաշտպանությունը՝ արգելափակելու հայտնի հետագծիչները">
 <!ENTITY  trackingProtection3.description      "Հետագծման պաշտպանությունը արգելափակում է առցանց հետագծումները, որոնք հավաքում են դիտարկումների ձեր տվյալները տարբեր կայքերում:">
 <!ENTITY  trackingProtection3.radioGroupLabel  "Օգտագործեք Հետագծման պաշտպանությունը՝ արգելափակելու հայտնի հետագծումները">
 <!ENTITY  trackingProtectionAlways.label       "Միշտ">
@@ -13,7 +11,6 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "ա">
 <!ENTITY  trackingProtectionNever.label        "Երբեք">
 <!ENTITY  trackingProtectionNever.accesskey    "Ե">
-<!ENTITY  trackingProtectionLearnMore.label    "Իմանալ ավելին">
 <!ENTITY  trackingProtectionLearnMore2.label    "Իմանալ ավելին ՀԵտագծման պաշտպանության և ձեր գաղտնիության մասին">
 <!ENTITY  trackingProtectionExceptions.label   "Բացառություններ…">
 <!ENTITY  trackingProtectionExceptions.accesskey "ա">
@@ -24,11 +21,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "Իմանալ ավելին">
 <!ENTITY changeBlockList2.label               "Փոխել Արգելացուցակը...">
 <!ENTITY changeBlockList2.accesskey           "C">
-
-<!ENTITY  doNotTrack.description        "Ուղարկել կայքերին “Չհետագծել“ ազդանշանը, որ դուք չեք ցանկանում հետագծվել">
-<!ENTITY  doNotTrack.learnMore.label    "Իմանալ ավելին">
-<!ENTITY  doNotTrack.default.label      "Միայն Հետագծման պաշտպանությունը օգտագործելիս">
-<!ENTITY  doNotTrack.always.label       "Միշտ">
 
 <!ENTITY  history.label                 "Պատմություն">
 <!ENTITY  permissions.label             "Թույլտվություններ">
@@ -51,6 +43,15 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "Ընդունել երրորդ կողմի cookie-ներ">
 <!ENTITY  acceptThirdParty2.pre.accesskey "y">
+
+<!ENTITY  acceptCookies4.label          "Ընդունել cookie-ներ և կայքի տվյալներ կայքերից (հանձնարարելի)">
+<!ENTITY  acceptCookies4.accesskey      "A">
+
+<!ENTITY  blockCookies.label            "Արգելափակել cookie-ները և կայքի տվյալները (կարող է հանգեցնել կայքերի ընդհատմանը)">
+<!ENTITY  blockCookies.accesskey        "B">
+
+<!ENTITY  acceptThirdParty3.pre.label     "Ընդունել երրորդ կողմի cookie-ները և կայքի տվյալները">
+<!ENTITY  acceptThirdParty3.pre.accesskey "y">
 <!ENTITY  acceptThirdParty.always.label   "Միշտ">
 <!ENTITY  acceptThirdParty.never.label    "Երբեք">
 <!ENTITY  acceptThirdParty.visited.label  "Այցելածներից">
@@ -85,6 +86,8 @@
 <!ENTITY  rememberActions.removeCookies.label "ջնջել անձնական cookie-ները">
 <!ENTITY  rememberActions.post.label          ".">
 
+<!ENTITY  rememberDescription1.label      "&brandShortName;-ը կհիշի դիտարկումների, ներբեռնումների, ձևերի և որոնումների պատմությունը:">
+
 <!ENTITY  dontrememberDescription.label  "&brandShortName;ը կօգտագործի գաղտնի դիտարկման կարգավումները և չի հիշի համացանցում ձեր դիտարկումների պատմությունը:">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
@@ -92,6 +95,9 @@
 <!ENTITY  dontrememberActions.pre.label          "Դուք նաև հնարավոր է ցանկանաք">
 <!ENTITY  dontrememberActions.clearHistory.label "մաքրել ողջ ընթացիկ պատմությունը">
 <!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  clearHistoryButton.label       "Մաքրել պատմությունը…">
+<!ENTITY  clearHistoryButton.accesskey   "s">
 
 <!ENTITY  privateBrowsingPermanent2.label "Միշտ օգտագործել Գաղտնի Դիտարկումը">
 <!ENTITY  privateBrowsingPermanent2.accesskey "Գ">
