@@ -85,8 +85,10 @@
 
 <!ENTITY lightning.imipbar.btnSend.label                                    "პასუხის ახლავე გაგზავნა">
 <!ENTITY lightning.imipbar.btnSend.tooltiptext                              "პასუხის ახლავე გაგზავნა ხელმძღვანელისთვის">
+<!ENTITY lightning.imipbar.btnSendSeries.tooltiptext                        "სრული რიგის შესახებ პასუხის გაგზავნა ხელმძღვანელისთვის">
 <!ENTITY lightning.imipbar.btnDontSend.label                                "პასუხის გაგზავნის გარეშე">
 <!ENTITY lightning.imipbar.btnDontSend.tooltiptext                          "მონაწილეობის შესახებ გადაწყვეტილების შეცვლა, ხელმძღვანელისთვის პასუხის გაგზავნის გარეშე">
+<!ENTITY lightning.imipbar.btnDontSendSeries.tooltiptext                    "მონაწილეობის შესახებ გადაწყვეტილების შეცვლა მთელი რიგი ღონისძიებებისთვის, ხელმძღვანელისთვის პასუხის გაგზავნის გარეშე">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
