@@ -420,7 +420,7 @@
 
 <!-- Summary dialog -->
 <!ENTITY summary.dialog.saveclose.label         "შენახვა და დახურვა">
-<!ENTITY summary.dialog.saveclose.tooltiptext   "ცვლილებების შენახვა და ფანჯრის დახურვა, მონაწილეობის მდგომარეობის შეცვლისა და პასუხის გაგზავნის გარეშე">
+<!ENTITY summary.dialog.saveclose.tooltiptext   "ცვლილებების შენახვა და ფანჯრის დახურვა, მონაწილეობის შესახებ გადაწყვეტილების შეცვლისა და პასუხის გაგზავნის გარეშე">
 <!ENTITY summary.dialog.accept.label            "მიღება">
 <!ENTITY summary.dialog.accept.tooltiptext      "მოწვევის მიღება">
 <!ENTITY summary.dialog.tentative.label         "სავარაუდო">
@@ -428,3 +428,6 @@
 <!ENTITY summary.dialog.decline.label           "უარყოფა">
 <!ENTITY summary.dialog.decline.tooltiptext     "მოწვევის უარყოფა">
 <!ENTITY summary.dialog.dontsend.label          "პასუხის გაგზავნის გარეშე">
+<!ENTITY summary.dialog.dontsend.tooltiptext    "მონაწილეობის შესახებ გადაწყვეტილების შეცვლა, ხელმძღვანელისთვის პასუხის გაგზავნის გარეშე და ფანჯრის დახურვა">
+<!ENTITY summary.dialog.send.label              "პასუხის ახლავე გაგზავნა">
+<!ENTITY summary.dialog.send.tooltiptext        "ხელმძღვანელისთვის პასუხის გაგზავნა  და ფანჯრის დახურვა">
