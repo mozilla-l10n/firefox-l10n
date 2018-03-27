@@ -398,6 +398,7 @@
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "ზოგადი">
 <!ENTITY read.only.title.label           "სათაური:">
+<!ENTITY read.only.calendar.label        "კალენდარი:">
 <!ENTITY read.only.event.start.label     "დაწყების თარიღი:">
 <!ENTITY read.only.task.start.label      "დაწყება:">
 <!ENTITY read.only.event.end.label       "დასრულების თარიღი:">
@@ -416,3 +417,14 @@
 <!ENTITY read.only.attendees.label       "დამსწრეები">
 <!ENTITY read.only.description.label     "აღწერილობა">
 <!ENTITY read.only.link.label            "დაკავშირებული ბმა">
+
+<!-- Summary dialog -->
+<!ENTITY summary.dialog.saveclose.label         "შენახვა და დახურვა">
+<!ENTITY summary.dialog.saveclose.tooltiptext   "ცვლილებების შენახვა და ფანჯრის დახურვა, მონაწილეობის მდგომარეობის შეცვლისა და პასუხის გაგზავნის გარეშე">
+<!ENTITY summary.dialog.accept.label            "მიღება">
+<!ENTITY summary.dialog.accept.tooltiptext      "მოწვევის მიღება">
+<!ENTITY summary.dialog.tentative.label         "სავარაუდო">
+<!ENTITY summary.dialog.tentative.tooltiptext   "მოწვევაზე სავარაუდო თანხმობის განცხადება">
+<!ENTITY summary.dialog.decline.label           "უარყოფა">
+<!ENTITY summary.dialog.decline.tooltiptext     "მოწვევის უარყოფა">
+<!ENTITY summary.dialog.dontsend.label          "პასუხის გაგზავნის გარეშე">

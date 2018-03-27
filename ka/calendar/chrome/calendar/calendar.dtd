@@ -172,12 +172,44 @@
 <!ENTITY calendar.context.copyevent.accesskey         "პ">
 <!ENTITY calendar.context.pasteevent.label            "ჩასმა">
 <!ENTITY calendar.context.pasteevent.accesskey        "ჩ">
-<!ENTITY calendar.context.button.label                "დღევანდელის სტენდი" >
-<!ENTITY calendar.context.button.accesskey            "T" >
-<!ENTITY calendar.context.attendance.menu.label       "დამსწრეები" >
-<!ENTITY calendar.context.attendance.menu.accesskey   "d" >
-<!ENTITY calendar.context.attendance.occurrence.label "ჩატარების თარიღი" >
+<!ENTITY calendar.context.button.label                "დღევანდელის სტენდი">
+<!ENTITY calendar.context.button.accesskey            "T">
+
+<!ENTITY calendar.context.attendance.menu.label                 "დამსწრეები">
+<!ENTITY calendar.context.attendance.menu.accesskey             "d">
+<!ENTITY calendar.context.attendance.occurrence.label           "ჩატარების თარიღი">
 <!ENTITY calendar.context.attendance.all.label        "განმეორებითი ჩატარების ყველა თარიღი" >
+
+<!ENTITY calendar.context.attendance.send.label                 "შეტყობინება ახლავე">
+<!ENTITY calendar.context.attendance.send.accesskey             "შ">
+<!ENTITY calendar.context.attendance.dontsend.label             "შეტყობინების გარეშე">
+<!ENTITY calendar.context.attendance.dontsend.accesskey         "გ">
+
+<!ENTITY calendar.context.attendance.occ.accepted.accesskey     "ი">
+<!ENTITY calendar.context.attendance.occ.accepted.label         "მიღებულია">
+<!ENTITY calendar.context.attendance.occ.tentative.accesskey    "მ">
+<!ENTITY calendar.context.attendance.occ.tentative.label        "სავარაუდოდ მიღებულია">
+<!ENTITY calendar.context.attendance.occ.declined.accesskey     "უ">
+<!ENTITY calendar.context.attendance.occ.declined.label         "უარყოფილია">
+<!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "კ">
+<!ENTITY calendar.context.attendance.occ.needsaction.label      "კვლავ საჭიროებს მოქმედებას">
+<!ENTITY calendar.context.attendance.occ.inprogress.accesskey   "ნ">
+<!ENTITY calendar.context.attendance.occ.inprogress.label       "მიმდინარეობს">
+<!ENTITY calendar.context.attendance.occ.completed.accesskey    "დ">
+<!ENTITY calendar.context.attendance.occ.completed.label        "დასრულებულია">
+
+<!ENTITY calendar.context.attendance.all.accepted.accesskey     "ღ">
+<!ENTITY calendar.context.attendance.all.accepted.label         "მიღებულია">
+<!ENTITY calendar.context.attendance.all.tentative.accesskey    "ვ">
+<!ENTITY calendar.context.attendance.all.tentative.label        "სავარაუდოდ მიღებულია">
+<!ENTITY calendar.context.attendance.all.declined.accesskey     "უ">
+<!ENTITY calendar.context.attendance.all.declined.label         "უარყოფილია">
+<!ENTITY calendar.context.attendance.all.needsaction.accesskey  "კ">
+<!ENTITY calendar.context.attendance.all.needsaction.label      "კვლავ საჭიროებს მოქმედებას">
+<!ENTITY calendar.context.attendance.all.inprogress.accesskey   "დ">
+<!ENTITY calendar.context.attendance.all.inprogress.label       "მიმდინარეობს">
+<!ENTITY calendar.context.attendance.all.completed.accesskey    "ლ">
+<!ENTITY calendar.context.attendance.all.completed.label        "დასრულებულია">
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "მიმდინარეობა">
