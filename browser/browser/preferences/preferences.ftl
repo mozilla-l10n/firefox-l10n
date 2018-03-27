@@ -40,6 +40,7 @@ search-input-box =
 pane-general-title = ಸಾಮಾನ್ಯ
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = ಮನೆ
 pane-search-title = ಹುಡುಕು
 category-search =
     .tooltiptext = { pane-search-title }
@@ -240,6 +241,9 @@ network-proxy-connection-settings =
 
 ## Home Section - Home Page Customization
 
+home-newtabs-mode-label = ಹೊಸ ಟ್ಯಾಬ್ ಗಳು
+home-mode-choice-blank =
+    .label = ಖಾಲಿ ಪುಟ
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
