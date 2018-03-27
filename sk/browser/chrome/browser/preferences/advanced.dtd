@@ -53,8 +53,6 @@ available. -->
 <!ENTITY networkProxy.label              "Nastavenie pripojenia">
 
 <!ENTITY connectionDesc.label            "Konfigurovať pripojenie aplikácie &brandShortName; k internetu">
-
-<!ENTITY connectionSettingsLearnMore.label "Ďalšie informácie">
 <!ENTITY connectionSettings.label        "Nastavenia…">
 <!ENTITY connectionSettings.accesskey    "N">
 
@@ -64,11 +62,13 @@ available. -->
 <!ENTITY siteData.label                  "Údaje stránok">
 <!ENTITY clearSiteData.label             "Vymazať všetky údaje">
 <!ENTITY clearSiteData.accesskey         "m">
+<!ENTITY siteDataSettings.label          "Nastavenia…">
+<!ENTITY siteDataSettings.accesskey      "i">
 <!ENTITY siteData1.label                 "Cookies a údaje stránok">
 <!ENTITY clearSiteData1.label            "Vymazať údaje…">
 <!ENTITY clearSiteData1.accesskey        "m">
-<!ENTITY siteDataSettings.label          "Nastavenia…">
-<!ENTITY siteDataSettings.accesskey      "i">
+<!ENTITY siteDataSettings1.label         "Spravovať údaje…">
+<!ENTITY siteDataSettings1.accesskey     "S">
 <!ENTITY siteDataLearnMoreLink.label     "Ďalšie informácie">
 
 <!-- LOCALIZATION NOTE:
