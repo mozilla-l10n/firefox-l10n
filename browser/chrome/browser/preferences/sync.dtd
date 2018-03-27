@@ -67,6 +67,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY resendVerification.accesskey "d">
 <!ENTITY cancelSetup.accesskey        "p">
 
+<!ENTITY removeAccount.label          "ಖಾತೆಯನ್ನು ತೆಗೆದುಹಾಕು">
+<!ENTITY removeAccount.accesskey      "R">
+
 <!ENTITY signedOut.caption            "ಜಾಲವನ್ನು ನಿಮ್ಮೊಂದಿಗೆ ಒಯ್ಯಿರಿ">
 <!ENTITY signedOut.description        "ನಿಮ್ಮ ಎಲ್ಲಾ ಸಾಧನಗಳ ಜೊತೆ ನಿಮ್ಮ ಪುಟಗುರುತುಗಳು, ಇತಿಹಾಸ, ಹಾಳೆ, ಪ್ರವೇಶ ಪದ, ಆಡ್-ಆನ್‌ಗಳು, ಮತ್ತು ಆದ್ಯತೆಗಳನ್ನು ಸಿಂಕ್ ಮಾಡಿ">
 <!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; ನೊಂದಿಗೆ ಸಂಪರ್ಕಿಸು">
