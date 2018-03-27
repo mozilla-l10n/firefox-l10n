@@ -242,6 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.popupBlocked.tooltip             "Pre túto stránku ste zablokovali vyskakovacie okná.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Tejto stránke ste zakázali prístup k údajom canvasu.">
 
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "Tejto stránke ste zablokovali možnosť používať zásuvný modul Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Tejto stránke ste zakázali prístup k MIDI.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Zobraziť históriu">
@@ -437,6 +438,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Zadajte adresu alebo výraz vyhľadávania">
+<!ENTITY urlbar.placeholder3          "Sem zadávajte výrazy vyhľadávania a adresy">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Rozšírenie:">
