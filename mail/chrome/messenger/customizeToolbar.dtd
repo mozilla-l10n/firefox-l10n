@@ -9,6 +9,7 @@
 <!ENTITY iconsAndText.label       "Pictogrammen en tekst">
 <!ENTITY icons.label              "Pictogrammen">
 <!ENTITY text.label               "Tekst">
+<!ENTITY iconsBesideText.label    "Pictogrammen naast tekst">
 <!ENTITY useSmallIcons.label      "Kleine pictogrammen">
 <!ENTITY restoreDefaultSet.label  "Standaardset herstellen">
 <!ENTITY addNewToolbar.label      "Nieuwe werkbalk">
