@@ -180,6 +180,7 @@
 <!ENTITY calendar.context.attendance.occurrence.label           "ჩატარების თარიღი">
 <!ENTITY calendar.context.attendance.all.label        "განმეორებითი ჩატარების ყველა თარიღი" >
 
+<!ENTITY calendar.context.attendance.all2.label                 "სრული რიგი">
 <!ENTITY calendar.context.attendance.send.label                 "შეტყობინება ახლავე">
 <!ENTITY calendar.context.attendance.send.accesskey             "შ">
 <!ENTITY calendar.context.attendance.dontsend.label             "შეტყობინების გარეშე">
@@ -191,6 +192,8 @@
 <!ENTITY calendar.context.attendance.occ.tentative.label        "სავარაუდოდ მიღებულია">
 <!ENTITY calendar.context.attendance.occ.declined.accesskey     "უ">
 <!ENTITY calendar.context.attendance.occ.declined.label         "უარყოფილია">
+<!ENTITY calendar.context.attendance.occ.delegated.accesskey    "წ">
+<!ENTITY calendar.context.attendance.occ.delegated.label        "წარმომადგენლისთვის გადაცემა">
 <!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "კ">
 <!ENTITY calendar.context.attendance.occ.needsaction.label      "კვლავ საჭიროებს მოქმედებას">
 <!ENTITY calendar.context.attendance.occ.inprogress.accesskey   "ნ">
@@ -204,6 +207,8 @@
 <!ENTITY calendar.context.attendance.all.tentative.label        "სავარაუდოდ მიღებულია">
 <!ENTITY calendar.context.attendance.all.declined.accesskey     "უ">
 <!ENTITY calendar.context.attendance.all.declined.label         "უარყოფილია">
+<!ENTITY calendar.context.attendance.all.delegated.accesskey    "ო">
+<!ENTITY calendar.context.attendance.all.delegated.label        "წარმომადგენლისთვისაა გადაცემული">
 <!ENTITY calendar.context.attendance.all.needsaction.accesskey  "კ">
 <!ENTITY calendar.context.attendance.all.needsaction.label      "კვლავ საჭიროებს მოქმედებას">
 <!ENTITY calendar.context.attendance.all.inprogress.accesskey   "დ">
