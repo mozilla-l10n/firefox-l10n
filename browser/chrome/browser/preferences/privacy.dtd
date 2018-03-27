@@ -81,9 +81,9 @@
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
 <!ENTITY  rememberActions.pre.label           "Ti peu voei ">
-<!ENTITY  rememberActions.clearHistory.label  "Scancelâ a stöia ciù neuva">
+<!ENTITY  rememberActions.clearHistory.label  "scancelâ a stöia ciù neuva">
 <!ENTITY  rememberActions.middle.label        ", ò ">
-<!ENTITY  rememberActions.removeCookies.label "scancelâ cookie scingoli">
+<!ENTITY  rememberActions.removeCookies.label "scancelâ cookie senci">
 <!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  rememberDescription1.label      "&brandShortName; o s'aregòrda de teu navegaçioin, descaregamenti e stöia de riçerche.">
