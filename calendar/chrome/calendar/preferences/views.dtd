@@ -37,3 +37,5 @@
 <!ENTITY pref.numberofweeks.4 "4 კვირა">
 <!ENTITY pref.numberofweeks.5 "5 კვირა">
 <!ENTITY pref.numberofweeks.6 "6 კვირა">
+<!ENTITY pref.showlocation.label "ადგილმდებარეობის ჩვენება">
+<!ENTITY pref.showlocation.accesskey "ლ">
