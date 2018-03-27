@@ -40,5 +40,12 @@
 
 <!ENTITY calendartype.label "კალენდრის სახეობა:">
 <!ENTITY location.label "მდებარეობა:">
+<!ENTITY location.placeholder "კალენდრის სერვერის URL ან ჰოსტის სახელი">
 
+<!ENTITY network.nocredentials.label "ეს მისამართი არ საჭიროებს ანგარიშის მონაცემებს">
+<!ENTITY network.loading.description "გთხოვთ, მოითმინოთ სანამ თქვენი კალენდრები მოინახება.">
+<!ENTITY network.notfound.description "ამ მისამართზე კალენდრები არ მოიძებნა. გთხოვთ, გადაამოწმოთ თქვენი პარამეტრები.">
+<!ENTITY network.authfail.description "თქვენ მიერ შეყვანილი ანგარიშის მონაცემები არაა მიღებული. გთხოვთ, გადაამოწმოთ თქვენი პარამეტრები.">
 
+<!ENTITY network.subscribe.single.description "გთხოვთ, მიუთითოთ კალენდრები, რომელთა გამოწერაც გსურთ.">
+<!ENTITY network.subscribe.multiple.description "ამ მისამართზე, მრავალი სხვადასხვა სახის კალენდარია ხელმისაწვდომი. გთხოვთ, აირჩიოთ სასურველი სახის კალენდარი და შემდეგ მონიშნოთ ის კალენდრები, რომელთა გამოწერაც გსურთ.">
