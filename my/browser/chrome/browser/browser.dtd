@@ -863,6 +863,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "အခင်းအကျင်းများကို နောက်ထပ်ရယူရန်">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 <!ENTITY customizeMode.overflowList.title2 "ပိုလျှံမီနူး">
+<!ENTITY customizeMode.uidensity "ကျစ်လျစ်မှု">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
 <!ENTITY customizeMode.uidensity.menuNormal.label "ပုံမှန်">
@@ -881,6 +882,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.label "တို့ထိပုံစံ">
 <!ENTITY customizeMode.uidensity.menuTouch.tooltip "တို့ထိပုံစံ">
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "သင်ပုန်းစက်အတွက် တို့ထိပုံစံကို ပြောင်းသုံးပါ">
 
 <!ENTITY customizeMode.autoHideDownloadsButton.label "အလိုအလျောက်ပိတ်ရန်">
 
