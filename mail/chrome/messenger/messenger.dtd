@@ -36,6 +36,12 @@
 <!ENTITY newFeedAccountCmd.accesskey "F">
 <!ENTITY newIMContactCmd.label "Chatcontact…">
 <!ENTITY newIMContactCmd.accesskey "h">
+<!ENTITY  newMessageCmd2.key "N">
+<!ENTITY  newMessageCmd.key "M">
+<!ENTITY  newMessageCmd.label "Bericht">
+<!ENTITY  newMessageCmd.accesskey "B">
+<!ENTITY  newContactCmd.label "Adresboekcontact…">
+<!ENTITY  newContactCmd.accesskey "s">
 <!ENTITY openMessageFileCmd.label "Opgeslagen bericht openen…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY saveAsMenu.label "Opslaan als">
