@@ -76,6 +76,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY cancelSetup.accesskey        "r">
 
 <!ENTITY removeAccount.label          "Odstrani račun">
+<!ENTITY removeAccount.accesskey      "O">
 
 <!ENTITY signedOut.caption            "Ponesite svoj splet s seboj">
 <!ENTITY signedOut.description        "Sinhronizirajte zaznamke, zgodovino, zavihke, gesla, dodatke in nastavitve vseh vaših naprav.">
