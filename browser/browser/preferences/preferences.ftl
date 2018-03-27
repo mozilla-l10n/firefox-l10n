@@ -14,8 +14,12 @@ pref-page =
             [windows] Možnosti
            *[other] Nastavitve
         }
-# This string is currently used only in Firefox 60 and will be removed when not
-# needed for x-channel. See bug 1445686 for details.
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
 search-input =
     .style = width: 15.4em
 # This is used to determine the width of the search field in about:preferences,
@@ -41,7 +45,7 @@ policies-notice =
 pane-general-title = Splošno
 category-general =
     .tooltiptext = { pane-general-title }
-pane-home-title = Domov
+pane-home-title = Domača stran
 pane-search-title = Iskanje
 category-search =
     .tooltiptext = { pane-search-title }
@@ -293,12 +297,8 @@ home-new-windows-tabs-header = Nova okna in zavihki
 
 home-homepage-mode-label = Domača stran in nova okna
 home-newtabs-mode-label = Novi zavihki
-home-mode-choice-custom =
-    .label = URL-ji po meri ...
 home-mode-choice-blank =
     .label = Prazna stran
-home-homepage-custom-url =
-    .placeholder = Prilepi URL ...
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
