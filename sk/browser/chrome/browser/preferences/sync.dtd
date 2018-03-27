@@ -75,6 +75,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY cancelSetup.label            "Zrušiť nastavenie">
 <!ENTITY cancelSetup.accesskey        "e">
 
+<!ENTITY removeAccount.label          "Odstrániť účet">
+<!ENTITY removeAccount.accesskey      "r">
+
 <!ENTITY signedOut.caption            "Vezmite si svoj web so sebou">
 <!ENTITY signedOut.description        "Synchronizujte si svoje záložky, históriu, karty, heslá, doplnky a nastavenia so všetkými svojimi zariadeniami.">
 <!ENTITY signedOut.accountBox.title   "Pripojte sa k službe &syncBrand.fxAccount.label;">
