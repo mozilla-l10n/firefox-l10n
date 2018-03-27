@@ -46,6 +46,8 @@ pane-general-title = Splošno
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Domača stran
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = Iskanje
 category-search =
     .tooltiptext = { pane-search-title }
@@ -292,13 +294,25 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Nova okna in zavihki
+home-new-windows-tabs-description = Izberite, kaj naj se prikaže, ko odprete domačo stran, novo okno ali nov zavihek
 
 ## Home Section - Home Page Customization
 
 home-homepage-mode-label = Domača stran in nova okna
 home-newtabs-mode-label = Novi zavihki
+home-restore-defaults =
+    .label = Obnovi privzeto
+    .accesskey = O
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Domača stran Firefoxa (privzeto)
+home-mode-choice-custom =
+    .label = Spletne strani po meri ...
 home-mode-choice-blank =
     .label = Prazna stran
+home-homepage-custom-url =
+    .placeholder = Prilepite spletni naslov ...
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
