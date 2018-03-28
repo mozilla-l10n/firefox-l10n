@@ -40,6 +40,9 @@ search-input-box =
 pane-general-title = Algemien
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = Startside
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = Sykje
 category-search =
     .tooltiptext = { pane-search-title }
@@ -281,6 +284,7 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = Nije finsters en ljepblêden
 
 ## Home Section - Home Page Customization
 
