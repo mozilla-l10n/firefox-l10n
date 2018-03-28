@@ -13,5 +13,9 @@
 <!ENTITY aboutPage.support.label                "Tpeebu">
 <!ENTITY aboutPage.privacyPolicy.label          "Jabchu kyaaw chwichu">
 <!ENTITY aboutPage.rights.label                 "Mir mir mwi mŕpo">
+<!ENTITY aboutPage.relNotes.label               "Tñurch baam kyaak">
+<!ENTITY aboutPage.credits.label                "Chkmaru">
+<!ENTITY aboutPage.license.label                "Tñuur kbwik chamch">
 
 <!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
+<!ENTITY aboutPage.logoTrademark                "Firefox ee logotiip wihay ŕumul hay payt tñurkyok ya fundacion Mozilla ha wi.">
