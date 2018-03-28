@@ -1014,3 +1014,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
+<!ENTITY addonPostInstallMessage.label "अपने ऐड-ऑन को प्रबंधित करें <image class='addon-addon-icon'/> मेनू में <image class='addon-toolbar-icon'/> क्लिक कर.">
