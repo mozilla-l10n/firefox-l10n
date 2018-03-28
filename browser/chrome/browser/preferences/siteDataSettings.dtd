@@ -4,6 +4,7 @@
 
 <!ENTITY     window.title                  "Stillingar - Gögn vefsvæðis">
 
+<!ENTITY     window2.title                 "Sýsla með smákökur og gögn vefsvæðis">
 <!ENTITY     hostCol.label                 "Vefsvæði">
 <!ENTITY     statusCol.label               "Staða">
 <!ENTITY     cookiesCol.label              "Smákökur">
