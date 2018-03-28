@@ -37,6 +37,8 @@
 <!ENTITY healthReportLearnMore.label "Więcej informacji">
 <!ENTITY alwaysSubmitCrashReports1.label "Przesyłanie raportów z awarii do Mozilli.">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "e">
+<!ENTITY sendBackloggedCrashReports.label "Przesyłanie zgromadzonych raportów z awarii.">
+<!ENTITY sendBackloggedCrashReports.accesskey "">
 <!ENTITY crashReporterLearnMore.label "Więcej informacji">
 
 <!ENTITY networkTab.label                "Sieć">
