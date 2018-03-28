@@ -37,9 +37,17 @@ search-input-box =
             [windows] Trobar en Opcions
            *[other] Trobar en Preferencias
         }
+policies-notice =
+    { PLATFORM() ->
+        [windows] La tuya organización ha desactivau la posibilidat de cambiar bellas opcions.
+       *[other] La tuya organización ha desactivau la posibilidat de cambiar bellas preferencias.
+    }
 pane-general-title = Cheneral
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = Inicio
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = Mirar
 category-search =
     .tooltiptext = { pane-search-title }
@@ -281,9 +289,26 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = Nuevas finestras y pestanyas
+home-new-windows-tabs-description = Tría lo que se veye quan ubres la pachina d'inicio, nuevas finestras u nuevas pestanyas
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Pachina d'inicio y nuevas finestras
+home-newtabs-mode-label = Nuevas pestanyas
+home-restore-defaults =
+    .label = Restaurar valors per defecto
+    .accesskey = R
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Inicio de Firefox
+home-mode-choice-custom =
+    .label = URL personalizadas…
+home-mode-choice-blank =
+    .label = Pachina en blanco
+home-homepage-custom-url =
+    .placeholder = Apega una URL…
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
