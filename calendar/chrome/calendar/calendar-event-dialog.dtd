@@ -424,5 +424,10 @@
 <!ENTITY summary.dialog.accept.label            "接受">
 <!ENTITY summary.dialog.accept.tooltiptext      "接受邀请">
 <!ENTITY summary.dialog.tentative.label         "暂定">
+<!ENTITY summary.dialog.tentative.tooltiptext   "暂时接受邀请">
 <!ENTITY summary.dialog.decline.label           "拒绝">
+<!ENTITY summary.dialog.decline.tooltiptext     "拒绝邀请">
 <!ENTITY summary.dialog.dontsend.label          "不要发送回复">
+<!ENTITY summary.dialog.dontsend.tooltiptext    "变更您的参与状态而不发送回复给组织者，并关闭窗口">
+<!ENTITY summary.dialog.send.label              "立刻发送回复">
+<!ENTITY summary.dialog.send.tooltiptext        "发送回复给组织者，并关闭窗口">
