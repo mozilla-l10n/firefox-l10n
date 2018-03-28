@@ -11,10 +11,19 @@ a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
 <!ENTITY certerror.pagetitle  "Chpach chu kos tupeech yutem">
+<!ENTITY certerror.longpagetitle "Chpach chu ya kos jantpaay">
 
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara1 "Firefox m' k ka janu <b>#1</b> mtublich hikyawa, yuso kos knaab yutem ñubyu o kabyuwuha.">
 
+<!ENTITY certerror.whatShouldIDo.heading "Ñukwee kabawiha?">
+<!ENTITY certerror.whatShouldIDo.content "Naam t't'or janu yak mtblich myus, yuso chamch yakyoya, pichtem ñika aay sal mtket kunuum, sakyaaw kos mnkyuch yutem.">
+<!ENTITY certerror.getMeOutOfHere.label "Yak muchpach!">
 
+<!ENTITY certerror.expert.heading "Gupruha ŕpo">
+<!ENTITY certerror.expert.content "Chkjkee ha mŕpo myus &brandShortName; mukunab kyaw yukchach chu yak yoya kos mishetem hikyawa. <b> Yuso chpach chu yak kyakya janmi myuso, ch chamchu yakyoya pichtem nika ay mchpachu hal jaabk' amume. </b>">
+<!ENTITY certerror.expert.contentPara2 "Kos jabchu tpaay sal mchiyitem, o piculim mŕpohmyus sa jpir sal mchmii, kos maat ŕupoobukjan tem kabyuso.">
+<!ENTITY certerror.addTemporaryException.label "Jabchu num mkweek">
 
