@@ -70,15 +70,13 @@ both, to better adapt this sentence to their language.
 <!ENTITY verifiedManage.accesskey     "h">
 <!ENTITY disconnect3.label            "Ferbining ferbrekke…">
 <!ENTITY disconnect3.accesskey        "b">
-<!ENTITY verify.label                "E-mail ferifiearje">
-<!ENTITY verify.accesskey            "E">
-<!ENTITY forget.label                "Ferjit dizze e-mail">
-<!ENTITY forget.accesskey            "F">
-
 <!ENTITY resendVerification.label     "Ferifikaasje opnij ferstjoere">
 <!ENTITY resendVerification.accesskey "f">
 <!ENTITY cancelSetup.label            "Konfiguraasje annulearje">
 <!ENTITY cancelSetup.accesskey        "a">
+
+<!ENTITY removeAccount.label          "Account fuortsmite">
+<!ENTITY removeAccount.accesskey      "A">
 
 <!ENTITY signedOut.caption            "Nim jo web mei jo mei">
 <!ENTITY signedOut.description        "Syngronisearje jo blêdwizers, skiednis, ljepblêden, wachtwurden, add-ons en foarkarren op al jo apparaten.">

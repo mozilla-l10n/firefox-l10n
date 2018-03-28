@@ -438,6 +438,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Fier in sykterm of adres yn">
+<!ENTITY urlbar.placeholder3          "Fier hjir jo sykterm en adres yn">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Utwreiding:">
@@ -989,6 +990,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.restoreButton.label "Ynstellingen weromsette">
 <!ENTITY newTabControlled.restoreButton.accesskey "Y">
 
+<!ENTITY newTabControlled.disableButton.label "Utwreiding útskeakelje">
+<!ENTITY newTabControlled.disableButton.accesskey "U">
 
 <!ENTITY pageActionButton.tooltip "Side-aksjes">
 <!ENTITY pageAction.addToUrlbar.label "Tafoegje oan adresbalke">
