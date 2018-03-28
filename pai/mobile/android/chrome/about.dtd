@@ -2,5 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "&brandShortName; ham nyaam">
+<!ENTITY aboutPage.warningVersion               "&brandShortName; hay chkŕmeech lubyumyus kos bwaa kwatem.">
+<!ENTITY aboutPage.checkForUpdates.link         "Yak chmich ŕmee »">
+<!ENTITY aboutPage.checkForUpdates.checking     "Chŕmee kwa…">
+<!ENTITY aboutPage.checkForUpdates.none         "Kos yak chajanch yoo tem">
+<!ENTITY aboutPage.checkForUpdates.available2   "Yak chmiich unaal">
+<!ENTITY aboutPage.checkForUpdates.downloading  "Chwunaal kwa…">
 
 <!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
