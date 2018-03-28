@@ -88,6 +88,17 @@
 <!ENTITY reorderAttachmentsCmd.label "Zmeniť usporiadanie príloh…">
 <!ENTITY reorderAttachmentsCmd.accesskey "s">
 <!ENTITY reorderAttachmentsCmd.key "x">
+<!ENTITY toggleAttachmentPaneCmd.label "Panel príloh">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
+     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
+     as attachments.accesskey. -->
+<!ENTITY toggleAttachmentPaneCmd.accesskey "p">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
+     With OS-specific access modifier, this defines the shortcut key for showing/
+     hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
+     toggleAttachmentPaneCmd.key and attachments.accesskey must be the same
+     for the bucket view state machinery to work. -->
+<!ENTITY toggleAttachmentPaneCmd.key "m">
 <!ENTITY selectAllCmd.label "Vybrať všetko">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
@@ -109,26 +120,10 @@
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Zmeniť usporiadanie príloh">
 <!ENTITY moveAttachmentTopPanelBtn.label "Presunúť nahor">
-<!ENTITY moveAttachmentTopPanelBtn.accesskey "n">
 <!ENTITY moveAttachmentUpPanelBtn.label "Presunúť vyššie">
-<!ENTITY moveAttachmentUpPanelBtn.accesskey "v">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Presunúť spolu">
-<!ENTITY moveAttachmentBundleUpPanelBtn.accesskey "s">
 <!ENTITY moveAttachmentDownPanelBtn.label "Presunúť nižšie">
-<!ENTITY moveAttachmentDownPanelBtn.accesskey "e">
 <!ENTITY moveAttachmentBottomPanelBtn.label "Presunúť nadol">
-<!ENTITY moveAttachmentBottomPanelBtn.accesskey "d">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.label):
-     Please ensure that this translation matches
-     sortAttachmentsTogglePanelBtn.ZA.label, except for the sort direction. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.label "Usporiadať výber od A do Z">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.accesskey):
-     This accesskey should be the same like
-     sortAttachmentsTogglePanelBtn.ZA.accesskey, and it should be taken from
-     the "Sort Selection:" part of the label, not from the sort direction part. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.accesskey "o">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.label "Usporiadať výber od Z do A">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.accesskey "o">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -274,9 +269,12 @@
 <!ENTITY followupAddr.label "Pokračovať na:">
 <!ENTITY subject.label "Predmet:">
 <!ENTITY subject.accesskey "d">
-<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
-     to the strings in attachmentCount in composeMsgs.properties -->
+<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
+     be taken from the strings in attachmentCount in composeMsgs.properties,
+     and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
+     work, as the shortcut key functionality supersedes the access key. -->
 <!ENTITY attachments.accesskey "h">
+
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Vložiť emotikon">
@@ -314,6 +312,7 @@
 <!ENTITY pasteQuote.label "Prilepiť ako citát">
 <!ENTITY pasteQuote.accesskey "c">
 
+<!-- Attachment Item and List Context Menus -->
 <!ENTITY openAttachment.label "Otvoriť">
 <!ENTITY openAttachment.accesskey "O">
 <!ENTITY delete.label "Odstrániť">
@@ -338,6 +337,11 @@
 <!ENTITY convertRegularAttachment.accesskey "K">
 <!ENTITY attachPage.label "Priložiť webovú stránku…">
 <!ENTITY attachPage.accesskey "w">
+
+<!-- Attachment Pane Header Bar Context Menu -->
+<!-- LOCALIZATION NOTE (initiallyShowAttachmentPane.label):
+     Should use the same wording as startExpandedCmd.label
+     in msgHdrViewOverlay.dtd. -->
 
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Pridať slovníky…">
