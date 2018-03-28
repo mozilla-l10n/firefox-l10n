@@ -12,3 +12,5 @@
 <!ENTITY copiesFoldersTab.label "Kopiot ja kansiot">
 <!ENTITY addressingTab.label    "Kirjoittaminen ja osoitteet">
 
+<!ENTITY publicData.label        "Julkiset tiedot">
+<!ENTITY privateData.label       "Yksityiset tiedot">
