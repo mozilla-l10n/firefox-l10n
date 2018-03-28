@@ -84,6 +84,11 @@
 <!ENTITY lightning.imipbar.description                                      "本信息包含一个事件的邀请。">
 
 <!ENTITY lightning.imipbar.btnSend.label                                    "立刻发送回复">
+<!ENTITY lightning.imipbar.btnSend.tooltiptext                              "发送回复给组织者">
+<!ENTITY lightning.imipbar.btnSendSeries.tooltiptext                        "发送针对整个系列的回复给组织者">
+<!ENTITY lightning.imipbar.btnDontSend.label                                "不要发送回复">
+<!ENTITY lightning.imipbar.btnDontSend.tooltiptext                          "变更您的参与状态，而不发送回复给组织者">
+<!ENTITY lightning.imipbar.btnDontSendSeries.tooltiptext                    "变更您在整个系列活动的参与状态，而不发送回复给组织者">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">

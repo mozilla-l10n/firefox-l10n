@@ -193,7 +193,7 @@
 <!ENTITY calendar.context.attendance.occ.declined.accesskey     "c">
 <!ENTITY calendar.context.attendance.occ.declined.label         "已拒绝">
 <!ENTITY calendar.context.attendance.occ.delegated.accesskey    "g">
-<!ENTITY calendar.context.attendance.occ.delegated.label        "已指派">
+<!ENTITY calendar.context.attendance.occ.delegated.label        "已委托他人">
 <!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "S">
 <!ENTITY calendar.context.attendance.occ.needsaction.label      "尚须处理">
 <!ENTITY calendar.context.attendance.occ.inprogress.accesskey   "I">
@@ -208,7 +208,7 @@
 <!ENTITY calendar.context.attendance.all.declined.accesskey     "d">
 <!ENTITY calendar.context.attendance.all.declined.label         "已拒绝">
 <!ENTITY calendar.context.attendance.all.delegated.accesskey    "l">
-<!ENTITY calendar.context.attendance.all.delegated.label        "已指派">
+<!ENTITY calendar.context.attendance.all.delegated.label        "已委托他人">
 <!ENTITY calendar.context.attendance.all.needsaction.accesskey  "l">
 <!ENTITY calendar.context.attendance.all.needsaction.label      "尚须处理">
 <!ENTITY calendar.context.attendance.all.inprogress.accesskey   "p">
