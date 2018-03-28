@@ -285,9 +285,25 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Nije finsters en ljepblêden
+home-new-windows-tabs-description = Kieze wat jo sjen wolle by it iepenjen fan jo starside, nije finsters en nije ljepblêden
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Startside en nije finsters
+home-newtabs-mode-label = Nije ljepblêden
+home-restore-defaults =
+    .label = Standert werstelle
+    .accesskey = w
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Firefox-startside (Standert)
+home-mode-choice-custom =
+    .label = Oanpaste URL's
+home-mode-choice-blank =
+    .label = Lege side
+home-homepage-custom-url =
+    .placeholder = Plak in URL…
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
