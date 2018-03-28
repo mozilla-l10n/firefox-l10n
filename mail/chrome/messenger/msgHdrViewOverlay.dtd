@@ -72,7 +72,7 @@
 <!ENTITY otherActionsPrint1.accesskey "T">
 
 <!-- Attachment bar context menu items -->
-<!ENTITY startExpandedCmd.label    "Zobrazovať rozbalený panel s prílohami">
+<!ENTITY startExpandedCmd.label    "Zobrazovať panel príloh">
 <!ENTITY startExpandedCmd.accesskey    "Z">
 
 <!-- Attachment context menu items -->
