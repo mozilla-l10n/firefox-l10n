@@ -8,6 +8,7 @@
 <!ENTITY statusCol.label "Status">
 <!ENTITY cookiesCol.label "Ciasteczka">
 <!ENTITY usageCol.label "Rozmiar">
+<!ENTITY lastAccessedCol.label "Ostatni dostęp">
 <!ENTITY searchTextboxPlaceHolder "Szukaj witryny">
 <!ENTITY searchTextboxPlaceHolder.accesskey "S">
 <!ENTITY removeSelected.label "Usuń zaznaczone">
