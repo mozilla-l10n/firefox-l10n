@@ -52,6 +52,8 @@
 <!ENTITY siteData.label "Dane stron">
 <!ENTITY clearSiteData.label "Wyczyść wszystkie dane">
 <!ENTITY clearSiteData.accesskey "a">
+<!ENTITY clearSiteData1.label "Wyczyść dane">
+<!ENTITY clearSiteData1.accesskey "a">
 <!ENTITY siteDataSettings.label "Ustawienia…">
 <!ENTITY siteDataSettings.accesskey "U">
 <!ENTITY siteDataLearnMoreLink.label "Więcej informacji">
