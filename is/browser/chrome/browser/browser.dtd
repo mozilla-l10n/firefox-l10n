@@ -990,6 +990,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.restoreButton.label "Endurheimta stillingar">
 <!ENTITY newTabControlled.restoreButton.accesskey "r">
 
+<!ENTITY newTabControlled.disableButton.label "Slökkva á viðbót">
+<!ENTITY newTabControlled.disableButton.accesskey "ð">
 
 <!ENTITY pageActionButton.tooltip "Síðu aðgerðir">
 <!ENTITY pageAction.addToUrlbar.label "Bæta við í staðfestingarslá">
