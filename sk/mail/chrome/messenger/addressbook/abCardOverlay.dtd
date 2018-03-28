@@ -66,7 +66,7 @@
 <!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "Mesto:">
 <!ENTITY HomeCity.accesskey             "M">
-<!ENTITY HomeState.label                "Štát:">
+<!ENTITY HomeState.label                "Kraj:">
 <!ENTITY HomeState.accesskey            "t">
 <!ENTITY HomeZipCode.label              "PSČ:">
 <!ENTITY HomeZipCode.accesskey          "P">
@@ -96,7 +96,7 @@
 <!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label                 "Mesto:">
 <!ENTITY WorkCity.accesskey             "M">
-<!ENTITY WorkState.label                "Štát:">
+<!ENTITY WorkState.label                "Kraj:">
 <!ENTITY WorkState.accesskey            "t">
 <!ENTITY WorkZipCode.label              "PSČ:">
 <!ENTITY WorkZipCode.accesskey          "P">
