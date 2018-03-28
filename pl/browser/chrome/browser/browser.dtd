@@ -795,3 +795,5 @@
 <!ENTITY libraryButton.tooltip "Wyświetl historię, zapisane zakładki i jeszcze więcej">
 
 <!ENTITY accessibilityIndicator.tooltip "Aktywne usługi ułatwień dostępu">
+
+<!ENTITY addonPostInstallMessage.label "Zarządzaj dodatkami klikając <image class='addon-addon-icon'/> w menu <image class='addon-toolbar-icon'/>.">
