@@ -150,6 +150,10 @@ because displayed names don't have the comma in between. -->
 <!ENTITY propertiesContext.accesskey                    "i">
 <!ENTITY abPropertiesContext.label                      "Ominaisuudet">
 <!ENTITY abPropertiesContext.accesskey                  "i">
+<!ENTITY editContactContext.label                       "Muokkaa yhteyshenkilöä">
+<!ENTITY editContactContext.accesskey                   "M">
+<!ENTITY editMailingListContext.label                   "Muokkaa listaa">
+<!ENTITY editMailingListContext.accesskey               "u">
 <!ENTITY newmsgButton.label                             "Lähetä">
 <!ENTITY newmsgButton.accesskey                         "L">
 <!ENTITY newIM.label                                    "Pikaviesti">
@@ -162,6 +166,10 @@ because displayed names don't have the comma in between. -->
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Luo uusi yhteystieto osoitekirjaan">
 <!ENTITY newlistButton.tooltip                          "Luo uusi lista">
+<!ENTITY editPropertiesButton.tooltip                   "Muokkaa valittua kohdetta">
+<!ENTITY editAbPropertiesButton.tooltip                 "Muokkaa valitun osoitekirjan ominaisuuksia">
+<!ENTITY editContactPropertiesButton.tooltip            "Muokkaa valittua yhteyshenkilöä">
+<!ENTITY editMailingListPropertiesButton.tooltip        "Muokkaa valittua postituslistaa">
 <!ENTITY newmsgButton.tooltip                           "Lähetä sähköpostia">
 <!ENTITY newIM.tooltip                                  "Lähetä pikaviesti tai keskustele">
 <!ENTITY deleteButton2.tooltip                          "Poista valittu tieto">
