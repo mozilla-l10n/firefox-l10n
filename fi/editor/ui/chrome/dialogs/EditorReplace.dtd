@@ -4,23 +4,24 @@
 
 <!-- extracted from EdReplace.xul -->
 
-<!ENTITY replaceDialog.title  "Etsi ja korvaa">
-<!ENTITY findField.label  "Etsi:">
-<!ENTITY findField.accesskey  "E">
-<!ENTITY replaceField.label  "Korvaava teksti:">
-<!ENTITY replaceField.accesskey  "K">
-<!ENTITY caseSensitiveCheckbox.label  "Huomioi kirjainkoko">
-<!ENTITY caseSensitiveCheckbox.accesskey  "H">
-<!ENTITY wrapCheckbox.label  "Kierrä lopusta alkuun">
-<!ENTITY wrapCheckbox.accesskey  "e">
-<!ENTITY backwardsCheckbox.label  "Etsi taaksepäin">
-<!ENTITY backwardsCheckbox.accesskey  "t">
-<!ENTITY findNextButton.label  "Etsi seuraava">
-<!ENTITY findNextButton.accesskey  "s">
-<!ENTITY replaceButton.label  "Korvaa">
-<!ENTITY replaceButton.accesskey  "K">
-<!ENTITY replaceAndFindButton.label  "Korvaa ja etsi">
-<!ENTITY replaceAndFindButton.accesskey  "o">
-<!ENTITY replaceAllButton.label  "Korvaa kaikki">
-<!ENTITY replaceAllButton.accesskey  "r">
-<!ENTITY closeButton.label  "Sulje">
+<!ENTITY replaceDialog.title "Etsi ja korvaa">
+<!ENTITY findField.label "Etsi:">
+<!ENTITY findField.accesskey "E">
+<!ENTITY replaceField.label "Korvaava teksti:">
+<!ENTITY replaceField.accesskey "K">
+<!ENTITY caseSensitiveCheckbox.label "Huomioi kirjainkoko">
+<!ENTITY caseSensitiveCheckbox.accesskey "H">
+<!ENTITY wrapCheckbox.label "Kierrä lopusta alkuun">
+<!ENTITY wrapCheckbox.accesskey "e">
+<!ENTITY backwardsCheckbox.label "Etsi taaksepäin">
+<!ENTITY backwardsCheckbox.accesskey "t">
+<!ENTITY findNextButton.label "Etsi seuraava">
+<!ENTITY findNextButton.accesskey "s">
+<!ENTITY replaceButton.label "Korvaa">
+<!ENTITY replaceButton.accesskey "K">
+<!ENTITY replaceAndFindButton.label "Korvaa ja etsi">
+<!ENTITY replaceAndFindButton.accesskey "o">
+<!ENTITY replaceAllButton.label "Korvaa kaikki">
+<!ENTITY replaceAllButton.accesskey "r">
+<!ENTITY closeButton.label "Sulje">
+<!ENTITY closeButton.accesskey "S">
