@@ -30,3 +30,8 @@
 <!ENTITY manageCerts2.accesskey "V">
 <!ENTITY manageDevices.label "Turvallisuuslaitteet">
 <!ENTITY manageDevices.accesskey "T">
+
+<!-- Strings for the cert picker dialog -->
+<!ENTITY certPicker.title "Valitse varmenne">
+<!ENTITY certPicker.info  "Varmenne:">
+<!ENTITY certPicker.detailsLabel "Valitun varmenteen yksityiskohdat:">
