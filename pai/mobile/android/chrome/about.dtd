@@ -8,5 +8,10 @@
 <!ENTITY aboutPage.checkForUpdates.none         "Kos yak chajanch yoo tem">
 <!ENTITY aboutPage.checkForUpdates.available2   "Yak chmiich unaal">
 <!ENTITY aboutPage.checkForUpdates.downloading  "Chwunaal kwa…">
+<!ENTITY aboutPage.checkForUpdates.downloaded2  "Baam chyaak chmii">
+<!ENTITY aboutPage.faq.label                    "Ch chwiibch teraab">
+<!ENTITY aboutPage.support.label                "Tpeebu">
+<!ENTITY aboutPage.privacyPolicy.label          "Jabchu kyaaw chwichu">
+<!ENTITY aboutPage.rights.label                 "Mir mir mwi mŕpo">
 
 <!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
