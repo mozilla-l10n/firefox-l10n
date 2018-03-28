@@ -17,7 +17,7 @@
 <!ENTITY translation.translate.button           "Tradu">
 <!ENTITY translation.notNow.button              "Nu acum">
 
-<!ENTITY translation.translatingContent.label   "Traduc conținutul paginii…">
+<!ENTITY translation.translatingContent.label   "Se traduce conținutul paginii…">
 
 <!-- LOCALIZATION NOTE (translation.translatedFrom.label,
   -                     translation.translatedTo.label,
