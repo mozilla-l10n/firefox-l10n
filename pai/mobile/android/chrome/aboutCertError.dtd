@@ -26,4 +26,6 @@ was trying to connect. -->
 <!ENTITY certerror.expert.content "Chkjkee ha mŕpo myus &brandShortName; mukunab kyaw yukchach chu yak yoya kos mishetem hikyawa. <b> Yuso chpach chu yak kyakya janmi myuso, ch chamchu yakyoya pichtem nika ay mchpachu hal jaabk' amume. </b>">
 <!ENTITY certerror.expert.contentPara2 "Kos jabchu tpaay sal mchiyitem, o piculim mŕpohmyus sa jpir sal mchmii, kos maat ŕupoobukjan tem kabyuso.">
 <!ENTITY certerror.addTemporaryException.label "Jabchu num mkweek">
+<!ENTITY certerror.addPermanentException.label "Ñumyaabchtpaay pichtem sal">
 
+<!ENTITY certerror.technical.heading "Chpayt ñumtrchech chu">

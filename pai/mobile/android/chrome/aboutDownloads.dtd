@@ -3,6 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutDownloads.title                      "Unalch">
+<!ENTITY aboutDownloads.header                     "Chapayt munalu">
+<!ENTITY aboutDownloads.empty                      "Kos chunalch pem">
 
+<!ENTITY aboutDownloads.open                       "Sol">
+<!ENTITY aboutDownloads.remove                     "Ujiñ">
+<!ENTITY aboutDownloads.removeAll                  "Payrum ujiñ">
 <!ENTITY aboutDownloads.pause                      "Tksee">
+<!ENTITY aboutDownloads.resume                     "Tkweek namaan">
 <!ENTITY aboutDownloads.cancel                     "tubspach">
+<!ENTITY aboutDownloads.retry                      "Tweek mwiyi">
