@@ -19,5 +19,7 @@
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
+<!ENTITY privatebrowsingpage.description.normal2 "Amchu tpayha, kos m'amuha sal pichtem ñwak cookies ha ya. Ŕkirchu sal mchkwahay ñwak tñur sal mchkwahaypayt dispositiiv hal picha.">
 
 <!ENTITY privatebrowsingpage.link.private "Chaterab mŕpoolmate?">
+<!ENTITY privatebrowsingpage.link.normal "Tlur chkwachu jabchtoaay msol">
