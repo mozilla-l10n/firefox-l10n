@@ -37,3 +37,5 @@
 <!ENTITY pref.numberofweeks.4 "4 тижні">
 <!ENTITY pref.numberofweeks.5 "5 тижнів">
 <!ENTITY pref.numberofweeks.6 "6 тижнів">
+<!ENTITY pref.showlocation.label "Показати розташування">
+<!ENTITY pref.showlocation.accesskey "ш">
