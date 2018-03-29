@@ -398,6 +398,7 @@
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Загальне">
 <!ENTITY read.only.title.label           "Назва:">
+<!ENTITY read.only.calendar.label        "Календар:">
 <!ENTITY read.only.event.start.label     "Дата початку:">
 <!ENTITY read.only.task.start.label      "Дата початку:">
 <!ENTITY read.only.event.end.label       "Дата завершення:">
@@ -416,3 +417,17 @@
 <!ENTITY read.only.attendees.label       "Учасники">
 <!ENTITY read.only.description.label     "Опис">
 <!ENTITY read.only.link.label            "Посилання">
+
+<!-- Summary dialog -->
+<!ENTITY summary.dialog.saveclose.label         "Зберегти й закрити">
+<!ENTITY summary.dialog.saveclose.tooltiptext   "Зберегти зміни й закрити вікно без зміни статусу участі та надсилання відповіді">
+<!ENTITY summary.dialog.accept.label            "Прийняти">
+<!ENTITY summary.dialog.accept.tooltiptext      "Прийняти запрошення">
+<!ENTITY summary.dialog.tentative.label         "Під сумнівом">
+<!ENTITY summary.dialog.tentative.tooltiptext   "Прийняти запрошення під сумнівом">
+<!ENTITY summary.dialog.decline.label           "Відхилити">
+<!ENTITY summary.dialog.decline.tooltiptext     "Відхилити запрошення">
+<!ENTITY summary.dialog.dontsend.label          "Не надсилати відповідь">
+<!ENTITY summary.dialog.dontsend.tooltiptext    "Змінити статус участі без надсилання відповіді організатору і закрити вікно">
+<!ENTITY summary.dialog.send.label              "Надіслати відповідь зараз">
+<!ENTITY summary.dialog.send.tooltiptext        "Надіслати відповідь організатору  і закрити вікно">
