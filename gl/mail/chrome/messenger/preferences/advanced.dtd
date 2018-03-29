@@ -15,8 +15,8 @@
 <!ENTITY allowHWAccel.accesskey        "h">
 <!ENTITY storeType.label               "Tipo de almacenamento de mensaxes para as novas contas:">
 <!ENTITY storeType.accesskey           "T">
-<!ENTITY mboxStore2.label              "Ficheiro por cartafol (mbox)">
-<!ENTITY maildirStore.label            "Ficheiros por mensaxe (maildir)">
+<!ENTITY mboxStore2.label              "Un ficheiro por cartafol (mbox)">
+<!ENTITY maildirStore.label            "Un ficheiro por mensaxe (maildir)">
 
 <!ENTITY scrolling.label               "Desprazamento">
 <!ENTITY useAutoScroll.label           "Utilizar desprazamento automático">
@@ -52,15 +52,22 @@
 <!ENTITY crashReporterLearnMore.label    "Máis información">
 
 <!-- Update -->
-<!ENTITY updateApp.label                 "Actualizacións do &brandShortName;:">
+<!-- LOCALIZATION NOTE (updateApp.label):
+  Strings from aboutDialog.dtd are displayed in this section of the preferences.
+  Please check for possible accesskey conflicts.
+-->
+<!-- LOCALIZATION NOTE (updateApp.version.*): updateApp.version.pre is
+  followed by a version number, keep the trailing space or replace it with
+  a different character as needed. updateApp.version.post is displayed after
+  the version number, and is empty on purpose for English. You can use it
+  if required by your language.
+ -->
 <!ENTITY updateAuto.label                "Instalar actualizacións automaticamente (recomendado: mellora a seguranza)">
 <!ENTITY updateAuto.accesskey            "a">
 <!ENTITY updateCheck.label               "Buscar actualizacións, pero permitirme escoller se quero instalalas">
 <!ENTITY updateCheck.accesskey           "c">
 <!ENTITY updateManual.label              "Non buscar actualizacións (non recomendado: risco de seguranza)">
 <!ENTITY updateManual.accesskey          "N">
-<!ENTITY updateAutoAddonWarn.label       "Avisarme se isto desactivase algún dos meus complementos">
-<!ENTITY updateAutoAddonWarn.accesskey   "v">
 <!ENTITY updateHistory.label             "Amosar o historial de actualizacións">
 <!ENTITY updateHistory.accesskey         "h">
 
@@ -103,7 +110,5 @@
 <!ENTITY enableOCSP.label                "Consultar aos servidores OCSP responder para confirmar a validez dos certificados">
 <!ENTITY enableOCSP.accesskey            "t">
 
-<!ENTITY viewCertificates.label         "Ver certificados">
-<!ENTITY viewCertificates.accesskey     "t">
-<!ENTITY viewSecurityDevices.label      "Dispositivos de seguranza">
-<!ENTITY viewSecurityDevices.accesskey  "s">
+<!ENTITY viewSecurityDevices.label "Dispositivos de seguranza">
+<!ENTITY viewSecurityDevices.accesskey "s">

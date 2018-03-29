@@ -69,7 +69,7 @@
 <!ENTITY otherActionsPrint1.accesskey "p">
 
 <!-- Attachment bar context menu items -->
-<!ENTITY startExpandedCmd.label    "Inicialmente amosa o panel de anexos">
+<!ENTITY startExpandedCmd.label    "Ao inicio amosa o panel de anexos">
 <!ENTITY startExpandedCmd.accesskey    "S">
 
 <!-- Attachment context menu items -->
