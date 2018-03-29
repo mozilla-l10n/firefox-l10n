@@ -154,3 +154,4 @@
 <!ENTITY PhotoURL.placeholder           "Вставте або введіть веб-адресу фотографії">
 <!ENTITY UpdatePhoto.label              "Оновити">
 <!ENTITY UpdatePhoto.accesskey          "о">
+<!ENTITY PhotoDropTarget.label          "Перетягніть нове фото сюди">
