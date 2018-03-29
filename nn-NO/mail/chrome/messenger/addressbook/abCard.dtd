@@ -149,3 +149,7 @@
 <!ENTITY BrowsePhoto.accesskey          "g">
 <!ENTITY PhotoURL.label                 "På nettet">
 <!ENTITY PhotoURL.accesskey             "n">
+<!ENTITY PhotoURL.placeholder           "Lim eller skriv inn nettadressa til eit foto">
+<!ENTITY UpdatePhoto.label              "Oppdater">
+<!ENTITY UpdatePhoto.accesskey          "p">
+<!ENTITY PhotoDropTarget.label          "Drag og slepp nytt bilde her">
