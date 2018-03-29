@@ -296,15 +296,15 @@ network-proxy-connection-settings =
 use-current-pages =
     .label =
         { $tabCount ->
-            [1] நடப்பு பக்கத்தை பயன்படுத்து
-           *[other] நடப்பு பக்கங்களை பயன்படுத்து
+            [1] நடப்பு பக்கம்
+           *[other] நடப்பு பக்கங்கள்
         }
-    .accesskey = ப
+    .accesskey = C
 choose-bookmark =
     .label = புத்தககுறியை பயன்படுத்தவும்...
     .accesskey = ப
 restore-default =
-    .label = முன்னிருப்புக்கு மீட்டமை
+    .label = முன்னிருப்பு
     .accesskey = R
 
 ## Search Section

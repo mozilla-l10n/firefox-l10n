@@ -12,12 +12,12 @@
 
 <!ENTITY homepage2.label           "முகப்பு பக்கம்">
 <!ENTITY homepage2.accesskey       "p">
-<!ENTITY useCurrentPage.label      "நடப்பு பக்கத்தை பயன்படுத்து">
-<!ENTITY useCurrentPage.accesskey  "ப">
-<!ENTITY useMultiple.label         "நடப்பு பக்கங்களை பயன்படுத்து">
-<!ENTITY chooseBookmark.label      "புத்தககுறியை பயன்படுத்தவும்...">
-<!ENTITY chooseBookmark.accesskey  "ப">
-<!ENTITY restoreDefault.label      "முன்னிருப்புக்கு மீட்டமை">
+<!ENTITY useCurrentPage.label      "நடப்பு பக்கம்">
+<!ENTITY useCurrentPage.accesskey  "C">
+<!ENTITY useMultiple.label         "நடப்பு பக்கங்கள்">
+<!ENTITY chooseBookmark.label      "புத்தககுறி…">
+<!ENTITY chooseBookmark.accesskey  "B">
+<!ENTITY restoreDefault.label      "முன்னிருப்பு">
 <!ENTITY restoreDefault.accesskey  "R">
 
 <!ENTITY disableExtension.label    "துணைநிரலை முடக்கவும்">
@@ -44,5 +44,3 @@
 <!ENTITY useFirefoxSync.label             "குறிப்பு: தனித்தனி சுயவிவரங்களைப் பயன்படுத்துகிறது. ஒத்திசைவு மூலம் அவைகளுக்கிடையே தரவை பகிரவும்.">
 <!ENTITY getStarted.notloggedin.label     "&syncBrand.shortName.label; உள்நுழைக…">
 <!ENTITY getStarted.configured.label      "&syncBrand.shortName.label; முன்னுரிமைகளைத் திற">
-
-<!ENTITY e10sEnabled.label                "பற்செயல்பாடுகளை &brandShortName; செயல்படுத்து">
