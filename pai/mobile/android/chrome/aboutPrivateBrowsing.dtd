@@ -11,7 +11,10 @@
 <!-- Localization note (privatebrowsingpage.title.normal1): "Private Browsing"
      is capitalized in English to be consistent with our existing uses of the
      term. -->
+<!ENTITY privatebrowsingpage.title.normal1 "Sal amchu ŕboochl m'amtem">
 
+<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; hay m'amu ñulyoom ŕ' am mtrchechu hal nkjaabkyaw lyum.">
+<!ENTITY privatebrowsingpage.description.privateDetails "M'amu kos wachŕibtema toso chapayt munal ee ŕkirchu jkay mchmihay dispositihal yo.">
 
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
