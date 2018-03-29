@@ -110,6 +110,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "Ngec me pot buk">
 <!ENTITY pageInfoCmd.accesskey "N">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.accesskey "L">
 <!ENTITY mirrorTabCmd.label "Por dirica matidi">
 <!ENTITY mirrorTabCmd.accesskey "P">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -233,7 +234,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.screenBlocked.tooltip            "Igengo woko kakube man me nywako wang kio mamegi">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Igengo woko ngec me kabedo pi kakube man.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Igengo woko jami angeya pi kakube man.">
-
 
 <!ENTITY urlbar.midiBlocked.tooltip              "I gengo woko nongo MIDI pi kakube man.">
 
@@ -380,7 +380,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "Dirica matino ma kiribo pud pe tye!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "imito neno dirica matino ki nyonyo mukene?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Ter me rib">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Dony iyie me neno nying dirica matino ki i nyonyo ni mukene.">
@@ -388,7 +387,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Dony iyie me ribo">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Lor nyonyo…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Nen gitic ma inget me dirica matino ma kiribo">
-
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Kub Nyonyo Mukene">
 
 <!ENTITY appMenuRecentHighlights.label "Wiye madito ma cokki">
@@ -795,7 +793,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Dirica matino ma kiribo">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Dony iyie Firefox ki i nyonyo ni mukene me neno dirica matino gi kany.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "Dirica matino ma kiribo pud pe tye!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Imito neno dirica matino ni ki i nyonyo mukene kany?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Dony iyie me neno nying dirica matino ki i nyonyo ni mukene.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "Myero ki mok ada pa akaunt mamegi.">
@@ -805,7 +802,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Cak ribo dirica matidi me neno nying dirica matino ki i nyonyo ni mukene.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Yeny dirica matino ma ki ribo">
-
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Kub Nyonyo Mukene">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
@@ -964,10 +960,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Nwo cako me keto ngec manyen i &brandShorterName;">
 
 <!ENTITY newTabControlled.message "Lamed mo oloko potbuk ma ineno ka iyabo Dirica Matidi Manyen. Itwero dwoko ter mamegi kace pe imito alokaloka man.">
+
 <!ENTITY newTabControlled.header.message "Dirica matidi ni manyen olokke.">
 <!ENTITY newTabControlled.keepButton.label "Gwok alokaloka">
 <!ENTITY newTabControlled.restoreButton.label "Dwok ter">
 <!ENTITY newTabControlled.restoreButton.accesskey "D">
+
 
 <!ENTITY pageActionButton.tooltip "Jami atima me potbuk">
 <!ENTITY pageAction.addToUrlbar.label "Medi i Lanyut me kanonge">

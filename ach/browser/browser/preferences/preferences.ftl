@@ -40,6 +40,9 @@ search-input-box =
 pane-general-title = Lumuku
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = Acakki
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = Yeny
 category-search =
     .tooltiptext = { pane-search-title }
@@ -62,6 +65,7 @@ feature-enable-requires-restart = { -brand-short-name } myero nwo cake wek oye l
 feature-disable-requires-restart = { -brand-short-name } myero nwo cake wek ojuk lapok kin jami man.
 should-restart-title = Nwo cako { -brand-short-name }
 should-restart-ok = Cak { -brand-short-name } odoco kombedi
+cancel-no-restart-button = Juki
 restart-later = Cak odoco lacen
 
 ## Preferences UI Search Results
@@ -273,6 +277,18 @@ network-proxy-connection-settings =
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Potbuk me acakki ki dirica manyen
+home-restore-defaults =
+    .label = Dwok makwongo
+    .accesskey = D
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Acakki me Firefox (Makwongo)
+home-mode-choice-blank =
+    .label = Potbuk ma nono
+home-homepage-custom-url =
+    .placeholder = Mwon URL...
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -303,6 +319,9 @@ search-engine-default-desc = Yer injin me yeny makwongo me tic kwede i lanyut me
 search-suggestions-option =
     .label = Mi tam me yeny
     .accesskey = y
+search-show-suggestions-url-bar-option =
+    .label = Nyut tam me yeny i adwogi pa lanyut me kanonge
+    .accesskey = l
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,

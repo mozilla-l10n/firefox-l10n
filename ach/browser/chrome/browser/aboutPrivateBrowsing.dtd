@@ -2,6 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.title):
+     Please ensure this exactly matches tabs.emptyPrivateTabTitle in tabbrowser.properties -->
+<!ENTITY aboutPrivateBrowsing.title                      "Yeny i mung">
+<!ENTITY aboutPrivateBrowsing.notPrivate.title           "Yab dirica me mung?">
+
 <!ENTITY aboutPrivateBrowsing.notPrivate                 "Kombedi pe itye i dirica me mung.">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Yab dirica me mung">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "m">
