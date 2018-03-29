@@ -24,10 +24,89 @@
 <!ENTITY PhoneticField2.id              "PhoneticLastName">
 
 <!ENTITY NameField1.label               "Fornamn:">
+<!ENTITY NameField1.accesskey           "F">
+<!ENTITY NameField2.label               "Etternamn:">
+<!ENTITY NameField2.accesskey           "E">
+<!ENTITY PhoneticField1.label           "Fonetisk:">
+<!ENTITY PhoneticField2.label           "Fonetisk:">
+<!ENTITY DisplayName.label              "Vis som:">
+<!ENTITY DisplayName.accesskey          "V">
+<!ENTITY NickName.label                 "Kallenamn:">
+<!ENTITY NickName.accesskey             "n">
 
+<!ENTITY PrimaryEmail.label             "E-post:">
+<!ENTITY PrimaryEmail.accesskey         "E">
+<!ENTITY SecondEmail.label              "Annan e-post:">
+<!ENTITY SecondEmail.accesskey          "o">
+<!ENTITY PreferMailFormat.label         "Føretrekkjer å motta meldingar formatert som:">
+<!ENTITY PreferMailFormat.accesskey     "m">
+<!ENTITY PlainText.label                "Rein tekst">
+<!ENTITY HTML.label                     "HTML">
+<!ENTITY Unknown.label                  "Ukjent">
+<!ENTITY chatName.label                 "Nettpratnamn:">
 
+<!ENTITY WorkPhone.label                "Arbeid:">
+<!ENTITY WorkPhone.accesskey            "b">
+<!ENTITY HomePhone.label                "Heim:">
+<!ENTITY HomePhone.accesskey            "m">
+<!ENTITY FaxNumber.label                "Faks:">
+<!ENTITY FaxNumber.accesskey            "k">
+<!ENTITY PagerNumber.label              "Personsøkjar:">
+<!ENTITY PagerNumber.accesskey          "k">
+<!ENTITY CellularNumber.label           "Mobil:">
+<!ENTITY CellularNumber.accesskey       "b">
 
+<!ENTITY Home.tab                       "Privat">
+<!ENTITY Home.accesskey                 "P">
+<!ENTITY HomeAddress.label              "Adresse:">
+<!ENTITY HomeAddress.accesskey          "d">
+<!ENTITY HomeAddress2.label             "">
+<!ENTITY HomeAddress2.accesskey         "">
+<!ENTITY HomeCity.label                 "Poststad:">
+<!ENTITY HomeCity.accesskey             "t">
+<!ENTITY HomeState.label                "Delstat/Region:">
+<!ENTITY HomeState.accesskey            "s">
+<!ENTITY HomeZipCode.label              "Postnummer:">
+<!ENTITY HomeZipCode.accesskey          "P">
+<!ENTITY HomeCountry.label              "Land:">
+<!ENTITY HomeCountry.accesskey          "n">
+<!ENTITY HomeWebPage.label              "Nettside:">
+<!ENTITY HomeWebPage.accesskey          "e">
+<!ENTITY Birthday.label                 "Fødselsdag:">
+<!ENTITY Birthday.accesskey             "s">
+<!ENTITY In.label                       "">
+<!ENTITY Year.placeholder               "År">
+<!ENTITY Or.value                       "eller">
+<!ENTITY Age.placeholder                "Alder">
+<!ENTITY YearsOld.label                 "">
 
+<!ENTITY Work.tab                       "Arbeid">
+<!ENTITY Work.accesskey                 "r">
+<!ENTITY JobTitle.label                 "Tittel:">
+<!ENTITY JobTitle.accesskey             "i">
+<!ENTITY Department.label               "Avdeling:">
+<!ENTITY Department.accesskey           "g">
+<!ENTITY Company.label                  "Organisasjon:">
+<!ENTITY Company.accesskey              "n">
+<!ENTITY WorkAddress.label              "Adresse:">
+<!ENTITY WorkAddress.accesskey          "d">
+<!ENTITY WorkAddress2.label             "">
+<!ENTITY WorkAddress2.accesskey         "">
+<!ENTITY WorkCity.label                 "Poststad:">
+<!ENTITY WorkCity.accesskey             "t">
+<!ENTITY WorkState.label                "Delstat/Region:">
+<!ENTITY WorkState.accesskey            "s">
+<!ENTITY WorkZipCode.label              "Postnummer:">
+<!ENTITY WorkZipCode.accesskey          "P">
+<!ENTITY WorkCountry.label              "Land:">
+<!ENTITY WorkCountry.accesskey          "n">
+<!ENTITY WorkWebPage.label              "Nettside:">
+<!ENTITY WorkWebPage.accesskey          "e">
 
+<!ENTITY Other.tab                      "Anna">
+<!ENTITY Other.accesskey                "n">
+<!ENTITY Custom1.label                  "Tilpassa 1:">
+<!ENTITY Custom1.accesskey              "1">
+<!ENTITY Custom2.label                  "Tilpassa 2:">
 
 
