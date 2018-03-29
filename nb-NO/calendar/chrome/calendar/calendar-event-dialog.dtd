@@ -421,4 +421,10 @@
 <!-- Summary dialog -->
 <!ENTITY summary.dialog.saveclose.label         "Lagre og lukk">
 <!ENTITY summary.dialog.accept.label            "Aksepter">
+<!ENTITY summary.dialog.accept.tooltiptext      "Aksepter invitasjonen">
 <!ENTITY summary.dialog.tentative.label         "Foreløpig">
+<!ENTITY summary.dialog.tentative.tooltiptext   "Aksepter invitasjonen med forbehold">
+<!ENTITY summary.dialog.decline.label           "Avvis">
+<!ENTITY summary.dialog.decline.tooltiptext     "Avvis invitasjonen">
+<!ENTITY summary.dialog.dontsend.label          "Send ikke et svar">
+<!ENTITY summary.dialog.send.label              "Send et svar nå">

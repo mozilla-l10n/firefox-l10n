@@ -43,5 +43,6 @@
 <!ENTITY location.placeholder "URL eller hostnavn på kalenderserveren">
 
 <!ENTITY network.nocredentials.label "Denne adressen krever ikke innlogging">
+<!ENTITY network.loading.description "Vent mens kalenderene dine blir oppdaget.">
 
 <!ENTITY network.subscribe.single.description "Velg kalendrene du vil abonnere på.">
