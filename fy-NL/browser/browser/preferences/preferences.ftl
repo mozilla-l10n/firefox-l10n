@@ -37,6 +37,11 @@ search-input-box =
             [windows] Fyn yn Opsjes
            *[other] Fyn yn Foarkarren
         }
+policies-notice =
+    { PLATFORM() ->
+        [windows] Jo organisaasje hat de mooglikheid om guon opsjes te wizigjen útskeakele.
+       *[other] Jo organisaasje hat de mooglikheid om guon foarkarren te wizigjen útskeakele.
+    }
 pane-general-title = Algemien
 category-general =
     .tooltiptext = { pane-general-title }
