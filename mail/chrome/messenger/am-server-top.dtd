@@ -15,7 +15,7 @@
 <!ENTITY port.label "Porto:">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "Predeterminado:">
-<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammar dependency
         For example, in Japanese cases:
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
@@ -23,6 +23,8 @@
 <!ENTITY biffStart.label "Comprobar se hai novas mensaxes cada ">
 <!ENTITY biffStart.accesskey "h">
 <!ENTITY biffEnd.label "minutos">
+<!ENTITY useIdleNotifications.label "Permitir notificacións inmediatas do servidor cando chegue unha mensaxe nova">
+<!ENTITY useIdleNotifications.accesskey "m">
 <!ENTITY connectionSecurity.label "Seguridade da conexión:">
 <!ENTITY connectionSecurity.accesskey "u">
 <!ENTITY connectionSecurityType-0.label "Ningunha">
@@ -54,7 +56,7 @@
 <!ENTITY expungeOnExit.label "Borrar (&quot;Expurgar&quot;) a Caixa de entrada ao saír">
 <!ENTITY expungeOnExit.accesskey "E">
 <!ENTITY emptyTrashOnExit.label "Baleirar o lixo ao saír">
-<!ENTITY emptyTrashOnExit.accesskey "x">
+<!ENTITY emptyTrashOnExit.accesskey "B">
 <!ENTITY loginAtStartup.label "Comprobar se hai novas mensaxes no inicio">
 <!ENTITY loginAtStartup.accesskey "C">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
@@ -85,6 +87,6 @@
 <!ENTITY accountTitle.label "Configuración da conta">
 <!ENTITY accountSettingsDesc.label "A seguinte é unha conta especial. Non hai identidades asociadas a ela.">
 <!ENTITY storeType.label "Tipo de almacenamento de mensaxes:">
-<!ENTITY storeType.accesskey "t">
-<!ENTITY mboxStore2.label "Ficheiro por cartafol (mbox)">
-<!ENTITY maildirStore.label "Ficheiros por mensaxe (maildir)">
+<!ENTITY storeType.accesskey "T">
+<!ENTITY mboxStore2.label "Un ficheiro por cartafol (mbox)">
+<!ENTITY maildirStore.label "Un ficheiro por mensaxe (maildir)">
