@@ -40,6 +40,9 @@ search-input-box =
 pane-general-title = Geral
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = Início
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = Pesquisa
 category-search =
     .tooltiptext = { pane-search-title }
@@ -281,9 +284,23 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = Novas janelas e abas
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Página inicial e novas janelas
+home-newtabs-mode-label = Novas abas
+home-restore-defaults =
+    .label = Restaurar padrões
+    .accesskey = R
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Página inicial do Firefox (padrão)
+home-mode-choice-custom =
+    .label = URLs personalizadas...
+home-mode-choice-blank =
+    .label = Página em branco
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
