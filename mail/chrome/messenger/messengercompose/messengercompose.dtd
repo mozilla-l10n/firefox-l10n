@@ -78,13 +78,24 @@
 <!ENTITY pasteCmd.accesskey "P">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY editRewrapCmd.accesskey "x">
+<!ENTITY editRewrapCmd.accesskey "u">
 <!ENTITY deleteCmd.label "Eliminar">
 <!ENTITY deleteCmd.accesskey "m">
 <!ENTITY editRewrapCmd.label "Reaxustar">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "Renomear anexo…">
 <!ENTITY renameAttachmentCmd.accesskey "e">
+<!ENTITY reorderAttachmentsCmd.label "Reordenar anexos…">
+<!ENTITY reorderAttachmentsCmd.accesskey "x">
+<!ENTITY reorderAttachmentsCmd.key "x">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
+     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
+     as attachments.accesskey. -->
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
+     With OS-specific access modifier, this defines the shortcut key for showing/
+     hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
+     toggleAttachmentPaneCmd.key and attachments.accesskey must be the same
+     for the bucket view state machinery to work. -->
 <!ENTITY selectAllCmd.label "Seleccionar todo">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "S">
@@ -95,13 +106,22 @@
 <!ENTITY findReplaceCmd.accesskey "l">
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Localizar de novo">
-<!ENTITY findAgainCmd.accesskey "n">
+<!ENTITY findAgainCmd.accesskey "v">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Localizar anterior">
 <!ENTITY findPrevCmd.accesskey "a">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
+
+<!-- Reorder Attachment Panel -->
+
+<!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
+     Please ensure that this translation matches
+     sortAttachmentsPanelBtn.Sort.ZA.label, except for the sort direction. -->
+<!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.SortSelection.AZ.label):
+     Please ensure that this translation matches
+     sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Ver">
@@ -186,7 +206,7 @@
 <!ENTITY addressBookCmd.key "e">
 <!ENTITY accountManagerCmd2.label "Configuración da conta">
 <!ENTITY accountManagerCmd2.accesskey "g">
-<!ENTITY accountManagerCmdUnix2.accesskey "S">
+<!ENTITY accountManagerCmdUnix2.accesskey "g">
 <!ENTITY preferencesCmd2.label "Opcións">
 <!ENTITY preferencesCmd2.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Preferencias">
@@ -215,7 +235,6 @@
 <!ENTITY addressButton.tooltip "Seleccionar un destinatario dunha axenda de enderezos">
 <!ENTITY attachButton.tooltip "Incluír un anexo">
 <!ENTITY spellingButton.tooltip "Verificación ortográfica da selección ou da mensaxe completa">
-<!ENTITY statusLanguageText.tooltip "Idioma para corrección ortográfica">
 <!ENTITY saveButton.tooltip "Gardar esta mensaxe">
 <!ENTITY cutButton.tooltip              "Cortar">
 <!ENTITY copyButton.tooltip             "Copiar">
@@ -236,9 +255,12 @@
 <!ENTITY followupAddr.label "Seguimento de:">
 <!ENTITY subject.label "Asunto: ">
 <!ENTITY subject.accesskey "n">
-<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
-     to the strings in attachmentCount in composeMsgs.properties -->
+<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
+     be taken from the strings in attachmentCount in composeMsgs.properties,
+     and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
+     work, as the shortcut key functionality supersedes the access key. -->
 <!ENTITY attachments.accesskey "x">
+
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Inserir unha emoticona">
@@ -276,6 +298,7 @@
 <!ENTITY pasteQuote.label "Pegar como cita">
 <!ENTITY pasteQuote.accesskey "i">
 
+<!-- Attachment Item and List Context Menus -->
 <!ENTITY openAttachment.label "Abrir">
 <!ENTITY openAttachment.accesskey "b">
 <!ENTITY delete.label "Eliminar">
@@ -299,6 +322,11 @@
 <!ENTITY attachPage.label "Anexar páxina web…">
 <!ENTITY attachPage.accesskey "w">
 
+<!-- Attachment Pane Header Bar Context Menu -->
+<!-- LOCALIZATION NOTE (initiallyShowAttachmentPane.label):
+     Should use the same wording as startExpandedCmd.label
+     in msgHdrViewOverlay.dtd. -->
+
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Engadir dicionarios…">
 <!ENTITY spellAddDictionaries.accesskey "a">
@@ -306,3 +334,6 @@
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Contactos">
 
+<!-- Identity popup customize menuitem -->
+
+<!-- Status Bar -->
