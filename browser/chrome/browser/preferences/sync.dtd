@@ -70,15 +70,13 @@ both, to better adapt this sentence to their language.
 <!ENTITY verifiedManage.accesskey     "k">
 <!ENTITY disconnect3.label            "Kople frå…">
 <!ENTITY disconnect3.accesskey        "f">
-<!ENTITY verify.label                "Stadfest e-post">
-<!ENTITY verify.accesskey            "S">
-<!ENTITY forget.label                "Gløym denne e-postadressa">
-<!ENTITY forget.accesskey            "G">
-
 <!ENTITY resendVerification.label     "Send stadfesting på nytt">
 <!ENTITY resendVerification.accesskey "S">
 <!ENTITY cancelSetup.label            "Avbryt oppsett">
 <!ENTITY cancelSetup.accesskey        "A">
+
+<!ENTITY removeAccount.label          "Fjern konto">
+<!ENTITY removeAccount.accesskey      "k">
 
 <!ENTITY signedOut.caption            "Ta med deg nettet">
 <!ENTITY signedOut.description        "Synkroniser bokmerke, historikk, faner, passord, utvidingar og innstillingar på tvers av alle einingane dine.">
