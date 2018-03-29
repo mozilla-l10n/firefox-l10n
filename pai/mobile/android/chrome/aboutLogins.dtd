@@ -6,3 +6,5 @@
    %brandDTD;
 <!ENTITY aboutLogins.title                       "Chnamanchu">
 <!ENTITY aboutLogins.update                      "Chajana">
+<!ENTITY aboutLogins.emptyLoginText              "Mnamanu janajnu myoob">
+<!ENTITY aboutLogins.emptyLoginHint              "Maat mŕiwu mchkwahay &brandShortName; ñumtrchechum yak ŕpooba.">
