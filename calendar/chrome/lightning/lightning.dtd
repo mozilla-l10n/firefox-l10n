@@ -37,7 +37,16 @@
 <!ENTITY lightning.menu.eventtask.accesskey            "a">
 
 <!-- properties dialog, calendar creation wizard -->
-<!ENTITY lightning.calendarproperties.email.label               "Sähköposti:">
+<!-- LOCALIZATON NOTE(lightning.calendarproperties.email.label,
+     lightning.calendarproperties.forceEmailScheduling.label)
+     These strings are used in the calendar wizard and the calendar properties dialog, but are only
+     displayed when setting/using a caldav calendar -->
+<!ENTITY lightning.calendarproperties.email.label                           "Sähköposti:">
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.label            "Suosi asiakaspuolen sähköpostien ajastusta">
+<!-- LOCALIZATON NOTE(lightning.calendarproperties.forceEmailScheduling.tooltiptext1,
+     lightning.calendarproperties.forceEmailScheduling.tooltiptext2)
+     - tooltiptext1 is used in the calendar wizard when setting a new caldav calendar
+     - tooltiptext2 is used in the calendar properties dialog for caldav calendars -->
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Hyväksy">
@@ -58,6 +67,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Napsauta, niin näet lisää valintoja">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Vahvista uudelleen">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Lähettää järjestäjälle uudelleenvahvistuksen">
+<!ENTITY lightning.imipbar.btnReschedule.label                              "Ajoita uudelleen">
+<!ENTITY lightning.imipbar.btnReschedule.tooltiptext                        "Ajoita tapahtuma uudelleen">
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Tallenna kopio">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Tallenna kalenteriin kopio tapahtumasta ilman, että järjestäjä saa tietää. Osallistujaluettelo tyhjennetään.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Alustava">
@@ -66,7 +77,11 @@
 <!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Hyväksy tapahtumakutsu alustavasti koskien kaikkia tapahtuman tapauksia">
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "Päivitä">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Päivitä tapahtumaa kalenterissa">
-<!ENTITY lightning.imipbar.description										"Tässä viestissä on kutsu tapahtumaan.">
+<!ENTITY lightning.imipbar.description                                      "Tässä viestissä on kutsu tapahtumaan.">
+
+<!ENTITY lightning.imipbar.btnSend.label                                    "Lähetä vastaus nyt">
+<!ENTITY lightning.imipbar.btnSend.tooltiptext                              "Lähetä vastaus järjestäjälle">
+<!ENTITY lightning.imipbar.btnDontSend.label                                "Älä lähetä vastausta">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">

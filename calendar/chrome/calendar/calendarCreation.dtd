@@ -20,3 +20,23 @@
 
 <!ENTITY finishpage.shortdescription  "Kalenteri on luotu" >
 <!ENTITY finishpage.longdescription   "Kalenteri on luotu." >
+
+<!-- Below are new strings for the revised new calendar dialog. The above strings should be
+    removed/renamed later on -->
+
+
+<!ENTITY buttons.create.label "Luo kalenteri">
+<!ENTITY buttons.create.accesskey "L">
+
+<!ENTITY buttons.find.label "Etsi kalentereita">
+<!ENTITY buttons.find.accesskey "E">
+
+<!ENTITY buttons.back.label "Takaisin">
+<!ENTITY buttons.back.accesskey "T">
+
+<!ENTITY buttons.subscribe.label "Tilaa">
+<!ENTITY buttons.subscribe.accesskey "i">
+
+<!ENTITY location.label "Sijainti:">
+
+
