@@ -151,7 +151,7 @@ containers-disable-alert-cancel-button = செயலில் வைத்த�
 
 ## General Section - Language & Appearance
 
-language-and-appearance-header = மொழி மற்றும் தேற்றம்
+language-and-appearance-header = மொழி மற்றும் தோற்றம்
 fonts-and-colors-header = எழுத்துருக்கள் & நிறங்கள்
 default-font = முன்னிருப்பு எழுத்துரு
     .accesskey = D
