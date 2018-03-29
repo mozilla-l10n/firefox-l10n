@@ -88,14 +88,17 @@
 <!ENTITY reorderAttachmentsCmd.label "Reordenar anexos…">
 <!ENTITY reorderAttachmentsCmd.accesskey "x">
 <!ENTITY reorderAttachmentsCmd.key "x">
+<!ENTITY toggleAttachmentPaneCmd.label "Panel de anexos">
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
      For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
      as attachments.accesskey. -->
+<!ENTITY toggleAttachmentPaneCmd.accesskey "x">
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
      With OS-specific access modifier, this defines the shortcut key for showing/
      hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
      toggleAttachmentPaneCmd.key and attachments.accesskey must be the same
      for the bucket view state machinery to work. -->
+<!ENTITY toggleAttachmentPaneCmd.key "x">
 <!ENTITY selectAllCmd.label "Seleccionar todo">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "S">
@@ -115,13 +118,23 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 
 <!-- Reorder Attachment Panel -->
+<!ENTITY reorderAttachmentsPanel.label "Reordenar anexos">
+<!ENTITY moveAttachmentTopPanelBtn.label "Mover ao principio">
+<!ENTITY moveAttachmentUpPanelBtn.label "Subir">
+<!ENTITY moveAttachmentBundleUpPanelBtn.label "Mover xuntos">
+<!ENTITY moveAttachmentDownPanelBtn.label "Baixar">
+<!ENTITY moveAttachmentBottomPanelBtn.label "Mover ao final">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.Sort.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.Sort.AZ.label "Ordenar: A - Z">
+<!ENTITY sortAttachmentsPanelBtn.Sort.ZA.label "Ordenar: Z - A">
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.SortSelection.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.label "Ordenar selección: A - Z">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.label "Ordenar selección: Z - A">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Ver">
@@ -234,6 +247,7 @@
 <!ENTITY quoteButton.tooltip "Citar a mensaxe anterior">
 <!ENTITY addressButton.tooltip "Seleccionar un destinatario dunha axenda de enderezos">
 <!ENTITY attachButton.tooltip "Incluír un anexo">
+<!ENTITY attachButton.tooltip2 "Engade un anexo">
 <!ENTITY spellingButton.tooltip "Verificación ortográfica da selección ou da mensaxe completa">
 <!ENTITY saveButton.tooltip "Gardar esta mensaxe">
 <!ENTITY cutButton.tooltip              "Cortar">
@@ -261,6 +275,8 @@
      work, as the shortcut key functionality supersedes the access key. -->
 <!ENTITY attachments.accesskey "x">
 
+<!ENTITY attachmentBucketHeader.tooltip "Panel de anexos">
+<!ENTITY attachmentBucketCloseButton.tooltip "Agocha o panel de anexos">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Inserir unha emoticona">
@@ -307,6 +323,10 @@
 <!ENTITY removeAttachment.accesskey "E">
 <!ENTITY renameAttachment.label "Renomear…">
 <!ENTITY renameAttachment.accesskey "R">
+<!ENTITY reorderAttachments.label "Reordenar anexos…">
+<!ENTITY reorderAttachments.accesskey "x">
+<!ENTITY removeAllAttachments.label "Retirar todos os anexos">
+<!ENTITY removeAllAttachments.accesskey "t">
 <!ENTITY selectAll.label "Seleccionar todo">
 <!ENTITY selectAll.accesskey "t">
 <!ENTITY attachFile.label "Anexar ficheiro(s)…">
