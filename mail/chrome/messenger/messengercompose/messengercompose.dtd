@@ -135,6 +135,7 @@
      sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
 <!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.label "Ordenar selección: A - Z">
 <!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.label "Ordenar selección: Z - A">
+<!ENTITY sortAttachmentsPanelBtn.key "y">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Ver">
@@ -346,6 +347,8 @@
 <!-- LOCALIZATION NOTE (initiallyShowAttachmentPane.label):
      Should use the same wording as startExpandedCmd.label
      in msgHdrViewOverlay.dtd. -->
+<!ENTITY initiallyShowAttachmentPane.label "Ao inicio amosa o panel de anexos">
+<!ENTITY initiallyShowAttachmentPane.accesskey "r">
 
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Engadir dicionarios…">
@@ -355,5 +358,9 @@
 <!ENTITY addressesSidebarTitle.label "Contactos">
 
 <!-- Identity popup customize menuitem -->
+<!ENTITY customizeFromAddress.label "Personalizar enderezo «De»…">
+<!ENTITY customizeFromAddress.accesskey "z">
 
 <!-- Status Bar -->
+<!ENTITY languageStatusButton.tooltip "Idioma do corrector ortográfico">
+<!ENTITY encodingStatusPanel.tooltip "Codificación do texto">

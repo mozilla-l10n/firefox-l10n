@@ -57,7 +57,7 @@
 <!ENTITY sendOptions.label                     "Opcións de envío…">
 <!ENTITY sendOptions.accesskey                 "O">
 
-<!ENTITY attachmentReminder.label              "Comprobar adxuntos olvidados">
+<!ENTITY attachmentReminder.label              "Comprobar se faltan ficheiros anexos">
 <!ENTITY attachmentReminder.accesskey          "v">
 <!ENTITY attachmentReminderOptions.label       "Palabras chave…">
 <!ENTITY attachmentReminderOptions.accesskey   "P">
