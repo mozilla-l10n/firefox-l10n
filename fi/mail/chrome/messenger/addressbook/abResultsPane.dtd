@@ -3,3 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY Addrbook.label                        "Osoitekirja">
+<!ENTITY Addrbook.accesskey                    "O">
+<!ENTITY GeneratedName.label                   "Nimi">
+<!ENTITY GeneratedName.accesskey               "N">
+<!ENTITY PrimaryEmail.label                    "Sähköpostiosoite">
+<!ENTITY PrimaryEmail.accesskey                "S">
+<!ENTITY Company.label                         "Organisaatio">
+<!ENTITY Company.accesskey                     "r">
+<!ENTITY _PhoneticName.label                   "Foneettinen nimi">
+<!ENTITY _PhoneticName.accesskey               "F">
+<!ENTITY NickName.label                        "Lempinimi">
