@@ -68,6 +68,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findOnCmd.accesskey "З">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Знайти знову">
+<!ENTITY findAgainCmd.accesskey "а">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findSelectionCmd.commandkey "e">
 
+<!ENTITY backCmd.label "Назад">
+<!ENTITY backCmd.accesskey "Н">
+<!ENTITY forwardCmd.label "Вперед">
+<!ENTITY forwardCmd.accesskey "п">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
 
+<!ENTITY copyLinkCmd.label "Копіювати адресу посилання">
+<!ENTITY copyLinkCmd.accesskey "ю">
+<!ENTITY copyEmailCmd.label "Копіювати адресу е-пошти">
+<!ENTITY copyEmailCmd.accesskey "о">
 
