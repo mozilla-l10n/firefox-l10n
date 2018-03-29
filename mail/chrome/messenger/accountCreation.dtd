@@ -13,7 +13,7 @@
 <!ENTITY email2.placeholder              "you@example.com">
 <!ENTITY email.text                      "O seu enderezo de correo electrónico">
 <!ENTITY password.label                  "Contrasinal:">
-<!ENTITY password.accesskey              "C">
+<!ENTITY password.accesskey              "o">
 <!ENTITY password.placeholder            "Contrasinal">
 <!ENTITY password.text                   "Opcional, só se usará para validar o nome de usuario">
 <!ENTITY rememberPassword.label          "Lembrar contrasinal">
@@ -40,7 +40,7 @@
 <!ENTITY sslTls.label                    "SSL/TLS">
 
 <!ENTITY advancedSetup.label             "Configuración avanzada">
-<!ENTITY advancedSetup.accesskey         "a">
+<!ENTITY advancedSetup.accesskey         "g">
 <!ENTITY cancel.label                    "Cancelar">
 <!ENTITY cancel.accesskey                "a">
 <!ENTITY continue.label                  "Continuar">
