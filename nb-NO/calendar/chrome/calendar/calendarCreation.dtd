@@ -44,5 +44,6 @@
 
 <!ENTITY network.nocredentials.label "Denne adressen krever ikke innlogging">
 <!ENTITY network.loading.description "Vent mens kalenderene dine blir oppdaget.">
+<!ENTITY network.notfound.description "Kan ikke finne noen kalender på denne adressen. Kontroller dine innstillinger.">
 
 <!ENTITY network.subscribe.single.description "Velg kalendrene du vil abonnere på.">
