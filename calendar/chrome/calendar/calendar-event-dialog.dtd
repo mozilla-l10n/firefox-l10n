@@ -427,3 +427,7 @@
 <!ENTITY summary.dialog.tentative.tooltiptext   "Aceitar o convite provisoriamente">
 <!ENTITY summary.dialog.decline.label           "Recusar">
 <!ENTITY summary.dialog.decline.tooltiptext     "Recusar o convite">
+<!ENTITY summary.dialog.dontsend.label          "Não enviar uma resposta">
+<!ENTITY summary.dialog.dontsend.tooltiptext    "Altere o seu estado de participação sem enviar uma resposta ao organizador e fechar a janela">
+<!ENTITY summary.dialog.send.label              "Enviar a resposta agora">
+<!ENTITY summary.dialog.send.tooltiptext        "Envia uma resposta ao organizador e fecha a janela">
