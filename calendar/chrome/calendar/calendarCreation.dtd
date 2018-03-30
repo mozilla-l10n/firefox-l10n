@@ -20,3 +20,32 @@
 
 <!ENTITY finishpage.shortdescription  "Calendário criado" >
 <!ENTITY finishpage.longdescription   "Seu calendário foi criado." >
+
+<!-- Below are new strings for the revised new calendar dialog. The above strings should be
+    removed/renamed later on -->
+
+<!ENTITY sourcetabs.other.label  "Outro">
+
+<!ENTITY buttons.create.label "Criar calendário">
+<!ENTITY buttons.create.accesskey "r">
+
+<!ENTITY buttons.find.label "Procurar calendários">
+<!ENTITY buttons.find.accesskey "P">
+
+<!ENTITY buttons.back.label "Voltar">
+<!ENTITY buttons.back.accesskey "V">
+
+<!ENTITY buttons.subscribe.label "Inscrever">
+<!ENTITY buttons.subscribe.accesskey "I">
+
+<!ENTITY calendartype.label "Tipo de calendário:">
+<!ENTITY location.label "Localização:">
+<!ENTITY location.placeholder "URL ou nome de host do servidor do calendário">
+
+<!ENTITY network.nocredentials.label "Este endereço não requer credenciais">
+<!ENTITY network.loading.description "Aguarde enquanto seus calendários estão sendo descobertos.">
+<!ENTITY network.notfound.description "Não foi possível procurar calendários neste endereço. Verifique suas configurações.">
+<!ENTITY network.authfail.description "As credenciais que você inseriu não foram aceitas. Verifique suas configurações.">
+
+<!ENTITY network.subscribe.single.description "Selecione os calendários que você gostaria de inscrever-se.">
+<!ENTITY network.subscribe.multiple.description "Múltiplos tipos de calendários estão disponíveis neste endereço. Selecione o tipo e depois marque os calendários que você gostaria de inscrever-se.">
