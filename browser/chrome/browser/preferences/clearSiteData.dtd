@@ -3,10 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "Изчистване на данни">
+<!ENTITY window.width                 "35em">
 
+<!ENTITY window.description           "Изчиствайки всички бисквитки и данни на страници запазени от &brandShortName; може да бъдете отписани от някои страници, както и ще бъде премахнато съдържанието за работа извън мрежа. Изчистването на буфера няма да повлияе на вписванията ви.">
+<!ENTITY windowClose.key              "и">
 
 <!ENTITY clearSiteData.label          "Бисквитки и данни на страници">
 <!ENTITY clearSiteData.accesskey      "д">
+<!ENTITY clearSiteData.description    "При изчистване може да бъдете отписани от някои страници">
 
 <!ENTITY clearCache.label             "Буферирано съдържание от интернет">
 <!ENTITY clearCache.accesskey         "б">

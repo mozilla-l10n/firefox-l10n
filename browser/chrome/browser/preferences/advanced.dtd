@@ -44,6 +44,8 @@ available. -->
 <!ENTITY collectBrowserErrors.accesskey      "г">
 <!ENTITY collectBrowserErrorsLearnMore.label "Научете повече">
 
+<!ENTITY sendBackloggedCrashReports.label  "Разрешаване на &brandShortName; да изпраща от ваше име предишни доклади за срив">
+<!ENTITY sendBackloggedCrashReports.accesskey "и">
 <!ENTITY crashReporterLearnMore.label    "Научете повече">
 
 <!ENTITY networkTab.label                "Мрежа">
@@ -60,10 +62,13 @@ available. -->
 <!ENTITY siteData.label                  "Данни на страници">
 <!ENTITY clearSiteData.label             "Изчистване на всички">
 <!ENTITY clearSiteData.accesskey         "в">
-<!ENTITY clearSiteData1.label            "Изчистване на данни…">
-<!ENTITY clearSiteData1.accesskey        "т">
 <!ENTITY siteDataSettings.label          "Настройки…">
 <!ENTITY siteDataSettings.accesskey      "н">
+<!ENTITY siteData1.label                 "Бисквитки и данни на страници">
+<!ENTITY clearSiteData1.label            "Изчистване на данни…">
+<!ENTITY clearSiteData1.accesskey        "т">
+<!ENTITY siteDataSettings1.label         "Управление на данни…">
+<!ENTITY siteDataSettings1.accesskey     "у">
 <!ENTITY siteDataLearnMoreLink.label     "Научете повече">
 
 <!-- LOCALIZATION NOTE:
