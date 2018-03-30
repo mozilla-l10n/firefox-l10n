@@ -209,6 +209,8 @@
 <!ENTITY calendar.context.attendance.all.declined.label         "Recusado">
 <!ENTITY calendar.context.attendance.all.delegated.accesskey    "l">
 <!ENTITY calendar.context.attendance.all.delegated.label        "Delegado">
+<!ENTITY calendar.context.attendance.all.needsaction.accesskey  "s">
+<!ENTITY calendar.context.attendance.all.needsaction.label      "Ainda precisa de uma ação">
 <!ENTITY calendar.context.attendance.all.inprogress.accesskey   "a">
 <!ENTITY calendar.context.attendance.all.inprogress.label       "Em andamento">
 <!ENTITY calendar.context.attendance.all.completed.accesskey    "n">
