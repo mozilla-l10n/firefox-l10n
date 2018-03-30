@@ -172,12 +172,22 @@
 <!ENTITY calendar.context.copyevent.accesskey         "a">
 <!ENTITY calendar.context.pasteevent.label            "Colar">
 <!ENTITY calendar.context.pasteevent.accesskey        "l">
-<!ENTITY calendar.context.button.label                "Painel hoje" >
-<!ENTITY calendar.context.button.accesskey            "h" >
-<!ENTITY calendar.context.attendance.menu.label       "Comparecer" >
-<!ENTITY calendar.context.attendance.menu.accesskey   "C" >
-<!ENTITY calendar.context.attendance.occurrence.label "Esta ocorrência" >
+<!ENTITY calendar.context.button.label                "Painel hoje">
+<!ENTITY calendar.context.button.accesskey            "h">
+
+<!ENTITY calendar.context.attendance.menu.label                 "Comparecer">
+<!ENTITY calendar.context.attendance.menu.accesskey             "C">
+<!ENTITY calendar.context.attendance.occurrence.label           "Esta ocorrência">
 <!ENTITY calendar.context.attendance.all.label        "Todas as ocorrências" >
+
+<!ENTITY calendar.context.attendance.all2.label                 "Série completa">
+<!ENTITY calendar.context.attendance.send.label                 "Enviar uma notificação agora">
+<!ENTITY calendar.context.attendance.send.accesskey             "E">
+<!ENTITY calendar.context.attendance.dontsend.label             "Não enviar uma notificação">
+<!ENTITY calendar.context.attendance.dontsend.accesskey         "N">
+
+<!ENTITY calendar.context.attendance.occ.accepted.accesskey     "A">
+
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Andamento">
