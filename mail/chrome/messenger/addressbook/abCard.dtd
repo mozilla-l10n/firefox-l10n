@@ -1,0 +1,67 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY Contact.tab                     "Contato">
+<!ENTITY Contact.accesskey               "C">
+<!ENTITY Name.box                        "Nome">
+
+<!-- LOCALIZATION NOTE:
+ NameField1, NameField2, PhoneticField1, PhoneticField2
+ those fields are either LN or FN depends on the target country.
+ "FirstName" and "LastName" can be swapped for id to change the order
+ but they should not be translated (same applied to phonetic id).
+ Make sure the translation of label corresponds to the order of id.
+-->
+
+<!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
+<!ENTITY NameField1.id                  "FirstName">
+<!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
+<!ENTITY NameField2.id                  "LastName">
+<!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField1.id              "PhoneticFirstName">
+<!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField2.id              "PhoneticLastName">
+
+<!ENTITY NameField1.label               "Primeiro:">
+<!ENTITY NameField1.accesskey           "P">
+<!ENTITY NameField2.label               "Último:">
+<!ENTITY NameField2.accesskey           "U">
+<!ENTITY PhoneticField1.label           "Fonético:">
+<!ENTITY PhoneticField2.label           "Fonético:">
+<!ENTITY DisplayName.label              "Apresentar como:">
+<!ENTITY DisplayName.accesskey          "A">
+<!ENTITY NickName.label                 "Apelido:">
+<!ENTITY NickName.accesskey             "e">
+
+<!ENTITY PrimaryEmail.label             "E-mail:">
+<!ENTITY PrimaryEmail.accesskey         "E">
+<!ENTITY SecondEmail.label              "E-mail adicional:">
+<!ENTITY SecondEmail.accesskey          "a">
+<!ENTITY PlainText.label                "Texto sem formatação">
+<!ENTITY HTML.label                     "HTML">
+<!ENTITY Unknown.label                  "Desconhecido">
+<!ENTITY chatName.label                 "Nome de bate-papo:">
+
+<!ENTITY WorkPhone.label                "Trabalho:">
+<!ENTITY WorkPhone.accesskey            "b">
+<!ENTITY HomePhone.label                "Casa:">
+<!ENTITY HomePhone.accesskey            "s">
+<!ENTITY FaxNumber.label                "Fax:">
+<!ENTITY FaxNumber.accesskey            "x">
+<!ENTITY PagerNumber.label              "Pager:">
+<!ENTITY PagerNumber.accesskey          "g">
+<!ENTITY CellularNumber.label           "Celular:">
+<!ENTITY CellularNumber.accesskey       "l">
+
+<!ENTITY Home.tab                       "Privado">
+<!ENTITY Home.accesskey                 "P">
+<!ENTITY HomeAddress.label              "Endereço:">
+<!ENTITY HomeAddress.accesskey          "d">
+<!ENTITY HomeAddress2.label             "">
+<!ENTITY HomeAddress2.accesskey         "">
+<!ENTITY HomeCity.label                 "Cidade:">
+
+
+
+
