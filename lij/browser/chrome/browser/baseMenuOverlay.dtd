@@ -34,7 +34,7 @@
 <!ENTITY helpFeedbackPage.label      "Manda comento…">
 <!ENTITY helpFeedbackPage.accesskey  "M">
 
-<!ENTITY helpShowTour2.label            "Tour de &brandShorterName;">
+<!ENTITY helpShowTour2.label            "Vixita guidâ de &brandShorterName;">
 <!ENTITY helpShowTour2.accesskey        "o">
 
 <!ENTITY preferencesCmdMac.label        "Preferense…">
