@@ -5,6 +5,8 @@
 <!ENTITY window.title                 "Изчистване на данни">
 
 
+<!ENTITY clearSiteData.label          "Бисквитки и данни на страници">
+<!ENTITY clearSiteData.accesskey      "д">
 
 <!ENTITY clearCache.label             "Буферирано съдържание от интернет">
 <!ENTITY clearCache.accesskey         "б">
