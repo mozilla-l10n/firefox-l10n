@@ -45,6 +45,9 @@ policies-notice =
 pane-general-title = Yleiset
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = Aloitussivu
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = Haku
 category-search =
     .tooltiptext = { pane-search-title }
@@ -286,6 +289,7 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = Uudet ikkunat ja välilehdet
 
 ## Home Section - Home Page Customization
 
