@@ -29,7 +29,7 @@
 <!ENTITY engine.addresses.label     "Адреси">
 <!ENTITY engine.addresses.title     "Запазени адреси (само от настолния)">
 <!ENTITY engine.addresses.accesskey "а">
-<!ENTITY engine.creditcards.label   "Кредитни карти">
+<!ENTITY engine.creditcards.label   "Банкови карти">
 <!ENTITY engine.creditcards.title   "Имена, номера и дати на изтичане (само от настолния)">
 <!ENTITY engine.creditcards.accesskey "н">
 
@@ -70,15 +70,13 @@ both, to better adapt this sentence to their language.
 <!ENTITY verifiedManage.accesskey     "У">
 <!ENTITY disconnect3.label            "Изключване…">
 <!ENTITY disconnect3.accesskey        "И">
-<!ENTITY verify.label                "Проверка на мейла">
-<!ENTITY verify.accesskey            "П">
-<!ENTITY forget.label                "Забравяне на ел. пощата">
-<!ENTITY forget.accesskey            "З">
-
 <!ENTITY resendVerification.label     "Повторно изпращане на потвърждение">
 <!ENTITY resendVerification.accesskey "в">
 <!ENTITY cancelSetup.label            "Отказ">
 <!ENTITY cancelSetup.accesskey        "з">
+
+<!ENTITY removeAccount.label          "Премахване на сметка">
+<!ENTITY removeAccount.accesskey      "п">
 
 <!ENTITY signedOut.caption            "Вземете Мрежата със себе си">
 <!ENTITY signedOut.description        "Синхронизирайте вашите отметки, история, раздели, добавки и настройки с всички ваши устройства.">

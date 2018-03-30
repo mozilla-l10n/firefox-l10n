@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Защита от проследяване">
-<!ENTITY  trackingProtection2.description      "Проследяването е събиране на данни за начина по който разглеждате различни сайтове. То може да бъде използвано за създаване на ваш профил и предлагане на съдържание базирано на поведенческа и лична информация.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "Използвайте защитата за спиране на известните проследяващи страници">
 <!ENTITY  trackingProtection3.description      "Защитата от проследяване спира страниците, които събират информация за вас докато разглеждате различни сайтове.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "Използвайте защитата за спиране на известните проследяващи страници">
 <!ENTITY  trackingProtectionAlways.label       "Винаги">
@@ -13,7 +11,6 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "С">
 <!ENTITY  trackingProtectionNever.label        "Никога">
 <!ENTITY  trackingProtectionNever.accesskey    "Н">
-<!ENTITY  trackingProtectionLearnMore.label    "Научете повече">
 <!ENTITY  trackingProtectionLearnMore2.label    "Научете повече за защитата от проследяване и поверителност">
 <!ENTITY  trackingProtectionExceptions.label   "Изключения…">
 <!ENTITY  trackingProtectionExceptions.accesskey "з">
@@ -24,11 +21,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "Научете повече">
 <!ENTITY changeBlockList2.label               "Промяна на блокиращия списък…">
 <!ENTITY changeBlockList2.accesskey           "с">
-
-<!ENTITY  doNotTrack.description        "Указване на сайтовете, че не желаете да бъдете проследявани">
-<!ENTITY  doNotTrack.learnMore.label    "Научете повече">
-<!ENTITY  doNotTrack.default.label      "Само при използване на защита от проследяване">
-<!ENTITY  doNotTrack.always.label       "Винаги">
 
 <!ENTITY  history.label                 "История">
 <!ENTITY  permissions.label             "Права">
@@ -54,6 +46,8 @@
 
 
 
+<!ENTITY  acceptThirdParty3.pre.label     "Приемане на бисквитки и данни за сайтове от трети лица">
+<!ENTITY  acceptThirdParty3.pre.accesskey "б">
 <!ENTITY  acceptThirdParty.always.label   "Винаги">
 <!ENTITY  acceptThirdParty.never.label    "Никога">
 <!ENTITY  acceptThirdParty.visited.label  "От посетените">
@@ -87,6 +81,7 @@
 <!ENTITY  rememberActions.middle.label        ", или ">
 <!ENTITY  rememberActions.removeCookies.label "да премахнете отделни бисквитки">
 <!ENTITY  rememberActions.post.label          ".">
+
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; ще използва същите настройки като при поверително разглеждане и няма да помни никаква история, докато сте в интернет.">
 
