@@ -18,7 +18,7 @@
 <!ENTITY pref.calendar.alarms.sound.play.accessKey "T">
 <!ENTITY pref.showalarmbox "Näytä huomautus">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "N">
-<!ENTITY pref.missedalarms2 "Näytä ohitetut hälyytykset muokattaville kalentereille">
+<!ENTITY pref.missedalarms2 "Näytä ohitetut hälytykset muokattaville kalentereille">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "o">
 <!ENTITY pref.calendar.alarms.defaults.label "Hälytyksen oletukset">
 <!ENTITY pref.defalarm4events.label "Tapahtumahälytysten oletusasetus:">
