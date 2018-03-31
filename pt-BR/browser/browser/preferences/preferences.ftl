@@ -290,6 +290,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Novas janelas e abas
+home-new-windows-tabs-description = Escolha o que você gostaria de ver quando abrir sua página inicial, novas janelas e abas.
 
 ## Home Section - Home Page Customization
 
@@ -306,6 +307,8 @@ home-mode-choice-custom =
     .label = URLs personalizadas...
 home-mode-choice-blank =
     .label = Página em branco
+home-homepage-custom-url =
+    .placeholder = Cole uma URL...
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
