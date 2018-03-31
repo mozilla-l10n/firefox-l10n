@@ -978,6 +978,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "เริ่มการทำงานใหม่เพื่ออัปเดต &brandShorterName;">
 
 
+<!ENTITY newTabControlled.header.message "แท็บใหม่ของคุณมีการเปลี่ยนแปลง">
 <!ENTITY newTabControlled.keepButton.label "เก็บการเปลี่ยนแปลง">
 <!ENTITY newTabControlled.keepButton.accesskey "ก">
 <!ENTITY newTabControlled.restoreButton.label "เรียกคืนการตั้งค่า">
