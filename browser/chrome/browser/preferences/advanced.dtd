@@ -53,8 +53,6 @@ available. -->
 <!ENTITY networkProxy.label              "Proxy de Rede">
 
 <!ENTITY connectionDesc.label            "Configurar como o &brandShortName; se conecta à internet">
-
-<!ENTITY connectionSettingsLearnMore.label "Saber mais">
 <!ENTITY connectionSettings.label        "Configurar conexão…">
 <!ENTITY connectionSettings.accesskey    "e">
 
@@ -64,11 +62,13 @@ available. -->
 <!ENTITY siteData.label                  "Dados do site">
 <!ENTITY clearSiteData.label             "Limpar todos os dados">
 <!ENTITY clearSiteData.accesskey         "L">
+<!ENTITY siteDataSettings.label          "Configurações…">
+<!ENTITY siteDataSettings.accesskey      "i">
 <!ENTITY siteData1.label                 "Cookies e Dados de sites">
 <!ENTITY clearSiteData1.label            "Limpar dados…">
 <!ENTITY clearSiteData1.accesskey        "L">
-<!ENTITY siteDataSettings.label          "Configurações…">
-<!ENTITY siteDataSettings.accesskey      "i">
+<!ENTITY siteDataSettings1.label         "Gerenciar dados…">
+<!ENTITY siteDataSettings1.accesskey     "G">
 <!ENTITY siteDataLearnMoreLink.label     "Saber mais">
 
 <!-- LOCALIZATION NOTE:

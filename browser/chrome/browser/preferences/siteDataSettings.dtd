@@ -4,7 +4,7 @@
 
 <!ENTITY     window.title                  "Configurações - Dados do site">
 
-<!ENTITY     window1.title                 "Configurações - Cookies e dados do site">
+<!ENTITY     window2.title                 "Gerenciar os cookies e dados do site">
 <!ENTITY     hostCol.label                 "Site">
 <!ENTITY     statusCol.label               "Status">
 <!ENTITY     cookiesCol.label              "Cookies">
