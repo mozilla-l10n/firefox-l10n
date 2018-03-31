@@ -5,6 +5,7 @@
 <!ENTITY window.title                 "ล้างข้อมูล">
 <!ENTITY window.width                 "35em">
 
+<!ENTITY window.description           "การล้างคุกกี้และข้อมูลไซต์ที่เก็บโดย &brandShortName; อาจเป็นการออกจากระบบของเว็บไซต์และลบข้อมูลเว็บออฟไลน์ แต่การล้างแคชจะไม่กระทบต่อการเข้าสู่ระบบของคุณ">
 <!ENTITY windowClose.key              "w">
 
 <!ENTITY clearSiteData.label          "คุกกี้และข้อมูลไซต์">
@@ -12,6 +13,7 @@
 <!ENTITY clearSiteData.description    "คุณอาจได้รับการลงชื่อออกจากเว็บไซต์หากล้างข้อมูล">
 
 <!ENTITY clearCache.label             "เนื้อหาเว็บที่ถูกแคชไว้">
+<!ENTITY clearCache.accesskey         "ไ">
 <!ENTITY clearCache.description       "จะต้องให้เว็บไซต์โหลดภาพและข้อมูลใหม่">
 
 <!ENTITY button.cancel.label          "ยกเลิก">
