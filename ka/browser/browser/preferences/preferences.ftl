@@ -82,7 +82,7 @@ search-results-sorry-message =
         [windows] ვწუხვართ! შედეგები “<span></span>” ფრაზისთვის არ მოიძებნა.
        *[other] ვწუხვართ! შედეგები “<span></span>” ფრაზისთვის არ მოიძებნა.
     }
-search-results-need-help = გესაჭიროებათ დახმარება? ეწვიეთ <a>{ -brand-short-name } მხარდაჭერის გვერდი</a> ბმულს
+search-results-need-help = გესაჭიროებათ დახმარება? ეწვიეთ <a>{ -brand-short-name } მხარდაჭერის გვერდს</a>
 
 ## General Section
 
