@@ -61,7 +61,44 @@
 <!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "Cidade:">
+<!ENTITY HomeCity.accesskey             "c">
+<!ENTITY HomeState.label                "Estado:">
+<!ENTITY HomeState.accesskey            "E">
+<!ENTITY HomeZipCode.label              "CEP:">
+<!ENTITY HomeZipCode.accesskey          "C">
+<!ENTITY HomeCountry.label              "País:">
+<!ENTITY HomeCountry.accesskey          "s">
+<!ENTITY HomeWebPage.label              "Endereço web:">
+<!ENTITY HomeWebPage.accesskey          "e">
+<!ENTITY Birthday.label                 "Data de nascimento:">
+<!ENTITY Birthday.accesskey             "n">
+<!ENTITY In.label                       "">
+<!ENTITY Year.placeholder               "Ano">
+<!ENTITY Or.value                       "ou">
+<!ENTITY Age.placeholder                "Idade">
+<!ENTITY YearsOld.label                 "">
 
+<!ENTITY Work.tab                       "Trabalho">
+<!ENTITY Work.accesskey                 "T">
+<!ENTITY JobTitle.label                 "Título:">
+<!ENTITY JobTitle.accesskey             "t">
+<!ENTITY Department.label               "Departamento:">
+<!ENTITY Department.accesskey           "D">
+<!ENTITY Company.label                  "Empresa:">
+<!ENTITY Company.accesskey              "p">
+<!ENTITY WorkAddress.label              "Endereço:">
+<!ENTITY WorkAddress.accesskey          "E">
+<!ENTITY WorkAddress2.label             "">
+<!ENTITY WorkAddress2.accesskey         "">
+<!ENTITY WorkCity.label                 "Cidade:">
+<!ENTITY WorkCity.accesskey             "C">
+<!ENTITY WorkState.label                "Estado:">
+<!ENTITY WorkState.accesskey            "t">
+<!ENTITY WorkZipCode.label              "CEP:">
+<!ENTITY WorkZipCode.accesskey          "E">
+<!ENTITY WorkCountry.label              "País:">
+<!ENTITY WorkCountry.accesskey          "s">
+<!ENTITY WorkWebPage.label              "Endereço web:">
 
 
 
