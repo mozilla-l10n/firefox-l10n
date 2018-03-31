@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = საიტებისთვის “არ მითვალთვალო” მოთხოვნის გაგზავნა
-do-not-track-learn-more = შეიტყვეთ მეტი
+do-not-track-learn-more = იხილეთ ვრცლად
 do-not-track-option-default =
     .label = მხოლოდ, თვალთვალისგან დაცვის დროს
 do-not-track-option-always =
@@ -135,7 +135,7 @@ show-tabs-in-taskbar =
 browser-containers-enabled =
     .label = სათავსი ჩანართების ჩართვა
     .accesskey = ჩ
-browser-containers-learn-more = შეიტყვეთ მეტი
+browser-containers-learn-more = იხილეთ ვრცლად
 browser-containers-settings =
     .label = პარამეტრები…
     .accesskey = პ
@@ -216,7 +216,7 @@ drm-content-header = ციფრული უფლებების მარ
 play-drm-content =
     .label = DRM-ით რეგულირებული შიგთავსის გაშვება
     .accesskey = D
-play-drm-content-learn-more = შეიტყვეთ მეტი
+play-drm-content-learn-more = იხილეთ ვრცლად
 update-application-title = { -brand-short-name }-ის განახლებები
 update-application-description = მუდმივად განაახლეთ { -brand-short-name }, რომ შეინარჩუნოთ წარმადობა, მდგრადობა და უსაფრთხოება.
 update-application-info = ვერსია { $version } <a>რა არის ახალი</a>

@@ -31,7 +31,7 @@ available. -->
 
 <!ENTITY enableHealthReport2.label       "&brandShortName;-ისთვის ნების დართვა, გადაუგზავნოს ტექნიკური მონაცემები Mozilla-ს">
 <!ENTITY enableHealthReport2.accesskey   "რ">
-<!ENTITY healthReportLearnMore.label     "შეიტყვეთ მეტი">
+<!ENTITY healthReportLearnMore.label     "იხილეთ ვრცლად">
 
 <!ENTITY dataCollection.label            "&brandShortName; მონაცემთა აღრიცხვა და გამოყენება">
 <!ENTITY dataCollectionDesc.label        "ჩვენ ვცდილობთ მოგცეთ არჩევანის უფლება და აღვრიცხოთ მხოლოდ ის მონაცემები, რაც საჭიროა &brandShortName;-ის გასაუმჯობესებლად. ჩვენ ყოველთვის დაგეკითხებით, პირადი ინფორმაციის მიღებამდე.">
@@ -42,7 +42,7 @@ available. -->
 
 <!ENTITY collectBrowserErrors.label          "&brandShortName;-ისთვის ნების დართვა, გადაუგზავნოს შეცდომების შესახებ მოხსენებები (შეცდომის შეტყობინებების ჩათვ.) Mozilla-ს">
 <!ENTITY collectBrowserErrors.accesskey      "ნ">
-<!ENTITY collectBrowserErrorsLearnMore.label "იხილეთ ვრცლად">
+<!ENTITY collectBrowserErrorsLearnMore.label "ვრცლად">
 
 <!ENTITY sendBackloggedCrashReports.label  "&brandShortName;-სთვის ნების დართვა, გადააგზავნოს დაგროვილი ავარიული დახურვის შეტყობინებები თქვენი სახელით">
 <!ENTITY sendBackloggedCrashReports.accesskey "დ">
@@ -62,14 +62,14 @@ available. -->
 <!ENTITY siteData.label                  "საიტის მონაცემები">
 <!ENTITY clearSiteData.label             "ყველა მონაცემის წაშლა">
 <!ENTITY clearSiteData.accesskey         "ყ">
+<!ENTITY siteDataSettings.label          "პარამეტრები…">
+<!ENTITY siteDataSettings.accesskey      "ტ">
 <!ENTITY siteData1.label                 "ფუნთუშები და საიტის მონაცემები">
 <!ENTITY clearSiteData1.label            "მონაცემთა გასუფთავება…">
 <!ENTITY clearSiteData1.accesskey        "მ">
-<!ENTITY siteDataSettings.label          "პარამეტრები…">
-<!ENTITY siteDataSettings.accesskey      "ტ">
 <!ENTITY siteDataSettings1.label         "მონაცემების მართვა…">
 <!ENTITY siteDataSettings1.accesskey     "მ">
-<!ENTITY siteDataLearnMoreLink.label     "შეიტყვეთ მეტი">
+<!ENTITY siteDataLearnMoreLink.label     "ვრცლად">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single

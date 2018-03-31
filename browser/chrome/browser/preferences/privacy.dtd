@@ -18,7 +18,7 @@
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "თვალთვალისგან დაცვის საშუალებით, პირადი თვალიერებისას, შეგიძლიათ ცნობილი მეთვალყურე ელემენტების შეზღუდვა">
 <!ENTITY trackingProtectionPBM6.accesskey     "თ">
-<!ENTITY trackingProtectionPBMLearnMore.label "შეიტყვეთ მეტი">
+<!ENTITY trackingProtectionPBMLearnMore.label "იხილეთ ვრცლად">
 <!ENTITY changeBlockList2.label               "შეზღუდულთა სიის ჩასწორება…">
 <!ENTITY changeBlockList2.accesskey           "შ">
 
@@ -114,7 +114,7 @@
 <!ENTITY  clearOnCloseSettings.label     "პარამეტრები…">
 <!ENTITY  clearOnCloseSettings.accesskey "ტ">
 
-<!ENTITY  browserContainersLearnMore.label      "შეიტყვეთ მეტი">
+<!ENTITY  browserContainersLearnMore.label      "ვრცლად">
 <!ENTITY  browserContainersEnabled.label        "სათავსი ჩანართების ჩართვა">
 <!ENTITY  browserContainersEnabled.accesskey    "ჩ">
 <!ENTITY  browserContainersSettings.label        "პარამეტრები…">
@@ -122,5 +122,5 @@
 
 <!ENTITY  a11yPrivacy.checkbox.label     "დამხმარე საშუალებებისთვის, ბრაუზერთან წვდომის შეზღუდვა">
 <!ENTITY  a11yPrivacy.checkbox.accesskey "დ">
-<!ENTITY  a11yPrivacy.learnmore.label    "შეიტყვეთ მეტი">
-<!ENTITY enableSafeBrowsingLearnMore.label "შეიტყვეთ მეტი">
+<!ENTITY  a11yPrivacy.learnmore.label    "იხილეთ ვრცლად">
+<!ENTITY enableSafeBrowsingLearnMore.label "იხილეთ ვრცლად">
