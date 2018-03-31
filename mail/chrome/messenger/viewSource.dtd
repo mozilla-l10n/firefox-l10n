@@ -43,6 +43,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goToLineCmd.accesskey "S">
 <!ENTITY goToLineCmd.commandkey "l">
 
+<!ENTITY viewMenu.label           "Görünüm">
+<!ENTITY viewMenu.accesskey       "G">
 <!ENTITY reloadCmd.label "Tazele">
 <!ENTITY reloadCmd.accesskey "T">
 <!ENTITY reloadCmd.commandkey "r">

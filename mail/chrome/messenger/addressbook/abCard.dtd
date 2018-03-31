@@ -39,15 +39,23 @@
 <!ENTITY PrimaryEmail.label             "E-posta:">
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "Ek e-posta:">
+<!ENTITY PreferMailFormat.label         "Tercih ettiği ileti alma biçimi:">
+<!ENTITY PreferMailFormat.accesskey     "b">
 <!ENTITY PlainText.label                "Düz metin">
 <!ENTITY HTML.label                     "HTML">
+<!ENTITY Unknown.label                  "Bilinmiyor">
 <!ENTITY chatName.label                 "Sohbet adı:">
 
 <!ENTITY WorkPhone.label                "İş:">
 <!ENTITY WorkPhone.accesskey            "ş">
 <!ENTITY HomePhone.label                "Ev:">
+<!ENTITY HomePhone.accesskey            "v">
 <!ENTITY FaxNumber.label                "Faks:">
+<!ENTITY FaxNumber.accesskey            "F">
+<!ENTITY PagerNumber.label              "Çağrı cihazı:">
+<!ENTITY PagerNumber.accesskey          "c">
 <!ENTITY CellularNumber.label           "Cep:">
+<!ENTITY CellularNumber.accesskey       "C">
 
 <!ENTITY Home.tab                       "Kişisel">
 <!ENTITY Home.accesskey                 "K">
@@ -91,12 +99,43 @@
 <!ENTITY WorkWebPage.accesskey          "e">
 
 <!ENTITY Other.tab                      "Diğer">
+<!ENTITY Custom1.label                  "Özel 1:">
 <!ENTITY Custom1.accesskey              "1">
+<!ENTITY Custom2.label                  "Özel 2:">
+<!ENTITY Custom2.accesskey              "2">
+<!ENTITY Custom3.label                  "Özel 3:">
+<!ENTITY Custom3.accesskey              "3">
+<!ENTITY Custom4.label                  "Özel 4:">
+<!ENTITY Custom4.accesskey              "4">
+<!ENTITY Notes.label                    "Notlar:">
+<!ENTITY Notes.accesskey                "N">
 
+<!ENTITY Chat.tab                       "Sohbet">
+<!ENTITY Chat.accesskey                 "S">
+<!ENTITY Gtalk.label                    "Google Talk:">
+<!ENTITY Gtalk.accesskey                "G">
+<!ENTITY AIM.label                      "AIM:">
+<!ENTITY AIM2.accesskey                 "M">
+<!ENTITY Yahoo.label                    "Yahoo!:">
+<!ENTITY Yahoo.accesskey                "Y">
 <!ENTITY Skype.label                    "Skype:">
+<!ENTITY Skype.accesskey                "S">
+<!ENTITY QQ.label                       "QQ:">
+<!ENTITY QQ.accesskey                   "Q">
 <!ENTITY MSN.label                      "MSN:">
+<!ENTITY MSN2.accesskey                 "N">
+<!ENTITY ICQ.label                      "ICQ:">
+<!ENTITY ICQ.accesskey                  "I">
+<!ENTITY XMPP.label                     "Jabber ID:">
+<!ENTITY XMPP.accesskey                 "J">
+<!ENTITY IRC.label                      "IRC nick:">
+<!ENTITY IRC.accesskey                  "R">
 
+<!ENTITY Photo.tab                      "Fotoğraf">
+<!ENTITY Photo.accesskey                "o">
+<!ENTITY PhotoDesc.label                "Aşağıdakilerden birini seçin:">
 <!ENTITY GenericPhoto.label             "Varsayılan fotoğraf">
+<!ENTITY GenericPhoto.accesskey         "V">
 <!ENTITY DefaultPhoto.label             "Varsayılan">
 <!ENTITY PhotoFile.label                "Bu bilgisayarda">
 <!ENTITY BrowsePhoto.label              "Gözat">
