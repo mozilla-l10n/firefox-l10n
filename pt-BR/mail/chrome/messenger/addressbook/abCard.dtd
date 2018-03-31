@@ -41,6 +41,7 @@
 <!ENTITY SecondEmail.label              "E-mail adicional:">
 <!ENTITY SecondEmail.accesskey          "a">
 <!ENTITY PreferMailFormat.label         "Preferir receber mensagem formatada como:">
+<!ENTITY PreferMailFormat.accesskey     "f">
 <!ENTITY PlainText.label                "Texto sem formatação">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Desconhecido">
@@ -102,6 +103,55 @@
 <!ENTITY WorkCountry.label              "País:">
 <!ENTITY WorkCountry.accesskey          "s">
 <!ENTITY WorkWebPage.label              "Endereço web:">
+<!ENTITY WorkWebPage.accesskey          "w">
 
+<!ENTITY Other.tab                      "Outro">
+<!ENTITY Other.accesskey                "o">
+<!ENTITY Custom1.label                  "Personalizado 1:">
+<!ENTITY Custom1.accesskey              "1">
+<!ENTITY Custom2.label                  "Personalizado 2:">
+<!ENTITY Custom2.accesskey              "2">
+<!ENTITY Custom3.label                  "Personalizado 3:">
+<!ENTITY Custom3.accesskey              "3">
+<!ENTITY Custom4.label                  "Personalizado 4:">
+<!ENTITY Custom4.accesskey              "4">
+<!ENTITY Notes.label                    "Notas:">
+<!ENTITY Notes.accesskey                "N">
 
+<!ENTITY Chat.tab                       "Bate-papo">
+<!ENTITY Chat.accesskey                 "B">
+<!ENTITY Gtalk.label                    "Google Talk:">
+<!ENTITY Gtalk.accesskey                "G">
+<!ENTITY AIM.label                      "AIM:">
+<!ENTITY AIM2.accesskey                 "M">
+<!ENTITY Yahoo.label                    "Yahoo!:">
+<!ENTITY Yahoo.accesskey                "Y">
+<!ENTITY Skype.label                    "Skype:">
+<!ENTITY Skype.accesskey                "k">
+<!ENTITY QQ.label                       "QQ:">
+<!ENTITY QQ.accesskey                   "Q">
+<!ENTITY MSN.label                      "MSN:">
+<!ENTITY MSN2.accesskey                 "N">
+<!ENTITY ICQ.label                      "ICQ:">
+<!ENTITY ICQ.accesskey                  "I">
+<!ENTITY XMPP.label                     "ID Jabber:">
+<!ENTITY XMPP.accesskey                 "j">
+<!ENTITY IRC.label                      "Apelido do IRC:">
+<!ENTITY IRC.accesskey                  "R">
 
+<!ENTITY Photo.tab                      "Foto">
+<!ENTITY Photo.accesskey                "o">
+<!ENTITY PhotoDesc.label                "Escolha uma das seguintes:">
+<!ENTITY GenericPhoto.label             "Foto genérica">
+<!ENTITY GenericPhoto.accesskey         "g">
+<!ENTITY DefaultPhoto.label             "Padrão">
+<!ENTITY PhotoFile.label                "Neste computador">
+<!ENTITY PhotoFile.accesskey            "n">
+<!ENTITY BrowsePhoto.label              "Navegar">
+<!ENTITY BrowsePhoto.accesskey          "r">
+<!ENTITY PhotoURL.label                 "Na Web">
+<!ENTITY PhotoURL.accesskey             "b">
+<!ENTITY PhotoURL.placeholder           "Digite ou cole o endereço web da foto">
+<!ENTITY UpdatePhoto.label              "Atualizar">
+<!ENTITY UpdatePhoto.accesskey          "u">
+<!ENTITY PhotoDropTarget.label          "Arraste até aqui uma nova foto">
