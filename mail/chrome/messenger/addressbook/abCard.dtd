@@ -31,6 +31,8 @@
 <!ENTITY PhoneticField2.label           "Fonético:">
 <!ENTITY DisplayName.label              "Apresentar como:">
 <!ENTITY DisplayName.accesskey          "A">
+<!ENTITY preferDisplayName.label        "Preferir sempre mostrar o nome em vez do cabeçalho da mensagem">
+<!ENTITY preferDisplayName.accesskey    "r">
 <!ENTITY NickName.label                 "Apelido:">
 <!ENTITY NickName.accesskey             "e">
 
@@ -38,6 +40,7 @@
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "E-mail adicional:">
 <!ENTITY SecondEmail.accesskey          "a">
+<!ENTITY PreferMailFormat.label         "Preferir receber mensagem formatada como:">
 <!ENTITY PlainText.label                "Texto sem formatação">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Desconhecido">
