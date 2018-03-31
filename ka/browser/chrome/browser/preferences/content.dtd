@@ -13,7 +13,7 @@
 <!ENTITY  notificationPermissions.label                         "შეტყობინებები">
 <!ENTITY  notificationSettingsButton.label                      "პარამეტრები…">
 <!ENTITY  notificationSettingsButton.accesskey                  "პ">
-<!ENTITY  notificationPermissionsLearnMore.label                "შეიტყვეთ მეტი">
+<!ENTITY  notificationPermissionsLearnMore.label                "ვრცლად">
 
 <!ENTITY  locationPermissions.label                             "მდებარეობა">
 <!ENTITY  locationSettingsButton.label                          "პარამეტრები…">
@@ -65,4 +65,4 @@
 
 <!ENTITY  playDRMContent2.label          "DRM-ით რეგულირებული შიგთავსის გაშვება">
 <!ENTITY  playDRMContent2.accesskey      "D">
-<!ENTITY  playDRMContent.learnMore.label "შეიტყვეთ მეტი">
+<!ENTITY  playDRMContent.learnMore.label "იხილეთ ვრცლად">
