@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.title "Navigazione anonima">
-<!ENTITY aboutPrivateBrowsing.notPrivate.title "Aprire una finestra anonima?">
 <!ENTITY aboutPrivateBrowsing.notPrivate "Questa non è una finestra anonima.">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Apri una finestra anonima">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "A">
