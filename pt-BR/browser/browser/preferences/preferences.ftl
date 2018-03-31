@@ -37,6 +37,11 @@ search-input-box =
             [windows] Pesquisar em opções
            *[other] Pesquisar em preferências
         }
+policies-notice =
+    { PLATFORM() ->
+        [windows] Sua organização desativou a possibilidade de modificar algumas opções
+       *[other] Sua organização desativou a possibilidade de modificar algumas preferências
+    }
 pane-general-title = Geral
 category-general =
     .tooltiptext = { pane-general-title }
