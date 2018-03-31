@@ -45,6 +45,9 @@ policies-notice =
 pane-general-title = Orokorra
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = Hasiera-orria
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = Bilaketa
 category-search =
     .tooltiptext = { pane-search-title }
@@ -286,9 +289,26 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = Leiho eta fitxa berriak
+home-new-windows-tabs-description = Aukeratu zer ikusi nahi duzun zure hasiera-orria, leiho berriak eta fitxa berriak irekitzean
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Hasiera-orria eta leiho berriak
+home-newtabs-mode-label = Fitxa berriak
+home-restore-defaults =
+    .label = Berrezarri lehenetsiak
+    .accesskey = B
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Firefoxen hasiera-orria (lehenetsia)
+home-mode-choice-custom =
+    .label = URL pertsonalizatuak…
+home-mode-choice-blank =
+    .label = Orri zuria
+home-homepage-custom-url =
+    .placeholder = Itsatsi URLa…
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
