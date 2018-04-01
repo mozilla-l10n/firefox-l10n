@@ -10,6 +10,7 @@
 <!ENTITY content.label "Contenuto">
 <!ENTITY fonts.label "Caratteri">
 <!ENTITY colors.label "Colori">
+<!ENTITY media.label "Media">
 <!ENTITY spellingPane.label "Ortografia">
 
 <!ENTITY navigator.label "Browser">
