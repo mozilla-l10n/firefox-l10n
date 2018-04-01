@@ -238,7 +238,7 @@
 <!ENTITY headersAllCmd.accesskey "ü">
 <!ENTITY headersNormalCmd.label "Normal">
 <!ENTITY headersNormalCmd.accesskey "N">
-<!ENTITY bodyMenu.label "İleti Gövdesi">
+<!ENTITY bodyMenu.label "İleti gövdesi">
 <!ENTITY bodyMenu.accesskey "v">
 <!ENTITY bodyAllowHTML.label "Özgün HTML">
 <!ENTITY bodyAllowHTML.accesskey "H">
@@ -249,7 +249,7 @@
 <!ENTITY bodyAllParts.label "Tüm gövde parçaları">
 <!ENTITY bodyAllParts.accesskey "T">
 
-<!ENTITY bodyMenuFeed.label "Besleme İletisi Gövdesi">
+<!ENTITY bodyMenuFeed.label "Besleme iletisi gövdesi">
 <!ENTITY bodyMenuFeed.accesskey "d">
 <!ENTITY viewFeedWebPage.label "Web sayfası">
 <!ENTITY viewFeedWebPage.accesskey "W">
@@ -509,8 +509,6 @@
 <!ENTITY devToolboxCmd.label "Geliştirici alet çantası">
 <!ENTITY devToolboxCmd.accesskey "T">
 <!ENTITY devToolboxCmd.commandkey "i">
-<!ENTITY addonDebugCmd.label "Eklenti hata ayıklayıcısı">
-<!ENTITY addonDebugCmd.accesskey "E">
 <!ENTITY debugAddonsCmd.label "Eklentilerde hata ayıkla">
 <!ENTITY debugAddonsCmd.accesskey "h">
 <!ENTITY tabsDebugCmd.label "İçerik çerçevesi hata ayıklayıcısı">
