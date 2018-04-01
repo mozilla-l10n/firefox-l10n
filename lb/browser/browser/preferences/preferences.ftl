@@ -52,15 +52,35 @@ category-privacy =
 pane-sync-title = Firefox-Konto
 category-sync =
     .tooltiptext = { pane-sync-title }
+help-button-label = Hëllef fir { -brand-short-name }
+focus-search =
+    .key = f
+close-button =
+    .aria-label = Zoumaachen
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = { -brand-short-name } muss nei gestart gi fir dës Funktioun z'aktivéieren.
+feature-disable-requires-restart = { -brand-short-name } muss nei gestart gi fir dës Funktioun ze desaktivéieren.
+should-restart-title = { -brand-short-name } nei starten
+should-restart-ok = { -brand-short-name } elo nei starten
+cancel-no-restart-button = Ofbriechen
+restart-later = Méi spéit nei starten
 
 ## Preferences UI Search Results
 
+search-results-header = Sichresultater
 
 ## General Section
 
+always-check-default =
+    .label = Ëmmer nokucken ob { -brand-short-name } de Standard-Browser ass
+    .accesskey = y
+is-default = { -brand-short-name } ass de Standard-Browser
+is-not-default = { -brand-short-name } ass net de Standard-Browser
+set-as-my-default-browser =
+    .label = Als Standard festleeën
+    .accesskey = S
 
 ## General Section - Language & Appearance
 
