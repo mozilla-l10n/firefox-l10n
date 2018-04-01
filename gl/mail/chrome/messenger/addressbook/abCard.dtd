@@ -29,10 +29,56 @@
 <!ENTITY NameField2.accesskey           "l">
 <!ENTITY PhoneticField1.label           "Fonética:">
 <!ENTITY PhoneticField2.label           "Fonética:">
+<!ENTITY NickName.label                 "Alcume:">
+<!ENTITY NickName.accesskey             "A">
 
+<!ENTITY PrimaryEmail.label             "Correo electrónico:">
+<!ENTITY PrimaryEmail.accesskey         "C">
+<!ENTITY SecondEmail.label              "Correo electrónico adicional:">
+<!ENTITY SecondEmail.accesskey          "i">
+<!ENTITY PreferMailFormat.label         "Prefire recibir mensaxes formatadas como:">
+<!ENTITY PreferMailFormat.accesskey     "b">
+<!ENTITY PlainText.label                "Texto sen formato">
+<!ENTITY HTML.label                     "HTML">
+<!ENTITY Unknown.label                  "Descoñecido">
+<!ENTITY chatName.label                 "Nome da conversa:">
 
+<!ENTITY WorkPhone.label                "Traballo:">
+<!ENTITY WorkPhone.accesskey            "r">
+<!ENTITY HomePhone.label                "Domicilio:">
+<!ENTITY HomePhone.accesskey            "m">
+<!ENTITY FaxNumber.label                "Fax:">
+<!ENTITY FaxNumber.accesskey            "x">
+<!ENTITY PagerNumber.label              "Busca:">
+<!ENTITY PagerNumber.accesskey          "a">
+<!ENTITY CellularNumber.label           "Móbil:">
+<!ENTITY CellularNumber.accesskey       "o">
 
+<!ENTITY Home.tab                       "Privado">
+<!ENTITY Home.accesskey                 "v">
+<!ENTITY HomeAddress.label              "Enderezo:">
+<!ENTITY HomeAddress.accesskey          "z">
+<!ENTITY HomeAddress2.label             "">
+<!ENTITY HomeAddress2.accesskey         "">
+<!ENTITY HomeCity.label                 "Cidade:">
+<!ENTITY HomeCity.accesskey             "d">
+<!ENTITY HomeState.label                "Estado/Provincia:">
+<!ENTITY HomeState.accesskey            "T">
+<!ENTITY HomeZipCode.label              "Código postal:">
+<!ENTITY HomeZipCode.accesskey          "g">
+<!ENTITY HomeCountry.label              "País:">
+<!ENTITY HomeCountry.accesskey          "s">
+<!ENTITY HomeWebPage.label              "Páxina web:">
+<!ENTITY HomeWebPage.accesskey          "w">
+<!ENTITY Birthday.label                 "Aniversario:">
+<!ENTITY Birthday.accesskey             "n">
+<!ENTITY In.label                       "">
+<!ENTITY Year.placeholder               "Ano">
+<!ENTITY Or.value                       "ou">
+<!ENTITY Age.placeholder                "Idade">
+<!ENTITY YearsOld.label                 "">
 
+<!ENTITY Work.tab                       "Traballo">
 
 
 
