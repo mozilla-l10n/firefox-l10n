@@ -290,9 +290,25 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Uudet ikkunat ja välilehdet
+home-new-windows-tabs-description = Valitse, mitä haluat nähdä avatessasi aloitussivun, uuden ikkunan ja uuden välilehden
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Aloitussivu ja uudet ikkunat
+home-newtabs-mode-label = Uudet välilehdet
+home-restore-defaults =
+    .label = Palauta oletukset
+    .accesskey = P
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Firefoxin aloitussivu (oletus)
+home-mode-choice-custom =
+    .label = Omat osoitteet…
+home-mode-choice-blank =
+    .label = Tyhjä sivu
+home-homepage-custom-url =
+    .placeholder = Liitä osoite…
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
