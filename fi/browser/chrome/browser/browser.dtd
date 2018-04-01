@@ -438,6 +438,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Kirjoita osoite tai hakutermi">
+<!ENTITY urlbar.placeholder3          "Kirjoita osoitteita ja hakutermejä tähän">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Laajennus:">
@@ -982,11 +983,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Päivitä käynnistämällä &brandShorterName; uudestaan">
 
 <!ENTITY newTabControlled.message "Laajennus on vaihtanut sivun, jonka näet avatessasi uuden välilehden. Voit palauttaa asetukset, jos et halua tätä muutosta.">
+
 <!ENTITY newTabControlled.header.message "Uusi välilehti -sivu on vaihtunut.">
 <!ENTITY newTabControlled.keepButton.label "Säilytä muutokset">
 <!ENTITY newTabControlled.keepButton.accesskey "S">
 <!ENTITY newTabControlled.restoreButton.label "Palauta asetukset">
 <!ENTITY newTabControlled.restoreButton.accesskey "P">
+
+<!ENTITY newTabControlled.disableButton.label "Estä laajennus">
+<!ENTITY newTabControlled.disableButton.accesskey "E">
 
 <!ENTITY pageActionButton.tooltip "Sivun toiminnot">
 <!ENTITY pageAction.addToUrlbar.label "Lisää osoitepalkkiin">
