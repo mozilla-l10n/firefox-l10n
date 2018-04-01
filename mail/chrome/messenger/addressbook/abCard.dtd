@@ -23,9 +23,51 @@
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
 <!ENTITY PhoneticField2.id              "PhoneticLastName">
 
+<!ENTITY NameField1.label               "Аты:">
+<!ENTITY NameField1.accesskey           "А">
+<!ENTITY NameField2.label               "Фамилиясы:">
+<!ENTITY NameField2.accesskey           "Ф">
+<!ENTITY PhoneticField1.label           "Айтылуы:">
+<!ENTITY PhoneticField2.label           "Айтылуы:">
+<!ENTITY DisplayName.label              "Көрсету:">
+<!ENTITY DisplayName.accesskey          "К">
+<!ENTITY preferDisplayName.label        "Хабарлама тақырыптамадағы аттың орнына көрсетілетін атын әрқашан таңдау">
+<!ENTITY preferDisplayName.accesskey    "а">
+<!ENTITY NickName.label                 "Бүркеншік аты:">
+<!ENTITY NickName.accesskey             "б">
 
+<!ENTITY PrimaryEmail.label             "Эл. пошта:">
+<!ENTITY PrimaryEmail.accesskey         "Э">
+<!ENTITY SecondEmail.label              "Қосымша эл. пошта:">
+<!ENTITY SecondEmail.accesskey          "о">
+<!ENTITY PreferMailFormat.label         "Қай пішімде поштаны алуды қалайды:">
+<!ENTITY PreferMailFormat.accesskey     "ш">
+<!ENTITY PlainText.label                "Ашық мәтін">
+<!ENTITY HTML.label                     "HTML">
+<!ENTITY Unknown.label                  "Белгісіз">
+<!ENTITY chatName.label                 "Чат аты:">
 
+<!ENTITY WorkPhone.label                "Жұмыс:">
+<!ENTITY WorkPhone.accesskey            "с">
+<!ENTITY HomePhone.label                "Үй:">
+<!ENTITY HomePhone.accesskey            "й">
+<!ENTITY FaxNumber.label                "Факс:">
+<!ENTITY FaxNumber.accesskey            "ф">
+<!ENTITY PagerNumber.label              "Пейджер:">
+<!ENTITY PagerNumber.accesskey          "ж">
+<!ENTITY CellularNumber.label           "Мобильді:">
+<!ENTITY CellularNumber.accesskey       "б">
 
+<!ENTITY Home.tab                       "Жеке">
+<!ENTITY Home.accesskey                 "е">
+<!ENTITY HomeAddress.label              "Адресі:">
+<!ENTITY HomeAddress.accesskey          "д">
+<!ENTITY HomeCity.label                 "Қала:">
+<!ENTITY HomeCity.accesskey             "л">
+<!ENTITY HomeState.label                "Аймақ:">
+<!ENTITY HomeState.accesskey            "м">
+<!ENTITY HomeZipCode.label              "Пошта индексі:">
+<!ENTITY HomeZipCode.accesskey          "и">
 
 
 
