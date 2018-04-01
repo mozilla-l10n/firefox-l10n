@@ -37,6 +37,21 @@ search-input-box =
             [windows] An den Optioune fannen
            *[other] An den Astellunge fannen
         }
+pane-general-title = Allgemeng
+category-general =
+    .tooltiptext = { pane-general-title }
+category-home =
+    .tooltiptext = { pane-home-title }
+pane-search-title = Sichen
+category-search =
+    .tooltiptext = { pane-search-title }
+pane-privacy-title = Dateschutz & Sécherheet
+category-privacy =
+    .tooltiptext = { pane-privacy-title }
+# The word "account" can be translated, do not translate or transliterate "Firefox".
+pane-sync-title = Firefox-Konto
+category-sync =
+    .tooltiptext = { pane-sync-title }
 
 ## Browser Restart Dialog
 
