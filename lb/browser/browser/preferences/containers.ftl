@@ -37,3 +37,54 @@ containers-button-done =
     .label = Fäerdeg
     .accesskey = D
 containers-remove-alert-title = Dëse Container läschen?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Wanns Du dëse Container elo läschs, wäert { $count } Tab zougemaach ginn. Bass Du sécher dëse Container zou ze maachen?
+       *[other] Wanns Du dëse Container elo läschs, wäerten { $count } Tabs zougemaach ginn. Bass Du sécher dëse Container zou ze maachen?
+    }
+containers-remove-ok-button = Dëse Container läschen
+containers-remove-cancel-button = Dëse Container net läschen
+containers-color-blue =
+    .label = Blo
+containers-color-turquoise =
+    .label = Turquoise
+containers-color-green =
+    .label = Gring
+containers-color-yellow =
+    .label = Giel
+containers-color-orange =
+    .label = Orange
+containers-color-red =
+    .label = Rout
+containers-color-pink =
+    .label = Pink
+containers-color-purple =
+    .label = Mof
+containers-icon-fingerprint =
+    .label = Fangerofdrock
+containers-icon-briefcase =
+    .label = Mapp
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+containers-icon-dollar =
+    .label = Dollarzeechen
+containers-icon-cart =
+    .label = Akafsweenchen
+containers-icon-circle =
+    .label = Punkt
+containers-icon-vacation =
+    .label = Vakanz
+containers-icon-gift =
+    .label = Geschenk
+containers-icon-food =
+    .label = Iessen
+containers-icon-fruit =
+    .label = Fruucht
+containers-icon-pet =
+    .label = Hausdéier
+containers-icon-tree =
+    .label = Bam
+containers-icon-chill =
+    .label = Chill
