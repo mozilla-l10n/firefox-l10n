@@ -297,6 +297,10 @@ home-newtabs-mode-label = નવી ટૅબ્સ
 home-restore-defaults =
     .label = મૂળભૂતને પુન:સંગ્રહો
     .accesskey = R
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Firefox મુખ્ય (મૂળભૂત)
 home-mode-choice-custom =
     .label = પોતાના URLs...
 home-mode-choice-blank =
