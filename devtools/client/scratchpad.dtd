@@ -34,7 +34,7 @@
 <!ENTITY openFileCmd.commandkey       "o">
 
 <!ENTITY openRecentMenu.label         "เปิดล่าสุด">
-<!ENTITY openRecentMenu.accesskey     "ด">
+<!ENTITY openRecentMenu.accesskey     "ล">
 
 <!ENTITY revertCmd.label              "เปลี่ยนกลับ…">
 <!ENTITY revertCmd.accesskey          "ล">
@@ -133,7 +133,7 @@
 <!ENTITY resetContext2.accesskey      "ก">
 
 <!ENTITY reloadAndRun.label           "โหลดใหม่แล้วทำงาน">
-<!ENTITY reloadAndRun.accesskey       "ม">
+<!ENTITY reloadAndRun.accesskey       "ห">
 <!ENTITY reloadAndRun.key             "r">
 
 <!ENTITY executeMenu.label            "ดำเนินการ">
@@ -148,4 +148,6 @@
 <!-- LOCALIZATION NOTE (evalFunction.label): This command allows the developer
   -  to evaluate the top-level function that the cursor is currently at.
   -->
+<!ENTITY evalFunction.label "ประเมินฟังก์ชันปัจจุบัน">
+<!ENTITY evalFunction.accesskey "ป">
 <!ENTITY evalFunction.key "e">
