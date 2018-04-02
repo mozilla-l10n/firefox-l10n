@@ -37,9 +37,17 @@ search-input-box =
             [windows] Rasti nuostatose
            *[other] Rasti nuostatose
         }
+policies-notice =
+    { PLATFORM() ->
+        [windows] Jūsų organizacija apribojo galimybę keisti dalį nuostatų.
+       *[other] Jūsų organizacija apribojo galimybę keisti dalį nuostatų.
+    }
 pane-general-title = Bendrosios
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = Pradžia
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = Paieška
 category-search =
     .tooltiptext = { pane-search-title }
@@ -62,6 +70,7 @@ feature-enable-requires-restart = Norint įjungti šį funkcionalumą, programą
 feature-disable-requires-restart = Norint išjungti šį funkcionalumą, programą „{ -brand-short-name }“ reikia perleisti.
 should-restart-title = Perleisti „{ -brand-short-name }“
 should-restart-ok = Perleisti „{ -brand-short-name }“ dabar
+cancel-no-restart-button = Atsisakyti
 restart-later = Perleisti vėliau
 
 ## Preferences UI Search Results
@@ -282,9 +291,26 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = Nauji langai ir kortelės
+home-new-windows-tabs-description = Pasirinkite, ką matysite atverdami savo pradžios tinklalapį, naujus langus, naujas korteles
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Pradžios tinklalapis ir nauji langai
+home-newtabs-mode-label = Naujos kortelės
+home-restore-defaults =
+    .label = Atstatyti numatytąsias
+    .accesskey = A
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = „Firefox“ pradžia (numatytoji)
+home-mode-choice-custom =
+    .label = Kiti URL…
+home-mode-choice-blank =
+    .label = Tuščias puslapis
+home-homepage-custom-url =
+    .placeholder = Įdėti URL…
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
