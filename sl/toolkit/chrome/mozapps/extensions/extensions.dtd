@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "Upravitelj dodatkov">
 
-<!ENTITY search.placeholder                   "Išči po vseh dodatkih">
-
 <!ENTITY search.placeholder2                  "Išči na addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Išči">
 <!-- LOCALIZATION NOTE (search.commandKey):
@@ -16,7 +14,6 @@
 <!ENTITY listEmpty.availableUpdates.label     "Ni novih posodobitev">
 <!ENTITY listEmpty.recentUpdates.label        "Nedavno niste posodobili nobenih dodatkov">
 <!ENTITY listEmpty.findUpdates.label          "Poišči posodobitve">
-<!ENTITY listEmpty.search.label               "Ustreznih dodatkov ni bilo mogoče najti">
 <!ENTITY listEmpty.button.label               "Več informacij o dodatkih">
 <!ENTITY installAddonFromFile.label           "Namesti dodatek iz datoteke …">
 <!ENTITY installAddonFromFile.accesskey       "I">
@@ -41,7 +38,6 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "Omogoči preverjanje, ali je posodobitev dodatka varna">
 
 <!-- categories / views -->
-<!ENTITY view.search.label                    "Iskanje">
 <!ENTITY view.discover.label                  "Prenesi dodatke">
 <!ENTITY view.recentUpdates.label             "Nedavne posodobitve">
 <!ENTITY view.availableUpdates.label          "Nove posodobitve">
@@ -107,9 +103,9 @@
 <!ENTITY cmd.uninstallAddon.label             "Odstrani">
 <!ENTITY cmd.uninstallAddon.accesskey         "r">
 <!ENTITY cmd.showPreferencesWin.label         "Možnosti">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Spremeni možnosti teh dodatkov">
+<!ENTITY cmd.showPreferencesWin.tooltip       "Spremeni možnosti tega dodatka">
 <!ENTITY cmd.showPreferencesUnix.label        "Nastavitve">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Spremeni nastavitve teh dodatkov">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Spremeni nastavitve tega dodatka">
 <!ENTITY cmd.contribute.label                 "Prispevaj">
 <!ENTITY cmd.contribute.accesskey             "P">
 <!ENTITY cmd.contribute.tooltip               "Sodelujte pri razvoju dodatkov">
@@ -173,16 +169,6 @@
 <!ENTITY sort.name.tooltip                    "Razvrsti po imenu">
 <!ENTITY sort.dateUpdated.label               "Zadnja posodobitev">
 <!ENTITY sort.dateUpdated.tooltip             "Razvrsti po datumu posodobitve">
-<!ENTITY sort.relevance.label                 "Ustreznost">
-<!ENTITY sort.relevance.tooltip               "Razvrsti po ustreznosti">
-<!ENTITY sort.price.label                     "Cena">
-<!ENTITY sort.price.tooltip                   "Razvrsti po ceni">
-
-<!ENTITY search.filter2.label                 "Iskanje:">
-<!ENTITY search.filter2.installed.label       "Moji dodatki">
-<!ENTITY search.filter2.installed.tooltip     "Prikaži nameščene dodatke">
-<!ENTITY search.filter2.available.label       "Razpoložljivi dodatki">
-<!ENTITY search.filter2.available.tooltip     "Prikaži dodatke, ki so na voljo za namestitev">
 
 <!ENTITY addon.homepage                       "Domača stran">
 <!ENTITY addon.details.label                  "Več">
