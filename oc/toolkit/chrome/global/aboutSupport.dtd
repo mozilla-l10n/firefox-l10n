@@ -75,6 +75,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsProcessCount "Procediments de contengut web">
 
+<!ENTITY aboutSupport.enterprisePolicies "Estrategias d’entrepresa">
+
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Clau Google">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Clau del servici de localizacion de Mozilla">
 

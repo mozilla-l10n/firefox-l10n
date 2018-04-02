@@ -282,9 +282,11 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = Novèlas fenèstras e novèls onglets
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Pagina d’acuèlh e novèlas fenèstras
 home-newtabs-mode-label = Onglets novèls
 home-restore-defaults =
     .label = Restablir los paramètres per defaut
