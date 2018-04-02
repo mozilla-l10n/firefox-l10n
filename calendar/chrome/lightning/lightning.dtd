@@ -42,7 +42,6 @@
      These strings are used in the calendar wizard and the calendar properties dialog, but are only
      displayed when setting/using a caldav calendar -->
 <!ENTITY lightning.calendarproperties.email.label                           "E-mail:">
-
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.label            "Foarkar foar e-mailplanning oan clientside">
 <!-- LOCALIZATON NOTE(lightning.calendarproperties.forceEmailScheduling.tooltiptext1,
      lightning.calendarproperties.forceEmailScheduling.tooltiptext2)
@@ -83,6 +82,13 @@
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "Fernij">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Barren fernije yn aginda">
 <!ENTITY lightning.imipbar.description                                      "Dit berjocht hat in útnûging foar in barren.">
+
+<!ENTITY lightning.imipbar.btnSend.label                                    "No in antwurd ferstjoere">
+<!ENTITY lightning.imipbar.btnSend.tooltiptext                              "In antwurd nei de organisator ferstjoere">
+<!ENTITY lightning.imipbar.btnSendSeries.tooltiptext                        "In antwurd foar de hiele searje nei de organisator ferstjoere">
+<!ENTITY lightning.imipbar.btnDontSend.label                                "Gjin antwurd ferstjoere">
+<!ENTITY lightning.imipbar.btnDontSend.tooltiptext                          "Jo dielnamesteat wizigje sûnder in antwurd nei de organisator te ferstjoeren">
+<!ENTITY lightning.imipbar.btnDontSendSeries.tooltiptext                    "Jo dielnamesteat wizigje foar de hiele searje sûnder in antwurd nei de organisator te ferstjoeren">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
