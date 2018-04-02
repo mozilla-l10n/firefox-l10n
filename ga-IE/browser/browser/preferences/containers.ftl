@@ -9,7 +9,7 @@ containers-window-new =
 #   $name (String) - Name of the container
 containers-window-update =
     .title = Sainroghanna don Choimeádán { $name }
-    .style = 50em
+    .style = width: 50em
 containers-window-close =
     .key = w
 # This is a term to store style to be applied
