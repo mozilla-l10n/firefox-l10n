@@ -43,4 +43,9 @@
 <!ENTITY location.placeholder "URL of hostnamme fan de agindaserver">
 
 <!ENTITY network.nocredentials.label "Dizze lokaasje fereasket gjin ferifikaasje">
+<!ENTITY network.loading.description "Ien momint, jo aginda’s wurde detektearre.">
+<!ENTITY network.notfound.description "Der binne gjin aginda’s op dizze lokaasje fûn. Kontrolearje jo ynstellingen.">
+<!ENTITY network.authfail.description "De ynfierde referinsjes waarden net akseptearre. Kontrolearje jo ynstellingen.">
 
+<!ENTITY network.subscribe.single.description "Selektearje de aginda’s wêrop jo jo abonnearje wolle.">
+<!ENTITY network.subscribe.multiple.description "Foar dizze lokaasje binne mear agindatypen beskikber. Selektearje it agindatype, en markearje dêrnei de aginda’s wêrop jo jo abonnearje wolle.">
