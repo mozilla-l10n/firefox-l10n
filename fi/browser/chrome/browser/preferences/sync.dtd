@@ -70,15 +70,13 @@ both, to better adapt this sentence to their language.
 <!ENTITY verifiedManage.accesskey     "H">
 <!ENTITY disconnect3.label            "Katkaise yhteys…">
 <!ENTITY disconnect3.accesskey        "y">
-<!ENTITY verify.label                "Vahvista sähköpostiosoite">
-<!ENTITY verify.accesskey            "V">
-<!ENTITY forget.label                "Unohda sähköpostiosoite">
-<!ENTITY forget.accesskey            "U">
-
 <!ENTITY resendVerification.label     "Lähetä vahvistus uudestaan">
 <!ENTITY resendVerification.accesskey "v">
 <!ENTITY cancelSetup.label            "Peruuta käyttöönotto">
 <!ENTITY cancelSetup.accesskey        "P">
+
+<!ENTITY removeAccount.label          "Poista tili">
+<!ENTITY removeAccount.accesskey      "P">
 
 <!ENTITY signedOut.caption            "Pidä oma selain aina mukanasi">
 <!ENTITY signedOut.description        "Synkronoi kirjanmerkit, sivuhistoria, välilehdet, salasanat, lisäosat ja asetukset kaikilla laitteillasi.">
