@@ -188,7 +188,33 @@
 
 <!ENTITY calendar.context.attendance.occ.accepted.accesskey     "a">
 <!ENTITY calendar.context.attendance.occ.accepted.label         "Akseptearre">
+<!ENTITY calendar.context.attendance.occ.tentative.accesskey    "F">
+<!ENTITY calendar.context.attendance.occ.tentative.label        "Foarearst akseptearre">
+<!ENTITY calendar.context.attendance.occ.declined.accesskey     "W">
+<!ENTITY calendar.context.attendance.occ.declined.label         "Wegere">
+<!ENTITY calendar.context.attendance.occ.delegated.accesskey    "D">
+<!ENTITY calendar.context.attendance.occ.delegated.label        "Delegearre">
+<!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "N">
+<!ENTITY calendar.context.attendance.occ.needsaction.label      "Noch hanneling fereaske">
+<!ENTITY calendar.context.attendance.occ.inprogress.accesskey   "W">
+<!ENTITY calendar.context.attendance.occ.inprogress.label       "Wurdt útfierd">
+<!ENTITY calendar.context.attendance.occ.completed.accesskey    "o">
+<!ENTITY calendar.context.attendance.occ.completed.label        "Foltôge">
 
+<!ENTITY calendar.context.attendance.all.accepted.accesskey     "e">
+<!ENTITY calendar.context.attendance.all.accepted.label         "Akseptearre">
+<!ENTITY calendar.context.attendance.all.tentative.accesskey    "r">
+<!ENTITY calendar.context.attendance.all.tentative.label        "Foarearst akseptearre">
+<!ENTITY calendar.context.attendance.all.declined.accesskey     "w">
+<!ENTITY calendar.context.attendance.all.declined.label         "Ofwezen">
+<!ENTITY calendar.context.attendance.all.delegated.accesskey    "g">
+<!ENTITY calendar.context.attendance.all.delegated.label        "Delegearre">
+<!ENTITY calendar.context.attendance.all.needsaction.accesskey  "a">
+<!ENTITY calendar.context.attendance.all.needsaction.label      "Noch hanneling fereaske">
+<!ENTITY calendar.context.attendance.all.inprogress.accesskey   "f">
+<!ENTITY calendar.context.attendance.all.inprogress.label       "Wurdt útfierd">
+<!ENTITY calendar.context.attendance.all.completed.accesskey    "l">
+<!ENTITY calendar.context.attendance.all.completed.label        "Foltôge">
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Foartgong">
