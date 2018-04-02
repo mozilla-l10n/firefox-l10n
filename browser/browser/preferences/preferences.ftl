@@ -287,12 +287,25 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Nové okná a karty
+home-new-windows-tabs-description = Vyberte si domovskú stránku a stránku zobrazovanú pri otvorení nového okna alebo karty.
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Domovská stránka a nové okná
+home-newtabs-mode-label = Nové karty
 home-restore-defaults =
     .label = Obnoviť predvolené
     .accesskey = r
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Predvolená domovská stránka Firefoxu
+home-mode-choice-custom =
+    .label = Vlastné URL adresy…
+home-mode-choice-blank =
+    .label = Prázdna stránka
+home-homepage-custom-url =
+    .placeholder = Zadajte URL adresu…
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
