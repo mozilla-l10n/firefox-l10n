@@ -9,7 +9,7 @@ containers-window-new =
 #   $name (String) - Name of the container
 containers-window-update =
     .title = Indstillinger for konteksten { $name }
-    .style = 33em
+    .style = width: 33em
 containers-window-close =
     .key = w
 # This is a term to store style to be applied
