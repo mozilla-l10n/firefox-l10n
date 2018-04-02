@@ -92,11 +92,13 @@
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
      For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
      as attachments.accesskey. -->
+<!ENTITY toggleAttachmentPaneCmd.accesskey "n">
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
      With OS-specific access modifier, this defines the shortcut key for showing/
      hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
      toggleAttachmentPaneCmd.key and attachments.accesskey must be the same
      for the bucket view state machinery to work. -->
+<!ENTITY toggleAttachmentPaneCmd.key "m">
 <!ENTITY selectAllCmd.label "Izberi vse">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "v">
@@ -340,6 +342,13 @@
 <!ENTITY convertRegularAttachment.accesskey "a">
 <!ENTITY attachPage.label "Pripni spletno stran …">
 <!ENTITY attachPage.accesskey "s">
+
+<!-- Attachment Pane Header Bar Context Menu -->
+<!-- LOCALIZATION NOTE (initiallyShowAttachmentPane.label):
+     Should use the same wording as startExpandedCmd.label
+     in msgHdrViewOverlay.dtd. -->
+<!ENTITY initiallyShowAttachmentPane.label "Na začetku prikaži podokno s priponkami">
+<!ENTITY initiallyShowAttachmentPane.accesskey "N">
 
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Dodaj slovarje …">
