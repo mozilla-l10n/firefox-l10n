@@ -44,8 +44,14 @@
 <!ENTITY  acceptThirdParty2.pre.label     "Cookies fan tredden akseptearje">
 <!ENTITY  acceptThirdParty2.pre.accesskey "t">
 
+<!ENTITY  acceptCookies4.label          "Cookies en websitegegevens fan websites akseptearje (oanrekommandearre)">
+<!ENTITY  acceptCookies4.accesskey      "C">
 
+<!ENTITY  blockCookies.label            "Cookies en websitegegevens blokkearje(kin derfoar soargje dat websites net goed wurkje)">
+<!ENTITY  blockCookies.accesskey        "b">
 
+<!ENTITY  acceptThirdParty3.pre.label     "Cookies fan tredden en websitegegevens akseptearje">
+<!ENTITY  acceptThirdParty3.pre.accesskey "d">
 <!ENTITY  acceptThirdParty.always.label   "Altyd">
 <!ENTITY  acceptThirdParty.never.label    "Nea">
 <!ENTITY  acceptThirdParty.visited.label  "Fan besochte">
@@ -80,6 +86,7 @@
 <!ENTITY  rememberActions.removeCookies.label "yndividuele cookies fuortsmite">
 <!ENTITY  rememberActions.post.label          ".">
 
+<!ENTITY  rememberDescription1.label      "&brandShortName; sil jo browser-, download-, formulier- en sykskiednis ûnthâlde.">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; sil deselde ynstellingen brûke as privee sneupe en sil gjin skiednis ûnthâlde as jo sneupe oer it ynternet.">
 

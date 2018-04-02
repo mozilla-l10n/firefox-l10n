@@ -44,6 +44,8 @@ available. -->
 <!ENTITY collectBrowserErrors.accesskey      "f">
 <!ENTITY collectBrowserErrorsLearnMore.label "Lês mear">
 
+<!ENTITY sendBackloggedCrashReports.label  "&brandShortName; tastean om út jo namme jo efterstallige ûngelokrapporten te ferstjoeren">
+<!ENTITY sendBackloggedCrashReports.accesskey "r">
 <!ENTITY crashReporterLearnMore.label    "Mear ynfo">
 
 <!ENTITY networkTab.label                "Netwurk">
