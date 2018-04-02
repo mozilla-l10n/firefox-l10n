@@ -5,51 +5,52 @@
 <!ENTITY windowTitle "Firefox WebIDE">
 
 <!ENTITY projectMenu_label "โครงการ">
-<!ENTITY projectMenu_accesskey "P">
+<!ENTITY projectMenu_accesskey "ค">
 <!ENTITY projectMenu_newApp_label "แอปใหม่…">
-<!ENTITY projectMenu_newApp_accesskey "N">
+<!ENTITY projectMenu_newApp_accesskey "ห">
 <!ENTITY projectMenu_importPackagedApp_label "เปิดแอปแบบแพ็คเกจ…">
-<!ENTITY projectMenu_importPackagedApp_accesskey "P">
+<!ENTITY projectMenu_importPackagedApp_accesskey "ป">
 <!ENTITY projectMenu_importHostedApp_label "เปิดแอปที่โฮสต์…">
-<!ENTITY projectMenu_importHostedApp_accesskey "H">
+<!ENTITY projectMenu_importHostedApp_accesskey "ด">
 <!ENTITY projectMenu_selectApp_label "เปิดแอป…">
-<!ENTITY projectMenu_selectApp_accesskey "O">
+<!ENTITY projectMenu_selectApp_accesskey "อ">
 <!ENTITY projectMenu_play_label "ติดตั้งและทำงาน">
-<!ENTITY projectMenu_play_accesskey "I">
+<!ENTITY projectMenu_play_accesskey "ต">
 <!ENTITY projectMenu_stop_label "หยุดแอป">
-<!ENTITY projectMenu_stop_accesskey "S">
+<!ENTITY projectMenu_stop_accesskey "ย">
 <!ENTITY projectMenu_debug_label "ดีบั๊กแอป">
-<!ENTITY projectMenu_debug_accesskey "D">
+<!ENTITY projectMenu_debug_accesskey "บ">
 <!ENTITY projectMenu_remove_label "เอาโครงการออก">
-<!ENTITY projectMenu_remove_accesskey "R">
+<!ENTITY projectMenu_remove_accesskey "ค">
 <!ENTITY projectMenu_showPrefs_label "ค่ากำหนด">
-<!ENTITY projectMenu_showPrefs_accesskey "e">
+<!ENTITY projectMenu_showPrefs_accesskey "ก">
 <!ENTITY projectMenu_manageComponents_label "จัดการส่วนประกอบพิเศษ">
-<!ENTITY projectMenu_manageComponents_accesskey "M">
+<!ENTITY projectMenu_manageComponents_accesskey "จ">
 <!ENTITY projectMenu_refreshTabs_label "เรียกแท็บใหม่">
 
 <!ENTITY runtimeMenu_label "Runtime">
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "ตัดการเชื่อมต่อ">
-<!ENTITY runtimeMenu_disconnect_accesskey "D">
+<!ENTITY runtimeMenu_disconnect_accesskey "ต">
 <!ENTITY runtimeMenu_takeScreenshot_label "จับภาพหน้าจอ">
-<!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
+<!ENTITY runtimeMenu_takeScreenshot_accesskey "จ">
 <!ENTITY runtimeMenu_showDetails_label "ข้อมูล Runtime">
-<!ENTITY runtimeMenu_showDetails_accesskey "E">
-<!ENTITY runtimeMenu_showMonitor_accesskey "M">
+<!ENTITY runtimeMenu_showDetails_accesskey "ข">
+<!ENTITY runtimeMenu_showMonitor_label "ตัวเฝ้าสังเกต">
+<!ENTITY runtimeMenu_showMonitor_accesskey "ว">
 <!ENTITY runtimeMenu_showDevicePrefs_label "ค่ากำหนดอุปกรณ์">
-<!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
+<!ENTITY runtimeMenu_showDevicePrefs_accesskey "ค">
 <!ENTITY runtimeMenu_showSettings_label "การตั้งค่าอุปกรณ์">
-<!ENTITY runtimeMenu_showSettings_accesskey "s">
+<!ENTITY runtimeMenu_showSettings_accesskey "ก">
 
-<!ENTITY viewMenu_label "ดู">
-<!ENTITY viewMenu_accesskey "V">
+<!ENTITY viewMenu_label "มุมมอง">
+<!ENTITY viewMenu_accesskey "ม">
 <!ENTITY viewMenu_zoomin_label "ซูมเข้า">
-<!ENTITY viewMenu_zoomin_accesskey "I">
+<!ENTITY viewMenu_zoomin_accesskey "ม">
 <!ENTITY viewMenu_zoomout_label "ซูมออก">
-<!ENTITY viewMenu_zoomout_accesskey "O">
+<!ENTITY viewMenu_zoomout_accesskey "อ">
 <!ENTITY viewMenu_resetzoom_label "กลับค่าเดิมของการซูม">
-<!ENTITY viewMenu_resetzoom_accesskey "R">
+<!ENTITY viewMenu_resetzoom_accesskey "ก">
 
 <!ENTITY projectButton_label "เปิดแอป">
 <!ENTITY runtimeButton_label "เลือก Runtime">
@@ -74,9 +75,7 @@
 <!ENTITY projectPanel_tabs "แท็บ">
 <!ENTITY runtimePanel_usb "อุปกรณ์ USB">
 <!ENTITY runtimePanel_wifi "อุปกรณ์ Wi-Fi">
-<!ENTITY runtimePanel_simulator "ตัวจำลอง">
 <!ENTITY runtimePanel_other "อื่น ๆ">
-<!ENTITY runtimePanel_installsimulator "ติดตั้งตัวจำลอง">
 <!ENTITY runtimePanel_noadbhelper "ติดตั้ง ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "ไม่เห็นอุปกรณ์ของคุณ?">
 <!ENTITY runtimePanel_refreshDevices_label "เรียกอุปกรณ์ใหม่">
@@ -154,18 +153,3 @@
      user to transfer authentication info by transferring a token. -->
 
 <!-- Logs panel -->
-
-<!-- Simulator Options -->
-<!ENTITY simulator_title "ตัวเลือกตัวจำลอง">
-<!ENTITY simulator_remove "ลบตัวจำลอง">
-<!ENTITY simulator_reset "เรียกคืนค่าเริ่มต้น">
-<!ENTITY simulator_name "ชื่อ">
-<!ENTITY simulator_software "ซอฟต์แวร์">
-<!ENTITY simulator_version "รุ่น">
-<!ENTITY simulator_profile "โปรไฟล์">
-<!ENTITY simulator_hardware "ฮาร์ดแวร์">
-<!ENTITY simulator_device "อุปกรณ์">
-<!ENTITY simulator_screenSize "หน้าจอ">
-<!ENTITY simulator_pixelRatio "อัตราส่วนพิกเซล">
-<!ENTITY simulator_tv_data "การจำลองโทรทัศน์">
-<!ENTITY simulator_tv_data_open_button "เปิดไดเรกทอรีกำหนดค่า…">
