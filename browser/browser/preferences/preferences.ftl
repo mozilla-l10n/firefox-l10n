@@ -14,8 +14,12 @@ pref-page =
             [windows] Opcions
            *[other] Preferéncias
         }
-# This string is currently used only in Firefox 60 and will be removed when not
-# needed for x-channel. See bug 1445686 for details.
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
 search-input =
     .style = width: 15.4em
 # This is used to determine the width of the search field in about:preferences,
@@ -36,6 +40,7 @@ search-input-box =
 pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = Acuèlh
 pane-search-title = Recercar
 category-search =
     .tooltiptext = { pane-search-title }
@@ -280,6 +285,14 @@ network-proxy-connection-settings =
 
 ## Home Section - Home Page Customization
 
+home-newtabs-mode-label = Onglets novèls
+home-restore-defaults =
+    .label = Restablir los paramètres per defaut
+    .accesskey = R
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Pagina d'acuèlh de Firefox (Per defaut)
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
