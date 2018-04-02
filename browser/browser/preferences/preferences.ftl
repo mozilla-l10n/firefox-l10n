@@ -290,9 +290,11 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = નવી વિન્ડો અને ટૅબ્સ
+home-new-windows-tabs-description = જ્યારે તમે તમારું મુખ્ય પૃષ્ઠ, નવી વિંડોઝ અને નવી ટેબ્સ ખોલો છો ત્યારે તમે શું જુઓ છો તે પસંદ કરો
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = મુખ્ય પૃષ્ઠ અને નવી વિંડોઝ
 home-newtabs-mode-label = નવી ટૅબ્સ
 home-restore-defaults =
     .label = મૂળભૂતને પુન:સંગ્રહો
