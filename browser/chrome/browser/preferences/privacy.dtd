@@ -44,6 +44,8 @@
 <!ENTITY  acceptThirdParty2.pre.label     "Leisti trečiųjų šalių slapukus">
 <!ENTITY  acceptThirdParty2.pre.accesskey "u">
 
+<!ENTITY  acceptCookies4.label          "Leisti įrašyti slapukus ir svetainių duomenis (rekomenduojama)">
+<!ENTITY  acceptCookies4.accesskey      "L">
 
 <!ENTITY  blockCookies.label            "Neleisti įrašyti slapukų ir svetainių duomenų (gali sutrikti svetainių veikimas)">
 <!ENTITY  blockCookies.accesskey        "N">
