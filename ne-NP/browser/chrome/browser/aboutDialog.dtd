@@ -20,8 +20,6 @@
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 <!ENTITY warningDesc.version        "&brandShortName; परीक्षणकालमा छ त्यसैले अलि अस्थिर हुन सक्छ।">
-<!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "यसले &brandShortName;लाई राम्रो बनाउनको निम्ति कार्य सम्पादन, हार्डवयर, उपयोग र अनुकूलनहरूको जानकारी स्वचालित तरिकाले &vendorShortName;लाई पठाउँछ।">
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 <!ENTITY community.exp.start        "">
@@ -30,7 +28,7 @@
 <!ENTITY community.exp.middle       " एउटा ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "विश्वव्यापी समुदाय">
-<!ENTITY community.exp.end          " वेबलाई खुल्ला, सार्वजनिक र सबै समक्ष पहुँच पुर्‍याउन लागि सहकार्यमा काम गर्दै।">
+<!ENTITY community.exp.end          " जसले वेबलाई खुल्ला, सार्वजनिक र सबैमा पहुँचको लागि सहकार्यमा काम गर्दैछ।">
 
 <!ENTITY community.start2           "&brandShortName; द्वारा बनाईयको">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -43,7 +41,7 @@
 <!ENTITY helpus.start               "सहयोग गर्न चाहनुहुन्छ? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://donate.mozilla.org/?utm_source=firefox&utm_medium=referral&utm_campaign=firefox_about&utm_content=firefox_about. -->
 <!ENTITY helpus.donateLink          "दान गर्नुहोस्">
-<!ENTITY helpus.middle              " अथवा ">
+<!ENTITY helpus.middle              " वा ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY helpus.getInvolvedLink     "सहभागी हुनुहोस्!">
 <!ENTITY helpus.end                 "">
