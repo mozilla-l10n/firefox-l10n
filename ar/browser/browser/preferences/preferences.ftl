@@ -305,6 +305,10 @@ home-newtabs-mode-label = الألسنة الجديدة
 home-restore-defaults =
     .label = استعد المبدئيات
     .accesskey = س
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = صفحة بداية فَيَرفُكس (المبدئية)
 home-mode-choice-custom =
     .label = عناوين مخصصة…
 home-mode-choice-blank =
