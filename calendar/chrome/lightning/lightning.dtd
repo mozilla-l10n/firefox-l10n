@@ -11,7 +11,7 @@
 <!ENTITY lightning.preferencesLabel "Lightning">
 
 <!-- New menu popup in File menu -->
-<!ENTITY lightning.menupopup.new.event.label    "Dogodek">
+<!ENTITY lightning.menupopup.new.event.label    "Dogodek …">
 <!ENTITY lightning.menupopup.new.event.accesskey "D">
 <!ENTITY lightning.menupopup.new.task.label     "Opravilo …">
 <!ENTITY lightning.menupopup.new.task.accesskey "O">
@@ -42,7 +42,6 @@
      These strings are used in the calendar wizard and the calendar properties dialog, but are only
      displayed when setting/using a caldav calendar -->
 <!ENTITY lightning.calendarproperties.email.label                           "E-poštno sporočilo:">
-
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.label            "Daj prednost odjemalčevemu e-poštnemu časovnemu razvrščanju">
 <!-- LOCALIZATON NOTE(lightning.calendarproperties.forceEmailScheduling.tooltiptext1,
      lightning.calendarproperties.forceEmailScheduling.tooltiptext2)
@@ -83,6 +82,7 @@
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "Posodobi">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Posodobi koledar dogodkov">
 <!ENTITY lightning.imipbar.description                                      "To sporočilo vsebuje povabilo na dogodek.">
+
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "K">
