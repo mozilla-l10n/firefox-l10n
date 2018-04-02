@@ -422,7 +422,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "Rutzijol Raxnaqil &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "Tikomonïx tzij rik\&apos;in ri &vendorShortName; chi rij rub\&apos;eyal ri awokik\&apos;amaya\&apos;l richin yatkito\&apos; chi niq\&apos;ax pan awi\&apos; ri rub\&apos;eyal nisamäj">
-<!ENTITY datareporting_abouthr_title "Tintz\&apos;eta\&apos; ri nutzijol richin rub\&apos;anikil">
 <!ENTITY datareporting_telemetry_title "Etataqonel">
 <!ENTITY datareporting_telemetry_summary "Takomonij ri na\&apos;oj pa ruwi\&apos; rub\&apos;eyal nisamäj, ri rokisaxik, ch\&apos;akulakem chuqa\&apos; richinaxik awokik\&apos;amaya\&apos;l rik\&apos;in &vendorShortName; richin chi ri &brandShortName; nel ütz">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; yerutäq kitzijol taq sachoj richin nuto\&apos; &vendorShortName; chi nub\&apos;än jun raxinäq chuqa\&apos; ütz awokik\&apos;amaya\&apos;l">
@@ -834,7 +833,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY activity_stream_topsites "Utziläj taq ruxaq K\&apos;amaya\&apos;l">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 <!ENTITY activity_stream_topstories "Chilab\&apos;en ruma &brandPocket;">
-<!ENTITY activity_stream_highlights "Taq k\&apos;ewachinïk">
+<!ENTITY activity_stream_highlights "Ya\&apos;on kiq\&apos;ij">
 
 <!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
 <!ENTITY activity_stream_link_more1 "MORE">
