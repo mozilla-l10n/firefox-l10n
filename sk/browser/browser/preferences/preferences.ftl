@@ -37,6 +37,11 @@ search-input-box =
             [windows] Hľadať
            *[other] Hľadať
         }
+policies-notice =
+    { PLATFORM() ->
+        [windows] Vaša organizácia vám zakázala meniť niektoré možnosti.
+       *[other] Vaša organizácia vám zakázala meniť niektoré možnosti.
+    }
 pane-general-title = Všeobecné
 category-general =
     .tooltiptext = { pane-general-title }
