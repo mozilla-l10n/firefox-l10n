@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Seurannan suojaus">
-<!ENTITY  trackingProtection2.description      "Seuranta on selaustietojen keräämistä useiden sivustojen yli. Seurantaa voidaan käyttää profilointiin ja näyttämään sisältöä selaus- ja henkilötietojesi perusteella.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "Käytä seurannan suojausta estämään tunnettuja seurantamenetelmiä">
 <!ENTITY  trackingProtection3.description      "Seurannan suojaus estää verkossa toimivia seurantamenetelmiä, jotka keräävät tietoja selaamisestasi yli sivustorajojen.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "Käytä seurannan suojausta estämään tunnettuja seurantamenetelmiä">
 <!ENTITY  trackingProtectionAlways.label       "Aina">
@@ -13,7 +11,6 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "V">
 <!ENTITY  trackingProtectionNever.label        "Ei koskaan">
 <!ENTITY  trackingProtectionNever.accesskey    "E">
-<!ENTITY  trackingProtectionLearnMore.label    "Lue lisää">
 <!ENTITY  trackingProtectionLearnMore2.label    "Lue lisää seurannan suojauksesta ja tietosuojastasi">
 <!ENTITY  trackingProtectionExceptions.label   "Poikkeukset…">
 <!ENTITY  trackingProtectionExceptions.accesskey "P">
@@ -24,11 +21,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "Lue lisää">
 <!ENTITY changeBlockList2.label               "Muuta estolistaa…">
 <!ENTITY changeBlockList2.accesskey           "M">
-
-<!ENTITY  doNotTrack.description        "Lähetä sivustoille Älä seuraa -signaali, että et halua sinua seurattavan">
-<!ENTITY  doNotTrack.learnMore.label    "Lue lisää">
-<!ENTITY  doNotTrack.default.label      "Vain käytettäessä seurannan suojausta">
-<!ENTITY  doNotTrack.always.label       "Aina">
 
 <!ENTITY  history.label                 "Historiatiedot">
 <!ENTITY  permissions.label             "Oikeudet">
@@ -51,6 +43,15 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "Salli kolmannen osapuolen evästeet">
 <!ENTITY  acceptThirdParty2.pre.accesskey "m">
+
+<!ENTITY  acceptCookies4.label          "Hyväksy evästeet ja sivustojen tallentamat tiedot sivustoilta (suositus)">
+<!ENTITY  acceptCookies4.accesskey      "H">
+
+<!ENTITY  blockCookies.label            "Estä evästeet ja sivustojen tallentamat tiedot (voi aiheuttaa sivustojen toimimattomuutta)">
+<!ENTITY  blockCookies.accesskey        "E">
+
+<!ENTITY  acceptThirdParty3.pre.label     "Hyväksy kolmannen osapuolen evästeet ja sivustojen tallentamat tiedot">
+<!ENTITY  acceptThirdParty3.pre.accesskey "k">
 <!ENTITY  acceptThirdParty.always.label   "Aina">
 <!ENTITY  acceptThirdParty.never.label    "Ei milloinkaan">
 <!ENTITY  acceptThirdParty.visited.label  "Vierailluilta sivustoilta">
@@ -85,6 +86,8 @@
 <!ENTITY  rememberActions.removeCookies.label "poistaa yksittäisiä evästeitä">
 <!ENTITY  rememberActions.post.label          ".">
 
+<!ENTITY  rememberDescription1.label      "&brandShortName; kerää ja säilyttää selaus-, lataus-, lomake- ja hakuhistorian.">
+
 <!ENTITY  dontrememberDescription.label  "&brandShortName; toimii aina kuten yksityisessä selaustilassa, eikä säilytä mitään historiatietoja.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
@@ -92,6 +95,9 @@
 <!ENTITY  dontrememberActions.pre.label          "Voit halutessasi myös ">
 <!ENTITY  dontrememberActions.clearHistory.label "poistaa kaikki kerätyt historiatiedot">
 <!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  clearHistoryButton.label       "Tyhjennä historia…">
+<!ENTITY  clearHistoryButton.accesskey   "T">
 
 <!ENTITY  privateBrowsingPermanent2.label "Selaa aina yksityinen selaus -tilassa">
 <!ENTITY  privateBrowsingPermanent2.accesskey "y">
