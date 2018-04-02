@@ -14,7 +14,7 @@
      (appearing most proximate to), not time (appearing before). -->
 <!ENTITY showSearchSuggestionsAboveHistory.label "Med rezultati naslovne vrstice prikaži predloge iskanja pred zgodovino brskanja">
 
-<!ENTITY defaultSearchEngine.label             "Privzet iskalnik">
+<!ENTITY defaultSearchEngine.label             "Privzeti iskalnik">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Izberite privzeti iskalnik, ki ga želite uporabiti v naslovni in iskalni vrstici.">
 

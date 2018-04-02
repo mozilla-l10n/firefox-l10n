@@ -335,7 +335,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Nastavitve">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
 
-<!ENTITY clearRecentHistory.label               "Počisti nedavno zgodovino">
+<!ENTITY clearRecentHistory.label               "Počisti nedavno zgodovino …">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
