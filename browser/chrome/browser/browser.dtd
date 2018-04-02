@@ -240,7 +240,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Avètz blocat las notificacions per aquel site.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Avètz empachat aquel site de gardar de biais persistent de donadas.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Avètz blocat la fenèstras surgentas per aqueste site.">
-
 <!ENTITY urlbar.canvasBlocked.tooltip            "Avètz empachat aqueste site de traire d’informacions de canvas.">
 
 <!ENTITY urlbar.midiBlocked.tooltip              "Avètz blocat l’accès MIDI per aqueste site web.">
@@ -388,7 +387,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "Pas cap d’onglet sincronizat pel moment.">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Volètz veire aquí los onglets dels vòstres autres periferics ?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferéncias de Sync">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Dobrir las preferéncias de sincronizacion">
@@ -397,7 +395,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Començar la session de Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Gerir los periferics…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Veire los onglets sincronizats dins la barra laterala">
-
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Connectar un autre periferic">
 
 <!ENTITY appMenuRecentHighlights.label "Notables recents">
@@ -806,7 +803,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Onglets sincronizats">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Connectatz-vos mejan Firefox de los vòstres autres periferics per afichar lors onglets aquí.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "Pas cap d’onglet sincronizat pel moment.">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Volètz afichar los onglets dels vòstres autres periferics aquí ?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Connectaz-vos per afichar la lista dels onglets dels vòstres autres periferics.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "Vos cal verificar vòstre compte.">
@@ -816,7 +812,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Activatz la sincronizacion dels onglets per afichar la lista dels onglets dels vòstres autres periferics.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Cercar dins los onglets sincronizats">
-
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Connectar un autre periferic">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
@@ -986,11 +981,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Reaviar per metre a jorn &brandShorterName;">
 
 <!ENTITY newTabControlled.message "Una extension a cambiat la pagina que se fa veire quand dobrissètz un onglet novèl. Podètz restablir vòstres paramètres s’aquò vos agrada pas.">
+
 <!ENTITY newTabControlled.header.message "La pagina Onglet novèls es estada cambiada.">
 <!ENTITY newTabControlled.keepButton.label "Servar los cambiaments">
 <!ENTITY newTabControlled.keepButton.accesskey "S">
 <!ENTITY newTabControlled.restoreButton.label "Restablir los paramètres">
 <!ENTITY newTabControlled.restoreButton.accesskey "R">
+
+<!ENTITY newTabControlled.disableButton.label "Desactivar l’extension">
 
 <!ENTITY pageActionButton.tooltip "Accions de la pagina">
 <!ENTITY pageAction.addToUrlbar.label "Apondre la barra d'adreça">
