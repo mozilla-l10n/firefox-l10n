@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Asetukset - Sivustojen tallentamat tiedot">
+
+<!ENTITY     window2.title                 "Hallitse evästeitä ja sivustojen tallentamia tietoja">
 <!ENTITY     hostCol.label                 "Sivusto">
 <!ENTITY     statusCol.label               "Tila">
 <!ENTITY     usageCol.label                "Tallennustila">
@@ -17,3 +19,4 @@
 <!ENTITY     removingDialog.title          "Sivuston tietojen poisto">
 <!ENTITY     removingSelected.description  "Sivuston tallentamien tietojen poistaminen poistaa myös evästeet ja yhteydetöntä tilaa varten tallennetut tiedot. Tämä voi kirjata sinut ulos sivustoilta. Haluatko varmasti tehdä muutokset?">
 <!ENTITY     siteTree2.label               "Seuraavat sivustojen evästeet poistetaan">
+<!ENTITY     removingDialog1.title         "Evästeiden ja sivustojen tietojen poisto">
