@@ -398,6 +398,7 @@
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Algemien">
 <!ENTITY read.only.title.label           "Titel:">
+<!ENTITY read.only.calendar.label        "Aginda:">
 <!ENTITY read.only.event.start.label     "Startdatum:">
 <!ENTITY read.only.task.start.label      "Startdatum:">
 <!ENTITY read.only.event.end.label       "Eindatum:">
@@ -416,3 +417,17 @@
 <!ENTITY read.only.attendees.label       "Dielnimmers">
 <!ENTITY read.only.description.label     "Beskriuwing">
 <!ENTITY read.only.link.label            "Byhearrende keppeling">
+
+<!-- Summary dialog -->
+<!ENTITY summary.dialog.saveclose.label         "Bewarje en slute">
+<!ENTITY summary.dialog.saveclose.tooltiptext   "Wizigingen bewarje en it finster slute sûnder de dielnamesteat te wizigjen en in antwurd te ferstjoeren">
+<!ENTITY summary.dialog.accept.label            "Akseptearje">
+<!ENTITY summary.dialog.accept.tooltiptext      "Utnûging akseptearje">
+<!ENTITY summary.dialog.tentative.label         "Foarearst">
+<!ENTITY summary.dialog.tentative.tooltiptext   "Utnûging foarearst akseptearje">
+<!ENTITY summary.dialog.decline.label           "Wegerje">
+<!ENTITY summary.dialog.decline.tooltiptext     "Utnûging ôfwize">
+<!ENTITY summary.dialog.dontsend.label          "Gjin antwurd ferstjoere">
+<!ENTITY summary.dialog.dontsend.tooltiptext    "Jo dielnamesteat wizigje sûnder in antwurd nei de organisator te ferstjoeren en it finster slute">
+<!ENTITY summary.dialog.send.label              "No in antwurd ferstjoere">
+<!ENTITY summary.dialog.send.tooltiptext        "In antwurd nei de organisator ferstjoere en it finster slute">
