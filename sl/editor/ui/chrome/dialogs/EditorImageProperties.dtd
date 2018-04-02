@@ -13,7 +13,7 @@
 <!ENTITY locationEditField.label "Mesto slike:">
 <!ENTITY locationEditField.accessKey "M">
 <!ENTITY locationEditField.tooltip "Vnesite ime datoteke ali mesto slike">
-<!ENTITY locationEditField.shortenedDataURI "Skrajšan podatkovni URI (kopiranje bo na odložišče vstavilo poln URI)">
+<!ENTITY locationEditField.shortenedDataURI "Skrajšan podatkovni URI (pri kopiranju bo na odložišče shranjen celoten URI)">
 <!ENTITY title.label "Orodni namig:">
 <!ENTITY title.accessKey "O">
 <!ENTITY title.tooltip "Atribut html 'title', ki se prikazuje kot orodni namig">
