@@ -21,7 +21,9 @@
 <!ENTITY importFromCanary.accesskey     "n">
 <!ENTITY importFromChrome.label         "ಕ್ರೋಮ್">
 <!ENTITY importFromChrome.accesskey     "C">
+<!ENTITY importFromChromeBeta.label     "ಕ್ರೋಮ್ ಬೀಟಾ">
 <!ENTITY importFromChromeBeta.accesskey "B">
+<!ENTITY importFromChromeDev.label      "ಕ್ರೋಮ್ ಡೆವ್">
 <!ENTITY importFromChromeDev.accesskey  "D">
 <!ENTITY importFromChromium.label       "ಕ್ರೋಮಿಯಮ್">
 <!ENTITY importFromChromium.accesskey   "u">

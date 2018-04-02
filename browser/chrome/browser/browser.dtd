@@ -977,6 +977,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.restoreButton.label "ಸಿದ್ದತೆಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸು">
 <!ENTITY newTabControlled.restoreButton.accesskey "R">
 
+<!ENTITY newTabControlled.disableButton.label "ಎಕ್ಸ್‌ಟೆನ್ಶನ್ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸು">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "ಪುಟದ ಕಾರ್ಯಗಳು">
