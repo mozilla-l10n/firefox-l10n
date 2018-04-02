@@ -7,7 +7,9 @@
 <!ENTITY     window2.title                 "Hallitse evästeitä ja sivustojen tallentamia tietoja">
 <!ENTITY     hostCol.label                 "Sivusto">
 <!ENTITY     statusCol.label               "Tila">
+<!ENTITY     cookiesCol.label              "Evästeet">
 <!ENTITY     usageCol.label                "Tallennustila">
+<!ENTITY     lastAccessedCol.label                "Viimeksi käytetty">
 <!ENTITY     searchTextboxPlaceHolder             "Etsi sivustoja">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "E">
 <!ENTITY     removeSelected.label          "Poista valitut">
@@ -20,3 +22,5 @@
 <!ENTITY     removingSelected.description  "Sivuston tallentamien tietojen poistaminen poistaa myös evästeet ja yhteydetöntä tilaa varten tallennetut tiedot. Tämä voi kirjata sinut ulos sivustoilta. Haluatko varmasti tehdä muutokset?">
 <!ENTITY     siteTree2.label               "Seuraavat sivustojen evästeet poistetaan">
 <!ENTITY     removingDialog1.title         "Evästeiden ja sivustojen tietojen poisto">
+<!ENTITY     removingSelected1.description "Sivuston tallentamien tietojen poistaminen voi kirjata sinut ulos sivustoilta. Haluatko varmasti tehdä muutokset?">
+<!ENTITY     siteTree3.label               "Seuraavien sivustojen evästeet ja tiedot poistetaan">
