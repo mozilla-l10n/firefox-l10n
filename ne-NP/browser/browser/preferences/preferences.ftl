@@ -290,6 +290,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = नयाँ संझ्याल तथा ट्याबहरू
+home-new-windows-tabs-description = तपाईँले आफ्नो गृहपृष्ठ, नयाँ सञ्झ्याल, र नयाँ ट्याब खोल्ने बेला के देख्नुहुन्छ भन्ने छनौट गर्नुहोस्
 
 ## Home Section - Home Page Customization
 
