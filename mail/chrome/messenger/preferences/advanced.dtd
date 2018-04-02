@@ -72,7 +72,7 @@
 <!ENTITY updateCheck.accesskey           "P">
 <!ENTITY updateManual.label              "Nikoli ne preverjaj posodobitev (ni priporočeno zaradi varnosti)">
 <!ENTITY updateManual.accesskey          "N">
-<!ENTITY updateHistory.label             "Pokaži zgodovino posodobitev">
+<!ENTITY updateHistory.label             "Prikaži zgodovino posodobitev">
 <!ENTITY updateHistory.accesskey         "o">
 
 <!ENTITY useService.label                "Uporabi storitev za nameščanje posodobitev v ozadju">

@@ -11,7 +11,7 @@
      -->
 <!ENTITY cmd.show.label                            "Odpri vsebujočo mapo">
 <!ENTITY cmd.show.accesskey                        "O">
-<!ENTITY cmd.showMac.label                         "Prikaži v iskalniku Finder">
+<!ENTITY cmd.showMac.label                         "Prikaži v Finderju">
 <!ENTITY cmd.showMac.accesskey                     "P">
 <!ENTITY cmd.open.label                            "Odpri">
 <!ENTITY cmd.open.accesskey                        "O">
