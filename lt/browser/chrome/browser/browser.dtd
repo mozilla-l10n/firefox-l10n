@@ -242,6 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.popupBlocked.tooltip             "Šioje svetainėje esate užblokavę iškylančiuosius langus.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Šioje svetainėje esate užblokavę drobės duomenų išgavimą.">
 
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "Šioje svetainėje esate užblokavę „Adobe Flash“ papildinio naudojimą.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Šioje svetainėje esate užblokavę MIDI naudojimą.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Rodyti žurnalą">
@@ -437,6 +438,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Įveskite adresą arba paieškos žodžius">
+<!ENTITY urlbar.placeholder3          "Veskite paieškos žodžius ir adresus čia">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Priedas:">
@@ -981,11 +983,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Perleiskite, norėdami atnaujinti „&brandShorterName;“">
 
 <!ENTITY newTabControlled.message "Kažkuris priedas pakeitė tinklalapį, matomą atvėrus naują kortelę. Jei nenorite šio pakeitimo, galite atkurti savo nuostatas.">
+
 <!ENTITY newTabControlled.header.message "Pasikeitė jūsų nauja kortelė.">
 <!ENTITY newTabControlled.keepButton.label "Palikti pakeitimus">
 <!ENTITY newTabControlled.keepButton.accesskey "k">
 <!ENTITY newTabControlled.restoreButton.label "Atkurti nuostatas">
 <!ENTITY newTabControlled.restoreButton.accesskey "r">
+
+<!ENTITY newTabControlled.disableButton.label "Išjungti priedą">
+<!ENTITY newTabControlled.disableButton.accesskey "I">
 
 <!ENTITY pageActionButton.tooltip "Tinklalapio veiksmai">
 <!ENTITY pageAction.addToUrlbar.label "Pridėti į adreso lauką">
