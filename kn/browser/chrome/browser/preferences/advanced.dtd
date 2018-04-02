@@ -59,6 +59,7 @@ available. -->
 <!ENTITY siteData1.label                 "ಕುಕ್ಕಿಗಳು ಮತ್ತು ತಾಣ ದತ್ತಾಂಶ">
 <!ENTITY clearSiteData1.label            "ದತ್ತಾಂಶ ಬರಿದುಮಾಡು…">
 <!ENTITY clearSiteData1.accesskey        "l">
+<!ENTITY siteDataSettings1.label         "ದತ್ತಾಂಶವನ್ನು ನಿರ್ವಹಿಸು…">
 <!ENTITY siteDataSettings1.accesskey     "M">
 <!ENTITY siteDataLearnMoreLink.label     "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
 
