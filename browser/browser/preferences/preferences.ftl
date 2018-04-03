@@ -353,6 +353,7 @@ containers-remove-button =
 
 ## Privacy Section - Forms
 
+forms-header = Formulir & Sandi
 forms-remember-logins =
     .label = Ingat info masuk dan sandi untuk situs web
     .accesskey = I
@@ -399,6 +400,8 @@ sitedata-learn-more = Pelajari lebih lanjut
 sitedata-block-cookies-option =
     .label = Blokir kuki dan data situs (bisa menyebabkan situs web macet)
     .accesskey = B
+sitedata-keep-until = Simpan hingga
+    .accesskey = h
 sitedata-accept-third-party-always-option =
     .label = Selalu
 sitedata-accept-third-party-visited-option =
@@ -428,6 +431,9 @@ addressbar-suggestions-settings = Ubah preferensi untuk saran mesin pencari
 
 ## Privacy Section - Tracking
 
+tracking-header = Perlindungan Pelacakan
+tracking-description = Perlindungan pelacakan memblokir pelacak daring yang mengumpulkan data penjelajahan Anda lintas berbagai situs web. <a>Pelajari lebih lanjut tentang Perlindungan Pelacakan dan privasi Anda</a>
+tracking-mode-label = Gunakan Perlindungan Pelacakan untuk memblokir pelacak yang diketahui
 tracking-mode-always =
     .label = Selalu
     .accesskey = S
@@ -447,6 +453,7 @@ tracking-exceptions =
 
 ## Privacy Section - Permissions
 
+permissions-header = Hak Akses
 permissions-location = Lokasi
 permissions-location-settings =
     .label = Setelan…
@@ -489,10 +496,17 @@ permissions-a11y-privacy-link = Pelajari lebih lanjut
 collection-header = { -brand-short-name } Pengumpulan dan Penggunaan Data
 collection-description = Kami berusaha memberi Anda pilihan dan mengumpulkan hanya apa yang kami butuhkan untuk menyediakan dan meningkatkan { -brand-short-name } bagi semua orang. Kami selalu meminta izin sebelum menerima informasi pribadi.
 collection-privacy-notice = Pemberitahuan Privasi
+collection-health-report =
+    .label = Izinkan { -brand-short-name } mengirim data teknis dan interaksi ke { -vendor-short-name }
+    .accesskey = r
 collection-health-report-link = Pelajari Lebih Lanjut
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Pelaporan data dinonaktifkan untuk konfigurasi build ini
+collection-browser-errors =
+    .label = Izinkan { -brand-short-name } mengirim laporan galat peramban (termasuk pesan galat) ke { -vendor-short-name }
+    .accesskey = p
+collection-browser-errors-link = Pelajari lebih lanjut
 collection-backlogged-crash-reports =
     .label = Izinkan { -brand-short-name } mengirim tumpukan laporan kerusakan atas nama Anda
     .accesskey = r
@@ -503,6 +517,7 @@ collection-backlogged-crash-reports-link = Pelajari Lebih Lanjut
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Keamanan
 security-browsing-protection = Perlindungan Konten Penipuan dan Perangkat Lunak Berbahaya
 security-enable-safe-browsing =
     .label = Blokir konten berbahaya dan tidak dapat dipercaya
