@@ -186,6 +186,10 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-visited-option =
+    .label = Firi bea a wɔasra
+sitedata-accept-third-party-never-option =
+    .label = Daabi da
 sitedata-cookies-exceptions =
     .label = Ngyegye…
     .accesskey = e
