@@ -366,3 +366,64 @@ containers-preferences-button =
     .label = Roghainnean
 containers-remove-button =
     .label = Thoir air falbh
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = Eisgeachdan…
+    .accesskey = E
+forms-master-pw-change =
+    .label = Atharraich am prìomh fhacal-faire…
+    .accesskey = m
+
+## Privacy Section - History
+
+history-dontremember-description = Cleachdaidh { -brand-short-name } na dearbh roghainnean 's a tha agad ann an brabhsadh prìobhaideach agus cha chuimhnich e eachdraidh sam bith 's tu a' brabhsadh an lìn.
+history-private-browsing-permanent =
+    .label = Dèan brabhsadh prìobhaideach an-còmhnaidh
+    .accesskey = p
+history-remember-search-option =
+    .label = Cuimhnich eachdraidh nan lorg is nam foirmichean
+    .accesskey = f
+history-clear-on-close-option =
+    .label = Glan an eachdraidh nuair a dhùineas { -brand-short-name }
+    .accesskey = r
+history-clear-on-close-settings =
+    .label = Roghainnean…
+    .accesskey = n
+
+## Privacy Section - Site Data
+
+sitedata-cookies-exceptions =
+    .label = Eisgeachdan…
+    .accesskey = E
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-block-popups =
+    .label = Cuir bacadh air priob-uinneagan
+    .accesskey = b
+permissions-addon-exceptions =
+    .label = Eisgeachdan…
+    .accesskey = E
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
