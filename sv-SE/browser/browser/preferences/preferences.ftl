@@ -387,6 +387,9 @@ containers-remove-button =
 forms-exceptions =
     .label = Undantag…
     .accesskey = d
+forms-saved-logins =
+    .label = Sparade inloggningar…
+    .accesskey = l
 forms-master-pw-use =
     .label = Använd ett huvudlösenord
     .accesskey = A
@@ -396,6 +399,7 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-header = Historik
 history-dontremember-description = { -brand-short-name } kommer att använda samma inställningar som för privat surfning och kommer inte att spara någon historik när du surfar.
 history-private-browsing-permanent =
     .label = Använd alltid läget privat surfning
@@ -427,9 +431,27 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-bookmarks-option =
+    .label = Bokmärken
+    .accesskey = k
+addressbar-locbar-openpage-option =
+    .label = Öppna flikar
+    .accesskey = Ö
 
 ## Privacy Section - Tracking
 
+tracking-mode-always =
+    .label = Alltid
+    .accesskey = i
+tracking-mode-private =
+    .label = Bara i privata fönster
+    .accesskey = r
+tracking-mode-never =
+    .label = Aldrig
+    .accesskey = A
+tracking-exceptions =
+    .label = Undantag…
+    .accesskey = n
 
 ## Privacy Section - Permissions
 
@@ -449,6 +471,12 @@ collection-health-report-link = Läs mer
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-enable-safe-browsing =
+    .label = Blockera farligt och vilseledande innehåll
+    .accesskey = B
+security-block-downloads =
+    .label = Blockera farliga hämtningar
+    .accesskey = f
 
 ## Privacy Section - Certificates
 
