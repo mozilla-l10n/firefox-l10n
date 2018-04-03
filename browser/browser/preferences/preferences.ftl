@@ -391,6 +391,10 @@ history-dontremember-description = A { -brand-short-name } ugyanazokat a beáll�
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-visited-option =
+    .label = Meglátogatottól
+sitedata-accept-third-party-never-option =
+    .label = Soha
 
 ## Privacy Section - Address Bar
 
@@ -412,3 +416,7 @@ history-dontremember-description = A { -brand-short-name } ugyanazokat a beáll�
 
 ## Privacy Section - Certificates
 
+certs-header = Tanúsítványok
+certs-enable-ocsp =
+    .label = Az OCSP válaszoló kiszolgálók lekérdezése a tanúsítványok érvényességének megerősítéséhez
+    .accesskey = C
