@@ -22,28 +22,14 @@ feature-enable-requires-restart = { -brand-short-name } zrëszë znowa bë włą
 feature-disable-requires-restart = { -brand-short-name } zrëszë znowa bë wëłączëc nã fùnkcjã.
 should-restart-title = Zrëszë { -brand-short-name } znowa.
 
+## Preferences UI Search Results
+
+
 ## General Section
 
 startup-header = Zrëszanié
 startup-blank-page =
     .label = wëskrzeni pùstą stronã
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Ùżëjë aktualny stronë
-           *[other] Ùżëjë ti stronë
-        }
-    .accesskey = Ù
-choose-bookmark =
-    .label = Ùżëjë załóżka…
-    .accesskey = ż
-restore-default =
-    .label = Doprowadzë nazôd
-    .accesskey = n
 tabs-group-header = Kôrtë
 show-tabs-in-taskbar =
     .label = Przeniesë kôrtë na lëstwã dzejaniô Windowsa
@@ -115,6 +101,29 @@ network-proxy-connection-settings =
     .label = Nastawë…
     .accesskey = N
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Ùżëjë aktualny stronë
+           *[other] Ùżëjë ti stronë
+        }
+    .accesskey = Ù
+choose-bookmark =
+    .label = Ùżëjë załóżka…
+    .accesskey = ż
+restore-default =
+    .label = Doprowadzë nazôd
+    .accesskey = n
+
 ## Search Section
 
 # This warning is displayed when the chosen keyword is already in use
@@ -124,3 +133,86 @@ search-keyword-warning-title = Kluczowé słowò ju je
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Wëbróné kluczowé słowò je ju w ùżëcym przez przezérnik "{ $name }". Wëbierzë jinszé.
 search-keyword-warning-bookmark = Wëbróné kluczowé słowò je ju w ùżëcym przez załóżkã "%S". Wëbierzë jinszé.
+
+## Containers Section
+
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = Wëjimczi…
+    .accesskey = m
+forms-master-pw-use =
+    .label = Ùżëjë przédny parolë
+    .accesskey = p
+forms-master-pw-change =
+    .label = Zmieni przédną parolã…
+    .accesskey = Z
+
+## Privacy Section - History
+
+history-header = Historiô
+history-dontremember-description = Program { -brand-short-name } bãdze brëkòwôł tëch sómëch nastawów co w priwatnym tribie i nie bãdze pamiãtôł historie przë przezéranim stronów WWW.
+history-private-browsing-permanent =
+    .label = Wiedno ùżëwôj tribu priwatnégò przezéraniô sécë
+    .accesskey = Ù
+history-remember-option =
+    .label = Pamiãtôj historiã zladënków
+    .accesskey = z
+history-remember-search-option =
+    .label = Spamiãtiwôj historiã szëkbë i fòrmùlarzów
+    .accesskey = f
+history-clear-on-close-option =
+    .label = Wëczëszczë historiã przë zamëkanim programù { -brand-short-name }
+    .accesskey = ë
+history-clear-on-close-settings =
+    .label = Nastawë…
+    .accesskey = N
+
+## Privacy Section - Site Data
+
+sitedata-accept-third-party-always-option =
+    .label = Wiedno
+sitedata-accept-third-party-visited-option =
+    .label = Z òdwiedzanëch
+sitedata-accept-third-party-never-option =
+    .label = Nigdë
+sitedata-cookies-exceptions =
+    .label = Wëjimczi…
+    .accesskey = W
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-block-popups =
+    .label = Blokùjë wëskakùjącé òkna
+    .accesskey = B
+permissions-block-popups-exceptions =
+    .label = Wëjimczi…
+    .accesskey = ë
+permissions-addon-exceptions =
+    .label = Wëjimczi…
+    .accesskey = W
+
+## Privacy Section - Data Collection
+
+collection-health-report-link = Wicy wëdowiedzë
+collection-backlogged-crash-reports-link = Wëdowiedzë sã wicy
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
+certs-header = Certifikatë
