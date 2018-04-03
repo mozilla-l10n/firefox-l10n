@@ -272,11 +272,21 @@ containers-remove-button =
 
 ## Privacy Section - History
 
+history-dontremember-description = { -brand-short-name } එම සැකසුම්ම පුද්ගලික ගවේෂණය සඳහා යොදාගනු ඇති අතර ඔබ ගවේෂණය කරන අතරතුර කිසිදු ඉතිහාසයක් මතකයේ තබානොගනු ඇත.
+history-remember-search-option =
+    .label = සෙවීම් සහ පෝරම අතීතයන් මතක තබාගන්න
+    .accesskey = f
+history-clear-on-close-settings =
+    .label = සැකසුම්…
+    .accesskey = t
 
 ## Privacy Section - Site Data
 
 sitedata-accept-third-party-never-option =
     .label = Never
+sitedata-cookies-exceptions =
+    .label = හැරදැමීම්...
+    .accesskey = E
 
 ## Privacy Section - Address Bar
 
