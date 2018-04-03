@@ -385,10 +385,14 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = ब्राउज़र गोपनीयता
 
 ## Privacy Section - Forms
 
 forms-header = फ़ॉर्म व कूटशब्द
+forms-remember-logins =
+    .label = वेबसाइटों के लिए लॉगिन और पासवर्ड याद रखें
+    .accesskey = R
 forms-exceptions =
     .label = अपवाद…
     .accesskey = x
@@ -443,6 +447,7 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Open टैब
     .accesskey = O
+addressbar-suggestions-settings = खोज इंजिन सुझाव के लिए प्राथमिकताएँ बदलें
 
 ## Privacy Section - Tracking
 
@@ -474,6 +479,9 @@ permissions-block-popups =
 permissions-block-popups-exceptions =
     .label = अपवाद...
     .accesskey = E
+permissions-addon-install-warning =
+    .label = वेबसाइटों द्वारा ऐड-ऑन अधिस्थापित करने के प्रयास पर आपको चेतावनी दें
+    .accesskey = W
 permissions-addon-exceptions =
     .label = अपवाद…
     .accesskey = E
