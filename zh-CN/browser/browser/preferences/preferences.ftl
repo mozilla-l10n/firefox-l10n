@@ -405,6 +405,9 @@ forms-master-pw-change =
 
 history-header = 历史记录
 history-dontremember-description = { -brand-short-name } 将采用与“隐私浏览模式”相同的设置，不会记录您浏览网络的历史。
+history-private-browsing-permanent =
+    .label = 始终使用隐私浏览模式
+    .accesskey = p
 history-remember-option =
     .label = 记住我的浏览和下载历史
     .accesskey = b
