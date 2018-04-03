@@ -389,6 +389,9 @@ containers-remove-button =
 forms-exceptions =
     .label = Nemedennoù…
     .accesskey = m
+forms-saved-logins =
+    .label = Titouroù kennaskañ enrollet...
+    .accesskey = k
 forms-master-pw-use =
     .label = Arverañ ur ger-tremen mestr
     .accesskey = A
@@ -398,6 +401,7 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-header = Roll istor
 history-dontremember-description = { -brand-short-name } a implijo ar memes arventennoù hag ar merdeiñ prevez, ha ne zalc'ho ket soñj ar roll istor.
 history-private-browsing-permanent =
     .label = Atav arverañ mod merdeiñ prevez
@@ -427,15 +431,38 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-bookmarks-option =
+    .label = Sinedoù
+    .accesskey = S
+addressbar-locbar-openpage-option =
+    .label = Digeriñ ivinelloù
+    .accesskey = D
 
 ## Privacy Section - Tracking
 
+tracking-header = Gwarez heuliañ
+tracking-mode-always =
+    .label = Atav
+    .accesskey = t
+tracking-mode-private =
+    .label = Er prenestroù prevez hepken
+    .accesskey = p
+tracking-mode-never =
+    .label = Morse
+    .accesskey = M
+tracking-exceptions =
+    .label = Nemedennoù…
+    .accesskey = N
 
 ## Privacy Section - Permissions
 
+permissions-notification = Rebuzadurioù
 permissions-block-popups =
     .label = Herzel an diflugelloù
     .accesskey = H
+permissions-block-popups-exceptions =
+    .label = Nemedennoù
+    .accesskey = N
 permissions-addon-exceptions =
     .label = Nemedennoù
     .accesskey = N
@@ -448,10 +475,25 @@ permissions-addon-exceptions =
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-enable-safe-browsing =
+    .label = Stankañ endalc'hadoù arvarus pe touellus
+    .accesskey = S
+security-block-downloads =
+    .label = Stankañ pellgargadurioù arvarus
+    .accesskey = p
+security-block-uncommon-software =
+    .label = Kelaouiñ ac'hanon a-zivout meziantoù dic'hoantaet ha divoutin
+    .accesskey = m
 
 ## Privacy Section - Certificates
 
 certs-header = Testenioù
+certs-select-auto-option =
+    .label = Diuz unan ent emgefreek
+    .accesskey = D
+certs-select-ask-option =
+    .label = Goulenn diganin bewech
+    .accesskey = G
 certs-enable-ocsp =
     .label = Goulenn kadarnaat talvoudegezh an testenioù gant an dafariadoù OCSP
     .accesskey = G
