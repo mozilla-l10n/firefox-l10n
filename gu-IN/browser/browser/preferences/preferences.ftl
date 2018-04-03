@@ -385,6 +385,7 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = બ્રાઉઝર ગોપનીયતા
 
 ## Privacy Section - Forms
 
@@ -395,6 +396,9 @@ forms-remember-logins =
 forms-exceptions =
     .label = અપવાદો...
     .accesskey = x
+forms-saved-logins =
+    .label = સાચવેલા લૉગિન્સ…
+    .accesskey = L
 forms-master-pw-use =
     .label = મુખ્ય પાસવર્ડ વાપરો
     .accesskey = U
@@ -404,6 +408,8 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-header = ઇતિહાસ
+history-remember-description = { -brand-short-name } તમારી બ્રાઉઝિંગ, ડાઉનલોડ, ફોર્મ અને શોધ ઇતિહાસ યાદ રાખશે.
 history-dontremember-description = { -brand-short-name } ખાનગી બ્રાઉઝીંગની જેમ જ સેટીંગ વાપરશે, અને તમે જેમ વેબ બ્રાઉઝ કરો તેમ ઇતિહાસ યાદ રાખશે નહિં.
 history-private-browsing-permanent =
     .label = હંમેશા ખાનગી બ્રાઉઝીંગ સ્થિતિ વાપરો
@@ -423,6 +429,8 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-header = કૂકીઝ અને સાઈટ ડેટા
+sitedata-learn-more = વધુ શીખો
 sitedata-keep-until = ત્યાં સુધી રાખો
     .accesskey = u
 sitedata-accept-third-party-always-option =
@@ -431,21 +439,59 @@ sitedata-accept-third-party-visited-option =
     .label = મુલાકાત લીધેલ
 sitedata-accept-third-party-never-option =
     .label = ક્યારેય નહિં
+sitedata-clear =
+    .label = માહિતી સાફ કરો…
+    .accesskey = l
+sitedata-settings =
+    .label = ડેટા સંચાલન કરો…
+    .accesskey = M
 sitedata-cookies-exceptions =
     .label = અપવાદો...
     .accesskey = E
 
 ## Privacy Section - Address Bar
 
+addressbar-header = સરનામા પટ્ટી
+addressbar-locbar-bookmarks-option =
+    .label = બુકમાર્કો
+    .accesskey = k
+addressbar-locbar-openpage-option =
+    .label = ટૅબ્સ ખોલો
+    .accesskey = O
 
 ## Privacy Section - Tracking
 
+tracking-header = ટ્રેકિંગ પ્રોટેક્શન
+tracking-mode-always =
+    .label = હંમેશા
+    .accesskey = y
+tracking-mode-private =
+    .label = ખાનગી વિન્ડો માં જ
+    .accesskey = I
+tracking-mode-never =
+    .label = ક્યારેય નહિં
+    .accesskey = n
+tracking-exceptions =
+    .label = અપવાદો…
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
+permissions-header = પરવાનગીઓ
+permissions-location = સ્થાન
+permissions-camera = કેમેરા
+permissions-microphone = માઇક્રોફોન
+permissions-notification = સૂચનાઓ
+permissions-notification-link = વધુ શીખો
+permissions-notification-pause =
+    .label = { -brand-short-name } પુનઃપ્રારંભે ત્યા સુધી સૂચનાઓ થોભાવો
+    .accesskey = n
 permissions-block-popups =
     .label = પોપ-અપ વિન્ડો અટકાવો
     .accesskey = B
+permissions-block-popups-exceptions =
+    .label = અપવાદો...
+    .accesskey = E
 permissions-addon-install-warning =
     .label = તમને ચેતવે છે જ્યારે વેબસાઇટ્સ ઍડ-ઑન્સ ઇન્સ્ટોલ કરવાનો પ્રયાસ કરે છે
     .accesskey = W
@@ -455,18 +501,49 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Data Collection
 
+collection-header = { -brand-short-name } ડેટા સંગ્રહ અને ઉપયોગ
+collection-description = અમે તમને પસંદગીઓ સાથે પ્રદાન કરવાનો પ્રયત્ન કરીએ છીએ અને દરેક માટે શું પ્રદાન અને સુધારવાની જરૂર છે તે જ { -brand-short-name } એકત્રિત કરીએ છીએ. અમે હંમેશા વ્યક્તિગત માહિતી મેળવવા પહેલાં પરવાનગી પૂછીશુ.
+collection-privacy-notice = ગોપનીયતા સૂચના
 collection-health-report-link = વધારે શીખો
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = આ તૈચાર કરેલ રૂપરેખાંકન માટે ડેટા અહેવાલ અક્ષમ કરેલું છે
+collection-browser-errors-link = વધુ જાણો
+collection-backlogged-crash-reports-link = વધારે શીખો
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = સુરક્ષા
 security-browsing-protection = ભ્રામક સામગ્રી અને ડેન્જરસ સોફ્ટવેર પ્રોટેક્શન
+security-enable-safe-browsing =
+    .label = ખતરનાક અને ભ્રામક સામગ્રીને અવરોધિત કરો
+    .accesskey = B
+security-block-downloads =
+    .label = ખતરનાક ડાઉનલોડ્સ ને અવરોધિત કરો
+    .accesskey = D
+security-block-uncommon-software =
+    .label = અનિચ્છનીય અને અસામાન્ય સૉફ્ટવેર વિશે તમને ચેતવે છે
+    .accesskey = C
 
 ## Privacy Section - Certificates
 
 certs-header = પ્રમાણપત્રો
+certs-personal-label = સર્વર તમારી વ્યક્તિગત પ્રમાણપત્રની વિનંતી કરે ત્યારે
+certs-select-auto-option =
+    .label = એક આપોઆપ પસંદ કરો
+    .accesskey = S
+certs-select-ask-option =
+    .label = દર વખતે તમને પૂછો
+    .accesskey = A
 certs-enable-ocsp =
     .label = પ્રમાણપત્રની હાલની યોગ્યતાની ખાતરી કરવા માટે ક્વેરી OCSP જવાબ સર્વરો
     .accesskey = Q
+certs-view =
+    .label = પ્રમાણપત્રો જુઓ…
+    .accesskey = C
+certs-devices =
+    .label = સુરક્ષા ઉપકરણો…
+    .accesskey = D
