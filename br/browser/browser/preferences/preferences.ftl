@@ -14,8 +14,12 @@ pref-page =
             [windows] Dibarzhioù
            *[other] Gwellvezioù
         }
-# This string is currently used only in Firefox 60 and will be removed when not
-# needed for x-channel. See bug 1445686 for details.
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
 search-input =
     .style = width: 15.4em
 # This is used to determine the width of the search field in about:preferences,
@@ -440,6 +444,10 @@ sitedata-block-cookies-option =
     .accesskey = S
 sitedata-keep-until = Mirout betek
     .accesskey = M
+sitedata-keep-until-expire =
+    .label = ez echuont
+sitedata-keep-until-closed =
+    .label = zo serret { -brand-short-name }
 sitedata-accept-third-party-desc = Asantiñ toupinoù ha roadennoù lec'hienn tredeoù
     .accesskey = t
 sitedata-accept-third-party-always-option =
