@@ -536,6 +536,9 @@ permissions-a11y-privacy-link = আরও জানুন
 collection-header = { -brand-short-name } ডাটা সংগ্রহ ও ব্যবহার
 collection-description = আমরা আপনার ইচ্ছাকে সম্মান করি, আমরা ততটুকু তথ্যই সংগ্রহ করি যা সকলের জন্য { -brand-short-name } এর মানোন্নয়নে প্রয়োজন। কারও ব্যক্তিগত তথ্য গ্রহনের সময় আমরা সর্বদা অনুমতি চাই।
 collection-privacy-notice = গোপনীয়তা নীতি
+collection-health-report =
+    .label = { -brand-short-name } কে { -vendor-short-name } তে কারিগরী এবং মিথষ্ক্রিয় তথ্য পাঠাতে অনুমতি দিন
+    .accesskey = r
 collection-health-report-link = আরও জানুন
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
