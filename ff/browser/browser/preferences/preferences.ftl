@@ -400,18 +400,30 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Teelte…
     .accesskey = e
+history-clear-button =
+    .label = Momtu Aslol…
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
+sitedata-header = Kuukiije kam e Keɓe Lowre
 sitedata-learn-more = Jokku taro
+sitedata-block-cookies-option =
+    .label = Daaƴ kuukiije kam e keɓe lowre (ina waawi taƴde lowe geese)
+    .accesskey = B
 sitedata-keep-until = Mooftu haa
     .accesskey = h
+sitedata-accept-third-party-desc = Jaɓ kuukiije jiggaaɗe kam e keɓe lowre
+    .accesskey = y
 sitedata-accept-third-party-always-option =
     .label = Sahaa kala
 sitedata-accept-third-party-visited-option =
     .label = Iwɗi e jillaaɗe
 sitedata-accept-third-party-never-option =
     .label = Hay sahaa
+sitedata-clear =
+    .label = Momtu Keɓe…
+    .accesskey = l
 sitedata-cookies-exceptions =
     .label = Palooje…
     .accesskey = P
@@ -434,6 +446,7 @@ addressbar-suggestions-settings = Waylu cuɓe wonande cakkitte yiylorde
 ## Privacy Section - Tracking
 
 tracking-header = Huutoro Ndeenka Dewindol
+tracking-mode-label = Huutoro ndeenka dewindagol ngam faddaade ñukkintooɓe anndaaɓe
 tracking-mode-always =
     .label = Sahaa kala
     .accesskey = a
@@ -494,6 +507,8 @@ permissions-a11y-privacy-link = Ɓeydu humpito
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } Roɓindo e Kuutoragol Keɓe
+collection-description = Ha min ndarii ngam addande on cuɓe tawi kadi min ƴettata tan ko ko min ngaddanta on e ko min ƴellittanta on { -brand-short-name } Ha min naamndo yamiroore sahaa kala ko adii keɓgol kabaruuji maa keeriiɗi.
+collection-privacy-notice = Tintinol Suturo
 collection-health-report =
     .label = Yamir { -brand-short-name } yo neldu keɓe karallaagal e gollondiral to Moɗilla
     .accesskey = r
@@ -501,6 +516,13 @@ collection-health-report-link = Jokku Taro
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Ciimti keɓe ko daaƴaaɗi wonande kaa ngonka mahngo
+collection-browser-errors =
+    .label = Yamir { -brand-short-name } yo neldu ciimti juume (yantude heen mesaasuuji juume) to { -vendor-short-name }
+    .accesskey = b
+collection-browser-errors-link = Ɓeydu humpito
+collection-backlogged-crash-reports =
+    .label = Yamir { -brand-short-name } yo neldu jaŋte kooke leeltuɗe e innde maa
+    .accesskey = c
 collection-backlogged-crash-reports-link = Jokku taro
 
 ## Privacy Section - Security
@@ -513,6 +535,7 @@ security-browsing-protection = Ndeenka Loowdi Puuntoori e Topateeri Mbonnoori
 security-enable-safe-browsing =
     .label = Falo loowi mbonndi e puuntoori
     .accesskey = F
+security-enable-safe-browsing-link = Ɓeydu humpito
 security-block-downloads =
     .label = Falo gaawte bonnooje
     .accesskey = b
@@ -530,3 +553,9 @@ certs-select-auto-option =
 certs-select-ask-option =
     .label = Naamno mo e sahaa kala
     .accesskey = Y
+certs-view =
+    .label = Yiy Seedamfaaji…
+    .accesskey = C
+certs-devices =
+    .label = Masiŋon Kisal…
+    .accesskey = D
