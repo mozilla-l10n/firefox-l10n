@@ -388,19 +388,36 @@ containers-remove-button =
 
 ## Privacy Section - Forms
 
+forms-master-pw-use =
+    .label = Bruk eit hovudpassord
+    .accesskey = r
 
 ## Privacy Section - History
 
 history-header = Historikk
+history-remember-option =
+    .label = Hugse nettlesar- og nedlastingshistorikk
+    .accesskey = H
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-always-option =
+    .label = Alltid
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-bookmarks-option =
+    .label = Bokmerke
+    .accesskey = k
 
 ## Privacy Section - Tracking
 
+tracking-mode-private =
+    .label = Berre i private vindauge
+    .accesskey = B
+tracking-mode-never =
+    .label = Aldri
+    .accesskey = A
 
 ## Privacy Section - Permissions
 
@@ -410,6 +427,7 @@ permissions-block-popups =
 
 ## Privacy Section - Data Collection
 
+collection-health-report-link = Les meir
 
 ## Privacy Section - Security
 ##
@@ -419,3 +437,4 @@ permissions-block-popups =
 
 ## Privacy Section - Certificates
 
+certs-header = Sertifikat
