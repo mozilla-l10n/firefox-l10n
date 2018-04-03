@@ -366,14 +366,47 @@ privacy-header = Prywatność
 ## Privacy Section - Forms
 
 forms-header = Formularze i hasła
+forms-remember-logins =
+    .label = Zachowywanie danych logowania do witryn
+    .accesskey = l
+forms-exceptions =
+    .label = Wyjątki…
+    .accesskey = i
+forms-saved-logins =
+    .label = Zachowane dane logowania…
+    .accesskey = d
+forms-master-pw-use =
+    .label = Hasło główne
+    .accesskey = H
+forms-master-pw-change =
+    .label = Zmień hasło główne
+    .accesskey = Z
 
 ## Privacy Section - History
 
 history-header = Historia
+history-dontremember-description = Program { -brand-short-name } będzie używał tych samych ustawień co w trybie prywatnym i nie będzie zachowywał historii podczas przeglądania witryn WWW.
+history-private-browsing-permanent =
+    .label = Zawsze aktywny tryb przeglądania prywatnego
+    .accesskey = t
+history-remember-option =
+    .label = Historia przeglądania i pobierania plików
+    .accesskey = s
+history-remember-search-option =
+    .label = Historia wyszukiwania i formularzy
+    .accesskey = f
+history-clear-on-close-option =
+    .label = Czyszczenie historii podczas zamykania programu { -brand-short-name }
+    .accesskey = z
+history-clear-on-close-settings =
+    .label = Ustawienia…
+    .accesskey = U
 
 ## Privacy Section - Site Data
 
 sitedata-learn-more = Więcej informacji
+sitedata-keep-until = Przechowywanie ciasteczek:
+    .accesskey = h
 sitedata-accept-third-party-always-option =
     .label = zawsze
 sitedata-accept-third-party-visited-option =
@@ -383,11 +416,23 @@ sitedata-accept-third-party-never-option =
 sitedata-clear =
     .label = Wyczyść dane
     .accesskey = a
+sitedata-cookies-exceptions =
+    .label = Wyjątki…
+    .accesskey = W
 
 ## Privacy Section - Address Bar
 
 addressbar-header = Pasek adresu
 addressbar-suggest = Podpowiedzi w pasku adresu opieraj na:
+addressbar-locbar-history-option =
+    .label = historii przeglądania
+    .accesskey = h
+addressbar-locbar-bookmarks-option =
+    .label = zakładkach
+    .accesskey = z
+addressbar-locbar-openpage-option =
+    .label = otwartych kartach
+    .accesskey = k
 addressbar-suggestions-settings = Zmień ustawienia podpowiedzi dostarczanych przez wyszukiwarki
 
 ## Privacy Section - Tracking
@@ -395,23 +440,74 @@ addressbar-suggestions-settings = Zmień ustawienia podpowiedzi dostarczanych pr
 tracking-header = Ochrona przed śledzeniem
 tracking-description = Ochrona przed śledzeniem blokuje elementy, które zbierają informacje o przeglądaniu na wielu różnych stronach. <a>Więcej informacji o ochronie przed śledzeniem i prywatności</a>
 tracking-mode-label = Chroń przed śledzeniem przez znane elementy śledzące:
+tracking-mode-always =
+    .label = Zawsze
+    .accesskey = Z
+tracking-mode-private =
+    .label = W oknach prywatnych
+    .accesskey = o
+tracking-mode-never =
+    .label = Nigdy
+    .accesskey = N
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Ochrona przed śledzeniem przez znane elementy śledzące w oknach prywatnych.
+    .accesskey = r
+tracking-exceptions =
+    .label = Wyjątki…
+    .accesskey = W
+tracking-change-block-list =
+    .label = Zmień listę blokowanych…
+    .accesskey = b
 
 ## Privacy Section - Permissions
 
 permissions-header = Uprawnienia
 permissions-location = Położenie
+permissions-location-settings =
+    .label = Ustawienia…
+    .accesskey = t
 permissions-camera = Kamera
+permissions-camera-settings =
+    .label = Ustawienia…
+    .accesskey = a
 permissions-microphone = Mikrofon
+permissions-microphone-settings =
+    .label = Ustawienia…
+    .accesskey = w
 permissions-notification = Powiadomienia.
+permissions-notification-settings =
+    .label = Ustawienia…
+    .accesskey = s
 permissions-notification-link = Więcej informacji
 permissions-notification-pause =
     .label = Wstrzymaj powiadomienia do czasu ponownego uruchomienia Firefoksa
     .accesskey = W
+permissions-block-popups =
+    .label = Blokowanie wyskakujących okien
+    .accesskey = B
+permissions-block-popups-exceptions =
+    .label = Wyjątki…
+    .accesskey = t
+permissions-addon-install-warning =
+    .label = Ostrzeganie, gdy witryny próbują instalować dodatki
+    .accesskey = O
+permissions-addon-exceptions =
+    .label = Wyjątki…
+    .accesskey = W
+permissions-a11y-privacy-checkbox =
+    .label = Blokowanie dostępu do przeglądarki usługom ułatwień dostępu.
+    .accesskey = u
 permissions-a11y-privacy-link = Więcej informacji
 
 ## Privacy Section - Data Collection
 
+collection-header = Dane zbierane przez program { -brand-short-name }
+collection-description = Dążymy do zapewnienia odpowiedniego wyboru i zbierania wyłącznie niezbędnych danych, aby dostarczać i doskonalić program { -brand-short-name } dla nas wszystkich. Zawsze prosimy o pozwolenie przed przesłaniem danych osobistych.
 collection-privacy-notice = Uwagi dotyczące prywatności
+collection-health-report =
+    .label = Przesyłanie do Mozilli danych technicznych i o interakcjach z programem.
+    .accesskey = z
 collection-health-report-link = Więcej informacji
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
@@ -432,9 +528,33 @@ collection-backlogged-crash-reports-link = Więcej informacji
 
 security-header = Bezpieczeństwo
 security-browsing-protection = Ochrona przed oszustwami i niebezpiecznym oprogramowaniem
+security-enable-safe-browsing =
+    .label = Blokowanie niebezpiecznych i podejrzanych treści.
+    .accesskey = B
 security-enable-safe-browsing-link = Więcej informacji
+security-block-downloads =
+    .label = Blokowanie możliwości pobierania niebezpiecznych plików
+    .accesskey = e
+security-block-uncommon-software =
+    .label = Ostrzeganie przed niepożądanym i nietypowym oprogramowaniem
+    .accesskey = n
 
 ## Privacy Section - Certificates
 
 certs-header = Certyfikaty
 certs-personal-label = Kiedy serwer żąda osobistego certyfikatu użytkownika:
+certs-select-auto-option =
+    .label = wybierz certyfikat automatycznie
+    .accesskey = a
+certs-select-ask-option =
+    .label = pytaj za każdym razem
+    .accesskey = r
+certs-enable-ocsp =
+    .label = Odpytywanie serwerów OCSP w celu potwierdzenia wiarygodności certyfikatów
+    .accesskey = O
+certs-view =
+    .label = Wyświetl certyfikaty…
+    .accesskey = W
+certs-devices =
+    .label = Urządzenia zabezpieczające…
+    .accesskey = U
