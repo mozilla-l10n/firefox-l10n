@@ -350,6 +350,7 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = Privasi Peramban
 
 ## Privacy Section - Forms
 
@@ -417,6 +418,7 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Bilah Alamat
 addressbar-suggest = Saat menggunakan bilah alamat, sarankan
 addressbar-locbar-history-option =
     .label = Riwayat penjelajahan
@@ -450,6 +452,9 @@ tracking-pbm-label = Gunakan Perlindungan Pelacakan di mode Penjelajahan Pribadi
 tracking-exceptions =
     .label = Pengecualian…
     .accesskey = e
+tracking-change-block-list =
+    .label = Ubah Daftar Blokir…
+    .accesskey = U
 
 ## Privacy Section - Permissions
 
