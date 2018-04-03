@@ -385,9 +385,11 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = 浏览器隐私
 
 ## Privacy Section - Forms
 
+forms-header = 表单与密码
 forms-remember-logins =
     .label = 记住网站的登录账号和密码
     .accesskey = R
@@ -407,6 +409,7 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = 历史记录
+history-remember-description = { -brand-short-name } 将记住您的浏览、下载、表单和搜索记录。
 history-dontremember-description = { -brand-short-name } 将采用与“隐私浏览模式”相同的设置，不会记录您浏览网络的历史。
 history-private-browsing-permanent =
     .label = 始终使用隐私浏览模式
@@ -414,23 +417,45 @@ history-private-browsing-permanent =
 history-remember-option =
     .label = 记住我的浏览和下载历史
     .accesskey = b
+history-remember-search-option =
+    .label = 记住搜索和表单历史
+    .accesskey = f
 history-clear-on-close-option =
     .label = 在 { -brand-short-name } 关闭时清除历史记录
     .accesskey = r
 history-clear-on-close-settings =
     .label = 设置…
     .accesskey = t
+history-clear-button =
+    .label = 清除历史记录…
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
+sitedata-header = Cookie 和网站数据
+sitedata-learn-more = 详细了解
+sitedata-accept-cookies-option =
+    .label = 接受来自网站的 Cookie 和网站数据（推荐）
+    .accesskey = A
+sitedata-block-cookies-option =
+    .label = 屏蔽 Cookie 和网站数据（可能导致网站故障）
+    .accesskey = B
 sitedata-keep-until = 保存，直到
     .accesskey = u
+sitedata-accept-third-party-desc = 接受第三方 Cookie 和网站数据
+    .accesskey = y
 sitedata-accept-third-party-always-option =
     .label = 始终
 sitedata-accept-third-party-visited-option =
     .label = 来自访问过的网站
 sitedata-accept-third-party-never-option =
     .label = 永不
+sitedata-clear =
+    .label = 清除数据…
+    .accesskey = l
+sitedata-settings =
+    .label = 管理数据…
+    .accesskey = M
 sitedata-cookies-exceptions =
     .label = 例外…
     .accesskey = E
@@ -438,15 +463,21 @@ sitedata-cookies-exceptions =
 ## Privacy Section - Address Bar
 
 addressbar-header = 地址栏
+addressbar-suggest = 使用地址栏时，为我建议：
 addressbar-locbar-history-option =
     .label = 浏览历史
     .accesskey = H
 addressbar-locbar-bookmarks-option =
     .label = 书签
     .accesskey = k
+addressbar-locbar-openpage-option =
+    .label = 已打开的标签页
+    .accesskey = O
+addressbar-suggestions-settings = 更改搜索引擎建议的首选项
 
 ## Privacy Section - Tracking
 
+tracking-header = 跟踪保护
 tracking-description = 跟踪保护功能可阻止跟踪者在不同网站间收集您的浏览数据。 <a>详细了解跟踪保护和您的隐私</a>
 tracking-mode-label = 使用跟踪保护功能拦截已知的跟踪器
 tracking-mode-always =
@@ -489,6 +520,9 @@ permissions-notification-settings =
     .label = 设置…
     .accesskey = n
 permissions-notification-link = 详细了解
+permissions-notification-pause =
+    .label = 暂停通知直至 { -brand-short-name } 重新启动
+    .accesskey = n
 permissions-block-popups =
     .label = 拦截弹出式窗口
     .accesskey = B
@@ -501,11 +535,30 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = 例外…
     .accesskey = E
+permissions-a11y-privacy-checkbox =
+    .label = 阻止无障碍服务接入您的浏览器
+    .accesskey = a
+permissions-a11y-privacy-link = 详细了解
 
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } 数据收集与使用
+collection-description = 我们力图为您提供选择权，并保证只收集我们为众人提供和改进 { -brand-short-name } 所需的信息。我们仅在征得您的同意后接收个人信息。
+collection-privacy-notice = 隐私声明
+collection-health-report =
+    .label = 允许 { -brand-short-name } 向 { -vendor-short-name } 发送技术信息及交互数据
+    .accesskey = r
 collection-health-report-link = 详细了解
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = 在此构建配置下数据反馈被禁用
+collection-browser-errors =
+    .label = 允许 { -brand-short-name } 发送浏览器错误报告（包含错误信息）到 { -vendor-short-name }
+    .accesskey = b
+collection-browser-errors-link = 详细了解
+collection-backlogged-crash-reports =
+    .label = 允许 { -brand-short-name } 代您发送积压的崩溃报告
+    .accesskey = c
 collection-backlogged-crash-reports-link = 详细了解
 
 ## Privacy Section - Security
@@ -513,11 +566,29 @@ collection-backlogged-crash-reports-link = 详细了解
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = 安全
+security-browsing-protection = 欺诈内容和危险软件防护
+security-enable-safe-browsing =
+    .label = 拦截危险与诈骗内容
+    .accesskey = B
 security-enable-safe-browsing-link = 详细了解
+security-block-downloads =
+    .label = 拦截危险的下载项
+    .accesskey = D
+security-block-uncommon-software =
+    .label = 发现流氓软件或罕见软件时发出警告
+    .accesskey = C
 
 ## Privacy Section - Certificates
 
 certs-header = 证书
+certs-personal-label = 当服务器请求您的个人证书时
+certs-select-auto-option =
+    .label = 自动选择一个
+    .accesskey = S
+certs-select-ask-option =
+    .label = 每次均询问我
+    .accesskey = A
 certs-enable-ocsp =
     .label = 查询 OCSP 响应服务器，以确认证书当前是否有效
     .accesskey = Q
