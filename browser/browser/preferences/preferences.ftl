@@ -24,25 +24,14 @@ close-button =
 ## Browser Restart Dialog
 
 
+## Preferences UI Search Results
+
+
 ## General Section
 
 startup-header = Ntangiriro
 startup-blank-page =
     .label = Kwerekana paji itanditsweho
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Koresha Paji Iriho
-           *[other] Koresha Paji Ziriho
-        }
-    .accesskey = I
-restore-default =
-    .label = Kugaruraho ku Mburabuzi
-    .accesskey = g
 tabs-group-header = Udufishi
 
 ## General Section - Language & Appearance
@@ -96,3 +85,81 @@ browsing-use-cursor-navigation =
 network-proxy-connection-settings =
     .label = Amagenamiterere...
     .accesskey = g
+
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Koresha Paji Iriho
+           *[other] Koresha Paji Ziriho
+        }
+    .accesskey = I
+restore-default =
+    .label = Kugaruraho ku Mburabuzi
+    .accesskey = g
+
+## Search Section
+
+
+## Containers Section
+
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = Amarengayobora...
+    .accesskey = A
+forms-master-pw-use =
+    .label = Gukoresha ijambobanga ngenga
+    .accesskey = j
+forms-master-pw-change =
+    .label = Guhindura Ijambobanga Ngenga...
+    .accesskey = h
+
+## Privacy Section - History
+
+
+## Privacy Section - Site Data
+
+sitedata-cookies-exceptions =
+    .label = Amarengayobora...
+    .accesskey = y
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-block-popups =
+    .label = Guhagarika Amadirishya y'Ibyiramburirahejuru
+    .accesskey = h
+permissions-addon-exceptions =
+    .label = Amarengayobora...
+    .accesskey = r
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
+certs-header = Ibyemezo
