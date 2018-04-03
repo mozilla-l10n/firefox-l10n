@@ -364,9 +364,13 @@ containers-remove-button =
 
 ## Privacy Section - Forms
 
+forms-header = Forme & lozinke
 forms-exceptions =
     .label = Izuzeci…
     .accesskey = I
+forms-saved-logins =
+    .label = Spašene prijave…
+    .accesskey = j
 forms-master-pw-use =
     .label = Koristi glavnu lozinku…
     .accesskey = g
@@ -376,6 +380,7 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-header = Historija
 history-dontremember-description = { -brand-short-name } će koristiti iste postavke kao za privatno surfanje, i neće pamtiti bilo kakvu historiju dok pregledate Web.
 history-private-browsing-permanent =
     .label = Uvijek koristi režim privatnog surfanja
@@ -405,9 +410,29 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-bookmarks-option =
+    .label = Zabilješke
+    .accesskey = k
+addressbar-locbar-openpage-option =
+    .label = Otvori tabove
+    .accesskey = O
+addressbar-suggestions-settings = Promijenite postavke prijedloga pretraživača
 
 ## Privacy Section - Tracking
 
+tracking-header = Zaštita od praćenja
+tracking-mode-always =
+    .label = Uvijek
+    .accesskey = j
+tracking-mode-private =
+    .label = Samo u privatnim prozorima
+    .accesskey = a
+tracking-mode-never =
+    .label = Nikad
+    .accesskey = N
+tracking-exceptions =
+    .label = Izuzeci…
+    .accesskey = I
 
 ## Privacy Section - Permissions
 
@@ -426,7 +451,27 @@ permissions-addon-exceptions =
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Sigurnost
+security-enable-safe-browsing =
+    .label = Blokiraj opasan i obmanjujući sadržaj
+    .accesskey = B
+security-block-downloads =
+    .label = Blokiraj opasna preuzimanja
+    .accesskey = o
+security-block-uncommon-software =
+    .label = Upozoriti vas na neželjene ili neobične programe
+    .accesskey = g
 
 ## Privacy Section - Certificates
 
 certs-header = Certifikati
+certs-personal-label = Kada server zatraži vaš lični certifikat
+certs-select-auto-option =
+    .label = Odaberi jedan automatski
+    .accesskey = S
+certs-select-ask-option =
+    .label = Pitati vas svaki put
+    .accesskey = a
+certs-enable-ocsp =
+    .label = Upitajte OCSP servere da biste potvrdili validnost certifikata
+    .accesskey = U
