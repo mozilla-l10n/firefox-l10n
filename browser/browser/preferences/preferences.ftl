@@ -293,6 +293,9 @@ containers-add-button =
 
 ## Privacy Section - Forms
 
+forms-exceptions =
+    .label = Izinxaxhi…
+    .accesskey = x
 forms-master-pw-use =
     .label = Sebenzisa iphaswedi eyimasta
     .accesskey = S
@@ -305,14 +308,25 @@ forms-master-pw-change =
 history-private-browsing-permanent =
     .label = Soloko usebenzisa imo yokubhrawuza yangasese
     .accesskey = o
+history-remember-option =
+    .label = Khumbula imbali yokubhrawuza nokukhuphela kwam
+    .accesskey = K
+history-remember-search-option =
+    .label = Khumbula imbali yokukhangela neyefom
+    .accesskey = a
 history-clear-on-close-settings =
     .label = Imimiselo…
     .accesskey = m
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-visited-option =
+    .label = Isuka kwetyelelweyo
 sitedata-accept-third-party-never-option =
     .label = Ungaze
+sitedata-cookies-exceptions =
+    .label = Izinxaxhi…
+    .accesskey = z
 
 ## Privacy Section - Address Bar
 
@@ -322,6 +336,9 @@ sitedata-accept-third-party-never-option =
 
 ## Privacy Section - Permissions
 
+permissions-block-popups =
+    .label = Thintela iifestile ezizivelelayo
+    .accesskey = T
 permissions-addon-exceptions =
     .label = Izinxaxhi…
     .accesskey = I
