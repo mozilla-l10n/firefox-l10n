@@ -409,6 +409,7 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Chronologia
+history-remember-description = { -brand-short-name } rememorara tu exploration, discarga, forma e chronologia de recerca.
 history-dontremember-description = { -brand-short-name } usara le mesme parametros que pro le navigation private e non memorisara le chronologia durante que tu naviga le Web.
 history-private-browsing-permanent =
     .label = Sempre usar le modo de navigation private
@@ -425,18 +426,36 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Parametros…
     .accesskey = t
+history-clear-button =
+    .label = Vacuar le chronologia…
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
+sitedata-header = Cookies e datos de sitos
 sitedata-learn-more = Saper plus
+sitedata-accept-cookies-option =
+    .label = Acceptar cookies e datos de sito ab sitos web (recommendate)
+    .accesskey = A
+sitedata-block-cookies-option =
+    .label = Blocar cookies e datos de sito (pote causar al sitos web de collaber)
+    .accesskey = B
 sitedata-keep-until = Conservar usque
     .accesskey = u
+sitedata-accept-third-party-desc = Acceptar cookies e datos de sito de tertie-parte
+    .accesskey = y
 sitedata-accept-third-party-always-option =
     .label = Sempre
 sitedata-accept-third-party-visited-option =
     .label = Del visitates
 sitedata-accept-third-party-never-option =
     .label = Nunquam
+sitedata-clear =
+    .label = Clarar le datos...
+    .accesskey = l
+sitedata-settings =
+    .label = Gerer le datos...
+    .accesskey = G
 sitedata-cookies-exceptions =
     .label = Exceptiones…
     .accesskey = E
@@ -459,6 +478,8 @@ addressbar-suggestions-settings = Cambiar le preferentias pro le suggestiones de
 ## Privacy Section - Tracking
 
 tracking-header = Protection contra le traciamento
+tracking-description = Le protection de traciamento bloca le traciatores online que collige tu datos de navigation inter plure sitos web. <a>Apprende altero re le protection de traciamento e tu confidentialitate</a>
+tracking-mode-label = Usar le protection contra le traciamento pro blocar traciatores cognoscite
 tracking-mode-always =
     .label = Sempre
     .accesskey = S
@@ -531,6 +552,13 @@ collection-health-report-link = Saper plus
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Le reporto de datos es inactive pro iste configuration de compilation
+collection-browser-errors =
+    .label = Consentir a { -brand-short-name } de inviar reportos de error de navigator (includite messages de error) a { -vendor-short-name }
+    .accesskey = b
+collection-browser-errors-link = Saper plus
+collection-backlogged-crash-reports =
+    .label = Consentir { -brand-short-name } de inviar in tu nomine reportos de collapso arretrate
+    .accesskey = c
 collection-backlogged-crash-reports-link = Saper plus
 
 ## Privacy Section - Security
@@ -543,6 +571,7 @@ security-browsing-protection = Protection contra contentos fraudulente e softwar
 security-enable-safe-browsing =
     .label = Blocar le contentos periculose o fraudulente
     .accesskey = B
+security-enable-safe-browsing-link = Saper plus
 security-block-downloads =
     .label = Blocar le discargamentos periculose
     .accesskey = D
