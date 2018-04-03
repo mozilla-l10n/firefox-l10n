@@ -373,50 +373,176 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = Απόρρητο προγράμματος περιήγησης
 
 ## Privacy Section - Forms
 
+forms-header = Φόρμες & κωδικοί πρόσβασης
 forms-remember-logins =
     .label = Απομνημόνευση στοιχείων σύνδεσης για ιστοσελίδες
     .accesskey = μ
+forms-exceptions =
+    .label = Εξαιρέσεις…
+    .accesskey = ξ
+forms-master-pw-use =
+    .label = Χρήση κύριου κωδικού
+    .accesskey = ρ
+forms-master-pw-change =
+    .label = Αλλαγή κύριου κωδικού…
+    .accesskey = γ
 
 ## Privacy Section - History
 
+history-header = Ιστορικό
+history-dontremember-description = Το { -brand-short-name } θα χρησιμοποιεί τις ίδιες ρυθμίσεις με την ιδιωτική περιήγηση και δεν θα διατηρεί το ιστορικό περιήγησης σας.
+history-private-browsing-permanent =
+    .label = Μόνιμη λειτουργία ιδιωτικής περιήγησης
+    .accesskey = ι
+history-remember-option =
+    .label = Διατήρηση του ιστορικού περιήγησης και λήψεων
+    .accesskey = τ
+history-remember-search-option =
+    .label = Διατήρηση ιστορικού αναζήτησης και φορμών
+    .accesskey = φ
+history-clear-on-close-option =
+    .label = Εκκαθάριση ιστορικού όταν κλείνει το { -brand-short-name }
+    .accesskey = κ
+history-clear-on-close-settings =
+    .label = Ρυθμίσεις…
+    .accesskey = θ
+history-clear-button =
+    .label = Εκκαθάριση ιστορικού…
+    .accesskey = σ
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = Μάθετε περισσότερα
+sitedata-accept-third-party-always-option =
+    .label = Πάντα
+sitedata-accept-third-party-visited-option =
+    .label = Από επισκέψεις
+sitedata-accept-third-party-never-option =
+    .label = Ποτέ
+sitedata-settings =
+    .label = Διαχείριση δεδομένων…
+    .accesskey = Δ
+sitedata-cookies-exceptions =
+    .label = Εξαιρέσεις…
+    .accesskey = Ε
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Γραμμή διευθύνσεων
+addressbar-suggest = Κατά τη χρήση της γραμμής διευθύνσεων, να γίνεται πρόταση
+addressbar-locbar-bookmarks-option =
+    .label = Σελιδοδεικτών
+    .accesskey = δ
+addressbar-locbar-openpage-option =
+    .label = Ανοικτών καρτελών
+    .accesskey = Ο
+addressbar-suggestions-settings = Αλλαγή προτιμήσεων για τις προτάσεις μηχανών αναζήτησης
 
 ## Privacy Section - Tracking
 
+tracking-header = Προστασία από παρακολούθηση
+tracking-mode-always =
+    .label = Πάντα
+    .accesskey = α
+tracking-mode-private =
+    .label = Μόνο σε ιδιωτικά παράθυρα
+    .accesskey = ο
+tracking-mode-never =
+    .label = Ποτέ
+    .accesskey = π
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Χρήση της προστασίας από παρακολούθηση στην ιδιωτική περιήγηση για φραγή γνωστών ιχνηλατών
+    .accesskey = δ
+tracking-exceptions =
+    .label = Εξαιρέσεις…
+    .accesskey = ξ
 tracking-change-block-list =
     .label = Αλλαγή λίστας αποκλεισμού…
     .accesskey = λ
 
 ## Privacy Section - Permissions
 
+permissions-location = Τοποθεσία
+permissions-location-settings =
+    .label = Ρυθμίσεις…
+    .accesskey = θ
+permissions-camera = Κάμερα
+permissions-camera-settings =
+    .label = Ρυθμίσεις…
+    .accesskey = θ
+permissions-microphone = Μικρόφωνο
+permissions-microphone-settings =
+    .label = Ρυθμίσεις…
+    .accesskey = θ
+permissions-notification = Ειδοποιήσεις
+permissions-notification-settings =
+    .label = Ρυθμίσεις…
+    .accesskey = θ
+permissions-notification-link = Μάθετε περισσότερα
 permissions-block-popups =
     .label = Φραγή αναδυόμενων παραθύρων
     .accesskey = Φ
+permissions-block-popups-exceptions =
+    .label = Εξαιρέσεις...
+    .accesskey = ξ
 permissions-addon-install-warning =
     .label = Προειδοποίηση όταν οι ιστοσελίδες προσπαθούν να εγκαταστήσουν πρόσθετα
     .accesskey = Π
+permissions-addon-exceptions =
+    .label = Εξαιρέσεις…
+    .accesskey = Ε
+permissions-a11y-privacy-checkbox =
+    .label = Απαγόρευση πρόσβασης στο πρόγραμμα περιήγησής σας από υπηρεσίες προσβασιμότητας
+    .accesskey = π
+permissions-a11y-privacy-link = Μάθετε περισσότερα
 
 ## Privacy Section - Data Collection
 
+collection-header = Συλλογή και χρήση δεδομένων { -brand-short-name }
+collection-description = Αγωνιζόμαστε για να σάς παρέχουμε επιλογές και συλλέγουμε μόνο αυτά που χρειαζόμαστε, ώστε να παρέχουμε και να βελτιώσουμε το { -brand-short-name } για όλους. Ζητούμε πάντα την άδεια πριν λάβουμε προσωπικές πληροφορίες.
+collection-privacy-notice = Σημείωση απορρήτου
+collection-health-report =
+    .label = Να επιτρέπεται στο { -brand-short-name } η αποστολή τεχνικών και διαδραστικών δεδομένων στη { -vendor-short-name }
+    .accesskey = δ
 collection-health-report-link = Μάθετε περισσότερα
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Η αναφορά δεδομένων είναι ανενεργή για αυτή την έκδοση
+collection-backlogged-crash-reports-link = Μάθετε περισσότερα
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Ασφάλεια
+security-browsing-protection = Παραπλανητικό περιεχόμενο και προστασία από επικίνδυνο λογισμικό
+security-enable-safe-browsing-link = Μάθετε περισσότερα
+security-block-uncommon-software =
+    .label = Προειδοποίηση για ανεπιθύμητο και ασυνήθιστο λογισμικό
+    .accesskey = Σ
 
 ## Privacy Section - Certificates
 
 certs-header = Πιστοποιητικά
+certs-personal-label = Όταν ένας διακομιστής απαιτεί το προσωπικό σας πιστοποιητικό
+certs-select-auto-option =
+    .label = Αυτόματη επιλογή
+    .accesskey = Α
+certs-select-ask-option =
+    .label = Ερώτηση κάθε φορά
+    .accesskey = Ε
+certs-enable-ocsp =
+    .label = Ερώτηση στους διακομιστές για OCSP ανταπόκριση, ώστε να επιβεβαιωθεί η τρέχουσα εγκυρότητα των πιστοποιητικών
+    .accesskey = Ρ
+certs-view =
+    .label = Προβολή πιστοποιητικών…
+    .accesskey = Π
 certs-devices =
     .label = Συσκευές ασφαλείας…
     .accesskey = Σ
