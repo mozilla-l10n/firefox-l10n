@@ -383,6 +383,7 @@ forms-master-pw-use =
 
 ## Privacy Section - History
 
+history-header = Istoric
 history-remember-search-option =
     .label = Conservar l'istoric de las recèrcas e dels formularis
     .accesskey = f
@@ -405,9 +406,18 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-bookmarks-option =
+    .label = Favorits
+    .accesskey = F
 
 ## Privacy Section - Tracking
 
+tracking-mode-always =
+    .label = Totjorn
+    .accesskey = T
+tracking-exceptions =
+    .label = Excepcions…
+    .accesskey = E
 
 ## Privacy Section - Permissions
 
