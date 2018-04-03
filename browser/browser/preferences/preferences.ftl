@@ -357,12 +357,19 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = 브라우저 개인정보
 
 ## Privacy Section - Forms
 
+forms-remember-logins =
+    .label = 웹사이트 로그인과 비밀번호 기억
+    .accesskey = R
 forms-exceptions =
     .label = 예외 목록…
     .accesskey = x
+forms-saved-logins =
+    .label = 저장된 로그인…
+    .accesskey = L
 forms-master-pw-use =
     .label = 정보 보호을 위해 기본 암호 사용
     .accesskey = U
@@ -373,6 +380,7 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = 방문 기록
+history-remember-description = { -brand-short-name }가 탐색과 다운로드, 서식, 검색 히스토리를 저장합니다.
 history-dontremember-description = { -brand-short-name }는 사생활 보호 모드와 같은 설정을 가지며 웹 사이트 방문 중 어떤 기록도 저장하지 않습니다.
 history-private-browsing-permanent =
     .label = 사생활 보호 모드로만 이용
@@ -389,22 +397,47 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = 설정…
     .accesskey = t
+history-clear-button =
+    .label = 방문 기록 삭제…
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
+sitedata-header = 쿠키와 사이트 데이타
 sitedata-learn-more = 더 알아보기
+sitedata-accept-cookies-option =
+    .label = 웹사이트의 쿠키와 사이트 데이타 허용(권장)
+    .accesskey = A
+sitedata-block-cookies-option =
+    .label = 쿠키와 사이트 데이타 차단(웹사이트가 깨질 수 있음)
+    .accesskey = B
+sitedata-keep-until = 유지 기간
+    .accesskey = u
+sitedata-accept-third-party-desc = 제 3자 쿠키와 사이트 데이타 허용
+    .accesskey = y
 sitedata-accept-third-party-always-option =
     .label = 항상 허용
 sitedata-accept-third-party-visited-option =
     .label = 방문한 곳만
 sitedata-accept-third-party-never-option =
     .label = 허용 안함
+sitedata-clear =
+    .label = 데이타 삭제…
+    .accesskey = l
+sitedata-settings =
+    .label = 데이타 관리…
+    .accesskey = M
 sitedata-cookies-exceptions =
     .label = 예외 목록…
     .accesskey = E
 
 ## Privacy Section - Address Bar
 
+addressbar-header = 주소 표시줄
+addressbar-suggest = 주소 표시줄과 추천을 사용할 때
+addressbar-locbar-history-option =
+    .label = 브라우징 히스토리
+    .accesskey = H
 addressbar-locbar-bookmarks-option =
     .label = 북마크
     .accesskey = k
@@ -414,39 +447,106 @@ addressbar-locbar-openpage-option =
 
 ## Privacy Section - Tracking
 
+tracking-description = 추적 방지 기능은 여러 웹사이트에 걸처 사용자의 탐색 데이터를 수집하는 추적자를 차단합니다. <a>추적 방지와 개인정보 보호 살펴보기</a>
+tracking-mode-label = 알려진 추적자를 차단하는 추적 방지 기능 사용
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = 사생활 보호 모드에서 추적 방지를 사용해 알려진 추적기관을 차단
+    .accesskey = v
 
 ## Privacy Section - Permissions
 
 permissions-header = 권한
 permissions-location = 위치
+permissions-location-settings =
+    .label = 설정…
+    .accesskey = l
 permissions-camera = 카메라
+permissions-camera-settings =
+    .label = 설정…
+    .accesskey = c
 permissions-microphone = 마이크
+permissions-microphone-settings =
+    .label = 설정…
+    .accesskey = m
 permissions-notification = 알림
+permissions-notification-settings =
+    .label = 설정…
+    .accesskey = n
 permissions-notification-link = 더 알아보기
+permissions-notification-pause =
+    .label = { -brand-short-name }를 재시작 할 때 까지 알림을 멈춤
+    .accesskey = n
 permissions-block-popups =
     .label = 팝업 창 차단
     .accesskey = B
 permissions-block-popups-exceptions =
     .label = 예외 목록…
     .accesskey = E
+permissions-addon-install-warning =
+    .label = 웹사이트가 부가 기능을 설치하려 할 때 경고
+    .accesskey = W
 permissions-addon-exceptions =
     .label = 예외 목록…
     .accesskey = E
+permissions-a11y-privacy-checkbox =
+    .label = 접근성 서비스가 브라우저에 접근하지 못하게 함
+    .accesskey = a
 permissions-a11y-privacy-link = 더 알아보기
 
 ## Privacy Section - Data Collection
 
+collection-header = { -brand-short-name } 데이터 수집과 사용
+collection-description = { -brand-short-name }를 모두를 위해 제공하고 개선하기 위해서 필요한 것만 수집하고 선택권을 제공하기 위해 노력합니다. 개인 정보를 전송하기 전에 항상 허가여부를 묻습니다.
+collection-privacy-notice = 개인정보 안내
+collection-health-report =
+    .label = { -brand-short-name }가 기술과 상호 작용 정보를 { -vendor-short-name }에 전송하도록 허용
+    .accesskey = r
 collection-health-report-link = 더 알아보기
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = 이 빌드 설정에서는 데이타 보고가 비활성화 되어 있음
+collection-browser-errors =
+    .label = { -brand-short-name }가 { -vendor-short-name }에 브라우저 오류 보고서(오류 메시지 포함)를 보내도록 허용
+    .accesskey = b
+collection-browser-errors-link = 자세히 보기
+collection-backlogged-crash-reports =
+    .label = { -brand-short-name }가 사용자를 대신해서 백로그 충돌 보고서를 보낼 수 있게 함
+    .accesskey = c
+collection-backlogged-crash-reports-link = 더 알아보기
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-browsing-protection = 사기성있는 내용과 위험한 소프트웨어 보호
+security-enable-safe-browsing =
+    .label = 위험하고 사기성있는 내용을 차단
+    .accesskey = B
+security-enable-safe-browsing-link = 더 알아보기
+security-block-downloads =
+    .label = 위험한 다운로드 차단
+    .accesskey = D
+security-block-uncommon-software =
+    .label = 원치 않거나 일반적이지 않은 소프트웨어에 대해 알림
+    .accesskey = C
 
 ## Privacy Section - Certificates
 
 certs-header = 인증서
+certs-select-auto-option =
+    .label = 자동으로 하나를 선택
+    .accesskey = S
+certs-select-ask-option =
+    .label = 항상 물어보기
+    .accesskey = A
 certs-enable-ocsp =
     .label = OCSP서버를 통해 인증서 유효성 실시간 확인
     .accesskey = Q
+certs-view =
+    .label = 인증서 보기…
+    .accesskey = C
+certs-devices =
+    .label = 보안 기기…
+    .accesskey = D
