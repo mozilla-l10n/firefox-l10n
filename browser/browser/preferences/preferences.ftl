@@ -378,3 +378,189 @@ containers-preferences-button =
     .label = Eelistused
 containers-remove-button =
     .label = Eemalda
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-header = Vormid ja paroolid
+forms-remember-logins =
+    .label = Saitide kasutajanimed ja paroolid peetakse meeles
+    .accesskey = u
+
+## Privacy Section - History
+
+history-header = Ajalugu
+history-remember-description = { -brand-short-name } peab meeles sinu veebilehitsemise ajaloo, allalaadimised ning vormide ja otsingu ajaloo.
+history-dontremember-description = { -brand-short-name } kasutab samu sätteid, mida kasutatakse privaatse veebilehitsemise korral, veebilehitsemise ajalugu ei säilitata.
+history-private-browsing-permanent =
+    .label = Alati kasutatakse privaatse veebilehitsemise režiimi
+    .accesskey = p
+history-remember-option =
+    .label = Lehitsemise ja allalaadimiste ajalugu säilitatakse
+    .accesskey = L
+history-remember-search-option =
+    .label = Vormide ja otsingu ajalugu säilitatakse
+    .accesskey = V
+history-clear-on-close-option =
+    .label = { -brand-short-name }i sulgemisel ajalugu kustutatakse
+    .accesskey = s
+history-clear-on-close-settings =
+    .label = Sätted…
+    .accesskey = t
+history-clear-button =
+    .label = Ajaloo kustutamine…
+    .accesskey = j
+
+## Privacy Section - Site Data
+
+sitedata-header = Küpsised ja saidi andmed
+sitedata-learn-more = Rohkem teavet
+sitedata-accept-cookies-option =
+    .label = Küpsised ja saitide andmed võetakse veebilehtedelt vastu (soovitatav)
+    .accesskey = ü
+sitedata-block-cookies-option =
+    .label = Küpsised ja saitide andmed blokitakse (võib põhjustada probleeme saitide töötamises)
+    .accesskey = ö
+sitedata-keep-until = Säilitatakse kuni
+    .accesskey = n
+sitedata-accept-third-party-desc = Kolmanda osapoole saitide küpsised ja saitide andmed võetakse vastu
+    .accesskey = õ
+sitedata-accept-third-party-always-option =
+    .label = alati
+sitedata-accept-third-party-visited-option =
+    .label = varem külastatud saitidelt
+sitedata-accept-third-party-never-option =
+    .label = mitte kunagi
+sitedata-clear =
+    .label = Kustuta andmed…
+    .accesskey = u
+sitedata-settings =
+    .label = Halda andmeid…
+    .accesskey = H
+sitedata-cookies-exceptions =
+    .label = Erandid…
+    .accesskey = E
+
+## Privacy Section - Address Bar
+
+addressbar-header = Aadressiriba
+addressbar-suggest = Aadressiriba kasutamisel otsitakse soovitusi
+addressbar-locbar-history-option =
+    .label = lehitsemise ajaloost
+    .accesskey = l
+addressbar-locbar-bookmarks-option =
+    .label = järjehoidjatest
+    .accesskey = j
+addressbar-locbar-openpage-option =
+    .label = avatud kaartide seast
+    .accesskey = v
+addressbar-suggestions-settings = Muuda otsingumootorite soovituste sätteid
+
+## Privacy Section - Tracking
+
+tracking-header = Jälitamisvastane kaitse
+tracking-description = Jälitamisvastane kaitse blokib jälitajad, kes koguvad andmeid sinu veebilehitsemise kohta üle mitme veebilehe. <a>Rohkem teavet jälitamisvastase kaitse ja sinu privaatsuse kohta</a>
+tracking-mode-label = Teadaolevad jälitajad blokitakse
+tracking-mode-always =
+    .label = alati
+    .accesskey = a
+tracking-mode-private =
+    .label = ainult privaatsetes akendes
+    .accesskey = r
+tracking-mode-never =
+    .label = mitte kunagi
+    .accesskey = g
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Privaatse veebilehitsemise režiimis blokitakse teadaolevad jälitajad
+    .accesskey = v
+tracking-exceptions =
+    .label = Erandid…
+    .accesskey = d
+tracking-change-block-list =
+    .label = Muuda blokkimise nimekirja…
+    .accesskey = M
+
+## Privacy Section - Permissions
+
+permissions-header = Õigused
+permissions-location = Asukoht
+permissions-location-settings =
+    .label = Sätted…
+    .accesskey = t
+permissions-camera = Kaamera
+permissions-camera-settings =
+    .label = Sätted…
+    .accesskey = t
+permissions-microphone = Mikrofon
+permissions-microphone-settings =
+    .label = Sätted…
+    .accesskey = t
+permissions-notification = Teavitused
+permissions-notification-settings =
+    .label = Sätted…
+    .accesskey = t
+permissions-notification-link = Rohkem teavet
+permissions-notification-pause =
+    .label = Pane teavitused { -brand-short-name }i taaskäivitumiseni pausile
+    .accesskey = P
+permissions-block-popups-exceptions =
+    .label = Erandid…
+    .accesskey = E
+permissions-addon-install-warning =
+    .label = Hoiatus, kui veebilehed üritavad paigaldada lisasid
+    .accesskey = H
+permissions-a11y-privacy-checkbox =
+    .label = Hõlpsusteenustel ei lubata sinu brauserile ligi pääsda
+    .accesskey = H
+permissions-a11y-privacy-link = Rohkem teavet
+
+## Privacy Section - Data Collection
+
+collection-header = { -brand-short-name }i andmete kogumine ja kasutamine
+collection-description = Me pingutame, et pakkuda sulle erinevaid valikuvõimalusi, ja kogume ainult neid andmeid, mis aitavad meil { -brand-short-name }i paremaks muuta kõigi jaoks. Isiklike andmete puhul küsime me alati enne saatmist luba.
+collection-privacy-notice = Privaatsusreeglid
+collection-health-report =
+    .label = { -brand-short-name }il lubatakse automaatselt saata tehnilisi andmeid { -vendor-short-name }le
+    .accesskey = u
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Selle kompileerimise konfiguratsiooniga on andmete raporteerimine keelatud
+collection-browser-errors =
+    .label = Luba { -brand-short-name }il saata { -vendor-short-name }le brauseri vearaporteid (sisaldavad veateateid)
+    .accesskey = M
+collection-browser-errors-link = Rohkem teavet
+collection-backlogged-crash-reports =
+    .label = { -brand-short-name }il lubatakse saatmata vearaporteid saata
+    .accesskey = s
+collection-backlogged-crash-reports-link = Rohkem teavet
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+security-header = Turvalisus
+security-browsing-protection = Petliku sisu ja ohtliku tarkvara vastane kaitse
+security-enable-safe-browsing-link = Rohkem teavet
+security-block-uncommon-software =
+    .label = Hoiatatakse soovimatu või ebahariliku tarkvara eest
+    .accesskey = k
+
+## Privacy Section - Certificates
+
+certs-personal-label = Kui server nõuab kasutaja isiklikku sertifikaati, siis
+certs-select-auto-option =
+    .label = valitakse üks automaatselt
+    .accesskey = v
+certs-select-ask-option =
+    .label = küsitakse iga kord
+    .accesskey = k
+certs-view =
+    .label = Kuva sertifikaate…
+    .accesskey = K
+certs-devices =
+    .label = Turvaseadmed…
+    .accesskey = T
