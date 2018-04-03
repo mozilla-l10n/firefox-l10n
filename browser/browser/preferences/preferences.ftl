@@ -29,29 +29,15 @@ feature-enable-requires-restart = Ji bo ku ev taybetî çalak bibe pêwîst e { 
 feature-disable-requires-restart = Ji bo ku ev taybetî neçalak bibe pêwîst e { -brand-short-name } ji nû ve bê destpêkirin.
 should-restart-title = Nûdestpêkirina { -brand-short-name }
 
+## Preferences UI Search Results
+
+
 ## General Section
 
 startup-header = Destpêk
 is-default = { -brand-short-name } jixwe geroka te ya standard e
 startup-blank-page =
     .label = Rûpeleke vala nîşan bide
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Rûpela derbasdar bi kar bîne
-           *[other] Rûpelên Derbasdar Bi Kar Bîne
-        }
-    .accesskey = d
-choose-bookmark =
-    .label = Bijareyê bi kar bîne...
-    .accesskey = B
-restore-default =
-    .label = Vegêrîna Pêşsalixbûyî
-    .accesskey = V
 tabs-group-header = Hilpekîn
 show-tabs-in-taskbar =
     .label = Di darikê amûran a Windowsê de pêşdîtina hilpekînê nîşan bide
@@ -123,6 +109,29 @@ network-proxy-connection-settings =
     .label = Mîheng…
     .accesskey = e
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Rûpela derbasdar bi kar bîne
+           *[other] Rûpelên Derbasdar Bi Kar Bîne
+        }
+    .accesskey = d
+choose-bookmark =
+    .label = Bijareyê bi kar bîne...
+    .accesskey = B
+restore-default =
+    .label = Vegêrîna Pêşsalixbûyî
+    .accesskey = V
+
 ## Search Section
 
 search-choose-keyword-column =
@@ -137,3 +146,64 @@ search-keyword-warning-title = Peyva Kilît Zêde Bike
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Te peyveke kilît ku ji hêla "{ $name }"yê ve tê bikaranîn hilbijartiye. Ji kerema xwe re peyveke din hilbijêre.
 search-keyword-warning-bookmark = Te peyveke kilît ku ji hêla bijareyê ve tê bikaranîn hilbijartiye. Ji kerema xwe re peyveke din hilbijêre.
+
+## Containers Section
+
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = Rewşên Taybet...
+    .accesskey = R
+forms-master-pw-use =
+    .label = Şîfreyeke mafbilind bi kar bîne
+    .accesskey = n
+forms-master-pw-change =
+    .label = Şîfreyeke Mafbilind Biguherîne...
+    .accesskey = M
+
+## Privacy Section - History
+
+history-dontremember-description = { -brand-short-name } dê heman mîhengê ji bo gera nepen jî bi kar bîne û dê ji gera te ya webê tu tiştî bi bîr neyne.
+history-remember-search-option =
+    .label = Mêjûya lêgerîn û forman bi bîr bîne
+    .accesskey = f
+history-clear-on-close-option =
+    .label = Dema { -brand-short-name } hate girtin mêjûyê pakij bike
+    .accesskey = D
+history-clear-on-close-settings =
+    .label = Mîheng…
+    .accesskey = M
+
+## Privacy Section - Site Data
+
+sitedata-cookies-exceptions =
+    .label = Rewşên Taybet...
+    .accesskey = y
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-addon-exceptions =
+    .label = Rewşên Taybet...
+    .accesskey = e
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
