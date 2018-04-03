@@ -452,12 +452,16 @@ sitedata-cookies-exceptions =
 ## Privacy Section - Address Bar
 
 addressbar-header = સરનામા પટ્ટી
+addressbar-locbar-history-option =
+    .label = બ્રાઉઝિંગ ઇતિહાસ
+    .accesskey = H
 addressbar-locbar-bookmarks-option =
     .label = બુકમાર્કો
     .accesskey = k
 addressbar-locbar-openpage-option =
     .label = ટૅબ્સ ખોલો
     .accesskey = O
+addressbar-suggestions-settings = શોધ એન્જિન સૂચનો માટે પસંદગીઓ બદલો
 
 ## Privacy Section - Tracking
 
@@ -474,14 +478,29 @@ tracking-mode-never =
 tracking-exceptions =
     .label = અપવાદો…
     .accesskey = x
+tracking-change-block-list =
+    .label = અવરોધિત સૂચિ બદલો…
+    .accesskey = C
 
 ## Privacy Section - Permissions
 
 permissions-header = પરવાનગીઓ
 permissions-location = સ્થાન
+permissions-location-settings =
+    .label = સેટિંગ્સ…
+    .accesskey = t
 permissions-camera = કેમેરા
+permissions-camera-settings =
+    .label = સેટીંગ…
+    .accesskey = t
 permissions-microphone = માઇક્રોફોન
+permissions-microphone-settings =
+    .label = સેટીંગ…
+    .accesskey = t
 permissions-notification = સૂચનાઓ
+permissions-notification-settings =
+    .label = સેટિંગ્સ…
+    .accesskey = t
 permissions-notification-link = વધુ શીખો
 permissions-notification-pause =
     .label = { -brand-short-name } પુનઃપ્રારંભે ત્યા સુધી સૂચનાઓ થોભાવો
@@ -498,12 +517,16 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = અપવાદો...
     .accesskey = E
+permissions-a11y-privacy-link = વધુ શીખો
 
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } ડેટા સંગ્રહ અને ઉપયોગ
 collection-description = અમે તમને પસંદગીઓ સાથે પ્રદાન કરવાનો પ્રયત્ન કરીએ છીએ અને દરેક માટે શું પ્રદાન અને સુધારવાની જરૂર છે તે જ { -brand-short-name } એકત્રિત કરીએ છીએ. અમે હંમેશા વ્યક્તિગત માહિતી મેળવવા પહેલાં પરવાનગી પૂછીશુ.
 collection-privacy-notice = ગોપનીયતા સૂચના
+collection-health-report =
+    .label = મંજૂરી આપો { -brand-short-name } { -vendor-short-name } ને ટેક્નિકલ અને ક્રિયાપ્રતિક્રિયા ડેટા મોકલવા માટે
+    .accesskey = r
 collection-health-report-link = વધારે શીખો
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
