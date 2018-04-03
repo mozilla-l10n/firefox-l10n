@@ -388,6 +388,9 @@ containers-remove-button =
 
 ## Privacy Section - Forms
 
+forms-remember-logins =
+    .label = 记住网站的登录账号和密码
+    .accesskey = R
 forms-exceptions =
     .label = 例外…
     .accesskey = x
@@ -420,35 +423,107 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-keep-until = 保存，直到
+    .accesskey = u
+sitedata-accept-third-party-always-option =
+    .label = 始终
+sitedata-accept-third-party-visited-option =
+    .label = 来自访问过的网站
+sitedata-accept-third-party-never-option =
+    .label = 永不
 sitedata-cookies-exceptions =
     .label = 例外…
     .accesskey = E
 
 ## Privacy Section - Address Bar
 
+addressbar-header = 地址栏
+addressbar-locbar-history-option =
+    .label = 浏览历史
+    .accesskey = H
 addressbar-locbar-bookmarks-option =
     .label = 书签
     .accesskey = k
 
 ## Privacy Section - Tracking
 
+tracking-description = 跟踪保护功能可阻止跟踪者在不同网站间收集您的浏览数据。 <a>详细了解跟踪保护和您的隐私</a>
+tracking-mode-label = 使用跟踪保护功能拦截已知的跟踪器
+tracking-mode-always =
+    .label = 始终
+    .accesskey = y
+tracking-mode-private =
+    .label = 只在隐私窗口中
+    .accesskey = l
+tracking-mode-never =
+    .label = 永不
+    .accesskey = n
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = 在隐私浏览模式中使用跟踪保护拦截已知的跟踪器
+    .accesskey = v
+tracking-exceptions =
+    .label = 例外…
+    .accesskey = x
+tracking-change-block-list =
+    .label = 更换拦截列表…
+    .accesskey = C
 
 ## Privacy Section - Permissions
 
+permissions-header = 权限
+permissions-location = 位置
+permissions-location-settings =
+    .label = 设置…
+    .accesskey = l
+permissions-camera = 摄像头
+permissions-camera-settings =
+    .label = 设置…
+    .accesskey = c
+permissions-microphone = 麦克风
+permissions-microphone-settings =
+    .label = 设置…
+    .accesskey = m
+permissions-notification = 通知
+permissions-notification-settings =
+    .label = 设置…
+    .accesskey = n
+permissions-notification-link = 详细了解
+permissions-block-popups =
+    .label = 拦截弹出式窗口
+    .accesskey = B
+permissions-block-popups-exceptions =
+    .label = 例外…
+    .accesskey = E
+permissions-addon-install-warning =
+    .label = 当网站尝试安装附加组件时警告您
+    .accesskey = W
 permissions-addon-exceptions =
     .label = 例外…
     .accesskey = E
 
 ## Privacy Section - Data Collection
 
+collection-header = { -brand-short-name } 数据收集与使用
 collection-health-report-link = 详细了解
+collection-backlogged-crash-reports-link = 详细了解
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-enable-safe-browsing-link = 详细了解
 
 ## Privacy Section - Certificates
 
 certs-header = 证书
+certs-enable-ocsp =
+    .label = 查询 OCSP 响应服务器，以确认证书当前是否有效
+    .accesskey = Q
+certs-view =
+    .label = 查看证书…
+    .accesskey = C
+certs-devices =
+    .label = 安全设备…
+    .accesskey = D
