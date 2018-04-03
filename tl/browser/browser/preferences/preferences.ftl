@@ -359,6 +359,9 @@ containers-remove-button =
 ## Privacy Section - Forms
 
 forms-header = Mga form & Mga Password
+forms-remember-logins =
+    .label = Alalahanin ang mga pag-login at password para sa mga website
+    .accesskey = R
 forms-exceptions =
     .label = Mga exceptions...
     .accesskey = x
@@ -374,7 +377,11 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-header = Kasaysayan
 history-dontremember-description = Gagamit ng parehong settings ng private browsing ang { -brand-short-name }, at hindi nito tatandaan ang kasaysayan ng pag-browse ninyo ng Web.
+history-private-browsing-permanent =
+    .label = Laging gumamit ng pribadong mode ng pagba-browse
+    .accesskey = p
 history-remember-option =
     .label = Tandaan ang aking history sa browsing at download
     .accesskey = b
@@ -390,6 +397,15 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = Karagdagang kaalaman
+sitedata-keep-until = Panatilihin hanggang
+    .accesskey = u
+sitedata-accept-third-party-always-option =
+    .label = Palagi
+sitedata-accept-third-party-visited-option =
+    .label = Mula sa binisita
+sitedata-accept-third-party-never-option =
+    .label = Huwag kailanman
 sitedata-cookies-exceptions =
     .label = Mga exceptions...
     .accesskey = e
@@ -397,29 +413,68 @@ sitedata-cookies-exceptions =
 ## Privacy Section - Address Bar
 
 addressbar-header = Address Bar
+addressbar-suggest = Kapag ginagamit ang address bar, iminumungkahi
+addressbar-locbar-history-option =
+    .label = Kasaysayan ng pag-browse
+    .accesskey = H
+addressbar-locbar-bookmarks-option =
+    .label = Mga bookmark
+    .accesskey = k
+addressbar-locbar-openpage-option =
+    .label = Buksan ang mga tab
+    .accesskey = O
+addressbar-suggestions-settings = Baguhin ang mga kagustuhan para sa mga suhestiyon sa search engine
 
 ## Privacy Section - Tracking
 
+tracking-header = Proteksyon sa Pagsubaybay
 tracking-description = Ang Proteksyon sa Pagsubaybay ay naghaharang sa mga online na tracker na nagkokolekta ng iyong impormasyon tungkol sa pag-browse sa maramihang mga website. <a>Matuto nang higit pa tungkol sa Proteksyon sa Pagsubaybay at iyong pagiging pribado</a>
 tracking-mode-label = Gamitin ang Proteksyon sa Pagsubaybay upang harangan ang mga kilalang tracker
+tracking-mode-always =
+    .label = Palagi
+    .accesskey = y
 tracking-mode-private =
     .label = Sa pribadong mga window lamang
     .accesskey = l
+tracking-mode-never =
+    .label = Hindi Kailanman
+    .accesskey = n
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Gamitin ang Proteksyon sa Pagsubaybay sa Pribadong Pagba-browse upang harangan ang mga kilalang tracker
+    .accesskey = v
+tracking-exceptions =
+    .label = Mga eksepsyon…
+    .accesskey = x
+tracking-change-block-list =
+    .label = Bagohin ang Listahan ng mga Bina-block…
+    .accesskey = C
 
 ## Privacy Section - Permissions
 
 permissions-header = Mga pahintulot
+permissions-notification-pause =
+    .label = I-pause ang mga notification hanggang sa i-restart ang { -brand-short-name }
+    .accesskey = n
 permissions-block-popups =
     .label = Harangin ang mga pop-up windows
     .accesskey = H
+permissions-addon-install-warning =
+    .label = Pagbabala sa iyo kapag sinusubukan ng mga website na mag-install ng mga add-on
+    .accesskey = W
 permissions-addon-exceptions =
     .label = Mga exceptions...
     .accesskey = e
+permissions-a11y-privacy-checkbox =
+    .label = Pigilan ang mga serbisyo sa pag-access sa pag-access sa iyong browser
+    .accesskey = a
+permissions-a11y-privacy-link = Matuto ng higit pa
 
 ## Privacy Section - Data Collection
 
 collection-health-report-link = Karagdagang kaalaman
 collection-browser-errors-link = Matuto ng higit pa
+collection-backlogged-crash-reports-link = Karagdagang kaalaman
 
 ## Privacy Section - Security
 ##
@@ -427,6 +482,7 @@ collection-browser-errors-link = Matuto ng higit pa
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Seguridad
+security-browsing-protection = Pandaraya na Nilalaman at Proteksyon ng Delikadong Software
 security-enable-safe-browsing =
     .label = I-block ang mga content na delikado at nakakahinala
     .accesskey = B
