@@ -389,9 +389,14 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = Preifatrwydd y Porwr
 
 ## Privacy Section - Forms
 
+forms-header = Ffurflenni a Chyfrineiriau
+forms-remember-logins =
+    .label = Cofio mewngofnodion a chyfrineiriau gwefannau
+    .accesskey = C
 forms-exceptions =
     .label = Eithriadau…
     .accesskey = i
@@ -427,6 +432,11 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = Dysgu rhagor
+sitedata-keep-until = Cadw tan
+    .accesskey = C
+sitedata-accept-third-party-always-option =
+    .label = Bob tro
 sitedata-accept-third-party-visited-option =
     .label = O'r ymwelwyd
 sitedata-accept-third-party-never-option =
@@ -437,15 +447,22 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Bar Cyfeiriadau
+addressbar-suggest = Pan yn defnyddio'r bar cyfeiriad, cynnig
+addressbar-locbar-history-option =
+    .label = Hanes pori
+    .accesskey = p
 addressbar-locbar-bookmarks-option =
     .label = Nodau Tudalen
     .accesskey = N
 addressbar-locbar-openpage-option =
     .label = Tabiau ar agor
     .accesskey = T
+addressbar-suggestions-settings = Newid dewisiadau am awgrymiadau peiriannau chwilio
 
 ## Privacy Section - Tracking
 
+tracking-header = Diogelu Rhag Tracio
 tracking-mode-always =
     .label = Bob tro
     .accesskey = B
@@ -455,27 +472,55 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Byth
     .accesskey = y
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Defnyddio Diogelwch rhag Tracio yn Pori Preifat i rwystro tracwyr hysbys
+    .accesskey = P
 tracking-exceptions =
     .label = Eithriadau…
     .accesskey = E
+tracking-change-block-list =
+    .label = Newid y Rhestr Rhwystro…
+    .accesskey = N
 
 ## Privacy Section - Permissions
 
+permissions-header = Caniatâd
+permissions-location = Lleoliad
+permissions-camera = Camera
+permissions-microphone = Meicroffon
+permissions-notification = Hysbysiadau
+permissions-notification-link = Dysgu rhagor
 permissions-block-popups =
     .label = Rhwystro ffenestri llamlen
     .accesskey = R
+permissions-block-popups-exceptions =
+    .label = Eithriadau…
+    .accesskey = E
+permissions-addon-install-warning =
+    .label = Rhybuddio pan fydd gwefan yn ceisio gosod ychwanegion
+    .accesskey = y
 permissions-addon-exceptions =
     .label = Eithriadau…
     .accesskey = E
 
 ## Privacy Section - Data Collection
 
+collection-header = Casglu Data a Defnyddio { -brand-short-name }
+collection-description = Rydym yn ceisio darparu dewisiadau i chi a chasglu dim ond beth sydd ei angen arnom i ddarparu a gwella { -brand-short-name } ar gyfer pawb. Rydym yn gofyn caniatâd bob tro cyn derbyn manylion personol.
+collection-privacy-notice = Rhybudd Preifatrwydd
+collection-health-report-link = Dysgu rhagor
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Mae adrodd ar ddata wedi ei analluogi ar gyfer ffurfweddiad yr adeiledd hwn
+collection-backlogged-crash-reports-link = Dysgu rhagor
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Diogelwch
 security-enable-safe-browsing =
     .label = Rhwystro cynnwys peryglus a thwyllodrus
     .accesskey = R
@@ -489,9 +534,19 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Tystysgrifau
+certs-personal-label = Pan fydd gweinydd yn gofyn am fy nhystysgrif bersonol:
 certs-select-auto-option =
     .label = Dewis un yn awtomatig
     .accesskey = T
+certs-select-ask-option =
+    .label = Gofyn i mi bob tro
+    .accesskey = G
 certs-enable-ocsp =
     .label = Ymholi â gweinyddion atebwr OCSP i gadarnhau dilysrwydd cyfredol y tystysgrifau
     .accesskey = Y
+certs-view =
+    .label = Darllen Tystysgrifau…
+    .accesskey = D
+certs-devices =
+    .label = Dyfeisiau Diogelwch…
+    .accesskey = y
