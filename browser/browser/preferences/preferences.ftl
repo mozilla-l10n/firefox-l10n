@@ -557,6 +557,7 @@ collection-backlogged-crash-reports-link = Saber mais
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Segurança
+security-browsing-protection = Conteúdo Enganoso e Proteção Contra Software Perigoso
 security-enable-safe-browsing =
     .label = Bloquear conteúdo perigoso e malicioso
     .accesskey = B
