@@ -68,7 +68,7 @@
 <!ENTITY saveAsMenuItem1.accesskey "s">
 <!ENTITY viewSourceMenuItem1.label "Vis kjeldekode">
 <!ENTITY viewSourceMenuItem1.accesskey "V">
-<!ENTITY otherActionsPrint1.label "Skriv ut …">
+<!ENTITY otherActionsPrint1.label "Skriv ut…">
 <!ENTITY otherActionsPrint1.accesskey "S">
 
 <!-- Attachment bar context menu items -->
