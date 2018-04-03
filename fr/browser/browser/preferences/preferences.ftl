@@ -382,3 +382,52 @@ containers-preferences-button =
     .label = Préférences
 containers-remove-button =
     .label = Supprimer
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = Exceptions…
+    .accesskey = x
+forms-master-pw-change =
+    .label = Changer le mot de passe principal…
+    .accesskey = C
+
+## Privacy Section - History
+
+history-header = Historique
+
+## Privacy Section - Site Data
+
+sitedata-cookies-exceptions =
+    .label = Exceptions…
+    .accesskey = x
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-block-popups =
+    .label = Bloquer les fenêtres popup
+    .accesskey = B
+permissions-addon-exceptions =
+    .label = Exceptions…
+    .accesskey = E
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
