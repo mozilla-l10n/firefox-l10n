@@ -70,15 +70,13 @@ both, to better adapt this sentence to their language.
 <!ENTITY verifiedManage.accesskey     "S">
 <!ENTITY disconnect3.label            "Aftengja…">
 <!ENTITY disconnect3.accesskey        "A">
-<!ENTITY verify.label                "Staðfesta tölvupóstfang">
-<!ENTITY verify.accesskey            "v">
-<!ENTITY forget.label                "Gleyma þessu tölvupóstfangi">
-<!ENTITY forget.accesskey            "f">
-
 <!ENTITY resendVerification.label     "Endursenda staðfestingu">
 <!ENTITY resendVerification.accesskey "d">
 <!ENTITY cancelSetup.label            "Hætta við uppsetningu">
 <!ENTITY cancelSetup.accesskey        "p">
+
+<!ENTITY removeAccount.label          "Fjarlægja reikning">
+<!ENTITY removeAccount.accesskey      "R">
 
 <!ENTITY signedOut.caption            "Taktu vefinn með þér">
 <!ENTITY signedOut.description        "Samstilltu bókamerki, feril, flipa, lykilorð, viðbætur, og stillingará milli allra þinna tækja.">
