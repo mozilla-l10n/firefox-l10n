@@ -373,9 +373,14 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = 瀏覽器隱私權
 
 ## Privacy Section - Forms
 
+forms-header = 表單與密碼
+forms-remember-logins =
+    .label = 記住網站的登入帳號與密碼
+    .accesskey = R
 forms-exceptions =
     .label = 例外網站…
     .accesskey = x
@@ -392,6 +397,7 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = 瀏覽紀錄
+history-remember-description = { -brand-short-name } 將記住您的瀏覽、下載、表單填寫與搜尋紀錄。
 history-dontremember-description = { -brand-short-name } 不會儲存任何瀏覽記錄，如同在隱私瀏覽狀態下執行。
 history-private-browsing-permanent =
     .label = 總是使用隱私瀏覽模式
@@ -408,30 +414,60 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = 設定…
     .accesskey = t
+history-clear-button =
+    .label = 清除瀏覽記錄…
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
+sitedata-header = Cookie 與網站資料
+sitedata-learn-more = 了解更多
+sitedata-accept-cookies-option =
+    .label = 接受網站設定的 Cookie 與網站資料（建議）
+    .accesskey = A
+sitedata-block-cookies-option =
+    .label = 封鎖 Cookie 與網站資料（可能會造成某些網站運作不正常）
+    .accesskey = B
+sitedata-keep-until = 保留 Cookie 直到
+    .accesskey = u
+sitedata-accept-third-party-desc = 接受第三方 Cookie 與網站資料
+    .accesskey = y
 sitedata-accept-third-party-always-option =
     .label = 總是
 sitedata-accept-third-party-visited-option =
     .label = 造訪過的網站
 sitedata-accept-third-party-never-option =
     .label = 永不
+sitedata-clear =
+    .label = 清除資料…
+    .accesskey = l
+sitedata-settings =
+    .label = 管理資料…
+    .accesskey = M
 sitedata-cookies-exceptions =
     .label = 例外網站…
     .accesskey = E
 
 ## Privacy Section - Address Bar
 
+addressbar-header = 網址列
+addressbar-suggest = 在使用網址列時提供建議
+addressbar-locbar-history-option =
+    .label = 瀏覽紀錄
+    .accesskey = H
 addressbar-locbar-bookmarks-option =
     .label = 書籤
     .accesskey = k
 addressbar-locbar-openpage-option =
     .label = 開啟分頁
     .accesskey = O
+addressbar-suggestions-settings = 修改搜尋建議偏好設定
 
 ## Privacy Section - Tracking
 
+tracking-header = 追蹤保護
+tracking-description = 追蹤保護功能會封鎖在不同網站間收集您的瀏覽資料的網路追蹤器。 <a>了解有關追蹤保護功能，以及您的隱私權的更多資訊</a>
+tracking-mode-label = 使用追蹤保護功能，封鎖已知的追蹤器
 tracking-mode-always =
     .label = 總是
     .accesskey = y
@@ -441,38 +477,112 @@ tracking-mode-private =
 tracking-mode-never =
     .label = 永不
     .accesskey = n
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = 在隱私瀏覽模式使用追蹤保護功能，封鎖已知的追蹤器
+    .accesskey = v
 tracking-exceptions =
     .label = 例外網站…
     .accesskey = x
+tracking-change-block-list =
+    .label = 變更封鎖清單…
+    .accesskey = C
 
 ## Privacy Section - Permissions
 
+permissions-header = 權限
+permissions-location = 位置
+permissions-location-settings =
+    .label = 設定…
+    .accesskey = l
+permissions-camera = 攝影機
+permissions-camera-settings =
+    .label = 設定…
+    .accesskey = c
+permissions-microphone = 麥克風
+permissions-microphone-settings =
+    .label = 設定…
+    .accesskey = m
+permissions-notification = 通知
+permissions-notification-settings =
+    .label = 設定…
+    .accesskey = n
+permissions-notification-link = 了解更多
+permissions-notification-pause =
+    .label = 暫停通知到 { -brand-short-name } 重新啟動後
+    .accesskey = n
 permissions-block-popups =
     .label = 封鎖彈出型視窗
     .accesskey = B
+permissions-block-popups-exceptions =
+    .label = 例外網站…
+    .accesskey = E
+permissions-addon-install-warning =
+    .label = 當網站嘗試安裝附加元件時警告您
+    .accesskey = W
 permissions-addon-exceptions =
     .label = 例外網站…
     .accesskey = E
+permissions-a11y-privacy-checkbox =
+    .label = 防止無障礙輔助功能存取您的瀏覽器
+    .accesskey = a
+permissions-a11y-privacy-link = 了解更多
 
 ## Privacy Section - Data Collection
 
+collection-header = { -brand-short-name } 資料收集與使用
+collection-description = 我們致力於提供您選擇，也只會收集我們在提供與改善 { -brand-short-name } 時所必需的資料。我們也一定會經過您的同意才收集您的個人資訊。
+collection-privacy-notice = 隱私權公告
+collection-health-report =
+    .label = 允許 { -brand-short-name } 傳送技術與互動資料給 { -vendor-short-name }
+    .accesskey = r
 collection-health-report-link = 更多資訊
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = 進行編譯設定時，已停用了資料回報功能
+collection-browser-errors =
+    .label = 允許 { -brand-short-name } 向 { -vendor-short-name } 發送瀏覽器錯誤報告（包括錯誤訊息）
+    .accesskey = b
+collection-browser-errors-link = 了解更多
+collection-backlogged-crash-reports =
+    .label = 允許 { -brand-short-name } 為您傳送先前紀錄下的錯誤報告
+    .accesskey = c
+collection-backlogged-crash-reports-link = 更多資訊
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = 安全性
+security-browsing-protection = 詐欺內容與危險網站保護
 security-enable-safe-browsing =
     .label = 封鎖危險及詐騙內容
     .accesskey = B
+security-enable-safe-browsing-link = 了解更多
 security-block-downloads =
     .label = 封鎖危險的下載項目
     .accesskey = D
+security-block-uncommon-software =
+    .label = 下載不安全或不常見的軟體時警告您
+    .accesskey = C
 
 ## Privacy Section - Certificates
 
 certs-header = 憑證
+certs-personal-label = 當伺服器要求您的個人憑證時
+certs-select-auto-option =
+    .label = 自動選擇一組憑證
+    .accesskey = S
+certs-select-ask-option =
+    .label = 每次詢問您
+    .accesskey = A
 certs-enable-ocsp =
     .label = 向 OCSP 回應伺服器查詢，以確認憑證有效性
     .accesskey = Q
+certs-view =
+    .label = 檢視憑證…
+    .accesskey = C
+certs-devices =
+    .label = 安全性裝置…
+    .accesskey = D
