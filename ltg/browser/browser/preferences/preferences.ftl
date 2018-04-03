@@ -374,24 +374,80 @@ containers-remove-button =
 
 ## Privacy Section - Forms
 
+forms-exceptions =
+    .label = Izjāmumi...
+    .accesskey = z
+forms-saved-logins =
+    .label = Saglobuotuos paroles…
+    .accesskey = l
+forms-master-pw-use =
+    .label = Izmantuot golvonū paroli
+    .accesskey = m
+forms-master-pw-change =
+    .label = Nūmaineit golvonū paroli...
+    .accesskey = m
 
 ## Privacy Section - History
 
+history-header = Viesture
+history-dontremember-description = { -brand-short-name } izmantuots taidus pat īstatiejumus kai privatuos puorlūkuošonys režymā i puorlūkojūt šķārsteiklu nasaglobuos viesturi.
+history-private-browsing-permanent =
+    .label = Vīnmār izmantuot privatuos puorlūkuošonys režymu
+    .accesskey = z
+history-remember-option =
+    .label = Atguoduot munu puorlūkuošonys i lejupīluožu viesturi
+    .accesskey = A
+history-remember-search-option =
+    .label = Atguoduot mekliešonys i formu viesturi
+    .accesskey = v
+history-clear-on-close-option =
+    .label = Dzēst aiztaisūt { -brand-short-name }
+    .accesskey = D
+history-clear-on-close-settings =
+    .label = Īstatiejumi…
+    .accesskey = t
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-always-option =
+    .label = Vīnmār
+sitedata-accept-third-party-visited-option =
+    .label = Tikai nu lopom, kurys asmu apmekliejs
+sitedata-accept-third-party-never-option =
+    .label = Nikod
+sitedata-cookies-exceptions =
+    .label = Izjāmumi…
+    .accesskey = I
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-bookmarks-option =
+    .label = Gruomotzeimes
+    .accesskey = m
+addressbar-locbar-openpage-option =
+    .label = Attaiseituos cilnes
+    .accesskey = t
 
 ## Privacy Section - Tracking
 
+tracking-mode-always =
+    .label = Vīnmār
+    .accesskey = m
 tracking-mode-private =
     .label = Only in private windows
     .accesskey = l
+tracking-mode-never =
+    .label = Nikod
+    .accesskey = N
+tracking-exceptions =
+    .label = Izjāmumi…
+    .accesskey = I
 
 ## Privacy Section - Permissions
 
+permissions-addon-exceptions =
+    .label = Izjāmumi...
+    .accesskey = I
 
 ## Privacy Section - Data Collection
 
@@ -401,6 +457,12 @@ tracking-mode-private =
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-enable-safe-browsing =
+    .label = Block dangerous and deceptive content
+    .accesskey = B
+security-block-downloads =
+    .label = Blokeit beistamys lejupīluodes
+    .accesskey = d
 
 ## Privacy Section - Certificates
 
