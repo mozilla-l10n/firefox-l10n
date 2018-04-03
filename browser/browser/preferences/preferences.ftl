@@ -426,13 +426,21 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = સેટીંગ…
     .accesskey = t
+history-clear-button =
+    .label = ઇતિહાસ સાફ કરો…
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
 sitedata-header = કૂકીઝ અને સાઈટ ડેટા
 sitedata-learn-more = વધુ શીખો
+sitedata-block-cookies-option =
+    .label = કૂકીઝ અને સાઇટ ડેટાને અવરોધિત કરો (વેબસાઇટ્સને તોડી શકે છે)
+    .accesskey = B
 sitedata-keep-until = ત્યાં સુધી રાખો
     .accesskey = u
+sitedata-accept-third-party-desc = તૃતીય-પક્ષ કૂકીઝ અને સાઇટ ડેટાને સ્વીકારો
+    .accesskey = y
 sitedata-accept-third-party-always-option =
     .label = હંમેશા
 sitedata-accept-third-party-visited-option =
@@ -469,6 +477,8 @@ addressbar-suggestions-settings = શોધ એન્જિન સૂચનો �
 ## Privacy Section - Tracking
 
 tracking-header = ટ્રેકિંગ પ્રોટેક્શન
+tracking-description = ટ્રેકિંગ પ્રોટેક્શન ઓનલાઇન ટ્રેકર જે બહુવિધ વેબસાઇટ્સ પર તમારા બ્રાઉઝિંગ ડેટાને એકત્રિત કરે તેને અવરોધે છે. <a>ટ્રેકિંગ સુરક્ષા અને તમારી ગોપનીયતા વિશે વધુ જાણો</a>
+tracking-mode-label = જાણીતા ટ્રેકર્સને અવરોધિત કરવા માટે ટ્રેકિંગ પ્રોટેક્શનનો ઉપયોગ કરો
 tracking-mode-always =
     .label = હંમેશા
     .accesskey = y
@@ -541,7 +551,13 @@ collection-health-report-link = વધારે શીખો
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = આ તૈચાર કરેલ રૂપરેખાંકન માટે ડેટા અહેવાલ અક્ષમ કરેલું છે
+collection-browser-errors =
+    .label = { -brand-short-name } ને મોઝિલા માટે બ્રાઉઝર ભૂલ અહેવાલો (ભૂલ સંદેશાઓ સહિત) મોકલવા માટે મંજૂરી આપો
+    .accesskey = b
 collection-browser-errors-link = વધુ જાણો
+collection-backlogged-crash-reports =
+    .label = તમારા વતી { -brand-short-name } ને બૅકલોગ ક્રેશ રિપોર્ટ્સ મોકલવાની મંજૂરી આપો
+    .accesskey = c
 collection-backlogged-crash-reports-link = વધારે શીખો
 
 ## Privacy Section - Security
@@ -554,6 +570,7 @@ security-browsing-protection = ભ્રામક સામગ્રી અન�
 security-enable-safe-browsing =
     .label = ખતરનાક અને ભ્રામક સામગ્રીને અવરોધિત કરો
     .accesskey = B
+security-enable-safe-browsing-link = વધુ શીખો
 security-block-downloads =
     .label = ખતરનાક ડાઉનલોડ્સ ને અવરોધિત કરો
     .accesskey = D
