@@ -391,6 +391,9 @@ containers-remove-button =
 forms-exceptions =
     .label = Poikkeukset…
     .accesskey = e
+forms-saved-logins =
+    .label = Tallennetut kirjautumistiedot…
+    .accesskey = k
 forms-master-pw-use =
     .label = Käytä pääsalasanaa
     .accesskey = K
@@ -400,9 +403,35 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-header = Historiatiedot
+history-dontremember-description = { -brand-short-name } toimii aina kuten yksityisessä selaustilassa, eikä säilytä mitään historiatietoja.
+history-private-browsing-permanent =
+    .label = Selaa aina yksityinen selaus -tilassa
+    .accesskey = y
+history-remember-option =
+    .label = Säilytä selaushistoria ja tieto latauksista
+    .accesskey = ä
+history-remember-search-option =
+    .label = Säilytä lomakkeiden ja hakupalkin tiedot
+    .accesskey = d
+history-clear-on-close-option =
+    .label = Poista historiatiedot kun { -brand-short-name } suljetaan
+    .accesskey = o
+history-clear-on-close-settings =
+    .label = Asetukset…
+    .accesskey = u
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-always-option =
+    .label = Aina
+sitedata-accept-third-party-visited-option =
+    .label = Vierailluilta sivustoilta
+sitedata-accept-third-party-never-option =
+    .label = Ei milloinkaan
+sitedata-cookies-exceptions =
+    .label = Poikkeukset…
+    .accesskey = P
 
 ## Privacy Section - Address Bar
 
@@ -421,6 +450,7 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Data Collection
 
+collection-health-report-link = Lue lisää
 
 ## Privacy Section - Security
 ##
@@ -430,3 +460,7 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Certificates
 
+certs-header = Varmenteet
+certs-enable-ocsp =
+    .label = Vahvista varmenteiden kelpoisuus OCSP-vastaajapalvelimilta
+    .accesskey = C
