@@ -380,9 +380,25 @@ history-private-browsing-permanent =
 history-remember-option =
     .label = माझी ब्राऊजिंग व डाऊनलोड इतिहास लक्षात ठेवा
     .accesskey = b
+history-remember-search-option =
+    .label = शोध व फॉर्म इतिहास लक्षात ठेवा
+    .accesskey = f
+history-clear-on-close-option =
+    .label = { -brand-short-name } बंद झाल्यावर इतिहास नष्ट करा
+    .accesskey = r
+history-clear-on-close-settings =
+    .label = सेटिंग्ज…
+    .accesskey = t
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-visited-option =
+    .label = भेट दिलेल्यांमधून
+sitedata-accept-third-party-never-option =
+    .label = कधीच नाही
+sitedata-cookies-exceptions =
+    .label = अपवाद…
+    .accesskey = E
 
 ## Privacy Section - Address Bar
 
