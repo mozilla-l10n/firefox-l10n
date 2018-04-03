@@ -362,3 +362,133 @@ containers-preferences-button =
     .label = Ter
 containers-remove-button =
     .label = Kwany
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-header = Pwom ki mung me donyo
+forms-exceptions =
+    .label = Ma kiweko woko…
+    .accesskey = a
+forms-saved-logins =
+    .label = Donyo iyie ma kigwoko…
+    .accesskey = D
+forms-master-pw-use =
+    .label = Tii ki mung me donyo madit
+    .accesskey = T
+forms-master-pw-change =
+    .label = Lok mung me donyo madit…
+    .accesskey = m
+
+## Privacy Section - History
+
+history-header = Gin mukato
+history-dontremember-description = { -brand-short-name } bi tic ki ter acel calo yeny me mung, ka pe bi poo ikom gin mukato mo keken kun nongo i yenyo Kakube.
+history-private-browsing-permanent =
+    .label = Jwijwi tii ki kit yeny me mung
+    .accesskey = m
+history-remember-option =
+    .label = Po ikom gin mukato me yeny ki gam mamega
+    .accesskey = o
+history-remember-search-option =
+    .label = Poo ikom gin mukato me yeny ki pwom
+    .accesskey = p
+history-clear-on-close-option =
+    .label = Jwa gin mukato ka { -brand-short-name } olore
+    .accesskey = a
+history-clear-on-close-settings =
+    .label = Ter…
+    .accesskey = r
+
+## Privacy Section - Site Data
+
+sitedata-learn-more = Nong ngec mapol
+sitedata-accept-third-party-always-option =
+    .label = Jwijwi
+sitedata-accept-third-party-visited-option =
+    .label = Ki i ma kilimo
+sitedata-accept-third-party-never-option =
+    .label = Pe matwal
+sitedata-cookies-exceptions =
+    .label = Ma kiweko woko…
+    .accesskey = M
+
+## Privacy Section - Address Bar
+
+addressbar-suggest = Ka i tye katic ki lanyut me kabedo, mi tam
+addressbar-locbar-bookmarks-option =
+    .label = Alama buk
+    .accesskey = l
+addressbar-locbar-openpage-option =
+    .label = Yab dirica matino
+    .accesskey = Y
+addressbar-suggestions-settings = Lok ter pi tam ma kimiyo me injin yeny
+
+## Privacy Section - Tracking
+
+tracking-header = Gwokke ikom lubo kor
+tracking-mode-always =
+    .label = Jwijwi
+    .accesskey = w
+tracking-mode-private =
+    .label = I dirica me mung manyen keken
+    .accesskey = k
+tracking-mode-never =
+    .label = Pe matwal
+    .accesskey = a
+tracking-exceptions =
+    .label = Ma kiweko woko…
+    .accesskey = M
+tracking-change-block-list =
+    .label = Lok jami ma i dul…
+    .accesskey = L
+
+## Privacy Section - Permissions
+
+permissions-header = Rukuca
+permissions-block-popups =
+    .label = Geng dirica ma pye-malo
+    .accesskey = G
+permissions-addon-exceptions =
+    .label = Ma kiweko woko…
+    .accesskey = M
+
+## Privacy Section - Data Collection
+
+collection-health-report-link = Nong ngec mapol
+collection-backlogged-crash-reports-link = Nong ngec mapol
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+security-header = Ber bedo
+security-enable-safe-browsing =
+    .label = Geng jami maraco ki me bwola
+    .accesskey = G
+security-block-downloads =
+    .label = Geng gam maraco
+    .accesskey = a
+security-block-uncommon-software =
+    .label = Niangi ikom purugram ma pe mite ki ma pe nonge ata
+    .accesskey = a
+
+## Privacy Section - Certificates
+
+certs-header = Waraga
+certs-personal-label = Kace lapok tic okwayo pi catibiket mamegi
+certs-select-auto-option =
+    .label = Yer acel pire kene
+    .accesskey = S
+certs-select-ask-option =
+    .label = Penyi cawa weng
+    .accesskey = A
+certs-enable-ocsp =
+    .label = Yeny lapok tic ma miyo lagam pa OCSP me moko kare me tic ma kombedi pa waraga
+    .accesskey = Y
+certs-view =
+    .label = Nen Catibiket…
+    .accesskey = C
