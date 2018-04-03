@@ -393,15 +393,41 @@ containers-remove-button =
 forms-exceptions =
     .label = Výnimky…
     .accesskey = m
+forms-master-pw-use =
+    .label = Používať hlavné heslo
+    .accesskey = e
 forms-master-pw-change =
     .label = Zmeniť hlavné heslo…
     .accesskey = h
 
 ## Privacy Section - History
 
+history-header = História
+history-dontremember-description = { -brand-short-name } použije totožné nastavenia s režimom Súkromné prehliadanie a nebude si pamätať žiadnu históriu prehliadania webu.
+history-private-browsing-permanent =
+    .label = Natrvalo zapnúť režim Súkromné prehliadanie
+    .accesskey = a
+history-remember-option =
+    .label = Pamätať si históriu prehliadania a prevzatých súborov
+    .accesskey = h
+history-remember-search-option =
+    .label = Pamätať si údaje zadané do formulárov a vyhľadávacieho panela
+    .accesskey = f
+history-clear-on-close-settings =
+    .label = Nastavenia…
+    .accesskey = N
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-always-option =
+    .label = vždy
+sitedata-accept-third-party-visited-option =
+    .label = len pre navštívené
+sitedata-accept-third-party-never-option =
+    .label = nikdy
+sitedata-cookies-exceptions =
+    .label = Výnimky…
+    .accesskey = m
 
 ## Privacy Section - Address Bar
 
@@ -420,6 +446,7 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Data Collection
 
+collection-health-report-link = Ďalšie informácie
 
 ## Privacy Section - Security
 ##
@@ -429,3 +456,7 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Certificates
 
+certs-header = Certifikáty
+certs-enable-ocsp =
+    .label = Aktuálnu platnosť certifikátov overovať na serveroch OCSP
+    .accesskey = A
