@@ -92,11 +92,13 @@
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
      For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
      as attachments.accesskey. -->
+<!ENTITY toggleAttachmentPaneCmd.accesskey "j">
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
      With OS-specific access modifier, this defines the shortcut key for showing/
      hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
      toggleAttachmentPaneCmd.key and attachments.accesskey must be the same
      for the bucket view state machinery to work. -->
+<!ENTITY toggleAttachmentPaneCmd.key "j">
 <!ENTITY selectAllCmd.label "Tout sélectionner">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "T">
@@ -325,6 +327,7 @@
 <!ENTITY reorderAttachments.label "Réorganiser les pièces jointes…">
 <!ENTITY reorderAttachments.accesskey "a">
 <!ENTITY removeAllAttachments.label "Supprimer toutes les pièces jointes">
+<!ENTITY removeAllAttachments.accesskey "s">
 <!ENTITY selectAll.label "Tout sélectionner">
 <!ENTITY selectAll.accesskey "t">
 <!ENTITY attachFile.label "Joindre fichier(s)…">
@@ -344,6 +347,8 @@
 <!-- LOCALIZATION NOTE (initiallyShowAttachmentPane.label):
      Should use the same wording as startExpandedCmd.label
      in msgHdrViewOverlay.dtd. -->
+<!ENTITY initiallyShowAttachmentPane.label "Afficher par défaut le panneau des pièces jointes">
+<!ENTITY initiallyShowAttachmentPane.accesskey "A">
 
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Ajouter des dictionnaires…">
