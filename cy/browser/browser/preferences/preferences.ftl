@@ -386,3 +386,46 @@ containers-preferences-button =
     .label = Dewisiadau
 containers-remove-button =
     .label = Tynnu
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-master-pw-use =
+    .label = Defnyddio prif gyfrinair
+    .accesskey = D
+
+## Privacy Section - History
+
+history-dontremember-description = Bydd { -brand-short-name } yn defnyddio'r un gosodiadau â phori preifat, ond ni fydd yn cofio unrhyw hanes wrth i chi bori'r We.
+history-clear-on-close-option =
+    .label = Clirio hanes pan fydd { -brand-short-name } yn cau
+    .accesskey = l
+
+## Privacy Section - Site Data
+
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-block-popups =
+    .label = Rhwystro ffenestri llamlen
+    .accesskey = R
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
