@@ -420,6 +420,8 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-learn-more = Μάθετε περισσότερα
+sitedata-keep-until = Διατήρηση μέχρι
+    .accesskey = μ
 sitedata-accept-third-party-always-option =
     .label = Πάντα
 sitedata-accept-third-party-visited-option =
