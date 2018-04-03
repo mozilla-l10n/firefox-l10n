@@ -388,12 +388,14 @@ containers-remove-button =
 
 ## Privacy Section - Forms
 
+forms-header = טפסים וססמאות
 forms-exceptions =
     .label = חריגות…
     .accesskey = ר
 
 ## Privacy Section - History
 
+history-header = היסטוריה
 history-dontremember-description = { -brand-short-name } ישתמש באותן ההגדרות לגלישה פרטית, ולא יזכור היסטוריה כלשהי במהלך הגלישה שלך ברשת.
 history-private-browsing-permanent =
     .label = שימוש תמידי במצב גלישה פרטית
@@ -415,6 +417,8 @@ history-clear-on-close-settings =
 
 sitedata-accept-third-party-always-option =
     .label = תמיד
+sitedata-accept-third-party-visited-option =
+    .label = מאתרים בהם ביקרנו בעבר
 sitedata-accept-third-party-never-option =
     .label = לעולם לא
 sitedata-cookies-exceptions =
@@ -423,12 +427,21 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-bookmarks-option =
+    .label = סימניות
+    .accesskey = ס
+addressbar-locbar-openpage-option =
+    .label = לשוניות פתוחות
+    .accesskey = ל
+addressbar-suggestions-settings = שינוי העדפות של הצעות מנועי חיפוש
 
 ## Privacy Section - Tracking
 
+tracking-header = הגנת מעקב
 
 ## Privacy Section - Permissions
 
+permissions-header = הרשאות
 permissions-block-popups =
     .label = חסימת חלונות קופצים
     .accesskey = ח
@@ -438,6 +451,10 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Data Collection
 
+collection-header = איסוף המידע של { -brand-short-name }
+collection-health-report =
+    .label = האם לאפשר ל־{ -brand-short-name } לשלוח אל { -vendor-short-name } מידע טכני ופעולות שבוצעו בדפדפן
+    .accesskey = ד
 collection-health-report-link = מידע נוסף
 
 ## Privacy Section - Security
@@ -445,7 +462,12 @@ collection-health-report-link = מידע נוסף
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = אבטחה
+security-block-uncommon-software =
+    .label = הזהרה על תוכנות לא נפוצות ותכנות לא רצויות
+    .accesskey = ת
 
 ## Privacy Section - Certificates
 
 certs-header = אישורים
+certs-personal-label = כאשר שרת מבקש את האישור האישי שלך
