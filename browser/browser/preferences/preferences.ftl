@@ -436,9 +436,29 @@ tracking-change-block-list =
 
 ## Privacy Section - Permissions
 
+permissions-location = Vị trí
+permissions-location-settings =
+    .label = Thiết lập…
+    .accesskey = t
+permissions-camera = Máy ảnh
+permissions-camera-settings =
+    .label = Thiết lập…
+    .accesskey = t
+permissions-microphone = Micrô
+permissions-microphone-settings =
+    .label = Thiết lập…
+    .accesskey = t
+permissions-notification = Thông báo
+permissions-notification-settings =
+    .label = Thiết lập…
+    .accesskey = t
+permissions-notification-link = Tìm hiểu thêm
 permissions-block-popups =
     .label = Chặn các cửa sổ pop-up
     .accesskey = C
+permissions-block-popups-exceptions =
+    .label = Ngoại lệ…
+    .accesskey = N
 permissions-addon-exceptions =
     .label = Ngoại trừ…
     .accesskey = N
