@@ -383,19 +383,27 @@ containers-remove-button =
 
 ## Privacy Section - Forms
 
+forms-header = Ձևեր և գաղտնաբառեր
 forms-exceptions =
     .label = Բացառություններ…
     .accesskey = ա
+forms-saved-logins =
+    .label = Պահված մուտքանուններ...
+    .accesskey = մ
 forms-master-pw-change =
     .label = Փոխել Հիմնական գաղտնաբառը…
     .accesskey = Հ
 
 ## Privacy Section - History
 
+history-header = Պատմություն
 history-dontremember-description = { -brand-short-name }ը կօգտագործի գաղտնի դիտարկման կարգավումները և չի հիշի համացանցում ձեր դիտարկումների պատմությունը:
 history-private-browsing-permanent =
     .label = Միշտ օգտագործել Գաղտնի Դիտարկումը
     .accesskey = Գ
+history-remember-option =
+    .label = Հիշել իմ դիտարկումների և ներբեռնումների պատմությունը
+    .accesskey = ե
 history-remember-search-option =
     .label = Հիշել որոնման և ձևերի պատմությունը
     .accesskey = ձ
@@ -408,6 +416,7 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = Իմանալ ավելին
 sitedata-accept-third-party-visited-option =
     .label = Այցելածներից
 sitedata-accept-third-party-never-option =
@@ -418,28 +427,73 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-bookmarks-option =
+    .label = Էջանիշեր
+    .accesskey = ի
+addressbar-locbar-openpage-option =
+    .label = Բացել ներդիրները
+    .accesskey = Բ
+addressbar-suggestions-settings = Փոխել որոնիչների նախապատվությունները
 
 ## Privacy Section - Tracking
 
+tracking-header = Հետագծման պաշտպանություն
+tracking-mode-always =
+    .label = Միշտ
+    .accesskey = շ
+tracking-mode-private =
+    .label = Միայն գաղտնի պատուհաններում
+    .accesskey = ա
+tracking-mode-never =
+    .label = Երբեք
+    .accesskey = Ե
+tracking-exceptions =
+    .label = Բացառություններ…
+    .accesskey = ա
 
 ## Privacy Section - Permissions
 
+permissions-notification = Ծանուցումներ
 permissions-block-popups =
     .label = Կանխել Pop-up պատուհանները
     .accesskey = Կ
+permissions-block-popups-exceptions =
+    .label = Բացառություններ…
+    .accesskey = Բ
 permissions-addon-exceptions =
     .label = Բացառություններ…
     .accesskey = Բ
 
 ## Privacy Section - Data Collection
 
+collection-health-report-link = Իմանալ ավելին
+collection-backlogged-crash-reports-link = Իմանալ ավելին
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-enable-safe-browsing =
+    .label = Արգելափակել վտանգավոր և խաբուսիկ բովանդակությունը
+    .accesskey = Ա
+security-block-downloads =
+    .label = Արգելափակել վտանգավոր ներբեռնումները
+    .accesskey = վ
+security-block-uncommon-software =
+    .label = Զգուշացնել ինձ անցանկալի և անսովոր ծրագրերի մասին
+    .accesskey = ս
 
 ## Privacy Section - Certificates
 
 certs-header = Վկայագրեր
+certs-personal-label = Երբ սպասարկիչը հարցնում է ձեր անձնական վկայագիրը
+certs-select-auto-option =
+    .label = Ընտրել ինքնաշխատ
+    .accesskey = S
+certs-select-ask-option =
+    .label = Ամեն անգամ հարցնել
+    .accesskey = A
+certs-enable-ocsp =
+    .label = Հարցում OCSP պատասխանիչի սպասարկիչին՝ հաստատելու հավաստագրի իսկությունը
+    .accesskey = Հ
