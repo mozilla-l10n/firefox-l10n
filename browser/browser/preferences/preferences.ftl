@@ -388,3 +388,59 @@ containers-preferences-button =
     .label = التفضيلات
 containers-remove-button =
     .label = أزِل
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = الاستثناءات…
+    .accesskey = س
+forms-master-pw-use =
+    .label = استخدم كلمة سر رئيسيّة
+    .accesskey = خ
+
+## Privacy Section - History
+
+history-header = التأريخ
+history-dontremember-description = سيستخدم { -brand-short-name } نفس إعدادات التصفح الخاص، بحيث لن يحتفظ بأيّ تأريخ لتصفحك للوب.
+history-remember-search-option =
+    .label = تذكّر تأريخ النماذج والبحث
+    .accesskey = ث
+history-clear-on-close-option =
+    .label = امسح التأريخ عند إغلاق { -brand-short-name }
+    .accesskey = غ
+history-clear-on-close-settings =
+    .label = إعدادات…
+    .accesskey = د
+
+## Privacy Section - Site Data
+
+sitedata-cookies-exceptions =
+    .label = الاستثناءات…
+    .accesskey = س
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-addon-exceptions =
+    .label = الاستثناءات…
+    .accesskey = ث
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
