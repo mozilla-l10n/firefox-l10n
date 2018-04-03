@@ -9,6 +9,7 @@
 <!ENTITY iconsAndText.label       "Ikone in besedilo">
 <!ENTITY icons.label              "Ikone">
 <!ENTITY text.label               "Besedilo">
+<!ENTITY iconsBesideText.label    "Ikone poleg besedila">
 <!ENTITY useSmallIcons.label      "Uporabi majhne ikone">
 <!ENTITY restoreDefaultSet.label  "Obnovi privzeti nabor">
 <!ENTITY addNewToolbar.label      "Dodaj novo orodno vrstico">
