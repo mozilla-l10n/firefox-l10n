@@ -395,6 +395,10 @@ history-header = Histórico
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-always-option =
+    .label = Sempre
+sitedata-accept-third-party-never-option =
+    .label = Nunca
 
 ## Privacy Section - Address Bar
 
@@ -410,6 +414,7 @@ addressbar-locbar-bookmarks-option =
 
 ## Privacy Section - Data Collection
 
+collection-health-report-link = Saber mais
 
 ## Privacy Section - Security
 ##
