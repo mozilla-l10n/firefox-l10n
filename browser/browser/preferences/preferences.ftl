@@ -376,17 +376,23 @@ containers-remove-button =
 
 ## Privacy Section - Forms
 
+forms-exceptions =
+    .label = ข้อยกเว้น…
+    .accesskey = อ
 forms-master-pw-use =
     .label = ใช้รหัสผ่านหลัก
     .accesskey = ช
 
 ## Privacy Section - History
 
+history-header = ประวัติ
 
 ## Privacy Section - Site Data
 
 sitedata-accept-third-party-always-option =
     .label = เสมอ
+sitedata-accept-third-party-never-option =
+    .label = ไม่เลย
 
 ## Privacy Section - Address Bar
 
@@ -399,6 +405,7 @@ sitedata-accept-third-party-always-option =
 
 ## Privacy Section - Data Collection
 
+collection-health-report-link = เรียนรู้เพิ่มเติม
 
 ## Privacy Section - Security
 ##
