@@ -385,9 +385,14 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = Privacy do navegatô
 
 ## Privacy Section - Forms
 
+forms-header = Form e Paròlle segrete
+forms-remember-logins =
+    .label = Aregorda i login e-e poule segrete pe-i sciti
+    .accesskey = A
 forms-exceptions =
     .label = Eceçioin…
     .accesskey = ç
@@ -404,6 +409,7 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Stöia
+history-remember-description = { -brand-short-name } o s'aregòrda de teu navegaçioin, descaregamenti e stöia de riçerche.
 history-dontremember-description = { -brand-short-name } o deuvia e mæxime preferense da-a navegaçion privâ, e o no se aregòrda da stöia de teu navegaçioin.
 history-private-browsing-permanent =
     .label = Deuvia de longo o mòddo de navegaçion privou
@@ -420,10 +426,15 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Inpostaçioin…
     .accesskey = t
+history-clear-button =
+    .label = Scancella Stöia…
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
 sitedata-learn-more = Pe saveine de ciù
+sitedata-keep-until = Mantegni scinn-a che
+    .accesskey = i
 sitedata-accept-third-party-always-option =
     .label = de longo
 sitedata-accept-third-party-visited-option =
@@ -436,15 +447,24 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Bara di indirissi
+addressbar-suggest = Quande ti deuvi a bara di indirissi, conseggia
+addressbar-locbar-history-option =
+    .label = Stöia da navegaçion
+    .accesskey = S
 addressbar-locbar-bookmarks-option =
     .label = Segnalibbri
     .accesskey = b
 addressbar-locbar-openpage-option =
     .label = feuggi averti
     .accesskey = g
+addressbar-suggestions-settings = Cangia e inpostaçioin di conseggi di motoî de riçerca
 
 ## Privacy Section - Tracking
 
+tracking-header = Proteçion anti-traciamento
+tracking-description = A proteçion anmti-traciamento a blòcca quelli che veuan traciate in linea quande ti naveghi tra ciù sciti. <a>Pe saveine de ciù in sciâ proteçion anti-traciamento e privacy</a>
+tracking-mode-label = Deuvia a proteçion anti-traciamento pe i sciti che se san che tracian
 tracking-mode-always =
     .label = De longo
     .accesskey = g
@@ -454,31 +474,82 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Mai
     .accesskey = m
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Deuvia a proteçion anti-traciamento inta navegaçion privâ pe i sciti che se san che tracian
+    .accesskey = v
 tracking-exceptions =
     .label = Eceçioin…
     .accesskey = c
+tracking-change-block-list =
+    .label = Cangia lista de blòcco…
+    .accesskey = C
 
 ## Privacy Section - Permissions
 
+permissions-header = Permissi
+permissions-location = Indirisso
+permissions-location-settings =
+    .label = Inpostaçioin…
+    .accesskey = t
+permissions-camera = Fòtocamera
+permissions-camera-settings =
+    .label = Inpostaçioin…
+    .accesskey = t
+permissions-microphone = Micròfono
+permissions-microphone-settings =
+    .label = Inpostaçioin…
+    .accesskey = t
+permissions-notification = Notifiche
+permissions-notification-settings =
+    .label = Inpostaçioin…
+    .accesskey = t
+permissions-notification-link = Atre informaçioin
+permissions-notification-pause =
+    .label = Ferma notificaçioin scinché { -brand-short-name } o no s'arve torna
+    .accesskey = n
 permissions-block-popups =
     .label = Blòcca i barcoin de pop-up
     .accesskey = B
+permissions-block-popups-exceptions =
+    .label = Eceçioin…
+    .accesskey = E
+permissions-addon-install-warning =
+    .label = Avizime quande 'n scito o preuva a instalâ conponenti azonti
+    .accesskey = A
 permissions-addon-exceptions =
     .label = Eceçioin…
     .accesskey = E
+permissions-a11y-privacy-checkbox =
+    .label = O blòcca i serviççi de acesibiliæ
+    .accesskey = a
+permissions-a11y-privacy-link = Atre informaçioin
 
 ## Privacy Section - Data Collection
 
+collection-description = Niatri çerchemmo de lasciâ a ti a decixon e de sarvase solo quello ch'o ne serve pe megiorâ { -brand-short-name } pe tutti. Niatri te domandiemo de longo o permisso primma de reçeive informaçioin personâ.
+collection-privacy-notice = Informativa in sciâ privacy
 collection-health-report-link = Atre informaçioin
+collection-browser-errors =
+    .label = Permetti a { -brand-short-name } de mandâ report di eroî (incluzo mesaggi d'erô) a { -vendor-short-name }
+    .accesskey = d
+collection-browser-errors-link = Atre informaçioin
+collection-backlogged-crash-reports =
+    .label = Permetti a { -brand-short-name } de mandâ report di cianti in background pe conto teu
+    .accesskey = c
+collection-backlogged-crash-reports-link = Atre informaçioin
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Seguessa
+security-browsing-protection = Proteçion contra o conegnuo inganevole e pericoloso
 security-enable-safe-browsing =
     .label = Blòcca contegui grammi pericolozi
     .accesskey = B
+security-enable-safe-browsing-link = Atre informaçioin
 security-block-downloads =
     .label = Blocca descaregamenti pericolozi
     .accesskey = D
@@ -489,9 +560,19 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Certificati
+certs-personal-label = Quande 'n server o domanda o teu certificato personale
+certs-select-auto-option =
+    .label = Seleçionn-a un in aotomatico
+    .accesskey = S
 certs-select-ask-option =
     .label = Domandimòu tutte e vòtte
     .accesskey = D
 certs-enable-ocsp =
     .label = Domanda a-i risponditoî OCSP pe confermâ a validitæ di certificati oua
     .accesskey = o
+certs-view =
+    .label = Fanni vedde certificati…
+    .accesskey = C
+certs-devices =
+    .label = Aparati de Seguessa…
+    .accesskey = S
