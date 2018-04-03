@@ -409,6 +409,7 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Histórico
+history-remember-description = { -brand-short-name } irá lembrar dos seus dados de navegação, download, formulário e histórico de pesquisa.
 history-dontremember-description = O { -brand-short-name } usará as mesmas configurações da navegação privativa e não memorizará o histórico de navegação.
 history-private-browsing-permanent =
     .label = Sempre usar o modo de navegação privativa
@@ -433,6 +434,9 @@ history-clear-button =
 
 sitedata-header = Cookies e Dados de sites
 sitedata-learn-more = Saber mais
+sitedata-accept-cookies-option =
+    .label = Aceitar cookies e dados de sites (recomendado)
+    .accesskey = A
 sitedata-block-cookies-option =
     .label = Bloquear cookies e dados de sites (pode quebrar páginas)
     .accesskey = B
@@ -449,6 +453,9 @@ sitedata-accept-third-party-never-option =
 sitedata-clear =
     .label = Limpar dados…
     .accesskey = L
+sitedata-settings =
+    .label = Gerenciar dados…
+    .accesskey = G
 sitedata-cookies-exceptions =
     .label = Exceções…
     .accesskey = E
