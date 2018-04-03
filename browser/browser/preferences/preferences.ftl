@@ -388,6 +388,10 @@ history-clear-on-close-option =
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-always-option =
+    .label = Sentiasa
+sitedata-accept-third-party-visited-option =
+    .label = Daripada yang dilawati
 
 ## Privacy Section - Address Bar
 
@@ -409,3 +413,4 @@ history-clear-on-close-option =
 
 ## Privacy Section - Certificates
 
+certs-header = Sijil
