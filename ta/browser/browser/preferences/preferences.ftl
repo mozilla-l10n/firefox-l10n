@@ -455,7 +455,23 @@ tracking-change-block-list =
 ## Privacy Section - Permissions
 
 permissions-header = அனுமதிகள்
+permissions-location = இடம்
+permissions-location-settings =
+    .label = அமைவுகள்…
+    .accesskey = t
+permissions-camera = படக்கருவி
+permissions-camera-settings =
+    .label = அமைவுகள்…
+    .accesskey = t
+permissions-microphone = ஒலிவாங்கி
+permissions-microphone-settings =
+    .label = அமைவுகள்…
+    .accesskey = t
 permissions-notification = அறிவிப்புகள்
+permissions-notification-settings =
+    .label = அமைவுகள்…
+    .accesskey = t
+permissions-notification-link = மேலும் அறிய
 permissions-block-popups =
     .label = பாப் அப் (துள்ளும்) சாளரங்களை தடுக்கவும்
     .accesskey = ப
@@ -468,10 +484,19 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = விதிவிலக்குகள்…
     .accesskey = E
+permissions-a11y-privacy-checkbox =
+    .label = அணுகல்தன்மை சேவைகள் உங்கள் உலாவியை அணுகவதிலிருந்தும் தடுக்கவும்
+    .accesskey = a
+permissions-a11y-privacy-link = மேலும் அறிய
 
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } தரவுத் திரட்டும் பயனளவும்
+collection-description = நாங்கள் உங்களுக்கு தேர்வுகளை வழங்க உறுதிபூண்டுள்ளோம் மேலும் அனைவருக்கும் { -brand-short-name } வழங்க மற்றும் மேம்படுத்த தேவையானதை மட்டும் சேகரிக்கிறோம். நாங்கள் தனிப்பட்ட தகவல்களைப் பெறும் முன் எப்போதும் அனுமதி கேட்கிறோம்.
+collection-privacy-notice = தனியுரிமை அறிக்கை
+collection-health-report =
+    .label = தொழில்நுட்ப மற்றும் தொடர்புத் தரவுகளை மொசில்லாவிற்கு அனுப்ப { -brand-short-name } உலாவியை அனுமதி
+    .accesskey = r
 collection-health-report-link = மேலும் அறிய
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
