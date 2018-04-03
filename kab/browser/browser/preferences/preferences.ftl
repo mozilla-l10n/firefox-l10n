@@ -506,6 +506,9 @@ permissions-a11y-privacy-link = Issin ugar
 collection-header = Alqqaḍ d useqdec n isefka { -brand-short-name }
 collection-privacy-notice = Tasertit n tbaḍnit
 collection-health-report-link = Lmed ugar
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Aneqqis n isefka ur irmid ara i uswel-a n usefsu
 collection-browser-errors =
     .label = Sireg i { -brand-short-name } ad yazen aneqis n tucṣiwin n tunigin( igber iznan  n tusḍa) γer { -vendor-short-name }
     .accesskey = b
