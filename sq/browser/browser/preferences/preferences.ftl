@@ -548,7 +548,13 @@ collection-backlogged-crash-reports-link = Mësoni Më Tepër
 
 security-header = Siguri
 security-browsing-protection = Mbrojtje Nga Lëndë e Rrejshme dhe Software i Rrezikshëm
+security-enable-safe-browsing =
+    .label = Bllokoni lëndë të rrezikshme dhe të rrejshme
+    .accesskey = B
 security-enable-safe-browsing-link = Mësoni më tepër
+security-block-downloads =
+    .label = Bllokoni shkarkime të rrezikshme
+    .accesskey = z
 security-block-uncommon-software =
     .label = Sinjalizo rreth software-i të padëshiruar dhe jo të zakonshëm
     .accesskey = d
