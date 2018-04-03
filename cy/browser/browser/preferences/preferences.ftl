@@ -392,19 +392,37 @@ containers-remove-button =
 
 ## Privacy Section - Forms
 
+forms-exceptions =
+    .label = Eithriadau…
+    .accesskey = i
 forms-master-pw-use =
     .label = Defnyddio prif gyfrinair
     .accesskey = D
+forms-master-pw-change =
+    .label = Newid y Prif Gyfrinair…
+    .accesskey = N
 
 ## Privacy Section - History
 
 history-dontremember-description = Bydd { -brand-short-name } yn defnyddio'r un gosodiadau â phori preifat, ond ni fydd yn cofio unrhyw hanes wrth i chi bori'r We.
+history-remember-option =
+    .label = Cofio fy hanes pori a hanes llwytho i lawr
+    .accesskey = o
+history-remember-search-option =
+    .label = Cofio hanes chwilio a ffurflen
+    .accesskey = C
 history-clear-on-close-option =
     .label = Clirio hanes pan fydd { -brand-short-name } yn cau
     .accesskey = l
+history-clear-on-close-settings =
+    .label = Gosodiadau…
+    .accesskey = G
 
 ## Privacy Section - Site Data
 
+sitedata-cookies-exceptions =
+    .label = Eithriadau…
+    .accesskey = E
 
 ## Privacy Section - Address Bar
 
@@ -417,6 +435,9 @@ history-clear-on-close-option =
 permissions-block-popups =
     .label = Rhwystro ffenestri llamlen
     .accesskey = R
+permissions-addon-exceptions =
+    .label = Eithriadau…
+    .accesskey = E
 
 ## Privacy Section - Data Collection
 
