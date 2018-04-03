@@ -205,3 +205,67 @@ containers-preferences-button =
     .label = Поставки
 containers-remove-button =
     .label = Избриши
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = Исклучоци…
+    .accesskey = ч
+forms-master-pw-use =
+    .label = Користи главна лозинка
+    .accesskey = о
+forms-master-pw-change =
+    .label = Промени ја главната лозинка…
+    .accesskey = г
+
+## Privacy Section - History
+
+history-header = Историја
+history-remember-option =
+    .label = Запамти ја мојата сурферска историја и преземања
+    .accesskey = п
+history-remember-search-option =
+    .label = Памети ги пребарувањата и формуларите
+    .accesskey = ф
+history-clear-on-close-option =
+    .label = Исчисти ја историјата секојпат кога ќе го затворите { -brand-short-name }
+    .accesskey = ч
+history-clear-on-close-settings =
+    .label = Поставки…
+    .accesskey = П
+
+## Privacy Section - Site Data
+
+sitedata-cookies-exceptions =
+    .label = Исклучоци…
+    .accesskey = И
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-block-popups =
+    .label = Блокирај скокачки прозорци
+    .accesskey = л
+permissions-addon-exceptions =
+    .label = Исклучоци…
+    .accesskey = И
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
