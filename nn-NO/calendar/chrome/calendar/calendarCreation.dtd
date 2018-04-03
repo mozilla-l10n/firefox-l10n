@@ -36,6 +36,16 @@
 <!ENTITY buttons.back.accesskey "b">
 
 <!ENTITY buttons.subscribe.label "Abonner">
+<!ENTITY buttons.subscribe.accesskey "b">
 
+<!ENTITY calendartype.label "Kalendertype:">
+<!ENTITY location.label "Adresse:">
+<!ENTITY location.placeholder "URL eller vertsnamn på kalenderserveren">
 
+<!ENTITY network.nocredentials.label "Denne adressa krev ikkje innlogging">
+<!ENTITY network.loading.description "Vent mens kalendrane dine blir oppdaga.">
+<!ENTITY network.notfound.description "Kan ikkje finne kalendrar på denne adressa. Kontroller innstillingane dine.">
+<!ENTITY network.authfail.description "Innlogginga du spesifiserte fungerte ikkje. Ver snill og kontroller innstillingane dine.">
 
+<!ENTITY network.subscribe.single.description "Vel kalendrane du vil abonnere på.">
+<!ENTITY network.subscribe.multiple.description "Fleire kalendertypar er tilgjengelege på denne adressa. Vel ei kalendertype og marker kalendrane du vil abonnere på.">
