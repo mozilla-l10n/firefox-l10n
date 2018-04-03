@@ -410,9 +410,13 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Stillingar…
     .accesskey = t
+history-clear-button =
+    .label = Hreinsa feril…
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
+sitedata-header = Smákökur og gögn vefsvæðis
 sitedata-learn-more = Fræðast meira
 sitedata-keep-until = Eiga þangað til
     .accesskey = E
@@ -422,6 +426,12 @@ sitedata-accept-third-party-visited-option =
     .label = Frá heimsóttum síðum
 sitedata-accept-third-party-never-option =
     .label = Aldrei
+sitedata-clear =
+    .label = Hreinsa gögn…
+    .accesskey = ö
+sitedata-settings =
+    .label = Sýsla með gögn…
+    .accesskey = M
 sitedata-cookies-exceptions =
     .label = Undanþágur…
     .accesskey = U
@@ -444,6 +454,8 @@ addressbar-suggestions-settings = Breyta stillingum fyrir ábendingar leitarvél
 ## Privacy Section - Tracking
 
 tracking-header = Vörn gegn gagnasöfnun
+tracking-description = Vörn gegn gagnasöfnun lokar á njósnaraforrit á netinu sem safna vafragögnum á milli margra vefsvæða. <a>Fræðast meira um vörn gegn gagnasöfnun og friðhelgi</a>
+tracking-mode-label = Nota vörn gegn gagnasöfnun til að loka á þekkta gagnasafnara
 tracking-mode-always =
     .label = Alltaf
     .accesskey = A
@@ -484,6 +496,9 @@ permissions-notification-settings =
     .label = Stillingar…
     .accesskey = n
 permissions-notification-link = Vita meira
+permissions-notification-pause =
+    .label = Stöðva tilkynningar þangað til { -brand-short-name } endurræsir
+    .accesskey = n
 permissions-block-popups =
     .label = Loka á sprettiglugga
     .accesskey = g
@@ -513,6 +528,13 @@ collection-health-report-link = Fræðast meira
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Gagna skýrsla er óvirk í þessari útgáfu
+collection-browser-errors =
+    .label = Leyfa { -brand-short-name } að senda villuskýrslur vafra (með villuskilaboðum) til { -vendor-short-name }
+    .accesskey = b
+collection-browser-errors-link = Fræðast meira
+collection-backlogged-crash-reports =
+    .label = Leyfa { -brand-short-name } að senda hrunskýrslu í bakgrunni í þínu nafni
+    .accesskey = ð
 collection-backlogged-crash-reports-link = Fræðast meira
 
 ## Privacy Section - Security
@@ -525,6 +547,7 @@ security-browsing-protection = Vörn gegn svika innihaldi og hættulegum hugbún
 security-enable-safe-browsing =
     .label = Loka á hættulegt og svindl efni
     .accesskey = L
+security-enable-safe-browsing-link = Fræðast meira
 security-block-downloads =
     .label = Loka á hættuleg niðurhöl
     .accesskey = ö
