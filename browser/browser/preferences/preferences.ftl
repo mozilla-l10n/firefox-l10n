@@ -338,4 +338,5 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Certificates
 
+certs-header = វិញ្ញាបនបត្រ
 certs-personal-label = នៅ​ពេល​ម៉ាស៊ីន​មេ​ស្នើ​សុំ​វិញ្ញាបនបត្រ​ផ្ទាល់ខ្លួន​របស់​អ្នក
