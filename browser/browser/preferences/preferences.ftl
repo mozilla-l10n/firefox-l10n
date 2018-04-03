@@ -382,6 +382,10 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-always-option =
+    .label = Luôn luôn
+sitedata-accept-third-party-visited-option =
+    .label = Từ các trang đã truy cập
 sitedata-accept-third-party-never-option =
     .label = Không bao giờ
 sitedata-cookies-exceptions =
@@ -402,6 +406,7 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Data Collection
 
+collection-health-report-link = Tìm hiểu thêm
 
 ## Privacy Section - Security
 ##
