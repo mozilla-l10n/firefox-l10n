@@ -384,9 +384,14 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = Поверителност на четеца
 
 ## Privacy Section - Forms
 
+forms-header = Формуляри и пароли
+forms-remember-logins =
+    .label = Запазване на имена и пароли за вход в страниците
+    .accesskey = З
 forms-exceptions =
     .label = Изключения…
     .accesskey = к
@@ -396,37 +401,77 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = Използване на главна парола
     .accesskey = г
+forms-master-pw-change =
+    .label = Промяна на главна парола…
+    .accesskey = л
 
 ## Privacy Section - History
 
 history-header = История
+history-dontremember-description = { -brand-short-name } ще използва същите настройки като при поверително разглеждане и няма да помни никаква история, докато сте в интернет.
+history-private-browsing-permanent =
+    .label = Винаги включено поверително разглеждане
+    .accesskey = п
+history-remember-option =
+    .label = Запазване на история на разглеждане и изтегляния
+    .accesskey = З
+history-remember-search-option =
+    .label = Запазване на история на търсения и формуляри
+    .accesskey = ф
 history-clear-on-close-option =
     .label = Изчистване на история при изход от { -brand-short-name }
     .accesskey = И
 history-clear-on-close-settings =
     .label = Настройки…
     .accesskey = Н
+history-clear-button =
+    .label = Изчистване на историята…
+    .accesskey = и
 
 ## Privacy Section - Site Data
 
+sitedata-header = Бисквитки и данни на страници
+sitedata-learn-more = Научете повече
+sitedata-keep-until = Пазене до
+    .accesskey = а
+sitedata-accept-third-party-desc = Приемане на бисквитки и данни за сайтове от трети лица
+    .accesskey = б
 sitedata-accept-third-party-always-option =
     .label = Винаги
 sitedata-accept-third-party-visited-option =
     .label = От посетените
 sitedata-accept-third-party-never-option =
     .label = Никога
+sitedata-clear =
+    .label = Изчистване на данни…
+    .accesskey = т
+sitedata-settings =
+    .label = Управление на данни…
+    .accesskey = у
 sitedata-cookies-exceptions =
     .label = Изключения…
     .accesskey = И
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Адресна лента
+addressbar-suggest = При въвеждане в адресната лента, подсказване с
+addressbar-locbar-history-option =
+    .label = История на разглеждане
+    .accesskey = р
 addressbar-locbar-bookmarks-option =
     .label = Отметки
     .accesskey = О
+addressbar-locbar-openpage-option =
+    .label = Отворени раздели
+    .accesskey = р
+addressbar-suggestions-settings = Настройки на предложенията от търсещите машини
 
 ## Privacy Section - Tracking
 
+tracking-header = Защита от проследяване
+tracking-description = Защитата от проследяване спира страниците, които събират информация за вас докато разглеждате различни сайтове. <a>Научете повече за защитата от проследяване и поверителност</a>
+tracking-mode-label = Използвайте защитата за спиране на известните проследяващи страници
 tracking-mode-always =
     .label = Винаги
     .accesskey = В
@@ -436,35 +481,112 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Никога
     .accesskey = Н
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Използвайте защитата от проследяване докато разглеждате поверително за блокиране на известните проследяващи сайтове
+    .accesskey = з
 tracking-exceptions =
     .label = Изключения…
     .accesskey = з
+tracking-change-block-list =
+    .label = Промяна на блокиращия списък…
+    .accesskey = с
 
 ## Privacy Section - Permissions
 
+permissions-header = Права
+permissions-location = Местоположение
+permissions-location-settings =
+    .label = Настройки…
+    .accesskey = с
+permissions-camera = Камера
+permissions-camera-settings =
+    .label = Настройки…
+    .accesskey = с
+permissions-microphone = Микрофон
+permissions-microphone-settings =
+    .label = Настройки…
+    .accesskey = с
+permissions-notification = Известия
+permissions-notification-settings =
+    .label = Настройки…
+    .accesskey = с
+permissions-notification-link = Научете повече
+permissions-notification-pause =
+    .label = Спиране на известията до рестарт на { -brand-short-name }
+    .accesskey = з
+permissions-block-popups =
+    .label = Спиране на изскачащите прозорци
+    .accesskey = С
+permissions-block-popups-exceptions =
+    .label = Изключения…
+    .accesskey = з
+permissions-addon-install-warning =
+    .label = Предупреждаване при опит на страница да инсталира добавки
+    .accesskey = д
 permissions-addon-exceptions =
     .label = Изключения…
     .accesskey = И
+permissions-a11y-privacy-checkbox =
+    .label = Забраняване на достъпа до четеца на услуги за достъпност
+    .accesskey = б
+permissions-a11y-privacy-link = Научете повече
 
 ## Privacy Section - Data Collection
 
+collection-header = Събиране и използване на данни от { -brand-short-name }
+collection-description = Стремим се да ви предоставяме възможност и да събираме само толкова, колкото ни е необходимо, за да предоставяме и подобряваме { -brand-short-name } за всички. Винаги искаме разрешение преди да получим лична информация.
+collection-privacy-notice = Политика на поверителност
+collection-health-report =
+    .label = Разрешаване на { -brand-short-name } да изпраща техническа информация и данни за използването към { -vendor-short-name }
+    .accesskey = т
 collection-health-report-link = Научете повече
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Докладването да данни е изключено за тази конфигурация на изданието
+collection-browser-errors =
+    .label = Разрешаване на { -brand-short-name } да изпраща доклади за грешките на четеца (включително и самото съобщение) към { -vendor-short-name }
+    .accesskey = г
+collection-browser-errors-link = Научете повече
+collection-backlogged-crash-reports =
+    .label = Разрешаване на { -brand-short-name } да изпраща от ваше име предишни доклади за срив
+    .accesskey = и
+collection-backlogged-crash-reports-link = Научете повече
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Защита
+security-browsing-protection = Измамно съдържание и защита от опасен софтуер
 security-enable-safe-browsing =
     .label = Блокиране на опасно и измамно съдържание
     .accesskey = Б
+security-enable-safe-browsing-link = Научете повече
 security-block-downloads =
     .label = Блокиране на опасни изтегляния
     .accesskey = т
+security-block-uncommon-software =
+    .label = Предупреждаване при нежелан или рядко срещан софтуер
+    .accesskey = н
 
 ## Privacy Section - Certificates
 
 certs-header = Сертификати
+certs-personal-label = Когато сървър поиска личния ви сертификат
+certs-select-auto-option =
+    .label = Автоматично избиране на някой
+    .accesskey = а
+certs-select-ask-option =
+    .label = Питане всеки път
+    .accesskey = п
 certs-enable-ocsp =
     .label = Заявка към сървър OCSP responder за потвърждаване валидността на сертификатите
     .accesskey = З
+certs-view =
+    .label = Преглед на сертификатите…
+    .accesskey = с
+certs-devices =
+    .label = Устройства по безопасността…
+    .accesskey = у
