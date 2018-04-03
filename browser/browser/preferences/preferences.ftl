@@ -355,3 +355,60 @@ containers-preferences-button =
     .label = ترجیحات
 containers-remove-button =
     .label = حذف
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = استثناها…
+    .accesskey = ث
+forms-master-pw-use =
+    .label = استفاده از گذرواژهٔ اصلی
+    .accesskey = ا
+forms-master-pw-change =
+    .label = تنظیم گذرواژهٔ اصلی…
+    .accesskey = ص
+
+## Privacy Section - History
+
+history-remember-search-option =
+    .label = اطلاعاتی که در فرم‌های صفحات وب و نوار جست‌وجو وارد می‌شوند به خاطر سپرده شود
+    .accesskey = ط
+history-clear-on-close-option =
+    .label = تاریخچه همیشه هنگام بستن { -brand-short-name } پاک شود
+    .accesskey = ه
+history-clear-on-close-settings =
+    .label = تنظیمات
+    .accesskey = ت
+
+## Privacy Section - Site Data
+
+sitedata-cookies-exceptions =
+    .label = استثناها…
+    .accesskey = ت
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-addon-exceptions =
+    .label = استثناها…
+    .accesskey = ت
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
