@@ -536,6 +536,10 @@ collection-health-report-link = Barrachd fiosrachaidh
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Tha aithriseadh dàta à comas airson rèiteachadh a’ bhuild seo
+collection-browser-errors =
+    .label = Leig le { -brand-short-name } aithisgean air mearachdan brabhsair (a’ gabhail a-staigh teachdaireachdan mhearachdan) a chur a-null gu { -vendor-short-name }
+    .accesskey = b
+collection-browser-errors-link = Barrachd fiosrachaidh
 collection-backlogged-crash-reports =
     .label = Leig le { -brand-short-name } aithisgean tuislidh a chàirn roimhe as do leth
     .accesskey = c
