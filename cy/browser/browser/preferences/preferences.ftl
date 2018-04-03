@@ -395,6 +395,9 @@ containers-remove-button =
 forms-exceptions =
     .label = Eithriadau…
     .accesskey = i
+forms-saved-logins =
+    .label = Mewngofnodion wedi eu Cadw…
+    .accesskey = M
 forms-master-pw-use =
     .label = Defnyddio prif gyfrinair
     .accesskey = D
@@ -404,7 +407,11 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-header = Hanes
 history-dontremember-description = Bydd { -brand-short-name } yn defnyddio'r un gosodiadau â phori preifat, ond ni fydd yn cofio unrhyw hanes wrth i chi bori'r We.
+history-private-browsing-permanent =
+    .label = Defnyddio'r modd pori preifat bob tro
+    .accesskey = p
 history-remember-option =
     .label = Cofio fy hanes pori a hanes llwytho i lawr
     .accesskey = o
@@ -430,9 +437,27 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-bookmarks-option =
+    .label = Nodau Tudalen
+    .accesskey = N
+addressbar-locbar-openpage-option =
+    .label = Tabiau ar agor
+    .accesskey = T
 
 ## Privacy Section - Tracking
 
+tracking-mode-always =
+    .label = Bob tro
+    .accesskey = B
+tracking-mode-private =
+    .label = Dim ond mewn ffenestri preifat
+    .accesskey = D
+tracking-mode-never =
+    .label = Byth
+    .accesskey = y
+tracking-exceptions =
+    .label = Eithriadau…
+    .accesskey = E
 
 ## Privacy Section - Permissions
 
@@ -451,7 +476,22 @@ permissions-addon-exceptions =
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-enable-safe-browsing =
+    .label = Rhwystro cynnwys peryglus a thwyllodrus
+    .accesskey = R
+security-block-downloads =
+    .label = Rhwystro llwytho i lawr peryglus
+    .accesskey = p
+security-block-uncommon-software =
+    .label = Rhybuddio fi am feddalwedd diofyn ac anghyffredin
+    .accesskey = a
 
 ## Privacy Section - Certificates
 
 certs-header = Tystysgrifau
+certs-select-auto-option =
+    .label = Dewis un yn awtomatig
+    .accesskey = T
+certs-enable-ocsp =
+    .label = Ymholi â gweinyddion atebwr OCSP i gadarnhau dilysrwydd cyfredol y tystysgrifau
+    .accesskey = Y
