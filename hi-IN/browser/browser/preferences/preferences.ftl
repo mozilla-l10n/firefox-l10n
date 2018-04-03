@@ -461,6 +461,9 @@ tracking-exceptions =
 ## Privacy Section - Permissions
 
 permissions-notification = अधिसूचना
+permissions-block-popups =
+    .label = पॉपअप विंडो को अवरोधित करें
+    .accesskey = B
 permissions-block-popups-exceptions =
     .label = अपवाद...
     .accesskey = E
