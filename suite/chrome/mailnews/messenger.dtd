@@ -91,6 +91,8 @@
 <!ENTITY nextUnreadThread.key "t">
 
 <!-- Message Menu -->
+<!ENTITY openFeedWebPageInWindow.label "Nettside i nytt vindauge">
+<!ENTITY openFeedSummaryInWindow.label "Oppsummering i nytt vindauge">
 
 <!-- Tools Menu -->
 <!ENTITY importCmd.label "Importer…">
@@ -135,6 +137,7 @@
 <!-- Statusbar -->
 
 <!-- Thread Pane Context Menu -->
+<!ENTITY contextOpenNewWindow.label "Opne melding i nytt vindauge">
 <!ENTITY contextArchive.label "Arkiver">
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextMoveMsgMenu.label "Flytt til">
