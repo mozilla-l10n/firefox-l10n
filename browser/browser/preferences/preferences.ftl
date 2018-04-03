@@ -308,6 +308,7 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = ವೀಕ್ಷಕದ ಗೌಪ್ಯತೆ
 
 ## Privacy Section - Forms
 
@@ -348,6 +349,10 @@ history-clear-on-close-settings =
 ## Privacy Section - Site Data
 
 sitedata-learn-more = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
+sitedata-keep-until = ಈವರೆಗೆ ಇರಿಸಿಕೋ
+    .accesskey = u
+sitedata-accept-third-party-always-option =
+    .label = ಯಾವಾಗಲೂ
 sitedata-accept-third-party-visited-option =
     .label = ಭೇಟಿ ಮಾಡಿದವುಗಳಿಂದ
 sitedata-accept-third-party-never-option =
@@ -358,15 +363,22 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-header = ವಿಳಾಸ ಪಟ್ಟಿ
+addressbar-suggest = ವಿಳಾಸ ಪಟ್ಟಿಯನ್ನು ಬಳಸುವಾಗ, ಇದನ್ನು ಸಲಹೆ ಮಾಡು
+addressbar-locbar-history-option =
+    .label = ವೀಕ್ಷಣೆಯ ಇತಿಹಾಸ
+    .accesskey = H
 addressbar-locbar-bookmarks-option =
     .label = Bookmarks
     .accesskey = k
 addressbar-locbar-openpage-option =
     .label = Open ಹಾಳೆಗಳು
     .accesskey = O
+addressbar-suggestions-settings = ಹುಡುಕು ಯಂತ್ರಗಳ ಸಲಹೆಗಳ ಇಚ್ಛೆಗಳನ್ನು ಬದಲಾಯಿಸಿ
 
 ## Privacy Section - Tracking
 
+tracking-header = ಜಾಡು ಇರಿಸುವಿಕೆ ಇಂದ ರಕ್ಷಣೆ
 tracking-mode-always =
     .label = ಯಾವಾಗಲೂ
     .accesskey = y
@@ -379,9 +391,13 @@ tracking-mode-never =
 tracking-exceptions =
     .label = ವಿನಾಯಿತಿಗಳು...
     .accesskey = x
+tracking-change-block-list =
+    .label = ನಿರ್ಬಂಧಿತ ಪಟ್ಟಿಯನ್ನು ಬದಲಿಸು…
+    .accesskey = C
 
 ## Privacy Section - Permissions
 
+permissions-header = ಅನುಮತಿಗಳು
 permissions-location = ಸ್ಥಳ
 permissions-location-settings =
     .label = ಸಿದ್ಧತೆಗಳು…
@@ -412,6 +428,7 @@ permissions-a11y-privacy-link = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರ�
 
 ## Privacy Section - Data Collection
 
+collection-header = { -brand-short-name } ದತ್ತಾಂಶ ಸಂಗ್ರಹಣೆ ಮತ್ತು ಬಳಕೆ
 collection-privacy-notice = ಗೌಪ್ಯತಾ ಸೂಚನೆ
 collection-health-report-link = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
 collection-backlogged-crash-reports-link = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
@@ -421,6 +438,7 @@ collection-backlogged-crash-reports-link = ಇನ್ನಷ್ಟು ತಿಳಿ
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = ಸುರಕ್ಷತೆ
 security-enable-safe-browsing =
     .label = ಅಪಾಯಕಾರಿ ಮತ್ತು ವಂಚಕ ವಿಷಯಗಳನ್ನು ನಿರ್ಬಂಧಿಸಿ
     .accesskey = B
