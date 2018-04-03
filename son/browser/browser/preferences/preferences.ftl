@@ -265,3 +265,70 @@ containers-add-button =
     .accesskey = o
 containers-remove-button =
     .label = Kaa
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = Hasarawey…
+    .accesskey = s
+forms-master-pw-use =
+    .label = Takaddaɲaa šennikufal goyandi
+    .accesskey = g
+forms-master-pw-change =
+    .label = Takaddaɲaa šennikufal barmay
+    .accesskey = T
+
+## Privacy Section - History
+
+history-dontremember-description = { -brand-short-name } ga goy nda kayandiyan follokey kaŋ goo nda sutura ceeciyan, amma a ši taariku gaabu war tataaru ceeciroo waate.
+history-private-browsing-permanent =
+    .label = Wa goy sutura naarumi alhaali ra waati kul
+    .accesskey = s
+history-remember-option =
+    .label = Ay naaruyan nda zumandiyan taarikoo gaabu
+    .accesskey = b
+history-remember-search-option =
+    .label = Honga ceeci nda takari taariku
+    .accesskey = t
+history-clear-on-close-option =
+    .label = Taariku koonandi waati kaŋ { -brand-short-name } ga daaba
+    .accesskey = k
+history-clear-on-close-settings =
+    .label = Kayandiyaney…
+    .accesskey = n
+
+## Privacy Section - Site Data
+
+sitedata-cookies-exceptions =
+    .label = Hasarawey…
+    .accesskey = H
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-block-popups =
+    .label = Biiboŋ bata zanfuney daabu
+    .accesskey = B
+permissions-addon-exceptions =
+    .label = Hasarawey…
+    .accesskey = H
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
