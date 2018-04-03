@@ -504,6 +504,7 @@ tracking-change-block-list =
 
 ## Privacy Section - Permissions
 
+permissions-header = Oprávnění
 permissions-location = Poloha
 permissions-location-settings =
     .label = Nastavení…
@@ -593,6 +594,9 @@ certs-select-ask-option =
 certs-enable-ocsp =
     .label = Aktuální platnost certifikátů ověřovat na serverech OCSP
     .accesskey = o
+certs-view =
+    .label = Zobrazit certifikáty…
+    .accesskey = C
 certs-devices =
     .label = Bezpečnostní zařízení…
     .accesskey = B
