@@ -395,9 +395,18 @@ forms-header = Formuláře a hesla
 forms-remember-logins =
     .label = Pamatovat si přihlašovací údaje
     .accesskey = P
+forms-exceptions =
+    .label = Výjimky…
+    .accesskey = k
 forms-saved-logins =
     .label = Uložené přihlašovací údaje…
     .accesskey = l
+forms-master-pw-use =
+    .label = Použít hlavní heslo
+    .accesskey = u
+forms-master-pw-change =
+    .label = Změnit hlavní heslo…
+    .accesskey = m
 
 ## Privacy Section - History
 
@@ -524,6 +533,9 @@ permissions-block-popups-exceptions =
 permissions-addon-install-warning =
     .label = Vždy upozornit při pokusu o instalaci doplňku
     .accesskey = u
+permissions-addon-exceptions =
+    .label = Výjimky…
+    .accesskey = k
 permissions-a11y-privacy-checkbox =
     .label = Zabránit službám pro přístupnost v přístupu k vašemu prohlížeči
     .accesskey = a
