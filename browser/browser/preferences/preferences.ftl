@@ -348,3 +348,51 @@ containers-preferences-button =
     .label = Tùy chỉnh
 containers-remove-button =
     .label = Loại bỏ
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = Ngoại trừ…
+    .accesskey = r
+forms-master-pw-use =
+    .label = Dùng một mật khẩu chính
+    .accesskey = D
+forms-master-pw-change =
+    .label = Thay đổi Mật khẩu Chính…
+    .accesskey = M
+
+## Privacy Section - History
+
+
+## Privacy Section - Site Data
+
+sitedata-cookies-exceptions =
+    .label = Ngoại trừ…
+    .accesskey = N
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-addon-exceptions =
+    .label = Ngoại trừ…
+    .accesskey = N
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
