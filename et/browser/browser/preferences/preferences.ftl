@@ -388,6 +388,18 @@ forms-header = Vormid ja paroolid
 forms-remember-logins =
     .label = Saitide kasutajanimed ja paroolid peetakse meeles
     .accesskey = u
+forms-exceptions =
+    .label = Erandid…
+    .accesskey = r
+forms-saved-logins =
+    .label = Salvestatud kasutajakontod…
+    .accesskey = l
+forms-master-pw-use =
+    .label = Kasutatakse ülemparooli
+    .accesskey = m
+forms-master-pw-change =
+    .label = Muuda ülemparooli…
+    .accesskey = p
 
 ## Privacy Section - History
 
@@ -506,12 +518,18 @@ permissions-notification-link = Rohkem teavet
 permissions-notification-pause =
     .label = Pane teavitused { -brand-short-name }i taaskäivitumiseni pausile
     .accesskey = P
+permissions-block-popups =
+    .label = Hüpikaknad blokitakse
+    .accesskey = H
 permissions-block-popups-exceptions =
     .label = Erandid…
     .accesskey = E
 permissions-addon-install-warning =
     .label = Hoiatus, kui veebilehed üritavad paigaldada lisasid
     .accesskey = H
+permissions-addon-exceptions =
+    .label = Erandid…
+    .accesskey = E
 permissions-a11y-privacy-checkbox =
     .label = Hõlpsusteenustel ei lubata sinu brauserile ligi pääsda
     .accesskey = H
@@ -525,6 +543,7 @@ collection-privacy-notice = Privaatsusreeglid
 collection-health-report =
     .label = { -brand-short-name }il lubatakse automaatselt saata tehnilisi andmeid { -vendor-short-name }le
     .accesskey = u
+collection-health-report-link = Rohkem teavet
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Selle kompileerimise konfiguratsiooniga on andmete raporteerimine keelatud
@@ -544,13 +563,20 @@ collection-backlogged-crash-reports-link = Rohkem teavet
 
 security-header = Turvalisus
 security-browsing-protection = Petliku sisu ja ohtliku tarkvara vastane kaitse
+security-enable-safe-browsing =
+    .label = Ohtlik ja petlik sisu blokitakse
+    .accesskey = O
 security-enable-safe-browsing-link = Rohkem teavet
+security-block-downloads =
+    .label = Ohtlikud allalaadimised blokitakse
+    .accesskey = a
 security-block-uncommon-software =
     .label = Hoiatatakse soovimatu või ebahariliku tarkvara eest
     .accesskey = k
 
 ## Privacy Section - Certificates
 
+certs-header = Sertifikaadid
 certs-personal-label = Kui server nõuab kasutaja isiklikku sertifikaati, siis
 certs-select-auto-option =
     .label = valitakse üks automaatselt
@@ -558,6 +584,9 @@ certs-select-auto-option =
 certs-select-ask-option =
     .label = küsitakse iga kord
     .accesskey = k
+certs-enable-ocsp =
+    .label = Sertifikaatide valideeruvust kontrollitakse OCSP abil
+    .accesskey = e
 certs-view =
     .label = Kuva sertifikaate…
     .accesskey = K
