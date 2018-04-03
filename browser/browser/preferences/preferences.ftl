@@ -490,6 +490,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Сертыфікаты
+certs-personal-label = Калі сервер запытвае ваш асабісты сертыфікат
 certs-select-auto-option =
     .label = Выбіраць аўтаматычна
     .accesskey = Ы
