@@ -381,6 +381,10 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-visited-option =
+    .label = സന്ദര്‍ശനം മുതല്‍
+sitedata-accept-third-party-never-option =
+    .label = ഒരിക്കലും ഇല്ല
 sitedata-cookies-exceptions =
     .label = വിട്ടുവീഴ്ചകള്‍
     .accesskey = E
