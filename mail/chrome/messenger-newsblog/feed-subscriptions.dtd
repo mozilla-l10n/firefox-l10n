@@ -4,15 +4,14 @@
 
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "RSS-abonnement">
-<!ENTITY learnMore.label             "Les meir om RSS-kanalar">
+<!ENTITY learnMore.label             "Les meir om RSS-kjelder">
 
 <!ENTITY feedTitle.label             "Tittel:">
 <!ENTITY feedTitle.accesskey         "T">
 
-<!ENTITY feedLocation.label          "Kanal-URL:">
+<!ENTITY feedLocation.label          "Kjelde-URL:">
 <!ENTITY feedLocation.accesskey      "K">
-<!ENTITY feedLocation.placeholder    "Skriv inn ein gyldig nyhendeskjelde-url å leggja til">
-<!ENTITY feedLocation2.placeholder   "Skriv inn ei gyldig kanaladresse">
+<!ENTITY feedLocation2.placeholder   "Skriv inn ein gyldig kjelde-url">
 <!ENTITY locationValidate.label      "Valider">
 <!ENTITY validateText.label          "Kontroller validering og hent gyldig url.">
 
@@ -31,7 +30,7 @@
 <!ENTITY quickMode.label             "Vis artikkeloppsummering i staden for å lasta nettsida">
 <!ENTITY quickMode.accesskey         "V">
 
-<!ENTITY autotagEnable.label         "Lag automatiskt etikettar frå &lt;kategori&gt; kanalnamn">
+<!ENTITY autotagEnable.label         "Lag automatiskt etikettar frå &lt;kategori&gt; kjeldenamn">
 <!ENTITY autotagEnable.accesskey     "A">
 <!ENTITY autotagUsePrefix.label      "Prefiks på taggar:">
 <!ENTITY autotagUsePrefix.accesskey  "P">
@@ -50,7 +49,7 @@
 <!ENTITY button.importOPML.accesskey "I">
 <!ENTITY button.exportOPML.label     "Eksporter">
 <!ENTITY button.exportOPML.accesskey "E">
-<!ENTITY button.exportOPML.tooltip   "Eksporter kanalar med mappestruktur; ctrl+klikk eller ctrl+enter for å eksportere kanalar som ei liste">
+<!ENTITY button.exportOPML.tooltip   "Eksporter kjelder med mappestruktur; ctrl+klikk eller ctrl+enter for å eksportere kjelder som ei liste">
 
 <!ENTITY cmd.close.commandKey        "w">
 <!ENTITY button.close.label          "Lukk">

@@ -10,7 +10,7 @@
 
 <!ENTITY email.label "E-post">
 <!ENTITY newsgroups.label "Nyheitsgrupper">
-<!ENTITY feeds.label "RSS-kanalar">
+<!ENTITY feeds.label "RSS-kjelder">
 
 <!ENTITY unsetDefault.tooltip "Det er ikkje muleg å fjerne &brandShortName; som standardklient i sjølve &brandShortName;. For å velje eit anna program som standard må du bruke dette programmet sin 'Vel som standard'-dialog.">
 

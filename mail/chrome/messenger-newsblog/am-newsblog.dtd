@@ -4,13 +4,13 @@
 
 <!ENTITY loginAtStartup.label          "Sjå etter nye artiklar ved oppstart">
 <!ENTITY loginAtStartup.accesskey      "n">
-<!ENTITY biffAll.label                 "Slå på oppdateringar for alle RSS-kanalar">
+<!ENTITY biffAll.label                 "Slå på oppdateringar for alle RSS-kjelder">
 <!ENTITY biffAll.accesskey             "S">
 
-<!ENTITY newFeedSettings.label         "Standardinnstillingar for nye RSS-kanalar">
+<!ENTITY newFeedSettings.label         "Standardinnstillingar for nye RSS-kjelder">
 
 <!ENTITY manageSubscriptions.label     "Behandle abonnement…">
 <!ENTITY manageSubscriptions.accesskey "B">
 
-<!ENTITY feedWindowTitle.label         "RSS-kanalguide">
-<!ENTITY feeds.accountName             "Bloggar og nyheitskanalar">
+<!ENTITY feedWindowTitle.label         "RSS-kjeldeguide">
+<!ENTITY feeds.accountName             "Bloggar og nyheitskjelder">

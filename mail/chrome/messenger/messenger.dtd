@@ -249,7 +249,7 @@
 <!ENTITY bodyAllParts.label "Alle body-delar">
 <!ENTITY bodyAllParts.accesskey "A">
 
-<!ENTITY bodyMenuFeed.label "Kanalmeldingskropp som">
+<!ENTITY bodyMenuFeed.label "Vis RSS-kjeldemeldingskropp som">
 <!ENTITY bodyMenuFeed.accesskey "K">
 <!ENTITY viewFeedWebPage.label "Nettside">
 <!ENTITY viewFeedWebPage.accesskey "N">
