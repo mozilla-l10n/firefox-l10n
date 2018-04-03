@@ -414,3 +414,6 @@ certs-select-auto-option =
 certs-select-ask-option =
     .label = Iyakubuza ngawo onke amaxesha
     .accesskey = A
+certs-enable-ocsp =
+    .label = Buza iiseva zomphenduli ze-OCSP ukuqinisekisa ukugqibelela kwangoku kwezatifikethi
+    .accesskey = B
