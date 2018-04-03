@@ -300,9 +300,19 @@ containers-remove-button =
 forms-exceptions =
     .label = Esceiciones…
     .accesskey = s
+forms-master-pw-use =
+    .label = Usar una contraseña maestra
+    .accesskey = U
+forms-master-pw-change =
+    .label = Camudar contraseña maestra…
+    .accesskey = m
 
 ## Privacy Section - History
 
+history-header = Historial
+history-clear-on-close-option =
+    .label = Llimpiar l'historial cuando { -brand-short-name } se zarre
+    .accesskey = r
 
 ## Privacy Section - Site Data
 
