@@ -391,15 +391,26 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = خصوصية المتصفح
 
 ## Privacy Section - Forms
 
+forms-header = النماذج و كلمات السر
+forms-remember-logins =
+    .label = تذكر كلمات سر و بيانات ولوج مواقع الوِب
+    .accesskey = ت
 forms-exceptions =
     .label = الاستثناءات…
     .accesskey = س
+forms-saved-logins =
+    .label = جلسات الولوج المحفوظة…
+    .accesskey = ح
 forms-master-pw-use =
     .label = استخدم كلمة سر رئيسيّة
     .accesskey = خ
+forms-master-pw-change =
+    .label = غيّر كلمة السر الرئيسيّة…
+    .accesskey = ر
 
 ## Privacy Section - History
 
@@ -409,6 +420,9 @@ history-dontremember-description = سيستخدم { -brand-short-name } نفس �
 history-private-browsing-permanent =
     .label = استخدم نمط التصفح الخاص دائمًا
     .accesskey = د
+history-remember-option =
+    .label = تذكر تأريخ تصفحي و تنزيلاتي
+    .accesskey = ص
 history-remember-search-option =
     .label = تذكّر تأريخ النماذج والبحث
     .accesskey = ث
@@ -421,9 +435,14 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = اطّلع على المزيد
 sitedata-accept-cookies-option =
     .label = اقبل الكعكات و بيانات المواقع من المواقع (مستحسن)
     .accesskey = ق
+sitedata-keep-until = احتفظ بها حتى
+    .accesskey = ظ
+sitedata-accept-third-party-always-option =
+    .label = دائمًا
 sitedata-accept-third-party-visited-option =
     .label = من المواقع المُزارة
 sitedata-accept-third-party-never-option =
@@ -434,14 +453,57 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-header = شريط العناوين
+addressbar-suggest = عند استخدام شريط العناوين، اقترح
+addressbar-locbar-history-option =
+    .label = تأريخ التصفح
+    .accesskey = ص
+addressbar-locbar-bookmarks-option =
+    .label = العلامات
+    .accesskey = ع
+addressbar-locbar-openpage-option =
+    .label = الألسنة المفتوحة
+    .accesskey = ف
+addressbar-suggestions-settings = غيّر تفضيلات اقتراحات محرّك البحث
 
 ## Privacy Section - Tracking
 
+tracking-header = الحماية من التعقّب
 tracking-description = تحجب الحماية من التعقب متعقبات الإنترنت التي تجمع بيانات التصفح عبر أكثر من موقع. <a>تعرّف أكثر على الحماية من التعقب و خصوصيتك</a>
 tracking-mode-label = استخدم الحماية من التعقب لحظر المتعقبات المعروفة
+tracking-mode-always =
+    .label = دائمًا
+    .accesskey = د
+tracking-mode-private =
+    .label = في النوافذ الخاصة فقط
+    .accesskey = ق
+tracking-mode-never =
+    .label = أبدًا
+    .accesskey = ب
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = استخدم الحماية من التعقب في التصفح الخاص لحظر المتعقبات المعروفة
+    .accesskey = ص
+tracking-exceptions =
+    .label = الاستثناءات…
+    .accesskey = س
+tracking-change-block-list =
+    .label = غيّر قائمة الحجب…
+    .accesskey = غ
 
 ## Privacy Section - Permissions
 
+permissions-header = الصلاحيات
+permissions-notification = التنبيهات
+permissions-block-popups =
+    .label = احجب النوافذ المنبثقة
+    .accesskey = ذ
+permissions-block-popups-exceptions =
+    .label = الاستثناءات…
+    .accesskey = ت
+permissions-addon-install-warning =
+    .label = حذّرني عندما يحاول موقع وِب تنصيب إضافات
+    .accesskey = ح
 permissions-addon-exceptions =
     .label = الاستثناءات…
     .accesskey = ث
@@ -452,16 +514,49 @@ permissions-a11y-privacy-link = اطّلع على المزيد
 
 ## Privacy Section - Data Collection
 
+collection-header = جمع { -brand-short-name } للبيانات و استخدامها
+collection-description = نبذل جهدنا لإعطائك الخيار و جمع ما نحتاجه فقط لتحسين { -brand-short-name }. نطلب الإذن دائمًا قبل استقبال أي معلومات شخصية.
+collection-privacy-notice = تنويه الخصوصية
 collection-health-report-link = اطّلع على المزيد
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = الإبلاغ عن البيانات معطّل في إعدادات البناء
+collection-backlogged-crash-reports-link = اطّلع على المزيد
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = الأمان
 security-browsing-protection = الحماية من المحتوى المخادع و البرمجيات الخبيثة
+security-enable-safe-browsing =
+    .label = احجب المحتوي الخطير و المخادع
+    .accesskey = ح
 security-enable-safe-browsing-link = اطّلع على المزيد
+security-block-downloads =
+    .label = احجب التنزيلات الخطيرة
+    .accesskey = ت
+security-block-uncommon-software =
+    .label = حذرني من البرمجيات غير المرغوب فيها و غير الشائعة
+    .accesskey = غ
 
 ## Privacy Section - Certificates
 
 certs-header = الشّهادات
+certs-personal-label = عندما يطلب خادوم شهادتي الشخصيّة
+certs-select-auto-option =
+    .label = حدد واحدة آليّا
+    .accesskey = ح
+certs-select-ask-option =
+    .label = اسألني كلّ مرّة
+    .accesskey = س
+certs-enable-ocsp =
+    .label = استعلم من خواديم مستجيبي OCSP عن الصلاحية الحالية للشهادات
+    .accesskey = س
+certs-view =
+    .label = اعرض الشهادات…
+    .accesskey = ش
+certs-devices =
+    .label = أجهزة الأمن…
+    .accesskey = ج
