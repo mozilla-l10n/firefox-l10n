@@ -384,3 +384,48 @@ containers-preferences-button =
     .label = Nastavenia
 containers-remove-button =
     .label = Odstrániť
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = Výnimky…
+    .accesskey = m
+forms-master-pw-change =
+    .label = Zmeniť hlavné heslo…
+    .accesskey = h
+
+## Privacy Section - History
+
+
+## Privacy Section - Site Data
+
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-block-popups =
+    .label = Blokovať nevyžiadané vyskakovacie okná
+    .accesskey = B
+permissions-addon-exceptions =
+    .label = Výnimky…
+    .accesskey = V
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
