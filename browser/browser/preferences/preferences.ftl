@@ -381,12 +381,20 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = Privacidad del navegador
 
 ## Privacy Section - Forms
 
+forms-header = Formularios y contraseñas
+forms-remember-logins =
+    .label = Recordar nombres de usuario y contraseñas de los sitios web
+    .accesskey = R
 forms-exceptions =
     .label = Excepciones…
     .accesskey = x
+forms-saved-logins =
+    .label = Cuentas guardadas…
+    .accesskey = C
 forms-master-pw-use =
     .label = Usar una contraseña maestra
     .accesskey = s
@@ -408,12 +416,32 @@ forms-master-pw-change =
 
 ## Privacy Section - Permissions
 
+permissions-location = Ubicación
+permissions-location-settings =
+    .label = Configuración…
+    .accesskey = u
+permissions-camera = Cámara
+permissions-camera-settings =
+    .label = Configuración…
+    .accesskey = u
+permissions-microphone = Micrófono
+permissions-microphone-settings =
+    .label = Configuración…
+    .accesskey = u
+permissions-notification = Notificaciones
+permissions-notification-settings =
+    .label = Configuración…
+    .accesskey = u
+permissions-notification-link = Saber más
 permissions-block-popups =
     .label = Bloquear ventanas emergentes
     .accesskey = B
 permissions-block-popups-exceptions =
     .label = Excepciones…
     .accesskey = E
+permissions-addon-install-warning =
+    .label = Advertirle cuando los sitios web intenten instalar complementos
+    .accesskey = A
 permissions-addon-exceptions =
     .label = Excepciones…
     .accesskey = E
@@ -426,6 +454,18 @@ permissions-addon-exceptions =
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Seguridad
+security-browsing-protection = Protección contra contenido engañoso y software peligroso
+security-enable-safe-browsing =
+    .label = Bloquear contenido peligroso y engañoso
+    .accesskey = B
+security-enable-safe-browsing-link = Saber más
+security-block-downloads =
+    .label = Bloquear descargas peligrosas
+    .accesskey = d
+security-block-uncommon-software =
+    .label = Advertirle sobre software no deseado y poco usual
+    .accesskey = v
 
 ## Privacy Section - Certificates
 
