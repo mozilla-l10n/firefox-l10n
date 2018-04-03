@@ -363,6 +363,12 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-dontremember-description = { -brand-short-name } സ്വകാര്യ തിരയലിന്റെ സജ്ജീകരണങ്ങള്‍ ഉപയോഗിക്കും, അതിനാല്‍ നിങ്ങള്‍ വെബ് തിരയുംബോള്‍ ഹിസ്റ്ററി ഓര്‍ക്കുകയില്ല.
+history-private-browsing-permanent =
+    .label = എപ്പോഴും സ്വകാര്യ ബ്രൌസിങ് മോഡ് ഉപയോഗിയ്ക്കുക
+    .accesskey = p
+history-remember-option =
+    .label = ബ്രൌസ് ചെയ്തതും ഡൌണ്‍ലോഡ് ചെയ്തതുമായ നാള്‍വഴി സൂക്ഷിയ്ക്കുക
+    .accesskey = b
 history-remember-search-option =
     .label = തിരയലുകളുടേയും (സര്‍ച്ചുകളുടെ) ഫോര്‍മുകളുടെയും ഹിസ്റ്ററി ഓര്‍ക്കുക
     .accesskey = f
@@ -375,6 +381,9 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-cookies-exceptions =
+    .label = വിട്ടുവീഴ്ചകള്‍
+    .accesskey = E
 
 ## Privacy Section - Address Bar
 
@@ -384,6 +393,9 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Permissions
 
+permissions-block-popups =
+    .label = പോപ്പപ്‌ ജാലകങ്ങള്‍ തടയുക
+    .accesskey = B
 permissions-addon-exceptions =
     .label = ഒഴിവാക്കേണ്ടവ…
     .accesskey = E
