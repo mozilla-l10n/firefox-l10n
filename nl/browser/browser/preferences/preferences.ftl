@@ -442,6 +442,12 @@ sitedata-block-cookies-option =
     .accesskey = b
 sitedata-keep-until = Bewaren totdat
     .accesskey = B
+
+sitedata-keep-until-expire =
+    .label = Ze verlopen
+sitedata-keep-until-closed =
+    .label = { -brand-short-name } wordt afgesloten
+
 sitedata-accept-third-party-desc = Cookies van derden en websitegegevens accepteren
     .accesskey = d
 sitedata-accept-third-party-always-option =
