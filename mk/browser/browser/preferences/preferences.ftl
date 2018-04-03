@@ -214,6 +214,9 @@ containers-remove-button =
 forms-exceptions =
     .label = Исклучоци…
     .accesskey = ч
+forms-saved-logins =
+    .label = Снимени најави …
+    .accesskey = L
 forms-master-pw-use =
     .label = Користи главна лозинка
     .accesskey = о
@@ -224,6 +227,10 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Историја
+history-dontremember-description = { -brand-short-name } ќе ги користи истите поставки како и за приватно прелистување, и нема да ја памти историјата додека прелистувате на интернет.
+history-private-browsing-permanent =
+    .label = Секогаш користи режим за приватно прелистување
+    .accesskey = п
 history-remember-option =
     .label = Запамти ја мојата сурферска историја и преземања
     .accesskey = п
@@ -239,6 +246,12 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-always-option =
+    .label = Секогаш
+sitedata-accept-third-party-visited-option =
+    .label = Од посетени
+sitedata-accept-third-party-never-option =
+    .label = Никогаш
 sitedata-cookies-exceptions =
     .label = Исклучоци…
     .accesskey = И
@@ -260,12 +273,22 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Data Collection
 
+collection-privacy-notice = Белешка за приватност
+collection-health-report-link = Дознај повеќе
+collection-backlogged-crash-reports-link = Дознај повеќе
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-enable-safe-browsing =
+    .label = Блокирај ги опасните и измамнички содржини
+    .accesskey = B
+security-block-downloads =
+    .label = Блокирај ги опасните преземања
+    .accesskey = D
 
 ## Privacy Section - Certificates
 
+certs-header = Сертификати
