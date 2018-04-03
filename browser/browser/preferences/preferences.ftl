@@ -470,6 +470,7 @@ collection-health-report-link = ఇంకా తెలుసుకోండి
 # or builds with no Telemetry support available.
 collection-health-report-disabled = ఈ బిల్డ్ కాన్ఫిగరేషన్ కోసం డేటా రిపోర్టింగ్ నిలిపివేయబడింది
 collection-browser-errors-link = ఇంకా తెలుసుకోండి
+collection-backlogged-crash-reports-link = ఇంకా తెలుసుకోండి
 
 ## Privacy Section - Security
 ##
