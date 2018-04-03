@@ -297,9 +297,13 @@ containers-remove-button =
 
 ## Privacy Section - Forms
 
+forms-header = Shakllar va parollar
 forms-exceptions =
     .label = Istisnolar
     .accesskey = I
+forms-saved-logins =
+    .label = Saqlangan login ma’lumotlari…
+    .accesskey = l
 forms-master-pw-use =
     .label = Parol ustasidan foydalanish
     .accesskey = f
@@ -309,9 +313,27 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-header = Tarix
+history-dontremember-description = { -brand-short-name } xuddi shu moslamalardan shaxsiy ko‘rish sifatida foydalanadi va tarixni saqlab qolmaydi.
+history-private-browsing-permanent =
+    .label = Doimo maxfiy ko‘rish usulidan foydalanish
+    .accesskey = m
+history-remember-option =
+    .label = Kirgan saytlarim va yuklab olish tarixini eslab qolinsin
+    .accesskey = e
+history-remember-search-option =
+    .label = Izlash va tarix shakli eslab qolinsin
+    .accesskey = s
+history-clear-on-close-option =
+    .label = { -brand-short-name } yopilganda tarix tozalansin
+    .accesskey = t
+history-clear-on-close-settings =
+    .label = Sozlamalar…
+    .accesskey = l
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = Batafsil ma’lumot
 sitedata-accept-third-party-visited-option =
     .label = Kirilganlardan
 sitedata-accept-third-party-never-option =
@@ -322,12 +344,34 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-bookmarks-option =
+    .label = Xatcho‘plar
+    .accesskey = X
+addressbar-locbar-openpage-option =
+    .label = Ichki oynalarni ochish
+    .accesskey = o
 
 ## Privacy Section - Tracking
 
+tracking-header = Kuzatuvdan himoyalanish
+tracking-mode-always =
+    .label = Doimo
+    .accesskey = D
+tracking-mode-private =
+    .label = Faqat maxfiy oynalar uchun
+    .accesskey = F
+tracking-mode-never =
+    .label = Hech qachon
+    .accesskey = H
+tracking-exceptions =
+    .label = Istisnolar…
+    .accesskey = I
 
 ## Privacy Section - Permissions
 
+permissions-block-popups =
+    .label = Paydo bo‘luvchi oynalarni bloklash
+    .accesskey = P
 permissions-block-popups-exceptions =
     .label = Istisnolar…
     .accesskey = I
@@ -337,13 +381,38 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Data Collection
 
+collection-health-report-link = Batafsil ma’lumot
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Ma’lumotlar hisoboti moslama uchun o‘chirib qo‘yilgan
+collection-backlogged-crash-reports-link = Batafsil ma’lumot
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Xavfsizlik
+security-enable-safe-browsing =
+    .label = Xavfli va yolg‘on saytlarni bloklash
+    .accesskey = b
+security-block-downloads =
+    .label = Xavfli yuklab olishlarni bloklash
+    .accesskey = X
+security-block-uncommon-software =
+    .label = Keraksiz va ishonchsiz dasturiy ta’minotlar o‘rnatilayotganda ogohlantirilsin
+    .accesskey = c
 
 ## Privacy Section - Certificates
 
 certs-header = Sertifikatlar
+certs-personal-label = Server mening shaxsiy sertifikatimni soʻraganda
+certs-select-auto-option =
+    .label = Avtomatik bittasini tanlash
+    .accesskey = S
+certs-select-ask-option =
+    .label = Har doim so‘ralsin
+    .accesskey = A
+certs-enable-ocsp =
+    .label = so‘rovi OCSP javob berish serverlari sertifikatlarning joriy yaroqliligini tasdiqlash uchun
+    .accesskey = s
