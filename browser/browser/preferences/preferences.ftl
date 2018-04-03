@@ -511,6 +511,9 @@ security-enable-safe-browsing-link = Pelajari lebih lanjut
 security-block-downloads =
     .label = Blokir unduhan berbahaya
     .accesskey = u
+security-block-uncommon-software =
+    .label = Ingatkan mengenai perangkat lunak yang tidak diinginkan dan tidak umum
+    .accesskey = I
 
 ## Privacy Section - Certificates
 
