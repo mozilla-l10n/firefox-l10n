@@ -445,15 +445,39 @@ tracking-change-block-list =
 ## Privacy Section - Permissions
 
 permissions-header = Dopuštenja
+permissions-location = Lokacija
+permissions-location-settings =
+    .label = Postavke…
+    .accesskey = l
+permissions-camera = Kamera
+permissions-camera-settings =
+    .label = Postavke…
+    .accesskey = k
+permissions-microphone = Mikrofon
+permissions-microphone-settings =
+    .label = Postavke…
+    .accesskey = m
+permissions-notification = Obavijesti
+permissions-notification-settings =
+    .label = Postavke…
+    .accesskey = o
+permissions-notification-link = Saznajte više
 permissions-block-popups =
     .label = Blokiraj skočne prozore
     .accesskey = s
+permissions-block-popups-exceptions =
+    .label = Iznimke...
+    .accesskey = e
 permissions-addon-install-warning =
     .label = Upozorava vas kad stranice pokušaju instalirati dodatke
     .accesskey = d
 permissions-addon-exceptions =
     .label = Iznimke...
     .accesskey = e
+permissions-a11y-privacy-checkbox =
+    .label = Spriječite servise pristupačnosti da pristupaju vašem pregledniku
+    .accesskey = a
+permissions-a11y-privacy-link = Saznajte više
 
 ## Privacy Section - Data Collection
 
@@ -472,6 +496,7 @@ collection-backlogged-crash-reports-link = Saznajte više
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Sigurnost
+security-browsing-protection = Zaštita od zavaravajućeg sadržaja i zlonamjernih aplikacija
 security-enable-safe-browsing =
     .label = Blokiraj opasni i zavaravajući sadržaj
     .accesskey = B
