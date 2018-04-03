@@ -384,15 +384,49 @@ containers-remove-button =
 
 ## Privacy Section - Forms
 
+forms-exceptions =
+    .label = Excepciones…
+    .accesskey = x
+forms-saved-logins =
+    .label = Conexiones guardadas…
+    .accesskey = L
+forms-master-pw-use =
+    .label = Usar una contraseña maestra
+    .accesskey = U
 
 ## Privacy Section - History
 
+history-header = Historial
+history-private-browsing-permanent =
+    .label = Siempre usar el modo de navegación privada
+    .accesskey = p
+history-remember-option =
+    .label = Recordar mi historial de navegación y descargas
+    .accesskey = h
+history-remember-search-option =
+    .label = Recordar historial de formularios y búsquedas
+    .accesskey = r
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-always-option =
+    .label = Siempre
+sitedata-accept-third-party-visited-option =
+    .label = De los visitados
+sitedata-accept-third-party-never-option =
+    .label = Nunca
+sitedata-cookies-exceptions =
+    .label = Excepciones…
+    .accesskey = E
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-bookmarks-option =
+    .label = Marcadores
+    .accesskey = k
+addressbar-locbar-openpage-option =
+    .label = Pestañas abiertas
+    .accesskey = O
 
 ## Privacy Section - Tracking
 
@@ -411,6 +445,9 @@ tracking-exceptions =
 
 ## Privacy Section - Permissions
 
+permissions-addon-exceptions =
+    .label = Excepciones…
+    .accesskey = E
 
 ## Privacy Section - Data Collection
 
@@ -425,3 +462,6 @@ collection-health-report-link = Aprender más
 ## Privacy Section - Certificates
 
 certs-header = Certificados
+certs-enable-ocsp =
+    .label = Consultar a los servidores de respuesta OCSP para confirmar la validez actual de los certificados
+    .accesskey = Q
