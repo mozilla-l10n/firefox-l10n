@@ -379,6 +379,9 @@ containers-remove-button =
 
 ## Privacy Section - History
 
+history-remember-option =
+    .label = Ingat semua lawan sesawang yang telah dikunjungi dan segala benda yang telah dimuat turun
+    .accesskey = b
 history-clear-on-close-option =
     .label = Buang sejarah apabila { -brand-short-name } ditutup
     .accesskey = r
