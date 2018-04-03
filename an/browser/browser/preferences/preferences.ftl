@@ -388,6 +388,7 @@ containers-remove-button =
 
 ## Privacy Section - Forms
 
+forms-header = Formularios & Claus
 forms-exceptions =
     .label = Excepcions…
     .accesskey = x
@@ -436,15 +437,36 @@ sitedata-cookies-exceptions =
 addressbar-locbar-bookmarks-option =
     .label = Marcapachinas
     .accesskey = M
+addressbar-locbar-openpage-option =
+    .label = Ubrir as pestanyas
+    .accesskey = O
+addressbar-suggestions-settings = Cam&biar las preferencias de sucherencias en motors de busca…
 
 ## Privacy Section - Tracking
 
+tracking-header = Protección contra Seguimiento
+tracking-mode-always =
+    .label = Siempre
+    .accesskey = S
+tracking-mode-private =
+    .label = Nomás en finestras privadas
+    .accesskey = m
+tracking-mode-never =
+    .label = Nunca
+    .accesskey = N
+tracking-exceptions =
+    .label = Excepcions…
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
+permissions-notification = Notificacions
 permissions-block-popups =
     .label = Blocar finestras emerchents
     .accesskey = B
+permissions-block-popups-exceptions =
+    .label = Excepcions…
+    .accesskey = E
 permissions-addon-exceptions =
     .label = Excepcions…
     .accesskey = E
@@ -457,10 +479,27 @@ permissions-addon-exceptions =
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Seguranza
+security-enable-safe-browsing =
+    .label = Blocar lo conteniu perigloso y malicioso
+    .accesskey = B
+security-block-downloads =
+    .label = Blocar las descargas periglosas
+    .accesskey = d
+security-block-uncommon-software =
+    .label = Alvertir-me sobre software no deseyau u poco común
+    .accesskey = c
 
 ## Privacy Section - Certificates
 
 certs-header = Certificaus
+certs-personal-label = Quan un servidor requiera lo mío certificau personal
+certs-select-auto-option =
+    .label = Trigar-ne un automaticament
+    .accesskey = e
+certs-select-ask-option =
+    .label = Preguntar-me-lo cada vegada
+    .accesskey = m
 certs-enable-ocsp =
     .label = Consultar a os servidors respondedors OCSP ta confirmar a valideza actual d'os certificaus
     .accesskey = u
