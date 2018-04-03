@@ -353,6 +353,9 @@ containers-remove-button =
 
 ## Privacy Section - Forms
 
+forms-remember-logins =
+    .label = Ingat info masuk dan sandi untuk situs web
+    .accesskey = I
 forms-exceptions =
     .label = Pengecualian…
     .accesskey = c
@@ -385,16 +388,26 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Pengaturan…
     .accesskey = P
+history-clear-button =
+    .label = Hapus riwayat…
+    .accesskey = r
 
 ## Privacy Section - Site Data
 
+sitedata-header = Kuki dan Data Situs
 sitedata-learn-more = Pelajari lebih lanjut
+sitedata-block-cookies-option =
+    .label = Blokir kuki dan data situs (bisa menyebabkan situs web macet)
+    .accesskey = B
 sitedata-accept-third-party-always-option =
     .label = Selalu
 sitedata-accept-third-party-visited-option =
     .label = Dari yang Pernah Dikunjungi
 sitedata-accept-third-party-never-option =
     .label = Tidak Pernah
+sitedata-clear =
+    .label = Hapus Data…
+    .accesskey = l
 sitedata-cookies-exceptions =
     .label = Pengecualian…
     .accesskey = e
@@ -402,6 +415,9 @@ sitedata-cookies-exceptions =
 ## Privacy Section - Address Bar
 
 addressbar-suggest = Saat menggunakan bilah alamat, sarankan
+addressbar-locbar-history-option =
+    .label = Riwayat penjelajahan
+    .accesskey = R
 addressbar-locbar-bookmarks-option =
     .label = Markah
     .accesskey = M
@@ -431,29 +447,63 @@ tracking-exceptions =
 
 ## Privacy Section - Permissions
 
+permissions-location = Lokasi
+permissions-location-settings =
+    .label = Setelan…
+    .accesskey = t
+permissions-camera = Kamera
+permissions-camera-settings =
+    .label = Setelan…
+    .accesskey = t
+permissions-microphone = Mikrofon
+permissions-microphone-settings =
+    .label = Setelan…
+    .accesskey = t
+permissions-notification = Notifikasi
+permissions-notification-settings =
+    .label = Setelan…
+    .accesskey = t
+permissions-notification-link = Pelajari lebih lanjut
 permissions-notification-pause =
     .label = Jeda notifikasi hingga { -brand-short-name } dimulai ulang
     .accesskey = J
 permissions-block-popups =
     .label = Blokir jendela pop-up
     .accesskey = B
+permissions-block-popups-exceptions =
+    .label = Pengecualian…
+    .accesskey = e
+permissions-addon-install-warning =
+    .label = Ingatkan ketika situs web mencoba memasang pengaya
+    .accesskey = I
 permissions-addon-exceptions =
     .label = Pengecualian…
     .accesskey = P
+permissions-a11y-privacy-checkbox =
+    .label = Cegah layanan aksesibilitas dari mengakses peramban Anda
+    .accesskey = a
+permissions-a11y-privacy-link = Pelajari lebih lanjut
 
 ## Privacy Section - Data Collection
 
+collection-header = { -brand-short-name } Pengumpulan dan Penggunaan Data
 collection-description = Kami berusaha memberi Anda pilihan dan mengumpulkan hanya apa yang kami butuhkan untuk menyediakan dan meningkatkan { -brand-short-name } bagi semua orang. Kami selalu meminta izin sebelum menerima informasi pribadi.
+collection-privacy-notice = Pemberitahuan Privasi
 collection-health-report-link = Pelajari Lebih Lanjut
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Pelaporan data dinonaktifkan untuk konfigurasi build ini
+collection-backlogged-crash-reports =
+    .label = Izinkan { -brand-short-name } mengirim tumpukan laporan kerusakan atas nama Anda
+    .accesskey = r
+collection-backlogged-crash-reports-link = Pelajari Lebih Lanjut
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-browsing-protection = Perlindungan Konten Penipuan dan Perangkat Lunak Berbahaya
 security-enable-safe-browsing =
     .label = Blokir konten berbahaya dan tidak dapat dipercaya
     .accesskey = B
@@ -465,9 +515,19 @@ security-block-downloads =
 ## Privacy Section - Certificates
 
 certs-header = Sertifikat
+certs-personal-label = Saat peladen meminta sertifikat pribadi Anda
 certs-select-auto-option =
     .label = Pilih satu secara otomatis
     .accesskey = s
 certs-select-ask-option =
     .label = Tanyakan setiap saat
     .accesskey = T
+certs-enable-ocsp =
+    .label = Kueri peladen penjawab OCSP untuk mengonfirmasikan validitas sertifikat
+    .accesskey = v
+certs-view =
+    .label = Tampilkan Sertifikat…
+    .accesskey = S
+certs-devices =
+    .label = Peranti Keamanan…
+    .accesskey = P
