@@ -486,6 +486,9 @@ permissions-a11y-privacy-link = আরও জানুন
 collection-header = { -brand-short-name } তথ্য সংগ্রহ এবং ব্যবহার
 collection-description = সকলের জন্যে আমরা আপনাকে পছন্দগুলি প্রদান এবং শুধুমাত্র আমরা { -brand-short-name } সরবরাহ এবং উন্নত করতে প্রয়োজন কি সংগ্রহ করতে চেষ্টা করি। ব্যক্তিগত তথ্য পাওয়ার আগে আমরা সবসময় অনুমতি চাই।
 collection-privacy-notice = গোপনীয়তা সংক্রান্ত নীতি
+collection-health-report =
+    .label = { -brand-short-name } কে { -vendor-short-name } তে কারিগরী এবং ইন্টার‍্যাক্সান তথ্য পাঠাতে অনুমতি দিন
+    .accesskey = r
 collection-health-report-link = আরও জানুন
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
@@ -506,6 +509,9 @@ security-enable-safe-browsing-link = আরও জানুন
 security-block-downloads =
     .label = বিপজ্জনক ডাউনলোড ব্লক করুন
     .accesskey = d
+security-block-uncommon-software =
+    .label = অবাঞ্ছিত এবং বিরল সফটওয়্যার সম্পর্কে অাপনাকে সাবধান করা হবে
+    .accesskey = C
 
 ## Privacy Section - Certificates
 
