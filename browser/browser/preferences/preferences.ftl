@@ -382,3 +382,85 @@ containers-preferences-button =
     .label = Preferencias
 containers-remove-button =
     .label = Borrar
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = Excepcions…
+    .accesskey = x
+forms-saved-logins =
+    .label = Inicios de sesión alzaus
+    .accesskey = I
+forms-master-pw-use =
+    .label = Usar una clau mayestra
+    .accesskey = s
+forms-master-pw-change =
+    .label = Cambiar a clau mayestra…
+    .accesskey = m
+
+## Privacy Section - History
+
+history-header = Historial
+history-dontremember-description = O { -brand-short-name } ferá servir a mesma configuración que en a navegación privada, y no remerará garra dato d'o suyo historial entre que navega por a Web.
+history-private-browsing-permanent =
+    .label = Emplegar siempre o modo de navegación privada
+    .accesskey = p
+history-remember-option =
+    .label = Remerar o mío historial de navegación y descargas
+    .accesskey = m
+history-remember-search-option =
+    .label = Remerar l'historial de formularios y buscas
+    .accesskey = f
+history-clear-on-close-option =
+    .label = Porgar l'historial quan o { -brand-short-name } se zarre
+    .accesskey = h
+history-clear-on-close-settings =
+    .label = Configuración…
+    .accesskey = g
+
+## Privacy Section - Site Data
+
+sitedata-accept-third-party-visited-option =
+    .label = D'as visitadas
+sitedata-accept-third-party-never-option =
+    .label = Nunca
+sitedata-cookies-exceptions =
+    .label = Excepcions…
+    .accesskey = E
+
+## Privacy Section - Address Bar
+
+addressbar-locbar-bookmarks-option =
+    .label = Marcapachinas
+    .accesskey = M
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-block-popups =
+    .label = Blocar finestras emerchents
+    .accesskey = B
+permissions-addon-exceptions =
+    .label = Excepcions…
+    .accesskey = E
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
+certs-header = Certificaus
+certs-enable-ocsp =
+    .label = Consultar a os servidors respondedors OCSP ta confirmar a valideza actual d'os certificaus
+    .accesskey = u
