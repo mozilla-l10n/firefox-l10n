@@ -481,3 +481,6 @@ security-block-downloads =
 ## Privacy Section - Certificates
 
 certs-header = Certifikat
+certs-enable-ocsp =
+    .label = Fråga OCSP responder-servrar för att bekräfta certifikatens aktuella giltighet
+    .accesskey = F
