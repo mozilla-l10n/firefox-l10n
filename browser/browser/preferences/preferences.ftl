@@ -193,6 +193,9 @@ search-keyword-warning-bookmark = अहाँ एकटाटा बीजश�
 forms-exceptions =
     .label = अपवाद…
     .accesskey = x
+forms-saved-logins =
+    .label = सहेजल लॉगिन…
+    .accesskey = L
 forms-master-pw-use =
     .label = मुख्य गुड़किल्ली क' प्रयोग  करू{ " " }
     .accesskey = U
@@ -202,6 +205,7 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-header = इतिहास
 history-dontremember-description = { -brand-short-name } निज ब्राउजिंगक तरह सेटिंग प्रयोग करताह आओर अहाँक वेब ब्राउज़ करबाक दौरान कोनो इतिहास याद नहि रखताह.
 history-private-browsing-permanent =
     .label = हमेशा निज ब्राउजिंग विधिक उपयोग करू
@@ -231,15 +235,25 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-bookmarks-option =
+    .label = पुस्तकचिह्न
+    .accesskey = k
+addressbar-locbar-openpage-option =
+    .label = टैब खोलू
+    .accesskey = O
 
 ## Privacy Section - Tracking
 
 
 ## Privacy Section - Permissions
 
+permissions-notification = सूचना
 permissions-block-popups =
     .label = पापअप विंडो केँ रोकू
     .accesskey = B
+permissions-block-popups-exceptions =
+    .label = अपवाद...
+    .accesskey = E
 permissions-addon-exceptions =
     .label = अपवाद…
     .accesskey = E
@@ -256,3 +270,6 @@ permissions-addon-exceptions =
 ## Privacy Section - Certificates
 
 certs-header = प्रमाणपत्र
+certs-enable-ocsp =
+    .label = OCSP रेस्पांडर सर्वर कए प्रश्न करू जाहि स प्रमाणपत्रक मोजुदा वैधताक पुष्टि भए सकय (Q)
+    .accesskey = Q
