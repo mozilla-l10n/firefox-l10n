@@ -535,6 +535,9 @@ security-enable-safe-browsing-link = Ətraflı öyrən
 security-block-downloads =
     .label = Təhlükəli endirmələri blokla
     .accesskey = d
+security-block-uncommon-software =
+    .label = İstənməyən və ümumi olmayan proqramlar haqqında xəbərdar olun
+    .accesskey = C
 
 ## Privacy Section - Certificates
 
