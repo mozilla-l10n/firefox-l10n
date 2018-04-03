@@ -44,8 +44,14 @@
 <!ENTITY  acceptThirdParty2.pre.label     "Þiggja smákökur frá þriðja aðila">
 <!ENTITY  acceptThirdParty2.pre.accesskey "Þ">
 
+<!ENTITY  acceptCookies4.label          "Taka á móti smákökum og gögnum frá vefsvæðum (mælt með)">
+<!ENTITY  acceptCookies4.accesskey      "A">
 
+<!ENTITY  blockCookies.label            "Loka á smákökur og gögn (gæti haft áhrif virkni á vefsvæða)">
+<!ENTITY  blockCookies.accesskey        "ö">
 
+<!ENTITY  acceptThirdParty3.pre.label     "Taka á móti smákökum frá þriðja aðila og gögnum">
+<!ENTITY  acceptThirdParty3.pre.accesskey "ð">
 <!ENTITY  acceptThirdParty.always.label   "Alltaf">
 <!ENTITY  acceptThirdParty.never.label    "Aldrei">
 <!ENTITY  acceptThirdParty.visited.label  "Frá heimsóttum síðum">
@@ -80,6 +86,7 @@
 <!ENTITY  rememberActions.removeCookies.label "eytt ákveðnum smákökum">
 <!ENTITY  rememberActions.post.label          ".">
 
+<!ENTITY  rememberDescription1.label      "&brandShortName; mun muna feril, niðurhöl, form innslátt og leitarsögu.">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; mun nota sömu stillingar og í huliðsstillingu, og geyma ekki vafraferil.">
 
