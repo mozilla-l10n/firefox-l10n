@@ -401,6 +401,9 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-dontremember-description = { -brand-short-name } बतौर निजी ब्राउज़िंग की तरह समान सेटिंग का उपयोग करेगा, और कोई इतिहास याद नहीं रखेगा जब आप वेब ब्राउज़ करते हैं.
+history-private-browsing-permanent =
+    .label = हमेशा निजी ब्राउजिंग विधि का उपयोग करें
+    .accesskey = p
 
 ## Privacy Section - Site Data
 
