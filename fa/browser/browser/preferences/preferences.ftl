@@ -358,12 +358,20 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = حریم خصوصی مرورگر
 
 ## Privacy Section - Forms
 
+forms-header = فرم‌ها و گذرواژه‌ها
+forms-remember-logins =
+    .label = ورودها و گذرواژه‌ها را برای‌ این پایگاه‌ اینترنتی به خاطر بسپار
+    .accesskey = و
 forms-exceptions =
     .label = استثناها…
     .accesskey = ث
+forms-saved-logins =
+    .label = ورودهای ذخیره شده
+    .accesskey = و
 forms-master-pw-use =
     .label = استفاده از گذرواژهٔ اصلی
     .accesskey = ا
@@ -373,6 +381,14 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-header = تاریخچه
+history-dontremember-description = { -brand-short-name } تنظیمات حالت مرور ناشناس را استفاده خواهد کرد، و هیچ تاریخچه‌ای از مرور شما در وب نگه نخواهد داشت.
+history-private-browsing-permanent =
+    .label = همیشه از حالت  مرور خصوصی استفاده کن
+    .accesskey = م
+history-remember-option =
+    .label = مرور و بارگذاری های مرا به خاطر بسپار
+    .accesskey = خ
 history-remember-search-option =
     .label = اطلاعاتی که در فرم‌های صفحات وب و نوار جست‌وجو وارد می‌شوند به خاطر سپرده شود
     .accesskey = ط
@@ -385,6 +401,11 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = بیشتر بدانید
+sitedata-keep-until = نگهداری شوند تا
+    .accesskey = ن
+sitedata-accept-third-party-always-option =
+    .label = همیشه
 sitedata-accept-third-party-visited-option =
     .label = از بازدید
 sitedata-accept-third-party-never-option =
@@ -395,24 +416,105 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-header = نوار نشانی
+addressbar-suggest = هنگام استفاده از نوار مکان، پیشنهاد بده
+addressbar-locbar-history-option =
+    .label = تاریخچه‌ی مرورگر
+    .accesskey = م
+addressbar-locbar-bookmarks-option =
+    .label = نشانک‌ها
+    .accesskey = ن
+addressbar-locbar-openpage-option =
+    .label = زبانه‌های باز
+    .accesskey = ز
+addressbar-suggestions-settings = تغییر ترجیحات مربوط به پیشنهادهای موتورهای جست‌وجو
 
 ## Privacy Section - Tracking
 
+tracking-header = محافظت در برابر ردگیری
+tracking-mode-always =
+    .label = همیشه
+    .accesskey = م
+tracking-mode-private =
+    .label = تنها در پنجره‌های ناشناس
+    .accesskey = ت
+tracking-mode-never =
+    .label = هرگز
+    .accesskey = ه
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = استفاده از محافظ دنبال کننده در مرورگر خصوصی جهت مسدود کردن دنبال کننده های ناشناس
+    .accesskey = خ
+tracking-exceptions =
+    .label = استثناها…
+    .accesskey = ت
+tracking-change-block-list =
+    .label = تغییر فهرست مسدودی‌ها…{ " " }
+    .accesskey = ت
 
 ## Privacy Section - Permissions
 
+permissions-header = مجوزها
+permissions-location = مکان
+permissions-camera = دوربین
+permissions-microphone = میکروفن
+permissions-notification = اعلان‌ها
+permissions-notification-link = بیشتر بدانید
+permissions-block-popups =
+    .label = مسدود کردن پنجره‌های بازشو
+    .accesskey = م
+permissions-block-popups-exceptions =
+    .label = استثناها…
+    .accesskey = ا
+permissions-addon-install-warning =
+    .label = درهنگام تلاش پایگاه اینترنتی برای نصب افزودنی، به من هشدار داده شود{ " " }
+    .accesskey = د
 permissions-addon-exceptions =
     .label = استثناها…
     .accesskey = ت
 
 ## Privacy Section - Data Collection
 
+collection-header = ذخیره اطلاعات و استفاده { -brand-short-name }
+collection-privacy-notice = نکات حفظ حریم خصوصی
+collection-health-report-link = بیشتر بدانید
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = گزارش کردن داده‌ها برای این پیکربندی ساخته شده غیرفعال شده است
+collection-backlogged-crash-reports-link = بیشتر بدانید
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = امنیت
+security-enable-safe-browsing =
+    .label = مسدود سازی محتوا‌های خطرناک و فریبنده
+    .accesskey = م
+security-block-downloads =
+    .label = مسدود سازی دریافت های خطرناک
+    .accesskey = خ
+security-block-uncommon-software =
+    .label = به من در مورد نرم‌افزارهای نامطلوب و غیرمعمول اخطار بده
+    .accesskey = ن
 
 ## Privacy Section - Certificates
 
+certs-header = گواهینامه‌ها
+certs-personal-label = هنگامی که کارگزاری گواهی شخصی شما را درخواست می‌کند
+certs-select-auto-option =
+    .label = انتخاب‌ یکی به صورت خودکار
+    .accesskey = S
+certs-select-ask-option =
+    .label = هر بار پرسیده شود
+    .accesskey = A
+certs-enable-ocsp =
+    .label = پرس‌وجو از کارگزار پاسخگوی OCSP جهت تصدیق اعتبار فعلی گواهینامه
+    .accesskey = پ
+certs-view =
+    .label = نمایش‌ گواهینامه‌ها…
+    .accesskey = گ
+certs-devices =
+    .label = امنیت دستگاه‌ها…
+    .accesskey = د
