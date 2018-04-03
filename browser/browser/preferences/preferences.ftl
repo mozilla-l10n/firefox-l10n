@@ -388,6 +388,10 @@ containers-remove-button =
 
 ## Privacy Section - Forms
 
+forms-header = Formulários e Senhas
+forms-remember-logins =
+    .label = Memorizar contas de acesso e senhas de sites
+    .accesskey = M
 forms-exceptions =
     .label = Exceções…
     .accesskey = x
@@ -426,6 +430,7 @@ history-clear-button =
 
 ## Privacy Section - Site Data
 
+sitedata-header = Cookies e Dados de sites
 sitedata-learn-more = Saber mais
 sitedata-keep-until = Manter até
     .accesskey = m
@@ -446,6 +451,8 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Barra de Endereços
+addressbar-suggest = Ao usar a barra de endereços, sugerir
 addressbar-locbar-history-option =
     .label = Histórico de navegação
     .accesskey = H
@@ -499,12 +506,18 @@ permissions-block-popups =
 permissions-block-popups-exceptions =
     .label = Exceções…
     .accesskey = E
+permissions-addon-install-warning =
+    .label = Avisar quando sites tentarem instalar extensões
+    .accesskey = A
 permissions-addon-exceptions =
     .label = Exceções…
     .accesskey = E
 
 ## Privacy Section - Data Collection
 
+collection-header = Coleta e Uso de Dados pelo { -brand-short-name }
+collection-description = Nós nos esforçamos para lhe proporcionar escolhas e coletar somente o que precisamos para fornecer e melhorar o { -brand-short-name } para todos. Nós sempre pedimos permissão antes de receber informações pessoais.
+collection-privacy-notice = Nota sobre privacidade
 collection-health-report =
     .label = Permitir que o { -brand-short-name } envie dados técnicos e de interação para a { -vendor-short-name }
     .accesskey = r
@@ -519,6 +532,7 @@ collection-browser-errors-link = Saber mais
 collection-backlogged-crash-reports =
     .label = Permitir ao { -brand-short-name } enviar relatórios de travamento em seu nome
     .accesskey = e
+collection-backlogged-crash-reports-link = Saber mais
 
 ## Privacy Section - Security
 ##
