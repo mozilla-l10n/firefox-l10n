@@ -365,6 +365,7 @@ privacy-header = Beskyttelse af privatliv
 
 ## Privacy Section - Forms
 
+forms-header = Formularer & adgangskoder
 forms-remember-logins =
     .label = Husk logins og adgangskoder til websteder
     .accesskey = H
@@ -429,6 +430,7 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Åbne faneblade
     .accesskey = f
+addressbar-suggestions-settings = Skift indstillinger for søgeforslag
 
 ## Privacy Section - Tracking
 
@@ -512,6 +514,7 @@ collection-backlogged-crash-reports-link = Læs mere
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Sikkerhed
 security-browsing-protection = Beskyttelse mod vildledende indhold og farlig software
 security-enable-safe-browsing =
     .label = Bloker farlige og vildledende websteder
@@ -527,6 +530,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Certifikater
+certs-personal-label = Når en server anmoder om mit personlige certifikat
 certs-select-auto-option =
     .label = Vælg et automatisk
     .accesskey = V
