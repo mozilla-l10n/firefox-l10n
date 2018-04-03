@@ -359,12 +359,20 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = ब्राऊजर गोपनीयता
 
 ## Privacy Section - Forms
 
+forms-header = फॉर्म व पासवर्ड
+forms-remember-logins =
+    .label = साईट्ससाठी लॉगिन्स व पासवर्ड लक्षात ठेवा
+    .accesskey = R
 forms-exceptions =
     .label = अपवाद…
     .accesskey = x
+forms-saved-logins =
+    .label = साठवलेले लॉगइन्स…
+    .accesskey = L
 forms-master-pw-use =
     .label = मास्टर पासवर्डचा वापर करा
     .accesskey = U
@@ -374,6 +382,8 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-header = इतिहास
+history-dontremember-description = { -brand-short-name } समान संयोजना खाजगी ब्राउझिंग म्हणून वापरतो, व वेब चाळतेवेळी कुठलाही इतिहास लक्षात ठेवत नाही.
 history-private-browsing-permanent =
     .label = नेहमी व्यक्तिगत ब्राउजिंग मोडचा वापर करा
     .accesskey = p
@@ -392,6 +402,9 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = आणखी जाणा
+sitedata-accept-third-party-always-option =
+    .label = नेहमी
 sitedata-accept-third-party-visited-option =
     .label = भेट दिलेल्यांमधून
 sitedata-accept-third-party-never-option =
@@ -402,25 +415,95 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-header = पत्ता पट्टी
+addressbar-suggest = पत्ता पट्टी वापरतेवेळी, सूचवा
+addressbar-locbar-history-option =
+    .label = ब्राउझिंग इतिहास
+    .accesskey = h
+addressbar-locbar-bookmarks-option =
+    .label = वाचनखूण
+    .accesskey = k
+addressbar-locbar-openpage-option =
+    .label = टॅब्स उघडा
+    .accesskey = O
+addressbar-suggestions-settings = शोध इंजिनसाठी सूचना प्राधान्यता बदला
 
 ## Privacy Section - Tracking
 
+tracking-header = मागोवा संरक्षण
+tracking-mode-always =
+    .label = नेहमी
+    .accesskey = y
+tracking-mode-private =
+    .label = फक्त खाजगी पटलामध्ये
+    .accesskey = l
+tracking-mode-never =
+    .label = कधीच नाही
+    .accesskey = N
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = माहित असलेले ट्रॅकर अडवण्यावासाठी प्रायव्हेट ब्राऊझिंग मध्ये मागोवा संरक्षण वापरा
+    .accesskey = v
+tracking-exceptions =
+    .label = अपवाद…
+    .accesskey = x
+tracking-change-block-list =
+    .label = अवरोधित सूची बदला…
+    .accesskey = C
 
 ## Privacy Section - Permissions
 
+permissions-header = परवानग्या
+permissions-addon-install-warning =
+    .label = साईट्स ॲड-ऑन्स् इंस्टॉल करण्याचा प्रयत्न करताना मला सावध करा
+    .accesskey = W
 permissions-addon-exceptions =
     .label = अपवाद…
     .accesskey = E
 
 ## Privacy Section - Data Collection
 
+collection-header = { -brand-short-name } माहिती संग्रह आणि वापर
+collection-description = आम्ही आपल्याला पर्याय उपलब्ध करण्यासाठी प्रयत्न करतो आणि सर्वांसाठी { -brand-short-name } उपलब्ध होण्यासाठी आणि सुधारण्यासाठी गरजेपुरतेच गोळा करतो. वैयक्तिक माहिती घेण्याआधी आम्ही नेहमी परवानगी विचारतो.
+collection-privacy-notice = गोपनीयता सूचना
+collection-health-report-link = आणखी जाणा
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = माहिती अहवाल देणे या बांधणी संरचनेमध्ये निष्क्रिय केलेले आहे
+collection-backlogged-crash-reports-link = आणखी जाणा
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = सुरक्षा
+security-enable-safe-browsing =
+    .label = धोकादायक आणि भ्रामक सामग्री अवरोधित करा
+    .accesskey = B
+security-block-downloads =
+    .label = धोकादायक डाउनलोड अवरोधित करा
+    .accesskey = d
+security-block-uncommon-software =
+    .label = नको असलेल्या आणि असामान्य सॉफ्टवेअर बद्दल मला सुचना द्या
+    .accesskey = c
 
 ## Privacy Section - Certificates
 
 certs-header = प्रमाणपत्र
+certs-personal-label = जेव्हा सर्व्हर वैयक्तिक प्रमाणपत्रा करीता विनंती करतो
+certs-select-auto-option =
+    .label = आपोआप निवडा
+    .accesskey = S
+certs-select-ask-option =
+    .label = मला प्रत्येक वेळी विचारा
+    .accesskey = A
+certs-enable-ocsp =
+    .label = क्वेरी OCSP रेसपाँडर सध्याच्या प्रमाणपत्रांची वैधताची खात्री करते
+    .accesskey = Q
+certs-view =
+    .label = प्रमाणपत्रे बघा
+    .accesskey = C
+certs-devices =
+    .label = सुरक्षा साधने
+    .accesskey = D
