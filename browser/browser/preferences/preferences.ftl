@@ -400,6 +400,12 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-always-option =
+    .label = Sempre
+sitedata-accept-third-party-visited-option =
+    .label = De sites visitados
+sitedata-accept-third-party-never-option =
+    .label = Nunca
 sitedata-cookies-exceptions =
     .label = Exceções…
     .accesskey = E
@@ -430,3 +436,7 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Certificates
 
+certs-header = Certificados
+certs-enable-ocsp =
+    .label = Consultar servidores OCSP para confirmar a validade atual dos certificados
+    .accesskey = o
