@@ -450,6 +450,7 @@ security-header = ಸುರಕ್ಷತೆ
 security-enable-safe-browsing =
     .label = ಅಪಾಯಕಾರಿ ಮತ್ತು ವಂಚಕ ವಿಷಯಗಳನ್ನು ನಿರ್ಬಂಧಿಸಿ
     .accesskey = B
+security-enable-safe-browsing-link = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
 security-block-downloads =
     .label = ಅಪಾಯಕಾರಿ ಡೌನ್‌ಲೋಡ್‌ಗಳನ್ನು ನಿರ್ಬಂಧಿಸಿ
     .accesskey = d
