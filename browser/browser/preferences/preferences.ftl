@@ -289,9 +289,19 @@ containers-remove-button =
 
 ## Privacy Section - Forms
 
+forms-header = ទម្រង់ & ពាក្យសម្ងាត់
+forms-exceptions =
+    .label = ករណី​លើកលែង…
+    .accesskey = x
 forms-saved-logins =
     .label = ការ​ចូល​ដែល​បាន​រក្សាទុក...
     .accesskey = L
+forms-master-pw-use =
+    .label = ប្រើ​ពាក្យ​សម្ងាត់​មេ{ " " }
+    .accesskey = U
+forms-master-pw-change =
+    .label = ផ្លាស់ប្ដូរ​ពាក្យ​សម្ងាត់​មេ…
+    .accesskey = M
 
 ## Privacy Section - History
 
@@ -328,9 +338,17 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-bookmarks-option =
+    .label = ចំណាំ
+    .accesskey = k
+addressbar-locbar-openpage-option =
+    .label = បើក​ផ្ទាំង
+    .accesskey = O
+addressbar-suggestions-settings = ប្ដូរ​ចំណូលចិត្ត​សម្រាប់​ការ​សំណើ​ម៉ាស៊ីន​ស្វែងរក
 
 ## Privacy Section - Tracking
 
+tracking-header = ការពារ​ការ​តាមដាន
 tracking-mode-always =
     .label = ជានិច្ច
     .accesskey = y
@@ -352,21 +370,33 @@ permissions-block-popups =
 permissions-block-popups-exceptions =
     .label = ករណី​លើក​លែង
     .accesskey = ក
+permissions-addon-exceptions =
+    .label = ករណី​លើកលែង…
+    .accesskey = E
 
 ## Privacy Section - Data Collection
 
+collection-health-report-link = ស្វែងយល់​​បន្ថែម
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = ការ​រាយការណ៍​ទិន្នន័យ​ត្រូវ​បាន​បិទ​សម្រាប់​ការ​កំណត់​រចនាសម្ព័ន្ធ​កំណែ​នេះ
+collection-backlogged-crash-reports-link = ស្វែងយល់​​បន្ថែម
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = សុវត្ថិភាព
 security-enable-safe-browsing =
     .label = ទប់ស្កាត់​មាតិកា​ដែល​មាន​ភាព​គ្រោះថ្នាក់​និង​ការ​បញ្ឆោត
     .accesskey = B
 security-block-downloads =
     .label = ទប់ស្កាត់​ការ​ទាញយក​ដែល​គ្រោះថ្នាក់
     .accesskey = d
+security-block-uncommon-software =
+    .label = ព្រមាន​អ្នក​អំពី​កម្មវិធី​ដែល​មិន​ធម្មតា ឬ​មិន​ចង់បាន
+    .accesskey = C
 
 ## Privacy Section - Certificates
 
