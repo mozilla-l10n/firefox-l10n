@@ -368,9 +368,16 @@ forms-exceptions =
 ## Privacy Section - History
 
 history-header = வரலாறு
+history-dontremember-description = { -brand-short-name } தனி உலாவல் அமைப்புகளையே பயன்படுத்தும் , மற்றும் நீங்கள் இணையத்தை உலாவும் போது எந்த வரலாற்றையும் நினைவில் கொள்ளாது.
+history-remember-option =
+    .label = என் உலாவல் மற்றும் பதிவிறக்க வரலாற்றை நினைவில் கொள்
+    .accesskey = வ
 history-remember-search-option =
     .label = தேடும் மற்றும் படிவ வரலாற்றை நினைவில் கொள்
     .accesskey = f
+history-clear-on-close-settings =
+    .label = அமைவுகள்…
+    .accesskey = t
 
 ## Privacy Section - Site Data
 
@@ -383,6 +390,9 @@ history-remember-search-option =
 
 ## Privacy Section - Permissions
 
+permissions-block-popups =
+    .label = பாப் அப் (துள்ளும்) சாளரங்களை தடுக்கவும்
+    .accesskey = ப
 permissions-addon-exceptions =
     .label = விதிவிலக்குகள்…
     .accesskey = E
