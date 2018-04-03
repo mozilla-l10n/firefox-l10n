@@ -80,6 +80,7 @@ search-results-sorry-message =
 ## General Section
 
 startup-header = Start
+get-started-configured = { -sync-brand-short-name }-Astellungen opmaachen
 always-check-default =
     .label = Ëmmer nokucken ob { -brand-short-name } de Standard-Browser ass
     .accesskey = y
@@ -202,4 +203,37 @@ restore-default =
 
 
 ## Containers Section
+
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+
+## Privacy Section - History
+
+
+## Privacy Section - Site Data
+
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
 
