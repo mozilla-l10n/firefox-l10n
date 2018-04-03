@@ -29,29 +29,15 @@ feature-enable-requires-restart = Ɛwɔ sɛ { -brand-short-name } san hyɛ ase d
 feature-disable-requires-restart = Ɛwɔ sɛ { -brand-short-name } san hyɛ ase de dum adeyɛ yi.
 should-restart-title = San hyɛ { -brand-short-name } ase
 
+## Preferences UI Search Results
+
+
 ## General Section
 
 startup-header = Nhyɛase
 is-default = { -brand-short-name } yɛ wo brawsa a ɛyɛ difɔlt seisei
 startup-blank-page =
     .label = Kyerɛ krataafa pan
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Fa Krataafa Seiseiara di dwuma
-           *[other] Fa Nkrataafa Nseiseiara di dwuma
-        }
-    .accesskey = S
-choose-bookmark =
-    .label = Fa Bukmaak di dwuma…
-    .accesskey = B
-restore-default =
-    .label = San fa kɔ Difɔlt
-    .accesskey = S
 tabs-group-header = Ntab
 show-tabs-in-taskbar =
     .label = Kyerɛ ntab priviw wɔ Windows taskbaa ne so
@@ -125,6 +111,29 @@ network-proxy-connection-settings =
     .label = Nhyehyɛe…
     .accesskey = y
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Fa Krataafa Seiseiara di dwuma
+           *[other] Fa Nkrataafa Nseiseiara di dwuma
+        }
+    .accesskey = S
+choose-bookmark =
+    .label = Fa Bukmaak di dwuma…
+    .accesskey = B
+restore-default =
+    .label = San fa kɔ Difɔlt
+    .accesskey = S
+
 ## Search Section
 
 search-remove-engine =
@@ -137,3 +146,73 @@ search-keyword-warning-title = San kyerɛw Kasafua-titiriw
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Wo apaw kasafua-titiriw a "{ $name }" de redi dwuma seiseiara. Yɛsrɛ wo sɛ paw foforo.
 search-keyword-warning-bookmark = Wo apaw kasafua-titiriw a bukmaak de redi dwuma seiseiara. Yɛsrɛ wo sɛ paw foforo.
+
+## Containers Section
+
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = Ngyegye…
+    .accesskey = g
+forms-master-pw-use =
+    .label = Fa ehintasɛmfua panin di dwuma
+    .accesskey = F
+forms-master-pw-change =
+    .label = Sesa Ehintasɛmfua Panin…
+    .accesskey = m
+
+## Privacy Section - History
+
+history-dontremember-description = { -brand-short-name } de nhyehyɛe te sɛ brawsen praevet de bedi dwuma, na ɔrennkae wo abakɔsɛm biara wɔ bere a wo brawse Wɛb no so.
+history-private-browsing-permanent =
+    .label = Fa tebea praevet a wɔde brawse di dwuma abere biara
+    .accesskey = p
+history-remember-option =
+    .label = Kae m'abrawse ne atwe ho abakɔsɛm{ " " }
+    .accesskey = K
+history-remember-search-option =
+    .label = Kae abakɔsɛm fa nhwehwɛ ne fɔɔm ho
+    .accesskey = f
+history-clear-on-close-option =
+    .label = Pepa abakɔsɛm sɛ { -brand-short-name } to mu a
+    .accesskey = a
+history-clear-on-close-settings =
+    .label = Nhyehyɛe…
+    .accesskey = h
+
+## Privacy Section - Site Data
+
+sitedata-cookies-exceptions =
+    .label = Ngyegye…
+    .accesskey = e
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-block-popups =
+    .label = Siw ntokuro mpɔpap
+    .accesskey = S
+permissions-addon-exceptions =
+    .label = Ngyegye…
+    .accesskey = e
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
