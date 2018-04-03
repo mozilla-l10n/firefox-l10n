@@ -9,7 +9,7 @@
 <!ENTITY newsSectionHdr.label         "Nyheitsgrupper">
 <!ENTITY subscribeNewsLink.label      "Behandle medlemskap i nyheitsgrupper">
 
-<!ENTITY feedsSectionHdr.label        "RSS-kanalar">
+<!ENTITY feedsSectionHdr.label        "RSS-kjelder">
 <!ENTITY subscribeFeeds.label         "Handter abonnement">
 
 <!ENTITY chat.label                   "Chat">
