@@ -391,10 +391,29 @@ containers-remove-button =
 forms-exceptions =
     .label = Exceções…
     .accesskey = x
+forms-saved-logins =
+    .label = Contas de acesso salvas…
+    .accesskey = l
+forms-master-pw-use =
+    .label = Usar uma senha mestra
+    .accesskey = U
+forms-master-pw-change =
+    .label = Alterar senha mestra…
+    .accesskey = m
 
 ## Privacy Section - History
 
 history-header = Histórico
+history-dontremember-description = O { -brand-short-name } usará as mesmas configurações da navegação privativa e não memorizará o histórico de navegação.
+history-private-browsing-permanent =
+    .label = Sempre usar o modo de navegação privativa
+    .accesskey = v
+history-remember-option =
+    .label = Memorizar histórico de navegação e downloads
+    .accesskey = M
+history-remember-search-option =
+    .label = Memorizar histórico de pesquisa e formulários
+    .accesskey = z
 history-clear-on-close-option =
     .label = Limpar histórico quando o { -brand-short-name } fechar
     .accesskey = i
@@ -404,6 +423,7 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = Saber mais
 sitedata-accept-third-party-always-option =
     .label = Sempre
 sitedata-accept-third-party-visited-option =
@@ -422,21 +442,33 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Abas abertas
     .accesskey = A
+addressbar-suggestions-settings = Alterar preferências das sugestões do mecanismo de pesquisa
 
 ## Privacy Section - Tracking
 
+tracking-header = Proteção contra rastreamento
+tracking-description = A proteção contra rastreamento bloqueia rastreadores on-line que coletam seus dados de navegação através de múltiplos sites. <a>Saiba mais sobre a proteção contra rastreamento e sua privacidade</a>
+tracking-mode-label = Use a proteção contra rastreamento para bloquear rastreadores conhecidos
 tracking-mode-always =
     .label = Sempre
     .accesskey = y
+tracking-mode-private =
+    .label = Só em janelas privativas
+    .accesskey = l
 tracking-mode-never =
     .label = Nunca
     .accesskey = n
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Usar a proteção contra rastreamento na navegação privativa para bloquear rastreadores conhecidos
+    .accesskey = v
 tracking-exceptions =
     .label = Exceções…
     .accesskey = x
 
 ## Privacy Section - Permissions
 
+permissions-header = Permissões
 permissions-block-popups =
     .label = Bloquear janelas popup
     .accesskey = B
@@ -446,16 +478,38 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Data Collection
 
+collection-health-report-link = Saber mais
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = O relatório de dados está desabilitado nesta configuração
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Segurança
+security-enable-safe-browsing =
+    .label = Bloquear conteúdo perigoso e malicioso
+    .accesskey = B
+security-enable-safe-browsing-link = Saber mais
+security-block-downloads =
+    .label = Bloquear downloads perigosos
+    .accesskey = d
+security-block-uncommon-software =
+    .label = Avisar sobre softwares indesejados e incomuns
+    .accesskey = c
 
 ## Privacy Section - Certificates
 
 certs-header = Certificados
+certs-personal-label = Quando um servidor solicita seu certificado pessoal
+certs-select-auto-option =
+    .label = Selecionar um automaticamente
+    .accesskey = S
+certs-select-ask-option =
+    .label = Perguntar todas as vezes
+    .accesskey = a
 certs-enable-ocsp =
     .label = Consultar servidores OCSP para confirmar a validade atual dos certificados
     .accesskey = o
