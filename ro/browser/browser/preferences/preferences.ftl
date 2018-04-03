@@ -397,6 +397,9 @@ forms-remember-logins =
 forms-exceptions =
     .label = Excepții…
     .accesskey = x
+forms-saved-logins =
+    .label = Autentificări salvate…
+    .accesskey = l
 forms-master-pw-use =
     .label = Folosește o parolă generală
     .accesskey = U
@@ -407,6 +410,7 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Istoric
+history-remember-description = { -brand-short-name } va memora istoricul navigării, descărcărilor, formularelor și căutărilor.
 history-dontremember-description = { -brand-short-name } va folosi aceleași setări ca navigarea privată și nu va memora niciun istoric pe măsură ce navighezi pe web.
 history-private-browsing-permanent =
     .label = Folosește mereu modul de navigare privată
@@ -417,17 +421,38 @@ history-remember-option =
 history-remember-search-option =
     .label = Memorează istoricul formularelor și al căutărilor
     .accesskey = f
+history-clear-on-close-option =
+    .label = Șterge istoricul atunci când { -brand-short-name } este închis
+    .accesskey = C
 history-clear-on-close-settings =
     .label = Setări…
     .accesskey = t
+history-clear-button =
+    .label = Șterge istoricul…
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
+sitedata-header = Cookie-uri și datele site-urilor
 sitedata-learn-more = Află mai multe
+sitedata-accept-cookies-option =
+    .label = Acceptă cookie-uri și datele site-urilor de la site-uri web (recomandat)
+    .accesskey = A
+sitedata-block-cookies-option =
+    .label = Blochează cookie-urile și datele site-urilor (poate provoca afectarea aspectului site-urilor web)
+    .accesskey = B
+sitedata-accept-third-party-desc = Acceptă cookie-uri de la terți și datele site-urilor
+    .accesskey = y
 sitedata-accept-third-party-visited-option =
     .label = De la site-urile vizitate
 sitedata-accept-third-party-never-option =
     .label = Niciodată
+sitedata-clear =
+    .label = Șterge datele…
+    .accesskey = l
+sitedata-settings =
+    .label = Gestionează datele…
+    .accesskey = M
 sitedata-cookies-exceptions =
     .label = Excepții…
     .accesskey = E
@@ -447,6 +472,8 @@ addressbar-suggestions-settings = Schimbă preferințele pentru sugestiile motoa
 ## Privacy Section - Tracking
 
 tracking-header = Protecția față de urmărire
+tracking-description = Protecția față de urmărire blochează urmăritorii online care îți colectează datele de navigare pe mai multe site-uri web. <a>Află mai multe despre protecția față de urmărire și confidențialitate</a>
+tracking-mode-label = Folosește protecția față de urmărire pentru a bloca urmăritorii cunoscuți
 tracking-mode-always =
     .label = Întotdeauna
     .accesskey = y
@@ -471,9 +498,21 @@ tracking-change-block-list =
 
 permissions-header = Permisiuni
 permissions-location = Locație
+permissions-location-settings =
+    .label = Setări…
+    .accesskey = l
 permissions-camera = Cameră
+permissions-camera-settings =
+    .label = Setări…
+    .accesskey = t
 permissions-microphone = Microfon
+permissions-microphone-settings =
+    .label = Setări…
+    .accesskey = m
 permissions-notification = Notificări
+permissions-notification-settings =
+    .label = Setări…
+    .accesskey = n
 permissions-notification-link = Află mai multe
 permissions-block-popups =
     .label = Blochează ferestrele pop-up
@@ -487,6 +526,7 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Excepții…
     .accesskey = E
+permissions-a11y-privacy-link = Află mai multe
 
 ## Privacy Section - Data Collection
 
@@ -494,6 +534,13 @@ collection-header = Colectarea și utilizarea de date din { -brand-short-name }
 collection-description = Ne străduim să îți oferim posibilitatea de a face alegeri și colectăm doar ceea ce avem nevoie ca să furnizăm și să îmbunătățim { -brand-short-name } pentru toată lumea. Întotdeauna solicităm permisiunea înainte de a primi informații personale.
 collection-privacy-notice = Politica de confidențialitate
 collection-health-report-link = Află mai multe
+collection-browser-errors =
+    .label = Permite-i lui { -brand-short-name } să trimită rapoarte de eroare ale browserului (inclusiv mesajele erorilor) către { -vendor-short-name }
+    .accesskey = b
+collection-browser-errors-link = Află mai multe
+collection-backlogged-crash-reports =
+    .label = Permite-i lui { -brand-short-name } să trimită în numele tău rapoarte de defecțiuni înregistrate în jurnal
+    .accesskey = c
 collection-backlogged-crash-reports-link = Află mai multe
 
 ## Privacy Section - Security
@@ -502,6 +549,7 @@ collection-backlogged-crash-reports-link = Află mai multe
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Securitate
+security-browsing-protection = Protecție privind conținutul înșelător și programele periculoase
 security-enable-safe-browsing =
     .label = Blochează conținutul periculos și înșelător
     .accesskey = B
