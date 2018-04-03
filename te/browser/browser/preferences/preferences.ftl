@@ -384,6 +384,18 @@ addressbar-locbar-openpage-option =
 
 ## Privacy Section - Tracking
 
+tracking-mode-always =
+    .label = ఎల్లప్పుడూ
+    .accesskey = y
+tracking-mode-private =
+    .label = కేవలం ఆంతరంగిక విండోలో మాత్రమే
+    .accesskey = l
+tracking-mode-never =
+    .label = ఎప్పటికీ కాదు
+    .accesskey = n
+tracking-exceptions =
+    .label = మినహాయింపులు…
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
