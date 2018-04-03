@@ -338,3 +338,4 @@ history-clear-on-close-option =
 
 ## Privacy Section - Certificates
 
+certs-header = تصدیق نامے
