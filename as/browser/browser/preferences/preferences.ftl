@@ -174,6 +174,9 @@ search-keyword-warning-bookmark = এটা পত্ৰচিহ্নৰ দ�
 forms-exceptions =
     .label = ব্যতিক্ৰমসমূহ…
     .accesskey = x
+forms-master-pw-use =
+    .label = এটা মুখ্য পাছৱৰ্ড ব্যৱহাৰ কৰক
+    .accesskey = U
 forms-master-pw-change =
     .label = প্ৰমুখ পাছৱাৰ্ড সলনি কৰক…
     .accesskey = M
@@ -218,6 +221,9 @@ sitedata-cookies-exceptions =
 permissions-block-popups =
     .label = প'প-আপ উইন্ডোসমূহ প্ৰতিৰোধ কৰক
     .accesskey = B
+permissions-block-popups-exceptions =
+    .label = ব্যতিক্ৰসমূহ…
+    .accesskey = E
 permissions-addon-exceptions =
     .label = ব্যতিক্ৰমসমূহ…
     .accesskey = E
@@ -234,3 +240,6 @@ permissions-addon-exceptions =
 ## Privacy Section - Certificates
 
 certs-header = প্ৰমাণপত্ৰসমূহ
+certs-enable-ocsp =
+    .label = প্ৰমাণপত্ৰসমূহৰ বৰ্তমান বৈধতা সুনিশ্চিত কৰিবলে OCSP ৰেস্পণ্ডাৰক প্ৰশ্ন কৰক
+    .accesskey = Q
