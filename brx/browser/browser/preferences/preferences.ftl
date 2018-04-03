@@ -29,6 +29,9 @@ feature-enable-requires-restart = बे आखुथायखौ हाहो�
 feature-disable-requires-restart = बे आखुथायखौ लोरबां खालामनो { -brand-short-name } खौ फिन जागायनांगोन।
 should-restart-title = { -brand-short-name } फिन जागाय
 
+## Preferences UI Search Results
+
+
 ## General Section
 
 startup-header = जागायजेन्नाइ
@@ -41,23 +44,6 @@ is-default = { -brand-short-name } आ दासान्दि नोंथा�
 is-not-default = { -brand-short-name } आ नोंथांनि डिफल्ट ब्राउजार नङा
 startup-blank-page =
     .label = लांदां फेजखौ दिन्थि
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] दानि पेजखौ बाहाय
-           *[other] दानि पेजफोरखौ बाहाय
-        }
-    .accesskey = द
-choose-bookmark =
-    .label = बुकमाकॅखौ... बाहाय
-    .accesskey = ब
-restore-default =
-    .label = असेयाव दोनफिन
-    .accesskey = द
 tabs-group-header = टेब
 show-tabs-in-taskbar =
     .label = टेब गिबिनुथाइखौ उइन्ड' टास्कबाराव दिन्थि (k)
@@ -131,6 +117,29 @@ network-proxy-connection-settings =
     .label = सेटिं...(e)
     .accesskey = e
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] दानि पेजखौ बाहाय
+           *[other] दानि पेजफोरखौ बाहाय
+        }
+    .accesskey = द
+choose-bookmark =
+    .label = बुकमाकॅखौ... बाहाय
+    .accesskey = ब
+restore-default =
+    .label = असेयाव दोनफिन
+    .accesskey = द
+
 ## Search Section
 
 search-engine-default-header = डिफल्ट नागिरनाय इन्जिन
@@ -154,3 +163,91 @@ search-keyword-warning-title = डुप्लिकेट गाहाय स�
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = नोंथाङा बावैसो "{ $name }" जों बाहायजानाय मोनसे गाहाय सोदोबखौ बासिखबाय। अननानै गुबुन मोनसे सायख।
 search-keyword-warning-bookmark = नोंथाङा बावैसो बुकमार्कजों बाहायजानाय मोनसे गाहाय सोदोबखौ बासिखबाय। अननानै गुबुन मोनसे सायख।
+
+## Containers Section
+
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = Exceptions…
+    .accesskey = x
+forms-master-pw-use =
+    .label = मोनसे मास्थार बारग'सोदोब बाहाय
+    .accesskey = ब
+forms-master-pw-change =
+    .label = मा्स्थार बारग'सोदोबखौ सोलाय...{ " " }
+    .accesskey = म
+
+## Privacy Section - History
+
+history-header = जारिमिन
+history-dontremember-description = { -brand-short-name } आ एखे सेटिंखौ प्राइभेट ब्राउजिं महरै बाहायगोन आरो नोंथाङा वेबखौ ब्राउज खालामनाय बादि जायखि जाया जारिमिनखौ गोसोखांनाय नङा।
+history-private-browsing-permanent =
+    .label = अरायबो निजि ब्राउजिं म'डखौ बाहाय (p)
+    .accesskey = p
+history-remember-option =
+    .label = आंनि ब्राउस खालामनाय आरो दावनल'द खालामनाय जारिमिनखौ जेब्लाबो गोसोयाव ला
+    .accesskey = b
+history-remember-search-option =
+    .label = नागेरनाय आरो फरमनि जारिमिनखौ गोसोयाव लाखि
+    .accesskey = फ
+history-clear-on-close-option =
+    .label = { -brand-short-name } खौ बन्द खालामनाय समाव जारिमिनखौ खोमोर(r)
+    .accesskey = r
+history-clear-on-close-settings =
+    .label = सेटिं....  (t)
+    .accesskey = t
+
+## Privacy Section - Site Data
+
+sitedata-accept-third-party-visited-option =
+    .label = थांखानाय निफ्राय
+sitedata-accept-third-party-never-option =
+    .label = माब्लाबाबो नङा
+sitedata-cookies-exceptions =
+    .label = Exceptions…
+    .accesskey = E
+
+## Privacy Section - Address Bar
+
+addressbar-locbar-bookmarks-option =
+    .label = बुकमार्क
+    .accesskey = k
+addressbar-locbar-openpage-option =
+    .label = टेबखौ खेव
+    .accesskey = O
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-block-popups =
+    .label = जौखांनाय उनद'सखौ होबथा
+    .accesskey = ह
+permissions-block-popups-exceptions =
+    .label = Exceptions…
+    .accesskey = E
+permissions-addon-exceptions =
+    .label = Exceptions…
+    .accesskey = E
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
+certs-header = चार्टिफिकेटफोर
+certs-enable-ocsp =
+    .label = सार्टिफिकेटनि दानि बाहायथायखौ रोखा खालामनो सोंलु OCSP फिन होग्रा सार्भार
+    .accesskey = Q
