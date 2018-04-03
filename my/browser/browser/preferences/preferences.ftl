@@ -380,16 +380,52 @@ containers-remove-button =
 
 ## Privacy Section - Forms
 
+forms-header = ဖောင်များ & စကားဝှက်များ
+forms-exceptions =
+    .label = ခြွင်းချက်များ...
+    .accesskey = x
+forms-saved-logins =
+    .label = သိမ်းထားသည့် ဝင်ရောက်မှု အချက်အလက်များ…
+    .accesskey = L
+forms-master-pw-use =
+    .label = အဓိကစကားဝှက်တစ်ခု အသုံးပြုပါ
+    .accesskey = U
+forms-master-pw-change =
+    .label = အဓိကစကားဝှက်ကို ပြောင်းလဲရန်…
+    .accesskey = M
 
 ## Privacy Section - History
 
 history-header = မှတ်တမ်း
 history-dontremember-description = { -brand-short-name } က တူညီတဲ့ အပြင်အဆင်များကို သီးသန့် လှော်လှန်မှုအဖြစ် သုံးစွဲမှာ ဖြစ်ပြီး၊ ကွန်ရက်ကို သင်လှော်လှန်နေစဉ် ဘယ် မှတ်တမ်းကိုမှ မှတ်သားထားမှာ မဟုတ်ဘူး။
+history-private-browsing-permanent =
+    .label = သီးသန့်ကြည့်ရှုခြင်းကို အမြဲ အသုံးပြုမည်
+    .accesskey = p
+history-remember-option =
+    .label = ကြည့်ရှုမှတ်တမ်းနှင့် ဆွဲချချက်မှတ်တမ်းကို မှတ်ထားပါ
+    .accesskey = b
+history-remember-search-option =
+    .label = ရှာဖွေမှတ်တမ်းနှင့် ဖောင်ဖြည့်မှတ်တမ်းကို မှတ်ထားပါ
+    .accesskey = f
+history-clear-on-close-option =
+    .label = { -brand-short-name } ကို ပိတ်သောအခါတွင် မှတ်တမ်းကို ရှင်းလင်းပါ
+    .accesskey = r
+history-clear-on-close-settings =
+    .label = အပြင်အဆင်များ...
+    .accesskey = t
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = ပိုမိုလေ့လာရန်
+sitedata-accept-third-party-always-option =
+    .label = အမြဲတမ်း
+sitedata-accept-third-party-visited-option =
+    .label = ကြည့်ရှုထားသည့် နေ့မှစ၍
 sitedata-accept-third-party-never-option =
     .label = ဘယ်တော့မှ
+sitedata-cookies-exceptions =
+    .label = ခြွင်းချက်များ…
+    .accesskey = E
 
 ## Privacy Section - Address Bar
 
@@ -399,21 +435,50 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = ဖွင့်ထားသည့် စာမျက်နှာများ
     .accesskey = O
+addressbar-suggestions-settings = ရှာဖွေရေးယန္တရား၏ အကြံပေးချက်များအတွက် အပြင်အဆင်ကို ပြောင်းလဲရန်
 
 ## Privacy Section - Tracking
 
+tracking-header = ခြေရာခံ ကာကွယ်မှု
+tracking-mode-always =
+    .label = အမြဲတမ်း
+    .accesskey = y
+tracking-mode-private =
+    .label = သီးသန့်ဝင်းဒိုးများတွင်သာလျှင်
+    .accesskey = l
+tracking-mode-never =
+    .label = ဘယ်တော့မှ
+    .accesskey = n
+tracking-exceptions =
+    .label = ခြွင်းချက်များ…
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
+permissions-notification-pause =
+    .label = အသိပေးချက်ကို { -brand-short-name } ပြန်လည်စတင်မှု မတိုင်ခင်ထိ ရပ်တန့်ထားပါ
+    .accesskey = n
+permissions-block-popups =
+    .label = ပေါ့အပ်ဝင်းဒိုးများကို မဖွင့်ပါနှင့်
+    .accesskey = B
+permissions-block-popups-exceptions =
+    .label = ခြွင်းချက်များ...
+    .accesskey = E
+permissions-addon-exceptions =
+    .label = ခြွင်းချက်များ...
+    .accesskey = E
 
 ## Privacy Section - Data Collection
 
+collection-health-report-link = ပိုမိုလေ့လာရန်
+collection-backlogged-crash-reports-link = ပိုမိုလေ့လာရန်
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = လုံခြုံရေး
 security-enable-safe-browsing =
     .label = အန္တရာယ်ရှိသည့် အကြောင်းအရာတုများကို တားဆီးပါ
     .accesskey = B
@@ -424,6 +489,7 @@ security-block-downloads =
 ## Privacy Section - Certificates
 
 certs-header = အသိအမှတ်ပြုလက်မှတ်များ
+certs-personal-label = ဆာဗာမှ သင့်ကိုယ်ရေးထောက်ခံချက် တောင်းဆိုလာပါက
 certs-enable-ocsp =
     .label = လက်ရှိအထောက်အထားများ၏ ခိုင်လုံမှုကို အတည်ပြုရန် OSCP responder servers များကို ဆွဲထုတ်ပါ Q
     .accesskey = Q
