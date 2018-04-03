@@ -427,3 +427,4 @@ collection-health-report-link = Сазнајте више
 
 ## Privacy Section - Certificates
 
+certs-header = Сертификати
