@@ -401,6 +401,7 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-suggest = Saat menggunakan bilah alamat, sarankan
 addressbar-locbar-bookmarks-option =
     .label = Markah
     .accesskey = M
@@ -420,6 +421,10 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Tidak Pernah
     .accesskey = P
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Gunakan Perlindungan Pelacakan di mode Penjelajahan Pribadi untuk memblokir pelacak yang diketahui
+    .accesskey = v
 tracking-exceptions =
     .label = Pengecualian…
     .accesskey = e
@@ -440,6 +445,9 @@ permissions-addon-exceptions =
 
 collection-description = Kami berusaha memberi Anda pilihan dan mengumpulkan hanya apa yang kami butuhkan untuk menyediakan dan meningkatkan { -brand-short-name } bagi semua orang. Kami selalu meminta izin sebelum menerima informasi pribadi.
 collection-health-report-link = Pelajari Lebih Lanjut
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Pelaporan data dinonaktifkan untuk konfigurasi build ini
 
 ## Privacy Section - Security
 ##
