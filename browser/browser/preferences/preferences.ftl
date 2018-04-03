@@ -477,6 +477,10 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Nunca
     .accesskey = n
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Usar la Protección de rastreo en la navegación privada para bloquear rastreadores conocidos
+    .accesskey = v
 tracking-exceptions =
     .label = Excepciones…
     .accesskey = x
@@ -519,6 +523,7 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Excepciones…
     .accesskey = E
+permissions-a11y-privacy-link = Conocer más
 
 ## Privacy Section - Data Collection
 
@@ -526,6 +531,9 @@ collection-header = Recolección de datos y uso de { -brand-short-name }
 collection-description = Nos esforzamos en proporcionar opciones y recolectar solamente lo que necesitamos para proveer y mejorar { -brand-short-name } para todo el mundo. Siempre pedimos permiso antes de recibir información personal.
 collection-privacy-notice = Nota de privacidad
 collection-health-report-link = Conocer más
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = La información de datos está deshabilitado para esta configuración de compilación
 collection-backlogged-crash-reports =
     .label = Permitir que { -brand-short-name } envíe informes de fallos pendientes en su nombre
     .accesskey = c
@@ -540,6 +548,7 @@ security-header = Seguridad
 security-enable-safe-browsing =
     .label = Bloquear contenido peligroso y engañoso
     .accesskey = B
+security-enable-safe-browsing-link = Conocer más
 security-block-downloads =
     .label = Bloquear descargas peligrosas
     .accesskey = D
@@ -550,12 +559,16 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Certificados
+certs-personal-label = Cuando un servidor solicite su certificado personal
 certs-select-auto-option =
     .label = Seleccionar uno automáticamente
     .accesskey = S
 certs-select-ask-option =
     .label = Preguntarme cada vez
     .accesskey = a
+certs-enable-ocsp =
+    .label = Solicitar a los servidores de respuesta de OCSP que confirmen la validez actual de los certificados
+    .accesskey = O
 certs-view =
     .label = Ver certificados…
     .accesskey = c
