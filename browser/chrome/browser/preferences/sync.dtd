@@ -37,7 +37,7 @@
 <!ENTITY fxaPrivacyNotice.link.label "Informativa sulla privacy">
 <!ENTITY signedInUnverified.beforename.label "">
 <!ENTITY signedInUnverified.aftername.label "non è verificato.">
-<!ENTITY signedInLoginFailure.beforename.label "Accedi per riattivare la connessione">
+<!ENTITY signedInLoginFailure.beforename.label "Accedi per riattivare la connessione con">
 <!ENTITY signedInLoginFailure.aftername.label "">
 <!ENTITY notSignedIn.label "Accesso non effettuato.">
 <!ENTITY signIn.label "Accedi">
