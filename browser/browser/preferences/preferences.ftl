@@ -461,3 +461,6 @@ security-block-downloads =
 ## Privacy Section - Certificates
 
 certs-header = Sertifikatlar
+certs-enable-ocsp =
+    .label = Sertifikatların keçərliliyini təsdiqləmək üçün OCSP cavabdehlik serverlərinə Sorğu göndər
+    .accesskey = S
