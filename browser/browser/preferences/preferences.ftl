@@ -398,3 +398,4 @@ collection-health-report-link = ਹੋਰ ਜਾਣੋ
 
 ## Privacy Section - Certificates
 
+certs-header = ਸਰਟੀਫਿਕੇਟ
