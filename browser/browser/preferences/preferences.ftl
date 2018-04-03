@@ -386,6 +386,9 @@ privacy-header = Webbläsarintegritet
 ## Privacy Section - Forms
 
 forms-header = Formulär & lösenord
+forms-remember-logins =
+    .label = Kom ihåg inloggningar och lösenord för webbplatser
+    .accesskey = K
 forms-exceptions =
     .label = Undantag…
     .accesskey = d
@@ -522,6 +525,9 @@ permissions-block-popups =
 permissions-block-popups-exceptions =
     .label = Undantag…
     .accesskey = U
+permissions-addon-install-warning =
+    .label = Varna när webbplatser försöker installera tillägg
+    .accesskey = V
 permissions-addon-exceptions =
     .label = Undantag…
     .accesskey = U
@@ -535,6 +541,9 @@ permissions-a11y-privacy-link = Läs mer
 collection-header = Datainsamling och användning för { -brand-short-name }
 collection-description = Vi strävar alltid efter att ge dig val och samlar endast in vad vi behöver för tillhandahålla och förbättra { -brand-short-name } för alla. Vi ber alltid om tillåtelse innan vi tar emot personliga uppgifter.
 collection-privacy-notice = Sekretesspolicy
+collection-health-report =
+    .label = Tillåt { -brand-short-name } att automatiskt skicka teknisk och interaktionsdata till { -vendor-short-name }
+    .accesskey = r
 collection-health-report-link = Läs mer
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
