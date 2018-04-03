@@ -382,3 +382,51 @@ containers-preferences-button =
     .label = Asetukset
 containers-remove-button =
     .label = Poista
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = Poikkeukset…
+    .accesskey = e
+forms-master-pw-use =
+    .label = Käytä pääsalasanaa
+    .accesskey = K
+forms-master-pw-change =
+    .label = Muuta pääsalasanaa…
+    .accesskey = M
+
+## Privacy Section - History
+
+
+## Privacy Section - Site Data
+
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-block-popups =
+    .label = Estä ponnahdusikkunat
+    .accesskey = E
+permissions-addon-exceptions =
+    .label = Poikkeukset…
+    .accesskey = P
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
