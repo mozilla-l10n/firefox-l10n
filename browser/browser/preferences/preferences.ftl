@@ -386,6 +386,12 @@ containers-remove-button =
 
 ## Privacy Section - Forms
 
+forms-exceptions =
+    .label = Изузеци
+    .accesskey = е
+forms-saved-logins =
+    .label = Сачуване пријаве
+    .accesskey = С
 forms-master-pw-use =
     .label = Користи главну лозинку
     .accesskey = К
@@ -396,21 +402,61 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Историјат
+history-dontremember-description = { -brand-short-name } ће користити иста подешавања као за приватно прегледања, и неће памтити историјат прегледања веб страница.
+history-private-browsing-permanent =
+    .label = Увек користи режим приватног прегледања
+    .accesskey = в
+history-remember-option =
+    .label = Запамти мој историјат прегледања и преузимања
+    .accesskey = З
+history-remember-search-option =
+    .label = Запамти историјат образаца и претраге
+    .accesskey = р
+history-clear-on-close-option =
+    .label = Обриши историјат када се { -brand-short-name } затвори
+    .accesskey = О
+history-clear-on-close-settings =
+    .label = Поставке…
+    .accesskey = П
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-always-option =
+    .label = Увек
+sitedata-accept-third-party-visited-option =
+    .label = Од посећених
+sitedata-accept-third-party-never-option =
+    .label = Никад
 sitedata-cookies-exceptions =
     .label = Изузеци
     .accesskey = И
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-bookmarks-option =
+    .label = Забелешке
+    .accesskey = З
 
 ## Privacy Section - Tracking
 
+tracking-mode-always =
+    .label = Увек
+    .accesskey = У
+tracking-mode-private =
+    .label = Само у приватним прозорима
+    .accesskey = С
+tracking-mode-never =
+    .label = Никада
+    .accesskey = Н
+tracking-exceptions =
+    .label = Изузеци…
+    .accesskey = И
 
 ## Privacy Section - Permissions
 
+permissions-block-popups =
+    .label = Блокирај искачуће прозоре
+    .accesskey = ч
 permissions-addon-exceptions =
     .label = Изузеци
     .accesskey = И
@@ -424,7 +470,16 @@ collection-health-report-link = Сазнајте више
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-enable-safe-browsing =
+    .label = Блокирај опасан и обманљив садржај
+    .accesskey = с
+security-block-downloads =
+    .label = Блокирај опасна преузимања
+    .accesskey = п
 
 ## Privacy Section - Certificates
 
 certs-header = Сертификати
+certs-enable-ocsp =
+    .label = Упит OCSP сервера да бисте проверили тренутну валидност сертификата
+    .accesskey = л
