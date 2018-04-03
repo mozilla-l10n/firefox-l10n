@@ -421,22 +421,40 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = সেটিং…
     .accesskey = t
+history-clear-button =
+    .label = ইতিহাস মুছে ফেলুন…
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
+sitedata-header = কুকি এবং সাইট ডাটা
 sitedata-learn-more = আরও জানুন
+sitedata-block-cookies-option =
+    .label = কুকি এবং সাইট ডাটা ব্লক করুন (ওয়েবসাইট ভাঙ্গতে পারে)
+    .accesskey = B
+sitedata-keep-until = সংরক্ষণের সময়কাল
+    .accesskey = u
+sitedata-accept-third-party-desc = তৃতীয়-পক্ষের কুকি এবং সাইট ডাটা গ্রহণ করুন
+    .accesskey = y
 sitedata-accept-third-party-always-option =
     .label = সর্বদা
 sitedata-accept-third-party-visited-option =
     .label = প্রদর্শিত হতে
 sitedata-accept-third-party-never-option =
     .label = কখনো নয়
+sitedata-clear =
+    .label = ডাটা পরিষ্কার করুন…
+    .accesskey = l
+sitedata-settings =
+    .label = ডাটা ব্যবস্থাপনা…
+    .accesskey = M
 sitedata-cookies-exceptions =
     .label = ব্যতিক্রম… E
     .accesskey = E
 
 ## Privacy Section - Address Bar
 
+addressbar-header = ঠিকানা বার
 addressbar-suggest = ঠিকানা বার ব্যবহার করার সময়, সুপারিশ করবে
 addressbar-locbar-history-option =
     .label = ব্রাউজ ইতিহাস
@@ -452,6 +470,7 @@ addressbar-suggestions-settings = অনুসন্ধান ইঞ্জিন
 ## Privacy Section - Tracking
 
 tracking-header = ট্রাকিং সুরক্ষা
+tracking-mode-label = জানা ট্রাকারগুলি ব্লক করতে ট্রাকিং সুরক্ষা ব্যবহার করুন
 tracking-mode-always =
     .label = সর্বদা
     .accesskey = y
@@ -468,23 +487,49 @@ tracking-pbm-label = ব্যক্তিগত ব্রাউজিং এ �
 tracking-exceptions =
     .label = ব্যতিক্রম… E
     .accesskey = E
+tracking-change-block-list =
+    .label = ব্লক তালিকা পরিবর্তন করুন…
+    .accesskey = C
 
 ## Privacy Section - Permissions
 
 permissions-header = অনুমতি
+permissions-location = অবস্থান
+permissions-location-settings =
+    .label = সেটিং…
+    .accesskey = t
+permissions-camera = ক্যামেরা
+permissions-camera-settings =
+    .label = সেটিং…
+    .accesskey = t
+permissions-microphone = মাইক্রোফোন
+permissions-microphone-settings =
+    .label = সেটিং…
+    .accesskey = t
 permissions-notification = নোটিফিকেশন
+permissions-notification-settings =
+    .label = সেটিং…
+    .accesskey = t
+permissions-notification-link = আরও জানুন
 permissions-notification-pause =
     .label = নোটিফিকেশন বন্ধ রাখো যতক্ষণ না { -brand-short-name } রিস্টার্ট হয়
     .accesskey = n
 permissions-block-popups =
     .label = পপ-আপ উইন্ডো ব্লক করা হবে B
     .accesskey = B
+permissions-block-popups-exceptions =
+    .label = ব্যতিক্রম... E
+    .accesskey = E
 permissions-addon-install-warning =
     .label = যখন ওয়েবসাইট কোন অ্যাড-অন ইন্সটল করার চেষ্টা করলে আপনাকে সর্তক করবে
     .accesskey = W
 permissions-addon-exceptions =
     .label = ব্যতিক্রম...
     .accesskey = E
+permissions-a11y-privacy-checkbox =
+    .label = অভিগম্যতা সেবা ব্রাউজার ব্যবহার করবে না
+    .accesskey = a
+permissions-a11y-privacy-link = আরও জানুন
 
 ## Privacy Section - Data Collection
 
@@ -492,10 +537,16 @@ collection-header = { -brand-short-name } ডাটা সংগ্রহ ও �
 collection-description = আমরা আপনার ইচ্ছাকে সম্মান করি, আমরা ততটুকু তথ্যই সংগ্রহ করি যা সকলের জন্য { -brand-short-name } এর মানোন্নয়নে প্রয়োজন। কারও ব্যক্তিগত তথ্য গ্রহনের সময় আমরা সর্বদা অনুমতি চাই।
 collection-privacy-notice = গোপনীয়তা নীতি
 collection-health-report-link = আরও জানুন
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = এই বিল্ড কনফিগারেশনের জন্যে ডাটা রিপোর্টিং নিস্ক্রিয় করা হয়েছে
 collection-browser-errors =
     .label = { -vendor-short-name } এর কাছে ব্রাউজার ত্রুটি রিপোর্ট (ত্রুটি বার্তাসহ) পাঠাতে { -brand-short-name } কে অনুমোদন দিন
     .accesskey = b
 collection-browser-errors-link = আরও জানুন
+collection-backlogged-crash-reports =
+    .label = আপনার পক্ষে থেকে ব্যাকলগকৃত ক্রাশ রিপোর্টগুলি পাঠাতে { -brand-short-name } কে অনুমোদন করুন
+    .accesskey = c
 collection-backlogged-crash-reports-link = আরও জানুন
 
 ## Privacy Section - Security
@@ -508,6 +559,7 @@ security-browsing-protection = ক্ষতিকারক কন্টেন্
 security-enable-safe-browsing =
     .label = লুকানো এবং ক্ষতিকর কনটেন্ট ব্লক করো
     .accesskey = B
+security-enable-safe-browsing-link = বিস্তারিত
 security-block-downloads =
     .label = ক্ষতিকর ডাউনলোড ব্লক
     .accesskey = d
