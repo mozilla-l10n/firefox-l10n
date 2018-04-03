@@ -41,6 +41,9 @@ should-restart-title = { -brand-short-name } फेर आरंभ करू
 should-restart-ok = { -brand-short-name } केँ अखन फेर आरंभ करू
 restart-later = कनि काल मे फेर सँ शुरू करू
 
+## Preferences UI Search Results
+
+
 ## General Section
 
 startup-header = आरंभन
@@ -53,23 +56,6 @@ is-default = { -brand-short-name } अखन अहाँक तयशुदा 
 is-not-default = { -brand-short-name } अखन अहाँक तयशुदा ब्राउजर अछि
 startup-blank-page =
     .label = एकटा खाली पृष्ठ देखाउ
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] मोजुदा पृष्ठक प्रयोग  करू 
-           *[other] मोजुदा पृष्ठक प्रयोग  करू 
-        }
-    .accesskey = C
-choose-bookmark =
-    .label = पुस्तकचिह्नक प्रयोग करू…
-    .accesskey = B
-restore-default =
-    .label = पूर्वनिर्धारित मे फेर जमा  करू 
-    .accesskey = R
 tabs-group-header = टैब
 show-tabs-in-taskbar =
     .label = विंडो कार्यपट्टी मे टैब पूर्वावलोकन देखाउ
@@ -148,6 +134,29 @@ network-proxy-connection-settings =
     .label = सेटिंग…
     .accesskey = e
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] मोजुदा पृष्ठक प्रयोग  करू 
+           *[other] मोजुदा पृष्ठक प्रयोग  करू 
+        }
+    .accesskey = C
+choose-bookmark =
+    .label = पुस्तकचिह्नक प्रयोग करू…
+    .accesskey = B
+restore-default =
+    .label = पूर्वनिर्धारित मे फेर जमा  करू 
+    .accesskey = R
+
 ## Search Section
 
 search-engine-default-header = तयशुदा खोज इंजिन
@@ -172,3 +181,54 @@ search-keyword-warning-title = बीजशब्द अनुकृति
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = अहाँ एकटा बीजशब्द चुनने छी जे अखन "{ $name }" क द्वारा प्रयोग मे अछि . कृप्या दूसरा चुनू.
 search-keyword-warning-bookmark = अहाँ एकटाटा बीजशब्द चुनने छी जे अखन पुस्तकचिह्नक द्वारा प्रयोग मे अछि. कृप्या दूसरा चुनू.
+
+## Containers Section
+
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = अपवाद…
+    .accesskey = x
+forms-master-pw-change =
+    .label = मुख्य गुड़किल्ली बदलू…
+    .accesskey = M
+
+## Privacy Section - History
+
+
+## Privacy Section - Site Data
+
+sitedata-cookies-exceptions =
+    .label = अपवाद...
+    .accesskey = E
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-block-popups =
+    .label = पापअप विंडो केँ रोकू
+    .accesskey = B
+permissions-addon-exceptions =
+    .label = अपवाद…
+    .accesskey = E
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
