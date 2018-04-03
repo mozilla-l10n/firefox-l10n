@@ -387,12 +387,17 @@ containers-remove-button =
 ## Privacy Section - History
 
 history-dontremember-description = { -brand-short-name } একান্ত ব্রাউজিং এর মতোই সেটিং ব্যবহার করবে, এবং আপনার ব্রাউজিং এর কোন তথ্য সংরক্ষণ করবে না।
+history-private-browsing-permanent =
+    .label = সবসময় একান্ত ব্রাউজিং মোড ব্যবহার করুন p
+    .accesskey = p
 history-remember-option =
     .label = আমার ব্রাউজিং এবং ডাউনলোড ইতিহাস মনে রাখুন b
     .accesskey = b
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-never-option =
+    .label = কখনো নয়
 sitedata-cookies-exceptions =
     .label = ব্যতিক্রম… E
     .accesskey = E
