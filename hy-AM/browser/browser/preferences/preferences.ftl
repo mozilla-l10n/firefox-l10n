@@ -383,14 +383,38 @@ containers-remove-button =
 
 ## Privacy Section - Forms
 
+forms-exceptions =
+    .label = Բացառություններ…
+    .accesskey = ա
+forms-master-pw-change =
+    .label = Փոխել Հիմնական գաղտնաբառը…
+    .accesskey = Հ
 
 ## Privacy Section - History
 
+history-dontremember-description = { -brand-short-name }ը կօգտագործի գաղտնի դիտարկման կարգավումները և չի հիշի համացանցում ձեր դիտարկումների պատմությունը:
+history-private-browsing-permanent =
+    .label = Միշտ օգտագործել Գաղտնի Դիտարկումը
+    .accesskey = Գ
+history-remember-search-option =
+    .label = Հիշել որոնման և ձևերի պատմությունը
+    .accesskey = ձ
+history-clear-on-close-option =
+    .label = { -brand-short-name }-ը փակելիս մաքրել պատմությունը
+    .accesskey = լ
+history-clear-on-close-settings =
+    .label = Կարգավորումներ...
+    .accesskey = ր
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-visited-option =
+    .label = Այցելածներից
 sitedata-accept-third-party-never-option =
     .label = Երբեք
+sitedata-cookies-exceptions =
+    .label = Բացառություններ…
+    .accesskey = Բ
 
 ## Privacy Section - Address Bar
 
@@ -403,6 +427,9 @@ sitedata-accept-third-party-never-option =
 permissions-block-popups =
     .label = Կանխել Pop-up պատուհանները
     .accesskey = Կ
+permissions-addon-exceptions =
+    .label = Բացառություններ…
+    .accesskey = Բ
 
 ## Privacy Section - Data Collection
 
@@ -415,3 +442,4 @@ permissions-block-popups =
 
 ## Privacy Section - Certificates
 
+certs-header = Վկայագրեր
