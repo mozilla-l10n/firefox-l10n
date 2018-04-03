@@ -154,18 +154,48 @@ search-keyword-warning-bookmark = O tlhophile lefokopatlo le ga jaana le dirisiw
 
 ## Privacy Section - History
 
+history-header = Motlhala wa tsedifitileng
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-visited-option =
+    .label = Go tsweng mo go tse di etetsweng
+sitedata-accept-third-party-never-option =
+    .label = O seka
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-bookmarks-option =
+    .label = Matshwaotsebe
+    .accesskey = M
+addressbar-locbar-openpage-option =
+    .label = Dithebe tse di butsweng
+    .accesskey = D
 
 ## Privacy Section - Tracking
 
+tracking-mode-always =
+    .label = Ka nako tsotlhe
+    .accesskey = K
+tracking-mode-private =
+    .label = Fela mo windows e poraefete
+    .accesskey = F
+tracking-mode-never =
+    .label = Le goka
+    .accesskey = L
+tracking-exceptions =
+    .label = Ditlogelwantle
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
+permissions-notification = Dikitsiso
+permissions-block-popups =
+    .label = Thibela di Window tse di tlhagelelang
+    .accesskey = T
+permissions-block-popups-exceptions =
+    .label = Ditlogelwantle
+    .accesskey = D
 
 ## Privacy Section - Data Collection
 
