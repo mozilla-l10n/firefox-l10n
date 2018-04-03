@@ -445,6 +445,7 @@ permissions-a11y-privacy-link = اطّلع على المزيد
 
 ## Privacy Section - Data Collection
 
+collection-health-report-link = اطّلع على المزيد
 
 ## Privacy Section - Security
 ##
