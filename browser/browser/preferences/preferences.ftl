@@ -525,6 +525,7 @@ permissions-addon-exceptions =
 collection-header = Recolección de datos y uso de { -brand-short-name }
 collection-description = Nos esforzamos en proporcionar opciones y recolectar solamente lo que necesitamos para proveer y mejorar { -brand-short-name } para todo el mundo. Siempre pedimos permiso antes de recibir información personal.
 collection-privacy-notice = Nota de privacidad
+collection-health-report-link = Conocer más
 collection-backlogged-crash-reports =
     .label = Permitir que { -brand-short-name } envíe informes de fallos pendientes en su nombre
     .accesskey = c
@@ -548,6 +549,7 @@ security-block-uncommon-software =
 
 ## Privacy Section - Certificates
 
+certs-header = Certificados
 certs-select-auto-option =
     .label = Seleccionar uno automáticamente
     .accesskey = S
