@@ -30,6 +30,9 @@ feature-disable-requires-restart = { -brand-short-name } must restart to disable
 should-restart-title = Restart { -brand-short-name }
 restart-later = Restart Later
 
+## Preferences UI Search Results
+
+
 ## General Section
 
 startup-header = Startup
@@ -45,23 +48,6 @@ is-default = { -brand-short-name } is currently your default browser
 is-not-default = { -brand-short-name } is not your default browser
 startup-blank-page =
     .label = Show a blank page
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Use Current Page
-           *[other] Use Current Pages
-        }
-    .accesskey = C
-choose-bookmark =
-    .label = Use Bookmark…
-    .accesskey = B
-restore-default =
-    .label = Restore to Default
-    .accesskey = R
 tabs-group-header = Tabs
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab cycles through tabs in recently used order
@@ -150,6 +136,29 @@ network-proxy-connection-settings =
     .label = Settings…
     .accesskey = e
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Use Current Page
+           *[other] Use Current Pages
+        }
+    .accesskey = C
+choose-bookmark =
+    .label = Use Bookmark…
+    .accesskey = B
+restore-default =
+    .label = Restore to Default
+    .accesskey = R
+
 ## Search Section
 
 search-engine-default-header = Default Search Engine
@@ -174,3 +183,73 @@ search-keyword-warning-title = Duplicate Keyword
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = You have chosen a keyword that is currently in use by “{ $name }”. Please select another.
 search-keyword-warning-bookmark = You have chosen a keyword that is currently in use by a bookmark. Please select another.
+
+## Containers Section
+
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = Exceptions…
+    .accesskey = x
+forms-master-pw-use =
+    .label = Use a master password
+    .accesskey = U
+forms-master-pw-change =
+    .label = Change Master Password…
+    .accesskey = M
+
+## Privacy Section - History
+
+history-dontremember-description = { -brand-short-name } will use the same settings as private browsing, and will not remember any history as you browse the Web.
+history-private-browsing-permanent =
+    .label = Always use private browsing mode
+    .accesskey = p
+history-remember-option =
+    .label = Remember my browsing and download history
+    .accesskey = b
+history-remember-search-option =
+    .label = Remember search and form history
+    .accesskey = f
+history-clear-on-close-option =
+    .label = Clear history when { -brand-short-name } closes
+    .accesskey = r
+history-clear-on-close-settings =
+    .label = Settings…
+    .accesskey = t
+
+## Privacy Section - Site Data
+
+sitedata-cookies-exceptions =
+    .label = Exceptions…
+    .accesskey = E
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-block-popups =
+    .label = Block pop-up windows
+    .accesskey = B
+permissions-addon-exceptions =
+    .label = Exceptions…
+    .accesskey = E
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
