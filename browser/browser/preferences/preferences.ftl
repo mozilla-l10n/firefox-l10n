@@ -158,6 +158,10 @@ history-remember-option =
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-visited-option =
+    .label = зорчсоноос
+sitedata-accept-third-party-never-option =
+    .label = хэзээ ч үгүй
 sitedata-cookies-exceptions =
     .label = Зөвшөөрөгдсөн хуудас…
     .accesskey = ш
