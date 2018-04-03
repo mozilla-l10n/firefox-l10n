@@ -392,12 +392,19 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Address Bar
 
 ## Privacy Section - Tracking
 
+tracking-description = Ang Proteksyon sa Pagsubaybay ay naghaharang sa mga online na tracker na nagkokolekta ng iyong impormasyon tungkol sa pag-browse sa maramihang mga website. <a>Matuto nang higit pa tungkol sa Proteksyon sa Pagsubaybay at iyong pagiging pribado</a>
+tracking-mode-label = Gamitin ang Proteksyon sa Pagsubaybay upang harangan ang mga kilalang tracker
+tracking-mode-private =
+    .label = Sa pribadong mga window lamang
+    .accesskey = l
 
 ## Privacy Section - Permissions
 
+permissions-header = Mga pahintulot
 permissions-block-popups =
     .label = Harangin ang mga pop-up windows
     .accesskey = H
@@ -407,12 +414,22 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Data Collection
 
+collection-health-report-link = Karagdagang kaalaman
+collection-browser-errors-link = Matuto ng higit pa
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-enable-safe-browsing-link = Matuto ng higit pa
 
 ## Privacy Section - Certificates
 
+certs-header = Mga sertipiko
+certs-select-ask-option =
+    .label = Magtanong sayo palagi
+    .accesskey = A
+certs-view =
+    .label = Tingnan ang mga Sertipiko…
+    .accesskey = C
