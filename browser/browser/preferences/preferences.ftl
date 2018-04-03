@@ -381,12 +381,20 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = Браузер жекелігі
 
 ## Privacy Section - Forms
 
+forms-header = Формалар және парольдер
+forms-remember-logins =
+    .label = Вебсайттар үшін логиндер және парольдерді сақтау
+    .accesskey = т
 forms-exceptions =
     .label = Ережелерден бөлек…
     .accesskey = р
+forms-saved-logins =
+    .label = Сақталған логиндер…
+    .accesskey = л
 forms-master-pw-use =
     .label = Мастер-парольді қолдану
     .accesskey = М
@@ -396,6 +404,7 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-header = Тарихы
 history-dontremember-description = { -brand-short-name } жекелік шолу режимінің баптауын пайдаланады, яғни браузер тарихына ешқандай мәлімет сақталмайды.
 history-private-browsing-permanent =
     .label = Әрқашан жекелік шолу режимін қолдану
@@ -415,6 +424,11 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = Көбірек білу
+sitedata-keep-until = Дейін сақтау
+    .accesskey = н
+sitedata-accept-third-party-always-option =
+    .label = Әрқашан
 sitedata-accept-third-party-visited-option =
     .label = Мен болған жерден ғана
 sitedata-accept-third-party-never-option =
@@ -425,28 +439,99 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Адрес жолағы
+addressbar-suggest = Адрес жолағын қолдану кезінде, ұсыну
+addressbar-locbar-history-option =
+    .label = Шолулар тарихы
+    .accesskey = Ш
+addressbar-locbar-bookmarks-option =
+    .label = Бетбелгілер
+    .accesskey = л
+addressbar-locbar-openpage-option =
+    .label = Ашық беттер
+    .accesskey = А
 
 ## Privacy Section - Tracking
 
+tracking-header = Бақылаудан қорғанысты қолдану
+tracking-mode-always =
+    .label = Әрқашан
+    .accesskey = ш
+tracking-mode-private =
+    .label = Тек жекелік терезелерінде
+    .accesskey = к
+tracking-mode-never =
+    .label = Ешқашан
+    .accesskey = н
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Жекелік шолуда белгілі трекерлерді блоктау үшін Бақылаудан қорғанысты қолдану
+    .accesskey = Ж
+tracking-exceptions =
+    .label = Ережелерден бөлек…
+    .accesskey = Е
+tracking-change-block-list =
+    .label = Блоктізімді өзгерту…
+    .accesskey = г
 
 ## Privacy Section - Permissions
 
+permissions-header = Рұқсаттар
+permissions-location = Орналасу
+permissions-camera = Камера
+permissions-microphone = Микрофон
+permissions-notification = Хабарламалар
+permissions-notification-link = Көбірек білу
 permissions-block-popups =
     .label = "Атып шығатын" терезелерді болдырмау
     .accesskey = б
+permissions-block-popups-exceptions =
+    .label = Осыдан бөлек…
+    .accesskey = О
+permissions-addon-install-warning =
+    .label = Вебсайттар кеңейтулерді орнатқысы келсе, ескерту
+    .accesskey = В
 permissions-addon-exceptions =
     .label = Ережелерден бөлек…
     .accesskey = Е
 
 ## Privacy Section - Data Collection
 
+collection-header = { -brand-short-name } деректер жинауы және қолданылуы
+collection-description = Біз сізге таңдауды қолыңызға беріп, тек әркім үшін { -brand-short-name } өнімін ұсыну және жақсарту мақсатында керек деректерді жинаймыз. Жеке ақпаратты алу алдында біз әрқашан рұқсатты сұраймыз.
+collection-privacy-notice = Жекелік ескертуі
+collection-health-report-link = Көбірек білу
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Деректер есептемесін беру бұл жинақта сөндірілген
+collection-backlogged-crash-reports-link = Көбірек білу
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Қауіпсіздік
+security-enable-safe-browsing =
+    .label = Қауіпті және алдамшы құраманы блоктау
+    .accesskey = б
+security-block-downloads =
+    .label = Қауіпті жүктемелерді блоктау
+    .accesskey = п
+security-block-uncommon-software =
+    .label = Талап етілмеген және қалыпты емес БҚ жөнінде хабарлау
+    .accesskey = п
 
 ## Privacy Section - Certificates
 
 certs-header = Сертификаттар
+certs-personal-label = Егерде сервер сіздің жеке сертификатыңызды сұраса
+certs-select-ask-option =
+    .label = Әрбір ретте cізден сұрау
+    .accesskey = р
+certs-view =
+    .label = Сертификаттарды қарау…
+    .accesskey = С
+certs-devices =
+    .label = Қауіпсіздік құрылғылары…
+    .accesskey = ы
