@@ -355,6 +355,7 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = Pang-sarilinan sa Browser
 
 ## Privacy Section - Forms
 
@@ -453,12 +454,32 @@ tracking-change-block-list =
 ## Privacy Section - Permissions
 
 permissions-header = Mga pahintulot
+permissions-location = Lokasyon
+permissions-location-settings =
+    .label = Mga Setting…
+    .accesskey = t
+permissions-camera = Kamera
+permissions-camera-settings =
+    .label = Mga Setting…
+    .accesskey = t
+permissions-microphone = Mikropono
+permissions-microphone-settings =
+    .label = Mga Setting…
+    .accesskey = t
+permissions-notification = Mga Abiso
+permissions-notification-settings =
+    .label = Mga Setting…
+    .accesskey = t
+permissions-notification-link = Karagdagang kaalaman
 permissions-notification-pause =
     .label = I-pause ang mga notification hanggang sa i-restart ang { -brand-short-name }
     .accesskey = n
 permissions-block-popups =
     .label = Harangin ang mga pop-up windows
     .accesskey = H
+permissions-block-popups-exceptions =
+    .label = Mga Exceptions...
+    .accesskey = E
 permissions-addon-install-warning =
     .label = Pagbabala sa iyo kapag sinusubukan ng mga website na mag-install ng mga add-on
     .accesskey = W
@@ -473,7 +494,15 @@ permissions-a11y-privacy-link = Matuto ng higit pa
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } Koleksyon ng data at ang Paggamit
+collection-description = Nagsusumikap kami na magbigay sa iyo ng mga pagpipilian at mangolekta lamang kung ano ang kailangan namin upang magbigay at pagbutihin ang { -brand-short-name } para sa lahat. Lagi kaming humihingi ng pahintulot bago matanggap ang personal na impormasyon.
+collection-privacy-notice = Abiso pang Sarilinan
+collection-health-report =
+    .label = Payagan ang { -brand-short-name } na magpadala ng data ng teknikal at pakikipag-ugnayan sa { -vendor-short-name }
+    .accesskey = r
 collection-health-report-link = Karagdagang kaalaman
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Hindi pinagana ang pag-uulat ng data para sa build configuration na ito
 collection-browser-errors-link = Matuto ng higit pa
 collection-backlogged-crash-reports-link = Karagdagang kaalaman
 
@@ -498,12 +527,19 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Mga sertipiko
+certs-personal-label = Kapag hiniling ng isang server ang iyong personal na sertipiko
 certs-select-auto-option =
     .label = Pumili agad ng isa
     .accesskey = S
 certs-select-ask-option =
     .label = Magtanong sayo palagi
     .accesskey = A
+certs-enable-ocsp =
+    .label = Tanungin ang mga OCSP responder server upang kumpirmahin ang kasalukuyang bisa ng mga sertipiko
+    .accesskey = Q
 certs-view =
     .label = Tingnan ang mga Sertipiko…
     .accesskey = C
+certs-devices =
+    .label = Mga device na pang-seguridad…
+    .accesskey = D
