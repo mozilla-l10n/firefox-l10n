@@ -383,6 +383,7 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = Приватност прегледача
 
 ## Privacy Section - Forms
 
@@ -456,6 +457,11 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Адресна трака
+addressbar-suggest = Приликом коришћења адресне траке, предлажи
+addressbar-locbar-history-option =
+    .label = Историјат прегледања
+    .accesskey = г
 addressbar-locbar-bookmarks-option =
     .label = Забелешке
     .accesskey = З
@@ -485,13 +491,29 @@ tracking-pbm-label = Користите заштиту од праћења у п
 tracking-exceptions =
     .label = Изузеци…
     .accesskey = И
+tracking-change-block-list =
+    .label = Измени списак блокирања…
+    .accesskey = И
 
 ## Privacy Section - Permissions
 
 permissions-header = Дозволе
 permissions-location = Локација
+permissions-location-settings =
+    .label = Поставке…
+    .accesskey = л
 permissions-camera = Камера
+permissions-camera-settings =
+    .label = Поставке…
+    .accesskey = к
 permissions-microphone = Микрофон
+permissions-microphone-settings =
+    .label = Поставке…
+    .accesskey = м
+permissions-notification = Обавештења
+permissions-notification-settings =
+    .label = Поставке…
+    .accesskey = н
 permissions-notification-link = Сазнајте више
 permissions-notification-pause =
     .label = Паузирај обавештења док се { -brand-short-name } не рестартује
@@ -508,10 +530,16 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Изузеци
     .accesskey = И
+permissions-a11y-privacy-checkbox =
+    .label = Спречи приступ услугама приступачности мом прегледачу
+    .accesskey = а
 permissions-a11y-privacy-link = Сазнајте више
 
 ## Privacy Section - Data Collection
 
+collection-header = { -brand-short-name } сакупљање и коришћење података
+collection-description = Трудимо се да вам пружимо избор и да сакупљамо само оно што нам је потребно да градимо и побољшамо { -brand-short-name } за све. Увек ћемо питати за дозволу пре примања личних података.
+collection-privacy-notice = Обавештење о приватности
 collection-health-report =
     .label = Дозволи { -brand-short-name }-у да шаље техничке и интерактивне податке { -vendor-short-name }-и
     .accesskey = р
@@ -519,9 +547,14 @@ collection-health-report-link = Сазнајте више
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Слање података је онемогућено за ову конфигурацију за изградњу
+collection-browser-errors =
+    .label = Дозволи { -brand-short-name }-у да шаље извештаје о грешкама унутар прегледача (укључујући и поруке грешке) { -vendor-short-name }-и
+    .accesskey = Д
+collection-browser-errors-link = Сазнајте више
 collection-backlogged-crash-reports =
     .label = Дозволи { -brand-short-name }-у да шаље извештаје о рушењу у ваше име
     .accesskey = и
+collection-backlogged-crash-reports-link = Сазнајте више
 
 ## Privacy Section - Security
 ##
@@ -533,6 +566,7 @@ security-browsing-protection = Заштита од обманљивог садр
 security-enable-safe-browsing =
     .label = Блокирај опасан и обманљив садржај
     .accesskey = с
+security-enable-safe-browsing-link = Сазнајте више
 security-block-downloads =
     .label = Блокирај опасна преузимања
     .accesskey = п
@@ -553,3 +587,9 @@ certs-select-ask-option =
 certs-enable-ocsp =
     .label = Упит OCSP сервера да бисте проверили тренутну валидност сертификата
     .accesskey = л
+certs-view =
+    .label = Погледај сертификате…
+    .accesskey = с
+certs-devices =
+    .label = Безбедносни уређаји…
+    .accesskey = Б
