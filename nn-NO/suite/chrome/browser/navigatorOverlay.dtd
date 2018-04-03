@@ -61,10 +61,10 @@
 <!ENTITY historyCmd.label "Historikk">
 <!ENTITY historyCmd.accesskey "s">
 <!ENTITY history.commandKey "h">
-<!ENTITY recentTabs.label "Nyleg lukka faner">
+<!ENTITY recentTabs.label "Nyleg attlatne faner">
 <!ENTITY recentTabs.accesskey "N">
 <!ENTITY recentTabs.commandkey "t">
-<!ENTITY recentWindows.label "Nyleg lukka vindauge">
+<!ENTITY recentWindows.label "Nyleg attlatne vindauge">
 <!ENTITY recentWindows.accesskey "v">
 <!ENTITY recentWindows.commandkey "y">
 <!ENTITY historyRestoreLastSession.label "Bygg oppatt siste programøkt">

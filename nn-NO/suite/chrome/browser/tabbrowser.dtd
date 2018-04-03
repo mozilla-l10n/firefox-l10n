@@ -15,8 +15,8 @@
 <!ENTITY  reloadTab.accesskey         "O">
 <!ENTITY  bookmarkGroup.label    "Bokmerk denne gruppa av faner">
 <!ENTITY  bookmarkGroup.accesskey  "B">
-<!ENTITY  closeTabButton.tooltip   "Lukk denne fana">
+<!ENTITY  closeTabButton.tooltip   "Lat att denne fana">
 <!ENTITY  newTabButton.tooltip   "Opne ei ny fane">
 <!ENTITY  listAllTabs.tooltip    "List opp alle faner">
-<!ENTITY  undoCloseTab.label    "Angre lukking av fane">
+<!ENTITY  undoCloseTab.label    "Angre attlating av fane">
 <!ENTITY  undoCloseTab.accesskey  "U">

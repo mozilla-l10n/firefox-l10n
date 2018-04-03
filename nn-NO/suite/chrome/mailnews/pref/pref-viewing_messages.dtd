@@ -43,5 +43,5 @@
 <!ENTITY disableContent.accesskey         "B">
 <!ENTITY showCondensedAddresses.label     "Vis berre namnet for personar i adresseboka">
 <!ENTITY showCondensedAddresses.accesskey "V">
-<!ENTITY closeMsgWindowOnDelete.label     "Lukk meldingsvindauget når meldinga vert sletta">
+<!ENTITY closeMsgWindowOnDelete.label     "Lat att meldingsvindauget når meldinga vert sletta">
 <!ENTITY closeMsgWindowOnDelete.accesskey "L">
