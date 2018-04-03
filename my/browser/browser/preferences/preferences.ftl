@@ -485,11 +485,20 @@ security-enable-safe-browsing =
 security-block-downloads =
     .label = အန္တရာယ်ရှိသည့် ဆွဲယူထားသည့်ဖိုင်များကို တားဆီးပါ
     .accesskey = d
+security-block-uncommon-software =
+    .label = မလိုအပ်သော၊ ပုံမှန်မဟုတ်သော ဆော့ဖ်ဝဲလ်များ တွေ့ရှိပါက သတိပေးပါ
+    .accesskey = C
 
 ## Privacy Section - Certificates
 
 certs-header = အသိအမှတ်ပြုလက်မှတ်များ
 certs-personal-label = ဆာဗာမှ သင့်ကိုယ်ရေးထောက်ခံချက် တောင်းဆိုလာပါက
+certs-select-auto-option =
+    .label = တစ်ခုကို အလိုအလျောက် ရွေးပါ
+    .accesskey = S
+certs-select-ask-option =
+    .label = အကြိမ်တိုင်း မေးပါ
+    .accesskey = A
 certs-enable-ocsp =
     .label = လက်ရှိအထောက်အထားများ၏ ခိုင်လုံမှုကို အတည်ပြုရန် OSCP responder servers များကို ဆွဲထုတ်ပါ Q
     .accesskey = Q
