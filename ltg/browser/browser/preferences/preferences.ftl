@@ -451,6 +451,7 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Data Collection
 
+collection-health-report-link = Uzzynojit vairuok
 
 ## Privacy Section - Security
 ##
@@ -466,6 +467,7 @@ security-block-downloads =
 
 ## Privacy Section - Certificates
 
+certs-header = Sertifikati
 certs-enable-ocsp =
     .label = Query OCSP responder servers to confirm the current validity of certificates
     .accesskey = Q
