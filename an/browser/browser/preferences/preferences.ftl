@@ -385,10 +385,14 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = Privacidat d'o navegador
 
 ## Privacy Section - Forms
 
 forms-header = Formularios & Claus
+forms-remember-logins =
+    .label = Recordar los inicios y claus pa los puestos web
+    .accesskey = R
 forms-exceptions =
     .label = Excepcions…
     .accesskey = x
@@ -405,6 +409,7 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Historial
+history-remember-description = { -brand-short-name } recordará la tuya navegación, descargas, formularios y historial de busqueda.
 history-dontremember-description = O { -brand-short-name } ferá servir a mesma configuración que en a navegación privada, y no remerará garra dato d'o suyo historial entre que navega por a Web.
 history-private-browsing-permanent =
     .label = Emplegar siempre o modo de navegación privada
@@ -421,19 +426,47 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Configuración…
     .accesskey = g
+history-clear-button =
+    .label = Borrar l'historial…
+    .accesskey = h
 
 ## Privacy Section - Site Data
 
+sitedata-header = Cookies y datos de puestos web
+sitedata-learn-more = Saber-ne mas
+sitedata-accept-cookies-option =
+    .label = Acceptar las cookies y datos d'o puesto dende pachinas web (recomendau)
+    .accesskey = A
+sitedata-block-cookies-option =
+    .label = Blocar cookies y datos d'o puest (puede fer que bellas webs no funcionen)
+    .accesskey = B
+sitedata-keep-until = Alzar dica
+    .accesskey = u
+sitedata-accept-third-party-desc = Acceptar cookies de tercers y datos d'o puesto
+    .accesskey = t
+sitedata-accept-third-party-always-option =
+    .label = Siempre
 sitedata-accept-third-party-visited-option =
     .label = D'as visitadas
 sitedata-accept-third-party-never-option =
     .label = Nunca
+sitedata-clear =
+    .label = Borrar los datos…
+    .accesskey = r
+sitedata-settings =
+    .label = Chestionar datos…
+    .accesskey = C
 sitedata-cookies-exceptions =
     .label = Excepcions…
     .accesskey = E
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Barra d'adrezas
+addressbar-suggest = Quan s'use la barra d'adrezas, sucherir
+addressbar-locbar-history-option =
+    .label = Historial de navegación
+    .accesskey = H
 addressbar-locbar-bookmarks-option =
     .label = Marcapachinas
     .accesskey = M
@@ -445,6 +478,8 @@ addressbar-suggestions-settings = Cam&biar las preferencias de sucherencias en m
 ## Privacy Section - Tracking
 
 tracking-header = Protección contra Seguimiento
+tracking-description = La protección contra seguimiento bloca los trackers en linia que replegan los tuyos daots de navegación en diferents puestos web. <a>Conoixe mas sobre la Protección contra seguimiento y la tuya privacidat</a>
+tracking-mode-label = Usar la protección contra seguimiento pa blocar los trackers conoixius
 tracking-mode-always =
     .label = Siempre
     .accesskey = S
@@ -454,25 +489,77 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Nunca
     .accesskey = N
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Usa la Protección contra Seguimiento en a Navegación Privada pa blocar programas de seguimiento conoixius
+    .accesskey = v
 tracking-exceptions =
     .label = Excepcions…
     .accesskey = x
+tracking-change-block-list =
+    .label = Cambiar la Lista de Bloqueyo…
+    .accesskey = C
 
 ## Privacy Section - Permissions
 
+permissions-header = Permisos
+permissions-location = Puesto
+permissions-location-settings =
+    .label = Achustes…
+    .accesskey = t
+permissions-camera = Camara
+permissions-camera-settings =
+    .label = Achustes…
+    .accesskey = t
+permissions-microphone = Microfono
+permissions-microphone-settings =
+    .label = Achustes…
+    .accesskey = t
 permissions-notification = Notificacions
+permissions-notification-settings =
+    .label = Achustes…
+    .accesskey = t
+permissions-notification-link = Saber-ne mas
+permissions-notification-pause =
+    .label = Notificacions de pausa dica que { -brand-short-name } se reinicie
+    .accesskey = n
 permissions-block-popups =
     .label = Blocar finestras emerchents
     .accesskey = B
 permissions-block-popups-exceptions =
     .label = Excepcions…
     .accesskey = E
+permissions-addon-install-warning =
+    .label = Alvertir-te quan bell puesto web mire d'instalar complementos
+    .accesskey = v
 permissions-addon-exceptions =
     .label = Excepcions…
     .accesskey = E
+permissions-a11y-privacy-checkbox =
+    .label = Privar que los servicios d'accesibilidat accedan a lo tuyo navegador
+    .accesskey = a
+permissions-a11y-privacy-link = Saber-ne mas
 
 ## Privacy Section - Data Collection
 
+collection-header = Replega de datos y uso de { -brand-short-name }
+collection-description = Nos esforzamos pa dar-te opcions y replegar nomás lo que necesitamos pa ofrir y amillorar  { -brand-short-name } pa totz. Siempre demandamos permiso antes de recibir información personal.
+collection-privacy-notice = Nota sobre privacidat
+collection-health-report =
+    .label = Permitir que { -brand-short-name } ninvie datos tecnicos y d'interacción ta { -vendor-short-name }
+    .accesskey = r
+collection-health-report-link = Saber-ne mas
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Lo reporte de datos ye desactivau en esta configuración de programa
+collection-browser-errors =
+    .label = Permitir que { -brand-short-name } ninvie reportes d'error d'o navegador (incluyindo mensaches d'error) ta { -vendor-short-name }
+    .accesskey = b
+collection-browser-errors-link = Saber-ne mas
+collection-backlogged-crash-reports =
+    .label = Permitir que { -brand-short-name } ninvie de parte suya los reportes de fallos rechistraus previament
+    .accesskey = c
+collection-backlogged-crash-reports-link = Saber-ne mas
 
 ## Privacy Section - Security
 ##
@@ -480,9 +567,11 @@ permissions-addon-exceptions =
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Seguranza
+security-browsing-protection = Protección contra los contenius enganyosos y los programas periglosos
 security-enable-safe-browsing =
     .label = Blocar lo conteniu perigloso y malicioso
     .accesskey = B
+security-enable-safe-browsing-link = Saber-ne mas
 security-block-downloads =
     .label = Blocar las descargas periglosas
     .accesskey = d
@@ -503,3 +592,9 @@ certs-select-ask-option =
 certs-enable-ocsp =
     .label = Consultar a os servidors respondedors OCSP ta confirmar a valideza actual d'os certificaus
     .accesskey = u
+certs-view =
+    .label = Veyer los certificaus…
+    .accesskey = C
+certs-devices =
+    .label = Dispositivos de seguranza…
+    .accesskey = D
