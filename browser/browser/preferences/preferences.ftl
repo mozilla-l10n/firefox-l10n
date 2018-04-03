@@ -348,3 +348,53 @@ containers-preferences-button =
     .label = ਮੇਰੀ ਪਸੰਦ
 containers-remove-button =
     .label = ਹਟਾਓ
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+
+## Privacy Section - History
+
+history-header = ਅਤੀਤ
+history-private-browsing-permanent =
+    .label = ਹਮੇਸ਼ਾ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਮੋਡ ਹੀ ਵਰਤੋਂ
+    .accesskey = p
+history-remember-option =
+    .label = ਮੇਰੇ ਬਰਾਊਜ਼ ਕਰਨ ਅਤੇ ਡਾਊਨਲੋਡ ਅਤੀਤ ਨੂੰ ਯਾਦ ਰੱਖੋ
+    .accesskey = b
+
+## Privacy Section - Site Data
+
+sitedata-accept-third-party-always-option =
+    .label = ਹਮੇਸ਼ਾ
+sitedata-accept-third-party-visited-option =
+    .label = ਖੋਲ੍ਹੀਆਂ ਗਈਆਂ ਤੋਂ ਹੀ
+sitedata-accept-third-party-never-option =
+    .label = ਕਦੇ ਨਹੀਂ
+sitedata-cookies-exceptions =
+    .label = ਛੋਟ…
+    .accesskey = E
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+
+## Privacy Section - Data Collection
+
+collection-health-report-link = ਹੋਰ ਜਾਣੋ
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
