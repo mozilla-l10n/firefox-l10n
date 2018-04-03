@@ -360,6 +360,10 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-always-option =
+    .label = ఎల్లప్పుడూ
+sitedata-accept-third-party-never-option =
+    .label = ఎప్పటికీకాదు
 
 ## Privacy Section - Address Bar
 
