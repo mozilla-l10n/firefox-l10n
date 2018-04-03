@@ -383,3 +383,109 @@ containers-preferences-button =
     .label = Настройки
 containers-remove-button =
     .label = Удалить
+
+## Privacy Section
+
+privacy-header = Приватность браузера
+
+## Privacy Section - Forms
+
+forms-remember-logins =
+    .label = Запоминать логины и пароли для веб-сайтов
+    .accesskey = а
+
+## Privacy Section - History
+
+history-remember-description = { -brand-short-name } будет помнить историю посещений, загрузок, поиска и сохранять данные форм.
+history-clear-button =
+    .label = Удалить историю…
+    .accesskey = л
+
+## Privacy Section - Site Data
+
+sitedata-header = Куки и данные сайтов
+sitedata-accept-cookies-option =
+    .label = Принимать куки и данные сайтов с веб-сайтов (рекомендуется)
+    .accesskey = и
+sitedata-block-cookies-option =
+    .label = Блокировать куки и данные сайтов (может нарушить работу веб-сайтов)
+    .accesskey = л
+sitedata-keep-until = Хранить куки
+    .accesskey = ь
+sitedata-accept-third-party-desc = Принимать куки и данные сайтов со сторонних веб-сайтов
+    .accesskey = н
+sitedata-clear =
+    .label = Удалить данные…
+    .accesskey = а
+sitedata-settings =
+    .label = Управление данными…
+    .accesskey = ы
+
+## Privacy Section - Address Bar
+
+addressbar-header = Панель адреса
+addressbar-suggest = При использовании панели адреса предлагать ссылки
+addressbar-locbar-history-option =
+    .label = из журнала посещений
+    .accesskey = ж
+
+## Privacy Section - Tracking
+
+tracking-description = Защита от отслеживания блокирует онлайн-трекеры, которые собирают данные вашего веб-сёрфинга на различных веб-сайтах. <a>Узнайте больше о защите от отслеживания и вашей приватности</a>
+tracking-mode-label = Использовать защиту от отслеживания для блокировки известных трекеров
+tracking-change-block-list =
+    .label = Сменить список блокировки…
+    .accesskey = м
+
+## Privacy Section - Permissions
+
+permissions-header = Разрешения
+permissions-location-settings =
+    .label = Параметры…
+    .accesskey = м
+permissions-microphone-settings =
+    .label = Параметры…
+    .accesskey = ы
+permissions-notification-settings =
+    .label = Параметры…
+    .accesskey = е
+permissions-addon-install-warning =
+    .label = Предупреждать при попытке веб-сайтов установить дополнения
+    .accesskey = е
+permissions-a11y-privacy-checkbox =
+    .label = Запретить службам поддержки доступности доступ к вашему браузеру
+    .accesskey = е
+permissions-a11y-privacy-link = Подробнее
+
+## Privacy Section - Data Collection
+
+collection-header = Сбор и использование данных { -brand-short-name }
+collection-description = Мы стремимся предоставить вам выбор и собирать только то, что нам нужно, для выпуска и улучшения { -brand-short-name } для всех и каждого. Мы всегда спрашиваем разрешения перед получением личной информации.
+collection-privacy-notice = Уведомление о приватности
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Для этой конфигурации сборки отправка данных отключена
+collection-browser-errors =
+    .label = Разрешить { -brand-short-name } отправлять сообщения об ошибках браузера (в том числе текст ошибок) в { -vendor-short-name }
+    .accesskey = з
+collection-browser-errors-link = Подробнее
+collection-backlogged-crash-reports =
+    .label = Разрешить { -brand-short-name } отправлять от вашего имени накопившиеся сообщения о падении
+    .accesskey = ш
+collection-backlogged-crash-reports-link = Подробнее
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+security-enable-safe-browsing-link = Подробнее
+
+## Privacy Section - Certificates
+
+certs-view =
+    .label = Просмотр сертификатов…
+    .accesskey = м
+certs-devices =
+    .label = Устройства защиты…
+    .accesskey = т
