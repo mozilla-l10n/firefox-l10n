@@ -6,8 +6,8 @@
 <!ENTITY editBookmarkOverlay.name.accesskey                  "N">
 <!ENTITY editBookmarkOverlay.location.label                  "Adresse">
 <!ENTITY editBookmarkOverlay.location.accesskey              "d">
-<!ENTITY editBookmarkOverlay.feedLocation.label              "Kanaladresse:">
-<!ENTITY editBookmarkOverlay.feedLocation.accesskey          "K">
+<!ENTITY editBookmarkOverlay.feedLocation.label              "RSS-kjeldeadresse:">
+<!ENTITY editBookmarkOverlay.feedLocation.accesskey          "k">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Sideplassering:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "e">
 <!ENTITY editBookmarkOverlay.folder.label                    "Mappe:">
