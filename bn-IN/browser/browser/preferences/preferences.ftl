@@ -347,9 +347,14 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = ব্রাউজারের গোপনীয়তা
 
 ## Privacy Section - Forms
 
+forms-header = ফর্মগুলি & পাসওয়ার্ডগুলি
+forms-remember-logins =
+    .label = ওয়েবসাইটের লগইনগুলি ও পার্সওয়ার্ডগুলিকে মনে রাখবে
+    .accesskey = R
 forms-exceptions =
     .label = ব্যতিক্রম...
     .accesskey = ব
@@ -385,6 +390,9 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = আরো শিখুন
+sitedata-keep-until = সংরক্ষণের সময়কাল
+    .accesskey = u
 sitedata-accept-third-party-always-option =
     .label = সর্বদা
 sitedata-accept-third-party-visited-option =
@@ -397,15 +405,22 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-header = ঠিকানা বার
+addressbar-suggest = ঠিকানা বার ব্যবহারের সময় নিম্নলিখিত প্রস্তাবিত তথ্য প্রদর্শন করা হবে
+addressbar-locbar-history-option =
+    .label = পূর্ববর্তী ব্রাউজ সংক্রান্ত তথ্য
+    .accesskey = H
 addressbar-locbar-bookmarks-option =
     .label = বুকমার্কসমূহ
     .accesskey = k
 addressbar-locbar-openpage-option =
     .label = ট্যাব খুলুন
     .accesskey = O
+addressbar-suggestions-settings = সার্চ ইঞ্জিনের পরিবর্তনের পছন্দসমূহ পরামর্শের জন্য
 
 ## Privacy Section - Tracking
 
+tracking-header = ট্র্যাকিং সুরক্ষা
 tracking-mode-always =
     .label = সর্বদা
     .accesskey = y
@@ -415,31 +430,79 @@ tracking-mode-private =
 tracking-mode-never =
     .label = কখনই নয়
     .accesskey = N
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = ব্যক্তিগত ব্রাউজিং এ জানা ট্র্যাকার ব্লক করতে ট্র্যাকিং সুরক্ষা ব্যবহার করুন
+    .accesskey = v
 tracking-exceptions =
     .label = ব্যতিক্রম...
     .accesskey = x
+tracking-change-block-list =
+    .label = ব্লক তালিকা পরিবর্তন করুন…
+    .accesskey = C
 
 ## Privacy Section - Permissions
 
+permissions-header = অনুমতি
+permissions-location = অবস্থান
+permissions-location-settings =
+    .label = সেটিংস…
+    .accesskey = t
+permissions-camera = ক্যামেরা
+permissions-camera-settings =
+    .label = সেটিংস…
+    .accesskey = t
+permissions-microphone = মাইক্রোফোন
+permissions-microphone-settings =
+    .label = সেটিংস…
+    .accesskey = t
+permissions-notification = সূচনা
+permissions-notification-settings =
+    .label = সেটিংস…
+    .accesskey = t
+permissions-notification-link = আরো জানুন
+permissions-notification-pause =
+    .label = বিজ্ঞপ্তি বন্ধ রাখো যতক্ষণ না { -brand-short-name } পুনরায় শুরু হয়
+    .accesskey = n
 permissions-block-popups =
     .label = পপ-আপ উইন্ডো প্রদর্শন প্রতিরোধ করা হবে
     .accesskey = B
+permissions-block-popups-exceptions =
+    .label = ব্যতিক্রম…
+    .accesskey = E
+permissions-addon-install-warning =
+    .label = ওয়েবসাইট দ্বারা অতিরিক্ত সামগ্রী ইনস্টল করার প্রচেষ্টাকালে আপনাকে সতর্ক করা হবে
+    .accesskey = W
 permissions-addon-exceptions =
     .label = ব্যতিক্রম...
     .accesskey = E
+permissions-a11y-privacy-checkbox =
+    .label = আপনার ব্রাউজারে প্রবেশ থেকে অ্যাক্সেসযোগ্য পরিষেবাগুলিকে প্রতিরোধ করুন
+    .accesskey = a
+permissions-a11y-privacy-link = আরও জানুন
 
 ## Privacy Section - Data Collection
 
+collection-header = { -brand-short-name } তথ্য সংগ্রহ এবং ব্যবহার
+collection-description = সকলের জন্যে আমরা আপনাকে পছন্দগুলি প্রদান এবং শুধুমাত্র আমরা { -brand-short-name } সরবরাহ এবং উন্নত করতে প্রয়োজন কি সংগ্রহ করতে চেষ্টা করি। ব্যক্তিগত তথ্য পাওয়ার আগে আমরা সবসময় অনুমতি চাই।
+collection-privacy-notice = গোপনীয়তা সংক্রান্ত নীতি
 collection-health-report-link = আরও জানুন
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = এই বিল্ড কনফিগারেশনের জন্যে তথ্য রিপোর্ট করা নিস্ক্রিয় করা হয়েছে
+collection-backlogged-crash-reports-link = আরও জানুন
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = নিরাপত্তা
+security-browsing-protection = প্রতারণামূলক সামগ্রী এবং বিপজ্জনক সফ্টওয়্যারের সুরক্ষা
 security-enable-safe-browsing =
     .label = বিপজ্জনক এবং প্রতারণামূলক কন্টেন্ট ব্লক করুন
     .accesskey = B
+security-enable-safe-browsing-link = আরও জানুন
 security-block-downloads =
     .label = বিপজ্জনক ডাউনলোড ব্লক করুন
     .accesskey = d
@@ -447,6 +510,19 @@ security-block-downloads =
 ## Privacy Section - Certificates
 
 certs-header = সার্টিফিকেট
+certs-personal-label = যখন কোনো সার্ভার আপনার ব্যক্তিগত সার্টিফিকেট অনুরোধ করে
+certs-select-auto-option =
+    .label = নিজে থেকে একটি সিলেক্ট করুন
+    .accesskey = S
+certs-select-ask-option =
+    .label = প্রত্যেকবার আপনাকে জিজ্ঞেস করবে
+    .accesskey = A
 certs-enable-ocsp =
     .label = কোয়েরি OCSP রিস্পন্ডার সার্ভার বর্তমান শংসাপত্রের বৈধতা নিশ্চিত করে
     .accesskey = Q
+certs-view =
+    .label = সার্টিফিকেট দেখুন…
+    .accesskey = C
+certs-devices =
+    .label = নিরাপত্তা ডিভাইস…
+    .accesskey = D
