@@ -382,3 +382,78 @@ containers-preferences-button =
     .label = Hobespenak
 containers-remove-button =
     .label = Kendu
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = Salbuespenak…
+    .accesskey = n
+forms-master-pw-use =
+    .label = Erabili pasahitz nagusia
+    .accesskey = E
+forms-master-pw-change =
+    .label = Aldatu pasahitz nagusia…
+    .accesskey = A
+
+## Privacy Section - History
+
+history-dontremember-description = { -brand-short-name }(e)k nabigatze pribatuaren ezarpen berak erabiliko ditu, eta ez du gogoratuko historia webean nabigatzen ari zarenean.
+history-private-browsing-permanent =
+    .label = Erabili beti nabigatze pribatuko modua
+    .accesskey = a
+history-remember-option =
+    .label = Gogoratu nire nabigazioaren eta deskargen historia
+    .accesskey = G
+history-remember-search-option =
+    .label = Gogoratu bilaketa- eta inprimaki-historia
+    .accesskey = n
+history-clear-on-close-option =
+    .label = Garbitu historia { -brand-short-name } ixtean
+    .accesskey = x
+history-clear-on-close-settings =
+    .label = Ezarpenak…
+    .accesskey = r
+
+## Privacy Section - Site Data
+
+sitedata-accept-third-party-visited-option =
+    .label = Bisitatutako guneetatik
+sitedata-accept-third-party-never-option =
+    .label = Inoiz ez
+sitedata-cookies-exceptions =
+    .label = Salbuespenak…
+    .accesskey = S
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-block-popups =
+    .label = Blokeatu pop-up leihoak
+    .accesskey = B
+permissions-addon-exceptions =
+    .label = Salbuespenak…
+    .accesskey = S
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
+certs-header = Ziurtagiriak
+certs-enable-ocsp =
+    .label = Galdetu OCSP erantzule-zerbitzariei ziurtagiriak baliozkoak diren egiaztatzeko
+    .accesskey = G
