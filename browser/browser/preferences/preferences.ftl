@@ -383,9 +383,23 @@ containers-remove-button =
 
 ## Privacy Section - Forms
 
+forms-header = ফরম ও পাসওয়ার্ড
+forms-exceptions =
+    .label = ব্যতিক্রম...
+    .accesskey = x
+forms-saved-logins =
+    .label = সংরক্ষিত লগইন L…
+    .accesskey = L
+forms-master-pw-use =
+    .label = মাস্টার পাসওয়ার্ড ব্যবহার করা হবে
+    .accesskey = U
+forms-master-pw-change =
+    .label = মাস্টার পাসওয়ার্ড পরিবর্তন...
+    .accesskey = M
 
 ## Privacy Section - History
 
+history-header = ইতিহাস
 history-dontremember-description = { -brand-short-name } একান্ত ব্রাউজিং এর মতোই সেটিং ব্যবহার করবে, এবং আপনার ব্রাউজিং এর কোন তথ্য সংরক্ষণ করবে না।
 history-private-browsing-permanent =
     .label = সবসময় একান্ত ব্রাউজিং মোড ব্যবহার করুন p
@@ -393,9 +407,21 @@ history-private-browsing-permanent =
 history-remember-option =
     .label = আমার ব্রাউজিং এবং ডাউনলোড ইতিহাস মনে রাখুন b
     .accesskey = b
+history-remember-search-option =
+    .label = অনুসন্ধান ও ফরমের ইতিহাস মনে রাখা হবে
+    .accesskey = f
+history-clear-on-close-option =
+    .label = { -brand-short-name } বন্ধ করার সময় ইতিহাস মুছে ফেলা হবে
+    .accesskey = r
+history-clear-on-close-settings =
+    .label = সেটিং…
+    .accesskey = t
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = আরও জানুন
+sitedata-accept-third-party-always-option =
+    .label = সর্বদা
 sitedata-accept-third-party-visited-option =
     .label = প্রদর্শিত হতে
 sitedata-accept-third-party-never-option =
@@ -406,25 +432,68 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-bookmarks-option =
+    .label = বুকমার্কসমূহ k
+    .accesskey = k
+addressbar-locbar-openpage-option =
+    .label = ট্যাব খুলুন O
+    .accesskey = O
+addressbar-suggestions-settings = অনুসন্ধান ইঞ্জিন পরামর্শের জন্য পছন্দসমূহ পরিবর্তন করুন
 
 ## Privacy Section - Tracking
 
+tracking-header = ট্রাকিং সুরক্ষা
+tracking-mode-private =
+    .label = শুধুমাত্র ব্যক্তিগত ব্রাউজিং উইন্ডোতে
+    .accesskey = l
+tracking-mode-never =
+    .label = কখনো নয় N
+    .accesskey = N
+tracking-exceptions =
+    .label = ব্যতিক্রম… E
+    .accesskey = E
 
 ## Privacy Section - Permissions
 
+permissions-header = অনুমতি
 permissions-block-popups =
     .label = পপ-আপ উইন্ডো ব্লক করা হবে B
     .accesskey = B
+permissions-addon-exceptions =
+    .label = ব্যতিক্রম...
+    .accesskey = E
 
 ## Privacy Section - Data Collection
 
+collection-health-report-link = আরও জানুন
+collection-backlogged-crash-reports-link = আরও জানুন
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = নিরাপত্তা
+security-enable-safe-browsing =
+    .label = লুকানো এবং ক্ষতিকর কনটেন্ট ব্লক করো
+    .accesskey = B
+security-block-downloads =
+    .label = ক্ষতিকর ডাউনলোড ব্লক
+    .accesskey = d
+security-block-uncommon-software =
+    .label = আপনাকে অপ্রয়োজনীয় ও ব্যতিক্রমী সফটওয়্যার সম্পর্কে সতর্ক করা হবে
+    .accesskey = c
 
 ## Privacy Section - Certificates
 
 certs-header = সনদপত্র
+certs-personal-label = যখন কোনো সার্ভার আপনার ব্যক্তিগত সার্টিফিকেট অনুরোধ করে
+certs-select-auto-option =
+    .label = স্বয়ংক্রিয়ভাবে নির্বাচন করা হবে
+    .accesskey = S
+certs-select-ask-option =
+    .label = আপনাকে প্রতিবার জিজ্ঞেস করা
+    .accesskey = A
+certs-enable-ocsp =
+    .label = ইস্যুকারীর OCSP উত্তরের রিপোর্ট সার্টিফিকেটের যোগ্যতা বাতিল করা হয়েছে।
+    .accesskey = Q
