@@ -410,3 +410,4 @@ sitedata-accept-third-party-never-option =
 
 ## Privacy Section - Certificates
 
+certs-header = အသိအမှတ်ပြုလက်မှတ်များ
