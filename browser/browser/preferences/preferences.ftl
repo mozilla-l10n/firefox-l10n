@@ -432,21 +432,36 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = إعدادات…
     .accesskey = د
+history-clear-button =
+    .label = امسح التأريخ…
+    .accesskey = ت
 
 ## Privacy Section - Site Data
 
+sitedata-header = الكعكات و بيانات المواقع
 sitedata-learn-more = اطّلع على المزيد
 sitedata-accept-cookies-option =
     .label = اقبل الكعكات و بيانات المواقع من المواقع (مستحسن)
     .accesskey = ق
+sitedata-block-cookies-option =
+    .label = احجب الكعكات و بيانات المواقع (قد يتسبب بعطب المواقع)
+    .accesskey = ح
 sitedata-keep-until = احتفظ بها حتى
     .accesskey = ظ
+sitedata-accept-third-party-desc = اسمح بكعكات و بيانات موقع الطرف الثالث
+    .accesskey = ط
 sitedata-accept-third-party-always-option =
     .label = دائمًا
 sitedata-accept-third-party-visited-option =
     .label = من المواقع المُزارة
 sitedata-accept-third-party-never-option =
     .label = أبدًا
+sitedata-clear =
+    .label = امسح البيانات…
+    .accesskey = س
+sitedata-settings =
+    .label = أدِر البيانات…
+    .accesskey = د
 sitedata-cookies-exceptions =
     .label = الاستثناءات…
     .accesskey = س
@@ -494,7 +509,26 @@ tracking-change-block-list =
 ## Privacy Section - Permissions
 
 permissions-header = الصلاحيات
+permissions-location = المكان
+permissions-location-settings =
+    .label = الإعدادات…
+    .accesskey = ع
+permissions-camera = الكمرة
+permissions-camera-settings =
+    .label = الإعدادات…
+    .accesskey = ع
+permissions-microphone = الميكروفون
+permissions-microphone-settings =
+    .label = الإعدادات…
+    .accesskey = ع
 permissions-notification = التنبيهات
+permissions-notification-settings =
+    .label = الإعدادات…
+    .accesskey = ت
+permissions-notification-link = اطّلع على المزيد
+permissions-notification-pause =
+    .label = ألبِث التنبيهات حتى يُعاد تشغيل { -brand-short-name }
+    .accesskey = ث
 permissions-block-popups =
     .label = احجب النوافذ المنبثقة
     .accesskey = ذ
@@ -517,10 +551,20 @@ permissions-a11y-privacy-link = اطّلع على المزيد
 collection-header = جمع { -brand-short-name } للبيانات و استخدامها
 collection-description = نبذل جهدنا لإعطائك الخيار و جمع ما نحتاجه فقط لتحسين { -brand-short-name }. نطلب الإذن دائمًا قبل استقبال أي معلومات شخصية.
 collection-privacy-notice = تنويه الخصوصية
+collection-health-report =
+    .label = اسمح أن يُرسل { -brand-short-name } بيانات تقنية و بيانات التفاعل إلى موزيلا
+    .accesskey = ح
 collection-health-report-link = اطّلع على المزيد
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = الإبلاغ عن البيانات معطّل في إعدادات البناء
+collection-browser-errors =
+    .label = اسمح بأن يُرسل { -brand-short-name } تقارير بأخطاء المتصفح (بما في ذلك رسائل الأخطاء) إلى موزيلا.
+    .accesskey = خ
+collection-browser-errors-link = اطّلع على المزيد
+collection-backlogged-crash-reports =
+    .label = اسمح بأن يُرسل { -brand-short-name } بلاغات الانهيار المعلقة نيابة عنك
+    .accesskey = ع
 collection-backlogged-crash-reports-link = اطّلع على المزيد
 
 ## Privacy Section - Security
