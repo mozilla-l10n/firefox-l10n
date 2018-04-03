@@ -373,3 +373,4 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Certificates
 
+certs-header = ಪ್ರಮಾಣಪತ್ರಗಳು
