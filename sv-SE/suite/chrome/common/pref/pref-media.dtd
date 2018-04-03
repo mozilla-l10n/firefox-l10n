@@ -5,7 +5,19 @@
 <!-- extracted from content/pref-media.xul -->
 
 <!-- LOCALIZATION NOTE : FILE Media management prefs -->
-<!ENTITY pref.media.title                  "Media">
-<!ENTITY mediaHTML5Preferences.label       "Ljud/Video">
-<!ENTITY allowMediaAutoplay.label          "Aktivera automatisk uppspelning av HTML5-innehåll">
-<!ENTITY allowMediaAutoplay.accesskey      "A">
+<!ENTITY pref.media.title               "Media">
+<!ENTITY mediaHTML5Preferences.label    "Ljud/Video">
+<!ENTITY allowMediaAutoplay.label       "Aktivera automatisk uppspelning av HTML5-innehåll">
+<!ENTITY allowMediaAutoplay.accesskey   "A">
+
+<!ENTITY enableDrmMedia.label           "Aktivera DRM (kopieringsspärr) för">
+<!ENTITY enableEmeForSuite.label        "Tredjepartsmoduler för innehållsdekryptering">
+<!ENTITY enableEmeForSuite.accesskey    "i">
+
+<!ENTITY animLoopingTitle.label         "Animeringssekvensen i animerade bilder ska visas">
+<!ENTITY animLoopAsSpecified.label      "Så många gånger som anges i bilden">
+<!ENTITY animLoopAsSpecified.accesskey  "m">
+<!ENTITY animLoopOnce.label             "En gång">
+<!ENTITY animLoopOnce.accesskey         "E">
+<!ENTITY animLoopNever.label            "Aldrig">
+<!ENTITY animLoopNever.accesskey        "A">
