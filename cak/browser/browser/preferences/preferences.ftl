@@ -378,3 +378,157 @@ containers-preferences-button =
     .label = Taq cha'oj
 containers-remove-button =
     .label = Tiyuj
+
+## Privacy Section
+
+privacy-header = Richinanem Okik'amaya'l
+
+## Privacy Section - Forms
+
+forms-header = Nojwuj & Ewan taq Tzij{ " " }
+forms-remember-logins =
+    .label = Kerunataj ri kitikirib'al taq molojri'ïl chuqa' ri ewan taq kitzij taq ruxaq ajk'amaya'l
+    .accesskey = K
+forms-exceptions =
+    .label = Taq man relik ta…
+    .accesskey = e
+forms-saved-logins =
+    .label = Yakon kitikirib'al molojri'ïl…
+    .accesskey = k
+forms-master-pw-use =
+    .label = Tokisäx ri nimaläj ewan tzij
+    .accesskey = T
+forms-master-pw-change =
+    .label = Tik'ex nimaläj ewan tzij…
+    .accesskey = n
+
+## Privacy Section - History
+
+history-header = Natab'äl
+history-dontremember-description = { -brand-short-name } xtrokisaj ri junam runuk'ulem achi'el pa ichinan okem pa k'amaya'l, chuqa' man xkerunataj ta ri taq rutzij natab'äl toq tajin nok pa ajk'amaya'l.
+history-private-browsing-permanent =
+    .label = Junelïk tokisäx pa rub'eyal ichinan okem pa k'amaya'l
+    .accesskey = i
+history-remember-option =
+    .label = Tinatäx ri nunatab'al richin taq qasanïk chuqa' okik'amaya'l
+    .accesskey = T
+history-remember-search-option =
+    .label = Tinatäx ri runatab'al kanob'äl chuqa' taq nojwuj
+    .accesskey = n
+history-clear-on-close-option =
+    .label = Tijoxq'ïx ri natab'äll toq nitz'apïx { -brand-short-name }
+    .accesskey = j
+history-clear-on-close-settings =
+    .label = Nuk'ulem…
+    .accesskey = N
+
+## Privacy Section - Site Data
+
+sitedata-learn-more = Tetamäx ch'aqa' chik
+sitedata-accept-third-party-always-option =
+    .label = Junelïk
+sitedata-accept-third-party-visited-option =
+    .label = Etz'eton
+sitedata-accept-third-party-never-option =
+    .label = Majub'ey
+sitedata-cookies-exceptions =
+    .label = Taq man relik ta…
+    .accesskey = r
+
+## Privacy Section - Address Bar
+
+addressbar-header = Kikajtz'ik Ochochib'äl
+addressbar-suggest = Jampe' toq nawokisaj ri rukajtz'ik ochochib'äl, tichilab'ëx
+addressbar-locbar-history-option =
+    .label = Runatab'al okem pa k'amaya'l
+    .accesskey = n
+addressbar-locbar-bookmarks-option =
+    .label = Taq etal
+    .accesskey = e
+addressbar-locbar-openpage-option =
+    .label = Kejaq taq ruwi'
+    .accesskey = K
+addressbar-suggestions-settings = Kek'ex ri taq kajowab'al ri taq kichilab'enik kisamajinel taq kanob'äl
+
+## Privacy Section - Tracking
+
+tracking-header = Chajinïk chuwäch Ojqanïk
+tracking-mode-always =
+    .label = Junelïk
+    .accesskey = e
+tracking-mode-private =
+    .label = Xa xe pa taq ichinan tzuwäch
+    .accesskey = x
+tracking-mode-never =
+    .label = Majub'ey
+    .accesskey = M
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Tokisäx ri Chajinïk chuwäch Ojqanïk pan ichinan okem pa k'amaya'l richin yeq'at ri kanonela' etaman kiwäch
+    .accesskey = v
+tracking-exceptions =
+    .label = Taq man relik ta…
+    .accesskey = e
+tracking-change-block-list =
+    .label = Tijal Rucholajem q'atoj…
+    .accesskey = T
+
+## Privacy Section - Permissions
+
+permissions-header = Taq ya'oj q'ij
+permissions-block-popups =
+    .label = Keq'at elenel taq tzuwäch
+    .accesskey = K
+permissions-addon-install-warning =
+    .label = Taya' rutzijol jampe' toq ri ruxaq ajk'amaya'l nrajo' yeruyäk taq tz'aqat
+    .accesskey = T
+permissions-addon-exceptions =
+    .label = Taq man relik ta…
+    .accesskey = r
+
+## Privacy Section - Data Collection
+
+collection-header = { -brand-short-name } Kimolik chuqa' Kokisaxik taq Tzij
+collection-description = Niqatïj qaq'ij richin yeqasüj taq cha'oj chawe chuqa' yeqamöl xa xe ri niqajo' niqaq'axaj chawe chuqa' ri niqutzilaj { -brand-short-name } kichin konojel. Junelïk naqak'utuj qij chuwäch niqak'ül ri awetamab'al.
+collection-privacy-notice = Rutzijol Ichinanem
+collection-health-report-link = Tetamäx ch'aqa' chik
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Chupül ri kitzijol taq tzij richin nib'an kinuk'ulem re taq alk'walaxinem re'
+collection-backlogged-crash-reports-link = Tetamäx ch'aqa' chik
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+security-header = Jikomal
+security-enable-safe-browsing =
+    .label = Keq'at k'ayew chuqa' q'olonel rupam
+    .accesskey = K
+security-block-downloads =
+    .label = Keq'at k'ayew taq qasanïk
+    .accesskey = k
+security-block-uncommon-software =
+    .label = Taya' pe rutzijol pa ruwi' ri itzel chuqa' man relik ta taq kema'
+    .accesskey = n
+
+## Privacy Section - Certificates
+
+certs-header = Taq ruwujil b'i'aj
+certs-personal-label = Toq jun ruk'u'x samaj nuk'utuj pe ri ruwujil ab'i'
+certs-select-auto-option =
+    .label = Pa ruyonil ticha' jun
+    .accesskey = S
+certs-select-ask-option =
+    .label = Junelïk tik'utüx pe
+    .accesskey = J
+certs-enable-ocsp =
+    .label = Rutzolixik rutzij ri OCSP peyon tzij, ri ruk'u'x taq samaj nikijikib'a' ri kutzil ri taq ruwujil rub'i'
+    .accesskey = p
+certs-view =
+    .label = Titz'et taq Ruwujil b'i'aj…
+    .accesskey = R
+certs-devices =
+    .label = Kokisaxel taq jikomal…
+    .accesskey = K
