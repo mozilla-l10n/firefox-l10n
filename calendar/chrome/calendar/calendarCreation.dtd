@@ -20,3 +20,22 @@
 
 <!ENTITY finishpage.shortdescription  "Kalender laga" >
 <!ENTITY finishpage.longdescription   "Kalenderen er laga." >
+
+<!-- Below are new strings for the revised new calendar dialog. The above strings should be
+    removed/renamed later on -->
+
+<!ENTITY sourcetabs.other.label  "Anna">
+
+<!ENTITY buttons.create.label "Lag kalender">
+<!ENTITY buttons.create.accesskey "r">
+
+<!ENTITY buttons.find.label "Finn kalendrar">
+<!ENTITY buttons.find.accesskey "F">
+
+<!ENTITY buttons.back.label "Tilbake">
+<!ENTITY buttons.back.accesskey "b">
+
+<!ENTITY buttons.subscribe.label "Abonner">
+
+
+
