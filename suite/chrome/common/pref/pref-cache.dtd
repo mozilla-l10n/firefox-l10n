@@ -7,7 +7,7 @@
 <!--LOCALIZATION NOTE : FILE Cache prefs dialog -->
 <!ENTITY pref.cache.title                "Snøgglager">
 <!ENTITY pref.cache.caption              "Sett snøgglagerinnstillingar">
-<!ENTITY cachePara                       "Snøgglageret inneheld kopiar av nettstadar du besøkjer ofte (dersom du trykkjer «Oppdater», vil du alltid få den nyaste utgåva av nettsida).">
+<!ENTITY cachePara                       "Snøgglageret inneheld kopiar av nettstadar du besøker ofte (dersom du trykkjer «Oppdater», vil du alltid få den nyaste utgåva av nettsida).">
 <!ENTITY cacheCheck.label                "La &brandShortName; styre storleiken av snøgglageret">
 <!ENTITY cacheCheck.accesskey            "L">
 <!ENTITY diskCacheUpTo.label             "Bruk opptil">
