@@ -348,33 +348,70 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = విహరిణి గోప్యత
 
 ## Privacy Section - Forms
 
+forms-header = ఫారాలు & సంకేతపదాలు
 forms-exceptions =
     .label = మినహాయింపులు…
     .accesskey = x
 forms-saved-logins =
     .label = భద్రపరచిన ప్రవేశాలు…
     .accesskey = L
+forms-master-pw-use =
+    .label = ప్రధాన సంకేతపదాన్ని వాడు
+    .accesskey = U
+forms-master-pw-change =
+    .label = ప్రధాన సంకేతపదాన్ని మార్చు…
+    .accesskey = M
 
 ## Privacy Section - History
 
 history-header = చరిత్ర
 history-dontremember-description = { -brand-short-name } గోప్య వీక్షణం అమరికలనే వాడుతుంది మరియు మీ వీక్షణ చరిత్రని గుర్తుంచుకోదు.
+history-private-browsing-permanent =
+    .label = ఎల్లప్పుడూ ఆంతరంగిక విహారణ రీతిని వాడు
+    .accesskey = p
+history-remember-option =
+    .label = నా విహరణ, దింపుకోలు చరిత్రను గుర్తుంచుకో
+    .accesskey = b
+history-remember-search-option =
+    .label = నా శోధన, ఫారాల చరిత్రని గుర్తుపెట్టుకో
+    .accesskey = f
+history-clear-on-close-option =
+    .label = { -brand-short-name }‌ను మూసివేసినపుడు చరిత్రని తుడిచివేయి
+    .accesskey = r
 history-clear-on-close-settings =
     .label = అమరికలు…
     .accesskey = t
+history-clear-button =
+    .label = చరిత్రను తుడిచివేయి…
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
+sitedata-header = కుకీలు మరియు సైటు డేటా
+sitedata-learn-more = మరింత తెలుసుకోండి
 sitedata-accept-third-party-always-option =
     .label = ఎల్లప్పుడూ
+sitedata-accept-third-party-visited-option =
+    .label = సందర్శించిన నాటి నుండి
 sitedata-accept-third-party-never-option =
     .label = ఎప్పటికీకాదు
+sitedata-clear =
+    .label = డేటాను తుజిచివేయి…
+    .accesskey = l
+sitedata-settings =
+    .label = డేటాని నిర్వహించండి…
+    .accesskey = M
+sitedata-cookies-exceptions =
+    .label = మినహాయింపులు…
+    .accesskey = E
 
 ## Privacy Section - Address Bar
 
+addressbar-suggest = చిరునామా పట్టీ వాడుతునప్పుడు, వీటి నుండి సూచించు
 addressbar-locbar-bookmarks-option =
     .label = ఇష్టాంశాలు
     .accesskey = k
@@ -384,6 +421,7 @@ addressbar-locbar-openpage-option =
 
 ## Privacy Section - Tracking
 
+tracking-header = ట్రాకింగ్ సంరక్షణ
 tracking-mode-always =
     .label = ఎల్లప్పుడూ
     .accesskey = y
@@ -399,6 +437,9 @@ tracking-exceptions =
 
 ## Privacy Section - Permissions
 
+permissions-block-popups =
+    .label = పాప్-అప్ విండోలను నిరోధించు
+    .accesskey = B
 permissions-addon-exceptions =
     .label = మినహాయింపులు…
     .accesskey = E
@@ -406,12 +447,21 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-health-report-link = ఇంకా తెలుసుకోండి
+collection-browser-errors-link = ఇంకా తెలుసుకోండి
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = భద్రత
+security-enable-safe-browsing =
+    .label = ప్రమాదకరమైన, మోసపూరిత కంటెంటును నిరోధించు
+    .accesskey = B
+security-enable-safe-browsing-link = ఇంకా తెలుసుకోండి
+security-block-downloads =
+    .label = ప్రమాదకరమైన దింపుకోళ్ళను నిరోధించు
+    .accesskey = D
 security-block-uncommon-software =
     .label = అవాంఛిత, అసాధారణ సాఫ్ట్‌వేర్ల గురించి నిన్ను హెచ్చరించు
     .accesskey = C
