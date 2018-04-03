@@ -525,6 +525,10 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Exceções…
     .accesskey = E
+permissions-a11y-privacy-checkbox =
+    .label = Impedir que os serviços de acessibilidade acessem o seu navegador
+    .accesskey = a
+permissions-a11y-privacy-link = Saber mais
 
 ## Privacy Section - Data Collection
 
