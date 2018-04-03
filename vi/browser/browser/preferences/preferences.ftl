@@ -367,6 +367,9 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-dontremember-description = { -brand-short-name } sẽ dùng thiết lập giống như chế độ duyệt web riêng tư, và sẽ không ghi nhớ lược sử khi bạn duyệt Web.
+history-private-browsing-permanent =
+    .label = Luôn luôn dùng chế độ duyệt web riêng tư
+    .accesskey = y
 history-remember-search-option =
     .label = Ghi nhớ lược sử biểu mẫu và tìm kiếm
     .accesskey = b
