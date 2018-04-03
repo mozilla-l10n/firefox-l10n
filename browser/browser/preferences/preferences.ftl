@@ -323,12 +323,17 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = Príobháideachas
 
 ## Privacy Section - Forms
 
+forms-header = Foirmeacha agus Focail Fhaire
 forms-exceptions =
     .label = Eisceachtaí…
     .accesskey = s
+forms-saved-logins =
+    .label = Focail fhaire a sábháladh…
+    .accesskey = f
 forms-master-pw-use =
     .label = Úsáid príomhfhocal faire
     .accesskey = p
@@ -343,6 +348,9 @@ history-dontremember-description = Úsáidfidh { -brand-short-name } na socruith
 history-private-browsing-permanent =
     .label = Bain úsáid as Brabhsáil Phríobháideach i gcónaí
     .accesskey = P
+history-remember-option =
+    .label = Meabhraigh mo stair bhrabhsála agus íoslódála
+    .accesskey = b
 history-remember-search-option =
     .label = Meabhraigh an stair chuardaigh agus fhoirme
     .accesskey = f
@@ -355,6 +363,9 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = Tuilleadh eolais
+sitedata-accept-third-party-always-option =
+    .label = I gCónaí
 sitedata-accept-third-party-visited-option =
     .label = Ó shuímh fheicthe
 sitedata-accept-third-party-never-option =
@@ -365,37 +376,99 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Barra Suímh
+addressbar-suggest = Agus an barra suímh in úsáid, mol
+addressbar-locbar-history-option =
+    .label = Stair bhrabhsála
+    .accesskey = h
 addressbar-locbar-bookmarks-option =
     .label = Leabharmharcanna
     .accesskey = L
 addressbar-locbar-openpage-option =
     .label = Cluaisíní oscailte
     .accesskey = o
+addressbar-suggestions-settings = Roghanna a bhaineann le moltaí cuardaigh
 
 ## Privacy Section - Tracking
 
+tracking-header = Cosaint ar Lorgaireacht
+tracking-mode-always =
+    .label = I gCónaí
+    .accesskey = I
+tracking-mode-private =
+    .label = I bhfuinneog phríobháideach amháin
+    .accesskey = b
+tracking-mode-never =
+    .label = Choíche
+    .accesskey = C
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Úsáid Cosaint ar Lorgaireacht i mBrabhsáil Phríobháideach chun cosc a chur ar lorgairí aitheanta
+    .accesskey = b
+tracking-exceptions =
+    .label = Eisceachtaí…
+    .accesskey = E
+tracking-change-block-list =
+    .label = Athraigh an Liosta Coiscthe…
+    .accesskey = A
 
 ## Privacy Section - Permissions
 
+permissions-header = Ceadanna
+permissions-notification = Fógraí
 permissions-block-popups =
     .label = Cuir Cosc ar Phreabfhuinneoga
     .accesskey = C
+permissions-block-popups-exceptions =
+    .label = Eisceachtaí…
+    .accesskey = E
 permissions-addon-exceptions =
     .label = Eisceachtaí…
     .accesskey = E
 
 ## Privacy Section - Data Collection
 
+collection-header = Bailiúchán agus Úsáid Sonraí { -brand-short-name }
+collection-description = Déanaimid ár ndícheall roghanna a thabhairt duit agus an méid is lú sonraí a bhailiú chun feabhas a chur ar { -brand-short-name } ar son an phobail. Iarraimid cead ort i gcónaí sula mbailímid sonraí pearsanta uait.
+collection-privacy-notice = Fógra Príobháideachais
+collection-health-report-link = Tuilleadh eolais
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Díchumasaíodh tuairisciú sonraí don chumraíocht leagain seo
+collection-backlogged-crash-reports-link = Tuilleadh eolais
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Slándáil
+security-enable-safe-browsing =
+    .label = Cuir cosc ar ábhar contúirteach nó cealgach
+    .accesskey = C
+security-block-downloads =
+    .label = Cuir cosc ar íoslódálacha contúirteacha
+    .accesskey = s
+security-block-uncommon-software =
+    .label = Tabhair rabhadh dom faoi bhogearraí neamhchoitianta nó bogearraí gan iarraidh
+    .accesskey = c
 
 ## Privacy Section - Certificates
 
 certs-header = Teastais
+certs-personal-label = Nuair atá freastalaí ag iarraidh mo theastas pearsanta
+certs-select-auto-option =
+    .label = Roghnaigh go huathoibríoch
+    .accesskey = S
+certs-select-ask-option =
+    .label = Fiafraigh díom i gcónaí
+    .accesskey = A
 certs-enable-ocsp =
     .label = Iarr ar fhreastalaí freagróra OCSP bailíocht teastais a dheimhniú
     .accesskey = O
+certs-view =
+    .label = Taispeáin Teastais…
+    .accesskey = s
+certs-devices =
+    .label = Gléasanna Slándála…
+    .accesskey = d
