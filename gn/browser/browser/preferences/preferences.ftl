@@ -345,7 +345,7 @@ search-remove-engine =
 search-find-more-link = Ejuhu hetave hekaha mongu'eha
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
-search-keyword-warning-title = Jehero jo'apyre{ " " }
+search-keyword-warning-title = Jehero jo'apyre
 # Variables:
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Eiporavókuri peteĩ jehero oipurúmava "{ $name }". Ikatúpiko eiporavo ambue.
@@ -459,7 +459,7 @@ addressbar-suggestions-settings = Jerohoryvéva jehekaha mongu'eha je'epyre momb
 
 tracking-header = Eipuru Ñemo'ã Tapykuehógui
 tracking-description = Tapykuere ñemo'ã ojoko umi oporohekáva ñandutípe ha ombyatýva ne kundaha mba'ekuaarã heta ñanduti renda rupi. <a>Eikuaave tapykuere ha temiñemi ñemo'ã rehegua</a>
-tracking-mode-label = Eipuru tapykuere ñemo'ã ejoko hag̃ua oporohekavakuérape{ " " }
+tracking-mode-label = Eipuru tapykuere ñemo'ã ejoko hag̃ua oporohekavakuérape
 tracking-mode-always =
     .label = Akóinte
     .accesskey = y
