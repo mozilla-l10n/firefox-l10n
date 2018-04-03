@@ -462,21 +462,51 @@ tracking-change-block-list =
 ## Privacy Section - Permissions
 
 permissions-header = Ñemoneĩkuéra
+permissions-location = Tenda
+permissions-location-settings =
+    .label = Ñangareko…
+    .accesskey = t
+permissions-camera = Cámara
+permissions-camera-settings =
+    .label = Ñangareko…
+    .accesskey = t
+permissions-microphone = Ñe'ẽmbotuichaha
+permissions-microphone-settings =
+    .label = Ñangareko…
+    .accesskey = t
+permissions-notification = Marandu'i
+permissions-notification-settings =
+    .label = Ñangareko…
+    .accesskey = t
+permissions-notification-link = Eikuaave
+permissions-notification-pause =
+    .label = Tojejoko momarandu'i oñepyrũjey peve { -brand-short-name }
+    .accesskey = n
 permissions-block-popups =
     .label = Ovetã apysẽ joko
     .accesskey = B
+permissions-block-popups-exceptions =
+    .label = Oĩ'ỹva…
+    .accesskey = E
 permissions-addon-install-warning =
     .label = Ehechakuaa oĩ jave tenda omohendaséva moĩmbaha.
     .accesskey = E
 permissions-addon-exceptions =
     .label = Oĩ'ỹva…
     .accesskey = E
+permissions-a11y-privacy-checkbox =
+    .label = Ejoko tembipuru jeikekuaa rehegua ne kundahárape
+    .accesskey = a
+permissions-a11y-privacy-link = Kuaave
 
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } Ñembyaty ha mba'ekuaarã jepuru
 collection-description = Roñeha'ã mbarete rome'ẽ hag̃ua jeporavorã ha rombyaty pe roikotevẽva rome'ẽ añoite ha romoĩporãve { -brand-short-name } arapy tuichakue javépe g̃uarã. Tapiaite rojerure ñemoneĩ marandu og̃uahẽ mboyve oréve.
 collection-privacy-notice = Marandu Ñemigua
+collection-health-report =
+    .label = Toñemoneĩ { -brand-short-name } omondo hag̃ua kuaapy aporeko rehegua { -vendor-short-name }-pe
+    .accesskey = r
 collection-health-report-link = Kuaave
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
@@ -489,6 +519,7 @@ collection-backlogged-crash-reports-link = Kuaave
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Tekorosã
+security-browsing-protection = Ñemo'ã Mba'e Ag̃ave'ỹvagui
 security-enable-safe-browsing =
     .label = Ejoko tetepy kyhyjerã ha imarãkuaáva
     .accesskey = E
