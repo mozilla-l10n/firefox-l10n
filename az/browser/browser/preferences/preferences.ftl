@@ -362,3 +362,48 @@ containers-preferences-button =
     .label = Nizamlamalar
 containers-remove-button =
     .label = Sil
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+
+## Privacy Section - History
+
+history-private-browsing-permanent =
+    .label = Həmişə gizli baxış rejimindən istifadə et
+    .accesskey = g
+history-remember-search-option =
+    .label = Axtarış və form keçmişini xatırla
+    .accesskey = f
+history-clear-on-close-settings =
+    .label = Nizamlar…
+    .accesskey = a
+
+## Privacy Section - Site Data
+
+sitedata-cookies-exceptions =
+    .label = İstisnalar…
+    .accesskey = a
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
