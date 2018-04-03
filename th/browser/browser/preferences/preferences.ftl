@@ -408,3 +408,4 @@ sitedata-accept-third-party-always-option =
 
 ## Privacy Section - Certificates
 
+certs-header = ใบรับรอง
