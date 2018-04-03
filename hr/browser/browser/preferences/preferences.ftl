@@ -354,9 +354,16 @@ containers-remove-button =
 forms-exceptions =
     .label = Iznimke...
     .accesskey = m
+forms-master-pw-use =
+    .label = Koristi glavnu lozinku
+    .accesskey = u
+forms-master-pw-change =
+    .label = Promijeni glavnu lozinku...
+    .accesskey = m
 
 ## Privacy Section - History
 
+history-dontremember-description = { -brand-short-name } će koristiti iste postavke kao i za privatno pretraživanje, te neće pamtiti povijest pretraživanja.
 history-private-browsing-permanent =
     .label = Uvijek koristi privatni način pretraživanja
     .accesskey = v
@@ -394,6 +401,9 @@ sitedata-cookies-exceptions =
 permissions-block-popups =
     .label = Blokiraj skočne prozore
     .accesskey = s
+permissions-addon-exceptions =
+    .label = Iznimke...
+    .accesskey = e
 
 ## Privacy Section - Data Collection
 
