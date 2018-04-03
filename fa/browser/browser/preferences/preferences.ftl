@@ -451,7 +451,7 @@ tracking-exceptions =
     .label = استثناها…
     .accesskey = ت
 tracking-change-block-list =
-    .label = تغییر فهرست مسدودی‌ها…{ " " }
+    .label = تغییر فهرست مسدودی‌ها…
     .accesskey = ت
 
 ## Privacy Section - Permissions
