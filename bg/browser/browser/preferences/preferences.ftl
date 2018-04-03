@@ -381,3 +381,90 @@ containers-preferences-button =
     .label = Настройки
 containers-remove-button =
     .label = Премахване
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = Изключения…
+    .accesskey = к
+forms-saved-logins =
+    .label = Запазени регистрации…
+    .accesskey = р
+forms-master-pw-use =
+    .label = Използване на главна парола
+    .accesskey = г
+
+## Privacy Section - History
+
+history-header = История
+history-clear-on-close-option =
+    .label = Изчистване на история при изход от { -brand-short-name }
+    .accesskey = И
+history-clear-on-close-settings =
+    .label = Настройки…
+    .accesskey = Н
+
+## Privacy Section - Site Data
+
+sitedata-accept-third-party-always-option =
+    .label = Винаги
+sitedata-accept-third-party-visited-option =
+    .label = От посетените
+sitedata-accept-third-party-never-option =
+    .label = Никога
+sitedata-cookies-exceptions =
+    .label = Изключения…
+    .accesskey = И
+
+## Privacy Section - Address Bar
+
+addressbar-locbar-bookmarks-option =
+    .label = Отметки
+    .accesskey = О
+
+## Privacy Section - Tracking
+
+tracking-mode-always =
+    .label = Винаги
+    .accesskey = В
+tracking-mode-private =
+    .label = Само в поверителни прозорци
+    .accesskey = С
+tracking-mode-never =
+    .label = Никога
+    .accesskey = Н
+tracking-exceptions =
+    .label = Изключения…
+    .accesskey = з
+
+## Privacy Section - Permissions
+
+permissions-addon-exceptions =
+    .label = Изключения…
+    .accesskey = И
+
+## Privacy Section - Data Collection
+
+collection-health-report-link = Научете повече
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+security-enable-safe-browsing =
+    .label = Блокиране на опасно и измамно съдържание
+    .accesskey = Б
+security-block-downloads =
+    .label = Блокиране на опасни изтегляния
+    .accesskey = т
+
+## Privacy Section - Certificates
+
+certs-header = Сертификати
+certs-enable-ocsp =
+    .label = Заявка към сървър OCSP responder за потвърждаване валидността на сертификатите
+    .accesskey = З
