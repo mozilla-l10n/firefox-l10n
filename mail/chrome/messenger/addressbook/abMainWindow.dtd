@@ -35,10 +35,10 @@
 <!ENTITY printPreviewContactCmd.accesskey               "r">
 <!ENTITY printPreviewAddressBook.label                  "Førehandsvising av adressebok">
 <!ENTITY printPreviewAddressBook.accesskey              "F">
-<!ENTITY printContactCmd.label                          "Skriv ut kontakt …">
+<!ENTITY printContactCmd.label                          "Skriv ut kontakt…">
 <!ENTITY printContactCmd.accesskey                      "S">
 <!ENTITY printContactCmd.key                            "P">
-<!ENTITY printAddressBook.label                         "Skriv ut adressebok …">
+<!ENTITY printAddressBook.label                         "Skriv ut adressebok…">
 <!ENTITY printAddressBook.accesskey                     "k">
 
 <!-- Edit Menu -->
@@ -155,7 +155,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.accesskey                         "n">
 <!ENTITY newIM.label                                    "Lynmelding">
 <!ENTITY newIM.accesskey                                "L">
-<!ENTITY printButton.label                              "Skriv ut …">
+<!ENTITY printButton.label                              "Skriv ut…">
 <!ENTITY printButton.accesskey                          "k">
 <!ENTITY deleteButton2.label                            "Slett">
 <!ENTITY deleteButton2.accesskey                        "S">

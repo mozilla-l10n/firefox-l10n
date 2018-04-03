@@ -78,7 +78,7 @@
 <!ENTITY downloadSelectedCmd.accesskey "n">
 <!ENTITY downloadStarredCmd.label "Last ned meldingar merkte med stjerne">
 <!ENTITY downloadStarredCmd.accesskey "L">
-<!ENTITY printCmd.label "Skriv ut …">
+<!ENTITY printCmd.label "Skriv ut…">
 <!ENTITY printCmd.accesskey "u">
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Førehandsvis sida">
@@ -317,7 +317,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Nettprat">
 <!ENTITY goChatCmd.accesskey "e">
-<!ENTITY goChatCmd.key "I">
 <!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Melding med stjerne">
 <!ENTITY prevStarredMsgCmd.accesskey "M">
@@ -508,8 +507,6 @@
 <!ENTITY devToolboxCmd.label "Verktøykasse for utviklarar">
 <!ENTITY devToolboxCmd.accesskey "V">
 <!ENTITY devToolboxCmd.commandkey "i">
-<!ENTITY addonDebugCmd.label "Feilsøking for utvidingar">
-<!ENTITY addonDebugCmd.accesskey "F">
 <!ENTITY debugAddonsCmd.label "Feilsøk utvidingar">
 <!ENTITY debugAddonsCmd.accesskey "F">
 <!ENTITY tabsDebugCmd.label "Feilsøking for innhaldsramme">
@@ -625,7 +622,7 @@
 <!ENTITY appmenuNewMsgCmd.label "Ny melding">
 <!ENTITY appmenuNewContactCmd.label "Adressebokkontaktar …">
 <!ENTITY appmenuEditMenu.label "Rediger">
-<!ENTITY appmenuToolbarLayout.label "Verktøylinjeutsjånad …">
+<!ENTITY appmenuToolbarLayout.label "Verktøylinjeutsjånad…">
 <!ENTITY appmenuSelectThread.label "Vel tråd">
 <!ENTITY appmenuSelectFlagged.label "Vel meldingar med stjerne">
 
@@ -798,7 +795,7 @@
 <!ENTITY contextWatchThreadMenu.accesskey "">
 <!ENTITY contextSaveAs.label "Lagre som…">
 <!ENTITY contextSaveAs.accesskey "L">
-<!ENTITY contextPrint.label "Skriv ut …">
+<!ENTITY contextPrint.label "Skriv ut…">
 <!ENTITY contextPrint.accesskey "u">
 <!ENTITY contextPrintPreview.label "Førehandsvising">
 <!ENTITY contextPrintPreview.accesskey "r">
