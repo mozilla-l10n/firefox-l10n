@@ -354,3 +354,63 @@ containers-preferences-button =
     .label = 설정
 containers-remove-button =
     .label = 삭제
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+
+## Privacy Section - History
+
+history-dontremember-description = { -brand-short-name }는 사생활 보호 모드와 같은 설정을 가지며 웹 사이트 방문 중 어떤 기록도 저장하지 않습니다.
+history-private-browsing-permanent =
+    .label = 사생활 보호 모드로만 이용
+    .accesskey = p
+history-remember-option =
+    .label = 표시한 페이지 및 파일 다운로드 기록 저장
+    .accesskey = b
+history-remember-search-option =
+    .label = 검색 및 입력 기록 저장
+    .accesskey = f
+history-clear-on-close-option =
+    .label = { -brand-short-name } 닫을 때 방문 기록 삭제
+    .accesskey = r
+history-clear-on-close-settings =
+    .label = 설정…
+    .accesskey = t
+
+## Privacy Section - Site Data
+
+sitedata-accept-third-party-always-option =
+    .label = 항상 허용
+sitedata-accept-third-party-visited-option =
+    .label = 방문한 곳만
+sitedata-accept-third-party-never-option =
+    .label = 허용 안함
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-block-popups =
+    .label = 팝업 창 차단
+    .accesskey = B
+
+## Privacy Section - Data Collection
+
+collection-health-report-link = 더 알아보기
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
+certs-header = 인증서
