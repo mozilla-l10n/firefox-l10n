@@ -490,6 +490,10 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Никогда
     .accesskey = а
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Использовать защиту от отслеживания в приватном просмотре для блокировки известных трекеров
+    .accesskey = о
 tracking-exceptions =
     .label = Исключения…
     .accesskey = л
@@ -500,18 +504,32 @@ tracking-change-block-list =
 ## Privacy Section - Permissions
 
 permissions-header = Разрешения
+permissions-location = Местоположение
 permissions-location-settings =
     .label = Параметры…
     .accesskey = м
+permissions-camera = Камера
+permissions-camera-settings =
+    .label = Параметры…
+    .accesskey = а
+permissions-microphone = Микрофон
 permissions-microphone-settings =
     .label = Параметры…
     .accesskey = ы
+permissions-notification = Уведомления
 permissions-notification-settings =
     .label = Параметры…
     .accesskey = е
+permissions-notification-link = Подробнее
+permissions-notification-pause =
+    .label = Отключить уведомления до перезапуска { -brand-short-name }
+    .accesskey = ю
 permissions-block-popups =
     .label = Блокировать всплывающие окна
     .accesskey = о
+permissions-block-popups-exceptions =
+    .label = Исключения…
+    .accesskey = ю
 permissions-addon-install-warning =
     .label = Предупреждать при попытке веб-сайтов установить дополнения
     .accesskey = е
@@ -528,6 +546,9 @@ permissions-a11y-privacy-link = Подробнее
 collection-header = Сбор и использование данных { -brand-short-name }
 collection-description = Мы стремимся предоставить вам выбор и собирать только то, что нам нужно, для выпуска и улучшения { -brand-short-name } для всех и каждого. Мы всегда спрашиваем разрешения перед получением личной информации.
 collection-privacy-notice = Уведомление о приватности
+collection-health-report =
+    .label = Разрешить { -brand-short-name } отправлять технические данные и данные взаимодействия в { -vendor-short-name }
+    .accesskey = е
 collection-health-report-link = Подробнее
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
@@ -547,6 +568,7 @@ collection-backlogged-crash-reports-link = Подробнее
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Защита
+security-browsing-protection = Поддельное содержимое и защита от вредоносных программ
 security-enable-safe-browsing =
     .label = Блокировать опасное и обманывающее содержимое
     .accesskey = л
