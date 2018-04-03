@@ -9,6 +9,7 @@
 <!ENTITY iconsAndText.label       "Wobrazki a tekst">
 <!ENTITY icons.label              "Wobrazki">
 <!ENTITY text.label               "Tekst">
+<!ENTITY iconsBesideText.label    "Symbole a tekst">
 <!ENTITY useSmallIcons.label      "Małe wobrazki wužiwać">
 <!ENTITY restoreDefaultSet.label  "Standard wobnowić">
 <!ENTITY addNewToolbar.label      "Nowu symbolowu lajstu přidać">
