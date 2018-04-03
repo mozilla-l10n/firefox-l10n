@@ -363,9 +363,14 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = Pārlūka privātums
 
 ## Privacy Section - Forms
 
+forms-header = Formas un paroles
+forms-remember-logins =
+    .label = Atcerieties, lietotājvārdi un paroles mājas lapās
+    .accesskey = A
 forms-exceptions =
     .label = Izņēmumi...
     .accesskey = z
@@ -382,6 +387,7 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Vēsture
+history-remember-description = { -brand-short-name } atcerēsies jūsu pārlūkošanas, lejupielāžu, formu un meklēšanas vēsturi.
 history-dontremember-description = { -brand-short-name } izmantos tādus pat iestatījumus kā privātās pārlūkošanas režīmā un pārlūkojot internetu nesaglabās vēsturi.
 history-private-browsing-permanent =
     .label = Vienmēr izmantot privātās pārlūkošanas režīmu
@@ -398,30 +404,60 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Iestatījumi…
     .accesskey = t
+history-clear-button =
+    .label = Notīrīt vēsturi…
+    .accesskey = v
 
 ## Privacy Section - Site Data
 
+sitedata-header = Sīkdatnes un lapu dati
+sitedata-learn-more = Uzzināt vairāk
+sitedata-accept-cookies-option =
+    .label = Pieņemt sīkdatnes un kešatmiņu no lapām (ieteicams)
+    .accesskey = P
+sitedata-block-cookies-option =
+    .label = Bloķēt sīkdatnes un kešatmiņu (lapas var nestrādāt)
+    .accesskey = B
+sitedata-keep-until = Glabāt līdz
+    .accesskey = l
+sitedata-accept-third-party-desc = Pieņemt trešo pušu sīkdatnes un keatmiņu
+    .accesskey = t
 sitedata-accept-third-party-always-option =
     .label = Vienmēr
 sitedata-accept-third-party-visited-option =
     .label = Tikai no lapām, kuras esmu apmeklējis
 sitedata-accept-third-party-never-option =
     .label = Nekad
+sitedata-clear =
+    .label = Notīrīt datus…
+    .accesskey = n
+sitedata-settings =
+    .label = Pārvaldīt datus…
+    .accesskey = P
 sitedata-cookies-exceptions =
     .label = Izņēmumi…
     .accesskey = I
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Adrešu josla
+addressbar-suggest = Meklējot adreses joslā, ieteikt
+addressbar-locbar-history-option =
+    .label = Pārlūkošanas vēsturi
+    .accesskey = V
 addressbar-locbar-bookmarks-option =
     .label = Grāmatzīmes
     .accesskey = m
 addressbar-locbar-openpage-option =
     .label = Atvērtās cilnes
     .accesskey = t
+addressbar-suggestions-settings = Izmainiet meklētāju iestatījumus
 
 ## Privacy Section - Tracking
 
+tracking-header = Izsekošanas aizsardzība
+tracking-description = Izsekošanas aizsardzība cīnās pret sekotājiem kas dažādās lapās vāc informāciju par jūsu uzvedību internetā. <a>Uzziniet vairāk par izsekošanas aizsardzību un jūsu privātumu</a>
+tracking-mode-label = Izmantot izsekošanas aizsardzību, lai bloķētu zināmos izsekotājus
 tracking-mode-always =
     .label = Vienmēr
     .accesskey = m
@@ -431,38 +467,112 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Nekad
     .accesskey = N
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Izmantot izsekošanas aizsardzību, lai bloķētu zināmos izsekotājus
+    .accesskey = t
 tracking-exceptions =
     .label = Izņēmumi…
     .accesskey = I
+tracking-change-block-list =
+    .label = Mainīt bloķēto sarakstu…
+    .accesskey = M
 
 ## Privacy Section - Permissions
 
+permissions-header = Atļaujas
+permissions-location = Atrašanās vieta
+permissions-location-settings =
+    .label = Iestatījumi…
+    .accesskey = t
+permissions-camera = Kamera
+permissions-camera-settings =
+    .label = Iestatījumi…
+    .accesskey = t
+permissions-microphone = Mikrofons
+permissions-microphone-settings =
+    .label = Iestatījumi…
+    .accesskey = t
+permissions-notification = Paziņojumi
+permissions-notification-settings =
+    .label = Iestatījumi…
+    .accesskey = z
+permissions-notification-link = Uzzināt vairāk
+permissions-notification-pause =
+    .label = Nerādīt paziņojumus līdz { -brand-short-name } pārstartēšanai
+    .accesskey = a
 permissions-block-popups =
     .label = Bloķēt jaunos logus
+    .accesskey = B
+permissions-block-popups-exceptions =
+    .label = Izņēmumi...
+    .accesskey = I
+permissions-addon-install-warning =
+    .label = Brīdināt mani, ja lapas mēģina instalēt papildinājumus
     .accesskey = B
 permissions-addon-exceptions =
     .label = Izņēmumi...
     .accesskey = I
+permissions-a11y-privacy-checkbox =
+    .label = Neļaut pieejamības rīkiem piekļūt pārlūkam
+    .accesskey = p
+permissions-a11y-privacy-link = Uzzināt vairāk
 
 ## Privacy Section - Data Collection
 
+collection-header = { -brand-short-name } datu vākšana un izmantošana
+collection-description = Mēs cenšamies piedāvāt jums izvēles iespēju un vācam tikai tos datus, kas ir nepieciešami, lai uzlabotu { -brand-short-name }. Mēs vienmēr jautāsim atļauju pirms privātu datu ievākšanas.
+collection-privacy-notice = Privātuma piezīme
+collection-health-report =
+    .label = Atļaut { -brand-short-name } automātiski sūtīt tehnisku un mijiedarbību informāciju { -vendor-short-name }
+    .accesskey = r
 collection-health-report-link = Uzzināt vairāk
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Datu ziņošana ir atspējota šajā būvējuma konfigurācija
+collection-browser-errors =
+    .label = Atļaut { -brand-short-name } nosūtīt { -vendor-short-name } pārlūka kļūdu ziņojumus (ieskaitot kļūdas)
+    .accesskey = n
+collection-browser-errors-link = Uzzināt vairāk
+collection-backlogged-crash-reports =
+    .label = Atļaut { -brand-short-name } sūtīt uzkrātos avāriju ziņojumus jūsu vārdā
+    .accesskey = t
+collection-backlogged-crash-reports-link = Uzzināt vairāk
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Drošība
+security-browsing-protection = Maldinoša satura un bīstamas programmatūras aizsardzība
 security-enable-safe-browsing =
     .label = Bloķēt bīstamu un maldinošu saturu
     .accesskey = B
+security-enable-safe-browsing-link = Uzzināt vairāk
 security-block-downloads =
     .label = Bloķēt bīstamas lejupielādes
     .accesskey = d
+security-block-uncommon-software =
+    .label = Brīdināt mani par nevēlamu vai neparastu programmatūru
+    .accesskey = R
 
 ## Privacy Section - Certificates
 
 certs-header = Sertifikāti
+certs-personal-label = Kad serveris pieprasa manu personīgo sertifikātu
+certs-select-auto-option =
+    .label = Izvēlēties automātiski
+    .accesskey = V
+certs-select-ask-option =
+    .label = Katru reizi jautāt man
+    .accesskey = J
 certs-enable-ocsp =
     .label = Vaicāt OCSP atbildes serveriem, lai pārbaudītu pašreizējo sertifikātu derīgumu
     .accesskey = V
+certs-view =
+    .label = Aplūkot sertifikātus…
+    .accesskey = C
+certs-devices =
+    .label = Drošības ierīces…
+    .accesskey = D
