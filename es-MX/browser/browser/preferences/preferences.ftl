@@ -465,6 +465,7 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Data Collection
 
+collection-privacy-notice = Política de privacidad
 collection-health-report-link = Saber más
 
 ## Privacy Section - Security
@@ -472,6 +473,12 @@ collection-health-report-link = Saber más
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-enable-safe-browsing =
+    .label = Bloquear contenido peligroso y engañoso
+    .accesskey = B
+security-block-downloads =
+    .label = Bloquear descargas peligrosas
+    .accesskey = D
 
 ## Privacy Section - Certificates
 
