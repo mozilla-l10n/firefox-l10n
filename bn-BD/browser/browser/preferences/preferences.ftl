@@ -425,3 +425,4 @@ permissions-block-popups =
 
 ## Privacy Section - Certificates
 
+certs-header = সনদপত্র
