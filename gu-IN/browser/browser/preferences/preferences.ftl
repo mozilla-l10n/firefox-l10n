@@ -452,6 +452,9 @@ sitedata-cookies-exceptions =
 ## Privacy Section - Address Bar
 
 addressbar-header = સરનામા પટ્ટી
+addressbar-suggest = સરનામાં બારનો ઉપયોગ કરતી વખતે, સૂચન કરો{ "
+    
+    " }
 addressbar-locbar-history-option =
     .label = બ્રાઉઝિંગ ઇતિહાસ
     .accesskey = H
@@ -475,6 +478,10 @@ tracking-mode-private =
 tracking-mode-never =
     .label = ક્યારેય નહિં
     .accesskey = n
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = જાણીતા ટ્રેકર્સને અવરોધિત કરવા માટે ખાનગી બ્રાઉઝિંગમાં ટ્રેકિંગ પ્રોટેક્શનનો ઉપયોગ કરો
+    .accesskey = v
 tracking-exceptions =
     .label = અપવાદો…
     .accesskey = x
@@ -517,6 +524,9 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = અપવાદો...
     .accesskey = E
+permissions-a11y-privacy-checkbox =
+    .label = ઍક્સેસિબિલિટી સેવાઓને તમારા બ્રાઉઝરને ઍક્સેસ કરવાથી અટકાવો
+    .accesskey = a
 permissions-a11y-privacy-link = વધુ શીખો
 
 ## Privacy Section - Data Collection
