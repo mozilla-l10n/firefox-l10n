@@ -387,10 +387,14 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = Utilizar un senhal principal
     .accesskey = U
+forms-master-pw-change =
+    .label = Modificar lo senhal principal…
+    .accesskey = M
 
 ## Privacy Section - History
 
 history-header = Istoric
+history-dontremember-description = { -brand-short-name } utilizarà los meteisses paramètres que per la navegacion privada e conservarà pas cap d'istoric quand navegaretz sus internet.
 history-remember-search-option =
     .label = Conservar l'istoric de las recèrcas e dels formularis
     .accesskey = f
@@ -403,11 +407,14 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-header = Cookies e donadas de sites
 sitedata-learn-more = Ne saber mai
 sitedata-keep-until = Las conservar fins a
     .accesskey = f
 sitedata-accept-third-party-always-option =
     .label = Totjorn
+sitedata-accept-third-party-visited-option =
+    .label = Dels sites visitats
 sitedata-accept-third-party-never-option =
     .label = Pas jamai
 sitedata-cookies-exceptions =
@@ -421,13 +428,24 @@ addressbar-suggest = Quand utilizi la barra d'adreça, suggerir
 addressbar-locbar-bookmarks-option =
     .label = Favorits
     .accesskey = F
+addressbar-locbar-openpage-option =
+    .label = Onglets dobèrts
+    .accesskey = D
 addressbar-suggestions-settings = Cambiar las preferéncias per las suggestions del motor de recèrca
 
 ## Privacy Section - Tracking
 
+tracking-header = Proteccion contra lo seguiment
+tracking-mode-label = Utilizar la proteccion contra lo seguiment per blocar los traçadors coneguts
 tracking-mode-always =
     .label = Totjorn
     .accesskey = T
+tracking-mode-private =
+    .label = Sonque las fenèstras privadas
+    .accesskey = q
+tracking-mode-never =
+    .label = Jamai
+    .accesskey = j
 tracking-exceptions =
     .label = Excepcions…
     .accesskey = E
@@ -442,6 +460,7 @@ permissions-location = Localizacion
 permissions-location-settings =
     .label = Paramètres…
     .accesskey = A
+permissions-camera = Camèra
 permissions-camera-settings =
     .label = Paramètres…
     .accesskey = c
@@ -454,6 +473,9 @@ permissions-notification-settings =
     .label = Paramètres…
     .accesskey = n
 permissions-notification-link = Ne saber mai
+permissions-notification-pause =
+    .label = Pausar las notificacions fins que { -brand-short-name } reavie
+    .accesskey = n
 permissions-block-popups =
     .label = Blocar las fenèstras sorgissentas
     .accesskey = B
@@ -473,10 +495,17 @@ permissions-a11y-privacy-link = Ne saber mai
 collection-header = Recuèlh de donadas e utilizacion per { -brand-short-name }
 collection-description = Nos esforçam de vos daissar causir e reculhir sonque las informacions qu'avèm besonh per provesir e melhorar { -brand-short-name } per tot lo mond. Sempre demandam vòstra permission abans de recebre de donadas personalas.
 collection-privacy-notice = Politica de confidencialitat
+collection-health-report =
+    .label = Autorizar { -brand-short-name } a mandar de donadas tecnicas e d’interaccions a { -vendor-short-name }
+    .accesskey = A
 collection-health-report-link = Ne saber mai
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Lo rapòrt de donadas es desactivat per aquela configuracion de compilacion
+collection-browser-errors =
+    .label = Autorizar { -brand-short-name } a enviar los rapòrts d’error (inclús los messatges d’error) del navegador a { -vendor-short-name }
+    .accesskey = u
+collection-browser-errors-link = Ne saber mai
 collection-backlogged-crash-reports-link = Ne saber mai
 
 ## Privacy Section - Security
@@ -485,9 +514,11 @@ collection-backlogged-crash-reports-link = Ne saber mai
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Seguretat
+security-browsing-protection = Proteccion contra los contenguts enganaires e los logicials perilhoses
 security-enable-safe-browsing =
     .label = Blocar lo contengut perilhós e enganaire
     .accesskey = B
+security-enable-safe-browsing-link = Ne saber mai
 security-block-downloads =
     .label = Blocar los telecargaments perilhoses
     .accesskey = D
