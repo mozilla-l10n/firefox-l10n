@@ -383,12 +383,23 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = Приватність браузера
 
 ## Privacy Section - Forms
 
+forms-header = Форми і Паролі
+forms-remember-logins =
+    .label = Запам’ятовувати паролі для веб-сайтів
+    .accesskey = п
 forms-exceptions =
     .label = Винятки…
     .accesskey = и
+forms-saved-logins =
+    .label = Збережені паролі…
+    .accesskey = л
+forms-master-pw-use =
+    .label = Використовувати головний пароль
+    .accesskey = г
 forms-master-pw-change =
     .label = Змінити головний пароль…
     .accesskey = і
@@ -396,6 +407,22 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Історія відвідувань
+history-dontremember-description = { -brand-short-name } буде використовувати ті ж налаштування, що й у приватному режимі, та не буде пам’ятати історію вашого перегляду.
+history-private-browsing-permanent =
+    .label = Завжди використовувати режим приватного перегляду
+    .accesskey = п
+history-remember-option =
+    .label = Пам’ятати історію переглядів та завантажень
+    .accesskey = і
+history-remember-search-option =
+    .label = Пам’ятати історію пошуків та форм
+    .accesskey = м
+history-clear-on-close-option =
+    .label = Стирати історію при закритті { -brand-short-name }
+    .accesskey = С
+history-clear-on-close-settings =
+    .label = Налаштування…
+    .accesskey = Н
 
 ## Privacy Section - Site Data
 
@@ -411,25 +438,108 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Панель адреси
+addressbar-suggest = При використанні панелі адреси, пропонувати
+addressbar-locbar-history-option =
+    .label = Історію переглядів
+    .accesskey = т
+addressbar-locbar-bookmarks-option =
+    .label = Закладки
+    .accesskey = а
+addressbar-locbar-openpage-option =
+    .label = Відкриті вкладки
+    .accesskey = в
+addressbar-suggestions-settings = Змінити налаштування пропозицій засобів пошуку
 
 ## Privacy Section - Tracking
 
+tracking-header = Захист від стеження
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Блокувати відомі елементи стеження в приватному перегляді
+    .accesskey = с
+tracking-change-block-list =
+    .label = Змінити список блокування…
+    .accesskey = м
 
 ## Privacy Section - Permissions
 
+permissions-header = Дозволи
+permissions-location = Розташування
+permissions-location-settings =
+    .label = Налаштування…
+    .accesskey = л
+permissions-camera = Камера
+permissions-camera-settings =
+    .label = Налаштування…
+    .accesskey = ш
+permissions-microphone = Мікрофон
+permissions-microphone-settings =
+    .label = Налаштування…
+    .accesskey = я
+permissions-notification = Сповіщення
+permissions-notification-settings =
+    .label = Налаштування…
+    .accesskey = Н
+permissions-notification-link = Докладніше
+permissions-block-popups =
+    .label = Блокувати виринаючі вікна
+    .accesskey = Б
+permissions-block-popups-exceptions =
+    .label = Винятки…
+    .accesskey = В
+permissions-addon-install-warning =
+    .label = Попереджати при спробі веб-сайтів встановити додаток
+    .accesskey = ж
 permissions-addon-exceptions =
     .label = Винятки…
     .accesskey = В
+permissions-a11y-privacy-link = Докладніше
 
 ## Privacy Section - Data Collection
 
+collection-header = Збір та використання даних { -brand-short-name }
+collection-description = Ми прагнемо надати вам вибір і збирати лише те, що нам потрібно для випуску та вдосконалення { -brand-short-name } для кожного. Ми завжди питаємо про дозвіл перед отриманням особистої інформації.
+collection-privacy-notice = Повідомлення про приватність
+collection-health-report-link = Докладніше
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Відправлення даних вимкнено для цієї конфігурації збірки
+collection-backlogged-crash-reports-link = Докладніше
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Безпека
+security-browsing-protection = Шахрайський вміст і захист від зловмисних програм
+security-enable-safe-browsing =
+    .label = Блокувати небезпечний і шахрайський вміст
+    .accesskey = Б
+security-block-downloads =
+    .label = Блокувати небезпечні завантаження
+    .accesskey = з
+security-block-uncommon-software =
+    .label = Попереджати про небажане і незвичне програмне забезпечення
+    .accesskey = ж
 
 ## Privacy Section - Certificates
 
 certs-header = Сертифікати
+certs-personal-label = Коли сервер запитує ваш особистий сертифікат
+certs-select-auto-option =
+    .label = Обирати один автоматично
+    .accesskey = б
+certs-select-ask-option =
+    .label = Питати щоразу
+    .accesskey = т
+certs-enable-ocsp =
+    .label = Запитувати у серверів OCSP підтвердження поточного стану сертифікатів
+    .accesskey = п
+certs-view =
+    .label = Перегляд сертифікатів…
+    .accesskey = с
+certs-devices =
+    .label = Пристрої захисту…
+    .accesskey = и
