@@ -389,6 +389,7 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Tembiasakue
+history-remember-description = { -brand-short-name } imandu'áta ne kundaha, ñamboguejy, myanyhẽha ha jeheka rembiasakue rehe.
 history-dontremember-description = { -brand-short-name } oipurujeýta pe ñemboheko kundaha ñemigua pegua, ha noñongatumo'ãi mba'evéichagua mba'ekuaarã tembiasakuéva oikundahakuévo ñandutípe.
 history-private-browsing-permanent =
     .label = Kundaha ñemi jepuru tapia
@@ -405,18 +406,36 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Ñemboheko…
     .accesskey = t
+history-clear-button =
+    .label = Tembiasakue ñemopotĩ…
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
+sitedata-header = Kookie ha tenda mbakuaarã
 sitedata-learn-more = Kuaave
+sitedata-accept-cookies-option =
+    .label = Emoñeĩ kookie ha ñanduti renda mba'ekuaarã (jeroviapyrãva)
+    .accesskey = A
+sitedata-block-cookies-option =
+    .label = Ejoko umi kookie ha tenda mba'ekuaarã (ikatu ombyai ñanduti renda)
+    .accesskey = B
 sitedata-keep-until = Eñongati ag̃ave
     .accesskey = u
+sitedata-accept-third-party-desc = Emoñeĩ kookie ambueguáva ha tenda mba'ekuaarã
+    .accesskey = y
 sitedata-accept-third-party-always-option =
     .label = Katui
 sitedata-accept-third-party-visited-option =
     .label = Jehopyre
 sitedata-accept-third-party-never-option =
     .label = Araka'eve
+sitedata-clear =
+    .label = Mba'ekuaarã mopotĩ…
+    .accesskey = l
+sitedata-settings =
+    .label = Eñangareko mba'ekuaarãre…
+    .accesskey = M
 sitedata-cookies-exceptions =
     .label = Oĩ'ỹva…
     .accesskey = E
@@ -439,6 +458,8 @@ addressbar-suggestions-settings = Jerohoryvéva jehekaha mongu'eha je'epyre momb
 ## Privacy Section - Tracking
 
 tracking-header = Eipuru Ñemo'ã Tapykuehógui
+tracking-description = Tapykuere ñemo'ã ojoko umi oporohekáva ñandutípe ha ombyatýva ne kundaha mba'ekuaarã heta ñanduti renda rupi. <a>Eikuaave tapykuere ha temiñemi ñemo'ã rehegua</a>
+tracking-mode-label = Eipuru tapykuere ñemo'ã ejoko hag̃ua oporohekavakuérape{ " " }
 tracking-mode-always =
     .label = Akóinte
     .accesskey = y
@@ -511,6 +532,13 @@ collection-health-report-link = Kuaave
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Pe mba'ekuaarã momarandu oñemboguéma ko ñemboheko guasúpe g̃uarã
+collection-browser-errors =
+    .label = Emoneĩ { -brand-short-name } pe omomarandúvo jejavy (oikehápe ñe'ẽmondo jejavy rehegua) { -vendor-short-name }-pe
+    .accesskey = b
+collection-browser-errors-link = Kuaave
+collection-backlogged-crash-reports =
+    .label = Emoneĩ { -brand-short-name } omondóvo marandu jejavy rehegua nde rérape
+    .accesskey = c
 collection-backlogged-crash-reports-link = Kuaave
 
 ## Privacy Section - Security
@@ -523,6 +551,7 @@ security-browsing-protection = Ñemo'ã Mba'e Ag̃ave'ỹvagui
 security-enable-safe-browsing =
     .label = Ejoko tetepy kyhyjerã ha imarãkuaáva
     .accesskey = E
+security-enable-safe-browsing-link = Kuaave
 security-block-downloads =
     .label = Ejoko ñemboguejy kyhyjerãva
     .accesskey = d
