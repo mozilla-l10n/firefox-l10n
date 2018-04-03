@@ -289,9 +289,13 @@ containers-remove-button =
 
 ## Privacy Section - Forms
 
+forms-saved-logins =
+    .label = ការ​ចូល​ដែល​បាន​រក្សាទុក...
+    .accesskey = L
 
 ## Privacy Section - History
 
+history-header = ប្រវត្តិ
 history-dontremember-description = { -brand-short-name } នឹង​ប្រើ​ការ​កំណត់​ដូច​គ្នា​ជា​ការ​​រក​មើល​ឯកជន ហើយ​នឹង​មិន​ចងចាំ​ប្រវត្តិ​ណាមួយ ពេល​ដែល​អ្នក​រក​មើល​តំបន់​បណ្ដាញ​នោះ​ទេ ។
 history-private-browsing-permanent =
     .label = ប្រើ​របៀប​រកមើល​ឯកជន​ជានិច្ច
@@ -302,6 +306,9 @@ history-remember-option =
 history-remember-search-option =
     .label = ចងចាំ​ប្រវត្តិ​ស្វែងរក និង​សំណុំ​បែបបទ
     .accesskey = ទ
+history-clear-on-close-option =
+    .label = សម្អាតប្រវត្តិ​នៅ​ពេល { -brand-short-name } បិទ
+    .accesskey = ប
 history-clear-on-close-settings =
     .label = កំពុង​កំណត់…
     .accesskey = ង
@@ -323,9 +330,27 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Tracking
 
+tracking-mode-always =
+    .label = ជានិច្ច
+    .accesskey = y
+tracking-mode-private =
+    .label = តែ​នៅ​ក្នុង​បង្អួច​ឯកជន​ប៉ុណ្ណោះ
+    .accesskey = l
+tracking-mode-never =
+    .label = កុំ
+    .accesskey = N
+tracking-exceptions =
+    .label = ករណី​លើកលែង…
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
+permissions-block-popups =
+    .label = ទប់ស្កាត់​​បង្អួច​លេច​ឡើង
+    .accesskey = ទ
+permissions-block-popups-exceptions =
+    .label = ករណី​លើក​លែង
+    .accesskey = ក
 
 ## Privacy Section - Data Collection
 
@@ -335,8 +360,17 @@ sitedata-cookies-exceptions =
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-enable-safe-browsing =
+    .label = ទប់ស្កាត់​មាតិកា​ដែល​មាន​ភាព​គ្រោះថ្នាក់​និង​ការ​បញ្ឆោត
+    .accesskey = B
+security-block-downloads =
+    .label = ទប់ស្កាត់​ការ​ទាញយក​ដែល​គ្រោះថ្នាក់
+    .accesskey = d
 
 ## Privacy Section - Certificates
 
 certs-header = វិញ្ញាបនបត្រ
 certs-personal-label = នៅ​ពេល​ម៉ាស៊ីន​មេ​ស្នើ​សុំ​វិញ្ញាបនបត្រ​ផ្ទាល់ខ្លួន​របស់​អ្នក
+certs-enable-ocsp =
+    .label = ម៉ាស៊ីន​មេ​កម្មវិធី​ឆ្លើយតប OCSP ត្រូវ​បញ្ជាក់​ភាព​ត្រឹមត្រូវ​នៃ​វិញ្ញាបនបត្រ​បច្ចុប្បន្ន
+    .accesskey = Q
