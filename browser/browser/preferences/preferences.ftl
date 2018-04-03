@@ -388,13 +388,38 @@ containers-remove-button =
 
 ## Privacy Section - Forms
 
+forms-exceptions =
+    .label = Eceçioin…
+    .accesskey = ç
+forms-master-pw-use =
+    .label = Adeuvia 'na paròlla segreta prinçipâ
+    .accesskey = p
 
 ## Privacy Section - History
 
 history-header = Stöia
+history-dontremember-description = { -brand-short-name } o deuvia e mæxime preferense da-a navegaçion privâ, e o no se aregòrda da stöia de teu navegaçioin.
+history-private-browsing-permanent =
+    .label = Deuvia de longo o mòddo de navegaçion privou
+    .accesskey = p
+history-remember-option =
+    .label = Aregòrda a stöia de navegaçion e descaregamenti
+    .accesskey = ç
+history-remember-search-option =
+    .label = Aregòrda e riçerche e a stöia di mòdoli
+    .accesskey = l
+history-clear-on-close-option =
+    .label = Scancella a stöia quande særa o { -brand-short-name }
+    .accesskey = r
+history-clear-on-close-settings =
+    .label = Inpostaçioin…
+    .accesskey = t
 
 ## Privacy Section - Site Data
 
+sitedata-cookies-exceptions =
+    .label = Eceçioin…
+    .accesskey = E
 
 ## Privacy Section - Address Bar
 
@@ -404,6 +429,12 @@ history-header = Stöia
 
 ## Privacy Section - Permissions
 
+permissions-block-popups =
+    .label = Blòcca i barcoin de pop-up
+    .accesskey = B
+permissions-addon-exceptions =
+    .label = Eceçioin…
+    .accesskey = E
 
 ## Privacy Section - Data Collection
 
