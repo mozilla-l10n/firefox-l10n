@@ -302,6 +302,10 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-visited-option =
+    .label = Kaŋ gunandi
+sitedata-accept-third-party-never-option =
+    .label = Abada
 sitedata-cookies-exceptions =
     .label = Hasarawey…
     .accesskey = H
