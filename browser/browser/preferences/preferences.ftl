@@ -507,6 +507,7 @@ permissions-a11y-privacy-checkbox =
 
 collection-description = Trudimo se, da vam ponudimo izbiro in da zbiramo samo tisto, kar potrebujemo za razvoj in izboljšave { -brand-short-name }a za vse uporabnike. Pred sprejemanjem osebnih podatkov vas vedno vprašamo za dovoljenje.
 collection-health-report-link = Več o tem
+collection-backlogged-crash-reports-link = Več o tem
 
 ## Privacy Section - Security
 ##
