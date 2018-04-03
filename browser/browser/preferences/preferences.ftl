@@ -358,58 +358,158 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = உலாவி தனியுரிமை
 
 ## Privacy Section - Forms
 
+forms-header = படிவங்கள் & கடவுச்சொற்கள்
+forms-remember-logins =
+    .label = இணைய தளங்களுக்கான பயனர் கடவுச்சொற்களை நினைவுப்படுத்து
+    .accesskey = R
 forms-exceptions =
     .label = விதிவிலக்குகள்…
     .accesskey = x
+forms-saved-logins =
+    .label = சேமிக்கப்பட்ட புகுபதிகைகள்...
+    .accesskey = L
+forms-master-pw-use =
+    .label = ஒரு முதன்மை கடவுச்சொல்லை பயன்படுத்தவும்
+    .accesskey = U
+forms-master-pw-change =
+    .label = முதன்மை கடவுச்சொல்லை மாற்றவும்...
+    .accesskey = M
 
 ## Privacy Section - History
 
 history-header = வரலாறு
 history-dontremember-description = { -brand-short-name } தனி உலாவல் அமைப்புகளையே பயன்படுத்தும் , மற்றும் நீங்கள் இணையத்தை உலாவும் போது எந்த வரலாற்றையும் நினைவில் கொள்ளாது.
+history-private-browsing-permanent =
+    .label = தனிப்பட்ட உலாவலை எப்போதும் பயன்படுத்து
+    .accesskey = p
 history-remember-option =
     .label = என் உலாவல் மற்றும் பதிவிறக்க வரலாற்றை நினைவில் கொள்
     .accesskey = வ
 history-remember-search-option =
     .label = தேடும் மற்றும் படிவ வரலாற்றை நினைவில் கொள்
     .accesskey = f
+history-clear-on-close-option =
+    .label = { -brand-short-name } மூடுகையில் வரலாற்றைத் துடை
+    .accesskey = r
 history-clear-on-close-settings =
     .label = அமைவுகள்…
     .accesskey = t
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = மேலும் அறிய
+sitedata-keep-until = அதுவரை வைத்திரு
+    .accesskey = u
+sitedata-accept-third-party-always-option =
+    .label = எப்போதும்
 sitedata-accept-third-party-visited-option =
     .label = பார்வையிட்டதிலிருந்து
 sitedata-accept-third-party-never-option =
     .label = ஒரு போதும் இல்லை
+sitedata-cookies-exceptions =
+    .label = விதிவிலக்குகள்...
+    .accesskey = E
 
 ## Privacy Section - Address Bar
 
+addressbar-header = முகவரி பட்டை
+addressbar-suggest = இடப்பட்டையைப் பயன்படுத்தும் போது, பரிந்துரைக்கவும்
+addressbar-locbar-history-option =
+    .label = உலாவல் வரலாறு
+    .accesskey = h
+addressbar-locbar-bookmarks-option =
+    .label = புத்தகக்குறிகள்
+    .accesskey = k
+addressbar-locbar-openpage-option =
+    .label = கீற்றுகளைத் திற
+    .accesskey = O
+addressbar-suggestions-settings = தேடுபொறி பரிந்துரைத்துலுக்கான முன்னுரிமைகளை மாற்று
 
 ## Privacy Section - Tracking
 
+tracking-header = தடமறியல் பாதுகாப்பு
+tracking-mode-always =
+    .label = எப்போதும்
+    .accesskey = y
+tracking-mode-private =
+    .label = அந்தரங்க சாளரங்களில் மட்டும்
+    .accesskey = l
+tracking-mode-never =
+    .label = ஒருபோதுமில்லை
+    .accesskey = N
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = அறியப்பட்ட தடமறிவான்களை முடக்க தனிப்பட்ட உலாவலில் தடமறியல் பாதுகாப்பைப் பயன்படுத்தவும்
+    .accesskey = v
+tracking-exceptions =
+    .label = விதிவிலக்குகள்…
+    .accesskey = x
+tracking-change-block-list =
+    .label = தடை பட்டியலை மாற்று...
+    .accesskey = C
 
 ## Privacy Section - Permissions
 
+permissions-header = அனுமதிகள்
+permissions-notification = அறிவிப்புகள்
 permissions-block-popups =
     .label = பாப் அப் (துள்ளும்) சாளரங்களை தடுக்கவும்
     .accesskey = ப
+permissions-block-popups-exceptions =
+    .label = விதிவிலக்குகள்...
+    .accesskey = வ
+permissions-addon-install-warning =
+    .label = வலைத்தளங்கள் துணை நிரல்களை நிறுவ முயற்சிக்கும் போது உங்களை எச்சரிக்கும்
+    .accesskey = W
 permissions-addon-exceptions =
     .label = விதிவிலக்குகள்…
     .accesskey = E
 
 ## Privacy Section - Data Collection
 
+collection-header = { -brand-short-name } தரவுத் திரட்டும் பயனளவும்
+collection-health-report-link = மேலும் அறிய
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = இந்தக் கட்டமைப்பிற்கு தரவு அறிக்கை முடக்கப்பட்டுள்ளது
+collection-backlogged-crash-reports-link = மேலும் அறிய
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = பாதுகாப்பு
+security-enable-safe-browsing =
+    .label = ஆபத்தான தீங்கிழைக்கும் உள்ளடக்கத்தைத் தடு
+    .accesskey = B
+security-block-downloads =
+    .label = ஆபத்தான பதிவிறக்கங்களை முடக்கு
+    .accesskey = d
+security-block-uncommon-software =
+    .label = தேவையற்ற பொதுவல்லாத மென்பொருள் பற்றி உங்களுக்கு எச்சரிக்கிறோம்
+    .accesskey = c
 
 ## Privacy Section - Certificates
 
 certs-header = சான்றிதழ்கள்
+certs-personal-label = ஒரு சேவையகம் உங்கள் தனிப்பட்ட சான்றிதழைக் கேட்டால்
+certs-select-auto-option =
+    .label = தானாக ஒன்றைத் தேர்ந்தெடு
+    .accesskey = S
+certs-select-ask-option =
+    .label = ஒவ்வொரு முறையும் உங்களைக் கேட்கவும்
+    .accesskey = அ
+certs-enable-ocsp =
+    .label = சான்றிதழ்களின் செல்லுபடி நிலையை உறுதிப்படுத்துவதற்காக OCSP பதிலளிப்பு சேவையகங்களிடம் வினவு
+    .accesskey = Q
+certs-view =
+    .label = சான்றிதழ்களைப் பார்…
+    .accesskey = C
+certs-devices =
+    .label = பாதுகாப்பு சாதனங்கள்…
+    .accesskey = D
