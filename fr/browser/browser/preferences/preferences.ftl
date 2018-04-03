@@ -385,10 +385,14 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = Vie privée
 
 ## Privacy Section - Forms
 
 forms-header = Formulaires et mots de passe
+forms-remember-logins =
+    .label = Enregistrer les identifiants et les mots de passe pour les sites web
+    .accesskey = s
 forms-exceptions =
     .label = Exceptions…
     .accesskey = x
@@ -405,6 +409,7 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Historique
+history-remember-description = { -brand-short-name } conservera les données de navigation, les téléchargements, les formulaires et l’historique de recherche.
 history-dontremember-description = { -brand-short-name } utilisera les mêmes paramètres que pour la navigation privée et ne conservera aucun historique de votre navigation.
 history-private-browsing-permanent =
     .label = Toujours utiliser le mode de navigation privée
@@ -421,21 +426,60 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Paramètres…
     .accesskey = P
+history-clear-button =
+    .label = Effacer l’historique…
+    .accesskey = h
 
 ## Privacy Section - Site Data
 
+sitedata-header = Cookies et données de sites
 sitedata-learn-more = En savoir plus
+sitedata-accept-cookies-option =
+    .label = Accepter les cookies et les données de sites (recommandé)
+    .accesskey = A
+sitedata-block-cookies-option =
+    .label = Bloquer les cookies et les données de sites (peut empêcher certains sites de fonctionner)
+    .accesskey = B
+sitedata-keep-until = Les conserver jusqu’à
+    .accesskey = L
+sitedata-accept-third-party-desc = Accepter les cookies tiers et les données de sites tiers
+    .accesskey = k
+sitedata-accept-third-party-always-option =
+    .label = Toujours
+sitedata-accept-third-party-visited-option =
+    .label = Depuis les sites visités
+sitedata-accept-third-party-never-option =
+    .label = Jamais
+sitedata-clear =
+    .label = Effacer les données…
+    .accesskey = E
+sitedata-settings =
+    .label = Gérer les données…
+    .accesskey = G
 sitedata-cookies-exceptions =
     .label = Exceptions…
     .accesskey = x
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Barre d’adresse
+addressbar-suggest = Lors de l’utilisation de la barre d’adresse, afficher des suggestions depuis
+addressbar-locbar-history-option =
+    .label = L’historique de navigation
+    .accesskey = H
+addressbar-locbar-bookmarks-option =
+    .label = Les marque-pages
+    .accesskey = M
+addressbar-locbar-openpage-option =
+    .label = Les onglets ouverts
+    .accesskey = O
 addressbar-suggestions-settings = Modifier les préférences pour les suggestions de recherche
 
 ## Privacy Section - Tracking
 
 tracking-header = Protection contre le pistage
+tracking-description = La protection contre le pistage bloque les traqueurs en ligne qui collectent vos données de navigation depuis plusieurs sites web. <a>En savoir plus sur la protection contre le pistage et sur la protection de votre vie privée</a>
+tracking-mode-label = Utiliser la protection contre le pistage pour bloquer les traqueurs connus
 tracking-mode-always =
     .label = Toujours
     .accesskey = T
@@ -445,22 +489,70 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Jamais
     .accesskey = J
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Utiliser la protection contre le pistage en navigation privée pour bloquer les traqueurs connus
+    .accesskey = i
 tracking-exceptions =
     .label = Exceptions…
     .accesskey = x
+tracking-change-block-list =
+    .label = Modifier les listes de blocage…
+    .accesskey = b
 
 ## Privacy Section - Permissions
 
+permissions-header = Permissions
+permissions-location = Localisation
+permissions-location-settings =
+    .label = Paramètres…
+    .accesskey = a
+permissions-camera = Caméra
+permissions-camera-settings =
+    .label = Paramètres…
+    .accesskey = a
+permissions-microphone = Microphone
+permissions-microphone-settings =
+    .label = Paramètres…
+    .accesskey = a
+permissions-notification = Notifications
+permissions-notification-settings =
+    .label = Paramètres…
+    .accesskey = a
+permissions-notification-link = En savoir plus
 permissions-block-popups =
     .label = Bloquer les fenêtres popup
     .accesskey = B
+permissions-block-popups-exceptions =
+    .label = Exceptions…
+    .accesskey = E
+permissions-addon-install-warning =
+    .label = Prévenir lorsque les sites essaient d’installer des modules complémentaires
+    .accesskey = P
 permissions-addon-exceptions =
     .label = Exceptions…
     .accesskey = E
+permissions-a11y-privacy-checkbox =
+    .label = Empêcher les services d’accessibilité d’avoir accès à votre navigateur
+    .accesskey = a
+permissions-a11y-privacy-link = En savoir plus
 
 ## Privacy Section - Data Collection
 
+collection-header = Collecte de données par { -brand-short-name } et utilisation
+collection-description = Nous nous efforçons de vous laisser le choix et de recueillir uniquement les informations dont nous avons besoin pour proposer et améliorer { -brand-short-name } pour tout le monde. Nous demandons toujours votre permission avant de recevoir des données personnelles.
+collection-privacy-notice = Politique de confidentialité
+collection-health-report =
+    .label = Autoriser { -brand-short-name } à envoyer des données techniques et des données d’interaction à { -vendor-short-name }
+    .accesskey = A
 collection-health-report-link = En savoir plus
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = L’envoi de données est désactivé pour cette configuration de compilation
+collection-backlogged-crash-reports =
+    .label = Autoriser { -brand-short-name } à envoyer pour vous les rapports de plantage en attente
+    .accesskey = t
+collection-backlogged-crash-reports-link = En savoir plus
 
 ## Privacy Section - Security
 ##
@@ -468,9 +560,11 @@ collection-health-report-link = En savoir plus
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Sécurité
+security-browsing-protection = Protection contre les contenus trompeurs et les logiciels dangereux
 security-enable-safe-browsing =
     .label = Bloquer les contenus dangereux ou trompeurs
     .accesskey = B
+security-enable-safe-browsing-link = En savoir plus
 security-block-downloads =
     .label = Bloquer les téléchargements dangereux
     .accesskey = D
@@ -491,3 +585,9 @@ certs-select-ask-option =
 certs-enable-ocsp =
     .label = Interroger le répondeur OCSP pour confirmer la validité de vos certificats
     .accesskey = I
+certs-view =
+    .label = Afficher les certificats…
+    .accesskey = A
+certs-devices =
+    .label = Périphériques de sécurité…
+    .accesskey = P
