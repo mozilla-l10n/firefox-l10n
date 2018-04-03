@@ -382,6 +382,7 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = 더 알아보기
 sitedata-accept-third-party-always-option =
     .label = 항상 허용
 sitedata-accept-third-party-visited-option =
@@ -391,15 +392,31 @@ sitedata-accept-third-party-never-option =
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-bookmarks-option =
+    .label = 북마크
+    .accesskey = k
+addressbar-locbar-openpage-option =
+    .label = 탭 열기
+    .accesskey = O
 
 ## Privacy Section - Tracking
 
 
 ## Privacy Section - Permissions
 
+permissions-header = 권한
+permissions-location = 위치
+permissions-camera = 카메라
+permissions-microphone = 마이크
+permissions-notification = 알림
+permissions-notification-link = 더 알아보기
 permissions-block-popups =
     .label = 팝업 창 차단
     .accesskey = B
+permissions-block-popups-exceptions =
+    .label = 예외 목록…
+    .accesskey = E
+permissions-a11y-privacy-link = 더 알아보기
 
 ## Privacy Section - Data Collection
 
