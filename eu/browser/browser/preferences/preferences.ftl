@@ -385,12 +385,20 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = Nabigatzailearen pribatutasuna
 
 ## Privacy Section - Forms
 
+forms-header = Inprimakiak eta pasahitzak
+forms-remember-logins =
+    .label = Gogoratu webguneetako saio-hasierak eta pasahitzak
+    .accesskey = G
 forms-exceptions =
     .label = Salbuespenak…
     .accesskey = n
+forms-saved-logins =
+    .label = Gordetako saio-hasierak…
+    .accesskey = s
 forms-master-pw-use =
     .label = Erabili pasahitz nagusia
     .accesskey = E
@@ -400,6 +408,7 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-header = Historia
 history-dontremember-description = { -brand-short-name }(e)k nabigatze pribatuaren ezarpen berak erabiliko ditu, eta ez du gogoratuko historia webean nabigatzen ari zarenean.
 history-private-browsing-permanent =
     .label = Erabili beti nabigatze pribatuko modua
@@ -419,6 +428,11 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = Argibide gehiago
+sitedata-keep-until = Mantentze-epea
+    .accesskey = M
+sitedata-accept-third-party-always-option =
+    .label = Beti
 sitedata-accept-third-party-visited-option =
     .label = Bisitatutako guneetatik
 sitedata-accept-third-party-never-option =
@@ -429,31 +443,106 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Helbide-barra
+addressbar-suggest = Helbide-barra erabiltzean, gomendatu
+addressbar-locbar-history-option =
+    .label = Nabigatze-historia
+    .accesskey = h
+addressbar-locbar-bookmarks-option =
+    .label = Laster-markak
+    .accesskey = L
+addressbar-locbar-openpage-option =
+    .label = Irekitako fitxak
+    .accesskey = I
+addressbar-suggestions-settings = Aldatu bilaketa-motorren iradokizunetarako hobespenak
 
 ## Privacy Section - Tracking
 
+tracking-header = Jarraipenaren babesa
+tracking-mode-always =
+    .label = Beti
+    .accesskey = B
+tracking-mode-private =
+    .label = Leiho pribatuak soilik
+    .accesskey = s
+tracking-mode-never =
+    .label = Inoiz ez
+    .accesskey = I
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Babestu jarraipena egiteaz ezagunak diren guneetatik nabigatze pribatuan
+    .accesskey = b
+tracking-exceptions =
+    .label = Salbuespenak…
+    .accesskey = S
+tracking-change-block-list =
+    .label = Aldatu blokeo-zerrenda…
+    .accesskey = A
 
 ## Privacy Section - Permissions
 
+permissions-header = Baimenak
+permissions-location = Kokapena
+permissions-camera = Kamera
+permissions-microphone = Mikrofonoa
+permissions-notification = Jakinarazpenak
+permissions-notification-link = Argibide gehiago
 permissions-block-popups =
     .label = Blokeatu pop-up leihoak
     .accesskey = B
+permissions-block-popups-exceptions =
+    .label = Salbuespenak…
+    .accesskey = e
+permissions-addon-install-warning =
+    .label = Abisatu webgune bat gehigarriak instalatzen saiatzen bada
+    .accesskey = A
 permissions-addon-exceptions =
     .label = Salbuespenak…
     .accesskey = S
 
 ## Privacy Section - Data Collection
 
+collection-header = { -brand-short-name } datuen bilketa eta erabilera
+collection-description = Aukerak ematen ahalegintzen gara { -brand-short-name } denontzat hobetzeko behar ditugun datuak soilik biltzeko. Informazio pertsonala jaso aurretik zure baimena eskatzen dugu beti.
+collection-privacy-notice = Pribatutasun-oharra
+collection-health-report-link = Argibide gehiago
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Datuen berri ematea desgaituta dago eraikitze-konfigurazio honetarako
+collection-backlogged-crash-reports-link = Argibide gehiago
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Segurtasuna
+security-enable-safe-browsing =
+    .label = Blokeatu eduki arriskutsu eta iruzurtia
+    .accesskey = B
+security-block-downloads =
+    .label = Blokeatu deskarga arriskutsuak
+    .accesskey = s
+security-block-uncommon-software =
+    .label = Abisatu nahi ez den eta ezohikoa den softwareari buruz
+    .accesskey = o
 
 ## Privacy Section - Certificates
 
 certs-header = Ziurtagiriak
+certs-personal-label = Webgune batek nire ziurtagiri pertsonala eskatzen duenean:
+certs-select-auto-option =
+    .label = Hautatu bat automatikoki
+    .accesskey = t
+certs-select-ask-option =
+    .label = Galdetu beti
+    .accesskey = G
 certs-enable-ocsp =
     .label = Galdetu OCSP erantzule-zerbitzariei ziurtagiriak baliozkoak diren egiaztatzeko
     .accesskey = G
+certs-view =
+    .label = Ikusi ziurtagiriak…
+    .accesskey = k
+certs-devices =
+    .label = Segurtasun-gailuak…
+    .accesskey = S
