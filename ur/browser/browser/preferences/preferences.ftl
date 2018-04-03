@@ -297,6 +297,9 @@ containers-remove-button =
 forms-exceptions =
     .label = استثنیات…
     .accesskey = ا
+forms-saved-logins =
+    .label = محفوظ شدہ لاگ ان…
+    .accesskey = ل
 forms-master-pw-use =
     .label = ماسٹر پاس ورڈ استعمال کریں
     .accesskey = ا
@@ -326,6 +329,7 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = مزید سیکھیں
 sitedata-accept-third-party-visited-option =
     .label = ملاحظہ شدہ سے
 sitedata-accept-third-party-never-option =
@@ -336,25 +340,67 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-bookmarks-option =
+    .label = نشانیاں
+    .accesskey = ن
+addressbar-locbar-openpage-option =
+    .label = ٹیب کھولیے
+    .accesskey = ک
 
 ## Privacy Section - Tracking
 
+tracking-mode-always =
+    .label = ہمیشہ
+    .accesskey = ہ
+tracking-mode-private =
+    .label = صرف نجی ونڈوں میں
+    .accesskey = ف
+tracking-mode-never =
+    .label = کبھی نہیں
+    .accesskey = ک
+tracking-exceptions =
+    .label = استثنیات…
+    .accesskey = ا
 
 ## Privacy Section - Permissions
 
+permissions-block-popups =
+    .label = پوپ اپ دریچے بلاک کیجیے
+    .accesskey = ب
 permissions-addon-exceptions =
     .label = استثنیات…
     .accesskey = ا
 
 ## Privacy Section - Data Collection
 
+collection-health-report-link = مزید سیکھیں
+collection-backlogged-crash-reports-link = مزید سیکھیں
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = سلامتی
+security-enable-safe-browsing =
+    .label = خطرناک اور دھوکہ دینے والے مواد کو بلاک کریں
+    .accesskey = ب
+security-block-downloads =
+    .label = خطرناک ڈاؤن لوڈز کو بلاک کریں
+    .accesskey = خ
+security-block-uncommon-software =
+    .label = غیر عمومی سافٹ ویئر کے متعلق مجھیں خبردار کریں
+    .accesskey = و
 
 ## Privacy Section - Certificates
 
 certs-header = تصدیق نامے
+certs-select-auto-option =
+    .label = خودبخود ایک منتخب کریں
+    .accesskey = S
+certs-select-ask-option =
+    .label = مجھے ہر بار پوچھیں
+    .accesskey = A
+certs-enable-ocsp =
+    .label = سوال OCSP ریسپانڈر سرور کی موجودہ سرٹیفکیٹ کی تصدیق کرتی ہے
+    .accesskey = س
