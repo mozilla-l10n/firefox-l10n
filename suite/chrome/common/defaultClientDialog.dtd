@@ -8,7 +8,7 @@
 <!ENTITY browser.label "Nettlesar">
 <!ENTITY email.label "E-post">
 <!ENTITY newsgroups.label "Nyheitsgrupper">
-<!ENTITY feeds.label "Nyheitskjelder">
+<!ENTITY feeds.label "RSS-kjelder">
 
 <!ENTITY checkOnStartup.label "Alltid kontroller standardprogram når &brandShortName; startar">
 <!ENTITY checkOnStartup.accesskey "A">
