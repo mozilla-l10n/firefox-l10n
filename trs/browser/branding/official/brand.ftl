@@ -14,4 +14,4 @@
 ## Reference: https://www.mozilla.org/styleguide/communications/translation/
 
 -brand-short-name = Firefox
--vendor-short-name = Mozilla{ " " }
+-vendor-short-name = Mozilla
