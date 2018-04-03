@@ -484,6 +484,9 @@ permissions-a11y-privacy-link = Saznajte više
 collection-header = { -brand-short-name } korištenje i skupljanje podataka
 collection-description = Težimo da vam omogućimo izbor i prikupljamo samo onoliko koliko nam treba da omogućimo i unaprijedimo { -brand-short-name } za sve. Uvijek pitamo za dozvolu prije nego li počmemo primati osobne informacije.
 collection-privacy-notice = Politika privatnosti
+collection-health-report =
+    .label = Dozvolite da { -brand-short-name } šalje tehničke i podatke interakcije Mozilli
+    .accesskey = r
 collection-health-report-link = Saznajte više
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
@@ -500,6 +503,7 @@ security-browsing-protection = Zaštita od zavaravajućeg sadržaja i zlonamjern
 security-enable-safe-browsing =
     .label = Blokiraj opasni i zavaravajući sadržaj
     .accesskey = B
+security-enable-safe-browsing-link = Saznajte više
 security-block-downloads =
     .label = Blokiraj opasna preuzimanja
     .accesskey = o
