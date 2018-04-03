@@ -395,6 +395,9 @@ containers-remove-button =
 forms-exceptions =
     .label = Izjeme …
     .accesskey = i
+forms-saved-logins =
+    .label = Shranjene prijave …
+    .accesskey = H
 forms-master-pw-use =
     .label = Uporabi glavno geslo
     .accesskey = U
@@ -455,6 +458,7 @@ collection-health-report-link = Več o tem
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-browsing-protection = Zaščita pred zavajajočo vsebino in nevarno programsko opremo
 
 ## Privacy Section - Certificates
 
