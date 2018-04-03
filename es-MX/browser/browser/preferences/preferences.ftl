@@ -389,6 +389,7 @@ privacy-header = Navegación privada
 
 ## Privacy Section - Forms
 
+forms-header = Contraseñas de los formularios &
 forms-remember-logins =
     .label = Recordar inicios de sesión y contraseñas para sitios web
     .accesskey = R
@@ -468,6 +469,7 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Abrir pestañas
     .accesskey = O
+addressbar-suggestions-settings = Cambiar las preferencias para las sugerencias del motor de navegación
 
 ## Privacy Section - Tracking
 
@@ -553,6 +555,7 @@ collection-backlogged-crash-reports-link = Saber más
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Seguridad
 security-browsing-protection = Protección contra contenido engañoso y software peligroso
 security-enable-safe-browsing =
     .label = Bloquear contenido peligroso y engañoso
@@ -561,10 +564,17 @@ security-enable-safe-browsing-link = Saber más
 security-block-downloads =
     .label = Bloquear descargas peligrosas
     .accesskey = D
+security-block-uncommon-software =
+    .label = Te avisa de software no solicitado y poco común
+    .accesskey = C
 
 ## Privacy Section - Certificates
 
 certs-header = Certificados
+certs-personal-label = Cuando un servidor te pide tu certificado personal
+certs-select-auto-option =
+    .label = Seleccionar uno automáticamente
+    .accesskey = S
 certs-view =
     .label = Ver certificados…
     .accesskey = C
