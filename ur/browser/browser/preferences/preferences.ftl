@@ -294,9 +294,15 @@ containers-remove-button =
 
 ## Privacy Section - Forms
 
+forms-exceptions =
+    .label = استثنیات…
+    .accesskey = ا
 forms-master-pw-use =
     .label = ماسٹر پاس ورڈ استعمال کریں
     .accesskey = ا
+forms-master-pw-change =
+    .label = ماسٹر پاس ورڈ تبدیل کریں…
+    .accesskey = م
 
 ## Privacy Section - History
 
@@ -314,9 +320,19 @@ history-remember-search-option =
 history-clear-on-close-option =
     .label = { -brand-short-name } کے بند ہونے پر سابقات صاف کریں
     .accesskey = ص
+history-clear-on-close-settings =
+    .label = سیٹنگیں…
+    .accesskey = س
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-visited-option =
+    .label = ملاحظہ شدہ سے
+sitedata-accept-third-party-never-option =
+    .label = کبھی نہیں
+sitedata-cookies-exceptions =
+    .label = استثنیات…
+    .accesskey = ا
 
 ## Privacy Section - Address Bar
 
@@ -326,6 +342,9 @@ history-clear-on-close-option =
 
 ## Privacy Section - Permissions
 
+permissions-addon-exceptions =
+    .label = استثنیات…
+    .accesskey = ا
 
 ## Privacy Section - Data Collection
 
