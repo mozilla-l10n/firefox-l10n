@@ -6,8 +6,8 @@
 
 <!ENTITY languages.customize.Header                     "Idiomas y codificación de caracteres">
 <!ENTITY languages.customize2.description               "Las páginas web a veces están disponibles en más de un idioma. Elige los idiomas que se muestran en las páginas web en órden de preferencia">
-<!ENTITY languages.customize.moveUp.label               "Más">
-<!ENTITY languages.customize.moveUp.accesskey           "M">
+<!ENTITY languages.customize.moveUp.label               "Subir">
+<!ENTITY languages.customize.moveUp.accesskey           "S">
 <!ENTITY languages.customize.moveDown.label             "Bajar">
 <!ENTITY languages.customize.moveDown.accesskey         "B">
 <!ENTITY languages.customize.deleteButton.label         "Quitar">
@@ -15,5 +15,4 @@
 <!ENTITY languages.customize.selectLanguage.label       "Idiomas…">
 <!ENTITY languages.customize.addButton.label            "Agregar">
 <!ENTITY languages.customize.addButton.accesskey        "A">
-
 <!ENTITY languages.customize.spoofEnglish               "Solicitar versiones en inglés de páginas web para mayor privacidad">
