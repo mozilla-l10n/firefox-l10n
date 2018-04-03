@@ -393,6 +393,8 @@ history-clear-button =
 
 sitedata-header = కుకీలు మరియు సైటు డేటా
 sitedata-learn-more = మరింత తెలుసుకోండి
+sitedata-keep-until = ఇంత వరకు ఉంచు
+    .accesskey = u
 sitedata-accept-third-party-always-option =
     .label = ఎల్లప్పుడూ
 sitedata-accept-third-party-visited-option =
@@ -447,9 +449,21 @@ tracking-change-block-list =
 
 permissions-header = అనుమతులు
 permissions-location = స్థానము
+permissions-location-settings =
+    .label = అమరికలు…
+    .accesskey = I
 permissions-camera = కెమేరా
+permissions-camera-settings =
+    .label = అమరికలు…
+    .accesskey = c
 permissions-microphone = మైక్రోఫోను
+permissions-microphone-settings =
+    .label = అమరికలు…
+    .accesskey = m
 permissions-notification = గమనింపులు
+permissions-notification-settings =
+    .label = అమరికలు…
+    .accesskey = n
 permissions-notification-link = ఇంకా తెలుసుకోండి
 permissions-block-popups =
     .label = పాప్-అప్ విండోలను నిరోధించు
@@ -460,6 +474,7 @@ permissions-block-popups-exceptions =
 permissions-addon-exceptions =
     .label = మినహాయింపులు…
     .accesskey = E
+permissions-a11y-privacy-link = ఇంకా తెలుసుకోండి
 
 ## Privacy Section - Data Collection
 
