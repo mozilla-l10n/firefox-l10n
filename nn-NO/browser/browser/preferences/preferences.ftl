@@ -385,44 +385,100 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = Nettlesarpersonvern
 
 ## Privacy Section - Forms
 
+forms-header = Skjema og passord
+forms-remember-logins =
+    .label = Hugs innloggingar og passord for nettsider
+    .accesskey = H
 forms-exceptions =
     .label = Unntak…
     .accesskey = n
+forms-saved-logins =
+    .label = Lagre innloggingar…
+    .accesskey = L
 forms-master-pw-use =
     .label = Bruk eit hovudpassord
     .accesskey = r
+forms-master-pw-change =
+    .label = Endre hovudpassord…
+    .accesskey = d
 
 ## Privacy Section - History
 
 history-header = Historikk
+history-dontremember-description = { -brand-short-name } vil bruke dei same innstillingane som privat nettlesing og vil ikkje hugse historikk medan du brukar nettet.
+history-private-browsing-permanent =
+    .label = Alltid bruke privat nettlesing-modus
+    .accesskey = A
 history-remember-option =
     .label = Hugse nettlesar- og nedlastingshistorikk
     .accesskey = H
+history-remember-search-option =
+    .label = Hugse søkje- og skjemahistorikk
+    .accesskey = ø
+history-clear-on-close-option =
+    .label = Slette historikk når { -brand-short-name } avsluttar
+    .accesskey = S
+history-clear-on-close-settings =
+    .label = Innstillingar…
+    .accesskey = I
+history-clear-button =
+    .label = Tøm historikk…
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
+sitedata-header = Infokapslar og sidedata
 sitedata-learn-more = Les meir
+sitedata-accept-cookies-option =
+    .label = Tillat infokapslar og nettsidedata frå nettstadar (tilrådd)
+    .accesskey = T
+sitedata-block-cookies-option =
+    .label = Blokker infokapslar og nettsidedata frå nettstadar (kan skape feil på nettstaden)
+    .accesskey = B
+sitedata-keep-until = Behald til
+    .accesskey = B
+sitedata-accept-third-party-desc = Tillat infokapslar frå tredjepart og nettsidedata
+    .accesskey = e
 sitedata-accept-third-party-always-option =
     .label = Alltid
 sitedata-accept-third-party-visited-option =
     .label = Frå besøkte
 sitedata-accept-third-party-never-option =
     .label = Aldri
+sitedata-clear =
+    .label = Tøm data…
+    .accesskey = T
+sitedata-settings =
+    .label = Handter data…
+    .accesskey = H
 sitedata-cookies-exceptions =
     .label = Unntak…
     .accesskey = U
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Adresselinje
+addressbar-suggest = Når du brukar adresselinja, føreslå
+addressbar-locbar-history-option =
+    .label = Nettlesarhistorikk
+    .accesskey = h
 addressbar-locbar-bookmarks-option =
     .label = Bokmerke
     .accesskey = k
+addressbar-locbar-openpage-option =
+    .label = Opne faner
+    .accesskey = O
+addressbar-suggestions-settings = Endre innstillingar for søkjeforslag
 
 ## Privacy Section - Tracking
 
+tracking-header = Sporingsvern
+tracking-description = Sporingsvernet blokkerer sporfølgjarar på nettet som samlar inn nettleserdataa dine på fleire nettstadar. <a>Les meir om sporingsvern og ditt personvern</a>
+tracking-mode-label = Bruk sporingsvern for å blokkere kjende sporfølgjarar
 tracking-mode-always =
     .label = Alltid
     .accesskey = l
@@ -435,28 +491,82 @@ tracking-mode-never =
 tracking-exceptions =
     .label = Unntak…
     .accesskey = U
+tracking-change-block-list =
+    .label = Endre blokkeringsliste…
+    .accesskey = b
 
 ## Privacy Section - Permissions
 
+permissions-header = Løyve
+permissions-location = Plassering
+permissions-location-settings =
+    .label = Innstillingar…
+    .accesskey = t
+permissions-camera = Kamera
+permissions-camera-settings =
+    .label = Innstillingar…
+    .accesskey = t
+permissions-microphone = Mikrofon
+permissions-microphone-settings =
+    .label = Innstillingar…
+    .accesskey = t
+permissions-notification = Varsel
+permissions-notification-settings =
+    .label = Innstillingar…
+    .accesskey = t
+permissions-notification-link = Les meir
+permissions-notification-pause =
+    .label = Set varsel på pause til { -brand-short-name } startar på nytt
+    .accesskey = n
 permissions-block-popups =
     .label = Blokker sprettoppvindauge
     .accesskey = B
+permissions-block-popups-exceptions =
+    .label = Unntak…
+    .accesskey = U
+permissions-addon-install-warning =
+    .label = Åtvar meg når netsider vil installere utvidingar
+    .accesskey = Å
 permissions-addon-exceptions =
     .label = Unntak…
     .accesskey = U
+permissions-a11y-privacy-checkbox =
+    .label = Hindre tilgangstenester tilgjenge til nettlesaren din
+    .accesskey = H
+permissions-a11y-privacy-link = Les meir
 
 ## Privacy Section - Data Collection
 
+collection-header = Datainnsamling og bruk for { -brand-short-name }
+collection-description = Vi prøver alltid å gje deg val og samlar inn berre det vi treng for å levere og forbetre { -brand-short-name } for alle. Vi ber alltid om løyve før vi får personopplysningar.
+collection-privacy-notice = Personvernerklæring
+collection-health-report =
+    .label = Tillat { -brand-short-name } å sende teknisk- og interaksjonsdata til { -vendor-short-name }
+    .accesskey = r
 collection-health-report-link = Les meir
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Datarapportering er deaktivert for denne byggekonfigurasjonen
+collection-browser-errors =
+    .label = Tillat { -brand-short-name } å sende feilrapportar (inkludert feilmeldingar) til { -vendor-short-name }
+    .accesskey = T
+collection-browser-errors-link = Les meir
+collection-backlogged-crash-reports =
+    .label = Tillat { -brand-short-name } å sende etterslepne krasjrapportar på dine vegner
+    .accesskey = s
+collection-backlogged-crash-reports-link = Les meir
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Sikkerheit
+security-browsing-protection = Vern mot villeiande innhald og skadeleg programvare
 security-enable-safe-browsing =
     .label = Blokker farleg og villeiande innhald
     .accesskey = B
+security-enable-safe-browsing-link = Les meir
 security-block-downloads =
     .label = Blokker farlege nedlastingar
     .accesskey = f
@@ -467,6 +577,19 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Sertifikat
+certs-personal-label = Når ein server ber om det personlege sertifikatet ditt
+certs-select-auto-option =
+    .label = Vel eit automatisk
+    .accesskey = s
 certs-select-ask-option =
     .label = Spør kvar gong
     .accesskey = S
+certs-enable-ocsp =
+    .label = Spør OCSP-tenarar om å stadfeste gyldigheita til sertifikat
+    .accesskey = O
+certs-view =
+    .label = Vis sertifikat…
+    .accesskey = s
+certs-devices =
+    .label = Tryggingseiningar…
+    .accesskey = T
