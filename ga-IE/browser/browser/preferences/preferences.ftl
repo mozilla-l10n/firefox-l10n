@@ -320,3 +320,82 @@ containers-preferences-button =
     .label = Sainroghanna
 containers-remove-button =
     .label = Bain
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = Eisceachtaí…
+    .accesskey = s
+forms-master-pw-use =
+    .label = Úsáid príomhfhocal faire
+    .accesskey = p
+forms-master-pw-change =
+    .label = Athraigh an Príomhfhocal Faire…
+    .accesskey = P
+
+## Privacy Section - History
+
+history-header = Stair
+history-dontremember-description = Úsáidfidh { -brand-short-name } na socruithe céanna mar a úsáidtear sa bhrabhsáil phríobháideach, agus ní mheabhróidh sé stair ar bith agus tú ag brabhsáil an Ghréasáin.
+history-private-browsing-permanent =
+    .label = Bain úsáid as Brabhsáil Phríobháideach i gcónaí
+    .accesskey = P
+history-remember-search-option =
+    .label = Meabhraigh an stair chuardaigh agus fhoirme
+    .accesskey = f
+history-clear-on-close-option =
+    .label = Glan an stair agus { -brand-short-name } á dhúnadh
+    .accesskey = r
+history-clear-on-close-settings =
+    .label = Socruithe…
+    .accesskey = c
+
+## Privacy Section - Site Data
+
+sitedata-accept-third-party-visited-option =
+    .label = Ó shuímh fheicthe
+sitedata-accept-third-party-never-option =
+    .label = Riamh
+sitedata-cookies-exceptions =
+    .label = Eisceachtaí…
+    .accesskey = E
+
+## Privacy Section - Address Bar
+
+addressbar-locbar-bookmarks-option =
+    .label = Leabharmharcanna
+    .accesskey = L
+addressbar-locbar-openpage-option =
+    .label = Cluaisíní oscailte
+    .accesskey = o
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-block-popups =
+    .label = Cuir Cosc ar Phreabfhuinneoga
+    .accesskey = C
+permissions-addon-exceptions =
+    .label = Eisceachtaí…
+    .accesskey = E
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
+certs-header = Teastais
+certs-enable-ocsp =
+    .label = Iarr ar fhreastalaí freagróra OCSP bailíocht teastais a dheimhniú
+    .accesskey = O
