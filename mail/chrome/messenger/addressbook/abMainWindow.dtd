@@ -133,10 +133,10 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "m">
 <!ENTITY exportCmd.label                                "Exportera…">
 <!ENTITY exportCmd.accesskey                            "x">
-<!ENTITY preferencesCmd2.label                          "Alternativ">
-<!ENTITY preferencesCmd2.accesskey                      "e">
+<!ENTITY preferencesCmd2.label                          "Inställningar">
+<!ENTITY preferencesCmd2.accesskey                      "n">
 <!ENTITY preferencesCmdUnix.label                       "Inställningar">
-<!ENTITY preferencesCmdUnix.accesskey                   "I">
+<!ENTITY preferencesCmdUnix.accesskey                   "n">
 
 <!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "Ny kontakt">

@@ -7,7 +7,7 @@
 
 <!ENTITY sourceEditField.label "Skriv in LaTeX-källkoden:">
 
-<!ENTITY options.label "Alternativ">
+<!ENTITY options.label "Inställningar">
 <!ENTITY optionInline.label "Infogat läge">
 <!ENTITY optionInline.accesskey "N">
 <!ENTITY optionDisplay.label "Visningsläge">

@@ -2,12 +2,18 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY prefWindow.titleWin      "Alternativ">
-<!ENTITY prefWindow.titleGNOME    "&brandShortName; Inställningar">
+<!ENTITY  windowClose.key                  "w">
+<!ENTITY  preferencesDefaultTitleMac.title "Inställningar">
+<!ENTITY  preferencesDefaultTitleWin.title "Inställningar">
+<!ENTITY  preferencesCloseButton.label     "Stäng">
+<!ENTITY  preferencesCloseButton.accesskey "S">
+
+<!ENTITY  prefWindow.titleWin     "Inställningar">
+<!ENTITY  prefWindow.titleGNOME   "&brandShortName; Inställningar">
 <!ENTITY  prefWindow.titleMAC     "Inställningar">
 <!ENTITY  prefWindow.styleWindows "width: 48em; min-height: 38.5em;">
-<!ENTITY prefWindow.styleMac      "width: 50em;">
-<!ENTITY prefWindow.styleGNOME    "width: 49em; min-height: 38em;">
+<!ENTITY  prefWindow.styleMac     "width: 50em;">
+<!ENTITY  prefWindow.styleGNOME   "width: 49em; min-height: 38em;">
 
 <!ENTITY paneGeneral.title        "Allmänt">
 <!ENTITY paneDisplay.title        "Visa">
