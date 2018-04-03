@@ -75,7 +75,7 @@ restart-later = Start på nytt seinare
 
 ## Preferences UI Search Results
 
-search-results-header = Søkjeresultat
+search-results-header = Søkeresultat
 # `<span></span>` will be replaced by the search term.
 search-results-sorry-message =
     { PLATFORM() ->
@@ -237,7 +237,7 @@ update-application-use-service =
     .label = Bruk ei bakgrunnsteneste for å installere oppdateringar
     .accesskey = B
 update-enable-search-update =
-    .label = Oppdater søkjemotorar automatisk
+    .label = Oppdater søkemotorar automatisk
     .accesskey = e
 
 ## General Section - Performance
@@ -329,18 +329,18 @@ restore-default =
 
 ## Search Section
 
-search-bar-header = Søkjelinje
+search-bar-header = Søkelinje
 search-bar-hidden =
     .label = Bruk adresselinja for søk og navigering
 search-bar-shown =
-    .label = Legg til søkjelinje i verktøylinja
-search-engine-default-header = Standard søkjemotor
-search-engine-default-desc = Vel standard-søkjemotor som skal brukast i adresselinja og søkjelinja.
+    .label = Legg til søkelinje i verktøylinja
+search-engine-default-header = Standard søkemotor
+search-engine-default-desc = Vel standard-søkemotor som skal brukast i adresselinja og søkelinja.
 search-suggestions-option =
-    .label = Tilby søkjeforslag
+    .label = Tilby søkeforslag
     .accesskey = T
 search-show-suggestions-url-bar-option =
-    .label = Vis søkjeforslag i resultata til adresselinja
+    .label = Vis søkeforslag i resultata til adresselinja
     .accesskey = l
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
@@ -348,21 +348,21 @@ search-show-suggestions-url-bar-option =
 # "ahead" refers to location (appearing most proximate to), not time
 # (appearing before).
 search-show-suggestions-above-history-option =
-    .label = Vis søkjeforslag før nettlesarhistorikk i adressefeltresultata
-search-suggestions-cant-show = Søkjeforslag vil ikkje visast i adresselinjeresultata fordi du har konfigurert { -brand-short-name } til å aldri hugse historikk.
-search-one-click-header = Eittklikks-søkjemotorar
-search-one-click-desc = Vel alternative søkjemotorar som vert viste under adresselinja og søkjelinja når du byrjar å skrive inn eit søkjeord.
+    .label = Vis søkeforslag før nettlesarhistorikk i adressefeltresultata
+search-suggestions-cant-show = Søkeforslag vil ikkje visast i adresselinjeresultata fordi du har konfigurert { -brand-short-name } til å aldri hugse historikk.
+search-one-click-header = Eittklikks-søkemotorar
+search-one-click-desc = Vel alternative søkemotorar som vert viste under adresselinja og søkelinja når du byrjar å skrive inn eit søkeord.
 search-choose-engine-column =
-    .label = Søkjemotor
+    .label = Søkemotor
 search-choose-keyword-column =
     .label = Nykelord
 search-restore-default =
-    .label = Bygg oppatt standard søkjemotorar
+    .label = Bygg oppatt standard søkemotorar
     .accesskey = G
 search-remove-engine =
     .label = Fjern
     .accesskey = F
-search-find-more-link = Finn fleire søkjemotorar
+search-find-more-link = Finn fleire søkemotorar
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Kopiere stikkord
@@ -418,7 +418,7 @@ history-remember-option =
     .label = Hugse nettlesar- og nedlastingshistorikk
     .accesskey = H
 history-remember-search-option =
-    .label = Hugse søkje- og skjemahistorikk
+    .label = Hugse søke- og skjemahistorikk
     .accesskey = ø
 history-clear-on-close-option =
     .label = Slette historikk når { -brand-short-name } avsluttar
@@ -473,7 +473,7 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Opne faner
     .accesskey = O
-addressbar-suggestions-settings = Endre innstillingar for søkjeforslag
+addressbar-suggestions-settings = Endre innstillingar for søkeforslag
 
 ## Privacy Section - Tracking
 

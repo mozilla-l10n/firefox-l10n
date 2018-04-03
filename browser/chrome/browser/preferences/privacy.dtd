@@ -33,10 +33,10 @@
 <!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "Opne faner">
 <!ENTITY  locbar.openpage.accesskey     "O">
-<!ENTITY  locbar.searches.label         "Liknande søk frå standard-søkjemotoren">
+<!ENTITY  locbar.searches.label         "Liknande søk frå standard-søkemotoren">
 <!ENTITY  locbar.searches.accesskey     "L">
 
-<!ENTITY  suggestionSettings2.label     "Endre innstillingar for søkjeforslag">
+<!ENTITY  suggestionSettings2.label     "Endre innstillingar for søkeforslag">
 
 <!ENTITY  acceptCookies2.label          "Godta infokapslar frå nettsider">
 <!ENTITY  acceptCookies2.accesskey      "G">
@@ -75,7 +75,7 @@
 <!ENTITY  historyHeader.custom.label       "Bruke eigne innstillingar for historikk">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; vil hugse nettlesing, nedlasting, skjema og søkjehistorikk, og ta vare på infokapslar frå nettsider du besøkjer.">
+<!ENTITY  rememberDescription.label      "&brandShortName; vil hugse nettlesing, nedlasting, skjema og søkehistorikk, og ta vare på infokapslar frå nettsider du besøker.">
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
@@ -86,7 +86,7 @@
 <!ENTITY  rememberActions.removeCookies.label "fjerne enkelte infokapslar">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  rememberDescription1.label      "&brandShortName; vil lagre informasjon om besøkte nettsider, skjema- og søkjehistorikk.">
+<!ENTITY  rememberDescription1.label      "&brandShortName; vil lagre informasjon om besøkte nettsider, skjema- og søkehistorikk.">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; vil bruke dei same innstillingane som privat nettlesing og vil ikkje hugse historikk medan du brukar nettet.">
 
@@ -105,7 +105,7 @@
 <!ENTITY  rememberHistory2.label      "Hugse nettlesar- og nedlastingshistorikk">
 <!ENTITY  rememberHistory2.accesskey  "H">
 
-<!ENTITY  rememberSearchForm.label       "Hugse søkje- og skjemahistorikk">
+<!ENTITY  rememberSearchForm.label       "Hugse søke- og skjemahistorikk">
 <!ENTITY  rememberSearchForm.accesskey   "ø">
 
 <!ENTITY  clearOnClose.label             "Slette historikk når &brandShortName; avsluttar">
