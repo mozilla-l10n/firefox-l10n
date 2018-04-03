@@ -308,6 +308,12 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-always-option =
+    .label = ជានិច្ច
+sitedata-accept-third-party-visited-option =
+    .label = ពី​អ្វី​ដែល​ទស្សនា
+sitedata-accept-third-party-never-option =
+    .label = កុំ
 sitedata-cookies-exceptions =
     .label = ករណី​លើកលែង…
     .accesskey = រ
