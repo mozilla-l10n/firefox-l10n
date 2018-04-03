@@ -381,6 +381,10 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-visited-option =
+    .label = பார்வையிட்டதிலிருந்து
+sitedata-accept-third-party-never-option =
+    .label = ஒரு போதும் இல்லை
 
 ## Privacy Section - Address Bar
 
