@@ -213,6 +213,9 @@ sitedata-cookies-exceptions =
 permissions-block-popups =
     .label = ପପ୍-ଅପ୍ ୱିଣ୍ଡୋକୁ ବ୍ଲକ କରନ୍ତୁ
     .accesskey = B
+permissions-block-popups-exceptions =
+    .label = ବ୍ୟତିକ୍ରମ…
+    .accesskey = E
 permissions-addon-exceptions =
     .label = ବ୍ୟତିକ୍ରମ…
     .accesskey = E
@@ -229,3 +232,6 @@ permissions-addon-exceptions =
 ## Privacy Section - Certificates
 
 certs-header = ପ୍ରମାଣପତ୍ରଗୁଡ଼ିକ
+certs-enable-ocsp =
+    .label = OCSP ଉତ୍ତର ପ୍ରଦାନକାରୀ ସର୍ଭରଗୁଡ଼ିକୁ ପ୍ରଚଳିକ ପ୍ରମାଣପତ୍ରଗୁଡ଼ିକ ବୈଧତାକୁ ନିଶ୍ଚିତ କରିବା ପାଇଁ ପଚାରନ୍ତୁ
+    .accesskey = Q
