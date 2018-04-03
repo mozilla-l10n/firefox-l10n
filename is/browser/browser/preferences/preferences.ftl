@@ -468,9 +468,21 @@ tracking-change-block-list =
 
 permissions-header = Heimildir
 permissions-location = Staðsetning
+permissions-location-settings =
+    .label = Stillingar…
+    .accesskey = l
 permissions-camera = Myndavél
+permissions-camera-settings =
+    .label = Stillingar…
+    .accesskey = M
 permissions-microphone = Hljóðnemi
+permissions-microphone-settings =
+    .label = Stillingar…
+    .accesskey = m
 permissions-notification = Tilkynningar
+permissions-notification-settings =
+    .label = Stillingar…
+    .accesskey = n
 permissions-notification-link = Vita meira
 permissions-block-popups =
     .label = Loka á sprettiglugga
@@ -484,11 +496,19 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Undanþágur…
     .accesskey = U
+permissions-a11y-privacy-checkbox =
+    .label = Koma í veg fyrir að aðgengis þjónustur geti skoðað vafra
+    .accesskey = a
+permissions-a11y-privacy-link = Fræðast meira
 
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } Gagnasöfnun og notkun
+collection-description = Við reynum alltaf að bjóða upp á valkvæmni og söfnum aðeins þeim upplýsingum sem við þurfum til að endurbæta { -brand-short-name } fyrir alla. Við spyrjum alltaf um leyfi áður en við söfnum persónulegum upplýsingum.
 collection-privacy-notice = Meðferð persónuupplýsinga
+collection-health-report =
+    .label = Leyfa { -brand-short-name } að senda sjálkrafa tæknilegar og notkunar upplýsingar til { -vendor-short-name }
+    .accesskey = r
 collection-health-report-link = Fræðast meira
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
@@ -501,6 +521,7 @@ collection-backlogged-crash-reports-link = Fræðast meira
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Öryggi
+security-browsing-protection = Vörn gegn svika innihaldi og hættulegum hugbúnaði
 security-enable-safe-browsing =
     .label = Loka á hættulegt og svindl efni
     .accesskey = L
