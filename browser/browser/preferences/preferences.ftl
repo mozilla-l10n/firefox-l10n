@@ -411,13 +411,18 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-header = చిరునామా పట్టీ
 addressbar-suggest = చిరునామా పట్టీ వాడుతునప్పుడు, వీటి నుండి సూచించు
+addressbar-locbar-history-option =
+    .label = విహరణ చరిత్ర
+    .accesskey = H
 addressbar-locbar-bookmarks-option =
     .label = ఇష్టాంశాలు
     .accesskey = k
 addressbar-locbar-openpage-option =
     .label = తెరిచిన ట్యాబులు
     .accesskey = O
+addressbar-suggestions-settings = శోధన యత్ర సూచనల అభిరుచులను మార్చండి
 
 ## Privacy Section - Tracking
 
@@ -434,19 +439,36 @@ tracking-mode-never =
 tracking-exceptions =
     .label = మినహాయింపులు…
     .accesskey = x
+tracking-change-block-list =
+    .label = నిషేధిత జాబితాను మార్చు…
+    .accesskey = C
 
 ## Privacy Section - Permissions
 
+permissions-header = అనుమతులు
+permissions-location = స్థానము
+permissions-camera = కెమేరా
+permissions-microphone = మైక్రోఫోను
+permissions-notification = గమనింపులు
+permissions-notification-link = ఇంకా తెలుసుకోండి
 permissions-block-popups =
     .label = పాప్-అప్ విండోలను నిరోధించు
     .accesskey = B
+permissions-block-popups-exceptions =
+    .label = మినహాయింపులు…
+    .accesskey = E
 permissions-addon-exceptions =
     .label = మినహాయింపులు…
     .accesskey = E
 
 ## Privacy Section - Data Collection
 
+collection-header = { -brand-short-name } డేటా సేకరణ మరియు ఉపయోగం
+collection-privacy-notice = గోప్యతా విధానం
 collection-health-report-link = ఇంకా తెలుసుకోండి
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = ఈ బిల్డ్ కాన్ఫిగరేషన్ కోసం డేటా రిపోర్టింగ్ నిలిపివేయబడింది
 collection-browser-errors-link = ఇంకా తెలుసుకోండి
 
 ## Privacy Section - Security
@@ -469,6 +491,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = ధృవీకరణ పత్రాలు
+certs-personal-label = సెర్వెర్ మీ వ్యక్తగిత ధృవీకరణపత్రం అభ్యర్ధించినప్పుడు
 certs-select-auto-option =
     .label = స్వయంచాలకంగా ఒక దానిని ఎంపికచేయి
     .accesskey = S
@@ -478,3 +501,9 @@ certs-select-ask-option =
 certs-enable-ocsp =
     .label = ధృవీకరణపత్రాల ప్రస్తుత ప్రమాణతను నిర్థారించుటకు OCSP రెస్పాండర్ సేవికలను ప్రశ్నిస్తుంది
     .accesskey = Q
+certs-view =
+    .label = ధృవీకరణ పత్రాలను దర్శించు…
+    .accesskey = C
+certs-devices =
+    .label = రక్షణ పరికరాలు…
+    .accesskey = D
