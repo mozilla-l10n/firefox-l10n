@@ -28,29 +28,15 @@ feature-enable-requires-restart = { -brand-short-name } lazima ianze upya ili iw
 feature-disable-requires-restart = { -brand-short-name } lazima ianze upya ili ilemaze kipengele hiki.
 should-restart-title = Washa upya { -brand-short-name }
 
+## Preferences UI Search Results
+
+
 ## General Section
 
 startup-header = Uwashaji
 is-default = { -brand-short-name } kwa sasa ni kivinjari chako msingi
 startup-blank-page =
     .label = Onyesha ukurasa wazi
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Tumia Ukurasa wa Sasa
-           *[other] Tumia Kurasa za Sasa
-        }
-    .accesskey = U
-choose-bookmark =
-    .label = Tumia Alamisho…
-    .accesskey = A
-restore-default =
-    .label = Rudisha kwa Chaguo Msingi
-    .accesskey = R
 tabs-group-header = Vichupo
 show-tabs-in-taskbar =
     .label = Onyesha vihakiki vya kichupo katika mwambaa wa kazi wa Windows
@@ -124,6 +110,29 @@ network-proxy-connection-settings =
     .label = Mipangilio…
     .accesskey = i
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Tumia Ukurasa wa Sasa
+           *[other] Tumia Kurasa za Sasa
+        }
+    .accesskey = U
+choose-bookmark =
+    .label = Tumia Alamisho…
+    .accesskey = A
+restore-default =
+    .label = Rudisha kwa Chaguo Msingi
+    .accesskey = R
+
 ## Search Section
 
 search-remove-engine =
@@ -136,3 +145,73 @@ search-keyword-warning-title = Rudia Nenomsingi
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Umechagua nenomsingi ambalo kwa sasa linatumiwa na "{ $name }". Tafadhali chagua lingine.
 search-keyword-warning-bookmark = Umechagua nenomsingi ambalo kwa sasa linatumiwa na alamisho. Tafadhali chague lingine.
+
+## Containers Section
+
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = Mambo ya pekee…
+    .accesskey = m
+forms-master-pw-use =
+    .label = Tumia neno kuu la siri
+    .accesskey = T
+forms-master-pw-change =
+    .label = Badilisha Jina Kuu la nywila…
+    .accesskey = J
+
+## Privacy Section - History
+
+history-dontremember-description = { -brand-short-name } itatumia mipangilio sawa kama kuvinjari kwa kibinafsi, na haitakumbuka historia yoyote unapovinjari Tovuti.
+history-private-browsing-permanent =
+    .label = Kila mara tumia hali ya kuvinjari ya faragha
+    .accesskey = h
+history-remember-option =
+    .label = Kumbuka kuvinjari kwangu na historia ya upakuaji
+    .accesskey = k
+history-remember-search-option =
+    .label = Kumbuka historia ya utafutaji na fomu
+    .accesskey = f
+history-clear-on-close-option =
+    .label = Ondoa historia wakati { -brand-short-name } ikifunga
+    .accesskey = a
+history-clear-on-close-settings =
+    .label = Mipangilio…
+    .accesskey = p
+
+## Privacy Section - Site Data
+
+sitedata-cookies-exceptions =
+    .label = Mambo ya pekee…
+    .accesskey = M
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-block-popups =
+    .label = Zuia dirisha ibukizi
+    .accesskey = Z
+permissions-addon-exceptions =
+    .label = Mambo ya kipekee…
+    .accesskey = M
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
