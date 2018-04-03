@@ -494,6 +494,9 @@ permissions-a11y-privacy-link = Ɓeydu humpito
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } Roɓindo e Kuutoragol Keɓe
+collection-health-report =
+    .label = Yamir { -brand-short-name } yo neldu keɓe karallaagal e gollondiral to Moɗilla
+    .accesskey = r
 collection-health-report-link = Jokku Taro
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
