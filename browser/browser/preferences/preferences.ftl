@@ -381,6 +381,7 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = Veebilehitseja privaatsus
 
 ## Privacy Section - Forms
 
