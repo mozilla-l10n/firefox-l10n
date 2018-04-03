@@ -26,9 +26,7 @@
 <!ENTITY  permissions.label             "પરવાનગીઓ">
 
 <!ENTITY  addressBar.label              "સરનામા પટ્ટી">
-<!ENTITY  addressBar.suggest.label      "સરનામાં બારનો ઉપયોગ કરતી વખતે, સૂચન કરો
-
-">
+<!ENTITY  addressBar.suggest.label      "સરનામાં બારનો ઉપયોગ કરતી વખતે, સૂચન કરો">
 <!ENTITY  locbar.history2.label         "બ્રાઉઝિંગ ઇતિહાસ">
 <!ENTITY  locbar.history2.accesskey     "H">
 <!ENTITY  locbar.bookmarks.label        "બુકમાર્કો">

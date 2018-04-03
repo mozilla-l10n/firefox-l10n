@@ -460,9 +460,7 @@ sitedata-cookies-exceptions =
 ## Privacy Section - Address Bar
 
 addressbar-header = સરનામા પટ્ટી
-addressbar-suggest = સરનામાં બારનો ઉપયોગ કરતી વખતે, સૂચન કરો{ "
-    
-    " }
+addressbar-suggest = સરનામાં બારનો ઉપયોગ કરતી વખતે, સૂચન કરો
 addressbar-locbar-history-option =
     .label = બ્રાઉઝિંગ ઇતિહાસ
     .accesskey = H
@@ -545,14 +543,14 @@ collection-header = { -brand-short-name } ડેટા સંગ્રહ અન
 collection-description = અમે તમને પસંદગીઓ સાથે પ્રદાન કરવાનો પ્રયત્ન કરીએ છીએ અને દરેક માટે શું પ્રદાન અને સુધારવાની જરૂર છે તે જ { -brand-short-name } એકત્રિત કરીએ છીએ. અમે હંમેશા વ્યક્તિગત માહિતી મેળવવા પહેલાં પરવાનગી પૂછીશુ.
 collection-privacy-notice = ગોપનીયતા સૂચના
 collection-health-report =
-    .label = મંજૂરી આપો { -brand-short-name } { -vendor-short-name } ને ટેક્નિકલ અને ક્રિયાપ્રતિક્રિયા ડેટા મોકલવા માટે
+    .label = { -brand-short-name } ને મંજૂરી આપો { -vendor-short-name } ને ટેક્નિકલ અને ક્રિયાપ્રતિક્રિયા ડેટા મોકલવા માટે.
     .accesskey = r
 collection-health-report-link = વધારે શીખો
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = આ તૈચાર કરેલ રૂપરેખાંકન માટે ડેટા અહેવાલ અક્ષમ કરેલું છે
 collection-browser-errors =
-    .label = { -brand-short-name } ને મોઝિલા માટે બ્રાઉઝર ભૂલ અહેવાલો (ભૂલ સંદેશાઓ સહિત) મોકલવા માટે મંજૂરી આપો
+    .label = { -brand-short-name } ને Mozilla માટે બ્રાઉઝર ભૂલ અહેવાલો (ભૂલ સંદેશાઓ સહિત) { -vendor-short-name } ને મોકલવા માટે મંજૂરી આપો
     .accesskey = b
 collection-browser-errors-link = વધુ જાણો
 collection-backlogged-crash-reports =
