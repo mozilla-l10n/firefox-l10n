@@ -168,6 +168,12 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-dontremember-description = { -brand-short-name } dê heman mîhengê ji bo gera nepen jî bi kar bîne û dê ji gera te ya webê tu tiştî bi bîr neyne.
+history-private-browsing-permanent =
+    .label = Her tim moda gera nepen bi kar bîne
+    .accesskey = n
+history-remember-option =
+    .label = Raboriya ger û jêbarkirinên min bi bîr bîne
+    .accesskey = b
 history-remember-search-option =
     .label = Mêjûya lêgerîn û forman bi bîr bîne
     .accesskey = f
@@ -180,6 +186,10 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-visited-option =
+    .label = Ji yên serdankirî
+sitedata-accept-third-party-never-option =
+    .label = Qet
 sitedata-cookies-exceptions =
     .label = Rewşên Taybet...
     .accesskey = y
@@ -192,6 +202,9 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Permissions
 
+permissions-block-popups =
+    .label = Pencereyên bixweber vedibin asteng bike
+    .accesskey = b
 permissions-addon-exceptions =
     .label = Rewşên Taybet...
     .accesskey = e
