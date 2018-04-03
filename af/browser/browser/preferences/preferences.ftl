@@ -308,6 +308,10 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-visited-option =
+    .label = Sedert besoek
+sitedata-accept-third-party-never-option =
+    .label = Nooit
 sitedata-cookies-exceptions =
     .label = Uitsonderings…
     .accesskey = U
