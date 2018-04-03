@@ -6,7 +6,7 @@
 <!ENTITY aboutDownloads.header                     "Dine nedlastingar">
 <!ENTITY aboutDownloads.empty                      "Ingen nedlastingar">
 
-<!ENTITY aboutDownloads.open                       "Opna">
+<!ENTITY aboutDownloads.open                       "Opne">
 <!ENTITY aboutDownloads.remove                     "Slett">
 <!ENTITY aboutDownloads.removeAll                  "Slett alle">
 <!ENTITY aboutDownloads.pause                      "Pause">
