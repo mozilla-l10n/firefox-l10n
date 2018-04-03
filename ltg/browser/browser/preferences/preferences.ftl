@@ -371,9 +371,14 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = Puorlūka privatums
 
 ## Privacy Section - Forms
 
+forms-header = Formys i paroles
+forms-remember-logins =
+    .label = Remember logins and passwords for websites
+    .accesskey = R
 forms-exceptions =
     .label = Izjāmumi...
     .accesskey = z
@@ -409,6 +414,9 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = Uzzynojit vairuok
+sitedata-keep-until = Globoj leidz
+    .accesskey = l
 sitedata-accept-third-party-always-option =
     .label = Vīnmār
 sitedata-accept-third-party-visited-option =
@@ -421,15 +429,22 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Adresu jūsla
+addressbar-suggest = Meklejūt adresi juslā, īteikt
+addressbar-locbar-history-option =
+    .label = Puorlūkuošonys viesturi
+    .accesskey = v
 addressbar-locbar-bookmarks-option =
     .label = Gruomotzeimes
     .accesskey = m
 addressbar-locbar-openpage-option =
     .label = Attaiseituos cilnes
     .accesskey = t
+addressbar-suggestions-settings = Izmainit mekleituoju īstatiejumus
 
 ## Privacy Section - Tracking
 
+tracking-header = Izsekuošonys aizsardzeiba
 tracking-mode-always =
     .label = Vīnmār
     .accesskey = m
@@ -439,35 +454,99 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Nikod
     .accesskey = N
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Use Tracking Protection in Private Browsing to block known trackers
+    .accesskey = v
 tracking-exceptions =
     .label = Izjāmumi…
     .accesskey = I
+tracking-change-block-list =
+    .label = Change Block List…
+    .accesskey = C
 
 ## Privacy Section - Permissions
 
+permissions-header = Atļuovis
+permissions-location = Atsarasšona vīta
+permissions-location-settings =
+    .label = Īstatiejumi…
+    .accesskey = t
+permissions-camera = Kamera
+permissions-camera-settings =
+    .label = Īstatiejumi…
+    .accesskey = t
+permissions-microphone = Mikrofons
+permissions-microphone-settings =
+    .label = Īstatiejumi…
+    .accesskey = t
+permissions-notification = Paziņuojumi
+permissions-notification-settings =
+    .label = Īstatiejumi…
+    .accesskey = t
+permissions-notification-link = Uzzynojit vairuok
+permissions-block-popups-exceptions =
+    .label = Izjāmumi...
+    .accesskey = I
+permissions-addon-install-warning =
+    .label = Breidynuot mani, nui lopys rauga instaleit papyldynuojums
+    .accesskey = B
 permissions-addon-exceptions =
     .label = Izjāmumi...
     .accesskey = I
+permissions-a11y-privacy-checkbox =
+    .label = Prevent accessibility services from accessing your browser
+    .accesskey = a
+permissions-a11y-privacy-link = Uzzynojit vairuok
 
 ## Privacy Section - Data Collection
 
+collection-header = { -brand-short-name } datu vuokšona i izmontuošona
+collection-description = We strive to provide you with choices and collect only what we need to provide and improve { -brand-short-name } for everyone. We always ask permission before receiving personal information.
+collection-privacy-notice = Privatuma pīzeime
+collection-health-report =
+    .label = Allow { -brand-short-name } to send technical and interaction data to { -vendor-short-name }
+    .accesskey = r
 collection-health-report-link = Uzzynojit vairuok
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Data reporting is disabled for this build configuration
+collection-backlogged-crash-reports-link = Uzzynojit vairuok
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Drūseiba
+security-browsing-protection = Deceptive Content and Dangerous Software Protection
 security-enable-safe-browsing =
     .label = Block dangerous and deceptive content
     .accesskey = B
+security-enable-safe-browsing-link = Uzzynojit vairuok
 security-block-downloads =
     .label = Blokeit beistamys lejupīluodes
     .accesskey = d
+security-block-uncommon-software =
+    .label = Warn you about unwanted and uncommon software
+    .accesskey = C
 
 ## Privacy Section - Certificates
 
 certs-header = Sertifikati
+certs-personal-label = Kod serveris pīprosa munu personeigū sertifikatu
+certs-select-auto-option =
+    .label = Izavieleit automatiski
+    .accesskey = S
+certs-select-ask-option =
+    .label = Kotru reizi vaicuot maņ
+    .accesskey = A
 certs-enable-ocsp =
     .label = Query OCSP responder servers to confirm the current validity of certificates
     .accesskey = Q
+certs-view =
+    .label = Apsavērt sertifikatus…
+    .accesskey = C
+certs-devices =
+    .label = Drūseibys īrīces…
+    .accesskey = D
