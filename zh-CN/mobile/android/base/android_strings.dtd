@@ -56,7 +56,7 @@
 <!ENTITY  tab_offline_version "显示离线版本">
 
 <!ENTITY  crash_reporter_title "&brandShortName; 崩溃报告器">
-<!ENTITY  crash_message2 "&brandShortName; 意外碰上问题崩溃了。下次启动 &brandShortName; 时将列出您打开的标签页。">
+<!ENTITY  crash_message2 "&brandShortName; 意外碰上问题崩溃了。下次 &brandShortName; 启动时将列出您打开的标签页。">
 <!ENTITY  crash_send_report_message3 "告知 &vendorShortName; 有关此次崩溃的情况，以便修复此问题">
 <!ENTITY  crash_include_url2 "附上我当时在看页面的网址">
 <!ENTITY  crash_sorry "非常抱歉">
