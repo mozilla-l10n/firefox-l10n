@@ -354,19 +354,39 @@ containers-remove-button =
 
 ## Privacy Section - Forms
 
+forms-exceptions =
+    .label = …ਛੋਟਾਂ
+    .accesskey = x
+forms-saved-logins =
+    .label = …ਸੰਭਾਲੇ ਹੋਏ ਲਾਗਇਨ
+    .accesskey = L
+forms-master-pw-use =
+    .label = ਮਾਸਟਰ ਪਾਸਵਰਡ ਨੂੰ ਵਰਤੋਂ
+    .accesskey = U
+forms-master-pw-change =
+    .label = …ਮਾਸਟਰ ਪਾਸਵਰਡ ਨੂੰ ਵਰਤੋਂ
+    .accesskey = M
 
 ## Privacy Section - History
 
 history-header = ਅਤੀਤ
+history-dontremember-description = { -brand-short-name } ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਵਾਲੀਆਂ ਸੈਟਿੰਗਾਂ ਵਰਤੇਗਾ ਅਤੇ ਤੁਹਾਡੇ ਵਲੋਂ ਵੈੱਬ ਬਰਾਊਜ਼ ਕਰਨ ਦਾ ਕੋਈ ਵੀ ਅਤੀਤ ਯਾਦ ਨਹੀਂ ਰੱਖੇਗਾ।
 history-private-browsing-permanent =
     .label = ਹਮੇਸ਼ਾ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਮੋਡ ਹੀ ਵਰਤੋਂ
     .accesskey = p
 history-remember-option =
     .label = ਮੇਰੇ ਬਰਾਊਜ਼ ਕਰਨ ਅਤੇ ਡਾਊਨਲੋਡ ਅਤੀਤ ਨੂੰ ਯਾਦ ਰੱਖੋ
     .accesskey = b
+history-remember-search-option =
+    .label = ਖੋਜ ਅਤੇ ਫਾਰਮ ਅਤੀਤ ਨੂੰ ਯਾਦ ਰੱਖੋ
+    .accesskey = f
+history-clear-on-close-option =
+    .label = ਜਦੋਂ { -brand-short-name } ਬੰਦ ਹੋਵੇ ਤਾਂ ਅਤੀਤ ਨੂੰ ਸਾਫ਼ ਕਰੋ
+    .accesskey = w
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = ਹੋਰ ਜਾਣੋ
 sitedata-accept-third-party-always-option =
     .label = ਹਮੇਸ਼ਾ
 sitedata-accept-third-party-visited-option =
@@ -379,12 +399,36 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-bookmarks-option =
+    .label = ਬੁੱਕਮਾਰਕ
+    .accesskey = k
+addressbar-locbar-openpage-option =
+    .label = ਟੈਬਾਂ ਖੋਲ੍ਹੋ
+    .accesskey = O
 
 ## Privacy Section - Tracking
 
+tracking-mode-always =
+    .label = ਹਮੇਸ਼ਾ
+    .accesskey = y
+tracking-mode-private =
+    .label = ਸਿਰਫ਼ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਵਿੱਚ
+    .accesskey = l
+tracking-mode-never =
+    .label = ਕਦੇ ਨਹੀਂ
+    .accesskey = n
+tracking-exceptions =
+    .label = …ਛੋਟਾਂ
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
+permissions-block-popups =
+    .label = ਪੋਪਅੱਪ ਵਿੰਡੋ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾਓ
+    .accesskey = B
+permissions-addon-exceptions =
+    .label = …ਛੋਟਾਂ
+    .accesskey = E
 
 ## Privacy Section - Data Collection
 
@@ -395,7 +439,22 @@ collection-health-report-link = ਹੋਰ ਜਾਣੋ
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-enable-safe-browsing =
+    .label = ਖ਼ਤਰਨਾਕ ਅਤੇ ਭਰਮਪੂਰਕ ਸਮੱਗਰੀ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਓ
+    .accesskey = B
+security-block-downloads =
+    .label = ਖ਼ਤਰਨਾਕ ਡਾਊਨਲੋਡਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਓ
+    .accesskey = D
 
 ## Privacy Section - Certificates
 
 certs-header = ਸਰਟੀਫਿਕੇਟ
+certs-select-auto-option =
+    .label = ਕਿਸੇ ਦੀ ਆਪਣੇ-ਆਪ ਚੋਣ ਕਰੋ
+    .accesskey = S
+certs-select-ask-option =
+    .label = ਹਰ ਵਾਰ ਤੁਹਾਨੂੰ ਪੁੱਛੋ
+    .accesskey = A
+certs-enable-ocsp =
+    .label = { " " }ਕਿਊਰੀ OCSP ਜਵਾਬ-ਦੇਣ ਵਾਲੇ ਸਰਵਰਾਂ ਨੂੰ ਸਰਟੀਫਿਕੇਟਾਂ ਦੀ ਮੌਜੂਦਾ ਵੈਧਤਾ ਦੀ ਪਸ਼ਟੀ ਕਰਨ
+    .accesskey = Q
