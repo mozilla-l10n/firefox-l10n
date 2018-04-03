@@ -441,8 +441,12 @@ sitedata-accept-cookies-option =
 sitedata-block-cookies-option =
     .label = Blochează cookie-urile și datele site-urilor (poate provoca afectarea aspectului site-urilor web)
     .accesskey = B
+sitedata-keep-until = Păstrează-le până când
+    .accesskey = u
 sitedata-accept-third-party-desc = Acceptă cookie-uri de la terți și datele site-urilor
     .accesskey = y
+sitedata-accept-third-party-always-option =
+    .label = Întotdeauna
 sitedata-accept-third-party-visited-option =
     .label = De la site-urile vizitate
 sitedata-accept-third-party-never-option =
@@ -461,6 +465,9 @@ sitedata-cookies-exceptions =
 
 addressbar-header = Bară de adresă
 addressbar-suggest = Când se folosește bara de adresă, sugerează:
+addressbar-locbar-history-option =
+    .label = Istoric de navigare
+    .accesskey = H
 addressbar-locbar-bookmarks-option =
     .label = Marcaje
     .accesskey = k
@@ -526,6 +533,9 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Excepții…
     .accesskey = E
+permissions-a11y-privacy-checkbox =
+    .label = Împiedică serviciile de accesibilitate să îți acceseze browserul
+    .accesskey = a
 permissions-a11y-privacy-link = Află mai multe
 
 ## Privacy Section - Data Collection
@@ -533,7 +543,13 @@ permissions-a11y-privacy-link = Află mai multe
 collection-header = Colectarea și utilizarea de date din { -brand-short-name }
 collection-description = Ne străduim să îți oferim posibilitatea de a face alegeri și colectăm doar ceea ce avem nevoie ca să furnizăm și să îmbunătățim { -brand-short-name } pentru toată lumea. Întotdeauna solicităm permisiunea înainte de a primi informații personale.
 collection-privacy-notice = Politica de confidențialitate
+collection-health-report =
+    .label = Permite-i lui { -brand-short-name } să trimită informații tehnice și interactive către { -vendor-short-name }
+    .accesskey = r
 collection-health-report-link = Află mai multe
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Raportarea datelor este dezactivată în configurația folosită
 collection-browser-errors =
     .label = Permite-i lui { -brand-short-name } să trimită rapoarte de eroare ale browserului (inclusiv mesajele erorilor) către { -vendor-short-name }
     .accesskey = b
