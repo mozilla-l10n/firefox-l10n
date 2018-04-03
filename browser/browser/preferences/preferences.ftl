@@ -360,3 +360,56 @@ containers-preferences-button =
     .label = Iestatījumi
 containers-remove-button =
     .label = Noņemt
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+
+## Privacy Section - History
+
+history-dontremember-description = { -brand-short-name } izmantos tādus pat iestatījumus kā privātās pārlūkošanas režīmā un pārlūkojot internetu nesaglabās vēsturi.
+history-private-browsing-permanent =
+    .label = Vienmēr izmantot privātās pārlūkošanas režīmu
+    .accesskey = z
+history-clear-on-close-option =
+    .label = Dzēst aizverot { -brand-short-name }
+    .accesskey = D
+history-clear-on-close-settings =
+    .label = Iestatījumi…
+    .accesskey = t
+
+## Privacy Section - Site Data
+
+sitedata-accept-third-party-always-option =
+    .label = Vienmēr
+sitedata-accept-third-party-visited-option =
+    .label = Tikai no lapām, kuras esmu apmeklējis
+sitedata-accept-third-party-never-option =
+    .label = Nekad
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
+certs-header = Sertifikāti
+certs-enable-ocsp =
+    .label = Vaicāt OCSP atbildes serveriem, lai pārbaudītu pašreizējo sertifikātu derīgumu
+    .accesskey = V
