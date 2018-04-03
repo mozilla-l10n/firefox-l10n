@@ -408,6 +408,12 @@ history-dontremember-description = { -brand-short-name } 将采用与“隐私�
 history-remember-option =
     .label = 记住我的浏览和下载历史
     .accesskey = b
+history-clear-on-close-option =
+    .label = 在 { -brand-short-name } 关闭时清除历史记录
+    .accesskey = r
+history-clear-on-close-settings =
+    .label = 设置…
+    .accesskey = t
 
 ## Privacy Section - Site Data
 
@@ -417,6 +423,9 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-bookmarks-option =
+    .label = 书签
+    .accesskey = k
 
 ## Privacy Section - Tracking
 
