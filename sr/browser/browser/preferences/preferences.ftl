@@ -380,3 +380,49 @@ containers-preferences-button =
     .label = Поставке
 containers-remove-button =
     .label = Уклони
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-master-pw-use =
+    .label = Користи главну лозинку
+    .accesskey = К
+forms-master-pw-change =
+    .label = Промени главну лозинку…
+    .accesskey = П
+
+## Privacy Section - History
+
+history-header = Историјат
+
+## Privacy Section - Site Data
+
+sitedata-cookies-exceptions =
+    .label = Изузеци
+    .accesskey = И
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-addon-exceptions =
+    .label = Изузеци
+    .accesskey = И
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
