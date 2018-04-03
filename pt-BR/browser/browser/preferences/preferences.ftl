@@ -394,6 +394,10 @@ forms-exceptions =
 
 ## Privacy Section - History
 
+history-header = Histórico
+history-clear-on-close-option =
+    .label = Limpar histórico quando o { -brand-short-name } fechar
+    .accesskey = i
 history-clear-on-close-settings =
     .label = Configurar…
     .accesskey = C
@@ -412,6 +416,12 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-bookmarks-option =
+    .label = Favoritos
+    .accesskey = F
+addressbar-locbar-openpage-option =
+    .label = Abas abertas
+    .accesskey = A
 
 ## Privacy Section - Tracking
 
