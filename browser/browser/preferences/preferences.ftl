@@ -344,3 +344,58 @@ containers-preferences-button =
     .label = പരിഗണനകള്‍
 containers-remove-button =
     .label = നീക്കുക
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = ഒഴിവാക്കേണ്ടവ…
+    .accesskey = x
+forms-master-pw-use =
+    .label = ഒരു പ്രധാന പാസ്‌വേര്‍ഡ്  ഉപയോഗിക്കുക
+    .accesskey = U
+forms-master-pw-change =
+    .label = പ്രധാന പാസ്‌വേര്‍ഡ് മാറ്റുക…
+    .accesskey = M
+
+## Privacy Section - History
+
+history-dontremember-description = { -brand-short-name } സ്വകാര്യ തിരയലിന്റെ സജ്ജീകരണങ്ങള്‍ ഉപയോഗിക്കും, അതിനാല്‍ നിങ്ങള്‍ വെബ് തിരയുംബോള്‍ ഹിസ്റ്ററി ഓര്‍ക്കുകയില്ല.
+history-remember-search-option =
+    .label = തിരയലുകളുടേയും (സര്‍ച്ചുകളുടെ) ഫോര്‍മുകളുടെയും ഹിസ്റ്ററി ഓര്‍ക്കുക
+    .accesskey = f
+history-clear-on-close-option =
+    .label = { -brand-short-name } നിര്‍ത്തുംബോള്‍ ഹിസ്റ്ററി മായ്ക്കുക
+    .accesskey = r
+history-clear-on-close-settings =
+    .label = സജ്ജീകരണങ്ങള്‍ …
+    .accesskey = t
+
+## Privacy Section - Site Data
+
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-addon-exceptions =
+    .label = ഒഴിവാക്കേണ്ടവ…
+    .accesskey = E
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
