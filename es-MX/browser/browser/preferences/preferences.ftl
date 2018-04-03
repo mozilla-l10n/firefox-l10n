@@ -453,3 +453,4 @@ collection-health-report-link = Saber más
 
 ## Privacy Section - Certificates
 
+certs-header = Certificados
