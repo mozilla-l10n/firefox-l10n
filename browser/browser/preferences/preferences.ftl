@@ -403,6 +403,10 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-visited-option =
+    .label = O fheadhainn air an deach tadhal
+sitedata-accept-third-party-never-option =
+    .label = Chan ann idir
 sitedata-cookies-exceptions =
     .label = Eisgeachdan…
     .accesskey = E
