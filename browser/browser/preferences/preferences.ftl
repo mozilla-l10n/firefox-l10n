@@ -475,13 +475,32 @@ tracking-change-block-list =
 ## Privacy Section - Permissions
 
 permissions-header = अनुमतिहरू
+permissions-location = स्थान
+permissions-location-settings =
+    .label = सेटिङ्गहरू…
+    .accesskey = t
+permissions-camera = क्यामरा
+permissions-camera-settings =
+    .label = सेटिङ्गहरू…
+    .accesskey = t
+permissions-microphone = माइक्रोफोन
+permissions-microphone-settings =
+    .label = सेटिङ्गहरू…
+    .accesskey = t
 permissions-notification = सूचनाहरू
+permissions-notification-settings =
+    .label = सेटिङ्गहरू…
+    .accesskey = t
+permissions-notification-link = अझै जान्नुहोस्
 permissions-block-popups =
     .label = पप-अप सञ्झ्यालहरूलाई अवरुद्द गर्नुहोस्
     .accesskey = B
 permissions-block-popups-exceptions =
     .label = अपवादहरू…
     .accesskey = E
+permissions-addon-install-warning =
+    .label = वेबसाइटहरूले एड-अनहरू स्थापना गर्न खोज्दा तपाईँलाई चेतावनी दिनुहोस्
+    .accesskey = W
 permissions-addon-exceptions =
     .label = अपवादहरू...
     .accesskey = E
@@ -495,7 +514,13 @@ permissions-a11y-privacy-link = अझै जान्नुहोस्
 collection-header = { -brand-short-name } डाटा सङ्कलन र प्रयोग
 collection-description = हामी तपाईँलाई छनौटहरू प्रदान गर्न प्रयास गर्दछौँ र { -brand-short-name } सबैको लागि प्रदान र सुधार गर्न हामीलाई आवश्यक कुराहरू मात्र सङ्कलन गर्दर्छौँ । व्यक्तिगत जानकारी प्राप्त गर्नुअघि हामि अनुमतिको लागि सधैँ अनुरोध गर्दछौँ ।
 collection-privacy-notice = गोपनीयता नीति
+collection-health-report =
+    .label = { -vendor-short-name } लाई प्राविधिक र अन्तरक्रिया डाटा पठाउन { -brand-short-name } लाई अनुमति दिनुहोस्
+    .accesskey = r
 collection-health-report-link = अझ जान्नुहोस्
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = यस निर्माण कन्फिगरेसनको लागि डाटा रिपोर्टिङ अक्षम गरिएको छ
 collection-backlogged-crash-reports-link = अझ जान्नुहोस्
 
 ## Privacy Section - Security
@@ -503,6 +528,7 @@ collection-backlogged-crash-reports-link = अझ जान्नुहोस्
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = सुरक्षा
 security-browsing-protection = भ्रामक सामग्री र खतरनाक सफ्टवेयर सुरक्षा
 security-enable-safe-browsing =
     .label = खतरनाक र भ्रामक सामग्री अबरुद्द गर्नुहोस
@@ -517,6 +543,10 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = प्रमाणपत्रहरू
+certs-personal-label = जब एक सर्भर तपाईँको व्यक्तिगत प्रमाणपत्रको लागि अनुरोध गर्छ
+certs-select-auto-option =
+    .label = स्वचालित रूपमा एउटा छान्नुहोस्
+    .accesskey = S
 certs-select-ask-option =
     .label = तपाईँलाई हरेक पटक सोध्नुहोस्
     .accesskey = A
