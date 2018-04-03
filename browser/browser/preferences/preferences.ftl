@@ -152,6 +152,9 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-dontremember-description = { -brand-short-name } хувийн зорчилттой ижил тохиргоо хэрэглэж вэбд зорчсон түүхийг хадгалахгүй байх болно.
+history-private-browsing-permanent =
+    .label = Дандаа ашиглах & хувийн ачааллах загвар
+    .accesskey = p
 history-remember-option =
     .label = Үзсэн болон татаж авсан мэдээллийг санах
     .accesskey = b
@@ -177,6 +180,9 @@ sitedata-cookies-exceptions =
 permissions-block-popups =
     .label = Дэлгэгдэх цонхуудыг хорих
     .accesskey = Д
+permissions-block-popups-exceptions =
+    .label = Зөвшөөрөгдсөн хуудас
+    .accesskey = ш
 permissions-addon-exceptions =
     .label = Тодорхойлж өгөх…
     .accesskey = ж
