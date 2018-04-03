@@ -411,6 +411,9 @@ sitedata-accept-third-party-visited-option =
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-enable-safe-browsing =
+    .label = Sekat isi kandung berbahaya dan memperdayakan
+    .accesskey = B
 
 ## Privacy Section - Certificates
 
