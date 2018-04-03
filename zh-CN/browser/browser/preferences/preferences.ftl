@@ -382,3 +382,61 @@ containers-preferences-button =
     .label = 首选项
 containers-remove-button =
     .label = 移除
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = 例外…
+    .accesskey = x
+forms-saved-logins =
+    .label = 已保存的登录信息…
+    .accesskey = L
+forms-master-pw-use =
+    .label = 使用主密码
+    .accesskey = U
+forms-master-pw-change =
+    .label = 修改主密码…
+    .accesskey = M
+
+## Privacy Section - History
+
+history-header = 历史记录
+history-dontremember-description = { -brand-short-name } 将采用与“隐私浏览模式”相同的设置，不会记录您浏览网络的历史。
+history-remember-option =
+    .label = 记住我的浏览和下载历史
+    .accesskey = b
+
+## Privacy Section - Site Data
+
+sitedata-cookies-exceptions =
+    .label = 例外…
+    .accesskey = E
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-addon-exceptions =
+    .label = 例外…
+    .accesskey = E
+
+## Privacy Section - Data Collection
+
+collection-health-report-link = 详细了解
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
+certs-header = 证书
