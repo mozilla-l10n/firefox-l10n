@@ -293,9 +293,13 @@ containers-add-button =
 
 ## Privacy Section - Forms
 
+forms-header = Iifomu neePhaswedi
 forms-exceptions =
     .label = Izinxaxhi…
     .accesskey = x
+forms-saved-logins =
+    .label = Ezigciniweyo Logini…
+    .accesskey = L
 forms-master-pw-use =
     .label = Sebenzisa iphaswedi eyimasta
     .accesskey = S
@@ -305,6 +309,8 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-header = Imbali
+history-dontremember-description = i-{ -brand-short-name } iya kusebenzisa iisethingi ezifanayo njengokubhrawuza kwangasese kwaye ayiyi kukhumbula nayiphi na imbali njengokuba ubhrawuza iwebhu.
 history-private-browsing-permanent =
     .label = Soloko usebenzisa imo yokubhrawuza yangasese
     .accesskey = o
@@ -314,12 +320,18 @@ history-remember-option =
 history-remember-search-option =
     .label = Khumbula imbali yokukhangela neyefom
     .accesskey = a
+history-clear-on-close-option =
+    .label = Susa imbali xa i-{ -brand-short-name } ivala
+    .accesskey = S
 history-clear-on-close-settings =
     .label = Imimiselo…
     .accesskey = m
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = Funda okungakumbi
+sitedata-accept-third-party-always-option =
+    .label = Qho
 sitedata-accept-third-party-visited-option =
     .label = Isuka kwetyelelweyo
 sitedata-accept-third-party-never-option =
@@ -330,12 +342,37 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-bookmarks-option =
+    .label = Iibhukhmakhi
+    .accesskey = k
+addressbar-locbar-openpage-option =
+    .label = Vula iithebhu
+    .accesskey = V
+addressbar-suggestions-settings = Tshintsha iipreferensi zamacebiso enjini yokukhangela
 
 ## Privacy Section - Tracking
 
+tracking-header = Ukhuseleko Lokutreka
+tracking-mode-always =
+    .label = Qho
+    .accesskey = o
+tracking-mode-private =
+    .label = Kuphela kwiiwindow zabucala
+    .accesskey = l
+tracking-mode-never =
+    .label = Ungaze
+    .accesskey = U
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Sebenzisa uKhuseleko lokuTreka ukuBhrawza kwaBucala ukuze ubhloke abatreki abaziwayo
+    .accesskey = v
+tracking-exceptions =
+    .label = Ezikhethekileyo…
+    .accesskey = z
 
 ## Privacy Section - Permissions
 
+permissions-header = Iimvume
 permissions-block-popups =
     .label = Thintela iifestile ezizivelelayo
     .accesskey = T
@@ -345,13 +382,35 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Data Collection
 
+collection-health-report-link = Funda okungakumbi
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Ukuxelwa kwedatha kuyekisiwe ngenxa yolu lwakheko
+collection-backlogged-crash-reports-link = Funda okungakumbi
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Ukhuseleko
+security-enable-safe-browsing =
+    .label = Bloka isiqulatho esiyingozi nesiqhathayo
+    .accesskey = B
+security-block-downloads =
+    .label = Bloka ukudawnlowuda okuyingozi
+    .accesskey = u
+security-block-uncommon-software =
+    .label = Ndilkuumkise ngesoftwe engafunwayo nengaqhelekanga
+    .accesskey = a
 
 ## Privacy Section - Certificates
 
 certs-header = Izatifikethi
+certs-personal-label = Xa iseva icela isatifikethi sakho
+certs-select-auto-option =
+    .label = Khetha esinye ngokuzenzekela
+    .accesskey = S
+certs-select-ask-option =
+    .label = Iyakubuza ngawo onke amaxesha
+    .accesskey = A
