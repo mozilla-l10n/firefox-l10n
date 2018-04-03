@@ -386,3 +386,79 @@ containers-preferences-button =
     .label = Nastavitve
 containers-remove-button =
     .label = Odstrani
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = Izjeme …
+    .accesskey = i
+forms-master-pw-use =
+    .label = Uporabi glavno geslo
+    .accesskey = U
+forms-master-pw-change =
+    .label = Nastavi glavno geslo …
+    .accesskey = G
+
+## Privacy Section - History
+
+history-header = Zgodovina
+history-dontremember-description = { -brand-short-name } bo uporabljal enake nastavitve kot pri zasebnem brskanju in med brskanjem ne bo hranil nobene zgodovine.
+history-private-browsing-permanent =
+    .label = Vedno uporabljaj zasebno brskanje
+    .accesskey = S
+history-remember-option =
+    .label = Shranjuj zgodovino brskanja in prenosov
+    .accesskey = b
+history-remember-search-option =
+    .label = Shranjuj zgodovino iskanja in obrazcev
+    .accesskey = i
+history-clear-on-close-settings =
+    .label = Nastavitve …
+    .accesskey = t
+
+## Privacy Section - Site Data
+
+sitedata-accept-third-party-always-option =
+    .label = Vedno
+sitedata-accept-third-party-visited-option =
+    .label = Izmed obiskanih
+sitedata-accept-third-party-never-option =
+    .label = Nikoli
+sitedata-cookies-exceptions =
+    .label = Izjeme …
+    .accesskey = Z
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-block-popups =
+    .label = Prepovej pojavna okna
+    .accesskey = r
+permissions-addon-exceptions =
+    .label = Izjeme …
+    .accesskey = E
+
+## Privacy Section - Data Collection
+
+collection-health-report-link = Več o tem
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
+certs-header = Digitalna potrdila
+certs-enable-ocsp =
+    .label = Uporabi strežnike OCSP za potrditev trenutne veljavnosti digitalnih potrdil
+    .accesskey = U
