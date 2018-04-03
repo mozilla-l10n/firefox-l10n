@@ -532,6 +532,7 @@ collection-backlogged-crash-reports-link = 더 알아보기
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = 보안
 security-browsing-protection = 사기성있는 내용과 위험한 소프트웨어 보호
 security-enable-safe-browsing =
     .label = 위험하고 사기성있는 내용을 차단
@@ -547,6 +548,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = 인증서
+certs-personal-label = 서버가 인증 정보를 요구할 때
 certs-select-auto-option =
     .label = 자동으로 하나를 선택
     .accesskey = S
