@@ -311,6 +311,7 @@ containers-remove-button =
 
 ## Privacy Section - Forms
 
+forms-header = ಫಾರ್ಮ್ಗಳು & ಗುಪ್ತಪದಗಳು
 forms-exceptions =
     .label = ವಿನಾಯಿತಿಗಳು...
     .accesskey = x
@@ -346,6 +347,7 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
 sitedata-accept-third-party-visited-option =
     .label = ಭೇಟಿ ಮಾಡಿದವುಗಳಿಂದ
 sitedata-accept-third-party-never-option =
@@ -380,7 +382,23 @@ tracking-exceptions =
 
 ## Privacy Section - Permissions
 
+permissions-location = ಸ್ಥಳ
+permissions-location-settings =
+    .label = ಸಿದ್ಧತೆಗಳು…
+    .accesskey = t
+permissions-camera = ಕ್ಯಾಮೆರಾ
+permissions-camera-settings =
+    .label = ಸಿದ್ಧತೆಗಳು…
+    .accesskey = t
+permissions-microphone = ಮೈಕ್ರೊಫೋನ್
+permissions-microphone-settings =
+    .label = ಸಿದ್ಧತೆಗಳು…
+    .accesskey = t
 permissions-notification = ಸೂಚನೆಗಳು
+permissions-notification-settings =
+    .label = ಸಿದ್ಧತೆಗಳು…
+    .accesskey = t
+permissions-notification-link = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
 permissions-block-popups =
     .label = ಪುಟಿಕೆ (ಪಾಪ್-ಅಪ್) ಕಿಟಕಿಗಳನ್ನು ತಡೆ ಹಿಡಿ
     .accesskey = B
@@ -390,9 +408,13 @@ permissions-block-popups-exceptions =
 permissions-addon-exceptions =
     .label = ವಿನಾಯಿತಿಗಳು...
     .accesskey = E
+permissions-a11y-privacy-link = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
 
 ## Privacy Section - Data Collection
 
+collection-privacy-notice = ಗೌಪ್ಯತಾ ಸೂಚನೆ
+collection-health-report-link = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
+collection-backlogged-crash-reports-link = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
 
 ## Privacy Section - Security
 ##
@@ -412,6 +434,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = ಪ್ರಮಾಣಪತ್ರಗಳು
+certs-personal-label = ಒಂದು ಪರಿಚಾರಕವು ನನ್ನ ಖಾಸಗಿ ಪ್ರಮಾಣಪತ್ರವನ್ನು ಅಪೇಕ್ಷಿಸಿದಾಗ
 certs-select-auto-option =
     .label = ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಒಂದನ್ನು ಆರಿಸು
     .accesskey = S‍
@@ -421,3 +444,9 @@ certs-select-ask-option =
 certs-enable-ocsp =
     .label = ಪ್ರಮಾಣಪತ್ರಗಳ ಪ್ರಸಕ್ತ ಮಾನ್ಯತೆಯನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು OCSP ರೆಸ್ಪಾಂಡರ್ ಪೂರೈಕೆಗಣಕಗಳಿಗೆ ಮನವಿ ಮಾಡಿ
     .accesskey = Q
+certs-view =
+    .label = ಪ್ರಮಾಣಪತ್ರಗಳನ್ನು ನೋಡು…
+    .accesskey = C
+certs-devices =
+    .label = ಸುರಕ್ಷತಾ ಸಾಧನಗಳು…
+    .accesskey = D
