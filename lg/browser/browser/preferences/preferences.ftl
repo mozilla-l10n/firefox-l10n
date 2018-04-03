@@ -184,6 +184,8 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-never-option =
+    .label = Tekibanga
 sitedata-cookies-exceptions =
     .label = Okujjako…
     .accesskey = j
@@ -214,3 +216,4 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Certificates
 
+certs-header = Zasatifiketi
