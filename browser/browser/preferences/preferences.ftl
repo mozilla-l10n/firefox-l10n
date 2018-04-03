@@ -426,6 +426,7 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = Докладніше
 sitedata-accept-third-party-always-option =
     .label = Завжди
 sitedata-accept-third-party-visited-option =
