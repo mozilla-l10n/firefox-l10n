@@ -404,18 +404,82 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-header = Historial
+history-dontremember-description = { -brand-short-name } usará la misma configuración que en la navegación privada, y no recordará ningún dato de su historial mientras navega por la Web.
+history-private-browsing-permanent =
+    .label = Modo permanente de navegación privada
+    .accesskey = n
+history-remember-option =
+    .label = Recordar mi historial de descargas y navegación
+    .accesskey = R
+history-remember-search-option =
+    .label = Recordar el historial de formularios y búsquedas
+    .accesskey = f
+history-clear-on-close-option =
+    .label = Limpiar el historial cuando { -brand-short-name } se cierre
+    .accesskey = h
+history-clear-on-close-settings =
+    .label = Configuración…
+    .accesskey = g
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = Saber más
+sitedata-keep-until = Mantener hasta que
+    .accesskey = q
+sitedata-accept-third-party-always-option =
+    .label = Siempre
+sitedata-accept-third-party-visited-option =
+    .label = De los visitados
+sitedata-accept-third-party-never-option =
+    .label = Nunca
+sitedata-cookies-exceptions =
+    .label = Excepciones…
+    .accesskey = E
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Barra de direcciones
+addressbar-suggest = Al usar la barra de direcciones, sugerir
+addressbar-locbar-history-option =
+    .label = Historial de navegación
+    .accesskey = t
+addressbar-locbar-bookmarks-option =
+    .label = Marcadores
+    .accesskey = M
+addressbar-locbar-openpage-option =
+    .label = Abrir pestañas
+    .accesskey = A
+addressbar-suggestions-settings = Cambiar preferencias de sugerencias de buscadores
 
 ## Privacy Section - Tracking
 
+tracking-header = Protección contra rastreo
+tracking-description = La protección contra rastreo bloquea los rastreadores en línea que recopilan sus datos de navegación a través de múltiples sitios web. <a>Más información sobre la protección contra rastreo y su privacidad</a>
+tracking-mode-label = Usar protección contra rastreo para bloquear los rastreadores conocidos
+tracking-mode-always =
+    .label = Siempre
+    .accesskey = i
+tracking-mode-private =
+    .label = Solo en ventanas privadas
+    .accesskey = v
+tracking-mode-never =
+    .label = Nunca
+    .accesskey = u
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Usar protección contra rastreo en la navegación privada para bloquear los rastreadores conocidos
+    .accesskey = d
+tracking-exceptions =
+    .label = Excepciones…
+    .accesskey = x
+tracking-change-block-list =
+    .label = Cambiar lista de bloqueo…
+    .accesskey = l
 
 ## Privacy Section - Permissions
 
+permissions-header = Permisos
 permissions-location = Ubicación
 permissions-location-settings =
     .label = Configuración…
@@ -445,9 +509,28 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Excepciones…
     .accesskey = E
+permissions-a11y-privacy-checkbox =
+    .label = Impedir que los servicios de accesibilidad accedan a su navegador
+    .accesskey = I
+permissions-a11y-privacy-link = Saber más
 
 ## Privacy Section - Data Collection
 
+collection-header = Recopilación y uso de datos de { -brand-short-name }
+collection-description = Nos esforzamos en proporcionarle opciones y recopilamos solo lo que necesitamos para proporcionarle y mejorar { -brand-short-name } para todos. Siempre pedimos permiso antes de recibir información personal.
+collection-privacy-notice = Aviso sobre privacidad
+collection-health-report =
+    .label = Permitir a { -brand-short-name } enviar datos técnicos y de interacción a { -vendor-short-name }
+    .accesskey = P
+collection-health-report-link = Saber más
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = La recopilación de datos está deshabilitada en esta configuración de compilación
+collection-browser-errors =
+    .label = Permitir a { -brand-short-name } enviar informes de error del navegador (incluyendo mensajes de error) a { -vendor-short-name }
+    .accesskey = e
+collection-browser-errors-link = Saber más
+collection-backlogged-crash-reports-link = Saber más
 
 ## Privacy Section - Security
 ##
@@ -469,3 +552,20 @@ security-block-uncommon-software =
 
 ## Privacy Section - Certificates
 
+certs-header = Certificados
+certs-personal-label = Cuando un servidor solicite su certificado personal
+certs-select-auto-option =
+    .label = Seleccionar uno automáticamente
+    .accesskey = S
+certs-select-ask-option =
+    .label = Preguntar cada vez
+    .accesskey = P
+certs-enable-ocsp =
+    .label = Consultar a los servidores respondedores OCSP para confirmar la validez actual de los certificados
+    .accesskey = u
+certs-view =
+    .label = Ver certificados…
+    .accesskey = e
+certs-devices =
+    .label = Dispositivos de seguridad…
+    .accesskey = D
