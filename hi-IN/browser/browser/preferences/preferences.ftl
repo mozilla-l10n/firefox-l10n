@@ -425,18 +425,33 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = सेटिंग्स…
     .accesskey = t
+history-clear-button =
+    .label = इतिहास हटायें...
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
+sitedata-header = कुकीज़ और साइट डेटा
 sitedata-learn-more = अधिक जानें
+sitedata-accept-cookies-option =
+    .label = वेबसाइट से कूकीज और साइट डाटा स्वीकार करें (अनुशंसित)
+    .accesskey = A
 sitedata-keep-until = तब तक रखें जब तक
     .accesskey = u
+sitedata-accept-third-party-desc = तृतीय पक्ष कूकीज और साइट डाटा स्वीकार करें
+    .accesskey = y
 sitedata-accept-third-party-always-option =
     .label = हमेशा
 sitedata-accept-third-party-visited-option =
     .label = भ्रमण किए हुए से
 sitedata-accept-third-party-never-option =
     .label = कभी नहीं
+sitedata-clear =
+    .label = डेटा मिटायें...
+    .accesskey = I
+sitedata-settings =
+    .label = डेटा प्रबंधित करें...
+    .accesskey = M
 sitedata-cookies-exceptions =
     .label = अपवाद…
     .accesskey = E
