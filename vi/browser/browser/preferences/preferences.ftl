@@ -382,6 +382,8 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-never-option =
+    .label = Không bao giờ
 sitedata-cookies-exceptions =
     .label = Ngoại trừ…
     .accesskey = N
