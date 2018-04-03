@@ -382,3 +382,45 @@ containers-preferences-button =
     .label = प्राथमिकताएँ
 containers-remove-button =
     .label = हटायें
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = अपवाद…
+    .accesskey = x
+forms-master-pw-use =
+    .label = मुख्य कूटशब्द का प्रयोग करें
+    .accesskey = U
+forms-master-pw-change =
+    .label = मुख्य कूटशब्द बदलें…
+    .accesskey = M
+
+## Privacy Section - History
+
+
+## Privacy Section - Site Data
+
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
