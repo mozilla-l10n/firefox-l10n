@@ -435,6 +435,8 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-header = पता पट्टी
+addressbar-suggest = पता बार का उपयोग करते समय, सुझाव दें
 addressbar-locbar-bookmarks-option =
     .label = पुस्तचिह्न
     .accesskey = k
@@ -460,7 +462,12 @@ tracking-exceptions =
 
 ## Privacy Section - Permissions
 
+permissions-header = अनुमतियां
+permissions-microphone = माइक्रोफोन
 permissions-notification = अधिसूचना
+permissions-notification-pause =
+    .label = { -brand-short-name } के पुनः शुरू होने तक अधिसूचना रोकें
+    .accesskey = n
 permissions-block-popups =
     .label = पॉपअप विंडो को अवरोधित करें
     .accesskey = B
@@ -473,7 +480,16 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Data Collection
 
+collection-header = { -brand-short-name } डेटा संकलन और उपयोग
+collection-description = हम आपको हमेशा विकल्प देने का प्रयास करते हैं और केवल आवश्यक सूचनाएँ एकत्रित करते हैं ताकि { -brand-short-name } सबके लिए व बेहतर हो. हम व्यक्तिगत जानकारी लेने से पहले हमेशा अनुमति मांगते हैं.
+collection-privacy-notice = गोपनीयता सूचना
+collection-health-report =
+    .label = { -brand-short-name } को मोज़िला को तकनीकी और इंटरैक्शन डेटा भेजने की अनुमति दें
+    .accesskey = r
 collection-health-report-link = अधिक जानें
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = इस निर्मित विन्यास के लिए डेटा रिपोर्टिंग को असक्रिय किया हैं
 collection-backlogged-crash-reports-link = अधिक जानें
 
 ## Privacy Section - Security
@@ -482,6 +498,7 @@ collection-backlogged-crash-reports-link = अधिक जानें
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = सुरक्षा
+security-browsing-protection = भ्रामक सामग्री और खतरनाक सॉफ़्टवेयर सुरक्षा
 security-enable-safe-browsing =
     .label = ख़तरनाक और संदेहास्पद सामग्री रोकें
     .accesskey = B
