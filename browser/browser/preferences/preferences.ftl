@@ -530,6 +530,9 @@ permissions-a11y-privacy-link = Conocer más
 collection-header = Recolección de datos y uso de { -brand-short-name }
 collection-description = Nos esforzamos en proporcionar opciones y recolectar solamente lo que necesitamos para proveer y mejorar { -brand-short-name } para todo el mundo. Siempre pedimos permiso antes de recibir información personal.
 collection-privacy-notice = Nota de privacidad
+collection-health-report =
+    .label = Permitir que { -brand-short-name } envíe información técnica y de interacción a { -vendor-short-name }
+    .accesskey = r
 collection-health-report-link = Conocer más
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
@@ -545,6 +548,7 @@ collection-backlogged-crash-reports-link = Conocer más
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Seguridad
+security-browsing-protection = Protección contra contenido engañoso y software peligroso
 security-enable-safe-browsing =
     .label = Bloquear contenido peligroso y engañoso
     .accesskey = B
