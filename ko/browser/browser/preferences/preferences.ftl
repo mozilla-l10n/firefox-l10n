@@ -449,10 +449,22 @@ addressbar-locbar-openpage-option =
 
 tracking-description = 추적 방지 기능은 여러 웹사이트에 걸처 사용자의 탐색 데이터를 수집하는 추적자를 차단합니다. <a>추적 방지와 개인정보 보호 살펴보기</a>
 tracking-mode-label = 알려진 추적자를 차단하는 추적 방지 기능 사용
+tracking-mode-always =
+    .label = 항상 사용하기
+    .accesskey = y
+tracking-mode-private =
+    .label = 사생활 보호 창에서만 사용하기
+    .accesskey = y
+tracking-mode-never =
+    .label = 항상 사용하지 않기
+    .accesskey = n
 # This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
 # This currently happens on the release and beta channel.
 tracking-pbm-label = 사생활 보호 모드에서 추적 방지를 사용해 알려진 추적기관을 차단
     .accesskey = v
+tracking-exceptions =
+    .label = 예외…
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
