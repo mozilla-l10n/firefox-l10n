@@ -407,6 +407,7 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Roll istor
+history-remember-description = { -brand-short-name } a zalc'ho soñj eus ho roll istor, ho pellgargadennoù, ho furmskridoù hag ho klaskoù.
 history-dontremember-description = { -brand-short-name } a implijo ar memes arventennoù hag ar merdeiñ prevez, ha ne zalc'ho ket soñj ar roll istor.
 history-private-browsing-permanent =
     .label = Atav arverañ mod merdeiñ prevez
@@ -423,18 +424,36 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Arventennoù…
     .accesskey = v
+history-clear-button =
+    .label = Skarzhañ ar roll istor…
+    .accesskey = r
 
 ## Privacy Section - Site Data
 
+sitedata-header = Toupinoù ha roadennoù lec'hienn
 sitedata-learn-more = Gouzout hiroc'h
+sitedata-accept-cookies-option =
+    .label = Asantiñ an toupinoù hag ar roadennoù lec'hienn eus al lec'hiennoù web (erbedet)
+    .accesskey = A
+sitedata-block-cookies-option =
+    .label = Stankañ an toupinoù hag ar roadennoù lec'hienn (gallout a ra terriñ lec'hiennoù 'zo)
+    .accesskey = S
 sitedata-keep-until = Mirout betek
     .accesskey = M
+sitedata-accept-third-party-desc = Asantiñ toupinoù ha roadennoù lec'hienn tredeoù
+    .accesskey = t
 sitedata-accept-third-party-always-option =
     .label = Atav
 sitedata-accept-third-party-visited-option =
     .label = Adalek lec'hiennoù gweladennet
 sitedata-accept-third-party-never-option =
     .label = Morse
+sitedata-clear =
+    .label = Skarzhañ ar roadennoù…
+    .accesskey = S
+sitedata-settings =
+    .label = Merañ ar roadennoù…
+    .accesskey = M
 sitedata-cookies-exceptions =
     .label = Nemedennoù…
     .accesskey = N
@@ -457,6 +476,8 @@ addressbar-suggestions-settings = Kemmañ ar gwellvezioù evit ar c'hinnigoù lu
 ## Privacy Section - Tracking
 
 tracking-header = Gwarez heuliañ
+tracking-description = Ar gwarez heuliañ a stank an heulierien enlinenn a zastum ho roadennoù merdeiñ war meur a lec'hienn. <a>Gouzout hiroc'h a-zivout ar gwarez heuliañ hag ho puhez prevez</a>
+tracking-mode-label = Arverañ ar gwarez heuliañ evit stankañ heulierien anavezet
 tracking-mode-always =
     .label = Atav
     .accesskey = t
@@ -519,10 +540,20 @@ permissions-a11y-privacy-link = Gouzout hiroc'h
 collection-header = Dastumadeg roadennoù { -brand-short-name } hag arver
 collection-description = Strivañ a reomp evit kinnig deoc'h dibaboù ha dastum ar pep ret nemetken da wellaat { -brand-short-name } evit an holl. Goulenn a reomp atav an aotre a-raok degemer titouroù personel.
 collection-privacy-notice = Evezhiadennoù a-fet buhez prevez
+collection-health-report =
+    .label = Aotren { -brand-short-name } da gas roadennoù teknikel hag etrewerzhañ da v{ -vendor-short-name }
+    .accesskey = A
 collection-health-report-link = Gouzout hiroc'h
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Diweredekaet eo an danevelliñ roadennoù evit kefluniadur ar c'hempunadur-mañ
+collection-browser-errors =
+    .label = Aotren { -brand-short-name } da gas danevelloù fazi merdeer (kemennadennoù fazi en o zouez) da v{ -vendor-short-name }
+    .accesskey = m
+collection-browser-errors-link = Gouzout hiroc'h
+collection-backlogged-crash-reports =
+    .label = Aotren { -brand-short-name } da gas danevelloù sac'hadennoù enrollet evidoc'h
+    .accesskey = d
 collection-backlogged-crash-reports-link = Gouzout hiroc'h
 
 ## Privacy Section - Security
@@ -531,9 +562,11 @@ collection-backlogged-crash-reports-link = Gouzout hiroc'h
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Diogelroez
+security-browsing-protection = Endalc'had touellus ha Gwarez a-enep d'ar Meziantoù Arvarus
 security-enable-safe-browsing =
     .label = Stankañ endalc'hadoù arvarus pe touellus
     .accesskey = S
+security-enable-safe-browsing-link = Gouzout hiroc'h
 security-block-downloads =
     .label = Stankañ pellgargadurioù arvarus
     .accesskey = p
