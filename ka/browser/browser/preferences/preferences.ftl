@@ -385,9 +385,14 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = პირადული ბრაუზერი
 
 ## Privacy Section - Forms
 
+forms-header = ველები და პაროლები
+forms-remember-logins =
+    .label = საიტებზე შესვლის მონაცემების დამახსოვრება
+    .accesskey = დ
 forms-exceptions =
     .label = გამონაკლისები…
     .accesskey = ნ
@@ -403,39 +408,193 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-header = ისტორია
+history-remember-description = { -brand-short-name } დაიმახსოვრებს მონახულებული გვერდების ისტორიას, ჩამოთვირთვებს და ძიების ისტორიას.
+history-dontremember-description = { -brand-short-name } ბრაუზერი ისარგებლებს პირადი ფანჯრის პარამეტრებით და არ შეინახავს თქვენ მიერ მონახულებული საიტების ისტორიას.
+history-private-browsing-permanent =
+    .label = ყოველთვის პირადი დათვალიერების გამოყენება
+    .accesskey = პ
+history-remember-option =
+    .label = მონახულებული გვერდებისა და ჩამოტვირთვების ისტორიის დამახსოვრება
+    .accesskey = მ
+history-remember-search-option =
+    .label = ძიებისა და ველების ისტორიის დამახსოვრება
+    .accesskey = ვ
 history-clear-on-close-option =
     .label = ისტორიის გასუფთავება { -brand-short-name }-ის დახურვისას
     .accesskey = ფ
 history-clear-on-close-settings =
     .label = პარამეტრები…
     .accesskey = ტ
+history-clear-button =
+    .label = ისტორიის გასუფთავება…
+    .accesskey = ს
 
 ## Privacy Section - Site Data
 
+sitedata-header = ფუნთუშები და საიტის მონაცემები
+sitedata-learn-more = ვრცლად
+sitedata-accept-cookies-option =
+    .label = ფუნთუშებისა და საიტის მონაცემების საიტებიდან (სასურველია)
+    .accesskey = დ
+sitedata-block-cookies-option =
+    .label = ფუნთუშებისა და საიტის მონაცემების აკრძალვა (შესაძლოა ვებსაიტებმა ხარვეზებით იმუშაოს)
+    .accesskey = კ
+sitedata-keep-until = შენახვა სანამ
+    .accesskey = ს
+sitedata-accept-third-party-desc = მესამე მხარის ფუნთუშებისა და საიტის მონაცემის მიღება
+    .accesskey = ღ
+sitedata-accept-third-party-always-option =
+    .label = ყოველთვის
+sitedata-accept-third-party-visited-option =
+    .label = მხოლოდ მონახულებულიდან
+sitedata-accept-third-party-never-option =
+    .label = არასდროს
+sitedata-clear =
+    .label = მონაცემთა გასუფთავება…
+    .accesskey = მ
+sitedata-settings =
+    .label = მონაცემების მართვა…
+    .accesskey = მ
 sitedata-cookies-exceptions =
     .label = გამონაკლისები…
     .accesskey = გ
 
 ## Privacy Section - Address Bar
 
+addressbar-header = მისამართების ველი
+addressbar-suggest = შემოთავაზებები, მისამართების ველით სარგებლობისას
+addressbar-locbar-history-option =
+    .label = დათვალიერების ისტორია
+    .accesskey = ი
+addressbar-locbar-bookmarks-option =
+    .label = სანიშნები
+    .accesskey = ს
+addressbar-locbar-openpage-option =
+    .label = გახსნილი ჩანართები
+    .accesskey = გ
+addressbar-suggestions-settings = საძიებო სისტემის შემოთავაზებების პარამეტრები
 
 ## Privacy Section - Tracking
 
+tracking-header = თვალთვალისგან დაცვა
+tracking-description = თვალთვალისგან დაცვა ზღუდავს მეთვალყურე ელემენტებს, რომელიც აღრიცხავს თქვენს მოქმედებებს, სხვადასხვა საიტებზე. <a>იხილეთ ვრცლად, თვალთვალისგან დაცვისა და პირადი მონაცემების უსაფრთხოების შესახებ</a>
+tracking-mode-label = თვალთვალისგან დაცვის საშუალებით, შეგიძლიათ ცნობილი მეთვალყურე ელემენტების შეზღუდვა
+tracking-mode-always =
+    .label = ყოველთვის
+    .accesskey = ყ
+tracking-mode-private =
+    .label = მხოლოდ პირად ფანჯრებში
+    .accesskey = პ
+tracking-mode-never =
+    .label = არასდროს
+    .accesskey = ა
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = თვალთვალისგან დაცვის საშუალებით, პირადი თვალიერებისას, შეგიძლიათ ცნობილი მეთვალყურე ელემენტების შეზღუდვა
+    .accesskey = თ
+tracking-exceptions =
+    .label = გამონაკლისები…
+    .accesskey = კ
+tracking-change-block-list =
+    .label = შეზღუდულთა სიის ჩასწორება…
+    .accesskey = შ
 
 ## Privacy Section - Permissions
 
+permissions-header = ნებართვები
+permissions-location = მდებარეობა
+permissions-location-settings =
+    .label = პარამეტრები…
+    .accesskey = პ
+permissions-camera = კამერა
+permissions-camera-settings =
+    .label = პარამეტრები…
+    .accesskey = პ
+permissions-microphone = მიკროფონი
+permissions-microphone-settings =
+    .label = პარამეტრები…
+    .accesskey = პ
+permissions-notification = შეტყობინებები
+permissions-notification-settings =
+    .label = პარამეტრები…
+    .accesskey = პ
+permissions-notification-link = ვრცლად
+permissions-notification-pause =
+    .label = შეტყობინებების შეჩერება { -brand-short-name }-ის ხელახლა გაშვებამდე
+    .accesskey = ჩ
+permissions-block-popups =
+    .label = ამომხტომი ფირნიშების შეზღუდვა
+    .accesskey = დ
+permissions-block-popups-exceptions =
+    .label = გამონაკლისები…
+    .accesskey = გ
+permissions-addon-install-warning =
+    .label = გაფრთხილება საიტების მიერ დამატების ჩადგმის მცდელობისას
+    .accesskey = გ
 permissions-addon-exceptions =
     .label = გამონაკლისები…
     .accesskey = გ
+permissions-a11y-privacy-checkbox =
+    .label = დამხმარე საშუალებებისთვის, ბრაუზერთან წვდომის შეზღუდვა
+    .accesskey = დ
+permissions-a11y-privacy-link = იხილეთ ვრცლად
 
 ## Privacy Section - Data Collection
 
+collection-header = { -brand-short-name } მონაცემთა აღრიცხვა და გამოყენება
+collection-description = ჩვენ ვცდილობთ მოგცეთ არჩევანის უფლება და აღვრიცხოთ მხოლოდ ის მონაცემები, რაც საჭიროა { -brand-short-name }-ის გასაუმჯობესებლად. ჩვენ ყოველთვის დაგეკითხებით, პირადი ინფორმაციის მიღებამდე.
+collection-privacy-notice = პირადი მონაცემების დაცვის განაცხადი
+collection-health-report =
+    .label = { -brand-short-name }-ისთვის ნების დართვა, გადაუგზავნოს ტექნიკური მონაცემები { -vendor-short-name }-ს
+    .accesskey = რ
+collection-health-report-link = იხილეთ ვრცლად
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = მოხსენებები გამორთულია ანაწყობის ამ კონფიგურაციისთვის
+collection-browser-errors =
+    .label = { -brand-short-name }-ისთვის ნების დართვა, გადაუგზავნოს შეცდომების შესახებ მოხსენებები (შეცდომის შეტყობინებების ჩათვ.) { -vendor-short-name }-ს
+    .accesskey = ნ
+collection-browser-errors-link = ვრცლად
+collection-backlogged-crash-reports =
+    .label = { -brand-short-name }-სთვის ნების დართვა, გადააგზავნოს დაგროვილი ავარიული დახურვის შეტყობინებები თქვენი სახელით
+    .accesskey = დ
+collection-backlogged-crash-reports-link = ვრცლად
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = უსაფრთხოება
+security-browsing-protection = თაღლითური შიგთავსისა და სახიფათო პროგრამებისგან დაცვა
+security-enable-safe-browsing =
+    .label = სახიფათო და თაღლითური შიგთავსის შეზღუდვა
+    .accesskey = ღ
+security-enable-safe-browsing-link = იხილეთ ვრცლად
+security-block-downloads =
+    .label = სახიფათო ჩამოტვირთვების აკრძალვა
+    .accesskey = ძ
+security-block-uncommon-software =
+    .label = გაფრთხილება არასასურველი და უჩვეულო პროგრამების შესახებ
+    .accesskey = უ
 
 ## Privacy Section - Certificates
 
+certs-header = სერტიფიკატები
+certs-personal-label = სერვერის მიერ, თქვენი პირადი სერტიფიკატის მოთხოვნისას
+certs-select-auto-option =
+    .label = თვითშერჩევა
+    .accesskey = თ
+certs-select-ask-option =
+    .label = ყოველ ჯერზე კითხვა
+    .accesskey = ყ
+certs-enable-ocsp =
+    .label = OCSP სერვერებისთვის სერტიფიკატების დამოწმების მოთხოვნა
+    .accesskey = O
+certs-view =
+    .label = სერტიფიკატების ნახვა…
+    .accesskey = ნ
+certs-devices =
+    .label = უსაფრთხოების მოწყობილობები…
+    .accesskey = მ
