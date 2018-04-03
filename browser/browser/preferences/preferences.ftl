@@ -377,3 +377,46 @@ containers-preferences-button =
     .label = পছন্দসমূহ
 containers-remove-button =
     .label = অপসারণ
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+
+## Privacy Section - History
+
+history-dontremember-description = { -brand-short-name } একান্ত ব্রাউজিং এর মতোই সেটিং ব্যবহার করবে, এবং আপনার ব্রাউজিং এর কোন তথ্য সংরক্ষণ করবে না।
+history-remember-option =
+    .label = আমার ব্রাউজিং এবং ডাউনলোড ইতিহাস মনে রাখুন b
+    .accesskey = b
+
+## Privacy Section - Site Data
+
+sitedata-cookies-exceptions =
+    .label = ব্যতিক্রম… E
+    .accesskey = E
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-block-popups =
+    .label = পপ-আপ উইন্ডো ব্লক করা হবে B
+    .accesskey = B
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
