@@ -368,12 +368,18 @@ containers-remove-button =
 
 ## Privacy Section - Forms
 
+forms-exceptions =
+    .label = İstisnalar…
+    .accesskey = n
 
 ## Privacy Section - History
 
 history-private-browsing-permanent =
     .label = Həmişə gizli baxış rejimindən istifadə et
     .accesskey = g
+history-remember-option =
+    .label = Endirmə və Tarixçəmi yadda saxla
+    .accesskey = l
 history-remember-search-option =
     .label = Axtarış və form keçmişini xatırla
     .accesskey = f
@@ -397,9 +403,13 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Permissions
 
+permissions-block-popups =
+    .label = Peyda olan pəncərələri blokla
+    .accesskey = b
 
 ## Privacy Section - Data Collection
 
+collection-health-report-link = Ətraflı
 
 ## Privacy Section - Security
 ##
