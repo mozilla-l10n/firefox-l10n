@@ -391,6 +391,7 @@ containers-remove-button =
 
 ## Privacy Section - History
 
+history-header = Historikk
 
 ## Privacy Section - Site Data
 
