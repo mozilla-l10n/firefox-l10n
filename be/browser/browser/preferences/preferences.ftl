@@ -383,9 +383,11 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = Прыватнасць браўзера
 
 ## Privacy Section - Forms
 
+forms-header = Формы & паролі
 forms-exceptions =
     .label = Выключэнні…
     .accesskey = ы
@@ -402,6 +404,7 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Гісторыя
+history-remember-description = { -brand-short-name } будзе помніць гісторыю аглядання, сцягвання, запаўнення форм і пошуку.
 history-dontremember-description = { -brand-short-name } будзе ўжываць тыя ж налады, што і ў прыватным рэжыме, і не будзе памятаць гісторыю вашага аглядання Сеціва.
 history-private-browsing-permanent =
     .label = Заўсёды ўжываць прыватны рэжым аглядання
@@ -422,6 +425,9 @@ history-clear-on-close-settings =
 ## Privacy Section - Site Data
 
 sitedata-learn-more = Даведацца больш
+sitedata-accept-cookies-option =
+    .label = Прымаць кукі і дадзеныя з вэб-сайтаў (рэкамендуецца)
+    .accesskey = П
 sitedata-accept-third-party-always-option =
     .label = заўсёды
 sitedata-accept-third-party-visited-option =
@@ -445,6 +451,8 @@ addressbar-suggestions-settings = Змяніць налады для падка�
 ## Privacy Section - Tracking
 
 tracking-header = Ахова ад сачэння
+tracking-description = Ахова ад сачэння блакуе сеціўныя сістэмы, якія збіраюць звесткі пра ваша агляданне на шматлікіх сайтах. <a>Даведацца больш пра ахову ад сачэння і прыватнасць</a>
+tracking-mode-label = Ахоўваць ад асочвання вядомымі сістэмамі
 tracking-mode-always =
     .label = Заўсёды
     .accesskey = З
@@ -454,6 +462,10 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Ніколі
     .accesskey = н
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Блакіраваць вядомыя элементы сачэння ў рэжыме прыватнага аглядання
+    .accesskey = м
 tracking-exceptions =
     .label = Выключэнні…
     .accesskey = ч
@@ -469,7 +481,11 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Data Collection
 
+collection-health-report =
+    .label = Дазволіць { -brand-short-name } адпраўляць тэхнічныя звесткі і звесткі ўзаемадзеяння ў { -vendor-short-name }
+    .accesskey = к
 collection-health-report-link = Даведацца больш
+collection-backlogged-crash-reports-link = Даведацца больш
 
 ## Privacy Section - Security
 ##
@@ -477,9 +493,11 @@ collection-health-report-link = Даведацца больш
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Бяспека
+security-browsing-protection = Абарона ад падманнага змесціва і небяспечных праграм
 security-enable-safe-browsing =
     .label = Блакаваць небяспечнае і падманлівае змесціва
     .accesskey = Б
+security-enable-safe-browsing-link = Даведацца больш
 security-block-downloads =
     .label = Блакаваць небяспечныя сцягванні
     .accesskey = Н
