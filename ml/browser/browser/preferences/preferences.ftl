@@ -415,3 +415,4 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Certificates
 
+certs-header = സര്‍ട്ടിഫിക്കറ്റുകള്‍
