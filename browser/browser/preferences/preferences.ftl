@@ -382,3 +382,54 @@ containers-preferences-button =
     .label = પસંદગીઓ
 containers-remove-button =
     .label = દૂર કરો
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = અપવાદો...
+    .accesskey = x
+forms-master-pw-use =
+    .label = મુખ્ય પાસવર્ડ વાપરો
+    .accesskey = U
+forms-master-pw-change =
+    .label = મુખ્ય પાસવર્ડ બદલો...
+    .accesskey = M
+
+## Privacy Section - History
+
+
+## Privacy Section - Site Data
+
+sitedata-cookies-exceptions =
+    .label = અપવાદો...
+    .accesskey = E
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-block-popups =
+    .label = પોપ-અપ વિન્ડો અટકાવો
+    .accesskey = B
+permissions-addon-exceptions =
+    .label = અપવાદો...
+    .accesskey = E
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
