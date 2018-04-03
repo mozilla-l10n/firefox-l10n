@@ -375,6 +375,10 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-visited-option =
+    .label = Od posjećenih
+sitedata-accept-third-party-never-option =
+    .label = Nikad
 sitedata-cookies-exceptions =
     .label = Iznimke...
     .accesskey = m
@@ -402,3 +406,4 @@ permissions-block-popups =
 
 ## Privacy Section - Certificates
 
+certs-header = Certifikati
