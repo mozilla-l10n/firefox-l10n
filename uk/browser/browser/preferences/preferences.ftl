@@ -380,3 +380,56 @@ containers-preferences-button =
     .label = Налаштування
 containers-remove-button =
     .label = Вилучити
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = Винятки…
+    .accesskey = и
+forms-master-pw-change =
+    .label = Змінити головний пароль…
+    .accesskey = і
+
+## Privacy Section - History
+
+history-header = Історія відвідувань
+
+## Privacy Section - Site Data
+
+sitedata-accept-third-party-always-option =
+    .label = Завжди
+sitedata-accept-third-party-visited-option =
+    .label = Від відвіданих
+sitedata-accept-third-party-never-option =
+    .label = Ніколи
+sitedata-cookies-exceptions =
+    .label = Винятки…
+    .accesskey = и
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-addon-exceptions =
+    .label = Винятки…
+    .accesskey = В
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
+certs-header = Сертифікати
