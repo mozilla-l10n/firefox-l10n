@@ -379,9 +379,11 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = Tabaḍnit n iminig
 
 ## Privacy Section - Forms
 
+forms-header = Tiferka & akked awalen uffiren
 forms-exceptions =
     .label = Tisuraf…
     .accesskey = r
@@ -411,34 +413,62 @@ history-remember-search-option =
 history-clear-on-close-option =
     .label = Sfeḍ amazray ticki tmedleḍ { -brand-short-name }
     .accesskey = r
+history-clear-on-close-settings =
+    .label = Iγewwaṛen…
+    .accesskey = I
+history-clear-button =
+    .label = Sfeḍ amazray…
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
+sitedata-header = Inagan n tuqna akked isefka n usmel
 sitedata-learn-more = Lmed ugar
+sitedata-block-cookies-option =
+    .label = Sewḥel inagan n tuqna akked isefka n usmel (izmer ad yiṛez ismal web)
+    .accesskey = B
+sitedata-keep-until = Ḥrez arma
+    .accesskey = l
+sitedata-accept-third-party-desc = Qbel inagan n tuqna tis kraḍ akked isefka n ismal
+    .accesskey = y
 sitedata-accept-third-party-always-option =
     .label = Yal ass
 sitedata-accept-third-party-visited-option =
     .label = Seg yismal ɣur terziḍ
 sitedata-accept-third-party-never-option =
     .label = Weṛǧin
+sitedata-clear =
+    .label = Sfeḍ isefka…
+    .accesskey = l
+sitedata-settings =
+    .label = Sefrek isefka…
+    .accesskey = M
 sitedata-cookies-exceptions =
     .label = Tisuraf…
     .accesskey = s
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Afeggag n tansa
+addressbar-suggest = Ticki tesqedceḍ afeggag n tansa, sumer
 addressbar-locbar-bookmarks-option =
     .label = Ticraḍ n isebtar
     .accesskey = T
 addressbar-locbar-openpage-option =
     .label = Iccaren yeldin
     .accesskey = I
+addressbar-suggestions-settings = Snifel ismenyifen i yisumar n umsedday n unadi
 
 ## Privacy Section - Tracking
 
+tracking-description = Amesten mgal aḍfaṛ ad isewḥel ineḍfaṛen iqnen iluqḍen isefka n iminig inek deg ismal web. <a>Issin ugar γef umesten mgal aḍfaṛ akked tasertit n tbaḍnit</a>
+tracking-mode-label = Seqdec amesten mgal asfuγel akken ad teswaḥleḍ imsfuγal irusinin
 tracking-mode-always =
     .label = Yal ass
     .accesskey = Y
+tracking-mode-private =
+    .label = Γef usfaylu uslig kan
+    .accesskey = l
 tracking-mode-never =
     .label = Weṛǧin
     .accesskey = W
@@ -448,16 +478,42 @@ tracking-exceptions =
 
 ## Privacy Section - Permissions
 
+permissions-header = Tisirag
+permissions-location = Adig
+permissions-camera = Takamiṛat
+permissions-microphone = Asawaḍ
+permissions-notification = Ilγa
+permissions-notification-link = Issin ugar
+permissions-notification-pause =
+    .label = Saḥbes ilγa arma yekker { -brand-short-name }
+    .accesskey = n
 permissions-block-popups =
     .label = Sewḥel isfuyla udhimen
     .accesskey = S
+permissions-block-popups-exceptions =
+    .label = Tisuraf…
+    .accesskey = s
+permissions-addon-install-warning =
+    .label = Lɣu ticki ismal ttaɛraḍen ad sbedden izegrar
+    .accesskey = B
 permissions-addon-exceptions =
     .label = Tisuraf…
     .accesskey = s
+permissions-a11y-privacy-link = Issin ugar
 
 ## Privacy Section - Data Collection
 
+collection-header = Alqqaḍ d useqdec n isefka { -brand-short-name }
+collection-privacy-notice = Tasertit n tbaḍnit
 collection-health-report-link = Lmed ugar
+collection-browser-errors =
+    .label = Sireg i { -brand-short-name } ad yazen aneqis n tucṣiwin n tunigin( igber iznan  n tusḍa) γer { -vendor-short-name }
+    .accesskey = b
+collection-browser-errors-link = Issin ugar
+collection-backlogged-crash-reports =
+    .label = Sireg { -brand-short-name } akken ad yazen ineqqisen n uɣelluy deg ugilal
+    .accesskey = c
+collection-backlogged-crash-reports-link = Issin ugar
 
 ## Privacy Section - Security
 ##
@@ -467,6 +523,7 @@ collection-health-report-link = Lmed ugar
 security-enable-safe-browsing =
     .label = Sewḥel yir agbur neɣ win iweɛṛen
     .accesskey = S
+security-enable-safe-browsing-link = Issin ugar
 security-block-downloads =
     .label = Sewḥel yir asider
     .accesskey = d
@@ -474,6 +531,7 @@ security-block-downloads =
 ## Privacy Section - Certificates
 
 certs-header = Iselkinen
+certs-personal-label = Ticki aqeddac isuter aselkin-ik udmawan
 certs-select-auto-option =
     .label = Fren yiwen s wudem awurman
     .accesskey = S
