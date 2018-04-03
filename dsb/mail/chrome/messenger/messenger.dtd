@@ -36,6 +36,12 @@
 <!ENTITY newFeedAccountCmd.accesskey "K">
 <!ENTITY newIMContactCmd.label "Chatowy kontakt…">
 <!ENTITY newIMContactCmd.accesskey "h">
+<!ENTITY  newMessageCmd2.key "N">
+<!ENTITY  newMessageCmd.key "M">
+<!ENTITY  newMessageCmd.label "Powěsć">
+<!ENTITY  newMessageCmd.accesskey "P">
+<!ENTITY  newContactCmd.label "Kontakt adresnika…">
+<!ENTITY  newContactCmd.accesskey "K">
 <!ENTITY openMessageFileCmd.label "Skłaźonu powěsć wócyniś…">
 <!ENTITY openMessageFileCmd.accesskey "k">
 <!ENTITY saveAsMenu.label "Składowaś ako">
@@ -317,7 +323,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Chat">
 <!ENTITY goChatCmd.accesskey "C">
-<!ENTITY goChatCmd.key "I">
 <!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Powěsć z gwězdku">
 <!ENTITY prevStarredMsgCmd.accesskey "g">
@@ -510,8 +515,6 @@
 <!ENTITY devToolboxCmd.label "Wuwijarski rědowy kašćik">
 <!ENTITY devToolboxCmd.accesskey "r">
 <!ENTITY devToolboxCmd.commandkey "i">
-<!ENTITY addonDebugCmd.label "Pytanje za zmólkami dodankow">
-<!ENTITY addonDebugCmd.accesskey "P">
 <!ENTITY debugAddonsCmd.label "Dodanki za zmólkami pśepytowaś">
 <!ENTITY debugAddonsCmd.accesskey "D">
 <!ENTITY tabsDebugCmd.label "Pytanje za zmólkami za wopśimjeśowy wobłuk">
