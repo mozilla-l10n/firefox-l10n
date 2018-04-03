@@ -381,42 +381,155 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = Böngésző adatvédelme
 
 ## Privacy Section - Forms
 
+forms-header = Űrlapok és jelszavak
+forms-remember-logins =
+    .label = Felhasználónevek és jelszavak megjegyzése az oldalakhoz
+    .accesskey = F
+forms-exceptions =
+    .label = Kivételek…
+    .accesskey = v
+forms-saved-logins =
+    .label = Mentett bejelentkezések…
+    .accesskey = t
+forms-master-pw-use =
+    .label = Mesterjelszó használata
+    .accesskey = M
+forms-master-pw-change =
+    .label = Mesterjelszó megváltoztatása…
+    .accesskey = z
 
 ## Privacy Section - History
 
+history-header = Előzmények
 history-dontremember-description = A { -brand-short-name } ugyanazokat a beállításokat fogja használni, mint a privát böngészés, és nem fogja megjegyezni az internethasználat előzményeit.
+history-private-browsing-permanent =
+    .label = Mindig a privát böngészési módot használja
+    .accesskey = p
+history-remember-option =
+    .label = Böngészési és letöltési előzmények megőrzése
+    .accesskey = l
+history-remember-search-option =
+    .label = Keresőmezők és űrlapmezők előzményeinek megőrzése
+    .accesskey = K
+history-clear-on-close-option =
+    .label = Előzmények törlése a { -brand-short-name } bezárásakor
+    .accesskey = E
+history-clear-on-close-settings =
+    .label = Beállítások…
+    .accesskey = B
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = További tudnivalók
+sitedata-keep-until = Sütik megtartása
+    .accesskey = m
+sitedata-accept-third-party-always-option =
+    .label = Mindig
 sitedata-accept-third-party-visited-option =
     .label = Meglátogatottól
 sitedata-accept-third-party-never-option =
     .label = Soha
+sitedata-cookies-exceptions =
+    .label = Kivételek…
+    .accesskey = K
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Címsáv
+addressbar-suggest = A címsáv használatakor jelenjen meg
+addressbar-locbar-history-option =
+    .label = Böngészési előzmények
+    .accesskey = e
+addressbar-locbar-bookmarks-option =
+    .label = Könyvjelzők
+    .accesskey = K
+addressbar-locbar-openpage-option =
+    .label = Nyitott lapok
+    .accesskey = N
+addressbar-suggestions-settings = Keresőszolgáltatás-javaslatok beállításainak módosítása
 
 ## Privacy Section - Tracking
 
+tracking-header = Követés elleni védelem
+tracking-mode-always =
+    .label = Mindig
+    .accesskey = d
+tracking-mode-private =
+    .label = Csak privát ablakokban
+    .accesskey = C
+tracking-mode-never =
+    .label = Soha
+    .accesskey = o
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Követésvédelem használata privát böngészésben, az ismert követők blokkolására
+    .accesskey = v
+tracking-exceptions =
+    .label = Kivételek…
+    .accesskey = K
+tracking-change-block-list =
+    .label = Blokkolási lista módosítása…
+    .accesskey = m
 
 ## Privacy Section - Permissions
 
+permissions-header = Engedélyek
+permissions-location = Hely
+permissions-camera = Kamera
+permissions-microphone = Mikrofon
+permissions-notification = Értesítések
+permissions-notification-link = További tudnivalók
+permissions-block-popups =
+    .label = Felugró ablakok tiltása
+    .accesskey = F
+permissions-block-popups-exceptions =
+    .label = Kivételek…
+    .accesskey = K
+permissions-addon-install-warning =
+    .label = Figyelmeztetés kiegészítők telepítése előtt
+    .accesskey = F
+permissions-addon-exceptions =
+    .label = Kivételek…
+    .accesskey = K
 
 ## Privacy Section - Data Collection
 
+collection-health-report-link = További tudnivalók
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Az adatjelentést letiltották ehhez a binárishoz
+collection-backlogged-crash-reports-link = További tudnivalók
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Biztonság
+security-enable-safe-browsing =
+    .label = Veszélyes és félrevezető tartalom blokkolása
+    .accesskey = V
+security-block-downloads =
+    .label = Veszélyes letöltések blokkolása
+    .accesskey = b
+security-block-uncommon-software =
+    .label = Figyelmeztetés a nem kívánatos és szokatlan szoftverekre
+    .accesskey = F
 
 ## Privacy Section - Certificates
 
 certs-header = Tanúsítványok
+certs-personal-label = Ha a kiszolgáló elkéri a személyes tanúsítványt
+certs-select-auto-option =
+    .label = Automatikus választás
+    .accesskey = A
+certs-select-ask-option =
+    .label = Megerősítés minden alkalommal
+    .accesskey = M
 certs-enable-ocsp =
     .label = Az OCSP válaszoló kiszolgálók lekérdezése a tanúsítványok érvényességének megerősítéséhez
     .accesskey = C
