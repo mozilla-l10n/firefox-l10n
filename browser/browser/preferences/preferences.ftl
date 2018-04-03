@@ -404,6 +404,7 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Պատմություն
+history-remember-description = { -brand-short-name }-ը կհիշի դիտարկումների, ներբեռնումների, ձևերի և որոնումների պատմությունը:
 history-dontremember-description = { -brand-short-name }ը կօգտագործի գաղտնի դիտարկման կարգավումները և չի հիշի համացանցում ձեր դիտարկումների պատմությունը:
 history-private-browsing-permanent =
     .label = Միշտ օգտագործել Գաղտնի Դիտարկումը
@@ -420,18 +421,36 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Կարգավորումներ...
     .accesskey = ր
+history-clear-button =
+    .label = Մաքրել պատմությունը…
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
+sitedata-header = Cookie-ներ և կայքի տվյալներ
 sitedata-learn-more = Իմանալ ավելին
+sitedata-accept-cookies-option =
+    .label = Ընդունել cookie-ներ և կայքի տվյալներ կայքերից (հանձնարարելի)
+    .accesskey = A
+sitedata-block-cookies-option =
+    .label = Արգելափակել cookie-ները և կայքի տվյալները (կարող է հանգեցնել կայքերի ընդհատմանը)
+    .accesskey = B
 sitedata-keep-until = Պահել մինչև՝
     .accesskey = u
+sitedata-accept-third-party-desc = Ընդունել երրորդ կողմի cookie-ները և կայքի տվյալները
+    .accesskey = y
 sitedata-accept-third-party-always-option =
     .label = Միշտ
 sitedata-accept-third-party-visited-option =
     .label = Այցելածներից
 sitedata-accept-third-party-never-option =
     .label = Երբեք
+sitedata-clear =
+    .label = Մաքրել տվյալները…
+    .accesskey = l
+sitedata-settings =
+    .label = Կառավարել տվյալները…
+    .accesskey = M
 sitedata-cookies-exceptions =
     .label = Բացառություններ…
     .accesskey = Բ
@@ -454,6 +473,8 @@ addressbar-suggestions-settings = Փոխել որոնիչների նախապատ
 ## Privacy Section - Tracking
 
 tracking-header = Հետագծման պաշտպանություն
+tracking-description = Հետագծման պաշտպանությունը արգելափակում է առցանց հետագծումները, որոնք հավաքում են դիտարկումների ձեր տվյալները տարբեր կայքերում: <a>Իմանալ ավելին ՀԵտագծման պաշտպանության և ձեր գաղտնիության մասին</a>
+tracking-mode-label = Օգտագործեք Հետագծման պաշտպանությունը՝ արգելափակելու հայտնի հետագծումները
 tracking-mode-always =
     .label = Միշտ
     .accesskey = շ
@@ -526,6 +547,13 @@ collection-health-report-link = Իմանալ ավելին
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Տվյալների զեկուցումը անջատված է կազմաձևի այս կառուցման համար
+collection-browser-errors =
+    .label = Թույլատրել { -brand-short-name }-ին ուղարկել դիտարկիչի սխալի զեկույցներ (այդ թվում՝ սխալի հաղորդագրությունները) { -vendor-short-name }-ին
+    .accesskey = b
+collection-browser-errors-link = Իմանալ ավելին
+collection-backlogged-crash-reports =
+    .label = Թույլատրե՞լ { -brand-short-name }-ին ուղարկել հետին վթարի զեկուցներ առանց հարցնելու:
+    .accesskey = c
 collection-backlogged-crash-reports-link = Իմանալ ավելին
 
 ## Privacy Section - Security
@@ -538,6 +566,7 @@ security-browsing-protection = Խաբուսիկ բովանդակություն �
 security-enable-safe-browsing =
     .label = Արգելափակել վտանգավոր և խաբուսիկ բովանդակությունը
     .accesskey = Ա
+security-enable-safe-browsing-link = Իմանալ ավելին
 security-block-downloads =
     .label = Արգելափակել վտանգավոր ներբեռնումները
     .accesskey = վ
