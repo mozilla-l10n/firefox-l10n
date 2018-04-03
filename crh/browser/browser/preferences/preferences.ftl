@@ -381,19 +381,82 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-header = Keçmiş
+history-dontremember-description = { -brand-short-name } hususiy kezinüvdeki ile aynı tesbitlerni qullanacaq ve siz Ağda kezingende er angi keçmişni hatırlamaycaq.
+history-private-browsing-permanent =
+    .label = Er zaman hususiy kezinüv tarzını qullan
+    .accesskey = h
+history-remember-option =
+    .label = Kezinüv ve endirme keçmişimni hatırla
+    .accesskey = h
+history-remember-search-option =
+    .label = Qıdıruv ve forma keçmişini hatırla
+    .accesskey = f
+history-clear-on-close-option =
+    .label = { -brand-short-name } qapanğanda keçmişni temizle
+    .accesskey = a
+history-clear-on-close-settings =
+    .label = Ayarlar…
+    .accesskey = T
 
 ## Privacy Section - Site Data
 
 sitedata-learn-more = Daa çoq ögren
+sitedata-keep-until = Tutuv müddeti
+    .accesskey = u
+sitedata-accept-third-party-always-option =
+    .label = Er zaman
+sitedata-accept-third-party-visited-option =
+    .label = Ziyaret etilgenlerden
+sitedata-accept-third-party-never-option =
+    .label = Asla
+sitedata-cookies-exceptions =
+    .label = İstisnalar…
+    .accesskey = i
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Adres Çubuğı
+addressbar-suggest = Adres çubuğını qullanğanda, telqin et
+addressbar-locbar-history-option =
+    .label = Kezinüv keçmişi
+    .accesskey = k
+addressbar-locbar-bookmarks-option =
+    .label = Saifeimlerini
+    .accesskey = S
+addressbar-locbar-openpage-option =
+    .label = Açıq ilmeklerni
+    .accesskey = a
+addressbar-suggestions-settings = Qıdırma motorları telqinleri içün tercihlerni deñiştir
 
 ## Privacy Section - Tracking
 
+tracking-header = İzlenme İmayesi
+tracking-description = İzlenme İmayesi, müetaddit sayt arqalı seyran verileriñizni toplağan hat-üstü izcilerni bloklar. <a>İzlenme İmayesi ve hususiyatıñız aqqında daa çoq ögreniñiz.</a>
+tracking-mode-label = Malüm izcilerni bloklamaq içün İzlenme İmayesi'ni qullan.
+tracking-mode-always =
+    .label = Er zaman
+    .accesskey = e
+tracking-mode-private =
+    .label = Faqat hususiy pencerelerde
+    .accesskey = h
+tracking-mode-never =
+    .label = Asla
+    .accesskey = A
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Hususiy Kezinüv'de bilingen izleyicilerni bloklamaq içün İzleme İmayesi'ni qullan
+    .accesskey = H
+tracking-exceptions =
+    .label = İstisnalar…
+    .accesskey = s
+tracking-change-block-list =
+    .label = Blok Listesini Deñiştir…
+    .accesskey = B
 
 ## Privacy Section - Permissions
 
+permissions-header = Ruhsetler
 permissions-location = Qonum
 permissions-location-settings =
     .label = Tesbitler…
@@ -411,6 +474,9 @@ permissions-notification-settings =
     .label = Tesbitler…
     .accesskey = t
 permissions-notification-link = Daa çoq ögren
+permissions-notification-pause =
+    .label = { -brand-short-name } kene başlağance tebliğlerni tınışla
+    .accesskey = t
 permissions-block-popups =
     .label = Peyda pencerelerni blokla
     .accesskey = B
@@ -423,6 +489,10 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = İstisnalar…
     .accesskey = i
+permissions-a11y-privacy-checkbox =
+    .label = İrişilebilirlik hızmetleriniñ keziciñizge irişmesiniñ aldını al
+    .accesskey = i
+permissions-a11y-privacy-link = Daa çoq ögren
 
 ## Privacy Section - Data Collection
 
