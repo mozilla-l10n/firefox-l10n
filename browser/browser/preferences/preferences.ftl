@@ -382,3 +382,74 @@ containers-preferences-button =
     .label = Preferencias
 containers-remove-button =
     .label = Eliminar
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = Excepciones…
+    .accesskey = x
+forms-master-pw-use =
+    .label = Usar una contraseña maestra
+    .accesskey = m
+forms-master-pw-change =
+    .label = Cambiar…
+    .accesskey = m
+
+## Privacy Section - History
+
+history-dontremember-description = { -brand-short-name } usará la misma configuración de la navegación privada, es decir, no guardará ningún historial de tu navegación.
+history-private-browsing-permanent =
+    .label = Siempre usar modo de navegación privada
+    .accesskey = p
+history-remember-search-option =
+    .label = Recordar el historial de búsquedas y formularios
+    .accesskey = f
+history-clear-on-close-option =
+    .label = Borrar el historial al cerrar { -brand-short-name }
+    .accesskey = B
+history-clear-on-close-settings =
+    .label = Configuración…
+    .accesskey = C
+
+## Privacy Section - Site Data
+
+sitedata-accept-third-party-always-option =
+    .label = Siempre
+sitedata-accept-third-party-visited-option =
+    .label = Visitado
+sitedata-accept-third-party-never-option =
+    .label = Nunca
+sitedata-cookies-exceptions =
+    .label = Excepciones…
+    .accesskey = E
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-block-popups =
+    .label = Bloquear ventanas emergentes
+    .accesskey = B
+permissions-addon-exceptions =
+    .label = Excepciones…
+    .accesskey = E
+
+## Privacy Section - Data Collection
+
+collection-health-report-link = Saber más
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
