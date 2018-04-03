@@ -569,7 +569,13 @@ collection-backlogged-crash-reports-link = Zjistit více
 
 security-header = Zabezpečení
 security-browsing-protection = Ochrana před klamavým obsahem a nebezpečným softwarem
+security-enable-safe-browsing =
+    .label = Blokovat nebezpečný a klamavý obsah
+    .accesskey = B
 security-enable-safe-browsing-link = Zjistit více
+security-block-downloads =
+    .label = Blokovat nebezpečná stahování
+    .accesskey = s
 security-block-uncommon-software =
     .label = Upozorňovat na nežádoucí nebo neobvyklý software
     .accesskey = w
