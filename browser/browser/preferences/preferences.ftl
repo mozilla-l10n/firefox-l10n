@@ -423,15 +423,40 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = Pe saveine de ciù
+sitedata-accept-third-party-always-option =
+    .label = de longo
+sitedata-accept-third-party-visited-option =
+    .label = da-i sciti vixitæ
+sitedata-accept-third-party-never-option =
+    .label = mai
 sitedata-cookies-exceptions =
     .label = Eceçioin…
     .accesskey = E
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-bookmarks-option =
+    .label = Segnalibbri
+    .accesskey = b
+addressbar-locbar-openpage-option =
+    .label = feuggi averti
+    .accesskey = g
 
 ## Privacy Section - Tracking
 
+tracking-mode-always =
+    .label = De longo
+    .accesskey = g
+tracking-mode-private =
+    .label = Solo inti barcoin privæ
+    .accesskey = l
+tracking-mode-never =
+    .label = Mai
+    .accesskey = m
+tracking-exceptions =
+    .label = Eceçioin…
+    .accesskey = c
 
 ## Privacy Section - Permissions
 
@@ -451,10 +476,22 @@ collection-health-report-link = Atre informaçioin
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-enable-safe-browsing =
+    .label = Blòcca contegui grammi pericolozi
+    .accesskey = B
+security-block-downloads =
+    .label = Blocca descaregamenti pericolozi
+    .accesskey = D
+security-block-uncommon-software =
+    .label = Avertime in sci programmi indexideræ e no comun
+    .accesskey = C
 
 ## Privacy Section - Certificates
 
 certs-header = Certificati
+certs-select-ask-option =
+    .label = Domandimòu tutte e vòtte
+    .accesskey = D
 certs-enable-ocsp =
     .label = Domanda a-i risponditoî OCSP pe confermâ a validitæ di certificati oua
     .accesskey = o
