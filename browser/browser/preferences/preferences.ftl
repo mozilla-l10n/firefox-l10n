@@ -371,9 +371,20 @@ containers-remove-button =
 forms-exceptions =
     .label = İstisnalar…
     .accesskey = n
+forms-saved-logins =
+    .label = Saxlanmış Daxil olmalar…
+    .accesskey = D
+forms-master-pw-use =
+    .label = Ana parol istifadə et
+    .accesskey = i
+forms-master-pw-change =
+    .label = Ana parolu dəyişdir…
+    .accesskey = d
 
 ## Privacy Section - History
 
+history-header = Tarixçə
+history-dontremember-description = { -brand-short-name } gizli baxışdakı nizamlamalardan istifadə edəcək və siz Web-də gəzərkən keçmişlə bağlı heçnə xatırlamayacaq.
 history-private-browsing-permanent =
     .label = Həmişə gizli baxış rejimindən istifadə et
     .accesskey = g
@@ -383,6 +394,9 @@ history-remember-option =
 history-remember-search-option =
     .label = Axtarış və form keçmişini xatırla
     .accesskey = f
+history-clear-on-close-option =
+    .label = { -brand-short-name } bağlananda tarixçəni sil
+    .accesskey = s
 history-clear-on-close-settings =
     .label = Nizamlar…
     .accesskey = a
@@ -397,15 +411,36 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-bookmarks-option =
+    .label = Əlfəcinlər
+    .accesskey = l
+addressbar-locbar-openpage-option =
+    .label = Açıq vərəqlər
+    .accesskey = A
 
 ## Privacy Section - Tracking
 
+tracking-mode-always =
+    .label = Həmişə
+    .accesskey = H
+tracking-mode-private =
+    .label = Ancaq Məxfi Pəncərələrdə
+    .accesskey = n
+tracking-mode-never =
+    .label = Heç vaxt
+    .accesskey = v
+tracking-exceptions =
+    .label = İstisnalar…
+    .accesskey = a
 
 ## Privacy Section - Permissions
 
 permissions-block-popups =
     .label = Peyda olan pəncərələri blokla
     .accesskey = b
+permissions-addon-exceptions =
+    .label = İstisnalar…
+    .accesskey = s
 
 ## Privacy Section - Data Collection
 
@@ -416,6 +451,13 @@ collection-health-report-link = Ətraflı
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-enable-safe-browsing =
+    .label = Təhlükəli və aldadıcı məzmunu blokla
+    .accesskey = b
+security-block-downloads =
+    .label = Təhlükəli endirmələri blokla
+    .accesskey = d
 
 ## Privacy Section - Certificates
 
+certs-header = Sertifikatlar
