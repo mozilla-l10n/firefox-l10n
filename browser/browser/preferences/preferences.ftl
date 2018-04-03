@@ -29,29 +29,15 @@ feature-enable-requires-restart = { -brand-short-name } e swanetše go thongwa k
 feature-disable-requires-restart = { -brand-short-name } e swanetše go thongwa ka leswa go šitiša sebopego se.
 should-restart-title = Thoma { -brand-short-name } ka leswa
 
+## Preferences UI Search Results
+
+
 ## General Section
 
 startup-header = Thoma
 is-default = { -brand-short-name } gona bjale ke praosara ya gago ya tirelwa
 startup-blank-page =
     .label = Laetša letlakala le se nago selo
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Diriša letlakala la bjale
-           *[other] Diriša matlakala a bjale
-        }
-    .accesskey = l
-choose-bookmark =
-    .label = Diriša pukutshwayo...
-    .accesskey = p
-restore-default =
-    .label = Bušetša go tirelwa
-    .accesskey = B
 tabs-group-header = Dithepe
 show-tabs-in-taskbar =
     .label = Laetša ditebelelopele tša thepo go thasekepaa ya Windows
@@ -125,6 +111,29 @@ network-proxy-connection-settings =
     .label = Dipeakanyo…
     .accesskey = e
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Diriša letlakala la bjale
+           *[other] Diriša matlakala a bjale
+        }
+    .accesskey = l
+choose-bookmark =
+    .label = Diriša pukutshwayo...
+    .accesskey = p
+restore-default =
+    .label = Bušetša go tirelwa
+    .accesskey = B
+
 ## Search Section
 
 search-remove-engine =
@@ -137,3 +146,73 @@ search-keyword-warning-title = Dira kopi ya lentšu la motheo
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = O kgethile lentšu la motheo leo gabjale le dirišwago ke "{ $name }". Hle kgetha le lengwe.
 search-keyword-warning-bookmark = O kgethile lentšu la motheo leo gabjale le dirišwago ke pukutshwayo. Hle kgetha le lengwe.
+
+## Containers Section
+
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = Tše sa akaretšwego…
+    .accesskey = e
+forms-master-pw-use =
+    .label = Diriša lentšuphetišo le legolo
+    .accesskey = D
+forms-master-pw-change =
+    .label = Fetoša lentšuphetišo le legolo…
+    .accesskey = l
+
+## Privacy Section - History
+
+history-dontremember-description = { -brand-short-name } e tla diriša dipeakanyo tše swanago le tša go praosa ga praebete, gomme e ka se gopole histori le ge e le efe ge o dutše o praosa wepe.
+history-private-browsing-permanent =
+    .label = Ka mehla diriša mokgwa wa go praosa wa praebete
+    .accesskey = p
+history-remember-option =
+    .label = Gopola go praosa ga ka le histori ya go laolla
+    .accesskey = o
+history-remember-search-option =
+    .label = Gopola histori ya nyako le foromo
+    .accesskey = f
+history-clear-on-close-option =
+    .label = Tloša histori ge { -brand-short-name } e tswalela
+    .accesskey = o
+history-clear-on-close-settings =
+    .label = Dipeakanyo…
+    .accesskey = e
+
+## Privacy Section - Site Data
+
+sitedata-cookies-exceptions =
+    .label = Tše sa akaretšwego…
+    .accesskey = T
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-block-popups =
+    .label = Thibela mafasetere a runyago
+    .accesskey = T
+permissions-addon-exceptions =
+    .label = Tše sa akaretšwego…
+    .accesskey = T
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
