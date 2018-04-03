@@ -468,6 +468,8 @@ addressbar-suggestions-settings = Cambiar preferencias para sugerencias de busca
 ## Privacy Section - Tracking
 
 tracking-header = Protección de rastreo
+tracking-description = La Protección contra rastreo bloquea los rastreadores de Internet que recolectan sus datos de navegación a lo largo de múltiples sitios web. <a>Conocer más sobre la protección de rastreo y privacidad</a>
+tracking-mode-label = Usar la protección de rastreo para bloquear rastreadores conocidos
 tracking-mode-always =
     .label = Siempre
     .accesskey = S
