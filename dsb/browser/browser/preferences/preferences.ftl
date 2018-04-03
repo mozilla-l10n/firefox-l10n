@@ -409,6 +409,7 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Historija
+history-remember-description = { -brand-short-name } buźo se wašu pśeglědowańsku, ześěgnjeńsku, formularnu a pytańsku historiju spomnjeś.
 history-dontremember-description = { -brand-short-name } buźo te samske nastajenja ako w priwatnem modusu wužywaś a njebuźo se historiju markowaś, gaž Web pśeglědujośo.
 history-private-browsing-permanent =
     .label = Pśecej priwatny modus wužywaś
@@ -425,18 +426,36 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Nastajenja…
     .accesskey = N
+history-clear-button =
+    .label = Historiju lašowaś…
+    .accesskey = i
 
 ## Privacy Section - Site Data
 
+sitedata-header = Cookieje a sedłowe daty
 sitedata-learn-more = Dalšne informacije
+sitedata-accept-cookies-option =
+    .label = Cookieje a sedłowe daty z websedłow akceptěrowaś (dopórucone)
+    .accesskey = C
+sitedata-block-cookies-option =
+    .label = Cookieje a sedłowe daty blokěrowaś (mógło zawinowaś, až websedła njefunkcioněruju)
+    .accesskey = s
 sitedata-keep-until = Wobchowaś
     .accesskey = b
+sitedata-accept-third-party-desc = Cookieje a sedłowe daty tśeśich póbitowarjow akceptěrowaś
+    .accesskey = t
 sitedata-accept-third-party-always-option =
     .label = Pśecej
 sitedata-accept-third-party-visited-option =
     .label = Jano wót woglědanych tśeśich
 sitedata-accept-third-party-never-option =
     .label = Nigda
+sitedata-clear =
+    .label = Daty lašowaś…
+    .accesskey = l
+sitedata-settings =
+    .label = Daty zastojaś…
+    .accesskey = D
 sitedata-cookies-exceptions =
     .label = Wuwześa…
     .accesskey = W
@@ -459,6 +478,8 @@ addressbar-suggestions-settings = Nastajenja za naraźenja pytnice změniś
 ## Privacy Section - Tracking
 
 tracking-header = Slědowański šćit
+tracking-description = Slědowański šćit pśeslědowaki online blokěrujo, kótarež waše pśeglědowańske daty pśez někotare websedła gromaźe. <a>Zgóńśo wěcej wó slědowańskem šćiśe a swójej priwatnosći</a>
+tracking-mode-label = Slědowański šćit wužywaś, aby blokěrował znate pśeslědowaki
 tracking-mode-always =
     .label = Pśecej
     .accesskey = c
@@ -483,10 +504,25 @@ tracking-change-block-list =
 
 permissions-header = Pšawa
 permissions-location = Městno
+permissions-location-settings =
+    .label = Nastajenja…
+    .accesskey = t
 permissions-camera = Kamera
+permissions-camera-settings =
+    .label = Nastajenja…
+    .accesskey = t
 permissions-microphone = Mikrofon
+permissions-microphone-settings =
+    .label = Nastajenja…
+    .accesskey = t
 permissions-notification = Powěźeńki
+permissions-notification-settings =
+    .label = Nastajenja…
+    .accesskey = t
 permissions-notification-link = Dalšne informacije
+permissions-notification-pause =
+    .label = Z powěźeńkami pśestaś, daniž se { -brand-short-name } znowego njestartujo
+    .accesskey = z
 permissions-block-popups =
     .label = Wuskokujuce wokno blokěrowaś
     .accesskey = k
@@ -499,16 +535,30 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Wuwześa…
     .accesskey = W
+permissions-a11y-privacy-checkbox =
+    .label = Słužbam pśistupnosći pśistup na waš wobglědowak zawoboraś
+    .accesskey = t
+permissions-a11y-privacy-link = Dalšne informacije
 
 ## Privacy Section - Data Collection
 
 collection-header = Gromaźenje a wužywanje datow { -brand-short-name }
 collection-description = Comy was z wuběrkami wobstaraś a janož to zběraś, což musymy póbitowaś, aby my { -brand-short-name } za kuždego pólěpšili. Pšosymy pśecej wó dowólnosć, nježli až wósobinske daty dostanjomy.
 collection-privacy-notice = Powěźeńka priwatnosći
+collection-health-report =
+    .label = { -brand-short-name } zmóžniś, techniske a interakciske daty na { -vendor-short-name } pósłaś
+    .accesskey = t
 collection-health-report-link = Dalšne informacije
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Datowe rozpšawjenje jo znjemóžnjone za toś tu programowu konfiguraciju
+collection-browser-errors =
+    .label = { -brand-short-name } dowóliś, { -vendor-short-name } zmólkowe rozpšawy (inkluziwnje zmólkowe powěźeńki) pósłaś
+    .accesskey = z
+collection-browser-errors-link = Dalšne informacije
+collection-backlogged-crash-reports =
+    .label = { -brand-short-name } dowóliś, njewobźěłane wowaleńske rozpšawy we wašom mjenju pósłaś
+    .accesskey = r
 collection-backlogged-crash-reports-link = Dalšne informacije
 
 ## Privacy Section - Security
@@ -517,9 +567,11 @@ collection-backlogged-crash-reports-link = Dalšne informacije
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Wěstota
+security-browsing-protection = Šćit pśed wobšudnym wopśimjeśim a tšašneju softwaru
 security-enable-safe-browsing =
     .label = Tšašne a wobšudnikojske wopśimjeśe blokěrowaś
     .accesskey = T
+security-enable-safe-browsing-link = Dalšne informacije
 security-block-downloads =
     .label = Tšašne ześěgnjenja blokěrowaś
     .accesskey = z
