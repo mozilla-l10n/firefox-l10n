@@ -405,6 +405,7 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Előzmények
+history-remember-description = A { -brand-short-name } emlékezni fog a böngészési, letöltési, űrlap és keresési előzményekre.
 history-dontremember-description = A { -brand-short-name } ugyanazokat a beállításokat fogja használni, mint a privát böngészés, és nem fogja megjegyezni az internethasználat előzményeit.
 history-private-browsing-permanent =
     .label = Mindig a privát böngészési módot használja
@@ -421,18 +422,36 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Beállítások…
     .accesskey = B
+history-clear-button =
+    .label = Előzmények törlése…
+    .accesskey = l
 
 ## Privacy Section - Site Data
 
+sitedata-header = Sütik és oldaladatok
 sitedata-learn-more = További tudnivalók
+sitedata-accept-cookies-option =
+    .label = Sütik és oldaladatok elfogadása a webhelyektől (ajánlott)
+    .accesskey = e
+sitedata-block-cookies-option =
+    .label = Sütik és oldaladatok blokkolása (a weboldalak hibáját okozhatja)
+    .accesskey = b
 sitedata-keep-until = Sütik megtartása
     .accesskey = m
+sitedata-accept-third-party-desc = Harmadik féltől származó sütik és oldaladatok elfogadása
+    .accesskey = f
 sitedata-accept-third-party-always-option =
     .label = Mindig
 sitedata-accept-third-party-visited-option =
     .label = Meglátogatottól
 sitedata-accept-third-party-never-option =
     .label = Soha
+sitedata-clear =
+    .label = Adatok törlése…
+    .accesskey = t
+sitedata-settings =
+    .label = Adatok kezelése…
+    .accesskey = A
 sitedata-cookies-exceptions =
     .label = Kivételek…
     .accesskey = K
@@ -455,6 +474,8 @@ addressbar-suggestions-settings = Keresőszolgáltatás-javaslatok beállítása
 ## Privacy Section - Tracking
 
 tracking-header = Követés elleni védelem
+tracking-description = A követés elleni védelem blokkolja az online nyomkövetőket, melyek a webhelyek közti böngészési adatait gyűjtik. <a>Tudjon meg többet a követés elleni védelemről és az adatvédelemről</a>
+tracking-mode-label = Követés elleni védelem használata az ismert követők blokkolására
 tracking-mode-always =
     .label = Mindig
     .accesskey = d
@@ -479,10 +500,25 @@ tracking-change-block-list =
 
 permissions-header = Engedélyek
 permissions-location = Hely
+permissions-location-settings =
+    .label = Beállítások…
+    .accesskey = H
 permissions-camera = Kamera
+permissions-camera-settings =
+    .label = Beállítások…
+    .accesskey = K
 permissions-microphone = Mikrofon
+permissions-microphone-settings =
+    .label = Beállítások…
+    .accesskey = m
 permissions-notification = Értesítések
+permissions-notification-settings =
+    .label = Beállítások…
+    .accesskey = e
 permissions-notification-link = További tudnivalók
+permissions-notification-pause =
+    .label = Értesítések kikapcsolása a { -brand-short-name } újraindulásáig
+    .accesskey = e
 permissions-block-popups =
     .label = Felugró ablakok tiltása
     .accesskey = F
@@ -495,13 +531,30 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Kivételek…
     .accesskey = K
+permissions-a11y-privacy-checkbox =
+    .label = Az akadálymentesítési szolgáltatások ne férjenek hozzá a böngészőhöz
+    .accesskey = a
+permissions-a11y-privacy-link = További tudnivalók
 
 ## Privacy Section - Data Collection
 
+collection-header = { -brand-short-name } adatgyűjtés és felhasználás
+collection-description = Arra törekszünk, hogy választást biztosítsunk, és csak azt gyűjtsük, amire szükségünk a van a { -brand-short-name } fejlesztéséhez, mindenki számára. Mindig engedélyt kérünk, mielőtt személyes információkat fogadunk.
+collection-privacy-notice = Adatvédelmi nyilatkozat
+collection-health-report =
+    .label = Engedélyezés, hogy a { -brand-short-name } műszaki és interakciós adatokat küldjön a Mozillának
+    .accesskey = E
 collection-health-report-link = További tudnivalók
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Az adatjelentést letiltották ehhez a binárishoz
+collection-browser-errors =
+    .label = Engedélyezi a { -brand-short-name } számára, hogy böngésző hibajelentéseket (köztük hibaüzeneteket) küldjön a { -vendor-short-name } számára
+    .accesskey = b
+collection-browser-errors-link = További tudnivalók
+collection-backlogged-crash-reports =
+    .label = A { -brand-short-name } a háttérben küldhet összeomlási jelentéseket az Ön nevében
+    .accesskey = j
 collection-backlogged-crash-reports-link = További tudnivalók
 
 ## Privacy Section - Security
@@ -510,9 +563,11 @@ collection-backlogged-crash-reports-link = További tudnivalók
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Biztonság
+security-browsing-protection = Félrevezető tartalom és veszélyes szoftver elleni védelem
 security-enable-safe-browsing =
     .label = Veszélyes és félrevezető tartalom blokkolása
     .accesskey = V
+security-enable-safe-browsing-link = További tudnivalók
 security-block-downloads =
     .label = Veszélyes letöltések blokkolása
     .accesskey = b
@@ -533,3 +588,9 @@ certs-select-ask-option =
 certs-enable-ocsp =
     .label = Az OCSP válaszoló kiszolgálók lekérdezése a tanúsítványok érvényességének megerősítéséhez
     .accesskey = C
+certs-view =
+    .label = Tanúsítványok megtekintése…
+    .accesskey = T
+certs-devices =
+    .label = Adatvédelmi eszközök…
+    .accesskey = e
