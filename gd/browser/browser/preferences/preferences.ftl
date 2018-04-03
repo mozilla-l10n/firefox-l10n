@@ -369,12 +369,20 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = Prìobhaideachd a’ bhrabhsair
 
 ## Privacy Section - Forms
 
+forms-header = Foirmean ⁊ faclan-faire
+forms-remember-logins =
+    .label = Cuimhnich dàta clàradh a-steach is faclan-faire nan làraichean-lìn
+    .accesskey = r
 forms-exceptions =
     .label = Eisgeachdan…
     .accesskey = E
+forms-saved-logins =
+    .label = Clàraidhean a-steach sàbhailte…
+    .accesskey = l
 forms-master-pw-use =
     .label = Cleachd prìomh fhacal-faire
     .accesskey = m
@@ -384,6 +392,7 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-header = Eachdraidh
 history-dontremember-description = Cleachdaidh { -brand-short-name } na dearbh roghainnean 's a tha agad ann an brabhsadh prìobhaideach agus cha chuimhnich e eachdraidh sam bith 's tu a' brabhsadh an lìn.
 history-private-browsing-permanent =
     .label = Dèan brabhsadh prìobhaideach an-còmhnaidh
@@ -403,6 +412,9 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = Barrachd fiosrachaidh
+sitedata-accept-third-party-always-option =
+    .label = An-còmhnaidh
 sitedata-accept-third-party-visited-option =
     .label = O fheadhainn air an deach tadhal
 sitedata-accept-third-party-never-option =
@@ -413,28 +425,102 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Bàr an t-seòlaidh
+addressbar-suggest = Nuair a chleachdas mi bàr an t-seòlaidh, mol dhomh
+addressbar-locbar-history-option =
+    .label = Eachdraidh brabhsaidh
+    .accesskey = h
+addressbar-locbar-bookmarks-option =
+    .label = Comharran-lìn
+    .accesskey = o
+addressbar-locbar-openpage-option =
+    .label = Tabaichean fosgailte
+    .accesskey = o
+addressbar-suggestions-settings = Atharraich na roghainnean a thaobh mholaidhean o einnseanan-luirg
 
 ## Privacy Section - Tracking
 
+tracking-header = Dìon o thracadh
+tracking-mode-always =
+    .label = An-còmhnaidh
+    .accesskey = n
+tracking-mode-private =
+    .label = Ann an uinneagan prìobhaideach a-mhàin
+    .accesskey = p
+tracking-mode-never =
+    .label = Chan ann idir
+    .accesskey = N
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Cleachd dìon o thracadh sa bhrabhsadh phrìobhaideach airson casg a chur air tracaichean aithnichte
+    .accesskey = p
+tracking-exceptions =
+    .label = Eisgeachdan…
+    .accesskey = E
+tracking-change-block-list =
+    .label = Atharrai&ch an liosta bacaidh...
+    .accesskey = c
 
 ## Privacy Section - Permissions
 
+permissions-header = Ceadan
+permissions-notification = Brathan
 permissions-block-popups =
     .label = Cuir bacadh air priob-uinneagan
     .accesskey = b
+permissions-block-popups-exceptions =
+    .label = Eisgeachdan…
+    .accesskey = g
+permissions-addon-install-warning =
+    .label = Thoir rabhadh nuair a dh’fheuchas làraichean-lìn ri tuilleadan a stàladh
+    .accesskey = T
 permissions-addon-exceptions =
     .label = Eisgeachdan…
     .accesskey = E
 
 ## Privacy Section - Data Collection
 
+collection-header = Cruinneachadh is cleachdadh dàta le { -brand-short-name }
+collection-description = Tha sinn ag obair gu cruaidh airson an dà chuid roghainnean a thoirt dhut agus dìreach an dàta a chruinneachadh a dh’fheumas sinn airson { -brand-short-name } a sholar dhan a h-uile duine agus airson a leasachadh. Iarraidh sinn cead ort uair sam bith ma bhios feum air dàta pearsanta.
+collection-privacy-notice = Sanas prìobhaideachd
+collection-health-report-link = Barrachd fiosrachaidh
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Tha aithriseadh dàta à comas airson rèiteachadh a’ bhuild seo
+collection-backlogged-crash-reports-link = Barrachd fiosrachaidh
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Tèarainteachd
+security-enable-safe-browsing =
+    .label = Bac susbaint chunnartach is susbaint foill
+    .accesskey = B
+security-block-downloads =
+    .label = Bac luchdaidhean a-nuas cunnartach
+    .accesskey = d
+security-block-uncommon-software =
+    .label = Thoir rabhadh mu bhathar-bhog gun iarraidh is bathar-bog neo-chumanta
+    .accesskey = c
 
 ## Privacy Section - Certificates
 
 certs-header = Teisteanasan
+certs-personal-label = Nuair a dh’iarras frithealaiche an teisteanas pearsanta agad
+certs-select-auto-option =
+    .label = Taghar fear leis fhèin
+    .accesskey = S
+certs-select-ask-option =
+    .label = Faighnich dhìot gach turas
+    .accesskey = A
+certs-enable-ocsp =
+    .label = Cuir iarrtas gu frithealaichean OCSP Responder gus dligheachd nan teisteanasan làithreach a dhearbhadh
+    .accesskey = C
+certs-view =
+    .label = Seall na teisteanasan...
+    .accesskey = S
+certs-devices =
+    .label = Uidheaman tèarainteachd...
+    .accesskey = n
