@@ -409,6 +409,7 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Historikk
+history-remember-description = { -brand-short-name } vil lagre informasjon om besøkte nettsider, skjema- og søkjehistorikk.
 history-dontremember-description = { -brand-short-name } vil bruke dei same innstillingane som privat nettlesing og vil ikkje hugse historikk medan du brukar nettet.
 history-private-browsing-permanent =
     .label = Alltid bruke privat nettlesing-modus
@@ -488,6 +489,10 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Aldri
     .accesskey = A
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Bruk sporingsvern i Privat nettlesing for å blokkere kjende sporfølgjarar
+    .accesskey = v
 tracking-exceptions =
     .label = Unntak…
     .accesskey = U
