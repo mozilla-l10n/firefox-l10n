@@ -374,6 +374,13 @@ forms-master-pw-use =
 ## Privacy Section - History
 
 history-header = Historik
+history-dontremember-description = { -brand-short-name } vil bruge de samme indstillinger som privat browsing, og vil ikke gemme nogen historik, mens du surfer på nettet.
+history-private-browsing-permanent =
+    .label = Brug altid privat browsing-tilstand
+    .accesskey = P
+history-remember-option =
+    .label = Husk min browser- og filhentningshistorik
+    .accesskey = b
 history-remember-search-option =
     .label = Husk formular- og søgehistorik
     .accesskey = f
@@ -386,6 +393,12 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-always-option =
+    .label = Altid
+sitedata-accept-third-party-visited-option =
+    .label = Fra besøgte
+sitedata-accept-third-party-never-option =
+    .label = Aldrig
 sitedata-cookies-exceptions =
     .label = Undtagelser…
     .accesskey = U
