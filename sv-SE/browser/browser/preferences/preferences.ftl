@@ -381,9 +381,11 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = Webbläsarintegritet
 
 ## Privacy Section - Forms
 
+forms-header = Formulär & lösenord
 forms-exceptions =
     .label = Undantag…
     .accesskey = d
@@ -400,6 +402,7 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Historik
+history-remember-description = { -brand-short-name } kommer att spara information om besökta webbsidor, filhämtningar, formulär- och sökhistorik.
 history-dontremember-description = { -brand-short-name } kommer att använda samma inställningar som för privat surfning och kommer inte att spara någon historik när du surfar.
 history-private-browsing-permanent =
     .label = Använd alltid läget privat surfning
@@ -416,30 +419,60 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Inställningar…
     .accesskey = n
+history-clear-button =
+    .label = Rensa historik…
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
+sitedata-header = Kakor och webbplatsdata
+sitedata-learn-more = Läs mer
+sitedata-accept-cookies-option =
+    .label = Tillåt kakor och webbplatsdata från webbplatser (rekommenderas)
+    .accesskey = T
+sitedata-block-cookies-option =
+    .label = Blockera kakor och webbplatsdata (kan orsaka fel på webbplatser)
+    .accesskey = B
+sitedata-keep-until = Behåll tills
+    .accesskey = t
+sitedata-accept-third-party-desc = Tillåt kakor från tredje part och webbplatsdata
+    .accesskey = p
 sitedata-accept-third-party-always-option =
     .label = alltid
 sitedata-accept-third-party-visited-option =
     .label = från platser jag besökt
 sitedata-accept-third-party-never-option =
     .label = aldrig
+sitedata-clear =
+    .label = Rensa data…
+    .accesskey = R
+sitedata-settings =
+    .label = Hantera data…
+    .accesskey = H
 sitedata-cookies-exceptions =
     .label = Undantag…
     .accesskey = U
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Adressfält
+addressbar-suggest = När du använder adressfältet, föreslå
+addressbar-locbar-history-option =
+    .label = Webbläsarhistorik
+    .accesskey = W
 addressbar-locbar-bookmarks-option =
     .label = Bokmärken
     .accesskey = k
 addressbar-locbar-openpage-option =
     .label = Öppna flikar
     .accesskey = Ö
+addressbar-suggestions-settings = Ändra inställningar för förslag från sökmotorn
 
 ## Privacy Section - Tracking
 
+tracking-header = Spårningsskydd
+tracking-description = Spårningsskydd blockerar online-trackers som samlar in dina surfdata över flera webbplatser. <a>Läs mer om spårningsskydd och din integritet</a>
+tracking-mode-label = Använd spårningsskydd för att blockera kända trackers
 tracking-mode-always =
     .label = Alltid
     .accesskey = i
@@ -449,38 +482,106 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Aldrig
     .accesskey = A
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Använd spårningsskydd i Privat surfning för att blockera kända trackers
+    .accesskey = v
 tracking-exceptions =
     .label = Undantag…
+    .accesskey = n
+tracking-change-block-list =
+    .label = Ändra blockeringslista…
     .accesskey = n
 
 ## Privacy Section - Permissions
 
+permissions-header = Rättigheter
+permissions-location = Plats
+permissions-location-settings =
+    .label = Inställningar…
+    .accesskey = t
+permissions-camera = Kamera
+permissions-camera-settings =
+    .label = Inställningar…
+    .accesskey = t
+permissions-microphone = Mikrofon
+permissions-microphone-settings =
+    .label = Inställningar…
+    .accesskey = t
+permissions-notification = Aviseringar
+permissions-notification-settings =
+    .label = Inställningar…
+    .accesskey = t
+permissions-notification-link = Läs mer
+permissions-notification-pause =
+    .label = Pausa aviseringar tills { -brand-short-name } startar om
+    .accesskey = v
 permissions-block-popups =
     .label = Blockera popup-fönster
     .accesskey = B
+permissions-block-popups-exceptions =
+    .label = Undantag…
+    .accesskey = U
 permissions-addon-exceptions =
     .label = Undantag…
     .accesskey = U
+permissions-a11y-privacy-checkbox =
+    .label = Förhindra åtkomsttjänster från att komma åt din webbläsare
+    .accesskey = t
+permissions-a11y-privacy-link = Läs mer
 
 ## Privacy Section - Data Collection
 
+collection-header = Datainsamling och användning för { -brand-short-name }
+collection-description = Vi strävar alltid efter att ge dig val och samlar endast in vad vi behöver för tillhandahålla och förbättra { -brand-short-name } för alla. Vi ber alltid om tillåtelse innan vi tar emot personliga uppgifter.
+collection-privacy-notice = Sekretesspolicy
 collection-health-report-link = Läs mer
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Datarapportering är inaktiverad för den här byggkonfigurationen
+collection-browser-errors =
+    .label = Tillåt { -brand-short-name } att skicka felrapporter (inklusive felmeddelanden) till { -vendor-short-name }
+    .accesskey = f
+collection-browser-errors-link = Läs mer
+collection-backlogged-crash-reports =
+    .label = Tillåt { -brand-short-name } att skicka eftersläpande kraschrapporter för din räkning
+    .accesskey = c
+collection-backlogged-crash-reports-link = Läs mer
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Säkerhet
+security-browsing-protection = Skydd mot vilseledande och skadlig programvara
 security-enable-safe-browsing =
     .label = Blockera farligt och vilseledande innehåll
     .accesskey = B
+security-enable-safe-browsing-link = Läs mer
 security-block-downloads =
     .label = Blockera farliga hämtningar
     .accesskey = f
+security-block-uncommon-software =
+    .label = Varna mig om oönskad och ovanlig mjukvara
+    .accesskey = m
 
 ## Privacy Section - Certificates
 
 certs-header = Certifikat
+certs-personal-label = När en server begär ditt personliga certifikat
+certs-select-auto-option =
+    .label = Välj ett automatiskt
+    .accesskey = V
+certs-select-ask-option =
+    .label = Fråga mig varje gång
+    .accesskey = F
 certs-enable-ocsp =
     .label = Fråga OCSP responder-servrar för att bekräfta certifikatens aktuella giltighet
     .accesskey = F
+certs-view =
+    .label = Visa certifikat…
+    .accesskey = c
+certs-devices =
+    .label = Säkerhetsenheter…
+    .accesskey = e
