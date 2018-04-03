@@ -409,6 +409,7 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = History
+history-remember-description = { -brand-short-name } will remember your browsing, download, form and search history.
 history-dontremember-description = { -brand-short-name } will use the same settings as private browsing, and will not remember any history as you browse the Web.
 history-private-browsing-permanent =
     .label = Always use private browsing mode
@@ -425,18 +426,36 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Settings…
     .accesskey = t
+history-clear-button =
+    .label = Clear History…
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
+sitedata-header = Cookies and Site Data
 sitedata-learn-more = Learn more
+sitedata-accept-cookies-option =
+    .label = Accept cookies and site data from web sites (recommended)
+    .accesskey = A
+sitedata-block-cookies-option =
+    .label = Block cookies and site data (may cause web sites to break)
+    .accesskey = B
 sitedata-keep-until = Keep until
     .accesskey = u
+sitedata-accept-third-party-desc = Accept third-party cookies and site data
+    .accesskey = y
 sitedata-accept-third-party-always-option =
     .label = Always
 sitedata-accept-third-party-visited-option =
     .label = From visited
 sitedata-accept-third-party-never-option =
     .label = Never
+sitedata-clear =
+    .label = Clear Data…
+    .accesskey = l
+sitedata-settings =
+    .label = Manage Data…
+    .accesskey = M
 sitedata-cookies-exceptions =
     .label = Exceptions…
     .accesskey = E
@@ -459,6 +478,8 @@ addressbar-suggestions-settings = Change preferences for search engine suggestio
 ## Privacy Section - Tracking
 
 tracking-header = Tracking Protection
+tracking-description = Tracking Protection blocks online trackers that collect your browsing data across multiple web sites. <a>Learn more about Tracking Protection and your privacy</a>
+tracking-mode-label = Use Tracking Protection to block known trackers
 tracking-mode-always =
     .label = Always
     .accesskey = y
@@ -499,6 +520,9 @@ permissions-notification-settings =
     .label = Settings…
     .accesskey = t
 permissions-notification-link = Learn more
+permissions-notification-pause =
+    .label = Pause notifications until { -brand-short-name } restarts
+    .accesskey = n
 permissions-block-popups =
     .label = Block pop-up windows
     .accesskey = B
@@ -528,6 +552,13 @@ collection-health-report-link = Learn More
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Data reporting is disabled for this build configuration
+collection-browser-errors =
+    .label = Allow { -brand-short-name } to send browser error reports (including error messages) to { -vendor-short-name }
+    .accesskey = b
+collection-browser-errors-link = Learn more
+collection-backlogged-crash-reports =
+    .label = Allow { -brand-short-name } to send backlogged crash reports on your behalf
+    .accesskey = c
 collection-backlogged-crash-reports-link = Learn more
 
 ## Privacy Section - Security
