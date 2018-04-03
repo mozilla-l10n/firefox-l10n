@@ -170,6 +170,9 @@ history-dontremember-description = I-{ -brand-short-name } izosebenzisa izimiso 
 history-private-browsing-permanent =
     .label = Sebenzisa njalo indlela yangasese yokudlulisa amehlo
     .accesskey = n
+history-remember-option =
+    .label = Khumbula umlando wami wokupheqa nokulanda
+    .accesskey = b
 history-remember-search-option =
     .label = Khumbula ukusesha nohlobo lomlando
     .accesskey = n
@@ -182,6 +185,10 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-visited-option =
+    .label = Kusuka kokuvakashelwe
+sitedata-accept-third-party-never-option =
+    .label = Ungalokothi
 sitedata-cookies-exceptions =
     .label = Okuhlukile…
     .accesskey = O
@@ -212,3 +219,4 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Certificates
 
+certs-header = Izitifiketi
