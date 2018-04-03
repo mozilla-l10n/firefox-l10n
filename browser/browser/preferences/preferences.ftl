@@ -427,6 +427,8 @@ history-clear-on-close-settings =
 ## Privacy Section - Site Data
 
 sitedata-learn-more = Докладніше
+sitedata-keep-until = Зберігати доки
+    .accesskey = г
 sitedata-accept-third-party-always-option =
     .label = Завжди
 sitedata-accept-third-party-visited-option =
@@ -514,6 +516,9 @@ permissions-a11y-privacy-link = Докладніше
 collection-header = Збір та використання даних { -brand-short-name }
 collection-description = Ми прагнемо надати вам вибір і збирати лише те, що нам потрібно для випуску та вдосконалення { -brand-short-name } для кожного. Ми завжди питаємо про дозвіл перед отриманням особистої інформації.
 collection-privacy-notice = Повідомлення про приватність
+collection-health-report =
+    .label = Дозволити { -brand-short-name } надсилати технічні та користувацькі дані в { -vendor-short-name }
+    .accesskey = к
 collection-health-report-link = Докладніше
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
