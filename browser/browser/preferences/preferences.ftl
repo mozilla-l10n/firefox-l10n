@@ -385,6 +385,8 @@ forms-master-pw-use =
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-always-option =
+    .label = เสมอ
 
 ## Privacy Section - Address Bar
 
