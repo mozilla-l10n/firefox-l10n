@@ -389,6 +389,7 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = Tìm hiểu thêm
 sitedata-accept-third-party-always-option =
     .label = Luôn luôn
 sitedata-accept-third-party-visited-option =
@@ -401,15 +402,22 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-history-option =
+    .label = Lịch sử duyệt web
+    .accesskey = H
 addressbar-locbar-bookmarks-option =
     .label = Trang đánh dấu
     .accesskey = d
 addressbar-locbar-openpage-option =
     .label = Thẻ đang mở
     .accesskey = T
+addressbar-suggestions-settings = Thay đổi tùy chỉnh phần gợi ý của công cụ tìm kiếm
 
 ## Privacy Section - Tracking
 
+tracking-header = Trình chống theo dõi
+tracking-description = Trình chống theo dõi chặn các trình theo dõi trực tuyến thu thập dữ liệu duyệt web của bạn trên nhiều trang web. <a>Tìm hiểu thêm về trình chống theo dõi và chính sách riêng tư của bạn</a>
+tracking-mode-label = Sử dụng trình chống theo dõi để chặn các trình theo dõi đã được nhận biết
 tracking-mode-always =
     .label = Luôn luôn
     .accesskey = n
@@ -422,6 +430,9 @@ tracking-mode-never =
 tracking-exceptions =
     .label = Ngoại lệ…
     .accesskey = g
+tracking-change-block-list =
+    .label = Thay đổi danh sách chặn…
+    .accesskey = C
 
 ## Privacy Section - Permissions
 
@@ -431,10 +442,24 @@ permissions-block-popups =
 permissions-addon-exceptions =
     .label = Ngoại trừ…
     .accesskey = N
+permissions-a11y-privacy-link = Tìm hiểu thêm
 
 ## Privacy Section - Data Collection
 
+collection-header = Thu thập và sử dụng dữ liệu { -brand-short-name }
+collection-description = Chúng tôi cố gắng cung cấp cho bạn sự lựa chọn và chỉ thu thập những gì chúng tôi cần để cung cấp và cải thiện { -brand-short-name } cho tất cả mọi người. Chúng tôi luôn xin phép trước khi thu thập thông tin cá nhân.
+collection-privacy-notice = Chính sách riêng tư
+collection-health-report =
+    .label = Cho phép { -brand-short-name } gửi dữ liệu kỹ thuật và tương tác tới { -vendor-short-name }
+    .accesskey = r
 collection-health-report-link = Tìm hiểu thêm
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Dữ liệu báo cáo bị vô hiệu hóa với cấu hình này
+collection-browser-errors =
+    .label = Cho phép { -brand-short-name } gửi báo cáo lỗi trình duyệt (bao gồm thông báo lỗi) cho { -vendor-short-name }
+    .accesskey = b
+collection-backlogged-crash-reports-link = Tìm hiểu thêm
 
 ## Privacy Section - Security
 ##
@@ -444,6 +469,7 @@ collection-health-report-link = Tìm hiểu thêm
 security-enable-safe-browsing =
     .label = Chặn nội dung lừa đảo và không an toàn
     .accesskey = C
+security-enable-safe-browsing-link = Tìm hiểu thêm
 security-block-downloads =
     .label = Chặn tải xuống không an toàn
     .accesskey = k
@@ -451,6 +477,19 @@ security-block-downloads =
 ## Privacy Section - Certificates
 
 certs-header = Chứng thư
+certs-personal-label = Khi một máy chủ yêu cầu chứng thực cá nhân của bạn
+certs-select-auto-option =
+    .label = Tự động chọn một cái
+    .accesskey = S
+certs-select-ask-option =
+    .label = Luôn hỏi bạn
+    .accesskey = A
 certs-enable-ocsp =
     .label = Truy vấn máy chủ đáp ứng giao thức OCSP để xác minh hiệu lực của các chứng thư
     .accesskey = T
+certs-view =
+    .label = Xem chứng chỉ…
+    .accesskey = C
+certs-devices =
+    .label = Thiết bị bảo mật…
+    .accesskey = D
