@@ -432,6 +432,8 @@ addressbar-suggestions-settings = تغییر ترجیحات مربوط به پی
 ## Privacy Section - Tracking
 
 tracking-header = محافظت در برابر ردگیری
+tracking-description = محافظت از ردیابی دنبال کنندگان انلاینی را که اطلاعات مرورکردن شما را از چند وب سایت مختلف دریافت می کردند مسدود کرده است. <a>در مورد محافظت از ردیابی و حریم شخصی خود بیشتر بدانید</a>
+tracking-mode-label = استفاده از محافظ ردیابی برای مسدود کردند دنبال کنندگان ناشناس
 tracking-mode-always =
     .label = همیشه
     .accesskey = م
@@ -460,6 +462,9 @@ permissions-camera = دوربین
 permissions-microphone = میکروفن
 permissions-notification = اعلان‌ها
 permissions-notification-link = بیشتر بدانید
+permissions-notification-pause =
+    .label = توقف هوشدار تا زمانی که { -brand-short-name } مجدد راه اندازی شود
+    .accesskey = n
 permissions-block-popups =
     .label = مسدود کردن پنجره‌های بازشو
     .accesskey = م
@@ -472,11 +477,18 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = استثناها…
     .accesskey = ت
+permissions-a11y-privacy-checkbox =
+    .label = جلوگیری از دسترسی به سرویس‌ها از طریق مرورگر شما
+    .accesskey = a
+permissions-a11y-privacy-link = بیشتر بدانید
 
 ## Privacy Section - Data Collection
 
 collection-header = ذخیره اطلاعات و استفاده { -brand-short-name }
 collection-privacy-notice = نکات حفظ حریم خصوصی
+collection-health-report =
+    .label = { -brand-short-name } اجازه دهید تا اطلاعات موارد فنی وفعال و انفعالات رابرای موزیلا ارسال کند
+    .accesskey = r
 collection-health-report-link = بیشتر بدانید
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
@@ -489,9 +501,11 @@ collection-backlogged-crash-reports-link = بیشتر بدانید
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = امنیت
+security-browsing-protection = محافظت در مقابل نرم‌افزارهای خطرناک و محتوا فریبنده
 security-enable-safe-browsing =
     .label = مسدود سازی محتوا‌های خطرناک و فریبنده
     .accesskey = م
+security-enable-safe-browsing-link = بیشتر بدانید
 security-block-downloads =
     .label = مسدود سازی دریافت های خطرناک
     .accesskey = خ
