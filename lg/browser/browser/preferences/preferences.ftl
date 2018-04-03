@@ -156,6 +156,9 @@ search-keyword-warning-bookmark = Olonze ekigambo ekikulu ekiri mu kukozesebwa a
 forms-exceptions =
     .label = Okujjako…
     .accesskey = k
+forms-master-pw-use =
+    .label = Kozesa ekisumuluzo ekifuga byonna
+    .accesskey = m
 forms-master-pw-change =
     .label = Kyuusa Ekisumuluzo Ekifuga byonna…
     .accesskey = E
@@ -163,6 +166,9 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-dontremember-description = { -brand-short-name } ejja kkozesa entegekka yemu nga enoonyereza eyo bwa nnannyini, era tejja kujjukira byafaayo nga bwo obiwamanta ku Mutimbangano.
+history-private-browsing-permanent =
+    .label = Kozesanga okunonya okutongozeddwa ebiseera byoona
+    .accesskey = u
 history-remember-option =
     .label = Jjukira ebifudeyo mu kunoonya no okutikula kwange{ " " }
     .accesskey = u
@@ -178,6 +184,9 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-cookies-exceptions =
+    .label = Okujjako…
+    .accesskey = j
 
 ## Privacy Section - Address Bar
 
@@ -190,6 +199,9 @@ history-clear-on-close-settings =
 permissions-block-popups =
     .label = Zibikira ebyereeta byokka mu ddirisa
     .accesskey = Z
+permissions-addon-exceptions =
+    .label = Okujjako…
+    .accesskey = j
 
 ## Privacy Section - Data Collection
 
