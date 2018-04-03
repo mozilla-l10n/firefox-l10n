@@ -366,13 +366,32 @@ containers-remove-button =
 
 ## Privacy Section - Forms
 
+forms-exceptions =
+    .label = Izņēmumi...
+    .accesskey = z
+forms-saved-logins =
+    .label = Saglabātās paroles…
+    .accesskey = l
+forms-master-pw-use =
+    .label = Izmantot galveno paroli
+    .accesskey = m
+forms-master-pw-change =
+    .label = Nomainīt galveno paroli...
+    .accesskey = m
 
 ## Privacy Section - History
 
+history-header = Vēsture
 history-dontremember-description = { -brand-short-name } izmantos tādus pat iestatījumus kā privātās pārlūkošanas režīmā un pārlūkojot internetu nesaglabās vēsturi.
 history-private-browsing-permanent =
     .label = Vienmēr izmantot privātās pārlūkošanas režīmu
     .accesskey = z
+history-remember-option =
+    .label = Atcerēties manu pārlūkošanas un lejupielāžu vēsturi
+    .accesskey = c
+history-remember-search-option =
+    .label = Atcerēties meklēšanas un formu vēsturi
+    .accesskey = v
 history-clear-on-close-option =
     .label = Dzēst aizverot { -brand-short-name }
     .accesskey = D
@@ -388,24 +407,58 @@ sitedata-accept-third-party-visited-option =
     .label = Tikai no lapām, kuras esmu apmeklējis
 sitedata-accept-third-party-never-option =
     .label = Nekad
+sitedata-cookies-exceptions =
+    .label = Izņēmumi…
+    .accesskey = I
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-bookmarks-option =
+    .label = Grāmatzīmes
+    .accesskey = m
+addressbar-locbar-openpage-option =
+    .label = Atvērtās cilnes
+    .accesskey = t
 
 ## Privacy Section - Tracking
 
+tracking-mode-always =
+    .label = Vienmēr
+    .accesskey = m
+tracking-mode-private =
+    .label = Tikai privātajos logos
+    .accesskey = l
+tracking-mode-never =
+    .label = Nekad
+    .accesskey = N
+tracking-exceptions =
+    .label = Izņēmumi…
+    .accesskey = I
 
 ## Privacy Section - Permissions
 
+permissions-block-popups =
+    .label = Bloķēt jaunos logus
+    .accesskey = B
+permissions-addon-exceptions =
+    .label = Izņēmumi...
+    .accesskey = I
 
 ## Privacy Section - Data Collection
 
+collection-health-report-link = Uzzināt vairāk
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-enable-safe-browsing =
+    .label = Bloķēt bīstamu un maldinošu saturu
+    .accesskey = B
+security-block-downloads =
+    .label = Bloķēt bīstamas lejupielādes
+    .accesskey = d
 
 ## Privacy Section - Certificates
 
