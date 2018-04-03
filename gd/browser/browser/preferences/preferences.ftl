@@ -393,6 +393,7 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Eachdraidh
+history-remember-description = Cuimhnichidh { -brand-short-name } eachdraidh a’ bhrabhsaidh, nam foirm, nan lorg is nan rudan a luchdaich thu a-nuas.
 history-dontremember-description = Cleachdaidh { -brand-short-name } na dearbh roghainnean 's a tha agad ann an brabhsadh prìobhaideach agus cha chuimhnich e eachdraidh sam bith 's tu a' brabhsadh an lìn.
 history-private-browsing-permanent =
     .label = Dèan brabhsadh prìobhaideach an-còmhnaidh
@@ -409,16 +410,36 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Roghainnean…
     .accesskey = n
+history-clear-button =
+    .label = Falamhaich an eachdraidh...
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
+sitedata-header = Briosgaidean is dàta làraichean
 sitedata-learn-more = Barrachd fiosrachaidh
+sitedata-accept-cookies-option =
+    .label = Gabh ri briosgaidean is dàta làraich o làraichean-lìn (mholamaid seo)
+    .accesskey = A
+sitedata-block-cookies-option =
+    .label = Bac briosgaidean is dàta làraich (dh’fhaoidte nach obraich cuid a làraichean ma nì thu seo)
+    .accesskey = B
+sitedata-keep-until = Cum gus
+    .accesskey = u
+sitedata-accept-third-party-desc = Gabh ri briosgaidean is dàta làraich o threas-phàrtaidhean
+    .accesskey = y
 sitedata-accept-third-party-always-option =
     .label = An-còmhnaidh
 sitedata-accept-third-party-visited-option =
     .label = O fheadhainn air an deach tadhal
 sitedata-accept-third-party-never-option =
     .label = Chan ann idir
+sitedata-clear =
+    .label = Falamhaich an dàta...
+    .accesskey = l
+sitedata-settings =
+    .label = Stiùirich an dàta...
+    .accesskey = M
 sitedata-cookies-exceptions =
     .label = Eisgeachdan…
     .accesskey = E
@@ -441,6 +462,8 @@ addressbar-suggestions-settings = Atharraich na roghainnean a thaobh mholaidhean
 ## Privacy Section - Tracking
 
 tracking-header = Dìon o thracadh
+tracking-description = Bacaidh an dìon o thracadh thu o thracaichean air loidhne a chruinnicheas an dàta brabhsaidh agad air feadh diofar làraichean-lìn. <a>Barrachd fiosrachaidh mu dhìon o thracadh agus do phrìobhaideachd</a>
+tracking-mode-label = Cleachd dìon o thracadh airson casg a chur air tracaichean aithnichte
 tracking-mode-always =
     .label = An-còmhnaidh
     .accesskey = n
@@ -464,7 +487,26 @@ tracking-change-block-list =
 ## Privacy Section - Permissions
 
 permissions-header = Ceadan
+permissions-location = Ionad
+permissions-location-settings =
+    .label = Roghainnean...
+    .accesskey = t
+permissions-camera = Camara
+permissions-camera-settings =
+    .label = Roghainnean...
+    .accesskey = t
+permissions-microphone = Micreofon
+permissions-microphone-settings =
+    .label = Roghainnean...
+    .accesskey = t
 permissions-notification = Brathan
+permissions-notification-settings =
+    .label = Roghainnean...
+    .accesskey = t
+permissions-notification-link = Barrachd fiosrachaidh
+permissions-notification-pause =
+    .label = Cuir am brath ’na stad gus an ath-thòisich { -brand-short-name }
+    .accesskey = n
 permissions-block-popups =
     .label = Cuir bacadh air priob-uinneagan
     .accesskey = b
@@ -477,16 +519,26 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Eisgeachdan…
     .accesskey = E
+permissions-a11y-privacy-checkbox =
+    .label = Na leig le seirbheisean so-inntrigeachd cothrom fhaighinn air a’ bhrabhsair agad
+    .accesskey = a
+permissions-a11y-privacy-link = Barrachd fiosrachaidh
 
 ## Privacy Section - Data Collection
 
 collection-header = Cruinneachadh is cleachdadh dàta le { -brand-short-name }
 collection-description = Tha sinn ag obair gu cruaidh airson an dà chuid roghainnean a thoirt dhut agus dìreach an dàta a chruinneachadh a dh’fheumas sinn airson { -brand-short-name } a sholar dhan a h-uile duine agus airson a leasachadh. Iarraidh sinn cead ort uair sam bith ma bhios feum air dàta pearsanta.
 collection-privacy-notice = Sanas prìobhaideachd
+collection-health-report =
+    .label = Leig le { -brand-short-name } dàta teicnigeach is dàta mu eadar-ghabhail a chur gu { -vendor-short-name }
+    .accesskey = r
 collection-health-report-link = Barrachd fiosrachaidh
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Tha aithriseadh dàta à comas airson rèiteachadh a’ bhuild seo
+collection-backlogged-crash-reports =
+    .label = Leig le { -brand-short-name } aithisgean tuislidh a chàirn roimhe as do leth
+    .accesskey = c
 collection-backlogged-crash-reports-link = Barrachd fiosrachaidh
 
 ## Privacy Section - Security
@@ -495,9 +547,11 @@ collection-backlogged-crash-reports-link = Barrachd fiosrachaidh
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Tèarainteachd
+security-browsing-protection = Dìon o shusbaint mhealltach agus bathar-bog cunnartach
 security-enable-safe-browsing =
     .label = Bac susbaint chunnartach is susbaint foill
     .accesskey = B
+security-enable-safe-browsing-link = Barrachd fiosrachaidh
 security-block-downloads =
     .label = Bac luchdaidhean a-nuas cunnartach
     .accesskey = d
