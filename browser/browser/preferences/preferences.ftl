@@ -351,6 +351,9 @@ containers-remove-button =
 
 ## Privacy Section - Forms
 
+forms-exceptions =
+    .label = మినహాయింపులు…
+    .accesskey = x
 forms-saved-logins =
     .label = భద్రపరచిన ప్రవేశాలు…
     .accesskey = L
@@ -358,6 +361,7 @@ forms-saved-logins =
 ## Privacy Section - History
 
 history-header = చరిత్ర
+history-dontremember-description = { -brand-short-name } గోప్య వీక్షణం అమరికలనే వాడుతుంది మరియు మీ వీక్షణ చరిత్రని గుర్తుంచుకోదు.
 history-clear-on-close-settings =
     .label = అమరికలు…
     .accesskey = t
@@ -374,21 +378,41 @@ sitedata-accept-third-party-never-option =
 addressbar-locbar-bookmarks-option =
     .label = ఇష్టాంశాలు
     .accesskey = k
+addressbar-locbar-openpage-option =
+    .label = తెరిచిన ట్యాబులు
+    .accesskey = O
 
 ## Privacy Section - Tracking
 
 
 ## Privacy Section - Permissions
 
+permissions-addon-exceptions =
+    .label = మినహాయింపులు…
+    .accesskey = E
 
 ## Privacy Section - Data Collection
 
+collection-health-report-link = ఇంకా తెలుసుకోండి
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-block-uncommon-software =
+    .label = అవాంఛిత, అసాధారణ సాఫ్ట్‌వేర్ల గురించి నిన్ను హెచ్చరించు
+    .accesskey = C
 
 ## Privacy Section - Certificates
 
+certs-header = ధృవీకరణ పత్రాలు
+certs-select-auto-option =
+    .label = స్వయంచాలకంగా ఒక దానిని ఎంపికచేయి
+    .accesskey = S
+certs-select-ask-option =
+    .label = ప్రతిసారీ మిమ్మల్ని అడుగును
+    .accesskey = A
+certs-enable-ocsp =
+    .label = ధృవీకరణపత్రాల ప్రస్తుత ప్రమాణతను నిర్థారించుటకు OCSP రెస్పాండర్ సేవికలను ప్రశ్నిస్తుంది
+    .accesskey = Q
