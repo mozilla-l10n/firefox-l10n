@@ -161,8 +161,8 @@
 <!ENTITY formatMenu.accesskey "F">
 
 <!-- Options Menu -->
-<!ENTITY optionsMenu.label "Alternativ">
-<!ENTITY optionsMenu.accesskey "l">
+<!ENTITY optionsMenu.label "Inställningar">
+<!ENTITY optionsMenu.accesskey "n">
 <!ENTITY checkSpellingCmd2.label "Kontrollera stavningen…">
 <!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.key2 "VK_F7">
@@ -221,7 +221,7 @@
 <!ENTITY accountManagerCmd2.label "Kontoinställningar">
 <!ENTITY accountManagerCmd2.accesskey "K">
 <!ENTITY accountManagerCmdUnix2.accesskey "K">
-<!ENTITY preferencesCmd2.label "Alternativ">
+<!ENTITY preferencesCmd2.label "Inställningar">
 <!ENTITY preferencesCmd2.accesskey "e">
 <!ENTITY preferencesCmdUnix.label "Inställningar">
 <!ENTITY preferencesCmdUnix.accesskey "I">
