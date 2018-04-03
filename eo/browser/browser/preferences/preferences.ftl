@@ -362,6 +362,7 @@ containers-remove-button =
 
 ## Privacy Section - Forms
 
+forms-header = Formularoj kaj pasvortoj
 forms-exceptions =
     .label = Esceptoj…
     .accesskey = c
@@ -432,6 +433,7 @@ collection-health-report-link = Pli da informo
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Sekureco
 security-enable-safe-browsing =
     .label = Bloki danĝeran aŭ trompan enhavon
     .accesskey = B
@@ -445,6 +447,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Atestiloj
+certs-personal-label = Kiam servilo petas vian personan atestilon
 certs-select-auto-option =
     .label = Aŭtomate elekti unu
     .accesskey = A
