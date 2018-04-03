@@ -388,6 +388,9 @@ containers-remove-button =
 
 ## Privacy Section - Forms
 
+forms-exceptions =
+    .label = Unntak…
+    .accesskey = n
 forms-master-pw-use =
     .label = Bruk eit hovudpassord
     .accesskey = r
@@ -401,12 +404,16 @@ history-remember-option =
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = Les meir
 sitedata-accept-third-party-always-option =
     .label = Alltid
 sitedata-accept-third-party-visited-option =
     .label = Frå besøkte
 sitedata-accept-third-party-never-option =
     .label = Aldri
+sitedata-cookies-exceptions =
+    .label = Unntak…
+    .accesskey = U
 
 ## Privacy Section - Address Bar
 
@@ -416,18 +423,27 @@ addressbar-locbar-bookmarks-option =
 
 ## Privacy Section - Tracking
 
+tracking-mode-always =
+    .label = Alltid
+    .accesskey = l
 tracking-mode-private =
     .label = Berre i private vindauge
     .accesskey = B
 tracking-mode-never =
     .label = Aldri
     .accesskey = A
+tracking-exceptions =
+    .label = Unntak…
+    .accesskey = U
 
 ## Privacy Section - Permissions
 
 permissions-block-popups =
     .label = Blokker sprettoppvindauge
     .accesskey = B
+permissions-addon-exceptions =
+    .label = Unntak…
+    .accesskey = U
 
 ## Privacy Section - Data Collection
 
@@ -438,7 +454,19 @@ collection-health-report-link = Les meir
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-enable-safe-browsing =
+    .label = Blokker farleg og villeiande innhald
+    .accesskey = B
+security-block-downloads =
+    .label = Blokker farlege nedlastingar
+    .accesskey = f
+security-block-uncommon-software =
+    .label = Åtvar meg mot uønskte eller uvanlege program
+    .accesskey = t
 
 ## Privacy Section - Certificates
 
 certs-header = Sertifikat
+certs-select-ask-option =
+    .label = Spør kvar gong
+    .accesskey = S
