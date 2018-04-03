@@ -628,7 +628,7 @@
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Mesej Baru">
-<!ENTITY appmenuNewContactCmd.label "Buku Alamat Kenalan…">
+<!ENTITY appmenuNewContactCmd.label "Kenalan Buku Alamat…">
 <!ENTITY appmenuEditMenu.label "Edit">
 <!ENTITY appmenuToolbarLayout.label "Susun atur Bar alatan…">
 <!ENTITY appmenuSelectThread.label "Pilih Thread">
