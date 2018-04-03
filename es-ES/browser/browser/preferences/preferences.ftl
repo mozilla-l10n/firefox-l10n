@@ -446,6 +446,12 @@ sitedata-accept-third-party-visited-option =
     .label = De los visitados
 sitedata-accept-third-party-never-option =
     .label = Nunca
+sitedata-clear =
+    .label = Limpiar datos…
+    .accesskey = L
+sitedata-settings =
+    .label = Administrar datos…
+    .accesskey = M
 sitedata-cookies-exceptions =
     .label = Excepciones…
     .accesskey = E
@@ -546,6 +552,9 @@ collection-browser-errors =
     .label = Permitir a { -brand-short-name } enviar informes de error del navegador (incluyendo mensajes de error) a { -vendor-short-name }
     .accesskey = e
 collection-browser-errors-link = Saber más
+collection-backlogged-crash-reports =
+    .label = Permitir que { -brand-short-name } envíe los informes de fallos pendientes en su nombre
+    .accesskey = r
 collection-backlogged-crash-reports-link = Saber más
 
 ## Privacy Section - Security
