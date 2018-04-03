@@ -355,3 +355,123 @@ containers-preferences-button =
     .label = Tercihler
 containers-remove-button =
     .label = Çetleştir
+
+## Privacy Section
+
+privacy-header = Kezici Hususiyatı
+
+## Privacy Section - Forms
+
+forms-header = Formalar & Sır-sözler
+forms-remember-logins =
+    .label = Ağ-saytları içün içeri-imzalanışlar ve sır-sözlerni hatırla
+    .accesskey = h
+forms-exceptions =
+    .label = İstisnalar…
+    .accesskey = a
+forms-saved-logins =
+    .label = Saqlanğan İçeri İmzalanışlar…
+    .accesskey = l
+forms-master-pw-use =
+    .label = Usta sır-sözni qullan
+    .accesskey = U
+forms-master-pw-change =
+    .label = Usta Sır-sözni Deñiştir…
+    .accesskey = d
+
+## Privacy Section - History
+
+
+## Privacy Section - Site Data
+
+sitedata-learn-more = Daa çoq ögren
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-location = Qonum
+permissions-location-settings =
+    .label = Tesbitler…
+    .accesskey = t
+permissions-camera = Kamera
+permissions-camera-settings =
+    .label = Tesbitler…
+    .accesskey = t
+permissions-microphone = Mikrofon
+permissions-microphone-settings =
+    .label = Tesbitler…
+    .accesskey = t
+permissions-notification = Tebliğler
+permissions-notification-settings =
+    .label = Tesbitler…
+    .accesskey = t
+permissions-notification-link = Daa çoq ögren
+permissions-block-popups =
+    .label = Peyda pencerelerni blokla
+    .accesskey = B
+permissions-block-popups-exceptions =
+    .label = İstisnalar…
+    .accesskey = i
+permissions-addon-install-warning =
+    .label = Ağ-saytları eklentilerni qurmağa talpınğanda siz tembih etilgeysiz
+    .accesskey = t
+permissions-addon-exceptions =
+    .label = İstisnalar…
+    .accesskey = i
+
+## Privacy Section - Data Collection
+
+collection-header = { -brand-short-name } Verileriniñ Toplanması ve Qullanımı
+collection-description = Sizni seçenekler ile te'min etmege ve ancaq { -brand-short-name } uyğulamasını erkes içün te'min etmek ve eyileştirmek içün ihtiyac duyğanlarımıznı toplaymız. Şahsiy malümatnı qabul etmezden evvel er zaman ruhset sorarmız.
+collection-privacy-notice = Hususiyat Tebliği
+collection-health-report =
+    .label = { -brand-short-name } içün tehnikiy ve tesirleşim verilerini { -vendor-short-name }'ğa yibermege caiz olsun
+    .accesskey = r
+collection-health-report-link = Daa çoq ögren
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Bu inşa endamlandırması içün veriler maruzalaması naqabilleştirilgendir
+collection-backlogged-crash-reports-link = Daa çoq ögren
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+security-header = Emniyet
+security-browsing-protection = Yañıltıcı Muhteva ve Tehlükeli Yazılım İmayesi
+security-enable-safe-browsing =
+    .label = Tehlükeli ve yañıltıcı muhtevanı blokla
+    .accesskey = b
+security-enable-safe-browsing-link = Daa çoq ögren
+security-block-downloads =
+    .label = Tehlükeli endirmelerni blokla
+    .accesskey = d
+security-block-uncommon-software =
+    .label = İstenmegen ve ğayrı-adiy yazılım aqqında sizni tenbile
+    .accesskey = m
+
+## Privacy Section - Certificates
+
+certs-header = Şeadetnameler
+certs-personal-label = Bir sunucı şahsiy şeadetnamemni istegeninde
+certs-select-auto-option =
+    .label = Birini avtomatik olaraq sayla
+    .accesskey = s
+certs-select-ask-option =
+    .label = Er seferinde sizge sora
+    .accesskey = o
+certs-enable-ocsp =
+    .label = Şeadetnamelerniñ keçerliligini teyit etmek içün OCSP cevaplayıcı sunucılarını istifsar et
+    .accesskey = f
+certs-view =
+    .label = Şeadetnamelerni Köster…
+    .accesskey = e
+certs-devices =
+    .label = Emniyet Cihazları…
+    .accesskey = C
