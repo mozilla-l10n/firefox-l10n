@@ -376,6 +376,9 @@ containers-remove-button =
 
 ## Privacy Section - Forms
 
+forms-remember-logins =
+    .label = Απομνημόνευση στοιχείων σύνδεσης για ιστοσελίδες
+    .accesskey = μ
 
 ## Privacy Section - History
 
@@ -388,15 +391,22 @@ containers-remove-button =
 
 ## Privacy Section - Tracking
 
+tracking-change-block-list =
+    .label = Αλλαγή λίστας αποκλεισμού…
+    .accesskey = λ
 
 ## Privacy Section - Permissions
 
 permissions-block-popups =
     .label = Φραγή αναδυόμενων παραθύρων
     .accesskey = Φ
+permissions-addon-install-warning =
+    .label = Προειδοποίηση όταν οι ιστοσελίδες προσπαθούν να εγκαταστήσουν πρόσθετα
+    .accesskey = Π
 
 ## Privacy Section - Data Collection
 
+collection-health-report-link = Μάθετε περισσότερα
 
 ## Privacy Section - Security
 ##
@@ -406,3 +416,7 @@ permissions-block-popups =
 
 ## Privacy Section - Certificates
 
+certs-header = Πιστοποιητικά
+certs-devices =
+    .label = Συσκευές ασφαλείας…
+    .accesskey = Σ
