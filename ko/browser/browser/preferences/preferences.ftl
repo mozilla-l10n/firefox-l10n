@@ -468,6 +468,9 @@ tracking-pbm-label = 사생활 보호 모드에서 추적 방지를 사용해 �
 tracking-exceptions =
     .label = 예외…
     .accesskey = x
+tracking-change-block-list =
+    .label = 차단 목록 변경…
+    .accesskey = C
 
 ## Privacy Section - Permissions
 
