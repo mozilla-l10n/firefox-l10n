@@ -424,6 +424,7 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-header = Cookies y datos del sitio
 sitedata-learn-more = Saber más
 sitedata-keep-until = Mantener hasta que
     .accesskey = q
@@ -497,6 +498,9 @@ permissions-notification-settings =
     .label = Configuración…
     .accesskey = u
 permissions-notification-link = Saber más
+permissions-notification-pause =
+    .label = Pausar notificaciones hasta que { -brand-short-name } se reinicie
+    .accesskey = n
 permissions-block-popups =
     .label = Bloquear ventanas emergentes
     .accesskey = B
