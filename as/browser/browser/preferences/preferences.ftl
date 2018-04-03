@@ -199,6 +199,10 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-visited-option =
+    .label = ভ্ৰমণ কৰা ছাইটসমূহৰ পৰা
+sitedata-accept-third-party-never-option =
+    .label = কেতিয়াও নহয়
 sitedata-cookies-exceptions =
     .label = ব্যতিক্ৰমসমূহ…
     .accesskey = E
@@ -229,3 +233,4 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Certificates
 
+certs-header = প্ৰমাণপত্ৰসমূহ
