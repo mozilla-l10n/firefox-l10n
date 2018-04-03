@@ -392,6 +392,7 @@ containers-remove-button =
 
 ## Privacy Section - Forms
 
+forms-header = Obrazci in gesla
 forms-exceptions =
     .label = Izjeme …
     .accesskey = i
@@ -408,6 +409,7 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Zgodovina
+history-remember-description = { -brand-short-name } si bo zapomnil vašo zgodovino brskanja, prenosov, obrazcev in iskanj.
 history-dontremember-description = { -brand-short-name } bo uporabljal enake nastavitve kot pri zasebnem brskanju in med brskanjem ne bo hranil nobene zgodovine.
 history-private-browsing-permanent =
     .label = Vedno uporabljaj zasebno brskanje
@@ -427,12 +429,26 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = Več o tem
+sitedata-accept-cookies-option =
+    .label = Sprejemaj piškotke in podatke spletnih strani (priporočeno)
+    .accesskey = S
+sitedata-block-cookies-option =
+    .label = Zavračaj piškotke in podatke spletnih strani (lahko povzroči nepravilno delovanje strani)
+    .accesskey = Z
+sitedata-keep-until = Obdrži jih,
+    .accesskey = j
+sitedata-accept-third-party-desc = Sprejemaj piškotke in podatke tretjih strani
+    .accesskey = t
 sitedata-accept-third-party-always-option =
     .label = Vedno
 sitedata-accept-third-party-visited-option =
     .label = Izmed obiskanih
 sitedata-accept-third-party-never-option =
     .label = Nikoli
+sitedata-settings =
+    .label = Upravljanje podatkov …
+    .accesskey = U
 sitedata-cookies-exceptions =
     .label = Izjeme …
     .accesskey = Z
@@ -448,9 +464,11 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = odprte zavihke
     .accesskey = O
+addressbar-suggestions-settings = Spremeni nastavitve predlogov iskanja
 
 ## Privacy Section - Tracking
 
+tracking-header = Zaščita pred sledenjem
 tracking-mode-always =
     .label = Vedno
     .accesskey = e
@@ -466,6 +484,12 @@ tracking-exceptions =
 
 ## Privacy Section - Permissions
 
+permissions-location-settings =
+    .label = Nastavitve …
+    .accesskey = t
+permissions-notification-settings =
+    .label = Nastavitve …
+    .accesskey = t
 permissions-block-popups =
     .label = Prepovej pojavna okna
     .accesskey = r
@@ -475,9 +499,13 @@ permissions-block-popups-exceptions =
 permissions-addon-exceptions =
     .label = Izjeme …
     .accesskey = E
+permissions-a11y-privacy-checkbox =
+    .label = Storitvam za dostopnost prepreči dostop do brskalnika
+    .accesskey = a
 
 ## Privacy Section - Data Collection
 
+collection-description = Trudimo se, da vam ponudimo izbiro in da zbiramo samo tisto, kar potrebujemo za razvoj in izboljšave { -brand-short-name }a za vse uporabnike. Pred sprejemanjem osebnih podatkov vas vedno vprašamo za dovoljenje.
 collection-health-report-link = Več o tem
 
 ## Privacy Section - Security
@@ -485,6 +513,7 @@ collection-health-report-link = Več o tem
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Varnost
 security-browsing-protection = Zaščita pred zavajajočo vsebino in nevarno programsko opremo
 security-enable-safe-browsing =
     .label = Zavrni nevarno in zavajajočo vsebino
@@ -492,10 +521,20 @@ security-enable-safe-browsing =
 security-block-downloads =
     .label = Zavrni nevarne prenose
     .accesskey = r
+security-block-uncommon-software =
+    .label = Opozori o neželeni in neobičajni programski opremi
+    .accesskey = O
 
 ## Privacy Section - Certificates
 
 certs-header = Digitalna potrdila
+certs-personal-label = Ko strežnik zahteva vaše osebno digitalno potrdilo,
+certs-select-auto-option =
+    .label = ga izberi samodejno
+    .accesskey = s
+certs-select-ask-option =
+    .label = vsakokrat vprašaj
+    .accesskey = k
 certs-enable-ocsp =
     .label = Uporabi strežnike OCSP za potrditev trenutne veljavnosti digitalnih potrdil
     .accesskey = U
