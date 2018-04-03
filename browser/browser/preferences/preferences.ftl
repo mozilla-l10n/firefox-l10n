@@ -342,6 +342,10 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-visited-option =
+    .label = ಭೇಟಿ ಮಾಡಿದವುಗಳಿಂದ
+sitedata-accept-third-party-never-option =
+    .label = ಎಂದಿಗೂ ಬೇಡ
 sitedata-cookies-exceptions =
     .label = ವಿನಾಯಿತಿಗಳು...
     .accesskey = E
