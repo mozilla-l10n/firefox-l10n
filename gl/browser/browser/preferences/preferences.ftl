@@ -39,6 +39,9 @@ should-restart-ok = Reiniciar o { -brand-short-name } agora
 cancel-no-restart-button = Cancelar
 restart-later = Reiniciar máis tarde
 
+## Preferences UI Search Results
+
+
 ## General Section
 
 startup-header = Inicio
@@ -68,23 +71,6 @@ startup-prev-session =
 disable-extension =
     .label = Desactivar extensión
 home-page-header = Páxina de inicio
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Usar a páxina actual
-           *[other] Usar as páxinas actuais
-        }
-    .accesskey = c
-choose-bookmark =
-    .label = Usar marcador…
-    .accesskey = U
-restore-default =
-    .label = Restaurar os predeterminados
-    .accesskey = R
 tabs-group-header = Lapelas
 warn-on-close-multiple-tabs =
     .label = Avisalo ao pechar varias lapelas
@@ -210,6 +196,29 @@ network-proxy-connection-settings =
     .label = Configuración…
     .accesskey = C
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Usar a páxina actual
+           *[other] Usar as páxinas actuais
+        }
+    .accesskey = c
+choose-bookmark =
+    .label = Usar marcador…
+    .accesskey = U
+restore-default =
+    .label = Restaurar os predeterminados
+    .accesskey = R
+
 ## Search Section
 
 search-bar-header = Barra de buscar
@@ -236,3 +245,54 @@ search-keyword-warning-title = Duplicar a palabra clave
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = A palabra clave que escolleu está a ser utilizada por "{ $name }". Seleccione outra.
 search-keyword-warning-bookmark = A palabra clave que escolleu está a ser utilizada por un marcador. Seleccione outra.
+
+## Containers Section
+
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-master-pw-use =
+    .label = Usar un contrasinal principal
+    .accesskey = U
+forms-master-pw-change =
+    .label = Modificar o contrasinal principal…
+    .accesskey = M
+
+## Privacy Section - History
+
+
+## Privacy Section - Site Data
+
+sitedata-cookies-exceptions =
+    .label = Excepcións…
+    .accesskey = E
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-block-popups =
+    .label = Bloquear xanelas emerxentes
+    .accesskey = B
+permissions-addon-exceptions =
+    .label = Excepcións…
+    .accesskey = E
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
