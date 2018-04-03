@@ -44,7 +44,7 @@
 <!ENTITY  mediaSaveAs2.accesskey "e">
 <!ENTITY  mediaPreview          "Førehandsvising:">
 
-<!ENTITY  feedTab               "RSS">
+<!ENTITY  feedTab               "RSS-kjelder">
 <!ENTITY  feedTab.accesskey     "R">
 <!ENTITY  feedSubscribe         "Abonner">
 <!ENTITY  feedSubscribe.accesskey "A">
@@ -59,9 +59,6 @@
 <!ENTITY  permBlock             "Blokker">
 <!ENTITY  permissionsFor        "Løyve for:">
 <!ENTITY  permPlugins           "Slå på programtillegg">
-
-<!ENTITY  permClearStorage           "Tøm lager">
-<!ENTITY  permClearStorage.accesskey "T">
 
 <!ENTITY  securityTab           "Tryggleik">
 <!ENTITY  securityTab.accesskey "T">
