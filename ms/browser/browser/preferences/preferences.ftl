@@ -381,12 +381,18 @@ forms-header = Borang & Kata laluan
 forms-remember-logins =
     .label = Ingati log masuk dan kata laluan bagi laman web
     .accesskey = I
+forms-exceptions =
+    .label = Pengecualian…
+    .accesskey = g
 forms-saved-logins =
     .label = Log masuk Tersimpan…
     .accesskey = L
 forms-master-pw-use =
     .label = Guna kata laluan induk
     .accesskey = U
+forms-master-pw-change =
+    .label = Tukar Kata laluan Induk…
+    .accesskey = T
 
 ## Privacy Section - History
 
@@ -399,6 +405,9 @@ history-private-browsing-permanent =
 history-remember-option =
     .label = Ingat semua lawan sesawang yang telah dikunjungi dan segala benda yang telah dimuat turun
     .accesskey = b
+history-remember-search-option =
+    .label = Ingat sejarah dan borang sejarah
+    .accesskey = h
 history-clear-on-close-option =
     .label = Buang sejarah apabila { -brand-short-name } ditutup
     .accesskey = r
@@ -449,6 +458,9 @@ addressbar-locbar-history-option =
 addressbar-locbar-bookmarks-option =
     .label = Tandabuku
     .accesskey = k
+addressbar-locbar-openpage-option =
+    .label = Buka tab
+    .accesskey = b
 addressbar-suggestions-settings = Tukar keutamaan bagi cadangan enjin carian
 
 ## Privacy Section - Tracking
@@ -456,13 +468,22 @@ addressbar-suggestions-settings = Tukar keutamaan bagi cadangan enjin carian
 tracking-header = Perlindungan Penjejakan
 tracking-description = Perlindungan Penjejakan menyekat penjejak atas talian yang mengumpul data pelayaran anda dalam pelbagai laman web. <a>Ketahui lebih lanjut perihal Perlindungan Penjejakan dan privasi anda</a>
 tracking-mode-label = Gunakan Perlindungan Penjejakan untuk menyekat penjejak dikenali
+tracking-mode-always =
+    .label = Sentiasa
+    .accesskey = n
 tracking-mode-private =
     .label = Hanya dalam tertingkap persendirian
     .accesskey = y
+tracking-mode-never =
+    .label = Jangan sesekali
+    .accesskey = k
 # This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
 # This currently happens on the release and beta channel.
 tracking-pbm-label = Gunakan Perlindungan Penjejakan dalam Pelayaran Peribadi untuk menyekat penjejak dikenali
     .accesskey = b
+tracking-exceptions =
+    .label = Pengecualian…
+    .accesskey = g
 tracking-change-block-list =
     .label = Tukar Senarai Sekatan…
     .accesskey = T
@@ -539,6 +560,9 @@ security-enable-safe-browsing =
     .label = Sekat isi kandung berbahaya dan memperdayakan
     .accesskey = B
 security-enable-safe-browsing-link = Ketahui selanjutnya
+security-block-downloads =
+    .label = Sekat muat turun berbahaya
+    .accesskey = a
 security-block-uncommon-software =
     .label = Beri amaran mengenai perisian yang tidak dikehendaki dan yang luar biasa
     .accesskey = L
