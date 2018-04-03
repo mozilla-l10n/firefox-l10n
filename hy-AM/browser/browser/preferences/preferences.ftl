@@ -385,6 +385,9 @@ privacy-header = Դիտարկիչի գաղտնիություն
 ## Privacy Section - Forms
 
 forms-header = Ձևեր և գաղտնաբառեր
+forms-remember-logins =
+    .label = Հիշել մուտքագրումները և գաղտնաբառերը կայքերի համար
+    .accesskey = R
 forms-exceptions =
     .label = Բացառություններ…
     .accesskey = ա
@@ -506,13 +509,23 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Բացառություններ…
     .accesskey = Բ
+permissions-a11y-privacy-checkbox =
+    .label = Կանխել մատչելիության ծառայությունների կողմից ձեր դիտարկիչի մատչումը
+    .accesskey = a
 permissions-a11y-privacy-link = Իմանալ ավելին
 
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name }-ի տվյալների հավաքում և օգտագործում
 collection-description = Մենք փորձում ենք տրամադրել ձեզ ընտրություն և հավաքել միայն այն ժամանակ, երբ մեզ պետք է տրամադրել և լավարկել { -brand-short-name }-ը բոլորի համար: ՄԵնք միշտ հարցնում ենք թույլտվությյուն՝ մինչև անձնական տեղեկություններ ստանալը:
+collection-privacy-notice = Գաղտնիության ծանուցում
+collection-health-report =
+    .label = Թույլատրել { -brand-short-name }-ին ուղարկել տեխնիկական և փոխազդելու տվյալներ { -vendor-short-name }-ին
+    .accesskey = { "" }
 collection-health-report-link = Իմանալ ավելին
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Տվյալների զեկուցումը անջատված է կազմաձևի այս կառուցման համար
 collection-backlogged-crash-reports-link = Իմանալ ավելին
 
 ## Privacy Section - Security
@@ -521,6 +534,7 @@ collection-backlogged-crash-reports-link = Իմանալ ավելին
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Անվտանգություն
+security-browsing-protection = Խաբուսիկ բովանդակություն և պաշտպանություն վտանգավոր ծրագրերից
 security-enable-safe-browsing =
     .label = Արգելափակել վտանգավոր և խաբուսիկ բովանդակությունը
     .accesskey = Ա
@@ -544,3 +558,9 @@ certs-select-ask-option =
 certs-enable-ocsp =
     .label = Հարցում OCSP պատասխանիչի սպասարկիչին՝ հաստատելու հավաստագրի իսկությունը
     .accesskey = Հ
+certs-view =
+    .label = Դիտել վկայագրերը...
+    .accesskey = C
+certs-devices =
+    .label = Անվտանգության սարքեր...
+    .accesskey = D
