@@ -454,6 +454,32 @@ tracking-change-block-list =
 ## Privacy Section - Permissions
 
 permissions-header = परवानग्या
+permissions-location = स्थान
+permissions-location-settings =
+    .label = सेटिंग…
+    .accesskey = t
+permissions-camera = कॅमेरा
+permissions-camera-settings =
+    .label = सेटिंग…
+    .accesskey = t
+permissions-microphone = मायक्रोफोन
+permissions-microphone-settings =
+    .label = सेटिंग…
+    .accesskey = t
+permissions-notification = सूचना
+permissions-notification-settings =
+    .label = सेटिंग…
+    .accesskey = t
+permissions-notification-link = आणखी जाणा
+permissions-notification-pause =
+    .label = सूचना { -brand-short-name } पुन्हा सुरु होईपर्यंत स्थगित करा
+    .accesskey = n
+permissions-block-popups =
+    .label = पॉपअप पटल अडवा
+    .accesskey = B
+permissions-block-popups-exceptions =
+    .label = अपवाद…
+    .accesskey = E
 permissions-addon-install-warning =
     .label = साईट्स ॲड-ऑन्स् इंस्टॉल करण्याचा प्रयत्न करताना मला सावध करा
     .accesskey = W
@@ -478,6 +504,7 @@ collection-backlogged-crash-reports-link = आणखी जाणा
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = सुरक्षा
+security-browsing-protection = भ्रामक मजकूर आणि धोकादायक सॉफ्टवेअर संरक्षण
 security-enable-safe-browsing =
     .label = धोकादायक आणि भ्रामक सामग्री अवरोधित करा
     .accesskey = B
