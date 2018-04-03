@@ -352,3 +352,67 @@ containers-preferences-button =
     .label = Mga kagustuhan
 containers-remove-button =
     .label = Alisin
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = Mga exceptions...
+    .accesskey = x
+forms-master-pw-use =
+    .label = Gamitin ng master password
+    .accesskey = G
+forms-master-pw-change =
+    .label = Palitan ang Master Password...
+    .accesskey = M
+
+## Privacy Section - History
+
+history-dontremember-description = Gagamit ng parehong settings ng private browsing ang { -brand-short-name }, at hindi nito tatandaan ang kasaysayan ng pag-browse ninyo ng Web.
+history-remember-option =
+    .label = Tandaan ang aking history sa browsing at download
+    .accesskey = b
+history-remember-search-option =
+    .label = Tandaan ang kasaysayan ng mga paghahanap at mga form
+    .accesskey = f
+history-clear-on-close-option =
+    .label = Limasin ang kasaysayan kapag nagsara ang { -brand-short-name }
+    .accesskey = r
+history-clear-on-close-settings =
+    .label = Settings…
+    .accesskey = t
+
+## Privacy Section - Site Data
+
+sitedata-cookies-exceptions =
+    .label = Mga exceptions...
+    .accesskey = e
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-block-popups =
+    .label = Harangin ang mga pop-up windows
+    .accesskey = H
+permissions-addon-exceptions =
+    .label = Mga exceptions...
+    .accesskey = e
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
