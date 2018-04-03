@@ -379,6 +379,9 @@ containers-remove-button =
 forms-exceptions =
     .label = 例外網站…
     .accesskey = x
+forms-saved-logins =
+    .label = 已存登入資訊…
+    .accesskey = L
 forms-master-pw-use =
     .label = 使用主控密碼
     .accesskey = U
@@ -388,6 +391,14 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-header = 瀏覽紀錄
+history-dontremember-description = { -brand-short-name } 不會儲存任何瀏覽記錄，如同在隱私瀏覽狀態下執行。
+history-private-browsing-permanent =
+    .label = 總是使用隱私瀏覽模式
+    .accesskey = p
+history-remember-option =
+    .label = 保留我的瀏覽與下載記錄
+    .accesskey = b
 history-remember-search-option =
     .label = 保留我的搜尋列與表單輸入的內容
     .accesskey = f
@@ -400,30 +411,68 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-always-option =
+    .label = 總是
+sitedata-accept-third-party-visited-option =
+    .label = 造訪過的網站
+sitedata-accept-third-party-never-option =
+    .label = 永不
 sitedata-cookies-exceptions =
     .label = 例外網站…
     .accesskey = E
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-bookmarks-option =
+    .label = 書籤
+    .accesskey = k
+addressbar-locbar-openpage-option =
+    .label = 開啟分頁
+    .accesskey = O
 
 ## Privacy Section - Tracking
 
+tracking-mode-always =
+    .label = 總是
+    .accesskey = y
+tracking-mode-private =
+    .label = 僅在隱私瀏覽視窗
+    .accesskey = l
+tracking-mode-never =
+    .label = 永不
+    .accesskey = n
+tracking-exceptions =
+    .label = 例外網站…
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
+permissions-block-popups =
+    .label = 封鎖彈出型視窗
+    .accesskey = B
 permissions-addon-exceptions =
     .label = 例外網站…
     .accesskey = E
 
 ## Privacy Section - Data Collection
 
+collection-health-report-link = 更多資訊
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-enable-safe-browsing =
+    .label = 封鎖危險及詐騙內容
+    .accesskey = B
+security-block-downloads =
+    .label = 封鎖危險的下載項目
+    .accesskey = D
 
 ## Privacy Section - Certificates
 
+certs-header = 憑證
+certs-enable-ocsp =
+    .label = 向 OCSP 回應伺服器查詢，以確認憑證有效性
+    .accesskey = Q
