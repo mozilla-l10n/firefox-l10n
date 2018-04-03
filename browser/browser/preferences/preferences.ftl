@@ -359,10 +359,14 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = Retumila privateco
 
 ## Privacy Section - Forms
 
 forms-header = Formularoj kaj pasvortoj
+forms-remember-logins =
+    .label = Memori akreditilojn kaj pasvortojn por retejoj
+    .accesskey = a
 forms-exceptions =
     .label = Esceptoj…
     .accesskey = c
@@ -379,29 +383,70 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Historio
+history-dontremember-description = { -brand-short-name } uzos la samajn agordojn de privata retumo, kaj ĝi ne memoros iun historion dum vi esploras la reton.
+history-private-browsing-permanent =
+    .label = Ĉiam uzi la reĝimon de privata retumo
+    .accesskey = p
+history-remember-option =
+    .label = Memori mian historion de retumo kaj elŝutoj
+    .accesskey = h
 history-remember-search-option =
     .label = Memori historion de serĉadoj kaj formularoj
     .accesskey = s
+history-clear-on-close-option =
+    .label = Forviŝi historion kiam { -brand-short-name } finiĝas
+    .accesskey = v
 history-clear-on-close-settings =
     .label = Agordoj…
     .accesskey = g
+history-clear-button =
+    .label = Viŝi historion…
+    .accesskey = V
 
 ## Privacy Section - Site Data
 
+sitedata-header = Kuketoj kaj retejaj datumoj
 sitedata-learn-more = Pli da informo
+sitedata-block-cookies-option =
+    .label = Bloki kuketojn kaj retejajn datumojn (tio povus misfunkciigi retejojn)
+    .accesskey = B
+sitedata-keep-until = Konservi ĝis
+    .accesskey = K
+sitedata-accept-third-party-desc = Akcepti nerektajn kuketojn kaj retejajn datumojn
+    .accesskey = n
 sitedata-accept-third-party-always-option =
     .label = Ĉiam
+sitedata-accept-third-party-visited-option =
+    .label = El vizititaj retejoj
 sitedata-accept-third-party-never-option =
     .label = Neniam
+sitedata-clear =
+    .label = Viŝi datumojn…
+    .accesskey = V
 sitedata-cookies-exceptions =
     .label = Esceptoj…
     .accesskey = t
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Adresa strio
+addressbar-suggest = Dum uzo de la retadresa strio, sugesti el
+addressbar-locbar-history-option =
+    .label = retuma historio
+    .accesskey = h
+addressbar-locbar-bookmarks-option =
+    .label = legosignoj
+    .accesskey = l
+addressbar-locbar-openpage-option =
+    .label = malfermitaj langetoj
+    .accesskey = m
+addressbar-suggestions-settings = Ŝanĝi preferojn pri serĉilaj sugestoj
 
 ## Privacy Section - Tracking
 
+tracking-header = Protekto kontraŭ spurado
+tracking-description = La protekto kontraŭ spurado blokas retajn spurilojn, kiuj kolektas viajn retumajn datumojn tra pluraj retejoj. <a>Pli da informo pri protekto kontraŭ spurado kaj via privateco</a>
+tracking-mode-label = Uzi protekton kontraŭ spurado por bloki konatajn spurilojn
 tracking-mode-always =
     .label = Ĉiam
     .accesskey = m
@@ -411,22 +456,77 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Neniam
     .accesskey = N
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Uzi protekton kontraŭ spurado dum privata retumo por bloki konatajn spurilojn
+    .accesskey = U
 tracking-exceptions =
     .label = Esceptoj…
     .accesskey = E
+tracking-change-block-list =
+    .label = Ŝanĝi liston de blokado…
+    .accesskey = b
 
 ## Privacy Section - Permissions
 
+permissions-header = Permesoj
+permissions-location = Loko
+permissions-location-settings =
+    .label = Agordoj…
+    .accesskey = A
+permissions-camera = Filmilo
+permissions-camera-settings =
+    .label = Agordoj…
+    .accesskey = A
+permissions-microphone = Mikrofono
+permissions-microphone-settings =
+    .label = Agordoj…
+    .accesskey = A
+permissions-notification = Sciigoj
+permissions-notification-settings =
+    .label = Agordoj…
+    .accesskey = A
+permissions-notification-link = Pli da informo
+permissions-notification-pause =
+    .label = Paŭzigi sciigojn ĝis kiam { -brand-short-name } restartos
+    .accesskey = P
 permissions-block-popups =
     .label = Bloki ŝprucfenestrojn
     .accesskey = B
+permissions-block-popups-exceptions =
+    .label = Esceptoj…
+    .accesskey = E
+permissions-addon-install-warning =
+    .label = Averti min kiam retejoj volas instali aldonaĵojn
+    .accesskey = M
 permissions-addon-exceptions =
     .label = Esceptoj…
     .accesskey = E
+permissions-a11y-privacy-checkbox =
+    .label = Eviti ke alireblecaj servoj aliru vian retumilon
+    .accesskey = E
+permissions-a11y-privacy-link = Pli da informo
 
 ## Privacy Section - Data Collection
 
+collection-header = Kolekto kaj uzo de datumojn de { -brand-short-name }
+collection-description = Ni penas doni al vi plurajn eblojn, kaj kolekti nur tion, kion ni bezonas por fari kaj plibonigi { -brand-short-name } por ĉiuj. Ni ĉiam petos permeson antaŭ ol ricevi personajn informojn.
+collection-privacy-notice = Rimarko pri privateco
+collection-health-report =
+    .label = Permesi al { -brand-short-name } sendi teĥnikajn kaj interagajn datumojn al { -vendor-short-name }
+    .accesskey = P
 collection-health-report-link = Pli da informo
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = La raporto de datumoj estas malŝaltita pro la agordoj de konstruo
+collection-browser-errors =
+    .label = Permesi al { -brand-short-name } sendi retumilajn raportojn pri eraroj (tio inkuzivas erarmesaĝojn) al { -vendor-short-name }
+    .accesskey = e
+collection-browser-errors-link = Pli da informo
+collection-backlogged-crash-reports =
+    .label = Permesi al { -brand-short-name } sendi nome via antaŭe registritajn raportojn pri paneo
+    .accesskey = P
+collection-backlogged-crash-reports-link = Pli da informo
 
 ## Privacy Section - Security
 ##
@@ -434,9 +534,11 @@ collection-health-report-link = Pli da informo
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Sekureco
+security-browsing-protection = Protekto kontraŭ trompa enhavo kaj danĝera programaro
 security-enable-safe-browsing =
     .label = Bloki danĝeran aŭ trompan enhavon
     .accesskey = B
+security-enable-safe-browsing-link = Pli da informo
 security-block-downloads =
     .label = Bloki danĝerajn elŝutojn
     .accesskey = d
@@ -457,3 +559,9 @@ certs-select-ask-option =
 certs-enable-ocsp =
     .label = Peti al OCSP respondaj serviloj konfirmon pri la nuna valideco de atestiloj
     .accesskey = P
+certs-view =
+    .label = Vidi atestilojn…
+    .accesskey = A
+certs-devices =
+    .label = Sekurecaj aparatoj…
+    .accesskey = S
