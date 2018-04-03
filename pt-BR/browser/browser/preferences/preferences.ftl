@@ -420,22 +420,35 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Configurar…
     .accesskey = C
+history-clear-button =
+    .label = Limpar histórico…
+    .accesskey = h
 
 ## Privacy Section - Site Data
 
 sitedata-learn-more = Saber mais
+sitedata-keep-until = Manter até
+    .accesskey = m
+sitedata-accept-third-party-desc = Aceitar cookies e dados de site de terceiros
+    .accesskey = t
 sitedata-accept-third-party-always-option =
     .label = Sempre
 sitedata-accept-third-party-visited-option =
     .label = De sites visitados
 sitedata-accept-third-party-never-option =
     .label = Nunca
+sitedata-clear =
+    .label = Limpar dados…
+    .accesskey = L
 sitedata-cookies-exceptions =
     .label = Exceções…
     .accesskey = E
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-history-option =
+    .label = Histórico de navegação
+    .accesskey = H
 addressbar-locbar-bookmarks-option =
     .label = Favoritos
     .accesskey = F
@@ -465,23 +478,47 @@ tracking-pbm-label = Usar a proteção contra rastreamento na navegação privat
 tracking-exceptions =
     .label = Exceções…
     .accesskey = x
+tracking-change-block-list =
+    .label = Alterar Lista de Bloqueios…
+    .accesskey = B
 
 ## Privacy Section - Permissions
 
 permissions-header = Permissões
+permissions-location = Localização
+permissions-camera = Câmera
+permissions-microphone = Microfone
+permissions-notification = Notificações
+permissions-notification-link = Saber mais
+permissions-notification-pause =
+    .label = Pausar as notificações até reiniciar o { -brand-short-name }
+    .accesskey = n
 permissions-block-popups =
     .label = Bloquear janelas popup
     .accesskey = B
+permissions-block-popups-exceptions =
+    .label = Exceções…
+    .accesskey = E
 permissions-addon-exceptions =
     .label = Exceções…
     .accesskey = E
 
 ## Privacy Section - Data Collection
 
+collection-health-report =
+    .label = Permitir que o { -brand-short-name } envie dados técnicos e de interação para a { -vendor-short-name }
+    .accesskey = r
 collection-health-report-link = Saber mais
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = O relatório de dados está desabilitado nesta configuração
+collection-browser-errors =
+    .label = Permitir que o { -brand-short-name } envie relatórios de erro do navegador (incluindo mensagens de erro) para a { -vendor-short-name }
+    .accesskey = b
+collection-browser-errors-link = Saber mais
+collection-backlogged-crash-reports =
+    .label = Permitir ao { -brand-short-name } enviar relatórios de travamento em seu nome
+    .accesskey = e
 
 ## Privacy Section - Security
 ##
@@ -513,3 +550,9 @@ certs-select-ask-option =
 certs-enable-ocsp =
     .label = Consultar servidores OCSP para confirmar a validade atual dos certificados
     .accesskey = o
+certs-view =
+    .label = Ver Certificados…
+    .accesskey = C
+certs-devices =
+    .label = Dispositivos de Segurança…
+    .accesskey = D
