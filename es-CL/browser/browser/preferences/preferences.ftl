@@ -378,3 +378,50 @@ containers-preferences-button =
     .label = Preferencias
 containers-remove-button =
     .label = Remover
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+
+## Privacy Section - History
+
+
+## Privacy Section - Site Data
+
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+tracking-mode-always =
+    .label = Siempre
+    .accesskey = y
+tracking-mode-private =
+    .label = Solo en ventanas privadas
+    .accesskey = l
+tracking-mode-never =
+    .label = Nunca
+    .accesskey = n
+tracking-exceptions =
+    .label = Excepciones…
+    .accesskey = x
+
+## Privacy Section - Permissions
+
+
+## Privacy Section - Data Collection
+
+collection-health-report-link = Aprender más
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
+certs-header = Certificados
