@@ -385,6 +385,7 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = Privacidade do navegador
 
 ## Privacy Section - Forms
 
