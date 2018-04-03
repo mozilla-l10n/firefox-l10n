@@ -31,6 +31,12 @@
 <!ENTITY newFeedAccountCmd.accesskey "a">
 <!ENTITY newIMContactCmd.label "Wizytówkę dla kontaktu z komunikatora…">
 <!ENTITY newIMContactCmd.accesskey "t">
+<!ENTITY newMessageCmd2.key "N">
+<!ENTITY newMessageCmd.key "M">
+<!ENTITY newMessageCmd.label "Wiadomość">
+<!ENTITY newMessageCmd.accesskey "W">
+<!ENTITY newContactCmd.label "Wizytówkę…">
+<!ENTITY newContactCmd.accesskey "z">
 <!ENTITY newOtherAccountsCmd.label "Konfigurację innego konta…">
 <!ENTITY newOtherAccountsCmd.accesskey "o">
 
