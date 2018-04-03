@@ -27,25 +27,14 @@ close-button =
 
 should-restart-title = Torne a inviâ { -brand-short-name }
 
+## Preferences UI Search Results
+
+
 ## General Section
 
 startup-header = Inizi
 startup-blank-page =
     .label = Mostre une pagjine blancje
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Dopre la pagjine corinte
-           *[other] Dopre lis pagjinis corintis
-        }
-    .accesskey = c
-restore-default =
-    .label = Torne a lis pagjinis predeterminadis
-    .accesskey = T
 tabs-group-header = Lengutis
 
 ## General Section - Language & Appearance
@@ -117,6 +106,26 @@ network-proxy-connection-settings =
     .label = Parametris…
     .accesskey = P
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Dopre la pagjine corinte
+           *[other] Dopre lis pagjinis corintis
+        }
+    .accesskey = c
+restore-default =
+    .label = Torne a lis pagjinis predeterminadis
+    .accesskey = T
+
 ## Search Section
 
 search-choose-keyword-column =
@@ -128,3 +137,78 @@ search-keyword-warning-title = Peraule clâf duplicade
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Tu âs sielzût une peraule clâf za doprade par "{ $name }". Sielç une altre.
 search-keyword-warning-bookmark = Tu âs sielzût une peraule clâf za doprade par un segnelibri. Sielç une altre.
+
+## Containers Section
+
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = Ecezions…
+    .accesskey = z
+forms-master-pw-use =
+    .label = Dopre une password gjenerâl
+    .accesskey = u
+forms-master-pw-change =
+    .label = Cambie la password gjenerâl…
+    .accesskey = m
+
+## Privacy Section - History
+
+history-header = Cronologjie
+history-dontremember-description = { -brand-short-name } al doprarà lis stessis impostazions de navigazion privade, e no sarà mantignude nissune cronologjie di navigazion.
+history-remember-search-option =
+    .label = Memorize la cronologjie des ricercjis e dai modui
+    .accesskey = M
+history-clear-on-close-option =
+    .label = Nete fûr la cronologjie cuant che si siere { -brand-short-name }{ " " }
+    .accesskey = r
+history-clear-on-close-settings =
+    .label = Parametris…
+    .accesskey = t
+
+## Privacy Section - Site Data
+
+sitedata-cookies-exceptions =
+    .label = Ecezions…
+    .accesskey = E
+
+## Privacy Section - Address Bar
+
+addressbar-locbar-bookmarks-option =
+    .label = Segnelibris
+    .accesskey = k
+addressbar-locbar-openpage-option =
+    .label = Vierç lengutis
+    .accesskey = O
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-block-popups =
+    .label = Bloche i barcons pop-up
+    .accesskey = B
+permissions-block-popups-exceptions =
+    .label = Ecezions…
+    .accesskey = E
+permissions-addon-exceptions =
+    .label = Ecezions…
+    .accesskey = E
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
+certs-header = Certificâts
