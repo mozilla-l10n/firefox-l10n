@@ -368,3 +368,42 @@ containers-preferences-button =
     .label = Īstatiejumi
 containers-remove-button =
     .label = Nūjimt
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+
+## Privacy Section - History
+
+
+## Privacy Section - Site Data
+
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+tracking-mode-private =
+    .label = Only in private windows
+    .accesskey = l
+
+## Privacy Section - Permissions
+
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
+certs-enable-ocsp =
+    .label = Query OCSP responder servers to confirm the current validity of certificates
+    .accesskey = Q
