@@ -376,3 +376,110 @@ containers-preferences-button =
     .label = Timsisɣal
 containers-remove-button =
     .label = kkes
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = Tisuraf…
+    .accesskey = r
+forms-saved-logins =
+    .label = Inekcumen yettwakelsen…
+    .accesskey = e
+forms-master-pw-use =
+    .label = Seqdec awal uffir agejdan
+    .accesskey = S
+forms-master-pw-change =
+    .label = Snifel awal uffir agejdan…
+    .accesskey = a
+
+## Privacy Section - History
+
+history-header = Amazray
+history-dontremember-description = { -brand-short-name } ad isseqdec iɣewwaṛen n tunigin tusligt, u diɣen ur iḥerrez ara amazray n tunigin-inek.{ " " }
+history-private-browsing-permanent =
+    .label = Seqdec yal ass askar n tunigin tusligt
+    .accesskey = g
+history-remember-option =
+    .label = Ḥrez amazray n tunigin d isidar
+    .accesskey = t
+history-remember-search-option =
+    .label = Ḥrez amazray n unadi d tferkit
+    .accesskey = u
+history-clear-on-close-option =
+    .label = Sfeḍ amazray ticki tmedleḍ { -brand-short-name }
+    .accesskey = r
+
+## Privacy Section - Site Data
+
+sitedata-learn-more = Lmed ugar
+sitedata-accept-third-party-always-option =
+    .label = Yal ass
+sitedata-accept-third-party-visited-option =
+    .label = Seg yismal ɣur terziḍ
+sitedata-accept-third-party-never-option =
+    .label = Weṛǧin
+sitedata-cookies-exceptions =
+    .label = Tisuraf…
+    .accesskey = s
+
+## Privacy Section - Address Bar
+
+addressbar-locbar-bookmarks-option =
+    .label = Ticraḍ n isebtar
+    .accesskey = T
+addressbar-locbar-openpage-option =
+    .label = Iccaren yeldin
+    .accesskey = I
+
+## Privacy Section - Tracking
+
+tracking-mode-always =
+    .label = Yal ass
+    .accesskey = Y
+tracking-mode-never =
+    .label = Weṛǧin
+    .accesskey = W
+tracking-exceptions =
+    .label = Tisuraf…
+    .accesskey = s
+
+## Privacy Section - Permissions
+
+permissions-block-popups =
+    .label = Sewḥel isfuyla udhimen
+    .accesskey = S
+permissions-addon-exceptions =
+    .label = Tisuraf…
+    .accesskey = s
+
+## Privacy Section - Data Collection
+
+collection-health-report-link = Lmed ugar
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+security-enable-safe-browsing =
+    .label = Sewḥel yir agbur neɣ win iweɛṛen
+    .accesskey = S
+security-block-downloads =
+    .label = Sewḥel yir asider
+    .accesskey = d
+
+## Privacy Section - Certificates
+
+certs-header = Iselkinen
+certs-select-auto-option =
+    .label = Fren yiwen s wudem awurman
+    .accesskey = S
+certs-select-ask-option =
+    .label = Steqsi-yi-d yal tikelt{ " " }
+    .accesskey = A{ " " }
+certs-enable-ocsp =
+    .label = Suter iqeddacen imerrayen OCSP akken ad sentmen taneɣbalt n iselkinen{ " " }
+    .accesskey = S
