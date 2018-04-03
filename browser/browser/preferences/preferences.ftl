@@ -398,6 +398,7 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Historique
+history-dontremember-description = { -brand-short-name } utilisera les mêmes paramètres que pour la navigation privée et ne conservera aucun historique de votre navigation.
 
 ## Privacy Section - Site Data
 
