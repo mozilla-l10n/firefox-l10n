@@ -377,6 +377,12 @@ history-header = Historik
 history-remember-search-option =
     .label = Husk formular- og søgehistorik
     .accesskey = f
+history-clear-on-close-option =
+    .label = Ryd historik når { -brand-short-name } lukkes
+    .accesskey = R
+history-clear-on-close-settings =
+    .label = Indstillinger…
+    .accesskey = I
 
 ## Privacy Section - Site Data
 
