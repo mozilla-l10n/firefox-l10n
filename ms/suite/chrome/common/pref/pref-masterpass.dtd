@@ -3,17 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  pref.masterpass.title                  "Kata laluan Induk">
-<!ENTITY  managepassword.caption                 "Tempoh Kata laluan Induk">
-<!ENTITY  managepassword.text                    "&brandShortName; akan meminta kata laluan induk anda:">
-<!ENTITY  managepassword.askfirsttime            "Diperlukan pada kali pertama">
-<!ENTITY  managepassword.askfirsttime.accesskey  "D">
-<!ENTITY  managepassword.askeverytime            "Diperlukan setiap kali">
-<!ENTITY  managepassword.askeverytime.accesskey  "D">
-<!ENTITY  managepassword.asktimeout              "Jika tidak digunakan selama ">
-<!ENTITY  managepassword.asktimeout.accesskey    "n">
-<!ENTITY  managepassword.timeout.unit            "minit atau lebih lama">
 
-<!ENTITY  changepassword.caption                 "Tukar Kata laluan Induk">
+<!ENTITY  changepassword.caption                 "Tukar Katalaluan Induk">
 <!ENTITY  changepassword.text                    "Kata laluan induk melindungi maklumat sensitif seperti kata laluan web dan sijil.">
 <!ENTITY  changepassword.button                  "Tukar Kata laluan…">
 <!ENTITY  changepassword.accesskey               "T">
