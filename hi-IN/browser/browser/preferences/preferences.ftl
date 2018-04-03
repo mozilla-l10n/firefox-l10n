@@ -429,6 +429,10 @@ history-clear-on-close-settings =
 ## Privacy Section - Site Data
 
 sitedata-learn-more = अधिक जानें
+sitedata-keep-until = तब तक रखें जब तक
+    .accesskey = u
+sitedata-accept-third-party-always-option =
+    .label = हमेशा
 sitedata-accept-third-party-visited-option =
     .label = भ्रमण किए हुए से
 sitedata-accept-third-party-never-option =
@@ -441,6 +445,9 @@ sitedata-cookies-exceptions =
 
 addressbar-header = पता पट्टी
 addressbar-suggest = पता बार का उपयोग करते समय, सुझाव दें
+addressbar-locbar-history-option =
+    .label = ब्राउज़िंग इतिहास
+    .accesskey = H
 addressbar-locbar-bookmarks-option =
     .label = पुस्तचिह्न
     .accesskey = k
@@ -461,15 +468,37 @@ tracking-mode-private =
 tracking-mode-never =
     .label = कभी नहीं
     .accesskey = N
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = निजी ब्राउज़िंग में ज्ञात ट्रैकर्स को ब्लॉक करने के लिए ट्रैकिंग प्रोटैक्शन का उपयोग करें
+    .accesskey = v
 tracking-exceptions =
     .label = अपवाद…
     .accesskey = x
+tracking-change-block-list =
+    .label = ब्लाक लिस्ट बदलें…
+    .accesskey = C
 
 ## Privacy Section - Permissions
 
 permissions-header = अनुमतियां
+permissions-location = स्थान
+permissions-location-settings =
+    .label = सेटिंग…
+    .accesskey = t
+permissions-camera = कैमरा
+permissions-camera-settings =
+    .label = सेटिंग…
+    .accesskey = t
 permissions-microphone = माइक्रोफोन
+permissions-microphone-settings =
+    .label = सेटिंग…
+    .accesskey = t
 permissions-notification = अधिसूचना
+permissions-notification-settings =
+    .label = सेटिंग…
+    .accesskey = t
+permissions-notification-link = अधिक जानें
 permissions-notification-pause =
     .label = { -brand-short-name } के पुनः शुरू होने तक अधिसूचना रोकें
     .accesskey = n
@@ -485,6 +514,10 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = अपवाद…
     .accesskey = E
+permissions-a11y-privacy-checkbox =
+    .label = एक्सेसरीबिलिटी सेवाओं को अपने ब्राउज़र तक पहुंचने से रोकें
+    .accesskey = a
+permissions-a11y-privacy-link = और अधिक जानें
 
 ## Privacy Section - Data Collection
 
@@ -530,3 +563,9 @@ certs-select-ask-option =
 certs-enable-ocsp =
     .label = Query OCSP responder servers to confirm the current validity of certificates
     .accesskey = Q
+certs-view =
+    .label = सर्टिफ़िकेट देखें…
+    .accesskey = C
+certs-devices =
+    .label = सुरक्षा उपकरण…
+    .accesskey = D
