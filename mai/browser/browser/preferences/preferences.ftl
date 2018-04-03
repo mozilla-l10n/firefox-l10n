@@ -221,6 +221,10 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-visited-option =
+    .label = भ्रमण कएलसँ
+sitedata-accept-third-party-never-option =
+    .label = कखनो नहि
 sitedata-cookies-exceptions =
     .label = अपवाद...
     .accesskey = E
@@ -251,3 +255,4 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Certificates
 
+certs-header = प्रमाणपत्र
