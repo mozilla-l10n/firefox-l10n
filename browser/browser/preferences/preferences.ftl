@@ -305,3 +305,48 @@ containers-preferences-button =
     .label = ಆದ್ಯತೆಗಳು
 containers-remove-button =
     .label = ತೆಗೆದುಹಾಕು
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = ವಿನಾಯಿತಿಗಳು...
+    .accesskey = x
+forms-master-pw-use =
+    .label = ಒಂದು ಮಾಸ್ಟರ್ ಗುಪ್ತಪದವನ್ನು ಬಳಸು
+    .accesskey = U
+forms-master-pw-change =
+    .label = ಮಾಸ್ಟರ್ ಗುಪ್ತಪದವನ್ನು ಬದಲಾಯಿಸು...
+    .accesskey = M
+
+## Privacy Section - History
+
+
+## Privacy Section - Site Data
+
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-addon-exceptions =
+    .label = ವಿನಾಯಿತಿಗಳು...
+    .accesskey = E
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
