@@ -55,7 +55,7 @@
 <!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "Sorter etter kalendernamn">
 <!ENTITY calendar.unifinder.tree.duration.label            "Forfell om">
 <!ENTITY calendar.unifinder.tree.duration.tooltip2         "Sorter etter forfall">
-<!ENTITY calendar.unifinder.close.tooltip                  "Lukkar hendingssøk og hendingsliste">
+<!ENTITY calendar.unifinder.close.tooltip                  "Lèt att hendingssøk og hendingsliste">
 
 <!ENTITY calendar.today.button.tooltip          "Gå til «I dag»" >
 <!ENTITY calendar.todaypane.button.tooltip      "Vis «I dag»-ruta" >
