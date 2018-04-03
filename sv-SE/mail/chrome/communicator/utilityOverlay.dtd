@@ -4,55 +4,55 @@
 
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
-<!ENTITY fileMenu.label                "Arkiv">
-<!ENTITY fileMenu.accesskey            "A">
-<!ENTITY newMenu.label                 "Nytt">
-<!ENTITY newMenu.accesskey             "N">
+<!ENTITY fileMenu.label          "Arkiv">
+<!ENTITY fileMenu.accesskey        "A">
+<!ENTITY newMenu.label            "Nytt">
+<!ENTITY newMenu.accesskey          "N">
 
-<!ENTITY editMenu.label                "Redigera">
-<!ENTITY editMenu.accesskey            "R">
-<!ENTITY undoCmd.label                 "Ångra">
-<!ENTITY undoCmd.key                   "Z">
-<!ENTITY undoCmd.accesskey             "Å">
-<!ENTITY redoCmd.label                 "Gör om">
-<!ENTITY redoCmd.key                   "Y">
-<!ENTITY redoCmd.accesskey             "G">
-<!ENTITY cutCmd.label                  "Klipp ut">
-<!ENTITY cutCmd.key                    "X">
-<!ENTITY cutCmd.accesskey              "K">
-<!ENTITY copyCmd.label                 "Kopiera">
-<!ENTITY copyCmd.key                   "C">
-<!ENTITY copyCmd.accesskey             "o">
-<!ENTITY pasteCmd.label                "Klistra in">
-<!ENTITY pasteCmd.key                  "V">
-<!ENTITY pasteCmd.accesskey            "l">
-<!ENTITY deleteCmd.label               "Ta bort">
-<!ENTITY deleteCmd.accesskey           "T">
-<!ENTITY selectAllCmd.label            "Markera allt">
-<!ENTITY selectAllCmd.key              "A">
+<!ENTITY editMenu.label          "Redigera">
+<!ENTITY editMenu.accesskey        "R">
+<!ENTITY undoCmd.label            "Ångra">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "Å">
+<!ENTITY redoCmd.label            "Gör om">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "G">
+<!ENTITY cutCmd.label            "Klipp ut">
+<!ENTITY cutCmd.key              "X">
+<!ENTITY cutCmd.accesskey          "K">
+<!ENTITY copyCmd.label            "Kopiera">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "o">
+<!ENTITY pasteCmd.label            "Klistra in">
+<!ENTITY pasteCmd.key            "V">
+<!ENTITY pasteCmd.accesskey          "l">
+<!ENTITY deleteCmd.label          "Ta bort">
+<!ENTITY deleteCmd.accesskey        "T">
+<!ENTITY selectAllCmd.label          "Markera allt">
+<!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey        "M">
-<!ENTITY preferencesCmd2.label 		   "Alternativ">
-<!ENTITY preferencesCmd2.accesskey 	   "e">
-<!ENTITY preferencesCmdUnix.label      "Inställningar">
-<!ENTITY preferencesCmdUnix.accesskey  "I">
+<!ENTITY preferencesCmd2.label "Inställningar">
+<!ENTITY preferencesCmd2.accesskey "n">
+<!ENTITY preferencesCmdUnix.label       "Inställningar">
+<!ENTITY preferencesCmdUnix.accesskey     "n">
 
-<!ENTITY viewMenu.label                "Visa">
-<!ENTITY viewMenu.accesskey            "s">
+<!ENTITY viewMenu.label          "Visa">
+<!ENTITY viewMenu.accesskey        "s">
 <!ENTITY viewToolbarsMenu.label        "Verktygsfält">
-<!ENTITY viewToolbarsMenu.accesskey    "V">
+<!ENTITY viewToolbarsMenu.accesskey      "V">
 <!ENTITY showTaskbarCmd.label          "Statusfält">
-<!ENTITY showTaskbarCmd.accesskey      "S">
+<!ENTITY showTaskbarCmd.accesskey        "S">
 
 <!ENTITY closeCmd.label      "Stäng">
-<!ENTITY closeCmd.key        "W">
-<!ENTITY closeCmd.accesskey  "ä">
+<!ENTITY closeCmd.key      "W">
+<!ENTITY closeCmd.accesskey    "ä">
 
-<!ENTITY quitApplicationCmd.label      "Avsluta">
-<!ENTITY quitApplicationCmd.key        "Q">
+<!ENTITY quitApplicationCmd.label  "Avsluta">
+<!ENTITY quitApplicationCmd.key    "Q">
 <!ENTITY quitApplicationCmd.accesskey  "A">
 
-<!ENTITY quitApplicationCmdUnix.label      "Avsluta">
+<!ENTITY quitApplicationCmdUnix.label  "Avsluta">
 <!ENTITY quitApplicationCmdUnix.accesskey  "A">
 
-<!ENTITY quitApplicationCmdMac.label      "Avsluta &brandShortName;">
+<!ENTITY quitApplicationCmdMac.label  "Avsluta &brandShortName;">
 <!ENTITY quitApplicationCmdMac.accesskey  "A">
