@@ -370,3 +370,60 @@ containers-preferences-button =
     .label = 偏好設定
 containers-remove-button =
     .label = 移除
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = 例外網站…
+    .accesskey = x
+forms-master-pw-use =
+    .label = 使用主控密碼
+    .accesskey = U
+forms-master-pw-change =
+    .label = 變更主控密碼…
+    .accesskey = M
+
+## Privacy Section - History
+
+history-remember-search-option =
+    .label = 保留我的搜尋列與表單輸入的內容
+    .accesskey = f
+history-clear-on-close-option =
+    .label = 結束 { -brand-short-name } 時清除歷史記錄
+    .accesskey = r
+history-clear-on-close-settings =
+    .label = 設定…
+    .accesskey = t
+
+## Privacy Section - Site Data
+
+sitedata-cookies-exceptions =
+    .label = 例外網站…
+    .accesskey = E
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-addon-exceptions =
+    .label = 例外網站…
+    .accesskey = E
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
