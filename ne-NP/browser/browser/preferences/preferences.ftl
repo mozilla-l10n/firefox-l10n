@@ -378,9 +378,14 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = ब्राउजर गोपनीयता
 
 ## Privacy Section - Forms
 
+forms-header = फारमहरू & गोप्यशब्दहरू
+forms-remember-logins =
+    .label = वेबसाइटहरूको लागि लगइनहरू र गोप्यशब्दहरू सम्झनुहोस्
+    .accesskey = R
 forms-exceptions =
     .label = अपवादहरू...
     .accesskey = x
@@ -416,6 +421,11 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = अझ जान्नुहोस्
+sitedata-keep-until = सम्म राख्नुहोस्
+    .accesskey = u
+sitedata-accept-third-party-always-option =
+    .label = सधैँ
 sitedata-accept-third-party-visited-option =
     .label = पहिले हेरिएकोबाट
 sitedata-accept-third-party-never-option =
@@ -426,15 +436,22 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-header = ठेगानापट्टि
+addressbar-suggest = ठेगानापट्टि प्रयोग गर्दा, सुझाव दिनुहोस्
+addressbar-locbar-history-option =
+    .label = ब्राउजिङ्ग इतिहास
+    .accesskey = H
 addressbar-locbar-bookmarks-option =
     .label = पुस्तकचिनोहरू
     .accesskey = k
 addressbar-locbar-openpage-option =
     .label = ट्याबहरू खोल्नुहोस्
     .accesskey = O
+addressbar-suggestions-settings = खोज इन्जिन सुझावहरूका लागि प्राथमिकताहरू परिवर्तन गर्नुहोस्
 
 ## Privacy Section - Tracking
 
+tracking-header = ट्रयाकिङ्ग सुरक्षा
 tracking-mode-always =
     .label = सधैँ
     .accesskey = y
@@ -444,12 +461,20 @@ tracking-mode-private =
 tracking-mode-never =
     .label = कहिले पनि होइन
     .accesskey = N
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = ज्ञात ट्रयाकरहरू रोक्न निजि ब्राउजिङ्गमा ट्रयाकिङ्ग सुरक्षा प्रयोग गर्नुहोस्
+    .accesskey = v
 tracking-exceptions =
     .label = अपवादहरू...
     .accesskey = x
+tracking-change-block-list =
+    .label = ब्लक सूची परिवर्तन गर्नुहोस्…
+    .accesskey = C
 
 ## Privacy Section - Permissions
 
+permissions-header = अनुमतिहरू
 permissions-notification = सूचनाहरू
 permissions-block-popups =
     .label = पप-अप सञ्झ्यालहरूलाई अवरुद्द गर्नुहोस्
@@ -460,25 +485,47 @@ permissions-block-popups-exceptions =
 permissions-addon-exceptions =
     .label = अपवादहरू...
     .accesskey = E
+permissions-a11y-privacy-checkbox =
+    .label = पहुँच सेवाहरूलाई तपाईँको ब्राउजरमा पहुँच लिन बाट रोक्नुहोस्
+    .accesskey = a
+permissions-a11y-privacy-link = अझै जान्नुहोस्
 
 ## Privacy Section - Data Collection
 
+collection-header = { -brand-short-name } डाटा सङ्कलन र प्रयोग
+collection-description = हामी तपाईँलाई छनौटहरू प्रदान गर्न प्रयास गर्दछौँ र { -brand-short-name } सबैको लागि प्रदान र सुधार गर्न हामीलाई आवश्यक कुराहरू मात्र सङ्कलन गर्दर्छौँ । व्यक्तिगत जानकारी प्राप्त गर्नुअघि हामि अनुमतिको लागि सधैँ अनुरोध गर्दछौँ ।
+collection-privacy-notice = गोपनीयता नीति
+collection-health-report-link = अझ जान्नुहोस्
+collection-backlogged-crash-reports-link = अझ जान्नुहोस्
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-browsing-protection = भ्रामक सामग्री र खतरनाक सफ्टवेयर सुरक्षा
 security-enable-safe-browsing =
     .label = खतरनाक र भ्रामक सामग्री अबरुद्द गर्नुहोस
     .accesskey = B
 security-block-downloads =
     .label = खतरनाक डाउनलोडहरू अवरुद्ध गर्नुहोस्
     .accesskey = d
+security-block-uncommon-software =
+    .label = अवाञ्छित र असामान्य सफ्टवेयरको बारेमा तपाईँलाई चेतावनी दिनुहोस्
+    .accesskey = C
 
 ## Privacy Section - Certificates
 
 certs-header = प्रमाणपत्रहरू
+certs-select-ask-option =
+    .label = तपाईँलाई हरेक पटक सोध्नुहोस्
+    .accesskey = A
 certs-enable-ocsp =
     .label = प्रमाणपत्रको वर्तमान वैधानिकता बारे जान्न OSCP को प्रतिक्रिया दिने सर्भरहरूलाई सोध्नुहोस्
     .accesskey = Q
+certs-view =
+    .label = प्रमाणपत्रहरू हेर्नुहोस्…
+    .accesskey = C
+certs-devices =
+    .label = सुरक्षा उपकरणहरू…
+    .accesskey = D
