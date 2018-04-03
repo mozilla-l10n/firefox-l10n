@@ -314,6 +314,12 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-bookmarks-option =
+    .label = පිටු සලකුණු
+    .accesskey = k
+addressbar-locbar-openpage-option =
+    .label = ටැබ් විවෘත කරන්න
+    .accesskey = O
 
 ## Privacy Section - Tracking
 
@@ -354,6 +360,9 @@ certs-personal-label = සේවාදායකයක් වෙතින් ඔ�
 certs-select-auto-option =
     .label = එකක් ස්වයංක්‍රීයව තෝරන්න
     .accesskey = S
+certs-enable-ocsp =
+    .label = සහතිකයන්හි වත්මන් වලංගුභාවය තහවුරු කිරීම සඳහා OCSP ප්‍රතිචාර සේවාදායක විමසන්න
+    .accesskey = Q
 certs-view =
     .label = සහතික පෙන්වන්න…
     .accesskey = C
