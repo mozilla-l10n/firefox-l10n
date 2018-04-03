@@ -382,3 +382,41 @@ containers-preferences-button =
     .label = Preferências
 containers-remove-button =
     .label = Remover
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+
+## Privacy Section - History
+
+history-header = Histórico
+
+## Privacy Section - Site Data
+
+
+## Privacy Section - Address Bar
+
+addressbar-locbar-bookmarks-option =
+    .label = Marcadores
+    .accesskey = M
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
+certs-header = Certificados
