@@ -332,6 +332,7 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-health-report-link = තවත් දැනගන්න
+collection-backlogged-crash-reports-link = තවත් දැනගන්න
 
 ## Privacy Section - Security
 ##
@@ -342,3 +343,10 @@ collection-health-report-link = තවත් දැනගන්න
 ## Privacy Section - Certificates
 
 certs-header = සහතික
+certs-personal-label = සේවාදායකයක් වෙතින් ඔබේ පුද්ගලික සහතික ඉල්ලාසිටින විට
+certs-view =
+    .label = සහතික පෙන්වන්න…
+    .accesskey = C
+certs-devices =
+    .label = ආරක්ෂක උපාංග…
+    .accesskey = D
