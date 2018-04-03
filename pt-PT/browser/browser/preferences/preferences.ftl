@@ -409,10 +409,14 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Histórico
+history-remember-description = O { -brand-short-name } irá memorizar o seu histórico de navegação, transferências, formulários e pesquisa.
 history-dontremember-description = O { -brand-short-name } irá utilizar as mesmas definições da navegação privada e não irá memorizar qualquer histórico enquanto navega na Web.
 history-private-browsing-permanent =
     .label = Utilizar sempre o modo de navegação privada
     .accesskey = p
+history-remember-option =
+    .label = Memorizar o meu histórico de navegação e de transferências
+    .accesskey = h
 history-remember-search-option =
     .label = Memorizar histórico de pesquisas e de formulários
     .accesskey = f
@@ -422,16 +426,36 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Definições…
     .accesskey = e
+history-clear-button =
+    .label = Limpar histórico…
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
+sitedata-header = Cookies e dados de sites
 sitedata-learn-more = Saber mais
+sitedata-accept-cookies-option =
+    .label = Aceitar cookies e dados de sites de websites (recomendado)
+    .accesskey = A
+sitedata-block-cookies-option =
+    .label = Bloquear cookies e dados de sites (pode causar que os websites quebrem)
+    .accesskey = B
+sitedata-keep-until = Manter até
+    .accesskey = a
+sitedata-accept-third-party-desc = Aceitar cookies de terceiros e dados de sites
+    .accesskey = s
 sitedata-accept-third-party-always-option =
     .label = Sempre
 sitedata-accept-third-party-visited-option =
     .label = Dos visitados
 sitedata-accept-third-party-never-option =
     .label = Nunca
+sitedata-clear =
+    .label = Limpar dados…
+    .accesskey = L
+sitedata-settings =
+    .label = Gerir dados…
+    .accesskey = G
 sitedata-cookies-exceptions =
     .label = Exceções…
     .accesskey = E
@@ -453,6 +477,9 @@ addressbar-suggestions-settings = Alterar preferências para as sugestões dos m
 
 ## Privacy Section - Tracking
 
+tracking-header = Proteção contra monitorização
+tracking-description = A Proteção contra monitorização bloqueia trackers online que recolhem os seus dados de navegação através de múltiplos websites. <a>Saber mais acerca da Proteção contra monitorização e a sua privacidade</a>
+tracking-mode-label = Utilizar Proteção contra monitorização para bloquear trackers conhecidos
 tracking-mode-always =
     .label = Sempre
     .accesskey = r
@@ -462,6 +489,10 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Nunca
     .accesskey = N
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Utilizar Proteção contra monitorização na Navegação privada para bloquear trackers conhecidos
+    .accesskey = v
 tracking-exceptions =
     .label = Exceções…
     .accesskey = x
@@ -472,21 +503,58 @@ tracking-change-block-list =
 ## Privacy Section - Permissions
 
 permissions-header = Permissões
+permissions-location = Localização
+permissions-location-settings =
+    .label = Definições…
+    .accesskey = f
+permissions-camera = Câmara
+permissions-camera-settings =
+    .label = Definições…
+    .accesskey = f
+permissions-microphone = Microfone
+permissions-microphone-settings =
+    .label = Definições…
+    .accesskey = f
+permissions-notification = Notificações
+permissions-notification-settings =
+    .label = Definições…
+    .accesskey = n
+permissions-notification-link = Saber mais
+permissions-notification-pause =
+    .label = Pausar notificações até o { -brand-short-name } reiniciar
+    .accesskey = n
 permissions-block-popups =
     .label = Bloquear janelas pop-up
     .accesskey = B
+permissions-block-popups-exceptions =
+    .label = Exceções…
+    .accesskey = E
 permissions-addon-exceptions =
     .label = Exceções…
     .accesskey = E
+permissions-a11y-privacy-checkbox =
+    .label = Impedir os serviços de acessibilidade de aceder ao seu navegador
+    .accesskey = a
+permissions-a11y-privacy-link = Saber mais
 
 ## Privacy Section - Data Collection
 
 collection-header = Recolha de dados e utilização do { -brand-short-name }
+collection-description = Nós esforçamos-nos para lhe fornecer escolhas e recolher apenas o que precisamos para fornecer e melhorar o { -brand-short-name } para toda a gente. Pedimos sempre permissão antes de receber informação pessoal.
 collection-privacy-notice = Aviso de privacidade
+collection-health-report =
+    .label = Permitir ao { -brand-short-name } enviar dados técnicos e de interação para a { -vendor-short-name }
+    .accesskey = r
 collection-health-report-link = Saber mais
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Relato de dados está desativado para a configuração desta compilação
+collection-browser-errors =
+    .label = Permitir ao { -brand-short-name } enviar relatórios de erro do navegador (incluindo mensagens de erro) para a { -vendor-short-name }
+    .accesskey = n
+collection-backlogged-crash-reports =
+    .label = Permitir ao { -brand-short-name } enviar relatórios de falha pendentes em seu nome
+    .accesskey = f
 collection-backlogged-crash-reports-link = Saber mais
 
 ## Privacy Section - Security
@@ -495,9 +563,14 @@ collection-backlogged-crash-reports-link = Saber mais
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Segurança
+security-browsing-protection = Conteúdo decetivo e proteção contra software perigoso
 security-enable-safe-browsing =
     .label = Bloquear conteúdo perigoso e decetivo
     .accesskey = B
+security-enable-safe-browsing-link = Saber mais
+security-block-downloads =
+    .label = Bloquear transferências perigosas
+    .accesskey = t
 security-block-uncommon-software =
     .label = Avisar-lhe acerca de software não-solicitado e incomum
     .accesskey = c
@@ -509,6 +582,9 @@ certs-personal-label = Quando um servidor solicitar o seu certificado pessoal
 certs-select-auto-option =
     .label = Selecionar um automaticamente
     .accesskey = S
+certs-select-ask-option =
+    .label = Perguntar-lhe sempre
+    .accesskey = A
 certs-enable-ocsp =
     .label = Consultar os servidores de resposta OCSP para confirmar a validade de certificados
     .accesskey = O
