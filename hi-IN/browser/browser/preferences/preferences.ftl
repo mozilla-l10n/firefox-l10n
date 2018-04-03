@@ -407,6 +407,8 @@ history-private-browsing-permanent =
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-visited-option =
+    .label = भ्रमण किए हुए से
 sitedata-cookies-exceptions =
     .label = अपवाद…
     .accesskey = E
@@ -431,3 +433,4 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Certificates
 
+certs-header = प्रमाणपत्र
