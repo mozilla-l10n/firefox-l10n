@@ -356,3 +356,101 @@ containers-preferences-button =
     .label = Preferoj
 containers-remove-button =
     .label = Forigi
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = Esceptoj…
+    .accesskey = c
+forms-saved-logins =
+    .label = Konservitaj akreditiloj…
+    .accesskey = a
+forms-master-pw-use =
+    .label = Uzi ĉefan pasvorton
+    .accesskey = U
+forms-master-pw-change =
+    .label = Ŝanĝi ĉefan pasvorton…
+    .accesskey = v
+
+## Privacy Section - History
+
+history-header = Historio
+history-remember-search-option =
+    .label = Memori historion de serĉadoj kaj formularoj
+    .accesskey = s
+history-clear-on-close-settings =
+    .label = Agordoj…
+    .accesskey = g
+
+## Privacy Section - Site Data
+
+sitedata-learn-more = Pli da informo
+sitedata-accept-third-party-always-option =
+    .label = Ĉiam
+sitedata-accept-third-party-never-option =
+    .label = Neniam
+sitedata-cookies-exceptions =
+    .label = Esceptoj…
+    .accesskey = t
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+tracking-mode-always =
+    .label = Ĉiam
+    .accesskey = m
+tracking-mode-private =
+    .label = Nur en privataj fenestroj
+    .accesskey = p
+tracking-mode-never =
+    .label = Neniam
+    .accesskey = N
+tracking-exceptions =
+    .label = Esceptoj…
+    .accesskey = E
+
+## Privacy Section - Permissions
+
+permissions-block-popups =
+    .label = Bloki ŝprucfenestrojn
+    .accesskey = B
+permissions-addon-exceptions =
+    .label = Esceptoj…
+    .accesskey = E
+
+## Privacy Section - Data Collection
+
+collection-health-report-link = Pli da informo
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+security-enable-safe-browsing =
+    .label = Bloki danĝeran aŭ trompan enhavon
+    .accesskey = B
+security-block-downloads =
+    .label = Bloki danĝerajn elŝutojn
+    .accesskey = d
+security-block-uncommon-software =
+    .label = Averti min pri evitendaj kaj maloftaj programoj
+    .accesskey = p
+
+## Privacy Section - Certificates
+
+certs-header = Atestiloj
+certs-select-auto-option =
+    .label = Aŭtomate elekti unu
+    .accesskey = A
+certs-select-ask-option =
+    .label = Demandi ĉiufoje
+    .accesskey = D
+certs-enable-ocsp =
+    .label = Peti al OCSP respondaj serviloj konfirmon pri la nuna valideco de atestiloj
+    .accesskey = P
