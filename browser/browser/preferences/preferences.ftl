@@ -301,6 +301,7 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = තවත් දැනගන්න
 sitedata-accept-third-party-always-option =
     .label = සැමවිටම
 sitedata-accept-third-party-visited-option =
@@ -316,6 +317,12 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Tracking
 
+tracking-mode-always =
+    .label = සැමවිටම
+    .accesskey = y
+tracking-mode-never =
+    .label = කිසිදාක නැත
+    .accesskey = n
 
 ## Privacy Section - Permissions
 
@@ -344,6 +351,9 @@ collection-backlogged-crash-reports-link = තවත් දැනගන්න
 
 certs-header = සහතික
 certs-personal-label = සේවාදායකයක් වෙතින් ඔබේ පුද්ගලික සහතික ඉල්ලාසිටින විට
+certs-select-auto-option =
+    .label = එකක් ස්වයංක්‍රීයව තෝරන්න
+    .accesskey = S
 certs-view =
     .label = සහතික පෙන්වන්න…
     .accesskey = C
