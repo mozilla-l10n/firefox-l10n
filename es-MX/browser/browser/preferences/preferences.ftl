@@ -471,6 +471,7 @@ addressbar-locbar-openpage-option =
 
 ## Privacy Section - Tracking
 
+tracking-header = Protección contra rastreo
 tracking-description = Protección de rastreo bloquea a los rastreadores en línea que recolecta tus datos de navegación a través de múltiples sitios web. <a>Saber más acerca de la protección de rastreo y tu privacidad</a>
 tracking-mode-label = Usar protección de rastreo para bloquear rastreadores conocidos
 tracking-mode-always =
