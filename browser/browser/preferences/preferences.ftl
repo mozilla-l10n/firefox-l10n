@@ -271,3 +271,70 @@ containers-header = Konteksoortjies
 containers-add-button =
     .label = Voeg nuwe konteks by
     .accesskey = V
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = Uitsonderings…
+    .accesskey = U
+forms-master-pw-use =
+    .label = Gebruik 'n meesterwagwoord
+    .accesskey = G
+forms-master-pw-change =
+    .label = Wysig meesterwagwoord…
+    .accesskey = m
+
+## Privacy Section - History
+
+history-dontremember-description = { -brand-short-name } gebruik dieselfde instellings as private blaaiery en sal nie enige geskiedenis onthou wanneer u die web besoek nie.
+history-private-browsing-permanent =
+    .label = Gebruik altyd privaatblaai-modus
+    .accesskey = p
+history-remember-option =
+    .label = Onthou my blaai- en aflaaigeskiedenis
+    .accesskey = b
+history-remember-search-option =
+    .label = Onthou soek- en vormgeskiedenis
+    .accesskey = v
+history-clear-on-close-option =
+    .label = Wis geskiedenis wanneer { -brand-short-name } toemaak
+    .accesskey = r
+history-clear-on-close-settings =
+    .label = Opstelling…
+    .accesskey = t
+
+## Privacy Section - Site Data
+
+sitedata-cookies-exceptions =
+    .label = Uitsonderings…
+    .accesskey = U
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-block-popups =
+    .label = Blokkeer opspringers
+    .accesskey = B
+permissions-addon-exceptions =
+    .label = Uitsonderings…
+    .accesskey = U
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
