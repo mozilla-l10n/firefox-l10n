@@ -387,6 +387,9 @@ history-private-browsing-permanent =
 history-remember-option =
     .label = Recorda el meu historial de navegació i baixades
     .accesskey = b
+history-remember-search-option =
+    .label = Recorda l'historial de cerca i formularis
+    .accesskey = m
 history-clear-on-close-option =
     .label = Neteja l'historial quan es tanqui el { -brand-short-name }
     .accesskey = q
@@ -396,6 +399,10 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-visited-option =
+    .label = De llocs visitats
+sitedata-accept-third-party-never-option =
+    .label = Mai
 sitedata-cookies-exceptions =
     .label = Excepcions…
     .accesskey = E
@@ -426,3 +433,7 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Certificates
 
+certs-header = Certificats
+certs-enable-ocsp =
+    .label = Consulta els servidors de resposta OCSP per confirmar la validesa actual dels certificats
+    .accesskey = C
