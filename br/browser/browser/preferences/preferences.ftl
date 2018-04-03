@@ -383,9 +383,14 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = Prevezted ar merdeer
 
 ## Privacy Section - Forms
 
+forms-header = Furmskridoù & Gerioù-tremen
+forms-remember-logins =
+    .label = Derc'hel soñj eus an titouroù kennaskañ evit al lec'hiennoù
+    .accesskey = D
 forms-exceptions =
     .label = Nemedennoù…
     .accesskey = m
@@ -421,6 +426,11 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = Gouzout hiroc'h
+sitedata-keep-until = Mirout betek
+    .accesskey = M
+sitedata-accept-third-party-always-option =
+    .label = Atav
 sitedata-accept-third-party-visited-option =
     .label = Adalek lec'hiennoù gweladennet
 sitedata-accept-third-party-never-option =
@@ -431,12 +441,18 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Barrenn chomlec'hioù
+addressbar-suggest = Pa ran gant ar varrenn chomlec'hioù, aliañ
+addressbar-locbar-history-option =
+    .label = Roll istor merdeiñ
+    .accesskey = R
 addressbar-locbar-bookmarks-option =
     .label = Sinedoù
     .accesskey = S
 addressbar-locbar-openpage-option =
     .label = Digeriñ ivinelloù
     .accesskey = D
+addressbar-suggestions-settings = Kemmañ ar gwellvezioù evit ar c'hinnigoù luskerioù enklask
 
 ## Privacy Section - Tracking
 
@@ -450,31 +466,71 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Morse
     .accesskey = M
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Arverañ ar gwarez heuliañ er merdeiñ prevez evit stankañ an heulierien anavezet
+    .accesskey = A
 tracking-exceptions =
     .label = Nemedennoù…
     .accesskey = N
+tracking-change-block-list =
+    .label = Kemmañ ar roll stankañ…
+    .accesskey = K
 
 ## Privacy Section - Permissions
 
+permissions-header = Aotreoù
+permissions-location = Lec'hiadur
+permissions-location-settings =
+    .label = Arventennoù…
+    .accesskey = r
+permissions-camera = Kamera
+permissions-camera-settings =
+    .label = Arventennoù…
+    .accesskey = r
+permissions-microphone = Mikro
+permissions-microphone-settings =
+    .label = Arventennoù…
+    .accesskey = r
 permissions-notification = Rebuzadurioù
+permissions-notification-settings =
+    .label = Arventennoù…
+    .accesskey = r
+permissions-notification-link = Gouzout hiroc'h
 permissions-block-popups =
     .label = Herzel an diflugelloù
     .accesskey = H
 permissions-block-popups-exceptions =
     .label = Nemedennoù
     .accesskey = N
+permissions-addon-install-warning =
+    .label = Ho kelaouiñ pa glask ul lec'hienn staliañ askouezhioù
+    .accesskey = H
 permissions-addon-exceptions =
     .label = Nemedennoù
     .accesskey = N
+permissions-a11y-privacy-checkbox =
+    .label = Miret ar gwazerezhioù haezadusted da haeziñ ho merdeer
+    .accesskey = g
+permissions-a11y-privacy-link = Gouzout hiroc'h
 
 ## Privacy Section - Data Collection
 
+collection-header = Dastumadeg roadennoù { -brand-short-name } hag arver
+collection-description = Strivañ a reomp evit kinnig deoc'h dibaboù ha dastum ar pep ret nemetken da wellaat { -brand-short-name } evit an holl. Goulenn a reomp atav an aotre a-raok degemer titouroù personel.
+collection-privacy-notice = Evezhiadennoù a-fet buhez prevez
+collection-health-report-link = Gouzout hiroc'h
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Diweredekaet eo an danevelliñ roadennoù evit kefluniadur ar c'hempunadur-mañ
+collection-backlogged-crash-reports-link = Gouzout hiroc'h
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Diogelroez
 security-enable-safe-browsing =
     .label = Stankañ endalc'hadoù arvarus pe touellus
     .accesskey = S
@@ -488,6 +544,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Testenioù
+certs-personal-label = Pa vez goulennet ho testeni personel gant un dafariad
 certs-select-auto-option =
     .label = Diuz unan ent emgefreek
     .accesskey = D
@@ -497,3 +554,9 @@ certs-select-ask-option =
 certs-enable-ocsp =
     .label = Goulenn kadarnaat talvoudegezh an testenioù gant an dafariadoù OCSP
     .accesskey = G
+certs-view =
+    .label = Gwelout an testenioù…
+    .accesskey = G
+certs-devices =
+    .label = Trevnadoù diogelroez…
+    .accesskey = T
