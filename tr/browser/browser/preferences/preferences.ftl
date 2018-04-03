@@ -396,6 +396,12 @@ forms-remember-logins =
 forms-exceptions =
     .label = İstisnalar…
     .accesskey = s
+forms-saved-logins =
+    .label = Kayıtlı hesaplar…
+    .accesskey = K
+forms-master-pw-use =
+    .label = Ana parola kullan
+    .accesskey = n
 forms-master-pw-change =
     .label = Ana parolayı değiştir…
     .accesskey = d
@@ -404,12 +410,19 @@ forms-master-pw-change =
 
 history-header = Geçmiş
 history-remember-description = { -brand-short-name } gezinti, indirme, form ve arama geçmişlerinizi hatırlayacak.
+history-dontremember-description = { -brand-short-name } Gizli Gezinti ile aynı ayarları kullanacak ve siz internette gezerken geçmişle ilgili hiçbir şeyi hatırlamayacak.
+history-private-browsing-permanent =
+    .label = Her zaman gizli gezinti kipini kullan
+    .accesskey = m
 history-remember-option =
     .label = Gezinti ve indirme geçmişimi hatırla
     .accesskey = h
 history-remember-search-option =
     .label = Arama ve form geçmişini hatırla
     .accesskey = f
+history-clear-on-close-option =
+    .label = { -brand-short-name } kapatılınca geçmişi temizle
+    .accesskey = e
 history-clear-on-close-settings =
     .label = Ayarlar…
     .accesskey = A
@@ -443,6 +456,9 @@ sitedata-clear =
 sitedata-settings =
     .label = Verileri yönet…
     .accesskey = V
+sitedata-cookies-exceptions =
+    .label = İstisnalar…
+    .accesskey = r
 
 ## Privacy Section - Address Bar
 
@@ -451,6 +467,12 @@ addressbar-suggest = Adres çubuğunu kullanırken şunları öner:
 addressbar-locbar-history-option =
     .label = Gezinti geçmişi
     .accesskey = G
+addressbar-locbar-bookmarks-option =
+    .label = Yer imleri
+    .accesskey = Y
+addressbar-locbar-openpage-option =
+    .label = Açık sekmeler
+    .accesskey = s
 addressbar-suggestions-settings = Arama motoru önerileri için tercihleri değiştir
 
 ## Privacy Section - Tracking
@@ -458,10 +480,22 @@ addressbar-suggestions-settings = Arama motoru önerileri için tercihleri deği
 tracking-header = İzlenme Koruması
 tracking-description = İzlenme Koruması, siz siteler arasında gezinirken hakkınızda veri toplayan çevrimiçi takipçileri engeller. <a>İzlenme Koruması ve gizliliğiniz hakkında daha fazla bilgi alın</a>
 tracking-mode-label = Bilinen takipçileri engellemek için İzlenme Koruması’nı kullan
+tracking-mode-always =
+    .label = Her zaman
+    .accesskey = H
+tracking-mode-private =
+    .label = Yalnızca gizli pencerelerde
+    .accesskey = z
+tracking-mode-never =
+    .label = Asla
+    .accesskey = A
 # This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
 # This currently happens on the release and beta channel.
 tracking-pbm-label = Gizli Gezinti’de bilinen takipçileri engellemek için İzlenme Koruması’nı kullan
     .accesskey = G
+tracking-exceptions =
+    .label = İstisnalar…
+    .accesskey = r
 tracking-change-block-list =
     .label = Engelleme listesini değiştir…
     .accesskey = E
@@ -485,6 +519,9 @@ permissions-notification-settings =
 permissions-notification-pause =
     .label = { -brand-short-name } yeniden başlatılana dek bildirimleri duraklat
     .accesskey = b
+permissions-block-popups =
+    .label = Açılır pencereleri engelle
+    .accesskey = n
 permissions-addon-install-warning =
     .label = Siteler eklenti yüklemeye çalıştığında beni uyar
     .accesskey = u
@@ -504,6 +541,7 @@ collection-privacy-notice = Gizlilik bildirimi
 collection-health-report =
     .label = { -brand-short-name }, teknik ve etkileşim verilerimi { -vendor-short-name }’ya gönderebilir
     .accesskey = r
+collection-health-report-link = Daha fazla bilgi al
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Bu yapılandırma için veri raporlama devre dışı bırakılmış
@@ -523,7 +561,13 @@ collection-backlogged-crash-reports-link = Daha fazla bilgi al
 
 security-header = Güvenlik
 security-browsing-protection = Aldatıcı içerik ve tehlikeli yazılım koruması
+security-enable-safe-browsing =
+    .label = Tehlikeli ve aldatıcı içerikleri engelle
+    .accesskey = T
 security-enable-safe-browsing-link = Daha fazla bilgi al
+security-block-downloads =
+    .label = Tehlikeli indirmeleri engelle
+    .accesskey = i
 security-block-uncommon-software =
     .label = İstenmeyen ve bilinmeyen yazılımlar hakkında beni uyar
     .accesskey = b
@@ -532,9 +576,15 @@ security-block-uncommon-software =
 
 certs-header = Sertifikalar
 certs-personal-label = Bir sunucu kişisel sertifikamı istediğinde
+certs-select-auto-option =
+    .label = Birini kendiliğinden seç
+    .accesskey = B
 certs-select-ask-option =
     .label = Her seferinde bana sor
     .accesskey = H
+certs-enable-ocsp =
+    .label = Sertifikaların geçerliliğini doğrulamak için OCSP otomatik yanıt sunucularını sorgula
+    .accesskey = d
 certs-view =
     .label = Sertifikaları göster…
     .accesskey = ö
