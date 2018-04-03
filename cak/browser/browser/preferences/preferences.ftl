@@ -405,6 +405,7 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Natab'äl
+history-remember-description = { -brand-short-name } Xtunataj awokem pa k'amaya'l, qasanïk, nojwuj chuqa' runatab'al kanoxïk.
 history-dontremember-description = { -brand-short-name } xtrokisaj ri junam runuk'ulem achi'el pa ichinan okem pa k'amaya'l, chuqa' man xkerunataj ta ri taq rutzij natab'äl toq tajin nok pa ajk'amaya'l.
 history-private-browsing-permanent =
     .label = Junelïk tokisäx pa rub'eyal ichinan okem pa k'amaya'l
@@ -421,18 +422,36 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Nuk'ulem…
     .accesskey = N
+history-clear-button =
+    .label = Tiyuj el ri Natab'äl…
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
+sitedata-header = Taq Kaxlanwey chuqa' Rutzij K'amaya'l
 sitedata-learn-more = Tetamäx ch'aqa' chik
+sitedata-accept-cookies-option =
+    .label = Kek'ul taq kaxlanwey chuqa' kitzij ruxaq kichin ajk'amaya'l taq ruxaq (chilab'en)
+    .accesskey = K
+sitedata-block-cookies-option =
+    .label = Keq'at taq kaxlanewy chuqa' kitzij ruxaq (nitikïr nub'än chi yek'ojpïx ri ajk'amya'l taq ruxaq)
+    .accesskey = K
 sitedata-keep-until = Tik'oje' k'a
     .accesskey = s
+sitedata-accept-third-party-desc = Kek'ul konojel ri taq kaxlanwey kichin aj rox winäq chuqa' taq ruxaq tzij
+    .accesskey = y
 sitedata-accept-third-party-always-option =
     .label = Junelïk
 sitedata-accept-third-party-visited-option =
     .label = Etz'eton
 sitedata-accept-third-party-never-option =
     .label = Majub'ey
+sitedata-clear =
+    .label = Tijosq'ïx Tzij…
+    .accesskey = j
+sitedata-settings =
+    .label = Kenuk'samajïx Tzij…
+    .accesskey = K
 sitedata-cookies-exceptions =
     .label = Taq man relik ta…
     .accesskey = r
@@ -455,6 +474,8 @@ addressbar-suggestions-settings = Kek'ex ri taq kajowab'al ri taq kichilab'enik 
 ## Privacy Section - Tracking
 
 tracking-header = Chajinïk chuwäch Ojqanïk
+tracking-description = Ri Chajinïk chuwäch Ojqanem yeruq'ät ri rukanonela' k'amaya'l, ri yemolon taq atzij chi rij ri awokem pa jalajöj taq ruxaq k'amaya'l. <a>Tisik'ïx ch'aqa' chik chi rij ri Chajinïk chuwäch Ojqanem chuqa' chi rij ri richinanem</a>
+tracking-mode-label = Tokisäx ri Chajinïk chuwäch Ojqanïk richin yeq'at ri kanonela' etaman kiwäch
 tracking-mode-always =
     .label = Junelïk
     .accesskey = e
@@ -495,6 +516,9 @@ permissions-notification-settings =
     .label = Taq nuk'ulem…
     .accesskey = r
 permissions-notification-link = Tetamäx ch'aqa' chik
+permissions-notification-pause =
+    .label = Keqa't ri taq rutzijol k'a toq ri { -brand-short-name } titikïr chik
+    .accesskey = r
 permissions-block-popups =
     .label = Keq'at elenel taq tzuwäch
     .accesskey = K
@@ -507,16 +531,30 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Taq man relik ta…
     .accesskey = r
+permissions-a11y-privacy-checkbox =
+    .label = Tichajïx chi ri okem taq samaj ke'ok pan awokik'amaya'l
+    .accesskey = a
+permissions-a11y-privacy-link = Tetamäx ch'aqa' chik
 
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } Kimolik chuqa' Kokisaxik taq Tzij
 collection-description = Niqatïj qaq'ij richin yeqasüj taq cha'oj chawe chuqa' yeqamöl xa xe ri niqajo' niqaq'axaj chawe chuqa' ri niqutzilaj { -brand-short-name } kichin konojel. Junelïk naqak'utuj qij chuwäch niqak'ül ri awetamab'al.
 collection-privacy-notice = Rutzijol Ichinanem
+collection-health-report =
+    .label = Tiya' q'ij chi re { -brand-short-name } richin nitaq etamatel taq tzij chuqa' jutzijonem chi re ri { -vendor-short-name }
+    .accesskey = r
 collection-health-report-link = Tetamäx ch'aqa' chik
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Chupül ri kitzijol taq tzij richin nib'an kinuk'ulem re taq alk'walaxinem re'
+collection-browser-errors =
+    .label = Tiya' q'ij chi re { -brand-short-name } chi kerutäq kitzijol kisamaj kisachoj okik'amaya'l (chuqa' kitzijol sachoj) chi re { -vendor-short-name }
+    .accesskey = b
+collection-browser-errors-link = Tetamäx ch'aqa' chik
+collection-backlogged-crash-reports =
+    .label = Tiya' q'ij chi re { -brand-short-name } nutäq e'oyob'en kitzijol sachoj pan ab'i'
+    .accesskey = c
 collection-backlogged-crash-reports-link = Tetamäx ch'aqa' chik
 
 ## Privacy Section - Security
@@ -525,9 +563,11 @@ collection-backlogged-crash-reports-link = Tetamäx ch'aqa' chik
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Jikomal
+security-browsing-protection = Q'olonel Rupam chuqa' Itzel Ruchajixik Kema'
 security-enable-safe-browsing =
     .label = Keq'at k'ayew chuqa' q'olonel rupam
     .accesskey = K
+security-enable-safe-browsing-link = Tetamäx ch'aqa' chik
 security-block-downloads =
     .label = Keq'at k'ayew taq qasanïk
     .accesskey = k
