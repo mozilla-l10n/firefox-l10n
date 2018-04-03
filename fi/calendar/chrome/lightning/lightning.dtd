@@ -59,6 +59,7 @@
 <!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Hylkää tapahtumakutsu">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Hylkää kaikki">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Hylkää tapahtumakutsu koskien kaikkia tapahtuman tapauksia">
+<!ENTITY lightning.imipbar.btnDeclineCounter.label                          "Hylkää">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Poista">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Poista kalenterista">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Lisätiedot…">
