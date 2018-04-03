@@ -17,6 +17,9 @@ close-button =
 ## Browser Restart Dialog
 
 
+## Preferences UI Search Results
+
+
 ## General Section
 
 tabs-group-header = Emathebhu
@@ -43,3 +46,50 @@ browsing-use-smooth-scrolling =
 
 ## General Section - Proxy
 
+
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+
+## Search Section
+
+
+## Containers Section
+
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+
+## Privacy Section - History
+
+history-header = Umlandvo
+
+## Privacy Section - Site Data
+
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
+certs-header = Titifiketi
