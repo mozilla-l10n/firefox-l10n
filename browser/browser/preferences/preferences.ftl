@@ -287,3 +287,53 @@ containers-header = Iithebhu Zekhonteyina
 containers-add-button =
     .label = Yongeza iKhonteyina eNtsha
     .accesskey = Y
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-master-pw-use =
+    .label = Sebenzisa iphaswedi eyimasta
+    .accesskey = S
+forms-master-pw-change =
+    .label = Guqula iPhaswedi eyiMasta…
+    .accesskey = P
+
+## Privacy Section - History
+
+history-private-browsing-permanent =
+    .label = Soloko usebenzisa imo yokubhrawuza yangasese
+    .accesskey = o
+history-clear-on-close-settings =
+    .label = Imimiselo…
+    .accesskey = m
+
+## Privacy Section - Site Data
+
+sitedata-accept-third-party-never-option =
+    .label = Ungaze
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-addon-exceptions =
+    .label = Izinxaxhi…
+    .accesskey = I
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
