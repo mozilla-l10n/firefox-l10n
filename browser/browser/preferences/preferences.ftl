@@ -388,6 +388,9 @@ privacy-header = Прыватнасць браўзера
 ## Privacy Section - Forms
 
 forms-header = Формы & паролі
+forms-remember-logins =
+    .label = Запамінаць лагіны і паролі для вэб-сайтаў
+    .accesskey = З
 forms-exceptions =
     .label = Выключэнні…
     .accesskey = ы
@@ -421,25 +424,47 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Налады…
     .accesskey = Н
+history-clear-button =
+    .label = Ачысціць гісторыю…
+    .accesskey = с
 
 ## Privacy Section - Site Data
 
+sitedata-header = Кукі і дадзеныя сайтаў
 sitedata-learn-more = Даведацца больш
 sitedata-accept-cookies-option =
     .label = Прымаць кукі і дадзеныя з вэб-сайтаў (рэкамендуецца)
     .accesskey = П
+sitedata-block-cookies-option =
+    .label = Блакаваць кукі і дадзеныя з сайтаў (можа прывесці да памылак адлюстравання вэб-сайта)
+    .accesskey = Б
+sitedata-keep-until = Трымаць пакуль
+    .accesskey = п
+sitedata-accept-third-party-desc = Прымаць кукі і дадзеныя з пабочных сайтаў
+    .accesskey = ы
 sitedata-accept-third-party-always-option =
     .label = заўсёды
 sitedata-accept-third-party-visited-option =
     .label = з наведаных
 sitedata-accept-third-party-never-option =
     .label = ніколі
+sitedata-clear =
+    .label = Выдаліць дадзеныя…
+    .accesskey = ы
+sitedata-settings =
+    .label = Кіраваць дадзенымі…
+    .accesskey = К
 sitedata-cookies-exceptions =
     .label = Выключэнні…
     .accesskey = В
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Адрасны радок
+addressbar-suggest = Пры выкарыстанні адраснага радка, прапаноўваць
+addressbar-locbar-history-option =
+    .label = Гісторыя аглядання
+    .accesskey = Г
 addressbar-locbar-bookmarks-option =
     .label = Закладкі
     .accesskey = л
@@ -469,22 +494,69 @@ tracking-pbm-label = Блакіраваць вядомыя элементы са
 tracking-exceptions =
     .label = Выключэнні…
     .accesskey = ч
+tracking-change-block-list =
+    .label = Змяніць спіс блакавання…
+    .accesskey = З
 
 ## Privacy Section - Permissions
 
+permissions-header = Дазволы
+permissions-location = Месцазнаходжанне
+permissions-location-settings =
+    .label = Налады…
+    .accesskey = а
+permissions-camera = Камера
+permissions-camera-settings =
+    .label = Налады…
+    .accesskey = а
+permissions-microphone = Мікрафон
+permissions-microphone-settings =
+    .label = Налады…
+    .accesskey = а
+permissions-notification = Апавяшчэнні
+permissions-notification-settings =
+    .label = Налады…
+    .accesskey = а
+permissions-notification-link = Падрабязней
+permissions-notification-pause =
+    .label = Прыпыніць апавяшчэнні да перазапуску { -brand-short-name }
+    .accesskey = а
 permissions-block-popups =
     .label = Блакаваць выплыўныя вокны
     .accesskey = Б
+permissions-block-popups-exceptions =
+    .label = Выключэнні…
+    .accesskey = В
+permissions-addon-install-warning =
+    .label = Папярэджваць пры спробе вэб-сайтаў усталяваць дадаткі
+    .accesskey = П
 permissions-addon-exceptions =
     .label = Выключэнні…
     .accesskey = В
+permissions-a11y-privacy-checkbox =
+    .label = Забараніць сэрвісам даступнасці доступ з вашага браўзера
+    .accesskey = а
+permissions-a11y-privacy-link = Падрабязней
 
 ## Privacy Section - Data Collection
 
+collection-header = Збор і выкарыстанне звестак { -brand-short-name }
+collection-description = Мы імкнёмся даць вам выбар і збіраць толькі тое, што патрэбна для ўсіх для выпуску і паляпшэння { -brand-short-name }. Мы заўсёды пытаемся дазволу, перш чым атрымаць асабістую інфармацыю.
+collection-privacy-notice = Паведамленне аб прыватнасці
 collection-health-report =
     .label = Дазволіць { -brand-short-name } адпраўляць тэхнічныя звесткі і звесткі ўзаемадзеяння ў { -vendor-short-name }
     .accesskey = к
 collection-health-report-link = Даведацца больш
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Адпраўка дадзеных адключана для гэтай канфігурацыі зборкі
+collection-browser-errors =
+    .label = Дазволіць { -brand-short-name } адпраўляць справаздачы аб памылках браўзера (уключаючы паведамленні пра памылкі) у { -vendor-short-name }
+    .accesskey = б
+collection-browser-errors-link = Падрабязней
+collection-backlogged-crash-reports =
+    .label = Дазволіць { -brand-short-name } адпраўляць назапашаныя справаздачы аб памылках ад вашага імя
+    .accesskey = а
 collection-backlogged-crash-reports-link = Даведацца больш
 
 ## Privacy Section - Security
@@ -518,3 +590,9 @@ certs-select-ask-option =
 certs-enable-ocsp =
     .label = Звяртацца да сервера OCSP за пацверджаннем дзейснасці сертыфікатаў
     .accesskey = З
+certs-view =
+    .label = Паказаць сертыфікаты…
+    .accesskey = с
+certs-devices =
+    .label = Прылады бяспекі…
+    .accesskey = б
