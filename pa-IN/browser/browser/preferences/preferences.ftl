@@ -383,6 +383,9 @@ history-remember-search-option =
 history-clear-on-close-option =
     .label = ਜਦੋਂ { -brand-short-name } ਬੰਦ ਹੋਵੇ ਤਾਂ ਅਤੀਤ ਨੂੰ ਸਾਫ਼ ਕਰੋ
     .accesskey = w
+history-clear-on-close-settings =
+    .label = …ਸੈਟਿੰਗਾਂ
+    .accesskey = t
 
 ## Privacy Section - Site Data
 
