@@ -360,9 +360,19 @@ containers-remove-button =
 
 ## Privacy Section - Forms
 
+forms-exceptions =
+    .label = 예외 목록…
+    .accesskey = x
+forms-master-pw-use =
+    .label = 정보 보호을 위해 기본 암호 사용
+    .accesskey = U
+forms-master-pw-change =
+    .label = 기본 암호 변경…
+    .accesskey = M
 
 ## Privacy Section - History
 
+history-header = 방문 기록
 history-dontremember-description = { -brand-short-name }는 사생활 보호 모드와 같은 설정을 가지며 웹 사이트 방문 중 어떤 기록도 저장하지 않습니다.
 history-private-browsing-permanent =
     .label = 사생활 보호 모드로만 이용
@@ -389,6 +399,9 @@ sitedata-accept-third-party-visited-option =
     .label = 방문한 곳만
 sitedata-accept-third-party-never-option =
     .label = 허용 안함
+sitedata-cookies-exceptions =
+    .label = 예외 목록…
+    .accesskey = E
 
 ## Privacy Section - Address Bar
 
@@ -416,6 +429,9 @@ permissions-block-popups =
 permissions-block-popups-exceptions =
     .label = 예외 목록…
     .accesskey = E
+permissions-addon-exceptions =
+    .label = 예외 목록…
+    .accesskey = E
 permissions-a11y-privacy-link = 더 알아보기
 
 ## Privacy Section - Data Collection
@@ -431,3 +447,6 @@ collection-health-report-link = 더 알아보기
 ## Privacy Section - Certificates
 
 certs-header = 인증서
+certs-enable-ocsp =
+    .label = OCSP서버를 통해 인증서 유효성 실시간 확인
+    .accesskey = Q
