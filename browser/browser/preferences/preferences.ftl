@@ -385,9 +385,14 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = Selaimen tietosuoja
 
 ## Privacy Section - Forms
 
+forms-header = Lomakkeet ja salasanat
+forms-remember-logins =
+    .label = Tallenna kirjautumistiedot
+    .accesskey = T
 forms-exceptions =
     .label = Poikkeukset…
     .accesskey = e
@@ -404,6 +409,7 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Historiatiedot
+history-remember-description = { -brand-short-name } kerää ja säilyttää selaus-, lataus-, lomake- ja hakuhistorian.
 history-dontremember-description = { -brand-short-name } toimii aina kuten yksityisessä selaustilassa, eikä säilytä mitään historiatietoja.
 history-private-browsing-permanent =
     .label = Selaa aina yksityinen selaus -tilassa
@@ -420,47 +426,175 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Asetukset…
     .accesskey = u
+history-clear-button =
+    .label = Tyhjennä historia…
+    .accesskey = T
 
 ## Privacy Section - Site Data
 
+sitedata-header = Evästeet ja sivustojen tallentamat tiedot
+sitedata-learn-more = Lue lisää
+sitedata-accept-cookies-option =
+    .label = Hyväksy evästeet ja sivustojen tallentamat tiedot sivustoilta (suositus)
+    .accesskey = H
+sitedata-block-cookies-option =
+    .label = Estä evästeet ja sivustojen tallentamat tiedot (voi aiheuttaa sivustojen toimimattomuutta)
+    .accesskey = E
+sitedata-keep-until = Säilytä evästeet
+    .accesskey = t
+sitedata-accept-third-party-desc = Hyväksy kolmannen osapuolen evästeet ja sivustojen tallentamat tiedot
+    .accesskey = k
 sitedata-accept-third-party-always-option =
     .label = Aina
 sitedata-accept-third-party-visited-option =
     .label = Vierailluilta sivustoilta
 sitedata-accept-third-party-never-option =
     .label = Ei milloinkaan
+sitedata-clear =
+    .label = Tyhjennä tiedot…
+    .accesskey = y
+sitedata-settings =
+    .label = Hallitse tietoja…
+    .accesskey = H
 sitedata-cookies-exceptions =
     .label = Poikkeukset…
     .accesskey = P
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Osoitepalkki
+addressbar-suggest = Ehdota osoitepalkissa sivuja
+addressbar-locbar-history-option =
+    .label = selaushistoriasta
+    .accesskey = h
+addressbar-locbar-bookmarks-option =
+    .label = kirjanmerkeistä
+    .accesskey = k
+addressbar-locbar-openpage-option =
+    .label = avoimista välilehdistä
+    .accesskey = a
+addressbar-suggestions-settings = Muuta hakukoneiden ehdotusten asetuksia
 
 ## Privacy Section - Tracking
 
+tracking-header = Seurannan suojaus
+tracking-description = Seurannan suojaus estää verkossa toimivia seurantamenetelmiä, jotka keräävät tietoja selaamisestasi yli sivustorajojen. <a>Lue lisää seurannan suojauksesta ja tietosuojastasi</a>
+tracking-mode-label = Käytä seurannan suojausta estämään tunnettuja seurantamenetelmiä
+tracking-mode-always =
+    .label = Aina
+    .accesskey = n
+tracking-mode-private =
+    .label = Vain yksityisen selaamisen ikkunoissa
+    .accesskey = V
+tracking-mode-never =
+    .label = Ei koskaan
+    .accesskey = E
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Käytä seurannan suojausta yksityisessä selauksessa estämään tunnettuja seurantamenetelmiä
+    .accesskey = m
+tracking-exceptions =
+    .label = Poikkeukset…
+    .accesskey = P
+tracking-change-block-list =
+    .label = Muuta estolistaa…
+    .accesskey = M
 
 ## Privacy Section - Permissions
 
+permissions-header = Oikeudet
+permissions-location = Sijainti
+permissions-location-settings =
+    .label = Asetukset…
+    .accesskey = t
+permissions-camera = Kamera
+permissions-camera-settings =
+    .label = Asetukset…
+    .accesskey = t
+permissions-microphone = Mikrofoni
+permissions-microphone-settings =
+    .label = Asetukset…
+    .accesskey = t
+permissions-notification = Ilmoitukset
+permissions-notification-settings =
+    .label = Asetukset…
+    .accesskey = t
+permissions-notification-link = Lue lisää
+permissions-notification-pause =
+    .label = Älä näytä ilmoituksia ennen kuin { -brand-short-name } uudelleenkäynnistetään
+    .accesskey = k
 permissions-block-popups =
     .label = Estä ponnahdusikkunat
     .accesskey = E
+permissions-block-popups-exceptions =
+    .label = Poikkeukset…
+    .accesskey = P
+permissions-addon-install-warning =
+    .label = Varoita, kun sivustot yrittävät asentaa lisäosia
+    .accesskey = V
 permissions-addon-exceptions =
     .label = Poikkeukset…
     .accesskey = P
+permissions-a11y-privacy-checkbox =
+    .label = Estä esteettömyyspalveluja käyttämästä selaintasi
+    .accesskey = v
+permissions-a11y-privacy-link = Lue lisää
 
 ## Privacy Section - Data Collection
 
+collection-header = { -brand-short-name }in tietojen keräys ja käyttö
+collection-description = Pyrimme antamaan sinulle vapauden valita ja keräämään vain tietoja, joita tarvitsemme voidaksemme tarjota { -brand-short-name }in kaikille ja parantaa sitä. Kysymme aina lupaa ennen kuin vastaanotamme henkilötietoja.
+collection-privacy-notice = Tietosuojakäytäntö
+collection-health-report =
+    .label = Salli, että { -brand-short-name } lähettää teknisiä ja käyttötilastoja { -vendor-short-name }lle
+    .accesskey = S
 collection-health-report-link = Lue lisää
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Tietojen kerääminen ei ole käytössä tässä koostamiskokoonpanossa
+collection-browser-errors =
+    .label = Salli, että { -brand-short-name } lähettää selaimen virheraportit (virheilmoitukset mukaan lukien) { -vendor-short-name }lle
+    .accesskey = v
+collection-browser-errors-link = Lue lisää
+collection-backlogged-crash-reports =
+    .label = Salli, että { -brand-short-name } lähettää lähettämättömät kaatumisilmoitukset puolestasi
+    .accesskey = e
+collection-backlogged-crash-reports-link = Lue lisää
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Turvallisuus
+security-browsing-protection = Petolliselta sisällöltä ja vaarallisilta ohjelmilta suojaus
+security-enable-safe-browsing =
+    .label = Estä vaarallinen ja petollinen sisältö
+    .accesskey = s
+security-enable-safe-browsing-link = Lue lisää
+security-block-downloads =
+    .label = Estä vaaralliset lataukset
+    .accesskey = a
+security-block-uncommon-software =
+    .label = Varoita ei-halutuista ja epätavallisista ohjelmista
+    .accesskey = r
 
 ## Privacy Section - Certificates
 
 certs-header = Varmenteet
+certs-personal-label = Sivuston pyytäessä varmennettasi
+certs-select-auto-option =
+    .label = valitse sellainen automaattisesti
+    .accesskey = v
+certs-select-ask-option =
+    .label = kysy joka kerta
+    .accesskey = k
 certs-enable-ocsp =
     .label = Vahvista varmenteiden kelpoisuus OCSP-vastaajapalvelimilta
     .accesskey = C
+certs-view =
+    .label = Näytä varmenteet…
+    .accesskey = y
+certs-devices =
+    .label = Turvallisuuslaitteet…
+    .accesskey = T
