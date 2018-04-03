@@ -25,7 +25,7 @@
 <!ENTITY sidebar.sbDirectory.label   "Vis katalog…">
 
 <!ENTITY sidebar.pagenotfound.label  "Denne fana er ikkje tilgjengeleg akkurat no.">
-<!ENTITY sidebar.close.tooltip       "Lukk sidestolpen">
+<!ENTITY sidebar.close.tooltip       "Lat att sidestolpen">
 <!ENTITY sidebar.open.tooltip        "Opne sidestolpen">
 
 <!ENTITY sidebar.search.label         "Søk">

@@ -6,7 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate "accel" or "shift",
                          You may want to translate the Cmd.key and accesskey --> 
 
-<!ENTITY closeCmd.label                 "Lukk">  
+<!ENTITY closeCmd.label                 "Lat att">  
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "L">
 

@@ -11,7 +11,6 @@
 
 <!ENTITY feedLocation.label          "Kjelde-URL:">
 <!ENTITY feedLocation.accesskey      "K">
-<!ENTITY feedLocation.placeholder    "Skriv inn ein gyldig nyheitskjelde-url å leggje til">
 <!ENTITY locationValidate.label      "Valider">
 
 
@@ -32,4 +31,4 @@
 <!ENTITY button.exportOPML.accesskey "E">
 
 <!ENTITY cmd.close.commandKey        "w">
-<!ENTITY button.close.label          "Lukk">
+<!ENTITY button.close.label          "Lat att">

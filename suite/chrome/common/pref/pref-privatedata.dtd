@@ -10,7 +10,7 @@
 
 <!ENTITY clearPrivateData.label           "Slett private data">
 
-<!ENTITY alwaysClear.label                "Alltid slett private data når eg lukkar &brandShortName;">
+<!ENTITY alwaysClear.label                "Alltid slett private data når eg lèt att &brandShortName;">
 <!ENTITY alwaysClear.accesskey            "d">
 
 <!ENTITY askBeforeClear.label             "Spør meg før private data vert sletta">
