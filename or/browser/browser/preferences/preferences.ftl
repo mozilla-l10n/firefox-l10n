@@ -175,12 +175,29 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-dontremember-description = { -brand-short-name } ବ୍ୟକ୍ତିଗତ ବ୍ରାଉଜିଙ୍ଗ ପରି ସମାନ ସଂରଚନାକୁ ବ୍ୟବହାର କରିବ, ଏବଂ ଆପଣ ବ୍ରାଉଜ କରୁଥିବା ସମୟରେ କୌଣସି ପୁରୁଣା ତଥ୍ୟକୁ ମନେ ରଖିବ ନାହିଁ।
 history-private-browsing-permanent =
     .label = ସର୍ବଦା ବ୍ଯକ୍ତିଗତ ବ୍ରାଉଜିଙ୍ଗ ପଦ୍ଧତିକୁ ବ୍ୟବହାର କରନ୍ତୁ
     .accesskey = p
+history-remember-option =
+    .label = ମୋର ବ୍ରାଉଜର ଏବଂ  ଆହରଣ ପୁରୁଣା ତଥ୍ୟକୁ ମନେରଖନ୍ତୁ
+    .accesskey = b
+history-remember-search-option =
+    .label = ସନ୍ଧାନ ଏବଂ ଫର୍ମ ପୁରୁମା ତଥ୍ୟକୁ ମନେ ରଖନ୍ତୁ
+    .accesskey = f
+history-clear-on-close-option =
+    .label = { -brand-short-name } ବନ୍ଦ ହେବା ସମୟରେ ପୁରୁଣା ତଥ୍ୟକୁ ସଫା କରନ୍ତୁ
+    .accesskey = r
+history-clear-on-close-settings =
+    .label = ବିନ୍ୟାସ…
+    .accesskey = t
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-visited-option =
+    .label = ପରିଦର୍ଶନ କରିଥିବା ପୃଷ୍ଠାରୁ
+sitedata-accept-third-party-never-option =
+    .label = କଦାପି ନୁହଁ
 sitedata-cookies-exceptions =
     .label = ବ୍ୟତିକ୍ରମ…
     .accesskey = E
@@ -211,3 +228,4 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Certificates
 
+certs-header = ପ୍ରମାଣପତ୍ରଗୁଡ଼ିକ
