@@ -385,6 +385,10 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-visited-option =
+    .label = از بازدید
+sitedata-accept-third-party-never-option =
+    .label = هرگز
 sitedata-cookies-exceptions =
     .label = استثناها…
     .accesskey = ت
