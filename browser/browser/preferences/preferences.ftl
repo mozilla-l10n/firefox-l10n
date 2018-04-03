@@ -378,3 +378,75 @@ containers-preferences-button =
     .label = Баптаулар
 containers-remove-button =
     .label = Өшіру
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = Ережелерден бөлек…
+    .accesskey = р
+forms-master-pw-use =
+    .label = Мастер-парольді қолдану
+    .accesskey = М
+forms-master-pw-change =
+    .label = Мастер-парольді өзгерту…
+    .accesskey = т
+
+## Privacy Section - History
+
+history-dontremember-description = { -brand-short-name } жекелік шолу режимінің баптауын пайдаланады, яғни браузер тарихына ешқандай мәлімет сақталмайды.
+history-private-browsing-permanent =
+    .label = Әрқашан жекелік шолу режимін қолдану
+    .accesskey = ж
+history-remember-option =
+    .label = Менің шолу тарихымды және жүктемелер тарихын сақтау
+    .accesskey = М
+history-remember-search-option =
+    .label = Іздеу және формалар тарих сақтау
+    .accesskey = з
+history-clear-on-close-option =
+    .label = Тарихты { -brand-short-name } жабылғанда тазартып отыру
+    .accesskey = Т
+history-clear-on-close-settings =
+    .label = Баптау…
+    .accesskey = п
+
+## Privacy Section - Site Data
+
+sitedata-accept-third-party-visited-option =
+    .label = Мен болған жерден ғана
+sitedata-accept-third-party-never-option =
+    .label = Ешқашан
+sitedata-cookies-exceptions =
+    .label = Ережелерден бөлек…
+    .accesskey = Е
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-block-popups =
+    .label = "Атып шығатын" терезелерді болдырмау
+    .accesskey = б
+permissions-addon-exceptions =
+    .label = Ережелерден бөлек…
+    .accesskey = Е
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
+certs-header = Сертификаттар
