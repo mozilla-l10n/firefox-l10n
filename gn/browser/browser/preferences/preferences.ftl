@@ -362,3 +362,159 @@ containers-preferences-button =
     .label = Jerohoryvéva
 containers-remove-button =
     .label = Mboguete
+
+## Privacy Section
+
+privacy-header = Kundahára Ñemigua
+
+## Privacy Section - Forms
+
+forms-header = Ysaja ha ñe'ẽnemi
+forms-remember-logins =
+    .label = Nemandu'áke tembiapo ñepyrũ ha ñe'ẽnemi ñanduti rendaguáva
+    .accesskey = N
+forms-exceptions =
+    .label = Oĩ'ỹva
+    .accesskey = x
+forms-saved-logins =
+    .label = Emoñepyrũ tembiapo ñongatupyre…
+    .accesskey = L
+forms-master-pw-use =
+    .label = Ñe'ẽñemiguasu puru
+    .accesskey = U
+forms-master-pw-change =
+    .label = Ñe'ẽñemiguasu moambue...
+    .accesskey = M
+
+## Privacy Section - History
+
+history-header = Tembiasakue
+history-dontremember-description = { -brand-short-name } oipurujeýta pe ñemboheko kundaha ñemigua pegua, ha noñongatumo'ãi mba'evéichagua mba'ekuaarã tembiasakuéva oikundahakuévo ñandutípe.
+history-private-browsing-permanent =
+    .label = Kundaha ñemi jepuru tapia
+    .accesskey = p
+history-remember-option =
+    .label = Tembiasakue mboguejy ha kundaha rehegua Mandu'a
+    .accesskey = M
+history-remember-search-option =
+    .label = Tembiasakue myanyhẽha ha jehekaha momangu'a
+    .accesskey = f
+history-clear-on-close-option =
+    .label = Tembiasakue Mopotï { -brand-short-name } oñembotývo
+    .accesskey = M
+history-clear-on-close-settings =
+    .label = Ñemboheko…
+    .accesskey = t
+
+## Privacy Section - Site Data
+
+sitedata-learn-more = Kuaave
+sitedata-keep-until = Eñongati ag̃ave
+    .accesskey = u
+sitedata-accept-third-party-always-option =
+    .label = Katui
+sitedata-accept-third-party-visited-option =
+    .label = Jehopyre
+sitedata-accept-third-party-never-option =
+    .label = Araka'eve
+sitedata-cookies-exceptions =
+    .label = Oĩ'ỹva…
+    .accesskey = E
+
+## Privacy Section - Address Bar
+
+addressbar-header = Kundaharape renda
+addressbar-suggest = Eipurúramo kundaharape renda, eñemoñe'ẽ
+addressbar-locbar-history-option =
+    .label = Kundaha rembiasakue
+    .accesskey = h
+addressbar-locbar-bookmarks-option =
+    .label = Techaukaha
+    .accesskey = k
+addressbar-locbar-openpage-option =
+    .label = Tendayke ijurujáva
+    .accesskey = O
+addressbar-suggestions-settings = Jerohoryvéva jehekaha mongu'eha je'epyre mombue
+
+## Privacy Section - Tracking
+
+tracking-header = Eipuru Ñemo'ã Tapykuehógui
+tracking-mode-always =
+    .label = Akóinte
+    .accesskey = y
+tracking-mode-private =
+    .label = Ovetã ñemiguáva añónte
+    .accesskey = l
+tracking-mode-never =
+    .label = Araka'eve
+    .accesskey = N
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Eipuru tapykueho ñemo'ã kundaha ñemigua ejoko hag̃ua jeporekeha kuaapyréva
+    .accesskey = v
+tracking-exceptions =
+    .label = Oĩ'ỹva…
+    .accesskey = v
+tracking-change-block-list =
+    .label = Jokoha rysýi moambue…
+    .accesskey = J
+
+## Privacy Section - Permissions
+
+permissions-header = Ñemoneĩkuéra
+permissions-block-popups =
+    .label = Ovetã apysẽ joko
+    .accesskey = B
+permissions-addon-install-warning =
+    .label = Ehechakuaa oĩ jave tenda omohendaséva moĩmbaha.
+    .accesskey = E
+permissions-addon-exceptions =
+    .label = Oĩ'ỹva…
+    .accesskey = E
+
+## Privacy Section - Data Collection
+
+collection-header = { -brand-short-name } Ñembyaty ha mba'ekuaarã jepuru
+collection-description = Roñeha'ã mbarete rome'ẽ hag̃ua jeporavorã ha rombyaty pe roikotevẽva rome'ẽ añoite ha romoĩporãve { -brand-short-name } arapy tuichakue javépe g̃uarã. Tapiaite rojerure ñemoneĩ marandu og̃uahẽ mboyve oréve.
+collection-privacy-notice = Marandu Ñemigua
+collection-health-report-link = Kuaave
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Pe mba'ekuaarã momarandu oñemboguéma ko ñemboheko guasúpe g̃uarã
+collection-backlogged-crash-reports-link = Kuaave
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+security-header = Tekorosã
+security-enable-safe-browsing =
+    .label = Ejoko tetepy kyhyjerã ha imarãkuaáva
+    .accesskey = E
+security-block-downloads =
+    .label = Ejoko ñemboguejy kyhyjerãva
+    .accesskey = d
+security-block-uncommon-software =
+    .label = Ejesareko software oiko'ỹva ha ojekuaa'ỹva
+    .accesskey = c
+
+## Privacy Section - Certificates
+
+certs-header = Mboajepyréva
+certs-personal-label = Peteĩ mohendahavusu oikotevẽramo che mboajepyre
+certs-select-auto-option =
+    .label = Eiporavo peteĩ ijeheguíva
+    .accesskey = S
+certs-select-ask-option =
+    .label = Porandu katui
+    .accesskey = A
+certs-enable-ocsp =
+    .label = Mohendahavusu mbohovái porandu OCSP rehegua emoañete hag̃ua oiko gueteriha umi mboajepyre ag̃aguáva.
+    .accesskey = Q
+certs-view =
+    .label = Mboajepyre jehecha…
+    .accesskey = M
+certs-devices =
+    .label = Tekorosã mba'e'oka rehegua…
+    .accesskey = m
