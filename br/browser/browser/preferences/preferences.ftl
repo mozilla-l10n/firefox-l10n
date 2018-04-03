@@ -380,3 +380,78 @@ containers-preferences-button =
     .label = Gwellvezioù
 containers-remove-button =
     .label = Lemel kuit
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = Nemedennoù…
+    .accesskey = m
+forms-master-pw-use =
+    .label = Arverañ ur ger-tremen mestr
+    .accesskey = A
+forms-master-pw-change =
+    .label = Kemmañ ar ger-tremen mestr…
+    .accesskey = K
+
+## Privacy Section - History
+
+history-dontremember-description = { -brand-short-name } a implijo ar memes arventennoù hag ar merdeiñ prevez, ha ne zalc'ho ket soñj ar roll istor.
+history-private-browsing-permanent =
+    .label = Atav arverañ mod merdeiñ prevez
+    .accesskey = m
+history-remember-option =
+    .label = Derc'hel soñj ma roll istor ha ma fellgargadurioù
+    .accesskey = r
+history-remember-search-option =
+    .label = Derc'hel soñj ar c'hlaskoù hag ar furmskridoù
+    .accesskey = h
+history-clear-on-close-option =
+    .label = Skarzhañ ar roll istor pa guitaan { -brand-short-name }
+    .accesskey = k
+history-clear-on-close-settings =
+    .label = Arventennoù…
+    .accesskey = v
+
+## Privacy Section - Site Data
+
+sitedata-accept-third-party-visited-option =
+    .label = Adalek lec'hiennoù gweladennet
+sitedata-accept-third-party-never-option =
+    .label = Morse
+sitedata-cookies-exceptions =
+    .label = Nemedennoù…
+    .accesskey = N
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-block-popups =
+    .label = Herzel an diflugelloù
+    .accesskey = H
+permissions-addon-exceptions =
+    .label = Nemedennoù
+    .accesskey = N
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
+certs-header = Testenioù
+certs-enable-ocsp =
+    .label = Goulenn kadarnaat talvoudegezh an testenioù gant an dafariadoù OCSP
+    .accesskey = G
