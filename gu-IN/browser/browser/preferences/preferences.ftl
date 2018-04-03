@@ -91,7 +91,7 @@ startup-header = શરૂઆત
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = પરવાનગી આપો { -brand-short-name } અને તે જ સમયે Firefox ને ચલાવવા માટે
-use-firefox-sync = છૂપી સૂચના: આ અલગ પ્રોફાઇલ્સનો ઉપયોગ કરે છે. તેમની વચ્ચે ડેટા શેર કરવા માટે સમન્વયનનો ઉપયોગ કરો.
+use-firefox-sync = છૂપી સૂચના: આ અલગ પ્રોફાઇલ્સનો ઉપયોગ કરે છે. તેમની વચ્ચે ડેટા શેર કરવા માટે { -sync-brand-short-name } નો ઉપયોગ કરો.
 get-started-not-logged-in = સાઇન ઇન કરો { -sync-brand-short-name }…
 get-started-configured = ખોલો કરો { -sync-brand-short-name } પસંદગીઓ
 always-check-default =
