@@ -202,6 +202,22 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-dontremember-description = { -brand-short-name } निज ब्राउजिंगक तरह सेटिंग प्रयोग करताह आओर अहाँक वेब ब्राउज़ करबाक दौरान कोनो इतिहास याद नहि रखताह.
+history-private-browsing-permanent =
+    .label = हमेशा निज ब्राउजिंग विधिक उपयोग करू
+    .accesskey = p
+history-remember-option =
+    .label = हमर ब्राउजिंग आओर डाउनलोड इतिहास याद राखू
+    .accesskey = b
+history-remember-search-option =
+    .label = खोज आओर फार्म इतिहास याद राखू
+    .accesskey = f
+history-clear-on-close-option =
+    .label = इतिहास साफ करू जखन { -brand-short-name } बन्न होइछ
+    .accesskey = r
+history-clear-on-close-settings =
+    .label = सेटिंग…
+    .accesskey = t
 
 ## Privacy Section - Site Data
 
