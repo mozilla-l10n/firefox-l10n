@@ -432,15 +432,30 @@ history-clear-button =
 
 ## Privacy Section - Site Data
 
+sitedata-header = Cookie e Dæti di Sciti
 sitedata-learn-more = Pe saveine de ciù
+sitedata-accept-cookies-option =
+    .label = Acetta cookie e dæti di sciti da-i sciti (consegiou)
+    .accesskey = A
+sitedata-block-cookies-option =
+    .label = Blòcca cookie e dæti di sciti (çerti sciti peuan no fonçionâ)
+    .accesskey = B
 sitedata-keep-until = Mantegni scinn-a che
     .accesskey = i
+sitedata-accept-third-party-desc = Acetta cookie e dæti di sciti da terse parte
+    .accesskey = s
 sitedata-accept-third-party-always-option =
     .label = de longo
 sitedata-accept-third-party-visited-option =
     .label = da-i sciti vixitæ
 sitedata-accept-third-party-never-option =
     .label = mai
+sitedata-clear =
+    .label = Scancella dæti…
+    .accesskey = l
+sitedata-settings =
+    .label = Gestisci dæti…
+    .accesskey = G
 sitedata-cookies-exceptions =
     .label = Eceçioin…
     .accesskey = E
@@ -527,9 +542,16 @@ permissions-a11y-privacy-link = Atre informaçioin
 
 ## Privacy Section - Data Collection
 
+collection-header = Acugeita dæti e uzo de { -brand-short-name }
 collection-description = Niatri çerchemmo de lasciâ a ti a decixon e de sarvase solo quello ch'o ne serve pe megiorâ { -brand-short-name } pe tutti. Niatri te domandiemo de longo o permisso primma de reçeive informaçioin personâ.
 collection-privacy-notice = Informativa in sciâ privacy
+collection-health-report =
+    .label = Permetti a { -brand-short-name } de mandâ dæti tecnichi e de interaçion a { -vendor-short-name }
+    .accesskey = r
 collection-health-report-link = Atre informaçioin
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = O report di dæti o l'é dizabilitou pe sta configuraçion
 collection-browser-errors =
     .label = Permetti a { -brand-short-name } de mandâ report di eroî (incluzo mesaggi d'erô) a { -vendor-short-name }
     .accesskey = d
