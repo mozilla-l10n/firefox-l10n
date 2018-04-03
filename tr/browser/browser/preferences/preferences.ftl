@@ -433,6 +433,8 @@ sitedata-accept-third-party-desc = Üçüncü taraf çerezlerini ve site veriler
     .accesskey = ü
 sitedata-accept-third-party-always-option =
     .label = Her zaman
+sitedata-accept-third-party-visited-option =
+    .label = Ziyaret edilenlerden
 sitedata-accept-third-party-never-option =
     .label = Asla
 sitedata-clear =
@@ -528,6 +530,7 @@ security-block-uncommon-software =
 
 ## Privacy Section - Certificates
 
+certs-header = Sertifikalar
 certs-personal-label = Bir sunucu kişisel sertifikamı istediğinde
 certs-select-ask-option =
     .label = Her seferinde bana sor
