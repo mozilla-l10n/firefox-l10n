@@ -344,3 +344,159 @@ containers-preferences-button =
     .label = Preferenzas
 containers-remove-button =
     .label = Allontanar
+
+## Privacy Section
+
+privacy-header = Protecziun da datas
+
+## Privacy Section - Forms
+
+forms-header = Formulars & pleds-clav
+forms-remember-logins =
+    .label = Memorisar infurmaziuns d'annunzia e pleds-clav per websites
+    .accesskey = M
+forms-exceptions =
+    .label = Excepziuns…
+    .accesskey = x
+forms-master-pw-use =
+    .label = Utilisar in pled-clav universal
+    .accesskey = u
+forms-master-pw-change =
+    .label = Midar il pled-clav universal…
+    .accesskey = d
+
+## Privacy Section - History
+
+history-header = Cronologia
+history-dontremember-description = { -brand-short-name } vegn ad utilisar las medemas preferenzas sco en il modus privat e na vegn betg a far ina cronologia da tia navigaziun en l'internet.
+history-private-browsing-permanent =
+    .label = Adina navigar en il modus privat
+    .accesskey = p
+history-remember-option =
+    .label = Memorisar la cronologia dal navigar e da las telechargiadas
+    .accesskey = r
+history-remember-search-option =
+    .label = Memorisar las endataziuns en champs da tschertgar ed en formulars
+    .accesskey = f
+history-clear-on-close-option =
+    .label = Stizzar la cronologia sche { -brand-short-name } vegn serrà
+    .accesskey = S
+history-clear-on-close-settings =
+    .label = Parameters…
+    .accesskey = m
+
+## Privacy Section - Site Data
+
+sitedata-learn-more = Ulteriuras infurmaziuns
+sitedata-accept-third-party-always-option =
+    .label = Adina
+sitedata-accept-third-party-visited-option =
+    .label = Da visitads
+sitedata-accept-third-party-never-option =
+    .label = Mai
+sitedata-cookies-exceptions =
+    .label = Excepziuns…
+    .accesskey = E
+
+## Privacy Section - Address Bar
+
+addressbar-header = Trav d'adressas
+addressbar-suggest = Durant l'endataziun en la trav d'adressas, proponer
+addressbar-locbar-history-option =
+    .label = Cronologia
+    .accesskey = C
+addressbar-locbar-bookmarks-option =
+    .label = Segnapaginas
+    .accesskey = g
+addressbar-locbar-openpage-option =
+    .label = Tabs averts
+    .accesskey = b
+addressbar-suggestions-settings = Midar las preferenzas per propostas da maschinas da tschertgar
+
+## Privacy Section - Tracking
+
+tracking-header = Protecziun cunter il fastizar
+tracking-mode-always =
+    .label = Adina
+    .accesskey = A
+tracking-mode-private =
+    .label = Mo en fanestras privatas
+    .accesskey = p
+tracking-mode-never =
+    .label = Mai
+    .accesskey = i
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Utilisar la protecziun encunter il fastizar en il modus privat per bloccar mecanissems da fastizar enconuschents
+    .accesskey = z
+tracking-exceptions =
+    .label = Excepziuns...
+    .accesskey = x
+tracking-change-block-list =
+    .label = Midar la glista da bloccar…
+    .accesskey = M
+
+## Privacy Section - Permissions
+
+permissions-header = Autorisaziuns
+permissions-location = Posiziun
+permissions-camera = Camera
+permissions-microphone = Microfon
+permissions-notification = Communicaziuns
+permissions-notification-link = Ulteriuras infurmaziuns
+permissions-block-popups =
+    .label = Bloccar fanestras pop-up
+    .accesskey = p
+permissions-block-popups-exceptions =
+    .label = Excepziuns…
+    .accesskey = E
+permissions-addon-install-warning =
+    .label = Avertir, sche websites emprovan d'installar supplements
+    .accesskey = i
+permissions-addon-exceptions =
+    .label = Excepziuns…
+    .accesskey = E
+permissions-a11y-privacy-checkbox =
+    .label = Impedir che servetschs d'accessabilitad accedian a tes navigatur
+    .accesskey = a
+permissions-a11y-privacy-link = Ulteriuras infurmaziuns
+
+## Privacy Section - Data Collection
+
+collection-header = { -brand-short-name }: Collecziun ed utilisaziun da datas
+collection-description = Nus ta laschain la tscherna e ramassain mo las infurmaziuns che nus duvrain per porscher e meglierar { -brand-short-name } per tuts. Nus ta dumandain adina avant che rimnar datas persunalas.
+collection-privacy-notice = Infurmaziuns davart la protecziun da datas
+collection-health-report =
+    .label = Permetter a { -brand-short-name } da trametter datas tecnicas e datas d'interacziun a { -vendor-short-name }
+    .accesskey = r
+collection-health-report-link = Ulteriuras infurmaziuns{ " " }
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Rapports da datas èn deactivads per questa configuraziun da compilaziun
+collection-backlogged-crash-reports-link = Ulteriuras infurmaziuns{ " " }
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+security-header = Segirezza
+security-browsing-protection = Protecziun encunter cuntegn engianaivel e software privlusa
+security-enable-safe-browsing-link = Ulteriuras infurmaziuns
+security-block-uncommon-software =
+    .label = T'avertir da programs nungiavischads e nunusitads
+    .accesskey = A
+
+## Privacy Section - Certificates
+
+certs-header = Certificats
+certs-personal-label = Sch'in server dumonda tes certificat da segirezza persunal
+certs-select-auto-option =
+    .label = Tscherner automaticamain in
+    .accesskey = T
+certs-select-ask-option =
+    .label = Dumandar mintga giada
+    .accesskey = D
+certs-enable-ocsp =
+    .label = Laschar confermar la validitad da certificats entras dumandar servers da OCSP
+    .accesskey = c
