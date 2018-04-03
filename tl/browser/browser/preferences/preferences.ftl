@@ -358,9 +358,13 @@ containers-remove-button =
 
 ## Privacy Section - Forms
 
+forms-header = Mga form & Mga Password
 forms-exceptions =
     .label = Mga exceptions...
     .accesskey = x
+forms-saved-logins =
+    .label = Mga na-save na Logins…
+    .accesskey = L
 forms-master-pw-use =
     .label = Gamitin ng master password
     .accesskey = G
@@ -422,7 +426,17 @@ collection-browser-errors-link = Matuto ng higit pa
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Seguridad
+security-enable-safe-browsing =
+    .label = I-block ang mga content na delikado at nakakahinala
+    .accesskey = B
 security-enable-safe-browsing-link = Matuto ng higit pa
+security-block-downloads =
+    .label = Huwag hayaan ang mga delikado na downloads
+    .accesskey = D
+security-block-uncommon-software =
+    .label = Mag-babala sa mga hindi kilala at hindi ginusto na software
+    .accesskey = C
 
 ## Privacy Section - Certificates
 
