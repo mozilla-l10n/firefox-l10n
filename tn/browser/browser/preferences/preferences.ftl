@@ -26,6 +26,9 @@ close-button =
 feature-disable-requires-restart = { -brand-short-name } e tswanetse go simolola sešwa go thibela go dira ga kokoanyo ya dirweboleta.
 should-restart-title = Simolola { -brand-short-name } sešwa
 
+## Preferences UI Search Results
+
+
 ## General Section
 
 startup-header = Tshimololosešwa
@@ -38,23 +41,6 @@ is-default = { -brand-short-name } ga jaana ke sebatli sebatli sa gago sa thulag
 is-not-default = { -brand-short-name } ga se sebatli sa gago sa thulaganyetsoruri
 startup-blank-page =
     .label = Bontsha tsebe e lolea
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Dirisa Tsebe ya Ga jaana
-           *[other] Dirisa Ditsebe tsa Ga jaana
-        }
-    .accesskey = T
-choose-bookmark =
-    .label = Dirisa Letshwaotsebe…
-    .accesskey = L
-restore-default =
-    .label = Busetsa ko Thulaganyetsoruri
-    .accesskey = B
 tabs-group-header = Ditab
 show-tabs-in-taskbar =
     .label = Supa diponopele tsa thebe mo Baratiro ya di Window
@@ -115,6 +101,29 @@ browsing-use-smooth-scrolling =
 ## General Section - Proxy
 
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Dirisa Tsebe ya Ga jaana
+           *[other] Dirisa Ditsebe tsa Ga jaana
+        }
+    .accesskey = T
+choose-bookmark =
+    .label = Dirisa Letshwaotsebe…
+    .accesskey = L
+restore-default =
+    .label = Busetsa ko Thulaganyetsoruri
+    .accesskey = B
+
 ## Search Section
 
 search-suggestions-option =
@@ -133,3 +142,40 @@ search-keyword-warning-title = Lefokopatlo le Ntsifetse
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = O tlhophile lefokopatlo le ga jaana le dirisiwang ke "{ $name }". Tswêê-tswêê tlhopha le lengwe.
 search-keyword-warning-bookmark = O tlhophile lefokopatlo le ga jaana le dirisiwang ke letswaotsebe. Tswêê-tswêê tlhopha le lengwe.
+
+## Containers Section
+
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+
+## Privacy Section - History
+
+
+## Privacy Section - Site Data
+
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
+certs-header = Ditifikeiti
