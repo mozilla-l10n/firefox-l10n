@@ -5,7 +5,7 @@
 <!ENTITY tableWindow.title                "Tabelleigenskapar">
 <!ENTITY applyButton.label                "Bruk">
 <!ENTITY applyButton.accesskey            "B">
-<!ENTITY closeButton.label                "Lukk">
+<!ENTITY closeButton.label                "Lat att">
 <!ENTITY tableTab.label                   "Tabell">
 <!ENTITY cellTab.label                    "Celler">
 <!ENTITY tableRows.label                  "Rader:">
@@ -64,8 +64,8 @@
 <!ENTITY cellAlignJustify.label           "Justering">
 <!ENTITY cellInheritColor.label           "(Lat tabellfargen skina gjennom)">
 <!ENTITY cellUseCheckboxHelp.label        "Bruk avkryssingsboksar for å avgjera kva eigenskapar som skal gjelda alle merka celler">
-<!-- Used in both Table and Cell panels  -->
 
+<!-- Used in both Table and Cell panels  -->
 <!ENTITY size.label                       "Storleik">
 <!ENTITY pixels.label                     "pikslar">
 <!ENTITY backgroundColor.label            "Bakgrunnsfarge:">

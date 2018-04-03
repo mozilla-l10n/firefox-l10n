@@ -52,4 +52,4 @@
 <!ENTITY button.exportOPML.tooltip   "Eksporter kjelder med mappestruktur; ctrl+klikk eller ctrl+enter for å eksportere kjelder som ei liste">
 
 <!ENTITY cmd.close.commandKey        "w">
-<!ENTITY button.close.label          "Lukk">
+<!ENTITY button.close.label          "Lat att">
