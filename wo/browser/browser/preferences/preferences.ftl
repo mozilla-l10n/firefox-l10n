@@ -180,6 +180,10 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-always-option =
+    .label = Saa su ne
+sitedata-accept-third-party-never-option =
+    .label = Mukk
 sitedata-cookies-exceptions =
     .label = Seppi yi…
     .accesskey = S
@@ -213,3 +217,4 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Certificates
 
+certs-header = Sarsifikaa
