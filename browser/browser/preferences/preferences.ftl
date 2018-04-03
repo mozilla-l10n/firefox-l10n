@@ -394,6 +394,9 @@ forms-exceptions =
 
 ## Privacy Section - History
 
+history-clear-on-close-settings =
+    .label = Configurar…
+    .accesskey = C
 
 ## Privacy Section - Site Data
 
