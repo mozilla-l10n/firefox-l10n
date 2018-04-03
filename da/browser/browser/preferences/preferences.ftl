@@ -373,6 +373,10 @@ forms-master-pw-use =
 
 ## Privacy Section - History
 
+history-header = Historik
+history-remember-search-option =
+    .label = Husk formular- og søgehistorik
+    .accesskey = f
 
 ## Privacy Section - Site Data
 
@@ -388,6 +392,9 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Permissions
 
+permissions-block-popups =
+    .label = Bloker pop op-vinduer
+    .accesskey = B
 permissions-block-popups-exceptions =
     .label = Undtagelser…
     .accesskey = U
