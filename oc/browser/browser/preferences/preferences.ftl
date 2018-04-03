@@ -374,9 +374,16 @@ containers-remove-button =
 
 ## Privacy Section - Forms
 
+forms-header = Formularis e senhals
+forms-remember-logins =
+    .label = Memorizar los identificants e senhals pels sites web
+    .accesskey = M
 forms-exceptions =
     .label = Excepcions…
     .accesskey = x
+forms-saved-logins =
+    .label = Identificants salvats…
+    .accesskey = S
 forms-master-pw-use =
     .label = Utilizar un senhal principal
     .accesskey = U
@@ -396,6 +403,9 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = Ne saber mai
+sitedata-keep-until = Las conservar fins a
+    .accesskey = f
 sitedata-accept-third-party-always-option =
     .label = Totjorn
 sitedata-accept-third-party-never-option =
@@ -406,9 +416,11 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Barra d'adreça
 addressbar-locbar-bookmarks-option =
     .label = Favorits
     .accesskey = F
+addressbar-suggestions-settings = Cambiar las preferéncias per las suggestions del motor de recèrca
 
 ## Privacy Section - Tracking
 
@@ -418,25 +430,86 @@ tracking-mode-always =
 tracking-exceptions =
     .label = Excepcions…
     .accesskey = E
+tracking-change-block-list =
+    .label = Cambiar la lista de blocatge…
+    .accesskey = C
 
 ## Privacy Section - Permissions
 
+permissions-header = Permissions
+permissions-location = Localizacion
+permissions-location-settings =
+    .label = Paramètres…
+    .accesskey = A
+permissions-camera-settings =
+    .label = Paramètres…
+    .accesskey = c
+permissions-microphone = Microfòn
+permissions-microphone-settings =
+    .label = Paramètres…
+    .accesskey = m
+permissions-notification = Notificacions
+permissions-notification-settings =
+    .label = Paramètres…
+    .accesskey = n
+permissions-notification-link = Ne saber mai
 permissions-block-popups =
     .label = Blocar las fenèstras sorgissentas
     .accesskey = B
+permissions-block-popups-exceptions =
+    .label = Excepcions…
+    .accesskey = E
+permissions-addon-install-warning =
+    .label = M'avisar quand de sites web ensajen d'installar de moduls
+    .accesskey = A
 permissions-addon-exceptions =
     .label = Excepcions…
     .accesskey = E
+permissions-a11y-privacy-link = Ne saber mai
 
 ## Privacy Section - Data Collection
 
+collection-header = Recuèlh de donadas e utilizacion per { -brand-short-name }
+collection-description = Nos esforçam de vos daissar causir e reculhir sonque las informacions qu'avèm besonh per provesir e melhorar { -brand-short-name } per tot lo mond. Sempre demandam vòstra permission abans de recebre de donadas personalas.
+collection-privacy-notice = Politica de confidencialitat
+collection-health-report-link = Ne saber mai
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Lo rapòrt de donadas es desactivat per aquela configuracion de compilacion
+collection-backlogged-crash-reports-link = Ne saber mai
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Seguretat
+security-enable-safe-browsing =
+    .label = Blocar lo contengut perilhós e enganaire
+    .accesskey = B
+security-block-downloads =
+    .label = Blocar los telecargaments perilhoses
+    .accesskey = D
+security-block-uncommon-software =
+    .label = Vos avisar dels logicials pas desirats e pauc coneguts
+    .accesskey = C
 
 ## Privacy Section - Certificates
 
 certs-header = Certificats
+certs-personal-label = Quand un servidor demanda vòstre certificat personal
+certs-select-auto-option =
+    .label = ne seleccionar un automaticament
+    .accesskey = S
+certs-select-ask-option =
+    .label = Vos demandar cada còp
+    .accesskey = D
+certs-enable-ocsp =
+    .label = Consultar los servidors respondeires OCSP per confirmar la validitat actuala de vòstres certificats
+    .accesskey = C
+certs-view =
+    .label = Afichar los certificats…
+    .accesskey = C
+certs-devices =
+    .label = Periferics de seguretat…
+    .accesskey = P
