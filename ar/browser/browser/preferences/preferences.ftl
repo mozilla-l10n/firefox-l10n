@@ -404,6 +404,7 @@ forms-master-pw-use =
 ## Privacy Section - History
 
 history-header = التأريخ
+history-remember-description = سيتذكر { -brand-short-name } تأريخ التصفح، و التنزيلات، و الاستمارات، و البحث.
 history-dontremember-description = سيستخدم { -brand-short-name } نفس إعدادات التصفح الخاص، بحيث لن يحتفظ بأيّ تأريخ لتصفحك للوب.
 history-remember-search-option =
     .label = تذكّر تأريخ النماذج والبحث
@@ -417,6 +418,9 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-accept-cookies-option =
+    .label = اقبل الكعكات و بيانات المواقع من المواقع (مستحسن)
+    .accesskey = ق
 sitedata-cookies-exceptions =
     .label = الاستثناءات…
     .accesskey = س
@@ -426,12 +430,18 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Tracking
 
+tracking-description = تحجب الحماية من التعقب متعقبات الإنترنت التي تجمع بيانات التصفح عبر أكثر من موقع. <a>تعرّف أكثر على الحماية من التعقب و خصوصيتك</a>
+tracking-mode-label = استخدم الحماية من التعقب لحظر المتعقبات المعروفة
 
 ## Privacy Section - Permissions
 
 permissions-addon-exceptions =
     .label = الاستثناءات…
     .accesskey = ث
+permissions-a11y-privacy-checkbox =
+    .label = امنع خدمات الإتاحة من الوصول إلى حاسوبك
+    .accesskey = ت
+permissions-a11y-privacy-link = اطّلع على المزيد
 
 ## Privacy Section - Data Collection
 
@@ -441,6 +451,8 @@ permissions-addon-exceptions =
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-browsing-protection = الحماية من المحتوى المخادع و البرمجيات الخبيثة
+security-enable-safe-browsing-link = اطّلع على المزيد
 
 ## Privacy Section - Certificates
 
