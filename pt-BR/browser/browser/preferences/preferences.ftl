@@ -425,6 +425,15 @@ addressbar-locbar-openpage-option =
 
 ## Privacy Section - Tracking
 
+tracking-mode-always =
+    .label = Sempre
+    .accesskey = y
+tracking-mode-never =
+    .label = Nunca
+    .accesskey = n
+tracking-exceptions =
+    .label = Exceções…
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
