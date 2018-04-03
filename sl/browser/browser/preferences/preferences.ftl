@@ -389,10 +389,14 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = Zasebnost brskalnika
 
 ## Privacy Section - Forms
 
 forms-header = Obrazci in gesla
+forms-remember-logins =
+    .label = Zapomni si prijave in gesla spletnih strani
+    .accesskey = Z
 forms-exceptions =
     .label = Izjeme …
     .accesskey = i
@@ -426,9 +430,13 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Nastavitve …
     .accesskey = t
+history-clear-button =
+    .label = Počisti zgodovino …
+    .accesskey = č
 
 ## Privacy Section - Site Data
 
+sitedata-header = Piškotki in podatki strani
 sitedata-learn-more = Več o tem
 sitedata-accept-cookies-option =
     .label = Sprejemaj piškotke in podatke spletnih strani (priporočeno)
@@ -446,6 +454,9 @@ sitedata-accept-third-party-visited-option =
     .label = Izmed obiskanih
 sitedata-accept-third-party-never-option =
     .label = Nikoli
+sitedata-clear =
+    .label = Počisti podatke …
+    .accesskey = č
 sitedata-settings =
     .label = Upravljanje podatkov …
     .accesskey = U
@@ -455,6 +466,8 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Naslovna vrstica
+addressbar-suggest = Pri uporabi naslovne vrstice predlagaj
 addressbar-locbar-history-option =
     .label = zgodovino brskanja
     .accesskey = Z
@@ -469,6 +482,8 @@ addressbar-suggestions-settings = Spremeni nastavitve predlogov iskanja
 ## Privacy Section - Tracking
 
 tracking-header = Zaščita pred sledenjem
+tracking-description = Zaščita pred sledenjem zavrača spletne sledilce, ki zbirajo podatke brskanja po spletnih straneh. <a>Več o zaščiti pred sledenjem in vaši zasebnost</a>
+tracking-mode-label = Uporabljaj zaščito pred sledenjem za zavračanje znanih sledilcev
 tracking-mode-always =
     .label = Vedno
     .accesskey = e
@@ -478,35 +493,76 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Nikoli
     .accesskey = o
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Uporabljaj zaščito pred sledenjem v zasebnem brskanju za zavračanje znanih sledilcev
+    .accesskey = r
 tracking-exceptions =
     .label = Izjeme …
     .accesskey = j
+tracking-change-block-list =
+    .label = Zamenjaj seznam za zavračanje …
+    .accesskey = a
 
 ## Privacy Section - Permissions
 
+permissions-header = Dovoljenja
+permissions-location = Lokacija
 permissions-location-settings =
     .label = Nastavitve …
     .accesskey = t
+permissions-camera = Kamera
+permissions-camera-settings =
+    .label = Nastavitve …
+    .accesskey = t
+permissions-microphone = Mikrofon
+permissions-microphone-settings =
+    .label = Nastavitve …
+    .accesskey = t
+permissions-notification = Obvestila
 permissions-notification-settings =
     .label = Nastavitve …
     .accesskey = t
+permissions-notification-link = Več o tem
+permissions-notification-pause =
+    .label = Ne prikazuj obvestil do naslednjega zagona { -brand-short-name }a
+    .accesskey = u
 permissions-block-popups =
     .label = Prepovej pojavna okna
     .accesskey = r
 permissions-block-popups-exceptions =
     .label = Izjeme …
     .accesskey = I
+permissions-addon-install-warning =
+    .label = Opozori, ko bodo spletne strani poskušale namestiti dodatke
+    .accesskey = P
 permissions-addon-exceptions =
     .label = Izjeme …
     .accesskey = E
 permissions-a11y-privacy-checkbox =
     .label = Storitvam za dostopnost prepreči dostop do brskalnika
     .accesskey = a
+permissions-a11y-privacy-link = Več o tem
 
 ## Privacy Section - Data Collection
 
+collection-header = Zbiranje in uporaba podatkov { -brand-short-name }a
 collection-description = Trudimo se, da vam ponudimo izbiro in da zbiramo samo tisto, kar potrebujemo za razvoj in izboljšave { -brand-short-name }a za vse uporabnike. Pred sprejemanjem osebnih podatkov vas vedno vprašamo za dovoljenje.
+collection-privacy-notice = Obvestilo o zasebnosti
+collection-health-report =
+    .label = Dovoli { -brand-short-name }u pošiljanje tehničnih podatkov in podatkov o uporabi Mozilli
+    .accesskey = h
 collection-health-report-link = Več o tem
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Pošiljanje podatkov je onemogočeno za to nastavitev graditve
+collection-browser-errors =
+    .label = Dovoli { -brand-short-name }u pošiljanje poročil o napakah brskalnika (vključno s sporočili o napakah) Mozilli
+    .accesskey = b
+collection-browser-errors-link = Več o tem
+collection-backlogged-crash-reports =
+    .label = Dovoli { -brand-short-name }u, da v vašem imenu pošilja poročila o sesutju iz zaloge
+    .accesskey = z
 collection-backlogged-crash-reports-link = Več o tem
 
 ## Privacy Section - Security
@@ -519,6 +575,7 @@ security-browsing-protection = Zaščita pred zavajajočo vsebino in nevarno pro
 security-enable-safe-browsing =
     .label = Zavrni nevarno in zavajajočo vsebino
     .accesskey = v
+security-enable-safe-browsing-link = Več o tem
 security-block-downloads =
     .label = Zavrni nevarne prenose
     .accesskey = r
@@ -539,3 +596,9 @@ certs-select-ask-option =
 certs-enable-ocsp =
     .label = Uporabi strežnike OCSP za potrditev trenutne veljavnosti digitalnih potrdil
     .accesskey = U
+certs-view =
+    .label = Preglej digitalna potrdila …
+    .accesskey = D
+certs-devices =
+    .label = Varnostne naprave …
+    .accesskey = V
