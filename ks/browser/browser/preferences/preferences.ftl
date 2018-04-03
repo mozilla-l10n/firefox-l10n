@@ -27,6 +27,9 @@ feature-enable-requires-restart = گْژھ ضرور  دوبار شروع گژھ�
 feature-disable-requires-restart = گْژھ ضرور  دوبار شروع گژھُن یہ فییچر  ڈیسیبْل کرنْہ باپت۔{ -brand-short-name }
 should-restart-title = { -brand-short-name }  كریو وئن شروع
 
+## Preferences UI Search Results
+
+
 ## General Section
 
 startup-header = شروعات
@@ -39,23 +42,6 @@ is-default = برینڈ لكُٹ ناو چھُ حالس تُہند ڈیفالٹ 
 is-not-default = برانڈ شاٹ ناو چھُ حالس تُہند ڈیفالٹ براوزر&
 startup-blank-page =
     .label = خٲلی صفحئ ہٲویو
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] حالُك صفحئ كریو استیمال
-           *[other] حالئك صفحئ كریو استیمال
-        }
-    .accesskey = C
-choose-bookmark =
-    .label = نشان زد كریو استیمال
-    .accesskey = B
-restore-default =
-    .label = ڈیفالٹ كریو ری سٹور
-    .accesskey = R
 tabs-group-header = ٹیبس
 show-tabs-in-taskbar =
     .label = ٹیب پیْ منظر ہٲویو وِندوز تاسك بارس منز
@@ -133,6 +119,29 @@ network-proxy-connection-settings =
     .label = سیٹینگس
     .accesskey = e
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] حالُك صفحئ كریو استیمال
+           *[other] حالئك صفحئ كریو استیمال
+        }
+    .accesskey = C
+choose-bookmark =
+    .label = نشان زد كریو استیمال
+    .accesskey = B
+restore-default =
+    .label = ڈیفالٹ كریو ری سٹور
+    .accesskey = R
+
 ## Search Section
 
 search-engine-default-header = ڈیفالٹْہ تلاش اِنجن
@@ -156,3 +165,91 @@ search-keyword-warning-title = كی وٲرڈ كریو نقل
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = توہیہ چُھ ژورمُت اکھ سُہ کی وأرڈ یوس وْنکینس  استعمال کران چُھ  "{ $name }"۔ مہربأنی کرْتھ ژأریو بدل۔
 search-keyword-warning-bookmark = توہیہ چُھ ژورمُت اکھ سُہ کی وأرڈ یوس وْنکینس اکھ بوک مارْک  استعمال کران چُھ۔ مہربأنی کرْتھ ژأریو بدل۔
+
+## Containers Section
+
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = غٲر مومول
+    .accesskey = x
+forms-master-pw-use =
+    .label = ماسٹر خُفیئ لفظ كریو استیمال
+    .accesskey = U
+forms-master-pw-change =
+    .label = ماسٹر خُفیئ لفظ بدلٲویو...
+    .accesskey = M
+
+## Privacy Section - History
+
+history-header = تٲریخ
+history-dontremember-description = &برانڈ شاٹ ناو؛ کرِ استعمال تِمے سیٹینگ یم ذن پرایویٹ براوزینگ چھ، تْہ تھأوِ نْہ یاد کانہہ ہسٹری یوتُھی توہیہ براوُز کْریو ویب۔
+history-private-browsing-permanent =
+    .label = ہمیشئ كریو پوشیدئ براوزینگ موڈ
+    .accesskey = p
+history-remember-option =
+    .label = میٖن براوزِگ تئ ڈاونلوڈ تٲریخ تھٲویو یاد
+    .accesskey = b
+history-remember-search-option =
+    .label = ژھانڈ تئ فارم تٲريخ تھٲویو یاد
+    .accesskey = f
+history-clear-on-close-option =
+    .label = یل۪ی براینڈ لكُٹ ناو بند گژھ۪ی تٲریخ كریو صاف
+    .accesskey = r
+history-clear-on-close-settings =
+    .label = سیٹینگس...
+    .accesskey = t
+
+## Privacy Section - Site Data
+
+sitedata-accept-third-party-visited-option =
+    .label = سْیر کرنْہ آمتِہ پیٹھ
+sitedata-accept-third-party-never-option =
+    .label = زانہہ نْہ
+sitedata-cookies-exceptions =
+    .label = غٲر مومول...
+    .accesskey = E
+
+## Privacy Section - Address Bar
+
+addressbar-locbar-bookmarks-option =
+    .label = نشان زَد
+    .accesskey = k
+addressbar-locbar-openpage-option =
+    .label = ٹیب  كھولیو
+    .accesskey = ٹ
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-block-popups =
+    .label = پاپ اپ وِنڈوز كریو بند
+    .accesskey = B
+permissions-block-popups-exceptions =
+    .label = غٲر مومول...
+    .accesskey = E
+permissions-addon-exceptions =
+    .label = غٲر مومول...
+    .accesskey = E
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
+certs-header = سرٹیفیکٹس{ " " }
+certs-enable-ocsp =
+    .label = کیوری او سی ایس پی ریسپانڈر سْرور تصدیق کرنْہ باپت موجود ویلیڈیٹی سرٹیفیکٹن ہْنز
+    .accesskey = ک
