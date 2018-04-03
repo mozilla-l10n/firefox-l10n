@@ -188,3 +188,4 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Certificates
 
+certs-header = Гэрчилгээ
