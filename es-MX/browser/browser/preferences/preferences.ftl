@@ -430,6 +430,7 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookies y datos del sitio
+sitedata-learn-more = Aprender más
 sitedata-accept-cookies-option =
     .label = Aceptar cookies y datos de los sitios web (recomendado)
     .accesskey = A
@@ -575,6 +576,12 @@ certs-personal-label = Cuando un servidor te pide tu certificado personal
 certs-select-auto-option =
     .label = Seleccionar uno automáticamente
     .accesskey = S
+certs-select-ask-option =
+    .label = Solicitar cada vez
+    .accesskey = A
+certs-enable-ocsp =
+    .label = Consultar servidores de respuesta OCSP para confirmar la validez actual de los certificados
+    .accesskey = O
 certs-view =
     .label = Ver certificados…
     .accesskey = C
