@@ -409,6 +409,7 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Historial
+history-remember-description = { -brand-short-name } recordará su historial de navegación, descargas, formularios e historial de búsquedas.
 history-dontremember-description = { -brand-short-name } utilizará la misma configuración que para las búsquedas privadas y no recordará el historial mientras navegue por la web.
 history-private-browsing-permanent =
     .label = Siempre usar el modo de navegación privada
@@ -433,6 +434,12 @@ history-clear-button =
 
 sitedata-header = Cookies y datos del sitio
 sitedata-learn-more = Conocer más
+sitedata-accept-cookies-option =
+    .label = Aceptar cookies y datos de los sitios web (recomendado)
+    .accesskey = A
+sitedata-block-cookies-option =
+    .label = Bloquear cookies y datos del sitio (puede que algunos sitios no funcionen)
+    .accesskey = B
 sitedata-keep-until = Mantener hasta
     .accesskey = h
 sitedata-accept-third-party-desc = Aceptar cookies de terceros y datos del sitio
@@ -446,6 +453,9 @@ sitedata-accept-third-party-never-option =
 sitedata-clear =
     .label = Limpiar datos…
     .accesskey = L
+sitedata-settings =
+    .label = Administrar datos…
+    .accesskey = M
 sitedata-cookies-exceptions =
     .label = Excepciones…
     .accesskey = E
@@ -542,6 +552,10 @@ collection-health-report-link = Conocer más
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = La información de datos está deshabilitado para esta configuración de compilación
+collection-browser-errors =
+    .label = Permitir que { -brand-short-name } envíe informes de error del navegador (incluyendo mensajes de error) a { -vendor-short-name }
+    .accesskey = b
+collection-browser-errors-link = Conocer más
 collection-backlogged-crash-reports =
     .label = Permitir que { -brand-short-name } envíe informes de fallos pendientes en su nombre
     .accesskey = c
