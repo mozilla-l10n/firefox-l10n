@@ -310,6 +310,9 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Historial
+history-remember-search-option =
+    .label = Recordar l'historial de formularios y guetes
+    .accesskey = f
 history-clear-on-close-option =
     .label = Llimpiar l'historial cuando { -brand-short-name } se zarre
     .accesskey = r
