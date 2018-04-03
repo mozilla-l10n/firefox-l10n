@@ -288,3 +288,53 @@ containers-preferences-button =
     .label = ترجیحات
 containers-remove-button =
     .label = ہٹائیں
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-master-pw-use =
+    .label = ماسٹر پاس ورڈ استعمال کریں
+    .accesskey = ا
+
+## Privacy Section - History
+
+history-header = سابقات
+history-dontremember-description = { -brand-short-name } نجی براؤزنگ کی سیٹگنگیں استعمال کرے گا، اور آپ کے براوز کرتے وقت کوئی سابقات نہیں یاد رکھے گا۔
+history-private-browsing-permanent =
+    .label = ہمیشہ نجی براوزنگ موڈ استعمال کریں
+    .accesskey = ن
+history-remember-option =
+    .label = میری براؤزنگ اور ڈاؤن لوڈ سابقاتیاد رکھیں
+    .accesskey = ی
+history-remember-search-option =
+    .label = تلاش اور فارم سابقات یاد رکھیں
+    .accesskey = ف
+history-clear-on-close-option =
+    .label = { -brand-short-name } کے بند ہونے پر سابقات صاف کریں
+    .accesskey = ص
+
+## Privacy Section - Site Data
+
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
