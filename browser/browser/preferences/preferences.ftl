@@ -315,6 +315,7 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = ស្វែងយល់​បន្ថែម
 sitedata-accept-third-party-always-option =
     .label = ជានិច្ច
 sitedata-accept-third-party-visited-option =
@@ -371,6 +372,12 @@ security-block-downloads =
 
 certs-header = វិញ្ញាបនបត្រ
 certs-personal-label = នៅ​ពេល​ម៉ាស៊ីន​មេ​ស្នើ​សុំ​វិញ្ញាបនបត្រ​ផ្ទាល់ខ្លួន​របស់​អ្នក
+certs-select-auto-option =
+    .label = ជ្រើសរើស​​វិញ្ញាបនបត្រ​ដោយ​ស្វ័យប្រវត្តិ
+    .accesskey = S
+certs-select-ask-option =
+    .label = សួរ​អ្នក​រាល់លើក
+    .accesskey = A
 certs-enable-ocsp =
     .label = ម៉ាស៊ីន​មេ​កម្មវិធី​ឆ្លើយតប OCSP ត្រូវ​បញ្ជាក់​ភាព​ត្រឹមត្រូវ​នៃ​វិញ្ញាបនបត្រ​បច្ចុប្បន្ន
     .accesskey = Q
