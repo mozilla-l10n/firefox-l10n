@@ -16,7 +16,7 @@
 <!ENTITY firstrun_bookmarks_subtext "Få treff frå bokmerka dine og historikk, når du søkjer.">
 <!ENTITY firstrun_data_title "Data">
 <!ENTITY firstrun_data_message "Mindre data, meir spart">
-<!ENTITY firstrun_data_subtext2 "Skru av bilde for å bruka mindre data på kvar nettstad du besøkjer.">
+<!ENTITY firstrun_data_subtext2 "Skru av bilde for å bruke mindre data på kvar nettstad du besøker.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "Fortset der du slutta.">
 <!ENTITY firstrun_sync_subtext2 "Bruk Sync for å finne bokmerke, passord og andre ting som du lagrar i &brandShortName; på alle eininganedine.">
@@ -422,7 +422,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; Helserapport">
 <!ENTITY datareporting_fhr_summary2 "Deler info med &vendorShortName; om nettlesaren si helse, og hjelper deg å forstå ytinga til nettlesaren">
-<!ENTITY datareporting_abouthr_title "Vis helserapporten">
 <!ENTITY datareporting_telemetry_title "Telemetri">
 <!ENTITY datareporting_telemetry_summary "Sender info om yting, bruksmønster, maskinvare og tilpassingar i nettlesaren til &vendorShortName;, for å hjelpa oss å gjera &brandShortName; betre">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; sender krasjrapportar for å hjelpa &vendorShortName; med å gjera nettlesaren meir stabil og trygg">
@@ -783,7 +782,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_addons_installation "Utvidingar">
 <!ENTITY restrictable_feature_addons_installation_description "Legg til funksjonar og funksjonalitet i Firefox. Merk: Utvidingar kan slå av diverse avgrensingar">
 <!ENTITY restrictable_feature_private_browsing "Privat nettlesing">
-<!ENTITY restrictable_feature_private_browsing_description "Tillèt familiemedlemmar å surfa nettet utan å lagra informasjon om nettstadar eller sider dei besøkjer.">
+<!ENTITY restrictable_feature_private_browsing_description "Tillèt familiemedlemmar å surfe utan å lagre informasjon om nettstadar eller sider dei besøker.">
 <!ENTITY restrictable_feature_clear_history "Tøm historikk">
 <!ENTITY restrictable_feature_clear_history_description "Tillèt familiemedlemmar å sletta informasjon om sider og nettstadar dei har besøkt.">
 <!ENTITY restrictable_feature_advanced_settings "Avanserte innstillingar">
