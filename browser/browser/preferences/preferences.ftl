@@ -195,6 +195,9 @@ search-keyword-warning-bookmark = You have chosen a keyword that is currently in
 forms-exceptions =
     .label = Exceptions…
     .accesskey = x
+forms-saved-logins =
+    .label = Saved Logins…
+    .accesskey = L
 forms-master-pw-use =
     .label = Use a master password
     .accesskey = U
@@ -204,6 +207,7 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-header = History
 history-dontremember-description = { -brand-short-name } will use the same settings as private browsing, and will not remember any history as you browse the Web.
 history-private-browsing-permanent =
     .label = Always use private browsing mode
@@ -233,15 +237,37 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-bookmarks-option =
+    .label = Bookmarks
+    .accesskey = k
+addressbar-locbar-openpage-option =
+    .label = Open tabs
+    .accesskey = O
 
 ## Privacy Section - Tracking
 
+tracking-mode-always =
+    .label = Always
+    .accesskey = y
+tracking-mode-private =
+    .label = Only in private windows
+    .accesskey = l
+tracking-mode-never =
+    .label = Never
+    .accesskey = N
+tracking-exceptions =
+    .label = Exceptions…
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
+permissions-notification = Notifications
 permissions-block-popups =
     .label = Block pop-up windows
     .accesskey = B
+permissions-block-popups-exceptions =
+    .label = Exceptions…
+    .accesskey = E
 permissions-addon-exceptions =
     .label = Exceptions…
     .accesskey = E
@@ -254,7 +280,16 @@ permissions-addon-exceptions =
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-enable-safe-browsing =
+    .label = Block dangerous and deceptive content
+    .accesskey = B
+security-block-downloads =
+    .label = Block dangerous downloads
+    .accesskey = d
 
 ## Privacy Section - Certificates
 
 certs-header = Certificates
+certs-enable-ocsp =
+    .label = Query OCSP responder servers to confirm the current validity of certificates
+    .accesskey = Q
