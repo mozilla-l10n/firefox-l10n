@@ -302,6 +302,9 @@ forms-header = Formularios y contraseñes
 forms-exceptions =
     .label = Esceiciones…
     .accesskey = s
+forms-saved-logins =
+    .label = Anicios de sesión guardaos…
+    .accesskey = A
 forms-master-pw-use =
     .label = Usar una contraseña maestra
     .accesskey = U
@@ -312,16 +315,32 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Historial
+history-dontremember-description = { -brand-short-name } usará los mesmos axustes que Restolar en privao u nun rescordará historial dalu cuando restoles la web.
+history-private-browsing-permanent =
+    .label = Usar siempres el mou Restolar en privao
+    .accesskey = p
+history-remember-option =
+    .label = Recordar el mio historial de descargues y navegación
+    .accesskey = o
 history-remember-search-option =
     .label = Recordar l'historial de formularios y guetes
     .accesskey = f
 history-clear-on-close-option =
     .label = Llimpiar l'historial cuando { -brand-short-name } se zarre
     .accesskey = r
+history-clear-on-close-settings =
+    .label = Axustes…
+    .accesskey = C
 
 ## Privacy Section - Site Data
 
 sitedata-learn-more = Deprendi más
+sitedata-accept-third-party-always-option =
+    .label = Siempre
+sitedata-accept-third-party-visited-option =
+    .label = De los visitaos
+sitedata-accept-third-party-never-option =
+    .label = Enxamás
 sitedata-cookies-exceptions =
     .label = Esceiciones…
     .accesskey = E
@@ -330,6 +349,12 @@ sitedata-cookies-exceptions =
 
 addressbar-header = Barra de direiciones
 addressbar-suggest = Al usar la barra de direiciones, suxerir:
+addressbar-locbar-bookmarks-option =
+    .label = Marcadores
+    .accesskey = M
+addressbar-locbar-openpage-option =
+    .label = Abrir llingüetes
+    .accesskey = A
 addressbar-suggestions-settings = Camudar preferencies pa les suxerencies de los motores de gueta
 
 ## Privacy Section - Tracking
@@ -385,6 +410,7 @@ permissions-a11y-privacy-link = Deprendi más
 ## Privacy Section - Data Collection
 
 collection-privacy-notice = Avisu de privacidá
+collection-health-report-link = Deprender más
 collection-backlogged-crash-reports-link = Deprender más
 
 ## Privacy Section - Security
@@ -393,10 +419,17 @@ collection-backlogged-crash-reports-link = Deprender más
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Seguranza
+security-enable-safe-browsing =
+    .label = Bloquiar conteníu peligrosu y fraudulentu
+    .accesskey = B
 security-enable-safe-browsing-link = Deprendi más
+security-block-downloads =
+    .label = Bloquiar descargues peligroses
+    .accesskey = D
 
 ## Privacy Section - Certificates
 
+certs-header = Certificaos
 certs-personal-label = Cuando un sirvidor solicite'l to certificáu personal:
 certs-select-auto-option =
     .label = Seleicionar ún automáticamente
@@ -404,6 +437,9 @@ certs-select-auto-option =
 certs-select-ask-option =
     .label = Entrugame cada vegada
     .accesskey = A
+certs-enable-ocsp =
+    .label = Consultar a los sirvidores respondedores OCSP pa confirmar la validez actual de los certificaos
+    .accesskey = u
 certs-view =
     .label = Ver certificaos…
     .accesskey = C
