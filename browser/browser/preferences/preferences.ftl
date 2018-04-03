@@ -419,6 +419,7 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = Les mer
 sitedata-accept-third-party-always-option =
     .label = Alltid
 sitedata-accept-third-party-visited-option =
@@ -477,10 +478,19 @@ security-enable-safe-browsing =
 security-block-downloads =
     .label = Blokker farlige nedlastinger
     .accesskey = f
+security-block-uncommon-software =
+    .label = Advar deg om uønskede eller uvanlige programmer
+    .accesskey = d
 
 ## Privacy Section - Certificates
 
 certs-header = Sertifikater
+certs-select-auto-option =
+    .label = Velg ett automatisk
+    .accesskey = S
+certs-select-ask-option =
+    .label = Spør deg hver gang
+    .accesskey = A
 certs-enable-ocsp =
     .label = Spør OCSP-servere om å bekrefte gyldigheten til sertifikater
     .accesskey = O
