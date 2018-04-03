@@ -373,46 +373,216 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = ความเป็นส่วนตัวเบราว์เซอร์
 
 ## Privacy Section - Forms
 
+forms-header = แบบฟอร์มและรหัสผ่าน
+forms-remember-logins =
+    .label = จดจำการเข้าสู่ระบบและรหัสผ่านสำหรับเว็บไซต์
+    .accesskey = ด
 forms-exceptions =
     .label = ข้อยกเว้น…
     .accesskey = อ
+forms-saved-logins =
+    .label = การเข้าสู่ระบบที่บันทึกไว้…
+    .accesskey = ก
 forms-master-pw-use =
     .label = ใช้รหัสผ่านหลัก
     .accesskey = ช
+forms-master-pw-change =
+    .label = เปลี่ยนรหัสผ่านหลัก…
+    .accesskey = ผ
 
 ## Privacy Section - History
 
 history-header = ประวัติ
+history-remember-description = { -brand-short-name } จะจดจำประวัติการท่องเว็บ, การดาวน์โหลด, แบบฟอร์ม และการค้นหาของคุณ
+history-dontremember-description = { -brand-short-name } จะใช้การตั้งค่าเดียวกับการท่องเว็บแบบส่วนตัวและจะไม่จดจำประวัติใด ๆ ขณะที่คุณท่องเว็บ
+history-private-browsing-permanent =
+    .label = ใช้โหมดการท่องเว็บแบบส่วนตัวเสมอ
+    .accesskey = ช
+history-remember-option =
+    .label = จดจำประวัติการท่องเว็บและการดาวน์โหลดของฉัน
+    .accesskey = จ
+history-remember-search-option =
+    .label = จดจำประวัติการค้นหาและแบบฟอร์ม
+    .accesskey = ด
+history-clear-on-close-option =
+    .label = ล้างประวัติเมื่อปิด { -brand-short-name }
+    .accesskey = ล
+history-clear-on-close-settings =
+    .label = การตั้งค่า…
+    .accesskey = ก
+history-clear-button =
+    .label = ล้างประวัติ…
+    .accesskey = ง
 
 ## Privacy Section - Site Data
 
+sitedata-header = คุกกี้และข้อมูลไซต์
+sitedata-learn-more = เรียนรู้เพิ่มเติม
+sitedata-accept-cookies-option =
+    .label = ยอมรับคุกกี้และข้อมูลไซต์จากเว็บไซต์ (แนะนำ)
+    .accesskey = ย
+sitedata-block-cookies-option =
+    .label = ปิดกั้นคุกกี้และข้อมูลไซต์ (อาจส่งผลให้เว็บไซต์ไม่สมบูรณ์)
+    .accesskey = ป
+sitedata-keep-until = เก็บจนกระทั่ง
+    .accesskey = ก
+sitedata-accept-third-party-desc = ยอมรับคุกกี้และข้อมูลไซต์จากบุคคลที่สาม
+    .accesskey = อ
 sitedata-accept-third-party-always-option =
     .label = เสมอ
+sitedata-accept-third-party-visited-option =
+    .label = จากที่เยี่ยมชม
 sitedata-accept-third-party-never-option =
     .label = ไม่เลย
+sitedata-clear =
+    .label = ล้างข้อมูล…
+    .accesskey = ล
+sitedata-settings =
+    .label = จัดการข้อมูล…
+    .accesskey = จ
+sitedata-cookies-exceptions =
+    .label = ข้อยกเว้น…
+    .accesskey = ข
 
 ## Privacy Section - Address Bar
 
+addressbar-header = แถบที่อยู่
+addressbar-suggest = เมื่อใช้แถบที่อยู่ เสนอแนะ
+addressbar-locbar-history-option =
+    .label = ประวัติการท่องเว็บ
+    .accesskey = ว
+addressbar-locbar-bookmarks-option =
+    .label = ที่คั่นหน้า
+    .accesskey = ท
+addressbar-locbar-openpage-option =
+    .label = แท็บที่เปิดอยู่
+    .accesskey = บ
+addressbar-suggestions-settings = เปลี่ยนค่ากำหนดข้อเสนอแนะจากเครื่องมือค้นหา
 
 ## Privacy Section - Tracking
 
+tracking-header = การป้องกันการติดตาม
+tracking-description = การป้องกันการติดตามปิดกั้นตัวติดตามออนไลน์ที่เก็บรวบรวมข้อมูลการท่องเว็บของคุณระหว่างหลายเว็บไซต์ <a>เรียนรู้เพิ่มเติมเกี่ยวกับการป้องกันการติดตามและความเป็นส่วนตัวของคุณ</a>
+tracking-mode-label = ใช้การป้องกันการติดตามเพื่อปิดกั้นตัวติดตามที่รู้จัก
+tracking-mode-always =
+    .label = เสมอ
+    .accesskey = ส
+tracking-mode-private =
+    .label = เฉพาะในหน้าต่างส่วนตัว
+    .accesskey = พ
+tracking-mode-never =
+    .label = ไม่เลย
+    .accesskey = ม
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = ใช้การป้องกันการติดตามในการท่องเว็บแบบส่วนตัวเพื่อปิดกั้นตัวติดตามที่รู้จัก
+    .accesskey = ช
+tracking-exceptions =
+    .label = ข้อยกเว้น…
+    .accesskey = อ
+tracking-change-block-list =
+    .label = เปลี่ยนรายการปิดกั้น…
+    .accesskey = ร
 
 ## Privacy Section - Permissions
 
+permissions-header = การอนุญาต
+permissions-location = ตำแหน่งที่ตั้ง
+permissions-location-settings =
+    .label = การตั้งค่า…
+    .accesskey = ต
+permissions-camera = กล้อง
+permissions-camera-settings =
+    .label = การตั้งค่า…
+    .accesskey = ก
+permissions-microphone = ไมโครโฟน
+permissions-microphone-settings =
+    .label = การตั้งค่า…
+    .accesskey = ค
+permissions-notification = การแจ้งเตือน
+permissions-notification-settings =
+    .label = การตั้งค่า…
+    .accesskey = ร
+permissions-notification-link = เรียนรู้เพิ่มเติม
+permissions-notification-pause =
+    .label = หยุดการแจ้งเตือนชั่วคราวจนกระทั่ง { -brand-short-name } เริ่มการทำงานใหม่
+    .accesskey = ห
+permissions-block-popups =
+    .label = ปิดกั้นหน้าต่างป๊อปอัป
+    .accesskey = ป
+permissions-block-popups-exceptions =
+    .label = ข้อยกเว้น…
+    .accesskey = ข
+permissions-addon-install-warning =
+    .label = เตือนคุณเมื่อเว็บไซต์พยายามจะติดตั้งส่วนเสริม
+    .accesskey = ต
+permissions-addon-exceptions =
+    .label = ข้อยกเว้น…
+    .accesskey = ข
+permissions-a11y-privacy-checkbox =
+    .label = ป้องกันบริการการช่วยการเข้าถึงจากการเข้าถึงเบราว์เซอร์ของคุณ
+    .accesskey = อ
+permissions-a11y-privacy-link = เรียนรู้เพิ่มเติม
 
 ## Privacy Section - Data Collection
 
+collection-header = การเก็บรวบรวมและใช้ข้อมูล { -brand-short-name }
+collection-description = เรามุ่งมั่นที่จะให้ทางเลือกกับคุณและเก็บรวบรวมเฉพาะสิ่งที่เราจำเป็นต้องจัดหาและปรับปรุง { -brand-short-name } สำหรับทุกคน เราร้องขอการอนุญาตก่อนที่จะรับข้อมูลส่วนบุคคลเสมอ
+collection-privacy-notice = ประกาศความเป็นส่วนตัว
+collection-health-report =
+    .label = อนุญาตให้ { -brand-short-name } ส่งข้อมูลทางเทคนิคและการโต้ตอบไปยัง { -vendor-short-name }
+    .accesskey = อ
 collection-health-report-link = เรียนรู้เพิ่มเติม
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = การรายงานข้อมูลถูกปิดใช้งานสำหรับการกำหนดค่าการสร้างนี้
+collection-browser-errors =
+    .label = อนุญาตให้ { -brand-short-name } ส่งรายงานข้อผิดพลาดเบราว์เซอร์ (รวมทั้งข้อความแสดงข้อผิดพลาด) ไปยัง { -vendor-short-name }
+    .accesskey = น
+collection-browser-errors-link = เรียนรู้เพิ่มเติม
+collection-backlogged-crash-reports =
+    .label = อนุญาตให้ { -brand-short-name } ส่งรายงานข้อขัดข้องที่ค้างอยู่ในนามของคุณ
+    .accesskey = ต
+collection-backlogged-crash-reports-link = เรียนรู้เพิ่มเติม
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = ความปลอดภัย
+security-browsing-protection = การป้องกันเนื้อหาหลอกลวงและซอฟต์แวร์ที่เป็นอันตราย
+security-enable-safe-browsing =
+    .label = ปิดกั้นเนื้อหาที่เป็นอันตรายและหลอกลวง
+    .accesskey = ต
+security-enable-safe-browsing-link = เรียนรู้เพิ่มเติม
+security-block-downloads =
+    .label = ปิดกั้นการดาวน์โหลดที่เป็นอันตราย
+    .accesskey = อ
+security-block-uncommon-software =
+    .label = เตือนคุณเกี่ยวกับซอฟต์แวร์ไม่พึงประสงค์และไม่ปกติ
+    .accesskey = น
 
 ## Privacy Section - Certificates
 
 certs-header = ใบรับรอง
+certs-personal-label = เมื่อเซิร์ฟเวอร์ร้องขอใบรับรองส่วนบุคคลของคุณ
+certs-select-auto-option =
+    .label = เลือกมาหนึ่งโดยอัตโนมัติ
+    .accesskey = ห
+certs-select-ask-option =
+    .label = ถามคุณทุกครั้ง
+    .accesskey = ถ
+certs-enable-ocsp =
+    .label = สืบค้นเซิร์ฟเวอร์ตอบกลับ OCSP เพื่อยืนยันความถูกต้องของใบรับรองปัจจุบัน
+    .accesskey = ฟ
+certs-view =
+    .label = ดูใบรับรอง…
+    .accesskey = บ
+certs-devices =
+    .label = อุปกรณ์ความปลอดภัย…
+    .accesskey = ค
