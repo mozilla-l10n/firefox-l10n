@@ -417,6 +417,7 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Data Collection
 
+collection-health-report-link = Сазнајте више
 
 ## Privacy Section - Security
 ##
