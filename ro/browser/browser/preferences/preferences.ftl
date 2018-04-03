@@ -383,3 +383,45 @@ containers-preferences-button =
     .label = Preferințe
 containers-remove-button =
     .label = Elimină
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+
+## Privacy Section - History
+
+history-remember-option =
+    .label = Memorează istoricul navigării și al descărcărilor
+    .accesskey = g
+history-remember-search-option =
+    .label = Memorează istoricul formularelor și al căutărilor
+    .accesskey = f
+history-clear-on-close-settings =
+    .label = Setări…
+    .accesskey = t
+
+## Privacy Section - Site Data
+
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
