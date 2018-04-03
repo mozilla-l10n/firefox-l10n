@@ -36,6 +36,8 @@
 <!ENTITY newFeedAccountCmd.accesskey "d">
 <!ENTITY newIMContactCmd.label "Kontakt za razgovor…">
 <!ENTITY newIMContactCmd.accesskey "h">
+<!ENTITY  newMessageCmd.label "Poruka">
+<!ENTITY  newContactCmd.label "Kontakt iz adresara…">
 <!ENTITY openMessageFileCmd.label "Otvori sačuvanu poruku…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY saveAsMenu.label "Spremi kao">
@@ -509,8 +511,6 @@
 <!ENTITY devToolboxCmd.label "Programerska kutija s alatima">
 <!ENTITY devToolboxCmd.accesskey "T">
 <!ENTITY devToolboxCmd.commandkey "i">
-<!ENTITY addonDebugCmd.label "Otklanjač grešaka dodataka">
-<!ENTITY addonDebugCmd.accesskey "A">
 <!ENTITY debugAddonsCmd.label "Otkloni greške dodataka">
 <!ENTITY debugAddonsCmd.accesskey "A">
 <!ENTITY tabsDebugCmd.label "Otklanjač grešaka za sadržaj okvira">
