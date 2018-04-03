@@ -348,12 +348,20 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = Privatnost preglednika
 
 ## Privacy Section - Forms
 
+forms-header = Obrasci i lozinke
+forms-remember-logins =
+    .label = Zapamti prijave i lozinke za web stranice
+    .accesskey = r
 forms-exceptions =
     .label = Iznimke...
     .accesskey = m
+forms-saved-logins =
+    .label = Spremljene prijave…
+    .accesskey = l
 forms-master-pw-use =
     .label = Koristi glavnu lozinku
     .accesskey = u
@@ -363,6 +371,7 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-header = Povijest
 history-dontremember-description = { -brand-short-name } će koristiti iste postavke kao i za privatno pretraživanje, te neće pamtiti povijest pretraživanja.
 history-private-browsing-permanent =
     .label = Uvijek koristi privatni način pretraživanja
@@ -382,6 +391,11 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = Saznajte više
+sitedata-keep-until = Zadrži do
+    .accesskey = ž
+sitedata-accept-third-party-always-option =
+    .label = Uvijek
 sitedata-accept-third-party-visited-option =
     .label = Od posjećenih
 sitedata-accept-third-party-never-option =
@@ -392,28 +406,98 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Adresna traka
+addressbar-suggest = Pri korištenju adresne trake, predloži
+addressbar-locbar-history-option =
+    .label = Povijest pretraživanja
+    .accesskey = P
+addressbar-locbar-bookmarks-option =
+    .label = Zabilješke
+    .accesskey = k
+addressbar-locbar-openpage-option =
+    .label = Otvori kartice
+    .accesskey = O
+addressbar-suggestions-settings = Promijenite postavke za prijedloge tražilica
 
 ## Privacy Section - Tracking
 
+tracking-header = Zaštita od praćenja
+tracking-mode-always =
+    .label = Uvijek
+    .accesskey = j
+tracking-mode-private =
+    .label = Samo u privatnim prozorima
+    .accesskey = r
+tracking-mode-never =
+    .label = Nikad
+    .accesskey = N
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Koristite zaštitu od praćenja u Privatnom pretraživanju kako biste blokirali poznate alate za praćenje
+    .accesskey = v
+tracking-exceptions =
+    .label = Iznimke…
+    .accesskey = z
+tracking-change-block-list =
+    .label = Promijenite popis blokiranih…
+    .accesskey = b
 
 ## Privacy Section - Permissions
 
+permissions-header = Dopuštenja
 permissions-block-popups =
     .label = Blokiraj skočne prozore
     .accesskey = s
+permissions-addon-install-warning =
+    .label = Upozorava vas kad stranice pokušaju instalirati dodatke
+    .accesskey = d
 permissions-addon-exceptions =
     .label = Iznimke...
     .accesskey = e
 
 ## Privacy Section - Data Collection
 
+collection-header = { -brand-short-name } korištenje i skupljanje podataka
+collection-description = Težimo da vam omogućimo izbor i prikupljamo samo onoliko koliko nam treba da omogućimo i unaprijedimo { -brand-short-name } za sve. Uvijek pitamo za dozvolu prije nego li počmemo primati osobne informacije.
+collection-privacy-notice = Politika privatnosti
+collection-health-report-link = Saznajte više
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Izvještaji s podacima su onemogućeni za konfiguraciju
+collection-backlogged-crash-reports-link = Saznajte više
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Sigurnost
+security-enable-safe-browsing =
+    .label = Blokiraj opasni i zavaravajući sadržaj
+    .accesskey = B
+security-block-downloads =
+    .label = Blokiraj opasna preuzimanja
+    .accesskey = o
+security-block-uncommon-software =
+    .label = Upozorava vas na neželjene ili neobične programe
+    .accesskey = g
 
 ## Privacy Section - Certificates
 
 certs-header = Certifikati
+certs-personal-label = Kad poslužitelj zatraži vaš osobni certifikat
+certs-select-auto-option =
+    .label = Automatski označi jednoga
+    .accesskey = s
+certs-select-ask-option =
+    .label = Traži vas svaki put
+    .accesskey = a
+certs-enable-ocsp =
+    .label = Upitajte OCSP poslužitelje da biste potvrdili valjanost certifikata
+    .accesskey = U
+certs-view =
+    .label = Prikaz certifikata…
+    .accesskey = c
+certs-devices =
+    .label = Sigurnosni uređaji…
+    .accesskey = S
