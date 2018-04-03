@@ -390,13 +390,43 @@ privacy-header = Приватность браузера
 
 ## Privacy Section - Forms
 
+forms-header = Формы и Пароли
 forms-remember-logins =
     .label = Запоминать логины и пароли для веб-сайтов
     .accesskey = а
+forms-exceptions =
+    .label = Исключения…
+    .accesskey = ю
+forms-saved-logins =
+    .label = Сохранённые логины…
+    .accesskey = х
+forms-master-pw-use =
+    .label = Использовать мастер-пароль
+    .accesskey = о
+forms-master-pw-change =
+    .label = Сменить мастер-пароль…
+    .accesskey = м
 
 ## Privacy Section - History
 
+history-header = История
 history-remember-description = { -brand-short-name } будет помнить историю посещений, загрузок, поиска и сохранять данные форм.
+history-dontremember-description = { -brand-short-name } будет использовать те же настройки, что и при приватном просмотре, и не будет помнить историю вашей работы с веб-сайтами.
+history-private-browsing-permanent =
+    .label = Всегда работать в режиме приватного просмотра
+    .accesskey = т
+history-remember-option =
+    .label = Помнить историю посещений и загрузок
+    .accesskey = с
+history-remember-search-option =
+    .label = Помнить историю поиска и данных форм
+    .accesskey = и
+history-clear-on-close-option =
+    .label = Удалять историю при закрытии { -brand-short-name }
+    .accesskey = я
+history-clear-on-close-settings =
+    .label = Параметры…
+    .accesskey = ы
 history-clear-button =
     .label = Удалить историю…
     .accesskey = л
@@ -404,6 +434,7 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Куки и данные сайтов
+sitedata-learn-more = Подробнее
 sitedata-accept-cookies-option =
     .label = Принимать куки и данные сайтов с веб-сайтов (рекомендуется)
     .accesskey = и
@@ -414,12 +445,21 @@ sitedata-keep-until = Хранить куки
     .accesskey = ь
 sitedata-accept-third-party-desc = Принимать куки и данные сайтов со сторонних веб-сайтов
     .accesskey = н
+sitedata-accept-third-party-always-option =
+    .label = Всегда
+sitedata-accept-third-party-visited-option =
+    .label = С посещённых
+sitedata-accept-third-party-never-option =
+    .label = Никогда
 sitedata-clear =
     .label = Удалить данные…
     .accesskey = а
 sitedata-settings =
     .label = Управление данными…
     .accesskey = ы
+sitedata-cookies-exceptions =
+    .label = Исключения…
+    .accesskey = ю
 
 ## Privacy Section - Address Bar
 
@@ -428,11 +468,31 @@ addressbar-suggest = При использовании панели адреса
 addressbar-locbar-history-option =
     .label = из журнала посещений
     .accesskey = ж
+addressbar-locbar-bookmarks-option =
+    .label = из закладок
+    .accesskey = д
+addressbar-locbar-openpage-option =
+    .label = из открытых вкладок
+    .accesskey = к
+addressbar-suggestions-settings = Изменить настройки для предложений поисковых систем
 
 ## Privacy Section - Tracking
 
+tracking-header = Защита от отслеживания
 tracking-description = Защита от отслеживания блокирует онлайн-трекеры, которые собирают данные вашего веб-сёрфинга на различных веб-сайтах. <a>Узнайте больше о защите от отслеживания и вашей приватности</a>
 tracking-mode-label = Использовать защиту от отслеживания для блокировки известных трекеров
+tracking-mode-always =
+    .label = Всегда
+    .accesskey = е
+tracking-mode-private =
+    .label = Только в приватных окнах
+    .accesskey = в
+tracking-mode-never =
+    .label = Никогда
+    .accesskey = а
+tracking-exceptions =
+    .label = Исключения…
+    .accesskey = л
 tracking-change-block-list =
     .label = Сменить список блокировки…
     .accesskey = м
@@ -449,9 +509,15 @@ permissions-microphone-settings =
 permissions-notification-settings =
     .label = Параметры…
     .accesskey = е
+permissions-block-popups =
+    .label = Блокировать всплывающие окна
+    .accesskey = о
 permissions-addon-install-warning =
     .label = Предупреждать при попытке веб-сайтов установить дополнения
     .accesskey = е
+permissions-addon-exceptions =
+    .label = Исключения…
+    .accesskey = с
 permissions-a11y-privacy-checkbox =
     .label = Запретить службам поддержки доступности доступ к вашему браузеру
     .accesskey = е
@@ -462,6 +528,7 @@ permissions-a11y-privacy-link = Подробнее
 collection-header = Сбор и использование данных { -brand-short-name }
 collection-description = Мы стремимся предоставить вам выбор и собирать только то, что нам нужно, для выпуска и улучшения { -brand-short-name } для всех и каждого. Мы всегда спрашиваем разрешения перед получением личной информации.
 collection-privacy-notice = Уведомление о приватности
+collection-health-report-link = Подробнее
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Для этой конфигурации сборки отправка данных отключена
@@ -479,10 +546,31 @@ collection-backlogged-crash-reports-link = Подробнее
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Защита
+security-enable-safe-browsing =
+    .label = Блокировать опасное и обманывающее содержимое
+    .accesskey = л
 security-enable-safe-browsing-link = Подробнее
+security-block-downloads =
+    .label = Блокировать опасные загрузки
+    .accesskey = к
+security-block-uncommon-software =
+    .label = Предупреждать о нежелательных и нетипичных программах
+    .accesskey = ж
 
 ## Privacy Section - Certificates
 
+certs-header = Сертификаты
+certs-personal-label = Когда сервер запрашивает личный сертификат
+certs-select-auto-option =
+    .label = Отправлять автоматически
+    .accesskey = а
+certs-select-ask-option =
+    .label = Спрашивать каждый раз
+    .accesskey = ш
+certs-enable-ocsp =
+    .label = Запрашивать у OCSP-серверов подтверждение текущего статуса сертификатов
+    .accesskey = п
 certs-view =
     .label = Просмотр сертификатов…
     .accesskey = м
