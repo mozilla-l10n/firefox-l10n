@@ -391,3 +391,4 @@ containers-remove-button =
 
 ## Privacy Section - Certificates
 
+certs-header = Certyfikaty
