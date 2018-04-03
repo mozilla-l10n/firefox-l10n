@@ -411,18 +411,33 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Īstatiejumi…
     .accesskey = t
+history-clear-button =
+    .label = Nūteireit viesturi…
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
+sitedata-header = Cookies un lopys dati
 sitedata-learn-more = Uzzynojit vairuok
+sitedata-block-cookies-option =
+    .label = Aizlīgt cookies un lopys datus (var samaitōt lopys īcarātū darbeibu)
+    .accesskey = i
 sitedata-keep-until = Globoj leidz
     .accesskey = l
+sitedata-accept-third-party-desc = Atļaut trešu pušu cookies un lopys datus
+    .accesskey = t
 sitedata-accept-third-party-always-option =
     .label = Vīnmār
 sitedata-accept-third-party-visited-option =
     .label = Tikai nu lopom, kurys asmu apmekliejs
 sitedata-accept-third-party-never-option =
     .label = Nikod
+sitedata-clear =
+    .label = Dzēst datus…
+    .accesskey = z
+sitedata-settings =
+    .label = Porvaļdēt datus…
+    .accesskey = P
 sitedata-cookies-exceptions =
     .label = Izjāmumi…
     .accesskey = I
@@ -445,6 +460,8 @@ addressbar-suggestions-settings = Izmainit mekleituoju īstatiejumus
 ## Privacy Section - Tracking
 
 tracking-header = Izsekuošonys aizsardzeiba
+tracking-description = Izsekošonys aizsardzeiba sytās pret sekōtōjim kas vysaidōs lopōs vōc informaciji par tovu uzvedeibu internetā. <a>Vaira par izsekōšonys aizsardzeibu un tovu privātumu</a>
+tracking-mode-label = Izmontōt izsekošonys aizsardzeibu, kab bloķeitu zynomūs izsekōtōjus
 tracking-mode-always =
     .label = Vīnmār
     .accesskey = m
@@ -485,6 +502,12 @@ permissions-notification-settings =
     .label = Īstatiejumi…
     .accesskey = t
 permissions-notification-link = Uzzynojit vairuok
+permissions-notification-pause =
+    .label = Narōdēt paziņojumus cikam { -brand-short-name } porzastartēs
+    .accesskey = p
+permissions-block-popups =
+    .label = Blokeit jaunūs lūgus
+    .accesskey = B
 permissions-block-popups-exceptions =
     .label = Izjāmumi...
     .accesskey = I
@@ -511,6 +534,13 @@ collection-health-report-link = Uzzynojit vairuok
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Data reporting is disabled for this build configuration
+collection-browser-errors =
+    .label = Atļaut { -brand-short-name } syuteit porlyuka klaidu atskaites (ari klaidu ziņojumus) { -vendor-short-name }
+    .accesskey = b
+collection-browser-errors-link = Vaira
+collection-backlogged-crash-reports =
+    .label = Ļaut { -brand-short-name } tovā vōrdā syuteit sakrōtūs avarejis ziņojumus
+    .accesskey = t
 collection-backlogged-crash-reports-link = Uzzynojit vairuok
 
 ## Privacy Section - Security
