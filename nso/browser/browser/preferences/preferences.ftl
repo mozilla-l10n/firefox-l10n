@@ -186,6 +186,10 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-visited-option =
+    .label = Go tšwa go tše etetšwego
+sitedata-accept-third-party-never-option =
+    .label = Le gatee
 sitedata-cookies-exceptions =
     .label = Tše sa akaretšwego…
     .accesskey = T
