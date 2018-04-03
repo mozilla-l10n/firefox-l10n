@@ -433,6 +433,9 @@ history-clear-button =
 
 sitedata-header = Cookies e Dados de sites
 sitedata-learn-more = Saber mais
+sitedata-block-cookies-option =
+    .label = Bloquear cookies e dados de sites (pode quebrar páginas)
+    .accesskey = B
 sitedata-keep-until = Manter até
     .accesskey = m
 sitedata-accept-third-party-desc = Aceitar cookies e dados de site de terceiros
