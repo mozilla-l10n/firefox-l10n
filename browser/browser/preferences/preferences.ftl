@@ -389,6 +389,9 @@ containers-remove-button =
 forms-exceptions =
     .label = Выключэнні…
     .accesskey = ы
+forms-saved-logins =
+    .label = Захаваныя лагіны…
+    .accesskey = З
 forms-master-pw-use =
     .label = Ужываць галоўны пароль
     .accesskey = У
@@ -398,12 +401,23 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-header = Гісторыя
+history-dontremember-description = { -brand-short-name } будзе ўжываць тыя ж налады, што і ў прыватным рэжыме, і не будзе памятаць гісторыю вашага аглядання Сеціва.
+history-private-browsing-permanent =
+    .label = Заўсёды ўжываць прыватны рэжым аглядання
+    .accesskey = д
+history-remember-option =
+    .label = Памятаць гісторыю маіх аглядання і сцягванняў
+    .accesskey = а
 history-remember-search-option =
     .label = Памятаць гісторыю пошуку і запаўнення формаў
     .accesskey = ш
 history-clear-on-close-option =
     .label = Ачышчаць гісторыю, калі { -brand-short-name } закрываецца
     .accesskey = ч
+history-clear-on-close-settings =
+    .label = Налады…
+    .accesskey = Н
 
 ## Privacy Section - Site Data
 
@@ -420,11 +434,29 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-bookmarks-option =
+    .label = Закладкі
+    .accesskey = л
+addressbar-locbar-openpage-option =
+    .label = Адкрытыя карткі
+    .accesskey = А
 addressbar-suggestions-settings = Змяніць налады для падказак пашукавіка
 
 ## Privacy Section - Tracking
 
 tracking-header = Ахова ад сачэння
+tracking-mode-always =
+    .label = Заўсёды
+    .accesskey = З
+tracking-mode-private =
+    .label = Толькі ў прыватных вокнах
+    .accesskey = л
+tracking-mode-never =
+    .label = Ніколі
+    .accesskey = н
+tracking-exceptions =
+    .label = Выключэнні…
+    .accesskey = ч
 
 ## Privacy Section - Permissions
 
@@ -437,6 +469,7 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Data Collection
 
+collection-health-report-link = Даведацца больш
 
 ## Privacy Section - Security
 ##
@@ -444,9 +477,19 @@ permissions-addon-exceptions =
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Бяспека
+security-enable-safe-browsing =
+    .label = Блакаваць небяспечнае і падманлівае змесціва
+    .accesskey = Б
+security-block-downloads =
+    .label = Блакаваць небяспечныя сцягванні
+    .accesskey = Н
+security-block-uncommon-software =
+    .label = Папярэджваць пра непажаданыя ці незвычайныя праграмы
+    .accesskey = П
 
 ## Privacy Section - Certificates
 
+certs-header = Сертыфікаты
 certs-select-auto-option =
     .label = Выбіраць аўтаматычна
     .accesskey = Ы
