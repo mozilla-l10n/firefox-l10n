@@ -502,6 +502,7 @@ collection-health-report-disabled = Dữ liệu báo cáo bị vô hiệu hóa v
 collection-browser-errors =
     .label = Cho phép { -brand-short-name } gửi báo cáo lỗi trình duyệt (bao gồm thông báo lỗi) cho { -vendor-short-name }
     .accesskey = b
+collection-browser-errors-link = Tìm hiểu thêm
 collection-backlogged-crash-reports-link = Tìm hiểu thêm
 
 ## Privacy Section - Security
