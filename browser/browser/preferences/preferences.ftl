@@ -371,6 +371,7 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = Confidencialitat del navegador
 
 ## Privacy Section - Forms
 
@@ -395,6 +396,12 @@ forms-master-pw-change =
 
 history-header = Istoric
 history-dontremember-description = { -brand-short-name } utilizarà los meteisses paramètres que per la navegacion privada e conservarà pas cap d'istoric quand navegaretz sus internet.
+history-private-browsing-permanent =
+    .label = Utilizar totjorn lo mòde de navegacion privada
+    .accesskey = p
+history-remember-option =
+    .label = Conservar l'istoric de navegacion e dels telecargaments
+    .accesskey = C
 history-remember-search-option =
     .label = Conservar l'istoric de las recèrcas e dels formularis
     .accesskey = f
@@ -425,6 +432,9 @@ sitedata-cookies-exceptions =
 
 addressbar-header = Barra d'adreça
 addressbar-suggest = Quand utilizi la barra d'adreça, suggerir
+addressbar-locbar-history-option =
+    .label = Istoric de navegacion
+    .accesskey = I
 addressbar-locbar-bookmarks-option =
     .label = Favorits
     .accesskey = F
@@ -436,6 +446,7 @@ addressbar-suggestions-settings = Cambiar las preferéncias per las suggestions 
 ## Privacy Section - Tracking
 
 tracking-header = Proteccion contra lo seguiment
+tracking-description = La proteccion contra lo seguiment bloca los traçadors en linha que collectan vòstras donadas de navegacion a partir de mantun sites web. <a>Ne saber mai sus la proteccion contra lo seguiment e la proteccion de vòstra privacitat</a>
 tracking-mode-label = Utilizar la proteccion contra lo seguiment per blocar los traçadors coneguts
 tracking-mode-always =
     .label = Totjorn
@@ -446,6 +457,10 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Jamai
     .accesskey = j
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Utilizar la proteccion contra lo seguiment dins la navegacion privada per blocar los traçadors coneguts
+    .accesskey = v
 tracking-exceptions =
     .label = Excepcions…
     .accesskey = E
@@ -488,6 +503,9 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Excepcions…
     .accesskey = E
+permissions-a11y-privacy-checkbox =
+    .label = Empachar los servicis d’accessibilitat d’accedir a vòstre navegador
+    .accesskey = a
 permissions-a11y-privacy-link = Ne saber mai
 
 ## Privacy Section - Data Collection
