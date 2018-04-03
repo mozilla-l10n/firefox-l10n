@@ -387,6 +387,8 @@ history-dontremember-description = { -brand-short-name } က တူညီတဲ�
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-never-option =
+    .label = ဘယ်တော့မှ
 
 ## Privacy Section - Address Bar
 
