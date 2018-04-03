@@ -347,3 +347,94 @@ containers-preferences-button =
     .label = Preferensi
 containers-remove-button =
     .label = Hapus
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = Pengecualian…
+    .accesskey = c
+forms-master-pw-use =
+    .label = Gunakan sandi utama
+    .accesskey = m
+forms-master-pw-change =
+    .label = Ubah Sandi Utama…
+    .accesskey = U
+
+## Privacy Section - History
+
+history-header = Riwayat
+history-dontremember-description = { -brand-short-name } akan menggunakan pengaturan seperti halnya pengaturan mode penjelajahan pribadi dan tidak akan menyimpan riwayat apa pun ketika Anda menjelajah Web.
+history-private-browsing-permanent =
+    .label = Selalu gunakan mode penjelajahan pribadi
+    .accesskey = p
+history-remember-option =
+    .label = Ingat riwayat penjelajahan dan unduhan saya
+    .accesskey = r
+history-remember-search-option =
+    .label = Simpan riwayat pencarian dan isian form
+    .accesskey = i
+history-clear-on-close-option =
+    .label = Hapus riwayat saat { -brand-short-name } ditutup
+    .accesskey = H
+history-clear-on-close-settings =
+    .label = Pengaturan…
+    .accesskey = P
+
+## Privacy Section - Site Data
+
+sitedata-learn-more = Pelajari lebih lanjut
+sitedata-accept-third-party-always-option =
+    .label = Selalu
+sitedata-accept-third-party-visited-option =
+    .label = Dari yang Pernah Dikunjungi
+sitedata-accept-third-party-never-option =
+    .label = Tidak Pernah
+sitedata-cookies-exceptions =
+    .label = Pengecualian…
+    .accesskey = e
+
+## Privacy Section - Address Bar
+
+addressbar-locbar-bookmarks-option =
+    .label = Markah
+    .accesskey = M
+addressbar-locbar-openpage-option =
+    .label = Tab terbuka
+    .accesskey = T
+addressbar-suggestions-settings = Ubah preferensi untuk saran mesin pencari
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-notification-pause =
+    .label = Jeda notifikasi hingga { -brand-short-name } dimulai ulang
+    .accesskey = J
+permissions-addon-exceptions =
+    .label = Pengecualian…
+    .accesskey = P
+
+## Privacy Section - Data Collection
+
+collection-description = Kami berusaha memberi Anda pilihan dan mengumpulkan hanya apa yang kami butuhkan untuk menyediakan dan meningkatkan { -brand-short-name } bagi semua orang. Kami selalu meminta izin sebelum menerima informasi pribadi.
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+security-enable-safe-browsing-link = Pelajari lebih lanjut
+
+## Privacy Section - Certificates
+
+certs-header = Sertifikat
+certs-select-auto-option =
+    .label = Pilih satu secara otomatis
+    .accesskey = s
+certs-select-ask-option =
+    .label = Tanyakan setiap saat
+    .accesskey = T
