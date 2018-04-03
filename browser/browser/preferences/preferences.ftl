@@ -498,6 +498,9 @@ permissions-a11y-privacy-link = अधिक जाणून घ्या
 collection-header = { -brand-short-name } माहिती संग्रह आणि वापर
 collection-description = आम्ही आपल्याला पर्याय उपलब्ध करण्यासाठी प्रयत्न करतो आणि सर्वांसाठी { -brand-short-name } उपलब्ध होण्यासाठी आणि सुधारण्यासाठी गरजेपुरतेच गोळा करतो. वैयक्तिक माहिती घेण्याआधी आम्ही नेहमी परवानगी विचारतो.
 collection-privacy-notice = गोपनीयता सूचना
+collection-health-report =
+    .label = { -vendor-short-name } ला तांत्रिक व परस्परसंवाद माहिती पाठविण्यासाठी { -brand-short-name } ला परवानगी द्या
+    .accesskey = r
 collection-health-report-link = आणखी जाणा
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
