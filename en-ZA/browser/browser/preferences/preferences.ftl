@@ -223,6 +223,10 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-visited-option =
+    .label = From visited
+sitedata-accept-third-party-never-option =
+    .label = Never
 sitedata-cookies-exceptions =
     .label = Exceptions…
     .accesskey = E
@@ -253,3 +257,4 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Certificates
 
+certs-header = Certificates
