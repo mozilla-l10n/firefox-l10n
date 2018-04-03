@@ -27,25 +27,14 @@ close-button =
 
 should-restart-title = { -brand-short-name }-г шинээр ачаал
 
+## Preferences UI Search Results
+
+
 ## General Section
 
 startup-header = Эхлэл
 startup-blank-page =
     .label = Хоосон хуудас харуул
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Одоогийн хуудсыг хэрэглэ
-           *[other] Одоогийн хуудаснуудыг хэрэглэ
-        }
-    .accesskey = д
-restore-default =
-    .label = Анхны горимд сэргээ
-    .accesskey = с
 tabs-group-header = Самбар
 show-tabs-in-taskbar =
     .label = Виндовсийн табыг харуулах
@@ -110,6 +99,26 @@ browsing-use-cursor-navigation =
 ## General Section - Proxy
 
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Одоогийн хуудсыг хэрэглэ
+           *[other] Одоогийн хуудаснуудыг хэрэглэ
+        }
+    .accesskey = д
+restore-default =
+    .label = Анхны горимд сэргээ
+    .accesskey = с
+
 ## Search Section
 
 search-choose-keyword-column =
@@ -121,3 +130,61 @@ search-keyword-warning-title = Түлхүүр үгийг хувил
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Таны сонгосон үг одоогоор "{ $name }"-д хэрэглэгдэж байна. Өөр үг сонгоно уу.
 search-keyword-warning-bookmark = Та одоогоор хаяганд хэрэглэгдэж байгаа үг сонгосон байна. Өөр үг сонгоно уу.
+
+## Containers Section
+
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = Зөвшөөрөгдсөн хуудас…
+    .accesskey = ш
+forms-master-pw-use =
+    .label = Мастер нууц үг хэрэглэ
+    .accesskey = М
+forms-master-pw-change =
+    .label = Мастер нууц үгийг өөрчил…
+    .accesskey = с
+
+## Privacy Section - History
+
+history-dontremember-description = { -brand-short-name } хувийн зорчилттой ижил тохиргоо хэрэглэж вэбд зорчсон түүхийг хадгалахгүй байх болно.
+history-remember-option =
+    .label = Үзсэн болон татаж авсан мэдээллийг санах
+    .accesskey = b
+
+## Privacy Section - Site Data
+
+sitedata-cookies-exceptions =
+    .label = Зөвшөөрөгдсөн хуудас…
+    .accesskey = ш
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-block-popups =
+    .label = Дэлгэгдэх цонхуудыг хорих
+    .accesskey = Д
+permissions-addon-exceptions =
+    .label = Тодорхойлж өгөх…
+    .accesskey = ж
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
