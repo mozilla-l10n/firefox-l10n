@@ -454,10 +454,22 @@ addressbar-suggestions-settings = Змінити налаштування про
 ## Privacy Section - Tracking
 
 tracking-header = Захист від стеження
+tracking-mode-always =
+    .label = Завжди
+    .accesskey = З
+tracking-mode-private =
+    .label = Лише у приватних вікнах
+    .accesskey = Л
+tracking-mode-never =
+    .label = Ніколи
+    .accesskey = Н
 # This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
 # This currently happens on the release and beta channel.
 tracking-pbm-label = Блокувати відомі елементи стеження в приватному перегляді
     .accesskey = с
+tracking-exceptions =
+    .label = Винятки…
+    .accesskey = В
 tracking-change-block-list =
     .label = Змінити список блокування…
     .accesskey = м
