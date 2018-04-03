@@ -385,17 +385,31 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = פרטיות דפדפן
 
 ## Privacy Section - Forms
 
 forms-header = טפסים וססמאות
+forms-remember-logins =
+    .label = לזכור פרטי כניסה וססמאות לכל האתרים
+    .accesskey = ז
 forms-exceptions =
     .label = חריגות…
     .accesskey = ר
+forms-saved-logins =
+    .label = כניסות שמורות…
+    .accesskey = כ
+forms-master-pw-use =
+    .label = שימוש בססמה ראשית
+    .accesskey = ש
+forms-master-pw-change =
+    .label = שינוי ססמה ראשית…
+    .accesskey = נ
 
 ## Privacy Section - History
 
 history-header = היסטוריה
+history-remember-description = ‏{ -brand-short-name } יזכור את היסטורית הגלישה, ההורדות, הטפסים והחיפוש שלך.
 history-dontremember-description = { -brand-short-name } ישתמש באותן ההגדרות לגלישה פרטית, ולא יזכור היסטוריה כלשהי במהלך הגלישה שלך ברשת.
 history-private-browsing-permanent =
     .label = שימוש תמידי במצב גלישה פרטית
@@ -419,6 +433,15 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = עוגיות ונתוני אתרים
+sitedata-learn-more = מידע נוסף
+sitedata-accept-cookies-option =
+    .label = קבלת עוגיות ונתוני אתרים מאתרי אינטרנט (מומלץ)
+    .accesskey = ק
+sitedata-block-cookies-option =
+    .label = חסימת עוגיות ונתוני אתרים (עשוי לגרום לשיבוש באתרי אינטרנט)
+    .accesskey = ח
+sitedata-keep-until = שמירה עד ש:
+    .accesskey = מ
 sitedata-accept-third-party-desc = קבלת עוגיות ונתוני אתרים מצד שלישי
     .accesskey = ש
 sitedata-accept-third-party-always-option =
@@ -430,12 +453,20 @@ sitedata-accept-third-party-never-option =
 sitedata-clear =
     .label = ניקוי נתונים…
     .accesskey = נ
+sitedata-settings =
+    .label = ניהול נתונים…
+    .accesskey = נ
 sitedata-cookies-exceptions =
     .label = חריגות…
     .accesskey = ח
 
 ## Privacy Section - Address Bar
 
+addressbar-header = שורת כתובת
+addressbar-suggest = כאשר משתמשים בסרגל החיפוש, יוצגו המלצות עבור
+addressbar-locbar-history-option =
+    .label = היסטוריית גלישה
+    .accesskey = ג
 addressbar-locbar-bookmarks-option =
     .label = סימניות
     .accesskey = ס
@@ -447,6 +478,7 @@ addressbar-suggestions-settings = שינוי העדפות של הצעות מנו
 ## Privacy Section - Tracking
 
 tracking-header = הגנת מעקב
+tracking-description = הגנת מעקב חוסמת רכיבי מעקב מקוונים שאוספים את נתוני הגלישה שלך ממגוון אתרים. <a>מידע נוסף על הגנת מעקב ועל הפרטיות שלך</a>
 tracking-mode-label = שימוש בהגנת מעקב לחסימת רכיבי מעקב ידועים
 tracking-mode-always =
     .label = תמיד
@@ -464,24 +496,62 @@ tracking-pbm-label = שימוש בהגנת מעקב בגלישה פרטית לח
 tracking-exceptions =
     .label = חריגות…
     .accesskey = ח
+tracking-change-block-list =
+    .label = שינוי רשימת חסימות…
+    .accesskey = ר
 
 ## Privacy Section - Permissions
 
 permissions-header = הרשאות
+permissions-location = מיקום
+permissions-location-settings =
+    .label = הגדרות…
+    .accesskey = מ
+permissions-camera = מצלמה
+permissions-camera-settings =
+    .label = הגדרות…
+    .accesskey = צ
+permissions-microphone = מיקרופון
+permissions-microphone-settings =
+    .label = הגדרות…
+    .accesskey = ק
+permissions-notification = התרעות
+permissions-notification-settings =
+    .label = הגדרות…
+    .accesskey = ע
+permissions-notification-link = מידע נוסף
+permissions-notification-pause =
+    .label = השהיית התרעות עד להפעלה מחדש של { -brand-short-name }
+    .accesskey = ה
 permissions-block-popups =
     .label = חסימת חלונות קופצים
     .accesskey = ח
+permissions-block-popups-exceptions =
+    .label = חריגות…
+    .accesskey = ר
+permissions-addon-install-warning =
+    .label = הזהרה כאשר אתרים מנסים להתקין תוספות
+    .accesskey = ה
 permissions-addon-exceptions =
     .label = חריגות…
     .accesskey = ח
+permissions-a11y-privacy-checkbox =
+    .label = מניעת שירותי נגישות מקבלת גישה לדפדפן שלך
+    .accesskey = נ
+permissions-a11y-privacy-link = מידע נוסף
 
 ## Privacy Section - Data Collection
 
 collection-header = איסוף המידע של { -brand-short-name }
+collection-description = אנו חותרים לספק לך זכות בחירה ולאסוף רק מה שנדרש לנו כדי לספק ולשפר את { -brand-short-name } לטובת הכלל. אנו תמיד נבקש את רשותך לפני קבלת פרטים אישיים.
+collection-privacy-notice = הצהרת פרטיות
 collection-health-report =
     .label = האם לאפשר ל־{ -brand-short-name } לשלוח אל { -vendor-short-name } מידע טכני ופעולות שבוצעו בדפדפן
     .accesskey = ד
 collection-health-report-link = מידע נוסף
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = דיווח נתונים מנוטרל עבור תצורת בנייה זו
 collection-browser-errors =
     .label = לאפשר ל־{ -brand-short-name } לשלוח דיווחי שגיאות בדפדפן (לרבות הודעות שגיאה) אל { -vendor-short-name }
     .accesskey = ד
@@ -489,6 +559,7 @@ collection-browser-errors-link = מידע נוסף
 collection-backlogged-crash-reports =
     .label = לאפשר ל־{ -brand-short-name } לשלוח דיווחי קריסות שנשמרו בשמך
     .accesskey = ק
+collection-backlogged-crash-reports-link = מידע נוסף
 
 ## Privacy Section - Security
 ##
@@ -496,7 +567,14 @@ collection-backlogged-crash-reports =
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = אבטחה
+security-browsing-protection = תוכן מטעה והגנת תוכנה מסוכנת
+security-enable-safe-browsing =
+    .label = חסימת תוכן מסוכן ומטעה
+    .accesskey = ת
 security-enable-safe-browsing-link = מידע נוסף
+security-block-downloads =
+    .label = חסימת הורדות מסוכנות
+    .accesskey = ה
 security-block-uncommon-software =
     .label = הזהרה על תוכנות לא נפוצות ותכנות לא רצויות
     .accesskey = ת
@@ -505,3 +583,18 @@ security-block-uncommon-software =
 
 certs-header = אישורים
 certs-personal-label = כאשר שרת מבקש את האישור האישי שלך
+certs-select-auto-option =
+    .label = לבחור אחד באופן אוטומטי
+    .accesskey = ב
+certs-select-ask-option =
+    .label = לשאול אותך כל פעם
+    .accesskey = ש
+certs-enable-ocsp =
+    .label = תשאול שרתי OCSP לאימות תקפות נוכחית של אישורי אבטחה
+    .accesskey = ת
+certs-view =
+    .label = הצגת אישורים…
+    .accesskey = א
+certs-devices =
+    .label = התקני אבטחה…
+    .accesskey = א
