@@ -389,6 +389,8 @@ containers-remove-button =
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-never-option =
+    .label = Երբեք
 
 ## Privacy Section - Address Bar
 
