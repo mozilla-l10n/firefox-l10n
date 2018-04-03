@@ -314,6 +314,9 @@ containers-remove-button =
 forms-exceptions =
     .label = ವಿನಾಯಿತಿಗಳು...
     .accesskey = x
+forms-saved-logins =
+    .label = ಉಳಿಸಿದ ಲಾಗಿನ್‌ಗಳು...
+    .accesskey = L
 forms-master-pw-use =
     .label = ಒಂದು ಮಾಸ್ಟರ್ ಗುಪ್ತಪದವನ್ನು ಬಳಸು
     .accesskey = U
@@ -323,6 +326,7 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-header = ಇತಿಹಾಸ
 history-dontremember-description = { -brand-short-name } ಖಾಸಗಿ ಜಾಲ ವೀಕ್ಷಣದ ರೀತಿಯದ್ದೆ ಆದ ಸಿದ್ಧತೆಗಳನ್ನು ಬಳಸುತ್ತದೆ, ಹಾಗು ನೀವು ಜಾಲವನ್ನು ವೀಕ್ಷಿಸುವಾಗ ಯಾವುದೆ ಇತಿಹಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದಿಲ್ಲ.
 history-private-browsing-permanent =
     .label = ಯಾವಾಗಲೂ ಖಾಸಗಿ ವೀಕ್ಷಣೆ ಕ್ರಮವನ್ನು ಬಳಸು
@@ -352,12 +356,37 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-bookmarks-option =
+    .label = Bookmarks
+    .accesskey = k
+addressbar-locbar-openpage-option =
+    .label = Open ಹಾಳೆಗಳು
+    .accesskey = O
 
 ## Privacy Section - Tracking
 
+tracking-mode-always =
+    .label = ಯಾವಾಗಲೂ
+    .accesskey = y
+tracking-mode-private =
+    .label = Only ಖಾಸಗಿ ಕಿಟಕಿಗಳಲ್ಲಿ
+    .accesskey = l
+tracking-mode-never =
+    .label = ಎಂದಿಗೂ ಬೇಡ
+    .accesskey = N
+tracking-exceptions =
+    .label = ವಿನಾಯಿತಿಗಳು...
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
+permissions-notification = ಸೂಚನೆಗಳು
+permissions-block-popups =
+    .label = ಪುಟಿಕೆ (ಪಾಪ್-ಅಪ್) ಕಿಟಕಿಗಳನ್ನು ತಡೆ ಹಿಡಿ
+    .accesskey = B
+permissions-block-popups-exceptions =
+    .label = ಹೊರತಾದವುಗಳು...
+    .accesskey = E
 permissions-addon-exceptions =
     .label = ವಿನಾಯಿತಿಗಳು...
     .accesskey = E
@@ -370,7 +399,25 @@ permissions-addon-exceptions =
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-enable-safe-browsing =
+    .label = ಅಪಾಯಕಾರಿ ಮತ್ತು ವಂಚಕ ವಿಷಯಗಳನ್ನು ನಿರ್ಬಂಧಿಸಿ
+    .accesskey = B
+security-block-downloads =
+    .label = ಅಪಾಯಕಾರಿ ಡೌನ್‌ಲೋಡ್‌ಗಳನ್ನು ನಿರ್ಬಂಧಿಸಿ
+    .accesskey = d
+security-block-uncommon-software =
+    .label = ಬೇಡವಾದ ಮತ್ತು ಸಾಮಾನ್ಯವಲ್ಲದ ತಂತ್ರಾಂಶಗಳ ಬಗ್ಗೆ ಎಚ್ಚರಿಸು‍‍‍‍
+    .accesskey = ಸ
 
 ## Privacy Section - Certificates
 
 certs-header = ಪ್ರಮಾಣಪತ್ರಗಳು
+certs-select-auto-option =
+    .label = ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಒಂದನ್ನು ಆರಿಸು
+    .accesskey = S‍
+certs-select-ask-option =
+    .label = ಪ್ರತಿ ಬಾರಿಯೂ ನನ್ನನ್ನು ಕೇಳು
+    .accesskey = A‍
+certs-enable-ocsp =
+    .label = ಪ್ರಮಾಣಪತ್ರಗಳ ಪ್ರಸಕ್ತ ಮಾನ್ಯತೆಯನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು OCSP ರೆಸ್ಪಾಂಡರ್ ಪೂರೈಕೆಗಣಕಗಳಿಗೆ ಮನವಿ ಮಾಡಿ
+    .accesskey = Q
