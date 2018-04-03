@@ -385,12 +385,20 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = Browserprivacy
 
 ## Privacy Section - Forms
 
+forms-header = Formulieren & Wachtwoorden
+forms-remember-logins =
+    .label = Aanmeldingen en wachtwoorden voor websites onthouden
+    .accesskey = o
 forms-exceptions =
     .label = Uitzonderingen…
     .accesskey = t
+forms-saved-logins =
+    .label = Opgeslagen aanmeldingen…
+    .accesskey = m
 forms-master-pw-use =
     .label = Een hoofdwachtwoord gebruiken
     .accesskey = d
@@ -401,7 +409,14 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Geschiedenis
+history-remember-description = { -brand-short-name } zal uw browser-, download-, formulier- en zoekgeschiedenis onthouden.
 history-dontremember-description = { -brand-short-name } zal dezelfde instellingen gebruiken als bij Privénavigatie, en geen geschiedenis onthouden terwijl u over het web surft.
+history-private-browsing-permanent =
+    .label = Altijd de privénavigatiemodus gebruiken
+    .accesskey = m
+history-remember-option =
+    .label = Mijn navigatie- en downloadgeschiedenis onthouden
+    .accesskey = v
 history-remember-search-option =
     .label = Zoek- en formuliergeschiedenis onthouden
     .accesskey = f
@@ -411,50 +426,175 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Instellingen…
     .accesskey = s
+history-clear-button =
+    .label = Geschiedenis wissen…
+    .accesskey = G
 
 ## Privacy Section - Site Data
 
+sitedata-header = Cookies en websitegegevens
+sitedata-learn-more = Meer info
+sitedata-accept-cookies-option =
+    .label = Cookies en websitegegevens van websites accepteren (aanbevolen)
+    .accesskey = C
+sitedata-block-cookies-option =
+    .label = Cookies en websitegegevens blokkeren (kan ervoor zorgen dat websites niet goed werken)
+    .accesskey = b
+sitedata-keep-until = Bewaren totdat
+    .accesskey = B
+sitedata-accept-third-party-desc = Cookies van derden en websitegegevens accepteren
+    .accesskey = d
 sitedata-accept-third-party-always-option =
     .label = Altijd
 sitedata-accept-third-party-visited-option =
     .label = Van bezochte
 sitedata-accept-third-party-never-option =
     .label = Nooit
+sitedata-clear =
+    .label = Gegevens wissen…
+    .accesskey = e
+sitedata-settings =
+    .label = Gegevens beheren…
+    .accesskey = G
 sitedata-cookies-exceptions =
     .label = Uitzonderingen…
     .accesskey = U
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Adresbalk
+addressbar-suggest = Bij gebruik van de adresbalk, suggesties weergeven uit
+addressbar-locbar-history-option =
+    .label = Geschiedenis
+    .accesskey = G
 addressbar-locbar-bookmarks-option =
     .label = Bladwijzers
     .accesskey = d
 addressbar-locbar-openpage-option =
     .label = Open tabbladen
     .accesskey = O
+addressbar-suggestions-settings = Voorkeuren voor zoekmachinesuggesties wijzigen
 
 ## Privacy Section - Tracking
 
+tracking-header = Bescherming tegen volgen
+tracking-description = Bescherming tegen volgen blokkeert online trackers die op meerdere websites uw surfgegevens verzamelen. <a>Meer info over Bescherming tegen volgen en uw privacy</a>
+tracking-mode-label = Bescherming tegen volgen gebruiken om bekende volgers te blokkeren
+tracking-mode-always =
+    .label = Altijd
+    .accesskey = A
+tracking-mode-private =
+    .label = Alleen in privévensters
+    .accesskey = r
+tracking-mode-never =
+    .label = Nooit
+    .accesskey = N
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Bescherming tegen volgen gebruiken in Privénavigatie om bekende volgers te blokkeren
+    .accesskey = v
+tracking-exceptions =
+    .label = Uitzonderingen…
+    .accesskey = i
+tracking-change-block-list =
+    .label = Blokkeerlijst wijzigen…
+    .accesskey = k
 
 ## Privacy Section - Permissions
 
+permissions-header = Toestemmingen
+permissions-location = Locatie
+permissions-location-settings =
+    .label = Instellingen…
+    .accesskey = t
+permissions-camera = Camera
+permissions-camera-settings =
+    .label = Instellingen…
+    .accesskey = t
+permissions-microphone = Microfoon
+permissions-microphone-settings =
+    .label = Instellingen…
+    .accesskey = t
+permissions-notification = Notificaties
+permissions-notification-settings =
+    .label = Instellingen…
+    .accesskey = t
+permissions-notification-link = Meer info
+permissions-notification-pause =
+    .label = Notificaties pauzeren totdat { -brand-short-name } wordt herstart
+    .accesskey = N
 permissions-block-popups =
     .label = Pop-upvensters blokkeren
     .accesskey = P
+permissions-block-popups-exceptions =
+    .label = Uitzonderingen…
+    .accesskey = U
+permissions-addon-install-warning =
+    .label = Waarschuwen wanneer websites add-ons proberen te installeren
+    .accesskey = W
 permissions-addon-exceptions =
     .label = Uitzonderingen…
     .accesskey = U
+permissions-a11y-privacy-checkbox =
+    .label = Toegang tot uw browser door toegankelijkheidsservices voorkomen
+    .accesskey = a
+permissions-a11y-privacy-link = Meer info
 
 ## Privacy Section - Data Collection
 
+collection-header = { -brand-short-name }-gegevensverzameling en -gebruik
+collection-description = We streven ernaar u keuzes te bieden en alleen te verzamelen wat we nodig hebben om { -brand-short-name } voor iedereen beschikbaar te maken en te verbeteren. We vragen altijd toestemming voordat we persoonlijke gegevens ontvangen.
+collection-privacy-notice = Privacyverklaring
+collection-health-report =
+    .label = { -brand-short-name } toestaan om technische en interactiegegevens naar { -vendor-short-name } te verzenden
+    .accesskey = r
 collection-health-report-link = Meer info
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Gegevensrapportage is uitgeschakeld voor deze buildconfiguratie
+collection-browser-errors =
+    .label = { -brand-short-name } toestaan om foutrapporten van de browser (waaronder foutmeldingen) naar { -vendor-short-name } te verzenden
+    .accesskey = b
+collection-browser-errors-link = Meer info
+collection-backlogged-crash-reports =
+    .label = { -brand-short-name } toestaan om namens u achterstallige crashrapporten te verzenden
+    .accesskey = c
+collection-backlogged-crash-reports-link = Meer info
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Beveiliging
+security-browsing-protection = Bescherming tegen misleidende inhoud en gevaarlijke software
+security-enable-safe-browsing =
+    .label = Gevaarlijke en misleidende inhoud blokkeren
+    .accesskey = b
+security-enable-safe-browsing-link = Meer info
+security-block-downloads =
+    .label = Gevaarlijke downloads blokkeren
+    .accesskey = G
+security-block-uncommon-software =
+    .label = Waarschuwen voor ongewenste en ongebruikelijke software
+    .accesskey = s
 
 ## Privacy Section - Certificates
 
 certs-header = Certificaten
+certs-personal-label = Wanneer een server om uw persoonlijke certificaat vraagt
+certs-select-auto-option =
+    .label = Er automatisch een selecteren
+    .accesskey = a
+certs-select-ask-option =
+    .label = Elke keer vragen
+    .accesskey = E
+certs-enable-ocsp =
+    .label = OCSP-responderservers vragen om de huidige geldigheid van certificaten te bevestigen
+    .accesskey = v
+certs-view =
+    .label = Certificaten bekijken…
+    .accesskey = C
+certs-devices =
+    .label = Beveiligingsapparaten…
+    .accesskey = B
