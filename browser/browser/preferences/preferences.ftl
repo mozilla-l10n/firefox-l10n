@@ -400,6 +400,13 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-dontremember-description = { -brand-short-name } will use the same settings as private browsing, and will not remember any history as you browse the Web.
+history-private-browsing-permanent =
+    .label = Always use private browsing mode
+    .accesskey = p
+history-clear-on-close-settings =
+    .label = Settings…
+    .accesskey = t
 
 ## Privacy Section - Site Data
 
