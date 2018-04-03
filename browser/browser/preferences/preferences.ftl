@@ -432,6 +432,7 @@ addressbar-suggestions-settings = தேடுபொறி பரிந்து
 ## Privacy Section - Tracking
 
 tracking-header = தடமறியல் பாதுகாப்பு
+tracking-mode-label = அறியப்பட்ட தடமறிவான்களை முடக்க தடமறியல் பாதுகாப்பைப் பயன்படுத்தவும்
 tracking-mode-always =
     .label = எப்போதும்
     .accesskey = y
@@ -501,6 +502,7 @@ collection-health-report-link = மேலும் அறிய
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = இந்தக் கட்டமைப்பிற்கு தரவு அறிக்கை முடக்கப்பட்டுள்ளது
+collection-browser-errors-link = மேலும் அறிய
 collection-backlogged-crash-reports-link = மேலும் அறிய
 
 ## Privacy Section - Security
@@ -512,6 +514,7 @@ security-header = பாதுகாப்பு
 security-enable-safe-browsing =
     .label = ஆபத்தான தீங்கிழைக்கும் உள்ளடக்கத்தைத் தடு
     .accesskey = B
+security-enable-safe-browsing-link = மேலும் அறிய
 security-block-downloads =
     .label = ஆபத்தான பதிவிறக்கங்களை முடக்கு
     .accesskey = d
