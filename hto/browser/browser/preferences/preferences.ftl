@@ -24,6 +24,9 @@ category-sync =
 should-restart-title = Abɨdo taineye { -brand-short-name }
 restart-later = Úire abɨdo taineye
 
+## Preferences UI Search Results
+
+
 ## General Section
 
 startup-header = Táɨnia
@@ -36,23 +39,6 @@ is-default = { -brand-short-name } ó makara ja beno íte
 is-not-default = { -brand-short-name } ó makara ja beno íte
 startup-blank-page =
     .label = Táɨno rabe akatri
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Kómue rabe fɨno
-           *[other] Bírui íte rabenɨaɨ fɨno
-        }
-    .accesskey = f
-choose-bookmark =
-    .label = Rɨgɨnua fɨno…
-    .accesskey = f
-restore-default =
-    .label = Jógega ranɨaɨ abɨdo jóne
-    .accesskey = J
 tabs-group-header = Úitɨraɨ
 show-tabs-in-taskbar =
     .label = Akatari úitɨraɨ radozi Windows íyano
@@ -118,3 +104,129 @@ browsing-use-autoscroll =
 network-proxy-connection-settings =
     .label = Abɨdo  fɨnoka...
     .accesskey = A
+
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Kómue rabe fɨno
+           *[other] Bírui íte rabenɨaɨ fɨno
+        }
+    .accesskey = f
+choose-bookmark =
+    .label = Rɨgɨnua fɨno…
+    .accesskey = f
+restore-default =
+    .label = Jógega ranɨaɨ abɨdo jóne
+    .accesskey = J
+
+## Search Section
+
+
+## Containers Section
+
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = Jɨ́aɨmakɨ…
+    .accesskey = a
+forms-saved-logins =
+    .label = Taɨnede yuamo ñúe jonega…
+    .accesskey = T
+forms-master-pw-use =
+    .label = Bíemo fakadote yofueraɨma jóne
+    .accesskey = y
+forms-master-pw-change =
+    .label = Jɨaɨe jóne...
+    .accesskey = j
+
+## Privacy Section - History
+
+history-header = Jagaɨ
+history-dontremember-description = { -brand-short-name } ó dama ñúe fɨnoye taɨjira, ó makara jagaɨ bemomo joneniye web íyano
+history-private-browsing-permanent =
+    .label = Dama& ó makara benomo íri
+    .accesskey = p
+history-remember-option =
+    .label = Makara yunua dɨga jagaɨ úibiri
+    .accesskey = M
+history-remember-search-option =
+    .label = Úibiri jagaɨmo rabe kúeyena ja jenoka
+    .accesskey = f
+history-clear-on-close-option =
+    .label = Jagaɨ ɨbaɨ íemei óni óno { -brand-short-name }
+    .accesskey = J
+history-clear-on-close-settings =
+    .label = Abɨdo  fɨnoka...
+    .accesskey = A
+
+## Privacy Section - Site Data
+
+sitedata-accept-third-party-visited-option =
+    .label = Éroika
+sitedata-accept-third-party-never-option =
+    .label = Jáka
+sitedata-cookies-exceptions =
+    .label = Jɨ́aɨmakɨ…
+    .accesskey = J
+
+## Privacy Section - Address Bar
+
+addressbar-locbar-bookmarks-option =
+    .label = Rɨgɨnua
+    .accesskey = R
+addressbar-locbar-openpage-option =
+    .label = Úitɨraɨ tuño
+    .accesskey = O
+
+## Privacy Section - Tracking
+
+tracking-mode-always =
+    .label = Jaka
+    .accesskey = k
+tracking-mode-private =
+    .label = Dáma kúe éroirafo
+    .accesskey = k
+tracking-mode-never =
+    .label = Jáka
+    .accesskey = J
+tracking-exceptions =
+    .label = Jɨ́aɨmakɨ…
+    .accesskey = a
+
+## Privacy Section - Permissions
+
+permissions-notification = Ráfue yote
+permissions-block-popups =
+    .label = Eroirafo zúiya ɨ́bai
+    .accesskey = E
+permissions-block-popups-exceptions =
+    .label = Jɨ́aɨmakɨ…
+    .accesskey = J
+permissions-addon-exceptions =
+    .label = Jɨ́aɨmakɨ…
+    .accesskey = J
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
