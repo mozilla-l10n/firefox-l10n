@@ -382,3 +382,166 @@ containers-preferences-button =
     .label = Nastajenja
 containers-remove-button =
     .label = Wotstronić
+
+## Privacy Section
+
+privacy-header = Priwatnosć wobhladowaka
+
+## Privacy Section - Forms
+
+forms-header = Formulary a hesła
+forms-remember-logins =
+    .label = Přizjewjenja a hesła za sydła sej spomjatkować
+    .accesskey = P
+forms-exceptions =
+    .label = Wuwzaća…
+    .accesskey = u
+forms-saved-logins =
+    .label = Składowane přizjewjenja…
+    .accesskey = S
+forms-master-pw-use =
+    .label = Hłowne hesło wužiwać
+    .accesskey = o
+forms-master-pw-change =
+    .label = Hłowne hesło změnić…
+    .accesskey = m
+
+## Privacy Section - History
+
+history-header = Historija
+history-dontremember-description = { -brand-short-name } budźe samsne nastajenja kaž w priwatnym modusu wužiwać a njebuźde sej historiju spomjatkować, hdyž Web přehladujeće.
+history-private-browsing-permanent =
+    .label = Přeco priwatny modus wužiwać
+    .accesskey = P
+history-remember-option =
+    .label = Sej přehladowansku a sćehnjensku historiju spomjatkować
+    .accesskey = h
+history-remember-search-option =
+    .label = Pytansku a formularnu historiju sej spomjatkować
+    .accesskey = f
+history-clear-on-close-option =
+    .label = Historiju wuprózdnić, hdyž so { -brand-short-name } začinja
+    .accesskey = H
+history-clear-on-close-settings =
+    .label = Nastajenja…
+    .accesskey = N
+
+## Privacy Section - Site Data
+
+sitedata-learn-more = Dalše informacije
+sitedata-keep-until = Wobchować
+    .accesskey = c
+sitedata-accept-third-party-always-option =
+    .label = Přeco
+sitedata-accept-third-party-visited-option =
+    .label = Jenož wot wopytanych třećich
+sitedata-accept-third-party-never-option =
+    .label = Ženje
+sitedata-cookies-exceptions =
+    .label = Wuwzaća…
+    .accesskey = W
+
+## Privacy Section - Address Bar
+
+addressbar-header = Adresowe polo
+addressbar-suggest = Při wužiwanju adresoweho pola ma so namjetować
+addressbar-locbar-history-option =
+    .label = Přehladowanska historija
+    .accesskey = h
+addressbar-locbar-bookmarks-option =
+    .label = Zapołožki
+    .accesskey = Z
+addressbar-locbar-openpage-option =
+    .label = Wočinjene rajtarki
+    .accesskey = o
+addressbar-suggestions-settings = Nastajenja za namjety pytawy změnić
+
+## Privacy Section - Tracking
+
+tracking-header = Slědowanski škit
+tracking-mode-always =
+    .label = Přeco
+    .accesskey = c
+tracking-mode-private =
+    .label = Jenož w priwatnych woknach
+    .accesskey = o
+tracking-mode-never =
+    .label = Ženje
+    .accesskey = n
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Slědowanski škit w priwatnym modusu wužiwać, zo by znate přesćěhowaki blokował
+    .accesskey = r
+tracking-exceptions =
+    .label = Wuwzaća…
+    .accesskey = u
+tracking-change-block-list =
+    .label = Blokowansku lisćinu změnić…
+    .accesskey = z
+
+## Privacy Section - Permissions
+
+permissions-header = Prawa
+permissions-location = Městno
+permissions-camera = Kamera
+permissions-microphone = Mikrofon
+permissions-notification = Zdźělenja
+permissions-notification-link = Dalše informacije
+permissions-block-popups =
+    .label = Wuskakowace wokno blokować
+    .accesskey = k
+permissions-block-popups-exceptions =
+    .label = Wuwzaća…
+    .accesskey = W
+permissions-addon-install-warning =
+    .label = Warnować, hdyž sydła pospytuja přidatki instalować
+    .accesskey = W
+permissions-addon-exceptions =
+    .label = Wuwzaća…
+    .accesskey = W
+
+## Privacy Section - Data Collection
+
+collection-description = Chcemy was z wuběrami wobstarać a jenož to zběrać, štož dyrbimy poskićić, zo bychmy { -brand-short-name } za kóždeho polěpšili. Prosymy přeco wo dowolnosć, prjedy hač wosobinske daty dóstanjemy.
+collection-privacy-notice = Zdźělenka priwatnosće
+collection-health-report-link = Dalše informacije
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Datowe rozprawjenje je znjemóžnjene za tutu programowu konfiguraciju
+collection-backlogged-crash-reports-link = Dalše informacije
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+security-header = Wěstota
+security-enable-safe-browsing =
+    .label = Strašny a wobšudny wobsah blokować
+    .accesskey = S
+security-block-downloads =
+    .label = Strašne sćehnjenja blokować
+    .accesskey = s
+security-block-uncommon-software =
+    .label = Před njewitanej a njewšědnej softwaru warnować
+    .accesskey = w
+
+## Privacy Section - Certificates
+
+certs-header = Certifikaty
+certs-personal-label = Hdyž sej serwer waš wosobinski certifikat žada
+certs-select-auto-option =
+    .label = Awtomatisce wubrać
+    .accesskey = s
+certs-select-ask-option =
+    .label = Kóždy raz so prašeć
+    .accesskey = K
+certs-enable-ocsp =
+    .label = Pola wotmołwnych serwerow OCSP so naprašować, zo by aktualnu płaćiwosć certifikatow wobkrućiło
+    .accesskey = P
+certs-view =
+    .label = Certifikaty pokazać…
+    .accesskey = C
+certs-devices =
+    .label = Wěstotne graty…
+    .accesskey = t
