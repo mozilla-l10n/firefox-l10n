@@ -385,9 +385,13 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = Navegación privada
 
 ## Privacy Section - Forms
 
+forms-remember-logins =
+    .label = Recordar inicios de sesión y contraseñas para sitios web
+    .accesskey = R
 forms-exceptions =
     .label = Excepciones…
     .accesskey = x
@@ -404,6 +408,7 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Historial
+history-remember-description = { -brand-short-name } recordará tu navegación, descargas, formularios e historial de búsqueda.
 history-dontremember-description = { -brand-short-name } usará la misma configuración de la navegación privada, es decir, no guardará ningún historial de tu navegación.
 history-private-browsing-permanent =
     .label = Siempre usar modo de navegación privada
@@ -417,21 +422,46 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Configuración…
     .accesskey = C
+history-clear-button =
+    .label = Limpiar historial…
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
+sitedata-header = Cookies y datos del sitio
+sitedata-accept-cookies-option =
+    .label = Aceptar cookies y datos de los sitios web (recomendado)
+    .accesskey = A
+sitedata-block-cookies-option =
+    .label = Bloquear cookies y datos del sitio (puede que algunos sitios no funcionen)
+    .accesskey = B
+sitedata-keep-until = Mantener hasta
+    .accesskey = u
+sitedata-accept-third-party-desc = Aceptar cookies de terceros y datos del sitio
+    .accesskey = y
 sitedata-accept-third-party-always-option =
     .label = Siempre
 sitedata-accept-third-party-visited-option =
     .label = Visitado
 sitedata-accept-third-party-never-option =
     .label = Nunca
+sitedata-clear =
+    .label = Limpiar datos…
+    .accesskey = l
+sitedata-settings =
+    .label = Administrar datos…
+    .accesskey = M
 sitedata-cookies-exceptions =
     .label = Excepciones…
     .accesskey = E
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Barra de direcciones
+addressbar-suggest = Cuando se use la barra de direcciones, sugerir
+addressbar-locbar-history-option =
+    .label = Historial de navegación
+    .accesskey = H
 addressbar-locbar-bookmarks-option =
     .label = Marcadores
     .accesskey = M
@@ -441,6 +471,8 @@ addressbar-locbar-openpage-option =
 
 ## Privacy Section - Tracking
 
+tracking-description = Protección de rastreo bloquea a los rastreadores en línea que recolecta tus datos de navegación a través de múltiples sitios web. <a>Saber más acerca de la protección de rastreo y tu privacidad</a>
+tracking-mode-label = Usar protección de rastreo para bloquear rastreadores conocidos
 tracking-mode-always =
     .label = Siempre
     .accesskey = e
@@ -450,32 +482,81 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Nunca
     .accesskey = N
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Usar Protección de Rastreo en la navegación privada para bloquear rastreadores conocidos
+    .accesskey = v
 tracking-exceptions =
     .label = Excepciones…
     .accesskey = x
+tracking-change-block-list =
+    .label = Cambiar lista de bloqueo…
+    .accesskey = C
 
 ## Privacy Section - Permissions
 
+permissions-header = Permisos
+permissions-location = Ubicación
+permissions-location-settings =
+    .label = Ajustes…
+    .accesskey = l
+permissions-camera = Cámara
+permissions-camera-settings =
+    .label = Ajustes…
+    .accesskey = c
+permissions-microphone = Micrófono
+permissions-microphone-settings =
+    .label = Ajustes…
+    .accesskey = m
+permissions-notification = Notificaciones
+permissions-notification-settings =
+    .label = Ajustes…
+    .accesskey = n
+permissions-notification-link = Saber más
+permissions-notification-pause =
+    .label = Pausar las notificaciones hasta que { -brand-short-name } reinicie
+    .accesskey = n
 permissions-block-popups =
     .label = Bloquear ventanas emergentes
     .accesskey = B
+permissions-block-popups-exceptions =
+    .label = Excepciones…
+    .accesskey = E
+permissions-addon-install-warning =
+    .label = Advertirte cuando los sitios web intenten instalar complementos
+    .accesskey = W
 permissions-addon-exceptions =
     .label = Excepciones…
     .accesskey = E
 
 ## Privacy Section - Data Collection
 
+collection-header = Recolección de datos y uso de { -brand-short-name }
+collection-description = Nos esforzamos en proporcionar opciones y recolectar solamente lo que necesitamos para proveer y mejorar { -brand-short-name } para todo el mundo. Siempre pedimos permiso antes de recibir información personal.
 collection-privacy-notice = Política de privacidad
 collection-health-report-link = Saber más
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = El reporte de datos está deshabilitado para esta configuración de compilación
+collection-browser-errors =
+    .label = Permitir que { -brand-short-name } envíe reportes de errores (incluyendo mensajes de error) a { -vendor-short-name }
+    .accesskey = b
+collection-browser-errors-link = Saber más
+collection-backlogged-crash-reports =
+    .label = Permitir que { -brand-short-name } envíe los informes de fallos pendientes en tu nombre
+    .accesskey = c
+collection-backlogged-crash-reports-link = Saber más
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-browsing-protection = Protección contra contenido engañoso y software peligroso
 security-enable-safe-browsing =
     .label = Bloquear contenido peligroso y engañoso
     .accesskey = B
+security-enable-safe-browsing-link = Saber más
 security-block-downloads =
     .label = Bloquear descargas peligrosas
     .accesskey = D
@@ -483,3 +564,9 @@ security-block-downloads =
 ## Privacy Section - Certificates
 
 certs-header = Certificados
+certs-view =
+    .label = Ver certificados…
+    .accesskey = C
+certs-devices =
+    .label = Dispositivos de seguridad…
+    .accesskey = D
