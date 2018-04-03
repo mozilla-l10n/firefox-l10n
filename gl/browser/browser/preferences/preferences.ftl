@@ -251,9 +251,11 @@ search-keyword-warning-bookmark = A palabra clave que escolleu está a ser utili
 
 ## Privacy Section
 
+privacy-header = Privacidade do navegador
 
 ## Privacy Section - Forms
 
+forms-header = Formularios e contrasinais
 forms-exceptions =
     .label = Excepcións…
     .accesskey = p
@@ -301,18 +303,27 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Barra de enderezos
+addressbar-suggest = Cando use a barra de enderezos, suxerir do
 addressbar-locbar-bookmarks-option =
     .label = Marcadores
     .accesskey = M
+addressbar-locbar-openpage-option =
+    .label = Lapelas abertas
+    .accesskey = b
 
 ## Privacy Section - Tracking
 
+tracking-header = Protección contra o seguimento
 
 ## Privacy Section - Permissions
 
 permissions-block-popups =
     .label = Bloquear xanelas emerxentes
     .accesskey = B
+permissions-block-popups-exceptions =
+    .label = Excepcións…
+    .accesskey = E
 permissions-addon-exceptions =
     .label = Excepcións…
     .accesskey = E
@@ -320,6 +331,7 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-health-report-link = Obter máis información
+collection-backlogged-crash-reports-link = Obter máis información
 
 ## Privacy Section - Security
 ##
