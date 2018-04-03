@@ -366,6 +366,16 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-dontremember-description = { -brand-short-name } sẽ dùng thiết lập giống như chế độ duyệt web riêng tư, và sẽ không ghi nhớ lược sử khi bạn duyệt Web.
+history-remember-search-option =
+    .label = Ghi nhớ lược sử biểu mẫu và tìm kiếm
+    .accesskey = b
+history-clear-on-close-option =
+    .label = Xóa lược sử khi { -brand-short-name } đóng
+    .accesskey = l
+history-clear-on-close-settings =
+    .label = Thiết lập…
+    .accesskey = p
 
 ## Privacy Section - Site Data
 
