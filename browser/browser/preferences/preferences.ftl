@@ -254,6 +254,12 @@ search-keyword-warning-bookmark = A palabra clave que escolleu está a ser utili
 
 ## Privacy Section - Forms
 
+forms-exceptions =
+    .label = Excepcións…
+    .accesskey = p
+forms-saved-logins =
+    .label = Gardáronse as identificacións…
+    .accesskey = G
 forms-master-pw-use =
     .label = Usar un contrasinal principal
     .accesskey = U
@@ -263,15 +269,41 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-header = Historial
+history-dontremember-description = { -brand-short-name } usará a mesma configuración que na navegación privada, e non gardará ningún historial mentres navega pola Internet.
+history-private-browsing-permanent =
+    .label = Usar sempre o modo de navegación privada
+    .accesskey = p
+history-remember-option =
+    .label = Lembrar o meu historial de navegación e descargas
+    .accesskey = b
+history-remember-search-option =
+    .label = Lembrar historial de formularios e buscas
+    .accesskey = f
+history-clear-on-close-option =
+    .label = Borrar o historial ao pechar { -brand-short-name }
+    .accesskey = r
+history-clear-on-close-settings =
+    .label = Configuración…
+    .accesskey = g
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-always-option =
+    .label = Sempre
+sitedata-accept-third-party-visited-option =
+    .label = Dos visitados
+sitedata-accept-third-party-never-option =
+    .label = Nunca
 sitedata-cookies-exceptions =
     .label = Excepcións…
     .accesskey = E
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-bookmarks-option =
+    .label = Marcadores
+    .accesskey = M
 
 ## Privacy Section - Tracking
 
@@ -287,6 +319,7 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Data Collection
 
+collection-health-report-link = Obter máis información
 
 ## Privacy Section - Security
 ##
@@ -296,3 +329,7 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Certificates
 
+certs-header = Certificados
+certs-enable-ocsp =
+    .label = Consultar aos servidores OCSP responder para confirmar a validez dos certificados
+    .accesskey = u
