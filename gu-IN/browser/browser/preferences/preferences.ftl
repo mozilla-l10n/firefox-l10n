@@ -400,6 +400,9 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-private-browsing-permanent =
+    .label = હંમેશા ખાનગી બ્રાઉઝીંગ સ્થિતિ વાપરો
+    .accesskey = p
 
 ## Privacy Section - Site Data
 
