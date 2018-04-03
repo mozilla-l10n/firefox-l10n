@@ -407,6 +407,7 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Історія відвідувань
+history-remember-description = { -brand-short-name } збереже історію переглядів, завантажень, а також надісланих форм та пошукових запитів.
 history-dontremember-description = { -brand-short-name } буде використовувати ті ж налаштування, що й у приватному режимі, та не буде пам’ятати історію вашого перегляду.
 history-private-browsing-permanent =
     .label = Завжди використовувати режим приватного перегляду
@@ -450,6 +451,9 @@ sitedata-accept-third-party-never-option =
 sitedata-clear =
     .label = Стерти дані…
     .accesskey = С
+sitedata-settings =
+    .label = Керувати даними…
+    .accesskey = К
 sitedata-cookies-exceptions =
     .label = Винятки…
     .accesskey = и
