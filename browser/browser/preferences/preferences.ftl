@@ -365,12 +365,20 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = Privadesa del navegador
 
 ## Privacy Section - Forms
 
+forms-header = Formularis i contrasenyes
+forms-remember-logins =
+    .label = Recorda les dades d'inici de sessió i contrasenyes dels llocs web
+    .accesskey = R
 forms-exceptions =
     .label = Excepcions…
     .accesskey = x
+forms-saved-logins =
+    .label = Inicis de sessió desats…
+    .accesskey = I
 forms-master-pw-use =
     .label = Utilitza una contrasenya mestra
     .accesskey = U
@@ -380,6 +388,7 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-header = Historial
 history-dontremember-description = El { -brand-short-name } utilitzarà els mateixos paràmetres de la navegació privada, i no mantindrà cap historial mentre navegueu.
 history-private-browsing-permanent =
     .label = Utilitza sempre el mode de navegació privada
@@ -399,6 +408,9 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = Més informació
+sitedata-accept-third-party-always-option =
+    .label = Sempre
 sitedata-accept-third-party-visited-option =
     .label = De llocs visitats
 sitedata-accept-third-party-never-option =
@@ -409,31 +421,97 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Barra d'adreces
+addressbar-suggest = Quan s'utilitzi la barra d'adreces, suggereix
+addressbar-locbar-history-option =
+    .label = Historial de navegació
+    .accesskey = H
+addressbar-locbar-bookmarks-option =
+    .label = Adreces d'interès
+    .accesskey = d
+addressbar-locbar-openpage-option =
+    .label = Pestanyes obertes
+    .accesskey = P
+addressbar-suggestions-settings = Canvia les preferències dels suggeriments de motors de cerca
 
 ## Privacy Section - Tracking
 
+tracking-header = Protecció contra el seguiment
+tracking-mode-always =
+    .label = Sempre
+    .accesskey = S
+tracking-mode-private =
+    .label = Només en finestres privades
+    .accesskey = N
+tracking-mode-never =
+    .label = Mai
+    .accesskey = M
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Utilitza la protecció contra el seguiment en la navegació privada per blocar elements de seguiment coneguts
+    .accesskey = v
+tracking-exceptions =
+    .label = Excepcions…
+    .accesskey = x
+tracking-change-block-list =
+    .label = Canvia la llista de bloquejos…
+    .accesskey = C
 
 ## Privacy Section - Permissions
 
+permissions-header = Permisos
 permissions-block-popups =
     .label = Bloca les finestres emergents
     .accesskey = B
+permissions-addon-install-warning =
+    .label = Avisa quan els llocs web intentin instal·lar complements
+    .accesskey = i
 permissions-addon-exceptions =
     .label = Excepcions…
     .accesskey = E
 
 ## Privacy Section - Data Collection
 
+collection-header = Ús i recollida de dades i del { -brand-short-name }
+collection-privacy-notice = Avís de privadesa
+collection-health-report-link = Més informació
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = L'informe de dades està desactivat en la configuració d'aquesta versió
+collection-backlogged-crash-reports-link = Més informació
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Seguretat
+security-enable-safe-browsing =
+    .label = Bloqueja el contingut perillós i maliciós
+    .accesskey = B
+security-block-downloads =
+    .label = Bloqueja les baixades perilloses
+    .accesskey = l
+security-block-uncommon-software =
+    .label = Avisa en baixar programari indesitjable i poc habitual
+    .accesskey = c
 
 ## Privacy Section - Certificates
 
 certs-header = Certificats
+certs-personal-label = Quan un servidor demani el meu certificat personal
+certs-select-auto-option =
+    .label = Selecciona'n un automàticament
+    .accesskey = S
+certs-select-ask-option =
+    .label = Demana-ho cada vegada
+    .accesskey = D
 certs-enable-ocsp =
     .label = Consulta els servidors de resposta OCSP per confirmar la validesa actual dels certificats
     .accesskey = C
+certs-view =
+    .label = Visualitza els certificats…
+    .accesskey = c
+certs-devices =
+    .label = Dispositius de seguretat…
+    .accesskey = D
