@@ -445,6 +445,7 @@ addressbar-suggestions-settings = Axtarış mühərriyi təklifləri üçün niz
 
 ## Privacy Section - Tracking
 
+tracking-header = İzlənmə Qoruması
 tracking-description = İzlənmə Qoruması saytlar arası səyahət məlumatlarınızı yığan onlayn izləyiciləri əngəlləyir. <a>İzlənmə Qoruması və məxfiliyiniz haqqında ətraflı öyrənin</a>
 tracking-mode-label = Bilinin izləyiciləri əngəlləmək üçün İzlənmə Qorumasını işlədin
 tracking-mode-always =
@@ -527,6 +528,7 @@ collection-backlogged-crash-reports-link = Daha Ətraflı
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Təhlükəsizlik
 security-browsing-protection = Aldadıcı Məzmun və Təhlükəli Proqram Qoruması
 security-enable-safe-browsing =
     .label = Təhlükəli və aldadıcı məzmunu blokla
