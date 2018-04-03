@@ -418,6 +418,9 @@ history-remember-option =
 history-remember-search-option =
     .label = Shranjuj zgodovino iskanja in obrazcev
     .accesskey = i
+history-clear-on-close-option =
+    .label = Počisti zgodovino ob izhodu iz programa { -brand-short-name }
+    .accesskey = d
 history-clear-on-close-settings =
     .label = Nastavitve …
     .accesskey = t
@@ -436,15 +439,39 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-history-option =
+    .label = zgodovino brskanja
+    .accesskey = Z
+addressbar-locbar-bookmarks-option =
+    .label = zaznamke
+    .accesskey = k
+addressbar-locbar-openpage-option =
+    .label = odprte zavihke
+    .accesskey = O
 
 ## Privacy Section - Tracking
 
+tracking-mode-always =
+    .label = Vedno
+    .accesskey = e
+tracking-mode-private =
+    .label = Le v zasebnih oknih
+    .accesskey = L
+tracking-mode-never =
+    .label = Nikoli
+    .accesskey = o
+tracking-exceptions =
+    .label = Izjeme …
+    .accesskey = j
 
 ## Privacy Section - Permissions
 
 permissions-block-popups =
     .label = Prepovej pojavna okna
     .accesskey = r
+permissions-block-popups-exceptions =
+    .label = Izjeme …
+    .accesskey = I
 permissions-addon-exceptions =
     .label = Izjeme …
     .accesskey = E
@@ -459,6 +486,12 @@ collection-health-report-link = Več o tem
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-browsing-protection = Zaščita pred zavajajočo vsebino in nevarno programsko opremo
+security-enable-safe-browsing =
+    .label = Zavrni nevarno in zavajajočo vsebino
+    .accesskey = v
+security-block-downloads =
+    .label = Zavrni nevarne prenose
+    .accesskey = r
 
 ## Privacy Section - Certificates
 
