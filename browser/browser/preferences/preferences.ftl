@@ -348,6 +348,7 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-header = ಕುಕ್ಕಿಗಳು ಮತ್ತು ತಾಣ ದತ್ತಾಂಶ
 sitedata-learn-more = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
 sitedata-keep-until = ಈವರೆಗೆ ಇರಿಸಿಕೋ
     .accesskey = u
@@ -357,6 +358,12 @@ sitedata-accept-third-party-visited-option =
     .label = ಭೇಟಿ ಮಾಡಿದವುಗಳಿಂದ
 sitedata-accept-third-party-never-option =
     .label = ಎಂದಿಗೂ ಬೇಡ
+sitedata-clear =
+    .label = ದತ್ತಾಂಶ ಬರಿದುಮಾಡು…
+    .accesskey = l
+sitedata-settings =
+    .label = ದತ್ತಾಂಶವನ್ನು ನಿರ್ವಹಿಸು…
+    .accesskey = M
 sitedata-cookies-exceptions =
     .label = ವಿನಾಯಿತಿಗಳು...
     .accesskey = E
@@ -431,6 +438,7 @@ permissions-a11y-privacy-link = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರ�
 collection-header = { -brand-short-name } ದತ್ತಾಂಶ ಸಂಗ್ರಹಣೆ ಮತ್ತು ಬಳಕೆ
 collection-privacy-notice = ಗೌಪ್ಯತಾ ಸೂಚನೆ
 collection-health-report-link = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
+collection-browser-errors-link = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
 collection-backlogged-crash-reports-link = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
 
 ## Privacy Section - Security
