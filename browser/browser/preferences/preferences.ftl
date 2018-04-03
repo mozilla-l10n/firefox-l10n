@@ -373,48 +373,192 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = Privasi Pelayar
 
 ## Privacy Section - Forms
 
+forms-header = Borang & Kata laluan
+forms-remember-logins =
+    .label = Ingati log masuk dan kata laluan bagi laman web
+    .accesskey = I
+forms-saved-logins =
+    .label = Log masuk Tersimpan…
+    .accesskey = L
+forms-master-pw-use =
+    .label = Guna kata laluan induk
+    .accesskey = U
 
 ## Privacy Section - History
 
 history-header = Sejarah
+history-remember-description = { -brand-short-name } akan mengingati sejarah pelayaran, muat turun, borang dan carian.
+history-dontremember-description = { -brand-short-name } akan menggunakan tetapan yang sama untuk pelayaran peribadi dan tidak akan mengingati sejarah pelayaran semasa anda melayari Web.
+history-private-browsing-permanent =
+    .label = Sentiasa gunakan mod pelayaran peribadi
+    .accesskey = p
 history-remember-option =
     .label = Ingat semua lawan sesawang yang telah dikunjungi dan segala benda yang telah dimuat turun
     .accesskey = b
 history-clear-on-close-option =
     .label = Buang sejarah apabila { -brand-short-name } ditutup
     .accesskey = r
+history-clear-on-close-settings =
+    .label = Tetapan…
+    .accesskey = t
+history-clear-button =
+    .label = Buang Sejarah…
+    .accesskey = j
 
 ## Privacy Section - Site Data
 
+sitedata-header = Kuki dan Data Laman
+sitedata-learn-more = Ketahui selanjutnya
+sitedata-accept-cookies-option =
+    .label = Terima kuki dan data laman dari laman web (disyorkan)
+    .accesskey = T
+sitedata-block-cookies-option =
+    .label = Sekat kuki dan data laman (boleh menyebabkan laman web tidak lengkap)
+    .accesskey = S
+sitedata-keep-until = Kekalkan sehingga
+    .accesskey = s
+sitedata-accept-third-party-desc = Terima kuki dan data laman pihak ketiga
+    .accesskey = k
 sitedata-accept-third-party-always-option =
     .label = Sentiasa
 sitedata-accept-third-party-visited-option =
     .label = Daripada yang dilawati
+sitedata-accept-third-party-never-option =
+    .label = Jangan sesekali
+sitedata-clear =
+    .label = Buang Data…
+    .accesskey = u
+sitedata-settings =
+    .label = Urus Data…
+    .accesskey = U
+sitedata-cookies-exceptions =
+    .label = Pengecualian…
+    .accesskey = E
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Bar Alamat
+addressbar-suggest = Apabila menggunakan bar alamat, syorkan
+addressbar-locbar-history-option =
+    .label = Sejarah pelayaran
+    .accesskey = S
+addressbar-locbar-bookmarks-option =
+    .label = Tandabuku
+    .accesskey = k
+addressbar-suggestions-settings = Tukar keutamaan bagi cadangan enjin carian
 
 ## Privacy Section - Tracking
 
+tracking-header = Perlindungan Penjejakan
+tracking-description = Perlindungan Penjejakan menyekat penjejak atas talian yang mengumpul data pelayaran anda dalam pelbagai laman web. <a>Ketahui lebih lanjut perihal Perlindungan Penjejakan dan privasi anda</a>
+tracking-mode-label = Gunakan Perlindungan Penjejakan untuk menyekat penjejak dikenali
+tracking-mode-private =
+    .label = Hanya dalam tertingkap persendirian
+    .accesskey = y
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Gunakan Perlindungan Penjejakan dalam Pelayaran Peribadi untuk menyekat penjejak dikenali
+    .accesskey = b
+tracking-change-block-list =
+    .label = Tukar Senarai Sekatan…
+    .accesskey = T
 
 ## Privacy Section - Permissions
 
+permissions-header = Keizinan
+permissions-location = Lokasi
+permissions-location-settings =
+    .label = Tetapan…
+    .accesskey = t
+permissions-camera = Kamera
+permissions-camera-settings =
+    .label = Tetapan…
+    .accesskey = t
+permissions-microphone = Mikrofon
+permissions-microphone-settings =
+    .label = Tetapan…
+    .accesskey = t
+permissions-notification = Notifikasi
+permissions-notification-settings =
+    .label = Tetapan…
+    .accesskey = t
+permissions-notification-link = Ketahui selanjutnya
+permissions-notification-pause =
+    .label = Jeda notifikasi hingga { -brand-short-name } mula semula
+    .accesskey = n
+permissions-block-popups =
+    .label = Sekat tetingkap popup
+    .accesskey = S
+permissions-block-popups-exceptions =
+    .label = Pengecualian…
+    .accesskey = E
+permissions-addon-install-warning =
+    .label = Beri amaran apabila laman web cuba memasang add-ons
+    .accesskey = B
+permissions-addon-exceptions =
+    .label = Pengecualian…
+    .accesskey = E
+permissions-a11y-privacy-checkbox =
+    .label = Halang perkhidmatan daripada mengakses pelayar anda
+    .accesskey = a
+permissions-a11y-privacy-link = Ketahui selanjutnya
 
 ## Privacy Section - Data Collection
 
+collection-header = Pengumpulan dan penggunaan data { -brand-short-name }
+collection-description = Kami berusaha untuk menyediakan anda dengan pilihan dan hanya mengumpulkan apa yang kami perlukan, dan memajukan { -brand-short-name } untuk semua orang. Kami sentiasa meminta izin sebelum menerima maklumat peribadi.
+collection-privacy-notice = Notis Privasi
+collection-health-report =
+    .label = Izinkan{ -brand-short-name } supaya secara automatik akan menghantarkan data teknikal dan interaksi kepada { -vendor-short-name }
+    .accesskey = r
+collection-health-report-link = Ketahui selanjutnya
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Laporan data dinyahdayakan bagi konfigurasi binaan ini
+collection-browser-errors =
+    .label = Izinkan { -brand-short-name } untuk menghantar laporan ralat pelayar (termasuk mesej ralat) kepada { -vendor-short-name }
+    .accesskey = p
+collection-browser-errors-link = Ketahui selanjutnya
+collection-backlogged-crash-reports =
+    .label = Izinkan { -brand-short-name } untuk menghantar backlog laporan ranap bagi pihak anda
+    .accesskey = r
+collection-backlogged-crash-reports-link = Ketahui selanjutnya
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Keselamatan
+security-browsing-protection = Perlindungan Kandungan Mengelirukan dan Perisian Berbahaya
 security-enable-safe-browsing =
     .label = Sekat isi kandung berbahaya dan memperdayakan
     .accesskey = B
+security-enable-safe-browsing-link = Ketahui selanjutnya
+security-block-uncommon-software =
+    .label = Beri amaran mengenai perisian yang tidak dikehendaki dan yang luar biasa
+    .accesskey = L
 
 ## Privacy Section - Certificates
 
 certs-header = Sijil
+certs-personal-label = Apabila pelayan meminta sijil peribadi anda
+certs-select-auto-option =
+    .label = Pilih satu secara automatik
+    .accesskey = P
+certs-select-ask-option =
+    .label = Tanya setiap kali
+    .accesskey = T
+certs-enable-ocsp =
+    .label = Minta penggerak balas pelayan OCSP untuk mengesahkan kesahihan sijil semasa
+    .accesskey = T
+certs-view =
+    .label = Papar Sijil…
+    .accesskey = S
+certs-devices =
+    .label = Peranti Keselamatan…
+    .accesskey = P
