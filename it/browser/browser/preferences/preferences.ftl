@@ -382,3 +382,219 @@ containers-preferences-button =
     .label = Preferenze
 containers-remove-button =
     .label = Elimina
+
+## Privacy Section
+
+privacy-header = Privacy del browser
+
+## Privacy Section - Forms
+
+forms-header = Moduli e password
+forms-remember-logins =
+    .label = Ricorda le credenziali di accesso ai siti web
+    .accesskey = R
+forms-exceptions =
+    .label = Eccezioni…
+    .accesskey = z
+forms-saved-logins =
+    .label = Accessi salvati…
+    .accesskey = s
+forms-master-pw-use =
+    .label = Utilizza una password principale
+    .accesskey = U
+forms-master-pw-change =
+    .label = Cambia la password principale…
+    .accesskey = w
+
+## Privacy Section - History
+
+history-header = Cronologia
+history-remember-description = Verranno salvate la cronologia di navigazione, i download, le informazioni inserite nei moduli o nei campi di ricerca.
+history-dontremember-description = Verranno utilizzate le stesse impostazioni della Navigazione anonima: in questo modo non verrà salvata alcuna cronologia relativa alla navigazione.
+history-private-browsing-permanent =
+    .label = Utilizza sempre la modalità Navigazione anonima
+    .accesskey = U
+history-remember-option =
+    .label = Conserva la cronologia di navigazione e dei download
+    .accesskey = d
+history-remember-search-option =
+    .label = Conserva la cronologia delle ricerche e dei moduli
+    .accesskey = g
+history-clear-on-close-option =
+    .label = Cancella la cronologia alla chiusura di { -brand-short-name }
+    .accesskey = C
+history-clear-on-close-settings =
+    .label = Impostazioni…
+    .accesskey = I
+history-clear-button =
+    .label = Cancella cronologia…
+    .accesskey = e
+
+## Privacy Section - Site Data
+
+sitedata-header = Cookie e dati dei siti web
+sitedata-learn-more = Ulteriori informazioni
+sitedata-accept-cookies-option =
+    .label = Accetta cookie e dati dai siti web (consigliato)
+    .accesskey = k
+sitedata-block-cookies-option =
+    .label = Blocca cookie e dati dei siti web (potrebbe causare malfunzionamenti in alcuni siti)
+    .accesskey = B
+sitedata-keep-until = Conservali fino
+    .accesskey = v
+sitedata-accept-third-party-desc = Accetta cookie e dati da siti di terze parti
+    .accesskey = t
+sitedata-accept-third-party-always-option =
+    .label = sempre
+sitedata-accept-third-party-visited-option =
+    .label = dai siti visitati
+sitedata-accept-third-party-never-option =
+    .label = mai
+sitedata-clear =
+    .label = Elimina dati…
+    .accesskey = i
+sitedata-settings =
+    .label = Gestisci dati…
+    .accesskey = d
+sitedata-cookies-exceptions =
+    .label = Eccezioni…
+    .accesskey = z
+
+## Privacy Section - Address Bar
+
+addressbar-header = Barra degli indirizzi
+addressbar-suggest = Nella barra degli indirizzi visualizza suggerimenti da
+addressbar-locbar-history-option =
+    .label = cronologia di navigazione
+    .accesskey = n
+addressbar-locbar-bookmarks-option =
+    .label = segnalibri
+    .accesskey = g
+addressbar-locbar-openpage-option =
+    .label = schede aperte
+    .accesskey = d
+addressbar-suggestions-settings = Modifica le impostazioni relative ai suggerimenti dei motori di ricerca
+
+## Privacy Section - Tracking
+
+tracking-header = Protezione antitracciamento
+tracking-description = La protezione antitracciamento blocca elementi utilizzati per raccogliere dati sulla navigazione attraverso siti diversi. <a>Ulteriori informazioni sulla protezione antitracciamento e la privacy</a>
+tracking-mode-label = Utilizza la protezione antitracciamento per bloccare i tracciatori conosciuti
+tracking-mode-always =
+    .label = Sempre
+    .accesskey = p
+tracking-mode-private =
+    .label = Solo in finestre anonime
+    .accesskey = f
+tracking-mode-never =
+    .label = Mai
+    .accesskey = a
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Attiva la protezione antitracciamento in modalità Navigazione anonima per bloccare i tracciatori conosciuti
+    .accesskey = g
+tracking-exceptions =
+    .label = Eccezioni…
+    .accesskey = E
+tracking-change-block-list =
+    .label = Seleziona elenco…
+    .accesskey = l
+
+## Privacy Section - Permissions
+
+permissions-header = Permessi
+permissions-location = Posizione
+permissions-location-settings =
+    .label = Impostazioni…
+    .accesskey = t
+permissions-camera = Fotocamera
+permissions-camera-settings =
+    .label = Impostazioni…
+    .accesskey = t
+permissions-microphone = Microfono
+permissions-microphone-settings =
+    .label = Impostazioni…
+    .accesskey = t
+permissions-notification = Notifiche
+permissions-notification-settings =
+    .label = Impostazioni…
+    .accesskey = t
+permissions-notification-link = Ulteriori informazioni
+permissions-notification-pause =
+    .label = Sospendi notifiche fino al riavvio di { -brand-short-name }
+    .accesskey = n
+permissions-block-popups =
+    .label = Blocca le finestre pop-up
+    .accesskey = B
+permissions-block-popups-exceptions =
+    .label = Eccezioni…
+    .accesskey = o
+permissions-addon-install-warning =
+    .label = Avvisa se un sito web cerca di installare un componente aggiuntivo
+    .accesskey = A
+permissions-addon-exceptions =
+    .label = Eccezioni…
+    .accesskey = E
+permissions-a11y-privacy-checkbox =
+    .label = Impedisci ai servizi di accessibilità di accedere al browser
+    .accesskey = b
+permissions-a11y-privacy-link = Ulteriori informazioni
+
+## Privacy Section - Data Collection
+
+collection-header = Raccolta e utilizzo dati di { -brand-short-name }
+collection-description = Cerchiamo di garantire agli utenti la possibilità di scegliere, raccogliendo solo i dati necessari per realizzare e migliorare { -brand-short-name } per tutti. Chiediamo sempre l’autorizzazione prima di raccogliere dati personali.
+collection-privacy-notice = Informativa sulla privacy
+collection-health-report =
+    .label = Consenti a { -brand-short-name } di inviare a { -vendor-short-name } dati tecnici e relativi all’interazione con il browser
+    .accesskey = v
+collection-health-report-link = Ulteriori informazioni
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = L’invio dei dati è stato disattivato nella configurazione utilizzata per questa build
+collection-browser-errors =
+    .label = Consenti a { -brand-short-name } di inviare a { -vendor-short-name } le segnalazioni di errori nel browser (inclusi i messaggi di errore)
+    .accesskey = b
+collection-browser-errors-link = Ulteriori informazioni
+collection-backlogged-crash-reports =
+    .label = Consenti a { -brand-short-name } di inviare segnalazioni di arresto anomalo in sospeso
+    .accesskey = C
+collection-backlogged-crash-reports-link = Ulteriori informazioni
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+security-header = Sicurezza
+security-browsing-protection = Protezione contro contenuti ingannevoli e software a rischio
+security-enable-safe-browsing =
+    .label = Blocca contenuti a rischio e ingannevoli
+    .accesskey = B
+security-enable-safe-browsing-link = Ulteriori informazioni
+security-block-downloads =
+    .label = Blocca download a rischio
+    .accesskey = c
+security-block-uncommon-software =
+    .label = Avvisa in caso di software indesiderato e non scaricato abitualmente
+    .accesskey = w
+
+## Privacy Section - Certificates
+
+certs-header = Certificati
+certs-personal-label = Quando un sito web richiede il certificato personale
+certs-select-auto-option =
+    .label = Selezionane uno automaticamente
+    .accesskey = S
+certs-select-ask-option =
+    .label = Chiedi ogni volta
+    .accesskey = h
+certs-enable-ocsp =
+    .label = Interroga risponditori OCSP per confermare la validità attuale dei certificati
+    .accesskey = P
+certs-view =
+    .label = Mostra certificati…
+    .accesskey = M
+certs-devices =
+    .label = Dispositivi di sicurezza…
+    .accesskey = D
