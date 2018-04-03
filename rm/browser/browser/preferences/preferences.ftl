@@ -489,11 +489,11 @@ collection-privacy-notice = Infurmaziuns davart la protecziun da datas
 collection-health-report =
     .label = Permetter a { -brand-short-name } da trametter datas tecnicas e datas d'interacziun a { -vendor-short-name }
     .accesskey = r
-collection-health-report-link = Ulteriuras infurmaziuns{ " " }
+collection-health-report-link = Ulteriuras infurmaziuns
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Rapports da datas èn deactivads per questa configuraziun da compilaziun
-collection-backlogged-crash-reports-link = Ulteriuras infurmaziuns{ " " }
+collection-backlogged-crash-reports-link = Ulteriuras infurmaziuns
 
 ## Privacy Section - Security
 ##
