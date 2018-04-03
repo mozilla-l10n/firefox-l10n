@@ -271,6 +271,7 @@ containers-remove-button =
 
 ## Privacy Section - Forms
 
+forms-header = Takarey nda šennikufaley
 forms-exceptions =
     .label = Hasarawey…
     .accesskey = s
@@ -283,6 +284,7 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-header = Taariki
 history-dontremember-description = { -brand-short-name } ga goy nda kayandiyan follokey kaŋ goo nda sutura ceeciyan, amma a ši taariku gaabu war tataaru ceeciroo waate.
 history-private-browsing-permanent =
     .label = Wa goy sutura naarumi alhaali ra waati kul
@@ -312,15 +314,39 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-bookmarks-option =
+    .label = Doo-šilbay
+    .accesskey = i
+addressbar-locbar-openpage-option =
+    .label = Nor lokey feeri
+    .accesskey = f
+addressbar-suggestions-settings = Ibaa&ey barmay ceecijinay honnandiyaney se
 
 ## Privacy Section - Tracking
 
+tracking-header = Ganayan jejebu
+tracking-mode-always =
+    .label = Waati kul
+    .accesskey = i
+tracking-mode-private =
+    .label = Sutura zanfuney hinne ra
+    .accesskey = i
+tracking-mode-never =
+    .label = Abada
+    .accesskey = b
+tracking-exceptions =
+    .label = Hasarawey…
+    .accesskey = H
 
 ## Privacy Section - Permissions
 
+permissions-notification = Bangandiyaney
 permissions-block-popups =
     .label = Biiboŋ bata zanfuney daabu
     .accesskey = B
+permissions-block-popups-exceptions =
+    .label = Hasarawey…
+    .accesskey = H
 permissions-addon-exceptions =
     .label = Hasarawey…
     .accesskey = H
@@ -333,7 +359,27 @@ permissions-addon-exceptions =
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Saajaw
+security-enable-safe-browsing =
+    .label = Hasaraw wala zanba gundekuna gagay
+    .accesskey = g
+security-block-downloads =
+    .label = Hasaraw zumandiyaney gagay
+    .accesskey = H
+security-block-uncommon-software =
+    .label = War yaamar porogaram kaŋ ši boonandi nda šibayante
+    .accesskey = b
 
 ## Privacy Section - Certificates
 
 certs-header = Tabatiyan-tiirawey
+certs-personal-label = Waati kaŋ feršikaw n'ay boŋ tabatiyan-tiiraa wiri
+certs-select-auto-option =
+    .label = Affoo suuba boŋse
+    .accesskey = S
+certs-select-ask-option =
+    .label = Hãa waati foo kul
+    .accesskey = A
+certs-enable-ocsp =
+    .label = Hayyan OCSP zaabi feršikey ka sohõda tabatandi tiira booriyanoo cimandi.
+    .accesskey = H
