@@ -423,18 +423,33 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Налаштування…
     .accesskey = Н
+history-clear-button =
+    .label = Стерти історію…
+    .accesskey = С
 
 ## Privacy Section - Site Data
 
+sitedata-header = Куки і дані сайтів
 sitedata-learn-more = Докладніше
+sitedata-accept-cookies-option =
+    .label = Приймати куки і дані з веб-сайтів (рекомендовано)
+    .accesskey = к
+sitedata-block-cookies-option =
+    .label = Блокувати куки і дані (може призвести до пошкодження веб-сайтів)
+    .accesskey = Б
 sitedata-keep-until = Зберігати доки
     .accesskey = г
+sitedata-accept-third-party-desc = Приймати сторонні куки і дані сайтів
+    .accesskey = к
 sitedata-accept-third-party-always-option =
     .label = Завжди
 sitedata-accept-third-party-visited-option =
     .label = Від відвіданих
 sitedata-accept-third-party-never-option =
     .label = Ніколи
+sitedata-clear =
+    .label = Стерти дані…
+    .accesskey = С
 sitedata-cookies-exceptions =
     .label = Винятки…
     .accesskey = и
@@ -457,6 +472,8 @@ addressbar-suggestions-settings = Змінити налаштування про
 ## Privacy Section - Tracking
 
 tracking-header = Захист від стеження
+tracking-description = Захист від стеження блокує елементи, що збирають ваші дані під час перегляду на багатьох веб-сайтах. <a>Дізнайтеся більше про захист від стеження і вашу приватність</a>
+tracking-mode-label = Використовуйте захист від стеження для блокування відомих елементів стеження
 tracking-mode-always =
     .label = Завжди
     .accesskey = З
@@ -497,6 +514,9 @@ permissions-notification-settings =
     .label = Налаштування…
     .accesskey = Н
 permissions-notification-link = Докладніше
+permissions-notification-pause =
+    .label = Призупинити сповіщення до перезапуску { -brand-short-name }
+    .accesskey = П
 permissions-block-popups =
     .label = Блокувати виринаючі вікна
     .accesskey = Б
@@ -509,6 +529,9 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Винятки…
     .accesskey = В
+permissions-a11y-privacy-checkbox =
+    .label = Не дозволяти сервісам доступності доступ до вашого браузера
+    .accesskey = з
 permissions-a11y-privacy-link = Докладніше
 
 ## Privacy Section - Data Collection
@@ -523,6 +546,13 @@ collection-health-report-link = Докладніше
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Відправлення даних вимкнено для цієї конфігурації збірки
+collection-browser-errors =
+    .label = Дозволити { -brand-short-name } надсилати звіти і повідомлення про помилки в { -vendor-short-name }
+    .accesskey = з
+collection-browser-errors-link = Докладніше
+collection-backlogged-crash-reports =
+    .label = Дозволити { -brand-short-name } надсилати від вашого імені зібрані звіти про збої
+    .accesskey = н
 collection-backlogged-crash-reports-link = Докладніше
 
 ## Privacy Section - Security
@@ -535,6 +565,7 @@ security-browsing-protection = Шахрайський вміст і захист
 security-enable-safe-browsing =
     .label = Блокувати небезпечний і шахрайський вміст
     .accesskey = Б
+security-enable-safe-browsing-link = Докладніше
 security-block-downloads =
     .label = Блокувати небезпечні завантаження
     .accesskey = з
