@@ -385,12 +385,20 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = Priwatnosć wobglědowaka
 
 ## Privacy Section - Forms
 
+forms-header = Formulary a gronidła
+forms-remember-logins =
+    .label = Pśizjawjenja a gronidła za sedła se spomnjeś
+    .accesskey = P
 forms-exceptions =
     .label = Wuwześa…
     .accesskey = u
+forms-saved-logins =
+    .label = Skłaźone pśizjawjenja…
+    .accesskey = S
 forms-master-pw-use =
     .label = Głowne gronidło wužywaś
     .accesskey = G
@@ -400,6 +408,7 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-header = Historija
 history-dontremember-description = { -brand-short-name } buźo te samske nastajenja ako w priwatnem modusu wužywaś a njebuźo se historiju markowaś, gaž Web pśeglědujośo.
 history-private-browsing-permanent =
     .label = Pśecej priwatny modus wužywaś
@@ -419,6 +428,11 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = Dalšne informacije
+sitedata-keep-until = Wobchowaś
+    .accesskey = b
+sitedata-accept-third-party-always-option =
+    .label = Pśecej
 sitedata-accept-third-party-visited-option =
     .label = Jano wót woglědanych tśeśich
 sitedata-accept-third-party-never-option =
@@ -429,28 +443,106 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Adresowe pólo
+addressbar-suggest = Pśi wužywanju adresowego póla ma se naraźiś
+addressbar-locbar-history-option =
+    .label = Pśeglědowańska historija
+    .accesskey = g
+addressbar-locbar-bookmarks-option =
+    .label = Cytańske znamjenja
+    .accesskey = C
+addressbar-locbar-openpage-option =
+    .label = Wócynjone rejtarki
+    .accesskey = r
+addressbar-suggestions-settings = Nastajenja za naraźenja pytnice změniś
 
 ## Privacy Section - Tracking
 
+tracking-header = Slědowański šćit
+tracking-mode-always =
+    .label = Pśecej
+    .accesskey = c
+tracking-mode-private =
+    .label = Jano w priwatnych woknach
+    .accesskey = o
+tracking-mode-never =
+    .label = Nigda
+    .accesskey = N
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Slědowański šćit w priwatnem modusu wužywaś, aby znate pśeslědowarje blokěrował
+    .accesskey = r
+tracking-exceptions =
+    .label = Wuwześa…
+    .accesskey = u
+tracking-change-block-list =
+    .label = Blokěrowańsku lisćinu změniś…
+    .accesskey = z
 
 ## Privacy Section - Permissions
 
+permissions-header = Pšawa
+permissions-location = Městno
+permissions-camera = Kamera
+permissions-microphone = Mikrofon
+permissions-notification = Powěźeńki
+permissions-notification-link = Dalšne informacije
 permissions-block-popups =
     .label = Wuskokujuce wokno blokěrowaś
     .accesskey = k
+permissions-block-popups-exceptions =
+    .label = Wuwześa…
+    .accesskey = W
+permissions-addon-install-warning =
+    .label = Warnowaś, gaž sedła wopytuju dodanki instalěrowaś
+    .accesskey = W
 permissions-addon-exceptions =
     .label = Wuwześa…
     .accesskey = W
 
 ## Privacy Section - Data Collection
 
+collection-header = Gromaźenje a wužywanje datow { -brand-short-name }
+collection-description = Comy was z wuběrkami wobstaraś a janož to zběraś, což musymy póbitowaś, aby my { -brand-short-name } za kuždego pólěpšili. Pšosymy pśecej wó dowólnosć, nježli až wósobinske daty dostanjomy.
+collection-privacy-notice = Powěźeńka priwatnosći
+collection-health-report-link = Dalšne informacije
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Datowe rozpšawjenje jo znjemóžnjone za toś tu programowu konfiguraciju
+collection-backlogged-crash-reports-link = Dalšne informacije
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Wěstota
+security-enable-safe-browsing =
+    .label = Tšašne a wobšudnikojske wopśimjeśe blokěrowaś
+    .accesskey = T
+security-block-downloads =
+    .label = Tšašne ześěgnjenja blokěrowaś
+    .accesskey = z
+security-block-uncommon-software =
+    .label = Pśed njewitaneju a njewšedneju softwaru warnowaś
+    .accesskey = w
 
 ## Privacy Section - Certificates
 
 certs-header = Certifikaty
+certs-personal-label = Gaž serwer pomina wósobinski certifikat
+certs-select-auto-option =
+    .label = Awtomatiski wubraś
+    .accesskey = s
+certs-select-ask-option =
+    .label = Kuždy raz se pšašaś
+    .accesskey = K
+certs-enable-ocsp =
+    .label = Pla wótegronowych serwerow OCSP se napšašowaś, aby aktualnu płaśiwosć certifikatow wobkšuśiło
+    .accesskey = P
+certs-view =
+    .label = Certifikaty pokazaś…
+    .accesskey = C
+certs-devices =
+    .label = Wěstotne rědy…
+    .accesskey = t
