@@ -14,3 +14,4 @@
 ## Reference: https://www.mozilla.org/styleguide/communications/translation/
 
 -brand-short-name = فایرفاکس
+-vendor-short-name = موزیلا
