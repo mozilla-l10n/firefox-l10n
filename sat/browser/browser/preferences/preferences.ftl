@@ -28,6 +28,9 @@ feature-enable-requires-restart = { -brand-short-name } नोवा गुन �
 feature-disable-requires-restart = { -brand-short-name } नोवा गुन को बाङ हुय  होचो ला़गित् दोहड़ा एहोब ला़कती .
 should-restart-title = दोहड़ा एहोब { -brand-short-name }
 
+## Preferences UI Search Results
+
+
 ## General Section
 
 startup-header = नावा का़मी एहोब
@@ -35,23 +38,6 @@ is-default = { -brand-short-name } दो नितोक् आमाक हु
 is-not-default = { -brand-short-name }दो  आमाक् हुड़ा़क् ब्राउजार  बाङ काना
 startup-blank-page =
     .label = मित् एकेनाक् साहटा उदुग मे
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] नितोगाक् साहटा बेभार मे (C)
-           *[other] नितोगाक् साहटा को बेभारमे
-        }
-    .accesskey = C
-choose-bookmark =
-    .label = पुथी चिनहा़ को बेभार मे…   (B)
-    .accesskey = B
-restore-default =
-    .label = हुड़ा़क् रे जोगाव आ़रु  (R)
-    .accesskey = R
 tabs-group-header = टेब को
 show-tabs-in-taskbar =
     .label = विंडो टास्क बार रे टेब माड़ाङ तेयाक् ञेंल उदुग मे (k) .
@@ -129,6 +115,29 @@ network-proxy-connection-settings =
     .label = साजाव को (e)...
     .accesskey = e
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] नितोगाक् साहटा बेभार मे (C)
+           *[other] नितोगाक् साहटा को बेभारमे
+        }
+    .accesskey = C
+choose-bookmark =
+    .label = पुथी चिनहा़ को बेभार मे…   (B)
+    .accesskey = B
+restore-default =
+    .label = हुड़ा़क् रे जोगाव आ़रु  (R)
+    .accesskey = R
+
 ## Search Section
 
 search-remove-engine =
@@ -141,3 +150,82 @@ search-keyword-warning-title = नोकोल तेयार का़ठी �
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = आम मित् का़ठी साबाद बाछाव आकात् आम ओका दो नितोक्  "{ $name }" दाराय ते बेभारोक् काना.एटागाक् बाछाव मे
 search-keyword-warning-bookmark = आम मित् का़ठी साबाद बाछाव आकात् आम ओका दो नितोक्  मित् पुथी चिनहा़ दाराय ते बेभारोक् काना. एटागाक् बाछाव मे
+
+## Containers Section
+
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = बादाक् को (x)…
+    .accesskey = x
+forms-master-pw-use =
+    .label = मित् मुल दानाङ साबाद बेभार मे. (U)
+    .accesskey = U
+forms-master-pw-change =
+    .label = मुल दानाङ साबाद बोदोल मे …(M)
+    .accesskey = M
+
+## Privacy Section - History
+
+history-header = हिता़ल
+history-dontremember-description = { -brand-short-name } निजेराक् ब्राउसिंग लेका सोमान साजाव को बेभार मे , आर आम वेब ब्राउज लेका जाहांन हिता़ल लेका बाय उयहा़र .
+history-private-browsing-permanent =
+    .label = { "  " }निजेराक् ब्राउजिंग ओबोसता जावगे बेभार मे.(p)
+    .accesskey = p
+history-remember-option =
+    .label = इंञाक् ब्राउजिंग आर आ़तुर आंड़गो हिता़ल उयहा़र दोहोय मे.(b)
+    .accesskey = b
+history-remember-search-option =
+    .label = पानते आर तेयार हिता़ल उयहा़र दोहोय मे. (f)
+    .accesskey = f
+history-clear-on-close-option =
+    .label = हिता़ल फारचाय मेतिन रे  { -brand-short-name } बोंदो आ (r )
+    .accesskey = r
+history-clear-on-close-settings =
+    .label = { " " }साजाव को(t)…
+    .accesskey = t
+
+## Privacy Section - Site Data
+
+sitedata-accept-third-party-visited-option =
+    .label = ञेलाक् खोन
+sitedata-accept-third-party-never-option =
+    .label = तिसहों बाङ
+sitedata-cookies-exceptions =
+    .label = बाद आक् को…(E)
+    .accesskey = E
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-block-popups =
+    .label = पॉप-ऑप विंडो आकोट मे  (B)
+    .accesskey = B
+permissions-addon-exceptions =
+    .label = बादाक् को  …(E)
+    .accesskey = E
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
+certs-header = पोरमान साकाम को
+certs-enable-ocsp =
+    .label = पोरमान साकाम रेयाक् नितोगाक् बाताव एम निसेटाय ला़गित् कुकाली OCSP रोड़रुवा़ड़यिजाक् सार्बार(Q)
+    .accesskey = Q
