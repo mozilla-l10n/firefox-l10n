@@ -382,3 +382,64 @@ containers-preferences-button =
     .label = Foarkarren
 containers-remove-button =
     .label = Fuortsmite
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+
+## Privacy Section - History
+
+history-dontremember-description = { -brand-short-name } sil deselde ynstellingen brûke as privee sneupe en sil gjin skiednis ûnthâlde as jo sneupe oer it ynternet.
+history-private-browsing-permanent =
+    .label = Altyd de priveenavigaasje brûke
+    .accesskey = P
+history-remember-search-option =
+    .label = Syk- en formulierskiednis ûnthâlde
+    .accesskey = S
+history-clear-on-close-option =
+    .label = Skiednis wiskje as { -brand-short-name } slút
+    .accesskey = w
+history-clear-on-close-settings =
+    .label = Ynstellingen…
+    .accesskey = Y
+
+## Privacy Section - Site Data
+
+sitedata-accept-third-party-always-option =
+    .label = Altyd
+sitedata-accept-third-party-visited-option =
+    .label = Fan besochte
+sitedata-cookies-exceptions =
+    .label = Utsûnderingen…
+    .accesskey = d
+
+## Privacy Section - Address Bar
+
+addressbar-locbar-bookmarks-option =
+    .label = Blêdwizers
+    .accesskey = d
+addressbar-locbar-openpage-option =
+    .label = Iepen ljeplêden
+    .accesskey = I
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+
+## Privacy Section - Data Collection
+
+collection-health-report-link = Mear ynfo
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
+certs-header = Sertifikaten
