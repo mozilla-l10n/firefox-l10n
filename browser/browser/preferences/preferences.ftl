@@ -405,6 +405,7 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Тарихы
+history-remember-description = { -brand-short-name } сіздің шолу, жүктемелер, формалар және іздеулер тарихын сақтайтын болады.
 history-dontremember-description = { -brand-short-name } жекелік шолу режимінің баптауын пайдаланады, яғни браузер тарихына ешқандай мәлімет сақталмайды.
 history-private-browsing-permanent =
     .label = Әрқашан жекелік шолу режимін қолдану
@@ -421,18 +422,36 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Баптау…
     .accesskey = п
+history-clear-button =
+    .label = Тарихты тазарту…
+    .accesskey = з
 
 ## Privacy Section - Site Data
 
+sitedata-header = Cookies файлдары және сайт деректері
 sitedata-learn-more = Көбірек білу
+sitedata-accept-cookies-option =
+    .label = Веб-сайттардан cookies файлдарын және сайттар деректерін қабылдау (ұсынылады)
+    .accesskey = а
+sitedata-block-cookies-option =
+    .label = Cookies файлдарын және сайттар деректерін тайдыру (веб-сайттар сынуы мүмкін)
+    .accesskey = й
 sitedata-keep-until = Дейін сақтау
     .accesskey = н
+sitedata-accept-third-party-desc = Үшінші жақты cookies файлдары және сайт деректерін қабылдау
+    .accesskey = ш
 sitedata-accept-third-party-always-option =
     .label = Әрқашан
 sitedata-accept-third-party-visited-option =
     .label = Мен болған жерден ғана
 sitedata-accept-third-party-never-option =
     .label = Ешқашан
+sitedata-clear =
+    .label = Деректерді өшіру…
+    .accesskey = ш
+sitedata-settings =
+    .label = Деректерді басқару…
+    .accesskey = б
 sitedata-cookies-exceptions =
     .label = Ережелерден бөлек…
     .accesskey = Е
@@ -450,10 +469,13 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Ашық беттер
     .accesskey = А
+addressbar-suggestions-settings = Іздеу жүйесінің ұсыныстары үшін қалауларды өзгерту
 
 ## Privacy Section - Tracking
 
 tracking-header = Бақылаудан қорғанысты қолдану
+tracking-description = Бақылаудан қорғаныс көптеген веб-сайттар арасында сіздің деректеріңізді жинайтын онлайн трекерлерді блоктайды. <a>Бақылаудан қорғаныс және сіздің жекелігіңіз туралы көбірек білу</a>
+tracking-mode-label = Белгілі трекерлерді блоктау үшін Бақылаудан қорғанысты қолдану
 tracking-mode-always =
     .label = Әрқашан
     .accesskey = ш
@@ -478,10 +500,25 @@ tracking-change-block-list =
 
 permissions-header = Рұқсаттар
 permissions-location = Орналасу
+permissions-location-settings =
+    .label = Баптаулар…
+    .accesskey = л
 permissions-camera = Камера
+permissions-camera-settings =
+    .label = Баптаулар…
+    .accesskey = а
 permissions-microphone = Микрофон
+permissions-microphone-settings =
+    .label = Баптаулар…
+    .accesskey = п
 permissions-notification = Хабарламалар
+permissions-notification-settings =
+    .label = Баптаулар…
+    .accesskey = у
 permissions-notification-link = Көбірек білу
+permissions-notification-pause =
+    .label = Хабарламаларды { -brand-short-name } қайта іске қосылғанша дейін аялдату
+    .accesskey = д
 permissions-block-popups =
     .label = "Атып шығатын" терезелерді болдырмау
     .accesskey = б
@@ -494,16 +531,30 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Ережелерден бөлек…
     .accesskey = Е
+permissions-a11y-privacy-checkbox =
+    .label = Қолжетерлілік қызметтеріне сіздің браузеріңізге қатынауға тыйым салу
+    .accesskey = а
+permissions-a11y-privacy-link = Көбірек білу
 
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } деректер жинауы және қолданылуы
 collection-description = Біз сізге таңдауды қолыңызға беріп, тек әркім үшін { -brand-short-name } өнімін ұсыну және жақсарту мақсатында керек деректерді жинаймыз. Жеке ақпаратты алу алдында біз әрқашан рұқсатты сұраймыз.
 collection-privacy-notice = Жекелік ескертуі
+collection-health-report =
+    .label = { -brand-short-name } үшін { -vendor-short-name } адресіне техникалық және әрекеттесу деректерін жіберуді рұқсат ету
+    .accesskey = р
 collection-health-report-link = Көбірек білу
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Деректер есептемесін беру бұл жинақта сөндірілген
+collection-browser-errors =
+    .label = { -brand-short-name } үшін { -vendor-short-name } адресіне браузер қателіктері есептерін (қате хабарламаларын қоса) жіберуге рұқсат ету
+    .accesskey = б
+collection-browser-errors-link = Көбірек білу
+collection-backlogged-crash-reports =
+    .label = { -brand-short-name } үшін сіздің атыңыздан құлаулар жөнінде архивті хабарламаларды жіберуді рұқсат ету
+    .accesskey = с
 collection-backlogged-crash-reports-link = Көбірек білу
 
 ## Privacy Section - Security
@@ -512,9 +563,11 @@ collection-backlogged-crash-reports-link = Көбірек білу
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Қауіпсіздік
+security-browsing-protection = Жалған істелген мазмұн және қауіпті бағдарламалық қамтамадан қорғаныс
 security-enable-safe-browsing =
     .label = Қауіпті және алдамшы құраманы блоктау
     .accesskey = б
+security-enable-safe-browsing-link = Көбірек білу
 security-block-downloads =
     .label = Қауіпті жүктемелерді блоктау
     .accesskey = п
@@ -526,6 +579,9 @@ security-block-uncommon-software =
 
 certs-header = Сертификаттар
 certs-personal-label = Егерде сервер сіздің жеке сертификатыңызды сұраса
+certs-select-auto-option =
+    .label = Мені сұрамай-ақ жіберу
+    .accesskey = с
 certs-select-ask-option =
     .label = Әрбір ретте cізден сұрау
     .accesskey = р
