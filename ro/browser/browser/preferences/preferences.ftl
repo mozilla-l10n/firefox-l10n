@@ -408,6 +408,9 @@ forms-master-pw-change =
 
 history-header = Istoric
 history-dontremember-description = { -brand-short-name } va folosi aceleași setări ca navigarea privată și nu va memora niciun istoric pe măsură ce navighezi pe web.
+history-private-browsing-permanent =
+    .label = Folosește mereu modul de navigare privată
+    .accesskey = m
 history-remember-option =
     .label = Memorează istoricul navigării și al descărcărilor
     .accesskey = g
