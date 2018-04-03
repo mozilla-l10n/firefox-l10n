@@ -509,6 +509,10 @@ collection-health-report-link = Saznajte više
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Izvještaji s podacima su onemogućeni za ovu konfiguraciju
+collection-browser-errors =
+    .label = Dopusti da { -brand-short-name } šalje izvještaje Mozilli o greškama web browsera (uključujući i poruke o greškama)
+    .accesskey = b
+collection-browser-errors-link = Saznajte više
 collection-backlogged-crash-reports-link = Saznajte više
 
 ## Privacy Section - Security
