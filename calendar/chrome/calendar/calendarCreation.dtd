@@ -20,3 +20,32 @@
 
 <!ENTITY finishpage.shortdescription  "Календар створено" >
 <!ENTITY finishpage.longdescription   "Ваш календар було створено" >
+
+<!-- Below are new strings for the revised new calendar dialog. The above strings should be
+    removed/renamed later on -->
+
+<!ENTITY sourcetabs.other.label  "Інше">
+
+<!ENTITY buttons.create.label "Створити календар">
+<!ENTITY buttons.create.accesskey "С">
+
+<!ENTITY buttons.find.label "Знайти календарі">
+<!ENTITY buttons.find.accesskey "З">
+
+<!ENTITY buttons.back.label "Назад">
+<!ENTITY buttons.back.accesskey "Н">
+
+<!ENTITY buttons.subscribe.label "Підписатись">
+<!ENTITY buttons.subscribe.accesskey "П">
+
+<!ENTITY calendartype.label "Тип календаря:">
+<!ENTITY location.label "Розташування:">
+<!ENTITY location.placeholder "URL-адреса чи назва вузла сервера календаря">
+
+<!ENTITY network.nocredentials.label "Для цього розташування не потрібні облікові дані">
+<!ENTITY network.loading.description "Будь ласка, зачекайте доки обробляються ваші календарі.">
+<!ENTITY network.notfound.description "Не вдалося знайти календарі в цьому розташуванні. Будь ласка, перевірте свої налаштування.">
+<!ENTITY network.authfail.description "Введені вами облікові дані не було прийняти. Будь ласка, перевірте свої налаштування.">
+
+<!ENTITY network.subscribe.single.description "Оберіть календарі, на які б ви хотіли підписатися.">
+<!ENTITY network.subscribe.multiple.description "Для цього розташування доступні декілька типів календарів. Оберіть тип календаря, потім позначте календарі, на які ви хочете підписатися.">
