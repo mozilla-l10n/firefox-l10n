@@ -291,6 +291,7 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = براؤزر رازداری
 
 ## Privacy Section - Forms
 
@@ -329,7 +330,12 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-header = کوکیاں اور سائٹ کے کواِئف
 sitedata-learn-more = مزید سیکھیں
+sitedata-keep-until = رکھیں جب تک
+    .accesskey = u
+sitedata-accept-third-party-always-option =
+    .label = ہمیشہ
 sitedata-accept-third-party-visited-option =
     .label = ملاحظہ شدہ سے
 sitedata-accept-third-party-never-option =
@@ -340,6 +346,9 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-history-option =
+    .label = براؤزنگ سابقات
+    .accesskey = H
 addressbar-locbar-bookmarks-option =
     .label = نشانیاں
     .accesskey = ن
@@ -349,6 +358,7 @@ addressbar-locbar-openpage-option =
 
 ## Privacy Section - Tracking
 
+tracking-header = سراغ کاری حفاظت
 tracking-mode-always =
     .label = ہمیشہ
     .accesskey = ہ
@@ -364,16 +374,40 @@ tracking-exceptions =
 
 ## Privacy Section - Permissions
 
+permissions-header = اجازتیں
+permissions-location = محل وقوع
+permissions-location-settings =
+    .label = سیٹنگیں…
+    .accesskey = t
+permissions-camera = کیمرہ
+permissions-camera-settings =
+    .label = سیٹنگیں…
+    .accesskey = t
+permissions-microphone = مائیکروفون
+permissions-microphone-settings =
+    .label = سیٹنگیں…
+    .accesskey = t
+permissions-notification = اعلانات
+permissions-notification-settings =
+    .label = سیٹنگیں…
+    .accesskey = t
+permissions-notification-link = مزید سیکھیں
 permissions-block-popups =
     .label = پوپ اپ دریچے بلاک کیجیے
     .accesskey = ب
+permissions-block-popups-exceptions =
+    .label = استثنیات…
+    .accesskey = ا
 permissions-addon-exceptions =
     .label = استثنیات…
     .accesskey = ا
+permissions-a11y-privacy-link = مزید سیکھیں
 
 ## Privacy Section - Data Collection
 
+collection-privacy-notice = رازداری کا نوٹس
 collection-health-report-link = مزید سیکھیں
+collection-browser-errors-link = مزید سیکھیں
 collection-backlogged-crash-reports-link = مزید سیکھیں
 
 ## Privacy Section - Security
@@ -385,6 +419,7 @@ security-header = سلامتی
 security-enable-safe-browsing =
     .label = خطرناک اور دھوکہ دینے والے مواد کو بلاک کریں
     .accesskey = ب
+security-enable-safe-browsing-link = مزید سیکھیں
 security-block-downloads =
     .label = خطرناک ڈاؤن لوڈز کو بلاک کریں
     .accesskey = خ
