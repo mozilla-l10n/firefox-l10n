@@ -385,43 +385,136 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = Privacidade do navegador
 
 ## Privacy Section - Forms
 
+forms-header = Formulários e palavras-passe
+forms-remember-logins =
+    .label = Memorizar credenciais e palavras-passe para websites
+    .accesskey = r
+forms-exceptions =
+    .label = Exceções…
+    .accesskey = x
+forms-saved-logins =
+    .label = Credenciais guardadas…
+    .accesskey = g
+forms-master-pw-use =
+    .label = Utilizar uma palavra-passe mestra
+    .accesskey = U
+forms-master-pw-change =
+    .label = Alterar palavra-passe mestra…
+    .accesskey = m
 
 ## Privacy Section - History
 
 history-header = Histórico
+history-dontremember-description = O { -brand-short-name } irá utilizar as mesmas definições da navegação privada e não irá memorizar qualquer histórico enquanto navega na Web.
+history-private-browsing-permanent =
+    .label = Utilizar sempre o modo de navegação privada
+    .accesskey = p
+history-remember-search-option =
+    .label = Memorizar histórico de pesquisas e de formulários
+    .accesskey = f
+history-clear-on-close-option =
+    .label = Limpar o histórico quando o { -brand-short-name } for fechado
+    .accesskey = i
+history-clear-on-close-settings =
+    .label = Definições…
+    .accesskey = e
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = Saber mais
 sitedata-accept-third-party-always-option =
     .label = Sempre
+sitedata-accept-third-party-visited-option =
+    .label = Dos visitados
 sitedata-accept-third-party-never-option =
     .label = Nunca
+sitedata-cookies-exceptions =
+    .label = Exceções…
+    .accesskey = E
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Barra de endereço
+addressbar-suggest = Ao utilizar a barra de endereço, sugerir
+addressbar-locbar-history-option =
+    .label = Histórico de navegação
+    .accesskey = H
 addressbar-locbar-bookmarks-option =
     .label = Marcadores
     .accesskey = M
+addressbar-locbar-openpage-option =
+    .label = Separadores abertos
+    .accesskey = o
+addressbar-suggestions-settings = Alterar preferências para as sugestões dos motores de pesquisa
 
 ## Privacy Section - Tracking
 
+tracking-mode-always =
+    .label = Sempre
+    .accesskey = r
+tracking-mode-private =
+    .label = Apenas em janelas privadas
+    .accesskey = l
+tracking-mode-never =
+    .label = Nunca
+    .accesskey = N
+tracking-exceptions =
+    .label = Exceções…
+    .accesskey = x
+tracking-change-block-list =
+    .label = Alterar lista de bloqueio…
+    .accesskey = A
 
 ## Privacy Section - Permissions
 
+permissions-header = Permissões
+permissions-block-popups =
+    .label = Bloquear janelas pop-up
+    .accesskey = B
+permissions-addon-exceptions =
+    .label = Exceções…
+    .accesskey = E
 
 ## Privacy Section - Data Collection
 
+collection-header = Recolha de dados e utilização do { -brand-short-name }
+collection-privacy-notice = Aviso de privacidade
 collection-health-report-link = Saber mais
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Relato de dados está desativado para a configuração desta compilação
+collection-backlogged-crash-reports-link = Saber mais
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Segurança
+security-enable-safe-browsing =
+    .label = Bloquear conteúdo perigoso e decetivo
+    .accesskey = B
+security-block-uncommon-software =
+    .label = Avisar-lhe acerca de software não-solicitado e incomum
+    .accesskey = c
 
 ## Privacy Section - Certificates
 
 certs-header = Certificados
+certs-personal-label = Quando um servidor solicitar o seu certificado pessoal
+certs-select-auto-option =
+    .label = Selecionar um automaticamente
+    .accesskey = S
+certs-enable-ocsp =
+    .label = Consultar os servidores de resposta OCSP para confirmar a validade de certificados
+    .accesskey = O
+certs-view =
+    .label = Ver certificados…
+    .accesskey = c
+certs-devices =
+    .label = Dispositivos de segurança…
+    .accesskey = D
