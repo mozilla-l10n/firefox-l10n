@@ -380,10 +380,14 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = ব্রাউজার গোপনীয়তা
 
 ## Privacy Section - Forms
 
 forms-header = ফরম ও পাসওয়ার্ড
+forms-remember-logins =
+    .label = ওয়েবসাইটের লগইন ও পার্সওয়ার্ড মনে রাখবে
+    .accesskey = R
 forms-exceptions =
     .label = ব্যতিক্রম...
     .accesskey = x
@@ -400,6 +404,7 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = ইতিহাস
+history-remember-description = { -brand-short-name } আপনার ব্রাউজিং, ডাউনলোড, ফরম এবং অনুসন্ধান ইতিহাস মনে রাখবে।
 history-dontremember-description = { -brand-short-name } একান্ত ব্রাউজিং এর মতোই সেটিং ব্যবহার করবে, এবং আপনার ব্রাউজিং এর কোন তথ্য সংরক্ষণ করবে না।
 history-private-browsing-permanent =
     .label = সবসময় একান্ত ব্রাউজিং মোড ব্যবহার করুন p
@@ -432,6 +437,10 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-suggest = ঠিকানা বার ব্যবহার করার সময়, সুপারিশ করবে
+addressbar-locbar-history-option =
+    .label = ব্রাউজ ইতিহাস
+    .accesskey = H
 addressbar-locbar-bookmarks-option =
     .label = বুকমার্কসমূহ k
     .accesskey = k
@@ -443,12 +452,19 @@ addressbar-suggestions-settings = অনুসন্ধান ইঞ্জিন
 ## Privacy Section - Tracking
 
 tracking-header = ট্রাকিং সুরক্ষা
+tracking-mode-always =
+    .label = সর্বদা
+    .accesskey = y
 tracking-mode-private =
     .label = শুধুমাত্র ব্যক্তিগত ব্রাউজিং উইন্ডোতে
     .accesskey = l
 tracking-mode-never =
     .label = কখনো নয় N
     .accesskey = N
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = ব্যক্তিগত ব্রাউজিং এ জানা ট্র্যাকার ব্লক করতে ট্র্যাকিং সুরক্ষা ব্যবহার করুন
+    .accesskey = v
 tracking-exceptions =
     .label = ব্যতিক্রম… E
     .accesskey = E
@@ -456,16 +472,30 @@ tracking-exceptions =
 ## Privacy Section - Permissions
 
 permissions-header = অনুমতি
+permissions-notification = নোটিফিকেশন
+permissions-notification-pause =
+    .label = নোটিফিকেশন বন্ধ রাখো যতক্ষণ না { -brand-short-name } রিস্টার্ট হয়
+    .accesskey = n
 permissions-block-popups =
     .label = পপ-আপ উইন্ডো ব্লক করা হবে B
     .accesskey = B
+permissions-addon-install-warning =
+    .label = যখন ওয়েবসাইট কোন অ্যাড-অন ইন্সটল করার চেষ্টা করলে আপনাকে সর্তক করবে
+    .accesskey = W
 permissions-addon-exceptions =
     .label = ব্যতিক্রম...
     .accesskey = E
 
 ## Privacy Section - Data Collection
 
+collection-header = { -brand-short-name } ডাটা সংগ্রহ ও ব্যবহার
+collection-description = আমরা আপনার ইচ্ছাকে সম্মান করি, আমরা ততটুকু তথ্যই সংগ্রহ করি যা সকলের জন্য { -brand-short-name } এর মানোন্নয়নে প্রয়োজন। কারও ব্যক্তিগত তথ্য গ্রহনের সময় আমরা সর্বদা অনুমতি চাই।
+collection-privacy-notice = গোপনীয়তা নীতি
 collection-health-report-link = আরও জানুন
+collection-browser-errors =
+    .label = { -vendor-short-name } এর কাছে ব্রাউজার ত্রুটি রিপোর্ট (ত্রুটি বার্তাসহ) পাঠাতে { -brand-short-name } কে অনুমোদন দিন
+    .accesskey = b
+collection-browser-errors-link = আরও জানুন
 collection-backlogged-crash-reports-link = আরও জানুন
 
 ## Privacy Section - Security
@@ -474,6 +504,7 @@ collection-backlogged-crash-reports-link = আরও জানুন
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = নিরাপত্তা
+security-browsing-protection = ক্ষতিকারক কন্টেন্ট ও বিপদজনক সফ্টওয়্যার সুরক্ষা
 security-enable-safe-browsing =
     .label = লুকানো এবং ক্ষতিকর কনটেন্ট ব্লক করো
     .accesskey = B
@@ -497,3 +528,9 @@ certs-select-ask-option =
 certs-enable-ocsp =
     .label = ইস্যুকারীর OCSP উত্তরের রিপোর্ট সার্টিফিকেটের যোগ্যতা বাতিল করা হয়েছে।
     .accesskey = Q
+certs-view =
+    .label = সার্টিফিকেট দেখুন…
+    .accesskey = C
+certs-devices =
+    .label = নিরাপত্তা ডিভাইস…
+    .accesskey = D
