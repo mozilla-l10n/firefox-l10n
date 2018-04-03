@@ -380,6 +380,16 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-dontremember-description = El { -brand-short-name } utilitzarà els mateixos paràmetres de la navegació privada, i no mantindrà cap historial mentre navegueu.
+history-remember-option =
+    .label = Recorda el meu historial de navegació i baixades
+    .accesskey = b
+history-clear-on-close-option =
+    .label = Neteja l'historial quan es tanqui el { -brand-short-name }
+    .accesskey = q
+history-clear-on-close-settings =
+    .label = Paràmetres…
+    .accesskey = t
 
 ## Privacy Section - Site Data
 
