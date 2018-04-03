@@ -396,6 +396,9 @@ sitedata-accept-third-party-never-option =
 addressbar-locbar-bookmarks-option =
     .label = စာမှတ်များ
     .accesskey = k
+addressbar-locbar-openpage-option =
+    .label = ဖွင့်ထားသည့် စာမျက်နှာများ
+    .accesskey = O
 
 ## Privacy Section - Tracking
 
