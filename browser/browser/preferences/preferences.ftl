@@ -294,9 +294,11 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = Privacidá del restolador
 
 ## Privacy Section - Forms
 
+forms-header = Formularios y contraseñes
 forms-exceptions =
     .label = Esceiciones…
     .accesskey = s
@@ -319,33 +321,92 @@ history-clear-on-close-option =
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = Deprendi más
 sitedata-cookies-exceptions =
     .label = Esceiciones…
     .accesskey = E
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Barra de direiciones
+addressbar-suggest = Al usar la barra de direiciones, suxerir:
+addressbar-suggestions-settings = Camudar preferencies pa les suxerencies de los motores de gueta
 
 ## Privacy Section - Tracking
 
+tracking-header = Proteición de rastrexu
+tracking-mode-always =
+    .label = Siempres
+    .accesskey = i
+tracking-mode-private =
+    .label = Namái en ventanes privaes
+    .accesskey = m
+tracking-mode-never =
+    .label = Enxamás
+    .accesskey = x
+tracking-exceptions =
+    .label = Esceiciones…
+    .accesskey = s
 
 ## Privacy Section - Permissions
 
+permissions-header = Permisos
+permissions-location = Allugamientu
+permissions-location-settings =
+    .label = Axustes…
+    .accesskey = t
+permissions-camera = Cámara
+permissions-camera-settings =
+    .label = Axustes…
+    .accesskey = t
+permissions-microphone = Micrófonu
+permissions-microphone-settings =
+    .label = Axustes…
+    .accesskey = t
+permissions-notification = Avisos
+permissions-notification-settings =
+    .label = Axustes…
+    .accesskey = t
+permissions-notification-link = Deprendi más
 permissions-block-popups =
     .label = Bloquiar ventanes emerxentes
     .accesskey = B
+permissions-block-popups-exceptions =
+    .label = Esceiciones…
+    .accesskey = E
+permissions-addon-install-warning =
+    .label = Avisar cuando los sitios web intenten instalar add-ons
+    .accesskey = A
 permissions-addon-exceptions =
     .label = Esceiciones…
     .accesskey = E
+permissions-a11y-privacy-link = Deprendi más
 
 ## Privacy Section - Data Collection
 
+collection-privacy-notice = Avisu de privacidá
+collection-backlogged-crash-reports-link = Deprender más
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Seguranza
+security-enable-safe-browsing-link = Deprendi más
 
 ## Privacy Section - Certificates
 
+certs-personal-label = Cuando un sirvidor solicite'l to certificáu personal:
+certs-select-auto-option =
+    .label = Seleicionar ún automáticamente
+    .accesskey = S
+certs-select-ask-option =
+    .label = Entrugame cada vegada
+    .accesskey = A
+certs-view =
+    .label = Ver certificaos…
+    .accesskey = C
+certs-devices =
+    .label = Preseos de seguridá…
+    .accesskey = D
