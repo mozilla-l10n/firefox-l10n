@@ -404,6 +404,9 @@ forms-master-pw-change =
 
 history-header = Geçmiş
 history-remember-description = { -brand-short-name } gezinti, indirme, form ve arama geçmişlerinizi hatırlayacak.
+history-remember-option =
+    .label = Gezinti ve indirme geçmişimi hatırla
+    .accesskey = h
 history-remember-search-option =
     .label = Arama ve form geçmişini hatırla
     .accesskey = f
