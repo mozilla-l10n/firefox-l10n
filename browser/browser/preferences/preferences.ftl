@@ -351,9 +351,14 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = Duyệt web riêng tư
 
 ## Privacy Section - Forms
 
+forms-header = Biểu mẫu & Mật khẩu
+forms-remember-logins =
+    .label = Lưu lại thông tin đăng nhập và mật khẩu cho trang web
+    .accesskey = R
 forms-exceptions =
     .label = Ngoại trừ…
     .accesskey = r
@@ -390,6 +395,8 @@ history-clear-on-close-settings =
 ## Privacy Section - Site Data
 
 sitedata-learn-more = Tìm hiểu thêm
+sitedata-keep-until = Giữ cho đến khi
+    .accesskey = u
 sitedata-accept-third-party-always-option =
     .label = Luôn luôn
 sitedata-accept-third-party-visited-option =
@@ -402,6 +409,8 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Thanh địa chỉ
+addressbar-suggest = Khi dùng thanh địa chỉ, gợi ý
 addressbar-locbar-history-option =
     .label = Lịch sử duyệt web
     .accesskey = H
@@ -427,6 +436,10 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Không bao giờ
     .accesskey = K
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Sử dụng trình chống theo dõi ở chế độ duyệt web riêng tư để chặn các trình theo dõi đã được nhận biết
+    .accesskey = v
 tracking-exceptions =
     .label = Ngoại lệ…
     .accesskey = g
@@ -436,6 +449,7 @@ tracking-change-block-list =
 
 ## Privacy Section - Permissions
 
+permissions-header = Quyền hạn
 permissions-location = Vị trí
 permissions-location-settings =
     .label = Thiết lập…
@@ -453,15 +467,24 @@ permissions-notification-settings =
     .label = Thiết lập…
     .accesskey = t
 permissions-notification-link = Tìm hiểu thêm
+permissions-notification-pause =
+    .label = Tạm dừng thông báo cho đến khi { -brand-short-name } khởi động lại
+    .accesskey = n
 permissions-block-popups =
     .label = Chặn các cửa sổ pop-up
     .accesskey = C
 permissions-block-popups-exceptions =
     .label = Ngoại lệ…
     .accesskey = N
+permissions-addon-install-warning =
+    .label = Cảnh báo khi trang web cố gắng cài đặt tiện ích
+    .accesskey = W
 permissions-addon-exceptions =
     .label = Ngoại trừ…
     .accesskey = N
+permissions-a11y-privacy-checkbox =
+    .label = Ngăn chặn khả năng tiếp cận dịch vụ truy cập vào trình duyệt của bạn
+    .accesskey = a
 permissions-a11y-privacy-link = Tìm hiểu thêm
 
 ## Privacy Section - Data Collection
@@ -486,6 +509,8 @@ collection-backlogged-crash-reports-link = Tìm hiểu thêm
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Bảo mật
+security-browsing-protection = Chống nội dung lừa đảo và phần mềm nguy hiểm
 security-enable-safe-browsing =
     .label = Chặn nội dung lừa đảo và không an toàn
     .accesskey = C
@@ -493,6 +518,9 @@ security-enable-safe-browsing-link = Tìm hiểu thêm
 security-block-downloads =
     .label = Chặn tải xuống không an toàn
     .accesskey = k
+security-block-uncommon-software =
+    .label = Cảnh báo bạn về phần mềm không mong muốn và không phổ biến
+    .accesskey = C
 
 ## Privacy Section - Certificates
 
