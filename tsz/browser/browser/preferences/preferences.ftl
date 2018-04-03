@@ -23,28 +23,14 @@ close-button =
 ## Browser Restart Dialog
 
 
+## Preferences UI Search Results
+
+
 ## General Section
 
 startup-header = Uénakua
 startup-blank-page =
     .label = Xarhanharhita jimpanhi eranharhitakuani
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Úra Eranharhitakuani enka xaranharhikuarhini jaka
-           *[other] Úra eranharhitakuechani enka xaranharhi kuarhini jakaksï
-        }
-    .accesskey = k
-choose-bookmark =
-    .label = Kuirunharhikata Úrani…
-    .accesskey = K
-restore-default =
-    .label = Péntani eska na jápka eranharhikua
-    .accesskey = P
 tabs-group-header = Arhukutarakua
 
 ## General Section - Language & Appearance
@@ -86,6 +72,29 @@ browsing-use-cursor-navigation =
 ## General Section - Proxy
 
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Úra Eranharhitakuani enka xaranharhikuarhini jaka
+           *[other] Úra eranharhitakuechani enka xaranharhi kuarhini jakaksï
+        }
+    .accesskey = k
+choose-bookmark =
+    .label = Kuirunharhikata Úrani…
+    .accesskey = K
+restore-default =
+    .label = Péntani eska na jápka eranharhikua
+    .accesskey = P
+
 ## Search Section
 
 search-choose-keyword-column =
@@ -93,3 +102,68 @@ search-choose-keyword-column =
 search-remove-engine =
     .label = Kéntitani
     .accesskey = K
+
+## Containers Section
+
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+
+## Privacy Section - History
+
+history-dontremember-description = { -brand-short-name } ánchitarakuantku marhuataati, ka no patsapaati enkari xáni erhanharhitaka.
+history-private-browsing-permanent =
+    .label = Juchiti ánchitarakuantku marhuata mentkisï
+    .accesskey = J
+history-remember-option =
+    .label = Miatantakarini ampesïni xáni exe
+    .accesskey = M
+history-remember-search-option =
+    .label = Miatantakarini nénasïni xéntapi
+    .accesskey = M
+history-clear-on-close-option =
+    .label = Ásï ampe ma patsa { -brand-short-name } míkani
+    .accesskey = Á
+history-clear-on-close-settings =
+    .label = Xerpetarakua…
+    .accesskey = X
+
+## Privacy Section - Site Data
+
+sitedata-accept-third-party-visited-option =
+    .label = P’urhengorheni uératini
+sitedata-accept-third-party-never-option =
+    .label = Nóteru uétarhiakia
+sitedata-cookies-exceptions =
+    .label = Ariichani nómpe…
+    .accesskey = A
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-block-popups =
+    .label = Eranharitarakuechani p´inkuni
+    .accesskey = E
+permissions-addon-exceptions =
+    .label = Licha no ampe…
+    .accesskey = L
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
