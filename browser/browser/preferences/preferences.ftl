@@ -283,3 +283,53 @@ containers-preferences-button =
     .label = ចំណូលចិត្ត
 containers-remove-button =
     .label = លុប​ចេញ
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+
+## Privacy Section - History
+
+history-dontremember-description = { -brand-short-name } នឹង​ប្រើ​ការ​កំណត់​ដូច​គ្នា​ជា​ការ​​រក​មើល​ឯកជន ហើយ​នឹង​មិន​ចងចាំ​ប្រវត្តិ​ណាមួយ ពេល​ដែល​អ្នក​រក​មើល​តំបន់​បណ្ដាញ​នោះ​ទេ ។
+history-private-browsing-permanent =
+    .label = ប្រើ​របៀប​រកមើល​ឯកជន​ជានិច្ច
+    .accesskey = ប
+history-remember-option =
+    .label = ចងចាំ​ប្រវត្តិ​ទាញយក និង​ការ​រុករក​របស់​ខ្ញុំ
+    .accesskey = ច
+history-remember-search-option =
+    .label = ចងចាំ​ប្រវត្តិ​ស្វែងរក និង​សំណុំ​បែបបទ
+    .accesskey = ទ
+history-clear-on-close-settings =
+    .label = កំពុង​កំណត់…
+    .accesskey = ង
+
+## Privacy Section - Site Data
+
+sitedata-cookies-exceptions =
+    .label = ករណី​លើកលែង…
+    .accesskey = រ
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
+certs-personal-label = នៅ​ពេល​ម៉ាស៊ីន​មេ​ស្នើ​សុំ​វិញ្ញាបនបត្រ​ផ្ទាល់ខ្លួន​របស់​អ្នក
