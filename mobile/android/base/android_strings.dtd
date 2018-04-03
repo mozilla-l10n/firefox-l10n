@@ -589,7 +589,7 @@
 <!ENTITY home_clear_history_button "Slett nettlesarhistorikk">
 <!ENTITY home_clear_history_confirm "Er du viss på at du vil sletta historikken?">
 <!ENTITY home_bookmarks_empty "Bokmerka dine vert viste her.">
-<!ENTITY home_closed_tabs_title2 "Nyleg attletne">
+<!ENTITY home_closed_tabs_title2 "Nyleg attlatne">
 <!ENTITY home_last_tabs_empty "Nyleg brukte faner vert viste her.">
 <!ENTITY home_restore_all "Gjenopprett alle">
 <!ENTITY home_closed_tabs_number "&formatD; faner">
