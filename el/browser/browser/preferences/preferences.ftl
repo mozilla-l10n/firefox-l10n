@@ -437,6 +437,9 @@ sitedata-cookies-exceptions =
 
 addressbar-header = Γραμμή διευθύνσεων
 addressbar-suggest = Κατά τη χρήση της γραμμής διευθύνσεων, να γίνεται πρόταση
+addressbar-locbar-history-option =
+    .label = Ιστορικό περιήγησης
+    .accesskey = Ι
 addressbar-locbar-bookmarks-option =
     .label = Σελιδοδεικτών
     .accesskey = δ
@@ -470,6 +473,7 @@ tracking-change-block-list =
 
 ## Privacy Section - Permissions
 
+permissions-header = Δικαιώματα
 permissions-location = Τοποθεσία
 permissions-location-settings =
     .label = Ρυθμίσεις…
