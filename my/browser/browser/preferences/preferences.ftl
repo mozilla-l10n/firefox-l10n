@@ -383,6 +383,7 @@ containers-remove-button =
 
 ## Privacy Section - History
 
+history-header = မှတ်တမ်း
 history-dontremember-description = { -brand-short-name } က တူညီတဲ့ အပြင်အဆင်များကို သီးသန့် လှော်လှန်မှုအဖြစ် သုံးစွဲမှာ ဖြစ်ပြီး၊ ကွန်ရက်ကို သင်လှော်လှန်နေစဉ် ဘယ် မှတ်တမ်းကိုမှ မှတ်သားထားမှာ မဟုတ်ဘူး။
 
 ## Privacy Section - Site Data
@@ -392,6 +393,9 @@ sitedata-accept-third-party-never-option =
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-bookmarks-option =
+    .label = စာမှတ်များ
+    .accesskey = k
 
 ## Privacy Section - Tracking
 
@@ -407,7 +411,16 @@ sitedata-accept-third-party-never-option =
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-enable-safe-browsing =
+    .label = အန္တရာယ်ရှိသည့် အကြောင်းအရာတုများကို တားဆီးပါ
+    .accesskey = B
+security-block-downloads =
+    .label = အန္တရာယ်ရှိသည့် ဆွဲယူထားသည့်ဖိုင်များကို တားဆီးပါ
+    .accesskey = d
 
 ## Privacy Section - Certificates
 
 certs-header = အသိအမှတ်ပြုလက်မှတ်များ
+certs-enable-ocsp =
+    .label = လက်ရှိအထောက်အထားများ၏ ခိုင်လုံမှုကို အတည်ပြုရန် OSCP responder servers များကို ဆွဲထုတ်ပါ Q
+    .accesskey = Q
