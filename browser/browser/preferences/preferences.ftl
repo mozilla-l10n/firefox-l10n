@@ -386,6 +386,10 @@ containers-remove-button =
 
 ## Privacy Section - Forms
 
+forms-header = Форме и лозинке
+forms-remember-logins =
+    .label = Запамти пријаве и лозинке за веб сајтове
+    .accesskey = З
 forms-exceptions =
     .label = Изузеци
     .accesskey = е
@@ -402,6 +406,7 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Историјат
+history-remember-description = { -brand-short-name } ће запамтити историјат прегледања, преузимања, формулара и претраге.
 history-dontremember-description = { -brand-short-name } ће користити иста подешавања као за приватно прегледања, и неће памтити историјат прегледања веб страница.
 history-private-browsing-permanent =
     .label = Увек користи режим приватног прегледања
@@ -418,16 +423,33 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Поставке…
     .accesskey = П
+history-clear-button =
+    .label = Обриши историјат…
+    .accesskey = с
 
 ## Privacy Section - Site Data
 
+sitedata-header = Колачићи и подаци сајта
 sitedata-learn-more = Сазнајте више
+sitedata-accept-cookies-option =
+    .label = Прихватај колачиће и податке сајта (препоручено)
+    .accesskey = П
+sitedata-block-cookies-option =
+    .label = Блокирај колачиће и податке сајта (може срушити веб сајт)
+    .accesskey = Б
+sitedata-keep-until = Чувај док
+    .accesskey = д
+sitedata-accept-third-party-desc = Прихватај колачиће и податке од трећих лица
+    .accesskey = е
 sitedata-accept-third-party-always-option =
     .label = Увек
 sitedata-accept-third-party-visited-option =
     .label = Од посећених
 sitedata-accept-third-party-never-option =
     .label = Никад
+sitedata-clear =
+    .label = Обриши податке…
+    .accesskey = б
 sitedata-cookies-exceptions =
     .label = Изузеци
     .accesskey = И
@@ -437,9 +459,16 @@ sitedata-cookies-exceptions =
 addressbar-locbar-bookmarks-option =
     .label = Забелешке
     .accesskey = З
+addressbar-locbar-openpage-option =
+    .label = Отворене језичке
+    .accesskey = ј
+addressbar-suggestions-settings = Измени поставке предлога претраживања
 
 ## Privacy Section - Tracking
 
+tracking-header = Заштита од праћења
+tracking-description = Заштита од праћења блокира интернет пратиоце који прикупљају ваше податке путем разноразних веб сајтова. <a>Сазнајте више о заштити од праћења и вашој приватности</a>
+tracking-mode-label = Користите заштиту од праћења да блокирате познате трагаче
 tracking-mode-always =
     .label = Увек
     .accesskey = У
@@ -449,28 +478,58 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Никада
     .accesskey = Н
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Користите заштиту од праћења у приватном режиму да блокирате познате трагаче
+    .accesskey = в
 tracking-exceptions =
     .label = Изузеци…
     .accesskey = И
 
 ## Privacy Section - Permissions
 
+permissions-header = Дозволе
+permissions-location = Локација
+permissions-camera = Камера
+permissions-microphone = Микрофон
+permissions-notification-link = Сазнајте више
+permissions-notification-pause =
+    .label = Паузирај обавештења док се { -brand-short-name } не рестартује
+    .accesskey = о
 permissions-block-popups =
     .label = Блокирај искачуће прозоре
     .accesskey = ч
+permissions-block-popups-exceptions =
+    .label = Изузеци
+    .accesskey = И
+permissions-addon-install-warning =
+    .label = Упозори ме ако сајтови пробају да инсталирају додатке
+    .accesskey = У
 permissions-addon-exceptions =
     .label = Изузеци
     .accesskey = И
+permissions-a11y-privacy-link = Сазнајте више
 
 ## Privacy Section - Data Collection
 
+collection-health-report =
+    .label = Дозволи { -brand-short-name }-у да шаље техничке и интерактивне податке { -vendor-short-name }-и
+    .accesskey = р
 collection-health-report-link = Сазнајте више
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Слање података је онемогућено за ову конфигурацију за изградњу
+collection-backlogged-crash-reports =
+    .label = Дозволи { -brand-short-name }-у да шаље извештаје о рушењу у ваше име
+    .accesskey = и
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Безбедност
+security-browsing-protection = Заштита од обманљивог садржаја и опасног софтвера
 security-enable-safe-browsing =
     .label = Блокирај опасан и обманљив садржај
     .accesskey = с
@@ -484,6 +543,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Сертификати
+certs-personal-label = Када сервер затражи ваш лични сертификат
 certs-select-auto-option =
     .label = Изабери један аутоматски
     .accesskey = ј
