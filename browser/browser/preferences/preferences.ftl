@@ -393,6 +393,9 @@ containers-remove-button =
 forms-exceptions =
     .label = Výnimky…
     .accesskey = m
+forms-saved-logins =
+    .label = Uložené prihlasovacie údaje…
+    .accesskey = s
 forms-master-pw-use =
     .label = Používať hlavné heslo
     .accesskey = e
@@ -431,9 +434,27 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-bookmarks-option =
+    .label = záložky
+    .accesskey = z
+addressbar-locbar-openpage-option =
+    .label = otvorené karty
+    .accesskey = e
 
 ## Privacy Section - Tracking
 
+tracking-mode-always =
+    .label = Vždy
+    .accesskey = V
+tracking-mode-private =
+    .label = Len v súkromných oknách
+    .accesskey = L
+tracking-mode-never =
+    .label = Nikdy
+    .accesskey = N
+tracking-exceptions =
+    .label = Výnimky…
+    .accesskey = m
 
 ## Privacy Section - Permissions
 
@@ -453,6 +474,12 @@ collection-health-report-link = Ďalšie informácie
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-enable-safe-browsing =
+    .label = Blokovať nebezpečný a podvodný obsah
+    .accesskey = B
+security-block-downloads =
+    .label = Blokovať preberanie nebezpečných súborov
+    .accesskey = n
 
 ## Privacy Section - Certificates
 
