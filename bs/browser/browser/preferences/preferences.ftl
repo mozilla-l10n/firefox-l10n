@@ -435,6 +435,8 @@ addressbar-suggestions-settings = Promijenite postavke prijedloga pretraživača
 ## Privacy Section - Tracking
 
 tracking-header = Zaštita od praćenja
+tracking-description = Zaštita od praćenja blokira online tragače koji prikupljaju vaše podatke pretraživanja putem više web stranica. <a>Saznajte više o Zaštiti od praćenja i vašoj privatnosti</a>
+tracking-mode-label = Koristi Zaštitu od praćenja radi blokiranja poznatih pratilaca
 tracking-mode-always =
     .label = Uvijek
     .accesskey = j
@@ -519,6 +521,7 @@ security-browsing-protection = Zaštita od obmanjujućeg sadržaja i opasnog sof
 security-enable-safe-browsing =
     .label = Blokiraj opasan i obmanjujući sadržaj
     .accesskey = B
+security-enable-safe-browsing-link = Saznajte više
 security-block-downloads =
     .label = Blokiraj opasna preuzimanja
     .accesskey = o
