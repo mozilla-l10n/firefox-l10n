@@ -388,9 +388,13 @@ containers-remove-button =
 
 ## Privacy Section - Forms
 
+forms-header = फ़ॉर्म व कूटशब्द
 forms-exceptions =
     .label = अपवाद…
     .accesskey = x
+forms-saved-logins =
+    .label = सहेजें गए लॉगइन देखें...
+    .accesskey = L
 forms-master-pw-use =
     .label = मुख्य कूटशब्द का प्रयोग करें
     .accesskey = U
@@ -400,37 +404,101 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-header = इतिहास
 history-dontremember-description = { -brand-short-name } बतौर निजी ब्राउज़िंग की तरह समान सेटिंग का उपयोग करेगा, और कोई इतिहास याद नहीं रखेगा जब आप वेब ब्राउज़ करते हैं.
 history-private-browsing-permanent =
     .label = हमेशा निजी ब्राउजिंग विधि का उपयोग करें
     .accesskey = p
+history-remember-option =
+    .label = मेरे ब्राउज़िंग और डाउनलोड इतिहास याद रखें
+    .accesskey = b
+history-remember-search-option =
+    .label = खोज और फ़ॉर्म इतिहास याद रखें
+    .accesskey = f
+history-clear-on-close-option =
+    .label = इतिहास साफ करें जब { -brand-short-name } बंद हो जाता है
+    .accesskey = r
+history-clear-on-close-settings =
+    .label = सेटिंग्स…
+    .accesskey = t
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = अधिक जानें
 sitedata-accept-third-party-visited-option =
     .label = भ्रमण किए हुए से
+sitedata-accept-third-party-never-option =
+    .label = कभी नहीं
 sitedata-cookies-exceptions =
     .label = अपवाद…
     .accesskey = E
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-bookmarks-option =
+    .label = पुस्तचिह्न
+    .accesskey = k
+addressbar-locbar-openpage-option =
+    .label = Open टैब
+    .accesskey = O
 
 ## Privacy Section - Tracking
 
+tracking-header = ट्रैकिंग सुरक्षा
+tracking-mode-always =
+    .label = हमेशा
+    .accesskey = y
+tracking-mode-private =
+    .label = नई निजी विंडो में खोलें
+    .accesskey = l
+tracking-mode-never =
+    .label = कभी नहीं
+    .accesskey = N
+tracking-exceptions =
+    .label = अपवाद…
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
+permissions-notification = अधिसूचना
+permissions-block-popups-exceptions =
+    .label = अपवाद...
+    .accesskey = E
+permissions-addon-exceptions =
+    .label = अपवाद…
+    .accesskey = E
 
 ## Privacy Section - Data Collection
 
+collection-health-report-link = अधिक जानें
+collection-backlogged-crash-reports-link = अधिक जानें
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = सुरक्षा
+security-enable-safe-browsing =
+    .label = ख़तरनाक और संदेहास्पद सामग्री रोकें
+    .accesskey = B
+security-block-downloads =
+    .label = खतरनाक डाउनलोड बाधित करें{ " " }
+    .accesskey = d
+security-block-uncommon-software =
+    .label = आपको अनचाहे एवं असामान्य सॉफ्टवेर के बारे में चेतावनी दें
+    .accesskey = c
 
 ## Privacy Section - Certificates
 
 certs-header = प्रमाणपत्र
+certs-personal-label = जब एक सर्वर आपके निजी प्रमाणपत्र का आग्रह करता है
+certs-select-auto-option =
+    .label = कोई एक स्वतः चुनें
+    .accesskey = S
+certs-select-ask-option =
+    .label = आपसे हमेशा पूछें
+    .accesskey = A
+certs-enable-ocsp =
+    .label = Query OCSP responder servers to confirm the current validity of certificates
+    .accesskey = Q
