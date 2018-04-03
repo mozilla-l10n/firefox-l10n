@@ -356,6 +356,9 @@ containers-remove-button =
 forms-exceptions =
     .label = Pengecualian…
     .accesskey = c
+forms-saved-logins =
+    .label = Info Masuk Tersimpan…
+    .accesskey = I
 forms-master-pw-use =
     .label = Gunakan sandi utama
     .accesskey = m
@@ -408,12 +411,27 @@ addressbar-suggestions-settings = Ubah preferensi untuk saran mesin pencari
 
 ## Privacy Section - Tracking
 
+tracking-mode-always =
+    .label = Selalu
+    .accesskey = S
+tracking-mode-private =
+    .label = Hanya di jendela pribadi
+    .accesskey = p
+tracking-mode-never =
+    .label = Tidak Pernah
+    .accesskey = P
+tracking-exceptions =
+    .label = Pengecualian…
+    .accesskey = e
 
 ## Privacy Section - Permissions
 
 permissions-notification-pause =
     .label = Jeda notifikasi hingga { -brand-short-name } dimulai ulang
     .accesskey = J
+permissions-block-popups =
+    .label = Blokir jendela pop-up
+    .accesskey = B
 permissions-addon-exceptions =
     .label = Pengecualian…
     .accesskey = P
@@ -421,13 +439,20 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-description = Kami berusaha memberi Anda pilihan dan mengumpulkan hanya apa yang kami butuhkan untuk menyediakan dan meningkatkan { -brand-short-name } bagi semua orang. Kami selalu meminta izin sebelum menerima informasi pribadi.
+collection-health-report-link = Pelajari Lebih Lanjut
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-enable-safe-browsing =
+    .label = Blokir konten berbahaya dan tidak dapat dipercaya
+    .accesskey = B
 security-enable-safe-browsing-link = Pelajari lebih lanjut
+security-block-downloads =
+    .label = Blokir unduhan berbahaya
+    .accesskey = u
 
 ## Privacy Section - Certificates
 
