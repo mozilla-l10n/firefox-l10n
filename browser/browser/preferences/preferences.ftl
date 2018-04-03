@@ -407,18 +407,30 @@ history-clear-on-close-option =
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = Даведацца больш
+sitedata-accept-third-party-always-option =
+    .label = заўсёды
+sitedata-accept-third-party-visited-option =
+    .label = з наведаных
+sitedata-accept-third-party-never-option =
+    .label = ніколі
 sitedata-cookies-exceptions =
     .label = Выключэнні…
     .accesskey = В
 
 ## Privacy Section - Address Bar
 
+addressbar-suggestions-settings = Змяніць налады для падказак пашукавіка
 
 ## Privacy Section - Tracking
 
+tracking-header = Ахова ад сачэння
 
 ## Privacy Section - Permissions
 
+permissions-block-popups =
+    .label = Блакаваць выплыўныя вокны
+    .accesskey = Б
 permissions-addon-exceptions =
     .label = Выключэнні…
     .accesskey = В
@@ -431,6 +443,16 @@ permissions-addon-exceptions =
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Бяспека
 
 ## Privacy Section - Certificates
 
+certs-select-auto-option =
+    .label = Выбіраць аўтаматычна
+    .accesskey = Ы
+certs-select-ask-option =
+    .label = Пытацца кожны раз
+    .accesskey = П
+certs-enable-ocsp =
+    .label = Звяртацца да сервера OCSP за пацверджаннем дзейснасці сертыфікатаў
+    .accesskey = З
