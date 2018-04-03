@@ -378,3 +378,51 @@ containers-preferences-button =
     .label = Innstillinger
 containers-remove-button =
     .label = Fjern
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = Unntak …
+    .accesskey = n
+forms-master-pw-change =
+    .label = Endre hovedpassord …
+    .accesskey = d
+
+## Privacy Section - History
+
+
+## Privacy Section - Site Data
+
+sitedata-cookies-exceptions =
+    .label = Unntak …
+    .accesskey = U
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-block-popups =
+    .label = Blokker sprettoppvinduer
+    .accesskey = B
+permissions-addon-exceptions =
+    .label = Unntak …
+    .accesskey = U
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
