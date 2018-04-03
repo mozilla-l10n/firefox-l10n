@@ -357,6 +357,12 @@ forms-exceptions =
 
 ## Privacy Section - History
 
+history-private-browsing-permanent =
+    .label = Uvijek koristi privatni način pretraživanja
+    .accesskey = v
+history-remember-option =
+    .label = Zapamti povijest pretraživanja i preuzimanja
+    .accesskey = r
 history-remember-search-option =
     .label = Zapamti povijest traženja i formi
     .accesskey = f
@@ -369,6 +375,9 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-cookies-exceptions =
+    .label = Iznimke...
+    .accesskey = m
 
 ## Privacy Section - Address Bar
 
@@ -378,6 +387,9 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Permissions
 
+permissions-block-popups =
+    .label = Blokiraj skočne prozore
+    .accesskey = s
 
 ## Privacy Section - Data Collection
 
