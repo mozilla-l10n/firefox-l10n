@@ -405,6 +405,9 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Paràmetres…
     .accesskey = t
+history-clear-button =
+    .label = Neteja l'historial…
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
