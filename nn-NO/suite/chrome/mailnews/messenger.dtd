@@ -48,8 +48,12 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
 <!ENTITY getNextNMsgCmd.label "Hent neste 500 meldingar i nyheitsgruppa">
 <!ENTITY getNextNMsgCmd.accesskey "N">
+<!ENTITY subscribeCmd.label "Abonner…">
+<!ENTITY subscribeCmd.accesskey "A">
 
 <!-- Edit Menu -->
+<!ENTITY unsubscribeNewsgroupCmd.label "Avslutt abonnementet">
+<!ENTITY unsubscribeNewsgroupCmd.accesskey "n">
 <!ENTITY undoDefaultCmd.label "Angre">
 <!ENTITY redoDefaultCmd.label "Gjer om">
 
@@ -154,8 +158,10 @@
 <!ENTITY folderContextEmptyJunk.accesskey "T">
 <!ENTITY folderContextSendUnsentMessages.label "Send usende meldingar">
 <!ENTITY folderContextSendUnsentMessages.accesskey "u">
-<!ENTITY folderContextUnsubscribe.label "Meld ut">
-<!ENTITY folderContextUnsubscribe.accesskey "u">
+<!ENTITY folderContextUnsubscribe.label "Avslutt abonnementet">
+<!ENTITY folderContextUnsubscribe.accesskey "a">
+<!ENTITY folderContextSubscribe.label "Abonner…">
+<!ENTITY folderContextSubscribe.accesskey "a">
 <!ENTITY folderContextProperties.label "Eigenskapar…">
 <!ENTITY folderContextProperties.accesskey "a">
 <!ENTITY folderContextSettings.label "Innstillingar…">
