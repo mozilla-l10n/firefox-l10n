@@ -425,6 +425,8 @@ history-clear-on-close-settings =
 ## Privacy Section - Site Data
 
 sitedata-learn-more = Tetamäx ch'aqa' chik
+sitedata-keep-until = Tik'oje' k'a
+    .accesskey = s
 sitedata-accept-third-party-always-option =
     .label = Junelïk
 sitedata-accept-third-party-visited-option =
@@ -476,9 +478,29 @@ tracking-change-block-list =
 ## Privacy Section - Permissions
 
 permissions-header = Taq ya'oj q'ij
+permissions-location = K'ojlib'äl
+permissions-location-settings =
+    .label = Taq nuk'ulem…
+    .accesskey = K
+permissions-camera = Elesäy wachib'äl
+permissions-camera-settings =
+    .label = Taq nuk'ulem…
+    .accesskey = w
+permissions-microphone = Q'asäy ch'ab'äl
+permissions-microphone-settings =
+    .label = Taq nuk'ulem…
+    .accesskey = c
+permissions-notification = Taq rutzijol
+permissions-notification-settings =
+    .label = Taq nuk'ulem…
+    .accesskey = r
+permissions-notification-link = Tetamäx ch'aqa' chik
 permissions-block-popups =
     .label = Keq'at elenel taq tzuwäch
     .accesskey = K
+permissions-block-popups-exceptions =
+    .label = Man relik ta…
+    .accesskey = r
 permissions-addon-install-warning =
     .label = Taya' rutzijol jampe' toq ri ruxaq ajk'amaya'l nrajo' yeruyäk taq tz'aqat
     .accesskey = T
