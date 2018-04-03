@@ -38,7 +38,9 @@
 
 <!ENTITY safeb.blocked.unwantedPage.errorDesc.override "<span id='unwanted_sitename'/> đã được <a id='error_desc_link'>báo cáo là có chứa phần mềm có hại</a>. Bạn có thể <a id='ignore_warning_link'>bỏ qua rủi ro</a> và truy cập trang web không an toàn này.">
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "<span id='unwanted_sitename'/> đã bị <a id='error_desc_link'>báo cáo có chứa phần mềm gây hại</a>.">
 
+<!ENTITY safeb.blocked.unwantedPage.learnMore "Tìm hiểu thêm về phần mềm độc hại và không mong muốn tại <a id='learn_more_link'>chính sách phần mềm không mong muốn</a>. Tìm hiểu thêm về bảo vệ lừa đảo và phần mềm độc hại của &brandShortName; tại <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 <!ENTITY safeb.blocked.phishingPage.title3 "Trang web lừa đảo">
