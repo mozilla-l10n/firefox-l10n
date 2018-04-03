@@ -420,6 +420,10 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-visited-option =
+    .label = O'r ymwelwyd
+sitedata-accept-third-party-never-option =
+    .label = Byth
 sitedata-cookies-exceptions =
     .label = Eithriadau…
     .accesskey = E
