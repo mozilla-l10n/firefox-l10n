@@ -290,10 +290,25 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Nýir gluggar og flipar
+home-new-windows-tabs-description = Veldu hvað þú vilt sjá þegar þú opnar heimasíðuna, nýjir glugga, og nýjir flipar
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Heimasíða og nýjir gluggar
 home-newtabs-mode-label = Nýir flipar
+home-restore-defaults =
+    .label = Endurheimta sjálfgildi
+    .accesskey = r
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Firefox Home (Sjálfgefið)
+home-mode-choice-custom =
+    .label = Sérsniðin URL…
+home-mode-choice-blank =
+    .label = Tóm síða
+home-homepage-custom-url =
+    .placeholder = Límdu URL…
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -394,6 +409,7 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Ferill
+history-remember-description = { -brand-short-name } mun muna feril, niðurhöl, form innslátt og leitarsögu.
 history-dontremember-description = { -brand-short-name } mun nota sömu stillingar og í huliðsstillingu, og geyma ekki vafraferil.
 history-private-browsing-permanent =
     .label = Nota alltaf einkavöfrun
@@ -418,8 +434,20 @@ history-clear-button =
 
 sitedata-header = Smákökur og gögn vefsvæðis
 sitedata-learn-more = Fræðast meira
+sitedata-accept-cookies-option =
+    .label = Taka á móti smákökum og gögnum frá vefsvæðum (mælt með)
+    .accesskey = a
+sitedata-block-cookies-option =
+    .label = Loka á smákökur og gögn (gæti haft áhrif virkni á vefsvæða)
+    .accesskey = ö
 sitedata-keep-until = Eiga þangað til
     .accesskey = E
+sitedata-keep-until-expire =
+    .label = þær renna út
+sitedata-keep-until-closed =
+    .label = { -brand-short-name } er lokað
+sitedata-accept-third-party-desc = Taka á móti smákökum frá þriðja aðila og gögnum
+    .accesskey = ö
 sitedata-accept-third-party-always-option =
     .label = Alltaf
 sitedata-accept-third-party-visited-option =
