@@ -387,36 +387,194 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = Nastavení soukromí
 
 ## Privacy Section - Forms
 
+forms-header = Formuláře a hesla
+forms-remember-logins =
+    .label = Pamatovat si přihlašovací údaje
+    .accesskey = P
+forms-saved-logins =
+    .label = Uložené přihlašovací údaje…
+    .accesskey = l
 
 ## Privacy Section - History
 
+history-header = Historie
+history-remember-description = { -brand-short-name } si bude pamatovat historii vašeho prohlížení, stahování, formulářů a vyhledávání.
+history-dontremember-description = { -brand-short-name } použije stejné nastavení jako v režimu anonymního prohlížení a nebude si pamatovat žádnou historii prohlížení.
+history-private-browsing-permanent =
+    .label = Vždy použít režim anonymního prohlížení
+    .accesskey = p
+history-remember-option =
+    .label = Pamatovat si historii stránek a stahování
+    .accesskey = s
+history-remember-search-option =
+    .label = Pamatovat si historii hledání a formulářů
+    .accesskey = f
+history-clear-on-close-option =
+    .label = Vymazat historii při ukončení aplikace { -brand-short-name }
+    .accesskey = r
+history-clear-on-close-settings =
+    .label = Nastavení…
+    .accesskey = t
+history-clear-button =
+    .label = Vymazat historii…
+    .accesskey = V
 
 ## Privacy Section - Site Data
 
+sitedata-header = Cookies a data stránek
+sitedata-learn-more = Zjistit více
+sitedata-accept-cookies-option =
+    .label = Povolit serverům ukládat cookies a data stránek (doporučeno)
+    .accesskey = a
+sitedata-block-cookies-option =
+    .label = Blokovat ukládání cookies a dat (stránky nemusí fungovat správně)
+    .accesskey = B
+sitedata-keep-until = Cookies ponechat do
+    .accesskey = d
+sitedata-accept-third-party-desc = Cookies a data třetích stran
+    .accesskey = t
+sitedata-accept-third-party-always-option =
+    .label = povolit vždy
+sitedata-accept-third-party-visited-option =
+    .label = povolit pouze navštívené
+sitedata-accept-third-party-never-option =
+    .label = nikdy nepovolovat
+sitedata-clear =
+    .label = Vymazat data…
+    .accesskey = V
+sitedata-settings =
+    .label = Spravovat data…
+    .accesskey = S
+sitedata-cookies-exceptions =
+    .label = Výjimky…
+    .accesskey = k
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Adresní řádek
+addressbar-suggest = V adresním řádku našeptávat
+addressbar-locbar-history-option =
+    .label = Historii prohlížení
+    .accesskey = H
 addressbar-locbar-bookmarks-option =
     .label = Záložky
     .accesskey = Z
+addressbar-locbar-openpage-option =
+    .label = Otevřené panely
+    .accesskey = O
+addressbar-suggestions-settings = Změnit předvolby našeptávání vyhledávače
 
 ## Privacy Section - Tracking
 
+tracking-header = Ochrana proti sledování
+tracking-description = Ochrana proti sledování blokuje sledovací prvky, které o vás sbírají informace napříč webovými stránkami. <a>Zjistěte více o ochraně proti sledování a o vašem soukromí</a>
+tracking-mode-label = Používat ochranu proti sledování známými sledovacími prvky
+tracking-mode-always =
+    .label = Vždy
+    .accesskey = y
+tracking-mode-private =
+    .label = Pouze v anonymních oknech
+    .accesskey = o
+tracking-mode-never =
+    .label = Nikdy
+    .accesskey = n
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Používat ochranu proti sledování známými sledovacími prvky při anonymním prohlížení
+    .accesskey = v
+tracking-exceptions =
+    .label = Výjimky…
+    .accesskey = j
+tracking-change-block-list =
+    .label = Změnit seznam blokací…
+    .accesskey = c
 
 ## Privacy Section - Permissions
 
+permissions-location = Poloha
+permissions-location-settings =
+    .label = Nastavení…
+    .accesskey = a
+permissions-camera = Kamera
+permissions-camera-settings =
+    .label = Nastavení…
+    .accesskey = a
+permissions-microphone = Mikrofon
+permissions-microphone-settings =
+    .label = Nastavení…
+    .accesskey = n
+permissions-notification = Oznámení
+permissions-notification-settings =
+    .label = Nastavení…
+    .accesskey = n
+permissions-notification-link = Zjistit více
+permissions-notification-pause =
+    .label = Zakázat oznámení do restartu aplikace { -brand-short-name }
+    .accesskey = n
+permissions-block-popups =
+    .label = Blokovat vyskakovací okna
+    .accesskey = B
+permissions-block-popups-exceptions =
+    .label = Výjimky…
+    .accesskey = k
+permissions-addon-install-warning =
+    .label = Vždy upozornit při pokusu o instalaci doplňku
+    .accesskey = u
+permissions-a11y-privacy-checkbox =
+    .label = Zabránit službám pro přístupnost v přístupu k vašemu prohlížeči
+    .accesskey = a
+permissions-a11y-privacy-link = Zjistit více
 
 ## Privacy Section - Data Collection
 
+collection-header = Sběr a používání dat o aplikaci { -brand-short-name }
+collection-description = Co se týče dat, dáváme vám vždy na výběr. Také sbíráme jen ta data, která nám pomohou aplikaci { -brand-short-name } dále zlepšovat. Před odesíláním osobních dat vždy žádáme o váš souhlas.
+collection-privacy-notice = Zásady ochrany soukromí
+collection-health-report =
+    .label = Povolit aplikaci { -brand-short-name } odesílat Mozille technická data a data o interakcích
+    .accesskey = z
+collection-health-report-link = Zjistit více
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Odesílání dat je zakázáno konfigurací tohoto sestavení
+collection-browser-errors =
+    .label = Povolit aplikaci { -brand-short-name } odesílat Mozille hlášení o chybách a chybové zprávy.
+    .accesskey = b
+collection-browser-errors-link = Zjistit více
+collection-backlogged-crash-reports =
+    .label = Povolit aplikaci { -brand-short-name } odesílat nevyřízená hlášení o pádech za vás
+    .accesskey = c
+collection-backlogged-crash-reports-link = Zjistit více
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Zabezpečení
+security-browsing-protection = Ochrana před klamavým obsahem a nebezpečným softwarem
+security-enable-safe-browsing-link = Zjistit více
+security-block-uncommon-software =
+    .label = Upozorňovat na nežádoucí nebo neobvyklý software
+    .accesskey = w
 
 ## Privacy Section - Certificates
 
+certs-header = Certifikáty
+certs-personal-label = Pokud server vyžaduje váš osobní certifikát
+certs-select-auto-option =
+    .label = Vybrat jeden automaticky
+    .accesskey = j
+certs-select-ask-option =
+    .label = Vždy se zeptat
+    .accesskey = e
+certs-enable-ocsp =
+    .label = Aktuální platnost certifikátů ověřovat na serverech OCSP
+    .accesskey = o
+certs-devices =
+    .label = Bezpečnostní zařízení…
+    .accesskey = B
