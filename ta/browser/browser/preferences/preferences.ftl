@@ -412,3 +412,4 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Certificates
 
+certs-header = சான்றிதழ்கள்
