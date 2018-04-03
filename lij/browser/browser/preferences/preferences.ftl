@@ -391,9 +391,15 @@ containers-remove-button =
 forms-exceptions =
     .label = Eceçioin…
     .accesskey = ç
+forms-saved-logins =
+    .label = Acessi sarvæ…
+    .accesskey = s
 forms-master-pw-use =
     .label = Adeuvia 'na paròlla segreta prinçipâ
     .accesskey = p
+forms-master-pw-change =
+    .label = Cangia a paròlla segreta prinçipâ…
+    .accesskey = C
 
 ## Privacy Section - History
 
@@ -438,6 +444,7 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Data Collection
 
+collection-health-report-link = Atre informaçioin
 
 ## Privacy Section - Security
 ##
@@ -447,3 +454,7 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Certificates
 
+certs-header = Certificati
+certs-enable-ocsp =
+    .label = Domanda a-i risponditoî OCSP pe confermâ a validitæ di certificati oua
+    .accesskey = o
