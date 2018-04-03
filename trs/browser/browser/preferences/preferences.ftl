@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Nigànj chre
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Nagui’iaj
            *[other] Nagui’iaj
         }
@@ -49,6 +50,9 @@ should-restart-ok = Nayi'ì nakà { -brand-short-name } hìaj
 cancel-no-restart-button = Duyichin'
 restart-later = Nayi'i ñun' ne' rukú doj
 
+## Preferences UI Search Results
+
+
 ## General Section
 
 startup-header = Gayi'ì
@@ -78,22 +82,6 @@ startup-prev-session =
 disable-extension =
     .label = Duyichîn' extension
 home-page-header = Ñanj ayi'ì'
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label = { $tabCount ->
-            [one] garasun' pagina nakàa
-           *[other] garasun' pagina nakàa
-        }
-    .accesskey = C
-choose-bookmark =
-    .label = garasun' markadır...
-    .accesskey = B
-restore-default =
-    .label = Nagi'iaj nakà run' Hua nihian ma
-    .accesskey = R
 tabs-group-header = Rakïj ñaj
 
 ## General Section - Language & Appearance
@@ -110,4 +98,67 @@ download-header = Nadunínj
 
 
 ## General Section - Proxy
+
+
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [one] garasun' pagina nakàa
+           *[other] garasun' pagina nakàa
+        }
+    .accesskey = C
+choose-bookmark =
+    .label = garasun' markadır...
+    .accesskey = B
+restore-default =
+    .label = Nagi'iaj nakà run' Hua nihian ma
+    .accesskey = R
+
+## Search Section
+
+
+## Containers Section
+
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+
+## Privacy Section - History
+
+history-header = Daran sa gahuin
+
+## Privacy Section - Site Data
+
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
 
