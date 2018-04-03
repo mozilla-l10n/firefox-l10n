@@ -388,6 +388,9 @@ containers-remove-button =
 
 ## Privacy Section - Forms
 
+forms-saved-logins =
+    .label = Bewarre oanmeldingen…
+    .accesskey = m
 
 ## Privacy Section - History
 
@@ -426,6 +429,15 @@ addressbar-locbar-openpage-option =
 
 ## Privacy Section - Tracking
 
+tracking-mode-always =
+    .label = Altyd
+    .accesskey = A
+tracking-mode-private =
+    .label = Allinnich yn priveefinsters
+    .accesskey = r
+tracking-exceptions =
+    .label = Utsûnderingen…
+    .accesskey = i
 
 ## Privacy Section - Permissions
 
@@ -439,7 +451,16 @@ collection-health-report-link = Mear ynfo
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-enable-safe-browsing =
+    .label = Gefaarlike en misliedende ynhâld blokkearje
+    .accesskey = G
+security-block-downloads =
+    .label = Gefaarlijke downloads blokkearje
+    .accesskey = f
 
 ## Privacy Section - Certificates
 
 certs-header = Sertifikaten
+certs-enable-ocsp =
+    .label = Freegje OCSP-responderservers om de aktuele faliditeit fan sertifikaten te befêstigjen
+    .accesskey = F
