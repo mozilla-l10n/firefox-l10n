@@ -365,9 +365,14 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = Səyahər Məxfiliyi
 
 ## Privacy Section - Forms
 
+forms-header = Formlar və Parollar
+forms-remember-logins =
+    .label = Saytlar üçün daxil olmaları və parolları yadda saxla
+    .accesskey = R
 forms-exceptions =
     .label = İstisnalar…
     .accesskey = n
@@ -403,23 +408,45 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-header = Çərəzlər və Sayt Məlumatları
+sitedata-learn-more = Ətraflı öyrən
+sitedata-keep-until = Saxlama limiti
+    .accesskey = u
+sitedata-accept-third-party-always-option =
+    .label = Həmişə
 sitedata-accept-third-party-visited-option =
     .label = Baxılanlardan
+sitedata-accept-third-party-never-option =
+    .label = Heç vaxt
+sitedata-clear =
+    .label = Məlumatları təmizlə…
+    .accesskey = l
+sitedata-settings =
+    .label = Məlumatları idarə et…
+    .accesskey = M
 sitedata-cookies-exceptions =
     .label = İstisnalar…
     .accesskey = a
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Ünvan Sətri
+addressbar-suggest = Ünvan sətrindən istifadə edərkən bunları təklif et:
+addressbar-locbar-history-option =
+    .label = Səyahət tarixçəsi
+    .accesskey = H
 addressbar-locbar-bookmarks-option =
     .label = Əlfəcinlər
     .accesskey = l
 addressbar-locbar-openpage-option =
     .label = Açıq vərəqlər
     .accesskey = A
+addressbar-suggestions-settings = Axtarış mühərriyi təklifləri üçün nizamlamaları dəyiş
 
 ## Privacy Section - Tracking
 
+tracking-description = İzlənmə Qoruması saytlar arası səyahət məlumatlarınızı yığan onlayn izləyiciləri əngəlləyir. <a>İzlənmə Qoruması və məxfiliyiniz haqqında ətraflı öyrənin</a>
+tracking-mode-label = Bilinin izləyiciləri əngəlləmək üçün İzlənmə Qorumasını işlədin
 tracking-mode-always =
     .label = Həmişə
     .accesskey = H
@@ -429,31 +456,82 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Heç vaxt
     .accesskey = v
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Bilinən izləyiciləri bloklamaq üçün Məxfi Səyahətdə İzlənmə Qorumasını işlədin
+    .accesskey = v
 tracking-exceptions =
     .label = İstisnalar…
     .accesskey = a
+tracking-change-block-list =
+    .label = Qara Siyahını Dəyiş…
+    .accesskey = C
 
 ## Privacy Section - Permissions
 
+permissions-header = İcazələr
+permissions-location = Mövqe
+permissions-location-settings =
+    .label = Tənzimləmələr…
+    .accesskey = t
+permissions-camera = Kamera
+permissions-camera-settings =
+    .label = Tənzimləmələr…
+    .accesskey = t
+permissions-microphone = Mikrofon
+permissions-microphone-settings =
+    .label = Tənzimləmələr…
+    .accesskey = t
+permissions-notification = Bildirişlər
+permissions-notification-settings =
+    .label = Tənzimləmələr…
+    .accesskey = t
+permissions-notification-link = Ətraflı öyrən
+permissions-notification-pause =
+    .label = { -brand-short-name } yenidən başladılana qədər bildirişləri dayandır
+    .accesskey = n
 permissions-block-popups =
     .label = Peyda olan pəncərələri blokla
     .accesskey = b
+permissions-block-popups-exceptions =
+    .label = İstisnalar…
+    .accesskey = a
+permissions-addon-install-warning =
+    .label = Saytlar əlavə quraşdırmaq istədikdə xəbərdar olun
+    .accesskey = W
 permissions-addon-exceptions =
     .label = İstisnalar…
     .accesskey = s
+permissions-a11y-privacy-checkbox =
+    .label = Əlçatanlıq xidmətlərinin səyyahınıza girişə icazə verilməsinin qabağın al
+    .accesskey = a
+permissions-a11y-privacy-link = Ətraflı öyrən
 
 ## Privacy Section - Data Collection
 
+collection-header = { -brand-short-name } məlumat toplama və istifadəsi
+collection-description = { -brand-short-name } səyyahını hamı üçün yaxşılaşdırmağa lazım olacaq məlumatları yığıb sizi ən yaxşı seçimlərlə təmin etmək üçün işləyirik. Şəxsi məlumatları almazdan əvvəl hər dəfə sizdən icazə istəyirik.
+collection-privacy-notice = Məxfilik Bildirişi
+collection-health-report =
+    .label = { -brand-short-name } səyyahına { -vendor-short-name }ya texniki və qarşılıqlı əlaqə məlumatlarını göndərməyə icazə ver
+    .accesskey = r
 collection-health-report-link = Ətraflı
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Bu quraşdırmanın konfiqurasiyasında məlumat xəbərdarlığı söndürülüb
+collection-browser-errors-link = Ətraflı öyrən
+collection-backlogged-crash-reports-link = Daha Ətraflı
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-browsing-protection = Aldadıcı Məzmun və Təhlükəli Proqram Qoruması
 security-enable-safe-browsing =
     .label = Təhlükəli və aldadıcı məzmunu blokla
     .accesskey = b
+security-enable-safe-browsing-link = Ətraflı öyrən
 security-block-downloads =
     .label = Təhlükəli endirmələri blokla
     .accesskey = d
@@ -461,6 +539,19 @@ security-block-downloads =
 ## Privacy Section - Certificates
 
 certs-header = Sertifikatlar
+certs-personal-label = Hər hansı bir server şəxsi sertifikatınızı istədikdə
+certs-select-auto-option =
+    .label = Birini avtomatik seç
+    .accesskey = S
+certs-select-ask-option =
+    .label = Hər dəfə soruş
+    .accesskey = A
 certs-enable-ocsp =
     .label = Sertifikatların keçərliliyini təsdiqləmək üçün OCSP cavabdehlik serverlərinə Sorğu göndər
     .accesskey = S
+certs-view =
+    .label = Sertifikatları göstər…
+    .accesskey = C
+certs-devices =
+    .label = Təhlükəsizlik cihazları…
+    .accesskey = D
