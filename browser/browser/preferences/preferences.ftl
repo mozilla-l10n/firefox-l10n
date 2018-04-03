@@ -427,27 +427,60 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Nuostatos…
     .accesskey = u
+history-clear-button =
+    .label = Išvalyti žurnalą…
+    .accesskey = u
 
 ## Privacy Section - Site Data
 
+sitedata-header = Slapukai ir svetainių duomenys
 sitedata-learn-more = Sužinoti daugiau
+sitedata-accept-cookies-option =
+    .label = Leisti įrašyti slapukus ir svetainių duomenis (rekomenduojama)
+    .accesskey = L
+sitedata-block-cookies-option =
+    .label = Neleisti įrašyti slapukų ir svetainių duomenų (gali sutrikti svetainių veikimas)
+    .accesskey = N
+sitedata-keep-until = Laikyti iki
+    .accesskey = y
+sitedata-accept-third-party-desc = Leisti trečiųjų šalių slapukus ir svetainių duomenis
+    .accesskey = j
 sitedata-accept-third-party-always-option =
     .label = Visada
 sitedata-accept-third-party-visited-option =
     .label = tik lankytoms svetainėms
 sitedata-accept-third-party-never-option =
     .label = niekada
+sitedata-clear =
+    .label = Išvalyti duomenis…
+    .accesskey = v
+sitedata-settings =
+    .label = Tvarkyti duomenis…
+    .accesskey = T
 sitedata-cookies-exceptions =
     .label = Išimtys…
     .accesskey = I
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Adreso laukas
+addressbar-suggest = Rašant adreso lauke, rodyti pasiūlymus iš:
+addressbar-locbar-history-option =
+    .label = naršymo žurnalo
+    .accesskey = r
+addressbar-locbar-bookmarks-option =
+    .label = adresyno
+    .accesskey = y
+addressbar-locbar-openpage-option =
+    .label = atvertų kortelių
+    .accesskey = v
 addressbar-suggestions-settings = Keisti ieškyklių siūlymų nuostatas
 
 ## Privacy Section - Tracking
 
 tracking-header = Apsauga nuo stebėjimo
+tracking-description = Apsauga nuo stebėjimo blokuoja stebėjimo elementus, renkančius jūsų naršymo duomenis daugelyje svetainių. <a>Sužinokite daugiau apie apsaugą nuo stebėjimo ir savo privatumą</a>
+tracking-mode-label = Naudokite apsaugą nuo stebėjimo, norėdami užblokuoti žinomus stebėjimo elementus
 tracking-mode-always =
     .label = Visada
     .accesskey = V
@@ -471,7 +504,26 @@ tracking-change-block-list =
 ## Privacy Section - Permissions
 
 permissions-header = Leidimai
+permissions-location = Vieta
+permissions-location-settings =
+    .label = Nuostatos…
+    .accesskey = t
+permissions-camera = Kamera
+permissions-camera-settings =
+    .label = Nuostatos…
+    .accesskey = t
+permissions-microphone = Mikrofonas
+permissions-microphone-settings =
+    .label = Nuostatos…
+    .accesskey = t
 permissions-notification = Pranešimai
+permissions-notification-settings =
+    .label = Nuostatos…
+    .accesskey = t
+permissions-notification-link = Sužinoti daugiau
+permissions-notification-pause =
+    .label = Nerodyti pranešimų iki kito „{ -brand-short-name }“ paleidimo
+    .accesskey = p
 permissions-block-popups =
     .label = Neleisti iškylančiųjų langų
     .accesskey = N
@@ -484,16 +536,30 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Išimtys…
     .accesskey = I
+permissions-a11y-privacy-checkbox =
+    .label = Neleisti prieinamumo tarnyboms pasiekti jūsų naršyklės
+    .accesskey = p
+permissions-a11y-privacy-link = Sužinoti daugiau
 
 ## Privacy Section - Data Collection
 
 collection-header = „{ -brand-short-name }“ duomenų rinkimas ir naudojimas
 collection-description = Mes siekiame jums leisti rinktis ir rinkti tik tai, ko reikia teikti ir tobulinti „{ -brand-short-name }“ visiems. Mes visuomet paprašome leidimo prieš gaudami asmeninę informaciją.
 collection-privacy-notice = Privatumo nuostatai
+collection-health-report =
+    .label = Leisti „{ -brand-short-name }“ siųsti techninius ir naudojimosi duomenis „{ -vendor-short-name }i“
+    .accesskey = t
 collection-health-report-link = Sužinoti daugiau
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Duomenų siuntimas šiai darinio sąrankai yra išjungtas
+collection-browser-errors =
+    .label = Leisti „{ -brand-short-name }“ siųsti naršyklės klaidų pranešimus (kartu su klaidų tekstu) „{ -vendor-short-name }i“
+    .accesskey = n
+collection-browser-errors-link = Sužinoti daugiau
+collection-backlogged-crash-reports =
+    .label = Leisti „{ -brand-short-name }“ siųsti sukauptus strigčių pranešimus jūsų vardu
+    .accesskey = g
 collection-backlogged-crash-reports-link = Sužinoti daugiau
 
 ## Privacy Section - Security
@@ -502,9 +568,11 @@ collection-backlogged-crash-reports-link = Sužinoti daugiau
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Saugumas
+security-browsing-protection = Apsauga nuo apgaulingo turinio ir pavojingos programinės įrangos
 security-enable-safe-browsing =
     .label = Blokuoti pavojingą ir apgaulingą turinį
     .accesskey = B
+security-enable-safe-browsing-link = Sužinoti daugiau
 security-block-downloads =
     .label = Blokuoti pavojingus atsiuntimus
     .accesskey = p
@@ -515,6 +583,10 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Liudijimai
+certs-personal-label = Svetainei paprašius jūsų asmeninio liudijimo:
+certs-select-auto-option =
+    .label = parinkti jį automatiškai
+    .accesskey = r
 certs-select-ask-option =
     .label = visada klausti
     .accesskey = v
