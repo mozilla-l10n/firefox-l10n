@@ -402,6 +402,13 @@ forms-master-pw-change =
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-visited-option =
+    .label = tik lankytoms svetainėms
+sitedata-accept-third-party-never-option =
+    .label = niekada
+sitedata-cookies-exceptions =
+    .label = Išimtys…
+    .accesskey = I
 
 ## Privacy Section - Address Bar
 
@@ -426,3 +433,7 @@ permissions-block-popups =
 
 ## Privacy Section - Certificates
 
+certs-header = Liudijimai
+certs-enable-ocsp =
+    .label = Tikrinti liudijimų galiojimą, užklausiant OCSP atsakiklių
+    .accesskey = O
