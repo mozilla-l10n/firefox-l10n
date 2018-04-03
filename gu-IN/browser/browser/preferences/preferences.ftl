@@ -400,15 +400,31 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-dontremember-description = { -brand-short-name } ખાનગી બ્રાઉઝીંગની જેમ જ સેટીંગ વાપરશે, અને તમે જેમ વેબ બ્રાઉઝ કરો તેમ ઇતિહાસ યાદ રાખશે નહિં.
 history-private-browsing-permanent =
     .label = હંમેશા ખાનગી બ્રાઉઝીંગ સ્થિતિ વાપરો
     .accesskey = p
 history-remember-option =
     .label = મારુ બ્રાઉઝીંગ અને ડાઉનલોડ ઇતિહાસને યાદ રાખો
     .accesskey = b
+history-remember-search-option =
+    .label = શોધ અને ફોર્મ ઇતિહાસ યાદ રાખો
+    .accesskey = f
+history-clear-on-close-option =
+    .label = જ્યારે { -brand-short-name } બંધ થાય ત્યારે ઇતિહાસ સાફ કરો
+    .accesskey = r
+history-clear-on-close-settings =
+    .label = સેટીંગ…
+    .accesskey = t
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-always-option =
+    .label = હંમેશા
+sitedata-accept-third-party-visited-option =
+    .label = મુલાકાત લીધેલ
+sitedata-accept-third-party-never-option =
+    .label = ક્યારેય નહિં
 sitedata-cookies-exceptions =
     .label = અપવાદો...
     .accesskey = E
@@ -430,6 +446,7 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Data Collection
 
+collection-health-report-link = વધારે શીખો
 
 ## Privacy Section - Security
 ##
