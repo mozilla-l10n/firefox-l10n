@@ -63,3 +63,42 @@ search-bar-shown =
 ## Containers Section
 
 containers-back-link = « Torna nn'arredi
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+
+## Privacy Section - History
+
+
+## Privacy Section - Site Data
+
+sitedata-learn-more = Cchiú nfurmazzioni
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-notification-link = Cchiú nfurmazzioni
+permissions-a11y-privacy-link = Cchiú nfurmazzioni
+
+## Privacy Section - Data Collection
+
+collection-health-report-link = Cchiú nfurmazzioni
+collection-backlogged-crash-reports-link = Cchiú nfurmazzioni
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+security-enable-safe-browsing-link = Cchiú nfurmazzioni
+
+## Privacy Section - Certificates
+
