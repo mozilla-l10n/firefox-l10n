@@ -108,3 +108,13 @@
 <!ENTITY Other.accesskey                "M">
 
 
+<!ENTITY PhotoFile.label                "Tällä tietokoneella">
+<!ENTITY PhotoFile.accesskey            "T">
+<!ENTITY BrowsePhoto.label              "Selaa">
+<!ENTITY BrowsePhoto.accesskey          "S">
+<!ENTITY PhotoURL.label                 "Verkossa">
+<!ENTITY PhotoURL.accesskey             "V">
+<!ENTITY PhotoURL.placeholder           "Liitä tai kirjoita valokuvan osoite">
+<!ENTITY UpdatePhoto.label              "Päivitä">
+<!ENTITY UpdatePhoto.accesskey          "P">
+<!ENTITY PhotoDropTarget.label          "Vedä uusi valokuva tähän">
