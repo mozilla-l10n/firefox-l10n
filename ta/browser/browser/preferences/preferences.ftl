@@ -355,3 +355,46 @@ containers-preferences-button =
     .label = முன்னுரிமைகள்
 containers-remove-button =
     .label = நீக்கு
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = விதிவிலக்குகள்…
+    .accesskey = x
+
+## Privacy Section - History
+
+history-header = வரலாறு
+history-remember-search-option =
+    .label = தேடும் மற்றும் படிவ வரலாற்றை நினைவில் கொள்
+    .accesskey = f
+
+## Privacy Section - Site Data
+
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-addon-exceptions =
+    .label = விதிவிலக்குகள்…
+    .accesskey = E
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
