@@ -353,6 +353,9 @@ containers-remove-button =
 forms-exceptions =
     .label = ഒഴിവാക്കേണ്ടവ…
     .accesskey = x
+forms-saved-logins =
+    .label = ശേഖരിച്ചിട്ടുള്ള പ്രവേശനങ്ങള്‍…
+    .accesskey = L
 forms-master-pw-use =
     .label = ഒരു പ്രധാന പാസ്‌വേര്‍ഡ്  ഉപയോഗിക്കുക
     .accesskey = U
@@ -362,6 +365,7 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-header = നാള്‍വഴി
 history-dontremember-description = { -brand-short-name } സ്വകാര്യ തിരയലിന്റെ സജ്ജീകരണങ്ങള്‍ ഉപയോഗിക്കും, അതിനാല്‍ നിങ്ങള്‍ വെബ് തിരയുംബോള്‍ ഹിസ്റ്ററി ഓര്‍ക്കുകയില്ല.
 history-private-browsing-permanent =
     .label = എപ്പോഴും സ്വകാര്യ ബ്രൌസിങ് മോഡ് ഉപയോഗിയ്ക്കുക
@@ -391,15 +395,37 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-bookmarks-option =
+    .label = അടയാളക്കുറിപ്പുകള്‍
+    .accesskey = k
+addressbar-locbar-openpage-option =
+    .label = തുറന്ന ടാബുകള്‍
+    .accesskey = O
 
 ## Privacy Section - Tracking
 
+tracking-mode-always =
+    .label = എപ്പോഴും
+    .accesskey = ഴ
+tracking-mode-private =
+    .label = സ്വകാര്യ ജാലകങ്ങളില്‍ മാത്രം
+    .accesskey = ത
+tracking-mode-never =
+    .label = ഒരിക്കലുമില്ല
+    .accesskey = ഒ
+tracking-exceptions =
+    .label = വിട്ടുവീഴ്ചകള്‍…
+    .accesskey = ക
 
 ## Privacy Section - Permissions
 
+permissions-notification = അറിയിപ്പുകള്‍
 permissions-block-popups =
     .label = പോപ്പപ്‌ ജാലകങ്ങള്‍ തടയുക
     .accesskey = B
+permissions-block-popups-exceptions =
+    .label = വിട്ടുവീഴ്ചകള്‍...
+    .accesskey = ക
 permissions-addon-exceptions =
     .label = ഒഴിവാക്കേണ്ടവ…
     .accesskey = E
@@ -412,7 +438,13 @@ permissions-addon-exceptions =
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-block-downloads =
+    .label = അപകടകരമായ ഡൗണ്‍ലോഡുകള്‍ തടയുക
+    .accesskey = അ
 
 ## Privacy Section - Certificates
 
 certs-header = സര്‍ട്ടിഫിക്കറ്റുകള്‍
+certs-enable-ocsp =
+    .label = സമ്മതപത്രങ്ങളുടെ നിലവിലുള്ള സാധുത ഉറപ്പാക്കുന്നതിന് ഒസിഎസ്‌പി റസ്പോണ്ടര്‍ സര്‍വറുകള്‍ ചോദ്യം ചെയ്യുക
+    .accesskey = ക
