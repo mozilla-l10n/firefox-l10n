@@ -269,13 +269,31 @@ containers-remove-button =
 
 ## Privacy Section - Forms
 
+forms-exceptions =
+    .label = හැරදැමීම්...
+    .accesskey = x
+forms-master-pw-use =
+    .label = ප්‍රධාන රහස්පදය භාවිතා කරන්න
+    .accesskey = U
+forms-master-pw-change =
+    .label = ප්‍රධාන රහස්පදය වෙනස්කරන්න...
+    .accesskey = M
 
 ## Privacy Section - History
 
 history-dontremember-description = { -brand-short-name } එම සැකසුම්ම පුද්ගලික ගවේෂණය සඳහා යොදාගනු ඇති අතර ඔබ ගවේෂණය කරන අතරතුර කිසිදු ඉතිහාසයක් මතකයේ තබානොගනු ඇත.
+history-private-browsing-permanent =
+    .label = සෑම විටම පෞද්ගලික ගවේෂණය භාවිතා කරන්න
+    .accesskey = p
+history-remember-option =
+    .label = මගේ ගවේෂණ ඉතිහාසය සහ බාගැනීම් මතක තබාගන්න
+    .accesskey = b
 history-remember-search-option =
     .label = සෙවීම් සහ පෝරම අතීතයන් මතක තබාගන්න
     .accesskey = f
+history-clear-on-close-option =
+    .label = { -brand-short-name } වසන විට අතීතයන් හිස් කරන්න
+    .accesskey = r
 history-clear-on-close-settings =
     .label = සැකසුම්…
     .accesskey = t
@@ -296,6 +314,15 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Permissions
 
+permissions-block-popups =
+    .label = පොප්-අප් කවුළු වලකන්න
+    .accesskey = B
+permissions-block-popups-exceptions =
+    .label = හැරදැමීම්...
+    .accesskey = E
+permissions-addon-exceptions =
+    .label = හැරදැමීම්...
+    .accesskey = E
 
 ## Privacy Section - Data Collection
 
