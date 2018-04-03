@@ -375,3 +375,110 @@ containers-preferences-button =
     .label = प्राथमिकताहरू
 containers-remove-button =
     .label = हटाउनुहोस्
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = अपवादहरू...
+    .accesskey = x
+forms-saved-logins =
+    .label = सङ्ग्रह गरेको लग-इनहरू…
+    .accesskey = L
+forms-master-pw-use =
+    .label = मुल गोप्यशब्द प्रयोग गर्नुहोस्
+    .accesskey = U
+forms-master-pw-change =
+    .label = मुल गोप्यशब्द परिवर्तन गर्नुहोस्...
+    .accesskey = M
+
+## Privacy Section - History
+
+history-header = इतिहास
+history-dontremember-description = { -brand-short-name } ले तपाईँको निजी ब्राउजिङ्गको सेटिङ्हरू प्रयोग गर्छ र तपाईँ को कुनै पनि ब्राउजिङ्गको कुनै पनि इतिहास सुरक्षित गर्दैन
+history-private-browsing-permanent =
+    .label = सधैं निजी ब्राउजिङ्ग ढाँचा प्रयोग गर्नुहोस्
+    .accesskey = p
+history-remember-option =
+    .label = मेरो ब्राउजिङ्ग र डाउनलोड इतिहास सम्झनुहोस्
+    .accesskey = b
+history-remember-search-option =
+    .label = खोज र फारम इतिहास सम्झनुहोस्
+    .accesskey = f
+history-clear-on-close-option =
+    .label = { -brand-short-name } बन्द हुँदा इतिहास मेटाउनुहोस्
+    .accesskey = r
+history-clear-on-close-settings =
+    .label = ढाँचाहरू...
+    .accesskey = t
+
+## Privacy Section - Site Data
+
+sitedata-accept-third-party-visited-option =
+    .label = पहिले हेरिएकोबाट
+sitedata-accept-third-party-never-option =
+    .label = कहिले पनि होइन
+sitedata-cookies-exceptions =
+    .label = अपवादहरू...
+    .accesskey = E
+
+## Privacy Section - Address Bar
+
+addressbar-locbar-bookmarks-option =
+    .label = पुस्तकचिनोहरू
+    .accesskey = k
+addressbar-locbar-openpage-option =
+    .label = ट्याबहरू खोल्नुहोस्
+    .accesskey = O
+
+## Privacy Section - Tracking
+
+tracking-mode-always =
+    .label = सधैँ
+    .accesskey = y
+tracking-mode-private =
+    .label = निजी सञ्झ्यालमा मात्र खोल्नुहोस्
+    .accesskey = l
+tracking-mode-never =
+    .label = कहिले पनि होइन
+    .accesskey = N
+tracking-exceptions =
+    .label = अपवादहरू...
+    .accesskey = x
+
+## Privacy Section - Permissions
+
+permissions-notification = सूचनाहरू
+permissions-block-popups =
+    .label = पप-अप सञ्झ्यालहरूलाई अवरुद्द गर्नुहोस्
+    .accesskey = B
+permissions-block-popups-exceptions =
+    .label = अपवादहरू…
+    .accesskey = E
+permissions-addon-exceptions =
+    .label = अपवादहरू...
+    .accesskey = E
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+security-enable-safe-browsing =
+    .label = खतरनाक र भ्रामक सामग्री अबरुद्द गर्नुहोस
+    .accesskey = B
+security-block-downloads =
+    .label = खतरनाक डाउनलोडहरू अवरुद्ध गर्नुहोस्
+    .accesskey = d
+
+## Privacy Section - Certificates
+
+certs-header = प्रमाणपत्रहरू
+certs-enable-ocsp =
+    .label = प्रमाणपत्रको वर्तमान वैधानिकता बारे जान्न OSCP को प्रतिक्रिया दिने सर्भरहरूलाई सोध्नुहोस्
+    .accesskey = Q
