@@ -380,6 +380,7 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = Դիտարկիչի գաղտնիություն
 
 ## Privacy Section - Forms
 
@@ -390,6 +391,9 @@ forms-exceptions =
 forms-saved-logins =
     .label = Պահված մուտքանուններ...
     .accesskey = մ
+forms-master-pw-use =
+    .label = Օգտագործել Հիմնական գաղտնաբառ
+    .accesskey = Օ
 forms-master-pw-change =
     .label = Փոխել Հիմնական գաղտնաբառը…
     .accesskey = Հ
@@ -417,6 +421,10 @@ history-clear-on-close-settings =
 ## Privacy Section - Site Data
 
 sitedata-learn-more = Իմանալ ավելին
+sitedata-keep-until = Պահել մինչև՝
+    .accesskey = u
+sitedata-accept-third-party-always-option =
+    .label = Միշտ
 sitedata-accept-third-party-visited-option =
     .label = Այցելածներից
 sitedata-accept-third-party-never-option =
@@ -427,6 +435,11 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Հասցեագոտի
+addressbar-suggest = Հասցեագոտին օգտագործելիս առաջարկել
+addressbar-locbar-history-option =
+    .label = Դիտարկման պատմություն
+    .accesskey = H
 addressbar-locbar-bookmarks-option =
     .label = Էջանիշեր
     .accesskey = ի
@@ -447,25 +460,58 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Երբեք
     .accesskey = Ե
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Օգտագործել հետագծման պաշտպանությունը՝ հայտնի հետագծիչները արգելափակելու համար
+    .accesskey = v
 tracking-exceptions =
     .label = Բացառություններ…
     .accesskey = ա
+tracking-change-block-list =
+    .label = Փոխել Արգելացուցակը...
+    .accesskey = C
 
 ## Privacy Section - Permissions
 
+permissions-header = Թույլտվություններ
+permissions-location = Տեղադրություն
+permissions-location-settings =
+    .label = Կարգավորումներ...
+    .accesskey = t
+permissions-camera = Խցիկ
+permissions-camera-settings =
+    .label = Կարգավորումներ...
+    .accesskey = t
+permissions-microphone = Խոսափող
+permissions-microphone-settings =
+    .label = Կարգավորումներ...
+    .accesskey = t
 permissions-notification = Ծանուցումներ
+permissions-notification-settings =
+    .label = Կարգավորումներ...
+    .accesskey = t
+permissions-notification-link = Իմանալ ավելին
+permissions-notification-pause =
+    .label = Դադարեցնել ծանուցումները մինչև { -brand-short-name }-ը վերամեկնարկելը
+    .accesskey = n
 permissions-block-popups =
     .label = Կանխել Pop-up պատուհանները
     .accesskey = Կ
 permissions-block-popups-exceptions =
     .label = Բացառություններ…
     .accesskey = Բ
+permissions-addon-install-warning =
+    .label = Զգուշացնել, երբ կայքերը փորձում են տեղադրել հավելումներ
+    .accesskey = W
 permissions-addon-exceptions =
     .label = Բացառություններ…
     .accesskey = Բ
+permissions-a11y-privacy-link = Իմանալ ավելին
 
 ## Privacy Section - Data Collection
 
+collection-header = { -brand-short-name }-ի տվյալների հավաքում և օգտագործում
+collection-description = Մենք փորձում ենք տրամադրել ձեզ ընտրություն և հավաքել միայն այն ժամանակ, երբ մեզ պետք է տրամադրել և լավարկել { -brand-short-name }-ը բոլորի համար: ՄԵնք միշտ հարցնում ենք թույլտվությյուն՝ մինչև անձնական տեղեկություններ ստանալը:
 collection-health-report-link = Իմանալ ավելին
 collection-backlogged-crash-reports-link = Իմանալ ավելին
 
@@ -474,6 +520,7 @@ collection-backlogged-crash-reports-link = Իմանալ ավելին
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Անվտանգություն
 security-enable-safe-browsing =
     .label = Արգելափակել վտանգավոր և խաբուսիկ բովանդակությունը
     .accesskey = Ա
