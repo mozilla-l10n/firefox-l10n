@@ -421,6 +421,7 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = Сазнајте више
 sitedata-accept-third-party-always-option =
     .label = Увек
 sitedata-accept-third-party-visited-option =
@@ -476,10 +477,19 @@ security-enable-safe-browsing =
 security-block-downloads =
     .label = Блокирај опасна преузимања
     .accesskey = п
+security-block-uncommon-software =
+    .label = Упозори ме о нежељеном и ретко коришћеном софтверу
+    .accesskey = р
 
 ## Privacy Section - Certificates
 
 certs-header = Сертификати
+certs-select-auto-option =
+    .label = Изабери један аутоматски
+    .accesskey = ј
+certs-select-ask-option =
+    .label = Питај ме сваки пут
+    .accesskey = с
 certs-enable-ocsp =
     .label = Упит OCSP сервера да бисте проверили тренутну валидност сертификата
     .accesskey = л
