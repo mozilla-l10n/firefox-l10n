@@ -384,6 +384,9 @@ privacy-header = Tabaḍnit n iminig
 ## Privacy Section - Forms
 
 forms-header = Tiferka & akked awalen uffiren
+forms-remember-logins =
+    .label = Cfu ɣef unekcum neɣ awal uffir i yismal web
+    .accesskey = Z
 forms-exceptions =
     .label = Tisuraf…
     .accesskey = r
@@ -464,6 +467,7 @@ addressbar-suggestions-settings = Snifel ismenyifen i yisumar n umsedday n unadi
 
 ## Privacy Section - Tracking
 
+tracking-header = Ammesten mgal asfuɣel
 tracking-description = Amesten mgal aḍfaṛ ad isewḥel ineḍfaṛen iqnen iluqḍen isefka n iminig inek deg ismal web. <a>Issin ugar γef umesten mgal aḍfaṛ akked tasertit n tbaḍnit</a>
 tracking-mode-label = Seqdec amesten mgal asfuγel akken ad teswaḥleḍ imsfuγal irusinin
 tracking-mode-always =
@@ -475,6 +479,10 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Weṛǧin
     .accesskey = W
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Seqdec amesten deg iminig uslig akken ad teswaḥleḍ imsfuɣal irusinin
+    .accesskey = y
 tracking-exceptions =
     .label = Tisuraf…
     .accesskey = s
@@ -486,9 +494,21 @@ tracking-change-block-list =
 
 permissions-header = Tisirag
 permissions-location = Adig
+permissions-location-settings =
+    .label = Iɣewwaṛen…
+    .accesskey = z
 permissions-camera = Takamiṛat
+permissions-camera-settings =
+    .label = Iɣewwaṛen…
+    .accesskey = d
 permissions-microphone = Asawaḍ
+permissions-microphone-settings =
+    .label = Iɣewwaṛen…
+    .accesskey = x
 permissions-notification = Ilγa
+permissions-notification-settings =
+    .label = Iɣewwaṛen…
+    .accesskey = b
 permissions-notification-link = Issin ugar
 permissions-notification-pause =
     .label = Saḥbes ilγa arma yekker { -brand-short-name }
@@ -505,12 +525,19 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Tisuraf…
     .accesskey = s
+permissions-a11y-privacy-checkbox =
+    .label = Sewḥel imeẓla n unekcum ad kecmen γer iminig-inek
+    .accesskey = a
 permissions-a11y-privacy-link = Issin ugar
 
 ## Privacy Section - Data Collection
 
 collection-header = Alqqaḍ d useqdec n isefka { -brand-short-name }
+collection-description = Ad k-d-nefk afus akken ad tferneḍ aleqqwaḍ n wayen kan ilaqen i weqaεed n { -brand-short-name } i yal yiwen. Ad k-d-nsuter yal tikkelt tasiregt send ad nawi talɣut tudmawant.
 collection-privacy-notice = Tasertit n tbaḍnit
+collection-health-report =
+    .label = Sireg { -brand-short-name } ad yazen isefka itiknikanen ɣer { -vendor-short-name }
+    .accesskey = r
 collection-health-report-link = Lmed ugar
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
@@ -529,6 +556,8 @@ collection-backlogged-crash-reports-link = Issin ugar
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Taɣellist
+security-browsing-protection = Ammesten mgal agbur n ukellex u d aseɣẓan n ddir
 security-enable-safe-browsing =
     .label = Sewḥel yir agbur neɣ win iweɛṛen
     .accesskey = S
@@ -536,6 +565,9 @@ security-enable-safe-browsing-link = Issin ugar
 security-block-downloads =
     .label = Sewḥel yir asider
     .accesskey = d
+security-block-uncommon-software =
+    .label = Lɣu-yid ɣef iseɣẓanen ur nelhi ara akked wid ur bɣiɣ ara
+    .accesskey = ẓ
 
 ## Privacy Section - Certificates
 
