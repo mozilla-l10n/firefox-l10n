@@ -171,6 +171,12 @@ search-keyword-warning-bookmark = এটা পত্ৰচিহ্নৰ দ�
 
 ## Privacy Section - Forms
 
+forms-exceptions =
+    .label = ব্যতিক্ৰমসমূহ…
+    .accesskey = x
+forms-master-pw-change =
+    .label = প্ৰমুখ পাছৱাৰ্ড সলনি কৰক…
+    .accesskey = M
 
 ## Privacy Section - History
 
@@ -184,6 +190,9 @@ history-remember-option =
 history-remember-search-option =
     .label = সন্ধান আৰু বিন্যাস ইতিহাস মনত ৰাখিব
     .accesskey = f
+history-clear-on-close-option =
+    .label = যেতিয়া { -brand-short-name } বন্ধ হব শেহতীয়া ইতিহাস পৰিষ্কাৰ কৰিব
+    .accesskey = r
 history-clear-on-close-settings =
     .label = সংহতিসমূহ…
     .accesskey = t
@@ -202,6 +211,12 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Permissions
 
+permissions-block-popups =
+    .label = প'প-আপ উইন্ডোসমূহ প্ৰতিৰোধ কৰক
+    .accesskey = B
+permissions-addon-exceptions =
+    .label = ব্যতিক্ৰমসমূহ…
+    .accesskey = E
 
 ## Privacy Section - Data Collection
 
