@@ -362,3 +362,213 @@ containers-preferences-button =
     .label = Parapëlqime
 containers-remove-button =
     .label = Hiqe
+
+## Privacy Section
+
+privacy-header = Privatësi Shfletuesi
+
+## Privacy Section - Forms
+
+forms-header = Formularë & Fjalëkalime
+forms-remember-logins =
+    .label = Mba mend kredenciale hyrjesh dhe fjalëkalime për sajte
+    .accesskey = M
+forms-exceptions =
+    .label = Përjashtime…
+    .accesskey = a
+forms-saved-logins =
+    .label = Kredenciale të Ruajtura…
+    .accesskey = K
+forms-master-pw-use =
+    .label = Përdor fjalëkalim të përgjithshëm
+    .accesskey = P
+forms-master-pw-change =
+    .label = Ndryshoni Fjalëkalimin e Përgjithshëm…
+    .accesskey = F
+
+## Privacy Section - History
+
+history-header = Historik
+history-remember-description = { -brand-short-name }-i do të mbajë mend historikun tuaj të shfletimeve, shkarkimeve, formularëve dhe kërkimeve.
+history-dontremember-description = { -brand-short-name }-i do të përdorë të njëjtat rregullime si të shfletimit privat, dhe nuk do të mbajë mend ndonjë historik, teksa shfletoni në Web.
+history-private-browsing-permanent =
+    .label = Përdor përherë mënyrën shfletim privat
+    .accesskey = v
+history-remember-option =
+    .label = Mba mend historikun tim të shfletimit dhe shkarkimeve
+    .accesskey = t
+history-remember-search-option =
+    .label = Mba mend historik kërkimesh dhe formularësh
+    .accesskey = e
+history-clear-on-close-option =
+    .label = Pastroje historikun, kur mbyllet { -brand-short-name }-i
+    .accesskey = y
+history-clear-on-close-settings =
+    .label = Rregullime…
+    .accesskey = R
+history-clear-button =
+    .label = Pastroni Historikun…
+    .accesskey = S
+
+## Privacy Section - Site Data
+
+sitedata-header = Cookies dhe të Dhëna Sajtesh
+sitedata-learn-more = Mësoni më tepër
+sitedata-accept-cookies-option =
+    .label = Prano nga sajte cookies dhe të dhëna sajtesh (e këshilluar)
+    .accesskey = P
+sitedata-block-cookies-option =
+    .label = Blloko cookies dhe të dhëna sajtesh (mund të shkaktojë mosfunksionim sajtesh)
+    .accesskey = B
+sitedata-keep-until = Mbaji
+    .accesskey = M
+sitedata-accept-third-party-desc = Prano cookies palësh të treta dhe të dhëna sajtesh
+    .accesskey = l
+sitedata-accept-third-party-always-option =
+    .label = Përherë
+sitedata-accept-third-party-visited-option =
+    .label = Nga të vizituarit
+sitedata-accept-third-party-never-option =
+    .label = Kurrë
+sitedata-clear =
+    .label = Pastroni të Dhëna…
+    .accesskey = P
+sitedata-settings =
+    .label = Administroni Të dhëna…
+    .accesskey = A
+sitedata-cookies-exceptions =
+    .label = Përjashtime…
+    .accesskey = P
+
+## Privacy Section - Address Bar
+
+addressbar-header = Shtyllë Adresash
+addressbar-suggest = Kur përdoret shtylla e adresave, jep sugjerime nga
+addressbar-locbar-history-option =
+    .label = Historik shfletimesh
+    .accesskey = H
+addressbar-locbar-bookmarks-option =
+    .label = Faqerojtësit
+    .accesskey = F
+addressbar-locbar-openpage-option =
+    .label = Skeda të hapura
+    .accesskey = S
+addressbar-suggestions-settings = Ndryshoni parapëlqimet mbi këshillime motorësh kërkimi
+
+## Privacy Section - Tracking
+
+tracking-header = Mbrojtje Nga Gjurmimet
+tracking-description = Mbrojtja Nga Gjurmimet bllokon gjurmues internetorë që grumbullojnë të dhëna shfletimi tuajat nëpër shumë sajte. <a>Mësoni më tepër rreth Mbrojtjes Nga Gjurmimet dhe privatësisë tuaj</a>
+tracking-mode-label = Përdore Mbrojtjen Nga Gjurmimet për bllokim gjurmuesish të ditur
+tracking-mode-always =
+    .label = Përherë
+    .accesskey = h
+tracking-mode-private =
+    .label = Vetëm në dritare private
+    .accesskey = v
+tracking-mode-never =
+    .label = Kurrë
+    .accesskey = u
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Përdore Mbrojtjen Nga Gjurmimet gjatë Shfletimesh Private për bllokim të gjurmuesve të ditur
+    .accesskey = v
+tracking-exceptions =
+    .label = Përjashtime…
+    .accesskey = a
+tracking-change-block-list =
+    .label = Ndryshoni Listë Bllokimesh…
+    .accesskey = N
+
+## Privacy Section - Permissions
+
+permissions-header = Leje
+permissions-location = Vendndodhje
+permissions-location-settings =
+    .label = Rregullime…
+    .accesskey = r
+permissions-camera = Kamerë
+permissions-camera-settings =
+    .label = Rregullime…
+    .accesskey = R
+permissions-microphone = Mikrofon
+permissions-microphone-settings =
+    .label = Rregullime…
+    .accesskey = R
+permissions-notification = Njoftime
+permissions-notification-settings =
+    .label = Rregullime…
+    .accesskey = R
+permissions-notification-link = Mësoni më tepër
+permissions-notification-pause =
+    .label = Ndali njoftimet derisa të riniset { -brand-short-name }-i
+    .accesskey = N
+permissions-block-popups =
+    .label = Blloko dritare flluska
+    .accesskey = B
+permissions-block-popups-exceptions =
+    .label = Përjashtime…
+    .accesskey = P
+permissions-addon-install-warning =
+    .label = Njofto kur sajte përpiqen të instalojnë shtesa
+    .accesskey = T
+permissions-addon-exceptions =
+    .label = Përjashtime…
+    .accesskey = a
+permissions-a11y-privacy-checkbox =
+    .label = Parandaloni shërbime përdorshmërie të hyjnë në shfletuesin tuaj
+    .accesskey = P
+permissions-a11y-privacy-link = Mësoni më tepër
+
+## Privacy Section - Data Collection
+
+collection-header = Grumbullim dhe Përdorim të Dhënash nga { -brand-short-name }-i
+collection-description = Përpiqemi t’ju japim mundësi zgjedhjesh dhe grumbullojmë vetëm ç’na duhet për të ofruar dhe përmirësuar { -brand-short-name }-in për këdo. Kërkojmë përherë leje përpara se të marrim të dhëna personale.
+collection-privacy-notice = Shënim Mbi Privatësinë
+collection-health-report =
+    .label = Lejojeni { -brand-short-name }-in të dërgojë të dhëna teknike dhe ndërveprimi te { -vendor-short-name }
+    .accesskey = L
+collection-health-report-link = Mësoni më tepër
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Raportimi i të dhënave është i çaktivizuar për këtë formësim montimi
+collection-browser-errors =
+    .label = Lejojeni { -brand-short-name }-in të dërgojë te { -vendor-short-name } njoftime gabimesh shfletuesi (përfshi mesazhe gabimesh)
+    .accesskey = L
+collection-browser-errors-link = Mësoni më tepër
+collection-backlogged-crash-reports =
+    .label = Lejoje { -brand-short-name }-in të dërgojë njoftime të dikurshme vithisjesh në emrin tuaj
+    .accesskey = L
+collection-backlogged-crash-reports-link = Mësoni Më Tepër
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+security-header = Siguri
+security-browsing-protection = Mbrojtje Nga Lëndë e Rrejshme dhe Software i Rrezikshëm
+security-enable-safe-browsing-link = Mësoni më tepër
+security-block-uncommon-software =
+    .label = Sinjalizo rreth software-i të padëshiruar dhe jo të zakonshëm
+    .accesskey = d
+
+## Privacy Section - Certificates
+
+certs-header = Dëshmi
+certs-personal-label = Kur një shërbyes kërkon dëshminë tuaj personale
+certs-select-auto-option =
+    .label = Përzgjidh një vetvetiu
+    .accesskey = z
+certs-select-ask-option =
+    .label = Pyetmë çdo herë
+    .accesskey = y
+certs-enable-ocsp =
+    .label = Kërkojuni shërbyesve me përgjigje OCSP të ripohojnë vlefshmërinë e tanishme të dëshmive
+    .accesskey = K
+certs-view =
+    .label = Shihni Dëshmi…
+    .accesskey = D
+certs-devices =
+    .label = Pajisje Sigurie…
+    .accesskey = P
