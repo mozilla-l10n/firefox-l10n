@@ -388,21 +388,50 @@ containers-remove-button =
 
 ## Privacy Section - Forms
 
+forms-exceptions =
+    .label = Uitzonderingen…
+    .accesskey = t
+forms-master-pw-use =
+    .label = Een hoofdwachtwoord gebruiken
+    .accesskey = d
 forms-master-pw-change =
     .label = Hoofdwachtwoord wijzigen…
     .accesskey = z
 
 ## Privacy Section - History
 
+history-header = Geschiedenis
+history-dontremember-description = { -brand-short-name } zal dezelfde instellingen gebruiken als bij Privénavigatie, en geen geschiedenis onthouden terwijl u over het web surft.
+history-remember-search-option =
+    .label = Zoek- en formuliergeschiedenis onthouden
+    .accesskey = f
+history-clear-on-close-option =
+    .label = Geschiedenis wissen zodra { -brand-short-name } sluit
+    .accesskey = w
+history-clear-on-close-settings =
+    .label = Instellingen…
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-always-option =
+    .label = Altijd
+sitedata-accept-third-party-visited-option =
+    .label = Van bezochte
+sitedata-accept-third-party-never-option =
+    .label = Nooit
 sitedata-cookies-exceptions =
     .label = Uitzonderingen…
     .accesskey = U
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-bookmarks-option =
+    .label = Bladwijzers
+    .accesskey = d
+addressbar-locbar-openpage-option =
+    .label = Open tabbladen
+    .accesskey = O
 
 ## Privacy Section - Tracking
 
@@ -412,9 +441,13 @@ sitedata-cookies-exceptions =
 permissions-block-popups =
     .label = Pop-upvensters blokkeren
     .accesskey = P
+permissions-addon-exceptions =
+    .label = Uitzonderingen…
+    .accesskey = U
 
 ## Privacy Section - Data Collection
 
+collection-health-report-link = Meer info
 
 ## Privacy Section - Security
 ##
@@ -424,3 +457,4 @@ permissions-block-popups =
 
 ## Privacy Section - Certificates
 
+certs-header = Certificaten
