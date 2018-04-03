@@ -396,6 +396,8 @@ history-remember-option =
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-visited-option =
+    .label = প্রদর্শিত হতে
 sitedata-accept-third-party-never-option =
     .label = কখনো নয়
 sitedata-cookies-exceptions =
