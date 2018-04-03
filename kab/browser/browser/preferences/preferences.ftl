@@ -451,6 +451,9 @@ sitedata-cookies-exceptions =
 
 addressbar-header = Afeggag n tansa
 addressbar-suggest = Ticki tesqedceḍ afeggag n tansa, sumer
+addressbar-locbar-history-option =
+    .label = Amazray n tunigin
+    .accesskey = M
 addressbar-locbar-bookmarks-option =
     .label = Ticraḍ n isebtar
     .accesskey = T
@@ -475,6 +478,9 @@ tracking-mode-never =
 tracking-exceptions =
     .label = Tisuraf…
     .accesskey = s
+tracking-change-block-list =
+    .label = Snifel tabdart n usewḥel…
+    .accesskey = D
 
 ## Privacy Section - Permissions
 
@@ -544,3 +550,9 @@ certs-select-ask-option =
 certs-enable-ocsp =
     .label = Suter iqeddacen imerrayen OCSP akken ad sentmen taneɣbalt n iselkinen{ " " }
     .accesskey = S
+certs-view =
+    .label = Sken iselkinen…
+    .accesskey = S
+certs-devices =
+    .label = Ibenkan n tɣellist…
+    .accesskey = B
