@@ -416,3 +416,4 @@ collection-health-report-link = Tìm hiểu thêm
 
 ## Privacy Section - Certificates
 
+certs-header = Chứng thư
