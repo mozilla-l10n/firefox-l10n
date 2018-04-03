@@ -396,9 +396,31 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-dontremember-description = { -brand-short-name } kommer att använda samma inställningar som för privat surfning och kommer inte att spara någon historik när du surfar.
+history-private-browsing-permanent =
+    .label = Använd alltid läget privat surfning
+    .accesskey = A
+history-remember-option =
+    .label = Spara historik över besökta sidor och filhämtningar
+    .accesskey = S
+history-remember-search-option =
+    .label = Spara sök- och formulärhistorik
+    .accesskey = ö
+history-clear-on-close-option =
+    .label = Rensa historiken när { -brand-short-name } avslutas
+    .accesskey = R
+history-clear-on-close-settings =
+    .label = Inställningar…
+    .accesskey = n
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-always-option =
+    .label = alltid
+sitedata-accept-third-party-visited-option =
+    .label = från platser jag besökt
+sitedata-accept-third-party-never-option =
+    .label = aldrig
 sitedata-cookies-exceptions =
     .label = Undantag…
     .accesskey = U
@@ -420,6 +442,7 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Data Collection
 
+collection-health-report-link = Läs mer
 
 ## Privacy Section - Security
 ##
@@ -429,3 +452,4 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Certificates
 
+certs-header = Certifikat
