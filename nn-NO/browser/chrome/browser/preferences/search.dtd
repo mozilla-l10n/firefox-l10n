@@ -2,40 +2,40 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY searchBar.label                       "Søkjelinje">
+<!ENTITY searchBar.label                       "Søkelinje">
 
 <!ENTITY searchBar.hidden.label                "Bruk adresselinja for søk og navigering">
-<!ENTITY searchBar.shown.label                 "Legg til søkjelinje i verktøylinja">
+<!ENTITY searchBar.shown.label                 "Legg til søkelinje i verktøylinja">
 
 <!-- LOCALIZATION NOTE (showSearchSuggestionsAboveHistory.label): This string
      describes what the user will observe when the system prioritizes search
      suggestions over browsing history in the results that extend down from the
      address bar. In the original English string, "ahead" refers to location
      (appearing most proximate to), not time (appearing before). -->
-<!ENTITY showSearchSuggestionsAboveHistory.label "Vis søkjeforslag før nettlesarhistorikk i adressefeltresultata">
+<!ENTITY showSearchSuggestionsAboveHistory.label "Vis søkeforslag før nettlesarhistorikk i adressefeltresultata">
 
-<!ENTITY defaultSearchEngine.label             "Standard søkjemotor">
+<!ENTITY defaultSearchEngine.label             "Standard søkemotor">
 
-<!ENTITY chooseYourDefaultSearchEngine2.label   "Vel standard-søkjemotor som skal brukast i adresselinja og søkjelinja.">
+<!ENTITY chooseYourDefaultSearchEngine2.label   "Vel standard-søkemotor som skal brukast i adresselinja og søkelinja.">
 
-<!ENTITY provideSearchSuggestions.label        "Tilby søkjeforslag">
+<!ENTITY provideSearchSuggestions.label        "Tilby søkeforslag">
 <!ENTITY provideSearchSuggestions.accesskey    "T">
 
-<!ENTITY showURLBarSuggestions2.label           "Vis søkjeforslag i resultata til adresselinja">
+<!ENTITY showURLBarSuggestions2.label           "Vis søkeforslag i resultata til adresselinja">
 <!ENTITY showURLBarSuggestions2.accesskey       "l">
-<!ENTITY urlBarSuggestionsPermanentPB.label    "Søkjeforslag vil ikkje visast i adresselinjeresultata fordi du har konfigurert &brandShortName; til å aldri hugse historikk.">
+<!ENTITY urlBarSuggestionsPermanentPB.label    "Søkeforslag vil ikkje visast i adresselinjeresultata fordi du har konfigurert &brandShortName; til å aldri hugse historikk.">
 
-<!ENTITY oneClickSearchEngines.label           "Eittklikks-søkjemotorar">
+<!ENTITY oneClickSearchEngines.label           "Eittklikks-søkemotorar">
 
-<!ENTITY chooseWhichOneToDisplay2.label         "Vel alternative søkjemotorar som vert viste under adresselinja og søkjelinja når du byrjar å skrive inn eit søkjeord.">
+<!ENTITY chooseWhichOneToDisplay2.label         "Vel alternative søkemotorar som vert viste under adresselinja og søkelinja når du byrjar å skrive inn eit søkeord.">
 
-<!ENTITY engineNameColumn.label                "Søkjemotor">
+<!ENTITY engineNameColumn.label                "Søkemotor">
 <!ENTITY engineKeywordColumn.label             "Nykelord">
 
-<!ENTITY restoreDefaultSearchEngines.label     "Bygg oppatt standard søkjemotorar">
+<!ENTITY restoreDefaultSearchEngines.label     "Bygg oppatt standard søkemotorar">
 <!ENTITY restoreDefaultSearchEngines.accesskey "G">
 
 <!ENTITY removeEngine.label                    "Fjern">
 <!ENTITY removeEngine.accesskey                "F">
 
-<!ENTITY findMoreSearchEngines.label           "Finn fleire søkjemotorar">
+<!ENTITY findMoreSearchEngines.label           "Finn fleire søkemotorar">

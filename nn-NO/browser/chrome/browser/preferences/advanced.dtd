@@ -62,11 +62,11 @@ available. -->
 <!ENTITY siteData.label                  "Sidedata">
 <!ENTITY clearSiteData.label             "Nullstill alle data">
 <!ENTITY clearSiteData.accesskey         "u">
+<!ENTITY siteDataSettings.label          "Innstillingar…">
+<!ENTITY siteDataSettings.accesskey      "I">
 <!ENTITY siteData1.label                 "Infokapslar og sidedata">
 <!ENTITY clearSiteData1.label            "Tøm data…">
 <!ENTITY clearSiteData1.accesskey        "T">
-<!ENTITY siteDataSettings.label          "Innstillingar…">
-<!ENTITY siteDataSettings.accesskey      "I">
 <!ENTITY siteDataSettings1.label         "Handter data…">
 <!ENTITY siteDataSettings1.accesskey     "H">
 <!ENTITY siteDataLearnMoreLink.label     "Les meir">
@@ -116,7 +116,7 @@ available. -->
 <!ENTITY useService.label                "Bruk ei bakgrunnsteneste for å installere oppdateringar">
 <!ENTITY useService.accesskey            "B">
 
-<!ENTITY enableSearchUpdate2.label       "Oppdater søkjemotorar automatisk">
+<!ENTITY enableSearchUpdate2.label       "Oppdater søkemotorar automatisk">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
 
 <!ENTITY certificateTab.label            "Sertifikat">

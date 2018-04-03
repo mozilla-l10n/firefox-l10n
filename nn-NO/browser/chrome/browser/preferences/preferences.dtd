@@ -18,7 +18,7 @@
      string visible -->
 <!ENTITY  searchField.width             "15.4em">
 
-<!ENTITY  paneSearchResults.title       "Søkjeresultat">
+<!ENTITY  paneSearchResults.title       "Søkeresultat">
 <!ENTITY  paneGeneral.title             "Generelt">
 <!ENTITY  paneSearch.title              "Søk">
 <!ENTITY  paneFilesApplications.title   "Filer og program">
@@ -28,6 +28,8 @@
 
 <!ENTITY  languageAndAppearance.label   "Språk og utsjånad">
 <!ENTITY  filesAndApplications.label    "Filer og program">
+
+
 <!ENTITY  browserPrivacy.label          "Nettlesarpersonvern">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
