@@ -391,6 +391,9 @@ containers-remove-button =
 forms-exceptions =
     .label = Excepciones…
     .accesskey = x
+forms-saved-logins =
+    .label = Inicios de sesión guardados…
+    .accesskey = I
 forms-master-pw-use =
     .label = Usar una contraseña maestra
     .accesskey = m
@@ -400,6 +403,7 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-header = Historial
 history-dontremember-description = { -brand-short-name } usará la misma configuración de la navegación privada, es decir, no guardará ningún historial de tu navegación.
 history-private-browsing-permanent =
     .label = Siempre usar modo de navegación privada
@@ -428,9 +432,27 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-bookmarks-option =
+    .label = Marcadores
+    .accesskey = M
+addressbar-locbar-openpage-option =
+    .label = Abrir pestañas
+    .accesskey = O
 
 ## Privacy Section - Tracking
 
+tracking-mode-always =
+    .label = Siempre
+    .accesskey = e
+tracking-mode-private =
+    .label = Solo en ventanas privadas
+    .accesskey = l
+tracking-mode-never =
+    .label = Nunca
+    .accesskey = N
+tracking-exceptions =
+    .label = Excepciones…
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
