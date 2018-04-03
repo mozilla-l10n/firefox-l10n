@@ -347,9 +347,14 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = ബ്രൗസർ സ്വകാര്യത
 
 ## Privacy Section - Forms
 
+forms-header = ഫോമുകള്‍ & പാസ്വേഡുകള്‍
+forms-remember-logins =
+    .label = വെബ്സൈറ്റുകൾക്കായുള്ള ലോഗിനുകളും പാസ്വേഡുകളും ഓർക്കുക
+    .accesskey = R
 forms-exceptions =
     .label = ഒഴിവാക്കേണ്ടവ…
     .accesskey = x
@@ -385,6 +390,11 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = കൂടുതല്‍ അറിയുക
+sitedata-keep-until = വരെ സൂക്ഷിക്കുക
+    .accesskey = u
+sitedata-accept-third-party-always-option =
+    .label = എപ്പോഴും
 sitedata-accept-third-party-visited-option =
     .label = സന്ദര്‍ശനം മുതല്‍
 sitedata-accept-third-party-never-option =
@@ -395,15 +405,22 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-header = അഡ്രസ്സ് ബാര്‍
+addressbar-suggest = അഡ്രസ്സ് ബാര്‍ ഉപയോഗിക്കുമ്പോള്‍ സജ്ജസ്റ്റ് ചെയ്യുക
+addressbar-locbar-history-option =
+    .label = ബ്രൌസിങ്ങ് ഹിസ്റ്ററി
+    .accesskey = H
 addressbar-locbar-bookmarks-option =
     .label = അടയാളക്കുറിപ്പുകള്‍
     .accesskey = k
 addressbar-locbar-openpage-option =
     .label = തുറന്ന ടാബുകള്‍
     .accesskey = O
+addressbar-suggestions-settings = സെര്‍ച്ച് എഞ്ചിൻ നിർദ്ദേശങ്ങളുടെ പ്രഫറന്‍സ് മാറ്റുക
 
 ## Privacy Section - Tracking
 
+tracking-header = ട്രാക്കിംഗ് പ്രൊട്ടക്ഷൻ
 tracking-mode-always =
     .label = എപ്പോഴും
     .accesskey = ഴ
@@ -413,38 +430,104 @@ tracking-mode-private =
 tracking-mode-never =
     .label = ഒരിക്കലുമില്ല
     .accesskey = ഒ
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = അറിയപ്പെടുന്ന ട്രാക്കറുകൾ തടയാൻ സ്വകാര്യ ബ്രൗസറിൽ ട്രാക്കിംഗ് പ്രൊട്ടക്ഷൻ ഉപയോഗിക്കുക
+    .accesskey = v
 tracking-exceptions =
     .label = വിട്ടുവീഴ്ചകള്‍…
     .accesskey = ക
+tracking-change-block-list =
+    .label = ബ്ലോക്ക് ലിസ്റ്റില്‍ മാറ്റം വരുത്തുക...
+    .accesskey = C
 
 ## Privacy Section - Permissions
 
+permissions-header = അനുമതികൾ
+permissions-location = സ്ഥലവിവരം
+permissions-location-settings =
+    .label = ക്രമീകരണങ്ങൾ…
+    .accesskey = t
+permissions-camera = ക്യാമറ
+permissions-camera-settings =
+    .label = ക്രമീകരണങ്ങൾ…
+    .accesskey = t
+permissions-microphone = മൈക്രോഫോണ്‍
+permissions-microphone-settings =
+    .label = ക്രമീകരണങ്ങൾ…
+    .accesskey = t
 permissions-notification = അറിയിപ്പുകള്‍
+permissions-notification-settings =
+    .label = ക്രമീകരണങ്ങൾ…
+    .accesskey = t
+permissions-notification-link = കൂടുതലറിയുക
+permissions-notification-pause =
+    .label = { -brand-short-name } റീസ്റ്റാര്‍ട്ട് ചയ്യുന്ന വരെ അറിയിപ്പുകൾ താൽക്കാലികമായി നിർത്തുക
+    .accesskey = n
 permissions-block-popups =
     .label = പോപ്പപ്‌ ജാലകങ്ങള്‍ തടയുക
     .accesskey = B
 permissions-block-popups-exceptions =
     .label = വിട്ടുവീഴ്ചകള്‍...
     .accesskey = ക
+permissions-addon-install-warning =
+    .label = വെബ്സൈറ്റുകൾ ആഡ്-ഓൺസ് ഇൻസ്റ്റാൾ ചെയ്യാൻ ശ്രമിക്കുമ്പോൾ നിങ്ങൾക്ക് മുന്നറിയിപ്പ് നൽകുക
+    .accesskey = W
 permissions-addon-exceptions =
     .label = ഒഴിവാക്കേണ്ടവ…
     .accesskey = E
+permissions-a11y-privacy-checkbox =
+    .label = നിങ്ങളുടെ ബ്രൗസർ ആക്സസ്സുചെയ്യുന്നതിൽ നിന്നും അക്സസ്സിബിലിറ്റി സേവനങ്ങളെ തടയുക
+    .accesskey = a
+permissions-a11y-privacy-link = കൂടുതലറിവ് നേടുക
 
 ## Privacy Section - Data Collection
 
+collection-header = { -brand-short-name } വിവര ശേഖരണവും ഉപയോഗവും
+collection-description = നിങ്ങൾക്ക് തിരഞ്ഞെടുക്കാനുള്ള അവസരങ്ങള്‍ നല്‍കാനും { -brand-short-name } മെച്ചപെടുത്താനായി ആവശ്യമുള്ളതുമാത്രം ശേഖരിക്കാനും ഞങ്ങൾ പരിശ്രമിക്കുകയാണ്. വ്യക്തിപരമായ വിവരങ്ങൾ കൈക്കൊള്ളുന്നതിന് മുമ്പ് ഞങ്ങൾ എല്ലായ്പ്പോഴും അനുമതി ചോദിക്കും.
+collection-privacy-notice = സ്വകാര്യതാ പോളിസി
+collection-health-report =
+    .label = മോസില്ലയിലേക്കുള്ള സാങ്കേതിക, ഇന്ററാക്ഷൻ ഡാറ്റ അയയ്ക്കാൻ { -brand-short-name } നെ അനുവദിക്കുക
+    .accesskey = r
+collection-health-report-link = കൂടുതല്‍ അറിയുക
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = ഈ ബിൽഡ് കോൺഫിഗറേഷനായി ഡാറ്റ റിപ്പോർട്ടുചെയ്യൽ പ്രവർത്തനരഹിതമാക്കി
+collection-backlogged-crash-reports-link = കൂടുതല്‍ അറിയുക
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = സുരക്ഷ
+security-browsing-protection = വഞ്ചനാപരമായ ഉള്ളടക്കത്തില്‍ നിന്നും അപകടകരമായ സോഫ്റ്റ്വെയറില്‍ നിന്നും സുരക്ഷ
+security-enable-safe-browsing =
+    .label = അപകടകരവും വഞ്ചനാപരവുമായ ഉള്ളടക്കം തടയുക
+    .accesskey = B
 security-block-downloads =
     .label = അപകടകരമായ ഡൗണ്‍ലോഡുകള്‍ തടയുക
     .accesskey = അ
+security-block-uncommon-software =
+    .label = ആവശ്യമില്ലാത്തതും അസാധാരണവുമായ സോഫ്റ്റ്വെയറിനെക്കുറിച്ച് നിങ്ങൾക്ക് മുന്നറിയിപ്പ് നൽകുക
+    .accesskey = C
 
 ## Privacy Section - Certificates
 
 certs-header = സര്‍ട്ടിഫിക്കറ്റുകള്‍
+certs-personal-label = ഒരു സെർവർ നിങ്ങളുടെ വ്യക്തിഗത സർട്ടിഫിക്കറ്റ് ആവശ്യപ്പെടുമ്പോൾ
+certs-select-auto-option =
+    .label = ഒന്നു് സ്വയം തെരഞ്ഞെടുക്കുക{ " " }
+    .accesskey = S
+certs-select-ask-option =
+    .label = ഓരോ തവണയും ചോദിക്കുക
+    .accesskey = A
 certs-enable-ocsp =
     .label = സമ്മതപത്രങ്ങളുടെ നിലവിലുള്ള സാധുത ഉറപ്പാക്കുന്നതിന് ഒസിഎസ്‌പി റസ്പോണ്ടര്‍ സര്‍വറുകള്‍ ചോദ്യം ചെയ്യുക
     .accesskey = ക
+certs-view =
+    .label = സെര്‍ട്ടിഫിക്കേറ്റുകള്‍ കാണിക്കുക…
+    .accesskey = C
+certs-devices =
+    .label = സുരക്ഷാ ഉപകരണങ്ങള്‍…
+    .accesskey = D
