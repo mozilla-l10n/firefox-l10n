@@ -425,18 +425,36 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Ezarpenak…
     .accesskey = r
+history-clear-button =
+    .label = Garbitu historia…
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
+sitedata-header = Cookieak eta guneetako datuak
 sitedata-learn-more = Argibide gehiago
+sitedata-accept-cookies-option =
+    .label = Onartu webguneetako cookie eta datuak (gomendatua)
+    .accesskey = O
+sitedata-block-cookies-option =
+    .label = Blokeatu webguneetako cookie eta datuak (webguneak haustea eragin lezake)
+    .accesskey = B
 sitedata-keep-until = Mantentze-epea
     .accesskey = M
+sitedata-accept-third-party-desc = Onartu hirugarren guneetako cookie eta datuak
+    .accesskey = h
 sitedata-accept-third-party-always-option =
     .label = Beti
 sitedata-accept-third-party-visited-option =
     .label = Bisitatutako guneetatik
 sitedata-accept-third-party-never-option =
     .label = Inoiz ez
+sitedata-clear =
+    .label = Garbitu datuak…
+    .accesskey = G
+sitedata-settings =
+    .label = Kudeatu datuak…
+    .accesskey = K
 sitedata-cookies-exceptions =
     .label = Salbuespenak…
     .accesskey = S
@@ -459,6 +477,8 @@ addressbar-suggestions-settings = Aldatu bilaketa-motorren iradokizunetarako hob
 ## Privacy Section - Tracking
 
 tracking-header = Jarraipenaren babesa
+tracking-description = Jarraipenaren babesarekin hainbat webguneren artean zure nabigazio-datuak biltzea blokeatuko da. <a>Argibide gehiago jarraipenaren babesari eta zure pribatutasunari buruz</a>
+tracking-mode-label = Babestu jarraipena egiteaz ezagunak diren guneetatik
 tracking-mode-always =
     .label = Beti
     .accesskey = B
@@ -483,10 +503,25 @@ tracking-change-block-list =
 
 permissions-header = Baimenak
 permissions-location = Kokapena
+permissions-location-settings =
+    .label = Ezarpenak…
+    .accesskey = n
 permissions-camera = Kamera
+permissions-camera-settings =
+    .label = Ezarpenak…
+    .accesskey = k
 permissions-microphone = Mikrofonoa
+permissions-microphone-settings =
+    .label = Ezarpenak…
+    .accesskey = m
 permissions-notification = Jakinarazpenak
+permissions-notification-settings =
+    .label = Ezarpenak…
+    .accesskey = n
 permissions-notification-link = Argibide gehiago
+permissions-notification-pause =
+    .label = Pausatu jakinarazpenak { -brand-short-name } berrabiarazi arte
+    .accesskey = n
 permissions-block-popups =
     .label = Blokeatu pop-up leihoak
     .accesskey = B
@@ -499,16 +534,30 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Salbuespenak…
     .accesskey = S
+permissions-a11y-privacy-checkbox =
+    .label = Eragotzi erabilgarritasun-zerbitzuei zure nabigatzailerako sarbidea
+    .accesskey = a
+permissions-a11y-privacy-link = Argibide gehiago
 
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } datuen bilketa eta erabilera
 collection-description = Aukerak ematen ahalegintzen gara { -brand-short-name } denontzat hobetzeko behar ditugun datuak soilik biltzeko. Informazio pertsonala jaso aurretik zure baimena eskatzen dugu beti.
 collection-privacy-notice = Pribatutasun-oharra
+collection-health-report =
+    .label = Baimendu { -brand-short-name }(r)i datu tekniko eta interakziozkoak { -vendor-short-name }ra bidaltzea
+    .accesskey = r
 collection-health-report-link = Argibide gehiago
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Datuen berri ematea desgaituta dago eraikitze-konfigurazio honetarako
+collection-browser-errors =
+    .label = Baimendu { -brand-short-name }(r)i nabigatzailearen errore-txostenak { -vendor-short-name }ra bidaltzea (errore-mezuak barne)
+    .accesskey = B
+collection-browser-errors-link = Argibide gehiago
+collection-backlogged-crash-reports =
+    .label = Baimendu { -brand-short-name }(r)i atzeratutako hutsegite-txostenak zuregatik bidaltzea
+    .accesskey = h
 collection-backlogged-crash-reports-link = Argibide gehiago
 
 ## Privacy Section - Security
@@ -517,9 +566,11 @@ collection-backlogged-crash-reports-link = Argibide gehiago
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Segurtasuna
+security-browsing-protection = Eduki iruzurgilearen eta software arriskutsuaren babesa
 security-enable-safe-browsing =
     .label = Blokeatu eduki arriskutsu eta iruzurtia
     .accesskey = B
+security-enable-safe-browsing-link = Argibide gehiago
 security-block-downloads =
     .label = Blokeatu deskarga arriskutsuak
     .accesskey = s
