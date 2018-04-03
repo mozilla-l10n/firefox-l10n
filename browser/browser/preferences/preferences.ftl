@@ -277,9 +277,13 @@ containers-add-button =
 
 ## Privacy Section - Forms
 
+forms-header = Vorms en wagwoorde
 forms-exceptions =
     .label = Uitsonderings…
     .accesskey = U
+forms-saved-logins =
+    .label = Gestoorde aanmeldings…
+    .accesskey = l
 forms-master-pw-use =
     .label = Gebruik 'n meesterwagwoord
     .accesskey = G
@@ -289,6 +293,7 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-header = Geskiedenis
 history-dontremember-description = { -brand-short-name } gebruik dieselfde instellings as private blaaiery en sal nie enige geskiedenis onthou wanneer u die web besoek nie.
 history-private-browsing-permanent =
     .label = Gebruik altyd privaatblaai-modus
@@ -308,6 +313,9 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = Meer inligting
+sitedata-accept-third-party-always-option =
+    .label = Altyd
 sitedata-accept-third-party-visited-option =
     .label = Sedert besoek
 sitedata-accept-third-party-never-option =
@@ -318,28 +326,74 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-bookmarks-option =
+    .label = Boekmerke
+    .accesskey = k
+addressbar-locbar-openpage-option =
+    .label = Oop oortjies
+    .accesskey = O
+addressbar-suggestions-settings = &Verander voorkeure vir voorstelle vanaf soekenjins
 
 ## Privacy Section - Tracking
 
+tracking-header = Volgbeskerming
+tracking-mode-always =
+    .label = Altyd
+    .accesskey = y
+tracking-mode-private =
+    .label = Slegs in private vensters
+    .accesskey = l
+tracking-mode-never =
+    .label = Nooit
+    .accesskey = N
+tracking-exceptions =
+    .label = Uitsonderings…
+    .accesskey = U
 
 ## Privacy Section - Permissions
 
+permissions-header = Toestemmings
+permissions-notification = Kennisgewings
 permissions-block-popups =
     .label = Blokkeer opspringers
     .accesskey = B
+permissions-block-popups-exceptions =
+    .label = Uitsonderings…
+    .accesskey = U
 permissions-addon-exceptions =
     .label = Uitsonderings…
     .accesskey = U
 
 ## Privacy Section - Data Collection
 
+collection-health-report-link = Meer inligting
+collection-backlogged-crash-reports-link = Meer inligting
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Sekuriteit
+security-enable-safe-browsing =
+    .label = Blokkeer gevaarlike en bedrieglike inhoud
+    .accesskey = B
+security-block-downloads =
+    .label = Blokkeer gevaarlike aflaaie
+    .accesskey = g
+security-block-uncommon-software =
+    .label = Waarsku oor ongewensde en ongewone sagteware
+    .accesskey = d
 
 ## Privacy Section - Certificates
 
 certs-header = Sertifikate
+certs-select-auto-option =
+    .label = Kies outomaties een
+    .accesskey = K
+certs-select-ask-option =
+    .label = Vra elke keer
+    .accesskey = V
+certs-enable-ocsp =
+    .label = Bevestig huidige geldigheid van sertifikate deur OCSP-bedieners te vra
+    .accesskey = B
