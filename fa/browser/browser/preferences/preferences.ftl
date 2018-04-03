@@ -485,6 +485,7 @@ permissions-a11y-privacy-link = بیشتر بدانید
 ## Privacy Section - Data Collection
 
 collection-header = ذخیره اطلاعات و استفاده { -brand-short-name }
+collection-description = ما تمام تلاش خود را می‌کنیم که به شما حق انتخاب بدهیم و تنها اطلاعاتی را جمع‌آوری کنیم که برای بهبود { -brand-short-name } برای همه، کمک کند. ما همیشه قبل از دریافت اطلاعات شخصی از شما اجازه خواهیم گرفت.
 collection-privacy-notice = نکات حفظ حریم خصوصی
 collection-health-report =
     .label = { -brand-short-name } اجازه دهید تا اطلاعات موارد فنی وفعال و انفعالات رابرای موزیلا ارسال کند
