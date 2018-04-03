@@ -408,13 +408,30 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-header = Galetes i dades dels llocs
 sitedata-learn-more = Més informació
+sitedata-accept-cookies-option =
+    .label = Accepta les galetes i dades dels llocs web (recomanat)
+    .accesskey = A
+sitedata-block-cookies-option =
+    .label = Bloca les galetes i dades dels llocs (pot fer que alguns llocs web no funcionin)
+    .accesskey = B
+sitedata-keep-until = Conserva-les fins
+    .accesskey = v
+sitedata-accept-third-party-desc = Accepta les galetes i dades dels llocs de tercers
+    .accesskey = t
 sitedata-accept-third-party-always-option =
     .label = Sempre
 sitedata-accept-third-party-visited-option =
     .label = De llocs visitats
 sitedata-accept-third-party-never-option =
     .label = Mai
+sitedata-clear =
+    .label = Neteja les dades…
+    .accesskey = l
+sitedata-settings =
+    .label = Gestiona les dades…
+    .accesskey = G
 sitedata-cookies-exceptions =
     .label = Excepcions…
     .accesskey = E
@@ -437,6 +454,8 @@ addressbar-suggestions-settings = Canvia les preferències dels suggeriments de 
 ## Privacy Section - Tracking
 
 tracking-header = Protecció contra el seguiment
+tracking-description = La protecció contra el seguiment bloca els elements de seguiment que recullen de les vostres dades de navegació pels diferents llocs web. <a>Més informació sobre la protecció contra el seguiment i la vostra privadesa</a>
+tracking-mode-label = Utilitza la protecció contra el seguiment per blocar elements de seguiment coneguts
 tracking-mode-always =
     .label = Sempre
     .accesskey = S
@@ -460,24 +479,62 @@ tracking-change-block-list =
 ## Privacy Section - Permissions
 
 permissions-header = Permisos
+permissions-location = Ubicació
+permissions-location-settings =
+    .label = Paràmetres…
+    .accesskey = t
+permissions-camera = Càmera
+permissions-camera-settings =
+    .label = Paràmetres…
+    .accesskey = t
+permissions-microphone = Micròfon
+permissions-microphone-settings =
+    .label = Paràmetres…
+    .accesskey = t
+permissions-notification = Notificacions
+permissions-notification-settings =
+    .label = Paràmetres…
+    .accesskey = t
+permissions-notification-link = Més informació
+permissions-notification-pause =
+    .label = Posa en pausa les notificacions fins que es reiniciï el { -brand-short-name }
+    .accesskey = n
 permissions-block-popups =
     .label = Bloca les finestres emergents
     .accesskey = B
+permissions-block-popups-exceptions =
+    .label = Excepcions…
+    .accesskey = E
 permissions-addon-install-warning =
     .label = Avisa quan els llocs web intentin instal·lar complements
     .accesskey = i
 permissions-addon-exceptions =
     .label = Excepcions…
     .accesskey = E
+permissions-a11y-privacy-checkbox =
+    .label = Impedeix que els serveis d'accessibilitat tinguin accés al navegador
+    .accesskey = a
+permissions-a11y-privacy-link = Més informació
 
 ## Privacy Section - Data Collection
 
 collection-header = Ús i recollida de dades i del { -brand-short-name }
+collection-description = Ens esforcem per oferir-vos opcions i recollir només allò que necessitem per proporcionar i millorar el { -brand-short-name } per a tothom. Sempre demanem permís abans de rebre informació personal.
 collection-privacy-notice = Avís de privadesa
+collection-health-report =
+    .label = Permet que el { -brand-short-name } enviï dades tècniques i d'interacció a { -vendor-short-name }
+    .accesskey = r
 collection-health-report-link = Més informació
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = L'informe de dades està desactivat en la configuració d'aquesta versió
+collection-browser-errors =
+    .label = Permet que el { -brand-short-name } enviï informes d'error del navegador (inclosos els missatges d'error) a { -vendor-short-name }
+    .accesskey = i
+collection-browser-errors-link = Més informació
+collection-backlogged-crash-reports =
+    .label = Permet que el { -brand-short-name } enviï els informes de fallada pendents automàticament
+    .accesskey = f
 collection-backlogged-crash-reports-link = Més informació
 
 ## Privacy Section - Security
@@ -486,9 +543,11 @@ collection-backlogged-crash-reports-link = Més informació
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Seguretat
+security-browsing-protection = Protecció contra contingut enganyós i programari perillós
 security-enable-safe-browsing =
     .label = Bloqueja el contingut perillós i maliciós
     .accesskey = B
+security-enable-safe-browsing-link = Més informació
 security-block-downloads =
     .label = Bloqueja les baixades perilloses
     .accesskey = l
