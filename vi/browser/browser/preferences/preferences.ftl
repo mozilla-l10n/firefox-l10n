@@ -357,6 +357,9 @@ containers-remove-button =
 forms-exceptions =
     .label = Ngoại trừ…
     .accesskey = r
+forms-saved-logins =
+    .label = Đăng nhập đã lưu…
+    .accesskey = l
 forms-master-pw-use =
     .label = Dùng một mật khẩu chính
     .accesskey = D
@@ -366,10 +369,14 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-header = Lược sử
 history-dontremember-description = { -brand-short-name } sẽ dùng thiết lập giống như chế độ duyệt web riêng tư, và sẽ không ghi nhớ lược sử khi bạn duyệt Web.
 history-private-browsing-permanent =
     .label = Luôn luôn dùng chế độ duyệt web riêng tư
     .accesskey = y
+history-remember-option =
+    .label = Ghi nhớ lịch sử truy cập và tải về của tôi
+    .accesskey = n
 history-remember-search-option =
     .label = Ghi nhớ lược sử biểu mẫu và tìm kiếm
     .accesskey = b
@@ -394,12 +401,33 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-bookmarks-option =
+    .label = Trang đánh dấu
+    .accesskey = d
+addressbar-locbar-openpage-option =
+    .label = Thẻ đang mở
+    .accesskey = T
 
 ## Privacy Section - Tracking
 
+tracking-mode-always =
+    .label = Luôn luôn
+    .accesskey = n
+tracking-mode-private =
+    .label = Chỉ trong cửa sổ riêng tư
+    .accesskey = r
+tracking-mode-never =
+    .label = Không bao giờ
+    .accesskey = K
+tracking-exceptions =
+    .label = Ngoại lệ…
+    .accesskey = g
 
 ## Privacy Section - Permissions
 
+permissions-block-popups =
+    .label = Chặn các cửa sổ pop-up
+    .accesskey = C
 permissions-addon-exceptions =
     .label = Ngoại trừ…
     .accesskey = N
@@ -413,7 +441,16 @@ collection-health-report-link = Tìm hiểu thêm
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-enable-safe-browsing =
+    .label = Chặn nội dung lừa đảo và không an toàn
+    .accesskey = C
+security-block-downloads =
+    .label = Chặn tải xuống không an toàn
+    .accesskey = k
 
 ## Privacy Section - Certificates
 
 certs-header = Chứng thư
+certs-enable-ocsp =
+    .label = Truy vấn máy chủ đáp ứng giao thức OCSP để xác minh hiệu lực của các chứng thư
+    .accesskey = T
