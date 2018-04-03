@@ -361,10 +361,14 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = Privatnost browsera
 
 ## Privacy Section - Forms
 
 forms-header = Forme & lozinke
+forms-remember-logins =
+    .label = Pamti prijave i lozinke za web stranice
+    .accesskey = r
 forms-exceptions =
     .label = Izuzeci…
     .accesskey = I
@@ -400,6 +404,11 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = Saznajte više
+sitedata-keep-until = Čuvaj do
+    .accesskey = u
+sitedata-accept-third-party-always-option =
+    .label = Uvijek
 sitedata-accept-third-party-visited-option =
     .label = Od posjećenih
 sitedata-accept-third-party-never-option =
@@ -410,6 +419,11 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Adresna traka
+addressbar-suggest = Kada koristim adresnu traku, predloži
+addressbar-locbar-history-option =
+    .label = Historija surfanja
+    .accesskey = H
 addressbar-locbar-bookmarks-option =
     .label = Zabilješke
     .accesskey = k
@@ -430,21 +444,70 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Nikad
     .accesskey = N
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Koristi Zaštitu od praćenja u Privatnom režimu radi blokiranja poznatih pratilaca
+    .accesskey = v
 tracking-exceptions =
     .label = Izuzeci…
     .accesskey = I
+tracking-change-block-list =
+    .label = Promijeni Blok listu…
+    .accesskey = B
 
 ## Privacy Section - Permissions
 
+permissions-header = Dozvole
+permissions-location = Lokacija
+permissions-location-settings =
+    .label = Postavke…
+    .accesskey = t
+permissions-camera = Kamera
+permissions-camera-settings =
+    .label = Postavke…
+    .accesskey = t
+permissions-microphone = Mikrofon
+permissions-microphone-settings =
+    .label = Postavke…
+    .accesskey = t
+permissions-notification = Obavještenja
+permissions-notification-settings =
+    .label = Postavke…
+    .accesskey = t
+permissions-notification-link = Saznajte više
+permissions-notification-pause =
+    .label = Pauziraj obavještenja dok se { -brand-short-name } ne restartuje
+    .accesskey = n
 permissions-block-popups =
     .label = Blokiraj pop-up prozore
     .accesskey = B
+permissions-block-popups-exceptions =
+    .label = Izuzeci…
+    .accesskey = e
+permissions-addon-install-warning =
+    .label = Upozorava vas kada web stranice pokušaju instalirati add-one
+    .accesskey = U
 permissions-addon-exceptions =
     .label = Izuzeci…
     .accesskey = e
+permissions-a11y-privacy-checkbox =
+    .label = Spriječite servise pristupačnosti da pristupe vašem browseru
+    .accesskey = a
+permissions-a11y-privacy-link = Saznajte više
 
 ## Privacy Section - Data Collection
 
+collection-header = { -brand-short-name } prikupljanje i upotreba podataka
+collection-description = Trudimo se da vam pružimo izbor i da sakupljamo samo ono što nam je potrebno kako bismo unaprijedili { -brand-short-name } za sve. Uvijek od vas tražimo dozvolu prije slanja bilo kakvih ličnih informacija.
+collection-privacy-notice = Polica privatnosti
+collection-health-report =
+    .label = Omogući { -brand-short-name }u da šalje tehničke i interakcijske podatke Mozilli
+    .accesskey = r
+collection-health-report-link = Saznajte više
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Izvještaji s podacima su onemogućeni za ovu konfiguraciju
+collection-backlogged-crash-reports-link = Saznajte više
 
 ## Privacy Section - Security
 ##
@@ -452,6 +515,7 @@ permissions-addon-exceptions =
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Sigurnost
+security-browsing-protection = Zaštita od obmanjujućeg sadržaja i opasnog softvera
 security-enable-safe-browsing =
     .label = Blokiraj opasan i obmanjujući sadržaj
     .accesskey = B
@@ -474,4 +538,10 @@ certs-select-ask-option =
     .accesskey = a
 certs-enable-ocsp =
     .label = Upitajte OCSP servere da biste potvrdili validnost certifikata
+    .accesskey = U
+certs-view =
+    .label = Prikaži certifikate…
+    .accesskey = C
+certs-devices =
+    .label = Sigurnosni uređaji…
     .accesskey = U
