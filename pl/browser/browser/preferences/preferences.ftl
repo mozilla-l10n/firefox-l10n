@@ -361,34 +361,78 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = Prywatność
 
 ## Privacy Section - Forms
 
+forms-header = Formularze i hasła
 
 ## Privacy Section - History
 
+history-header = Historia
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = Więcej informacji
+sitedata-accept-third-party-always-option =
+    .label = zawsze
+sitedata-accept-third-party-visited-option =
+    .label = z odwiedzonych
+sitedata-accept-third-party-never-option =
+    .label = nigdy
+sitedata-clear =
+    .label = Wyczyść dane
+    .accesskey = a
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Pasek adresu
+addressbar-suggest = Podpowiedzi w pasku adresu opieraj na:
+addressbar-suggestions-settings = Zmień ustawienia podpowiedzi dostarczanych przez wyszukiwarki
 
 ## Privacy Section - Tracking
 
+tracking-header = Ochrona przed śledzeniem
 
 ## Privacy Section - Permissions
 
+permissions-header = Uprawnienia
+permissions-location = Położenie
+permissions-camera = Kamera
+permissions-microphone = Mikrofon
+permissions-notification = Powiadomienia.
+permissions-notification-link = Więcej informacji
+permissions-notification-pause =
+    .label = Wstrzymaj powiadomienia do czasu ponownego uruchomienia Firefoksa
+    .accesskey = W
+permissions-a11y-privacy-link = Więcej informacji
 
 ## Privacy Section - Data Collection
 
+collection-privacy-notice = Uwagi dotyczące prywatności
+collection-health-report-link = Więcej informacji
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Przesyłanie danych jest wyłączone przy tej konfiguracji programu
+collection-browser-errors =
+    .label = Przesyłanie raportów z błędów przeglądarki (razem z treścią błędów) do Mozilli.
+    .accesskey = { "" }
+collection-browser-errors-link = Więcej informacji
+collection-backlogged-crash-reports =
+    .label = Przesyłanie zgromadzonych raportów z awarii.
+    .accesskey = { "" }
+collection-backlogged-crash-reports-link = Więcej informacji
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Bezpieczeństwo
+security-browsing-protection = Ochrona przed oszustwami i niebezpiecznym oprogramowaniem
+security-enable-safe-browsing-link = Więcej informacji
 
 ## Privacy Section - Certificates
 
 certs-header = Certyfikaty
+certs-personal-label = Kiedy serwer żąda osobistego certyfikatu użytkownika:
