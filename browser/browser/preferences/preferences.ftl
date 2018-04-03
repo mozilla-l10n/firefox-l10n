@@ -361,15 +361,25 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = Beskyttelse af privatliv
 
 ## Privacy Section - Forms
 
+forms-remember-logins =
+    .label = Husk logins og adgangskoder til websteder
+    .accesskey = H
 forms-exceptions =
     .label = Undtagelser…
     .accesskey = U
+forms-saved-logins =
+    .label = Gemte logins…
+    .accesskey = G
 forms-master-pw-use =
     .label = Benyt en hovedadgangskode
     .accesskey = B
+forms-master-pw-change =
+    .label = Skift hovedadgangskode…
+    .accesskey = h
 
 ## Privacy Section - History
 
@@ -393,6 +403,9 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = Læs mere
+sitedata-keep-until = Behold indtil
+    .accesskey = e
 sitedata-accept-third-party-always-option =
     .label = Altid
 sitedata-accept-third-party-visited-option =
@@ -405,30 +418,127 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Adresselinje
+addressbar-suggest = Når jeg bruger adresselinjen ønsker jeg forslag fra
+addressbar-locbar-history-option =
+    .label = Historik
+    .accesskey = H
+addressbar-locbar-bookmarks-option =
+    .label = Bogmærker
+    .accesskey = k
+addressbar-locbar-openpage-option =
+    .label = Åbne faneblade
+    .accesskey = f
 
 ## Privacy Section - Tracking
 
+tracking-header = Beskyttelse mod sporing
+tracking-mode-always =
+    .label = Altid
+    .accesskey = A
+tracking-mode-private =
+    .label = Kun i private vinduer
+    .accesskey = p
+tracking-mode-never =
+    .label = Aldrig
+    .accesskey = l
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Brug beskyttelse mod sporing i privat browsing for at blokere kendte sporings-tjenester
+    .accesskey = p
+tracking-exceptions =
+    .label = Undtagelser…
+    .accesskey = u
+tracking-change-block-list =
+    .label = Skift blokerings-liste
+    .accesskey = S
 
 ## Privacy Section - Permissions
 
+permissions-header = Tilladelser
+permissions-location = Position
+permissions-location-settings =
+    .label = Indstillinger…
+    .accesskey = I
+permissions-camera = Kamera
+permissions-camera-settings =
+    .label = Indstillinger…
+    .accesskey = I
+permissions-microphone = Mikrofon
+permissions-microphone-settings =
+    .label = Indstillinger…
+    .accesskey = I
+permissions-notification = Beskeder
+permissions-notification-settings =
+    .label = Indstillinger…
+    .accesskey = I
+permissions-notification-link = Læs mere
+permissions-notification-pause =
+    .label = Sæt beskeder på pause, indtil { -brand-short-name } starter igen
+    .accesskey = b
 permissions-block-popups =
     .label = Bloker pop op-vinduer
     .accesskey = B
 permissions-block-popups-exceptions =
     .label = Undtagelser…
     .accesskey = U
+permissions-addon-install-warning =
+    .label = Advar mig når websteder forsøger at installere tilføjelser
+    .accesskey = A
 permissions-addon-exceptions =
     .label = Undtagelser…
     .accesskey = t
+permissions-a11y-privacy-checkbox =
+    .label = Lad ikke tilgængeligheds-tjenester få adgang til din browser
+    .accesskey = t
+permissions-a11y-privacy-link = Læs mere
 
 ## Privacy Section - Data Collection
 
+collection-header = Indsamling og brug af data i { -brand-short-name }
+collection-description = Vi stræber efter at give dig mulighed for selv at vælge og indsamler kun, hvad vi har brug for til at forbedre { -brand-short-name } for alle. Vi spørger altid om din tilladelse, før vi modtager personlig information.
+collection-privacy-notice = Privatlivspolitik
+collection-health-report =
+    .label = Tillad at { -brand-short-name } indsender tekniske data og data om brug til { -vendor-short-name }
+    .accesskey = d
+collection-health-report-link = Læs mere
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Data-rapportering er deaktiveret for denne build-konfiguration
+collection-backlogged-crash-reports-link = Læs mere
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-browsing-protection = Beskyttelse mod vildledende indhold og farlig software
+security-enable-safe-browsing =
+    .label = Bloker farlige og vildledende websteder
+    .accesskey = B
+security-enable-safe-browsing-link = Læs mere
+security-block-downloads =
+    .label = Bloker hentning af farlige filer
+    .accesskey = o
+security-block-uncommon-software =
+    .label = Advar mig om uønsket og usædvanlig software
+    .accesskey = d
 
 ## Privacy Section - Certificates
 
+certs-header = Certifikater
+certs-select-auto-option =
+    .label = Vælg et automatisk
+    .accesskey = V
+certs-select-ask-option =
+    .label = Spørg mig hver gang
+    .accesskey = h
+certs-enable-ocsp =
+    .label = Send forespørgsel til OCSP responder-servere for at bekræfte certifikaters aktuelle gyldighed
+    .accesskey = O
+certs-view =
+    .label = Vis certificater…
+    .accesskey = c
+certs-devices =
+    .label = Sikkerhedsmoduler…
+    .accesskey = S
