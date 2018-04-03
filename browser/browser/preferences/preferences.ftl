@@ -382,3 +382,70 @@ containers-preferences-button =
     .label = העדפות
 containers-remove-button =
     .label = הסרה
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = חריגות…
+    .accesskey = ר
+
+## Privacy Section - History
+
+history-dontremember-description = { -brand-short-name } ישתמש באותן ההגדרות לגלישה פרטית, ולא יזכור היסטוריה כלשהי במהלך הגלישה שלך ברשת.
+history-private-browsing-permanent =
+    .label = שימוש תמידי במצב גלישה פרטית
+    .accesskey = ה
+history-remember-option =
+    .label = שמירת היסטורית גלישה והורדות
+    .accesskey = ג
+history-remember-search-option =
+    .label = שמירת חיפושים והיסטורית טפסים
+    .accesskey = ט
+history-clear-on-close-option =
+    .label = מחיקת היסטוריה כאשר { -brand-short-name } נסגר
+    .accesskey = נ
+history-clear-on-close-settings =
+    .label = הגדרות…
+    .accesskey = ה
+
+## Privacy Section - Site Data
+
+sitedata-accept-third-party-always-option =
+    .label = תמיד
+sitedata-accept-third-party-never-option =
+    .label = לעולם לא
+sitedata-cookies-exceptions =
+    .label = חריגות…
+    .accesskey = ח
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-block-popups =
+    .label = חסימת חלונות קופצים
+    .accesskey = ח
+permissions-addon-exceptions =
+    .label = חריגות…
+    .accesskey = ח
+
+## Privacy Section - Data Collection
+
+collection-health-report-link = מידע נוסף
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
+certs-header = אישורים
