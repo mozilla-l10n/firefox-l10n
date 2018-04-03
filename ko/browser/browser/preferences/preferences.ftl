@@ -361,6 +361,7 @@ privacy-header = 브라우저 개인정보
 
 ## Privacy Section - Forms
 
+forms-header = 서식과 비밀번호
 forms-remember-logins =
     .label = 웹사이트 로그인과 비밀번호 기억
     .accesskey = R
@@ -444,9 +445,11 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = 탭 열기
     .accesskey = O
+addressbar-suggestions-settings = 검색 엔진 추천 설정 변경
 
 ## Privacy Section - Tracking
 
+tracking-header = 추적 방지
 tracking-description = 추적 방지 기능은 여러 웹사이트에 걸처 사용자의 탐색 데이터를 수집하는 추적자를 차단합니다. <a>추적 방지와 개인정보 보호 살펴보기</a>
 tracking-mode-label = 알려진 추적자를 차단하는 추적 방지 기능 사용
 tracking-mode-always =
