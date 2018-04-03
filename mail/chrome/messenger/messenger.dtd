@@ -36,6 +36,12 @@
 <!ENTITY newFeedAccountCmd.accesskey "n">
 <!ENTITY newIMContactCmd.label "Kenalan Sembang…">
 <!ENTITY newIMContactCmd.accesskey "b">
+<!ENTITY  newMessageCmd2.key "N">
+<!ENTITY  newMessageCmd.key "M">
+<!ENTITY  newMessageCmd.label "Mesej">
+<!ENTITY  newMessageCmd.accesskey "m">
+<!ENTITY  newContactCmd.label "Kenalan Buku Alamat…">
+<!ENTITY  newContactCmd.accesskey "K">
 <!ENTITY openMessageFileCmd.label "Buka Mesej Disimpan…">
 <!ENTITY openMessageFileCmd.accesskey "B">
 <!ENTITY saveAsMenu.label "Simpan Sebagai">
@@ -317,7 +323,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Sembang">
 <!ENTITY goChatCmd.accesskey "S">
-<!ENTITY goChatCmd.key "I">
 <!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Mesej Berbintang">
 <!ENTITY prevStarredMsgCmd.accesskey "B">
@@ -510,8 +515,6 @@
 <!ENTITY devToolboxCmd.label "Kotak Alatan Pembangun">
 <!ENTITY devToolboxCmd.accesskey "K">
 <!ENTITY devToolboxCmd.commandkey "i">
-<!ENTITY addonDebugCmd.label "Penyahpepijat Add-on">
-<!ENTITY addonDebugCmd.accesskey "A">
 <!ENTITY debugAddonsCmd.label "Add-ons Nyahpepijat">
 <!ENTITY debugAddonsCmd.accesskey "A">
 <!ENTITY tabsDebugCmd.label "Penyahpepijat Bingkai Kandungan">

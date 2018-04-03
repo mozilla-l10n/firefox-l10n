@@ -9,6 +9,7 @@
 <!ENTITY iconsAndText.label       "Ikon dan Teks">
 <!ENTITY icons.label              "Ikon">
 <!ENTITY text.label               "Teks">
+<!ENTITY iconsBesideText.label    "Ikon sebelah Teks">
 <!ENTITY useSmallIcons.label      "Guna Ikon Kecil">
 <!ENTITY restoreDefaultSet.label  "Pulih Set Piawai">
 <!ENTITY addNewToolbar.label      "Tambah Bar Alat Baru">
