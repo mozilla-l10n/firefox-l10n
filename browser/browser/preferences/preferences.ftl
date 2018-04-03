@@ -387,9 +387,20 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = Naršyklės privatumas
 
 ## Privacy Section - Forms
 
+forms-header = Formos ir slaptažodžiai
+forms-remember-logins =
+    .label = Atsiminti svetainių prisijungimus
+    .accesskey = A
+forms-exceptions =
+    .label = Išimtys…
+    .accesskey = š
+forms-saved-logins =
+    .label = Įrašyti prisijungimai…
+    .accesskey = p
 forms-master-pw-use =
     .label = Naudoti pagrindinį slaptažodį
     .accesskey = N
@@ -399,9 +410,29 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-header = Žurnalas
+history-dontremember-description = „{ -brand-short-name }“ visą laiką laikysis privačiojo naršymo seanso nuostatų ir nepildys naršymo žurnalo.
+history-private-browsing-permanent =
+    .label = Visada naršyti privačiojo naršymo veiksenoje
+    .accesskey = V
+history-remember-option =
+    .label = Įsiminti lankytus tinklalapius ir parsiųstus failus
+    .accesskey = m
+history-remember-search-option =
+    .label = Įsiminti įvestas formų ir paieškos laukų reiškmes
+    .accesskey = o
+history-clear-on-close-option =
+    .label = Išvalyti žurnalą baigiant „{ -brand-short-name }“ darbą
+    .accesskey = b
+history-clear-on-close-settings =
+    .label = Nuostatos…
+    .accesskey = u
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = Sužinoti daugiau
+sitedata-accept-third-party-always-option =
+    .label = Visada
 sitedata-accept-third-party-visited-option =
     .label = tik lankytoms svetainėms
 sitedata-accept-third-party-never-option =
@@ -412,28 +443,87 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-suggestions-settings = Keisti ieškyklių siūlymų nuostatas
 
 ## Privacy Section - Tracking
 
+tracking-header = Apsauga nuo stebėjimo
+tracking-mode-always =
+    .label = Visada
+    .accesskey = V
+tracking-mode-private =
+    .label = Tik privačiojo naršymo languose
+    .accesskey = T
+tracking-mode-never =
+    .label = Niekada
+    .accesskey = N
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Naudokite apsaugą nuo stebėjimo privačiojo naršymo veiksenoje, norėdami užblokuoti žinomus stebėjimo elementus
+    .accesskey = v
+tracking-exceptions =
+    .label = Išimtys…
+    .accesskey = I
+tracking-change-block-list =
+    .label = Keisti blokavimo sąrašą…
+    .accesskey = K
 
 ## Privacy Section - Permissions
 
+permissions-header = Leidimai
+permissions-notification = Pranešimai
 permissions-block-popups =
     .label = Neleisti iškylančiųjų langų
     .accesskey = N
+permissions-block-popups-exceptions =
+    .label = Išimtys
+    .accesskey = I
+permissions-addon-install-warning =
+    .label = Įspėti, kai svetainės bando diegti priedus
+    .accesskey = t
+permissions-addon-exceptions =
+    .label = Išimtys…
+    .accesskey = I
 
 ## Privacy Section - Data Collection
 
+collection-header = „{ -brand-short-name }“ duomenų rinkimas ir naudojimas
+collection-description = Mes siekiame jums leisti rinktis ir rinkti tik tai, ko reikia teikti ir tobulinti „{ -brand-short-name }“ visiems. Mes visuomet paprašome leidimo prieš gaudami asmeninę informaciją.
+collection-privacy-notice = Privatumo nuostatai
+collection-health-report-link = Sužinoti daugiau
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Duomenų siuntimas šiai darinio sąrankai yra išjungtas
+collection-backlogged-crash-reports-link = Sužinoti daugiau
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Saugumas
+security-enable-safe-browsing =
+    .label = Blokuoti pavojingą ir apgaulingą turinį
+    .accesskey = B
+security-block-downloads =
+    .label = Blokuoti pavojingus atsiuntimus
+    .accesskey = p
+security-block-uncommon-software =
+    .label = Įspėti apie nepageidaujamą ir neįprastą programinę įrangą
+    .accesskey = r
 
 ## Privacy Section - Certificates
 
 certs-header = Liudijimai
+certs-select-ask-option =
+    .label = visada klausti
+    .accesskey = v
 certs-enable-ocsp =
     .label = Tikrinti liudijimų galiojimą, užklausiant OCSP atsakiklių
     .accesskey = O
+certs-view =
+    .label = Peržiūrėti liudijimus…
+    .accesskey = l
+certs-devices =
+    .label = Saugumo priemonės…
+    .accesskey = S
