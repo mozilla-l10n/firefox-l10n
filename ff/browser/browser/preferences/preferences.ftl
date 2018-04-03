@@ -357,3 +357,134 @@ containers-preferences-button =
     .label = Cuɓaaɗe
 containers-remove-button =
     .label = Momtu
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-header = Formileeruuji & pinle
+forms-exceptions =
+    .label = Paltooje…
+    .accesskey = a
+forms-saved-logins =
+    .label = Ceŋorɗe Danndaaɗe…
+    .accesskey = D
+forms-master-pw-use =
+    .label = Huutoro finnde baabaare
+    .accesskey = o
+forms-master-pw-change =
+    .label = Waylu Finnde Baabaare…
+    .accesskey = B
+
+## Privacy Section - History
+
+history-header = Aslol
+history-dontremember-description = { -brand-short-name } maa huutoro teelte banngagol suturo ɗee tee teskotaako hay aslol gootol tuma nde mbanngoto-ɗaa e nder Geese.
+history-private-browsing-permanent =
+    .label = Huutoro peeragol suturo sahaa kala
+    .accesskey = o
+history-remember-option =
+    .label = Siiftor peeragol am tee aawto aslol
+    .accesskey = t
+history-remember-search-option =
+    .label = Tesko aslol njiylawu e porme
+    .accesskey = e
+history-clear-on-close-option =
+    .label = Mumtu aslol so { -brand-short-name } uddaama
+    .accesskey = o
+history-clear-on-close-settings =
+    .label = Teelte…
+    .accesskey = e
+
+## Privacy Section - Site Data
+
+sitedata-learn-more = Jokku taro
+sitedata-accept-third-party-always-option =
+    .label = Sahaa kala
+sitedata-accept-third-party-visited-option =
+    .label = Iwɗi e jillaaɗe
+sitedata-accept-third-party-never-option =
+    .label = Hay sahaa
+sitedata-cookies-exceptions =
+    .label = Palooje…
+    .accesskey = P
+
+## Privacy Section - Address Bar
+
+addressbar-locbar-bookmarks-option =
+    .label = Maantore
+    .accesskey = t
+addressbar-locbar-openpage-option =
+    .label = Tabbe udditiiɗe
+    .accesskey = T
+addressbar-suggestions-settings = Waylu cuɓe wonande cakkitte yiylorde
+
+## Privacy Section - Tracking
+
+tracking-header = Huutoro Ndeenka Dewindol
+tracking-mode-always =
+    .label = Sahaa kala
+    .accesskey = a
+tracking-mode-private =
+    .label = E henorde suuriinde tan
+    .accesskey = o
+tracking-mode-never =
+    .label = Hay sahaa
+    .accesskey = H
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Huutoro ndeenka dewindagol nder banngagol sutura ngam faddaade ñukkintooɓe anndaaɓe
+    .accesskey = v
+tracking-exceptions =
+    .label = Paltooje…
+    .accesskey = a
+
+## Privacy Section - Permissions
+
+permissions-header = Jamirooje
+permissions-notification = Tintine
+permissions-block-popups =
+    .label = Falo kenorɗe cuppitte
+    .accesskey = o
+permissions-block-popups-exceptions =
+    .label = Paltooje…
+    .accesskey = P
+permissions-addon-exceptions =
+    .label = Paltooje…
+    .accesskey = P
+
+## Privacy Section - Data Collection
+
+collection-health-report-link = Jokku Taro
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Ciimti keɓe ko daaƴaaɗi wonande kaa ngonka mahngo
+collection-backlogged-crash-reports-link = Jokku taro
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+security-header = Kisal
+security-enable-safe-browsing =
+    .label = Falo loowi mbonndi e puuntoori
+    .accesskey = F
+security-block-downloads =
+    .label = Falo gaawte bonnooje
+    .accesskey = b
+security-block-uncommon-software =
+    .label = Reentin am baɗte topirɗe gañaaɗe walla kaawniiɗe
+    .accesskey = c
+
+## Privacy Section - Certificates
+
+certs-header = Seedamfaaji
+certs-personal-label = So sarworde ɗaɓɓii seedamfaagu maa keeriingu:
+certs-select-auto-option =
+    .label = Labo gootal e jaajol
+    .accesskey = D
+certs-select-ask-option =
+    .label = Naamno mo e sahaa kala
+    .accesskey = Y
