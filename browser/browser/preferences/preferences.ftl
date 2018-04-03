@@ -351,9 +351,14 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = ਬਰਾਊਜ਼ਰ ਪਰਦੇਦਾਰੀ
 
 ## Privacy Section - Forms
 
+forms-header = ਫਾਰਮ ਤੇ ਪਾਸਵਰਡ
+forms-remember-logins =
+    .label = ਵੈੱਬਸਾਈਟਾਂ ਲਈ ਲਾਗਇਨ ਅਤੇ ਪਾਸਵਰਡ ਯਾਦ ਰੱਖੋ
+    .accesskey = R
 forms-exceptions =
     .label = …ਛੋਟਾਂ
     .accesskey = x
@@ -390,6 +395,8 @@ history-clear-on-close-settings =
 ## Privacy Section - Site Data
 
 sitedata-learn-more = ਹੋਰ ਜਾਣੋ
+sitedata-keep-until = ਇਸ ਤੱਕ ਰੱਖੋ
+    .accesskey = u
 sitedata-accept-third-party-always-option =
     .label = ਹਮੇਸ਼ਾ
 sitedata-accept-third-party-visited-option =
@@ -402,15 +409,22 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-header = ਸਿਰਨਾਵਾਂ ਪੱਟੀ
+addressbar-suggest = ਜਦੋਂ ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਵਰਤੀ ਜਾਂਦੀ ਹੋਵੇ ਤਾਂ ਸੁਝਾਓ
+addressbar-locbar-history-option =
+    .label = ਬਰਾਊਜ਼ਿੰਗ ਅਤੀਤ
+    .accesskey = H
 addressbar-locbar-bookmarks-option =
     .label = ਬੁੱਕਮਾਰਕ
     .accesskey = k
 addressbar-locbar-openpage-option =
     .label = ਟੈਬਾਂ ਖੋਲ੍ਹੋ
     .accesskey = O
+addressbar-suggestions-settings = ਖੋਜ ਇੰਜਣ ਸੁਝਆਵਾਂ ਲਈ ਪਸੰਦਾਂ ਨੂੰ ਬਦਲੋ
 
 ## Privacy Section - Tracking
 
+tracking-header = ਟਰੈਕਿੰਗ ਤੋਂ ਸੁਰੱਖਿਆ
 tracking-mode-always =
     .label = ਹਮੇਸ਼ਾ
     .accesskey = y
@@ -420,38 +434,93 @@ tracking-mode-private =
 tracking-mode-never =
     .label = ਕਦੇ ਨਹੀਂ
     .accesskey = n
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = ਪਛਾਣੇ ਹੋਏ ਟਰੈਕਾਂ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾਉਣ ਲਈ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਵਿੱਚ ਟਰੈਕ ਹੋਣ ਤੋਂ ਸੁਰੱਖਿਆ ਦਿਓ
+    .accesskey = v
 tracking-exceptions =
     .label = …ਛੋਟਾਂ
     .accesskey = x
+tracking-change-block-list =
+    .label = ਪਾਬੰਦੀ ਸੂਚੀ ਬਦਲੋ…
+    .accesskey = C
 
 ## Privacy Section - Permissions
 
+permissions-header = ਇਜਾਜ਼ਤਾਂ
+permissions-location = ਟਿਕਾਣਾ
+permissions-location-settings =
+    .label = …ਸੈਟਿੰਗਾਂ
+    .accesskey = t
+permissions-camera = ਕੈਮਰਾ
+permissions-camera-settings =
+    .label = …ਸੈਟਿੰਗਾਂ
+    .accesskey = t
+permissions-microphone = ਮਾਈਕਰੋਫ਼ੋਨ
+permissions-microphone-settings =
+    .label = …ਸੈਟਿੰਗਾਂ
+    .accesskey = t
+permissions-notification = ਨੋਟੀਫਿਕੇਸ਼ਨ
+permissions-notification-settings =
+    .label = …ਸੈਟਿੰਗਾਂ
+    .accesskey = t
+permissions-notification-link = ਹੋਰ ਜਾਣੋ
+permissions-notification-pause =
+    .label = { -brand-short-name } ਮੁੜ-ਚਾਲੂ ਹੋਣ ਤੱਕ ਸੂਚਨਾਵਾਂ ਨੂੰ ਰੋਕੋ
+    .accesskey = n
 permissions-block-popups =
     .label = ਪੋਪਅੱਪ ਵਿੰਡੋ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾਓ
     .accesskey = B
+permissions-block-popups-exceptions =
+    .label = …ਛੋਟ
+    .accesskey = E
+permissions-addon-install-warning =
+    .label = ਜਦੋਂ ਵੈੱਬਸਾਈਟਾਂ ਐਡ-ਆਨ ਇੰਸਟਾਲ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ਾਂ ਕਰਨ ਤਾਂ ਤੁਹਾਨੂੰ ਸਾਵਧਾਨ ਕਰੋ
+    .accesskey = W
 permissions-addon-exceptions =
     .label = …ਛੋਟਾਂ
     .accesskey = E
+permissions-a11y-privacy-checkbox =
+    .label = ਅਸੈਸਬਿਲਟੀ ਸੇਵਾਵਾਂ ਨੂੰ ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਲਈ ਪਹੁੰਚ ਤੋਂ ਰੋਕ ਲਗਾਓ
+    .accesskey = a
+permissions-a11y-privacy-link = ਹੋਰ ਜਾਣੋ
 
 ## Privacy Section - Data Collection
 
+collection-header = { -brand-short-name } ਡਾਟਾ ਇਕੱਤਰ ਕਰਨਾ ਅਤੇ ਵਰਤੋ
+collection-privacy-notice = ਪਰਦੇਦਾਰੀ ਸੂਚਨਾ
+collection-health-report =
+    .label = { -brand-short-name } ਨੂੰ ਮੌਜ਼ੀਲਾ ਨੂੰ ਤਕਨੀਕੀ ਅਤੇ ਤਾਲਮੇਲ ਡਾਟਾ ਭੇਜਣ ਦੀ ਇਜ਼ਾਜ਼ਤ ਦਿਓ
+    .accesskey = r
 collection-health-report-link = ਹੋਰ ਜਾਣੋ
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = ਇਸ ਬਿਲਡ ਸੰਰਚਨਾ ਲਈ ਡਾਟਾ ਰਿਪੋਰਟ ਕਰਨਾ ਅਸਮਰੱਥ ਹੈ
+collection-browser-errors-link = ਹੋਰ ਜਾਣੋ
+collection-backlogged-crash-reports-link = ਹੋਰ ਜਾਣੋ
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = ਸੁਰੱਖਿਆ
+security-browsing-protection = ਭਰਮਪੂਰਨ ਸਮੱਗਰੀ ਅਤੇ ਖ਼ਤਰਨਾਕ ਸਾਫਟਵੇਅਰ ਸੁਰੱਖਿਆ
 security-enable-safe-browsing =
     .label = ਖ਼ਤਰਨਾਕ ਅਤੇ ਭਰਮਪੂਰਕ ਸਮੱਗਰੀ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਓ
     .accesskey = B
+security-enable-safe-browsing-link = ਹੋਰ ਜਾਣੋ
 security-block-downloads =
     .label = ਖ਼ਤਰਨਾਕ ਡਾਊਨਲੋਡਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਓ
     .accesskey = D
+security-block-uncommon-software =
+    .label = ਤੁਹਾਨੂੰ ਅਣਚਾਹੇ ਅਤੇ ਬੇਲੋੜੇ ਸਾਫਟਵੇਅਰਾਂ ਬਾਰੇ ਚੇਤਾਵਨੀ ਦਿੰਦਾ ਹੈ
+    .accesskey = C
 
 ## Privacy Section - Certificates
 
 certs-header = ਸਰਟੀਫਿਕੇਟ
+certs-personal-label = ਜਦ ਸਰਵਰ ਤੁਹਾਡੇ ਪਰਸਨਲ ਸਰਟੀਫਿਕੇਟ ਦੀ ਮੰਗ ਕਰੇ
 certs-select-auto-option =
     .label = ਕਿਸੇ ਦੀ ਆਪਣੇ-ਆਪ ਚੋਣ ਕਰੋ
     .accesskey = S
@@ -461,3 +530,9 @@ certs-select-ask-option =
 certs-enable-ocsp =
     .label = { " " }ਕਿਊਰੀ OCSP ਜਵਾਬ-ਦੇਣ ਵਾਲੇ ਸਰਵਰਾਂ ਨੂੰ ਸਰਟੀਫਿਕੇਟਾਂ ਦੀ ਮੌਜੂਦਾ ਵੈਧਤਾ ਦੀ ਪਸ਼ਟੀ ਕਰਨ
     .accesskey = Q
+certs-view =
+    .label = …ਸਰਟੀਫਿਕੇਟ ਵੇਖੋ
+    .accesskey = C
+certs-devices =
+    .label = …ਸੁਰੱਖਿਆ ਡਿਵਾਈਸ
+    .accesskey = D
