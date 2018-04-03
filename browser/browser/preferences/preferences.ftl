@@ -345,3 +345,48 @@ containers-preferences-button =
     .label = Postavke
 containers-remove-button =
     .label = Ukloni
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = Iznimke...
+    .accesskey = m
+
+## Privacy Section - History
+
+history-remember-search-option =
+    .label = Zapamti povijest traženja i formi
+    .accesskey = f
+history-clear-on-close-option =
+    .label = Očisti povijest pri zatvaranju { -brand-short-name }
+    .accesskey = z
+history-clear-on-close-settings =
+    .label = Postavke…
+    .accesskey = t
+
+## Privacy Section - Site Data
+
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
