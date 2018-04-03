@@ -380,3 +380,57 @@ containers-preferences-button =
     .label = Налады
 containers-remove-button =
     .label = Выдаліць
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = Выключэнні…
+    .accesskey = ы
+forms-master-pw-use =
+    .label = Ужываць галоўны пароль
+    .accesskey = У
+forms-master-pw-change =
+    .label = Змяніць галоўны пароль…
+    .accesskey = З
+
+## Privacy Section - History
+
+history-remember-search-option =
+    .label = Памятаць гісторыю пошуку і запаўнення формаў
+    .accesskey = ш
+history-clear-on-close-option =
+    .label = Ачышчаць гісторыю, калі { -brand-short-name } закрываецца
+    .accesskey = ч
+
+## Privacy Section - Site Data
+
+sitedata-cookies-exceptions =
+    .label = Выключэнні…
+    .accesskey = В
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-addon-exceptions =
+    .label = Выключэнні…
+    .accesskey = В
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
