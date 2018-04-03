@@ -186,6 +186,8 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-never-option =
+    .label = Аны хаһан да
 sitedata-cookies-exceptions =
     .label = Туорааһыннар…
     .accesskey = Т
