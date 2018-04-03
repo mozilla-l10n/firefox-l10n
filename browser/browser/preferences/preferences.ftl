@@ -387,24 +387,71 @@ containers-remove-button =
 forms-exceptions =
     .label = Unntak …
     .accesskey = n
+forms-saved-logins =
+    .label = Lagrede innlogginger …
+    .accesskey = L
+forms-master-pw-use =
+    .label = Bruk et hovedpassord
+    .accesskey = r
 forms-master-pw-change =
     .label = Endre hovedpassord …
     .accesskey = d
 
 ## Privacy Section - History
 
+history-header = Historikk
+history-dontremember-description = { -brand-short-name } vil bruke de samme innstillingene som privat nettlesing, og vil ikke huske noen historikk mens du bruker nettet.
+history-private-browsing-permanent =
+    .label = Alltid bruk privat nettlesing-modus
+    .accesskey = A
+history-remember-option =
+    .label = Husk nettleser- og nedlastingshistorikk
+    .accesskey = d
+history-remember-search-option =
+    .label = Husk søke- og skjemahistorikk
+    .accesskey = ø
+history-clear-on-close-option =
+    .label = Slett historikk når { -brand-short-name } avsluttes
+    .accesskey = S
+history-clear-on-close-settings =
+    .label = Innstillinger …
+    .accesskey = I
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-always-option =
+    .label = Alltid
+sitedata-accept-third-party-visited-option =
+    .label = Fra besøkte
+sitedata-accept-third-party-never-option =
+    .label = Aldri
 sitedata-cookies-exceptions =
     .label = Unntak …
     .accesskey = U
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-bookmarks-option =
+    .label = Bokmerker
+    .accesskey = k
+addressbar-locbar-openpage-option =
+    .label = Åpne faner
+    .accesskey = f
 
 ## Privacy Section - Tracking
 
+tracking-mode-always =
+    .label = Alltid
+    .accesskey = l
+tracking-mode-private =
+    .label = Bare i private vinduer
+    .accesskey = B
+tracking-mode-never =
+    .label = Aldri
+    .accesskey = A
+tracking-exceptions =
+    .label = Unntak …
+    .accesskey = U
 
 ## Privacy Section - Permissions
 
@@ -417,12 +464,23 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Data Collection
 
+collection-health-report-link = Les mer
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-enable-safe-browsing =
+    .label = Blokker farlig og villendende innhold
+    .accesskey = B
+security-block-downloads =
+    .label = Blokker farlige nedlastinger
+    .accesskey = f
 
 ## Privacy Section - Certificates
 
+certs-header = Sertifikater
+certs-enable-ocsp =
+    .label = Spør OCSP-servere om å bekrefte gyldigheten til sertifikater
+    .accesskey = O
