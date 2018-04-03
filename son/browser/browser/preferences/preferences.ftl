@@ -336,3 +336,4 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Certificates
 
+certs-header = Tabatiyan-tiirawey
