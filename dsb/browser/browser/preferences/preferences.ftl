@@ -382,3 +382,75 @@ containers-preferences-button =
     .label = Nastajenja
 containers-remove-button =
     .label = Wótwónoźeś
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = Wuwześa…
+    .accesskey = u
+forms-master-pw-use =
+    .label = Głowne gronidło wužywaś
+    .accesskey = G
+forms-master-pw-change =
+    .label = Głowne gronidło změniś…
+    .accesskey = m
+
+## Privacy Section - History
+
+history-dontremember-description = { -brand-short-name } buźo te samske nastajenja ako w priwatnem modusu wužywaś a njebuźo se historiju markowaś, gaž Web pśeglědujośo.
+history-private-browsing-permanent =
+    .label = Pśecej priwatny modus wužywaś
+    .accesskey = p
+history-remember-option =
+    .label = Se pśeglědowańsku a ześěgnjeńsku historiju spomnjeś
+    .accesskey = l
+history-remember-search-option =
+    .label = Pytańsku a formularnu historiju se spomnjeś
+    .accesskey = f
+history-clear-on-close-option =
+    .label = Historiju wuprozniś, gaž { -brand-short-name } se zacynja
+    .accesskey = H
+history-clear-on-close-settings =
+    .label = Nastajenja…
+    .accesskey = N
+
+## Privacy Section - Site Data
+
+sitedata-accept-third-party-visited-option =
+    .label = Jano wót woglědanych tśeśich
+sitedata-accept-third-party-never-option =
+    .label = Nigda
+sitedata-cookies-exceptions =
+    .label = Wuwześa…
+    .accesskey = W
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-block-popups =
+    .label = Wuskokujuce wokno blokěrowaś
+    .accesskey = k
+permissions-addon-exceptions =
+    .label = Wuwześa…
+    .accesskey = W
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
+certs-header = Certifikaty
