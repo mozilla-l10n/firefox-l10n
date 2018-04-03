@@ -388,6 +388,10 @@ containers-remove-button =
 
 ## Privacy Section - Forms
 
+forms-header = ફોર્મ્સ & પાસવર્ડ્સ
+forms-remember-logins =
+    .label = વેબસાઇટ્સ માટે લૉગિન અને પાસવર્ડ્સ યાદ રાખો
+    .accesskey = R
 forms-exceptions =
     .label = અપવાદો...
     .accesskey = x
@@ -419,6 +423,8 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-keep-until = ત્યાં સુધી રાખો
+    .accesskey = u
 sitedata-accept-third-party-always-option =
     .label = હંમેશા
 sitedata-accept-third-party-visited-option =
@@ -440,6 +446,9 @@ sitedata-cookies-exceptions =
 permissions-block-popups =
     .label = પોપ-અપ વિન્ડો અટકાવો
     .accesskey = B
+permissions-addon-install-warning =
+    .label = તમને ચેતવે છે જ્યારે વેબસાઇટ્સ ઍડ-ઑન્સ ઇન્સ્ટોલ કરવાનો પ્રયાસ કરે છે
+    .accesskey = W
 permissions-addon-exceptions =
     .label = અપવાદો...
     .accesskey = E
@@ -453,6 +462,7 @@ collection-health-report-link = વધારે શીખો
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-browsing-protection = ભ્રામક સામગ્રી અને ડેન્જરસ સોફ્ટવેર પ્રોટેક્શન
 
 ## Privacy Section - Certificates
 
