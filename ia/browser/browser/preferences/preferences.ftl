@@ -382,3 +382,190 @@ containers-preferences-button =
     .label = Preferentias
 containers-remove-button =
     .label = Remover
+
+## Privacy Section
+
+privacy-header = Confidentialitate del navigator
+
+## Privacy Section - Forms
+
+forms-header = Formularios e contrasignos
+forms-remember-logins =
+    .label = Memorisar le authenticationes e contrasignos pro le sitos web
+    .accesskey = R
+forms-exceptions =
+    .label = Exceptiones…
+    .accesskey = x
+forms-saved-logins =
+    .label = Authenticationes salvate…
+    .accesskey = L
+forms-master-pw-use =
+    .label = Usar un contrasigno maestro
+    .accesskey = U
+forms-master-pw-change =
+    .label = Modificar le contrasigno maestro…
+    .accesskey = M
+
+## Privacy Section - History
+
+history-header = Chronologia
+history-dontremember-description = { -brand-short-name } usara le mesme parametros que pro le navigation private e non memorisara le chronologia durante que tu naviga le Web.
+history-private-browsing-permanent =
+    .label = Sempre usar le modo de navigation private
+    .accesskey = p
+history-remember-option =
+    .label = Memorisar mi chronologia de navigation e de discargamentos
+    .accesskey = M
+history-remember-search-option =
+    .label = Memorisar le chronologia de recercas e de formularios
+    .accesskey = f
+history-clear-on-close-option =
+    .label = Vacuar le chronologia quando { -brand-short-name } se claude
+    .accesskey = r
+history-clear-on-close-settings =
+    .label = Parametros…
+    .accesskey = t
+
+## Privacy Section - Site Data
+
+sitedata-learn-more = Saper plus
+sitedata-keep-until = Conservar usque
+    .accesskey = u
+sitedata-accept-third-party-always-option =
+    .label = Sempre
+sitedata-accept-third-party-visited-option =
+    .label = Del visitates
+sitedata-accept-third-party-never-option =
+    .label = Nunquam
+sitedata-cookies-exceptions =
+    .label = Exceptiones…
+    .accesskey = E
+
+## Privacy Section - Address Bar
+
+addressbar-header = Barra de adresse
+addressbar-suggest = Durante que tu usa le barra de adresse, suggerer
+addressbar-locbar-history-option =
+    .label = Chronologia de navigation
+    .accesskey = H
+addressbar-locbar-bookmarks-option =
+    .label = Marcapaginas
+    .accesskey = M
+addressbar-locbar-openpage-option =
+    .label = Schedas aperite
+    .accesskey = S
+addressbar-suggestions-settings = Cambiar le preferentias pro le suggestiones del motor de recerca
+
+## Privacy Section - Tracking
+
+tracking-header = Protection contra le traciamento
+tracking-mode-always =
+    .label = Sempre
+    .accesskey = S
+tracking-mode-private =
+    .label = Solmente in fenestras private
+    .accesskey = l
+tracking-mode-never =
+    .label = Nunquam
+    .accesskey = n
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Usar le protection contra le traciamento in navigation private pro blocar traciatores cognoscite
+    .accesskey = v
+tracking-exceptions =
+    .label = Exceptiones…
+    .accesskey = x
+tracking-change-block-list =
+    .label = Cambiar le lista de blocage…
+    .accesskey = C
+
+## Privacy Section - Permissions
+
+permissions-header = Permissiones
+permissions-location = Geolocalisation
+permissions-location-settings =
+    .label = Parametros…
+    .accesskey = t
+permissions-camera = Camera
+permissions-camera-settings =
+    .label = Parametros…
+    .accesskey = t
+permissions-microphone = Microphono
+permissions-microphone-settings =
+    .label = Parametros…
+    .accesskey = t
+permissions-notification = Notificationes
+permissions-notification-settings =
+    .label = Parametros…
+    .accesskey = t
+permissions-notification-link = Saper plus
+permissions-notification-pause =
+    .label = Pausar le notificationes usque { -brand-short-name } reinitia
+    .accesskey = n
+permissions-block-popups =
+    .label = Blocar le fenestras emergente
+    .accesskey = B
+permissions-block-popups-exceptions =
+    .label = Exceptiones…
+    .accesskey = E
+permissions-addon-install-warning =
+    .label = Advertir te quando sitos web tenta installar additivos
+    .accesskey = W
+permissions-addon-exceptions =
+    .label = Exceptiones…
+    .accesskey = E
+permissions-a11y-privacy-checkbox =
+    .label = Impedir que le servicios de accessibilitate accede a tu navigator
+    .accesskey = a
+permissions-a11y-privacy-link = Saper plus
+
+## Privacy Section - Data Collection
+
+collection-header = Collecta de datos e utilisation de { -brand-short-name }
+collection-description = Nos nos effortia pro lassar te in le commando e colliger solmente lo que nos ha necessitate pro provider e meliorar { -brand-short-name } a totes. Nos sempre demanda permission ante reciper informationes personal.
+collection-privacy-notice = Advertentia de confidentialitate
+collection-health-report =
+    .label = Permitter que { -brand-short-name } invia datos technic e de interaction a { -vendor-short-name }
+    .accesskey = r
+collection-health-report-link = Saper plus
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Le reporto de datos es inactive pro iste configuration de compilation
+collection-backlogged-crash-reports-link = Saper plus
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+security-header = Securitate
+security-browsing-protection = Protection contra contentos fraudulente e softwares periculose
+security-enable-safe-browsing =
+    .label = Blocar le contentos periculose o fraudulente
+    .accesskey = B
+security-block-downloads =
+    .label = Blocar le discargamentos periculose
+    .accesskey = D
+security-block-uncommon-software =
+    .label = Advertir te de software indesirabile o non commun
+    .accesskey = C
+
+## Privacy Section - Certificates
+
+certs-header = Certificatos
+certs-personal-label = Quando un servitor requesta tu certificato personal
+certs-select-auto-option =
+    .label = Seliger un automaticamente
+    .accesskey = S
+certs-select-ask-option =
+    .label = Questionar te a cata vice
+    .accesskey = A
+certs-enable-ocsp =
+    .label = Querer le servitores responditor OCSP pro confirmar le validitate actual del certificatos
+    .accesskey = Q
+certs-view =
+    .label = Vider le certificatos…
+    .accesskey = C
+certs-devices =
+    .label = Dispositivos de securitate…
+    .accesskey = D
