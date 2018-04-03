@@ -472,6 +472,7 @@ permissions-a11y-privacy-link = Matuto ng higit pa
 
 ## Privacy Section - Data Collection
 
+collection-header = { -brand-short-name } Koleksyon ng data at ang Paggamit
 collection-health-report-link = Karagdagang kaalaman
 collection-browser-errors-link = Matuto ng higit pa
 collection-backlogged-crash-reports-link = Karagdagang kaalaman
@@ -497,6 +498,9 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Mga sertipiko
+certs-select-auto-option =
+    .label = Pumili agad ng isa
+    .accesskey = S
 certs-select-ask-option =
     .label = Magtanong sayo palagi
     .accesskey = A
