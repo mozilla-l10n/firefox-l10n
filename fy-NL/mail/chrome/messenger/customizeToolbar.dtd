@@ -9,6 +9,7 @@
 <!ENTITY iconsAndText.label       "Ikoantsjes en tekst">
 <!ENTITY icons.label              "Ikoantsjes">
 <!ENTITY text.label               "Tekst">
+<!ENTITY iconsBesideText.label    "Ikoantsjes neist tekst">
 <!ENTITY useSmallIcons.label      "Lytse ikoantsjes brûke">
 <!ENTITY restoreDefaultSet.label  "Standertynstellingen werstelle">
 <!ENTITY addNewToolbar.label      "Nije arkbalke tafoegje">
