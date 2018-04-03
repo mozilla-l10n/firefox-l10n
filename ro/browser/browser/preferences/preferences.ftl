@@ -386,12 +386,28 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = Confidențialitate în browser
 
 ## Privacy Section - Forms
 
+forms-header = Formulare și parole
+forms-remember-logins =
+    .label = Reține autentificările și parolele pentru site-uri web
+    .accesskey = R
+forms-exceptions =
+    .label = Excepții…
+    .accesskey = x
+forms-master-pw-use =
+    .label = Folosește o parolă generală
+    .accesskey = U
+forms-master-pw-change =
+    .label = Schimbă parola generală…
+    .accesskey = m
 
 ## Privacy Section - History
 
+history-header = Istoric
+history-dontremember-description = { -brand-short-name } va folosi aceleași setări ca navigarea privată și nu va memora niciun istoric pe măsură ce navighezi pe web.
 history-remember-option =
     .label = Memorează istoricul navigării și al descărcărilor
     .accesskey = g
@@ -404,27 +420,111 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = Află mai multe
+sitedata-accept-third-party-visited-option =
+    .label = De la site-urile vizitate
 sitedata-accept-third-party-never-option =
     .label = Niciodată
+sitedata-cookies-exceptions =
+    .label = Excepții…
+    .accesskey = E
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Bară de adresă
+addressbar-suggest = Când se folosește bara de adresă, sugerează:
+addressbar-locbar-bookmarks-option =
+    .label = Marcaje
+    .accesskey = k
+addressbar-locbar-openpage-option =
+    .label = File deschise
+    .accesskey = O
+addressbar-suggestions-settings = Schimbă preferințele pentru sugestiile motoarelor de căutare…
 
 ## Privacy Section - Tracking
 
+tracking-header = Protecția față de urmărire
+tracking-mode-always =
+    .label = Întotdeauna
+    .accesskey = y
+tracking-mode-private =
+    .label = Doar în ferestrele private
+    .accesskey = l
+tracking-mode-never =
+    .label = Niciodată
+    .accesskey = N
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Folosește protecția față de urmărire pentru a bloca urmăritorii cunoscuți
+    .accesskey = v
+tracking-exceptions =
+    .label = Excepții…
+    .accesskey = x
+tracking-change-block-list =
+    .label = Schimbă lista de blocări
+    .accesskey = c
 
 ## Privacy Section - Permissions
 
+permissions-header = Permisiuni
+permissions-location = Locație
+permissions-camera = Cameră
+permissions-microphone = Microfon
+permissions-notification = Notificări
+permissions-notification-link = Află mai multe
+permissions-block-popups =
+    .label = Blochează ferestrele pop-up
+    .accesskey = B
+permissions-block-popups-exceptions =
+    .label = Excepții…
+    .accesskey = E
+permissions-addon-install-warning =
+    .label = Avertizează atunci când site-urile web încearcă să instaleze suplimente
+    .accesskey = w
+permissions-addon-exceptions =
+    .label = Excepții…
+    .accesskey = E
 
 ## Privacy Section - Data Collection
 
+collection-header = Colectarea și utilizarea de date din { -brand-short-name }
+collection-description = Ne străduim să îți oferim posibilitatea de a face alegeri și colectăm doar ceea ce avem nevoie ca să furnizăm și să îmbunătățim { -brand-short-name } pentru toată lumea. Întotdeauna solicităm permisiunea înainte de a primi informații personale.
+collection-privacy-notice = Politica de confidențialitate
+collection-health-report-link = Află mai multe
+collection-backlogged-crash-reports-link = Află mai multe
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Securitate
+security-enable-safe-browsing =
+    .label = Blochează conținutul periculos și înșelător
+    .accesskey = B
+security-block-downloads =
+    .label = Blochează descărcările periculoase
+    .accesskey = d
+security-block-uncommon-software =
+    .label = Avertizează despre programe nedorite sau suspecte
+    .accesskey = c
 
 ## Privacy Section - Certificates
 
 certs-header = Certificate
+certs-personal-label = Când un server îți cere certificatul personal
+certs-select-auto-option =
+    .label = Selectează automat unul
+    .accesskey = S
+certs-select-ask-option =
+    .label = Întreabă de fiecare dată
+    .accesskey = A
+certs-enable-ocsp =
+    .label = Interoghează serverele de răspuns OCSP pentru confirmarea valabilității actuale a certificatelor
+    .accesskey = h
+certs-view =
+    .label = Vezi certificatele…
+    .accesskey = c
+certs-devices =
+    .label = Dispozitive de securitate…
+    .accesskey = D
