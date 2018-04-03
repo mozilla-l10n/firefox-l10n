@@ -367,3 +367,166 @@ containers-preferences-button =
     .label = Stillingar
 containers-remove-button =
     .label = Fjarlægja
+
+## Privacy Section
+
+privacy-header = Friðhelgi vafra
+
+## Privacy Section - Forms
+
+forms-header = Form & lykilorð
+forms-remember-logins =
+    .label = Muna innskráningar og lyilorð fyrir vefsvæði
+    .accesskey = M
+forms-exceptions =
+    .label = Undanþágur…
+    .accesskey = n
+forms-saved-logins =
+    .label = Vistaðar innskráningar…
+    .accesskey = V
+forms-master-pw-use =
+    .label = Nota aðallykilorð
+    .accesskey = o
+forms-master-pw-change =
+    .label = Breyta aðallykilorði…
+    .accesskey = B
+
+## Privacy Section - History
+
+history-header = Ferill
+history-dontremember-description = { -brand-short-name } mun nota sömu stillingar og í huliðsstillingu, og geyma ekki vafraferil.
+history-private-browsing-permanent =
+    .label = Nota alltaf einkavöfrun
+    .accesskey = k
+history-remember-option =
+    .label = Muna vafraferil og niðurhalsferil
+    .accesskey = g
+history-remember-search-option =
+    .label = Muna leit og eyðublaðaferil
+    .accesskey = f
+history-clear-on-close-option =
+    .label = Hreinsa feril þegar { -brand-short-name } hættir
+    .accesskey = r
+history-clear-on-close-settings =
+    .label = Stillingar…
+    .accesskey = t
+
+## Privacy Section - Site Data
+
+sitedata-learn-more = Fræðast meira
+sitedata-keep-until = Eiga þangað til
+    .accesskey = E
+sitedata-accept-third-party-always-option =
+    .label = Alltaf
+sitedata-accept-third-party-visited-option =
+    .label = Frá heimsóttum síðum
+sitedata-accept-third-party-never-option =
+    .label = Aldrei
+sitedata-cookies-exceptions =
+    .label = Undanþágur…
+    .accesskey = U
+
+## Privacy Section - Address Bar
+
+addressbar-header = Staðsetningarslá
+addressbar-suggest = Þegar ég nota staðsetningarslá, stinga upp á:
+addressbar-locbar-history-option =
+    .label = Leitarsaga
+    .accesskey = L
+addressbar-locbar-bookmarks-option =
+    .label = Bókamerki
+    .accesskey = k
+addressbar-locbar-openpage-option =
+    .label = Opnir flipar
+    .accesskey = O
+addressbar-suggestions-settings = Breyta stillingum fyrir ábendingar leitarvéla
+
+## Privacy Section - Tracking
+
+tracking-header = Vörn gegn gagnasöfnun
+tracking-mode-always =
+    .label = Alltaf
+    .accesskey = A
+tracking-mode-private =
+    .label = Aðeins í huliðsgluggum
+    .accesskey = l
+tracking-mode-never =
+    .label = Aldrei
+    .accesskey = d
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Nota vörn gegn gagnasöfnun í huliðsgluggum til að loka á þekkta gagnasafnara
+    .accesskey = v
+tracking-exceptions =
+    .label = Undanþágur…
+    .accesskey = U
+tracking-change-block-list =
+    .label = Breyta lokunarlista…
+    .accesskey = B
+
+## Privacy Section - Permissions
+
+permissions-header = Heimildir
+permissions-location = Staðsetning
+permissions-camera = Myndavél
+permissions-microphone = Hljóðnemi
+permissions-notification = Tilkynningar
+permissions-notification-link = Vita meira
+permissions-block-popups =
+    .label = Loka á sprettiglugga
+    .accesskey = g
+permissions-block-popups-exceptions =
+    .label = Undanþágur…
+    .accesskey = U
+permissions-addon-install-warning =
+    .label = Vara við þegar vefsvæði reynir að setja inn viðbætur
+    .accesskey = V
+permissions-addon-exceptions =
+    .label = Undanþágur…
+    .accesskey = U
+
+## Privacy Section - Data Collection
+
+collection-header = { -brand-short-name } Gagnasöfnun og notkun
+collection-privacy-notice = Meðferð persónuupplýsinga
+collection-health-report-link = Fræðast meira
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Gagna skýrsla er óvirk í þessari útgáfu
+collection-backlogged-crash-reports-link = Fræðast meira
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+security-header = Öryggi
+security-enable-safe-browsing =
+    .label = Loka á hættulegt og svindl efni
+    .accesskey = L
+security-block-downloads =
+    .label = Loka á hættuleg niðurhöl
+    .accesskey = ö
+security-block-uncommon-software =
+    .label = Vara mig við óvelkomnum og óþekktum hugbúnaði
+    .accesskey = þ
+
+## Privacy Section - Certificates
+
+certs-header = Skilríki
+certs-personal-label = Þegar netþjónn biður um mitt skilríki
+certs-select-auto-option =
+    .label = Velja eitt sjálfvirkt
+    .accesskey = s
+certs-select-ask-option =
+    .label = Spyrja í hvert skipti
+    .accesskey = S
+certs-enable-ocsp =
+    .label = Senda fyrirspurn á OCSP þjóna til að staðfesta hvort núverandi skírteini séu gild
+    .accesskey = S
+certs-view =
+    .label = Skoða skilríki…
+    .accesskey = S
+certs-devices =
+    .label = Öryggistæki…
+    .accesskey = y
