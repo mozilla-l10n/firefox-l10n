@@ -403,6 +403,10 @@ history-remember-option =
 
 sitedata-accept-third-party-always-option =
     .label = Alltid
+sitedata-accept-third-party-visited-option =
+    .label = Frå besøkte
+sitedata-accept-third-party-never-option =
+    .label = Aldri
 
 ## Privacy Section - Address Bar
 
