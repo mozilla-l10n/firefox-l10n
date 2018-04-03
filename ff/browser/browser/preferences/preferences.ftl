@@ -360,10 +360,14 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = Suturo Wanngorde
 
 ## Privacy Section - Forms
 
 forms-header = Formileeruuji & pinle
+forms-remember-logins =
+    .label = Siiftor baccooje e finndeeji lowe geese
+    .accesskey = R
 forms-exceptions =
     .label = Paltooje…
     .accesskey = a
@@ -400,6 +404,8 @@ history-clear-on-close-settings =
 ## Privacy Section - Site Data
 
 sitedata-learn-more = Jokku taro
+sitedata-keep-until = Mooftu haa
+    .accesskey = h
 sitedata-accept-third-party-always-option =
     .label = Sahaa kala
 sitedata-accept-third-party-visited-option =
@@ -412,6 +418,11 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Palal Ñiiɓirɗe
+addressbar-suggest = So aɗa huutoroo palal ñiiɓirɗe, wasiyo
+addressbar-locbar-history-option =
+    .label = Aslol peeragol
+    .accesskey = P
 addressbar-locbar-bookmarks-option =
     .label = Maantore
     .accesskey = t
@@ -439,23 +450,50 @@ tracking-pbm-label = Huutoro ndeenka dewindagol nder banngagol sutura ngam fadda
 tracking-exceptions =
     .label = Paltooje…
     .accesskey = a
+tracking-change-block-list =
+    .label = Waylu Doggol Daaƴol…
+    .accesskey = W
 
 ## Privacy Section - Permissions
 
 permissions-header = Jamirooje
+permissions-location = Nokkuure
+permissions-location-settings =
+    .label = Teelte…
+    .accesskey = t
+permissions-camera = Kameraa
+permissions-camera-settings =
+    .label = Teelte…
+    .accesskey = t
+permissions-microphone = Mikkoroo
+permissions-microphone-settings =
+    .label = Teelte…
+    .accesskey = t
 permissions-notification = Tintine
+permissions-notification-settings =
+    .label = Teelte…
+    .accesskey = t
+permissions-notification-link = Ɓeydu humpito
 permissions-block-popups =
     .label = Falo kenorɗe cuppitte
     .accesskey = o
 permissions-block-popups-exceptions =
     .label = Paltooje…
     .accesskey = P
+permissions-addon-install-warning =
+    .label = Jeertin-maa so lowe etiima aafde ɓeyditte
+    .accesskey = J
 permissions-addon-exceptions =
     .label = Paltooje…
     .accesskey = P
+permissions-a11y-privacy-checkbox =
+    .label = Haɗ carwooje weeɓitaare yettaade wanngorde maa
+    .accesskey = c
+permissions-a11y-privacy-link = Ɓeydu humpito
 
 ## Privacy Section - Data Collection
 
+collection-header = { -brand-short-name } Roɓindo e Kuutoragol Keɓe
 collection-health-report-link = Jokku Taro
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
@@ -468,6 +506,7 @@ collection-backlogged-crash-reports-link = Jokku taro
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Kisal
+security-browsing-protection = Ndeenka Loowdi Puuntoori e Topateeri Mbonnoori
 security-enable-safe-browsing =
     .label = Falo loowi mbonndi e puuntoori
     .accesskey = F
