@@ -358,3 +358,75 @@ containers-preferences-button =
     .label = Postavke
 containers-remove-button =
     .label = Ukloni
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = Izuzeci…
+    .accesskey = I
+forms-master-pw-use =
+    .label = Koristi glavnu lozinku…
+    .accesskey = g
+forms-master-pw-change =
+    .label = Promijeni glavnu lozinku…
+    .accesskey = m
+
+## Privacy Section - History
+
+history-dontremember-description = { -brand-short-name } će koristiti iste postavke kao za privatno surfanje, i neće pamtiti bilo kakvu historiju dok pregledate Web.
+history-private-browsing-permanent =
+    .label = Uvijek koristi režim privatnog surfanja
+    .accesskey = p
+history-remember-option =
+    .label = Pamti moju historiju surfanja i preuzimanja
+    .accesskey = b
+history-remember-search-option =
+    .label = Pamti historiju formi i pretrage
+    .accesskey = f
+history-clear-on-close-option =
+    .label = Očisti historiju kada se { -brand-short-name } zatvori
+    .accesskey = r
+history-clear-on-close-settings =
+    .label = Postavke…
+    .accesskey = t
+
+## Privacy Section - Site Data
+
+sitedata-accept-third-party-visited-option =
+    .label = Od posjećenih
+sitedata-accept-third-party-never-option =
+    .label = Nikad
+sitedata-cookies-exceptions =
+    .label = Izuzeci…
+    .accesskey = I
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-block-popups =
+    .label = Blokiraj pop-up prozore
+    .accesskey = B
+permissions-addon-exceptions =
+    .label = Izuzeci…
+    .accesskey = e
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
+certs-header = Certifikati
