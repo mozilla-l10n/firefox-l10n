@@ -383,6 +383,8 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-visited-option =
+    .label = Baxılanlardan
 sitedata-cookies-exceptions =
     .label = İstisnalar…
     .accesskey = a
