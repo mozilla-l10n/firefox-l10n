@@ -351,9 +351,13 @@ containers-remove-button =
 
 ## Privacy Section - Forms
 
+forms-saved-logins =
+    .label = భద్రపరచిన ప్రవేశాలు…
+    .accesskey = L
 
 ## Privacy Section - History
 
+history-header = చరిత్ర
 history-clear-on-close-settings =
     .label = అమరికలు…
     .accesskey = t
@@ -367,6 +371,9 @@ sitedata-accept-third-party-never-option =
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-bookmarks-option =
+    .label = ఇష్టాంశాలు
+    .accesskey = k
 
 ## Privacy Section - Tracking
 
