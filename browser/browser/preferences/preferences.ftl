@@ -505,6 +505,7 @@ security-browsing-protection = വഞ്ചനാപരമായ ഉള്ളട
 security-enable-safe-browsing =
     .label = അപകടകരവും വഞ്ചനാപരവുമായ ഉള്ളടക്കം തടയുക
     .accesskey = B
+security-enable-safe-browsing-link = കൂടുതലറിവ് നേടുക
 security-block-downloads =
     .label = അപകടകരമായ ഡൗണ്‍ലോഡുകള്‍ തടയുക
     .accesskey = അ
