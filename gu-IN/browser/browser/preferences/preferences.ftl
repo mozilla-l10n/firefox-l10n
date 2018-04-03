@@ -403,6 +403,9 @@ forms-master-pw-change =
 history-private-browsing-permanent =
     .label = હંમેશા ખાનગી બ્રાઉઝીંગ સ્થિતિ વાપરો
     .accesskey = p
+history-remember-option =
+    .label = મારુ બ્રાઉઝીંગ અને ડાઉનલોડ ઇતિહાસને યાદ રાખો
+    .accesskey = b
 
 ## Privacy Section - Site Data
 
@@ -436,3 +439,7 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Certificates
 
+certs-header = પ્રમાણપત્રો
+certs-enable-ocsp =
+    .label = પ્રમાણપત્રની હાલની યોગ્યતાની ખાતરી કરવા માટે ક્વેરી OCSP જવાબ સર્વરો
+    .accesskey = Q
