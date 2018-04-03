@@ -323,9 +323,28 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-dontremember-description = { -brand-short-name } ಖಾಸಗಿ ಜಾಲ ವೀಕ್ಷಣದ ರೀತಿಯದ್ದೆ ಆದ ಸಿದ್ಧತೆಗಳನ್ನು ಬಳಸುತ್ತದೆ, ಹಾಗು ನೀವು ಜಾಲವನ್ನು ವೀಕ್ಷಿಸುವಾಗ ಯಾವುದೆ ಇತಿಹಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದಿಲ್ಲ.
+history-private-browsing-permanent =
+    .label = ಯಾವಾಗಲೂ ಖಾಸಗಿ ವೀಕ್ಷಣೆ ಕ್ರಮವನ್ನು ಬಳಸು
+    .accesskey = p
+history-remember-option =
+    .label = ನನ್ನ ಜಾಲವೀಕ್ಷಣಾ ಮತ್ತು ಇಳಿಕೆ ಇತಿಹಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊ
+    .accesskey = b
+history-remember-search-option =
+    .label = ಹುಡುಕು ಹಾಗು ಫಾರ್ಮ್ ಇತಿಹಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊ
+    .accesskey = f
+history-clear-on-close-option =
+    .label = { -brand-short-name } ಅನ್ನು ಮುಚ್ಚಿದಾಗ ಇತಿಹಾಸವನ್ನು ಅಳಿಸಿಹಾಕು
+    .accesskey = r
+history-clear-on-close-settings =
+    .label = ಸಿದ್ಧತೆಗಳು…
+    .accesskey = t
 
 ## Privacy Section - Site Data
 
+sitedata-cookies-exceptions =
+    .label = ವಿನಾಯಿತಿಗಳು...
+    .accesskey = E
 
 ## Privacy Section - Address Bar
 
