@@ -378,3 +378,54 @@ containers-preferences-button =
     .label = Inställningar
 containers-remove-button =
     .label = Ta bort
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = Undantag…
+    .accesskey = d
+forms-master-pw-use =
+    .label = Använd ett huvudlösenord
+    .accesskey = A
+forms-master-pw-change =
+    .label = Byt huvudlösenord…
+    .accesskey = B
+
+## Privacy Section - History
+
+
+## Privacy Section - Site Data
+
+sitedata-cookies-exceptions =
+    .label = Undantag…
+    .accesskey = U
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-block-popups =
+    .label = Blockera popup-fönster
+    .accesskey = B
+permissions-addon-exceptions =
+    .label = Undantag…
+    .accesskey = U
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
