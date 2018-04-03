@@ -382,3 +382,152 @@ containers-preferences-button =
     .label = Tercihler
 containers-remove-button =
     .label = Sil
+
+## Privacy Section
+
+privacy-header = Tarayıcı gizliliği
+
+## Privacy Section - Forms
+
+forms-header = Formlar ve parolalar
+forms-remember-logins =
+    .label = Sitelerdeki kullanıcı adlarını ve parolaları hatırla
+    .accesskey = k
+forms-exceptions =
+    .label = İstisnalar…
+    .accesskey = s
+forms-master-pw-change =
+    .label = Ana parolayı değiştir…
+    .accesskey = d
+
+## Privacy Section - History
+
+history-header = Geçmiş
+history-remember-description = { -brand-short-name } gezinti, indirme, form ve arama geçmişlerinizi hatırlayacak.
+history-remember-search-option =
+    .label = Arama ve form geçmişini hatırla
+    .accesskey = f
+history-clear-on-close-settings =
+    .label = Ayarlar…
+    .accesskey = A
+history-clear-button =
+    .label = Geçmişi temizle…
+    .accesskey = G
+
+## Privacy Section - Site Data
+
+sitedata-header = Çerezler ve site verileri
+sitedata-learn-more = Daha fazla bilgi al
+sitedata-accept-cookies-option =
+    .label = Web sitelerinden gelen çerezleri ve site verilerini kabul et (Önerilir)
+    .accesskey = k
+sitedata-block-cookies-option =
+    .label = Çerezleri ve site verilerini engelle (Bazı siteler düzgün çalışmayabilir)
+    .accesskey = z
+sitedata-keep-until = Tutma sınırı
+    .accesskey = u
+sitedata-accept-third-party-desc = Üçüncü taraf çerezlerini ve site verilerini kabul et
+    .accesskey = ü
+sitedata-clear =
+    .label = Verileri temizle…
+    .accesskey = l
+sitedata-settings =
+    .label = Verileri yönet…
+    .accesskey = V
+
+## Privacy Section - Address Bar
+
+addressbar-header = Adres çubuğu
+addressbar-suggest = Adres çubuğunu kullanırken şunları öner:
+addressbar-locbar-history-option =
+    .label = Gezinti geçmişi
+    .accesskey = G
+addressbar-suggestions-settings = Arama motoru önerileri için tercihleri değiştir
+
+## Privacy Section - Tracking
+
+tracking-header = İzlenme Koruması
+tracking-description = İzlenme Koruması, siz siteler arasında gezinirken hakkınızda veri toplayan çevrimiçi takipçileri engeller. <a>İzlenme Koruması ve gizliliğiniz hakkında daha fazla bilgi alın</a>
+tracking-mode-label = Bilinen takipçileri engellemek için İzlenme Koruması’nı kullan
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Gizli Gezinti’de bilinen takipçileri engellemek için İzlenme Koruması’nı kullan
+    .accesskey = G
+tracking-change-block-list =
+    .label = Engelleme listesini değiştir…
+    .accesskey = E
+
+## Privacy Section - Permissions
+
+permissions-header = İzinler
+permissions-location-settings =
+    .label = Ayarlar…
+    .accesskey = r
+permissions-camera-settings =
+    .label = Ayarlar…
+    .accesskey = r
+permissions-microphone-settings =
+    .label = Ayarlar…
+    .accesskey = r
+permissions-notification = Bildirimler
+permissions-notification-settings =
+    .label = Ayarlar…
+    .accesskey = r
+permissions-notification-pause =
+    .label = { -brand-short-name } yeniden başlatılana dek bildirimleri duraklat
+    .accesskey = b
+permissions-addon-install-warning =
+    .label = Siteler eklenti yüklemeye çalıştığında beni uyar
+    .accesskey = u
+permissions-addon-exceptions =
+    .label = İstisnalar…
+    .accesskey = n
+permissions-a11y-privacy-checkbox =
+    .label = Erişilebilirlik hizmetlerinin tarayıcıma erişmesini engelle
+    .accesskey = E
+permissions-a11y-privacy-link = Daha fazla bilgi al
+
+## Privacy Section - Data Collection
+
+collection-header = { -brand-short-name } veri toplama ve kullanma izinleri
+collection-description = Yalnızca { -brand-short-name } tarayıcınızı geliştirmemize yarayacak verileri topluyoruz ve istemezseniz onları da toplamıyoruz. Kişisel verilerinizi sunucularımıza göndermeden önce mutlaka izninizi istiyoruz.
+collection-privacy-notice = Gizlilik bildirimi
+collection-health-report =
+    .label = { -brand-short-name }, teknik ve etkileşim verilerimi { -vendor-short-name }’ya gönderebilir
+    .accesskey = r
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Bu yapılandırma için veri raporlama devre dışı bırakılmış
+collection-browser-errors =
+    .label = { -brand-short-name }, tarayıcı hata raporlarını (hata mesajları da dahil olmak üzere) { -vendor-short-name }’ya gönderebilir
+    .accesskey = t
+collection-browser-errors-link = Daha fazla bilgi al
+collection-backlogged-crash-reports =
+    .label = { -brand-short-name } geriye dönük çökme raporlarını benim adıma gönderebilir
+    .accesskey = ö
+collection-backlogged-crash-reports-link = Daha fazla bilgi al
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+security-header = Güvenlik
+security-browsing-protection = Aldatıcı içerik ve tehlikeli yazılım koruması
+security-enable-safe-browsing-link = Daha fazla bilgi al
+security-block-uncommon-software =
+    .label = İstenmeyen ve bilinmeyen yazılımlar hakkında beni uyar
+    .accesskey = b
+
+## Privacy Section - Certificates
+
+certs-personal-label = Bir sunucu kişisel sertifikamı istediğinde
+certs-select-ask-option =
+    .label = Her seferinde bana sor
+    .accesskey = H
+certs-view =
+    .label = Sertifikaları göster…
+    .accesskey = ö
+certs-devices =
+    .label = Güvenlik aygıtları…
+    .accesskey = ü
