@@ -365,10 +365,14 @@ containers-remove-button =
 
 ## Privacy Section
 
+privacy-header = Mung pa layeny
 
 ## Privacy Section - Forms
 
 forms-header = Pwom ki mung me donyo
+forms-remember-logins =
+    .label = Po ikom donyo iyie ki mung me donyo pi kakube
+    .accesskey = P
 forms-exceptions =
     .label = Ma kiweko woko…
     .accesskey = a
@@ -401,23 +405,37 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Ter…
     .accesskey = r
+history-clear-button =
+    .label = Jwa gin mukato…
+    .accesskey = j
 
 ## Privacy Section - Site Data
 
+sitedata-header = Angija ki Data me kakube
 sitedata-learn-more = Nong ngec mapol
+sitedata-block-cookies-option =
+    .label = Geng angija ki data me kakube (twero weko kakube bale)
+    .accesskey = G
 sitedata-accept-third-party-always-option =
     .label = Jwijwi
 sitedata-accept-third-party-visited-option =
     .label = Ki i ma kilimo
 sitedata-accept-third-party-never-option =
     .label = Pe matwal
+sitedata-clear =
+    .label = Jwa data…
+    .accesskey = j
 sitedata-cookies-exceptions =
     .label = Ma kiweko woko…
     .accesskey = M
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Lanyut me kanonge
 addressbar-suggest = Ka i tye katic ki lanyut me kabedo, mi tam
+addressbar-locbar-history-option =
+    .label = Gin mukato me yeny
+    .accesskey = { "" }
 addressbar-locbar-bookmarks-option =
     .label = Alama buk
     .accesskey = l
@@ -429,6 +447,8 @@ addressbar-suggestions-settings = Lok ter pi tam ma kimiyo me injin yeny
 ## Privacy Section - Tracking
 
 tracking-header = Gwokke ikom lubo kor
+tracking-description = Gwokke ikom lubo kor gengo lulub kor me wiyamo ma coko data me yeny mamegi ki ii kakube mapol. <a>Nong ngec mapol ikom Gwokke ikom lubo kor ki mung mamegi</a>
+tracking-mode-label = Tii ki Gwokke ikom lubo kor me gengo lulub kor ma ngene
 tracking-mode-always =
     .label = Jwijwi
     .accesskey = w
@@ -448,16 +468,50 @@ tracking-change-block-list =
 ## Privacy Section - Permissions
 
 permissions-header = Rukuca
+permissions-location = Kabedo
+permissions-location-settings =
+    .label = Ter…
+    .accesskey = t
+permissions-camera = Lamak cal
+permissions-camera-settings =
+    .label = Ter…
+    .accesskey = t
+permissions-microphone = Mikropon
+permissions-microphone-settings =
+    .label = Ter…
+    .accesskey = t
+permissions-notification = Jami angeya
+permissions-notification-settings =
+    .label = Ter…
+    .accesskey = t
+permissions-notification-link = Nong ngec mapol
+permissions-notification-pause =
+    .label = Juk jami angeya wang ma { -brand-short-name } onwoyo cake
+    .accesskey = n
 permissions-block-popups =
     .label = Geng dirica ma pye-malo
     .accesskey = G
+permissions-block-popups-exceptions =
+    .label = Ma kiweko woko…
+    .accesskey = M
+permissions-addon-install-warning =
+    .label = Niangi ka kakube teme me keto med-ikome
+    .accesskey = N
 permissions-addon-exceptions =
     .label = Ma kiweko woko…
     .accesskey = M
+permissions-a11y-privacy-link = Nong ngec mapol
 
 ## Privacy Section - Data Collection
 
+collection-header = { -brand-short-name } coko ki tic ki data
+collection-description = Wa tute me miini jami ayera ki wacoko keken ngo ma wa mito me miyo ki yubo maber { -brand-short-name } pi dano weng. Jwijwi wa penyo pi twero ma pud pe kigamo ngec ma ngat moni.
+collection-privacy-notice = Ngec me mung
 collection-health-report-link = Nong ngec mapol
+collection-browser-errors-link = Nong ngec mapol
+collection-backlogged-crash-reports =
+    .label = Yee { -brand-short-name } me cwalo ripot me poto ma odure pi in
+    .accesskey = c
 collection-backlogged-crash-reports-link = Nong ngec mapol
 
 ## Privacy Section - Security
@@ -466,9 +520,11 @@ collection-backlogged-crash-reports-link = Nong ngec mapol
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Ber bedo
+security-browsing-protection = Gwokke ikom jami me bwola ki purugram maraco
 security-enable-safe-browsing =
     .label = Geng jami maraco ki me bwola
     .accesskey = G
+security-enable-safe-browsing-link = Nong ngec mapol
 security-block-downloads =
     .label = Geng gam maraco
     .accesskey = a
@@ -492,3 +548,6 @@ certs-enable-ocsp =
 certs-view =
     .label = Nen Catibiket…
     .accesskey = C
+certs-devices =
+    .label = Nyonyo me ber bedo…
+    .accesskey = N
