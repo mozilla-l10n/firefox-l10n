@@ -417,6 +417,7 @@ sitedata-cookies-exceptions =
 ## Privacy Section - Address Bar
 
 addressbar-header = Barra d'adreça
+addressbar-suggest = Quand utilizi la barra d'adreça, suggerir
 addressbar-locbar-bookmarks-option =
     .label = Favorits
     .accesskey = F
