@@ -403,6 +403,8 @@ history-clear-on-close-settings =
 ## Privacy Section - Site Data
 
 sitedata-learn-more = आणखी जाणा
+sitedata-keep-until = पर्यंत ठेवा
+    .accesskey = u
 sitedata-accept-third-party-always-option =
     .label = नेहमी
 sitedata-accept-third-party-visited-option =
@@ -486,6 +488,10 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = अपवाद…
     .accesskey = E
+permissions-a11y-privacy-checkbox =
+    .label = सुलभता सेवांना आपल्या ब्राउझरमध्ये प्रवेश करण्यापासून प्रतिबंधित करा
+    .accesskey = a
+permissions-a11y-privacy-link = अधिक जाणून घ्या
 
 ## Privacy Section - Data Collection
 
