@@ -281,6 +281,7 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-header = ඉතිහාසය
 history-dontremember-description = { -brand-short-name } එම සැකසුම්ම පුද්ගලික ගවේෂණය සඳහා යොදාගනු ඇති අතර ඔබ ගවේෂණය කරන අතරතුර කිසිදු ඉතිහාසයක් මතකයේ තබානොගනු ඇත.
 history-private-browsing-permanent =
     .label = සෑම විටම පෞද්ගලික ගවේෂණය භාවිතා කරන්න
@@ -300,6 +301,10 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-always-option =
+    .label = සැමවිටම
+sitedata-accept-third-party-visited-option =
+    .label = පිවිසි වෙතින්
 sitedata-accept-third-party-never-option =
     .label = Never
 sitedata-cookies-exceptions =
@@ -326,6 +331,7 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Data Collection
 
+collection-health-report-link = තවත් දැනගන්න
 
 ## Privacy Section - Security
 ##
