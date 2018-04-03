@@ -398,6 +398,7 @@
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Generelt">
 <!ENTITY read.only.title.label           "Tittel:">
+<!ENTITY read.only.calendar.label        "Kalender:">
 <!ENTITY read.only.event.start.label     "Startdato:">
 <!ENTITY read.only.task.start.label      "Startdato:">
 <!ENTITY read.only.event.end.label       "Sluttdato:">
@@ -416,3 +417,9 @@
 <!ENTITY read.only.attendees.label       "Deltakarar">
 <!ENTITY read.only.description.label     "Skildring">
 <!ENTITY read.only.link.label            "Relatert lenke">
+
+<!-- Summary dialog -->
+<!ENTITY summary.dialog.saveclose.label         "Lagre og lat att">
+<!ENTITY summary.dialog.accept.label            "Aksepter">
+<!ENTITY summary.dialog.accept.tooltiptext      "Aksepter invitasjonen">
+<!ENTITY summary.dialog.tentative.tooltiptext   "Aksepter invitasjonen førebels">
