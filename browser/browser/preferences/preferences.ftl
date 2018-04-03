@@ -384,3 +384,45 @@ containers-preferences-button =
     .label = Nuostatos
 containers-remove-button =
     .label = Pašalinti
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-master-pw-use =
+    .label = Naudoti pagrindinį slaptažodį
+    .accesskey = N
+forms-master-pw-change =
+    .label = Pakeisti pagrindinį slaptažodį…
+    .accesskey = k
+
+## Privacy Section - History
+
+
+## Privacy Section - Site Data
+
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-block-popups =
+    .label = Neleisti iškylančiųjų langų
+    .accesskey = N
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
