@@ -412,15 +412,24 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = הגדרות…
     .accesskey = ה
+history-clear-button =
+    .label = ניקוי היסטוריה…
+    .accesskey = ה
 
 ## Privacy Section - Site Data
 
+sitedata-header = עוגיות ונתוני אתרים
+sitedata-accept-third-party-desc = קבלת עוגיות ונתוני אתרים מצד שלישי
+    .accesskey = ש
 sitedata-accept-third-party-always-option =
     .label = תמיד
 sitedata-accept-third-party-visited-option =
     .label = מאתרים בהם ביקרנו בעבר
 sitedata-accept-third-party-never-option =
     .label = לעולם לא
+sitedata-clear =
+    .label = ניקוי נתונים…
+    .accesskey = נ
 sitedata-cookies-exceptions =
     .label = חריגות…
     .accesskey = ח
@@ -438,6 +447,23 @@ addressbar-suggestions-settings = שינוי העדפות של הצעות מנו
 ## Privacy Section - Tracking
 
 tracking-header = הגנת מעקב
+tracking-mode-label = שימוש בהגנת מעקב לחסימת רכיבי מעקב ידועים
+tracking-mode-always =
+    .label = תמיד
+    .accesskey = ת
+tracking-mode-private =
+    .label = רק בחלונות פרטיים
+    .accesskey = ר
+tracking-mode-never =
+    .label = לעולם לא
+    .accesskey = ל
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = שימוש בהגנת מעקב בגלישה פרטית לחסימת רכיבי מעקב ידועים
+    .accesskey = ט
+tracking-exceptions =
+    .label = חריגות…
+    .accesskey = ח
 
 ## Privacy Section - Permissions
 
@@ -456,6 +482,13 @@ collection-health-report =
     .label = האם לאפשר ל־{ -brand-short-name } לשלוח אל { -vendor-short-name } מידע טכני ופעולות שבוצעו בדפדפן
     .accesskey = ד
 collection-health-report-link = מידע נוסף
+collection-browser-errors =
+    .label = לאפשר ל־{ -brand-short-name } לשלוח דיווחי שגיאות בדפדפן (לרבות הודעות שגיאה) אל { -vendor-short-name }
+    .accesskey = ד
+collection-browser-errors-link = מידע נוסף
+collection-backlogged-crash-reports =
+    .label = לאפשר ל־{ -brand-short-name } לשלוח דיווחי קריסות שנשמרו בשמך
+    .accesskey = ק
 
 ## Privacy Section - Security
 ##
@@ -463,6 +496,7 @@ collection-health-report-link = מידע נוסף
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = אבטחה
+security-enable-safe-browsing-link = מידע נוסף
 security-block-uncommon-software =
     .label = הזהרה על תוכנות לא נפוצות ותכנות לא רצויות
     .accesskey = ת
