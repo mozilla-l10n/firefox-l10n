@@ -29,6 +29,9 @@ feature-enable-requires-restart = এই বৈশিষ্ট্য সাম�
 feature-disable-requires-restart = এই বৈশিষ্ট্য অসামৰ্থবান কৰিবলে { -brand-short-name } পুনাৰম্ভ কৰিব লাগিব।
 should-restart-title = { -brand-short-name } পুনাৰম্ভ কৰক
 
+## Preferences UI Search Results
+
+
 ## General Section
 
 startup-header = আৰম্ভণি
@@ -36,23 +39,6 @@ is-default = { -brand-short-name } বৰ্তমানে আপোনাৰ �
 is-not-default = { -brand-short-name } বৰ্তমানে আপোনাৰ অবিকল্পিত ব্ৰাউছাৰ নহয়
 startup-blank-page =
     .label = ৰিক্ত পৃষ্ঠা দেখুৱাওক
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] বৰ্ত্তমানৰ পৃষ্ঠা ব্যৱহাৰ কৰক
-           *[other] বৰ্ত্তমানৰ পৃষ্ঠাসমূহ ব্যৱহাৰ কৰক
-        }
-    .accesskey = C
-choose-bookmark =
-    .label = পত্ৰচিহ্ন ব্যৱহাৰ কৰক…
-    .accesskey = B
-restore-default =
-    .label = অবিকল্পিতলৈ পুনঃ স্থাপন কৰক
-    .accesskey = R
 tabs-group-header = টেবসমূহ
 show-tabs-in-taskbar =
     .label = টেবৰ পুৰ্বদৰ্শনসমূহ উইন্ডোসমূহৰ কাৰ্য্যবাৰত দেখুৱাওক
@@ -130,6 +116,29 @@ network-proxy-connection-settings =
     .label = পছন্দসমূহ…
     .accesskey = e
 
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] বৰ্ত্তমানৰ পৃষ্ঠা ব্যৱহাৰ কৰক
+           *[other] বৰ্ত্তমানৰ পৃষ্ঠাসমূহ ব্যৱহাৰ কৰক
+        }
+    .accesskey = C
+choose-bookmark =
+    .label = পত্ৰচিহ্ন ব্যৱহাৰ কৰক…
+    .accesskey = B
+restore-default =
+    .label = অবিকল্পিতলৈ পুনঃ স্থাপন কৰক
+    .accesskey = R
+
 ## Search Section
 
 search-engine-default-header = অবিকল্পিত সন্ধান ইঞ্জিন
@@ -153,3 +162,48 @@ search-keyword-warning-title = দ্বৈত কিৱাৰ্ড
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = আপুনি "{ $name }"এ বৰ্ত্তমানে ব্যৱহাৰ কৰা কিৱাৰ্ড নিৰ্বাচন কৰিছে। অনুগ্ৰহ কৰি অন্য এটা নিৰ্বাচন কৰক।
 search-keyword-warning-bookmark = এটা পত্ৰচিহ্নৰ দ্বাৰা ব্যৱহৃত কিৱাৰ্ড আপুনি নিৰ্বাচন কৰিছে। অনুগ্ৰহ কৰি অন্য এটা নিৰ্বাচন কৰক।
+
+## Containers Section
+
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+
+## Privacy Section - History
+
+history-remember-search-option =
+    .label = সন্ধান আৰু বিন্যাস ইতিহাস মনত ৰাখিব
+    .accesskey = f
+history-clear-on-close-settings =
+    .label = সংহতিসমূহ…
+    .accesskey = t
+
+## Privacy Section - Site Data
+
+sitedata-cookies-exceptions =
+    .label = ব্যতিক্ৰমসমূহ…
+    .accesskey = E
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
