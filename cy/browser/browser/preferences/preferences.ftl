@@ -413,6 +413,7 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Hanes
+history-remember-description = Bydd { -brand-short-name } yn cofio eich hanes pori, llwytho i lawr, ffurflenni a chwilio.
 history-dontremember-description = Bydd { -brand-short-name } yn defnyddio'r un gosodiadau â phori preifat, ond ni fydd yn cofio unrhyw hanes wrth i chi bori'r We.
 history-private-browsing-permanent =
     .label = Defnyddio'r modd pori preifat bob tro
@@ -429,18 +430,36 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Gosodiadau…
     .accesskey = G
+history-clear-button =
+    .label = Clirio Hanes…
+    .accesskey = H
 
 ## Privacy Section - Site Data
 
+sitedata-header = Cwcis a Data Gwefan
 sitedata-learn-more = Dysgu rhagor
+sitedata-accept-cookies-option =
+    .label = Derbyn cwcis a data gwefan gan wefannau (argymell)
+    .accesskey = D
+sitedata-block-cookies-option =
+    .label = Rhwystro cwcis a data gwefan (gall achosi i wefannau dorri)
+    .accesskey = R
 sitedata-keep-until = Cadw tan
     .accesskey = C
+sitedata-accept-third-party-desc = Derbyn gwcis trydydd parti a data gwefan
+    .accesskey = g
 sitedata-accept-third-party-always-option =
     .label = Bob tro
 sitedata-accept-third-party-visited-option =
     .label = O'r ymwelwyd
 sitedata-accept-third-party-never-option =
     .label = Byth
+sitedata-clear =
+    .label = Clirio Data…
+    .accesskey = l
+sitedata-settings =
+    .label = Rheoli Data…
+    .accesskey = R
 sitedata-cookies-exceptions =
     .label = Eithriadau…
     .accesskey = E
@@ -463,6 +482,8 @@ addressbar-suggestions-settings = Newid dewisiadau am awgrymiadau peiriannau chw
 ## Privacy Section - Tracking
 
 tracking-header = Diogelu Rhag Tracio
+tracking-description = Mae Diogelu rhag Tracio yn rhwystro tracwyr ar-lein sy'n casglu eich data pori ar draws amryw o wefannau. <a>Dysgwch rhagor am Ddiogelwch rhag Tracio a'ch preifatrwydd</a>
+tracking-mode-label = Defnyddiwch Diogelu rhag Tracio i rwystro tracwyr hysbys
 tracking-mode-always =
     .label = Bob tro
     .accesskey = B
@@ -487,10 +508,25 @@ tracking-change-block-list =
 
 permissions-header = Caniatâd
 permissions-location = Lleoliad
+permissions-location-settings =
+    .label = Gosodiadau…
+    .accesskey = d
 permissions-camera = Camera
+permissions-camera-settings =
+    .label = Gosodiadau…
+    .accesskey = s
 permissions-microphone = Meicroffon
+permissions-microphone-settings =
+    .label = Gosodiadau…
+    .accesskey = o
 permissions-notification = Hysbysiadau
+permissions-notification-settings =
+    .label = Gosodiadau…
+    .accesskey = G
 permissions-notification-link = Dysgu rhagor
+permissions-notification-pause =
+    .label = Oedi fy hysbysiadau tan { -brand-short-name } ailgychwyn
+    .accesskey = O
 permissions-block-popups =
     .label = Rhwystro ffenestri llamlen
     .accesskey = R
@@ -503,16 +539,30 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Eithriadau…
     .accesskey = E
+permissions-a11y-privacy-checkbox =
+    .label = Atal gwasanaethau hygyrchedd rhag cael mynediad i'ch porwr
+    .accesskey = a
+permissions-a11y-privacy-link = Dysgu rhagor
 
 ## Privacy Section - Data Collection
 
 collection-header = Casglu Data a Defnyddio { -brand-short-name }
 collection-description = Rydym yn ceisio darparu dewisiadau i chi a chasglu dim ond beth sydd ei angen arnom i ddarparu a gwella { -brand-short-name } ar gyfer pawb. Rydym yn gofyn caniatâd bob tro cyn derbyn manylion personol.
 collection-privacy-notice = Rhybudd Preifatrwydd
+collection-health-report =
+    .label = Caniatáu i { -brand-short-name } anfon data technegol a rhyngweithio i { -vendor-short-name }
+    .accesskey = r
 collection-health-report-link = Dysgu rhagor
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Mae adrodd ar ddata wedi ei analluogi ar gyfer ffurfweddiad yr adeiledd hwn
+collection-browser-errors =
+    .label = Caniatáu i { -brand-short-name } anfon adroddiadau gwall y porwr (gan gynnwys negeseuon gwall) i { -vendor-short-name }
+    .accesskey = p
+collection-browser-errors-link = Dysgu rhagor
+collection-backlogged-crash-reports =
+    .label = Caniatáu i { -brand-short-name } i anfon adroddiadau chwalu wedi eu cadw ar eich rhan
+    .accesskey = c
 collection-backlogged-crash-reports-link = Dysgu rhagor
 
 ## Privacy Section - Security
@@ -521,9 +571,11 @@ collection-backlogged-crash-reports-link = Dysgu rhagor
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Diogelwch
+security-browsing-protection = Diogelwch rhag Cynnwyd Twyllodrus a Meddalwedd Peryglus
 security-enable-safe-browsing =
     .label = Rhwystro cynnwys peryglus a thwyllodrus
     .accesskey = R
+security-enable-safe-browsing-link = Dysgu rhagor
 security-block-downloads =
     .label = Rhwystro llwytho i lawr peryglus
     .accesskey = p
