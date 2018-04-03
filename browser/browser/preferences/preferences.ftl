@@ -395,6 +395,10 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-always-option =
+    .label = Totjorn
+sitedata-accept-third-party-never-option =
+    .label = Pas jamai
 sitedata-cookies-exceptions =
     .label = Excepcions…
     .accesskey = E
