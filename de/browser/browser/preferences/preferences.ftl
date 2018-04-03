@@ -373,6 +373,13 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-header = Chronik
+history-remember-search-option =
+    .label = Eingegebene Suchbegriffe und Formulardaten speichern
+    .accesskey = S
+history-clear-on-close-settings =
+    .label = Einstellungen…
+    .accesskey = E
 
 ## Privacy Section - Site Data
 
