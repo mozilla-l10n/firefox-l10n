@@ -17,6 +17,9 @@ close-button =
 ## Browser Restart Dialog
 
 
+## Preferences UI Search Results
+
+
 ## General Section
 
 startup-header = ஆரம்பிக்க
@@ -80,3 +83,61 @@ browsing-use-cursor-navigation =
 network-proxy-connection-settings =
     .label = அமைவுகள்…
     .accesskey = e
+
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+
+## Search Section
+
+
+## Containers Section
+
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = விதிவிலக்குகள்…
+    .accesskey = x
+
+## Privacy Section - History
+
+
+## Privacy Section - Site Data
+
+sitedata-cookies-exceptions =
+    .label = விதிவிலக்குகள்
+    .accesskey = E
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-block-popups =
+    .label = முன்னெழும் சாளரங்களை நிறுத்துக
+    .accesskey = B
+permissions-addon-exceptions =
+    .label = விதிவிலக்குகள்
+    .accesskey = E
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
+certs-header = சான்றிதழ்கள்
