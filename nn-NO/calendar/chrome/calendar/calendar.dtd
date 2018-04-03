@@ -189,7 +189,32 @@
 <!ENTITY calendar.context.attendance.occ.accepted.accesskey     "A">
 <!ENTITY calendar.context.attendance.occ.accepted.label         "Akseptert">
 <!ENTITY calendar.context.attendance.occ.tentative.accesskey    "u">
+<!ENTITY calendar.context.attendance.occ.tentative.label        "Akseptert førebels">
+<!ENTITY calendar.context.attendance.occ.declined.accesskey     "s">
+<!ENTITY calendar.context.attendance.occ.declined.label         "Avvist">
+<!ENTITY calendar.context.attendance.occ.delegated.accesskey    "g">
+<!ENTITY calendar.context.attendance.occ.delegated.label        "Delegert">
+<!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "s">
+<!ENTITY calendar.context.attendance.occ.needsaction.label      "Treng framleis handling">
+<!ENTITY calendar.context.attendance.occ.inprogress.accesskey   "r">
+<!ENTITY calendar.context.attendance.occ.inprogress.label       "Held på">
+<!ENTITY calendar.context.attendance.occ.completed.accesskey    "k">
+<!ENTITY calendar.context.attendance.occ.completed.label        "Fullført">
 
+<!ENTITY calendar.context.attendance.all.accepted.accesskey     "F">
+<!ENTITY calendar.context.attendance.all.accepted.label         "Akseptert">
+<!ENTITY calendar.context.attendance.all.tentative.accesskey    "p">
+<!ENTITY calendar.context.attendance.all.tentative.label        "Akseptert førebels">
+<!ENTITY calendar.context.attendance.all.declined.accesskey     "s">
+<!ENTITY calendar.context.attendance.all.declined.label         "Avvist">
+<!ENTITY calendar.context.attendance.all.delegated.accesskey    "l">
+<!ENTITY calendar.context.attendance.all.delegated.label        "Delegert">
+<!ENTITY calendar.context.attendance.all.needsaction.accesskey  "l">
+<!ENTITY calendar.context.attendance.all.needsaction.label      "Treng framleis handling">
+<!ENTITY calendar.context.attendance.all.inprogress.accesskey   "P">
+<!ENTITY calendar.context.attendance.all.inprogress.label       "Held på">
+<!ENTITY calendar.context.attendance.all.completed.accesskey    "F">
+<!ENTITY calendar.context.attendance.all.completed.label        "Fullført">
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Framdrift">
