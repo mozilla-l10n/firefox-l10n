@@ -421,6 +421,10 @@ history-clear-on-close-settings =
 sitedata-accept-cookies-option =
     .label = اقبل الكعكات و بيانات المواقع من المواقع (مستحسن)
     .accesskey = ق
+sitedata-accept-third-party-visited-option =
+    .label = من المواقع المُزارة
+sitedata-accept-third-party-never-option =
+    .label = أبدًا
 sitedata-cookies-exceptions =
     .label = الاستثناءات…
     .accesskey = س
@@ -457,3 +461,4 @@ security-enable-safe-browsing-link = اطّلع على المزيد
 
 ## Privacy Section - Certificates
 
+certs-header = الشّهادات
