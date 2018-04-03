@@ -382,3 +382,60 @@ containers-preferences-button =
     .label = პარამეტრები
 containers-remove-button =
     .label = ამოღება
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = გამონაკლისები…
+    .accesskey = ნ
+forms-saved-logins =
+    .label = შენახული შესვლები…
+    .accesskey = შ
+forms-master-pw-use =
+    .label = მთავარი პაროლის გამოყენება
+    .accesskey = პ
+forms-master-pw-change =
+    .label = მთავარი პაროლის შეცვლა…
+    .accesskey = მ
+
+## Privacy Section - History
+
+history-clear-on-close-option =
+    .label = ისტორიის გასუფთავება { -brand-short-name }-ის დახურვისას
+    .accesskey = ფ
+history-clear-on-close-settings =
+    .label = პარამეტრები…
+    .accesskey = ტ
+
+## Privacy Section - Site Data
+
+sitedata-cookies-exceptions =
+    .label = გამონაკლისები…
+    .accesskey = გ
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-addon-exceptions =
+    .label = გამონაკლისები…
+    .accesskey = გ
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
