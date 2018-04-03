@@ -388,6 +388,7 @@ containers-remove-button =
 
 ## Privacy Section - Forms
 
+forms-header = Formulaires et mots de passe
 forms-exceptions =
     .label = Exceptions…
     .accesskey = x
@@ -399,18 +400,48 @@ forms-master-pw-change =
 
 history-header = Historique
 history-dontremember-description = { -brand-short-name } utilisera les mêmes paramètres que pour la navigation privée et ne conservera aucun historique de votre navigation.
+history-private-browsing-permanent =
+    .label = Toujours utiliser le mode de navigation privée
+    .accesskey = i
+history-remember-option =
+    .label = Conserver l’historique de navigation et des téléchargements
+    .accesskey = C
+history-remember-search-option =
+    .label = Conserver l’historique des recherches et des formulaires
+    .accesskey = n
+history-clear-on-close-option =
+    .label = Vider l’historique lors de la fermeture de { -brand-short-name }
+    .accesskey = V
+history-clear-on-close-settings =
+    .label = Paramètres…
+    .accesskey = P
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = En savoir plus
 sitedata-cookies-exceptions =
     .label = Exceptions…
     .accesskey = x
 
 ## Privacy Section - Address Bar
 
+addressbar-suggestions-settings = Modifier les préférences pour les suggestions de recherche
 
 ## Privacy Section - Tracking
 
+tracking-header = Protection contre le pistage
+tracking-mode-always =
+    .label = Toujours
+    .accesskey = T
+tracking-mode-private =
+    .label = Uniquement dans les fenêtres privées
+    .accesskey = U
+tracking-mode-never =
+    .label = Jamais
+    .accesskey = J
+tracking-exceptions =
+    .label = Exceptions…
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
@@ -423,12 +454,34 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Data Collection
 
+collection-health-report-link = En savoir plus
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Sécurité
+security-enable-safe-browsing =
+    .label = Bloquer les contenus dangereux ou trompeurs
+    .accesskey = B
+security-block-downloads =
+    .label = Bloquer les téléchargements dangereux
+    .accesskey = D
+security-block-uncommon-software =
+    .label = Signaler la présence de logiciels indésirables ou peu communs
+    .accesskey = n
 
 ## Privacy Section - Certificates
 
+certs-header = Certificats
+certs-personal-label = Lorsqu’un serveur demande votre certificat personnel
+certs-select-auto-option =
+    .label = En sélectionner un automatiquement
+    .accesskey = E
+certs-select-ask-option =
+    .label = Vous demander à chaque fois
+    .accesskey = V
+certs-enable-ocsp =
+    .label = Interroger le répondeur OCSP pour confirmer la validité de vos certificats
+    .accesskey = I
