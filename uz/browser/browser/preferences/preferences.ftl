@@ -291,3 +291,59 @@ containers-preferences-button =
     .label = Parametrlar
 containers-remove-button =
     .label = Olib tashlash
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+forms-exceptions =
+    .label = Istisnolar
+    .accesskey = I
+forms-master-pw-use =
+    .label = Parol ustasidan foydalanish
+    .accesskey = f
+forms-master-pw-change =
+    .label = Parol ustasini oʻzgartirish
+    .accesskey = u
+
+## Privacy Section - History
+
+
+## Privacy Section - Site Data
+
+sitedata-accept-third-party-visited-option =
+    .label = Kirilganlardan
+sitedata-accept-third-party-never-option =
+    .label = Hech qachon
+sitedata-cookies-exceptions =
+    .label = Istisnolar…
+    .accesskey = I
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-block-popups-exceptions =
+    .label = Istisnolar…
+    .accesskey = I
+permissions-addon-exceptions =
+    .label = Istisnolar
+    .accesskey = I
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
+certs-header = Sertifikatlar
