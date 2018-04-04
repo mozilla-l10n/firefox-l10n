@@ -20,3 +20,25 @@
 
 <!ENTITY finishpage.shortdescription  "Egutegia sortuta" >
 <!ENTITY finishpage.longdescription   "Zure egutegia sortu da." >
+
+<!-- Below are new strings for the revised new calendar dialog. The above strings should be
+    removed/renamed later on -->
+
+<!ENTITY sourcetabs.other.label  "Besteak">
+
+<!ENTITY buttons.create.label "Sortu egutegi berria">
+<!ENTITY buttons.create.accesskey "S">
+
+<!ENTITY buttons.find.label "Bilatu egutegiak">
+<!ENTITY buttons.find.accesskey "B">
+
+<!ENTITY buttons.back.label "Atzera">
+<!ENTITY buttons.back.accesskey "A">
+
+<!ENTITY buttons.subscribe.label "Harpidetu">
+<!ENTITY buttons.subscribe.accesskey "H">
+
+<!ENTITY calendartype.label "Egutegi mota:">
+<!ENTITY location.label "Kokapena:">
+
+
