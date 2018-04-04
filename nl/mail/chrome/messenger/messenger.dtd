@@ -649,6 +649,7 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Berichten ophalen">
 <!ENTITY folderContextGetMessages.accesskey "B">
+<!ENTITY folderContextMarkAllFoldersRead.label "Alle mappen als gelezen markeren">
 <!ENTITY folderContextPauseAllUpdates.label "Alle updates pauzeren">
 <!ENTITY folderContextPauseUpdates.label "Updates pauzeren">
 <!ENTITY folderContextPauseUpdates.accesskey "U">
