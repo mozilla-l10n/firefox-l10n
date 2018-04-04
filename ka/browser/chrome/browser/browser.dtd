@@ -790,7 +790,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.removeCertException.label "გამონაკლისის წაშლა">
 <!ENTITY identity.removeCertException.accesskey "წ">
 
-<!ENTITY identity.moreInfoLinkText2 "მეტი ინფორმაცია">
+<!ENTITY identity.moreInfoLinkText2 "ვრცლად">
 
 <!ENTITY identity.permissions "ნებართვები">
 <!ENTITY identity.permissionsEmpty "ამ საიტისთვის განსაკუთრებული უფლებები არ მიგიციათ.">
