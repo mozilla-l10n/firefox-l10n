@@ -561,7 +561,7 @@ collection-browser-errors =
     .accesskey = f
 collection-browser-errors-link = Les mer
 collection-backlogged-crash-reports =
-    .label = Tillat { -brand-short-name } å sende etterslepne krasjrapporter på dine vegne
+    .label = Tillat { -brand-short-name } å sende etterslepne krasjrapporter på dine vegner
     .accesskey = s
 collection-backlogged-crash-reports-link = Les mer
 
