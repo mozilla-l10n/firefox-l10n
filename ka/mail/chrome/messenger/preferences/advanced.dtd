@@ -99,7 +99,7 @@
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-<!ENTITY useCacheBefore.label            "ბუფერის ზომა">
+<!ENTITY useCacheBefore.label            "გამოყენება, მანამ">
 <!ENTITY useCacheBefore.accesskey        "U">
 <!ENTITY useCacheAfter.label             "მბ ბუფერისთვის">
 <!ENTITY overrideSmartCacheSize.label    "კეშის ზომის თვითგანსაზღვრის უგულებელყოფა">

@@ -9,6 +9,7 @@
 <!ENTITY iconsAndText.label       "ხატულები და ტექსტი">
 <!ENTITY icons.label              "ხატულები">
 <!ENTITY text.label               "ტექსტი">
+<!ENTITY iconsBesideText.label    "ხატულები ტექსტთან ერთად">
 <!ENTITY useSmallIcons.label      "პატარა ხატულები">
 <!ENTITY restoreDefaultSet.label  "ნაგულისხმევის აღდგენა">
 <!ENTITY addNewToolbar.label      "ხელსაწყოთა ახალი ზოლი">

@@ -118,7 +118,7 @@
 </ul>
 ">
 
-<!ENTITY redirectLoop.title "ეს გვერდი მცდარად გადამისამართდა">
+<!ENTITY redirectLoop.title "ეს გვერდი არამართებულად გადამისამართდა">
 <!ENTITY redirectLoop.longDesc "
 <ul>
   <li>ეს პრობლემა ზოგჯერ წარმოიქმნება ნაჭდევების მიღების ამორთვის ან უარყოფის
