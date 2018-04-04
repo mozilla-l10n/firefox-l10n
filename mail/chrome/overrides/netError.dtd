@@ -25,7 +25,7 @@
 <!ENTITY fileAccessDenied.title "Tilgang til fila vart nekta">
 <!ENTITY fileAccessDenied.longDesc "<ul> <li>Fila kan ha vorte flytta, fjerna, eller filløyve kan hindra tilgang.</li> </ul>">
 
-<!ENTITY generic.title "Ojsann.">
+<!ENTITY generic.title "Ops.">
 <!ENTITY generic.longDesc "<p>&brandShortName; klarte ikkje å lasta denne sida av ukjent årsak.</p>">
 
 <!ENTITY malformedURI.title "Adressa er ugyldig">
