@@ -11,10 +11,10 @@
 <!ENTITY of.label             "სულ">
 <!ENTITY scale.label          "მასშტაბი:">
 <!ENTITY scale.accesskey      "S">
-<!ENTITY portrait.label       "პორტრეტი">
-<!ENTITY portrait.accesskey   "o">
-<!ENTITY landscape.label      "პეიზაჟი">
-<!ENTITY landscape.accesskey  "L">
+<!ENTITY portrait.label       "შვეულად">
+<!ENTITY portrait.accesskey   "შ">
+<!ENTITY landscape.label      "თარაზულად">
+<!ENTITY landscape.accesskey  "თ">
 <!ENTITY close.label          "დახურვა">
 <!ENTITY close.accesskey      "C">
 <!ENTITY p30.label            "30&#037;">
