@@ -4,10 +4,10 @@
 
 <!ENTITY  generalTab.label            "Algemeen">
 
-<!ENTITY startupAction.label          "Als &brandShortName; start:">
-<!ENTITY startupAction.accesskey      "s">
-<!ENTITY startupOffline.label         "Mijn chataccounts offline houden">
-<!ENTITY startupConnectAuto.label     "Mijn chataccounts automatisch verbinden">
+<!ENTITY  startupAction.label         "Als &brandShortName; start:">
+<!ENTITY  startupAction.accesskey     "s">
+<!ENTITY  startupOffline.label        "Mijn chataccounts offline houden">
+<!ENTITY  startupConnectAuto.label    "Mijn chataccounts automatisch verbinden">
 
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
 there's a field where the user can enter a number, and itemTime is
