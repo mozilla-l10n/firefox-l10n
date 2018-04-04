@@ -977,7 +977,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Repornește pentru a actualiza &brandShorterName;">
 
-<!ENTITY newTabControlled.message "O extensie a schimbat pagina văzută când deschizi o filă nouă. Poți restaura setările dacă nu vrei această schimbare.">
+<!ENTITY newTabControlled.message "O extensie a schimbat pagina pe care o vezi când deschizi o filă nouă. Poți restaura setările dacă nu vrei această schimbare.">
 
 <!ENTITY newTabControlled.header.message "Pagina de filă nouă s-a schimbat.">
 <!ENTITY newTabControlled.keepButton.label "Păstrează modificările">
@@ -985,6 +985,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.restoreButton.label "Restaurează setările">
 <!ENTITY newTabControlled.restoreButton.accesskey "R">
 
+<!ENTITY newTabControlled.disableButton.label "Dezactivează extensia">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "Acțiuni pentru pagină">
