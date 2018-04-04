@@ -5,7 +5,7 @@
 <!ENTITY aboutSupport.pageTitle "Feilsøking">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
-<!ENTITY aboutSupport.pageSubtitle "  Denne sida inneheld teknisk informasjon som kan vere nyttig når du prøver å løyse eit problem. Besøk også <a id='supportLink'>brukarstøttenettstaden</a> for å få svar på ofte stilte spørsmål om &brandShortName;.">
+<!ENTITY aboutSupport.pageSubtitle "  Denne sida inneheld teknisk informasjon som kan vere nyttig når du prøver å løyse eit problem. Gå til <a id='supportLink'>brukarstøttenettsida</a> for å få svar på ofte stilte spørsmål om &brandShortName;.">
 
 <!ENTITY aboutSupport.crashes.title "Krasjrapportar">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
