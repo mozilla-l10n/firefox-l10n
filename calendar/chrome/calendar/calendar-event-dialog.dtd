@@ -378,7 +378,6 @@
 <!ENTITY read.only.event.end.label       "Lopetusaika:">
 <!ENTITY read.only.task.due.label        "Valmis:">
 <!ENTITY read.only.repeat.label          "Toista:">
-<!ENTITY read.only.location.label        "Paikka:">
 <!ENTITY read.only.category.label        "Kategoria:">
 <!ENTITY read.only.organizer.label       "Järjestäjä:">
 <!ENTITY read.only.reply.label           "Vastaa:">
