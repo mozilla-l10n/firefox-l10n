@@ -338,23 +338,9 @@
 <!ENTITY event.recurrence.pattern.yearly.week.6.label        "perjantaina" >
 <!ENTITY event.recurrence.pattern.yearly.week.7.label        "lauantaina" >
 <!ENTITY event.recurrence.of.label                           "" >
-<!ENTITY event.recurrence.pattern.yearly.month2.1.label      "tammikuussa" >
-<!ENTITY event.recurrence.pattern.yearly.month2.2.label      "helmikuussa" >
-<!ENTITY event.recurrence.pattern.yearly.month2.3.label      "maaliskuussa" >
-<!ENTITY event.recurrence.pattern.yearly.month2.4.label      "huhtikuussa" >
-<!ENTITY event.recurrence.pattern.yearly.month2.5.label      "toukokuussa" >
-<!ENTITY event.recurrence.pattern.yearly.month2.6.label      "kesäkuussa" >
-<!ENTITY event.recurrence.pattern.yearly.month2.7.label      "heinäkuussa" >
-<!ENTITY event.recurrence.pattern.yearly.month2.8.label      "elokuussa" >
-<!ENTITY event.recurrence.pattern.yearly.month2.9.label      "syyskuussa" >
-<!ENTITY event.recurrence.pattern.yearly.month2.10.label     "lokakuussa" >
-<!ENTITY event.recurrence.pattern.yearly.month2.11.label     "marraskuussa" >
-<!ENTITY event.recurrence.pattern.yearly.month2.12.label     "joulukuussa" >
 
 <!ENTITY event.recurrence.range.label                   "Toistuvuuden takaraja">
-<!ENTITY event.recurrence.forever.label                 "Ei mitään" >
 <!ENTITY event.recurrence.repeat.for.label              "Luo" >
-<!ENTITY event.recurrence.appointments.label            "ajanvarausta" >
 <!ENTITY event.repeat.until.label                       "Toista seuraavaan päivään asti:" >
 <!ENTITY event.recurrence.preview.label                 "Esikatselu">
 
@@ -405,3 +391,5 @@
 <!ENTITY read.only.attendees.label       "Osallistujat">
 <!ENTITY read.only.description.label     "Kuvaus">
 <!ENTITY read.only.link.label            "Aiheeseen liittyvä linkki">
+
+<!-- Summary dialog -->

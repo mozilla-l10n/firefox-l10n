@@ -47,5 +47,5 @@
 <!ENTITY network.notfound.description "Tästä sijainnista ei löytynyt kalentereita. Tarkista asetukset.">
 <!ENTITY network.authfail.description "Syöttämiäsi kirjautumistietoja ei hyväksytty. Tarkista asetukset.">
 
-<!ENTITY network.subscribe.single.description "Valitse kalenterit jotka haluat tilata.">
-<!ENTITY network.subscribe.multiple.description "Tässä sijainnissa on monen tyyppisiä kalentereita. Valitse ensin kalenterin tyyppi ja valitse sitten kalenterit jotka haluat tilata.">
+<!ENTITY network.subscribe.single.description "Valitse kalenterit, jotka haluat tilata.">
+<!ENTITY network.subscribe.multiple.description "Tässä sijainnissa on monen tyyppisiä kalentereita. Valitse ensin kalenterin tyyppi ja valitse sitten kalenterit, jotka haluat tilata.">
