@@ -5,7 +5,19 @@
 <!-- extracted from content/pref-media.xul -->
 
 <!-- LOCALIZATION NOTE : FILE Media management prefs -->
-<!ENTITY pref.media.title                  "Media">
-<!ENTITY mediaHTML5Preferences.label       "Audio/Video">
-<!ENTITY allowMediaAutoplay.label          "Abilita riproduzione automatica dei contenuti multimediali HTML5">
-<!ENTITY allowMediaAutoplay.accesskey      "A">
+<!ENTITY pref.media.title               "Media">
+<!ENTITY mediaHTML5Preferences.label    "Audio/Video">
+<!ENTITY allowMediaAutoplay.label       "Abilita riproduzione automatica dei contenuti multimediali HTML5">
+<!ENTITY allowMediaAutoplay.accesskey   "A">
+
+<!ENTITY enableDrmMedia.label           "Abilita Digital Rights Management (DRM) per">
+<!ENTITY enableEmeForSuite.label        "Moduli di decifrazione contenuti di terze parti">
+<!ENTITY enableEmeForSuite.accesskey    "o">
+
+<!ENTITY animLoopingTitle.label         "L'animazione delle immagini può essere ripetuta">
+<!ENTITY animLoopAsSpecified.label      "Tante volte quante specificate dall'immagine">
+<!ENTITY animLoopAsSpecified.accesskey  "T">
+<!ENTITY animLoopOnce.label             "Una volta sola">
+<!ENTITY animLoopOnce.accesskey         "U">
+<!ENTITY animLoopNever.label            "Mai">
+<!ENTITY animLoopNever.accesskey        "M">
