@@ -59,14 +59,14 @@ available. -->
 <!ENTITY httpCache.label                 "Välimuistissa oleva verkkosisältö">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
-<!ENTITY siteData.label                  "Sivustojen tallentamat tiedot">
+<!ENTITY siteData.label                  "Sivustotiedot">
 <!ENTITY clearSiteData.label             "Tyhjennä kaikki tiedot">
 <!ENTITY clearSiteData.accesskey         "k">
-<!ENTITY siteData1.label                 "Evästeet ja sivustojen tallentamat tiedot">
-<!ENTITY clearSiteData1.label            "Tyhjennä tiedot…">
-<!ENTITY clearSiteData1.accesskey        "y">
 <!ENTITY siteDataSettings.label          "Asetukset…">
 <!ENTITY siteDataSettings.accesskey      "e">
+<!ENTITY siteData1.label                 "Evästeet ja sivustotiedot">
+<!ENTITY clearSiteData1.label            "Tyhjennä tiedot…">
+<!ENTITY clearSiteData1.accesskey        "y">
 <!ENTITY siteDataSettings1.label         "Hallitse tietoja…">
 <!ENTITY siteDataSettings1.accesskey     "H">
 <!ENTITY siteDataLearnMoreLink.label     "Lue lisää">

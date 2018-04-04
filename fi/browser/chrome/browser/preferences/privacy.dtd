@@ -44,13 +44,13 @@
 <!ENTITY  acceptThirdParty2.pre.label     "Salli kolmannen osapuolen evästeet">
 <!ENTITY  acceptThirdParty2.pre.accesskey "m">
 
-<!ENTITY  acceptCookies4.label          "Hyväksy evästeet ja sivustojen tallentamat tiedot sivustoilta (suositus)">
+<!ENTITY  acceptCookies4.label          "Hyväksy evästeet ja sivustotiedot sivustoilta (suositus)">
 <!ENTITY  acceptCookies4.accesskey      "H">
 
-<!ENTITY  blockCookies.label            "Estä evästeet ja sivustojen tallentamat tiedot (voi aiheuttaa sivustojen toimimattomuutta)">
+<!ENTITY  blockCookies.label            "Estä evästeet ja sivustotiedot (voi aiheuttaa sivustojen toimimattomuutta)">
 <!ENTITY  blockCookies.accesskey        "E">
 
-<!ENTITY  acceptThirdParty3.pre.label     "Hyväksy kolmannen osapuolen evästeet ja sivustojen tallentamat tiedot">
+<!ENTITY  acceptThirdParty3.pre.label     "Hyväksy kolmannen osapuolen evästeet ja sivustotiedot">
 <!ENTITY  acceptThirdParty3.pre.accesskey "k">
 <!ENTITY  acceptThirdParty.always.label   "Aina">
 <!ENTITY  acceptThirdParty.never.label    "Ei milloinkaan">
