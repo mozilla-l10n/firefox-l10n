@@ -36,6 +36,12 @@
 <!ENTITY newFeedAccountCmd.accesskey "რ">
 <!ENTITY newIMContactCmd.label "სასაუბროს კონტაქტი…">
 <!ENTITY newIMContactCmd.accesskey "ს">
+<!ENTITY  newMessageCmd2.key "ი">
+<!ENTITY  newMessageCmd.key "M">
+<!ENTITY  newMessageCmd.label "შეტყობინება">
+<!ENTITY  newMessageCmd.accesskey "შ">
+<!ENTITY  newContactCmd.label "წიგნაკის ჩანაწერი…">
+<!ENTITY  newContactCmd.accesskey "ჩ">
 <!ENTITY openMessageFileCmd.label "შენახული წერილის გახსნა…">
 <!ENTITY openMessageFileCmd.accesskey "წ">
 <!ENTITY saveAsMenu.label "ჩაწერა როგორც">
@@ -509,8 +515,6 @@
 <!ENTITY devToolboxCmd.label "შემმუშავებლის ხელსაწყოები">
 <!ENTITY devToolboxCmd.accesskey "ხ">
 <!ENTITY devToolboxCmd.commandkey "i">
-<!ENTITY addonDebugCmd.label "დამატების გამმართველი">
-<!ENTITY addonDebugCmd.accesskey "დ">
 <!ENTITY debugAddonsCmd.label "დამატებების გამართვა">
 <!ENTITY debugAddonsCmd.accesskey "დ">
 <!ENTITY tabsDebugCmd.label "შიგთავსის კადრის გამმართველი">
