@@ -19,7 +19,7 @@
 <!ENTITY  generalURL            "მისამართი:">
 <!ENTITY  generalType           "სახეობა:">
 <!ENTITY  generalMode           "ასახვის რეჟიმი:">
-<!ENTITY  generalSize           "ზომა:">
+<!ENTITY  generalSize           "მოცულობა:">
 <!ENTITY  generalReferrer       "დამოწმების URL:">
 <!ENTITY  generalSource         "კეშის წყარო:">
 <!ENTITY  generalModified       "ბოლო ცვლილება:">
@@ -34,7 +34,7 @@
 <!ENTITY  mediaAltHeader        "ალტერნატული ტექსტი">
 <!ENTITY  mediaAddress          "მისამართი">
 <!ENTITY  mediaType             "სახეობა">
-<!ENTITY  mediaSize             "ზომა">
+<!ENTITY  mediaSize             "მოცულობა">
 <!ENTITY  mediaCount            "რაოდენობა">
 <!ENTITY  mediaDimension        "ზომები:">
 <!ENTITY  mediaLongdesc         "ვრცელი აღწერა:">
