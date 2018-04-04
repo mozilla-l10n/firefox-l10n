@@ -44,7 +44,7 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "F">
 <!ENTITY  unpinTab.label                     "Løys fana">
 <!ENTITY  unpinTab.accesskey                 "s">
-<!ENTITY  sendTabToDevice.label              "Send fane til eining">
+<!ENTITY  sendTabToDevice.label              "Send fane til ei eining">
 <!ENTITY  sendTabToDevice.accesskey          "e">
 <!ENTITY  sendPageToDevice.label             "Send sida til eining">
 <!ENTITY  sendPageToDevice.accesskey         "e">
@@ -1000,7 +1000,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.disallowInUrlbar.label "Ikkje vis i adresselinja">
 <!ENTITY pageAction.manageExtension.label "Handter utvidingar…">
 
-<!ENTITY pageAction.sendTabToDevice.label "Send fane til eining">
+<!ENTITY pageAction.sendTabToDevice.label "Send fane til ei eining">
 <!ENTITY sendToDevice.syncNotReady.label "Synkroniserer einingar…">
 
 <!ENTITY libraryButton.tooltip "Vis historikk, lagra bokmerker med meir">
