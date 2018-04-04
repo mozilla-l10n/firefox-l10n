@@ -44,7 +44,7 @@ available. -->
 <!ENTITY collectBrowserErrors.accesskey      "f">
 <!ENTITY collectBrowserErrorsLearnMore.label "Les mer">
 
-<!ENTITY sendBackloggedCrashReports.label  "Tillat &brandShortName; å sende etterslepne krasjrapporter på dine vegne">
+<!ENTITY sendBackloggedCrashReports.label  "Tillat &brandShortName; å sende etterslepne krasjrapporter på dine vegner">
 <!ENTITY sendBackloggedCrashReports.accesskey "s">
 <!ENTITY crashReporterLearnMore.label    "Les mer">
 
@@ -62,11 +62,11 @@ available. -->
 <!ENTITY siteData.label                  "Nettstedsdata">
 <!ENTITY clearSiteData.label             "Fjern alle data">
 <!ENTITY clearSiteData.accesskey         "l">
+<!ENTITY siteDataSettings.label          "Innstillinger …">
+<!ENTITY siteDataSettings.accesskey      "I">
 <!ENTITY siteData1.label                 "Infokapsler og nettstedsdata">
 <!ENTITY clearSiteData1.label            "Tøm data…">
 <!ENTITY clearSiteData1.accesskey        "a">
-<!ENTITY siteDataSettings.label          "Innstillinger …">
-<!ENTITY siteDataSettings.accesskey      "I">
 <!ENTITY siteDataSettings1.label         "Behandle data…">
 <!ENTITY siteDataSettings1.accesskey     "B">
 <!ENTITY siteDataLearnMoreLink.label     "Les mer">
