@@ -14,3 +14,10 @@
 <!ENTITY enableEmeForSuite.label        "მესამე მხარის შიგთავსის გამშიფრავი მოდულები">
 <!ENTITY enableEmeForSuite.accesskey    "გ">
 
+<!ENTITY animLoopingTitle.label         "მოძრავი სურათები გაეშვას">
+<!ENTITY animLoopAsSpecified.label      "იმდენჯერ, რამდენჯერაც მითითებული აქვს">
+<!ENTITY animLoopAsSpecified.accesskey  "ი">
+<!ENTITY animLoopOnce.label             "ერთხელ">
+<!ENTITY animLoopOnce.accesskey         "ე">
+<!ENTITY animLoopNever.label            "არასდროს">
+<!ENTITY animLoopNever.accesskey        "ა">
