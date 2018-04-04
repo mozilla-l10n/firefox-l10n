@@ -590,13 +590,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveImageCmd.accesskey       "ნ">
 <!ENTITY saveVideoCmd.label           "ვიდეოს შენახვა როგორც...">
 <!ENTITY saveVideoCmd.accesskey       "ნ">
-<!ENTITY saveAudioCmd.label           "აუდიოს შენახვა როგორც…">
+<!ENTITY saveAudioCmd.label           "ხმოვანი ფაილის შენახვა როგორც…">
 <!ENTITY saveAudioCmd.accesskey       "ნ">
 <!ENTITY emailImageCmd.label          "სურათის გაგზავნა ელფოსტით…">
 <!ENTITY emailImageCmd.accesskey      "ე">
 <!ENTITY emailVideoCmd.label          "ვიდეოს გაგზავნა ელფოსტით…">
 <!ENTITY emailVideoCmd.accesskey      "ე">
-<!ENTITY emailAudioCmd.label          "აუდიოს გაგზავნა ელფოსტით…">
+<!ENTITY emailAudioCmd.label          "ხმოვანი ფაილის გაგზავნა ელფოსტით…">
 <!ENTITY emailAudioCmd.accesskey      "ე">
 <!ENTITY playPluginCmd.label          "ამ მოდულის ჩართვა">
 <!ENTITY playPluginCmd.accesskey      "ჩ">
@@ -610,7 +610,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageContentsCmd.accesskey  "რ">
 <!ENTITY copyVideoURLCmd.label        "ვიდეოს მისამართის დაკოპირება">
 <!ENTITY copyVideoURLCmd.accesskey    "კ">
-<!ENTITY copyAudioURLCmd.label        "აუდიოს მისამართის დაკოპირება">
+<!ENTITY copyAudioURLCmd.label        "ხმოვანი ფაილის მისამართის დაკოპირება">
 <!ENTITY copyAudioURLCmd.accesskey    "კ">
 <!ENTITY copyEmailCmd.label           "ელფოსტის მისამართის დაკოპირება">
 <!ENTITY copyEmailCmd.accesskey       "ე">
@@ -647,8 +647,8 @@ movie "Space Balls" and is meant to say that this speed is very
 fast. -->
 <!ENTITY mediaPlaybackRate200x2.label "გიჟური (2×)">
 <!ENTITY mediaPlaybackRate200x2.accesskey "გ">
-<!ENTITY mediaLoop.label             "ციკლი">
-<!ENTITY mediaLoop.accesskey         "ც">
+<!ENTITY mediaLoop.label             "გამეორება დაუსრულებლად">
+<!ENTITY mediaLoop.accesskey         "გ">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -656,7 +656,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaShowControls.accesskey "ზ">
 <!ENTITY mediaHideControls.label     "სამართავი ზოლის დამალვა">
 <!ENTITY mediaHideControls.accesskey "ზ">
-<!ENTITY videoFullScreen.label       "სრული ეკრანი">
+<!ENTITY videoFullScreen.label       "სრულ ეკრანზე">
 <!ENTITY videoFullScreen.accesskey   "ს">
 <!ENTITY videoSaveImage.label        "კადრის შენახვა როგორც…">
 <!ENTITY videoSaveImage.accesskey    "ა">
