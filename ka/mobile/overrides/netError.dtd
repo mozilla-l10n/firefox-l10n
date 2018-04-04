@@ -134,7 +134,7 @@
   </li>
 </ul>">
 
-<!ENTITY redirectLoop.title "ეს გვერდი მცდარად გადამისამართდა">
+<!ENTITY redirectLoop.title "ეს გვერდი არამართებულად გადამისამართდა">
 <!ENTITY redirectLoop.longDesc "
 <ul>
   <li>ამ ხარვეზს, ზოგჯერ იწვევს უარყოფა ან გამორთვა
