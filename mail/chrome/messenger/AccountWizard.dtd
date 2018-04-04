@@ -26,8 +26,8 @@
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY fullnameDesc.label "Voer de naam in die u wilt gebruiken in het ‘Van’-veld van uw uitgaande berichten">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
-	1, do not translate two of "&quot;"
-	2, Use localized full name instead of "John Smith"
+  1, do not translate two of "&quot;"
+  2, Use localized full name instead of "John Smith"
 -->
 <!ENTITY fullnameExample.label "(bijvoorbeeld ‘Jan Smit’).">
 <!ENTITY fullnameLabel.label "Uw naam:">
@@ -87,7 +87,7 @@
 <!ENTITY haveSmtp1.prefix "Uw bestaande uitgaande (SMTP-)server, ‘">
 <!ENTITY haveSmtp1.suffix3 "’, zal worden gebruikt.">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
-    these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Uw bestaande uitgaande (SMTP-)gebruikersnaam, ‘">

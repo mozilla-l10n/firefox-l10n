@@ -852,7 +852,7 @@
      selected. For example, if folder "A" has two children, "B" and "C", then
      when the user hovers over "A", a new popup menu will be displayed whose
      items are "This folder", "B", and "C". This is the equivalent of the
-     "File here" option for the move to/copy to widge.t
+     "File here" option for the move to/copy to widget.
   -->
 <!ENTITY columnPicker.thisFolder.label "Deze map">
 
