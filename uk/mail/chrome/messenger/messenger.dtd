@@ -36,6 +36,12 @@
 <!ENTITY newFeedAccountCmd.accesskey "т">
 <!ENTITY newIMContactCmd.label "Контакт чату…">
 <!ENTITY newIMContactCmd.accesskey "ч">
+<!ENTITY  newMessageCmd2.key "N">
+<!ENTITY  newMessageCmd.key "M">
+<!ENTITY  newMessageCmd.label "Повідомлення">
+<!ENTITY  newMessageCmd.accesskey "П">
+<!ENTITY  newContactCmd.label "Контакт адресної книги…">
+<!ENTITY  newContactCmd.accesskey "К">
 <!ENTITY openMessageFileCmd.label "Відкрити збережене повідомлення…">
 <!ENTITY openMessageFileCmd.accesskey "к">
 <!ENTITY saveAsMenu.label "Зберегти як">
@@ -509,8 +515,6 @@
 <!ENTITY devToolboxCmd.label "Панель розробника">
 <!ENTITY devToolboxCmd.accesskey "П">
 <!ENTITY devToolboxCmd.commandkey "i">
-<!ENTITY addonDebugCmd.label "Зневадження додатків">
-<!ENTITY addonDebugCmd.accesskey "З">
 <!ENTITY debugAddonsCmd.label "Зневадження додатків">
 <!ENTITY debugAddonsCmd.accesskey "З">
 <!ENTITY tabsDebugCmd.label "Зневаджувач фрейму вмісту">
