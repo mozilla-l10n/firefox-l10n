@@ -383,6 +383,88 @@ containers-preferences-button =
 containers-remove-button =
     .label = Elimina
 
+## Sync Section - Signed out
+
+sync-signedout-caption = Il tuo Web, sempre con te
+sync-signedout-description = Sincronizza segnalibri, cronologia, schede, password, componenti aggiuntivi e impostazioni attraverso tutti i tuoi dispositivi.
+sync-signedout-account-title = Connetti { -fxaccount-brand-name }
+sync-signedout-account-create = Non hai ancora un account? Scopri come crearne uno
+    .accesskey = h
+sync-signedout-account-signin =
+    .label = Accedi…
+    .accesskey = d
+
+## Sync Section - Signed in
+
+sync-profile-picture =
+    .tooltiptext = Cambia l’immagine del profilo
+sync-disconnect =
+    .label = Disconnetti…
+    .accesskey = t
+sync-manage-account = Gestisci account
+    .accesskey = G
+sync-signedin-unverified = { $email } non è verificato.
+sync-signedin-login-failure = Accedi per riattivare la connessione con { $email }
+sync-resend-verification =
+    .label = Invia di nuovo email di verifica
+    .accesskey = n
+sync-remove-account =
+    .label = Elimina account
+    .accesskey = n
+sync-sign-in =
+    .label = Accedi
+    .accesskey = A
+sync-signedin-settings-header = Impostazioni di sincronizzazione
+sync-signedin-settings-desc = Scegli gli elementi da sincronizzare sui dispositivi con { -brand-short-name }.
+sync-engine-bookmarks =
+    .label = Segnalibri
+    .accesskey = e
+sync-engine-history =
+    .label = Cronologia
+    .accesskey = C
+sync-engine-tabs =
+    .label = Schede aperte
+    .tooltiptext = Elementi aperti nei dispositivi sincronizzati
+    .accesskey = h
+sync-engine-logins =
+    .label = Accessi
+    .tooltiptext = Nomi utente e password salvati
+    .accesskey = i
+sync-engine-addresses =
+    .label = Indirizzi
+    .tooltiptext = Indirizzi salvati come via, città, ecc. (solo per desktop)
+    .accesskey = I
+sync-engine-creditcards =
+    .label = Carte di credito
+    .tooltiptext = Nome, numero e data di scadenza (solo per desktop)
+    .accesskey = r
+sync-engine-addons =
+    .label = Componenti aggiuntivi
+    .tooltiptext = Estensioni e temi per Firefox desktop
+    .accesskey = o
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Opzioni
+           *[other] Preferenze
+        }
+    .tooltiptext = Impostazioni modificate nei pannelli “Generale” e “Privacy e sicurezza”
+    .accesskey = z
+sync-device-name-header = Nome dispositivo
+sync-device-name-change =
+    .label = Cambia nome dispositivo…
+    .accesskey = d
+sync-device-name-cancel =
+    .label = Annulla
+    .accesskey = n
+sync-device-name-save =
+    .label = Salva
+    .accesskey = S
+sync-mobilepromo-single = Connetti un altro dispositivo
+sync-mobilepromo-multi = Gestisci dispositivi
+sync-tos-link = Condizioni di utilizzo del servizio
+sync-fxa-privacy-notice = Informativa sulla privacy
+
 ## Privacy Section
 
 privacy-header = Privacy del browser
