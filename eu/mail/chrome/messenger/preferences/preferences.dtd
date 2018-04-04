@@ -2,6 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  windowClose.key                  "w">
+<!ENTITY  preferencesDefaultTitleMac.title "Hobespenak">
+<!ENTITY  preferencesDefaultTitleWin.title "Aukerak">
+<!ENTITY  preferencesCloseButton.label     "Itxi">
+<!ENTITY  preferencesCloseButton.accesskey "I">
+
 <!ENTITY  prefWindow.titleWin     "Aukerak">
 <!ENTITY  prefWindow.titleGNOME   "&brandShortName;(r)en hobespenak">
 <!ENTITY  prefWindow.titleMAC     "Hobespenak">

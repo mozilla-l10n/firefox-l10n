@@ -88,6 +88,17 @@
 <!ENTITY reorderAttachmentsCmd.label "Berrordenatu eranskinak…">
 <!ENTITY reorderAttachmentsCmd.accesskey "o">
 <!ENTITY reorderAttachmentsCmd.key "x">
+<!ENTITY toggleAttachmentPaneCmd.label "Eranskinen panela">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
+     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
+     as attachments.accesskey. -->
+<!ENTITY toggleAttachmentPaneCmd.accesskey "m">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
+     With OS-specific access modifier, this defines the shortcut key for showing/
+     hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
+     toggleAttachmentPaneCmd.key and attachments.accesskey must be the same
+     for the bucket view state machinery to work. -->
+<!ENTITY toggleAttachmentPaneCmd.key "m">
 <!ENTITY selectAllCmd.label "Hautatu dena">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
@@ -109,26 +120,10 @@
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Berrordenatu eranskinak">
 <!ENTITY moveAttachmentTopPanelBtn.label "Mugitu goraino">
-<!ENTITY moveAttachmentTopPanelBtn.accesskey "G">
 <!ENTITY moveAttachmentUpPanelBtn.label "Eraman gorantz">
-<!ENTITY moveAttachmentUpPanelBtn.accesskey "E">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Mugitu batera">
-<!ENTITY moveAttachmentBundleUpPanelBtn.accesskey "t">
 <!ENTITY moveAttachmentDownPanelBtn.label "Eraman beherantz">
-<!ENTITY moveAttachmentDownPanelBtn.accesskey "b">
 <!ENTITY moveAttachmentBottomPanelBtn.label "Mugitu beheraino">
-<!ENTITY moveAttachmentBottomPanelBtn.accesskey "B">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.label):
-     Please ensure that this translation matches
-     sortAttachmentsTogglePanelBtn.ZA.label, except for the sort direction. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.label "Ordena aukera: A - Z">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.accesskey):
-     This accesskey should be the same like
-     sortAttachmentsTogglePanelBtn.ZA.accesskey, and it should be taken from
-     the "Sort Selection:" part of the label, not from the sort direction part. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.accesskey "O">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.label "Ordena aukera: Z - A">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.accesskey "O">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -253,6 +248,7 @@
 <!ENTITY quoteButton.tooltip "Aipatu aurreko mezua">
 <!ENTITY addressButton.tooltip "Hautatu hartzaile bat helbide-liburuan">
 <!ENTITY attachButton.tooltip "Erantsi fitxategia">
+<!ENTITY attachButton.tooltip2 "Gehitu eranskina">
 <!ENTITY spellingButton.tooltip "Egiaztatu hautapenaren edo orri osoaren ortografia">
 <!ENTITY saveButton.tooltip "Gorde mezu hau">
 <!ENTITY cutButton.tooltip              "Ebaki">
@@ -274,9 +270,14 @@
 <!ENTITY followupAddr.label "Jarraipena honi:">
 <!ENTITY subject.label "Gaia:">
 <!ENTITY subject.accesskey "G">
-<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
-     to the strings in attachmentCount in composeMsgs.properties -->
+<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
+     be taken from the strings in attachmentCount in composeMsgs.properties,
+     and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
+     work, as the shortcut key functionality supersedes the access key. -->
 <!ENTITY attachments.accesskey "n">
+
+<!ENTITY attachmentBucketHeader.tooltip "Eranskinen panela">
+<!ENTITY attachmentBucketCloseButton.tooltip "Ezkutatu eranskinen panela">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Txertatu aurpegiera">
@@ -314,6 +315,7 @@
 <!ENTITY pasteQuote.label "Itsatsi aipamen bezala">
 <!ENTITY pasteQuote.accesskey "p">
 
+<!-- Attachment Item and List Context Menus -->
 <!ENTITY openAttachment.label "Ireki">
 <!ENTITY openAttachment.accesskey "I">
 <!ENTITY delete.label "Ezabatu">
@@ -324,6 +326,8 @@
 <!ENTITY renameAttachment.accesskey "r">
 <!ENTITY reorderAttachments.label "Berrordenatu eranskinak…">
 <!ENTITY reorderAttachments.accesskey "d">
+<!ENTITY removeAllAttachments.label "Ezabatu eranskinak">
+<!ENTITY removeAllAttachments.accesskey "z">
 <!ENTITY selectAll.label "Hautatu dena">
 <!ENTITY selectAll.accesskey "a">
 <!ENTITY attachFile.label "Erantsi fitxategia(k)…">
@@ -338,6 +342,13 @@
 <!ENTITY convertRegularAttachment.accesskey "E">
 <!ENTITY attachPage.label "Erantsi webgunea…">
 <!ENTITY attachPage.accesskey "w">
+
+<!-- Attachment Pane Header Bar Context Menu -->
+<!-- LOCALIZATION NOTE (initiallyShowAttachmentPane.label):
+     Should use the same wording as startExpandedCmd.label
+     in msgHdrViewOverlay.dtd. -->
+<!ENTITY initiallyShowAttachmentPane.label "Erakutsi eranskinen panela hasieran">
+<!ENTITY initiallyShowAttachmentPane.accesskey "e">
 
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Gehitu hiztegiak…">
