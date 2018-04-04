@@ -172,12 +172,49 @@
 <!ENTITY calendar.context.copyevent.accesskey         "K">
 <!ENTITY calendar.context.pasteevent.label            "Liitä">
 <!ENTITY calendar.context.pasteevent.accesskey        "i">
-<!ENTITY calendar.context.button.label                "Tänään-ruutu" >
-<!ENTITY calendar.context.button.accesskey            "T" >
-<!ENTITY calendar.context.attendance.menu.label       "Osallistuminen" >
-<!ENTITY calendar.context.attendance.menu.accesskey   "O" >
-<!ENTITY calendar.context.attendance.occurrence.label "Vain tämä esiintymä" >
+<!ENTITY calendar.context.button.label                "Tänään-ruutu">
+<!ENTITY calendar.context.button.accesskey            "T">
+
+<!ENTITY calendar.context.attendance.menu.label                 "Osallistuminen">
+<!ENTITY calendar.context.attendance.menu.accesskey             "O">
+<!ENTITY calendar.context.attendance.occurrence.label           "Vain tämä esiintymä">
 <!ENTITY calendar.context.attendance.all.label        "Kaikki esiintymät" >
+
+<!ENTITY calendar.context.attendance.all2.label                 "Valmis sarja">
+<!ENTITY calendar.context.attendance.send.label                 "Lähetä ilmoitus nyt">
+<!ENTITY calendar.context.attendance.send.accesskey             "L">
+<!ENTITY calendar.context.attendance.dontsend.label             "Älä lähetä muistutusta">
+<!ENTITY calendar.context.attendance.dontsend.accesskey         "Ä">
+
+<!ENTITY calendar.context.attendance.occ.accepted.accesskey     "y">
+<!ENTITY calendar.context.attendance.occ.accepted.label         "Hyväksytty">
+<!ENTITY calendar.context.attendance.occ.tentative.accesskey    "u">
+<!ENTITY calendar.context.attendance.occ.tentative.label        "Hyväksytty alustavasti">
+<!ENTITY calendar.context.attendance.occ.declined.accesskey     "ä">
+<!ENTITY calendar.context.attendance.occ.declined.label         "Hylätty">
+<!ENTITY calendar.context.attendance.occ.delegated.accesskey    "e">
+<!ENTITY calendar.context.attendance.occ.delegated.label        "Delegoitu">
+<!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "T">
+<!ENTITY calendar.context.attendance.occ.needsaction.label      "Tarvitsee vielä toimia">
+<!ENTITY calendar.context.attendance.occ.inprogress.accesskey   "n">
+<!ENTITY calendar.context.attendance.occ.inprogress.label       "Meneillään">
+<!ENTITY calendar.context.attendance.occ.completed.accesskey    "V">
+<!ENTITY calendar.context.attendance.occ.completed.label        "Valmis">
+
+<!ENTITY calendar.context.attendance.all.accepted.accesskey     "y">
+<!ENTITY calendar.context.attendance.all.accepted.label         "Hyväksytty">
+<!ENTITY calendar.context.attendance.all.tentative.accesskey    "a">
+<!ENTITY calendar.context.attendance.all.tentative.label        "Hyväksytty alustavasti">
+<!ENTITY calendar.context.attendance.all.declined.accesskey     "H">
+<!ENTITY calendar.context.attendance.all.declined.label         "Hylätty">
+<!ENTITY calendar.context.attendance.all.delegated.accesskey    "D">
+<!ENTITY calendar.context.attendance.all.delegated.label        "Delegoitu">
+<!ENTITY calendar.context.attendance.all.needsaction.accesskey  "T">
+<!ENTITY calendar.context.attendance.all.needsaction.label      "Tarvitsee vielä toimia">
+<!ENTITY calendar.context.attendance.all.inprogress.accesskey   "K">
+<!ENTITY calendar.context.attendance.all.inprogress.label       "Käynnissä">
+<!ENTITY calendar.context.attendance.all.completed.accesskey    "V">
+<!ENTITY calendar.context.attendance.all.completed.label        "Valmis">
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Edistyminen">
