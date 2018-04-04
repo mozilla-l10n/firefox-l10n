@@ -4,91 +4,91 @@
 
 <!-- Context Menu -->
 <!ENTITY popupWindowRejectCmd.label     "ამ საიტიდან ფირნიშების აკრძალვა">
-<!ENTITY popupWindowRejectCmd.accesskey "o">
+<!ENTITY popupWindowRejectCmd.accesskey "ა">
 <!ENTITY popupWindowAllowCmd.label      "ამ საიტიდან ფირნიშების დაშვება">
-<!ENTITY popupWindowAllowCmd.accesskey  "o">
+<!ENTITY popupWindowAllowCmd.accesskey  "დ">
 <!ENTITY openLinkCmdInTab.label       "ბმის ახალ დაფაზე გახსნა">
-<!ENTITY openLinkCmdInTab.accesskey   "T">
+<!ENTITY openLinkCmdInTab.accesskey   "გ">
 <!ENTITY openLinkCmd.label            "ბმის ახალ სარკმლეში გახსნა">
-<!ENTITY openLinkCmd.accesskey        "W">
+<!ENTITY openLinkCmd.accesskey        "რ">
 <!ENTITY openLinkCmdInPrivateWindow.label     "ბმის პირად სარკმელში გახსნა">
-<!ENTITY openLinkCmdInPrivateWindow.accesskey "d">
+<!ENTITY openLinkCmdInPrivateWindow.accesskey "პ">
 <!ENTITY openLinkInWindowCmd.label    "გახსნა">
-<!ENTITY openLinkInWindowCmd.accesskey "p">
-<!ENTITY openFrameCmd.label           "ბლოკის ახალ სარკმელში გახსნა">
-<!ENTITY openFrameCmd.accesskey       "W">
-<!ENTITY openFrameCmdInTab.label      "ბლოკის ახალ დაფაზე გახსნა">
-<!ENTITY openFrameCmdInTab.accesskey  "T">
+<!ENTITY openLinkInWindowCmd.accesskey "ხ">
+<!ENTITY openFrameCmd.label           "ჩარჩოს ახალ სარკმელში გახსნა">
+<!ENTITY openFrameCmd.accesskey       "ჩ">
+<!ENTITY openFrameCmdInTab.label      "ჩარჩოს ახალ დაფაზე გახსნა">
+<!ENTITY openFrameCmdInTab.accesskey  "რ">
 <!ENTITY keywordfield.label           "საკვანძო სიტყვის დამატება ამ ძიებაში…">
-<!ENTITY keywordfield.accesskey       "K">
-<!ENTITY showOnlyThisFrameCmd.label     "მხოლოდ ამ ბლოკის ჩვენება">
-<!ENTITY showOnlyThisFrameCmd.accesskey "S">
+<!ENTITY keywordfield.accesskey       "კ">
+<!ENTITY showOnlyThisFrameCmd.label     "მხოლოდ ამ ჩარჩოს ჩვენება">
+<!ENTITY showOnlyThisFrameCmd.accesskey "ო">
 <!ENTITY goBackCmd.label              "უკან">
-<!ENTITY goBackCmd.accesskey          "B">
+<!ENTITY goBackCmd.accesskey          "უ">
 <!ENTITY goForwardCmd.label           "წინ">
-<!ENTITY goForwardCmd.accesskey       "F">
+<!ENTITY goForwardCmd.accesskey       "წ">
 <!ENTITY goUpCmd.label                "ზემოთ">
-<!ENTITY goUpCmd.accesskey            "U">
+<!ENTITY goUpCmd.accesskey            "ზ">
 <!ENTITY reloadCmd.label              "განახლება">
-<!ENTITY reloadCmd.accesskey          "R">
+<!ENTITY reloadCmd.accesskey          "ლ">
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY stopCmd.label                "შეჩერება">
-<!ENTITY stopCmd.accesskey            "S">
-<!ENTITY reloadFrameCmd.label         "ბლოკის განახლება">
-<!ENTITY reloadFrameCmd.accesskey     "R">
+<!ENTITY stopCmd.accesskey            "ე">
+<!ENTITY reloadFrameCmd.label         "ჩარჩოს განახლება">
+<!ENTITY reloadFrameCmd.accesskey     "ლ">
 <!ENTITY viewPartialSourceForSelectionCmd.label "მონიშნულის წყაროს ჩვენება">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "MathML წყაროს ჩვენება">
-<!ENTITY viewPartialSourceCmd.accesskey "u">
-<!ENTITY viewPageSourceCmd.label      "გვერდის წყაროს ჩევენება">
-<!ENTITY viewPageSourceCmd.accesskey  "V">
-<!ENTITY viewFrameSourceCmd.label     "ბლოკის წყაროს ჩევენება">
-<!ENTITY viewFrameSourceCmd.accesskey "V">
-<!ENTITY viewPageInfoCmd.label        "ინფორმაცია გვერდის შესახებ">
-<!ENTITY viewPageInfoCmd.accesskey    "I">
-<!ENTITY viewFrameInfoCmd.label       "ინფორმაცია ბლოკის შესახებ">
-<!ENTITY viewFrameInfoCmd.accesskey   "I">
+<!ENTITY viewPartialSourceCmd.accesskey "ყ">
+<!ENTITY viewPageSourceCmd.label      "გვერდის წყაროს ჩვენება">
+<!ENTITY viewPageSourceCmd.accesskey  "წ">
+<!ENTITY viewFrameSourceCmd.label     "ჩარჩოს წყაროს ჩევენება">
+<!ENTITY viewFrameSourceCmd.accesskey "წ">
+<!ENTITY viewPageInfoCmd.label        "გვერდის მონაცემების ჩვენება">
+<!ENTITY viewPageInfoCmd.accesskey    "ვ">
+<!ENTITY viewFrameInfoCmd.label       "ჩარჩოს მონაცემების ჩვენება">
+<!ENTITY viewFrameInfoCmd.accesskey   "ვ">
 <!ENTITY fitImageCmd.label            "გამოსახულების მორგება ფანჯრის ზომაზე">
-<!ENTITY fitImageCmd.accesskey        "F">
+<!ENTITY fitImageCmd.accesskey        "მ">
 <!ENTITY reloadImageCmd.label         "გამოსახულების განახლება">
-<!ENTITY reloadImageCmd.accesskey     "R">
-<!ENTITY viewImageCmd.label           "გამოსახულების ჩვენება">
-<!ENTITY viewImageCmd.accesskey       "I">
-<!ENTITY viewVideoCmd.label           "ვიდეოს ჩვენება">
-<!ENTITY viewVideoCmd.accesskey       "i">
-<!ENTITY viewBGImageCmd.label         "ფონის გამოსახულების ჩვენება">
-<!ENTITY viewBGImageCmd.accesskey     "w">
-<!ENTITY setDesktopBackgroundCmd.label     "სამუშაო ფონის მითითება…">
-<!ENTITY setDesktopBackgroundCmd.accesskey "a">
+<!ENTITY reloadImageCmd.accesskey     "გ">
+<!ENTITY viewImageCmd.label           "სურათის ნახვა">
+<!ENTITY viewImageCmd.accesskey       "ვ">
+<!ENTITY viewVideoCmd.label           "ვიდეოს ნახვა">
+<!ENTITY viewVideoCmd.accesskey       "ვ">
+<!ENTITY viewBGImageCmd.label         "ფონური სურათის ნახვა">
+<!ENTITY viewBGImageCmd.accesskey     "ფ">
+<!ENTITY setDesktopBackgroundCmd.label     "სამუშაო მაგიდის ფონად დაყენება…">
+<!ENTITY setDesktopBackgroundCmd.accesskey "ა">
 <!ENTITY bookmarkPageCmd.label        "გვერდის ჩანიშვნა…">
-<!ENTITY bookmarkPageCmd.accesskey    "m">
+<!ENTITY bookmarkPageCmd.accesskey    "შ">
 <!ENTITY bookmarkLinkCmd.label        "ბმულის ჩანიშვნა…">
-<!ENTITY bookmarkLinkCmd.accesskey    "B">
+<!ENTITY bookmarkLinkCmd.accesskey    "მ">
 <!ENTITY bookmarkFrameCmd.label       "ჩარჩოს ჩანიშვნა…">
-<!ENTITY bookmarkFrameCmd.accesskey   "m">
+<!ENTITY bookmarkFrameCmd.accesskey   "მ">
 <!ENTITY savePageAsCmd.label          "გვერდის შენახვა როგორც…">
 <!ENTITY savePageCmd.label            "გვერდის შენახვა…">
-<!ENTITY savePageCmd.accesskey        "e">
+<!ENTITY savePageCmd.accesskey        "ე">
 <!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameAsCmd.label         "ბლოკის შენახვა როგორც…">
-<!ENTITY saveFrameCmd.label           "ბლოკის შენახვა…">
-<!ENTITY saveFrameCmd.accesskey       "a">
+<!ENTITY saveFrameAsCmd.label         "ჩარჩოს შენახვა როგორც…">
+<!ENTITY saveFrameCmd.label           "ჩარჩოს შენახვა">
+<!ENTITY saveFrameCmd.accesskey       "ჩ">
 <!ENTITY printFrameCmd.label          "ჩარჩოს ამობეჭდვა…">
 <!ENTITY printFrameCmd.accesskey      "ჭ">
 <!ENTITY saveLinkAsCmd.label          "ბმულის შენახვა როგორც…">
 <!ENTITY saveLinkCmd.label            "ბმულის შენახვა…">
-<!ENTITY saveLinkCmd.accesskey        "მ">
+<!ENTITY saveLinkCmd.accesskey        "ნ">
 <!ENTITY saveImageAsCmd.label         "გამოსახულების შენახვა როგორც…">
 <!ENTITY saveImageCmd.label           "სურათის შენახვა">
-<!ENTITY saveImageCmd.accesskey       "თ">
+<!ENTITY saveImageCmd.accesskey       "ნ">
 <!ENTITY saveVideoCmd.label           "ვიდეოს შენახვა როგორც…">
-<!ENTITY saveVideoCmd.accesskey       "ი">
+<!ENTITY saveVideoCmd.accesskey       "ნ">
 <!ENTITY saveAudioCmd.label           "ხმოვანი ფაილის შენახვა როგორც…">
 <!ENTITY saveAudioCmd.accesskey       "ო">
 <!ENTITY copyLinkCmd.label            "ბმულის მისამართის დაკოპირება">
 <!ENTITY copyLinkCmd.accesskey        "უ">
 <!ENTITY copyImageCmd.label           "სურათის დაკოპირება">
 <!ENTITY copyImageCmd.accesskey       "რ">
-<!ENTITY copyVideoURLCmd.label        "ვიდეოს მისამართის ასლი">
+<!ENTITY copyVideoURLCmd.label        "ვიდეოს მისამართის დაკოპირება">
 <!ENTITY copyVideoURLCmd.accesskey    "ვ">
 <!ENTITY copyAudioURLCmd.label        "ხმოვანი ფაილის მისამართის დაკოპირება">
 <!ENTITY copyAudioURLCmd.accesskey    "მ">
