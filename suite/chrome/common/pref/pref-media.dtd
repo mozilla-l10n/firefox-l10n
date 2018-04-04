@@ -5,7 +5,12 @@
 <!-- extracted from content/pref-media.xul -->
 
 <!-- LOCALIZATION NOTE : FILE Media management prefs -->
-<!ENTITY pref.media.title                  "Multimédia">
-<!ENTITY mediaHTML5Preferences.label       "Audio/Video">
-<!ENTITY allowMediaAutoplay.label          "Povolit automatické přehrávání HTML5 multimediálního obsahu">
-<!ENTITY allowMediaAutoplay.accesskey      "a">
+<!ENTITY pref.media.title               "Multimédia">
+<!ENTITY mediaHTML5Preferences.label    "Audio/Video">
+<!ENTITY allowMediaAutoplay.label       "Povolit automatické přehrávání HTML5 multimediálního obsahu">
+<!ENTITY allowMediaAutoplay.accesskey   "a">
+
+<!ENTITY enableDrmMedia.label           "Povolit Digital Rights Management pro">
+<!ENTITY enableEmeForSuite.label        "Moduly třetích stran pro dešifrování obsahu">
+<!ENTITY enableEmeForSuite.accesskey    "o">
+
