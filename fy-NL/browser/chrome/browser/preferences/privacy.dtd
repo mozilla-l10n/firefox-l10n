@@ -47,7 +47,7 @@
 <!ENTITY  acceptCookies4.label          "Cookies en websitegegevens fan websites akseptearje (oanrekommandearre)">
 <!ENTITY  acceptCookies4.accesskey      "C">
 
-<!ENTITY  blockCookies.label            "Cookies en websitegegevens blokkearje(kin derfoar soargje dat websites net goed wurkje)">
+<!ENTITY  blockCookies.label            "Cookies en websitegegevens blokkearje (kin derfoar soargje dat websites net goed wurkje)">
 <!ENTITY  blockCookies.accesskey        "b">
 
 <!ENTITY  acceptThirdParty3.pre.label     "Cookies fan tredden en websitegegevens akseptearje">

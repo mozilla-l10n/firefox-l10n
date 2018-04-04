@@ -13,6 +13,7 @@
 -->
 
 <!ENTITY  browsingProtection.label        "Beskerming tsjin misliedende ynhâld en gefaarlike programma's">
+
 <!ENTITY  enableSafeBrowsing.label        "Gefaarlike en misliedende ynhâld blokkearje">
 <!ENTITY  enableSafeBrowsing.accesskey    "G">
 
@@ -26,7 +27,7 @@
 <!ENTITY  addonExceptions.accesskey     "U">
 
 
-<!ENTITY  formsAndPasswords.label       "Formulieren &amp; Wachtwurden">
+<!ENTITY  formsAndPasswords.label       "Formulieren en wachtwurden">
 
 <!ENTITY  rememberLogins2.label         "Oanmeldingen en wachtwurden foar websites ûnthâlde">
 <!ENTITY  rememberLogins2.accesskey     "O">
