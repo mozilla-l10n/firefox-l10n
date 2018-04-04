@@ -9,6 +9,7 @@
 <!ENTITY iconsAndText.label       "Піктограми і текст">
 <!ENTITY icons.label              "Піктограми">
 <!ENTITY text.label               "Текст">
+<!ENTITY iconsBesideText.label    "Піктограми поруч з текстом">
 <!ENTITY useSmallIcons.label      "Маленькі піктограми">
 <!ENTITY restoreDefaultSet.label  "Відновити типові">
 <!ENTITY addNewToolbar.label      "Додати нову панель">
