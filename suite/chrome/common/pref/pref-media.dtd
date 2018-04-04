@@ -11,4 +11,6 @@
 <!ENTITY allowMediaAutoplay.accesskey   "ე">
 
 <!ENTITY enableDrmMedia.label           "ციფრული უფლებების მართვის (DRM) ჩართვა">
+<!ENTITY enableEmeForSuite.label        "მესამე მხარის შიგთავსის გამშიფრავი მოდულები">
+<!ENTITY enableEmeForSuite.accesskey    "გ">
 
