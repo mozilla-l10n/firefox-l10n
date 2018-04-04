@@ -385,17 +385,84 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = Neem uw web mee
+sync-signedout-description = Synchroniseer uw bladwijzers, geschiedenis, tabbladen, wachtwoorden, add-ons en voorkeuren op al uw apparaten.
+sync-signedout-account-title = Verbinding maken met een { -fxaccount-brand-name }
+sync-signedout-account-create = Hebt u geen account? Beginnen
+    .accesskey = c
+sync-signedout-account-signin =
+    .label = Aanmelden…
+    .accesskey = A
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Profielafbeelding wijzigen
+sync-disconnect =
+    .label = Verbinding verbreken…
+    .accesskey = v
+sync-manage-account = Account beheren
+    .accesskey = b
 sync-signedin-unverified = { $email } is niet geverifieerd.
 sync-signedin-login-failure = Meld u aan om { $email } opnieuw te verbinden
+sync-resend-verification =
+    .label = Verificatie opnieuw verzenden
+    .accesskey = d
+sync-remove-account =
+    .label = Account verwijderen
+    .accesskey = w
+sync-sign-in =
+    .label = Aanmelden
+    .accesskey = m
+sync-signedin-settings-header = Synchronisatie-instellingen
+sync-signedin-settings-desc = Kiezen wat u wilt synchroniseren op uw apparaten die { -brand-short-name } gebruiken.
 sync-engine-bookmarks =
     .label = Bladwijzers
     .accesskey = B
 sync-engine-history =
     .label = Geschiedenis
     .accesskey = G
+sync-engine-tabs =
+    .label = Open tabbladen
+    .tooltiptext = Een lijst van wat op alle gesynchroniseerde apparaten is geopend
+    .accesskey = t
+sync-engine-logins =
+    .label = Aanmeldingen
+    .tooltiptext = Gebruikersnamen en wachtwoorden die u hebt opgeslagen
+    .accesskey = n
+sync-engine-addresses =
+    .label = Adressen
+    .tooltiptext = Postadressen die u hebt opgeslagen (alleen desktop)
+    .accesskey = e
+sync-engine-creditcards =
+    .label = Creditcards
+    .tooltiptext = Namen, nummers en vervaldata (alleen desktop)
+    .accesskey = C
+sync-engine-addons =
+    .label = Add-ons
+    .tooltiptext = Extensies en thema’s voor Firefox op desktops
+    .accesskey = A
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Opties
+           *[other] Voorkeuren
+        }
+    .tooltiptext = Algemene, privacy- en beveiligingsinstellingen die u hebt gewijzigd
+    .accesskey = V
+sync-device-name-header = Apparaatnaam
+sync-device-name-change =
+    .label = Apparaatnaam wijzigen…
+    .accesskey = w
+sync-device-name-cancel =
+    .label = Annuleren
+    .accesskey = A
+sync-device-name-save =
+    .label = Opslaan
+    .accesskey = s
+sync-mobilepromo-single = Een ander apparaat verbinden
+sync-mobilepromo-multi = Apparaten beheren
+sync-tos-link = Servicevoorwaarden
 sync-fxa-privacy-notice = Privacyverklaring
 
 ## Privacy Section
