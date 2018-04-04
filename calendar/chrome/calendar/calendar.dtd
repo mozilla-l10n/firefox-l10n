@@ -187,6 +187,10 @@
 
 <!ENTITY calendar.context.attendance.occ.accepted.accesskey     "O">
 <!ENTITY calendar.context.attendance.occ.accepted.label         "Onartua">
+<!ENTITY calendar.context.attendance.occ.tentative.accesskey    "h">
+<!ENTITY calendar.context.attendance.occ.tentative.label        "Behin-behinekoz onartua">
+<!ENTITY calendar.context.attendance.occ.declined.accesskey     "b">
+<!ENTITY calendar.context.attendance.occ.declined.label         "Baztertua">
 
 
 <!-- Task Context Menu -->
