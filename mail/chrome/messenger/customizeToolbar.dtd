@@ -9,6 +9,7 @@
 <!ENTITY iconsAndText.label       "Ikonoak eta testua">
 <!ENTITY icons.label              "Ikonoak">
 <!ENTITY text.label               "Testua">
+<!ENTITY iconsBesideText.label    "Ikonoak testuaren ondoan">
 <!ENTITY useSmallIcons.label      "Erabili ikono txikiak">
 <!ENTITY restoreDefaultSet.label  "Berrezarri lehenetsiak">
 <!ENTITY addNewToolbar.label      "Gehitu tresna-barra berria">
