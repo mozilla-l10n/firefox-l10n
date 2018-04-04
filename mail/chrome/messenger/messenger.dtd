@@ -36,6 +36,12 @@
 <!ENTITY newFeedAccountCmd.accesskey "d">
 <!ENTITY newIMContactCmd.label "Contacto de chat…">
 <!ENTITY newIMContactCmd.accesskey "h">
+<!ENTITY  newMessageCmd2.key "N">
+<!ENTITY  newMessageCmd.key "M">
+<!ENTITY  newMessageCmd.label "Mensagem">
+<!ENTITY  newMessageCmd.accesskey "m">
+<!ENTITY  newContactCmd.label "Contacto do livro de endereços…">
+<!ENTITY  newContactCmd.accesskey "C">
 <!ENTITY openMessageFileCmd.label "Abrir mensagem guardada...">
 <!ENTITY openMessageFileCmd.accesskey "A">
 <!ENTITY saveAsMenu.label "Guardar como">
