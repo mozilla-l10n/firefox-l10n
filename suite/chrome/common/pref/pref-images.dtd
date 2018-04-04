@@ -12,7 +12,7 @@
 -->
 <!ENTITY imageDetails                   "გამოსახულებებთან მოპყრობის წესების მითითება &brandShortName;–თვის.">
 
-<!ENTITY loadAllImagesRadio.label        "ყველა გამოსახულებია ჩატვირთვა">
+<!ENTITY loadAllImagesRadio.label       "ყველა გამოსახულებია ჩატვირთვა">
 <!ENTITY loadAllImagesRadio.accesskey   "L">
 <!ENTITY loadOrgImagesRadio.label       "გამოსახულებათა ჩატვირთვა მხოლოდ პირველადი სერვერიდან">
 <!ENTITY loadOrgImagesRadio.accesskey   "n">
@@ -20,10 +20,10 @@
 <!ENTITY loadNoImagesRadio.accesskey    "D">
 <!ENTITY viewPermissions.label          "უფლებების მართვა">
 <!ENTITY viewPermissions.accesskey      "P">
-<!ENTITY animLoopingTitle.label         "ანიმაციები უნდა დაიციკლოს">
-<!ENTITY animLoopAsSpecified.label      "იმდენჯერ, რამდენჯერაც მითითებულია">
-<!ENTITY animLoopAsSpecified.accesskey  "m">
+<!ENTITY animLoopingTitle.label         "მოძრავი სურათები გაეშვას">
+<!ENTITY animLoopAsSpecified.label      "იმდენჯერ, რამდენჯერაც მითითებული აქვს">
+<!ENTITY animLoopAsSpecified.accesskey  "ი">
 <!ENTITY animLoopOnce.label             "ერთხელ">
-<!ENTITY animLoopOnce.accesskey         "O">
+<!ENTITY animLoopOnce.accesskey         "ე">
 <!ENTITY animLoopNever.label            "არასდროს">
-<!ENTITY animLoopNever.accesskey        "v">
+<!ENTITY animLoopNever.accesskey        "ა">
