@@ -25,7 +25,7 @@
 <!ENTITY showURLBarSuggestions2.accesskey       "ძ">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "მისამართების ველში ძიების შემოთავაზებები არ გამოჩნდება, ვინაიდან &brandShortName;-ს მითითებული აქვს, რომ ისტორია არასდროს დაიმახსოვროს.">
 
-<!ENTITY oneClickSearchEngines.label           "ერთ-წკაპიანი საძიებო სისტემები">
+<!ENTITY oneClickSearchEngines.label           "ერთწკაპიანი საძიებო სისტემები">
 
 <!ENTITY chooseWhichOneToDisplay2.label         "მიუთითეთ სათადარიგო საძიებო სისტემები, რომელიც გამოჩნდება მისამართებისა და ძიების ველების ქვემოთ, საძებნი ფრაზის აკრეფისას.">
 
