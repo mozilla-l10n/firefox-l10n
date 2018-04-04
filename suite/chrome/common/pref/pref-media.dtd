@@ -14,3 +14,10 @@
 <!ENTITY enableEmeForSuite.label        "Moduly třetích stran pro dešifrování obsahu">
 <!ENTITY enableEmeForSuite.accesskey    "o">
 
+<!ENTITY animLoopingTitle.label         "Animované obrázky by se měly opakovat">
+<!ENTITY animLoopAsSpecified.label      "Tolikrát, kolikrát obrázek specifikuje">
+<!ENTITY animLoopAsSpecified.accesskey  "T">
+<!ENTITY animLoopOnce.label             "Jednou">
+<!ENTITY animLoopOnce.accesskey         "J">
+<!ENTITY animLoopNever.label            "Nikdy">
+<!ENTITY animLoopNever.accesskey        "k">
