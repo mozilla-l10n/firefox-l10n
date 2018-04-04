@@ -47,7 +47,7 @@
 <!ENTITY viewPageInfoCmd.accesskey    "I">
 <!ENTITY viewFrameInfoCmd.label       "ინფორმაცია ბლოკის შესახებ">
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
-<!ENTITY fitImageCmd.label            "გამოსახულების მორგება სარკმლის ზომაზე">
+<!ENTITY fitImageCmd.label            "გამოსახულების მორგება ფანჯრის ზომაზე">
 <!ENTITY fitImageCmd.accesskey        "F">
 <!ENTITY reloadImageCmd.label         "გამოსახულების განახლება">
 <!ENTITY reloadImageCmd.accesskey     "R">

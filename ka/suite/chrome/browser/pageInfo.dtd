@@ -68,7 +68,7 @@
 <!ENTITY  mediaSize             "ზომა">
 <!ENTITY  mediaCount            "რაოდენობა">
 <!ENTITY  mediaDimensions       "მითითებული ზომები:">
-<!ENTITY  mediaPhysDimensions   "მიმდინარე ზომები:">
+<!ENTITY  mediaPhysDimensions   "არსებული ზომები:">
 <!ENTITY  mediaTitle            "სათაური:">
 <!ENTITY  mediaLongdesc         "დეტალური აღწერა:">
 <!ENTITY  mediaBlockImage.accesskey "B">
