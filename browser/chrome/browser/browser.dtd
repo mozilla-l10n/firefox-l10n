@@ -990,6 +990,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.restoreButton.accesskey "R">
 
 <!ENTITY newTabControlled.disableButton.label "Malaktivigi etendaĵon">
+<!ENTITY newTabControlled.disableButton.accesskey "e">
 
 <!ENTITY pageActionButton.tooltip "Retpaĝaj agoj">
 <!ENTITY pageAction.addToUrlbar.label "Aldoni al adresa strio">
