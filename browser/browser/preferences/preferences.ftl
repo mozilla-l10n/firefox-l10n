@@ -432,17 +432,17 @@ history-clear-button =
 
 ## Privacy Section - Site Data
 
-sitedata-header = Evästeet ja sivustojen tallentamat tiedot
+sitedata-header = Evästeet ja sivustotiedot
 sitedata-learn-more = Lue lisää
 sitedata-accept-cookies-option =
-    .label = Hyväksy evästeet ja sivustojen tallentamat tiedot sivustoilta (suositus)
+    .label = Hyväksy evästeet ja sivustotiedot sivustoilta (suositus)
     .accesskey = H
 sitedata-block-cookies-option =
-    .label = Estä evästeet ja sivustojen tallentamat tiedot (voi aiheuttaa sivustojen toimimattomuutta)
+    .label = Estä evästeet ja sivustotiedot (voi aiheuttaa sivustojen toimimattomuutta)
     .accesskey = E
 sitedata-keep-until = Säilytä evästeet
     .accesskey = t
-sitedata-accept-third-party-desc = Hyväksy kolmannen osapuolen evästeet ja sivustojen tallentamat tiedot
+sitedata-accept-third-party-desc = Hyväksy kolmannen osapuolen evästeet ja sivustotiedot
     .accesskey = k
 sitedata-accept-third-party-always-option =
     .label = Aina

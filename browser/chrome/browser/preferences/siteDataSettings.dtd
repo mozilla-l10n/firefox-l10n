@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY     window.title                  "Asetukset - Sivustojen tallentamat tiedot">
+<!ENTITY     window.title                  "Asetukset - Sivustotiedot">
 
-<!ENTITY     window2.title                 "Hallitse evästeitä ja sivustojen tallentamia tietoja">
+<!ENTITY     window2.title                 "Hallitse evästeitä ja sivustotietoja">
 <!ENTITY     hostCol.label                 "Sivusto">
 <!ENTITY     statusCol.label               "Tila">
 <!ENTITY     cookiesCol.label              "Evästeet">
@@ -18,9 +18,9 @@
 <!ENTITY     save.accesskey                "m">
 <!ENTITY     cancel.label                  "Peruuta">
 <!ENTITY     cancel.accesskey              "P">
-<!ENTITY     removingDialog.title          "Sivuston tietojen poisto">
-<!ENTITY     removingSelected.description  "Sivuston tallentamien tietojen poistaminen poistaa myös evästeet ja yhteydetöntä tilaa varten tallennetut tiedot. Tämä voi kirjata sinut ulos sivustoilta. Haluatko varmasti tehdä muutokset?">
+<!ENTITY     removingDialog.title          "Sivustotietojen poisto">
+<!ENTITY     removingSelected.description  "Sivustotietojen poistaminen poistaa myös evästeet ja yhteydetöntä tilaa varten tallennetut tiedot. Tämä voi kirjata sinut ulos sivustoilta. Haluatko varmasti tehdä muutokset?">
 <!ENTITY     siteTree2.label               "Seuraavat sivustojen evästeet poistetaan">
-<!ENTITY     removingDialog1.title         "Evästeiden ja sivustojen tietojen poisto">
-<!ENTITY     removingSelected1.description "Sivuston tallentamien tietojen poistaminen voi kirjata sinut ulos sivustoilta. Haluatko varmasti tehdä muutokset?">
+<!ENTITY     removingDialog1.title         "Evästeiden ja sivustotietojen poisto">
+<!ENTITY     removingSelected1.description "Sivustotietojen poistaminen voi kirjata sinut ulos sivustoilta. Haluatko varmasti tehdä muutokset?">
 <!ENTITY     siteTree3.label               "Seuraavien sivustojen evästeet ja tiedot poistetaan">
