@@ -12,7 +12,7 @@
      suggestions over browsing history in the results that extend down from the
      address bar. In the original English string, "ahead" refers to location
      (appearing most proximate to), not time (appearing before). -->
-<!ENTITY showSearchSuggestionsAboveHistory.label "Arată sugestiile de căutare înaintea istoricului de navigare în rezultatele din bara de adrese">
+<!ENTITY showSearchSuggestionsAboveHistory.label "Afișează sugestiile de căutare înaintea istoricului de navigare în rezultatele din bara de adrese">
 
 <!ENTITY defaultSearchEngine.label             "Motor de căutare implicit">
 
