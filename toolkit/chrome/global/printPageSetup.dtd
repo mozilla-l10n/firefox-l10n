@@ -11,10 +11,10 @@
 <!ENTITY formatGroup.label   "ფორმატი">
 
 <!ENTITY orientation.label   "ორიენტაცია:">
-<!ENTITY portrait.label      "პორტრეტი">
-<!ENTITY portrait.accesskey  "პ">
-<!ENTITY landscape.label     "პეიზაჟი">
-<!ENTITY landscape.accesskey "ზ">
+<!ENTITY portrait.label      "შვეულად">
+<!ENTITY portrait.accesskey  "შ">
+<!ENTITY landscape.label     "თარაზულად">
+<!ENTITY landscape.accesskey "თ">
 
 <!ENTITY scale.label         "ზომის ცვლილება:">
 <!ENTITY scale.accesskey     "მ">
