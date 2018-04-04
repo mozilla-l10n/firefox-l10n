@@ -141,3 +141,17 @@
 
 <!ENTITY Photo.tab                      "Argazkia">
 <!ENTITY Photo.accesskey                "A">
+<!ENTITY PhotoDesc.label                "Aukeratu hauetako bat:">
+<!ENTITY GenericPhoto.label             "Argazki arrunta">
+<!ENTITY GenericPhoto.accesskey         "A">
+<!ENTITY DefaultPhoto.label             "Lehenetsia">
+<!ENTITY PhotoFile.label                "Ordenagailu honetan">
+<!ENTITY PhotoFile.accesskey            "o">
+<!ENTITY BrowsePhoto.label              "Arakatu">
+<!ENTITY BrowsePhoto.accesskey          "r">
+<!ENTITY PhotoURL.label                 "Webean">
+<!ENTITY PhotoURL.accesskey             "w">
+<!ENTITY PhotoURL.placeholder           "Itsatsi edo idatzi argazkiaren web helbidea">
+<!ENTITY UpdatePhoto.label              "Eguneratu">
+<!ENTITY UpdatePhoto.accesskey          "E">
+<!ENTITY PhotoDropTarget.label          "Arrastatu argazki berria hona">
