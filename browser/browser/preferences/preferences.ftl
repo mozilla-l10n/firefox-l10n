@@ -389,7 +389,7 @@ privacy-header = Browserprivacy
 
 ## Privacy Section - Forms
 
-forms-header = Formulieren & Wachtwurden
+forms-header = Formulieren en wachtwurden
 forms-remember-logins =
     .label = Oanmeldingen en wachtwurden foar websites ûnthâlde
     .accesskey = O
@@ -438,7 +438,7 @@ sitedata-accept-cookies-option =
     .label = Cookies en websitegegevens fan websites akseptearje (oanrekommandearre)
     .accesskey = C
 sitedata-block-cookies-option =
-    .label = Cookies en websitegegevens blokkearje(kin derfoar soargje dat websites net goed wurkje)
+    .label = Cookies en websitegegevens blokkearje (kin derfoar soargje dat websites net goed wurkje)
     .accesskey = b
 sitedata-keep-until = Bewarje oant
     .accesskey = o
@@ -550,7 +550,7 @@ collection-header = Gegevenssamling en gebrûk fan { -brand-short-name }
 collection-description = Wy stribje dernei jo kar te bieden en allinnich te sammeljen wat wy nedich hawwe om { -brand-short-name } foar elkenien beskikber te meitsjen en te ferbetterjen. Wy freegje altyd tastimming eardat wy persoanlike gegevens ûntfange.
 collection-privacy-notice = Privacyferklearring
 collection-health-report =
-    .label = Tastean dat { -brand-short-name } technyske en gebrûksgegevens ferstjoerd nei { -vendor-short-name }
+    .label = Tastean dat { -brand-short-name } technyske en brûksgegevens ferstjoert nei { -vendor-short-name }
     .accesskey = r
 collection-health-report-link = Mear ynfo
 # This message is displayed above disabled data sharing options in developer builds
