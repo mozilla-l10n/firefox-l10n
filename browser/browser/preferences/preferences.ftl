@@ -112,6 +112,13 @@ restore-default =
 ## Containers Section
 
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-tos-link = Amabwiriza ya serivisi
+
 ## Privacy Section
 
 
