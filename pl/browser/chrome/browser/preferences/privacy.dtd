@@ -84,6 +84,8 @@
 <!ENTITY dontrememberActions.pre.label          "Można także ">
 <!ENTITY dontrememberActions.clearHistory.label "wyczyścić całą bieżącą historię">
 <!ENTITY dontrememberActions.post.label         ".">
+<!ENTITY clearHistoryButton.label "Wyczyść historię…">
+<!ENTITY clearHistoryButton.accesskey "">
 
 <!ENTITY privateBrowsingPermanent2.label "Zawsze aktywny tryb przeglądania prywatnego">
 <!ENTITY privateBrowsingPermanent2.accesskey "t">
