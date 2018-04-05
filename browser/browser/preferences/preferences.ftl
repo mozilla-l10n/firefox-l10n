@@ -383,6 +383,60 @@ containers-preferences-button =
 containers-remove-button =
     .label = Sil
 
+## Sync Section - Signed out
+
+sync-signedout-account-create = Hesabınız yok mu? Hemen açın
+    .accesskey = H
+sync-signedout-account-signin =
+    .label = Giriş yap…
+    .accesskey = G
+
+## Sync Section - Signed in
+
+sync-profile-picture =
+    .tooltiptext = Profil resmini değiştir
+sync-disconnect =
+    .label = Bağlantıyı kes…
+    .accesskey = B
+sync-manage-account = Hesabı yönet
+    .accesskey = H
+sync-resend-verification =
+    .label = Doğrulamayı yeniden gönder
+    .accesskey = d
+sync-sign-in =
+    .label = Giriş yap
+    .accesskey = G
+sync-signedin-settings-header = Sync ayarları
+sync-signedin-settings-desc = { -brand-short-name } kullanan cihazlarınız arasında eşitlenecek öğeleri seçin.
+sync-engine-bookmarks =
+    .label = Yer imleri
+    .accesskey = m
+sync-engine-history =
+    .label = Geçmiş
+    .accesskey = G
+sync-engine-tabs =
+    .label = Açık sekmeler
+    .tooltiptext = Eşitlenen tüm cihazlarınızdaki açık sekmelerin listesi
+    .accesskey = s
+sync-engine-logins =
+    .label = Hesaplar
+    .tooltiptext = Kaydettiğiniz kullanıcı adları ve parolaları
+    .accesskey = H
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Seçenekler
+           *[other] Tercihler
+        }
+    .tooltiptext = Değiştirdiğiniz Genel, Gizlilik ve Güvenlik ayarları
+    .accesskey = T
+sync-device-name-change =
+    .label = Cihaz adını değiştir…
+    .accesskey = C
+sync-mobilepromo-single = Başka bir cihaz bağla
+sync-mobilepromo-multi = Cihazları yönet
+sync-tos-link = Kullanım Koşulları
+
 ## Privacy Section
 
 privacy-header = Tarayıcı gizliliği
