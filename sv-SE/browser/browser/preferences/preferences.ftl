@@ -385,6 +385,9 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = Ta din webb med dig
+sync-signedout-description = Synkronisera dina bokmärken, historik, flikar, lösenord, tillägg och inställningar på alla dina enheter.
+sync-signedout-account-title = Anslut med ett { -fxaccount-brand-name }
 
 ## Sync Section - Signed in
 
@@ -393,6 +396,7 @@ sync-signedin-login-failure = Logga in för att återansluta { $email }
 sync-engine-bookmarks =
     .label = Bokmärken
     .accesskey = B
+sync-device-name-header = Enhetens namn
 
 ## Privacy Section
 
