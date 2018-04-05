@@ -150,6 +150,19 @@ search-keyword-warning-bookmark = Эн талбыт аатыҥ биир бэли
 ## Containers Section
 
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-engine-bookmarks =
+    .label = Бэлиэтээһиннэр
+    .accesskey = т
+sync-engine-history =
+    .label = Сурунаал
+    .accesskey = а
+sync-tos-link = Туһаныы усулуобуйата
+
 ## Privacy Section
 
 
