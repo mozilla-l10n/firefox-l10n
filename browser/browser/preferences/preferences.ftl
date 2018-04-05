@@ -385,17 +385,29 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = קחו את הרשת עמכם
+sync-signedout-description = סנכרון הסימניות, ההיסטוריה, הלשוניות, הססמאות, ההרחבות, וההעדפות בין כל מכשיריך.
+sync-signedout-account-title = התחברות עם { -fxaccount-brand-name }
 
 ## Sync Section - Signed in
 
 sync-signedin-unverified = הכתובת  { $email } אינה מאומתת.
 sync-signedin-login-failure = נא להיכנס לחשבון כדי להתחבר מחדש { $email }
+sync-signedin-settings-header = הגדרות סנכרון
+sync-signedin-settings-desc = נא לבחור את הפריטים שיסונכרנו להתקנים שלך באמצעות { -brand-short-name }.
 sync-engine-bookmarks =
     .label = סימניות
     .accesskey = ס
 sync-engine-history =
     .label = היסטוריה
     .accesskey = ה
+sync-device-name-header = שם התקן
+sync-device-name-cancel =
+    .label = ביטול
+    .accesskey = ב
+sync-device-name-save =
+    .label = שמירה
+    .accesskey = ש
 sync-tos-link = תנאי שימוש
 sync-fxa-privacy-notice = הצהרת פרטיות
 
