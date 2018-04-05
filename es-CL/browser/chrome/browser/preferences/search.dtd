@@ -25,7 +25,7 @@
 <!ENTITY showURLBarSuggestions2.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Las sugerencias de búsqueda no serán mostradas en la barra de direcciones porque configuraste &brandShortName; para que nunca recuerde el historial.">
 
-<!ENTITY oneClickSearchEngines.label           "Cambio rápido de buscadores">
+<!ENTITY oneClickSearchEngines.label           "Motores de búsqueda rápida">
 
 <!ENTITY chooseWhichOneToDisplay2.label         "Elegir los motores de búsqueda alternativos que aparecen bajo la barra de direcciones y la barra de búsqueda cuando empiezas a escribir una palabra clave.">
 
