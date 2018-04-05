@@ -106,6 +106,19 @@ search-remove-engine =
 ## Containers Section
 
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-engine-bookmarks =
+    .label = Kuirunharitarakuecha
+    .accesskey = K
+sync-engine-history =
+    .label = Patsakata
+    .accesskey = P
+sync-tos-link = Arisïksï anchikurhioka
+
 ## Privacy Section
 
 
