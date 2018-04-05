@@ -388,9 +388,16 @@ containers-remove-button =
 
 ## Sync Section - Signed in
 
+sync-signedin-unverified = { $email } no l'é verificou.
+sync-signedin-login-failure = Acedi pe ativâ torna a conescion { $email }
+sync-engine-bookmarks =
+    .label = Segnalibbri
+    .accesskey = S
 sync-engine-history =
     .label = Stöia
     .accesskey = S
+sync-tos-link = Termini do serviçio
+sync-fxa-privacy-notice = Informativa in sciâ privacy
 
 ## Privacy Section
 
