@@ -393,6 +393,7 @@ sync-signedout-account-title = { -fxaccount-brand-name } से जुड़ें
 
 sync-signedin-unverified = { $email } सत्यापित नहीं है.
 sync-signedin-login-failure = फिर से कनेक्ट करने के लिए साइन इन करें { $email }
+sync-signedin-settings-header = समन्वयन सेटिंग
 sync-engine-bookmarks =
     .label = पुस्तचिह्न
     .accesskey = m
