@@ -369,16 +369,34 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = Thoir leat an lìon
+sync-signedout-description = Sioncronaich an eachdraidh, na comharran-lìn, na faclan-faire, tuilleadain is roghainnean agad air feadh nan uidheaman agad.
+sync-signedout-account-title = Dèan ceangal le { -fxaccount-brand-name }
 
 ## Sync Section - Signed in
 
+sync-signedin-unverified = Cha deach { $email } a dhearbhadh
+sync-signedin-login-failure = Clàraich a-steach airson ceangal ris a-rithist { $email }
+sync-signedin-settings-header = Roghainnean sioncronachaidh
+sync-signedin-settings-desc = Cuir romhad na thèid a shioncronachadh le { -brand-short-name } air na h-uidheaman agad.
 sync-engine-bookmarks =
     .label = na comharran-lìn agam
     .accesskey = m
 sync-engine-history =
     .label = an eachdraidh agam
     .accesskey = r
+sync-device-name-header = Ainm an uidheim
+sync-device-name-change =
+    .label = Atharraich ainm an uidheim...
+    .accesskey = h
+sync-device-name-cancel =
+    .label = Sguir dheth
+    .accesskey = u
+sync-device-name-save =
+    .label = Sàbhail
+    .accesskey = b
 sync-tos-link = Teirmichean na Seirbheise
+sync-fxa-privacy-notice = Sanas prìobhaideachd
 
 ## Privacy Section
 
