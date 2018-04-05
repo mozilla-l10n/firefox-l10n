@@ -400,6 +400,7 @@ sync-sign-in =
     .label = ลงชื่อเข้า
     .accesskey = ง
 sync-signedin-settings-header = การตั้งค่า Sync
+sync-signedin-settings-desc = เลือกสิ่งที่คุณต้องการจะประสานบนอุปกรณ์ของคุณโดยใช้ { -brand-short-name }
 sync-engine-bookmarks =
     .label = ที่คั่นหน้า
     .accesskey = ท
