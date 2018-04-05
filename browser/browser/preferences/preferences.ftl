@@ -388,18 +388,80 @@ containers-remove-button =
 sync-signedout-caption = Pidä oma selain aina mukanasi
 sync-signedout-description = Synkronoi kirjanmerkit, sivuhistoria, välilehdet, salasanat, lisäosat ja asetukset kaikilla laitteillasi.
 sync-signedout-account-title = Yhdistä { -fxaccount-brand-name }in
+sync-signedout-account-create = Eikö sinulla ole tiliä? Aloitetaan
+    .accesskey = E
+sync-signedout-account-signin =
+    .label = Kirjaudu sisään…
+    .accesskey = i
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Vaihda kuva
+sync-disconnect =
+    .label = Katkaise yhteys…
+    .accesskey = y
+sync-manage-account = Hallinnoi tiliä
+    .accesskey = H
 sync-signedin-unverified = Sähköpostiosoitetta { $email } ei ole vahvistettu.
 sync-signedin-login-failure = Kirjaudu sisään palauttaaksesi osoitteen { $email } yhteyden
+sync-resend-verification =
+    .label = Lähetä vahvistus uudestaan
+    .accesskey = v
+sync-remove-account =
+    .label = Poista tili
+    .accesskey = P
+sync-sign-in =
+    .label = Kirjaudu sisään
+    .accesskey = r
+sync-signedin-settings-header = Synkronointiasetukset
+sync-signedin-settings-desc = Valitse tiedot, jotka synkronoidaan niiden laitteiden kanssa, joilla käytät { -brand-short-name }ia.
 sync-engine-bookmarks =
     .label = Kirjanmerkit
     .accesskey = K
 sync-engine-history =
     .label = Sivuhistoria
     .accesskey = S
+sync-engine-tabs =
+    .label = Avoimet välilehdet
+    .tooltiptext = Lista kaikilla synkronoiduilla laitteilla auki olevista välilehdistä
+    .accesskey = V
+sync-engine-logins =
+    .label = Kirjautumistiedot
+    .tooltiptext = Tallentamasi käyttäjätunnukset ja salasanat
+    .accesskey = r
+sync-engine-addresses =
+    .label = Osoitteet
+    .tooltiptext = Tallentamasi postiosoitteet (vain Firefoxin työpöytäversiossa)
+    .accesskey = O
+sync-engine-creditcards =
+    .label = Luottokortit
+    .tooltiptext = Nimet, numerot ja vanheneminen (vain Firefoxin työpöytäversiossa)
+    .accesskey = u
+sync-engine-addons =
+    .label = Lisäosat
+    .tooltiptext = Firefoxin työpöytäversion laajennukset ja teemat
+    .accesskey = i
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Asetukset
+           *[other] Asetukset
+        }
+    .tooltiptext = Muuttamasi yleiset asetukset sekä tietosuoja- ja turvallisuusasetukset
+    .accesskey = e
 sync-device-name-header = Laitteen nimi
+sync-device-name-change =
+    .label = Muuta laitteen nimeä…
+    .accesskey = M
+sync-device-name-cancel =
+    .label = Peruuta
+    .accesskey = P
+sync-device-name-save =
+    .label = Tallenna
+    .accesskey = T
+sync-mobilepromo-single = Yhdistä toinen laite
+sync-mobilepromo-multi = Hallitse laitteita
 sync-tos-link = Käyttöehdot
 sync-fxa-privacy-notice = Tietosuojakäytäntö
 
