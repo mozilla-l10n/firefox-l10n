@@ -385,16 +385,39 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = Take your Web with you
+sync-signedout-description = Synchronise your bookmarks, history, tabs, passwords, add-ons, and preferences across all your devices.
+sync-signedout-account-title = Connect with a { -fxaccount-brand-name }
+sync-signedout-account-create = Don’t have an account? Get started
+    .accesskey = C
+sync-signedout-account-signin =
+    .label = Sign In…
+    .accesskey = I
 
 ## Sync Section - Signed in
 
+sync-signedin-unverified = { $email } is not verified.
+sync-signedin-login-failure = Please sign in to reconnect { $email }
+sync-signedin-settings-header = Sync Settings
+sync-signedin-settings-desc = Choose what to synchronise on your devices using { -brand-short-name }.
 sync-engine-bookmarks =
     .label = Bookmarks
     .accesskey = m
 sync-engine-history =
     .label = History
     .accesskey = r
+sync-device-name-header = Device Name
+sync-device-name-change =
+    .label = Change Device Name…
+    .accesskey = h
+sync-device-name-cancel =
+    .label = Cancel
+    .accesskey = n
+sync-device-name-save =
+    .label = Save
+    .accesskey = v
 sync-tos-link = Terms of Service
+sync-fxa-privacy-notice = Privacy Notice
 
 ## Privacy Section
 
