@@ -388,11 +388,32 @@ containers-remove-button =
 sync-signedout-caption = Өз интернетіңізді өзіңізбен бірге ұстаңыз
 sync-signedout-description = Өзіңіздің бетбелгілер, тарих, беттер, парольдер және қосымшаларыңызды барлық құрылғыларыңыз арасында синхрондаңыз.
 sync-signedout-account-title = { -fxaccount-brand-name } көмегімен байланысу
+sync-signedout-account-create = Тіркелгіңіз жоқ па? Бастау
+    .accesskey = с
+sync-signedout-account-signin =
+    .label = Кіру…
+    .accesskey = р
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Профиль суретін ауыстыру
+sync-disconnect =
+    .label = Байланысты үзу…
+    .accesskey = з
+sync-manage-account = Тіркелгіні басқару
+    .accesskey = к
 sync-signedin-unverified = { $email } расталған жоқ
 sync-signedin-login-failure = Байланысты қайта орнатуға үшін кіріңіз { $email }
+sync-resend-verification =
+    .label = Растауды қайта жіберу
+    .accesskey = д
+sync-remove-account =
+    .label = Тіркелгіні өшіру
+    .accesskey = ш
+sync-sign-in =
+    .label = Кіру
+    .accesskey = К
 sync-signedin-settings-header = Синхрондау баптаулары
 sync-signedin-settings-desc = { -brand-short-name } қолданатын құрылғыларыңызда нені синхрондауды таңдаңыз.
 sync-engine-bookmarks =
@@ -401,6 +422,34 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Тарих
     .accesskey = и
+sync-engine-tabs =
+    .label = Ашық беттер
+    .tooltiptext = Барлық синхрондалған құрылғыларда ашылған нәрселер тізімі
+    .accesskey = т
+sync-engine-logins =
+    .label = Логиндер
+    .tooltiptext = Сіз сақтаған пайдаланушы аттары және парольдер
+    .accesskey = Л
+sync-engine-addresses =
+    .label = Адрестер
+    .tooltiptext = Сіз сақтаған пошта адрестері (тек жұмыс үстелі)
+    .accesskey = е
+sync-engine-creditcards =
+    .label = Несиелік карталар
+    .tooltiptext = Аттар, сандар және мерзімі аяқталу күндері (тек жұмыс үстелі)
+    .accesskey = Н
+sync-engine-addons =
+    .label = Қосымшалар
+    .tooltiptext = Firefox жұмыс үстелі үшін кеңейтулер және темалар
+    .accesskey = о
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Баптаулар
+           *[other] Баптаулар
+        }
+    .tooltiptext = Сіз өзгерткен негізгі, жекелік және қауіпсіздік баптаулары
+    .accesskey = а
 sync-device-name-header = Құрылғы аты
 sync-device-name-change =
     .label = Құрылғы атын өзгерту…
@@ -411,6 +460,8 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Сақтау
     .accesskey = а
+sync-mobilepromo-single = Басқа құрылғыны байланыстыру
+sync-mobilepromo-multi = Құрылғыларды басқару
 sync-tos-link = Қолдану шарттары
 sync-fxa-privacy-notice = Жекелік ескертуі
 
