@@ -146,6 +146,14 @@ search-keyword-warning-bookmark = O tlhophile lefokopatlo le ga jaana le dirisiw
 ## Containers Section
 
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-signedin-unverified = { $email } ga e a netefadiwa.
+sync-tos-link = Melawana ya Tirelo
+
 ## Privacy Section
 
 
