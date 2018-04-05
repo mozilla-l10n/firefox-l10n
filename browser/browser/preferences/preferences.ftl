@@ -347,6 +347,28 @@ containers-preferences-button =
 containers-remove-button =
     .label = মুছে ফেলুন
 
+## Sync Section - Signed out
+
+sync-signedout-caption = আপনার সাথে আপনার ওয়েব নিন
+sync-signedout-description = আপনার সকল ডিভাইস জুড়ে আপনার বুকমার্ক, ইতিহাস, ট্যাব, পাসওয়ার্ড, অ্যাড টার্ন, এবং পছন্দসমূহ সুসংগত করুন।
+sync-signedout-account-title = { -fxaccount-brand-name } সাথে সংযোগ স্থাপন করুন
+
+## Sync Section - Signed in
+
+sync-profile-picture =
+    .tooltiptext = প্রোফাইল ছবি পরিবর্তন করুন
+sync-signedin-unverified = { $email } যাঁচাই করা হয়নি।
+sync-signedin-login-failure = পুনঃসংযোগের জন্য সাইন ইন করুন { $email }
+sync-engine-bookmarks =
+    .label = বুকমার্ক
+    .accesskey = ব
+sync-engine-history =
+    .label = পূর্ববর্তী তথ্য
+    .accesskey = প
+sync-device-name-header = ডিভাইস নাম
+sync-tos-link = পরিসেবার নিয়মাবলী
+sync-fxa-privacy-notice = গোপনীয়তা সংক্রান্ত নীতি
+
 ## Privacy Section
 
 privacy-header = ব্রাউজারের গোপনীয়তা
