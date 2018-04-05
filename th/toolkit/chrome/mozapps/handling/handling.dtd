@@ -6,5 +6,5 @@
 <!ENTITY window.emHeight "26em">
 <!ENTITY ChooseOtherApp.description "เลือกแอปพลิเคชันอื่น">
 <!ENTITY ChooseApp.label "เลือก…">
-<!ENTITY ChooseApp.accessKey "C">
+<!ENTITY ChooseApp.accessKey "ล">
 <!ENTITY accept "เปิดลิงก์">
