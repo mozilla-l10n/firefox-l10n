@@ -385,15 +385,37 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = 让您个性化的网络体验随身相伴
+sync-signedout-description = 在您的各种设备间同步您的书签、历史记录、标签页、密码、附加组件与首选项。
+sync-signedout-account-title = 使用 { -fxaccount-brand-name } 登录，开启同步功能
+sync-signedout-account-create = 没有账户吗？注册一个吧
+    .accesskey = C
+sync-signedout-account-signin =
+    .label = 登录…
+    .accesskey = I
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = 更改头像
+sync-disconnect =
+    .label = 断开连接…
+    .accesskey = D
+sync-manage-account = 管理账户
+    .accesskey = o
 sync-signedin-unverified = { $email } 未验证。
 sync-signedin-login-failure = 请登录以重新连接 { $email }
+sync-resend-verification =
+    .label = 重发验证邮件
+    .accesskey = d
 sync-remove-account =
     .label = 移除账号
     .accesskey = p
+sync-sign-in =
+    .label = 登录
+    .accesskey = g
 sync-signedin-settings-header = 同步设置
+sync-signedin-settings-desc = 选择 { -brand-short-name } 要在您的设备间同步哪些数据。
 sync-engine-history =
     .label = 历史记录
     .accesskey = r
@@ -409,6 +431,10 @@ sync-engine-addresses =
     .label = 地址
     .tooltiptext = 您已保存的邮政地址（仅限桌面版）
     .accesskey = e
+sync-engine-creditcards =
+    .label = 信用卡
+    .tooltiptext = 姓名、号码、有效期限（仅限桌面版）
+    .accesskey = C
 sync-engine-addons =
     .label = 附加组件
     .tooltiptext = 用于 Firefox 桌面版的扩展和主题
@@ -431,6 +457,8 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = 保存
     .accesskey = v
+sync-mobilepromo-single = 连接其他设备
+sync-mobilepromo-multi = 管理设备
 sync-tos-link = 服务条款
 sync-fxa-privacy-notice = 隐私声明
 
