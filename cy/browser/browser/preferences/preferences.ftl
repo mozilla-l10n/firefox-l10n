@@ -389,16 +389,29 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = Cymrwch eich Gwe gyda Chi
+sync-signedout-description = Cydweddwch eich nodau tudalen, hanes, tabiau, cyfrineiriau, ychwanegion a dewisiadau ymysg eich dyfeisiau i gyd.
+sync-signedout-account-title = Cysylltwch gyda { -fxaccount-brand-name }
 
 ## Sync Section - Signed in
 
+sync-signedin-unverified = { $email } wedi ei wirio.
+sync-signedin-login-failure = Ail fewngofnodwch er mwyn ailgysylltu { $email }
 sync-engine-bookmarks =
     .label = Nodau Tudalen
     .accesskey = T
 sync-engine-history =
     .label = Hanes
     .accesskey = H
+sync-device-name-header = Enw Dyfais
+sync-device-name-cancel =
+    .label = Diddymu
+    .accesskey = D
+sync-device-name-save =
+    .label = Cadw
+    .accesskey = C
 sync-tos-link = Amodau Gwasanaeth
+sync-fxa-privacy-notice = Rhybudd Preifatrwydd
 
 ## Privacy Section
 
