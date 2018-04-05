@@ -380,10 +380,29 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = আপনার ওয়েব আপনার সঙ্গে নিন
+sync-signedout-description = আপনার সকল ডিভাইস জুড়ে আপনার বুকমার্ক, ইতিহাস, ট্যাব, পাসওয়ার্ড, অ্যাড টার্ন, এবং পছন্দ সিংক্রোনাইজ করুন.
+sync-signedout-account-title = { -fxaccount-brand-name } এর সাথে কানেক্ট করো
 
 ## Sync Section - Signed in
 
+sync-signedin-settings-header = সিঙ্ক সেটিং
+sync-signedin-settings-desc = { -brand-short-name } দিয়ে আপনার ডিভাইসে কি কি সিঙ্ক্রোনাইজ করা হবে তা নির্বাচন করুন।
+sync-engine-history =
+    .label = ইতিহাস
+    .accesskey = r
+sync-device-name-header = ডিভাইসের নাম
+sync-device-name-change =
+    .label = ডিভাইসের নাম পরিবর্তন…
+    .accesskey = h
+sync-device-name-cancel =
+    .label = বাতিল
+    .accesskey = n
+sync-device-name-save =
+    .label = সংরক্ষণ
+    .accesskey = v
 sync-tos-link = সেবার শর্ত
+sync-fxa-privacy-notice = গোপনীয়তার নীতি
 
 ## Privacy Section
 
