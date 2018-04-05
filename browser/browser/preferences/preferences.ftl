@@ -359,6 +359,19 @@ containers-preferences-button =
 containers-remove-button =
     .label = Fjern
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-engine-bookmarks =
+    .label = Bogmærker
+    .accesskey = B
+sync-engine-history =
+    .label = Historik
+    .accesskey = H
+sync-tos-link = Tjenestevilkår
+
 ## Privacy Section
 
 privacy-header = Beskyttelse af privatliv
