@@ -397,8 +397,21 @@ sync-signedout-account-signin =
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Schimbă fotografia de profil
+sync-disconnect =
+    .label = Deconectează-te…
+    .accesskey = D
+sync-manage-account = Gestionează contul
+    .accesskey = o
 sync-signedin-unverified = { $email } nu este verificat.
 sync-signedin-login-failure = Te rugăm să te autentifici pentru reconectare { $email }
+sync-resend-verification =
+    .label = Retrimite verificarea
+    .accesskey = d
+sync-sign-in =
+    .label = Autentifică-te
+    .accesskey = g
 sync-signedin-settings-header = Setări de sincronizare
 sync-signedin-settings-desc = Alege ce să sincronizezi pe dispozitive folosind { -brand-short-name }.
 sync-engine-bookmarks =
@@ -407,6 +420,34 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Istoric
     .accesskey = r
+sync-engine-tabs =
+    .label = File deschise
+    .tooltiptext = O listă cu ce este deschis pe toate dispozitivele sincronizate
+    .accesskey = T
+sync-engine-logins =
+    .label = Autentificări
+    .tooltiptext = Numele de utilizatori și parolele pe care le-ai salvat
+    .accesskey = L
+sync-engine-addresses =
+    .label = Adrese
+    .tooltiptext = Adrese poștale salvate (doar desktop)
+    .accesskey = e
+sync-engine-creditcards =
+    .label = Carduri de credit
+    .tooltiptext = Nume, numere și date de expirare (doar desktop)
+    .accesskey = c
+sync-engine-addons =
+    .label = Suplimente
+    .tooltiptext = Extensii și teme pentru Firefox desktop
+    .accesskey = A
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Opțiuni
+           *[other] Preferințe
+        }
+    .tooltiptext = Setările generale, de confidențialitate și securitate pe care le-ai schimbat
+    .accesskey = s
 sync-device-name-header = Numele dispozitivului
 sync-device-name-change =
     .label = Schimbă numele dispozitivului
