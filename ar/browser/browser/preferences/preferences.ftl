@@ -389,6 +389,19 @@ containers-preferences-button =
 containers-remove-button =
     .label = أزِل
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-engine-bookmarks =
+    .label = علاماتي
+    .accesskey = م
+sync-engine-history =
+    .label = تأريخي
+    .accesskey = خ
+sync-tos-link = بنود الخدمة
+
 ## Privacy Section
 
 privacy-header = خصوصية المتصفح
