@@ -368,11 +368,29 @@ containers-remove-button =
 sync-signedout-caption = El vostre web a tot arreu
 sync-signedout-description = Sincronitzeu les vostres adreces d'interès, historial, pestanyes, contrasenyes, complements i preferències en tots els vostres dispositius.
 sync-signedout-account-title = Connecteu-vos amb un { -fxaccount-brand-name }
+sync-signedout-account-create = No teniu un compte? Comencem
+    .accesskey = C
+sync-signedout-account-signin =
+    .label = Inicia la sessió…
+    .accesskey = I
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Canvia la imatge de perfil
+sync-disconnect =
+    .label = Desconnecta…
+    .accesskey = D
+sync-manage-account = Gestiona el compte
+    .accesskey = a
 sync-signedin-unverified = { $email } no està verificat.
 sync-signedin-login-failure = Inicieu la sessió per tornar-vos a connectar { $email }
+sync-resend-verification =
+    .label = Torna a enviar la verificació
+    .accesskey = v
+sync-sign-in =
+    .label = Inicia la sessió
+    .accesskey = I
 sync-signedin-settings-header = Paràmetres de sincronització
 sync-signedin-settings-desc = Trieu què voleu sincronitzar entre els vostres dispositius que utilitzen el { -brand-short-name }.
 sync-engine-bookmarks =
@@ -381,6 +399,34 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Historial
     .accesskey = r
+sync-engine-tabs =
+    .label = Pestanyes obertes
+    .tooltiptext = Una llista d'allò que està obert en tots els dispositius sincronitzats
+    .accesskey = T
+sync-engine-logins =
+    .label = Inicis de sessió
+    .tooltiptext = Noms d'usuari i contrasenyes que heu desat
+    .accesskey = I
+sync-engine-addresses =
+    .label = Adreces
+    .tooltiptext = Adreces postals que heu desat (només a l'ordinador)
+    .accesskey = e
+sync-engine-creditcards =
+    .label = Targetes de crèdit
+    .tooltiptext = Noms, números i dates de venciment (només a l'ordinador)
+    .accesskey = c
+sync-engine-addons =
+    .label = Complements
+    .tooltiptext = Extensions i temes per al Firefox d'escriptori
+    .accesskey = C
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Opcions
+           *[other] Preferències
+        }
+    .tooltiptext = Paràmetres generals, de privadesa i de seguretat que heu canviat
+    .accesskey = s
 sync-device-name-header = Nom del dispositiu
 sync-device-name-change =
     .label = Canvia el nom del dispositiu…
