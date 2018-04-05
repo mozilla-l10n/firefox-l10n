@@ -67,7 +67,7 @@
 <!ENTITY filterOutput.placeholder "กรองค่าออก">
 <!ENTITY btnClear.label        "ล้าง">
 <!ENTITY btnClear.tooltip      "ล้างค่าออกของคอนโซลเว็บ">
-<!ENTITY btnClear.accesskey    "ง">
+<!ENTITY btnClear.accesskey    "ล">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
@@ -86,3 +86,6 @@
 <!ENTITY findCmd.key          "F">
 <!ENTITY clearOutputCtrl.key  "L">
 <!ENTITY openInVarViewCmd.label "เปิดในมุมมองตัวแปร">
+<!ENTITY openInVarViewCmd.accesskey "ป">
+<!ENTITY storeAsGlobalVar.label "จัดเก็บเป็นตัวแปรส่วนกลาง">
+<!ENTITY storeAsGlobalVar.accesskey "จ">
