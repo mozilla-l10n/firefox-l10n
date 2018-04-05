@@ -294,17 +294,40 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = Internet doim siz bilan birga
+sync-signedout-description = Xatcho‘plar, tarix, tablar, parollar, qo‘shimcha dasturlar va boshqa parametrlarni barcha qurilmalar aro sinxronlang.
+sync-signedout-account-title = { -fxaccount-brand-name } bilan ulanish
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Profil rasmini o‘zgartirish
+sync-disconnect =
+    .label = Uzilmoqda…
+    .accesskey = U
 sync-signedin-unverified = { $email } tasdiqlanmagan.
 sync-signedin-login-failure = Qayta ulanish uchun kiring { $email }
+sync-sign-in =
+    .label = Kirish
+    .accesskey = K
+sync-signedin-settings-header = Sinxronizatsiya moslamalari
+sync-signedin-settings-desc = Qurilmangizda { -brand-short-name }dan foydalanib nimalarni sinxronlashni tanlang.
 sync-engine-bookmarks =
     .label = Xatchoʻplar
     .accesskey = X
 sync-engine-history =
     .label = Tarix
     .accesskey = T
+sync-device-name-header = Qurilma nomi
+sync-device-name-change =
+    .label = Qurilma nomini o‘zgartirish…
+    .accesskey = h
+sync-device-name-cancel =
+    .label = Bekor qilish
+    .accesskey = B
+sync-device-name-save =
+    .label = Saqlash
+    .accesskey = S
 sync-tos-link = Xizmat shartlari
 sync-fxa-privacy-notice = Maxfiylik ogohlantirishlari
 
