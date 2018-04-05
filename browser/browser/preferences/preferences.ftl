@@ -386,6 +386,11 @@ containers-remove-button =
 sync-signedout-caption = Понесите веб са собом
 sync-signedout-description = Синхронизујте забелешке, историјат, јазичке, лозинке, додатке и поставке на свим уређајима.
 sync-signedout-account-title = Повезивање са { -fxaccount-brand-name }
+sync-signedout-account-create = Немате налог? Направите га овде
+    .accesskey = г
+sync-signedout-account-signin =
+    .label = Пријави се…
+    .accesskey = ј
 
 ## Sync Section - Signed in
 
@@ -423,6 +428,14 @@ sync-engine-logins =
     .label = Пријаве
     .tooltiptext = Корисничка имена и лозинке које сте сачували
     .accesskey = р
+sync-engine-addresses =
+    .label = Адресе
+    .tooltiptext = Поштанске адресе које сте сачували (само за десктоп)
+    .accesskey = е
+sync-engine-creditcards =
+    .label = Кредитне картице
+    .tooltiptext = Имена, бројеви и датуми истицања (само за десктоп)
+    .accesskey = К
 sync-engine-addons =
     .label = Додаци
     .tooltiptext = Екстензије и теме за Firefox десктоп
