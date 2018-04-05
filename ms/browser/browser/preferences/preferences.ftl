@@ -380,9 +380,13 @@ containers-remove-button =
 
 ## Sync Section - Signed in
 
+sync-signedin-unverified = { $email } tidak disahkan.
+sync-signedin-login-failure = Sila daftar masuk untuk menyambung semula { $email }
 sync-engine-history =
     .label = Sejarah
     .accesskey = r
+sync-device-name-header = Nama Peranti
+sync-fxa-privacy-notice = Notis Privasi
 
 ## Privacy Section
 
