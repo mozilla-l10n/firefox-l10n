@@ -383,16 +383,23 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = Понесите веб са собом
+sync-signedout-description = Синхронизујте забелешке, историјат, јазичке, лозинке, додатке и поставке на свим уређајима.
+sync-signedout-account-title = Повезивање са { -fxaccount-brand-name }
 
 ## Sync Section - Signed in
 
+sync-signedin-unverified = { $email } није потврђен.
+sync-signedin-login-failure = Пријавите се да бисте се поново повезали { $email }
 sync-engine-bookmarks =
     .label = Забелешке
     .accesskey = З
 sync-engine-history =
     .label = Историјат
     .accesskey = И
+sync-device-name-header = Име уређаја
 sync-tos-link = Услови коришћења услуге
+sync-fxa-privacy-notice = Обавештење о приватности
 
 ## Privacy Section
 
