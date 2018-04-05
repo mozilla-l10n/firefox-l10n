@@ -384,11 +384,32 @@ containers-remove-button =
 sync-signedout-caption = Vigye magával a webet
 sync-signedout-description = Szinkronizálja könyvjelzőit, előzményeit, lapjait, jelszavait, kiegészítőit és beállításait minden eszközén.
 sync-signedout-account-title = Kapcsolódjon egy { -fxaccount-brand-name }kal
+sync-signedout-account-create = Nincs felhasználóneve? Kezdjen neki
+    .accesskey = K
+sync-signedout-account-signin =
+    .label = Bejelentkezés…
+    .accesskey = B
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Profilkép módosítása
+sync-disconnect =
+    .label = A kapcsolat bontása…
+    .accesskey = t
+sync-manage-account = Fiók kezelése
+    .accesskey = F
 sync-signedin-unverified = A(z)  { $email } cím nincs ellenőrizve.
 sync-signedin-login-failure = Jelentkezzen be  { $email } újracsatlakoztatásához
+sync-resend-verification =
+    .label = Ellenőrző e-mail újraküldése
+    .accesskey = k
+sync-remove-account =
+    .label = Fiók eltávolítása
+    .accesskey = t
+sync-sign-in =
+    .label = Bejelentkezés
+    .accesskey = B
 sync-signedin-settings-header = Sync beállítások
 sync-signedin-settings-desc = Válassza ki, mit szeretne szinkronizálni eszközei között a { -brand-short-name } segítségével.
 sync-engine-bookmarks =
@@ -397,6 +418,34 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Előzmények
     .accesskey = E
+sync-engine-tabs =
+    .label = Nyitott lapok
+    .tooltiptext = Lista arról, hogy mi van nyitva a szinkronizált eszközökön
+    .accesskey = L
+sync-engine-logins =
+    .label = Bejelentkezések
+    .tooltiptext = A mentett felhasználónevek és jelszavak
+    .accesskey = B
+sync-engine-addresses =
+    .label = Címek
+    .tooltiptext = Mentett postai címek (csak asztali gépen)
+    .accesskey = e
+sync-engine-creditcards =
+    .label = Bankkártyák
+    .tooltiptext = Nevek, számok és lejárati dátumok (csak asztali gépen)
+    .accesskey = B
+sync-engine-addons =
+    .label = Kiegészítők
+    .tooltiptext = Kiterjesztések és témák az asztali Firefoxhoz
+    .accesskey = K
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Beállítások
+           *[other] Beállítások
+        }
+    .tooltiptext = Módosított általános, adatvédelmi és biztonsági beállítások
+    .accesskey = B
 sync-device-name-header = Eszköznév
 sync-device-name-change =
     .label = Eszköznév módosítása…
@@ -407,6 +456,8 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Mentés
     .accesskey = M
+sync-mobilepromo-single = Másik eszköz csatlakoztatása
+sync-mobilepromo-multi = Eszközök kezelése
 sync-tos-link = A szolgáltatás feltételei
 sync-fxa-privacy-notice = Adatvédelmi megjegyzés
 
