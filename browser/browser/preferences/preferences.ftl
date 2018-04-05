@@ -355,6 +355,19 @@ containers-preferences-button =
 containers-remove-button =
     .label = 삭제
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-engine-bookmarks =
+    .label = 북마크
+    .accesskey = m
+sync-engine-history =
+    .label = 방문 기록
+    .accesskey = r
+sync-tos-link = 서비스 약관
+
 ## Privacy Section
 
 privacy-header = 브라우저 개인정보
