@@ -398,11 +398,24 @@ sync-signedout-account-signin =
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Změnit profilový obrázek
+sync-disconnect =
+    .label = Odpojit…
+    .accesskey = d
+sync-manage-account = Spravovat účet
+    .accesskey = S
 sync-signedin-unverified = Účet { $email } není ověřen.
 sync-signedin-login-failure = Pro přihlášení se znovu připojte { $email }
+sync-resend-verification =
+    .label = Znovu odeslat ověření
+    .accesskey = d
 sync-remove-account =
     .label = Odebrat účet
     .accesskey = d
+sync-sign-in =
+    .label = Přihlásit se
+    .accesskey = i
 sync-signedin-settings-header = Nastavení synchronizace
 sync-signedin-settings-desc = Vyberte, co má { -brand-short-name } na vašich zařízeních synchronizovat.
 sync-engine-bookmarks =
