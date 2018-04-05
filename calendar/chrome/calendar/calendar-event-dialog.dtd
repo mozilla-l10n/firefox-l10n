@@ -359,6 +359,7 @@
 <!ENTITY event.recurrence.range.label                   "Toistuvuuden takaraja">
 <!ENTITY event.recurrence.forever.label                 "Ei päättymispäivää" >
 <!ENTITY event.recurrence.repeat.for.label              "Luo" >
+<!ENTITY event.recurrence.appointments.label            "tapahtuma(a)" >
 <!ENTITY event.repeat.until.label                       "Toista seuraavaan päivään asti:" >
 <!ENTITY event.recurrence.preview.label                 "Esikatselu">
 
@@ -391,11 +392,13 @@
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Yleistiedot">
 <!ENTITY read.only.title.label           "Otsikko:">
+<!ENTITY read.only.calendar.label        "Kalenteri:">
 <!ENTITY read.only.event.start.label     "Aloitusaika:">
 <!ENTITY read.only.task.start.label      "Aloitusaika:">
 <!ENTITY read.only.event.end.label       "Lopetusaika:">
 <!ENTITY read.only.task.due.label        "Valmis:">
 <!ENTITY read.only.repeat.label          "Toista:">
+<!ENTITY read.only.location.label        "Sijainti:">
 <!ENTITY read.only.category.label        "Kategoria:">
 <!ENTITY read.only.organizer.label       "Järjestäjä:">
 <!ENTITY read.only.reply.label           "Vastaa:">
@@ -410,3 +413,15 @@
 <!ENTITY read.only.link.label            "Aiheeseen liittyvä linkki">
 
 <!-- Summary dialog -->
+<!ENTITY summary.dialog.saveclose.label         "Tallenna ja sulje">
+<!ENTITY summary.dialog.saveclose.tooltiptext   "Tallenna muutokset ja sulje ikkuna muuttamatta osallistumisen tilaa ja lähettämättä vastausta">
+<!ENTITY summary.dialog.accept.label            "Hyväksy">
+<!ENTITY summary.dialog.accept.tooltiptext      "Hyväksy kutsu">
+<!ENTITY summary.dialog.tentative.label         "Alustava">
+<!ENTITY summary.dialog.tentative.tooltiptext   "Hyväksy alustavasti">
+<!ENTITY summary.dialog.decline.label           "Kieltäydy">
+<!ENTITY summary.dialog.decline.tooltiptext     "Kieltäydy kutsusta">
+<!ENTITY summary.dialog.dontsend.label          "Älä lähetä vastausta">
+<!ENTITY summary.dialog.dontsend.tooltiptext    "Muuta osallistumisstatustasi lähettämättä vastausta järjestäjälle ja sulje ikkuna">
+<!ENTITY summary.dialog.send.label              "Lähetä vastaus nyt">
+<!ENTITY summary.dialog.send.tooltiptext        "Lähetä vastaus järjestäjälle  ja sulje ikkuna">

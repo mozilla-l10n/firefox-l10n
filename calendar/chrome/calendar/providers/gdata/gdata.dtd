@@ -16,5 +16,7 @@
 <!ENTITY gdata.reminder.default "Oletusmuistutus">
 <!ENTITY gdata.reminder.action.sms.label "Lähetä tekstiviesti">
 
+<!ENTITY gdata.wizard.session.description "Valitse olemassa oleva istunto tai muodosta uusi istunto syöttämällä sähköpostiosoitteesi. Tarvitset vain yhden istunnon tiliä kohti.">
 <!ENTITY gdata.wizard.calendars.description "Valitse kalenterit ja tehtävälistat, jotka haluat tilata.">
 
+<!ENTITY gdata.wizard.nextstep.description "Siirry seuraavaan vaiheeseen tekemään kalenterisi asetukset.">
