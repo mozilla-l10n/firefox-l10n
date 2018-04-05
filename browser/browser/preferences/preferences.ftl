@@ -187,6 +187,19 @@ search-keyword-warning-bookmark = You have chosen a keyword that is currently in
 ## Containers Section
 
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-engine-bookmarks =
+    .label = Bookmarks
+    .accesskey = m
+sync-engine-history =
+    .label = History
+    .accesskey = r
+sync-tos-link = Terms of Service
+
 ## Privacy Section
 
 
