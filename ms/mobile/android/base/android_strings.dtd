@@ -139,7 +139,7 @@
 <!ENTITY settings "Tetapan">
 <!ENTITY settings_title "Tetapan">
 <!ENTITY pref_category_general "Umum">
-<!ENTITY pref_category_general_summary3 "Halaman utama, bahasa, baris gilir tab">
+<!ENTITY pref_category_general_summary3 "Rerumah, bahasa, baris gilir tab">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -213,7 +213,7 @@
 <!ENTITY pref_remember_signons2 "Ingati log masuk">
 <!ENTITY pref_manage_logins "Urus log masuk">
 
-<!ENTITY pref_category_home "Halaman utama">
+<!ENTITY pref_category_home "Rerumah">
 <!ENTITY pref_category_home_summary "Penyesuaian halaman utama anda">
 <!ENTITY pref_category_home_panels "Panel">
 <!ENTITY pref_category_home_add_ons "Add-ons">
@@ -422,7 +422,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "Laporan Kesihatan &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "Kongsi data dengan &vendorShortName; mengenai keupayaan pelayar anda dan membantu anda memahami prestasi pelayar anda">
-<!ENTITY datareporting_abouthr_title "Papar Laporan Kesihatan saya">
 <!ENTITY datareporting_telemetry_title "Telemetri">
 <!ENTITY datareporting_telemetry_summary "Kongsi prestasi, penggunaan, perkakasan dan data penyesuaian mengenai pelayar anda dengan &vendorShortName; untuk membantu kami menjadikan &brandShortName; lebih baik">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; menghantar laporan ranap untuk membantu &vendorShortName; menjadikan pelayar anda lebih stabil dan selamat">
@@ -580,7 +579,7 @@
 
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
-<!ENTITY home_title "Halaman Utama &brandShortName;">
+<!ENTITY home_title "Rerumah &brandShortName;">
 <!ENTITY home_history_title "Sejarah">
 <!ENTITY home_synced_devices_smartfolder "Peranti Sync">
 <!ENTITY home_synced_devices_number "&formatD; peranti">
