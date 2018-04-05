@@ -346,6 +346,15 @@ containers-preferences-button =
 containers-remove-button =
     .label = తొలగించు
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-engine-history =
+    .label = చరిత్ర
+    .accesskey = r
+
 ## Privacy Section
 
 privacy-header = విహరిణి గోప్యత
