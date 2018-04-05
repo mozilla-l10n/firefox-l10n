@@ -319,6 +319,19 @@ sync-signedout-account-signin =
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = ಪ್ರೊಫೈಲ್ ಚಿತ್ರವನ್ನು ಬದಲಾಯಿಸು
+sync-disconnect =
+    .label = ಸಂಪರ್ಕ ತಪ್ಪಿಸು…
+    .accesskey = D
+sync-manage-account = ಖಾತೆಯನ್ನು ನಿರ್ವಹಿಸು
+    .accesskey = o
+sync-remove-account =
+    .label = ಖಾತೆಯನ್ನು ತೆಗೆದುಹಾಕು
+    .accesskey = R
+sync-sign-in =
+    .label = ಒಳಗೆ ಪ್ರವೇಶಿಸು‍
+    .accesskey = g
 sync-signedin-settings-header = ಸಿಂಕ್‍ನ ಸಿದ್ಧತೆಗಳು
 sync-engine-bookmarks =
     .label = ಪುಟಗುರುತುಗಳು
@@ -336,6 +349,8 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = ಉಳಿಸು‍
     .accesskey = v
+sync-mobilepromo-single = ಮತ್ತೊಂದು ಸಾಧನವನ್ನು ಸಂಪರ್ಕವನ್ನು ಸಾಧಿಸು
+sync-mobilepromo-multi = ಸಾಧನಗಳನ್ನು ನಿರ್ವಹಿಸು
 sync-tos-link = ಸೇವೆಯ ನಿಯಮಗಳು
 sync-fxa-privacy-notice = ಗೌಪ್ಯತಾ ಸೂಚನೆ
 
