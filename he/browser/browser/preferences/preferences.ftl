@@ -383,6 +383,22 @@ containers-preferences-button =
 containers-remove-button =
     .label = הסרה
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-signedin-unverified = הכתובת  { $email } אינה מאומתת.
+sync-signedin-login-failure = נא להיכנס לחשבון כדי להתחבר מחדש { $email }
+sync-engine-bookmarks =
+    .label = סימניות
+    .accesskey = ס
+sync-engine-history =
+    .label = היסטוריה
+    .accesskey = ה
+sync-tos-link = תנאי שימוש
+sync-fxa-privacy-notice = הצהרת פרטיות
+
 ## Privacy Section
 
 privacy-header = פרטיות דפדפן
