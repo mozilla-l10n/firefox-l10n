@@ -382,6 +382,22 @@ containers-preferences-button =
 containers-remove-button =
     .label = Премахване
 
+## Sync Section - Signed out
+
+sync-signedout-caption = Вземете Мрежата със себе си
+sync-signedout-account-title = Свържете ги с { -fxaccount-brand-name }
+
+## Sync Section - Signed in
+
+sync-signedin-unverified = { $email } не е проверен.
+sync-signedin-login-failure = Моля, впишете се, за да се свържете наново { $email }
+sync-engine-bookmarks =
+    .label = Отметки
+    .accesskey = О
+sync-engine-history =
+    .label = История
+    .accesskey = И
+
 ## Privacy Section
 
 privacy-header = Поверителност на четеца
