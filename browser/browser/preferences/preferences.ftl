@@ -347,9 +347,13 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = Prenda tes web cun tai
+sync-signedout-description = Sincronisescha tes segnapaginas, tia cronologia, tes tabs, tes pleds-clav, tes supplements e tias preferenzas cun tut tes apparats.
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Midar il maletg da profil
 sync-disconnect =
     .label = Deconnectar…
     .accesskey = D
@@ -366,9 +370,16 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = la cronologia
     .accesskey = r
+sync-device-name-header = Num da l'apparat
 sync-device-name-change =
     .label = Midar il num da l'apparat…
     .accesskey = M
+sync-device-name-cancel =
+    .label = Interrumper
+    .accesskey = m
+sync-device-name-save =
+    .label = Memorisar
+    .accesskey = m
 sync-tos-link = Contract da licenza
 sync-fxa-privacy-notice = Infurmaziuns davart la protecziun da datas
 
