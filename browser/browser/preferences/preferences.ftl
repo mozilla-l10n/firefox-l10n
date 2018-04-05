@@ -365,13 +365,22 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = Web-inizi özünüzlə gəzdirin
+sync-signedout-description = Əlfəçin, keçmiş, vərəq, parol, əlavə və nizamlamalarınızı bütün cihazlarınız arasında sinxronlaşdırın.
+sync-signedout-account-title = { -fxaccount-brand-name } ilə qoşulun
 
 ## Sync Section - Signed in
 
+sync-signedin-unverified = { $email } təsdiqlənməyib.
+sync-signedin-login-failure = Yenidən qoşulmaq üçün daxil olun { $email }
 sync-engine-bookmarks =
     .label = Əlfəcinlər
     .accesskey = c
+sync-engine-history =
+    .label = Keçmiș
+    .accesskey = i
 sync-tos-link = İstifadə Şərtləri
+sync-fxa-privacy-notice = Məxfilik Bildirişi
 
 ## Privacy Section
 
