@@ -398,6 +398,12 @@ sync-engine-history =
     .label = Историјат
     .accesskey = И
 sync-device-name-header = Име уређаја
+sync-device-name-cancel =
+    .label = Откажи
+    .accesskey = т
+sync-device-name-save =
+    .label = Сачувај
+    .accesskey = ч
 sync-tos-link = Услови коришћења услуге
 sync-fxa-privacy-notice = Обавештење о приватности
 
