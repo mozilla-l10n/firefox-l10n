@@ -386,11 +386,54 @@ sync-signedout-account-title = { -fxaccount-brand-name } এর সাথে ক
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = প্রোফাইলের ছবি পরিবর্তন করুন
+sync-disconnect =
+    .label = বিচ্ছিন্ন…
+    .accesskey = D
+sync-manage-account = অ্যাকাউন্ট ব্যবস্থাপনা
+    .accesskey = o
+sync-signedin-unverified = { $email } যাচাই কৃত না
+sync-signedin-login-failure = পুনরায় সংযোগ স্থাপন করতে সাইন ইন করুন { $email }
+sync-sign-in =
+    .label = সাইন ইন
+    .accesskey = g
 sync-signedin-settings-header = সিঙ্ক সেটিং
 sync-signedin-settings-desc = { -brand-short-name } দিয়ে আপনার ডিভাইসে কি কি সিঙ্ক্রোনাইজ করা হবে তা নির্বাচন করুন।
+sync-engine-bookmarks =
+    .label = বুকমার্ক{ " " }
+    .accesskey = m
 sync-engine-history =
     .label = ইতিহাস
     .accesskey = r
+sync-engine-tabs =
+    .label = ওপেন ট্যাব
+    .tooltiptext = সিঙ্ক করা ডিভাইসগুলোতে যা যা খোলা তার তালিকা
+    .accesskey = T
+sync-engine-logins =
+    .label = লগইন
+    .tooltiptext = আপনার সংরক্ষিত ব্যবহারকারী নাম ও পাসওয়ার্ড
+    .accesskey = L
+sync-engine-addresses =
+    .label = ঠিকানা
+    .tooltiptext = আপনার সংরক্ষিত ঠিকানা (কেবলমাত্র ডেস্কটপে)
+    .accesskey = e
+sync-engine-creditcards =
+    .label = ক্রেডিট কার্ড
+    .tooltiptext = নাম, সংখ্যা এবং মেয়াদোত্তীর্ণের তারিখ ( কেবলমাত্র ডেস্কটপে)
+    .accesskey = C
+sync-engine-addons =
+    .label = অ্যাড-অন
+    .tooltiptext = Firefox ডেস্কটপের জন্য এক্সটেনশন ও থিম
+    .accesskey = A
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] অপশন
+           *[other] পছন্দসমূহ
+        }
+    .tooltiptext = সাধারণ, গোপনীয়তা এবং নিরাপত্তা সেটিং এ আপনি যা পরিবর্তন করেছেন
+    .accesskey = s
 sync-device-name-header = ডিভাইসের নাম
 sync-device-name-change =
     .label = ডিভাইসের নাম পরিবর্তন…
@@ -401,6 +444,8 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = সংরক্ষণ
     .accesskey = v
+sync-mobilepromo-single = অন্য ডিভাইস সংযুক্ত করুন
+sync-mobilepromo-multi = ডিভাইস ব্যবস্থাপনা
 sync-tos-link = সেবার শর্ত
 sync-fxa-privacy-notice = গোপনীয়তার নীতি
 
