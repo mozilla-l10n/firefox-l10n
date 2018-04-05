@@ -359,15 +359,30 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = आपला वेब आपल्याबरोबर घेऊन चला
+sync-signedout-description = आपल्या सर्व साधणांकरीता आपल्या वाचनखूणा, इतिहास, टॅब, पासवर्ड, ॲड-ऑन्स्, आणि प्राधान्ये समक्रमित करा.
+sync-signedout-account-title = { -fxaccount-brand-name } सह जोडा
 
 ## Sync Section - Signed in
 
+sync-signedin-settings-header = ताळमेळ सेटिंग्ज
+sync-signedin-settings-desc = { -brand-short-name } वापरून आपल्या उपकरणांवर काय सिंक्रोनाईझ करायचे ते निवडा.
 sync-engine-bookmarks =
     .label = वाचनखुणा
     .accesskey = m
 sync-engine-history =
     .label = इतिहास
     .accesskey = r
+sync-device-name-header = साधनाचे नाव:
+sync-device-name-change =
+    .label = साधनाचे नाव बदला…
+    .accesskey = h
+sync-device-name-cancel =
+    .label = रद्द करा
+    .accesskey = n
+sync-device-name-save =
+    .label = जतन करा
+    .accesskey = v
 sync-tos-link = सेवा अटी
 sync-fxa-privacy-notice = गोपणीयता सूचना
 
