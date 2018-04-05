@@ -217,7 +217,9 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Историја
     .accesskey = р
+sync-device-name-header = Име на уред
 sync-tos-link = Услови за употреба
+sync-fxa-privacy-notice = Белешка за приватност
 
 ## Privacy Section
 
