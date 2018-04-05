@@ -57,6 +57,18 @@ download-header = Zotsitsidwa
 ## Containers Section
 
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-engine-bookmarks =
+    .label = Chidziwitso
+    .accesskey = C
+sync-engine-history =
+    .label = Mbiri
+    .accesskey = M
+
 ## Privacy Section
 
 
