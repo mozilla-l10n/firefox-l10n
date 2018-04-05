@@ -391,15 +391,26 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = خُذ الوِب معك
+sync-signedout-description = زامن علاماتك، و تأريخك، و ألسنتك، و كلمات سرك، و إضافاتك و التفضيلات بين كل أجهزتك.
+sync-signedout-account-title = اتصل باستخدام { -fxaccount-brand-name }
 
 ## Sync Section - Signed in
 
+sync-signedin-unverified = { $email } ليس مؤكّدًا.
+sync-signedin-login-failure = من فضلك لج لإعادة التوصيل { $email }
+sync-signedin-settings-header = إعدادات المزامنة
+sync-signedin-settings-desc = اختر مالذي تريد مزامنته على أجهزتك باستخدام { -brand-short-name }.
 sync-engine-bookmarks =
     .label = علاماتي
     .accesskey = م
 sync-engine-history =
     .label = تأريخي
     .accesskey = خ
+sync-engine-tabs =
+    .label = الألسنة المفتوحة
+    .tooltiptext = قائمة بالألسنة المفتوحة على كل الأجهزة
+    .accesskey = س
 sync-engine-addons =
     .label = الإضافات
     .tooltiptext = امتدادات و سمات لنسخة سطح المكتب من فَيَرفُكس
@@ -412,9 +423,20 @@ sync-engine-prefs =
         }
     .tooltiptext = الإعدادات العامة، و إعدادات الخصوصية و الأمن التي غيرتها
     .accesskey = ت
+sync-device-name-header = اسم الجهاز
+sync-device-name-change =
+    .label = غيّر اسم الجهاز…
+    .accesskey = ه
+sync-device-name-cancel =
+    .label = ألغِ
+    .accesskey = ل
+sync-device-name-save =
+    .label = احفظ
+    .accesskey = ح
 sync-mobilepromo-single = أوصِل جهازا آخر
 sync-mobilepromo-multi = أدِر الأجهزة
 sync-tos-link = بنود الخدمة
+sync-fxa-privacy-notice = تنويه الخصوصية
 
 ## Privacy Section
 
