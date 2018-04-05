@@ -351,15 +351,29 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = ਆਪਣੇ ਵੈੱਬ ਨੂੰ ਆਪਣੇ ਨਾਲ ਲੈ ਜਾਓ
+sync-signedout-description = ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਆਪਣੇ ਬੁੱਕਮਾਰਕਾਂ, ਅਤੀਤ, ਟੈਬਾਂ, ਪਾਸਵਰਡਾਂ, ਐਡ-ਆਨ ਅਤੇ ਪਸੰਦਾਂ ਨੂੰ ਸੈਕਰੋਨਾਈਜ਼ ਕਰੋ।
+sync-signedout-account-title = { -fxaccount-brand-name } ਨਾਲ ਕਨੈਕਟ ਕਰੋ
 
 ## Sync Section - Signed in
 
+sync-signedin-unverified = { $email } ਜਾਂਚਿਆ ਨਹੀਂ ਹੈ।
+sync-signedin-login-failure = ਮੁੜ-ਕੁਨੈਕਟ ਕਰਨ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ ਜੀ { $email }
 sync-engine-bookmarks =
     .label = ਬੁੱਕਮਾਰਕ
     .accesskey = m
 sync-engine-history =
     .label = ਅਤੀਤ
     .accesskey = r
+sync-device-name-header = ਡਿਵਾਈਸ ਨਾਂ
+sync-device-name-cancel =
+    .label = ਰੱਦ ਕਰੋ
+    .accesskey = n
+sync-device-name-save =
+    .label = ਸੰਭਾਲੋ
+    .accesskey = v
+sync-tos-link = ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ
+sync-fxa-privacy-notice = ਪਰਦੇਦਾਰੀ ਬਾਰੇ ਸੂਚਨਾ
 
 ## Privacy Section
 
