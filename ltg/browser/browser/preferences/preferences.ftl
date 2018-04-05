@@ -369,6 +369,13 @@ containers-preferences-button =
 containers-remove-button =
     .label = Nūjimt
 
+## Sync Section - Signed out
+
+sync-signedout-description = Synchronize your bookmarks, history, tabs, passwords, add-ons, and preferences across all your devices.
+
+## Sync Section - Signed in
+
+
 ## Privacy Section
 
 privacy-header = Puorlūka privatums
