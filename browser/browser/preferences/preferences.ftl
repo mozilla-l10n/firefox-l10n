@@ -158,6 +158,19 @@ search-keyword-warning-bookmark = ଆପଣ ଗୋଟିଏ ସୂଚକ ଶବ�
 ## Containers Section
 
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-engine-bookmarks =
+    .label = ଚିହ୍ନିତ ସ୍ଥାନ
+    .accesskey = m
+sync-engine-history =
+    .label = ପୁରୁଣା ତଥ୍ୟ
+    .accesskey = r
+sync-tos-link = ସର୍ଭିସ ନିୟମାବଳୀ
+
 ## Privacy Section
 
 
