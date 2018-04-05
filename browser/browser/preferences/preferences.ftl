@@ -345,6 +345,33 @@ containers-preferences-button =
 containers-remove-button =
     .label = Allontanar
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-disconnect =
+    .label = Deconnectar…
+    .accesskey = D
+sync-signedin-unverified = L'adressa { $email } n'è anc betg verifitgada.
+sync-signedin-login-failure = T'annunzia per reconnectar cun { $email }
+sync-sign-in =
+    .label = S'annunziar
+    .accesskey = a
+sync-signedin-settings-header = Parameters da Sync
+sync-signedin-settings-desc = Tscherna tge che duai vegnir sincronisà tranter tes apparats che utiliseschan { -brand-short-name }.
+sync-engine-bookmarks =
+    .label = ils segnapaginas
+    .accesskey = g
+sync-engine-history =
+    .label = la cronologia
+    .accesskey = r
+sync-device-name-change =
+    .label = Midar il num da l'apparat…
+    .accesskey = M
+sync-tos-link = Contract da licenza
+sync-fxa-privacy-notice = Infurmaziuns davart la protecziun da datas
+
 ## Privacy Section
 
 privacy-header = Protecziun da datas
