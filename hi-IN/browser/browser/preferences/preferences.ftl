@@ -385,16 +385,32 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = अपना वेब अपने साथ रखें
+sync-signedout-description = अपने सभी उपकरणों पर अपने बुकमार्क, इतिहास, टैब, पासवर्ड, ऐड-ऑन, और वरीयताओं को समकालित करें.
+sync-signedout-account-title = { -fxaccount-brand-name } से जुड़ें
 
 ## Sync Section - Signed in
 
+sync-signedin-unverified = { $email } सत्यापित नहीं है.
+sync-signedin-login-failure = फिर से कनेक्ट करने के लिए साइन इन करें { $email }
 sync-engine-bookmarks =
     .label = पुस्तचिह्न
     .accesskey = m
 sync-engine-history =
     .label = इतिहास
     .accesskey = r
+sync-device-name-header = डिवाइस का नाम
+sync-device-name-change =
+    .label = उपकरण का नाम बदले…
+    .accesskey = h
+sync-device-name-cancel =
+    .label = रद्द करें
+    .accesskey = n
+sync-device-name-save =
+    .label = सहेजें
+    .accesskey = v
 sync-tos-link = सेवा शर्त
+sync-fxa-privacy-notice = गोपनीयता नीति
 
 ## Privacy Section
 
