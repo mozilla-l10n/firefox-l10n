@@ -134,6 +134,13 @@ search-keyword-warning-bookmark = Та одоогоор хаяганд хэрэ�
 ## Containers Section
 
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-tos-link = үйлчилгээний нөхцөл
+
 ## Privacy Section
 
 
