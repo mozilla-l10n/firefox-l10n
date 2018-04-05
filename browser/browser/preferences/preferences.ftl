@@ -387,17 +387,33 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = Pasiimkite savo saityną kartu
+sync-signedout-description = Sinchronizuokite savo adresyną, žurnalą, korteles, slaptažodžius, priedus bei nuostatas visuose savo įrenginiuose.
+sync-signedout-account-title = Jungtis su { -fxaccount-brand-name }
 
 ## Sync Section - Signed in
 
 sync-signedin-unverified = Paskyra { $email } yra nepatvirtinta.
 sync-signedin-login-failure = Prie { $email } reikia prisijungti iš naujo
+sync-signedin-settings-header = Sinchronizavimo nuostatos
 sync-engine-bookmarks =
     .label = adresyną
     .accesskey = a
 sync-engine-history =
     .label = žurnalą
     .accesskey = ž
+sync-device-name-header = Įrenginio pavadinimas
+sync-device-name-change =
+    .label = Keisti įrenginio pavadinimą…
+    .accesskey = e
+sync-device-name-cancel =
+    .label = Atsisakyti
+    .accesskey = k
+sync-device-name-save =
+    .label = Įrašyti
+    .accesskey = r
+sync-tos-link = Paslaugos teikimo nuostatai
+sync-fxa-privacy-notice = Pastaba dėl privatumo
 
 ## Privacy Section
 
