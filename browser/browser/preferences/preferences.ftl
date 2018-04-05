@@ -387,9 +387,14 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = Vezmite si svoj web so sebou
+sync-signedout-description = Synchronizujte si svoje záložky, históriu, karty, heslá, doplnky a nastavenia so všetkými svojimi zariadeniami.
+sync-signedout-account-title = Pripojte sa k službe { -fxaccount-brand-name }
 
 ## Sync Section - Signed in
 
+sync-signedin-unverified = Adresa { $email } nie je overená.
+sync-signedin-login-failure = Ak sa chcete pripojiť k { $email } , musíte sa prihlásiť.
 sync-engine-bookmarks =
     .label = Záložky
     .accesskey = Z
