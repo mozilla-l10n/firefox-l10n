@@ -383,6 +383,15 @@ containers-preferences-button =
 containers-remove-button =
     .label = Fjarlægja
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-signedin-unverified = { $email } er ekki staðfestur.
+sync-signedin-login-failure = Skráðu þig inn aftur til að tengjast aftur { $email }
+sync-fxa-privacy-notice = Upplýsingar um meðferð persónuupplýsinga
+
 ## Privacy Section
 
 privacy-header = Friðhelgi vafra
