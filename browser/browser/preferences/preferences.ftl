@@ -385,16 +385,34 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = Өз интернетіңізді өзіңізбен бірге ұстаңыз
+sync-signedout-description = Өзіңіздің бетбелгілер, тарих, беттер, парольдер және қосымшаларыңызды барлық құрылғыларыңыз арасында синхрондаңыз.
+sync-signedout-account-title = { -fxaccount-brand-name } көмегімен байланысу
 
 ## Sync Section - Signed in
 
+sync-signedin-unverified = { $email } расталған жоқ
+sync-signedin-login-failure = Байланысты қайта орнатуға үшін кіріңіз { $email }
+sync-signedin-settings-header = Синхрондау баптаулары
+sync-signedin-settings-desc = { -brand-short-name } қолданатын құрылғыларыңызда нені синхрондауды таңдаңыз.
 sync-engine-bookmarks =
     .label = Бетбелгілер
     .accesskey = т
 sync-engine-history =
     .label = Тарих
     .accesskey = и
+sync-device-name-header = Құрылғы аты
+sync-device-name-change =
+    .label = Құрылғы атын өзгерту…
+    .accesskey = з
+sync-device-name-cancel =
+    .label = Бас тарту
+    .accesskey = т
+sync-device-name-save =
+    .label = Сақтау
+    .accesskey = а
 sync-tos-link = Қолдану шарттары
+sync-fxa-privacy-notice = Жекелік ескертуі
 
 ## Privacy Section
 
