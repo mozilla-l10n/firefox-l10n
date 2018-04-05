@@ -388,10 +388,32 @@ containers-remove-button =
 sync-signedout-caption = Emportez votre Web partout avec vous
 sync-signedout-description = Synchronisez marque-pages, historique, onglets, mots de passe, modules complémentaires et préférences entre tous vos appareils.
 sync-signedout-account-title = Se connecter avec un { -fxaccount-brand-name }
+sync-signedout-account-create = Vous n’avez pas de compte ? Inscrivez-vous
+    .accesskey = V
+sync-signedout-account-signin =
+    .label = Se connecter…
+    .accesskey = S
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Changer la photo de profil
+sync-disconnect =
+    .label = Se déconnecter…
+    .accesskey = d
+sync-manage-account = Gérer le compte
+    .accesskey = G
 sync-signedin-unverified = { $email } n’est pas vérifié.
+sync-signedin-login-failure = Veuillez vous identifier pour vous reconnecter via { $email }
+sync-resend-verification =
+    .label = Renvoyer la vérification
+    .accesskey = f
+sync-remove-account =
+    .label = Supprimer le compte
+    .accesskey = t
+sync-sign-in =
+    .label = Connexion
+    .accesskey = x
 sync-signedin-settings-header = Paramètres de synchronisation
 sync-signedin-settings-desc = Sélectionnez les données à synchroniser entre vos appareils utilisant { -brand-short-name }.
 sync-engine-bookmarks =
@@ -400,7 +422,34 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Historique
     .accesskey = r
+sync-engine-tabs =
+    .label = Onglets ouverts
+    .tooltiptext = Une liste de ce qui est actuellement ouvert sur tous vos appareils synchronisés
+    .accesskey = O
+sync-engine-logins =
+    .label = Identifiants
+    .tooltiptext = Les noms d’utilisateurs et les mots de passe que vous avez enregistrés
+    .accesskey = I
+sync-engine-addresses =
+    .label = Adresses
+    .tooltiptext = Les adresses postales que vous avez enregistrées (uniquement sur ordinateur)
+    .accesskey = A
+sync-engine-addons =
+    .label = Modules complémentaires
+    .tooltiptext = Extensions et thèmes pour Firefox sur ordinateur
+    .accesskey = u
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Options
+           *[other] Préférences
+        }
+    .tooltiptext = Les paramètres que vous avez modifiés dans les sections Général, Vie privée et Sécurité
+    .accesskey = s
 sync-device-name-header = Nom de l’appareil
+sync-device-name-change =
+    .label = Changer le nom de l’appareil…
+    .accesskey = h
 sync-device-name-cancel =
     .label = Annuler
     .accesskey = A
