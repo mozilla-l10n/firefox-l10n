@@ -368,6 +368,9 @@ containers-remove-button =
 
 ## Sync Section - Signed in
 
+sync-engine-bookmarks =
+    .label = Əlfəcinlər
+    .accesskey = c
 sync-tos-link = İstifadə Şərtləri
 
 ## Privacy Section
