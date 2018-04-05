@@ -354,11 +354,29 @@ containers-remove-button =
 sync-signedout-caption = Mang trang web theo bạn
 sync-signedout-description = Đồng bộ trang đánh dấu, lịch sử, thẻ, mật khẩu, tiện ích và tùy chỉnh tới tất cả các thiết bị của bạn.
 sync-signedout-account-title = Kết nối với một { -fxaccount-brand-name }
+sync-signedout-account-create = Bạn chưa có tài khoản? Bắt đầu
+    .accesskey = C
+sync-signedout-account-signin =
+    .label = Đăng nhập…
+    .accesskey = I
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Đổi hình hồ sơ
+sync-disconnect =
+    .label = Ngắt kết nối…
+    .accesskey = D
+sync-manage-account = Quản lý tài khoản
+    .accesskey = k
 sync-signedin-unverified = { $email } chưa được kiểm tra.
 sync-signedin-login-failure = Xin hãy đăng nhập để kết nối lại { $email }
+sync-resend-verification =
+    .label = Gửi lại xác nhận
+    .accesskey = d
+sync-sign-in =
+    .label = Đăng nhập
+    .accesskey = g
 sync-signedin-settings-header = Cài đặt đồng bộ hóa
 sync-signedin-settings-desc = Chọn những thứ bạn muốn đồng bộ sử dụng { -brand-short-name }.
 sync-engine-bookmarks =
@@ -367,6 +385,30 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Lược sử
     .accesskey = r
+sync-engine-logins =
+    .label = Đăng nhập
+    .tooltiptext = Tên đăng nhập và mật khẩu bạn đã được lưu
+    .accesskey = L
+sync-engine-addresses =
+    .label = Địa chỉ
+    .tooltiptext = Địa chỉ bưu chính bạn đã lưu (chỉ trên phiên bản máy tính)
+    .accesskey = e
+sync-engine-creditcards =
+    .label = Thẻ tín dụng
+    .tooltiptext = Tên, số và ngày hết hạn (chỉ trên phiên bản máy tính)
+    .accesskey = C
+sync-engine-addons =
+    .label = Tiện ích
+    .tooltiptext = Phần mở rộng và diện mạo của phiên bản Firefox dành cho máy tính
+    .accesskey = T
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Tùy chọn
+           *[other] Tùy chỉnh
+        }
+    .tooltiptext = Các cài đặt chung, cài đặt về sự riêng tư, và bảo mật mà bạn đã thay đổi
+    .accesskey = y
 sync-device-name-header = Tên thiết bị
 sync-device-name-change =
     .label = Thay đổi tên thiết bị…
