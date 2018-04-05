@@ -387,6 +387,22 @@ containers-preferences-button =
 containers-remove-button =
     .label = Wótwónoźeś
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-signedin-unverified = { $email } njejo se pśeglědał.
+sync-signedin-login-failure = Pšosym zregistrěrujśo se, aby znowego zwězał { $email }
+sync-engine-bookmarks =
+    .label = Cytańske znamjenja
+    .accesskey = C
+sync-engine-history =
+    .label = Historiju
+    .accesskey = H
+sync-tos-link = Słužbne wuměnjenja
+sync-fxa-privacy-notice = Powěźeńka priwatnosći
+
 ## Privacy Section
 
 privacy-header = Priwatnosć wobglědowaka
