@@ -356,6 +356,13 @@ sync-engine-history =
     .label = చరిత్ర
     .accesskey = r
 sync-device-name-header = పరికరం పేరు
+sync-device-name-cancel =
+    .label = రద్దుచేయి
+    .accesskey = n
+sync-device-name-save =
+    .label = భద్రపరచు
+    .accesskey = v
+sync-tos-link = సేవా నిబంధనలు
 sync-fxa-privacy-notice = గోప్యతా నోటీసు
 
 ## Privacy Section
