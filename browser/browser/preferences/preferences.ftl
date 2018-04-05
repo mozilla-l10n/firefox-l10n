@@ -388,6 +388,8 @@ containers-remove-button =
 
 ## Sync Section - Signed in
 
+sync-signedin-unverified = { $email } ચકાસેલ નથી.
+sync-signedin-login-failure = મહેરબાની કરીને ફરી જોડાણ માટે પ્રવેશો { $email }
 sync-engine-history =
     .label = ઇતિહાસ
     .accesskey = r
