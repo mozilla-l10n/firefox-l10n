@@ -4,7 +4,7 @@
 
 <!ENTITY     window.title                  "Ter - Data me Kakube">
 
-<!ENTITY     window1.title                 "Ter - Angija ki Data me kakube">
+<!ENTITY     window2.title                 "Lo Angija ki Data me kakube">
 <!ENTITY     hostCol.label                 "Kakube">
 <!ENTITY     cookiesCol.label              "Angija">
 <!ENTITY     lastAccessedCol.label                "Kitiyo kwede me agiki">

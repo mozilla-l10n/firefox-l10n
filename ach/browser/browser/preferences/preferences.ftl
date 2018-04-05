@@ -525,6 +525,9 @@ sitedata-accept-third-party-never-option =
 sitedata-clear =
     .label = Jwa data…
     .accesskey = j
+sitedata-settings =
+    .label = Lo Data
+    .accesskey = D
 sitedata-cookies-exceptions =
     .label = Ma kiweko woko…
     .accesskey = M
@@ -558,6 +561,10 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Pe matwal
     .accesskey = a
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Tii ki Gwokke ikom lubo kor ii Yeny me mung me gengo lulub kor ma ngene
+    .accesskey = v
 tracking-exceptions =
     .label = Ma kiweko woko…
     .accesskey = M
@@ -600,6 +607,9 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Ma kiweko woko…
     .accesskey = M
+permissions-a11y-privacy-checkbox =
+    .label = Geng tic me nong ki i nongo layeny mamegi
+    .accesskey = a
 permissions-a11y-privacy-link = Nong ngec mapol
 
 ## Privacy Section - Data Collection
@@ -607,7 +617,13 @@ permissions-a11y-privacy-link = Nong ngec mapol
 collection-header = { -brand-short-name } coko ki tic ki data
 collection-description = Wa tute me miini jami ayera ki wacoko keken ngo ma wa mito me miyo ki yubo maber { -brand-short-name } pi dano weng. Jwijwi wa penyo pi twero ma pud pe kigamo ngec ma ngat moni.
 collection-privacy-notice = Ngec me mung
+collection-health-report =
+    .label = Yee { -brand-short-name } me cwalo data me diro ki kube bot { -vendor-short-name }
+    .accesskey = r
 collection-health-report-link = Nong ngec mapol
+collection-browser-errors =
+    .label = Yee { -brand-short-name } me cwalo ripot me bal pi layeny (bene ki kwena me bal) bot { -vendor-short-name }
+    .accesskey = b
 collection-browser-errors-link = Nong ngec mapol
 collection-backlogged-crash-reports =
     .label = Yee { -brand-short-name } me cwalo ripot me poto ma odure pi in

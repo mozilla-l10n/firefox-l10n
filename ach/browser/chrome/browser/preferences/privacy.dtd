@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Gwokke ikom lubo kor">
-<!ENTITY  trackingProtection2.radioGroupLabel  "Tii ki Gwokke ikom lubo kor me gengo lulub kor ma ngene">
 <!ENTITY  trackingProtection3.description      "Gwokke ikom lubo kor gengo lulub kor me wiyamo ma coko data me yeny mamegi ki ii kakube mapol.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "Tii ki Gwokke ikom lubo kor me gengo lulub kor ma ngene">
 <!ENTITY  trackingProtectionAlways.label       "Jwijwi">
@@ -12,7 +11,6 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "k">
 <!ENTITY  trackingProtectionNever.label        "Pe matwal">
 <!ENTITY  trackingProtectionNever.accesskey    "a">
-<!ENTITY  trackingProtectionLearnMore.label    "Nong ngec mapol">
 <!ENTITY  trackingProtectionLearnMore2.label    "Nong ngec mapol ikom Gwokke ikom lubo kor ki mung mamegi">
 <!ENTITY  trackingProtectionExceptions.label   "Ma kiweko woko…">
 <!ENTITY  trackingProtectionExceptions.accesskey "M">
@@ -22,11 +20,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "Nong ngec mapol">
 <!ENTITY changeBlockList2.label               "Lok jami ma i dul…">
 <!ENTITY changeBlockList2.accesskey           "L">
-
-<!ENTITY  doNotTrack.description        "Cwal bot kakube ngec me “Pe i lub kor” ni pe imito ki lub kor in">
-<!ENTITY  doNotTrack.learnMore.label    "Nong ngec mapol">
-<!ENTITY  doNotTrack.default.label      "Keken ka itye katic ki Gwokke ikom lubo kor">
-<!ENTITY  doNotTrack.always.label       "Jwijwi">
 
 <!ENTITY  history.label                 "Gin mukato">
 <!ENTITY  permissions.label             "Rukuca">
@@ -50,8 +43,8 @@
 <!ENTITY  acceptThirdParty2.pre.label     "Yee angija ki bot pati me adek">
 <!ENTITY  acceptThirdParty2.pre.accesskey "y">
 
-<!ENTITY  acceptCookies3.label          "Yee angija ki data me kakube ki ii kakube">
-<!ENTITY  acceptCookies3.accesskey      "Y">
+<!ENTITY  acceptCookies4.label          "Yee angija ki data me kakube ki ii kakube (kicwako)">
+<!ENTITY  acceptCookies4.accesskey      "Y">
 
 <!ENTITY  blockCookies.label            "Geng angija ki data me kakube (twero weko kakube bale)">
 <!ENTITY  blockCookies.accesskey        "G">
@@ -89,6 +82,8 @@
 <!ENTITY  rememberActions.middle.label        ", onyo ">
 <!ENTITY  rememberActions.removeCookies.label "kwany angija acelacel">
 <!ENTITY  rememberActions.post.label          ".">
+
+<!ENTITY  rememberDescription1.label      "&brandShortName; bi poo ikomyeny mamegi, gam pwom ki yeny mukato.">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; bi tic ki ter acel calo yeny me mung, ka pe bi poo ikom gin mukato mo keken kun nongo i yenyo Kakube.">
 

@@ -39,6 +39,7 @@ available. -->
 <!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 
 <!ENTITY collectBrowserErrors.label          "Yee &brandShortName; me cwalo ripot me bal pi layeny (bene ki kwena me bal) bot Mozilla">
+<!ENTITY collectBrowserErrors.accesskey      "b">
 <!ENTITY collectBrowserErrorsLearnMore.label "Nong ngec mapol">
 
 <!ENTITY sendBackloggedCrashReports.label  "Yee &brandShortName; me cwalo ripot me poto ma odure pi in">
@@ -50,8 +51,6 @@ available. -->
 <!ENTITY networkProxy.label              "Proxy me netwak">
 
 <!ENTITY connectionDesc.label            "Yik kit ma &brandShortName; kube kwede ki intanet">
-
-<!ENTITY connectionSettingsLearnMore.label "Nong ngec mapol">
 <!ENTITY connectionSettings.label        "Tero…">
 <!ENTITY connectionSettings.accesskey    "e">
 
@@ -61,11 +60,13 @@ available. -->
 <!ENTITY siteData.label                  "Data me kakube">
 <!ENTITY clearSiteData.label             "Jwa data weng">
 <!ENTITY clearSiteData.accesskey         "a">
+<!ENTITY siteDataSettings.label          "Ter…">
+<!ENTITY siteDataSettings.accesskey      "e">
 <!ENTITY siteData1.label                 "Angija ki Data me kakube">
 <!ENTITY clearSiteData1.label            "Jwa data…">
 <!ENTITY clearSiteData1.accesskey        "j">
-<!ENTITY siteDataSettings.label          "Ter…">
-<!ENTITY siteDataSettings.accesskey      "e">
+<!ENTITY siteDataSettings1.label         "Lo Data…">
+<!ENTITY siteDataSettings1.accesskey     "O">
 <!ENTITY siteDataLearnMoreLink.label     "Nong ngec mapol">
 
 <!-- LOCALIZATION NOTE:
