@@ -949,7 +949,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.buttonlabel         "ขอบคุณ!">
 
 <!ENTITY emeLearnMoreContextMenu.label            "เรียนรู้เพิ่มเติมเกี่ยวกับ DRM…">
-<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+<!ENTITY emeLearnMoreContextMenu.accesskey        "ร">
 
 <!ENTITY updateAvailable.message "อัปเดต &brandShorterName; ของคุณเพื่อความเร็วและความเป็นส่วนตัวล่าสุด">
 <!ENTITY updateAvailable.whatsnew.label "ดูว่ามีอะไรใหม่">

@@ -90,7 +90,9 @@
 <!ENTITY display.accesskey            "ส">
 <!ENTITY display.key                  "l">
 
+<!ENTITY pprint.label                 "แสดงแบบสวยงาม">
 <!ENTITY pprint.key                   "p">
+<!ENTITY pprint.accesskey             "ส">
 
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
