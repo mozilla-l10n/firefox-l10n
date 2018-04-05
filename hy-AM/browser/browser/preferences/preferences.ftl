@@ -391,8 +391,24 @@ sync-signedout-account-signin =
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Փոխել պրոֆիլի նկարը
+sync-disconnect =
+    .label = Անջատել...
+    .accesskey = Ա
+sync-manage-account = Կառավարել հաշիվը
+    .accesskey = o
 sync-signedin-unverified = { $email } նույնականացրած չէ:
 sync-signedin-login-failure = Նախ մուտք գործեք { $email }
+sync-resend-verification =
+    .label = Կրկին ուղարկել հաստատումը
+    .accesskey = d
+sync-remove-account =
+    .label = Ջնջել հաշիվը
+    .accesskey = R
+sync-sign-in =
+    .label = Մուտք գործել
+    .accesskey = տ
 sync-signedin-settings-header = Սինքի կարգավորումներ
 sync-signedin-settings-desc = Ընտրեք, թե { -brand-short-name }-ի միջոցով ինչը համաժամեցնել ձեր սարքերի միջև:
 sync-engine-bookmarks =
@@ -401,6 +417,34 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Պատմությունը
     .accesskey = թ
+sync-engine-tabs =
+    .label = Բացել ներդիրներ
+    .tooltiptext = Համաժամեցված բոլոր սարքերում բացվածների ցանկը
+    .accesskey = T
+sync-engine-logins =
+    .label = Մուտքագրումներ
+    .tooltiptext = Ձեր պահպանած օգտվողի անունները և գաղտնաբառերը
+    .accesskey = Մ
+sync-engine-addresses =
+    .label = Հասցեներ
+    .tooltiptext = Փոստային հասցեներ, որոնք դուք պահպանել եք (միայն դեսքթոփում)
+    .accesskey = e
+sync-engine-creditcards =
+    .label = Բանկային քարտեր
+    .tooltiptext = Անուններ, համարներ և սպառման ամսաթվեր (միայն դեսքթոփում)
+    .accesskey = C
+sync-engine-addons =
+    .label = Հավելումները
+    .tooltiptext = Ընդլայնումներ և ոճեր Firefox-ի համար
+    .accesskey = Հ
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Ընտրանքներ
+           *[other] Կարգավորումները
+        }
+    .tooltiptext = Ընդհանուր, Գաղտնիություն և Անվտանգության կարգավորումները, որոնք դուք փոխել եք
+    .accesskey = ը
 sync-device-name-header = Սարքի անունը
 sync-device-name-change =
     .label = Փոխել սարքի անունը…
@@ -411,6 +455,8 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Պահպանել{ " " }
     .accesskey = պ
+sync-mobilepromo-single = Կապակցել այլ սարքի
+sync-mobilepromo-multi = Կառավարել սարքերը
 sync-tos-link = Ծառայության պայմանները
 sync-fxa-privacy-notice = Գաղտնիության Դրույթները
 
