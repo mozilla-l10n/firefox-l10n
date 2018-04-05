@@ -383,6 +383,22 @@ containers-preferences-button =
 containers-remove-button =
     .label = Kendu
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-signedin-unverified = { $email } ez dago egiaztatuta.
+sync-signedin-login-failure = Hasi saioa berriro konektatzeko { $email }
+sync-engine-bookmarks =
+    .label = Laster-markak
+    .accesskey = m
+sync-engine-history =
+    .label = Historia
+    .accesskey = H
+sync-tos-link = Zerbitzuaren baldintzak
+sync-fxa-privacy-notice = Pribatutasun-oharra
+
 ## Privacy Section
 
 privacy-header = Nabigatzailearen pribatutasuna
