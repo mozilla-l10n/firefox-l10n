@@ -389,6 +389,8 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = Ponesite svoj splet s seboj
+sync-signedout-description = Sinhronizirajte zaznamke, zgodovino, zavihke, gesla, dodatke in nastavitve vseh vaših naprav.
 
 ## Sync Section - Signed in
 
@@ -400,6 +402,7 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Zgodovino
     .accesskey = d
+sync-device-name-header = Ime naprave
 sync-tos-link = Pogoji uporabe
 sync-fxa-privacy-notice = Obvestilo o zasebnosti
 
