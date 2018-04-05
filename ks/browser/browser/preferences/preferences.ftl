@@ -169,6 +169,22 @@ search-keyword-warning-bookmark = توہیہ چُھ ژورمُت اکھ سُہ �
 ## Containers Section
 
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-signedin-unverified = { $email } چُھ نْہ تصدیق کرنْہ آمُت۔
+sync-signedin-login-failure = مہربأنی کْرتھ کْریو سایِن اِن دوبار کنیکٹْہ کرنْہ باپت { $email }
+sync-engine-bookmarks =
+    .label = نشان زَد
+    .accesskey = m
+sync-engine-history =
+    .label = تٲریخ
+    .accesskey = r
+sync-tos-link = خدمَتِق شرط
+sync-fxa-privacy-notice = پرایوسی نوٹِس{ " " }
+
 ## Privacy Section
 
 
