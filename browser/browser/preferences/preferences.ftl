@@ -385,14 +385,33 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = તમે તમારા વેબ ને લો
+sync-signedout-description = તમારા બધા ઉપકરણો પર તમારા બુકમાર્ક્સ, ઇતિહાસ, ટૅબ્સ, પાસવર્ડ્સ, ઍડ-ઑન્સ અને પસંદગીઓને સમન્વયિત કરો.
+sync-signedout-account-title = { -fxaccount-brand-name } સાથે જોડાણ કરો
 
 ## Sync Section - Signed in
 
 sync-signedin-unverified = { $email } ચકાસેલ નથી.
 sync-signedin-login-failure = મહેરબાની કરીને ફરી જોડાણ માટે પ્રવેશો { $email }
+sync-signedin-settings-desc = તમારા ઉપકરણો પર સમન્વયિત કરવાનું શું પસંદ કરો તે પસંદ કરો { -brand-short-name }.
+sync-engine-bookmarks =
+    .label = બુકમાર્ક્સ
+    .accesskey = m
 sync-engine-history =
     .label = ઇતિહાસ
     .accesskey = r
+sync-device-name-header = ઉપકરણનું નામ
+sync-device-name-change =
+    .label = ઉપકરણ નામ બદલો…
+    .accesskey = h
+sync-device-name-cancel =
+    .label = રદ કરો
+    .accesskey = n
+sync-device-name-save =
+    .label = સંગ્રહો
+    .accesskey = v
+sync-mobilepromo-single = બીજા ઉપકરણ સાથે જોડાણ કરો
+sync-mobilepromo-multi = ઉપકરણો સંચાલિત કરો
 sync-tos-link = સેવાની મર્યાદાઓ
 sync-fxa-privacy-notice = ખાનગી સૂચના
 
