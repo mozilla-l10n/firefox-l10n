@@ -396,11 +396,24 @@ sync-signedout-account-signin =
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = שינוי תמונת פרופיל
+sync-disconnect =
+    .label = התנתקות…
+    .accesskey = ה
+sync-manage-account = ניהול חשבון
+    .accesskey = נ
 sync-signedin-unverified = הכתובת  { $email } אינה מאומתת.
 sync-signedin-login-failure = נא להיכנס לחשבון כדי להתחבר מחדש { $email }
+sync-resend-verification =
+    .label = שליחת אימות מחדש
+    .accesskey = א
 sync-remove-account =
     .label = הסרת חשבון
     .accesskey = ס
+sync-sign-in =
+    .label = כניסה
+    .accesskey = כ
 sync-signedin-settings-header = הגדרות סנכרון
 sync-signedin-settings-desc = נא לבחור את הפריטים שיסונכרנו להתקנים שלך באמצעות { -brand-short-name }.
 sync-engine-bookmarks =
@@ -413,6 +426,10 @@ sync-engine-tabs =
     .label = פתיחת לשוניות
     .tooltiptext = רשימה של מה שפתוח בכל ההתקנים המסונכרנים
     .accesskey = ל
+sync-engine-logins =
+    .label = כניסות
+    .tooltiptext = שמות משתמשים וסיסמאות ששמרת
+    .accesskey = כ
 sync-engine-addresses =
     .label = כתובות
     .tooltiptext = כתובות למשלוח דואר ששמרת (שולחן עבודה בלבד)
@@ -443,6 +460,8 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = שמירה
     .accesskey = ש
+sync-mobilepromo-single = חיבור התקן נוסף
+sync-mobilepromo-multi = ניהול התקנים
 sync-tos-link = תנאי שימוש
 sync-fxa-privacy-notice = הצהרת פרטיות
 
