@@ -398,8 +398,24 @@ sync-signedout-account-signin =
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Kemmañ ar skeudenn aelad
+sync-disconnect =
+    .label = Digennaskañ…
+    .accesskey = D
+sync-manage-account = Ardeiñ ar gont
+    .accesskey = A
 sync-signedin-unverified = { $email } n'eo ket gwiriet.
 sync-signedin-login-failure = En em zilesait evit adkennaskañ { $email }
+sync-resend-verification =
+    .label = Adkas ar gwiriadur
+    .accesskey = g
+sync-remove-account =
+    .label = Dilemel ar gont
+    .accesskey = g
+sync-sign-in =
+    .label = Kennaskañ
+    .accesskey = a
 sync-signedin-settings-header = Arventennoù Sync
 sync-signedin-settings-desc = Dibabit petra goubredan war ho trevnad en ur arverañ { -brand-short-name }.
 sync-engine-bookmarks =
@@ -408,6 +424,34 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Roll istor
     .accesskey = R
+sync-engine-tabs =
+    .label = Digeriñ ivinelloù
+    .tooltiptext = Ur roll eus ar pezh a zo digor war an holl drevnadoù goubredet
+    .accesskey = D
+sync-engine-logins =
+    .label = Titouroù kennaskañ
+    .tooltiptext = Anvioù implijer ha gerioù-tremen enrollet ganeoc'h
+    .accesskey = T
+sync-engine-addresses =
+    .label = Chomlec'hioù
+    .tooltiptext = Chomlec'hioù post enrollet (burev hepken)
+    .accesskey = C
+sync-engine-creditcards =
+    .label = Kartennoù kred
+    .tooltiptext = Anvioù, niveroù ha deiziadoù diamzeriñ (burev hepken)
+    .accesskey = K
+sync-engine-addons =
+    .label = Askouezhioù
+    .tooltiptext = Askouezhioù ha neuzioù evit Firefox war burev
+    .accesskey = A
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Dibarzhioù
+           *[other] Gwellvezioù
+        }
+    .tooltiptext = Arventennoù hollek, buhez prevez ha diogelroez kemmet ganeoc'h
+    .accesskey = G
 sync-device-name-header = Anv an trevnad
 sync-device-name-change =
     .label = Kemmañ anv an trevnad…
@@ -418,6 +462,8 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Enrollañ
     .accesskey = E
+sync-mobilepromo-single = Kennaskañ un trevnad all
+sync-mobilepromo-multi = Merañ an trevnadoù
 sync-tos-link = Divizoù arver
 sync-fxa-privacy-notice = Evezhiadennoù a-fet buhez prevez
 
