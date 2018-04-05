@@ -393,7 +393,11 @@ sync-signedout-account-title = { -fxaccount-brand-name } से जुड़ें
 
 sync-signedin-unverified = { $email } सत्यापित नहीं है.
 sync-signedin-login-failure = फिर से कनेक्ट करने के लिए साइन इन करें { $email }
+sync-remove-account =
+    .label = खाता मिटायें
+    .accesskey = R
 sync-signedin-settings-header = समन्वयन सेटिंग
+sync-signedin-settings-desc = चुने, { -brand-short-name } का उपयोग करके अपने उपकरण पर क्या संकालित करना हैं.
 sync-engine-bookmarks =
     .label = पुस्तचिह्न
     .accesskey = m
