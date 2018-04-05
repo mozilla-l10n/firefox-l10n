@@ -286,10 +286,19 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = យក​បណ្ដាញ​របស់​អ្នក​ជាមួយ​អ្នក
+sync-signedout-description = ធ្វើ​សម​កាល​កម្ម​ចំណាំ​ ប្រវត្តិ ផ្ទាំង ពាក្យ​សម្ងាត់​ កម្មវិធី​ផ្នែក​បន្ថែម​ និង​ចំណូល​ចិត្ត​របស់​អ្នក​ ចំពោះ​គ្រប់​ឧបករណ៍​របស់​អ្នក។​
+sync-signedout-account-title = ភ្ជាប់​ជាមួយ​ { -fxaccount-brand-name }
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = ប្តូរ​​រូប​ប្រូ​ហ្វាល់
+sync-signedin-unverified = { $email } មិន​ត្រូវ​បាន​ផ្ទៀងផ្ទាត់។
+sync-signedin-login-failure = សូម​ចូល​ដើម្បី​តភ្ជាប់​ឡើង​វិញ { $email }
+sync-device-name-header = ឈ្មោះ​ឧបករណ៍{ " " }
 sync-tos-link = លក្ខខ័ណ្ឌ​សេវាកម្ម
+sync-fxa-privacy-notice = គោលនយោបាយ​ឯកជន
 
 ## Privacy Section
 
