@@ -369,8 +369,21 @@ sync-signedout-account-signin =
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = சுயவிவரப் படத்தை மாற்று
+sync-disconnect =
+    .label = துண்டி…
+    .accesskey = D
+sync-manage-account = கணக்கை நிர்வகி
+    .accesskey = o
 sync-signedin-unverified = { $email } இது உறுதிப்படுத்தவில்லை.
 sync-signedin-login-failure = தயவுச்செய்து மீண்டும் இணைய உள்நுழையவும் { $email }
+sync-resend-verification =
+    .label = சரிபார்த்தலை மீண்டும் அனுப்பு
+    .accesskey = d
+sync-sign-in =
+    .label = புகுபதிகை
+    .accesskey = g
 sync-signedin-settings-header = ஒத்திசைவு அமைவுகள்
 sync-signedin-settings-desc = கீழ்க்கண்டவற்றில் வேண்டியதைத் தேர்வு செய்து { -brand-short-name } மூலம் ஒத்திசை.
 sync-engine-bookmarks =
@@ -379,6 +392,26 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = வரலாறு
     .accesskey = r
+sync-engine-logins =
+    .label = உள்நுழைவுகள்
+    .tooltiptext = நீங்கள் சேமித்த பயனர் பெயர்கள் மற்றும் கடவுச்சொற்கள்
+    .accesskey = L
+sync-engine-creditcards =
+    .label = கடன் அட்டைகள்
+    .tooltiptext = பெயர்கள், எண்கள் மற்றும் காலாவதி தேதிகள் (பணித்திரைக்கு மட்டும்)
+    .accesskey = C
+sync-engine-addons =
+    .label = கூடுதல்-வசதிகள்
+    .tooltiptext = பணித்திரை பயர்பாக்சிற்கான நீட்சிகள் மற்றும் தீம்கள்
+    .accesskey = க
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] விருப்பங்கள்
+           *[other] விருப்பங்கள்
+        }
+    .tooltiptext = நீங்கள் மாற்றியுள்ள பொதுவான, தனியுரிமை மற்றும் பாதுகாப்பு அமைப்புகள்
+    .accesskey = s
 sync-device-name-header = கருவியின் பெயர்
 sync-device-name-change =
     .label = கருவியின் பெயரை மாற்றவும்…
@@ -389,6 +422,8 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = சேமி
     .accesskey = v
+sync-mobilepromo-single = மற்றொரு சாதனத்தை இணை
+sync-mobilepromo-multi = சாதனங்களை நிர்வகி
 sync-tos-link = சேவை விதிமுறைகள்
 sync-fxa-privacy-notice = தனியுரிம கொள்கை
 
