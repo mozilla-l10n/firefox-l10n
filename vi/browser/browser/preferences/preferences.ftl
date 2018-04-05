@@ -351,6 +351,7 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = Mang trang web theo bạn
 sync-signedout-description = Đồng bộ trang đánh dấu, lịch sử, thẻ, mật khẩu, tiện ích và tùy chỉnh tới tất cả các thiết bị của bạn.
 sync-signedout-account-title = Kết nối với một { -fxaccount-brand-name }
 
@@ -358,10 +359,21 @@ sync-signedout-account-title = Kết nối với một { -fxaccount-brand-name }
 
 sync-signedin-unverified = { $email } chưa được kiểm tra.
 sync-signedin-login-failure = Xin hãy đăng nhập để kết nối lại { $email }
+sync-signedin-settings-header = Cài đặt đồng bộ hóa
+sync-signedin-settings-desc = Chọn những thứ bạn muốn đồng bộ sử dụng { -brand-short-name }.
 sync-engine-bookmarks =
     .label = Trang đánh dấu
     .accesskey = d
+sync-engine-history =
+    .label = Lược sử
+    .accesskey = r
 sync-device-name-header = Tên thiết bị
+sync-device-name-change =
+    .label = Thay đổi tên thiết bị…
+    .accesskey = h
+sync-device-name-cancel =
+    .label = Hủy
+    .accesskey = n
 sync-device-name-save =
     .label = Lưu
     .accesskey = u
