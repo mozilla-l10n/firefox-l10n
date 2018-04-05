@@ -383,6 +383,24 @@ containers-preferences-button =
 containers-remove-button =
     .label = Borrar
 
+## Sync Section - Signed out
+
+sync-signedout-description = Sincroniza os tuyos marcapachinas, historial, pestanyas, claus, complementos y preferencias entre totz os tuyos dispositivos.
+sync-signedout-account-title = Connectar con una { -fxaccount-brand-name }
+
+## Sync Section - Signed in
+
+sync-signedin-unverified = { $email } no ye verificau.
+sync-signedin-login-failure = Enciete una sesión ta reconnectar { $email }
+sync-engine-bookmarks =
+    .label = Marcapachinas
+    .accesskey = M
+sync-engine-history =
+    .label = Historial
+    .accesskey = r
+sync-tos-link = Termins d'o Servicio
+sync-fxa-privacy-notice = Nota sobre privacidat
+
 ## Privacy Section
 
 privacy-header = Privacidat d'o navegador
