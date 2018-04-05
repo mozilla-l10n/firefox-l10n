@@ -385,11 +385,33 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = Taktu vefinn með þér
+sync-signedout-description = Samstilltu bókamerki, feril, flipa, lykilorð, viðbætur, og stillingará milli allra þinna tækja.
+sync-signedout-account-title = Tengjast með { -fxaccount-brand-name }
 
 ## Sync Section - Signed in
 
 sync-signedin-unverified = { $email } er ekki staðfestur.
 sync-signedin-login-failure = Skráðu þig inn aftur til að tengjast aftur { $email }
+sync-signedin-settings-header = Sync stillingar
+sync-signedin-settings-desc = Velja hvað á að samstilla á tækjum sem eru að nota { -brand-short-name }.
+sync-engine-bookmarks =
+    .label = Bókamerki
+    .accesskey = m
+sync-engine-history =
+    .label = Ferill
+    .accesskey = r
+sync-device-name-header = Tækjanafn
+sync-device-name-change =
+    .label = Breyta nafni tækis…
+    .accesskey = B
+sync-device-name-cancel =
+    .label = Hætta við
+    .accesskey = H
+sync-device-name-save =
+    .label = Vista
+    .accesskey = V
+sync-tos-link = Skilmálar þjónustu
 sync-fxa-privacy-notice = Upplýsingar um meðferð persónuupplýsinga
 
 ## Privacy Section
