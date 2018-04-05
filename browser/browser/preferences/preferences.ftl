@@ -383,6 +383,11 @@ containers-remove-button =
 sync-signedout-caption = Ձեր վեբը Ձեզ հետ է
 sync-signedout-description = Համաժամեցրեք ձեր բոլոր էջանիշերը, պատմությունը, ներդիրները, գաղտնաբաեռրը, հավելումները և կարգավորումները ձեր բոլոր սարքերի միջև:
 sync-signedout-account-title = Կապակցել { -fxaccount-brand-name }-ի հետ
+sync-signedout-account-create = Չունե՞ք հաշիվ: Սկսեք
+    .accesskey = C
+sync-signedout-account-signin =
+    .label = Մուտք գործել...
+    .accesskey = I
 
 ## Sync Section - Signed in
 
