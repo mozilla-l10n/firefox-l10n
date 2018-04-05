@@ -321,6 +321,15 @@ containers-preferences-button =
 containers-remove-button =
     .label = Bain
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-signedin-unverified = Níl { $email } deimhnithe.
+sync-signedin-login-failure = Logáil isteach chun athcheangal { $email }
+sync-fxa-privacy-notice = Fógra Príobháideachais
+
 ## Privacy Section
 
 privacy-header = Príobháideachas
