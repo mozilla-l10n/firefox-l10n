@@ -382,7 +382,21 @@ sync-signedout-account-signin =
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Maineit profila attālu
+sync-disconnect =
+    .label = Atsaslēgt…
+    .accesskey = t
+sync-manage-account = Puorvaļdeit kontu
+    .accesskey = a
 sync-signedin-unverified = { $email } nav apstyprynuots.
+sync-signedin-login-failure = Lyudzu pīsaslēdz, kab atjaunōtu savīnojumu { $email }
+sync-resend-verification =
+    .label = Nūsyutēt apstyprinojumu par jaunu
+    .accesskey = y
+sync-sign-in =
+    .label = Pīsasliegt
+    .accesskey = P
 sync-signedin-settings-header = Sync īstatiejumi
 sync-signedin-settings-desc = Izavieleit, kū sinhronizeit īreicī, izmontojūt iz { -brand-short-name }.
 sync-engine-bookmarks =
@@ -391,6 +405,34 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Viesturi
     .accesskey = r
+sync-engine-tabs =
+    .label = Attaiseituos cilnes
+    .tooltiptext = Saroksts ar tū, kas attaisiets vysōs sinhronizietojōs īreicēs
+    .accesskey = C
+sync-engine-logins =
+    .label = Logins
+    .tooltiptext = Saglobōtī lītōtōjvōrdi un paroles
+    .accesskey = L
+sync-engine-addresses =
+    .label = Adresi
+    .tooltiptext = Saglobōtōs posta adreses (viņ datora versejī)
+    .accesskey = A
+sync-engine-creditcards =
+    .label = Credit cards
+    .tooltiptext = Vōrdi, numeri un dereiguma termiņi (viņ datora versejī)
+    .accesskey = C
+sync-engine-addons =
+    .label = Papyldynuojums
+    .tooltiptext = Paplašinojumi un tēmas Firefox datora versejai
+    .accesskey = a
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Īstatiejumi
+           *[other] Īstatiejumus
+        }
+    .tooltiptext = Tevis izmaineitī īstatiejumi: kūpejī, privātums un drūšeiba
+    .accesskey = s
 sync-device-name-header = Īrīces nūsaukums
 sync-device-name-change =
     .label = Maineit īrīces nūsaukumu…
@@ -401,6 +443,8 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Saglobuot
     .accesskey = v
+sync-mobilepromo-single = Daslēgt cytu īreici
+sync-mobilepromo-multi = Porvaļdeit īreices
 sync-tos-link = Lītuošonys nūsacejumi
 sync-fxa-privacy-notice = Privatuma pīzeime
 
