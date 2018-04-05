@@ -363,6 +363,37 @@ containers-preferences-button =
 containers-remove-button =
     .label = Mboguete
 
+## Sync Section - Signed out
+
+sync-signedout-caption = Egueraha neñanduti nendive
+sync-signedout-description = Embojuehe nde rechaukaha, tembiasakue, tendayke, ñe'ẽñemi, moĩmbaha ha jerohoryvéva opaite nemba'e'oka rupi.
+sync-signedout-account-title = Eike { -fxaccount-brand-name } ndive
+
+## Sync Section - Signed in
+
+sync-signedin-unverified = { $email } ndojehechajeýi gueteri.
+sync-signedin-login-failure = Eñepyrũ tembiapo eikejey hag̃ua { $email }
+sync-signedin-settings-header = Ñembojuehe ñemoĩporã
+sync-signedin-settings-desc = Eiporavo mba'éichapa embojuehéta nemba'e'oka { -brand-short-name } ndive.
+sync-engine-bookmarks =
+    .label = Techaukaha
+    .accesskey = m
+sync-engine-history =
+    .label = Tembiasakue
+    .accesskey = r
+sync-device-name-header = Mba'e'oka Réra
+sync-device-name-change =
+    .label = Emoambue mba'e'oka réra…
+    .accesskey = h
+sync-device-name-cancel =
+    .label = Heja
+    .accesskey = n
+sync-device-name-save =
+    .label = Eñongatu
+    .accesskey = v
+sync-tos-link = Mba'epytyvõrã ñemboguata
+sync-fxa-privacy-notice = Purureko ñemiguáva momarandu
+
 ## Privacy Section
 
 privacy-header = Kundahára Ñemigua
