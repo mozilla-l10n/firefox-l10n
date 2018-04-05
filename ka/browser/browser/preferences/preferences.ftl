@@ -385,13 +385,84 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = წაიყოლეთ თქვენი მონაცემები თან
+sync-signedout-description = დაასინქრონეთ თქვენი სანიშნები, ისტორია, ჩანართები, პაროლები, დამატებები და პარამეტრები ყველა მოწყობილობაზე.
+sync-signedout-account-create = არ გაქვთ ანგარიში? შექმენით
+    .accesskey = ქ
+sync-signedout-account-signin =
+    .label = შესვლა
+    .accesskey = შ
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = პროფილის სურათის შეცვლა
+sync-disconnect =
+    .label = კავშირის გაწყვეტა…
+    .accesskey = წ
+sync-manage-account = ანგარიშის მართვა
+    .accesskey = მ
 sync-signedin-unverified = { $email } გადამოწმებული არაა.
 sync-signedin-login-failure = ხელახლა დასაკავშირებლად გთხოვთ შედით სისტემაში { $email }
+sync-resend-verification =
+    .label = ხელახლა გამოგზავნა დასამოწმებლად
+    .accesskey = ხ
+sync-remove-account =
+    .label = ანგარიშის წაშლა
+    .accesskey = წ
+sync-sign-in =
+    .label = შესვლა
+    .accesskey = ვ
+sync-signedin-settings-header = სინქრონიზაციის პარამეტრები
+sync-signedin-settings-desc = აირჩიეთ, რისი დასინქრონება გსურთ { -brand-short-name }-ით თქვენს მოწყობილობაზე.
+sync-engine-bookmarks =
+    .label = სანიშნები
+    .accesskey = ს
+sync-engine-history =
+    .label = ისტორია
+    .accesskey = ი
+sync-engine-tabs =
+    .label = გახსნილი ჩანართები
+    .tooltiptext = ყველა დასინქრონებულ მოწყობილობაზე გახსნილი ჩანართების სია
+    .accesskey = ჩ
+sync-engine-logins =
+    .label = შესვლები
+    .tooltiptext = შენახული სახელები და პაროლები
+    .accesskey = შ
+sync-engine-addresses =
+    .label = მისამართები
+    .tooltiptext = შენახული საფოსტო მისამართები (კომპიუტერზე მხოლოდ)
+    .accesskey = ფ
+sync-engine-creditcards =
+    .label = საკრედიტო ბარათები
+    .tooltiptext = სახელები, ნომრები და ვადები (კომპიუტერზე მხოლოდ)
+    .accesskey = კ
+sync-engine-addons =
+    .label = დამატებები
+    .tooltiptext = Firefox სამაგიდო ვერსიის გაფართოებები და თემები
+    .accesskey = დ
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] პარამეტრები
+           *[other] პარამეტრები
+        }
+    .tooltiptext = ზოგადი, პირადულობისა და უსაფრთხოების ჩასწორებული პარამეტრები
+    .accesskey = რ
 sync-device-name-header = მოწყობილობის სახელი
+sync-device-name-change =
+    .label = მოწყობილობის სახელის შეცვლა…
+    .accesskey = ს
+sync-device-name-cancel =
+    .label = გაუქმება
+    .accesskey = გ
+sync-device-name-save =
+    .label = შენახვა
+    .accesskey = ე
+sync-mobilepromo-single = სხვა მოწყობილობის დაკავშირება
+sync-mobilepromo-multi = მოწყობილობების მართვა
 sync-tos-link = გამოყენების პირობები
+sync-fxa-privacy-notice = პირადი მონაცემების დაცვის განაცხადი
 
 ## Privacy Section
 
