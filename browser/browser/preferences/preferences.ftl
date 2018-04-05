@@ -358,16 +358,34 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = وب را با خودتان همراه کنید
+sync-signedout-description = نشانک‌ها، تاریخچه، زبانه‌ها، گذرواژه‌ها، افزونه‌ها و ترجیحات خود را در تمام دستگاه‌هایتان همگام کنید.
+sync-signedout-account-title = اتصال به یک { -fxaccount-brand-name }
 
 ## Sync Section - Signed in
 
+sync-signedin-unverified = { $email } تایید نشده است.
+sync-signedin-login-failure = لطفا جهت ارتباط مجدد وارد شوید. { $email }
+sync-signedin-settings-header = تنظیمات همگام‌سازی
+sync-signedin-settings-desc = اینکه چه چیزهایی بر روی دستگاه‌هایتان توسط { -brand-short-name } همگام‌سازی شوند را انتخاب کنید.
 sync-engine-bookmarks =
     .label = نشانک‌ها
     .accesskey = ن
 sync-engine-history =
     .label = تاریخچه
     .accesskey = ت
+sync-device-name-header = نام دستگاه
+sync-device-name-change =
+    .label = تغییر نام دستگاه…
+    .accesskey = ت
+sync-device-name-cancel =
+    .label = انصراف
+    .accesskey = ا
+sync-device-name-save =
+    .label = ذخیره
+    .accesskey = ذ
 sync-tos-link = شرایط ارائهٔ خدمات
+sync-fxa-privacy-notice = نکات حفظ حریم خصوصی
 
 ## Privacy Section
 
