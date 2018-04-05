@@ -277,6 +277,7 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = පෙරදෑ
     .accesskey = r
+sync-device-name-header = උපාංග නාමය
 sync-tos-link = සේවා කොන්දේසි
 sync-fxa-privacy-notice = පෞද්ගලිකත්ව දැන්වීම
 
