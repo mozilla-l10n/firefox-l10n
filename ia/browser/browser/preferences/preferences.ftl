@@ -383,6 +383,37 @@ containers-preferences-button =
 containers-remove-button =
     .label = Remover
 
+## Sync Section - Signed out
+
+sync-signedout-caption = Porta le web con te
+sync-signedout-description = Synchronisa tu marcapaginas, chronologia, contrasignos, additivos, e preferentias inter tote tu apparatos.
+
+## Sync Section - Signed in
+
+sync-signedin-unverified = { $email } non es verificate.
+sync-signedin-login-failure = Per favor authentica te pro te reconnecter { $email }
+sync-signedin-settings-desc = Elige lo que tu vole synchronisar in tu apparatos usante { -brand-short-name }.
+sync-engine-bookmarks =
+    .label = Marcapaginas
+    .accesskey = m
+sync-engine-history =
+    .label = Chronologia
+    .accesskey = r
+sync-device-name-header = Nomine del apparato
+sync-device-name-change =
+    .label = Cambiar le nomine del apparato…
+    .accesskey = C
+sync-device-name-cancel =
+    .label = Cancellar
+    .accesskey = n
+sync-device-name-save =
+    .label = Salvar
+    .accesskey = v
+sync-mobilepromo-single = Connecte altere apparato
+sync-mobilepromo-multi = Gerer le apparatos
+sync-tos-link = Terminos de servicio
+sync-fxa-privacy-notice = Advertentia de confidentialitate
+
 ## Privacy Section
 
 privacy-header = Confidentialitate del navigator
