@@ -388,6 +388,11 @@ containers-remove-button =
 sync-signedout-caption = Tak'waj awik'in ri Ajk'amaya'l
 sync-signedout-description = Ke'axima' ri taq ayaketal, natab'äl, taq ruwi', taq ewan tzij, taq tz'aqat chuqa' taq ajowab'äl chi kikojol konojel ri taq awokisaxel.
 sync-signedout-account-title = Tib'an okem rik'in jun { -fxaccount-brand-name }
+sync-signedout-account-create = ¿La man k'o ta jun ataqoya'l? Titikirisäx
+    .accesskey = C
+sync-signedout-account-signin =
+    .label = Titikirisäx molojri'ïl…
+    .accesskey = C
 
 ## Sync Section - Signed in
 
