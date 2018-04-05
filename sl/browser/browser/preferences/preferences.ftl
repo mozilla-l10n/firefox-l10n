@@ -391,11 +391,14 @@ containers-remove-button =
 
 sync-signedout-caption = Ponesite svoj splet s seboj
 sync-signedout-description = Sinhronizirajte zaznamke, zgodovino, zavihke, gesla, dodatke in nastavitve vseh vaših naprav.
+sync-signedout-account-title = Poveži s { -fxaccount-brand-name }om
 
 ## Sync Section - Signed in
 
 sync-signedin-unverified = Račun  { $email } ni potrjen.
 sync-signedin-login-failure = Prijavite se za ponovno povezavo računa { $email }
+sync-signedin-settings-header = Nastavitve Synca
+sync-signedin-settings-desc = Izberite, kaj želite sinhronizirati med svojimi napravami s pomočjo { -brand-short-name }a.
 sync-engine-bookmarks =
     .label = Zaznamke
     .accesskey = m
@@ -403,6 +406,9 @@ sync-engine-history =
     .label = Zgodovino
     .accesskey = d
 sync-device-name-header = Ime naprave
+sync-device-name-change =
+    .label = Spremeni ime naprave …
+    .accesskey = r
 sync-device-name-cancel =
     .label = Prekliči
     .accesskey = P
