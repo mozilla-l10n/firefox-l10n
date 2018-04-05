@@ -357,6 +357,32 @@ containers-preferences-button =
 containers-remove-button =
     .label = Forigi
 
+## Sync Section - Signed out
+
+sync-signedout-caption = Kunporti vian Teksaĵon kun vi
+sync-signedout-description = Speguli viajn legosignojn, historion, langetojn, pasvortojn, aldonaĵojn kaj preferojn en ĉiuj viaj aparatoj.
+sync-signedout-account-title = Konekti al { -fxaccount-brand-name }
+
+## Sync Section - Signed in
+
+sync-signedin-unverified = { $email } ne estas konfirmita.
+sync-signedin-login-failure = Bonvolu komenci seancon por rekonekti { $email }
+sync-engine-bookmarks =
+    .label = legosignojn
+    .accesskey = l
+sync-engine-history =
+    .label = historion
+    .accesskey = h
+sync-device-name-header = Nomo de aparato
+sync-device-name-cancel =
+    .label = Nuligi
+    .accesskey = N
+sync-device-name-save =
+    .label = Konservi
+    .accesskey = K
+sync-tos-link = Kondiĉoj de uzado
+sync-fxa-privacy-notice = Rimarko pri privateco
+
 ## Privacy Section
 
 privacy-header = Retumila privateco
