@@ -385,6 +385,20 @@ containers-preferences-button =
 containers-remove-button =
     .label = Pašalinti
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-signedin-unverified = Paskyra { $email } yra nepatvirtinta.
+sync-signedin-login-failure = Prie { $email } reikia prisijungti iš naujo
+sync-engine-bookmarks =
+    .label = adresyną
+    .accesskey = a
+sync-engine-history =
+    .label = žurnalą
+    .accesskey = ž
+
 ## Privacy Section
 
 privacy-header = Naršyklės privatumas
