@@ -392,11 +392,32 @@ containers-remove-button =
 sync-signedout-caption = Wzmiće swój web sobu
 sync-signedout-description = Synchronizujće swoje zapołožki, historiju, rajtarki, hesła, přidatki a nastajenja mjez wšěmi wašimi gratami.
 sync-signedout-account-title = Z { -fxaccount-brand-name } zwjazać
+sync-signedout-account-create = Nimaće konto? Započńće
+    .accesskey = k
+sync-signedout-account-signin =
+    .label = Přizjewić…
+    .accesskey = P
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Profilowy wobraz změnić
+sync-disconnect =
+    .label = Zwisk dźělić…
+    .accesskey = Z
+sync-manage-account = Konto rjadować
+    .accesskey = o
 sync-signedin-unverified = { $email } njeje so přepruwował.
 sync-signedin-login-failure = Prošu zregistrujće so, zo byšće znowa zwjazał { $email }
+sync-resend-verification =
+    .label = Wobkrućenje znowa pósłać
+    .accesskey = s
+sync-remove-account =
+    .label = Konto wotstronić
+    .accesskey = s
+sync-sign-in =
+    .label = Přizjewić
+    .accesskey = z
 sync-signedin-settings-header = Nastajenja synchronizacije
 sync-signedin-settings-desc = Wubjerće, štož ma so z { -brand-short-name } na wašich gratach synchronizować.
 sync-engine-bookmarks =
@@ -405,6 +426,30 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Historiju
     .accesskey = t
+sync-engine-tabs =
+    .label = Wotewrjene rajtarki
+    .tooltiptext = Lisćina ze wšěm, štož je wočinjene na wšěch synchronizowanych gratach
+    .accesskey = r
+sync-engine-addresses =
+    .label = Adresy
+    .tooltiptext = Póstowe adresy, kotrež sće składował (jenož desktop)
+    .accesskey = e
+sync-engine-creditcards =
+    .label = Kreditne karty
+    .tooltiptext = Mjena, ličby a datumy spadnjenja (jenož desktop)
+    .accesskey = K
+sync-engine-addons =
+    .label = Přidatki
+    .tooltiptext = Rozšěrjenja a drasty za desktopowy Firefox
+    .accesskey = P
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Nastajenja
+           *[other] Nastajenja
+        }
+    .tooltiptext = Powšitkowne nastajenja, nastajenja priwatnosće a wěstoty, kotrež sće změnił
+    .accesskey = N
 sync-device-name-header = Mjeno grata
 sync-device-name-change =
     .label = Mjeno grata změnić…
@@ -415,6 +460,8 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Składować
     .accesskey = k
+sync-mobilepromo-single = Z druhim gratom zwjazać
+sync-mobilepromo-multi = Graty rjadować
 sync-tos-link = Słužbne wuměnjenja
 sync-fxa-privacy-notice = Zdźělenka priwatnosće
 
