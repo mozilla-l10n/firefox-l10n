@@ -384,6 +384,48 @@ containers-preferences-button =
 containers-remove-button =
     .label = Удалить
 
+## Sync Section - Signed out
+
+sync-signedout-account-create = Нет аккаунта? Давайте его создадим
+    .accesskey = е
+sync-signedout-account-signin =
+    .label = Войти…
+    .accesskey = о
+
+## Sync Section - Signed in
+
+sync-profile-picture =
+    .tooltiptext = Изменить фотографию в профиле
+sync-disconnect =
+    .label = Отсоединить…
+    .accesskey = н
+sync-manage-account = Управление аккаунтом
+    .accesskey = в
+sync-signedin-unverified = { $email } не подтверждён.
+sync-signedin-login-failure = Войдите для повтора соединения с { $email }
+sync-resend-verification =
+    .label = Повторить отправку подтверждения
+    .accesskey = и
+sync-sign-in =
+    .label = Войти
+    .accesskey = о
+sync-signedin-settings-desc = Выберите, что нужно синхронизировать на ваших устройствах при помощи { -brand-short-name }.
+sync-engine-addresses =
+    .label = Адреса
+    .tooltiptext = Сохранённые вами почтовые адреса (только для компьютера)
+    .accesskey = с
+sync-engine-creditcards =
+    .label = Банковские карты
+    .tooltiptext = Имена, номера и сроки действия (только для компьютера)
+    .accesskey = н
+sync-device-name-cancel =
+    .label = Отмена
+    .accesskey = е
+sync-device-name-save =
+    .label = Сохранить
+    .accesskey = х
+sync-fxa-privacy-notice = Уведомление о приватности
+
 ## Privacy Section
 
 privacy-header = Приватность браузера
