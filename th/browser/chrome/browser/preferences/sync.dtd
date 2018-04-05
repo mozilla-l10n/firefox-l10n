@@ -21,10 +21,13 @@
 <!ENTITY engine.prefs.label         "ค่ากำหนด">
 <!ENTITY engine.prefs.accesskey     "ค">
 <!ENTITY engine.addons.label        "ส่วนเสริม">
+<!ENTITY engine.addons.title        "ส่วนขยายและชุดตกแต่งสำหรับ Firefox เดสก์ท็อป">
 <!ENTITY engine.addons.accesskey    "ส">
 <!ENTITY engine.addresses.label     "ที่อยู่">
+<!ENTITY engine.addresses.title     "ที่อยู่ไปรษณีย์ที่คุณได้บันทึกไว้ (เดสก์ท็อปเท่านั้น)">
 <!ENTITY engine.addresses.accesskey "อ">
 <!ENTITY engine.creditcards.label   "บัตรเครดิต">
+<!ENTITY engine.creditcards.title   "ชื่อ, หมายเลข และวันหมดอายุ (เดสก์ท็อปเท่านั้น)">
 <!ENTITY engine.creditcards.accesskey "ต">
 
 <!-- Device Settings -->
