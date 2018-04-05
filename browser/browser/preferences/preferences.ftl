@@ -371,6 +371,15 @@ containers-preferences-button =
 containers-remove-button =
     .label = เอาออก
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-engine-history =
+    .label = ประวัติ
+    .accesskey = ป
+
 ## Privacy Section
 
 privacy-header = ความเป็นส่วนตัวเบราว์เซอร์
