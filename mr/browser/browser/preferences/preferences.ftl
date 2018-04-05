@@ -357,6 +357,19 @@ containers-preferences-button =
 containers-remove-button =
     .label = काढून टाका
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-engine-bookmarks =
+    .label = वाचनखुणा
+    .accesskey = m
+sync-engine-history =
+    .label = इतिहास
+    .accesskey = r
+sync-tos-link = सेवा अटी
+
 ## Privacy Section
 
 privacy-header = ब्राऊजर गोपनीयता
