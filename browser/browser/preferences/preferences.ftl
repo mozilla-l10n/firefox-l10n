@@ -383,6 +383,25 @@ containers-preferences-button =
 containers-remove-button =
     .label = Eliminar
 
+## Sync Section - Signed out
+
+sync-signedout-caption = Llévese la web con usted
+sync-signedout-description = Sincronice marcadores, historial, pestañas, contraseñas, complementos y preferencias en todos sus dispositivos.
+sync-signedout-account-title = Conecte con { -fxaccount-brand-name }
+
+## Sync Section - Signed in
+
+sync-signedin-unverified = { $email } no está verificada.
+sync-signedin-login-failure = Ingrese para reconectar { $email }
+sync-engine-bookmarks =
+    .label = Marcadores
+    .accesskey = M
+sync-engine-history =
+    .label = Historial
+    .accesskey = r
+sync-device-name-header = Nombre de dispositivo
+sync-fxa-privacy-notice = Nota de privacidad
+
 ## Privacy Section
 
 privacy-header = Privacidad del navegador
