@@ -394,6 +394,7 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = इतिहास
     .accesskey = r
+sync-tos-link = सेवा शर्त
 
 ## Privacy Section
 
