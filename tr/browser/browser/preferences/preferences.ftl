@@ -385,6 +385,9 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = Web’inizi yanınızda taşıyın
+sync-signedout-description = Yer imlerinizi, geçmişinizi, sekmelerinizi, eklentilerinizi ve tercihlerinizi tüm cihazlarınız arasında senkronize edin.
+sync-signedout-account-title = { -fxaccount-brand-name } ile bağlanın
 sync-signedout-account-create = Hesabınız yok mu? Hemen açın
     .accesskey = H
 sync-signedout-account-signin =
@@ -401,6 +404,7 @@ sync-disconnect =
 sync-manage-account = Hesabı yönet
     .accesskey = H
 sync-signedin-unverified = { $email } doğrulanmamış.
+sync-signedin-login-failure = Yeniden { $email } hesabına bağlanmak için lütfen giriş yapın
 sync-resend-verification =
     .label = Doğrulamayı yeniden gönder
     .accesskey = d
@@ -435,9 +439,16 @@ sync-engine-prefs =
         }
     .tooltiptext = Değiştirdiğiniz Genel, Gizlilik ve Güvenlik ayarları
     .accesskey = T
+sync-device-name-header = Cihaz adı
 sync-device-name-change =
     .label = Cihaz adını değiştir…
     .accesskey = C
+sync-device-name-cancel =
+    .label = İptal
+    .accesskey = t
+sync-device-name-save =
+    .label = Kaydet
+    .accesskey = K
 sync-mobilepromo-single = Başka bir cihaz bağla
 sync-mobilepromo-multi = Cihazları yönet
 sync-tos-link = Kullanım Koşulları
