@@ -117,6 +117,20 @@ search-choose-keyword-column =
 ## Containers Section
 
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-signedin-login-failure = -taɁ lélù { $email }
+sync-engine-bookmarks =
+    .label = Ndó~làz=ná
+    .accesskey = z
+sync-engine-history =
+    .label = Ree koo güil
+    .accesskey = o
+sync-tos-link = Xha mub kee noo xhin
+
 ## Privacy Section
 
 
