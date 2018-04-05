@@ -384,6 +384,15 @@ containers-preferences-button =
 containers-remove-button =
     .label = Elimină
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-engine-history =
+    .label = Istoric
+    .accesskey = r
+
 ## Privacy Section
 
 privacy-header = Confidențialitate în browser
