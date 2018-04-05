@@ -264,6 +264,19 @@ containers-preferences-button =
 containers-remove-button =
     .label = ඉවත් කරන්න
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-engine-bookmarks =
+    .label = පිටුසළකුණු
+    .accesskey = m
+sync-engine-history =
+    .label = පෙරදෑ
+    .accesskey = r
+sync-tos-link = සේවා කොන්දේසි
+
 ## Privacy Section
 
 
