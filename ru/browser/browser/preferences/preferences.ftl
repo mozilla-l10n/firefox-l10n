@@ -386,6 +386,9 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = Возьмите свой Интернет с собой
+sync-signedout-description = Синхронизируйте свои закладки, историю, вкладки, пароли, дополнения и настройки на всех ваших устройствах.
+sync-signedout-account-title = Соединитесь с Аккаунтом Firefox
 sync-signedout-account-create = Нет аккаунта? Давайте его создадим
     .accesskey = е
 sync-signedout-account-signin =
@@ -409,7 +412,18 @@ sync-resend-verification =
 sync-sign-in =
     .label = Войти
     .accesskey = о
+sync-signedin-settings-header = Параметры синхронизации
 sync-signedin-settings-desc = Выберите, что нужно синхронизировать на ваших устройствах при помощи { -brand-short-name }.
+sync-engine-bookmarks =
+    .label = Закладки
+    .accesskey = к
+sync-engine-history =
+    .label = Историю
+    .accesskey = т
+sync-engine-tabs =
+    .label = Открытые вкладки
+    .tooltiptext = Список того, что открыто на всех синхронизированных устройствах
+    .accesskey = л
 sync-engine-addresses =
     .label = Адреса
     .tooltiptext = Сохранённые вами почтовые адреса (только для компьютера)
@@ -418,12 +432,26 @@ sync-engine-creditcards =
     .label = Банковские карты
     .tooltiptext = Имена, номера и сроки действия (только для компьютера)
     .accesskey = н
+sync-engine-addons =
+    .label = Дополнения
+    .tooltiptext = Расширения и темы для Firefox на компьютере
+    .accesskey = п
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Настройки
+           *[other] Настройки
+        }
+    .tooltiptext = Изменённые вами настройки: Общие, Приватность и Защита
+    .accesskey = й
+sync-device-name-header = Имя устройства
 sync-device-name-cancel =
     .label = Отмена
     .accesskey = е
 sync-device-name-save =
     .label = Сохранить
     .accesskey = х
+sync-tos-link = Условия службы
 sync-fxa-privacy-notice = Уведомление о приватности
 
 ## Privacy Section
