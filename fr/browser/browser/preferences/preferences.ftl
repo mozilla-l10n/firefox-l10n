@@ -383,6 +383,32 @@ containers-preferences-button =
 containers-remove-button =
     .label = Supprimer
 
+## Sync Section - Signed out
+
+sync-signedout-caption = Emportez votre Web partout avec vous
+sync-signedout-description = Synchronisez marque-pages, historique, onglets, mots de passe, modules complémentaires et préférences entre tous vos appareils.
+sync-signedout-account-title = Se connecter avec un { -fxaccount-brand-name }
+
+## Sync Section - Signed in
+
+sync-signedin-unverified = { $email } n’est pas vérifié.
+sync-signedin-settings-header = Paramètres de synchronisation
+sync-signedin-settings-desc = Sélectionnez les données à synchroniser entre vos appareils utilisant { -brand-short-name }.
+sync-engine-bookmarks =
+    .label = Marque-pages
+    .accesskey = M
+sync-engine-history =
+    .label = Historique
+    .accesskey = r
+sync-device-name-cancel =
+    .label = Annuler
+    .accesskey = A
+sync-device-name-save =
+    .label = Enregistrer
+    .accesskey = E
+sync-tos-link = Conditions d’utilisation
+sync-fxa-privacy-notice = Politique de confidentialité
+
 ## Privacy Section
 
 privacy-header = Vie privée
