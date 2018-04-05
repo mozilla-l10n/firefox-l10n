@@ -166,6 +166,19 @@ search-keyword-warning-bookmark = এটা পত্ৰচিহ্নৰ দ�
 ## Containers Section
 
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-engine-bookmarks =
+    .label = পত্ৰচিহ্নসমূহ
+    .accesskey = m
+sync-engine-history =
+    .label = ইতিহাস
+    .accesskey = r
+sync-tos-link = সেৱাৰ চুক্তিসমূহ
+
 ## Privacy Section
 
 
