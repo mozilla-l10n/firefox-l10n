@@ -457,6 +457,8 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Salvar
     .accesskey = v
+sync-mobilepromo-single = Conectar outro dispositivo
+sync-mobilepromo-multi = Gerenciar dispositivos
 sync-tos-link = Termos de serviço
 sync-fxa-privacy-notice = Nota sobre privacidade
 
