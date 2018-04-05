@@ -290,16 +290,32 @@ containers-add-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = Phatha iWebhu Yakho Apho Ukhoyo
+sync-signedout-description = Ngqamanisa iibhukmakhi zakho, iimbali, iithebhu, iiphaswedi, ezongezelelwayo, kunye neepreferensi kuzo zonke izixhobo zakho.
+sync-signedout-account-title = Qhagamshela nge{ -fxaccount-brand-name }
 
 ## Sync Section - Signed in
 
+sync-signedin-settings-header = Ngqamanisa iiSetingi
+sync-signedin-settings-desc = Khetha izinto oza kuzingqamanisa kwizixhobo zakho usebenzisa i{ -brand-short-name }.
 sync-engine-bookmarks =
     .label = Izalathisi eziphawulayo
     .accesskey = e
 sync-engine-history =
     .label = Imbali
     .accesskey = l
+sync-device-name-header = Igama lesixhobo
+sync-device-name-change =
+    .label = Tshintsha iGama leSixhobo...
+    .accesskey = s
+sync-device-name-cancel =
+    .label = Rhoxisa
+    .accesskey = o
+sync-device-name-save =
+    .label = Gcina
+    .accesskey = i
 sync-tos-link = Imiqathango yenkonzo
+sync-fxa-privacy-notice = Isaziso sabucala
 
 ## Privacy Section
 
