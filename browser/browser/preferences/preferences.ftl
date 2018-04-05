@@ -384,6 +384,8 @@ containers-remove-button =
 ## Sync Section - Signed out
 
 sync-signedout-caption = Вазьміце сваё Сеціва з сабой
+sync-signedout-description = Сінхранізуйце свае закладкі, гісторыю, карткі, паролі, дадаткі і налады на ўсіх вашых прыладах.
+sync-signedout-account-title = Злучыцца з { -fxaccount-brand-name }
 
 ## Sync Section - Signed in
 
@@ -396,10 +398,17 @@ sync-engine-history =
     .label = Гісторыя
     .accesskey = Г
 sync-device-name-header = Назва прылады
+sync-device-name-change =
+    .label = Змяніць імя прылады…
+    .accesskey = м
 sync-device-name-cancel =
     .label = Скасаваць
     .accesskey = ь
+sync-device-name-save =
+    .label = Захаваць
+    .accesskey = х
 sync-tos-link = Умовы абслугоўвання
+sync-fxa-privacy-notice = Паведамленнем аб прыватнасці
 
 ## Privacy Section
 
