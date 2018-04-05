@@ -419,6 +419,8 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Lưu
     .accesskey = u
+sync-mobilepromo-single = Kết nối thiết bị khác
+sync-mobilepromo-multi = Quản lý các thiết bị
 sync-tos-link = Điều khoản Dịch vụ
 sync-fxa-privacy-notice = Chính sách Riêng tư
 
