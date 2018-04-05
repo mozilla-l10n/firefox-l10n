@@ -400,11 +400,24 @@ sync-signedout-account-signin =
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Spremeni sliko profila
+sync-disconnect =
+    .label = Odklopi …
+    .accesskey = k
+sync-manage-account = Upravljanje računa
+    .accesskey = U
 sync-signedin-unverified = Račun  { $email } ni potrjen.
 sync-signedin-login-failure = Prijavite se za ponovno povezavo računa { $email }
+sync-resend-verification =
+    .label = Ponovno pošlji potrditev
+    .accesskey = n
 sync-remove-account =
     .label = Odstrani račun
     .accesskey = O
+sync-sign-in =
+    .label = Prijava
+    .accesskey = P
 sync-signedin-settings-header = Nastavitve Synca
 sync-signedin-settings-desc = Izberite, kaj želite sinhronizirati med svojimi napravami s pomočjo { -brand-short-name }a.
 sync-engine-bookmarks =
@@ -413,6 +426,34 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Zgodovino
     .accesskey = d
+sync-engine-tabs =
+    .label = Odprte zavihke
+    .tooltiptext = Seznam odprtih stvari na vseh sinhroniziranih napravah
+    .accesskey = Z
+sync-engine-logins =
+    .label = Prijave
+    .tooltiptext = Shranjena uporabniška imena in gesla
+    .accesskey = P
+sync-engine-addresses =
+    .label = Naslove
+    .tooltiptext = Shranjene poštne naslove (samo računalniki)
+    .accesskey = s
+sync-engine-creditcards =
+    .label = Kreditne kartice
+    .tooltiptext = Imena, številke in datume veljavnosti (samo računalniki)
+    .accesskey = K
+sync-engine-addons =
+    .label = Dodatke
+    .tooltiptext = Razširitve in teme Firefoxa za računalnike
+    .accesskey = A
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Možnosti
+           *[other] Nastavitve
+        }
+    .tooltiptext = Spremenjene splošne nastavitve ter nastavitve zasebnosti in varnosti
+    .accesskey = N
 sync-device-name-header = Ime naprave
 sync-device-name-change =
     .label = Spremeni ime naprave …
