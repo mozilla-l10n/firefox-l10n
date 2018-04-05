@@ -400,6 +400,7 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Historique
     .accesskey = r
+sync-device-name-header = Nom de l’appareil
 sync-device-name-cancel =
     .label = Annuler
     .accesskey = A
