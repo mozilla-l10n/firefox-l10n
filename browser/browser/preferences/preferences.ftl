@@ -400,6 +400,7 @@ sync-disconnect =
     .accesskey = B
 sync-manage-account = Hesabı yönet
     .accesskey = H
+sync-signedin-unverified = { $email } doğrulanmamış.
 sync-resend-verification =
     .label = Doğrulamayı yeniden gönder
     .accesskey = d
@@ -422,6 +423,10 @@ sync-engine-logins =
     .label = Hesaplar
     .tooltiptext = Kaydettiğiniz kullanıcı adları ve parolaları
     .accesskey = H
+sync-engine-addons =
+    .label = Eklentiler
+    .tooltiptext = Masaüstü Firefox eklentileri ve temaları
+    .accesskey = E
 sync-engine-prefs =
     .label =
         { PLATFORM() ->
@@ -436,6 +441,7 @@ sync-device-name-change =
 sync-mobilepromo-single = Başka bir cihaz bağla
 sync-mobilepromo-multi = Cihazları yönet
 sync-tos-link = Kullanım Koşulları
+sync-fxa-privacy-notice = Gizlilik Bildirimi
 
 ## Privacy Section
 
