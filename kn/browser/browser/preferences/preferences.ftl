@@ -306,6 +306,19 @@ containers-preferences-button =
 containers-remove-button =
     .label = ತೆಗೆದುಹಾಕು
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-engine-bookmarks =
+    .label = ಪುಟಗುರುತುಗಳು
+    .accesskey = m
+sync-engine-history =
+    .label = ಇತಿಹಾಸ
+    .accesskey = r
+sync-tos-link = ಸೇವೆಯ ನಿಯಮಗಳು
+
 ## Privacy Section
 
 privacy-header = ವೀಕ್ಷಕದ ಗೌಪ್ಯತೆ
