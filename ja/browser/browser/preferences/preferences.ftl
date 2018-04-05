@@ -348,6 +348,46 @@ containers-preferences-button =
 containers-remove-button =
     .label = 削除
 
+## Sync Section - Signed out
+
+sync-signedout-caption = ウェブを持ち歩こう
+sync-signedout-description = ブックマークやページの表示履歴、タブ、パスワード、アドオン、設定を、お持ちのすべての端末間で同期できます。
+sync-signedout-account-title = { -fxaccount-brand-name } で接続する
+sync-signedout-account-create = アカウントをお持ちでない方は作成してください
+    .accesskey = C
+sync-signedout-account-signin =
+    .label = ログイン...
+    .accesskey = I
+
+## Sync Section - Signed in
+
+sync-profile-picture =
+    .tooltiptext = プロフィール写真を変更します
+sync-disconnect =
+    .label = 切断...
+    .accesskey = D
+sync-manage-account = アカウントの管理
+    .accesskey = o
+sync-signedin-unverified = { $email } は認証されていません。
+sync-signedin-login-failure = { $email } に再接続するにはログインしてください。
+sync-sign-in =
+    .label = ログイン
+    .accesskey = g
+sync-signedin-settings-header = Sync 設定
+sync-signedin-settings-desc = 端末上の同期して { -brand-short-name } で使用するものを選んでください。
+sync-engine-bookmarks =
+    .label = ブックマーク
+    .accesskey = m
+sync-engine-history =
+    .label = 履歴
+    .accesskey = r
+sync-device-name-header = 端末名
+sync-device-name-change =
+    .label = 端末名を変更...
+    .accesskey = h
+sync-tos-link = 利用規約
+sync-fxa-privacy-notice = 個人情報保護方針
+
 ## Privacy Section
 
 privacy-header = ブラウザープライバシー
