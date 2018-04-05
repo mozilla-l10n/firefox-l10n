@@ -141,6 +141,13 @@ search-keyword-warning-bookmark = Tu âs sielzût une peraule clâf za doprade p
 ## Containers Section
 
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-tos-link = Tiermins dal servizi
+
 ## Privacy Section
 
 
