@@ -369,6 +369,13 @@ containers-preferences-button =
 containers-remove-button =
     .label = Suprimir
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-tos-link = Condicions d'utilizacion
+
 ## Privacy Section
 
 privacy-header = Confidencialitat del navegador
