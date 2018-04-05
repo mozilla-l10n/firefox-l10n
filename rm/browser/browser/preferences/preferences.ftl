@@ -349,6 +349,7 @@ containers-remove-button =
 
 sync-signedout-caption = Prenda tes web cun tai
 sync-signedout-description = Sincronisescha tes segnapaginas, tia cronologia, tes tabs, tes pleds-clav, tes supplements e tias preferenzas cun tut tes apparats.
+sync-signedout-account-title = Connectar cun in { -fxaccount-brand-name }
 
 ## Sync Section - Signed in
 
@@ -357,6 +358,8 @@ sync-profile-picture =
 sync-disconnect =
     .label = Deconnectar…
     .accesskey = D
+sync-manage-account = Administrar il conto
+    .accesskey = o
 sync-signedin-unverified = L'adressa { $email } n'è anc betg verifitgada.
 sync-signedin-login-failure = T'annunzia per reconnectar cun { $email }
 sync-sign-in =
