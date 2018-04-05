@@ -347,11 +347,19 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = നിങ്ങളുടെ വെബിനെ നിങ്ങളുടെ കൂടെ കൊണ്ട് പോവുക
 sync-signedout-description = നിങ്ങളുടെ അടയാളക്കുറിപ്പുകള്‍, നാള്‍വഴി, ടാബുകള്‍, രഹസ്യവാക്കുകള്‍, ആഡോണുകള്‍, ക്രമീകരണങ്ങള്‍ നിങ്ങളുടെ എല്ലാ ഡിവൈസുകളിലേക്കും പൊരുത്തപ്പെടുത്തുക.
 sync-signedout-account-title = { -fxaccount-brand-name } -ന്‍റെ ഒപ്പം കണക്റ്റ് ചെയ്യുക
+sync-signedout-account-create = അക്കൗണ്ട് ഇല്ല? പുതിയത് തുടങ്ങുക
+    .accesskey = C
+sync-signedout-account-signin =
+    .label = പ്രവേശിക്കുക
+    .accesskey = I
 
 ## Sync Section - Signed in
 
+sync-signedin-settings-header = സിങ്ക് ക്രമീകരണങ്ങള്‍
+sync-signedin-settings-desc = { -brand-short-name } ഉപയോഗിച്ച് എന്താണ് നിങ്ങളുടെ ഉപകരണങ്ങളിൽ സമന്വയിപ്പിക്കേണ്ടത് എന്ന് തിരഞ്ഞെടുക്കുക.
 sync-engine-bookmarks =
     .label = അടയാളക്കുറിപ്പുകള്‍
     .accesskey = m
@@ -359,6 +367,15 @@ sync-engine-history =
     .label = നാള്‍വഴി
     .accesskey = r
 sync-device-name-header = ഡിവൈസ് പേര്
+sync-device-name-change =
+    .label = ഉപകരണത്തിന്റെ പേര് മാറ്റുക…
+    .accesskey = h
+sync-device-name-cancel =
+    .label = റദ്ദാക്കുക
+    .accesskey = n
+sync-device-name-save =
+    .label = സംരക്ഷിക്കുക
+    .accesskey = v
 sync-tos-link = സേവന നിബന്ധനകള്‍
 sync-fxa-privacy-notice = സ്വകാര്യ പോളിസി
 
