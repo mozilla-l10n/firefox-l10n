@@ -383,6 +383,16 @@ containers-preferences-button =
 containers-remove-button =
     .label = ამოღება
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-signedin-unverified = { $email } გადამოწმებული არაა.
+sync-signedin-login-failure = ხელახლა დასაკავშირებლად გთხოვთ შედით სისტემაში { $email }
+sync-device-name-header = მოწყობილობის სახელი
+sync-tos-link = გამოყენების პირობები
+
 ## Privacy Section
 
 privacy-header = პირადული ბრაუზერი
