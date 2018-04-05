@@ -378,6 +378,19 @@ containers-preferences-button =
 containers-remove-button =
     .label = Հեռացնել
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-engine-bookmarks =
+    .label = Էջանիշերը
+    .accesskey = ն
+sync-engine-history =
+    .label = Պատմությունը
+    .accesskey = թ
+sync-tos-link = Ծառայության պայմանները
+
 ## Privacy Section
 
 privacy-header = Դիտարկիչի գաղտնիություն
