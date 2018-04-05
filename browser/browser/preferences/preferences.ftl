@@ -377,6 +377,8 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = Bawa Web dengan anda
+sync-signedout-account-title = Sambung dengan { -fxaccount-brand-name }
 
 ## Sync Section - Signed in
 
