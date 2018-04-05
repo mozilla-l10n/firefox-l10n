@@ -372,6 +372,7 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Historik
     .accesskey = H
+sync-device-name-header = Enhedens navn
 sync-tos-link = Tjenestevilkår
 
 ## Privacy Section
