@@ -363,6 +363,13 @@ containers-preferences-button =
 containers-remove-button =
     .label = Sil
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-tos-link = İstifadə Şərtləri
+
 ## Privacy Section
 
 privacy-header = Səyahər Məxfiliyi
