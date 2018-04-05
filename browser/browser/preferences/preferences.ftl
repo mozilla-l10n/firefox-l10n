@@ -197,6 +197,7 @@ sync-engine-history =
     .label = इतिहास
     .accesskey = r
 sync-tos-link = सेवा शर्त
+sync-fxa-privacy-notice = गोपनीयता नीति
 
 ## Privacy Section
 
