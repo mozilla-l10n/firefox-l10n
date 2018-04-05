@@ -389,8 +389,18 @@ sync-signedout-account-signin =
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = प्रोफाइल तस्वीर परिवर्तन गर्नुहोस्
+sync-disconnect =
+    .label = विच्छेद गर्नुहोस्…
+    .accesskey = D
+sync-manage-account = खाता व्यवस्थापन गर्नुहोस्
+    .accesskey = o
 sync-signedin-unverified = { $email } प्रमाणित गरिएको छैन।
 sync-signedin-login-failure = कृपया पुनः जडान गर्न साइन-इन गर्नुहोस् { $email }
+sync-sign-in =
+    .label = साइन इन गर्नुहोस्
+    .accesskey = g
 sync-signedin-settings-header = Sync सेटिङ्गहरू
 sync-signedin-settings-desc = { -brand-short-name } प्रयोग गरेर तपाईँको उपकरणहरूमा के समक्रमण गर्ने हो छान्नुहोस् ।
 sync-engine-bookmarks =
@@ -409,6 +419,8 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = सङ्ग्रह गर्नुहोस्
     .accesskey = v
+sync-mobilepromo-single = अर्को उपकरण जडान गर्नुहोस्
+sync-mobilepromo-multi = यन्त्रहरू प्रबन्धन गर्नुहोस्
 sync-tos-link = सेवाको सर्तहरू
 sync-fxa-privacy-notice = गोपनीयता नीति
 
