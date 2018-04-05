@@ -357,21 +357,58 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = 웹과 함께 하세요.
+sync-signedout-description = 북마크, 방문 기록, 탭, 비밀번호, 부가기능, 설정을 모든 기기에 걸쳐 동기화 하세요.
+sync-signedout-account-title = { -fxaccount-brand-name }와 연결
+sync-signedout-account-create = 계정이 없으신가요? 시작하세요
+    .accesskey = C
+sync-signedout-account-signin =
+    .label = 로그인…
+    .accesskey = I
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = 프로필 사진 변경
+sync-disconnect =
+    .label = 연결 끊기…
+    .accesskey = D
+sync-manage-account = 계정 관리
+    .accesskey = o
 sync-signedin-unverified = { $email } 은 아직 인증되지 않았습니다.
 sync-signedin-login-failure = { $email } 으로 로그인을 해서 다시 연결해 주십시오
+sync-resend-verification =
+    .label = 확인 재전송
+    .accesskey = d
+sync-sign-in =
+    .label = 로그인
+    .accesskey = g
 sync-engine-bookmarks =
     .label = 북마크
     .accesskey = m
 sync-engine-history =
     .label = 방문 기록
     .accesskey = r
+sync-engine-tabs =
+    .label = 탭 열기
+    .tooltiptext = 모든 동기화된 장치에서 열리는 항목의 목록
+    .accesskey = T
+sync-engine-creditcards =
+    .label = 신용카드
+    .tooltiptext = 이름, 숫자 그리고 만료 날짜 (데스크톱만)
+    .accesskey = C
 sync-device-name-header = 기기 이름
 sync-device-name-change =
     .label = 기기 이름 바꾸기…
     .accesskey = h
+sync-device-name-cancel =
+    .label = 취소
+    .accesskey = n
+sync-device-name-save =
+    .label = 저장
+    .accesskey = v
+sync-mobilepromo-single = 다른 기기에 연결
+sync-mobilepromo-multi = 기기 관리
 sync-tos-link = 서비스 약관
 sync-fxa-privacy-notice = 개인 정보 보호 정책
 
