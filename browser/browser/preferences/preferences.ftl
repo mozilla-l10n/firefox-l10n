@@ -385,17 +385,32 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = Eraman ezazu weba zurekin
+sync-signedout-description = Sinkronizatu laster-markak, historia, fitxak, pasahitzak, gehigarriak eta hobespenak zure gailu guztien artean.
+sync-signedout-account-title = Konektatu { -fxaccount-brand-name } erabiliz
 
 ## Sync Section - Signed in
 
 sync-signedin-unverified = { $email } ez dago egiaztatuta.
 sync-signedin-login-failure = Hasi saioa berriro konektatzeko { $email }
+sync-signedin-settings-header = Sinkronizazio-ezarpenak
+sync-signedin-settings-desc = Aukeratu zer sinkronizatuko den { -brand-short-name } darabilzun gailuen artean.
 sync-engine-bookmarks =
     .label = Laster-markak
     .accesskey = m
 sync-engine-history =
     .label = Historia
     .accesskey = H
+sync-device-name-header = Gailuaren izena
+sync-device-name-change =
+    .label = Aldatu gailuaren izena…
+    .accesskey = d
+sync-device-name-cancel =
+    .label = Utzi
+    .accesskey = U
+sync-device-name-save =
+    .label = Gorde
+    .accesskey = G
 sync-tos-link = Zerbitzuaren baldintzak
 sync-fxa-privacy-notice = Pribatutasun-oharra
 
