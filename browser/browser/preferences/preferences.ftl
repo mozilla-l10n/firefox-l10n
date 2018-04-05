@@ -392,11 +392,32 @@ containers-remove-button =
 sync-signedout-caption = Cymrwch eich Gwe gyda Chi
 sync-signedout-description = Cydweddwch eich nodau tudalen, hanes, tabiau, cyfrineiriau, ychwanegion a dewisiadau ymysg eich dyfeisiau i gyd.
 sync-signedout-account-title = Cysylltwch gyda { -fxaccount-brand-name }
+sync-signedout-account-create = Dim cyfrif? Cychwynnwch arni
+    .accesskey = C
+sync-signedout-account-signin =
+    .label = Mewngofnodi…
+    .accesskey = M
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Newid llun proffil
+sync-disconnect =
+    .label = Datgysylltu…
+    .accesskey = D
+sync-manage-account = Rheoli cyfrif
+    .accesskey = R
 sync-signedin-unverified = { $email } wedi ei wirio.
 sync-signedin-login-failure = Ail fewngofnodwch er mwyn ailgysylltu { $email }
+sync-resend-verification =
+    .label = Ail Anfon Dilysiad
+    .accesskey = A
+sync-remove-account =
+    .label = Tynnu Cyfrif
+    .accesskey = T
+sync-sign-in =
+    .label = Mewngofnodi
+    .accesskey = M
 sync-signedin-settings-header = Gosodiadau Sync
 sync-signedin-settings-desc = Dewis beth i'w cydweddu ar eich dyfais gan ddefnyddio { -brand-short-name }.
 sync-engine-bookmarks =
@@ -405,6 +426,34 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Hanes
     .accesskey = H
+sync-engine-tabs =
+    .label = Agor Tabiau
+    .tooltiptext = Rhestr o'r hyn sydd ar agor ar bob dyfais wedi eu cydweddu
+    .accesskey = T
+sync-engine-logins =
+    .label = Mewngofnodion
+    .tooltiptext = Enwau defnyddwyr a chyfrineiriau rydych wedi eu cadw
+    .accesskey = M
+sync-engine-addresses =
+    .label = Cyfeiriadau
+    .tooltiptext = Cyfeiriadau post rydych wedi eu cadw (bwrdd gwaith yn unig)
+    .accesskey = y
+sync-engine-creditcards =
+    .label = Cardiau Credyd
+    .tooltiptext = Enwau, rhifau a dyddiadau dod i ben (bwrdd gwaith yn unig)
+    .accesskey = r
+sync-engine-addons =
+    .label = Ychwanegion
+    .tooltiptext = Estyniadau a themâu ar gyfer Firefox bwrdd gwaith
+    .accesskey = Y
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Dewisiadau
+           *[other] Dewisiadau
+        }
+    .tooltiptext = Gosodiadau Cyffredinol, Preifatrwydd a Diogelwch rydych wedi eu newid
+    .accesskey = D
 sync-device-name-header = Enw Dyfais
 sync-device-name-change =
     .label = Newid Enw'r Ddyfais…
@@ -415,6 +464,8 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Cadw
     .accesskey = C
+sync-mobilepromo-single = Cysylltu unrhyw ddyfais arall
+sync-mobilepromo-multi = Rheoli dyfeisiau
 sync-tos-link = Amodau Gwasanaeth
 sync-fxa-privacy-notice = Rhybudd Preifatrwydd
 
