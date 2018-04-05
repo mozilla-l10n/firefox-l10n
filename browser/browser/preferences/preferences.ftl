@@ -363,6 +363,11 @@ containers-remove-button =
 sync-signedout-caption = Nawor Geesa Maa
 sync-signedout-description = Sanngoɗin maantore maa, aslol, tabbe, finndeeji, ɓeyditte e cuɓoraade e kaɓirɗi maa fof.
 sync-signedout-account-title = Seŋoro { -fxaccount-brand-name }
+sync-signedout-account-create = A alaa konte? Fuɗɗo jooni
+    .accesskey = C
+sync-signedout-account-signin =
+    .label = Seŋo…
+    .accesskey = I
 
 ## Sync Section - Signed in
 
