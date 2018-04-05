@@ -346,6 +346,16 @@ containers-preferences-button =
 containers-remove-button =
     .label = Ukloni
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-engine-history =
+    .label = Povijest
+    .accesskey = j
+sync-tos-link = Uvjeti korištenja
+
 ## Privacy Section
 
 privacy-header = Privatnost preglednika
