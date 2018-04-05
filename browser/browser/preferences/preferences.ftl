@@ -356,6 +356,18 @@ containers-preferences-button =
 containers-remove-button =
     .label = நீக்கு
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-engine-bookmarks =
+    .label = புத்தகக்குறிகள்
+    .accesskey = m
+sync-engine-history =
+    .label = வரலாறு
+    .accesskey = r
+
 ## Privacy Section
 
 privacy-header = உலாவி தனியுரிமை
