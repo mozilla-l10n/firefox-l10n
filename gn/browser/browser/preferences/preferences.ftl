@@ -45,6 +45,9 @@ policies-notice =
 pane-general-title = Tuichakue
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = Ñepyrũ
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = Heka
 category-search =
     .tooltiptext = { pane-search-title }
@@ -286,6 +289,7 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = Ovetã ha tendayke pyahu   
 
 ## Home Section - Home Page Customization
 
