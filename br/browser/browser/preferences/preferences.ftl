@@ -387,6 +387,9 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = Kemerit ho web ganeoc'h
+sync-signedout-description = Goubredit ho sinedoù, roll istor, ivinelloù, gerioù-tremen, askouezhioù ha gwellvezioù dre veur a urzhiataer pe trevnad.
+sync-signedout-account-title = Kennaskit gant un { -fxaccount-brand-name }
 
 ## Sync Section - Signed in
 
@@ -398,6 +401,13 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Roll istor
     .accesskey = R
+sync-device-name-header = Anv an trevnad
+sync-device-name-cancel =
+    .label = Nullañ
+    .accesskey = N
+sync-device-name-save =
+    .label = Enrollañ
+    .accesskey = E
 sync-tos-link = Divizoù arver
 sync-fxa-privacy-notice = Evezhiadennoù a-fet buhez prevez
 
