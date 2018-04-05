@@ -385,6 +385,9 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = A teu Ræ, de longo con ti
+sync-signedout-description = Scincronizza segnalibbri, stöia, feuggi, paròlle segrete, conponenti azonti e inpostaçioin con tutti i teu dispoxitivi.
+sync-signedout-account-title = Conetti { -fxaccount-brand-name }
 
 ## Sync Section - Signed in
 
@@ -396,6 +399,7 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Stöia
     .accesskey = S
+sync-device-name-header = Nomme dispoxitivo
 sync-tos-link = Termini do serviçio
 sync-fxa-privacy-notice = Informativa in sciâ privacy
 
