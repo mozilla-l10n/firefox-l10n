@@ -389,17 +389,32 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = Wzejśo swój web sobu
+sync-signedout-description = Synchronizěrujśo swóje cytańske znamjenja, historiju, rejtarki, gronidła, dodanki a nastajenja mjazy wšymi wašymi rědami.
+sync-signedout-account-title = Z { -fxaccount-brand-name } zwězaś
 
 ## Sync Section - Signed in
 
 sync-signedin-unverified = { $email } njejo se pśeglědał.
 sync-signedin-login-failure = Pšosym zregistrěrujśo se, aby znowego zwězał { $email }
+sync-signedin-settings-header = Nastajenja synchronizacije
+sync-signedin-settings-desc = Wubjeŕśo, což ma se z { -brand-short-name } na wašych rědach synchronizěrowaś.
 sync-engine-bookmarks =
     .label = Cytańske znamjenja
     .accesskey = C
 sync-engine-history =
     .label = Historiju
     .accesskey = H
+sync-device-name-header = Mě rěda
+sync-device-name-change =
+    .label = Mě rěda změniś…
+    .accesskey = z
+sync-device-name-cancel =
+    .label = Pśetergnuś
+    .accesskey = t
+sync-device-name-save =
+    .label = Składowaś
+    .accesskey = d
 sync-tos-link = Słužbne wuměnjenja
 sync-fxa-privacy-notice = Powěźeńka priwatnosći
 
