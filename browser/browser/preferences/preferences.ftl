@@ -257,15 +257,40 @@ sync-signedout-account-title = Conectar con { -fxaccount-brand-name }
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Cambiar a foto do perfil
+sync-disconnect =
+    .label = Desconectar…
+    .accesskey = D
+sync-manage-account = Xestionar conta
+    .accesskey = o
 sync-signedin-unverified = { $email } non está comprobado.
 sync-signedin-login-failure = Identifíquese para volver a conectarse { $email }
+sync-sign-in =
+    .label = Identificarse
+    .accesskey = f
 sync-engine-bookmarks =
     .label = Marcadores
     .accesskey = M
 sync-engine-history =
     .label = Historial
     .accesskey = r
+sync-engine-addons =
+    .label = Complementos
+    .tooltiptext = Extensións e temas para o Firefox de escritorio
+    .accesskey = p
 sync-device-name-header = Nome do dispositivo
+sync-device-name-change =
+    .label = Cambiar nome do dispositivo…
+    .accesskey = m
+sync-device-name-cancel =
+    .label = Cancelar
+    .accesskey = n
+sync-device-name-save =
+    .label = Gardar
+    .accesskey = G
+sync-mobilepromo-single = Conectar outro dispositivo
+sync-mobilepromo-multi = Xestionar dispositivos
 sync-tos-link = Termos do servizo
 sync-fxa-privacy-notice = Política de privacidade
 
