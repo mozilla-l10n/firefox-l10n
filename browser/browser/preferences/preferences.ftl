@@ -396,8 +396,21 @@ sync-signedout-account-signin =
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = પ્રોફાઇલ ચિત્ર બદલો
+sync-disconnect =
+    .label = જોડાણ તોડી નાખો…
+    .accesskey = D
+sync-manage-account = ખાતાને સંચાલિત કરો
+    .accesskey = o
 sync-signedin-unverified = { $email } ચકાસેલ નથી.
 sync-signedin-login-failure = મહેરબાની કરીને ફરી જોડાણ માટે પ્રવેશો { $email }
+sync-resend-verification =
+    .label = ચકાસણી ફરી મોકલો
+    .accesskey = d
+sync-sign-in =
+    .label = સાઇન ઇન કરો
+    .accesskey = g
 sync-signedin-settings-header = સમન્વયન સેટિંગ્સ
 sync-signedin-settings-desc = તમારા ઉપકરણો પર સમન્વયિત કરવાનું શું પસંદ કરો તે પસંદ કરો { -brand-short-name }.
 sync-engine-bookmarks =
@@ -406,6 +419,14 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = ઇતિહાસ
     .accesskey = r
+sync-engine-tabs =
+    .label = ટૅબ્સ ખોલો
+    .tooltiptext = બધા સમન્વયિત ઉપકરણો પર શું ખુલ્લું છે તેની સૂચિ
+    .accesskey = T
+sync-engine-logins =
+    .label = પ્રવેશો
+    .tooltiptext = તમે સાચવેલ વપરાશકર્તાનામો અને પાસવર્ડ્સ
+    .accesskey = L
 sync-engine-addresses =
     .label = સરનામાઓ
     .tooltiptext = તમે સાચવેલા પોસ્ટલ સરનામા (ફક્ત ડેસ્કટૉપ)
@@ -418,6 +439,14 @@ sync-engine-addons =
     .label = ઍડ-ઓન
     .tooltiptext = Firefox ડેસ્કટૉપ માટે વિસ્તરક અને થીમ્સ
     .accesskey = A
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] વિકલ્પો
+           *[other] પસંદગીઓ
+        }
+    .tooltiptext = સામાન્ય, ગોપનીયતા અને સુરક્ષા સેટિંગ્સ જે તમે બદલ્યાં છે
+    .accesskey = s
 sync-device-name-header = ઉપકરણનું નામ
 sync-device-name-change =
     .label = ઉપકરણ નામ બદલો…
