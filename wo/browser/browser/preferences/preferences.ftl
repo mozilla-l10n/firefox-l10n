@@ -144,6 +144,19 @@ search-keyword-warning-bookmark = Tànn nga caabi baat bu benn mandarga xët di 
 ## Containers Section
 
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-engine-bookmarks =
+    .label = Mandarga xët yi
+    .accesskey = g
+sync-engine-history =
+    .label = Jaar jaar
+    .accesskey = r
+sync-tos-link = Sart yi ñu koy jëfandikoo
+
 ## Privacy Section
 
 
