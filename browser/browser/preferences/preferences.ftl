@@ -388,24 +388,77 @@ containers-remove-button =
 sync-signedout-caption = A teu Ræ, de longo con ti
 sync-signedout-description = Scincronizza segnalibbri, stöia, feuggi, paròlle segrete, conponenti azonti e inpostaçioin con tutti i teu dispoxitivi.
 sync-signedout-account-title = Conetti { -fxaccount-brand-name }
+sync-signedout-account-create = No ti gh'æ ancon 'n account? Iniçia chi
+    .accesskey = C
+sync-signedout-account-signin =
+    .label = Intra…
+    .accesskey = I
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Cangia l’inmagine do profî
+sync-disconnect =
+    .label = Disconetti…
+    .accesskey = D
+sync-manage-account = Gestisci account
+    .accesskey = o
 sync-signedin-unverified = { $email } no l'é verificou.
 sync-signedin-login-failure = Acedi pe ativâ torna a conescion { $email }
+sync-resend-verification =
+    .label = Manda torna verifica
+    .accesskey = d
+sync-sign-in =
+    .label = Intra
+    .accesskey = t
+sync-signedin-settings-header = Inpostaçioin de Sync
+sync-signedin-settings-desc = Çerni cöse t'eu scincronizâ inti teu dispoxitivi deuviando { -brand-short-name }.
 sync-engine-bookmarks =
     .label = Segnalibbri
     .accesskey = S
 sync-engine-history =
     .label = Stöia
     .accesskey = S
+sync-engine-tabs =
+    .label = Arvi Feuggi
+    .tooltiptext = ’Na lista de quello ch'o l'é averto in sci dispoxitivi scincronizæ
+    .accesskey = F
+sync-engine-logins =
+    .label = Login
+    .tooltiptext = Nommi utente e poule segrete che t'æ sarvou
+    .accesskey = L
+sync-engine-addresses =
+    .label = Indirissi
+    .tooltiptext = Indirissi de pòsta che t'æ sarvou (solo desktop)
+    .accesskey = e
+sync-engine-creditcards =
+    .label = Carte a poffo
+    .tooltiptext = Nommi, numeri e dæte de scadensa (solo desktop)
+    .accesskey = P
+sync-engine-addons =
+    .label = Conponenti azonti
+    .tooltiptext = Estenscioin e temi pe Firefox desktop
+    .accesskey = a
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Opçioin
+           *[other] Preferense
+        }
+    .tooltiptext = Inpostaçioin genarali, de privaçy e seguessa che t'æ cangiou
+    .accesskey = P
 sync-device-name-header = Nomme dispoxitivo
+sync-device-name-change =
+    .label = Cangia nomme dispoxitivo…
+    .accesskey = n
 sync-device-name-cancel =
     .label = Anulla
     .accesskey = l
 sync-device-name-save =
     .label = Sarva
     .accesskey = v
+sync-mobilepromo-single = Conetti atro dispoxitivo
+sync-mobilepromo-multi = Gestisci dispoxitivi
 sync-tos-link = Termini do serviçio
 sync-fxa-privacy-notice = Informativa in sciâ privacy
 
