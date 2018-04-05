@@ -362,17 +362,65 @@ containers-remove-button =
 sync-signedout-caption = Kunporti vian Teksaĵon kun vi
 sync-signedout-description = Speguli viajn legosignojn, historion, langetojn, pasvortojn, aldonaĵojn kaj preferojn en ĉiuj viaj aparatoj.
 sync-signedout-account-title = Konekti al { -fxaccount-brand-name }
+sync-signedout-account-create = Ĉu vi ne havas konton? Enskribiĝu
+    .accesskey = E
+sync-signedout-account-signin =
+    .label = Komenci seancon…
+    .accesskey = K
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Ŝanĝi bildon de profilo
+sync-disconnect =
+    .label = Malkonekti…
+    .accesskey = M
+sync-manage-account = Administri konton
+    .accesskey = A
 sync-signedin-unverified = { $email } ne estas konfirmita.
 sync-signedin-login-failure = Bonvolu komenci seancon por rekonekti { $email }
+sync-resend-verification =
+    .label = Resendi kontrolon
+    .accesskey = k
+sync-sign-in =
+    .label = Komenci seancon
+    .accesskey = K
+sync-signedin-settings-header = Agordoj de Spegulado
+sync-signedin-settings-desc = Elekti tion, kion vi volas speguli en la aparatoj viaj, kiuj uzas { -brand-short-name }.
 sync-engine-bookmarks =
     .label = legosignojn
     .accesskey = l
 sync-engine-history =
     .label = historion
     .accesskey = h
+sync-engine-tabs =
+    .label = malfermitajn langetojn
+    .tooltiptext = Listo de ĉio, kio estas malfermita, en ĉiuj spegulitaj aparatoj
+    .accesskey = g
+sync-engine-logins =
+    .label = Akreditiloj
+    .tooltiptext = Nomoj de uzanto kaj pasvortoj konservitaj de vi
+    .accesskey = A
+sync-engine-addresses =
+    .label = Adresoj
+    .tooltiptext = Poŝtaj adresoj konservitaj de vi (nur en komputilo)
+    .accesskey = e
+sync-engine-creditcards =
+    .label = Kreditkartoj
+    .tooltiptext = Nomoj, numeroj kaj datoj de senvalidiĝo (nur en komputilo)
+    .accesskey = K
+sync-engine-addons =
+    .label = aldonaĵon
+    .tooltiptext = Etendaĵoj kaj etosoj por komputila Firefox
+    .accesskey = A
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Elektebloj
+           *[other] preferojn
+        }
+    .tooltiptext = Ĝeneralaj, privatecaj kaj sekurecaj agordoj ŝanĝitaj de vi
+    .accesskey = p
 sync-device-name-header = Nomo de aparato
 sync-device-name-change =
     .label = Ŝanĝi nomon de aparato…
@@ -383,6 +431,8 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Konservi
     .accesskey = K
+sync-mobilepromo-single = Konekti alian aparaton
+sync-mobilepromo-multi = Administri aparatojn
 sync-tos-link = Kondiĉoj de uzado
 sync-fxa-privacy-notice = Rimarko pri privateco
 
