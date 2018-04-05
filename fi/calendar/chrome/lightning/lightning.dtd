@@ -60,6 +60,7 @@
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Hylkää kaikki">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Hylkää tapahtumakutsu koskien kaikkia tapahtuman tapauksia">
 <!ENTITY lightning.imipbar.btnDeclineCounter.label                          "Hylkää">
+<!ENTITY lightning.imipbar.btnDeclineCounter.tooltiptext                    "Hylkää vastaehdotus">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Poista">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Poista kalenterista">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Lisätiedot…">
@@ -83,6 +84,8 @@
 <!ENTITY lightning.imipbar.btnSend.label                                    "Lähetä vastaus nyt">
 <!ENTITY lightning.imipbar.btnSend.tooltiptext                              "Lähetä vastaus järjestäjälle">
 <!ENTITY lightning.imipbar.btnDontSend.label                                "Älä lähetä vastausta">
+<!ENTITY lightning.imipbar.btnDontSend.tooltiptext                          "Muuta osallistumistilaasi ilman vastauksen lähettämistä tapahtuman järjestäjälle">
+<!ENTITY lightning.imipbar.btnDontSendSeries.tooltiptext                    "Muuta osallistumistilaasi ilman vastauksen lähettämistä tapahtumasarjan järjestäjälle">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
