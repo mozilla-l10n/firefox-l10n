@@ -380,16 +380,34 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = Ձեր վեբը Ձեզ հետ է
+sync-signedout-description = Համաժամեցրեք ձեր բոլոր էջանիշերը, պատմությունը, ներդիրները, գաղտնաբաեռրը, հավելումները և կարգավորումները ձեր բոլոր սարքերի միջև:
+sync-signedout-account-title = Կապակցել { -fxaccount-brand-name }-ի հետ
 
 ## Sync Section - Signed in
 
+sync-signedin-unverified = { $email } նույնականացրած չէ:
+sync-signedin-login-failure = Նախ մուտք գործեք { $email }
+sync-signedin-settings-header = Սինքի կարգավորումներ
+sync-signedin-settings-desc = Ընտրեք, թե { -brand-short-name }-ի միջոցով ինչը համաժամեցնել ձեր սարքերի միջև:
 sync-engine-bookmarks =
     .label = Էջանիշերը
     .accesskey = ն
 sync-engine-history =
     .label = Պատմությունը
     .accesskey = թ
+sync-device-name-header = Սարքի անունը
+sync-device-name-change =
+    .label = Փոխել սարքի անունը…
+    .accesskey = ո
+sync-device-name-cancel =
+    .label = Չեղարկել
+    .accesskey = ա
+sync-device-name-save =
+    .label = Պահպանել{ " " }
+    .accesskey = պ
 sync-tos-link = Ծառայության պայմանները
+sync-fxa-privacy-notice = Գաղտնիության Դրույթները
 
 ## Privacy Section
 
