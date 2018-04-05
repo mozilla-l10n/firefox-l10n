@@ -412,6 +412,12 @@ sync-sign-in =
     .accesskey = g
 sync-signedin-settings-header = Sünkroniseerimise sätted
 sync-signedin-settings-desc = Vali { -brand-short-name }i poolt sünkroniseeritavad andmed.
+sync-engine-bookmarks =
+    .label = Järjehoidjad
+    .accesskey = j
+sync-engine-history =
+    .label = Ajalugu
+    .accesskey = a
 sync-engine-tabs =
     .label = Avatud kaardid
     .tooltiptext = Nimekiri kaartidest, mis on avatud sünkroniseeritud seadmetes
@@ -428,6 +434,18 @@ sync-engine-creditcards =
     .label = Krediitkaardid
     .tooltiptext = Nimed, numbrid ja aegumiskuupäevad (toetatud ainult arvutis töötavad brauserid)
     .accesskey = t
+sync-engine-addons =
+    .label = Lisad
+    .tooltiptext = Arvutis kasutatava Firefoxi laiendused ja teemad
+    .accesskey = i
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Sätted
+           *[other] Eelistused
+        }
+    .tooltiptext = Üldiste, privaatsuse ja turvalisuse sätete muudatused
+    .accesskey = e
 sync-device-name-header = Seadme nimi
 sync-device-name-change =
     .label = Muuda seadme nime…
