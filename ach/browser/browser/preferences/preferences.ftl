@@ -371,8 +371,19 @@ sync-signedout-account-title = Kube ki { -fxaccount-brand-name }
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Lok cal me propwail
+sync-disconnect =
+    .label = Juk kube…
+    .accesskey = J
 sync-signedin-unverified = { $email } pe ki moko ada ne.
 sync-signedin-login-failure = Tim ber i dony me kube odoco { $email }
+sync-resend-verification =
+    .label = Nwo cwalo moko ada
+    .accesskey = n
+sync-sign-in =
+    .label = Dony iyie
+    .accesskey = o
 sync-signedin-settings-header = Ter me Ribo
 sync-signedin-settings-desc = Yer ngo me ariba i nyonyo ni ki { -brand-short-name }.
 sync-engine-bookmarks =
@@ -380,6 +391,30 @@ sync-engine-bookmarks =
     .accesskey = l
 sync-engine-history =
     .label = Gin mukato
+    .accesskey = m
+sync-engine-tabs =
+    .label = Yab dirica matino
+    .tooltiptext = Jami ma tye ayaba i nyonyo weng ma kiribo
+    .accesskey = T
+sync-engine-logins =
+    .label = Donyo iyie
+    .tooltiptext = Nying me tic ki mung me donyo ma igwoko
+    .accesskey = D
+sync-engine-addresses =
+    .label = Kanonge
+    .tooltiptext = Kanonge me pocta ma igwoko (desktop keken)
+    .accesskey = i
+sync-engine-addons =
+    .label = Med-ikome
+    .tooltiptext = Lamed ki theme pi Firefox desktop
+    .accesskey = M
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Jami ayera
+           *[other] Ma imaro
+        }
+    .tooltiptext = Ter ma jwi, me mung, ki me ber bedo ma iloko gi
     .accesskey = m
 sync-device-name-header = Nying Nyonyo
 sync-device-name-change =
@@ -391,6 +426,8 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Gwoki
     .accesskey = o
+sync-mobilepromo-single = Kub nyonyo mukene
+sync-mobilepromo-multi = Lo nyonyo
 sync-tos-link = Cik me Tic
 sync-fxa-privacy-notice = Ngec me mung
 
