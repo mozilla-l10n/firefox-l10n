@@ -348,20 +348,55 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = మీ జాలాన్ని మీతో తీసుకువెళ్ళండి
+sync-signedout-description = మీ ఇష్టాంశాలను, చరిత్రను, ట్యాబులను, సంకేతపదాలను, పొడగింతలను, అభిరుచులను మీ పరికరాలన్నింటిలోనూ సింక్రనైజ్ చెయ్యండి.
+sync-signedout-account-title = ఒక { -fxaccount-brand-name }‌తో అనుసంధానించండి
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = ప్రొఫైల్ చిత్రం మార్చు
+sync-disconnect =
+    .label = అనుసంధానం తెంచు…
+    .accesskey = D
+sync-manage-account = ఖాతా నిర్వహణ
+    .accesskey = o
 sync-signedin-unverified = { $email } నిర్థారించబడలేదు.
+sync-signedin-login-failure = మళ్ళీ అనుసంధానించడానికి సైన్ ఇన్ అవ్వండి { $email }
+sync-sign-in =
+    .label = ప్రవేశించండి
+    .accesskey = g
+sync-signedin-settings-header = సింక్ అమరికలు
+sync-engine-bookmarks =
+    .label = ఇష్టాంశాలు
+    .accesskey = m
 sync-engine-history =
     .label = చరిత్ర
     .accesskey = r
+sync-engine-tabs =
+    .label = తెరిచివున్న ట్యాబులు
+    .tooltiptext = సింకైన అన్ని పరికరాల్లో తెరిచివున్న వాటి జాబితా
+    .accesskey = T
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] ఎంపికలు
+           *[other] అభిరుచులు
+        }
+    .tooltiptext = మీరు మార్చుకున్న సాధారణ, అంతరంగికత, భద్రతా అమరికలు
+    .accesskey = s
 sync-device-name-header = పరికరం పేరు
+sync-device-name-change =
+    .label = పరికరం పేరు మార్చు…
+    .accesskey = h
 sync-device-name-cancel =
     .label = రద్దుచేయి
     .accesskey = n
 sync-device-name-save =
     .label = భద్రపరచు
     .accesskey = v
+sync-mobilepromo-single = మరొక పరికరాన్ని అనుసంధానించండి
+sync-mobilepromo-multi = పరికరాల నిర్వహణ
 sync-tos-link = సేవా నిబంధనలు
 sync-fxa-privacy-notice = గోప్యతా నోటీసు
 
