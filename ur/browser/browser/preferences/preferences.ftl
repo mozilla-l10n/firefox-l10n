@@ -289,6 +289,19 @@ containers-preferences-button =
 containers-remove-button =
     .label = ہٹائیں
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-engine-bookmarks =
+    .label = نشانیاں
+    .accesskey = ن
+sync-engine-history =
+    .label = سابقات
+    .accesskey = س
+sync-tos-link = سروس کی ٹرمز
+
 ## Privacy Section
 
 privacy-header = براؤزر رازداری
