@@ -649,6 +649,7 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Dapatkan Mesej">
 <!ENTITY folderContextGetMessages.accesskey "D">
+<!ENTITY folderContextMarkAllFoldersRead.label "Tandakan Folder Sudah Dibaca">
 <!ENTITY folderContextPauseAllUpdates.label "Jeda Semua Kemaskini">
 <!ENTITY folderContextPauseUpdates.label "Jeda Kemaskini">
 <!ENTITY folderContextPauseUpdates.accesskey "K">
