@@ -393,6 +393,8 @@ sync-signedin-login-failure = મહેરબાની કરીને ફરી
 sync-engine-history =
     .label = ઇતિહાસ
     .accesskey = r
+sync-tos-link = સેવાની મર્યાદાઓ
+sync-fxa-privacy-notice = ખાનગી સૂચના
 
 ## Privacy Section
 
