@@ -370,8 +370,21 @@ sync-signedout-account-signin =
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = प्रोफाइल प्रतिमा बदला
+sync-disconnect =
+    .label = जोडणी मोडा…
+    .accesskey = D
+sync-manage-account = खाते व्यवस्थापित करा
+    .accesskey = o
 sync-signedin-unverified = { $email } चाचणी झाली नाही.
 sync-signedin-login-failure = पुन्हा जोडणीकरिता कृपया साइन करा { $email }
+sync-resend-verification =
+    .label = पडताळणी पुन्हा पाठवा
+    .accesskey = d
+sync-sign-in =
+    .label = साइन इन
+    .accesskey = g
 sync-signedin-settings-header = ताळमेळ सेटिंग्ज
 sync-signedin-settings-desc = { -brand-short-name } वापरून आपल्या उपकरणांवर काय सिंक्रोनाईझ करायचे ते निवडा.
 sync-engine-bookmarks =
@@ -380,6 +393,34 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = इतिहास
     .accesskey = r
+sync-engine-tabs =
+    .label = टॅब्स उघडा
+    .tooltiptext = ताळमेळ केलेल्या उपकरणांमध्ये काय उघडलेले आहे याची यादी
+    .accesskey = T
+sync-engine-logins =
+    .label = लॉगिन्स
+    .tooltiptext = आपण साठवलेली वापरकर्तानावे व पासवर्ड
+    .accesskey = L
+sync-engine-addresses =
+    .label = पत्ते
+    .tooltiptext = आपण साठवलेले पोस्टाचे पत्ते (फक्त डेस्कटॉप साठी)
+    .accesskey = e
+sync-engine-creditcards =
+    .label = क्रेडिट कार्ड्स
+    .tooltiptext = नावे, नंबर आणि कालबाह्यता तारखा (केवळ डेस्कटॉप)
+    .accesskey = C
+sync-engine-addons =
+    .label = ॲड-ऑन्स्
+    .tooltiptext = Firefox डेस्कटॉप साठी थीम आणि एक्स्टेंशन
+    .accesskey = A
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] पर्याय
+           *[other] पसंती
+        }
+    .tooltiptext = आपण बदललेले साधारण, सुरक्षा आणि गोपनीयता सेटिंग
+    .accesskey = s
 sync-device-name-header = साधनाचे नाव:
 sync-device-name-change =
     .label = साधनाचे नाव बदला…
@@ -390,6 +431,8 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = जतन करा
     .accesskey = v
+sync-mobilepromo-single = दुसरे साधन जोडा
+sync-mobilepromo-multi = साधने व्यवस्थापित करा
 sync-tos-link = सेवा अटी
 sync-fxa-privacy-notice = गोपणीयता सूचना
 
