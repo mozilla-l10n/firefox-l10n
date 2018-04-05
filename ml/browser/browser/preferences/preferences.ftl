@@ -358,6 +358,18 @@ sync-signedout-account-signin =
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = പ്രൊഫൈല്‍ ചിത്രം മാറ്റുക
+sync-disconnect =
+    .label = ബന്ധം വിച്ചേദിക്കുക
+    .accesskey = D
+sync-manage-account = അക്കൗണ്ട് കൈകാര്യം ചെയ്യുക
+    .accesskey = o
+sync-signedin-unverified = { $email } ഉറപ്പാക്കിയിട്ടില്ല.
+sync-signedin-login-failure = വീണ്ടും കണക്ട് ചെയ്യുന്നതിന് പ്രവേശിയ്ക്കുക { $email }
+sync-sign-in =
+    .label = പ്രവേശിക്കുക
+    .accesskey = g
 sync-signedin-settings-header = സിങ്ക് ക്രമീകരണങ്ങള്‍
 sync-signedin-settings-desc = { -brand-short-name } ഉപയോഗിച്ച് എന്താണ് നിങ്ങളുടെ ഉപകരണങ്ങളിൽ സമന്വയിപ്പിക്കേണ്ടത് എന്ന് തിരഞ്ഞെടുക്കുക.
 sync-engine-bookmarks =
