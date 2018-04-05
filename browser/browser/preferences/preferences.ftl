@@ -288,6 +288,19 @@ containers-add-button =
     .label = Yongeza iKhonteyina eNtsha
     .accesskey = Y
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-engine-bookmarks =
+    .label = Izalathisi eziphawulayo
+    .accesskey = e
+sync-engine-history =
+    .label = Imbali
+    .accesskey = l
+sync-tos-link = Imiqathango yenkonzo
+
 ## Privacy Section
 
 
