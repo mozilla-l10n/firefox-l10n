@@ -385,10 +385,34 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = Tak'waj awik'in ri Ajk'amaya'l
+sync-signedout-description = Ke'axima' ri taq ayaketal, natab'äl, taq ruwi', taq ewan tzij, taq tz'aqat chuqa' taq ajowab'äl chi kikojol konojel ri taq awokisaxel.
+sync-signedout-account-title = Tib'an okem rik'in jun { -fxaccount-brand-name }
 
 ## Sync Section - Signed in
 
+sync-signedin-unverified = { $email } man jikib'an ta.
+sync-signedin-login-failure = Tatikirisaj molojri'ïl richin yatok chik { $email }
+sync-signedin-settings-header = Taq Runuk'ulem Ximojri'ïl
+sync-signedin-settings-desc = Tacha' achike ye'axïm pa taq awokisaxel rik'in { -brand-short-name }.
+sync-engine-bookmarks =
+    .label = Taq etal
+    .accesskey = e
+sync-engine-history =
+    .label = K'ulwachinel
+    .accesskey = e
+sync-device-name-header = Rub'i' ri okisaxel
+sync-device-name-change =
+    .label = Tijal rub'i' okisaxel…
+    .accesskey = j
+sync-device-name-cancel =
+    .label = Tiq'at
+    .accesskey = q
+sync-device-name-save =
+    .label = Tiyak
+    .accesskey = a
 sync-tos-link = Ketal Samaj
+sync-fxa-privacy-notice = Ichinan na'oj
 
 ## Privacy Section
 
