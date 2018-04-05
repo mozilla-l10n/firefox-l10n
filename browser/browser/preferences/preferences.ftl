@@ -360,13 +360,20 @@ containers-remove-button =
 
 ## Sync Section - Signed in
 
+sync-signedin-unverified = { $email } 은 아직 인증되지 않았습니다.
+sync-signedin-login-failure = { $email } 으로 로그인을 해서 다시 연결해 주십시오
 sync-engine-bookmarks =
     .label = 북마크
     .accesskey = m
 sync-engine-history =
     .label = 방문 기록
     .accesskey = r
+sync-device-name-header = 기기 이름
+sync-device-name-change =
+    .label = 기기 이름 바꾸기…
+    .accesskey = h
 sync-tos-link = 서비스 약관
+sync-fxa-privacy-notice = 개인 정보 보호 정책
 
 ## Privacy Section
 
