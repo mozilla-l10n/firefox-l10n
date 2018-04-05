@@ -390,11 +390,18 @@ containers-remove-button =
 sync-signedout-caption = Kemerit ho web ganeoc'h
 sync-signedout-description = Goubredit ho sinedoù, roll istor, ivinelloù, gerioù-tremen, askouezhioù ha gwellvezioù dre veur a urzhiataer pe trevnad.
 sync-signedout-account-title = Kennaskit gant un { -fxaccount-brand-name }
+sync-signedout-account-create = N'ho p'eus ket a gont? Krogit ganti
+    .accesskey = N
+sync-signedout-account-signin =
+    .label = Kennaskañ…
+    .accesskey = K
 
 ## Sync Section - Signed in
 
 sync-signedin-unverified = { $email } n'eo ket gwiriet.
 sync-signedin-login-failure = En em zilesait evit adkennaskañ { $email }
+sync-signedin-settings-header = Arventennoù Sync
+sync-signedin-settings-desc = Dibabit petra goubredan war ho trevnad en ur arverañ { -brand-short-name }.
 sync-engine-bookmarks =
     .label = Sinedoù
     .accesskey = S
@@ -402,6 +409,9 @@ sync-engine-history =
     .label = Roll istor
     .accesskey = R
 sync-device-name-header = Anv an trevnad
+sync-device-name-change =
+    .label = Kemmañ anv an trevnad…
+    .accesskey = a
 sync-device-name-cancel =
     .label = Nullañ
     .accesskey = N
