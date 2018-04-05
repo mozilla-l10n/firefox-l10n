@@ -383,6 +383,19 @@ containers-preferences-button =
 containers-remove-button =
     .label = Өшіру
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-engine-bookmarks =
+    .label = Бетбелгілер
+    .accesskey = т
+sync-engine-history =
+    .label = Тарих
+    .accesskey = и
+sync-tos-link = Қолдану шарттары
+
 ## Privacy Section
 
 privacy-header = Браузер жекелігі
