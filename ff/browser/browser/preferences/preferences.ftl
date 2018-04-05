@@ -371,8 +371,21 @@ sync-signedout-account-signin =
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Waylu natal heftinirde
+sync-disconnect =
+    .label = Seŋtondir…
+    .accesskey = d
+sync-manage-account = Toppito konte
+    .accesskey = o
 sync-signedin-unverified = { $email } ƴeewtaaka.
 sync-signedin-login-failure = Tiiɗno seŋo ngam naattude { $email }
+sync-resend-verification =
+    .label = Neldit Ƴeewtagol
+    .accesskey = d
+sync-sign-in =
+    .label = Seŋao
+    .accesskey = g
 sync-signedin-settings-header = Yahdin teelte
 sync-signedin-settings-desc = Suɓo ko pot-ɗaa yahdinde nder masiŋon maa kuutortookon { -brand-short-name }.
 sync-engine-bookmarks =
@@ -381,6 +394,34 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Aslol
     .accesskey = o
+sync-engine-tabs =
+    .label = Uddit tabbe
+    .tooltiptext = Doggol ko udditii e masiŋaaji maa jahdinaaɗi fof
+    .accesskey = N
+sync-engine-logins =
+    .label = Ceŋorɗe
+    .tooltiptext = Inle kuutoro kam e finndeeji ɗi dannduɗaa
+    .accesskey = C
+sync-engine-addresses =
+    .label = Ñiiɓirɗe
+    .tooltiptext = Xiiɓirde maa posto dannduɗaa (ordinateer tan)
+    .accesskey = e
+sync-engine-creditcards =
+    .label = Karte banke
+    .tooltiptext = Inɗe, tonngooɗe kam e buntugol laje (ordinateer tan)
+    .accesskey = K
+sync-engine-addons =
+    .label = Ɓeyditte
+    .tooltiptext = Timmitte kam e ciŋkooje wonande ordinateer
+    .accesskey = Ɓ
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Cuɓe
+           *[other] Cuɓoraaɗe
+        }
+    .tooltiptext = Teelte Kuuɓɗe Suturo kam e Kisal ɗe mbayluɗaa
+    .accesskey = e
 sync-device-name-header = Innde Kaɓirgol
 sync-device-name-change =
     .label = Waylu Innde Kaɓirgel…
@@ -391,6 +432,8 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Danndu
     .accesskey = D
+sync-mobilepromo-single = Seŋ kaɓirgel goɗngel
+sync-mobilepromo-multi = Toppito kaɓirɗe
 sync-tos-link = Laabi Carwol
 sync-fxa-privacy-notice = Tintinol Suturo
 
