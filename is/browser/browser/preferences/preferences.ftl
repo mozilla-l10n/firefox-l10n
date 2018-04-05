@@ -388,6 +388,11 @@ containers-remove-button =
 sync-signedout-caption = Taktu vefinn með þér
 sync-signedout-description = Samstilltu bókamerki, feril, flipa, lykilorð, viðbætur, og stillingará milli allra þinna tækja.
 sync-signedout-account-title = Tengjast með { -fxaccount-brand-name }
+sync-signedout-account-create = Ertu ekki með reikning? Skráðu þig
+    .accesskey = C
+sync-signedout-account-signin =
+    .label = Innskráning…
+    .accesskey = I
 
 ## Sync Section - Signed in
 
