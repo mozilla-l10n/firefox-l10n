@@ -180,6 +180,7 @@
 <!ENTITY calendar.context.attendance.occurrence.label           "Agerpen hau">
 <!ENTITY calendar.context.attendance.all.label        "Agerpen guztiak" >
 
+<!ENTITY calendar.context.attendance.all2.label                 "Serie osoa">
 <!ENTITY calendar.context.attendance.send.label                 "Bidali orain jakinarazpena">
 <!ENTITY calendar.context.attendance.send.accesskey             "B">
 <!ENTITY calendar.context.attendance.dontsend.label             "Ez bidali jakinarazpenik">
@@ -191,7 +192,23 @@
 <!ENTITY calendar.context.attendance.occ.tentative.label        "Behin-behinekoz onartua">
 <!ENTITY calendar.context.attendance.occ.declined.accesskey     "b">
 <!ENTITY calendar.context.attendance.occ.declined.label         "Baztertua">
+<!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "E">
+<!ENTITY calendar.context.attendance.occ.needsaction.label      "Ekintza behar du oraindik">
+<!ENTITY calendar.context.attendance.occ.inprogress.accesskey   "L">
+<!ENTITY calendar.context.attendance.occ.inprogress.label       "Lanean">
+<!ENTITY calendar.context.attendance.occ.completed.accesskey    "B">
+<!ENTITY calendar.context.attendance.occ.completed.label        "Burututa">
 
+<!ENTITY calendar.context.attendance.all.accepted.accesskey     "O">
+<!ENTITY calendar.context.attendance.all.accepted.label         "Onartua">
+<!ENTITY calendar.context.attendance.all.tentative.accesskey    "h">
+<!ENTITY calendar.context.attendance.all.tentative.label        "Behin-behinekoz onartua">
+<!ENTITY calendar.context.attendance.all.declined.accesskey     "z">
+<!ENTITY calendar.context.attendance.all.declined.label         "Baztertua">
+<!ENTITY calendar.context.attendance.all.needsaction.accesskey  "k">
+<!ENTITY calendar.context.attendance.all.needsaction.label      "Ekintza behar du oraindik">
+<!ENTITY calendar.context.attendance.all.inprogress.accesskey   "L">
+<!ENTITY calendar.context.attendance.all.inprogress.label       "Lanean">
 <!ENTITY calendar.context.attendance.all.completed.accesskey    "u">
 <!ENTITY calendar.context.attendance.all.completed.label        "Burututa">
 

@@ -47,3 +47,5 @@
 <!ENTITY network.notfound.description "Ezin bilatu egutegirik kokapen honetan. Mesedez begiratu zure ezarpenak.">
 <!ENTITY network.authfail.description "Zuk sartutako kredentzialak ez dira onartu. Mesedez begiratu zure ezarpenak.">
 
+<!ENTITY network.subscribe.single.description "Mesedez aukeratu harpidetu nahi duzun egutegiak.">
+<!ENTITY network.subscribe.multiple.description "Kokapen honetan hainbat egutegi mota daude eskuragarri. Mesedez aukeratu egutegi mota, ondoren markatu harpidetu nahi zaren egutegiak.">
