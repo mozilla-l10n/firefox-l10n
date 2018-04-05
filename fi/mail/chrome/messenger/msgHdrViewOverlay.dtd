@@ -23,6 +23,7 @@
 
 <!ENTITY hdrArchiveButton1.label "Arkistoi">
 <!ENTITY hdrArchiveButton1.tooltip "Arkistoi viesti">
+<!ENTITY hdrOpenConversationButton1.tooltip "Näytä tämän viestin keskustelut">
 <!ENTITY hdrSmartReplyButton1.label "Älyvastaus">
 <!ENTITY hdrReplyButton1.label "Vastaa">
 <!ENTITY hdrReplyButton2.tooltip "Vastaa viestin lähettäjälle">
@@ -73,22 +74,22 @@
 <!ENTITY startExpandedCmd.accesskey    "L">
 
 <!-- Attachment context menu items -->
-<!ENTITY openAttachmentCmd.label     "Avaa">
-<!ENTITY openAttachmentCmd.accesskey		 "A">
-<!ENTITY saveAsAttachmentCmd.label     "Tallenna nimellä…">
-<!ENTITY saveAsAttachmentCmd.accesskey		 "n">
-<!ENTITY detachAttachmentCmd.label     "Irrota…">
+<!ENTITY openAttachmentCmd.label    "Avaa">
+<!ENTITY openAttachmentCmd.accesskey    "A">
+<!ENTITY saveAsAttachmentCmd.label    "Tallenna nimellä…">
+<!ENTITY saveAsAttachmentCmd.accesskey    "n">
+<!ENTITY detachAttachmentCmd.label    "Irrota…">
 <!ENTITY detachAttachmentCmd.accesskey    "I">
-<!ENTITY deleteAttachmentCmd.label     "Poista">
+<!ENTITY deleteAttachmentCmd.label    "Poista">
 <!ENTITY deleteAttachmentCmd.accesskey    "P">
 <!ENTITY openAllAttachmentsCmd.label    "Avaa kaikki…">
 <!ENTITY openAllAttachmentsCmd.accesskey    "v">
-<!ENTITY saveAllAttachmentsCmd.label     "Tallenna kaikki…">
-<!ENTITY saveAllAttachmentsCmd.accesskey		 "k">
-<!ENTITY detachAllAttachmentsCmd.label     "Irrota kaikki…">
-<!ENTITY detachAllAttachmentsCmd.accesskey     "I">
-<!ENTITY deleteAllAttachmentsCmd.label     "Poista kaikki…">
-<!ENTITY deleteAllAttachmentsCmd.accesskey     "K">
+<!ENTITY saveAllAttachmentsCmd.label    "Tallenna kaikki…">
+<!ENTITY saveAllAttachmentsCmd.accesskey    "k">
+<!ENTITY detachAllAttachmentsCmd.label    "Irrota kaikki…">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "I">
+<!ENTITY deleteAllAttachmentsCmd.label    "Poista kaikki…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "K">
 
 <!ENTITY openAttachment.tooltip "Avaa liitetty tiedosto">
 
@@ -98,8 +99,8 @@
 <!ENTITY saveAllAttachmentsButton1.label   "Tallenna kaikki">
 <!ENTITY saveAllAttachmentsButton1.tooltip "Tallenna kaikki liitetyt tiedostot">
 
-<!ENTITY copyLinkCmd.label         "Kopioi linkin osoite">
-<!ENTITY copyLinkCmd.accesskey		 "K">
+<!ENTITY copyLinkCmd.label        "Kopioi linkin osoite">
+<!ENTITY copyLinkCmd.accesskey    "K">
 
 <!ENTITY CopyMessageId.label "Kopioi viestitunnus">
 <!ENTITY CopyMessageId.accesskey "K">

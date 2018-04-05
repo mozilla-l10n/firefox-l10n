@@ -51,8 +51,6 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "K">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Valittu tili">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "V">
-<!ENTITY getNextNMsgCmd.label "Nouda seuraavat 500 viestiä">
-<!ENTITY getNextNMsgCmd.accesskey "d">
 <!ENTITY sendUnsentCmd.label "Lähetä lähtevät viestit">
 <!ENTITY sendUnsentCmd.accesskey "ä">
 <!ENTITY subscribeCmd.label "Tilaa…">
@@ -316,7 +314,6 @@
 <!ENTITY goBackCmd.commandKey "Ö">
 <!ENTITY goChatCmd.label "Keskustele">
 <!ENTITY goChatCmd.accesskey "K">
-<!ENTITY goChatCmd.key "I">
 <!ENTITY prevStarredMsgCmd.label "Tähdellä merkitty viesti">
 <!ENTITY prevStarredMsgCmd.accesskey "T">
 <!ENTITY folderMenu.label "Kansio">
@@ -365,6 +362,7 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Muokkaa viestiluonnosta">
 <!ENTITY editDraftMsgCmd.accesskey "u">
+<!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Luo viestistä suodatin…">
 <!ENTITY createFilter.accesskey "d">
 <!ENTITY moveMsgToMenu.label "Siirrä">
@@ -494,6 +492,10 @@
 <!ENTITY accountManagerCmdUnix2.accesskey "a">
 
 <!-- Developer Tools Submenu -->
+<!ENTITY devtoolsMenu.label "Kehittäjätyökalut">
+<!ENTITY devtoolsMenu.accesskey "h">
+<!ENTITY devToolboxCmd.label "Kehittäjän työkalulaatikko">
+<!ENTITY devToolboxCmd.accesskey "t">
 <!ENTITY errorConsoleCmd.label "Virhekonsoli">
 <!ENTITY errorConsoleCmd.accesskey "V">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -502,6 +504,7 @@
     This should be a key code constant as per
     https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
     (but without the DOM_ prefix) -->
+<!ENTITY scratchpadCmd.keycode "VK_F4">
 <!--LOCALIZATION NOTE (scratchpadCmd.keytext):
     This should be the text printed on the key defined in the previous string. -->
 
@@ -514,6 +517,7 @@
 <!ENTITY forwardButton.label "Välitä">
 <!ENTITY fileButton.label "Tiedosto">
 <!ENTITY archiveButton.label "Arkistoi">
+<!ENTITY openConversationButton.label "Keskustelu">
 <!ENTITY nextButton.label "Seuraava">
 <!ENTITY nextButtonToolbarItem.label "Seuraava lukematon">
 <!ENTITY nextMsgButton.label "Seuraava">
@@ -618,6 +622,7 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Hae viestit">
 <!ENTITY folderContextGetMessages.accesskey "H">
+<!ENTITY folderContextPauseAllUpdates.label "Keskeytä kaikki päivitykset">
 <!ENTITY folderContextOpenInNewWindow.label "Avaa uudessa ikkunassa">
 <!ENTITY folderContextOpenInNewWindow.accesskey "A">
 <!ENTITY folderContextOpenNewTab.label "Avaa uuteen välilehteen">
@@ -715,12 +720,13 @@
 <!ENTITY attachmentColumn2.tooltip "Järjestä liitteiden mukaan">
 
 <!-- Thread Pane Context Menu -->
+<!ENTITY contextNewMsgFromTemplate.label "Uusi viesti mallista">
 <!ENTITY contextOpenNewWindow.label "Avaa viesti uudessa ikkunassa">
 <!ENTITY contextOpenNewWindow.accesskey "A">
-<!-- The key potentially conflicts with cutCmd.accessKey which is defined in
-     textcontext.dtd from toolkit. Right now, both menu items can't be visible
-     at the same time, but should someone enable copy/paste of message, this key
-     would probably need to be changed. -->
+<!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
+     cutCmd.accessKey which is defined in textcontext.dtd from toolkit. Right
+     now, both menu items can't be visible at the same time, but should someone
+     enable copy/paste of message, this key would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "Avaa viesti uudessa välilehdessä">
 <!ENTITY contextOpenNewTab.accesskey "v">
 <!ENTITY contextOpenConversation.label "Avaa viesti keskusteluna">
@@ -931,3 +937,5 @@
 
 <!-- Mac OS X Dock Icon pop-up menu -->
 <!ENTITY dockOptions.label              "Sovelluskuvakkeen asetukset…">
+<!ENTITY writeNewMessageDock.label      "Kirjoita uusi viesti">
+<!ENTITY openAddressBookDock.label      "Avaa Osoitekirja">
