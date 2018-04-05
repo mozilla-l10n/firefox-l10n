@@ -266,11 +266,17 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = ඔබේ ජාලය ඔබ සමඟ ගෙනයන්න
 
 ## Sync Section - Signed in
 
+sync-manage-account = ගිණුම කළමනාකරණය කරන්න
+    .accesskey = o
 sync-signedin-unverified = { $email } තහවුරු කර නොමැත
 sync-signedin-login-failure = කරුණාකර නැවත සබඳවීමට පිවිසෙන්න { $email }
+sync-sign-in =
+    .label = පිවිසෙන්න
+    .accesskey = g
 sync-engine-bookmarks =
     .label = පිටුසළකුණු
     .accesskey = m
@@ -278,6 +284,12 @@ sync-engine-history =
     .label = පෙරදෑ
     .accesskey = r
 sync-device-name-header = උපාංග නාමය
+sync-device-name-cancel =
+    .label = එපා
+    .accesskey = n
+sync-device-name-save =
+    .label = සුරකින්න
+    .accesskey = v
 sync-tos-link = සේවා කොන්දේසි
 sync-fxa-privacy-notice = පෞද්ගලිකත්ව දැන්වීම
 
