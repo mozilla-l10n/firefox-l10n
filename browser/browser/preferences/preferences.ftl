@@ -375,6 +375,26 @@ containers-preferences-button =
 containers-remove-button =
     .label = 移除
 
+## Sync Section - Signed out
+
+sync-signedout-caption = 把 Web 隨身帶著走
+sync-signedout-description = 在您所有裝置間同步書籤、歷史紀錄、分頁、密碼、附加元件與偏好設定。
+sync-signedout-account-title = 連線到 { -fxaccount-brand-name }
+
+## Sync Section - Signed in
+
+sync-signedin-unverified = { $email } 未驗證。
+sync-signedin-login-failure = 請登入以重新連線 { $email }
+sync-engine-bookmarks =
+    .label = 書籤
+    .accesskey = m
+sync-engine-history =
+    .label = 瀏覽紀錄
+    .accesskey = r
+sync-device-name-header = 裝置名稱
+sync-tos-link = 服務條款
+sync-fxa-privacy-notice = 隱私權公告
+
 ## Privacy Section
 
 privacy-header = 瀏覽器隱私權
