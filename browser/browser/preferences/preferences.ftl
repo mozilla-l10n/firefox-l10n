@@ -387,6 +387,13 @@ containers-preferences-button =
 containers-remove-button =
     .label = Odstrani
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-tos-link = Pogoji uporabe
+
 ## Privacy Section
 
 privacy-header = Zasebnost brskalnika
