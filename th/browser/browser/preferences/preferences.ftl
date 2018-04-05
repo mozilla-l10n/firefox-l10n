@@ -414,6 +414,10 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = ประวัติ
     .accesskey = ป
+sync-engine-tabs =
+    .label = แท็บที่เปิดอยู่
+    .tooltiptext = รายการสิ่งที่เปิดอยู่ในอุปกรณ์ที่ซิงค์ทั้งหมด
+    .accesskey = บ
 sync-engine-logins =
     .label = การเข้าสู่ระบบ
     .tooltiptext = ชื่อผู้ใช้และรหัสผ่านที่คุณได้บันทึกไว้
@@ -430,6 +434,14 @@ sync-engine-addons =
     .label = ส่วนเสริม
     .tooltiptext = ส่วนขยายและชุดตกแต่งสำหรับ Firefox เดสก์ท็อป
     .accesskey = ส
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] ตัวเลือก
+           *[other] ค่ากำหนด
+        }
+    .tooltiptext = การตั้งค่าทั่วไป, ความเป็นส่วนตัว และความปลอดภัยที่คุณได้เปลี่ยนแปลง
+    .accesskey = ว
 sync-device-name-header = ชื่ออุปกรณ์
 sync-device-name-change =
     .label = เปลี่ยนชื่ออุปกรณ์…

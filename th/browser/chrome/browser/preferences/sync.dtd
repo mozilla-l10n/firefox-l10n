@@ -7,6 +7,7 @@
 <!ENTITY engine.bookmarks.label     "ที่คั่นหน้า">
 <!ENTITY engine.bookmarks.accesskey "ท">
 <!ENTITY engine.tabs.label2         "แท็บที่เปิดอยู่">
+<!ENTITY engine.tabs.title          "รายการสิ่งที่เปิดอยู่ในอุปกรณ์ที่ซิงค์ทั้งหมด">
 <!ENTITY engine.tabs.accesskey      "บ">
 <!ENTITY engine.history.label       "ประวัติ">
 <!ENTITY engine.history.accesskey   "ป">
@@ -20,6 +21,7 @@
 <!ENTITY engine.prefsWin.label      "ตัวเลือก">
 <!ENTITY engine.prefs.label         "ค่ากำหนด">
 <!ENTITY engine.prefs.accesskey     "ค">
+<!ENTITY engine.prefs.title         "การตั้งค่าทั่วไป, ความเป็นส่วนตัว และความปลอดภัยที่คุณได้เปลี่ยนแปลง">
 <!ENTITY engine.addons.label        "ส่วนเสริม">
 <!ENTITY engine.addons.title        "ส่วนขยายและชุดตกแต่งสำหรับ Firefox เดสก์ท็อป">
 <!ENTITY engine.addons.accesskey    "ส">
