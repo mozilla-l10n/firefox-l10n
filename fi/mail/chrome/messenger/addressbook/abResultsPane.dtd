@@ -30,3 +30,9 @@
 <!ENTITY HomePhone.accesskey                   "i">
 <!ENTITY WorkPhone.label                       "Työpuhelin">
 <!ENTITY WorkPhone.accesskey                   "y">
+<!ENTITY ChatName.label                        "Chat-nimi">
+<!ENTITY ChatName.accesskey                    "C">
+<!ENTITY sortAscending.label                   "Nouseva">
+<!ENTITY sortAscending.accesskey               "N">
+<!ENTITY sortDescending.label                  "Laskeva">
+<!ENTITY sortDescending.accesskey              "L">
