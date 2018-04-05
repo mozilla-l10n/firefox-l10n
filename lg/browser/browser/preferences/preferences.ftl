@@ -148,6 +148,19 @@ search-keyword-warning-bookmark = Olonze ekigambo ekikulu ekiri mu kukozesebwa a
 ## Containers Section
 
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-engine-bookmarks =
+    .label = Obulambe
+    .accesskey = l
+sync-engine-history =
+    .label = Ebyafaayo
+    .accesskey = f
+sync-tos-link = Amateeka g'empeereza
+
 ## Privacy Section
 
 
