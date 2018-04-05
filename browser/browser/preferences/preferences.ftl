@@ -371,6 +371,9 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-account-signin =
+    .label = Connexion…
+    .accesskey = I
 
 ## Sync Section - Signed in
 
