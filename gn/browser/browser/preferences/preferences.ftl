@@ -376,8 +376,21 @@ sync-signedout-account-signin =
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Emoambue nera'ãga nemba'ete pegua
+sync-disconnect =
+    .label = Ñesẽte…
+    .accesskey = D
+sync-manage-account = Mba'ete ñangarekoha
+    .accesskey = o
 sync-signedin-unverified = { $email } ndojehechajeýi gueteri.
 sync-signedin-login-failure = Eñepyrũ tembiapo eikejey hag̃ua { $email }
+sync-resend-verification =
+    .label = Emondo jehechajey pyahu
+    .accesskey = d
+sync-sign-in =
+    .label = Eñemboheraguapy
+    .accesskey = g
 sync-signedin-settings-header = Ñembojuehe ñemoĩporã
 sync-signedin-settings-desc = Eiporavo mba'éichapa embojuehéta nemba'e'oka { -brand-short-name } ndive.
 sync-engine-bookmarks =
@@ -424,6 +437,8 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Eñongatu
     .accesskey = v
+sync-mobilepromo-single = Embojuaju ambue mba'e'oka
+sync-mobilepromo-multi = Mba'e'oka ñangarekoha
 sync-tos-link = Mba'epytyvõrã ñemboguata
 sync-fxa-privacy-notice = Purureko ñemiguáva momarandu
 
