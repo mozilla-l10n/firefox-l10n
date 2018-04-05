@@ -377,6 +377,27 @@ containers-preferences-button =
 containers-remove-button =
     .label = kkes
 
+## Sync Section - Signed out
+
+sync-signedout-caption = Awi web-inek yid-k
+sync-signedout-account-title = Qqen ɣer { -fxaccount-brand-name }
+
+## Sync Section - Signed in
+
+sync-signedin-unverified = { $email } ur ittusenqed ara.
+sync-signedin-login-failure = Ma ulac aɣilif sesteb akken ad tkecmeḍ { $email }
+sync-engine-history =
+    .label = Amazray
+    .accesskey = A
+sync-device-name-cancel =
+    .label = Sefsex
+    .accesskey = x
+sync-device-name-save =
+    .label = Sekles
+    .accesskey = l
+sync-tos-link = Tiwtilin n useqdec
+sync-fxa-privacy-notice = Tasertit n tbaḍnit
+
 ## Privacy Section
 
 privacy-header = Tabaḍnit n iminig
