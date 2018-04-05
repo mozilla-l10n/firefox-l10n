@@ -383,6 +383,13 @@ containers-preferences-button =
 containers-remove-button =
     .label = Tiyuj
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-tos-link = Ketal Samaj
+
 ## Privacy Section
 
 privacy-header = Richinanem Okik'amaya'l
