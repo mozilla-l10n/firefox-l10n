@@ -378,6 +378,13 @@ containers-preferences-button =
 containers-remove-button =
     .label = অপসারণ
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-tos-link = সেবার শর্ত
+
 ## Privacy Section
 
 privacy-header = ব্রাউজার গোপনীয়তা
