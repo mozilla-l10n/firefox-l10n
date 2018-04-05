@@ -364,6 +364,11 @@ containers-remove-button =
 sync-signedout-caption = Ponesite vaš Web sa vama
 sync-signedout-description = Sinhronizujte vaše zabilješke, historiju, tabove, lozinke, add-one, i druge postavke na svim vašim uređajima.
 sync-signedout-account-title = Poveži se sa { -fxaccount-brand-name }
+sync-signedout-account-create = Nemate račun? Započnite
+    .accesskey = r
+sync-signedout-account-signin =
+    .label = Prijavi…
+    .accesskey = I
 
 ## Sync Section - Signed in
 
@@ -377,7 +382,38 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Historiju
     .accesskey = r
+sync-engine-tabs =
+    .label = Otvoreni tabovi
+    .tooltiptext = Lista svega što je otvoreno na svim sinhronizovanim uređajima
+    .accesskey = T
+sync-engine-logins =
+    .label = Prijave
+    .tooltiptext = Korisnička imena i lozinke koje ste spasili
+    .accesskey = P
+sync-engine-addresses =
+    .label = Adrese
+    .tooltiptext = Poštanske adrese koje ste spasili (samo desktop)
+    .accesskey = e
+sync-engine-creditcards =
+    .label = Kreditne kartice
+    .tooltiptext = Imena, brojevi i datumi isteka (samo desktop)
+    .accesskey = K
+sync-engine-addons =
+    .label = Add-oni
+    .tooltiptext = Ekstenzije i teme za Firefox desktop
+    .accesskey = A
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Opcije
+           *[other] Postavke
+        }
+    .tooltiptext = Opće, postavke privatnosti, te sigurnosti koje ste promijenili
+    .accesskey = s
 sync-device-name-header = Naziv uređaja
+sync-device-name-change =
+    .label = Promijeni naziv uređaja…
+    .accesskey = n
 sync-device-name-cancel =
     .label = Otkaži
     .accesskey = t
