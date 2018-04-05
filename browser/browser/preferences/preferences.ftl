@@ -296,6 +296,16 @@ sync-signedout-account-title = Qhagamshela nge{ -fxaccount-brand-name }
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Tshintsha umfanekiso weprofayili
+sync-disconnect =
+    .label = Khupha uqhagamshelo...
+    .accesskey = K
+sync-signedin-unverified = { $email } akuqinisekiswanga.
+sync-signedin-login-failure = Sicela ungene ukuze uphinde uqhagamshele { $email }
+sync-sign-in =
+    .label = Sayina uNgene
+    .accesskey = g
 sync-signedin-settings-header = Ngqamanisa iiSetingi
 sync-signedin-settings-desc = Khetha izinto oza kuzingqamanisa kwizixhobo zakho usebenzisa i{ -brand-short-name }.
 sync-engine-bookmarks =
