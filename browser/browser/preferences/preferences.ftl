@@ -308,11 +308,18 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = ಜಾಲವನ್ನು ನಿಮ್ಮೊಂದಿಗೆ ಒಯ್ಯಿರಿ
 sync-signedout-description = ನಿಮ್ಮ ಎಲ್ಲಾ ಸಾಧನಗಳ ಜೊತೆ ನಿಮ್ಮ ಪುಟಗುರುತುಗಳು, ಇತಿಹಾಸ, ಹಾಳೆ, ಪ್ರವೇಶ ಪದ, ಆಡ್-ಆನ್‌ಗಳು, ಮತ್ತು ಆದ್ಯತೆಗಳನ್ನು ಸಿಂಕ್ ಮಾಡಿ
 sync-signedout-account-title = { -fxaccount-brand-name } ನೊಂದಿಗೆ ಸಂಪರ್ಕಿಸು
+sync-signedout-account-create = ನಿಮ್ಮ ಖಾತೆ ಇಲ್ಲವೆ? ಶುರು ಮಾಡಿ
+    .accesskey = C
+sync-signedout-account-signin =
+    .label = ಸೈನ್ ಇನ್…
+    .accesskey = I
 
 ## Sync Section - Signed in
 
+sync-signedin-settings-header = ಸಿಂಕ್‍ನ ಸಿದ್ಧತೆಗಳು
 sync-engine-bookmarks =
     .label = ಪುಟಗುರುತುಗಳು
     .accesskey = m
@@ -320,6 +327,9 @@ sync-engine-history =
     .label = ಇತಿಹಾಸ
     .accesskey = r
 sync-device-name-header = ಸಾಧನದ ಹೆಸರು
+sync-device-name-change =
+    .label = ಸಾಧನದ ಹೆಸರನ್ನು ಬದಲಿಸಿ…
+    .accesskey = h
 sync-device-name-cancel =
     .label = ರದ್ದು ಮಾಡು‍
     .accesskey = n
