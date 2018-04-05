@@ -42,7 +42,6 @@
      These strings are used in the calendar wizard and the calendar properties dialog, but are only
      displayed when setting/using a caldav calendar -->
 <!ENTITY lightning.calendarproperties.email.label                           "E-posta:">
-
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.label            "Lehenetsi bezero aldeko posta antolaketa">
 <!-- LOCALIZATON NOTE(lightning.calendarproperties.forceEmailScheduling.tooltiptext1,
      lightning.calendarproperties.forceEmailScheduling.tooltiptext2)
@@ -83,6 +82,10 @@
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "Eguneratu">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Eguneratu gertaera egutegian">
 <!ENTITY lightning.imipbar.description                                      "Mezu honek gertaera bateko gonbidapena du.">
+
+<!ENTITY lightning.imipbar.btnSend.label                                    "Bidali erantzuna orain">
+<!ENTITY lightning.imipbar.btnSend.tooltiptext                              "Bidali erantzuna antolatzaileari">
+<!ENTITY lightning.imipbar.btnDontSend.label                                "Ez bidali erantzunik">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
