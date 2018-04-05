@@ -351,6 +351,9 @@ containers-remove-button =
 
 ## Sync Section - Signed in
 
+sync-engine-bookmarks =
+    .label = Zabilješke
+    .accesskey = Z
 sync-engine-history =
     .label = Povijest
     .accesskey = j
