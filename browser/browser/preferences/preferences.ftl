@@ -373,15 +373,55 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = นำเว็บของคุณไปกับคุณ
+sync-signedout-description = ประสานที่คั่นหน้า, ประวัติ, แท็บ, รหัสผ่าน, ส่วนเสริม และค่ากำหนดระหว่างอุปกรณ์ทั้งหมดของคุณ
 sync-signedout-account-title = เชื่อมต่อกับ { -fxaccount-brand-name }
+sync-signedout-account-create = ไม่มีบัญชี? เริ่มต้นใช้งาน
+    .accesskey = ม
+sync-signedout-account-signin =
+    .label = ลงชื่อเข้า…
+    .accesskey = ล
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = เปลี่ยนรูปโปรไฟล์
+sync-disconnect =
+    .label = ตัดการเชื่อมต่อ…
+    .accesskey = ต
+sync-manage-account = จัดการบัญชี
+    .accesskey = จ
+sync-signedin-unverified = { $email } ยังไม่ได้รับการยืนยัน
 sync-signedin-login-failure = โปรดลงชื่อเข้าเพื่อเชื่อมต่อใหม่ { $email }
+sync-remove-account =
+    .label = เอาบัญชีออก
+    .accesskey = อ
+sync-sign-in =
+    .label = ลงชื่อเข้า
+    .accesskey = ง
+sync-signedin-settings-header = การตั้งค่า Sync
+sync-engine-bookmarks =
+    .label = ที่คั่นหน้า
+    .accesskey = ท
 sync-engine-history =
     .label = ประวัติ
     .accesskey = ป
+sync-engine-logins =
+    .label = การเข้าสู่ระบบ
+    .tooltiptext = ชื่อผู้ใช้และรหัสผ่านที่คุณได้บันทึกไว้
+    .accesskey = ก
 sync-device-name-header = ชื่ออุปกรณ์
+sync-device-name-change =
+    .label = เปลี่ยนชื่ออุปกรณ์…
+    .accesskey = ป
+sync-device-name-cancel =
+    .label = ยกเลิก
+    .accesskey = ย
+sync-device-name-save =
+    .label = บันทึก
+    .accesskey = บ
+sync-mobilepromo-single = เชื่อมต่ออุปกรณ์อื่น
+sync-mobilepromo-multi = จัดการอุปกรณ์
 sync-tos-link = เงื่อนไขการให้บริการ
 sync-fxa-privacy-notice = ประกาศความเป็นส่วนตัว
 
