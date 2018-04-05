@@ -68,6 +68,14 @@ containers-preferences-button =
 containers-remove-button =
     .label = Boga
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-signedin-settings-header = Assètios de Sync
+sync-tos-link = Cunditziones de su servìtziu
+
 ## Privacy Section
 
 
