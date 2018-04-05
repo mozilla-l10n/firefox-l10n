@@ -434,6 +434,14 @@ sync-engine-addons =
     .label = Add-ons
     .tooltiptext = Ekstensi dan tema untuk Firefox desktop
     .accesskey = A
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Pilihan
+           *[other] Keutamaan
+        }
+    .tooltiptext = Tetapan Umum, Privasi dan Keselamatan yang anda sudah ubah
+    .accesskey = a
 sync-device-name-header = Nama Peranti
 sync-device-name-change =
     .label = Tukar Nama Peranti…
