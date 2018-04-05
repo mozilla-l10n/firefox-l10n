@@ -448,12 +448,17 @@ sync-engine-prefs =
     .tooltiptext = Configuración general, de provacidad y de seguridad que hayan cambiado
     .accesskey = s
 sync-device-name-header = Nombre de dispositivo
+sync-device-name-change =
+    .label = Cambie el nombre del dispositivo …
+    .accesskey = d
 sync-device-name-cancel =
     .label = Cancelar
     .accesskey = n
 sync-device-name-save =
     .label = Guardar
     .accesskey = G
+sync-mobilepromo-single = Conectar otro dispositivo
+sync-mobilepromo-multi = Administrar dispositivos
 sync-tos-link = Términos del servicio
 sync-fxa-privacy-notice = Nota de privacidad
 
