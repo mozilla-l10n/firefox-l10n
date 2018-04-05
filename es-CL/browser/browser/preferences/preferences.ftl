@@ -383,6 +383,13 @@ containers-preferences-button =
 containers-remove-button =
     .label = Remover
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-signedin-unverified = { $email } no está verificada.
+
 ## Privacy Section
 
 privacy-header = Privacidad del navegador
