@@ -458,6 +458,7 @@ sync-device-name-save =
     .label = Salvar
     .accesskey = v
 sync-tos-link = Termos de serviço
+sync-fxa-privacy-notice = Nota sobre privacidade
 
 ## Privacy Section
 
