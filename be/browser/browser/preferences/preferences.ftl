@@ -388,6 +388,13 @@ containers-remove-button =
 
 sync-signedin-unverified = { $email } не пацвержаны.
 sync-signedin-login-failure = Увайдіце, калі ласка, каб перазлучыцца { $email }
+sync-engine-bookmarks =
+    .label = Закладкі
+    .accesskey = З
+sync-engine-history =
+    .label = Гісторыя
+    .accesskey = Г
+sync-tos-link = Умовы абслугоўвання
 
 ## Privacy Section
 
