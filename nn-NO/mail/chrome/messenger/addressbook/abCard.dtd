@@ -31,6 +31,8 @@
 <!ENTITY PhoneticField2.label           "Fonetisk:">
 <!ENTITY DisplayName.label              "Vis som:">
 <!ENTITY DisplayName.accesskey          "V">
+<!ENTITY preferDisplayName.label        "Føretrekk alltid visigsnamn i staden for namnet i meldingshovudet">
+<!ENTITY preferDisplayName.accesskey    "d">
 <!ENTITY NickName.label                 "Kallenamn:">
 <!ENTITY NickName.accesskey             "n">
 

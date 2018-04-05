@@ -15,3 +15,24 @@
 <!ENTITY NickName.label                        "Kallenamn">
 <!ENTITY NickName.accesskey                    "e">
 <!ENTITY SecondEmail.label                     "Anna e-postadresse">
+<!ENTITY SecondEmail.accesskey                 "t">
+<!ENTITY Department.label                      "Avdeling">
+<!ENTITY Department.accesskey                  "g">
+<!ENTITY JobTitle.label                        "Tittel">
+<!ENTITY JobTitle.accesskey                    "T">
+<!ENTITY CellularNumber.label                  "Mobiltelefon">
+<!ENTITY CellularNumber.accesskey              "M">
+<!ENTITY PagerNumber.label                     "Personsøkar">
+<!ENTITY PagerNumber.accesskey                 "P">
+<!ENTITY FaxNumber.label                       "Faks">
+<!ENTITY FaxNumber.accesskey                   "F">
+<!ENTITY HomePhone.label                       "Heimetelefon">
+<!ENTITY HomePhone.accesskey                   "H">
+<!ENTITY WorkPhone.label                       "Arbeidstelefon">
+<!ENTITY WorkPhone.accesskey                   "d">
+<!ENTITY ChatName.label                        "Nettpratnamn">
+<!ENTITY ChatName.accesskey                    "p">
+<!ENTITY sortAscending.label                   "Stigande">
+<!ENTITY sortAscending.accesskey               "S">
+<!ENTITY sortDescending.label                  "Søkkande">
+<!ENTITY sortDescending.accesskey              "d">

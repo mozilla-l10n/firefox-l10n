@@ -36,6 +36,10 @@
 <!ENTITY newFeedAccountCmd.accesskey "a">
 <!ENTITY newIMContactCmd.label "Nettpratkontakt …">
 <!ENTITY newIMContactCmd.accesskey "t">
+<!ENTITY  newMessageCmd.label "Melding">
+<!ENTITY  newMessageCmd.accesskey "m">
+<!ENTITY  newContactCmd.label "Adressebokkontakt…">
+<!ENTITY  newContactCmd.accesskey "k">
 <!ENTITY openMessageFileCmd.label "Opne lagra melding…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY saveAsMenu.label "Lagre som">
@@ -366,6 +370,8 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Rediger meldingskladd">
 <!ENTITY editDraftMsgCmd.accesskey "m">
+<!ENTITY editTemplateMsgCmd.label "Rediger mal">
+<!ENTITY editTemplateMsgCmd.accesskey "m">
 <!ENTITY newMsgFromTemplateCmd.label "Ny melding frå mal">
 <!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Lag filter på meldinga">
@@ -641,6 +647,7 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Hent meldingar">
 <!ENTITY folderContextGetMessages.accesskey "H">
+<!ENTITY folderContextMarkAllFoldersRead.label "Merk alle mapper som lesne">
 <!ENTITY folderContextPauseAllUpdates.label "Set alle oppdateringar i pause">
 <!ENTITY folderContextPauseUpdates.label "Set oppdateringar i pause">
 <!ENTITY folderContextPauseUpdates.accesskey "o">
@@ -757,6 +764,8 @@
 <!ENTITY contextEditMsgAsNew.label "Rediger som ny melding">
 <!ENTITY contextEditMsgAsNew.accesskey "R">
 <!ENTITY contextEditDraftMsg.label "Rediger meldingskladd">
+<!ENTITY contextEditTemplate.label "Rediger mal">
+<!ENTITY contextEditTemplate.accesskey "R">
 <!ENTITY contextArchive.label "Arkiv">
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Svar til avsendar">
