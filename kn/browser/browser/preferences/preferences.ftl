@@ -308,6 +308,8 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-description = ನಿಮ್ಮ ಎಲ್ಲಾ ಸಾಧನಗಳ ಜೊತೆ ನಿಮ್ಮ ಪುಟಗುರುತುಗಳು, ಇತಿಹಾಸ, ಹಾಳೆ, ಪ್ರವೇಶ ಪದ, ಆಡ್-ಆನ್‌ಗಳು, ಮತ್ತು ಆದ್ಯತೆಗಳನ್ನು ಸಿಂಕ್ ಮಾಡಿ
+sync-signedout-account-title = { -fxaccount-brand-name } ನೊಂದಿಗೆ ಸಂಪರ್ಕಿಸು
 
 ## Sync Section - Signed in
 
@@ -317,7 +319,15 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = ಇತಿಹಾಸ
     .accesskey = r
+sync-device-name-header = ಸಾಧನದ ಹೆಸರು
+sync-device-name-cancel =
+    .label = ರದ್ದು ಮಾಡು‍
+    .accesskey = n
+sync-device-name-save =
+    .label = ಉಳಿಸು‍
+    .accesskey = v
 sync-tos-link = ಸೇವೆಯ ನಿಯಮಗಳು
+sync-fxa-privacy-notice = ಗೌಪ್ಯತಾ ಸೂಚನೆ
 
 ## Privacy Section
 
