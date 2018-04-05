@@ -154,6 +154,22 @@ search-keyword-warning-bookmark = आम मित् का़ठी साब�
 ## Containers Section
 
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-signedin-unverified = { $email } दो बाय ञेल मिलाव काना
+sync-signedin-login-failure = दोहड़ा जोड़ाव रे साइनइन मे { $email }
+sync-engine-bookmarks =
+    .label = पुथी चिनहा़ को (m)
+    .accesskey = m
+sync-engine-history =
+    .label = हिता़ल (r)
+    .accesskey = r
+sync-tos-link = का़मी नियोम को
+sync-fxa-privacy-notice = निजेराक् इतला़य
+
 ## Privacy Section
 
 
