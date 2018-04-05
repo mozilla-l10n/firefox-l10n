@@ -380,8 +380,21 @@ sync-signedout-account-signin =
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Cambiar la fòto de perfil de l'utilizaire
+sync-disconnect =
+    .label = Se desconectar…
+    .accesskey = D
+sync-manage-account = Gestion del compte
+    .accesskey = o
 sync-signedin-unverified = { $email } es pas verificat.
 sync-signedin-login-failure = Vos cal vos reconnectar { $email }
+sync-resend-verification =
+    .label = Tornar mandar la verificacion
+    .accesskey = t
+sync-sign-in =
+    .label = Connexion
+    .accesskey = x
 sync-signedin-settings-header = Paramètres de sincronizacion
 sync-signedin-settings-desc = Causir çò que cal sincronizar per vòstres periferics qu'utilizan { -brand-short-name }.
 sync-engine-bookmarks =
@@ -390,6 +403,34 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Istoric
     .accesskey = r
+sync-engine-tabs =
+    .label = Onglets dobèrts
+    .tooltiptext = Una lista de çò qu’es dobèrts suls periferics sincronizats
+    .accesskey = O
+sync-engine-logins =
+    .label = Identificants
+    .tooltiptext = Los noms d’utilizaires e los senhales qu’avètz salvats
+    .accesskey = I
+sync-engine-addresses =
+    .label = Adreças
+    .tooltiptext = Las adreças postalas qu’avètz salvadas (pas qu’al ordenador)
+    .accesskey = e
+sync-engine-creditcards =
+    .label = Cartas de crèdit
+    .tooltiptext = Noms, numeròs e data d’expiracion (pas qu’al ordenador)
+    .accesskey = C
+sync-engine-addons =
+    .label = los moduls complementaris
+    .tooltiptext = Extensions e tèmas per Firefox per ordenador
+    .accesskey = u
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Opcions
+           *[other] las preferéncias
+        }
+    .tooltiptext = Los paramètres qu’avètz cambiat dins General, Vida Privada e Seguretat
+    .accesskey = s
 sync-device-name-header = Nom de l'aparelh
 sync-device-name-change =
     .label = Cambiar lo nom del periferic…
@@ -400,6 +441,8 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Enregistrar
     .accesskey = g
+sync-mobilepromo-single = Connectar un periferic mai
+sync-mobilepromo-multi = Gerir los periferics
 sync-tos-link = Condicions d'utilizacion
 sync-fxa-privacy-notice = Politica de confidencialitat
 
