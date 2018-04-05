@@ -6,3 +6,6 @@
 # “Sync” can be localized, “Firefox” must be treated as a brand,
 # and kept in English.
 -sync-brand-name = ഫയര്‍ഫോക്സ് സിന്‍ക്
+# “Account” can be localized, “Firefox” must be treated as a brand,
+# and kept in English.
+-fxaccount-brand-name = ഫയര്‍ഫോക്സ് അക്കൌണ്ട്
