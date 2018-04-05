@@ -389,6 +389,8 @@ sync-signedout-account-signin =
 
 ## Sync Section - Signed in
 
+sync-signedin-unverified = { $email } प्रमाणित गरिएको छैन।
+sync-signedin-login-failure = कृपया पुनः जडान गर्न साइन-इन गर्नुहोस् { $email }
 sync-signedin-settings-header = Sync सेटिङ्गहरू
 sync-signedin-settings-desc = { -brand-short-name } प्रयोग गरेर तपाईँको उपकरणहरूमा के समक्रमण गर्ने हो छान्नुहोस् ।
 sync-engine-bookmarks =
