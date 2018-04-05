@@ -392,7 +392,16 @@ containers-remove-button =
 
 ## Sync Section - Signed in
 
+sync-signedin-unverified = Račun  { $email } ni potrjen.
+sync-signedin-login-failure = Prijavite se za ponovno povezavo računa { $email }
+sync-engine-bookmarks =
+    .label = Zaznamke
+    .accesskey = m
+sync-engine-history =
+    .label = Zgodovino
+    .accesskey = d
 sync-tos-link = Pogoji uporabe
+sync-fxa-privacy-notice = Obvestilo o zasebnosti
 
 ## Privacy Section
 
