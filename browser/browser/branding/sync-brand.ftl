@@ -6,3 +6,6 @@
 # “Sync” can be localized, “Firefox” must be treated as a brand,
 # and kept in English.
 -sync-brand-name = Firefox ताळमेळ
+# “Account” can be localized, “Firefox” must be treated as a brand,
+# and kept in English.
+-fxaccount-brand-name = Firefox खाते
