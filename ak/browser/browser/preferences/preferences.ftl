@@ -150,6 +150,19 @@ search-keyword-warning-bookmark = Wo apaw kasafua-titiriw a bukmaak de redi dwum
 ## Containers Section
 
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-engine-bookmarks =
+    .label = Mbukmaak
+    .accesskey = m
+sync-engine-history =
+    .label = Abakɔsɛm
+    .accesskey = s
+sync-tos-link = Ɛfene a yɛde som wo
+
 ## Privacy Section
 
 
