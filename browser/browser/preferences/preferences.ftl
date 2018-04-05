@@ -379,6 +379,19 @@ containers-preferences-button =
 containers-remove-button =
     .label = Eltávolítás
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-engine-bookmarks =
+    .label = Könyvjelzők
+    .accesskey = K
+sync-engine-history =
+    .label = Előzmények
+    .accesskey = E
+sync-tos-link = A szolgáltatás feltételei
+
 ## Privacy Section
 
 privacy-header = Böngésző adatvédelme
