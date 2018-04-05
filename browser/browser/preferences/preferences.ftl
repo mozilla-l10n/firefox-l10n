@@ -369,8 +369,21 @@ sync-signedout-account-signin =
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = تغییرتصویر نمایه
+sync-disconnect =
+    .label = قطع ارتباط…
+    .accesskey = ق
+sync-manage-account = مدیریت حساب
+    .accesskey = ح
 sync-signedin-unverified = { $email } تایید نشده است.
 sync-signedin-login-failure = لطفا جهت ارتباط مجدد وارد شوید. { $email }
+sync-resend-verification =
+    .label = ارسال مجدد تاییدیه
+    .accesskey = d
+sync-sign-in =
+    .label = ورود
+    .accesskey = و
 sync-signedin-settings-header = تنظیمات همگام‌سازی
 sync-signedin-settings-desc = اینکه چه چیزهایی بر روی دستگاه‌هایتان توسط { -brand-short-name } همگام‌سازی شوند را انتخاب کنید.
 sync-engine-bookmarks =
@@ -378,6 +391,34 @@ sync-engine-bookmarks =
     .accesskey = ن
 sync-engine-history =
     .label = تاریخچه
+    .accesskey = ت
+sync-engine-tabs =
+    .label = باز کردن زبانه‌ها
+    .tooltiptext = فهرستی از تمام دستگاه‌های همگام سازی شده باز
+    .accesskey = T
+sync-engine-logins =
+    .label = ورودها
+    .tooltiptext = نام کاربری و کلمه عبوری که شما ذخیره کرده‌اید
+    .accesskey = و
+sync-engine-addresses =
+    .label = آدرس‌ها
+    .tooltiptext = آدرس پستی که شما ذخیره کرده‌ اید(تنها رومیزی)
+    .accesskey = آ
+sync-engine-creditcards =
+    .label = کارت اعتباری
+    .tooltiptext = نام، اعداد و تاریخ انتقضا‌( رو میزی تنها)
+    .accesskey = ک
+sync-engine-addons =
+    .label = افزودنی‌ها
+    .tooltiptext = افزونه‌ها و زمینه‌ها برای فایرفاکس رومیزی
+    .accesskey = ا
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] گزینه‌ها
+           *[other] ترجیحات
+        }
+    .tooltiptext = عمومی،‌ حریم شخصی، و تنظیمات امنیتی که شما تغییر داده اید
     .accesskey = ت
 sync-device-name-header = نام دستگاه
 sync-device-name-change =
