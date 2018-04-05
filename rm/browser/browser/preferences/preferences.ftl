@@ -350,6 +350,11 @@ containers-remove-button =
 sync-signedout-caption = Prenda tes web cun tai
 sync-signedout-description = Sincronisescha tes segnapaginas, tia cronologia, tes tabs, tes pleds-clav, tes supplements e tias preferenzas cun tut tes apparats.
 sync-signedout-account-title = Connectar cun in { -fxaccount-brand-name }
+sync-signedout-account-create = Ti n'has nagin conto? Ta registrescha
+    .accesskey = c
+sync-signedout-account-signin =
+    .label = S'annunziar…
+    .accesskey = a
 
 ## Sync Section - Signed in
 
@@ -373,6 +378,34 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = la cronologia
     .accesskey = r
+sync-engine-tabs =
+    .label = Tabs averts
+    .tooltiptext = Ina glista dals tabs averts sin tut ils apparats sincronisads
+    .accesskey = T
+sync-engine-logins =
+    .label = Infurmaziuns d'annunzia
+    .tooltiptext = Nums d'utilisader e pleds-clav che ti has memorisà
+    .accesskey = I
+sync-engine-addresses =
+    .label = Adressas
+    .tooltiptext = Adressas postalas che ti has memorisà (mo computers)
+    .accesskey = e
+sync-engine-creditcards =
+    .label = Cartas da credit
+    .tooltiptext = Nums, numers e datas da scadenza (mo computers)
+    .accesskey = C
+sync-engine-addons =
+    .label = ils supplements
+    .tooltiptext = Supplements e designs per Firefox per computers
+    .accesskey = S
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Preferenzas
+           *[other] las preferenzas
+        }
+    .tooltiptext = Preferenzas generalas, da la protecziun da datas e da segirezza che ti has midà
+    .accesskey = a
 sync-device-name-header = Num da l'apparat
 sync-device-name-change =
     .label = Midar il num da l'apparat…
