@@ -377,9 +377,13 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-account-title = { -fxaccount-brand-name } ကို အသုံးပြုပြီး ချိတ်ဆက်ရန်
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = ပရိုဖိုင်းရုပ်ပုံကို ပြောင်းလဲရန်
+sync-device-name-header = ကိရိယာအမည်
 sync-tos-link = အသုံးပြုချိန်တွင်လိုက်နာရမည့်အချက်များ
 
 ## Privacy Section
