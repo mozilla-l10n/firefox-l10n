@@ -355,13 +355,51 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = Dalhin ang Iyong Web Sa Iyo
+sync-signedout-description = I-synchronize ang iyong mga bookmark, kasaysayan, mga tab, password, mga add-on, at mga kagustuhan sa lahat ng iyong device.
+sync-signedout-account-title = Kumonekta sa isang { -fxaccount-brand-name }
+sync-signedout-account-create = Wala kang account? Magsimula
+    .accesskey = C
+sync-signedout-account-signin =
+    .label = mag Sign In...
+    .accesskey = I
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Baguhin ang larawan ng profile
+sync-disconnect =
+    .label = Idiskonekta...
+    .accesskey = D
+sync-manage-account = Pamahalaan ang account
+    .accesskey = o
+sync-signedin-unverified = { $email } ay hindi napatunayan.
+sync-signedin-login-failure = Mangyaring mag-sign in upang makipagkonek muli { $email }
+sync-sign-in =
+    .label = Mag sign in
+    .accesskey = g
+sync-signedin-settings-header = Sync na mga Setting
+sync-signedin-settings-desc = Piliin kung ano ang mag-synchronize sa iyong device gamit ang { -brand-short-name }.
 sync-engine-bookmarks =
     .label = Mga Bookmark
     .accesskey = m
+sync-engine-history =
+    .label = Kasaysayan
+    .accesskey = r
+sync-device-name-header = Pangalan ng Device
+sync-device-name-change =
+    .label = Palitan ang Pangalan ng Device...
+    .accesskey = h
+sync-device-name-cancel =
+    .label = Kanselahin
+    .accesskey = n
+sync-device-name-save =
+    .label = I-save
+    .accesskey = v
+sync-mobilepromo-single = Ikonekta ang isa pang device
+sync-mobilepromo-multi = Pamahalaan ang mga device
 sync-tos-link = Tuntunin ng Serbisyo
+sync-fxa-privacy-notice = Paunawa sa Privacy
 
 ## Privacy Section
 
