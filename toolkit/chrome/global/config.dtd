@@ -35,7 +35,7 @@
 <!ENTITY copyValue.label "คัดลอกค่า">
 <!ENTITY copyValue.accesskey "ล">
 <!ENTITY modify.label "เปลี่ยนแปลง">
-<!ENTITY modify.accesskey "เ">
+<!ENTITY modify.accesskey "ป">
 <!ENTITY toggle.label "สลับค่า">
 <!ENTITY toggle.accesskey "ส">
 <!ENTITY reset.label "กลับค่าเดิม">
