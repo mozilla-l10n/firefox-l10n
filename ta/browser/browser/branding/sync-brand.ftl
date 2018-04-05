@@ -6,3 +6,6 @@
 # “Sync” can be localized, “Firefox” must be treated as a brand,
 # and kept in English.
 -sync-brand-name = Firefox ஒத்திசைவு
+# “Account” can be localized, “Firefox” must be treated as a brand,
+# and kept in English.
+-fxaccount-brand-name = பயர்பாக்ஸ் கணக்கு

@@ -358,15 +358,34 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = இணைத்தை உங்களுடன் வைத்திருங்கள்
+sync-signedout-description = புத்தகக்குறிகள், வரலாறு, கீற்றுகள், கடவுச்சொற்கள், துணை நிரல்கள், மற்றும் முன்னுரிமைகளை எல்லா கருவிகளிலும் ஒத்திசை.
+sync-signedout-account-title = { -fxaccount-brand-name } உடன் இணையுங்கள்
 
 ## Sync Section - Signed in
 
+sync-signedin-unverified = { $email } இது உறுதிப்படுத்தவில்லை.
+sync-signedin-login-failure = தயவுச்செய்து மீண்டும் இணைய உள்நுழையவும் { $email }
+sync-signedin-settings-header = ஒத்திசைவு அமைவுகள்
+sync-signedin-settings-desc = கீழ்க்கண்டவற்றில் வேண்டியதைத் தேர்வு செய்து { -brand-short-name } மூலம் ஒத்திசை.
 sync-engine-bookmarks =
     .label = புத்தகக்குறிகள்
     .accesskey = m
 sync-engine-history =
     .label = வரலாறு
     .accesskey = r
+sync-device-name-header = கருவியின் பெயர்
+sync-device-name-change =
+    .label = கருவியின் பெயரை மாற்றவும்…
+    .accesskey = h
+sync-device-name-cancel =
+    .label = இரத்து
+    .accesskey = n
+sync-device-name-save =
+    .label = சேமி
+    .accesskey = v
+sync-tos-link = சேவை விதிமுறைகள்
+sync-fxa-privacy-notice = தனியுரிம கொள்கை
 
 ## Privacy Section
 
