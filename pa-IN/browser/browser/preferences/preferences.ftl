@@ -354,24 +354,77 @@ containers-remove-button =
 sync-signedout-caption = ਆਪਣੇ ਵੈੱਬ ਨੂੰ ਆਪਣੇ ਨਾਲ ਲੈ ਜਾਓ
 sync-signedout-description = ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਆਪਣੇ ਬੁੱਕਮਾਰਕਾਂ, ਅਤੀਤ, ਟੈਬਾਂ, ਪਾਸਵਰਡਾਂ, ਐਡ-ਆਨ ਅਤੇ ਪਸੰਦਾਂ ਨੂੰ ਸੈਕਰੋਨਾਈਜ਼ ਕਰੋ।
 sync-signedout-account-title = { -fxaccount-brand-name } ਨਾਲ ਕਨੈਕਟ ਕਰੋ
+sync-signedout-account-create = ਖਾਤਾ ਨਹੀ ਹੈ? ਤਾਂ ਬਣਾਉਣਾ ਸ਼ੁਰੂ ਕਰੋ
+    .accesskey = C
+sync-signedout-account-signin =
+    .label = …ਸਾਈਨ ਇਨ
+    .accesskey = I
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = ਪਰੋਫਾਈਲ ਤਸਵੀਰ ਨੂੰ ਬਦਲੋ
+sync-disconnect =
+    .label = …ਡਿਸਕਨੈਕਟ ਕਰੋ
+    .accesskey = D
+sync-manage-account = ਖਾਤੇ ਦਾ ਪਰਬੰਧ ਕਰੋ
+    .accesskey = o
 sync-signedin-unverified = { $email } ਜਾਂਚਿਆ ਨਹੀਂ ਹੈ।
 sync-signedin-login-failure = ਮੁੜ-ਕੁਨੈਕਟ ਕਰਨ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ ਜੀ { $email }
+sync-resend-verification =
+    .label = ਤਸਦੀਕ ਮੁੜ-ਭੇਜੋ
+    .accesskey = d
+sync-sign-in =
+    .label = ਸਾਇਨ ਇਨ
+    .accesskey = g
+sync-signedin-settings-header = ਸਿੰਕ ਦੀਆਂ ਸੈਟਿੰਗਾਂ
+sync-signedin-settings-desc = ਚੁਣੋ ਕਿ { -brand-short-name } ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਤੁਹਾਡੇ ਡਿਵਾਈਸਾਂ 'ਤੇ ਕੀ ਸਿੰਕ ਕੀਤਾ ਜਾਵੇ।
 sync-engine-bookmarks =
     .label = ਬੁੱਕਮਾਰਕ
     .accesskey = m
 sync-engine-history =
     .label = ਅਤੀਤ
     .accesskey = r
+sync-engine-tabs =
+    .label = ਟੈਬਾਂ ਨੂੰ ਖੋਲ੍ਹੋ
+    .tooltiptext = ਸਾਰੇ ਸਿੰਕ ਕੀਤੇ ਡਿਵਾਈਸ ਉੱਤੇ ਖੁੱਲ੍ਹਿਆਂ ਦੀ ਸੂਚੀ
+    .accesskey = T
+sync-engine-logins =
+    .label = ਲਾਗਇਨ
+    .tooltiptext = ਤੁਹਾਡੇ ਵਲੋਂ ਸੰਭਾਲੇ ਗਏ ਵਰਤੋਂਕਾਰ-ਨਾਂ ਅਤੇ ਪਾਸਵਰਡ
+    .accesskey = L
+sync-engine-addresses =
+    .label = ਸਿਰਨਾਵੇਂ
+    .tooltiptext = ਤੁਹਾਡੇ ਵਲੋਂ ਸੰਭਾਲਿਆ ਡਾਕ ਸਿਰਨਾਵੇਂ (ਕੇਵਲ ਡੈਸਕਟਾਪ ਹੀ)
+    .accesskey = e
+sync-engine-creditcards =
+    .label = ਕਰੈਡਿਟ ਕਾਰਡ
+    .tooltiptext = ਨਵਾਂ, ਨੰਬਰ ਅਤੇ ਮਿਆਦ ਪੁੱਗਣ ਦੀਆਂ ਮਿਤੀਆਂ (ਕੇਵਲ ਡੈਸਕਟਾਪ)
+    .accesskey = C
+sync-engine-addons =
+    .label = ਐਡ-ਆਨ
+    .tooltiptext = ਫ਼ਾਇਰਫਾਕਸ ਡੈਸਕਟਾਪ ਲਈ ਇਕਸਟੈਨਸ਼ਨਾਂ ਅਤੇ ਥੀਮ
+    .accesskey = A
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] ਚੋਣਾਂ
+           *[other] ਮੇਰੀ ਪਸੰਦ
+        }
+    .tooltiptext = ਤੁਹਾਡੇ ਵਲੋਂ ਬਦਲੀਆਂ ਗਈਆਂ ਆਮ, ਪਰਦੇਦਾਰੀ ਅਤੇ ਸੁਰੱਖਿਆ ਸੈਟਿੰਗਾਂ
+    .accesskey = S
 sync-device-name-header = ਡਿਵਾਈਸ ਨਾਂ
+sync-device-name-change =
+    .label = …ਡਿਵਾਈਸ ਦਾ ਨਾਂ ਚੁਣੋ
+    .accesskey = h
 sync-device-name-cancel =
     .label = ਰੱਦ ਕਰੋ
     .accesskey = n
 sync-device-name-save =
     .label = ਸੰਭਾਲੋ
     .accesskey = v
+sync-mobilepromo-single = ਹੋਰ ਡਿਵਾਈਸ ਨਾਲ ਕਨੈਕਟ ਕਰੋ
+sync-mobilepromo-multi = ਡਿਵਾਈਸ ਦਾ ਪਰਬੰਧ ਕਰੋ
 sync-tos-link = ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ
 sync-fxa-privacy-notice = ਪਰਦੇਦਾਰੀ ਬਾਰੇ ਸੂਚਨਾ
 
