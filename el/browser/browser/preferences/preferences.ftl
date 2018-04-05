@@ -371,6 +371,18 @@ containers-preferences-button =
 containers-remove-button =
     .label = Αφαίρεση
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-engine-bookmarks =
+    .label = Σελιδοδείκτες
+    .accesskey = δ
+sync-engine-history =
+    .label = Ιστορικό
+    .accesskey = ρ
+
 ## Privacy Section
 
 privacy-header = Απόρρητο προγράμματος περιήγησης
