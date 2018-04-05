@@ -395,10 +395,30 @@ sync-engine-tabs =
     .label = 탭 열기
     .tooltiptext = 모든 동기화된 장치에서 열리는 항목의 목록
     .accesskey = T
+sync-engine-logins =
+    .label = 로그인
+    .tooltiptext = 저장한 사용자 이름과 비밀번호
+    .accesskey = L
+sync-engine-addresses =
+    .label = 주소
+    .tooltiptext = 저장한 우편 주소(데스크탑)
+    .accesskey = e
 sync-engine-creditcards =
     .label = 신용카드
     .tooltiptext = 이름, 숫자 그리고 만료 날짜 (데스크톱만)
     .accesskey = C
+sync-engine-addons =
+    .label = 부가 기능
+    .tooltiptext = 데스크톱용 Firefox를 위한 확장 프로그램과 테마
+    .accesskey = A
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] 설정
+           *[other] 환경 설정
+        }
+    .tooltiptext = 변경된 일반, 개인 정보 및 보안 설정
+    .accesskey = S
 sync-device-name-header = 기기 이름
 sync-device-name-change =
     .label = 기기 이름 바꾸기…
