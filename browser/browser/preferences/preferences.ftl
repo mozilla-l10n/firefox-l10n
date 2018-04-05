@@ -381,16 +381,32 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = Vigye magával a webet
+sync-signedout-description = Szinkronizálja könyvjelzőit, előzményeit, lapjait, jelszavait, kiegészítőit és beállításait minden eszközén.
+sync-signedout-account-title = Kapcsolódjon egy { -fxaccount-brand-name }kal
 
 ## Sync Section - Signed in
 
+sync-signedin-unverified = A(z)  { $email } cím nincs ellenőrizve.
 sync-signedin-login-failure = Jelentkezzen be  { $email } újracsatlakoztatásához
+sync-signedin-settings-header = Sync beállítások
+sync-signedin-settings-desc = Válassza ki, mit szeretne szinkronizálni eszközei között a { -brand-short-name } segítségével.
 sync-engine-bookmarks =
     .label = Könyvjelzők
     .accesskey = K
 sync-engine-history =
     .label = Előzmények
     .accesskey = E
+sync-device-name-header = Eszköznév
+sync-device-name-change =
+    .label = Eszköznév módosítása…
+    .accesskey = m
+sync-device-name-cancel =
+    .label = Mégse
+    .accesskey = g
+sync-device-name-save =
+    .label = Mentés
+    .accesskey = M
 sync-tos-link = A szolgáltatás feltételei
 sync-fxa-privacy-notice = Adatvédelmi megjegyzés
 
