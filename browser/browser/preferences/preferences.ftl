@@ -274,16 +274,42 @@ containers-add-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = Neem die Web saam
+sync-signedout-description = Sinkroniseer boekmerke, geskiedenis, oortjies, wagwoorde, byvoegings en voorkeure oor alle toestelle.
+sync-signedout-account-title = Koppel met 'n { -fxaccount-brand-name }
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Verander profielprent
+sync-disconnect =
+    .label = Ontkoppel…
+    .accesskey = O
+sync-signedin-unverified = { $email } is nie geverifieer nie.
+sync-signedin-login-failure = Meld aan om { $email } te herkoppel.
+sync-sign-in =
+    .label = Meld aan
+    .accesskey = M
+sync-signedin-settings-header = Sync-instellings
+sync-signedin-settings-desc = Kies wat om tussen toestelle te sinkroniseer met { -brand-short-name }.
 sync-engine-bookmarks =
     .label = Boekmerke
     .accesskey = m
 sync-engine-history =
     .label = Geskiedenis
     .accesskey = G
+sync-device-name-header = Toestelnaam
+sync-device-name-change =
+    .label = Verander toestelnaam…
+    .accesskey = V
+sync-device-name-cancel =
+    .label = Kanselleer
+    .accesskey = n
+sync-device-name-save =
+    .label = Stoor
+    .accesskey = t
 sync-tos-link = Diensbepalings
+sync-fxa-privacy-notice = Privaatheidkennisgewing
 
 ## Privacy Section
 
