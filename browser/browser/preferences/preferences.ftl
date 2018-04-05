@@ -373,18 +373,49 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = Πάρτε μαζί σας το διαδίκτυο
+sync-signedout-description = Συγχρονίστε τους σελιδοδείκτες, το ιστορικό, τις καρτέλες, τους κωδικούς πρόσβασης, τα πρόσθετα, καθώς και τις προτιμήσεις σας σε όλες τις συσκευές σας.
+sync-signedout-account-title = Σύνδεση με ένα λογαριασμό Firefox
+sync-signedout-account-create = Δεν έχετε λογαριασμό; Ξεκινήστε
+    .accesskey = Γ
+sync-signedout-account-signin =
+    .label = Σύνδεση…
+    .accesskey = Σ
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Αλλαγή εικόνας προφίλ
+sync-disconnect =
+    .label = Αποσύνδεση…
+    .accesskey = Α
+sync-manage-account = Διαχείριση λογαριασμού
+    .accesskey = η
 sync-signedin-unverified = { $email } Μη επαληθευμένος.
 sync-signedin-login-failure = Παρακαλούμε συνδεθείτε ξανά για επανασύνδεση { $email }
+sync-sign-in =
+    .label = Σύνδεση
+    .accesskey = σ
+sync-signedin-settings-header = Ρυθμίσεις Sync
+sync-signedin-settings-desc = Επιλέξτε τι θα συγχρονίζεται στις συσκευές σας με το { -brand-short-name }.
 sync-engine-bookmarks =
     .label = Σελιδοδείκτες
     .accesskey = δ
 sync-engine-history =
     .label = Ιστορικό
     .accesskey = ρ
+sync-engine-logins =
+    .label = Συνδέσεις
+    .tooltiptext = Ονόματα χρήστη και κωδικοί πρόσβασης που έχετε αποθηκεύσει
+    .accesskey = Σ
 sync-device-name-header = Όνομα συσκευής
+sync-device-name-change =
+    .label = Αλλαγή ονόματος συσκευής…
+    .accesskey = λ
+sync-mobilepromo-single = Σύνδεση άλλης συσκευής
+sync-mobilepromo-multi = Διαχείριση συσκευών
+sync-tos-link = Όροι υπηρεσίας
+sync-fxa-privacy-notice = Σημείωση απορρήτου
 
 ## Privacy Section
 
