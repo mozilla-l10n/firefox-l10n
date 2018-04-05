@@ -385,6 +385,22 @@ containers-preferences-button =
 containers-remove-button =
     .label = Lemel kuit
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-signedin-unverified = { $email } n'eo ket gwiriet.
+sync-signedin-login-failure = En em zilesait evit adkennaskañ { $email }
+sync-engine-bookmarks =
+    .label = Sinedoù
+    .accesskey = S
+sync-engine-history =
+    .label = Roll istor
+    .accesskey = R
+sync-tos-link = Divizoù arver
+sync-fxa-privacy-notice = Evezhiadennoù a-fet buhez prevez
+
 ## Privacy Section
 
 privacy-header = Prevezted ar merdeer
