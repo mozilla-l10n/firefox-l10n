@@ -376,6 +376,26 @@ containers-preferences-button =
 containers-remove-button =
     .label = हटाउनुहोस्
 
+## Sync Section - Signed out
+
+sync-signedout-description = सबै यन्त्रहरूमा आफ्नो पुस्तकचिनो, इतिहास, ट्याबहरू, गोप्यशब्दहरू, एडअनहरू, र प्राथमिकताहरू समक्रमण गर्नुहोस्।
+sync-signedout-account-title = एक { -fxaccount-brand-name } संग जडान गर्नुहोस्
+
+## Sync Section - Signed in
+
+sync-engine-bookmarks =
+    .label = पुस्तकचिनोहरू
+    .accesskey = m
+sync-engine-history =
+    .label = इतिहास
+    .accesskey = r
+sync-device-name-header = यन्त्रको नामः
+sync-device-name-cancel =
+    .label = रद्द गर्नुहोस्
+    .accesskey = n
+sync-tos-link = सेवाको सर्तहरू
+sync-fxa-privacy-notice = गोपनीयता नीति
+
 ## Privacy Section
 
 privacy-header = ब्राउजर गोपनीयता
