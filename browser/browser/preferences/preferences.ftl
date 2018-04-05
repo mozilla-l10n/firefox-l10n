@@ -383,6 +383,22 @@ containers-preferences-button =
 containers-remove-button =
     .label = Fjern
 
+## Sync Section - Signed out
+
+sync-signedout-caption = Ta med deg nettet
+sync-signedout-description = Synkroniser bokmerke, historikk, faner, passord, utvidingar og innstillingar på tvers av alle einingane dine.
+
+## Sync Section - Signed in
+
+sync-signedin-unverified = { $email } er ikkje stadfesta.
+sync-engine-bookmarks =
+    .label = Bokmerke
+    .accesskey = B
+sync-engine-history =
+    .label = Historikk
+    .accesskey = H
+sync-tos-link = Tenestevilkår
+
 ## Privacy Section
 
 privacy-header = Nettlesarpersonvern
