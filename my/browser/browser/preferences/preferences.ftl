@@ -377,14 +377,44 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = ဝဘ်ကို သင့်နဲ့အတူ ခေါ်ဆောင်သွားပါ
+sync-signedout-description = သင့်ကိရိယာအားလုံးရှိ စာမှတ်များ၊ မှတ်တမ်း၊ စာမျက်နှာများ၊ စကားဝှက်များ၊ အတ်အွန်များနှင့် အပြင်အဆင်များကို တစ်ပြေးညီဖြစ်စေပါ။
 sync-signedout-account-title = { -fxaccount-brand-name } ကို အသုံးပြုပြီး ချိတ်ဆက်ရန်
 
 ## Sync Section - Signed in
 
 sync-profile-picture =
     .tooltiptext = ပရိုဖိုင်းရုပ်ပုံကို ပြောင်းလဲရန်
+sync-disconnect =
+    .label = ချိတ်ဆက်ဖြုတ်ရန်…
+    .accesskey = D
+sync-manage-account = အကောင့်ကို စီမံရန်
+    .accesskey = o
+sync-signedin-unverified = { $email } ​ကို အတည်မပြုရသေးပါ။
+sync-signedin-login-failure = ပြန်လည်ချိတ်ဆက်ရန် အကောင့်ဖြင့် ဝင်ရောက်ပါ { $email }
+sync-sign-in =
+    .label = ဝင်ပါ
+    .accesskey = g
+sync-signedin-settings-header = Sync အပြင်အဆင်များ
+sync-signedin-settings-desc = { -brand-short-name } ကို အသုံးပြုပြီး သင်၏ ကိရိယာများတွင် ပြိုင်တူလုပ်မည့်အရာများကို ရွေးပါ။
+sync-engine-bookmarks =
+    .label = စာမှတ်များ
+    .accesskey = m
+sync-engine-history =
+    .label = မှတ်တမ်း
+    .accesskey = r
 sync-device-name-header = ကိရိယာအမည်
+sync-device-name-change =
+    .label = ကိရိယာအမည်ကို ပြောင်းလဲရန်…
+    .accesskey = h
+sync-device-name-cancel =
+    .label = မဆောင်ရွက်တော့ပါ
+    .accesskey = n
+sync-device-name-save =
+    .label = သိမ်းဆည်းပါ
+    .accesskey = v
 sync-tos-link = အသုံးပြုချိန်တွင်လိုက်နာရမည့်အချက်များ
+sync-fxa-privacy-notice = ကိုယ်ရေးကာကွယ်မှု သတိပေးချက်
 
 ## Privacy Section
 
