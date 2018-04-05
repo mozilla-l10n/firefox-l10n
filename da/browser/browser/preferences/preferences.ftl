@@ -364,6 +364,8 @@ containers-remove-button =
 
 ## Sync Section - Signed in
 
+sync-signedin-unverified = { $email } er ikke blevet bekræftet.
+sync-signedin-login-failure = Log ind for at synkronisere { $email }
 sync-engine-bookmarks =
     .label = Bogmærker
     .accesskey = B
