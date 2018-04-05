@@ -284,6 +284,13 @@ containers-preferences-button =
 containers-remove-button =
     .label = លុប​ចេញ
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-tos-link = លក្ខខ័ណ្ឌ​សេវាកម្ម
+
 ## Privacy Section
 
 
