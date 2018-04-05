@@ -387,17 +387,82 @@ containers-remove-button =
 sync-signedout-caption = Вземете Мрежата със себе си
 sync-signedout-description = Синхронизирайте вашите отметки, история, раздели, добавки и настройки с всички ваши устройства.
 sync-signedout-account-title = Свържете ги с { -fxaccount-brand-name }
+sync-signedout-account-create = Нямате профил? Регистриране
+    .accesskey = р
+sync-signedout-account-signin =
+    .label = Вписване…
+    .accesskey = в
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Промяна снимката на профила
+sync-disconnect =
+    .label = Изключване…
+    .accesskey = И
+sync-manage-account = Управление на сметката
+    .accesskey = У
 sync-signedin-unverified = { $email } не е проверен.
 sync-signedin-login-failure = Моля, впишете се, за да се свържете наново { $email }
+sync-resend-verification =
+    .label = Повторно изпращане на потвърждение
+    .accesskey = в
+sync-remove-account =
+    .label = Премахване на сметка
+    .accesskey = п
+sync-sign-in =
+    .label = Вписване
+    .accesskey = В
+sync-signedin-settings-header = Настройки за синхронизиране
+sync-signedin-settings-desc = Изберете какво да бъде синхронизирано на вашите устройства, използващи { -brand-short-name }.
 sync-engine-bookmarks =
     .label = Отметки
     .accesskey = О
 sync-engine-history =
     .label = История
     .accesskey = И
+sync-engine-tabs =
+    .label = Отворени раздели
+    .tooltiptext = Списък с разделите от всички устройства
+    .accesskey = р
+sync-engine-logins =
+    .label = Регистрации
+    .tooltiptext = Запазени потребителски имена и пароли
+    .accesskey = Р
+sync-engine-addresses =
+    .label = Адреси
+    .tooltiptext = Запазени адреси (само от настолния)
+    .accesskey = а
+sync-engine-creditcards =
+    .label = Банкови карти
+    .tooltiptext = Имена, номера и дати на изтичане (само от настолния)
+    .accesskey = н
+sync-engine-addons =
+    .label = Добавки
+    .tooltiptext = Разширения и теми за настолния Firefox
+    .accesskey = в
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Настройки
+           *[other] Настройки
+        }
+    .tooltiptext = Променени настройки
+    .accesskey = Н
+sync-device-name-header = Име на текущото устройство
+sync-device-name-change =
+    .label = Преименуване…
+    .accesskey = м
+sync-device-name-cancel =
+    .label = Отказ
+    .accesskey = о
+sync-device-name-save =
+    .label = Запазване
+    .accesskey = З
+sync-mobilepromo-single = Добавяне на устройство
+sync-mobilepromo-multi = Управление на устройства
+sync-tos-link = Условия на услугата
+sync-fxa-privacy-notice = Политика на поверителност
 
 ## Privacy Section
 
