@@ -363,6 +363,37 @@ containers-preferences-button =
 containers-remove-button =
     .label = Kwany
 
+## Sync Section - Signed out
+
+sync-signedout-caption = Ter Kakube ni kwedi
+sync-signedout-description = Rib alamabuk, gin mukato, dirica matino, mung me donyo, med-ikome ki ter i nyonyo ni weng.
+sync-signedout-account-title = Kube ki { -fxaccount-brand-name }
+
+## Sync Section - Signed in
+
+sync-signedin-unverified = { $email } pe ki moko ada ne.
+sync-signedin-login-failure = Tim ber i dony me kube odoco { $email }
+sync-signedin-settings-header = Ter me Ribo
+sync-signedin-settings-desc = Yer ngo me ariba i nyonyo ni ki { -brand-short-name }.
+sync-engine-bookmarks =
+    .label = Alama me buk
+    .accesskey = l
+sync-engine-history =
+    .label = Gin mukato
+    .accesskey = m
+sync-device-name-header = Nying Nyonyo
+sync-device-name-change =
+    .label = Lok nying nyonyo…
+    .accesskey = o
+sync-device-name-cancel =
+    .label = Ngol
+    .accesskey = o
+sync-device-name-save =
+    .label = Gwoki
+    .accesskey = o
+sync-tos-link = Cik me Tic
+sync-fxa-privacy-notice = Ngec me mung
+
 ## Privacy Section
 
 privacy-header = Mung pa layeny
