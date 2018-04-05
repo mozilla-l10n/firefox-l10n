@@ -292,6 +292,22 @@ containers-preferences-button =
 containers-remove-button =
     .label = Olib tashlash
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-signedin-unverified = { $email } tasdiqlanmagan.
+sync-signedin-login-failure = Qayta ulanish uchun kiring { $email }
+sync-engine-bookmarks =
+    .label = Xatchoʻplar
+    .accesskey = X
+sync-engine-history =
+    .label = Tarix
+    .accesskey = T
+sync-tos-link = Xizmat shartlari
+sync-fxa-privacy-notice = Maxfiylik ogohlantirishlari
+
 ## Privacy Section
 
 
