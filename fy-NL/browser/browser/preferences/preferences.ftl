@@ -385,6 +385,8 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-description = Syngronisearje jo blêdwizers, skiednis, ljepblêden, wachtwurden, add-ons en foarkarren op al jo apparaten.
+sync-signedout-account-title = Ferbining meitsje mei in { -fxaccount-brand-name }
 
 ## Sync Section - Signed in
 
@@ -396,6 +398,7 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Skiednis
     .accesskey = n
+sync-device-name-header = Apparaatnamme
 sync-tos-link = Tsjinstbetingsten (In)
 sync-fxa-privacy-notice = Privacy-opmerking
 
