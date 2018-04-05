@@ -37,6 +37,11 @@ search-input-box =
             [windows] Nong i me ayera
            *[other] Nong i ter
         }
+policies-notice =
+    { PLATFORM() ->
+        [windows] Dul mamegi ojuko woko kero me loko jami ayera mogo.
+       *[other] Dul mamegi ojuko woko kero me loko ter mogo.
+    }
 pane-general-title = Lumuku
 category-general =
     .tooltiptext = { pane-general-title }
@@ -274,10 +279,13 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = Dirica ki dirica matino manyen
+home-new-windows-tabs-description = Yer ngo ma ineno ka iyabo potbuk me acakki mamegi, dirica manyen, ki dirica matino manyen
 
 ## Home Section - Home Page Customization
 
 home-homepage-mode-label = Potbuk me acakki ki dirica manyen
+home-newtabs-mode-label = Dirica matino manyen
 home-restore-defaults =
     .label = Dwok makwongo
     .accesskey = D
@@ -368,6 +376,11 @@ containers-remove-button =
 sync-signedout-caption = Ter Kakube ni kwedi
 sync-signedout-description = Rib alamabuk, gin mukato, dirica matino, mung me donyo, med-ikome ki ter i nyonyo ni weng.
 sync-signedout-account-title = Kube ki { -fxaccount-brand-name }
+sync-signedout-account-create = Pe itye ki akaunt? Caki
+    .accesskey = c
+sync-signedout-account-signin =
+    .label = Dony iyie…
+    .accesskey = I
 
 ## Sync Section - Signed in
 
@@ -376,11 +389,16 @@ sync-profile-picture =
 sync-disconnect =
     .label = Juk kube…
     .accesskey = J
+sync-manage-account = Lo akaunt
+    .accesskey = o
 sync-signedin-unverified = { $email } pe ki moko ada ne.
 sync-signedin-login-failure = Tim ber i dony me kube odoco { $email }
 sync-resend-verification =
     .label = Nwo cwalo moko ada
     .accesskey = n
+sync-remove-account =
+    .label = Kwany akaunt
+    .accesskey = K
 sync-sign-in =
     .label = Dony iyie
     .accesskey = o
@@ -404,6 +422,10 @@ sync-engine-addresses =
     .label = Kanonge
     .tooltiptext = Kanonge me pocta ma igwoko (desktop keken)
     .accesskey = i
+sync-engine-creditcards =
+    .label = Kad me bank
+    .tooltiptext = Nying, namba ki nino dwe me tum (desktop keken)
+    .accesskey = K
 sync-engine-addons =
     .label = Med-ikome
     .tooltiptext = Lamed ki theme pi Firefox desktop
@@ -457,6 +479,7 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Gin mukato
+history-remember-description = { -brand-short-name } bi poo ikom yeny mamegi, gam, pwom ki yeny mukato.
 history-dontremember-description = { -brand-short-name } bi tic ki ter acel calo yeny me mung, ka pe bi poo ikom gin mukato mo keken kun nongo i yenyo Kakube.
 history-private-browsing-permanent =
     .label = Jwijwi tii ki kit yeny me mung
@@ -481,9 +504,18 @@ history-clear-button =
 
 sitedata-header = Angija ki Data me kakube
 sitedata-learn-more = Nong ngec mapol
+sitedata-accept-cookies-option =
+    .label = Yee angija ki data me kakube ki ii kakube (kicwako)
+    .accesskey = Y
 sitedata-block-cookies-option =
     .label = Geng angija ki data me kakube (twero weko kakube bale)
     .accesskey = G
+sitedata-keep-until = Gwok wang ma
+    .accesskey = a
+sitedata-keep-until-expire =
+    .label = Kare gitum ii
+sitedata-keep-until-closed =
+    .label = { -brand-short-name } olore oko
 sitedata-accept-third-party-always-option =
     .label = Jwijwi
 sitedata-accept-third-party-visited-option =
