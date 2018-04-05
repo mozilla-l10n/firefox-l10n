@@ -386,12 +386,34 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = Ia webul cu tine
+sync-signedout-description = Sincronizează marcajele, istoricul, filele, parolele, suplimentele și preferințele pe toate dispozitivele.
+sync-signedout-account-title = Conectează-te cu un { -fxaccount-brand-name }
 
 ## Sync Section - Signed in
 
+sync-signedin-unverified = { $email } nu este verificat.
+sync-signedin-login-failure = Te rugăm să te autentifici pentru reconectare { $email }
+sync-signedin-settings-header = Setări de sincronizare
+sync-signedin-settings-desc = Alege ce să sincronizezi pe dispozitive folosind { -brand-short-name }.
+sync-engine-bookmarks =
+    .label = Marcaje
+    .accesskey = M
 sync-engine-history =
     .label = Istoric
     .accesskey = r
+sync-device-name-header = Numele dispozitivului
+sync-device-name-change =
+    .label = Schimbă numele dispozitivului
+    .accesskey = h
+sync-device-name-cancel =
+    .label = Renunță
+    .accesskey = n
+sync-device-name-save =
+    .label = Salvează
+    .accesskey = v
+sync-tos-link = Termenii de utilizare a serviciului
+sync-fxa-privacy-notice = Politica de confidențialitate
 
 ## Privacy Section
 
