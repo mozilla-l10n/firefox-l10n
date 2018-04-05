@@ -42,6 +42,8 @@ sentence. -->
 <!ENTITY  browse.label                        "Selaa…">
 <!ENTITY  browse.accesskey                    "S">
 
+<!ENTITY messageStyleTab.title             "Viestityylit">
+<!ENTITY messageStylePreview.label         "Esikatselu:">
 <!ENTITY messageStyleTheme.label           "Teema:">
 <!ENTITY messageStyleTheme.accesskey       "T">
 <!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">

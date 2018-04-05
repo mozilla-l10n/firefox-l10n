@@ -5,3 +5,8 @@
 <!ENTITY dialog.title             "Muokkaa työkalupalkkia">
 <!ENTITY dialog.dimensions        "leveys: 92ch; korkeus: 36em;">
 <!ENTITY show.label               "Näytä:">
+<!ENTITY useSmallIcons.label      "Käytä pieniä kuvakkeita">
+<!ENTITY restoreDefaultSet.label  "Palauta oletusasetukset">
+<!ENTITY addNewToolbar.label      "Lisää uusi työkalupalkki">
+<!ENTITY saveChanges.label        "Valmis">
+<!ENTITY undoChanges.label        "Peruuta muutokset">

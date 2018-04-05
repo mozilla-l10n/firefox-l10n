@@ -112,6 +112,10 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 
 <!-- Reorder Attachment Panel -->
+<!ENTITY moveAttachmentTopPanelBtn.label "Siirrä ylimmäksi">
+<!ENTITY moveAttachmentUpPanelBtn.label "Siirrä ylöspäin">
+<!ENTITY moveAttachmentDownPanelBtn.label "Siirrä alaspäin">
+<!ENTITY moveAttachmentBottomPanelBtn.label "Siirrä alimmaksi">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -338,3 +342,4 @@
 <!ENTITY customizeFromAddress.accesskey "u">
 
 <!-- Status Bar -->
+<!ENTITY languageStatusButton.tooltip "Oikoluvun kieli">
