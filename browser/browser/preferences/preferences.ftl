@@ -359,8 +359,18 @@ sync-signedout-account-signin =
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Primijeni sliku profila
+sync-disconnect =
+    .label = Prekini vezu...
+    .accesskey = k
+sync-manage-account = Upravljanje računom
+    .accesskey = u
 sync-signedin-unverified = { $email } nije potvrđen.
 sync-signedin-login-failure = Za ponovno povezivanje, pokušajte se ponovno prijaviti { $email }
+sync-sign-in =
+    .label = Prijava
+    .accesskey = P
 sync-signedin-settings-header = Sync postavke
 sync-signedin-settings-desc = Odaberite što sinkronizirati na vašim uređajima koji koriste { -brand-short-name }.
 sync-engine-bookmarks =
@@ -379,6 +389,8 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Spremi
     .accesskey = e
+sync-mobilepromo-single = Povežite drugi uređaj
+sync-mobilepromo-multi = Upravljajte uređajima
 sync-tos-link = Uvjeti korištenja
 sync-fxa-privacy-notice = Pravila o privatnosti
 
