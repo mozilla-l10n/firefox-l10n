@@ -192,6 +192,8 @@
 <!ENTITY calendar.context.attendance.occ.declined.accesskey     "b">
 <!ENTITY calendar.context.attendance.occ.declined.label         "Baztertua">
 
+<!ENTITY calendar.context.attendance.all.completed.accesskey    "u">
+<!ENTITY calendar.context.attendance.all.completed.label        "Burututa">
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Aurrerapena">
