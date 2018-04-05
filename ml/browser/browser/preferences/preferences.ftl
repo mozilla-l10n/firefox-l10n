@@ -347,6 +347,8 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-description = നിങ്ങളുടെ അടയാളക്കുറിപ്പുകള്‍, നാള്‍വഴി, ടാബുകള്‍, രഹസ്യവാക്കുകള്‍, ആഡോണുകള്‍, ക്രമീകരണങ്ങള്‍ നിങ്ങളുടെ എല്ലാ ഡിവൈസുകളിലേക്കും പൊരുത്തപ്പെടുത്തുക.
+sync-signedout-account-title = { -fxaccount-brand-name } -ന്‍റെ ഒപ്പം കണക്റ്റ് ചെയ്യുക
 
 ## Sync Section - Signed in
 
@@ -356,7 +358,9 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = നാള്‍വഴി
     .accesskey = r
+sync-device-name-header = ഡിവൈസ് പേര്
 sync-tos-link = സേവന നിബന്ധനകള്‍
+sync-fxa-privacy-notice = സ്വകാര്യ പോളിസി
 
 ## Privacy Section
 
