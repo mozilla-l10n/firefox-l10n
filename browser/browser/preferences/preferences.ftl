@@ -137,6 +137,19 @@ search-keyword-warning-bookmark = Wëbróné kluczowé słowò je ju w ùżëcym
 ## Containers Section
 
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-engine-bookmarks =
+    .label = Załóżczi
+    .accesskey = Z
+sync-engine-history =
+    .label = Historiô
+    .accesskey = r
+sync-tos-link = Leżnoscë brëkòwaniô serwisu
+
 ## Privacy Section
 
 
