@@ -16,7 +16,7 @@
   -  This string and the following strings toggle various kinds of output
   -  filters. -->
 <!ENTITY btnPageNet.label   "เน็ต">
-<!ENTITY btnPageNet.tooltip "บันทึกกิจกรรมของการใช้เครือข่าย">
+<!ENTITY btnPageNet.tooltip "บันทึกการเข้าถึงเครือข่าย">
 <!ENTITY btnPageNet.accesskey "น">
 <!-- LOCALIZATION NOTE (btnPageNet.accesskeyMacOSX): This string is used as
   -  access key for the menu button that allows users to toggle the network
@@ -39,7 +39,7 @@
   -  the page for debugging purposes, using calls such console.log() and
   -  console.error(). -->
 <!ENTITY btnPageLogging.label   "การบันทึก">
-<!ENTITY btnPageLogging.tooltip "บันทึกข้อความที่ส่งไปยัง window.console">
+<!ENTITY btnPageLogging.tooltip "บันทึกข้อความที่ถูกส่งไปยังวัตถุ window.console">
 <!ENTITY btnConsoleErrors       "ข้อผิดพลาด">
 <!ENTITY btnConsoleInfo         "ข้อมูล">
 <!ENTITY btnConsoleWarnings     "คำเตือน">
