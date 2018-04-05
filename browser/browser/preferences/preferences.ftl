@@ -379,6 +379,57 @@ containers-preferences-button =
 containers-remove-button =
     .label = Eemalda
 
+## Sync Section - Signed out
+
+sync-signedout-account-create = Sul pole kontot? Tee algust
+    .accesskey = T
+sync-signedout-account-signin =
+    .label = Logi sisse…
+    .accesskey = o
+
+## Sync Section - Signed in
+
+sync-profile-picture =
+    .tooltiptext = Muuda profiilipilti
+sync-disconnect =
+    .label = Katkesta ühendus…
+    .accesskey = K
+sync-manage-account = Halda kontot
+    .accesskey = o
+sync-signedin-unverified = { $email } pole kinnitatud.
+sync-signedin-login-failure = Konto { $email } taasühendamiseks logi sisse
+sync-resend-verification =
+    .label = Saada kinnitamise e-kiri uuesti
+    .accesskey = k
+sync-remove-account =
+    .label = Eemalda konto
+    .accesskey = E
+sync-sign-in =
+    .label = Logi sisse
+    .accesskey = g
+sync-signedin-settings-header = Sünkroniseerimise sätted
+sync-signedin-settings-desc = Vali { -brand-short-name }i poolt sünkroniseeritavad andmed.
+sync-engine-logins =
+    .label = Kasutajakontod
+    .tooltiptext = Salvestatud kasutajanimed ja paroolid
+    .accesskey = u
+sync-engine-addresses =
+    .label = Aadressid
+    .tooltiptext = Salvestatud postiaadressid (toetatud ainult arvutis töötavad brauserid)
+    .accesskey = d
+sync-engine-creditcards =
+    .label = Krediitkaardid
+    .tooltiptext = Nimed, numbrid ja aegumiskuupäevad (toetatud ainult arvutis töötavad brauserid)
+    .accesskey = t
+sync-device-name-change =
+    .label = Muuda seadme nime…
+    .accesskey = M
+sync-device-name-cancel =
+    .label = Loobu
+    .accesskey = L
+sync-mobilepromo-single = Ühenda teine seade
+sync-mobilepromo-multi = Halda seadmeid
+
 ## Privacy Section
 
 privacy-header = Veebilehitseja privaatsus
