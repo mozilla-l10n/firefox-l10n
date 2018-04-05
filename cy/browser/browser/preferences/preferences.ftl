@@ -387,6 +387,13 @@ containers-preferences-button =
 containers-remove-button =
     .label = Tynnu
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-tos-link = Amodau Gwasanaeth
+
 ## Privacy Section
 
 privacy-header = Preifatrwydd y Porwr
