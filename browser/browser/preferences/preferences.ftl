@@ -385,6 +385,7 @@ containers-remove-button =
 ## Sync Section - Signed out
 
 sync-signedout-caption = Вземете Мрежата със себе си
+sync-signedout-description = Синхронизирайте вашите отметки, история, раздели, добавки и настройки с всички ваши устройства.
 sync-signedout-account-title = Свържете ги с { -fxaccount-brand-name }
 
 ## Sync Section - Signed in
