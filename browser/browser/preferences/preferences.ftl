@@ -400,6 +400,20 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = تأريخي
     .accesskey = خ
+sync-engine-addons =
+    .label = الإضافات
+    .tooltiptext = امتدادات و سمات لنسخة سطح المكتب من فَيَرفُكس
+    .accesskey = ت
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] الخيارات
+           *[other] التفضيلات
+        }
+    .tooltiptext = الإعدادات العامة، و إعدادات الخصوصية و الأمن التي غيرتها
+    .accesskey = ت
+sync-mobilepromo-single = أوصِل جهازا آخر
+sync-mobilepromo-multi = أدِر الأجهزة
 sync-tos-link = بنود الخدمة
 
 ## Privacy Section
