@@ -323,17 +323,42 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = Beir do Ghréasán féin leat
+sync-signedout-description = Siocrónaigh do chuid leabharmharcanna, stair, cluaisíní, focail fhaire, breiseáin, agus sainroghanna ar do ghléasanna go léir.
+sync-signedout-account-title = Ceangail le { -fxaccount-brand-name }
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Athraigh an pictiúr próifíle
+sync-disconnect =
+    .label = Dícheangail...
+    .accesskey = D
+sync-manage-account = Bainistigh mo chuntas
+    .accesskey = o
 sync-signedin-unverified = Níl { $email } deimhnithe.
 sync-signedin-login-failure = Logáil isteach chun athcheangal { $email }
+sync-sign-in =
+    .label = Logáil isteach
+    .accesskey = g
+sync-signedin-settings-header = Socruithe Sioncronaithe
+sync-signedin-settings-desc = Roghnaigh na rudaí le sioncronú ar do chuid gléasanna ag úsáid { -brand-short-name }.
 sync-engine-bookmarks =
     .label = Leabharmharcanna
     .accesskey = L
 sync-engine-history =
     .label = Stair
     .accesskey = r
+sync-device-name-header = Ainm an Ghléis
+sync-device-name-change =
+    .label = Athraigh Ainm an Ghléis
+    .accesskey = h
+sync-device-name-cancel =
+    .label = Cealaigh
+    .accesskey = g
+sync-device-name-save =
+    .label = Sábháil
+    .accesskey = b
 sync-tos-link = Téarmaí Seirbhíse
 sync-fxa-privacy-notice = Fógra Príobháideachais
 
