@@ -385,20 +385,83 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = Nim jo web mei jo mei
 sync-signedout-description = Syngronisearje jo blêdwizers, skiednis, ljepblêden, wachtwurden, add-ons en foarkarren op al jo apparaten.
 sync-signedout-account-title = Ferbining meitsje mei in { -fxaccount-brand-name }
+sync-signedout-account-create = Hawwe jo gjin account? Registrearje
+    .accesskey = o
+sync-signedout-account-signin =
+    .label = Oanmelde…
+    .accesskey = O
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Profylôfbylding wizigje
+sync-disconnect =
+    .label = Ferbining ferbrekke…
+    .accesskey = b
+sync-manage-account = Account beheare
+    .accesskey = h
 sync-signedin-unverified = { $email } is net ferifiearre.
 sync-signedin-login-failure = Meld jo oan om wer te ferbinen { $email }
+sync-resend-verification =
+    .label = Ferifikaasje opnij ferstjoere
+    .accesskey = f
+sync-remove-account =
+    .label = Account fuortsmite
+    .accesskey = A
+sync-sign-in =
+    .label = Oanmelde
+    .accesskey = m
+sync-signedin-settings-header = Syngronisaasjeynstellingen
+sync-signedin-settings-desc = Kieze wat jo syngronisearje wolle op jo apparaten dy't { -brand-short-name } brûke.
 sync-engine-bookmarks =
     .label = Blêdwizers
     .accesskey = w
 sync-engine-history =
     .label = Skiednis
     .accesskey = n
+sync-engine-tabs =
+    .label = Iepen ljeplêden
+    .tooltiptext = In list fan wat op alle syngronisearre apparaten iepene is
+    .accesskey = b
+sync-engine-logins =
+    .label = Oanmeldingen
+    .tooltiptext = Brûkersnammen en wachtwurden dy't jo bewarre hawwe
+    .accesskey = O
+sync-engine-addresses =
+    .label = Adressen
+    .tooltiptext = Bewarre adressen (allinnich desktop)
+    .accesskey = e
+sync-engine-creditcards =
+    .label = Creditcards
+    .tooltiptext = Nammen, nûmers en ferrindatums (allinnich desktop)
+    .accesskey = C
+sync-engine-addons =
+    .label = Add-ons
+    .tooltiptext = Utwreidingen en tema's foar Firefox foar desktop
+    .accesskey = A
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Opsjes
+           *[other] Foarkarren
+        }
+    .tooltiptext = Algemiene, privacy- en feilichheidsynstellingen dy't jo wizige hawwe
+    .accesskey = F
 sync-device-name-header = Apparaatnamme
+sync-device-name-change =
+    .label = Apparaatnamme wizigje…
+    .accesskey = p
+sync-device-name-cancel =
+    .label = Annulearje
+    .accesskey = e
+sync-device-name-save =
+    .label = Bewarje
+    .accesskey = B
+sync-mobilepromo-single = Noch in apparaat keppelje
+sync-mobilepromo-multi = Apparaten beheare
 sync-tos-link = Tsjinstbetingsten (In)
 sync-fxa-privacy-notice = Privacy-opmerking
 
