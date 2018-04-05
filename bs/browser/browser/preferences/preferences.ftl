@@ -359,6 +359,19 @@ containers-preferences-button =
 containers-remove-button =
     .label = Ukloni
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-engine-bookmarks =
+    .label = Zabilješke
+    .accesskey = Z
+sync-engine-history =
+    .label = Historiju
+    .accesskey = r
+sync-tos-link = Uslovi korištenja
+
 ## Privacy Section
 
 privacy-header = Privatnost browsera
