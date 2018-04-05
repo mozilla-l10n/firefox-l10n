@@ -269,6 +269,8 @@ containers-remove-button =
 
 ## Sync Section - Signed in
 
+sync-signedin-unverified = { $email } තහවුරු කර නොමැත
+sync-signedin-login-failure = කරුණාකර නැවත සබඳවීමට පිවිසෙන්න { $email }
 sync-engine-bookmarks =
     .label = පිටුසළකුණු
     .accesskey = m
@@ -276,6 +278,7 @@ sync-engine-history =
     .label = පෙරදෑ
     .accesskey = r
 sync-tos-link = සේවා කොන්දේසි
+sync-fxa-privacy-notice = පෞද්ගලිකත්ව දැන්වීම
 
 ## Privacy Section
 
