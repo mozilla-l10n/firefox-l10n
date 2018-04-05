@@ -377,6 +377,7 @@ sync-signedout-account-title = เชื่อมต่อกับ { -fxaccount
 
 ## Sync Section - Signed in
 
+sync-signedin-login-failure = โปรดลงชื่อเข้าเพื่อเชื่อมต่อใหม่ { $email }
 sync-engine-history =
     .label = ประวัติ
     .accesskey = ป
