@@ -376,12 +376,15 @@ containers-remove-button =
 
 ## Sync Section - Signed in
 
+sync-signedin-unverified = { $email } Μη επαληθευμένος.
+sync-signedin-login-failure = Παρακαλούμε συνδεθείτε ξανά για επανασύνδεση { $email }
 sync-engine-bookmarks =
     .label = Σελιδοδείκτες
     .accesskey = δ
 sync-engine-history =
     .label = Ιστορικό
     .accesskey = ρ
+sync-device-name-header = Όνομα συσκευής
 
 ## Privacy Section
 
