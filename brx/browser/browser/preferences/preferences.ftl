@@ -167,6 +167,22 @@ search-keyword-warning-bookmark = नोंथाङा बावैसो ब�
 ## Containers Section
 
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-signedin-unverified = { $email } थारबिजिरनाय जाया।
+sync-signedin-login-failure = फिन फोनांजाब खालामनो थाखाय साइन-इन खालाम { $email }
+sync-engine-bookmarks =
+    .label = बुकमाकॅफोर
+    .accesskey = म
+sync-engine-history =
+    .label = जारिमिन
+    .accesskey = म
+sync-tos-link = सिबिथायनि रादाय
+sync-fxa-privacy-notice = गुमुरथि मिथिसारहोनाय
+
 ## Privacy Section
 
 
