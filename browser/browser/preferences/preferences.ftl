@@ -374,7 +374,23 @@ containers-remove-button =
 
 ## Sync Section - Signed in
 
+sync-signedin-unverified = { $email } es pas verificat.
+sync-signedin-login-failure = Vos cal vos reconnectar { $email }
+sync-engine-bookmarks =
+    .label = Marcapaginas
+    .accesskey = M
+sync-engine-history =
+    .label = Istoric
+    .accesskey = r
+sync-device-name-header = Nom de l'aparelh
+sync-device-name-cancel =
+    .label = Anullar
+    .accesskey = n
+sync-device-name-save =
+    .label = Enregistrar
+    .accesskey = g
 sync-tos-link = Condicions d'utilizacion
+sync-fxa-privacy-notice = Politica de confidencialitat
 
 ## Privacy Section
 
