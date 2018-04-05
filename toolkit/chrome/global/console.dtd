@@ -20,8 +20,8 @@
 <!ENTITY clear.accesskey    "ล">
 <!ENTITY codeEval.label     "โค้ด:">
 <!ENTITY codeEval.accesskey "ค">
-<!ENTITY evaluate.label     "หาค่า">
-<!ENTITY evaluate.accesskey "ห">
+<!ENTITY evaluate.label     "ประเมิน">
+<!ENTITY evaluate.accesskey "ป">
 <!ENTITY filter2.label      "ตัวกรอง:">
 <!ENTITY filter2.accesskey  "ต">
 
