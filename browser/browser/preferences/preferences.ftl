@@ -388,11 +388,29 @@ containers-remove-button =
 sync-signedout-caption = Eraman ezazu weba zurekin
 sync-signedout-description = Sinkronizatu laster-markak, historia, fitxak, pasahitzak, gehigarriak eta hobespenak zure gailu guztien artean.
 sync-signedout-account-title = Konektatu { -fxaccount-brand-name } erabiliz
+sync-signedout-account-create = Ez daukazu konturik? Has gaitezen
+    .accesskey = k
+sync-signedout-account-signin =
+    .label = Hasi saioa…
+    .accesskey = H
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Aldatu profileko argazkia
+sync-disconnect =
+    .label = Deskonektatu…
+    .accesskey = D
+sync-manage-account = Kudeatu kontua
+    .accesskey = o
 sync-signedin-unverified = { $email } ez dago egiaztatuta.
 sync-signedin-login-failure = Hasi saioa berriro konektatzeko { $email }
+sync-resend-verification =
+    .label = Birbidali egiaztapena
+    .accesskey = B
+sync-sign-in =
+    .label = Hasi saioa
+    .accesskey = H
 sync-signedin-settings-header = Sinkronizazio-ezarpenak
 sync-signedin-settings-desc = Aukeratu zer sinkronizatuko den { -brand-short-name } darabilzun gailuen artean.
 sync-engine-bookmarks =
@@ -401,6 +419,34 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Historia
     .accesskey = H
+sync-engine-tabs =
+    .label = Irekitako fitxak
+    .tooltiptext = Sinkronizatutako gailu guztietan irekita dagoenaren zerrenda
+    .accesskey = t
+sync-engine-logins =
+    .label = Saio-hasierak
+    .tooltiptext = Gorde dituzun erabiltzaile-izen eta pasahitzak
+    .accesskey = S
+sync-engine-addresses =
+    .label = Helbideak
+    .tooltiptext = Gorde dituzun helbide postalak (mahaigainerako soilik)
+    .accesskey = e
+sync-engine-creditcards =
+    .label = Kreditu-txartelak
+    .tooltiptext = Izenak, zenbakiak eta iraungitze-datak (mahaigainerako soilik)
+    .accesskey = K
+sync-engine-addons =
+    .label = Gehigarriak
+    .tooltiptext = Mahaigaineko Firefoxerako hedapenak eta itxurak
+    .accesskey = G
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Aukerak
+           *[other] Hobespenak
+        }
+    .tooltiptext = Aldatu dituzun 'Orokorra', 'Pribatutasuna' eta 'Segurtasuna' ataletako ezarpenak
+    .accesskey = o
 sync-device-name-header = Gailuaren izena
 sync-device-name-change =
     .label = Aldatu gailuaren izena…
@@ -411,6 +457,8 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Gorde
     .accesskey = G
+sync-mobilepromo-single = Konektatu beste gailu bat
+sync-mobilepromo-multi = Kudeatu gailuak
 sync-tos-link = Zerbitzuaren baldintzak
 sync-fxa-privacy-notice = Pribatutasun-oharra
 
