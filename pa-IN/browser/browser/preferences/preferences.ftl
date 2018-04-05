@@ -349,6 +349,18 @@ containers-preferences-button =
 containers-remove-button =
     .label = ਹਟਾਓ
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-engine-bookmarks =
+    .label = ਬੁੱਕਮਾਰਕ
+    .accesskey = m
+sync-engine-history =
+    .label = ਅਤੀਤ
+    .accesskey = r
+
 ## Privacy Section
 
 privacy-header = ਬਰਾਊਜ਼ਰ ਪਰਦੇਦਾਰੀ
