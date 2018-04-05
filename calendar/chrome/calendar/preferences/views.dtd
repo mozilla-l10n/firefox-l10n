@@ -37,3 +37,5 @@
 <!ENTITY pref.numberofweeks.4 "4 aste">
 <!ENTITY pref.numberofweeks.5 "5 aste">
 <!ENTITY pref.numberofweeks.6 "6 aste">
+<!ENTITY pref.showlocation.label "Erakutsi kokapena">
+<!ENTITY pref.showlocation.accesskey "k">
