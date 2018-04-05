@@ -617,6 +617,7 @@
 
 <!ENTITY folderContextGetMessages.label "Pobierz wiadomości">
 <!ENTITY folderContextGetMessages.accesskey "P">
+<!ENTITY folderContextMarkAllFoldersRead.label "Oznacz wszystkie foldery jako przeczytane">
 <!ENTITY folderContextPauseAllUpdates.label "Wstrzymaj wszystkie aktualizacje">
 <!ENTITY folderContextPauseUpdates.label "Wstrzymaj aktualizacje">
 <!ENTITY folderContextPauseUpdates.accesskey "s">
