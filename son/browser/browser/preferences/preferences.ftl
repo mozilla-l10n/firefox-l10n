@@ -266,6 +266,19 @@ containers-add-button =
 containers-remove-button =
     .label = Kaa
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-engine-bookmarks =
+    .label = Doo-šilbawey
+    .accesskey = D
+sync-engine-history =
+    .label = Taariki
+    .accesskey = r
+sync-tos-link = Goy kalima-izey
+
 ## Privacy Section
 
 
