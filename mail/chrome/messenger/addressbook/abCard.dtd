@@ -45,6 +45,7 @@
 <!ENTITY PlainText.label                "Pelkkä teksti">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Tuntematon">
+<!ENTITY chatName.label                 "Chat-nimi:">
 
 <!ENTITY WorkPhone.label                "Työpuhelin:">
 <!ENTITY WorkPhone.accesskey            "y">
@@ -106,8 +107,44 @@
 
 <!ENTITY Other.tab                      "Muu">
 <!ENTITY Other.accesskey                "M">
+<!ENTITY Custom1.label                  "Oma 1:">
+<!ENTITY Custom1.accesskey              "1">
+<!ENTITY Custom2.label                  "Oma 2:">
+<!ENTITY Custom2.accesskey              "2">
+<!ENTITY Custom3.label                  "Oma 3:">
+<!ENTITY Custom3.accesskey              "3">
+<!ENTITY Custom4.label                  "Oma 4:">
+<!ENTITY Custom4.accesskey              "4">
+<!ENTITY Notes.label                    "Muistiinpanot:">
+<!ENTITY Notes.accesskey                "M">
 
+<!ENTITY Chat.tab                       "Keskustelut">
+<!ENTITY Chat.accesskey                 "e">
+<!ENTITY Gtalk.label                    "Google Talk:">
+<!ENTITY Gtalk.accesskey                "G">
+<!ENTITY AIM.label                      "AIM:">
+<!ENTITY AIM2.accesskey                 "M">
+<!ENTITY Yahoo.label                    "Yahoo!:">
+<!ENTITY Yahoo.accesskey                "Y">
+<!ENTITY Skype.label                    "Skype:">
+<!ENTITY Skype.accesskey                "S">
+<!ENTITY QQ.label                       "QQ:">
+<!ENTITY QQ.accesskey                   "Q">
+<!ENTITY MSN.label                      "MSN:">
+<!ENTITY MSN2.accesskey                 "N">
+<!ENTITY ICQ.label                      "ICQ:">
+<!ENTITY ICQ.accesskey                  "I">
+<!ENTITY XMPP.label                     "Jabber-tunnus:">
+<!ENTITY XMPP.accesskey                 "J">
+<!ENTITY IRC.label                      "IRC-tunnus:">
+<!ENTITY IRC.accesskey                  "R">
 
+<!ENTITY Photo.tab                      "Valokuva">
+<!ENTITY Photo.accesskey                "V">
+<!ENTITY PhotoDesc.label                "Valitse yksi seuraavista:">
+<!ENTITY GenericPhoto.label             "Yleinen kuva">
+<!ENTITY GenericPhoto.accesskey         "Y">
+<!ENTITY DefaultPhoto.label             "Oletus">
 <!ENTITY PhotoFile.label                "Tällä tietokoneella">
 <!ENTITY PhotoFile.accesskey            "T">
 <!ENTITY BrowsePhoto.label              "Selaa">
