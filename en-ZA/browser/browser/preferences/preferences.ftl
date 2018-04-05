@@ -189,16 +189,24 @@ search-keyword-warning-bookmark = You have chosen a keyword that is currently in
 
 ## Sync Section - Signed out
 
+sync-signedout-description = Synchronise your bookmarks, history, tabs, passwords, add-ons, and preferences across all your devices.
+sync-signedout-account-title = Connect with a { -fxaccount-brand-name }
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Change profile picture
+sync-signedin-unverified = ​ { $email } is not verified.
+sync-signedin-login-failure = Please sign in to reconnect { $email } ​
 sync-engine-bookmarks =
     .label = Bookmarks
     .accesskey = m
 sync-engine-history =
     .label = History
     .accesskey = r
+sync-device-name-header = Device Name
 sync-tos-link = Terms of Service
+sync-fxa-privacy-notice = Privacy Notice
 
 ## Privacy Section
 
