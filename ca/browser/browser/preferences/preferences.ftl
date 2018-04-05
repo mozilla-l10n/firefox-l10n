@@ -376,6 +376,7 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Historial
     .accesskey = r
+sync-tos-link = Condicions del servei
 sync-fxa-privacy-notice = Avís de privadesa
 
 ## Privacy Section
