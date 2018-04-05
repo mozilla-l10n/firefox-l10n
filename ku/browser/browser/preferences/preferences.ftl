@@ -150,6 +150,19 @@ search-keyword-warning-bookmark = Te peyveke kilît ku ji hêla bijareyê ve tê
 ## Containers Section
 
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-engine-bookmarks =
+    .label = Bijare
+    .accesskey = B
+sync-engine-history =
+    .label = Dîrok
+    .accesskey = r
+sync-tos-link = Termên Servîsê
+
 ## Privacy Section
 
 
