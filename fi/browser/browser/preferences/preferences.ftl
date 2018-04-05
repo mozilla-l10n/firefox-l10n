@@ -383,6 +383,26 @@ containers-preferences-button =
 containers-remove-button =
     .label = Poista
 
+## Sync Section - Signed out
+
+sync-signedout-caption = Pidä oma selain aina mukanasi
+sync-signedout-description = Synkronoi kirjanmerkit, sivuhistoria, välilehdet, salasanat, lisäosat ja asetukset kaikilla laitteillasi.
+sync-signedout-account-title = Yhdistä { -fxaccount-brand-name }in
+
+## Sync Section - Signed in
+
+sync-signedin-unverified = Sähköpostiosoitetta { $email } ei ole vahvistettu.
+sync-signedin-login-failure = Kirjaudu sisään palauttaaksesi osoitteen { $email } yhteyden
+sync-engine-bookmarks =
+    .label = Kirjanmerkit
+    .accesskey = K
+sync-engine-history =
+    .label = Sivuhistoria
+    .accesskey = S
+sync-device-name-header = Laitteen nimi
+sync-tos-link = Käyttöehdot
+sync-fxa-privacy-notice = Tietosuojakäytäntö
+
 ## Privacy Section
 
 privacy-header = Selaimen tietosuoja
