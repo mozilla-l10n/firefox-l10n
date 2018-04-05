@@ -387,6 +387,8 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = Vezměte si web s sebou
+sync-signedout-description = Synchronizujte své záložky, historii, panely, hesla, doplňky a předvolby ve všech svých zařízeních.
 
 ## Sync Section - Signed in
 
