@@ -375,6 +375,13 @@ containers-preferences-button =
 containers-remove-button =
     .label = ဖယ်ရှားပါ
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-tos-link = အသုံးပြုချိန်တွင်လိုက်နာရမည့်အချက်များ
+
 ## Privacy Section
 
 
