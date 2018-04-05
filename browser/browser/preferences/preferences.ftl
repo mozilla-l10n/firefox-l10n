@@ -366,18 +366,77 @@ containers-remove-button =
 sync-signedout-caption = Paņem tīmekli sev līdz
 sync-signedout-description = Sinhronizējiet vēsturi, grāmatzīmes, paroles, papildinājumus un iestatījumus visās jūsu izmantotajās ierīcēs.
 sync-signedout-account-title = Pieslēdzieties ar { -fxaccount-brand-name }
+sync-signedout-account-create = Nav konta? To var labot
+    .accesskey = N
+sync-signedout-account-signin =
+    .label = Pieslēgties…
+    .accesskey = P
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Mainīt profila attēlu
+sync-disconnect =
+    .label = Atslēgties…
+    .accesskey = T
+sync-manage-account = Pārvaldīt kontu
+    .accesskey = a
 sync-signedin-unverified = { $email } nav apstiprināts.
 sync-signedin-login-failure = Lūdzu pieslēdzieties, lai atjaunotu savienojumu { $email }
+sync-resend-verification =
+    .label = Nosūtīt vēlreiz
+    .accesskey = N
+sync-sign-in =
+    .label = Pieslēgties
+    .accesskey = p
+sync-signedin-settings-header = Sync iestatījumi
+sync-signedin-settings-desc = Izvēlēties, ko sinhronizēt ierīcē, izmantojot uz { -brand-short-name }.
 sync-engine-bookmarks =
     .label = Grāmatzīmes
     .accesskey = m
 sync-engine-history =
     .label = Vēsturi
     .accesskey = r
+sync-engine-tabs =
+    .label = Atvērtās cilnes
+    .tooltiptext = Saraksts ar atvērtajām lietām sinhronizētajās ierīcēs
+    .accesskey = C
+sync-engine-logins =
+    .label = Lietotājvārdi
+    .tooltiptext = Saglabātie lietotājvārdi un paroles
+    .accesskey = L
+sync-engine-addresses =
+    .label = Adreses
+    .tooltiptext = Saglabātās pasta adreses (tikai datora versijā)
+    .accesskey = a
+sync-engine-creditcards =
+    .label = Kredītkartes
+    .tooltiptext = Vārdi, numuri un derīguma termiņi (tikai datora versijā)
+    .accesskey = K
+sync-engine-addons =
+    .label = Papildinājumus
+    .tooltiptext = Firefox datoru versijas paplašinājumi un tēmas
+    .accesskey = a
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Iestatījumi
+           *[other] Iestatījumus
+        }
+    .tooltiptext = Izmainītie iestatījumi, privātums un drošība
+    .accesskey = s
 sync-device-name-header = Ierīces nosaukums
+sync-device-name-change =
+    .label = Mainīt ierīces nosaukumu…
+    .accesskey = n
+sync-device-name-cancel =
+    .label = Atcelt
+    .accesskey = n
+sync-device-name-save =
+    .label = Saglabāt
+    .accesskey = r
+sync-mobilepromo-single = Pievienot citu ierīci
+sync-mobilepromo-multi = Pārvaldīt ierīces
 sync-tos-link = Lietošanas noteikumi
 sync-fxa-privacy-notice = Privātuma piezīme
 
