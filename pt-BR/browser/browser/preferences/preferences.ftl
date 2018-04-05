@@ -388,6 +388,7 @@ containers-remove-button =
 
 ## Sync Section - Signed in
 
+sync-signedin-settings-header = Configurações do Sync
 sync-engine-bookmarks =
     .label = Favoritos
     .accesskey = F
