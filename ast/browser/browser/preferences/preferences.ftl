@@ -292,6 +292,39 @@ containers-preferences-button =
 containers-remove-button =
     .label = Desaniciar
 
+## Sync Section - Signed out
+
+sync-signedout-caption = Lleva la web contigo
+sync-signedout-description = Sincroniza los tos marcadores, historial, llingüetes, contraseñes, add-ons y preferencies pente tolos tos preseos.
+sync-signedout-account-title = Coneutar con una { -fxaccount-brand-name }
+
+## Sync Section - Signed in
+
+sync-profile-picture =
+    .tooltiptext = Camudar semeya de perfil
+sync-manage-account = Xestionar cuenta
+    .accesskey = o
+sync-signedin-unverified = { $email } nun ta verificada.
+sync-signedin-login-failure = Anicia sesión pa reconeutate, por favor { $email }
+sync-sign-in =
+    .label = Aniciar sesión
+    .accesskey = g
+sync-engine-bookmarks =
+    .label = Marcadores
+    .accesskey = m
+sync-engine-history =
+    .label = Historial
+    .accesskey = r
+sync-device-name-header = Nome del preséu
+sync-device-name-cancel =
+    .label = Encaboxar
+    .accesskey = n
+sync-device-name-save =
+    .label = Guardar
+    .accesskey = v
+sync-tos-link = Términos del serviciu
+sync-fxa-privacy-notice = Avisu de privacidá
+
 ## Privacy Section
 
 privacy-header = Privacidá del restolador
