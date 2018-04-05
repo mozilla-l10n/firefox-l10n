@@ -396,11 +396,24 @@ sync-signedout-account-signin =
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = प्रोफ़ाइल तस्वीर बदलें
+sync-disconnect =
+    .label = डिस्कनेक्ट करें...
+    .accesskey = D
+sync-manage-account = खाता प्रबंधित करें
+    .accesskey = o
 sync-signedin-unverified = { $email } सत्यापित नहीं है.
 sync-signedin-login-failure = फिर से कनेक्ट करने के लिए साइन इन करें { $email }
+sync-resend-verification =
+    .label = सत्यापन पुनः भेजें
+    .accesskey = d
 sync-remove-account =
     .label = खाता मिटायें
     .accesskey = R
+sync-sign-in =
+    .label = साइन इन
+    .accesskey = g
 sync-signedin-settings-header = समन्वयन सेटिंग
 sync-signedin-settings-desc = चुने, { -brand-short-name } का उपयोग करके अपने उपकरण पर क्या संकालित करना हैं.
 sync-engine-bookmarks =
@@ -409,6 +422,34 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = इतिहास
     .accesskey = r
+sync-engine-tabs =
+    .label = टैब खोलें
+    .tooltiptext = सभी संकलित उपकरणों पर खुली हुई वस्तुओं की सूची
+    .accesskey = T
+sync-engine-logins =
+    .label = लॉग इन
+    .tooltiptext = आपके द्वारा सहेजे गए उपयोगकर्ता नाम तथा पासवर्ड
+    .accesskey = L
+sync-engine-addresses =
+    .label = पता
+    .tooltiptext = आपके द्वारा सहेजे गए डाक पते (केवल डेस्कटॉप के लिए)
+    .accesskey = e
+sync-engine-creditcards =
+    .label = क्रेडिट कार्ड
+    .tooltiptext = नाम, संख्या और समाप्ति तिथि (केवल डेस्कटॉप के लिए)
+    .accesskey = C
+sync-engine-addons =
+    .label = सहयुक्तियाँ
+    .tooltiptext = Firefox डेस्कटॉप के लिए एक्सटेंशन और थीम
+    .accesskey = A
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] विकल्प
+           *[other] वरीयताएँ
+        }
+    .tooltiptext = आपके द्वारा परिवर्तित की गई सामान्य, गोपनीयता और सुरक्षा सेटिंग्स
+    .accesskey = s
 sync-device-name-header = डिवाइस का नाम
 sync-device-name-change =
     .label = उपकरण का नाम बदले…
@@ -419,6 +460,8 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = सहेजें
     .accesskey = v
+sync-mobilepromo-single = अन्य उपकरण जोड़ें
+sync-mobilepromo-multi = उपकरणों को प्रबंधित करें
 sync-tos-link = सेवा शर्त
 sync-fxa-privacy-notice = गोपनीयता नीति
 
