@@ -398,6 +398,7 @@
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Orokorra">
 <!ENTITY read.only.title.label           "Izenburua:">
+<!ENTITY read.only.calendar.label        "Egutegia:">
 <!ENTITY read.only.event.start.label     "Hasiera-data:">
 <!ENTITY read.only.task.start.label      "Hasiera-data:">
 <!ENTITY read.only.event.end.label       "Amaiera-data:">
@@ -416,3 +417,17 @@
 <!ENTITY read.only.attendees.label       "Partaideak">
 <!ENTITY read.only.description.label     "Azalpena">
 <!ENTITY read.only.link.label            "Erlazionatutako lotura">
+
+<!-- Summary dialog -->
+<!ENTITY summary.dialog.saveclose.label         "Gorde eta itxi">
+<!ENTITY summary.dialog.saveclose.tooltiptext   "Gorde aldaketak eta itxi leihoa partaidetza egoera aldatu gabe eta erantzunik bidali gabe">
+<!ENTITY summary.dialog.accept.label            "Onartu">
+<!ENTITY summary.dialog.accept.tooltiptext      "Onartu gonbidapena">
+<!ENTITY summary.dialog.tentative.label         "Behin-behinekoa">
+<!ENTITY summary.dialog.tentative.tooltiptext   "Onartu gonbidapena behin-behinean">
+<!ENTITY summary.dialog.decline.label           "Baztertu">
+<!ENTITY summary.dialog.decline.tooltiptext     "Baztertu gonbidapena">
+<!ENTITY summary.dialog.dontsend.label          "Ez bidali erantzunik">
+<!ENTITY summary.dialog.dontsend.tooltiptext    "Aldatu zure partaidetza egoera antolatzaileari erantzunik bidali gabe eta itxi leihoa">
+<!ENTITY summary.dialog.send.label              "Bidali erantzuna orain">
+<!ENTITY summary.dialog.send.tooltiptext        "Bidali erantzuna antolatzaileari  eta itxi leihoa">

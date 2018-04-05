@@ -85,7 +85,10 @@
 
 <!ENTITY lightning.imipbar.btnSend.label                                    "Bidali erantzuna orain">
 <!ENTITY lightning.imipbar.btnSend.tooltiptext                              "Bidali erantzuna antolatzaileari">
+<!ENTITY lightning.imipbar.btnSendSeries.tooltiptext                        "Bidali serie osorako erantzuna antolatzaileari">
 <!ENTITY lightning.imipbar.btnDontSend.label                                "Ez bidali erantzunik">
+<!ENTITY lightning.imipbar.btnDontSend.tooltiptext                          "Aldatu zure partaidetza egoera antolatzaileari erantzunik bidali gabe">
+<!ENTITY lightning.imipbar.btnDontSendSeries.tooltiptext                    "Aldatu zure partaidetza egoera serierako antolatzaileari erantzunik bidali gabe">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
