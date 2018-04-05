@@ -401,6 +401,7 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = História prehliadania
     .accesskey = H
+sync-device-name-header = Názov zariadenia
 sync-tos-link = Podmienky používania služby
 
 ## Privacy Section
