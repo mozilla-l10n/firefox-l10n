@@ -365,6 +365,8 @@ sync-signedout-account-title = { -fxaccount-brand-name } सह जोडा
 
 ## Sync Section - Signed in
 
+sync-signedin-unverified = { $email } चाचणी झाली नाही.
+sync-signedin-login-failure = पुन्हा जोडणीकरिता कृपया साइन करा { $email }
 sync-signedin-settings-header = ताळमेळ सेटिंग्ज
 sync-signedin-settings-desc = { -brand-short-name } वापरून आपल्या उपकरणांवर काय सिंक्रोनाईझ करायचे ते निवडा.
 sync-engine-bookmarks =
