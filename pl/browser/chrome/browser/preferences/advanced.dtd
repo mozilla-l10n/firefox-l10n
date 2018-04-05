@@ -52,6 +52,7 @@
 
 <!ENTITY httpCache.label                 "Treści w pamięci podręcznej">
 <!ENTITY siteData.label "Dane stron">
+<!ENTITY siteData1.label "Ciasteczka i dane stron">
 <!ENTITY clearSiteData.label "Wyczyść wszystkie dane">
 <!ENTITY clearSiteData.accesskey "a">
 <!ENTITY clearSiteData1.label "Wyczyść dane">

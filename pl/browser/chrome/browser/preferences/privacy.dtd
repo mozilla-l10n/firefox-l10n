@@ -54,8 +54,14 @@
 
 <!ENTITY acceptCookies2.label "Akceptowanie ciasteczek">
 <!ENTITY acceptCookies2.accesskey "A">
+<!ENTITY acceptCookies3.label "Akceptowanie ciasteczek i danych stron">
+<!ENTITY acceptCookies3.accesskey "">
 <!ENTITY acceptThirdParty2.pre.label "Akceptowanie ciasteczek witryn zewnętrznych podmiotów:">
 <!ENTITY acceptThirdParty2.pre.accesskey "n">
+<!ENTITY blockCookies.label "Blokowanie ciasteczek i danych stron (może powodować problemy)">
+<!ENTITY blockCookies.accesskey "">
+<!ENTITY acceptThirdParty3.pre.label "Akceptowanie ciasteczek i danych stron witryn zewnętrznych podmiotów:">
+<!ENTITY acceptThirdParty3.pre.accesskey "">
 <!ENTITY acceptThirdParty.always.label "zawsze">
 <!ENTITY acceptThirdParty.never.label "nigdy">
 <!ENTITY acceptThirdParty.visited.label "z odwiedzonych">
