@@ -653,7 +653,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaHideControls.accesskey "ค">
 <!ENTITY videoFullScreen.label       "เต็มหน้าจอ">
 <!ENTITY videoFullScreen.accesskey   "จ">
-<!ENTITY videoSaveImage.label        "บันทึก Snapshot เป็น…">
+<!ENTITY videoSaveImage.label        "บันทึกสแนปช็อตเป็น…">
 <!ENTITY videoSaveImage.accesskey    "บ">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
