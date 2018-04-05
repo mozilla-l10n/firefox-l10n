@@ -389,21 +389,64 @@ sync-signedout-account-title = Повезивање са { -fxaccount-brand-name
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Промени профилну слику
+sync-disconnect =
+    .label = Прекини везу…
+    .accesskey = в
+sync-manage-account = Управљајте налогом
+    .accesskey = н
 sync-signedin-unverified = { $email } није потврђен.
 sync-signedin-login-failure = Пријавите се да бисте се поново повезали { $email }
+sync-resend-verification =
+    .label = Поново пошаљи верификацију
+    .accesskey = о
+sync-remove-account =
+    .label = Уклони налог
+    .accesskey = н
+sync-sign-in =
+    .label = Пријави се
+    .accesskey = и
+sync-signedin-settings-header = Sync поставке
+sync-signedin-settings-desc = Изаберите шта да се синхронизује на вашем уређају користећи { -brand-short-name }.
 sync-engine-bookmarks =
     .label = Забелешке
     .accesskey = З
 sync-engine-history =
     .label = Историјат
     .accesskey = И
+sync-engine-tabs =
+    .label = Отворени језичци
+    .tooltiptext = Листа свега што је отворено на свим синхронизованим уређајима
+    .accesskey = Ј
+sync-engine-logins =
+    .label = Пријаве
+    .tooltiptext = Корисничка имена и лозинке које сте сачували
+    .accesskey = р
+sync-engine-addons =
+    .label = Додаци
+    .tooltiptext = Екстензије и теме за Firefox десктоп
+    .accesskey = Д
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Поставке
+           *[other] Поставке
+        }
+    .tooltiptext = Опште, поставке приватности и безбедности које сте изменили
+    .accesskey = П
 sync-device-name-header = Име уређаја
+sync-device-name-change =
+    .label = Измени име уређаја…
+    .accesskey = у
 sync-device-name-cancel =
     .label = Откажи
     .accesskey = т
 sync-device-name-save =
     .label = Сачувај
     .accesskey = ч
+sync-mobilepromo-single = Повежите други уређај
+sync-mobilepromo-multi = Управљајте уређајима
 sync-tos-link = Услови коришћења услуге
 sync-fxa-privacy-notice = Обавештење о приватности
 
