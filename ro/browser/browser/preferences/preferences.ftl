@@ -458,6 +458,8 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Salvează
     .accesskey = v
+sync-mobilepromo-single = Conectează alt dispozitiv
+sync-mobilepromo-multi = Gestionează dispozitivele
 sync-tos-link = Termenii de utilizare a serviciului
 sync-fxa-privacy-notice = Politica de confidențialitate
 
