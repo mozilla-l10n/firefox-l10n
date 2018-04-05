@@ -380,18 +380,80 @@ containers-remove-button =
 sync-signedout-caption = 把 Web 隨身帶著走
 sync-signedout-description = 在您所有裝置間同步書籤、歷史紀錄、分頁、密碼、附加元件與偏好設定。
 sync-signedout-account-title = 連線到 { -fxaccount-brand-name }
+sync-signedout-account-create = 沒有帳號嗎？開始使用
+    .accesskey = C
+sync-signedout-account-signin =
+    .label = 登入…
+    .accesskey = I
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = 更改個人資料照片
+sync-disconnect =
+    .label = 斷線…
+    .accesskey = D
+sync-manage-account = 管理帳號
+    .accesskey = o
 sync-signedin-unverified = { $email } 未驗證。
 sync-signedin-login-failure = 請登入以重新連線 { $email }
+sync-resend-verification =
+    .label = 重寄驗證信
+    .accesskey = d
+sync-remove-account =
+    .label = 移除帳號
+    .accesskey = p
+sync-sign-in =
+    .label = 登入
+    .accesskey = g
+sync-signedin-settings-header = 同步設定
+sync-signedin-settings-desc = 選擇要同步哪些資料到您其他使用 { -brand-short-name } 的裝置上。
 sync-engine-bookmarks =
     .label = 書籤
     .accesskey = m
 sync-engine-history =
     .label = 瀏覽紀錄
     .accesskey = r
+sync-engine-tabs =
+    .label = 開啟分頁
+    .tooltiptext = 所有同步設備中，開啟的網頁清單
+    .accesskey = T
+sync-engine-logins =
+    .label = 登入資訊
+    .tooltiptext = 您儲存的使用者名稱與密碼
+    .accesskey = L
+sync-engine-addresses =
+    .label = 地址
+    .tooltiptext = 您儲存的郵政地址（僅桌機）
+    .accesskey = e
+sync-engine-creditcards =
+    .label = 信用卡
+    .tooltiptext = 姓名、卡號及到期日（僅桌機）
+    .accesskey = C
+sync-engine-addons =
+    .label = 附加元件
+    .tooltiptext = Firefox 桌機版的擴充套件與佈景主題
+    .accesskey = A
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] 選項
+           *[other] 偏好設定
+        }
+    .tooltiptext = 您調整過的一般、隱私權、安全性設定
+    .accesskey = s
 sync-device-name-header = 裝置名稱
+sync-device-name-change =
+    .label = 更改裝置名稱…
+    .accesskey = h
+sync-device-name-cancel =
+    .label = 取消
+    .accesskey = n
+sync-device-name-save =
+    .label = 儲存
+    .accesskey = v
+sync-mobilepromo-single = 連結其他裝置
+sync-mobilepromo-multi = 管理裝置
 sync-tos-link = 服務條款
 sync-fxa-privacy-notice = 隱私權公告
 
