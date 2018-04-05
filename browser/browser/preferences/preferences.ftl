@@ -349,6 +349,13 @@ containers-preferences-button =
 containers-remove-button =
     .label = Loại bỏ
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-tos-link = Điều khoản Dịch vụ
+
 ## Privacy Section
 
 privacy-header = Duyệt web riêng tư
