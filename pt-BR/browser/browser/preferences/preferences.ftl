@@ -385,17 +385,73 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = Leve a web com você
+sync-signedout-description = Sincronizar seus favoritos, histórico, abas, senhas, extensões e preferências entre os seus dispositivos.
+sync-signedout-account-title = Conectar com uma { -fxaccount-brand-name }
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Alterar imagem do perfil
+sync-disconnect =
+    .label = Desconectar…
+    .accesskey = D
+sync-manage-account = Gerenciar conta
+    .accesskey = o
+sync-signedin-unverified = { $email } não foi verificado.
+sync-signedin-login-failure = Por favor, entrar para reconectar { $email }
+sync-resend-verification =
+    .label = Reenviar verificação
+    .accesskey = r
+sync-sign-in =
+    .label = Entrar
+    .accesskey = t
 sync-signedin-settings-header = Configurações do Sync
+sync-signedin-settings-desc = Escolha o que sincronizar em seus dispositivos usando o { -brand-short-name }.
 sync-engine-bookmarks =
     .label = Favoritos
     .accesskey = F
 sync-engine-history =
     .label = Histórico
     .accesskey = H
+sync-engine-tabs =
+    .label = Abas abertas
+    .tooltiptext = Uma lista do que está aberto em todos os dispositivos sincronizados
+    .accesskey = A
+sync-engine-logins =
+    .label = Contas de acesso
+    .tooltiptext = Nomes de usuário e senhas que você salvou
+    .accesskey = L
+sync-engine-addresses =
+    .label = Endereços
+    .tooltiptext = Endereços postais que você salvou (computador apenas)
+    .accesskey = e
+sync-engine-creditcards =
+    .label = Cartões de crédito
+    .tooltiptext = Nomes, números e datas de expiração (computador apenas)
+    .accesskey = C
+sync-engine-addons =
+    .label = Extensões
+    .tooltiptext = Extensões e temas para o Firefox no computador
+    .accesskey = x
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Opções
+           *[other] Preferências
+        }
+    .tooltiptext = Configurações gerais, de privacidade e de segurança que você alterou
+    .accesskey = P
 sync-device-name-header = Nome do dispositivo
+sync-device-name-change =
+    .label = Alterar nome do dispositivo…
+    .accesskey = h
+sync-device-name-cancel =
+    .label = Cancelar
+    .accesskey = n
+sync-device-name-save =
+    .label = Salvar
+    .accesskey = v
 sync-tos-link = Termos de serviço
 
 ## Privacy Section
