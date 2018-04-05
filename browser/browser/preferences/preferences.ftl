@@ -403,6 +403,12 @@ sync-engine-history =
     .label = Zgodovino
     .accesskey = d
 sync-device-name-header = Ime naprave
+sync-device-name-cancel =
+    .label = Prekliči
+    .accesskey = P
+sync-device-name-save =
+    .label = Shrani
+    .accesskey = S
 sync-tos-link = Pogoji uporabe
 sync-fxa-privacy-notice = Obvestilo o zasebnosti
 
