@@ -363,6 +363,85 @@ containers-preferences-button =
 containers-remove-button =
     .label = Hiqe
 
+## Sync Section - Signed out
+
+sync-signedout-caption = Merreni Web-in me vete
+sync-signedout-description = Njëkohësoni nëpër krejt pajisjet tuaja faqerojtësit, historikun e shfletimeve, skedat, fjalëkalimet, shtesat dhe parapëlqimet tuaja.
+sync-signedout-account-title = Lidhuni përmes një { -fxaccount-brand-name }
+sync-signedout-account-create = S'keni llogari? Fillojani
+    .accesskey = S
+sync-signedout-account-signin =
+    .label = Hyni…
+    .accesskey = y
+
+## Sync Section - Signed in
+
+sync-profile-picture =
+    .tooltiptext = Ndryshoni foto profili
+sync-disconnect =
+    .label = Shkëputeni…
+    .accesskey = S
+sync-manage-account = Administroni Llogari
+    .accesskey = A
+sync-signedin-unverified = { $email } nuk është i verifikuar.
+sync-signedin-login-failure = Ju lutemi, bëni hyrjen që të rilidheni { $email }
+sync-resend-verification =
+    .label = Ridërgo Verifikim
+    .accesskey = d
+sync-sign-in =
+    .label = Hyni
+    .accesskey = y
+sync-signedin-settings-header = Rregullime Njëkohësimesh
+sync-signedin-settings-desc = Zgjidhni ç'të njëkohësohet në pajisjet tuaja duke përdorur { -brand-short-name }-in.
+sync-engine-bookmarks =
+    .label = Faqerojtësit e Mi
+    .accesskey = F
+sync-engine-history =
+    .label = Historikun Tim
+    .accesskey = H
+sync-engine-tabs =
+    .label = Hapi Skedat
+    .tooltiptext = Një listë e çka të hapur në krejt pajisjet e njëkohësuara
+    .accesskey = S
+sync-engine-logins =
+    .label = Kredenciale hyrjesh
+    .tooltiptext = Emra përdoruesi dhe fjalëkalime qe keni ruajtur
+    .accesskey = K
+sync-engine-addresses =
+    .label = Adresa
+    .tooltiptext = Adresa postare që keni ruajtur (vetëm për desktop)
+    .accesskey = A
+sync-engine-creditcards =
+    .label = Karta krediti
+    .tooltiptext = Emra, numra dhe data skadimi (vetëm për desktop)
+    .accesskey = K
+sync-engine-addons =
+    .label = Shtesat e Mia
+    .tooltiptext = Zgjerime dhe tema për Firefox Desktop
+    .accesskey = t
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Mundësi
+           *[other] Parapëlqime
+        }
+    .tooltiptext = Të dhëna të Përgjithshme, Privatësie dhe Sigurie që i keni ndryshuar ju
+    .accesskey = P
+sync-device-name-header = Emër Pajisjeje
+sync-device-name-change =
+    .label = Ndryshoni Emër Pajisjeje…
+    .accesskey = N
+sync-device-name-cancel =
+    .label = Anuloje
+    .accesskey = A
+sync-device-name-save =
+    .label = Ruaje
+    .accesskey = u
+sync-mobilepromo-single = Lidhni një tjetër pajisje
+sync-mobilepromo-multi = Administroni pajisje
+sync-tos-link = Kushte Shërbimi
+sync-fxa-privacy-notice = Shënim Mbi Privatësinë
+
 ## Privacy Section
 
 privacy-header = Privatësi Shfletuesi
