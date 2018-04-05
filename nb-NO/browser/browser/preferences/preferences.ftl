@@ -383,6 +383,24 @@ containers-preferences-button =
 containers-remove-button =
     .label = Fjern
 
+## Sync Section - Signed out
+
+sync-signedout-caption = Ta med deg webben
+sync-signedout-description = Synkroniser bokmerker, historikk, faner, passord, utvidelser og innstillinger på tvers av alle enhetene dine.
+sync-signedout-account-title = Koble til en { -fxaccount-brand-name }
+
+## Sync Section - Signed in
+
+sync-signedin-unverified = { $email } er ikke bekreftet.
+sync-signedin-login-failure = Logg inn for å koble til på nytt { $email }
+sync-engine-bookmarks =
+    .label = Bokmerker
+    .accesskey = B
+sync-engine-history =
+    .label = Historikk
+    .accesskey = s
+sync-tos-link = Tjenestevilkår
+
 ## Privacy Section
 
 privacy-header = Nettleserpersonvern
