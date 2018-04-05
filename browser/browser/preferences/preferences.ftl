@@ -379,6 +379,30 @@ containers-preferences-button =
 containers-remove-button =
     .label = Eliminar
 
+## Sync Section - Signed out
+
+sync-signedout-account-create = ¿No tiene una cuenta? Comience ahora
+    .accesskey = C
+sync-signedout-account-signin =
+    .label = Conectarse…
+    .accesskey = C
+
+## Sync Section - Signed in
+
+sync-signedin-unverified = { $email } no está verificado.
+sync-signedin-login-failure = Inicie sesión para reconectar { $email }
+sync-signedin-settings-desc = Elija qué sincronizar en sus dispositivos usando { -brand-short-name }.
+sync-device-name-change =
+    .label = Cambiar nombre del dispositivo…
+    .accesskey = a
+sync-device-name-cancel =
+    .label = Cancelar
+    .accesskey = e
+sync-device-name-save =
+    .label = Guardar
+    .accesskey = u
+sync-fxa-privacy-notice = Aviso sobre privacidad
+
 ## Privacy Section
 
 privacy-header = Privacidad del navegador
