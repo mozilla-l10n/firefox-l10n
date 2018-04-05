@@ -367,6 +367,19 @@ containers-preferences-button =
 containers-remove-button =
     .label = Thoir air falbh
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-engine-bookmarks =
+    .label = na comharran-lìn agam
+    .accesskey = m
+sync-engine-history =
+    .label = an eachdraidh agam
+    .accesskey = r
+sync-tos-link = Teirmichean na Seirbheise
+
 ## Privacy Section
 
 privacy-header = Prìobhaideachd a’ bhrabhsair
