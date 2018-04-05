@@ -383,6 +383,17 @@ containers-preferences-button =
 containers-remove-button =
     .label = Ta bort
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-signedin-unverified = { $email } är inte verifierat.
+sync-signedin-login-failure = Logga in för att återansluta { $email }
+sync-engine-bookmarks =
+    .label = Bokmärken
+    .accesskey = B
+
 ## Privacy Section
 
 privacy-header = Webbläsarintegritet
