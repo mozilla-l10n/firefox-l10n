@@ -387,20 +387,83 @@ containers-remove-button =
 
 sync-signedout-caption = Ta med deg nettet
 sync-signedout-description = Synkroniser bokmerke, historikk, faner, passord, utvidingar og innstillingar på tvers av alle einingane dine.
+sync-signedout-account-title = Kople til ein { -fxaccount-brand-name }
+sync-signedout-account-create = Har du ikkje ein konto? Kom i gang
+    .accesskey = H
+sync-signedout-account-signin =
+    .label = Logg inn…
+    .accesskey = i
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Endre profilbilde
+sync-disconnect =
+    .label = Kople frå…
+    .accesskey = f
+sync-manage-account = Handter kontoen
+    .accesskey = k
 sync-signedin-unverified = { $email } er ikkje stadfesta.
+sync-signedin-login-failure = Logg inn for å kople til på nytt { $email }
+sync-resend-verification =
+    .label = Send stadfesting på nytt
+    .accesskey = S
+sync-remove-account =
+    .label = Fjern konto
+    .accesskey = k
+sync-sign-in =
+    .label = Logg inn
+    .accesskey = g
+sync-signedin-settings-header = Sync-innstillingar
+sync-signedin-settings-desc = Vel kva du vil synkronisere på einingane dine med { -brand-short-name }.
 sync-engine-bookmarks =
     .label = Bokmerke
     .accesskey = B
 sync-engine-history =
     .label = Historikk
     .accesskey = H
+sync-engine-tabs =
+    .label = Opne faner
+    .tooltiptext = Ei liste over kva som er ope på alle synkroniserte einingar
+    .accesskey = f
+sync-engine-logins =
+    .label = Innloggingar
+    .tooltiptext = Brukarnamn og passord du har lagra
+    .accesskey = l
+sync-engine-addresses =
+    .label = Adresser
+    .tooltiptext = Postadresser du har lagra (berre skrivebord)
+    .accesskey = e
+sync-engine-creditcards =
+    .label = Kredittkort
+    .tooltiptext = Namn, nummer og forfallsdato (berre skrivebord)
+    .accesskey = K
+sync-engine-addons =
+    .label = Utvidingar
+    .tooltiptext = Utvidingar og tema for Firefox desktop
+    .accesskey = U
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Innstillingar
+           *[other] Innstillingar
+        }
+    .tooltiptext = Generelle, personvern og sikkerheitsinnstillingar du har endra
+    .accesskey = n
+sync-device-name-header = Namn på eininga
+sync-device-name-change =
+    .label = Endre namn på eininga…
+    .accesskey = E
 sync-device-name-cancel =
     .label = Avbryt
     .accesskey = A
+sync-device-name-save =
+    .label = Lagre
+    .accesskey = L
+sync-mobilepromo-single = Kople til ei anna eining
+sync-mobilepromo-multi = Handter einingar
 sync-tos-link = Tenestevilkår
+sync-fxa-privacy-notice = Personvernerklæring
 
 ## Privacy Section
 
