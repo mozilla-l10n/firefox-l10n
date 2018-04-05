@@ -372,11 +372,29 @@ containers-remove-button =
 sync-signedout-caption = Thoir leat an lìon
 sync-signedout-description = Sioncronaich an eachdraidh, na comharran-lìn, na faclan-faire, tuilleadain is roghainnean agad air feadh nan uidheaman agad.
 sync-signedout-account-title = Dèan ceangal le { -fxaccount-brand-name }
+sync-signedout-account-create = Nach eil cunntas agad? Dèan toiseach-tòiseachaidh
+    .accesskey = C
+sync-signedout-account-signin =
+    .label = Clàraich a-steach...
+    .accesskey = I
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Atharraich dealbh na pròifil
+sync-disconnect =
+    .label = Dì-cheangail...
+    .accesskey = D
+sync-manage-account = Stiùirich an cunntas
+    .accesskey = n
 sync-signedin-unverified = Cha deach { $email } a dhearbhadh
 sync-signedin-login-failure = Clàraich a-steach airson ceangal ris a-rithist { $email }
+sync-resend-verification =
+    .label = Cuir an dearbhadh às ùr
+    .accesskey = d
+sync-sign-in =
+    .label = Clàraich a-steach
+    .accesskey = t
 sync-signedin-settings-header = Roghainnean sioncronachaidh
 sync-signedin-settings-desc = Cuir romhad na thèid a shioncronachadh le { -brand-short-name } air na h-uidheaman agad.
 sync-engine-bookmarks =
@@ -385,6 +403,34 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = an eachdraidh agam
     .accesskey = r
+sync-engine-tabs =
+    .label = Tabaichean fosgailte
+    .tooltiptext = Liosta dhe na tha fosgailte air gach uidheam sioncronaichte
+    .accesskey = T
+sync-engine-logins =
+    .label = Clàraidhean a-steach
+    .tooltiptext = Ainmean-cleachdaiche is faclan-faire a shàbhail thu
+    .accesskey = l
+sync-engine-addresses =
+    .label = Seòlaidhean
+    .tooltiptext = Seòlaidhean puist a shàbhail thu (desktop a-mhàin)
+    .accesskey = e
+sync-engine-creditcards =
+    .label = Cairtean-creideis
+    .tooltiptext = Ainmean, àireamhan is cinn-là a dh’fhalbhas an ùine air cairtean (desktop a-mhàin)
+    .accesskey = C
+sync-engine-addons =
+    .label = na tuilleadain
+    .tooltiptext = Leudachain is ùrlaran airson Firefox desktop
+    .accesskey = a
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Roghainnean
+           *[other] na roghainnean agam
+        }
+    .tooltiptext = Roghainnean coitcheann, prìobhaideachd is tèarainteachd a dh’atharraich thu
+    .accesskey = n
 sync-device-name-header = Ainm an uidheim
 sync-device-name-change =
     .label = Atharraich ainm an uidheim...
@@ -395,6 +441,8 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Sàbhail
     .accesskey = b
+sync-mobilepromo-single = Ceangail uidheam eile ris
+sync-mobilepromo-multi = Stiùirich na h-uidheaman
 sync-tos-link = Teirmichean na Seirbheise
 sync-fxa-privacy-notice = Sanas prìobhaideachd
 
