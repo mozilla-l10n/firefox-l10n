@@ -383,6 +383,11 @@ containers-remove-button =
 sync-signedout-caption = আপনার ওয়েব আপনার সঙ্গে নিন
 sync-signedout-description = আপনার সকল ডিভাইস জুড়ে আপনার বুকমার্ক, ইতিহাস, ট্যাব, পাসওয়ার্ড, অ্যাড টার্ন, এবং পছন্দ সিংক্রোনাইজ করুন.
 sync-signedout-account-title = { -fxaccount-brand-name } এর সাথে কানেক্ট করো
+sync-signedout-account-create = আপনার অ্যাকাউন্ট নেই? শুরু করুন
+    .accesskey = C
+sync-signedout-account-signin =
+    .label = সাইন ইন…
+    .accesskey = I
 
 ## Sync Section - Signed in
 
@@ -395,6 +400,9 @@ sync-manage-account = অ্যাকাউন্ট ব্যবস্থাপ
     .accesskey = o
 sync-signedin-unverified = { $email } যাচাই কৃত না
 sync-signedin-login-failure = পুনরায় সংযোগ স্থাপন করতে সাইন ইন করুন { $email }
+sync-remove-account =
+    .label = অ্যাকাউন্ট মুছুন
+    .accesskey = p
 sync-sign-in =
     .label = সাইন ইন
     .accesskey = g
