@@ -398,8 +398,24 @@ sync-signedout-account-signin =
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Змінити зображення профілю
+sync-disconnect =
+    .label = Від’єднатись…
+    .accesskey = В
+sync-manage-account = Керувати обліковим записом
+    .accesskey = К
 sync-signedin-unverified = { $email } не підтверджено.
 sync-signedin-login-failure = Увійдіть для повторного з'єднання { $email }
+sync-resend-verification =
+    .label = Повторно надіслати підтвердження
+    .accesskey = т
+sync-remove-account =
+    .label = Вилучити обліковий запис
+    .accesskey = л
+sync-sign-in =
+    .label = Увійти
+    .accesskey = У
 sync-signedin-settings-header = Налаштування Синхронізації
 sync-signedin-settings-desc = Оберіть, що потрібно синхронізувати на ваших пристроях за допомогою { -brand-short-name }.
 sync-engine-bookmarks =
@@ -408,6 +424,34 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Історію
     .accesskey = І
+sync-engine-tabs =
+    .label = Відкриті вкладки
+    .tooltiptext = Перелік вкладок, відкритих на всіх синхронізованих пристроях
+    .accesskey = В
+sync-engine-logins =
+    .label = Паролі
+    .tooltiptext = Імена користувача і паролі, які ви зберегли
+    .accesskey = П
+sync-engine-addresses =
+    .label = Адреси
+    .tooltiptext = Поштові адреси, які ви зберегли (тільки комп'ютер)
+    .accesskey = А
+sync-engine-creditcards =
+    .label = Кредитні картки
+    .tooltiptext = Імена, номери й терміни дії (тільки комп'ютер)
+    .accesskey = К
+sync-engine-addons =
+    .label = Додатки
+    .tooltiptext = Розширення і теми Firefox для комп'ютера
+    .accesskey = Д
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Налаштування
+           *[other] Налаштування
+        }
+    .tooltiptext = Налаштування, які ви змінили
+    .accesskey = Н
 sync-device-name-header = Назва пристрою
 sync-device-name-change =
     .label = Змінити…
@@ -418,6 +462,8 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Зберегти
     .accesskey = б
+sync-mobilepromo-single = Під'єднати інший пристрій
+sync-mobilepromo-multi = Керувати пристроями
 sync-tos-link = Умови надання послуги
 sync-fxa-privacy-notice = Повідомлення про приватність
 
