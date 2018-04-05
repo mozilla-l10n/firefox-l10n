@@ -149,6 +149,19 @@ search-keyword-warning-bookmark = Umechagua nenomsingi ambalo kwa sasa linatumiw
 ## Containers Section
 
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-engine-bookmarks =
+    .label = Alamisho
+    .accesskey = s
+sync-engine-history =
+    .label = Historia
+    .accesskey = r
+sync-tos-link = Masharti ya Huduma
+
 ## Privacy Section
 
 
