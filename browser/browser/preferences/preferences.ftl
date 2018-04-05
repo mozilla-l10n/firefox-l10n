@@ -392,6 +392,12 @@ containers-remove-button =
 
 ## Sync Section - Signed in
 
+sync-engine-bookmarks =
+    .label = Nodau Tudalen
+    .accesskey = T
+sync-engine-history =
+    .label = Hanes
+    .accesskey = H
 sync-tos-link = Amodau Gwasanaeth
 
 ## Privacy Section
