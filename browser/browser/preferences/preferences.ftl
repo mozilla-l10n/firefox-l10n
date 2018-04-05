@@ -361,19 +361,70 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = Tag dit net med dig
+sync-signedout-description = Synkroniser dine bogmærker, historik, faneblade, adgangskoder, tilføjelser og indstillinger mellem alle dine enheder.
+sync-signedout-account-title = Opret forbindelse med en { -fxaccount-brand-name }
+sync-signedout-account-create = Har du ingen konto? Opret én her
+    .accesskey = O
+sync-signedout-account-signin =
+    .label = Log ind…
+    .accesskey = i
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Skift profilbillede
+sync-manage-account = Håndter konto
+    .accesskey = H
 sync-signedin-unverified = { $email } er ikke blevet bekræftet.
 sync-signedin-login-failure = Log ind for at synkronisere { $email }
+sync-resend-verification =
+    .label = Send verifikation igen
+    .accesskey = d
+sync-sign-in =
+    .label = Log ind
+    .accesskey = L
+sync-signedin-settings-header = Indstillinger for synkronisering
+sync-signedin-settings-desc = Vælg, hvad der skal synkroniseres på dine enheder med { -brand-short-name } installeret.
 sync-engine-bookmarks =
     .label = Bogmærker
     .accesskey = B
 sync-engine-history =
     .label = Historik
     .accesskey = H
+sync-engine-tabs =
+    .label = Åbne faneblade
+    .tooltiptext = En liste over åbne faneblade på alle synkroniserede enheder
+    .accesskey = f
+sync-engine-addresses =
+    .label = Adresser
+    .tooltiptext = Gemte postadresser (kun til computer)
+    .accesskey = A
+sync-engine-creditcards =
+    .label = Betalingskort
+    .tooltiptext = Navne, numre og udløbsdatoer (kun til computer)
+    .accesskey = e
+sync-engine-addons =
+    .label = Tilføjelser
+    .tooltiptext = Tilføjelser og temaer til Firefox til computer
+    .accesskey = T
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Indstillinger
+           *[other] Indstillinger
+        }
+    .tooltiptext = Generelle indstillinger samt indstillinger for privatliv og sikkerhed
+    .accesskey = I
 sync-device-name-header = Enhedens navn
+sync-device-name-cancel =
+    .label = Annuller
+    .accesskey = n
+sync-device-name-save =
+    .label = Gem
+    .accesskey = G
 sync-tos-link = Tjenestevilkår
+sync-fxa-privacy-notice = Privatlivspolitik
 
 ## Privacy Section
 
