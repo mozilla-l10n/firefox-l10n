@@ -400,6 +400,12 @@ sync-engine-history =
     .label = Stöia
     .accesskey = S
 sync-device-name-header = Nomme dispoxitivo
+sync-device-name-cancel =
+    .label = Anulla
+    .accesskey = l
+sync-device-name-save =
+    .label = Sarva
+    .accesskey = v
 sync-tos-link = Termini do serviçio
 sync-fxa-privacy-notice = Informativa in sciâ privacy
 
