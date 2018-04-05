@@ -361,6 +361,11 @@ containers-remove-button =
 sync-signedout-caption = இணைத்தை உங்களுடன் வைத்திருங்கள்
 sync-signedout-description = புத்தகக்குறிகள், வரலாறு, கீற்றுகள், கடவுச்சொற்கள், துணை நிரல்கள், மற்றும் முன்னுரிமைகளை எல்லா கருவிகளிலும் ஒத்திசை.
 sync-signedout-account-title = { -fxaccount-brand-name } உடன் இணையுங்கள்
+sync-signedout-account-create = கணக்கு இல்லையா? தொடங்கவும்
+    .accesskey = C
+sync-signedout-account-signin =
+    .label = புகுபதிகை…
+    .accesskey = I
 
 ## Sync Section - Signed in
 
