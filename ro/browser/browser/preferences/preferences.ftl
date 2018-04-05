@@ -389,6 +389,11 @@ containers-remove-button =
 sync-signedout-caption = Ia webul cu tine
 sync-signedout-description = Sincronizează marcajele, istoricul, filele, parolele, suplimentele și preferințele pe toate dispozitivele.
 sync-signedout-account-title = Conectează-te cu un { -fxaccount-brand-name }
+sync-signedout-account-create = Nu ai un cont? Începe
+    .accesskey = C
+sync-signedout-account-signin =
+    .label = Autentifică-te…
+    .accesskey = I
 
 ## Sync Section - Signed in
 
