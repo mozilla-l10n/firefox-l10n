@@ -361,6 +361,22 @@ containers-preferences-button =
 containers-remove-button =
     .label = Noņemt
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-signedin-unverified = { $email } nav apstiprināts.
+sync-signedin-login-failure = Lūdzu pieslēdzieties, lai atjaunotu savienojumu { $email }
+sync-engine-bookmarks =
+    .label = Grāmatzīmes
+    .accesskey = m
+sync-engine-history =
+    .label = Vēsturi
+    .accesskey = r
+sync-tos-link = Lietošanas noteikumi
+sync-fxa-privacy-notice = Privātuma piezīme
+
 ## Privacy Section
 
 privacy-header = Pārlūka privātums
