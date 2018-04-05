@@ -385,6 +385,19 @@ containers-preferences-button =
 containers-remove-button =
     .label = Вилучити
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-engine-bookmarks =
+    .label = Закладки
+    .accesskey = З
+sync-engine-history =
+    .label = Історію
+    .accesskey = І
+sync-tos-link = Умови надання послуги
+
 ## Privacy Section
 
 privacy-header = Приватність браузера
