@@ -61,6 +61,8 @@ can reach it easily. -->
 <!ENTITY  closeTab.label                     "Tabblad sluiten">
 <!ENTITY  closeTab.accesskey                 "s">
 
+<!ENTITY  hiddenTabs.label                   "Verborgen tabbladen">
+
 <!ENTITY listAllTabs.label       "Alle tabbladtitels weergeven">
 
 <!ENTITY tabCmd.label "&#xad;Nieuw tabblad">
