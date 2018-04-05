@@ -385,6 +385,14 @@ containers-preferences-button =
 containers-remove-button =
     .label = Odstranit
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-signedin-unverified = Účet { $email } není ověřen.
+sync-signedin-login-failure = Pro přihlášení se znovu připojte { $email }
+
 ## Privacy Section
 
 privacy-header = Nastavení soukromí
