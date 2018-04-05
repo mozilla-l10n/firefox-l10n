@@ -20,3 +20,32 @@
 
 <!ENTITY finishpage.shortdescription  "Kalender loodud" >
 <!ENTITY finishpage.longdescription   "Sinu kalender on loodud." >
+
+<!-- Below are new strings for the revised new calendar dialog. The above strings should be
+    removed/renamed later on -->
+
+<!ENTITY sourcetabs.other.label  "Muu">
+
+<!ENTITY buttons.create.label "Loo kalender">
+<!ENTITY buttons.create.accesskey "L">
+
+<!ENTITY buttons.find.label "Otsi kalendreid">
+<!ENTITY buttons.find.accesskey "O">
+
+<!ENTITY buttons.back.label "Tagasi">
+<!ENTITY buttons.back.accesskey "g">
+
+<!ENTITY buttons.subscribe.label "Telli">
+<!ENTITY buttons.subscribe.accesskey "T">
+
+<!ENTITY calendartype.label "Kalendri tüüp:">
+<!ENTITY location.label "Asukoht:">
+<!ENTITY location.placeholder "Kalendriserveri URL või masinanimi">
+
+<!ENTITY network.nocredentials.label "See asukoht ei nõua parooli">
+<!ENTITY network.loading.description "Palun oota, kuni sinu kalendreid otsitakse.">
+<!ENTITY network.notfound.description "Sellest kohast kalendreid ei leitud. Palun veendu seadete õigsuses.">
+<!ENTITY network.authfail.description "Sisestatud mandaati ei aktsepteeritud. Palun kontrolli seadeid.">
+
+<!ENTITY network.subscribe.single.description "Palun vali kalendrid, mida soovid tellida.">
+<!ENTITY network.subscribe.multiple.description "Selles kohas on saadaval mitut tüüpi kalendreid. Palun vali kõigepealt kalendri tüüp, seejärel märgi, milliseid soovid tellida.">
