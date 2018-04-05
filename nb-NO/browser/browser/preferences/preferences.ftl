@@ -399,6 +399,13 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Historikk
     .accesskey = s
+sync-device-name-header = Enhetsnavn
+sync-device-name-cancel =
+    .label = Avbryt
+    .accesskey = A
+sync-device-name-save =
+    .label = Lagre
+    .accesskey = L
 sync-tos-link = Tjenestevilkår
 
 ## Privacy Section
