@@ -387,6 +387,37 @@ containers-preferences-button =
 containers-remove-button =
     .label = Wotstronić
 
+## Sync Section - Signed out
+
+sync-signedout-caption = Wzmiće swój web sobu
+sync-signedout-description = Synchronizujće swoje zapołožki, historiju, rajtarki, hesła, přidatki a nastajenja mjez wšěmi wašimi gratami.
+sync-signedout-account-title = Z { -fxaccount-brand-name } zwjazać
+
+## Sync Section - Signed in
+
+sync-signedin-unverified = { $email } njeje so přepruwował.
+sync-signedin-login-failure = Prošu zregistrujće so, zo byšće znowa zwjazał { $email }
+sync-signedin-settings-header = Nastajenja synchronizacije
+sync-signedin-settings-desc = Wubjerće, štož ma so z { -brand-short-name } na wašich gratach synchronizować.
+sync-engine-bookmarks =
+    .label = Zapołožki
+    .accesskey = Z
+sync-engine-history =
+    .label = Historiju
+    .accesskey = t
+sync-device-name-header = Mjeno grata
+sync-device-name-change =
+    .label = Mjeno grata změnić…
+    .accesskey = z
+sync-device-name-cancel =
+    .label = Přetorhnyć
+    .accesskey = t
+sync-device-name-save =
+    .label = Składować
+    .accesskey = k
+sync-tos-link = Słužbne wuměnjenja
+sync-fxa-privacy-notice = Zdźělenka priwatnosće
+
 ## Privacy Section
 
 privacy-header = Priwatnosć wobhladowaka
