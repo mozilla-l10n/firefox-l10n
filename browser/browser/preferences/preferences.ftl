@@ -399,7 +399,25 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Historial
     .accesskey = r
+sync-engine-addons =
+    .label = Complementos
+    .tooltiptext = Extensiones y temas para Firefox para escritorio
+    .accesskey = C
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Opciones
+           *[other] Preferencias
+        }
+    .tooltiptext = Configuraciones generales, de privacidad y de seguridad que has cambiado
+    .accesskey = s
 sync-device-name-header = Nombre del dispositivo
+sync-device-name-cancel =
+    .label = Cancelar
+    .accesskey = n
+sync-device-name-save =
+    .label = Guardar
+    .accesskey = v
 sync-tos-link = Términos del servicio
 sync-fxa-privacy-notice = Política de privacidad
 
