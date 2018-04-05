@@ -356,6 +356,16 @@ containers-preferences-button =
 containers-remove-button =
     .label = Löschen
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-engine-history =
+    .label = Chronik
+    .accesskey = C
+sync-tos-link = Nutzungsbedingungen
+
 ## Privacy Section
 
 privacy-header = Browser-Datenschutz
