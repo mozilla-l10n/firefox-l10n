@@ -249,6 +249,26 @@ search-keyword-warning-bookmark = A palabra clave que escolleu está a ser utili
 ## Containers Section
 
 
+## Sync Section - Signed out
+
+sync-signedout-caption = Leve a Web con vostede
+sync-signedout-description = Sincronice os marcadores, o historial, as lapelas, os contrasinais, os complementos e as preferencias en todos os seus dispositivos.
+sync-signedout-account-title = Conectar con { -fxaccount-brand-name }
+
+## Sync Section - Signed in
+
+sync-signedin-unverified = { $email } non está comprobado.
+sync-signedin-login-failure = Identifíquese para volver a conectarse { $email }
+sync-engine-bookmarks =
+    .label = Marcadores
+    .accesskey = M
+sync-engine-history =
+    .label = Historial
+    .accesskey = r
+sync-device-name-header = Nome do dispositivo
+sync-tos-link = Termos do servizo
+sync-fxa-privacy-notice = Política de privacidade
+
 ## Privacy Section
 
 privacy-header = Privacidade do navegador
