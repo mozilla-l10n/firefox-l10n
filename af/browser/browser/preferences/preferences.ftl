@@ -272,6 +272,19 @@ containers-add-button =
     .label = Voeg nuwe konteks by
     .accesskey = V
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-engine-bookmarks =
+    .label = Boekmerke
+    .accesskey = m
+sync-engine-history =
+    .label = Geskiedenis
+    .accesskey = G
+sync-tos-link = Diensbepalings
+
 ## Privacy Section
 
 
