@@ -350,6 +350,8 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = Bawalah Web bersama Anda
+sync-signedout-account-title = Sambungkan dengan { -fxaccount-brand-name }
 
 ## Sync Section - Signed in
 
@@ -360,6 +362,8 @@ sync-disconnect =
     .accesskey = P
 sync-manage-account = Kelola Akun
     .accesskey = o
+sync-signedin-unverified = { $email } tidak dapat diverifikasi.
+sync-signedin-login-failure = Mohon masuk untuk menyambungkan ulang { $email }
 sync-sign-in =
     .label = Masuk
     .accesskey = M
@@ -369,7 +373,14 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Riwayat
     .accesskey = w
+sync-device-name-cancel =
+    .label = Batal
+    .accesskey = B
+sync-device-name-save =
+    .label = Simpan
+    .accesskey = S
 sync-tos-link = Ketentuan Layanan
+sync-fxa-privacy-notice = Pernyataan Privasi
 
 ## Privacy Section
 
