@@ -351,7 +351,13 @@ containers-remove-button =
 ## Sync Section - Signed out
 
 sync-signedout-caption = Bawalah Web bersama Anda
+sync-signedout-description = Sinkronkan markah, riwayat, tab, sandi, pengaya, dan preferensi di berbagai peranti Anda.
 sync-signedout-account-title = Sambungkan dengan { -fxaccount-brand-name }
+sync-signedout-account-create = Tidak punya akun? Buatlah
+    .accesskey = B
+sync-signedout-account-signin =
+    .label = Masuk…
+    .accesskey = M
 
 ## Sync Section - Signed in
 
@@ -364,10 +370,14 @@ sync-manage-account = Kelola Akun
     .accesskey = o
 sync-signedin-unverified = { $email } tidak dapat diverifikasi.
 sync-signedin-login-failure = Mohon masuk untuk menyambungkan ulang { $email }
+sync-resend-verification =
+    .label = Kirim Ulang Verifikasi
+    .accesskey = u
 sync-sign-in =
     .label = Masuk
     .accesskey = M
 sync-signedin-settings-header = Pengaturan Sinkronisasi
+sync-signedin-settings-desc = Pilih apa saja yang akan disinkronkan pada peranti Anda yang menggunakan { -brand-short-name }.
 sync-engine-bookmarks =
     .label = Markah
     .accesskey = M
@@ -386,6 +396,18 @@ sync-engine-addons =
     .label = Pengaya
     .tooltiptext = Ekstensi dan tema untuk Firefox desktop
     .accesskey = y
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Pengaturan
+           *[other] Pengaturan
+        }
+    .tooltiptext = Setelan Umum, Privasi, dan Keamanan yang Anda ubah
+    .accesskey = P
+sync-device-name-header = Nama Peranti
+sync-device-name-change =
+    .label = Ubah Nama Peranti…
+    .accesskey = h
 sync-device-name-cancel =
     .label = Batal
     .accesskey = B
