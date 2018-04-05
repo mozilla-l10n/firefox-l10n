@@ -363,6 +363,21 @@ containers-preferences-button =
 containers-remove-button =
     .label = Suprimeix
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-signedin-unverified = { $email } no està verificat.
+sync-signedin-login-failure = Inicieu la sessió per tornar-vos a connectar { $email }
+sync-engine-bookmarks =
+    .label = Adreces d'interès
+    .accesskey = d
+sync-engine-history =
+    .label = Historial
+    .accesskey = r
+sync-fxa-privacy-notice = Avís de privadesa
+
 ## Privacy Section
 
 privacy-header = Privadesa del navegador
