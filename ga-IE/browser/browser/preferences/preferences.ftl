@@ -328,6 +328,13 @@ containers-remove-button =
 
 sync-signedin-unverified = Níl { $email } deimhnithe.
 sync-signedin-login-failure = Logáil isteach chun athcheangal { $email }
+sync-engine-bookmarks =
+    .label = Leabharmharcanna
+    .accesskey = L
+sync-engine-history =
+    .label = Stair
+    .accesskey = r
+sync-tos-link = Téarmaí Seirbhíse
 sync-fxa-privacy-notice = Fógra Príobháideachais
 
 ## Privacy Section
