@@ -388,11 +388,32 @@ containers-remove-button =
 sync-signedout-caption = Leva-te lo web con tu
 sync-signedout-description = Sincroniza os tuyos marcapachinas, historial, pestanyas, claus, complementos y preferencias entre totz os tuyos dispositivos.
 sync-signedout-account-title = Connectar con una { -fxaccount-brand-name }
+sync-signedout-account-create = No tiens encara cuenta? Empecipia
+    .accesskey = C
+sync-signedout-account-signin =
+    .label = Inicia la sesión…
+    .accesskey = I
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Cambiar a imachen de perfil
+sync-disconnect =
+    .label = Desconnectar...
+    .accesskey = D
+sync-manage-account = Chestionar la cuenta
+    .accesskey = t
 sync-signedin-unverified = { $email } no ye verificau.
 sync-signedin-login-failure = Enciete una sesión ta reconnectar { $email }
+sync-resend-verification =
+    .label = Reninviar la verificación
+    .accesskey = d
+sync-remove-account =
+    .label = Borrar la cuenta
+    .accesskey = o
+sync-sign-in =
+    .label = Connectar-se
+    .accesskey = g
 sync-signedin-settings-header = Achustes de sincronización
 sync-signedin-settings-desc = Trigar qué sincronizar en os tuyos dispostivos fendo servir { -brand-short-name }.
 sync-engine-bookmarks =
@@ -401,6 +422,34 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Historial
     .accesskey = r
+sync-engine-tabs =
+    .label = Ubrir las pestanyas
+    .tooltiptext = Un listau d'o que ye ubierto en totz los dispositivos sincronizaus
+    .accesskey = T
+sync-engine-logins =
+    .label = Inicios
+    .tooltiptext = Nombres d'usario y claus que has alzaus
+    .accesskey = I
+sync-engine-addresses =
+    .label = Adrezas
+    .tooltiptext = Adrezas postals que has alzadas (nomás pa sobremesa)
+    .accesskey = e
+sync-engine-creditcards =
+    .label = Tarchetas de credito
+    .tooltiptext = Nombres, numeros y calendatas de caducidat (nomás pa sobremesa)
+    .accesskey = c
+sync-engine-addons =
+    .label = Complementos
+    .tooltiptext = Extensions y temas pa lo Firefox de sobremesa
+    .accesskey = C
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Opcions
+           *[other] Preferencias
+        }
+    .tooltiptext = Achustes chenerals, de privacidat y de seguranza que has cambiaus
+    .accesskey = s
 sync-device-name-header = Nombre d'o dispositivo
 sync-device-name-change =
     .label = Cambiar lo nombre d'o dispositivo...
@@ -411,6 +460,8 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Alzar
     .accesskey = z
+sync-mobilepromo-single = Connectar con belatro dispositivo
+sync-mobilepromo-multi = Chestionar dispositivos
 sync-tos-link = Termins d'o Servicio
 sync-fxa-privacy-notice = Nota sobre privacidat
 
