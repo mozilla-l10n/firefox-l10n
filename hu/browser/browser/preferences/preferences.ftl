@@ -384,6 +384,7 @@ containers-remove-button =
 
 ## Sync Section - Signed in
 
+sync-signedin-login-failure = Jelentkezzen be  { $email } újracsatlakoztatásához
 sync-engine-bookmarks =
     .label = Könyvjelzők
     .accesskey = K
@@ -391,6 +392,7 @@ sync-engine-history =
     .label = Előzmények
     .accesskey = E
 sync-tos-link = A szolgáltatás feltételei
+sync-fxa-privacy-notice = Adatvédelmi megjegyzés
 
 ## Privacy Section
 
