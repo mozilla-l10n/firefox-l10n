@@ -163,6 +163,8 @@ search-keyword-warning-bookmark = ଆପଣ ଗୋଟିଏ ସୂଚକ ଶବ�
 
 ## Sync Section - Signed in
 
+sync-signedin-unverified = { $email } ଯାଞ୍ଚ କରାଯାଇ ନାହିଁ।
+sync-signedin-login-failure = ପୁନଃ ସଂଯୋଗ କରିବା ପାଇଁ ସାଇନ ଇନ କରନ୍ତୁ { $email }
 sync-engine-bookmarks =
     .label = ଚିହ୍ନିତ ସ୍ଥାନ
     .accesskey = m
@@ -170,6 +172,7 @@ sync-engine-history =
     .label = ପୁରୁଣା ତଥ୍ୟ
     .accesskey = r
 sync-tos-link = ସର୍ଭିସ ନିୟମାବଳୀ
+sync-fxa-privacy-notice = ଗୋପନୀୟତା ବିଜ୍ଞପ୍ତି
 
 ## Privacy Section
 
