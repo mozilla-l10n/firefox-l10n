@@ -358,6 +358,9 @@ containers-remove-button =
 
 ## Sync Section - Signed in
 
+sync-engine-bookmarks =
+    .label = Mga Bookmark
+    .accesskey = m
 sync-tos-link = Tuntunin ng Serbisyo
 
 ## Privacy Section
