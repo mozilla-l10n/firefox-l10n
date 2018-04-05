@@ -134,6 +134,27 @@ restore-default =
 ## Containers Section
 
 
+## Sync Section - Signed out
+
+sync-signedout-description = Dáamakɨ jone rigɨnua, jagaɨ, úitɨraɨ, fakara íemei ó gaɨga ráa ó jóriaɨmo.
+sync-signedout-account-title = Zɨtade { -fxaccount-brand-name }
+
+## Sync Section - Signed in
+
+sync-profile-picture =
+    .tooltiptext = Jɨaɨe jóreño ó náama mamekɨmo jóne
+sync-signedin-unverified = Fákara íyano... { $email } Naɨ éroñega.
+sync-signedin-login-failure = Ábɨno nitayena taɨne yuamo { $email } Ábɨno nitayena taɨne yuamo
+sync-engine-bookmarks =
+    .label = Rɨgɨnua
+    .accesskey = R
+sync-engine-history =
+    .label = Jáganɨaɨ
+    .accesskey = a
+sync-device-name-header = Jóriaɨ mámekɨ
+sync-tos-link = Taɨniamo, ñúe ite
+sync-fxa-privacy-notice = Káɨe bíe fáka Dáma kue úai
+
 ## Privacy Section
 
 
