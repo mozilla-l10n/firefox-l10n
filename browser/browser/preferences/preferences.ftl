@@ -383,6 +383,19 @@ containers-preferences-button =
 containers-remove-button =
     .label = Remover
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-engine-bookmarks =
+    .label = Marcadores
+    .accesskey = M
+sync-engine-history =
+    .label = Histórico
+    .accesskey = r
+sync-fxa-privacy-notice = Aviso de privacidade
+
 ## Privacy Section
 
 privacy-header = Privacidade do navegador
