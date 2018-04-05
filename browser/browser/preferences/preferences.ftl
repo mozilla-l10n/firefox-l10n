@@ -388,11 +388,19 @@ containers-remove-button =
 sync-signedout-caption = קחו את הרשת עמכם
 sync-signedout-description = סנכרון הסימניות, ההיסטוריה, הלשוניות, הססמאות, ההרחבות, וההעדפות בין כל מכשיריך.
 sync-signedout-account-title = התחברות עם { -fxaccount-brand-name }
+sync-signedout-account-create = אין ברשותך חשבון? תחילת עבודה
+    .accesskey = ח
+sync-signedout-account-signin =
+    .label = התחברות…
+    .accesskey = ה
 
 ## Sync Section - Signed in
 
 sync-signedin-unverified = הכתובת  { $email } אינה מאומתת.
 sync-signedin-login-failure = נא להיכנס לחשבון כדי להתחבר מחדש { $email }
+sync-remove-account =
+    .label = הסרת חשבון
+    .accesskey = ס
 sync-signedin-settings-header = הגדרות סנכרון
 sync-signedin-settings-desc = נא לבחור את הפריטים שיסונכרנו להתקנים שלך באמצעות { -brand-short-name }.
 sync-engine-bookmarks =
@@ -401,7 +409,34 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = היסטוריה
     .accesskey = ה
+sync-engine-tabs =
+    .label = פתיחת לשוניות
+    .tooltiptext = רשימה של מה שפתוח בכל ההתקנים המסונכרנים
+    .accesskey = ל
+sync-engine-addresses =
+    .label = כתובות
+    .tooltiptext = כתובות למשלוח דואר ששמרת (שולחן עבודה בלבד)
+    .accesskey = כ
+sync-engine-creditcards =
+    .label = כרטיסי אשראי
+    .tooltiptext = שמות, מספרים ותאריכי תפוגה (שולחן עבודה בלבד)
+    .accesskey = א
+sync-engine-addons =
+    .label = תוספות
+    .tooltiptext = הרחבות וערכות נושא עבור Firefox שולחני
+    .accesskey = ת
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] אפשרויות
+           *[other] העדפות
+        }
+    .tooltiptext = הגדרות כלליות, פרטיות ואבטחה ששינית
+    .accesskey = ה
 sync-device-name-header = שם התקן
+sync-device-name-change =
+    .label = שינוי שם התקן…
+    .accesskey = ש
 sync-device-name-cancel =
     .label = ביטול
     .accesskey = ב
