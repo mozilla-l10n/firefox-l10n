@@ -383,6 +383,15 @@ containers-preferences-button =
 containers-remove-button =
     .label = દૂર કરો
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-engine-history =
+    .label = ઇતિહાસ
+    .accesskey = r
+
 ## Privacy Section
 
 privacy-header = બ્રાઉઝર ગોપનીયતા
