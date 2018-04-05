@@ -185,6 +185,18 @@ search-keyword-warning-bookmark = अहाँ एकटाटा बीजश�
 ## Containers Section
 
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-engine-bookmarks =
+    .label = पुस्तचिह्न
+    .accesskey = m
+sync-engine-history =
+    .label = इतिहास
+    .accesskey = r
+
 ## Privacy Section
 
 
