@@ -388,25 +388,82 @@ containers-remove-button =
 sync-signedout-caption = Ta med deg webben
 sync-signedout-description = Synkroniser bokmerker, historikk, faner, passord, utvidelser og innstillinger på tvers av alle enhetene dine.
 sync-signedout-account-title = Koble til en { -fxaccount-brand-name }
+sync-signedout-account-create = Har du ikke en konto? Kom i gang
+    .accesskey = H
+sync-signedout-account-signin =
+    .label = Logg inn…
+    .accesskey = i
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Endre profilbilde
+sync-disconnect =
+    .label = Koble fra…
+    .accesskey = f
+sync-manage-account = Behandle konto
+    .accesskey = o
 sync-signedin-unverified = { $email } er ikke bekreftet.
 sync-signedin-login-failure = Logg inn for å koble til på nytt { $email }
+sync-resend-verification =
+    .label = Send bekreftelse på nytt
+    .accesskey = d
+sync-remove-account =
+    .label = Fjern konto
+    .accesskey = k
+sync-sign-in =
+    .label = Logg inn
+    .accesskey = g
+sync-signedin-settings-header = Sync-innstillinger
+sync-signedin-settings-desc = Velg hva du vil synkronisere på enhetene dine med { -brand-short-name }.
 sync-engine-bookmarks =
     .label = Bokmerker
     .accesskey = B
 sync-engine-history =
     .label = Historikk
     .accesskey = s
+sync-engine-tabs =
+    .label = Åpne faner
+    .tooltiptext = En liste over hva som er åpent på alle synkroniserte enheter
+    .accesskey = T
+sync-engine-logins =
+    .label = Innlogginger
+    .tooltiptext = Brukarnavn og passord du har lagret
+    .accesskey = I
+sync-engine-addresses =
+    .label = Adresser
+    .tooltiptext = Postadresser du har lagret (bare datamaskin)
+    .accesskey = e
+sync-engine-creditcards =
+    .label = Kredittkort
+    .tooltiptext = Navn, numre og forfallsdato (bare datamaskin)
+    .accesskey = K
+sync-engine-addons =
+    .label = Utvidelser
+    .tooltiptext = Utvidelser og temaer for Firefox for datamaskin
+    .accesskey = U
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Innstillinger
+           *[other] Innstillinger
+        }
+    .tooltiptext = Generelle, personvern og sikkerhetsinnstillinger du har endret
+    .accesskey = I
 sync-device-name-header = Enhetsnavn
+sync-device-name-change =
+    .label = Endre enhetsnavn…
+    .accesskey = E
 sync-device-name-cancel =
     .label = Avbryt
     .accesskey = A
 sync-device-name-save =
     .label = Lagre
     .accesskey = L
+sync-mobilepromo-single = Koble til en annen enhet
+sync-mobilepromo-multi = Administrer enheter
 sync-tos-link = Tjenestevilkår
+sync-fxa-privacy-notice = Personvernbestemmelser
 
 ## Privacy Section
 
