@@ -187,15 +187,22 @@ search-keyword-warning-bookmark = अहाँ एकटाटा बीजश�
 
 ## Sync Section - Signed out
 
+sync-signedout-description = अपन सभ उपकरण पर अपन बुकमार्क, इतिहास, टैब, पासवर्ड, ऐड-ऑन, आओर वरीयताकेँ तुल्यकालित करू.
+sync-signedout-account-title = { -fxaccount-brand-name } सँग कनेक्ट करू.
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = प्रोफ़ाइल फोटो बदलू
+sync-signedin-unverified = { $email } सत्यापित नहि अछि.
+sync-signedin-login-failure = फिनु सँ कनेक्ट करबाक लेल साइन इन करू { $email }
 sync-engine-bookmarks =
     .label = पुस्तचिह्न
     .accesskey = m
 sync-engine-history =
     .label = इतिहास
     .accesskey = r
+sync-device-name-header = युक्ति नाम
 sync-tos-link = सेवा शर्त
 sync-fxa-privacy-notice = गोपनीयता नीति
 
