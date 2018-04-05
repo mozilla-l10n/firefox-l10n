@@ -14,7 +14,7 @@
 <!ENTITY dateTimeFormatting.label      "Päiväyksen ja ajan muoto">
 <!ENTITY allowHWAccel.label            "Käytä laitteistokiihdytystä jos mahdollista">
 <!ENTITY allowHWAccel.accesskey        "l">
-<!ENTITY storeType.label               "Viestisäily uusilla tileillä:">
+<!ENTITY storeType.label               "Viestisäilö uusilla tileillä:">
 <!ENTITY storeType.accesskey           "V">
 <!ENTITY mboxStore2.label              "Tiedosto jokaiselle kansiolle (mbox)">
 <!ENTITY maildirStore.label            "Tiedosto jokaiselle viestille (maildir)">
