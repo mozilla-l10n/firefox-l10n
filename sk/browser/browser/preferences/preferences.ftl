@@ -385,6 +385,19 @@ containers-preferences-button =
 containers-remove-button =
     .label = Odstrániť
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-engine-bookmarks =
+    .label = Záložky
+    .accesskey = Z
+sync-engine-history =
+    .label = História prehliadania
+    .accesskey = H
+sync-tos-link = Podmienky používania služby
+
 ## Privacy Section
 
 privacy-header = Súkromie
