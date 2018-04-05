@@ -386,6 +386,11 @@ containers-remove-button =
 sync-signedout-caption = Вазьміце сваё Сеціва з сабой
 sync-signedout-description = Сінхранізуйце свае закладкі, гісторыю, карткі, паролі, дадаткі і налады на ўсіх вашых прыладах.
 sync-signedout-account-title = Злучыцца з { -fxaccount-brand-name }
+sync-signedout-account-create = Няма ўліковага запісу? Давайце яго створым
+    .accesskey = Н
+sync-signedout-account-signin =
+    .label = Увайсці…
+    .accesskey = а
 
 ## Sync Section - Signed in
 
@@ -399,6 +404,18 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Гісторыя
     .accesskey = Г
+sync-engine-logins =
+    .label = Лагіны
+    .tooltiptext = Імёны карыстальніка і паролі, якія вы захавалі
+    .accesskey = Л
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Налады
+           *[other] Налады
+        }
+    .tooltiptext = Змененыя вамі налады: Агульныя, Прыватнасць і бяспека
+    .accesskey = Н
 sync-device-name-header = Назва прылады
 sync-device-name-change =
     .label = Змяніць імя прылады…
