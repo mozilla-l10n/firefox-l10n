@@ -383,6 +383,22 @@ containers-preferences-button =
 containers-remove-button =
     .label = Fuortsmite
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-signedin-unverified = { $email } is net ferifiearre.
+sync-signedin-login-failure = Meld jo oan om wer te ferbinen { $email }
+sync-engine-bookmarks =
+    .label = Blêdwizers
+    .accesskey = w
+sync-engine-history =
+    .label = Skiednis
+    .accesskey = n
+sync-tos-link = Tsjinstbetingsten (In)
+sync-fxa-privacy-notice = Privacy-opmerking
+
 ## Privacy Section
 
 privacy-header = Browserprivacy
