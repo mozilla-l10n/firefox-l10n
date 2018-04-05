@@ -268,16 +268,42 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = War internetoo kanbe war bande
+sync-signedout-description = War doo-šilbawey, taariki, kanji, šennikufaley, tontoney nda ibaayey hangandi cere war jinawey kul ga.
+sync-signedout-account-title = Ciya nda { -fxaccount-brand-name } foo
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Alhaali bii barmay
+sync-disconnect =
+    .label = Ciyari dunbu…
+    .accesskey = d
+sync-signedin-unverified = { $email } mana korosandi.
+sync-signedin-login-failure = War maa hantum ka ciya koyne { $email }
+sync-sign-in =
+    .label = Huru
+    .accesskey = H
+sync-signedin-settings-header = Sync kayandiyaney
+sync-signedin-settings-desc = Suuba woo kaŋ ga hangandi war jinawey ga nda { -brand-short-name }.
 sync-engine-bookmarks =
     .label = Doo-šilbawey
     .accesskey = D
 sync-engine-history =
     .label = Taariki
     .accesskey = r
+sync-device-name-header = Jinay maa
+sync-device-name-change =
+    .label = Jinay maa barmay…
+    .accesskey = J
+sync-device-name-cancel =
+    .label = Naŋ
+    .accesskey = N
+sync-device-name-save =
+    .label = Gaabu
+    .accesskey = b
 sync-tos-link = Goy kalima-izey
+sync-fxa-privacy-notice = Sutura laasaabay
 
 ## Privacy Section
 
