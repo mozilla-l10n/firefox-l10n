@@ -390,18 +390,65 @@ containers-remove-button =
 sync-signedout-caption = Pasiimkite savo saityną kartu
 sync-signedout-description = Sinchronizuokite savo adresyną, žurnalą, korteles, slaptažodžius, priedus bei nuostatas visuose savo įrenginiuose.
 sync-signedout-account-title = Jungtis su { -fxaccount-brand-name }
+sync-signedout-account-create = Neturite paskyros? Pradėkite naudotis
+    .accesskey = S
+sync-signedout-account-signin =
+    .label = Prisijungti…
+    .accesskey = J
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Keisti profilio nuotrauką
+sync-disconnect =
+    .label = Atsijungti…
+    .accesskey = t
+sync-manage-account = Tvarkyti paskyrą
+    .accesskey = y
 sync-signedin-unverified = Paskyra { $email } yra nepatvirtinta.
 sync-signedin-login-failure = Prie { $email } reikia prisijungti iš naujo
+sync-resend-verification =
+    .label = Pakartotinai išsiųsti patvirtinimą
+    .accesskey = k
+sync-sign-in =
+    .label = Prisijungti
+    .accesskey = g
 sync-signedin-settings-header = Sinchronizavimo nuostatos
+sync-signedin-settings-desc = Pasirinkite, ką sinchronizuoti jūsų įrenginiuose, naudojant „{ -brand-short-name }“:
 sync-engine-bookmarks =
     .label = adresyną
     .accesskey = a
 sync-engine-history =
     .label = žurnalą
     .accesskey = ž
+sync-engine-tabs =
+    .label = atvertas korteles
+    .tooltiptext = Sąrašas visko, kas atverta visuose sinchronizuojamuose įrenginiuose
+    .accesskey = k
+sync-engine-logins =
+    .label = prisijungimus
+    .tooltiptext = Įrašyti prisijungimų vardai ir slaptažodžiai
+    .accesskey = P
+sync-engine-addresses =
+    .label = adresus
+    .tooltiptext = Įrašyti pašto adresai (tik kompiuteryje)
+    .accesskey = e
+sync-engine-creditcards =
+    .label = Kreditinės kortelės
+    .tooltiptext = Vardai, numeriai ir galiojimo datos (tik kompiuteryje)
+    .accesskey = r
+sync-engine-addons =
+    .label = priedus
+    .tooltiptext = Priedai ir grafiniai apvalkalai, skirti kompiuterinei „Firefox“
+    .accesskey = p
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Nuostatos
+           *[other] nuostatas
+        }
+    .tooltiptext = Bendros, privatumo ir saugumo nuostatos, kurias keitėte
+    .accesskey = n
 sync-device-name-header = Įrenginio pavadinimas
 sync-device-name-change =
     .label = Keisti įrenginio pavadinimą…
@@ -412,6 +459,8 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Įrašyti
     .accesskey = r
+sync-mobilepromo-single = Susieti kitą įrenginį
+sync-mobilepromo-multi = Tvarkyti įrenginius
 sync-tos-link = Paslaugos teikimo nuostatai
 sync-fxa-privacy-notice = Pastaba dėl privatumo
 
