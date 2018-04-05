@@ -368,6 +368,11 @@ containers-remove-button =
 sync-signedout-caption = Egueraha neñanduti nendive
 sync-signedout-description = Embojuehe nde rechaukaha, tembiasakue, tendayke, ñe'ẽñemi, moĩmbaha ha jerohoryvéva opaite nemba'e'oka rupi.
 sync-signedout-account-title = Eike { -fxaccount-brand-name } ndive
+sync-signedout-account-create = Nanemba'etéi gueteri piko? Ejapomi
+    .accesskey = C
+sync-signedout-account-signin =
+    .label = Eike…
+    .accesskey = I
 
 ## Sync Section - Signed in
 
@@ -381,6 +386,34 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Tembiasakue
     .accesskey = r
+sync-engine-tabs =
+    .label = Tendayképe jeike
+    .tooltiptext = Tysýi ojehechaukahápe opa mba'e jurujáva oĩva mba'e'oka mbojuehepyrépe
+    .accesskey = T
+sync-engine-logins =
+    .label = Tembiapo moñepyrũ
+    .tooltiptext = Puruhára réra ha ñe'ẽñemi reñongatúva'ekue
+    .accesskey = T
+sync-engine-addresses =
+    .label = Kundaharape
+    .tooltiptext = Pareha Papapy reñongatuva'ekue (mohendahápe g̃uarãnte)
+    .accesskey = e
+sync-engine-creditcards =
+    .label = Kuatia'atã ñemurã
+    .tooltiptext = Téra, papapy ha ndoikoveimaha arange (mohendahápe g̃uarã)
+    .accesskey = C
+sync-engine-addons =
+    .label = Moĩmbaha
+    .tooltiptext = Firefox mohendahápe g̃uarã Moĩmbaha ha Jeguaha
+    .accesskey = A
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Poravorã'i
+           *[other] Jerohoryvéva
+        }
+    .tooltiptext = Ñangareko Pavẽ, Rekovepypegua ha Tekorosã rehegua remoambuévakuri
+    .accesskey = s
 sync-device-name-header = Mba'e'oka Réra
 sync-device-name-change =
     .label = Emoambue mba'e'oka réra…
