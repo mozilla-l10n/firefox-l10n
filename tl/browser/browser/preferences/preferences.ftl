@@ -353,6 +353,13 @@ containers-preferences-button =
 containers-remove-button =
     .label = Alisin
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-tos-link = Tuntunin ng Serbisyo
+
 ## Privacy Section
 
 privacy-header = Pang-sarilinan sa Browser
