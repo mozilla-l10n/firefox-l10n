@@ -649,6 +649,7 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Eskuratu mezuak">
 <!ENTITY folderContextGetMessages.accesskey "k">
+<!ENTITY folderContextMarkAllFoldersRead.label "Markatu karpeta guztiak irakurrita gisa">
 <!ENTITY folderContextPauseAllUpdates.label "Pausarazi eguneratze guztiak">
 <!ENTITY folderContextPauseUpdates.label "Pausarazi eguneratzeak">
 <!ENTITY folderContextPauseUpdates.accesskey "P">
