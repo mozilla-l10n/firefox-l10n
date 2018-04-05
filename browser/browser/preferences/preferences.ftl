@@ -392,11 +392,32 @@ containers-remove-button =
 sync-signedout-caption = Wzejśo swój web sobu
 sync-signedout-description = Synchronizěrujśo swóje cytańske znamjenja, historiju, rejtarki, gronidła, dodanki a nastajenja mjazy wšymi wašymi rědami.
 sync-signedout-account-title = Z { -fxaccount-brand-name } zwězaś
+sync-signedout-account-create = Njamaśo konto? Zachopśo
+    .accesskey = k
+sync-signedout-account-signin =
+    .label = Pśizjawiś…
+    .accesskey = P
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Profilowy wobraz změniś
+sync-disconnect =
+    .label = Zwisk źěliś…
+    .accesskey = Z
+sync-manage-account = Konto zastojaś
+    .accesskey = o
 sync-signedin-unverified = { $email } njejo se pśeglědał.
 sync-signedin-login-failure = Pšosym zregistrěrujśo se, aby znowego zwězał { $email }
+sync-resend-verification =
+    .label = Wobkšuśenje znowego pósłaś
+    .accesskey = z
+sync-remove-account =
+    .label = Konto wótpóraś
+    .accesskey = p
+sync-sign-in =
+    .label = Pśizjawiś
+    .accesskey = z
 sync-signedin-settings-header = Nastajenja synchronizacije
 sync-signedin-settings-desc = Wubjeŕśo, což ma se z { -brand-short-name } na wašych rědach synchronizěrowaś.
 sync-engine-bookmarks =
@@ -405,6 +426,30 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Historiju
     .accesskey = H
+sync-engine-tabs =
+    .label = Wócynjone rejtarki
+    .tooltiptext = Lisćina ze wšym, což jo wócynjone na wšych synchronizěrowanych rědach
+    .accesskey = r
+sync-engine-addresses =
+    .label = Adrese
+    .tooltiptext = Postowe adrese, kótarež sćo składł (jano desktop)
+    .accesskey = e
+sync-engine-creditcards =
+    .label = Kreditowe kórty
+    .tooltiptext = Mjenja, licby a datumy pśepadnjenja (jano desktop)
+    .accesskey = K
+sync-engine-addons =
+    .label = Dodanki
+    .tooltiptext = Rozšyrjenja a drastwy za desktopowy Firefox
+    .accesskey = D
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Nastajenja
+           *[other] Nastajenja
+        }
+    .tooltiptext = Powšykne nastajenja, nastajenja priwatnosći a wěstoty, kótarež sćo změnił
+    .accesskey = N
 sync-device-name-header = Mě rěda
 sync-device-name-change =
     .label = Mě rěda změniś…
@@ -415,6 +460,8 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Składowaś
     .accesskey = d
+sync-mobilepromo-single = Z drugim rědom zwězaś
+sync-mobilepromo-multi = Rědy zastojaś
 sync-tos-link = Słužbne wuměnjenja
 sync-fxa-privacy-notice = Powěźeńka priwatnosći
 
