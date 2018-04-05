@@ -192,6 +192,8 @@
 <!ENTITY calendar.context.attendance.occ.tentative.label        "Behin-behinekoz onartua">
 <!ENTITY calendar.context.attendance.occ.declined.accesskey     "b">
 <!ENTITY calendar.context.attendance.occ.declined.label         "Baztertua">
+<!ENTITY calendar.context.attendance.occ.delegated.accesskey    "O">
+<!ENTITY calendar.context.attendance.occ.delegated.label        "Ordezkariaz">
 <!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "E">
 <!ENTITY calendar.context.attendance.occ.needsaction.label      "Ekintza behar du oraindik">
 <!ENTITY calendar.context.attendance.occ.inprogress.accesskey   "L">
@@ -205,6 +207,8 @@
 <!ENTITY calendar.context.attendance.all.tentative.label        "Behin-behinekoz onartua">
 <!ENTITY calendar.context.attendance.all.declined.accesskey     "z">
 <!ENTITY calendar.context.attendance.all.declined.label         "Baztertua">
+<!ENTITY calendar.context.attendance.all.delegated.accesskey    "O">
+<!ENTITY calendar.context.attendance.all.delegated.label        "Ordezkariaz">
 <!ENTITY calendar.context.attendance.all.needsaction.accesskey  "k">
 <!ENTITY calendar.context.attendance.all.needsaction.label      "Ekintza behar du oraindik">
 <!ENTITY calendar.context.attendance.all.inprogress.accesskey   "L">
