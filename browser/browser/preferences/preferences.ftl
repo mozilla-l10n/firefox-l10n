@@ -396,8 +396,24 @@ sync-signedout-account-signin =
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Breyta notandamynd
+sync-disconnect =
+    .label = Aftengja…
+    .accesskey = A
+sync-manage-account = Sýsla með aðgang
+    .accesskey = S
 sync-signedin-unverified = { $email } er ekki staðfestur.
 sync-signedin-login-failure = Skráðu þig inn aftur til að tengjast aftur { $email }
+sync-resend-verification =
+    .label = Endursenda staðfestingu
+    .accesskey = d
+sync-remove-account =
+    .label = Fjarlægja reikning
+    .accesskey = R
+sync-sign-in =
+    .label = Innskráning
+    .accesskey = g
 sync-signedin-settings-header = Sync stillingar
 sync-signedin-settings-desc = Velja hvað á að samstilla á tækjum sem eru að nota { -brand-short-name }.
 sync-engine-bookmarks =
@@ -406,6 +422,34 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Ferill
     .accesskey = r
+sync-engine-tabs =
+    .label = Opna flipa
+    .tooltiptext = Listi yfir hvað er opið á öllum tengdum tækjum
+    .accesskey = f
+sync-engine-logins =
+    .label = Innskráningar
+    .tooltiptext = Notandanöfn og lykilorð sem þú hefur vistað
+    .accesskey = I
+sync-engine-addresses =
+    .label = Vistföng
+    .tooltiptext = Heimilisiföng sem þú hefur vistað (bara á borðtölvu)
+    .accesskey = V
+sync-engine-creditcards =
+    .label = Greiðslukort
+    .tooltiptext = Nöfn, númer og gildistími (aðeins á borðtölvu)
+    .accesskey = G
+sync-engine-addons =
+    .label = Viðbætur
+    .tooltiptext = Viðbætur og þema fyrir Firefox á borðtölvu
+    .accesskey = æ
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Stillingar
+           *[other] Valkostir
+        }
+    .tooltiptext = Almennt, friðhelgi, og öryggistillingar sem þú hefur breytt
+    .accesskey = s
 sync-device-name-header = Tækjanafn
 sync-device-name-change =
     .label = Breyta nafni tækis…
@@ -416,6 +460,8 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Vista
     .accesskey = V
+sync-mobilepromo-single = Tengja annað tæki
+sync-mobilepromo-multi = Sýsla með tæki
 sync-tos-link = Skilmálar þjónustu
 sync-fxa-privacy-notice = Upplýsingar um meðferð persónuupplýsinga
 
