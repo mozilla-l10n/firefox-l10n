@@ -389,11 +389,63 @@ containers-remove-button =
 
 sync-signedout-caption = Vezměte si web s sebou
 sync-signedout-description = Synchronizujte své záložky, historii, panely, hesla, doplňky a předvolby ve všech svých zařízeních.
+sync-signedout-account-title = Propojit s účtem Firefoxu
+sync-signedout-account-create = Nemáte účet? Začněte tady
+    .accesskey = t
+sync-signedout-account-signin =
+    .label = Přihlásit se…
+    .accesskey = i
 
 ## Sync Section - Signed in
 
 sync-signedin-unverified = Účet { $email } není ověřen.
 sync-signedin-login-failure = Pro přihlášení se znovu připojte { $email }
+sync-signedin-settings-header = Nastavení synchronizace
+sync-signedin-settings-desc = Vyberte, co má { -brand-short-name } na vašich zařízeních synchronizovat.
+sync-engine-bookmarks =
+    .label = Záložky
+    .accesskey = Z
+sync-engine-history =
+    .label = Historii
+    .accesskey = r
+sync-engine-tabs =
+    .label = Otevřené panely
+    .tooltiptext = Seznam panelů otevřených v ostatních zařízeních
+    .accesskey = t
+sync-engine-addresses =
+    .label = Adresy
+    .tooltiptext = Uložené poštovní adresy (pouze na počítači)
+    .accesskey = e
+sync-engine-creditcards =
+    .label = Platební karty
+    .tooltiptext = Jména, čísla a data expirace (pouze na počítači)
+    .accesskey = K
+sync-engine-addons =
+    .label = Doplňky
+    .tooltiptext = Rozšíření a motivy vzhledu ve Firefoxu pro počítač
+    .accesskey = D
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Možnosti
+           *[other] Předvolby
+        }
+    .tooltiptext = Nastavení v sekcích Obecné a Soukromí a zabezpečení
+    .accesskey = P
+sync-device-name-header = Název zařízení
+sync-device-name-change =
+    .label = Změnit název zařízení…
+    .accesskey = m
+sync-device-name-cancel =
+    .label = Zrušit
+    .accesskey = u
+sync-device-name-save =
+    .label = Uložit
+    .accesskey = l
+sync-mobilepromo-single = Připojit další zařízení
+sync-mobilepromo-multi = Spravovat zařízení
+sync-tos-link = Podmínky služby
+sync-fxa-privacy-notice = Zásady ochrany soukromí
 
 ## Privacy Section
 
