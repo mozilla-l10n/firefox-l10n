@@ -357,8 +357,13 @@ sync-signedout-account-title = { -fxaccount-brand-name } সাথে সংয�
 
 sync-profile-picture =
     .tooltiptext = প্রোফাইল ছবি পরিবর্তন করুন
+sync-manage-account = অ্যাকাউন্ট পরিচালনা
+    .accesskey = o
 sync-signedin-unverified = { $email } যাঁচাই করা হয়নি।
 sync-signedin-login-failure = পুনঃসংযোগের জন্য সাইন ইন করুন { $email }
+sync-sign-in =
+    .label = সাইন-ইন করুন
+    .accesskey = g
 sync-engine-bookmarks =
     .label = বুকমার্ক
     .accesskey = ব
@@ -366,6 +371,12 @@ sync-engine-history =
     .label = পূর্ববর্তী তথ্য
     .accesskey = প
 sync-device-name-header = ডিভাইস নাম
+sync-device-name-cancel =
+    .label = বাতিল
+    .accesskey = n
+sync-device-name-save =
+    .label = সংরক্ষণ করুন
+    .accesskey = v
 sync-tos-link = পরিসেবার নিয়মাবলী
 sync-fxa-privacy-notice = গোপনীয়তা সংক্রান্ত নীতি
 
