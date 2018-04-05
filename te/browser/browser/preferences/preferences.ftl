@@ -351,6 +351,11 @@ containers-remove-button =
 sync-signedout-caption = మీ జాలాన్ని మీతో తీసుకువెళ్ళండి
 sync-signedout-description = మీ ఇష్టాంశాలను, చరిత్రను, ట్యాబులను, సంకేతపదాలను, పొడగింతలను, అభిరుచులను మీ పరికరాలన్నింటిలోనూ సింక్రనైజ్ చెయ్యండి.
 sync-signedout-account-title = ఒక { -fxaccount-brand-name }‌తో అనుసంధానించండి
+sync-signedout-account-create = మీకు ఖాతా లేదా? మొదలుపెట్టండి
+    .accesskey = C
+sync-signedout-account-signin =
+    .label = ప్రవేశించు…
+    .accesskey = i
 
 ## Sync Section - Signed in
 
