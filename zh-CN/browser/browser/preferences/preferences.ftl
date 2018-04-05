@@ -383,6 +383,20 @@ containers-preferences-button =
 containers-remove-button =
     .label = 移除
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-signedin-unverified = { $email } 未验证。
+sync-signedin-login-failure = 请登录以重新连接 { $email }
+sync-engine-history =
+    .label = 历史记录
+    .accesskey = r
+sync-device-name-header = 设备名称
+sync-tos-link = 服务条款
+sync-fxa-privacy-notice = 隐私声明
+
 ## Privacy Section
 
 privacy-header = 浏览器隐私
