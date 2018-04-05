@@ -371,12 +371,20 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = Take Your Web With You
 sync-signedout-description = Synchronize your bookmarks, history, tabs, passwords, add-ons, and preferences across all your devices.
 sync-signedout-account-title = Pīsasliedzit ar { -fxaccount-brand-name }
+sync-signedout-account-create = Nav konta? Tū var lobuot
+    .accesskey = C
+sync-signedout-account-signin =
+    .label = Pīsasliegt…
+    .accesskey = P
 
 ## Sync Section - Signed in
 
 sync-signedin-unverified = { $email } nav apstyprynuots.
+sync-signedin-settings-header = Sync īstatiejumi
+sync-signedin-settings-desc = Izavieleit, kū sinhronizeit īreicī, izmontojūt iz { -brand-short-name }.
 sync-engine-bookmarks =
     .label = Gruomotzeimes
     .accesskey = m
@@ -384,6 +392,15 @@ sync-engine-history =
     .label = Viesturi
     .accesskey = r
 sync-device-name-header = Īrīces nūsaukums
+sync-device-name-change =
+    .label = Maineit īrīces nūsaukumu…
+    .accesskey = n
+sync-device-name-cancel =
+    .label = Atceļt
+    .accesskey = n
+sync-device-name-save =
+    .label = Saglobuot
+    .accesskey = v
 sync-tos-link = Lītuošonys nūsacejumi
 sync-fxa-privacy-notice = Privatuma pīzeime
 
