@@ -381,6 +381,9 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = Võta oma veeb endaga kaasa
+sync-signedout-description = Sync võimaldab sul sünkroniseerida järjehoidjad, ajaloo, kaardid, paroolid, lisad ja sätted kõigis sinu seadmetes.
+sync-signedout-account-title = Ühendu { -fxaccount-brand-name }ga
 sync-signedout-account-create = Sul pole kontot? Tee algust
     .accesskey = T
 sync-signedout-account-signin =
@@ -409,6 +412,10 @@ sync-sign-in =
     .accesskey = g
 sync-signedin-settings-header = Sünkroniseerimise sätted
 sync-signedin-settings-desc = Vali { -brand-short-name }i poolt sünkroniseeritavad andmed.
+sync-engine-tabs =
+    .label = Avatud kaardid
+    .tooltiptext = Nimekiri kaartidest, mis on avatud sünkroniseeritud seadmetes
+    .accesskey = r
 sync-engine-logins =
     .label = Kasutajakontod
     .tooltiptext = Salvestatud kasutajanimed ja paroolid
@@ -421,14 +428,20 @@ sync-engine-creditcards =
     .label = Krediitkaardid
     .tooltiptext = Nimed, numbrid ja aegumiskuupäevad (toetatud ainult arvutis töötavad brauserid)
     .accesskey = t
+sync-device-name-header = Seadme nimi
 sync-device-name-change =
     .label = Muuda seadme nime…
     .accesskey = M
 sync-device-name-cancel =
     .label = Loobu
     .accesskey = L
+sync-device-name-save =
+    .label = Salvesta
+    .accesskey = v
 sync-mobilepromo-single = Ühenda teine seade
 sync-mobilepromo-multi = Halda seadmeid
+sync-tos-link = Teenuse tingimused
+sync-fxa-privacy-notice = Privaatsusest
 
 ## Privacy Section
 
