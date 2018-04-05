@@ -19,6 +19,7 @@
      over into this string, used as the checkbox which indicates if prefs are synced
 -->
 <!ENTITY engine.prefsWin.label      "ตัวเลือก">
+<!ENTITY engine.prefsWin.accesskey  "ต">
 <!ENTITY engine.prefs.label         "ค่ากำหนด">
 <!ENTITY engine.prefs.accesskey     "ค">
 <!ENTITY engine.prefs.title         "การตั้งค่าทั่วไป, ความเป็นส่วนตัว และความปลอดภัยที่คุณได้เปลี่ยนแปลง">
