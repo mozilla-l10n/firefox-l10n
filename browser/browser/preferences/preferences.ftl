@@ -385,11 +385,34 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = Leve a sua Web consigo
+sync-signedout-description = Sincronize os seus marcadores, histórico, separadores, palavras-passe, extras e preferências entre todos os seus dispositivos.
+sync-signedout-account-create = Não tem uma conta? Comece aqui
+    .accesskey = C
+sync-signedout-account-signin =
+    .label = Iniciar sessão…
+    .accesskey = I
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Alterar imagem de perfil
+sync-disconnect =
+    .label = Desligar…
+    .accesskey = D
+sync-manage-account = Gerir conta
+    .accesskey = o
 sync-signedin-unverified = { $email } não está verificado.
 sync-signedin-login-failure = Inicie sessão para voltar a estabelecer ligação { $email }
+sync-resend-verification =
+    .label = Reenviar verificação
+    .accesskey = r
+sync-remove-account =
+    .label = Remover conta
+    .accesskey = p
+sync-sign-in =
+    .label = Iniciar sessão
+    .accesskey = c
 sync-signedin-settings-header = Definições de sincronização
 sync-signedin-settings-desc = Escolha o que sincronizar nos seus dispositivos que utilizam o { -brand-short-name }.
 sync-engine-bookmarks =
@@ -398,6 +421,34 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Histórico
     .accesskey = r
+sync-engine-tabs =
+    .label = Separadores abertos
+    .tooltiptext = Uma lista do que está aberto em todos os dispositivos sincronizados
+    .accesskey = S
+sync-engine-logins =
+    .label = Credenciais
+    .tooltiptext = Nomes de utilizador e palavras-passe que guardou
+    .accesskey = i
+sync-engine-addresses =
+    .label = Endereços
+    .tooltiptext = Endereços postais que guardou (computador apenas)
+    .accesskey = e
+sync-engine-creditcards =
+    .label = Cartões de crédito
+    .tooltiptext = Nomes, números e datas de expiração (computador apenas)
+    .accesskey = C
+sync-engine-addons =
+    .label = Extras
+    .tooltiptext = Extensões e temas para o Firefox no computador
+    .accesskey = a
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Opções
+           *[other] Preferências
+        }
+    .tooltiptext = Definições gerais, de privacidade, e segurança que alterou
+    .accesskey = s
 sync-device-name-header = Nome do dispositivo
 sync-device-name-change =
     .label = Alterar nome do dispositivo…
@@ -408,6 +459,9 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Guardar
     .accesskey = r
+sync-mobilepromo-single = Ligar outro dispositivo
+sync-mobilepromo-multi = Gerir dispositivos
+sync-tos-link = Termos de serviço
 sync-fxa-privacy-notice = Aviso de privacidade
 
 ## Privacy Section
