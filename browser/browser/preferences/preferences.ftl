@@ -388,6 +388,11 @@ containers-remove-button =
 sync-signedout-caption = अपना वेब अपने साथ रखें
 sync-signedout-description = अपने सभी उपकरणों पर अपने बुकमार्क, इतिहास, टैब, पासवर्ड, ऐड-ऑन, और वरीयताओं को समकालित करें.
 sync-signedout-account-title = { -fxaccount-brand-name } से जुड़ें
+sync-signedout-account-create = खाता नहीं है? शुरुआत करें
+    .accesskey = C
+sync-signedout-account-signin =
+    .label = साइन इन…
+    .accesskey = I
 
 ## Sync Section - Signed in
 
