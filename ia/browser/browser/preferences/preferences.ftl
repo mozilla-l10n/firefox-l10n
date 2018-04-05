@@ -387,11 +387,34 @@ containers-remove-button =
 
 sync-signedout-caption = Porta le web con te
 sync-signedout-description = Synchronisa tu marcapaginas, chronologia, contrasignos, additivos, e preferentias inter tote tu apparatos.
+sync-signedout-account-title = Connecter se con un { -fxaccount-brand-name }
+sync-signedout-account-create = Non ha tu un conto? Que nos comencia
+    .accesskey = C
+sync-signedout-account-signin =
+    .label = Authenticar se…
+    .accesskey = I
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Cambiar le imagine del profilo
+sync-disconnect =
+    .label = Disconnecter se…
+    .accesskey = D
+sync-manage-account = Gerer le conto
+    .accesskey = o
 sync-signedin-unverified = { $email } non es verificate.
 sync-signedin-login-failure = Per favor authentica te pro te reconnecter { $email }
+sync-resend-verification =
+    .label = Reinviar le verification
+    .accesskey = d
+sync-remove-account =
+    .label = Remover le conto
+    .accesskey = R
+sync-sign-in =
+    .label = Authenticar se
+    .accesskey = A
+sync-signedin-settings-header = Parametros de Sync
 sync-signedin-settings-desc = Elige lo que tu vole synchronisar in tu apparatos usante { -brand-short-name }.
 sync-engine-bookmarks =
     .label = Marcapaginas
@@ -399,6 +422,34 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Chronologia
     .accesskey = r
+sync-engine-tabs =
+    .label = Schedas aperite
+    .tooltiptext = Un lista de lo que es aperte sur tote le apparatos synchronisate
+    .accesskey = T
+sync-engine-logins =
+    .label = Authenticationes
+    .tooltiptext = Nomines de usator e contrasignos que tu salvava
+    .accesskey = A
+sync-engine-addresses =
+    .label = Adresses
+    .tooltiptext = Adresses postal que tu salvava (solo scriptorio)
+    .accesskey = e
+sync-engine-creditcards =
+    .label = Cartas de credito
+    .tooltiptext = Nomines, numeros e datas de expiration (solo scriptorio)
+    .accesskey = C
+sync-engine-addons =
+    .label = Additivos
+    .tooltiptext = Extensiones e themas pro Firefox scriptorio
+    .accesskey = A
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Optiones
+           *[other] Preferentias
+        }
+    .tooltiptext = Parametros gederal, de confidentialitate e de securitate que tu modificava
+    .accesskey = S
 sync-device-name-header = Nomine del apparato
 sync-device-name-change =
     .label = Cambiar le nomine del apparato…
