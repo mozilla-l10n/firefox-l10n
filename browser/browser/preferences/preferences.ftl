@@ -345,6 +345,19 @@ containers-preferences-button =
 containers-remove-button =
     .label = നീക്കുക
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-engine-bookmarks =
+    .label = അടയാളക്കുറിപ്പുകള്‍
+    .accesskey = m
+sync-engine-history =
+    .label = നാള്‍വഴി
+    .accesskey = r
+sync-tos-link = സേവന നിബന്ധനകള്‍
+
 ## Privacy Section
 
 privacy-header = ബ്രൗസർ സ്വകാര്യത
