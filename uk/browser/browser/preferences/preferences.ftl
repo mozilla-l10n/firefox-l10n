@@ -387,16 +387,39 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = Візьміть свій інтернет з собою
+sync-signedout-description = Синхронізуйте закладки, історію, вкладки, паролі, додатки, а також налаштування на всіх своїх пристроях.
+sync-signedout-account-title = Під’єднайтеся до облікового запису Firefox
+sync-signedout-account-create = Не маєте облікового запису? Давайте створимо
+    .accesskey = й
+sync-signedout-account-signin =
+    .label = Увійти…
+    .accesskey = У
 
 ## Sync Section - Signed in
 
+sync-signedin-unverified = { $email } не підтверджено.
+sync-signedin-login-failure = Увійдіть для повторного з'єднання { $email }
+sync-signedin-settings-header = Налаштування Синхронізації
+sync-signedin-settings-desc = Оберіть, що потрібно синхронізувати на ваших пристроях за допомогою { -brand-short-name }.
 sync-engine-bookmarks =
     .label = Закладки
     .accesskey = З
 sync-engine-history =
     .label = Історію
     .accesskey = І
+sync-device-name-header = Назва пристрою
+sync-device-name-change =
+    .label = Змінити…
+    .accesskey = З
+sync-device-name-cancel =
+    .label = Скасувати
+    .accesskey = С
+sync-device-name-save =
+    .label = Зберегти
+    .accesskey = б
 sync-tos-link = Умови надання послуги
+sync-fxa-privacy-notice = Повідомлення про приватність
 
 ## Privacy Section
 
