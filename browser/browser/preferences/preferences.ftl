@@ -388,18 +388,73 @@ containers-remove-button =
 sync-signedout-caption = Llévese la web con usted
 sync-signedout-description = Sincronice marcadores, historial, pestañas, contraseñas, complementos y preferencias en todos sus dispositivos.
 sync-signedout-account-title = Conecte con { -fxaccount-brand-name }
+sync-signedout-account-create = ¿No tiene una cuenta? Comencemos
+    .accesskey = C
+sync-signedout-account-signin =
+    .label = Ingresar…
+    .accesskey = I
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Cambiar imagen de perfil
+sync-disconnect =
+    .label = Desconectar…
+    .accesskey = D
+sync-manage-account = Administrar cuenta
+    .accesskey = u
 sync-signedin-unverified = { $email } no está verificada.
 sync-signedin-login-failure = Ingrese para reconectar { $email }
+sync-resend-verification =
+    .label = Reenviar verificación
+    .accesskey = e
+sync-sign-in =
+    .label = Ingresar
+    .accesskey = g
+sync-signedin-settings-header = Opciones de Sync
+sync-signedin-settings-desc = Elegir qué sincronizar en los dispositivos que usan { -brand-short-name }.
 sync-engine-bookmarks =
     .label = Marcadores
     .accesskey = M
 sync-engine-history =
     .label = Historial
     .accesskey = r
+sync-engine-tabs =
+    .label = Pestañas abiertas
+    .tooltiptext = Una lista de que está abierto en todos los dispositivos sincronizados
+    .accesskey = t
+sync-engine-logins =
+    .label = Ingresos
+    .tooltiptext = Usuarios y contraseñas que se hayan guardado
+    .accesskey = I
+sync-engine-addresses =
+    .label = Direcciones
+    .tooltiptext = Direcciones postales que se hayan guardado (solo escritorio)
+    .accesskey = e
+sync-engine-creditcards =
+    .label = Tarjetas de crédito
+    .tooltiptext = Nombres, números y fechas de expiración (solo escritorio)
+    .accesskey = C
+sync-engine-addons =
+    .label = Complementos
+    .tooltiptext = Extensiones y temas para Firefox de escritorio
+    .accesskey = o
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Opciones
+           *[other] Preferencias
+        }
+    .tooltiptext = Configuración general, de provacidad y de seguridad que hayan cambiado
+    .accesskey = s
 sync-device-name-header = Nombre de dispositivo
+sync-device-name-cancel =
+    .label = Cancelar
+    .accesskey = n
+sync-device-name-save =
+    .label = Guardar
+    .accesskey = G
+sync-tos-link = Términos del servicio
 sync-fxa-privacy-notice = Nota de privacidad
 
 ## Privacy Section
