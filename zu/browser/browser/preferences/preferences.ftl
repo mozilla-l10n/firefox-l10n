@@ -149,6 +149,19 @@ search-keyword-warning-bookmark = Ukhathe igama elingukhiye elisebenzisa uphawu 
 ## Containers Section
 
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-engine-bookmarks =
+    .label = Izimpawu zokubekisa
+    .accesskey = z
+sync-engine-history =
+    .label = Umlando
+    .accesskey = d
+sync-tos-link = Imigomo yokusebenza
+
 ## Privacy Section
 
 
