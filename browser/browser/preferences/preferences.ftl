@@ -381,6 +381,14 @@ containers-preferences-button =
 containers-remove-button =
     .label = Выдаліць
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-signedin-unverified = { $email } не пацвержаны.
+sync-signedin-login-failure = Увайдіце, калі ласка, каб перазлучыцца { $email }
+
 ## Privacy Section
 
 privacy-header = Прыватнасць браўзера
