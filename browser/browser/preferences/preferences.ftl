@@ -388,11 +388,17 @@ containers-remove-button =
 sync-signedout-caption = તમે તમારા વેબ ને લો
 sync-signedout-description = તમારા બધા ઉપકરણો પર તમારા બુકમાર્ક્સ, ઇતિહાસ, ટૅબ્સ, પાસવર્ડ્સ, ઍડ-ઑન્સ અને પસંદગીઓને સમન્વયિત કરો.
 sync-signedout-account-title = { -fxaccount-brand-name } સાથે જોડાણ કરો
+sync-signedout-account-create = શું કોઈ ખાતું નથી? શરૂ કરો
+    .accesskey = C
+sync-signedout-account-signin =
+    .label = સાઇન ઇન કરો…
+    .accesskey = I
 
 ## Sync Section - Signed in
 
 sync-signedin-unverified = { $email } ચકાસેલ નથી.
 sync-signedin-login-failure = મહેરબાની કરીને ફરી જોડાણ માટે પ્રવેશો { $email }
+sync-signedin-settings-header = સમન્વયન સેટિંગ્સ
 sync-signedin-settings-desc = તમારા ઉપકરણો પર સમન્વયિત કરવાનું શું પસંદ કરો તે પસંદ કરો { -brand-short-name }.
 sync-engine-bookmarks =
     .label = બુકમાર્ક્સ
