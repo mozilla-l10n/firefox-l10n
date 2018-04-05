@@ -378,16 +378,72 @@ containers-remove-button =
 ## Sync Section - Signed out
 
 sync-signedout-caption = Bawa Web dengan anda
+sync-signedout-description = Sync tandabuku, sejarah, tab, kata laluan, add-ons dan pilihan anda pada semua peranti anda.
 sync-signedout-account-title = Sambung dengan { -fxaccount-brand-name }
+sync-signedout-account-create = Belum ada akaun? Daftar
+    .accesskey = D
+sync-signedout-account-signin =
+    .label = Daftar Masuk…
+    .accesskey = M
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Tukar gambar profil
+sync-disconnect =
+    .label = Memutuskan…
+    .accesskey = M
+sync-manage-account = Urus Akaun
+    .accesskey = s
 sync-signedin-unverified = { $email } tidak disahkan.
 sync-signedin-login-failure = Sila daftar masuk untuk menyambung semula { $email }
+sync-resend-verification =
+    .label = Hantar semula Pengesahan
+    .accesskey = t
+sync-remove-account =
+    .label = Buang Akaun
+    .accesskey = k
+sync-sign-in =
+    .label = Daftar masuk
+    .accesskey = d
+sync-signedin-settings-header = Tetapan Sync
+sync-signedin-settings-desc = Pilih ciri yang mahu anda sync pada peranti menggunakan { -brand-short-name }.
 sync-engine-history =
     .label = Sejarah
     .accesskey = r
+sync-engine-tabs =
+    .label = Buka tab
+    .tooltiptext = Senarai laman yang dibuka dalam semua peranti yang diselaraskan
+    .accesskey = T
+sync-engine-logins =
+    .label = Log masuk
+    .tooltiptext = Nama pengguna dan kata laluan yang anda sudah simpan
+    .accesskey = L
+sync-engine-addresses =
+    .label = Alamat
+    .tooltiptext = Alamat pos yang anda sudah simpan (desktop sahaja)
+    .accesskey = a
+sync-engine-creditcards =
+    .label = Kad kredit
+    .tooltiptext = Nama, nombor dan tarikh luput (desktop sahaja)
+    .accesskey = K
+sync-engine-addons =
+    .label = Add-ons
+    .tooltiptext = Ekstensi dan tema untuk Firefox desktop
+    .accesskey = A
 sync-device-name-header = Nama Peranti
+sync-device-name-change =
+    .label = Tukar Nama Peranti…
+    .accesskey = u
+sync-device-name-cancel =
+    .label = Batal
+    .accesskey = t
+sync-device-name-save =
+    .label = Simpan
+    .accesskey = p
+sync-mobilepromo-single = Sambungkan peranti lain
+sync-mobilepromo-multi = Urus peranti
+sync-tos-link = Terma Perkhidmatan
 sync-fxa-privacy-notice = Notis Privasi
 
 ## Privacy Section
