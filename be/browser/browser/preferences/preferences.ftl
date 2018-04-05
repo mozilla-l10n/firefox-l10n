@@ -391,6 +391,8 @@ sync-signedout-account-title = Злучыцца з { -fxaccount-brand-name }
 
 sync-signedin-unverified = { $email } не пацвержаны.
 sync-signedin-login-failure = Увайдіце, калі ласка, каб перазлучыцца { $email }
+sync-signedin-settings-header = Налады сінхранізацыі
+sync-signedin-settings-desc = Выберыце, што { -brand-short-name } павінен сінхранізаваць на вашых прыладах.
 sync-engine-bookmarks =
     .label = Закладкі
     .accesskey = З
