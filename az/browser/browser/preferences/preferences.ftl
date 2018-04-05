@@ -368,17 +368,77 @@ containers-remove-button =
 sync-signedout-caption = Web-inizi özünüzlə gəzdirin
 sync-signedout-description = Əlfəçin, keçmiş, vərəq, parol, əlavə və nizamlamalarınızı bütün cihazlarınız arasında sinxronlaşdırın.
 sync-signedout-account-title = { -fxaccount-brand-name } ilə qoşulun
+sync-signedout-account-create = Hesabınız yoxdur? Başlayın
+    .accesskey = C
+sync-signedout-account-signin =
+    .label = Daxil ol…
+    .accesskey = I
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Profil şəklini dəyiş
+sync-disconnect =
+    .label = Ayrıl…
+    .accesskey = D
+sync-manage-account = Hesabı idarə et
+    .accesskey = o
 sync-signedin-unverified = { $email } təsdiqlənməyib.
 sync-signedin-login-failure = Yenidən qoşulmaq üçün daxil olun { $email }
+sync-resend-verification =
+    .label = Təsdiqi təkrar göndər
+    .accesskey = d
+sync-sign-in =
+    .label = Daxil ol
+    .accesskey = g
+sync-signedin-settings-header = Sync Tənzimləmələri
+sync-signedin-settings-desc = { -brand-short-name } işlədən cihazlarınızda nələrin sinxronlaşacağını seçin.
 sync-engine-bookmarks =
     .label = Əlfəcinlər
     .accesskey = c
 sync-engine-history =
     .label = Keçmiș
     .accesskey = i
+sync-engine-tabs =
+    .label = Açıq Vərəqlər
+    .tooltiptext = Sinxronlaşdırılmış cihazlarda açıq olanların siyahısı
+    .accesskey = V
+sync-engine-logins =
+    .label = Daxil olmalar
+    .tooltiptext = Saxladığınız istifadəçi adları və parollar
+    .accesskey = L
+sync-engine-addresses =
+    .label = Ünvanlar
+    .tooltiptext = Saxladığınız poçt ünvanları (ancaq masaüstü)
+    .accesskey = e
+sync-engine-creditcards =
+    .label = Kredit kartları
+    .tooltiptext = Adlar, nömrələr və vaxtı çıxma tarixləri (ancaq masaüstü)
+    .accesskey = C
+sync-engine-addons =
+    .label = Əlavələr
+    .tooltiptext = Firefox masaüstü üçün uzantı və mövzular
+    .accesskey = Ə
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Seçimlər
+           *[other] Nizamlamalar
+        }
+    .tooltiptext = Dəyişdirdiyiniz Ümumi, Məxfilik və Təhlükəsizlik tənzimləmələri
+    .accesskey = l
+sync-device-name-header = Cihaz Adı
+sync-device-name-change =
+    .label = Cihaz adını dəyişdir…
+    .accesskey = h
+sync-device-name-cancel =
+    .label = Ləğv et
+    .accesskey = n
+sync-device-name-save =
+    .label = Saxla
+    .accesskey = v
+sync-mobilepromo-single = Digər cihazı qoş
+sync-mobilepromo-multi = Cihazları idarə et
 sync-tos-link = İstifadə Şərtləri
 sync-fxa-privacy-notice = Məxfilik Bildirişi
 
