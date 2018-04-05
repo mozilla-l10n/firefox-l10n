@@ -351,9 +351,12 @@ containers-remove-button =
 
 ## Sync Section - Signed in
 
+sync-signedin-unverified = { $email } నిర్థారించబడలేదు.
 sync-engine-history =
     .label = చరిత్ర
     .accesskey = r
+sync-device-name-header = పరికరం పేరు
+sync-fxa-privacy-notice = గోప్యతా నోటీసు
 
 ## Privacy Section
 
