@@ -367,8 +367,21 @@ sync-signedout-account-title = { -fxaccount-brand-name }
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Zmień obraz przypisany do konta
 sync-signedin-unverified = Konto { $email } nie zostało zweryfikowane.
+sync-resend-verification =
+    .label = Wyślij nową wiadomość weryfikującą
+    .accesskey = W
 sync-signedin-settings-header = Ustawienia synchronizacji
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Opcje
+           *[other] Preferencje
+        }
+    .tooltiptext = Zmienione ustawienia ogólne, prywatności i bezpieczeństwa
+    .accesskey = P
 sync-device-name-header = Nazwa urządzenia
 sync-mobilepromo-single = Połącz inne urządzenie
 sync-mobilepromo-multi = Zarządzaj urządzeniami
