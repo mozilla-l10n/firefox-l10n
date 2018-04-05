@@ -390,10 +390,47 @@ containers-remove-button =
 
 sync-signedin-unverified = { $email } 未验证。
 sync-signedin-login-failure = 请登录以重新连接 { $email }
+sync-remove-account =
+    .label = 移除账号
+    .accesskey = p
+sync-signedin-settings-header = 同步设置
 sync-engine-history =
     .label = 历史记录
     .accesskey = r
+sync-engine-tabs =
+    .label = 打开的标签页
+    .tooltiptext = 已同步的所有设备目前打开什么
+    .accesskey = T
+sync-engine-logins =
+    .label = 登录信息
+    .tooltiptext = 您已保存的用户名和密码
+    .accesskey = L
+sync-engine-addresses =
+    .label = 地址
+    .tooltiptext = 您已保存的邮政地址（仅限桌面版）
+    .accesskey = e
+sync-engine-addons =
+    .label = 附加组件
+    .tooltiptext = 用于 Firefox 桌面版的扩展和主题
+    .accesskey = A
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] 选项
+           *[other] 首选项
+        }
+    .tooltiptext = 您已更改的常规、隐私和安全设置
+    .accesskey = s
 sync-device-name-header = 设备名称
+sync-device-name-change =
+    .label = 更改设备名称…
+    .accesskey = h
+sync-device-name-cancel =
+    .label = 取消
+    .accesskey = n
+sync-device-name-save =
+    .label = 保存
+    .accesskey = v
 sync-tos-link = 服务条款
 sync-fxa-privacy-notice = 隐私声明
 
