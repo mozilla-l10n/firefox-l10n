@@ -150,6 +150,19 @@ search-keyword-warning-bookmark = O kgethile lentšu la motheo leo gabjale le di
 ## Containers Section
 
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-engine-bookmarks =
+    .label = Dipukutshwayo
+    .accesskey = s
+sync-engine-history =
+    .label = Histori
+    .accesskey = i
+sync-tos-link = Melawana ya tirelo
+
 ## Privacy Section
 
 
