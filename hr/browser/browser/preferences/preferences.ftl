@@ -351,6 +351,11 @@ containers-remove-button =
 sync-signedout-caption = Ponesite vaš Web sa sobom
 sync-signedout-description = Sinkronizirajte vaše zabilješke, povijest, kartice, lozinke, dodatke i postavke na sve vaše uređaje.
 sync-signedout-account-title = Povežite se sa { -fxaccount-brand-name }
+sync-signedout-account-create = Nemate račun? Započnite
+    .accesskey = r
+sync-signedout-account-signin =
+    .label = Prijavite se…
+    .accesskey = i
 
 ## Sync Section - Signed in
 
