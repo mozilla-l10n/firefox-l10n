@@ -9,6 +9,7 @@
 <!ENTITY iconsAndText.label       "Ikonok és szöveg">
 <!ENTITY icons.label              "Ikonok">
 <!ENTITY text.label               "Szöveg">
+<!ENTITY iconsBesideText.label    "Ikonok a szöveg mellett">
 <!ENTITY useSmallIcons.label      "Kis ikonok használata">
 <!ENTITY restoreDefaultSet.label  "Alapértelmezett készlet visszaállítása">
 <!ENTITY addNewToolbar.label      "Új eszköztár hozzáadása">

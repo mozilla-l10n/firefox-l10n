@@ -36,6 +36,12 @@
 <!ENTITY newFeedAccountCmd.accesskey "H">
 <!ENTITY newIMContactCmd.label "Csevegőpartner…">
 <!ENTITY newIMContactCmd.accesskey "p">
+<!ENTITY  newMessageCmd2.key "N">
+<!ENTITY  newMessageCmd.key "M">
+<!ENTITY  newMessageCmd.label "Üzenet">
+<!ENTITY  newMessageCmd.accesskey "z">
+<!ENTITY  newContactCmd.label "Névjegy…">
+<!ENTITY  newContactCmd.accesskey "N">
 <!ENTITY openMessageFileCmd.label "Mentett üzenet megnyitása…">
 <!ENTITY openMessageFileCmd.accesskey "e">
 <!ENTITY saveAsMenu.label "Mentés másként">
@@ -317,7 +323,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Csevegés">
 <!ENTITY goChatCmd.accesskey "e">
-<!ENTITY goChatCmd.key "I">
 <!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Csillagozott üzenet">
 <!ENTITY prevStarredMsgCmd.accesskey "C">
@@ -510,8 +515,6 @@
 <!ENTITY devToolboxCmd.label "Fejlesztői eszköztár">
 <!ENTITY devToolboxCmd.accesskey "z">
 <!ENTITY devToolboxCmd.commandkey "i">
-<!ENTITY addonDebugCmd.label "Kiegészítők hibakeresése">
-<!ENTITY addonDebugCmd.accesskey "K">
 <!ENTITY debugAddonsCmd.label "Kiegészítők hibakeresése">
 <!ENTITY debugAddonsCmd.accesskey "h">
 <!ENTITY tabsDebugCmd.label "Tartalomkeret hibakeresése">
@@ -646,6 +649,7 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Üzenetek letöltése ">
 <!ENTITY folderContextGetMessages.accesskey "z">
+<!ENTITY folderContextMarkAllFoldersRead.label "Összes mappa jelölése olvasottként">
 <!ENTITY folderContextPauseAllUpdates.label "Minden frissítés szüneteltetése">
 <!ENTITY folderContextPauseUpdates.label "Frissítések szüneteltetése">
 <!ENTITY folderContextPauseUpdates.accesskey "F">
