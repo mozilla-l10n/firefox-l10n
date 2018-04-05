@@ -96,6 +96,13 @@ network-proxy-connection-settings =
 ## Containers Section
 
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-tos-link = சேவை விதிமுறைகள்
+
 ## Privacy Section
 
 
