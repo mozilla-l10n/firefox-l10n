@@ -17,7 +17,7 @@
   -  filters. -->
 <!ENTITY btnPageNet.label   "เน็ต">
 <!ENTITY btnPageNet.tooltip "บันทึกกิจกรรมของการใช้เครือข่าย">
-<!ENTITY btnPageNet.accesskey "เ">
+<!ENTITY btnPageNet.accesskey "น">
 <!-- LOCALIZATION NOTE (btnPageNet.accesskeyMacOSX): This string is used as
   -  access key for the menu button that allows users to toggle the network
   -  logging output. On MacOSX accesskeys are available with Ctrl-*. Please make
