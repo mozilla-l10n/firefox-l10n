@@ -372,9 +372,20 @@ containers-remove-button =
 ## Sync Section - Signed out
 
 sync-signedout-description = Synchronize your bookmarks, history, tabs, passwords, add-ons, and preferences across all your devices.
+sync-signedout-account-title = Pīsasliedzit ar { -fxaccount-brand-name }
 
 ## Sync Section - Signed in
 
+sync-signedin-unverified = { $email } nav apstyprynuots.
+sync-engine-bookmarks =
+    .label = Gruomotzeimes
+    .accesskey = m
+sync-engine-history =
+    .label = Viesturi
+    .accesskey = r
+sync-device-name-header = Īrīces nūsaukums
+sync-tos-link = Lītuošonys nūsacejumi
+sync-fxa-privacy-notice = Privatuma pīzeime
 
 ## Privacy Section
 
