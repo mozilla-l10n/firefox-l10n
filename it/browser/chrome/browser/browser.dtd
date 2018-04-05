@@ -38,6 +38,7 @@
 <!ENTITY undoCloseTab.accesskey "s">
 <!ENTITY closeTab.label "Chiudi scheda">
 <!ENTITY closeTab.accesskey "C">
+<!ENTITY hiddenTabs.label "Schede nascoste">
 <!ENTITY listAllTabs.label "Elenco di tutte le schede">
 <!ENTITY tabCmd.label "Nuova scheda">
 <!ENTITY tabCmd.accesskey "h">
