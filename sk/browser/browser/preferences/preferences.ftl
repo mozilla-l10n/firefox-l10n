@@ -390,19 +390,82 @@ containers-remove-button =
 sync-signedout-caption = Vezmite si svoj web so sebou
 sync-signedout-description = Synchronizujte si svoje záložky, históriu, karty, heslá, doplnky a nastavenia so všetkými svojimi zariadeniami.
 sync-signedout-account-title = Pripojte sa k službe { -fxaccount-brand-name }
+sync-signedout-account-create = Nemáte účet? Začnite tu
+    .accesskey = t
+sync-signedout-account-signin =
+    .label = Prihlásiť sa…
+    .accesskey = i
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Zmeniť obrázok profilu
+sync-disconnect =
+    .label = Odpojiť…
+    .accesskey = d
+sync-manage-account = Spravovať účet
+    .accesskey = p
 sync-signedin-unverified = Adresa { $email } nie je overená.
 sync-signedin-login-failure = Ak sa chcete pripojiť k { $email } , musíte sa prihlásiť.
+sync-resend-verification =
+    .label = Znova odoslať overenie
+    .accesskey = d
+sync-remove-account =
+    .label = Odstrániť účet
+    .accesskey = r
+sync-sign-in =
+    .label = Prihlásiť sa
+    .accesskey = i
+sync-signedin-settings-header = Nastavenia synchronizácie
+sync-signedin-settings-desc = Vyberte, čo má aplikácia { -brand-short-name } na vašich zariadeniach synchronizovať.
 sync-engine-bookmarks =
     .label = Záložky
     .accesskey = Z
 sync-engine-history =
     .label = História prehliadania
     .accesskey = H
+sync-engine-tabs =
+    .label = Otvorené karty
+    .tooltiptext = Zoznam otvorených kariet v synchronizovaných zariadeniach
+    .accesskey = t
+sync-engine-logins =
+    .label = Prihlasovacie údaje
+    .tooltiptext = Uložené používateľské mená a heslá
+    .accesskey = l
+sync-engine-addresses =
+    .label = Adresy
+    .tooltiptext = Uložené poštové adresy (len pre počítače)
+    .accesskey = e
+sync-engine-creditcards =
+    .label = Platobné karty
+    .tooltiptext = Mená, čísla a dátumy expirácie (len na počítači)
+    .accesskey = k
+sync-engine-addons =
+    .label = Doplnky
+    .tooltiptext = Rozšírenia a témy vzhľadu pre Firefox pre počítače
+    .accesskey = D
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Možnosti
+           *[other] Nastavenia
+        }
+    .tooltiptext = Možnosti v sekciách Všeobecné, Súkromie a bezpečnosť, ktoré boli zmenené
+    .accesskey = N
 sync-device-name-header = Názov zariadenia
+sync-device-name-change =
+    .label = Zmeniť názov zariadenia…
+    .accesskey = z
+sync-device-name-cancel =
+    .label = Zrušiť
+    .accesskey = r
+sync-device-name-save =
+    .label = Uložiť
+    .accesskey = U
+sync-mobilepromo-single = Pripojiť ďalšie zariadenie
+sync-mobilepromo-multi = Spravovať zariadenia
 sync-tos-link = Podmienky používania služby
+sync-fxa-privacy-notice = Zásady ochrany súkromia
 
 ## Privacy Section
 
