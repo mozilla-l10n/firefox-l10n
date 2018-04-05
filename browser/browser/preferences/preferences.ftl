@@ -371,6 +371,9 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = Emportatz vòstre Web pertot
+sync-signedout-description = Sincronizar vòstres marcapaginas, istoric, onglets, senhals, moduls, e preferéncias per totes vòstres periferics.
+sync-signedout-account-title = Se connectar amb un { -fxaccount-brand-name }
 sync-signedout-account-signin =
     .label = Connexion…
     .accesskey = I
@@ -379,6 +382,8 @@ sync-signedout-account-signin =
 
 sync-signedin-unverified = { $email } es pas verificat.
 sync-signedin-login-failure = Vos cal vos reconnectar { $email }
+sync-signedin-settings-header = Paramètres de sincronizacion
+sync-signedin-settings-desc = Causir çò que cal sincronizar per vòstres periferics qu'utilizan { -brand-short-name }.
 sync-engine-bookmarks =
     .label = Marcapaginas
     .accesskey = M
@@ -386,6 +391,9 @@ sync-engine-history =
     .label = Istoric
     .accesskey = r
 sync-device-name-header = Nom de l'aparelh
+sync-device-name-change =
+    .label = Cambiar lo nom del periferic…
+    .accesskey = h
 sync-device-name-cancel =
     .label = Anullar
     .accesskey = n
