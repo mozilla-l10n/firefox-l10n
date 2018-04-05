@@ -388,11 +388,25 @@ containers-remove-button =
 
 ## Sync Section - Signed in
 
+sync-signedin-unverified = { $email } não está verificado.
+sync-signedin-login-failure = Inicie sessão para voltar a estabelecer ligação { $email }
+sync-signedin-settings-header = Definições de sincronização
+sync-signedin-settings-desc = Escolha o que sincronizar nos seus dispositivos que utilizam o { -brand-short-name }.
 sync-engine-bookmarks =
     .label = Marcadores
     .accesskey = M
 sync-engine-history =
     .label = Histórico
+    .accesskey = r
+sync-device-name-header = Nome do dispositivo
+sync-device-name-change =
+    .label = Alterar nome do dispositivo…
+    .accesskey = l
+sync-device-name-cancel =
+    .label = Cancelar
+    .accesskey = n
+sync-device-name-save =
+    .label = Guardar
     .accesskey = r
 sync-fxa-privacy-notice = Aviso de privacidade
 
