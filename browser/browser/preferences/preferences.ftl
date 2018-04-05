@@ -348,6 +348,29 @@ containers-preferences-button =
 containers-remove-button =
     .label = Hapus
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-profile-picture =
+    .tooltiptext = Ubah gambar profil
+sync-disconnect =
+    .label = Putuskan…
+    .accesskey = P
+sync-manage-account = Kelola Akun
+    .accesskey = o
+sync-sign-in =
+    .label = Masuk
+    .accesskey = M
+sync-engine-bookmarks =
+    .label = Markah
+    .accesskey = M
+sync-engine-history =
+    .label = Riwayat
+    .accesskey = w
+sync-tos-link = Ketentuan Layanan
+
 ## Privacy Section
 
 privacy-header = Privasi Peramban
