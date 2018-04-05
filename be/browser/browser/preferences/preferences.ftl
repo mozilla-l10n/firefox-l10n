@@ -14,8 +14,12 @@ pref-page =
             [windows] Налады
            *[other] Налады
         }
-# This string is currently used only in Firefox 60 and will be removed when not
-# needed for x-channel. See bug 1445686 for details.
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
 search-input =
     .style = width: 15.4em
 # This is used to determine the width of the search field in about:preferences,
@@ -522,6 +526,10 @@ sitedata-block-cookies-option =
     .accesskey = Б
 sitedata-keep-until = Трымаць пакуль
     .accesskey = п
+sitedata-keep-until-expire =
+    .label = Тэрмін канчаецца
+sitedata-keep-until-closed =
+    .label = { -brand-short-name } закрыта
 sitedata-accept-third-party-desc = Прымаць кукі і дадзеныя з пабочных сайтаў
     .accesskey = ы
 sitedata-accept-third-party-always-option =
