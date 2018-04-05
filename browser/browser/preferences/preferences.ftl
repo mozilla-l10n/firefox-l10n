@@ -358,6 +358,37 @@ containers-preferences-button =
 containers-remove-button =
     .label = Momtu
 
+## Sync Section - Signed out
+
+sync-signedout-caption = Nawor Geesa Maa
+sync-signedout-description = Sanngoɗin maantore maa, aslol, tabbe, finndeeji, ɓeyditte e cuɓoraade e kaɓirɗi maa fof.
+sync-signedout-account-title = Seŋoro { -fxaccount-brand-name }
+
+## Sync Section - Signed in
+
+sync-signedin-unverified = { $email } ƴeewtaaka.
+sync-signedin-login-failure = Tiiɗno seŋo ngam naattude { $email }
+sync-signedin-settings-header = Yahdin teelte
+sync-signedin-settings-desc = Suɓo ko pot-ɗaa yahdinde nder masiŋon maa kuutortookon { -brand-short-name }.
+sync-engine-bookmarks =
+    .label = Maantore am
+    .accesskey = t
+sync-engine-history =
+    .label = Aslol
+    .accesskey = o
+sync-device-name-header = Innde Kaɓirgol
+sync-device-name-change =
+    .label = Waylu Innde Kaɓirgel…
+    .accesskey = a
+sync-device-name-cancel =
+    .label = Haaytu
+    .accesskey = t
+sync-device-name-save =
+    .label = Danndu
+    .accesskey = D
+sync-tos-link = Laabi Carwol
+sync-fxa-privacy-notice = Tintinol Suturo
+
 ## Privacy Section
 
 privacy-header = Suturo Wanngorde
