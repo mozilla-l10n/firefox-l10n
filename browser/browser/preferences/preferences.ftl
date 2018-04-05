@@ -348,16 +348,34 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = Ponesite vaš Web sa sobom
+sync-signedout-description = Sinkronizirajte vaše zabilješke, povijest, kartice, lozinke, dodatke i postavke na sve vaše uređaje.
+sync-signedout-account-title = Povežite se sa { -fxaccount-brand-name }
 
 ## Sync Section - Signed in
 
+sync-signedin-unverified = { $email } nije potvrđen.
+sync-signedin-login-failure = Za ponovno povezivanje, pokušajte se ponovno prijaviti { $email }
+sync-signedin-settings-header = Sync postavke
+sync-signedin-settings-desc = Odaberite što sinkronizirati na vašim uređajima koji koriste { -brand-short-name }.
 sync-engine-bookmarks =
     .label = Zabilješke
     .accesskey = Z
 sync-engine-history =
     .label = Povijest
     .accesskey = j
+sync-device-name-header = Naziv uređaja
+sync-device-name-change =
+    .label = Promijeni naziv uređaja…
+    .accesskey = n
+sync-device-name-cancel =
+    .label = Odustani
+    .accesskey = n
+sync-device-name-save =
+    .label = Spremi
+    .accesskey = e
 sync-tos-link = Uvjeti korištenja
+sync-fxa-privacy-notice = Pravila o privatnosti
 
 ## Privacy Section
 
