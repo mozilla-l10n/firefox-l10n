@@ -356,6 +356,30 @@ containers-preferences-button =
 containers-remove-button =
     .label = Çetleştir
 
+## Sync Section - Signed out
+
+sync-signedout-account-create = Esabıñız yoqmı? Açmağa başlañız
+    .accesskey = l
+sync-signedout-account-signin =
+    .label = İçeri İmzalan…
+    .accesskey = e
+
+## Sync Section - Signed in
+
+sync-signedin-unverified = { $email } doğrulanğan degildir
+sync-signedin-login-failure = Kene bağlanmaq içün lütfen içeri imzalanıñız { $email }
+sync-signedin-settings-desc = { -brand-short-name } qullanğan cihazlarıñız üzerinde ne aynılaştırılacağını saylañız.
+sync-device-name-change =
+    .label = Cihaz Adını Deñiştir…
+    .accesskey = h
+sync-device-name-cancel =
+    .label = Vazgeç
+    .accesskey = z
+sync-device-name-save =
+    .label = Saqla
+    .accesskey = S
+sync-fxa-privacy-notice = Hususiyat Tebliği
+
 ## Privacy Section
 
 privacy-header = Kezici Hususiyatı
