@@ -363,6 +363,9 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = Paņem tīmekli sev līdz
+sync-signedout-description = Sinhronizējiet vēsturi, grāmatzīmes, paroles, papildinājumus un iestatījumus visās jūsu izmantotajās ierīcēs.
+sync-signedout-account-title = Pieslēdzieties ar { -fxaccount-brand-name }
 
 ## Sync Section - Signed in
 
@@ -374,6 +377,7 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Vēsturi
     .accesskey = r
+sync-device-name-header = Ierīces nosaukums
 sync-tos-link = Lietošanas noteikumi
 sync-fxa-privacy-notice = Privātuma piezīme
 
