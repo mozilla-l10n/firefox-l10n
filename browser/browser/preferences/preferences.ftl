@@ -171,6 +171,8 @@ search-keyword-warning-bookmark = এটা পত্ৰচিহ্নৰ দ�
 
 ## Sync Section - Signed in
 
+sync-signedin-unverified = আপোনাৰ ইমেইল ঠিকনা { $email } সতা সত্য নিৰূপিত নহয়।
+sync-signedin-login-failure = পুনৰ সংযোগ কৰিবলৈ অনুগ্ৰহ কৰি ছাইন ইন কৰক { $email }
 sync-engine-bookmarks =
     .label = পত্ৰচিহ্নসমূহ
     .accesskey = m
@@ -178,6 +180,7 @@ sync-engine-history =
     .label = ইতিহাস
     .accesskey = r
 sync-tos-link = সেৱাৰ চুক্তিসমূহ
+sync-fxa-privacy-notice = গোপনীয়তা ঘোষণা
 
 ## Privacy Section
 
