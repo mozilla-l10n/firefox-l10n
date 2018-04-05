@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "Osoitekirja">
-<!ENTITY blankResultsPaneMessage.label                  "Tämä osoitekirja näyttää vain yhteystietoja vain haun jälkeen">
+<!ENTITY blankResultsPaneMessage.label                  "Tämä osoitekirja näyttää yhteystietoja vain haun jälkeen">
 <!ENTITY localResultsOnlyMessage.label                  "Yhteystietoja etäosoitekirjoista ei näytetä ennen hakua">
 
 <!-- File Menu -->
