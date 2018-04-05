@@ -381,11 +381,32 @@ containers-remove-button =
 
 sync-signedout-caption = Awi web-inek yid-k
 sync-signedout-account-title = Qqen ɣer { -fxaccount-brand-name }
+sync-signedout-account-create = Ur tesεiḍ ara amiḍan? Bdu
+    .accesskey = A
+sync-signedout-account-signin =
+    .label = Kcem…
+    .accesskey = G
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Beddel tugna n umaɣnu
+sync-disconnect =
+    .label = Tuffɣa…
+    .accesskey = k
+sync-manage-account = Sefrek amiḍan
+    .accesskey = m
 sync-signedin-unverified = { $email } ur ittusenqed ara.
 sync-signedin-login-failure = Ma ulac aɣilif sesteb akken ad tkecmeḍ { $email }
+sync-resend-verification =
+    .label = Ales tuzna n usentem
+    .accesskey = d
+sync-remove-account =
+    .label = Kkes amiḍan
+    .accesskey = R
+sync-sign-in =
+    .label = Qqen
+    .accesskey = Q
 sync-engine-history =
     .label = Amazray
     .accesskey = A
@@ -395,6 +416,8 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Sekles
     .accesskey = l
+sync-mobilepromo-single = Qqen ibenk nniḍen
+sync-mobilepromo-multi = Sefrek ibenkan
 sync-tos-link = Tiwtilin n useqdec
 sync-fxa-privacy-notice = Tasertit n tbaḍnit
 
