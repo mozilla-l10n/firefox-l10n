@@ -206,6 +206,19 @@ containers-preferences-button =
 containers-remove-button =
     .label = Избриши
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-engine-bookmarks =
+    .label = Обележувачи
+    .accesskey = б
+sync-engine-history =
+    .label = Историја
+    .accesskey = р
+sync-tos-link = Услови за употреба
+
 ## Privacy Section
 
 
