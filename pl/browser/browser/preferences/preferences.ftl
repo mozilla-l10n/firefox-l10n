@@ -359,6 +359,22 @@ containers-preferences-button =
 containers-remove-button =
     .label = Usuń
 
+## Sync Section - Signed out
+
+sync-signedout-caption = Zabierz swoją sieć ze sobą
+sync-signedout-description = Synchronizuj zakładki, historię, karty, hasła, dodatki i ustawienia między wszystkimi swoimi urządzeniami.
+sync-signedout-account-title = { -fxaccount-brand-name }
+
+## Sync Section - Signed in
+
+sync-signedin-unverified = Konto { $email } nie zostało zweryfikowane.
+sync-signedin-settings-header = Ustawienia synchronizacji
+sync-device-name-header = Nazwa urządzenia
+sync-mobilepromo-single = Połącz inne urządzenie
+sync-mobilepromo-multi = Zarządzaj urządzeniami
+sync-tos-link = Warunki korzystania z usługi
+sync-fxa-privacy-notice = Uwagi dotyczące prywatności
+
 ## Privacy Section
 
 privacy-header = Prywatność
