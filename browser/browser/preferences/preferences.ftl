@@ -385,6 +385,7 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = Leva-te lo web con tu
 sync-signedout-description = Sincroniza os tuyos marcapachinas, historial, pestanyas, claus, complementos y preferencias entre totz os tuyos dispositivos.
 sync-signedout-account-title = Connectar con una { -fxaccount-brand-name }
 
@@ -392,12 +393,24 @@ sync-signedout-account-title = Connectar con una { -fxaccount-brand-name }
 
 sync-signedin-unverified = { $email } no ye verificau.
 sync-signedin-login-failure = Enciete una sesión ta reconnectar { $email }
+sync-signedin-settings-header = Achustes de sincronización
+sync-signedin-settings-desc = Trigar qué sincronizar en os tuyos dispostivos fendo servir { -brand-short-name }.
 sync-engine-bookmarks =
     .label = Marcapachinas
     .accesskey = M
 sync-engine-history =
     .label = Historial
     .accesskey = r
+sync-device-name-header = Nombre d'o dispositivo
+sync-device-name-change =
+    .label = Cambiar lo nombre d'o dispositivo...
+    .accesskey = b
+sync-device-name-cancel =
+    .label = Cancelar
+    .accesskey = n
+sync-device-name-save =
+    .label = Alzar
+    .accesskey = z
 sync-tos-link = Termins d'o Servicio
 sync-fxa-privacy-notice = Nota sobre privacidat
 
