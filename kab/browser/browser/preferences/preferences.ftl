@@ -380,6 +380,7 @@ containers-remove-button =
 ## Sync Section - Signed out
 
 sync-signedout-caption = Awi web-inek yid-k
+sync-signedout-description = Semtawi ticraḍ-inek n yisebtar, amazray, accaren, awalen uffiren, izegrar, akked yismenyifen d yibenkan-inek akk.
 sync-signedout-account-title = Qqen ɣer { -fxaccount-brand-name }
 sync-signedout-account-create = Ur tesεiḍ ara amiḍan? Bdu
     .accesskey = A
@@ -407,9 +408,46 @@ sync-remove-account =
 sync-sign-in =
     .label = Qqen
     .accesskey = Q
+sync-signedin-settings-header = Iɣewwaren n umtawi
+sync-signedin-settings-desc = Fren ayen ara temtawiḍ deg yibenk-ik s useqdec n { -brand-short-name }.
+sync-engine-bookmarks =
+    .label = Ticraḍ n yisebtar
+    .accesskey = c
 sync-engine-history =
     .label = Amazray
     .accesskey = A
+sync-engine-tabs =
+    .label = Ldi accaren
+    .tooltiptext = Tabdart n wayen akka yeldin deg yibenkan akk yemtawan
+    .accesskey = T
+sync-engine-logins =
+    .label = Anekcum
+    .tooltiptext = Isem n uqesdac d wawalen uffiren i teskelseḍ
+    .accesskey = Y
+sync-engine-addresses =
+    .label = Tansiwin
+    .tooltiptext = Tansiwin n lpusṭa i teskelseḍ (aselkim kan)
+    .accesskey = w
+sync-engine-creditcards =
+    .label = Tikarḍiwin n usmad
+    .tooltiptext = Ismawen, imḍanen akked yizemziyen ifaten (aselkim kan)
+    .accesskey = G
+sync-engine-addons =
+    .label = Izegrar
+    .tooltiptext = Iseɣzaf akked yisental i Firefox n uselkim
+    .accesskey = z
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Iγewwaren
+           *[other] Ismenyifen
+        }
+    .tooltiptext = Amatu, tabaḍnit, akked yiɣewwaren n tɣellist ttubeddlen
+    .accesskey = y
+sync-device-name-header = Isem n yibenk
+sync-device-name-change =
+    .label = Beddel isem n yibenk…
+    .accesskey = q
 sync-device-name-cancel =
     .label = Sefsex
     .accesskey = x
