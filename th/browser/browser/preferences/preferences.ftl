@@ -373,12 +373,16 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-account-title = เชื่อมต่อกับ { -fxaccount-brand-name }
 
 ## Sync Section - Signed in
 
 sync-engine-history =
     .label = ประวัติ
     .accesskey = ป
+sync-device-name-header = ชื่ออุปกรณ์
+sync-tos-link = เงื่อนไขการให้บริการ
+sync-fxa-privacy-notice = ประกาศความเป็นส่วนตัว
 
 ## Privacy Section
 
