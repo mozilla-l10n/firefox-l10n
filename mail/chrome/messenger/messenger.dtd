@@ -649,6 +649,7 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "წერილების მიღება">
 <!ENTITY folderContextGetMessages.accesskey "G">
+<!ENTITY folderContextMarkAllFoldersRead.label "ყველა საქაღალდის წაკითხულად მონიშვნა">
 <!ENTITY folderContextPauseAllUpdates.label "ყველა განახლების შეჩერება">
 <!ENTITY folderContextPauseUpdates.label "განახლებების შეჩერება">
 <!ENTITY folderContextPauseUpdates.accesskey "გ">
