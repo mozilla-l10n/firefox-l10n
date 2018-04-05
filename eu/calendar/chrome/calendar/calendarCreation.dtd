@@ -40,5 +40,10 @@
 
 <!ENTITY calendartype.label "Egutegi mota:">
 <!ENTITY location.label "Kokapena:">
+<!ENTITY location.placeholder "Egutegi zerbitzuaren URL edo ostalari izena">
 
+<!ENTITY network.nocredentials.label "Kokapen honek ez du kredentzialik behar">
+<!ENTITY network.loading.description "Mesedez itxaron zure egutegiak bilatu artean.">
+<!ENTITY network.notfound.description "Ezin bilatu egutegirik kokapen honetan. Mesedez begiratu zure ezarpenak.">
+<!ENTITY network.authfail.description "Zuk sartutako kredentzialak ez dira onartu. Mesedez begiratu zure ezarpenak.">
 
