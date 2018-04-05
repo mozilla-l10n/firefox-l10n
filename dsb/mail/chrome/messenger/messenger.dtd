@@ -649,6 +649,7 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Powěsći wobstaraś">
 <!ENTITY folderContextGetMessages.accesskey "P">
+<!ENTITY folderContextMarkAllFoldersRead.label "Wšykne zarědniki ako pśecytane markěrowaś">
 <!ENTITY folderContextPauseAllUpdates.label "Wše aktualizacije zastajiś">
 <!ENTITY folderContextPauseUpdates.label "Aktualizacije zastajiś">
 <!ENTITY folderContextPauseUpdates.accesskey "A">
