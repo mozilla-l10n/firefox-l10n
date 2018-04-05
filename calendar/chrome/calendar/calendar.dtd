@@ -180,12 +180,37 @@
 <!ENTITY calendar.context.attendance.occurrence.label           "See kord">
 <!ENTITY calendar.context.attendance.all.label        "Kõik korrad" >
 
+<!ENTITY calendar.context.attendance.all2.label                 "Kõik toimumiskorrad">
+<!ENTITY calendar.context.attendance.send.label                 "Teavitus saadetakse kohe">
+<!ENTITY calendar.context.attendance.send.accesskey             "k">
+<!ENTITY calendar.context.attendance.dontsend.label             "Teavitust ei saadeta">
+<!ENTITY calendar.context.attendance.dontsend.accesskey         "e">
 
 <!ENTITY calendar.context.attendance.occ.accepted.accesskey     "A">
 <!ENTITY calendar.context.attendance.occ.accepted.label         "Aktsepteeritud">
 <!ENTITY calendar.context.attendance.occ.tentative.accesskey    "K">
 <!ENTITY calendar.context.attendance.occ.tentative.label        "Kahtlevalt aktsepteeritud">
+<!ENTITY calendar.context.attendance.occ.declined.accesskey     "e">
+<!ENTITY calendar.context.attendance.occ.declined.label         "Keeldutud">
+<!ENTITY calendar.context.attendance.occ.delegated.accesskey    "D">
+<!ENTITY calendar.context.attendance.occ.delegated.label        "Delegeeritud">
+<!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "o">
+<!ENTITY calendar.context.attendance.occ.needsaction.label      "Vajab endiselt otsustamist">
+<!ENTITY calendar.context.attendance.occ.inprogress.accesskey   "P">
+<!ENTITY calendar.context.attendance.occ.inprogress.label       "Pooleli">
+<!ENTITY calendar.context.attendance.occ.completed.accesskey    "L">
+<!ENTITY calendar.context.attendance.occ.completed.label        "Lõpetatud">
 
+<!ENTITY calendar.context.attendance.all.accepted.accesskey     "A">
+<!ENTITY calendar.context.attendance.all.accepted.label         "Aktsepteeritud">
+<!ENTITY calendar.context.attendance.all.tentative.accesskey    "K">
+<!ENTITY calendar.context.attendance.all.tentative.label        "Kahtlevalt aktsepteeritud">
+<!ENTITY calendar.context.attendance.all.declined.accesskey     "e">
+<!ENTITY calendar.context.attendance.all.declined.label         "Keeldutud">
+<!ENTITY calendar.context.attendance.all.delegated.accesskey    "D">
+<!ENTITY calendar.context.attendance.all.delegated.label        "Delegeeritud">
+<!ENTITY calendar.context.attendance.all.needsaction.accesskey  "o">
+<!ENTITY calendar.context.attendance.all.needsaction.label      "Vajab endiselt otsustamist">
 <!ENTITY calendar.context.attendance.all.inprogress.accesskey   "P">
 <!ENTITY calendar.context.attendance.all.inprogress.label       "Pooleli">
 <!ENTITY calendar.context.attendance.all.completed.accesskey    "L">
