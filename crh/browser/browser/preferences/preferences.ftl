@@ -358,6 +358,9 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = Ağıñıznı Yanıñızda Alıñız
+sync-signedout-description = Saife-imleriñiz, keçmişiñiz, ilmekleriñiz, sır-sözleriñiz, eklentileriñiz ve tercihleriñizni episi cihazlarıñız arqalı aynılaştırıñız.
+sync-signedout-account-title = Bir { -fxaccount-brand-name } ile bağlanıñız
 sync-signedout-account-create = Esabıñız yoqmı? Açmağa başlañız
     .accesskey = l
 sync-signedout-account-signin =
@@ -366,9 +369,58 @@ sync-signedout-account-signin =
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Profil resmini deñiştir
+sync-disconnect =
+    .label = Bağlantını qopar…
+    .accesskey = o
+sync-manage-account = Esapnı idare et
+    .accesskey = e
 sync-signedin-unverified = { $email } doğrulanğan degildir
 sync-signedin-login-failure = Kene bağlanmaq içün lütfen içeri imzalanıñız { $email }
+sync-resend-verification =
+    .label = Doğrulamanı Kene Yiber
+    .accesskey = r
+sync-sign-in =
+    .label = İçeri İmzalan
+    .accesskey = r
+sync-signedin-settings-header = Sync Ayarları
 sync-signedin-settings-desc = { -brand-short-name } qullanğan cihazlarıñız üzerinde ne aynılaştırılacağını saylañız.
+sync-engine-bookmarks =
+    .label = Saife-imleri
+    .accesskey = S
+sync-engine-history =
+    .label = Keçmiş
+    .accesskey = K
+sync-engine-tabs =
+    .label = Açıq ilmekler
+    .tooltiptext = Aynılaştırılğan cihazlarnıñ episi üzerinde açıq olğan şeylerniñ bir listesi
+    .accesskey = l
+sync-engine-logins =
+    .label = İçeri-imzalanışlar
+    .tooltiptext = Saqlağan olğanıñız qullanıcı adları ve sır-sözler
+    .accesskey = i
+sync-engine-addresses =
+    .label = Adresler
+    .tooltiptext = Saqlağan olğanıñız poçta adresleri (faqat masaüstü)
+    .accesskey = e
+sync-engine-creditcards =
+    .label = Kredit kartları
+    .tooltiptext = İsimler, sayılar ve eskiriş tarihleri (faqat masaüstü)
+    .accesskey = K
+sync-engine-addons =
+    .label = Eklentiler
+    .tooltiptext = Firefox masaüstü içün uzantılar ve temalar
+    .accesskey = E
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Seçenekler
+           *[other] Tercihler
+        }
+    .tooltiptext = Deñiştirgen olğanıñız Umumiy, Hususiyat ve Emniyet ayarları
+    .accesskey = T
+sync-device-name-header = Cihaz İsmi
 sync-device-name-change =
     .label = Cihaz Adını Deñiştir…
     .accesskey = h
@@ -378,6 +430,7 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Saqla
     .accesskey = S
+sync-tos-link = Hızmet Şartları
 sync-fxa-privacy-notice = Hususiyat Tebliği
 
 ## Privacy Section
