@@ -393,6 +393,8 @@ sync-signedout-account-title = Conectar con una { -fxaccount-brand-name }
 
 sync-signedin-unverified = Determinando el estado de tu cuenta... { $email } no está verificado.
 sync-signedin-login-failure = Inicia sesión para reconectar { $email } Favor de iniciar la sesión para reconectar
+sync-signedin-settings-header = Sincronizar configuraciones
+sync-signedin-settings-desc = Usa { -brand-short-name } para escoger lo que quiere sincronizar en tu dispositivos.
 sync-engine-bookmarks =
     .label = Marcadores
     .accesskey = M
