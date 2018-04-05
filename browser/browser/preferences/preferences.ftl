@@ -365,17 +365,32 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = El vostre web a tot arreu
+sync-signedout-description = Sincronitzeu les vostres adreces d'interès, historial, pestanyes, contrasenyes, complements i preferències en tots els vostres dispositius.
+sync-signedout-account-title = Connecteu-vos amb un { -fxaccount-brand-name }
 
 ## Sync Section - Signed in
 
 sync-signedin-unverified = { $email } no està verificat.
 sync-signedin-login-failure = Inicieu la sessió per tornar-vos a connectar { $email }
+sync-signedin-settings-header = Paràmetres de sincronització
+sync-signedin-settings-desc = Trieu què voleu sincronitzar entre els vostres dispositius que utilitzen el { -brand-short-name }.
 sync-engine-bookmarks =
     .label = Adreces d'interès
     .accesskey = d
 sync-engine-history =
     .label = Historial
     .accesskey = r
+sync-device-name-header = Nom del dispositiu
+sync-device-name-change =
+    .label = Canvia el nom del dispositiu…
+    .accesskey = v
+sync-device-name-cancel =
+    .label = Cancel·la
+    .accesskey = n
+sync-device-name-save =
+    .label = Desa
+    .accesskey = D
 sync-tos-link = Condicions del servei
 sync-fxa-privacy-notice = Avís de privadesa
 
