@@ -396,8 +396,24 @@ sync-signedout-account-signin =
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Tijal ruwachib'al ruwäch b'i'aj
+sync-disconnect =
+    .label = Tichup…
+    .accesskey = c
+sync-manage-account = Tinuk'samajïx rub'i' taqoya'l
+    .accesskey = y
 sync-signedin-unverified = { $email } man jikib'an ta.
 sync-signedin-login-failure = Tatikirisaj molojri'ïl richin yatok chik { $email }
+sync-resend-verification =
+    .label = Titaq chik Jikib'anïk
+    .accesskey = q
+sync-remove-account =
+    .label = Tiyuj Rub'i' Taqoya'l
+    .accesskey = p
+sync-sign-in =
+    .label = Tatikirisaj molojri'ïl
+    .accesskey = t
 sync-signedin-settings-header = Taq Runuk'ulem Ximojri'ïl
 sync-signedin-settings-desc = Tacha' achike ye'axïm pa taq awokisaxel rik'in { -brand-short-name }.
 sync-engine-bookmarks =
@@ -406,6 +422,34 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = K'ulwachinel
     .accesskey = e
+sync-engine-tabs =
+    .label = Kejaq taq ruwi'
+    .tooltiptext = Jun rucholb'al ri achike jaqäl pa konojel ri taq okisaxel eximon
+    .accesskey = T
+sync-engine-logins =
+    .label = Ketikirisäx molojri'ïl
+    .tooltiptext = Kib'i' winäq chuqa' ewan taq tzij e'ayakon
+    .accesskey = K
+sync-engine-addresses =
+    .label = Taq Ochochib'äl
+    .tooltiptext = Kochochib'al b'ow e'ayakon (xa xe ajkematz'ib')
+    .accesskey = i
+sync-engine-creditcards =
+    .label = Taq Ch'utit'im pwäq
+    .tooltiptext = Taq b'i'aj, taq ajilab'äl chuqa' nik'is kiq'ijul taq q'ijul (xa xe ajk'ematz'ib')
+    .accesskey = C
+sync-engine-addons =
+    .label = Taq tz'aqat
+    .tooltiptext = Taq k'amal chuqa' taq wachinïk richin Firefox ajk'ematz'ib'
+    .accesskey = t
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Taq cha'oj
+           *[other] Taq ajowab'äl
+        }
+    .tooltiptext = Chijun Runuk'ulem, Ichinanem chuqa' Jikomal e'ajalon
+    .accesskey = a
 sync-device-name-header = Rub'i' ri okisaxel
 sync-device-name-change =
     .label = Tijal rub'i' okisaxel…
@@ -416,6 +460,8 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Tiyak
     .accesskey = a
+sync-mobilepromo-single = Tokisäx jun chik okisaxel
+sync-mobilepromo-multi = Kenuk'samajïx taq okisaxel
 sync-tos-link = Ketal Samaj
 sync-fxa-privacy-notice = Ichinan na'oj
 
