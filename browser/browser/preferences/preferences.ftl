@@ -383,6 +383,15 @@ containers-preferences-button =
 containers-remove-button =
     .label = Scancella
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-engine-history =
+    .label = Stöia
+    .accesskey = S
+
 ## Privacy Section
 
 privacy-header = Privacy do navegatô
