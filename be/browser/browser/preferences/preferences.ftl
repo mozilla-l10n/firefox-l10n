@@ -383,6 +383,7 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = Вазьміце сваё Сеціва з сабой
 
 ## Sync Section - Signed in
 
@@ -394,6 +395,10 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Гісторыя
     .accesskey = Г
+sync-device-name-header = Назва прылады
+sync-device-name-cancel =
+    .label = Скасаваць
+    .accesskey = ь
 sync-tos-link = Умовы абслугоўвання
 
 ## Privacy Section
