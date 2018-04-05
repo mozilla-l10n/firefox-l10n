@@ -397,6 +397,9 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Historikk
     .accesskey = H
+sync-device-name-cancel =
+    .label = Avbryt
+    .accesskey = A
 sync-tos-link = Tenestevilkår
 
 ## Privacy Section
