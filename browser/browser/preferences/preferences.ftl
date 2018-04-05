@@ -385,16 +385,23 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = Lleva la Web contigo
+sync-signedout-description = Sincroniza tus marcadores, historial, pestañas, contraseñas, complementos y preferencias entre todos tus dispositivos.
+sync-signedout-account-title = Conectar con una { -fxaccount-brand-name }
 
 ## Sync Section - Signed in
 
+sync-signedin-unverified = Determinando el estado de tu cuenta... { $email } no está verificado.
+sync-signedin-login-failure = Inicia sesión para reconectar { $email } Favor de iniciar la sesión para reconectar
 sync-engine-bookmarks =
     .label = Marcadores
     .accesskey = M
 sync-engine-history =
     .label = Historial
     .accesskey = r
+sync-device-name-header = Nombre del dispositivo
 sync-tos-link = Términos del servicio
+sync-fxa-privacy-notice = Política de privacidad
 
 ## Privacy Section
 
