@@ -188,6 +188,8 @@
    - populate the form fields in the dialog, there's no other immediate action on clicking like with
    - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
+<!ENTITY counter.button.proposal.label                    "Käytä ehdotusta">
+<!ENTITY counter.button.proposal.accesskey                "e">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Otsikko:" >
