@@ -25,7 +25,7 @@
 <!ENTITY generic.title "Nu se poate duce la capăt cererea">
 <!ENTITY generic.longDesc "<p>În prezent nu sunt disponibile informații suplimentare despre această problemă sau eroare.</p>">
 
-<!ENTITY malformedURI.title "Adresă greșită">
+<!ENTITY malformedURI.title "Adresă nevalidă">
 <!ENTITY malformedURI.longDesc "<p>Adresa furnizată nu este într-un format recunoscut. Te rugăm să verifici ca bara adresei să nu conțină greșeli și încearcă din nou.</p>">
 
 <!ENTITY netInterrupt.title "Transfer de date întrerupt">
