@@ -649,6 +649,7 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Berjochten ophelje">
 <!ENTITY folderContextGetMessages.accesskey "B">
+<!ENTITY folderContextMarkAllFoldersRead.label "Alle mappen as lêzen markearje">
 <!ENTITY folderContextPauseAllUpdates.label "Alle fernijingen pausearje">
 <!ENTITY folderContextPauseUpdates.label "Fernijingen pausearje">
 <!ENTITY folderContextPauseUpdates.accesskey "p">
