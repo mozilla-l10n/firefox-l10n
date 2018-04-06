@@ -9,6 +9,7 @@
 <!ENTITY iconsAndText.label       "Eiconau a Thestun">
 <!ENTITY icons.label              "Eiconau">
 <!ENTITY text.label               "Testun">
+<!ENTITY iconsBesideText.label    "Eiconau gerllaw Testun">
 <!ENTITY useSmallIcons.label      "Defnyddio Eiconau Bach">
 <!ENTITY restoreDefaultSet.label  "Adfer y Set Ragosodedig">
 <!ENTITY addNewToolbar.label      "Ychwanegu Bar Offer Newydd">

@@ -36,6 +36,12 @@
 <!ENTITY newFeedAccountCmd.accesskey "y">
 <!ENTITY newIMContactCmd.label "Cysylltiad Sgwrsio…">
 <!ENTITY newIMContactCmd.accesskey "S">
+<!ENTITY  newMessageCmd2.key "E">
+<!ENTITY  newMessageCmd.key "N">
+<!ENTITY  newMessageCmd.label "Neges">
+<!ENTITY  newMessageCmd.accesskey "n">
+<!ENTITY  newContactCmd.label "Cysylltiad Llyfr Cyfeiriadau…">
+<!ENTITY  newContactCmd.accesskey "C">
 <!ENTITY openMessageFileCmd.label "Agor Neges Wedi'i Chadw…">
 <!ENTITY openMessageFileCmd.accesskey "s">
 <!ENTITY saveAsMenu.label "Cadw Fel">
@@ -317,7 +323,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Sgwrsio">
 <!ENTITY goChatCmd.accesskey "g">
-<!ENTITY goChatCmd.key "I">
 <!ENTITY goChatCmd2.key "g">
 <!ENTITY prevStarredMsgCmd.label "Neges Serennog">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
@@ -510,8 +515,6 @@
 <!ENTITY devToolboxCmd.label "Blwch Offer Datblygwyr">
 <!ENTITY devToolboxCmd.accesskey "B">
 <!ENTITY devToolboxCmd.commandkey "i">
-<!ENTITY addonDebugCmd.label "Dadfygiwr Ychwanegion">
-<!ENTITY addonDebugCmd.accesskey "D">
 <!ENTITY debugAddonsCmd.label "Ychwanegion Dadfygio">
 <!ENTITY debugAddonsCmd.accesskey "Y">
 <!ENTITY tabsDebugCmd.label "Dadfygiwr Cynnwys Ffrâm">
@@ -646,6 +649,7 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Estyn Negeseuon">
 <!ENTITY folderContextGetMessages.accesskey "s">
+<!ENTITY folderContextMarkAllFoldersRead.label "Marcio Pob Ffolder Wedi'u Darllen">
 <!ENTITY folderContextPauseAllUpdates.label "Oedi Pob Diweddariad">
 <!ENTITY folderContextPauseUpdates.label "Oedi Diweddariadau">
 <!ENTITY folderContextPauseUpdates.accesskey "D">
