@@ -79,13 +79,13 @@
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableChrome.label5    "Browserchrome- en add-on-debugging-wurksets ynskeakelje">
-<!ENTITY options.enableChrome.tooltip3  "Troch dizze opsje oan te setten, kinne jo ferskate ûntwikkelersark yn browserkontekst brûke (fia Ekstra > Webûntwikkeler > Browserwurkset) en flaters yn add-ons fan de add-onbehearder opspoare">
+<!ENTITY options.enableChrome.tooltip3  "Troch dizze opsje oan te setten, kinne jo in ferskaat oan ûntwikkelersark yn browserkontekst brûke (fia Ekstra > Webûntwikkeler > Browserwurkset) en flaters yn add-ons fan de add-onbehearder opspoare">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableRemote.label3    "Remote debugging ynskeakelje">
-<!ENTITY options.enableRemote.tooltip2  "Troch dizze opsje oan te setten, kinne de ûntwikkelersark in instance op in oar apparaat lykas Firefox OS debugge">
+<!ENTITY options.enableRemote.tooltip2  "Troch dizze opsje oan te setten, kin it ûntwikkelersark in instance op in oar apparaat lykas Firefox OS debugge">
 
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
@@ -152,7 +152,7 @@
 <!-- LOCALIZATION NOTE (options.sourceMaps.label): This is the
    - label for the checkbox that toggles source maps in all tools -->
 <!ENTITY options.sourceMaps.label      "Boarneferwizingen ynskeakelje">
-<!ENTITY options.sourceMaps.tooltip1   "As jo dizze opsje ynskeakelje, sille boarnen yn de ark tawizen wurde.">
+<!ENTITY options.sourceMaps.tooltip1   "As jo dizze opsje ynskeakelje, sille boarnen yn it ark tawizen wurde.">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
