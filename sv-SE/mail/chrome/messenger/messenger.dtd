@@ -649,6 +649,7 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Hämta meddelanden">
 <!ENTITY folderContextGetMessages.accesskey "H">
+<!ENTITY folderContextMarkAllFoldersRead.label "Märk alla mappar som lästa">
 <!ENTITY folderContextPauseAllUpdates.label "Pausa alla uppdateringar">
 <!ENTITY folderContextPauseUpdates.label "Pausa uppdateringar">
 <!ENTITY folderContextPauseUpdates.accesskey "u">
