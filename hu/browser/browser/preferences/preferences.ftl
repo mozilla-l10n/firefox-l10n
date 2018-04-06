@@ -14,8 +14,12 @@ pref-page =
             [windows] Beállítások
            *[other] Beállítások
         }
-# This string is currently used only in Firefox 60 and will be removed when not
-# needed for x-channel. See bug 1445686 for details.
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
 search-input =
     .style = width: 15.4em
 # This is used to determine the width of the search field in about:preferences,
@@ -520,6 +524,10 @@ sitedata-block-cookies-option =
     .accesskey = b
 sitedata-keep-until = Sütik megtartása
     .accesskey = m
+sitedata-keep-until-expire =
+    .label = Lejárnak
+sitedata-keep-until-closed =
+    .label = A { -brand-short-name } zárolva van
 sitedata-accept-third-party-desc = Harmadik féltől származó sütik és oldaladatok elfogadása
     .accesskey = f
 sitedata-accept-third-party-always-option =
