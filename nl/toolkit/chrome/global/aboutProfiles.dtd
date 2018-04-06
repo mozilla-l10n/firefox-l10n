@@ -7,4 +7,4 @@
 <!ENTITY aboutProfiles.create "Een nieuw profiel aanmaken">
 <!ENTITY aboutProfiles.restart.title "Herstarten">
 <!ENTITY aboutProfiles.restart.inSafeMode "Herstarten met uitgeschakelde add-ons…">
-<!ENTITY aboutProfiles.restart.normal "Normaal starten…">
+<!ENTITY aboutProfiles.restart.normal "Normaal herstarten…">
