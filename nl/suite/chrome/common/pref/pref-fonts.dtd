@@ -61,9 +61,9 @@
 <!ENTITY  font.langGroup.tibetan                  "Tibetaans">
 <!ENTITY  font.langGroup.other                    "Andere schriftsystemen">
 <!-- Minimum font size -->
-<!ENTITY  minSize.label                           "Minimale lettergrootte:">
-<!ENTITY  minSize.accesskey                       "n">
-<!ENTITY  minSize.none                            "Geen">
+<!ENTITY minSize.label                            "Minimale lettergrootte:">
+<!ENTITY minSize.accesskey                        "n">
+<!ENTITY minSize.none                             "Geen">
 
 <!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "Met schreef">

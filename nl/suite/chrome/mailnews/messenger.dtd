@@ -422,7 +422,7 @@
 <!ENTITY notJunkButton.label "Niet ongewenst">
 <!ENTITY searchButton.title "Uitgebreid zoeken">
 
-<!--Tooltips-->
+<!-- Tooltips -->
 <!ENTITY menuBar.tooltip "Menubalk">
 <!ENTITY mailToolbar.tooltip "E-mailwerkbalk">
 <!ENTITY searchToolbar.tooltip "Zoekbalk">
