@@ -4,11 +4,11 @@
 
 <!ENTITY     window.title                  "Paramètres - Donadas de site">
 
-<!ENTITY     window1.title                 "Paramètres - Cookies e donadas dels sites">
 <!ENTITY     hostCol.label                 "Site">
 <!ENTITY     statusCol.label               "Estatut">
 <!ENTITY     cookiesCol.label              "Cookies">
 <!ENTITY     usageCol.label                "Estocatge">
+<!ENTITY     lastAccessedCol.label                "Darrièra utilizacion">
 <!ENTITY     searchTextboxPlaceHolder             "Recercar de sites web">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
 <!ENTITY     removeSelected.label          "Suprimir çò seleccionat">

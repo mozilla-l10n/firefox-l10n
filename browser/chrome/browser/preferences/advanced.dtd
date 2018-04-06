@@ -51,8 +51,6 @@ available. -->
 <!ENTITY networkProxy.label              "Proxy de ret">
 
 <!ENTITY connectionDesc.label            "Configurar cossí &brandShortName; se connècta a internet">
-
-<!ENTITY connectionSettingsLearnMore.label "Ne saber mai">
 <!ENTITY connectionSettings.label        "Paramètres">
 <!ENTITY connectionSettings.accesskey    "e">
 
@@ -62,10 +60,12 @@ available. -->
 <!ENTITY siteData.label                  "Donadas del site">
 <!ENTITY clearSiteData.label             "Escafar totas las donadas">
 <!ENTITY clearSiteData.accesskey         "I">
-<!ENTITY siteData1.label                 "Cookies e donadas de sites">
-<!ENTITY clearSiteData1.label            "Esfaçament de las donadas…">
 <!ENTITY siteDataSettings.label          "Paramètres…">
 <!ENTITY siteDataSettings.accesskey      "i">
+<!ENTITY siteData1.label                 "Cookies e donadas de sites">
+<!ENTITY clearSiteData1.label            "Esfaçament de las donadas…">
+<!ENTITY siteDataSettings1.label         "Gerir las donadas…">
+<!ENTITY siteDataSettings1.accesskey     "G">
 <!ENTITY siteDataLearnMoreLink.label     "Ne saber mai">
 
 <!-- LOCALIZATION NOTE:
