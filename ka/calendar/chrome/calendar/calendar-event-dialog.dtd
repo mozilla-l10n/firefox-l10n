@@ -263,7 +263,7 @@
 <!ENTITY event.statusbarpanel.privacy.label               "პირადულობა:">
 
 <!-- Recurrence dialog -->
-<!ENTITY recurrence.title.label                         "გამეორების რედაქცია">
+<!ENTITY recurrence.title.label                         "გამეორების მითითება">
 
 <!ENTITY event.repeat.does.not.repeat.label             "გამეორების გარეშე">
 <!ENTITY event.repeat.daily.label                       "ყოველდღე">
@@ -282,15 +282,15 @@
 <!ENTITY event.recurrence.year.label                    "ყოველწლიური" >
 
 <!ENTITY event.recurrence.pattern.every.label           "ყოველ" >
-<!ENTITY repeat.units.days.both                         "დღე" >
+<!ENTITY repeat.units.days.both                         "დღეში" >
 <!ENTITY event.recurrence.pattern.every.weekday.label   "ყოველ სამუშაო დღეს" >
 
 <!ENTITY event.recurrence.pattern.weekly.every.label    "ყოველი" >
-<!ENTITY repeat.units.weeks.both                        "კვირა" >
+<!ENTITY repeat.units.weeks.both                        "კვირაში" >
 <!ENTITY event.recurrence.on.label                      "თარიღი:" >
 
 <!ENTITY event.recurrence.pattern.monthly.every.label   "ყოველ" >
-<!ENTITY repeat.units.months.both                       "თვე" >
+<!ENTITY repeat.units.months.both                       "თვეში" >
 <!ENTITY event.recurrence.monthly.every.label           "ყოველი" >
 <!ENTITY event.recurrence.monthly.first.label           "პირველი">
 <!ENTITY event.recurrence.monthly.second.label          "მეორე">
@@ -309,7 +309,7 @@
 <!ENTITY event.recurrence.repeat.recur.label            "შემდეგი დღე(ებ)ი">
 
 <!ENTITY event.recurrence.every.label                        "ყოველი:" >
-<!ENTITY repeat.units.years.both                             "წელი" >
+<!ENTITY repeat.units.years.both                             "წელიწადში" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "ყოველი" >
 
 <!-- LOCALIZATON NOTE
@@ -365,7 +365,7 @@
 <!ENTITY event.recurrence.range.label                   "განმეორებათა რანგი">
 <!ENTITY event.recurrence.forever.label                 "დასრულების თარიღის გარეშე" >
 <!ENTITY event.recurrence.repeat.for.label              "შექმნა" >
-<!ENTITY event.recurrence.appointments.label            "დანიშნულ(ებ)ი" >
+<!ENTITY event.recurrence.appointments.label            "რაოდენობით" >
 <!ENTITY event.repeat.until.label                       "გამეორება მოცემულ თარიღამდე" >
 <!ENTITY event.recurrence.preview.label                 "შეთვალიერება">
 
