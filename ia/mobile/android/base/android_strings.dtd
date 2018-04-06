@@ -269,7 +269,7 @@
 <!ENTITY pref_tap_to_load_images_disabled2 "Blocate">
 
 <!ENTITY pref_show_web_fonts "Monstrar typos de characteres de sito del web">
-<!ENTITY pref_show_web_fonts_summary2 "Discargar typos de characteres remote quando cargante un pagina">
+<!ENTITY pref_show_web_fonts_summary2 "Discargar typos de characteres remote al cargamento de un pagina">
 
 <!ENTITY pref_tracking_protection_title2 "Protection contra le traciamento">
 <!ENTITY pref_donottrack_title "Non traciar">
