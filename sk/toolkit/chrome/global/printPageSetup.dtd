@@ -11,7 +11,7 @@
 <!ENTITY formatGroup.label   "Formát">
 
 <!ENTITY orientation.label   "Orientácia:">
-<!ENTITY portrait.label      "na výšku">
+<!ENTITY portrait.label      "Na výšku">
 <!ENTITY portrait.accesskey  "n">
 <!ENTITY landscape.label     "na šírku">
 <!ENTITY landscape.accesskey "a">
