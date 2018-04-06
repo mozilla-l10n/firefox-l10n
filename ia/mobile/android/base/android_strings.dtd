@@ -254,7 +254,7 @@
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Habilitate">
 <!ENTITY pref_cookies_not_accept_foreign "Habilitate, excludente partitas tertia">
-<!ENTITY pref_cookies_disabled "Dishabilitate">
+<!ENTITY pref_cookies_disabled "Disactivate">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
@@ -662,7 +662,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Tracking content notifications in site identity popup -->
 <!ENTITY doorhanger_tracking_title2 "Protection contra le traciamento">
 <!ENTITY doorhanger_tracking_state_enabled "Habilitate">
-<!ENTITY doorhanger_tracking_state_disabled "Dishabilitate">
+<!ENTITY doorhanger_tracking_state_disabled "Disactivate">
 <!ENTITY doorhanger_tracking_message_enabled1 "Le tentativas de traciar tu comportamento in rete ha essite blocate.">
 <!ENTITY doorhanger_tracking_message_disabled2 "Iste pagina include elementos que potera traciar tu navigation.">
 
