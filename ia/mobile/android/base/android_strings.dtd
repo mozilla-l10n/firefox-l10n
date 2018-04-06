@@ -32,12 +32,12 @@
 <!ENTITY firstrun_tabqueue_subtext_off "Salva ligamines pro depois in &brandShortName; quando los tocca in altere applicationes.">
 
 <!ENTITY firstrun_tabqueue_message_on "Successo!">
-<!ENTITY firstrun_tabqueue_subtext_on "Semper tu pote disactivar iste in &settings; sub &pref_category_general;.">
+<!ENTITY firstrun_tabqueue_subtext_on "Semper tu pote disactivar isto in &settings; sub &pref_category_general;.">
 
 <!ENTITY firstrun_readerview_title "Articulos">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 <!ENTITY firstrun_readerview_message "Perder le disordine">
-<!ENTITY firstrun_readerview_subtext "Usa le vista de lectura pro facilitar le lectura de los artículos \u2014 sin conexión mesmo.">
+<!ENTITY firstrun_readerview_subtext "Usa le vista de lectura pro facilitar le lectura de los articulos \u2014 mesmo sin connexion.">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Tu">
