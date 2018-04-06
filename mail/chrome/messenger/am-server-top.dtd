@@ -15,7 +15,7 @@
 <!ENTITY port.label "პორტი:">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "ძირითადი:">
-<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammar dependency
         For example, in Japanese cases:
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
@@ -51,7 +51,7 @@
 <!ENTITY modelMarkDeleted.label "მონიშვნა წაშლილად">
 <!ENTITY modelMarkDeleted.accesskey "k">
 <!ENTITY modelDeleteImmediately.label "მყისვე ამოშლა">
-<!ENTITY modelDeleteImmediately.accesskey "d">
+<!ENTITY modelDeleteImmediately.accesskey "ყ">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "&quot;შემოსული&quot; დასტის გაწმენდა გასვლისას">
 <!ENTITY expungeOnExit.accesskey "E">
