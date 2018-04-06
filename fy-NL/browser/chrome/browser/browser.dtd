@@ -16,7 +16,7 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Priveesneupe)">
 
 <!ENTITY appmenu.tooltip                     "Menu iepenje">
-<!ENTITY navbarOverflow.label                "Mear helpmiddelen…">
+<!ENTITY navbarOverflow.label                "Mear ark…">
 
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Ljepblêd fernije">
