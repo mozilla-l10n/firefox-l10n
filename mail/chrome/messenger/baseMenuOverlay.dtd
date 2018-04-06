@@ -20,9 +20,9 @@
 <!ENTITY openHelp.label "Ohjeen aiheet">
 <!ENTITY openHelp.accesskey "O">
 <!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac2.label "&brandFullName; ohje">
+<!ENTITY openHelpMac2.label "&brandFullName;in ohje">
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 
-<!ENTITY aboutMenuCmd2.label "Tietoja &brandFullName;ista">
+<!ENTITY aboutMenuCmd2.label "Tietoja &brandFullName;istä">
 <!ENTITY aboutMenuCmd2.accesskey "T">
