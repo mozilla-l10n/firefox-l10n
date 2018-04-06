@@ -82,6 +82,7 @@ search-results-sorry-message =
         [windows] Ne pare rău! Nu există rezultate în Opțiuni pentru „<span></span>”.
        *[other] Ne pare rău! Nu există rezultate în Preferințe pentru „<span></span>”.
     }
+search-results-need-help = Ai nevoie de ajutor? Vizitează <a>pagina de suport { -brand-short-name }</a>
 
 ## General Section
 
@@ -409,6 +410,9 @@ sync-signedin-login-failure = Te rugăm să te autentifici pentru reconectare { 
 sync-resend-verification =
     .label = Retrimite verificarea
     .accesskey = d
+sync-remove-account =
+    .label = Elimină contul
+    .accesskey = R
 sync-sign-in =
     .label = Autentifică-te
     .accesskey = g
@@ -522,6 +526,10 @@ sitedata-block-cookies-option =
     .accesskey = B
 sitedata-keep-until = Păstrează-le până când
     .accesskey = u
+sitedata-keep-until-expire =
+    .label = Expiră
+sitedata-keep-until-closed =
+    .label = { -brand-short-name } este închis
 sitedata-accept-third-party-desc = Acceptă cookie-uri de la terți și datele site-urilor
     .accesskey = y
 sitedata-accept-third-party-always-option =
