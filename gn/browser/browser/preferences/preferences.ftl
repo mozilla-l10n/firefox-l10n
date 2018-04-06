@@ -296,6 +296,9 @@ home-new-windows-tabs-description = Eiporavo ehecháva eikévo nde kuatiarogue �
 
 home-homepage-mode-label = Togue moñepyrû ha ovetâ pyahu 
 home-newtabs-mode-label = tendayke pyahu 
+home-restore-defaults =
+    .label = mbopyahujey techa mboyvegua
+    .accesskey = m
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
