@@ -59,8 +59,8 @@
 <!ENTITY fxaccount_status_needs_verification2 'Vostre conto besonia ser verificate. Toccar pro reinviar le email de verification.'>
 <!ENTITY fxaccount_status_needs_credentials 'Non se pote connecter. Tocca pro initiar session.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Vos besonia actualizar &brandShortName; pro se connecter.'>
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; es configurate, ma non autosynchronizante. Habilitar “Auto-sync datos” en parametros de Android &gt; Usage de Datos.'>
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; es configurate, ma non autosynchronizante. Habilitar “Auto-sync datos” en le menu de parametros de Android &gt; Contos.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; es configurate, ma non auto-synchronisante. Activa “Auto-sync datos” en parametros de Android &gt; Usage de Datos.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; es configurate, ma non auto-synchronisante. Activa “Auto-sync datos” en le menu de parametros de Android &gt; Contos.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Tocca pro authenticar te con tu nove conto Firefox.'>
 <!ENTITY fxaccount_status_choose_what 'Elige que synchronisar'>
 <!ENTITY fxaccount_status_bookmarks 'Marcapaginas'>

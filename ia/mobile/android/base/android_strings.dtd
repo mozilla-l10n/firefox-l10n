@@ -239,7 +239,7 @@
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
-<!ENTITY home_homepage_hint_user_address "Inscriber adresse o termino de recerca">
+<!ENTITY home_homepage_hint_user_address "Scribe un adresse o termino de recerca">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_general "General">
@@ -252,7 +252,7 @@
 <!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "Cookies">
-<!ENTITY pref_cookies_accept_all "Habilitate">
+<!ENTITY pref_cookies_accept_all "Activate">
 <!ENTITY pref_cookies_not_accept_foreign "Habilitate, excludente partitas tertia">
 <!ENTITY pref_cookies_disabled "Disactivate">
 
@@ -661,7 +661,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Tracking content notifications in site identity popup -->
 <!ENTITY doorhanger_tracking_title2 "Protection contra le traciamento">
-<!ENTITY doorhanger_tracking_state_enabled "Habilitate">
+<!ENTITY doorhanger_tracking_state_enabled "Activate">
 <!ENTITY doorhanger_tracking_state_disabled "Disactivate">
 <!ENTITY doorhanger_tracking_message_enabled1 "Le tentativas de traciar tu comportamento in rete ha essite blocate.">
 <!ENTITY doorhanger_tracking_message_disabled2 "Iste pagina include elementos que potera traciar tu navigation.">
@@ -725,7 +725,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_cancel "Cancellar">
 <!ENTITY new_guest_session_title "&brandShortName; reinitiara ora">
 <!ENTITY new_guest_session_text2 "Le persona usante lo non potera vider qualcunque de tu datos de navigation personal (como contos salvate, chronologia o marcapaginas).\n\nQuando tu convitato termina, su datos de navigation essera delite e tu session essera restaurate.">
-<!ENTITY guest_browsing_notification_title "Le navigation del hospite es habilitate">
+<!ENTITY guest_browsing_notification_title "Le navigation del hospite es activate">
 <!ENTITY guest_browsing_notification_text "Toccar pro exir">
 
 <!ENTITY exit_guest_session_title "&brandShortName; reinitiara ora">
