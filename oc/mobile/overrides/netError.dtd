@@ -116,7 +116,7 @@
 <!ENTITY proxyResolveFailure.longDesc3 "
 <ul>
   <li>Verificatz que los paramètres del proxy son corrèctes.</li>
-  <li>Verificatz que la connexion de donadas o WiFi de vòstre aparelh fonciona.
+  <li>Verificatz que la connexion de donadas o WiFi de vòstre periferic fonciona.
     <button id='wifi'>Activar la connexion Wifi</button>
   </li>
 </ul>
@@ -152,7 +152,14 @@ be temporary, and you can try again later.</li>
 
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY sharedLongDesc3 "<ul> <li>Benlèu que lo site es temporàriament indisponible o subrecargat. Tornatz ensajar mai tard.</li> <li>Se capitatz pas de navigar sus cap de site, verificatz la connexion donadas o WiFi de vòstre aparelh. <button id='wifi'>Activar lo Wifi</button> </li> </ul>">
+<!ENTITY sharedLongDesc3 "
+<ul>
+  <li>Benlèu que lo site es temporàriament indisponible o subrecargat. Tornatz ensajar mai tard.</li>
+  <li>Se capitatz pas de navigar sus cap de site, verificatz la connexion de donadas o WiFi de vòstre periferic.
+    <button id='wifi'>Activar la connexion WiFi</button>
+  </li>
+</ul>
+">
 
 <!ENTITY cspBlocked.title "Blocat per una estrategia de seguretat de contengut">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; a empacht lo cargament d’aquesta pagina d’aquel biais perque son estrategia de seguretat de contengut lo permet pas.</p>">

@@ -11,10 +11,10 @@
 <!ENTITY sync.title.connect.label 'Se connectar a &syncBrand.shortName.label;'>
 
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label 'Per activar vòstre novèl aparelh, seleccionar « Configurar &syncBrand.shortName.label; » sus aqueste.'>
-<!ENTITY sync.subtitle.pair.label 'Per activar, seleccionatz « Associar un aparelh » sus vòstre aparelh.'>
+<!ENTITY sync.subtitle.connect.label 'Per activar vòstre novèl periferic, seleccionatz « Configurar &syncBrand.shortName.label; » sus aqueste.'>
+<!ENTITY sync.subtitle.pair.label 'Per activar, seleccionatz « Associar un periferic » sus vòstre periferic.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
-<!ENTITY sync.link.nodevice.label 'Ai pas l’aparelh amb ieu…'>
+<!ENTITY sync.link.nodevice.label 'Ai pas lo periferic amb ieu…'>
 
 <!-- Configure Engines -->
 <!ENTITY sync.configure.engines.title.passwords2 'Identificants'>
