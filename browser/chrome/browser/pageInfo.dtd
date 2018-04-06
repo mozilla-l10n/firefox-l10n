@@ -44,8 +44,8 @@
 <!ENTITY  mediaSaveAs2.accesskey "ე">
 <!ENTITY  mediaPreview          "გამოსახულების შეთვალიერება:">
 
-<!ENTITY  feedTab               "ლენტები">
-<!ENTITY  feedTab.accesskey     "ლ">
+<!ENTITY  feedTab               "არხები">
+<!ENTITY  feedTab.accesskey     "ა">
 <!ENTITY  feedSubscribe         "გამოწერა">
 <!ENTITY  feedSubscribe.accesskey "გ">
 
