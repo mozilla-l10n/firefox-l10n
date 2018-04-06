@@ -45,9 +45,7 @@ Alder
 <!ENTITY aboutTelemetry.moreInformations "
 Sykje jo mear ynformaasje?
 ">
-<!ENTITY aboutTelemetry.firefoxDataDoc "
-De <a>Firefox Data Documentation</a> befettet hantliedingen oer it wurkjen mei ús gegevenshelpmiddelen.
-">
+<!ENTITY aboutTelemetry.firefoxDataDoc "De <a>Firefox Data Documentation</a> befettet hantliedingen oer it wurkjen mei ús gegevensark.">
 <!ENTITY aboutTelemetry.telemetryClientDoc "
 De <a>Firefox Telemetry-clientdokumintaasje</a> befettet definysjes foar konsepten, API-dokumintaasje en gegevensferwizingen.
 ">
