@@ -36,14 +36,14 @@
 
 <!ENTITY firstrun_readerview_title "Articulos">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
-<!ENTITY firstrun_readerview_message "Perder le disordine">
+<!ENTITY firstrun_readerview_message "Elimina le incombramento">
 <!ENTITY firstrun_readerview_subtext "Usa le vista de lectura pro facilitar le lectura de los articulos \u2014 mesmo sin connexion.">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Tu">
-<!ENTITY firstrun_account_message "Esque tu ha &brandShortName; in apparato altere?">
+<!ENTITY firstrun_account_message "Esque tu ha &brandShortName; in un altere apparato?">
 
-<!ENTITY  onboard_start_restricted1 "Mantene secur e in dominio con iste version simplificate de &brandShortName;.">
+<!ENTITY  onboard_start_restricted1 "Mantene secur e in controlo con iste version simplificate de &brandShortName;.">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -57,7 +57,7 @@
 
 <!ENTITY  crash_reporter_title "Reporto de collapso de &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; habeva un problema e falleva. Tu schedas debera esser listate sur le pagina initial de &brandShortName; quando tu reinitia.">
-<!ENTITY  crash_send_report_message3 "Informar &vendorShortName; sur iste collapto a fin que illes pote corriger lo">
+<!ENTITY  crash_send_report_message3 "Informar &vendorShortName; sur iste collapso a fin que illes pote corriger lo">
 <!ENTITY  crash_include_url2 "Includer le adresse del pagina sur le qual io esseva">
 <!ENTITY  crash_sorry "Nos regretta">
 <!ENTITY  crash_comment "Adder un commento (le commentos es visibile publicamente)">
@@ -134,7 +134,7 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
-<!ENTITY tab_title_prefix_is_playing_audio "Sonante audio – &formatS;">
+<!ENTITY tab_title_prefix_is_playing_audio "Reproduction audio – &formatS;">
 
 <!ENTITY settings "Parametros">
 <!ENTITY settings_title "Parametros">
@@ -151,7 +151,7 @@
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
-<!ENTITY locale_system_default "Valor predefinite per le systema">
+<!ENTITY locale_system_default "Valor predefinite del systema">
 
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
@@ -176,7 +176,7 @@
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
-<!ENTITY overlay_no_synced_devices "Nulle apparatos connectite al conto Firefox ha essite trovate">
+<!ENTITY overlay_no_synced_devices "Nulle apparatos connectite al conto Firefox trovate">
 
 <!ENTITY pref_category_search3 "Recerca">
 <!ENTITY pref_category_search_summary2 "Adder, predefinir, monstrar le suggestiones">
