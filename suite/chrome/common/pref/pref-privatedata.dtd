@@ -1,7 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-   
+
 <!--LOCALIZATION NOTE : FILE 'Private Data' prefs settings
     These entities go on top of the sanitize.dtd definitions
 -->
@@ -10,11 +10,11 @@
 
 <!ENTITY clearPrivateData.label           "Privégegevens wissen">
 
-<!ENTITY  alwaysClear.label               "Altijd mijn privégegevens wissen als ik &brandShortName; afsluit">
-<!ENTITY  alwaysClear.accesskey           "A">
+<!ENTITY alwaysClear.label                "Altijd mijn privégegevens wissen als ik &brandShortName; afsluit">
+<!ENTITY alwaysClear.accesskey            "A">
 
-<!ENTITY  askBeforeClear.label            "Mij vragen voordat privégegevens worden gewist">
-<!ENTITY  askBeforeClear.accesskey        "M">
+<!ENTITY askBeforeClear.label             "Mij vragen voordat privégegevens worden gewist">
+<!ENTITY askBeforeClear.accesskey         "M">
 
 <!ENTITY clearDataSettings.label          "Als ik &brandShortName; vraag mijn privégegevens te wissen, moet het volgende worden verwijderd:">
 

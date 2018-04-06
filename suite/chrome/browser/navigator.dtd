@@ -8,9 +8,9 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE --> 
-<!ENTITY mainWindow.title "&brandShortName;"> 
+<!ENTITY mainWindow.title "&brandShortName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
-<!ENTITY mainWindow.titlemodifier "&brandShortName;"> 
+<!ENTITY mainWindow.titlemodifier "&brandShortName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 
@@ -67,7 +67,7 @@
 <!ENTITY bookmarksButton.tooltip      "Bladwijzerlijst">
 <!ENTITY homeButton.label             "Startpagina">
 <!ENTITY bookmarksToolbarItem.label   "Bladwijzerwerkbalkitems">
-<!ENTITY  bookmarksToolbarChevron.tooltip "Meer bladwijzers tonen">
+<!ENTITY bookmarksToolbarChevron.tooltip "Meer bladwijzers tonen">
 
 <!-- Statusbar -->
 <!ENTITY  statusText.label            "Gereed">

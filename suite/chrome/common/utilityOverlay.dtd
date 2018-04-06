@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- these things need to move into utilityOverlay.xul -->
-<!ENTITY offlineGoOfflineCmd.label              "Offline werken">
-<!ENTITY offlineGoOfflineCmd.accesskey          "f">
+<!ENTITY  offlineGoOfflineCmd.label                 "Offline werken">
+<!ENTITY  offlineGoOfflineCmd.accesskey             "f">
 
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
