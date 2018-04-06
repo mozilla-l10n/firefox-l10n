@@ -36,6 +36,12 @@
 <!ENTITY newFeedAccountCmd.accesskey "m">
 <!ENTITY newIMContactCmd.label "Kontakt pre konverzácie…">
 <!ENTITY newIMContactCmd.accesskey "v">
+<!ENTITY  newMessageCmd2.key "N">
+<!ENTITY  newMessageCmd.key "M">
+<!ENTITY  newMessageCmd.label "Správa">
+<!ENTITY  newMessageCmd.accesskey "s">
+<!ENTITY  newContactCmd.label "Kontakt adresára…">
+<!ENTITY  newContactCmd.accesskey "K">
 <!ENTITY openMessageFileCmd.label "Otvoriť uložené správy…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY saveAsMenu.label "Uložiť ako">
@@ -317,7 +323,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Konverzácie">
 <!ENTITY goChatCmd.accesskey "K">
-<!ENTITY goChatCmd.key "I">
 <!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Správa s hviezdičkou">
 <!ENTITY prevStarredMsgCmd.accesskey "h">
@@ -510,8 +515,6 @@
 <!ENTITY devToolboxCmd.label "Vývojárske nástroje">
 <!ENTITY devToolboxCmd.accesskey "t">
 <!ENTITY devToolboxCmd.commandkey "i">
-<!ENTITY addonDebugCmd.label "Ladič doplnkov">
-<!ENTITY addonDebugCmd.accesskey "d">
 <!ENTITY debugAddonsCmd.label "Ladiť doplnky">
 <!ENTITY debugAddonsCmd.accesskey "a">
 <!ENTITY tabsDebugCmd.label "Debugger obsahu rámcov">
@@ -646,6 +649,7 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Prijať správy">
 <!ENTITY folderContextGetMessages.accesskey "a">
+<!ENTITY folderContextMarkAllFoldersRead.label "Označiť všetky priečinky ako prečítané">
 <!ENTITY folderContextPauseAllUpdates.label "Pozastaviť všetky aktualizácie">
 <!ENTITY folderContextPauseUpdates.label "Pozastaviť aktualizácie">
 <!ENTITY folderContextPauseUpdates.accesskey "a">
