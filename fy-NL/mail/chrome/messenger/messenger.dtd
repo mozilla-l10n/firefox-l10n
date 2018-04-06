@@ -510,7 +510,7 @@
 <!ENTITY accountManagerCmdUnix2.accesskey "A">
 
 <!-- Developer Tools Submenu -->
-<!ENTITY devtoolsMenu.label "Untwikkelershelpmiddelen">
+<!ENTITY devtoolsMenu.label "Untwikkelersark">
 <!ENTITY devtoolsMenu.accesskey "n">
 <!ENTITY devToolboxCmd.label "Untwikkelersark">
 <!ENTITY devToolboxCmd.accesskey "a">
