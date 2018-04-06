@@ -9,14 +9,14 @@
 <!ENTITY firstrun_privacy_message "Naviga sin sentir te observate">
 <!ENTITY firstrun_privacy_subtext "Le navigation private con protection contra traciamento bloca traciatores durante que tu naviga e non memorara tu chronologia quando tu termina de navigar.">
 <!ENTITY firstrun_panel_title_customize "Personalisar">
-<!ENTITY firstrun_customize_message "Face &brandShortName; tue.">
+<!ENTITY firstrun_customize_message "Rende &brandShortName; tue.">
 <!ENTITY firstrun_customize_subtext "Personalisa &brandShortName; con additivos. Bloca annuncios, adde functionalitates o elige un nove thema pro reflecter tu personalitate.">
 <!ENTITY firstrun_bookmarks_title "Chronologia">
 <!ENTITY firstrun_bookmarks_message "Tu favoritos, a tu vista">
 <!ENTITY firstrun_bookmarks_subtext "Obtene resultatos de tu marcapaginas e de tu chronologia quando tu cerca.">
 <!ENTITY firstrun_data_title "Datos">
 <!ENTITY firstrun_data_message "Minus datos, plus economia">
-<!ENTITY firstrun_data_subtext2 "Inactivar le imagines pro consumer minus datos a cata sito que tu visita.">
+<!ENTITY firstrun_data_subtext2 "Disactiva le imagines pro consummar minus datos cata sito tu visita.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "Reprende de ubi tu lassava">
 <!ENTITY firstrun_sync_subtext2 "Usa Sync pro trovar marcapaginas, contrasignos, e altere cosas que tu salva in &brandShortName; sur tote tu apparatos.">
