@@ -203,7 +203,7 @@ download-always-ask-where =
     .label = Altijd vragen waar bestanden moeten worden opgeslagen
     .accesskey = r
 applications-header = Toepassingen
-applications-description = Kiezen hoe { -brand-short-name } omgaat met de bestanden die u van het web downloadt of de toepassingen die u tijdens het surfen gebruikt.
+applications-description = Kies hoe { -brand-short-name } omgaat met de bestanden die u van het web downloadt of de toepassingen die u tijdens het surfen gebruikt.
 applications-filter =
     .placeholder = Bestandstypen of toepassingen zoeken
 applications-type-column =
@@ -290,7 +290,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Nieuwe vensters en tabbladen
-home-new-windows-tabs-description = Kiezen wat u wilt zien bij het openen van uw startpagina, nieuwe vensters, en nieuwe tabbladen
+home-new-windows-tabs-description2 = Kies wat u ziet bij het openen van uw startpagina, nieuwe vensters, en nieuwe tabbladen.
 
 ## Home Section - Home Page Customization
 
@@ -415,7 +415,7 @@ sync-sign-in =
     .label = Aanmelden
     .accesskey = m
 sync-signedin-settings-header = Synchronisatie-instellingen
-sync-signedin-settings-desc = Kiezen wat u wilt synchroniseren op uw apparaten die { -brand-short-name } gebruiken.
+sync-signedin-settings-desc = Kies wat u wilt synchroniseren op uw apparaten die { -brand-short-name } gebruiken.
 sync-engine-bookmarks =
     .label = Bladwijzers
     .accesskey = B
