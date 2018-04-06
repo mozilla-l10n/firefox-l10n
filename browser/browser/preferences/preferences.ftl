@@ -357,11 +357,11 @@ search-remove-engine =
 search-find-more-link = ค้นหาเครื่องมือค้นหาเพิ่มเติม
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
-search-keyword-warning-title = คำแทนนี้ซ้ำกับคำแทนอื่น
+search-keyword-warning-title = คำสำคัญซ้ำกัน
 # Variables:
 #   $name (String) - Name of a search engine.
-search-keyword-warning-engine = คำแทนที่คุณเลือกซ้ำกับคำแทนที่ถูกใช้โดย “{ $name }” โปรดเลือกคำแทนอื่น
-search-keyword-warning-bookmark = คำแทนที่คุณเลือกซ้ำกับคำแทนที่ถูกใช้โดยที่คั่นหน้า โปรดเลือกคำแทนอื่น
+search-keyword-warning-engine = คุณได้เลือกคำสำคัญที่มีการใช้งานอยู่โดย “{ $name }” โปรดเลือกคำสำคัญอื่น
+search-keyword-warning-bookmark = คุณได้เลือกคำสำคัญที่มีการใช้งานอยู่โดยที่คั่นหน้า โปรดเลือกคำสำคัญอื่น
 
 ## Containers Section
 
