@@ -62,6 +62,7 @@ feature-enable-requires-restart = Konieczne jest ponowne uruchomienie programu {
 feature-disable-requires-restart = Konieczne jest ponowne uruchomienie programu { -brand-short-name }, aby wyłączyć tę funkcję.
 should-restart-title = Ponowne uruchamianie programu { -brand-short-name }
 should-restart-ok = Uruchom ponownie
+cancel-no-restart-button=Anuluj
 restart-later = Później
 
 ## Preferences UI Search Results
