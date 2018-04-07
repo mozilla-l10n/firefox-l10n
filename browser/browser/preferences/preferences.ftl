@@ -40,6 +40,9 @@ search-input-box =
 pane-general-title = Kuuɓal
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = Jaɓɓorgo
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = Yiylo
 category-search =
     .tooltiptext = { pane-search-title }
@@ -281,9 +284,26 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = Kenorɗe Kese kam e Tabbe
+home-new-windows-tabs-description = Suɓo ko njiyataa so a udditii hello jaɓɓorgo maa, kenorɗe kese, kam e tabbe kese
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Hello jaɓɓorgo kam e kenorɗe kese
+home-newtabs-mode-label = Yabbe kese
+home-restore-defaults =
+    .label = Artir Goowaaɗe
+    .accesskey = R
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Jaɓɓorgo Firefox (Goowaaɗo)
+home-mode-choice-custom =
+    .label = Heertin URLs...
+home-mode-choice-blank =
+    .label = Hello Meho
+home-homepage-custom-url =
+    .placeholder = Ɗakku URL...
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -383,6 +403,9 @@ sync-signedin-login-failure = Tiiɗno seŋo ngam naattude { $email }
 sync-resend-verification =
     .label = Neldit Ƴeewtagol
     .accesskey = d
+sync-remove-account =
+    .label = Momtu Konte
+    .accesskey = R
 sync-sign-in =
     .label = Seŋao
     .accesskey = g
@@ -463,6 +486,7 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Aslol
+history-remember-description = { -brand-short-name } siiftoroyat banngogol maa, gaawtogol maa, formere kam e aslol njiilaw maa.
 history-dontremember-description = { -brand-short-name } maa huutoro teelte banngagol suturo ɗee tee teskotaako hay aslol gootol tuma nde mbanngoto-ɗaa e nder Geese.
 history-private-browsing-permanent =
     .label = Huutoro peeragol suturo sahaa kala
