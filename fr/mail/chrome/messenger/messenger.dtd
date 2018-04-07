@@ -649,6 +649,7 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Relever les nouveaux messages">
 <!ENTITY folderContextGetMessages.accesskey "R">
+<!ENTITY folderContextMarkAllFoldersRead.label "Marquer tous les dossiers comme lus">
 <!ENTITY folderContextPauseAllUpdates.label "Mettre en pause toutes les mises à jour">
 <!ENTITY folderContextPauseUpdates.label "Mettre en pause les mises à jour">
 <!ENTITY folderContextPauseUpdates.accesskey "M">
