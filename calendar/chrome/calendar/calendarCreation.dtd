@@ -40,7 +40,12 @@
 
 <!ENTITY calendartype.label "Type d’agenda :">
 <!ENTITY location.label "Adresse :">
+<!ENTITY location.placeholder "Adresse web ou nom d’hôte du serveur de l’agenda">
 
+<!ENTITY network.nocredentials.label "Cette adresse ne demande pas d’identifiants de connexion">
+<!ENTITY network.loading.description "Veuillez patienter pendant que vos agendas sont découverts.">
+<!ENTITY network.notfound.description "Aucun agenda à cette adresse. Veuillez vérifier les paramètres.">
+<!ENTITY network.authfail.description "Les identifiants de connexion saisis n’ont pas été acceptés. Veuillez vérifier les paramètres.">
 
 <!ENTITY network.subscribe.single.description "Sélectionnez les agendas auxquels vous souhaitez vous abonner.">
 <!ENTITY network.subscribe.multiple.description "Plusieurs types d’agendas sont disponibles pour cette adresse. Sélectionnez le type d’agenda, puis choisissez les agendas auxquels vous souhaitez vous abonner.">
