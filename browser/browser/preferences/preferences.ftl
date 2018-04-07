@@ -45,6 +45,9 @@ policies-notice =
 pane-general-title = Ümumi
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = Ev
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = Axtarış
 category-search =
     .tooltiptext = { pane-search-title }
@@ -286,6 +289,7 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = Yeni Pəncərələr və Vərəqlər
 
 ## Home Section - Home Page Customization
 
