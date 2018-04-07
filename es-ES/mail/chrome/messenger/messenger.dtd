@@ -29,6 +29,12 @@
 <!ENTITY newFeedAccountCmd.accesskey "w">
 <!ENTITY newIMContactCmd.label "Contactos de chat…">
 <!ENTITY newIMContactCmd.accesskey "h">
+<!ENTITY newMessageCmd2.key "N">
+<!ENTITY newMessageCmd.key "M">
+<!ENTITY newMessageCmd.label "Mensaje">
+<!ENTITY newMessageCmd.accesskey "m">
+<!ENTITY newContactCmd.label "Contacto de la libreta de direcciones…">
+<!ENTITY newContactCmd.accesskey "C">
 <!ENTITY openMessageFileCmd.label "Abrir mensaje guardado…">
 <!ENTITY openMessageFileCmd.accesskey "A">
 <!ENTITY saveAsMenu.label "Guardar como">
@@ -583,6 +589,7 @@
 <!ENTITY folderSizeColumn.label "Tamaño">
 <!ENTITY folderContextGetMessages.label "Recibir mensajes">
 <!ENTITY folderContextGetMessages.accesskey "R">
+<!ENTITY folderContextMarkAllFoldersRead.label "Marcar todas las carpetas como leídas">
 <!ENTITY folderContextPauseAllUpdates.label "Pausar todas las actualizaciones">
 <!ENTITY folderContextPauseUpdates.label "Pausar actualizaciones">
 <!ENTITY folderContextPauseUpdates.accesskey "U">
