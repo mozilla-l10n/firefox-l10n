@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "İzlənmə Qoruması">
-<!ENTITY  trackingProtection2.description      "İzləmə saytlar arası səyahət məlumatlarının toplanmasıdır. İzləmə səyahətiniz və şəxsi məlumatlarınızı yığmaqla profilinizi hazırlamaq və sizə reklam məzmunları göstərmək üçün işlədilə bilər.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "Bilinən izləyiciləri bloklamaq üçün İzlənmə Qorumasını işlədin">
 <!ENTITY  trackingProtection3.description      "İzlənmə Qoruması saytlar arası səyahət məlumatlarınızı yığan onlayn izləyiciləri əngəlləyir.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "Bilinin izləyiciləri əngəlləmək üçün İzlənmə Qorumasını işlədin">
 <!ENTITY  trackingProtectionAlways.label       "Həmişə">
@@ -13,7 +11,6 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "n">
 <!ENTITY  trackingProtectionNever.label        "Heç vaxt">
 <!ENTITY  trackingProtectionNever.accesskey    "v">
-<!ENTITY  trackingProtectionLearnMore.label    "Ətraflı öyrən">
 <!ENTITY  trackingProtectionLearnMore2.label    "İzlənmə Qoruması və məxfiliyiniz haqqında ətraflı öyrənin">
 <!ENTITY  trackingProtectionExceptions.label   "İstisnalar…">
 <!ENTITY  trackingProtectionExceptions.accesskey "a">
@@ -24,11 +21,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "Ətraflı öyrən">
 <!ENTITY changeBlockList2.label               "Qara Siyahını Dəyiş…">
 <!ENTITY changeBlockList2.accesskey           "C">
-
-<!ENTITY  doNotTrack.description        'Saytlara "Məni İzləmə" siqnalı göndərərək izlənmək istəmədiyinizi bildirin'>
-<!ENTITY  doNotTrack.learnMore.label    "Ətraflı öyrən">
-<!ENTITY  doNotTrack.default.label      "Ancaq İzlənmə Qoruması işlədərkən">
-<!ENTITY  doNotTrack.always.label       "Həmişə">
 
 <!ENTITY  history.label                 "Tarixçə">
 <!ENTITY  permissions.label             "İcazələr">
@@ -51,6 +43,12 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "Üçüncü tərəf çərəzlərini qəbul et">
 <!ENTITY  acceptThirdParty2.pre.accesskey "y">
+
+<!ENTITY  acceptCookies4.accesskey      "A">
+
+<!ENTITY  blockCookies.accesskey        "B">
+
+<!ENTITY  acceptThirdParty3.pre.accesskey "y">
 <!ENTITY  acceptThirdParty.always.label   "Həmişə">
 <!ENTITY  acceptThirdParty.never.label    "Heç vaxt">
 <!ENTITY  acceptThirdParty.visited.label  "Baxılanlardan">
@@ -85,6 +83,7 @@
 <!ENTITY  rememberActions.removeCookies.label "fərdi çərəzləri silə">
 <!ENTITY  rememberActions.post.label          " bilərsiz.">
 
+
 <!ENTITY  dontrememberDescription.label  "&brandShortName; gizli baxışdakı nizamlamalardan istifadə edəcək və siz Web-də gəzərkən keçmişlə bağlı heçnə xatırlamayacaq.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
@@ -92,6 +91,9 @@
 <!ENTITY  dontrememberActions.pre.label          "Əlavə olaraq">
 <!ENTITY  dontrememberActions.clearHistory.label "bütün keçmişinizi də silə bilirsiniz">
 <!ENTITY  dontrememberActions.post.label         "açıqlanmışdır.">
+
+<!ENTITY  clearHistoryButton.label       "Tarixçəni Təmizlə…">
+<!ENTITY  clearHistoryButton.accesskey   "s">
 
 <!ENTITY  privateBrowsingPermanent2.label "Həmişə gizli baxış rejimindən istifadə et">
 <!ENTITY  privateBrowsingPermanent2.accesskey "g">
