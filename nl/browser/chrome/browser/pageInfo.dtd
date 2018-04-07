@@ -78,6 +78,9 @@
 <!ENTITY  securityView.privacy.cookies                  "Slaat deze website informatie (cookies) op op mijn computer?">
 <!ENTITY  securityView.privacy.viewCookies              "Cookies bekijken">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.siteData                 "Slaat deze website informatie op op mijn computer?">
+<!ENTITY  securityView.privacy.clearSiteData            "Cookies en websitegegevens wissen">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "k">
 <!ENTITY  securityView.privacy.passwords                "Heb ik wachtwoorden opgeslagen voor deze website?">
 <!ENTITY  securityView.privacy.viewPasswords            "Opgeslagen wachtwoorden bekijken">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
