@@ -40,9 +40,11 @@ available. -->
 <!ENTITY alwaysSubmitCrashReports1.label  "&brandShortName; səyyahına Mozillaya xəta hesabatlarını göndərməyə icazə ver">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 
+<!ENTITY collectBrowserErrors.label          "&brandShortName; səyyahına xəta hesabatlarını (xəta mesajları da daxil olmaqla) Mozillaya göndərməsinə icazə ver">
 <!ENTITY collectBrowserErrors.accesskey      "b">
 <!ENTITY collectBrowserErrorsLearnMore.label "Ətraflı öyrən">
 
+<!ENTITY sendBackloggedCrashReports.label  "&brandShortName; səyyahına sizin adınıza yığılmış çəkmə hesabatlarını göndərməyə icazə ver">
 <!ENTITY sendBackloggedCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Daha Ətraflı">
 
