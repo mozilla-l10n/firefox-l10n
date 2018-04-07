@@ -511,11 +511,18 @@ history-clear-button =
 
 sitedata-header = Kuukiije kam e Keɓe Lowre
 sitedata-learn-more = Jokku taro
+sitedata-accept-cookies-option =
+    .label = Jaɓ kuukiije kañum e keɓe lowre iwɗe e lowe geese (ina wasiyaa)
+    .accesskey = A
 sitedata-block-cookies-option =
     .label = Daaƴ kuukiije kam e keɓe lowre (ina waawi taƴde lowe geese)
     .accesskey = B
 sitedata-keep-until = Mooftu haa
-    .accesskey = h
+    .accesskey = u
+sitedata-keep-until-expire =
+    .label = Ɗe mbuntii
+sitedata-keep-until-closed =
+    .label = { -brand-short-name } uddaama
 sitedata-accept-third-party-desc = Jaɓ kuukiije jiggaaɗe kam e keɓe lowre
     .accesskey = y
 sitedata-accept-third-party-always-option =
@@ -552,6 +559,7 @@ addressbar-suggestions-settings = Waylu cuɓe wonande cakkitte yiylorde
 ## Privacy Section - Tracking
 
 tracking-header = Huutoro Ndeenka Dewindol
+tracking-description = Ndeenka Dewindol ina daaƴa sukindotooɓe roɓindotooɓe keɓe banngogol maa e nder lowe geese keewɗe. <a>Ɓeydu humpito baɗte Ndeenka Dewindol kam e suturo maa</a>
 tracking-mode-label = Huutoro ndeenka dewindagol ngam faddaade ñukkintooɓe anndaaɓe
 tracking-mode-always =
     .label = Sahaa kala
