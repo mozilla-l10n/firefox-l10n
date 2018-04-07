@@ -109,6 +109,7 @@
 
 <!ENTITY blockedByPolicyTemp.title "Strona zablokowana">
 <!ENTITY blockedByPolicyTemp.longDesc "<p>Dostęp do tej strony zablokował administrator.</p>">
+<!ENTITY blockedByPolicy.title "Zablokowana strona">
 
 <!ENTITY prefReset.longDesc "Może to być spowodowane zmienionymi ustawieniami przeglądarki dotyczącymi bezpieczeństwa sieci. Czy przywrócić domyślne ustawienia?">
 <!ENTITY prefReset.label "Przywróć">

@@ -85,3 +85,4 @@
 
 <!ENTITY blockedByPolicyTemp.title "Strona zablokowana">
 <!ENTITY blockedByPolicyTemp.longDesc "<p>Dostęp do tej strony zablokował administrator.</p>">
+<!ENTITY blockedByPolicy.title "Zablokowana strona">
