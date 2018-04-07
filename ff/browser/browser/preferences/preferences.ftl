@@ -37,6 +37,11 @@ search-input-box =
             [windows] Yiylo e Cuɓe
            *[other] Yiylo e Cuɓoraaɗe
         }
+policies-notice =
+    { PLATFORM() ->
+        [windows] Yuɓɓo maa daaƴii kattanɗe waylude won e cuɓe.
+       *[other] Yuɓɓo maa daaƴii kattanɗe waylude won e cuɓe.
+    }
 pane-general-title = Kuuɓal
 category-general =
     .tooltiptext = { pane-general-title }

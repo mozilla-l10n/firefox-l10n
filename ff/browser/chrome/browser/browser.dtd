@@ -242,6 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.popupBlocked.tooltip             "A faddiima kenorɗe pop-up nder ndee lowre.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "A daaƴii aaftogol keɓe keertol wonande ndee lowre geese.">
 
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "A haɗii ndee lowre geese huutoraade jokkel Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "A daaƴii keɓgol MIDI wonande ndee lowre geese.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Hollir aslol">
