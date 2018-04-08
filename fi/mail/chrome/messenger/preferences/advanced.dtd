@@ -65,6 +65,7 @@
   if required by your language.
  -->
 <!ENTITY updateApp.version.pre           "Versio ">
+<!ENTITY updateApp.version.post          "">
 <!ENTITY updateAuto.label                "Asenna päivitykset automaattisesti (suositeltu: turvallisin)">
 <!ENTITY updateAuto.accesskey            "A">
 <!ENTITY updateCheck.label               "Hae päivityksiä, mutta minä päätän asennetaanko ne">
@@ -101,6 +102,8 @@
 <!ENTITY useCacheBefore.label            "Käytä enintään">
 <!ENTITY useCacheBefore.accesskey        "K">
 <!ENTITY useCacheAfter.label             "Mt:a levytilaa väliaikaistiedostoille">
+<!ENTITY overrideSmartCacheSize.label    "Ohita automaattinen välimuistin hallinta">
+<!ENTITY overrideSmartCacheSize.accesskey "O">
 <!ENTITY clearCacheNow.label             "Tyhjennä heti">
 <!ENTITY clearCacheNow.accesskey         "T">
 
