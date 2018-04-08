@@ -19,6 +19,13 @@
 <!ENTITY feedFolder.accesskey        "a">
 
 <!-- Account Settings and Subscription Dialog -->
+<!ENTITY biffStart.label             "Etsi uusia artikkeleita aina ">
+<!ENTITY biffStart.accesskey         "u">
+<!ENTITY biffMinutes.label           "minuutin">
+<!ENTITY biffMinutes.accesskey       "m">
+<!ENTITY biffDays.label              "päivän">
+<!ENTITY biffDays.accesskey          "p">
+<!ENTITY recommendedUnits.label      "Julkaisijan suositukset:">
 
 <!ENTITY quickMode.label             "Älä lataa artikkelin verkkosivua vaan näytä artikkelin yhteenveto">
 <!ENTITY quickMode.accesskey         "v">
@@ -32,6 +39,10 @@
 <!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Lisää">
 <!ENTITY button.addFeed.accesskey    "L">
+<!ENTITY button.verifyFeed.label     "Vertaile">
+<!ENTITY button.verifyFeed.accesskey "e">
+<!ENTITY button.updateFeed.label     "Päivitä">
+<!ENTITY button.updateFeed.accesskey "P">
 <!ENTITY button.removeFeed.label     "Poista">
 <!ENTITY button.removeFeed.accesskey "o">
 <!ENTITY button.importOPML.label     "Tuo">

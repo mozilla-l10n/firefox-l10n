@@ -36,10 +36,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY goToLineCmd.label "Siirry riville…">
 
+<!ENTITY viewMenu.label           "Näytä">
+<!ENTITY viewMenu.accesskey       "N">
+<!ENTITY reloadCmd.label "Lataa uudelleen">
+<!ENTITY reloadCmd.accesskey "L">
 <!ENTITY menu_wrapLongLines.title "Rivitä pitkät rivit">
+<!ENTITY menu_wrapLongLines.accesskey "R">
 <!ENTITY menu_highlightSyntax.label "Syntaksin korostus">
+<!ENTITY menu_highlightSyntax.accesskey "k">
 <!ENTITY menu_textSize.label "Tekstin koko">
 
+<!ENTITY findOnCmd.label     "Etsi tältä sivulta…">
+<!ENTITY findOnCmd.accesskey "E">
+<!ENTITY findAgainCmd.label  "Etsi uudelleen">
+<!ENTITY findAgainCmd.accesskey "u">
 
 
 <!ENTITY copyEmailCmd.label "Kopioi sähköpostiosoite">
