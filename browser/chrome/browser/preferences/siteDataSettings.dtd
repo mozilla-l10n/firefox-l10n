@@ -21,3 +21,6 @@
 <!ENTITY     removingDialog.title          "Eliminació de les dades dels llocs">
 <!ENTITY     removingSelected.description  "Si elimineu les dades dels llocs, també s'eliminaran les galetes i el contingut web fora de línia d'aquests llocs. Això pot fer que es tanqui la sessió dels llocs web. Segur que voleu fer aquests canvis?">
 <!ENTITY     siteTree2.label               "S'eliminaran les galetes de lloc web següents">
+<!ENTITY     removingDialog1.title         "S'estan eliminant les galetes i dades dels llocs">
+<!ENTITY     removingSelected1.description "Si elimineu les galetes i les dades dels llocs, és possible que que es tanqui la sessió dels llocs web. Segur que voleu fer aquests canvis?">
+<!ENTITY     siteTree3.label               "S'eliminaran les galetes i les dades dels següents llocs web">

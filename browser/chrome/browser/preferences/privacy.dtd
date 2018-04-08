@@ -75,7 +75,7 @@
 <!ENTITY  historyHeader.custom.label       "Utilitza els paràmetres personalitzats de l'historial">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "El &brandShortName; recordarà el vostre historial, baixades, formularis i historial de cerca, i conservarà les galetes dels llocs web que visiteu.">
+<!ENTITY  rememberDescription.label      "El &brandShortName; recordarà el vostre historial de navegació, de baixades, de formularis i de cerques, i conservarà les galetes dels llocs web que visiteu.">
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
@@ -86,8 +86,9 @@
 <!ENTITY  rememberActions.removeCookies.label "suprimir les galetes individualment">
 <!ENTITY  rememberActions.post.label          ".">
 
+<!ENTITY  rememberDescription1.label      "El &brandShortName; recordarà el vostre historial de navegació, de baixades, de formularis i de cerques.">
 
-<!ENTITY  dontrememberDescription.label  "El &brandShortName; utilitzarà els mateixos paràmetres de la navegació privada, i no mantindrà cap historial mentre navegueu.">
+<!ENTITY  dontrememberDescription.label  "El &brandShortName; utilitzarà els mateixos paràmetres de la navegació privada, i no conservarà cap historial mentre navegueu.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
@@ -101,10 +102,10 @@
 <!ENTITY  privateBrowsingPermanent2.label "Utilitza sempre el mode de navegació privada">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
-<!ENTITY  rememberHistory2.label      "Recorda el meu historial de navegació i baixades">
+<!ENTITY  rememberHistory2.label      "Recorda el meu historial de navegació i de baixades">
 <!ENTITY  rememberHistory2.accesskey  "b">
 
-<!ENTITY  rememberSearchForm.label       "Recorda l'historial de cerca i formularis">
+<!ENTITY  rememberSearchForm.label       "Recorda l'historial de cerques i de formularis">
 <!ENTITY  rememberSearchForm.accesskey   "m">
 
 <!ENTITY  clearOnClose.label             "Neteja l'historial quan es tanqui el &brandShortName;">
