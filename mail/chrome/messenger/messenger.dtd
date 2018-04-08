@@ -36,6 +36,10 @@
 <!ENTITY newFeedAccountCmd.accesskey "t">
 <!ENTITY newIMContactCmd.label "Pikaviestikontakti…">
 <!ENTITY newIMContactCmd.accesskey "k">
+<!ENTITY  newMessageCmd.label "Viesti">
+<!ENTITY  newMessageCmd.accesskey "V">
+<!ENTITY  newContactCmd.label "Osoitekirjan yhteyshenkilö…">
+<!ENTITY  newContactCmd.accesskey "y">
 <!ENTITY openMessageFileCmd.label "Avaa tallennettu viesti…">
 <!ENTITY openMessageFileCmd.accesskey "A">
 <!ENTITY saveAsMenu.label "Tallenna nimellä">
@@ -362,6 +366,8 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Muokkaa viestiluonnosta">
 <!ENTITY editDraftMsgCmd.accesskey "u">
+<!ENTITY editTemplateMsgCmd.label "Muokkaa mallia">
+<!ENTITY newMsgFromTemplateCmd.label "Uusi viesti mallista">
 <!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Luo viestistä suodatin…">
 <!ENTITY createFilter.accesskey "d">
@@ -454,6 +460,8 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Lisäosat">
 <!ENTITY addons.accesskey "o">
+<!ENTITY addonPrefs.label "Lisäosan asetukset">
+<!ENTITY addonPrefsUnix.label "Lisäosan asetukset">
 <!ENTITY activitymanager.label "Toimintojen hallinta">
 <!ENTITY activitymanager.accesskey "h">
 <!ENTITY imAccountsStatus.label "Läsnäolotila">
@@ -622,6 +630,7 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Hae viestit">
 <!ENTITY folderContextGetMessages.accesskey "H">
+<!ENTITY folderContextMarkAllFoldersRead.label "Merkitse kaikki kansiot luetuiksi">
 <!ENTITY folderContextPauseAllUpdates.label "Keskeytä kaikki päivitykset">
 <!ENTITY folderContextOpenInNewWindow.label "Avaa uudessa ikkunassa">
 <!ENTITY folderContextOpenInNewWindow.accesskey "A">
@@ -736,6 +745,7 @@
 <!ENTITY contextEditMsgAsNew.label "Muokkaa uutena viestinä">
 <!ENTITY contextEditMsgAsNew.accesskey "M">
 <!ENTITY contextEditDraftMsg.label "Muokkaa viestiluonnosta">
+<!ENTITY contextEditTemplate.label "Muokkaa mallia">
 <!ENTITY contextArchive.label "Arkistoi">
 <!ENTITY contextArchive.accesskey "o">
 <!ENTITY contextReplySender.label "Vastaa vain lähettäjälle">

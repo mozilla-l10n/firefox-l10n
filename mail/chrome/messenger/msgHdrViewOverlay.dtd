@@ -5,6 +5,7 @@
 <!ENTITY toField4.label "Vastaanottaja ">
 <!ENTITY fromField4.label "Lähettäjä ">
 <!ENTITY senderField4.label "Lähettäjä ">
+<!ENTITY author.label "Tekijä">
 <!ENTITY organizationField4.label "Organisaatio ">
 <!ENTITY replyToField4.label "Vastausosoite ">
 
@@ -23,6 +24,7 @@
 
 <!ENTITY hdrArchiveButton1.label "Arkistoi">
 <!ENTITY hdrArchiveButton1.tooltip "Arkistoi viesti">
+<!ENTITY hdrOpenConversationButton1.label "Keskustelu">
 <!ENTITY hdrOpenConversationButton1.tooltip "Näytä tämän viestin keskustelut">
 <!ENTITY hdrSmartReplyButton1.label "Älyvastaus">
 <!ENTITY hdrReplyButton1.label "Vastaa">
