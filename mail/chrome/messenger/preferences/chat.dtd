@@ -31,6 +31,10 @@ sentence. -->
 <!ENTITY  completeNotification.label          "lähettäjän nimi ja viestin esikatselu">
 <!ENTITY  buddyInfoOnly.label                 "vain lähettäjän nimi">
 <!ENTITY  dummyNotification.label             "ilman lisätietoja">
+<!ENTITY  getAttention.label                  "Vilkuta työkalupalkin kohdetta">
+<!ENTITY  getAttention.accesskey              "V">
+<!ENTITY  getAttentionMac.label               "Animoi Dockin kohde">
+<!ENTITY  getAttentionMac.accesskey           "A">
 <!ENTITY  chatSound.accesskey                 "a">
 <!ENTITY  chatSound.label                     "Toista ääni">
 <!ENTITY  play.label                          "Toista">
@@ -47,3 +51,8 @@ sentence. -->
 <!ENTITY messageStyleTheme.label           "Teema:">
 <!ENTITY messageStyleTheme.accesskey       "T">
 <!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
+<!ENTITY messageStyleBubblesTheme.label    "Kuplat">
+<!ENTITY messageStyleDarkTheme.label       "Tumma">
+<!ENTITY messageStyleSimpleTheme.label     "Yksinkertainen">
+<!ENTITY messageStyleDefaultTheme.label    "Oletus">
+<!ENTITY messageStyleNoPreview.title       "Esikatselu ei ole käytettävissä">

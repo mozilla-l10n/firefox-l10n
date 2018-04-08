@@ -14,3 +14,5 @@
 
 <!ENTITY publicData.label        "Julkiset tiedot">
 <!ENTITY privateData.label       "Yksityiset tiedot">
+<!ENTITY identityAlias.label     "Käyttäjätiedon otsikko:">
+<!ENTITY identityAlias.accesskey "o">
