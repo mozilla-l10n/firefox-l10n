@@ -86,6 +86,7 @@
 <!ENTITY  rememberActions.removeCookies.label "pašalinti kai kuriuos slapukus">
 <!ENTITY  rememberActions.post.label          ".">
 
+<!ENTITY  rememberDescription1.label      "&brandShortName; įsimins jūsų naršytus tinklalapius, parsiųstus failus, įvestas formų ir paieškos laukų reikšmes.">
 
 <!ENTITY  dontrememberDescription.label  "„&brandShortName;“ visą laiką laikysis privačiojo naršymo seanso nuostatų ir nepildys naršymo žurnalo.">
 

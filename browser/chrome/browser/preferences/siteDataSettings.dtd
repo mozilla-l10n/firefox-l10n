@@ -4,7 +4,7 @@
 
 <!ENTITY     window.title                  "Nuostatos – svetainių duomenys">
 
-<!ENTITY     window1.title                 "Nuostatos – Slapukai ir svetainių duomenys">
+<!ENTITY     window2.title                 "Tvarkyti slapukus ir svetainių duomenis">
 <!ENTITY     hostCol.label                 "Svetainė">
 <!ENTITY     statusCol.label               "Būsena">
 <!ENTITY     cookiesCol.label              "Slapukai">
