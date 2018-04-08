@@ -239,7 +239,7 @@
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
-<!ENTITY home_homepage_hint_user_address "ਐਡਰੈਸ ਜਾਂ ਖੋਜ ਲਈ ਸ਼ਬਦ ਦਿਓ">
+<!ENTITY home_homepage_hint_user_address "ਸਿਰਨਾਵਾਂ ਜਾਂ ਖੋਜ ਲਈ ਸ਼ਬਦ ਦਿਓ">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_general "ਆਮ">
@@ -422,7 +422,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; ਹਾਲਤ ਰਿਪੋਰਟ">
 <!ENTITY datareporting_fhr_summary2 "ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਦੀ ਹਾਲਤ ਬਾਰੇ ਜਾਣਕਾਰੀ &vendorShortName; ਨਾਲ ਸਾਂਝੀ ਕਰੋ ਅਤੇ ਖੁਦ ਨੂੰ ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਦੀ ਕਾਰਗੁਜ਼ਾਰੀ ਸਮਝਣ ਲਈ ਮਦਦ ਕਰੋ">
-<!ENTITY datareporting_abouthr_title "ਮੇਰੀ ਹਾਲਤ ਰਿਪੋਰਟ ਨੂੰ ਦੇਖੋ">
 <!ENTITY datareporting_telemetry_title "ਟੈਲੀਮੈਂਟਰੀ">
 <!ENTITY datareporting_telemetry_summary "ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਦੀ ਕਾਰਗੁਜ਼ਾਰੀ, ਵਰਤੋਂ, ਹਾਰਡਵੇਅਰ ਅਤੇ ਕਸਟਮਾਈਜ਼ੇਸ਼ਨ ਡਾਟੇ ਨੂੰ &vendorShortName; ਨਾਲ ਸਾਂਝਾ ਕਰੋ ਤਾਂ ਕਿ ਅਸੀਂ &brandShortName; ਨੂੰ ਵਧੀਆ ਬਣਾ ਸਕੀਏ।">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; ਕਰੈਸ਼ ਜਾਣਕਾਰੀਆਂ ਭੇਜਦਾ ਹੈ, ਜਿਸ ਨਾਲ &vendorShortName; ਨੂੰ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਨੂੰ ਸਥਿਰ ਅਤੇ ਸੁਰੱਖਿਅਤ ਬਣਾਉਣ ਲਈ ਮਦਦ ਮਿਲਦੀ ਹੈ">
@@ -491,7 +490,7 @@
 <!ENTITY contextmenu_share "ਸਾਂਝਾ ਕਰੋ">
 <!ENTITY contextmenu_pasteandgo "ਚੇਪੋ ਤੇ ਖੋਲ੍ਹੋ">
 <!ENTITY contextmenu_paste "ਚੇਪੋ">
-<!ENTITY contextmenu_copyurl "ਐਡਰੈਸ ਨੂੰ ਕਾਪੀ ਕਰੋ">
+<!ENTITY contextmenu_copyurl "ਸਿਰਨਾਵੇਂ ਨੂੰ ਕਾਪੀ ਕਰੋ">
 <!ENTITY contextmenu_edit_bookmark "ਸੋਧੋ">
 <!ENTITY contextmenu_subscribe "ਸਫ਼ੇ ਲਈ ਮੈਂਬਰ ਬਣੋ">
 <!ENTITY contextmenu_site_settings "ਸਾਈਟ ਦੀਆਂ ਸੈਟਿੰਗਾਂ ਨੂੰ ਸੋਧੋ">
@@ -705,7 +704,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_start_select2 "ਡਾਊਨਲੋਡ ਕਰਨ ਲਈ ਛੂਹੋ">
 
 <!ENTITY updater_downloading_title2 "&brandShortName; ਨੂੰ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ">
-<!ENTITY updater_downloading_title_failed2 "ਡਾਊਨਲੋਡ ਫੇਲ੍ਹ ਹੈ">
+<!ENTITY updater_downloading_title_failed2 "ਡਾਊਨਲੋਡ ਅਸਫ਼ਲ ਹੈ">
 <!ENTITY updater_downloading_select2 "ਡਾਊਨਲੋਡ ਹੋਣ ਦੇ ਬਾਅਦ ਅੱਪਡੇਟ ਨੂੰ ਲਾਗੂ ਕਰਨ ਲਈ ਛੂਹੋ">
 <!ENTITY updater_downloading_retry2 "ਮੁੜ-ਕੋਸ਼ਿਸ਼ ਕਰਨ ਲਈ ਛੂਹੋ">
 
@@ -831,7 +830,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_first_offline_bookmark_button "ਬੁੱਕਮਾਰਕ ਉੱਤੇ ਜੋੜੋ">
 
 <!ENTITY helper_triple_readerview_open_title "ਆਫ਼ਲਾਈਨ ਲਈ ਮੌਜੂਦ">
-<!ENTITY helper_triple_readerview_open_message "ਰੀਡਰ ਝਲਕ ਆਈਤਮਾਂ ਨੂੰ ਆਫ਼ਲਾਈਨ ਪੜ੍ਹਨ ਵਾਸਤੇ ਬੁੱਕਮਾਰਕ ਕਰੋ।">
+<!ENTITY helper_triple_readerview_open_message "ਰੀਡਰ ਝਲਕ ਆਈਟਮਾਂ ਨੂੰ ਆਫ਼ਲਾਈਨ ਪੜ੍ਹਨ ਵਾਸਤੇ ਬੁੱਕਮਾਰਕ ਕਰੋ।">
 <!ENTITY helper_triple_readerview_open_button "ਬੁੱਕਮਾਰਕ ਵਿੱਚ ਜੋੜੋ">
 
 <!ENTITY activity_stream_topsites "ਚੋਟੀ ਦੀਆਂ ਸਾਈਟਾਂ">
