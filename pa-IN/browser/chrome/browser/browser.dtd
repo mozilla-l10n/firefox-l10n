@@ -128,6 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "A">
 <!ENTITY toggleReaderMode.key "R">
 
+<!ENTITY toggleReaderMode.win.keycode "VK_F9">
+
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; ਵਿੱਚ ਸਾਇਨ ਇਨ">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; ਪਸੰਦਾਂ ਨੂੰ ਖੋਲ੍ਹੋ">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; ਨਾਲ ਮੁੜ-ਕੁਨੈਕਟ">
@@ -228,6 +230,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "ਸਫ਼ਾ ਉਲੱਥੇ ਦਾ ਪਰਬੰਧ ਕਰੋ">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM ਸਾਫਟਵੇਅਰ ਦੀ ਵਰਤੋਂ ਦਾ ਪਰਬੰਧ ਕਰੋ">
 
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "MIDI ਪੈਨਲ ਨੂੰ ਖੋਲ੍ਹੋ">
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "ਤੁਸੀਂ ਇਸ ਵੈੱਬਸਾਈਟ ਲਈ ਆਪਣੇ ਕੈਮਰੇ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਹੈ।">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "ਤੁਸੀਂ ਇਸ ਵੈੱਬਸਾਈਟ ਲਈ ਆਪਣੇ ਮਾਈਕਰੋਫ਼ੋਨ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਹੈ।">
 <!ENTITY urlbar.screenBlocked.tooltip            "ਤੁਸੀਂ ਇਸ ਵੈੱਬਸਾਈਟ ਨਾਲ ਆਪਣੀ ਸਕਰੀਨ ਨੂੰ ਸਾਂਝਾ ਕਰਨ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਹੈ।">
@@ -235,8 +239,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "ਤੁਸੀਂ ਇਸ ਵੈੱਬਸਾਈਟ ਲਈ ਨੋਟੀਫਿਕੇਸ਼ਨ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾ ਚੁੱਕੇ ਹੋ।">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "ਤੁਸੀਂ ਇਸ ਵੈੱਬਸਾਈਟ ਲਈ ਪੱਕੀ ਸਟੋਰੇਜ਼ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾ ਚੁੱਕੇ ਹੋ।">
 <!ENTITY urlbar.popupBlocked.tooltip             "ਇਸ ਵੈੱਬਸਾਈਟ ਵਾਸਤੇ ਤੁਸੀਂ ਪੋਪਅੱਪ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਹੈ।">
-
 <!ENTITY urlbar.canvasBlocked.tooltip            "ਇਸ ਵੈੱਬਸਾਈਟ ਲਈ ਤੁਸੀਂ ਕੈਨਵਸ ਡਾਟਾ ਕੱਢਣ ਉੱਤੇ ਰੋਕ ਲਗਾ ਚੁੱਕੇ ਹੋ">
+
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "ਤੁਸੀਂ Adobe ਫਲੈਸ਼ ਪਲੱਗਇਨ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਇਸ ਵੈੱਬਸਾਈਟ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਹੈ।">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "ਅਤੀਤ ਨੂੰ ਵੇਖੋ">
 
@@ -381,7 +386,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "ਹਾਲੇ… ਕੋਈ ਸਿੰਕ ਕੀਤੀਆਂ ਟੈਬਾਂ ਨਹੀਂ ਹਨ!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਆਪਣੀਆਂ ਟੈਬਾਂ ਨੂੰ ਇੱਥੇ ਦੇਖਣਾ ਚਾਹੁੰਦੇ ਹੋ?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "ਸਿੰਕ ਦੀਆਂ ਪਸੰਦਾਂ">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "ਸਿੰਕ ਪਸੰਦਾਂ ਨੂੰ ਖੋਲ੍ਹੋ">
@@ -390,7 +394,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "ਸਿੰਕ ਕਰਨ ਸਾਈਨ ਇਨ ਕਰੋ">
 <!ENTITY appMenuRemoteTabs.managedevices.label "…ਡਿਵਾਈਸ ਪਰਬੰਧ">
 <!ENTITY appMenuRemoteTabs.sidebar.label "ਸਿੰਕ ਕੀਤੀਆਂ ਟੈਬਾਂ ਦੀ ਬਾਹੀ ਵੇਖੋ">
-
 <!ENTITY appMenuRemoteTabs.connectdevice.label "ਹੋਰ ਡਿਵਾਈਸ ਨਾਲ ਕਨੈਕਟ ਕਰੋ">
 
 <!ENTITY appMenuRecentHighlights.label "ਤਾਜ਼ਾ ਹਾਈਲਾਈਟ">
@@ -433,6 +436,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "ਖੋਜੋ ਜਾਂ ਐਡਰੈਸ ਦਿਉ">
+<!ENTITY urlbar.placeholder3          "ਖੋਜ ਸ਼ਬਦ ਅਤੇ ਸਿਰਨਾਵੇਂ ਇੱਥੇ ਦਰਜ ਕਰੋ">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "ਇਕਟੈਨਸ਼ਨ:">
@@ -799,7 +803,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "ਸਿੰਕ ਕੀਤੀਆਂ ਟੈਬਾਂ">
 <!ENTITY syncedTabs.sidebar.noclients.label    "ਇੱਥੇ ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਟੈਬਾਂ ਨੂੰ ਦੇਖਣ ਲਈ ਉਹਨਾਂ ਤੋਂ ਫਾਇਰਫਾਕਸ ਵਿੱਚ ਸਾਇਨ ਇਨ ਕਰੋ">
-<!ENTITY syncedTabs.sidebar.noclients.title    "ਹਾਲੇ… ਕੋਈ ਸਿੰਕ ਕੀਤੀ ਟੈਬ ਨਹੀਂ ਹੈ!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਹੋਰ ਟੈਬਾਂ ਨੂੰ ਇੱਥੇ ਵੇਖਣਾ ਚਾਹੁੰਦੇ ਹੋ?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "ਆਪਣੇ ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਟੈਬਾਂ ਦੀ ਸੂਚੀ ਦੇਖਣ ਲਈ ਸਾਇਨ ਇਨ ਕਰੋ।">
 <!ENTITY syncedTabs.sidebar.unverified.label   "ਤੁਹਾਡੇ ਖਾਤੇ ਨੂੰ ਤਸਦੀਕ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।">
@@ -810,7 +813,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "ਆਪਣੇ ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਟੈਬਾਂ ਦੀ ਸੂਚੀ ਨੂੰ ਵੇਖਣ ਲਈ ਟੈਬ ਸਿੰਕ ਨੂੰ ਚਾਲੂ ਕਰੋ।">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "ਸਿੰਕ ਕੀਤੀਆਂ ਟੈਬਾਂ ਨੂੰ ਖੋਜੋ">
-
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "ਹੋਰ ਡਿਵਾਈਸ ਨਾਲ ਕਨੈਕਟ ਕਰੋ">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
@@ -978,11 +980,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName; ਅੱਪਡੇਟ ਕਰਨ ਲਈ ਮੁੜ-ਚਾਲੂ ਕਰੋ">
 
+
 <!ENTITY newTabControlled.header.message "ਤੁਹਾਡੀ ਨਵੀਂ ਟੈਬ ਬਦਲੀ ਜਾ ਚੁੱਕੀ ਹੈ।">
 <!ENTITY newTabControlled.keepButton.label "ਤਬਦੀਲੀਆਂ ਨੂੰ ਰੱਖੋ">
 <!ENTITY newTabControlled.keepButton.accesskey "K">
 <!ENTITY newTabControlled.restoreButton.label "ਸੈਟਿੰਗਾਂ ਨੂੰ ਬਹਾਲ ਕਰੋ">
 <!ENTITY newTabControlled.restoreButton.accesskey "R">
+
+<!ENTITY newTabControlled.disableButton.label "ਇਕਟੈਨਸ਼ਨ ਅਸਮਰੱਥ ਕਰੋ">
+<!ENTITY newTabControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "ਸਫ਼ਾ ਕਾਰਵਾਈਆਂ">
 <!ENTITY pageAction.addToUrlbar.label "ਐਡਰੈੱਸ ਪੱਟੀ 'ਚ ਜੋੜੋ">
