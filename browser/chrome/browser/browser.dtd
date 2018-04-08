@@ -73,11 +73,11 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.label "…ਫਾਈਲ ਨੂੰ ਖੋਲ੍ਹੋ">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "…ਸਫ਼ਾ ਦੀ ਸੈਟਿੰਗ">
+<!ENTITY printSetupCmd.label "…ਸਫ਼ੇ ਦਾ ਸੈਟਅੱਪ">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "ਪਰਿੰਟ ਝਲਕ">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printCmd.label "…ਨੂੰ ਪਰਿੰਟ ਕਰੋ">
+<!ENTITY printCmd.label "…ਪਰਿੰਟ ਕਰੋ">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
 
@@ -108,7 +108,7 @@ shortcut shown in the GUI. SafariCommandKey is an alias provided for the
 convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageSourceCmd.SafariCommandKey "u">
 
-<!ENTITY pageInfoCmd.label "ਸਫ਼ਾ ਦੀ ਜਾਣਕਾਰੀ">
+<!ENTITY pageInfoCmd.label "ਸਫ਼ੇ ਦੀ ਜਾਣਕਾਰੀ">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "ਲੇਆਉਟ ਡੀਬੱਗਰ">
@@ -137,7 +137,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY fullScreenMinimize.tooltip "ਘੱਟੋ-ਘੱਟ">
-<!ENTITY fullScreenRestore.tooltip "ਮੁੜ ਸਟੋਰ">
+<!ENTITY fullScreenRestore.tooltip "ਬਹਾਲ ਕਰੋ">
 <!ENTITY fullScreenClose.tooltip "ਬੰਦ ਕਰੋ">
 <!ENTITY fullScreenAutohide.label "ਟੂਲਬਾਰ ਓਹਲੇ">
 <!ENTITY fullScreenAutohide.accesskey "H">
@@ -189,7 +189,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksToolbarChevron.tooltip "ਹੋਰ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਵੇਖੋ">
 <!ENTITY showRecentlyBookmarked.label     "ਤਾਜ਼ਾ ਬੁੱਕਮਾਰਕ ਕੀਤਿਆਂ ਨੂੰ ਵੇਖੋ">
 <!ENTITY showRecentlyBookmarked.accesskey "h">
-<!ENTITY hideRecentlyBookmarked.label     "ਤਾਜ਼ਾ ਬੁੱਕਮਾਰਕ ਕੀਤਿਆਂ ਨੂੰ ਛੁਪਾਓ">
+<!ENTITY hideRecentlyBookmarked.label     "ਤਾਜ਼ਾ ਬੁੱਕਮਾਰਕ ਕੀਤਿਆਂ ਨੂੰ ਲੁਕਾਓ">
 <!ENTITY hideRecentlyBookmarked.accesskey "H">
 
 <!ENTITY backCmd.label                "ਪਿੱਛੇ">
@@ -217,13 +217,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "ਕੈਨਵਸ ਨਤੀਜਾ ਇਜਾਜ਼ਤ ਦਾ ਪਰਬੰਧ">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "ਆਫ਼ਲਾਈਨ ਸਟੋਰੇਜ਼ ਸੁਨੇਹਾ ਪੈਨਲ ਨੂੰ ਖੋਲ੍ਹੋ">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "ਪਾਸਵਰਡ ਸੰਭਾਲਣ ਸੁਨੇਹਾ ਪੈਨਲ ਨੂੰ ਖੋਲ੍ਹੋ">
-<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "ਪਲੱਗਇਨ-ਇਨ ਵਰਤੋਂ ਦਾ ਪਰਬੰਧ">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "ਵਰਤੋਂ ਅਧੀਨ ਪਲੱਗਇਨ-ਇਨ ਦਾ ਬੰਦੋਬਸਤ">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "ਕੀ ਤੁਸੀਂ ਸਾਈਟ ਤੋਂ ਨੋਟੀਫਿਕੇਸ਼ਨ ਪ੍ਰਾਪਤ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ, ਨੂੰ ਬਦਲੋ">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "ਪੱਕੀ ਸਟੋਰੇਜ਼ 'ਚ ਡਾਟੇ ਨੂੰ ਸਟੋਰ ਕਰੋ">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "ਬਰਾਊਜ਼ਰ ਰਿਮੋਟ ਤੋਂ ਕੰਟਰੋਲ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "ਸਾਈਟ ਨਾਲ ਆਪਣੇ ਕੈਮਰੇ ਅਤੇ/ਜਾਂ ਮਾਈਕਰੋਫ਼ੋਨ ਦੇ ਸਾਂਝਾ ਕਰਨ ਦਾ ਪਰਬੰਧ ਕਰੋ">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "ਸਾਈਟ ਨਾਲ ਆਪਣੇ ਮਾਈਕਰੋਫ਼ੋਨ ਦੇ ਸਾਂਝਾ ਕਰਨ ਦਾ ਪਰਬੰਧ ਕਰੋ">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "ਸਾਈਟ ਨਾਲ ਆਪਣੀਆਂ ਵਿੰਡੋਆਂ ਜਾਂ ਸਕਰੀਨ ਨੂੰ ਸਾਂਝਾ ਕਰਨ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ">
 
 <!ENTITY urlbar.servicesNotificationAnchor.tooltip        "ਇੰਸਟਾਲ ਸੁਨੇਹਾ ਪੈਨਲ ਨੂੰ ਖੋਲ੍ਹੋ">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "ਇਹ ਸਫ਼ੇ ਦਾ ਉਲੱਥਾ ਕਰੋ">
