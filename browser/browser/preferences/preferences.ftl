@@ -294,6 +294,8 @@ home-mode-choice-custom =
     .label = …ਪਸੰਦੀਦਾ URL
 home-mode-choice-blank =
     .label = ਖ਼ਾਲੀ ਸਫ਼ਾ
+home-homepage-custom-url =
+    .placeholder = …URL ਨੂੰ ਚੇਪੋ
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -393,6 +395,9 @@ sync-signedin-login-failure = ਮੁੜ-ਕੁਨੈਕਟ ਕਰਨ ਲਈ ਸ�
 sync-resend-verification =
     .label = ਤਸਦੀਕ ਮੁੜ-ਭੇਜੋ
     .accesskey = d
+sync-remove-account =
+    .label = ਖਾਤੇ ਨੂੰ ਹਟਾਓ
+    .accesskey = R
 sync-sign-in =
     .label = ਸਾਇਨ ਇਨ
     .accesskey = g
@@ -473,6 +478,7 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = ਅਤੀਤ
+history-remember-description = { -brand-short-name } ਤੁਹਾਡੇ ਬਰਾਊਜ਼ ਕਰਨ, ਡਾਊਨਲੋਡ, ਫਾਰਮਾਂ ਅਤੇ ਖੋਜ ਅਤੀਤ ਨੂੰ ਯਾਦ ਰੱਖੇਗਾ।
 history-dontremember-description = { -brand-short-name } ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਵਾਲੀਆਂ ਸੈਟਿੰਗਾਂ ਵਰਤੇਗਾ ਅਤੇ ਤੁਹਾਡੇ ਵਲੋਂ ਵੈੱਬ ਬਰਾਊਜ਼ ਕਰਨ ਦਾ ਕੋਈ ਵੀ ਅਤੀਤ ਯਾਦ ਨਹੀਂ ਰੱਖੇਗਾ।
 history-private-browsing-permanent =
     .label = ਹਮੇਸ਼ਾ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਮੋਡ ਹੀ ਵਰਤੋਂ
@@ -489,18 +495,40 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = …ਸੈਟਿੰਗਾਂ
     .accesskey = t
+history-clear-button =
+    .label = …ਅਤੀਤ ਨੂੰ ਸਾਫ਼ ਕਰੋ
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
+sitedata-header = ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟਾ
 sitedata-learn-more = ਹੋਰ ਜਾਣੋ
+sitedata-accept-cookies-option =
+    .label = ਵੈੱਬਸਾਈਟਾਂ ਤੋਂ ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟੇ ਨੂੰ ਮਨਜ਼ੂਰ ਕਰੋ (ਸਿਫਾਰਸ਼ੀ)
+    .accesskey = A
+sitedata-block-cookies-option =
+    .label = ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟੇ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਓ (ਵੈੱਬਸਾਈਟਾਂ ਠੀਕ ਤਰ੍ਹਾਂ ਕੰਮ ਨਹੀਂ ਕਰਦੀਆਂ)
+    .accesskey = B
 sitedata-keep-until = ਇਸ ਤੱਕ ਰੱਖੋ
     .accesskey = u
+sitedata-keep-until-expire =
+    .label = ਉਹਨਾਂ ਦੀ ਮਿਆਦ ਪੁੱਗਦੀ ਹੈ
+sitedata-keep-until-closed =
+    .label = { -brand-short-name } ਬੰਦ ਹੁੰਦਾ ਹੈ
+sitedata-accept-third-party-desc = ਤੀਜੀ-ਧਿਰ ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟਾ ਨੂੰ ਮਨਜ਼ੂਰ ਕਰੋ
+    .accesskey = y
 sitedata-accept-third-party-always-option =
     .label = ਹਮੇਸ਼ਾ
 sitedata-accept-third-party-visited-option =
     .label = ਖੋਲ੍ਹੀਆਂ ਗਈਆਂ ਤੋਂ ਹੀ
 sitedata-accept-third-party-never-option =
     .label = ਕਦੇ ਨਹੀਂ
+sitedata-clear =
+    .label = …ਡਾਟੇ ਨੂੰ ਸਾਫ਼ ਕਰੋ
+    .accesskey = l
+sitedata-settings =
+    .label = …ਡਾਟੇ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+    .accesskey = M
 sitedata-cookies-exceptions =
     .label = ਛੋਟ…
     .accesskey = E

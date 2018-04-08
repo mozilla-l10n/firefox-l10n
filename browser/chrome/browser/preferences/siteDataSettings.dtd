@@ -4,11 +4,12 @@
 
 <!ENTITY     window.title                  "ਸੈਟਿੰਗਾਂ - ਸਾਈਟ ਡਾਟਾ">
 
-<!ENTITY     window1.title                 "ਸੈਟਿੰਗਾਂ - ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟਾ">
+<!ENTITY     window2.title                 "ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟੇ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ">
 <!ENTITY     hostCol.label                 "ਸਾਈਟ">
 <!ENTITY     statusCol.label               "ਹਾਲਤ">
 <!ENTITY     cookiesCol.label              "ਕੂਕੀਜ਼">
 <!ENTITY     usageCol.label                "ਸਟੋਰੇਜ਼">
+<!ENTITY     lastAccessedCol.label                "ਪਿਛਲੀ ਵਾਰ ਦੀ ਵਰਤੋਂ">
 <!ENTITY     searchTextboxPlaceHolder             "ਖੋਜ ਵੈੱਬਸਾਈਟ">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
 <!ENTITY     removeSelected.label          "ਚੁਣੇ ਨੂੰ ਹਟਾਓ">
