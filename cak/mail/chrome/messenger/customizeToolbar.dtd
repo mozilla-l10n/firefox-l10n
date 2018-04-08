@@ -9,6 +9,7 @@
 <!ENTITY iconsAndText.label       "Taq Wachib'äl chuqa' Cholan Tzij">
 <!ENTITY icons.label              "Taq wachib'äl">
 <!ENTITY text.label               "Cholan tzij">
+<!ENTITY iconsBesideText.label    "Taq wachib'äl chuqa' Cholan Tzij">
 <!ENTITY useSmallIcons.label      "Ke'okisäx Koköj Wachib'äl">
 <!ENTITY restoreDefaultSet.label  "Ketzolïx ri E K'o wi">
 <!ENTITY addNewToolbar.label      "Titz'aqatisäx K'ak'a' Kik'ajtz'ik Samajib'äl">

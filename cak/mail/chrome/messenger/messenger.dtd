@@ -36,6 +36,12 @@
 <!ENTITY newFeedAccountCmd.accesskey "y">
 <!ENTITY newIMContactCmd.label "Rub'i' Rachib'il Chat…">
 <!ENTITY newIMContactCmd.accesskey "h">
+<!ENTITY  newMessageCmd2.key "N">
+<!ENTITY  newMessageCmd.key "M">
+<!ENTITY  newMessageCmd.label "Tzijol">
+<!ENTITY  newMessageCmd.accesskey "t">
+<!ENTITY  newContactCmd.label "Kib'i' Achib'il pa Kitz'ib'awuj Ochochib'äl…">
+<!ENTITY  newContactCmd.accesskey "A">
 <!ENTITY openMessageFileCmd.label "Tijaq Tzijol Eyakon…">
 <!ENTITY openMessageFileCmd.accesskey "j">
 <!ENTITY saveAsMenu.label "Tiyak Achi'el">
@@ -509,8 +515,6 @@
 <!ENTITY devToolboxCmd.label "Rukajtz'ik B'anonel">
 <!ENTITY devToolboxCmd.accesskey "R">
 <!ENTITY devToolboxCmd.commandkey "i">
-<!ENTITY addonDebugCmd.label "Ruchojmirisanel Tz'aqat">
-<!ENTITY addonDebugCmd.accesskey "T">
 <!ENTITY debugAddonsCmd.label "Kechojmirisäx taq Tz'aqat">
 <!ENTITY debugAddonsCmd.accesskey "T">
 <!ENTITY tabsDebugCmd.label "Ruchojmirisanel Rupam Ruchi'">
@@ -645,6 +649,7 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Kek'ul tzijol">
 <!ENTITY folderContextGetMessages.accesskey "K">
+<!ENTITY folderContextMarkAllFoldersRead.label "Tiya' Ketal Yakwuj Esik'in">
 <!ENTITY folderContextPauseAllUpdates.label "Keq'at Ronojel K'exoj">
 <!ENTITY folderContextPauseUpdates.label "Keq'at K'exoj">
 <!ENTITY folderContextPauseUpdates.accesskey "K">
