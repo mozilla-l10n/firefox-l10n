@@ -130,8 +130,7 @@ was trying to connect. -->
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> naudoja saugumo technologiją, kuri yra pasenusi ir pažeidžiama. Piktavalis lengvai galėtų pamatyti informaciją, kuri jums atrodė saugi. Kol svetainės administratorius jos nesutvarkys, negalėsite į šią svetainę užeiti.</p><p>Klaidos kodas: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
-<!ENTITY blockedByPolicyTemp.title "Tinklalapis užblokuotas">
-<!ENTITY blockedByPolicyTemp.longDesc "<p>Prieigą uždraudė jūsų administratorius.</p>">
+<!ENTITY blockedByPolicy.title "Uždraustas puslapis">
 
 <!ENTITY prefReset.longDesc "Panašu, kad taip galėjo nutikti dėl jūsų tinklo saugumo nuostatų. Ar norite atstatyti numatytąsias reikšmes?">
 <!ENTITY prefReset.label "Atstatyti numatytąsias nuostatas">
