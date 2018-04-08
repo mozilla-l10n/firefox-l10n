@@ -44,7 +44,7 @@
 <!ENTITY  acceptThirdParty2.pre.label     "მესამე მხარის ფუნთუშების მიღება">
 <!ENTITY  acceptThirdParty2.pre.accesskey "ხ">
 
-<!ENTITY  acceptCookies4.label          "ფუნთუშებისა და საიტის მონაცემების საიტებიდან (სასურველია)">
+<!ENTITY  acceptCookies4.label          "ფუნთუშებისა და საიტის მონაცემების (სასურველია)">
 <!ENTITY  acceptCookies4.accesskey      "დ">
 
 <!ENTITY  blockCookies.label            "ფუნთუშებისა და საიტის მონაცემების აკრძალვა (შესაძლოა ვებსაიტებმა ხარვეზებით იმუშაოს)">
