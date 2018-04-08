@@ -10,11 +10,6 @@
 <!ENTITY certmgr.tab.ca                       "Entitats">
 <!ENTITY certmgr.tab.orphan2                  "Altres">
 
-<!ENTITY certmgr.mine                         "Teniu certificats d'aquestes organitzacions que us identifiquen:">
-<!ENTITY certmgr.others                       "Teniu certificats al fitxer que identifiquen aquesta gent:">
-<!ENTITY certmgr.websites2                    "Teniu certificats al fitxer que identifiquen aquests servidors:">
-<!ENTITY certmgr.cas                          "Teniu certificats al fitxer que identifiquen aquestes entitats certificadores:">
-<!ENTITY certmgr.orphans                      "Teniu certificats al fitxer que no coincideixen amb cap de les altres categories:">
 
 <!ENTITY certmgr.detail.general_tab.title     "General">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
@@ -38,7 +33,6 @@
 <!ENTITY certmgr.editcert.edittrust           "Edita els paràmetres de confiança:">
 <!ENTITY certmgr.editcert.trustssl            "Aquest certificat pot identificar llocs web.">
 <!ENTITY certmgr.editcert.trustemail          "Aquest certificat pot identificar usuaris de correu.">
-<!ENTITY certmgr.editcert.trustobjsign        "Aquest certificat pot identificar fabricants de programari.">
 
 <!ENTITY certmgr.deletecert.title             "Suprimeix el certificat">
 

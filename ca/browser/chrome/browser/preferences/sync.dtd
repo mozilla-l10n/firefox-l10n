@@ -102,4 +102,5 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY mobilePromo3.end              " per sincronitzar amb el vostre dispositiu mòbil.">
 
+<!ENTITY mobilepromo.singledevice      "Connecta un altre dispositiu">
 <!ENTITY mobilepromo.multidevice       "Gestiona els dispositius">
