@@ -37,6 +37,13 @@ containers-button-done =
     .label = ਮੁਕੰਮਲ
     .accesskey = D
 containers-remove-alert-title = ਇਹ ਕਨਟੇਨਰ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] ਜੇ ਤੁਸੀਂ ਇਹ ਕਨਟੇਰਨਰ ਨੂੰ ਹਟਾਇਆ ਤਾਂ { $count } ਕਨਟੇਨਰ ਟੈਬ ਨੂੰ ਬੰਦ ਕੀਤਾ ਜਾਵੇਗਾ। ਕੀ ਤੁਸੀਂ ਇਸ ਕਨਟੇਨਰ ਨੂੰ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?
+       *[other] ਜੇ ਤੁਸੀਂ ਇਹ ਕਨਟੇਰਨਰ ਨੂੰ ਹਟਾਇਆ ਤਾਂ { $count } ਕਨਟੇਨਰ ਟੈਬਾਂ ਨੂੰ ਬੰਦ ਕੀਤਾ ਜਾਵੇਗਾ। ਕੀ ਤੁਸੀਂ ਇਸ ਕਨਟੇਨਰ ਨੂੰ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?
+    }
 containers-remove-ok-button = ਇਸ ਕਨਟੇਨਰ ਨੂੰ ਹਟਾਓ
 containers-remove-cancel-button = ਇਸ ਕਨਟੇਨਰ ਨੂੰ ਨਾ ਹਟਾਓ
 containers-color-blue =
