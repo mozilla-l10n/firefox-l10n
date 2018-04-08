@@ -982,11 +982,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Reinicia per actualitzar el &brandShorterName;">
 
 <!ENTITY newTabControlled.message "Una extensió ha canviat la pàgina que es mostra en obrir una pestanya nova. Si no voleu acceptar aquest canvi, podeu restaurar els vostres paràmetres.">
+
 <!ENTITY newTabControlled.header.message "La pàgina de «Pestanya nova» ha canviat.">
 <!ENTITY newTabControlled.keepButton.label "Mantén els canvis">
 <!ENTITY newTabControlled.keepButton.accesskey "M">
 <!ENTITY newTabControlled.restoreButton.label "Restaura els paràmetres">
 <!ENTITY newTabControlled.restoreButton.accesskey "R">
+
+<!ENTITY newTabControlled.disableButton.label "Inhabilita l'extensió">
+<!ENTITY newTabControlled.disableButton.accesskey "I">
 
 <!ENTITY pageActionButton.tooltip "Accions de la pàgina">
 <!ENTITY pageAction.addToUrlbar.label "Afegeix a la barra d'adreces">
