@@ -5,7 +5,7 @@
 
 <!ENTITY search.placeholder2                  "Zoeken op addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Zoeken">
-<!-- LOCALIZATION NOTE (search.commandKey):
+<!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
