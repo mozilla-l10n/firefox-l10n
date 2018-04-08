@@ -367,14 +367,14 @@
 <!ENTITY pref_sync2 "Inicia la sessió">
 <!ENTITY pref_sync_summary2 "Sincronitzeu les pestanyes, adreces d\&apos;interès, dades d\&apos;inici de sessió, historial">
 <!ENTITY pref_search_suggestions "Mostra suggeriments de cerca">
-<!ENTITY pref_history_search_suggestions "Mostra l\&apos;historial de cerca">
+<!ENTITY pref_history_search_suggestions "Mostra l\&apos;historial de cerques">
 <!ENTITY pref_import_options "Opcions d\&apos;importació">
 <!ENTITY pref_import_android_summary "Importa les adreces d\&apos;interès i l\&apos;historial del navegador natiu">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "Pestanyes obertes">
 <!ENTITY pref_private_data_history2 "Historial de navegació">
-<!ENTITY pref_private_data_searchHistory "Historial de cerca">
+<!ENTITY pref_private_data_searchHistory "Historial de cerques">
 <!ENTITY pref_private_data_formdata2 "Historial de formularis">
 <!ENTITY pref_private_data_cookies2 "Galetes i sessions actives">
 <!ENTITY pref_private_data_passwords2 "Inicis de sessió desats">
