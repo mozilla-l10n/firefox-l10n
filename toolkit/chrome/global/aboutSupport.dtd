@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutSupport.pageTitle "Informació de resolució de problemes">
-<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "  Aquesta pàgina conté informació tècnica que pot ser útil quan proveu de resoldre un problema. Si cerqueu respostes per a preguntes freqüents del &brandShortName;, visiteu el nostre <a id='supportLink'>lloc web d'assistència</a>.">
 
 <!ENTITY aboutSupport.crashes.title "Informes de fallada">
@@ -20,6 +20,11 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionEnabled "Habilitada">
 <!ENTITY aboutSupport.extensionVersion "Versió">
 <!ENTITY aboutSupport.extensionId "ID">
+
+<!ENTITY aboutSupport.securitySoftwareType "Tipus">
+<!ENTITY aboutSupport.securitySoftwareName "Nom">
+<!ENTITY aboutSupport.securitySoftwareAntivirus "Antivirus">
+<!ENTITY aboutSupport.securitySoftwareFirewall "Tallafoc">
 
 <!ENTITY aboutSupport.featuresTitle "Característiques del &brandShortName;">
 <!ENTITY aboutSupport.featureName "Nom">
@@ -39,9 +44,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsName "Nom">
 <!ENTITY aboutSupport.appBasicsVersion "Versió">
 <!ENTITY aboutSupport.appBasicsBuildID "Identificador del muntatge">
+
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
-
 <!ENTITY aboutSupport.appBasicsUpdateChannel "Canal d'actualitzacions">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Historial d'actualitzacions">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Mostra l'historial d'actualitzacions">
@@ -58,8 +63,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsOS "SO">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Utilització de la memòria">
 <!ENTITY aboutSupport.appBasicsPerformance "Rendiment">
-<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Processos de treball de servei registrats">
 
 <!ENTITY aboutSupport.appBasicsProfiles "Perfils">
@@ -67,8 +72,9 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Finestres multiprocés">
 
 
-<!ENTITY aboutSupport.appBasicsKeyGoogle "Clau de Google">
+<!ENTITY aboutSupport.enterprisePolicies "Polítiques d'empresa">
 
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Clau de Google">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "Mode segur">
 
@@ -84,8 +90,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Preferències modificades importants">
 <!ENTITY aboutSupport.modifiedPrefsName "Nom">
 <!ENTITY aboutSupport.modifiedPrefsValue "Valor">
-<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "Preferències de user.js">
 <!ENTITY aboutSupport.userJSDescription "La vostra carpeta de perfil conté un <a id='prefs-user-js-link'>fitxer user.js</a>, que inclou preferències que no han estat creades pel &brandShortName;.">
 
@@ -105,7 +111,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yTitle "Accessibilitat">
 <!ENTITY aboutSupport.a11yActivated "Activat">
 <!ENTITY aboutSupport.a11yForceDisabled "Evita l'accessibilitat">
-
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Versions de la biblioteca">
 
@@ -137,14 +142,13 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Característiques del protector de fallades desactivades">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Solucions temporals">
 
-
-
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "Dispositius de sortida">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Dispositius d'entrada">
 <!ENTITY aboutSupport.mediaDeviceName "Nom">
-
-
-
-
-
-
-
+<!ENTITY aboutSupport.mediaDeviceGroup "Grup">
+<!ENTITY aboutSupport.mediaDeviceFormat "Format">
+<!ENTITY aboutSupport.mediaDeviceChannels "Canals">
 <!ENTITY aboutSupport.mediaDeviceLatency "Latència">
+
+<!ENTITY aboutSupport.intlTitle "Internacionalització i localització">
+<!ENTITY aboutSupport.intlOSTitle "Sistema operatiu">

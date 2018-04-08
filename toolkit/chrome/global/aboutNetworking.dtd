@@ -41,18 +41,4 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "Resol">
 <!ENTITY aboutNetworking.dnsDomain             "Domini">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IP">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutNetworking.rcwnPerfOpen          "Obre">
