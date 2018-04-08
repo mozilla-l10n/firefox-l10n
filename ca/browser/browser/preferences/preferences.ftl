@@ -45,6 +45,9 @@ policies-notice =
 pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = Inici
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = Cerca
 category-search =
     .tooltiptext = { pane-search-title }
@@ -286,9 +289,26 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = Finestres i pestanyes noves
+home-new-windows-tabs-description = Trieu què voleu veure en obrir la pàgina d'inici, finestres noves i pestanyes noves
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Pàgina d'inici i finestres noves
+home-newtabs-mode-label = Pestanyes noves
+home-restore-defaults =
+    .label = Restaura els valors per defecte
+    .accesskey = R
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Inici del Firefox (per defecte)
+home-mode-choice-custom =
+    .label = URL personalitzats…
+home-mode-choice-blank =
+    .label = Pàgina en blanc
+home-homepage-custom-url =
+    .placeholder = Enganxeu un URL…
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -388,6 +408,9 @@ sync-signedin-login-failure = Inicieu la sessió per tornar-vos a connectar { $e
 sync-resend-verification =
     .label = Torna a enviar la verificació
     .accesskey = v
+sync-remove-account =
+    .label = Suprimeix el compte
+    .accesskey = r
 sync-sign-in =
     .label = Inicia la sessió
     .accesskey = I
@@ -437,6 +460,8 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Desa
     .accesskey = D
+sync-mobilepromo-single = Connecta un altre dispositiu
+sync-mobilepromo-multi = Gestiona els dispositius
 sync-tos-link = Condicions del servei
 sync-fxa-privacy-notice = Avís de privadesa
 
@@ -466,7 +491,8 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Historial
-history-dontremember-description = El { -brand-short-name } utilitzarà els mateixos paràmetres de la navegació privada, i no mantindrà cap historial mentre navegueu.
+history-remember-description = El { -brand-short-name } recordarà el vostre historial de navegació, de baixades, de formularis i de cerques.
+history-dontremember-description = El { -brand-short-name } utilitzarà els mateixos paràmetres de la navegació privada, i no conservarà cap historial mentre navegueu.
 history-private-browsing-permanent =
     .label = Utilitza sempre el mode de navegació privada
     .accesskey = p
@@ -498,6 +524,8 @@ sitedata-block-cookies-option =
     .accesskey = B
 sitedata-keep-until = Conserva-les fins
     .accesskey = v
+sitedata-keep-until-expire =
+    .label = que vencin
 sitedata-accept-third-party-desc = Accepta les galetes i dades dels llocs de tercers
     .accesskey = t
 sitedata-accept-third-party-always-option =
