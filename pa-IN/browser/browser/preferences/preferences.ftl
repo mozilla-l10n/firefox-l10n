@@ -40,6 +40,9 @@ search-input-box =
 pane-general-title = ਆਮ
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = ਘਰ
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = ਖੋਜ
 category-search =
     .tooltiptext = { pane-search-title }
@@ -62,6 +65,7 @@ feature-enable-requires-restart = ਇਹ ਫੀਚਰ ਸਮਰੱਥ ਕਰਨ 
 feature-disable-requires-restart = ਇਹ ਫੀਚਰ ਅਸਮਰੱਥ ਕਰਨ ਲਈ { -brand-short-name } ਨੂੰ ਮੁੜ-ਚਾਲੂ ਕਰਨਾ ਪਵੇਗਾ।
 should-restart-title = { -brand-short-name } ਨੂੰ ਮੁੜ-ਚਾਲੂ ਕਰੋ
 should-restart-ok = ਹੁਣੇ { -brand-short-name } ਨੂੰ ਮੁੜ-ਚਾਲੂ ਕਰੋ
+cancel-no-restart-button = ਰੱਦ ਕਰੋ
 restart-later = ਬਾਅਦ 'ਚ ਮੁੜ-ਚਾਲੂ ਕਰੋ
 
 ## Preferences UI Search Results
@@ -272,9 +276,24 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = ਨਵੀਆਂ ਵਿੰਡੋਆਂ ਅਤੇ ਟੈਬਾਂ
+home-new-windows-tabs-description = ਚੁਣੋ ਕਿ ਤੁਸੀਂ ਆਪਣੀ ਮੁੱਖ ਸਕਰੀਨ-ਸਫ਼ੇ, ਨਵੀਆਂ ਵਿੰਡੋਆਂ, ਅਤੇ ਨਵੀਆਂ ਟੈਬਾਂ ਖੋਲ੍ਹਣ ਸਮੇਂ ਕੀ ਵੇਖਣਾ ਚਾਹੁੰਦੇ ਹੋ
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = ਮੁੱਖ-ਸਫ਼ਾ ਅਤੇ ਨਵੀਆਂ ਵਿੰਡੋਆਂ
+home-newtabs-mode-label = ਨਵੀਆਂ ਟੈਬਾਂ
+home-restore-defaults =
+    .label = ਮੂਲ ਬਹਾਲ ਕਰੋ
+    .accesskey = R
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = ਫਾਇਰਫਾਕਸ ਘਰ (ਮੂਲ)
+home-mode-choice-custom =
+    .label = …ਪਸੰਦੀਦਾ URL
+home-mode-choice-blank =
+    .label = ਖ਼ਾਲੀ ਸਫ਼ਾ
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
