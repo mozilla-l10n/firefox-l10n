@@ -5,11 +5,7 @@
 <!ENTITY ctrlTabRecentlyUsedOrder.label       "Ctrl+Tab canvia de pestanya en ordre d'ús recent">
 <!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "T">
 
-<!ENTITY newWindowsAsTabs.label       "Fes que les finestres noves s'obrin en pestanyes noves">
-<!ENTITY newWindowsAsTabs.accesskey   "t">
-
-<!ENTITY newWindowsAsTabs2.label       "Obre els enllaços en pestanyes en lloc de finestres noves">
-<!ENTITY newWindowsAsTabs2.accesskey   "f">
+<!ENTITY newWindowsAsTabs3.accesskey   "t">
 
 <!ENTITY warnOnCloseMultipleTabs.label      "Avisa en tancar diverses pestanyes de cop">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "d">
