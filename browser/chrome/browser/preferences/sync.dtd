@@ -70,11 +70,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY verifiedManage.accesskey     "a">
 <!ENTITY disconnect3.label            "Desconnecta…">
 <!ENTITY disconnect3.accesskey        "D">
-<!ENTITY verify.label                "Verifiqueu l'adreça electrònica">
-<!ENTITY verify.accesskey            "V">
-<!ENTITY forget.label                "Oblida aquesta adreça electrònica">
-<!ENTITY forget.accesskey            "b">
-
 <!ENTITY resendVerification.label     "Torna a enviar la verificació">
 <!ENTITY resendVerification.accesskey "v">
 <!ENTITY cancelSetup.label            "Cancel·la la configuració">
@@ -106,3 +101,5 @@ both, to better adapt this sentence to their language.
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
 <!ENTITY mobilePromo3.end              " per sincronitzar amb el vostre dispositiu mòbil.">
+
+<!ENTITY mobilepromo.multidevice       "Gestiona els dispositius">
