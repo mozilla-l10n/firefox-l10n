@@ -13,6 +13,10 @@
 <!-- Field labels for input type=time -->
 
 <!ENTITY time.hour.label "Hores">
+<!ENTITY time.minute.label "Minuts">
+<!ENTITY time.second.label "Segons">
+<!ENTITY time.millisecond.label "Mil·lisegons">
+<!ENTITY time.dayperiod.label "AM/PM">
 
 <!-- Placeholders for input type=date -->
 
@@ -23,6 +27,8 @@
 <!-- Field labels for input type=date -->
 
 <!ENTITY date.year.label "Any">
+<!ENTITY date.month.label "Mes">
+<!ENTITY date.day.label "Dia">
 
 <!-- Date/time clear button -->
 
