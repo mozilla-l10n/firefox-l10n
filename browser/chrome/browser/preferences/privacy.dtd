@@ -61,10 +61,10 @@
 <!ENTITY  expire.label                  "ਉਨ੍ਹਾਂ ਦੀ ਮਿਆਦ ਹੋਵੇ">
 <!ENTITY  close.label                   "ਜਦੋਂ ਮੈਂ &brandShortName; ਬੰਦ ਕਰਾਂ">
 
-<!ENTITY  cookieExceptions.label        "ਛੋਟ…">
+<!ENTITY  cookieExceptions.label        "…ਛੋਟਾਂ">
 <!ENTITY  cookieExceptions.accesskey    "E">
 
-<!ENTITY  showCookies.label             "ਕੂਕੀਜ਼ ਵੇਖੋ…">
+<!ENTITY  showCookies.label             "…ਕੂਕੀਜ਼ ਵੇਖੋ">
 <!ENTITY  showCookies.accesskey         "S">
 
 <!ENTITY  historyHeader2.pre.label         "&brandShortName; ਕਰੇਗਾ">
@@ -115,7 +115,7 @@
 <!ENTITY  browserContainersLearnMore.label      "ਹੋਰ ਜਾਣੋ">
 <!ENTITY  browserContainersEnabled.label        "ਕਨਟੇਨਰ ਟੈਬਾਂ ਨੂੰ ਸਮਰੱਥ ਕਰੋ">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
-<!ENTITY  browserContainersSettings.label        "ਸੈਟਿੰਗਾਂ…">
+<!ENTITY  browserContainersSettings.label        "…ਸੈਟਿੰਗਾਂ">
 <!ENTITY  browserContainersSettings.accesskey    "i">
 
 <!ENTITY  a11yPrivacy.checkbox.label     "ਅਸੈਸਬਿਲਟੀ ਸੇਵਾਵਾਂ ਨੂੰ ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਲਈ ਪਹੁੰਚ ਤੋਂ ਰੋਕ ਲਗਾਓ">

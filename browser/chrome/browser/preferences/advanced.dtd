@@ -50,7 +50,7 @@ available. -->
 <!ENTITY networkProxy.label              "ਨੈੱਟਵਰਕ ਪਰਾਕਸੀ">
 
 <!ENTITY connectionDesc.label            "ਸੰਰਚਨਾ ਕਰੋ ਕਿ &brandShortName; ਇੰਟਰਨੈੱਟ ਨਾਲ ਕਿਵੇਂ ਕੁਨੈਕਟ ਹੋਵੇ">
-<!ENTITY connectionSettings.label        "…ਸੈਟਿੰਗ">
+<!ENTITY connectionSettings.label        "…ਸੈਟਿੰਗਾਂ">
 <!ENTITY connectionSettings.accesskey    "e">
 
 <!ENTITY httpCache.label                 "ਕੈਸ਼ ਕੀਤੀ ਵੈੱਬ ਸਮੱਗਰੀ">
@@ -64,7 +64,7 @@ available. -->
 <!ENTITY siteData1.label                 "ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟਾ">
 <!ENTITY clearSiteData1.label            "…ਡਾਟਾ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY clearSiteData1.accesskey        "l">
-<!ENTITY siteDataSettings1.label         "…ਡਾਟੇ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ">
+<!ENTITY siteDataSettings1.label         "…ਡਾਟੇ ਦਾ ਬੰਦੋਬਸਤ">
 <!ENTITY siteDataSettings1.accesskey     "M">
 <!ENTITY siteDataLearnMoreLink.label     "ਹੋਰ ਜਾਣੋ">
 
@@ -79,7 +79,7 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "MB">
 <!ENTITY clearCacheNow.label             "ਹੁਣੇ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY clearCacheNow.accesskey         "C">
-<!ENTITY overrideSmartCacheSize.label    "ਕੈਸ਼ ਪਰਬੰਧ ਆਟੋਮੈਟਿਕ ਅਣਡਿੱਠਾ ਕਰੋ">
+<!ENTITY overrideSmartCacheSize.label    "ਕੈਸ਼ ਬੰਦੋਬਸਤ ਆਟੋਮੈਟਿਕ ਅਣਡਿੱਠਾ ਕਰੋ">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
 <!ENTITY updateTab.label                 "ਅੱਪਡੇਟ">
@@ -122,7 +122,7 @@ available. -->
 <!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "ਹਰ ਵਾਰ ਤੁਹਾਨੂੰ ਪੁੱਛੋ">
 <!ENTITY selectCerts.ask.accesskey       "A">
-<!ENTITY enableOCSP.label                " ਕਿਊਰੀ OCSP ਜਵਾਬ-ਦੇਣ ਵਾਲੇ ਸਰਵਰਾਂ ਨੂੰ ਸਰਟੀਫਿਕੇਟਾਂ ਦੀ ਮੌਜੂਦਾ ਵੈਧਤਾ ਦੀ ਪਸ਼ਟੀ ਕਰਨ">
+<!ENTITY enableOCSP.label                "ਕਿਊਰੀ OCSP ਜਵਾਬ-ਦੇਣ ਵਾਲੇ ਸਰਵਰਾਂ ਨੂੰ ਸਰਟੀਫਿਕੇਟਾਂ ਦੀ ਮੌਜੂਦਾ ਵੈਧਤਾ ਦੀ ਪਸ਼ਟੀ ਕਰਨ">
 <!ENTITY enableOCSP.accesskey            "Q">
 <!ENTITY viewCerts2.label                "…ਸਰਟੀਫਿਕੇਟ ਵੇਖੋ">
 <!ENTITY viewCerts2.accesskey            "C">
