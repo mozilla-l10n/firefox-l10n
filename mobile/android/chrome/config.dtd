@@ -11,7 +11,7 @@
 <!ENTITY newPref.valueString           "ਸਤਰ">
 <!ENTITY newPref.valueInteger          "ਅੰਕ">
 
-<!ENTITY newPref.stringPlaceholder     "ਸਤਰ ਦਿਉ">
+<!ENTITY newPref.stringPlaceholder     "ਸਤਰ ਦਿਓ">
 <!ENTITY newPref.numberPlaceholder     "ਅੰਕ ਦਿਓ">
 
 <!ENTITY newPref.toggleButton          "ਬਦਲੋ">

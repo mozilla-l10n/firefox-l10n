@@ -107,7 +107,7 @@
 <!ENTITY netTimeout.title "ਕੁਨੈਕਸ਼ਨ ਟਾਈਮ-ਆਉਟ ਹੋਇਆ">
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
-<!ENTITY unknownProtocolFound.title "ਐਡਰੈਸ ਦੀ ਸਮਝ ਨਹੀਂ ਆਈ">
+<!ENTITY unknownProtocolFound.title "ਸਿਰਨਾਵੇਂ ਦੀ ਸਮਝ ਨਹੀਂ ਆਈ">
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
   <li>ਤੁਹਾਨੂੰ ਇਹ ਐਡਰੈਸ ਖੋਲ੍ਹਣ ਲਈ ਹੋਰ ਸਾਫਟਵੇਅਰ ਇੰਸਟਾਲ ਕਰਨ ਦੀ ਲੋੜ ਹੋ ਸਕਦੀ ਹੈ।</li>
@@ -184,7 +184,7 @@
 
 <!ENTITY securityOverride.linkText "ਜਾਂ ਤੁਸੀਂ ਛੋਟ ਦੇ ਸਕਦੇ ਹੋ…">
 <!ENTITY securityOverride.getMeOutOfHereButton "ਮੈਨੂੰ ਇੱਥੋਂ ਬਾਹਰ ਲੈ ਜਾਓ!">
-<!ENTITY securityOverride.exceptionButtonLabel "ਛੋਟ ਸ਼ਾਮਿਲ…">
+<!ENTITY securityOverride.exceptionButtonLabel "…ਛੋਟ ਜੋੜੋ">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
