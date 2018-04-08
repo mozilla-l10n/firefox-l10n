@@ -26,7 +26,7 @@
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       " is een ">
-<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!-- LOCALIZATION NOTE (community.exp.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "wereldwijde gemeenschap">
 <!ENTITY community.exp.end          " die samenwerkt om het internet open, openbaar en voor iedereen toegankelijk te houden.">
 
