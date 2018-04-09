@@ -4,6 +4,7 @@
 
 <!ENTITY window.title "Ustawienia – dane stron">
 <!ENTITY window1.title "Ustawienia – ciasteczka i dane stron">
+<!ENTITY window2.title "Zachowane ciasteczka i dane stron">
 <!ENTITY hostCol.label "Witryna">
 <!ENTITY statusCol.label "Status">
 <!ENTITY cookiesCol.label "Ciasteczka">
