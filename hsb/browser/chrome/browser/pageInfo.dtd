@@ -60,9 +60,6 @@
 <!ENTITY  permissionsFor        "Prawa za:">
 <!ENTITY  permPlugins           "Tykače aktiwizować">
 
-<!ENTITY  permClearStorage           "Składowak wuprózdnić">
-<!ENTITY  permClearStorage.accesskey "u">
-
 <!ENTITY  securityTab           "Wěstota">
 <!ENTITY  securityTab.accesskey "W">
 <!ENTITY  securityView.certView "Certifikat sej wobhladać">
@@ -81,6 +78,9 @@
 <!ENTITY  securityView.privacy.cookies                  "Składuje tute websydło informacije (placki) na mojim ličaku?">
 <!ENTITY  securityView.privacy.viewCookies              "Placki sej wobhladać">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.siteData                 "Składuje tute websydło informacije na mojim ličaku?">
+<!ENTITY  securityView.privacy.clearSiteData            "Placki a sydłowe daty zhašeć">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "P">
 <!ENTITY  securityView.privacy.passwords                "Su so hesła za tute websydło składowali?">
 <!ENTITY  securityView.privacy.viewPasswords            "Składowane hesła sej wobhladać">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "h">
