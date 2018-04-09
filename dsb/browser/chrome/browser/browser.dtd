@@ -61,6 +61,8 @@ can reach it easily. -->
 <!ENTITY  closeTab.label                     "Rejtark zacyniś">
 <!ENTITY  closeTab.accesskey                 "z">
 
+<!ENTITY  hiddenTabs.label                   "Schowane rejtarki">
+
 <!ENTITY  listAllTabs.label      "Wšykne rejtarki nalicyś">
 
 <!ENTITY tabCmd.label "Nowy rejtark">
@@ -222,6 +224,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Daty w trajnem składowaku składowaś">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Wobglědowak se zdaloka wóźi">
 
+<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Wobcerk webawtentifikacije wócyniś">
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Źělenje wašeje kamery a/abo wašogo mikrofona ze sedłom zastojaś">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Źělenje wašogo mikrofona ze sedłom zastojaś">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Źělenje wašych woknow abo wašeje wobrazowki ze sedłom zastojaś">
@@ -268,7 +272,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addBookmarksMenu.label             "Symbolowej rědce meni cytańskich znamjenjow pśidaś">
 <!ENTITY removeBookmarksMenu.label          "Meni cytańskich znamjenjow ze symboloweje rědki wótwónoźeś">
 
-<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 <!ENTITY bookmarksGtkCmd.commandkey "o">
@@ -385,7 +389,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Synchronizěrowanje rejtarkow zašaltowaś, aby se lisćina rejtarkow z drugich rědow pokazała.">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Cośo how swóje rejtarki z drugich rědow wiźeś?">
