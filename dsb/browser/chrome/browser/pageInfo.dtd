@@ -60,9 +60,6 @@
 <!ENTITY  permissionsFor        "Pšawa za:">
 <!ENTITY  permPlugins           "Tykace aktiwěrowaś">
 
-<!ENTITY  permClearStorage           "Składowak wuprozniś">
-<!ENTITY  permClearStorage.accesskey "u">
-
 <!ENTITY  securityTab           "Wěstota">
 <!ENTITY  securityTab.accesskey "W">
 <!ENTITY  securityView.certView "Certifikat se woglědaś">
@@ -81,6 +78,9 @@
 <!ENTITY  securityView.privacy.cookies                  "Składujo toś to websedło informacije (cookieje) na mójom licadle?">
 <!ENTITY  securityView.privacy.viewCookies              "Cookieje se woglědaś">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.siteData                 "Składujo toś to websedło informacije na mójo licadle?">
+<!ENTITY  securityView.privacy.clearSiteData            "Cookieje a sedłowe daty wulašowaś">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "C">
 <!ENTITY  securityView.privacy.passwords                "Su se gronidła za toś to websedło składowali?">
 <!ENTITY  securityView.privacy.viewPasswords            "Składowane gronidła se woglědaś">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "r">
