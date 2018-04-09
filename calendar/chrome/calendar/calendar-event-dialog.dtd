@@ -190,6 +190,10 @@
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 <!ENTITY counter.button.proposal.label                    "Käytä ehdotusta">
 <!ENTITY counter.button.proposal.accesskey                "e">
+<!ENTITY counter.button.proposal.tooltip2                 "Tapahtuman kentät päivitetään vastaehdotuksen tiedoilla. Vain tallentaminen lisämuutoksilla tai ilman tiedottaa myös muita osallistujia">
+<!ENTITY counter.button.original.label                    "Käytä alkuperäisiä tietoja">
+<!ENTITY counter.button.original.accesskey                "l">
+<!ENTITY counter.button.original.tooltip2                 "Tapahtuman kentissä säilytetään alkuperäiset, ennen vastaehdotuksen lähettämistä olleet tiedot">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Otsikko:" >

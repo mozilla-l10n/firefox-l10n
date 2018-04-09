@@ -35,6 +35,7 @@
 
 <!ENTITY showUnifinderCmd.label                 "Etsi tapahtumia">
 <!ENTITY showUnifinderCmd.accesskey             "E">
+<!ENTITY showUnifinderCmd.tooltip               "Näytä tai piilota Etsi tapahtumia -paneeli">
 
 <!ENTITY calendar.displaytodos.checkbox.label       "Näytä tehtävät kalenterissa">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "N">
