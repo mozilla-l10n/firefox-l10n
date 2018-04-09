@@ -386,7 +386,7 @@
 
 <!ENTITY pref_default_browser "Ket calo layeny makwongo">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Lim Mozilla Support">
-<!ENTITY pref_about_firefox "Ikom &brandShorterName;">
+<!ENTITY pref_about_firefox "Ikom &brandShortName;">
 <!ENTITY pref_vendor_faqs "Lapeny ma pol kare">
 <!ENTITY pref_vendor_feedback "Mi lagam">
 
