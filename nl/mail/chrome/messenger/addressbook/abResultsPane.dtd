@@ -6,7 +6,7 @@
 <!ENTITY Addrbook.accesskey                    "s">
 <!ENTITY GeneratedName.label                   "Naam">
 <!ENTITY GeneratedName.accesskey               "N">
-<!ENTITY PrimaryEmail.label                    "E-mail">
+<!ENTITY PrimaryEmail.label                    "E-mailadres">
 <!ENTITY PrimaryEmail.accesskey                "m">
 <!ENTITY Company.label                         "Organisatie">
 <!ENTITY Company.accesskey                     "O">
@@ -14,8 +14,8 @@
 <!ENTITY _PhoneticName.accesskey               "c">
 <!ENTITY NickName.label                        "Bijnaam">
 <!ENTITY NickName.accesskey                    "B">
-<!ENTITY SecondEmail.label                     "Alternatieve e-mail">
-<!ENTITY SecondEmail.accesskey                 "A">
+<!ENTITY SecondEmail.label                     "Extra e-mailadres">
+<!ENTITY SecondEmail.accesskey                 "a">
 <!ENTITY Department.label                      "Afdeling">
 <!ENTITY Department.accesskey                  "d">
 <!ENTITY JobTitle.label                        "Functie">

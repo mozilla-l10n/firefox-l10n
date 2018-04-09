@@ -17,7 +17,7 @@
 <!ENTITY addressbookPicker.accesskey        "k">
 <!ENTITY searchContacts.label               "Contacten zoeken:">
 <!ENTITY searchContacts.accesskey           "z">
-<!ENTITY SearchNameOrEmail.label            "Naam of e-mail">
+<!ENTITY SearchNameOrEmail.label            "Naam of e-mailadres">
 
 <!ENTITY addtoToFieldMenu.label             "Toevoegen aan Aan-veld">
 <!ENTITY addtoToFieldMenu.accesskey         "T">

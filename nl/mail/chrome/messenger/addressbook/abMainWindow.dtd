@@ -178,7 +178,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY dirTreeHeader.label                            "Adresboeken">
 
 <!-- Search Bar -->
-<!ENTITY SearchNameOrEmail.label                        "Naam of e-mail">
+<!ENTITY SearchNameOrEmail.label                        "Naam of e-mailadres">
 <!ENTITY SearchNameOrEmail.accesskey                    "N">
 <!ENTITY advancedButton.tooltip                         "Uitgebreid adres zoeken">
 <!ENTITY quickSearchCmd.key                             "k">
@@ -189,7 +189,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY Addrbook.accesskey                             "s">
 <!ENTITY GeneratedName.label                            "Naam">
 <!ENTITY GeneratedName.accesskey                        "N">
-<!ENTITY PrimaryEmail.label                             "E-mail">
+<!ENTITY PrimaryEmail.label                             "E-mailadres">
 <!ENTITY PrimaryEmail.accesskey                         "E">
 <!ENTITY ChatName.label                                 "Chatnaam">
 <!ENTITY ChatName.accesskey                             "C">
@@ -197,7 +197,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY Company.accesskey                              "r">
 <!ENTITY NickName.label                                 "Bijnaam">
 <!ENTITY NickName.accesskey                             "B">
-<!ENTITY SecondEmail.label                              "Alternatieve e-mail">
+<!ENTITY SecondEmail.label                              "Extra e-mailadres">
 <!ENTITY SecondEmail.accesskey                          "l">
 <!ENTITY Department.label                               "Afdeling">
 <!ENTITY Department.accesskey                           "d">

@@ -22,7 +22,7 @@
 <!ENTITY lookIn.accesskey                    "Z">
 <!ENTITY for.label                           "naar:">
 <!ENTITY for.accesskey                       "r">
-<!ENTITY for.placeholder                     "Naam of e-mail">
+<!ENTITY for.placeholder                     "Naam of e-mailadres">
 <!ENTITY addressMessageTo.label              "Bericht adresseren aan:">
 
 <!-- Tooltips items -->  

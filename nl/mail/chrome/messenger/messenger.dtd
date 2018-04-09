@@ -689,7 +689,7 @@
 <!ENTITY folderContextSettings2.accesskey "I">
 
 <!-- Search Bar -->
-<!ENTITY SearchNameOrEmail.label "Naam of e-mail bevat:">
+<!ENTITY SearchNameOrEmail.label "Naam of e-mailadres bevat:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
 
 <!-- Gloda Search Bar -->
