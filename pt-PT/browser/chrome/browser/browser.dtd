@@ -61,6 +61,8 @@ can reach it easily. -->
 <!ENTITY  closeTab.label                     "Fechar separador">
 <!ENTITY  closeTab.accesskey                 "c">
 
+<!ENTITY  hiddenTabs.label                   "Separadores ocultados">
+
 <!ENTITY  listAllTabs.label      "Listar todos os separadores">
 
 <!ENTITY tabCmd.label "Novo separador">
@@ -222,6 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Armazenar dados em armazenamento persistente">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "O navegador está sob controlo remoto">
 
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Gerir a partilha da sua câmara e/ou microfone com o site">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Gerir a partilha do seu microfone com o site">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Gerir a partilha das suas janelas ou ecrã com o site">
@@ -268,7 +271,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addBookmarksMenu.label             "Adicionar menu de marcadores à barra de ferramentas">
 <!ENTITY removeBookmarksMenu.label          "Remover menu de marcadores da barra de ferramentas">
 
-<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 <!ENTITY bookmarksGtkCmd.commandkey "o">
@@ -385,7 +388,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Ative a sincronização de separadores para ver uma lista de separadores dos seus outros dispositivos.">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Pretende ver os seus separadores de outros dispositivos aqui?">
