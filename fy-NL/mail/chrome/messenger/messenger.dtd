@@ -346,10 +346,10 @@
 <!ENTITY cancelNewsMsgCmd.label "Berjocht annulearje">
 <!ENTITY cancelNewsMsgCmd.accesskey "n">
 <!ENTITY replyMsgCmd.label "Beäntwurdzje">
-<!ENTITY replyMsgCmd.accesskey "a">
+<!ENTITY replyMsgCmd.accesskey "w">
 <!ENTITY replyMsgCmd.key "r">
 <!ENTITY replySenderCmd.label "Ofstjoerder beäntwurdzje">
-<!ENTITY replySenderCmd.accesskey "a">
+<!ENTITY replySenderCmd.accesskey "f">
 <!ENTITY replyNewsgroupCmd2.label "Reagearje nei nijsgroep">
 <!ENTITY replyNewsgroupCmd2.accesskey "r">
 <!ENTITY replyToAllMsgCmd.label "Elk beäntwurdzje">
