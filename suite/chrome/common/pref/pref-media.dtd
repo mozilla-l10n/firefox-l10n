@@ -16,7 +16,7 @@
 
 <!ENTITY animLoopingTitle.label         "Проигрывать анимацию в изображениях">
 <!ENTITY animLoopAsSpecified.label      "Столько раз, сколько указано в изображении">
-<!ENTITY animLoopAsSpecified.accesskey  "о">
+<!ENTITY animLoopAsSpecified.accesskey  "л">
 <!ENTITY animLoopOnce.label             "Один раз">
 <!ENTITY animLoopOnce.accesskey         "и">
 <!ENTITY animLoopNever.label            "Никогда">
