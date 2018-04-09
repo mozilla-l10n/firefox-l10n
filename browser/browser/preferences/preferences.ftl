@@ -290,7 +290,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Neuvi Barcoin e fueggi
-home-new-windows-tabs-description = Çerni cösa ti veu vedde quande ti arvî a teu pagina prinçipâ, neuvi barcoin, e neuvi feuggi
+home-new-windows-tabs-description2 = Çerni cöse ti veu vedde quande ti arvi a pagina prinçipâ, neuvi barcoin e neuvi feuggi.
 
 ## Home Section - Home Page Customization
 
