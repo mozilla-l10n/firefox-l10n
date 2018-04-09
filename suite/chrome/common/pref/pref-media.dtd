@@ -5,7 +5,19 @@
 <!-- extracted from content/pref-media.xul -->
 
 <!-- LOCALIZATION NOTE : FILE Media management prefs -->
-<!ENTITY pref.media.title                  "Медиа">
-<!ENTITY mediaHTML5Preferences.label       "Аудио и видео">
-<!ENTITY allowMediaAutoplay.label          "Включить автовоспроизведение медиаконтента HTML5">
-<!ENTITY allowMediaAutoplay.accesskey      "к">
+<!ENTITY pref.media.title               "Медиа">
+<!ENTITY mediaHTML5Preferences.label    "Аудио и видео">
+<!ENTITY allowMediaAutoplay.label       "Включить автовоспроизведение медиаконтента HTML5">
+<!ENTITY allowMediaAutoplay.accesskey   "к">
+
+<!ENTITY enableDrmMedia.label           "Включить Управление цифровыми правами (DRM) для">
+<!ENTITY enableEmeForSuite.label        "Сторонних плагинов расшифровки контента">
+<!ENTITY enableEmeForSuite.accesskey    "о">
+
+<!ENTITY animLoopingTitle.label         "Проигрывать анимацию в изображениях">
+<!ENTITY animLoopAsSpecified.label      "Столько раз, сколько указано в изображении">
+<!ENTITY animLoopAsSpecified.accesskey  "о">
+<!ENTITY animLoopOnce.label             "Один раз">
+<!ENTITY animLoopOnce.accesskey         "и">
+<!ENTITY animLoopNever.label            "Никогда">
+<!ENTITY animLoopNever.accesskey        "к">
