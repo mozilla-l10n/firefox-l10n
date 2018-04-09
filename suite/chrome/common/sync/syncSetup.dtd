@@ -40,9 +40,11 @@
 
 <!-- New Account Page 2: Recovery Key -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; bryr seg om sikkerheita di">
+<!ENTITY setup.newRecoveryKeyPage.description.label "For å beskytte personvernet ditt, vil alle data krypterast før dei vert lasta opp. Oppattbyggingsnykelen som er nødvendig for å dekryptere dine data vil ikkje lastast opp.">
 <!ENTITY recoveryKeyEntry.label        "Oppattbyggingsnykelen din">
 <!ENTITY recoveryKeyEntry.accesskey    "O">
 <!ENTITY recoveryGenerateNewKey.label  "Generer ein ny nykel">
+<!ENTITY recoveryKeyBackup.description "Oppattbyggingsnykelen din er påkravd for å få tilgang til &syncBrand.fullName.label; på fleire maskiner. Lag ein sikkerheitskopi. Vi kan ikkje hjelpe deg med å finne tilbake ein gløymt oppattbyggingsnykel.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Skriv ut…">
 <!ENTITY button.syncKeyBackup.print.accesskey "S">
@@ -57,10 +59,12 @@
 <!ENTITY addDevice.showMeHow.label          "Vis meg korleis.">
 <!ENTITY addDevice.dontHaveDevice.label     "Eg har ikkje eininga med meg">
 <!ENTITY addDevice.dialog.tryAgain.label    "Prøv ein gong til.">
+<!ENTITY addDevice.dialog.recoveryKey.label "For å aktivere eininga må du skrive inn oppattbyggingsnykelen. Skriv gjerne ut eller lagre denne nykelen og ta han med deg.">
 <!ENTITY addDevice.dialog.connected.label   "Eining tilkopla">
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Logg inn">
+<!ENTITY existingRecoveryKey.description "Du kan skaffe ein kopi av oppattbyggingsnykelen din ved å gå til &syncBrand.shortName.label; Innstillingar på den andre eininga, og velje &#x0022;Min oppattbyggingsnykel&#x0022; under &#x0022;Handter konto&#x0022;.">
 <!ENTITY verifying.label              "Stadfestar…">
 <!ENTITY resetPassword.label          "Tilbakestill passord">
 <!ENTITY resetSyncKey.label           "Eg har mista den andre eininga mi.">
