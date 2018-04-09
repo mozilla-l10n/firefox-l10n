@@ -78,6 +78,9 @@
 <!ENTITY  securityView.privacy.cookies                  "Sto scito web o sarva informaçioin (cookie) in sciô mæ computer?">
 <!ENTITY  securityView.privacy.viewCookies              "Fanni vedde i cookie">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.siteData                 "Sto scito web o sarva informaçioin in sciô mæ computer?">
+<!ENTITY  securityView.privacy.clearSiteData            "Scancella Cookie e Dæti di Sciti">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "S">
 <!ENTITY  securityView.privacy.passwords                "Gh'ò de paròlle segrete sarvæ pe sto scito?">
 <!ENTITY  securityView.privacy.viewPasswords            "Fanni vedde e paròlle segrete sarvæ">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "v">
