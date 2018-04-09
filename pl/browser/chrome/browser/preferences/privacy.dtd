@@ -56,6 +56,8 @@
 <!ENTITY acceptCookies2.accesskey "A">
 <!ENTITY acceptCookies3.label "Akceptowanie ciasteczek i danych stron">
 <!ENTITY acceptCookies3.accesskey "">
+<!ENTITY acceptCookies4.label "Akceptowanie ciasteczek i danych stron (zalecane)">
+<!ENTITY acceptCookies4.accesskey "">
 <!ENTITY acceptThirdParty2.pre.label "Akceptowanie ciasteczek witryn zewnętrznych podmiotów:">
 <!ENTITY acceptThirdParty2.pre.accesskey "n">
 <!ENTITY blockCookies.label "Blokowanie ciasteczek i danych stron (może powodować problemy)">
@@ -75,6 +77,7 @@
 <!ENTITY showCookies.accesskey "c">
 
 <!ENTITY rememberDescription.label "&brandShortName; zachowa historię przeglądania, wyszukiwania, pobieranych plików i danych formularzy, zachowa także ciasteczka z odwiedzanych witryn.">
+<!ENTITY rememberDescription1.label "&brandShortName; zachowa historię przeglądania, wyszukiwania, pobieranych plików i danych formularzy.">
 <!ENTITY rememberActions.pre.label "">
 <!ENTITY rememberActions.clearHistory.label "Wyczyść ostatnią historię">
 <!ENTITY rememberActions.middle.label " lub ">
