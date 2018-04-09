@@ -60,9 +60,6 @@
 <!ENTITY  permissionsFor        "Keizinan untuk:">
 <!ENTITY  permPlugins           "Aktifkan Plugin">
 
-<!ENTITY  permClearStorage           "Buang Storan">
-<!ENTITY  permClearStorage.accesskey "S">
-
 <!ENTITY  securityTab           "Keselamatan">
 <!ENTITY  securityTab.accesskey "S">
 <!ENTITY  securityView.certView "Papar Sijil">
@@ -81,6 +78,9 @@
 <!ENTITY  securityView.privacy.cookies                  "Adakah laman web ini menyimpan maklumat (kuki) dalam komputer saya?">
 <!ENTITY  securityView.privacy.viewCookies              "Papar Kuki">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.siteData                 "Adakah laman web ini menyimpan maklumat dalam komputer saya?">
+<!ENTITY  securityView.privacy.clearSiteData            "Buang Kuki dan Data Laman">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "B">
 <!ENTITY  securityView.privacy.passwords                "Adakah saya pernah simpan kata laluan bagi laman web ini?">
 <!ENTITY  securityView.privacy.viewPasswords            "Papar Kata laluan yang Disimpan">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "p">
