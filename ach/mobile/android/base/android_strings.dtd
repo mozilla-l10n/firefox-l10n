@@ -15,7 +15,7 @@
 <!ENTITY firstrun_bookmarks_message "Ma imaro tutwal, anyim ki i dyere">
 <!ENTITY firstrun_bookmarks_subtext "Nong adwogi ki i alamabuk ki gin mukato mamegi ka i yenyo.">
 <!ENTITY firstrun_data_title "Data">
-<!ENTITY firstrun_data_message "data manok, dwoko wel madwong">
+<!ENTITY firstrun_data_message "Data manok, gwok mapol">
 <!ENTITY firstrun_data_subtext2 "Nek cal woko me tic ki data manok i kakube weng ma ilimo.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "Cak ki kama i giko iyie ni.">
@@ -163,14 +163,14 @@
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "Alamabuk">
 <!ENTITY overlay_share_bookmark_btn_label_already "Dong kiketo alamabuk">
-<!ENTITY overlay_share_send_other "Cwal bot nyonyo mukene">
+<!ENTITY overlay_share_send_other "Cwal ii nyonyo mukene">
 
 <!ENTITY overlay_share_open_browser_btn_label "Yab i &brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
-<!ENTITY overlay_share_send_tab_btn_label "Cwal bot nyonyo mukene">
+<!ENTITY overlay_share_send_tab_btn_label "Cwal ii nyonyo mukene">
 <!ENTITY overlay_share_no_url "Pe kinongo kakube i nwyak man">
 <!ENTITY overlay_share_select_device "Yer nyonyo">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
@@ -223,7 +223,7 @@
 <!ENTITY pref_category_home_homepage "Potbuk me acakki">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
-<!ENTITY home_homepage_every_new_tab "Bene tic pa dirica matidi manyen">
+<!ENTITY home_homepage_every_new_tab "Tii kwede bene pi dirica matino manyen">
 <!ENTITY home_homepage_title "Ter potbuk me acakki">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -251,7 +251,7 @@
 <!ENTITY pref_header_help "Kony">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 
-<!ENTITY pref_cookies_menu "Kakube me intanet">
+<!ENTITY pref_cookies_menu "Angija">
 <!ENTITY pref_cookies_accept_all "Kicako">
 <!ENTITY pref_cookies_not_accept_foreign "Kicako, pe kwako pati me adek">
 <!ENTITY pref_cookies_disabled "Kijuko woko">
@@ -364,7 +364,7 @@
 
 <!ENTITY pref_use_master_password "Tii ki i cwil me donyo ma dit">
 <!ENTITY pref_sync_default_title "Akaunt me Firefox">
-<!ENTITY pref_sync2 "Dony iye">
+<!ENTITY pref_sync2 "Dony iyie">
 <!ENTITY pref_sync_summary2 "Rib dirica matino ni, alamabuk, donyo iyie, gin mukato">
 <!ENTITY pref_search_suggestions "Nyut byek me yeny maplo">
 <!ENTITY pref_history_search_suggestions "Nyut jami mukato me yeny">
@@ -422,7 +422,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; Ripot me yot kom">
 <!ENTITY datareporting_fhr_summary2 "Nywako data ki &vendorShortName; ikom yotkom pa layeny mamegi kadong konyi me niang kit ma layeny mamegi tye katic kwede">
-<!ENTITY datareporting_abouthr_title "Nen ripot me yot kom mamega">
 <!ENTITY datareporting_telemetry_title "Pimo data">
 <!ENTITY datareporting_telemetry_summary "Nywako wot pa tic, ma kitiyo kwede, nyonyo kadong data me ter ikom layeny mamegi ki &vendorShortName; me konyo wa yubo &brandShortName; maber">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; cwalo ripot me poto me konyo &vendorShortName; yubo layeny mamegi bedo matek ki ber bedo makato">
@@ -449,17 +448,17 @@
 <!ENTITY downloads "Gam">
 <!ENTITY char_encoding "Kit ma Kicoyo Kwede">
 
-<!ENTITY share "Nywak">
-<!ENTITY share_title "Nywak kun beo">
+<!ENTITY share "Nywaki">
+<!ENTITY share_title "Nywak ki ii">
 <!ENTITY share_image_failed "Pe twero nywako pot buk man">
-<!ENTITY save_as_pdf "Gwok Calo PDF">
+<!ENTITY save_as_pdf "Gwok calo PDF">
 <!ENTITY print "Go">
 <!ENTITY view_page_source "Nen kama pot buk nonge iye">
 <!ENTITY find_in_page "Nong i potbuk">
 <!ENTITY desktop_mode "Kwa kakube me wang kompiuta">
 <!ENTITY page "Potbuk">
 <!ENTITY tools "Gitic">
-<!ENTITY new_tab "dirica matidi manyen">
+<!ENTITY new_tab "Dirica matidi manyen">
 <!ENTITY new_private_tab "Dirica matidi manyen me mung">
 <!ENTITY close_all_tabs "Lor dirica matino weng">
 <!ENTITY close_private_tabs "Lor dirica matino me mung">
@@ -488,14 +487,14 @@
 <!ENTITY contextmenu_remove "Kwany">
 <!ENTITY contextmenu_add_page_shortcut "Med yoo macek me potbuk">
 <!ENTITY contextmenu_set_as_homepage "Ter calo Potbuk me Acakki">
-<!ENTITY contextmenu_share "Nywak">
+<!ENTITY contextmenu_share "Nywaki">
 <!ENTITY contextmenu_pasteandgo "Mwon ka iciti">
 <!ENTITY contextmenu_paste "Mwon">
 <!ENTITY contextmenu_copyurl "Lok Address">
-<!ENTITY contextmenu_edit_bookmark "Yub">
+<!ENTITY contextmenu_edit_bookmark "Yubi">
 <!ENTITY contextmenu_subscribe "Cone i potbuk">
 <!ENTITY contextmenu_site_settings "Yub ter me kakube">
-<!ENTITY contextmenu_top_sites_edit "Yub">
+<!ENTITY contextmenu_top_sites_edit "Yubi">
 <!ENTITY contextmenu_top_sites_pin "Mwon kakube">
 <!ENTITY contextmenu_top_sites_unpin "Wa kakube">
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
@@ -564,11 +563,11 @@
 <!ENTITY masterpassword_password "Mung me donyo">
 <!ENTITY masterpassword_confirm "Mok i cwil me donyo">
 
-<!ENTITY button_ok "AYA">
+<!ENTITY button_ok "EYO">
 <!ENTITY button_cancel "Juki">
 <!ENTITY button_yes "Eyo">
-<!ENTITY button_no "Pe/Ku">
-<!ENTITY button_clear_data "Ywe tic">
+<!ENTITY button_no "Ku">
+<!ENTITY button_clear_data "Jwa data">
 <!ENTITY button_set "Ter">
 <!ENTITY button_clear "Jwa">
 <!ENTITY button_copy "Lok">

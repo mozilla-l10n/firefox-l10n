@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Bal tye i pango pot buk man">
 <!ENTITY retry.label "Tem Doki">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Pe romo kubo">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
@@ -70,7 +70,12 @@
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>Rot ter me proxy me neno ni gi tye kakare.</li> <li>Rot me neno ni nyonyo mamgei tye ki data matiyo onyo kube me Wi-Fi. <button id='wifi'>Cak Wi-Fi</button> </li> </ul>">
 
 <!ENTITY redirectLoop.title "Potbuk ne pe tye wire maber">
-<!ENTITY redirectLoop.longDesc "<ul> <li>Peko man kare mukene twero bino pi juko onyo kwero ye cookies.</li> </ul>">
+<!ENTITY redirectLoop.longDesc "
+<ul>
+  <li>Peko man kare mukene twero bino pi juko onyo kwero yee
+    angija.</li>
+</ul>
+">
 
 <!ENTITY unknownSocketType.title "Lagam mape okuro ki lapok tic">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Rot me inen ni kit tic mamegi tye ki Lalo gwoko kuc pa dano kiketo woko.</li> <li>Men twero bedo pi can mogo mape mwaonya ikom lapok tic.</li> </ul>">
@@ -80,9 +85,9 @@
 
 <!ENTITY nssBadCert.title "Gwoko Kubo Pe olare">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Man tyero bedo peko me can pa lapok tic, onyo romo bedo ni ngat mo tye ka tuku ki lapok tic.</li> <li>Kacce i kube ki lapok tic man maber i kare mukato angec, bal man twero bedo pi tutunu, ci i romo temo doki lacen</li> </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-
 <!ENTITY sharedLongDesc3 "<ul> <li>Twero bedo ni kakube ne pe tye pi tutunu onyo tye ki tic madwong. Tem doki i kare manok.</li> <li>Ka pe itwero cano pot buk mo keken, rot data onyo kube me Wi-Fi me nyonyo mamegi. <button id='wifi'>Cak Wi-Fi</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "Kigengo ne ki Cik me Gwoko kuc pa jami matye iye">
@@ -94,11 +99,11 @@
 <!ENTITY securityOverride.linkText "Onyo itwero medo ma nikwanyo…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Kwanya woko ki kany!">
 <!ENTITY securityOverride.exceptionButtonLabel "Med ma Nikwanyo…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>Pe myero imede ki yee ka itye katic ki kube me intanet mape i geno kadi acel onyo ka pwod pe i maro neno cik pi lapok tic man.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
