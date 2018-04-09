@@ -78,6 +78,9 @@
 <!ENTITY  securityView.privacy.cookies                  "Чи зберігає цей сайт інформацію (куки) на моєму комп’ютері?">
 <!ENTITY  securityView.privacy.viewCookies              "Переглянути куки">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "к">
+<!ENTITY  securityView.privacy.siteData                 "Чи зберігає цей веб-сайт інформацію на моєму комп’ютері?">
+<!ENTITY  securityView.privacy.clearSiteData            "Стерти куки і дані сайтів">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "т">
 <!ENTITY  securityView.privacy.passwords                "Чи зберігаю я паролі для цього сайту?">
 <!ENTITY  securityView.privacy.viewPasswords            "Переглянути збережені паролі">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "п">
