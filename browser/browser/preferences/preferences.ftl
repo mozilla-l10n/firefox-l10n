@@ -282,7 +282,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Netwurkproxy
-network-proxy-connection-learn-more = Lês mear
+network-proxy-connection-learn-more = Mear ynfo
 network-proxy-connection-settings =
     .label = Ynstellingen…
     .accesskey = Y
@@ -423,7 +423,7 @@ sync-engine-history =
     .label = Skiednis
     .accesskey = n
 sync-engine-tabs =
-    .label = Iepen ljeplêden
+    .label = Iepen ljepblêden
     .tooltiptext = In list fan wat op alle syngronisearre apparaten iepene is
     .accesskey = b
 sync-engine-logins =
@@ -485,7 +485,7 @@ forms-master-pw-use =
     .label = In haadwachtwurd brûke
     .accesskey = I
 forms-master-pw-change =
-    .label = Haadwachtwurd wizigje…
+    .label = Haadwachtwurd wizigje
     .accesskey = a
 
 ## Privacy Section - History
@@ -641,7 +641,7 @@ collection-health-report-disabled = Gegevensrapporten binne foar dizze build-kon
 collection-browser-errors =
     .label = { -brand-short-name } tastean om flaterrapporten (ynklusyf flaterberjochten) nei { -vendor-short-name } te ferstjoeren
     .accesskey = f
-collection-browser-errors-link = Lês mear
+collection-browser-errors-link = Mear ynfo
 collection-backlogged-crash-reports =
     .label = { -brand-short-name } tastean om út jo namme jo efterstallige ûngelokrapporten te ferstjoeren
     .accesskey = r

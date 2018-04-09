@@ -136,7 +136,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "Jo account ferifiearje">
 
 
-<!ENTITY fullScreenMinimize.tooltip "Minimalisearje ">
+<!ENTITY fullScreenMinimize.tooltip "Minimalisearje">
 <!ENTITY fullScreenRestore.tooltip "Werom bringe">
 <!ENTITY fullScreenClose.tooltip "Slute">
 <!ENTITY fullScreenAutohide.label "Arkbalken ferstopje ">
@@ -203,7 +203,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.label              "Opnij lade">
 <!ENTITY reloadCmd.accesskey          "n">
 <!ENTITY stopCmd.label                "Beëinigje">
-<!ENTITY stopCmd.accesskey            "S">
+<!ENTITY stopCmd.accesskey            "B">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "It adres yn de lokaasjebalke iepenje">
 <!ENTITY printButton.label            "Ofdrukke">

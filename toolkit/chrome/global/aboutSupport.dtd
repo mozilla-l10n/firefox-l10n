@@ -114,7 +114,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Yntegriteit ferifearje">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
-<!ENTITY aboutSupport.jsIncrementalGC "Ynkrementele GC">
+<!ENTITY aboutSupport.jsIncrementalGC "Ynkremintele GC">
 
 <!ENTITY aboutSupport.a11yTitle "Tagonklikheid">
 <!ENTITY aboutSupport.a11yActivated "Aktivearre">

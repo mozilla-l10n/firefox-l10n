@@ -4,20 +4,20 @@
 
 <!ENTITY errorConsole.title "Flaterkonsôle">
 
-<!ENTITY errFile.label "Boarnebestân">
-<!ENTITY errLine.label "Rige:">
+<!ENTITY errFile.label   "Boarnebestân">
+<!ENTITY errLine.label   "Rige:">
 <!ENTITY errColumn.label "Kolom:">
 
-<!ENTITY all.label "Alles">
-<!ENTITY all.accesskey "A">
-<!ENTITY errors.label "Flaters">
-<!ENTITY errors.accesskey "F">
-<!ENTITY warnings.label "Warskôgingen">
+<!ENTITY all.label          "Alle">
+<!ENTITY all.accesskey      "A">
+<!ENTITY errors.label       "Flaters">
+<!ENTITY errors.accesskey   "F">
+<!ENTITY warnings.label     "Warskôgingen">
 <!ENTITY warnings.accesskey "W">
-<!ENTITY messages.label "Berjochten">
+<!ENTITY messages.label     "Berjochten">
 <!ENTITY messages.accesskey "B">
-<!ENTITY clear.label "Wiskje">
-<!ENTITY clear.accesskey "k">
+<!ENTITY clear.label        "Wiskje">
+<!ENTITY clear.accesskey    "k">
 <!ENTITY codeEval.label     "Koade:">
 <!ENTITY codeEval.accesskey "o">
 <!ENTITY evaluate.label     "Evaluearje">
@@ -25,13 +25,13 @@
 <!ENTITY filter2.label      "Filter:">
 <!ENTITY filter2.accesskey  "F">
 
-<!ENTITY copyCmd.label "Kopiearje">
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY copyCmd.commandkey "C">
-<!ENTITY sortFirst.label "Earste > Lêste sortearfolchoarder">
+<!ENTITY copyCmd.label       "Kopiearje">  
+<!ENTITY copyCmd.accesskey   "K"> 
+<!ENTITY copyCmd.commandkey  "C"> 
+<!ENTITY sortFirst.label     "Earste > Lêste sortearfolchoarder">
 <!ENTITY sortFirst.accesskey "E">
-<!ENTITY sortLast.label "Lêste > Earste sortearfolchoarder">
-<!ENTITY sortLast.accesskey "L">
-<!ENTITY closeCmd.commandkey "w">
-<!ENTITY focus1.commandkey "l">
-<!ENTITY focus2.commandkey "d">
+<!ENTITY sortLast.label      "Lêste > Earste sortearfolchoarder">
+<!ENTITY sortLast.accesskey  "L">
+<!ENTITY closeCmd.commandkey "w">  
+<!ENTITY focus1.commandkey   "l">  
+<!ENTITY focus2.commandkey   "d">  

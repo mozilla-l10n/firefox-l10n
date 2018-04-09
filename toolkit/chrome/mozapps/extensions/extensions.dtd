@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "Add-onbehearder">
 
-<!ENTITY search.placeholder                   "Alle add-ons trochsykje">
-
 <!ENTITY search.placeholder2                  "Sykje op addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Sykje">
 <!-- LOCALIZATION NOTE (search.commandKey):
@@ -16,7 +14,6 @@
 <!ENTITY listEmpty.availableUpdates.label     "Gjin fernijingen fûn">
 <!ENTITY listEmpty.recentUpdates.label        "Jo hawwe koartlyn gjin add-ons fernijd">
 <!ENTITY listEmpty.findUpdates.label          "Kontrolearje op fernijingen">
-<!ENTITY listEmpty.search.label               "Gjin oerienkommende add-ons fûn">
 <!ENTITY listEmpty.button.label               "Mear ynfo oer add-ons">
 <!ENTITY installAddonFromFile.label           "Ynstallearje add-on út bestân…">
 <!ENTITY installAddonFromFile.accesskey       "Y">
@@ -24,9 +21,6 @@
 
 <!ENTITY getThemes.description                "Wolle jo jo browser personalisearje?">
 <!ENTITY getThemes.learnMore                  "Kies út tûzenen add-ons.">
-
-<!ENTITY cmd.back.tooltip                     "In side tebek gean">
-<!ENTITY cmd.forward.tooltip                  "In side foarút gean">
 
 
 <!ENTITY showUnsignedExtensions.button.label  "Guon útwreidingen koene net ferifiearre wurde">
@@ -44,7 +38,6 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "Skeakelje feilichheidskontrole foar add-onsfernijingen yn">
 
 <!-- categories / views -->
-<!ENTITY view.search.label                    "Trochsykje">
 <!ENTITY view.discover.label                  "Add-ons krije">
 <!ENTITY view.recentUpdates.label             "Resinte fernijingen">
 <!ENTITY view.availableUpdates.label          "Beskikbere fernijingen">
@@ -175,18 +168,8 @@
 <!-- list sorting -->
 <!ENTITY sort.name.label                      "Namme">
 <!ENTITY sort.name.tooltip                    "Sortearje op namme">
-<!ENTITY sort.dateUpdated.label               "Lêste fernijing">
+<!ENTITY sort.dateUpdated.label               "Lêst bywurke">
 <!ENTITY sort.dateUpdated.tooltip             "Sortearje op fernijingsdatum">
-<!ENTITY sort.relevance.label                 "Bêst oerienkommend">
-<!ENTITY sort.relevance.tooltip               "Sortearje op relevânsje">
-<!ENTITY sort.price.label                     "Priis">
-<!ENTITY sort.price.tooltip                   "Sortearje op priis">
-
-<!ENTITY search.filter2.label                 "Sykje:">
-<!ENTITY search.filter2.installed.label       "Myn add-ons">
-<!ENTITY search.filter2.installed.tooltip     "Ynstallearre add-ons toane">
-<!ENTITY search.filter2.available.label       "Beskikbere add-ons">
-<!ENTITY search.filter2.available.tooltip     "Add-ons toane dy't beskikber binne om te ynstallearjen">
 
 <!ENTITY addon.homepage                       "Thússide">
 <!ENTITY addon.details.label                  "Mear">
@@ -218,7 +201,7 @@
 <!ENTITY addon.updateAvailable.label          "Der is in fernijing beskikber">
 <!ENTITY addon.checkingForUpdates.label       "Kontrolearret op fernijingen…">
 <!ENTITY addon.releaseNotes.label             "Utjefte-opmerkinge:">
-<!ENTITY addon.loadingReleaseNotes.label      "Laden…">
+<!ENTITY addon.loadingReleaseNotes.label      "Lade…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Sorry, mar der wie in flater mei it laden fan de útjefte-opmerkingen.">
 
 <!ENTITY addon.createdBy.label                "Troch ">

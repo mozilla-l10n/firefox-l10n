@@ -5,7 +5,7 @@
 <!-- Values for changepassword.xul -->
 <!ENTITY setPassword.title  "Haadwachtwurd wizigje">
 <!ENTITY setPassword.tokenName.label "Befeiligingsapparaat">
-<!ENTITY setPassword.oldPassword.label "Aktuele wachtwurd:">
+<!ENTITY setPassword.oldPassword.label "Aktueel wachtwurd:">
 <!ENTITY setPassword.newPassword.label "Nij wachtwurd:">
 <!ENTITY setPassword.reenterPassword.label "Nij wachtwurd (opnij):">
 <!ENTITY setPassword.meter.label "Wachtwurdkwaliteitsmeter">
@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "Jo wurdt frege in nije sertifikaatautoriteit (CA) te fertrouwen.">
 <!ENTITY downloadCert.trustSSL "Fertrou dizze CA foar it identifisearjen fan websites.">
 <!ENTITY downloadCert.trustEmail "Fertrouw dizze CA foar it identifisearjen fan e-mailbrûkers.">
-<!ENTITY downloadCert.trustObjSign "Fertrouw dizze CA foar it identifisearjen fan ûntwikkelers fan programmatuer.">
 <!ENTITY downloadCert.message3 "Foardat jo dizze CA fertrouwe foar watfoar gebrûk dan ek, moatte jo har sertifikaat bestudearje, lyk as har belied en prosedueres (as se beskikber binne).">
 <!ENTITY downloadCert.viewCert.label "Werjaan">
 <!ENTITY downloadCert.viewCert.text "CA-sertifikaat bestudearje">
