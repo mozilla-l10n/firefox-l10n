@@ -294,7 +294,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Nowe wokna a rejtarki
-home-new-windows-tabs-description = Wubjeŕśo, což wiźiśo, gaž swój startowy bok wócynjaśo, nowe wokna a nowe rejtarki
+home-new-windows-tabs-description2 = Wubjeŕśo, což cośo wiźeś, gaž swój startowy bok, nowe wokna a nowe rejtarki wócynjaśo.
 
 ## Home Section - Home Page Customization
 
