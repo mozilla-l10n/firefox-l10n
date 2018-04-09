@@ -60,9 +60,6 @@
 <!ENTITY  permissionsFor        "Oprávnění pro server:">
 <!ENTITY  permPlugins           "Spouštět zásuvné moduly">
 
-<!ENTITY  permClearStorage           "Vymazat úložiště">
-<!ENTITY  permClearStorage.accesskey "m">
-
 <!ENTITY  securityTab           "Zabezpečení">
 <!ENTITY  securityTab.accesskey "b">
 <!ENTITY  securityView.certView "Zobrazit certifikát">
@@ -81,6 +78,9 @@
 <!ENTITY  securityView.privacy.cookies                  "Má tento server na mém počítači uloženy nějaké cookies?">
 <!ENTITY  securityView.privacy.viewCookies              "Zobrazit cookies">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "Z">
+<!ENTITY  securityView.privacy.siteData                 "Má tento server na mém počítači uložena nějaká data?">
+<!ENTITY  securityView.privacy.clearSiteData            "Vymazat cookies a uložená data">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "c">
 <!ENTITY  securityView.privacy.passwords                "Mám pro tento server uložená hesla?">
 <!ENTITY  securityView.privacy.viewPasswords            "Zobrazit uložená hesla">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "h">
