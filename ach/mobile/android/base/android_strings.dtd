@@ -366,7 +366,7 @@
 <!ENTITY pref_sync_default_title "Akaunt me Firefox">
 <!ENTITY pref_sync2 "Dony iyie">
 <!ENTITY pref_sync_summary2 "Rib dirica matino ni, alamabuk, donyo iyie, gin mukato">
-<!ENTITY pref_search_suggestions "Nyut byek me yeny maplo">
+<!ENTITY pref_search_suggestions "Nyut tam amia me yeny">
 <!ENTITY pref_history_search_suggestions "Nyut jami mukato me yeny">
 <!ENTITY pref_import_options "Ter me kel ki woko">
 <!ENTITY pref_import_android_summary "Kel alamabuk ki gin mukato ki i layeny ma gang">
@@ -376,7 +376,7 @@
 <!ENTITY pref_private_data_history2 "Gin mukato me yeny">
 <!ENTITY pref_private_data_searchHistory "Gin mukato me yeny">
 <!ENTITY pref_private_data_formdata2 "Gin mukato me pwom">
-<!ENTITY pref_private_data_cookies2 "Angija ki donyo iyie ma tiyo">
+<!ENTITY pref_private_data_cookies2 "Angija ki donyo iyie ma tye katic">
 <!ENTITY pref_private_data_passwords2 "Donyo iyie ma kigwoko">
 <!ENTITY pref_private_data_cache "Kagwoko">
 <!ENTITY pref_private_data_offlineApps "Coc kakube me web ma pe iwi yamo">
@@ -386,7 +386,7 @@
 
 <!ENTITY pref_default_browser "Ket calo layeny makwongo">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Lim Mozilla Support">
-<!ENTITY pref_about_firefox "Makwako &brandShortName;">
+<!ENTITY pref_about_firefox "Ikom &brandShorterName;">
 <!ENTITY pref_vendor_faqs "Lapeny ma pol kare">
 <!ENTITY pref_vendor_feedback "Mi lagam">
 
@@ -713,7 +713,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      remotely advertised updates in the Nightly and Aurora channels. -->
 <!ENTITY updater_permission_text "Me gamo pwail li ngec manyen, ye &brandShortName; twero me nongo kakan.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!ENTITY updater_permission_allow "Ye">
+<!ENTITY updater_permission_allow "Yee">
 
     <!-- Guest mode -->
 <!ENTITY new_guest_session "Kare pa welo manyen">
