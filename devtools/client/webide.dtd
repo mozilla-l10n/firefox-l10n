@@ -130,7 +130,7 @@
 <!ENTITY device_typeboolean "Boolean">
 <!ENTITY device_typenumber "Integer">
 <!ENTITY device_typestring "String">
-<!ENTITY device_typeobject "Object">
+<!ENTITY device_typeobject "Objekt">
 <!ENTITY device_typenone "Selektearje in type">
 
 <!-- Device Preferences -->

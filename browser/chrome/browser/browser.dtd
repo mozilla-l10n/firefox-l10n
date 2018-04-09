@@ -519,7 +519,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.label     "Ynstelle as standertsykmasine">
 <!ENTITY searchSetAsDefault.accesskey "s">
 
-<!ENTITY openLinkCmdInTab.label       "Keppeling yn nij ljepblêd iepenje">
+<!ENTITY openLinkCmdInTab.label       "Keppeling iepenje yn nij ljepblêd">
 <!ENTITY openLinkCmdInTab.accesskey   "l">
 <!ENTITY openLinkCmd.label            "Keppeling yn nij finster iepenje">
 <!ENTITY openLinkCmd.accesskey        "f">

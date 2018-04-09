@@ -52,7 +52,7 @@
 <!ENTITY cmd.open_private_window.accesskey "p">
 <!ENTITY cmd.open_tab.label              "Iepenje yn in nij ljepblêd">
 <!ENTITY cmd.open_tab.accesskey          "l">
-<!ENTITY cmd.open_all_in_tabs.label      "Iepenje alles yn ljepblêden">
+<!ENTITY cmd.open_all_in_tabs.label      "Alle iepenje yn ljepblêden">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "a">
 
 <!ENTITY cmd.properties.label      "Eigenskippen">
