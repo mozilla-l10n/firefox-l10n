@@ -238,7 +238,7 @@ update-enable-search-update =
 
 performance-title = Wydajność
 performance-use-recommended-settings-checkbox =
-    .label = Rekomendowane ustawienia wydajności.
+    .label=Zalecane ustawienia wydajności.
     .accesskey = w
 performance-use-recommended-settings-desc = Ustawienia te są specjalnie dostosowane do specyfikacji tego komputera i systemu operacyjnego.
 performance-settings-learn-more = Więcej informacji

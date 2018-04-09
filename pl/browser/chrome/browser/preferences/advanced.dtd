@@ -103,7 +103,7 @@
 <!ENTITY viewSecurityDevices2.accesskey "U">
 
 <!ENTITY performance.label "Wydajność">
-<!ENTITY useRecommendedPerformanceSettings2.label "Rekomendowane ustawienia wydajności.">
+<!ENTITY useRecommendedPerformanceSettings2.label "Zalecane ustawienia wydajności.">
 <!ENTITY useRecommendedPerformanceSettings2.description "Ustawienia te są specjalnie dostosowane do specyfikacji tego komputera i systemu operacyjnego.">
 <!ENTITY useRecommendedPerformanceSettings2.accesskey "w">
 <!ENTITY performanceSettingsLearnMore.label "Więcej informacji">
