@@ -24,7 +24,7 @@
 <!ENTITY viewQuota.accesskey          "V">
 <!ENTITY changePassword.label         "Endre passord">
 <!ENTITY changePassword.accesskey     "n">
-<!ENTITY myRecoveryKey.label          "Oppattbyggjingsnykel">
+<!ENTITY myRecoveryKey.label          "Oppattbyggingsnykel">
 <!ENTITY myRecoveryKey.accesskey      "G">
 <!ENTITY resetSync.label              "Tilbakestill Sync">
 <!ENTITY resetSync.accesskey          "T">
