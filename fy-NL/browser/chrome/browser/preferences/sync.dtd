@@ -6,7 +6,7 @@
 
 <!ENTITY engine.bookmarks.label     "Blêdwizers">
 <!ENTITY engine.bookmarks.accesskey "w">
-<!ENTITY engine.tabs.label2         "Iepen ljeplêden">
+<!ENTITY engine.tabs.label2         "Iepen ljepblêden">
 <!ENTITY engine.tabs.title          "In list fan wat op alle syngronisearre apparaten iepene is">
 <!ENTITY engine.tabs.accesskey      "b">
 <!ENTITY engine.history.label       "Skiednis">
@@ -74,9 +74,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY resendVerification.accesskey "f">
 <!ENTITY cancelSetup.label            "Konfiguraasje annulearje">
 <!ENTITY cancelSetup.accesskey        "a">
-
-<!ENTITY removeAccount.label          "Account fuortsmite">
-<!ENTITY removeAccount.accesskey      "A">
 
 <!ENTITY signedOut.caption            "Nim jo web mei jo mei">
 <!ENTITY signedOut.description        "Syngronisearje jo blêdwizers, skiednis, ljepblêden, wachtwurden, add-ons en foarkarren op al jo apparaten.">

@@ -42,7 +42,7 @@ available. -->
 
 <!ENTITY collectBrowserErrors.label          "&brandShortName; tastean om flaterrapporten (ynklusyf flaterberjochten) nei Mozilla te ferstjoeren">
 <!ENTITY collectBrowserErrors.accesskey      "f">
-<!ENTITY collectBrowserErrorsLearnMore.label "Lês mear">
+<!ENTITY collectBrowserErrorsLearnMore.label "Mear ynfo">
 
 <!ENTITY sendBackloggedCrashReports.label  "&brandShortName; tastean om út jo namme jo efterstallige ûngelokrapporten te ferstjoeren">
 <!ENTITY sendBackloggedCrashReports.accesskey "r">
