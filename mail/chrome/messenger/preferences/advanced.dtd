@@ -46,7 +46,7 @@
 <!ENTITY enableTelemetry.accesskey       "T">
 <!ENTITY telemetryLearnMore.label        "Mear ynfo">
 
-<!ENTITY crashReporterSection.label      "Ungeloreporter">
+<!ENTITY crashReporterSection.label      "Ungelokrapportearder">
 <!ENTITY crashReporterDesc.label         "&brandShortName; ferstjoert ûngelokrapporten om &vendorShortName; te helpen jo e-mailclient stabiler en feiliger te meitsjen">
 <!ENTITY enableCrashReporter.label       "Ungeloreporter ynskeakelje">
 <!ENTITY enableCrashReporter.accesskey   "U">
