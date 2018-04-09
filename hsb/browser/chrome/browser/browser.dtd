@@ -61,6 +61,8 @@ can reach it easily. -->
 <!ENTITY  closeTab.label                     "Rajtark začinić">
 <!ENTITY  closeTab.accesskey                 "z">
 
+<!ENTITY  hiddenTabs.label                   "Schowane rajtarki">
+
 <!ENTITY  listAllTabs.label      "Wšě rajtarki nalistować">
 
 <!ENTITY tabCmd.label "Nowy rajtark">
@@ -222,6 +224,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Daty w trajnym składowaku składować">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Wobhladowak so zdaloka wodźi">
 
+<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Wobłuk webawtentifikacije wočinić">
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Dźělenje wašeje kamery a /abo wašeho mikrofona ze sydłom rjadować">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Dźělenje wašeho mikrofona ze sydłom rjadować">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Dźělenje wašich woknow abo wašeje wobrazowki ze sydłom rjadować">
@@ -268,7 +272,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addBookmarksMenu.label             "Symbolowej lajsće meni zapołožkow přidać">
 <!ENTITY removeBookmarksMenu.label          "Meni zapołožkow ze symboloweje lajsty wotstronić">
 
-<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 <!ENTITY bookmarksGtkCmd.commandkey "o">
@@ -385,7 +389,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Synchronizowanje rajtarkow zapinać, zo by so lisćina rajtarkow z druhich gratow pokazała.">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Chceće tu swoje rajtarki z druhich gratow widźeć?">
