@@ -109,7 +109,7 @@
 <!ENTITY calendar.list.header.label                 "Aginda">
 
 <!ENTITY calendar.task.filter.title.label           "Toane">
-<!ENTITY calendar.task.filter.all.label             "Alles">
+<!ENTITY calendar.task.filter.all.label             "Alle">
 <!ENTITY calendar.task.filter.all.accesskey         "A">
 <!ENTITY calendar.task.filter.today.label           "Hjoed">
 <!ENTITY calendar.task.filter.today.accesskey       "H">
