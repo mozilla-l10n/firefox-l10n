@@ -36,9 +36,9 @@
 <!ENTITY NickName.label                 "Bijnaam:">
 <!ENTITY NickName.accesskey             "B">
 
-<!ENTITY PrimaryEmail.label             "E-mail:">
+<!ENTITY PrimaryEmail.label             "E-mailadres:">
 <!ENTITY PrimaryEmail.accesskey         "E">
-<!ENTITY SecondEmail.label              "Alternatieve e-mail:">
+<!ENTITY SecondEmail.label              "Extra e-mailadres:">
 <!ENTITY SecondEmail.accesskey          "l">
 <!ENTITY PreferMailFormat.label         "Verkiest berichten te ontvangen opgesteld als:">
 <!ENTITY PreferMailFormat.accesskey     "k">

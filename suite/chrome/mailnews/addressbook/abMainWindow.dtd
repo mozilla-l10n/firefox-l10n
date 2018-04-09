@@ -81,7 +81,7 @@
 <!ENTITY deleteItemButton.accesskey                     "V">
 <!ENTITY newimButton.label                              "Instant-bericht">
 <!ENTITY newimButton.accesskey                          "I">
-<!ENTITY searchNameAndEmail.placeholder                 "Naam en e-mail doorzoeken">
+<!ENTITY searchNameAndEmail.placeholder                 "Naam en e-mailadres doorzoeken">
 <!ENTITY searchBox.title                                "Zoeken">
 
 <!-- Tooltips -->
