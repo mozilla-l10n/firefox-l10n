@@ -44,6 +44,8 @@
 <!ENTITY  acceptThirdParty2.pre.label     "Pījemt trešū pušu seikdatnes">
 <!ENTITY  acceptThirdParty2.pre.accesskey "P">
 
+<!ENTITY  acceptCookies4.label          "Pījimt seikdatnes un kešatmiņu nu lopom (īsikams)">
+<!ENTITY  acceptCookies4.accesskey      "A">
 
 <!ENTITY  blockCookies.label            "Aizlīgt cookies un lopys datus (var samaitōt lopys īcarātū darbeibu)">
 <!ENTITY  blockCookies.accesskey        "i">
