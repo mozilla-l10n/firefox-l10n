@@ -61,6 +61,8 @@ can reach it easily. -->
 <!ENTITY  closeTab.label                     "Aizvērt cilni">
 <!ENTITY  closeTab.accesskey                 "c">
 
+<!ENTITY  hiddenTabs.label                   "Slēptās cilnes">
+
 <!ENTITY  listAllTabs.label      "Visu ciļņu saraksts">
 
 <!ENTITY tabCmd.label "Jauna cilne">
@@ -222,6 +224,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Glabāt datus pastāvīgajā krātuvē">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Pārlūks tiek attālināti kontrolēts">
 
+<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Atver autentifikācijas paneli">
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Pārvaldiet kameras un/vai mikrofona koplietošanu ar šo lapu">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Pārvaldiet mikrofona koplietošanu ar šo lapu">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Pārvaldiet loga vai visa ekrāna koplietošanu ar šo lapu">
@@ -268,7 +272,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addBookmarksMenu.label             "Pievienot grāmatzīmju izvēlni rīkjoslai">
 <!ENTITY removeBookmarksMenu.label          "Aizvākt grāmatzīmju izvēlni no rīkjoslas">
 
-<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 <!ENTITY bookmarksGtkCmd.commandkey "o">
@@ -385,7 +389,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Ieslēdziet cilņu sinhronizāciju, lai redzētu cilnes no citām ierīcēm.">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Gribat redzēt cilnes no citām savām ierīcēm?">
