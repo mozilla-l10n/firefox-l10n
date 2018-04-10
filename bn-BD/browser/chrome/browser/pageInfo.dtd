@@ -60,9 +60,6 @@
 <!ENTITY  permissionsFor        "অনুমোদন:">
 <!ENTITY  permPlugins           "প্লাগইন সক্রিয় করুন">
 
-<!ENTITY  permClearStorage           "স্টোরেজ পরিষ্কার">
-<!ENTITY  permClearStorage.accesskey "C">
-
 <!ENTITY  securityTab           "নিরাপত্তা">
 <!ENTITY  securityTab.accesskey "S">
 <!ENTITY  securityView.certView "সার্টিফিকেট প্রদর্শন">
@@ -81,6 +78,8 @@
 <!ENTITY  securityView.privacy.cookies                  "এই ওয়েবসাইট কি আমার কম্পিউটারে তথ্য (কুকি) সংরক্ষণ করছে?">
 <!ENTITY  securityView.privacy.viewCookies              "কুকি পরিদর্শন">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.clearSiteData            "কুকি এবং সাইট ডাটা পরিষ্কার">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "C">
 <!ENTITY  securityView.privacy.passwords                "এই ওয়েবসাইটের জন্য কি আমি কোনো পাসওয়ার্ড সংরক্ষণ করেছি?">
 <!ENTITY  securityView.privacy.viewPasswords            "সংরক্ষিত পাসওয়ার্ড পরিদর্শন">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
