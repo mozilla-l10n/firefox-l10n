@@ -78,6 +78,7 @@
 <!ENTITY  securityView.privacy.cookies                  "ఈ వెబ్‌సైటు నా కంప్యూటర్లో సమాచారాన్ని (కుకీలను) నిల్వచేస్తోందా?">
 <!ENTITY  securityView.privacy.viewCookies              "కుకీలను చూడండి">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "C">
 <!ENTITY  securityView.privacy.passwords                "ఈ సైటు కోసం నేను ఏమైనా సంకేతపదాలను భద్రపరిచానా?">
 <!ENTITY  securityView.privacy.viewPasswords            "భద్రపరచిన సంకేతపదాలను చూడండి">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
