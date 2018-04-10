@@ -290,7 +290,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Yeni pencere ve sekmeler
-home-new-windows-tabs-description = Giriş sayfanızı veya yeni pencere ve yeni sekme açtığınızda görmek istediklerinizi seçin.
+home-new-windows-tabs-description2 = Giriş sayfanızı, yeni pencereleri ve yeni sekmeleri açtığınızda ne görmek istediğinizi seçin.
 
 ## Home Section - Home Page Customization
 
