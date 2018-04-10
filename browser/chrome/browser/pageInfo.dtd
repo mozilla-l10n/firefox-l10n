@@ -78,6 +78,8 @@
 <!ENTITY  securityView.privacy.cookies                  "此網站有在我的電腦中儲存資訊 (Cookie) 嗎？">
 <!ENTITY  securityView.privacy.viewCookies              "檢視 Cookie">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.siteData                 "此網站有在我的電腦中儲存資訊嗎？">
+<!ENTITY  securityView.privacy.clearSiteData            "清除 Cookie 與網站資料">
 <!ENTITY  securityView.privacy.clearSiteData.accessKey  "C">
 <!ENTITY  securityView.privacy.passwords                "我有在此網站儲存任何密碼嗎？">
 <!ENTITY  securityView.privacy.viewPasswords            "檢視已存密碼">
