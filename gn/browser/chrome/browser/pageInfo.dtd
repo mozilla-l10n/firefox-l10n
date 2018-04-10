@@ -78,6 +78,8 @@
 <!ENTITY  securityView.privacy.cookies                  "Ko tendápa oñongatuhína (kookie) ko mohendahápe">
 <!ENTITY  securityView.privacy.viewCookies              "Kookie jehecha">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.siteData                 "¿Ko ñanduti renda ombyaty marandu che mohendahápe?">
+<!ENTITY  securityView.privacy.clearSiteData            "Emboguete umi kookie ha mba’ekuaarã tenda pegua">
 <!ENTITY  securityView.privacy.clearSiteData.accessKey  "C">
 <!ENTITY  securityView.privacy.passwords                "Oñeñongatúpa ñe'ẽñemi ko ñanduti rendápe">
 <!ENTITY  securityView.privacy.viewPasswords            "Terañemi ñongatuguáva jehecha">
