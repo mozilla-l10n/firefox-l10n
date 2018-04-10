@@ -282,7 +282,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = 新視窗與分頁
-home-new-windows-tabs-description = 選擇開啟首頁、新視窗、新分頁時會看到什麼東西
+home-new-windows-tabs-description2 = 選擇開啟首頁、新視窗和新分頁時要看到的內容。
 
 ## Home Section - Home Page Customization
 
