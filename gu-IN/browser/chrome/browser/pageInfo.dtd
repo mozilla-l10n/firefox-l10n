@@ -60,9 +60,6 @@
 <!ENTITY  permissionsFor        "માટેની પરવાનગીઓ:">
 <!ENTITY  permPlugins           "પ્લગઇનને સક્રિય કરો">
 
-<!ENTITY  permClearStorage           "સંગ્રહ સાફ કરો">
-<!ENTITY  permClearStorage.accesskey "C">
-
 <!ENTITY  securityTab           "સુરક્ષા">
 <!ENTITY  securityTab.accesskey "S">
 <!ENTITY  securityView.certView "પ્રમાણપત્ર જુઓ">
@@ -81,6 +78,9 @@
 <!ENTITY  securityView.privacy.cookies                  "શું આ વેબ સાઈટ મારા કમ્પ્યૂટર પર જાણકારી (કુકીઓ) સંગ્રહી રહી છે?">
 <!ENTITY  securityView.privacy.viewCookies              "કુકીઓ જુઓ">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.siteData                 "શું આ વેબસાઇટ મારા કમ્પ્યુટર પર માહિતી સ્ટોર કરે છે?">
+<!ENTITY  securityView.privacy.clearSiteData            "કુકીઝ અને સાઇટ ડેટા સાફ કરો">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "C">
 <!ENTITY  securityView.privacy.passwords                "શું મેં આ વેબસાઈટ માટે કોઈપણ પાસવર્ડો સંગ્રહ્યા છે?">
 <!ENTITY  securityView.privacy.viewPasswords            "સંગ્રહાયેલ પાસવર્ડો જુઓ">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
