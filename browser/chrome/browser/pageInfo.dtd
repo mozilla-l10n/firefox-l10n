@@ -80,6 +80,7 @@
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
 <!ENTITY  securityView.privacy.siteData                 "¿Este sitio web almacena información en mi ordenador?">
 <!ENTITY  securityView.privacy.clearSiteData            "Limpiar cookies y datos del sitio">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "C">
 <!ENTITY  securityView.privacy.passwords                "¿Se han guardado contraseñas de este sitio web?">
 <!ENTITY  securityView.privacy.viewPasswords            "Ver contraseñas guardadas">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "v">
