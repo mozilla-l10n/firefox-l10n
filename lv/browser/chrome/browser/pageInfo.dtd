@@ -60,9 +60,6 @@
 <!ENTITY  permissionsFor        "Atļaujas lapai:">
 <!ENTITY  permPlugins           "Aktivizēt spraudņus">
 
-<!ENTITY  permClearStorage           "Iztīrīt glabātuvi">
-<!ENTITY  permClearStorage.accesskey "z">
-
 <!ENTITY  securityTab           "Drošība">
 <!ENTITY  securityTab.accesskey "S">
 <!ENTITY  securityView.certView "Skatīt sertifikātu">
@@ -81,6 +78,9 @@
 <!ENTITY  securityView.privacy.cookies                  "Vai šī vietne glabā kādu informāciju (sīkdatnes) manā datorā?">
 <!ENTITY  securityView.privacy.viewCookies              "Skatīt sīkdatnes">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.siteData                 "Vai šī vietne glabā kādu informāciju manā datorā?">
+<!ENTITY  securityView.privacy.clearSiteData            "Notīrīt sīkdatnes un lapu datus">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "N">
 <!ENTITY  securityView.privacy.passwords                "Vai man ir saglabātas paroles šai lapai?">
 <!ENTITY  securityView.privacy.viewPasswords            "Skatīt saglabātās paroles">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "p">
