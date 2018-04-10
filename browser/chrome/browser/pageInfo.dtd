@@ -78,6 +78,9 @@
 <!ENTITY  securityView.privacy.cookies                  "Да ли овај сајт чува колачиће на мом рачунару?">
 <!ENTITY  securityView.privacy.viewCookies              "Преглед колачића">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "П">
+<!ENTITY  securityView.privacy.siteData                 "Да ли овај веб сајт складишти информације на мој рачунар?">
+<!ENTITY  securityView.privacy.clearSiteData            "Обриши колачиће и податке сајта">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "О">
 <!ENTITY  securityView.privacy.passwords                "Да ли чувам неку лозинку за овај сајт?">
 <!ENTITY  securityView.privacy.viewPasswords            "Преглед сачуваних лозинки">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "л">
