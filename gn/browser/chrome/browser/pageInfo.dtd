@@ -60,9 +60,6 @@
 <!ENTITY  permissionsFor        "Emoneĩ hag̃ua:">
 <!ENTITY  permPlugins           "Mba'ejoajurã myendy">
 
-<!ENTITY  permClearStorage           "Mbyatypyre ñemopotĩ">
-<!ENTITY  permClearStorage.accesskey "C">
-
 <!ENTITY  securityTab           "Tekorosã">
 <!ENTITY  securityTab.accesskey "S">
 <!ENTITY  securityView.certView "Mboajepyre jehecha">
@@ -81,6 +78,7 @@
 <!ENTITY  securityView.privacy.cookies                  "Ko tendápa oñongatuhína (kookie) ko mohendahápe">
 <!ENTITY  securityView.privacy.viewCookies              "Kookie jehecha">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "C">
 <!ENTITY  securityView.privacy.passwords                "Oñeñongatúpa ñe'ẽñemi ko ñanduti rendápe">
 <!ENTITY  securityView.privacy.viewPasswords            "Terañemi ñongatuguáva jehecha">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
