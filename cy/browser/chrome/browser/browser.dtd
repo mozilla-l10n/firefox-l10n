@@ -61,6 +61,8 @@ can reach it easily. -->
 <!ENTITY  closeTab.label                     "Cau Tab">
 <!ENTITY  closeTab.accesskey                 "C">
 
+<!ENTITY  hiddenTabs.label                   "Tabiau Cudd">
+
 <!ENTITY  listAllTabs.label      "Rhestru pob tab">
 
 <!ENTITY tabCmd.label "Tab Newydd">
@@ -222,6 +224,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Cadw data mewn Storfa Barhaus">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Mae'r porwr o dan reolaeth bell">
 
+<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Agor panel Dilysu Gwe">
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Rheoli rhannu eich camera a/neu feicroffon gyda'r wefan">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Rheoli rhannu eich meicroffon gyda'r wefan">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Rheoli rhannu eich ffenestri neu sgrin gyda'r wefan">
@@ -268,7 +272,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addBookmarksMenu.label             "Ychwanegu Dewislen Nodau Tudalen i'r Bar Offer">
 <!ENTITY removeBookmarksMenu.label          "Tynnu Dewislen Nodau Tudalen o'r Bar Offer">
 
-<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 <!ENTITY bookmarksGtkCmd.commandkey "o">
@@ -385,7 +389,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Cychwynnwch gydweddu tabiau er mwyn gweld rhestr o dabiau o'ch dyfeisiau eraill.">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Hoffech chi weld eich tabiau o ddyfeisiau eraill yma?">

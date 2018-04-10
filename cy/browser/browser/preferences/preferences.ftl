@@ -298,6 +298,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Ffenestri a Thabiau Newydd
+home-new-windows-tabs-description2 = Dewis beth fyddwch yn ei weld wrth i chi agor eich tudalen cartref, ffenestr newydd a thabiau newydd.
 
 ## Home Section - Home Page Customization
 
