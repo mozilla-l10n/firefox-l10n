@@ -61,6 +61,8 @@ can reach it easily. -->
 <!ENTITY  closeTab.label                     "Tendayke mboty">
 <!ENTITY  closeTab.accesskey                 "C">
 
+<!ENTITY  hiddenTabs.label                   "Tendayke kañymby">
+
 <!ENTITY  listAllTabs.label      "Opaite tendayke jehechauka">
 
 <!ENTITY tabCmd.label "Tendayke pyahu">
@@ -222,6 +224,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Mba'ekuaarã ñembyaty, ñembyaty hi'arekuaávape">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Kundahára oĩ ñangarekoha okayguáva poguýpe">
 
+<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Eike pe ñanduti mboajeha rupápe">
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Eñangareko moherakuã nerovetã térã mba'erechaha ko tenda ndive">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Eipuruhína neñe'atãha ko tenda ndive">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Eñangareko moherakuã nerovetã térã mba'erechaha ko tenda ndive">
@@ -268,7 +272,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addBookmarksMenu.label             "Embojoapy Techaukaharysýi Tembipuru rendápe">
 <!ENTITY removeBookmarksMenu.label          "Eipe'a Techaukaharysýi Tembipuru rendágui">
 
-<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 <!ENTITY bookmarksGtkCmd.commandkey "o">
@@ -385,7 +389,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Emyendy tendayke mbojueheha ehecha hag̃ua peteĩ tendayke rysýi ambue ne mba'e'oka peguáva.">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Ehechasépa tendaykekuéra ambue mba'e'okaguáva ko'ápe?">

@@ -290,7 +290,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Ovetã ha tendayke pyahu   
-home-new-windows-tabs-description = Eiporavo ehecháva eikévo nde kuatiarogue ñepyrũháme ha ovetã ha tendayke pyahúpe
+home-new-windows-tabs-description2 = Eiporavo ehecháva eikévo ne kuatiarogue iporãvévape, ovetã ha tendayke pyahúpe.
 
 ## Home Section - Home Page Customization
 
@@ -299,6 +299,16 @@ home-newtabs-mode-label = tendayke pyahu
 home-restore-defaults =
     .label = mbopyahujey techa mboyvegua
     .accesskey = m
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Firefox ñepyrũ (Ypykuegua)
+home-mode-choice-custom =
+    .label = URLs ñemomba'e...
+home-mode-choice-blank =
+    .label = Kuatiarogue morotĩva
+home-homepage-custom-url =
+    .placeholder = Emboja URL...
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
