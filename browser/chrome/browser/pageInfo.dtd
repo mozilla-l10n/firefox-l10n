@@ -60,9 +60,6 @@
 <!ENTITY  permissionsFor        "权限，对于:">
 <!ENTITY  permPlugins           "激活插件">
 
-<!ENTITY  permClearStorage           "清除存储">
-<!ENTITY  permClearStorage.accesskey "C">
-
 <!ENTITY  securityTab           "安全">
 <!ENTITY  securityTab.accesskey "S">
 <!ENTITY  securityView.certView "查看证书">
@@ -81,6 +78,9 @@
 <!ENTITY  securityView.privacy.cookies                  "此网站在我的计算机上存储了 Cookie 信息吗？ ">
 <!ENTITY  securityView.privacy.viewCookies              "查看 Cookie">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.siteData                 "此网站在我的计算机上存储了信息吗？">
+<!ENTITY  securityView.privacy.clearSiteData            "清除 Cookie 和网站数据">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "C">
 <!ENTITY  securityView.privacy.passwords                "我保存过该网站的任何密码吗？ ">
 <!ENTITY  securityView.privacy.viewPasswords            "查看已保存的密码">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">

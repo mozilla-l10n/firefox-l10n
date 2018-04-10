@@ -290,7 +290,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = 新窗口和标签页
-home-new-windows-tabs-description = 选择打开主页、新窗口、新标签页时要显示的内容
+home-new-windows-tabs-description2 = 选择您打开主页、新窗口和新标签页时要看到的内容。
 
 ## Home Section - Home Page Customization
 
