@@ -39,6 +39,13 @@ available. -->
 
 <!ENTITY alwaysSubmitCrashReports1.label  "اجازه دادن به &brandShortName; برای ارسال گزارشات خرابی برای موزیلا">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+
+<!ENTITY collectBrowserErrors.label          "به &brandShortName; اجازه بده تا گزارش‌های خطای مرورگر را به موزیلا ارسال کند( شامل پیام های خطا)">
+<!ENTITY collectBrowserErrors.accesskey      "b">
+<!ENTITY collectBrowserErrorsLearnMore.label "بیشتر بدانید">
+
+<!ENTITY sendBackloggedCrashReports.label  "به &brandShortName; اجازه بده تا گزارش های پس زمینه خرابی را از طرف شما ارسال کند">
+<!ENTITY sendBackloggedCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "بیشتر بدانید">
 
 <!ENTITY networkTab.label                "شبکه">
@@ -51,14 +58,17 @@ available. -->
 
 <!ENTITY httpCache.label                 "ذخیره محتوا وب در حافظه‌ پنهان">
 
-<!ENTITY offlineStorage2.label           "محتوا وب و اطلاعات کاربر به صورت برون‌خط">
-
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "اطلاعات پایگاه اینترنتی">
 <!ENTITY clearSiteData.label             "پاک کردن همه داده‌ها">
 <!ENTITY clearSiteData.accesskey         "پ">
 <!ENTITY siteDataSettings.label          "تنظیمات…">
 <!ENTITY siteDataSettings.accesskey      "ت">
+<!ENTITY siteData1.label                 "کوکی‌ها و اطلاعات وب سایت">
+<!ENTITY clearSiteData1.label            "پاک کردن اطلاعات…">
+<!ENTITY clearSiteData1.accesskey        "I">
+<!ENTITY siteDataSettings1.label         "مدیریت اطلاعات…">
+<!ENTITY siteDataSettings1.accesskey     "M">
 <!ENTITY siteDataLearnMoreLink.label     "بیشتر بدانید">
 
 <!-- LOCALIZATION NOTE:
@@ -72,8 +82,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "مگابایت از فضا">
 <!ENTITY clearCacheNow.label             "هم‌اکنون پاک شود">
 <!ENTITY clearCacheNow.accesskey         "ه">
-<!ENTITY clearOfflineAppCacheNow.label   "هم‌اکنون پاک شود">
-<!ENTITY clearOfflineAppCacheNow.accesskey "ه">
 <!ENTITY overrideSmartCacheSize.label    "لغو مدیریت دستی حافظهٔ نهان">
 <!ENTITY overrideSmartCacheSize.accesskey "ل">
 
@@ -110,17 +118,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "بطور خودکار موتورهای جست‌وجو بروزرسانی شوند">
 <!ENTITY enableSearchUpdate2.accesskey   "س">
-
-<!ENTITY offlineStorageNotify.label               "هنگامی که یک پایگاه وب تلاش می‌کند اطلاعاتی برای استفاده آفلاین ذخیره کند به من اطلاع بده">
-<!ENTITY offlineStorageNotify.accesskey           "ه">
-<!ENTITY offlineStorageNotifyExceptions.label     "استثناها…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "ث">
-
-<!ENTITY offlineAppsList3.label          "پایگاه‌های وب زیر اجازه ذخیره اطلاعات برای استفاده آفلاین را دارند">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "حذف…">
-<!ENTITY offlineAppsListRemove.accesskey "ح">
-<!ENTITY offlineAppRemove.confirm        "حذف اطلاعات آفلاین">
 
 <!ENTITY certificateTab.label            "گواهینامه‌ها">
 <!ENTITY certPersonal2.description       "هنگامی که کارگزاری گواهی شخصی شما را درخواست می‌کند">
