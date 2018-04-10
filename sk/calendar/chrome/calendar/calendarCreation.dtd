@@ -20,3 +20,24 @@
 
 <!ENTITY finishpage.shortdescription  "Kalendár bol vytvorený" >
 <!ENTITY finishpage.longdescription   "Váš kalendár bol úspešne vytvorený." >
+
+<!-- Below are new strings for the revised new calendar dialog. The above strings should be
+    removed/renamed later on -->
+
+
+<!ENTITY buttons.create.label "Vytvoriť kalendár">
+<!ENTITY buttons.create.accesskey "r">
+
+<!ENTITY buttons.find.label "Hľadať kalendáre">
+<!ENTITY buttons.find.accesskey "H">
+
+<!ENTITY buttons.back.label "Naspäť">
+<!ENTITY buttons.back.accesskey "s">
+
+<!ENTITY buttons.subscribe.label "Odoberať">
+<!ENTITY buttons.subscribe.accesskey "O">
+
+<!ENTITY calendartype.label "Typ kalendára:">
+<!ENTITY location.label "Umiestnenie:">
+
+
