@@ -37,6 +37,13 @@ search-input-box =
             [windows] Szukaj w opcjach
            *[other] Szukaj w preferencjach
         }
+
+policies-notice =
+  { PLATFORM() ->
+    [windows] Administrator zablokował możliwość zmiany niektórych opcji
+    *[other] Administrator zablokował możliwość zmiany niektórych ustawień
+  }
+
 pane-general-title = Ogólne
 category-general =
     .tooltiptext = { pane-general-title }
