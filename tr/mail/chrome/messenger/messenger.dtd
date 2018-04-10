@@ -36,6 +36,11 @@
 <!ENTITY newFeedAccountCmd.accesskey "B">
 <!ENTITY newIMContactCmd.label "Sohbet kişisi…">
 <!ENTITY newIMContactCmd.accesskey "k">
+<!ENTITY  newMessageCmd.key "M">
+<!ENTITY  newMessageCmd.label "İleti">
+<!ENTITY  newMessageCmd.accesskey "e">
+<!ENTITY  newContactCmd.label "Adres defteri kişisi…">
+<!ENTITY  newContactCmd.accesskey "k">
 <!ENTITY openMessageFileCmd.label "Kaydedilmiş iletiyi aç…">
 <!ENTITY openMessageFileCmd.accesskey "d">
 <!ENTITY saveAsMenu.label "Farklı kaydet">
@@ -643,6 +648,7 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "İletileri İndir">
 <!ENTITY folderContextGetMessages.accesskey "n">
+<!ENTITY folderContextMarkAllFoldersRead.label "Tüm dizinleri okundu olarak işaretle">
 <!ENTITY folderContextPauseAllUpdates.label "Tüm güncellemeleri duraklat">
 <!ENTITY folderContextPauseUpdates.label "Güncellemeleri duraklat">
 <!ENTITY folderContextPauseUpdates.accesskey "d">
@@ -868,7 +874,7 @@
   -->
 <!ENTITY quickSearchCmd.key "K">
 <!-- LOCALIZATION NOTE (search.label.base1):
-      This is the base of the empty text for the global search box. We replace
+     This is the base of the empty text for the global search box. We replace
      #1 with the contents of the appropriate search.keyLabel.* value for the
      platform.
      The goal is to convey to the user that typing in the box will allow them
