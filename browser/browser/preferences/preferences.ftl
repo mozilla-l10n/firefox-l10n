@@ -13,8 +13,12 @@ pref-page =
             [windows] ఎంపికలు
            *[other] అభిరుచులు
         }
-# This string is currently used only in Firefox 60 and will be removed when not
-# needed for x-channel. See bug 1445686 for details.
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
 search-input =
     .style = width: 15.4em
 # This is used to determine the width of the search field in about:preferences,
@@ -40,6 +44,9 @@ policies-notice =
 pane-general-title = సాధారణం
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = ముంగిలి
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = వెతకడం
 category-search =
     .tooltiptext = { pane-search-title }
@@ -277,6 +284,20 @@ network-proxy-connection-settings =
 
 ## Home Section - Home Page Customization
 
+home-newtabs-mode-label = కొత్త ట్యాబు
+home-restore-defaults =
+    .label = అప్రమేయాలను పునరుద్ధరించు
+    .accesskey = R
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Firefox ముంగిలి (అప్రమేయం)
+home-mode-choice-custom =
+    .label = ఇష్టానుసారం URLలు...
+home-mode-choice-blank =
+    .label = ఖాళీ పేజీ
+home-homepage-custom-url =
+    .placeholder = URL ను అతికించండి ...
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -368,6 +389,12 @@ sync-manage-account = ఖాతా నిర్వహణ
     .accesskey = o
 sync-signedin-unverified = { $email } నిర్థారించబడలేదు.
 sync-signedin-login-failure = మళ్ళీ అనుసంధానించడానికి సైన్ ఇన్ అవ్వండి { $email }
+sync-resend-verification =
+    .label = ధృవీకరణను మళ్ళీ పంపు
+    .accesskey = d
+sync-remove-account =
+    .label = ఖాతాను తొలగించు
+    .accesskey = R
 sync-sign-in =
     .label = ప్రవేశించండి
     .accesskey = g
@@ -394,6 +421,10 @@ sync-engine-creditcards =
     .label = క్రెడిట్ కార్డులు
     .tooltiptext = పేర్లూ, నెంబర్లూ, కాల పరిమితి తేదీలు (డెస్క్‌టాపులో మాత్రమే)
     .accesskey = C
+sync-engine-addons =
+    .label = పొడిగింతలు
+    .tooltiptext = Firefox డెస్క్టాప్ కోసం పొడిగింతలు మరియు అలంకారాలు  
+    .accesskey = A
 sync-engine-prefs =
     .label =
         { PLATFORM() ->
@@ -424,6 +455,9 @@ privacy-header = విహరిణి గోప్యత
 ## Privacy Section - Forms
 
 forms-header = ఫారాలు & సంకేతపదాలు
+forms-remember-logins =
+    .label = వెబ్సైట్ల కోసం లాగిన్లు మరియు సంకేతపదాలను గుర్తుంచుకో
+    .accesskey = R
 forms-exceptions =
     .label = మినహాయింపులు…
     .accesskey = x
@@ -464,8 +498,18 @@ history-clear-button =
 
 sitedata-header = కుకీలు మరియు సైటు డేటా
 sitedata-learn-more = మరింత తెలుసుకోండి
+sitedata-accept-cookies-option =
+    .label = వెబ్సైట్ల నుండి కుకీలు మరియు సైట్ డేటాను అంగీకరించండి (సిఫార్సు చేయబడింది)
+    .accesskey = A
+sitedata-block-cookies-option =
+    .label = కుక్కీలను మరియు సైట్ డేటాను బ్లాక్ చేయండి (వెబ్సైట్లు విచ్ఛిన్నం కావచ్చు)
+    .accesskey = క
 sitedata-keep-until = ఇంత వరకు ఉంచు
     .accesskey = u
+sitedata-keep-until-closed =
+    .label = { -brand-short-name } మూసివేయబడింది
+sitedata-accept-third-party-desc = మూడవ పార్టీ కుక్కీలను మరియు సైట్ డేటాను అంగీకరించండి
+    .accesskey = y
 sitedata-accept-third-party-always-option =
     .label = ఎల్లప్పుడూ
 sitedata-accept-third-party-visited-option =
@@ -500,6 +544,7 @@ addressbar-suggestions-settings = శోధన యత్ర సూచనల అ�
 ## Privacy Section - Tracking
 
 tracking-header = ట్రాకింగ్ సంరక్షణ
+tracking-mode-label = తెలిసిన ట్రాకర్లను నిరోధించడానికి ట్రాకింగ్ రక్షణని ఉపయోగించండి
 tracking-mode-always =
     .label = ఎల్లప్పుడూ
     .accesskey = y
@@ -509,6 +554,10 @@ tracking-mode-private =
 tracking-mode-never =
     .label = ఎప్పటికీ కాదు
     .accesskey = n
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = తెలిసిన ట్రాకర్లను నిరోధించడానికి గోప్య విహారిణిలో ట్రాకింగ్ రక్షణని ఉపయోగించండి
+    .accesskey = v
 tracking-exceptions =
     .label = మినహాయింపులు…
     .accesskey = x
