@@ -78,6 +78,9 @@
 <!ENTITY  securityView.privacy.cookies                  "Voi itei vītne globoj kaidu informaceju (seikdatnes) munā datorā?">
 <!ENTITY  securityView.privacy.viewCookies              "Skateitīs seikdatnes">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.siteData                 "Voi itei vītne globoj kaidu informaceju munā datorā?">
+<!ENTITY  securityView.privacy.clearSiteData            "Dzēst seikdatnes un lopu datus">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "D">
 <!ENTITY  securityView.privacy.passwords                "Voi maņ ir saglobuotys paroles itai lopai?">
 <!ENTITY  securityView.privacy.viewPasswords            "Skateitīs saglobuotuos paroles">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "p">
