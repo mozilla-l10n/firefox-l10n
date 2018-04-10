@@ -78,6 +78,9 @@
 <!ENTITY  securityView.privacy.cookies                  "ინახავს ეს საიტი ჩემს კომპიუტერში მონაცემებს (ფუნთუშებს)?">
 <!ENTITY  securityView.privacy.viewCookies              "ფუნთუშების ნახვა">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "ფ">
+<!ENTITY  securityView.privacy.siteData                 "ინახავს ეს საიტი ჩემს კომპიუტერში მონაცემებს?">
+<!ENTITY  securityView.privacy.clearSiteData            "ფუნთუშებისა და საიტის მონაცემების გასუფთავება">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "გ">
 <!ENTITY  securityView.privacy.passwords                "ამ საიტისთვის პაროლები შენახული მაქვს?">
 <!ENTITY  securityView.privacy.viewPasswords            "შენახული პაროლების ნახვა">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "პ">
