@@ -292,7 +292,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Нови прозори и језичци
-home-new-windows-tabs-description = Изаберите шта желите да вам се приказује када отворите вашу почетну страницу, нове прозоре и нове језичке
+home-new-windows-tabs-description2 = Изаберите шта желите да видите када отворите вашу почетну страницу, нови прозор или језичак.
 
 ## Home Section - Home Page Customization
 

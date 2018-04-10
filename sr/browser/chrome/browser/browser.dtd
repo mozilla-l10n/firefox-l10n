@@ -61,6 +61,8 @@ can reach it easily. -->
 <!ENTITY  closeTab.label                     "Затвори језичак">
 <!ENTITY  closeTab.accesskey                 "ч">
 
+<!ENTITY  hiddenTabs.label                   "Сакривени језичци">
+
 <!ENTITY  listAllTabs.label      "Наброј све језичке">
 
 <!ENTITY tabCmd.label "Нови језичак">
@@ -222,6 +224,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Складишти податке у трајном складишту">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Прегледач је под удаљеним управљањем">
 
+<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Отвори панел за веб аутентификацију">
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Управљајте дељењем ваше камере и/или микрофона са сајтом">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Управљајте дељењем вашег микрофона са сајтом">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Управљајте дељењем вашег прозора или екрана са сајтом">
@@ -268,7 +272,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addBookmarksMenu.label             "Додај мени са забелешкама на траку са алатима">
 <!ENTITY removeBookmarksMenu.label          "Уклони мени са забелешкама са алатне траке">
 
-<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 <!ENTITY bookmarksGtkCmd.commandkey "o">
@@ -385,7 +389,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Укључите синхронизацију језичака да видите листу језичака са других уређаја.">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Желите да овде видите језичке са осталих уређаја?">
