@@ -295,6 +295,21 @@ home-new-windows-tabs-header = Jauni lūgi i cilnes
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Sātys lopa i jauni lūgi
+home-newtabs-mode-label = Jaunas cilnes
+home-restore-defaults =
+    .label = Atjaunōt iz nūkluseitū
+    .accesskey = A
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Firefox sātys lopa (pec nūklusejuma)
+home-mode-choice-custom =
+    .label = Muni URL…
+home-mode-choice-blank =
+    .label = Tukša lopa
+home-homepage-custom-url =
+    .placeholder = Īleimēt URL…
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -394,6 +409,9 @@ sync-signedin-login-failure = Lyudzu pīsaslēdz, kab atjaunōtu savīnojumu { $
 sync-resend-verification =
     .label = Nūsyutēt apstyprinojumu par jaunu
     .accesskey = y
+sync-remove-account =
+    .label = Dzēst kontu
+    .accesskey = D
 sync-sign-in =
     .label = Pīsasliegt
     .accesskey = P
@@ -474,6 +492,7 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Viesture
+history-remember-description = { -brand-short-name } pīminēs tuvu porlyukōšonys, lejupīlōžu, formu un mekliešonys viesturi.
 history-dontremember-description = { -brand-short-name } izmantuots taidus pat īstatiejumus kai privatuos puorlūkuošonys režymā i puorlūkojūt šķārsteiklu nasaglobuos viesturi.
 history-private-browsing-permanent =
     .label = Vīnmār izmantuot privatuos puorlūkuošonys režymu
@@ -498,6 +517,9 @@ history-clear-button =
 
 sitedata-header = Cookies un lopys dati
 sitedata-learn-more = Uzzynojit vairuok
+sitedata-accept-cookies-option =
+    .label = Pījimt seikdatnes un kešatmiņu nu lopom (īsokams)
+    .accesskey = P
 sitedata-block-cookies-option =
     .label = Aizlīgt cookies un lopys datus (var samaitōt lopys īcarātū darbeibu)
     .accesskey = i
