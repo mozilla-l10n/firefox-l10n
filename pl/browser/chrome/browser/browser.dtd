@@ -191,6 +191,7 @@
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Przechowywanie danych na komputerze przez witrynę zostało zablokowane">
 <!ENTITY urlbar.popupBlocked.tooltip "Wyskakujące okna na tej stronie są blokowane">
 <!ENTITY urlbar.canvasBlocked.tooltip "Odczytywanie danych canvas przez tę witrynę zostało zablokowane">
+<!ENTITY urlbar.flashPluginBlocked.tooltip "Wtyczka Adobe Flash została zablokowana na tej stronie">
 <!ENTITY urlbar.midiBlocked.tooltip "Dostęp do urządzeń MIDI tej witrynie został zablokowany">
 <!ENTITY urlbar.openHistoryPopup.tooltip "Wyświetl historię">
 
