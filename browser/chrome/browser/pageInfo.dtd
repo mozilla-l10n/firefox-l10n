@@ -60,9 +60,6 @@
 <!ENTITY  permissionsFor        "Povolenia pre:">
 <!ENTITY  permPlugins           "Aktivácia zásuvných modulov">
 
-<!ENTITY  permClearStorage           "Vymazať úložisko">
-<!ENTITY  permClearStorage.accesskey "V">
-
 <!ENTITY  securityTab           "Zabezpečenie">
 <!ENTITY  securityTab.accesskey "Z">
 <!ENTITY  securityView.certView "Zobraziť certifikát">
@@ -81,6 +78,9 @@
 <!ENTITY  securityView.privacy.cookies                  "Ukladá táto stránka informácie (cookies) na mojom počítači?">
 <!ENTITY  securityView.privacy.viewCookies              "Zobraziť súbory cookies">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "s">
+<!ENTITY  securityView.privacy.siteData                 "Ukladá táto stránka informácie (cookies) na mojom počítači?">
+<!ENTITY  securityView.privacy.clearSiteData            "Vymazať cookies a údaje stránok">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "c">
 <!ENTITY  securityView.privacy.passwords                "Uložil som pre túto stránku nejaké heslá?">
 <!ENTITY  securityView.privacy.viewPasswords            "Zobraziť uložené heslá">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "u">

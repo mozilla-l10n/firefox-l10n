@@ -61,6 +61,8 @@ can reach it easily. -->
 <!ENTITY  closeTab.label                     "Zavrieť kartu">
 <!ENTITY  closeTab.accesskey                 "Z">
 
+<!ENTITY  hiddenTabs.label                   "Skryté karty">
+
 <!ENTITY  listAllTabs.label      "Zoznam všetkých kariet">
 
 <!ENTITY tabCmd.label "Nová karta">
@@ -222,6 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Uloží údaje do trvalého úložiska">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Prehliadač je ovládaný na diaľku">
 
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Spravovať zdieľanie webkamery a/alebo mikrofónu so stránkou">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Spravovať zdieľanie mikrofónu so stránkou">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Spravovať zdieľanie vašich okien alebo obrazovky so stránkou">
@@ -268,7 +271,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addBookmarksMenu.label             "Pridať ponuku záložiek do panela nástrojov">
 <!ENTITY removeBookmarksMenu.label          "Odstrániť ponuku záložiek z panela nástrojov">
 
-<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 <!ENTITY bookmarksGtkCmd.commandkey "o">
@@ -385,7 +388,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Zapnutím synchronizácie kariet zobrazíte zoznam kariet z vašich ostatných zariadení.">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Chceli by ste tu vidieť vaše karty z ostatných zariadení?">
