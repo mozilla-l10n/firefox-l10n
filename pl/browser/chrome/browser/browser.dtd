@@ -781,10 +781,13 @@
 
 <!ENTITY newTabControlled.message "Rozszerzenie zmieniło stronę nowej karty, ale można przywrócić poprzednią.">
 <!ENTITY newTabControlled.header.message "Strona nowej karty została zmieniona.">
+<!ENTITY newTabControlled.header.message2 "Strona nowej karty została zmieniona.">
 <!ENTITY newTabControlled.keepButton.label "Używaj nowej">
 <!ENTITY newTabControlled.keepButton.accesskey "n">
 <!ENTITY newTabControlled.restoreButton.label "Przywróć poprzednią">
 <!ENTITY newTabControlled.restoreButton.accesskey "P">
+<!ENTITY newTabControlled.disableButton.label "Wyłącz rozszerzenie">
+<!ENTITY newTabControlled.disableButton.accesskey "W">
 
 <!ENTITY pageActionButton.tooltip "Interakcje">
 <!ENTITY pageAction.addToUrlbar.label "Dodaj do paska adresu">
