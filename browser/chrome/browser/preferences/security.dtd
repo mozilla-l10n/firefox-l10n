@@ -12,7 +12,8 @@
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
-<!ENTITY  browsingProtection.label        "Diogelwch rhag Cynnwyd Twyllodrus a Meddalwedd Peryglus">
+<!ENTITY  browsingProtection.label        "Diogelwch rhag Cynnwys Twyllodrus a Meddalwedd Peryglus">
+
 <!ENTITY  enableSafeBrowsing.label        "Rhwystro cynnwys peryglus a thwyllodrus">
 <!ENTITY  enableSafeBrowsing.accesskey    "R">
 

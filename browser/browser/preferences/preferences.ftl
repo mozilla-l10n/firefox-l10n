@@ -298,7 +298,6 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Ffenestri a Thabiau Newydd
-home-new-windows-tabs-description = Dewiswch beth fyddwch yn ei weld pan fyddwch yn agor eich tudalen cartref, ffenestr newydd a thabiau newydd.
 
 ## Home Section - Home Page Customization
 
@@ -661,7 +660,7 @@ collection-backlogged-crash-reports-link = Dysgu rhagor
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Diogelwch
-security-browsing-protection = Diogelwch rhag Cynnwyd Twyllodrus a Meddalwedd Peryglus
+security-browsing-protection = Diogelwch rhag Cynnwys Twyllodrus a Meddalwedd Peryglus
 security-enable-safe-browsing =
     .label = Rhwystro cynnwys peryglus a thwyllodrus
     .accesskey = R
