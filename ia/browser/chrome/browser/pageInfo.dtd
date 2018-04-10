@@ -78,6 +78,7 @@
 <!ENTITY  securityView.privacy.cookies                  "Esque iste sito web stocka informationes (cookies) in mi computator?">
 <!ENTITY  securityView.privacy.viewCookies              "Vider le cookies">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.siteData                 "Esque iste sito web salva informationes in mi computator?">
 <!ENTITY  securityView.privacy.clearSiteData            "Clarar le cookies e le datos de sito">
 <!ENTITY  securityView.privacy.clearSiteData.accessKey  "C">
 <!ENTITY  securityView.privacy.passwords                "Ha io salvate alcun contrasigno pro iste sito web?">

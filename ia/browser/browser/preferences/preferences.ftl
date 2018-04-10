@@ -290,7 +290,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Nove fenestras e schedas
-home-new-windows-tabs-description = Elige que vider quando tu aperi tu pagina initial, nove fenestras e nove schedas.
+home-new-windows-tabs-description2 = Elige que vider quando tu aperira tu pagina initial, nove fenestra, e nove scheda
 
 ## Home Section - Home Page Customization
 
