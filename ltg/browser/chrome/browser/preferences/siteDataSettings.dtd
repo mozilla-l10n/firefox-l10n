@@ -4,7 +4,7 @@
 
 <!ENTITY     window.title                  "Īstatiejumi - Lopys dati">
 
-<!ENTITY     window1.title                 "Īstatiejumi - seikdatnes un lopu dati">
+<!ENTITY     window2.title                 "Porvaļdēt seikdatnes un lopu datus">
 <!ENTITY     hostCol.label                 "Lopa">
 <!ENTITY     statusCol.label               "Statuss">
 <!ENTITY     cookiesCol.label              "Seikdatnes">
