@@ -61,6 +61,8 @@ can reach it easily. -->
 <!ENTITY  closeTab.label                     "ટૅબને બંધ કરો">
 <!ENTITY  closeTab.accesskey                 "C">
 
+<!ENTITY  hiddenTabs.label                   "છુપાયેલા ટૅબ્સ">
+
 <!ENTITY  listAllTabs.label      "બધા ટૅબ્સની યાદી કરો">
 
 <!ENTITY tabCmd.label "નવી ટૅબ">
@@ -222,6 +224,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "સ્થાયી સંગ્રહમાં ડેટા સંગ્રહ કરો">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "બ્રાઉઝર રીમોટ કંટ્રોલ હેઠળ છે">
 
+<!ENTITY urlbar.webAuthnAnchor.tooltip                    "વેબ પ્રમાણીકરણ પેનલ ખોલો">
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "સાઇટ સાથે તમારા કેમેરા અને/અથવા માઇક્રોફોનને શેર કરવાનું મેનેજ કરો">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "સાઇટ સાથે તમારા માઇક્રોફોન શેર કરવાનું મેનેજ કરો">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "સાઇટ સાથે તમારા Windows અથવા સ્ક્રીન શેરિંગ ને મેનેજ કરો">
@@ -268,7 +272,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addBookmarksMenu.label             "ટૂલબારમાં બુકમાર્ક્સ મેનૂ ઉમેરો">
 <!ENTITY removeBookmarksMenu.label          "ટૂલબારમાંથી બુકમાર્ક મેનુને દૂર કરો">
 
-<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 <!ENTITY bookmarksGtkCmd.commandkey "o">
@@ -385,7 +389,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "તમારા અન્ય ઉપકરણોમાંથી ટેબ્સની સૂચિ જોવા માટે ટેબ સમન્વયન ચાલુ કરો.">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "અહીં અન્ય ઉપકરણોથી તમારા ટેબ્સ જોવા માંગો છો?">
