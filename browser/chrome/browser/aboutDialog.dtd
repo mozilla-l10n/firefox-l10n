@@ -20,17 +20,15 @@
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 <!ENTITY warningDesc.version        "&brandShortName; is eksperimenteel en kin net stabyl wêze.">
-<!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "Der wurde automatysk gegevens oer prestaasjes, hardware, gebrûk en persoanlike oanpassingen nei &vendorShortName; weromstjoerd, sadat &brandShortName; ferbettere wurde kin.">
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       " is in ">
-<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!-- LOCALIZATION NOTE (community.exp.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "wrâldwide mienskip">
-<!ENTITY community.exp.end          " dy't gearwurket om it ynternet iepen, iepenbier en tagonklik te hâlden foar elkenien.">
+<!ENTITY community.exp.end          " dy't gearwurket om it ynternet iepen, iepenbier, en foar elkenien tagonklik te hâlden.">
 
 <!ENTITY community.start2           "&brandShortName; is makke troch ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -38,7 +36,7 @@
 <!ENTITY community.middle2          ", in ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "wrâldwide mienskip">
-<!ENTITY community.end3             " dy't gearwurket om it ynternet iepen, iepenbier en tagonklik te hâlden foar elkenien.">
+<!ENTITY community.end3             " dy't gearwurket om it ynternet iepen, iepenbier, en foar elkenien tagonklik te hâlden.">
 
 <!ENTITY helpus.start               "Wolle jo helpe? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://donate.mozilla.org/?utm_source=firefox&utm_medium=referral&utm_campaign=firefox_about&utm_content=firefox_about. -->
@@ -109,4 +107,4 @@
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 <!ENTITY channel.description.start  "Jo binne op dit stuit op it ">
-<!ENTITY channel.description.end    " fernijkanaal. ">
+<!ENTITY channel.description.end    "-fernijingskanaal. ">
