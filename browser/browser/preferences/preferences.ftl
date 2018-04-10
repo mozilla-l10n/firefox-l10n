@@ -290,7 +290,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Új ablakok és lapok
-home-new-windows-tabs-description = Válassza ki, hogy mit lásson, ha megnyitja a kezdőlapját, vagy új egy ablakot, lapot
+home-new-windows-tabs-description2 = Válasszon hogy mit lásson, ha megnyitja a kezdőoldalt, vagy egy új ablakot, lapot.
 
 ## Home Section - Home Page Customization
 
