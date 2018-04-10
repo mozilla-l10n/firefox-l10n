@@ -61,6 +61,8 @@ can reach it easily. -->
 <!ENTITY  closeTab.label                     "Закрыць картку">
 <!ENTITY  closeTab.accesskey                 "З">
 
+<!ENTITY  hiddenTabs.label                   "Схаваныя карткі">
+
 <!ENTITY  listAllTabs.label      "Пералічыць усе карткі">
 
 <!ENTITY tabCmd.label "Новая картка">
@@ -222,6 +224,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Захоўваць звесткі ў Сталым Сховішчы (Persistent Storage)">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Браўзер знаходзіцца пад аддаленым кіраваннем">
 
+<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Адкрыць панэль вэб-аўтарызацыі">
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Кіраваць доступам сайта да вашай камеры і/або мікрафона">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Кіраваць доступам сайта да вашага мікрафона">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Кіраваць дазволам на прагляд сайтам экрану ці вакон">
@@ -268,7 +272,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addBookmarksMenu.label             "Дадаць меню закладак на паліцу прылад">
 <!ENTITY removeBookmarksMenu.label          "Прыбраць меню закладак з паліцы прылад">
 
-<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 <!ENTITY bookmarksGtkCmd.commandkey "o">
@@ -385,7 +389,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Уключыце сінхранізацыю картак, каб пабачыць спіс картак з вашых іншых прылад.">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Хочаце пабачыць свае карткі з іншых прылад?">
