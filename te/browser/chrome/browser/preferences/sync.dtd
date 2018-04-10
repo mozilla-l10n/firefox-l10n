@@ -69,6 +69,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY verifiedManage.accesskey     "o">
 <!ENTITY disconnect3.label            "అనుసంధానం తెంచు…">
 <!ENTITY disconnect3.accesskey        "D">
+<!ENTITY resendVerification.label     "ధృవీకరణను మళ్ళీ పంపు">
 <!ENTITY resendVerification.accesskey "d">
 <!ENTITY cancelSetup.label            "అమర్పు రద్దుచేయి">
 <!ENTITY cancelSetup.accesskey        "p">
