@@ -851,7 +851,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Conetti torna a &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "R">
-<!ENTITY syncToolbarButton.label      "Sync">
+<!ENTITY syncToolbarButton.label      "Scincronizaçion">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Mescia i teu elementi preferii inta bara de scianco ò into menû extra.">
 <!ENTITY customizeMode.restoreDefaults "Repiggia predefinii">

@@ -29,7 +29,7 @@
 <!ENTITY importFromChromium.accesskey   "u">
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "X">
-<!ENTITY importFrom360se.label          "360 Secure Browser">
+<!ENTITY importFrom360se.label          "Navegatô Seguo 360">
 <!ENTITY importFrom360se.accesskey      "3">
 
 <!ENTITY noMigrationSources.label       "Nisciunn-a aplicaçion che a contegne di segnalibbri, stöia ò paròlle segrete peu ese trova.">
