@@ -290,7 +290,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = નવી વિન્ડો અને ટૅબ્સ
-home-new-windows-tabs-description = જ્યારે તમે તમારું મુખ્ય પૃષ્ઠ, નવી વિંડોઝ અને નવી ટેબ્સ ખોલો છો ત્યારે તમે શું જુઓ છો તે પસંદ કરો
+home-new-windows-tabs-description2 = જ્યારે તમે તમારું હોમપેજ, નવી વિંડોઝ અને નવી ટેબ્સ ખોલો છો ત્યારે તમે શું જુઓ છો તે પસંદ કરો.
 
 ## Home Section - Home Page Customization
 
@@ -408,6 +408,9 @@ sync-signedin-login-failure = મહેરબાની કરીને ફરી
 sync-resend-verification =
     .label = ચકાસણી ફરી મોકલો
     .accesskey = d
+sync-remove-account =
+    .label = એકાઉન્ટ કાઢો
+    .accesskey = R
 sync-sign-in =
     .label = સાઇન ઇન કરો
     .accesskey = g
@@ -513,11 +516,18 @@ history-clear-button =
 
 sitedata-header = કૂકીઝ અને સાઈટ ડેટા
 sitedata-learn-more = વધુ શીખો
+sitedata-accept-cookies-option =
+    .label = વેબસાઇટ્સથી કૂકીઝ અને સાઇટ ડેટાને સ્વીકારો (ભલામણ કરેલ).
+    .accesskey = A
 sitedata-block-cookies-option =
     .label = કૂકીઝ અને સાઇટ ડેટાને અવરોધિત કરો (વેબસાઇટ્સને તોડી શકે છે)
     .accesskey = B
 sitedata-keep-until = ત્યાં સુધી રાખો
     .accesskey = u
+sitedata-keep-until-expire =
+    .label = સમાપ્ત થાયા
+sitedata-keep-until-closed =
+    .label = { -brand-short-name } બંધ છે
 sitedata-accept-third-party-desc = તૃતીય-પક્ષ કૂકીઝ અને સાઇટ ડેટાને સ્વીકારો
     .accesskey = y
 sitedata-accept-third-party-always-option =
