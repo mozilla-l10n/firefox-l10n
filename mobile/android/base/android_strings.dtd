@@ -7,7 +7,7 @@
 <!ENTITY firstrun_urlbar_subtext2 "Сучасний мобільний браузер від Mozilla, некомерційної організації, що віддана вільному й відкритому Інтернету.">
 <!ENTITY firstrun_panel_title_privacy "Приватність">
 <!ENTITY firstrun_privacy_message "Переглядайте без думки, що за вами хтось спостерігає">
-<!ENTITY firstrun_privacy_subtext "Приватний перегляд блокує стеження поки ви переглядаєте Інтернет і не запам\&apos;ятовує історію після завершення.">
+<!ENTITY firstrun_privacy_subtext "В режимі приватного перегляду блокуються елементи стеження на веб-сайтах і не зберігається історія після завершення сеансу.">
 <!ENTITY firstrun_panel_title_customize "Пристосування">
 <!ENTITY firstrun_customize_message "Зробіть &brandShortName; зручним для себе.">
 <!ENTITY firstrun_customize_subtext "Розширюйте можливості &brandShortName; за допомогою додатків. Блокуйте рекламу, або оберіть нову тему, щоб підкреслити свою індивідуальність.">
@@ -836,7 +836,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY activity_stream_topsites "Популярні сайти">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 <!ENTITY activity_stream_topstories "Рекомендовано &brandPocket;">
-<!ENTITY activity_stream_highlights "Найцікавіше">
+<!ENTITY activity_stream_highlights "Відібране">
 
 <!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
 <!ENTITY activity_stream_link_more1 "БІЛЬШЕ">
