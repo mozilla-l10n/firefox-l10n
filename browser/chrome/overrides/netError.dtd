@@ -99,7 +99,11 @@
  ">
 
 <!ENTITY redirectLoop.title "A pagina a no redireçionn-a ben">
-<!ENTITY redirectLoop.longDesc "<p>O navegatô o no preuva ciù a riçeive l'ògetto domandou. O scito o redireçionn-a de longo.</p><ul><li>T'æ miga dizabilitou ò blocou i cookie domandæ da sto scito?</li><li><em>NÒTTA</em>: Se ti acetti i cookie do scito e no ti rizòlvi o problema o porieva ese do server e no do teu computer.</li></ul>">
+<!ENTITY redirectLoop.longDesc "
+<ul>
+  <li>Sto problema o peu ese caozou da l'avei dizabilitou ò refuou i cookie.</li>
+</ul>
+">
 
 <!ENTITY unknownSocketType.title "Risposta sbaliâ da-o server">
 <!ENTITY unknownSocketType.longDesc "<p>O scito risponde inte 'n mòddo strano e-o navegatô o no peu continoâ.</p>">
