@@ -5,10 +5,7 @@
 <!ENTITY ctrlTabRecentlyUsedOrder.label       "Ctrl+Tab fa passar los onglets dins l'òrdre de darrièra utilizacion">
 <!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "O">
 
-<!ENTITY newWindowsAsTabs.label       "Dobrir las fenèstras novèlas puslèu dins un onglet novèl">
-<!ENTITY newWindowsAsTabs.accesskey   "g">
-
-<!ENTITY newWindowsAsTabs3.label       "Dobrir los ligams dins d’onglets al lòc de fenèstras">
+<!ENTITY newWindowsAsTabs3.label       "Dobrir los ligams dins d’onglets allòc de fenèstras">
 <!ENTITY newWindowsAsTabs3.accesskey   "f">
 
 <!ENTITY warnOnCloseMultipleTabs.label      "Vos avisar en tampar d'onglets multiples">
