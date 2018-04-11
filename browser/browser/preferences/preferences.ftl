@@ -296,7 +296,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = النوافذ و الألسنة الجديدة
-home-new-windows-tabs-description = اختر ما تراه عند فتح صفحة البداية، و النوافذ الجديدة و الألسنة الجديدة
+home-new-windows-tabs-description2 = اختر ما تراه عندما تفتح صفحة البداية و النوافذ و الألسنة الجديدة.
 
 ## Home Section - Home Page Customization
 
