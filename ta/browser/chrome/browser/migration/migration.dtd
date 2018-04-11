@@ -21,6 +21,10 @@
 <!ENTITY importFromCanary.accesskey     "n">
 <!ENTITY importFromChrome.label         "கொறோம்">
 <!ENTITY importFromChrome.accesskey     "க">
+<!ENTITY importFromChromeBeta.label     "குரோம் பீட்டா">
+<!ENTITY importFromChromeBeta.accesskey "B">
+<!ENTITY importFromChromeDev.label      "குரோம் டெவ்">
+<!ENTITY importFromChromeDev.accesskey  "D">
 <!ENTITY importFromChromium.label       "குரோமியம்">
 <!ENTITY importFromChromium.accesskey   "u">
 <!ENTITY importFromFirefox.label        "பயர்பாக்ஸ்(x)">
