@@ -61,6 +61,8 @@ can reach it easily. -->
 <!ENTITY  closeTab.label                     "Închide fila">
 <!ENTITY  closeTab.accesskey                 "c">
 
+<!ENTITY  hiddenTabs.label                   "File ascunse">
+
 <!ENTITY  listAllTabs.label      "Listează toate filele">
 
 <!ENTITY tabCmd.label "Filă nouă">
@@ -222,6 +224,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Stochează date în stocarea persistentă">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Browserul este sub control de la distanță">
 
+<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Deschide panoul de autentificare web">
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Gestionează partajarea camerei și/sau microfonului cu acest site">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Gestionează partajarea microfonului cu acest site">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Gestionează partajarea ferestrelor sau a ecranului cu acest site">
@@ -268,7 +272,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addBookmarksMenu.label             "Adaugă meniul pentru marcaje în bara de instrumente">
 <!ENTITY removeBookmarksMenu.label          "Elimină meniul pentru marcaje din bara de instrumente">
 
-<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 <!ENTITY bookmarksGtkCmd.commandkey "o">
@@ -385,7 +389,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Pornește sincronizarea filelor pentru a vedea o listă de file de pe celelalte dispozitive.">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Vrei să vezi filele de pe celelalte dispozitive aici?">

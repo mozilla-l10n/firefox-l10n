@@ -60,9 +60,6 @@
 <!ENTITY  permissionsFor        "Permisiuni pentru:">
 <!ENTITY  permPlugins           "Activează pluginurile">
 
-<!ENTITY  permClearStorage           "Șterge stocarea">
-<!ENTITY  permClearStorage.accesskey "C">
-
 <!ENTITY  securityTab           "Securitate">
 <!ENTITY  securityTab.accesskey "S">
 <!ENTITY  securityView.certView "Vezi certificatul">
@@ -81,6 +78,9 @@
 <!ENTITY  securityView.privacy.cookies                  "Acest site web stochează informații (cookie-uri) pe calculatorul meu?">
 <!ENTITY  securityView.privacy.viewCookies              "Vezi cookie-urile">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.siteData                 "Acest site web stochează informații pe calculatorul meu?">
+<!ENTITY  securityView.privacy.clearSiteData            "Șterge cookie-urile și datele site-urilor">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "C">
 <!ENTITY  securityView.privacy.passwords                "Am salvat vreo parolă pentru acest site web?">
 <!ENTITY  securityView.privacy.viewPasswords            "Vezi parolele salvate">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "p">
