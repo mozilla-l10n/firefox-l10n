@@ -36,6 +36,12 @@
 <!ENTITY newFeedAccountCmd.accesskey "Ρ">
 <!ENTITY newIMContactCmd.label "Επαφή συνομιλίας…">
 <!ENTITY newIMContactCmd.accesskey "η">
+<!ENTITY  newMessageCmd2.key "Ν">
+<!ENTITY  newMessageCmd.key "Μ">
+<!ENTITY  newMessageCmd.label "Μήνυμα">
+<!ENTITY  newMessageCmd.accesskey "μ">
+<!ENTITY  newContactCmd.label "Επαφή Βιβλίου Διευθύνσεων…">
+<!ENTITY  newContactCmd.accesskey "Ε">
 <!ENTITY openMessageFileCmd.label "Άνοιγμα αποθηκευμένου μηνύματος">
 <!ENTITY openMessageFileCmd.accesskey "ν">
 <!ENTITY saveAsMenu.label "Αποθήκευση ως">
@@ -509,8 +515,6 @@
 <!ENTITY devToolboxCmd.label "Γραμμή εργαλείων προγραμματιστή">
 <!ENTITY devToolboxCmd.accesskey "Θ">
 <!ENTITY devToolboxCmd.commandkey "ι">
-<!ENTITY addonDebugCmd.label "Ενσωματωμένος Αποσφαλματωτής">
-<!ENTITY addonDebugCmd.accesskey "Α">
 <!ENTITY debugAddonsCmd.label "Αποσφαλμάτωση Πρόσθετων">
 <!ENTITY debugAddonsCmd.accesskey "Α">
 <!ENTITY tabsDebugCmd.label "Αποσφαλματωτής Περιεχομένου Πλαισίου">
@@ -645,6 +649,7 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Λήψη μηνυμάτων">
 <!ENTITY folderContextGetMessages.accesskey "Λ">
+<!ENTITY folderContextMarkAllFoldersRead.label "Να σημειωθούν όλοι οι φάκελοι ως αναγνωσμένοι">
 <!ENTITY folderContextPauseAllUpdates.label "Παύση όλων των ενημερώσεων">
 <!ENTITY folderContextPauseUpdates.label "Παύση ενημερώσεων">
 <!ENTITY folderContextPauseUpdates.accesskey "Ε">
@@ -870,7 +875,7 @@
   -->
 <!ENTITY quickSearchCmd.key "κ">
 <!-- LOCALIZATION NOTE (search.label.base1):
-      This is the base of the empty text for the global search box. We replace
+     This is the base of the empty text for the global search box. We replace
      #1 with the contents of the appropriate search.keyLabel.* value for the
      platform.
      The goal is to convey to the user that typing in the box will allow them

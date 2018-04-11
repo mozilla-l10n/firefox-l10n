@@ -9,6 +9,7 @@
 <!ENTITY iconsAndText.label       "Εικονίδια και Κείμενο">
 <!ENTITY icons.label              "Εικονίδια">
 <!ENTITY text.label               "Κείμενο">
+<!ENTITY iconsBesideText.label    "Εικονίδια δίπλα στο Κείμενο">
 <!ENTITY useSmallIcons.label      "Χρήση Μικρών Εικονιδίων">
 <!ENTITY restoreDefaultSet.label  "Επαναφορά Προκαθορισμένου Σετ">
 <!ENTITY addNewToolbar.label      "Προσθήκη Νέας Εργαλειοθήκης">
