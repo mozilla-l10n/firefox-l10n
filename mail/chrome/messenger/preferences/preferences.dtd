@@ -3,6 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  windowClose.key                  "w">
+<!ENTITY  preferencesDefaultTitleMac.title "Předvolby">
+<!ENTITY  preferencesDefaultTitleWin.title "Možnosti">
+<!ENTITY  preferencesCloseButton.label     "Zavřít">
+<!ENTITY  preferencesCloseButton.accesskey "Z">
 
 <!ENTITY  prefWindow.titleWin     "Možnosti">
 <!ENTITY  prefWindow.titleGNOME   "Předvolby aplikace &brandShortName;">
