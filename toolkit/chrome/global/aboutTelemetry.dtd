@@ -10,6 +10,7 @@
 	used to move to the next or previous ping. -->
 
 <!ENTITY aboutTelemetry.pageTitle "ข้อมูลการวัดและส่งข้อมูลทางไกล">
+<!ENTITY aboutTelemetry.moreInformations "กำลังมองหาข้อมูลเพิ่มเติม?">
 
 
 <!ENTITY aboutTelemetry.homeSection "หน้าแรก">
