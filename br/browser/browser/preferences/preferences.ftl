@@ -292,7 +292,6 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Prenestroù hag ivinelloù nevez
-home-new-windows-tabs-description = Dibabit ar pezh a welit pa tigorit ho pennbajenn, prenestroù nevez hag ivinelloù nevez
 
 ## Home Section - Home Page Customization
 
@@ -425,9 +424,9 @@ sync-engine-history =
     .label = Roll istor
     .accesskey = R
 sync-engine-tabs =
-    .label = Digeriñ ivinelloù
+    .label = Ivinelloù digor
     .tooltiptext = Ur roll eus ar pezh a zo digor war an holl drevnadoù goubredet
-    .accesskey = D
+    .accesskey = d
 sync-engine-logins =
     .label = Titouroù kennaskañ
     .tooltiptext = Anvioù implijer ha gerioù-tremen enrollet ganeoc'h
