@@ -14,4 +14,4 @@
 <!ENTITY refreshProfileInstead.label  "คุณยังสามารถข้ามการแก้ไขปัญหาและลองตั้งค่า &brandShortName; ใหม่">
 
 <!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
-<!ENTITY autoSafeModeDescription3.label "&brandShortName; ถูกปิดโดยไม่คาดคิดระหว่างกำลังเริ่มทำงาน สาเหตุอาจเป็นจากส่วนเสริมหรือปัญหาอื่น คุณสามารถลองแก้ปัญหาได้โดยระบุปัญหาโดยใช้โหมดปลอดภัย">
+<!ENTITY autoSafeModeDescription3.label "&brandShortName; ถูกปิดโดยไม่คาดคิดขณะกำลังเริ่ม ซึ่งอาจมีสาเหตุมาจากส่วนเสริมหรือปัญหาอื่น ๆ คุณสามารถลองแก้ไขปัญหาโดยการแก้ไขปัญหาในโหมดปลอดภัย">
