@@ -79,6 +79,7 @@
 <!ENTITY  securityView.privacy.viewCookies              "Wali inagan n tuqqna">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "g">
 <!ENTITY  securityView.privacy.clearSiteData            "Sfeḍ inagan n tuqna akked isefka n usmel">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "C">
 <!ENTITY  securityView.privacy.passwords                "Skelseɣ awal uffir i usmel-a web?">
 <!ENTITY  securityView.privacy.viewPasswords            "Wali awalen uffiren yettwakelsen">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
