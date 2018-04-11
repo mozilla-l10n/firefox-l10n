@@ -282,7 +282,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = หน้าต่างและแท็บใหม่
-home-new-windows-tabs-description = เลือกสิ่งที่คุณเห็นเมื่อคุณเปิดหน้าแรก, หน้าต่างใหม่ และแท็บใหม่ของคุณ
+home-new-windows-tabs-description2 = เลือกสิ่งที่คุณต้องการเห็นเมื่อคุณเปิดหน้าแรก หน้าต่าง หรือแท็บใหม่
 
 ## Home Section - Home Page Customization
 
