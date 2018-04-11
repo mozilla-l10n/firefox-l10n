@@ -36,6 +36,12 @@
 <!ENTITY newFeedAccountCmd.accesskey "a">
 <!ENTITY newIMContactCmd.label "Kontakty chatu…">
 <!ENTITY newIMContactCmd.accesskey "n">
+<!ENTITY  newMessageCmd2.key "N">
+<!ENTITY  newMessageCmd.key "M">
+<!ENTITY  newMessageCmd.label "Zpráva">
+<!ENTITY  newMessageCmd.accesskey "n">
+<!ENTITY  newContactCmd.label "Kontakt…">
+<!ENTITY  newContactCmd.accesskey "K">
 <!ENTITY openMessageFileCmd.label "Otevřít uloženou zprávu…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY saveAsMenu.label "Uložit jako">
@@ -317,7 +323,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Chat">
 <!ENTITY goChatCmd.accesskey "c">
-<!ENTITY goChatCmd.key "I">
 <!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Zpráva s hvězdičkou">
 <!ENTITY prevStarredMsgCmd.accesskey "h">
@@ -510,8 +515,6 @@
 <!ENTITY devToolboxCmd.label "Vývojářské nástroje">
 <!ENTITY devToolboxCmd.accesskey "t">
 <!ENTITY devToolboxCmd.commandkey "i">
-<!ENTITY addonDebugCmd.label "Debugger doplňků">
-<!ENTITY addonDebugCmd.accesskey "p">
 <!ENTITY debugAddonsCmd.label "Ladit doplňky">
 <!ENTITY debugAddonsCmd.accesskey "L">
 <!ENTITY tabsDebugCmd.label "Debugger obsahu rámců">
@@ -646,6 +649,7 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Přijmout zprávy">
 <!ENTITY folderContextGetMessages.accesskey "P">
+<!ENTITY folderContextMarkAllFoldersRead.label "Označit všechny složky jako přečtené">
 <!ENTITY folderContextPauseAllUpdates.label "Pozastavit všechny aktualizace">
 <!ENTITY folderContextPauseUpdates.label "Pozastavit aktualizace">
 <!ENTITY folderContextPauseUpdates.accesskey "a">
@@ -871,7 +875,7 @@
   -->
 <!ENTITY quickSearchCmd.key "k">
 <!-- LOCALIZATION NOTE (search.label.base1):
-      This is the base of the empty text for the global search box. We replace
+     This is the base of the empty text for the global search box. We replace
      #1 with the contents of the appropriate search.keyLabel.* value for the
      platform.
      The goal is to convey to the user that typing in the box will allow them
