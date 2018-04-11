@@ -37,11 +37,13 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "நாங்கள் உங்களுக்கு தேர்வுகளை வழங்க உறுதிபூண்டுள்ளோம் மேலும் அனைவருக்கும் &brandShortName; வழங்க மற்றும் மேம்படுத்த தேவையானதை மட்டும் சேகரிக்கிறோம். நாங்கள் தனிப்பட்ட தகவல்களைப் பெறும் முன் எப்போதும் அனுமதி கேட்கிறோம்.">
 <!ENTITY dataCollectionPrivacyNotice.label    "தனியுரிமை அறிக்கை">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "மொசில்லாவிற்கு நொறுக்கல் அறிக்கைகளை அனுப்ப&brandShortName; அனுமதிக்கவும்">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+
 <!ENTITY collectBrowserErrors.accesskey      "b">
 <!ENTITY collectBrowserErrorsLearnMore.label "மேலும் அறிய">
 
-<!ENTITY alwaysSubmitCrashReports1.label  "மொசில்லாவிற்கு நொறுக்கல் அறிக்கைகளை அனுப்ப&brandShortName; அனுமதிக்கவும்">
-<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+<!ENTITY sendBackloggedCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "மேலும் அறிய">
 
 <!ENTITY networkTab.label                "பிணையம்">
@@ -49,8 +51,6 @@ available. -->
 <!ENTITY networkProxy.label              "வலைப்பின்னல் பதிலாள்">
 
 <!ENTITY connectionDesc.label            "எவ்வாறு &brandShortName; இணையத்துடன் இணைக்கப்பட்டுள்ளது என கட்டமைக்கவும்">
-
-<!ENTITY connectionSettingsLearnMore.label "மேலும் அறிய">
 <!ENTITY connectionSettings.label        "அமைவுகள்…">
 <!ENTITY connectionSettings.accesskey    "e">
 
@@ -62,6 +62,11 @@ available. -->
 <!ENTITY clearSiteData.accesskey         "l">
 <!ENTITY siteDataSettings.label          "அமைவுகள்…">
 <!ENTITY siteDataSettings.accesskey      "i">
+<!ENTITY siteData1.label                 "நினைவிகள் மற்றும் தள தரவு">
+<!ENTITY clearSiteData1.label            "தரவினை அழி…">
+<!ENTITY clearSiteData1.accesskey        "l">
+<!ENTITY siteDataSettings1.label         "தரவை நிர்வகி…">
+<!ENTITY siteDataSettings1.accesskey     "M">
 <!ENTITY siteDataLearnMoreLink.label     "மேலும் அறிய">
 
 <!-- LOCALIZATION NOTE:

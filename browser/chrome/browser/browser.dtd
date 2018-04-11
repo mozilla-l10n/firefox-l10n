@@ -61,6 +61,7 @@ can reach it easily. -->
 <!ENTITY  closeTab.label                     "கீற்றை மூடு">
 <!ENTITY  closeTab.accesskey                 "C">
 
+
 <!ENTITY  listAllTabs.label      "அனைத்து கீற்றுகளையும் பட்டியலிடு">
 
 <!ENTITY tabCmd.label "புதிய கீற்று">
@@ -219,6 +220,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "நிரந்தர சேமிப்பகத்தில் தரவை வை">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "தொலை கட்டுப்பாட்டில் உலாவி">
 
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "தளத்துடன் உங்கள் படக்கருவி மேலும்/அல்லது ஒலிவாங்கியை பகிர்வதை நிர்வகி">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "தளத்துடன் உங்கள் ஒலிவாங்கியை பகிர்வதை நிர்வகி">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "உங்கள் விண்டோஸ் அல்லது திரையை தளத்துடன் பகிர்வதை நிர்வகி">
@@ -261,7 +263,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addBookmarksMenu.label             "புத்தகக்குறி பட்டியைக் கருவிப்பட்டையில் சேர்க்கவும்">
 <!ENTITY removeBookmarksMenu.label          "கருவிப்பட்டையிலிருந்து புத்தகக்குறிகள் பட்டியை நீக்கவும்">
 
-<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 <!ENTITY bookmarksGtkCmd.commandkey "o">
@@ -378,7 +380,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "மற்ற கருவிகளிலிருந்து கீற்றுகளின் பட்டியலைக் காண கீற்று ஒத்திசைவை இயக்கு.">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "மற்ற கருவிகளிலிருந்து உங்கள் கீற்றுகளை இங்குப் பார்க்க விருப்பமா?">
@@ -974,11 +976,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName; உலாவியை புதுப்பிக்க மீள்துவக்கு">
 
+
 <!ENTITY newTabControlled.header.message "உங்களது புதிய கீற்று மாறிவிட்டது.">
 <!ENTITY newTabControlled.keepButton.label "மாற்றங்களை வைத்திரு">
 <!ENTITY newTabControlled.keepButton.accesskey "K">
 <!ENTITY newTabControlled.restoreButton.label "மீட்டமைப்பு அமைவுகள்">
 <!ENTITY newTabControlled.restoreButton.accesskey "R">
+
+<!ENTITY newTabControlled.disableButton.label "துணைநிரலை முடக்கவும்">
+<!ENTITY newTabControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "பக்க செயல்கள்">
 <!ENTITY pageAction.addToUrlbar.label "முகவரி பட்டையில் சேர்">
