@@ -60,9 +60,6 @@
 <!ENTITY  permissionsFor        "صلاحيات:">
 <!ENTITY  permPlugins           "تفعيل الملحقات">
 
-<!ENTITY  permClearStorage           "امسح المخزون">
-<!ENTITY  permClearStorage.accesskey "ح">
-
 <!ENTITY  securityTab           "السريّة">
 <!ENTITY  securityTab.accesskey "س">
 <!ENTITY  securityView.certView "اعرض الشهادة">
@@ -81,6 +78,9 @@
 <!ENTITY  securityView.privacy.cookies                  "هل يحفظ هذا الموقع معلومات (كعكات) على حاسوبي؟">
 <!ENTITY  securityView.privacy.viewCookies              "اعرض الكعكات">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "ع">
+<!ENTITY  securityView.privacy.siteData                 "هل يحفظ هذا الموقع معلومات على حاسوبي؟">
+<!ENTITY  securityView.privacy.clearSiteData            "امسح الكعكات و بيانات المواقع">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "س">
 <!ENTITY  securityView.privacy.passwords                "هل حفظتُ أي كلمات سر لهذا الموقع؟">
 <!ENTITY  securityView.privacy.viewPasswords            "اعرض كلمات السر المحفوظة">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "ك">
