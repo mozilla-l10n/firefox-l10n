@@ -9,6 +9,7 @@
 <!ENTITY iconsAndText.label       "Ikony a text">
 <!ENTITY icons.label              "Ikony">
 <!ENTITY text.label               "Text">
+<!ENTITY iconsBesideText.label    "Ikony vedle textu">
 <!ENTITY useSmallIcons.label      "Použít malé ikony">
 <!ENTITY restoreDefaultSet.label  "Obnovit výchozí sadu">
 <!ENTITY addNewToolbar.label      "Přidat novou lištu">
