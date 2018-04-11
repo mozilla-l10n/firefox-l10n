@@ -21,7 +21,7 @@ their language. -->
 <!ENTITY searchreset.beforelink.pageInfo2 "Ti peu cangiâ ste inpostaçioin quande t'eu da-a ">
 <!ENTITY searchreset.afterlink.pageInfo2  ".">
 
-<!ENTITY searchreset.link.pageInfo2       "Pagina de inpostaçioin">
+<!ENTITY searchreset.link.pageInfo2       "Pagina inpostaçioin">
 
 <!ENTITY searchreset.noChangeButton        "No cangiâ">
 <!ENTITY searchreset.noChangeButton.access "N">
