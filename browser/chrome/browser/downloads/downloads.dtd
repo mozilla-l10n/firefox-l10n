@@ -66,7 +66,7 @@
 <!ENTITY cmd.removeFromHistory.accesskey  "S">
 <!ENTITY cmd.clearList2.label             "Ön baxış panelini təmizlə">
 <!ENTITY cmd.clearList2.accesskey         "a">
-<!ENTITY cmd.clearDownloads.label         "Yüklənənləri təmizlə">
+<!ENTITY cmd.clearDownloads.label         "Endirmələri Təmizlə">
 <!ENTITY cmd.clearDownloads.accesskey     "t">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
      This command is shown in the context menu when downloads are blocked.
@@ -77,13 +77,13 @@
      This is the tooltip of the action button shown when malware is blocked.
      -->
 <!ENTITY cmd.removeFile.label             "Faylı sil">
-<!-- LOCALIZATION NOTE (cmd.chooseUnblock.tooltip):
+<!-- LOCALIZATION NOTE (cmd.chooseUnblock.label):
      This is the tooltip of the action button shown when potentially unwanted
      downloads are blocked. This opens a dialog where the user can choose
      whether to unblock or remove the download. Removing is the default option.
      -->
 <!ENTITY cmd.chooseUnblock.label          "Faylı sil və ya Endirməyə icazə ver">
-<!-- LOCALIZATION NOTE (cmd.chooseOpen.tooltip):
+<!-- LOCALIZATION NOTE (cmd.chooseOpen.label):
      This is the tooltip of the action button shown when uncommon downloads are
      blocked.This opens a dialog where the user can choose whether to open the
      file or remove the download. Opening is the default option.
@@ -147,7 +147,7 @@
      -->
 <!ENTITY openDownloadsFolder.label        "Endirmələr Qovluğunu Aç">
 
-<!ENTITY clearDownloadsButton.label       "Yüklənənləri təmizlə">
+<!ENTITY clearDownloadsButton.label       "Endirmələri Təmizlə">
 <!ENTITY clearDownloadsButton.tooltip     "Tamamlanan, ləğv edilən və uğursuz olan endirmələr təmizləyir">
 
 <!-- LOCALIZATION NOTE (downloadsListEmpty.label):
