@@ -98,10 +98,10 @@
 
 <!ENTITY forwardButton.tooltip  "გადასვლა წინ">
 
-<!ENTITY detailsPane.more.label "მეტი">
-<!ENTITY detailsPane.more.accesskey "ტ">
-<!ENTITY detailsPane.less.label "ნაკლები">
-<!ENTITY detailsPane.less.accesskey "ნ">
+<!ENTITY detailsPane.more.label "ვრცლად">
+<!ENTITY detailsPane.more.accesskey "ვ">
+<!ENTITY detailsPane.less.label "შემოკლებულად">
+<!ENTITY detailsPane.less.accesskey "ე">
 <!ENTITY detailsPane.selectAnItemText.description "შეარჩიეთ ელემენტი მისი პარამეტრების სანახავად და ჩასასწორებლად">
 
 <!ENTITY view.label               "ხედი">
