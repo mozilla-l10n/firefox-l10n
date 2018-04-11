@@ -45,6 +45,9 @@ policies-notice =
 pane-general-title = பொது
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = முகப்பு
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = தேடு
 category-search =
     .tooltiptext = { pane-search-title }
@@ -286,9 +289,20 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = புதிய சாளரங்களும் கீற்றுகளும்
+home-new-windows-tabs-description2 = முகப்புப்பக்கம், புதிய சாளங்கள், கீற்றுகளைத் திறக்கும்போது எவற்றைப் பார்க்கிறீர்கள் என்று  தேர்ந்தெடுங்கள்.
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = முகப்புப்பக்கம் மற்றும் புதிய சாளரங்கள்
+home-newtabs-mode-label = புதிய கீற்றுகள்
+home-restore-defaults =
+    .label = முன்னிருப்புக்கு மீட்டமை
+    .accesskey = R
+home-mode-choice-blank =
+    .label = வெற்றுப் பக்கம்
+home-homepage-custom-url =
+    .placeholder = URL ஐ ஒட்டு...
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -381,6 +395,9 @@ sync-signedin-login-failure = தயவுச்செய்து மீண்�
 sync-resend-verification =
     .label = சரிபார்த்தலை மீண்டும் அனுப்பு
     .accesskey = d
+sync-remove-account =
+    .label = கணக்கை அகற்று
+    .accesskey = R
 sync-sign-in =
     .label = புகுபதிகை
     .accesskey = g
@@ -469,18 +486,30 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = அமைவுகள்…
     .accesskey = t
+history-clear-button =
+    .label = வரலாற்றைத் துடை
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
+sitedata-header = நினைவிகள் மற்றும் தள தரவு
 sitedata-learn-more = மேலும் அறிய
-sitedata-keep-until = அதுவரை வைத்திரு
+sitedata-keep-until = அதுவரையில் வைத்திரு
     .accesskey = u
+sitedata-keep-until-expire =
+    .label = அவை காலாவதியாகிறது
 sitedata-accept-third-party-always-option =
     .label = எப்போதும்
 sitedata-accept-third-party-visited-option =
     .label = பார்வையிட்டதிலிருந்து
 sitedata-accept-third-party-never-option =
     .label = ஒரு போதும் இல்லை
+sitedata-clear =
+    .label = தரவினை அழி
+    .accesskey = l
+sitedata-settings =
+    .label = தரவை நிர்வகி
+    .accesskey = M
 sitedata-cookies-exceptions =
     .label = விதிவிலக்குகள்...
     .accesskey = E
