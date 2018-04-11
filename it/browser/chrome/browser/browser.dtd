@@ -213,6 +213,7 @@
 <!ENTITY webDeveloperMenu.accesskey "v">
 <!ENTITY inspectContextMenu.label "Analizza elemento">
 <!ENTITY inspectContextMenu.accesskey "l">
+<!ENTITY inspectA11YContextMenu.label "Analizza proprietà accessibilità">
 <!ENTITY fileMenu.label "File">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY newUserContext.label "Nuova scheda contenitore">
