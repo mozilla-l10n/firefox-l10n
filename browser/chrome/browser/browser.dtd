@@ -61,6 +61,8 @@ can reach it easily. -->
 <!ENTITY  closeTab.label                     "Stäng flik">
 <!ENTITY  closeTab.accesskey                 "S">
 
+<!ENTITY  hiddenTabs.label                   "Dolda flikar">
+
 <!ENTITY  listAllTabs.label      "Visa upp alla flikar">
 
 <!ENTITY tabCmd.label "Ny flik">
@@ -222,6 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Lagra data i beständig lagring">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Webbläsaren är fjärrstyrd">
 
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Hantera delning av din kamera och/eller mikrofon med webbplatsen">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Hantera delning av din mikrofon med webbplatsen">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Hantera delning av dina fönster eller skärm med webbplatsen">
@@ -268,7 +271,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addBookmarksMenu.label             "Lägg till bokmärkesmeny till verktygsfältet">
 <!ENTITY removeBookmarksMenu.label          "Ta bort bokmärkesmeny från verktygsfältet">
 
-<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 <!ENTITY bookmarksGtkCmd.commandkey "o">
@@ -385,7 +388,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Slå på fliksynkronisering för att visa en lista med flikar från dina andra enheter.">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Vill du se dina flikar från andra enheter här?">
