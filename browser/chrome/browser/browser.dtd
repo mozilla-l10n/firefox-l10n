@@ -402,7 +402,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.sidebar.label "Переглянути бічну панель синхронізованих вкладок">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Під'єднати інший пристрій">
 
-<!ENTITY appMenuRecentHighlights.label "Останнє обране">
+<!ENTITY appMenuRecentHighlights.label "Останнє відібране">
 
 <!ENTITY customizeMenu.addToToolbar.label "Додати на панель">
 <!ENTITY customizeMenu.addToToolbar.accesskey "Д">
