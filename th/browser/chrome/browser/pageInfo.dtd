@@ -80,7 +80,7 @@
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "ด">
 <!ENTITY  securityView.privacy.siteData                 "เว็บไซต์นี้จัดเก็บข้อมูลลงในคอมพิวเตอร์ของฉันหรือไม่?">
 <!ENTITY  securityView.privacy.clearSiteData            "ล้างคุกกี้และข้อมูลไซต์">
-<!ENTITY  securityView.privacy.clearSiteData.accessKey  "ป">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "ล">
 <!ENTITY  securityView.privacy.passwords                "ฉันเคยบันทึกรหัสผ่านใด ๆ สำหรับเว็บไซต์นี้หรือไม่?">
 <!ENTITY  securityView.privacy.viewPasswords            "ดูรหัสผ่านที่บันทึกไว้">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "ร">
