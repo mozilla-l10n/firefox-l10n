@@ -44,6 +44,7 @@
 <!ENTITY  acceptThirdParty2.pre.label     "તૃતીય-પક્ષ કૂકીઝ સ્વીકારો">
 <!ENTITY  acceptThirdParty2.pre.accesskey "y">
 
+<!ENTITY  acceptCookies4.label          "વેબસાઇટ્સથી કૂકીઝ અને સાઇટ ડેટાને સ્વીકારો (ભલામણ કરેલ)">
 <!ENTITY  acceptCookies4.accesskey      "A">
 
 <!ENTITY  blockCookies.label            "કૂકીઝ અને સાઇટ ડેટાને અવરોધિત કરો (વેબસાઇટ્સને તોડી શકે છે)">
