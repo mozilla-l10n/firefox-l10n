@@ -81,7 +81,7 @@
 <!ENTITY  securityView.privacy.siteData                 "Bu site bilgisayarımda bilgi depoluyor mu?">
 <!ENTITY  securityView.privacy.clearSiteData            "Çerezleri ve site verilerini temizle">
 <!ENTITY  securityView.privacy.clearSiteData.accessKey  "t">
-<!ENTITY  securityView.privacy.passwords                "Bu siteye ait bir parola kaydettim mi?">
+<!ENTITY  securityView.privacy.passwords                "Bu siteye ait parola kaydettim mi?">
 <!ENTITY  securityView.privacy.viewPasswords            "Kayıtlı parolaları göster">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "K">
 
