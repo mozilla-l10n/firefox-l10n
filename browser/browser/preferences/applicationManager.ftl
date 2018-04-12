@@ -5,7 +5,13 @@
 app-manager-window =
     .title = Detaliile aplicației
     .style = width: 30em; min-height: 20em;
+app-manager-remove =
+    .label = Elimină
+    .accesskey = R
 app-manager-handle-webfeeds = Următoarele aplicații pot fi folosite pentru fișiere fluxuri web.
+# Variables:
+#   $type (String) - the URI scheme of the link (e.g. mailto:)
+app-manager-handle-protocol = Următoarele aplicații pot fi folosite pentru fișiere Linkuri { $type }.
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Următoarele aplicații pot fi folosite pentru fișiere conținut { $type }.
