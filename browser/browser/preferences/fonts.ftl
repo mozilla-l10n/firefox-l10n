@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = Fonturi pentru
+    .accesskey = F
 fonts-langgroup-arabic =
     .label = Arabă
 fonts-langgroup-armenian =
@@ -102,6 +104,8 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Codare de text pentru conținut moștenit
 fonts-languages-fallback-desc = Această codare de text este folosită pentru conținutul moștenit care nu reușește să declare codificarea sa.
+fonts-languages-fallback-label = Codare de rezervă pentru text
+    .accesskey = T
 fonts-languages-fallback-name-auto =
     .label = Implicită pentru limba actuală
 fonts-languages-fallback-name-arabic =
