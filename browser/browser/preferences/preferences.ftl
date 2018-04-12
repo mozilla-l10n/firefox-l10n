@@ -488,6 +488,9 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Nizamlar…
     .accesskey = a
+history-clear-button =
+    .label = Tarixçəni Təmizlə…
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
@@ -603,7 +606,13 @@ collection-health-report-link = Ətraflı
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Bu quraşdırmanın konfiqurasiyasında məlumat xəbərdarlığı söndürülüb
+collection-browser-errors =
+    .label = { -brand-short-name } səyyahına xəta hesabatlarını (xəta mesajları da daxil olmaqla) { -vendor-short-name }ya göndərməsinə icazə ver
+    .accesskey = b
 collection-browser-errors-link = Ətraflı öyrən
+collection-backlogged-crash-reports =
+    .label = { -brand-short-name } səyyahına sizin adınıza yığılmış çəkmə hesabatlarını göndərməyə icazə ver
+    .accesskey = c
 collection-backlogged-crash-reports-link = Daha Ətraflı
 
 ## Privacy Section - Security
