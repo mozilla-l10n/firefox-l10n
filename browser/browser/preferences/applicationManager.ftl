@@ -8,6 +8,9 @@ app-manager-window =
 app-manager-remove =
     .label = Remover
     .accesskey = R
+# Variables:
+#   $type (String) - the MIME type (e.g. application/binary)
+app-manager-handle-file = As aplicações seguintes podem ser utilizadas para gerir Conteúdo { $type }.
 
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.
