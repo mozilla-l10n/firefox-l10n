@@ -5,3 +5,4 @@
 select-bookmark-window =
     .title = 設為首頁
     .style = width: 32em;
+select-bookmark-desc = 請選擇要設為首頁的書籤，如果您選了一個資料夾，那其中的書籤會用分頁同時開啟。
