@@ -8,6 +8,13 @@ app-manager-window =
 app-manager-remove =
     .label = Suprimeix
     .accesskey = r
+app-manager-handle-webfeeds = Les aplicacions següents poden utilitzar-se per gestionar canals web.
+# Variables:
+#   $type (String) - the URI scheme of the link (e.g. mailto:)
+app-manager-handle-protocol = Les aplicacions següents poden utilitzar-se per gestionar enllaços { $type }.
+# Variables:
+#   $type (String) - the MIME type (e.g. application/binary)
+app-manager-handle-file = Les aplicacions següents poden utilitzar-se per gestionar contingut { $type }.
 
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.
