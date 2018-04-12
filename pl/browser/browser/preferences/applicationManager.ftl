@@ -5,6 +5,9 @@
 app-manager-window =
     .title = Szczegóły aplikacji
     .style = width: 32em; min-height: 20em;
+app-manager-remove =
+    .label = Usuń
+    .accesskey = U
 app-manager-handle-webfeeds = Do obsługi kanałów informacyjnych można użyć następujących aplikacji:
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
