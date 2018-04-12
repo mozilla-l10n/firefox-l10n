@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-arabic =
+    .label = عربی
 fonts-langgroup-armenian =
     .label = آرمینیائی
 fonts-langgroup-bengali =
@@ -19,32 +21,53 @@ fonts-langgroup-trad-chinese-hk =
     .label = روایتی چینی (ہانگ کانگ)
 fonts-langgroup-trad-chinese =
     .label = روایتی چینی (تائیوان)
+fonts-langgroup-cyrillic =
+    .label = سیریلک
 fonts-langgroup-devanagari =
     .label = دیوناگری
 fonts-langgroup-ethiopic =
     .label = اتھوپیائی
 fonts-langgroup-georgian =
     .label = جارجیائی
+fonts-langgroup-el =
+    .label = یونانی
 fonts-langgroup-gujarati =
     .label = گجراتی
 fonts-langgroup-gurmukhi =
     .label = گورمکھی
+fonts-langgroup-japanese =
+    .label = جاپانی
+fonts-langgroup-hebrew =
+    .label = عبرانی
 fonts-langgroup-kannada =
     .label = کاناڈا
 fonts-langgroup-khmer =
     .label = خمیر
+fonts-langgroup-korean =
+    .label = کوریائی
+# Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+fonts-langgroup-latin =
+    .label = لاطینی
 fonts-langgroup-malayalam =
     .label = ملیالم
+fonts-langgroup-math =
+    .label = ریاضی
+fonts-langgroup-odia =
+    .label = Odia
 fonts-langgroup-sinhala =
     .label = سنہالہ
 fonts-langgroup-tamil =
     .label = تامل
 fonts-langgroup-telugu =
     .label = تلگو
+fonts-langgroup-thai =
+    .label = تھائی
 fonts-langgroup-tibetan =
     .label = تبتى
 fonts-langgroup-canadian =
     .label = متحد کنیڈین صوتیاتی نظام
+fonts-langgroup-other =
+    .label = دیگرتحریر کرنے کے نظام
 
 ## Default fonts and their sizes
 
@@ -54,13 +77,46 @@ fonts-default-sans-serif =
     .label = سینس سیرف
 fonts-minsize-none =
     .label = کوئی نہیں
+fonts-allow-own =
+    .label = آپکے اوپر انتخاب بجائے، صفحات کو اپنے خود کے فونٹ چننے دے
+    .accesskey = ص
 
 ## Text Encodings
 ##
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-header = ورثہ مواد کے لیے متن کی ضابطہ بندی
+fonts-languages-fallback-desc = یہ کریکٹر ضابطہ بندی اس ورثہ مواد کے لیے استعمال کی جاتی ہے جو اپنی ضابطہ بندی نہیں بتاتا۔
+fonts-languages-fallback-name-auto =
+    .label = موجودہ محل وقوع کے لیے طےشدہ
+fonts-languages-fallback-name-arabic =
+    .label = عربی
+fonts-languages-fallback-name-baltic =
+    .label = شمالی یورپی
+fonts-languages-fallback-name-ceiso =
+    .label = وسطی یورپ، ISO
+fonts-languages-fallback-name-cewindows =
+    .label = وسطی یورپی، Microsoft
+fonts-languages-fallback-name-simplified =
+    .label = چینی، آسان کردہ
 fonts-languages-fallback-name-traditional =
     .label = چینی، روایتی
+fonts-languages-fallback-name-cyrillic =
+    .label = سیریلک
+fonts-languages-fallback-name-greek =
+    .label = یونانی
+fonts-languages-fallback-name-hebrew =
+    .label = عبرانی
+fonts-languages-fallback-name-japanese =
+    .label = جاپانی
+fonts-languages-fallback-name-korean =
+    .label = کوریائی
+fonts-languages-fallback-name-thai =
+    .label = تھائی
+fonts-languages-fallback-name-turkish =
+    .label = ترکی
 fonts-languages-fallback-name-vietnamese =
     .label = Vietnamese
+fonts-languages-fallback-name-other =
+    .label = دیگر (بشمول مغربی یورپی)
