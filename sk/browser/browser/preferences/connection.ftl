@@ -2,8 +2,18 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+connection-window =
+    .title = Nastavenie pripojenia
+    .style =
+        { PLATFORM() ->
+            [macos] width: 44em
+           *[other] width: 49em
+        }
 connection-close-key =
     .key = w
+connection-disable-extension =
+    .label = Zakázať rozšírenie
+connection-proxy-configure = Nastavenie servera proxy pre prístup k internetu
 connection-proxy-option-no =
     .label = Nepoužívať server proxy
     .accesskey = e
@@ -13,15 +23,47 @@ connection-proxy-option-system =
 connection-proxy-option-auto =
     .label = Automatická detekcia nastavení tejto siete
     .accesskey = d
+connection-proxy-option-manual =
+    .label = Ručné nastavenie serverov proxy
+    .accesskey = n
+connection-proxy-http = Server proxy HTTP
+    .accesskey = x
+connection-proxy-http-port = Port
+    .accesskey = t
 connection-proxy-http-share =
     .label = Použiť tento server proxy pre všetky protokoly
     .accesskey = x
+connection-proxy-ssl = Server proxy SSL
+    .accesskey = L
+connection-proxy-ssl-port = Port
+    .accesskey = o
+connection-proxy-ftp = Server proxy pre FTP
+    .accesskey = F
+connection-proxy-ftp-port = Port
+    .accesskey = r
+connection-proxy-socks = Server SOCKS
+    .accesskey = C
+connection-proxy-socks-port = Port
+    .accesskey = t
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = K
 connection-proxy-socks5 =
     .label = SOCKS v5
     .accesskey = v
+connection-proxy-noproxy = Nepoužívať proxy pre
+    .accesskey = N
+connection-proxy-noproxy-desc = Príklad: .mozilla.org, .net.nz, 192.168.1.0/24
+connection-proxy-autotype =
+    .label = Adresa URL pre automatické nastavenie serverov proxy
+    .accesskey = A
 connection-proxy-reload =
     .label = Obnoviť
     .accesskey = b
+connection-proxy-autologin =
+    .label = Nevyžadovať autorizáciu, ak je heslo uložené
+    .accesskey = z
+    .tooltip = Vďaka tejto možnosti sa prehliadač automaticky autorizuje na serveri proxy, ak má preň uložené prihlasovanie údaje. Ak autorizácia zlyhá, prehliadač o údaje požiada.
+connection-proxy-socks-remote-dns =
+    .label = Použiť server proxy pre DNS pri použití SOCKS v5
+    .accesskey = u
