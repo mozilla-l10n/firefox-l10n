@@ -15,6 +15,9 @@ site-data-column-storage =
 site-data-remove-selected =
     .label = أزل المحدد
     .accesskey = م
+site-data-button-cancel =
+    .label = ألغِ
+    .accesskey = ل
 site-data-button-save =
     .label = احفظ التغييرات
     .accesskey = ظ
@@ -23,3 +26,5 @@ site-data-button-save =
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-header = إزالة الكعكات و بيانات المواقع
+site-data-removing-table = ستُزال الكعكات و بيانات المواقع للمواقع الآتية
