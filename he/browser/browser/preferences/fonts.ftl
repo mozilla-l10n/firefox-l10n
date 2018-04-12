@@ -50,6 +50,8 @@ fonts-langgroup-latin =
     .label = לטינית
 fonts-langgroup-malayalam =
     .label = מליאלאם
+fonts-langgroup-math =
+    .label = מתמטיקה
 fonts-langgroup-sinhala =
     .label = סינהאלית
 fonts-langgroup-tamil =
@@ -62,6 +64,8 @@ fonts-langgroup-tibetan =
     .label = טיבטית
 fonts-langgroup-canadian =
     .label = כתב הברתי קנדי מאוחד
+fonts-langgroup-other =
+    .label = מערכות כתיבה אחרות
 
 ## Default fonts and their sizes
 
@@ -77,10 +81,14 @@ fonts-minsize-none =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-header = קידוד טקסט לתוכן ישן
+fonts-languages-fallback-desc = קידוד טקסט זה מיועד עבור תוכן ישן שלא הוגדר עבורו קידוד.
 fonts-languages-fallback-name-auto =
     .label = בררת מחדל לשפה הנוכחית
 fonts-languages-fallback-name-arabic =
     .label = ערבית
+fonts-languages-fallback-name-baltic =
+    .label = באלטי
 fonts-languages-fallback-name-ceiso =
     .label = מרכז אירופית, ISO
 fonts-languages-fallback-name-cewindows =
@@ -101,6 +109,8 @@ fonts-languages-fallback-name-korean =
     .label = קוראנית
 fonts-languages-fallback-name-thai =
     .label = תאילנדית
+fonts-languages-fallback-name-turkish =
+    .label = טורקית
 fonts-languages-fallback-name-vietnamese =
     .label = וייטנאמית
 fonts-languages-fallback-name-other =
