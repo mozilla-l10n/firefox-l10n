@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = என்பதற்கான எழுத்துருக்கள்
+    .accesskey = F
 fonts-langgroup-arabic =
     .label = அரபு
 fonts-langgroup-armenian =
@@ -71,10 +73,24 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = விகிதமாக
+    .accesskey = P
 fonts-default-serif =
     .label = ஷெரிஃப்
 fonts-default-sans-serif =
     .label = ஸான்ஸ் ஷெரிஃப்
+fonts-proportional-size = அளவு
+    .accesskey = z
+fonts-serif = ஷெரிஃப்
+    .accesskey = S
+fonts-sans-serif = ஸான்ஸ்-ஷெரிஃப்
+    .accesskey = n
+fonts-monospace = மோனோஸ்பேஸ்
+    .accesskey = M
+fonts-monospace-size = அளவு
+    .accesskey = e
+fonts-minsize = குறைந்தபட்ச எழுத்துருவின் அளவு
+    .accesskey = o
 fonts-minsize-none =
     .label = ஒன்றுமில்லை
 fonts-allow-own =
@@ -88,6 +104,8 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = பழமையான உள்ளடக்கத்திற்கான உரை குறியீடாக்கம்
 fonts-languages-fallback-desc = தனது குறியீடாக்கத்தை அறிவிக்காத பழமையான உள்ளடக்கத்திற்கு இந்த உரை குறியீடாக்கம் பயன்படுத்தப்படும்.
+fonts-languages-fallback-label = பின்சார்பு உரை குறிமுறை
+    .accesskey = T
 fonts-languages-fallback-name-auto =
     .label = தற்பொதைய மொழிக்கு முன்னிருப்பு
 fonts-languages-fallback-name-arabic =
