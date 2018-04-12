@@ -11,6 +11,12 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override-option-always =
+    .label = ជានិច្ចកាល
+colors-page-override-option-auto =
+    .label = បាន​តែ​ជាមួយ​រចនាប័ទ្ម​​ដែល​មាន​កម្រិត​ពណ៌​ខ្លាំង
+colors-page-override-option-never =
+    .label = កុំ​ឲ្យសោះ
 colors-text-and-background = អត្ថបទ និង​ផ្ទៃខាងក្រោយ
 colors-use-system =
     .label = ​ប្រើពណ៌​របស់​ប្រព័ន្ធ
