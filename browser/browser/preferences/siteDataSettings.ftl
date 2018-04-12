@@ -16,6 +16,9 @@ site-data-column-last-used =
 site-data-button-cancel =
     .label = Batal
     .accesskey = B
+site-data-button-save =
+    .label = Simpan Perubahan
+    .accesskey = a
 
 ## Removing
 
