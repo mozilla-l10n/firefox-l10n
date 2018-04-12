@@ -65,8 +65,8 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.ignoreCaughtExceptions): This is the label for the
   -  checkbox that toggles ignoring caught exceptions. -->
-<!ENTITY debuggerUI.ignoreCaughtExceptions           "ละเว้นข้อยกเว้นที่จับ">
-<!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "ล">
+<!ENTITY debuggerUI.ignoreCaughtExceptions           "ไม่สนใจข้อยกเว้นที่จับ">
+<!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "ม">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
