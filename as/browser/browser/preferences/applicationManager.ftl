@@ -12,7 +12,12 @@ app-manager-handle-webfeeds = ৱেব ফীড ৰ পৰিচালনা�
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = { $type } সংযোগ ৰ পৰিচালনাৰ বাবে নিম্নলিখিত এপ্লিকেচন ব্যৱহাৰ কৰা হ'ব।
+# Variables:
+#   $type (String) - the MIME type (e.g. application/binary)
+app-manager-handle-file = { $type } সমল ৰ পৰিচালনাৰ বাবে নিম্নলিখিত এপ্লিকেচন ব্যৱহাৰ কৰা হ'ব।
 
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.
 
+app-manager-web-app-info = এই ৱেব এপ্লিকেচন চিহ্নিত স্থানত হস্টেড আছে:
+app-manager-local-app-info = এই এপ্লিকেচন চিহ্নিত স্থানত অৱস্থিত আছে:
