@@ -4,3 +4,7 @@
 
 connection-close-key =
     .key = w
+connection-proxy-socks5 =
+    .label = सॉक्स(SOCKS) v5
+    .accesskey = v
+connection-proxy-noproxy-desc = उदाहरणार्थ: .mozilla.org, .net.nz, 192.168.1.0/24
