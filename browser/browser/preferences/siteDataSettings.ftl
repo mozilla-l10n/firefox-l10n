@@ -5,6 +5,9 @@
 
 ## Settings
 
+site-data-search-textbox =
+    .placeholder = Søg efter websteder
+    .accesskey = S
 site-data-column-host =
     .label = Websted
 site-data-column-storage =
@@ -12,6 +15,9 @@ site-data-column-storage =
 site-data-remove-selected =
     .label = Fjern det valgte
     .accesskey = f
+site-data-button-cancel =
+    .label = Fortryd
+    .accesskey = o
 site-data-button-save =
     .label = Gem ændringer
     .accesskey = e
