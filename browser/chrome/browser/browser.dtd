@@ -304,6 +304,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "ელემენტზე დაკვირვება">
 <!ENTITY inspectContextMenu.accesskey "ტ">
 
+<!ENTITY inspectA11YContextMenu.label     "დამხმარე საშუალებების გამოკვლევა">
+
 <!ENTITY fileMenu.label         "ფაილი">
 <!ENTITY fileMenu.accesskey       "ფ">
 <!ENTITY newUserContext.label             "ახალი სათავსი ჩანართი">
