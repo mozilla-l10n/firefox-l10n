@@ -277,7 +277,6 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = ਨਵੀਆਂ ਵਿੰਡੋਆਂ ਅਤੇ ਟੈਬਾਂ
-home-new-windows-tabs-description = ਚੁਣੋ ਕਿ ਤੁਸੀਂ ਆਪਣੀ ਮੁੱਖ ਸਕਰੀਨ-ਸਫ਼ੇ, ਨਵੀਆਂ ਵਿੰਡੋਆਂ, ਅਤੇ ਨਵੀਆਂ ਟੈਬਾਂ ਖੋਲ੍ਹਣ ਸਮੇਂ ਕੀ ਵੇਖਣਾ ਚਾਹੁੰਦੇ ਹੋ
 
 ## Home Section - Home Page Customization
 
