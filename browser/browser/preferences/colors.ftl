@@ -11,6 +11,12 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override-option-always =
+    .label = Sempre
+colors-page-override-option-auto =
+    .label = Només amb temes de contrast alt
+colors-page-override-option-never =
+    .label = Mai
 colors-text-and-background = Text i fons
 colors-use-system =
     .label = Utilitza els colors del sistema
