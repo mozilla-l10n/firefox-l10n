@@ -11,6 +11,8 @@ fonts-window-close =
 
 fonts-langgroup-arabic =
     .label = আরবি
+fonts-langgroup-armenian =
+    .label = আর্মেনীয়
 fonts-langgroup-bengali =
     .label = বাংলা
 fonts-langgroup-simpl-chinese =
@@ -69,10 +71,24 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = আনুপাতিক
+    .accesskey = P
 fonts-default-serif =
     .label = সেরিফ
 fonts-default-sans-serif =
     .label = সাণ্স শেরিফ
+fonts-proportional-size = আকার
+    .accesskey = z
+fonts-serif = সেরিফ
+    .accesskey = S
+fonts-sans-serif = সান্স-সেরিফ
+    .accesskey = n
+fonts-monospace = মনোস্পেস
+    .accesskey = M
+fonts-monospace-size = আকার
+    .accesskey = e
+fonts-minsize = ফন্টের সর্বনিম্ন আকার
+    .accesskey = o
 fonts-minsize-none =
     .label = কোনটি নয়
 fonts-allow-own =
@@ -85,6 +101,11 @@ fonts-allow-own =
 ## of the language.
 
 fonts-languages-fallback-header = লিগ্যাসি কন্টেটের জন্য ক্যারেক্টার এনকোডিং
+fonts-languages-fallback-desc = এই অক্ষরের এনকোডিং ব্যবহৃত হয়েছে লিগ্যাসি কন্টেন্টর জন্য যা এর এনকোডিং ডিক্লেয়ার করতে ব্যর্থ।
+fonts-languages-fallback-label = ফলব্যাক টেক্সট এনকোডিং
+    .accesskey = T
+fonts-languages-fallback-name-auto =
+    .label = বর্তমান লোকেলের জন্য ডিফল্ট
 fonts-languages-fallback-name-arabic =
     .label = আরবি
 fonts-languages-fallback-name-baltic =
