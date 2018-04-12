@@ -45,8 +45,15 @@ fonts-langgroup-khmer =
     .label = ខ្មែរ
 fonts-langgroup-korean =
     .label = កូរ៉េ
+# Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+fonts-langgroup-latin =
+    .label = ឡាតាំង
 fonts-langgroup-malayalam =
     .label = ម៉ាឡាយ៉ាឡាម
+fonts-langgroup-math =
+    .label = គណិត​វិទ្យា
+fonts-langgroup-odia =
+    .label = Odia
 fonts-langgroup-sinhala =
     .label = ស៊ីនហាឡា
 fonts-langgroup-tamil =
@@ -59,6 +66,8 @@ fonts-langgroup-tibetan =
     .label = ទីបេ
 fonts-langgroup-canadian =
     .label = តារាង​តួអក្សរ​កាណាដា​​រួបរួម
+fonts-langgroup-other =
+    .label = ប្រព័ន្ធ​សរសេរ​ផ្សេងទៀត
 
 ## Default fonts and their sizes
 
@@ -74,10 +83,14 @@ fonts-minsize-none =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-header = ការ​អ៊ិនកូដ​​អត្ថបទ​សម្រាប់​មាតិកា​ចាស់ៗ
+fonts-languages-fallback-desc = ការ​អ៊ិនកូដ​​អត្ថបទ​នេះ​ ត្រូវ​បាន​ប្រើ​សម្រាប់​​មាតិកា​ចាស់ៗ​ ដែល​បរាជ័យ​ក្នុង​ប្រកាស​ការ​អ៊ិនកូដ។
 fonts-languages-fallback-name-auto =
     .label = លំនាំដើម​សម្រាប់​មូលដ្ឋាន​បច្ចុប្បន្ន
 fonts-languages-fallback-name-arabic =
     .label = អារ៉ាប់
+fonts-languages-fallback-name-baltic =
+    .label = បាល់ទិក
 fonts-languages-fallback-name-ceiso =
     .label = អឺរ៉ុប​កណ្ដាល ISO
 fonts-languages-fallback-name-cewindows =
@@ -98,6 +111,8 @@ fonts-languages-fallback-name-korean =
     .label = កូរ៉េ
 fonts-languages-fallback-name-thai =
     .label = ថៃ
+fonts-languages-fallback-name-turkish =
+    .label = តួកគី
 fonts-languages-fallback-name-vietnamese =
     .label = វៀតណាម
 fonts-languages-fallback-name-other =
