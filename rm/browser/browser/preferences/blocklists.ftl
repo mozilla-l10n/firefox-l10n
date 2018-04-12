@@ -5,6 +5,7 @@
 blocklist-window =
     .title = Glistas da bloccar
     .style = width: 50em
+blocklist-desc = Ti pos tscherner la glista che { -brand-short-name } duai duvrar per bloccar elements da web che fastizeschan tai cun navigar.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
