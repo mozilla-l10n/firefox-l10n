@@ -7,6 +7,7 @@ languages-window =
     .style = width: 30em
 languages-close-key =
     .key = w
+languages-description = Terkadang laman web ditawarkan dalam beberapa bahasa. Pilih bahasa untuk menampilkan laman web ini, urut sesuai kesukaan
 languages-customize-moveup =
     .label = Geser Atas
     .accesskey = A
