@@ -15,3 +15,6 @@ permissions-allow =
     .accesskey = A
 permissions-status =
     .label = दोसा{ " " }
+permissions-button-cancel =
+    .label = बा़डरा़  (C)
+    .accesskey = C
