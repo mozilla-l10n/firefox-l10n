@@ -34,3 +34,4 @@ site-data-removing-window =
     .title = { site-data-removing-header }
 site-data-removing-header = Suppression des cookies et des données de sites
 site-data-removing-desc = Supprimer les cookies et les données de sites peut vous déconnecter de ces sites web. Voulez-vous vraiment effectuer ces modifications ?
+site-data-removing-table = Les cookies et les données associés aux sites suivants seront supprimés
