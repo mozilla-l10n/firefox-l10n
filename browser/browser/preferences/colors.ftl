@@ -11,6 +11,8 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override = উপরে আপনার নির্বাচনের সাথে পেজের রঙ পুনঃস্থাপিত করুন
+    .accesskey = O
 colors-page-override-option-always =
     .label = সর্বদা
 colors-page-override-option-auto =
