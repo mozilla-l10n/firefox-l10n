@@ -183,7 +183,7 @@ sync-engine-history =
     .label = تٲریخ
     .accesskey = r
 sync-tos-link = خدمَتِق شرط
-sync-fxa-privacy-notice = پرایوسی نوٹِس{ " " }
+sync-fxa-privacy-notice = پرایوسی نوٹِس
 
 ## Privacy Section
 
@@ -265,7 +265,7 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Certificates
 
-certs-header = سرٹیفیکٹس{ " " }
+certs-header = سرٹیفیکٹس
 certs-enable-ocsp =
     .label = کیوری او سی ایس پی ریسپانڈر سْرور تصدیق کرنْہ باپت موجود ویلیڈیٹی سرٹیفیکٹن ہْنز
     .accesskey = ک
