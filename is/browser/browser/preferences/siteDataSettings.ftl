@@ -5,13 +5,19 @@
 
 ## Settings
 
+site-data-settings-window =
+    .title = Sýsla með smákökur og gögn vefsvæðis
 site-data-search-textbox =
     .placeholder = Leita á vefsvæðum
     .accesskey = s
 site-data-column-host =
     .label = Vefsvæði
+site-data-column-cookies =
+    .label = Smákökur
 site-data-column-storage =
     .label = Geymsla
+site-data-column-last-used =
+    .label = Síðast notað
 site-data-remove-selected =
     .label = Fjarlægja valið
     .accesskey = r
@@ -26,3 +32,4 @@ site-data-button-save =
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-header = Fjarlægja smákökur og gögn vefsvæðis
