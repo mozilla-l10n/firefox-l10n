@@ -4,3 +4,12 @@
 
 connection-close-key =
     .key = w
+connection-proxy-option-system =
+    .label = Použít nastavení proxy serverů v systému
+    .accesskey = u
+connection-proxy-socks4 =
+    .label = SOCKS v4
+    .accesskey = 4
+connection-proxy-socks5 =
+    .label = SOCKS v5
+    .accesskey = 5
