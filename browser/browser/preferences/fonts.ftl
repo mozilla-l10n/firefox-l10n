@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = వీటికొరకు ఫాంట్లు
+    .accesskey = F
 fonts-langgroup-arabic =
     .label = అరబిక్
 fonts-langgroup-armenian =
@@ -75,6 +77,10 @@ fonts-default-serif =
     .label = సెరీఫ్
 fonts-default-sans-serif =
     .label = సాన్స్ సెరీఫ్
+fonts-proportional-size = పరిమాణం
+    .accesskey = z
+fonts-monospace-size = పరిమాణం
+    .accesskey = e
 fonts-minsize-none =
     .label = ఏదీకాదు
 fonts-allow-own =
