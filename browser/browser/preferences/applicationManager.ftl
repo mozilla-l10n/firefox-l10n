@@ -2,7 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+app-manager-remove =
+    .label = Устгах
+    .accesskey = У
 app-manager-handle-webfeeds = Дараах програмууд Вэб мэдээнүүд-г нээхэд хэрэглэгдэнэ.
+# Variables:
+#   $type (String) - the URI scheme of the link (e.g. mailto:)
+app-manager-handle-protocol = Дараах програмууд { $type } холбоосууд-г нээхэд хэрэглэгдэнэ.
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Дараах програмууд { $type } бүтэц-г нээхэд хэрэглэгдэнэ.
