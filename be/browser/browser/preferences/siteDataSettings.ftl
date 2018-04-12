@@ -5,10 +5,22 @@
 
 ## Settings
 
+site-data-search-textbox =
+    .placeholder = Пошук вэб-сайтаў
+    .accesskey = П
 site-data-column-host =
     .label = Сайт
 site-data-column-storage =
     .label = Сховішча
+site-data-remove-selected =
+    .label = Выдаліць абранае
+    .accesskey = в
+site-data-button-cancel =
+    .label = Скасаваць
+    .accesskey = С
+site-data-button-save =
+    .label = Захаваць змены
+    .accesskey = а
 
 ## Removing
 
