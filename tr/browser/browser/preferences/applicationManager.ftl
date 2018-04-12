@@ -12,3 +12,4 @@ app-manager-handle-file = { $type } içeriği aşağıdaki uygulamalarla kullan�
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.
 
+app-manager-local-app-info = Bu uygulamanın bulunduğu konum:
