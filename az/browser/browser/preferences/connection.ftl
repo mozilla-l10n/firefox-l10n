@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+connection-window =
+    .title = Bağlantı seçimləri
+    .style =
+        { PLATFORM() ->
+            [macos] width: 44em
+           *[other] width: 49em
+        }
 connection-proxy-option-no =
     .label = Proksisiz
     .accesskey = s
@@ -24,3 +31,6 @@ connection-proxy-noproxy-desc = Məsələn: .mozilla.org, .net.nz, 192.168.1.0/2
 connection-proxy-reload =
     .label = Yenilə
     .accesskey = l
+connection-proxy-socks-remote-dns =
+    .label = SOCKS v5 işlədərkən Proksi DNS
+    .accesskey = d
