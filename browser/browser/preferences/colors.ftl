@@ -11,6 +11,12 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override-option-always =
+    .label = Միշտ
+colors-page-override-option-auto =
+    .label = Միայն Բարձր ցայտունության ձևավորումների համար
+colors-page-override-option-never =
+    .label = Երբեք
 colors-text-and-background = Տեքստ և Խորապատկեր
 colors-use-system =
     .label = Օգտագործել համակարգի գույները
