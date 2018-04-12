@@ -5,6 +5,8 @@
 permissions-window =
     .title = ခြွင်းချက်များ
     .style = width: 45em
+permissions-close-key =
+    .key = w
 permissions-block =
     .label = Bပိတ်ဆို့ပါ
     .accesskey = B
