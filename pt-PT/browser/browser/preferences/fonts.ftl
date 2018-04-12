@@ -4,6 +4,8 @@
 
 fonts-window =
     .title = Tipos de letra
+fonts-window-close =
+    .key = w
 
 ## Font groups by language
 
@@ -43,8 +45,17 @@ fonts-langgroup-khmer =
     .label = Cambodjano
 fonts-langgroup-korean =
     .label = Coreano
+# Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+fonts-langgroup-latin =
+    .label = Alfabeto romano
 fonts-langgroup-malayalam =
     .label = Malaio
+fonts-langgroup-math =
+    .label = Matemática
+fonts-langgroup-odia =
+    .label = Odia
+fonts-langgroup-sinhala =
+    .label = Cingalês
 fonts-langgroup-tamil =
     .label = Tamil
 fonts-langgroup-telugu =
@@ -53,6 +64,8 @@ fonts-langgroup-thai =
     .label = Tailandês
 fonts-langgroup-tibetan =
     .label = Tibetano
+fonts-langgroup-canadian =
+    .label = Silabário unificado canadiano
 fonts-langgroup-other =
     .label = Outros sistemas de escrita
 
@@ -60,12 +73,19 @@ fonts-langgroup-other =
 
 fonts-minsize-none =
     .label = Nenhum
+fonts-allow-own =
+    .label = Permitir que as páginas escolham o seu tipo de letra
+    .accesskey = P
 
 ## Text Encodings
 ##
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-header = Codificação de texto para conteúdo de legado
+fonts-languages-fallback-desc = Esta codificação de texto é utilizada para conteúdo de legado que falha ao declarar a sua codificação.
+fonts-languages-fallback-name-auto =
+    .label = Predefinido para o idioma atual
 fonts-languages-fallback-name-arabic =
     .label = Árabe
 fonts-languages-fallback-name-baltic =
