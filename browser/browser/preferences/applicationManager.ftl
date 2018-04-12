@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+app-manager-window =
+    .title = ಅನ್ವಯ ವಿವರಗಳು
+    .style = width: 30em; min-height: 20em;
 app-manager-remove =
     .label = ತೆಗೆದು ಹಾಕು
     .accesskey = R
@@ -16,3 +19,4 @@ app-manager-handle-file = ಈ ಕೆಳಗಿನ ಅನ್ವಯಗಳು { $typ
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.
 
+app-manager-web-app-info = ಈ ಜಾಲ ಅನ್ವಯವನ್ನು ಹೋಸ್ಟ್ ಮಾಡಲಾದ ಸ್ಥಳ:
