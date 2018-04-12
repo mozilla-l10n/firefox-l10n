@@ -15,6 +15,15 @@ site-data-column-storage =
     .label = 저장소
 site-data-column-last-used =
     .label = 마지막 사용
+site-data-remove-selected =
+    .label = 선택된 값 삭제
+    .accesskey = r
+site-data-button-cancel =
+    .label = 취소
+    .accesskey = C
+site-data-button-save =
+    .label = 변경된 내용 저장
+    .accesskey = a
 
 ## Removing
 
