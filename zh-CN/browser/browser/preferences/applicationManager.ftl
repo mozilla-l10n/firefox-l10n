@@ -8,6 +8,13 @@ app-manager-window =
 app-manager-remove =
     .label = 移除
     .accesskey = R
+app-manager-handle-webfeeds = 如下应用程序可用来处理“网站收取点”。
+# Variables:
+#   $type (String) - the URI scheme of the link (e.g. mailto:)
+app-manager-handle-protocol = 如下应用程序可用来处理“{ $type } 链接”。
+# Variables:
+#   $type (String) - the MIME type (e.g. application/binary)
+app-manager-handle-file = 如下应用程序可用来处理“{ $type } 内容”。
 
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.
