@@ -5,6 +5,8 @@
 
 ## Settings
 
+site-data-settings-window =
+    .title = Hallitse evästeitä ja sivustotietoja
 site-data-search-textbox =
     .placeholder = Etsi sivustoja
     .accesskey = E
@@ -30,4 +32,6 @@ site-data-button-save =
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-header = Evästeiden ja sivustotietojen poisto
+site-data-removing-desc = Sivustotietojen poistaminen voi kirjata sinut ulos sivustoilta. Haluatko varmasti tehdä muutokset?
 site-data-removing-table = Seuraavien sivustojen evästeet ja tiedot poistetaan
