@@ -5,6 +5,8 @@
 clear-site-data-window =
     .title = தரவினை அகற்று
     .style = width: 35em
+clear-site-data-close-key =
+    .key = w
 clear-site-data-cookies = நினைவிகளுத் தள தரவுகளும்
     .accesskey = S
 clear-site-data-cache = இடைச்சேமிப்பக இணைய உள்ளடக்கம்
