@@ -11,6 +11,10 @@ colors-window =
         }
 colors-close-key =
     .key = W
+colors-page-override-option-always =
+    .label = Her tim
+colors-page-override-option-never =
+    .label = Qet
 colors-text-and-background = Deq û Rûerd
 colors-use-system =
     .label = Rengên pergalê bikar bîne
