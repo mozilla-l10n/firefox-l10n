@@ -9,7 +9,7 @@
 <!ENTITY acceptRemoteContent.accesskey "T">
 <!ENTITY remoteContentExceptions.label "Unntak…">
 <!ENTITY remoteContentExceptions.accesskey "U">
-<!ENTITY acceptRemoteContentInfo.label "Les meir om personvern-utfordringane ved eksternt innhald">
+<!ENTITY acceptRemoteContentInfo.label "Les meir om personvernutfordringane ved eksternt innhald">
 
 <!-- Web Content -->
 <!ENTITY captionWebContent.label "Nettinnhald">
