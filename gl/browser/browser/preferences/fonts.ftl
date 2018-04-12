@@ -73,6 +73,12 @@ fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+fonts-proportional-size = Tamaño
+    .accesskey = ñ
+fonts-monospace-size = Tamaño
+    .accesskey = e
+fonts-minsize = Tamaño mínimo do tipo de letra
+    .accesskey = o
 fonts-minsize-none =
     .label = Ningún
 
@@ -83,6 +89,8 @@ fonts-minsize-none =
 
 fonts-languages-fallback-header = Codificación de texto para contido antigo
 fonts-languages-fallback-desc = Esta codificación de texto úsase para contido antigo que non declara a súa codificación.
+fonts-languages-fallback-label = Codificación de texto alternativa
+    .accesskey = t
 fonts-languages-fallback-name-auto =
     .label = Predeterminada para o idioma actual
 fonts-languages-fallback-name-arabic =
