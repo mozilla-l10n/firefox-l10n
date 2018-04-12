@@ -10,6 +10,8 @@ site-data-search-textbox =
     .accesskey = и
 site-data-column-host =
     .label = Сайт
+site-data-column-cookies =
+    .label = Куки
 site-data-column-storage =
     .label = Хранилище
 site-data-remove-selected =
@@ -26,3 +28,6 @@ site-data-button-save =
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-header = Удаление кук и данных сайтов
+site-data-removing-desc = Удаление кук и данных сайтов может привести к разрегистрации вас на веб-сайтах. Вы уверены, что хотите произвести изменения?
+site-data-removing-table = Куки и данные сайтов для следующих веб-сайтов будут удалены
