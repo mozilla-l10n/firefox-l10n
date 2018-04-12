@@ -53,6 +53,7 @@ connection-proxy-socks5 =
     .accesskey = 5
 connection-proxy-noproxy = Không dùng proxy cho
     .accesskey = n
+connection-proxy-noproxy-desc = Ví dụ: .mozilla.org, .edu.vn, 192.168.1.0/24
 connection-proxy-autotype =
     .label = URL cấu hình proxy tự động
     .accesskey = A
