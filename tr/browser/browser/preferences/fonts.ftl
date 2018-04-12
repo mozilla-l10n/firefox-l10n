@@ -47,8 +47,15 @@ fonts-langgroup-khmer =
     .label = Khmer
 fonts-langgroup-korean =
     .label = Korece
+# Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+fonts-langgroup-latin =
+    .label = Latince
 fonts-langgroup-malayalam =
     .label = Malayalam
+fonts-langgroup-math =
+    .label = Matematik
+fonts-langgroup-odia =
+    .label = Odia
 fonts-langgroup-sinhala =
     .label = Seylanca
 fonts-langgroup-tamil =
@@ -61,6 +68,8 @@ fonts-langgroup-tibetan =
     .label = Tibetçe
 fonts-langgroup-canadian =
     .label = Birleşik Kanada Hece Yazısı
+fonts-langgroup-other =
+    .label = Diğer yazı sistemleri
 
 ## Default fonts and their sizes
 
@@ -93,6 +102,8 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-header = Eski içerikler için metin kodlaması
+fonts-languages-fallback-desc = Bu metin kodlaması, kendi kodlamasını tanımlayamayan eski içerikler için kullanılır.
 fonts-languages-fallback-label = Yedek metin kodlaması
     .accesskey = d
 fonts-languages-fallback-name-auto =
