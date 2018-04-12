@@ -5,6 +5,9 @@
 app-manager-window =
     .title = Մանրամասն տեղեկություն
     .style = width: 35em; min-height: 25em;
+app-manager-remove =
+    .label = Հեռացնել
+    .accesskey = Հ
 
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.
