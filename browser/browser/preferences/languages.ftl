@@ -7,3 +7,5 @@ languages-window =
     .style = width: 30em
 languages-close-key =
     .key = w
+languages-customize-select-language =
+    .placeholder = Pilih bahasa untuk ditambah…
