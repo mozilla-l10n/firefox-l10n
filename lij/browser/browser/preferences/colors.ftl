@@ -11,6 +11,12 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override-option-always =
+    .label = De longo
+colors-page-override-option-auto =
+    .label = Solo co-i temi a Erto Contrasto
+colors-page-override-option-never =
+    .label = Mai
 colors-text-and-background = Testo e sfondo
 colors-use-system =
     .label = Adeuvia i coî de scistema
