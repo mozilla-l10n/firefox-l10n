@@ -4,6 +4,18 @@
 
 connection-close-key =
     .key = w
+connection-proxy-option-no =
+    .label = Ingen proxy
+    .accesskey = I
+connection-proxy-option-system =
+    .label = Bruk systemets innstillinger
+    .accesskey = y
+connection-proxy-option-auto =
+    .label = Automatisk oppdag innstillinger
+    .accesskey = A
+connection-proxy-http-share =
+    .label = Bruk denne proxyen for alle protokoller
+    .accesskey = B
 connection-proxy-socks5 =
     .label = SOCKS v5
     .accesskey = v
