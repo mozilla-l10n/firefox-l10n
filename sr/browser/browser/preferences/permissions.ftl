@@ -5,6 +5,8 @@
 permissions-window =
     .title = Изузеци
     .style = width: 46em
+permissions-close-key =
+    .key = w
 permissions-address = Адреса веб сајта
     .accesskey = д
 permissions-block =
