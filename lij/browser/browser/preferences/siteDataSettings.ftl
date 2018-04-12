@@ -5,6 +5,8 @@
 
 ## Settings
 
+site-data-settings-window =
+    .title = Gestisci Cookie e Dæti di Sciti
 site-data-search-textbox =
     .placeholder = Çerca sciti
     .accesskey = s
@@ -30,3 +32,6 @@ site-data-button-save =
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-header = Scancella Cookie e Dæti di Sciti
+site-data-removing-desc = Scancelâ cookie e dæti di sciti o peu fate sciortî da-i sciti. Te seguo de fâ sti cangiamenti?
+site-data-removing-table = I cookie e dæti di sciti de sti sciti chi saian scancelæ
