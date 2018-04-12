@@ -7,6 +7,7 @@ languages-window =
     .style = width: 30em
 languages-close-key =
     .key = w
+languages-description = Potbuk me kakube kare mogo kikelo i leb makato acel. Yer leb me yaro potbuk magi, kit ma imito
 languages-customize-moveup =
     .label = Kob Malo
     .accesskey = M
