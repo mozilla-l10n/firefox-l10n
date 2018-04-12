@@ -13,6 +13,7 @@ connection-close-key =
     .key = w
 connection-disable-extension =
     .label = Slökkva á viðbót
+connection-proxy-configure = Stilla milliþjóna (Proxy) til að tengjast netinu
 connection-proxy-option-no =
     .label = Enginn milliþjónn
     .accesskey = þ
