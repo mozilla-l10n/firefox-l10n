@@ -11,6 +11,8 @@ connection-window =
         }
 connection-close-key =
     .key = w
+connection-disable-extension =
+    .label = Deshabilitar extensión
 connection-proxy-option-no =
     .label = Sin proxy
     .accesskey = y
