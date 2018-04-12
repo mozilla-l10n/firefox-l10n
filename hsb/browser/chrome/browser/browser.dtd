@@ -304,6 +304,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Element přepytować">
 <!ENTITY inspectContextMenu.accesskey "E">
 
+<!ENTITY inspectA11YContextMenu.label     "Kajkosće bjezbarjernosće přepytować">
+
 <!ENTITY fileMenu.label         "Dataja">
 <!ENTITY fileMenu.accesskey       "D">
 <!ENTITY newUserContext.label             "Nowy kontenerowy rajtark">
