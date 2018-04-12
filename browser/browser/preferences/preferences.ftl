@@ -292,7 +292,6 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Nové okná a karty
-home-new-windows-tabs-description = Vyberte si domovskú stránku a stránku zobrazovanú pri otvorení nového okna alebo karty.
 
 ## Home Section - Home Page Customization
 
