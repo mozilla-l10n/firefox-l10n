@@ -11,4 +11,17 @@ colors-window =
         }
 colors-close-key =
     .key = W
+colors-page-override-option-always =
+    .label = Sempre
+colors-page-override-option-auto =
+    .label = Só com temas de alto contraste
+colors-page-override-option-never =
+    .label = Nunca
 colors-text-and-background = Cores padrão
+colors-use-system =
+    .label = Usar cores do sistema
+    .accesskey = s
+colors-underline-links =
+    .label = Sublinhar links
+    .accesskey = u
+colors-links-header = Cores dos links
