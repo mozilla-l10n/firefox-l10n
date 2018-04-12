@@ -7,6 +7,9 @@
 
 site-data-settings-window =
     .title = 쿠키와 사이트 데이타 관리
+site-data-search-textbox =
+    .placeholder = 웹사이트 검색
+    .accesskey = S
 site-data-column-host =
     .label = 사이트
 site-data-column-cookies =
