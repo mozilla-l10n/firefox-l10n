@@ -15,3 +15,5 @@ translation-languages-button-remove =
 translation-languages-button-remove-all =
     .label = Ta bort alla språk
     .accesskey = T
+translation-sites-column =
+    .label = Webbplatser
