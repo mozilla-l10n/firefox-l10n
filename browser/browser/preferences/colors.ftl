@@ -11,6 +11,8 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override = மேலே தேர்ந்தெடுக்கப்பட்டதன் மூலம் பக்கத்தில் குறிப்பிடப்பட்ட நிறங்களை மேலெழுதவும்
+    .accesskey = O
 colors-page-override-option-always =
     .label = எப்போதும்
 colors-page-override-option-auto =
