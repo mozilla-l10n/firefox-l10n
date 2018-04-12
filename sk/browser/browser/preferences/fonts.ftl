@@ -4,6 +4,8 @@
 
 fonts-window =
     .title = Písma
+fonts-window-close =
+    .key = w
 
 ## Font groups by language
 
@@ -73,3 +75,35 @@ fonts-minsize-none =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-name-auto =
+    .label = Predvolené pre aktuálny jazyk
+fonts-languages-fallback-name-arabic =
+    .label = Arabské
+fonts-languages-fallback-name-baltic =
+    .label = Pobaltské
+fonts-languages-fallback-name-ceiso =
+    .label = Stredoeurópske, ISO
+fonts-languages-fallback-name-cewindows =
+    .label = Stredoeurópske, Microsoft
+fonts-languages-fallback-name-simplified =
+    .label = Zjednodušené čínske
+fonts-languages-fallback-name-traditional =
+    .label = Tradičné čínske
+fonts-languages-fallback-name-cyrillic =
+    .label = Azbuka
+fonts-languages-fallback-name-greek =
+    .label = Grécke
+fonts-languages-fallback-name-hebrew =
+    .label = Hebrejské
+fonts-languages-fallback-name-japanese =
+    .label = Japonské
+fonts-languages-fallback-name-korean =
+    .label = Kórejské
+fonts-languages-fallback-name-thai =
+    .label = Thajské
+fonts-languages-fallback-name-turkish =
+    .label = Turecké
+fonts-languages-fallback-name-vietnamese =
+    .label = Vietnamské
+fonts-languages-fallback-name-other =
+    .label = Iné (vrátane Západoeurópske)
