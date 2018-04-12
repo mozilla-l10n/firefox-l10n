@@ -290,7 +290,6 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Nouvelles fenêtres et nouveaux onglets
-home-new-windows-tabs-description = Choisissez ce qui doit être affiché lorsque vous ouvrez votre page d’accueil, une nouvelle fenêtre ou un nouvel onglet.
 
 ## Home Section - Home Page Customization
 
