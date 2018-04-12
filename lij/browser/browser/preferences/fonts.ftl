@@ -52,6 +52,8 @@ fonts-langgroup-malayalam =
     .label = Malayano
 fonts-langgroup-math =
     .label = Matematica
+fonts-langgroup-odia =
+    .label = Òriya
 fonts-langgroup-sinhala =
     .label = Sinhala
 fonts-langgroup-tamil =
@@ -75,6 +77,9 @@ fonts-default-sans-serif =
     .label = Sans Serif
 fonts-minsize-none =
     .label = Ninte
+fonts-allow-own =
+    .label = Permette a-e pagine de çerne i seu font, invece de quelli che t'æ seleçionou chi sotta
+    .accesskey = P
 
 ## Text Encodings
 ##
@@ -111,5 +116,7 @@ fonts-languages-fallback-name-thai =
     .label = Tailandeize
 fonts-languages-fallback-name-turkish =
     .label = Turco
+fonts-languages-fallback-name-vietnamese =
+    .label = Vietnamitto
 fonts-languages-fallback-name-other =
     .label = Atro (incl. Ouröpa ponentinn-a)
