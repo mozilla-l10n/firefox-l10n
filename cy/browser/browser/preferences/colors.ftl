@@ -15,3 +15,7 @@ colors-text-and-background = Testun a Chefndir
 colors-use-system =
     .label = Defnyddio lliwiau'r system
     .accesskey = s
+colors-underline-links =
+    .label = Tanlinellu dolenni
+    .accesskey = d
+colors-links-header = Lliw Dolenni
