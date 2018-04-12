@@ -43,8 +43,15 @@ fonts-langgroup-khmer =
     .label = খেমার
 fonts-langgroup-korean =
     .label = কোরীয়
+# Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+fonts-langgroup-latin =
+    .label = ল্যাটিন
 fonts-langgroup-malayalam =
     .label = মালায়ালাম
+fonts-langgroup-math =
+    .label = গণিত
+fonts-langgroup-odia =
+    .label = ওড়িয়া
 fonts-langgroup-sinhala =
     .label = সিংহলী
 fonts-langgroup-tamil =
@@ -57,6 +64,8 @@ fonts-langgroup-tibetan =
     .label = তিব্বতীয়
 fonts-langgroup-canadian =
     .label = ইউনিফাইড ক্যানেডিয়ান সিলেবারি
+fonts-langgroup-other =
+    .label = অন্যান্য লেখার সিস্টেম
 
 ## Default fonts and their sizes
 
@@ -66,14 +75,20 @@ fonts-default-sans-serif =
     .label = সাণ্স শেরিফ
 fonts-minsize-none =
     .label = কোনটি নয়
+fonts-allow-own =
+    .label = উপরে নির্বাচিত ফন্ট উপেক্ষা করে, পাতাগুলো নিজস্ব ফন্ট ব্যবহার করতে পারবে
+    .accesskey = A
 
 ## Text Encodings
 ##
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-header = লিগ্যাসি কন্টেটের জন্য ক্যারেক্টার এনকোডিং
 fonts-languages-fallback-name-arabic =
     .label = আরবি
+fonts-languages-fallback-name-baltic =
+    .label = বাল্টিক
 fonts-languages-fallback-name-ceiso =
     .label = মধ্য ইউরোপীয়, আইএসও
 fonts-languages-fallback-name-cewindows =
@@ -94,6 +109,8 @@ fonts-languages-fallback-name-korean =
     .label = কোরিয়ান
 fonts-languages-fallback-name-thai =
     .label = থাই
+fonts-languages-fallback-name-turkish =
+    .label = তুর্কি
 fonts-languages-fallback-name-vietnamese =
     .label = ভিয়েতনামী
 fonts-languages-fallback-name-other =
