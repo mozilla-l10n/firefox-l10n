@@ -11,4 +11,11 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-text-and-background = Testo e sfondo
+colors-use-system =
+    .label = Adeuvia i coî de scistema
+    .accesskey = c
+colors-underline-links =
+    .label = Sotolinia colegamenti
+    .accesskey = g
 colors-links-header = Coî di colegamenti
