@@ -12,6 +12,15 @@ site-data-column-host =
     .label = Сайт
 site-data-column-storage =
     .label = Сховище
+site-data-remove-selected =
+    .label = Видалити вибрані
+    .accesskey = В
+site-data-button-cancel =
+    .label = Скасувати
+    .accesskey = С
+site-data-button-save =
+    .label = Зберегти зміни
+    .accesskey = З
 
 ## Removing
 
