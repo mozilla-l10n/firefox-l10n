@@ -290,7 +290,6 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Nye vindauge og faner
-home-new-windows-tabs-description = Vel kva du ser når du opnar startsida, nye vindauge og nye faner
 
 ## Home Section - Home Page Customization
 
