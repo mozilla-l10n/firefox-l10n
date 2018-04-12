@@ -11,6 +11,10 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override-option-always =
+    .label = Bere-biara
+colors-page-override-option-never =
+    .label = Daabi da
 colors-text-and-background = Nkyerɛwee ne ndaekyiri
 colors-use-system =
     .label = Fa systɛm ahosu yɛ adwuma
