@@ -290,6 +290,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Жаңа терезелер мен беттер
+home-new-windows-tabs-description2 = Үй парағын, жаңа терезелер және беттерді ашқан кезде көретін нәрселерді таңдаңыз.
 
 ## Home Section - Home Page Customization
 
