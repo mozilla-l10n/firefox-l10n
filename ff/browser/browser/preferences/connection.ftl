@@ -11,6 +11,8 @@ connection-window =
         }
 connection-close-key =
     .key = w
+connection-disable-extension =
+    .label = Daaƴ Timmitol
 connection-proxy-option-no =
     .label = Alaa proxy
     .accesskey = y
