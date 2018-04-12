@@ -13,6 +13,7 @@ connection-close-key =
     .key = w
 connection-disable-extension =
     .label = Вимкнути розширення
+connection-proxy-configure = Налаштувати доступ до Інтернету через проксі
 connection-proxy-option-no =
     .label = Без проксі
     .accesskey = Б
