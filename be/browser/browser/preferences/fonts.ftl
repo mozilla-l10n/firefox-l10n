@@ -45,8 +45,15 @@ fonts-langgroup-khmer =
     .label = Кхмерская
 fonts-langgroup-korean =
     .label = Карэйская
+# Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+fonts-langgroup-latin =
+    .label = Лацінка
 fonts-langgroup-malayalam =
     .label = Малайяламская
+fonts-langgroup-math =
+    .label = Матэматычныя
+fonts-langgroup-odia =
+    .label = Орыя
 fonts-langgroup-sinhala =
     .label = Сінгала
 fonts-langgroup-tamil =
@@ -59,6 +66,8 @@ fonts-langgroup-tibetan =
     .label = Тыбецкая
 fonts-langgroup-canadian =
     .label = Канадская аб'яднаная складовая азбука
+fonts-langgroup-other =
+    .label = Іншыя сістэмы пісьма
 
 ## Default fonts and their sizes
 
@@ -68,12 +77,17 @@ fonts-default-sans-serif =
     .label = Sans Serif
 fonts-minsize-none =
     .label = Няма
+fonts-allow-own =
+    .label = Дазволіць старонкам выбіраць уласны шрыфт замест пазначаных вышэй
+    .accesskey = Д
 
 ## Text Encodings
 ##
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-header = Кадаванне тэксту для спадчыннага змесціва
+fonts-languages-fallback-desc = Гэта кадаванне тэксту будзе выкарыстана для змесціва, у якім не пазначана кадаванне.
 fonts-languages-fallback-name-arabic =
     .label = Арабская
 fonts-languages-fallback-name-baltic =
