@@ -15,7 +15,7 @@
 
 <!ENTITY noTranslationForSites2.label     "নিচের সাইটগুলোর জন্য অনুবাদ প্রস্তাব করা হবেনা">
 <!ENTITY treehead.siteName2.label         "ওয়েবসাইট">
-<!ENTITY removeSite.label                 "সাইট অপসারণ S">
+<!ENTITY removeSite.label                 "সাইট অপসারণ">
 <!ENTITY removeSite.accesskey             "S">
 <!ENTITY removeAllSites.label             "সব সাইট অপসারণ কর i">
 <!ENTITY removeAllSites.accesskey         "i">

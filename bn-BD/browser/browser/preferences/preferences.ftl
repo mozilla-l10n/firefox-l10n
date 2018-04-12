@@ -355,7 +355,7 @@ search-restore-default =
     .label = ডিফল্ট অনুসন্ধান ইঞ্জিন পুনঃস্থাপন
     .accesskey = D
 search-remove-engine =
-    .label = অপসারণ করুন R
+    .label = অপসারণ করুন
     .accesskey = R
 search-find-more-link = আরও অনুসন্ধান ইঞ্জিন খুঁজুন
 # This warning is displayed when the chosen keyword is already in use
