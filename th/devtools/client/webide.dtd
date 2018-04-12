@@ -111,6 +111,7 @@
 <!ENTITY prefs_restore "เรียกคืนค่าเริ่มต้น">
 <!ENTITY prefs_manage_components "จัดการส่วนประกอบพิเศษ">
 <!ENTITY prefs_options_rememberlastproject "จดจำโครงการล่าสุด">
+<!ENTITY prefs_options_templatesurl "URL แม่แบบ">
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "ข้อมูล Runtime">

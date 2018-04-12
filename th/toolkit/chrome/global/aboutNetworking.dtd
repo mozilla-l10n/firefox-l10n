@@ -23,6 +23,7 @@
 <!ENTITY aboutNetworking.sent                  "ส่ง">
 <!ENTITY aboutNetworking.received              "รับ">
 <!ENTITY aboutNetworking.family                "ตระกูล">
+<!ENTITY aboutNetworking.trr                   "TRR">
 <!ENTITY aboutNetworking.addresses             "ที่อยู่">
 <!ENTITY aboutNetworking.expires               "หมดอายุ (วินาที)">
 <!ENTITY aboutNetworking.messagesSent          "ข้อความที่ส่ง">
