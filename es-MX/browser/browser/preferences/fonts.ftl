@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = Fuentes para
+    .accesskey = F
 fonts-langgroup-arabic =
     .label = Árabe
 fonts-langgroup-armenian =
@@ -71,10 +73,24 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Proporcional
+    .accesskey = P
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+fonts-proportional-size = Tamaño
+    .accesskey = T
+fonts-serif = Serif
+    .accesskey = S
+fonts-sans-serif = Sans-serif
+    .accesskey = n
+fonts-monospace = Monoespacio
+    .accesskey = M
+fonts-monospace-size = Tamaño
+    .accesskey = a
+fonts-minsize = Tamaño mínimo de la fuente
+    .accesskey = o
 fonts-minsize-none =
     .label = Ninguno
 fonts-allow-own =
@@ -88,6 +104,8 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Codificación de caracteres para contenido heredado
 fonts-languages-fallback-desc = Esta codificación de texto se usa para contenido antiguo que no declara su codificación.
+fonts-languages-fallback-label = Codificación de texto de respaldo
+    .accesskey = T
 fonts-languages-fallback-name-auto =
     .label = Predeterminado para idioma actual
 fonts-languages-fallback-name-arabic =
