@@ -52,6 +52,8 @@ fonts-langgroup-malayalam =
     .label = マラヤラム語
 fonts-langgroup-math =
     .label = 数学記号
+fonts-langgroup-odia =
+    .label = オディア語
 fonts-langgroup-sinhala =
     .label = シンハラ語
 fonts-langgroup-tamil =
@@ -81,6 +83,8 @@ fonts-minsize-none =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-header = 古いウェブページでのテキストエンコーディング
+fonts-languages-fallback-desc = このテキストエンコーディングは、テキストエンコーディングが宣言されていない古いウェブページで使用されます。
 fonts-languages-fallback-name-auto =
     .label = 現在のロケールのデフォルト
 fonts-languages-fallback-name-arabic =
