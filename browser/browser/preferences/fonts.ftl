@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = Fuens pa
+    .accesskey = F
 fonts-langgroup-arabic =
     .label = Arabe
 fonts-langgroup-armenian =
@@ -71,10 +73,24 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Proporcional
+    .accesskey = P
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+fonts-proportional-size = Tamanyo
+    .accesskey = i
+fonts-serif = Serif
+    .accesskey = S
+fonts-sans-serif = Sans-serif
+    .accesskey = n
+fonts-monospace = Monospace
+    .accesskey = M
+fonts-monospace-size = Tamanyo
+    .accesskey = a
+fonts-minsize = Tamanyo de fuent minimo
+    .accesskey = o
 fonts-minsize-none =
     .label = Garra
 fonts-allow-own =
@@ -88,6 +104,8 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Codificación d'o texto ta os contenius antigos
 fonts-languages-fallback-desc = Ista codificación d'os textos ye emplegada ta contenius antigos que no declaran a suya codificación.
+fonts-languages-fallback-label = Codificación de texto como zaguer recurso
+    .accesskey = T
 fonts-languages-fallback-name-auto =
     .label = Por defecto en a luenga actual
 fonts-languages-fallback-name-arabic =
