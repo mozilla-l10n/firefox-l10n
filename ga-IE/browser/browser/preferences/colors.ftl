@@ -11,6 +11,12 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override-option-always =
+    .label = I gCónaí
+colors-page-override-option-auto =
+    .label = Le téamaí Ardchodarsnachta amháin
+colors-page-override-option-never =
+    .label = Riamh
 colors-text-and-background = Téacs agus Cúlra
 colors-use-system =
     .label = Úsáid dathanna an chórais
