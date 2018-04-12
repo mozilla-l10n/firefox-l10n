@@ -8,8 +8,13 @@ app-manager-window =
 app-manager-remove =
     .label = Уклони
     .accesskey = У
+app-manager-handle-webfeeds = Наведени програми се могу користити за обраду Извори вести.
+# Variables:
+#   $type (String) - the URI scheme of the link (e.g. mailto:)
+app-manager-handle-protocol = Наведени програми се могу користити за обраду { $type } везе.
 
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.
 
 app-manager-web-app-info = Ова веб апликација се налази на:
+app-manager-local-app-info = Ова апликација се налази на:
