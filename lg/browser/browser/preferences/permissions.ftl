@@ -15,3 +15,6 @@ permissions-allow =
     .accesskey = K
 permissions-status =
     .label = Embera
+permissions-button-cancel =
+    .label = Sazaamu
+    .accesskey = S
