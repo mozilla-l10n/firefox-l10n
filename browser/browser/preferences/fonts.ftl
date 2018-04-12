@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = Scrittiras per
+    .accesskey = p
 fonts-langgroup-arabic =
     .label = Arab
 fonts-langgroup-armenian =
@@ -71,10 +73,24 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Proporziunal
+    .accesskey = P
 fonts-default-serif =
     .label = Cun serifas
 fonts-default-sans-serif =
     .label = Senza serifas
+fonts-proportional-size = Grondezza
+    .accesskey = G
+fonts-serif = Serifas
+    .accesskey = S
+fonts-sans-serif = Senza serifas
+    .accesskey = z
+fonts-monospace = Largezza fixa
+    .accesskey = f
+fonts-monospace-size = Grondezza
+    .accesskey = r
+fonts-minsize = Grondezza minimala da la scrittira
+    .accesskey = m
 fonts-minsize-none =
     .label = Nagina
 fonts-allow-own =
