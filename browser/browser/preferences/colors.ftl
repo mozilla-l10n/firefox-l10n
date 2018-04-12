@@ -11,6 +11,8 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override = استبدل الألوان التي تحددها الصفحات باختياراتي أعلاه
+    .accesskey = س
 colors-page-override-option-always =
     .label = دائمًا
 colors-page-override-option-auto =
