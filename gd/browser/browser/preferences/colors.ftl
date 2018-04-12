@@ -11,6 +11,12 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override-option-always =
+    .label = An-còmhnaidh
+colors-page-override-option-auto =
+    .label = Le ùrlaran àrd-iomsgaraidh a-mhàin
+colors-page-override-option-never =
+    .label = Chan ann idir
 colors-text-and-background = Teacsa is cùlaibh
 colors-use-system =
     .label = Cleachd dathan an t-siostaim
