@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = Pisave za
+    .accesskey = P
 fonts-langgroup-arabic =
     .label = arabsko
 fonts-langgroup-armenian =
@@ -64,6 +66,16 @@ fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+fonts-proportional-size = Velikost
+    .accesskey = V
+fonts-serif = Serif
+    .accesskey = S
+fonts-sans-serif = Sans-serif
+    .accesskey = a
+fonts-monospace-size = Velikost
+    .accesskey = k
+fonts-minsize = Najmanjša velikost pisav
+    .accesskey = N
 fonts-allow-own =
     .label = Dovoli stranem, da uporabljajo lastne pisave namesto zgornjih izbir
     .accesskey = h
