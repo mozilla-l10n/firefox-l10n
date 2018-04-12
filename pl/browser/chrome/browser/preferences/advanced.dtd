@@ -29,7 +29,7 @@
 <!ENTITY dataCollectionPrivacyNotice.label "Uwagi dotyczące prywatności">
 
 <!ENTITY collectBrowserErrors.label "Przesyłanie raportów z błędów przeglądarki (razem z treścią błędów) do Mozilli.">
-<!ENTITY collectBrowserErrors.accesskey "">
+<!ENTITY collectBrowserErrors.accesskey "z">
 <!ENTITY collectBrowserErrorsLearnMore.label "Więcej informacji">
 
 <!ENTITY enableHealthReport2.label "Przesyłanie do Mozilli danych technicznych i o interakcjach z programem.">
@@ -38,7 +38,7 @@
 <!ENTITY alwaysSubmitCrashReports1.label "Przesyłanie raportów z awarii do Mozilli.">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "e">
 <!ENTITY sendBackloggedCrashReports.label "Przesyłanie zgromadzonych raportów z awarii.">
-<!ENTITY sendBackloggedCrashReports.accesskey "">
+<!ENTITY sendBackloggedCrashReports.accesskey "p">
 <!ENTITY crashReporterLearnMore.label "Więcej informacji">
 
 <!ENTITY networkTab.label                "Sieć">
@@ -60,7 +60,7 @@
 <!ENTITY siteDataSettings.label "Ustawienia…">
 <!ENTITY siteDataSettings.accesskey "U">
 <!ENTITY siteDataSettings1.label "Zachowane dane…">
-<!ENTITY siteDataSettings1.accesskey "">
+<!ENTITY siteDataSettings1.accesskey "c">
 <!ENTITY siteDataLearnMoreLink.label "Więcej informacji">
 
 <!ENTITY limitCacheSizeBefore.label      "Ogranicz pamięć podręczną do ">

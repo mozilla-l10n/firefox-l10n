@@ -489,7 +489,7 @@ history-clear-on-close-settings =
     .accesskey = U
 history-clear-button =
     .label = Wyczyść historię…
-    .accesskey = { "" }
+    .accesskey = W
 
 ## Privacy Section - Site Data
 
@@ -497,14 +497,14 @@ sitedata-header = Ciasteczka i dane stron
 sitedata-learn-more = Więcej informacji
 sitedata-accept-cookies-option =
     .label = Akceptowanie ciasteczek i danych stron (zalecane)
-    .accesskey = { "" }
+    .accesskey = k
 sitedata-block-cookies-option =
     .label = Blokowanie ciasteczek i danych stron (może powodować problemy)
-    .accesskey = { "" }
+    .accesskey = B
 sitedata-keep-until = Przechowywanie ciasteczek:
     .accesskey = h
 sitedata-accept-third-party-desc = Akceptowanie ciasteczek i danych stron witryn zewnętrznych podmiotów:
-    .accesskey = { "" }
+    .accesskey = c
 sitedata-accept-third-party-always-option =
     .label = zawsze
 sitedata-accept-third-party-visited-option =
@@ -516,7 +516,7 @@ sitedata-clear =
     .accesskey = a
 sitedata-settings =
     .label = Zachowane dane…
-    .accesskey = { "" }
+    .accesskey = c
 sitedata-cookies-exceptions =
     .label = Wyjątki…
     .accesskey = W
@@ -615,11 +615,11 @@ collection-health-report-link = Więcej informacji
 collection-health-report-disabled = Przesyłanie danych jest wyłączone przy tej konfiguracji programu
 collection-browser-errors =
     .label = Przesyłanie raportów z błędów przeglądarki (razem z treścią błędów) do Mozilli.
-    .accesskey = { "" }
+    .accesskey = z
 collection-browser-errors-link = Więcej informacji
 collection-backlogged-crash-reports =
     .label = Przesyłanie zgromadzonych raportów z awarii.
-    .accesskey = { "" }
+    .accesskey = o
 collection-backlogged-crash-reports-link = Więcej informacji
 
 ## Privacy Section - Security

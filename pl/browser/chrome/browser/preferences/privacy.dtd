@@ -55,15 +55,15 @@
 <!ENTITY acceptCookies2.label "Akceptowanie ciasteczek">
 <!ENTITY acceptCookies2.accesskey "A">
 <!ENTITY acceptCookies3.label "Akceptowanie ciasteczek i danych stron">
-<!ENTITY acceptCookies3.accesskey "">
+<!ENTITY acceptCookies3.accesskey "k">
 <!ENTITY acceptCookies4.label "Akceptowanie ciasteczek i danych stron (zalecane)">
-<!ENTITY acceptCookies4.accesskey "">
+<!ENTITY acceptCookies4.accesskey "c">
 <!ENTITY acceptThirdParty2.pre.label "Akceptowanie ciasteczek witryn zewnętrznych podmiotów:">
 <!ENTITY acceptThirdParty2.pre.accesskey "n">
 <!ENTITY blockCookies.label "Blokowanie ciasteczek i danych stron (może powodować problemy)">
-<!ENTITY blockCookies.accesskey "">
+<!ENTITY blockCookies.accesskey "B">
 <!ENTITY acceptThirdParty3.pre.label "Akceptowanie ciasteczek i danych stron witryn zewnętrznych podmiotów:">
-<!ENTITY acceptThirdParty3.pre.accesskey "">
+<!ENTITY acceptThirdParty3.pre.accesskey "c">
 <!ENTITY acceptThirdParty.always.label "zawsze">
 <!ENTITY acceptThirdParty.never.label "nigdy">
 <!ENTITY acceptThirdParty.visited.label "z odwiedzonych">
@@ -88,7 +88,7 @@
 <!ENTITY dontrememberActions.clearHistory.label "wyczyścić całą bieżącą historię">
 <!ENTITY dontrememberActions.post.label         ".">
 <!ENTITY clearHistoryButton.label "Wyczyść historię…">
-<!ENTITY clearHistoryButton.accesskey "">
+<!ENTITY clearHistoryButton.accesskey "W">
 
 <!ENTITY privateBrowsingPermanent2.label "Zawsze aktywny tryb przeglądania prywatnego">
 <!ENTITY privateBrowsingPermanent2.accesskey "t">
