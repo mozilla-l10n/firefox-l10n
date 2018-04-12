@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = फोंट के लिए
+    .accesskey = F
 fonts-langgroup-arabic =
     .label = अरबी
 fonts-langgroup-armenian =
@@ -71,16 +73,29 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = आनुपातिक
+    .accesskey = P
 fonts-default-serif =
     .label = सेरिफ़
 fonts-default-sans-serif =
     .label = सैंस सेरिफ़
 fonts-proportional-size = आकार
     .accesskey = z
+fonts-serif = सेरिफ़
+    .accesskey = S
+fonts-sans-serif = सान्स सेरिफ़
+    .accesskey = n
+fonts-monospace = एकलस्पेस
+    .accesskey = M
 fonts-monospace-size = आकार
     .accesskey = e
+fonts-minsize = न्यूनतम फ़ॉन्ट आकार
+    .accesskey = o
 fonts-minsize-none =
     .label = कोई नहीं
+fonts-allow-own =
+    .label = उपरोक्त आपके चयनों के बजाय पृष्ठों को अपने स्वयं के फोंट चुनने की अनुमति दें
+    .accesskey = A
 
 ## Text Encodings
 ##
@@ -89,6 +104,8 @@ fonts-minsize-none =
 
 fonts-languages-fallback-header = पुरातन अंतर्वस्तु के लिए पाठ कूटलेखन
 fonts-languages-fallback-desc = यह पाठ कूटलेखन प्रयोग करते हैं पुरातन अंतर्वस्तु के लिए जो की अपने कूटलेख को घोषित करने में विफल रहते हैं.
+fonts-languages-fallback-label = फ़ॉलबैक पाठ एन्कोडिंग
+    .accesskey = T
 fonts-languages-fallback-name-auto =
     .label = वर्तमान लोकेल के लिए तयशुदा
 fonts-languages-fallback-name-arabic =
