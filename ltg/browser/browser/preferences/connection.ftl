@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+connection-window =
+    .title = Savīnuojuma īstatiejumi
+    .style =
+        { PLATFORM() ->
+            [macos] width: 44em
+           *[other] width: 49em
+        }
 connection-close-key =
     .key = w
 connection-proxy-option-no =
@@ -30,3 +37,6 @@ connection-proxy-autologin =
     .label = Navaicuot autentifikaceju, nui ir saglobuota parole
     .accesskey = i
     .tooltip = Itei īspieja namonūt autentificēs jius storpnīkserverūs, kurim jiusim ir saglobuota parole. Nui autentifikaceja naizadūs, jiusim tiks paruodeits autentifikacejis lūgs.
+connection-proxy-socks-remote-dns =
+    .label = Storpnīkservera DNS izmontojūt SOCKS v5
+    .accesskey = D
