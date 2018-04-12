@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+translation-window =
+    .title = మినహాయింపులు - అనువాదం
+    .style = width: 36em
 translation-close-key =
     .key = w
 translation-languages-column =
@@ -12,6 +15,12 @@ translation-languages-button-remove =
 translation-languages-button-remove-all =
     .label = అన్ని భాషలను తీసివేయి
     .accesskey = e
+translation-sites-button-remove =
+    .label = సైటును తీసివేయి
+    .accesskey = S
+translation-sites-button-remove-all =
+    .label = అన్ని సైట్లను తీసివేయి
+    .accesskey = i
 translation-button-close =
     .label = మూసివేయి
     .accesskey = C
