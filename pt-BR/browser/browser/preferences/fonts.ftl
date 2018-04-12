@@ -50,6 +50,8 @@ fonts-langgroup-latin =
     .label = Latino
 fonts-langgroup-malayalam =
     .label = Malaiala
+fonts-langgroup-math =
+    .label = Matemática
 fonts-langgroup-sinhala =
     .label = Cingalês
 fonts-langgroup-tamil =
@@ -79,6 +81,8 @@ fonts-minsize-none =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-header = Codificação de texto para conteúdo legado
+fonts-languages-fallback-desc = Esta codificação de texto é usada para conteúdo legado que falha ao declarar a sua codificação.
 fonts-languages-fallback-name-auto =
     .label = Padrão do idioma atual
 fonts-languages-fallback-name-arabic =
@@ -109,3 +113,5 @@ fonts-languages-fallback-name-turkish =
     .label = Turco
 fonts-languages-fallback-name-vietnamese =
     .label = Vietnamita
+fonts-languages-fallback-name-other =
+    .label = Outro (incl. Europa ocidental)
