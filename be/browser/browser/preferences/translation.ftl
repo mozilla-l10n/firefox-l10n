@@ -5,6 +5,7 @@
 translation-window =
     .title = Выключэнні - Пераклад
     .style = width: 36em
+translation-languages-disabled-desc = Пераклад не будзе прапанаваны для наступных моў
 translation-languages-column =
     .label = Мовы
 translation-languages-button-remove =
@@ -13,6 +14,7 @@ translation-languages-button-remove =
 translation-languages-button-remove-all =
     .label = Выдаліць усе мовы
     .accesskey = в
+translation-sites-disabled-desc = Пераклад не будзе прапанаваны для наступных сайтаў
 translation-sites-column =
     .label = Вэб-сайты
 translation-sites-button-remove =
