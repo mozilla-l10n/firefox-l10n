@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+app-manager-window =
+    .title = Podrobnosti programa
+    .style = width: 30em; min-height: 20em;
+app-manager-remove =
+    .label = Odstrani
+    .accesskey = R
 app-manager-handle-webfeeds = Naslednje aplikacije se lahko uporabijo za upravljanje Spletni viri.
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
