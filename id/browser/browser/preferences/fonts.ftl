@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = Fon untuk
+    .accesskey = F
 fonts-langgroup-arabic =
     .label = Arab
 fonts-langgroup-armenian =
@@ -71,14 +73,24 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Proporsional
+    .accesskey = P
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Tanpa Serif
 fonts-proportional-size = Ukuran
     .accesskey = u
+fonts-serif = Serif
+    .accesskey = S
+fonts-sans-serif = Sans-serif
+    .accesskey = n
+fonts-monospace = Monospace
+    .accesskey = M
 fonts-monospace-size = Ukuran
     .accesskey = k
+fonts-minsize = Ukuran fon minimum
+    .accesskey = o
 fonts-minsize-none =
     .label = Tidak Ada
 fonts-allow-own =
@@ -92,6 +104,8 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Pengodean Karakter untuk Konten Lawas
 fonts-languages-fallback-desc = Pengodean karakter ini digunakan untuk konten lawas yang gagal mendeklarasikan pengodeannya.
+fonts-languages-fallback-label = Pengodean Teks Alternatif
+    .accesskey = T
 fonts-languages-fallback-name-auto =
     .label = Baku untuk Pelokalan Saat Ini
 fonts-languages-fallback-name-arabic =
