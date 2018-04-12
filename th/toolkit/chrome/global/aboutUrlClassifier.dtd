@@ -5,6 +5,7 @@
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "อัปเดต">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "แคช">
+<!ENTITY aboutUrlClassifier.cacheRefreshBtn             "เรียกใหม่">
 <!ENTITY aboutUrlClassifier.cacheClearBtn               "ล้าง">
 <!ENTITY aboutUrlClassifier.cacheTableName              "ชื่อตาราง">
 <!ENTITY aboutUrlClassifier.debugTitle                  "ดีบั๊ก">
