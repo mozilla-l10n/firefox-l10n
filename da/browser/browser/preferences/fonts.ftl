@@ -102,6 +102,8 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-header = Tegnkodning for indhold
+fonts-languages-fallback-desc = Denne tegnkodning bruges for indhold, som mangler en erklæring om tegnkodning.
 fonts-languages-fallback-label = Standardtegnkodning
     .accesskey = e
 fonts-languages-fallback-name-auto =
