@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+fonts-window =
+    .title = टंक
 fonts-window-close =
     .key = w
 
@@ -37,8 +39,15 @@ fonts-langgroup-khmer =
     .label = ख्मेर
 fonts-langgroup-korean =
     .label = कोरिअन
+# Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+fonts-langgroup-latin =
+    .label = लॅटिन
 fonts-langgroup-malayalam =
     .label = मल्याळम
+fonts-langgroup-math =
+    .label = गणित
+fonts-langgroup-odia =
+    .label = ओडिया
 fonts-langgroup-sinhala =
     .label = सिन्हाला
 fonts-langgroup-tamil =
@@ -51,6 +60,8 @@ fonts-langgroup-tibetan =
     .label = तिबेटन
 fonts-langgroup-canadian =
     .label = एकत्रित कॅनडिअन शब्दावयवे
+fonts-langgroup-other =
+    .label = लिखाणाच्या अन्य पद्धती
 
 ## Default fonts and their sizes
 
@@ -60,16 +71,22 @@ fonts-default-sans-serif =
     .label = निलंकृत
 fonts-minsize-none =
     .label = काहिच नाही
+fonts-allow-own =
+    .label = वरील आपल्या प्राधान्या ऐवजी, पृष्ठांना स्वतःचे टंक निवडण्यास परवानगी द्या
+    .accesskey = A
 
 ## Text Encodings
 ##
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-header = लेगसि कंटेंटकरिता कॅरेक्टर एंकोडिंग
 fonts-languages-fallback-name-auto =
     .label = सध्याच्या लोकेलकरिता पूर्वनिर्धारित
 fonts-languages-fallback-name-arabic =
     .label = अरबी
+fonts-languages-fallback-name-baltic =
+    .label = बालटिक
 fonts-languages-fallback-name-ceiso =
     .label = मध्य युरोपिअन, ISO
 fonts-languages-fallback-name-cewindows =
@@ -90,6 +107,8 @@ fonts-languages-fallback-name-korean =
     .label = कोरिअन
 fonts-languages-fallback-name-thai =
     .label = थाई
+fonts-languages-fallback-name-turkish =
+    .label = तुर्की
 fonts-languages-fallback-name-vietnamese =
     .label = वियटनामीज
 fonts-languages-fallback-name-other =
