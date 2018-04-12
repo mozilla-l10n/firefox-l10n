@@ -73,14 +73,24 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = అనులోమం
+    .accesskey = P
 fonts-default-serif =
     .label = సెరీఫ్
 fonts-default-sans-serif =
     .label = సాన్స్ సెరీఫ్
 fonts-proportional-size = పరిమాణం
     .accesskey = z
+fonts-serif = సెరీఫ్
+    .accesskey = S
+fonts-sans-serif = సాన్స్-సెరీఫ్
+    .accesskey = n
+fonts-monospace = మోనోస్పేస్
+    .accesskey = M
 fonts-monospace-size = పరిమాణం
     .accesskey = e
+fonts-minsize = కనీస ఫాంటు పరిమాణం
+    .accesskey = o
 fonts-minsize-none =
     .label = ఏదీకాదు
 fonts-allow-own =
