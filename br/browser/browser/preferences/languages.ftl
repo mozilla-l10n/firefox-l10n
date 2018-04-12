@@ -7,6 +7,7 @@ languages-window =
     .style = width: 30em
 languages-close-key =
     .key = w
+languages-description = A-wechoù e vez kinniget pajennadoù Web e meur a yezh. Diuzit e peseurt yezh e vo skrammet ar pajennadoù web-mañ, dre urzh ho tibab
 languages-customize-moveup =
     .label = Davit ar c'hrec'h
     .accesskey = D
