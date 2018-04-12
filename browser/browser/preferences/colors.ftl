@@ -11,6 +11,12 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override-option-always =
+    .label = Bob tro
+colors-page-override-option-auto =
+    .label = Dim ond y themâu Cyferbyniad Uchel
+colors-page-override-option-never =
+    .label = Byth
 colors-text-and-background = Testun a Chefndir
 colors-use-system =
     .label = Defnyddio lliwiau'r system
