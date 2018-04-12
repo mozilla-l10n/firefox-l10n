@@ -10,6 +10,9 @@ app-manager-remove =
     .accesskey = R
 app-manager-handle-webfeeds = ਅੱਗੇ ਦਿੱਤੀਆਂ ਐਪਲੀਕੇਸ਼ਨਾਂ ਨੂੰ ਵੈੱਬ ਫੀਡ ਹੈਂਡਲ ਕਰਨ ਲਈ ਵਰਤਿਆ ਜਾ ਸਕਦਾ ਹੈ।
 # Variables:
+#   $type (String) - the URI scheme of the link (e.g. mailto:)
+app-manager-handle-protocol = ਅੱਗੇ ਦਿੱਤੀਆਂ ਐਪਲੀਕੇਸ਼ਨਾਂ ਨੂੰ { $type } ਲਿੰਕ ਹੈਂਡਲ ਕਰਨ ਲਈ ਵਰਤਿਆ ਜਾ ਸਕਦਾ ਹੈ।
+# Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = ਅੱਗੇ ਦਿੱਤੀਆਂ ਐਪਲੀਕੇਸ਼ਨਾਂ ਨੂੰ { $type } ਸਮੱਗਰੀ ਹੈਂਡਲ ਕਰਨ ਲਈ ਵਰਤਿਆ ਜਾ ਸਕਦਾ ਹੈ।
 
