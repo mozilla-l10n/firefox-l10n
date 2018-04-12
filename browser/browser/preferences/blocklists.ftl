@@ -5,6 +5,7 @@
 blocklist-window =
     .title = Списъци за блокиране
     .style = width: 50em
+blocklist-desc = Може да изберете кой списък да използва { -brand-short-name }, за да блокира елементи от страниците, които следят вашето поведение в Мрежата.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
@@ -12,3 +13,6 @@ blocklist-treehead-list =
 blocklist-button-cancel =
     .label = Отказ
     .accesskey = з
+blocklist-button-ok =
+    .label = Запазване
+    .accesskey = З
