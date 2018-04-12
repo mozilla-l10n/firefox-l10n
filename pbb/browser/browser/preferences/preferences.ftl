@@ -15,3 +15,77 @@ close-button =
 
 ## Browser Restart Dialog
 
+
+## Preferences UI Search Results
+
+
+## General Section
+
+
+## General Section - Language & Appearance
+
+
+## General Section - Files and Applications
+
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+
+## General Section - Proxy
+
+
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+
+## Search Section
+
+search-choose-engine-column =
+    .label = jxukatek ẽsesen pakwe'
+
+## Containers Section
+
+
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+
+## Privacy Section - History
+
+
+## Privacy Section - Site Data
+
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
