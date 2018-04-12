@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = Polices pour
+    .accesskey = o
 fonts-langgroup-arabic =
     .label = Arabe
 fonts-langgroup-armenian =
@@ -31,6 +33,8 @@ fonts-langgroup-georgian =
     .label = Géorgien
 fonts-langgroup-el =
     .label = Grec
+fonts-langgroup-gujarati =
+    .label = Gujarati
 fonts-langgroup-gurmukhi =
     .label = Gurmukhi
 fonts-langgroup-japanese =
@@ -69,10 +73,24 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Proportionnelle
+    .accesskey = P
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans serif
+fonts-proportional-size = Taille
+    .accesskey = T
+fonts-serif = Sérif
+    .accesskey = S
+fonts-sans-serif = Sans sérif
+    .accesskey = n
+fonts-monospace = Largeur fixe
+    .accesskey = L
+fonts-monospace-size = Taille
+    .accesskey = e
+fonts-minsize = Taille minimale de la police
+    .accesskey = m
 fonts-minsize-none =
     .label = Aucune
 fonts-allow-own =
@@ -86,6 +104,8 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Encodage du texte pour le contenu obsolète
 fonts-languages-fallback-desc = Cet encodage de texte est utilisé pour le contenu obsolète qui ne déclare pas correctement son encodage.
+fonts-languages-fallback-label = Encodage de texte de dernier recours
+    .accesskey = c
 fonts-languages-fallback-name-auto =
     .label = Valeur par défaut pour la langue courante
 fonts-languages-fallback-name-arabic =
