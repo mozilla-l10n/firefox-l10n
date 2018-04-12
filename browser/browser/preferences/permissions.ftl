@@ -1,0 +1,23 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+permissions-window =
+    .title = Izjeme
+    .style = width: 45em
+permissions-close-key =
+    .key = w
+permissions-session =
+    .label = Dovoli v tej seji
+    .accesskey = S
+permissions-allow =
+    .label = Dovoli
+    .accesskey = D
+permissions-status =
+    .label = Stanje
+permissions-button-cancel =
+    .label = Prekliči
+    .accesskey = P
+permissions-button-ok =
+    .label = Shrani spremembe
+    .accesskey = S
