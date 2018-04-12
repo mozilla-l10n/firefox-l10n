@@ -33,6 +33,9 @@ fonts-langgroup-kannada =
     .label = Olukanada
 fonts-langgroup-khmer =
     .label = Khmer
+# Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+fonts-langgroup-latin =
+    .label = Olulatini
 fonts-langgroup-malayalam =
     .label = Abamalayalama
 fonts-langgroup-sinhala =
@@ -60,3 +63,5 @@ fonts-minsize-none =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-name-vietnamese =
+    .label = Oluveetinaamu
