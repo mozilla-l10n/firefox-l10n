@@ -11,6 +11,8 @@ connection-window =
         }
 connection-close-key =
     .key = w
+connection-disable-extension =
+    .label = Slökkva á viðbót
 connection-proxy-option-no =
     .label = Enginn milliþjónn
     .accesskey = þ
