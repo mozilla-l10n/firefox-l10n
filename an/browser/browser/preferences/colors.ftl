@@ -11,6 +11,12 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override-option-always =
+    .label = Siempre
+colors-page-override-option-auto =
+    .label = Nomás con temas d'alto contraste
+colors-page-override-option-never =
+    .label = Nunca
 colors-text-and-background = Texto y fundo
 colors-use-system =
     .label = Utilizar as colors d'o sistema
