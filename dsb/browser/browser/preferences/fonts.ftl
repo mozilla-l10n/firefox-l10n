@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = Pisma za
+    .accesskey = P
 fonts-langgroup-arabic =
     .label = Arabiske
 fonts-langgroup-armenian =
@@ -45,8 +47,15 @@ fonts-langgroup-khmer =
     .label = Kambodžaniske
 fonts-langgroup-korean =
     .label = Korejańske
+# Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+fonts-langgroup-latin =
+    .label = Łatyńšćina
 fonts-langgroup-malayalam =
     .label = Malajalamske
+fonts-langgroup-math =
+    .label = Matematika
+fonts-langgroup-odia =
+    .label = Odišćina
 fonts-langgroup-sinhala =
     .label = Singaleziske
 fonts-langgroup-tamil =
@@ -59,25 +68,50 @@ fonts-langgroup-tibetan =
     .label = Tibetiske
 fonts-langgroup-canadian =
     .label = Zjadnośony kanadiski sylabar
+fonts-langgroup-other =
+    .label = Druge pismowe systemy
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Proporcionalne
+    .accesskey = p
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+fonts-proportional-size = Wjelikosć
+    .accesskey = l
+fonts-serif = Serif
+    .accesskey = S
+fonts-sans-serif = Sans-serif
+    .accesskey = n
+fonts-monospace = Monospace
+    .accesskey = M
+fonts-monospace-size = Wjelikosć
+    .accesskey = k
+fonts-minsize = Minimalna wjelikosć pisma
+    .accesskey = M
 fonts-minsize-none =
     .label = Žeden
+fonts-allow-own =
+    .label = Bokam dowóliś, swóje pisma město górjejce wubranych wužywaś
+    .accesskey = B
 
 ## Text Encodings
 ##
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-header = Tekstowe koděrowanje za zestarjone wopśimjeśe
+fonts-languages-fallback-desc = Toś to tekstowe koděrowanje wužywa se za zestarjone wopśimjeśe, kótarež njepódawa swójske koděrowanje.
+fonts-languages-fallback-label = Narownanje za tekstowe koděrowanje
+    .accesskey = t
 fonts-languages-fallback-name-auto =
     .label = Standard za aktualnu lokalu
 fonts-languages-fallback-name-arabic =
     .label = Arabiske
+fonts-languages-fallback-name-baltic =
+    .label = Baltiske
 fonts-languages-fallback-name-ceiso =
     .label = Srjejźnoeuropske, ISO
 fonts-languages-fallback-name-cewindows =
@@ -98,6 +132,8 @@ fonts-languages-fallback-name-korean =
     .label = Korejańske
 fonts-languages-fallback-name-thai =
     .label = Thailandske
+fonts-languages-fallback-name-turkish =
+    .label = Turkojske
 fonts-languages-fallback-name-vietnamese =
     .label = Vietnamske
 fonts-languages-fallback-name-other =
