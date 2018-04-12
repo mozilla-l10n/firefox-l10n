@@ -292,7 +292,6 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Nauji langai ir kortelės
-home-new-windows-tabs-description = Pasirinkite, ką matysite atverdami savo pradžios tinklalapį, naujus langus, naujas korteles
 
 ## Home Section - Home Page Customization
 
