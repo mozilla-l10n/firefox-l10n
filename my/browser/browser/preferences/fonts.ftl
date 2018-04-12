@@ -20,6 +20,9 @@ fonts-default-serif =
     .label = အစွန်းပါ စာလုံး
 fonts-default-sans-serif =
     .label = အစွန်းမဲ့ စာလုံး
+fonts-allow-own =
+    .label = စာမျက်နှာများအား ၎င်းတို့ စတိုင်လ် ဖောင့်များရွေးခွင့်ပေးပါ
+    .accesskey = A
 
 ## Text Encodings
 ##
