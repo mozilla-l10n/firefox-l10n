@@ -11,6 +11,12 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override-option-always =
+    .label = Always
+colors-page-override-option-auto =
+    .label = Only with High Contrast themes
+colors-page-override-option-never =
+    .label = Never
 colors-text-and-background = Text and Background
 colors-use-system =
     .label = Use system colours
