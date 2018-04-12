@@ -5,13 +5,19 @@
 
 ## Settings
 
+site-data-settings-window =
+    .title = Eñagareko Kookie ha tenda mba'ekuaarãre
 site-data-search-textbox =
     .placeholder = Ñanduti renda jeheka
     .accesskey = S
 site-data-column-host =
     .label = Tenda
+site-data-column-cookies =
+    .label = Kookie
 site-data-column-storage =
     .label = Mbyatyrenda
+site-data-column-last-used =
+    .label = Jejuru paha
 site-data-remove-selected =
     .label = Jeporavope mboguete
     .accesskey = J
@@ -26,3 +32,6 @@ site-data-button-save =
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-header = Emboguete Kookie ha tenda mba'ekuaarã
+site-data-removing-desc = Emboguetéramo Kookie ha tenda mba'ekuaarã ikatu nde pe'a ñanduti rendágui. ¿Ejaposépa añetehápe ñemoambue?
+site-data-removing-table = Emboguetéta Kookie ha tenda mba'ekuaarã ko'ã ñanduti rendágui
