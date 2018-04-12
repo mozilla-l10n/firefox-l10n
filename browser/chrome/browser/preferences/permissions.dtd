@@ -15,7 +15,7 @@
 <!ENTITY address.accesskey            "ស">
 <!ENTITY block.label                  "ទប់ស្កាត់">
 <!ENTITY block.accesskey              "ទ">
-<!ENTITY session.label                "អនុញ្ញាត​សម្រាប់​សម័យ ">
+<!ENTITY session.label                "អនុញ្ញាត​សម្រាប់​សម័យ">
 <!ENTITY session.accesskey            "ត">
 <!ENTITY allow.label                  "អនុញ្ញាត">
 <!ENTITY allow.accesskey              "ត">

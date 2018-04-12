@@ -8,9 +8,9 @@
 <!ENTITY  window.macWidth2              "44em">
 
 <!ENTITY  proxyTitle.label              "កំណត់​រចនាសម្ព័ន្ធ​ប្រូកស៊ី ដើម្បី​ចូល​ដំណើរ​ការ​អ៊ីនធឺណិត">
-<!ENTITY  noProxyTypeRadio.label        "គ្មាន​ប្រូកស៊ី​ទេ ">
+<!ENTITY  noProxyTypeRadio.label        "គ្មាន​ប្រូកស៊ី​ទេ">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
-<!ENTITY  systemTypeRadio.label         "ប្រើ​ការ​កំណត់​ប្រូកស៊ី​របស់​ប្រព័ន្ធ ">
+<!ENTITY  systemTypeRadio.label         "ប្រើ​ការ​កំណត់​ប្រូកស៊ី​របស់​ប្រព័ន្ធ">
 <!ENTITY  systemTypeRadio.accesskey     "u">
 <!ENTITY  WPADTypeRadio.label           "រក​មើល​ការ​កំណត់​ប្រូកស៊ី​ដោយ​ស្វ័យប្រវត្តិ សម្រាប់​បណ្ដាញ​នេះ">
 <!ENTITY  WPADTypeRadio.accesskey       "w">
