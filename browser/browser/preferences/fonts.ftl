@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = 사용 글꼴
+    .accesskey = F
 fonts-langgroup-arabic =
     .label = 아랍어
 fonts-langgroup-armenian =
@@ -52,6 +54,8 @@ fonts-langgroup-malayalam =
     .label = 말라얄람어
 fonts-langgroup-math =
     .label = 수학
+fonts-langgroup-odia =
+    .label = 오디아
 fonts-langgroup-sinhala =
     .label = 싱할라어
 fonts-langgroup-tamil =
@@ -85,8 +89,13 @@ fonts-monospace = 고정폭
     .accesskey = M
 fonts-monospace-size = 크기
     .accesskey = e
+fonts-minsize = 최소 글꼴 크기
+    .accesskey = o
 fonts-minsize-none =
     .label = 없음
+fonts-allow-own =
+    .label = 위에 선택된 서체 대신에 페이지 폰트 설정 표시 허용
+    .accesskey = A
 
 ## Text Encodings
 ##
@@ -95,6 +104,8 @@ fonts-minsize-none =
 
 fonts-languages-fallback-header = 레거시 콘텐츠에 사용할 글자 인코딩
 fonts-languages-fallback-desc = 인코딩 선언이 되어있지 않은 레거시 콘텐츠에 사용할 글자 인코딩입니다.
+fonts-languages-fallback-label = 대체 텍스트 인코딩
+    .accesskey = T
 fonts-languages-fallback-name-auto =
     .label = 현재 언어의 기본값
 fonts-languages-fallback-name-arabic =
