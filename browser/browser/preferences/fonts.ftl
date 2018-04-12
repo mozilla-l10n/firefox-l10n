@@ -50,6 +50,10 @@ fonts-langgroup-latin =
     .label = Laidin
 fonts-langgroup-malayalam =
     .label = Mailéalamach
+fonts-langgroup-math =
+    .label = Matamaitic
+fonts-langgroup-odia =
+    .label = Oiríseach
 fonts-langgroup-sinhala =
     .label = Siolóinis
 fonts-langgroup-tamil =
@@ -73,6 +77,9 @@ fonts-default-sans-serif =
     .label = Sans Serif
 fonts-minsize-none =
     .label = Gan sonrú
+fonts-allow-own =
+    .label = Tabhair cead do leathanaigh a gclónna féin a roghnú, in áit mo roghanna thuas
+    .accesskey = b
 
 ## Text Encodings
 ##
