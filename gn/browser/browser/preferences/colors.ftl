@@ -11,6 +11,8 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override = Toñembosa'y togue ojeipurúvo sa'y ojehechaukáva kóva guýpe
+    .accesskey = O
 colors-page-override-option-always =
     .label = Katui
 colors-page-override-option-auto =
