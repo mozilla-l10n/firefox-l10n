@@ -102,6 +102,8 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-header = Кодування для старих веб-сторінок
+fonts-languages-fallback-desc = Це кодування використовується для старих веб-сторінок, котрі не вказали своє кодування.
 fonts-languages-fallback-label = Резервне кодування тексту
     .accesskey = Р
 fonts-languages-fallback-name-auto =
