@@ -5,6 +5,9 @@
 blocklist-window =
     .title = Seznamy blokování
     .style = width: 50em
+blocklist-desc = Můžete si vybrat, který seznam bude { -brand-short-name } používat k blokování webových prvků, které mohou sledovat vaše chování při prohlížení.
+blocklist-close-key =
+    .key = w
 blocklist-treehead-list =
     .label = Seznam
 blocklist-button-cancel =
