@@ -1,0 +1,49 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+connection-close-key =
+    .key = w
+connection-disable-extension =
+    .label = Eklentiyi etkisizleştir
+connection-proxy-configure = İnternete erişmek için vekil sunucuyu yapılandır
+connection-proxy-option-no =
+    .label = Vekil sunucu yok
+    .accesskey = e
+connection-proxy-option-system =
+    .label = Sistem vekil sunucu ayarlarını kullan
+    .accesskey = S
+connection-proxy-option-manual =
+    .label = Vekil sunucuyu elle ayarla
+    .accesskey = k
+connection-proxy-http = HTTP vekil sunucusu
+    .accesskey = p
+connection-proxy-http-port = Port
+    .accesskey = P
+connection-proxy-ssl = SSL vekil sunucusu
+    .accesskey = L
+connection-proxy-ssl-port = Port
+    .accesskey = o
+connection-proxy-ftp = FTP vekil sunucusu
+    .accesskey = F
+connection-proxy-ftp-port = Port
+    .accesskey = r
+connection-proxy-socks = SOCKS sunucusu
+    .accesskey = C
+connection-proxy-socks-port = Port
+    .accesskey = t
+connection-proxy-socks4 =
+    .label = SOCKS v4
+    .accesskey = K
+connection-proxy-socks5 =
+    .label = SOCKS v5
+    .accesskey = v
+connection-proxy-noproxy = Aşağıdakiler için vekil sunucu kullanılmasın
+    .accesskey = A
+connection-proxy-noproxy-desc = Örnek: .mozilla.org, .com.tr, 192.168.1.0/24
+connection-proxy-autotype =
+    .label = Otomatik vekil sunucu yapılandırma URL’si
+    .accesskey = O
+connection-proxy-reload =
+    .label = Yenile
+    .accesskey = l
