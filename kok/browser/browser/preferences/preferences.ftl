@@ -190,21 +190,69 @@ sync-fxa-privacy-notice = गुप्तता नेटिस
 
 ## Privacy Section - Forms
 
+forms-exceptions =
+    .label = अपवाद...
+    .accesskey = व
+forms-master-pw-use =
+    .label = प्रधान गुप्त शब्द वापरात
+    .accesskey = U
+forms-master-pw-change =
+    .label = प्रधान गुप्त शब्द बदलात...
+    .accesskey = M
 
 ## Privacy Section - History
 
+history-header = इतिहास
+history-dontremember-description = { -brand-short-name } खाजगी ब्रावजिंगाभशेन स्थापितां वापरतले, आनी तुमी वेब ब्रावज करता तेन्ना कसलोच इतिहास याद दवरचे ना.
+history-private-browsing-permanent =
+    .label = सदाच खाजगी ब्रावजींग स्थिती वापरात
+    .accesskey = p
+history-remember-option =
+    .label = म्हजी ब्रावजींग आनि डावनलोड इतिहास याद दवरात
+    .accesskey = b
+history-remember-search-option =
+    .label = सोद आनी फॉर्म इतिहास उगडास धरचो
+    .accesskey = फ
+history-clear-on-close-option =
+    .label = &brandShortName बंद जाता तेन्ना इतिहास पुसचो
+    .accesskey = च
+history-clear-on-close-settings =
+    .label = मांडावळी…
+    .accesskey = ड
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-visited-option =
+    .label = भेट दिल्ल्या कडल्यान
+sitedata-accept-third-party-never-option =
+    .label = केन्नाच ना
+sitedata-cookies-exceptions =
+    .label = अपवाद...
+    .accesskey = E
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-bookmarks-option =
+    .label = बुकमार्कस्
+    .accesskey = k
+addressbar-locbar-openpage-option =
+    .label = टॅबां उगडात
+    .accesskey = उ
 
 ## Privacy Section - Tracking
 
 
 ## Privacy Section - Permissions
 
+permissions-block-popups =
+    .label = पॉप अप जनेलां आडयात
+    .accesskey = B
+permissions-block-popups-exceptions =
+    .label = अपवाद...
+    .accesskey = E
+permissions-addon-exceptions =
+    .label = अपवाद...
+    .accesskey = E
 
 ## Privacy Section - Data Collection
 
@@ -217,3 +265,7 @@ sync-fxa-privacy-notice = गुप्तता नेटिस
 
 ## Privacy Section - Certificates
 
+certs-header = प्रमाणपत्रां
+certs-enable-ocsp =
+    .label = प्रमाणपत्रांची सद्याची वैधता विचारपाक OCSP प्रतिसाद दिवपी सर्वरांक प्रस्न विचारात{ " " }
+    .accesskey = प
