@@ -22,3 +22,29 @@ fonts-minsize-none =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-name-auto =
+    .label = المبدئي من لغة البرنامج
+fonts-languages-fallback-name-arabic =
+    .label = عربي
+fonts-languages-fallback-name-ceiso =
+    .label = وسط أوروبي، أيزو
+fonts-languages-fallback-name-cewindows =
+    .label = وسط أوروبي، ميكروسوفت
+fonts-languages-fallback-name-simplified =
+    .label = صيني مبسّط
+fonts-languages-fallback-name-traditional =
+    .label = صيني تقليدي
+fonts-languages-fallback-name-cyrillic =
+    .label = سريلي
+fonts-languages-fallback-name-greek =
+    .label = يوناني
+fonts-languages-fallback-name-hebrew =
+    .label = عبري
+fonts-languages-fallback-name-japanese =
+    .label = ياباني
+fonts-languages-fallback-name-korean =
+    .label = كوري
+fonts-languages-fallback-name-thai =
+    .label = تايلاندي
+fonts-languages-fallback-name-vietnamese =
+    .label = الفيتناميّة
