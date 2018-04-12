@@ -5,10 +5,22 @@
 
 ## Settings
 
+site-data-search-textbox =
+    .placeholder = ဝဘ်ဆိုက်များကို ရှာဖွေရန်
+    .accesskey = S
 site-data-column-host =
     .label = ဆိုက်
 site-data-column-storage =
     .label = သိမ်းဆည်းပါ
+site-data-remove-selected =
+    .label = ရွေးထားသည့်အရာများကို ဖယ်ရှားပါ
+    .accesskey = r
+site-data-button-cancel =
+    .label = မလုပ်ဆောင်တော့ပါ
+    .accesskey = C
+site-data-button-save =
+    .label = ပြောင်းလဲမှုများကို သိမ်းပါ
+    .accesskey = a
 
 ## Removing
 
