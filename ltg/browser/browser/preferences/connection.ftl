@@ -13,6 +13,7 @@ connection-close-key =
     .key = w
 connection-disable-extension =
     .label = Deaktivēt paplošynuojumu
+connection-proxy-configure = Konfigureit storpnīkserverus pīkļiušonai internetam
 connection-proxy-option-no =
     .label = Bez proxy
     .accesskey = y
