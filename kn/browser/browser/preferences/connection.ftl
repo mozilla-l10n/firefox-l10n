@@ -4,6 +4,12 @@
 
 connection-close-key =
     .key = w
+connection-proxy-option-auto =
+    .label = ಈ ಜಾಲಬಂಧಕ್ಕೆ  ಪ್ರಾಕ್ಸಿ ಸಿದ್ಧತೆಗಳನ್ನು ನೀನಾಗಿಯೆ ಹುಡುಕು
+    .accesskey = w
+connection-proxy-http-share =
+    .label = ಎಲ್ಲಾ ಪ್ರೋಟೊಕಾಲ್‍ಗಳಿಗೆ  ಈ ಪ್ರಾಕ್ಸಿ ಪರಿಚಾರಕವನ್ನು ಬಳಸು
+    .accesskey = s
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = K
