@@ -10,13 +10,13 @@
 <!ENTITY connectionFailure.title "Conectare eșuată">
 <!ENTITY connectionFailure.longDesc "<p>Deși site-ul pare valid, browserul nu a putut stabili o conexiune.</p><ul><li>Se poate ca site-ul să fie momentan indisponibil? Încearcă din nou mai târziu.</li><li>Ai probleme la navigarea pe alte site-uri?  Verifică conexiunea la rețea a calculatorului.</li><li>Calculatorul este protejat de un firewall sau proxy? Setările incorecte ale acestora poate afecta navigarea pe web.</li></ul>">
 
-<!ENTITY deniedPortAccess.title "Port blocat din motive de securitate">
+<!ENTITY deniedPortAccess.title "Port restricționat din motive de securitate">
 <!ENTITY deniedPortAccess.longDesc "<p>Adresa cerută specifică un port (ex. <q>mozilla.org:80</q> înseamnă portul 80 la mozilla.org) care în mod normal e folosit pentru <em>alte</em> scopuri decât navigarea pe web. Browserul a anulat această cerere pentru securitatea și protecția dumneavoastră.</p>">
 
-<!ENTITY dnsNotFound.title "Adresa nu a fost găsită">
+<!ENTITY dnsNotFound.title "Adresă negăsită">
 <!ENTITY dnsNotFound.longDesc "<p>Browserul nu a găsit serverul gazdă al adresei specificate.</p><ul><li>Ai tastat greșit numele domeniului? (ex. <q><strong>ww</strong>.mozilla.org</q> în loc de <q><strong>www</strong>.mozilla.org</q>)</li><li>Ești sigur că acest domeniu există?  Se poate ca înregistrarea sa să fi expirat.</li><li>Ai probleme cu navigarea pe alte site-uri?  Verifică conexiunea la rețea și setările serverului DNS.</li><li>Calculatorul este protejat de un firewall sau proxy? Setările incorecte ale acestora poate afecta navigarea pe web.</li></ul>">
 
-<!ENTITY fileNotFound.title "Fișierul nu a fost găsit">
+<!ENTITY fileNotFound.title "Fișier negăsit">
 <!ENTITY fileNotFound.longDesc "<ul><li>Se poate ca acesta să fi fost redenumit, mutat sau șters?</li><li>Adresa conține vreo eroare de tastare, sau majuscule în loc de minuscule ori invers?</li><li>Aveți suficiente drepturi de acces la fișierul cerut?</li></ul>">
 
 <!ENTITY fileAccessDenied.title "Accesul la fișier a fost refuzat">
@@ -37,7 +37,7 @@
 <!ENTITY netOffline.title "Mod offline">
 <!ENTITY netOffline.longDesc2 "<p>Browserul este în mod offline și nu se poate conecta la elementul cerut.</p><ul><li>Este calculatorul conectat la o rețea activă?</li><li>Apăsați „Încearcă din nou” pentru a comuta la modul online și a reîncărca pagina.</li></ul>">
 
-<!ENTITY contentEncodingError.title "Eroare de codare a conținutului">
+<!ENTITY contentEncodingError.title "Eroare privind codarea conținutului">
 <!ENTITY contentEncodingError.longDesc "<p>Pagina pe care încerci să o vezi nu poate fi afișată pentru că folosește o formă de compresie nevalidă sau nesuportată.</p><ul><li>Te rugăm să contactezi proprietarii site-ului web pentru a-i informa despre această problemă.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Tip de fișier nesigur">
@@ -52,10 +52,10 @@
 <!ENTITY unknownProtocolFound.title "Protocol necunoscut">
 <!ENTITY unknownProtocolFound.longDesc "<p>Adresa specifică un protocol (de ex., <q>wxyz://</q>) pe care browserul nu îl cunoaște, astfel că browserul nu se poate conecta în mod corespunzător la site.</p><ul><li>Încerci să accesezi conținut multimedia sau alte servicii nontext? Verifică site-ul pentru cerințe suplimentare.</li><li>Unele protocoale pot necesita programe terțe sau pluginuri înainte ca browserul să le poată recunoaște.</li></ul>">
 
-<!ENTITY proxyConnectFailure.title "Serverul proxy refuză conexiunea">
+<!ENTITY proxyConnectFailure.title "Serverul proxy a refuzat conexiunea">
 <!ENTITY proxyConnectFailure.longDesc "<p>Browserul este configurat să folosească un server proxy, însă proxy-ul a refuzat o conexiune.</p><ul><li>Este browserul configurat corect pentru acel proxy? Verificați setările și încercați din nou.</li><li>Serviciul proxy permite conexiuni din această rețea?</li><li>Problemele persistă? Consultați administratorul sau furnizorul de servicii internet pentru asistență.</li></ul>">
 
-<!ENTITY proxyResolveFailure.title "Serverul proxy nu a fost găsit">
+<!ENTITY proxyResolveFailure.title "Serverul proxy negăsit">
 <!ENTITY proxyResolveFailure.longDesc "<p>Browserul este configurat să folosească un server proxy, însă proxy-ul nu poate fi găsit.</p><ul><li>Este browserul configurat corect pentru acel proxy? Verificați setările și încercați din nou.</li><li>Este calculatorul conectat la o rețea activă?</li><li>Problemele persistă? Consultați administratorul sau furnizorul de servicii internet pentru asistență.</li></ul>">
 
 <!ENTITY redirectLoop.title "Buclă de redirecționări">
@@ -87,3 +87,4 @@
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> folosește tehnologie de securitate care este învechită și vulnerabilă la atac. Un atacator ar putea dezvălui cu ușurință informații pe care le credeai a fi în siguranță. Administratorul site-ului web va trebui să repare serverul mai întâi înainte să poți vizita site-ul.</p><p>Codul erorii: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
+<!ENTITY blockedByPolicy.title "Pagină blocată">
