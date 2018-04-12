@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = Skrifttypar for
+    .accesskey = f
 fonts-langgroup-arabic =
     .label = Arabisk
 fonts-langgroup-armenian =
@@ -69,18 +71,39 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Proporsjonal
+    .accesskey = P
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+fonts-proportional-size = Storleik
+    .accesskey = r
+fonts-serif = Seriff
+    .accesskey = S
+fonts-sans-serif = Sans-serif
+    .accesskey = n
+fonts-monospace = Fast breidde
+    .accesskey = a
+fonts-monospace-size = Storleik
+    .accesskey = e
+fonts-minsize = Minste skriftstorleik
+    .accesskey = s
 fonts-minsize-none =
     .label = Ingen
+fonts-allow-own =
+    .label = Tillat nettsider å velje eigne skrifttypar i staden for dei som er valde ovanfor
+    .accesskey = T
 
 ## Text Encodings
 ##
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-header = Tekstkoding for eldre innhald
+fonts-languages-fallback-desc = Denne teiknkodinga vert brukt for eldre innhald som ikkje har spesifisert noko anna koding.
+fonts-languages-fallback-label = Reserve-teiknkoding
+    .accesskey = t
 fonts-languages-fallback-name-auto =
     .label = Standard for gjeldande språk
 fonts-languages-fallback-name-arabic =
@@ -111,3 +134,5 @@ fonts-languages-fallback-name-turkish =
     .label = Tyrkisk
 fonts-languages-fallback-name-vietnamese =
     .label = Vietnamesisk
+fonts-languages-fallback-name-other =
+    .label = Anna (inkl. vesteuropeisk)
