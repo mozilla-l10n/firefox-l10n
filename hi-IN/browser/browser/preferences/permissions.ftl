@@ -2,7 +2,25 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+permissions-window =
+    .title = अपवाद
+    .style = width: 45em
 permissions-close-key =
     .key = w
+permissions-block =
+    .label = रोकें
+    .accesskey = B
+permissions-session =
+    .label = सत्र के लिए अनुमति दें
+    .accesskey = S
+permissions-allow =
+    .label = अनुमति दें
+    .accesskey = A
 permissions-status =
     .label = स्थिति
+permissions-button-cancel =
+    .label = रद्द करें
+    .accesskey = C
+permissions-button-ok =
+    .label = परिवर्तन सहेजें
+    .accesskey = S
