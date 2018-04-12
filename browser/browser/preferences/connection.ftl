@@ -11,6 +11,9 @@ connection-window =
         }
 connection-close-key =
     .key = w
+connection-disable-extension =
+    .label = Kiterjesztés letiltása
+connection-proxy-configure = Proxy beállítása az internet eléréséhez
 connection-proxy-option-no =
     .label = Nincs proxy
     .accesskey = N
