@@ -11,6 +11,14 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override = 위에 선택한 색상으로 페이지에서 선택한 색상 덮어씀
+    .accesskey = O
+colors-page-override-option-always =
+    .label = 항상
+colors-page-override-option-auto =
+    .label = 고대비 테마에서만
+colors-page-override-option-never =
+    .label = 하지 않음
 colors-text-and-background = 글자와 배경
 colors-use-system =
     .label = 시스템 색상 사용
