@@ -74,3 +74,5 @@ fonts-minsize-none =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-name-traditional =
+    .label = Chinu, tradicional
