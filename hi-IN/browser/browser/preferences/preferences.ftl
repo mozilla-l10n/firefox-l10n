@@ -219,7 +219,7 @@ play-drm-content =
 play-drm-content-learn-more = अधिक जानें
 update-application-title = { -brand-short-name } अद्यतन
 update-application-description = सर्वोत्तम प्रदर्शन, स्थिरता और सुरक्षा के लिए { -brand-short-name } को नवीनतम रखें.
-update-application-info = संस्करण{ $version }‌ <a>क्या नया है?</a>
+update-application-info = संस्करण { $version }‌ <a>क्या नया है?</a>
 update-history =
     .label = अद्यतन इतिहास दिखाएँ…
     .accesskey = p
@@ -290,7 +290,6 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = नया विंडोज और टैब
-home-new-windows-tabs-description = चुने की आप क्या देखेंगे जब आप अपना होमपेज, नयी विंडो, तथा नया टैब खोलेंगे
 
 ## Home Section - Home Page Customization
 

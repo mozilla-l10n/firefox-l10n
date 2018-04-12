@@ -98,7 +98,7 @@ available. -->
  -->
 <!ENTITY updateApplicationDescription.label
                                          "सर्वोत्तम प्रदर्शन, स्थिरता और सुरक्षा के लिए &brandShortName; को नवीनतम रखें.">
-<!ENTITY updateApplication.version.pre   "संस्करण">
+<!ENTITY updateApplication.version.pre   "संस्करण ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "के लिए &brandShortName; को अनुमति दें">
 <!ENTITY updateAuto3.label               "स्वचालित रूप से (अनुशंसित) अद्यतन स्थापित करें">
