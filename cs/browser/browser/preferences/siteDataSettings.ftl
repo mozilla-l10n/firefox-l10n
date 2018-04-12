@@ -18,6 +18,12 @@ site-data-column-storage =
     .label = Úložiště
 site-data-column-last-used =
     .label = Poslední použití
+site-data-button-cancel =
+    .label = Zrušit
+    .accesskey = Z
+site-data-button-save =
+    .label = Uložit změny
+    .accesskey = l
 
 ## Removing
 
