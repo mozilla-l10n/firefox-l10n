@@ -7,6 +7,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = Merkistö
+    .accesskey = M
 fonts-langgroup-kannada =
     .label = Kannadalainen
 # Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
@@ -14,15 +16,36 @@ fonts-langgroup-latin =
     .label = Latinalainen
 fonts-langgroup-math =
     .label = Matematiikka
+fonts-langgroup-odia =
+    .label = Orija
 fonts-langgroup-sinhala =
     .label = Singalilainen
 fonts-langgroup-telugu =
     .label = Telugulainen
 fonts-langgroup-tibetan =
     .label = Tiibettiläinen
+fonts-langgroup-other =
+    .label = Muut kirjoitusjärjestelmät
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Suhteellinen
+    .accesskey = S
+fonts-proportional-size = Koko
+    .accesskey = K
+fonts-serif = Pääteviivallinen
+    .accesskey = P
+fonts-sans-serif = Pääteviivaton
+    .accesskey = ä
+fonts-monospace = Tasavälinen
+    .accesskey = T
+fonts-monospace-size = Koko
+    .accesskey = a
+fonts-minsize = Pienin kirjasinkoko
+    .accesskey = e
+fonts-allow-own =
+    .label = Sivut saavat käyttää omia kirjasinlajejaan oletusten sijaan
+    .accesskey = u
 
 ## Text Encodings
 ##
@@ -31,6 +54,8 @@ fonts-langgroup-tibetan =
 
 fonts-languages-fallback-header = Merkistökoodaus perinteiselle sisällölle
 fonts-languages-fallback-desc = Tätä merkistökoodausta käytetään perinteiselle sisällölle, jolle ei virheellisesti ole määritelty käytettävää merkistökoodausta.
+fonts-languages-fallback-label = Merkistökoodaus virhetilanteessa
+    .accesskey = v
 fonts-languages-fallback-name-auto =
     .label = Oletus nykyiselle alueasetukselle
 fonts-languages-fallback-name-arabic =
