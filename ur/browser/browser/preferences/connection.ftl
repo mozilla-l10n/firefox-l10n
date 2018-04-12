@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+connection-window =
+    .title = کنکشن سیٹکگیں
+    .style =
+        { PLATFORM() ->
+            [macos] width: 44em
+           *[other] width: 49em
+        }
 connection-close-key =
     .key = w
 connection-proxy-option-no =
@@ -26,3 +33,10 @@ connection-proxy-noproxy-desc = مثال: .mozilla.org ،.net.nz ،192.168.1.0/2
 connection-proxy-reload =
     .label = پھر لوڈ کریں
     .accesskey = پ
+connection-proxy-autologin =
+    .label = { " " }تصدیق کے لئے فوری طور پر ترغیب نہیں دیں اگر پاس ورڈ پہلے سے محفوظ شدہ ہے
+    .accesskey = غ
+    .tooltip = یہ اختیار خاموشی سے پراکسی پر توثیق کر دیتی ہے جب آپ نے ان کے لیے اسناد محفوظ کیے ہوں۔  توثیق ناکام ہونے کی صورت میں آپ کو بتا دیا جائے گا۔
+connection-proxy-socks-remote-dns =
+    .label = پراکسی DNS جب استعمال کر رہے ہوں SOCKS v5
+    .accesskey = d
