@@ -7,28 +7,42 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-arabic =
+    .label = అరబిక్
 fonts-langgroup-armenian =
     .label = ఆర్మేనియన్
 fonts-langgroup-bengali =
     .label = బెంగాలి
+fonts-langgroup-cyrillic =
+    .label = సిరిల్లిక్
 fonts-langgroup-devanagari =
     .label = దేవనాగరి
 fonts-langgroup-ethiopic =
     .label = ఇథియోపిక్
 fonts-langgroup-georgian =
     .label = జోర్జియన్
+fonts-langgroup-el =
+    .label = గ్రీకు
 fonts-langgroup-gujarati =
     .label = గుజరాతి
 fonts-langgroup-gurmukhi =
     .label = గుర్ముఖి
+fonts-langgroup-japanese =
+    .label = జపనీ
+fonts-langgroup-hebrew =
+    .label = హీబ్రూ
 fonts-langgroup-kannada =
     .label = కన్నడ
 fonts-langgroup-khmer =
     .label = ఖెమెర్
+fonts-langgroup-korean =
+    .label = కొరియన్
 fonts-langgroup-malayalam =
     .label = మలయాళం
 fonts-langgroup-tamil =
     .label = తమిళం
+fonts-langgroup-thai =
+    .label = థాయి
 fonts-langgroup-canadian =
     .label = యూనిఫైడ్ కెనడియన్ సిల్లబరి
 
@@ -44,3 +58,25 @@ fonts-minsize-none =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-name-arabic =
+    .label = అరబిక్
+fonts-languages-fallback-name-ceiso =
+    .label = సెంట్రల్ యూరోపియన్, ISO
+fonts-languages-fallback-name-cewindows =
+    .label = సెంట్రల్ యూరోపియన్, మైక్రోసాఫ్ట్
+fonts-languages-fallback-name-simplified =
+    .label = చైనీస్, సింప్లిఫైడ్
+fonts-languages-fallback-name-cyrillic =
+    .label = సిరిల్లిక్
+fonts-languages-fallback-name-greek =
+    .label = గ్రీకు
+fonts-languages-fallback-name-hebrew =
+    .label = హీబ్రూ
+fonts-languages-fallback-name-japanese =
+    .label = జపనీ
+fonts-languages-fallback-name-korean =
+    .label = కొరియన్
+fonts-languages-fallback-name-thai =
+    .label = థాయి
+fonts-languages-fallback-name-vietnamese =
+    .label = వియత్నామీస్
