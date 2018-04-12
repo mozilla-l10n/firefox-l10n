@@ -43,6 +43,9 @@ fonts-langgroup-khmer =
     .label = Khmer
 fonts-langgroup-korean =
     .label = Coreà
+# Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+fonts-langgroup-latin =
+    .label = Llatí
 fonts-langgroup-malayalam =
     .label = Malaiàlam
 fonts-langgroup-tamil =
@@ -55,6 +58,8 @@ fonts-langgroup-tibetan =
     .label = Tibetà
 fonts-langgroup-canadian =
     .label = Unified Canadian Syllabary
+fonts-langgroup-other =
+    .label = Altres sistemes d'escriptura
 
 ## Default fonts and their sizes
 
