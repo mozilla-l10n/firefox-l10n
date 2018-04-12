@@ -13,3 +13,6 @@ blocklist-treehead-list =
 blocklist-button-cancel =
     .label = বাতিল C
     .accesskey = C
+blocklist-button-ok =
+    .label = পরিবর্তন সংরক্ষণ করুন
+    .accesskey = S
