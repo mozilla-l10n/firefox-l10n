@@ -5,6 +5,7 @@
 blocklist-window =
     .title = Blokkeringslister
     .style = width: 55em
+blocklist-desc = Du kan velje kva for lister { -brand-short-name } skal bruke for å blokkere web-element som kan spore nettlesaraktiviteten din.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
