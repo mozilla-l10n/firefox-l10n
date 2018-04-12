@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = Phông cho
+    .accesskey = F
 fonts-langgroup-armenian =
     .label = Armenia
 fonts-langgroup-bengali =
@@ -57,6 +59,10 @@ fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+fonts-proportional-size = Kích thước
+    .accesskey = z
+fonts-monospace-size = Kích thước
+    .accesskey = h
 fonts-minsize-none =
     .label = Không
 fonts-allow-own =
