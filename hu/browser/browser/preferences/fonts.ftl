@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = Betűkészletek ehhez:
+    .accesskey = k
 fonts-langgroup-arabic =
     .label = Arab
 fonts-langgroup-armenian =
@@ -50,6 +52,10 @@ fonts-langgroup-latin =
     .label = latin
 fonts-langgroup-malayalam =
     .label = Malayalam
+fonts-langgroup-math =
+    .label = Matematika
+fonts-langgroup-odia =
+    .label = Odia
 fonts-langgroup-sinhala =
     .label = Sinhala
 fonts-langgroup-tamil =
@@ -67,18 +73,39 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Változó szélességű
+    .accesskey = V
 fonts-default-serif =
     .label = Talpas
 fonts-default-sans-serif =
     .label = Talpatlan
+fonts-proportional-size = Méret
+    .accesskey = M
+fonts-serif = Talpas
+    .accesskey = T
+fonts-sans-serif = Talpatlan
+    .accesskey = n
+fonts-monospace = Fix szélességű
+    .accesskey = F
+fonts-monospace-size = Méret
+    .accesskey = r
+fonts-minsize = Legkisebb betűméret
+    .accesskey = L
 fonts-minsize-none =
     .label = Nincs
+fonts-allow-own =
+    .label = Az oldalak a saját maguk által kiválasztott betűket használhatják a fent megadottak helyett
+    .accesskey = d
 
 ## Text Encodings
 ##
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-header = Karakterkódolás örökölt tartalomhoz
+fonts-languages-fallback-desc = Ez a karakterkódolás kerül felhasználásra az örökölt tartalmakhoz, amelyek nem adják meg a kódolásukat.
+fonts-languages-fallback-label = Tartalék kódolás
+    .accesskey = d
 fonts-languages-fallback-name-auto =
     .label = Területi beállítás alapértelmezése
 fonts-languages-fallback-name-arabic =
