@@ -4,6 +4,8 @@
 
 fonts-window =
     .title = 글꼴
+fonts-window-close =
+    .key = w
 
 ## Font groups by language
 
@@ -83,12 +85,16 @@ fonts-monospace = 고정폭
     .accesskey = M
 fonts-monospace-size = 크기
     .accesskey = e
+fonts-minsize-none =
+    .label = 없음
 
 ## Text Encodings
 ##
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-header = 레거시 콘텐츠에 사용할 글자 인코딩
+fonts-languages-fallback-desc = 인코딩 선언이 되어있지 않은 레거시 콘텐츠에 사용할 글자 인코딩입니다.
 fonts-languages-fallback-name-auto =
     .label = 현재 언어의 기본값
 fonts-languages-fallback-name-arabic =
