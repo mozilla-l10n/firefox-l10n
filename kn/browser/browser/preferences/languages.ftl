@@ -7,6 +7,7 @@ languages-window =
     .style = width: 30em
 languages-close-key =
     .key = w
+languages-description = ಜಾಲ ಪುಟಗಳು ಕೆಲವೊಮ್ಮೆ ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚಿನ ಭಾಷೆಯಲ್ಲಿ ನೀಡಲ್ಪಡುತ್ತದೆ. ಈ ಜಾಲ ಪುಟಗಳನ್ನು ತೋರಿಸಲು ಭಾಷೆಯನ್ನು ಆದ್ಯತೆಯ ಕ್ರಮದಲ್ಲಿ ಆರಿಸಿ
 languages-customize-moveup =
     .label = ಮೇಲೆ ಜರುಗಿಸು
     .accesskey = U
