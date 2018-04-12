@@ -19,4 +19,5 @@ app-manager-handle-file = Sie können { $type }-Inhalte mit folgenden Anwendunge
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.
 
+app-manager-web-app-info = Diese Web-App wird betrieben von:
 app-manager-local-app-info = Diese Anwendung ist gespeichert unter:
