@@ -61,6 +61,8 @@ can reach it easily. -->
 <!ENTITY  closeTab.label                     "Lat att fana">
 <!ENTITY  closeTab.accesskey                 "n">
 
+<!ENTITY  hiddenTabs.label                   "Skjulte faner">
+
 <!ENTITY  listAllTabs.label      "Vis liste over alle faner">
 
 <!ENTITY tabCmd.label "Ny fane">
@@ -222,6 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Lagre data i vedvarande lagring">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Nettlesaren er under fjernstyring">
 
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Handter deling av kamera og/eller mikrofon på denne nettstaden">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Handter deling av mikrofon med denne nettstaden">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Handter deling av vindauge eller skjerm med nettstaden">
@@ -268,7 +271,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addBookmarksMenu.label             "Legg til bokmerkemeny i verktøylinja">
 <!ENTITY removeBookmarksMenu.label          "Fjern bokmerkemeny frå verktøylinja">
 
-<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 <!ENTITY bookmarksGtkCmd.commandkey "o">
@@ -299,6 +302,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY inspectContextMenu.label     "Inspiser element">
 <!ENTITY inspectContextMenu.accesskey "I">
+
 
 <!ENTITY fileMenu.label         "Fil">
 <!ENTITY fileMenu.accesskey       "F">
@@ -385,7 +389,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Slå på fane-synkronisering for å sjå ei liste over faner frå dei andre einingane dine.">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Vil du sjå faner frå dei andre einingane dine her?">
