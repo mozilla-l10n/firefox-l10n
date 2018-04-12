@@ -67,7 +67,7 @@ fonts-langgroup-thai =
 fonts-langgroup-tibetan =
     .label = Aj Tibet
 fonts-langgroup-canadian =
-    .label = Rujachik tunun ruk'u'x tzij aj Canada{ " " }
+    .label = Rujachik tunun ruk'u'x tzij aj Canada
 fonts-langgroup-other =
     .label = Ch'aqa' chik taq rub'eyal ri tz'ib'axik
 
