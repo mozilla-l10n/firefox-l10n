@@ -8,7 +8,13 @@ app-manager-window =
 app-manager-remove =
     .label = Eliminar
     .accesskey = E
+app-manager-handle-webfeeds = Las siguientes aplicaciones pueden ser usadas para manejar Canales web.
+# Variables:
+#   $type (String) - the MIME type (e.g. application/binary)
+app-manager-handle-file = Las siguientes aplicaciones pueden ser usadas para manejar contenido { $type }.
 
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.
 
+app-manager-web-app-info = Esta aplicación web está alojada en:
+app-manager-local-app-info = Esta aplicación web está ubicada en:
