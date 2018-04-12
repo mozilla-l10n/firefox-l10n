@@ -11,3 +11,11 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-text-and-background = Tekstin ja taustan asetukset
+colors-use-system =
+    .label = Käytä järjestelmän värejä
+    .accesskey = K
+colors-underline-links =
+    .label = Alleviivaa linkit
+    .accesskey = A
+colors-links-header = Linkkien värit
