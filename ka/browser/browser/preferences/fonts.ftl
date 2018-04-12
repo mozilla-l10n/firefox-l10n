@@ -31,6 +31,9 @@ fonts-langgroup-gurmukhi =
     .label = გურმუხი
 fonts-langgroup-khmer =
     .label = ქჰმერული
+# Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+fonts-langgroup-latin =
+    .label = ლათინური
 fonts-langgroup-tamil =
     .label = თამილური
 fonts-langgroup-telugu =
@@ -48,3 +51,5 @@ fonts-langgroup-canadian =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-name-vietnamese =
+    .label = ვიეტნამური
