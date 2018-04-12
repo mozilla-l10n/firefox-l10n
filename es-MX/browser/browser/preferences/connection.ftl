@@ -30,3 +30,6 @@ connection-proxy-autologin =
     .label = No pedir identificación si la contraseña está guardada
     .accesskey = i
     .tooltip = Esta opción te identifica silenciosamente con los proxys cuando has guardado credenciales para ellos. Serás requerido si la identificación falla.
+connection-proxy-socks-remote-dns =
+    .label = Proxy DNS cuando uses SOCKS v5
+    .accesskey = D
