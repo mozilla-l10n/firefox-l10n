@@ -11,6 +11,8 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override = Timpa warna yang ditentukan oleh laman dengan pilihan Anda di atas
+    .accesskey = T
 colors-page-override-option-always =
     .label = Selalu
 colors-page-override-option-auto =
@@ -29,3 +31,7 @@ colors-underline-links =
     .label = Garisbawahi tautan
     .accesskey = G
 colors-links-header = Warna Tautan
+colors-unvisited-links = Tautan yang Belum Dikunjungi
+    .accesskey = T
+colors-visited-links = Tautan yang Sudah Dikunjungi
+    .accesskey = D
