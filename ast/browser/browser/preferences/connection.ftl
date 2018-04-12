@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+connection-window =
+    .title = Axustes de conexón
+    .style =
+        { PLATFORM() ->
+            [macos] width: 44em
+           *[other] width: 49em
+        }
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -52,3 +59,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Recargar
     .accesskey = R
+connection-proxy-autologin =
+    .label = Nun entrugar identificación si la contraseña ta guardada
+    .accesskey = u
+    .tooltip = Esta opción identifícate de mou silenciosu énte los proxys cuando guardasti les credenciales pa ellos. Va entrugásete si falla la identificación.
+connection-proxy-socks-remote-dns =
+    .label = Proxy DNS al usar SOCKS v5
+    .accesskey = { "" }
