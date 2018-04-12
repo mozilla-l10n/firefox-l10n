@@ -7,6 +7,7 @@ languages-window =
     .style = width: 30em
 languages-close-key =
     .key = w
+languages-description = گاهی صفحات وب به زبان‌های دیگر هم ارائه می‌شوند. زبان‌هایی که مایلید این صفحات را ببینید را به ترتیب ترجیحات خود انتخاب کنید
 languages-customize-moveup =
     .label = انتقال به بالا
     .accesskey = ب
