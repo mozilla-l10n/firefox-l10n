@@ -88,6 +88,8 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Кадаванне тэксту для спадчыннага змесціва
 fonts-languages-fallback-desc = Гэта кадаванне тэксту будзе выкарыстана для змесціва, у якім не пазначана кадаванне.
+fonts-languages-fallback-name-auto =
+    .label = Прадвызначана для гэтай мясцовасці
 fonts-languages-fallback-name-arabic =
     .label = Арабская
 fonts-languages-fallback-name-baltic =
