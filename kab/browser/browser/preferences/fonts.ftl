@@ -97,6 +97,7 @@ fonts-allow-own =
 ## of the language.
 
 fonts-languages-fallback-header = Asettengel n uḍris i ugbur aqbuṛ
+fonts-languages-fallback-desc = Asettengel-a n uḍris ittuseqdec i ugbur aqbuṛ ur d-nettammal ara asettengel-ines.
 fonts-languages-fallback-label = Asettengel n uḍris n ufran aneggaru
     .accesskey = M
 fonts-languages-fallback-name-auto =
