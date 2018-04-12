@@ -68,6 +68,8 @@ fonts-langgroup-tibetan =
     .label = Tatibitant
 fonts-langgroup-canadian =
     .label = Unṭiq akanadi yedduklen
+fonts-langgroup-other =
+    .label = Inagrawen n tira-nniḍen
 
 ## Default fonts and their sizes
 
@@ -77,12 +79,16 @@ fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans serif
+fonts-proportional-size = Teɣzi
+    .accesskey = T
 fonts-serif = Serif
     .accesskey = T
 fonts-sans-serif = Sans-serif
     .accesskey = l
 fonts-monospace = Tehri tusbuṭ
     .accesskey = F
+fonts-monospace-size = Teɣzi
+    .accesskey = e
 fonts-minsize = Teɣzi taddayt n tsefsit
     .accesskey = w
 fonts-minsize-none =
@@ -130,3 +136,5 @@ fonts-languages-fallback-name-turkish =
     .label = Taṭurkit
 fonts-languages-fallback-name-vietnamese =
     .label = Tavyiṭnamit
+fonts-languages-fallback-name-other =
+    .label = Ayen-nniḍen (Yedda Uṛup n umalu)
