@@ -41,6 +41,8 @@ fonts-langgroup-tamil =
     .label = تامیلی
 fonts-langgroup-telugu =
     .label = تلوگویی
+fonts-langgroup-tibetan =
+    .label = تبتی
 fonts-langgroup-canadian =
     .label = آوانگاری کانادایی واحد
 
