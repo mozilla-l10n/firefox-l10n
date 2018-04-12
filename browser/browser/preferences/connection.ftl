@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+connection-window =
+    .title = ការ​កំណត់​ការ​តភ្ជាប់
+    .style =
+        { PLATFORM() ->
+            [macos] width: 44em
+           *[other] width: 49em
+        }
 connection-close-key =
     .key = w
 connection-proxy-option-no =
@@ -13,6 +20,9 @@ connection-proxy-option-system =
 connection-proxy-option-auto =
     .label = រក​មើល​ការ​កំណត់​ប្រូកស៊ី​ដោយ​ស្វ័យប្រវត្តិ សម្រាប់​បណ្ដាញ​នេះ
     .accesskey = w
+connection-proxy-http-share =
+    .label = ប្រើ​ម៉ាស៊ីន​បម្រើ​ប្រូកស៊ី​នេះ​សម្រាប់​ពិធីការ​ទាំងអស់
+    .accesskey = s
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = K
