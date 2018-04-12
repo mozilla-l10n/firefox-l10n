@@ -11,6 +11,12 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override-option-always =
+    .label = Alltid
+colors-page-override-option-auto =
+    .label = Bare ved bruk av høykontrast-temaer
+colors-page-override-option-never =
+    .label = Aldri
 colors-text-and-background = Tekst og bakgrunn
 colors-use-system =
     .label = Bruk systemfarger
