@@ -290,7 +290,6 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Leiho eta fitxa berriak
-home-new-windows-tabs-description = Aukeratu zer ikusi nahi duzun zure hasiera-orria, leiho berriak eta fitxa berriak irekitzean
 
 ## Home Section - Home Page Customization
 
