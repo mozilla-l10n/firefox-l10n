@@ -42,7 +42,7 @@ containers-remove-alert-title = Fjern denne kontekst?
 containers-remove-alert-msg =
     { $count ->
         [one] { $count } kontekst-faneblad vil blive lukket, hvis du sletter denne kontekst. Er du sikker på, at du vil fjerne denne kontekst?
-       *[other] { " " }{ $count } kontekst-faneblade vil blive lukket, hvis du sletter denne kontekst. Er du sikker på, at du vil fjerne denne kontekst?
+       *[other] { $count } kontekst-faneblade vil blive lukket, hvis du sletter denne kontekst. Er du sikker på, at du vil fjerne denne kontekst?
     }
 containers-remove-ok-button = Fjern denne kontekst
 containers-remove-cancel-button = Fjern ikke denne kontekst
