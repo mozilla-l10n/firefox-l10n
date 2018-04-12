@@ -5,6 +5,8 @@
 
 ## Settings
 
+site-data-settings-window =
+    .title = Управление куками и данными сайтов
 site-data-search-textbox =
     .placeholder = Поиск веб-сайтов
     .accesskey = и
@@ -14,6 +16,8 @@ site-data-column-cookies =
     .label = Куки
 site-data-column-storage =
     .label = Хранилище
+site-data-column-last-used =
+    .label = Последнее использование
 site-data-remove-selected =
     .label = Удалить выбранное
     .accesskey = а
