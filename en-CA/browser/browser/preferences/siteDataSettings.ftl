@@ -5,13 +5,19 @@
 
 ## Settings
 
+site-data-settings-window =
+    .title = Manage Cookies and Site Data
 site-data-search-textbox =
     .placeholder = Search web sites
     .accesskey = S
 site-data-column-host =
     .label = Site
+site-data-column-cookies =
+    .label = Cookies
 site-data-column-storage =
     .label = Storage
+site-data-column-last-used =
+    .label = Last Used
 site-data-remove-selected =
     .label = Remove Selected
     .accesskey = r
@@ -26,3 +32,6 @@ site-data-button-save =
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-header = Removing Cookies and Site Data
+site-data-removing-desc = Removing cookies and site data may log you out of web sites. Are you sure you want to make the changes?
+site-data-removing-table = Cookies and site data for the following web sites will be removed
