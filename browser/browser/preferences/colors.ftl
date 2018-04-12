@@ -11,6 +11,8 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override = Hunsa litina sem eru skilgreindir af síðunni með mínum litum hér fyrir ofan
+    .accesskey = O
 colors-page-override-option-always =
     .label = Alltaf
 colors-page-override-option-auto =
