@@ -53,6 +53,8 @@ fonts-langgroup-thai =
     .label = ថៃ
 fonts-langgroup-tibetan =
     .label = ទីបេ
+fonts-langgroup-canadian =
+    .label = តារាង​តួអក្សរ​កាណាដា​​រួបរួម
 
 ## Default fonts and their sizes
 
