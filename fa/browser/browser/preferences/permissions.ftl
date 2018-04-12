@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+permissions-window =
+    .title = استثناها
+    .style = width: 45em
 permissions-close-key =
     .key = w
 permissions-block =
@@ -15,3 +18,9 @@ permissions-allow =
     .accesskey = ج
 permissions-status =
     .label = وضعیت
+permissions-button-cancel =
+    .label = انصراف
+    .accesskey = ن
+permissions-button-ok =
+    .label = ذخیره تغییرات
+    .accesskey = ذ
