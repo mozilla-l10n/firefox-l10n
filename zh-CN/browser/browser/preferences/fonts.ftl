@@ -104,6 +104,8 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = 旧式内容的文字编码
 fonts-languages-fallback-desc = 这个文字编码用于未能声明其编码的旧式内容。
+fonts-languages-fallback-label = 后备文字编码
+    .accesskey = T
 fonts-languages-fallback-name-auto =
     .label = 当前语言环境的默认值
 fonts-languages-fallback-name-arabic =
