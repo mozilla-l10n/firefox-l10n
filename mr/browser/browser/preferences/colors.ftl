@@ -14,4 +14,7 @@ colors-close-key =
 colors-use-system =
     .label = प्रणाली रंगांचा वापर करा
     .accesskey = s
+colors-underline-links =
+    .label = लिंक अधोरेखीत करा
+    .accesskey = U
 colors-links-header = लिंकचे रंग
