@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = Шрифти для
+    .accesskey = Ш
 fonts-langgroup-arabic =
     .label = Арабська
 fonts-langgroup-armenian =
@@ -45,8 +47,15 @@ fonts-langgroup-khmer =
     .label = Кхмерська
 fonts-langgroup-korean =
     .label = Корейська
+# Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+fonts-langgroup-latin =
+    .label = Латиниця
 fonts-langgroup-malayalam =
     .label = Малаялам
+fonts-langgroup-math =
+    .label = Математика
+fonts-langgroup-odia =
+    .label = Орія
 fonts-langgroup-sinhala =
     .label = Сінгала
 fonts-langgroup-tamil =
@@ -59,21 +68,42 @@ fonts-langgroup-tibetan =
     .label = Тибетська
 fonts-langgroup-canadian =
     .label = Загальноканадська складова
+fonts-langgroup-other =
+    .label = Інші системи написання
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Пропорційний
+    .accesskey = П
 fonts-default-serif =
     .label = Із зарубками
 fonts-default-sans-serif =
     .label = Без зарубок
+fonts-proportional-size = Розмір
+    .accesskey = Р
+fonts-serif = Із зарубками
+    .accesskey = к
+fonts-sans-serif = Без зарубок
+    .accesskey = Б
+fonts-monospace = Моноширинний
+    .accesskey = М
+fonts-monospace-size = Розмір
+    .accesskey = м
+fonts-minsize = Мінімальний розмір шрифту
+    .accesskey = н
 fonts-minsize-none =
     .label = Без обмеження
+fonts-allow-own =
+    .label = Дозволити сайтам обирати власні шрифти, замість встановлених вгорі
+    .accesskey = л
 
 ## Text Encodings
 ##
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-label = Резервне кодування тексту
+    .accesskey = Р
 fonts-languages-fallback-name-auto =
     .label = Типове для поточної локалі
 fonts-languages-fallback-name-arabic =
