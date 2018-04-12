@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = Келесі символдар жинақтары үшін қаріптер
+    .accesskey = с
 fonts-langgroup-arabic =
     .label = Арабша
 fonts-langgroup-armenian =
@@ -45,8 +47,15 @@ fonts-langgroup-khmer =
     .label = Кхмер
 fonts-langgroup-korean =
     .label = Корей
+# Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+fonts-langgroup-latin =
+    .label = Латын
 fonts-langgroup-malayalam =
     .label = Малайялам
+fonts-langgroup-math =
+    .label = Математика
+fonts-langgroup-odia =
+    .label = Ория
 fonts-langgroup-sinhala =
     .label = Сингальдық
 fonts-langgroup-tamil =
@@ -59,25 +68,50 @@ fonts-langgroup-tibetan =
     .label = Тибет
 fonts-langgroup-canadian =
     .label = Жалпыканадалық буындық
+fonts-langgroup-other =
+    .label = Басқа жазу жүйелері
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Пропорционалды
+    .accesskey = П
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+fonts-proportional-size = Өлшемі
+    .accesskey = м
+fonts-serif = Serif
+    .accesskey = S
+fonts-sans-serif = Sans-serif
+    .accesskey = n
+fonts-monospace = Ені біркелкі
+    .accesskey = Е
+fonts-monospace-size = Өлшемі
+    .accesskey = л
+fonts-minsize = Қаріптің мүмкін болатын ең аз өлшемі
+    .accesskey = а
 fonts-minsize-none =
     .label = Жоқ
+fonts-allow-own =
+    .label = Орнатылғаннан бөлек, веб-сайттарға өздерінің қаріптерін қолдануға рұқсат беру
+    .accesskey = О
 
 ## Text Encodings
 ##
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-header = Ескірген құрама үшін мәтін кодталуы
+fonts-languages-fallback-desc = Бұл мәтін кодталуы кодталуды көрсетпейтін ескірген құраманы көрсету үшін қолданылатын болады.
+fonts-languages-fallback-label = Қосалқы мәтін кодталуы
+    .accesskey = т
 fonts-languages-fallback-name-auto =
     .label = Ағымдағы локаль үшін негізгі
 fonts-languages-fallback-name-arabic =
     .label = Арабша
+fonts-languages-fallback-name-baltic =
+    .label = Балтық
 fonts-languages-fallback-name-ceiso =
     .label = Орталық Еуропалық, ISO
 fonts-languages-fallback-name-cewindows =
@@ -98,6 +132,8 @@ fonts-languages-fallback-name-korean =
     .label = Кореялық
 fonts-languages-fallback-name-thai =
     .label = Тай
+fonts-languages-fallback-name-turkish =
+    .label = Түрік
 fonts-languages-fallback-name-vietnamese =
     .label = Вьетнам
 fonts-languages-fallback-name-other =
