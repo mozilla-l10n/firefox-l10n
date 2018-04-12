@@ -11,6 +11,8 @@ connection-window =
         }
 connection-close-key =
     .key = w
+connection-disable-extension =
+    .label = عطّل الامتداد
 connection-proxy-option-no =
     .label = لا وسيط
     .accesskey = ل
