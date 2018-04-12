@@ -5,10 +5,17 @@
 
 ## Settings
 
+site-data-search-textbox =
+    .placeholder = Претражи веб сајтове
+    .accesskey = П
 site-data-column-host =
     .label = Веб сајт
+site-data-column-cookies =
+    .label = Колачићи
 site-data-column-storage =
     .label = Складиште
+site-data-column-last-used =
+    .label = Последњи пут коришћено
 site-data-remove-selected =
     .label = Уклони изабрани
     .accesskey = У
@@ -23,3 +30,6 @@ site-data-button-save =
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-header = Брисање колачића и података сајта
+site-data-removing-desc = Брисање колачића и података сајта вас може одјавити са веб сајтова. Да ли сте сигурни да желите да направите ове измене?
+site-data-removing-table = Колачићи и подаци следећих веб сајтова ће бити обрисани
