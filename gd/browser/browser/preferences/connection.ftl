@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+connection-window =
+    .title = Roghainnean ceangail
+    .style =
+        { PLATFORM() ->
+            [macos] width: 44em
+           *[other] width: 49em
+        }
 connection-close-key =
     .key = w
 connection-proxy-option-no =
@@ -26,3 +33,10 @@ connection-proxy-noproxy-desc = Ball-sampaill: .mozilla.org, .net.nz, 192.168.1.
 connection-proxy-reload =
     .label = Ath-luchdaich
     .accesskey = A
+connection-proxy-autologin =
+    .label = Na iarr orm mo dhearbhadh ma chaidh am facal-faire a shàbhaladh ann
+    .accesskey = i
+    .tooltip = Nì an roghainn seo dearbhadh sàmhach as do leth mu choinneamh phrogsaidhean a chaidh ainm is facal-faire a shàbhaladh air an son. Thèid do bhrodadh mur an obraich an dearbhadh.
+connection-proxy-socks-remote-dns =
+    .label = DNS progsaidh nuair a chleachdar SOCKS v5
+    .accesskey = d
