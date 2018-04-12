@@ -13,6 +13,7 @@ connection-close-key =
     .key = w
 connection-disable-extension =
     .label = Daaƴ Timmitol
+connection-proxy-configure = Teelto Naatirgol Proxy e Enternet
 connection-proxy-option-no =
     .label = Alaa proxy
     .accesskey = y
