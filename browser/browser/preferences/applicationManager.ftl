@@ -8,8 +8,16 @@ app-manager-window =
 app-manager-remove =
     .label = הסר
     .accesskey = ה
+app-manager-handle-webfeeds = היישומים הבאים יכולים לטפל ב־הזנות רשת.
+# Variables:
+#   $type (String) - the URI scheme of the link (e.g. mailto:)
+app-manager-handle-protocol = היישומים הבאים יכולים לטפל ב־קישורי { $type }.
+# Variables:
+#   $type (String) - the MIME type (e.g. application/binary)
+app-manager-handle-file = היישומים הבאים יכולים לטפל ב־תוכן { $type }.
 
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.
 
 app-manager-web-app-info = שרת מארח של יישום רשת זה:
+app-manager-local-app-info = מיקום יישום זה:
