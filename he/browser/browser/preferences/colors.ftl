@@ -29,3 +29,7 @@ colors-underline-links =
     .label = סמן קישורים בקו תחתי
     .accesskey = ס
 colors-links-header = צבעי קישור
+colors-unvisited-links = קישורים שלא ביקרנו בהם
+    .accesskey = ל
+colors-visited-links = קישורים שביקרנו בהם
+    .accesskey = ב
