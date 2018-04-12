@@ -5,6 +5,8 @@
 
 ## Settings
 
+site-data-settings-window =
+    .title = Управљај колачићима и подацима сајта
 site-data-search-textbox =
     .placeholder = Претражи веб сајтове
     .accesskey = П
