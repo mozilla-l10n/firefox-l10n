@@ -12,3 +12,6 @@ colors-window =
 colors-close-key =
     .key = w
 colors-text-and-background = Testun a Chefndir
+colors-use-system =
+    .label = Defnyddio lliwiau'r system
+    .accesskey = s
