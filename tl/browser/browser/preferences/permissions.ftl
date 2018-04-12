@@ -13,3 +13,6 @@ permissions-block =
 permissions-allow =
     .label = Payagan
     .accesskey = a
+permissions-button-cancel =
+    .label = Kanselahin
+    .accesskey = C
