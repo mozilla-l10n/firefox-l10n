@@ -11,4 +11,4 @@
 <!-- Localization note (aboutDevices.placeholder): this is the hint shown to the
      user prompting them to input the IP address of a casting device. -->
 <!ENTITY aboutDevices.placeholder        "IP address">
-<!ENTITY aboutDevices.connectManually    "Kopla til manuelt">
+<!ENTITY aboutDevices.connectManually    "Kople til manuelt">
