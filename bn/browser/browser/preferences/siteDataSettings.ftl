@@ -33,4 +33,5 @@ site-data-button-save =
 site-data-removing-window =
     .title = { site-data-removing-header }
 site-data-removing-header = কুকিজ এবং সাইট ডাটা মুছা হচ্ছে
+site-data-removing-desc = কুকি এবং সাইটের তথ্য অপসারণ করলে, আপনি ওয়েবসাইট থেকে লগআউট হয়ে যাবেন। আপনি কি এই পরিবর্তন করতে চান?
 site-data-removing-table = এই সাইটগুলোর জন্য কুকি এবং সাইট ডাটা মুছে দেওয়া হবে
