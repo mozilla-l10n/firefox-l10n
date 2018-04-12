@@ -290,7 +290,6 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = חלונות ולשוניות חדשים
-home-new-windows-tabs-description = נא לבחור מה ברצונך לראות בעת פתיחת דף הבית שלך, חלונות חדשים ולשוניות חדשות
 
 ## Home Section - Home Page Customization
 
