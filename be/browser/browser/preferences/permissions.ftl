@@ -15,3 +15,6 @@ permissions-allow =
     .accesskey = Д
 permissions-status =
     .label = Статус
+permissions-button-cancel =
+    .label = Скасаваць
+    .accesskey = С
