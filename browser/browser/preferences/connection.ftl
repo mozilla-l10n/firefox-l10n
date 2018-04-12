@@ -13,6 +13,7 @@ connection-close-key =
     .key = w
 connection-disable-extension =
     .label = एक्सटेंशन अक्षम करें
+connection-proxy-configure = इंटरनेट चलने के लिए प्रॉक्सी विन्यस्त करें
 connection-proxy-option-no =
     .label = कोई प्रॉक्सी नहीं
     .accesskey = y
