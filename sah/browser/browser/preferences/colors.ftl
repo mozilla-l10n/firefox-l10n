@@ -11,6 +11,8 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override-option-never =
+    .label = Аны хаһан да
 colors-text-and-background = Тиэкис уона фон
 colors-use-system =
     .label = Тиһик өҥнөрүн туһан
