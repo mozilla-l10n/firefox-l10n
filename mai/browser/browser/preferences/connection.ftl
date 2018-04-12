@@ -26,3 +26,7 @@ connection-proxy-noproxy-desc = उदाहरण: .mozilla.org, .net.nz, 192.1
 connection-proxy-reload =
     .label = फेर लोड  करू{ " " }
     .accesskey = e
+connection-proxy-autologin =
+    .label = जँ कूटशब्द सहेजल जाएत अछि त प्रमाणीकरण लेल संकेत नहि करू
+    .accesskey = i
+    .tooltip = ई विकल्प मूक रूप स सत्यापित करैत अछि अहाँक प्राक्सीक लेल जखन अहाँ हुनका लेल प्रमाण सहेजैत छी. अहाँ प्रांम्प्ट कएल जाएब जँ सत्यापन विफल होएत.
