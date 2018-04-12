@@ -5,5 +5,10 @@
 permissions-window =
     .title = Εξαιρέσεις
     .style = width: 47em
+permissions-block =
+    .label = Φραγή
+    .accesskey = Φ
+permissions-site-name =
+    .label = Ιστοσελίδα
 permissions-status =
     .label = Κατάσταση
