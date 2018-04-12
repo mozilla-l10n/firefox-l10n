@@ -17,3 +17,6 @@ connection-proxy-http-share =
     .label = Uporabi istega posrednika za vse protokole
     .accesskey = o
 connection-proxy-noproxy-desc = Primer: .mozilla.org, .net.nz
+connection-proxy-socks-remote-dns =
+    .label = Posredniški DNS, kadar se uporablja SOCKS v5
+    .accesskey = d
