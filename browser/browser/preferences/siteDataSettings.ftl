@@ -5,11 +5,15 @@
 
 ## Settings
 
+site-data-settings-window =
+    .title = Administrar las cookies y Datos del sitio
 site-data-search-textbox =
     .placeholder = Buscar sitios Web
     .accesskey = S
 site-data-column-host =
     .label = Sitio
+site-data-column-cookies =
+    .label = Cookies
 site-data-column-storage =
     .label = Almacenamiento
 site-data-column-last-used =
@@ -28,3 +32,6 @@ site-data-button-save =
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-header = Eliminando cookies y datos del sitio
+site-data-removing-desc = Eliminar cookies y datos del sitio puede desconectarlo de sitios Web. ¿Está seguro que desea realizar los cambios?
+site-data-removing-table = Se eliminarán las cookies y los datos del sitio para los siguientes sitios web
