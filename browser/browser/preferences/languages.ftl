@@ -5,6 +5,8 @@
 languages-window =
     .title = 언어
     .style = width: 30em
+languages-close-key =
+    .key = w
 languages-customize-moveup =
     .label = 위로 이동
     .accesskey = U
