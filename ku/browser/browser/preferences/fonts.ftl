@@ -45,6 +45,9 @@ fonts-langgroup-khmer =
     .label = Kamboçî
 fonts-langgroup-korean =
     .label = Koreyî
+# Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+fonts-langgroup-latin =
+    .label = Latinî
 fonts-langgroup-malayalam =
     .label = Zimanê Malayala
 fonts-langgroup-sinhala =
