@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+languages-window =
+    .title = Lengoe
+    .style = width: 30em
 languages-close-key =
     .key = w
 languages-customize-moveup =
@@ -10,3 +13,11 @@ languages-customize-moveup =
 languages-customize-movedown =
     .label = Mescia in zu
     .accesskey = M
+languages-customize-remove =
+    .label = Scancella
+    .accesskey = S
+languages-customize-select-language =
+    .placeholder = Seleçionn-a 'na lengoa pe azonzila…
+languages-customize-add =
+    .label = Azonzi
+    .accesskey = A
