@@ -7,6 +7,7 @@ languages-window =
     .style = width: 30em
 languages-close-key =
     .key = W
+languages-description = Páginas web às vezes são oferecidas em mais de um idioma. Escolher idiomas para apresentar essas páginas web, em ordem de preferência
 languages-customize-moveup =
     .label = Para cima
     .accesskey = c
