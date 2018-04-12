@@ -23,6 +23,8 @@ fonts-langgroup-tamil =
     .label = Tamil
 fonts-langgroup-telugu =
     .label = Telugu
+fonts-langgroup-thai =
+    .label = Thai
 
 ## Default fonts and their sizes
 
@@ -30,9 +32,13 @@ fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+fonts-minsize-none =
+    .label = Tiada
 
 ## Text Encodings
 ##
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-name-thai =
+    .label = Thai
