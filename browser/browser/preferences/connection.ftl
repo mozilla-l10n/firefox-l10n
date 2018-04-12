@@ -13,6 +13,7 @@ connection-close-key =
     .key = w
 connection-disable-extension =
     .label = Անջատել ընդլայնումը
+connection-proxy-configure = Կազմաձևել պրոքսի մատչումը համացանց
 connection-proxy-option-no =
     .label = Առանց միջնորդի
     .accesskey = ի
