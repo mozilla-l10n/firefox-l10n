@@ -75,6 +75,9 @@ fonts-default-sans-serif =
     .label = Seriffløs skrift
 fonts-minsize-none =
     .label = Ingen
+fonts-allow-own =
+    .label = Tillat nettsider å velge egne skrifttyper, istedenfor dine valg ovenfor
+    .accesskey = T
 
 ## Text Encodings
 ##
