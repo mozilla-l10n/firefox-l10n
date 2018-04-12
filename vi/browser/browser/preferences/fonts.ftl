@@ -36,6 +36,8 @@ fonts-langgroup-latin =
     .label = Latinh
 fonts-langgroup-malayalam =
     .label = Malayalam
+fonts-langgroup-math =
+    .label = Toán học
 fonts-langgroup-sinhala =
     .label = Sinhala
 fonts-langgroup-tamil =
@@ -57,6 +59,9 @@ fonts-default-sans-serif =
     .label = Sans Serif
 fonts-minsize-none =
     .label = Không
+fonts-allow-own =
+    .label = Cho phép các trang web tự lựa chọn phông chữ riêng, thay vì sử dụng phông mà bạn chọn ở trên
+    .accesskey = A
 
 ## Text Encodings
 ##
