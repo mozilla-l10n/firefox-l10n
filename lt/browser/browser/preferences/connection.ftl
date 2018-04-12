@@ -26,3 +26,7 @@ connection-proxy-noproxy-desc = Pavyzdys: .mozilla.org, .lrs.lt, 192.168.1.0/24
 connection-proxy-reload =
     .label = Atsiųsti iš naujo
     .accesskey = u
+connection-proxy-autologin =
+    .label = Neprašyti tapatybės patvirtinimo, jeigu slaptažodis įrašytas
+    .accesskey = b
+    .tooltip = Pažymėjus šią parinktį, bus bandoma automatiškai patvirtinti tapatybę tuose įgaliotuosiuose serveriuose, kurių slaptažodžius naršyklė turi įsiminusi. Jei šis procesas nepavyktų, jūsų bus prašoma įvesti patikslintus duomenis.
