@@ -4,12 +4,16 @@
 
 connection-close-key =
     .key = w
+connection-proxy-option-auto =
+    .label = Automatisk oppdag innstillingar
+    .accesskey = A
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = K
 connection-proxy-socks5 =
     .label = SOCKS v5
     .accesskey = v
+connection-proxy-noproxy-desc = Døme: .mozilla.org, .online.no, 192.168.1.0/24
 connection-proxy-reload =
     .label = Oppdater
     .accesskey = O
