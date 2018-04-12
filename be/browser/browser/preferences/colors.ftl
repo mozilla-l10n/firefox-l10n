@@ -11,6 +11,8 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override = Замяняць колеры старонкі на выбраныя вамі вышэй
+    .accesskey = З
 colors-page-override-option-always =
     .label = Заўсёды
 colors-page-override-option-auto =
