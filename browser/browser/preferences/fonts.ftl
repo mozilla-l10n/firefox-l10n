@@ -35,6 +35,8 @@ fonts-langgroup-tamil =
     .label = თამილური
 fonts-langgroup-telugu =
     .label = ტელუგუ
+fonts-langgroup-tibetan =
+    .label = ტიბეტური
 fonts-langgroup-canadian =
     .label = კანადური მარცვლოვანი უნიფიცირებული
 
