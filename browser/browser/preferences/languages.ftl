@@ -7,6 +7,7 @@ languages-window =
     .style = width: 30em
 languages-close-key =
     .key = w
+languages-description = تتوفّر بعض صفحات وِب بأكثر من لغة. اختر لغات عرض هذه الصّفحات، بالتّرتيب المفضّل
 languages-customize-moveup =
     .label = انقل لأعلى
     .accesskey = ع
