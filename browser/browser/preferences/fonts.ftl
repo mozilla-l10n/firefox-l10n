@@ -59,6 +59,9 @@ fonts-default-serif =
     .label = సెరీఫ్
 fonts-minsize-none =
     .label = ఏదీకాదు
+fonts-allow-own =
+    .label = పైన మీ ఎంపికలకు బదులుగా, పేజీలు వాటి స్వంత ఫాంట్లను ఎంచుకోవడానికి అనుమతించు
+    .accesskey = A
 
 ## Text Encodings
 ##
