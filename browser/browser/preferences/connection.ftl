@@ -9,6 +9,8 @@ connection-window =
             [macos] width: 44em
            *[other] width: 49em
         }
+connection-close-key =
+    .key = w
 connection-disable-extension =
     .label = Uzantını söndür
 connection-proxy-configure = İnternetə Proxy Girişini nizamla
