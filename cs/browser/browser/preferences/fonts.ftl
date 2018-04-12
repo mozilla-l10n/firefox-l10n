@@ -21,6 +21,8 @@ fonts-langgroup-other =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-header = Znaková sada textu pro původní obsah
+fonts-languages-fallback-desc = Tato znaková sada textu se používá pro původní obsah, který neobsahuje definici o své znakové sadě.
 fonts-languages-fallback-name-arabic =
     .label = Arabská
 fonts-languages-fallback-name-baltic =
