@@ -12,6 +12,8 @@ site-data-search-textbox =
     .accesskey = S
 site-data-column-host =
     .label = Webbplats
+site-data-column-cookies =
+    .label = Kakor
 site-data-column-storage =
     .label = Lagring
 site-data-column-last-used =
@@ -19,6 +21,12 @@ site-data-column-last-used =
 site-data-remove-selected =
     .label = Ta bort markerad
     .accesskey = T
+site-data-button-cancel =
+    .label = Avbryt
+    .accesskey = A
+site-data-button-save =
+    .label = Spara ändringar
+    .accesskey = a
 
 ## Removing
 
