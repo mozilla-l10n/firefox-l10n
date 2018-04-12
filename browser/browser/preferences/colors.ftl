@@ -11,6 +11,8 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override = نادیده گرفتن رنگ مشخص شده توسط صفحه ای که شما در زیر انتخاب کرده‌اید
+    .accesskey = O
 colors-page-override-option-always =
     .label = همیشه
 colors-page-override-option-auto =
