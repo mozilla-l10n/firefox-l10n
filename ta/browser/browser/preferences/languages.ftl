@@ -7,6 +7,7 @@ languages-window =
     .style = width: 30em
 languages-close-key =
     .key = w
+languages-description = இணைய பக்கங்கள் சில நேரங்களில் ஒரு மொழிக்கு மேல் வழங்கப்படுகின்றன. இந்த இணைய பக்கங்களை முன்னரிமையின் அடிப்படையில் காண்பிக்க மொழிகளை தேர்ந்தெடுக்கவும்
 languages-customize-moveup =
     .label = மேலே நகர்த்து
     .accesskey = U
