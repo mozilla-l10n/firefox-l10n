@@ -11,6 +11,8 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override = আপনার পছন্দ দ্বারা পাতা কর্তৃক নির্ধারিত রঙ পুনঃস্থাপিত করুণ
+    .accesskey = O
 colors-page-override-option-always =
     .label = সর্বদা
 colors-page-override-option-auto =
