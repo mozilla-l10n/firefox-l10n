@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = Fontovi za
+    .accesskey = F
 fonts-langgroup-arabic =
     .label = Arapski
 fonts-langgroup-armenian =
@@ -45,8 +47,15 @@ fonts-langgroup-khmer =
     .label = Khmer
 fonts-langgroup-korean =
     .label = Korejski
+# Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+fonts-langgroup-latin =
+    .label = Latinski
 fonts-langgroup-malayalam =
     .label = Malezijski
+fonts-langgroup-math =
+    .label = Matematika
+fonts-langgroup-odia =
+    .label = Odia
 fonts-langgroup-sinhala =
     .label = Sinhala
 fonts-langgroup-tamil =
@@ -59,25 +68,50 @@ fonts-langgroup-tibetan =
     .label = Tibetski
 fonts-langgroup-canadian =
     .label = Unificirani kanadski sibararij
+fonts-langgroup-other =
+    .label = Ostali sustavi pisanja
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Proporcionalno
+    .accesskey = l
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+fonts-proportional-size = Veličina
+    .accesskey = V
+fonts-serif = Serif
+    .accesskey = S
+fonts-sans-serif = Sans-serif
+    .accesskey = n
+fonts-monospace = Monospace
+    .accesskey = M
+fonts-monospace-size = Veličina
+    .accesskey = e
+fonts-minsize = Minimalna veličina fonta
+    .accesskey = i
 fonts-minsize-none =
     .label = Ništa
+fonts-allow-own =
+    .label = Dopusti stranicama da koriste vlastiti font umjesto mojeg odabira
+    .accesskey = a
 
 ## Text Encodings
 ##
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-header = Kôdna stranica za zastarjeli sadržaj
+fonts-languages-fallback-desc = Ova kôdna stranica se koristi za zastarjeli sadržaj, koji ne može definirati vlastitu kôdnu stranicu.
+fonts-languages-fallback-label = Pomoćna kôdna stranica
+    .accesskey = k
 fonts-languages-fallback-name-auto =
     .label = Zadano za trenutni jezik
 fonts-languages-fallback-name-arabic =
     .label = Arapski
+fonts-languages-fallback-name-baltic =
+    .label = Baltički
 fonts-languages-fallback-name-ceiso =
     .label = Centralno-europski, ISO
 fonts-languages-fallback-name-cewindows =
@@ -98,6 +132,8 @@ fonts-languages-fallback-name-korean =
     .label = Korejski
 fonts-languages-fallback-name-thai =
     .label = Tajlandski
+fonts-languages-fallback-name-turkish =
+    .label = Turski
 fonts-languages-fallback-name-vietnamese =
     .label = Vijetnamski
 fonts-languages-fallback-name-other =
