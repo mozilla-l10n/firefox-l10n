@@ -4,4 +4,10 @@
 
 colors-close-key =
     .key = w
+colors-page-override-option-always =
+    .label = সর্বদা
+colors-page-override-option-auto =
+    .label = শুধু হাই কনট্রাস্ট থিমের সাথে
+colors-page-override-option-never =
+    .label = কখনো নয়
 colors-text-and-background = লেখা ও পটভূমি
