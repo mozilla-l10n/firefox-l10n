@@ -13,6 +13,7 @@ connection-close-key =
     .key = w
 connection-disable-extension =
     .label = Onemogući ekstenziju
+connection-proxy-configure = Konfigurišite Proxy za pristup internetu
 connection-proxy-option-no =
     .label = Nema proxyja
     .accesskey = y
