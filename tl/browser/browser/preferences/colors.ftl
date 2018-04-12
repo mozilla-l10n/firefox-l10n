@@ -11,6 +11,12 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override-option-always =
+    .label = Palagi
+colors-page-override-option-auto =
+    .label = Tanging may mga tema ng High Contrast
+colors-page-override-option-never =
+    .label = Hindi kailanman
 colors-text-and-background = Teksto at Background
 colors-use-system =
     .label = Gamitin ang mga kulay ng sistema
