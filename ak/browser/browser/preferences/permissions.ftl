@@ -15,3 +15,6 @@ permissions-allow =
     .accesskey = a
 permissions-status =
     .label = Tebea
+permissions-button-cancel =
+    .label = Twa-mu
+    .accesskey = w
