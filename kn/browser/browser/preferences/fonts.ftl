@@ -29,6 +29,8 @@ fonts-langgroup-gujarati =
     .label = ಗುಜರಾತಿ
 fonts-langgroup-gurmukhi =
     .label = ಗುರುಮುಖಿ
+fonts-langgroup-kannada =
+    .label = ಕನ್ನಡ
 fonts-langgroup-khmer =
     .label = ಖ್ಮೇರ್
 fonts-langgroup-malayalam =
@@ -39,6 +41,8 @@ fonts-langgroup-tamil =
     .label = ತಮಿಳು
 fonts-langgroup-telugu =
     .label = ತೆಲುಗು
+fonts-langgroup-tibetan =
+    .label = ಟಿಬೆಟಿಯನ್
 fonts-langgroup-canadian =
     .label = ಯೂನಿಫೈಡ್‍  ಕೆನಾಡಿಯನ್ ಸಿಲ್ಯಾಬರಿ
 
