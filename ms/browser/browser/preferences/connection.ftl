@@ -17,3 +17,6 @@ connection-proxy-noproxy-desc = Contoh: .mozilla.org, .net.nz, 192.168.1.0/24
 connection-proxy-reload =
     .label = Muat semula
     .accesskey = e
+connection-proxy-socks-remote-dns =
+    .label = Proksi DNS apabila menggunakan SOCKS v5
+    .accesskey = d
