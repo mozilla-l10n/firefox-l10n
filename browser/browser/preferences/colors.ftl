@@ -11,6 +11,8 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override = Бет көрсеткен түстерді жоғарыдағы таңдалғанмен алмастыру
+    .accesskey = м
 colors-page-override-option-always =
     .label = Әрқашан
 colors-page-override-option-auto =
