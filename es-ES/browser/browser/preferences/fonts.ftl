@@ -45,6 +45,8 @@ fonts-langgroup-khmer =
     .label = Khmer
 fonts-langgroup-korean =
     .label = Coreano
+fonts-langgroup-malayalam =
+    .label = Malayo
 fonts-langgroup-sinhala =
     .label = Sinhala
 fonts-langgroup-tamil =
@@ -53,6 +55,8 @@ fonts-langgroup-telugu =
     .label = Telugu
 fonts-langgroup-thai =
     .label = Tailandés
+fonts-langgroup-tibetan =
+    .label = Tibetano
 fonts-langgroup-canadian =
     .label = Separación silábica unificada canadiense
 
