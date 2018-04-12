@@ -26,3 +26,7 @@ connection-proxy-noproxy-desc = Example: .mozilla.org, .net.nz, 192.168.1.0/24
 connection-proxy-reload =
     .label = Reload
     .accesskey = e
+connection-proxy-autologin =
+    .label = Do not prompt for authentication if password is saved
+    .accesskey = i
+    .tooltip = This option silently authenticates you to proxies when you have saved credentials for them. You will be prompted if authentication fails.
