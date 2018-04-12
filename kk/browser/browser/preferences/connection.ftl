@@ -11,6 +11,9 @@ connection-window =
         }
 connection-close-key =
     .key = w
+connection-disable-extension =
+    .label = Кеңейтуді сөндіру
+connection-proxy-configure = Интернетпен байланысу үшін прокси-серверді баптау
 connection-proxy-option-no =
     .label = Прокси сервері жоқ
     .accesskey = ж
