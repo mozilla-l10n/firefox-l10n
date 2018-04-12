@@ -8,8 +8,16 @@ app-manager-window =
 app-manager-remove =
     .label = Fjern
     .accesskey = F
+app-manager-handle-webfeeds = Følgjande program kan brukast for å handtere Webkjelder.
+# Variables:
+#   $type (String) - the URI scheme of the link (e.g. mailto:)
+app-manager-handle-protocol = Følgjande program kan brukast for å handtere { $type }-lenker.
+# Variables:
+#   $type (String) - the MIME type (e.g. application/binary)
+app-manager-handle-file = Følgjande program kan brukast for å handtere { $type }-innhald.
 
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.
 
+app-manager-web-app-info = Dette webprogrammet er finst på:
 app-manager-local-app-info = Dette programmet finst på:
