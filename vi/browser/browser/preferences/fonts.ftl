@@ -39,6 +39,10 @@ fonts-langgroup-tamil =
     .label = Tamil
 fonts-langgroup-telugu =
     .label = Telugu
+fonts-langgroup-tibetan =
+    .label = Tây Tạng
+fonts-langgroup-canadian =
+    .label = Kí hiệu Âm tiết Canađa Thống nhất
 
 ## Default fonts and their sizes
 
