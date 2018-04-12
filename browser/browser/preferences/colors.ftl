@@ -11,6 +11,8 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override = Վերագրել էջի կողմից հատկորոշված գույները ձեր ընտրածով
+    .accesskey = O
 colors-page-override-option-always =
     .label = Միշտ
 colors-page-override-option-auto =
