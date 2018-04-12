@@ -31,6 +31,9 @@ fonts-langgroup-kannada =
     .label = IgiKanada
 fonts-langgroup-khmer =
     .label = Ikinyakamboje
+# Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+fonts-langgroup-latin =
+    .label = Ikiratini
 fonts-langgroup-malayalam =
     .label = Malayalamu
 fonts-langgroup-tamil =
@@ -52,3 +55,5 @@ fonts-minsize-none =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-name-vietnamese =
+    .label = Ikinyaviyetinamu
