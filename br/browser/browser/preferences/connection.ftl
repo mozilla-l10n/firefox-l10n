@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+connection-window =
+    .title = Arventennoù kennaskañ
+    .style =
+        { PLATFORM() ->
+            [macos] width: 39em
+           *[other] width: 39em
+        }
 connection-close-key =
     .key = w
 connection-proxy-option-no =
@@ -30,3 +37,6 @@ connection-proxy-autologin =
     .label = Na c'houlenn diganin en em zilesa ma'z eus ur ger-tremen enrollet
     .accesskey = N
     .tooltip = An dibarzh-mañ a zilesa ac'hanoc'h ent emgefreek war ar proksioù ma'z eus naoudioù kennaskañ enrollet evito. Goulennet e vo anezho diganeoc'h ma vez c'hwitet an dilesa.
+connection-proxy-socks-remote-dns =
+    .label = DNS Proksi p'eo arveret SOCKS v5
+    .accesskey = d
