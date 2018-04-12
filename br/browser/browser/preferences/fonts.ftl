@@ -50,6 +50,10 @@ fonts-langgroup-latin =
     .label = Latin
 fonts-langgroup-malayalam =
     .label = Malayalameg
+fonts-langgroup-math =
+    .label = Matematikoù
+fonts-langgroup-odia =
+    .label = Odia
 fonts-langgroup-sinhala =
     .label = Sinhala
 fonts-langgroup-tamil =
@@ -73,12 +77,17 @@ fonts-default-sans-serif =
     .label = Hep Serif
 fonts-minsize-none =
     .label = Tra ebet
+fonts-allow-own =
+    .label = Aotren ar pajennadoù da zibab o nodrezhoù dezho e-lec'h ma diuzad a-us
+    .accesskey = A
 
 ## Text Encodings
 ##
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-header = Bonegañ an arouezennoù evit an endalc'hadoù diamzeret
+fonts-languages-fallback-desc = Arveret eo bonegañ an arouezennoù-mañ evit an endalc'hadoù diamzeret na zisklerint ket o bonegañ.
 fonts-languages-fallback-name-auto =
     .label = Diouer evit ar yezh vremanel
 fonts-languages-fallback-name-arabic =
