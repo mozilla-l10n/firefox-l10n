@@ -290,7 +290,6 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Kenorɗe Kese kam e Tabbe
-home-new-windows-tabs-description = Suɓo ko njiyataa so a udditii hello jaɓɓorgo maa, kenorɗe kese, kam e tabbe kese
 
 ## Home Section - Home Page Customization
 
