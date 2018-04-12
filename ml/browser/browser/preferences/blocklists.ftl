@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+blocklist-window =
+    .title = തടയല്‍ പട്ടികകൾ
+    .style = width: 55em
 blocklist-desc = ഫയര്‍ഫോക്സ് ഏത് പട്ടിക താങ്കളുടെ ബ്രൗസിംഗ് കർമങ്ങളെ നിരീക്ഷിക്കുന്ന വെബ് എലമെന്റുകൾ തടയാനായി  ഉപയോഗിക്കുമെന്ന് താങ്കൾക്ക് തീരുമാനിക്കാം.
 blocklist-close-key =
     .key = w
