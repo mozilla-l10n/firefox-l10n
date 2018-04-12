@@ -4,3 +4,18 @@
 
 colors-close-key =
     .key = w
+colors-page-override-option-always =
+    .label = ຕະຫຼອດ
+colors-page-override-option-never =
+    .label = ບໍ່ເຄີຍ
+colors-text-and-background = ໂຕໜັງສື ແລະ ພື້ນຫຼັງ
+colors-text-header = ໂຕໜັງສື
+    .accesskey = T
+colors-background = ພື້ນຫຼັງ
+    .accesskey = B
+colors-use-system =
+    .label = ໃຊ້ລະບົບສີ
+    .accesskey = S
+colors-underline-links =
+    .label = ຂີດເສັ້ນກ້ອງລິ້ງ
+    .accesskey = U
