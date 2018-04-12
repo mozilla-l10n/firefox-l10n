@@ -60,9 +60,6 @@
 <!ENTITY  permissionsFor        "Келесі үшін рұқсаттар:">
 <!ENTITY  permPlugins           "Плагиндерді белсендіру">
 
-<!ENTITY  permClearStorage           "Қорды тазарту">
-<!ENTITY  permClearStorage.accesskey "з">
-
 <!ENTITY  securityTab           "Қауіпсіздік">
 <!ENTITY  securityTab.accesskey "а">
 <!ENTITY  securityView.certView "Сертификатты қарау">
@@ -81,6 +78,9 @@
 <!ENTITY  securityView.privacy.cookies                  "Осы сайт компьютерімде ақпаратты (cookies файлдарын) сақтап отыр ма?">
 <!ENTITY  securityView.privacy.viewCookies              "Cookies файлдарын қарау">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "а">
+<!ENTITY  securityView.privacy.siteData                 "Бұл сайт компьютерімде ақпаратты сақтап отыр ма?">
+<!ENTITY  securityView.privacy.clearSiteData            "Cookies файлдары және сайт деректерін тазарту">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "з">
 <!ENTITY  securityView.privacy.passwords                "Осы веб-сайт үшін парольдерімді сақтадым ба?">
 <!ENTITY  securityView.privacy.viewPasswords            "Сақталып тұрған парольдерді қарау">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "т">
