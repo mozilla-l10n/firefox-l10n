@@ -21,30 +21,47 @@ fonts-langgroup-trad-chinese =
     .label = Tradičné čínske (Taiwan)
 fonts-langgroup-cyrillic =
     .label = Azbuka
+fonts-langgroup-devanagari =
+    .label = Devanagarské
 fonts-langgroup-ethiopic =
     .label = Etiópske
 fonts-langgroup-georgian =
     .label = Gruzínske
 fonts-langgroup-el =
     .label = Grécke
+fonts-langgroup-gujarati =
+    .label = Gujaratské
 fonts-langgroup-gurmukhi =
     .label = Gurmukhi
 fonts-langgroup-japanese =
     .label = Japonské
 fonts-langgroup-hebrew =
     .label = Hebrejské
+fonts-langgroup-kannada =
+    .label = Kannadské
 fonts-langgroup-khmer =
     .label = Kmérske
 fonts-langgroup-korean =
     .label = Kórejské
+# Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+fonts-langgroup-latin =
+    .label = Latinka
+fonts-langgroup-malayalam =
+    .label = Malajamské
+fonts-langgroup-sinhala =
+    .label = Sinhalské
 fonts-langgroup-tamil =
     .label = Tamilské
 fonts-langgroup-telugu =
     .label = Telugu
 fonts-langgroup-thai =
     .label = Thajské
+fonts-langgroup-tibetan =
+    .label = Tibetské
 fonts-langgroup-canadian =
     .label = Jednotné kanadské
+fonts-langgroup-other =
+    .label = Iné typy písma
 
 ## Default fonts and their sizes
 
