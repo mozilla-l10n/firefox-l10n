@@ -15,4 +15,7 @@ colors-text-and-background = আখৰ আৰু পৃষ্ঠভূমি
 colors-use-system =
     .label = চিস্টেমৰ ৰং ব্যৱহাৰ কৰক
     .accesskey = s
+colors-underline-links =
+    .label = সংযোগৰ তলত ৰেখা আঁকিব
+    .accesskey = U
 colors-links-header = সংযোগৰ ৰং
