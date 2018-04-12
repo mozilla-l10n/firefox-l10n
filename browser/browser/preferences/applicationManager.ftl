@@ -5,6 +5,9 @@
 app-manager-window =
     .title = პროგრამის მონაცემები
     .style = width: 30em; min-height: 20em;
+app-manager-remove =
+    .label = ამოღება
+    .accesskey = ა
 
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.
