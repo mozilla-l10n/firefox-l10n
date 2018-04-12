@@ -7,6 +7,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-arabic =
+    .label = अरबी
 fonts-langgroup-armenian =
     .label = आर्मिनियन
 fonts-langgroup-bengali =
@@ -17,20 +19,33 @@ fonts-langgroup-trad-chinese-hk =
     .label = पारंपरिक चीनी (हाँग काँग)
 fonts-langgroup-trad-chinese =
     .label = पारंपरिक चीनी (ताईवान)
+fonts-langgroup-cyrillic =
+    .label = सिरिलिक
 fonts-langgroup-devanagari =
     .label = देवनागरी
 fonts-langgroup-ethiopic =
     .label = इथियोपिक
 fonts-langgroup-georgian =
     .label = ज्यार्जियन
+fonts-langgroup-el =
+    .label = ग्रीक
 fonts-langgroup-gujarati =
     .label = गुजराती
 fonts-langgroup-gurmukhi =
     .label = गुरूमुखी
+fonts-langgroup-japanese =
+    .label = जापानी
+fonts-langgroup-hebrew =
+    .label = हिब्रू
 fonts-langgroup-kannada =
     .label = कन्नड़
 fonts-langgroup-khmer =
     .label = ख्मेर
+fonts-langgroup-korean =
+    .label = कोरियाई
+# Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+fonts-langgroup-latin =
+    .label = लैटिन
 fonts-langgroup-malayalam =
     .label = मलयालम
 fonts-langgroup-sinhala =
@@ -39,10 +54,14 @@ fonts-langgroup-tamil =
     .label = तमिल
 fonts-langgroup-telugu =
     .label = तेलुगु
+fonts-langgroup-thai =
+    .label = थाई
 fonts-langgroup-tibetan =
     .label = तिब्बती
 fonts-langgroup-canadian =
     .label = यूनीफाइल कैनाडियन सिलबरी
+fonts-langgroup-other =
+    .label = अन्य लेखन सिस्टम
 
 ## Default fonts and their sizes
 
@@ -58,3 +77,29 @@ fonts-minsize-none =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-name-auto =
+    .label = वर्तमान लोकेलक लेल पूर्वनिर्धारित
+fonts-languages-fallback-name-arabic =
+    .label = अरबी
+fonts-languages-fallback-name-baltic =
+    .label = बाल्टिक
+fonts-languages-fallback-name-ceiso =
+    .label = केंद्रीय यूरोपियन
+fonts-languages-fallback-name-cewindows =
+    .label = मध्य यूरोपीय, माइक्रोसॉफ्ट
+fonts-languages-fallback-name-cyrillic =
+    .label = सिरिलिक
+fonts-languages-fallback-name-greek =
+    .label = ग्रीक
+fonts-languages-fallback-name-hebrew =
+    .label = हिब्रू
+fonts-languages-fallback-name-japanese =
+    .label = जापानी
+fonts-languages-fallback-name-korean =
+    .label = कोरियाई
+fonts-languages-fallback-name-thai =
+    .label = थाई
+fonts-languages-fallback-name-turkish =
+    .label = तुर्किश
+fonts-languages-fallback-name-vietnamese =
+    .label = वियतनामी
