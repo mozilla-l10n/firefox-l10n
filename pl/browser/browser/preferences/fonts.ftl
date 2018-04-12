@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = Czcionki:
+    .accesskey = C
 fonts-langgroup-arabic =
     .label = Arabskie
 fonts-langgroup-armenian =
@@ -71,12 +73,29 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Proporcjonalna:
+    .accesskey = a
 fonts-default-serif =
     .label = Szeryfowa
 fonts-default-sans-serif =
     .label = Bezszeryfowa
+fonts-proportional-size = Rozmiar:
+    .accesskey = R
+fonts-serif = Szeryfowa:
+    .accesskey = S
+fonts-sans-serif = Bezszeryfowa:
+    .accesskey = B
+fonts-monospace = O stałej szerokości:
+    .accesskey = O
+fonts-monospace-size = Rozmiar:
+    .accesskey = z
+fonts-minsize = Minimalny rozmiar czcionki:
+    .accesskey = M
 fonts-minsize-none =
     .label = Brak
+fonts-allow-own =
+    .label = Pozwalaj stronom stosować inne czcionki niż ustawione tutaj
+    .accesskey = i
 
 ## Text Encodings
 ##
@@ -85,6 +104,8 @@ fonts-minsize-none =
 
 fonts-languages-fallback-header = Kodowanie tekstu dla przestarzałych treści
 fonts-languages-fallback-desc = Kodowanie tekstu używane na stronach, które same go nie określają.
+fonts-languages-fallback-label = Rezerwowe kodowanie tekstu:
+    .accesskey = k
 fonts-languages-fallback-name-auto =
     .label = Domyślne dla obecnej lokalizacji
 fonts-languages-fallback-name-arabic =
