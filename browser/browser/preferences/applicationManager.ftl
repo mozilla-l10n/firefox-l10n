@@ -13,4 +13,5 @@ app-manager-handle-file = Estes aplicativos podem ser usados para gerenciar cont
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.
 
+app-manager-web-app-info = Este aplicativo web está hospedado em:
 app-manager-local-app-info = Este aplicativo está localizado em:
