@@ -13,6 +13,7 @@ connection-close-key =
     .key = w
 connection-disable-extension =
     .label = Moĩmbaha Monge
+connection-proxy-configure = Emboheko proxy jeike Ñandutípe
 connection-proxy-option-no =
     .label = Proxy ỹre
     .accesskey = y
