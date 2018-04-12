@@ -11,6 +11,10 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override-option-always =
+    .label = සැමවිටම
+colors-page-override-option-never =
+    .label = කිසිදාක නැත
 colors-text-and-background = පෙළ සහ පසුබිම
 colors-use-system =
     .label = පද්ධති වර්‍ණ භාවිතා කරන්න
