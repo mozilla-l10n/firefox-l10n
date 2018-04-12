@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = Šriftai, skirti
+    .accesskey = f
 fonts-langgroup-arabic =
     .label = Arabų
 fonts-langgroup-armenian =
@@ -71,10 +73,24 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Proporcingas
+    .accesskey = P
 fonts-default-serif =
     .label = Su užraitais
 fonts-default-sans-serif =
     .label = Be užraitų
+fonts-proportional-size = Dydis
+    .accesskey = D
+fonts-serif = Su užraitais
+    .accesskey = S
+fonts-sans-serif = Be užraitų
+    .accesskey = B
+fonts-monospace = Lygiaplotis
+    .accesskey = L
+fonts-monospace-size = Dydis
+    .accesskey = y
+fonts-minsize = Minimalus šrifto dydis
+    .accesskey = o
 fonts-minsize-none =
     .label = Nenurodyti
 fonts-allow-own =
@@ -88,6 +104,8 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Simbolių koduotė senam turiniui
 fonts-languages-fallback-desc = Ši simbolių koduotė bus naudojama atvaizduojant turinį, kuris neturi nurodytos koduotės.
+fonts-languages-fallback-label = Atsarginė teksto koduotė
+    .accesskey = t
 fonts-languages-fallback-name-auto =
     .label = Numatytoji šiai lokalei
 fonts-languages-fallback-name-arabic =
