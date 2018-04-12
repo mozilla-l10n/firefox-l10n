@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+permissions-window =
+    .title = Istisnolar
+    .style = width: 45em
 permissions-close-key =
     .key = w
 permissions-block =
@@ -15,3 +18,9 @@ permissions-allow =
     .accesskey = a
 permissions-status =
     .label = Holati
+permissions-button-cancel =
+    .label = Bekor qilish
+    .accesskey = B
+permissions-button-ok =
+    .label = O‘zgarishlarni saqlash
+    .accesskey = s
