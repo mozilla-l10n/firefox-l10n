@@ -7,6 +7,7 @@ languages-window =
     .style = width: 30em
 languages-close-key =
     .key = w
+languages-description = कहिलेकाहीँ वेब पृष्ठहरू एक भन्दा बढी भाषाहरूमा उपलब्ध हुन्छन । ति वेब पृष्ठहरू देखाउन , प्राथमिकताको आधारमा भाषा छनोट गर्नुहोस्
 languages-customize-moveup =
     .label = माथि सार्नुहोस्
     .accesskey = U
