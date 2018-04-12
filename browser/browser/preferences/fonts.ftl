@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+fonts-window =
+    .title = ఫాంట్లు
 fonts-window-close =
     .key = w
 
@@ -13,6 +15,12 @@ fonts-langgroup-armenian =
     .label = ఆర్మేనియన్
 fonts-langgroup-bengali =
     .label = బెంగాలి
+fonts-langgroup-simpl-chinese =
+    .label = సరళీకృత చైనీ
+fonts-langgroup-trad-chinese-hk =
+    .label = సంప్రదాయ చైనీ (హాంకాంగ్)
+fonts-langgroup-trad-chinese =
+    .label = సంప్రదాయ చైనీ (తైవాన్)
 fonts-langgroup-cyrillic =
     .label = సిరిల్లిక్
 fonts-langgroup-devanagari =
@@ -44,19 +52,29 @@ fonts-langgroup-malayalam =
     .label = మలయాళం
 fonts-langgroup-math =
     .label = గణితం
+fonts-langgroup-odia =
+    .label = ఒడియా
+fonts-langgroup-sinhala =
+    .label = సింహళం
 fonts-langgroup-tamil =
     .label = తమిళం
 fonts-langgroup-telugu =
     .label = తెలుగు{ " " }
 fonts-langgroup-thai =
     .label = థాయి
+fonts-langgroup-tibetan =
+    .label = టిబెటన్
 fonts-langgroup-canadian =
     .label = యూనిఫైడ్ కెనడియన్ సిల్లబరి
+fonts-langgroup-other =
+    .label = ఇతర లిపి వ్యవస్థలు
 
 ## Default fonts and their sizes
 
 fonts-default-serif =
     .label = సెరీఫ్
+fonts-default-sans-serif =
+    .label = సాన్స్ సెరీఫ్
 fonts-minsize-none =
     .label = ఏదీకాదు
 fonts-allow-own =
@@ -68,6 +86,10 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-header = సంక్రమిత కాంటెంట్ కొరకు పాఠ్యపు ఎన్‌కోడింగు
+fonts-languages-fallback-desc = ఏదైనా సంక్రమిత పాఠ్యం దాని ఎన్‌కోడింగును వెల్లడిచేయనప్పుడు ఈ ఎన్‌కోడింగు వాడబడుతుంది.
+fonts-languages-fallback-name-auto =
+    .label = ప్రస్తుత స్థానికపు అప్రమేయం
 fonts-languages-fallback-name-arabic =
     .label = అరబిక్
 fonts-languages-fallback-name-baltic =
@@ -78,6 +100,8 @@ fonts-languages-fallback-name-cewindows =
     .label = సెంట్రల్ యూరోపియన్, మైక్రోసాఫ్ట్
 fonts-languages-fallback-name-simplified =
     .label = చైనీస్, సింప్లిఫైడ్
+fonts-languages-fallback-name-traditional =
+    .label = చైనీస్, ట్రెడిషనల్
 fonts-languages-fallback-name-cyrillic =
     .label = సిరిల్లిక్
 fonts-languages-fallback-name-greek =
@@ -94,3 +118,5 @@ fonts-languages-fallback-name-turkish =
     .label = టర్కిష్
 fonts-languages-fallback-name-vietnamese =
     .label = వియత్నామీస్
+fonts-languages-fallback-name-other =
+    .label = ఇతర (పశ్చిమ యూరోపియనుతో కలిపి)
