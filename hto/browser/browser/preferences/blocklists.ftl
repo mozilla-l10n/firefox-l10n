@@ -4,3 +4,11 @@
 
 blocklist-close-key =
     .key = w
+blocklist-treehead-list =
+    .label = Raɨe kuejína
+blocklist-button-cancel =
+    .label = Fúita
+    .accesskey = F
+blocklist-button-ok =
+    .label = Fɨebiya ñúe jóne
+    .accesskey = F
