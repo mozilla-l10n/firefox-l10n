@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+app-manager-window =
+    .title = Forritsupplýsingar
+    .style = width: 32em; min-height: 20em;
+app-manager-remove =
+    .label = Fjarlægja
+    .accesskey = r
 app-manager-handle-webfeeds = Eftirfarandi forrit geta meðhöndlað Vefstraumar.
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
