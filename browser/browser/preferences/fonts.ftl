@@ -55,6 +55,8 @@ fonts-langgroup-telugu =
     .label = Telugų
 fonts-langgroup-thai =
     .label = Tajų
+fonts-langgroup-tibetan =
+    .label = Tibetiečių
 fonts-langgroup-canadian =
     .label = Unifikuota Kanados sinabarų
 
@@ -72,3 +74,31 @@ fonts-minsize-none =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-name-auto =
+    .label = Numatytoji šiai lokalei
+fonts-languages-fallback-name-arabic =
+    .label = Arabų
+fonts-languages-fallback-name-ceiso =
+    .label = Vidurio Europos (ISO)
+fonts-languages-fallback-name-cewindows =
+    .label = Vidurio Europos (Microsoft)
+fonts-languages-fallback-name-simplified =
+    .label = Kinų supaprastintoji
+fonts-languages-fallback-name-traditional =
+    .label = Kinų tradicinė
+fonts-languages-fallback-name-cyrillic =
+    .label = Kirilica
+fonts-languages-fallback-name-greek =
+    .label = Graikų
+fonts-languages-fallback-name-hebrew =
+    .label = Hebrajų
+fonts-languages-fallback-name-japanese =
+    .label = Japonų
+fonts-languages-fallback-name-korean =
+    .label = Korėjiečių
+fonts-languages-fallback-name-thai =
+    .label = Tajų
+fonts-languages-fallback-name-vietnamese =
+    .label = Vietnamiečių
+fonts-languages-fallback-name-other =
+    .label = Kita (įsk. Vakarų Europos)
