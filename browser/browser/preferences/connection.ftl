@@ -11,6 +11,8 @@ connection-window =
         }
 connection-close-key =
     .key = w
+connection-disable-extension =
+    .label = એક્સ્ટેંશન અક્ષમ કરો
 connection-proxy-configure = ઈન્ટરનેટ ચલાવવા માટે પ્રોક્સી ગોઠવો
 connection-proxy-option-no =
     .label = કોઈ પ્રોક્સી નથી
