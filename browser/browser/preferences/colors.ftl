@@ -11,6 +11,12 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override-option-always =
+    .label = હંમેશા
+colors-page-override-option-auto =
+    .label = ફક્ત ઉચ્ચ વિરોધાભાસ વિષય સાથે
+colors-page-override-option-never =
+    .label = ક્યારેય નહિં
 colors-text-and-background = લખાણ અને પાશ્વ ભાગ
 colors-use-system =
     .label = સિસ્ટમ રંગો વાપરો
