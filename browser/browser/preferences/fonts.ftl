@@ -52,6 +52,8 @@ fonts-langgroup-malayalam =
     .label = Malayo
 fonts-langgroup-math =
     .label = Matematicas
+fonts-langgroup-odia =
+    .label = Oriya
 fonts-langgroup-sinhala =
     .label = Sinhala
 fonts-langgroup-tamil =
@@ -75,6 +77,9 @@ fonts-default-sans-serif =
     .label = Sans Serif
 fonts-minsize-none =
     .label = Garra
+fonts-allow-own =
+    .label = Permitir a las pachinas amostrar os suyos tipos de letra propios, en cuenta d'os trigaus alto
+    .accesskey = e
 
 ## Text Encodings
 ##
