@@ -2,9 +2,16 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+app-manager-window =
+    .title = এপ্লিকেচনৰ বিৱৰণ
+    .style = width: 30em; min-height: 20em;
 app-manager-remove =
     .label = আঁতৰাওঁক
     .accesskey = R
+app-manager-handle-webfeeds = ৱেব ফীড ৰ পৰিচালনাৰ বাবে নিম্নলিখিত এপ্লিকেচন ব্যৱহাৰ কৰা হ'ব।
+# Variables:
+#   $type (String) - the URI scheme of the link (e.g. mailto:)
+app-manager-handle-protocol = { $type } সংযোগ ৰ পৰিচালনাৰ বাবে নিম্নলিখিত এপ্লিকেচন ব্যৱহাৰ কৰা হ'ব।
 
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.
