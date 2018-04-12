@@ -11,6 +11,9 @@ connection-window =
         }
 connection-close-key =
     .key = w
+connection-disable-extension =
+    .label = Desactivar l’extension
+connection-proxy-configure = Configurar del servidor proxy per accedir a Internet
 connection-proxy-option-no =
     .label = Pas cap de servidor mandatòri
     .accesskey = d
@@ -50,6 +53,7 @@ connection-proxy-socks5 =
     .accesskey = v
 connection-proxy-noproxy = Cap servidor mandatari per
     .accesskey = p
+connection-proxy-noproxy-desc = Exemple : .mozilla.org, .net.nz, 192.168.1.0/24
 connection-proxy-autotype =
     .label = URL de configuracion automatica de servidor mandatari
     .accesskey = A
