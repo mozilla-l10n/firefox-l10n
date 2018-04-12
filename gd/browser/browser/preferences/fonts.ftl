@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = Cruthan-clò airson
+    .accesskey = F
 fonts-langgroup-arabic =
     .label = Arabais
 fonts-langgroup-armenian =
@@ -71,10 +73,24 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Co-rèireach
+    .accesskey = P
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+fonts-proportional-size = Meud
+    .accesskey = z
+fonts-serif = Serif
+    .accesskey = S
+fonts-sans-serif = Sans-serif
+    .accesskey = n
+fonts-monospace = Clò aon-leud
+    .accesskey = M
+fonts-monospace-size = Meud
+    .accesskey = e
+fonts-minsize = Meud as lugha a’ chrutha-chlò
+    .accesskey = o
 fonts-minsize-none =
     .label = Chan eil gin
 fonts-allow-own =
@@ -88,6 +104,8 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Còdachadh teacsa airson susbaint dhìleabach
 fonts-languages-fallback-desc = Thèid an còdachadh teacsa seo a chleachdadh airson susbaint dhìleabach nach eil a’ cur an cèill dè còdachadh a chleachdas e.
+fonts-languages-fallback-label = Còdachadh teacsa fallback
+    .accesskey = T
 fonts-languages-fallback-name-auto =
     .label = A' bhun-roghainn airson an sgeama ionadail làithrich
 fonts-languages-fallback-name-arabic =
