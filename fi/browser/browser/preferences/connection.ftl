@@ -10,3 +10,7 @@ connection-proxy-option-no =
 connection-proxy-option-system =
     .label = Käytä järjestelmän välityspalvelinasetuksia
     .accesskey = K
+connection-proxy-autologin =
+    .label = Älä kysy kirjautumistietoja jos salasana on tallennettu
+    .accesskey = Ä
+    .tooltip = Kirjautuminen välityspalvelimelle tapahtuu automaattisesti jos salasana palvelimelle on tallennettu. Kirjautumistietoja kysytään jos automaattinen kirjautuminen epäonnistuu.
