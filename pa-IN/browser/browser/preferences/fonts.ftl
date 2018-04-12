@@ -55,6 +55,10 @@ fonts-langgroup-telugu =
     .label = ਤੇਲਗੂ
 fonts-langgroup-thai =
     .label = ਥਾਈ
+fonts-langgroup-tibetan =
+    .label = ਤਿੱਬਤੀ
+fonts-langgroup-canadian =
+    .label = ਕੈਨੇਡੀਅਨ
 
 ## Default fonts and their sizes
 
