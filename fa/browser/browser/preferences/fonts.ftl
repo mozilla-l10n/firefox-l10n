@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = قلم‌ها برای
+    .accesskey = F
 fonts-langgroup-arabic =
     .label = عربی
 fonts-langgroup-armenian =
@@ -71,10 +73,24 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = متناسب
+    .accesskey = P
 fonts-default-serif =
     .label = سِریف
 fonts-default-sans-serif =
     .label = بدون سِریف
+fonts-proportional-size = اندازه
+    .accesskey = z
+fonts-serif = Serif
+    .accesskey = S
+fonts-sans-serif = Sans-serif
+    .accesskey = n
+fonts-monospace = Monospace
+    .accesskey = M
+fonts-monospace-size = اندازه
+    .accesskey = e
+fonts-minsize = حداقل اندازه قلم
+    .accesskey = o
 fonts-minsize-none =
     .label = هیچ‌کدام
 fonts-allow-own =
@@ -88,6 +104,8 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = کدگذاری متن برای محتوای قدیمی
 fonts-languages-fallback-desc = این کدگذاری متن برای محتوای قدیمی‌ای استفاده می‌شود که قادر به معرفی کدگذاری خود نیست.
+fonts-languages-fallback-label = رمزنگاری متن کمکی
+    .accesskey = T
 fonts-languages-fallback-name-auto =
     .label = پیش‌فرض برای مکان فعلی
 fonts-languages-fallback-name-arabic =
