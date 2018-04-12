@@ -6,7 +6,7 @@
 <!ENTITY aboutTelemetry.showCurrentPingData "Date actuale privind pingul">
 <!ENTITY aboutTelemetry.showArchivedPingData "Date arhivate privind pingul">
 <!ENTITY aboutTelemetry.showSubsessionData "Arată datele privind subsesiunea">
-<!ENTITY aboutTelemetry.choosePing "Alege ping:">
+<!ENTITY aboutTelemetry.choosePing "Alege pingul:">
 <!ENTITY aboutTelemetry.archivePingType "Tipul pingului">
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
 <!ENTITY aboutTelemetry.optionGroupToday "Astăzi">
