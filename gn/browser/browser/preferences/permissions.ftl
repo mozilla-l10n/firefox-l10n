@@ -34,3 +34,5 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Moambue ñongatu
     .accesskey = S
+permissions-searchbox =
+    .placeholder = Ñandutirenda Jeheka
