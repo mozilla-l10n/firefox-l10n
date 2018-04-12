@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = 対象言語
+    .accesskey = F
 fonts-langgroup-arabic =
     .label = アラビア語
 fonts-langgroup-armenian =
@@ -71,12 +73,29 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = プロポーショナル
+    .accesskey = P
 fonts-default-serif =
     .label = 明朝体 (Serif)
 fonts-default-sans-serif =
     .label = ゴシック体 (Sans-serif)
+fonts-proportional-size = サイズ
+    .accesskey = z
+fonts-serif = 明朝体 (Serif)
+    .accesskey = S
+fonts-sans-serif = ゴシック体 (Sans-serif)
+    .accesskey = n
+fonts-monospace = 等幅 (Monospace)
+    .accesskey = M
+fonts-monospace-size = サイズ
+    .accesskey = e
+fonts-minsize = 最小フォントサイズ
+    .accesskey = o
 fonts-minsize-none =
     .label = なし
+fonts-allow-own =
+    .label = ウェブページが指定したフォントを優先する
+    .accesskey = A
 
 ## Text Encodings
 ##
@@ -85,6 +104,8 @@ fonts-minsize-none =
 
 fonts-languages-fallback-header = 古いウェブページでのテキストエンコーディング
 fonts-languages-fallback-desc = このテキストエンコーディングは、テキストエンコーディングが宣言されていない古いウェブページで使用されます。
+fonts-languages-fallback-label = 代替テキストエンコーディング
+    .accesskey = T
 fonts-languages-fallback-name-auto =
     .label = 現在のロケールのデフォルト
 fonts-languages-fallback-name-arabic =
