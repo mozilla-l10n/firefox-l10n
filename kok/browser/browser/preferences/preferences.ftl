@@ -174,6 +174,16 @@ search-keyword-warning-bookmark = तुमी किवर्ड निवड�
 
 ## Sync Section - Signed in
 
+sync-signedin-unverified = { $email } तपासूंक ना.
+sync-signedin-login-failure = परत जुळपाक मात्शे सायन ईन  { $email }
+sync-engine-bookmarks =
+    .label = बुकमार्क्स
+    .accesskey = m
+sync-engine-history =
+    .label = इतिहास
+    .accesskey = r
+sync-tos-link = सेवेच्यो अटीं
+sync-fxa-privacy-notice = गुप्तता नेटिस
 
 ## Privacy Section
 
