@@ -29,4 +29,4 @@ connection-proxy-reload =
 connection-proxy-autologin =
     .label = Non preguntar autenticación se o contrasinal está gardado
     .accesskey = i
-    .tooltip = Esta opción autentícao silenciosamente cos proxy cando gardou as credenciais para eles. Preguntaráselle cando falle a autenticación.{ " " }
+    .tooltip = Esta opción autentícao silenciosamente cos proxy cando gardou as credenciais para eles. Preguntaráselle cando falle a autenticación.
