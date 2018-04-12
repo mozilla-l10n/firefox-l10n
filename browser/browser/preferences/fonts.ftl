@@ -45,8 +45,13 @@ fonts-langgroup-khmer =
     .label = Camboyano
 fonts-langgroup-korean =
     .label = Coreano
+# Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+fonts-langgroup-latin =
+    .label = Latín
 fonts-langgroup-malayalam =
     .label = Malayalam
+fonts-langgroup-math =
+    .label = Matemáticas
 fonts-langgroup-sinhala =
     .label = Sinhala
 fonts-langgroup-tamil =
@@ -59,6 +64,8 @@ fonts-langgroup-tibetan =
     .label = Tibetano
 fonts-langgroup-canadian =
     .label = Separación silábica unificada canadiense
+fonts-langgroup-other =
+    .label = Otros sistemas de escritura
 
 ## Default fonts and their sizes
 
@@ -74,10 +81,14 @@ fonts-minsize-none =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-header = Codificación de caracteres para contenido heredado
+fonts-languages-fallback-desc = Esta codificación de texto se usa para contenido antiguo que no declara su codificación.
 fonts-languages-fallback-name-auto =
     .label = Predeterminado para idioma actual
 fonts-languages-fallback-name-arabic =
     .label = Árabe
+fonts-languages-fallback-name-baltic =
+    .label = Báltico
 fonts-languages-fallback-name-ceiso =
     .label = Centroeuropeo, ISO
 fonts-languages-fallback-name-cewindows =
@@ -98,6 +109,8 @@ fonts-languages-fallback-name-korean =
     .label = Coreano
 fonts-languages-fallback-name-thai =
     .label = Tailandés
+fonts-languages-fallback-name-turkish =
+    .label = Turco
 fonts-languages-fallback-name-vietnamese =
     .label = Vietnamita
 fonts-languages-fallback-name-other =
