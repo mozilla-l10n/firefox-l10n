@@ -208,6 +208,7 @@ play-drm-content =
     .accesskey = P
 play-drm-content-learn-more = ਹੋਰ ਜਾਣੋ
 update-application-title = { -brand-short-name } ਅੱਪਡੇਟ
+update-application-description = ਵਧੀਆ ਕਾਰਗੁਜ਼ਾਰੀ, ਸਥਿਰਤਾ ਅਤੇ ਸੁਰੱਖਿਆ ਲਈ { -brand-short-name } ਨੂੰ ਅੱਪ-ਟੂ-ਡੇਟ ਕਰਕੇ ਰੱਖੋ।
 update-application-info = ਵਰਜ਼ਨ { $version } <a>ਨਵਾਂ ਕੀ ਹੈ</a>
 update-history =
     .label = …ਅੱਪਡੇਟ ਅਤੀਤ ਵੇਖੋ
