@@ -11,6 +11,12 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override-option-always =
+    .label = नेहमी
+colors-page-override-option-auto =
+    .label = केवळ उच्च विरोधी रंगसंगतीच्या संकल्पनांसोबत
+colors-page-override-option-never =
+    .label = कधीच नाही
 colors-use-system =
     .label = प्रणाली रंगांचा वापर करा
     .accesskey = s
