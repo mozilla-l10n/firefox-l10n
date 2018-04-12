@@ -20,7 +20,7 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "Fortset der du slutta.">
 <!ENTITY firstrun_sync_subtext2 "Bruk Sync for å finne bokmerke, passord og andre ting som du lagrar i &brandShortName; på alle eininganedine.">
-<!ENTITY firstrun_signin_message "Kopla til og kom i gang">
+<!ENTITY firstrun_signin_message "Kople til og kom i gang">
 <!ENTITY firstrun_signin_button "Logg inn for å synkronisere">
 <!ENTITY  onboard_start_button_browser "Start nettlesing">
 <!ENTITY firstrun_button_notnow "Ikkje akkurat no">
@@ -176,7 +176,7 @@
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
-<!ENTITY overlay_no_synced_devices "Ingen Firefox-konto-tilkopla einingar funne">
+<!ENTITY overlay_no_synced_devices "Ingen Firefox-kontotilkopla einingar funne">
 
 <!ENTITY pref_category_search3 "Søk">
 <!ENTITY pref_category_search_summary2 "Legg til, vel standard, vis forslag">
@@ -397,7 +397,7 @@
 <!ENTITY pref_dialog_activitystream_recentBookmarks "Siste bokmerke">
 <!ENTITY pref_dialog_activitystream_visited "Besøkte">
 
-<!ENTITY pref_search_last_toast "Du kan ikkje fjerna eller deaktivera den siste søkjemotoren.">
+<!ENTITY pref_search_last_toast "Du kan ikkje fjerne eller deaktivere den siste søkemotoren.">
 
 <!ENTITY pref_panels_show "Vis">
 <!ENTITY pref_panels_hide "Gøym">

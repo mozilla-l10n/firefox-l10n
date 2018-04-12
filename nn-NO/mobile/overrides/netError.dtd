@@ -10,7 +10,7 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Klarte ikkje å kopla til">
+<!ENTITY connectionFailure.title "Klarte ikkje å kople til">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "Tilgang til denne adressa er avgrensa">
@@ -79,7 +79,7 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Sida du freistar å opna kan ikkje visast fordi det ikkje kunne stadfestast at overførte data er autentiske.</li> <li>Kontakt nettstadeigaren og informer om problemet.</li> </ul>">
 
 <!ENTITY nssBadCert.title "Trygg tilkopling feila">
-<!ENTITY nssBadCert.longDesc2 "<ul> <li>Dette kan vera pga. eit problem med oppsettet til tenaren, eller det kan vera nokon som prøvar å etterlikna tenaren.</li> <li>Om du har kopla til denne tenaren tidlegare, kan feilen vera krtvarig, og du kan prøva igjen seinare.</li> </ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Dette kan vere pga. eit problem med oppsettet til tenaren, eller det kan vere nokon som prøver å etterlikne tenaren.</li> <li>Om du har kopla til denne tenaren tidlegare, kan feilen vere kortvarig, og du kan prøve igjen seinare.</li> </ul>">
 
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
@@ -105,7 +105,7 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "Ekstern XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Kontakt nettstadseigarane og informer dei om dette problemet.</li></ul></p>">
 
-<!ENTITY sslv3Used.title "Kan ikkje kopla til trygt">
+<!ENTITY sslv3Used.title "Kan ikkje kople til trygt">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc "Avansert info: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -118,4 +118,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY inadequateSecurityError.title "Sambandet ditt er ikkje trygt">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> brukar tryggingsteknologi som er forelda og sårbar for åtak. Ein angripar kan lett avsløra informasjon som du trudde skulle vera sikker. Administrator på nettstaden må fiksa tenaren før du kan vitja nettsida.</p><p>Feilkode: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> brukar tryggingsteknologi som er forelda og sårbar for åtak. Ein angripar kan lett avsløre informasjon som du trudde skulle vere sikker. Administrator på nettstaden må fikse tenaren før du kan vitje nettsida.</p><p>Feilkode: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
