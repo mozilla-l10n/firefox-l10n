@@ -14,7 +14,7 @@
 <!ENTITY trackingProtectionNever.label "Nigdy">
 <!ENTITY trackingProtectionNever.accesskey "N">
 <!ENTITY trackingProtectionLearnMore.label "Więcej informacji">
-<!ENTITY  trackingProtectionLearnMore2.label "Więcej informacji o ochronie przed śledzeniem i prywatności.">
+<!ENTITY  trackingProtectionLearnMore2.label "Więcej informacji o ochronie przed śledzeniem i prywatności">
 <!ENTITY trackingProtectionExceptions.label "Wyjątki…">
 <!ENTITY trackingProtectionExceptions.accesskey "W">
 
