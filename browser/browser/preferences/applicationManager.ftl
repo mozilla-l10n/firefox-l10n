@@ -20,3 +20,4 @@ app-manager-handle-file = Følgende programmer kan brukes for å håndtere { $ty
 ## by the URL or path of the application.
 
 app-manager-web-app-info = Denne webapplikasjonen er tilbydt av:
+app-manager-local-app-info = Dette programmet fins på:
