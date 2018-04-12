@@ -7,4 +7,7 @@ colors-close-key =
 colors-use-system =
     .label = Systeemkleuren brûke
     .accesskey = S
+colors-underline-links =
+    .label = Keppelingen ûnderstreekje
+    .accesskey = K
 colors-links-header = Keppelingskleuren
