@@ -2,8 +2,17 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+connection-window =
+    .title = Ρυθμίσεις σύνδεσης
+    .style =
+        { PLATFORM() ->
+            [macos] width: 44em
+           *[other] width: 49em
+        }
 connection-close-key =
     .key = w
+connection-disable-extension =
+    .label = Απενεργοποίηση επέκτασης
 connection-proxy-option-no =
     .label = Χωρίς διαμεσολαβητή
     .accesskey = Χ
@@ -30,3 +39,6 @@ connection-proxy-autologin =
     .label = Να μην ζητείται έλεγχος ταυτοποίησης αν είναι αποθηκευμένος ο κωδικός
     .accesskey = μ
     .tooltip = Αυτή η επιλογή σας ταυτοποιεί σιωπηλά στους διαμεσολαβητές όταν έχετε αποθηκευμένα τα στοιχεία πρόσβασης για αυτούς. Θα ειδοποιηθείτε αν η ταυτοποίηση αποτύχει.
+connection-proxy-socks-remote-dns =
+    .label = Διαμεσολαβητής DNS κατά τη χρήση του SOCKS v5
+    .accesskey = d
