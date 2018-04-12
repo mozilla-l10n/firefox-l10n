@@ -11,6 +11,8 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override = Barwy pódane pśez bok pśez mój wuběrki górjejce pśepisaś
+    .accesskey = B
 colors-page-override-option-always =
     .label = Pśecej
 colors-page-override-option-auto =
