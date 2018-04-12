@@ -45,8 +45,15 @@ fonts-langgroup-khmer =
     .label = Xmer
 fonts-langgroup-korean =
     .label = Koreyscha
+# Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+fonts-langgroup-latin =
+    .label = Lotincha
 fonts-langgroup-malayalam =
     .label = Malaycha
+fonts-langgroup-math =
+    .label = Matematika
+fonts-langgroup-odia =
+    .label = Odia
 fonts-langgroup-sinhala =
     .label = Sinhala
 fonts-langgroup-tamil =
@@ -59,6 +66,8 @@ fonts-langgroup-tibetan =
     .label = Tibetcha
 fonts-langgroup-canadian =
     .label = Unified Canadian Syllabary
+fonts-langgroup-other =
+    .label = Boshqa yozish tizimlari
 
 ## Default fonts and their sizes
 
@@ -68,16 +77,23 @@ fonts-default-sans-serif =
     .label = Sans Serif
 fonts-minsize-none =
     .label = Yoʻq
+fonts-allow-own =
+    .label = Sahifalarga oʻzlarining shriftlarini tanlashga ruxst berilsin
+    .accesskey = t
 
 ## Text Encodings
 ##
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-header = Legacy Content uchun matnni kodlash usuli
+fonts-languages-fallback-desc = Ushbu kodlash kodlash usuli noma’lum bo‘lgan holatlar uchun ishlatiladi.
 fonts-languages-fallback-name-auto =
     .label = Joriy til uchun standart
 fonts-languages-fallback-name-arabic =
     .label = Arabcha
+fonts-languages-fallback-name-baltic =
+    .label = Boltibo‘yi
 fonts-languages-fallback-name-ceiso =
     .label = Markaziy Yevropa ISO
 fonts-languages-fallback-name-cewindows =
@@ -98,6 +114,8 @@ fonts-languages-fallback-name-korean =
     .label = Koreyscha
 fonts-languages-fallback-name-thai =
     .label = Taycha
+fonts-languages-fallback-name-turkish =
+    .label = Turkcha
 fonts-languages-fallback-name-vietnamese =
     .label = Vetnamcha
 fonts-languages-fallback-name-other =
