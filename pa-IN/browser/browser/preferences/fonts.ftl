@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = ਇਸ ਲਈ ਫ਼ੋਂਟ
+    .accesskey = F
 fonts-langgroup-arabic =
     .label = ਅਰਬੀ
 fonts-langgroup-armenian =
@@ -52,6 +54,8 @@ fonts-langgroup-malayalam =
     .label = ਮਲਿਆਲਮ
 fonts-langgroup-math =
     .label = ਗਣਿਤ
+fonts-langgroup-odia =
+    .label = ਓੜੀਆ
 fonts-langgroup-sinhala =
     .label = ਸਿੰਹਾਲਾ
 fonts-langgroup-tamil =
@@ -69,10 +73,24 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = ਅਨੁਪਾਤੀ
+    .accesskey = P
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+fonts-proportional-size = ਆਕਾਰ
+    .accesskey = z
+fonts-serif = ਸੈਰੀਫ਼
+    .accesskey = S
+fonts-sans-serif = ਸਨਜ਼-ਸੈਰੀਫ਼
+    .accesskey = n
+fonts-monospace = ਮੋਨੋਸਪੇਸ
+    .accesskey = M
+fonts-monospace-size = ਆਕਾਰ
+    .accesskey = e
+fonts-minsize = ਘੱਟੋ-ਘੱਟ ਫ਼ੋਂਟ ਆਕਾਰ
+    .accesskey = o
 fonts-minsize-none =
     .label = ਕੋਈ ਨਹੀਂ
 fonts-allow-own =
@@ -86,6 +104,8 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = ਪੁਰਾਤਨ ਸਮੱਗਰੀ ਲਈ ਅੱਖਰ ਇੰਕੋਡਿੰਗ
 fonts-languages-fallback-desc = ਇਹ ਅੱਖਰ ਇੰਕੋਡਿੰਗ ਨੂੰ ਪੁਰਾਤਨ ਸਮੱਗਰੀ ਲਈ ਵਰਤਿਆ ਜਾਂਦਾ ਹੈ, ਜੋ ਕਿ ਇੰਕੋਡਿੰਗ ਦੱਸਣ ਲਈ ਫੇਲ੍ਹ ਹੁੰਦੀ ਹੈ।
+fonts-languages-fallback-label = ਪਰਤਵੀਂ ਲਿਖਤ ਇੰਕੋਡਿੰਗ
+    .accesskey = T
 fonts-languages-fallback-name-auto =
     .label = ਮੌਜੂਦਾ ਲੋਕੇਲ ਲਈ ਮੂਲ
 fonts-languages-fallback-name-arabic =
