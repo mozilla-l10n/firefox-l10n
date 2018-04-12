@@ -13,6 +13,7 @@ connection-close-key =
     .key = w
 connection-disable-extension =
     .label = عطّل الامتداد
+connection-proxy-configure = اضبط وصول الوسيط إلى الإنترنت
 connection-proxy-option-no =
     .label = لا وسيط
     .accesskey = ل
