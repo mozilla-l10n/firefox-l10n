@@ -5,6 +5,7 @@
 blocklist-window =
     .title = Lista del blocatge
     .style = width: 55em
+blocklist-desc = Podètz causir quina lista de { -brand-short-name } serà utlizada per bolcar los elements web que poiriá pistar vòstra activitat de navegacion.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
