@@ -8,6 +8,13 @@ app-manager-window =
 app-manager-remove =
     .label = Ukloni
     .accesskey = U
+app-manager-handle-webfeeds = Sljedeći programi mogu upravljati s Web kanali.
+# Variables:
+#   $type (String) - the URI scheme of the link (e.g. mailto:)
+app-manager-handle-protocol = Sljedeći programi mogu upravljati s { $type } poveznice.
+# Variables:
+#   $type (String) - the MIME type (e.g. application/binary)
+app-manager-handle-file = Sljedeći programi mogu upravljati s { $type } sadržaj.
 
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.
