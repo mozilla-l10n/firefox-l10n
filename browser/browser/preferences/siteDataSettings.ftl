@@ -5,13 +5,19 @@
 
 ## Settings
 
+site-data-settings-window =
+    .title = कुकीज़ और साइट डेटा प्रबंधित करें
 site-data-search-textbox =
     .placeholder = वेबसाइट खोजें
     .accesskey = S
 site-data-column-host =
     .label = साइट
+site-data-column-cookies =
+    .label = कुकीज़
 site-data-column-storage =
     .label = भंडारण
+site-data-column-last-used =
+    .label = अंतिम प्रयुक्त
 site-data-remove-selected =
     .label = चयनित हटाएँ
     .accesskey = r
@@ -26,3 +32,5 @@ site-data-button-save =
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-header = कुकीज़ और साइट डेटा हटायें
+site-data-removing-table = निम्न वेबसाइटों के लिए कुकीज़ और साइट डाटा हटा दिए जायेंगे
