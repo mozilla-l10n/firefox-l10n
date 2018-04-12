@@ -13,6 +13,7 @@ connection-close-key =
     .key = w
 connection-disable-extension =
     .label = துணைநிரலை முடக்கவும்
+connection-proxy-configure = இணையத்தை அணுக பதிலாளை கட்டமைக்கவும்
 connection-proxy-option-no =
     .label = பதிலாள் இல்லை
     .accesskey = y
