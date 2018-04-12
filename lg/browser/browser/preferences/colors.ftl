@@ -11,6 +11,8 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override-option-always =
+    .label = Bulikaseera
 colors-text-and-background = Ebigambo n'Obwaliriro
 colors-use-system =
     .label = Kozesa langi za sisitimu
