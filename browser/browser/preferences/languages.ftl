@@ -7,6 +7,7 @@ languages-window =
     .style = width: 30em
 languages-close-key =
     .key = w
+languages-description = É frecuente que as páxinas web se poidan consultar en máis dun idioma. Escolla, en orde de preferencia, os idiomas para visualizar ese tipo de páxinas
 languages-customize-moveup =
     .label = Subir
     .accesskey = S
