@@ -5,6 +5,8 @@
 permissions-window =
     .title = Εξαιρέσεις
     .style = width: 47em
+permissions-address = Διεύθυνση ιστοσελίδας
+    .accesskey = ι
 permissions-block =
     .label = Φραγή
     .accesskey = Φ
