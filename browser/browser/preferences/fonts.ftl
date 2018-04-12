@@ -7,6 +7,8 @@ fonts-window =
 
 ## Font groups by language
 
+fonts-langgroup-header = Şriftlər:
+    .accesskey = F
 fonts-langgroup-arabic =
     .label = Ərəbcə
 fonts-langgroup-armenian =
@@ -69,12 +71,29 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Mütənasib
+    .accesskey = P
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+fonts-proportional-size = Ölçü
+    .accesskey = o
+fonts-serif = Serif
+    .accesskey = S
+fonts-sans-serif = Sans-serif
+    .accesskey = n
+fonts-monospace = Monospace
+    .accesskey = M
+fonts-monospace-size = Ölçü
+    .accesskey = a
+fonts-minsize = Ən kiçik şrift ölçüsü
+    .accesskey = o
 fonts-minsize-none =
     .label = Yoxdur
+fonts-allow-own =
+    .label = Saytlara yuxarıda seçdikləriniz şriftlərin yerinə öz şriftlərini işlətməyə icazə verin
+    .accesskey = A
 
 ## Text Encodings
 ##
@@ -83,6 +102,8 @@ fonts-minsize-none =
 
 fonts-languages-fallback-header = İrsi Məzmun üçün mətn simvol kodlaşdırması
 fonts-languages-fallback-desc = Bu simvol kodlaşdırması öz kodlaşdırmasını təyin edə bilməyən irsi məzmun üçün işlədilib.
+fonts-languages-fallback-label = Alternativ Mətn Kodlaşdırması
+    .accesskey = T
 fonts-languages-fallback-name-auto =
     .label = Mövcud məkan üçün əsas dəyər
 fonts-languages-fallback-name-arabic =
