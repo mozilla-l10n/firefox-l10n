@@ -37,6 +37,8 @@ fonts-langgroup-telugu =
     .label = Τελούγκου
 fonts-langgroup-thai =
     .label = Ταϊλανδική
+fonts-langgroup-tibetan =
+    .label = Θιβετιανή
 
 ## Default fonts and their sizes
 
