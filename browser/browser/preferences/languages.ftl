@@ -7,6 +7,7 @@ languages-window =
     .style = width: 30em
 languages-close-key =
     .key = w
+languages-description = 一部のウェブページは複数の言語で提供されています。これらのページで使用する言語とその優先順位を設定してください。
 languages-customize-spoof-english =
     .label = プライバシー強化のため、英語版のウェブページを表示する
 languages-customize-moveup =
