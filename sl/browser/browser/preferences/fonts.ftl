@@ -58,16 +58,23 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Raznoširinska
+    .accesskey = R
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+fonts-allow-own =
+    .label = Dovoli stranem, da uporabljajo lastne pisave namesto zgornjih izbir
+    .accesskey = h
 
 ## Text Encodings
 ##
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-label = Pomožno kodiranje besedila
+    .accesskey = ž
 fonts-languages-fallback-name-auto =
     .label = Privzeto za trenuten jezik
 fonts-languages-fallback-name-arabic =
