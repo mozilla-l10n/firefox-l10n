@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+languages-window =
+    .title = Limbi
+    .style = width: 32em
 languages-close-key =
     .key = w
 languages-customize-add =
