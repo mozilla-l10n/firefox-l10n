@@ -5,6 +5,8 @@
 languages-window =
     .title = Dillər
     .style = width: 30em
+languages-close-key =
+    .key = w
 languages-description = Bəzi səhifələr birdən çox dil dəstəyi verə bilər. Göstəriləcək dil sıralamasını aşağıdakı pəncərədən seçə bilərsiniz
 languages-customize-spoof-english =
     .label = Artırılmış məxfilik üçün saytların İngiliscə versiyalarını istə
