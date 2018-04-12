@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = ಇದಕ್ಕಾಗಿನ ಅಕ್ಷರಶೈಲಿಗಳು
+    .accesskey = F
 fonts-langgroup-arabic =
     .label = ಅರೇಬಿಕ್‍
 fonts-langgroup-armenian =
@@ -71,10 +73,24 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = ಸಮಪ್ರಮಾಣದ
+    .accesskey = P
 fonts-default-serif =
     .label = ಸೆರಿಫ್
 fonts-default-sans-serif =
     .label = ಸಾನ್ಸ್‍ ಸೆರಿಫ್
+fonts-proportional-size = ಗಾತ್ರ
+    .accesskey = z
+fonts-serif = ಸೆರಿಫ್
+    .accesskey = S
+fonts-sans-serif = ಸಾನ್ಸ್‍-ಸೆರಿಫ್
+    .accesskey = n
+fonts-monospace = ಮೊನೊಸ್ಪೇಸ್
+    .accesskey = M
+fonts-monospace-size = ಗಾತ್ರ
+    .accesskey = e
+fonts-minsize = ಅಕ್ಷರದ ಕನಿಷ್ಠ ಗಾತ್ರ
+    .accesskey = o
 fonts-minsize-none =
     .label = ಯಾವುದೂ ಇಲ್ಲ
 
@@ -85,6 +101,8 @@ fonts-minsize-none =
 
 fonts-languages-fallback-header = ಸಾಂಪ್ರದಾಯಿಕ ವಿಷಯಕ್ಕಾಗಿ ಟೆಕ್ಸ್ಟ್ ಎನ್ಕೋಡಿಂಗ್
 fonts-languages-fallback-desc = ತಮ್ಮಲ್ಲಿರುವ ಎನ್ಕೋಡಿಂಗ್‌ಗಳನ್ನು ಘೋಷಿಸದೆ ಇರುವ ಸಾಂಪ್ರದಾಯಿಕ ವಿಷಯಕ್ಕಾಗಿ ಈ ಕ್ಯಾರೆಕ್ಟರ್ ಎನ್ಕೋಡಿಂಗ್ ಅನ್ನು ಬಳಸಲಾಗುತ್ತದೆ.
+fonts-languages-fallback-label = ಹಿಮ್ಮರಳುವ Text ಎನ್ಕೋಡಿಂಗ್‌
+    .accesskey = T
 fonts-languages-fallback-name-auto =
     .label = ಪ್ರಸಕ್ತ ಲೊಕ್ಯಾಲ್‌ಗಾಗಿ ಪೂರ್ವನಿಯೋಜಿತ
 fonts-languages-fallback-name-arabic =
