@@ -43,8 +43,13 @@ fonts-langgroup-khmer =
     .label = 크메르어
 fonts-langgroup-korean =
     .label = 한국어
+# Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+fonts-langgroup-latin =
+    .label = 로마자
 fonts-langgroup-malayalam =
     .label = 말라얄람어
+fonts-langgroup-math =
+    .label = 수학
 fonts-langgroup-sinhala =
     .label = 싱할라어
 fonts-langgroup-tamil =
@@ -57,13 +62,27 @@ fonts-langgroup-tibetan =
     .label = 티베트어
 fonts-langgroup-canadian =
     .label = 캐나다 원주민 음절 문자
+fonts-langgroup-other =
+    .label = 기타 문자
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = 가변폭
+    .accesskey = P
 fonts-default-serif =
     .label = 명조체
 fonts-default-sans-serif =
     .label = 고딕체
+fonts-proportional-size = 크기
+    .accesskey = z
+fonts-serif = 바탕(세리프)
+    .accesskey = S
+fonts-sans-serif = 돋움(산세리프)
+    .accesskey = n
+fonts-monospace = 고정폭
+    .accesskey = M
+fonts-monospace-size = 크기
+    .accesskey = e
 
 ## Text Encodings
 ##
