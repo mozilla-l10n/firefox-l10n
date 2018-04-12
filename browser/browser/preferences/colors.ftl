@@ -4,6 +4,12 @@
 
 colors-close-key =
     .key = w
+colors-page-override-option-always =
+    .label = Toujours
+colors-page-override-option-auto =
+    .label = Uniquement pour les thèmes avec un contraste élevé
+colors-page-override-option-never =
+    .label = Jamais
 colors-text-and-background = Texte et arrière-plan
 colors-use-system =
     .label = Utiliser les couleurs système
