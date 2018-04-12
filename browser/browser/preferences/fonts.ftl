@@ -43,6 +43,8 @@ fonts-langgroup-korean =
     .label = Coreeană
 fonts-langgroup-thai =
     .label = Thailandeză
+fonts-langgroup-tibetan =
+    .label = Tibetană
 
 ## Default fonts and their sizes
 
