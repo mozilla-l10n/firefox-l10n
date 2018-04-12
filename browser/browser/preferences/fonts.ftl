@@ -55,6 +55,8 @@ fonts-langgroup-telugu =
     .label = Telugu
 fonts-langgroup-thai =
     .label = Thai
+fonts-langgroup-tibetan =
+    .label = Tibetanska
 fonts-langgroup-canadian =
     .label = Enhetlig kanadensisk stavelseskrift
 
@@ -72,3 +74,31 @@ fonts-minsize-none =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-name-auto =
+    .label = Standard för aktuellt språkområde
+fonts-languages-fallback-name-arabic =
+    .label = Arabisk
+fonts-languages-fallback-name-ceiso =
+    .label = Centraleuropeisk, ISO
+fonts-languages-fallback-name-cewindows =
+    .label = Centraleuropeisk, Microsoft
+fonts-languages-fallback-name-simplified =
+    .label = Kinesisk, förenklad
+fonts-languages-fallback-name-traditional =
+    .label = Kinesisk, traditionell
+fonts-languages-fallback-name-cyrillic =
+    .label = Kyrillisk
+fonts-languages-fallback-name-greek =
+    .label = Grekisk
+fonts-languages-fallback-name-hebrew =
+    .label = Hebreisk
+fonts-languages-fallback-name-japanese =
+    .label = Japansk
+fonts-languages-fallback-name-korean =
+    .label = Koreansk
+fonts-languages-fallback-name-thai =
+    .label = Thai
+fonts-languages-fallback-name-vietnamese =
+    .label = Vietnamesisk
+fonts-languages-fallback-name-other =
+    .label = Annan (inkl. västeuropeisk)
