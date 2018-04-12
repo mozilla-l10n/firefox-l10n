@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-arabic =
+    .label = Laaraw
 fonts-langgroup-armenian =
     .label = Armeeni
 fonts-langgroup-bengali =
@@ -19,32 +21,53 @@ fonts-langgroup-trad-chinese-hk =
     .label = Lasal šin (Hoŋkoŋ)
 fonts-langgroup-trad-chinese =
     .label = Lasal šin (Taywan)
+fonts-langgroup-cyrillic =
+    .label = Siril
 fonts-langgroup-devanagari =
     .label = Dewanagari
 fonts-langgroup-ethiopic =
     .label = Ecoopi
 fonts-langgroup-georgian =
     .label = Žorži
+fonts-langgroup-el =
+    .label = Gereki
 fonts-langgroup-gujarati =
     .label = Gujaraati
 fonts-langgroup-gurmukhi =
     .label = Gurmuuki
+fonts-langgroup-japanese =
+    .label = Žaapoŋ
+fonts-langgroup-hebrew =
+    .label = Ebere
 fonts-langgroup-kannada =
     .label = Kannaada
 fonts-langgroup-khmer =
     .label = Kimer
+fonts-langgroup-korean =
+    .label = Koore
+# Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+fonts-langgroup-latin =
+    .label = Lateŋ
 fonts-langgroup-malayalam =
     .label = Maalayalam
+fonts-langgroup-math =
+    .label = Kabubayray
+fonts-langgroup-odia =
+    .label = Odia
 fonts-langgroup-sinhala =
     .label = Sinhala
 fonts-langgroup-tamil =
     .label = Taamil
 fonts-langgroup-telugu =
     .label = Telugu
+fonts-langgroup-thai =
+    .label = Taayi
 fonts-langgroup-tibetan =
     .label = Tibeeti
 fonts-langgroup-canadian =
     .label = Kanada šigira margante
+fonts-langgroup-other =
+    .label = Šigiri dumi tanayaŋ
 
 ## Default fonts and their sizes
 
@@ -54,9 +77,44 @@ fonts-default-sans-serif =
     .label = Šigira šerrante
 fonts-minsize-none =
     .label = Baffoo
+fonts-allow-own =
+    .label = Moɲey noo fondo ka ngi boŋ šigirawey suuba, manti ay boŋ beene suubari
+    .accesskey = M
 
 ## Text Encodings
 ##
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-name-auto =
+    .label = Tilasu sohõ nungu se
+fonts-languages-fallback-name-arabic =
+    .label = Laaraw
+fonts-languages-fallback-name-baltic =
+    .label = Balti
+fonts-languages-fallback-name-ceiso =
+    .label = Eropu gam (ISO)
+fonts-languages-fallback-name-cewindows =
+    .label = Eropu gam, Microsoft
+fonts-languages-fallback-name-simplified =
+    .label = Šin faalante
+fonts-languages-fallback-name-traditional =
+    .label = Šin lasal
+fonts-languages-fallback-name-cyrillic =
+    .label = Siril
+fonts-languages-fallback-name-greek =
+    .label = Gereki
+fonts-languages-fallback-name-hebrew =
+    .label = Ebere
+fonts-languages-fallback-name-japanese =
+    .label = Žaapoŋ
+fonts-languages-fallback-name-korean =
+    .label = Koore
+fonts-languages-fallback-name-thai =
+    .label = Taayi
+fonts-languages-fallback-name-turkish =
+    .label = Turki
+fonts-languages-fallback-name-vietnamese =
+    .label = Wiyetinam
+fonts-languages-fallback-name-other =
+    .label = Tana (nda Eropu dangay)
