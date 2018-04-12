@@ -5,6 +5,9 @@
 connection-proxy-option-no =
     .label = Проксигүй
     .accesskey = с
+connection-proxy-option-system =
+    .label = Системийн прокси тохиргоог хэрэглэ
+    .accesskey = е
 connection-proxy-option-auto =
     .label = Энэ сүлжээний проксиг автоматаар тань
     .accesskey = в
