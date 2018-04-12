@@ -19,4 +19,5 @@ app-manager-handle-file = Porogaramey wey ga hin ka goy nda { $type } gundekunaa
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.
 
+app-manager-web-app-info = Interneti porogaramoo woo goo nda zunbudoo ne:
 app-manager-local-app-info = Porogaramoo woo ga jiši ne:
