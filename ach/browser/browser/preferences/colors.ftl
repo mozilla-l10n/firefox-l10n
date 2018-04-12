@@ -11,3 +11,17 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override-option-always =
+    .label = Jwijwi
+colors-page-override-option-auto =
+    .label = Keken ki cal ma rangi ne tye malo
+colors-page-override-option-never =
+    .label = Pe matwal
+colors-text-and-background = Coc ki Ngeye
+colors-use-system =
+    .label = Tii ki rangi pa nyonyo
+    .accesskey = i
+colors-underline-links =
+    .label = Ngol te kakube
+    .accesskey = l
+colors-links-header = Rangi me kakube
