@@ -11,6 +11,10 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override-option-always =
+    .label = সদায়
+colors-page-override-option-never =
+    .label = কেতিয়াও নহয়
 colors-text-and-background = আখৰ আৰু পৃষ্ঠভূমি
 colors-use-system =
     .label = চিস্টেমৰ ৰং ব্যৱহাৰ কৰক
