@@ -39,6 +39,8 @@ fonts-langgroup-japanese =
     .label = Japonès
 fonts-langgroup-hebrew =
     .label = Hebreu
+fonts-langgroup-kannada =
+    .label = Kanarès
 fonts-langgroup-khmer =
     .label = Khmer
 fonts-langgroup-korean =
@@ -48,6 +50,12 @@ fonts-langgroup-latin =
     .label = Llatí
 fonts-langgroup-malayalam =
     .label = Malaiàlam
+fonts-langgroup-math =
+    .label = Matemàtiques
+fonts-langgroup-odia =
+    .label = Oriya
+fonts-langgroup-sinhala =
+    .label = Singalès
 fonts-langgroup-tamil =
     .label = Tàmil
 fonts-langgroup-telugu =
@@ -69,12 +77,17 @@ fonts-default-sans-serif =
     .label = Sans Serif
 fonts-minsize-none =
     .label = Cap
+fonts-allow-own =
+    .label = Permet a les pàgines triar els seus propis tipus de lletra, en lloc de la selecció anterior
+    .accesskey = e
 
 ## Text Encodings
 ##
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-header = Codificació del text per al contingut antic
+fonts-languages-fallback-desc = Aquesta codificació del text s'utilitza per al contingut antic que no declara la seva codificació.
 fonts-languages-fallback-name-auto =
     .label = Valor per defecte de la llengua actual
 fonts-languages-fallback-name-arabic =
