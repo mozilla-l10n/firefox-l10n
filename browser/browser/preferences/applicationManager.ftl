@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+app-manager-remove =
+    .label = Вилучити
+    .accesskey = л
 app-manager-handle-webfeeds = Наступні програми можуть бути використані для обробки Веб-стрічки.
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
