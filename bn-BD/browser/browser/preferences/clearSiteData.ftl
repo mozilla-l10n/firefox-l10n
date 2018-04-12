@@ -13,6 +13,7 @@ clear-site-data-cookies = কুকি এবং সাইট ডাটা
 clear-site-data-cookies-info = পরিষ্কার করা হলে আপনি হয়ত সাইন আউট হবেন
 clear-site-data-cache = ক্যাশ করা ওয়েব কন্টেন্ট
     .accesskey = W
+clear-site-data-cache-info = ওয়েবসাইট সমূহকে, ইমেজ এবং ডেটা পুনরায় লোড করতে হবে
 clear-site-data-cancel =
     .label = বাতিল
     .accesskey = C
