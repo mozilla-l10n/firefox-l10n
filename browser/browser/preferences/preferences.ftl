@@ -290,7 +290,6 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Nýir gluggar og flipar
-home-new-windows-tabs-description = Veldu hvað þú vilt sjá þegar þú opnar heimasíðuna, nýjir glugga, og nýjir flipar
 
 ## Home Section - Home Page Customization
 
