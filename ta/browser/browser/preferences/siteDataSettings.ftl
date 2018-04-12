@@ -26,3 +26,4 @@ site-data-button-save =
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-header = தள தரவு மற்றும் நினைவிகளை அகற்றுதல்
