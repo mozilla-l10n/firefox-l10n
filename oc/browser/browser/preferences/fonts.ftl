@@ -45,6 +45,9 @@ fonts-langgroup-khmer =
     .label = Cmèr
 fonts-langgroup-korean =
     .label = Corean
+# Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+fonts-langgroup-latin =
+    .label = Latin
 fonts-langgroup-malayalam =
     .label = Malayalam
 fonts-langgroup-sinhala =
@@ -59,11 +62,15 @@ fonts-langgroup-tibetan =
     .label = Tibetan
 fonts-langgroup-canadian =
     .label = Sillabari canadian unificat
+fonts-langgroup-other =
+    .label = Autres sistèmas d'escritura
 
 ## Default fonts and their sizes
 
 fonts-default-serif =
     .label = Serif
+fonts-default-sans-serif =
+    .label = Sans Serif
 fonts-minsize-none =
     .label = Pas cap
 
@@ -72,3 +79,37 @@ fonts-minsize-none =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-header = Encodatge del tèxte pel contengut obsolèt
+fonts-languages-fallback-desc = Aqueste encodatge del tèxte es utilizat pel contengut obsolèt que declara pas corrèctament son encodatge.
+fonts-languages-fallback-name-auto =
+    .label = Valor per defaut per la lenga correnta
+fonts-languages-fallback-name-arabic =
+    .label = Arabi
+fonts-languages-fallback-name-baltic =
+    .label = Baltic
+fonts-languages-fallback-name-ceiso =
+    .label = Europèu central, ISO
+fonts-languages-fallback-name-cewindows =
+    .label = Europèu central, Microsoft
+fonts-languages-fallback-name-simplified =
+    .label = Chinés simplificat
+fonts-languages-fallback-name-traditional =
+    .label = Chinés tradicional
+fonts-languages-fallback-name-cyrillic =
+    .label = Cirillic
+fonts-languages-fallback-name-greek =
+    .label = Grèc
+fonts-languages-fallback-name-hebrew =
+    .label = Ebrieu
+fonts-languages-fallback-name-japanese =
+    .label = Japonés
+fonts-languages-fallback-name-korean =
+    .label = Corean
+fonts-languages-fallback-name-thai =
+    .label = Tai
+fonts-languages-fallback-name-turkish =
+    .label = Turc
+fonts-languages-fallback-name-vietnamese =
+    .label = Vietnamian
+fonts-languages-fallback-name-other =
+    .label = Autra (inclusa Euròpa occidentala)
