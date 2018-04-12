@@ -29,6 +29,8 @@ fonts-langgroup-gujarati =
     .label = NgokwesiGujarati
 fonts-langgroup-gurmukhi =
     .label = NgokwesiGurmukhi
+fonts-langgroup-japanese =
+    .label = NgokwesiJaphane
 fonts-langgroup-hebrew =
     .label = NgokwesiHebheru
 fonts-langgroup-kannada =
@@ -37,8 +39,15 @@ fonts-langgroup-khmer =
     .label = NgokwesiKhmer
 fonts-langgroup-korean =
     .label = NgokwesiKorea
+# Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+fonts-langgroup-latin =
+    .label = IsiLatin
 fonts-langgroup-malayalam =
     .label = NgokwesiMalayalam
+fonts-langgroup-math =
+    .label = Imathematika
+fonts-langgroup-odia =
+    .label = Odia
 fonts-langgroup-sinhala =
     .label = ISinhala
 fonts-langgroup-tamil =
@@ -51,6 +60,8 @@ fonts-langgroup-tibetan =
     .label = IsiTibetan
 fonts-langgroup-canadian =
     .label = NgokwesiUnified Canadian Syllabary
+fonts-langgroup-other =
+    .label = Ezinye iisistim zokubhala
 
 ## Default fonts and their sizes
 
@@ -60,16 +71,23 @@ fonts-default-sans-serif =
     .label = I-sans serif
 fonts-minsize-none =
     .label = Akukho
+fonts-allow-own =
+    .label = Vumela amaphepha akhethe iifonti zawo, endaweni yokhetho lwakho olungentla
+    .accesskey = V
 
 ## Text Encodings
 ##
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-header = Ukufaka Ikhowudi kuMabinzana ngeNjongo yokuQulethweyo okuDluliswayo
+fonts-languages-fallback-desc = Oku kufaka ikhowudi kumbhalo kusetyenziselwa okuluqulethweyo okoyisakalyo ukubhengeza ukufakwa kako ikhowudi.
 fonts-languages-fallback-name-auto =
     .label = Esisiseko yeNdawo okuyo Ngoku
 fonts-languages-fallback-name-arabic =
     .label = NgokwesiArab
+fonts-languages-fallback-name-baltic =
+    .label = i-Baltic
 fonts-languages-fallback-name-ceiso =
     .label = EyoMbindi Yurophu, ISO
 fonts-languages-fallback-name-cewindows =
@@ -80,10 +98,14 @@ fonts-languages-fallback-name-cyrillic =
     .label = NgokwesiCyrillic
 fonts-languages-fallback-name-hebrew =
     .label = IsiHebhere
+fonts-languages-fallback-name-japanese =
+    .label = NgokwesiJaphane
 fonts-languages-fallback-name-korean =
     .label = NgokwesiKorea
 fonts-languages-fallback-name-thai =
     .label = NgokwesiThai
+fonts-languages-fallback-name-turkish =
+    .label = i-Turkish
 fonts-languages-fallback-name-vietnamese =
     .label = IsiVietnamese
 fonts-languages-fallback-name-other =
