@@ -26,3 +26,7 @@ connection-proxy-noproxy-desc = Exemple: .mozilla.org, .net.nz, 192.168.1.0/24
 connection-proxy-reload =
     .label = Actualitza
     .accesskey = z
+connection-proxy-autologin =
+    .label = No sol·licitis autenticació si la contrasenya està desada
+    .accesskey = i
+    .tooltip = Aquesta opció us autentica automàticament en els servidors intermediaris dels quals heu desat les credencials. Si l'autenticació falla, se us sol·licitaran les credencials.
