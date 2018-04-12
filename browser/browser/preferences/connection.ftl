@@ -22,3 +22,4 @@ connection-proxy-socks4 =
 connection-proxy-socks5 =
     .label = SOCKS v5
     .accesskey = 5
+connection-proxy-noproxy-desc = Fx .mozilla.org, .net.dk, 192.168.1.0/24
