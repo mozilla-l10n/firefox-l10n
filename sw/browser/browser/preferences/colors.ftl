@@ -11,6 +11,10 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override-option-always =
+    .label = Kila wakati
+colors-page-override-option-never =
+    .label = Kamwe
 colors-text-and-background = Matini na Mandharinyuma
 colors-use-system =
     .label = Tumia mfumo wa rangi
