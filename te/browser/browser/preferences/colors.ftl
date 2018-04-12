@@ -29,3 +29,7 @@ colors-underline-links =
     .label = లింక్‌ల‌కు కిందిగీత
     .accesskey = U
 colors-links-header = లింకు రంగులు
+colors-unvisited-links = చూడని లంకెలు
+    .accesskey = L
+colors-visited-links = చూసిన లంకెలు
+    .accesskey = V
