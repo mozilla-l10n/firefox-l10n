@@ -2,9 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+app-manager-window =
+    .title = Rakenduse üksikasjad
+    .style = width: 30em; min-height: 20em;
 app-manager-remove =
     .label = Eemalda
     .accesskey = E
+app-manager-handle-webfeeds = Järgnevaid rakendusi saab kasutada käsitlemaks uudistevooge.
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Järgnevaid rakendusi saab kasutada käsitlemaks { $type } linke.
