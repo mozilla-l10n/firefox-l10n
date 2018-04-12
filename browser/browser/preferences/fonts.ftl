@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = Γραμματοσειρές για
+    .accesskey = Γ
 fonts-langgroup-arabic =
     .label = Αραβική
 fonts-langgroup-armenian =
@@ -71,10 +73,24 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Μεταβλητού πλάτους
+    .accesskey = Μ
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+fonts-proportional-size = Μέγεθος
+    .accesskey = γ
+fonts-serif = Serif
+    .accesskey = S
+fonts-sans-serif = Sans-serif
+    .accesskey = n
+fonts-monospace = Σταθερού πλάτους
+    .accesskey = Σ
+fonts-monospace-size = Μέγεθος
+    .accesskey = θ
+fonts-minsize = Ελάχιστο μέγεθος γραμματοσειράς
+    .accesskey = ρ
 fonts-minsize-none =
     .label = Κανένα
 fonts-allow-own =
@@ -88,6 +104,8 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Κωδικοποίηση κειμένου για συμβατότητα παλαιού περιεχόμενου
 fonts-languages-fallback-desc = Αυτή η κωδικοποίηση κειμένου χρησιμοποιείται για περιεχόμενο παλαιών σελίδων που δεν δηλώνουν την κωδικοποίηση τους.
+fonts-languages-fallback-label = Εφεδρική κωδικοποίηση κειμένου
+    .accesskey = Κ
 fonts-languages-fallback-name-auto =
     .label = Προεπιλογή για την τρέχουσα γλώσσα
 fonts-languages-fallback-name-arabic =
