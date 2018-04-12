@@ -5,6 +5,7 @@
 app-manager-remove =
     .label = অপসারণ করুন R
     .accesskey = R
+app-manager-handle-webfeeds = ওয়েব ফিড নিম্নলিখিত অ্যাপ্লিকেশন পরিচালনার জন্যে ব্যবহার করা যাবে।
 
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.
