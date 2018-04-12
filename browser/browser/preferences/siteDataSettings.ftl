@@ -10,6 +10,8 @@ site-data-search-textbox =
     .accesskey = S
 site-data-column-host =
     .label = সাইট
+site-data-column-cookies =
+    .label = কুকি
 site-data-column-storage =
     .label = স্টোরেজ
 site-data-remove-selected =
@@ -26,3 +28,4 @@ site-data-button-save =
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-table = এই সাইটগুলোর জন্য কুকি এবং সাইট ডাটা মুছে দেওয়া হবে
