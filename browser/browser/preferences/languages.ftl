@@ -7,6 +7,7 @@ languages-window =
     .style = width: 30em
 languages-close-key =
     .key = w
+languages-description = ජාල පිටු ඇතැම් විට එක් භාශාවකට වඩා ඉදිරිපත් කරයි. අභිප්‍රේතය පරිදි මෙම ජාල අඩවි පෙන්වීම සඳහා භාශාවන් තෝරන්න
 languages-customize-moveup =
     .label = ඉහළට ගෙනයන්න
     .accesskey = U
