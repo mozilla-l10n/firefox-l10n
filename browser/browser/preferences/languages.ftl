@@ -7,6 +7,7 @@ languages-window =
     .style = width: 30em
 languages-close-key =
     .key = w
+languages-description = Web stranice su ponekad dostupne na više jezika. Odaberite jezike za prikaz tih web stranica prema preferiranom redoslijedu
 languages-customize-moveup =
     .label = Pomakni gore
     .accesskey = g
