@@ -4,6 +4,9 @@
 
 connection-close-key =
     .key = w
+connection-proxy-option-no =
+    .label = Proxy peke
+    .accesskey = y
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = K
