@@ -35,7 +35,7 @@
 <!ENTITY restoreDefaultSearchEngines.label     "ডিফল্ট অনুসন্ধান ইঞ্জিন পুনঃস্থাপন">
 <!ENTITY restoreDefaultSearchEngines.accesskey "D">
 
-<!ENTITY removeEngine.label                    "অপসারণ করুন R">
+<!ENTITY removeEngine.label                    "অপসারণ করুন">
 <!ENTITY removeEngine.accesskey                "R">
 
 <!ENTITY findMoreSearchEngines.label           "আরও অনুসন্ধান ইঞ্জিন খুঁজুন">
