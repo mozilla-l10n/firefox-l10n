@@ -11,4 +11,7 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-use-system =
+    .label = प्रणाली रंगांचा वापर करा
+    .accesskey = s
 colors-links-header = लिंकचे रंग
