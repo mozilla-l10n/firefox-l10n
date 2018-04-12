@@ -45,8 +45,15 @@ fonts-langgroup-khmer =
     .label = Khmerų
 fonts-langgroup-korean =
     .label = Korėjiečių
+# Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+fonts-langgroup-latin =
+    .label = Lotynų
 fonts-langgroup-malayalam =
     .label = Malajalamų
+fonts-langgroup-math =
+    .label = Matematika
+fonts-langgroup-odia =
+    .label = Orijų
 fonts-langgroup-sinhala =
     .label = Singalų
 fonts-langgroup-tamil =
@@ -59,6 +66,8 @@ fonts-langgroup-tibetan =
     .label = Tibetiečių
 fonts-langgroup-canadian =
     .label = Unifikuota Kanados sinabarų
+fonts-langgroup-other =
+    .label = Kitos rašto sistemos
 
 ## Default fonts and their sizes
 
@@ -68,16 +77,23 @@ fonts-default-sans-serif =
     .label = Be užraitų
 fonts-minsize-none =
     .label = Nenurodyti
+fonts-allow-own =
+    .label = Leisti tinklalapiams nurodyti šriftus, naudotinus vietoje jūsų parinktų
+    .accesskey = t
 
 ## Text Encodings
 ##
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-header = Simbolių koduotė senam turiniui
+fonts-languages-fallback-desc = Ši simbolių koduotė bus naudojama atvaizduojant turinį, kuris neturi nurodytos koduotės.
 fonts-languages-fallback-name-auto =
     .label = Numatytoji šiai lokalei
 fonts-languages-fallback-name-arabic =
     .label = Arabų
+fonts-languages-fallback-name-baltic =
+    .label = Baltų
 fonts-languages-fallback-name-ceiso =
     .label = Vidurio Europos (ISO)
 fonts-languages-fallback-name-cewindows =
@@ -98,6 +114,8 @@ fonts-languages-fallback-name-korean =
     .label = Korėjiečių
 fonts-languages-fallback-name-thai =
     .label = Tajų
+fonts-languages-fallback-name-turkish =
+    .label = Turkų
 fonts-languages-fallback-name-vietnamese =
     .label = Vietnamiečių
 fonts-languages-fallback-name-other =
