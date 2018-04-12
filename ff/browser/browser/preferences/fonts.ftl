@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = Ponte
+    .accesskey = P
 fonts-langgroup-arabic =
     .label = Aarabeere
 fonts-langgroup-armenian =
@@ -71,10 +73,22 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Potpotondirɗe
+    .accesskey = P
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = San Serif
+fonts-proportional-size = Ɓetol
+    .accesskey = z
+fonts-serif = Serif
+    .accesskey = S
+fonts-monospace = Monospace
+    .accesskey = M
+fonts-monospace-size = Ɓetol
+    .accesskey = e
+fonts-minsize = Ɓetol fontere lesiwol
+    .accesskey = o
 fonts-minsize-none =
     .label = Ndiga
 fonts-allow-own =
@@ -88,6 +102,8 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Dokkitannde binndol Loowdi Gaadanteeri
 fonts-languages-fallback-desc = Ndee dokkitannde binndol huutortee ko e loowdi gaadanteeri korotoondi hollitde dokkitannde mum.
+fonts-languages-fallback-label = Yantirde Dokkitannde Binndi
+    .accesskey = B
 fonts-languages-fallback-name-auto =
     .label = Goowaaɗo Lokaalde Wonaande
 fonts-languages-fallback-name-arabic =
