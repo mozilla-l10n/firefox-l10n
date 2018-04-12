@@ -2,7 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+languages-window =
+    .title = Języki
+    .style = width: 34em
 languages-close-key =
     .key = w
+languages-description = Niektóre strony WWW dostępne są w wielu wersjach językowych. Ustal listę kolejno preferowanych języków dla tego rodzaju stron.
 languages-customize-select-language =
     .placeholder = Wybierz język do dodania…
