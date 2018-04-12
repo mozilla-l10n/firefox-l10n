@@ -8,7 +8,16 @@ app-manager-window =
 app-manager-remove =
     .label = తీసివేయి
     .accesskey = R
+app-manager-handle-webfeeds = వెబ్ ఫీడ్లు ను సంభాళించుటకు ఈ క్రింది అనువర్తనాలను ఉపయోగించవచ్చు.
+# Variables:
+#   $type (String) - the URI scheme of the link (e.g. mailto:)
+app-manager-handle-protocol = { $type } లింకులు ను సంభాళించుటకు ఈ క్రింది అనువర్తనాలను ఉపయోగించవచ్చు.
+# Variables:
+#   $type (String) - the MIME type (e.g. application/binary)
+app-manager-handle-file = { $type } సారము ను సంభాళించుటకు ఈ క్రింది అనువర్తనాలను ఉపయోగించవచ్చు.
 
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.
 
+app-manager-web-app-info = ఈ వెబ్ అనువర్తనం ఇచట హోస్టు ‌చేయబడింది:
+app-manager-local-app-info = ఈ అనువర్తనం ఇక్కడ ఉంది:
