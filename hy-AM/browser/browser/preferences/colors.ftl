@@ -15,3 +15,7 @@ colors-text-and-background = Տեքստ և Խորապատկեր
 colors-use-system =
     .label = Օգտագործել համակարգի գույները
     .accesskey = գ
+colors-underline-links =
+    .label = Հղումներն ընդգծել
+    .accesskey = ղ
+colors-links-header = Հղումների Գույները
