@@ -44,6 +44,8 @@ fonts-langgroup-latin =
     .label = Λατινική
 fonts-langgroup-malayalam =
     .label = Μαλαισιανή
+fonts-langgroup-math =
+    .label = Μαθηματικά
 fonts-langgroup-sinhala =
     .label = Σινχάλα
 fonts-langgroup-tamil =
@@ -54,9 +56,15 @@ fonts-langgroup-thai =
     .label = Ταϊλανδική
 fonts-langgroup-tibetan =
     .label = Θιβετιανή
+fonts-langgroup-other =
+    .label = Άλλα συστήματα γραφής
 
 ## Default fonts and their sizes
 
+fonts-default-serif =
+    .label = Serif
+fonts-default-sans-serif =
+    .label = Sans Serif
 fonts-minsize-none =
     .label = Κανένα
 
@@ -67,3 +75,29 @@ fonts-minsize-none =
 
 fonts-languages-fallback-header = Κωδικοποίηση κειμένου για συμβατότητα παλαιού περιεχόμενου
 fonts-languages-fallback-desc = Αυτή η κωδικοποίηση κειμένου χρησιμοποιείται για περιεχόμενο παλαιών σελίδων που δεν δηλώνουν την κωδικοποίηση τους.
+fonts-languages-fallback-name-auto =
+    .label = Προεπιλογή για την τρέχουσα γλώσσα
+fonts-languages-fallback-name-arabic =
+    .label = Αραβική
+fonts-languages-fallback-name-baltic =
+    .label = Βαλτική
+fonts-languages-fallback-name-ceiso =
+    .label = Κεντρική Ευρωπαϊκή, ISO
+fonts-languages-fallback-name-cewindows =
+    .label = Κεντρική Ευρωπαϊκή, Microsoft
+fonts-languages-fallback-name-cyrillic =
+    .label = Κυριλλική
+fonts-languages-fallback-name-greek =
+    .label = Ελληνική
+fonts-languages-fallback-name-hebrew =
+    .label = Εβραϊκή
+fonts-languages-fallback-name-japanese =
+    .label = Ιαπωνική
+fonts-languages-fallback-name-korean =
+    .label = Κορεάτικη
+fonts-languages-fallback-name-thai =
+    .label = Ταϊλανδέζικη
+fonts-languages-fallback-name-turkish =
+    .label = Τουρκική
+fonts-languages-fallback-name-vietnamese =
+    .label = Βιετναμέζικη
