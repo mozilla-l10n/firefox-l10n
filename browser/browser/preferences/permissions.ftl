@@ -15,3 +15,6 @@ permissions-allow =
     .accesskey = D
 permissions-status =
     .label = Rewş
+permissions-button-cancel =
+    .label = Betal
+    .accesskey = B
