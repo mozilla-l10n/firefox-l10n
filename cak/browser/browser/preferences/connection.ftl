@@ -11,6 +11,9 @@ connection-window =
         }
 connection-close-key =
     .key = w
+connection-disable-extension =
+    .label = Tichup ri K'amal
+connection-proxy-configure = Tinuk'samajïx ri Okem Proxi pa K'amaya'l
 connection-proxy-option-no =
     .label = Majun proxi
     .accesskey = p
