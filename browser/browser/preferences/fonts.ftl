@@ -31,6 +31,9 @@ fonts-langgroup-kannada =
     .label = Kannada
 fonts-langgroup-khmer =
     .label = Khơ-me
+# Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+fonts-langgroup-latin =
+    .label = Latinh
 fonts-langgroup-malayalam =
     .label = Malayalam
 fonts-langgroup-sinhala =
@@ -43,6 +46,8 @@ fonts-langgroup-tibetan =
     .label = Tây Tạng
 fonts-langgroup-canadian =
     .label = Kí hiệu Âm tiết Canađa Thống nhất
+fonts-langgroup-other =
+    .label = Hệ thống viết khác
 
 ## Default fonts and their sizes
 
@@ -58,3 +63,15 @@ fonts-minsize-none =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-header = Mã hóa văn bản cho nội dung cũ
+fonts-languages-fallback-desc = Mã hóa văn bản này được dùng cho nội dung cũ mà thất bại trong việc khai báo mã hóa của nó.
+fonts-languages-fallback-name-auto =
+    .label = Mặc định cho bản địa hiện tại
+fonts-languages-fallback-name-simplified =
+    .label = Hoa giản thể
+fonts-languages-fallback-name-traditional =
+    .label = Hoa phồn thể
+fonts-languages-fallback-name-vietnamese =
+    .label = Việt
+fonts-languages-fallback-name-other =
+    .label = Khác (gồm Tây Âu)
