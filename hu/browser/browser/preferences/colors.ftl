@@ -11,6 +11,8 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override = Az oldal által megadott színek felülbírálása a fenti választásaival
+    .accesskey = f
 colors-page-override-option-always =
     .label = Mindig
 colors-page-override-option-auto =
