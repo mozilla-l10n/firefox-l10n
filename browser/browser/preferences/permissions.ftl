@@ -4,6 +4,9 @@
 
 permissions-close-key =
     .key = w
+permissions-block =
+    .label = నిరోధించు
+    .accesskey = B
 permissions-session =
     .label = భాగము కొరకు అనుమతించు
     .accesskey = S
