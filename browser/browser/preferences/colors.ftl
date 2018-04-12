@@ -11,6 +11,7 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-text-and-background = Teacsa is cùlaibh
 colors-use-system =
     .label = Cleachd dathan an t-siostaim
     .accesskey = s
