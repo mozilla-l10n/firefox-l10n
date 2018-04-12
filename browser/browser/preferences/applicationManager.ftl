@@ -7,3 +7,4 @@
 ## by the URL or path of the application.
 
 app-manager-web-app-info = Aplikasi web ini dihoskan di:
+app-manager-local-app-info = Aplikasi ini berada di:
