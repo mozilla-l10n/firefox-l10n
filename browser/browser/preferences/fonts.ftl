@@ -75,12 +75,17 @@ fonts-default-sans-serif =
     .label = Sans serif
 fonts-minsize-none =
     .label = Aucune
+fonts-allow-own =
+    .label = Autoriser les pages web à utiliser leurs propres polices au lieu de celles choisies ci-dessus
+    .accesskey = h
 
 ## Text Encodings
 ##
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-header = Encodage du texte pour le contenu obsolète
+fonts-languages-fallback-desc = Cet encodage de texte est utilisé pour le contenu obsolète qui ne déclare pas correctement son encodage.
 fonts-languages-fallback-name-auto =
     .label = Valeur par défaut pour la langue courante
 fonts-languages-fallback-name-arabic =
