@@ -4,6 +4,9 @@
 
 connection-close-key =
     .key = w
+connection-proxy-option-no =
+    .label = ಯಾವುದೆ ಪ್ರಾಕ್ಸಿ ಇಲ್ಲ
+    .accesskey = y
 connection-proxy-option-auto =
     .label = ಈ ಜಾಲಬಂಧಕ್ಕೆ  ಪ್ರಾಕ್ಸಿ ಸಿದ್ಧತೆಗಳನ್ನು ನೀನಾಗಿಯೆ ಹುಡುಕು
     .accesskey = w
