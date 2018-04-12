@@ -8,6 +8,7 @@ app-manager-window =
 app-manager-remove =
     .label = Remover
     .accesskey = R
+app-manager-handle-webfeeds = As aplicações seguintes podem ser utilizadas para gerir Fontes Web.
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = As aplicações seguintes podem ser utilizadas para gerir Conteúdo { $type }.
