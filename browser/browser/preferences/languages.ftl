@@ -5,6 +5,8 @@
 languages-window =
     .title = Jazyky a kódovanie
     .style = width: 30em
+languages-close-key =
+    .key = w
 languages-customize-moveup =
     .label = Posunúť nahor
     .accesskey = h
