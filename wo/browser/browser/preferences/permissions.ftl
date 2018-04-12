@@ -15,3 +15,6 @@ permissions-allow =
     .accesskey = a
 permissions-status =
     .label = Nekkin
+permissions-button-cancel =
+    .label = Neenal
+    .accesskey = N
