@@ -9,3 +9,6 @@ translation-close-key =
     .key = w
 translation-languages-column =
     .label = Bahasa
+translation-button-close =
+    .label = Tutup
+    .accesskey = u
