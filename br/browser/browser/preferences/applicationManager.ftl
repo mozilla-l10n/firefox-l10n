@@ -8,6 +8,7 @@ app-manager-window =
 app-manager-remove =
     .label = Dilemel
     .accesskey = D
+app-manager-handle-webfeeds = Ar goulevioù da heul a c'hell bezañ arveret evit dornata Lanvioù Web.
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Ar goulevioù da heul a c'hell bezañ arveret evit dornata ereoù { $type }.
