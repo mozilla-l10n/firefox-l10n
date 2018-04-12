@@ -7,6 +7,10 @@ fonts-window =
 
 ## Font groups by language
 
+fonts-langgroup-math =
+    .label = သင်္ချာ
+fonts-langgroup-other =
+    .label = အခြား စာရေးစနစ်များ
 
 ## Default fonts and their sizes
 
@@ -20,3 +24,7 @@ fonts-default-sans-serif =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-header = စနစ်ဟောင်းဖြင့်ဖန်တီထားသည့် အကြောင်းအရာများအတွက် စာသား သိမ်းဆည်းမှုစနစ်
+fonts-languages-fallback-desc = စနစ်ဟောင်းဖြင့် ဖန်တီးထားသည့် အကြောင်းအရာများသည် ၄င်းတို့၏ စာသားသိမ်းဆည်းမှုစနစ်ကို မဖော်ပြနိုင်လျှင် ယခု စာသားသိမ်းဆည်းမှုစနစ်ကို အသုံးပြုမည်။
+fonts-languages-fallback-name-ceiso =
+    .label = ဥရောပ အလယ်‌ပိုင်း ISO
