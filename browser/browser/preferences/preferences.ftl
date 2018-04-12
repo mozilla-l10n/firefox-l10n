@@ -290,7 +290,6 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Nuevas finestras y pestanyas
-home-new-windows-tabs-description = Tría lo que se veye quan ubres la pachina d'inicio, nuevas finestras u nuevas pestanyas
 
 ## Home Section - Home Page Customization
 
