@@ -5,6 +5,8 @@
 
 ## Settings
 
+site-data-settings-window =
+    .title = Gerenciar os cookies e dados do site
 site-data-search-textbox =
     .placeholder = Pesquisar sites
     .accesskey = P
