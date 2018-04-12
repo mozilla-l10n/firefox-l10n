@@ -4,6 +4,9 @@
 
 app-manager-handle-webfeeds = Eftirfarandi forrit geta meðhöndlað Vefstraumar.
 # Variables:
+#   $type (String) - the URI scheme of the link (e.g. mailto:)
+app-manager-handle-protocol = Eftirfarandi forrit geta meðhöndlað { $type } tengla.
+# Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Eftirfarandi forrit geta meðhöndlað { $type } efni.
 
