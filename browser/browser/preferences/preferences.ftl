@@ -294,7 +294,6 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Nova okna in zavihki
-home-new-windows-tabs-description = Izberite, kaj naj se prikaže, ko odprete domačo stran, novo okno ali nov zavihek
 
 ## Home Section - Home Page Customization
 
