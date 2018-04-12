@@ -11,6 +11,8 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override = Anwybyddu'r lliwiau sy'n cael eu pennu gan y dudalen gan ddefnyddio fy newis i uchod
+    .accesskey = A
 colors-page-override-option-always =
     .label = Bob tro
 colors-page-override-option-auto =
