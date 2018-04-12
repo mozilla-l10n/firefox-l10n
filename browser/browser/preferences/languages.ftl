@@ -7,6 +7,7 @@ languages-window =
     .style = width: 30em
 languages-close-key =
     .key = w
+languages-description = A weboldalak néha több nyelven is elérhetőek. Adja meg sorrendben azokat a nyelveket, amelyeken az ilyen weboldalakat meg szeretné tekinteni
 languages-customize-moveup =
     .label = Mozgatás felfelé
     .accesskey = f
