@@ -11,6 +11,12 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override-option-always =
+    .label = Vedno
+colors-page-override-option-auto =
+    .label = Samo z visokokontrastnimi temami
+colors-page-override-option-never =
+    .label = Nikoli
 colors-text-and-background = Besedilo in ozadje
 colors-use-system =
     .label = Uporabi barve sistema
