@@ -43,6 +43,9 @@ fonts-langgroup-khmer =
     .label = Khmer
 fonts-langgroup-korean =
     .label = Koreaans
+# Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+fonts-langgroup-latin =
+    .label = Latijns
 fonts-langgroup-malayalam =
     .label = Malayalam
 fonts-langgroup-sinhala =
@@ -51,10 +54,14 @@ fonts-langgroup-tamil =
     .label = Tamil
 fonts-langgroup-telugu =
     .label = Telugu
+fonts-langgroup-thai =
+    .label = Thais
 fonts-langgroup-tibetan =
     .label = Tibetaans
 fonts-langgroup-canadian =
     .label = Verenigd Canadees lettergreepschrift
+fonts-langgroup-other =
+    .label = Andere schriftsystemen
 
 ## Default fonts and their sizes
 
