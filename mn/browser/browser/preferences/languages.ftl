@@ -5,6 +5,8 @@
 languages-window =
     .title = Хэл
     .style = width: 30em
+languages-close-key =
+    .key = w
 languages-customize-moveup =
     .label = Дээш зөө
     .accesskey = э
