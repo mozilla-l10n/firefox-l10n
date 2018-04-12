@@ -66,6 +66,7 @@ fonts-minsize-none =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-header = Кодиране на остаряло съдържание
 fonts-languages-fallback-name-auto =
     .label = Текущият локал да стане стандартен
 fonts-languages-fallback-name-ceiso =
