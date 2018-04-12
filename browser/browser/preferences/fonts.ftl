@@ -134,5 +134,7 @@ fonts-languages-fallback-name-thai =
     .label = Tailandés
 fonts-languages-fallback-name-turkish =
     .label = Turcu
+fonts-languages-fallback-name-vietnamese =
+    .label = Vietnamita
 fonts-languages-fallback-name-other =
     .label = Otros (incl. européu occidental)
