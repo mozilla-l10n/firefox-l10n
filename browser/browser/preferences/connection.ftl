@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+connection-window =
+    .title = Socruithe Ceangail
+    .style =
+        { PLATFORM() ->
+            [macos] width: 48em
+           *[other] width: 54em
+        }
 connection-close-key =
     .key = w
 connection-proxy-option-no =
@@ -23,7 +30,13 @@ connection-proxy-socks5 =
     .label = SOCKS v5
     .accesskey = v
 connection-proxy-noproxy-desc = Sampla: .mozilla.org, .net.nz, 192.168.1.0/24
+connection-proxy-reload =
+    .label = Athlódáil
+    .accesskey = A
 connection-proxy-autologin =
     .label = Ná hiarr orm logáil isteach má tá focal faire sábháilte agam
     .accesskey = i
     .tooltip = Beidh an rogha seo do d'fhíordheimhniú ar sheachfhreastalaithe nuair a bhíonn dintiúir shábháilte agat. Iarrfar na dintiúir ort má theipeann ar an bhfíordheimhniú.
+connection-proxy-socks-remote-dns =
+    .label = DNS an tseachfhreastalaí agus SOCKS v5 á úsáid
+    .accesskey = d
