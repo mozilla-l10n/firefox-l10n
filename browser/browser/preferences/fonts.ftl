@@ -52,6 +52,8 @@ fonts-langgroup-malayalam =
     .label = Malaiala
 fonts-langgroup-math =
     .label = Matemática
+fonts-langgroup-odia =
+    .label = Oriya
 fonts-langgroup-sinhala =
     .label = Cingalês
 fonts-langgroup-tamil =
@@ -75,6 +77,9 @@ fonts-default-sans-serif =
     .label = Sem serifa
 fonts-minsize-none =
     .label = Nenhum
+fonts-allow-own =
+    .label = Permitir que páginas escolham suas próprias fontes, ao invés de suas seleções acima
+    .accesskey = P
 
 ## Text Encodings
 ##
