@@ -7,6 +7,7 @@ languages-window =
     .style = width: 30em
 languages-close-key =
     .key = w
+languages-description = Jujun taq ruxaq wuj etz'ib'an pa jalajöj taq ch'ab'äl. Tacha' ri ch'ab'äl ütz yetz'et re taq ruxaq k'amaya'l re', achike na ri narayib'ej.
 languages-customize-moveup =
     .label = Tijotob'äx
     .accesskey = j
