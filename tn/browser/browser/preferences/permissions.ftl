@@ -6,3 +6,6 @@ permissions-close-key =
     .key = w
 permissions-status =
     .label = Maemo
+permissions-button-cancel =
+    .label = Khansela
+    .accesskey = K
