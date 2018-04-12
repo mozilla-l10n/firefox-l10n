@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-armenian =
+    .label = ՀԱՅԵՐԵՆ
 fonts-langgroup-bengali =
     .label = Բենգալի
 fonts-langgroup-simpl-chinese =
@@ -17,6 +19,8 @@ fonts-langgroup-trad-chinese-hk =
     .label = Ավանդական Չիներեն (Հոնգ­Կոնգ)
 fonts-langgroup-trad-chinese =
     .label = Ավանդական Չիներեն (Թայվան)
+fonts-langgroup-devanagari =
+    .label = Դևանագարի
 fonts-langgroup-ethiopic =
     .label = Եթովպերեն
 fonts-langgroup-georgian =
@@ -29,10 +33,14 @@ fonts-langgroup-kannada =
     .label = Կաննադա
 fonts-langgroup-khmer =
     .label = Խմեր
+fonts-langgroup-malayalam =
+    .label = Մալայլամ
 fonts-langgroup-sinhala =
     .label = Սինգալյան
 fonts-langgroup-tamil =
     .label = Թամիլերեն
+fonts-langgroup-telugu =
+    .label = Թելուգու
 fonts-langgroup-tibetan =
     .label = Թիբեթերեն
 fonts-langgroup-canadian =
