@@ -304,6 +304,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Inspecionar elemento">
 <!ENTITY inspectContextMenu.accesskey "t">
 
+<!ENTITY inspectA11YContextMenu.label     "Inspecionar propriedades de acessibilidade">
+
 <!ENTITY fileMenu.label         "Ficheiro">
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "Novo separador contentor">
