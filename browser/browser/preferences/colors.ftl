@@ -11,6 +11,8 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override = Zamjenjuje boje koje su određene stranicom s onime što ste odabrali
+    .accesskey = o
 colors-page-override-option-always =
     .label = Uvijek
 colors-page-override-option-auto =
