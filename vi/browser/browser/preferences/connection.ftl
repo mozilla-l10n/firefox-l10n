@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+connection-window =
+    .title = Thiết lập Kết nối
+    .style =
+        { PLATFORM() ->
+            [macos] width: 44em
+           *[other] width: 49em
+        }
 connection-close-key =
     .key = w
 connection-proxy-option-no =
@@ -25,3 +32,10 @@ connection-proxy-socks5 =
 connection-proxy-reload =
     .label = Tải lại
     .accesskey = i
+connection-proxy-autologin =
+    .label = Không yêu cầu xác nhận nếu đã lưu mật khẩu
+    .accesskey = n
+    .tooltip = Tùy chọn này xác thực ngầm bạn với proxy khi bạn đã lưu thông tin ủy nhiệm của chúng. Bạn sẽ được yêu cầu nếu việc xác thực thất bại.
+connection-proxy-socks-remote-dns =
+    .label = DNS của proxy khi dùng SOCKS v5
+    .accesskey = d
