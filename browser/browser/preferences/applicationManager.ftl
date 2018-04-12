@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+app-manager-window =
+    .title = Mionsonraí feidhmchláir
+    .style = width: 36em; min-height: 24em;
+app-manager-remove =
+    .label = Bain
+    .accesskey = B
 app-manager-handle-webfeeds = Is féidir na feidhmchláir seo a leanas a úsáid chun Fothaí Gréasáin a láimhseáil.
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
