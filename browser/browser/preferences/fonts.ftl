@@ -52,6 +52,8 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-minsize-none =
+    .label = Nenhum
 
 ## Text Encodings
 ##
