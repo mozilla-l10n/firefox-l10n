@@ -11,4 +11,11 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-text-and-background = হরফ ও পটভূমি
+colors-use-system =
+    .label = সিস্টেমের রং ব্যবহার করা হবে
+    .accesskey = s
+colors-underline-links =
+    .label = লিঙ্কের তলায় রেখা আঁকা হবে
+    .accesskey = U
 colors-links-header = লিঙ্কের রং
