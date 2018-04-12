@@ -45,8 +45,13 @@ fonts-langgroup-khmer =
     .label = Khmer
 fonts-langgroup-korean =
     .label = Corean
+# Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+fonts-langgroup-latin =
+    .label = Latino (ponente)
 fonts-langgroup-malayalam =
     .label = Malayano
+fonts-langgroup-math =
+    .label = Matematica
 fonts-langgroup-sinhala =
     .label = Sinhala
 fonts-langgroup-tamil =
@@ -59,6 +64,8 @@ fonts-langgroup-tibetan =
     .label = Tibetan
 fonts-langgroup-canadian =
     .label = Scilabaio unio canadeise
+fonts-langgroup-other =
+    .label = Atri scistemi de scritua
 
 ## Default fonts and their sizes
 
@@ -75,3 +82,34 @@ fonts-minsize-none =
 ## of the language.
 
 fonts-languages-fallback-header = Codifica do testo pe contegui vegi
+fonts-languages-fallback-desc = Sta codifica do testo a vegne adeuviâ pe contegnui vegi che no gh'an na pròpria codifica.
+fonts-languages-fallback-name-auto =
+    .label = Predefinia pe-a lengoa corente
+fonts-languages-fallback-name-arabic =
+    .label = Arabo
+fonts-languages-fallback-name-baltic =
+    .label = Baltico
+fonts-languages-fallback-name-ceiso =
+    .label = Ouröpa centra, ISO
+fonts-languages-fallback-name-cewindows =
+    .label = Ouröpa centra, Microsoft
+fonts-languages-fallback-name-simplified =
+    .label = Cineize senplificou
+fonts-languages-fallback-name-traditional =
+    .label = Cineize tradiçionâ
+fonts-languages-fallback-name-cyrillic =
+    .label = Cirilico
+fonts-languages-fallback-name-greek =
+    .label = Grego
+fonts-languages-fallback-name-hebrew =
+    .label = Ebraico
+fonts-languages-fallback-name-japanese =
+    .label = Giaponeize
+fonts-languages-fallback-name-korean =
+    .label = Corean
+fonts-languages-fallback-name-thai =
+    .label = Tailandeize
+fonts-languages-fallback-name-turkish =
+    .label = Turco
+fonts-languages-fallback-name-other =
+    .label = Atro (incl. Ouröpa ponentinn-a)
