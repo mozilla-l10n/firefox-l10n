@@ -1,0 +1,18 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+app-manager-remove =
+    .label = દૂર કરો
+    .accesskey = R
+app-manager-handle-webfeeds = નીચેના કાર્યક્રમો વેબ વળતરો ને સંભાળવા માટે વાપરી શકાશે.
+# Variables:
+#   $type (String) - the URI scheme of the link (e.g. mailto:)
+app-manager-handle-protocol = નીચેના કાર્યક્રમો { $type } કડીઓ ને સંભાળવા માટે વાપરી શકાશે.
+# Variables:
+#   $type (String) - the MIME type (e.g. application/binary)
+app-manager-handle-file = નીચેના કાર્યક્રમો { $type } સમાવિષ્ટ ને સંભાળવા માટે વાપરી શકાશે.
+
+## These strings are followed, on a new line,
+## by the URL or path of the application.
+
