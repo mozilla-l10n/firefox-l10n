@@ -9,8 +9,14 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = แบบอักษรสำหรับ
+    .accesskey = บ
+fonts-langgroup-arabic =
+    .label = อาหรับ
 fonts-langgroup-armenian =
     .label = อาร์เมเนีย
+fonts-langgroup-bengali =
+    .label = เบงกาลี
 fonts-langgroup-simpl-chinese =
     .label = จีนตัวย่อ
 fonts-langgroup-trad-chinese-hk =
@@ -21,6 +27,8 @@ fonts-langgroup-cyrillic =
     .label = ซีริลลิก
 fonts-langgroup-devanagari =
     .label = เทวนาครี
+fonts-langgroup-ethiopic =
+    .label = เอธิโอเปีย
 fonts-langgroup-georgian =
     .label = จอร์เจีย
 fonts-langgroup-el =
@@ -46,6 +54,8 @@ fonts-langgroup-malayalam =
     .label = มะละยาลัม
 fonts-langgroup-math =
     .label = คณิตศาสตร์
+fonts-langgroup-odia =
+    .label = โอเดีย
 fonts-langgroup-sinhala =
     .label = สิงหล
 fonts-langgroup-tamil =
@@ -63,18 +73,43 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = ความกว้างตามสัดส่วน
+    .accesskey = ค
 fonts-default-serif =
     .label = มีเชิง
 fonts-default-sans-serif =
     .label = ไม่มีเชิง
+fonts-proportional-size = ขนาด
+    .accesskey = ข
+fonts-serif = มีเชิง
+    .accesskey = ม
+fonts-sans-serif = ไม่มีเชิง
+    .accesskey = ง
+fonts-monospace = ความกว้างคงที่
+    .accesskey = ว
+fonts-monospace-size = ขนาด
+    .accesskey = น
+fonts-minsize = ขนาดอักษรขั้นต่ำ
+    .accesskey = ด
 fonts-minsize-none =
     .label = ไม่มี
+fonts-allow-own =
+    .label = อนุญาตให้หน้าเลือกใช้แบบอักษรของตัวเอง แทนที่จะเป็นที่คุณเลือกไว้ด้านบน
+    .accesskey = อ
 
 ## Text Encodings
 ##
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-header = รหัสอักขระสำหรับเนื้อหาแบบเก่า
+fonts-languages-fallback-desc = รหัสอักขระนี้ถูกใช้สำหรับเนื้อหาแบบเก่าที่ไม่สามารถประกาศการเข้ารหัสได้
+fonts-languages-fallback-label = รหัสอักขระที่ใช้แสดงแทน
+    .accesskey = ร
+fonts-languages-fallback-name-auto =
+    .label = ค่าเริ่มต้นสำหรับภาษาถิ่นปัจจุบัน
+fonts-languages-fallback-name-arabic =
+    .label = อาหรับ
 fonts-languages-fallback-name-baltic =
     .label = บอลติก
 fonts-languages-fallback-name-ceiso =
@@ -89,6 +124,8 @@ fonts-languages-fallback-name-cyrillic =
     .label = ซีริลลิก
 fonts-languages-fallback-name-greek =
     .label = กรีก
+fonts-languages-fallback-name-hebrew =
+    .label = ฮิบรู
 fonts-languages-fallback-name-japanese =
     .label = ญี่ปุ่น
 fonts-languages-fallback-name-korean =
