@@ -11,6 +11,8 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override = Kejalwachïx ri taq b'onil ya'on rutzijol richin re ruxaq rik'in ri acha'oj ab'anon chik
+    .accesskey = j
 colors-page-override-option-always =
     .label = Jantape'
 colors-page-override-option-auto =
