@@ -5,6 +5,7 @@
 blocklist-window =
     .title = Blok Listeleri
     .style = width: 55em
+blocklist-desc = Kezinti faaliyetiñizni izleybilecek Ağ unsurlarını bloklamaq içün { -brand-short-name }'nıñ angi listeni qullanacağını saylaybilirsiñiz.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
