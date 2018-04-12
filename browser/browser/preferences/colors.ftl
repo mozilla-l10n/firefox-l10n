@@ -15,3 +15,7 @@ colors-text-and-background = Tekst og bakgrunn
 colors-use-system =
     .label = Bruk systemfargar
     .accesskey = s
+colors-underline-links =
+    .label = Understrek lenker
+    .accesskey = U
+colors-links-header = Lenkefargar
