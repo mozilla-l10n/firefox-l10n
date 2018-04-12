@@ -11,6 +11,12 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override-option-always =
+    .label = Atav
+colors-page-override-option-auto =
+    .label = Gant neuzioù a Dargemm Uhel hepken
+colors-page-override-option-never =
+    .label = Morse
 colors-text-and-background = Testenn ha Drekleur
 colors-use-system =
     .label = Arverañ livioù ar reizhiad
