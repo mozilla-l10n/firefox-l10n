@@ -104,6 +104,8 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Գրանշանի կոդավորումը տարբերանշանի բովանդակության համար
 fonts-languages-fallback-desc = Գրանշանի կոդավորումը օգտագործվում է այն տարբերանշանի բովանդակության համար, որը չի կարողանում որոշել իր կոդավորումը:
+fonts-languages-fallback-label = Գրվածքի պահոստային կոդավորում
+    .accesskey = T
 fonts-languages-fallback-name-auto =
     .label = Ծրագրայինը տվյալ լեզվի համար
 fonts-languages-fallback-name-arabic =
