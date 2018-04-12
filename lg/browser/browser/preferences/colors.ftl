@@ -11,6 +11,7 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-text-and-background = Ebigambo n'Obwaliriro
 colors-use-system =
     .label = Kozesa langi za sisitimu
     .accesskey = o
