@@ -31,3 +31,5 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = احفظ التغييرات
     .accesskey = ح
+permissions-searchbox =
+    .placeholder = ابحث عن موقع
