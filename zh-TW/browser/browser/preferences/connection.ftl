@@ -26,3 +26,6 @@ connection-proxy-noproxy-desc = 範例: .mozilla.org, .net.tw, 192.168.1.0/24
 connection-proxy-reload =
     .label = 重新載入
     .accesskey = e
+connection-proxy-socks-remote-dns =
+    .label = 使用 SOCKS v5 時也代理 DNS 查詢
+    .accesskey = d
