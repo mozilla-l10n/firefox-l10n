@@ -11,6 +11,12 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override-option-always =
+    .label = Selalu
+colors-page-override-option-auto =
+    .label = Hanya dengan tema Kontras Tinggi
+colors-page-override-option-never =
+    .label = Jangan
 colors-text-and-background = Teks dan Latar Belakang
 colors-use-system =
     .label = Gunakan warna dari sistem
