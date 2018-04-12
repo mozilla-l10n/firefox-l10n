@@ -11,6 +11,12 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override-option-always =
+    .label = Uvijek
+colors-page-override-option-auto =
+    .label = Samo sa temama visokog kontrasta
+colors-page-override-option-never =
+    .label = Nikad
 colors-text-and-background = Tekst i pozadina
 colors-use-system =
     .label = Koristi sistemske boje
