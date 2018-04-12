@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = यासाठी टंक
+    .accesskey = f
 fonts-langgroup-arabic =
     .label = अरबी
 fonts-langgroup-armenian =
@@ -17,6 +19,10 @@ fonts-langgroup-bengali =
     .label = बंगाली
 fonts-langgroup-simpl-chinese =
     .label = सुलभ चिनी
+fonts-langgroup-trad-chinese-hk =
+    .label = पारंपारिक चिनी (हाँग काँग)
+fonts-langgroup-trad-chinese =
+    .label = पारंपारिक चिनी (तैवान)
 fonts-langgroup-cyrillic =
     .label = सिरीलिक्
 fonts-langgroup-devanagari =
@@ -31,6 +37,8 @@ fonts-langgroup-gujarati =
     .label = गुजराती
 fonts-langgroup-gurmukhi =
     .label = गुरमुखी
+fonts-langgroup-japanese =
+    .label = जॅपनीझ
 fonts-langgroup-hebrew =
     .label = हिब्रू
 fonts-langgroup-kannada =
@@ -65,10 +73,24 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = प्रमाणबध्द
+    .accesskey = p
 fonts-default-serif =
     .label = अलंकृत
 fonts-default-sans-serif =
     .label = निलंकृत
+fonts-proportional-size = आकार
+    .accesskey = z
+fonts-serif = सेरिफ
+    .accesskey = S
+fonts-sans-serif = सँस-सेरिफ
+    .accesskey = n
+fonts-monospace = मोनोस्पेस
+    .accesskey = M
+fonts-monospace-size = आकार
+    .accesskey = e
+fonts-minsize = किमान टंक आकार
+    .accesskey = o
 fonts-minsize-none =
     .label = काहिच नाही
 fonts-allow-own =
@@ -81,6 +103,9 @@ fonts-allow-own =
 ## of the language.
 
 fonts-languages-fallback-header = लेगसि कंटेंटकरिता कॅरेक्टर एंकोडिंग
+fonts-languages-fallback-desc = वारसा मजकूर जे स्वतःचे एन्कोडिंग घोषीत करण्यास अपयशी ठरते त्यासाठी हे मजकूर एन्कोडिंग वापरले जाते.
+fonts-languages-fallback-label = फॉलबॅक मजकूर एन्कोडिंग
+    .accesskey = T
 fonts-languages-fallback-name-auto =
     .label = सध्याच्या लोकेलकरिता पूर्वनिर्धारित
 fonts-languages-fallback-name-arabic =
