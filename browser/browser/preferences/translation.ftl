@@ -1,0 +1,26 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+translation-window =
+    .title = এক্সেপসান-অনুবাদ
+    .style = width: 36em
+translation-close-key =
+    .key = w
+translation-languages-column =
+    .label = ভাষা
+translation-languages-button-remove =
+    .label = ভাষা মুছে ফেলুন
+    .accesskey = R
+translation-languages-button-remove-all =
+    .label = সব ভাষা মুছে ফেলুন
+    .accesskey = ছ
+translation-sites-button-remove =
+    .label = সাইট অপসারণ করুন
+    .accesskey = S
+translation-sites-button-remove-all =
+    .label = সমস্ত সাইটগুলি মুছে ফেলুন
+    .accesskey = ই
+translation-button-close =
+    .label = বন্ধ করুন
+    .accesskey = C
