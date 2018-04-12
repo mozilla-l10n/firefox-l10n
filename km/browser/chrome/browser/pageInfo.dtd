@@ -54,7 +54,7 @@
 <!ENTITY  permUseDefault        "ប្រើ​លំនាំ​ដើម">
 <!ENTITY  permAskAlways         "សួរ​ជានិច្ច">
 <!ENTITY  permAllow             "អនុញ្ញាត">
-<!ENTITY  permAllowSession      "អនុញ្ញាត​សម្រាប់​សម័យ ">
+<!ENTITY  permAllowSession      "អនុញ្ញាត​សម្រាប់​សម័យ">
 <!ENTITY  permBlock             "ទប់ស្កាត់">
 <!ENTITY  permissionsFor        "សិទ្ធិ​សម្រាប់៖">
 <!ENTITY  permPlugins           "ធ្វើឲ្យ​កម្មវិធី​ជំនួយ​សកម្ម">
