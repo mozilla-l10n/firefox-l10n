@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = فانٹ برائے
+    .accesskey = F
 fonts-langgroup-arabic =
     .label = عربی
 fonts-langgroup-armenian =
@@ -71,10 +73,22 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = متناسب
+    .accesskey = P
 fonts-default-serif =
     .label = سیرف
 fonts-default-sans-serif =
     .label = سینس سیرف
+fonts-proportional-size = ماپ
+    .accesskey = س
+fonts-serif = سیرف
+    .accesskey = S
+fonts-sans-serif = سینس-سیرف
+    .accesskey = n
+fonts-monospace-size = ماپ
+    .accesskey = م
+fonts-minsize = کم سے کم فانٹ کا ماپ
+    .accesskey = o
 fonts-minsize-none =
     .label = کوئی نہیں
 fonts-allow-own =
