@@ -5,6 +5,8 @@
 languages-window =
     .title = Γλώσσες
     .style = width: 32em
+languages-close-key =
+    .key = w
 languages-customize-moveup =
     .label = Μετακίνηση πάνω
     .accesskey = π
