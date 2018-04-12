@@ -11,6 +11,8 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override = Trespassar las colors especificadas per la pagina per las causidas dessús
+    .accesskey = O
 colors-page-override-option-always =
     .label = Totjorn
 colors-page-override-option-auto =
