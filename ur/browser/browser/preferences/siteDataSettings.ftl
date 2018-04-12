@@ -5,13 +5,25 @@
 
 ## Settings
 
+site-data-settings-window =
+    .title = کوکیوں اور سائٹ کے کواِئف کو بندرست کریں
+site-data-search-textbox =
+    .placeholder = ویبسائٹ تلاش کریں
+    .accesskey = S
 site-data-column-host =
     .label = سائٹ
+site-data-column-cookies =
+    .label = کوکیاں
 site-data-column-storage =
     .label = ذخیرہ
+site-data-column-last-used =
+    .label = آخری استعمال
 site-data-button-cancel =
     .label = منسوخ کریں
     .accesskey = م
+site-data-button-save =
+    .label = تبدیلیاں محفوظ کریں
+    .accesskey = a
 
 ## Removing
 
