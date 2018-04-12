@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = Տառատեսակներ
+    .accesskey = F
 fonts-langgroup-arabic =
     .label = Արաբերեն
 fonts-langgroup-armenian =
@@ -71,10 +73,24 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Համամասնական
+    .accesskey = P
 fonts-default-serif =
     .label = Հստակ
 fonts-default-sans-serif =
     .label = Գծիկավոր
+fonts-proportional-size = Չափը
+    .accesskey = z
+fonts-serif = Հստակ
+    .accesskey = S
+fonts-sans-serif = Հստակ-գծիկավոր
+    .accesskey = n
+fonts-monospace = Monospace
+    .accesskey = M
+fonts-monospace-size = Չափը
+    .accesskey = ի
+fonts-minsize = Տառատեսակի նվազագույն չափ
+    .accesskey = o
 fonts-minsize-none =
     .label = Չնշված
 fonts-allow-own =
