@@ -7,6 +7,7 @@ languages-window =
     .style = width: 30em
 languages-close-key =
     .key = w
+languages-description = Часам старонкі сеціва даступны на некалькіх мовах. Выберыце мовы для прагляду старонак сеціва, у парадку пераваг
 languages-customize-moveup =
     .label = Рухаць угору
     .accesskey = г
