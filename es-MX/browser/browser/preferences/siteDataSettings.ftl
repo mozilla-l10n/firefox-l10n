@@ -5,6 +5,9 @@
 
 ## Settings
 
+site-data-search-textbox =
+    .placeholder = Buscar sitios
+    .accesskey = S
 site-data-column-host =
     .label = Sitio
 site-data-column-storage =
