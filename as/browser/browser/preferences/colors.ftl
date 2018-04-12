@@ -12,4 +12,7 @@ colors-window =
 colors-close-key =
     .key = w
 colors-text-and-background = আখৰ আৰু পৃষ্ঠভূমি
+colors-use-system =
+    .label = চিস্টেমৰ ৰং ব্যৱহাৰ কৰক
+    .accesskey = s
 colors-links-header = সংযোগৰ ৰং
