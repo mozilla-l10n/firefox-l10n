@@ -49,6 +49,8 @@ fonts-langgroup-sinhala =
     .label = Sinhala
 fonts-langgroup-tamil =
     .label = Tamoul
+fonts-langgroup-thai =
+    .label = Thaï
 fonts-langgroup-canadian =
     .label = Syllabaire canadien unifié
 
