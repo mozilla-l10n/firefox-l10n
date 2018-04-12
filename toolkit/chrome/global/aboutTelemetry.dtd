@@ -6,6 +6,7 @@
 <!ENTITY aboutTelemetry.optionGroupToday "วันนี้">
 <!ENTITY aboutTelemetry.optionGroupYesterday "เมื่อวานนี้">
 <!ENTITY aboutTelemetry.optionGroupOlder "เก่ากว่า">
+<!ENTITY aboutTelemetry.payloadChoiceHeader "ส่วนข้อมูล">
 <!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
 	These strings are displayed when selecting Archived pings, and they’re
 	used to move to the next or previous ping. -->
@@ -21,6 +22,7 @@
 <!ENTITY aboutTelemetry.sessionInfoSection "  ข้อมูลวาระ">
 <!ENTITY aboutTelemetry.histogramsSection "  ฮิสโทแกรม">
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Keyed Histograms">
+<!ENTITY aboutTelemetry.eventsSection "เหตุการณ์">
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  ค่าที่วัดได้อย่างง่าย">
 <!ENTITY aboutTelemetry.telemetryLogSection "รายการบันทึกการวัดและส่งข้อมูลทางไกล">
 <!ENTITY aboutTelemetry.slowSqlSection "คำสั่ง SQL ที่ช้า">
