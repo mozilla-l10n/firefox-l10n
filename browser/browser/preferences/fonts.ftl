@@ -45,6 +45,9 @@ fonts-langgroup-khmer =
     .label = Khmer
 fonts-langgroup-korean =
     .label = Koreai
+# Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+fonts-langgroup-latin =
+    .label = latin
 fonts-langgroup-malayalam =
     .label = Malayalam
 fonts-langgroup-sinhala =
@@ -59,6 +62,8 @@ fonts-langgroup-tibetan =
     .label = Tibeti
 fonts-langgroup-canadian =
     .label = Egységes kanadai szótagírás
+fonts-langgroup-other =
+    .label = Más írásrendszerek
 
 ## Default fonts and their sizes
 
@@ -74,3 +79,35 @@ fonts-minsize-none =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-name-auto =
+    .label = Területi beállítás alapértelmezése
+fonts-languages-fallback-name-arabic =
+    .label = Arab
+fonts-languages-fallback-name-baltic =
+    .label = Balti
+fonts-languages-fallback-name-ceiso =
+    .label = Közép-európai, ISO
+fonts-languages-fallback-name-cewindows =
+    .label = Közép-európai, Microsoft
+fonts-languages-fallback-name-simplified =
+    .label = Egyszerűsített kínai
+fonts-languages-fallback-name-traditional =
+    .label = Hagyományos kínai
+fonts-languages-fallback-name-cyrillic =
+    .label = Cirill
+fonts-languages-fallback-name-greek =
+    .label = Görög
+fonts-languages-fallback-name-hebrew =
+    .label = Héber
+fonts-languages-fallback-name-japanese =
+    .label = Japán
+fonts-languages-fallback-name-korean =
+    .label = Koreai
+fonts-languages-fallback-name-thai =
+    .label = Thai
+fonts-languages-fallback-name-turkish =
+    .label = Török
+fonts-languages-fallback-name-vietnamese =
+    .label = Vietnami
+fonts-languages-fallback-name-other =
+    .label = Egyéb (Nyugat-európai is)
