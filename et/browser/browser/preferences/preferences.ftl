@@ -286,7 +286,6 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Uued aknad ja kaardid
-home-new-windows-tabs-description = Määra, mida kuvatakse, kui avad avalehe, uue akna või uue kaardi
 
 ## Home Section - Home Page Customization
 
