@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = Nodrezhoù evit
+    .accesskey = N
 fonts-langgroup-arabic =
     .label = Arabeg
 fonts-langgroup-armenian =
@@ -71,10 +73,24 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Kenfeuriek
+    .accesskey = K
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Hep Serif
+fonts-proportional-size = Ment
+    .accesskey = M
+fonts-serif = Serif
+    .accesskey = S
+fonts-sans-serif = Hep-serif
+    .accesskey = H
+fonts-monospace = Unegor
+    .accesskey = U
+fonts-monospace-size = Ment
+    .accesskey = e
+fonts-minsize = Ment izek an nodrezh
+    .accesskey = i
 fonts-minsize-none =
     .label = Tra ebet
 fonts-allow-own =
@@ -88,6 +104,8 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Bonegañ an arouezennoù evit an endalc'hadoù diamzeret
 fonts-languages-fallback-desc = Arveret eo bonegañ an arouezennoù-mañ evit an endalc'hadoù diamzeret na zisklerint ket o bonegañ.
+fonts-languages-fallback-label = Bonegañ an destenn dre ziouer
+    .accesskey = B
 fonts-languages-fallback-name-auto =
     .label = Diouer evit ar yezh vremanel
 fonts-languages-fallback-name-arabic =
