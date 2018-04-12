@@ -86,6 +86,8 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-header = Harfu hawyan gundekuna žeena se
+fonts-languages-fallback-desc = Harfu hawyanoo woo ga tee gundekuna žeena se kaŋ mongo ka nda hawaroo har.
 fonts-languages-fallback-name-auto =
     .label = Tilasu sohõ nungu se
 fonts-languages-fallback-name-arabic =
