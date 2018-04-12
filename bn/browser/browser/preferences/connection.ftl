@@ -13,6 +13,7 @@ connection-close-key =
     .key = w
 connection-disable-extension =
     .label = এক্সটেনশনটি নিষ্ক্রিয় করুন
+connection-proxy-configure = ইন্টারনেটের প্রক্সি অ্যাক্সেস কনফিগার করুন
 connection-proxy-option-no =
     .label = কোন প্রক্সি নয়
     .accesskey = y
