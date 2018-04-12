@@ -11,6 +11,8 @@ connection-window =
         }
 connection-close-key =
     .key = w
+connection-disable-extension =
+    .label = ಎಕ್ಸ್‌ಟೆನ್ಶನ್ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸು
 connection-proxy-option-no =
     .label = ಯಾವುದೆ ಪ್ರಾಕ್ಸಿ ಇಲ್ಲ
     .accesskey = y
