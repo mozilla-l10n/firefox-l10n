@@ -19,4 +19,5 @@ app-manager-handle-file = { $type } ファイルを取り扱うアプリケー�
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.
 
+app-manager-web-app-info = このウェブアプリケーションの URL:
 app-manager-local-app-info = このアプリケーションの場所:
