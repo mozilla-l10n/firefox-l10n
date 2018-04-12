@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = നുള്ള ഫോണ്ടുകൾ
+    .accesskey = F
 fonts-langgroup-arabic =
     .label = അറബിക്‌{ " " }
 fonts-langgroup-armenian =
@@ -52,6 +54,8 @@ fonts-langgroup-malayalam =
     .label = മലയാളം{ " " }
 fonts-langgroup-math =
     .label = ഗണിതം
+fonts-langgroup-odia =
+    .label = ഒഡിയ
 fonts-langgroup-sinhala =
     .label = സിന്‍ഹാലാ
 fonts-langgroup-tamil =
@@ -69,12 +73,29 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = ആനുപാതികം
+    .accesskey = P
 fonts-default-serif =
     .label = സെറിഫ്
 fonts-default-sans-serif =
     .label = സാന്‍സ് സെറിഫ്
+fonts-proportional-size = വലുപ്പം
+    .accesskey = z
+fonts-serif = സെരിഫ്
+    .accesskey = S
+fonts-sans-serif = സാന്‍സ്-സെരിഫ്
+    .accesskey = n
+fonts-monospace = മോണോസ്പേസ്
+    .accesskey = M
+fonts-monospace-size = വലുപ്പം
+    .accesskey = e
+fonts-minsize = ഏറ്റവും കുറഞ്ഞ ഫോണ്ട് വലുപ്പം
+    .accesskey = o
 fonts-minsize-none =
     .label = ഒന്നുമില്ല
+fonts-allow-own =
+    .label = നിങ്ങളുടെ തിരഞ്ഞെടുക്കലിനു പകരം, സ്വന്തം ഫോണ്ടുകൾ തിരഞ്ഞെടുക്കാൻ പേജുകളെ അനുവദിക്കുക
+    .accesskey = A
 
 ## Text Encodings
 ##
@@ -83,6 +104,8 @@ fonts-minsize-none =
 
 fonts-languages-fallback-header = പരമ്പരാഗത ഉള്ളടക്കത്തിനുള്ള ടെക്സ്റ്റ്‌ എന്‍കോഡിങ്
 fonts-languages-fallback-desc = എൻകോഡിങ് രേഖപ്പെടുത്തിയിട്ടില്ലാത്ത പഴയ ഉള്ളടക്കങ്ങൾക്ക് ഈ എൻകോഡിങ് ഉപയോഗിക്കുന്നു.
+fonts-languages-fallback-label = ഫോൾബാക്ക് ടെക്സ്റ്റ് എൻകോഡിംഗ്
+    .accesskey = T
 fonts-languages-fallback-name-auto =
     .label = നിലവിലുള്ള ലോക്കേലിനു് സ്വതവേയുള്ളതു്
 fonts-languages-fallback-name-arabic =
