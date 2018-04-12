@@ -4,7 +4,13 @@
 
 connection-close-key =
     .key = w
+connection-proxy-option-no =
+    .label = प्रॉक्सी नाही
+    .accesskey = y
 connection-proxy-socks5 =
     .label = सॉक्स(SOCKS) v5
     .accesskey = v
 connection-proxy-noproxy-desc = उदाहरणार्थ: .mozilla.org, .net.nz, 192.168.1.0/24
+connection-proxy-reload =
+    .label = पुन्हा लोड करा
+    .accesskey = e
