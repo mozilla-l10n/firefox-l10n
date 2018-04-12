@@ -15,3 +15,6 @@ permissions-allow =
     .accesskey = ш
 permissions-status =
     .label = Төлөв байдал
+permissions-button-cancel =
+    .label = Цуцал
+    .accesskey = Ц
