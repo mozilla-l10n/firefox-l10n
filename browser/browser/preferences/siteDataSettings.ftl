@@ -5,6 +5,8 @@
 
 ## Settings
 
+site-data-settings-window =
+    .title = Керувати куками й даними сайту
 site-data-search-textbox =
     .placeholder = Пошук веб-сайтів
     .accesskey = П
