@@ -19,5 +19,5 @@ app-manager-handle-file = { $type }आशयहाताळपाक मुख�
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.
 
-app-manager-web-app-info = हो वेब अऩुप्रयोग हांगा होस्टेड आसा:{ " " }
+app-manager-web-app-info = हो वेब अऩुप्रयोग हांगा होस्टेड आसा:
 app-manager-local-app-info = चेर हो अनुप्रयोग आसा:

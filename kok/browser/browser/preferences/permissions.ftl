@@ -5,7 +5,7 @@
 permissions-close-key =
     .key = w
 permissions-block =
-    .label = { " " }आडोवपी
+    .label = आडोवपी
     .accesskey = B
 permissions-session =
     .label = सत्राखातिर परवानगी दियात
