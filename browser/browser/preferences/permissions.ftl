@@ -15,3 +15,6 @@ permissions-allow =
     .accesskey = D
 permissions-status =
     .label = Boemo
+permissions-button-cancel =
+    .label = Khansela
+    .accesskey = K
