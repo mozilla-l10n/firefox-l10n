@@ -26,3 +26,7 @@ connection-proxy-noproxy-desc = Ezenpio: mozilla.org, .net.nz, 192.168.1.0/24
 connection-proxy-reload =
     .label = Recarega
     .accesskey = e
+connection-proxy-autologin =
+    .label = No domandâ l’aotenticaçion se a paròlla segreta a l'é sarvâ
+    .accesskey = c
+    .tooltip = Sta òpçion a permette de aotenticase diretamente con in proxy se ti gh'æ de credensiali sarvæ. A domanda ti a vediæ in caxo de'erô.
