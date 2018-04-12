@@ -11,5 +11,5 @@ blocklist-button-cancel =
     .label = रद्द करू
     .accesskey = र
 blocklist-button-ok =
-    .label = परिवर्तन सहेजू{ " " }
+    .label = परिवर्तन सहेजू
     .accesskey = प
