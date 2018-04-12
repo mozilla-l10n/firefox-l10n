@@ -55,14 +55,24 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Tỷ lệ
+    .accesskey = P
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
 fonts-proportional-size = Kích thước
     .accesskey = z
+fonts-serif = Serif
+    .accesskey = S
+fonts-sans-serif = Sans-serif
+    .accesskey = n
+fonts-monospace = Monospace
+    .accesskey = M
 fonts-monospace-size = Kích thước
     .accesskey = h
+fonts-minsize = Cỡ phông tối thiểu
+    .accesskey = o
 fonts-minsize-none =
     .label = Không
 fonts-allow-own =
@@ -76,6 +86,8 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Mã hóa văn bản cho nội dung cũ
 fonts-languages-fallback-desc = Mã hóa văn bản này được dùng cho nội dung cũ mà thất bại trong việc khai báo mã hóa của nó.
+fonts-languages-fallback-label = Mã hóa văn bản dự phòng
+    .accesskey = T
 fonts-languages-fallback-name-auto =
     .label = Mặc định cho bản địa hiện tại
 fonts-languages-fallback-name-simplified =
