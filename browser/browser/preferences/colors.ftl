@@ -11,6 +11,8 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override = Overstyr fargane spesifiserte av nettsida med mine val ovanfor
+    .accesskey = O
 colors-page-override-option-always =
     .label = Alltid
 colors-page-override-option-auto =
