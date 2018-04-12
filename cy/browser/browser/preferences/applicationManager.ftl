@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+app-manager-window =
+    .title = Manylion y rhaglen
+    .style = width: 30em; min-height: 20em;
+app-manager-remove =
+    .label = Tynnu
+    .accesskey = T
 app-manager-handle-webfeeds = Mae modd defnyddio'r rhaglenni canlynol i drin Llif Gwe.
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
