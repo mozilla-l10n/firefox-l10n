@@ -11,6 +11,8 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override = Sobreescribir los colores especificados por la página con las opciones que están debajo
+    .accesskey = O
 colors-page-override-option-always =
     .label = Siempre
 colors-page-override-option-auto =
