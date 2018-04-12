@@ -18,3 +18,6 @@ permissions-allow =
     .accesskey = T
 permissions-status =
     .label = Status
+permissions-button-cancel =
+    .label = Fortryd
+    .accesskey = o
