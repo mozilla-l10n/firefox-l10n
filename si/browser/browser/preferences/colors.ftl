@@ -15,4 +15,7 @@ colors-text-and-background = පෙළ සහ පසුබිම
 colors-use-system =
     .label = පද්ධති වර්‍ණ භාවිතා කරන්න
     .accesskey = s
+colors-underline-links =
+    .label = පුරුක් යටීර
+    .accesskey = U
 colors-links-header = පුරුක් වර්‍ණ
