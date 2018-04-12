@@ -45,6 +45,9 @@ fonts-langgroup-khmer =
     .label = חמר
 fonts-langgroup-korean =
     .label = קוריאנית
+# Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+fonts-langgroup-latin =
+    .label = לטינית
 fonts-langgroup-malayalam =
     .label = מליאלאם
 fonts-langgroup-sinhala =
