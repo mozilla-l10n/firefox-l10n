@@ -35,6 +35,9 @@ fonts-default-sans-serif =
     .label = 无衬线字体
 fonts-minsize-none =
     .label = 无
+fonts-allow-own =
+    .label = 允许页面选择自己的字体代替您的上述选择
+    .accesskey = A
 
 ## Text Encodings
 ##
