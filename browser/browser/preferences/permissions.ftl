@@ -4,5 +4,14 @@
 
 permissions-close-key =
     .key = w
+permissions-block =
+    .label = अडवा
+    .accesskey = B
+permissions-session =
+    .label = सत्रकरिता सहमती द्या
+    .accesskey = S
+permissions-allow =
+    .label = परवानगी द्या
+    .accesskey = A
 permissions-status =
     .label = परीस्थिती
