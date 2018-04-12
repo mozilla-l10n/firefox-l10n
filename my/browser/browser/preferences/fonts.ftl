@@ -4,6 +4,8 @@
 
 fonts-window =
     .title = ဖောင့်များ
+fonts-window-close =
+    .key = w
 
 ## Font groups by language
 
