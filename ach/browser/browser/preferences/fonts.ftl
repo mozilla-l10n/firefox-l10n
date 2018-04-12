@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = Dit coc pi
+    .accesskey = D
 fonts-langgroup-arabic =
     .label = Arabic
 fonts-langgroup-armenian =
@@ -71,10 +73,22 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Pore
+    .accesskey = P
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+fonts-proportional-size = Dit
+    .accesskey = z
+fonts-serif = Serif
+    .accesskey = S
+fonts-sans-serif = Sans-serif
+    .accesskey = n
+fonts-monospace = Monospace
+    .accesskey = M
+fonts-monospace-size = Dit
+    .accesskey = e
 fonts-minsize-none =
     .label = Pe tye
 fonts-allow-own =
