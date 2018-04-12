@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = Skrifttyper for
+    .accesskey = f
 fonts-langgroup-arabic =
     .label = Arabisk
 fonts-langgroup-armenian =
@@ -39,6 +41,10 @@ fonts-langgroup-korean =
     .label = Koreansk
 fonts-langgroup-malayalam =
     .label = Malayalam
+fonts-langgroup-math =
+    .label = Matematik
+fonts-langgroup-odia =
+    .label = Odia
 fonts-langgroup-sinhala =
     .label = Sinhala
 fonts-langgroup-tamil =
@@ -47,20 +53,71 @@ fonts-langgroup-telugu =
     .label = Telugu
 fonts-langgroup-thai =
     .label = Thai
+fonts-langgroup-tibetan =
+    .label = Tibetansk
 fonts-langgroup-canadian =
     .label = Forenet canadisk
+fonts-langgroup-other =
+    .label = Andre skriftsystemer
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Proportional
+    .accesskey = P
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+fonts-proportional-size = Størrelse
+    .accesskey = ø
+fonts-serif = Serif
+    .accesskey = S
+fonts-sans-serif = Sans-serif
+    .accesskey = n
+fonts-monospace = Monospatieret
+    .accesskey = M
+fonts-monospace-size = Størrelse
+    .accesskey = r
+fonts-minsize = Minimum skriftstørrelse
+    .accesskey = i
 fonts-minsize-none =
     .label = Ingen
+fonts-allow-own =
+    .label = Tillad sider at vælge deres egne skrifttyper i stedet for mine valg
+    .accesskey = T
 
 ## Text Encodings
 ##
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-label = Standardtegnkodning
+    .accesskey = e
+fonts-languages-fallback-name-auto =
+    .label = Standard for aktuelt sprog
+fonts-languages-fallback-name-arabic =
+    .label = Arabisk
+fonts-languages-fallback-name-baltic =
+    .label = Baltisk
+fonts-languages-fallback-name-ceiso =
+    .label = Central-europæisk, ISO
+fonts-languages-fallback-name-cewindows =
+    .label = Central-europæisk, Microsoft
+fonts-languages-fallback-name-cyrillic =
+    .label = Kyrillisk
+fonts-languages-fallback-name-greek =
+    .label = Græsk
+fonts-languages-fallback-name-hebrew =
+    .label = Hebræisk
+fonts-languages-fallback-name-japanese =
+    .label = Japansk
+fonts-languages-fallback-name-korean =
+    .label = Koreansk
+fonts-languages-fallback-name-thai =
+    .label = Thai
+fonts-languages-fallback-name-turkish =
+    .label = Tyrkisk
+fonts-languages-fallback-name-vietnamese =
+    .label = Vietnamesisk
+fonts-languages-fallback-name-other =
+    .label = Andre (incl. vest-europæisk)
