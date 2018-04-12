@@ -45,6 +45,9 @@ fonts-langgroup-khmer =
     .label = খ্‌মেৰ
 fonts-langgroup-korean =
     .label = কোৰিয়ান
+# Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+fonts-langgroup-latin =
+    .label = লেটিন
 fonts-langgroup-malayalam =
     .label = মলয়ালম
 fonts-langgroup-sinhala =
@@ -59,6 +62,8 @@ fonts-langgroup-tibetan =
     .label = তিব্বতীয়
 fonts-langgroup-canadian =
     .label = ইউনিফাইড কেনেডীয় ছিলাবাৰী
+fonts-langgroup-other =
+    .label = অন্য লিখাৰ চিস্টেমসমূহ
 
 ## Default fonts and their sizes
 
@@ -78,6 +83,8 @@ fonts-languages-fallback-name-auto =
     .label = বৰ্তমান স্থানীয়ৰ বাবে অবিকল্পিত
 fonts-languages-fallback-name-arabic =
     .label = আৰবী
+fonts-languages-fallback-name-baltic =
+    .label = বল্টিক
 fonts-languages-fallback-name-ceiso =
     .label = মধ্য ইউৰোপীয়, ISO
 fonts-languages-fallback-name-cewindows =
@@ -98,6 +105,8 @@ fonts-languages-fallback-name-korean =
     .label = কোৰিয়ান
 fonts-languages-fallback-name-thai =
     .label = থাই
+fonts-languages-fallback-name-turkish =
+    .label = তুৰ্কী
 fonts-languages-fallback-name-vietnamese =
     .label = ভিয়েতনামি
 fonts-languages-fallback-name-other =
