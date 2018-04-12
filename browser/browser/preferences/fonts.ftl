@@ -9,10 +9,14 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = Znaková sada
+    .accesskey = Z
 fonts-langgroup-arabic =
     .label = Arabština
 fonts-langgroup-armenian =
     .label = Arménština
+fonts-langgroup-bengali =
+    .label = Bengálština
 fonts-langgroup-simpl-chinese =
     .label = Zjednodušená čínština
 fonts-langgroup-trad-chinese-hk =
@@ -21,6 +25,8 @@ fonts-langgroup-trad-chinese =
     .label = Tradiční čínština (Taiwan)
 fonts-langgroup-cyrillic =
     .label = Azbuka
+fonts-langgroup-devanagari =
+    .label = Dévanágarí
 fonts-langgroup-ethiopic =
     .label = Etiopština
 fonts-langgroup-georgian =
@@ -29,6 +35,8 @@ fonts-langgroup-el =
     .label = Řečtina
 fonts-langgroup-gujarati =
     .label = Gujarati
+fonts-langgroup-gurmukhi =
+    .label = Gurmukhí
 fonts-langgroup-japanese =
     .label = Japonština
 fonts-langgroup-hebrew =
@@ -46,6 +54,8 @@ fonts-langgroup-malayalam =
     .label = Malajálamština
 fonts-langgroup-math =
     .label = Matematika
+fonts-langgroup-odia =
+    .label = Udijština
 fonts-langgroup-sinhala =
     .label = Sinhalština
 fonts-langgroup-tamil =
@@ -63,12 +73,29 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Proporcionální
+    .accesskey = P
 fonts-default-serif =
     .label = Patkové
 fonts-default-sans-serif =
     .label = Bezpatkové
+fonts-proportional-size = Velikost
+    .accesskey = l
+fonts-serif = Patkové
+    .accesskey = t
+fonts-sans-serif = Bezpatkové
+    .accesskey = B
+fonts-monospace = Neproporcionální
+    .accesskey = N
+fonts-monospace-size = Velikost
+    .accesskey = e
+fonts-minsize = Minimální velikost písma
+    .accesskey = o
 fonts-minsize-none =
     .label = Žádná
+fonts-allow-own =
+    .label = Povolit stránkám používat vlastní písma namísto výše zvolených
+    .accesskey = a
 
 ## Text Encodings
 ##
@@ -77,6 +104,10 @@ fonts-minsize-none =
 
 fonts-languages-fallback-header = Znaková sada textu pro původní obsah
 fonts-languages-fallback-desc = Tato znaková sada textu se používá pro původní obsah, který neobsahuje definici o své znakové sadě.
+fonts-languages-fallback-label = Výchozí znaková sada
+    .accesskey = z
+fonts-languages-fallback-name-auto =
+    .label = Výchozí pro aktuální lokalizaci
 fonts-languages-fallback-name-arabic =
     .label = Arabská
 fonts-languages-fallback-name-baltic =
@@ -105,3 +136,5 @@ fonts-languages-fallback-name-turkish =
     .label = Turecká
 fonts-languages-fallback-name-vietnamese =
     .label = Vietnamská
+fonts-languages-fallback-name-other =
+    .label = Jiná (zahrnuje západoevropské)
