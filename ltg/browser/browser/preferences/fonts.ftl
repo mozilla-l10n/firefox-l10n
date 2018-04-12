@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = Fonti raksteibai
+    .accesskey = F
 fonts-langgroup-arabic =
     .label = Arabu
 fonts-langgroup-armenian =
@@ -48,6 +50,8 @@ fonts-langgroup-korean =
 # Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
 fonts-langgroup-latin =
     .label = Latiņu
+fonts-langgroup-malayalam =
+    .label = Malayalamu
 fonts-langgroup-math =
     .label = Mathematics
 fonts-langgroup-odia =
@@ -69,12 +73,29 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Proporcionals
+    .accesskey = P
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+fonts-proportional-size = Izmārs
+    .accesskey = z
+fonts-serif = Serif
+    .accesskey = S
+fonts-sans-serif = Sans-serif
+    .accesskey = n
+fonts-monospace = Monospace
+    .accesskey = M
+fonts-monospace-size = Izmārs
+    .accesskey = r
+fonts-minsize = Minimalais fonta izmārs
+    .accesskey = o
 fonts-minsize-none =
     .label = Nikaids
+fonts-allow-own =
+    .label = Ļaut lopom izavieleit pošom sovus fontus manis izavalātū fontu vītā
+    .accesskey = a
 
 ## Text Encodings
 ##
@@ -83,6 +104,8 @@ fonts-minsize-none =
 
 fonts-languages-fallback-header = Simbolu kodiejums nazynuomam saturam
 fonts-languages-fallback-desc = Itys simbolu kodiejums tiks izmontuots saturam, kurs nazyņuos par sovu simbolu kodiejumu.
+fonts-languages-fallback-label = Fallback Text Encoding
+    .accesskey = T
 fonts-languages-fallback-name-auto =
     .label = Nūkluseitī izavālātajai volūdai
 fonts-languages-fallback-name-arabic =
