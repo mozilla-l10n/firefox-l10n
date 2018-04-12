@@ -11,6 +11,12 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override-option-always =
+    .label = Увек
+colors-page-override-option-auto =
+    .label = Само са темама високог контраста
+colors-page-override-option-never =
+    .label = Никад
 colors-text-and-background = Текст и позадина
 colors-use-system =
     .label = Користи системске боје
