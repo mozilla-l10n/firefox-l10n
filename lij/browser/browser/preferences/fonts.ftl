@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = Caratere pe
+    .accesskey = C
 fonts-langgroup-arabic =
     .label = Arabo
 fonts-langgroup-armenian =
@@ -71,10 +73,24 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Proporçionâ
+    .accesskey = P
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+fonts-proportional-size = Dimenscion
+    .accesskey = z
+fonts-serif = Serif
+    .accesskey = S
+fonts-sans-serif = Sans-serif
+    .accesskey = n
+fonts-monospace = Spaçio sencio
+    .accesskey = S
+fonts-monospace-size = Dimenscion
+    .accesskey = i
+fonts-minsize = Dimenscion minima do testo
+    .accesskey = o
 fonts-minsize-none =
     .label = Ninte
 fonts-allow-own =
@@ -88,6 +104,8 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Codifica do testo pe contegui vegi
 fonts-languages-fallback-desc = Sta codifica do testo a vegne adeuviâ pe contegnui vegi che no gh'an na pròpria codifica.
+fonts-languages-fallback-label = Codifica do testo da deuviâ
+    .accesskey = t
 fonts-languages-fallback-name-auto =
     .label = Predefinia pe-a lengoa corente
 fonts-languages-fallback-name-arabic =
