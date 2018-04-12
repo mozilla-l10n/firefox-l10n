@@ -2,11 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+fonts-window =
+    .title = எழுத்துருக்கள்
 fonts-window-close =
     .key = w
 
 ## Font groups by language
 
+fonts-langgroup-arabic =
+    .label = அரபு
 fonts-langgroup-armenian =
     .label = அர்மேனியன்
 fonts-langgroup-bengali =
@@ -17,20 +21,30 @@ fonts-langgroup-trad-chinese-hk =
     .label = மரபார்ந்த சீனா (ஹாங்காங்)
 fonts-langgroup-trad-chinese =
     .label = மரபார்ந்த சீனம் (தைவான்)
+fonts-langgroup-cyrillic =
+    .label = சிரில்லிக்
 fonts-langgroup-devanagari =
     .label = தேவநாகரி
 fonts-langgroup-ethiopic =
     .label = எத்தியோபிக்
 fonts-langgroup-georgian =
     .label = ஜார்ஜியன்
+fonts-langgroup-el =
+    .label = கிரேக்கம்
 fonts-langgroup-gujarati =
     .label = குஜராத்தி
 fonts-langgroup-gurmukhi =
     .label = குர்முஹி
+fonts-langgroup-japanese =
+    .label = ஜப்பானிய
+fonts-langgroup-hebrew =
+    .label = ஹீப்ரு
 fonts-langgroup-kannada =
     .label = கன்னடம்
 fonts-langgroup-khmer =
     .label = கெமெர்
+fonts-langgroup-korean =
+    .label = கொரியன்
 fonts-langgroup-malayalam =
     .label = மலையாளம்
 fonts-langgroup-sinhala =
@@ -39,6 +53,8 @@ fonts-langgroup-tamil =
     .label = தமிழ்
 fonts-langgroup-telugu =
     .label = தெலுங்கு
+fonts-langgroup-thai =
+    .label = தாய்
 fonts-langgroup-tibetan =
     .label = திபேத்தியன்
 fonts-langgroup-canadian =
@@ -58,3 +74,31 @@ fonts-minsize-none =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-name-auto =
+    .label = தற்பொதைய மொழிக்கு முன்னிருப்பு
+fonts-languages-fallback-name-arabic =
+    .label = அராபிக்
+fonts-languages-fallback-name-ceiso =
+    .label = மத்திய ஐரோப்பா, ISO
+fonts-languages-fallback-name-cewindows =
+    .label = மத்திய ஐரோப்பா, மைக்ரோசாப்ட்
+fonts-languages-fallback-name-simplified =
+    .label = எளிய சீனம்
+fonts-languages-fallback-name-traditional =
+    .label = பாரம்பரிய சீனம்
+fonts-languages-fallback-name-cyrillic =
+    .label = சைரிலிக்
+fonts-languages-fallback-name-greek =
+    .label = கிரேக்கம்
+fonts-languages-fallback-name-hebrew =
+    .label = எபிரேயம்
+fonts-languages-fallback-name-japanese =
+    .label = ஜப்பானிஸ்
+fonts-languages-fallback-name-korean =
+    .label = கொரியன்
+fonts-languages-fallback-name-thai =
+    .label = தாய்
+fonts-languages-fallback-name-vietnamese =
+    .label = வியட்னாமிய
+fonts-languages-fallback-name-other =
+    .label = மற்றவை(மேற்கத்திய ஐரோப்பவையும் உள்ளடக்கியவை)
