@@ -5,6 +5,8 @@
 
 ## Settings
 
+site-data-settings-window =
+    .title = কুকি এবং সাইট ডাটা ব্যবস্থাপনা
 site-data-search-textbox =
     .placeholder = ওয়েবসাইট অনুসন্ধান
     .accesskey = S
@@ -14,6 +16,8 @@ site-data-column-cookies =
     .label = কুকি
 site-data-column-storage =
     .label = স্টোরেজ
+site-data-column-last-used =
+    .label = সর্বশেষ ব্যবহৃত
 site-data-remove-selected =
     .label = নির্বাচিতদের অপসারণ
     .accesskey = R
@@ -28,4 +32,5 @@ site-data-button-save =
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-header = কুকিজ এবং সাইট ডাটা মুছা হচ্ছে
 site-data-removing-table = এই সাইটগুলোর জন্য কুকি এবং সাইট ডাটা মুছে দেওয়া হবে
