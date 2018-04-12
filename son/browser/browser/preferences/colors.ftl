@@ -11,6 +11,12 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override-option-always =
+    .label = Waati kul
+colors-page-override-option-auto =
+    .label = Nda furarey kaŋ ga fatta ka boori hinne
+colors-page-override-option-never =
+    .label = Abada
 colors-text-and-background = Kalimaɲaa kuru nda bandafaari
 colors-use-system =
     .label = Dabariɲaa noonawey goyandi
