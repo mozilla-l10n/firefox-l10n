@@ -21,6 +21,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "รุ่น">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.securitySoftwareTitle "ซอฟต์แวร์ความปลอดภัย">
 <!ENTITY aboutSupport.securitySoftwareType "ชนิด">
 <!ENTITY aboutSupport.securitySoftwareName "ชื่อ">
 <!ENTITY aboutSupport.securitySoftwareFirewall "ไฟร์วอลล์">

@@ -300,6 +300,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "ตรวจสอบองค์ประกอบ">
 <!ENTITY inspectContextMenu.accesskey "อ">
 
+<!ENTITY inspectA11YContextMenu.label     "ตรวจสอบคุณสมบัติการช่วยการเข้าถึง">
+
 <!ENTITY fileMenu.label         "ไฟล์">
 <!ENTITY fileMenu.accesskey       "ฟ">
 <!ENTITY newUserContext.label             "แท็บแยกข้อมูลใหม่">
