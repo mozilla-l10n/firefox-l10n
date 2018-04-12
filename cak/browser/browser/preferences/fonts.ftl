@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = Ruwäch tz'ib' richin:
+    .accesskey = R
 fonts-langgroup-arabic =
     .label = aj Arabia
 fonts-langgroup-armenian =
@@ -71,14 +73,24 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Junamil
+    .accesskey = J
 fonts-default-serif =
     .label = Seriw
 fonts-default-sans-serif =
     .label = Sans-serif
 fonts-proportional-size = Nimilem
     .accesskey = T
+fonts-serif = Seriw
+    .accesskey = S
+fonts-sans-serif = Majun-seriw
+    .accesskey = n
+fonts-monospace = Rujukojol cholaj
+    .accesskey = R
 fonts-monospace-size = Nimilem
     .accesskey = a
+fonts-minsize = Ko'öl runimilem tz'ib'
+    .accesskey = o
 fonts-minsize-none =
     .label = Majun
 fonts-allow-own =
@@ -92,6 +104,8 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Rucholajil ruwäch tzij richin rupam sipan kan
 fonts-languages-fallback-desc = Re rucholajil rucholajem tz'ib' nokisäx richin ojer rupam, ri man nuya' ta rutzijol ri rucholajil.
+fonts-languages-fallback-label = Rucholajil rucholajem tzij, ri kan k'o wi
+    .accesskey = R
 fonts-languages-fallback-name-auto =
     .label = Ri jikib'an kan richin ri ch'ab'äl re re'
 fonts-languages-fallback-name-arabic =
