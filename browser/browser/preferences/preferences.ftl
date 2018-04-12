@@ -346,7 +346,7 @@ search-keyword-warning-bookmark = شما کلیدواژه‌ای انتخاب ن
 
 ## Containers Section
 
-containers-back-link = « برگشت به عقب{ " " }
+containers-back-link = « برگشت به عقب
 containers-header = زبانه‌های حامل
 containers-add-button =
     .label = افزودن حامل جدید
@@ -568,7 +568,7 @@ permissions-block-popups-exceptions =
     .label = استثناها…
     .accesskey = ا
 permissions-addon-install-warning =
-    .label = درهنگام تلاش پایگاه اینترنتی برای نصب افزودنی، به من هشدار داده شود{ " " }
+    .label = درهنگام تلاش پایگاه اینترنتی برای نصب افزودنی، به من هشدار داده شود
     .accesskey = د
 permissions-addon-exceptions =
     .label = استثناها…
