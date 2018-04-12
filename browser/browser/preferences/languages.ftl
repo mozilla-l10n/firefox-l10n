@@ -4,6 +4,7 @@
 
 languages-close-key =
     .key = w
+languages-description = Деякі веб-сторінки можуть бути доступними більш ніж однією мовою. Оберіть мови, якими показувати такі сторінки, в порядку зручності
 languages-customize-moveup =
     .label = Вгору
     .accesskey = г
