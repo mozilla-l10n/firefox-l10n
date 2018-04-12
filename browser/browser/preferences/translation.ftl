@@ -5,6 +5,8 @@
 translation-window =
     .title = Выключэнні - Пераклад
     .style = width: 36em
+translation-close-key =
+    .key = w
 translation-languages-disabled-desc = Пераклад не будзе прапанаваны для наступных моў
 translation-languages-column =
     .label = Мовы
