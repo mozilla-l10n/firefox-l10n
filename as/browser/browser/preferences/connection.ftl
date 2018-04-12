@@ -23,3 +23,7 @@ connection-proxy-noproxy-desc = যেনে: .mozilla.org, .net.nz, 192.168.1.0
 connection-proxy-reload =
     .label = পুনঃ ল'ড কৰক
     .accesskey = e
+connection-proxy-autologin =
+    .label = পাছৱৰ্ড সংৰক্ষিত থাকিলে প্ৰমাণীকৰণ নিবিচাৰিব
+    .accesskey = i
+    .tooltip = এই বিকল্পয় আপোনাক প্ৰক্সিসমূহৰ বাবে প্ৰমাণীত কৰে যদি আপোনাৰ সিহতৰ বাবে তথ্য সংৰক্ষিত আছে। আপোনাক কোৱা হব যদি প্ৰমাণীকৰণ ব্যৰ্থ হয়।
