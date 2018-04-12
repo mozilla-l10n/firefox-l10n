@@ -7,6 +7,7 @@ translation-window =
     .style = width: 36em
 translation-close-key =
     .key = w
+translation-languages-disabled-desc = নিম্নবর্ণিত ভাষায় অনুবাদ প্রস্তাব করা হবেনা
 translation-languages-column =
     .label = ভাষা
 translation-languages-button-remove =
