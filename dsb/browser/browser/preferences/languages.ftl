@@ -7,6 +7,7 @@ languages-window =
     .style = width: 30em
 languages-close-key =
     .key = w
+languages-description = Webboki stoje wótergi we wěcej nježli jadnej rěcy k dispoziciji. Wubjeŕśo rěcy za pśedstajanje webbokow w swójom preferěrowanem pórěźe
 languages-customize-moveup =
     .label = Górjej
     .accesskey = G
