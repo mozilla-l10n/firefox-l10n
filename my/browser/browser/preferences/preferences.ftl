@@ -282,7 +282,6 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = ဝင်းဒိုးအသစ်နှင့် တပ်ဗ်အသစ်များ
-home-new-windows-tabs-description = အဖွင့်စာမျက်နှာ၊ ဝင်းဒိုးအသစ်များနှင့် တပ်ဗ်အသစ်များကို ဖွင့်သည့်အခါ ကြည့်ရှုလိုသည်များကို ရွေးချယ်ပါ။
 
 ## Home Section - Home Page Customization
 
