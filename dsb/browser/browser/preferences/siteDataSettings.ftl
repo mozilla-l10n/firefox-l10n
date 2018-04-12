@@ -5,13 +5,19 @@
 
 ## Settings
 
+site-data-settings-window =
+    .title = Cookieje a sedłowe daty zastojaś
 site-data-search-textbox =
     .placeholder = Websedła pytaś
     .accesskey = s
 site-data-column-host =
     .label = Sedło
+site-data-column-cookies =
+    .label = Cookieje
 site-data-column-storage =
     .label = Składowak
+site-data-column-last-used =
+    .label = Slědny raz wužyty
 site-data-remove-selected =
     .label = Wubrane wótwónoźeś
     .accesskey = u
@@ -26,3 +32,6 @@ site-data-button-save =
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-header = Cookieje a sedłowe daty wótwónoźeś
+site-data-removing-desc = Jo móžno, až se was wótzjawjaju, gaž cookieje a sedłowe daty wótwónoźujośo. Cośo změny napšawdu pśewjasć?
+site-data-removing-table = Cookieje a sedłowe daty se za slědujuce websedła wótwónoźiju
