@@ -45,8 +45,13 @@ fonts-langgroup-khmer =
     .label = Khmer
 fonts-langgroup-korean =
     .label = Koreansk
+# Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+fonts-langgroup-latin =
+    .label = Vestleg
 fonts-langgroup-malayalam =
     .label = Malayalam
+fonts-langgroup-math =
+    .label = Matematikk
 fonts-langgroup-sinhala =
     .label = Singalesisk
 fonts-langgroup-tamil =
@@ -55,8 +60,12 @@ fonts-langgroup-telugu =
     .label = Telugu
 fonts-langgroup-thai =
     .label = Thai
+fonts-langgroup-tibetan =
+    .label = Tibetansk
 fonts-langgroup-canadian =
     .label = Kanadisk
+fonts-langgroup-other =
+    .label = Andre skriftsystem
 
 ## Default fonts and their sizes
 
@@ -72,3 +81,33 @@ fonts-minsize-none =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-name-auto =
+    .label = Standard for gjeldande språk
+fonts-languages-fallback-name-arabic =
+    .label = Arabisk
+fonts-languages-fallback-name-baltic =
+    .label = Baltisk
+fonts-languages-fallback-name-ceiso =
+    .label = Sentral-europeisk, ISO
+fonts-languages-fallback-name-cewindows =
+    .label = Sentral-europeisk, Microsoft
+fonts-languages-fallback-name-simplified =
+    .label = Kinesisk, forenkla
+fonts-languages-fallback-name-traditional =
+    .label = Kinesisk, tradisjonell
+fonts-languages-fallback-name-cyrillic =
+    .label = Kyrillisk
+fonts-languages-fallback-name-greek =
+    .label = Gresk
+fonts-languages-fallback-name-hebrew =
+    .label = Hebraisk
+fonts-languages-fallback-name-japanese =
+    .label = Japansk
+fonts-languages-fallback-name-korean =
+    .label = Koreansk
+fonts-languages-fallback-name-thai =
+    .label = Thai
+fonts-languages-fallback-name-turkish =
+    .label = Tyrkisk
+fonts-languages-fallback-name-vietnamese =
+    .label = Vietnamesisk
