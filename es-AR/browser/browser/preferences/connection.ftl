@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+connection-window =
+    .title = Configuración de la conexión
+    .style =
+        { PLATFORM() ->
+            [macos] width: 44em
+           *[other] width: 49em
+        }
 connection-close-key =
     .key = w
 connection-proxy-option-no =
@@ -30,3 +37,6 @@ connection-proxy-autologin =
     .label = No pedir autenticación si la contraseña está guardada
     .accesskey = i
     .tooltip = Esta opción autentica silenciosamente a los proxys cuand se han gardado credenciales para ellos. Se pedirá si falla la autenticación.
+connection-proxy-socks-remote-dns =
+    .label = Proxy DNS al usar SOCKS v5
+    .accesskey = D
