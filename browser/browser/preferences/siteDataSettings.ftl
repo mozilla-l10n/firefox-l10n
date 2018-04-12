@@ -5,6 +5,9 @@
 
 ## Settings
 
+site-data-search-textbox =
+    .placeholder = Serĉi retejojn
+    .accesskey = S
 site-data-column-host =
     .label = Retejo
 site-data-column-storage =
