@@ -11,3 +11,7 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override-option-always =
+    .label = အမြဲတမ်း
+colors-page-override-option-never =
+    .label = ဘယ်တော့မှ
