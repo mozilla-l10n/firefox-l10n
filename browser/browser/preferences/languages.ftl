@@ -7,6 +7,7 @@ languages-window =
     .style = width: 30em
 languages-close-key =
     .key = w
+languages-description = Spletne strani so včasih na voljo v več jezikih. Izberite prednostni vrstni red jezikov za prikaz strani
 languages-customize-moveup =
     .label = Premakni gor
     .accesskey = G
