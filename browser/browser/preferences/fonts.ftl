@@ -45,6 +45,9 @@ fonts-langgroup-khmer =
     .label = Khmer
 fonts-langgroup-korean =
     .label = Coreano
+# Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+fonts-langgroup-latin =
+    .label = Latino
 fonts-langgroup-malayalam =
     .label = Malaiala
 fonts-langgroup-sinhala =
@@ -59,6 +62,8 @@ fonts-langgroup-tibetan =
     .label = Tibetano
 fonts-langgroup-canadian =
     .label = Silabário do Canadá unificado
+fonts-langgroup-other =
+    .label = Outros sistemas de escrita
 
 ## Default fonts and their sizes
 
@@ -74,3 +79,33 @@ fonts-minsize-none =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-name-auto =
+    .label = Padrão do idioma atual
+fonts-languages-fallback-name-arabic =
+    .label = Árabe
+fonts-languages-fallback-name-baltic =
+    .label = Báltico
+fonts-languages-fallback-name-ceiso =
+    .label = Europeu central, ISO
+fonts-languages-fallback-name-cewindows =
+    .label = Europeu central, Microsoft
+fonts-languages-fallback-name-simplified =
+    .label = Chinês, simplificado
+fonts-languages-fallback-name-traditional =
+    .label = Chinês, tradicional
+fonts-languages-fallback-name-cyrillic =
+    .label = Cirílico
+fonts-languages-fallback-name-greek =
+    .label = Grego
+fonts-languages-fallback-name-hebrew =
+    .label = Hebraico
+fonts-languages-fallback-name-japanese =
+    .label = Japonês
+fonts-languages-fallback-name-korean =
+    .label = Coreano
+fonts-languages-fallback-name-thai =
+    .label = Tailandês
+fonts-languages-fallback-name-turkish =
+    .label = Turco
+fonts-languages-fallback-name-vietnamese =
+    .label = Vietnamita
