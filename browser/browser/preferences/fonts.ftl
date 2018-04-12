@@ -75,6 +75,10 @@ fonts-default-serif =
     .label = सेरिफ़
 fonts-default-sans-serif =
     .label = सैंस सेरिफ़
+fonts-proportional-size = आकार
+    .accesskey = z
+fonts-monospace-size = आकार
+    .accesskey = e
 fonts-minsize-none =
     .label = कोई नहीं
 
