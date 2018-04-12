@@ -11,6 +11,8 @@ connection-window =
         }
 connection-close-key =
     .key = w
+connection-disable-extension =
+    .label = غیرفعال سازی افزونه
 connection-proxy-option-no =
     .label = بدون پیشکار
     .accesskey = پ
