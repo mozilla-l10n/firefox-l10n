@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = Fuentes para
+    .accesskey = F
 fonts-langgroup-arabic =
     .label = Arábigo
 fonts-langgroup-armenian =
@@ -52,6 +54,8 @@ fonts-langgroup-malayalam =
     .label = Malayo
 fonts-langgroup-math =
     .label = Matemáticas
+fonts-langgroup-odia =
+    .label = Oriya
 fonts-langgroup-sinhala =
     .label = Sinhala
 fonts-langgroup-tamil =
@@ -69,12 +73,29 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Proporcional
+    .accesskey = P
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+fonts-proportional-size = Tamaño
+    .accesskey = T
+fonts-serif = Serif
+    .accesskey = S
+fonts-sans-serif = Sans-serif
+    .accesskey = n
+fonts-monospace = Monoespaciada
+    .accesskey = M
+fonts-monospace-size = Tamaño
+    .accesskey = a
+fonts-minsize = Tamaño mínimo de fuente
+    .accesskey = o
 fonts-minsize-none =
     .label = Ninguno
+fonts-allow-own =
+    .label = Permitir que las páginas elijan sus propias tipografías en lugar de las selecciones anteriores
+    .accesskey = a
 
 ## Text Encodings
 ##
@@ -83,6 +104,8 @@ fonts-minsize-none =
 
 fonts-languages-fallback-header = Codificación de caracteres para contenido heredado
 fonts-languages-fallback-desc = Esta codificación de caracteres es usada para contenido heredado que falló en la declaración de su codificación.
+fonts-languages-fallback-label = Codificación de texto de emergencia
+    .accesskey = t
 fonts-languages-fallback-name-auto =
     .label = Predeterminado de la localización actual
 fonts-languages-fallback-name-arabic =
