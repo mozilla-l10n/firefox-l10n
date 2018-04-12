@@ -5,6 +5,7 @@
 blocklist-window =
     .title = רשימת חסימות
     .style = width: 50em
+blocklist-desc = ניתן לבחור באיזו רשימה { -brand-short-name } ישתמש כדי לחסום רכיבים העשויים לעקוב אחר פעילות הגלישה שלך.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
