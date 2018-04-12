@@ -11,6 +11,14 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override = 使用您在上面选择的颜色覆盖页面指定的颜色
+    .accesskey = O
+colors-page-override-option-always =
+    .label = 总是
+colors-page-override-option-auto =
+    .label = 仅在使用高对比度主题时
+colors-page-override-option-never =
+    .label = 总不
 colors-text-and-background = 文字和背景
 colors-use-system =
     .label = 使用系统颜色
