@@ -11,6 +11,8 @@ connection-window =
         }
 connection-close-key =
     .key = w
+connection-disable-extension =
+    .label = वाढीव कार्यक्रम निष्क्रिय करा
 connection-proxy-option-no =
     .label = प्रॉक्सी नाही
     .accesskey = y
