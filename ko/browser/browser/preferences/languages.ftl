@@ -7,6 +7,7 @@ languages-window =
     .style = width: 30em
 languages-close-key =
     .key = w
+languages-description = 일부 웹 사이트 내용에 여러 가지 언어가 함께 포함 있는 경우가 있습니다. 이 때 웹 페이지를 표시할 언어를 선호도 순으로 선택하십시오
 languages-customize-moveup =
     .label = 위로 이동
     .accesskey = U
