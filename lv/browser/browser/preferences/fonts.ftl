@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = Fonti rakstībai
+    .accesskey = F
 fonts-langgroup-arabic =
     .label = Arābu
 fonts-langgroup-armenian =
@@ -52,6 +54,8 @@ fonts-langgroup-malayalam =
     .label = Malayalamu
 fonts-langgroup-math =
     .label = Matemātika
+fonts-langgroup-odia =
+    .label = Oriju
 fonts-langgroup-sinhala =
     .label = Sinhala
 fonts-langgroup-tamil =
@@ -69,12 +73,29 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Proporcionāls
+    .accesskey = P
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+fonts-proportional-size = Izmērs
+    .accesskey = z
+fonts-serif = Serif
+    .accesskey = S
+fonts-sans-serif = Sans-serif
+    .accesskey = n
+fonts-monospace = Fiksēta platuma
+    .accesskey = F
+fonts-monospace-size = Izmērs
+    .accesskey = r
+fonts-minsize = Minimālais fonta izmērs
+    .accesskey = o
 fonts-minsize-none =
     .label = Nekāds
+fonts-allow-own =
+    .label = Ļaut lapām izvēlēties pašām savus fontus manis izvēlēto fontu vietā
+    .accesskey = A
 
 ## Text Encodings
 ##
@@ -83,6 +104,8 @@ fonts-minsize-none =
 
 fonts-languages-fallback-header = Simbolu kodējums nezināmam saturam
 fonts-languages-fallback-desc = Šis simbolu kodējums tiks izmantots saturam, kurš neziņos par savu simbolu kodējumu.
+fonts-languages-fallback-label = Atkāpšanās teksta kodējums
+    .accesskey = T
 fonts-languages-fallback-name-auto =
     .label = Noklusētie izvēlētajai valodai
 fonts-languages-fallback-name-arabic =
