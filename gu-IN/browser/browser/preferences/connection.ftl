@@ -4,3 +4,6 @@
 
 connection-close-key =
     .key = w
+connection-proxy-option-no =
+    .label = કોઈ પ્રોક્સી નથી
+    .accesskey = y
