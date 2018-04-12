@@ -7,6 +7,7 @@ translation-window =
     .style = width: 36em
 translation-close-key =
     .key = w
+translation-languages-disabled-desc = Non se ofrecerá a tradución para os seguintes idiomas
 translation-languages-column =
     .label = Idiomas
 translation-languages-button-remove =
