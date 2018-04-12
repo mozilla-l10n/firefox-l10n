@@ -74,3 +74,11 @@ fonts-minsize-none =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-name-arabic =
+    .label = Арапски
+fonts-languages-fallback-name-baltic =
+    .label = Балтички
+fonts-languages-fallback-name-greek =
+    .label = Грчки
+fonts-languages-fallback-name-hebrew =
+    .label = Хебрејски
