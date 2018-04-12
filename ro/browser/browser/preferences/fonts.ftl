@@ -13,6 +13,8 @@ fonts-langgroup-arabic =
     .label = Arabă
 fonts-langgroup-armenian =
     .label = Armeană
+fonts-langgroup-bengali =
+    .label = Bengali
 fonts-langgroup-simpl-chinese =
     .label = Chineză simplificată
 fonts-langgroup-trad-chinese-hk =
@@ -37,22 +39,84 @@ fonts-langgroup-japanese =
     .label = Japoneză
 fonts-langgroup-hebrew =
     .label = Ebraică
+fonts-langgroup-kannada =
+    .label = Kannada
 fonts-langgroup-khmer =
     .label = Khmeră
 fonts-langgroup-korean =
     .label = Coreeană
+# Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+fonts-langgroup-latin =
+    .label = Latină
+fonts-langgroup-malayalam =
+    .label = Malayalam
+fonts-langgroup-math =
+    .label = Matematică
+fonts-langgroup-odia =
+    .label = Odia
+fonts-langgroup-sinhala =
+    .label = Sinhala
+fonts-langgroup-tamil =
+    .label = Tamilă
+fonts-langgroup-telugu =
+    .label = Telugu
 fonts-langgroup-thai =
     .label = Thailandeză
 fonts-langgroup-tibetan =
     .label = Tibetană
+fonts-langgroup-canadian =
+    .label = Silabar canadian unificat
+fonts-langgroup-other =
+    .label = Alte sisteme de scriere
 
 ## Default fonts and their sizes
 
+fonts-default-serif =
+    .label = Cu serife
+fonts-default-sans-serif =
+    .label = Fără serife
 fonts-minsize-none =
     .label = Fără
+fonts-allow-own =
+    .label = Permite paginilor să își aleagă propriile fonturi în locul opțiunilor mele de mai sus
+    .accesskey = a
 
 ## Text Encodings
 ##
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-header = Codare de text pentru conținut moștenit
+fonts-languages-fallback-desc = Această codare de text este folosită pentru conținutul moștenit care nu reușește să declare codificarea sa.
+fonts-languages-fallback-name-auto =
+    .label = Implicită pentru limba actuală
+fonts-languages-fallback-name-arabic =
+    .label = Arabă
+fonts-languages-fallback-name-baltic =
+    .label = Baltică
+fonts-languages-fallback-name-ceiso =
+    .label = Central europeană, ISO
+fonts-languages-fallback-name-cewindows =
+    .label = Central europeană, Microsoft
+fonts-languages-fallback-name-simplified =
+    .label = Chineză, simplificată
+fonts-languages-fallback-name-traditional =
+    .label = Chineză, tradițională
+fonts-languages-fallback-name-cyrillic =
+    .label = Chirilică
+fonts-languages-fallback-name-greek =
+    .label = Greacă
+fonts-languages-fallback-name-hebrew =
+    .label = Ebraică
+fonts-languages-fallback-name-japanese =
+    .label = Japoneză
+fonts-languages-fallback-name-korean =
+    .label = Coreeană
+fonts-languages-fallback-name-thai =
+    .label = Thailandeză
+fonts-languages-fallback-name-turkish =
+    .label = Turcă
+fonts-languages-fallback-name-vietnamese =
+    .label = Vietnameză
+fonts-languages-fallback-name-other =
+    .label = Alta (inclusiv vest europeană)
