@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = Ffont ar gyfer
+    .accesskey = F
 fonts-langgroup-arabic =
     .label = Arabaidd
 fonts-langgroup-armenian =
@@ -71,10 +73,24 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Cyfrannol
+    .accesskey = y
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+fonts-proportional-size = Maint
+    .accesskey = M
+fonts-serif = Serif
+    .accesskey = S
+fonts-sans-serif = Sans-serif
+    .accesskey = a
+fonts-monospace = Monospace
+    .accesskey = o
+fonts-monospace-size = Maint
+    .accesskey = a
+fonts-minsize = Lleiafswm maint ffont
+    .accesskey = L
 fonts-minsize-none =
     .label = Dim
 fonts-allow-own =
@@ -88,6 +104,8 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Amgodiad Nod ar gyfer Hen Gynnwys
 fonts-languages-fallback-desc = Mae'r amgodiad nod hwn yn cael ei defnyddio ar gyfer hen gynnwys nad yw'n datgan ei amgodiad.
+fonts-languages-fallback-label = Amgodiad Testun Eilradd
+    .accesskey = E
 fonts-languages-fallback-name-auto =
     .label = Y Rhagosodedig ar gyfer y Locale Cyfredol
 fonts-languages-fallback-name-arabic =
