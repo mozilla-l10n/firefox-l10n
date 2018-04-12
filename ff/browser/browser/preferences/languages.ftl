@@ -7,6 +7,7 @@ languages-window =
     .style = width: 30em
 languages-close-key =
     .key = w
+languages-description = Kelle geese ena kolliree sahaaji e ɗemɗe keewɗe. Suɓo ɗemɗe ngam hollirde ɗee kelle, e degginol cuɓorol
 languages-customize-moveup =
     .label = Dirtin Dow
     .accesskey = D
