@@ -7,6 +7,7 @@ languages-window =
     .style = width: 30em
 languages-close-key =
     .key = w
+languages-description = Mae tudalennau gwe weithiai'n cael eu cynnig mewn mwy nag un iaith. Dewiswch ieithoedd i'w harddangos, yn nhrefn dewis
 languages-customize-moveup =
     .label = Symud i Fyny
     .accesskey = F
