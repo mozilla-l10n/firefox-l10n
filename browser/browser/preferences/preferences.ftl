@@ -478,6 +478,7 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-header = کوکی‌ها و اطلاعات وب سایت
 sitedata-learn-more = بیشتر بدانید
 sitedata-keep-until = نگهداری شوند تا
     .accesskey = ن
@@ -487,6 +488,12 @@ sitedata-accept-third-party-visited-option =
     .label = از بازدید
 sitedata-accept-third-party-never-option =
     .label = هرگز
+sitedata-clear =
+    .label = پاک کردن اطلاعات…
+    .accesskey = I
+sitedata-settings =
+    .label = مدیریت اطلاعات…
+    .accesskey = M
 sitedata-cookies-exceptions =
     .label = استثناها…
     .accesskey = ت
@@ -583,6 +590,13 @@ collection-health-report-link = بیشتر بدانید
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = گزارش کردن داده‌ها برای این پیکربندی ساخته شده غیرفعال شده است
+collection-browser-errors =
+    .label = به { -brand-short-name } اجازه بده تا گزارش‌های خطای مرورگر را به موزیلا ارسال کند( شامل پیام های خطا)
+    .accesskey = b
+collection-browser-errors-link = بیشتر بدانید
+collection-backlogged-crash-reports =
+    .label = به { -brand-short-name } اجازه بده تا گزارش های پس زمینه خرابی را از طرف شما ارسال کند
+    .accesskey = c
 collection-backlogged-crash-reports-link = بیشتر بدانید
 
 ## Privacy Section - Security
