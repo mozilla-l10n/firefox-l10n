@@ -11,6 +11,8 @@ connection-window =
         }
 connection-close-key =
     .key = w
+connection-disable-extension =
+    .label = Moĩmbaha Monge
 connection-proxy-option-no =
     .label = Proxy ỹre
     .accesskey = y
