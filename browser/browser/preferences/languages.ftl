@@ -18,3 +18,6 @@ languages-customize-remove =
     .accesskey = E
 languages-customize-select-language =
     .placeholder = Wählen Sie eine Sprache zum Hinzufügen aus…
+languages-customize-add =
+    .label = Hinzufügen
+    .accesskey = z
