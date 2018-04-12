@@ -12,6 +12,9 @@ app-manager-handle-webfeeds = Наведени програми се могу к
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Наведени програми се могу користити за обраду { $type } везе.
+# Variables:
+#   $type (String) - the MIME type (e.g. application/binary)
+app-manager-handle-file = Наведени програми се могу користити за обраду { $type } садржаја.
 
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.
