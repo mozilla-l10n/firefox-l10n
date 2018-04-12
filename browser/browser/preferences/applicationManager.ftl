@@ -20,4 +20,4 @@ app-manager-handle-file = ಈ ಕೆಳಗಿನ ಅನ್ವಯಗಳು { $typ
 ## by the URL or path of the application.
 
 app-manager-web-app-info = ಈ ಜಾಲ ಅನ್ವಯವನ್ನು ಹೋಸ್ಟ್ ಮಾಡಲಾದ ಸ್ಥಳ:
-app-manager-local-app-info = ಈ ಅನ್ವಯವು ಇರಿಸಲ್ಪಟ್ಟ ಜಾಗ:{ " " }
+app-manager-local-app-info = ಈ ಅನ್ವಯವು ಇರಿಸಲ್ಪಟ್ಟ ಜಾಗ:
