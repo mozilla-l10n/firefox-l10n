@@ -5,5 +5,14 @@
 permissions-window =
     .title = Изузеци
     .style = width: 46em
+permissions-block =
+    .label = Блокирај
+    .accesskey = Б
+permissions-session =
+    .label = Дозволи за ову сесију
+    .accesskey = с
+permissions-allow =
+    .label = Дозволи
+    .accesskey = Д
 permissions-status =
     .label = Стање
