@@ -77,6 +77,9 @@ fonts-default-sans-serif =
     .label = Sans Serif
 fonts-minsize-none =
     .label = Ninguno
+fonts-allow-own =
+    .label = Permitir que páginas elijan sus propia tipografía, en lugar de tus selecciones arriba
+    .accesskey = A
 
 ## Text Encodings
 ##
