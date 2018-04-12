@@ -11,6 +11,9 @@ connection-window =
         }
 connection-close-key =
     .key = w
+connection-disable-extension =
+    .label = Diweredekaat an askouezh
+connection-proxy-configure = Kefluniañ haeziñ ar proksi d'ar genrouedad
 connection-proxy-option-no =
     .label = Proksi ebet
     .accesskey = b
