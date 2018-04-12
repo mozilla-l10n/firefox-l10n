@@ -5,6 +5,9 @@
 
 ## Settings
 
+site-data-search-textbox =
+    .placeholder = Klask lec'hiennoù
+    .accesskey = K
 site-data-column-host =
     .label = Lec'hienn
 site-data-column-storage =
