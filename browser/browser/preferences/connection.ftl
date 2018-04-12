@@ -4,6 +4,9 @@
 
 connection-close-key =
     .key = w
+connection-proxy-option-no =
+    .label = Kein Proxy
+    .accesskey = e
 connection-proxy-option-auto =
     .label = Die Proxy-Einstellungen für dieses Netzwerk automatisch erkennen
     .accesskey = w
@@ -17,3 +20,6 @@ connection-proxy-socks5 =
     .label = SOCKS v5
     .accesskey = v
 connection-proxy-noproxy-desc = Beispiel: .mozilla.org, .net.de, 192.168.1.0/24
+connection-proxy-reload =
+    .label = Neu laden
+    .accesskey = a
