@@ -7,6 +7,7 @@ languages-window =
     .style = width: 32em
 languages-close-key =
     .key = w
+languages-description = Paginile web sunt oferite uneori în mai multe limbi. Selectează limbile pentru afișarea acestor pagini web, în ordinea preferințelor
 languages-customize-moveup =
     .label = Mută în sus
     .accesskey = u
