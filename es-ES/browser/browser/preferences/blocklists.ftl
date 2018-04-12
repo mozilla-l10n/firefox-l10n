@@ -5,6 +5,7 @@
 blocklist-window =
     .title = Listas de bloqueo
     .style = width: 60em
+blocklist-desc = Puede elegir qué lista usará { -brand-short-name } para bloquear elementos web que puedan rastrear su actividad de navegación.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
