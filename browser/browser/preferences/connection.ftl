@@ -26,3 +26,7 @@ connection-proxy-noproxy-desc = Exemplo: .mozilla.org, .net.nz, 192.168.1.0/24
 connection-proxy-reload =
     .label = Recarregar
     .accesskey = c
+connection-proxy-autologin =
+    .label = Não pedir confirmação da autenticação se a senha estiver memorizada
+    .accesskey = v
+    .tooltip = Autenticação silenciosa em proxies quando houver credenciais memorizadas. Uma confirmação será solicitada se a autenticação falhar.
