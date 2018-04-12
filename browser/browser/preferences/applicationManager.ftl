@@ -16,3 +16,5 @@ app-manager-handle-file = નીચેના કાર્યક્રમો { $t
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.
 
+app-manager-web-app-info = આ વેબ કાર્યક્રમ અહીં યજમાનિત થયેલ છે:
+app-manager-local-app-info = આ કાર્યક્રમ અહીં સ્થિત થયેલ છે:
