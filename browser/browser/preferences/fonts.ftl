@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = Tiparoj por
+    .accesskey = T
 fonts-langgroup-arabic =
     .label = Araba
 fonts-langgroup-armenian =
@@ -71,10 +73,24 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Proporcia
+    .accesskey = P
 fonts-default-serif =
     .label = Serifa
 fonts-default-sans-serif =
     .label = Senserifa
+fonts-proportional-size = Grando
+    .accesskey = r
+fonts-serif = Serifa
+    .accesskey = S
+fonts-sans-serif = Senserifa
+    .accesskey = n
+fonts-monospace = Egallarĝa
+    .accesskey = E
+fonts-monospace-size = Grando
+    .accesskey = G
+fonts-minsize = Minimuma grando de tiparo
+    .accesskey = M
 fonts-minsize-none =
     .label = Neniu
 fonts-allow-own =
@@ -88,6 +104,8 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Teksta enkodigo por kaduka enhavo
 fonts-languages-fallback-desc = Tiu ĉi teksta enkodigo estas uzita por kaduka enhavo kiu ne deklaris sian enkodigon.
+fonts-languages-fallback-label = Alternativa teksta ekondigo
+    .accesskey = t
 fonts-languages-fallback-name-auto =
     .label = Normo por la nuna lokaĵaro
 fonts-languages-fallback-name-arabic =
