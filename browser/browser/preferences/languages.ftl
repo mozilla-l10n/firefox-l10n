@@ -7,6 +7,7 @@ languages-window =
     .style = width: 30em
 languages-close-key =
     .key = w
+languages-description = वेब पृष्ठे काही वेळा अनेक भाषांमध्ये देऊ केले जातात. प्राधान्यतेनुसार, वेब पृष्ठांच्या प्रदर्शनासाठी भाषा निवडा
 languages-customize-moveup =
     .label = वर हलवा
     .accesskey = U
