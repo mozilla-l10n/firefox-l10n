@@ -33,6 +33,8 @@
 <!ENTITY aboutNetworking.startLogging          "เริ่มการบันทึก">
 <!ENTITY aboutNetworking.dnsDomain             "โดเมน">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IP">
+<!ENTITY aboutNetworking.rcwn                  "สถิติ RCWN">
+<!ENTITY aboutNetworking.rcwnStatus            "สถานะ RCWN">
 <!ENTITY aboutNetworking.rcwnPerfOpen          "เปิด">
 <!ENTITY aboutNetworking.rcwnPerfRead          "อ่าน">
 <!ENTITY aboutNetworking.rcwnPerfWrite         "เขียน">

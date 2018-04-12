@@ -132,4 +132,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceGroup "กลุ่ม">
 <!ENTITY aboutSupport.mediaDeviceVendor "ผู้จำหน่าย">
 
+<!ENTITY aboutSupport.intlAppTitle "การตั้งค่าแอปพลิเคชัน">
 <!ENTITY aboutSupport.intlLocalesAvailable "ภาษาที่มี">
+<!ENTITY aboutSupport.intlOSTitle "ระบบปฏิบัติการ">
+<!ENTITY aboutSupport.intlRegionalPrefs "ค่ากำหนดภูมิภาค">
