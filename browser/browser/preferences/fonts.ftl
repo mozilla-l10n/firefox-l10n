@@ -9,14 +9,28 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-armenian =
+    .label = Armenia
+fonts-langgroup-bengali =
+    .label = Băng-gan
+fonts-langgroup-simpl-chinese =
+    .label = Hoa Giản Thể
+fonts-langgroup-trad-chinese-hk =
+    .label = Hoa Phồn Thể (Hồng Kông)
+fonts-langgroup-trad-chinese =
+    .label = Hoa Phồn Thể (Đài Loan)
 fonts-langgroup-devanagari =
     .label = Devanagari
 fonts-langgroup-georgian =
     .label = Gruzia
+fonts-langgroup-gujarati =
+    .label = Gujarat
 fonts-langgroup-gurmukhi =
     .label = Gurmukhi
 fonts-langgroup-kannada =
     .label = Kannada
+fonts-langgroup-khmer =
+    .label = Khơ-me
 fonts-langgroup-malayalam =
     .label = Malayalam
 fonts-langgroup-sinhala =
