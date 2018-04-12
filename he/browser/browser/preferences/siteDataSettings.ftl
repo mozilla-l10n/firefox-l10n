@@ -7,10 +7,16 @@
 
 site-data-settings-window =
     .title = ניהול עוגיות ונתוני אתרים
+site-data-search-textbox =
+    .placeholder = חיפוש אתרים
+    .accesskey = ח
 site-data-column-host =
     .label = אתר
 site-data-column-storage =
     .label = אחסון
+site-data-remove-selected =
+    .label = הסרת פריטים נבחרים
+    .accesskey = פ
 site-data-button-cancel =
     .label = ביטול
     .accesskey = ב
