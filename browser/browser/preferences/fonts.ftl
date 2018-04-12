@@ -45,8 +45,15 @@ fonts-langgroup-khmer =
     .label = Khmer
 fonts-langgroup-korean =
     .label = Corëeg
+# Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+fonts-langgroup-latin =
+    .label = Lladin
 fonts-langgroup-malayalam =
     .label = Malaialam
+fonts-langgroup-math =
+    .label = Mathemateg
+fonts-langgroup-odia =
+    .label = Odia
 fonts-langgroup-sinhala =
     .label = Sinhala
 fonts-langgroup-tamil =
@@ -59,6 +66,8 @@ fonts-langgroup-tibetan =
     .label = Tibeteg
 fonts-langgroup-canadian =
     .label = Unified Canadian Syllabary
+fonts-langgroup-other =
+    .label = Systemau Ysgrifennu Eraill
 
 ## Default fonts and their sizes
 
@@ -68,12 +77,17 @@ fonts-default-sans-serif =
     .label = Sans Serif
 fonts-minsize-none =
     .label = Dim
+fonts-allow-own =
+    .label = Caniatáu i dudalennau ddewis eu ffont eu hun, yn lle fy newis i uchod
+    .accesskey = C
 
 ## Text Encodings
 ##
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-header = Amgodiad Nod ar gyfer Hen Gynnwys
+fonts-languages-fallback-desc = Mae'r amgodiad nod hwn yn cael ei defnyddio ar gyfer hen gynnwys nad yw'n datgan ei amgodiad.
 fonts-languages-fallback-name-auto =
     .label = Y Rhagosodedig ar gyfer y Locale Cyfredol
 fonts-languages-fallback-name-arabic =
@@ -82,6 +96,8 @@ fonts-languages-fallback-name-baltic =
     .label = Baltig
 fonts-languages-fallback-name-ceiso =
     .label = Canol Ewropeaidd, ISO
+fonts-languages-fallback-name-cewindows =
+    .label = Canol Ewrop, Microsoft
 fonts-languages-fallback-name-simplified =
     .label = Tsieineeg Symledig
 fonts-languages-fallback-name-traditional =
