@@ -9,7 +9,12 @@ colors-window =
             [macos] width: 41em
            *[other] width: 38em
         }
+colors-close-key =
+    .key = w
 colors-text-and-background = Texto e fondo
+colors-use-system =
+    .label = Usar as cores do sistema
+    .accesskey = s
 colors-underline-links =
     .label = Subliñar as ligazóns
     .accesskey = u
