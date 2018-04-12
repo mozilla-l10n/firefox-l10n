@@ -11,6 +11,9 @@ connection-window =
         }
 connection-close-key =
     .key = w
+connection-disable-extension =
+    .label = Analluogi Estyniad
+connection-proxy-configure = Ffurfweddu Mynediad Dirprwy i'r Rhyngrwyd
 connection-proxy-option-no =
     .label = Dim dirprwy
     .accesskey = D
