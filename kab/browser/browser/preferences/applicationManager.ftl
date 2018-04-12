@@ -8,7 +8,16 @@ app-manager-window =
 app-manager-remove =
     .label = Kkes
     .accesskey = K
+app-manager-handle-webfeeds = Isnasen-a zemren ad ttusqedcen deg Asuddem Web.
+# Variables:
+#   $type (String) - the URI scheme of the link (e.g. mailto:)
+app-manager-handle-protocol = Isnasen-a zemren ad ttusqedcen deg Iseɣwan { $type }.
+# Variables:
+#   $type (String) - the MIME type (e.g. application/binary)
+app-manager-handle-file = Isnasen-a zemren ad ttusqedcen deg Agbur { $type }.
 
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.
 
+app-manager-web-app-info = Asnas-a web yezdeɣ deg:
+app-manager-local-app-info = Asnas-a atan deg:
