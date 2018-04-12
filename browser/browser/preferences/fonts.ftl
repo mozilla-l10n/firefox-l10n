@@ -123,5 +123,7 @@ fonts-languages-fallback-name-thai =
     .label = Tayca
 fonts-languages-fallback-name-turkish =
     .label = Türkçe
+fonts-languages-fallback-name-vietnamese =
+    .label = Vietnamca
 fonts-languages-fallback-name-other =
     .label = Diğer (Batı Avrupa dahil)
