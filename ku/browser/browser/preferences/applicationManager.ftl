@@ -9,3 +9,5 @@ app-manager-remove =
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.
 
+app-manager-web-app-info = Ev sepana webê li ser vê hostê ye:
+app-manager-local-app-info = Ev sepan li ser vê ye:
