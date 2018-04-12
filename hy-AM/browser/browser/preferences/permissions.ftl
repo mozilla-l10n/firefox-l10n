@@ -4,5 +4,14 @@
 
 permissions-close-key =
     .key = w
+permissions-block =
+    .label = Արգելել
+    .accesskey = Ա
+permissions-session =
+    .label = Թույլատրել աշխատաշրջանում
+    .accesskey = ա
+permissions-allow =
+    .label = Թույլատրել
+    .accesskey = Թ
 permissions-status =
     .label = Կարգավիճակը
