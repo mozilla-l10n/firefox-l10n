@@ -33,6 +33,9 @@ fonts-langgroup-kannada =
     .label = Kanada
 fonts-langgroup-khmer =
     .label = Kama
+# Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+fonts-langgroup-latin =
+    .label = Kilatini
 fonts-langgroup-malayalam =
     .label = Kimalayalam
 fonts-langgroup-sinhala =
