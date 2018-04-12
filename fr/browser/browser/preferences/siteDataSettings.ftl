@@ -5,6 +5,8 @@
 
 ## Settings
 
+site-data-settings-window =
+    .title = Gestion des cookies et des données de sites
 site-data-search-textbox =
     .placeholder = Rechercher des sites web
     .accesskey = R
@@ -12,6 +14,8 @@ site-data-column-host =
     .label = Site
 site-data-column-storage =
     .label = Stockage
+site-data-column-last-used =
+    .label = Dernière utilisation
 site-data-remove-selected =
     .label = Supprimer les sites sélectionnés
     .accesskey = S
@@ -26,3 +30,5 @@ site-data-button-save =
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-header = Suppression des cookies et des données de sites
+site-data-removing-desc = Supprimer les cookies et les données de sites peut vous déconnecter de ces sites web. Voulez-vous vraiment effectuer ces modifications ?
