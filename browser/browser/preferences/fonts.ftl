@@ -13,6 +13,8 @@ fonts-langgroup-sinhala =
     .label = सिन्हाला
 fonts-langgroup-telugu =
     .label = तेलुगू
+fonts-langgroup-tibetan =
+    .label = तिबेटन
 
 ## Default fonts and their sizes
 
