@@ -7,6 +7,7 @@ languages-window =
     .style = width: 30em
 languages-close-key =
     .key = w
+languages-description = Web pages are sometimes offered in more than one language. Choose languages for displaying these web pages, in order of preference
 languages-customize-moveup =
     .label = Move Up
     .accesskey = U
