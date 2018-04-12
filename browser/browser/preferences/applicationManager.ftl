@@ -8,6 +8,13 @@ app-manager-window =
 app-manager-remove =
     .label = 제거
     .accesskey = R
+app-manager-handle-webfeeds = 아래 응용 프로그램들은 RSS 피드 기능을 이용하기 위한 것입니다.
+# Variables:
+#   $type (String) - the URI scheme of the link (e.g. mailto:)
+app-manager-handle-protocol = 아래 응용 프로그램들은 { $type } 링크 기능을 이용하기 위한 것입니다.
+# Variables:
+#   $type (String) - the MIME type (e.g. application/binary)
+app-manager-handle-file = 아래 응용 프로그램들은 { $type } 콘텐츠 기능을 이용하기 위한 것입니다.
 
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.
