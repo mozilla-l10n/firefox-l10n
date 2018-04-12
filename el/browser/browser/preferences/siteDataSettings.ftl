@@ -5,8 +5,24 @@
 
 ## Settings
 
+site-data-search-textbox =
+    .placeholder = Αναζήτηση ιστοσελίδων
+    .accesskey = Α
 site-data-column-host =
     .label = Ιστοτόπος
+site-data-column-cookies =
+    .label = Cookies
+site-data-column-storage =
+    .label = Αποθήκευση
+site-data-remove-selected =
+    .label = Αφαίρεση επιλεγμένων
+    .accesskey = α
+site-data-button-cancel =
+    .label = Ακύρωση
+    .accesskey = Α
+site-data-button-save =
+    .label = Αποθήκευση αλλαγών
+    .accesskey = λ
 
 ## Removing
 
