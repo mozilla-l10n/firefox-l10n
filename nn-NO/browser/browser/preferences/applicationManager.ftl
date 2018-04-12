@@ -12,3 +12,4 @@ app-manager-remove =
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.
 
+app-manager-local-app-info = Dette programmet finst på:
