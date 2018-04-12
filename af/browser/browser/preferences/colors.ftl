@@ -11,6 +11,12 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override-option-always =
+    .label = Altyd
+colors-page-override-option-auto =
+    .label = Slegs met hoëkontrastemas
+colors-page-override-option-never =
+    .label = Nooit
 colors-text-and-background = Teks en agtergrond
 colors-use-system =
     .label = Gebruik stelselkleure
