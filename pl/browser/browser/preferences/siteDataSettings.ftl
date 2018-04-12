@@ -7,6 +7,9 @@
 
 site-data-settings-window =
     .title = Zachowane ciasteczka i dane stron
+site-data-search-textbox =
+    .placeholder = Szukaj witryny
+    .accesskey = S
 site-data-column-host =
     .label = Witryna
 site-data-column-cookies =
@@ -15,6 +18,15 @@ site-data-column-storage =
     .label = Rozmiar
 site-data-column-last-used =
     .label = Ostatni dostęp
+site-data-remove-selected =
+    .label = Usuń zaznaczone
+    .accesskey = U
+site-data-button-cancel =
+    .label = Anuluj
+    .accesskey = A
+site-data-button-save =
+    .label = Zapisz zmiany
+    .accesskey = Z
 
 ## Removing
 
