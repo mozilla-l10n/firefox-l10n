@@ -11,6 +11,10 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override-option-always =
+    .label = Enka jamperi
+colors-page-override-option-never =
+    .label = Nóteru uétarhiakia
 colors-text-and-background = Karakua ka k´uanatsekua anapu
 colors-use-system =
     .label = Urauani atantskuechani k´eri jurhamukueri
