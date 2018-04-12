@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+blocklist-window =
+    .title = Senarai Sekatan
+    .style = width: 55em
+blocklist-desc = Anda boleh pilih senarai yang akan digunakan { -brand-short-name } untuk menyekat elemen Web yang mungkin menjejaki aktiviti pelayaran anda.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
