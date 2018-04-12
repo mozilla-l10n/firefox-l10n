@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = Písma pre
+    .accesskey = P
 fonts-langgroup-arabic =
     .label = Arabské
 fonts-langgroup-armenian =
@@ -71,12 +73,29 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Proporcionálne
+    .accesskey = P
 fonts-default-serif =
     .label = Pätkové (serif)
 fonts-default-sans-serif =
     .label = Bezpätkové (sans-serif)
+fonts-proportional-size = Veľkosť
+    .accesskey = V
+fonts-serif = Pätkové
+    .accesskey = t
+fonts-sans-serif = Bezpätkové
+    .accesskey = B
+fonts-monospace = Neproporcionálne
+    .accesskey = N
+fonts-monospace-size = Veľkosť
+    .accesskey = e
+fonts-minsize = Minimálna veľkosť písma
+    .accesskey = o
 fonts-minsize-none =
     .label = Žiadne
+fonts-allow-own =
+    .label = Povoliť stránkam používať vlastné písma namiesto tých vyššie vybraných
+    .accesskey = o
 
 ## Text Encodings
 ##
@@ -85,6 +104,8 @@ fonts-minsize-none =
 
 fonts-languages-fallback-header = Kódovanie textu pre starší obsah
 fonts-languages-fallback-desc = Toto kódovanie textu je používané pre starší obsah, ktorý nedefinuje svoje kódovanie.
+fonts-languages-fallback-label = Použiť nasledovné kódovanie
+    .accesskey = u
 fonts-languages-fallback-name-auto =
     .label = Predvolené pre aktuálny jazyk
 fonts-languages-fallback-name-arabic =
