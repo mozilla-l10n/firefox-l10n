@@ -304,6 +304,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Inspectar elemento">
 <!ENTITY inspectContextMenu.accesskey "I">
 
+<!ENTITY inspectA11YContextMenu.label     "Controlar le proprietates de accessibilitate">
+
 <!ENTITY fileMenu.label         "File">
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "Nove scheda contextual">
