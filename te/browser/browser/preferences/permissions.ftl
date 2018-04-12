@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+permissions-window =
+    .title = మినహాయింపులు
+    .style = width: 45em
 permissions-close-key =
     .key = w
 permissions-block =
@@ -13,6 +16,8 @@ permissions-session =
 permissions-allow =
     .label = అనుమతించు
     .accesskey = A
+permissions-site-name =
+    .label = వెబ్‌సైటు
 permissions-status =
     .label = స్థితి
 permissions-button-cancel =
