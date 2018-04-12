@@ -27,6 +27,8 @@ fonts-langgroup-devanagari =
     .label = Devanagari
 fonts-langgroup-ethiopic =
     .label = Etíope
+fonts-langgroup-georgian =
+    .label = Xeorxanu
 fonts-langgroup-el =
     .label = Griegu
 fonts-langgroup-gujarati =
@@ -39,6 +41,8 @@ fonts-langgroup-hebrew =
     .label = Hebréu
 fonts-langgroup-kannada =
     .label = Kannada
+fonts-langgroup-khmer =
+    .label = Ḥemer
 fonts-langgroup-korean =
     .label = Coreanu
 fonts-langgroup-malayalam =
@@ -51,6 +55,8 @@ fonts-langgroup-telugu =
     .label = Telugu
 fonts-langgroup-thai =
     .label = Tailandés
+fonts-langgroup-tibetan =
+    .label = Tibetanu
 fonts-langgroup-canadian =
     .label = Separtación silábica xunificada canadiense
 
@@ -60,6 +66,8 @@ fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+fonts-minsize-none =
+    .label = Dengún
 
 ## Text Encodings
 ##
