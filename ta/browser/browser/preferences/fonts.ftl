@@ -37,6 +37,8 @@ fonts-langgroup-tamil =
     .label = தமிழ்
 fonts-langgroup-telugu =
     .label = தெலுங்கு
+fonts-langgroup-tibetan =
+    .label = திபேத்தியன்
 fonts-langgroup-canadian =
     .label = கன்னடியன்
 
