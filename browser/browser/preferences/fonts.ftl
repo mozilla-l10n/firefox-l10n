@@ -55,6 +55,8 @@ fonts-langgroup-telugu =
     .label = Telugu
 fonts-langgroup-thai =
     .label = Thai
+fonts-langgroup-tibetan =
+    .label = Tibeti
 fonts-langgroup-canadian =
     .label = Egységes kanadai szótagírás
 
