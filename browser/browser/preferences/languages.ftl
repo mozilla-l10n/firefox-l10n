@@ -7,6 +7,7 @@ languages-window =
     .style = width: 32em
 languages-close-key =
     .key = w
+languages-description = Μερικές φορές, οι ιστοσελίδες προσφέρονται σε περισσότερες από μια γλώσσες. Επιλέξτε τις γλώσσες εμφάνισης αυτών των ιστοσελίδων, σε σειρά προτίμησης
 languages-customize-spoof-english =
     .label = Απαίτηση αγγλικών εκδόσεων ιστοσελίδων για ενισχυμένο απόρρητο
 languages-customize-moveup =
