@@ -304,6 +304,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "檢測元素">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
+<!ENTITY inspectA11YContextMenu.label     "檢測輔助功能環境屬性">
+
 <!ENTITY fileMenu.label         "檔案">
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "新增容器分頁">
