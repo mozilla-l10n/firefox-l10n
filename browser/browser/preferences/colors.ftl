@@ -11,6 +11,11 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override-option-always =
+    .label = Totjorn
+colors-page-override-option-never =
+    .label = Pas jamai
+colors-text-and-background = Tèxte e rèireplan
 colors-use-system =
     .label = Utilizar las colors del sistèma
     .accesskey = s
