@@ -11,3 +11,7 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-text-and-background = Տեքստ և Խորապատկեր
+colors-use-system =
+    .label = Օգտագործել համակարգի գույները
+    .accesskey = գ
