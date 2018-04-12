@@ -5,6 +5,11 @@
 
 ## Settings
 
+site-data-settings-window =
+    .title = Kelola Kuki dan Data Situs
+site-data-search-textbox =
+    .placeholder = Cari situs web
+    .accesskey = C
 site-data-column-host =
     .label = Situs
 site-data-column-cookies =
