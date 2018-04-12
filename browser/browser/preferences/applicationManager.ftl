@@ -10,6 +10,9 @@ app-manager-remove =
     .accesskey = E
 app-manager-handle-webfeeds = Las siguientes aplicaciones pueden ser usadas para manejar Canales web.
 # Variables:
+#   $type (String) - the URI scheme of the link (e.g. mailto:)
+app-manager-handle-protocol = Las siguientes aplicaciones pueden ser usadas para manejar enlaces { $type }.
+# Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Las siguientes aplicaciones pueden ser usadas para manejar contenido { $type }.
 
