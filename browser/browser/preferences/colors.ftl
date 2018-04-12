@@ -9,6 +9,8 @@ colors-window =
             [macos] width: 44em
            *[other] width: 44em
         }
+colors-close-key =
+    .key = w
 colors-text-and-background = Κείμενο και παρασκήνιο
 colors-use-system =
     .label = Χρήση χρωμάτων συστήματος
