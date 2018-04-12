@@ -11,6 +11,9 @@ connection-window =
         }
 connection-close-key =
     .key = w
+connection-disable-extension =
+    .label = Rozšyrjenje znjemóžniś
+connection-proxy-configure = Proksy za pśistup na internet konfigurěrowaś
 connection-proxy-option-no =
     .label = Žeden proksy
     .accesskey = y
