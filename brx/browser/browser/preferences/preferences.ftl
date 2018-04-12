@@ -195,7 +195,7 @@ forms-master-pw-use =
     .label = मोनसे मास्थार बारग'सोदोब बाहाय
     .accesskey = ब
 forms-master-pw-change =
-    .label = मा्स्थार बारग'सोदोबखौ सोलाय...{ " " }
+    .label = मा्स्थार बारग'सोदोबखौ सोलाय...
     .accesskey = म
 
 ## Privacy Section - History

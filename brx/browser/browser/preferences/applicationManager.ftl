@@ -19,5 +19,5 @@ app-manager-handle-file = { $type } कनटेन्थ खौ हेन्द
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.
 
-app-manager-web-app-info = बे वेब एफ्लिकेचनखौ नैबेयाव हस्थ खालामदों:{ " " }
+app-manager-web-app-info = बे वेब एफ्लिकेचनखौ नैबेयाव हस्थ खालामदों:
 app-manager-local-app-info = नैबे एफ्लिकेचनआ बेयाव थादों:
