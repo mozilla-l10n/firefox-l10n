@@ -8,6 +8,13 @@ app-manager-window =
 app-manager-remove =
     .label = Өшіру
     .accesskey = ш
+app-manager-handle-webfeeds = Жаңалықтар таспалары-пен жұмыс істеу үшін келесі бағдарламалар қолданылуы мүмкін.
+# Variables:
+#   $type (String) - the URI scheme of the link (e.g. mailto:)
+app-manager-handle-protocol = { $type } сілтемелері-пен жұмыс істеу үшін келесі бағдарламалар қолданылуы мүмкін.
+# Variables:
+#   $type (String) - the MIME type (e.g. application/binary)
+app-manager-handle-file = { $type } құрамасы-пен жұмыс істеу үшін келесі бағдарламалар қолданылуы мүмкін.
 
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.
