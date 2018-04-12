@@ -9,6 +9,8 @@ colors-window =
             [macos] width: 41em
            *[other] width: 38em
         }
+colors-close-key =
+    .key = w
 colors-page-override = Sayt tərəfindən seçilmiş rənglər sizin aşağıdakı seçimlərinizlə dəyişdirilsin
     .accesskey = O
 colors-page-override-option-always =
