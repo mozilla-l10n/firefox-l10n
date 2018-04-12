@@ -7,9 +7,13 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-kannada =
+    .label = Kannada
 
 ## Default fonts and their sizes
 
+fonts-minsize-none =
+    .label = Wala
 
 ## Text Encodings
 ##
