@@ -11,3 +11,5 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-text-and-background = আখৰ আৰু পৃষ্ঠভূমি
+colors-links-header = সংযোগৰ ৰং
