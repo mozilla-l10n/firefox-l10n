@@ -33,6 +33,9 @@ fonts-langgroup-kannada =
     .label = Se-kannada
 fonts-langgroup-khmer =
     .label = Se-khmer
+# Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+fonts-langgroup-latin =
+    .label = Selatini
 fonts-langgroup-malayalam =
     .label = Se-malayalam
 fonts-langgroup-sinhala =
@@ -60,3 +63,5 @@ fonts-minsize-none =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-name-vietnamese =
+    .label = Sevietnam
