@@ -11,6 +11,8 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override = Barby podate přez stronu přez mój wuběry horjeka přepisać
+    .accesskey = B
 colors-page-override-option-always =
     .label = Přeco
 colors-page-override-option-auto =
