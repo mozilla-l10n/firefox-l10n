@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = Teckensnitt för
+    .accesskey = T
 fonts-langgroup-arabic =
     .label = Arabiska
 fonts-langgroup-armenian =
@@ -71,12 +73,29 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Proportionell
+    .accesskey = P
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+fonts-proportional-size = Storlek
+    .accesskey = t
+fonts-serif = Serif
+    .accesskey = S
+fonts-sans-serif = Sans-serif
+    .accesskey = n
+fonts-monospace = Fast bredd
+    .accesskey = F
+fonts-monospace-size = Storlek
+    .accesskey = o
+fonts-minsize = Minsta teckensnittsstorlek
+    .accesskey = n
 fonts-minsize-none =
     .label = Ingen
+fonts-allow-own =
+    .label = Tillåt sidor använda egna teckensnitt, i stället för dina val ovan
+    .accesskey = T
 
 ## Text Encodings
 ##
@@ -85,6 +104,8 @@ fonts-minsize-none =
 
 fonts-languages-fallback-header = Teckenkodning för gammalt innehåll
 fonts-languages-fallback-desc = Den här teckenkodningen används för gammalt innehåll som inte har angivit någon annan kodning.
+fonts-languages-fallback-label = Reservteckenkodning
+    .accesskey = t
 fonts-languages-fallback-name-auto =
     .label = Standard för aktuellt språkområde
 fonts-languages-fallback-name-arabic =
