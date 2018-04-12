@@ -10,6 +10,9 @@ app-manager-remove =
     .accesskey = T
 app-manager-handle-webfeeds = Mae modd defnyddio'r rhaglenni canlynol i drin Llif Gwe.
 # Variables:
+#   $type (String) - the URI scheme of the link (e.g. mailto:)
+app-manager-handle-protocol = Mae modd defnyddio'r rhaglenni canlynol i drin { $type } dolen.
+# Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Mae modd defnyddio'r rhaglenni canlynol i drin Cynnwys { $type }.
 
