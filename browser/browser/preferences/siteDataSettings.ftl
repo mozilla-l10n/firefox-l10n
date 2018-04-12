@@ -5,6 +5,8 @@
 
 ## Settings
 
+site-data-column-host =
+    .label = අඩවිය
 site-data-column-storage =
     .label = ගබඩා කිරීම
 site-data-remove-selected =
