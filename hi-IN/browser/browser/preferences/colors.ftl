@@ -11,5 +11,17 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override-option-always =
+    .label = हमेशा
+colors-page-override-option-auto =
+    .label = केवल उच्च विरोधी प्रसंग
+colors-page-override-option-never =
+    .label = कभी न{ " " }
 colors-text-and-background = पाठ व पृष्ठभूमि
+colors-use-system =
+    .label = सिस्टम रंग का प्रयोग करें
+    .accesskey = s
+colors-underline-links =
+    .label = रेखांकित कड़ी
+    .accesskey = U
 colors-links-header = रंग कड़ीबद्ध करें
