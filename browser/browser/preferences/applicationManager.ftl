@@ -10,6 +10,9 @@ app-manager-remove =
     .accesskey = ح
 app-manager-handle-webfeeds = يمكن استخدام التطبيق التالي لمعالجة تلقيمات وب.
 # Variables:
+#   $type (String) - the URI scheme of the link (e.g. mailto:)
+app-manager-handle-protocol = يمكن استخدام التطبيق التالي لمعالجة روابط { $type }.
+# Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = يمكن استخدام التطبيق التالي لمعالجة محتوى { $type }.
 
