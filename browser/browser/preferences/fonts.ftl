@@ -71,10 +71,24 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Proporțional
+    .accesskey = P
 fonts-default-serif =
     .label = Cu serife
 fonts-default-sans-serif =
     .label = Fără serife
+fonts-proportional-size = Mărime
+    .accesskey = M
+fonts-serif = Cu serife
+    .accesskey = S
+fonts-sans-serif = Fără serife
+    .accesskey = n
+fonts-monospace = Monospațiat
+    .accesskey = M
+fonts-monospace-size = Mărime
+    .accesskey = e
+fonts-minsize = Mărimea minimă a fontului
+    .accesskey = o
 fonts-minsize-none =
     .label = Fără
 fonts-allow-own =
