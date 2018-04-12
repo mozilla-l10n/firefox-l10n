@@ -34,3 +34,5 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Spremi promjene
     .accesskey = S
+permissions-searchbox =
+    .placeholder = Pretraži web stranicu
