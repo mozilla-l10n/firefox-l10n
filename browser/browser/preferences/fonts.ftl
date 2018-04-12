@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+fonts-window =
+    .title = फ़ॉन्ट
 fonts-window-close =
     .key = w
 
@@ -48,6 +50,8 @@ fonts-langgroup-latin =
     .label = लैटिन
 fonts-langgroup-malayalam =
     .label = मलयालम
+fonts-langgroup-math =
+    .label = गणित
 fonts-langgroup-sinhala =
     .label = सिंहाला
 fonts-langgroup-tamil =
@@ -77,6 +81,8 @@ fonts-minsize-none =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-header = पुरातन कंटेंटक लेल वर्ण एनकोडिंग
+fonts-languages-fallback-desc = पुरातन कंटेंटक लेल वर्ण एनकोडिंग जे अपन एन्कोडिंग कए घोषित करबामे विफल रहैत अछि.
 fonts-languages-fallback-name-auto =
     .label = वर्तमान लोकेलक लेल पूर्वनिर्धारित
 fonts-languages-fallback-name-arabic =
@@ -87,6 +93,10 @@ fonts-languages-fallback-name-ceiso =
     .label = केंद्रीय यूरोपियन
 fonts-languages-fallback-name-cewindows =
     .label = मध्य यूरोपीय, माइक्रोसॉफ्ट
+fonts-languages-fallback-name-simplified =
+    .label = चीनी, सरलीकृत
+fonts-languages-fallback-name-traditional =
+    .label = चीनी, पारम्परिक
 fonts-languages-fallback-name-cyrillic =
     .label = सिरिलिक
 fonts-languages-fallback-name-greek =
@@ -103,3 +113,5 @@ fonts-languages-fallback-name-turkish =
     .label = तुर्किश
 fonts-languages-fallback-name-vietnamese =
     .label = वियतनामी
+fonts-languages-fallback-name-other =
+    .label = आन (पश्चिमी यूरोपीय सहित)
