@@ -4,6 +4,8 @@
 
 fonts-window =
     .title = Şriftlər
+fonts-window-close =
+    .key = w
 
 ## Font groups by language
 
