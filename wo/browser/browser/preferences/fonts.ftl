@@ -29,12 +29,18 @@ fonts-langgroup-gurmukhi =
     .label = Gurmukhi
 fonts-langgroup-kannada =
     .label = Kanadaa
+fonts-langgroup-khmer =
+    .label = Cambodian
 fonts-langgroup-malayalam =
     .label = Malayalam
 fonts-langgroup-sinhala =
     .label = Sinhala
+fonts-langgroup-tamil =
+    .label = Tamuul
 fonts-langgroup-telugu =
     .label = Telugu
+fonts-langgroup-tibetan =
+    .label = Tibeten
 fonts-langgroup-canadian =
     .label = Téere araf bu Kanadaa bu ñu boole
 
@@ -42,6 +48,8 @@ fonts-langgroup-canadian =
 
 fonts-default-serif =
     .label = Serif
+fonts-default-sans-serif =
+    .label = Sans Serif
 fonts-minsize-none =
     .label = Dara
 
