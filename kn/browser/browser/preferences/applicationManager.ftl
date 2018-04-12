@@ -5,6 +5,7 @@
 app-manager-remove =
     .label = ತೆಗೆದು ಹಾಕು
     .accesskey = R
+app-manager-handle-webfeeds = ಈ ಕೆಳಗಿನ ಅನ್ವಯಗಳು ಜಾಲ ಊಡಿಕೆಗಳು ಅನ್ನು ನಿಭಾಯಿಸಲು ಬಳಸಲ್ಪಡುತ್ತದೆ.
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = ಈ ಕೆಳಗಿನ ಅನ್ವಯಗಳು { $type } ಕೊಂಡಿಗಳು ಅನ್ನು ನಿಭಾಯಿಸಲು ಬಳಸಲ್ಪಡುತ್ತದೆ.
