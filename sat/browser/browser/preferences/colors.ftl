@@ -11,6 +11,10 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override-option-always =
+    .label = जावगे
+colors-page-override-option-never =
+    .label = तिसहों बाङ
 colors-text-and-background = ओनोल आर ओनोड़ को
 colors-use-system =
     .label = सेस्टेम रोङ को बेभार मे (s){ " " }
