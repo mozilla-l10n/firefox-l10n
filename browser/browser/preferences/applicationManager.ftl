@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 app-manager-handle-webfeeds = Mae modd defnyddio'r rhaglenni canlynol i drin Llif Gwe.
+# Variables:
+#   $type (String) - the MIME type (e.g. application/binary)
+app-manager-handle-file = Mae modd defnyddio'r rhaglenni canlynol i drin Cynnwys { $type }.
 
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.
