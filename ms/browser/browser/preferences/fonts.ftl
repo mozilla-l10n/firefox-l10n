@@ -15,8 +15,13 @@ fonts-langgroup-gurmukhi =
     .label = Gurmukhi
 fonts-langgroup-kannada =
     .label = Kannada
+# Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+fonts-langgroup-latin =
+    .label = Latin
 fonts-langgroup-malayalam =
     .label = Malayalam
+fonts-langgroup-odia =
+    .label = Odia
 fonts-langgroup-sinhala =
     .label = Sinhala
 fonts-langgroup-tamil =
@@ -25,6 +30,8 @@ fonts-langgroup-telugu =
     .label = Telugu
 fonts-langgroup-thai =
     .label = Thai
+fonts-langgroup-other =
+    .label = Sistem Penulisan Lain
 
 ## Default fonts and their sizes
 
@@ -40,5 +47,6 @@ fonts-minsize-none =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-desc = Pengekodan aksara ini digunakan untuk kandungan legasi yang gagal diisyhtiharkan pengekodannya.
 fonts-languages-fallback-name-thai =
     .label = Thai
