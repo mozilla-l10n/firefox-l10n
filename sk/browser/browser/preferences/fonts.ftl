@@ -69,6 +69,10 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-default-serif =
+    .label = Pätkové (serif)
+fonts-default-sans-serif =
+    .label = Bezpätkové (sans-serif)
 fonts-minsize-none =
     .label = Žiadne
 
@@ -77,6 +81,8 @@ fonts-minsize-none =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-header = Kódovanie textu pre starší obsah
+fonts-languages-fallback-desc = Toto kódovanie textu je používané pre starší obsah, ktorý nedefinuje svoje kódovanie.
 fonts-languages-fallback-name-auto =
     .label = Predvolené pre aktuálny jazyk
 fonts-languages-fallback-name-arabic =
