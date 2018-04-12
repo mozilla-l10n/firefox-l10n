@@ -5,6 +5,7 @@
 clear-site-data-window =
     .title = Embogue mba'ekuaarã
     .style = width: 35em
+clear-site-data-description = Emopotĩ kookie ha tenda mba'ekuaarã ombyatýva { -brand-short-name } ikatu omboty ne rembiapo ijurujáva ha ombogue ñanduti retepy ñanduti'ỹreguáva. Emopotĩ kache mba'ekuaarã nombyaimo'ãi ne rembiapo ijurujáva.
 clear-site-data-close-key =
     .key = w
 clear-site-data-cookies = Kookie ha tenda mba'ekuaarã
