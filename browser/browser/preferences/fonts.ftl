@@ -39,6 +39,8 @@ fonts-langgroup-tamil =
     .label = তামিল
 fonts-langgroup-telugu =
     .label = টেলুগু
+fonts-langgroup-tibetan =
+    .label = তিব্বতীয়
 fonts-langgroup-canadian =
     .label = ইউনিফাইড কেনেডীয় ছিলাবাৰী
 
