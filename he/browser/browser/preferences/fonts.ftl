@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = גופנים עבור
+    .accesskey = נ
 fonts-langgroup-arabic =
     .label = ערבית
 fonts-langgroup-armenian =
@@ -71,12 +73,29 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = יחסי
+    .accesskey = ח
 fonts-default-serif =
     .label = סריף
 fonts-default-sans-serif =
     .label = סאן־סריף
+fonts-proportional-size = גודל
+    .accesskey = ג
+fonts-serif = סריף
+    .accesskey = ס
+fonts-sans-serif = סאן־סריף
+    .accesskey = ר
+fonts-monospace = רוחב קבוע
+    .accesskey = ב
+fonts-monospace-size = גודל
+    .accesskey = ד
+fonts-minsize = גודל גופן מינימלי
+    .accesskey = פ
 fonts-minsize-none =
     .label = ללא
+fonts-allow-own =
+    .label = לאפשר לדפים לבחור בגופנים שלהם במקום בחירתי למעלה
+    .accesskey = ג
 
 ## Text Encodings
 ##
@@ -85,6 +104,8 @@ fonts-minsize-none =
 
 fonts-languages-fallback-header = קידוד טקסט לתוכן ישן
 fonts-languages-fallback-desc = קידוד טקסט זה מיועד עבור תוכן ישן שלא הוגדר עבורו קידוד.
+fonts-languages-fallback-label = קידוד טקסט חלופי
+    .accesskey = ט
 fonts-languages-fallback-name-auto =
     .label = בררת מחדל לשפה הנוכחית
 fonts-languages-fallback-name-arabic =
