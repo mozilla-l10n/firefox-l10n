@@ -8,6 +8,7 @@ app-manager-window =
 app-manager-remove =
     .label = நீக்கு
     .accesskey = ந
+app-manager-handle-webfeeds = பின்வரும் பயன்பாடுகள் வலை ஒடைகள்-ஐ கையாள பயன்படுத்தப்படும்.
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = பின்வரும் பயன்பாடுகள் { $type } இணைப்புகள்-ஐ கையாள பயன்படுத்தப்படும்.
