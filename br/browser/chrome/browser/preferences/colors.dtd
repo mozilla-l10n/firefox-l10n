@@ -21,7 +21,7 @@
 <!ENTITY  useSystemColors.label           "Arverañ livioù ar reizhiad">
 <!ENTITY  useSystemColors.accesskey       "r">
 
-<!ENTITY  underlineLinks.label            "Islinennañ an Ereoù ">
+<!ENTITY  underlineLinks.label            "Islinennañ an Ereoù">
 <!ENTITY  underlineLinks.accesskey        "I">
 <!ENTITY  links                           "Livioù an ereoù">
 <!ENTITY  linkColor2.label                "Ereoù diweladennet">
