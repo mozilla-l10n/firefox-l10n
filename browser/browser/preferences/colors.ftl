@@ -11,6 +11,8 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override = Zamenjaj barve, ki jih določa stran, z zgornjimi izbirami
+    .accesskey = Z
 colors-page-override-option-always =
     .label = Vedno
 colors-page-override-option-auto =
