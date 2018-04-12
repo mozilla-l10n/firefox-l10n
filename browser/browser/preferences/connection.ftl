@@ -4,6 +4,9 @@
 
 connection-close-key =
     .key = w
+connection-proxy-option-no =
+    .label = Akukho proksi
+    .accesskey = A
 connection-proxy-option-system =
     .label = Sebenzisa iisethingi zeproksi yekhompyutha
     .accesskey = S
