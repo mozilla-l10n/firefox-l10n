@@ -7,7 +7,11 @@
 
 <!ENTITY newPref.namePlaceholder       "Muul">
 
+<!ENTITY newPref.valueBoolean          "Ñubñu wiiy">
+<!ENTITY newPref.valueString           "Cadeen">
+<!ENTITY newPref.valueInteger          "Paayt">
 
+<!ENTITY newPref.stringPlaceholder     "Maat ñulch chpaach">
 
 <!ENTITY newPref.cancelButton          "tubspach">
 
