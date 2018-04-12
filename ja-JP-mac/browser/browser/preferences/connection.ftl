@@ -13,6 +13,7 @@ connection-close-key =
     .key = w
 connection-disable-extension =
     .label = 拡張機能を無効化
+connection-proxy-configure = インターネット接続に使用するプロキシの設定
 connection-proxy-option-no =
     .label = プロキシを使用しない
     .accesskey = y
