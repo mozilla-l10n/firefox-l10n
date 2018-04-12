@@ -11,6 +11,12 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override-option-always =
+    .label = Luôn luôn
+colors-page-override-option-auto =
+    .label = Chỉ trong các diện mạo có độ tương phản cao
+colors-page-override-option-never =
+    .label = Không bao giờ
 colors-text-and-background = Văn bản và Nền
 colors-use-system =
     .label = Dùng màu sắc của hệ thống
