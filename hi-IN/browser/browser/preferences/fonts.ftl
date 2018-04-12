@@ -41,6 +41,8 @@ fonts-langgroup-tamil =
     .label = तमिल
 fonts-langgroup-telugu =
     .label = तेलुगु
+fonts-langgroup-tibetan =
+    .label = तिब्बती
 fonts-langgroup-canadian =
     .label = यूनीफ़ाइल कैनाडियन सिलबरी
 
