@@ -11,6 +11,8 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override = उपरोक्त आपल्या निवडींसह पृष्ठद्वारे निर्दिष्ट रंग अधिलिखित करा
+    .accesskey = O
 colors-page-override-option-always =
     .label = नेहमी
 colors-page-override-option-auto =
