@@ -5,10 +5,22 @@
 
 ## Settings
 
+site-data-search-textbox =
+    .placeholder = ওয়েবসাইটের অনুসন্ধান করুন
+    .accesskey = S
 site-data-column-host =
     .label = সাইট
 site-data-column-storage =
     .label = সংগ্রহশালা
+site-data-remove-selected =
+    .label = নির্বাচন করা অপসরণ করুন
+    .accesskey = r
+site-data-button-cancel =
+    .label = বাতিল
+    .accesskey = C
+site-data-button-save =
+    .label = পরিবর্তন সংরক্ষণ করুন
+    .accesskey = a
 
 ## Removing
 
