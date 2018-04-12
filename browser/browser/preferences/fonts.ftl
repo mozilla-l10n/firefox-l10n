@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = Шрыфты для
+    .accesskey = Ш
 fonts-langgroup-arabic =
     .label = Арабская
 fonts-langgroup-armenian =
@@ -71,10 +73,24 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Прапарцыйны
+    .accesskey = П
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+fonts-proportional-size = Памер
+    .accesskey = П
+fonts-serif = З засечкамі
+    .accesskey = З
+fonts-sans-serif = Без засечак
+    .accesskey = е
+fonts-monospace = Роўнашырокі
+    .accesskey = Р
+fonts-monospace-size = Памер
+    .accesskey = е
+fonts-minsize = Найменшы памер шрыфту
+    .accesskey = а
 fonts-minsize-none =
     .label = Няма
 fonts-allow-own =
@@ -88,6 +104,8 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Кадаванне тэксту для спадчыннага змесціва
 fonts-languages-fallback-desc = Гэта кадаванне тэксту будзе выкарыстана для змесціва, у якім не пазначана кадаванне.
+fonts-languages-fallback-label = Запасное кадаванне тэксту
+    .accesskey = т
 fonts-languages-fallback-name-auto =
     .label = Прадвызначана для гэтай мясцовасці
 fonts-languages-fallback-name-arabic =
