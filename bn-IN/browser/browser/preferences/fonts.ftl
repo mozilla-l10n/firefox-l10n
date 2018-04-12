@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = ফন্ট হল
+    .accesskey = F
 fonts-langgroup-arabic =
     .label = আরবি
 fonts-langgroup-armenian =
@@ -71,12 +73,29 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = আনুপাতিক
+    .accesskey = P
 fonts-default-serif =
     .label = সেরিফ (Serif)
 fonts-default-sans-serif =
     .label = সান্স-সেরিফ (Sans Serif)
+fonts-proportional-size = আকার
+    .accesskey = z
+fonts-serif = সেরিফ
+    .accesskey = S
+fonts-sans-serif = সান্স-সেরিফ
+    .accesskey = n
+fonts-monospace = মোনোস্পেস
+    .accesskey = M
+fonts-monospace-size = আকার
+    .accesskey = e
+fonts-minsize = ফন্টের সর্বনিম্ন আকার
+    .accesskey = o
 fonts-minsize-none =
     .label = শূণ্য
+fonts-allow-own =
+    .label = উপরে আপনার উল্লিখিত নির্বাচন উপেক্ষা করে পেজগুলির দ্বারা ব্যবহারযোগ্য ফন্ট নির্বাচনের অনুমতি প্রদান করা হবে
+    .accesskey = A
 
 ## Text Encodings
 ##
@@ -85,6 +104,8 @@ fonts-minsize-none =
 
 fonts-languages-fallback-header = লিগ্যাসি সামগ্রীর জন্য ক্যারেক্টার এনকোডিং
 fonts-languages-fallback-desc = এই অক্ষর এনকোডিং সেই সমস্ত লিগ্যাসি বিষয়বস্তুর জন্য ব্যবহার করা হয় যেগুলি নিজেদের এনকোডিং সম্বন্ধিয় তথ্য ঘোষণা করতে ব্যর্থ হয়।
+fonts-languages-fallback-label = ফলব্যাক টেক্সট এনকোডিং
+    .accesskey = T
 fonts-languages-fallback-name-auto =
     .label = বর্তমান ডিফল্ট লোকেল
 fonts-languages-fallback-name-arabic =
