@@ -26,3 +26,7 @@ connection-proxy-noproxy-desc = උදාහරණ: .mozilla.org, .net.nz, 192.1
 connection-proxy-reload =
     .label = යළි පූරණය
     .accesskey = e
+connection-proxy-autologin =
+    .label = මුරපදය සුරැක පවතී නම් සත්‍යාපනයට පොරොත්තු නොකරන්න
+    .accesskey = i
+    .tooltip = ඔබ තොරතුරු සුරැක ඇති විට මෙම අභිප්‍රේතය නිහඬව ඔබ ප්‍රොක්සි වෙත සත්‍යාපනය කරයි. සත්‍යාපනය අසාර්ථක නම් ඔබෙන් විමසනු ඇත.
