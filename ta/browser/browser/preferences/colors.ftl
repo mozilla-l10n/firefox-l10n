@@ -11,8 +11,17 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override-option-always =
+    .label = எப்போதும்
+colors-page-override-option-auto =
+    .label = உயரிய தொற்றக்கருக்களுடன் மட்டுமே
+colors-page-override-option-never =
+    .label = ஒரு போதும் இல்லை
 colors-text-and-background = உரை மற்றும் பின்னணி
 colors-use-system =
     .label = கணினி நிறங்களை பயன்படுத்து
     .accesskey = s
+colors-underline-links =
+    .label = அடிக்கோடு தொடுப்புகள்
+    .accesskey = U
 colors-links-header = இணைப்பு நிறங்கள்
