@@ -8,8 +8,12 @@
 site-data-search-textbox =
     .placeholder = వెబ్‌సైట్లను వెతకండి
     .accesskey = S
+site-data-column-host =
+    .label = సైటు
 site-data-column-cookies =
     .label = కుకీలు
+site-data-column-storage =
+    .label = నిల్వ
 site-data-column-last-used =
     .label = చివరి వాడుక
 site-data-remove-selected =
