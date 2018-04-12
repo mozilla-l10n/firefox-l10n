@@ -212,7 +212,7 @@ applications-type-column =
 applications-action-column =
     .label = Açion
     .accesskey = A
-drm-content-header = Contenguo da Gestion di Diritti Digitali (DRM)
+drm-content-header = Contegnuo da Gestion di Diritti Digitali (DRM)
 play-drm-content =
     .label = Riproduxi o contegnuo DRM-controlled
     .accesskey = R
@@ -254,7 +254,7 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Limite de contegnuo do processo
     .accesskey = l
 performance-limit-content-process-enabled-desc = Deuviâ ciù contegnui do processo o peu megiorâ e prestaçioin quande ti deuvi tanti feuggi insemme, ma te faiâ stragiâ ciù memöia.
-performance-limit-content-process-disabled-desc = Cangiâ o numero de cntegnui de processo o l'é poscibile solo in { -brand-short-name } moltiprocesso. <a>Amia comme controlâ se o moltiprocesso o l'é ativo</a>
+performance-limit-content-process-disabled-desc = Cangiâ o numero de contegnui de processo o l'é poscibile solo in { -brand-short-name } moltiprocesso. <a>Amia comme controlâ se o moltiprocesso o l'é ativo</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -655,7 +655,7 @@ collection-backlogged-crash-reports-link = Atre informaçioin
 security-header = Seguessa
 security-browsing-protection = Proteçion contra o conegnuo inganevole e pericoloso
 security-enable-safe-browsing =
-    .label = Blòcca contegui grammi pericolozi
+    .label = Blòcca contegnui grammi pericolozi
     .accesskey = B
 security-enable-safe-browsing-link = Atre informaçioin
 security-block-downloads =

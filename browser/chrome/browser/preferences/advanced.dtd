@@ -146,8 +146,8 @@ available. -->
                                          "Azonze contegnuo de processo o peu megiorâ e prestaçioin quande ti deuvi tanti feuggi ma te piggia ciù memöia.">
 <!ENTITY limitContentProcessOption.accesskey   "L">
 <!ENTITY limitContentProcessOption.disabledDescription
-                                         "Se peu cangiâ o limite de numero de contegnui de processo solo se ti gh'æ o &brandShortName; moltiprocesso.">
+                                         "Cangiâ o numero de contegnui de processo o l'é poscibile solo in &brandShortName; moltiprocesso.">
 <!ENTITY limitContentProcessOption.disabledDescriptionLink
-                                         "Amia comme se fâ a vedde se o moltiprocesso o l'é abilitou">
+                                         "Amia comme controlâ se o moltiprocesso o l'é ativo">
 <!ENTITY allowHWAccel.label              "Adeuvia l'aceleraçion hardware se a gh'é">
 <!ENTITY allowHWAccel.accesskey          "h">
