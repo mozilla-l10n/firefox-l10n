@@ -9,6 +9,8 @@ connection-window =
             [macos] width: 44em
            *[other] width: 49em
         }
+connection-close-key =
+    .key = w
 connection-disable-extension =
     .label = ပေါင်းထည့်တိုးချဲ့မှု ပိတ်ရန်
 connection-proxy-option-no =
