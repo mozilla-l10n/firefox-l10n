@@ -2,8 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+languages-window =
+    .title = Idiomas
+    .style = width: 30em
 languages-close-key =
     .key = w
+languages-description = Por vezes, as páginas web são oferecidas em mais do que um idioma. Escolha idiomas para mostrar estas páginas web, por ordem de preferência
+languages-customize-spoof-english =
+    .label = Solicitar versões de páginas web em Inglês para privacidade melhorada
 languages-customize-moveup =
     .label = Mover para cima
     .accesskey = c
