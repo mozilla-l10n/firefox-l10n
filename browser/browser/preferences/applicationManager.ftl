@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+app-manager-handle-webfeeds = Les applications suivantes peuvent être utilisées pour Flux web.
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Les applications suivantes peuvent être utilisées pour Liens { $type }.
@@ -12,3 +13,5 @@ app-manager-handle-file = Les applications suivantes peuvent être utilisées po
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.
 
+app-manager-web-app-info = Cette application web est hébergée par :
+app-manager-local-app-info = L’emplacement de cette application est :
