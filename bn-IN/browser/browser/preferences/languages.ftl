@@ -7,6 +7,7 @@ languages-window =
     .style = width: 30em
 languages-close-key =
     .key = w
+languages-description = অনেক ক্ষেত্রে ওয়েব-পেজগুলি একাধিক ভাষায় প্রদর্শিত হয়। ওয়েব-পেজ প্রদর্শনের জন্য ব্যবহৃত ভাষা আপনার পছন্দ অনুসারে নির্বাচন করুন
 languages-customize-moveup =
     .label = উপরে স্থানান্তর
     .accesskey = U
