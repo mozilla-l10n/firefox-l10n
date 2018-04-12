@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+permissions-window =
+    .title = Výnimky
+    .style = width: 45em
 permissions-close-key =
     .key = w
 permissions-block =
@@ -15,3 +18,9 @@ permissions-allow =
     .accesskey = P
 permissions-status =
     .label = Stav
+permissions-button-cancel =
+    .label = Zrušiť
+    .accesskey = Z
+permissions-button-ok =
+    .label = Uložiť zmeny
+    .accesskey = U
