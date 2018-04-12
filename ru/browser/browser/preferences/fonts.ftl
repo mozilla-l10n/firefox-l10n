@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = Шрифты для
+    .accesskey = ф
 fonts-langgroup-arabic =
     .label = Арабского
 fonts-langgroup-armenian =
@@ -71,12 +73,22 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Пропорциональный
+    .accesskey = р
 fonts-default-serif =
     .label = С засечками
 fonts-default-sans-serif =
     .label = Без засечек
+fonts-proportional-size = Размер
+    .accesskey = з
+fonts-serif = С засечками
+    .accesskey = а
+fonts-sans-serif = Без засечек
+    .accesskey = е
 fonts-monospace = Моноширинный
     .accesskey = ш
+fonts-monospace-size = Размер
+    .accesskey = м
 fonts-minsize = Наименьший размер шрифта
     .accesskey = и
 fonts-minsize-none =
