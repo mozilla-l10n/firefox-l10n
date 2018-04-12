@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = Skrifttyper for
+    .accesskey = f
 fonts-langgroup-arabic =
     .label = Arabisk
 fonts-langgroup-armenian =
@@ -52,6 +54,8 @@ fonts-langgroup-malayalam =
     .label = Malayalam
 fonts-langgroup-math =
     .label = Matematikk
+fonts-langgroup-odia =
+    .label = Oriya
 fonts-langgroup-sinhala =
     .label = Singalesisk
 fonts-langgroup-tamil =
@@ -69,10 +73,24 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Proporsjonal
+    .accesskey = P
 fonts-default-serif =
     .label = Seriffskrift
 fonts-default-sans-serif =
     .label = Seriffløs skrift
+fonts-proportional-size = Størrelse
+    .accesskey = r
+fonts-serif = Seriff
+    .accesskey = S
+fonts-sans-serif = Sans-serif
+    .accesskey = n
+fonts-monospace = Fast bredde
+    .accesskey = a
+fonts-monospace-size = Størrelse
+    .accesskey = e
+fonts-minsize = Minste skriftstørrelse
+    .accesskey = s
 fonts-minsize-none =
     .label = Ingen
 fonts-allow-own =
@@ -86,6 +104,8 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Tegnkoding for eldre innhold
 fonts-languages-fallback-desc = Denne tegnkodingen brukes for eldre innhold som ikke oppgir hvilken tegnkoding som benyttes.
+fonts-languages-fallback-label = Reserve-tegnkoding
+    .accesskey = t
 fonts-languages-fallback-name-auto =
     .label = Standard for gjeldende språk
 fonts-languages-fallback-name-arabic =
