@@ -202,7 +202,7 @@ history-clear-on-close-option =
     .label = हिता़ल फारचाय मेतिन रे  { -brand-short-name } बोंदो आ (r )
     .accesskey = r
 history-clear-on-close-settings =
-    .label = { " " }साजाव को(t)…
+    .label = साजाव को(t)…
     .accesskey = t
 
 ## Privacy Section - Site Data
