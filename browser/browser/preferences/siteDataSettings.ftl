@@ -5,13 +5,19 @@
 
 ## Settings
 
+site-data-settings-window =
+    .title = Կառավարել Cookie-ները և կայքի տվյալները
 site-data-search-textbox =
     .placeholder = Որոնել կայքեր
     .accesskey = S
 site-data-column-host =
     .label = Կայքը
+site-data-column-cookies =
+    .label = Cookie-ներ
 site-data-column-storage =
     .label = Պահեստը
+site-data-column-last-used =
+    .label = Վերջինը
 site-data-remove-selected =
     .label = Հեռացնել ընտրվածը
     .accesskey = Հ
@@ -26,3 +32,6 @@ site-data-button-save =
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-header = Cookie-ների և կայքի տվյալների ջնջում
+site-data-removing-desc = Cookie-ների և կայքի տվյալների ջնջումը կարող է ձեզ դուրս բերել կայքերից: Կատարե՞լ:
+site-data-removing-table = Cookie-ների և կայքերի տվյալները հետևյալ կայքերի համար կջնջվեն:
