@@ -5,6 +5,8 @@
 languages-window =
     .title = Језици
     .style = width: 30em
+languages-close-key =
+    .key = w
 languages-customize-moveup =
     .label = На горе
     .accesskey = г
@@ -14,3 +16,8 @@ languages-customize-movedown =
 languages-customize-remove =
     .label = Уклони
     .accesskey = У
+languages-customize-select-language =
+    .placeholder = Избор језика за додавање…
+languages-customize-add =
+    .label = Додај
+    .accesskey = ј
