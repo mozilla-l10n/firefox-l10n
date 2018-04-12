@@ -37,13 +37,11 @@ search-input-box =
             [windows] Szukaj w opcjach
            *[other] Szukaj w preferencjach
         }
-
 policies-notice =
-  { PLATFORM() ->
-    [windows] Administrator zablokował możliwość zmiany niektórych opcji
-    *[other] Administrator zablokował możliwość zmiany niektórych ustawień
-  }
-
+    { PLATFORM() ->
+        [windows] Administrator zablokował możliwość zmiany niektórych opcji
+       *[other] Administrator zablokował możliwość zmiany niektórych ustawień
+    }
 pane-general-title = Ogólne
 category-general =
     .tooltiptext = { pane-general-title }
@@ -69,7 +67,7 @@ feature-enable-requires-restart = Konieczne jest ponowne uruchomienie programu {
 feature-disable-requires-restart = Konieczne jest ponowne uruchomienie programu { -brand-short-name }, aby wyłączyć tę funkcję.
 should-restart-title = Ponowne uruchamianie programu { -brand-short-name }
 should-restart-ok = Uruchom ponownie
-cancel-no-restart-button=Anuluj
+cancel-no-restart-button = Anuluj
 restart-later = Później
 
 ## Preferences UI Search Results
@@ -245,7 +243,7 @@ update-enable-search-update =
 
 performance-title = Wydajność
 performance-use-recommended-settings-checkbox =
-    .label=Zalecane ustawienia wydajności.
+    .label = Zalecane ustawienia wydajności.
     .accesskey = w
 performance-use-recommended-settings-desc = Ustawienia te są specjalnie dostosowane do specyfikacji tego komputera i systemu operacyjnego.
 performance-settings-learn-more = Więcej informacji
@@ -388,7 +386,7 @@ sync-disconnect =
 sync-manage-account = Zarządzaj kontem
     .accesskey = Z
 sync-signedin-unverified = Konto { $email } nie zostało zweryfikowane.
-sync-signedin-login-failure=Zaloguj się, aby ponownie połączyć konto { $email }
+sync-signedin-login-failure = Zaloguj się, aby ponownie połączyć konto { $email }
 sync-resend-verification =
     .label = Wyślij nową wiadomość weryfikującą
     .accesskey = W
@@ -472,6 +470,7 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Historia
+history-remember-description = { -brand-short-name } zachowa historię przeglądania, wyszukiwania, pobieranych plików i danych formularzy.
 history-dontremember-description = Program { -brand-short-name } będzie używał tych samych ustawień co w trybie prywatnym i nie będzie zachowywał historii podczas przeglądania witryn WWW.
 history-private-browsing-permanent =
     .label = Zawsze aktywny tryb przeglądania prywatnego
@@ -488,12 +487,24 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Ustawienia…
     .accesskey = U
+history-clear-button =
+    .label = Wyczyść historię…
+    .accesskey = { "" }
 
 ## Privacy Section - Site Data
 
+sitedata-header = Ciasteczka i dane stron
 sitedata-learn-more = Więcej informacji
+sitedata-accept-cookies-option =
+    .label = Akceptowanie ciasteczek i danych stron (zalecane)
+    .accesskey = { "" }
+sitedata-block-cookies-option =
+    .label = Blokowanie ciasteczek i danych stron (może powodować problemy)
+    .accesskey = { "" }
 sitedata-keep-until = Przechowywanie ciasteczek:
     .accesskey = h
+sitedata-accept-third-party-desc = Akceptowanie ciasteczek i danych stron witryn zewnętrznych podmiotów:
+    .accesskey = { "" }
 sitedata-accept-third-party-always-option =
     .label = zawsze
 sitedata-accept-third-party-visited-option =
@@ -503,6 +514,9 @@ sitedata-accept-third-party-never-option =
 sitedata-clear =
     .label = Wyczyść dane
     .accesskey = a
+sitedata-settings =
+    .label = Zachowane dane…
+    .accesskey = { "" }
 sitedata-cookies-exceptions =
     .label = Wyjątki…
     .accesskey = W
@@ -525,7 +539,7 @@ addressbar-suggestions-settings = Zmień ustawienia podpowiedzi dostarczanych pr
 ## Privacy Section - Tracking
 
 tracking-header = Ochrona przed śledzeniem
-tracking-description=Ochrona przed śledzeniem blokuje elementy, które zbierają informacje o przeglądaniu na wielu różnych stronach. <a>Więcej informacji o ochronie przed śledzeniem i prywatności</a>.
+tracking-description = Ochrona przed śledzeniem blokuje elementy, które zbierają informacje o przeglądaniu na wielu różnych stronach. <a>Więcej informacji o ochronie przed śledzeniem i prywatności</a>.
 tracking-mode-label = Chroń przed śledzeniem przez znane elementy śledzące:
 tracking-mode-always =
     .label = Zawsze
