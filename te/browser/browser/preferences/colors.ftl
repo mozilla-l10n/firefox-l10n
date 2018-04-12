@@ -11,5 +11,12 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override-option-auto =
+    .label = అధిక కాంట్రాస్ట్ థీములకు మాత్రమే
+colors-page-override-option-never =
+    .label = ఎప్పటికీ కాదు
 colors-text-and-background = పాఠ్యము మరియు బ్యాక‌గ్రౌండ్
+colors-underline-links =
+    .label = లింక్‌ల‌కు కిందిగీత
+    .accesskey = U
 colors-links-header = లింకు రంగులు
