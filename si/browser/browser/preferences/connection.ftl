@@ -11,6 +11,8 @@ connection-window =
         }
 connection-close-key =
     .key = w
+connection-disable-extension =
+    .label = දිගු ක්‍රියා විරහිත කරන්න
 connection-proxy-option-no =
     .label = ප්‍රොක්සි නැත
     .accesskey = y
