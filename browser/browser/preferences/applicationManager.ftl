@@ -19,4 +19,5 @@ app-manager-handle-file = Les aplicacions següents poden utilitzar-se per gesti
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.
 
+app-manager-web-app-info = Aquesta aplicació web s'hostatja a:
 app-manager-local-app-info = L'aplicació es troba a:
