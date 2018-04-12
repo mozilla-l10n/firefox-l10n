@@ -5,13 +5,19 @@
 
 ## Settings
 
+site-data-settings-window =
+    .title = Gestiona les galetes i les dades dels llocs
 site-data-search-textbox =
     .placeholder = Cerca llocs web
     .accesskey = r
 site-data-column-host =
     .label = Lloc
+site-data-column-cookies =
+    .label = Galetes
 site-data-column-storage =
     .label = Emmagatzematge
+site-data-column-last-used =
+    .label = Darrer ús
 site-data-remove-selected =
     .label = Elimina la selecció
     .accesskey = l
