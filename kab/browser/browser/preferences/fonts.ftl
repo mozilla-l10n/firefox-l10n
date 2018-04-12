@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = Tisefsiyin i
+    .accesskey = S
 fonts-langgroup-arabic =
     .label = Taɛrabt
 fonts-langgroup-armenian =
@@ -69,10 +71,20 @@ fonts-langgroup-canadian =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Aẓunan
+    .accesskey = D
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans serif
+fonts-serif = Serif
+    .accesskey = T
+fonts-sans-serif = Sans-serif
+    .accesskey = l
+fonts-monospace = Tehri tusbuṭ
+    .accesskey = F
+fonts-minsize = Teɣzi taddayt n tsefsit
+    .accesskey = w
 fonts-minsize-none =
     .label = Ulac
 fonts-allow-own =
@@ -85,6 +97,8 @@ fonts-allow-own =
 ## of the language.
 
 fonts-languages-fallback-header = Asettengel n uḍris i ugbur aqbuṛ
+fonts-languages-fallback-label = Asettengel n uḍris n ufran aneggaru
+    .accesskey = M
 fonts-languages-fallback-name-auto =
     .label = Azal amezwer i tutlayt tadigant
 fonts-languages-fallback-name-arabic =
