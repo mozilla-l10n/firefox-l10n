@@ -4,6 +4,9 @@
 
 permissions-close-key =
     .key = w
+permissions-block =
+    .label = Boloke
+    .accesskey = B
 permissions-session =
     .label = Maye ngir sesiyoŋ bi
     .accesskey = s
