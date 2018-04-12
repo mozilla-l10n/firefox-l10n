@@ -5,6 +5,9 @@
 connection-proxy-option-no =
     .label = Proxy இல்லை
     .accesskey = y
+connection-proxy-option-system =
+    .label = கணினியின் Proxy அமைப்பைப் பயன்படுத்துக
+    .accesskey = U
 connection-proxy-option-auto =
     .label = வலையமைப்பிற்கான Proxy இனை தன்னிச்சையாக கண்டறிக
     .accesskey = w
