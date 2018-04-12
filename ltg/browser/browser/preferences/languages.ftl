@@ -7,6 +7,7 @@ languages-window =
     .style = width: 30em
 languages-close-key =
     .key = w
+languages-description = Šķārsteikla lopyspuse dažreiz tīk pīduovuotys vairuokuos volūduos. Izavieleit itū šķārsteikla lopyspušu ruodeišonys volūdu izvieles kuorteibu
 languages-customize-moveup =
     .label = Puorvītuot iz augšu
     .accesskey = a
