@@ -4,6 +4,8 @@
 
 fonts-window =
     .title = Үсгийн маяг
+fonts-window-close =
+    .key = w
 
 ## Font groups by language
 
@@ -39,6 +41,8 @@ fonts-langgroup-tamil =
     .label = Tamil
 fonts-langgroup-telugu =
     .label = Тэлүгү
+fonts-langgroup-tibetan =
+    .label = Tibetan
 fonts-langgroup-canadian =
     .label = Unified Canadian Syllabary
 
