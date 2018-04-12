@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = Poliças per
+    .accesskey = P
 fonts-langgroup-arabic =
     .label = Arabi
 fonts-langgroup-armenian =
@@ -50,6 +52,10 @@ fonts-langgroup-latin =
     .label = Latin
 fonts-langgroup-malayalam =
     .label = Malayalam
+fonts-langgroup-math =
+    .label = Matematicas
+fonts-langgroup-odia =
+    .label = Odia
 fonts-langgroup-sinhala =
     .label = Sinhala
 fonts-langgroup-tamil =
@@ -67,12 +73,29 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Proporcionala
+    .accesskey = P
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+fonts-proportional-size = Talha
+    .accesskey = T
+fonts-serif = Serif
+    .accesskey = S
+fonts-sans-serif = Sens-serif
+    .accesskey = n
+fonts-monospace = Largor fixa
+    .accesskey = F
+fonts-monospace-size = Talha
+    .accesskey = e
+fonts-minsize = Talha minimala de la poliça
+    .accesskey = o
 fonts-minsize-none =
     .label = Pas cap
+fonts-allow-own =
+    .label = Autorizar las paginas de causir lors poliças, puslèu que las seleccions precedentas
+    .accesskey = A
 
 ## Text Encodings
 ##
@@ -81,6 +104,8 @@ fonts-minsize-none =
 
 fonts-languages-fallback-header = Encodatge del tèxte pel contengut obsolèt
 fonts-languages-fallback-desc = Aqueste encodatge del tèxte es utilizat pel contengut obsolèt que declara pas corrèctament son encodatge.
+fonts-languages-fallback-label = Encodatge de tèxte de remplaçament
+    .accesskey = T
 fonts-languages-fallback-name-auto =
     .label = Valor per defaut per la lenga correnta
 fonts-languages-fallback-name-arabic =
