@@ -11,6 +11,8 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override = Gainidatzi orriak zehaztutako koloreak goiko hautapenekin
+    .accesskey = G
 colors-page-override-option-always =
     .label = Beti
 colors-page-override-option-auto =
