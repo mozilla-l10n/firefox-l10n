@@ -41,6 +41,8 @@ fonts-langgroup-tamil =
     .label = Tamilski
 fonts-langgroup-telugu =
     .label = Telugu
+fonts-langgroup-tibetan =
+    .label = Tibetski
 fonts-langgroup-canadian =
     .label = Unificirani kanadski sibararij
 
