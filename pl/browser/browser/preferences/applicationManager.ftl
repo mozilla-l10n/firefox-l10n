@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+app-manager-window =
+    .title = Szczegóły aplikacji
+    .style = width: 32em; min-height: 20em;
 app-manager-handle-webfeeds = Do obsługi kanałów informacyjnych można użyć następujących aplikacji:
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
@@ -13,4 +16,5 @@ app-manager-handle-file = Do obsługi treści { $type } można użyć następuj�
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.
 
+app-manager-web-app-info = Ta aplikacja internetowa pochodzi z serwera:
 app-manager-local-app-info = Ta aplikacja znajduje się w:
