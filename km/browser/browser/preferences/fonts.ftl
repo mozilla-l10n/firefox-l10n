@@ -77,6 +77,9 @@ fonts-default-sans-serif =
     .label = Sans Serif
 fonts-minsize-none =
     .label = គ្មាន
+fonts-allow-own =
+    .label = អនុញ្ញាត​ឲ្យ​ទំព័រ​ជ្រើសរើស​ពុម្ពអក្សរ​​ដោយ​ខ្លួន​ឯង ជំនួស​ឲ្យ​​​ពុម្ព​អក្សរ​ដែល​អ្នក​ជ្រើសរើស​ខាង​លើ
+    .accesskey = A
 
 ## Text Encodings
 ##
