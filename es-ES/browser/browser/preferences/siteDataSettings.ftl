@@ -5,6 +5,8 @@
 
 ## Settings
 
+site-data-settings-window =
+    .title = Administrar las cookies y datos del sitio
 site-data-search-textbox =
     .placeholder = Buscar sitios web
     .accesskey = B
@@ -30,3 +32,6 @@ site-data-button-save =
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-header = Eliminando cookies y datos del sitio
+site-data-removing-desc = Si elimina las cookies y datos de los sitios, puede que se cierre sesión en las webs. ¿Seguro que quiere hacer estos cambios?
+site-data-removing-table = Se eliminarán las cookies y datos de los siguientes sitios web
