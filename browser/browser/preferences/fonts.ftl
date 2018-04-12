@@ -39,6 +39,8 @@ fonts-langgroup-tamil =
     .label = ତାମିଲ
 fonts-langgroup-telugu =
     .label = ତେଲୁଗୁ
+fonts-langgroup-canadian =
+    .label = ଏକତ୍ରିତ କାନାଡିଆନ  ଅକ୍ଷରମାଳା
 
 ## Default fonts and their sizes
 
