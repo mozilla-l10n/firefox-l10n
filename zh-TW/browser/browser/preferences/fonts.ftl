@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = 對應此種語言
+    .accesskey = F
 fonts-langgroup-arabic =
     .label = 阿拉伯文
 fonts-langgroup-armenian =
@@ -66,15 +68,34 @@ fonts-langgroup-tibetan =
     .label = 藏文
 fonts-langgroup-canadian =
     .label = 加拿大統一音節字
+fonts-langgroup-other =
+    .label = 其他文字系統
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = 比例字型
+    .accesskey = P
 fonts-default-serif =
     .label = 襯線字型 (Serif)
 fonts-default-sans-serif =
     .label = 無襯線字型 (Sans Serif)
+fonts-proportional-size = 大小
+    .accesskey = z
+fonts-serif = 襯線字型
+    .accesskey = S
+fonts-sans-serif = 無襯線字型
+    .accesskey = n
+fonts-monospace = 等寬字型
+    .accesskey = M
+fonts-monospace-size = 大小
+    .accesskey = e
+fonts-minsize = 最小字型大小
+    .accesskey = o
 fonts-minsize-none =
     .label = 無
+fonts-allow-own =
+    .label = 忽略您上面的選擇，優先使用頁面指定的字型
+    .accesskey = A
 
 ## Text Encodings
 ##
@@ -83,6 +104,8 @@ fonts-minsize-none =
 
 fonts-languages-fallback-header = 開啟老舊內容時使用的文字編碼
 fonts-languages-fallback-desc = 將會使用此編碼來開啟未正確宣告其編碼的老舊內容。
+fonts-languages-fallback-label = 備用字元編碼
+    .accesskey = T
 fonts-languages-fallback-name-auto =
     .label = 目前語系的預設值
 fonts-languages-fallback-name-arabic =
