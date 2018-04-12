@@ -5,6 +5,9 @@
 
 ## Settings
 
+site-data-search-textbox =
+    .placeholder = Chwilio gwefannau
+    .accesskey = C
 site-data-column-host =
     .label = Gwefan
 site-data-column-storage =
