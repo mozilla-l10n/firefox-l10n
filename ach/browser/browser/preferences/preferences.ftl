@@ -280,7 +280,6 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Dirica ki dirica matino manyen
-home-new-windows-tabs-description = Yer ngo ma ineno ka iyabo potbuk me acakki mamegi, dirica manyen, ki dirica matino manyen
 
 ## Home Section - Home Page Customization
 
