@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+connection-window =
+    .title = Tilkoplingsinnstillingar
+    .style =
+        { PLATFORM() ->
+            [macos] width: 44em
+           *[other] width: 49em
+        }
 connection-close-key =
     .key = w
 connection-proxy-option-auto =
@@ -17,3 +24,6 @@ connection-proxy-noproxy-desc = Døme: .mozilla.org, .online.no, 192.168.1.0/24
 connection-proxy-reload =
     .label = Oppdater
     .accesskey = O
+connection-proxy-socks-remote-dns =
+    .label = Proxy DNS når du brukar SOCKS v5
+    .accesskey = d
