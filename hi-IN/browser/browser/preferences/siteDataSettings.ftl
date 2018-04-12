@@ -5,10 +5,22 @@
 
 ## Settings
 
+site-data-search-textbox =
+    .placeholder = वेबसाइट खोजें
+    .accesskey = S
 site-data-column-host =
     .label = साइट
 site-data-column-storage =
     .label = भंडारण
+site-data-remove-selected =
+    .label = चयनित हटाएँ
+    .accesskey = r
+site-data-button-cancel =
+    .label = रद्द करें
+    .accesskey = C
+site-data-button-save =
+    .label = परिवर्तन सहेजें
+    .accesskey = a
 
 ## Removing
 
