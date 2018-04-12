@@ -55,6 +55,8 @@ fonts-langgroup-telugu =
     .label = Telugu
 fonts-langgroup-thai =
     .label = Thailändisch
+fonts-langgroup-tibetan =
+    .label = Tibetisch
 fonts-langgroup-canadian =
     .label = Unified Canadian Syllabary
 
