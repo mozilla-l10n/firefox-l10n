@@ -11,6 +11,8 @@ connection-window =
         }
 connection-close-key =
     .key = w
+connection-disable-extension =
+    .label = Адключыць пашырэнне
 connection-proxy-configure = Наладзіць доступ да Інтэрнэту праз проксі
 connection-proxy-option-no =
     .label = Без проксі
