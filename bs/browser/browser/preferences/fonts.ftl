@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = Fontovi za
+    .accesskey = F
 fonts-langgroup-arabic =
     .label = Arapski
 fonts-langgroup-armenian =
@@ -71,10 +73,24 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Proporcionalno
+    .accesskey = P
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+fonts-proportional-size = Veličina
+    .accesskey = z
+fonts-serif = Serif
+    .accesskey = S
+fonts-sans-serif = Sans-serif
+    .accesskey = n
+fonts-monospace = Monospace
+    .accesskey = M
+fonts-monospace-size = Veličina
+    .accesskey = e
+fonts-minsize = Minimalna veličina fonta
+    .accesskey = o
 fonts-minsize-none =
     .label = Ništa
 fonts-allow-own =
@@ -88,6 +104,8 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Kodna stranica za zastarjeli sadržaj
 fonts-languages-fallback-desc = Ova kodna stranica se koristi za zastarjeli sadržaj, koji ne može definirati vlastitu kodnu stranicu.
+fonts-languages-fallback-label = Pomoćno enkodiranje teksta
+    .accesskey = T
 fonts-languages-fallback-name-auto =
     .label = Izvorno za trenutni jezik
 fonts-languages-fallback-name-arabic =
