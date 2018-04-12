@@ -8,5 +8,7 @@ languages-window =
 languages-close-key =
     .key = w
 languages-description = Niektóre strony WWW dostępne są w wielu wersjach językowych. Ustal listę kolejno preferowanych języków dla tego rodzaju stron.
+languages-customize-spoof-english =
+    .label = Żądanie angielskich wersji witryn, aby zwiększyć prywatność
 languages-customize-select-language =
     .placeholder = Wybierz język do dodania…
