@@ -49,6 +49,8 @@ fonts-langgroup-sinhala =
     .label = Sinhala
 fonts-langgroup-telugu =
     .label = Telugu
+fonts-langgroup-tibetan =
+    .label = Tibetaansk
 fonts-langgroup-canadian =
     .label = Kanadees Aboriginal skrift
 
