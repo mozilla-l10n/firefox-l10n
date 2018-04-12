@@ -11,6 +11,10 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override-option-always =
+    .label = Siempres
+colors-page-override-option-never =
+    .label = Enxamás
 colors-text-and-background = Testu y fondu
 colors-use-system =
     .label = Utilizar los colores del sistema
