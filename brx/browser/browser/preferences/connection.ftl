@@ -1,0 +1,32 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+connection-close-key =
+    .key = w
+connection-proxy-option-no =
+    .label = प्रक्सि गैया (y)
+    .accesskey = y
+connection-proxy-option-system =
+    .label = सिस्टेम प्रक्सि सेटिंखौ बाहाय (U)
+    .accesskey = U
+connection-proxy-option-auto =
+    .label = बे नेटवार्कनि थाखाय प्रक्सि सेटिंखौ गावआरि-संना दिहुन
+    .accesskey = w
+connection-proxy-http-share =
+    .label = गासै प्र'ट'कलनि थाखाय बे प्रक्सि सार्भारखौ बाहाय
+    .accesskey = s
+connection-proxy-socks4 =
+    .label = SOC KS v4
+    .accesskey = K
+connection-proxy-socks5 =
+    .label = SOCKS & v5
+    .accesskey = v
+connection-proxy-noproxy-desc = बिदिन्थि: .mozilla.org, .net.nz, 192.168.1.0/24
+connection-proxy-reload =
+    .label = फिन ल'ड खालाम (e)
+    .accesskey = e
+connection-proxy-autologin =
+    .label = पासवार्डखौ थिना दोनोब्ला थारफोरमाननि थाखाय थुलुंगा होनाङा
+    .accesskey = i
+    .tooltip = नोंथाङा फोथायथावखौ थिना दोननाय समाव बे उफ्राया नोंथांखौ प्रक्सिआव सिरियै थारफोरमान खालामो। थारफोरमानआ फेलें जायोब्ला नोंथांखौ थुलुंगा होनाय जागोन।
