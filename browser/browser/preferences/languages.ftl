@@ -7,6 +7,7 @@ languages-window =
     .style = width: 30em
 languages-close-key =
     .key = w
+languages-description = വെബ് പേജുകള്‍ ചിലപ്പോള്‍ ഒന്നിലേറെ ഭാ‍ഷകളില്‍ ലഭ്യമാവാറുണ്ട്. ഇവ ഏത് ക്രമത്തില്‍ കാണണം എന്നതനിനുസരിച്ച് ഭാഷകള്‍ തിര‍‍ഞ്ഞെടുക്കുക
 languages-customize-moveup =
     .label = മുകളിലേക്ക്‌ മാറ്റുക
     .accesskey = U
