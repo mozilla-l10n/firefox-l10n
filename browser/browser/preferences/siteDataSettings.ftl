@@ -5,13 +5,19 @@
 
 ## Settings
 
+site-data-settings-window =
+    .title = Gestionează cookie-urile și datele site-urilor
 site-data-search-textbox =
     .placeholder = Caută site-uri web
     .accesskey = S
 site-data-column-host =
     .label = Site
+site-data-column-cookies =
+    .label = Cookie-uri
 site-data-column-storage =
     .label = Stocare
+site-data-column-last-used =
+    .label = Ultima utilizare
 site-data-remove-selected =
     .label = Elimină selecția
     .accesskey = R
@@ -26,3 +32,6 @@ site-data-button-save =
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-header = Eliminarea cookie-urilor și a datelor site-urilor
+site-data-removing-desc = Eliminarea cookie-urilor și a datelor site-urilor te-ar putea deconecta de pe site-uri web. Sigur vrei să efectuezi schimbările?
+site-data-removing-table = Cookie-urile și datele site-urilor pentru următoarele site-uri web vor fi eliminate
