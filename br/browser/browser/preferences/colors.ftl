@@ -11,6 +11,8 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override = Eillec'hiañ al livioù erspizet war ar bajenn gant va diuzadoù a-us
+    .accesskey = E
 colors-page-override-option-always =
     .label = Atav
 colors-page-override-option-auto =
