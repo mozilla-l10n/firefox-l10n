@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = निम्नको लागि फन्ट्सहरू
+    .accesskey = F
 fonts-langgroup-arabic =
     .label = अरबी
 fonts-langgroup-armenian =
@@ -71,12 +73,29 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = समानुपातिक
+    .accesskey = P
 fonts-default-serif =
     .label = सेरिफ
 fonts-default-sans-serif =
     .label = सान सेरिफ
+fonts-proportional-size = आकार
+    .accesskey = z
+fonts-serif = सेरिफ
+    .accesskey = S
+fonts-sans-serif = सान-सेरिफ
+    .accesskey = n
+fonts-monospace = मोनोस्पेस
+    .accesskey = M
+fonts-monospace-size = आकार
+    .accesskey = e
+fonts-minsize = न्यूनतम अक्षर साइज
+    .accesskey = o
 fonts-minsize-none =
     .label = कुनै पनि होइन
+fonts-allow-own =
+    .label = तपाईको माथि उल्लिखित चयनहरूको सट्टामा आफ्नै फन्टहरू छनौट गर्न पृष्ठहरू लाई अनुमति दिनुहोस्
+    .accesskey = A
 
 ## Text Encodings
 ##
@@ -85,6 +104,8 @@ fonts-minsize-none =
 
 fonts-languages-fallback-header = पुरानो सामग्रीको लागि वर्ण संकेतन
 fonts-languages-fallback-desc = आफ्नो संकेतन देखाउन नसक्ने सामग्रीमा यो संकेतन प्रयोग गरिन्छ।
+fonts-languages-fallback-label = निवर्तमान र पाठ सङ्केतन
+    .accesskey = T
 fonts-languages-fallback-name-auto =
     .label = वर्तमान लोक्यालका लागि पूर्वनिर्धारित
 fonts-languages-fallback-name-arabic =
