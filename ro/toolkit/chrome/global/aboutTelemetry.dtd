@@ -31,21 +31,21 @@
 <!ENTITY aboutTelemetry.generalDataSection "Date generale">
 <!ENTITY aboutTelemetry.environmentDataSection "Date privind mediul">
 <!ENTITY aboutTelemetry.sessionInfoSection "Informații privind sesiunea">
-<!ENTITY aboutTelemetry.scalarsSection "Scalari">
-<!ENTITY aboutTelemetry.keyedScalarsSection "Scalari codificați">
+<!ENTITY aboutTelemetry.scalarsSection "Mărimi scalare">
+<!ENTITY aboutTelemetry.keyedScalarsSection "Mărimi scalare cu cuvinte cheie">
 <!ENTITY aboutTelemetry.histogramsSection "Histograme">
 <!ENTITY aboutTelemetry.keyedHistogramsSection "Histograme de chei">
 <!ENTITY aboutTelemetry.eventsSection "Evenimente">
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "Măsurători simple">
 <!ENTITY aboutTelemetry.telemetryLogSection "Jurnalul telemetriei">
 <!ENTITY aboutTelemetry.slowSqlSection "Declarații SQL lente">
-<!ENTITY aboutTelemetry.chromeHangsSection "Blocări ale browserului">
+<!ENTITY aboutTelemetry.chromeHangsSection "Blocările browserului">
 <!ENTITY aboutTelemetry.addonDetailsSection "Detalii privind suplimentele">
-<!ENTITY aboutTelemetry.capturedStacksSection "Stackuri capturate">
+<!ENTITY aboutTelemetry.capturedStacksSection "Stive capturate">
 <!ENTITY aboutTelemetry.lateWritesSection "Scrieri întârziate">
 <!ENTITY aboutTelemetry.rawPayloadSection "Încărcare utilă brută">
 <!ENTITY aboutTelemetry.raw "JSON brut">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "NOTĂ: Depanarea SQL lentă este activată. Șirurile SQL complete ar putea fi afișate mai jos, însă acestea nu vor fi transmise către Telemetrie.">
-<!ENTITY aboutTelemetry.fetchStackSymbols "Obține numele funcțiilor pentru stackuri">
-<!ENTITY aboutTelemetry.hideStackSymbols "Afișează datele brute ale stackurilor">
+<!ENTITY aboutTelemetry.fetchStackSymbols "Obține numele funcțiilor pentru stive">
+<!ENTITY aboutTelemetry.hideStackSymbols "Afișează datele brute ale stivelor">
