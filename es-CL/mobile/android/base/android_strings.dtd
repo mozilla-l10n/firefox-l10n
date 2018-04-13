@@ -422,7 +422,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "Reporte de salud de &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "Comparte datos con &vendorShortName; sobre la salud de tu navegador y te ayuda a entender el rendimiento del navegador">
-<!ENTITY datareporting_abouthr_title "Ver mi reporte de salud">
 <!ENTITY datareporting_telemetry_title "Telemetría">
 <!ENTITY datareporting_telemetry_summary "Comparte datos de rendimiento, uso, hardware y personalizaciones de tu navegador con &vendorShortName; para ayudarnos a mejorar &brandShortName;">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; envía informes de fallos a &vendorShortName; para hacer más estable y seguro al navegador">
@@ -484,7 +483,7 @@
 <!ENTITY media_stop "Detener">
 
 <!ENTITY contextmenu_open_new_tab "Abrir en una nueva pestaña">
-<!ENTITY contextmenu_open_private_tab "Abrir en nueva pestaña privada">
+<!ENTITY contextmenu_open_private_tab "Abrir en una nueva pestaña privada">
 <!ENTITY contextmenu_remove "Remover">
 <!ENTITY contextmenu_add_page_shortcut "Añadir acceso directo a la página">
 <!ENTITY contextmenu_set_as_homepage "Establecer como página de inicio">
