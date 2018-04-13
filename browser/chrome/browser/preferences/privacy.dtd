@@ -52,9 +52,9 @@
 
 <!ENTITY  acceptThirdParty3.pre.label     "Прихватај колачиће и податке од трећих лица">
 <!ENTITY  acceptThirdParty3.pre.accesskey "е">
-<!ENTITY  acceptThirdParty.always.label   "Увек">
-<!ENTITY  acceptThirdParty.never.label    "Никад">
-<!ENTITY  acceptThirdParty.visited.label  "Од посећених">
+<!ENTITY  acceptThirdParty.always.label   "увек">
+<!ENTITY  acceptThirdParty.never.label    "никад">
+<!ENTITY  acceptThirdParty.visited.label  "од посећених">
 
 <!ENTITY  keepUntil2.label              "Чувај док">
 <!ENTITY  keepUntil2.accesskey          "д">
