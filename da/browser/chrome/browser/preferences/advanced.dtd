@@ -40,7 +40,7 @@ available. -->
 <!ENTITY alwaysSubmitCrashReports1.label   "Tillad at &brandShortName; sender fejlrapporter til Mozilla">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "f">
 
-<!ENTITY collectBrowserErrors.label          "Tillad at &brandShortName; sender rapporter om browserfejl (inklusiv fejlbeskeder)  til Mozilla">
+<!ENTITY collectBrowserErrors.label          "Tillad at &brandShortName; sender rapporter om browserfejl (inklusive fejlmeddelelser) til Mozilla">
 <!ENTITY collectBrowserErrors.accesskey      "b">
 <!ENTITY collectBrowserErrorsLearnMore.label "Læs mere">
 

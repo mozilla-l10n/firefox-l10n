@@ -5,7 +5,7 @@
 <!ENTITY window.title                 "Ryd data">
 <!ENTITY window.width                 "35em">
 
-<!ENTITY window.description           "Ved at rydde cookies og webstedsdata logger &brandShortName; dig muligvis ud fra websteder og offline webstedsdata kan blive fjernet. Det påvirker ikke dine logins at rydde cache-data">
+<!ENTITY window.description           "Ved at rydde cookies og webstedsdata logger &brandShortName; dig muligvis ud fra websteder, og offline webstedsdata kan blive fjernet. Det påvirker ikke dine logins at rydde cache-data">
 <!ENTITY windowClose.key              "w">
 
 <!ENTITY clearSiteData.label          "Cookies og webstedsdata">
@@ -14,7 +14,7 @@
 
 <!ENTITY clearCache.label             "Cached webstedsindhold">
 <!ENTITY clearCache.accesskey         "w">
-<!ENTITY clearCache.description       "Tinger websteder til at genindlæse billeder og data">
+<!ENTITY clearCache.description       "Tvinger websteder til at genindlæse billeder og data">
 
 <!ENTITY button.cancel.label          "Fortryd">
 <!ENTITY button.cancel.accesskey      "F">
