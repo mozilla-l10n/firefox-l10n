@@ -472,9 +472,9 @@ privacy-header = Privacy del browser
 ## Privacy Section - Forms
 
 forms-header = Moduli e password
-forms-remember-logins =
-    .label = Ricorda le credenziali di accesso ai siti web
-    .accesskey = R
+forms-ask-to-save-logins =
+    .label = Chiedi se salvare le credenziali di accesso ai siti web
+    .accesskey = C
 forms-exceptions =
     .label = Eccezioni…
     .accesskey = z
