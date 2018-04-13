@@ -62,6 +62,7 @@ feature-enable-requires-restart = { -brand-short-name } muss neu gestartet werde
 feature-disable-requires-restart = { -brand-short-name } muss neu gestartet werden, um diese Funktion zu deaktivieren.
 should-restart-title = { -brand-short-name } neu starten
 should-restart-ok = { -brand-short-name } jetzt neu starten
+cancel-no-restart-button = Abbrechen
 restart-later = Später neu starten
 
 ## Preferences UI Search Results
@@ -273,6 +274,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Netzwerk-Proxy
+network-proxy-connection-learn-more = Weitere Informationen
 network-proxy-connection-settings =
     .label = Einstellungen…
     .accesskey = n
