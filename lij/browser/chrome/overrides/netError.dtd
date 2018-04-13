@@ -20,13 +20,13 @@
 
 <!ENTITY dnsNotFound.pageTitle "Server no atrovou">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY dnsNotFound.title1 "Ahime mi. Niatri emmo di problemi a trovâ sto scito.">
+<!ENTITY dnsNotFound.title1 "Ahime mi. Gh'emmo di problemi a trovâ sto scito.">
 <!ENTITY dnsNotFound.longDesc1 "
-<strong>Se l'indirisso o l'é giusto, chi gh'é tre cöse che ti peu ancon provâ:</strong>
+<strong>Se l'indirisso o l'é giusto, chi gh'é træ atre cöse che ti peu fâ:</strong>
 <ul>
-  <li>Provâ torna dòppo.</li>
-  <li>Controlâ a conescion de ræ.</li>
-  <li>Se ti ê conesso ma derê a 'n firewall, contròlla ch'o &brandShortName; o l'agge o permisso de acede a-a Ræ.</li>
+  <li>Preuva torna dòppo.</li>
+  <li>Contròlla a conescion de ræ.</li>
+  <li>Se ti ê conesso derê a 'n firewall, contròlla ch'o &brandShortName; o l'agge o permisso de acede a-a Ræ.</li>
 </ul>
 ">
 
