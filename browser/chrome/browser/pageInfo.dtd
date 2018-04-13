@@ -60,9 +60,6 @@
 <!ENTITY  permissionsFor        "Rättigheter för:">
 <!ENTITY  permPlugins           "Aktivera insticksmoduler">
 
-<!ENTITY  permClearStorage           "Rensa lagring">
-<!ENTITY  permClearStorage.accesskey "R">
-
 <!ENTITY  securityTab           "Säkerhet">
 <!ENTITY  securityTab.accesskey "ä">
 <!ENTITY  securityView.certView "Visa certifikat">
@@ -81,6 +78,9 @@
 <!ENTITY  securityView.privacy.cookies                  "Lagrar den här webbplatsen information (kakor) på min dator?">
 <!ENTITY  securityView.privacy.viewCookies              "Visa kakor">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.siteData                 "Lagrar denna webbplats information på min dator?">
+<!ENTITY  securityView.privacy.clearSiteData            "Rensa kakor och webbplatsdata">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "R">
 <!ENTITY  securityView.privacy.passwords                "Har jag sparat några lösenord för den här webbplatsen?">
 <!ENTITY  securityView.privacy.viewPasswords            "Visa sparade lösenord">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "ö">
