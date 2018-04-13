@@ -303,6 +303,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Inspektera element">
 <!ENTITY inspectContextMenu.accesskey "e">
 
+<!ENTITY inspectA11YContextMenu.label     "Inspektera tillgänglighetsinställningar">
+
 <!ENTITY fileMenu.label         "Arkiv">
 <!ENTITY fileMenu.accesskey       "A">
 <!ENTITY newUserContext.label             "Ny innehållsflik">
