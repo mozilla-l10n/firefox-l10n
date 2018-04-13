@@ -239,7 +239,7 @@
 <!ENTITY addressButton.label "Kib'i' achib'il">
 <!ENTITY attachButton.label "Titz'aqatisäx">
 <!ENTITY spellingButton.label "Tz'ib'anikil">
-<!ENTITY saveButton.label "">
+<!ENTITY saveButton.label "Tiyak">
 <!ENTITY printButton.label "Titz'ajb'äx">
 
 <!-- Mail Toolbar Tooltips -->
