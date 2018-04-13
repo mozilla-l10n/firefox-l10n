@@ -822,7 +822,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY promotion_add_page_shortcut "เพิ่มทางลัดของหน้า">
 
-<!ENTITY helper_first_offline_bookmark_title "อ่านแบบออฟไลน์">
+<!ENTITY helper_first_offline_bookmark_title "อ่านออฟไลน์">
 <!ENTITY helper_first_offline_bookmark_message "ค้นหารายการมุมมองผู้อ่านของคุณในที่คั่นหน้า แม้ขณะออฟไลน์">
 <!ENTITY helper_first_offline_bookmark_button "ไปยังที่คั่นหน้า">
 
