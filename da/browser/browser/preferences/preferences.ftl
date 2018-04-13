@@ -373,7 +373,7 @@ network-proxy-connection-settings =
 
 home-new-windows-tabs-header = Nye vinduer og faneblade
 
-home-new-windows-tabs-description = Vælg hvad du vil se, når du åbner din startside, nye vinduer og nye faneblade
+home-new-windows-tabs-description2 = Vælg hvad du vil se, når du åbner din startside, nye vinduer og nye faneblade
 
 ## Home Section - Home Page Customization
 

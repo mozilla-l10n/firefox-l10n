@@ -72,7 +72,6 @@ available. -->
 <!ENTITY clearSiteData1.accesskey        "d">
 <!ENTITY siteDataSettings1.label         "Håndter data…">
 <!ENTITY siteDataSettings1.accesskey     "H">
-<!ENTITY siteDataLearnMoreLink.label     "Læs mere">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
