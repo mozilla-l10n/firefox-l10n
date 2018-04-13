@@ -304,6 +304,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Archwilio Elfen">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
+<!ENTITY inspectA11YContextMenu.label     "Archwilio'r Priodoleddau Hygyrchedd">
+
 <!ENTITY fileMenu.label         "Ffeil">
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "Tab Cynhwysydd Newydd">
