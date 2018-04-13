@@ -23,13 +23,10 @@
 <!ENTITY helpKeyboardShortcuts.label     "Tastowe skrótšenki">
 <!ENTITY helpKeyboardShortcuts.accesskey "T">
 
-<!ENTITY helpSafeMode.label       "Ze znjemóžnjenymi přidatkami znowa startować…">
+<!ENTITY helpSafeMode.label       "Ze znjemóžnjenymi přidatkami startować…">
 <!ENTITY helpSafeMode.accesskey   "Z">
 <!ENTITY helpSafeMode.stop.label       "Ze zmóžnjenymi přidatkami znowa startować">
 <!ENTITY helpSafeMode.stop.accesskey   "Z">
-
-<!ENTITY healthReport2.label      "&brandShorterName; - Statusowa rozprawa">
-<!ENTITY healthReport2.accesskey  "S">
 
 <!ENTITY helpTroubleshootingInfo.label      "Informacije za rozrisowanje problemow">
 <!ENTITY helpTroubleshootingInfo.accesskey  "I">
