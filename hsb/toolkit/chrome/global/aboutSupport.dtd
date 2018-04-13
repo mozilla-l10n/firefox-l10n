@@ -137,7 +137,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.sandboxSyscallArgs "Argumenty">
 
 <!ENTITY aboutSupport.safeModeTitle "Wěsty modus spytać">
-<!ENTITY aboutSupport.restartInSafeMode.label "Ze znjemóžnjenymi přidatkami znowa startować…">
+<!ENTITY aboutSupport.restartInSafeMode.label "Ze znjemóžnjenymi přidatkami startować…">
 
 <!ENTITY aboutSupport.graphicsFeaturesTitle "Funkcije">
 <!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnostika">
