@@ -61,6 +61,8 @@ can reach it easily. -->
 <!ENTITY  closeTab.label                     "Luk faneblad">
 <!ENTITY  closeTab.accesskey                 "u">
 
+<!ENTITY  hiddenTabs.label                   "Skjulte faneblade">
+
 <!ENTITY  listAllTabs.label      "List alle faneblade">
 
 <!ENTITY tabCmd.label "Nyt faneblad">
@@ -221,6 +223,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip           "Vælg om du vil modtage beskeder fra webstedet">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Gem data i vedvarende lager">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Browseren fjernstyres">
+
+<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Åbn Web Authentication-panelet">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip     "Administrer deling af dit kamera og/eller mikrofon med webstedet">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip  "Administrer deling af din mikrofon med webstedet">
