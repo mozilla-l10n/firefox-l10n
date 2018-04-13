@@ -39,6 +39,9 @@ available. -->
 
 <!ENTITY alwaysSubmitCrashReports1.label  "&brandShortName; erlauben, Absturzberichte an Mozilla zu senden">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "r">
+
+<!ENTITY collectBrowserErrors.label          "&brandShortName; erlauben, Fehlerberichte des Browsers (einschließlich Fehlermeldungen) an Mozilla zu übermitteln">
+
 <!ENTITY crashReporterLearnMore.label    "Weitere Informationen">
 
 <!ENTITY networkTab.label                "Netzwerk">
@@ -50,8 +53,6 @@ available. -->
 <!ENTITY connectionSettings.accesskey    "n">
 
 <!ENTITY httpCache.label                 "Zwischengespeicherte Webinhalte">
-
-<!ENTITY offlineStorage2.label           "Offline-Webinhalte und -Benutzerdaten">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Websitedaten">
@@ -72,8 +73,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "MB Speicherplatz limitieren">
 <!ENTITY clearCacheNow.label             "Jetzt leeren">
 <!ENTITY clearCacheNow.accesskey         "J">
-<!ENTITY clearOfflineAppCacheNow.label   "Jetzt leeren">
-<!ENTITY clearOfflineAppCacheNow.accesskey "l">
 <!ENTITY overrideSmartCacheSize.label    "Automatisches Cache-Management ausschalten">
 <!ENTITY overrideSmartCacheSize.accesskey "M">
 
@@ -110,17 +109,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Suchmaschinen automatisch aktualisieren">
 <!ENTITY enableSearchUpdate2.accesskey   "S">
-
-<!ENTITY offlineStorageNotify.label               "Mitteilen, wenn eine Website Daten für die Verwendung im Offline-Modus speichern möchte">
-<!ENTITY offlineStorageNotify.accesskey           "w">
-<!ENTITY offlineStorageNotifyExceptions.label     "Ausnahmen…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "A">
-
-<!ENTITY offlineAppsList3.label          "Folgende Websites dürfen Daten für die Verwendung im Offline-Modus speichern:">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Entfernen…">
-<!ENTITY offlineAppsListRemove.accesskey "E">
-<!ENTITY offlineAppRemove.confirm        "Offline-Daten entfernen">
 
 <!ENTITY certificateTab.label            "Zertifikate">
 <!ENTITY certPersonal2.description       "Wenn eine Website nach dem persönlichen Sicherheitszertifikat verlangt">
