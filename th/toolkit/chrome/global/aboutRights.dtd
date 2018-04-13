@@ -62,7 +62,7 @@
 <!ENTITY rights.safebrowsing-b "ไม่แนะนำให้ปิดใช้งานการท่องเว็บแบบปลอดภัยเพราะอาจจะส่งผลให้คุณเข้าไปยังเว็บไซต์ที่ไม่ปลอดภัย ถ้าคุณต้องการปิดความสามารถนี้อย่างถาวร โปรแกรมทำตามขั้นตอนนี้:">
 <!ENTITY rights.safebrowsing-term1 "เปิดค่ากำหนดแอปพลิเคชัน">
 <!ENTITY rights.safebrowsing-term2 "เลือก ความปลอดภัย">
-<!ENTITY rights2.safebrowsing-term3 "ไม่เลือกตัวเลือก &quot;&enableSafeBrowsing.label;&quot;">
+<!ENTITY rights2.safebrowsing-term3 "ยกเลิกการกาเครื่องหมายตัวเลือก &quot;&enableSafeBrowsing.label;&quot;">
 <!ENTITY rights.safebrowsing-term4 "การท่องเว็บแบบปลอดภัยถูกปิดใช้งานแล้ว">
 
 <!-- location aware browsing points for branded builds -->
