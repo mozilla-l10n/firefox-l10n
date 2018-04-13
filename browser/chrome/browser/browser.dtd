@@ -304,8 +304,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Webudvikler">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
-<!ENTITY inspectContextMenu.label     "Inspicér element">
+<!ENTITY inspectContextMenu.label     "Inspicer element">
 <!ENTITY inspectContextMenu.accesskey "n">
+
+<!ENTITY inspectA11YContextMenu.label     "Inspicer tilgængeligheds-egenskaber">
 
 <!ENTITY fileMenu.label         "Filer">
 <!ENTITY fileMenu.accesskey       "F">
