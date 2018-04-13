@@ -96,7 +96,7 @@ search-results-sorry-message =
        *[other] Der er ingen resultater for "<span></span>" i indstillingerne.
     }
 
-search-results-need-help = Har du brug for hjælp?  Besøg <a> Hjælp til { -brand-short-name }</a>
+search-results-need-help = Har du brug for hjælp?  Besøg <a>Hjælp til { -brand-short-name }</a>
 
 ## General Section
 
@@ -145,7 +145,7 @@ ctrl-tab-recently-used-order =
 
 open-new-link-as-tabs =
     .label = Åbn links i faneblade fremfor i nye vinduer
-    .accesskey = w
+    .accesskey = f
     
 warn-on-close-multiple-tabs =
     .label = Advar mig, når jeg lukker flere faneblade
@@ -382,7 +382,7 @@ home-homepage-mode-label = Startside og nye vinduer
 home-newtabs-mode-label = Nye faneblade
 
 home-restore-defaults =
-    .label = Gendag standarder
+    .label = Gendan standarder
     .accesskey = G
 
 # "Firefox" should be treated as a brand and kept in English,
@@ -671,7 +671,7 @@ sitedata-keep-until-expire =
 sitedata-keep-until-closed =
     .label = Jeg lukker { -brand-short-name }
 
-sitedata-accept-third-party-desc = Accepter cookies of websteds-data fra tredjepart
+sitedata-accept-third-party-desc = Accepter cookies og websteds-data fra tredjepart
     .accesskey = t
 
 sitedata-accept-third-party-always-option =
@@ -715,7 +715,7 @@ addressbar-suggestions-settings = Skift indstillinger for søgeforslag
 
 tracking-header = Beskyttelse mod sporing
 
-tracking-description = Beskyttelse mod sporing blokerer sporings-tjenester, der indsamler data mo dine vaner på nettet på tværs af websteder <a>Læs mere om beskyttelse mod sporing og beskyttelse af dit privatliv</a>
+tracking-description = Beskyttelse mod sporing blokerer sporings-tjenester, der indsamler data om dine vaner på nettet på tværs af websteder <a>Læs mere om beskyttelse mod sporing og beskyttelse af dit privatliv</a>
 
 tracking-mode-label = Brug beskyttelse mod sporing for at blokere kendte sporings-tjenester
 
@@ -810,7 +810,7 @@ collection-health-report-link = Læs mere
 collection-health-report-disabled = Data-rapportering er deaktiveret for denne build-konfiguration
 
 collection-browser-errors =
-    .label = Tillad at { -brand-short-name } sender rapporter om browser-fejl (inklusiv fejlbeskeder) til { -vendor-short-name }
+    .label = Tillad at { -brand-short-name } sender rapporter om browser-fejl (inklusive fejlmeddelelser) til { -vendor-short-name }
     .accesskey = b
 collection-browser-errors-link = Læs mere
 
