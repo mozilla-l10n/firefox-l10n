@@ -43,7 +43,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentDescription "Keterangan">
 <!ENTITY aboutSupport.experimentActive "Aktif">
 <!ENTITY aboutSupport.experimentEndDate "Tarikh Akhir">
-<!ENTITY aboutSupport.experimentHomepage "Halaman utama">
+<!ENTITY aboutSupport.experimentHomepage "Laman">
 <!ENTITY aboutSupport.experimentBranch "Cabang">
 
 <!ENTITY aboutSupport.appBasicsTitle "Asas Aplikasi">
