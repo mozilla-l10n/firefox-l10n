@@ -258,6 +258,7 @@ performance-limit-content-process-option = Limit liczby procesów treści:
     .accesskey = o
 performance-limit-content-process-enabled-desc = Więcej procesów treści może poprawić wydajność przy wielu otwartych kartach, ale zwiększy też zapotrzebowanie na pamięć.
 performance-limit-content-process-disabled-desc = Zmiana liczby procesów jest możliwa, jeśli program { -brand-short-name } został uruchomiony z obsługą wielu procesów. <a>Jak sprawdzić, czy obsługa wielu procesów jest włączona?</a>
+performance-limit-content-process-blocked-desc = Zmiana liczby procesów jest możliwa, jeśli program { -brand-short-name } został uruchomiony z obsługą wielu procesów. <a data-l10n-name="learn-more">Jak sprawdzić, czy obsługa wielu procesów jest włączona?</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -540,6 +541,7 @@ addressbar-suggestions-settings = Zmień ustawienia podpowiedzi dostarczanych pr
 ## Privacy Section - Tracking
 
 tracking-header = Ochrona przed śledzeniem
+tracking-desc = Ochrona przed śledzeniem blokuje elementy, które zbierają informacje o przeglądaniu na wielu różnych stronach. <a data-l10n-name="learn-more">Więcej informacji o ochronie przed śledzeniem i prywatności</a>
 tracking-mode-label = Chroń przed śledzeniem przez znane elementy śledzące:
 tracking-mode-always =
     .label = Zawsze
