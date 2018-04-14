@@ -92,7 +92,7 @@
 <!ENTITY newmsgButton.tooltip                           "Hantar mesej mel"> 
 <!ENTITY newIM.tooltip                                  "Hantar mesej segera atau sembang"> 
 <!ENTITY deleteItemButton.tooltip                       "Buang item yang dipilih">
-<!ENTITY throbber.tooltip                               "Pergi ke halaman utama &vendorShortName;">
+<!ENTITY throbber.tooltip                               "Pergi ke laman &vendorShortName;">
 <!ENTITY advancedButton.tooltip                         "Carian alamat lanjutan">
 
 <!-- Dir Tree header -->

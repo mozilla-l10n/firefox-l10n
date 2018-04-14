@@ -26,7 +26,7 @@ cuba menyamar sebagai laman ini, dan anda tidak perlu teruskan.">
 (HSTS) untuk menyatakan bahawa &brandShortName; hanya membuat sambungan
 dengannya secara selamat. Oleh itu, tidak boleh menambah pengecualian
 untuk sijil ini.">
-<!ENTITY certerror.getMeOutOfHere.label "Ini tidak bagus, pergi sahaja ke halaman utama">
+<!ENTITY certerror.getMeOutOfHere.label "Ini tidak bagus, pergi sahaja ke laman">
 
 <!ENTITY certerror.expert.heading "Saya Faham akan Risiko ini">
 <!ENTITY certerror.expert.content "Jika anda tahu apa yang berlaku, anda
