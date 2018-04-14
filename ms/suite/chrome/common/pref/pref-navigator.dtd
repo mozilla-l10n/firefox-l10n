@@ -12,7 +12,7 @@
 
 <!ENTITY blankPageRadio.label           "Halaman kosong">
 <!ENTITY blankPageRadio.accesskey       "K">
-<!ENTITY homePageRadio.label            "Halaman utama">
+<!ENTITY homePageRadio.label            "Laman">
 <!ENTITY homePageRadio.accesskey        "m">
 <!ENTITY lastPageRadio.label            "Halaman terakhir yang dilawati">
 <!ENTITY lastPageRadio.accesskey        "H">

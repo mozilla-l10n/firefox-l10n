@@ -441,7 +441,7 @@
 <!ENTITY undeleteButton.tooltip "Batal buang mesej yang dipilih">
 <!ENTITY markButton.tooltip "Tandakan mesej">
 <!ENTITY stopButton.tooltip "Hentikan pemindahan semasa">
-<!ENTITY throbber.tooltip "Pergi ke halaman utama &vendorShortName;">
+<!ENTITY throbber.tooltip "Pergi ke laman &vendorShortName;">
 <!ENTITY junkButton.tooltip "Tandakan mesej yang dipilih sebagai mel remeh">
 <!ENTITY notJunkButton.tooltip "Tandakan mesej yang dipilih sebagai bukan mel remeh">
 
