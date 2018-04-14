@@ -541,7 +541,7 @@ addressbar-suggestions-settings = Zmień ustawienia podpowiedzi dostarczanych pr
 ## Privacy Section - Tracking
 
 tracking-header = Ochrona przed śledzeniem
-tracking-desc = Ochrona przed śledzeniem blokuje elementy, które zbierają informacje o przeglądaniu na wielu różnych stronach. <a data-l10n-name="learn-more">Więcej informacji o ochronie przed śledzeniem i prywatności</a>
+tracking-desc = Ochrona przed śledzeniem blokuje elementy, które zbierają informacje o przeglądaniu na wielu różnych stronach. <a data-l10n-name="learn-more">Więcej informacji o ochronie przed śledzeniem i prywatności</a>.
 tracking-mode-label = Chroń przed śledzeniem przez znane elementy śledzące:
 tracking-mode-always =
     .label = Zawsze
