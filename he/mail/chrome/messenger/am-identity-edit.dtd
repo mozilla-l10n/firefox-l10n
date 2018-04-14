@@ -5,8 +5,6 @@
 <!-- LOCALIZATION NOTE (identityDialog.style): This value should be roughly
      equal to the value of accountManager.size entity minus the value
      of accountTree.width entity. -->
-<!ENTITY identityDialog.style "width: 67ch;">
-<!ENTITY identityListDesc.label "התאם את ההגדרות עבור זהות זו">
 
 <!ENTITY settingsTab.label       "הגדרות">
 <!ENTITY copiesFoldersTab.label "עותקים ותיקיות">
