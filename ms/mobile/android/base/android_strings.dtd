@@ -626,7 +626,7 @@
 <!ENTITY home_unpinned_site "Laman buang-pin">
 
 <!ENTITY remote_tabs_panel_moved_title "Di mana tab saya?">
-<!ENTITY remote_tabs_panel_moved_desc "Kami telah memindahkan tab anda daripada peranti lain ke panel pada halaman utama anda yang mudah dicapai setiap kali anda membuka tab baru.">
+<!ENTITY remote_tabs_panel_moved_desc "Kami telah memindahkan tab anda daripada peranti lain ke panel dalam laman yang mudah dicapai setiap kali anda buka tab baru.">
 <!ENTITY remote_tabs_panel_moved_link "Bawa saya ke panel baru.">
 
 <!ENTITY pin_site_dialog_hint "Masukkan kata kunci carian">
