@@ -51,7 +51,7 @@
 <!ENTITY siteUrl.label                "Alamat penerbitan (contoh: 'ftp://ftp.myisp.com/myusername'):">
 <!ENTITY siteUrl.accesskey            "a">
 <!ENTITY siteUrl.tooltip              "Alamat FTP:// atau HTTP:// yang disediakan oleh perkhidmatan ISP atau hos web anda">
-<!ENTITY browseUrl.label              "Alamat HTTP halaman utama anda (contoh: 'http://www.myisp.com/myusername'):">
+<!ENTITY browseUrl.label              "Alamat HTTP laman anda (contoh: 'http://www.myisp.com/myusername'):">
 <!ENTITY browseUrl.accesskey          "T">
 <!ENTITY browseUrl.tooltip            "Alamat HTTP:// direktori halaman utama anda (jangan sertakan nama fail)">
 <!ENTITY username.label               "Nama pengguna:">
