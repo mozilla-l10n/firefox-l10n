@@ -45,6 +45,7 @@ policies-notice =
 pane-general-title = Основные
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = Начало
 category-home =
     .tooltiptext = { pane-home-title }
 pane-search-title = Поиск
