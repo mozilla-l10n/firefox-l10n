@@ -76,13 +76,6 @@ restart-later = Later herstarten
 ## Preferences UI Search Results
 
 search-results-header = Zoekresultaten
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] Sorry! Er zijn geen resultaten in Opties voor ‘<span></span>’.
-       *[other] Sorry! Er zijn geen resultaten in Voorkeuren voor ‘<span></span>’.
-    }
-search-results-need-help = Hulp nodig? Bezoek <a>{ -brand-short-name } Support</a>
 
 ## General Section
 
@@ -472,9 +465,6 @@ privacy-header = Browserprivacy
 ## Privacy Section - Forms
 
 forms-header = Formulieren & Wachtwoorden
-forms-remember-logins =
-    .label = Aanmeldingen en wachtwoorden voor websites onthouden
-    .accesskey = o
 forms-exceptions =
     .label = Uitzonderingen…
     .accesskey = t
@@ -564,7 +554,6 @@ addressbar-suggestions-settings = Voorkeuren voor zoekmachinesuggesties wijzigen
 ## Privacy Section - Tracking
 
 tracking-header = Bescherming tegen volgen
-tracking-description = Bescherming tegen volgen blokkeert online trackers die op meerdere websites uw surfgegevens verzamelen. <a>Meer info over Bescherming tegen volgen en uw privacy</a>
 tracking-mode-label = Bescherming tegen volgen gebruiken om bekende volgers te blokkeren
 tracking-mode-always =
     .label = Altijd
