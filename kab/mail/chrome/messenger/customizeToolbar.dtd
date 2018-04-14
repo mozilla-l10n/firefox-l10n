@@ -9,6 +9,7 @@
 <!ENTITY iconsAndText.label       "Tigiyin d uḍris">
 <!ENTITY icons.label              "Tigniyin">
 <!ENTITY text.label               "Aḍris">
+<!ENTITY iconsBesideText.label    "Tigiiniyin n daw uḍris">
 <!ENTITY useSmallIcons.label      "Seqdec tigniyin meẓẓiyen">
 <!ENTITY restoreDefaultSet.label  "Tawila s uwennez n tazwara">
 <!ENTITY addNewToolbar.label      "Rnu afeggag n ifecka amaynut">
