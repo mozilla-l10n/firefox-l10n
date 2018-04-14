@@ -60,9 +60,6 @@
 <!ENTITY  permissionsFor        "Leidimai:">
 <!ENTITY  permPlugins           "Papildinių aktyvinimas">
 
-<!ENTITY  permClearStorage           "Išvalyti duomenis">
-<!ENTITY  permClearStorage.accesskey "v">
-
 <!ENTITY  securityTab           "Saugumas">
 <!ENTITY  securityTab.accesskey "S">
 <!ENTITY  securityView.certView "Rodyti liudijimą">
@@ -81,6 +78,9 @@
 <!ENTITY  securityView.privacy.cookies                  "Ar ši svetainė turi įrašiusi slapukų mano kompiuteryje?">
 <!ENTITY  securityView.privacy.viewCookies              "Rodyti slapukus">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "R">
+<!ENTITY  securityView.privacy.siteData                 "Ar ši svetainė turi įrašiusi duomenų mano kompiuteryje?">
+<!ENTITY  securityView.privacy.clearSiteData            "Valyti slapukus ir svetainių duomenis">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "V">
 <!ENTITY  securityView.privacy.passwords                "Ar turiu įsimintų šios svetainės slaptažodžių?">
 <!ENTITY  securityView.privacy.viewPasswords            "Rodyti slaptažodžius">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "o">

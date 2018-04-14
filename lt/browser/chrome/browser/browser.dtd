@@ -61,6 +61,8 @@ can reach it easily. -->
 <!ENTITY  closeTab.label                     "Užverti kortelę">
 <!ENTITY  closeTab.accesskey                 "U">
 
+<!ENTITY  hiddenTabs.label                   "Paslėptos kortelės">
+
 <!ENTITY  listAllTabs.label      "Pateikti visas korteles">
 
 <!ENTITY tabCmd.label "Nauja kortelė">
@@ -222,6 +224,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Saugoti duomenis išliekančioje atmintyje">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Naršyklė valdoma per nuotolį">
 
+<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Atverti „Web Authentication“ polangį">
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Tvarkyti kameros ir mikrofono naudojimą svetainėje">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Tvarkyti mikrofono naudojimą svetainėje">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Tvarkyti langų ar viso ekrano bendrinimą su svetaine">
@@ -268,7 +272,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addBookmarksMenu.label             "Pridėti adresyno meniu į priemonių juostą">
 <!ENTITY removeBookmarksMenu.label          "Išimti adresyno meniu iš priemonių juostos">
 
-<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 <!ENTITY bookmarksGtkCmd.commandkey "o">
@@ -299,6 +303,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY inspectContextMenu.label     "Tirti elementą">
 <!ENTITY inspectContextMenu.accesskey "T">
+
+<!ENTITY inspectA11YContextMenu.label     "Tirti pritaikymo neįgaliesiems savybes">
 
 <!ENTITY fileMenu.label         "Failas">
 <!ENTITY fileMenu.accesskey       "F">
@@ -385,7 +391,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Įjunkite kortelių sinchronizavimą, norėdami peržiūrėti kituose įrenginiuose esančias korteles.">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Norite čia matyti savo korteles iš kitų įrenginių?">
