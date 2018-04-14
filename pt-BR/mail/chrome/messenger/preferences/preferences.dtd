@@ -6,6 +6,7 @@
 <!ENTITY  preferencesDefaultTitleMac.title "Preferências">
 <!ENTITY  preferencesDefaultTitleWin.title "Opções">
 <!ENTITY  preferencesCloseButton.label     "Fechar">
+<!ENTITY  preferencesCloseButton.accesskey "C">
 
 <!ENTITY  prefWindow.titleWin     "Opções">
 <!ENTITY  prefWindow.titleGNOME   "Preferências do &brandShortName;">

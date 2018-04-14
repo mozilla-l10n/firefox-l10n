@@ -36,6 +36,12 @@
 <!ENTITY newFeedAccountCmd.accesskey "R">
 <!ENTITY newIMContactCmd.label "Novo contato…">
 <!ENTITY newIMContactCmd.accesskey "c">
+<!ENTITY  newMessageCmd2.key "N">
+<!ENTITY  newMessageCmd.key "M">
+<!ENTITY  newMessageCmd.label "Mensagem">
+<!ENTITY  newMessageCmd.accesskey "m">
+<!ENTITY  newContactCmd.label "Contato de catálogo de endereços…">
+<!ENTITY  newContactCmd.accesskey "C">
 <!ENTITY openMessageFileCmd.label "Abrir arquivo de mensagem…">
 <!ENTITY openMessageFileCmd.accesskey "b">
 <!ENTITY saveAsMenu.label "Salvar como">

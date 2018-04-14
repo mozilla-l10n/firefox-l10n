@@ -327,6 +327,7 @@
 <!ENTITY reorderAttachments.label "Reordenar anexos…">
 <!ENTITY reorderAttachments.accesskey "s">
 <!ENTITY removeAllAttachments.label "Remover todos os anexos">
+<!ENTITY removeAllAttachments.accesskey "v">
 <!ENTITY selectAll.label "Selecionar tudo">
 <!ENTITY selectAll.accesskey "S">
 <!ENTITY attachFile.label "Anexar arquivos…">
@@ -346,6 +347,8 @@
 <!-- LOCALIZATION NOTE (initiallyShowAttachmentPane.label):
      Should use the same wording as startExpandedCmd.label
      in msgHdrViewOverlay.dtd. -->
+<!ENTITY initiallyShowAttachmentPane.label "Inicialmente mostra o painel de anexos">
+<!ENTITY initiallyShowAttachmentPane.accesskey "M">
 
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Adicionar dicionários…">
