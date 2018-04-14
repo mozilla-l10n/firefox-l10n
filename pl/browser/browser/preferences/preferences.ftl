@@ -45,9 +45,9 @@ policies-notice =
 pane-general-title = Ogólne
 category-general =
     .tooltiptext = { pane-general-title }
-pane-home-title=Uruchamianie
+pane-home-title = Uruchamianie
 category-home =
-    .tooltiptext=Ustawienia powiązane z uruchamianiem programu
+    .tooltiptext = Ustawienia powiązane z uruchamianiem programu
 pane-search-title = Wyszukiwanie
 category-search =
     .tooltiptext = { pane-search-title }
@@ -76,13 +76,6 @@ restart-later = Później
 ## Preferences UI Search Results
 
 search-results-header = Wyniki wyszukiwania
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] Niestety! W opcjach niczego nie odnaleziono dla wyszukiwania „<span></span>”
-       *[other] Niestety! W preferencjach niczego nie odnaleziono dla wyszukiwania „<span></span>”
-    }
-search-results-need-help = Potrzebujesz pomocy? Odwiedź witrynę <a>wsparcia programu { -brand-short-name }</a>
 
 ## General Section
 
@@ -454,9 +447,6 @@ privacy-header = Prywatność
 ## Privacy Section - Forms
 
 forms-header = Formularze i hasła
-forms-remember-logins =
-    .label = Zachowywanie danych logowania do witryn
-    .accesskey = l
 forms-exceptions =
     .label = Wyjątki…
     .accesskey = i
@@ -542,7 +532,6 @@ addressbar-suggestions-settings = Zmień ustawienia podpowiedzi dostarczanych pr
 ## Privacy Section - Tracking
 
 tracking-header = Ochrona przed śledzeniem
-tracking-description = Ochrona przed śledzeniem blokuje elementy, które zbierają informacje o przeglądaniu na wielu różnych stronach. <a>Więcej informacji o ochronie przed śledzeniem i prywatności</a>.
 tracking-mode-label = Chroń przed śledzeniem przez znane elementy śledzące:
 tracking-mode-always =
     .label = Zawsze
