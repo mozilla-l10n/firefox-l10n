@@ -12,8 +12,12 @@
 
 <!ENTITY enableDrmMedia.label           "Ativar Gestão dos Direitos Digitais para">
 <!ENTITY enableEmeForSuite.label        "Módulos de terceiros para decodificação de conteúdo">
+<!ENTITY enableEmeForSuite.accesskey    "C">
 
 <!ENTITY animLoopingTitle.label         "Limitar a repetição de imagens animadas">
 <!ENTITY animLoopAsSpecified.label      "Determinado pela imagem">
+<!ENTITY animLoopAsSpecified.accesskey  "m">
 <!ENTITY animLoopOnce.label             "Repetir uma vez">
+<!ENTITY animLoopOnce.accesskey         "O">
 <!ENTITY animLoopNever.label            "Nunca repetir">
+<!ENTITY animLoopNever.accesskey        "v">
