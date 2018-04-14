@@ -282,11 +282,11 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Tetingkap dan Tab Baru
-home-new-windows-tabs-description2 = Pilih apa yang anda mahu lihat apabila anda buka halaman utama, tetingkap dan tab baru.
+home-new-windows-tabs-description2 = Pilih apa yang anda mahu lihat apabila anda buka laman, tetingkap dan tab baru.
 
 ## Home Section - Home Page Customization
 
-home-homepage-mode-label = Halaman utama dan tetingkap baru
+home-homepage-mode-label = Laman dan tetingkap baru
 home-newtabs-mode-label = Tab baru
 home-restore-defaults =
     .label = Pulih Piawai
