@@ -11,7 +11,7 @@
 <!ENTITY noProxyTypeRadio.label        "Ingen proxy">
 <!ENTITY noProxyTypeRadio.accesskey    "I">
 <!ENTITY systemTypeRadio.label         "Brug systemets proxy-indstillinger">
-<!ENTITY systemTypeRadio.accesskey     "B">
+<!ENTITY systemTypeRadio.accesskey     "y">
 <!ENTITY WPADTypeRadio.label           "Auto-detekter proxy-indstillinger for dette netværk">
 <!ENTITY WPADTypeRadio.accesskey       "A">
 <!ENTITY manualTypeRadio2.label        "Manuel proxy-konfiguration">
@@ -23,11 +23,11 @@
 <!ENTITY ftp2.label                    "FTP-proxy">
 <!ENTITY ftp2.accesskey                "F">
 <!ENTITY http2.label                   "HTTP-proxy">
-<!ENTITY http2.accesskey               "T">
+<!ENTITY http2.accesskey               "H">
 <!ENTITY ssl2.label                    "SSL-proxy">
 <!ENTITY ssl2.accesskey                "S">
 <!ENTITY socks2.label                  "SOCKS-vært">
-<!ENTITY socks2.accesskey              "O">
+<!ENTITY socks2.accesskey              "C">
 <!ENTITY socks4.label                  "SOCKS v4">
 <!ENTITY socks4.accesskey              "4">
 <!ENTITY socks5.label                  "SOCKS v5">
@@ -35,15 +35,15 @@
 <!ENTITY socksRemoteDNS.label2         "Proxy-DNS ved brug af SOCKS v5">
 <!ENTITY socksRemoteDNS.accesskey      "D">
 <!ENTITY port2.label                   "Port">
-<!ENTITY HTTPport.accesskey            "">
-<!ENTITY SSLport.accesskey             "">
-<!ENTITY FTPport.accesskey             "">
-<!ENTITY SOCKSport.accesskey           "">
+<!ENTITY HTTPport.accesskey            "P">
+<!ENTITY SSLport.accesskey             "o">
+<!ENTITY FTPport.accesskey             "r">
+<!ENTITY SOCKSport.accesskey           "t">
 <!ENTITY noproxy2.label                "Ingen proxy for">
 <!ENTITY noproxy2.accesskey            "n">
 <!ENTITY noproxyExplain.label          "Fx .mozilla.org, .net.dk, 192.168.1.0/24">
 <!ENTITY shareproxy.label              "Brug denne proxy-server for alle protokoller">
-<!ENTITY shareproxy.accesskey          "r">
+<!ENTITY shareproxy.accesskey          "B">
 <!ENTITY  autologinproxy.label          "Spørg ikke efter godkendelse, hvis adgangskoden er gemt">
 <!ENTITY  autologinproxy.accesskey      "g">
 <!ENTITY  autologinproxy.tooltip        "Denne indstilling godkender dig automatisk overfor proxy-servere, når du har gemt login-informationer til dem. Du bliver spurgt, hvis godkendelsen slår fejl.">
