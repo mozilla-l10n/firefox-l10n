@@ -61,6 +61,8 @@ can reach it easily. -->
 <!ENTITY  closeTab.label                     "Закрыть вкладку">
 <!ENTITY  closeTab.accesskey                 "а">
 
+<!ENTITY  hiddenTabs.label                   "Скрытые вкладки">
+
 <!ENTITY  listAllTabs.label      "Список всех вкладок">
 
 <!ENTITY tabCmd.label "Новая вкладка">
@@ -222,6 +224,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Хранить данные в постоянном хранилище">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Браузер находится под удалённым управлением">
 
+<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Открыть панель веб-авторизации">
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Управление доступом сайта к вашей камере и/или микрофону">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Управление доступом сайта к вашему микрофону">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Управление доступом сайта к вашим окнам или экрану">
@@ -268,7 +272,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addBookmarksMenu.label             "Добавить меню закладок в панель">
 <!ENTITY removeBookmarksMenu.label          "Удалить меню закладок с панели">
 
-<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 <!ENTITY bookmarksGtkCmd.commandkey "o">
@@ -299,6 +303,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY inspectContextMenu.label     "Исследовать элемент">
 <!ENTITY inspectContextMenu.accesskey "л">
+
+<!ENTITY inspectA11YContextMenu.label     "Исследовать свойства поддержки доступности">
 
 <!ENTITY fileMenu.label         "Файл">
 <!ENTITY fileMenu.accesskey       "Ф">
@@ -385,7 +391,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Включите синхронизацию вкладок, чтобы увидеть список вкладок с других устройств.">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Хотите увидеть здесь ваши вкладки с других устройств?">
