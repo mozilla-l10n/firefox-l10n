@@ -76,6 +76,13 @@ restart-later = Later herstarten
 ## Preferences UI Search Results
 
 search-results-header = Zoekresultaten
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Sorry! Er zijn geen resultaten in Opties voor ‘<span data-l10n-name="query"></span>’.
+       *[other] Sorry! Er zijn geen resultaten in Voorkeuren voor ‘<span data-l10n-name="query"></span>’.
+    }
+search-results-help-link = Hulp nodig? Bezoek <a data-l10n-name="url">{ -brand-short-name } Support</a>
 
 ## General Section
 
@@ -213,6 +220,7 @@ play-drm-content-learn-more = Meer info
 update-application-title = { -brand-short-name }-updates
 update-application-description = Houd { -brand-short-name } up-to-date voor de beste prestaties, stabiliteit en beveiliging.
 update-application-info = Versie { $version } <a>Wat is er nieuw</a>
+update-application-version = Versie { $version } <a data-l10n-name="learn-more">Wat is er nieuw</a>
 update-history =
     .label = Updategeschiedenis tonen…
     .accesskey = d
@@ -248,6 +256,7 @@ performance-limit-content-process-option = Limiet van inhoudsprocessen
     .accesskey = L
 performance-limit-content-process-enabled-desc = Extra inhoudsprocessen kunnen de prestaties bij het gebruik van meerdere tabbladen verbeteren, maar zullen ook meer geheugen gebruiken.
 performance-limit-content-process-disabled-desc = Aanpassen van het aantal inhoudsprocessen is alleen mogelijk met multiprocess-{ -brand-short-name }. <a>Informatie over het controleren of multiprocess is ingeschakeld</a>
+performance-limit-content-process-blocked-desc = Aanpassen van het aantal inhoudsprocessen is alleen mogelijk met multiprocess-{ -brand-short-name }. <a data-l10n-name="learn-more">Informatie over het controleren of multiprocess is ingeschakeld</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -554,6 +563,7 @@ addressbar-suggestions-settings = Voorkeuren voor zoekmachinesuggesties wijzigen
 ## Privacy Section - Tracking
 
 tracking-header = Bescherming tegen volgen
+tracking-desc = Bescherming tegen volgen blokkeert online trackers die op meerdere websites uw surfgegevens verzamelen. <a data-l10n-name="learn-more">Meer info over Bescherming tegen volgen en uw privacy</a>
 tracking-mode-label = Bescherming tegen volgen gebruiken om bekende volgers te blokkeren
 tracking-mode-always =
     .label = Altijd
