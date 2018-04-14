@@ -60,6 +60,8 @@
 <!ENTITY Home.accesskey                 "P">
 <!ENTITY HomeAddress.label              "Tansa:">
 <!ENTITY HomeAddress.accesskey          "d">
+<!ENTITY HomeCity.label                 "Aɣrem:">
+<!ENTITY HomeCity.accesskey             "y">
 
 
 
