@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY selectBookmark.title
-  "Tetapkan Halaman Utama">
+  "Tetapkan Laman">
 <!ENTITY selectBookmark.label
-  "Pilih Tandabuku untuk dijadikan Halaman Utama anda. Jika anda memilih folder, Tandabuku dalam folder tersebut akan dibuka dalam Tab.">
+  "Pilih Tandabuku untuk dijadikan Laman anda. Jika anda pilih folder, Tandabuku dalam folder itu akan dibuka dalam Tab.">
 
