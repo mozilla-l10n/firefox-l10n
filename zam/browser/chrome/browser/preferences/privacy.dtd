@@ -3,30 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-
-
-
-
-
-
-<!ENTITY  trackingProtectionLearnMore.label    "Lab Kue">
-
-
-<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
-
-<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
-
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBMLearnMore.label "Lab Kue">
-
-
-
-
-
-
-
-
-
-
 
 
 <!ENTITY  locbar.bookmarks.label        "Ndó~làz=ná">
@@ -37,13 +15,8 @@
 
 
 
-
-
-
-
 <!ENTITY  acceptThirdParty.never.label    "Yent ta">
 <!ENTITY  acceptThirdParty.visited.label  "Pa güin">
-
 
 
 <!ENTITY  expire.label                  "blus ah">
@@ -55,28 +28,29 @@
 <!ENTITY  showCookies.label             "mb-lòɁ ré Cookies...">
 <!ENTITY  showCookies.accesskey         "m">
 
-
 <!ENTITY  historyHeader.remember.label     "Ne loon kuan güin">
 <!ENTITY  historyHeader.dontremember.label "Na loot lu re kuan güin">
 <!ENTITY  historyHeader.custom.label       "Tak thus kuey ree koo de güil">
-<!ENTITY  historyHeader.post.label         "Thus kue ree koo de güil">
+<!ENTITY  historyHeader.post.label         "">
+
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  rememberActions.pre.label           "Tak lil kue  ">
 <!ENTITY  rememberActions.clearHistory.label  "te dont koo de güin">
 <!ENTITY  rememberActions.middle.label        ", o ">
 <!ENTITY  rememberActions.removeCookies.label "te dont ree cokies">
 <!ENTITY  rememberActions.post.label          ".">
 
+
+
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  dontrememberActions.pre.label          "Tak lil kue ne ">
 <!ENTITY  dontrememberActions.clearHistory.label "te dont ree ta ko güil">
 <!ENTITY  dontrememberActions.post.label         "..">
+
 
 <!ENTITY  privateBrowsingPermanent2.label "Lii xhin navegación privada">
 <!ENTITY  privateBrowsingPermanent2.accesskey "i">
@@ -92,8 +66,5 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Tak thus kuey como lash luuy...">
 <!ENTITY  clearOnCloseSettings.accesskey "T">
-
-
-
 
 
