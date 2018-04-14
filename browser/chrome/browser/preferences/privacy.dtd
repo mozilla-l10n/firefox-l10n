@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Trình chống theo dõi">
-<!ENTITY  trackingProtection2.description      "Theo dõi là sưu tập dữ liệu duyệt web của bạn trên nhiều trang web. Theo dõi có thể được sử dụng để xây dựng hồ sơ và hiển thị nội dung dựa trên thông tin duyệt web và cá nhân của bạn.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "Sử dụng trình chống theo dõi để chặn các trình theo dõi đã được nhận biết">
 <!ENTITY  trackingProtection3.description      "Trình chống theo dõi chặn các trình theo dõi trực tuyến thu thập dữ liệu duyệt web của bạn trên nhiều trang web.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "Sử dụng trình chống theo dõi để chặn các trình theo dõi đã được nhận biết">
 <!ENTITY  trackingProtectionAlways.label       "Luôn luôn">
@@ -13,7 +11,6 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "r">
 <!ENTITY  trackingProtectionNever.label        "Không bao giờ">
 <!ENTITY  trackingProtectionNever.accesskey    "K">
-<!ENTITY  trackingProtectionLearnMore.label    "Tìm hiểu thêm">
 <!ENTITY  trackingProtectionLearnMore2.label    "Tìm hiểu thêm về trình chống theo dõi và chính sách riêng tư của bạn">
 <!ENTITY  trackingProtectionExceptions.label   "Ngoại lệ…">
 <!ENTITY  trackingProtectionExceptions.accesskey "g">
@@ -24,11 +21,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "Tìm hiểu thêm">
 <!ENTITY changeBlockList2.label               "Thay đổi danh sách chặn…">
 <!ENTITY changeBlockList2.accesskey           "C">
-
-<!ENTITY  doNotTrack.description        "Gửi tín hiệu “Không theo dõi” tới trang web để cho biết bạn không muốn bị theo dõi">
-<!ENTITY  doNotTrack.learnMore.label    "Tìm hiểu thêm">
-<!ENTITY  doNotTrack.default.label      "Chỉ khi dùng trình chống theo dõi">
-<!ENTITY  doNotTrack.always.label       "Luôn luôn">
 
 <!ENTITY  history.label                 "Lược sử">
 <!ENTITY  permissions.label             "Quyền hạn">
@@ -51,6 +43,9 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "Cho phép cookie bên thứ 3">
 <!ENTITY  acceptThirdParty2.pre.accesskey "y">
+
+
+
 <!ENTITY  acceptThirdParty.always.label   "Luôn luôn">
 <!ENTITY  acceptThirdParty.never.label    "Không bao giờ">
 <!ENTITY  acceptThirdParty.visited.label  "Từ các trang đã truy cập">
@@ -72,7 +67,6 @@
 <!ENTITY  historyHeader.remember.label     "Ghi nhớ lược sử">
 <!ENTITY  historyHeader.dontremember.label "Không bao giờ ghi nhớ lược sử">
 <!ENTITY  historyHeader.custom.label       "Sử dụng thiết lập tùy biến cho lược sử">
-<!ENTITY  historyHeader.post.label         "Sử dụng thiết lập tùy biến cho lịch sử">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; sẽ ghi nhớ việc duyệt web, tải xuống, lược sử biểu mẫu và tìm kiếm, và giữ lại cookie của những trang Web mà bạn đã vào.">
 
@@ -85,6 +79,7 @@
 <!ENTITY  rememberActions.removeCookies.label "xóa các cookie riêng lẻ">
 <!ENTITY  rememberActions.post.label          ".">
 
+
 <!ENTITY  dontrememberDescription.label  "&brandShortName; sẽ dùng thiết lập giống như chế độ duyệt web riêng tư, và sẽ không ghi nhớ lược sử khi bạn duyệt Web.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
@@ -92,6 +87,7 @@
 <!ENTITY  dontrememberActions.pre.label          "Bạn có thể cũng sẽ muốn ">
 <!ENTITY  dontrememberActions.clearHistory.label "xóa toàn bộ lược sử hiện tại">
 <!ENTITY  dontrememberActions.post.label         ".">
+
 
 <!ENTITY  privateBrowsingPermanent2.label "Luôn luôn dùng chế độ duyệt web riêng tư">
 <!ENTITY  privateBrowsingPermanent2.accesskey "y">
