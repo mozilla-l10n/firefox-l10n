@@ -214,17 +214,17 @@
 <!ENTITY pref_manage_logins "Urus log masuk">
 
 <!ENTITY pref_category_home "Rerumah">
-<!ENTITY pref_category_home_summary "Penyesuaian halaman utama anda">
+<!ENTITY pref_category_home_summary "Penyesuaian laman anda">
 <!ENTITY pref_category_home_panels "Panel">
 <!ENTITY pref_category_home_add_ons "Add-ons">
 <!ENTITY pref_home_updates2 "Kemaskini kandungan">
 <!ENTITY pref_home_updates_enabled "Didayakan">
 <!ENTITY pref_home_updates_wifi "Hanya melalui Wi-Fi">
-<!ENTITY pref_category_home_homepage "Halaman utama">
+<!ENTITY pref_category_home_homepage "Laman">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
 <!ENTITY home_homepage_every_new_tab "Gunakan untuk tab baru">
-<!ENTITY home_homepage_title "Tetapkan Halaman Utama">
+<!ENTITY home_homepage_title "Tetapkan Laman">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
@@ -486,7 +486,7 @@
 <!ENTITY contextmenu_open_private_tab "Buka dalam Tab Peribadi">
 <!ENTITY contextmenu_remove "Buang">
 <!ENTITY contextmenu_add_page_shortcut "Tambah Pintasan Halaman">
-<!ENTITY contextmenu_set_as_homepage "Tetapkan sebagai Halaman Utama">
+<!ENTITY contextmenu_set_as_homepage "Tetapkan sebagai Laman">
 <!ENTITY contextmenu_share "Kongsi">
 <!ENTITY contextmenu_pasteandgo "Tampal &amp; Lancarkan">
 <!ENTITY contextmenu_paste "Tampal">
