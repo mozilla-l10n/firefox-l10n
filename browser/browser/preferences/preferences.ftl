@@ -297,6 +297,12 @@ home-restore-defaults =
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Pagina d'acuèlh de Firefox (Per defaut)
+home-mode-choice-custom =
+    .label = Adreças personalizadas…
+home-mode-choice-blank =
+    .label = Pagina voida
+home-homepage-custom-url =
+    .placeholder = Pegar una adreça…
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -396,6 +402,9 @@ sync-signedin-login-failure = Vos cal vos reconnectar { $email }
 sync-resend-verification =
     .label = Tornar mandar la verificacion
     .accesskey = t
+sync-remove-account =
+    .label = Suprimir lo compte
+    .accesskey = S
 sync-sign-in =
     .label = Connexion
     .accesskey = x
@@ -492,11 +501,17 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Paramètres…
     .accesskey = t
+history-clear-button =
+    .label = Escafar l’istoric…
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
 sitedata-header = Cookies e donadas de sites
 sitedata-learn-more = Ne saber mai
+sitedata-accept-cookies-option =
+    .label = Acceptar los cookies e las donadas de sites (recomandat)
+    .accesskey = A
 sitedata-keep-until = Las conservar fins a
     .accesskey = f
 sitedata-accept-third-party-always-option =
