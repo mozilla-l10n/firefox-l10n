@@ -76,6 +76,12 @@ restart-later = Później
 ## Preferences UI Search Results
 
 search-results-header = Wyniki wyszukiwania
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Niestety! W opcjach niczego nie odnaleziono dla wyszukiwania „<span data-l10n-name="query"></span>”
+       *[other] Niestety! W preferencjach niczego nie odnaleziono dla wyszukiwania „<span data-l10n-name="query"></span>”
+    }
 
 ## General Section
 
@@ -215,6 +221,7 @@ play-drm-content-learn-more = Więcej informacji
 update-application-title = Aktualizacje programu { -brand-short-name }
 update-application-description = Utrzymuj program { -brand-short-name } aktualnym dla najlepszej wydajności, stabilności i bezpieczeństwa.
 update-application-info = Wersja: { $version } <a>Informacje o wydaniu</a>
+update-application-version = Wersja: { $version } <a data-l10n-name="learn-more">Informacje o wydaniu</a>
 update-history =
     .label = Wyświetl historię aktualizacji…
     .accesskey = W
