@@ -76,13 +76,6 @@ restart-later = Riavvia in seguito
 ## Preferences UI Search Results
 
 search-results-header = Risultati della ricerca
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] Siamo spiacenti, nessun risultato trovato per “<span></span>” nelle opzioni.
-       *[other] Siamo spiacenti, nessun risultato trovato per “<span></span>” nelle preferenze.
-    }
-search-results-need-help = Hai bisogno di aiuto? Visita <a>il sito web di supporto per { -brand-short-name }</a>
 
 ## General Section
 
@@ -564,7 +557,6 @@ addressbar-suggestions-settings = Modifica le impostazioni relative ai suggerime
 ## Privacy Section - Tracking
 
 tracking-header = Protezione antitracciamento
-tracking-description = La protezione antitracciamento blocca elementi utilizzati per raccogliere dati sulla navigazione attraverso siti diversi. <a>Ulteriori informazioni sulla protezione antitracciamento e la privacy</a>
 tracking-mode-label = Utilizza la protezione antitracciamento per bloccare i tracciatori conosciuti
 tracking-mode-always =
     .label = Sempre
