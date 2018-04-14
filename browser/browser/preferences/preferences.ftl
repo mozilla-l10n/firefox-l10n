@@ -76,6 +76,13 @@ restart-later = Riavvia in seguito
 ## Preferences UI Search Results
 
 search-results-header = Risultati della ricerca
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Siamo spiacenti, nessun risultato trovato per “<span data-l10n-name="query"></span>” nelle opzioni.
+       *[other] Siamo spiacenti, nessun risultato trovato per “<span data-l10n-name="query"></span>” nelle preferenze.
+    }
+search-results-help-link = Hai bisogno di aiuto? Visita <a data-l10n-name="url">il sito web di supporto per { -brand-short-name }</a>
 
 ## General Section
 
@@ -213,6 +220,7 @@ play-drm-content-learn-more = Ulteriori informazioni
 update-application-title = Aggiornamenti di { -brand-short-name }
 update-application-description = Mantieni { -brand-short-name } aggiornato per garantire il massimo in termini di prestazioni, stabilità e sicurezza.
 update-application-info = Versione { $version } <a>Novità</a>
+update-application-version = Versione { $version } <a data-l10n-name="learn-more">Novità</a>
 update-history =
     .label = Mostra cronologia aggiornamenti…
     .accesskey = o
@@ -248,6 +256,7 @@ performance-limit-content-process-option = Numero massimo di processi per i cont
     .accesskey = o
 performance-limit-content-process-enabled-desc = Un numero maggiore di processi per la gestione dei contenuti può migliorare le prestazioni quando si utilizzano molte schede, comportando però un maggiore utilizzo di memoria.
 performance-limit-content-process-disabled-desc = È possibile modificare il numero di processi per i contenuti solo se è attiva la modalità multiprocesso di { -brand-short-name }. <a>Scopri come verificare se la modalità multiprocesso è attiva</a>
+performance-limit-content-process-blocked-desc = È possibile modificare il numero di processi per i contenuti solo se è attiva la modalità multiprocesso di { -brand-short-name }. <a data-l10n-name="learn-more">Scopri come verificare se la modalità multiprocesso è attiva</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -557,6 +566,7 @@ addressbar-suggestions-settings = Modifica le impostazioni relative ai suggerime
 ## Privacy Section - Tracking
 
 tracking-header = Protezione antitracciamento
+tracking-desc = La protezione antitracciamento blocca elementi utilizzati per raccogliere dati sulla navigazione attraverso siti diversi. <a data-l10n-name="learn-more">Ulteriori informazioni sulla protezione antitracciamento e la privacy</a>
 tracking-mode-label = Utilizza la protezione antitracciamento per bloccare i tracciatori conosciuti
 tracking-mode-always =
     .label = Sempre
