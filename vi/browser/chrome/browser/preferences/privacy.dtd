@@ -67,6 +67,7 @@
 <!ENTITY  historyHeader.remember.label     "Ghi nhớ lược sử">
 <!ENTITY  historyHeader.dontremember.label "Không bao giờ ghi nhớ lược sử">
 <!ENTITY  historyHeader.custom.label       "Sử dụng thiết lập tùy biến cho lược sử">
+<!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; sẽ ghi nhớ việc duyệt web, tải xuống, lược sử biểu mẫu và tìm kiếm, và giữ lại cookie của những trang Web mà bạn đã vào.">
 
