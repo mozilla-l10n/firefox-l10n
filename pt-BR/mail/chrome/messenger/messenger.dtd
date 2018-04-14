@@ -317,7 +317,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Bate-papo">
 <!ENTITY goChatCmd.accesskey "B">
-<!ENTITY goChatCmd.key "I">
 <!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Mensagem com estrela">
 <!ENTITY prevStarredMsgCmd.accesskey "M">
@@ -510,8 +509,6 @@
 <!ENTITY devToolboxCmd.label "Caixa de ferramentas do desenvolvedor">
 <!ENTITY devToolboxCmd.accesskey "T">
 <!ENTITY devToolboxCmd.commandkey "i">
-<!ENTITY addonDebugCmd.label "Depurador de extensão">
-<!ENTITY addonDebugCmd.accesskey "A">
 <!ENTITY debugAddonsCmd.label "Depurar extensões">
 <!ENTITY debugAddonsCmd.accesskey "e">
 <!ENTITY tabsDebugCmd.label "Depurador de conteúdo do quadro">
@@ -646,6 +643,7 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Receber mensagens">
 <!ENTITY folderContextGetMessages.accesskey "R">
+<!ENTITY folderContextMarkAllFoldersRead.label "Marcar todas as pastas como lidas">
 <!ENTITY folderContextPauseAllUpdates.label "Pausar todas as atualizações">
 <!ENTITY folderContextPauseUpdates.label "Pausar atualizações">
 <!ENTITY folderContextPauseUpdates.accesskey "u">
@@ -871,7 +869,7 @@
   -->
 <!ENTITY quickSearchCmd.key "K">
 <!-- LOCALIZATION NOTE (search.label.base1):
-      This is the base of the empty text for the global search box. We replace
+     This is the base of the empty text for the global search box. We replace
      #1 with the contents of the appropriate search.keyLabel.* value for the
      platform.
      The goal is to convey to the user that typing in the box will allow them
