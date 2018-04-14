@@ -6,11 +6,11 @@
 
 <!ENTITY startupPage2.label        "Apabila &brandShortName; mula">
 <!ENTITY startupPage2.accesskey    "m">
-<!ENTITY startupUserHomePage.label "Papar halaman utama anda">
+<!ENTITY startupUserHomePage.label "Papar laman anda">
 <!ENTITY startupBlankPage.label    "Papar halaman kosong">
 <!ENTITY startupPrevSession.label  "Papar tetingkap dan tab anda yang terdahulu">
 
-<!ENTITY homepage2.label           "Halaman utama">
+<!ENTITY homepage2.label           "Laman">
 <!ENTITY homepage2.accesskey       "U">
 <!ENTITY useCurrentPage.label      "Gunakan Halaman Semasa">
 <!ENTITY useCurrentPage.accesskey  "a">
@@ -44,5 +44,3 @@
 <!ENTITY useFirefoxSync.label             "Tip: Ciri ini menggunakan profil yang berasingan. Gunakan Sync untuk berkongsi data.">
 <!ENTITY getStarted.notloggedin.label     "Daftar masuk ke &syncBrand.shortName.label;…">
 <!ENTITY getStarted.configured.label      "Buka keutamaan &syncBrand.shortName.label;">
-
-<!ENTITY e10sEnabled.label                "Dayakan multi-proses &brandShortName;">
