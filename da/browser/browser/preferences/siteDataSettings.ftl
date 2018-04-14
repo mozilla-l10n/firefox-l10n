@@ -40,6 +40,6 @@ site-data-removing-window =
 
 site-data-removing-header = Fjerner cookies og websteds-data
 
-site-data-removing-desc = Ved at fjerne cookies og websteds-data kan du blive logget ud fra web-steder, du er logget ind på. Er du sikker på, at du vil foretage ændringerne?
+site-data-removing-desc = Ved at fjerne cookies og websteds-data kan du blive logget ud fra websteder, du er logget ind på. Er du sikker på, at du vil foretage ændringerne?
 
 site-data-removing-table = Cookies og websteds-data for de følgende websteder vil blive fjernet
