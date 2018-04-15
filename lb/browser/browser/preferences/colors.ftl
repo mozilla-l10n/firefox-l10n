@@ -11,3 +11,7 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override = Uewen ausgewielte Faarwen benotzen amplaz déi vun der Säit
+    .accesskey = O
+colors-page-override-option-always =
+    .label = Ëmmer
