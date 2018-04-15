@@ -61,6 +61,8 @@ can reach it easily. -->
 <!ENTITY  closeTab.label                     "Cerrar pestaña">
 <!ENTITY  closeTab.accesskey                 "C">
 
+<!ENTITY  hiddenTabs.label                   "Pestañas ocultas">
+
 <!ENTITY  listAllTabs.label      "Mostrar todas las pestañas">
 
 <!ENTITY tabCmd.label "Nueva pestaña">
@@ -222,6 +224,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Almacenar datos en el almacenamiento persistente">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "El navegador está controlado a distancia">
 
+<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Abrir panel de autenticación web">
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Administrar compartir tu cámara y/o micrófono con el sitio">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Administrar compartir tu micrófono con el sitio">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Administrar compartir tus ventanas o pantalla con el sitio">
@@ -268,7 +272,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addBookmarksMenu.label             "Agregar menú de marcadores a la barra de herramientas">
 <!ENTITY removeBookmarksMenu.label          "Eliminar menú de marcadores de la barra de herramientas">
 
-<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 <!ENTITY bookmarksGtkCmd.commandkey "o">
@@ -299,6 +303,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY inspectContextMenu.label     "Inspeccionar elemento">
 <!ENTITY inspectContextMenu.accesskey "I">
+
+<!ENTITY inspectA11YContextMenu.label     "Inspeccionar propiedades de accesibilidad">
 
 <!ENTITY fileMenu.label         "Archivo">
 <!ENTITY fileMenu.accesskey       "A">
@@ -385,7 +391,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Activa la sincronización de pestañas para ver una lista de pestañas desde tus otros dispositivos.">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "¿Quieres ver las pestañas de tus otros dispositivos aquí?">
