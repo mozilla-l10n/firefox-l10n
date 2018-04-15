@@ -39,7 +39,7 @@ before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
 
-<!ENTITY signedInUnverified.beforename.label "​">
+<!ENTITY signedInUnverified.beforename.label "">
 <!ENTITY signedInUnverified.aftername.label "is not verified.">
 <!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
 signedInLoginFailure.aftername.label): these two string are used respectively
@@ -48,7 +48,7 @@ both, to better adapt this sentence to their language.
 -->
 
 <!ENTITY signedInLoginFailure.beforename.label "Please sign in to reconnect">
-<!ENTITY signedInLoginFailure.aftername.label "​">
+<!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "You are not signed in.">
 
