@@ -53,6 +53,7 @@
 <!ENTITY HomePhone.accesskey            "m">
 <!ENTITY FaxNumber.label                "Faks:">
 <!ENTITY FaxNumber.accesskey            "x">
+<!ENTITY PagerNumber.accesskey          "g">
 <!ENTITY CellularNumber.label           "Aziraz:">
 <!ENTITY CellularNumber.accesskey       "b">
 
@@ -60,8 +61,13 @@
 <!ENTITY Home.accesskey                 "P">
 <!ENTITY HomeAddress.label              "Tansa:">
 <!ENTITY HomeAddress.accesskey          "d">
+<!ENTITY HomeAddress2.label             "">
+<!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "Aɣrem:">
 <!ENTITY HomeCity.accesskey             "y">
+<!ENTITY HomeState.label                "Aɣiṛ/Province:">
+<!ENTITY HomeState.accesskey            "S">
+<!ENTITY HomeZipCode.label              "ZIP/Postal Tangalt:">
 
 
 
