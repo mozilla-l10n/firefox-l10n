@@ -16,7 +16,7 @@
 <!ENTITY loading.label                        "Henter…">
 <!ENTITY listEmpty.installed.label            "Du har ikke nogen tilføjelser af denne type installeret">
 <!ENTITY listEmpty.availableUpdates.label     "Ingen opdateringer fundet">
-<!ENTITY listEmpty.recentUpdates.label        "Du har ikke opdateret nogle tilføjelser for nyligt">
+<!ENTITY listEmpty.recentUpdates.label        "Du har ikke opdateret nogen tilføjelser for nyligt">
 <!ENTITY listEmpty.findUpdates.label          "Søg efter opdateringer">
 <!ENTITY listEmpty.search.label               "Ingen matchende tilføjelser">
 <!ENTITY listEmpty.button.label               "Lær mere om tilføjelser">

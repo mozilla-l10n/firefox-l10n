@@ -32,7 +32,7 @@
 <!ENTITY importFrom360se.label          "360 Secure Browser">
 <!ENTITY importFrom360se.accesskey      "3">
 
-<!ENTITY noMigrationSources.label       "Der blev ikke fundet nogle programmer, der indeholder bogmærker, historik eller adgangskoder.">
+<!ENTITY noMigrationSources.label       "Der blev ikke fundet nogen programmer, der indeholder bogmærker, historik eller adgangskoder.">
 
 <!ENTITY importSource.title             "Importer indstillinger og data">
 <!ENTITY importItems.title              "Objekter som skal importeres">
