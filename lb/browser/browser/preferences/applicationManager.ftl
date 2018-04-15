@@ -20,3 +20,4 @@ app-manager-handle-file = Folgend Applikatiounen kënne benotzt ginn fir Inhalt 
 ## by the URL or path of the application.
 
 app-manager-web-app-info = Dës Webapplikatioun ass gehost bei:
+app-manager-local-app-info = Dës Applikatioun steet:
