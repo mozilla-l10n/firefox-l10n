@@ -112,6 +112,8 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "Seiteninformationen">
 <!ENTITY pageInfoCmd.accesskey "S">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.label "Layout-Debugger">
+<!ENTITY ldbCmd.accesskey "L">
 <!ENTITY mirrorTabCmd.label "Tab spiegeln">
 <!ENTITY mirrorTabCmd.accesskey "T">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -127,6 +129,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "z">
 <!ENTITY toggleReaderMode.key "R">
 
+<!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "Bei &syncBrand.shortName.label; anmelden">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label;-Einstellungen öffnen">
@@ -230,6 +233,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Übersetzung von Seiten verwalten">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Verwendung von DRM-geschützter Software verwalten">
 
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "MIDI-Ansicht öffnen">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Sie haben den Zugriff auf Ihre Kamera durch diese Website blockiert.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Sie haben den Zugriff auf Ihr Mikrofon durch diese Website blockiert.">
@@ -240,6 +244,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.popupBlocked.tooltip             "Sie haben das Anzeigen von Pop-ups für diese Website blockiert.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Sie haben das Abfragen von Canvas-Daten durch diese Website blockiert.">
 
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "Sie haben den Zugriff auf das Adobe-Flash-Plugin für diese Website blockiert.">
+<!ENTITY urlbar.midiBlocked.tooltip              "Sie haben den Zugriff auf MIDI für diese Website blockiert.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Chronik anzeigen">
 
@@ -435,6 +441,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Suche oder Adresse eingeben">
+<!ENTITY urlbar.placeholder3          "Suchwörter und Adressen hier eingeben">
 <!ENTITY urlbar.accesskey             "s">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Erweiterung:">
@@ -987,6 +994,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.restoreButton.accesskey "r">
 
 <!ENTITY newTabControlled.disableButton.label "Erweiterung deaktivieren">
+<!ENTITY newTabControlled.disableButton.accesskey "d">
 
 <!ENTITY pageActionButton.tooltip "Aktionen für Seite">
 <!ENTITY pageAction.addToUrlbar.label "Zu Adressleiste hinzufügen">
@@ -1005,6 +1013,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "Funktionen für Barrierefreiheit aktiviert">
+
+<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
+     The first <image> tag is replaced with the icon for the add-ons menu.
+     The second <image> tag is replaced with the icon for the toolbar menu. -->
+<!ENTITY addonPostInstallMessage.label "Die Add-ons lassen sich durch Klicken auf <image class='addon-addon-icon'/> im <image class='addon-toolbar-icon'/>-Menü verwalten.">
 
 <!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
      The first <image> tag is replaced with the icon for the add-ons menu.

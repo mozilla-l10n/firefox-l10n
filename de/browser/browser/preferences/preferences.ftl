@@ -37,6 +37,11 @@ search-input-box =
             [windows] In Einstellungen suchen
            *[other] In Einstellungen suchen
         }
+policies-notice =
+    { PLATFORM() ->
+        [windows] Ihre Organisation hat das Ändern einiger Einstellungen deaktiviert.
+       *[other] Ihre Organisation hat das Ändern einiger Einstellungen deaktiviert.
+    }
 pane-general-title = Allgemein
 category-general =
     .tooltiptext = { pane-general-title }
@@ -295,9 +300,11 @@ use-current-pages =
            *[other] Aktuelle Seiten verwenden
         }
     .accesskey = A
+
 choose-bookmark =
     .label = Lesezeichen verwenden…
     .accesskey = L
+
 restore-default =
     .label = Standard wiederherstellen
     .accesskey = t
@@ -309,14 +316,18 @@ search-bar-hidden =
     .label = Adressleiste für Suche und Seitenaufrufe verwenden
 search-bar-shown =
     .label = Suchleiste zur Symbolleiste hinzufügen
+
 search-engine-default-header = Standardsuchmaschine
 search-engine-default-desc = Wählen Sie Ihre Standardsuchmaschine für die Adress- und Suchleiste.
+
 search-suggestions-option =
     .label = Suchvorschläge anzeigen
     .accesskey = S
+
 search-show-suggestions-url-bar-option =
     .label = Suchvorschläge in Adressleiste anzeigen
     .accesskey = v
+
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
@@ -324,20 +335,28 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = In Adressleiste Suchvorschläge vor Einträgen aus der Browser-Chronik anzeigen
+
 search-suggestions-cant-show = Suchvorschläge werden nicht in der Adressleiste angezeigt, weil { -brand-short-name } angewiesen wurde, keine Chronik zu speichern.
+
 search-one-click-header = Ein-Klick-Suchmaschinen
+
 search-one-click-desc = Wählen Sie eine andere Suchmaschine von den unterhalb der Adress- bzw. Suchleiste angezeigten Suchmaschinen, nachdem Sie den Suchbegriff eingegeben haben.
+
 search-choose-engine-column =
     .label = Suchmaschine
 search-choose-keyword-column =
     .label = Schlüsselwort
+
 search-restore-default =
     .label = Standardsuchmaschinen wiederherstellen
     .accesskey = w
+
 search-remove-engine =
     .label = Entfernen
     .accesskey = E
+
 search-find-more-link = Weitere Suchmaschinen hinzufügen
+
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Schlüsselwort duplizieren
@@ -353,6 +372,7 @@ containers-header = Tab-Umgebungen
 containers-add-button =
     .label = Neue Umgebung hinzufügen
     .accesskey = N
+
 containers-preferences-button =
     .label = Einstellungen
 containers-remove-button =
