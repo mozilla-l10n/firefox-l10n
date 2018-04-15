@@ -7,7 +7,7 @@
 <!ENTITY  updateCheck.label               "Søger efter nyere versioner af &brandShortName;…">
 
 <!ENTITY  noupdatesfound.title            "Ingen opdateringer fundet">
-<!ENTITY  noupdatesautoenabled.intro      "Der er ikke nogle opdateringer tilgængelige.
+<!ENTITY  noupdatesautoenabled.intro      "Der er ikke nogen opdateringer tilgængelige.
                                            &brandShortName; vil periodisk undersøge om der er tilgængelige opdateringer.">
 <!ENTITY  noupdatesautodisabled.intro     "Der er ingen opdateringer tilgængelige.
                                            Kontroller igen senere eller aktiver automatisk opddatering af &brandShortName;.">

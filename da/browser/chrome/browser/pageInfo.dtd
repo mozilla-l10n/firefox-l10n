@@ -84,7 +84,7 @@
 <!ENTITY  securityView.privacy.siteData                 "Gemmer dette websted informationer på min computer?">
 <!ENTITY  securityView.privacy.clearSiteData            "Ryd cookies og websteds-data">
 <!ENTITY  securityView.privacy.clearSiteData.accessKey  "R">
-<!ENTITY  securityView.privacy.passwords                "Har jeg gemt nogle adgangskoder til dette websted?">
+<!ENTITY  securityView.privacy.passwords                "Har jeg gemt nogen adgangskoder til dette websted?">
 <!ENTITY  securityView.privacy.viewPasswords            "Vis gemte adgangskoder">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "a">
 
