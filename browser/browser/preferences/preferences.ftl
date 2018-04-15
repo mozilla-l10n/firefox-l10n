@@ -151,6 +151,16 @@ containers-disable-alert-ok-button =
        *[other] Chiudi { $tabCount } schede contenitore
     }
 containers-disable-alert-cancel-button = Non disattivare
+containers-remove-alert-title = Rimuovere questo contenitore?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Rimuovendo questo contenitore verrà chiusa { $count } scheda contenitore. Continuare?
+       *[other] Rimuovendo questo contenitore verranno chiuse { $count } schede contenitore. Continuare?
+    }
+containers-remove-ok-button = Rimuovi questo contenitore
+containers-remove-cancel-button = Non rimuovere questo contenitore
 
 ## General Section - Language & Appearance
 
