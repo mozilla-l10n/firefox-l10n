@@ -44,7 +44,7 @@ their language.
 
 
 <!ENTITY welcomeback2.beforelink.pageInfo2  "Your add-ons and customisations have been removed and your browser settings have been restored to their defaults. If this didn’t fix your issue, ">
-<!ENTITY welcomeback2.afterlink.pageInfo2   "​">
+<!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "learn more about what you can do.">
 

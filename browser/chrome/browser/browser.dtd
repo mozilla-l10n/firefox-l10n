@@ -132,7 +132,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 
-<!ENTITY fullscreenWarning.beforeDomain.label "​">
+<!ENTITY fullscreenWarning.beforeDomain.label "">
 <!ENTITY fullscreenWarning.afterDomain.label "is now full screen">
 <!ENTITY fullscreenWarning.generic.label "This document is now full screen">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
@@ -466,7 +466,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      as:  "Search <selected engine name><searchAfter.label text>" -->
 
 <!ENTITY search.label                 "Search ">
-<!ENTITY searchAfter.label            "​">
+<!ENTITY searchAfter.label            "">
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
