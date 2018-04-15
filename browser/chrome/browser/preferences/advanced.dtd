@@ -100,7 +100,7 @@ available. -->
  -->
 <!ENTITY updateApplicationDescription.label
                                          "Mantendu &brandShortName; eguneratuta errendimendu, egonkortasun eta segurtasun onena bermatzeko.">
-<!ENTITY updateApplication.version.pre   "​">
+<!ENTITY updateApplication.version.pre   "">
 <!ENTITY updateApplication.version.post  "bertsioa">
 <!ENTITY updateApplication.description   "Baimendu &brandShortName;(r)i">
 <!ENTITY updateAuto3.label               "Instalatu eguneraketak automatikoki (gomendatua)">
