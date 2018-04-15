@@ -5,10 +5,10 @@
 <!ENTITY window.title                 "Ryd data">
 <!ENTITY window.width                 "35em">
 
-<!ENTITY window.description           "Ved at rydde cookies og webstedsdata logger &brandShortName; dig muligvis ud fra websteder, og offline webstedsdata kan blive fjernet. Det påvirker ikke dine logins at rydde cache-data">
+<!ENTITY window.description           "Ved at rydde cookies og websteds-data logger &brandShortName; dig muligvis ud fra websteder, og offline websteds-data kan blive fjernet. Det påvirker ikke dine logins at rydde cache-data">
 <!ENTITY windowClose.key              "w">
 
-<!ENTITY clearSiteData.label          "Cookies og webstedsdata">
+<!ENTITY clearSiteData.label          "Cookies og websteds-data">
 <!ENTITY clearSiteData.accesskey      "C">
 <!ENTITY clearSiteData.description    "Du kan blive logget ud fra websteder ved at rydde disse">
 
