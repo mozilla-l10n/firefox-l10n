@@ -73,7 +73,25 @@
 <!ENTITY HomeCountry.accesskey          "u">
 <!ENTITY HomeWebPage.label              "Asebter web:">
 <!ENTITY HomeWebPage.accesskey          "e">
+<!ENTITY Birthday.label                 "Amulli:">
+<!ENTITY Birthday.accesskey             "B">
+<!ENTITY In.label                       "">
+<!ENTITY Year.placeholder               "Iseggwasen">
+<!ENTITY Or.value                       "neɣ">
+<!ENTITY Age.placeholder                "Awtay">
+<!ENTITY YearsOld.label                 "">
 
+<!ENTITY Work.tab                       "Amahil">
+<!ENTITY Work.accesskey                 "W">
+<!ENTITY JobTitle.label                 "Azwel:">
+<!ENTITY JobTitle.accesskey             "i">
+<!ENTITY Department.label               "Agezdu:">
+<!ENTITY Department.accesskey           "m">
+<!ENTITY Company.label                  "Takebbanit:">
+<!ENTITY Company.accesskey              "n">
+<!ENTITY WorkAddress.label              "Tansa:">
+<!ENTITY WorkAddress.accesskey          "d">
+<!ENTITY WorkAddress2.label             "">
 
 
 
