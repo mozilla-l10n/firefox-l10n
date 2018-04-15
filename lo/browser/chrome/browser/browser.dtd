@@ -53,7 +53,6 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.label              "ບຸກມາກແທັບທັງຫມົດ...">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "ເອີ້ນຄືນແທັບທີ່ຫາກະປິດ">
-<!ENTITY  undoCloseTab.accesskey             "​">
 <!ENTITY  closeTab.label                     "ປິດແທັບ">
 <!ENTITY  closeTab.accesskey                 "C">
 
@@ -92,7 +91,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "ບຸກມາກແທັບທັງຫມົດ...">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "ເອີ້ນຄືນແທັບທີ່ຫາກະປິດ">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "​">
 
 <!ENTITY pageSourceCmd.label "ທີ່ມາຂອງຫນ້ານີ້">
 <!ENTITY pageSourceCmd.accesskey "o">
