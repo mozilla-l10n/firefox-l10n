@@ -68,6 +68,7 @@
 <!ENTITY HomeState.label                "Aɣiṛ/Province:">
 <!ENTITY HomeState.accesskey            "S">
 <!ENTITY HomeZipCode.label              "ZIP/Postal Tangalt:">
+<!ENTITY HomeZipCode.accesskey          "Z">
 
 
 
