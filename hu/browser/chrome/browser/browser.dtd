@@ -304,6 +304,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Elem vizsgálata">
 <!ENTITY inspectContextMenu.accesskey "z">
 
+<!ENTITY inspectA11YContextMenu.label     "Akadálymentesítési tulajdonságok vizsgálata">
+
 <!ENTITY fileMenu.label         "Fájl">
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "Új konténerlap">
