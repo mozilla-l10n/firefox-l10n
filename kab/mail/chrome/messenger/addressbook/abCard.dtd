@@ -93,6 +93,12 @@
 <!ENTITY WorkAddress.accesskey          "d">
 <!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
+<!ENTITY WorkCity.label                 "Aɣrem:">
+<!ENTITY WorkCity.accesskey             "y">
+<!ENTITY WorkState.label                "Aɣiṛ/Province:">
+<!ENTITY WorkState.accesskey            "S">
+<!ENTITY WorkZipCode.label              "ZIP/Postal Tangalt:">
+<!ENTITY WorkZipCode.accesskey          "Z">
 
 
 
