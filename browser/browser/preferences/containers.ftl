@@ -36,16 +36,6 @@ containers-color-label = Kleur
 containers-button-done =
     .label = Gereed
     .accesskey = G
-containers-remove-alert-title = Deze container verwijderen?
-# Variables:
-#   $count (Number) - Number of tabs that will be closed.
-containers-remove-alert-msg =
-    { $count ->
-        [one] Als u deze container nu verwijdert, zal { $count } containertabblad worden gesloten. Weet u zeker dat u deze container wilt verwijderen?
-       *[other] Als u deze container nu verwijdert, zullen { $count } containertabbladen worden gesloten. Weet u zeker dat u deze container wilt verwijderen?
-    }
-containers-remove-ok-button = Deze container verwijderen
-containers-remove-cancel-button = Deze container niet verwijderen
 containers-color-blue =
     .label = Blauw
 containers-color-turquoise =
