@@ -4,8 +4,8 @@
 
 <!ENTITY loadError.label "Էջի բեռնավորման սխալ">
 <!ENTITY retry.label "Կրկին փորձել">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Կապակցումը ձախողվեց">
 <!ENTITY connectionFailure.longDesc "<p>Ծրագիրը չկարողացավ միանալ նշված կայքին, չնայած որ այն վավեր է</p>:<ul><li>Եթե հանգույցը ժամանակավորապես անհասանելի է, ապա փորձեք մի փոքր ուշ</li><li>Եթե հնարավոր չէ բացել այլ կայքեր, ապա ստուգեք ցանցային կապը</li><li>Եթե ձեր համակարգիչը կամ ցանցը պաշտպանված են Firewall-ով, ապա պատճառը կարող է դրա սխալ կազմաձևումը լինել</li></ul>">
@@ -86,3 +86,5 @@
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> օգտագործում է անվտանգ տեխնոլոգիա, որը հնացած է և խոցելի՝ հարձակումների համար: Հարձակվողը կարող է հեշտությամբ հայտնաբերել տեղեկություններ, որոնք ձեր կարծիքով ապահով են: Կայքի վարիչը պետք է նախ ուղղի սպասարկիչը, որպեսզի կարողանաք այցելել կայքը:</p><p>Սխալի կոդը՝ NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY blockedByPolicy.title "Արգելափակված էջ">
