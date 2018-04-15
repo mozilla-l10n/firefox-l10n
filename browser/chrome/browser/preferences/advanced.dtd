@@ -66,7 +66,7 @@ available. -->
 <!ENTITY clearSiteData.accesskey         "y">
 <!ENTITY siteDataSettings.label          "Indstillinger…">
 <!ENTITY siteDataSettings.accesskey      "n">
-<!ENTITY siteData1.label                 "Data for cookies og websteder">
+<!ENTITY siteData1.label                 "Cookies og websteds-data">
 <!ENTITY clearSiteData1.label            "Ryd data…">
 <!ENTITY clearSiteData1.accesskey        "d">
 <!ENTITY siteDataSettings1.label         "Håndter data…">
