@@ -69,6 +69,9 @@
 <!ENTITY HomeState.accesskey            "S">
 <!ENTITY HomeZipCode.label              "ZIP/Postal Tangalt:">
 <!ENTITY HomeZipCode.accesskey          "Z">
+<!ENTITY HomeCountry.label              "Tamurt:">
+<!ENTITY HomeCountry.accesskey          "u">
+<!ENTITY HomeWebPage.label              "Asebter web:">
 
 
 
