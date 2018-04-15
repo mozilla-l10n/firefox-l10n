@@ -40,6 +40,7 @@
      it should be upper case (as a proper name) if the target language permits.
   -->
 <!ENTITY pref.soondays2.label "Tulevat-osiossa näytetään:">
+<!ENTITY pref.soondays2.accesskey "u">
 
 <!ENTITY pref.accessibility.label "Esteettömyys" >
 <!ENTITY pref.systemcolors.label "Optimoi värit esteettömyyttä varten" >
@@ -47,3 +48,4 @@
 
 <!ENTITY pref.eventsandtasks.label "Tapahtumat ja tehtävät" >
 <!ENTITY pref.editInTab.label "Muokkaa tapahtumia ja tehtäviä välilehdessä ikkunan sijaan." >
+<!ENTITY pref.editInTab.accesskey "M">
