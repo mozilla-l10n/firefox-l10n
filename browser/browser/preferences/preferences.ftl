@@ -82,7 +82,7 @@ search-results-empty-message =
         [windows] Siamo spiacenti, nessun risultato trovato per “<span data-l10n-name="query"></span>” nelle opzioni.
        *[other] Siamo spiacenti, nessun risultato trovato per “<span data-l10n-name="query"></span>” nelle preferenze.
     }
-search-results-help-link = Hai bisogno di aiuto? Visita <a data-l10n-name="url">il sito web di supporto per { -brand-short-name }</a>
+search-results-help-link = Hai bisogno di aiuto? Visita <a data-l10n-name="url">il sito web di supporto per { -brand-short-name }</a>.
 
 ## General Section
 
