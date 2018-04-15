@@ -12,7 +12,7 @@
 <!ENTITY calendar.unifinder.todoitems.label       "Tareas" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Mostrar tareas completas">
 
-<!ENTITY calendar.today.button.label       "Hoy">
+<!ENTITY calendar.today.button.label          "Hoy">
 <!ENTITY calendar.tomorrow.button.label       "Mañana">
 <!ENTITY calendar.upcoming.button.label       "Próximo">
 
@@ -57,8 +57,8 @@
 <!ENTITY calendar.unifinder.tree.duration.tooltip2         "Ordenar por duración">
 <!ENTITY calendar.unifinder.close.tooltip                  "Cierra el buscador de eventos y la lista de eventos">
 
-<!ENTITY calendar.today.button.tooltip            "Ir a hoy" >
-<!ENTITY calendar.todaypane.button.tooltip        "Mostrar vista de hoy" >
+<!ENTITY calendar.today.button.tooltip          "Ir a hoy" >
+<!ENTITY calendar.todaypane.button.tooltip      "Mostrar vista de hoy" >
 
 <!ENTITY calendar.day.button.tooltip            "Cambiar a vista por día" >
 <!ENTITY calendar.week.button.tooltip           "Cambiar a vista por semana" >
@@ -172,12 +172,41 @@
 <!ENTITY calendar.context.copyevent.accesskey         "C">
 <!ENTITY calendar.context.pasteevent.label            "Pegar">
 <!ENTITY calendar.context.pasteevent.accesskey        "P">
-<!ENTITY calendar.context.button.label                "Vista de hoy" >
-<!ENTITY calendar.context.button.accesskey            "T" >
-<!ENTITY calendar.context.attendance.menu.label       "Asistencia" >
-<!ENTITY calendar.context.attendance.menu.accesskey   "s" >
-<!ENTITY calendar.context.attendance.occurrence.label "Esta vez" >
+<!ENTITY calendar.context.button.label                "Vista de hoy">
+<!ENTITY calendar.context.button.accesskey            "T">
+
+<!ENTITY calendar.context.attendance.menu.label                 "Asistencia">
+<!ENTITY calendar.context.attendance.menu.accesskey             "s">
+<!ENTITY calendar.context.attendance.occurrence.label           "Esta vez">
 <!ENTITY calendar.context.attendance.all.label        "Todas las veces" >
+
+<!ENTITY calendar.context.attendance.all2.label                 "Completar serie">
+<!ENTITY calendar.context.attendance.send.label                 "Enviar una notificación ahora">
+<!ENTITY calendar.context.attendance.send.accesskey             "E">
+<!ENTITY calendar.context.attendance.dontsend.label             "No enviar una notificación">
+<!ENTITY calendar.context.attendance.dontsend.accesskey         "N">
+
+<!ENTITY calendar.context.attendance.occ.accepted.accesskey     "A">
+<!ENTITY calendar.context.attendance.occ.accepted.label         "Aceptada">
+<!ENTITY calendar.context.attendance.occ.tentative.accesskey    "v">
+<!ENTITY calendar.context.attendance.occ.tentative.label        "Aceptada tentativamente">
+<!ENTITY calendar.context.attendance.occ.declined.accesskey     "c">
+<!ENTITY calendar.context.attendance.occ.declined.label         "Declinada">
+<!ENTITY calendar.context.attendance.occ.delegated.accesskey    "g">
+<!ENTITY calendar.context.attendance.occ.delegated.label        "Delegada">
+<!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "S">
+<!ENTITY calendar.context.attendance.occ.needsaction.label      "Aún necesita acción">
+<!ENTITY calendar.context.attendance.occ.inprogress.accesskey   "p">
+<!ENTITY calendar.context.attendance.occ.inprogress.label       "En proceso">
+<!ENTITY calendar.context.attendance.occ.completed.accesskey    "C">
+<!ENTITY calendar.context.attendance.occ.completed.label        "Completa">
+
+<!ENTITY calendar.context.attendance.all.accepted.accesskey     "e">
+<!ENTITY calendar.context.attendance.all.accepted.label         "Aceptada">
+<!ENTITY calendar.context.attendance.all.tentative.accesskey    "v">
+<!ENTITY calendar.context.attendance.all.tentative.label        "Aceptada tentativamente">
+<!ENTITY calendar.context.attendance.all.declined.accesskey     "d">
+<!ENTITY calendar.context.attendance.all.declined.label         "Declinada">
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Progreso">
@@ -307,8 +336,8 @@
 
 <!-- LOCALIZATION NOTE (calendar.alarm.snooze.cancel)
      This string is not seen in the UI, it is read by screen readers when the
-      user focuses the "Cancel" button in the "Snooze for..." popup of the alarm
-      dialog. -->
+     user focuses the "Cancel" button in the "Snooze for..." popup of the alarm
+     dialog. -->
 <!ENTITY calendar.alarm.snooze.cancel               "Cancelar silenciar">
 
 <!-- Calendar Server Dialog -->
@@ -316,19 +345,19 @@
 <!ENTITY calendar.server.dialog.name.label          "Nombre de calendario:">
 
 <!-- Calendar Properties -->
-<!ENTITY calendarproperties.color.label    "Color:">
-<!ENTITY calendarproperties.webdav.label   "iCalendar (ICS)">
-<!ENTITY calendarproperties.caldav.label   "CalDAV">
-<!ENTITY calendarproperties.wcap.label     "Sun Java System Calendar Server (WCAP)">
-<!ENTITY calendarproperties.format.label   "Formato:">
-<!ENTITY calendarproperties.location.label "Dirección:">
+<!ENTITY calendarproperties.color.label                    "Color:">
+<!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
+<!ENTITY calendarproperties.caldav.label                   "CalDAV">
+<!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)">
+<!ENTITY calendarproperties.format.label                   "Formato:">
+<!ENTITY calendarproperties.location.label                 "Dirección:">
 <!ENTITY calendarproperties.refreshInterval.label          "Refrescar calendario:">
 <!ENTITY calendarproperties.refreshInterval.manual.label   "Manualmente">
-<!ENTITY calendarproperties.name.label     "Nombre:">
-<!ENTITY calendarproperties.readonly.label "Sólo lectura">
-<!ENTITY calendarproperties.firealarms.label "Mostrar alarmas">
+<!ENTITY calendarproperties.name.label                     "Nombre:">
+<!ENTITY calendarproperties.readonly.label                 "Sólo lectura">
+<!ENTITY calendarproperties.firealarms.label               "Mostrar alarmas">
 <!ENTITY calendarproperties.cache3.label                   "Soporte sin conexión">
-<!ENTITY calendarproperties.enabled.label "Cambiar a este calendario">
+<!ENTITY calendarproperties.enabled.label                  "Cambiar a este calendario">
 <!ENTITY calendarproperties.forceDisabled.label            "No pudo encontrase el proveedor de este calendario. Ésto pasa a menudo si ha deshabilitado o desinstalado ciertos complementos.">
 <!ENTITY calendarproperties.unsubscribe.label              "Desuscribir">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "U">
