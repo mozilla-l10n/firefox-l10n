@@ -99,6 +99,13 @@
 <!ENTITY WorkState.accesskey            "S">
 <!ENTITY WorkZipCode.label              "ZIP/Postal Tangalt:">
 <!ENTITY WorkZipCode.accesskey          "Z">
+<!ENTITY WorkCountry.label              "Tamurt:">
+<!ENTITY WorkCountry.accesskey          "u">
+<!ENTITY WorkWebPage.label              "Asebter web:">
+<!ENTITY WorkWebPage.accesskey          "e">
 
+<!ENTITY Other.tab                      "Wiyaḍ">
+<!ENTITY Other.accesskey                "h">
+<!ENTITY Custom1.label                  "Aggan 1:">
 
 
