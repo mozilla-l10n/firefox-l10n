@@ -495,7 +495,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
-<!ENTITY searchFor.label              "​">
+<!ENTITY searchFor.label              "">
 <!ENTITY searchWith.label             " keresése ezzel:">
 
 <!-- LOCALIZATION NOTE (search.label, searchAfter.label):
@@ -504,7 +504,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      intentionally left empty for en-US and can be used by other localizations to
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
-<!ENTITY search.label                 "​">
+<!ENTITY search.label                 "">
 <!ENTITY searchAfter.label            " keresés">
 
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
