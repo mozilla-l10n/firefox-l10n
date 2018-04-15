@@ -78,6 +78,7 @@
 <!ENTITY  securityView.privacy.cookies                  "Lagrar denne nettstaden informasjon på datamaskina mi?">
 <!ENTITY  securityView.privacy.viewCookies              "Vis infokapslar">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "V">
+<!ENTITY  securityView.privacy.siteData                 "Lagrar denne nettsida informasjon på datamaskina mi?">
 <!ENTITY  securityView.privacy.clearSiteData            "Fjern infokapslar og nettsidedata">
 <!ENTITY  securityView.privacy.clearSiteData.accessKey  "k">
 <!ENTITY  securityView.privacy.passwords                "Har eg lagra passord for denne nettstaden?">
