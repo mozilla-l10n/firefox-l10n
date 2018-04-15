@@ -11,7 +11,6 @@ site-data-settings-window =
 site-data-search-textbox =
     .placeholder = Søg efter websteder
     .accesskey = S
-    c
 site-data-column-host =
     .label = Websted
 site-data-column-cookies =
