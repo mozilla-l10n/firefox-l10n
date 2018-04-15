@@ -36,17 +36,6 @@ containers-color-label = Kolor:
 containers-button-done =
     .label = Gotowe
     .accesskey = G
-containers-remove-alert-title = Usuwanie kontekstu
-# Variables:
-#   $count (Number) - Number of tabs that will be closed.
-containers-remove-alert-msg =
-    { $count ->
-        [one] Jeśli usuniesz teraz ten kontekst, { $count } karta zostanie zamknięta. Czy na pewno usunąć ten kontekst?
-        [few] Jeśli usuniesz teraz ten kontekst, { $count } karty zostaną zamknięte. Czy na pewno usunąć ten kontekst?
-       *[many] Jeśli usuniesz teraz ten kontekst, { $count } kart zostanie zamkniętych. Czy na pewno usunąć ten kontekst?
-    }
-containers-remove-ok-button = Usuń
-containers-remove-cancel-button = Nie usuwaj
 containers-color-blue =
     .label = Niebieski
 containers-color-turquoise =
