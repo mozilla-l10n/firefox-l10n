@@ -36,6 +36,8 @@
 <!ENTITY newFeedAccountCmd.accesskey "t">
 <!ENTITY newIMContactCmd.label "Pikaviestikontakti…">
 <!ENTITY newIMContactCmd.accesskey "k">
+<!ENTITY  newMessageCmd2.key "N">
+<!ENTITY  newMessageCmd.key "M">
 <!ENTITY  newMessageCmd.label "Viesti">
 <!ENTITY  newMessageCmd.accesskey "V">
 <!ENTITY  newContactCmd.label "Osoitekirjan yhteyshenkilö…">
@@ -167,6 +169,7 @@
 <!ENTITY compactVersion.label "Tiivis näkkymä">
 <!ENTITY compactVersion.accesskey "T">
 <!ENTITY folderPaneBar.label "Kansiopaneelin työkalupalkki">
+<!ENTITY folderPaneBar.accesskey "p">
 <!ENTITY folderModeSelector.label "Kansionäkymät">
 
 <!-- Sort Menu -->
@@ -318,6 +321,7 @@
 <!ENTITY goBackCmd.commandKey "Ö">
 <!ENTITY goChatCmd.label "Keskustele">
 <!ENTITY goChatCmd.accesskey "K">
+<!ENTITY goChatCmd2.key "e">
 <!ENTITY prevStarredMsgCmd.label "Tähdellä merkitty viesti">
 <!ENTITY prevStarredMsgCmd.accesskey "T">
 <!ENTITY folderMenu.label "Kansio">
@@ -367,6 +371,7 @@
 <!ENTITY editDraftMsgCmd.label "Muokkaa viestiluonnosta">
 <!ENTITY editDraftMsgCmd.accesskey "u">
 <!ENTITY editTemplateMsgCmd.label "Muokkaa mallia">
+<!ENTITY editTemplateMsgCmd.accesskey "m">
 <!ENTITY newMsgFromTemplateCmd.label "Uusi viesti mallista">
 <!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Luo viestistä suodatin…">
@@ -461,7 +466,10 @@
 <!ENTITY addons.label "Lisäosat">
 <!ENTITY addons.accesskey "o">
 <!ENTITY addonPrefs.label "Lisäosan asetukset">
+<!ENTITY addonPrefs.accesskey "L">
 <!ENTITY addonPrefsUnix.label "Lisäosan asetukset">
+<!ENTITY addonPrefsUnix.accesskey "L">
+<!ENTITY addonNoPrefs.label "Lisäosan asetuksia ei löytynyt.">
 <!ENTITY activitymanager.label "Toimintojen hallinta">
 <!ENTITY activitymanager.accesskey "h">
 <!ENTITY imAccountsStatus.label "Läsnäolotila">
@@ -515,6 +523,7 @@
 <!ENTITY scratchpadCmd.keycode "VK_F4">
 <!--LOCALIZATION NOTE (scratchpadCmd.keytext):
     This should be the text printed on the key defined in the previous string. -->
+<!ENTITY scratchpadCmd.keytext "F4">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "Nouda viestit">
@@ -568,6 +577,7 @@
 <!ENTITY forwardAsAttachment.tooltip "Välitä viesti liitteenä">
 <!ENTITY fileButton.tooltip "Tallenna valittu viesti">
 <!ENTITY archiveButton.tooltip "Arkistoi valitut viestit">
+<!ENTITY openConversationButton.tooltip "Näytä valitun viestin keskustelu">
 <!ENTITY nextButton.tooltip "Siirry seuraavaan lukematta olevaan viestiin">
 <!ENTITY nextMsgButton.tooltip "Siirry seuraavaan viestiin">
 <!ENTITY previousButton.tooltip "Siirry edelliseen lukematta olevaan viestiin">
@@ -632,6 +642,8 @@
 <!ENTITY folderContextGetMessages.accesskey "H">
 <!ENTITY folderContextMarkAllFoldersRead.label "Merkitse kaikki kansiot luetuiksi">
 <!ENTITY folderContextPauseAllUpdates.label "Keskeytä kaikki päivitykset">
+<!ENTITY folderContextPauseUpdates.label "Keskeytä päivitykset">
+<!ENTITY folderContextPauseUpdates.accesskey "K">
 <!ENTITY folderContextOpenInNewWindow.label "Avaa uudessa ikkunassa">
 <!ENTITY folderContextOpenInNewWindow.accesskey "A">
 <!ENTITY folderContextOpenNewTab.label "Avaa uuteen välilehteen">
@@ -746,6 +758,7 @@
 <!ENTITY contextEditMsgAsNew.accesskey "M">
 <!ENTITY contextEditDraftMsg.label "Muokkaa viestiluonnosta">
 <!ENTITY contextEditTemplate.label "Muokkaa mallia">
+<!ENTITY contextEditTemplate.accesskey "m">
 <!ENTITY contextArchive.label "Arkistoi">
 <!ENTITY contextArchive.accesskey "o">
 <!ENTITY contextReplySender.label "Vastaa vain lähettäjälle">
@@ -851,7 +864,7 @@
   -->
 <!ENTITY quickSearchCmd.key "k">
 <!-- LOCALIZATION NOTE (search.label.base1):
-      This is the base of the empty text for the global search box. We replace
+     This is the base of the empty text for the global search box. We replace
      #1 with the contents of the appropriate search.keyLabel.* value for the
      platform.
      The goal is to convey to the user that typing in the box will allow them

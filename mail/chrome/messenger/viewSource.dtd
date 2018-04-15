@@ -45,12 +45,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_highlightSyntax.label "Syntaksin korostus">
 <!ENTITY menu_highlightSyntax.accesskey "k">
 <!ENTITY menu_textSize.label "Tekstin koko">
+<!ENTITY menu_textEnlarge.label "Suurenna">
+<!ENTITY menu_textEnlarge.accesskey "S">
+<!ENTITY menu_textReduce.label "Pienennä">
+<!ENTITY menu_textReduce.accesskey "P">
+<!ENTITY menu_textReset.label "Normaali">
+<!ENTITY menu_textReset.accesskey "N">
 
 <!ENTITY findOnCmd.label     "Etsi tältä sivulta…">
 <!ENTITY findOnCmd.accesskey "E">
 <!ENTITY findAgainCmd.label  "Etsi uudelleen">
 <!ENTITY findAgainCmd.accesskey "u">
 
+<!ENTITY backCmd.label "Takaisin">
+<!ENTITY backCmd.accesskey "T">
+<!ENTITY forwardCmd.label "Eteenpäin">
+<!ENTITY forwardCmd.accesskey "E">
 
+<!ENTITY copyLinkCmd.label "Kopioi linkin sijainti">
 <!ENTITY copyEmailCmd.label "Kopioi sähköpostiosoite">
 
