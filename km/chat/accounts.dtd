@@ -14,7 +14,7 @@
 <!ENTITY accountManager.close.label          "បិទ">
 <!ENTITY accountManager.close.accesskey      "l">
 <!-- This should match account.commandkey in instantbird.dtd -->
-<!ENTITY accountManager.close.commandkey     "​">
+<!ENTITY accountManager.close.commandkey     "a">
 <!-- This title must be short, displayed with a big font size -->
 <!ENTITY accountManager.noAccount.title      "គ្មាន​គណនី​បាន​កំណត់​រចនាសម្ព័ន្ធ​នៅ​ឡើយ​ទេ">
 <!ENTITY accountManager.noAccount.description "ចុច​លើ​ប៊ូតុង &accountManager.newAccount.label; ដើម្បី​អនុញ្ញាត្តិ​ឲ្យ &brandShortName; ណែនាំាំ​អ្នក​ពី​ដំណើរការ​នៃ​ការ​កំណត់​រចនា​សម្ព័ន្ធ។">

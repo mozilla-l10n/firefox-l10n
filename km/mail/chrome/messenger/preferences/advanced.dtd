@@ -42,7 +42,6 @@
 <!ENTITY telemetrySection.label          "ទូរមាត្រ​វិធី">
 <!ENTITY telemetryDesc.label             "ចែករំលែក​ដំណើរការ ការ​ប្រើប្រាស់ ផ្នែក​រឹង និង​ការ​ប្ដូរ​ទិន្នន័យ​តាម​តម្រូវ​ការ​អំពី​កម្មវិធី​អ៊ីមែល​របស់​អ្នក​ដោយ​ប្រើ &vendorShortName; ដើម្បី​ជួយ​ធ្វើឲ្យ &brandShortName; ប្រសើរ​ឡើង">
 <!ENTITY enableTelemetry.label           "បើក ​ទូរមាត្រ​វិធី">
-<!ENTITY enableTelemetry.accesskey       "​">
 <!ENTITY telemetryLearnMore.label        "ស្វែងយល់​​បន្ថែម">
 
 <!ENTITY crashReporterSection.label      "កម្មវិធី​រាយការណ៍​អំពី​ការ​គាំង">
