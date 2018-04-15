@@ -76,6 +76,12 @@ restart-later = Genstart senere
 ## Preferences UI Search Results
 
 search-results-header = Søgeresultater
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Der er ingen resultater for "<span data-l10n-name="query"></span>" i indstillingerne.
+       *[other] Der er ingen resultater for "<span data-l10n-name="query"></span>" i indstillingerne.
+    }
 
 ## General Section
 
@@ -211,6 +217,7 @@ play-drm-content-learn-more = Læs mere
 update-application-title = { -brand-short-name }-opdateringer
 update-application-description = Hold { -brand-short-name } opdateret for at få den bedste ydelse, stabilitet og sikkerhed.
 update-application-info = Version { $version }. <a>Nyheder</a>
+update-application-version = Version { $version }. <a data-l10n-name="learn-more">Nyheder</a>
 update-history =
     .label = Vis opdateringshistorik…
     .accesskey = V
@@ -246,6 +253,7 @@ performance-limit-content-process-option = Begrænsning af indholds-processer
     .accesskey = i
 performance-limit-content-process-enabled-desc = Når du har mange faneblade åbne samtidig, kan brugen af flere indholdsprocesser forbedre ydelsen, men de vil til gengæld bruge mere hukommelse.
 performance-limit-content-process-disabled-desc = Det er kun muligt at ændre antallet af indholdsprocesser, når du bruger { -brand-short-name } med multiproces slået til. <a>Læs, hvordan du undersøger, om multiproces er slået til</a>
+performance-limit-content-process-blocked-desc = Det er kun muligt at ændre antallet af indholdsprocesser, når du bruger { -brand-short-name } med multiproces slået til. <a data-l10n-name="learn-more">Læs, hvordan du undersøger, om multiproces er slået til</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
