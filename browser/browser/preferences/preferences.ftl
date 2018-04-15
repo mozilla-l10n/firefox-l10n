@@ -37,6 +37,11 @@ search-input-box =
             [windows] Գտնել Ընտրանքներում
            *[other] Գտնել Կարգավորումներում
         }
+policies-notice =
+    { PLATFORM() ->
+        [windows] Ձեր կազմակերպությունը անջատել է որոշ ընտրանքներ փոխելու հնարավորությունը:
+       *[other] Ձեր կազմակերպությունը անջատել է որոշ կարգավորումներ փոխելու հնարավորությունը:
+    }
 pane-general-title = Ընդհանուր
 category-general =
     .tooltiptext = { pane-general-title }
@@ -285,6 +290,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Նոր Պատուհաններ և Ներդիրներ
+home-new-windows-tabs-description2 = Ընտրեք, թե ինչը տեսնել՝ տուն էջը, նոր պատուհաններ և նոր ներդիրներ բացելիս:
 
 ## Home Section - Home Page Customization
 
@@ -518,6 +524,10 @@ sitedata-block-cookies-option =
     .accesskey = B
 sitedata-keep-until = Պահել մինչև՝
     .accesskey = u
+sitedata-keep-until-expire =
+    .label = Դրանք սպառվել են
+sitedata-keep-until-closed =
+    .label = { -brand-short-name }-ը փակ է
 sitedata-accept-third-party-desc = Ընդունել երրորդ կողմի cookie-ները և կայքի տվյալները
     .accesskey = y
 sitedata-accept-third-party-always-option =
