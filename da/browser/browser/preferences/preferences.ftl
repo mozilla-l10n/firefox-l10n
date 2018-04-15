@@ -148,6 +148,9 @@ containers-disable-alert-ok-button =
        *[other] Luk { $tabCount } kontekst-faneblade
     }
 containers-disable-alert-cancel-button = Deaktiver ikke
+containers-remove-alert-title = Fjern denne kontekst?
+containers-remove-ok-button = Fjern denne kontekst
+containers-remove-cancel-button = Fjern ikke denne kontekst
 
 ## General Section - Language & Appearance
 
