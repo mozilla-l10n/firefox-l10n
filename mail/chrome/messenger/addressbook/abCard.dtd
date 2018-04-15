@@ -68,6 +68,10 @@
 <!ENTITY HomeState.accesskey            "м">
 <!ENTITY HomeZipCode.label              "Пошта индексі:">
 <!ENTITY HomeZipCode.accesskey          "и">
+<!ENTITY HomeCountry.label              "Ел:">
+<!ENTITY HomeCountry.accesskey          "е">
+<!ENTITY HomeWebPage.label              "Веб-беті:">
+<!ENTITY HomeWebPage.accesskey          "в">
 
 
 
