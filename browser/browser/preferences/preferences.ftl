@@ -76,6 +76,12 @@ restart-later = Berrabiarazi geroago
 ## Preferences UI Search Results
 
 search-results-header = Bilaketaren emaitzak
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Barkatu! Aukeretan ez dago "<span data-l10n-name="query"></span>" bilaketarako emaitzarik.
+       *[other] Barkatu! Hobespenetan ez dago "<span data-l10n-name="query"></span>" bilaketarako emaitzarik.
+    }
 
 ## General Section
 
