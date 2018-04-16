@@ -37,6 +37,7 @@
 <!ENTITY netOffline.title "Brez povezave">
 <!ENTITY netOffline.longDesc2 "<p>Brskalnik trenutno deluje v načinu brez povezave in se zato ne more povezati na zahtevano stran.</p><ul><li>Je računalnik povezan v delujoče omrežje?</li><li>Spremenite način brskalnika v delo s povezavo in poskusite ponovno.</li></ul>">
 
+<!ENTITY contentEncodingError.title "Napaka pri šifriranju vsebine">
 <!ENTITY contentEncodingError.longDesc "<p>Strani, ki si jo želite ogledati, ni mogoče prikazati, ker uporablja neveljavno ali nepodprto obliko kompresije.</p><ul><li>Obrnite se na lastnike spletne strani in jih obvestite o težavi.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Nevarna vrsta datoteke">

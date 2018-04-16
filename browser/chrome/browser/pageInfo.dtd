@@ -60,9 +60,6 @@
 <!ENTITY  permissionsFor        "Dovoljenja za:">
 <!ENTITY  permPlugins           "Omogoči vtičnike">
 
-<!ENTITY  permClearStorage           "Počisti shrambo">
-<!ENTITY  permClearStorage.accesskey "P">
-
 <!ENTITY  securityTab           "Varnost">
 <!ENTITY  securityTab.accesskey "A">
 <!ENTITY  securityView.certView "Preglej digitalno potrdilo">
@@ -81,6 +78,9 @@
 <!ENTITY  securityView.privacy.cookies                  "Ali ta spletna stran shranjuje podatke (piškotke) na moj računalnik?">
 <!ENTITY  securityView.privacy.viewCookies              "Preglej piškotke">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "p">
+<!ENTITY  securityView.privacy.siteData                 "Ali ta spletna stran shranjuje podatke na moj računalnik?">
+<!ENTITY  securityView.privacy.clearSiteData            "Počisti piškotke in podatke strani">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "č">
 <!ENTITY  securityView.privacy.passwords                "Ali sem shranil kakšno geslo za to stran?">
 <!ENTITY  securityView.privacy.viewPasswords            "Preglej shranjena gesla">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "g">
