@@ -44,12 +44,6 @@ restart-later = Atosaigh Ar Ball
 ## Preferences UI Search Results
 
 search-results-header = Torthaí an Chuardaigh
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] Ár leithscéal! Níl aon torthaí i Roghanna ar “<span></span>”.
-       *[other] Ár leithscéal! Níl aon torthaí i Sainroghanna ar “<span></span>”.
-    }
 
 ## General Section
 
