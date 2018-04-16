@@ -108,7 +108,6 @@ startup-prev-session =
 disable-extension =
     .label = ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਅਸਮਰੱਥ ਕਰੋ
 home-page-header = ਮੁੱਖ ਸਫ਼ਾ
-tabs-group-header = Tabs
 open-new-link-as-tabs =
     .label = ਲਿੰਕਾਂ ਨੂੰ ਨਵੀਆਂ ਵਿੰਡੋਆਂ ਦੀ ਬਜਾਏ ਟੈਬਾਂ ਵਿੱਚ ਖੋਲ੍ਹੋ
     .accesskey = w
