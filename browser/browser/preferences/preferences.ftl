@@ -154,6 +154,14 @@ containers-disable-alert-ok-button =
     }
 containers-disable-alert-cancel-button = Остави укључено
 containers-remove-alert-title = Уклонити овај контејнер?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Ако уклоните овај контејнер, { $count } контејнер језичак ће се затворити. Да ли сте сигурни да желите да уклоните овај контејнер?
+        [few] Ако уклоните ове контејнере, { $count } контејнер језичка ће се затворити. Да ли сте сигурни да желите да уклоните ове контејнере?
+       *[other] Ако уклоните ове контејнере, { $count } контејнер језичака ће се затворити. Да ли сте сигурни да желите да уклоните ове контејнере?
+    }
 containers-remove-ok-button = Уклони овај контејнер
 containers-remove-cancel-button = Немој уклонити овај контејнер
 
