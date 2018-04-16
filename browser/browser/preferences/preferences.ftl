@@ -146,6 +146,7 @@ containers-disable-alert-ok-button =
        *[other] Tampar { $tabCount } onglets isolats
     }
 containers-disable-alert-cancel-button = Gardar activat
+containers-remove-alert-title = Suprimir aqueste contenidor ?
 # Variables:
 #   $count (Number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
