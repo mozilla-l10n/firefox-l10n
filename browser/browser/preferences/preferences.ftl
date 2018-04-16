@@ -554,6 +554,7 @@ addressbar-suggestions-settings = 更改搜索引擎建议的首选项
 ## Privacy Section - Tracking
 
 tracking-header = 跟踪保护
+tracking-desc = 跟踪保护功能可阻止跟踪者在不同网站间收集您的浏览数据。 <a data-l10n-name="learn-more">详细了解跟踪保护和您的隐私</a>
 tracking-mode-label = 使用跟踪保护功能拦截已知的跟踪器
 tracking-mode-always =
     .label = 始终
