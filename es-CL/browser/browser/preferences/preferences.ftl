@@ -151,6 +151,9 @@ containers-disable-alert-ok-button =
        *[other] Cerrar { $tabCount } pestañas contenedoras
     }
 containers-disable-alert-cancel-button = Mantener activas
+containers-remove-alert-title = ¿Remover este contenedor?
+containers-remove-ok-button = Remover este contenedor
+containers-remove-cancel-button = No remover este contenedor
 
 ## General Section - Language & Appearance
 
