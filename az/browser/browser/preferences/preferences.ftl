@@ -76,6 +76,13 @@ restart-later = Sonra yenidən başlat
 ## Preferences UI Search Results
 
 search-results-header = Axtarış Nəticələri
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Bağışlayın! Seçimlərdə “<span data-l10n-name="query"></span>” üçün nəticə yoxdur.
+       *[other] Bağışlayın! Nizamlamalarda “<span data-l10n-name="query"></span>” üçün nəticə yoxdur.
+    }
+search-results-help-link = Kömək lazımdır? <a data-l10n-name="url">{ -brand-short-name } Dəstək</a> ziyarət edin
 
 ## General Section
 
@@ -213,6 +220,7 @@ play-drm-content-learn-more = Ətraflı öyrən
 update-application-title = { -brand-short-name } yeniləmələri
 update-application-description = Yaxşı məhsuldarlıq, sabitlik və təhlükəsizlik üçün { -brand-short-name } səyyahını daima yeni tutun.
 update-application-info = Buraxılış { $version } <a>Yeniliklər</a>
+update-application-version = Buraxılış { $version } <a data-l10n-name="learn-more">Yeniliklər</a>
 update-history =
     .label = Yeniləmə tarixçəsini göstər…
     .accesskey = p
@@ -248,6 +256,7 @@ performance-limit-content-process-option = Məzmun proses limiti
     .accesskey = L
 performance-limit-content-process-enabled-desc = Əlavə məzmun prosesləri çox vərəq işlətdikdə məhsuldarlığı artıra bilərlər, amma daha çox yaddaş işlədəcəklər.
 performance-limit-content-process-disabled-desc = Məzmun proseslərinin sayısının dəyişdirilməsi ancaq çox-prosesli { -brand-short-name } ilə mümkündür. <a>Çox-prosesliliyin aktiv olmasını necə yoxlayacağınızı görün</a>
+performance-limit-content-process-blocked-desc = Məzmun proseslərinin sayısının dəyişdirilməsi ancaq çox-prosesli { -brand-short-name } ilə mümkündür. <a data-l10n-name="learn-more">Çox-prosesliliyin aktiv olmasını necə yoxlayacağınızı görün</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -522,6 +531,7 @@ addressbar-suggestions-settings = Axtarış mühərriyi təklifləri üçün niz
 ## Privacy Section - Tracking
 
 tracking-header = İzlənmə Qoruması
+tracking-desc = İzlənmə Qoruması saytlar arası səyahət məlumatlarınızı yığan onlayn izləyiciləri əngəlləyir. <a data-l10n-name="learn-more">İzlənmə Qoruması və məxfiliyiniz haqqında ətraflı öyrənin</a>
 tracking-mode-label = Bilinin izləyiciləri əngəlləmək üçün İzlənmə Qorumasını işlədin
 tracking-mode-always =
     .label = Həmişə
