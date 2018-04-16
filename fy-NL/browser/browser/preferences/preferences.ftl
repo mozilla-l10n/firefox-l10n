@@ -76,6 +76,13 @@ restart-later = Letter opnij starte
 ## Preferences UI Search Results
 
 search-results-header = Sykresultaten
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Sorry! Der binne gjin resultaten yn Opsjes foar ‘<span data-l10n-name="query"></span>’.
+       *[other] Sorry! Der binne gjin resultaten yn Foarkarren foar ‘<span data-l10n-name="query"></span>’.
+    }
+search-results-help-link = Help nedich? Besykje <a data-l10n-name="url">{ -brand-short-name }-stipe</a>
 
 ## General Section
 
@@ -213,6 +220,7 @@ play-drm-content-learn-more = Mear ynfo
 update-application-title = { -brand-short-name }-fernijingen
 update-application-description = Hâld { -brand-short-name } by de tiid foar de bêste prestaasjes, stabiliteit en feilichheid.
 update-application-info = Ferzje { $version } <a>Wat is der nij</a>
+update-application-version = Ferzje { $version } <a data-l10n-name="learn-more">Wat is der nij</a>
 update-history =
     .label = Fernijingsskiednis toane…
     .accesskey = s
@@ -248,6 +256,7 @@ performance-limit-content-process-option = Limyt fan ynhâldsprosessen
     .accesskey = L
 performance-limit-content-process-enabled-desc = Ekstra ynhâldsprosessen kinne de prestaasjes by it gebrûk fan mear ljepblêden ferbetterje, mar sille ek mear ûnthâld brûke.
 performance-limit-content-process-disabled-desc = Oanpassen fan it oantal ynhâldsprosessen is allinnich mooglik mei multiproses-{ -brand-short-name }. <a>Ynformaasje oer it kontrolearjen of multiproses ynskeakele is</a>
+performance-limit-content-process-blocked-desc = Oanpassen fan it oantal ynhâldsprosessen is allinnich mooglik mei multiproses-{ -brand-short-name }. <a data-l10n-name="learn-more">Ynformaasje oer it kontrolearjen of multiproses ynskeakele is</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -554,6 +563,7 @@ addressbar-suggestions-settings = Foarkarren foar sykmasinesuggestjes wizigje
 ## Privacy Section - Tracking
 
 tracking-header = Beskerming tsjin folgjen
+tracking-desc = Beskerming tsjin folgjen blokkearret online trackers dy't op mear websites jo surfgegevens sammelje. <a data-l10n-name="learn-more">Lês mear oer online folgjen en jo privacy</a>
 tracking-mode-label = Beskerming tsjin folgjen brûke om bekende folgers te blokkearjen
 tracking-mode-always =
     .label = Altyd
