@@ -152,6 +152,13 @@ containers-disable-alert-ok-button =
     }
 containers-disable-alert-cancel-button = Mantener activas
 containers-remove-alert-title = ¿Remover este contenedor?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Si eliminas este contenedor ahora, { $count } pestaña contenedora será cerrada. ¿Estás seguro de que quieres eliminar este contenedor?
+       *[other] Si eliminas este contenedor ahora, { $count } pestañas contenedoras serán cerradas. ¿Estás seguro de que quieres eliminar este contenedor?
+    }
 containers-remove-ok-button = Remover este contenedor
 containers-remove-cancel-button = No remover este contenedor
 
