@@ -153,6 +153,9 @@ containers-disable-alert-ok-button =
        *[other] Serriñ { $tabCount } ivinell endalc'her
     }
 containers-disable-alert-cancel-button = Leuskel gweredekaet
+containers-remove-alert-title = Lemel an endalc'had kuit?
+containers-remove-ok-button = Dilemel an Endalc'her-mañ
+containers-remove-cancel-button = Chom hep dilemel an Endalc'her-mañ
 
 ## General Section - Language & Appearance
 
