@@ -151,6 +151,13 @@ containers-disable-alert-ok-button =
        *[other] { $tabCount } konteyner vərəqini qapat
     }
 containers-disable-alert-cancel-button = Açıq tut
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Əgər bu Konteyneri indi silsəz, { $count } konteyner vərəqi qapadılacaq. Bu Konteyneri silmək istədiyinizə əminsiniz?
+       *[other] Əgər bu Konteyneri indi silsəz, { $count } konteyner vərəqi qapadılacaq. Bu Konteyneri silmək istədiyinizə əminsiniz?
+    }
 
 ## General Section - Language & Appearance
 
