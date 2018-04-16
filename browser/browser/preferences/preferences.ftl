@@ -151,6 +151,8 @@ containers-disable-alert-ok-button =
     }
 containers-disable-alert-cancel-button = అలానే చేతనించు
 containers-remove-alert-title = ఈ కంటెయినరును తీసీవేయాలా?
+containers-remove-ok-button = ఈ కంటెయినరును తొలగించండి
+containers-remove-cancel-button = ఈ కంటెయినరును తొలగించ వద్దు
 
 ## General Section - Language & Appearance
 
