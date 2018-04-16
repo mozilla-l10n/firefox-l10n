@@ -76,13 +76,6 @@ restart-later = Emoñepyrũjey ag̃ave
 ## Preferences UI Search Results
 
 search-results-header = Jehekakue rehegua
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] ¡Ambyasy! ndaipóri tembiapokue jeporavorãme “<span></span>”-pe g̃uarã.
-       *[other] ¡Ambyasy! ndaipoóri jerohoryvévape tembiapokue “<span></span>”.
-    }
-search-results-need-help = ¿Eokitevẽpa pytyvõ? Eoke <a>{ -brand-short-name } Ñepytyvõ</a> pe
 
 ## General Section
 
@@ -472,9 +465,6 @@ privacy-header = Kundahára Ñemigua
 ## Privacy Section - Forms
 
 forms-header = Ysaja ha ñe'ẽnemi
-forms-remember-logins =
-    .label = Nemandu'áke tembiapo ñepyrũ ha ñe'ẽnemi ñanduti rendaguáva
-    .accesskey = N
 forms-exceptions =
     .label = Oĩ'ỹva
     .accesskey = x
@@ -564,7 +554,6 @@ addressbar-suggestions-settings = Jerohoryvéva jehekaha mongu'eha je'epyre momb
 ## Privacy Section - Tracking
 
 tracking-header = Eipuru Ñemo'ã Tapykuehógui
-tracking-description = Tapykuere ñemo'ã ojoko umi oporohekáva ñandutípe ha ombyatýva ne kundaha mba'ekuaarã heta ñanduti renda rupi. <a>Eikuaave tapykuere ha temiñemi ñemo'ã rehegua</a>
 tracking-mode-label = Eipuru tapykuere ñemo'ã ejoko hag̃ua oporohekavakuérape
 tracking-mode-always =
     .label = Akóinte
