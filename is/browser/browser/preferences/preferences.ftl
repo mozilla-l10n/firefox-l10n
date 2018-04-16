@@ -255,6 +255,7 @@ performance-limit-content-process-option = Takmarka þræði fyrir efni
     .accesskey = þ
 performance-limit-content-process-enabled-desc = Fleiri þræðir fyrir efni getur aukið afköst þegar verið er að nota marga flipa, en tekur upp meira minni.
 performance-limit-content-process-disabled-desc = Aðeins er hægt að breyta fjölda efnisþráða með { -brand-short-name } sem inniheldur fjölgjörvavinnslu. <a>Sjáðu hvernig þú athugar hvort fjölgjörvavinnsla er virk</a>
+performance-limit-content-process-blocked-desc = Aðeins er hægt að breyta fjölda efnisþráða með { -brand-short-name } sem inniheldur fjölgjörvavinnslu. <a data-l10n-name="learn-more">Sjáðu hvernig þú athugar hvort fjölgjörvavinnsla er virk</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
