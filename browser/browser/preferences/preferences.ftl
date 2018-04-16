@@ -76,13 +76,6 @@ restart-later = 稍后重启
 ## Preferences UI Search Results
 
 search-results-header = 搜索结果
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] 很抱歉，没有找到有关“<span></span>”的选项。
-       *[other] 很抱歉，没有找到有关“<span></span>”的首选项。
-    }
-search-results-need-help = 需要帮助？访问 <a>{ -brand-short-name } 技术支持</a>
 
 ## General Section
 
@@ -472,9 +465,6 @@ privacy-header = 浏览器隐私
 ## Privacy Section - Forms
 
 forms-header = 表单与密码
-forms-remember-logins =
-    .label = 记住网站的登录账号和密码
-    .accesskey = R
 forms-exceptions =
     .label = 例外…
     .accesskey = x
@@ -564,7 +554,6 @@ addressbar-suggestions-settings = 更改搜索引擎建议的首选项
 ## Privacy Section - Tracking
 
 tracking-header = 跟踪保护
-tracking-description = 跟踪保护功能可阻止跟踪者在不同网站间收集您的浏览数据。 <a>详细了解跟踪保护和您的隐私</a>
 tracking-mode-label = 使用跟踪保护功能拦截已知的跟踪器
 tracking-mode-always =
     .label = 始终
