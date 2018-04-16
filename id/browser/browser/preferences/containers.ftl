@@ -36,12 +36,6 @@ containers-color-label = Warna
 containers-button-done =
     .label = Selesai
     .accesskey = S
-containers-remove-alert-title = Hapus Kontainer Ini?
-# Variables:
-#   $count (Number) - Number of tabs that will be closed.
-containers-remove-alert-msg = Jika Anda menghapus Kontainer ini sekarang, { $count } tab kontainer akan ditutup. Yakin ingin menghapus Kontainer ini?
-containers-remove-ok-button = Hapus Kontainer ini
-containers-remove-cancel-button = Jangan hapus Kontainer ini
 containers-color-blue =
     .label = Biru
 containers-color-turquoise =
