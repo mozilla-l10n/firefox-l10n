@@ -151,6 +151,16 @@ containers-disable-alert-ok-button =
        *[other] Lor Dirica matino { $tabCount } me mako jami
     }
 containers-disable-alert-cancel-button = Wek ma kicako
+containers-remove-alert-title = Kwany Lamak jami man?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Ka i kwanyo Lamak jami man kombedi, ki biloro dirica matidi { $count } me mako jami. Imoko ada ni imito kwanyo Lamak jami man?
+       *[other] Ka i kwanyo Lamak jami man kombedi, ki biloro dirica matino { $count } me mako jami. Imoko ada ni imito kwanyo Lamak jami man?
+    }
+containers-remove-ok-button = Kwany Lamak jami man
+containers-remove-cancel-button = Pe ikwany Lamak jami man
 
 ## General Section - Language & Appearance
 
