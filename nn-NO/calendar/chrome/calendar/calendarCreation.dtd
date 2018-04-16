@@ -43,7 +43,7 @@
 <!ENTITY location.placeholder "URL eller vertsnamn på kalenderserveren">
 
 <!ENTITY network.nocredentials.label "Denne adressa krev ikkje innlogging">
-<!ENTITY network.loading.description "Vent mens kalendrane dine blir oppdaga.">
+<!ENTITY network.loading.description "Vent medan kalendrane dine blir oppdaga.">
 <!ENTITY network.notfound.description "Kan ikkje finne kalendrar på denne adressa. Kontroller innstillingane dine.">
 <!ENTITY network.authfail.description "Innlogginga du spesifiserte fungerte ikkje. Ver snill og kontroller innstillingane dine.">
 
