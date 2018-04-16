@@ -484,6 +484,9 @@ privacy-header = Privacy do navegatô
 ## Privacy Section - Forms
 
 forms-header = Form e Paròlle segrete
+forms-ask-to-save-logins =
+    .label = Domanda se sarvâ acessi e poule segrete pe-i sciti
+    .accesskey = r
 forms-exceptions =
     .label = Eceçioin…
     .accesskey = ç
