@@ -67,6 +67,12 @@ restart-later = 後で再起動
 ## Preferences UI Search Results
 
 search-results-header = 検索結果
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] “<span data-l10n-name="query"></span>” オプションについての検索結果はありません。
+       *[other] “<span data-l10n-name="query"></span>” 設定についての検索結果はありません。
+    }
 
 ## General Section
 
@@ -231,6 +237,7 @@ performance-limit-content-process-option = コンテンツプロセス数の制�
     .accesskey = L
 performance-limit-content-process-enabled-desc = コンテンツプロセスを増やすと、複数タブの使用時にパフォーマンスが向上しますが、メモリーを多く消費します。
 performance-limit-content-process-disabled-desc = コンテンツプロセスの数はマルチプロセスの { -brand-short-name } でしか変更できません。 <a>マルチプロセスが有効になっているか確認してください</a>
+performance-limit-content-process-blocked-desc = コンテンツプロセスの数はマルチプロセスの { -brand-short-name } でしか変更できません。 <a data-l10n-name="learn-more">マルチプロセスが有効になっているか確認してください</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
