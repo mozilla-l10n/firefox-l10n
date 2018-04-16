@@ -36,16 +36,6 @@ containers-color-label = Color
 containers-button-done =
     .label = Hecho
     .accesskey = H
-containers-remove-alert-title = ¿Eliminar este contenedor?
-# Variables:
-#   $count (Number) - Number of tabs that will be closed.
-containers-remove-alert-msg =
-    { $count ->
-        [one] Si elimina este contenedor ahora, se cerrará { $count } pestaña contenedora. ¿Está seguro de que quiere eliminar este contenedor?
-       *[other] Si elimina este contenedor ahora, se cerrarán { $count } pestañas contenedoras. ¿Está seguro de que quiere eliminar este contenedor?
-    }
-containers-remove-ok-button = Eliminar este contenedor
-containers-remove-cancel-button = No eliminar este contenedor
 containers-color-blue =
     .label = Azul
 containers-color-turquoise =
