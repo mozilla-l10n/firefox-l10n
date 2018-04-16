@@ -220,6 +220,7 @@ play-drm-content-learn-more = Argibide gehiago
 update-application-title = { -brand-short-name } eguneraketak
 update-application-description = Mantendu { -brand-short-name } eguneratuta errendimendu, egonkortasun eta segurtasun onena bermatzeko.
 update-application-info = ​{ $version }bertsioa <a>Nobedadeak</a>
+update-application-version = { $version }bertsioa <a data-l10n-name="learn-more">Nobedadeak</a>
 update-history =
     .label = Erakutsi eguneraketen historia…
     .accesskey = E
