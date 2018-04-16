@@ -36,16 +36,6 @@ containers-color-label = రంగు
 containers-button-done =
     .label = పూర్తయింది
     .accesskey = D
-containers-remove-alert-title = ఈ కంటెయినరును తీసీవేయాలా?
-# Variables:
-#   $count (Number) - Number of tabs that will be closed.
-containers-remove-alert-msg =
-    { $count ->
-        [one] మీరు ఇప్పుడు ఈ కంటైనర్ని తీసివేస్తే, { $count } కంటైనర్ టాబు మూసివేయబడుతుంది. మీరు ఈ కంటైనర్ తొలగించాలని నిశ్చయించుకున్నారా?
-       *[other] మీరు ఇప్పుడు ఈ కంటైనర్ని తీసివేస్తే, { $count } కంటైనర్ టాబ్లు మూసివేయబడతాయి. మీరు ఈ కంటైనర్ని తొలగించాలని నిశ్చయించుకున్నారా?
-    }
-containers-remove-ok-button = ఈ కంటెయినరును తొలగించండి
-containers-remove-cancel-button = ఈ కంటెయినరును తొలగించ వద్దు
 containers-color-blue =
     .label = నీలం
 containers-color-turquoise =
