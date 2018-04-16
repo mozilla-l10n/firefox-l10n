@@ -144,6 +144,17 @@ containers-disable-alert-ok-button =
        *[other] Zatvori { $tabCount } Container tabova
     }
 containers-disable-alert-cancel-button = Ostavi omogućeno
+containers-remove-alert-title = Ukloniti ovaj Container?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Ukoliko uklonite ovaj Container odmah, { $count } tab u containeru će biti zatvoren. Da li ste sigurni da želite zatvoriti ovaj Container?
+        [few] Ukoliko uklonite ovaj Container odmah, { $count } tabova u containeru će biti zatvoreni. Da li ste sigurni da želite zatvoriti ovaj Container?
+       *[other] Ukoliko uklonite ovaj Container odmah, { $count } tabova u containeru će biti zatvoreni. Da li ste sigurni da želite zatvoriti ovaj Container?
+    }
+containers-remove-ok-button = Ukloni ovaj Container
+containers-remove-cancel-button = Ne uklanjaj ovaj Container
 
 ## General Section - Language & Appearance
 
