@@ -174,6 +174,7 @@ applications-action-column =
 play-drm-content-learn-more = Batafsil ma’lumot
 update-application-title = { -brand-short-name } yangilanishlari
 update-application-info = Versiyasi{ $version } <a>Yangi xususiyatlar</a>
+update-application-version = Versiyasi{ $version } <a data-l10n-name="learn-more">Yangi xususiyatlar</a>
 update-history =
     .label = Yangilash tarixini koʻrsatish…
     .accesskey = n
@@ -206,6 +207,7 @@ performance-limit-content-process-option = Kontent jarayoni cheklovi
     .accesskey = c
 performance-limit-content-process-enabled-desc = Bir nechta ichki oynalardan foydalanilganda qo‘shimcha kontent jarayoni samaradorlikni oshiradi, ammo ko‘proq xotiradan foydalanadi.
 performance-limit-content-process-disabled-desc = Kontent jarayoni miqdorini o‘zgartirish faqatgina { -brand-short-name } multijarayonlari bilan mavjud.  <a>Multijarayonlar yoqilganda tekshirish usuli</a>
+performance-limit-content-process-blocked-desc = Kontent jarayoni miqdorini o‘zgartirish faqatgina { -brand-short-name } multijarayonlari bilan mavjud.  <a data-l10n-name="learn-more">Multijarayonlar yoqilganda tekshirish usuli</a>
 
 ## General Section - Browsing
 
