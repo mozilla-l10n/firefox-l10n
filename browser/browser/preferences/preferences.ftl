@@ -82,6 +82,7 @@ search-results-empty-message =
         [windows] Bohužel žane wuslědki w nastajenjach za “<span data-l10n-name="query"></span>” njejsu.
        *[other] Bohužel žane wuslědki w nastajenjach za “<span data-l10n-name="query"></span>” njejsu.
     }
+search-results-help-link = Trjebaće pomoc? Wopytajće <a data-l10n-name="url">Pomoc za { -brand-short-name }</a>
 
 ## General Section
 
@@ -259,6 +260,7 @@ performance-limit-content-process-option = Mjeza wobsahoweho procesa
     .accesskey = M
 performance-limit-content-process-enabled-desc = Wjace wobsahowych procesow móže wukon polěpšować, hdyž so wjacore rajtarki wužiwaja, budźe wšak tež wjace składa přetrjebować.
 performance-limit-content-process-disabled-desc = Ličba wobsahowych procesow da so jenož z wjaceprocesowym { -brand-short-name } změnić. <a>Zhońće, kak móžeće kontrolować, hač wjaceprocesowa funkcija je zmóžnjena</a>
+performance-limit-content-process-blocked-desc = Ličba wobsahowych procesow da so jenož z wjaceprocesowym { -brand-short-name } změnić. <a data-l10n-name="learn-more">Zhońće, kak móžeće kontrolować, hač wjaceprocesowa funkcija je zmóžnjena</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -565,6 +567,7 @@ addressbar-suggestions-settings = Nastajenja za namjety pytawy změnić
 ## Privacy Section - Tracking
 
 tracking-header = Slědowanski škit
+tracking-desc = Slědowanski škit přesćěhowaki online blokuje, kotrež waše přehladowanske daty přez wjacore websydła hromadźa. <a data-l10n-name="learn-more">Zhońće wjace wo slědowanskim škiće a swojej priwatnosći</a>
 tracking-mode-label = Slědowanski škit wužiwać, zo by znate přesćěhowaki blokował
 tracking-mode-always =
     .label = Přeco
