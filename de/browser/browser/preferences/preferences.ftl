@@ -73,13 +73,6 @@ restart-later = Später neu starten
 ## Preferences UI Search Results
 
 search-results-header = Suchergebnisse
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] Keine Treffer in den Einstellungen für "<span></span>".
-       *[other] Keine Treffer in den Einstellungen für "<span></span>".
-    }
-search-results-need-help = Benötigen Sie Hilfe? Dann besuchen Sie die <a>Hilfeseite für { -brand-short-name }</a>.
 
 ## General Section
 
@@ -300,11 +293,9 @@ use-current-pages =
            *[other] Aktuelle Seiten verwenden
         }
     .accesskey = A
-
 choose-bookmark =
     .label = Lesezeichen verwenden…
     .accesskey = L
-
 restore-default =
     .label = Standard wiederherstellen
     .accesskey = t
@@ -316,18 +307,14 @@ search-bar-hidden =
     .label = Adressleiste für Suche und Seitenaufrufe verwenden
 search-bar-shown =
     .label = Suchleiste zur Symbolleiste hinzufügen
-
 search-engine-default-header = Standardsuchmaschine
 search-engine-default-desc = Wählen Sie Ihre Standardsuchmaschine für die Adress- und Suchleiste.
-
 search-suggestions-option =
     .label = Suchvorschläge anzeigen
     .accesskey = S
-
 search-show-suggestions-url-bar-option =
     .label = Suchvorschläge in Adressleiste anzeigen
     .accesskey = v
-
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
@@ -335,28 +322,20 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = In Adressleiste Suchvorschläge vor Einträgen aus der Browser-Chronik anzeigen
-
 search-suggestions-cant-show = Suchvorschläge werden nicht in der Adressleiste angezeigt, weil { -brand-short-name } angewiesen wurde, keine Chronik zu speichern.
-
 search-one-click-header = Ein-Klick-Suchmaschinen
-
 search-one-click-desc = Wählen Sie eine andere Suchmaschine von den unterhalb der Adress- bzw. Suchleiste angezeigten Suchmaschinen, nachdem Sie den Suchbegriff eingegeben haben.
-
 search-choose-engine-column =
     .label = Suchmaschine
 search-choose-keyword-column =
     .label = Schlüsselwort
-
 search-restore-default =
     .label = Standardsuchmaschinen wiederherstellen
     .accesskey = w
-
 search-remove-engine =
     .label = Entfernen
     .accesskey = E
-
 search-find-more-link = Weitere Suchmaschinen hinzufügen
-
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Schlüsselwort duplizieren
@@ -372,7 +351,6 @@ containers-header = Tab-Umgebungen
 containers-add-button =
     .label = Neue Umgebung hinzufügen
     .accesskey = N
-
 containers-preferences-button =
     .label = Einstellungen
 containers-remove-button =
@@ -462,9 +440,6 @@ privacy-header = Browser-Datenschutz
 ## Privacy Section - Forms
 
 forms-header = Formulare & Passwörter
-forms-remember-logins =
-    .label = Zugangsdaten und Passwörter für Websites speichern
-    .accesskey = Z
 forms-exceptions =
     .label = Ausnahmen…
     .accesskey = u
@@ -531,7 +506,6 @@ addressbar-suggestions-settings = Einstellungen für Suchvorschläge ändern
 ## Privacy Section - Tracking
 
 tracking-header = Schutz vor Aktivitätenverfolgung
-tracking-description = Der Schutz vor Aktivitätenverfolgung blockiert nur Systeme, welche Ihr Surfverhalten über mehrere Websites verteilt aufzeichnen. <a>Weitere Informationen zum Schutz Ihrer Privatsphäre und vor Aktivitätenverfolgung</a>
 tracking-mode-label = Schutz vor Aktivitätenverfolgung verwenden, um bekannte Aktivitäten verfolgende Systeme zu blockieren
 tracking-mode-always =
     .label = Immer
