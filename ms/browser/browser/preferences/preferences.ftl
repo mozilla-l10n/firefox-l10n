@@ -143,6 +143,12 @@ containers-disable-alert-title = Tutup Semua Tab Penyimpan?
 containers-disable-alert-desc = Jika anda menyahaktif Tab Penyimpan sekarang, { $tabCount } tab penyimpan akan ditutup. Adakah anda pasti mahu menyahaktif Tab Penyimpan?
 containers-disable-alert-ok-button = Tutup { $tabCount } Tab Penyimpan
 containers-disable-alert-cancel-button = Sentiasa didayakan
+containers-remove-alert-title = Buang Penyimpan Ini?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg = Jika anda mengalih keluar Penyimpan ini sekarang, { $count } tab penyimpan akan ditutup. Adakah anda pasti mahu mengalih keluar Penyimpan ini?
+containers-remove-ok-button = Buang Penyimpan Ini
+containers-remove-cancel-button = Jangan buang Penyimpan Ini
 
 ## General Section - Language & Appearance
 
