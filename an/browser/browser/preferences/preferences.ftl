@@ -76,6 +76,13 @@ restart-later = Reiniciar mas entabant
 ## Preferences UI Search Results
 
 search-results-header = Resultaus de buscar
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] No i hai garra resultau en Opcions pa “<span data-l10n-name="query"></span>”.
+       *[other] No i hai garra resultau en Preferencias pa “<span data-l10n-name="query"></span>”.
+    }
+search-results-help-link = Te cal aduya? Vesita <a data-l10n-name="url">Aduya de { -brand-short-name }</a>
 
 ## General Section
 
@@ -213,6 +220,7 @@ play-drm-content-learn-more = Mas información
 update-application-title = Actualizacions d'o { -brand-short-name }:
 update-application-description = Mantener { -brand-short-name } a lo día pa tener lo millor rendimiento, estabilidat y seguranza.
 update-application-info = Versión { $version } <a>Novedatz</a>
+update-application-version = Versión { $version } <a data-l10n-name="learn-more">Novedatz</a>
 update-history =
     .label = Amostrar l'historial d'actualizacions
     .accesskey = h
@@ -248,6 +256,7 @@ performance-limit-content-process-option = Limite de procesado de conteniu
     .accesskey = L
 performance-limit-content-process-enabled-desc = Los procesos de conteniu adicional pueden millorar las prestacions quan se fan servir multiples pestanyas, pero tamién usarán mas memoria.
 performance-limit-content-process-disabled-desc = Modificar lo numero de procesos de contenius no ye posible soque con la versión multiproceso de { -brand-short-name }. <a>Aprender a comprebar si los multiprocesos son activaus</a>
+performance-limit-content-process-blocked-desc = Modificar lo numero de procesos de contenius no ye posible soque con la versión multiproceso de { -brand-short-name }. <a data-l10n-name="learn-more">Aprender a comprebar si los multiprocesos son activaus</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -549,6 +558,7 @@ addressbar-suggestions-settings = Cam&biar las preferencias de sucherencias en m
 ## Privacy Section - Tracking
 
 tracking-header = Protección contra Seguimiento
+tracking-desc = La protección contra seguimiento bloca los trackers en linia que replegan los tuyos daots de navegación en diferents puestos web. <a data-l10n-name="learn-more">Conoixe mas sobre la Protección contra seguimiento y la tuya privacidat</a>
 tracking-mode-label = Usar la protección contra seguimiento pa blocar los trackers conoixius
 tracking-mode-always =
     .label = Siempre
