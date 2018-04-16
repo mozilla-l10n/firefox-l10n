@@ -67,12 +67,6 @@ restart-later = പിന്നീട് പുനരാരംഭിക്കു
 ## Preferences UI Search Results
 
 search-results-header = തിരച്ചില്‍ ഫലങ്ങള്‍
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] ക്ഷമിക്കണം! “<span></span>” നു വേണ്ടി ഓപ്ഷനുകളിൽ ഫലങ്ങളൊന്നുമില്ല.
-       *[other] ക്ഷമിക്കണം! “<span></span>” നായുള്ള പ്രഫറന്‍സില്‍ ഫലങ്ങളൊന്നുമില്ല.
-    }
 
 ## General Section
 
@@ -398,9 +392,6 @@ privacy-header = ബ്രൗസർ സ്വകാര്യത
 ## Privacy Section - Forms
 
 forms-header = ഫോമുകള്‍ & പാസ്വേഡുകള്‍
-forms-remember-logins =
-    .label = വെബ്സൈറ്റുകൾക്കായുള്ള ലോഗിനുകളും പാസ്വേഡുകളും ഓർക്കുക
-    .accesskey = R
 forms-exceptions =
     .label = ഒഴിവാക്കേണ്ടവ…
     .accesskey = x
