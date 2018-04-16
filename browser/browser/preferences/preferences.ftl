@@ -147,6 +147,13 @@ containers-disable-alert-ok-button =
     }
 containers-disable-alert-cancel-button = Να παραμείνουν ενεργές
 containers-remove-alert-title = Αφαίρεση θεματικής ενότητας;
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Αν αφαιρέσετε αυτή τη θεματική κατηγορία τώρα, θα κλείσει { $count } θεματική καρτέλα. Θέλετε σίγουρα να αφαιρέσετε αυτή τη θεματική κατηγορία;
+       *[other] Αν αφαιρέσετε αυτή τη θεματική κατηγορία τώρα, θα κλείσουν { $count } θεματικές καρτέλες. Θέλετε σίγουρα να αφαιρέσετε αυτή τη θεματική κατηγορία;
+    }
 containers-remove-ok-button = Αφαίρεση αυτής της θεματικής κατηγορίας
 containers-remove-cancel-button = Να μην αφαιρεθεί η θεματική κατηγορία
 
