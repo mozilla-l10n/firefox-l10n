@@ -101,6 +101,12 @@ containers-disable-alert-title = បិទ​ផ្ទាំង​ឧបករ�
 containers-disable-alert-desc = ប្រសិនបើ​អ្នក​បិទ​ផ្ទាំង​ឧបករណ៍​ផ្ទុក​ឥឡូវ​នេះ ផ្ទាំង​ឧបករណ៍​ផ្ទុក { $tabCount } នឹង​ត្រូវបាន​បិទ។ តើ​អ្នក​ពិត​ជា​ចង់​បិទ​ផ្ទាំង​ឧបករណ៍​ផ្ទុក​មែន​ទេ?
 containers-disable-alert-ok-button = បិទ​ផ្ទាំង​ឧបករណ៍​ផ្ទុក { $tabCount }
 containers-disable-alert-cancel-button = បន្ត​បើក
+containers-remove-alert-title = លុប​ប្រអប់​នេះ​ចេញ?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg = បើ​អ្នក​លុប​​ឧបករណ៍​ផ្ទុក​​នេះ​ចេញ​ឥឡូវ​នេះ ឧបករណ៍​ផ្ទុក { $count } នឹង​ត្រូវបាន​​បិទ។ តើ​អ្នក​ពិត​ជា​ចង់​លុប​​ឧបករណ៍​ផ្ទុក​​នេះ​ចេញ​មែនទេ?
+containers-remove-ok-button = លុប​ប្រអប់​នេះ​ចេញ
+containers-remove-cancel-button = កុំ​លុប​ប្រអប់​នេះ​ចេញ​អី
 
 ## General Section - Language & Appearance
 
