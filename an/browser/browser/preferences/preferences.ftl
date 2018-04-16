@@ -76,13 +76,6 @@ restart-later = Reiniciar mas entabant
 ## Preferences UI Search Results
 
 search-results-header = Resultaus de buscar
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] No i hai garra resultau en Opcions pa “<span></span>”.
-       *[other] No i hai garra resultau en Preferencias pa “<span></span>”.
-    }
-search-results-need-help = Te cal aduya? Vesita <a>Aduya de { -brand-short-name }</a>
 
 ## General Section
 
@@ -471,9 +464,6 @@ privacy-header = Privacidat d'o navegador
 ## Privacy Section - Forms
 
 forms-header = Formularios & Claus
-forms-remember-logins =
-    .label = Recordar los inicios y claus pa los puestos web
-    .accesskey = R
 forms-exceptions =
     .label = Excepcions…
     .accesskey = x
@@ -559,7 +549,6 @@ addressbar-suggestions-settings = Cam&biar las preferencias de sucherencias en m
 ## Privacy Section - Tracking
 
 tracking-header = Protección contra Seguimiento
-tracking-description = La protección contra seguimiento bloca los trackers en linia que replegan los tuyos daots de navegación en diferents puestos web. <a>Conoixe mas sobre la Protección contra seguimiento y la tuya privacidat</a>
 tracking-mode-label = Usar la protección contra seguimiento pa blocar los trackers conoixius
 tracking-mode-always =
     .label = Siempre
