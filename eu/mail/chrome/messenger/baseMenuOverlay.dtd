@@ -20,13 +20,9 @@
 <!ENTITY openHelp.label "Laguntzaren edukiak">
 <!ENTITY openHelp.accesskey "L">
 <!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac.label "&brandShortName;(r)en laguntza">
-<!ENTITY openHelpMac2.label "&brandShortName;(r)en laguntza">
+<!ENTITY openHelpMac2.label "&brandFullName;(r)en laguntza">
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
-
-<!ENTITY aboutMenuCmd.label "&brandShortName;(r)i buruz">
-<!ENTITY aboutMenuCmd.accesskey "b">
 
 <!ENTITY aboutMenuCmd2.label "&brandFullName;(r)i buruz">
 <!ENTITY aboutMenuCmd2.accesskey "b">
