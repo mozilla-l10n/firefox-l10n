@@ -200,6 +200,7 @@ play-drm-content-learn-more = Pelajari lebih lanjut
 update-application-title = Pemutakhiran { -brand-short-name }
 update-application-description = Pastikan { -brand-short-name } selalu mutakhir demi kinerja, stabilitas, dan keamanan terbaik.
 update-application-info = Versi { $version } <a>Yang baru</a>
+update-application-version = Versi { $version } <a data-l10n-name="learn-more">Yang baru</a>
 update-history =
     .label = Tampilkan Riwayat Pemutakhiran…
     .accesskey = P
@@ -235,6 +236,7 @@ performance-limit-content-process-option = Batas proses konten
     .accesskey = P
 performance-limit-content-process-enabled-desc = Proses konten tambahan dapat meningkatkan performa ketika menggunakan multipel tab, tetapi juga akan menggunakan lebih banyak memori.
 performance-limit-content-process-disabled-desc = Memodifikasi jumlah proses konten hanya bisa dengan multiproses { -brand-short-name }. <a>Pelajari cara mengecek jika multiproses diaktifkan</a>
+performance-limit-content-process-blocked-desc = Memodifikasi jumlah proses konten hanya bisa dengan multiproses { -brand-short-name }. <a data-l10n-name="learn-more">Pelajari cara mengecek jika multiproses diaktifkan</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
