@@ -71,6 +71,13 @@ restart-later = Mulai Ulang Nanti
 ## Preferences UI Search Results
 
 search-results-header = Hasil Pencarian
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Maaf! Tidak ada hasil di Preferensi untuk “<span data-l10n-name="query"></span>”.
+       *[other] Maaf! Tidak ada hasil di Preferensi untuk “<span data-l10n-name="query"></span>”.
+    }
+search-results-help-link = Butuh bantuan? Kunjungi <a data-l10n-name="url">Dukungan { -brand-short-name }</a>
 
 ## General Section
 
@@ -514,6 +521,7 @@ addressbar-suggestions-settings = Ubah preferensi untuk saran mesin pencari
 ## Privacy Section - Tracking
 
 tracking-header = Perlindungan Pelacakan
+tracking-desc = Perlindungan pelacakan memblokir pelacak daring yang mengumpulkan data penjelajahan Anda lintas berbagai situs web. <a data-l10n-name="learn-more">Pelajari lebih lanjut tentang Perlindungan Pelacakan dan privasi Anda</a>
 tracking-mode-label = Gunakan Perlindungan Pelacakan untuk memblokir pelacak yang diketahui
 tracking-mode-always =
     .label = Selalu
