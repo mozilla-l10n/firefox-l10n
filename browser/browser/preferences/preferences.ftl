@@ -76,13 +76,6 @@ restart-later = Berrabiarazi geroago
 ## Preferences UI Search Results
 
 search-results-header = Bilaketaren emaitzak
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] Barkatu! Aukeretan ez dago "<span></span>" bilaketarako emaitzarik.
-       *[other] Barkatu! Hobespenetan ez dago "<span></span>" bilaketarako emaitzarik.
-    }
-search-results-need-help = Laguntza behar duzu? Bisitatu <a>{ -brand-short-name }(r)en laguntza</a>
 
 ## General Section
 
@@ -468,9 +461,6 @@ privacy-header = Nabigatzailearen pribatutasuna
 ## Privacy Section - Forms
 
 forms-header = Inprimakiak eta pasahitzak
-forms-remember-logins =
-    .label = Gogoratu webguneetako saio-hasierak eta pasahitzak
-    .accesskey = G
 forms-exceptions =
     .label = Salbuespenak…
     .accesskey = n
@@ -555,7 +545,6 @@ addressbar-suggestions-settings = Aldatu bilaketa-motorren iradokizunetarako hob
 ## Privacy Section - Tracking
 
 tracking-header = Jarraipenaren babesa
-tracking-description = Jarraipenaren babesarekin hainbat webguneren artean zure nabigazio-datuak biltzea blokeatuko da. <a>Argibide gehiago jarraipenaren babesari eta zure pribatutasunari buruz</a>
 tracking-mode-label = Babestu jarraipena egiteaz ezagunak diren guneetatik
 tracking-mode-always =
     .label = Beti
