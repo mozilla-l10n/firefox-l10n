@@ -153,6 +153,17 @@ containers-disable-alert-ok-button =
        *[many] Закрити { $tabCount } вкладок контейнера
     }
 containers-disable-alert-cancel-button = Залишити увімкненим
+containers-remove-alert-title = Вилучити цей контейнер?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Якщо ви вилучите цей контейнер зараз, буде закрита { $count } вкладка контейнер. Ви справді хочете вилучити цей контейнер?
+        [few] Якщо ви вилучите цей контейнер зараз, буде закрито { $count } вкладки контейнери. Ви справді хочете вилучити цей контейнер?
+       *[many] Якщо ви вилучите цей контейнер зараз, буде закрито { $count } вкладок контейнерів. Ви справді хочете вилучити цей контейнер?
+    }
+containers-remove-ok-button = Вилучити цей контейнер
+containers-remove-cancel-button = Не вилучати цей контейнер
 
 ## General Section - Language & Appearance
 
