@@ -484,6 +484,9 @@ privacy-header = Böngésző adatvédelme
 ## Privacy Section - Forms
 
 forms-header = Űrlapok és jelszavak
+forms-ask-to-save-logins =
+    .label = Felhasználónevek és jelszavak megjegyzésének megkérdezése az oldalakhoz
+    .accesskey = k
 forms-exceptions =
     .label = Kivételek…
     .accesskey = v
