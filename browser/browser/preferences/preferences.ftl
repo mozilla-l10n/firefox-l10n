@@ -147,6 +147,9 @@ containers-disable-alert-ok-button =
        *[other] { $tabCount } কন্টেইনার ট্যাবগুলো বন্ধ করুন
     }
 containers-disable-alert-cancel-button = সক্রিয় রাখুন
+containers-remove-alert-title = এই কন্টেইনার সরাতে চান?
+containers-remove-ok-button = এই কন্টেইনার সরান
+containers-remove-cancel-button = এই কন্টেইনার অপসারণ কর না
 
 ## General Section - Language & Appearance
 
