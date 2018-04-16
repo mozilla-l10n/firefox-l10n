@@ -76,13 +76,6 @@ restart-later = နောက်မှ ပြန်ဖွင့်ပါ
 ## Preferences UI Search Results
 
 search-results-header = ရှာဖွေမှု ရလဒ်များ
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] ဝမ်းနည်းပါတယ်။ အပြင်အဆင်များထဲတွင် “<span></span>” အတွက် ရလဒ်များ မရှိပါ။
-       *[other] ဝမ်းနည်းပါတယ်။ နှစ်သက်ရာအပြင်အဆင်များထဲတွင် “<span></span>” အတွက် ရလဒ်များ မရှိပါ။
-    }
-search-results-need-help = အကူအညီ လိုအပ်ပါသလား။ <a>{ -brand-short-name }အထောက်အပံ့</a> တွင် ကြည့်ရှုပါ။
 
 ## General Section
 
