@@ -215,6 +215,7 @@ play-drm-content-learn-more = Issin ugar
 update-application-title = Ileqman n { -brand-short-name }
 update-application-description = Ḥrez { -brand-short-name } yettwalqem i tmellit ifazen, arkad, akked tɣellist.
 update-application-info = Lqem { $version } <a>D acu i d amaynut</a>
+update-application-version = Lqem { $version } <a data-l10n-name="learn-more">D acu i d amaynut</a>
 update-history =
     .label = Sken-d amazray n ulqqem…
     .accesskey = n
