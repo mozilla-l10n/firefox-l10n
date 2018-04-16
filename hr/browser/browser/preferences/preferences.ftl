@@ -139,6 +139,17 @@ containers-disable-alert-ok-button =
        *[other] Zatvori { $tabCount } sadržajnih kartica
     }
 containers-disable-alert-cancel-button = Drži omogućeno
+containers-remove-alert-title = Ukloni ovaj spremnik?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Ukoliko sada uklonite ovaj spremnik, { $count } sadržajna kartica biti će zatvorena. Jeste li sigurni da želite ukloniti ovaj spremnik?
+        [few] Ukoliko sada uklonite ovaj spremnik, { $count } sadržajne kartice biti će zatvorene. Jeste li sigurni da želite ukloniti ovaj spremnik?
+       *[other] Ukoliko sada uklonite ovaj spremnik, { $count } sadržajnih kartica biti će zatvoreno. Jeste li sigurni da želite ukloniti ovaj spremnik?
+    }
+containers-remove-ok-button = Ukloni ovaj spremnik
+containers-remove-cancel-button = Nemoj ukloniti ovaj spremnik
 
 ## General Section - Language & Appearance
 
