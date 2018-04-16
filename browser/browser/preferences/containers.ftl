@@ -36,12 +36,6 @@ containers-color-label = 颜色
 containers-button-done =
     .label = 完成
     .accesskey = D
-containers-remove-alert-title = 移除此身份？
-# Variables:
-#   $count (Number) - Number of tabs that will be closed.
-containers-remove-alert-msg = 如果您现在移除此身份，{ $count } 个身份标签页将被关闭。您是否确定移除此身份？
-containers-remove-ok-button = 移除此身份
-containers-remove-cancel-button = 不移除此身份
 containers-color-blue =
     .label = 蓝色
 containers-color-turquoise =
