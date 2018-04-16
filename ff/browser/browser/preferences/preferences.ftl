@@ -76,6 +76,12 @@ restart-later = Hurmitin so Ɓooyii
 ## Preferences UI Search Results
 
 search-results-header = Njaltudi Njiilawu
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Ay haame! Hay batte yaltaani e cuɓanɗe ngam “<span data-l10n-name="query"></span>”.
+       *[other] Ay haame! Alaa njaltudi woodi nder cuɓe wonande "<span data-l10n-name="query"></span>".
+    }
 
 ## General Section
 
