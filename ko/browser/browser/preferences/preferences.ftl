@@ -73,13 +73,6 @@ restart-later = 나중에 다시 시작
 ## Preferences UI Search Results
 
 search-results-header = 검색 결과
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] 죄송합니다! “<span></span>”옵션에 대한 결과가 없습니다.
-       *[other] 죄송합니다! “<span></span>”설정에 대한 결과가 없습니다.
-    }
-search-results-need-help = 도움이 필요하세요? <a>{ -brand-short-name } 지원</a>에 방문하세요.
 
 ## General Section
 
@@ -441,9 +434,6 @@ privacy-header = 브라우저 개인정보
 ## Privacy Section - Forms
 
 forms-header = 서식과 비밀번호
-forms-remember-logins =
-    .label = 웹사이트 로그인과 비밀번호 기억
-    .accesskey = R
 forms-exceptions =
     .label = 예외 목록…
     .accesskey = x
@@ -529,7 +519,6 @@ addressbar-suggestions-settings = 검색 엔진 추천 설정 변경
 ## Privacy Section - Tracking
 
 tracking-header = 추적 방지
-tracking-description = 추적 방지 기능은 여러 웹사이트에 걸처 사용자의 탐색 데이터를 수집하는 추적자를 차단합니다. <a>추적 방지와 개인정보 보호 살펴보기</a>
 tracking-mode-label = 알려진 추적자를 차단하는 추적 방지 기능 사용
 tracking-mode-always =
     .label = 항상 사용하기
