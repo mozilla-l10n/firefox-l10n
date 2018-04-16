@@ -304,7 +304,7 @@ network-proxy-connection-settings =
 
 ## Home Section
 home-new-windows-tabs-header=Nowe okna i karty
-home-new-windows-tabs-description=Wybierz co ma być wyświetlane przy otwieraniu strony startowej, nowych okien i kart.
+home-new-windows-tabs-description2=Wybierz co ma być wyświetlane przy otwieraniu strony startowej, nowych okien i kart.
 home-restore-defaults =
     .label=Przywróć domyślne
     .accesskey=P
