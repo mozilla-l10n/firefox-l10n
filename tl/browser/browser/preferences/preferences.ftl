@@ -70,6 +70,12 @@ restart-later = I-restart Mamaya
 ## Preferences UI Search Results
 
 search-results-header = Resulta ng Paghahanap
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Paumanhin! Walang mga resulta sa Mga Pagpipilian para sa “<span data-l10n-name="query"></span>”.
+       *[other] Paumanhin! Walang mga resulta sa Mga Kagustuhan para sa “<span data-l10n-name="query"></span>”.
+    }
 
 ## General Section
 
