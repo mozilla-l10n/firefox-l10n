@@ -208,6 +208,7 @@ play-drm-content-learn-more = Ne saber mai
 update-application-title = Mesas a jorn de { -brand-short-name }
 update-application-description = Manténer { -brand-short-name } a jorn per de performança, estabilitat, e seguretat melhoras.
 update-application-info = Version { $version } <a>Novetats</a>
+update-application-version = Version { $version } <a data-l10n-name="learn-more">Novetats</a>
 update-history =
     .label = Afichar l'istoric de las mesas a jorn…
     .accesskey = M
@@ -243,6 +244,7 @@ performance-limit-content-process-option = Limita del procediment del contengut
     .accesskey = L
 performance-limit-content-process-enabled-desc = De procediments de contengut suplementaris pòdon melhorar las performanças en utiliazar d'onglets multiples, pasmens aquò utiliza mai de memòria.
 performance-limit-content-process-disabled-desc = Modificar lo nombre de procediments de contenguts es possible sonque amb la version multiprocediment de { -brand-short-name }. <a>Aprendre a verificar se de multiprocediments son activats</a>
+performance-limit-content-process-blocked-desc = Modificar lo nombre de procediments de contenguts es possible sonque amb la version multiprocediment de { -brand-short-name }. <a data-l10n-name="learn-more">Aprendre a verificar se de multiprocediments son activats</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
