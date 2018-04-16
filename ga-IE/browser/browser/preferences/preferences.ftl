@@ -119,6 +119,19 @@ containers-disable-alert-ok-button =
        *[other] Dún { $tabCount } Cluaisín Coimeádáin
     }
 containers-disable-alert-cancel-button = Ná díchumasaigh
+containers-remove-alert-title = Bain an Coimeádán seo?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Má scriosann tú an Coimeádán seo anois, dúnfar { $count } chluaisín coimeádáin. An bhfuil tú cinnte gur mhaith leat an Coimeádán seo a scriosadh?
+        [two] Má scriosann tú an Coimeádán seo anois, dúnfar { $count } chluaisín coimeádáin. An bhfuil tú cinnte gur mhaith leat an Coimeádán seo a scriosadh?
+        [few] Má scriosann tú an Coimeádán seo anois, dúnfar { $count } chluaisín coimeádáin. An bhfuil tú cinnte gur mhaith leat an Coimeádán seo a scriosadh?
+        [many] Má scriosann tú an Coimeádán seo anois, dúnfar { $count } gcluaisín coimeádáin. An bhfuil tú cinnte gur mhaith leat an Coimeádán seo a scriosadh?
+       *[other] Má scriosann tú an Coimeádán seo anois, dúnfar { $count } cluaisín coimeádáin. An bhfuil tú cinnte gur mhaith leat an Coimeádán seo a scriosadh?
+    }
+containers-remove-ok-button = Bain an Coimeádán seo
+containers-remove-cancel-button = Ná bain an Coimeádán seo
 
 ## General Section - Language & Appearance
 
