@@ -551,6 +551,7 @@ addressbar-suggestions-settings = অনুসন্ধান ইঞ্জিন
 ## Privacy Section - Tracking
 
 tracking-header = ট্রাকিং সুরক্ষা
+tracking-desc = ট্র্যাকিং সুরক্ষা অনলাইন ট্র্যাকার ব্লক করে, যারা বিভিন্ন সাইটে আপনার ব্রাউজিং তথ্য সংগ্রহ করে। <a data-l10n-name="learn-more">ট্রাকিং সুরক্ষা এবং আপনার গোপনীয়তা সম্পর্কে আরও জানুন</a>
 tracking-mode-label = জানা ট্রাকারগুলি ব্লক করতে ট্রাকিং সুরক্ষা ব্যবহার করুন
 tracking-mode-always =
     .label = সর্বদা
