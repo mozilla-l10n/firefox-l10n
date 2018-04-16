@@ -82,6 +82,7 @@ search-results-empty-message =
         [windows] Því miður! Engar niðurstöður eru til fyrir stillingar fyrir “<span data-l10n-name="query"></span>”.
        *[other] Því miður! Engar niðurstöður eru til fyrir stillingar fyrir “<span data-l10n-name="query"></span>”.
     }
+search-results-help-link = Vantar þig hjálp? Kíktu á <a data-l10n-name="url">{ -brand-short-name } hjálp</a>
 
 ## General Section
 
@@ -561,6 +562,7 @@ addressbar-suggestions-settings = Breyta stillingum fyrir ábendingar leitarvél
 ## Privacy Section - Tracking
 
 tracking-header = Vörn gegn gagnasöfnun
+tracking-desc = Vörn gegn gagnasöfnun lokar á njósnaraforrit á netinu sem safna vafragögnum á milli margra vefsvæða. <a data-l10n-name="learn-more">Fræðast meira um vörn gegn gagnasöfnun og friðhelgi</a>
 tracking-mode-label = Nota vörn gegn gagnasöfnun til að loka á þekkta gagnasafnara
 tracking-mode-always =
     .label = Alltaf
