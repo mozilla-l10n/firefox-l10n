@@ -76,6 +76,12 @@ restart-later = Emoñepyrũjey ag̃ave
 ## Preferences UI Search Results
 
 search-results-header = Jehekakue rehegua
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] ¡Ambyasy! ndaipóri tembiapokue jeporavorãme “<span data-l10n-name="query"></span>”-pe g̃uarã.
+       *[other] ¡Ambyasy! ndaipoóri jerohoryvévape tembiapokue “<span data-l10n-name="query"></span>”.
+    }
 
 ## General Section
 
@@ -213,6 +219,7 @@ play-drm-content-learn-more = Kuaave
 update-application-title = { -brand-short-name } mbohekopyahu
 update-application-description = Eguereko { -brand-short-name } tekopyahúreve hembiapo porã, hekopyta ha hekorosã hag̃ua.
 update-application-info = Peteĩchagua{ $version } <a>Oĩpa mba'e pyahu</a>
+update-application-version = Peteĩchagua{ $version } <a data-l10n-name="learn-more">Oĩpa mba'e pyahu</a>
 update-history =
     .label = Tembiasakue rekopyahu jehechauka…
     .accesskey = p
