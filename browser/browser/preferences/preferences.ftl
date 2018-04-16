@@ -153,6 +153,16 @@ containers-disable-alert-ok-button =
        *[other] Zavřít { $tabCount } kontejnerových panelů
     }
 containers-disable-alert-cancel-button = Nechat povolené
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Pokud odstraníte tento kontejner, bude zavřen { $count } kontejnerový panel. Opravdu chcete kontejner odstranit?
+        [few] Pokud odstraníte tento kontejner, budou zavřeny { $count } kontejnerové panely. Opravdu chcete kontejner odstranit?
+       *[other] Pokud odstraníte tento kontejner, bude zavřeno { $count } kontejnerových panelů. Opravdu chcete kontejner odstranit?
+    }
+containers-remove-ok-button = Odstranit tento kontejner
+containers-remove-cancel-button = Neodstraňovat tento kontejner
 
 ## General Section - Language & Appearance
 
