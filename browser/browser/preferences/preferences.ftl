@@ -143,6 +143,12 @@ containers-disable-alert-title = 要關閉所有容器分頁嗎？
 containers-disable-alert-desc = 若您現在停用容器分頁，將關閉 { $tabCount } 個分頁。您真的要停用容器分頁嗎？
 containers-disable-alert-ok-button = 關閉 { $tabCount } 個容器分頁
 containers-disable-alert-cancel-button = 保持開啟
+containers-remove-alert-title = 要移除這個容器嗎？
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg = 若您現在移除此容器，將關閉 { $count } 個容器分頁。您確定要移除此容器嗎？
+containers-remove-ok-button = 移除此容器
+containers-remove-cancel-button = 不要移除此容器
 
 ## General Section - Language & Appearance
 
