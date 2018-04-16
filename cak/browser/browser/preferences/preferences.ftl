@@ -76,13 +76,6 @@ restart-later = Titikirisäx pa jun mej
 ## Preferences UI Search Results
 
 search-results-header = Taq ruq'i'oj kanoxïk
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] ¡Kojakuyu'! Majun achike xqïl pa Taq Cha'oj richin ri “<span></span>”.
-       *[other] ¡Kojakuyu'! Majun achike xqïl pa Taq Ajowab'äl richin ri “<span></span>”.
-    }
-search-results-need-help = ¿La nawajo' ato'ik? Tatz'eta' <a>{ -brand-short-name } To'ïk</a>
 
 ## General Section
 
@@ -472,9 +465,6 @@ privacy-header = Richinanem Okik'amaya'l
 ## Privacy Section - Forms
 
 forms-header = Nojwuj & Ewan taq Tzij
-forms-remember-logins =
-    .label = Kerunataj ri kitikirib'al taq molojri'ïl chuqa' ri ewan taq kitzij taq ruxaq ajk'amaya'l
-    .accesskey = K
 forms-exceptions =
     .label = Taq man relik ta…
     .accesskey = e
@@ -564,7 +554,6 @@ addressbar-suggestions-settings = Kek'ex ri taq kajowab'al ri taq kichilab'enik 
 ## Privacy Section - Tracking
 
 tracking-header = Chajinïk chuwäch Ojqanïk
-tracking-description = Ri Chajinïk chuwäch Ojqanem yeruq'ät ri rukanonela' k'amaya'l, ri yemolon taq atzij chi rij ri awokem pa jalajöj taq ruxaq k'amaya'l. <a>Tisik'ïx ch'aqa' chik chi rij ri Chajinïk chuwäch Ojqanem chuqa' chi rij ri richinanem</a>
 tracking-mode-label = Tokisäx ri Chajinïk chuwäch Ojqanïk richin yeq'at ri kanonela' etaman kiwäch
 tracking-mode-always =
     .label = Junelïk
