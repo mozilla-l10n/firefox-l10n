@@ -76,6 +76,13 @@ restart-later = Start på nytt senere
 ## Preferences UI Search Results
 
 search-results-header = Søkeresultat
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Beklager! Det er ingen resultat i innstillinger for «<span data-l10n-name="query"></span>».
+       *[other] Beklager! Det er ingen resultat i innstillinger for «<span data-l10n-name="query"></span>».
+    }
+search-results-help-link = Trenger du hjelp? Gå til <a data-l10n-name="url">{ -brand-short-name } brukerstøtte</a>
 
 ## General Section
 
@@ -213,6 +220,7 @@ play-drm-content-learn-more = Les mer
 update-application-title = { -brand-short-name }-oppdateringer
 update-application-description = Hold { -brand-short-name } oppdatert for beste ytelse, stabilitet og sikkerhet.
 update-application-info = Versjon { $version } <a>Hva er nytt</a>
+update-application-version = Versjon { $version } <a data-l10n-name="learn-more">Hva er nytt</a>
 update-history =
     .label = Vis oppdateringshistorikk…
     .accesskey = p
@@ -248,6 +256,7 @@ performance-limit-content-process-option = Grense for innholdsprosesser
     .accesskey = G
 performance-limit-content-process-enabled-desc = Ytterligere innholdsprosesser kan forbedre ytelsen når du bruker flere faner, men vil også bruke mer minne.
 performance-limit-content-process-disabled-desc = Endring av antall innholdsprosesser kan bare gjøres med multiprosess { -brand-short-name }. <a>Lær hvordan du kontrollerer om multiprosess er slått på</a>
+performance-limit-content-process-blocked-desc = Endring av antall innholdsprosesser kan bare gjøres med multiprosess { -brand-short-name }. <a data-l10n-name="learn-more">Lær hvordan du kontrollerer om multiprosess er slått på</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -554,6 +563,7 @@ addressbar-suggestions-settings = Endre innstillinger for søkeforslag
 ## Privacy Section - Tracking
 
 tracking-header = Sporingsbeskyttelse
+tracking-desc = Sporingsbeskyttelse blokkerer sporere på nettet som samler nettleserdataene dine på flere nettsteder. <a data-l10n-name="learn-more">Les mer om sporingsbeskyttelse og ditt personvern</a>
 tracking-mode-label = Bruk sporingsbeskyttelse for å blokkere kjente sporere
 tracking-mode-always =
     .label = Alltid
