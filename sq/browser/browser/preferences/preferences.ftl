@@ -73,6 +73,13 @@ restart-later = Riniseni Më Vonë
 ## Preferences UI Search Results
 
 search-results-header = Përfundime Kërkimi
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Na ndjeni! S’ka përfundime te Mundësitë për “<span data-l10n-name="query"></span>”.
+       *[other] Na ndjeni! S’ka përfundime te Parapëlqimet për “<span data-l10n-name="query"></span>”.
+    }
+search-results-help-link = Ju duhet ndihmë? Vizitoni <a data-l10n-name="url">Asistencë { -brand-short-name }</a>
 
 ## General Section
 
@@ -210,6 +217,7 @@ play-drm-content-learn-more = Mësoni më tepër
 update-application-title = Përditësime { -brand-short-name }-i
 update-application-description = Për punimin, qëndrueshmërinë dhe sigurinë më të mirë mbajeni { -brand-short-name }-in të përditësuar.
 update-application-info = Version { $version } <a>Ç’ka të re</a>
+update-application-version = Version { $version } <a data-l10n-name="learn-more">Ç’ka të re</a>
 update-history =
     .label = Shfaq Historik Përditësimesh…
     .accesskey = P
@@ -245,6 +253,7 @@ performance-limit-content-process-option = Kufi procesesh lënde
     .accesskey = P
 performance-limit-content-process-enabled-desc = Proceset shtesë për lëndën mund të përmirësojnë punimin kur përdoren shumë skeda njëherësh, por kështu do të përdoret më tepër kujtesë.
 performance-limit-content-process-disabled-desc = Ndryshimi i numrit të proceseve të lëndës është i mundur vetëm me { -brand-short-name }-in shumëprocesësh. <a>Mësoni se si të kontrolloni nëse mënyra shumëprocesëshe është e aktivizuar</a>
+performance-limit-content-process-blocked-desc = Ndryshimi i numrit të proceseve të lëndës është i mundur vetëm me { -brand-short-name }-in shumëprocesësh. <a data-l10n-name="learn-more">Mësoni se si të kontrolloni nëse mënyra shumëprocesëshe është e aktivizuar</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -527,6 +536,7 @@ addressbar-suggestions-settings = Ndryshoni parapëlqimet mbi këshillime motor�
 ## Privacy Section - Tracking
 
 tracking-header = Mbrojtje Nga Gjurmimet
+tracking-desc = Mbrojtja Nga Gjurmimet bllokon gjurmues internetorë që grumbullojnë të dhëna shfletimi tuajat nëpër shumë sajte. <a data-l10n-name="learn-more">Mësoni më tepër rreth Mbrojtjes Nga Gjurmimet dhe privatësisë tuaj</a>
 tracking-mode-label = Përdore Mbrojtjen Nga Gjurmimet për bllokim gjurmuesish të ditur
 tracking-mode-always =
     .label = Përherë
