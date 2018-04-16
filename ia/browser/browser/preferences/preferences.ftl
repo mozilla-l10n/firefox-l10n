@@ -76,6 +76,12 @@ restart-later = Reinitiar depois
 ## Preferences UI Search Results
 
 search-results-header = Resultatos del recerca
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Pardono! Il ha nulle resultato in le optiones pro “<span data-l10n-name="query"></span>”.
+       *[other] Pardono! Il ha nulle resultato in le preferentias pro “<span data-l10n-name="query"></span>”.
+    }
 
 ## General Section
 
@@ -248,6 +254,7 @@ performance-limit-content-process-option = Limite de processos de contento
     .accesskey = L
 performance-limit-content-process-enabled-desc = Plus processos de contento pote meliorar le rendimento quando on usa plure schedas. ma tamben illos usa plus memoria.
 performance-limit-content-process-disabled-desc = Modificar le numero de processos de contento es solmente possibile con { -brand-short-name } in multiprocesso. <a>Apprender a verificar si le multiprocesso es active</a>
+performance-limit-content-process-blocked-desc = Modificar le numero de processos de contento es solmente possibile con { -brand-short-name } in multiprocesso. <a data-l10n-name="learn-more">Apprender a verificar si le multiprocesso es active</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
