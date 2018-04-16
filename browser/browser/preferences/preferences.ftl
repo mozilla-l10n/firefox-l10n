@@ -75,13 +75,6 @@ restart-later = Рестартиране по-късно
 ## Preferences UI Search Results
 
 search-results-header = Резултати
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] Съжаляваме! В настройките няма резултати за „<span></span>“.
-       *[other] Съжаляваме! В настройките няма резултати за „<span></span>“.
-    }
-search-results-need-help = Имате нужда от помощ? Посетете <a>поддръжката за { -brand-short-name }</a>
 
 ## General Section
 
@@ -470,9 +463,6 @@ privacy-header = Поверителност на четеца
 ## Privacy Section - Forms
 
 forms-header = Формуляри и пароли
-forms-remember-logins =
-    .label = Запазване на имена и пароли за вход в страниците
-    .accesskey = З
 forms-exceptions =
     .label = Изключения…
     .accesskey = к
@@ -551,7 +541,6 @@ addressbar-suggestions-settings = Настройки на предложения
 ## Privacy Section - Tracking
 
 tracking-header = Защита от проследяване
-tracking-description = Защитата от проследяване спира страниците, които събират информация за вас докато разглеждате различни сайтове. <a>Научете повече за защитата от проследяване и поверителност</a>
 tracking-mode-label = Използвайте защитата за спиране на известните проследяващи страници
 tracking-mode-always =
     .label = Винаги
