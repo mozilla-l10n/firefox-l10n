@@ -36,17 +36,6 @@ containers-color-label = Kruosa
 containers-button-done =
     .label = Gotovs
     .accesskey = G
-containers-remove-alert-title = Nūjimt itū skreini?
-# Variables:
-#   $count (Number) - Number of tabs that will be closed.
-containers-remove-alert-msg =
-    { $count ->
-        [zero] Ja nūjimsi itū konteineru { $count } konteineru cilnes byus aizvārtas. Voi vyssvīns nūjimt itū konteineru?
-        [one] Ja nūjimsi itū konteineru { $count } konteineru cilne byus aizvārta. Voi vyssvīns nūjimt itū konteineru?
-       *[other] Ja nūjimsi itū konteineru { $count } konteineru cilnes byus aizvārtas. Voi vyssvīns nūjimt itū konteineru?
-    }
-containers-remove-ok-button = Nūjimt itū skreini
-containers-remove-cancel-button = Najimt nūst itū skreini
 containers-color-blue =
     .label = Zyls
 containers-color-turquoise =
