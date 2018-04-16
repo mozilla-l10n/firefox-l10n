@@ -76,6 +76,12 @@ restart-later = Վերամեկնարկել հետո
 ## Preferences UI Search Results
 
 search-results-header = Որոնման արդյունքներ
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Արդյունքներ չկան Ընտրանքներում “<span data-l10n-name="query"></span>”-ի համար:
+       *[other] Կարգավորումներում այլ արդյունքներ չկան “<span data-l10n-name="query"></span>”-ի համար:
+    }
 
 ## General Section
 
@@ -213,6 +219,7 @@ play-drm-content-learn-more = Իմանալ ավելին
 update-application-title = { -brand-short-name }-ի թարմացումներ
 update-application-description = Պահեք { -brand-short-name }-ը թարմացված՝ լավագույն արտադրողականության, կայունության և անվտանգության համար:
 update-application-info = Տարբերակ { $version } <a>Ինչն է նոր</a>
+update-application-version = Տարբերակ { $version } <a data-l10n-name="learn-more">Ինչն է նոր</a>
 update-history =
     .label = Ցուցադրել Թարմացումների Պատմությունը...
     .accesskey = ա
@@ -248,6 +255,7 @@ performance-limit-content-process-option = Բովանդակության ընթա
     .accesskey = ս
 performance-limit-content-process-enabled-desc = Բովանդակության լրացուցիչ ընթացքները կարող են լավարկել արտադրողականությունը, երբ օգտագործվում են բազմակի ներդիրներ, բայց միևնույն ժամանակ՝ դրանք ավելի շատ հիշողություն կխլեն:
 performance-limit-content-process-disabled-desc = Հնարավոր է փոփոխել բովանդակության ընթացքները միայն բազմամշակիչ { -brand-short-name }-ի դեպքում: <a>Կարդալ, թե ինչպես ստուգել՝ արդյոք բազմամշակիչը միացված է:</a>
+performance-limit-content-process-blocked-desc = Հնարավոր է փոփոխել բովանդակության ընթացքները միայն բազմամշակիչ { -brand-short-name }-ի դեպքում: <a data-l10n-name="learn-more">Կարդալ, թե ինչպես ստուգել՝ արդյոք բազմամշակիչը միացված է:</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
