@@ -151,6 +151,16 @@ containers-disable-alert-ok-button =
        *[other] Cerrar { $tabCount } pestañas contenedoras
     }
 containers-disable-alert-cancel-button = Mantenerlas habilitadas
+containers-remove-alert-title = ¿Eliminar el marcador?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Si eliminas este marcador ahora, la pestaña del marcador { $count } se cerrará. ¿Estás seguro de que quieres eliminar este marcador?
+       *[other] Si eliminas este marcador ahora, las pestañas del marcador { $count } se cerrarán. ¿Estás seguro de que quieres eliminar este marcador?
+    }
+containers-remove-ok-button = Eliminar este marcador
+containers-remove-cancel-button = No eliminar este marcador
 
 ## General Section - Language & Appearance
 
