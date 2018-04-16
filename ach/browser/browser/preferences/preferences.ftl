@@ -76,13 +76,6 @@ restart-later = Cak odoco lacen
 ## Preferences UI Search Results
 
 search-results-header = Adwogi me yeny
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] Timwa kica! Adwogi mo pe i me ayera pi “<span></span>”.
-       *[other] Timwa kica! Adwogi mo pe i ter pi “<span></span>”.
-    }
-search-results-need-help = Imito kony? Lim <a>Kony pa { -brand-short-name }</a>
 
 ## General Section
 
@@ -459,9 +452,6 @@ privacy-header = Mung pa layeny
 ## Privacy Section - Forms
 
 forms-header = Pwom ki mung me donyo
-forms-remember-logins =
-    .label = Po ikom donyo iyie ki mung me donyo pi kakube
-    .accesskey = P
 forms-exceptions =
     .label = Ma kiweko woko…
     .accesskey = a
@@ -549,7 +539,6 @@ addressbar-suggestions-settings = Lok ter pi tam ma kimiyo me injin yeny
 ## Privacy Section - Tracking
 
 tracking-header = Gwokke ikom lubo kor
-tracking-description = Gwokke ikom lubo kor gengo lulub kor me wiyamo ma coko data me yeny mamegi ki ii kakube mapol. <a>Nong ngec mapol ikom Gwokke ikom lubo kor ki mung mamegi</a>
 tracking-mode-label = Tii ki Gwokke ikom lubo kor me gengo lulub kor ma ngene
 tracking-mode-always =
     .label = Jwijwi
