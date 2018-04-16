@@ -204,6 +204,7 @@ play-drm-content-learn-more = Pli da informo
 update-application-title = Ĝisdatigoj de { -brand-short-name }
 update-application-description = Tenu { -brand-short-name } ĝisdatigita por havi la plej bonan efikecon, stabilecon kaj sekurecon.
 update-application-info = Versio { $version } <a>Kio estas nova</a>
+update-application-version = Versio { $version } <a data-l10n-name="learn-more">Kio estas nova</a>
 update-history =
     .label = Montri historion de ĝisdatigoj…
     .accesskey = M
