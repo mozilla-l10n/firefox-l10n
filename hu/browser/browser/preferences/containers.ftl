@@ -36,16 +36,6 @@ containers-color-label = Szín
 containers-button-done =
     .label = Kész
     .accesskey = K
-containers-remove-alert-title = Eltávolítja ezt a konténert?
-# Variables:
-#   $count (Number) - Number of tabs that will be closed.
-containers-remove-alert-msg =
-    { $count ->
-        [one] Ha most eltávolítja ezt a konténerlapot, akkor { $count } konténerlap bezáródik. Biztosan eltávolítja ezt a konténert?
-       *[other] Ha most eltávolítja ezt a konténerlapot, akkor { $count } konténerlap bezáródik. Biztosan eltávolítja ezt a konténert?
-    }
-containers-remove-ok-button = Konténer eltávolítása
-containers-remove-cancel-button = Ne távolítsa el a konténert
 containers-color-blue =
     .label = Kék
 containers-color-turquoise =
