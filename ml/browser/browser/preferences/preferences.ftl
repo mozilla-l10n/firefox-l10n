@@ -138,6 +138,16 @@ containers-disable-alert-ok-button =
        *[other] { $tabCount } കണ്ടെയ്നർ ടാബുകൾ അടയ്ക്കുക
     }
 containers-disable-alert-cancel-button = എനേബിള്‍ഡ് ആക്കി വക്കുക
+containers-remove-alert-title = ഈ കണ്ടെയ്നർ നീക്കംചെയ്യണോ?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] നിങ്ങൾ ഇപ്പോൾ ഈ കണ്ടെയ്നർ നീക്കംചെയ്യുകയാണെങ്കിൽ, { $count } കണ്ടെയ്നർ ടാബ് ക്ലോസ് ചെയ്യും. ഈ കണ്ടെയ്നർ നീക്കം ചെയ്യണമെന്ന് നിങ്ങൾക്ക് തീർച്ചയാണോ?
+       *[other] നിങ്ങൾ ഇപ്പോൾ ഈ കണ്ടെയ്നർ നീക്കംചെയ്താൽ, { $count } കണ്ടെയ്നർ ടാബുകൾ ക്ലോസ് ചെയ്യും. ഈ കണ്ടെയ്നർ നീക്കം ചെയ്യണമെന്ന് നിങ്ങൾക്ക് ഉറപ്പാണോ?
+    }
+containers-remove-ok-button = ഈ കണ്ടൈനര്‍ നീക്കം ചെയ്യുക
+containers-remove-cancel-button = ഈ കണ്ടൈനര്‍ നീക്കം ചെയ്യാതിരിക്കുക
 
 ## General Section - Language & Appearance
 
