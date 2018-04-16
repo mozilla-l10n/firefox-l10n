@@ -144,6 +144,16 @@ containers-disable-alert-ok-button =
        *[other] Isara ang { $tabCount } Container Tab
     }
 containers-disable-alert-cancel-button = Patuloy na pinagana
+containers-remove-alert-title = Alisin ang Lalagyan na Ito?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Kung alisin mo ang Container na ito ngayon, sarado ang tab ng { $count }. Sigurado ka ba na gusto mong alisin ang Lalagyan na ito?
+       *[other] Kung alisin mo ang Container na ito ngayon, sarado ang mga tab ng { $count }. Sigurado ka bang gusto mong alisin ang Lalagyan na ito?
+    }
+containers-remove-ok-button = Alisin ang Lalagyan na Ito
+containers-remove-cancel-button = Huwag alisin ang Lalagyan na ito
 
 ## General Section - Language & Appearance
 
