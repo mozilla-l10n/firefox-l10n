@@ -76,6 +76,12 @@ restart-later = Perleisti vėliau
 ## Preferences UI Search Results
 
 search-results-header = Paieškos rezultatai
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Deja! Nuostatose nėra rezultatų, atitinkančių „<span data-l10n-name="query"></span>“.
+       *[other] Deja! Nuostatose nėra rezultatų, atitinkančių „<span data-l10n-name="query"></span>“.
+    }
 
 ## General Section
 
@@ -215,6 +221,7 @@ play-drm-content-learn-more = Sužinoti daugiau
 update-application-title = „{ -brand-short-name }“ naujinimai
 update-application-description = Laiku atnaujinkite „{ -brand-short-name }“ didesniam našumui, stabilumui bei saugumui užtikrinti.
 update-application-info = Laida { $version } <a>Kas naujo</a>
+update-application-version = Laida { $version } <a data-l10n-name="learn-more">Kas naujo</a>
 update-history =
     .label = Rodyti naujinimų žurnalą…
     .accesskey = R
