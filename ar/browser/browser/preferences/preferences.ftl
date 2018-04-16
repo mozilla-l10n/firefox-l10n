@@ -493,6 +493,9 @@ privacy-header = خصوصية المتصفح
 ## Privacy Section - Forms
 
 forms-header = النماذج و كلمات السر
+forms-ask-to-save-logins =
+    .label = اطلب مني حفظ كلمات سر و بيانات ولوج مواقع الوِب
+    .accesskey = ط
 forms-exceptions =
     .label = الاستثناءات…
     .accesskey = س
