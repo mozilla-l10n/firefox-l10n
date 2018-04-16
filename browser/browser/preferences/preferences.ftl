@@ -43,12 +43,6 @@ restart-later = Herbegin later
 ## Preferences UI Search Results
 
 search-results-header = Soekresultate
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] Jammer! Daar is geen resultate in Opsies vir “<span></span>”.
-       *[other] Jammer! Daar is geen resultate in Voorkeure vir “<span></span>”.
-    }
 
 ## General Section
 
