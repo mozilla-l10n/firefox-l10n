@@ -8,11 +8,9 @@
 # live.
 
 
-#define bookmarks_toolbarfolder Bookmarks Toolbar Folder
 
 # LOCALIZATION NOTE (getting_started):
 # link title for https://www.mozilla.org/en-US/firefox/central/
-#define getting_started Getting Started
 
 # LOCALIZATION NOTE (firefox_heading):
 # Firefox links folder name
@@ -52,7 +50,6 @@
 
 # LOCALIZATION NOTE (irc):
 # Nightly builds only, link title for ircs://irc.mozilla.org/nightly
-#define irc Discuss Nightly on IRC
 
 # LOCALIZATION NOTE (planet):
 # Nightly builds only, link title for https://planet.mozilla.org/
