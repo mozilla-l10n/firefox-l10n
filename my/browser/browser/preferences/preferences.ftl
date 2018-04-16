@@ -142,9 +142,12 @@ containers-disable-alert-title = ကွန်တိန်နာတပ်ဗ်�
 containers-disable-alert-desc = ယခု ကွန်တိန်နာတပ်ဗ်များ အသုံးပြုခြင်းကို ပိတ်မည်ဆိုပါက ကွန်တိန်နာတပ်ဗ် { $tabCount } ခုသည် ပိတ်သွားပါလိမ့်မည်။ ထိုသို့ အသုံးပြုခြင်းကို ပိတ်မည်မှာ သေချာပါသလား။
 containers-disable-alert-ok-button = ကွန်တိန်နာတပ်ဗ် { $tabCount } ခုကို ပိတ်ရန်
 containers-disable-alert-cancel-button = ဆက်လက်ဖွင့်ထားသည်
+containers-remove-alert-title = ယခုကွန်တိုင်နာအား ဖယ်ပါ
 # Variables:
 #   $count (Number) - Number of tabs that will be closed.
 containers-remove-alert-msg = ယခုကွန်တိန်နာကို ဖျက်မည်ဆိုပါက ဖွင့်ထားသော ကွန်တိန်နာတပ်ဗ် { $count } ခုသည် ပိတ်သွားပါမည်။ ၎င်းတို့ကို ဖျက်မည်မှာ သေချာပါသလား။
+containers-remove-ok-button = ကွန်တိုင်အား ဖယ်ပါ
+containers-remove-cancel-button = ကွန်တိုင်အား မဖယ်ပါနှင့်
 
 ## General Section - Language & Appearance
 
