@@ -70,12 +70,6 @@ restart-later = I-restart Mamaya
 ## Preferences UI Search Results
 
 search-results-header = Resulta ng Paghahanap
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] Paumanhin! Walang mga resulta sa Mga Pagpipilian para sa “<span></span>”.
-       *[other] Paumanhin! Walang mga resulta sa Mga Kagustuhan para sa “<span></span>”.
-    }
 
 ## General Section
 
@@ -408,9 +402,6 @@ privacy-header = Pang-sarilinan sa Browser
 ## Privacy Section - Forms
 
 forms-header = Mga form & Mga Password
-forms-remember-logins =
-    .label = Alalahanin ang mga pag-login at password para sa mga website
-    .accesskey = R
 forms-exceptions =
     .label = Mga exceptions...
     .accesskey = x
@@ -477,7 +468,6 @@ addressbar-suggestions-settings = Baguhin ang mga kagustuhan para sa mga suhesti
 ## Privacy Section - Tracking
 
 tracking-header = Proteksyon sa Pagsubaybay
-tracking-description = Ang Proteksyon sa Pagsubaybay ay naghaharang sa mga online na tracker na nagkokolekta ng iyong impormasyon tungkol sa pag-browse sa maramihang mga website. <a>Matuto nang higit pa tungkol sa Proteksyon sa Pagsubaybay at iyong pagiging pribado</a>
 tracking-mode-label = Gamitin ang Proteksyon sa Pagsubaybay upang harangan ang mga kilalang tracker
 tracking-mode-always =
     .label = Palagi
