@@ -82,6 +82,7 @@ search-results-empty-message =
         [windows] Արդյունքներ չկան Ընտրանքներում “<span data-l10n-name="query"></span>”-ի համար:
        *[other] Կարգավորումներում այլ արդյունքներ չկան “<span data-l10n-name="query"></span>”-ի համար:
     }
+search-results-help-link = Օգնությու՞ն է պետք: Այցելեք <a data-l10n-name="url">{ -brand-short-name } աջակցում</a>
 
 ## General Section
 
@@ -562,6 +563,7 @@ addressbar-suggestions-settings = Փոխել որոնիչների նախապատ
 ## Privacy Section - Tracking
 
 tracking-header = Հետագծման պաշտպանություն
+tracking-desc = Հետագծման պաշտպանությունը արգելափակում է առցանց հետագծումները, որոնք հավաքում են դիտարկումների ձեր տվյալները տարբեր կայքերում: <a data-l10n-name="learn-more">Իմանալ ավելին ՀԵտագծման պաշտպանության և ձեր գաղտնիության մասին</a>
 tracking-mode-label = Օգտագործեք Հետագծման պաշտպանությունը՝ արգելափակելու հայտնի հետագծումները
 tracking-mode-always =
     .label = Միշտ
