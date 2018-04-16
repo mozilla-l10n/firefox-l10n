@@ -66,12 +66,6 @@ restart-later = Ponovno pokreni poslije
 ## Preferences UI Search Results
 
 search-results-header = Rezultati pretrage
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] Žao nam je! Nema rezultata u Mogućnostima za “<span></span>”.
-       *[other] Žao nam je! Nema rezultata u Postavkama za “<span></span>”.
-    }
 
 ## General Section
 
@@ -401,9 +395,6 @@ privacy-header = Privatnost preglednika
 ## Privacy Section - Forms
 
 forms-header = Obrasci i lozinke
-forms-remember-logins =
-    .label = Zapamti prijave i lozinke za web stranice
-    .accesskey = r
 forms-exceptions =
     .label = Iznimke...
     .accesskey = m
