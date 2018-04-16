@@ -76,6 +76,12 @@ restart-later = केहि समयपछि पुन सुचारु ग
 ## Preferences UI Search Results
 
 search-results-header = खोजी परिणामहरू
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] माफ गर्नुहोस्! त्यहाँ “<span data-l10n-name="query"></span>” को लागि विकल्पहरूमा नतिजा छैन ।
+       *[other] माफ गर्नुहोस्! त्यहाँ “<span data-l10n-name="query"></span>” को लागि प्राथमिकताहरूमा नतिजा छैन ।
+    }
 
 ## General Section
 
@@ -213,6 +219,7 @@ play-drm-content-learn-more = अझै जान्नुहोस्
 update-application-title = { -brand-short-name } अद्यावधिकहरू
 update-application-description = राम्रो कार्यसम्पादन, स्थायित्व र सुरक्षाको लागि { -brand-short-name } लाई अद्यावधिक राख्नुहोस् ।
 update-application-info = संस्करण { $version } <a>नयाँ के छ</a>
+update-application-version = संस्करण { $version } <a data-l10n-name="learn-more">नयाँ के छ</a>
 update-history =
     .label = अद्यावधिक इतिहास देखाउनुहोस्…
     .accesskey = p
@@ -248,6 +255,7 @@ performance-limit-content-process-option = सामग्री प्रक्
     .accesskey = L
 performance-limit-content-process-enabled-desc = थप सामग्री प्रक्रियाहरूले धेरै ट्याबहरू प्रयोग गर्दा कार्यसम्पादनमा सुधार ल्याऊँछ तर धेरै मेमोरी पनि प्रयोग गर्छ ।
 performance-limit-content-process-disabled-desc = सामग्री प्रक्रियाहरूको संख्या परिमार्जन बहुप्रक्रिया { -brand-short-name } सँग मात्र सम्भव छ । <a>बहुप्रक्रिया सक्षम छ कि छैन भनेर कसरि जाँच गर्ने हो जान्नुहोस्</a>
+performance-limit-content-process-blocked-desc = सामग्री प्रक्रियाहरूको संख्या परिमार्जन बहुप्रक्रिया { -brand-short-name } सँग मात्र सम्भव छ । <a data-l10n-name="learn-more">बहुप्रक्रिया सक्षम छ कि छैन भनेर कसरि जाँच गर्ने हो जान्नुहोस्</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
