@@ -484,6 +484,9 @@ privacy-header = Privacidade do navegador
 ## Privacy Section - Forms
 
 forms-header = Formulários e palavras-passe
+forms-ask-to-save-logins =
+    .label = Perguntar para guardar credenciais e palavras-passe para websites
+    .accesskey = r
 forms-exceptions =
     .label = Exceções…
     .accesskey = x
