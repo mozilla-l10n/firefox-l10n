@@ -76,6 +76,12 @@ restart-later = Daha sonra yeniden başlat
 ## Preferences UI Search Results
 
 search-results-header = Arama sonuçları
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Kusura bakmayın, seçeneklerde “<span data-l10n-name="query"></span>” ile ilgili bir sonuç bulamadık.
+       *[other] Kusura bakmayın, tercihlerde “<span data-l10n-name="query"></span>” ile ilgili bir sonuç bulamadık.
+    }
 
 ## General Section
 
@@ -248,6 +254,7 @@ performance-limit-content-process-option = İçerik işlemi sınırı
     .accesskey = L
 performance-limit-content-process-enabled-desc = Daha fazla içerik işlemine izin verdiğinizde, çok sayıda sekme açıkken performans artar ama daha fazla bellek kullanılır.
 performance-limit-content-process-disabled-desc = İçerik işlemi sayısını değiştirmek yalnızca çok işlemli { -brand-short-name } ile mümkündür. <a>Çok işlemin etkin olmadığını kontrol etmeyi öğrenin</a>
+performance-limit-content-process-blocked-desc = İçerik işlemi sayısını değiştirmek yalnızca çok işlemli { -brand-short-name } ile mümkündür. <a data-l10n-name="learn-more">Çok işlemin etkin olmadığını kontrol etmeyi öğrenin</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -554,6 +561,7 @@ addressbar-suggestions-settings = Arama motoru önerileri için tercihleri deği
 ## Privacy Section - Tracking
 
 tracking-header = İzlenme Koruması
+tracking-desc = İzlenme Koruması, siz siteler arasında gezinirken hakkınızda veri toplayan çevrimiçi takipçileri engeller. <a data-l10n-name="learn-more">İzlenme Koruması ve gizliliğiniz hakkında daha fazla bilgi alın</a>
 tracking-mode-label = Bilinen takipçileri engellemek için İzlenme Koruması’nı kullan
 tracking-mode-always =
     .label = Her zaman
