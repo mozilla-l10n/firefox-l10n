@@ -76,6 +76,13 @@ restart-later = Mula semula Kemudian
 ## Preferences UI Search Results
 
 search-results-header = Hasil Carian
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Maaf! Tiada keputusan dalam Pilihan untuk “<span data-l10n-name="query"></span>”.
+       *[other] Maaf! Tiada keputusan dalam Keutamaan untuk “<span data-l10n-name="query"></span>”.
+    }
+search-results-help-link = Perlu bantuan? Lawat <a data-l10n-name="url">Sokongan { -brand-short-name }</a>
 
 ## General Section
 
@@ -205,6 +212,7 @@ play-drm-content-learn-more = Ketahui selanjutnya
 update-application-title = Kemaskini { -brand-short-name }
 update-application-description = Pastikan { -brand-short-name } sentiasa dikemaskini untuk mendapatkan prestasi, kestabilan dan keselamatan yang terbaik.
 update-application-info = Versi { $version } <a>Perkembangan terbaru</a>
+update-application-version = Versi { $version } <a data-l10n-name="learn-more">Perkembangan terbaru</a>
 update-history =
     .label = Papar Sejarah Kemaskini…
     .accesskey = p
@@ -240,6 +248,7 @@ performance-limit-content-process-option = Had proses kandungan
     .accesskey = H
 performance-limit-content-process-enabled-desc = Proses kandungan tambahan boleh memperbaiki prestasi apabila menggunakan berbilang tab, tetapi juga akan menggunakan lebih banyak memori.
 performance-limit-content-process-disabled-desc = Mengubah bilangan proses kandungan hanya boleh dilakukan dengan multi proses { -brand-short-name }. <a>Ketahui cara untuk menyemak samada multi proses didayakan</a>
+performance-limit-content-process-blocked-desc = Mengubah bilangan proses kandungan hanya boleh dilakukan dengan multi proses { -brand-short-name }. <a data-l10n-name="learn-more">Ketahui cara untuk menyemak samada multi proses didayakan</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -546,6 +555,7 @@ addressbar-suggestions-settings = Tukar keutamaan bagi cadangan enjin carian
 ## Privacy Section - Tracking
 
 tracking-header = Perlindungan Penjejakan
+tracking-desc = Perlindungan Penjejakan menyekat penjejak atas talian yang mengumpul data pelayaran anda dalam pelbagai laman web. <a data-l10n-name="learn-more">Ketahui lebih lanjut perihal Perlindungan Penjejakan dan privasi anda</a>
 tracking-mode-label = Gunakan Perlindungan Penjejakan untuk menyekat penjejak dikenali
 tracking-mode-always =
     .label = Sentiasa
