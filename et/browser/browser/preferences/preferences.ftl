@@ -72,13 +72,6 @@ restart-later = Taaskäivita hiljem
 ## Preferences UI Search Results
 
 search-results-header = Otsingutulemused
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] Vabandust! Sätete seast ei leitud vastet otsingule “<span></span>”.
-       *[other] Vabandust! Eelistuste seast ei leitud vastet otsingule “<span></span>”.
-    }
-search-results-need-help = Vajad abi? Külasta lehte <a>{ -brand-short-name }i abi</a>
 
 ## General Section
 
@@ -467,9 +460,6 @@ privacy-header = Veebilehitseja privaatsus
 ## Privacy Section - Forms
 
 forms-header = Vormid ja paroolid
-forms-remember-logins =
-    .label = Saitide kasutajanimed ja paroolid peetakse meeles
-    .accesskey = u
 forms-exceptions =
     .label = Erandid…
     .accesskey = r
@@ -555,7 +545,6 @@ addressbar-suggestions-settings = Muuda otsingumootorite soovituste sätteid
 ## Privacy Section - Tracking
 
 tracking-header = Jälitamisvastane kaitse
-tracking-description = Jälitamisvastane kaitse blokib jälitajad, kes koguvad andmeid sinu veebilehitsemise kohta üle mitme veebilehe. <a>Rohkem teavet jälitamisvastase kaitse ja sinu privaatsuse kohta</a>
 tracking-mode-label = Teadaolevad jälitajad blokitakse
 tracking-mode-always =
     .label = alati
