@@ -146,6 +146,9 @@ containers-disable-alert-ok-button =
        *[other] Κλείσιμο { $tabCount } θεματικών καρτελών
     }
 containers-disable-alert-cancel-button = Να παραμείνουν ενεργές
+containers-remove-alert-title = Αφαίρεση θεματικής ενότητας;
+containers-remove-ok-button = Αφαίρεση αυτής της θεματικής κατηγορίας
+containers-remove-cancel-button = Να μην αφαιρεθεί η θεματική κατηγορία
 
 ## General Section - Language & Appearance
 
