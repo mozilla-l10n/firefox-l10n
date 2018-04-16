@@ -72,13 +72,6 @@ restart-later = Επανεκκίνηση αργότερα
 ## Preferences UI Search Results
 
 search-results-header = Αποτελέσματα αναζήτησης
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] Λυπούμαστε! Δεν υπάρχουν αποτελέσματα για το “<span></span>” στις Επιλογές.
-       *[other] Λυπούμαστε! Δεν υπάρχουν αποτελέσματα για το “<span></span>” στις Προτιμήσεις.
-    }
-search-results-need-help = Χρειάζεστε βοήθεια; Επισκεφθείτε την <a>Υποστήριξη { -brand-short-name }</a>
 
 ## General Section
 
@@ -434,9 +427,6 @@ privacy-header = Απόρρητο προγράμματος περιήγησης
 ## Privacy Section - Forms
 
 forms-header = Φόρμες & κωδικοί πρόσβασης
-forms-remember-logins =
-    .label = Απομνημόνευση στοιχείων σύνδεσης για ιστοσελίδες
-    .accesskey = μ
 forms-exceptions =
     .label = Εξαιρέσεις…
     .accesskey = ξ
