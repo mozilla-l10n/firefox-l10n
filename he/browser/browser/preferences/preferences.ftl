@@ -76,13 +76,6 @@ restart-later = הפעלה מחדש מאוחר יותר
 ## Preferences UI Search Results
 
 search-results-header = תוצאות חיפוש
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] אין תוצאות באפשרויות לביטוי „<span></span>“, עמך הסליחה.
-       *[other] אין תוצאות בהעדפות לביטוי „<span></span>“, עמך הסליחה.
-    }
-search-results-need-help = לעזרה נוספת, נא לפנות אל <a>אתר התמיכה של { -brand-short-name }</a>
 
 ## General Section
 
@@ -471,9 +464,6 @@ privacy-header = פרטיות דפדפן
 ## Privacy Section - Forms
 
 forms-header = טפסים וססמאות
-forms-remember-logins =
-    .label = לזכור פרטי כניסה וססמאות לכל האתרים
-    .accesskey = ז
 forms-exceptions =
     .label = חריגות…
     .accesskey = ר
@@ -559,7 +549,6 @@ addressbar-suggestions-settings = שינוי העדפות של הצעות מנו
 ## Privacy Section - Tracking
 
 tracking-header = הגנת מעקב
-tracking-description = הגנת מעקב חוסמת רכיבי מעקב מקוונים שאוספים את נתוני הגלישה שלך ממגוון אתרים. <a>מידע נוסף על הגנת מעקב ועל הפרטיות שלך</a>
 tracking-mode-label = שימוש בהגנת מעקב לחסימת רכיבי מעקב ידועים
 tracking-mode-always =
     .label = תמיד
