@@ -87,6 +87,7 @@
 </ul>
 ">
 
+<!ENTITY netReset.title "Povezava je bila ponastavljena">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 <!ENTITY netTimeout.title "Dovoljeni čas pretekel">
