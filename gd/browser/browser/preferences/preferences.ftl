@@ -73,6 +73,12 @@ restart-later = Ath-thòisich uaireigin eile
 ## Preferences UI Search Results
 
 search-results-header = Toraidhean luirg
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Tha sinn duilich ach chan eil toradh sam bith dhut sna roghainnean airson “<span data-l10n-name="query"></span>”.
+       *[other] Tha sinn duilich ach chan eil toradh sam bith dhut sna roghainnean airson “<span data-l10n-name="query"></span>”.
+    }
 
 ## General Section
 
@@ -214,6 +220,7 @@ play-drm-content-learn-more = Barrachd fiosrachaidh
 update-application-title = Ùrachaidhean { -brand-short-name }
 update-application-description = Cum { -brand-short-name } ùraichte airson dèanadas, seasmhachd is tèarainteachd as fhearr.
 update-application-info = Tionndadh { $version } <a>Na tha ùr</a>
+update-application-version = Tionndadh { $version } <a data-l10n-name="learn-more">Na tha ùr</a>
 update-history =
     .label = Seall eachdraidh nan ùrachaidhean…
     .accesskey = h
