@@ -151,6 +151,16 @@ containers-disable-alert-ok-button =
        *[other] Sulje { $tabCount } luokiteltua välilehteä
     }
 containers-disable-alert-cancel-button = Pidä käytössä
+containers-remove-alert-title = Poistetaanko tämä luokitus?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Jos poistat tämän luokituksen nyt, { $count } luokiteltu välilehti suljetaan. Haluatko varmasti poistaa luokituksen?
+       *[other] Jos poistat tämän luokituksen nyt, { $count } luokiteltua välilehteä suljetaan. Haluatko varmasti poistaa luokituksen?
+    }
+containers-remove-ok-button = Poista luokitus
+containers-remove-cancel-button = Älä poista luokitusta
 
 ## General Section - Language & Appearance
 
