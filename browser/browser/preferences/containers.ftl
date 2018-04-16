@@ -36,16 +36,6 @@ containers-color-label = Koloro
 containers-button-done =
     .label = Farita
     .accesskey = F
-containers-remove-alert-title = Ĉu forigi tiun ĉi ingon?
-# Variables:
-#   $count (Number) - Number of tabs that will be closed.
-containers-remove-alert-msg =
-    { $count ->
-        [one] Se vi forigas tiun ĉi ingon nun, { $count } inga langeto estos fermita. Ĉu vi certe volas forigi tiun ĉi ingon?
-       *[other] Se vi forigas tiun ĉi ingon nun, { $count } ingaj langetoj estos fermitaj. Ĉu vi certe volas forigi tiun ĉi ingon?
-    }
-containers-remove-ok-button = Forigi tiun ĉi ingon
-containers-remove-cancel-button = Ne forigi tiun ĉi ingon
 containers-color-blue =
     .label = Blua
 containers-color-turquoise =
