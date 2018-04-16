@@ -81,7 +81,16 @@ warn-on-open-many-tabs =
 show-tabs-in-taskbar =
     .label = Amosar previsualizacións das lapelas na barra de tarefas de Windows
     .accesskey = M
-
+containers-remove-alert-title = Retirar este contedor?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Se retira este contedor agora, pecharase { $count } lapela contedora. Confirma que quere retirar este contedor?
+       *[other] Se retira este contedor agora, pecharanse { $count } lapelas contedoras. Confirma que quere retirar este contedor?
+    }
+containers-remove-ok-button = Retirar este contedor
+containers-remove-cancel-button = Non retirar este contedor
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Idioma e aparencia
@@ -247,7 +256,6 @@ search-keyword-warning-engine = A palabra clave que escolleu está a ser utiliza
 search-keyword-warning-bookmark = A palabra clave que escolleu está a ser utilizada por un marcador. Seleccione outra.
 
 ## Containers Section
-
 
 ## Sync Section - Signed out
 
