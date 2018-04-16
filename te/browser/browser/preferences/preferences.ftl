@@ -150,6 +150,7 @@ containers-disable-alert-ok-button =
        *[other] { $tabCount } కంటైనర్ ట్యాబులను మూసివేయి
     }
 containers-disable-alert-cancel-button = అలానే చేతనించు
+containers-remove-alert-title = ఈ కంటెయినరును తీసీవేయాలా?
 
 ## General Section - Language & Appearance
 
