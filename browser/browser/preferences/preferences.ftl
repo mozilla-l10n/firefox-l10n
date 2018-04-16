@@ -76,6 +76,13 @@ restart-later = Reiniciar depois
 ## Preferences UI Search Results
 
 search-results-header = Resultados da pesquisa
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Desculpa! Não há nenhum resultado nas opções para “<span data-l10n-name="query"></span>”.
+       *[other] Desculpa! Não há nenhum resultado nas preferências para “<span data-l10n-name="query"></span>”.
+    }
+search-results-help-link = Precisa de ajuda? Visite o <a data-l10n-name="url">Suporte do { -brand-short-name }</a>
 
 ## General Section
 
@@ -213,6 +220,7 @@ play-drm-content-learn-more = Saber mais
 update-application-title = Atualizações do { -brand-short-name }
 update-application-description = Manter { -brand-short-name } atualizado para uma melhor performance, estabilidade e segurança.
 update-application-info = Versão { $version } <a>Novidades</a>
+update-application-version = Versão { $version } <a data-l10n-name="learn-more">Novidades</a>
 update-history =
     .label = Mostrar histórico de atualizações…
     .accesskey = p
@@ -248,6 +256,7 @@ performance-limit-content-process-option = Limite do processo de conteúdo
     .accesskey = L
 performance-limit-content-process-enabled-desc = Processos de conteúdo adicionais podem melhorar o desempenho ao usar várias abas, mas também usam mais memória.
 performance-limit-content-process-disabled-desc = A modificação do número de processos de conteúdo só é possível com o processo múltiplo do { -brand-short-name }. <a>Saiba como verificar se o processo múltiplo está habilitado</a>
+performance-limit-content-process-blocked-desc = A modificação do número de processos de conteúdo só é possível com o processo múltiplo do { -brand-short-name }. <a data-l10n-name="learn-more">Saiba como verificar se o processo múltiplo está habilitado</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -554,6 +563,7 @@ addressbar-suggestions-settings = Alterar preferências das sugestões do mecani
 ## Privacy Section - Tracking
 
 tracking-header = Proteção contra rastreamento
+tracking-desc = A proteção contra rastreamento bloqueia rastreadores on-line que coletam seus dados de navegação através de múltiplos sites. <a data-l10n-name="learn-more">Saiba mais sobre a proteção contra rastreamento e sua privacidade</a>
 tracking-mode-label = Use a proteção contra rastreamento para bloquear rastreadores conhecidos
 tracking-mode-always =
     .label = Sempre
