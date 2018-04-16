@@ -159,6 +159,9 @@ containers-disable-alert-ok-button =
        *[other] Cau { $tabCount } Tab Cynhwysydd
     }
 containers-disable-alert-cancel-button = Cadw wedi ei alluogi
+containers-remove-alert-title = Tynnu'r Cynhwysydd Hwn?
+containers-remove-ok-button = Tynnu'r Cynhwysydd Hwn
+containers-remove-cancel-button = Peidio Tynnu'r Cynhwysydd Hwn
 
 ## General Section - Language & Appearance
 
