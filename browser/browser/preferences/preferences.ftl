@@ -151,6 +151,16 @@ containers-disable-alert-ok-button =
        *[other] Lat att { $tabCount } innhaldsfaner
     }
 containers-disable-alert-cancel-button = Behald aktivert
+containers-remove-alert-title = Fjerne denne behaldaren?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Om du fjernar dennebehaldaren no, vil { $count } innhaldsfane bli stengt. Er du sikker på at du vil fjerne denne behaldaren?
+       *[other] Om du fjernar denne behaldaren no, vil { $count } innhaldsfaner bli stengt. Er du sikker på at du vil fjerne denne behaldaren?
+    }
+containers-remove-ok-button = Fjern denne behaldaren
+containers-remove-cancel-button = Ikkje fjern denne behaldaren
 
 ## General Section - Language & Appearance
 
