@@ -75,13 +75,6 @@ restart-later = తరువాత పునఃప్రారంభించు
 ## Preferences UI Search Results
 
 search-results-header = వెతుకుడు ఫలితాలు
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] క్షమించండి! “<span></span>” కోసం ఎంపికలలో ఫలితాలేమీ లేవు.
-       *[other] క్షమించండి! “<span></span>” కోసం అభిరుచులలో ఫలితాలేమీ లేవు.
-    }
-search-results-need-help = సహాయం కావాలా? <a>{ -brand-short-name } తోడ్పాటు</a>కి వెళ్ళండి
 
 ## General Section
 
@@ -455,9 +448,6 @@ privacy-header = విహరిణి గోప్యత
 ## Privacy Section - Forms
 
 forms-header = ఫారాలు & సంకేతపదాలు
-forms-remember-logins =
-    .label = వెబ్సైట్ల కోసం లాగిన్లు మరియు సంకేతపదాలను గుర్తుంచుకో
-    .accesskey = R
 forms-exceptions =
     .label = మినహాయింపులు…
     .accesskey = x
