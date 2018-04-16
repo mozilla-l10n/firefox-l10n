@@ -70,12 +70,6 @@ restart-later = Méi spéit nei starten
 ## Preferences UI Search Results
 
 search-results-header = Sichresultater
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] Leider keng Resultater an den Optiounen fir "<span></span>"
-       *[other] Leider keng Resultater an den Astellungen fir "<span></span>"
-    }
 
 ## General Section
 
@@ -203,6 +197,12 @@ restore-default =
 
 
 ## Containers Section
+
+
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
 
 
 ## Privacy Section
