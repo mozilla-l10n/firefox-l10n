@@ -257,6 +257,7 @@ performance-limit-content-process-option = Limita proceselor pentru conținut
     .accesskey = L
 performance-limit-content-process-enabled-desc = Procesele adiționale pentru conținut pot îmbunătăți performanța atunci când se folosesc mai multe file, însă va consuma și mai multă memorie.
 performance-limit-content-process-disabled-desc = Modificarea numărului de procese pentru conținut este posibilă doar cu funcția de multiprocese din { -brand-short-name }. <a>Învaţă cum să verifici dacă funcția de multiprocese este activată</a>
+performance-limit-content-process-blocked-desc = Modificarea numărului de procese pentru conținut este posibilă doar cu funcția de multiprocese din { -brand-short-name }. <a data-l10n-name="learn-more">Învaţă cum să verifici dacă funcția de multiprocese este activată</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
