@@ -138,6 +138,16 @@ containers-disable-alert-ok-button =
        *[other] Serrar { $tabCount } tabs da container
     }
 containers-disable-alert-cancel-button = Laschar activà
+containers-remove-alert-title = Allontanar quest container?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Sche ti allontaneschas ussa quest container vegn { $count } tab da container serrà. Es ti segir che ti vuls allontanar quest container?
+       *[other] Sche ti allontaneschas ussa quest container vegnan { $count } tabs da container serrads. Es ti segir che ti vuls allontanar quest container?
+    }
+containers-remove-ok-button = Allontanar quest container
+containers-remove-cancel-button = Betg allontanar quest container
 
 ## General Section - Language & Appearance
 
