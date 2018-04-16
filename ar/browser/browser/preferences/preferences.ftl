@@ -157,6 +157,19 @@ containers-disable-alert-ok-button =
        *[other] أغلق { $tabCount } لسان حاو
     }
 containers-disable-alert-cancel-button = أبقها مفعلّة
+containers-remove-alert-title = أتريد إزالة هذه الحاوية؟
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] إذا أزلت هذه الحاوية الآن فسيغلق لسان حاو. أمتأكد أنك تريد إزالة هذه الحاوية؟
+        [two] إذا أزلت هذه الحاوية الآن فسيغلق لسانين حاويين. أمتأكد أنك تريد إزالة هذه الحاوية؟
+        [few] إذا أزلت هذه الحاوية الآن فستغلق { $count } ألسنة حاوية. أمتأكد أنك تريد إزالة هذه الحاوية؟
+        [many] إذا أزلت هذه الحاوية الآن فسيغلق { $count } لسانًا حاويًا. أمتأكد أنك تريد إزالة هذه الحاوية؟
+       *[other] إذا أزلت هذه الحاوية الآن فسيغلق { $count } لسان حاو. أمتأكد أنك تريد إزالة هذه الحاوية؟
+    }
+containers-remove-ok-button = أزل الحاوية
+containers-remove-cancel-button = لا تزِل هذه الحاوية
 
 ## General Section - Language & Appearance
 
