@@ -82,6 +82,7 @@ search-results-empty-message =
         [windows] No s'ha trobat «<span data-l10n-name="query"></span>» a les opcions.
        *[other] No s'ha trobat «<span data-l10n-name="query"></span>» a les preferències.
     }
+search-results-help-link = Necessiteu ajuda? Visiteu l'<a data-l10n-name="url">assistència del { -brand-short-name }</a>
 
 ## General Section
 
@@ -255,6 +256,7 @@ performance-limit-content-process-option = Límit de processos de contingut
     .accesskey = L
 performance-limit-content-process-enabled-desc = Més processos de contingut poden millorar el rendiment quan utilitzeu diverses pestanyes, però també utilitzaran més memòria.
 performance-limit-content-process-disabled-desc = El nombre de processos de contingut només es pot modificar amb el { -brand-short-name } multiprocés. <a>Més informació sobre com comprovar si el multiprocés està activat.</a>
+performance-limit-content-process-blocked-desc = El nombre de processos de contingut només es pot modificar amb el { -brand-short-name } multiprocés. <a data-l10n-name="learn-more">Més informació sobre com comprovar si el multiprocés està activat.</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -560,6 +562,7 @@ addressbar-suggestions-settings = Canvia les preferències dels suggeriments de 
 ## Privacy Section - Tracking
 
 tracking-header = Protecció contra el seguiment
+tracking-desc = La protecció contra el seguiment bloca els elements de seguiment que recullen de les vostres dades de navegació pels diferents llocs web. <a data-l10n-name="learn-more">Més informació sobre la protecció contra el seguiment i la vostra privadesa</a>
 tracking-mode-label = Utilitza la protecció contra el seguiment per blocar elements de seguiment coneguts
 tracking-mode-always =
     .label = Sempre
