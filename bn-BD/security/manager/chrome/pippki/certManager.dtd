@@ -10,6 +10,9 @@
 <!ENTITY certmgr.tab.ca                       "কর্তৃপক্ষ">
 <!ENTITY certmgr.tab.orphan2                  "অন্যান্য">
 
+<!ENTITY certmgr.mine2                        "উল্লেখিত প্রতিষ্ঠানগুলি থেকে সনাক্তকারী সার্টিফিকেট বিদ্যমান">
+<!ENTITY certmgr.others2                      "উল্লেখিত ব্যক্তিদের সনাক্ত করতে ব্যবহৃত সার্টিফিকেট আপনার ফাইলে বিদ্যমান">
+<!ENTITY certmgr.websites3                    "নিম্নলিখিত সার্ভারগুলির সনাক্ত করতে ব্যবহৃত সার্টিফিকেট ফাইলে বিদ্যমান">
 
 <!ENTITY certmgr.detail.general_tab.title     "সাধারণ (G)">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
@@ -33,7 +36,6 @@
 <!ENTITY certmgr.editcert.edittrust           "বিশ্বস্ততা সংক্রান্ত বৈশিষ্ট্য সম্পাদনা:">
 <!ENTITY certmgr.editcert.trustssl            "এই সার্টিফিকেটের সাহায্যে ওয়েবসাইট সনাক্ত করা সম্ভব।">
 <!ENTITY certmgr.editcert.trustemail          "এই সার্টিফিকেটের সাহায্যে মেইল ব্যবহারকারীদের সনাক্ত করা সম্ভব।">
-<!ENTITY certmgr.editcert.trustobjsign        "এই সার্টিফিকেটের সাহায্যে সফটওয়্যার নির্মাতাদের সনাক্ত করা সম্ভব।">
 
 <!ENTITY certmgr.deletecert.title             "সার্টিফিকেট অপসারণ">
 
