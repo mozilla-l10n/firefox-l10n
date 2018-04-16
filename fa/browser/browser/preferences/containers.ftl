@@ -36,16 +36,6 @@ containers-color-label = رنگ
 containers-button-done =
     .label = انجام شد
     .accesskey = ا
-containers-remove-alert-title = این حامل حذف شود؟
-# Variables:
-#   $count (Number) - Number of tabs that will be closed.
-containers-remove-alert-msg =
-    { $count ->
-        [one] اگر هم‌اکنون زبانه‌های حامل را غیرفعال کنید، { $count } زبانه حامل بسته خواهد شد. آیا مطمئنید که می‌خواهید زبانه‌های حامل را غیرفعال کنید؟
-       *[other] اگر هم‌اکنون زبانه‌های حامل را غیرفعال کنید، { $count } زبانه حامل بسته خواهند شد. آیا مطمئنید که می‌خواهید زبانه‌های حامل را غیرفعال کنید؟
-    }
-containers-remove-ok-button = حذف حامل
-containers-remove-cancel-button = این حامل حذف نشود
 containers-color-blue =
     .label = آبی
 containers-color-turquoise =
