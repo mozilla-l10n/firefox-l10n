@@ -71,6 +71,7 @@ restart-later = Ales asenker ticki
 ## Preferences UI Search Results
 
 search-results-header = Igmaḍ n unadi
+search-results-help-link = Tesriḍ tallelt? Rzu γer <a data-l10n-name="url">{ -brand-short-name } Tallalt</a>
 
 ## General Section
 
@@ -243,6 +244,7 @@ performance-limit-content-process-option = Azal afellay n ukala n ugbur
     .accesskey = Y
 performance-limit-content-process-enabled-desc = Ikalan n ugbur-nniḍen zemren ad qaεḍen ugar tamellit di lawan n useqdec n waṭas acaren, maca akka ad iseqdec aṭas n tkatut.
 performance-limit-content-process-disabled-desc = Tzemreḍ kan ad tesnifleḍ amḍan n ugbur n ukala akked ugetakala { -brand-short-name }. <a>Issin amek ad tsneqdeḍ ma yella agetakala yermed</a>
+performance-limit-content-process-blocked-desc = Tzemreḍ kan ad tesnifleḍ amḍan n ugbur n ukala akked ugetakala { -brand-short-name }. <a data-l10n-name="learn-more">Issin amek ad tsneqdeḍ ma yella agetakala yermed</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -542,6 +544,7 @@ addressbar-suggestions-settings = Snifel ismenyifen i yisumar n umsedday n unadi
 ## Privacy Section - Tracking
 
 tracking-header = Ammesten mgal asfuɣel
+tracking-desc = Amesten mgal aḍfaṛ ad isewḥel ineḍfaṛen iqnen iluqḍen isefka n iminig inek deg ismal web. <a data-l10n-name="learn-more">Issin ugar γef umesten mgal aḍfaṛ akked tasertit n tbaḍnit</a>
 tracking-mode-label = Seqdec amesten mgal asfuγel akken ad teswaḥleḍ imsfuγal irusinin
 tracking-mode-always =
     .label = Yal ass
