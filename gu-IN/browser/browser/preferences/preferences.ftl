@@ -76,6 +76,12 @@ restart-later = પછી પુનઃશરૂ કરો
 ## Preferences UI Search Results
 
 search-results-header = શોધ પરિણામ
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] માફ કરશો! “<span data-l10n-name="query"></span>” માટેનાં વિકલ્પોમાં કોઈ પરિણામો નથી.
+       *[other] માફ કરશો! “<span data-l10n-name="query"></span>”માટે પસંદગીઓમાં કોઈ પરિણામો નથી.
+    }
 search-results-help-link = મદદ જોઈઅે છે? <a data-l10n-name="url">{ -brand-short-name } સમર્થન</a> ની મુલાકાત લો
 
 ## General Section
