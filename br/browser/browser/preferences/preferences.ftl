@@ -76,13 +76,6 @@ restart-later = Adloc'hañ diwezhatoc'h
 ## Preferences UI Search Results
 
 search-results-header = Disoc'hoù ar c'hlask
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] Digarezit! N'eus disoc'h ebet en dibarzhioù evit “<span></span>”.
-       *[other] Digarezit! N'eus disoc'h ebet er Gwellvezioù evit “<span></span>”.
-    }
-search-results-need-help = Ezhomm sikour? Gweladenniñ <a>Skoazell { -brand-short-name }</a>
 
 ## General Section
 
@@ -473,9 +466,6 @@ privacy-header = Prevezted ar merdeer
 ## Privacy Section - Forms
 
 forms-header = Furmskridoù & Gerioù-tremen
-forms-remember-logins =
-    .label = Derc'hel soñj eus an titouroù kennaskañ evit al lec'hiennoù
-    .accesskey = D
 forms-exceptions =
     .label = Nemedennoù…
     .accesskey = m
@@ -565,7 +555,6 @@ addressbar-suggestions-settings = Kemmañ ar gwellvezioù evit ar c'hinnigoù lu
 ## Privacy Section - Tracking
 
 tracking-header = Gwarez heuliañ
-tracking-description = Ar gwarez heuliañ a stank an heulierien enlinenn a zastum ho roadennoù merdeiñ war meur a lec'hienn. <a>Gouzout hiroc'h a-zivout ar gwarez heuliañ hag ho puhez prevez</a>
 tracking-mode-label = Arverañ ar gwarez heuliañ evit stankañ heulierien anavezet
 tracking-mode-always =
     .label = Atav
