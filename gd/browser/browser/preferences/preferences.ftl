@@ -73,13 +73,6 @@ restart-later = Ath-thòisich uaireigin eile
 ## Preferences UI Search Results
 
 search-results-header = Toraidhean luirg
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] Tha sinn duilich ach chan eil toradh sam bith dhut sna roghainnean airson “<span></span>”.
-       *[other] Tha sinn duilich ach chan eil toradh sam bith dhut sna roghainnean airson “<span></span>”.
-    }
-search-results-need-help = A bheil cobhair a dhìth ort. Tadhail air <a>Taic { -brand-short-name }</a>
 
 ## General Section
 
@@ -453,9 +446,6 @@ privacy-header = Prìobhaideachd a’ bhrabhsair
 ## Privacy Section - Forms
 
 forms-header = Foirmean ⁊ faclan-faire
-forms-remember-logins =
-    .label = Cuimhnich dàta clàradh a-steach is faclan-faire nan làraichean-lìn
-    .accesskey = r
 forms-exceptions =
     .label = Eisgeachdan…
     .accesskey = E
@@ -541,7 +531,6 @@ addressbar-suggestions-settings = Atharraich na roghainnean a thaobh mholaidhean
 ## Privacy Section - Tracking
 
 tracking-header = Dìon o thracadh
-tracking-description = Bacaidh an dìon o thracadh thu o thracaichean air loidhne a chruinnicheas an dàta brabhsaidh agad air feadh diofar làraichean-lìn. <a>Barrachd fiosrachaidh mu dhìon o thracadh agus do phrìobhaideachd</a>
 tracking-mode-label = Cleachd dìon o thracadh airson casg a chur air tracaichean aithnichte
 tracking-mode-always =
     .label = An-còmhnaidh
