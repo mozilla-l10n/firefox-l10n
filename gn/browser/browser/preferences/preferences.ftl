@@ -82,6 +82,7 @@ search-results-empty-message =
         [windows] ¡Ambyasy! ndaipóri tembiapokue jeporavorãme “<span data-l10n-name="query"></span>”-pe g̃uarã.
        *[other] ¡Ambyasy! ndaipoóri jerohoryvévape tembiapokue “<span data-l10n-name="query"></span>”.
     }
+search-results-help-link = ¿Eokitevẽpa pytyvõ? Eoke <a data-l10n-name="url">{ -brand-short-name } Ñepytyvõ</a> pe
 
 ## General Section
 
