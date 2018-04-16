@@ -76,13 +76,6 @@ restart-later = Käynnistä uudestaan myöhemmin
 ## Preferences UI Search Results
 
 search-results-header = Hakutulokset
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] Ei hakutuloksia asetuksista haulle ”<span></span>”.
-       *[other] Ei hakutuloksia asetuksista haulle ”<span></span>”.
-    }
-search-results-need-help = Tarvitsetko apua? Avaa <a>{ -brand-short-name }-tuki</a>
 
 ## General Section
 
@@ -471,9 +464,6 @@ privacy-header = Selaimen tietosuoja
 ## Privacy Section - Forms
 
 forms-header = Lomakkeet ja salasanat
-forms-remember-logins =
-    .label = Tallenna kirjautumistiedot
-    .accesskey = T
 forms-exceptions =
     .label = Poikkeukset…
     .accesskey = e
@@ -563,7 +553,6 @@ addressbar-suggestions-settings = Muuta hakukoneiden ehdotusten asetuksia
 ## Privacy Section - Tracking
 
 tracking-header = Seurannan suojaus
-tracking-description = Seurannan suojaus estää verkossa toimivia seurantamenetelmiä, jotka keräävät tietoja selaamisestasi yli sivustorajojen. <a>Lue lisää seurannan suojauksesta ja tietosuojastasi</a>
 tracking-mode-label = Käytä seurannan suojausta estämään tunnettuja seurantamenetelmiä
 tracking-mode-always =
     .label = Aina
