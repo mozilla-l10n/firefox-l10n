@@ -82,6 +82,7 @@ search-results-empty-message =
         [windows] माफ गर्नुहोस्! त्यहाँ “<span data-l10n-name="query"></span>” को लागि विकल्पहरूमा नतिजा छैन ।
        *[other] माफ गर्नुहोस्! त्यहाँ “<span data-l10n-name="query"></span>” को लागि प्राथमिकताहरूमा नतिजा छैन ।
     }
+search-results-help-link = सहयोग चाहियो? <a data-l10n-name="url">{ -brand-short-name } सहयोग</a> भ्रमण गर्नुहोस्
 
 ## General Section
 
