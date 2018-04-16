@@ -71,13 +71,6 @@ restart-later = Mulai Ulang Nanti
 ## Preferences UI Search Results
 
 search-results-header = Hasil Pencarian
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] Maaf! Tidak ada hasil di Preferensi untuk “<span></span>”.
-       *[other] Maaf! Tidak ada hasil di Preferensi untuk “<span></span>”.
-    }
-search-results-need-help = Butuh bantuan? Kunjungi <a>Dukungan { -brand-short-name }</a>
 
 ## General Section
 
@@ -443,9 +436,6 @@ privacy-header = Privasi Peramban
 ## Privacy Section - Forms
 
 forms-header = Formulir & Sandi
-forms-remember-logins =
-    .label = Ingat info masuk dan sandi untuk situs web
-    .accesskey = I
 forms-exceptions =
     .label = Pengecualian…
     .accesskey = c
@@ -522,7 +512,6 @@ addressbar-suggestions-settings = Ubah preferensi untuk saran mesin pencari
 ## Privacy Section - Tracking
 
 tracking-header = Perlindungan Pelacakan
-tracking-description = Perlindungan pelacakan memblokir pelacak daring yang mengumpulkan data penjelajahan Anda lintas berbagai situs web. <a>Pelajari lebih lanjut tentang Perlindungan Pelacakan dan privasi Anda</a>
 tracking-mode-label = Gunakan Perlindungan Pelacakan untuk memblokir pelacak yang diketahui
 tracking-mode-always =
     .label = Selalu
