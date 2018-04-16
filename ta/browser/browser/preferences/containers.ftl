@@ -36,16 +36,6 @@ containers-color-label = நிறம்
 containers-button-done =
     .label = முடிந்தது
     .accesskey = D
-containers-remove-alert-title = இந்தக் கலனை நீக்கவா?
-# Variables:
-#   $count (Number) - Number of tabs that will be closed.
-containers-remove-alert-msg =
-    { $count ->
-        [one] நீங்கள் இப்போது இந்தக் கொள்கலனை நீக்கினால், { $count } கொள்கலன் கீற்று மூடப்படும். இந்தக் கொள்கலனை நீக்க வேண்டுமா?
-       *[other] இப்போது இந்தக் கொள்னை நீக்கினால், { $count } கொள்கலன் கீற்றுகள் மூடப்படும். இந்தக் கொள்னை நீக்க வேண்டுமா?
-    }
-containers-remove-ok-button = இக்கலனை நீக்கு
-containers-remove-cancel-button = இக்கலனை நீக்க வேண்டாம்
 containers-color-blue =
     .label = நீலம்
 containers-color-turquoise =
