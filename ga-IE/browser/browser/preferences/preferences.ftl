@@ -44,6 +44,12 @@ restart-later = Atosaigh Ar Ball
 ## Preferences UI Search Results
 
 search-results-header = Torthaí an Chuardaigh
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Ár leithscéal! Níl aon torthaí i Roghanna ar “<span data-l10n-name="query"></span>”.
+       *[other] Ár leithscéal! Níl aon torthaí i Sainroghanna ar “<span data-l10n-name="query"></span>”.
+    }
 
 ## General Section
 
@@ -182,6 +188,7 @@ play-drm-content-learn-more = Tuilleadh eolais
 update-application-title = Nuashonruithe { -brand-short-name }
 update-application-description = Coinnigh { -brand-short-name } cothrom le dáta chun an fheidhmíocht, an chobhsaíocht, agus an tslándáil is fearr a dheimhniú.
 update-application-info = Leagan { $version } <a>Is geal gach nua</a>
+update-application-version = Leagan { $version } <a data-l10n-name="learn-more">Is geal gach nua</a>
 update-history =
     .label = Taispeáin Stair na Nuashonruithe…
     .accesskey = p
@@ -217,6 +224,7 @@ performance-limit-content-process-option = Teorainn próiseála ábhair
     .accesskey = T
 performance-limit-content-process-enabled-desc = Beidh an brabhsálaí níos freagraí agus tuilleadh próiseas ábhair ar siúl má úsáidtear cluaisíní iomadúla, cé go n-úsáideann sé níos mó cuimhne.
 performance-limit-content-process-disabled-desc = Ní féidir mionathrú a dhéanamh ar an líon próisis ábhair ach le hilphróiseáil { -brand-short-name } amháin. <a>Foghlaim conas seiceáil má tá an ilphróiseáil cumasaithe.</a>
+performance-limit-content-process-blocked-desc = Ní féidir mionathrú a dhéanamh ar an líon próisis ábhair ach le hilphróiseáil { -brand-short-name } amháin. <a data-l10n-name="learn-more">Foghlaim conas seiceáil má tá an ilphróiseáil cumasaithe.</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
