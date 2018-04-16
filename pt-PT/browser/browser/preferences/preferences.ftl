@@ -82,6 +82,7 @@ search-results-empty-message =
         [windows] Desculpe! Não existem resultados nas opções para “<span data-l10n-name="query"></span>”.
        *[other] Desculpe! Não existem resultados nas preferências para “<span data-l10n-name="query"></span>”.
     }
+search-results-help-link = Precisa de ajuda? Visite o <a data-l10n-name="url">Apoio do { -brand-short-name }</a>
 
 ## General Section
 
@@ -255,6 +256,7 @@ performance-limit-content-process-option = Limite de processos de conteúdo
     .accesskey = L
 performance-limit-content-process-enabled-desc = Processos de conteúdo adicionais podem melhorar o desempenho ao utilizar múltiplos separadores, mas também irá consumir mais memória.
 performance-limit-content-process-disabled-desc = Modificar o número de processos de conteúdo é apenas possível com o multi-processo do { -brand-short-name }. <a>Saber como verificar se o multi-processo está ativado</a>
+performance-limit-content-process-blocked-desc = Modificar o número de processos de conteúdo é apenas possível com o multi-processo do { -brand-short-name }. <a data-l10n-name="learn-more">Saber como verificar se o multi-processo está ativado</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -561,6 +563,7 @@ addressbar-suggestions-settings = Alterar preferências para as sugestões dos m
 ## Privacy Section - Tracking
 
 tracking-header = Proteção contra monitorização
+tracking-desc = A Proteção contra monitorização bloqueia trackers online que recolhem os seus dados de navegação através de múltiplos websites. <a data-l10n-name="learn-more">Saber mais acerca da Proteção contra monitorização e a sua privacidade</a>
 tracking-mode-label = Utilizar Proteção contra monitorização para bloquear trackers conhecidos
 tracking-mode-always =
     .label = Sempre
