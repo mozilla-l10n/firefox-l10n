@@ -303,9 +303,21 @@ network-proxy-connection-settings =
     .accesskey = U
 
 ## Home Section
-
-
-## Home Section - Home Page Customization
+home-new-windows-tabs-header=Nowe okna i karty
+home-new-windows-tabs-description=Wybierz co ma być wyświetlane przy otwieraniu strony startowej, nowych okien i kart.
+home-restore-defaults =
+    .label=Przywróć domyślne
+    .accesskey=P
+home-homepage-mode-label=Strona startowa i nowe okna:
+home-newtabs-mode-label=Nowa karta:
+home-mode-choice-default =
+    .label=Strona domowa programu Firefox (domyślnie)
+home-mode-choice-custom =
+    .label=Inne strony
+home-mode-choice-blank =
+    .label=Pusta strona
+home-homepage-custom-url=
+    .placeholder=Adres URL
 
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
