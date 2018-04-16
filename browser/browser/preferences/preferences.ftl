@@ -151,6 +151,16 @@ containers-disable-alert-ok-button =
        *[other] Loka { $tabCount } innihaldsflipum
     }
 containers-disable-alert-cancel-button = Nota áfram
+containers-remove-alert-title = Fjarlægja innihaldsflipa?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Ef þú fjarlægir innihaldsflipa, verður { $count } innihaldsflipa lokað. Ertu viss um að þú viljir fjarlægja innihaldsflipa?
+       *[other] Ef þú fjarlægir innihaldsflipa, verður { $count } innihaldsflipum lokað. Ertu viss um að þú viljir fjarlægja innihaldsflipa?
+    }
+containers-remove-ok-button = Fjarlægja innihaldsflipa
+containers-remove-cancel-button = Ekki fjarlægja innihaldsflipa
 
 ## General Section - Language & Appearance
 
