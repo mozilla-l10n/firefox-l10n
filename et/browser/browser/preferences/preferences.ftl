@@ -72,6 +72,13 @@ restart-later = Taaskäivita hiljem
 ## Preferences UI Search Results
 
 search-results-header = Otsingutulemused
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Vabandust! Sätete seast ei leitud vastet otsingule “<span data-l10n-name="query"></span>”.
+       *[other] Vabandust! Eelistuste seast ei leitud vastet otsingule “<span data-l10n-name="query"></span>”.
+    }
+search-results-help-link = Vajad abi? Külasta lehte <a data-l10n-name="url">{ -brand-short-name }i abi</a>
 
 ## General Section
 
@@ -209,6 +216,7 @@ play-drm-content-learn-more = Rohkem teavet
 update-application-title = { -brand-short-name }i uuendused
 update-application-description = Hoia { -brand-short-name } värske, et saada osa parimast võimekusest, stabiilsusest ja turvalisusest.
 update-application-info = Versioon { $version } <a>Mis on uut?</a>
+update-application-version = Versioon { $version } <a data-l10n-name="learn-more">Mis on uut?</a>
 update-history =
     .label = Näita uuenduste ajalugu…
     .accesskey = N
@@ -244,6 +252,7 @@ performance-limit-content-process-option = Sisu protsesside limiit
     .accesskey = l
 performance-limit-content-process-enabled-desc = Täiendavad sisu protsessid võivad parandada võimekust mitme kaardi kasutamisel, aga kasutavad ka rohkem mälu.
 performance-limit-content-process-disabled-desc = Sisu protsesside arvu muutmine on võimalik ainult mitme protsessi toega { -brand-short-name }is. <a>Vaata, kuidas kontrollida, kas mitme protsessi tugi on lubatud</a>
+performance-limit-content-process-blocked-desc = Sisu protsesside arvu muutmine on võimalik ainult mitme protsessi toega { -brand-short-name }is. <a data-l10n-name="learn-more">Vaata, kuidas kontrollida, kas mitme protsessi tugi on lubatud</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -545,6 +554,7 @@ addressbar-suggestions-settings = Muuda otsingumootorite soovituste sätteid
 ## Privacy Section - Tracking
 
 tracking-header = Jälitamisvastane kaitse
+tracking-desc = Jälitamisvastane kaitse blokib jälitajad, kes koguvad andmeid sinu veebilehitsemise kohta üle mitme veebilehe. <a data-l10n-name="learn-more">Rohkem teavet jälitamisvastase kaitse ja sinu privaatsuse kohta</a>
 tracking-mode-label = Teadaolevad jälitajad blokitakse
 tracking-mode-always =
     .label = alati
