@@ -36,17 +36,6 @@ containers-color-label = Boja
 containers-button-done =
     .label = Gotovo
     .accesskey = G
-containers-remove-alert-title = Ukloni ovaj spremnik?
-# Variables:
-#   $count (Number) - Number of tabs that will be closed.
-containers-remove-alert-msg =
-    { $count ->
-        [one] Ukoliko sada uklonite ovaj spremnik, { $count } sadržajna kartica biti će zatvorena. Jeste li sigurni da želite ukloniti ovaj spremnik?
-        [few] Ukoliko sada uklonite ovaj spremnik, { $count } sadržajne kartice biti će zatvorene. Jeste li sigurni da želite ukloniti ovaj spremnik?
-       *[other] Ukoliko sada uklonite ovaj spremnik, { $count } sadržajnih kartica biti će zatvoreno. Jeste li sigurni da želite ukloniti ovaj spremnik?
-    }
-containers-remove-ok-button = Ukloni ovaj spremnik
-containers-remove-cancel-button = Nemoj ukloniti ovaj spremnik
 containers-color-blue =
     .label = Plava
 containers-color-turquoise =
