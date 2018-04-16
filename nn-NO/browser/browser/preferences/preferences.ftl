@@ -76,6 +76,13 @@ restart-later = Start på nytt seinare
 ## Preferences UI Search Results
 
 search-results-header = Søkeresultat
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Beklagar! Det er ingen resultat i innstillingar for «<span data-l10n-name="query"></span>».
+       *[other] Beklagar! Det er ingen resultat i innstillingar for «<span data-l10n-name="query"></span>».
+    }
+search-results-help-link = Treng du hjelp? Gå til <a data-l10n-name="url">{ -brand-short-name } brukarstøtte</a>
 
 ## General Section
 
@@ -213,6 +220,7 @@ play-drm-content-learn-more = Les meir
 update-application-title = { -brand-short-name }-oppdateringar
 update-application-description = Hald { -brand-short-name } oppdatert for beste yting, stabilitet og sikkerheit.
 update-application-info = Versjon { $version } <a>Kva er nytt</a>
+update-application-version = Versjon { $version } <a data-l10n-name="learn-more">Kva er nytt</a>
 update-history =
     .label = Vis oppdateringshistorikk…
     .accesskey = p
@@ -248,6 +256,7 @@ performance-limit-content-process-option = Grense for innhaldsprosessar
     .accesskey = G
 performance-limit-content-process-enabled-desc = Ytterlegere innhaldsprosessar kan forbetre ytinga når du brukar fleire faner, men vil også bruke meir minne.
 performance-limit-content-process-disabled-desc = Endring av talet på innhaldsprosessar kan berre gjerast med multiprosess { -brand-short-name }. <a>Lær deg korleis du kontrollerer om multiprosess er slått på</a>
+performance-limit-content-process-blocked-desc = Endring av talet på innhaldsprosessar kan berre gjerast med multiprosess { -brand-short-name }. <a data-l10n-name="learn-more">Lær deg korleis du kontrollerer om multiprosess er slått på</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -554,6 +563,7 @@ addressbar-suggestions-settings = Endre innstillingar for søkeforslag
 ## Privacy Section - Tracking
 
 tracking-header = Sporingsvern
+tracking-desc = Sporingsvernet blokkerer sporfølgjarar på nettet som samlar inn nettleserdataa dine på fleire nettstadar. <a data-l10n-name="learn-more">Les meir om sporingsvern og ditt personvern</a>
 tracking-mode-label = Bruk sporingsvern for å blokkere kjende sporfølgjarar
 tracking-mode-always =
     .label = Alltid
