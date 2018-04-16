@@ -76,13 +76,6 @@ restart-later = Hurmitin so Ɓooyii
 ## Preferences UI Search Results
 
 search-results-header = Njaltudi Njiilawu
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] Ay haame! Hay batte yaltaani e cuɓanɗe ngam “<span></span>”.
-       *[other] Ay haame! Alaa njaltudi woodi nder cuɓe wonande "<span></span>".
-    }
-search-results-need-help = Aɗa sokli ballal? Yillo <a>{ -brand-short-name } Wallitorde</a>
 
 ## General Section
 
@@ -471,9 +464,6 @@ privacy-header = Suturo Wanngorde
 ## Privacy Section - Forms
 
 forms-header = Formileeruuji & pinle
-forms-remember-logins =
-    .label = Siiftor baccooje e finndeeji lowe geese
-    .accesskey = R
 forms-exceptions =
     .label = Paltooje…
     .accesskey = a
@@ -563,7 +553,6 @@ addressbar-suggestions-settings = Waylu cuɓe wonande cakkitte yiylorde
 ## Privacy Section - Tracking
 
 tracking-header = Huutoro Ndeenka Dewindol
-tracking-description = Ndeenka Dewindol ina daaƴa sukindotooɓe roɓindotooɓe keɓe banngogol maa e nder lowe geese keewɗe. <a>Ɓeydu humpito baɗte Ndeenka Dewindol kam e suturo maa</a>
 tracking-mode-label = Huutoro ndeenka dewindagol ngam faddaade ñukkintooɓe anndaaɓe
 tracking-mode-always =
     .label = Sahaa kala
