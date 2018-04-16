@@ -220,6 +220,7 @@ play-drm-content-learn-more = מידע נוסף
 update-application-title = עדכוני { -brand-short-name }
 update-application-description = כדאי להשאיר את { -brand-short-name } עדכני לטובת ביצועים, יציבות ואבטחה ברמה הטובה ביותר.
 update-application-info = גרסה { $version } <a>מה חדש</a>
+update-application-version = גרסה { $version } <a data-l10n-name="learn-more">מה חדש</a>
 update-history =
     .label = הצגת היסטורית עדכונים…
     .accesskey = ה
@@ -255,6 +256,7 @@ performance-limit-content-process-option = הגבלת תהליך תוכן
     .accesskey = ה
 performance-limit-content-process-enabled-desc = תהליכי תוכן נוספים עשויים לשפר את הביצועים בעת שימוש במספר לשוניות, עם זאת יעשה שימוש ביותר זיכרון.
 performance-limit-content-process-disabled-desc = שינוי מספר תהליכי תוכן אפשרי רק עם { -brand-short-name } מרובה תהליכים. <a>כיצד לבדוק אם ריבוי תהליכים מופעל</a>
+performance-limit-content-process-blocked-desc = שינוי מספר תהליכי תוכן אפשרי רק עם { -brand-short-name } מרובה תהליכים. <a data-l10n-name="learn-more">כיצד לבדוק אם ריבוי תהליכים מופעל</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -556,6 +558,7 @@ addressbar-suggestions-settings = שינוי העדפות של הצעות מנו
 ## Privacy Section - Tracking
 
 tracking-header = הגנת מעקב
+tracking-desc = הגנת מעקב חוסמת רכיבי מעקב מקוונים שאוספים את נתוני הגלישה שלך ממגוון אתרים. <a data-l10n-name="learn-more">מידע נוסף על הגנת מעקב ועל הפרטיות שלך</a>
 tracking-mode-label = שימוש בהגנת מעקב לחסימת רכיבי מעקב ידועים
 tracking-mode-always =
     .label = תמיד
