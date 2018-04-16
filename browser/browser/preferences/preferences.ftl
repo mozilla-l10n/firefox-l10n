@@ -76,6 +76,12 @@ restart-later = Перазапусціць пазней
 ## Preferences UI Search Results
 
 search-results-header = Вынікі пошуку
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Выбачайце! У наладах няма вынікаў для “<span data-l10n-name="query"></span>”.
+       *[other] Выбачайце! У перавагах няма вынікаў для “<span data-l10n-name="query"></span>”.
+    }
 search-results-help-link = Патрэбна дапамога? Наведайце <a data-l10n-name="url">Падтрымка { -brand-short-name }</a>
 
 ## General Section
@@ -216,6 +222,7 @@ play-drm-content-learn-more = Даведацца больш
 update-application-title = Абнаўленні { -brand-short-name }
 update-application-description = Трымайце { -brand-short-name } абноўленым для лепшай прадукцыйнасці, стабільнасці і бяспекі.
 update-application-info = Версія { $version } <a>Што новага</a>
+update-application-version = Версія { $version } <a data-l10n-name="learn-more">Што новага</a>
 update-history =
     .label = Паказаць гісторыю абнаўленняў...
     .accesskey = с
@@ -251,6 +258,7 @@ performance-limit-content-process-option = Абмежаванне колькас
     .accesskey = а
 performance-limit-content-process-enabled-desc = Дадатковая колькасць працэсаў можа павялічыць прадукцыйнасць пры адкрыцці некалькіх картак, але браўзер будзе спажываць больш памяці.
 performance-limit-content-process-disabled-desc = Змена колькасці працэсаў магчымая толькі ў шматпрацэснай версіі { -brand-short-name }. <a>Даведайцеся, як праверыць, ці ўключана шматпрацэснасць</a>
+performance-limit-content-process-blocked-desc = Змена колькасці працэсаў магчымая толькі ў шматпрацэснай версіі { -brand-short-name }. <a data-l10n-name="learn-more">Даведайцеся, як праверыць, ці ўключана шматпрацэснасць</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
