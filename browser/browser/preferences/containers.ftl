@@ -36,16 +36,6 @@ containers-color-label = Renk
 containers-button-done =
     .label = Tamam
     .accesskey = m
-containers-remove-alert-title = Bu kapsayıcı silinsin mi?
-# Variables:
-#   $count (Number) - Number of tabs that will be closed.
-containers-remove-alert-msg =
-    { $count ->
-        [one] Bu kapsayıcıyı şimdi silerseniz { $count } kapsayıcı sekmesi kapanacaktır. Kapsayıcıyı silmek istediğinizden emin misiniz?
-       *[other] Bu kapsayıcıyı şimdi silerseniz { $count } kapsayıcı sekmesi kapanacaktır. Kapsayıcıyı silmek istediğinizden emin misiniz?
-    }
-containers-remove-ok-button = Kapsayıcıyı sil
-containers-remove-cancel-button = Kapsayıcıyı silme
 containers-color-blue =
     .label = Mavi
 containers-color-turquoise =
