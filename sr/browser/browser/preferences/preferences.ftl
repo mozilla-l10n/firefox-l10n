@@ -153,6 +153,9 @@ containers-disable-alert-ok-button =
        *[other] Затвори { $tabCount } контејнер језичака
     }
 containers-disable-alert-cancel-button = Остави укључено
+containers-remove-alert-title = Уклонити овај контејнер?
+containers-remove-ok-button = Уклони овај контејнер
+containers-remove-cancel-button = Немој уклонити овај контејнер
 
 ## General Section - Language & Appearance
 
