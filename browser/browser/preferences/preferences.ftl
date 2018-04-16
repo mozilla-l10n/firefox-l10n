@@ -73,13 +73,6 @@ restart-later = Riniseni Më Vonë
 ## Preferences UI Search Results
 
 search-results-header = Përfundime Kërkimi
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] Na ndjeni! S’ka përfundime te Mundësitë për “<span></span>”.
-       *[other] Na ndjeni! S’ka përfundime te Parapëlqimet për “<span></span>”.
-    }
-search-results-need-help = Ju duhet ndihmë? Vizitoni <a>Asistencë { -brand-short-name }</a>
 
 ## General Section
 
@@ -449,9 +442,6 @@ privacy-header = Privatësi Shfletuesi
 ## Privacy Section - Forms
 
 forms-header = Formularë & Fjalëkalime
-forms-remember-logins =
-    .label = Mba mend kredenciale hyrjesh dhe fjalëkalime për sajte
-    .accesskey = M
 forms-exceptions =
     .label = Përjashtime…
     .accesskey = a
@@ -537,7 +527,6 @@ addressbar-suggestions-settings = Ndryshoni parapëlqimet mbi këshillime motor�
 ## Privacy Section - Tracking
 
 tracking-header = Mbrojtje Nga Gjurmimet
-tracking-description = Mbrojtja Nga Gjurmimet bllokon gjurmues internetorë që grumbullojnë të dhëna shfletimi tuajat nëpër shumë sajte. <a>Mësoni më tepër rreth Mbrojtjes Nga Gjurmimet dhe privatësisë tuaj</a>
 tracking-mode-label = Përdore Mbrojtjen Nga Gjurmimet për bllokim gjurmuesish të ditur
 tracking-mode-always =
     .label = Përherë
