@@ -123,6 +123,9 @@ containers-disable-alert-ok-button =
        *[other] { $tabCount } کنٹینر ٹیبس بند کریں
     }
 containers-disable-alert-cancel-button = اہل بنایا رکھیں
+containers-remove-alert-title = اس حامل کو ہٹائیں؟
+containers-remove-ok-button = اس حامل کو ہٹائیں
+containers-remove-cancel-button = اس حامل کو مت ہٹائیں
 
 ## General Section - Language & Appearance
 
