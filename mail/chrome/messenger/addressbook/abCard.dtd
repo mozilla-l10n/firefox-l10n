@@ -60,7 +60,60 @@
 
 <!ENTITY Home.tab                       "Prìobhaideach">
 <!ENTITY Home.accesskey                 "P">
+<!ENTITY HomeAddress.label              "Seòladh:">
+<!ENTITY HomeAddress.accesskey          "d">
+<!ENTITY HomeCity.label                 "Baile:">
+<!ENTITY HomeCity.accesskey             "y">
+<!ENTITY HomeState.label                "Siorrachd/Còigeamh/Stàit:">
+<!ENTITY HomeState.accesskey            "S">
+<!ENTITY HomeZipCode.label              "Còd-puist:">
+<!ENTITY HomeZipCode.accesskey          "Z">
+<!ENTITY HomeCountry.label              "Dùthaich:">
+<!ENTITY HomeCountry.accesskey          "u">
+<!ENTITY HomeWebPage.label              "Duilleag-lìn:">
+<!ENTITY HomeWebPage.accesskey          "e">
+<!ENTITY Birthday.label                 "Co-là breith:">
+<!ENTITY Birthday.accesskey             "B">
+<!ENTITY Year.placeholder               "Bliadhna">
+<!ENTITY Or.value                       "no">
+<!ENTITY Age.placeholder                "Aois">
 
+<!ENTITY Work.tab                       "Obair">
+<!ENTITY Work.accesskey                 "W">
+<!ENTITY JobTitle.label                 "Tiotal:">
+<!ENTITY JobTitle.accesskey             "i">
+<!ENTITY Department.label               "Roinn:">
+<!ENTITY Department.accesskey           "m">
+<!ENTITY Company.label                  "Buidheann:">
+<!ENTITY Company.accesskey              "n">
+<!ENTITY WorkAddress.label              "Seòladh:">
+<!ENTITY WorkAddress.accesskey          "d">
+<!ENTITY WorkCity.label                 "Baile:">
+<!ENTITY WorkCity.accesskey             "y">
+<!ENTITY WorkState.label                "Siorrachd/Còigeamh/Stàit:">
+<!ENTITY WorkState.accesskey            "S">
+<!ENTITY WorkZipCode.label              "Còd-puist:">
+<!ENTITY WorkZipCode.accesskey          "Z">
+<!ENTITY WorkCountry.label              "Dùthaich:">
+<!ENTITY WorkCountry.accesskey          "u">
+<!ENTITY WorkWebPage.label              "Duilleag-lìn:">
+<!ENTITY WorkWebPage.accesskey          "e">
 
+<!ENTITY Other.tab                      "Eile">
+<!ENTITY Other.accesskey                "h">
+<!ENTITY Custom1.label                  "Gnàthaichte 1:">
+<!ENTITY Custom1.accesskey              "1">
+<!ENTITY Custom2.label                  "Gnàthaichte 2:">
+<!ENTITY Custom2.accesskey              "2">
+<!ENTITY Custom3.label                  "Gnàthaichte 3:">
+<!ENTITY Custom3.accesskey              "3">
+<!ENTITY Custom4.label                  "Gnàthaichte 4:">
+<!ENTITY Custom4.accesskey              "4">
+<!ENTITY Notes.label                    "Nòtaichean:">
+<!ENTITY Notes.accesskey                "N">
 
+<!ENTITY Chat.tab                       "Cabadaich">
+<!ENTITY Chat.accesskey                 "a">
+<!ENTITY Gtalk.label                    "Google Talk:">
+<!ENTITY Gtalk.accesskey                "G">
 
