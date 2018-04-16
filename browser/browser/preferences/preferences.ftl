@@ -76,13 +76,6 @@ restart-later = Pozdźišo znowa startować
 ## Preferences UI Search Results
 
 search-results-header = Pytanske wuslědki
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] Bohužel žane wuslědki w nastajenjach za “<span></span>” njejsu.
-       *[other] Bohužel žane wuslědki w nastajenjach za “<span></span>” njejsu.
-    }
-search-results-need-help = Trjebaće pomoc? Wopytajće <a>Pomoc za { -brand-short-name }</a>
 
 ## General Section
 
@@ -476,9 +469,6 @@ privacy-header = Priwatnosć wobhladowaka
 ## Privacy Section - Forms
 
 forms-header = Formulary a hesła
-forms-remember-logins =
-    .label = Přizjewjenja a hesła za sydła sej spomjatkować
-    .accesskey = P
 forms-exceptions =
     .label = Wuwzaća…
     .accesskey = u
@@ -568,7 +558,6 @@ addressbar-suggestions-settings = Nastajenja za namjety pytawy změnić
 ## Privacy Section - Tracking
 
 tracking-header = Slědowanski škit
-tracking-description = Slědowanski škit přesćěhowaki online blokuje, kotrež waše přehladowanske daty přez wjacore websydła hromadźa. <a>Zhońće wjace wo slědowanskim škiće a swojej priwatnosći</a>
 tracking-mode-label = Slědowanski škit wužiwać, zo by znate přesćěhowaki blokował
 tracking-mode-always =
     .label = Přeco
