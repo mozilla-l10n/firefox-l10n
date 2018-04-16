@@ -110,6 +110,9 @@ containers-disable-alert-ok-button =
        *[other] Vala iiThebhu zeKhonteyina ii-{ $tabCount }.
     }
 containers-disable-alert-cancel-button = Zigcina zivuliwe
+containers-remove-alert-title = Ufuna ukuSusa le Khonteyina?
+containers-remove-ok-button = Yisuse le Khonteyina
+containers-remove-cancel-button = Musa ukuyisusa le Khonteyina
 
 ## General Section - Language & Appearance
 
