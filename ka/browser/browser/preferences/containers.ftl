@@ -36,16 +36,6 @@ containers-color-label = ფერი
 containers-button-done =
     .label = მზადაა
     .accesskey = მ
-containers-remove-alert-title = გსურთ სათავსის წაშლა?
-# Variables:
-#   $count (Number) - Number of tabs that will be closed.
-containers-remove-alert-msg =
-    { $count ->
-        [one] თუ ამ სათავსს ახლავე წაშლით, ჩანართი დაიხურება. ნამდვილად გსურთ, სათავსის წაშლა?
-       *[other] თუ ამ სათავსს ახლავე წაშლით, { $count } ჩანართი დაიხურება. ნამდვილად გსურთ სათავსის წაშლა?
-    }
-containers-remove-ok-button = სათავსის წაშლა
-containers-remove-cancel-button = სათავსის დატოვება
 containers-color-blue =
     .label = ლურჯი
 containers-color-turquoise =
