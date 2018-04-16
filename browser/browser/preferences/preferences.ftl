@@ -144,6 +144,9 @@ containers-disable-alert-desc = หากคุณปิดใช้งานแ
 containers-disable-alert-ok-button = ปิด { $tabCount } แท็บแยกข้อมูล
 containers-disable-alert-cancel-button = เปิดใช้งานต่อไป
 containers-remove-alert-title = เอาการแยกข้อมูลนี้ออก?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg = หากคุณเอาการแยกข้อมูลนี้ออกตอนนี้ { $count } แท็บแยกข้อมูลจะถูกปิด คุณแน่ใจหรือไม่ว่าต้องการเอาการแยกข้อมูลนี้ออก?
 containers-remove-ok-button = เอาการแยกข้อมูลนี้ออก
 containers-remove-cancel-button = ไม่เอาการแยกข้อมูลนี้ออก
 
