@@ -82,6 +82,7 @@ search-results-empty-message =
         [windows] Вибачте! В налаштуваннях немає результатів для “<span data-l10n-name="query"></span>”.
        *[other] Вибачте! В налаштуваннях немає результатів для “<span data-l10n-name="query"></span>”.
     }
+search-results-help-link = Потрібна допомога? Відвідайте <a data-l10n-name="url">Підтримка { -brand-short-name }</a>
 
 ## General Section
 
@@ -564,6 +565,7 @@ addressbar-suggestions-settings = Змінити налаштування про
 ## Privacy Section - Tracking
 
 tracking-header = Захист від стеження
+tracking-desc = Захист від стеження блокує елементи, що збирають ваші дані під час перегляду на багатьох веб-сайтах. <a data-l10n-name="learn-more">Дізнайтеся більше про захист від стеження і вашу приватність</a>
 tracking-mode-label = Використовуйте захист від стеження для блокування відомих елементів стеження
 tracking-mode-always =
     .label = Завжди
