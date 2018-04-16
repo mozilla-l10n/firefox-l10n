@@ -67,6 +67,12 @@ restart-later = بعداْ راه‌اندازی مجدد شود
 ## Preferences UI Search Results
 
 search-results-header = نتایج جستجو
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] متاسفیم! هیچ نتیجه‌ای در گزینه‌ها برای «<span data-l10n-name="query"></span>» وجود ندارد.
+       *[other] متاسفیم! هیچ نتیجه‌ای در ترجیحات برای «<span data-l10n-name="query"></span>» وجود ندارد.
+    }
 
 ## General Section
 
@@ -204,6 +210,7 @@ play-drm-content-learn-more = بیشتر بدانید
 update-application-title = بروزرسانی‌های { -brand-short-name }:
 update-application-description = برای تجربهٔ بهترین کارایی، پایداری و امنیت { -brand-short-name } را به روز نگاه دارید.
 update-application-info = نسخه{ $version } <a>امکانات جدید</a>
+update-application-version = نسخه{ $version } <a data-l10n-name="learn-more">امکانات جدید</a>
 update-history =
     .label = نمایش تاریخچهٔ بروزرسانی…
     .accesskey = ت
