@@ -76,6 +76,12 @@ restart-later = Endurræsa seinna
 ## Preferences UI Search Results
 
 search-results-header = Leitarniðurstöður
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Því miður! Engar niðurstöður eru til fyrir stillingar fyrir “<span data-l10n-name="query"></span>”.
+       *[other] Því miður! Engar niðurstöður eru til fyrir stillingar fyrir “<span data-l10n-name="query"></span>”.
+    }
 
 ## General Section
 
@@ -213,6 +219,7 @@ play-drm-content-learn-more = Vita meira
 update-application-title = { -brand-short-name } uppfærslur
 update-application-description = Viðhalda { -brand-short-name } uppfærðum fyrir bestu afköst, stöðugleika og öryggi.
 update-application-info = Útgáfa { $version } <a>Hvað er nýtt</a>
+update-application-version = Útgáfa { $version } <a data-l10n-name="learn-more">Hvað er nýtt</a>
 update-history =
     .label = Sýna uppfærslusögu…
     .accesskey = p
