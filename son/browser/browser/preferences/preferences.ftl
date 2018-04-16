@@ -98,6 +98,9 @@ containers-disable-alert-ok-button =
        *[other] { $tabCount } sun kanjey daabu
     }
 containers-disable-alert-cancel-button = Naŋ diray ga
+containers-remove-alert-title = Sunoo woo kaa?
+containers-remove-ok-button = Sunoo woo kaa
+containers-remove-cancel-button = Ma ši sunoo woo kaa
 
 ## General Section - Language & Appearance
 
