@@ -213,6 +213,7 @@ play-drm-content-learn-more = Saber más
 update-application-title = Actualizaciones de { -brand-short-name }
 update-application-description = Mantenga { -brand-short-name } actualizado para un rendimiento, estabilidad y seguridad óptimos.
 update-application-info = Versión { $version } <a>Novedades</a>
+update-application-version = Versión { $version } <a data-l10n-name="learn-more">Novedades</a>
 update-history =
     .label = Mostrar historial de actualizaciones…
     .accesskey = M
@@ -248,6 +249,7 @@ performance-limit-content-process-option = Límite de procesos de contenido
     .accesskey = L
 performance-limit-content-process-enabled-desc = Más procesos de contenido pueden mejorar el rendimiento al usar múltiples pestañas, pero también usarán más memoria.
 performance-limit-content-process-disabled-desc = Modificar el número de procesos de contenido solo es posible con { -brand-short-name } multiproceso. <a>Sepa cómo comprobar si el multiproceso está activado</a>
+performance-limit-content-process-blocked-desc = Modificar el número de procesos de contenido solo es posible con { -brand-short-name } multiproceso. <a data-l10n-name="learn-more">Sepa cómo comprobar si el multiproceso está activado</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -554,6 +556,7 @@ addressbar-suggestions-settings = Cambiar preferencias de sugerencias de buscado
 ## Privacy Section - Tracking
 
 tracking-header = Protección contra rastreo
+tracking-desc = La protección contra rastreo bloquea los rastreadores en línea que recopilan sus datos de navegación a través de múltiples sitios web. <a data-l10n-name="learn-more">Más información sobre la protección contra rastreo y su privacidad</a>
 tracking-mode-label = Usar protección contra rastreo para bloquear los rastreadores conocidos
 tracking-mode-always =
     .label = Siempre
