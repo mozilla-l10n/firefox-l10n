@@ -72,13 +72,6 @@ restart-later = পরে রিস্টার্ট করা হবে
 ## Preferences UI Search Results
 
 search-results-header = অনুসন্ধানের ফলাফল
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] দুঃখিত! “<span></span>”-র জন্য অপশনে কোন ফলাফল নেই।
-       *[other] দুঃখিত! “<span></span>”-র জন্য পছন্দসমূহে কোন ফলাফল নেই।
-    }
-search-results-need-help = সাহায্য প্রয়োজন? <a>{ -brand-short-name } সাপোর্ট</a> দেখুন
 
 ## General Section
 
@@ -467,9 +460,6 @@ privacy-header = ব্রাউজার গোপনীয়তা
 ## Privacy Section - Forms
 
 forms-header = ফরম ও পাসওয়ার্ড
-forms-remember-logins =
-    .label = ওয়েবসাইটের লগইন ও পার্সওয়ার্ড মনে রাখবে
-    .accesskey = R
 forms-exceptions =
     .label = ব্যতিক্রম...
     .accesskey = x
@@ -552,7 +542,6 @@ addressbar-suggestions-settings = অনুসন্ধান ইঞ্জিন
 ## Privacy Section - Tracking
 
 tracking-header = ট্রাকিং সুরক্ষা
-tracking-description = ট্র্যাকিং সুরক্ষা অনলাইন ট্র্যাকার ব্লক করে, যারা বিভিন্ন সাইটে আপনার ব্রাউজিং তথ্য সংগ্রহ করে। <a>ট্রাকিং সুরক্ষা এবং আপনার গোপনীয়তা সম্পর্কে আরও জানুন</a>
 tracking-mode-label = জানা ট্রাকারগুলি ব্লক করতে ট্রাকিং সুরক্ষা ব্যবহার করুন
 tracking-mode-always =
     .label = সর্বদা
