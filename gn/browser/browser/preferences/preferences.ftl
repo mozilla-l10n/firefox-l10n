@@ -151,6 +151,16 @@ containers-disable-alert-ok-button =
        *[other] Emboty { $tabCount } tendayke guerekoha
     }
 containers-disable-alert-cancel-button = Emyandy memete
+containers-remove-alert-title = ¿Eipe’a ko guerekoha?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Eipe'áramo ko'ág̃a guerekoha, tendayke guerekoha { $count } oñembotýta. ¿Embotyse añetehápe ko guerekoha?
+       *[other] Embotýramo ko guerekoha ko'ág̃a, umi tendayke guerekoha { $count } oñembotýta. ¿Embotyse añetehápe ko guerekoha?
+    }
+containers-remove-ok-button = Eipe’a ko guerekoha
+containers-remove-cancel-button = Aníke eipe’a ko guerekoha
 
 ## General Section - Language & Appearance
 
