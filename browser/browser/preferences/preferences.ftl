@@ -67,6 +67,13 @@ restart-later = Restartigi poste
 ## Preferences UI Search Results
 
 search-results-header = Serĉrezultoj
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Bedaŭrinde ne estis rezultoj por “<span data-l10n-name="query"></span>” en Elektebloj.
+       *[other] Bedaŭrinde ne estis rezultoj por “<span data-l10n-name="query"></span>” en Preferoj.
+    }
+search-results-help-link = Ĉu vi bezonas helpon? Vizitu <a data-l10n-name="url">Helpo por { -brand-short-name }</a>
 
 ## General Section
 
@@ -240,6 +247,7 @@ performance-limit-content-process-option = Maksimuma nombro de enhavaj taskoj
     .accesskey = M
 performance-limit-content-process-enabled-desc = Pli da enhavaj taskoj povas plibonigi efikecon dum uzo de pluraj langetoj, sed ili ankaŭ uzos pli da memoro.
 performance-limit-content-process-disabled-desc = Nur eblas modifi la nombron de enhavaj taskoj en plurproceza { -brand-short-name }. <a>Pli da informo, pri kiel eltrovi ĉu plurprocezo estas aktiva</a>
+performance-limit-content-process-blocked-desc = Nur eblas modifi la nombron de enhavaj taskoj en plurproceza { -brand-short-name }. <a data-l10n-name="learn-more">Pli da informo, pri kiel eltrovi ĉu plurprocezo estas aktiva</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -515,6 +523,7 @@ addressbar-suggestions-settings = Ŝanĝi preferojn pri serĉilaj sugestoj
 ## Privacy Section - Tracking
 
 tracking-header = Protekto kontraŭ spurado
+tracking-desc = La protekto kontraŭ spurado blokas retajn spurilojn, kiuj kolektas viajn retumajn datumojn tra pluraj retejoj. <a data-l10n-name="learn-more">Pli da informo pri protekto kontraŭ spurado kaj via privateco</a>
 tracking-mode-label = Uzi protekton kontraŭ spurado por bloki konatajn spurilojn
 tracking-mode-always =
     .label = Ĉiam
