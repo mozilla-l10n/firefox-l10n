@@ -76,6 +76,13 @@ restart-later = Поново покрени касније
 ## Preferences UI Search Results
 
 search-results-header = Резултати претраге
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Жао нам је! Нема резултата у поставкама за “<span data-l10n-name="query"></span>”.
+       *[other] Жао нам је! Нема резултата у поставкама за “<span data-l10n-name="query"></span>”.
+    }
+search-results-help-link = Потребна вам је помоћ? Посетите <a data-l10n-name="url">{ -brand-short-name } подршка</a>
 
 ## General Section
 
@@ -215,6 +222,7 @@ play-drm-content-learn-more = Сазнајте више
 update-application-title = { -brand-short-name } ажурирања
 update-application-description = Учините { -brand-short-name } ажурним за боље перформансе, стабилност и безбедност.
 update-application-info = Верзија { $version } <a>Шта је ново</a>
+update-application-version = Верзија { $version } <a data-l10n-name="learn-more">Шта је ново</a>
 update-history =
     .label = Прикажи историјат ажурирања…
     .accesskey = и
@@ -250,6 +258,7 @@ performance-limit-content-process-option = Лимит процеса садрж�
     .accesskey = Л
 performance-limit-content-process-enabled-desc = Додатни процеси садржаја могу побољшати перформансе док користите више језичака, али ће такође користити више меморије.
 performance-limit-content-process-disabled-desc = Уређивање броја процеса садржаја је могуће само када је омогућен вишепроцесни { -brand-short-name }. <a>Сазнајте како да проверите да ли су мултипроцеси омогућени</a>
+performance-limit-content-process-blocked-desc = Уређивање броја процеса садржаја је могуће само када је омогућен вишепроцесни { -brand-short-name }. <a data-l10n-name="learn-more">Сазнајте како да проверите да ли су мултипроцеси омогућени</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -556,6 +565,7 @@ addressbar-suggestions-settings = Измени поставке предлога
 ## Privacy Section - Tracking
 
 tracking-header = Заштита од праћења
+tracking-desc = Заштита од праћења блокира интернет пратиоце који прикупљају ваше податке путем разноразних веб сајтова. <a data-l10n-name="learn-more">Сазнајте више о заштити од праћења и вашој приватности</a>
 tracking-mode-label = Користите заштиту од праћења да блокирате познате трагаче
 tracking-mode-always =
     .label = Увек
