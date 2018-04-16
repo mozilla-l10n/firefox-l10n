@@ -76,13 +76,6 @@ restart-later = Daha sonra yeniden başlat
 ## Preferences UI Search Results
 
 search-results-header = Arama sonuçları
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] Kusura bakmayın, seçeneklerde “<span></span>” ile ilgili bir sonuç bulamadık.
-       *[other] Kusura bakmayın, tercihlerde “<span></span>” ile ilgili bir sonuç bulamadık.
-    }
-search-results-need-help = Yardım mı gerekiyor? <a>{ -brand-short-name } Destek</a>’i ziyaret edin.
 
 ## General Section
 
@@ -472,9 +465,6 @@ privacy-header = Tarayıcı gizliliği
 ## Privacy Section - Forms
 
 forms-header = Formlar ve parolalar
-forms-remember-logins =
-    .label = Sitelerdeki kullanıcı adlarını ve parolaları hatırla
-    .accesskey = k
 forms-exceptions =
     .label = İstisnalar…
     .accesskey = s
@@ -564,7 +554,6 @@ addressbar-suggestions-settings = Arama motoru önerileri için tercihleri deği
 ## Privacy Section - Tracking
 
 tracking-header = İzlenme Koruması
-tracking-description = İzlenme Koruması, siz siteler arasında gezinirken hakkınızda veri toplayan çevrimiçi takipçileri engeller. <a>İzlenme Koruması ve gizliliğiniz hakkında daha fazla bilgi alın</a>
 tracking-mode-label = Bilinen takipçileri engellemek için İzlenme Koruması’nı kullan
 tracking-mode-always =
     .label = Her zaman
