@@ -36,16 +36,6 @@ containers-color-label = Väri
 containers-button-done =
     .label = Valmis
     .accesskey = V
-containers-remove-alert-title = Poistetaanko tämä luokitus?
-# Variables:
-#   $count (Number) - Number of tabs that will be closed.
-containers-remove-alert-msg =
-    { $count ->
-        [one] Jos poistat tämän luokituksen nyt, { $count } luokiteltu välilehti suljetaan. Haluatko varmasti poistaa luokituksen?
-       *[other] Jos poistat tämän luokituksen nyt, { $count } luokiteltua välilehteä suljetaan. Haluatko varmasti poistaa luokituksen?
-    }
-containers-remove-ok-button = Poista luokitus
-containers-remove-cancel-button = Älä poista luokitusta
 containers-color-blue =
     .label = Sininen
 containers-color-turquoise =
