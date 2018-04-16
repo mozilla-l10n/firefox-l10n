@@ -36,12 +36,6 @@ containers-color-label = 색깔
 containers-button-done =
     .label = 완료
     .accesskey = D
-containers-remove-alert-title = 이 컨테이너를 삭제하시겠습니까?
-# Variables:
-#   $count (Number) - Number of tabs that will be closed.
-containers-remove-alert-msg = 이 컨테이너를 삭제하면 { $count } 컨테이너 탭이 닫힙니다. 이 컨테이너를 정말로 삭제하시겠습니까?
-containers-remove-ok-button = 이 컨테이너 삭제
-containers-remove-cancel-button = 이 컨테이너 삭제하지 않음
 containers-color-blue =
     .label = 파랑
 containers-color-turquoise =
