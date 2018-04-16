@@ -76,6 +76,12 @@ restart-later = Reiniciar después
 ## Preferences UI Search Results
 
 search-results-header = Buscar resultados
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] ¡Lo siento! No hay resultados en las opciones de “<span data-l10n-name="query"></span>”.
+       *[other] ¡Lo siento! No hay resultados en las preferencias de “<span data-l10n-name="query"></span>”.
+    }
 search-results-help-link = ¿Necesitas ayuda? Visita <a data-l10n-name="url">Apoyo de { -brand-short-name }</a>
 
 ## General Section
@@ -249,6 +255,7 @@ performance-limit-content-process-option = Número límite de proceso de conteni
     .accesskey = L
 performance-limit-content-process-enabled-desc = Los procesos de contenido adicionales mejoran el rendimiento cuando se utilizan múltiples pestañas, pero también consumen más memoria.
 performance-limit-content-process-disabled-desc = Es posible modificar el número de procesos de contenido solo con el multiproceso { -brand-short-name }. <a>Aprender a comprobar si el multiproceso está habilitado</a>
+performance-limit-content-process-blocked-desc = Es posible modificar el número de procesos de contenido solo con el multiproceso { -brand-short-name }. <a data-l10n-name="learn-more">Aprender a comprobar si el multiproceso está habilitado</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
