@@ -151,6 +151,16 @@ containers-disable-alert-ok-button =
        *[other] Tanca { $tabCount } pestanyes de contenidor
     }
 containers-disable-alert-cancel-button = Mantén activades
+containers-remove-alert-title = Voleu eliminar aquest contenidor?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Si elimineu aquest contenidor ara, es tancarà { $count } pestanya de contenidor. Segur que voleu eliminar aquest contenidor?
+       *[other] Si elimineu aquest contenidor ara, es tancaran { $count } pestanyes de contenidor. Segur que voleu eliminar aquest contenidor?
+    }
+containers-remove-ok-button = Elimina aquest contenidor
+containers-remove-cancel-button = No eliminis aquest contenidor
 
 ## General Section - Language & Appearance
 
