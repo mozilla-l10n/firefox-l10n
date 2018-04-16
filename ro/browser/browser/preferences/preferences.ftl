@@ -487,6 +487,9 @@ privacy-header = Confidențialitate în browser
 ## Privacy Section - Forms
 
 forms-header = Formulare și parole
+forms-ask-to-save-logins =
+    .label = Solicită dialogul de salvare al autentificărilor și parolelor în cazul site-urilor web
+    .accesskey = r
 forms-exceptions =
     .label = Excepții…
     .accesskey = x
@@ -526,10 +529,10 @@ history-clear-button =
 
 ## Privacy Section - Site Data
 
-sitedata-header = Cookie-uri și datele site-urilor
+sitedata-header = Cookie-uri și date ale site-urilor
 sitedata-learn-more = Află mai multe
 sitedata-accept-cookies-option =
-    .label = Acceptă cookie-uri și datele site-urilor de la site-uri web (recomandat)
+    .label = Acceptă cookie-urile și datele site-urilor de la site-uri web (recomandat)
     .accesskey = A
 sitedata-block-cookies-option =
     .label = Blochează cookie-urile și datele site-urilor (poate provoca afectarea aspectului site-urilor web)
@@ -540,7 +543,7 @@ sitedata-keep-until-expire =
     .label = Expiră
 sitedata-keep-until-closed =
     .label = { -brand-short-name } este închis
-sitedata-accept-third-party-desc = Acceptă cookie-uri de la terți și datele site-urilor
+sitedata-accept-third-party-desc = Acceptă cookie-urile de la terți și datele site-urilor
     .accesskey = y
 sitedata-accept-third-party-always-option =
     .label = Întotdeauna
