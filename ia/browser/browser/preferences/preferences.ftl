@@ -151,6 +151,16 @@ containers-disable-alert-ok-button =
        *[other] Clauder { $tabCount } schedas contextual
     }
 containers-disable-alert-cancel-button = Mantener active
+containers-remove-alert-title = Remover iste contexto?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Si tu remove iste contexto ora, { $count } scheda contextual essera claudite. Desira tu vermente remover iste contexto?
+       *[other] Si tu remover iste contexto ora, { $count } schedas contextual essera claudite. Desira tu vermente remover iste contexto?
+    }
+containers-remove-ok-button = Remover iste contexto
+containers-remove-cancel-button = Non remover iste contexto
 
 ## General Section - Language & Appearance
 
