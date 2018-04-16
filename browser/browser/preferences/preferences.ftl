@@ -576,7 +576,7 @@ addressbar-suggestions-settings = Endre innstillingar for søkeforslag
 ## Privacy Section - Tracking
 
 tracking-header = Sporingsvern
-tracking-desc = Sporingsvernet blokkerer sporfølgjarar på nettet som samlar inn nettleserdataa dine på fleire nettstadar. <a data-l10n-name="learn-more">Les meir om sporingsvern og ditt personvern</a>
+tracking-desc = Sporingsvernet blokkerer sporarar på nettet som samlar inn dine nettlesardata dine på fleire nettsider. <a data-l10n-name="learn-more">Les meir om sporingsvern og ditt personvern</a>
 tracking-mode-label = Bruk sporingsvern for å blokkere kjende sporfølgjarar
 tracking-mode-always =
     .label = Alltid
