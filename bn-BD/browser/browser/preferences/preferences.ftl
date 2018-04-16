@@ -148,6 +148,13 @@ containers-disable-alert-ok-button =
     }
 containers-disable-alert-cancel-button = সক্রিয় রাখুন
 containers-remove-alert-title = এই কন্টেইনার সরাতে চান?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] আপনি যদি এখন এই কন্টেইনার মুছে ফেলেন, { $count } ধারক ট্যাব বন্ধ হয়ে যাবে. আপনি কি এই কন্টেইনার সরানোর বিষয়ে নিশ্চিত?
+       *[other] যদি আপনি এই কন্টেইনার মুছে ফেলেন, { $count } ধারক ট্যাব বন্ধ হয়ে যাবে. আপনি কি নিশ্চিত যে আপনি এই কন্টেইনার সরাতে চান?
+    }
 containers-remove-ok-button = এই কন্টেইনার সরান
 containers-remove-cancel-button = এই কন্টেইনার অপসারণ কর না
 
