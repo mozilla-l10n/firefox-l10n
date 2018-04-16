@@ -430,6 +430,8 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Speichern
     .accesskey = S
+sync-mobilepromo-single = Weiteres Gerät verbinden
+sync-mobilepromo-multi = Geräte verwalten
 sync-tos-link = Nutzungsbedingungen
 sync-fxa-privacy-notice = Datenschutzhinweis
 
