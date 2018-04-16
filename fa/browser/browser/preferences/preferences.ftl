@@ -142,6 +142,16 @@ containers-disable-alert-ok-button =
        *[other] بستن { $tabCount } زبانه حامل
     }
 containers-disable-alert-cancel-button = فعال باقی بماند
+containers-remove-alert-title = این حامل حذف شود؟
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] اگر هم‌اکنون زبانه‌های حامل را غیرفعال کنید، { $count } زبانه حامل بسته خواهد شد. آیا مطمئنید که می‌خواهید زبانه‌های حامل را غیرفعال کنید؟
+       *[other] اگر هم‌اکنون زبانه‌های حامل را غیرفعال کنید، { $count } زبانه حامل بسته خواهند شد. آیا مطمئنید که می‌خواهید زبانه‌های حامل را غیرفعال کنید؟
+    }
+containers-remove-ok-button = حذف حامل
+containers-remove-cancel-button = این حامل حذف نشود
 
 ## General Section - Language & Appearance
 
