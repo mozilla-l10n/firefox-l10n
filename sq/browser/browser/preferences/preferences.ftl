@@ -148,6 +148,16 @@ containers-disable-alert-ok-button =
        *[other] Mbyll { $tabCount } Skeda Kontejneri
     }
 containers-disable-alert-cancel-button = Mbaji të aktivizuara
+containers-remove-alert-title = Të Hiqet Ky Kontejner?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Nëse e hiqni këtë Kontejner tani, do të mbyllet { $count } skedë kontejneri. Jeni i sigurt se doni të mbyllet ky Kontejner?
+       *[other] Nëse e hiqni këtë Kontejner tani, do të mbyllen { $count } skeda kontejneri. Jeni i sigurt se doni të mbyllet ky Kontejner?
+    }
+containers-remove-ok-button = Hiqe këtë Kontejner
+containers-remove-cancel-button = Mos e hiq këtë Kontejner
 
 ## General Section - Language & Appearance
 
