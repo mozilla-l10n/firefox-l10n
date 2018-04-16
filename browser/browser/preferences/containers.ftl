@@ -36,16 +36,6 @@ containers-color-label = Litur
 containers-button-done =
     .label = Lokið
     .accesskey = ð
-containers-remove-alert-title = Fjarlægja innihaldsflipa?
-# Variables:
-#   $count (Number) - Number of tabs that will be closed.
-containers-remove-alert-msg =
-    { $count ->
-        [one] Ef þú fjarlægir innihaldsflipa, verður { $count } innihaldsflipa lokað. Ertu viss um að þú viljir fjarlægja innihaldsflipa?
-       *[other] Ef þú fjarlægir innihaldsflipa, verður { $count } innihaldsflipum lokað. Ertu viss um að þú viljir fjarlægja innihaldsflipa?
-    }
-containers-remove-ok-button = Fjarlægja innihaldsflipa
-containers-remove-cancel-button = Ekki fjarlægja innihaldsflipa
 containers-color-blue =
     .label = Blár
 containers-color-turquoise =
