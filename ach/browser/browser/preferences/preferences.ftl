@@ -76,6 +76,13 @@ restart-later = Cak odoco lacen
 ## Preferences UI Search Results
 
 search-results-header = Adwogi me yeny
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Timwa kica! Adwogi mo pe i me ayera pi “<span data-l10n-name="query"></span>”.
+       *[other] Timwa kica! Adwogi mo pe i ter pi “<span data-l10n-name="query"></span>”.
+    }
+search-results-help-link = Imito kony? Lim <a data-l10n-name="url">Kony pa { -brand-short-name }</a>
 
 ## General Section
 
@@ -539,6 +546,7 @@ addressbar-suggestions-settings = Lok ter pi tam ma kimiyo me injin yeny
 ## Privacy Section - Tracking
 
 tracking-header = Gwokke ikom lubo kor
+tracking-desc = Gwokke ikom lubo kor gengo lulub kor me wiyamo ma coko data me yeny mamegi ki ii kakube mapol. <a data-l10n-name="learn-more">Nong ngec mapol ikom Gwokke ikom lubo kor ki mung mamegi</a>
 tracking-mode-label = Tii ki Gwokke ikom lubo kor me gengo lulub kor ma ngene
 tracking-mode-always =
     .label = Jwijwi
