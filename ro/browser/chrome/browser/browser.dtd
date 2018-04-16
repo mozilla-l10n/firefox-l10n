@@ -957,7 +957,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY panicButton.thankyou.msg1                "Istoricul tău recent a fost șters.">
 <!ENTITY panicButton.thankyou.msg2                "Navigare în siguranță!">
-<!ENTITY panicButton.thankyou.buttonlabel         "Mulțumim!">
+<!ENTITY panicButton.thankyou.buttonlabel         "Îți mulțumim!">
 
 <!ENTITY emeLearnMoreContextMenu.label            "Află mai multe despre DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
