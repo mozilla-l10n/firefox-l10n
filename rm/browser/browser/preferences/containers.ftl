@@ -36,16 +36,6 @@ containers-color-label = Colur
 containers-button-done =
     .label = Finì
     .accesskey = F
-containers-remove-alert-title = Allontanar quest container?
-# Variables:
-#   $count (Number) - Number of tabs that will be closed.
-containers-remove-alert-msg =
-    { $count ->
-        [one] Sche ti allontaneschas ussa quest container vegn { $count } tab da container serrà. Es ti segir che ti vuls allontanar quest container?
-       *[other] Sche ti allontaneschas ussa quest container vegnan { $count } tabs da container serrads. Es ti segir che ti vuls allontanar quest container?
-    }
-containers-remove-ok-button = Allontanar quest container
-containers-remove-cancel-button = Betg allontanar quest container
 containers-color-blue =
     .label = Blau
 containers-color-turquoise =
