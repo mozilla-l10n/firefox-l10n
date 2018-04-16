@@ -82,6 +82,7 @@ search-results-empty-message =
         [windows] Кешіріңіз! Опцияларды "<span data-l10n-name="query"></span>" үшін нәтижелер табылмады.
        *[other] Кешіріңіз! Баптауларда "<span data-l10n-name="query"></span>" үшін нәтижелер табылмады.
     }
+search-results-help-link = Көмек керек пе? <a data-l10n-name="url">{ -brand-short-name } қолдауы</a> шолыңыз
 
 ## General Section
 
@@ -255,6 +256,7 @@ performance-limit-content-process-option = Құрама процестеріні
     .accesskey = ш
 performance-limit-content-process-enabled-desc = Қосымша құрама процестері бірнеше беттерді қолдану кезінде өнімділікті арттыра алады, бірақ, нәтижесінде көбірек жады қолданылады.
 performance-limit-content-process-disabled-desc = Процесстер санын түзету тек көппроцесстік { -brand-short-name } үшін мүмкін. <a>Көппроцесстік іске қосылғанын қалай білуге болады</a>
+performance-limit-content-process-blocked-desc = Процесстер санын түзету тек көппроцесстік { -brand-short-name } үшін мүмкін. <a data-l10n-name="learn-more">Көппроцесстік іске қосылғанын қалай білуге болады</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -561,6 +563,7 @@ addressbar-suggestions-settings = Іздеу жүйесінің ұсыныста
 ## Privacy Section - Tracking
 
 tracking-header = Бақылаудан қорғанысты қолдану
+tracking-desc = Бақылаудан қорғаныс көптеген веб-сайттар арасында сіздің деректеріңізді жинайтын онлайн трекерлерді блоктайды. <a data-l10n-name="learn-more">Бақылаудан қорғаныс және сіздің жекелігіңіз туралы көбірек білу</a>
 tracking-mode-label = Белгілі трекерлерді блоктау үшін Бақылаудан қорғанысты қолдану
 tracking-mode-always =
     .label = Әрқашан
