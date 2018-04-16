@@ -76,6 +76,12 @@ restart-later = Перезапустити потім
 ## Preferences UI Search Results
 
 search-results-header = Результати пошуку
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Вибачте! В налаштуваннях немає результатів для “<span data-l10n-name="query"></span>”.
+       *[other] Вибачте! В налаштуваннях немає результатів для “<span data-l10n-name="query"></span>”.
+    }
 
 ## General Section
 
@@ -250,6 +256,7 @@ performance-limit-content-process-option = Обмеження процесів �
     .accesskey = О
 performance-limit-content-process-enabled-desc = Додаткова кількість процесів вмісту може пришвидшити роботу при використанні багатьох вкладок, але при цьому споживатиметься більше пам'яті.
 performance-limit-content-process-disabled-desc = Зміна числа процесів вмісту можлива лише в багатопроцесній версії { -brand-short-name }. <a>Дізнайтеся, як перевірити, чи увімкнено багатопроцесність</a>
+performance-limit-content-process-blocked-desc = Зміна числа процесів вмісту можлива лише в багатопроцесній версії { -brand-short-name }. <a data-l10n-name="learn-more">Дізнайтеся, як перевірити, чи увімкнено багатопроцесність</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
