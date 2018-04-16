@@ -76,13 +76,6 @@ restart-later = பின்னர் மீட்துவக்கு
 ## Preferences UI Search Results
 
 search-results-header = தேடலின் முடிவுகள்
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] மன்னிக்கவும்! தேர்வுகளில் "<span></span>" சொல்லிற்கான முடிவுகள் எதுமில்லை.
-       *[other] மன்னிக்கவும்! முன்னுரிமைகளில் "<span></span>" சொல்லிற்கான முடிவுகள் ஏதுமில்லை.
-    }
-search-results-need-help = உதவி தேவையா? <a>{ -brand-short-name } ஆதரவு</a> பார்வையிடவும்
 
 ## General Section
 
@@ -451,9 +444,6 @@ privacy-header = உலாவி தனியுரிமை
 ## Privacy Section - Forms
 
 forms-header = படிவங்கள் & கடவுச்சொற்கள்
-forms-remember-logins =
-    .label = இணைய தளங்களுக்கான பயனர் கடவுச்சொற்களை நினைவுப்படுத்து
-    .accesskey = R
 forms-exceptions =
     .label = விதிவிலக்குகள்…
     .accesskey = x
