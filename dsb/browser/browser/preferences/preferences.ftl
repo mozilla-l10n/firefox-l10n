@@ -82,6 +82,7 @@ search-results-empty-message =
         [windows] Bóžko žedne wuslědki njejsu w nastajenjach za “<span data-l10n-name="query"></span>”.
        *[other] Bóžko žedne wuslědki njejsu w nastajenjach za “<span data-l10n-name="query"></span>”.
     }
+search-results-help-link = Trjebaśo pomoc? Woglědajśo k <a data-l10n-name="url">Pomoc za { -brand-short-name }</a>
 
 ## General Section
 
@@ -259,6 +260,7 @@ performance-limit-content-process-option = Limit wopśimjeśowego procesa
     .accesskey = L
 performance-limit-content-process-enabled-desc = Wěcej wopśimjeśowych procesow móžo wugbaśe pólěpšowaś, gaž se někotare rejtarki wužywaju, buźo pak teke wěcej składa pśetrjebowaś.
 performance-limit-content-process-disabled-desc = Licba wopśimjeśowych procesow dajo se jano z wěcejprocesowym { -brand-short-name } změniś. <a>Zgóńśo, kak móžośo kontrolěrowaś, lěc wěcejprocesowa funkcija jo zmóžnjona</a>
+performance-limit-content-process-blocked-desc = Licba wopśimjeśowych procesow dajo se jano z wěcejprocesowym { -brand-short-name } změniś. <a data-l10n-name="learn-more">Zgóńśo, kak móžośo kontrolěrowaś, lěc wěcejprocesowa funkcija jo zmóžnjona</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -565,6 +567,7 @@ addressbar-suggestions-settings = Nastajenja za naraźenja pytnice změniś
 ## Privacy Section - Tracking
 
 tracking-header = Slědowański šćit
+tracking-desc = Slědowański šćit pśeslědowaki online blokěrujo, kótarež waše pśeglědowańske daty pśez někotare websedła gromaźe. <a data-l10n-name="learn-more">Zgóńśo wěcej wó slědowańskem šćiśe a swójej priwatnosći</a>
 tracking-mode-label = Slědowański šćit wužywaś, aby blokěrował znate pśeslědowaki
 tracking-mode-always =
     .label = Pśecej
