@@ -8,7 +8,7 @@
 <!ENTITY window.description           "Ștergerea tuturor cookie-urilor și datelor de pe site-urile stocate de &brandShortName; te poate deconecta de pe site-uri web și elimina conținutul web offline. Ștergerea datelor stocate în cache nu va afecta datele de autentificare.">
 <!ENTITY windowClose.key              "w">
 
-<!ENTITY clearSiteData.label          "Cookie-uri și datele site-urilor">
+<!ENTITY clearSiteData.label          "Cookie-uri și date ale site-urilor">
 <!ENTITY clearSiteData.accesskey      "S">
 <!ENTITY clearSiteData.description    "Este posibil să te deconecteze de pe site-uri web dacă acestea sunt șterse">
 
