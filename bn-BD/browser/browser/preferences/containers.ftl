@@ -36,16 +36,6 @@ containers-color-label = রঙ
 containers-button-done =
     .label = সম্পন্ন
     .accesskey = D
-containers-remove-alert-title = এই কন্টেইনার সরাতে চান?
-# Variables:
-#   $count (Number) - Number of tabs that will be closed.
-containers-remove-alert-msg =
-    { $count ->
-        [one] আপনি যদি এখন এই কন্টেইনার মুছে ফেলেন, { $count } ধারক ট্যাব বন্ধ হয়ে যাবে. আপনি কি এই কন্টেইনার সরানোর বিষয়ে নিশ্চিত. যদি আপনি এই কন্টেইনার মুছে ফেলেন, #S ধারক ট্যাব বন্ধ হয়ে যাবে
-       *[other] আপনি কি নিশ্চিত যে আপনি এই কন্টেইনার সরাতে চান?
-    }
-containers-remove-ok-button = এই কন্টেইনার সরান
-containers-remove-cancel-button = এই কন্টেইনার অপসারণ কর না
 containers-color-blue =
     .label = নীল
 containers-color-turquoise =
