@@ -79,6 +79,7 @@ search-results-empty-message =
         [windows] Tha sinn duilich ach chan eil toradh sam bith dhut sna roghainnean airson “<span data-l10n-name="query"></span>”.
        *[other] Tha sinn duilich ach chan eil toradh sam bith dhut sna roghainnean airson “<span data-l10n-name="query"></span>”.
     }
+search-results-help-link = A bheil cobhair a dhìth ort. Tadhail air <a data-l10n-name="url">Taic { -brand-short-name }</a>
 
 ## General Section
 
@@ -256,6 +257,7 @@ performance-limit-content-process-option = Crìoch pròiseasadh na susbaint
     .accesskey = n
 performance-limit-content-process-enabled-desc = Ma cheadaicheas tu pròiseasan susbaint a bharrachd, dh﻿﻿’fhaoidte gum faigh thu dèanadas nas fhearr ach feumaidh e barrachd cuimhne aig an aon àm.
 performance-limit-content-process-disabled-desc = Chan urrainn dhut àireamh nam pròiseasan susbaint atharrachadh ach ann am { -brand-short-name } ioma-phròiseasach. <a>Mar a dh’fhiosraicheas tu a bheil ioma-phròiseasadh an comas</a>
+performance-limit-content-process-blocked-desc = Chan urrainn dhut àireamh nam pròiseasan susbaint atharrachadh ach ann am { -brand-short-name } ioma-phròiseasach. <a data-l10n-name="learn-more">Mar a dh’fhiosraicheas tu a bheil ioma-phròiseasadh an comas</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -538,6 +540,7 @@ addressbar-suggestions-settings = Atharraich na roghainnean a thaobh mholaidhean
 ## Privacy Section - Tracking
 
 tracking-header = Dìon o thracadh
+tracking-desc = Bacaidh an dìon o thracadh thu o thracaichean air loidhne a chruinnicheas an dàta brabhsaidh agad air feadh diofar làraichean-lìn. <a data-l10n-name="learn-more">Barrachd fiosrachaidh mu dhìon o thracadh agus do phrìobhaideachd</a>
 tracking-mode-label = Cleachd dìon o thracadh airson casg a chur air tracaichean aithnichte
 tracking-mode-always =
     .label = An-còmhnaidh
