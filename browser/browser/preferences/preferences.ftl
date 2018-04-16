@@ -76,6 +76,12 @@ restart-later = მოგვიანებით გაშვება
 ## Preferences UI Search Results
 
 search-results-header = ძიების შედეგები
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] ვწუხვართ! შედეგები “<span data-l10n-name="query"></span>” ფრაზისთვის არ მოიძებნა.
+       *[other] ვწუხვართ! შედეგები “<span data-l10n-name="query"></span>” ფრაზისთვის არ მოიძებნა.
+    }
 
 ## General Section
 
@@ -213,6 +219,7 @@ play-drm-content-learn-more = იხილეთ ვრცლად
 update-application-title = { -brand-short-name }-ის განახლებები
 update-application-description = მუდმივად განაახლეთ { -brand-short-name }, რომ შეინარჩუნოთ წარმადობა, მდგრადობა და უსაფრთხოება.
 update-application-info = ვერსია { $version } <a>რა არის ახალი</a>
+update-application-version = ვერსია { $version } <a data-l10n-name="learn-more">რა არის ახალი</a>
 update-history =
     .label = განახლებების ისტორიის ჩვენება…
     .accesskey = ი
@@ -248,6 +255,7 @@ performance-limit-content-process-option = შიგთავსის პრო
     .accesskey = ზ
 performance-limit-content-process-enabled-desc = შიგთავსის დამატებით პროცესებს, ბევრი ჩანართით სარგებლობისას, შეუძლია წარმადობის გაუმჯობესება, მაგრამ ასევე გამოიყენებს მეტ მეხსიერებას.
 performance-limit-content-process-disabled-desc = შიგთავსის პროცესების რაოდენობის შეცვლა, მხოლოდ მრავალპროცესიან { -brand-short-name }-შია შესაძლებელი. <a>შეიტყვეთ, თუ როგორ უნდა შემოწმდეს ჩართულია თუ არა მრავალპროცესიანობა</a>
+performance-limit-content-process-blocked-desc = შიგთავსის პროცესების რაოდენობის შეცვლა, მხოლოდ მრავალპროცესიან { -brand-short-name }-შია შესაძლებელი. <a data-l10n-name="learn-more">შეიტყვეთ, თუ როგორ უნდა შემოწმდეს ჩართულია თუ არა მრავალპროცესიანობა</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -554,6 +562,7 @@ addressbar-suggestions-settings = საძიებო სისტემის
 ## Privacy Section - Tracking
 
 tracking-header = თვალთვალისგან დაცვა
+tracking-desc = თვალთვალისგან დაცვა ზღუდავს მეთვალყურე ელემენტებს, რომელიც აღრიცხავს თქვენს მოქმედებებს, სხვადასხვა საიტებზე. <a data-l10n-name="learn-more">იხილეთ ვრცლად, თვალთვალისგან დაცვისა და პირადი მონაცემების უსაფრთხოების შესახებ</a>
 tracking-mode-label = თვალთვალისგან დაცვის საშუალებით, შეგიძლიათ ცნობილი მეთვალყურე ელემენტების შეზღუდვა
 tracking-mode-always =
     .label = ყოველთვის
