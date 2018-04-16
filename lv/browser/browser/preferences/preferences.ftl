@@ -153,6 +153,17 @@ containers-disable-alert-ok-button =
        *[other] Aizvērt { $tabCount } konteineru cilnes
     }
 containers-disable-alert-cancel-button = Paturēt aktivētu
+containers-remove-alert-title = Noņemt šo konteineru?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [zero] Ja noņemsiet šo konteineru { $count } konteineru cilnes tiks aizvērtas. Vai tiešām noņemt šo konteineru?
+        [one] Ja noņemsiet šo konteineru { $count } konteineru cilne tiks aizvērta. Vai tiešām noņemt šo konteineru?
+       *[other] Ja noņemsiet šo konteineru { $count } konteineru cilnes tiks aizvērtas. Vai tiešām noņemt šo konteineru?
+    }
+containers-remove-ok-button = Noņemt šo konteineru
+containers-remove-cancel-button = Nenoņemt šo konteineru
 
 ## General Section - Language & Appearance
 
