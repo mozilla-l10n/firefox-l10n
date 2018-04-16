@@ -82,6 +82,7 @@ search-results-empty-message =
         [windows] Dīmžāl meklejūt Īstatiejumu “<span data-l10n-name="query"></span>” nikas natyka atrosts.
        *[other] Dīmžāl meklejūt Īstatiejumu “<span data-l10n-name="query"></span>” nikas natyka atrosts.
     }
+search-results-help-link = Vajadzeiga paleidzeiba? Ej uz <a data-l10n-name="url">{ -brand-short-name } Tehniskais atbolsts</a>
 
 ## General Section
 
@@ -257,6 +258,7 @@ performance-limit-content-process-option = Satura procesu limits
     .accesskey = l
 performance-limit-content-process-enabled-desc = Papyldu satura procesi var uzlobōt veiktspieji, izmontojut vairōkys cilnes, bet prasēs papyldu atmiņu.
 performance-limit-content-process-disabled-desc = Modificeit satura procesu skaitu ir īspiejama tikai ar vairuoku procesu { -brand-short-name }. <a>Kai puorbaudeit, voi pīejams vairuoku procesu režyms</a>
+performance-limit-content-process-blocked-desc = Modificeit satura procesu skaitu ir īspiejama tikai ar vairuoku procesu { -brand-short-name }. <a data-l10n-name="learn-more">Kai puorbaudeit, voi pīejams vairuoku procesu režyms</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -562,6 +564,7 @@ addressbar-suggestions-settings = Izmainit mekleituoju īstatiejumus
 ## Privacy Section - Tracking
 
 tracking-header = Izsekuošonys aizsardzeiba
+tracking-desc = Izsekošonys aizsardzeiba sytās pret sekōtōjim kas vysaidōs lopōs vōc informaciji par tovu uzvedeibu internetā. <a data-l10n-name="learn-more">Vaira par izsekōšonys aizsardzeibu un tovu privātumu</a>
 tracking-mode-label = Izmontōt izsekošonys aizsardzeibu, kab bloķeitu zynomūs izsekōtōjus
 tracking-mode-always =
     .label = Vīnmār
