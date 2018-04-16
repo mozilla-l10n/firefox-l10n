@@ -82,6 +82,7 @@ search-results-empty-message =
         [windows] Ne pare rău! Nu există rezultate în Opțiuni pentru „<span data-l10n-name="query"></span>”.
        *[other] Ne pare rău! Nu există rezultate în Preferințe pentru „<span data-l10n-name="query"></span>”.
     }
+search-results-help-link = Ai nevoie de ajutor? Vizitează <a data-l10n-name="url">pagina de suport { -brand-short-name }</a>
 
 ## General Section
 
