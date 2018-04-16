@@ -153,6 +153,17 @@ containers-disable-alert-ok-button =
        *[other] Užverti { $tabCount } sudėtinio rodinio kortelių
     }
 containers-disable-alert-cancel-button = Palikti įjungtas
+containers-remove-alert-title = Pašalinti šį sudėtinį rodinį?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Jei dabar pašalinsite šį sudėtinį rodinį, bus užverta { $count } sudėtinio rodinio kortelė. Ar tikrai norite pašalinti šį sudėtinį rodinį?
+        [few] Jei dabar pašalinsite šį sudėtinį rodinį, bus užvertos { $count } sudėtinio rodinio kortelės. Ar tikrai norite pašalinti šį sudėtinį rodinį?
+       *[other] Jei dabar pašalinsite šį sudėtinį rodinį, bus užverta { $count } sudėtinio rodinio kortelių. Ar tikrai norite pašalinti šį sudėtinį rodinį?
+    }
+containers-remove-ok-button = Pašalinti šį sudėtinį rodinį
+containers-remove-cancel-button = Palikti šį sudėtinį rodinį
 
 ## General Section - Language & Appearance
 
