@@ -75,6 +75,13 @@ restart-later = తరువాత పునఃప్రారంభించు
 ## Preferences UI Search Results
 
 search-results-header = వెతుకుడు ఫలితాలు
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] క్షమించండి! “<span data-l10n-name="query"></span>” కోసం ఎంపికలలో ఫలితాలేమీ లేవు.
+       *[other] క్షమించండి! “<span data-l10n-name="query"></span>” కోసం అభిరుచులలో ఫలితాలేమీ లేవు.
+    }
+search-results-help-link = సహాయం కావాలా? <a data-l10n-name="url">{ -brand-short-name } తోడ్పాటు</a>కి వెళ్ళండి
 
 ## General Section
 
@@ -206,6 +213,7 @@ applications-action-column =
 play-drm-content-learn-more = ఇంకా తెలుసుకోండి
 update-application-title = { -brand-short-name } తాజాకరణలు
 update-application-info = సంచిక { $version } <a>కొత్తవి ఏమిటి</a>
+update-application-version = సంచిక { $version } <a data-l10n-name="learn-more">కొత్తవి ఏమిటి</a>
 update-history =
     .label = తాజాకరణ చరిత్రను చూపించు…
     .accesskey = p
