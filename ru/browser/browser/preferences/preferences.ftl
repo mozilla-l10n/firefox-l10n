@@ -222,6 +222,7 @@ play-drm-content-learn-more = Подробнее
 update-application-title = Обновления { -brand-short-name }
 update-application-description = Используйте последнюю версию { -brand-short-name } для наилучшей производительности, стабильности и безопасности.
 update-application-info = Версия { $version } <a>Что нового</a>
+update-application-version = Версия { $version } <a data-l10n-name="learn-more">Что нового</a>
 update-history =
     .label = Показать журнал обновлений…
     .accesskey = ж
