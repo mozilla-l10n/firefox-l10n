@@ -487,6 +487,9 @@ privacy-header = Nastavení soukromí
 ## Privacy Section - Forms
 
 forms-header = Formuláře a hesla
+forms-ask-to-save-logins =
+    .label = Ptát se na ukládání přihlašovacích údajů
+    .accesskey = P
 forms-exceptions =
     .label = Výjimky…
     .accesskey = k
