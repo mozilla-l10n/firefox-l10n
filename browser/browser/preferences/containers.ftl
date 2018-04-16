@@ -36,16 +36,6 @@ containers-color-label = צבע
 containers-button-done =
     .label = סיום
     .accesskey = ס
-containers-remove-alert-title = האם להסיר מגירה זו?
-# Variables:
-#   $count (Number) - Number of tabs that will be closed.
-containers-remove-alert-msg =
-    { $count ->
-        [one] אם מגירה זו תוסר, לשונית אחת תיסגר. האם ברצונך להסיר מגירה זו?
-       *[other] אם מגירה זו תוסר, { $count } לשוניות תסגרנה. האם ברצונך להסיר מגירה זו?
-    }
-containers-remove-ok-button = להסיר מגירה זו
-containers-remove-cancel-button = לא להסיר מגירה זו
 containers-color-blue =
     .label = כחול
 containers-color-turquoise =
