@@ -66,6 +66,12 @@ restart-later = Ponovno pokreni poslije
 ## Preferences UI Search Results
 
 search-results-header = Rezultati pretrage
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Žao nam je! Nema rezultata u Mogućnostima za “<span data-l10n-name="query"></span>”.
+       *[other] Žao nam je! Nema rezultata u Postavkama za “<span data-l10n-name="query"></span>”.
+    }
 
 ## General Section
 
@@ -202,6 +208,7 @@ play-drm-content-learn-more = Saznajte više
 update-application-title = { -brand-short-name } dopune
 update-application-description = Ažurirajte { -brand-short-name } kako bi imali najbolje preformanse, stabilnost i sigurnost.
 update-application-info = Inačica { $version } <a>Što je novo</a>
+update-application-version = Inačica { $version } <a data-l10n-name="learn-more">Što je novo</a>
 update-history =
     .label = Prikaži povijest ažuriranja…
     .accesskey = P
