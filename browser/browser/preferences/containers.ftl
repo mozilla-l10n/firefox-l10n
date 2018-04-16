@@ -27,12 +27,6 @@ containers-name-text =
 containers-button-done =
     .label = ធ្វើ​រួច
     .accesskey = D
-containers-remove-alert-title = លុប​ប្រអប់​នេះ​ចេញ?
-# Variables:
-#   $count (Number) - Number of tabs that will be closed.
-containers-remove-alert-msg = បើ​អ្នក​លុប​​ឧបករណ៍​ផ្ទុក​​នេះ​ចេញ​ឥឡូវ​នេះ ឧបករណ៍​ផ្ទុក { $count } នឹង​ត្រូវបាន​​បិទ។ តើ​អ្នក​ពិត​ជា​ចង់​លុប​​ឧបករណ៍​ផ្ទុក​​នេះ​ចេញ​មែនទេ?
-containers-remove-ok-button = លុប​ប្រអប់​នេះ​ចេញ
-containers-remove-cancel-button = កុំ​លុប​ប្រអប់​នេះ​ចេញ​អី
 containers-color-blue =
     .label = ខៀវ
 containers-color-turquoise =
