@@ -109,6 +109,16 @@ containers-disable-alert-ok-button =
        *[other] Sluit { $tabCount } konteksoortjies
     }
 containers-disable-alert-cancel-button = Hou geaktiveer
+containers-remove-alert-title = Verwyder dié konteks?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] As dié konteks nou verwyder word, sal { $count } konteksoortjie gesluit word. Wil u definitief dié konteks verwyder?
+       *[other] As dié konteks nou verwyder word, sal { $count } konteksoortjies gesluit word. Wil u definitief dié konteks verwyder?
+    }
+containers-remove-ok-button = Verwyder dié konteks
+containers-remove-cancel-button = Moenie dié konteks verwyder nie
 
 ## General Section - Language & Appearance
 
