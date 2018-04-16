@@ -76,13 +76,6 @@ restart-later = Arvi torna Dòppo
 ## Preferences UI Search Results
 
 search-results-header = Exiti da riçerca
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] Me spiaxe! No emmo trovou ninte inte Inpostaçioin pe “<span></span>”.
-       *[other] Me spiaxe! No emmo trovou ninte inte Preferense pe “<span></span>”.
-    }
-search-results-need-help = Serve agiutto? Vixita <a>Sopòrto de { -brand-short-name }</a>
 
 ## General Section
 
@@ -472,9 +465,6 @@ privacy-header = Privacy do navegatô
 ## Privacy Section - Forms
 
 forms-header = Form e Paròlle segrete
-forms-remember-logins =
-    .label = Aregorda i login e-e poule segrete pe-i sciti
-    .accesskey = A
 forms-exceptions =
     .label = Eceçioin…
     .accesskey = ç
@@ -564,7 +554,6 @@ addressbar-suggestions-settings = Cangia e inpostaçioin di conseggi di motoî d
 ## Privacy Section - Tracking
 
 tracking-header = Proteçion anti-traciamento
-tracking-description = A proteçion anmti-traciamento a blòcca quelli che veuan traciate in linea quande ti naveghi tra ciù sciti. <a>Pe saveine de ciù in sciâ proteçion anti-traciamento e privacy</a>
 tracking-mode-label = Deuvia a proteçion anti-traciamento pe i sciti che se san che tracian
 tracking-mode-always =
     .label = De longo
