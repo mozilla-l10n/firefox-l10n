@@ -210,6 +210,7 @@ play-drm-content-learn-more = आणखी शिका
 update-application-title = { -brand-short-name } सुधारणा
 update-application-description = सर्वोत्तम कामगिरी, स्थिरता आणि सुरक्षिततेसाठी { -brand-short-name } अद्ययावत ठेवा.
 update-application-info = आवृत्ती{ $version } <a>काय नवीन आहे</a>
+update-application-version = आवृत्ती{ $version } <a data-l10n-name="learn-more">काय नवीन आहे</a>
 update-history =
     .label = अद्ययावत इतिहास दाखवा…
     .accesskey = p
