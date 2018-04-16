@@ -76,6 +76,13 @@ restart-later = Starta om senare
 ## Preferences UI Search Results
 
 search-results-header = Sökresultat
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Förlåt! Det finns inga resultat i Inställningar för “<span data-l10n-name="query"></span>”.
+       *[other] Förlåt! Det finns inga resultat i Inställningar för “<span data-l10n-name="query"></span>”.
+    }
+search-results-help-link = Behöver du hjälp? Besök <a data-l10n-name="url">{ -brand-short-name } support</a>
 
 ## General Section
 
@@ -213,6 +220,7 @@ play-drm-content-learn-more = Lär dig mer
 update-application-title = { -brand-short-name } uppdaterar
 update-application-description = Håll { -brand-short-name } uppdaterad för bästa prestanda, stabilitet och säkerhet.
 update-application-info = Version { $version } <a>Vad är nytt</a>
+update-application-version = Version { $version } <a data-l10n-name="learn-more">Vad är nytt</a>
 update-history =
     .label = Visa uppdateringshistorik…
     .accesskey = p
@@ -248,6 +256,7 @@ performance-limit-content-process-option = Gräns för innehållsprocesser
     .accesskey = G
 performance-limit-content-process-enabled-desc = Ytterligare innehållsprocesser kan förbättra prestanda när du använder flera flikar, men kommer också att använda mer minne.
 performance-limit-content-process-disabled-desc = Ändring av antalet innehållsprocesser är endast möjligt med multiprocess { -brand-short-name }. <a>Lär dig hur du kontrollerar om multiprocess är aktiverat</a>
+performance-limit-content-process-blocked-desc = Ändring av antalet innehållsprocesser är endast möjligt med multiprocess { -brand-short-name }. <a data-l10n-name="learn-more">Lär dig hur du kontrollerar om multiprocess är aktiverat</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -554,6 +563,7 @@ addressbar-suggestions-settings = Ändra inställningar för förslag från sök
 ## Privacy Section - Tracking
 
 tracking-header = Spårningsskydd
+tracking-desc = Spårningsskydd blockerar online-trackers som samlar in dina surfdata över flera webbplatser. <a data-l10n-name="learn-more">Läs mer om spårningsskydd och din integritet</a>
 tracking-mode-label = Använd spårningsskydd för att blockera kända trackers
 tracking-mode-always =
     .label = Alltid
