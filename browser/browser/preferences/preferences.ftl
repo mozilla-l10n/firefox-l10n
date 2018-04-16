@@ -76,13 +76,6 @@ restart-later = Перазапусціць пазней
 ## Preferences UI Search Results
 
 search-results-header = Вынікі пошуку
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] Выбачайце! У наладах няма вынікаў для “<span></span>”.
-       *[other] Выбачайце! У перавагах няма вынікаў для “<span></span>”.
-    }
-search-results-need-help = Патрэбна дапамога? Наведайце <a>Падтрымка { -brand-short-name }</a>
 
 ## General Section
 
@@ -474,9 +467,6 @@ privacy-header = Прыватнасць браўзера
 ## Privacy Section - Forms
 
 forms-header = Формы & паролі
-forms-remember-logins =
-    .label = Запамінаць лагіны і паролі для вэб-сайтаў
-    .accesskey = З
 forms-exceptions =
     .label = Выключэнні…
     .accesskey = ы
@@ -566,7 +556,6 @@ addressbar-suggestions-settings = Змяніць налады для падка�
 ## Privacy Section - Tracking
 
 tracking-header = Ахова ад сачэння
-tracking-description = Ахова ад сачэння блакуе сеціўныя сістэмы, якія збіраюць звесткі пра ваша агляданне на шматлікіх сайтах. <a>Даведацца больш пра ахову ад сачэння і прыватнасць</a>
 tracking-mode-label = Ахоўваць ад асочвання вядомымі сістэмамі
 tracking-mode-always =
     .label = Заўсёды
