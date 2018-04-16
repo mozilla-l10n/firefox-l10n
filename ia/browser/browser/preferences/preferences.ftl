@@ -76,13 +76,6 @@ restart-later = Reinitiar depois
 ## Preferences UI Search Results
 
 search-results-header = Resultatos del recerca
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] Pardono! Il ha nulle resultato in le optiones pro “<span></span>”.
-       *[other] Pardono! Il ha nulle resultato in le preferentias pro “<span></span>”.
-    }
-search-results-need-help = Besonia tu de adjuta? Visita <a>Auxilio de { -brand-short-name }</a>
 
 ## General Section
 
@@ -472,9 +465,6 @@ privacy-header = Confidentialitate del navigator
 ## Privacy Section - Forms
 
 forms-header = Formularios e contrasignos
-forms-remember-logins =
-    .label = Memorisar le authenticationes e contrasignos pro le sitos web
-    .accesskey = R
 forms-exceptions =
     .label = Exceptiones…
     .accesskey = x
@@ -564,7 +554,6 @@ addressbar-suggestions-settings = Cambiar le preferentias pro le suggestiones de
 ## Privacy Section - Tracking
 
 tracking-header = Protection contra le traciamento
-tracking-description = Le protection de traciamento bloca le traciatores online que collige tu datos de navigation inter plure sitos web. <a>Apprende altero re le protection de traciamento e tu confidentialitate</a>
 tracking-mode-label = Usar le protection contra le traciamento pro blocar traciatores cognoscite
 tracking-mode-always =
     .label = Sempre
