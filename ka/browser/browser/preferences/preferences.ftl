@@ -76,13 +76,6 @@ restart-later = მოგვიანებით გაშვება
 ## Preferences UI Search Results
 
 search-results-header = ძიების შედეგები
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] ვწუხვართ! შედეგები “<span></span>” ფრაზისთვის არ მოიძებნა.
-       *[other] ვწუხვართ! შედეგები “<span></span>” ფრაზისთვის არ მოიძებნა.
-    }
-search-results-need-help = გესაჭიროებათ დახმარება? ეწვიეთ <a>{ -brand-short-name } მხარდაჭერის გვერდს</a>
 
 ## General Section
 
@@ -472,9 +465,6 @@ privacy-header = პირადული ბრაუზერი
 ## Privacy Section - Forms
 
 forms-header = ველები და პაროლები
-forms-remember-logins =
-    .label = საიტებზე შესვლის მონაცემების დამახსოვრება
-    .accesskey = დ
 forms-exceptions =
     .label = გამონაკლისები…
     .accesskey = ნ
@@ -564,7 +554,6 @@ addressbar-suggestions-settings = საძიებო სისტემის
 ## Privacy Section - Tracking
 
 tracking-header = თვალთვალისგან დაცვა
-tracking-description = თვალთვალისგან დაცვა ზღუდავს მეთვალყურე ელემენტებს, რომელიც აღრიცხავს თქვენს მოქმედებებს, სხვადასხვა საიტებზე. <a>იხილეთ ვრცლად, თვალთვალისგან დაცვისა და პირადი მონაცემების უსაფრთხოების შესახებ</a>
 tracking-mode-label = თვალთვალისგან დაცვის საშუალებით, შეგიძლიათ ცნობილი მეთვალყურე ელემენტების შეზღუდვა
 tracking-mode-always =
     .label = ყოველთვის
