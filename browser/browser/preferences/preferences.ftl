@@ -76,13 +76,6 @@ restart-later = Start på nytt seinare
 ## Preferences UI Search Results
 
 search-results-header = Søkeresultat
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] Beklagar! Det er ingen resultat i innstillingar for «<span></span>».
-       *[other] Beklagar! Det er ingen resultat i innstillingar for «<span></span>».
-    }
-search-results-need-help = Treng du hjelp? Gå til <a>{ -brand-short-name } brukarstøtte</a>
 
 ## General Section
 
@@ -472,9 +465,6 @@ privacy-header = Nettlesarpersonvern
 ## Privacy Section - Forms
 
 forms-header = Skjema og passord
-forms-remember-logins =
-    .label = Hugs innloggingar og passord for nettsider
-    .accesskey = H
 forms-exceptions =
     .label = Unntak…
     .accesskey = n
@@ -564,7 +554,6 @@ addressbar-suggestions-settings = Endre innstillingar for søkeforslag
 ## Privacy Section - Tracking
 
 tracking-header = Sporingsvern
-tracking-description = Sporingsvernet blokkerer sporfølgjarar på nettet som samlar inn nettleserdataa dine på fleire nettstadar. <a>Les meir om sporingsvern og ditt personvern</a>
 tracking-mode-label = Bruk sporingsvern for å blokkere kjende sporfølgjarar
 tracking-mode-always =
     .label = Alltid
