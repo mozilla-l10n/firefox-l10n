@@ -134,6 +134,9 @@ containers-disable-alert-title = Đóng tất cả các thẻ ngăn chứa?
 containers-disable-alert-desc = Nếu bạn vô hiệu hóa thẻ ngăn chứa bây giờ, { $tabCount } thẻ ngăn chứa sẽ bị đóng. Bạn có chắc muốn vô hiệu hóa thẻ ngăn chứa?
 containers-disable-alert-ok-button = Đóng { $tabCount } thẻ ngăn chứa
 containers-disable-alert-cancel-button = Để bật
+containers-remove-alert-title = Xóa ngăn chứa này?
+containers-remove-ok-button = Xóa ngăn chứa này
+containers-remove-cancel-button = Không xóa ngăn chứa này
 
 ## General Section - Language & Appearance
 
