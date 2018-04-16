@@ -150,6 +150,16 @@ containers-disable-alert-ok-button =
        *[other] Затваряне на { $tabCount } изолирани раздела
     }
 containers-disable-alert-cancel-button = Оставяне включено
+containers-remove-alert-title = Премахване на изолатора?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Ако сега премахнете този изолатор, { $count } раздел ще бъде затворен. Наистина ли желаете да премахнете този изолатор?
+       *[other] Ако сега премахнете този изолатор, { $count } негови раздела ще бъдат затворени. Наистина ли желаете да премахнете този изолатор?
+    }
+containers-remove-ok-button = Премахване
+containers-remove-cancel-button = Запазване
 
 ## General Section - Language & Appearance
 
