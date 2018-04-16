@@ -82,6 +82,7 @@ search-results-empty-message =
         [windows] Ay haame! Hay batte yaltaani e cuɓanɗe ngam “<span data-l10n-name="query"></span>”.
        *[other] Ay haame! Alaa njaltudi woodi nder cuɓe wonande "<span data-l10n-name="query"></span>".
     }
+search-results-help-link = Aɗa sokli ballal? Yillo <a data-l10n-name="url">{ -brand-short-name } Wallitorde</a>
 
 ## General Section
 
@@ -219,6 +220,7 @@ play-drm-content-learn-more = Ɓeydu humpito
 update-application-title = Kesɗitine { -brand-short-name }:
 update-application-description = Hesɗitin { -brand-short-name } ngam jaawgol golle dowrowol, jamɗugol e kisal.
 update-application-info = Yamre { $version } <a>Hol ko hesɗi</a>
+update-application-version = Yamre { $version } <a data-l10n-name="learn-more">Hol ko hesɗi</a>
 update-history =
     .label = Hollu Daartol Kesɗitine
     .accesskey = e
