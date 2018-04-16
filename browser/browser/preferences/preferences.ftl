@@ -76,6 +76,13 @@ restart-later = Reiniciar más tarde
 ## Preferences UI Search Results
 
 search-results-header = Resultados de búsqueda
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] ¡Lo sentimos! No hay resultados en Opciones para “<span data-l10n-name="query"></span>”.
+       *[other] ¡Lo sentimos! No hay resultados en Preferencias para “<span data-l10n-name="query"></span>”.
+    }
+search-results-help-link = ¿Necesita ayuda? Visita <a data-l10n-name="url">Ayuda de { -brand-short-name }</a>
 
 ## General Section
 
@@ -213,6 +220,7 @@ play-drm-content-learn-more = Aprender más
 update-application-title = Actualizaciones de { -brand-short-name }
 update-application-description = Mantener { -brand-short-name } a la fecha para un mejor rendimiento, estabilidad y seguridad.
 update-application-info = Versión { $version } <a>Qué hay de nuevo</a>
+update-application-version = Versión { $version } <a data-l10n-name="learn-more">Qué hay de nuevo</a>
 update-history =
     .label = Mostrar historial de actualización…
     .accesskey = p
@@ -248,6 +256,7 @@ performance-limit-content-process-option = Límite de procesos de contenido
     .accesskey = L
 performance-limit-content-process-enabled-desc = Los procesos de contenido adicionales pueden mejorar el rendimiento al usar múltiples pestañas, pero también usan más memoria.
 performance-limit-content-process-disabled-desc = Modificar el número de procesos de contenido solo es posible con { -brand-short-name } multiproceso. <a>Aprende cómo revisar si el multiproceso está activado</a>
+performance-limit-content-process-blocked-desc = Modificar el número de procesos de contenido solo es posible con { -brand-short-name } multiproceso. <a data-l10n-name="learn-more">Aprende cómo revisar si el multiproceso está activado</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -554,6 +563,7 @@ addressbar-suggestions-settings = Cambia las preferencias para las sugerencias d
 ## Privacy Section - Tracking
 
 tracking-header = Protección de seguimiento
+tracking-desc = La protección de seguimiento bloquea a los rastreadores en línea que recolectan tus datos de navegación a través de múltiples sitios web. <a data-l10n-name="learn-more">Aprender más sobre la protección de seguimiento y tu privacidad</a>
 tracking-mode-label = Usa la protección de seguimiento para bloquear a los rastreadores conocidos
 tracking-mode-always =
     .label = Siempre
