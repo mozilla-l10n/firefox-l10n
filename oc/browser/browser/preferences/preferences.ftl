@@ -71,13 +71,6 @@ restart-later = Reaviar mai tard
 ## Preferences UI Search Results
 
 search-results-header = Resultats de la recèrca
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] Desolat ! I a pas de resultats dins Opcions per « <span></span> ».
-       *[other] Desolat ! I a pas de resultats dins Preferéncias per « <span></span> ».
-    }
-search-results-need-help = Vos cal d’ajuda ? Visitatz <a>Assisténcia de { -brand-short-name }</a>
 
 ## General Section
 
@@ -466,9 +459,6 @@ privacy-header = Confidencialitat del navegador
 ## Privacy Section - Forms
 
 forms-header = Formularis e senhals
-forms-remember-logins =
-    .label = Memorizar los identificants e senhals pels sites web
-    .accesskey = M
 forms-exceptions =
     .label = Excepcions…
     .accesskey = x
@@ -548,7 +538,6 @@ addressbar-suggestions-settings = Cambiar las preferéncias per las suggestions 
 ## Privacy Section - Tracking
 
 tracking-header = Proteccion contra lo seguiment
-tracking-description = La proteccion contra lo seguiment bloca los traçadors en linha que collectan vòstras donadas de navegacion a partir de mantun sites web. <a>Ne saber mai sus la proteccion contra lo seguiment e la proteccion de vòstra privacitat</a>
 tracking-mode-label = Utilizar la proteccion contra lo seguiment per blocar los traçadors coneguts
 tracking-mode-always =
     .label = Totjorn
