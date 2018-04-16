@@ -82,6 +82,7 @@ search-results-empty-message =
         [windows] Oprostite! V možnostih ni zadetkov za “<span data-l10n-name="query"></span>”.
        *[other] Oprostite! V nastavitvah ni zadetkov za “<span data-l10n-name="query"></span>”.
     }
+search-results-help-link = Potrebujete pomoč? Obiščite <a data-l10n-name="url">Podpora za { -brand-short-name }</a>
 
 ## General Section
 
@@ -223,6 +224,7 @@ play-drm-content-learn-more = Več o tem
 update-application-title = Posodobitve { -brand-short-name }a
 update-application-description = Ohranite { -brand-short-name } posodobljen za najboljšo zmogljivost, stabilnost in varnost.
 update-application-info = Različica { $version } <a>Novosti</a>
+update-application-version = Različica { $version } <a data-l10n-name="learn-more">Novosti</a>
 update-history =
     .label = Prikaži zgodovino posodobitev …
     .accesskey = z
@@ -560,6 +562,7 @@ addressbar-suggestions-settings = Spremeni nastavitve predlogov iskanja
 ## Privacy Section - Tracking
 
 tracking-header = Zaščita pred sledenjem
+tracking-desc = Zaščita pred sledenjem zavrača spletne sledilce, ki zbirajo podatke brskanja po spletnih straneh. <a data-l10n-name="learn-more">Več o zaščiti pred sledenjem in vaši zasebnost</a>
 tracking-mode-label = Uporabljaj zaščito pred sledenjem za zavračanje znanih sledilcev
 tracking-mode-always =
     .label = Vedno
