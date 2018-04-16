@@ -76,6 +76,12 @@ restart-later = Reinicia més tard
 ## Preferences UI Search Results
 
 search-results-header = Resultats de la cerca
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] No s'ha trobat «<span data-l10n-name="query"></span>» a les opcions.
+       *[other] No s'ha trobat «<span data-l10n-name="query"></span>» a les preferències.
+    }
 
 ## General Section
 
@@ -213,6 +219,7 @@ play-drm-content-learn-more = Més informació
 update-application-title = Actualitzacions del { -brand-short-name }
 update-application-description = Manteniu el { -brand-short-name } actualitzat per obtenir el millor rendiment, estabilitat i seguretat.
 update-application-info = Versió { $version } <a>Novetats</a>
+update-application-version = Versió { $version } <a data-l10n-name="learn-more">Novetats</a>
 update-history =
     .label = Mostra l'historial d'actualitzacions…
     .accesskey = h
