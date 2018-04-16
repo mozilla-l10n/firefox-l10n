@@ -76,6 +76,12 @@ restart-later = Adloc'hañ diwezhatoc'h
 ## Preferences UI Search Results
 
 search-results-header = Disoc'hoù ar c'hlask
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Digarezit! N'eus disoc'h ebet en dibarzhioù evit “<span data-l10n-name="query"></span>”.
+       *[other] Digarezit! N'eus disoc'h ebet er Gwellvezioù evit “<span data-l10n-name="query"></span>”.
+    }
 
 ## General Section
 
@@ -215,6 +221,7 @@ play-drm-content-learn-more = Gouzout hiroc'h
 update-application-title = Hizivadurioù evit { -brand-short-name } :
 update-application-description = Derc'hel { -brand-short-name } hizivaet evit an digonusted, stabilded ha diogelroez gwellañ.
 update-application-info = Handelv { $version } <a>Petra nevez</a>
+update-application-version = Handelv { $version } <a data-l10n-name="learn-more">Petra nevez</a>
 update-history =
     .label = Diskouez roll istor an hizivadurioù…
     .accesskey = D
@@ -250,6 +257,7 @@ performance-limit-content-process-option = Bevenn endalc'had an araezad
     .accesskey = A
 performance-limit-content-process-enabled-desc = Endalc'had araezad ouzhpenn a c'hall gwellaat an digonusted gent meur a ivinell, met arverañ a raio muioc'h a vemor.
 performance-limit-content-process-disabled-desc = Evit kemmañ an niver a araezad endalc'had eo ret ober gant { -brand-short-name }. <a>Deskit penaos gwiriekaat statud al lies araezad</a>
+performance-limit-content-process-blocked-desc = Evit kemmañ an niver a araezad endalc'had eo ret ober gant { -brand-short-name }. <a data-l10n-name="learn-more">Deskit penaos gwiriekaat statud al lies araezad</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
