@@ -76,6 +76,13 @@ restart-later = Reštartovať neskôr
 ## Preferences UI Search Results
 
 search-results-header = Výsledky vyhľadávania
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Mrzí nás to, no pre hľadaný výraz “<span data-l10n-name="query"></span>” sme v možnostiach nič nenašli.
+       *[other] Mrzí nás to, no pre hľadaný výraz “<span data-l10n-name="query"></span>” sme v možnostiach nič nenašli.
+    }
+search-results-help-link = Potrebujete pomoc? Navštívte <a data-l10n-name="url">podporu aplikácie { -brand-short-name }</a>
 
 ## General Section
 
@@ -215,6 +222,7 @@ play-drm-content-learn-more = Ďalšie informácie
 update-application-title = Aktualizácie prehliadača { -brand-short-name }
 update-application-description = Najvyšší výkon, stabilitu a bezpečnosť dosiahnete tak, že budete udržovať aplikáciu { -brand-short-name } neustále aktuálnu.
 update-application-info = Verzia { $version } <a>Čo je nové</a>
+update-application-version = Verzia { $version } <a data-l10n-name="learn-more">Čo je nové</a>
 update-history =
     .label = Zobraziť históriu aktualizácii…
     .accesskey = h
@@ -250,6 +258,7 @@ performance-limit-content-process-option = Limit procesov obsahu
     .accesskey = L
 performance-limit-content-process-enabled-desc = Viac procesov môže zlepšiť výkon pri otvorení viacerých kariet. Spotrebujú však viac pamäte.
 performance-limit-content-process-disabled-desc = Zmena počtu procesov obsahu je možná len pri použití multiprocesového režimu aplikácie { -brand-short-name }. <a>Pozrite sa, ako môžete skontrolovať stav multiprocesového režimu</a>
+performance-limit-content-process-blocked-desc = Zmena počtu procesov obsahu je možná len pri použití multiprocesového režimu aplikácie { -brand-short-name }. <a data-l10n-name="learn-more">Pozrite sa, ako môžete skontrolovať stav multiprocesového režimu</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -555,6 +564,7 @@ addressbar-suggestions-settings = Zmeniť nastavenia pre návrhy vyhľadávania
 ## Privacy Section - Tracking
 
 tracking-header = Ochrana pred sledovaním
+tracking-desc = Ochrana pred sledovaním blokuje sledovacie prvky, ktoré o vás zbierajú údaje naprieč webovými stránkami. <a data-l10n-name="learn-more">Ďalšie informácie o Ochrane pred sledovaním a o vašom súkromí</a>
 tracking-mode-label = Blokovať známe sledovacie prvky pomocou Ochrany pred sledovaním
 tracking-mode-always =
     .label = Vždy
