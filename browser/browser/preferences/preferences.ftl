@@ -73,6 +73,7 @@ search-results-empty-message =
         [windows] متاسفیم! هیچ نتیجه‌ای در گزینه‌ها برای «<span data-l10n-name="query"></span>» وجود ندارد.
        *[other] متاسفیم! هیچ نتیجه‌ای در ترجیحات برای «<span data-l10n-name="query"></span>» وجود ندارد.
     }
+search-results-help-link = نیاز به راهنمایی دارید؟ از <a data-l10n-name="url">پشتیبانی { -brand-short-name }</a> دیدن کنید
 
 ## General Section
 
