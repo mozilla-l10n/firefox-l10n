@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Sporingsvern">
-<!ENTITY  trackingProtection3.description      "Sporingsvernet blokkerer sporfølgjarar på nettet som samlar inn nettleserdataa dine på fleire nettstadar.">
+<!ENTITY  trackingProtection3.description      "Sporingsvernet blokkerer sporarar på nettet som samlar inn dine nettlesardata på fleire nettsider.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "Bruk sporingsvern for å blokkere kjende sporfølgjarar">
 <!ENTITY  trackingProtectionAlways.label       "Alltid">
 <!ENTITY  trackingProtectionAlways.accesskey   "l">
