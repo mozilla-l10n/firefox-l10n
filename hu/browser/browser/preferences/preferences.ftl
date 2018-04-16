@@ -151,6 +151,16 @@ containers-disable-alert-ok-button =
        *[other] { $tabCount } konténerlap bezárása
     }
 containers-disable-alert-cancel-button = Maradjon engedélyezve
+containers-remove-alert-title = Eltávolítja ezt a konténert?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Ha most eltávolítja ezt a konténerlapot, akkor { $count } konténerlap bezáródik. Biztosan eltávolítja ezt a konténert?
+       *[other] Ha most eltávolítja ezt a konténerlapot, akkor { $count } konténerlap bezáródik. Biztosan eltávolítja ezt a konténert?
+    }
+containers-remove-ok-button = Konténer eltávolítása
+containers-remove-cancel-button = Ne távolítsa el a konténert
 
 ## General Section - Language & Appearance
 
