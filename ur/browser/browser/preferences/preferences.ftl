@@ -186,6 +186,7 @@ applications-action-column =
 play-drm-content-learn-more = مزید سیکھیں
 update-application-title = { -brand-short-name } تازہ کاریاں:
 update-application-info = ورژن{ $version } <a>نیا کیا ہے</a>
+update-application-version = ورژن{ $version } <a data-l10n-name="learn-more">نیا کیا ہے</a>
 update-application-manual =
     .label = کبھی بھی تازہ کاری کی پڑتال نہیں کریں
     .accesskey = N
