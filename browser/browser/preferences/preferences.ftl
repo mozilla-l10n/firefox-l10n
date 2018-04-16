@@ -490,6 +490,9 @@ privacy-header = Priwatnosć wobglědowaka
 ## Privacy Section - Forms
 
 forms-header = Formulary a gronidła
+forms-ask-to-save-logins =
+    .label = Pšašaś se, lěc se maju pśizjawjenja a gronidła składowaś
+    .accesskey = a
 forms-exceptions =
     .label = Wuwześa…
     .accesskey = u
