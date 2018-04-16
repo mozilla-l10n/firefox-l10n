@@ -88,6 +88,14 @@
 <!ENTITY JobTitle.accesskey             "т">
 <!ENTITY Department.label               "Одељење:">
 <!ENTITY Department.accesskey           "д">
+<!ENTITY Company.label                  "Организација:">
+<!ENTITY Company.accesskey              "н">
+<!ENTITY WorkAddress.label              "Адреса:">
+<!ENTITY WorkAddress.accesskey          "д">
+<!ENTITY WorkAddress2.label             "">
+<!ENTITY WorkAddress2.accesskey         "">
+<!ENTITY WorkCity.label                 "Град:">
+<!ENTITY WorkCity.accesskey             "д">
 
 
 
