@@ -36,16 +36,6 @@ containers-color-label = Farge
 containers-button-done =
     .label = Ferdig
     .accesskey = d
-containers-remove-alert-title = Fjern denne beholderen?
-# Variables:
-#   $count (Number) - Number of tabs that will be closed.
-containers-remove-alert-msg =
-    { $count ->
-        [one] Hvis du fjerner denne beholdere nå, vil { $count } innholdsfane bli stengt. Er du sikker på at du vil fjerne denne beholderen?
-       *[other] Hvis du fjerner denne beholdere nå, vil { $count } innholdsfaner bli stengt. Er du sikker på at du vil fjerne denne beholderen?
-    }
-containers-remove-ok-button = Fjern denne beholderen?
-containers-remove-cancel-button = Ikke fjern denne beholderen
 containers-color-blue =
     .label = Blå
 containers-color-turquoise =
