@@ -44,6 +44,12 @@ restart-later = Qalisa ngokutsha Kamva
 ## Preferences UI Search Results
 
 search-results-header = IZiphumo zoKhangelo
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Uxolo! Azikho iziphumo kuKhetho lwe- “<span data-l10n-name="query"></span>”.
+       *[other] Uxolo! Azikho iziphumo kwiiPrifrensi ze-“<span data-l10n-name="query"></span>”.
+    }
 
 ## General Section
 
@@ -164,6 +170,7 @@ applications-action-column =
 play-drm-content-learn-more = Funda okungakumbi
 update-application-title = I-{ -brand-short-name } iZihlaziyi
 update-application-info = Uhlobo { $version } <a>Yintoni entsha</a>
+update-application-version = Uhlobo { $version } <a data-l10n-name="learn-more">Yintoni entsha</a>
 update-history =
     .label = Bonisa iMbali yoHlaziyo…
     .accesskey = l
@@ -196,6 +203,7 @@ performance-limit-content-process-option = Inkqubo yesiqulatho nomlinganiselo
     .accesskey = l
 performance-limit-content-process-enabled-desc = Iinkqubo ezongezelelekileyo zesiqulatho zinokuphucula ukusebenza xa usebenzisa iithebhu ezininzi, kodwa iya kusebenzisa imemori engakumbi.
 performance-limit-content-process-disabled-desc = Ukuphucula inani leenkqubo zeziqulatho kunokwenzeka kuphela ngeenkqubo ezininzi ze-{ -brand-short-name }. <a>Funda indlela yokuhlola ukuba zivuliwe iinkqubo ezininzi</a>
+performance-limit-content-process-blocked-desc = Ukuphucula inani leenkqubo zeziqulatho kunokwenzeka kuphela ngeenkqubo ezininzi ze-{ -brand-short-name }. <a data-l10n-name="learn-more">Funda indlela yokuhlola ukuba zivuliwe iinkqubo ezininzi</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
