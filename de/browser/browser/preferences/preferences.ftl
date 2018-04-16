@@ -458,6 +458,7 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Chronik
+history-remember-description = { -brand-short-name } wird die Adressen der besuchten Webseiten, Downloads sowie eingebene Formular- und Suchdaten speichern.
 history-dontremember-description = { -brand-short-name } wird dieselben Einstellungen wie im Privaten Modus verwenden und keinerlei Chronik anlegen, während Sie &brandShortName; benutzen.
 history-private-browsing-permanent =
     .label = Immer den Privaten Modus verwenden
@@ -474,18 +475,36 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Einstellungen…
     .accesskey = E
+history-clear-button =
+    .label = Chronik leeren…
+    .accesskey = C
 
 ## Privacy Section - Site Data
 
+sitedata-header = Cookies und Websitedaten
 sitedata-learn-more = Weitere Informationen
+sitedata-accept-cookies-option =
+    .label = Cookies und Website-Daten annehmen (empfohlen)
+    .accesskey = C
+sitedata-block-cookies-option =
+    .label = Cookies und Website-Daten ablehnen (kann Probleme mit Websites verursachen)
+    .accesskey = b
 sitedata-keep-until = Behalten, bis
     .accesskey = B
+sitedata-accept-third-party-desc = Cookies und Website-Daten von Drittanbietern akzeptieren
+    .accesskey = k
 sitedata-accept-third-party-always-option =
     .label = Immer
 sitedata-accept-third-party-visited-option =
     .label = Nur von besuchten Drittanbietern
 sitedata-accept-third-party-never-option =
     .label = Nie
+sitedata-clear =
+    .label = Daten entfernen…
+    .accesskey = e
+sitedata-settings =
+    .label = Daten verwalten…
+    .accesskey = v
 sitedata-cookies-exceptions =
     .label = Ausnahmen…
     .accesskey = A
@@ -581,6 +600,13 @@ collection-health-report-link = Weitere Informationen
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Datenübermittlung ist für diese Build-Konfiguration deaktiviert
+collection-browser-errors =
+    .label = Browser-Fehler einschließlich Fehlermeldung automatisch von { -brand-short-name } an { -vendor-short-name } senden lassen
+    .accesskey = B
+collection-browser-errors-link = Weitere Informationen
+collection-backlogged-crash-reports =
+    .label = Nicht gesendete Absturzberichte automatisch von { -brand-short-name } senden lassen
+    .accesskey = g
 collection-backlogged-crash-reports-link = Weitere Informationen
 
 ## Privacy Section - Security
