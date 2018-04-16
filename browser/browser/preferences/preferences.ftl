@@ -76,13 +76,6 @@ restart-later = Mula semula Kemudian
 ## Preferences UI Search Results
 
 search-results-header = Hasil Carian
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] Maaf! Tiada keputusan dalam Pilihan untuk “<span></span>”.
-       *[other] Maaf! Tiada keputusan dalam Keutamaan untuk “<span></span>”.
-    }
-search-results-need-help = Perlu bantuan? Lawat <a>Sokongan { -brand-short-name }</a>
 
 ## General Section
 
@@ -464,9 +457,6 @@ privacy-header = Privasi Pelayar
 ## Privacy Section - Forms
 
 forms-header = Borang & Kata laluan
-forms-remember-logins =
-    .label = Ingati log masuk dan kata laluan bagi laman web
-    .accesskey = I
 forms-exceptions =
     .label = Pengecualian…
     .accesskey = g
@@ -556,7 +546,6 @@ addressbar-suggestions-settings = Tukar keutamaan bagi cadangan enjin carian
 ## Privacy Section - Tracking
 
 tracking-header = Perlindungan Penjejakan
-tracking-description = Perlindungan Penjejakan menyekat penjejak atas talian yang mengumpul data pelayaran anda dalam pelbagai laman web. <a>Ketahui lebih lanjut perihal Perlindungan Penjejakan dan privasi anda</a>
 tracking-mode-label = Gunakan Perlindungan Penjejakan untuk menyekat penjejak dikenali
 tracking-mode-always =
     .label = Sentiasa
