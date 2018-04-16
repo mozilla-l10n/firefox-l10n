@@ -547,6 +547,7 @@ addressbar-suggestions-settings = Cambiar las preferéncias per las suggestions 
 ## Privacy Section - Tracking
 
 tracking-header = Proteccion contra lo seguiment
+tracking-desc = La proteccion contra lo seguiment bloca los traçadors en linha que collectan vòstras donadas de navegacion a partir de mantun sites web. <a data-l10n-name="learn-more">Ne saber mai sus la proteccion contra lo seguiment e la proteccion de vòstra privacitat</a>
 tracking-mode-label = Utilizar la proteccion contra lo seguiment per blocar los traçadors coneguts
 tracking-mode-always =
     .label = Totjorn
