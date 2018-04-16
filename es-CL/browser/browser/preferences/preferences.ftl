@@ -76,13 +76,6 @@ restart-later = Reiniciar más tarde
 ## Preferences UI Search Results
 
 search-results-header = Resultados de búsqueda
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] ¡Lo sentimos! No hay resultados en Opciones para “<span></span>”.
-       *[other] ¡Lo sentimos! No hay resultados en Preferencias para “<span></span>”.
-    }
-search-results-need-help = ¿Necesita ayuda? Visita <a>Ayuda de { -brand-short-name }</a>
 
 ## General Section
 
@@ -472,9 +465,6 @@ privacy-header = Privacidad del navegador
 ## Privacy Section - Forms
 
 forms-header = Formularios y contraseñas
-forms-remember-logins =
-    .label = Recordar conexiones y contraseñas para los sitios web
-    .accesskey = R
 forms-exceptions =
     .label = Excepciones…
     .accesskey = x
@@ -564,7 +554,6 @@ addressbar-suggestions-settings = Cambia las preferencias para las sugerencias d
 ## Privacy Section - Tracking
 
 tracking-header = Protección de seguimiento
-tracking-description = La protección de seguimiento bloquea a los rastreadores en línea que recolectan tus datos de navegación a través de múltiples sitios web. <a>Aprender más sobre la protección de seguimiento y tu privacidad</a>
 tracking-mode-label = Usa la protección de seguimiento para bloquear a los rastreadores conocidos
 tracking-mode-always =
     .label = Siempre
