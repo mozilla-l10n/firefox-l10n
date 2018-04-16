@@ -76,6 +76,7 @@ restart-later = أعِد التشغيل لاحقًا
 ## Preferences UI Search Results
 
 search-results-header = نتائج البحث
+search-results-help-link = أتحتاج للمساعدة؟ زُر <a data-l10n-name="url">دعم { -brand-short-name }</a>
 
 ## General Section
 
@@ -560,6 +561,7 @@ addressbar-suggestions-settings = غيّر تفضيلات اقتراحات مح�
 ## Privacy Section - Tracking
 
 tracking-header = الحماية من التعقّب
+tracking-desc = تحجب الحماية من التعقب متعقبات الإنترنت التي تجمع بيانات التصفح عبر أكثر من موقع. <a data-l10n-name="learn-more">تعرّف أكثر على الحماية من التعقب و خصوصيتك</a>
 tracking-mode-label = استخدم الحماية من التعقب لحظر المتعقبات المعروفة
 tracking-mode-always =
     .label = دائمًا
