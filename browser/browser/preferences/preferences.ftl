@@ -111,6 +111,13 @@ containers-disable-alert-ok-button =
     }
 containers-disable-alert-cancel-button = Zigcina zivuliwe
 containers-remove-alert-title = Ufuna ukuSusa le Khonteyina?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Ukuba ususa le Khonteyina ngoku, ithebhu yekhonteyina i-{ $count } iya kuvalwa. Uqinisekile ukuba ufuna ukuyisusa le Khonteyina?
+       *[other] Ukuba uyayisusa le khonteyina ngoku, iithebhu zekhonteyina ze-{ $count } ziya kuvalwa. Uqinisekie ukuba ufuna ukuyisusa le Khonteyina?
+    }
 containers-remove-ok-button = Yisuse le Khonteyina
 containers-remove-cancel-button = Musa ukuyisusa le Khonteyina
 
