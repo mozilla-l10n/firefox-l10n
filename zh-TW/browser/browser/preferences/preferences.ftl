@@ -76,13 +76,6 @@ restart-later = 稍後再重新啟動
 ## Preferences UI Search Results
 
 search-results-header = 搜尋結果
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] 抱歉！沒有「<span></span>」的選項搜尋結果。
-       *[other] 抱歉！沒有「<span></span>」的偏好設定搜尋結果。
-    }
-search-results-need-help = 需要幫忙嗎？請到 <a>{ -brand-short-name } 技術支援</a>
 
 ## General Section
 
@@ -464,9 +457,6 @@ privacy-header = 瀏覽器隱私權
 ## Privacy Section - Forms
 
 forms-header = 表單與密碼
-forms-remember-logins =
-    .label = 記住網站的登入帳號與密碼
-    .accesskey = R
 forms-exceptions =
     .label = 例外網站…
     .accesskey = x
@@ -556,7 +546,6 @@ addressbar-suggestions-settings = 修改搜尋建議偏好設定
 ## Privacy Section - Tracking
 
 tracking-header = 追蹤保護
-tracking-description = 追蹤保護功能會封鎖在不同網站間收集您的瀏覽資料的網路追蹤器。 <a>了解有關追蹤保護功能，以及您的隱私權的更多資訊</a>
 tracking-mode-label = 使用追蹤保護功能，封鎖已知的追蹤器
 tracking-mode-always =
     .label = 總是
