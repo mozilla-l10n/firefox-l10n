@@ -76,6 +76,13 @@ restart-later = Újraindítás később
 ## Preferences UI Search Results
 
 search-results-header = Találatok
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Elnézését, nincs találat a Beállítások közt erre: „<span data-l10n-name="query"></span>”.
+       *[other] Elnézését, nincs találat a Beállítások közt erre: „<span data-l10n-name="query"></span>”.
+    }
+search-results-help-link = Segítségre van szüksége? Látogasson el ide: <a data-l10n-name="url">{ -brand-short-name } támogatás</a>
 
 ## General Section
 
@@ -249,6 +256,7 @@ performance-limit-content-process-option = Tartalom folyamatok korlátja
     .accesskey = k
 performance-limit-content-process-enabled-desc = A további tartalom folyamatok növelhetik a teljesítményt, ha több lapot használ, de több memóriát is használnak.
 performance-limit-content-process-disabled-desc = A tartalom folyamatok számának módosítása csak többfolyamatos { -brand-short-name } esetén lehetséges. <a>Ismerje meg, hogyan lehet ellenőrizni, hogy a többfolyamatos működés engedélyezve van-e</a>
+performance-limit-content-process-blocked-desc = A tartalom folyamatok számának módosítása csak többfolyamatos { -brand-short-name } esetén lehetséges. <a data-l10n-name="learn-more">Ismerje meg, hogyan lehet ellenőrizni, hogy a többfolyamatos működés engedélyezve van-e</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -555,6 +563,7 @@ addressbar-suggestions-settings = Keresőszolgáltatás-javaslatok beállítása
 ## Privacy Section - Tracking
 
 tracking-header = Követés elleni védelem
+tracking-desc = A követés elleni védelem blokkolja az online nyomkövetőket, melyek a webhelyek közti böngészési adatait gyűjtik. <a data-l10n-name="learn-more">Tudjon meg többet a követés elleni védelemről és az adatvédelemről</a>
 tracking-mode-label = Követés elleni védelem használata az ismert követők blokkolására
 tracking-mode-always =
     .label = Mindig
