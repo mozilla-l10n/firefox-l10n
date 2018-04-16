@@ -76,6 +76,12 @@ restart-later = Puorstarteit vāluok
 ## Preferences UI Search Results
 
 search-results-header = Mekliešonys rezultati
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Dīmžāl meklejūt Īstatiejumu “<span data-l10n-name="query"></span>” nikas natyka atrosts.
+       *[other] Dīmžāl meklejūt Īstatiejumu “<span data-l10n-name="query"></span>” nikas natyka atrosts.
+    }
 
 ## General Section
 
@@ -215,6 +221,7 @@ play-drm-content-learn-more = Uzzynojit vairuok
 update-application-title = { -brand-short-name } atjaunynuojumi
 update-application-description = Vysod atjaunini { -brand-short-name }, kab dabōt lobōkū drūšeibu, stabilitati un ōtrdarbeibu.
 update-application-info = Verseja { $version } <a>Kas jauns</a>
+update-application-version = Verseja { $version } <a data-l10n-name="learn-more">Kas jauns</a>
 update-history =
     .label = Paruodeit atjaunynuojumu viesturi…
     .accesskey = v
