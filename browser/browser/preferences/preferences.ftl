@@ -151,6 +151,12 @@ containers-disable-alert-ok-button =
        *[other] 关闭 { $tabCount } 个身份标签页
     }
 containers-disable-alert-cancel-button = 保持启用
+containers-remove-alert-title = 移除此身份？
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg = 如果您现在移除此身份，{ $count } 个身份标签页将被关闭。您是否确定移除此身份？
+containers-remove-ok-button = 移除此身份
+containers-remove-cancel-button = 不移除此身份
 
 ## General Section - Language & Appearance
 
