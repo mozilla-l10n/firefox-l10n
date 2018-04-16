@@ -36,16 +36,6 @@ containers-color-label = Noordi
 containers-button-done =
     .label = Gasii
     .accesskey = G
-containers-remove-alert-title = Itta ngal baɗirgal ?
-# Variables:
-#   $count (Number) - Number of tabs that will be closed.
-containers-remove-alert-msg =
-    { $count ->
-        [one] So a daaƴii Tabbe Mooftirɗe jooni, tabbere mooftirde { $count } maa udde. Aɗa yenanaa yiɗde daaƴde Tabbe Mooftirɗe?
-       *[other] So a daaƴii Tabbe Mooftirɗe jooni, Tabbe Mooftirɗe { $count } maa udde. Aɗa yenanaa yiɗde daaƴde Tabbe Mooftirɗe?
-    }
-containers-remove-ok-button = Momtu ngal baɗirgal
-containers-remove-cancel-button = Hoto momtu ngal Baɗirgal
 containers-color-blue =
     .label = Bulaajo
 containers-color-turquoise =
