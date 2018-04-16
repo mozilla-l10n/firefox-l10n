@@ -76,6 +76,13 @@ restart-later = Arvi torna Dòppo
 ## Preferences UI Search Results
 
 search-results-header = Exiti da riçerca
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Me spiaxe! No emmo trovou ninte inte Inpostaçioin pe “<span data-l10n-name="query"></span>”.
+       *[other] Me spiaxe! No emmo trovou ninte inte Preferense pe “<span data-l10n-name="query"></span>”.
+    }
+search-results-help-link = Serve agiutto? Vixita <a data-l10n-name="url">Sopòrto de { -brand-short-name }</a>
 
 ## General Section
 
@@ -213,6 +220,7 @@ play-drm-content-learn-more = Atre informaçioin
 update-application-title = Agiornamenti de { -brand-short-name }
 update-application-description = Mantegni { -brand-short-name } agiornou pe avei de megio prestaçioin, stabilitæ e seguessa.
 update-application-info = Verscion { $version } <a>Novitæ</a>
+update-application-version = Verscion { $version } <a data-l10n-name="learn-more">Novitæ</a>
 update-history =
     .label = Fanni vedde a stöia di agiornamenti…
     .accesskey = g
@@ -554,6 +562,7 @@ addressbar-suggestions-settings = Cangia e inpostaçioin di conseggi di motoî d
 ## Privacy Section - Tracking
 
 tracking-header = Proteçion anti-traciamento
+tracking-desc = A proteçion anmti-traciamento a blòcca quelli che veuan traciate in linea quande ti naveghi tra ciù sciti. <a data-l10n-name="learn-more">Pe saveine de ciù in sciâ proteçion anti-traciamento e privacy</a>
 tracking-mode-label = Deuvia a proteçion anti-traciamento pe i sciti che se san che tracian
 tracking-mode-always =
     .label = De longo
