@@ -153,6 +153,9 @@ containers-disable-alert-ok-button =
        *[many] Закрыць { $tabCount } картак у кантэйнеры
     }
 containers-disable-alert-cancel-button = Пакінуць уключанымі
+containers-remove-alert-title = Выдаліць гэты кантэйнер?
+containers-remove-ok-button = Выдаліць гэты кантэйнер
+containers-remove-cancel-button = Не выдаляць гэты кантэйнер
 
 ## General Section - Language & Appearance
 
