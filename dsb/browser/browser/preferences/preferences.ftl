@@ -155,6 +155,18 @@ containers-disable-alert-ok-button =
        *[other] { $tabCount } kontejnerowych rejtarkow zacyniś
     }
 containers-disable-alert-cancel-button = Zmóžnjone wóstajiś
+containers-remove-alert-title = Toś ten kontejner wótwónoźeś?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Jolic wotwónoźijośo toś ten kontejner něnto, se { $count } kontejnerowy rejtark zacynijo. Cosó toś ten kontejner napšawdu wótwónoźeś?
+        [two] Jolic něnto wotwónoźijośo toś ten kontejner, se { $count } kontejnerowej rejtarka zacynijotej. Cosó toś ten kontejner napšawdu wótwónoźeś?
+        [few] Jolic něnto wotwónoźijośo toś ten kontejner, se { $count } kontejnerowe rejtarki zacyniju. Cosó toś ten kontejner napšawdu wótwónoźeś?
+       *[other] Jolic něnto wotwónoźijośo toś ten kontejner, se { $count } kontejnerowych rejtarkow zacynijo. Cosó toś ten kontejner napšawdu wótwónoźeś?
+    }
+containers-remove-ok-button = Toś ten kontejner wótwónoźeś
+containers-remove-cancel-button = Toś ten kontejner njewótwónoźeś
 
 ## General Section - Language & Appearance
 
