@@ -195,7 +195,7 @@ check-user-spelling =
 files-and-applications-title = దస్త్రాలు & అనువర్తనాలు
 download-header = దింపుకోళ్ళు
 download-save-to =
-    .label = ఇచట ఫైల్సు భద్రపరచు
+    .label = ఫైళ్ళను ఇక్కడ భద్రపరచు
     .accesskey = v
 download-choose-folder =
     .label =
@@ -209,11 +209,11 @@ download-choose-folder =
            *[other] o
         }
 download-always-ask-where =
-    .label = ఫైల్సు ఎక్కడ భద్రపరచాలో ఎప్పుడూ మిమ్మల్ని ఆడుగు
+    .label = ఫైళ్ళను ఎక్కడ భద్రపరచాలో ప్రతీసారీ అడుగు
     .accesskey = A
 applications-header = అనువర్తనాలు
 applications-filter =
-    .placeholder = ఫైలు రకాన్ని లేదా అనువర్తనాలను శోధించండి
+    .placeholder = ఫైలు రకాన్ని లేదా అనువర్తనాలను వెతకండి
 applications-type-column =
     .label = విషయాంశ రకం
     .accesskey = T
@@ -292,9 +292,11 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = కొత్త కిటికీలు, ట్యాబులు
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = ముంగిలి పేజీ, కొత్త కిటికీలు
 home-newtabs-mode-label = కొత్త ట్యాబు
 home-restore-defaults =
     .label = అప్రమేయాలను పునరుద్ధరించు
@@ -507,18 +509,18 @@ history-clear-button =
 sitedata-header = కుకీలు మరియు సైటు డేటా
 sitedata-learn-more = మరింత తెలుసుకోండి
 sitedata-accept-cookies-option =
-    .label = వెబ్సైట్ల నుండి కుకీలు మరియు సైట్ డేటాను అంగీకరించండి (సిఫార్సు చేయబడింది)
+    .label = వెబ్‌సైట్ల నుండి కుకీలు, సైటు దత్తాంశాన్ని అంగీకరించు (సిఫార్సు చేయబడింది)
     .accesskey = A
 sitedata-block-cookies-option =
-    .label = కుక్కీలను మరియు సైట్ డేటాను బ్లాక్ చేయండి (వెబ్సైట్లు విచ్ఛిన్నం కావచ్చు)
-    .accesskey = క
+    .label = కుకీలను, సైటు దత్తాంశాన్ని నిరోధించు (కొన్ని వెబ్‌సైట్లు సరిగా పనిచేయకపోవచ్చు)
+    .accesskey = B
 sitedata-keep-until = ఇంత వరకు ఉంచు
     .accesskey = u
 sitedata-keep-until-expire =
     .label = అవి కాలం చెల్లేంతవరకు
 sitedata-keep-until-closed =
     .label = { -brand-short-name } మూసివేయబడింది
-sitedata-accept-third-party-desc = మూడవ పార్టీ కుక్కీలను మరియు సైట్ డేటాను అంగీకరించండి
+sitedata-accept-third-party-desc = మూడవ-పక్ష కుకీలను, సైటు దత్తాంశాన్నీ అంగీకరించు
     .accesskey = y
 sitedata-accept-third-party-always-option =
     .label = ఎల్లప్పుడూ
@@ -527,7 +529,7 @@ sitedata-accept-third-party-visited-option =
 sitedata-accept-third-party-never-option =
     .label = ఎప్పటికీకాదు
 sitedata-clear =
-    .label = డేటాను తుజిచివేయి…
+    .label = డేటాను తుడిచివేయి…
     .accesskey = l
 sitedata-settings =
     .label = డేటాని నిర్వహించండి…

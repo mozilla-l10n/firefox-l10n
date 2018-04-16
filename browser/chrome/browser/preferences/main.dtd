@@ -24,13 +24,13 @@
 
 <!ENTITY downloads.label     "దింపుకోళ్ళు">
 
-<!ENTITY saveTo.label "ఇచట ఫైల్సు భద్రపరచు">
+<!ENTITY saveTo.label "ఫైళ్ళను ఇక్కడ భద్రపరచు">
 <!ENTITY saveTo.accesskey "v">
 <!ENTITY chooseFolderWin.label        "విహరించు…">
 <!ENTITY chooseFolderWin.accesskey    "o">
 <!ENTITY chooseFolderMac.label        "ఎంచుకోండి…">
 <!ENTITY chooseFolderMac.accesskey    "e">
-<!ENTITY alwaysAskWhere.label         "ఫైల్సు ఎక్కడ భద్రపరచాలో ఎప్పుడూ మిమ్మల్ని ఆడుగు">
+<!ENTITY alwaysAskWhere.label         "ఫైళ్ళను ఎక్కడ భద్రపరచాలో ప్రతీసారీ అడుగు">
 <!ENTITY alwaysAskWhere.accesskey     "A">
 
 <!ENTITY alwaysCheckDefault2.label        "&brandShortName; మీ అప్రమేయ విహారిణియేనా అని ఎల్లప్పుడూ పరిశీలించు">
@@ -44,5 +44,3 @@
 <!ENTITY useFirefoxSync.label             "చిట్కా: ఇది వేర్వేరు ప్రొఫైళ్ళను వాడుతుంది. వాటి మధ్యలో డేటాను పంచుకోడానికి Syncను వాడండి.">
 <!ENTITY getStarted.notloggedin.label     "&syncBrand.shortName.label; లోనికి ప్రవేశించండి…">
 <!ENTITY getStarted.configured.label      "&syncBrand.shortName.label; అభిరుచులను తెరువు">
-
-<!ENTITY e10sEnabled.label                "మల్టీ-ప్రోసెస్ &brandShortName; చేతనించు">
