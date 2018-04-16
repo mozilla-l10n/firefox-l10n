@@ -76,13 +76,6 @@ restart-later = केहि समयपछि पुन सुचारु ग
 ## Preferences UI Search Results
 
 search-results-header = खोजी परिणामहरू
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] माफ गर्नुहोस्! त्यहाँ “<span></span>” को लागि विकल्पहरूमा नतिजा छैन ।
-       *[other] माफ गर्नुहोस्! त्यहाँ “<span></span>” को लागि प्राथमिकताहरूमा नतिजा छैन ।
-    }
-search-results-need-help = सहयोग चाहियो? <a>{ -brand-short-name } सहयोग</a> भ्रमण गर्नुहोस्
 
 ## General Section
 
@@ -430,9 +423,6 @@ privacy-header = ब्राउजर गोपनीयता
 ## Privacy Section - Forms
 
 forms-header = फारमहरू & गोप्यशब्दहरू
-forms-remember-logins =
-    .label = वेबसाइटहरूको लागि लगइनहरू र गोप्यशब्दहरू सम्झनुहोस्
-    .accesskey = R
 forms-exceptions =
     .label = अपवादहरू...
     .accesskey = x
