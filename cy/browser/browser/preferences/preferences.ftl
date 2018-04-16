@@ -76,13 +76,6 @@ restart-later = Ailgychwyn Rhywbryd Eto
 ## Preferences UI Search Results
 
 search-results-header = Canlyniadau Chwilio
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] Ymddiheuriadau! Nid oes canlyniadau yn y Dewisiadau ar gyfer “<span></span>”.
-       *[other] Ymddiheuriadau! Nid os canlyniadau yn y Dewisiada.u ar gyfer “<span></span>”.
-    }
-search-results-need-help = Angen help? Ewch i <a>Cefnogaeth { -brand-short-name }</a>
 
 ## General Section
 
@@ -480,9 +473,6 @@ privacy-header = Preifatrwydd y Porwr
 ## Privacy Section - Forms
 
 forms-header = Ffurflenni a Chyfrineiriau
-forms-remember-logins =
-    .label = Cofio mewngofnodion a chyfrineiriau gwefannau
-    .accesskey = C
 forms-exceptions =
     .label = Eithriadau…
     .accesskey = i
@@ -572,7 +562,6 @@ addressbar-suggestions-settings = Newid dewisiadau am awgrymiadau peiriannau chw
 ## Privacy Section - Tracking
 
 tracking-header = Diogelu Rhag Tracio
-tracking-description = Mae Diogelu rhag Tracio yn rhwystro tracwyr ar-lein sy'n casglu eich data pori ar draws amryw o wefannau. <a>Dysgwch rhagor am Ddiogelwch rhag Tracio a'ch preifatrwydd</a>
 tracking-mode-label = Defnyddiwch Diogelu rhag Tracio i rwystro tracwyr hysbys
 tracking-mode-always =
     .label = Bob tro
