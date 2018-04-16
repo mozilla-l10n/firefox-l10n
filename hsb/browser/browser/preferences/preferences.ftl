@@ -76,6 +76,12 @@ restart-later = Pozdźišo znowa startować
 ## Preferences UI Search Results
 
 search-results-header = Pytanske wuslědki
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Bohužel žane wuslědki w nastajenjach za “<span data-l10n-name="query"></span>” njejsu.
+       *[other] Bohužel žane wuslědki w nastajenjach za “<span data-l10n-name="query"></span>” njejsu.
+    }
 
 ## General Section
 
@@ -217,6 +223,7 @@ play-drm-content-learn-more = Dalše informacije
 update-application-title = Aktualizacije { -brand-short-name }
 update-application-description = Dźeržće { -brand-short-name } aktualny, za najlěpši wukon, stabilnosć a wěstotu.
 update-application-info = Wersija { $version } <a>Što je nowe</a>
+update-application-version = Wersija { $version } <a data-l10n-name="learn-more">Što je nowe</a>
 update-history =
     .label = Aktualizacisku historiju pokazać…
     .accesskey = h
