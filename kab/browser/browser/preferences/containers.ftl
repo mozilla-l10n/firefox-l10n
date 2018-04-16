@@ -36,16 +36,6 @@ containers-color-label = Initen
 containers-button-done =
     .label = Immed
     .accesskey = m
-containers-remove-alert-title = Kkes amagbar-a?
-# Variables:
-#   $count (Number) - Number of tabs that will be closed.
-containers-remove-alert-msg =
-    { $count ->
-        [one] Ma tekkseḍ amagbar-a tura, iccer amagbar { $count } ad ittwamdel. Tebɣiḍ ad tekkseḍ amagbar-a?
-       *[other] Ma tekkseḍ amagbar-a tura, iccer amagbar { $count } ad ittwamdel. Tebɣiḍ ad tekkseḍ amagbar-a?
-    }
-containers-remove-ok-button = Kkes amagbar-a
-containers-remove-cancel-button = Ur tekkes ara amagbar-a
 containers-color-blue =
     .label = Amidadi
 containers-color-turquoise =
