@@ -76,6 +76,13 @@ restart-later = 稍后重启
 ## Preferences UI Search Results
 
 search-results-header = 搜索结果
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] 很抱歉，没有找到有关“<span data-l10n-name="query"></span>”的选项。
+       *[other] 很抱歉，没有找到有关“<span data-l10n-name="query"></span>”的首选项。
+    }
+search-results-help-link = 需要帮助？访问 <a data-l10n-name="url">{ -brand-short-name } 技术支持</a>
 
 ## General Section
 
@@ -213,6 +220,7 @@ play-drm-content-learn-more = 详细了解
 update-application-title = { -brand-short-name } 更新
 update-application-description = 让 { -brand-short-name } 保持最新，持续拥有最强的性能、稳定性和安全性。
 update-application-info = 版本: { $version } <a>新版变化</a>
+update-application-version = 版本: { $version } <a data-l10n-name="learn-more">新版变化</a>
 update-history =
     .label = 显示更新历史…
     .accesskey = p
@@ -248,6 +256,7 @@ performance-limit-content-process-option = 内容进程限制
     .accesskey = L
 performance-limit-content-process-enabled-desc = 更多内容进程可以改善使用多个标签页时的性能，但也将消耗更多内存。
 performance-limit-content-process-disabled-desc = 仅在多进程 { -brand-short-name } 时可修改进程数量。 <a>了解如何检查多进程的启用状况</a>
+performance-limit-content-process-blocked-desc = 仅在多进程 { -brand-short-name } 时可修改进程数量。 <a data-l10n-name="learn-more">了解如何检查多进程的启用状况</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
