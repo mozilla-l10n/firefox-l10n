@@ -178,6 +178,7 @@ play-drm-content-learn-more = Deprender más
 update-application-title = Anovamientos de { -brand-short-name }
 update-application-description = Caltén { -brand-short-name } anováu pa un meyor rindimientu, estabilidá y seguranza.
 update-application-info = Versión { $version } <a>Qué hai nuevo</a>
+update-application-version = Versión { $version } <a data-l10n-name="learn-more">Qué hai nuevo</a>
 update-history =
     .label = Amosar l'historial d'anovamientos…
     .accesskey = t
