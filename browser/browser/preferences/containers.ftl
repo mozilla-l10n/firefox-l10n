@@ -36,16 +36,6 @@ containers-color-label = Färg
 containers-button-done =
     .label = Klar
     .accesskey = K
-containers-remove-alert-title = Ta bort denna behållare?
-# Variables:
-#   $count (Number) - Number of tabs that will be closed.
-containers-remove-alert-msg =
-    { $count ->
-        [one] Om du tar bort denna behållaren nu, kommer { $count } innehållsflik att stängas. Är du säker på att du vill ta bort denna behållare?
-       *[other] Om du tar bort denna behållare nu, kommer #s innehållsflikar att stängas. Är du säker på att du vill ta bort denna behållare?
-    }
-containers-remove-ok-button = Ta bort denna behållare
-containers-remove-cancel-button = Ta inte bort denna behållare
 containers-color-blue =
     .label = Blå
 containers-color-turquoise =
