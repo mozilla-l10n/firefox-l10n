@@ -67,12 +67,6 @@ restart-later = পরে পুনরারম্ভ করুন
 ## Preferences UI Search Results
 
 search-results-header = অনুসন্ধানের ফলাফল
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] দুঃখিত! “<span></span>”-র জন্য অপশনে কোন ফলাফল নেই।
-       *[other] দুঃখিত! “<span></span>”-র জন্য পছন্দসমূহে কোন ফলাফল নেই।
-    }
 
 ## General Section
 
@@ -400,9 +394,6 @@ privacy-header = ব্রাউজারের গোপনীয়তা
 ## Privacy Section - Forms
 
 forms-header = ফর্মগুলি & পাসওয়ার্ডগুলি
-forms-remember-logins =
-    .label = ওয়েবসাইটের লগইনগুলি ও পার্সওয়ার্ডগুলিকে মনে রাখবে
-    .accesskey = R
 forms-exceptions =
     .label = ব্যতিক্রম...
     .accesskey = ব
