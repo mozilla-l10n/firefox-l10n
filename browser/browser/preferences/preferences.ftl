@@ -79,10 +79,10 @@ search-results-header = Søkeresultat
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
 search-results-empty-message =
     { PLATFORM() ->
-        [windows] Beklagar! Det er ingen resultat i innstillingar for «<span data-l10n-name="query"></span>».
-       *[other] Beklagar! Det er ingen resultat i innstillingar for «<span data-l10n-name="query"></span>».
+        [windows] Beklagar! Ingen resultat i Innstillingar for “<span data-l10n-name="query"></span>”.
+       *[other] Beklagar! Ingen resultat i Innstillingar for “<span data-l10n-name="query"></span>”.
     }
-search-results-help-link = Treng du hjelp? Gå til <a data-l10n-name="url">{ -brand-short-name } brukarstøtte</a>
+search-results-help-link = Treng du hjelp? Gå til <a data-l10n-name="url">{ -brand-short-name } Brukarstøtte</a>
 
 ## General Section
 
@@ -156,8 +156,8 @@ containers-remove-alert-title = Fjerne denne behaldaren?
 #   $count (Number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
-        [one] Om du fjernar dennebehaldaren no, vil { $count } innhaldsfane bli stengt. Er du sikker på at du vil fjerne denne behaldaren?
-       *[other] Om du fjernar denne behaldaren no, vil { $count } innhaldsfaner bli stengt. Er du sikker på at du vil fjerne denne behaldaren?
+        [one] Om du fjernar denne behaldaren no, vil { $count } behaldarfane latast att. Er du sikker på at du vil fjerne denne behaldaren?
+       *[other] Om du fjernar denne behaldaren no, vil { $count } behaldarfaner latast att. Er du sikker på at du vil fjerne denne behaldaren?
     }
 containers-remove-ok-button = Fjern denne behaldaren
 containers-remove-cancel-button = Ikkje fjern denne behaldaren
@@ -484,6 +484,9 @@ privacy-header = Nettlesarpersonvern
 ## Privacy Section - Forms
 
 forms-header = Skjema og passord
+forms-ask-to-save-logins =
+    .label = Spør om å lagre innloggingar og passord for nettsider
+    .accesskey = i
 forms-exceptions =
     .label = Unntak…
     .accesskey = n
