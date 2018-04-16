@@ -71,6 +71,12 @@ restart-later = Ales asenker ticki
 ## Preferences UI Search Results
 
 search-results-header = Igmaḍ n unadi
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Nesḥasef! Ulac igemmaḍ deg iɣewwaṛen i “<span data-l10n-name="query"></span>”.
+       *[other] Nesḥasef! Ulac igemmaḍ deg ismenyifen i “<span data-l10n-name="query"></span>”.
+    }
 search-results-help-link = Tesriḍ tallelt? Rzu γer <a data-l10n-name="url">{ -brand-short-name } Tallalt</a>
 
 ## General Section
