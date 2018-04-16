@@ -76,6 +76,12 @@ restart-later = Қайта қосуды кейін орындау
 ## Preferences UI Search Results
 
 search-results-header = Іздеу нәтижелері
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Кешіріңіз! Опцияларды "<span data-l10n-name="query"></span>" үшін нәтижелер табылмады.
+       *[other] Кешіріңіз! Баптауларда "<span data-l10n-name="query"></span>" үшін нәтижелер табылмады.
+    }
 
 ## General Section
 
@@ -213,6 +219,7 @@ play-drm-content-learn-more = Көбірек білу
 update-application-title = { -brand-short-name } жаңартулары
 update-application-description = { -brand-short-name } жақсырақ өнімділік, тұрақтылық және қауіпсіздікпен жаңартылған етіп ұстаңыз.
 update-application-info = Нұсқасы { $version } <a>Не жаңалық</a>
+update-application-version = Нұсқасы { $version } <a data-l10n-name="learn-more">Не жаңалық</a>
 update-history =
     .label = Жаңартулар тарихын көрсету…
     .accesskey = р
