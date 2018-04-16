@@ -67,13 +67,6 @@ restart-later = Restartigi poste
 ## Preferences UI Search Results
 
 search-results-header = Serĉrezultoj
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] Bedaŭrinde ne estis rezultoj por “<span></span>” en Elektebloj.
-       *[other] Bedaŭrinde ne estis rezultoj por “<span></span>” en Preferoj.
-    }
-search-results-need-help = Ĉu vi bezonas helpon? Vizitu <a>Helpo por { -brand-short-name }</a>
 
 ## General Section
 
@@ -443,9 +436,6 @@ privacy-header = Retumila privateco
 ## Privacy Section - Forms
 
 forms-header = Formularoj kaj pasvortoj
-forms-remember-logins =
-    .label = Memori akreditilojn kaj pasvortojn por retejoj
-    .accesskey = a
 forms-exceptions =
     .label = Esceptoj…
     .accesskey = c
@@ -524,7 +514,6 @@ addressbar-suggestions-settings = Ŝanĝi preferojn pri serĉilaj sugestoj
 ## Privacy Section - Tracking
 
 tracking-header = Protekto kontraŭ spurado
-tracking-description = La protekto kontraŭ spurado blokas retajn spurilojn, kiuj kolektas viajn retumajn datumojn tra pluraj retejoj. <a>Pli da informo pri protekto kontraŭ spurado kaj via privateco</a>
 tracking-mode-label = Uzi protekton kontraŭ spurado por bloki konatajn spurilojn
 tracking-mode-always =
     .label = Ĉiam
