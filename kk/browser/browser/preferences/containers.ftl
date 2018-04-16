@@ -36,16 +36,6 @@ containers-color-label = Түсі
 containers-button-done =
     .label = Дайын
     .accesskey = Д
-containers-remove-alert-title = Бұл контейнерді өшіру керек пе?
-# Variables:
-#   $count (Number) - Number of tabs that will be closed.
-containers-remove-alert-msg =
-    { $count ->
-        [one] Егер бұл контейнерді қазір өшірсеңіз, { $count } контейнерлік бет жабылады. Контейнерді өшіруді шынымен қалайсыз ба?
-       *[other] Егер бұл контейнерді қазір өшірсеңіз, { $count } контейнерлік бет жабылады. Контейнерді өшіруді шынымен қалайсыз ба?
-    }
-containers-remove-ok-button = Бұл контейнерді өшіру
-containers-remove-cancel-button = Бұл контейнерді өшірмеу
 containers-color-blue =
     .label = Көк
 containers-color-turquoise =
