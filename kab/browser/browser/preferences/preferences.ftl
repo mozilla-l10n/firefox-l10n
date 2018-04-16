@@ -71,13 +71,6 @@ restart-later = Ales asenker ticki
 ## Preferences UI Search Results
 
 search-results-header = Igmaḍ n unadi
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] Nesḥasef! Ulac igemmaḍ deg iɣewwaṛen i “<span></span>”.
-       *[other] Nesḥasef! Ulac igemmaḍ deg ismenyifen i “<span></span>”.
-    }
-search-results-need-help = Tesriḍ tallelt? Rzu γer <a>{ -brand-short-name } Tallalt</a>
 
 ## General Section
 
@@ -466,9 +459,6 @@ privacy-header = Tabaḍnit n iminig
 ## Privacy Section - Forms
 
 forms-header = Tiferka & akked awalen uffiren
-forms-remember-logins =
-    .label = Cfu ɣef unekcum neɣ awal uffir i yismal web
-    .accesskey = Z
 forms-exceptions =
     .label = Tisuraf…
     .accesskey = r
@@ -552,7 +542,6 @@ addressbar-suggestions-settings = Snifel ismenyifen i yisumar n umsedday n unadi
 ## Privacy Section - Tracking
 
 tracking-header = Ammesten mgal asfuɣel
-tracking-description = Amesten mgal aḍfaṛ ad isewḥel ineḍfaṛen iqnen iluqḍen isefka n iminig inek deg ismal web. <a>Issin ugar γef umesten mgal aḍfaṛ akked tasertit n tbaḍnit</a>
 tracking-mode-label = Seqdec amesten mgal asfuγel akken ad teswaḥleḍ imsfuγal irusinin
 tracking-mode-always =
     .label = Yal ass
