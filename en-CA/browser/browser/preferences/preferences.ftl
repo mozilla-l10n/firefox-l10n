@@ -76,13 +76,6 @@ restart-later = Restart Later
 ## Preferences UI Search Results
 
 search-results-header = Search Results
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] Sorry! There are no results in Options for “<span></span>”.
-       *[other] Sorry! There are no results in Preferences for “<span></span>”.
-    }
-search-results-need-help = Need help? Visit <a>{ -brand-short-name } Support</a>
 
 ## General Section
 
@@ -471,9 +464,6 @@ privacy-header = Browser Privacy
 ## Privacy Section - Forms
 
 forms-header = Forms & Passwords
-forms-remember-logins =
-    .label = Remember logins and passwords for web sites
-    .accesskey = R
 forms-exceptions =
     .label = Exceptions…
     .accesskey = x
@@ -559,7 +549,6 @@ addressbar-suggestions-settings = Change preferences for search engine suggestio
 ## Privacy Section - Tracking
 
 tracking-header = Tracking Protection
-tracking-description = Tracking Protection blocks online trackers that collect your browsing data across multiple web sites. <a>Learn more about Tracking Protection and your privacy</a>
 tracking-mode-label = Use Tracking Protection to block known trackers
 tracking-mode-always =
     .label = Always
