@@ -72,6 +72,12 @@ restart-later = Επανεκκίνηση αργότερα
 ## Preferences UI Search Results
 
 search-results-header = Αποτελέσματα αναζήτησης
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Λυπούμαστε! Δεν υπάρχουν αποτελέσματα για το “<span data-l10n-name="query"></span>” στις Επιλογές.
+       *[other] Λυπούμαστε! Δεν υπάρχουν αποτελέσματα για το “<span data-l10n-name="query"></span>” στις Προτιμήσεις.
+    }
 
 ## General Section
 
@@ -209,6 +215,7 @@ play-drm-content-learn-more = Μάθετε περισσότερα
 update-application-title = Ενημερώσεις του { -brand-short-name }
 update-application-description = Κρατήστε το { -brand-short-name } ενημερωμένο για καλύτερη απόδοση, σταθερότητα κι ασφάλεια.
 update-application-info = Έκδοση { $version } <a>Τι νέο υπάρχει</a>
+update-application-version = Έκδοση { $version } <a data-l10n-name="learn-more">Τι νέο υπάρχει</a>
 update-history =
     .label = Εμφάνιση ιστορικού ενημερώσεων…
     .accesskey = ν
@@ -244,6 +251,7 @@ performance-limit-content-process-option = Όριο διεργασιών περ�
     .accesskey = Ο
 performance-limit-content-process-enabled-desc = Οι επιπρόσθετες διεργασίες περιεχομένου μπορούν να βελτιώσουν τις επιδόσεις κατά τη χρήση πολλαπλών καρτελών, αλλά θα χρησιμοποιούν περισσότερη μνήμη.
 performance-limit-content-process-disabled-desc = Η τροποποίηση του αριθμού των διεργασιών περιεχομένου είναι δυνατή μόνο στο { -brand-short-name } με τη δυνατότητα πολλαπλών διεργασιών. <a>Μάθετε πώς μπορείτε να ελέγξετε εάν είναι ενεργοποιημένη η λειτουργία πολλαπλών διεργασιών</a>
+performance-limit-content-process-blocked-desc = Η τροποποίηση του αριθμού των διεργασιών περιεχομένου είναι δυνατή μόνο στο { -brand-short-name } με τη δυνατότητα πολλαπλών διεργασιών. <a data-l10n-name="learn-more">Μάθετε πώς μπορείτε να ελέγξετε εάν είναι ενεργοποιημένη η λειτουργία πολλαπλών διεργασιών</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
