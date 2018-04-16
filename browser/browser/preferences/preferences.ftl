@@ -472,6 +472,9 @@ privacy-header = ความเป็นส่วนตัวเบราว์
 ## Privacy Section - Forms
 
 forms-header = แบบฟอร์มและรหัสผ่าน
+forms-ask-to-save-logins =
+    .label = ถามเพื่อบันทึกการเข้าสู่ระบบและรหัสผ่านสำหรับเว็บไซต์
+    .accesskey = ถ
 forms-exceptions =
     .label = ข้อยกเว้น…
     .accesskey = อ
