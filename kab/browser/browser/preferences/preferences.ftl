@@ -146,6 +146,9 @@ containers-disable-alert-ok-button =
        *[other] Mdel { $tabCount } iccaren imagbaren
     }
 containers-disable-alert-cancel-button = Eǧǧ-it yermed
+containers-remove-alert-title = Kkes amagbar-a?
+containers-remove-ok-button = Kkes amagbar-a
+containers-remove-cancel-button = Ur tekkes ara amagbar-a
 
 ## General Section - Language & Appearance
 
