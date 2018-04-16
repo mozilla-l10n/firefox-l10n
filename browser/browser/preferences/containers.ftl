@@ -36,12 +36,6 @@ containers-color-label = Warna
 containers-button-done =
     .label = Selesai
     .accesskey = S
-containers-remove-alert-title = Buang Penyimpan Ini?
-# Variables:
-#   $count (Number) - Number of tabs that will be closed.
-containers-remove-alert-msg = Jika anda mengalih keluar Penyimpan ini sekarang, { $count } tab penyimpan akan ditutup. Adakah anda pasti mahu mengalih keluar Penyimpan ini?
-containers-remove-ok-button = Buang Penyimpan Ini
-containers-remove-cancel-button = Jangan buang Penyimpan Ini
 containers-color-blue =
     .label = Biru
 containers-color-turquoise =
