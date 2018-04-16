@@ -82,6 +82,7 @@ search-results-empty-message =
         [windows] மன்னிக்கவும்! தேர்வுகளில் "<span data-l10n-name="query"></span>" சொல்லிற்கான முடிவுகள் எதுமில்லை.
        *[other] மன்னிக்கவும்! முன்னுரிமைகளில் "<span data-l10n-name="query"></span>" சொல்லிற்கான முடிவுகள் ஏதுமில்லை.
     }
+search-results-help-link = உதவி தேவையா? <a data-l10n-name="url">{ -brand-short-name } ஆதரவு</a> பார்வையிடவும்
 
 ## General Section
 
