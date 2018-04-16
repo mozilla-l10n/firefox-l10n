@@ -36,16 +36,6 @@ containers-color-label = Rangi
 containers-button-done =
     .label = Otum
     .accesskey = O
-containers-remove-alert-title = Kwany Lamak jami man?
-# Variables:
-#   $count (Number) - Number of tabs that will be closed.
-containers-remove-alert-msg =
-    { $count ->
-        [one] Ka i kwanyo Lamak jami man kombedi, ki biloro dirica matidi { $count } me mako jami. Imoko ada ni imito kwanyo Lamak jami man?
-       *[other] Ka i kwanyo Lamak jami man kombedi, ki biloro dirica matino { $count } me mako jami. Imoko ada ni imito kwanyo Lamak jami man?
-    }
-containers-remove-ok-button = Kwany Lamak jami man
-containers-remove-cancel-button = Pe ikwany Lamak jami man
 containers-color-blue =
     .label = Buluu
 containers-color-turquoise =
