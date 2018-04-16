@@ -67,6 +67,13 @@ restart-later = Khởi động lại sau
 ## Preferences UI Search Results
 
 search-results-header = Kết quả tìm kiếm
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Xin lỗi! Không có kết quả trong phần tủy chọn cho “<span data-l10n-name="query"></span>”.
+       *[other] Xin lỗi! Không có kết quả trong phần tủy chỉnh cho “<span data-l10n-name="query"></span>”.
+    }
+search-results-help-link = Cần trợ giúp? Ghé thăm <a data-l10n-name="url">Hỗ trợ từ { -brand-short-name }</a>
 
 ## General Section
 
@@ -196,6 +203,7 @@ play-drm-content-learn-more = Tìm hiểu thêm
 update-application-title = Cập nhật { -brand-short-name }
 update-application-description = Giữ { -brand-short-name } luôn cập nhật để đạt được hiệu năng, sự ổn định, và bảo mật tốt nhất.
 update-application-info = Phiên bản { $version } <a>Có gì mới</a>
+update-application-version = Phiên bản { $version } <a data-l10n-name="learn-more">Có gì mới</a>
 update-history =
     .label = Hiển thị lịch sử cập nhật…
     .accesskey = p
@@ -231,6 +239,7 @@ performance-limit-content-process-option = Giới hạn xử lý nội dung
     .accesskey = L
 performance-limit-content-process-enabled-desc = Các tiến trình xử lý nội dung bổ sung có thể cải thiện hiệu suất khi sử dụng nhiều thẻ một lúc, nhưng cũng sẽ tiêu tốn nhiều bộ nhớ.
 performance-limit-content-process-disabled-desc = Việc chỉnh sửa số tiến trình xử lý nội dung chỉ có thể thực hiện với { -brand-short-name } đa tiến trình. <a>Tìm hiểu làm cách nào để kiểm tra khi chế độ đa tiến trình được bật</a>
+performance-limit-content-process-blocked-desc = Việc chỉnh sửa số tiến trình xử lý nội dung chỉ có thể thực hiện với { -brand-short-name } đa tiến trình. <a data-l10n-name="learn-more">Tìm hiểu làm cách nào để kiểm tra khi chế độ đa tiến trình được bật</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -494,6 +503,7 @@ addressbar-suggestions-settings = Thay đổi tùy chỉnh phần gợi ý của
 ## Privacy Section - Tracking
 
 tracking-header = Trình chống theo dõi
+tracking-desc = Trình chống theo dõi chặn các trình theo dõi trực tuyến thu thập dữ liệu duyệt web của bạn trên nhiều trang web. <a data-l10n-name="learn-more">Tìm hiểu thêm về trình chống theo dõi và chính sách riêng tư của bạn</a>
 tracking-mode-label = Sử dụng trình chống theo dõi để chặn các trình theo dõi đã được nhận biết
 tracking-mode-always =
     .label = Luôn luôn
