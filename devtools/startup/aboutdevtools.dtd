@@ -56,7 +56,7 @@
 <!ENTITY  aboutDevtools.newsletter.privacy.label "Sunt de acord ca Mozilla să îmi prelucreze informațiile așa cum este explicat în această <a class='external' href='https://www.mozilla.org/privacy/'>Politică de confidențialitate</a>.">
 <!ENTITY  aboutDevtools.newsletter.subscribeButton "Abonează-te">
 <!ENTITY  aboutDevtools.newsletter.thanks.title "Îți mulțumim!">
-<!ENTITY  aboutDevtools.newsletter.thanks.message "Dacă nu ai confirmat anterior o abonare la un buletin de știri Mozilla, este posibil să fie nevoie să o faci. Te rugăm să verifici mesajele primite sau dosarul spam pentru a găsi e-mailul de la noi.">
+<!ENTITY  aboutDevtools.newsletter.thanks.message "Dacă nu ai confirmat anterior o abonare la un buletin de știri care are legătură cu Mozilla, este posibil să fie nevoie să o faci. Te rugăm să verifici mesajele primite sau dosarul spam pentru a găsi e-mailul de la noi.">
 
 <!ENTITY  aboutDevtools.footer.title "Firefox Developer Edition">
 <!ENTITY  aboutDevtools.footer.message "Cauți mai mult decât instrumente de dezvoltare? Aruncă o privire asupra browserului Firefox care este construit special pentru dezvoltatori și fluxuri de lucru moderne.">
