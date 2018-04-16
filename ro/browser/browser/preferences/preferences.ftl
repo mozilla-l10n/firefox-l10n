@@ -154,6 +154,14 @@ containers-disable-alert-ok-button =
     }
 containers-disable-alert-cancel-button = Păstrează activat
 containers-remove-alert-title = Elimini acest container?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Dacă elimini acest container acum, { $count } container de file va fi închis. Sigur vrei să elimini acest container?
+        [few] Dacă elimini acest container acum, { $count } containere de file vor fi închise. Sigur vrei să elimini acest container?
+       *[other] Dacă elimini acest container acum, { $count } de containere de file vor fi închise. Sigur vrei să elimini acest container?
+    }
 containers-remove-ok-button = Elimină acest container
 containers-remove-cancel-button = Nu elimina acest container
 
