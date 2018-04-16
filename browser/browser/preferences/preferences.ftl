@@ -76,13 +76,6 @@ restart-later = Pārstartēt vēlāk
 ## Preferences UI Search Results
 
 search-results-header = Meklēšanas rezultāti
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] Diemžēl meklējot Iestatījumu “<span></span>” nekas netika atrasts.
-       *[other] Diemžēl meklējot Iestatījumu “<span></span>” nekas netika atrasts.
-    }
-search-results-need-help = Vajadzīga palīdzība? Apmeklējiet <a>{ -brand-short-name } atbalsts</a>
 
 ## General Section
 
@@ -474,9 +467,6 @@ privacy-header = Pārlūka privātums
 ## Privacy Section - Forms
 
 forms-header = Formas un paroles
-forms-remember-logins =
-    .label = Atcerieties, lietotājvārdi un paroles mājas lapās
-    .accesskey = A
 forms-exceptions =
     .label = Izņēmumi...
     .accesskey = z
@@ -566,7 +556,6 @@ addressbar-suggestions-settings = Izmainiet meklētāju iestatījumus
 ## Privacy Section - Tracking
 
 tracking-header = Izsekošanas aizsardzība
-tracking-description = Izsekošanas aizsardzība cīnās pret sekotājiem kas dažādās lapās vāc informāciju par jūsu uzvedību internetā. <a>Uzziniet vairāk par izsekošanas aizsardzību un jūsu privātumu</a>
 tracking-mode-label = Izmantot izsekošanas aizsardzību, lai bloķētu zināmos izsekotājus
 tracking-mode-always =
     .label = Vienmēr
