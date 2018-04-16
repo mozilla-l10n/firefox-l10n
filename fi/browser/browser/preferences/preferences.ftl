@@ -76,6 +76,13 @@ restart-later = Käynnistä uudestaan myöhemmin
 ## Preferences UI Search Results
 
 search-results-header = Hakutulokset
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Ei hakutuloksia asetuksista haulle ”<span data-l10n-name="query"></span>”.
+       *[other] Ei hakutuloksia asetuksista haulle ”<span data-l10n-name="query"></span>”.
+    }
+search-results-help-link = Tarvitsetko apua? Avaa <a data-l10n-name="url">{ -brand-short-name }-tuki</a>
 
 ## General Section
 
@@ -213,6 +220,7 @@ play-drm-content-learn-more = Lue lisää
 update-application-title = { -brand-short-name }in päivitykset
 update-application-description = Pidä { -brand-short-name } ajan tasalla parhaan suorituskyvyn, vakauden ja turvallisuuden vuoksi.
 update-application-info = Versio { $version } <a>Mitä uutta</a>
+update-application-version = Versio { $version } <a data-l10n-name="learn-more">Mitä uutta</a>
 update-history =
     .label = Näytä päivityshistoria…
     .accesskey = N
@@ -248,6 +256,7 @@ performance-limit-content-process-option = Sisältöprosessien yläraja
     .accesskey = i
 performance-limit-content-process-enabled-desc = Useammat sisältöprosessit parantavat suorituskykyä käytettäessä useita välilehtiä, mutta kuluttavat myös enemmän muistia.
 performance-limit-content-process-disabled-desc = Sisältöprosessien määrän muokkaaminen on mahdollista vain useaa prosessia hyödyntävällä { -brand-short-name }illa. <a>Lue, miten usean prosessin hyödyntämisen tilanteen voi tarkistaa</a>
+performance-limit-content-process-blocked-desc = Sisältöprosessien määrän muokkaaminen on mahdollista vain useaa prosessia hyödyntävällä { -brand-short-name }illa. <a data-l10n-name="learn-more">Lue, miten usean prosessin hyödyntämisen tilanteen voi tarkistaa</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -553,6 +562,7 @@ addressbar-suggestions-settings = Muuta hakukoneiden ehdotusten asetuksia
 ## Privacy Section - Tracking
 
 tracking-header = Seurannan suojaus
+tracking-desc = Seurannan suojaus estää verkossa toimivia seurantamenetelmiä, jotka keräävät tietoja selaamisestasi yli sivustorajojen. <a data-l10n-name="learn-more">Lue lisää seurannan suojauksesta ja tietosuojastasi</a>
 tracking-mode-label = Käytä seurannan suojausta estämään tunnettuja seurantamenetelmiä
 tracking-mode-always =
     .label = Aina
