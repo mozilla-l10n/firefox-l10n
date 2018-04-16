@@ -152,6 +152,18 @@ containers-disable-alert-ok-button =
        *[other] Dùin { $tabCount } taba soithich
     }
 containers-disable-alert-cancel-button = Cum an comas
+containers-remove-alert-title = A bheil thu airson an soitheach seo a thoirt air falbh?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Ma bheir thu air falbh an soitheach seo an-dràsta, thèid { $count } taba soithich a dhùnadh. A bheil thu cinnteach gu bheil thu airson an soitheach seo a thoirt air falbh?
+        [two] Ma bheir thu air falbh an soitheach seo an-dràsta, thèid { $count } thaba soithich a dhùnadh. A bheil thu cinnteach gu bheil thu airson an soitheach seo a thoirt air falbh?
+        [few] Ma bheir thu air falbh an soitheach seo an-dràsta, thèid { $count } tabaichean soithich a dhùnadh. A bheil thu cinnteach gu bheil thu airson an soitheach seo a thoirt air falbh?
+       *[other] Ma bheir thu air falbh an soitheach seo an-dràsta, thèid { $count } taba soithich a dhùnadh. A bheil thu cinnteach gu bheil thu airson an soitheach seo a thoirt air falbh?
+    }
+containers-remove-ok-button = Thoir an soitheach seo air falbh
+containers-remove-cancel-button = Na thoir an soitheach seo air falbh
 
 ## General Section - Language & Appearance
 
