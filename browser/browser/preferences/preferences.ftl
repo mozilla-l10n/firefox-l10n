@@ -76,13 +76,6 @@ restart-later = Қайта қосуды кейін орындау
 ## Preferences UI Search Results
 
 search-results-header = Іздеу нәтижелері
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] Кешіріңіз! Опцияларды "<span></span>" үшін нәтижелер табылмады.
-       *[other] Кешіріңіз! Баптауларда "<span></span>" үшін нәтижелер табылмады.
-    }
-search-results-need-help = Көмек керек пе? <a>{ -brand-short-name } қолдауы</a> шолыңыз
 
 ## General Section
 
@@ -472,9 +465,6 @@ privacy-header = Браузер жекелігі
 ## Privacy Section - Forms
 
 forms-header = Формалар және парольдер
-forms-remember-logins =
-    .label = Вебсайттар үшін логиндер және парольдерді сақтау
-    .accesskey = т
 forms-exceptions =
     .label = Ережелерден бөлек…
     .accesskey = р
@@ -564,7 +554,6 @@ addressbar-suggestions-settings = Іздеу жүйесінің ұсыныста
 ## Privacy Section - Tracking
 
 tracking-header = Бақылаудан қорғанысты қолдану
-tracking-description = Бақылаудан қорғаныс көптеген веб-сайттар арасында сіздің деректеріңізді жинайтын онлайн трекерлерді блоктайды. <a>Бақылаудан қорғаныс және сіздің жекелігіңіз туралы көбірек білу</a>
 tracking-mode-label = Белгілі трекерлерді блоктау үшін Бақылаудан қорғанысты қолдану
 tracking-mode-always =
     .label = Әрқашан
