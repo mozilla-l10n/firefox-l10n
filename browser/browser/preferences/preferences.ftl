@@ -75,6 +75,13 @@ restart-later = Рестартиране по-късно
 ## Preferences UI Search Results
 
 search-results-header = Резултати
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Съжаляваме! В настройките няма резултати за „<span data-l10n-name="query"></span>“.
+       *[other] Съжаляваме! В настройките няма резултати за „<span data-l10n-name="query"></span>“.
+    }
+search-results-help-link = Имате нужда от помощ? Посетете <a data-l10n-name="url">поддръжката за { -brand-short-name }</a>
 
 ## General Section
 
@@ -212,6 +219,7 @@ play-drm-content-learn-more = Научете повече
 update-application-title = Обновявания на { -brand-short-name }
 update-application-description = За най-добра производителност, стабилност и защита поддържайте вашия { -brand-short-name } обновен.
 update-application-info = Издание { $version } <a>Новото в това издание</a>
+update-application-version = Издание { $version } <a data-l10n-name="learn-more">Новото в това издание</a>
 update-history =
     .label = Хронология на обновяванията…
     .accesskey = х
@@ -541,6 +549,7 @@ addressbar-suggestions-settings = Настройки на предложения
 ## Privacy Section - Tracking
 
 tracking-header = Защита от проследяване
+tracking-desc = Защитата от проследяване спира страниците, които събират информация за вас докато разглеждате различни сайтове. <a data-l10n-name="learn-more">Научете повече за защитата от проследяване и поверителност</a>
 tracking-mode-label = Използвайте защитата за спиране на известните проследяващи страници
 tracking-mode-always =
     .label = Винаги
