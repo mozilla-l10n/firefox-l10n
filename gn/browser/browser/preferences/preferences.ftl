@@ -562,6 +562,7 @@ addressbar-suggestions-settings = Jerohoryvéva jehekaha mongu'eha je'epyre momb
 ## Privacy Section - Tracking
 
 tracking-header = Eipuru Ñemo'ã Tapykuehógui
+tracking-desc = Tapykuere ñemo'ã ojoko umi oporohekáva ñandutípe ha ombyatýva ne kundaha mba'ekuaarã heta ñanduti renda rupi. <a data-l10n-name="learn-more">Eikuaave tapykuere ha temiñemi ñemo'ã rehegua</a>
 tracking-mode-label = Eipuru tapykuere ñemo'ã ejoko hag̃ua oporohekavakuérape
 tracking-mode-always =
     .label = Akóinte
