@@ -38,12 +38,15 @@
 <!-- add-on related points for branded builds -->
 <!ENTITY rights.addons-a "Utvidingstenester: ">
 <!ENTITY rights.addons-term1 "Opne programinnstillingane">
+<!ENTITY rights.addons-term2 "Vel &smart.label;-panelet i &advance.label;-kategorien">
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "Trygg nettlesing: ">
+<!ENTITY rights.safebrowsing-term2 "Vel hovudpanelet på &security.label;-panelet">
 <!ENTITY rights.safebrowsing-term4 "Trygg nettlesing er no slått av">
 
 <!-- location aware browsing points for branded builds -->
+<!ENTITY rights.locationawarebrowsing-term2 "Vel hovudpanelet på &security.label;-panelet">
 
 <!-- points 0-6 text for branded builds -->
 
