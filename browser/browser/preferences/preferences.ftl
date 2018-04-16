@@ -76,6 +76,12 @@ restart-later = أعِد التشغيل لاحقًا
 ## Preferences UI Search Results
 
 search-results-header = نتائج البحث
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] للأسف لا نتائج في الخيارات عن ”<span data-l10n-name="query"></span>“.
+       *[other] للأسف لا نتائج في التفضيلات عن ”<span data-l10n-name="query"></span>“.
+    }
 search-results-help-link = أتحتاج للمساعدة؟ زُر <a data-l10n-name="url">دعم { -brand-short-name }</a>
 
 ## General Section
@@ -220,6 +226,7 @@ play-drm-content-learn-more = اطّلع على المزيد
 update-application-title = تحديثات { -brand-short-name }
 update-application-description = أبقِ { -brand-short-name } للحصول على أحسن أداء و ثبات و أمان.
 update-application-info = الإصدارة { $version } <a>ما الجديد</a>
+update-application-version = الإصدارة { $version } <a data-l10n-name="learn-more">ما الجديد</a>
 update-history =
     .label = أظهر تأريخ التحديث…
     .accesskey = ظ
