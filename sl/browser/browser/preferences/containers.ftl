@@ -36,18 +36,6 @@ containers-color-label = Barva
 containers-button-done =
     .label = Končaj
     .accesskey = K
-containers-remove-alert-title = Odstranim ta vsebnik?
-# Variables:
-#   $count (Number) - Number of tabs that will be closed.
-containers-remove-alert-msg =
-    { $count ->
-        [one] Če ta vsebnik odstranite zdaj, bo { $count } vsebniški zavihek zaprt. Ali ste prepričani, da želite odstraniti ta vsebnik?
-        [two] Če ta vsebnik odstranite zdaj, bosta { $count } vsebniška zavihka zaprta. Ali ste prepričani, da želite odstraniti ta vsebnik?
-        [few] Če ta vsebnik odstranite zdaj, bodo { $count } vsebniški zavihki zaprti. Ali ste prepričani, da želite odstraniti ta vsebnik?
-       *[other] Če ta vsebnik odstranite zdaj, bo { $count } vsebniških zavihkov zaprtih. Ali ste prepričani, da želite odstraniti ta vsebnik?
-    }
-containers-remove-ok-button = Odstrani ta vsebnik
-containers-remove-cancel-button = Ne odstrani tega vsebnika
 containers-color-blue =
     .label = Modro
 containers-color-turquoise =
