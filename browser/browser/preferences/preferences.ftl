@@ -487,6 +487,9 @@ privacy-header = Приватност прегледача
 ## Privacy Section - Forms
 
 forms-header = Форме и лозинке
+forms-ask-to-save-logins =
+    .label = Питај да сачуваш пријаве и лозинке веб сајтова
+    .accesskey = П
 forms-exceptions =
     .label = Изузеци
     .accesskey = е
