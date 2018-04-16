@@ -151,6 +151,14 @@ containers-disable-alert-ok-button =
        *[other] { $tabCount } કન્ટેનર ટૅબ્સને બંધ કરો
     }
 containers-disable-alert-cancel-button = સક્ષમ રાખો
+containers-remove-alert-title = આ કન્ટેઈનર દૂર કરીએ?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] જો તમે આ કન્ટેઈનરને હમણા દૂર કરો છો, તો { $count } કન્ટેનર ટેબ બંધ થઈ જશે. શું તમે ખરેખર આ કન્ટેઈનરને દૂર કરવા માંગો છો?
+       *[other] જો તમે આ કન્ટેઈનરને દૂર કરો છો, તો { $count } કન્ટેનર ટેબ્સ બંધ થઈ જશે. શું તમે ખરેખર આ કન્ટેઈનરને દૂર કરવા માંગો છો?
+    }
 
 ## General Section - Language & Appearance
 
