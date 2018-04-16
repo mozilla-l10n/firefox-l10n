@@ -67,6 +67,12 @@ restart-later = পরে পুনরারম্ভ করুন
 ## Preferences UI Search Results
 
 search-results-header = অনুসন্ধানের ফলাফল
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] দুঃখিত! “<span data-l10n-name="query"></span>”-র জন্য অপশনে কোন ফলাফল নেই।
+       *[other] দুঃখিত! “<span data-l10n-name="query"></span>”-র জন্য পছন্দসমূহে কোন ফলাফল নেই।
+    }
 
 ## General Section
 
@@ -201,6 +207,7 @@ play-drm-content-learn-more = আরও জানুন
 update-application-title = { -brand-short-name } আপডেট
 update-application-description = সেরা কর্মক্ষমতা, স্থায়িত্ব এবং নিরাপত্তার জন্য { -brand-short-name } আপ টু ডেট রাখুন।
 update-application-info = সংস্করণ { $version } <a>নতুন কি</a>
+update-application-version = সংস্করণ { $version } <a data-l10n-name="learn-more">নতুন কি</a>
 update-history =
     .label = আপডেটের ইতিহাস দেখাও…
     .accesskey = p
@@ -236,6 +243,7 @@ performance-limit-content-process-option = কন্টেন্ট প্রস
     .accesskey = L
 performance-limit-content-process-enabled-desc = একাধিক ট্যাব ব্যবহার করার সময় অতিরিক্ত কন্টেন্ট প্রসেসের কার্য সম্পাদন করতে পারে, কিন্তু এটি আরো মেমরি ব্যবহার করবে।
 performance-limit-content-process-disabled-desc = কন্টেন্ট প্রসেসের সংখ্যা পরিবর্তন শুধুমাত্র মাল্টিপ্রসেস { -brand-short-name }-র সাথে সম্ভব। <a>মাল্টিপ্রসেস সক্ষম আছে কিনা তা পরীক্ষা করা শিখুন</a>
+performance-limit-content-process-blocked-desc = কন্টেন্ট প্রসেসের সংখ্যা পরিবর্তন শুধুমাত্র মাল্টিপ্রসেস { -brand-short-name }-র সাথে সম্ভব। <a data-l10n-name="learn-more">মাল্টিপ্রসেস সক্ষম আছে কিনা তা পরীক্ষা করা শিখুন</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
