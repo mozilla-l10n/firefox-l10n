@@ -76,13 +76,6 @@ restart-later = Endurræsa seinna
 ## Preferences UI Search Results
 
 search-results-header = Leitarniðurstöður
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] Því miður! Engar niðurstöður eru til fyrir stillingar fyrir “<span></span>”.
-       *[other] Því miður! Engar niðurstöður eru til fyrir stillingar fyrir “<span></span>”.
-    }
-search-results-need-help = Vantar þig hjálp? Kíktu á <a>{ -brand-short-name } hjálp</a>
 
 ## General Section
 
@@ -471,9 +464,6 @@ privacy-header = Friðhelgi vafra
 ## Privacy Section - Forms
 
 forms-header = Form & lykilorð
-forms-remember-logins =
-    .label = Muna innskráningar og lyilorð fyrir vefsvæði
-    .accesskey = M
 forms-exceptions =
     .label = Undanþágur…
     .accesskey = n
@@ -563,7 +553,6 @@ addressbar-suggestions-settings = Breyta stillingum fyrir ábendingar leitarvél
 ## Privacy Section - Tracking
 
 tracking-header = Vörn gegn gagnasöfnun
-tracking-description = Vörn gegn gagnasöfnun lokar á njósnaraforrit á netinu sem safna vafragögnum á milli margra vefsvæða. <a>Fræðast meira um vörn gegn gagnasöfnun og friðhelgi</a>
 tracking-mode-label = Nota vörn gegn gagnasöfnun til að loka á þekkta gagnasafnara
 tracking-mode-always =
     .label = Alltaf
