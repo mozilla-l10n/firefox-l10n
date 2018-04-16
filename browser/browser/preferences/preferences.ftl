@@ -67,12 +67,6 @@ restart-later = Reaviar pli tard
 ## Preferences UI Search Results
 
 search-results-header = Resultats da tschertga
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] Perstgisa! Impussibel da chattar «<span></span>» en las preferenzas.
-       *[other] Perstgisa! Impussibel da chattar «<span></span>» en las preferenzas.
-    }
 
 ## General Section
 
@@ -426,9 +420,6 @@ privacy-header = Protecziun da datas
 ## Privacy Section - Forms
 
 forms-header = Formulars & pleds-clav
-forms-remember-logins =
-    .label = Memorisar infurmaziuns d'annunzia e pleds-clav per websites
-    .accesskey = M
 forms-exceptions =
     .label = Excepziuns…
     .accesskey = x
