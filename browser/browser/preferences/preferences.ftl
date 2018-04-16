@@ -73,6 +73,12 @@ restart-later = 나중에 다시 시작
 ## Preferences UI Search Results
 
 search-results-header = 검색 결과
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] 죄송합니다! “<span data-l10n-name="query"></span>”옵션에 대한 결과가 없습니다.
+       *[other] 죄송합니다! “<span data-l10n-name="query"></span>”설정에 대한 결과가 없습니다.
+    }
 search-results-help-link = 도움이 필요하세요? <a data-l10n-name="url">{ -brand-short-name } 지원</a>에 방문하세요.
 
 ## General Section
@@ -203,6 +209,7 @@ play-drm-content-learn-more = 더 알아보기
 update-application-title = { -brand-short-name } 업데이트
 update-application-description = { -brand-short-name }가 최상의 성능, 안정성, 보안을 유지할 수 있도록 최신 버전으로 유지힙니다.
 update-application-info = 버전 { $version } <a>새로운 기능</a>
+update-application-version = 버전 { $version } <a data-l10n-name="learn-more">새로운 기능</a>
 update-history =
     .label = 업데이트 기록 보기…
     .accesskey = p
