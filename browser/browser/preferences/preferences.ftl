@@ -67,13 +67,6 @@ restart-later = بعداْ راه‌اندازی مجدد شود
 ## Preferences UI Search Results
 
 search-results-header = نتایج جستجو
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] متاسفیم! هیچ نتیجه‌ای در گزینه‌ها برای «<span></span>» وجود ندارد.
-       *[other] متاسفیم! هیچ نتیجه‌ای در ترجیحات برای «<span></span>» وجود ندارد.
-    }
-search-results-need-help = نیاز به راهنمایی دارید؟ از <a>پشتیبانی { -brand-short-name }</a> دیدن کنید
 
 ## General Section
 
@@ -440,9 +433,6 @@ privacy-header = حریم خصوصی مرورگر
 ## Privacy Section - Forms
 
 forms-header = فرم‌ها و گذرواژه‌ها
-forms-remember-logins =
-    .label = ورودها و گذرواژه‌ها را برای‌ این پایگاه‌ اینترنتی به خاطر بسپار
-    .accesskey = و
 forms-exceptions =
     .label = استثناها…
     .accesskey = ث
@@ -516,7 +506,6 @@ addressbar-suggestions-settings = تغییر ترجیحات مربوط به پی
 ## Privacy Section - Tracking
 
 tracking-header = محافظت در برابر ردگیری
-tracking-description = محافظت از ردیابی دنبال کنندگان انلاینی را که اطلاعات مرورکردن شما را از چند وب سایت مختلف دریافت می کردند مسدود کرده است. <a>در مورد محافظت از ردیابی و حریم شخصی خود بیشتر بدانید</a>
 tracking-mode-label = استفاده از محافظ ردیابی برای مسدود کردند دنبال کنندگان ناشناس
 tracking-mode-always =
     .label = همیشه
