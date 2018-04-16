@@ -76,13 +76,6 @@ restart-later = Ponovno zaženi pozneje
 ## Preferences UI Search Results
 
 search-results-header = Rezultati iskanja
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] Oprostite! V možnostih ni zadetkov za “<span></span>”.
-       *[other] Oprostite! V nastavitvah ni zadetkov za “<span></span>”.
-    }
-search-results-need-help = Potrebujete pomoč? Obiščite <a>Podpora za { -brand-short-name }</a>
 
 ## General Section
 
@@ -475,9 +468,6 @@ privacy-header = Zasebnost brskalnika
 ## Privacy Section - Forms
 
 forms-header = Obrazci in gesla
-forms-remember-logins =
-    .label = Zapomni si prijave in gesla spletnih strani
-    .accesskey = Z
 forms-exceptions =
     .label = Izjeme …
     .accesskey = i
@@ -563,7 +553,6 @@ addressbar-suggestions-settings = Spremeni nastavitve predlogov iskanja
 ## Privacy Section - Tracking
 
 tracking-header = Zaščita pred sledenjem
-tracking-description = Zaščita pred sledenjem zavrača spletne sledilce, ki zbirajo podatke brskanja po spletnih straneh. <a>Več o zaščiti pred sledenjem in vaši zasebnost</a>
 tracking-mode-label = Uporabljaj zaščito pred sledenjem za zavračanje znanih sledilcev
 tracking-mode-always =
     .label = Vedno
