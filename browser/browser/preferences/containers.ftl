@@ -36,17 +36,6 @@ containers-color-label = Barva
 containers-button-done =
     .label = Hotovo
     .accesskey = H
-containers-remove-alert-title = Odstranit tento kontejner?
-# Variables:
-#   $count (Number) - Number of tabs that will be closed.
-containers-remove-alert-msg =
-    { $count ->
-        [one] Pokud odstraníte tento kontejner, bude zavřen { $count } kontejnerový panel. Opravdu chcete kontejner odstranit?
-        [few] Pokud odstraníte tento kontejner, budou zavřeny { $count } kontejnerové panely. Opravdu chcete kontejner odstranit?
-       *[other] Pokud odstraníte tento kontejner, bude zavřeno { $count } kontejnerových panelů. Opravdu chcete kontejner odstranit?
-    }
-containers-remove-ok-button = Odstranit tento kontejner
-containers-remove-cancel-button = Neodstraňovat tento kontejner
 containers-color-blue =
     .label = Modrá
 containers-color-turquoise =
