@@ -76,6 +76,12 @@ restart-later = הפעלה מחדש מאוחר יותר
 ## Preferences UI Search Results
 
 search-results-header = תוצאות חיפוש
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] אין תוצאות באפשרויות לביטוי „<span data-l10n-name="query"></span>“, עמך הסליחה.
+       *[other] אין תוצאות בהעדפות לביטוי „<span data-l10n-name="query"></span>“, עמך הסליחה.
+    }
 
 ## General Section
 
