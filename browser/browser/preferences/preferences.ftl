@@ -73,6 +73,7 @@ search-results-empty-message =
         [windows] “<span data-l10n-name="query"></span>” オプションについての検索結果はありません。
        *[other] “<span data-l10n-name="query"></span>” 設定についての検索結果はありません。
     }
+search-results-help-link = 助けが必要な方は、<a data-l10n-name="url">{ -brand-short-name } サポート</a> をご利用ください
 
 ## General Section
 
@@ -202,6 +203,7 @@ play-drm-content-learn-more = 詳細情報
 update-application-title = { -brand-short-name } の更新
 update-application-description = 最高のパフォーマンスと安定性、セキュリティを提供するため { -brand-short-name } を最新の状態に保ちます。
 update-application-info = バージョン { $version } <a>更新情報</a>
+update-application-version = バージョン { $version } <a data-l10n-name="learn-more">更新情報</a>
 update-history =
     .label = 更新履歴を表示...
     .accesskey = p
@@ -522,6 +524,7 @@ addressbar-suggestions-settings = 検索エンジンの検索候補の設定を�
 ## Privacy Section - Tracking
 
 tracking-header = トラッキング防止
+tracking-desc = トラッキング防止は、複数のウェブサイトにまたがるユーザーのブラウジングデータを収集するオンラインの追跡者をブロックします。 <a data-l10n-name="learn-more">トラッキング防止とプライバシーの詳細情報</a>
 tracking-mode-label = トラッキング防止を使用して既知の追跡者をブロックする
 tracking-mode-always =
     .label = 常に
