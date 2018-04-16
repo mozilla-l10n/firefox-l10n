@@ -154,6 +154,14 @@ containers-disable-alert-ok-button =
     }
 containers-disable-alert-cancel-button = Пакінуць уключанымі
 containers-remove-alert-title = Выдаліць гэты кантэйнер?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Калі вы зараз выдаліце гэты кантэйнер, будзе закрыта { $count } картка кантэйнера. Вы сапраўды хочаце выдаліць кантэйнер?
+        [few] Калі вы зараз выдаліце гэты кантэйнер, будуць закрыты { $count } карткі кантэйнера. Вы сапраўды хочаце выдаліць кантэйнер?
+       *[many] Калі вы зараз выдаліце гэты кантэйнер, будуць закрыты { $count } картак кантэйнера. Вы сапраўды хочаце выдаліць кантэйнер?
+    }
 containers-remove-ok-button = Выдаліць гэты кантэйнер
 containers-remove-cancel-button = Не выдаляць гэты кантэйнер
 
