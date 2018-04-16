@@ -82,6 +82,7 @@ search-results-empty-message =
         [windows] Pardono! Il ha nulle resultato in le optiones pro “<span data-l10n-name="query"></span>”.
        *[other] Pardono! Il ha nulle resultato in le preferentias pro “<span data-l10n-name="query"></span>”.
     }
+search-results-help-link = Besonia tu de adjuta? Visita <a data-l10n-name="url">Auxilio de { -brand-short-name }</a>
 
 ## General Section
 
@@ -219,6 +220,7 @@ play-drm-content-learn-more = Saper plus
 update-application-title = Actualisationes de { -brand-short-name }
 update-application-description = Mantene { -brand-short-name } actualisate pro le melior rendimento, stabilitate e securitate.
 update-application-info = Version { $version } <a>Novas</a>
+update-application-version = Version { $version } <a data-l10n-name="learn-more">Novas</a>
 update-history =
     .label = Monstrar le chronologia de actualisationes…
     .accesskey = M
@@ -561,6 +563,7 @@ addressbar-suggestions-settings = Cambiar le preferentias pro le suggestiones de
 ## Privacy Section - Tracking
 
 tracking-header = Protection contra le traciamento
+tracking-desc = Le protection de traciamento bloca le traciatores online que collige tu datos de navigation inter plure sitos web. <a data-l10n-name="learn-more">Apprende altero re le protection de traciamento e tu confidentialitate</a>
 tracking-mode-label = Usar le protection contra le traciamento pro blocar traciatores cognoscite
 tracking-mode-always =
     .label = Sempre
