@@ -67,6 +67,12 @@ restart-later = Restartuj kasnije
 ## Preferences UI Search Results
 
 search-results-header = Rezultati pretrage
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Žao nam je! Nema rezultata u Opcijama za “<span data-l10n-name="query"></span>”.
+       *[other] Žao nam je! Nema rezultata u Postavkama za “<span data-l10n-name="query"></span>”.
+    }
 
 ## General Section
 
@@ -206,6 +212,7 @@ play-drm-content-learn-more = Saznajte više
 update-application-title = { -brand-short-name } nadogradnje
 update-application-description = Nadograđuj { -brand-short-name } radi najboljih performansi, stabilnosti i sigurnosti.
 update-application-info = Verzija { $version } <a>Šta je novo</a>
+update-application-version = Verzija { $version } <a data-l10n-name="learn-more">Šta je novo</a>
 update-history =
     .label = Prikaži historijat nadogradnji…
     .accesskey = P
@@ -241,6 +248,7 @@ performance-limit-content-process-option = Limit procesa sadržaja
     .accesskey = L
 performance-limit-content-process-enabled-desc = Dodatni procesi sadržaja mogu unaprijediti performanse kada koristite više tabova, ali će koristiti više memorije.
 performance-limit-content-process-disabled-desc = Promjena broja procesa sadržaja je moguća samo sa multiprocesnim { -brand-short-name }om. <a>Saznajte kako provjeriti da li su multiprocesi omogućeni</a>
+performance-limit-content-process-blocked-desc = Promjena broja procesa sadržaja je moguća samo sa multiprocesnim { -brand-short-name }om. <a data-l10n-name="learn-more">Saznajte kako provjeriti da li su multiprocesi omogućeni</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
