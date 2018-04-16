@@ -472,6 +472,9 @@ privacy-header = 瀏覽器隱私權
 ## Privacy Section - Forms
 
 forms-header = 表單與密碼
+forms-ask-to-save-logins =
+    .label = 向您詢問是否要記住網站的登入帳號與密碼
+    .accesskey = r
 forms-exceptions =
     .label = 例外網站…
     .accesskey = x
