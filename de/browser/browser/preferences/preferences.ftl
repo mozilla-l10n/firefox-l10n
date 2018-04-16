@@ -73,6 +73,13 @@ restart-later = Später neu starten
 ## Preferences UI Search Results
 
 search-results-header = Suchergebnisse
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Keine Treffer in den Einstellungen für "<span data-l10n-name="query"></span>".
+       *[other] Keine Treffer in den Einstellungen für "<span data-l10n-name="query"></span>".
+    }
+search-results-help-link = Benötigen Sie Hilfe? Dann besuchen Sie die <a data-l10n-name="url">Hilfeseite für { -brand-short-name }</a>.
 
 ## General Section
 
@@ -210,6 +217,7 @@ play-drm-content-learn-more = Weitere Informationen
 update-application-title = { -brand-short-name }-Updates
 update-application-description = { -brand-short-name } aktuell halten, um höchste Leistung, Stabilität und Sicherheit zu erfahren.
 update-application-info = Version { $version } <a>Neue Funktionen und Änderungen</a>
+update-application-version = Version { $version } <a data-l10n-name="learn-more">Neue Funktionen und Änderungen</a>
 update-history =
     .label = Update-Chronik anzeigen…
     .accesskey = C
@@ -245,6 +253,7 @@ performance-limit-content-process-option = Maximale Anzahl an Inhaltsprozessen
     .accesskey = M
 performance-limit-content-process-enabled-desc = Mehr Inhaltsprozesse verbessern die Leistung bei Verwendung mehrerer Tabs, aber nutzen auch mehr Arbeitsspeicher.
 performance-limit-content-process-disabled-desc = Das Ändern der Anzahl der Inhaltsprozesse ist nur in { -brand-short-name } mit mehreren Prozessen möglich. <a>Wie Sie herausfinden, ob Firefox mit mehreren Prozessen ausgeführt wird</a>
+performance-limit-content-process-blocked-desc = Das Ändern der Anzahl der Inhaltsprozesse ist nur in { -brand-short-name } mit mehreren Prozessen möglich. <a data-l10n-name="learn-more">Wie Sie herausfinden, ob Firefox mit mehreren Prozessen ausgeführt wird</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -527,6 +536,7 @@ addressbar-suggestions-settings = Einstellungen für Suchvorschläge ändern
 ## Privacy Section - Tracking
 
 tracking-header = Schutz vor Aktivitätenverfolgung
+tracking-desc = Der Schutz vor Aktivitätenverfolgung blockiert nur Systeme, welche Ihr Surfverhalten über mehrere Websites verteilt aufzeichnen. <a data-l10n-name="learn-more">Weitere Informationen zum Schutz Ihrer Privatsphäre und vor Aktivitätenverfolgung</a>
 tracking-mode-label = Schutz vor Aktivitätenverfolgung verwenden, um bekannte Aktivitäten verfolgende Systeme zu blockieren
 tracking-mode-always =
     .label = Immer
