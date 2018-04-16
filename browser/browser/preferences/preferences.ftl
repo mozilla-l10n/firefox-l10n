@@ -76,13 +76,6 @@ restart-later = Վերամեկնարկել հետո
 ## Preferences UI Search Results
 
 search-results-header = Որոնման արդյունքներ
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] Արդյունքներ չկան Ընտրանքներում “<span></span>”-ի համար:
-       *[other] Կարգավորումներում այլ արդյունքներ չկան “<span></span>”-ի համար:
-    }
-search-results-need-help = Օգնությու՞ն է պետք: Այցելեք <a>{ -brand-short-name } աջակցում</a>
 
 ## General Section
 
@@ -472,9 +465,6 @@ privacy-header = Դիտարկիչի գաղտնիություն
 ## Privacy Section - Forms
 
 forms-header = Ձևեր և գաղտնաբառեր
-forms-remember-logins =
-    .label = Հիշել մուտքագրումները և գաղտնաբառերը կայքերի համար
-    .accesskey = R
 forms-exceptions =
     .label = Բացառություններ…
     .accesskey = ա
@@ -564,7 +554,6 @@ addressbar-suggestions-settings = Փոխել որոնիչների նախապատ
 ## Privacy Section - Tracking
 
 tracking-header = Հետագծման պաշտպանություն
-tracking-description = Հետագծման պաշտպանությունը արգելափակում է առցանց հետագծումները, որոնք հավաքում են դիտարկումների ձեր տվյալները տարբեր կայքերում: <a>Իմանալ ավելին ՀԵտագծման պաշտպանության և ձեր գաղտնիության մասին</a>
 tracking-mode-label = Օգտագործեք Հետագծման պաշտպանությունը՝ արգելափակելու հայտնի հետագծումները
 tracking-mode-always =
     .label = Միշտ
