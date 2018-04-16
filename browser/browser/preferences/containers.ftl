@@ -36,16 +36,6 @@ containers-color-label = Cô
 containers-button-done =
     .label = Fæto
     .accesskey = F
-containers-remove-alert-title = Scancelâ sto contegnitô?
-# Variables:
-#   $count (Number) - Number of tabs that will be closed.
-containers-remove-alert-msg =
-    { $count ->
-        [one] Se ti ti scancelli sto Contegnitô oua, { $count } contegnitô de feuggi saiâ serou. T'ê seguo de scancelâ sto Contegnitô?
-       *[other] Se ti ti scancelli sto Contegnitô oua, { $count } contegnitoî de feuggi saian seræ. T'ê seguo de scancelâ sto Contegnitô?
-    }
-containers-remove-ok-button = Scancella sto Contegnitô
-containers-remove-cancel-button = No scancelâ sto Contegnitô
 containers-color-blue =
     .label = Bleu
 containers-color-turquoise =
