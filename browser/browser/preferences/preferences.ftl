@@ -76,13 +76,6 @@ restart-later = Reinicia més tard
 ## Preferences UI Search Results
 
 search-results-header = Resultats de la cerca
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] No s'ha trobat «<span></span>» a les opcions.
-       *[other] No s'ha trobat «<span></span>» a les preferències.
-    }
-search-results-need-help = Necessiteu ajuda? Visiteu l'<a>assistència del { -brand-short-name }</a>
 
 ## General Section
 
@@ -471,9 +464,6 @@ privacy-header = Privadesa del navegador
 ## Privacy Section - Forms
 
 forms-header = Formularis i contrasenyes
-forms-remember-logins =
-    .label = Recorda les dades d'inici de sessió i contrasenyes dels llocs web
-    .accesskey = R
 forms-exceptions =
     .label = Excepcions…
     .accesskey = x
@@ -563,7 +553,6 @@ addressbar-suggestions-settings = Canvia les preferències dels suggeriments de 
 ## Privacy Section - Tracking
 
 tracking-header = Protecció contra el seguiment
-tracking-description = La protecció contra el seguiment bloca els elements de seguiment que recullen de les vostres dades de navegació pels diferents llocs web. <a>Més informació sobre la protecció contra el seguiment i la vostra privadesa</a>
 tracking-mode-label = Utilitza la protecció contra el seguiment per blocar elements de seguiment coneguts
 tracking-mode-always =
     .label = Sempre
