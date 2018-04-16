@@ -151,6 +151,16 @@ containers-disable-alert-ok-button =
        *[other] { $tabCount } kontenerljepblêden slute
     }
 containers-disable-alert-cancel-button = Ynskeakele litte
+containers-remove-alert-title = Dizze kontener fuortsmite?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] As jo dizze kontener no fuortsmite, sil { $count } kontenerljepblêd sluten wurde. Binne jo wis dat jo dizze kontener fuortsmite wolle?
+       *[other] As jo dizze kontener no fuortsmite, sille { $count } kontenerljepblêden sluten wurde. Binne jo wis dat jo dizze kontener fuortsmite wolle?
+    }
+containers-remove-ok-button = Dizze kontener fuortsmite
+containers-remove-cancel-button = Dizze kontener net fuortsmite
 
 ## General Section - Language & Appearance
 
