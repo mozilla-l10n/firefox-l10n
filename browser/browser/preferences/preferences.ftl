@@ -76,6 +76,7 @@ restart-later = પછી પુનઃશરૂ કરો
 ## Preferences UI Search Results
 
 search-results-header = શોધ પરિણામ
+search-results-help-link = મદદ જોઈઅે છે? <a data-l10n-name="url">{ -brand-short-name } સમર્થન</a> ની મુલાકાત લો
 
 ## General Section
 
@@ -213,6 +214,7 @@ play-drm-content-learn-more = વધુ શીખો
 update-application-title = { -brand-short-name } સુધારો
 update-application-description = શ્રેષ્ઠ પ્રદર્શન, સ્થિરતા અને સુરક્ષા માટે { -brand-short-name } અધતન રાખો.
 update-application-info = આવૃત્તિ { $version } <a>નવું શું છે</a>
+update-application-version = આવૃત્તિ { $version } <a data-l10n-name="learn-more">નવું શું છે</a>
 update-history =
     .label = અપડેટ ઇતિહાસ બતાવો…
     .accesskey = P
@@ -248,6 +250,7 @@ performance-limit-content-process-option = સામગ્રી પ્રક્
     .accesskey = L
 performance-limit-content-process-enabled-desc = બહુવિધ ટૅબ્સનો ઉપયોગ કરતી વખતે વધારાની સામગ્રી પ્રક્રિયાઓ પ્રભાવ સુધારી શકે છે, પરંતુ તે વધુ મેમરીનો પણ ઉપયોગ કરશે.
 performance-limit-content-process-disabled-desc = મલ્ટિપ્રોસેસ સાથે સામગ્રી પ્રોસેસની સંખ્યામાં ફેરફાર કરવો શક્ય છે { -brand-short-name }. <a>મલ્ટિપ્રોસેસ સક્રિય કરે છે કે નહીં તે કેવી રીતે તપાસવું તે જાણો</a>
+performance-limit-content-process-blocked-desc = મલ્ટિપ્રોસેસ સાથે સામગ્રી પ્રોસેસની સંખ્યામાં ફેરફાર કરવો શક્ય છે { -brand-short-name }. <a data-l10n-name="learn-more">મલ્ટિપ્રોસેસ સક્રિય કરે છે કે નહીં તે કેવી રીતે તપાસવું તે જાણો</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
