@@ -36,16 +36,6 @@ containers-color-label = Kolorea
 containers-button-done =
     .label = Eginda
     .accesskey = E
-containers-remove-alert-title = Edukiontzi hau kendu?
-# Variables:
-#   $count (Number) - Number of tabs that will be closed.
-containers-remove-alert-msg =
-    { $count ->
-        [one] Edukiontzi hau orain kenduz gero, edukiontzi-fitxa bat itxi egingo da. Ziur zaude edukiontzi hau kendu nahi duzula?
-       *[other] Edukiontzi hau orain kenduz gero, { $count } edukiontzi-fitxa itxi egingo dira. Ziur zaude edukiontzi hau kendu nahi dituzula?
-    }
-containers-remove-ok-button = Kendu edukiontzia
-containers-remove-cancel-button = Ez kendu edukiontzia
 containers-color-blue =
     .label = Urdina
 containers-color-turquoise =
