@@ -153,6 +153,9 @@ containers-disable-alert-ok-button =
        *[other] Închide { $tabCount } de containere de file
     }
 containers-disable-alert-cancel-button = Păstrează activat
+containers-remove-alert-title = Elimini acest container?
+containers-remove-ok-button = Elimină acest container
+containers-remove-cancel-button = Nu elimina acest container
 
 ## General Section - Language & Appearance
 
