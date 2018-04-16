@@ -76,6 +76,13 @@ restart-later = 稍後再重新啟動
 ## Preferences UI Search Results
 
 search-results-header = 搜尋結果
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] 抱歉！沒有「<span data-l10n-name="query"></span>」的選項搜尋結果。
+       *[other] 抱歉！沒有「<span data-l10n-name="query"></span>」的偏好設定搜尋結果。
+    }
+search-results-help-link = 需要幫忙嗎？請到 <a data-l10n-name="url">{ -brand-short-name } 技術支援</a>
 
 ## General Section
 
@@ -205,6 +212,7 @@ play-drm-content-learn-more = 詳細資訊
 update-application-title = { -brand-short-name } 更新
 update-application-description = 保持更新 { -brand-short-name }，獲得最佳效能、穩定度以及安全性。
 update-application-info = { $version }版 <a>有什麼新鮮事</a>
+update-application-version = { $version }版 <a data-l10n-name="learn-more">有什麼新鮮事</a>
 update-history =
     .label = 顯示更新紀錄…
     .accesskey = p
@@ -240,6 +248,7 @@ performance-limit-content-process-option = 內容處理程序數量限制
     .accesskey = L
 performance-limit-content-process-enabled-desc = 調高內容處理程序的數量，可改善開啟多個分頁時的效能，但也會使用更多記憶體。
 performance-limit-content-process-disabled-desc = 僅能在多程序的 { -brand-short-name } 當中修改內容處理程序數量。 <a>了解如何確認多程序模式是否已開啟</a>
+performance-limit-content-process-blocked-desc = 僅能在多程序的 { -brand-short-name } 當中修改內容處理程序數量。 <a data-l10n-name="learn-more">了解如何確認多程序模式是否已開啟</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -546,6 +555,7 @@ addressbar-suggestions-settings = 修改搜尋建議偏好設定
 ## Privacy Section - Tracking
 
 tracking-header = 追蹤保護
+tracking-desc = 追蹤保護功能會封鎖在不同網站間收集您的瀏覽資料的網路追蹤器。 <a data-l10n-name="learn-more">了解有關追蹤保護功能，以及您的隱私權的更多資訊</a>
 tracking-mode-label = 使用追蹤保護功能，封鎖已知的追蹤器
 tracking-mode-always =
     .label = 總是
