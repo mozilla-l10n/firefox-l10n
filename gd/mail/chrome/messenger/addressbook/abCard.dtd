@@ -1,0 +1,66 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY Contact.tab                     "Neach-aithne">
+<!ENTITY Contact.accesskey               "C">
+<!ENTITY Name.box                        "Ainm">
+
+<!-- LOCALIZATION NOTE:
+ NameField1, NameField2, PhoneticField1, PhoneticField2
+ those fields are either LN or FN depends on the target country.
+ "FirstName" and "LastName" can be swapped for id to change the order
+ but they should not be translated (same applied to phonetic id).
+ Make sure the translation of label corresponds to the order of id.
+-->
+
+<!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
+<!ENTITY NameField1.id                  "FirstName">
+<!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
+<!ENTITY NameField2.id                  "LastName">
+<!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField1.id              "PhoneticFirstName">
+<!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField2.id              "PhoneticLastName">
+
+<!ENTITY NameField1.label               "Ainm:">
+<!ENTITY NameField1.accesskey           "F">
+<!ENTITY NameField2.label               "Sloinneadh:">
+<!ENTITY NameField2.accesskey           "L">
+<!ENTITY PhoneticField1.label           "Tar-sgrìobhadh:">
+<!ENTITY PhoneticField2.label           "Tar-sgrìobhadh:">
+<!ENTITY DisplayName.label              "Ainm-seallaidh:">
+<!ENTITY DisplayName.accesskey          "D">
+<!ENTITY preferDisplayName.label        "'S fhearr leam an t-ainm-taisbeanaidh seach bann-cinn na teachdaireachd an-còmhnaidh">
+<!ENTITY preferDisplayName.accesskey    "y">
+<!ENTITY NickName.label                 "Far-ainm:">
+<!ENTITY NickName.accesskey             "N">
+
+<!ENTITY PrimaryEmail.label             "Post-d:">
+<!ENTITY PrimaryEmail.accesskey         "E">
+<!ENTITY SecondEmail.label              "Post-d eile:">
+<!ENTITY SecondEmail.accesskey          "i">
+<!ENTITY PreferMailFormat.label         "B’ fhearr leis an neach seo teachdaireachdan leis an fhòrmatadh:">
+<!ENTITY PreferMailFormat.accesskey     "v">
+<!ENTITY PlainText.label                "Teacsa lom">
+<!ENTITY HTML.label                     "HTML">
+<!ENTITY Unknown.label                  "Neo-aithnichte">
+<!ENTITY chatName.label                 "Ainm cabadaich:">
+
+<!ENTITY WorkPhone.label                "Obair:">
+<!ENTITY WorkPhone.accesskey            "k">
+<!ENTITY HomePhone.label                "Dachaigh:">
+<!ENTITY HomePhone.accesskey            "m">
+<!ENTITY FaxNumber.label                "Facs:">
+<!ENTITY FaxNumber.accesskey            "x">
+<!ENTITY PagerNumber.label              "Pèidsear:">
+<!ENTITY PagerNumber.accesskey          "g">
+<!ENTITY CellularNumber.label           "Fòn-làimhe:">
+<!ENTITY CellularNumber.accesskey       "b">
+
+<!ENTITY Home.tab                       "Prìobhaideach">
+<!ENTITY Home.accesskey                 "P">
+
+
+
+
