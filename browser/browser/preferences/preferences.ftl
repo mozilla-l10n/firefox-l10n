@@ -76,6 +76,7 @@ restart-later = Reiniciar después
 ## Preferences UI Search Results
 
 search-results-header = Buscar resultados
+search-results-help-link = ¿Necesitas ayuda? Visita <a data-l10n-name="url">Apoyo de { -brand-short-name }</a>
 
 ## General Section
 
@@ -554,6 +555,7 @@ addressbar-suggestions-settings = Cambiar las preferencias para las sugerencias 
 ## Privacy Section - Tracking
 
 tracking-header = Protección contra rastreo
+tracking-desc = Protección de rastreo bloquea a los rastreadores en línea que recolecta tus datos de navegación a través de múltiples sitios web. <a data-l10n-name="learn-more">Saber más acerca de la protección de rastreo y tu privacidad</a>
 tracking-mode-label = Usar protección de rastreo para bloquear rastreadores conocidos
 tracking-mode-always =
     .label = Siempre
