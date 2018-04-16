@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
-<!ENTITY aboutUrlClassifier.pageTitle                   "Url-classifier সম্পর্কে তথ্য">
+<!ENTITY aboutUrlClassifier.title                       "URL এর শ্রেনীগত তথ্য">
 <!ENTITY aboutUrlClassifier.providerTitle               "পরিষেবা প্রদানকারী">
 <!ENTITY aboutUrlClassifier.provider                    "পরিষেবা প্রদানকারী">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "সর্বশেষ হালনাগাদের সময়">
