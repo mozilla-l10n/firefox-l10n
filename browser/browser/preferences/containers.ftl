@@ -36,17 +36,6 @@ containers-color-label = Krāsa
 containers-button-done =
     .label = Gatavs
     .accesskey = G
-containers-remove-alert-title = Noņemt šo konteineru?
-# Variables:
-#   $count (Number) - Number of tabs that will be closed.
-containers-remove-alert-msg =
-    { $count ->
-        [zero] Ja noņemsiet šo konteineru { $count } konteineru cilnes tiks aizvērtas. Vai tiešām noņemt šo konteineru?
-        [one] Ja noņemsiet šo konteineru { $count } konteineru cilne tiks aizvērta. Vai tiešām noņemt šo konteineru?
-       *[other] Ja noņemsiet šo konteineru { $count } konteineru cilnes tiks aizvērtas. Vai tiešām noņemt šo konteineru?
-    }
-containers-remove-ok-button = Noņemt šo konteineru
-containers-remove-cancel-button = Nenoņemt šo konteineru
 containers-color-blue =
     .label = Zils
 containers-color-turquoise =
