@@ -67,13 +67,6 @@ restart-later = Daha sonra yeniden başlat
 ## Preferences UI Search Results
 
 search-results-header = Qıdırma Neticeleri
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] Afu etiñiz! Seçenekler'de “<span></span>” içün neticeler yoq.
-       *[other] Afu etiñiz! Tercihler'de “<span></span>” içün neticeler yoq.
-    }
-search-results-need-help = Yardım kerekmi? <a>{ -brand-short-name } Destegi</a>’ni ziyaret etiñiz.
 
 ## General Section
 
@@ -440,9 +433,6 @@ privacy-header = Kezici Hususiyatı
 ## Privacy Section - Forms
 
 forms-header = Formalar & Sır-sözler
-forms-remember-logins =
-    .label = Ağ-saytları içün içeri-imzalanışlar ve sır-sözlerni hatırla
-    .accesskey = h
 forms-exceptions =
     .label = İstisnalar…
     .accesskey = a
@@ -509,7 +499,6 @@ addressbar-suggestions-settings = Qıdırma motorları telqinleri içün tercihl
 ## Privacy Section - Tracking
 
 tracking-header = İzlenme İmayesi
-tracking-description = İzlenme İmayesi, müetaddit sayt arqalı seyran verileriñizni toplağan hat-üstü izcilerni bloklar. <a>İzlenme İmayesi ve hususiyatıñız aqqında daa çoq ögreniñiz.</a>
 tracking-mode-label = Malüm izcilerni bloklamaq içün İzlenme İmayesi'ni qullan.
 tracking-mode-always =
     .label = Er zaman
