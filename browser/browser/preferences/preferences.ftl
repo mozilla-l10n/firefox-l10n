@@ -147,6 +147,16 @@ containers-disable-alert-ok-button =
        *[other] Sulge { $tabCount } konteinerkaarti
     }
 containers-disable-alert-cancel-button = Ära keela
+containers-remove-alert-title = Konteineri eemaldamine
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Kui eemaldad selle konteineri, siis konteinerkaart suletakse. Kas oled kindel, et soovid selle konteineri eemaldada?
+       *[other] Kui eemaldad selle konteineri, siis suletakse { $count } konteinerkaarti. Kas oled kindel, et soovid selle konteineri eemaldada?
+    }
+containers-remove-ok-button = Eemalda see konteiner
+containers-remove-cancel-button = Ära eemalda seda konteinerit
 
 ## General Section - Language & Appearance
 
