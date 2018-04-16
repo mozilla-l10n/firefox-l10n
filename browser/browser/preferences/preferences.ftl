@@ -76,6 +76,12 @@ restart-later = Redémarrer plus tard
 ## Preferences UI Search Results
 
 search-results-header = Résultats de la recherche
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Désolé, il n’y a aucun résultat dans les options pour « <span data-l10n-name="query"></span> ».
+       *[other] Désolé, il n’y a aucun résultat dans les préférences pour « <span data-l10n-name="query"></span> ».
+    }
 
 ## General Section
 
@@ -213,6 +219,7 @@ play-drm-content-learn-more = En savoir plus
 update-application-title = Mises à jour de { -brand-short-name }
 update-application-description = Conservez { -brand-short-name } à jour pour bénéficier des dernières avancées en matière de performances, de stabilité et de sécurité.
 update-application-info = Version { $version } <a>Notes de version</a>
+update-application-version = Version { $version } <a data-l10n-name="learn-more">Notes de version</a>
 update-history =
     .label = Afficher l’historique des mises à jour…
     .accesskey = h
@@ -248,6 +255,7 @@ performance-limit-content-process-option = Nombre maximum de processus de conten
     .accesskey = N
 performance-limit-content-process-enabled-desc = Davantage de processus de contenu peut améliorer les performances lors de l’utilisation de plusieurs onglets, cependant la consommation de mémoire sera plus importante.
 performance-limit-content-process-disabled-desc = Modifier le nombre de processus de contenu est possible uniquement avec la version multiprocessus de { -brand-short-name }. <a>Apprendre à vérifier si le mode multiprocessus est activé</a>
+performance-limit-content-process-blocked-desc = Modifier le nombre de processus de contenu est possible uniquement avec la version multiprocessus de { -brand-short-name }. <a data-l10n-name="learn-more">Apprendre à vérifier si le mode multiprocessus est activé</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -549,6 +557,7 @@ addressbar-suggestions-settings = Modifier les préférences pour les suggestion
 ## Privacy Section - Tracking
 
 tracking-header = Protection contre le pistage
+tracking-desc = La protection contre le pistage bloque les traqueurs en ligne qui collectent vos données de navigation depuis plusieurs sites web. <a data-l10n-name="learn-more">En savoir plus sur la protection contre le pistage et sur la protection de votre vie privée</a>
 tracking-mode-label = Utiliser la protection contre le pistage pour bloquer les traqueurs connus
 tracking-mode-always =
     .label = Toujours
