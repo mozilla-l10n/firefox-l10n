@@ -207,6 +207,7 @@ play-drm-content-learn-more = Karagdagang kaalaman
 update-application-title = Mga update ng { -brand-short-name }
 update-application-description = Panatilihin ang { -brand-short-name } na updated para mahusay ang pagtakbo, katatagan, at seguridad.
 update-application-info = Bersyon { $version } <a>Ano ang bago?</a>
+update-application-version = Bersyon { $version } <a data-l10n-name="learn-more">Ano ang bago?</a>
 update-history =
     .label = Ipakita ang kasaysayan nang pag-update…
     .accesskey = p
@@ -468,6 +469,7 @@ addressbar-suggestions-settings = Baguhin ang mga kagustuhan para sa mga suhesti
 ## Privacy Section - Tracking
 
 tracking-header = Proteksyon sa Pagsubaybay
+tracking-desc = Ang Proteksyon sa Pagsubaybay ay naghaharang sa mga online na tracker na nagkokolekta ng iyong impormasyon tungkol sa pag-browse sa maramihang mga website. <a data-l10n-name="learn-more">Matuto nang higit pa tungkol sa Proteksyon sa Pagsubaybay at iyong pagiging pribado</a>
 tracking-mode-label = Gamitin ang Proteksyon sa Pagsubaybay upang harangan ang mga kilalang tracker
 tracking-mode-always =
     .label = Palagi
