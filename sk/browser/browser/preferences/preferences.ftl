@@ -76,13 +76,6 @@ restart-later = Reštartovať neskôr
 ## Preferences UI Search Results
 
 search-results-header = Výsledky vyhľadávania
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] Mrzí nás to, no pre hľadaný výraz “<span></span>” sme v možnostiach nič nenašli.
-       *[other] Mrzí nás to, no pre hľadaný výraz “<span></span>” sme v možnostiach nič nenašli.
-    }
-search-results-need-help = Potrebujete pomoc? Navštívte <a>podporu aplikácie { -brand-short-name }</a>
 
 ## General Section
 
@@ -473,9 +466,6 @@ privacy-header = Súkromie
 ## Privacy Section - Forms
 
 forms-header = Formuláre a heslá
-forms-remember-logins =
-    .label = Pamätať si používateľské mená a heslá na stránkach
-    .accesskey = t
 forms-exceptions =
     .label = Výnimky…
     .accesskey = m
@@ -565,7 +555,6 @@ addressbar-suggestions-settings = Zmeniť nastavenia pre návrhy vyhľadávania
 ## Privacy Section - Tracking
 
 tracking-header = Ochrana pred sledovaním
-tracking-description = Ochrana pred sledovaním blokuje sledovacie prvky, ktoré o vás zbierajú údaje naprieč webovými stránkami. <a>Ďalšie informácie o Ochrane pred sledovaním a o vašom súkromí</a>
 tracking-mode-label = Blokovať známe sledovacie prvky pomocou Ochrany pred sledovaním
 tracking-mode-always =
     .label = Vždy
