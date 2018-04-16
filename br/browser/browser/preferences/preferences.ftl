@@ -82,6 +82,7 @@ search-results-empty-message =
         [windows] Digarezit! N'eus disoc'h ebet en dibarzhioù evit “<span data-l10n-name="query"></span>”.
        *[other] Digarezit! N'eus disoc'h ebet er Gwellvezioù evit “<span data-l10n-name="query"></span>”.
     }
+search-results-help-link = Ezhomm sikour? Gweladenniñ <a data-l10n-name="url">Skoazell { -brand-short-name }</a>
 
 ## General Section
 
@@ -563,6 +564,7 @@ addressbar-suggestions-settings = Kemmañ ar gwellvezioù evit ar c'hinnigoù lu
 ## Privacy Section - Tracking
 
 tracking-header = Gwarez heuliañ
+tracking-desc = Ar gwarez heuliañ a stank an heulierien enlinenn a zastum ho roadennoù merdeiñ war meur a lec'hienn. <a data-l10n-name="learn-more">Gouzout hiroc'h a-zivout ar gwarez heuliañ hag ho puhez prevez</a>
 tracking-mode-label = Arverañ ar gwarez heuliañ evit stankañ heulierien anavezet
 tracking-mode-always =
     .label = Atav
