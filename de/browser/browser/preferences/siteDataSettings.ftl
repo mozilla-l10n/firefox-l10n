@@ -5,6 +5,8 @@
 
 ## Settings
 
+site-data-settings-window =
+    .title = Cookies und Website-Daten verwalten
 site-data-search-textbox =
     .placeholder = Websites suchen
     .accesskey = s
@@ -26,3 +28,6 @@ site-data-button-save =
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-header = Cookies und Website-Daten löschen
+site-data-removing-desc = Durch das Löschen von Cookies und Website-Daten werden Sie eventuell von Websites abgemeldet. Sollen diese Änderungen wirklich vorgenommen werden?
+site-data-removing-table = Cookies und Website-Daten der folgenden Websites werden verwendet
