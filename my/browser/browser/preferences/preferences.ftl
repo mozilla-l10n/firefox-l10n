@@ -76,6 +76,12 @@ restart-later = နောက်မှ ပြန်ဖွင့်ပါ
 ## Preferences UI Search Results
 
 search-results-header = ရှာဖွေမှု ရလဒ်များ
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] ဝမ်းနည်းပါတယ်။ အပြင်အဆင်များထဲတွင် “<span data-l10n-name="query"></span>” အတွက် ရလဒ်များ မရှိပါ။
+       *[other] ဝမ်းနည်းပါတယ်။ နှစ်သက်ရာအပြင်အဆင်များထဲတွင် “<span data-l10n-name="query"></span>” အတွက် ရလဒ်များ မရှိပါ။
+    }
 
 ## General Section
 
