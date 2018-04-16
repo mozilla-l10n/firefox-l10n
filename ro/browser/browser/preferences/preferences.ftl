@@ -563,6 +563,7 @@ addressbar-suggestions-settings = Schimbă preferințele pentru sugestiile motoa
 ## Privacy Section - Tracking
 
 tracking-header = Protecția față de urmărire
+tracking-desc = Protecția față de urmărire blochează urmăritorii online care îți colectează datele de navigare pe mai multe site-uri web. <a data-l10n-name="learn-more">Află mai multe despre protecția față de urmărire și confidențialitate</a>
 tracking-mode-label = Folosește protecția față de urmărire pentru a bloca urmăritorii cunoscuți
 tracking-mode-always =
     .label = Întotdeauna
