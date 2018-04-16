@@ -28,6 +28,7 @@
 <!ENTITY loaddevice.modname2                    "మాడ్యూల్ పేరు">
 <!ENTITY loaddevice.modname2.accesskey          "M">
 <!ENTITY loaddevice.modname.default             "కొత్త PKCS#11 మాడ్యూల్">
+<!ENTITY loaddevice.filename2                   "మాడ్యూల్ ఫైలుపేరు">
 <!ENTITY loaddevice.filename2.accesskey         "f">
 <!ENTITY loaddevice.browse                      "అన్వేషించు...">
 <!ENTITY loaddevice.browse.accesskey            "B">

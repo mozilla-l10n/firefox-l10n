@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "లింకును పరికరానికి పంపు">
 <!ENTITY  sendLinkToDevice.accesskey         "D">
 <!ENTITY  sendToDeviceFeedback.label         "పంపినది!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "క్యూడ్ (ఆఫ్‌లైన్)">
 <!ENTITY  moveToNewWindow.label              "కొత్త విండోకి తరలించు">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "ట్యాబులన్నింటినీ ఇష్టాంశాలుగా చేయి…">
@@ -59,6 +60,8 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.accesskey             "U">
 <!ENTITY  closeTab.label                     "ట్యాబుని మూసివేయి">
 <!ENTITY  closeTab.accesskey                 "C">
+
+<!ENTITY  hiddenTabs.label                   "దాచిన ట్యాబులు">
 
 <!ENTITY  listAllTabs.label      "అన్ని ట్యాబుల జాబితా చూపించు">
 
@@ -221,6 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "నిరంతర నిల్వ డేటాని నిల్వ చేయండి">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "విహరణి వ్యవహిత నియంత్రణ కింద ఉంది">
 
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "సైటుతో మీ కేమెరా మరియు/లేదా మైక్రోఫోన్ పంచుకోడాన్ని నిర్వహించండి">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "సైటుతో మీ మైక్రోఫోనుని పంచుకోవడాన్ని నిర్వహించండి">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "ఈ సైటుతో మీ విండోలు లేదా తెరను పంచుకోడాన్ని నిర్వహించండి">
@@ -264,7 +268,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchBookmarks.label              "ఇష్టాంశాలను శోధించు">
 <!ENTITY bookmarkingTools.label             "ఇష్టాంశాల పనిముట్లు">
 
-<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 <!ENTITY bookmarksGtkCmd.commandkey "o">
@@ -295,6 +299,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY inspectContextMenu.label     "మూలకం విచారణచేయి">
 <!ENTITY inspectContextMenu.accesskey "Q">
+
 
 <!ENTITY fileMenu.label         "దస్త్రం">
 <!ENTITY fileMenu.accesskey       "F">
@@ -381,7 +386,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "మీ ఇతర పరికరాల లోని ట్యాబుల జాబితాను చూడడానికి ట్యాబ్ సింక్ ను ప్రారంభించండి.">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "ఇతర పరికరాలలో తెరిచివున్న మీ ట్యాబులను ఇక్కడ చూడాలనుకుంటున్నారా?">
@@ -994,6 +999,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.sendTabToDevice.label "ట్యాబుని పరికరానికి పంపు">
 <!ENTITY sendToDevice.syncNotReady.label "పరికరాలను సమకాలీకరిస్తోంది…">
 
+<!ENTITY libraryButton.tooltip "చరిత్ర, భద్రపరచిన ఇష్టాంశాలు, ఇంకా మరెన్నో చూడండి">
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also

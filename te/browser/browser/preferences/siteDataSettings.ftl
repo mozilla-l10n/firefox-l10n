@@ -5,6 +5,8 @@
 
 ## Settings
 
+site-data-settings-window =
+    .title = కుకీలు, సైటు దత్తాంశ నిర్వహణ
 site-data-search-textbox =
     .placeholder = వెబ్‌సైట్లను వెతకండి
     .accesskey = S
