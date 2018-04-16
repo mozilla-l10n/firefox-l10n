@@ -67,13 +67,6 @@ restart-later = Khởi động lại sau
 ## Preferences UI Search Results
 
 search-results-header = Kết quả tìm kiếm
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] Xin lỗi! Không có kết quả trong phần tủy chọn cho “<span></span>”.
-       *[other] Xin lỗi! Không có kết quả trong phần tủy chỉnh cho “<span></span>”.
-    }
-search-results-need-help = Cần trợ giúp? Ghé thăm <a>Hỗ trợ từ { -brand-short-name }</a>
 
 ## General Section
 
@@ -435,9 +428,6 @@ privacy-header = Duyệt web riêng tư
 ## Privacy Section - Forms
 
 forms-header = Biểu mẫu & Mật khẩu
-forms-remember-logins =
-    .label = Lưu lại thông tin đăng nhập và mật khẩu cho trang web
-    .accesskey = R
 forms-exceptions =
     .label = Ngoại trừ…
     .accesskey = r
@@ -504,7 +494,6 @@ addressbar-suggestions-settings = Thay đổi tùy chỉnh phần gợi ý của
 ## Privacy Section - Tracking
 
 tracking-header = Trình chống theo dõi
-tracking-description = Trình chống theo dõi chặn các trình theo dõi trực tuyến thu thập dữ liệu duyệt web của bạn trên nhiều trang web. <a>Tìm hiểu thêm về trình chống theo dõi và chính sách riêng tư của bạn</a>
 tracking-mode-label = Sử dụng trình chống theo dõi để chặn các trình theo dõi đã được nhận biết
 tracking-mode-always =
     .label = Luôn luôn
