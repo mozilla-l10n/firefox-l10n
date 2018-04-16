@@ -151,6 +151,16 @@ containers-disable-alert-ok-button =
        *[other] Ketz'apïx { $tabCount } ruk'ojlib'al taq ruwi'
     }
 containers-disable-alert-cancel-button = Junelïk titzije'
+containers-remove-alert-title = ¿La niyuj el re k'wayöl re'?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] We nayüj el re Ruk'wayöl re' wakami, { $count } ruk'wayöl ruwi' xtitz'apïx. ¿La kan nawajo' ye'ayüj re k'wayöl re'?
+       *[other] We nayüj re ruk'wayöl re' wakami, { $count } k'wayöl taq ruwi' xketz'apitäj. ¿La kan nawajo' ye'ayüj re k'wyöl re'?
+    }
+containers-remove-ok-button = Tiyuj el re k'wayöl re'
+containers-remove-cancel-button = Man tiyuj el re k'wayöl re'
 
 ## General Section - Language & Appearance
 
