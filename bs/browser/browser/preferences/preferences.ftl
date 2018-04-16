@@ -73,6 +73,7 @@ search-results-empty-message =
         [windows] Žao nam je! Nema rezultata u Opcijama za “<span data-l10n-name="query"></span>”.
        *[other] Žao nam je! Nema rezultata u Postavkama za “<span data-l10n-name="query"></span>”.
     }
+search-results-help-link = Trebate pomoć? Posjetite <a data-l10n-name="url">{ -brand-short-name } podrška</a>
 
 ## General Section
 
@@ -512,6 +513,7 @@ addressbar-suggestions-settings = Promijenite postavke prijedloga pretraživača
 ## Privacy Section - Tracking
 
 tracking-header = Zaštita od praćenja
+tracking-desc = Zaštita od praćenja blokira online tragače koji prikupljaju vaše podatke pretraživanja putem više web stranica. <a data-l10n-name="learn-more">Saznajte više o Zaštiti od praćenja i vašoj privatnosti</a>
 tracking-mode-label = Koristi Zaštitu od praćenja radi blokiranja poznatih pratilaca
 tracking-mode-always =
     .label = Uvijek
