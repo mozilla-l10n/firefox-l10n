@@ -76,13 +76,6 @@ restart-later = Repornește mai târziu
 ## Preferences UI Search Results
 
 search-results-header = Rezultatele căutării
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] Ne pare rău! Nu există rezultate în Opțiuni pentru „<span></span>”.
-       *[other] Ne pare rău! Nu există rezultate în Preferințe pentru „<span></span>”.
-    }
-search-results-need-help = Ai nevoie de ajutor? Vizitează <a>pagina de suport { -brand-short-name }</a>
 
 ## General Section
 
@@ -474,9 +467,6 @@ privacy-header = Confidențialitate în browser
 ## Privacy Section - Forms
 
 forms-header = Formulare și parole
-forms-remember-logins =
-    .label = Reține autentificările și parolele pentru site-uri web
-    .accesskey = R
 forms-exceptions =
     .label = Excepții…
     .accesskey = x
@@ -566,7 +556,6 @@ addressbar-suggestions-settings = Schimbă preferințele pentru sugestiile motoa
 ## Privacy Section - Tracking
 
 tracking-header = Protecția față de urmărire
-tracking-description = Protecția față de urmărire blochează urmăritorii online care îți colectează datele de navigare pe mai multe site-uri web. <a>Află mai multe despre protecția față de urmărire și confidențialitate</a>
 tracking-mode-label = Folosește protecția față de urmărire pentru a bloca urmăritorii cunoscuți
 tracking-mode-always =
     .label = Întotdeauna
