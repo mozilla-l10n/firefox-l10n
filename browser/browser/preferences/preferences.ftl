@@ -69,6 +69,7 @@ restart-later = ಆಮೇಲೆ ಮರು ಆರಂಭಿಸು
 ## Preferences UI Search Results
 
 search-results-header = ಹುಡುಕು ಫಲಿತಾಂಶಗಳು
+search-results-help-link = ಸಹಾಯ ಬೇಕೆ? ಭೇಟಿ ಮಾಡಿ <a data-l10n-name="url">{ -brand-short-name } ಬೆಂಬಲ</a>
 
 ## General Section
 
