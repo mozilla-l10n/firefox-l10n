@@ -76,13 +76,6 @@ restart-later = Puorstarteit vāluok
 ## Preferences UI Search Results
 
 search-results-header = Mekliešonys rezultati
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] Dīmžāl meklejūt Īstatiejumu “<span></span>” nikas natyka atrosts.
-       *[other] Dīmžāl meklejūt Īstatiejumu “<span></span>” nikas natyka atrosts.
-    }
-search-results-need-help = Vajadzeiga paleidzeiba? Ej uz <a>{ -brand-short-name } Tehniskais atbolsts</a>
 
 ## General Section
 
@@ -473,9 +466,6 @@ privacy-header = Puorlūka privatums
 ## Privacy Section - Forms
 
 forms-header = Formys i paroles
-forms-remember-logins =
-    .label = Remember logins and passwords for websites
-    .accesskey = R
 forms-exceptions =
     .label = Izjāmumi...
     .accesskey = z
@@ -565,7 +555,6 @@ addressbar-suggestions-settings = Izmainit mekleituoju īstatiejumus
 ## Privacy Section - Tracking
 
 tracking-header = Izsekuošonys aizsardzeiba
-tracking-description = Izsekošonys aizsardzeiba sytās pret sekōtōjim kas vysaidōs lopōs vōc informaciji par tovu uzvedeibu internetā. <a>Vaira par izsekōšonys aizsardzeibu un tovu privātumu</a>
 tracking-mode-label = Izmontōt izsekošonys aizsardzeibu, kab bloķeitu zynomūs izsekōtōjus
 tracking-mode-always =
     .label = Vīnmār
