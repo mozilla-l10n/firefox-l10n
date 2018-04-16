@@ -308,6 +308,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Nova okna in zavihki
+home-new-windows-tabs-description2 = Izberite, kaj želite videti, ko odprete domačo stran, nova okna in nove zavihke.
 
 ## Home Section - Home Page Customization
 
@@ -538,6 +539,10 @@ sitedata-block-cookies-option =
     .accesskey = Z
 sitedata-keep-until = Obdrži jih,
     .accesskey = j
+sitedata-keep-until-expire =
+    .label = dokler ne pretečejo
+sitedata-keep-until-closed =
+    .label = dokler se { -brand-short-name } ne zapre
 sitedata-accept-third-party-desc = Sprejemaj piškotke in podatke tretjih strani
     .accesskey = t
 sitedata-accept-third-party-always-option =
