@@ -76,6 +76,12 @@ restart-later = Ailgychwyn Rhywbryd Eto
 ## Preferences UI Search Results
 
 search-results-header = Canlyniadau Chwilio
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Ymddiheuriadau! Nid oes canlyniadau yn y Dewisiadau ar gyfer “<span data-l10n-name="query"></span>”.
+       *[other] Ymddiheuriadau! Nid os canlyniadau yn y Dewisiada.u ar gyfer “<span data-l10n-name="query"></span>”.
+    }
 
 ## General Section
 
@@ -221,6 +227,7 @@ play-drm-content-learn-more = Dysgu rhagor
 update-application-title = Diweddariadau { -brand-short-name }
 update-application-description = Cadw { -brand-short-name } yn gyfredol ar gyfer y perfformiad, sefydlogrwydd a diogelwch gorau.
 update-application-info = Fersiwn { $version } <a>Beth sy'n newydd</a>
+update-application-version = Fersiwn { $version } <a data-l10n-name="learn-more">Beth sy'n newydd</a>
 update-history =
     .label = Dangos Hanes Diweddaru…
     .accesskey = D
