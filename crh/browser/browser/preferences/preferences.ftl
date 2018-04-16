@@ -67,6 +67,13 @@ restart-later = Daha sonra yeniden başlat
 ## Preferences UI Search Results
 
 search-results-header = Qıdırma Neticeleri
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Afu etiñiz! Seçenekler'de “<span data-l10n-name="query"></span>” içün neticeler yoq.
+       *[other] Afu etiñiz! Tercihler'de “<span data-l10n-name="query"></span>” içün neticeler yoq.
+    }
+search-results-help-link = Yardım kerekmi? <a data-l10n-name="url">{ -brand-short-name } Destegi</a>’ni ziyaret etiñiz.
 
 ## General Section
 
@@ -501,6 +508,7 @@ addressbar-suggestions-settings = Qıdırma motorları telqinleri içün tercihl
 ## Privacy Section - Tracking
 
 tracking-header = İzlenme İmayesi
+tracking-desc = İzlenme İmayesi, müetaddit sayt arqalı seyran verileriñizni toplağan hat-üstü izcilerni bloklar. <a data-l10n-name="learn-more">İzlenme İmayesi ve hususiyatıñız aqqında daa çoq ögreniñiz.</a>
 tracking-mode-label = Malüm izcilerni bloklamaq içün İzlenme İmayesi'ni qullan.
 tracking-mode-always =
     .label = Er zaman
