@@ -36,16 +36,6 @@ containers-color-label = Sa'y
 containers-button-done =
     .label = Apopyre
     .accesskey = A
-containers-remove-alert-title = ¿Eipe’a ko guerekoha?
-# Variables:
-#   $count (Number) - Number of tabs that will be closed.
-containers-remove-alert-msg =
-    { $count ->
-        [one] Eipe'áramo ko'ág̃a guerekoha, tendayke guerekoha { $count } oñembotýta. ¿Embotyse añetehápe ko guerekoha?
-       *[other] Embotýramo ko guerekoha ko'ág̃a, umi tendayke guerekoha { $count } oñembotýta. ¿Embotyse añetehápe ko guerekoha?
-    }
-containers-remove-ok-button = Eipe’a ko guerekoha
-containers-remove-cancel-button = Aníke eipe’a ko guerekoha
 containers-color-blue =
     .label = Hovy
 containers-color-turquoise =
