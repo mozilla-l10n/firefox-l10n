@@ -76,13 +76,6 @@ restart-later = أعِد التشغيل لاحقًا
 ## Preferences UI Search Results
 
 search-results-header = نتائج البحث
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] للأسف لا نتائج في الخيارات عن ”<span></span>“.
-       *[other] للأسف لا نتائج في التفضيلات عن ”<span></span>“.
-    }
-search-results-need-help = أتحتاج للمساعدة؟ زُر <a>دعم { -brand-short-name }</a>
 
 ## General Section
 
@@ -478,9 +471,6 @@ privacy-header = خصوصية المتصفح
 ## Privacy Section - Forms
 
 forms-header = النماذج و كلمات السر
-forms-remember-logins =
-    .label = تذكر كلمات سر و بيانات ولوج مواقع الوِب
-    .accesskey = ت
 forms-exceptions =
     .label = الاستثناءات…
     .accesskey = س
@@ -570,7 +560,6 @@ addressbar-suggestions-settings = غيّر تفضيلات اقتراحات مح�
 ## Privacy Section - Tracking
 
 tracking-header = الحماية من التعقّب
-tracking-description = تحجب الحماية من التعقب متعقبات الإنترنت التي تجمع بيانات التصفح عبر أكثر من موقع. <a>تعرّف أكثر على الحماية من التعقب و خصوصيتك</a>
 tracking-mode-label = استخدم الحماية من التعقب لحظر المتعقبات المعروفة
 tracking-mode-always =
     .label = دائمًا
