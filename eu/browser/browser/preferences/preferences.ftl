@@ -82,6 +82,7 @@ search-results-empty-message =
         [windows] Barkatu! Aukeretan ez dago "<span data-l10n-name="query"></span>" bilaketarako emaitzarik.
        *[other] Barkatu! Hobespenetan ez dago "<span data-l10n-name="query"></span>" bilaketarako emaitzarik.
     }
+search-results-help-link = Laguntza behar duzu? Bisitatu <a data-l10n-name="url">{ -brand-short-name }(r)en laguntza</a>
 
 ## General Section
 
@@ -254,6 +255,7 @@ performance-limit-content-process-option = Eduki-prozesuen muga
     .accesskey = m
 performance-limit-content-process-enabled-desc = Eduki-prozesu gehigarriek errendimendua hobe dezakete hainbat fitxa erabiltzean baina memoria gehiago ere erabiliko du.
 performance-limit-content-process-disabled-desc = Edukien prozesu kopurua multiprozesu moduko { -brand-short-name }(r)ekin alda daiteke soilik. <a>Argibide gehiago multiprozesu modua gaituta dagoen egiaztatzeko</a>
+performance-limit-content-process-blocked-desc = Edukien prozesu kopurua multiprozesu moduko { -brand-short-name }(r)ekin alda daiteke soilik. <a data-l10n-name="learn-more">Argibide gehiago multiprozesu modua gaituta dagoen egiaztatzeko</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -551,6 +553,7 @@ addressbar-suggestions-settings = Aldatu bilaketa-motorren iradokizunetarako hob
 ## Privacy Section - Tracking
 
 tracking-header = Jarraipenaren babesa
+tracking-desc = Jarraipenaren babesarekin hainbat webguneren artean zure nabigazio-datuak biltzea blokeatuko da. <a data-l10n-name="learn-more">Argibide gehiago jarraipenaren babesari eta zure pribatutasunari buruz</a>
 tracking-mode-label = Babestu jarraipena egiteaz ezagunak diren guneetatik
 tracking-mode-always =
     .label = Beti
