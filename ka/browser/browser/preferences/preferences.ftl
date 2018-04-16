@@ -82,6 +82,7 @@ search-results-empty-message =
         [windows] ვწუხვართ! შედეგები “<span data-l10n-name="query"></span>” ფრაზისთვის არ მოიძებნა.
        *[other] ვწუხვართ! შედეგები “<span data-l10n-name="query"></span>” ფრაზისთვის არ მოიძებნა.
     }
+search-results-help-link = გესაჭიროებათ დახმარება? ეწვიეთ <a data-l10n-name="url">{ -brand-short-name } მხარდაჭერის გვერდს</a>
 
 ## General Section
 
