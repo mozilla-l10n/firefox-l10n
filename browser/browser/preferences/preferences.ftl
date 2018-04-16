@@ -82,6 +82,7 @@ search-results-empty-message =
         [windows] Deja! Nuostatose nėra rezultatų, atitinkančių „<span data-l10n-name="query"></span>“.
        *[other] Deja! Nuostatose nėra rezultatų, atitinkančių „<span data-l10n-name="query"></span>“.
     }
+search-results-help-link = Reikia pagalbos? Aplankykite <a data-l10n-name="url">„{ -brand-short-name }“ pagalbą</a>
 
 ## General Section
 
@@ -257,6 +258,7 @@ performance-limit-content-process-option = Turinio procesų riba
     .accesskey = r
 performance-limit-content-process-enabled-desc = Papildomi turinio procesai gali paspartinti veikimą kai naudojama daugiau kortelių, tačiau taip pat naudos daugiau atminties.
 performance-limit-content-process-disabled-desc = Turinio procesų skaičiaus keitimas galimas tik daugiaprocesėje „{ -brand-short-name }“. <a>Sužinokite kaip patikrinti, ar daugiaprocesė veiksena įjungta</a>
+performance-limit-content-process-blocked-desc = Turinio procesų skaičiaus keitimas galimas tik daugiaprocesėje „{ -brand-short-name }“. <a data-l10n-name="learn-more">Sužinokite kaip patikrinti, ar daugiaprocesė veiksena įjungta</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -563,6 +565,7 @@ addressbar-suggestions-settings = Keisti ieškyklių siūlymų nuostatas
 ## Privacy Section - Tracking
 
 tracking-header = Apsauga nuo stebėjimo
+tracking-desc = Apsauga nuo stebėjimo blokuoja stebėjimo elementus, renkančius jūsų naršymo duomenis daugelyje svetainių. <a data-l10n-name="learn-more">Sužinokite daugiau apie apsaugą nuo stebėjimo ir savo privatumą</a>
 tracking-mode-label = Naudokite apsaugą nuo stebėjimo, norėdami užblokuoti žinomus stebėjimo elementus
 tracking-mode-always =
     .label = Visada
