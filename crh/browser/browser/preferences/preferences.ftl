@@ -204,6 +204,7 @@ play-drm-content-learn-more = Daa çoq ögren
 update-application-title = { -brand-short-name } Yañartmaları
 update-application-description = Eñ yahşı icraat, istiqrar ve emniyet içün { -brand-short-name } yañartılğan tutulsın.
 update-application-info = Sürüm{ $version } <a>Ne bar ne yoq</a>
+update-application-version = Sürüm{ $version } <a data-l10n-name="learn-more">Ne bar ne yoq</a>
 update-history =
     .label = Yañartma Keçmişini Köster…
     .accesskey = K
@@ -239,6 +240,7 @@ performance-limit-content-process-option = Muhteva süreci haddi
     .accesskey = M
 performance-limit-content-process-enabled-desc = Müteaddit ilmeklerni qullanğanda ek muhteva süreçleri icraatnı eyileştirebilir, amma daa çoq hafizanı da qullanırlar.
 performance-limit-content-process-disabled-desc = Muhteva süreçleri sayısınıñ başqalaştırılması ancaq çoq-süreçli { -brand-short-name } ile mümkündir. <a>Çoqlu-süreçniñ qabilleştirilgen olıp olmağanınıñ nasıl teşkerilgenini ögreniñiz</a>
+performance-limit-content-process-blocked-desc = Muhteva süreçleri sayısınıñ başqalaştırılması ancaq çoq-süreçli { -brand-short-name } ile mümkündir. <a data-l10n-name="learn-more">Çoqlu-süreçniñ qabilleştirilgen olıp olmağanınıñ nasıl teşkerilgenini ögreniñiz</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
