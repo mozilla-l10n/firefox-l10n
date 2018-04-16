@@ -76,6 +76,12 @@ restart-later = Titikirisäx pa jun mej
 ## Preferences UI Search Results
 
 search-results-header = Taq ruq'i'oj kanoxïk
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] ¡Kojakuyu'! Majun achike xqïl pa Taq Cha'oj richin ri “<span data-l10n-name="query"></span>”.
+       *[other] ¡Kojakuyu'! Majun achike xqïl pa Taq Ajowab'äl richin ri “<span data-l10n-name="query"></span>”.
+    }
 
 ## General Section
 
@@ -213,6 +219,7 @@ play-drm-content-learn-more = Tetamäx ch'aqa' chik
 update-application-title = { -brand-short-name } Taq k'exoj ruwäch
 update-application-description = Junelïk tik'ex ri { -brand-short-name } richin ütz nisamäj, jikïl, chuqa' jikon.
 update-application-info = Ruwäch { $version } <a>Achike natzijoj</a>
+update-application-version = Ruwäch { $version } <a data-l10n-name="learn-more">Achike natzijoj</a>
 update-history =
     .label = Tik'ut pe ri runatab'al K'exoj ruwäch…
     .accesskey = K
