@@ -76,6 +76,13 @@ restart-later = Restartovat později
 ## Preferences UI Search Results
 
 search-results-header = Výsledky hledání
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Je nám líto, pro „<span data-l10n-name="query"></span>“ jsme v možnostech nic nenašli.
+       *[other] Je nám líto, pro „<span data-l10n-name="query"></span>“ jsme v předvolbách nic nenašli.
+    }
+search-results-help-link = Potřebujete pomoc? Navštivte <a data-l10n-name="url">Podporu aplikace { -brand-short-name }</a>
 
 ## General Section
 
@@ -215,6 +222,7 @@ play-drm-content-learn-more = Zjistit více
 update-application-title = Aktualizace aplikace { -brand-short-name }
 update-application-description = Pro nejvyšší rychlost, stabilitu a bezpečnost udržujte aplikaci { -brand-short-name } stále aktuální.
 update-application-info = Verze { $version } <a>Co je nového</a>
+update-application-version = Verze { $version } <a data-l10n-name="learn-more">Co je nového</a>
 update-history =
     .label = Zobrazit historii aktualizací…
     .accesskey = h
@@ -250,6 +258,7 @@ performance-limit-content-process-option = Omezit počet procesů pro obsah na
     .accesskey = b
 performance-limit-content-process-enabled-desc = Další procesy pro obsah mohou zlepšit výkon s více otevřenými panely, ale potřebují více paměti.
 performance-limit-content-process-disabled-desc = Počet procesů pro obsah lze upravit pouze při použití multiprocesového režimu aplikace { -brand-short-name }. <a>Podívejte se, jak stav multiprocesového režimu zkontrolovat</a>
+performance-limit-content-process-blocked-desc = Počet procesů pro obsah lze upravit pouze při použití multiprocesového režimu aplikace { -brand-short-name }. <a data-l10n-name="learn-more">Podívejte se, jak stav multiprocesového režimu zkontrolovat</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -556,6 +565,7 @@ addressbar-suggestions-settings = Změnit předvolby našeptávání vyhledáva�
 ## Privacy Section - Tracking
 
 tracking-header = Ochrana proti sledování
+tracking-desc = Ochrana proti sledování blokuje sledovací prvky, které o vás sbírají informace napříč webovými stránkami. <a data-l10n-name="learn-more">Zjistěte více o ochraně proti sledování a o vašem soukromí</a>
 tracking-mode-label = Používat ochranu proti sledování známými sledovacími prvky
 tracking-mode-always =
     .label = Vždy
