@@ -76,6 +76,12 @@ restart-later = Repornește mai târziu
 ## Preferences UI Search Results
 
 search-results-header = Rezultatele căutării
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Ne pare rău! Nu există rezultate în Opțiuni pentru „<span data-l10n-name="query"></span>”.
+       *[other] Ne pare rău! Nu există rezultate în Preferințe pentru „<span data-l10n-name="query"></span>”.
+    }
 
 ## General Section
 
@@ -215,6 +221,7 @@ play-drm-content-learn-more = Află mai multe
 update-application-title = Actualizări { -brand-short-name }
 update-application-description = Menține { -brand-short-name } actualizat pentru cea mai bună performanță, stabilitate și securitate.
 update-application-info = Versiunea { $version } <a>Ce este nou</a>
+update-application-version = Versiunea { $version } <a data-l10n-name="learn-more">Ce este nou</a>
 update-history =
     .label = Afișează istoricul actualizărilor…
     .accesskey = p
