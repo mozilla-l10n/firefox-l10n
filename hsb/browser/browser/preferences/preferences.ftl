@@ -490,6 +490,9 @@ privacy-header = Priwatnosć wobhladowaka
 ## Privacy Section - Forms
 
 forms-header = Formulary a hesła
+forms-ask-to-save-logins =
+    .label = Prašeć so, hač so maja přizjewjenja a hesła składować
+    .accesskey = r
 forms-exceptions =
     .label = Wuwzaća…
     .accesskey = u
