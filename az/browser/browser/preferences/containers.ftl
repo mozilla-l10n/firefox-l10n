@@ -36,16 +36,6 @@ containers-color-label = Rəng
 containers-button-done =
     .label = Hazır
     .accesskey = D
-containers-remove-alert-title = Bu konteyner silinsin?
-# Variables:
-#   $count (Number) - Number of tabs that will be closed.
-containers-remove-alert-msg =
-    { $count ->
-        [one] Əgər bu Konteyneri indi silsəz, { $count } konteyner vərəqi qapadılacaq. Bu Konteyneri silmək istədiyinizə əminsiniz?
-       *[other] Əgər bu Konteyneri indi silsəz, { $count } konteyner vərəqi qapadılacaq. Bu Konteyneri silmək istədiyinizə əminsiniz?
-    }
-containers-remove-ok-button = Bu konteyneri sil
-containers-remove-cancel-button = Bu konteyneri silmə
 containers-color-blue =
     .label = Göy
 containers-color-turquoise =
