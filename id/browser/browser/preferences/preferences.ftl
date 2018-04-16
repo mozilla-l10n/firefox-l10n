@@ -138,9 +138,12 @@ containers-disable-alert-title = Tutup Semua Kontainer Tab?
 containers-disable-alert-desc = Jika Anda menonaktifkan Tab Kontainer sekarang, { $tabCount } tab kontainer akan ditutup. Yakin ingin menonaktifkan Tab Kontainer?
 containers-disable-alert-ok-button = Tutup { $tabCount } Tab Kontainer
 containers-disable-alert-cancel-button = Tetap aktifkan
+containers-remove-alert-title = Hapus Kontainer Ini?
 # Variables:
 #   $count (Number) - Number of tabs that will be closed.
 containers-remove-alert-msg = Jika Anda menghapus Kontainer ini sekarang, { $count } tab kontainer akan ditutup. Yakin ingin menghapus Kontainer ini?
+containers-remove-ok-button = Hapus Kontainer ini
+containers-remove-cancel-button = Jangan hapus Kontainer ini
 
 ## General Section - Language & Appearance
 
