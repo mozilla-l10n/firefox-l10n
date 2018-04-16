@@ -71,13 +71,6 @@ restart-later = ਬਾਅਦ 'ਚ ਮੁੜ-ਚਾਲੂ ਕਰੋ
 ## Preferences UI Search Results
 
 search-results-header = ਖੋਜ ਨਤੀਜੇ
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] ਅਫ਼ਸੋਸ! “<span></span>” ਲਈ ਚੋਣਾਂ ਵਿੱਚ ਕੋਈ ਨਤੀਜੇ ਨਹੀਂ ਹਨ।
-       *[other] ਅਫ਼ਸੋਸ! “<span></span>” ਲਈ ਪਸੰਦਾਂ ਵਿੱਚ ਕੋਈ ਨਤੀਜੇ ਨਹੀਂ ਹਨ।
-    }
-search-results-need-help = ਮਦਦ ਚਾਹੀਦੀ ਹੈ? <a>{ -brand-short-name } ਸਹਿਯੋਗ</a> ਵੇਖੋ
 
 ## General Section
 
@@ -447,9 +440,6 @@ privacy-header = ਬਰਾਊਜ਼ਰ ਪਰਦੇਦਾਰੀ
 ## Privacy Section - Forms
 
 forms-header = ਫਾਰਮ ਤੇ ਪਾਸਵਰਡ
-forms-remember-logins =
-    .label = ਵੈੱਬਸਾਈਟਾਂ ਲਈ ਲਾਗਇਨ ਅਤੇ ਪਾਸਵਰਡ ਯਾਦ ਰੱਖੋ
-    .accesskey = R
 forms-exceptions =
     .label = …ਛੋਟਾਂ
     .accesskey = x
