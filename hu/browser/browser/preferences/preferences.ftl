@@ -76,13 +76,6 @@ restart-later = Újraindítás később
 ## Preferences UI Search Results
 
 search-results-header = Találatok
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] Elnézését, nincs találat a Beállítások közt erre: „<span></span>”.
-       *[other] Elnézését, nincs találat a Beállítások közt erre: „<span></span>”.
-    }
-search-results-need-help = Segítségre van szüksége? Látogasson el ide: <a>{ -brand-short-name } támogatás</a>
 
 ## General Section
 
@@ -472,9 +465,6 @@ privacy-header = Böngésző adatvédelme
 ## Privacy Section - Forms
 
 forms-header = Űrlapok és jelszavak
-forms-remember-logins =
-    .label = Felhasználónevek és jelszavak megjegyzése az oldalakhoz
-    .accesskey = F
 forms-exceptions =
     .label = Kivételek…
     .accesskey = v
@@ -564,7 +554,6 @@ addressbar-suggestions-settings = Keresőszolgáltatás-javaslatok beállítása
 ## Privacy Section - Tracking
 
 tracking-header = Követés elleni védelem
-tracking-description = A követés elleni védelem blokkolja az online nyomkövetőket, melyek a webhelyek közti böngészési adatait gyűjtik. <a>Tudjon meg többet a követés elleni védelemről és az adatvédelemről</a>
 tracking-mode-label = Követés elleni védelem használata az ismert követők blokkolására
 tracking-mode-always =
     .label = Mindig
