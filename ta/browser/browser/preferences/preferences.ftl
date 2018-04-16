@@ -76,6 +76,12 @@ restart-later = பின்னர் மீட்துவக்கு
 ## Preferences UI Search Results
 
 search-results-header = தேடலின் முடிவுகள்
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] மன்னிக்கவும்! தேர்வுகளில் "<span data-l10n-name="query"></span>" சொல்லிற்கான முடிவுகள் எதுமில்லை.
+       *[other] மன்னிக்கவும்! முன்னுரிமைகளில் "<span data-l10n-name="query"></span>" சொல்லிற்கான முடிவுகள் ஏதுமில்லை.
+    }
 
 ## General Section
 
@@ -213,6 +219,7 @@ play-drm-content-learn-more = மேலும் அறிய
 update-application-title = { -brand-short-name } மேம்படுத்தல்கள்
 update-application-description = சிறந்த செயல்திறன், நிலைப்புத்தன்மை மற்றும் பாதுகாப்பிற்காக { -brand-short-name } என்பதை இற்றைப்படுத்தி வைக்கவும்.
 update-application-info = பதிப்பு { $version } <a>புதியவைகள்</a>
+update-application-version = பதிப்பு { $version } <a data-l10n-name="learn-more">புதியவைகள்</a>
 update-history =
     .label = புதுப்பித்தல் வரலாறு…
     .accesskey = p
