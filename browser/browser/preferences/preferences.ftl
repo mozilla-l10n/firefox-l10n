@@ -76,13 +76,6 @@ restart-later = Perleisti vėliau
 ## Preferences UI Search Results
 
 search-results-header = Paieškos rezultatai
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] Deja! Nuostatose nėra rezultatų, atitinkančių „<span></span>“.
-       *[other] Deja! Nuostatose nėra rezultatų, atitinkančių „<span></span>“.
-    }
-search-results-need-help = Reikia pagalbos? Aplankykite <a>„{ -brand-short-name }“ pagalbą</a>
 
 ## General Section
 
@@ -474,9 +467,6 @@ privacy-header = Naršyklės privatumas
 ## Privacy Section - Forms
 
 forms-header = Formos ir slaptažodžiai
-forms-remember-logins =
-    .label = Atsiminti svetainių prisijungimus
-    .accesskey = A
 forms-exceptions =
     .label = Išimtys…
     .accesskey = š
@@ -566,7 +556,6 @@ addressbar-suggestions-settings = Keisti ieškyklių siūlymų nuostatas
 ## Privacy Section - Tracking
 
 tracking-header = Apsauga nuo stebėjimo
-tracking-description = Apsauga nuo stebėjimo blokuoja stebėjimo elementus, renkančius jūsų naršymo duomenis daugelyje svetainių. <a>Sužinokite daugiau apie apsaugą nuo stebėjimo ir savo privatumą</a>
 tracking-mode-label = Naudokite apsaugą nuo stebėjimo, norėdami užblokuoti žinomus stebėjimo elementus
 tracking-mode-always =
     .label = Visada
