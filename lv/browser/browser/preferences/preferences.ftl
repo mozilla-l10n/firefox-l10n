@@ -76,6 +76,13 @@ restart-later = Pārstartēt vēlāk
 ## Preferences UI Search Results
 
 search-results-header = Meklēšanas rezultāti
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Diemžēl meklējot Iestatījumu “<span data-l10n-name="query"></span>” nekas netika atrasts.
+       *[other] Diemžēl meklējot Iestatījumu “<span data-l10n-name="query"></span>” nekas netika atrasts.
+    }
+search-results-help-link = Vajadzīga palīdzība? Apmeklējiet <a data-l10n-name="url">{ -brand-short-name } atbalsts</a>
 
 ## General Section
 
@@ -215,6 +222,7 @@ play-drm-content-learn-more = Uzzināt vairāk
 update-application-title = { -brand-short-name } atjauninājumi
 update-application-description = Vienmēr atjauniniet { -brand-short-name }, lai iegūtu labāko drošību, stabilitāti un ātrdarbību.
 update-application-info = Versija { $version } <a>Kas jauns</a>
+update-application-version = Versija { $version } <a data-l10n-name="learn-more">Kas jauns</a>
 update-history =
     .label = Parādīt atjauninājumu vēsturi…
     .accesskey = v
@@ -250,6 +258,7 @@ performance-limit-content-process-option = Satura procesu limits
     .accesskey = L
 performance-limit-content-process-enabled-desc = Papildu satura procesi var palielināt veiktspēju izmantojot vairākas cilnes, bet prasīs arī papildu atmiņu.
 performance-limit-content-process-disabled-desc = Modificēt satura procesu skaitu ir iespējama tikai ar vairāku procesu { -brand-short-name }. <a>Kā pārbaudīt, vai pieejams vairāku procesu režīms</a>
+performance-limit-content-process-blocked-desc = Modificēt satura procesu skaitu ir iespējama tikai ar vairāku procesu { -brand-short-name }. <a data-l10n-name="learn-more">Kā pārbaudīt, vai pieejams vairāku procesu režīms</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -556,6 +565,7 @@ addressbar-suggestions-settings = Izmainiet meklētāju iestatījumus
 ## Privacy Section - Tracking
 
 tracking-header = Izsekošanas aizsardzība
+tracking-desc = Izsekošanas aizsardzība cīnās pret sekotājiem kas dažādās lapās vāc informāciju par jūsu uzvedību internetā. <a data-l10n-name="learn-more">Uzziniet vairāk par izsekošanas aizsardzību un jūsu privātumu</a>
 tracking-mode-label = Izmantot izsekošanas aizsardzību, lai bloķētu zināmos izsekotājus
 tracking-mode-always =
     .label = Vienmēr
