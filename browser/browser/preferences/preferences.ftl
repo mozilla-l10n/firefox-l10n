@@ -151,6 +151,16 @@ containers-disable-alert-ok-button =
        *[other] { $tabCount } სათავსი ჩანართის დახურვა
     }
 containers-disable-alert-cancel-button = ჩართული დატოვება
+containers-remove-alert-title = გსურთ სათავსის წაშლა?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] თუ ამ სათავსს ახლავე წაშლით, ჩანართი დაიხურება. ნამდვილად გსურთ, სათავსის წაშლა?
+       *[other] თუ ამ სათავსს ახლავე წაშლით, { $count } ჩანართი დაიხურება. ნამდვილად გსურთ სათავსის წაშლა?
+    }
+containers-remove-ok-button = სათავსის წაშლა
+containers-remove-cancel-button = სათავსის დატოვება
 
 ## General Section - Language & Appearance
 
