@@ -76,13 +76,6 @@ restart-later = Starta om senare
 ## Preferences UI Search Results
 
 search-results-header = Sökresultat
-# `<span></span>` will be replaced by the search term.
-search-results-sorry-message =
-    { PLATFORM() ->
-        [windows] Förlåt! Det finns inga resultat i Inställningar för “<span></span>”.
-       *[other] Förlåt! Det finns inga resultat i Inställningar för “<span></span>”.
-    }
-search-results-need-help = Behöver du hjälp? Besök <a>{ -brand-short-name } support</a>
 
 ## General Section
 
@@ -472,9 +465,6 @@ privacy-header = Webbläsarintegritet
 ## Privacy Section - Forms
 
 forms-header = Formulär & lösenord
-forms-remember-logins =
-    .label = Kom ihåg inloggningar och lösenord för webbplatser
-    .accesskey = K
 forms-exceptions =
     .label = Undantag…
     .accesskey = d
@@ -564,7 +554,6 @@ addressbar-suggestions-settings = Ändra inställningar för förslag från sök
 ## Privacy Section - Tracking
 
 tracking-header = Spårningsskydd
-tracking-description = Spårningsskydd blockerar online-trackers som samlar in dina surfdata över flera webbplatser. <a>Läs mer om spårningsskydd och din integritet</a>
 tracking-mode-label = Använd spårningsskydd för att blockera kända trackers
 tracking-mode-always =
     .label = Alltid
