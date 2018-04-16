@@ -43,6 +43,12 @@ restart-later = Herbegin later
 ## Preferences UI Search Results
 
 search-results-header = Soekresultate
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Jammer! Daar is geen resultate in Opsies vir “<span data-l10n-name="query"></span>”.
+       *[other] Jammer! Daar is geen resultate in Voorkeure vir “<span data-l10n-name="query"></span>”.
+    }
 
 ## General Section
 
@@ -163,6 +169,7 @@ applications-action-column =
 play-drm-content-learn-more = Meer inligting
 update-application-title = { -brand-short-name }-bywerkings
 update-application-info = Weergawe { $version } <a>Wat’s nuut?</a>
+update-application-version = Weergawe { $version } <a data-l10n-name="learn-more">Wat’s nuut?</a>
 update-application-use-service =
     .label = Gebruik 'n agtergronddiens om bywerkings te installeer
     .accesskey = a
