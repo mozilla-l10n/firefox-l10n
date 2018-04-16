@@ -36,12 +36,6 @@ containers-color-label = 色彩
 containers-button-done =
     .label = 完成
     .accesskey = D
-containers-remove-alert-title = 要移除這個容器嗎？
-# Variables:
-#   $count (Number) - Number of tabs that will be closed.
-containers-remove-alert-msg = 若您現在移除此容器，將關閉 { $count } 個容器分頁。您確定要移除此容器嗎？
-containers-remove-ok-button = 移除此容器
-containers-remove-cancel-button = 不要移除此容器
 containers-color-blue =
     .label = 藍色
 containers-color-turquoise =
