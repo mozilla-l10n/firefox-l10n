@@ -146,6 +146,8 @@ containers-disable-alert-ok-button =
        *[other] Tampar { $tabCount } onglets isolats
     }
 containers-disable-alert-cancel-button = Gardar activat
+containers-remove-ok-button = Suprimir aqueste contenidor
+containers-remove-cancel-button = Suprimir pas aqueste contenidor
 
 ## General Section - Language & Appearance
 
