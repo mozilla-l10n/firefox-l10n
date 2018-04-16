@@ -472,6 +472,9 @@ privacy-header = Privasi Pelayar
 ## Privacy Section - Forms
 
 forms-header = Borang & Kata laluan
+forms-ask-to-save-logins =
+    .label = Tanya untuk simpan log masuk dan kata laluan laman web
+    .accesskey = l
 forms-exceptions =
     .label = Pengecualian…
     .accesskey = g
