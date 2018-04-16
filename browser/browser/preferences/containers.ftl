@@ -36,16 +36,6 @@ containers-color-label = Couleur
 containers-button-done =
     .label = Terminer
     .accesskey = T
-containers-remove-alert-title = Supprimer ce contexte ?
-# Variables:
-#   $count (Number) - Number of tabs that will be closed.
-containers-remove-alert-msg =
-    { $count ->
-        [one] Si vous supprimez ce contexte maintenant, { $count } onglet contextuel sera fermé. Voulez-vous vraiment supprimer ce contexte ?
-       *[other] Si vous supprimez ce contexte maintenant, { $count } onglets contextuels seront fermés. Voulez-vous vraiment supprimer ce contexte ?
-    }
-containers-remove-ok-button = Supprimer ce contexte
-containers-remove-cancel-button = Ne pas supprimer ce contexte
 containers-color-blue =
     .label = Bleu
 containers-color-turquoise =
