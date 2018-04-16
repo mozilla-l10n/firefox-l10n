@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
-<!ENTITY aboutUrlClassifier.pageTitle                   "Informații despre url-classifier">
 <!ENTITY aboutUrlClassifier.providerTitle               "Furnizor">
 <!ENTITY aboutUrlClassifier.provider                    "Furnizor">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Ora ultimei actualizări">
@@ -22,3 +21,4 @@
 <!ENTITY aboutUrlClassifier.cachePrefix                 "Prefix">
 <!ENTITY aboutUrlClassifier.cacheFullhash               "Hash complet">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Depanează">
+<!ENTITY aboutUrlClassifier.debugFileBtn                "Setează fișierul pentru jurnalizare">
