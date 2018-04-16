@@ -36,18 +36,6 @@ containers-color-label = Barba
 containers-button-done =
     .label = Hotowo
     .accesskey = H
-containers-remove-alert-title = Tutón kontejner wotstronić?
-# Variables:
-#   $count (Number) - Number of tabs that will be closed.
-containers-remove-alert-msg =
-    { $count ->
-        [one] Jeli tutón kontejner nětko wotstroniće, so { $count } kontejnerowy rajtark začini. Chceće tutón kontejner woprawdźe wotstronić?
-        [two] Jeli tutón kontejner nětko wotstroniće, so { $count } kontejnerowej rajtarkaj začinitej. Chceće tutón kontejner woprawdźe wotstronić?
-        [few] Jeli tutón kontejner nětko wotstroniće, so { $count } kontejnerowe rajtarki začinja. Chceće tutón kontejner woprawdźe wotstronić?
-       *[other] Jeli tutón kontejner nětko wotstroniće, so { $count } kontejnerowych rajtarkow začini. Chceće tutón kontejner woprawdźe wotstronić?
-    }
-containers-remove-ok-button = Tutón kontejner wotstronić
-containers-remove-cancel-button = Tutón kontejner njewotstronić
 containers-color-blue =
     .label = Módry
 containers-color-turquoise =
