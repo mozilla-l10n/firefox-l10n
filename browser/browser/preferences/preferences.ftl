@@ -484,6 +484,9 @@ privacy-header = Browserprivacy
 ## Privacy Section - Forms
 
 forms-header = Formulieren en wachtwurden
+forms-ask-to-save-logins =
+    .label = Freegje om oanmeldingen en wachtwurden foar websites te ûnthâlden
+    .accesskey = F
 forms-exceptions =
     .label = Utsûnderingen…
     .accesskey = s
