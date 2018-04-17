@@ -484,6 +484,9 @@ privacy-header = Kundahára Ñemigua
 ## Privacy Section - Forms
 
 forms-header = Ysaja ha ñe'ẽnemi
+forms-ask-to-save-logins =
+    .label = Eporandu eñongatu hag̃ua tembiapo ñepyrũ ha ñe’ẽñemi ñandutípe
+    .accesskey = .
 forms-exceptions =
     .label = Oĩ'ỹva
     .accesskey = x
