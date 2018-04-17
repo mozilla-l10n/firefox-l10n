@@ -1009,6 +1009,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.sendTabToDevice.label "Tabblad naar apparaat verzenden">
 <!ENTITY sendToDevice.syncNotReady.label "Apparaten synchroniseren…">
 
+<!ENTITY pageAction.shareUrl.label "Delen">
+
 <!ENTITY libraryButton.tooltip "Geschiedenis, opgeslagen bladwijzers en meer bekijken">
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
