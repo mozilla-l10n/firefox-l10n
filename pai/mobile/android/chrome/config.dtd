@@ -12,6 +12,10 @@
 <!ENTITY newPref.valueInteger          "Paayt">
 
 <!ENTITY newPref.stringPlaceholder     "Maat ñulch chpaach">
+<!ENTITY newPref.numberPlaceholder     "Chŕiibchu sal mukjaab">
 
+<!ENTITY newPref.toggleButton          "Looj">
 <!ENTITY newPref.cancelButton          "tubspach">
 
+<!ENTITY contextMenu.copyPrefName      "Mul tkwek tñur kyok">
+<!ENTITY contextMenu.copyPrefValue     "Chapayt tñur kyok">
