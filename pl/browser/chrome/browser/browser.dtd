@@ -41,6 +41,7 @@
 <!ENTITY undoCloseTab.accesskey              "P">
 <!ENTITY closeTab.label                      "Zamknij kartę" >
 <!ENTITY closeTab.accesskey                  "a" >
+<!ENTITY hiddenTabs.label "Ukryte karty">
 
 <!ENTITY listAllTabs.label "Pokaż wszystkie karty">
 
