@@ -480,6 +480,9 @@ privacy-header = 浏览器隐私
 ## Privacy Section - Forms
 
 forms-header = 表单与密码
+forms-ask-to-save-logins =
+    .label = 向您询问是否要记住网站的登录账号和密码
+    .accesskey = r
 forms-exceptions =
     .label = 例外…
     .accesskey = x
