@@ -102,18 +102,18 @@ available. -->
                                          "Menține &brandShortName; actualizat pentru cea mai bună performanță, stabilitate și securitate.">
 <!ENTITY updateApplication.version.pre   "Versiunea ">
 <!ENTITY updateApplication.version.post  "">
-<!ENTITY updateApplication.description   "Permite ca &brandShortName; să">
+<!ENTITY updateApplication.description   "Permite-i lui &brandShortName;">
 <!ENTITY updateAuto3.label               "Instaleze automat actualizări (recomandat)">
 <!ENTITY updateAuto3.accesskey           "A">
-<!ENTITY updateCheckChoose2.label        "Caute actualizări, dar să te lase să decizi dacă le instalezi">
+<!ENTITY updateCheckChoose2.label        "Să caute actualizări, dar să te lase să decizi dacă le instalezi">
 <!ENTITY updateCheckChoose2.accesskey    "C">
-<!ENTITY updateManual2.label             "Nu caute niciodată actualizări (nerecomandat)">
+<!ENTITY updateManual2.label             "Să nu caute niciodată actualizări (nerecomandat)">
 <!ENTITY updateManual2.accesskey         "n">
 
 <!ENTITY updateHistory2.label            "Afișează istoricul actualizărilor">
 <!ENTITY updateHistory2.accesskey        "p">
 
-<!ENTITY useService.label                "Folosește un serviciul în fundal pentru a instala actualizări">
+<!ENTITY useService.label                "Folosește un serviciu în fundal pentru a instala actualizări">
 <!ENTITY useService.accesskey            "d">
 
 <!ENTITY enableSearchUpdate2.label       "Actualizează automat motoarele de căutare">
