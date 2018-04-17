@@ -488,7 +488,7 @@ privacy-header = Confidențialitate în browser
 
 forms-header = Formulare și parole
 forms-ask-to-save-logins =
-    .label = Solicită dialogul de salvare al autentificărilor și parolelor în cazul site-urilor web
+    .label = Solicită salvarea autentificărilor și parolelor pentru site-urile web
     .accesskey = r
 forms-exceptions =
     .label = Excepții…
