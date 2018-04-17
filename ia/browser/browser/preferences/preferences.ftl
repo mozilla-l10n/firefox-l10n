@@ -484,6 +484,9 @@ privacy-header = Confidentialitate del navigator
 ## Privacy Section - Forms
 
 forms-header = Formularios e contrasignos
+forms-ask-to-save-logins =
+    .label = Demanda de salvar authenticationes e contrasignos de sito 
+    .accesskey = r
 forms-exceptions =
     .label = Exceptiones…
     .accesskey = x
