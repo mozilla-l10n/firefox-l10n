@@ -28,6 +28,9 @@
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY then.label                           "Daarna">
 <!ENTITY then.accesskey                       "D">
+<!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY quoting.label                        "Bij citeren">
+<!ENTITY quoting.accesskey                    "c">
 <!ENTITY aboveQuote.label                     "mijn reactie boven de geciteerde tekst starten">
 <!ENTITY belowQuote.label                     "mijn reactie onder de geciteerde tekst starten">
 <!ENTITY selectAndQuote.label                 "de geciteerde tekst selecteren">
