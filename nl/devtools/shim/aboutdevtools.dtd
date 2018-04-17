@@ -36,7 +36,7 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.keyShortcutMessage): Message displayed when
   -  users pressed a DevTools key shortcut. -->
 <!ENTITY  aboutDevtools.enable.keyShortcutMessage
-          "U hebt een snelkoppeling van de ontwikkelaarshulpmiddelen geactiveerd. Als dat niet de bedoeling was, kunt u dit tabblad sluiten.">
+          "U hebt een sneltoets van de ontwikkelaarshulpmiddelen geactiveerd. Als dat niet de bedoeling was, kunt u dit tabblad sluiten.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage2): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
