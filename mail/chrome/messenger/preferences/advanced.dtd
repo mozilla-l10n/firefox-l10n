@@ -72,7 +72,7 @@
 <!ENTITY updateHistory.label             "Afișează istoricul actualizărilor">
 <!ENTITY updateHistory.accesskey         "p">
 
-<!ENTITY useService.label                "Folosește un serviciul în fundal pentru a instala actualizări">
+<!ENTITY useService.label                "Folosește un serviciu în fundal pentru a instala actualizări">
 <!ENTITY useService.accesskey            "s">
 
 <!-- Networking and Disk Space -->
