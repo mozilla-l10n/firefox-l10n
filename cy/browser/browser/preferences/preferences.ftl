@@ -496,6 +496,9 @@ privacy-header = Preifatrwydd y Porwr
 ## Privacy Section - Forms
 
 forms-header = Ffurflenni a Chyfrineiriau
+forms-ask-to-save-logins =
+    .label = Gofyn i gadw mewngofnodion a chyfrineiriau ar gyfer gwefannau
+    .accesskey = G
 forms-exceptions =
     .label = Eithriadau…
     .accesskey = i
