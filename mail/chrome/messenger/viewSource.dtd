@@ -56,6 +56,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findOnCmd.accesskey "E">
 <!ENTITY findAgainCmd.label  "Etsi uudelleen">
 <!ENTITY findAgainCmd.accesskey "u">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
 <!ENTITY backCmd.label "Takaisin">
 <!ENTITY backCmd.accesskey "T">

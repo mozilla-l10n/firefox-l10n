@@ -12,6 +12,9 @@
 <!ENTITY removeData.accesskey         "v">
 <!ENTITY removeDataChat.label         "Poista keskusteludata">
 <!ENTITY removeDataChat.accesskey     "d">
+<!ENTITY removeDataServerAccount.desc "Poistaa paikalliselta levyltä kaikki tämän tilin viestit, kansiot ja suodattimet. Palvelimella olevat viestit ja kansiot säilytetään.">
+<!ENTITY removeDataChatAccount.desc   "Poistaa kaikki paikalliselle levylle tallennetut tämän tilin keskustelulokit.">
+<!ENTITY showData.label               "Näytä datan sijainti">
 <!ENTITY progressPending              "Poistetaan valitut tiedot…">
 <!ENTITY progressSuccess              "Poistaminen onnistui.">
 <!ENTITY progressFailure              "Poistaminen epäonnistui.">
