@@ -484,6 +484,9 @@ privacy-header = Браузер жекелігі
 ## Privacy Section - Forms
 
 forms-header = Формалар және парольдер
+forms-ask-to-save-logins =
+    .label = Веб-сайттар үшін логиндер мен парольдерді сақтауды сұрау
+    .accesskey = с
 forms-exceptions =
     .label = Ережелерден бөлек…
     .accesskey = р
