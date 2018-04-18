@@ -40,6 +40,10 @@
 
 <!ENTITY calendartype.label "Tipo de calendario:">
 <!ENTITY location.label "Ubicación:">
+<!ENTITY location.placeholder "URL o nombre del servidor del servidor del calendario">
 
 <!ENTITY network.nocredentials.label "Esta ubicación no requiere credenciales">
+<!ENTITY network.loading.description "Por favor espere mientras sus calendarios se descubren.">
+<!ENTITY network.notfound.description "No se pudo encontrar calendarios en esta ubicación. Por favor revise su configuración.">
+<!ENTITY network.authfail.description "Las credenciales que ingresó no fueron aceptadas. Por favor revise su configuración.">
 
