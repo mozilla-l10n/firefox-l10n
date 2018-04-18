@@ -278,14 +278,30 @@ browsing-search-on-start-typing =
 network-proxy-title = Tarmoq proksisi
 network-proxy-connection-learn-more = Batafsil ma’lumot
 network-proxy-connection-settings =
-    .label = Parametrlar…
+    .label = Sozlamalar…
     .accesskey = e
 
 ## Home Section
 
+home-new-windows-tabs-header = Yangi oyna va ichki oynalar
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Bosh sahifa va yangi oynalar
+home-newtabs-mode-label = Yangi ichki oynalar
+home-restore-defaults =
+    .label = Standart holatga tiklash
+    .accesskey = t
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Firefox bosh sahifasi (standart)
+home-mode-choice-custom =
+    .label = Boshqa URL manzillar
+home-mode-choice-blank =
+    .label = Bo‘sh sahifa
+home-homepage-custom-url =
+    .placeholder = Havolani qo‘yish
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -306,6 +322,11 @@ restore-default =
 
 ## Search Section
 
+search-bar-header = Qidiruv paneli
+search-bar-hidden =
+    .label = Izlash va kuzatish uchun manzil panelidan foydalaning
+search-bar-shown =
+    .label = Asboblar paneliga qidiruv panelini qo‘shish
 search-engine-default-header = Standart qidiruv tizimi
 search-suggestions-option =
     .label = Qidiruv tavsiyalarini keltirish
@@ -322,6 +343,7 @@ search-restore-default =
 search-remove-engine =
     .label = Olib tashlash
     .accesskey = O
+search-find-more-link = Yana qidiruv tizimlarini topish
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Kalit so‘z nusxasini yaratish
@@ -332,6 +354,7 @@ search-keyword-warning-bookmark = Xatcho‘pda foydalaniladigan kalit so‘zni t
 
 ## Containers Section
 
+containers-back-link = « Orqaga qaytish
 containers-header = Ichki oynalar konteyneri
 containers-add-button =
     .label = Yangi konteyner qo‘shish
@@ -346,16 +369,29 @@ containers-remove-button =
 sync-signedout-caption = Internet doim siz bilan birga
 sync-signedout-description = Xatcho‘plar, tarix, tablar, parollar, qo‘shimcha dasturlar va boshqa parametrlarni barcha qurilmalar aro sinxronlang.
 sync-signedout-account-title = { -fxaccount-brand-name } bilan ulanish
+sync-signedout-account-create = Hisobingiz yo‘qmi? Unda
+    .accesskey = s
+sync-signedout-account-signin =
+    .label = Kirish
+    .accesskey = i
 
 ## Sync Section - Signed in
 
 sync-profile-picture =
     .tooltiptext = Profil rasmini o‘zgartirish
 sync-disconnect =
-    .label = Uzilmoqda…
+    .label = Uzish
     .accesskey = U
+sync-manage-account = Hisobni boshqarish
+    .accesskey = o
 sync-signedin-unverified = { $email } tasdiqlanmagan.
 sync-signedin-login-failure = Qayta ulanish uchun kiring { $email }
+sync-resend-verification =
+    .label = Tasdiqlashni qayta yuborish
+    .accesskey = y
+sync-remove-account =
+    .label = Hisobni olib tashlash
+    .accesskey = o
 sync-sign-in =
     .label = Kirish
     .accesskey = K
@@ -367,6 +403,34 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Tarix
     .accesskey = T
+sync-engine-tabs =
+    .label = Ochiq ichki oynalar
+    .tooltiptext = Barcha sinxronlangan qurilmalardagi ochiq ichki oynalar ro‘yxati
+    .accesskey = O
+sync-engine-logins =
+    .label = Login ma’lumotlari
+    .tooltiptext = Siz saqlagan taxallus va parollar
+    .accesskey = L
+sync-engine-addresses =
+    .label = Manzillar
+    .tooltiptext = Siz saqlagtan manzillar (faqat kompyuterda)
+    .accesskey = M
+sync-engine-creditcards =
+    .label = Kredit kartalar
+    .tooltiptext = Nomi, raqami va amal qilish muddati (faqat kompyuterda)
+    .accesskey = K
+sync-engine-addons =
+    .label = Qo‘shimcha dasturlar
+    .tooltiptext = Kompyuter uchun Firefox kengaytma va mavzulari
+    .accesskey = Q
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Parametrlar
+           *[other] Parametrlar
+        }
+    .tooltiptext = Siz o‘zgartrigan umumiy, maxfiylik va xavfsizlik sozlamalari
+    .accesskey = P
 sync-device-name-header = Qurilma nomi
 sync-device-name-change =
     .label = Qurilma nomini o‘zgartirish…
@@ -377,15 +441,21 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Saqlash
     .accesskey = S
+sync-mobilepromo-single = Boshqa qurilmaga ulanish
+sync-mobilepromo-multi = Qurilmalarni boshqarish
 sync-tos-link = Xizmat shartlari
 sync-fxa-privacy-notice = Maxfiylik ogohlantirishlari
 
 ## Privacy Section
 
+privacy-header = Brauzer maxfiyligi
 
 ## Privacy Section - Forms
 
 forms-header = Shakllar va parollar
+forms-ask-to-save-logins =
+    .label = Saytlar uchun taxallus va parollarni saqlash so‘ralsin
+    .accesskey = r
 forms-exceptions =
     .label = Istisnolar
     .accesskey = I
@@ -418,9 +488,13 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Sozlamalar…
     .accesskey = l
+history-clear-button =
+    .label = Tarixni tozalash
+    .accesskey = t
 
 ## Privacy Section - Site Data
 
+sitedata-header = Kuki va sayt ma’lumotlari
 sitedata-learn-more = Batafsil ma’lumot
 sitedata-accept-third-party-visited-option =
     .label = Kirilganlardan
@@ -432,6 +506,8 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Manzil paneli
+addressbar-suggest = Manzil panelidan foydalanilganda, taklif qilinsin
 addressbar-locbar-bookmarks-option =
     .label = Xatcho‘plar
     .accesskey = X
