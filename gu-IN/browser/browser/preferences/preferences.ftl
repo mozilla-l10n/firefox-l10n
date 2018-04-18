@@ -484,6 +484,9 @@ privacy-header = બ્રાઉઝર ગોપનીયતા
 ## Privacy Section - Forms
 
 forms-header = ફોર્મ્સ & પાસવર્ડ્સ
+forms-ask-to-save-logins =
+    .label = વેબસાઇટ્સ માટે લૉગિન અને પાસવર્ડ્સ સાચવવા માટે પૂછો
+    .accesskey = r
 forms-exceptions =
     .label = અપવાદો...
     .accesskey = x

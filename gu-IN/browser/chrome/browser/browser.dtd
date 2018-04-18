@@ -304,6 +304,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "ઘટકની તપાસ કરો">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
+<!ENTITY inspectA11YContextMenu.label     "ઍક્સેસિબિલિટી ગુણધર્મોનું નિરીક્ષણ કરો">
+
 <!ENTITY fileMenu.label         "ફાઈલ">
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "નવી કન્ટેઈનર ટૅબ">
