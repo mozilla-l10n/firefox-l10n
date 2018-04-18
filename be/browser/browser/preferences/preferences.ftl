@@ -487,6 +487,9 @@ privacy-header = Прыватнасць браўзера
 ## Privacy Section - Forms
 
 forms-header = Формы & паролі
+forms-ask-to-save-logins =
+    .label = Прапаноўваць захаваць лагіны і паролі для вэб-сайтаў
+    .accesskey = р
 forms-exceptions =
     .label = Выключэнні…
     .accesskey = ы
