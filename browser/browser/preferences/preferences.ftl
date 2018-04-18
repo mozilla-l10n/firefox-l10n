@@ -484,6 +484,9 @@ privacy-header = Nettleserpersonvern
 ## Privacy Section - Forms
 
 forms-header = Skjema og passord
+forms-ask-to-save-logins =
+    .label = Spør om å lagre brukernavn og passord for nettsteder
+    .accesskey = r
 forms-exceptions =
     .label = Unntak …
     .accesskey = n
