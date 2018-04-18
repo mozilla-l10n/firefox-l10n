@@ -427,3 +427,5 @@
 <!ENTITY summary.dialog.decline.label           "Тайдыру">
 <!ENTITY summary.dialog.decline.tooltiptext     "Шақыруды тайдыру">
 <!ENTITY summary.dialog.dontsend.label          "Жауапты жібермеу">
+<!ENTITY summary.dialog.send.label              "Жауапты қазір жіберу">
+<!ENTITY summary.dialog.send.tooltiptext        "Ұйымдастырушыға жауапты қазір жіберіп, терезені жабу">

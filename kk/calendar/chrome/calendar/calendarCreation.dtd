@@ -48,3 +48,4 @@
 <!ENTITY network.authfail.description "Сіз енгізген тіркелу мәліметтері қабылданбады. Баптауларды тексеріңіз.">
 
 <!ENTITY network.subscribe.single.description "Жазылғыңыз келетін күнтізбелерді таңдаңыз.">
+<!ENTITY network.subscribe.multiple.description "Бұл орналасу үшін бірнеше түрлі күнтізбелер қолжетерлік. Күнтізбе түрін таңдап, жазылғыңыз келетін күнтізбелерді белгілеңіз.">
