@@ -60,9 +60,6 @@
 <!ENTITY  permissionsFor        "Oikeudet sivustolle:">
 <!ENTITY  permPlugins           "Käynnistä liitännäiset">
 
-<!ENTITY  permClearStorage           "Tyhjennä tietovarasto">
-<!ENTITY  permClearStorage.accesskey "T">
-
 <!ENTITY  securityTab           "Turvallisuus">
 <!ENTITY  securityTab.accesskey "T">
 <!ENTITY  securityView.certView "Näytä varmenne">
@@ -81,6 +78,9 @@
 <!ENTITY  securityView.privacy.cookies                  "Tallentaako sivusto tietoja (evästeitä) tietokoneelle?">
 <!ENTITY  securityView.privacy.viewCookies              "Näytä evästeet">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "e">
+<!ENTITY  securityView.privacy.siteData                 "Tallentaako tämä verkkosivusto tietoja koneelleni?">
+<!ENTITY  securityView.privacy.clearSiteData            "Tyhjennä evästeiden ja sivustojen data">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "e">
 <!ENTITY  securityView.privacy.passwords                "Onko sivuston salasanoja tallennettu?">
 <!ENTITY  securityView.privacy.viewPasswords            "Näytä tallennetut salasanat">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "u">

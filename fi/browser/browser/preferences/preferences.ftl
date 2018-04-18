@@ -302,6 +302,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Uudet ikkunat ja välilehdet
+home-new-windows-tabs-description2 = Valitse, mitä näet kun avaat aloitussivun, uuden ikkunan tai uuden välilehden.
 
 ## Home Section - Home Page Customization
 
