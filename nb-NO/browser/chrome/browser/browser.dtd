@@ -224,6 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Lagre data i vedvarende lagring">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Nettleseren er under fjernstyring">
 
+<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Åpne webautentiseringspanelet">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Behandle deling av kamera og/eller mikrofon på dette nettstedet">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Behandle deling av mikrofon med dette nettstedet">
@@ -302,6 +303,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY inspectContextMenu.label     "Inspiser element">
 <!ENTITY inspectContextMenu.accesskey "I">
+
+<!ENTITY inspectA11YContextMenu.label     "Inspiser tilgjengelighetsinnstillinger">
 
 <!ENTITY fileMenu.label         "Fil">
 <!ENTITY fileMenu.accesskey       "F">
