@@ -500,6 +500,12 @@ sitedata-accept-third-party-visited-option =
     .label = Kirilganlardan
 sitedata-accept-third-party-never-option =
     .label = Hech qachon
+sitedata-clear =
+    .label = Ma’lumotlarni tozalash
+    .accesskey = l
+sitedata-settings =
+    .label = Ma’lumotlarni boshqarish
+    .accesskey = M
 sitedata-cookies-exceptions =
     .label = Istisnolar…
     .accesskey = I
@@ -508,16 +514,21 @@ sitedata-cookies-exceptions =
 
 addressbar-header = Manzil paneli
 addressbar-suggest = Manzil panelidan foydalanilganda, taklif qilinsin
+addressbar-locbar-history-option =
+    .label = Ko‘rish tarixi
+    .accesskey = K
 addressbar-locbar-bookmarks-option =
     .label = Xatcho‘plar
     .accesskey = X
 addressbar-locbar-openpage-option =
     .label = Ichki oynalarni ochish
     .accesskey = o
+addressbar-suggestions-settings = Qidiruv tizimi tavsiyalari uchun sozlamalarni o‘zgartirish
 
 ## Privacy Section - Tracking
 
 tracking-header = Kuzatuvdan himoyalanish
+tracking-mode-label = Ma’lum kuzatuvchilarni bloklash uchun kuzatishdan himoya vositasidan foydalaning
 tracking-mode-always =
     .label = Doimo
     .accesskey = D
