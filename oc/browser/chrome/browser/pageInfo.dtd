@@ -78,6 +78,8 @@
 <!ENTITY  securityView.privacy.cookies                  "Aqueste site web collècta d'entresenhas (cookies) sus mon ordenador ?">
 <!ENTITY  securityView.privacy.viewCookies              "Veire los cookies">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.clearSiteData            "Escafar los cookies e las donadas de site">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "E">
 <!ENTITY  securityView.privacy.passwords                "Ai enregistrat un senhal per aqueste site web ?">
 <!ENTITY  securityView.privacy.viewPasswords            "Visualizar los senhals enregistrats">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "V">

@@ -4,6 +4,7 @@
 
 <!ENTITY     window.title                  "Paramètres - Donadas de site">
 
+<!ENTITY     window2.title                 "Gestion dels cookies e de las donadas dels sites">
 <!ENTITY     hostCol.label                 "Site">
 <!ENTITY     statusCol.label               "Estatut">
 <!ENTITY     cookiesCol.label              "Cookies">

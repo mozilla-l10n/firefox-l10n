@@ -61,6 +61,8 @@ can reach it easily. -->
 <!ENTITY  closeTab.label                     "Tampar l'onglet">
 <!ENTITY  closeTab.accesskey                 "T">
 
+<!ENTITY  hiddenTabs.label                   "Onglets amagats">
+
 <!ENTITY  listAllTabs.label      "Far la lista de totes los onglets">
 
 <!ENTITY tabCmd.label "Onglet novèl">
@@ -222,6 +224,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Gardar las donadas dins un emmagazinatge permanent">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Lo navegador es contrarotlat a distància">
 
+<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Dobrir lo panèl d’identificacion">
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Actualament, partejatz vòstra camèra o vòstre microfòn amb aqueste site">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Actualament, partejatz vòstre microfòn amb lo site">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Gerir lo partiment de vòstras fenèstras o d'ecran amb aqueste site">
@@ -242,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.popupBlocked.tooltip             "Avètz blocat la fenèstras surgentas per aqueste site.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Avètz empachat aqueste site de traire d’informacions de canvas.">
 
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "Avètz blocat l’utilizacion d’Adobe Flash en aqueste site.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Avètz blocat l’accès MIDI per aqueste site web.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Afichar l'istoric">
@@ -267,7 +272,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addBookmarksMenu.label             "Apondre lo menú personalizat als marcapaginas">
 <!ENTITY removeBookmarksMenu.label          "Levar lo menú personalizat dels marcapaginas">
 
-<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 <!ENTITY bookmarksGtkCmd.commandkey "o">
@@ -298,6 +303,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY inspectContextMenu.label     "Examinar l'element">
 <!ENTITY inspectContextMenu.accesskey "x">
+
 
 <!ENTITY fileMenu.label         "Fichièr">
 <!ENTITY fileMenu.accesskey       "F">
@@ -384,7 +390,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Activatz la sincronizacion dels onglets per afichar la lista dels onglets dels vòstres autres periferics.">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Volètz veire aquí los onglets dels vòstres autres periferics ?">
