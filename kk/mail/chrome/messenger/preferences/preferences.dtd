@@ -2,6 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  preferencesDefaultTitleMac.title "Баптаулар">
+<!ENTITY  preferencesDefaultTitleWin.title "Баптаулар">
+<!ENTITY  preferencesCloseButton.label     "Жабу">
+<!ENTITY  preferencesCloseButton.accesskey "ж">
+
 <!ENTITY  prefWindow.titleWin     "Баптаулар">
 <!ENTITY  prefWindow.titleGNOME   "&brandShortName; баптаулары">
 <!ENTITY  prefWindow.titleMAC     "Баптаулар">
