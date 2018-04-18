@@ -544,6 +544,15 @@ tracking-exceptions =
 
 ## Privacy Section - Permissions
 
+permissions-microphone = Mikrofon
+permissions-microphone-settings =
+    .label = Sozlamalar…
+    .accesskey = S
+permissions-notification = Eslatmalar
+permissions-notification-settings =
+    .label = Sozlamalar…
+    .accesskey = t
+permissions-notification-link = Batafsil ma’lumot
 permissions-block-popups =
     .label = Paydo bo‘luvchi oynalarni bloklash
     .accesskey = P
