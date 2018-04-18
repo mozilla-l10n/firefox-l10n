@@ -15,9 +15,13 @@
 -->
 
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
+<!ENTITY NameField1.id                  "FirstName">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
+<!ENTITY NameField2.id                  "LastName">
 <!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField1.id              "PhoneticFirstName">
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField2.id              "PhoneticLastName">
 
 <!ENTITY NameField1.label               "Nombre:">
 <!ENTITY NameField1.accesskey           "N">
@@ -25,11 +29,19 @@
 <!ENTITY NameField2.accesskey           "L">
 <!ENTITY PhoneticField1.label           "Nombre fonético:">
 <!ENTITY PhoneticField2.label           "Nombre fonético:">
+<!ENTITY DisplayName.label              "Mostrar:">
+<!ENTITY DisplayName.accesskey          "D">
+<!ENTITY preferDisplayName.label        "Siempre preferir el nombre para mostrar sobre el encabezado del mensaje">
+<!ENTITY preferDisplayName.accesskey    "y">
+<!ENTITY NickName.label                 "Apodo:">
+<!ENTITY NickName.accesskey             "N">
 
 <!ENTITY PrimaryEmail.label             "Correo electrónico:">
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "Otro correo electrónico:">
 <!ENTITY SecondEmail.accesskey          "i">
+<!ENTITY PreferMailFormat.label         "Prefiere recibir el mensaje formateado como:">
+<!ENTITY PreferMailFormat.accesskey     "v">
 <!ENTITY PlainText.label                "Texto sin formato">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Desconocido">
@@ -71,7 +83,9 @@
 <!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Trabajo">
+<!ENTITY Work.accesskey                 "W">
 <!ENTITY JobTitle.label                 "Título:">
+<!ENTITY JobTitle.accesskey             "i">
 <!ENTITY Department.label               "Departamento:">
 <!ENTITY Department.accesskey           "m">
 <!ENTITY Company.label                  "Organización:">
@@ -93,6 +107,8 @@
 
 <!ENTITY Other.tab                      "Otros">
 <!ENTITY Other.accesskey                "O">
+<!ENTITY Custom1.label                  "Personalizado 1:">
+<!ENTITY Custom1.accesskey              "1">
 
 <!ENTITY Gtalk.label                    "Google Talk:">
 <!ENTITY Gtalk.accesskey                "G">
