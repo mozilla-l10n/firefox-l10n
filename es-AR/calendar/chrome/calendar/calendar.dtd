@@ -207,6 +207,12 @@
 <!ENTITY calendar.context.attendance.all.tentative.label        "Aceptada tentativamente">
 <!ENTITY calendar.context.attendance.all.declined.accesskey     "d">
 <!ENTITY calendar.context.attendance.all.declined.label         "Declinada">
+<!ENTITY calendar.context.attendance.all.delegated.accesskey    "l">
+<!ENTITY calendar.context.attendance.all.delegated.label        "Delegado">
+<!ENTITY calendar.context.attendance.all.needsaction.accesskey  "l">
+<!ENTITY calendar.context.attendance.all.needsaction.label      "Aún necesita acción">
+<!ENTITY calendar.context.attendance.all.inprogress.accesskey   "p">
+<!ENTITY calendar.context.attendance.all.inprogress.label       "En proceso">
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Progreso">
