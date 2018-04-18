@@ -5,6 +5,8 @@
 
 ## Settings
 
+site-data-settings-window =
+    .title = Gestion dels cookies e de las donadas de sites
 site-data-search-textbox =
     .placeholder = Recercar de sites web
     .accesskey = S
@@ -30,3 +32,4 @@ site-data-button-save =
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-header = Supression dels cookies e donadas dels sites

@@ -523,6 +523,12 @@ sitedata-accept-cookies-option =
     .accesskey = A
 sitedata-keep-until = Las conservar fins a
     .accesskey = f
+sitedata-keep-until-expire =
+    .label = Expiran
+sitedata-keep-until-closed =
+    .label = { -brand-short-name } es tampat
+sitedata-accept-third-party-desc = Acceptar los cookies tèrces e las donadas de site
+    .accesskey = a
 sitedata-accept-third-party-always-option =
     .label = Totjorn
 sitedata-accept-third-party-visited-option =
@@ -635,6 +641,9 @@ collection-browser-errors =
     .label = Autorizar { -brand-short-name } a enviar los rapòrts d’error (inclús los messatges d’error) del navegador a { -vendor-short-name }
     .accesskey = u
 collection-browser-errors-link = Ne saber mai
+collection-backlogged-crash-reports =
+    .label = Permetre a { -brand-short-name } d’enviar los rapòrts de bugs en espèra
+    .accesskey = P
 collection-backlogged-crash-reports-link = Ne saber mai
 
 ## Privacy Section - Security
