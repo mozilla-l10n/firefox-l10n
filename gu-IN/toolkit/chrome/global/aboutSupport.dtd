@@ -75,6 +75,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsProcessCount "વેબ સામગ્રી પ્રક્રિયાઓ">
 
+<!ENTITY aboutSupport.enterprisePolicies "સંગઠન નીતિ">
+
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Google કી">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla સ્થાન સર્વિસ કી">
 
