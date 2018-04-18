@@ -13,6 +13,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.closeButton.tooltip): This is the tooltip for
   -  the button that closes the debugger UI. -->
+<!ENTITY debuggerUI.closeButton.tooltip "ਬੰਦ ਕਰੋ">
 
 <!-- LOCALIZATION NOTE (debuggerUI.panesButton.tooltip): This is the tooltip for
   -  the button that toggles the panes visible or hidden in the debugger UI. -->
@@ -42,6 +43,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton): This is the label for
   -  the button that clears the collected tracing data in the tracing tab. -->
+<!ENTITY debuggerUI.clearButton "ਸਾਫ਼ ਕਰੋ">
 
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton.tooltip): This is the tooltip for
   -  the button that clears the collected tracing data in the tracing tab. -->
@@ -73,6 +75,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->
+<!ENTITY debuggerUI.searchPanelOperators    "ਓਪਰੇਟਰ:">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchFile): This is the text that appears
   -  in the source editor's context menu for the scripts search operation. -->
@@ -85,9 +88,11 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
   -  in the source editor's context menu for the token search operation. -->
+<!ENTITY debuggerUI.searchToken           "ਲੱਭੋ">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchGoToLine): This is the text that appears
   -  in the source editor's context menu for the line search operation. -->
+<!ENTITY debuggerUI.searchGoToLine           "…ਲਾਈਨ ਉੱਤੇ ਜਾਓ">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchVariable): This is the text that appears
   -  in the source editor's context menu for the variables search operation. -->
@@ -110,6 +115,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
+<!ENTITY debuggerUI.tabs.sources        "ਸਰੋਤ">
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
   -  appears in the source editor context menu for adding an expression. -->
@@ -128,7 +134,9 @@
   -  for the Open in New Tab menu item displayed in the context menu of the
   -  debugger sources side menu. This should be the same as
   -  netmonitorUI.context.newTab  -->
+<!ENTITY debuggerUI.context.newTab           "ਨਵੀਂ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ">
 
 <!-- LOCALIZATION NOTE (debuggerUI.context.copyUrl): This is the label displayed
   -  on the context menu that copies the selected request's url. This should be
   -  the same as netmonitorUI.context.copyUrl -->
+<!ENTITY debuggerUI.context.copyUrl           "URL ਕਾਪੀ ਕਰੋ">

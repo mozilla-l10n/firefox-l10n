@@ -10,9 +10,12 @@
      A good criteria is the language in which you'd find the best documentation
      on web development on the web. -->
 
+<!ENTITY newButton.label            "ਨਵਾਂ">
+
+<!ENTITY importButton.label         "ਇੰਪੋਰਟ ਕਰੋ…">
 
 
-
+<!ENTITY saveButton.label           "ਸੰਭਾਲੋ">
 
 
 <!-- LOCALIZATION NOTE  (showOriginalSources.label): This is the label on the context
@@ -29,6 +32,7 @@
 
 <!-- LOCALICATION NOTE  (mediaRules.label): This is shown above the list of @media rules
      in each stylesheet editor sidebar. -->
+<!ENTITY mediaRules.label           "@media ਨਿਯਮ">
 
 
 <!-- LOCALICATION NOTE  (noStyleSheet.label): This is shown when a page has no

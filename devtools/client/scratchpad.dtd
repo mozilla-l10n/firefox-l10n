@@ -20,26 +20,40 @@
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
+<!ENTITY window.title                 "ਸਕਰੈਚਪੈਡ">
+
+<!ENTITY fileMenu.label               "ਫਾਇਲ">
+
+<!ENTITY newWindowCmd.label           "ਨਵੀਂ ਵਿੰਡੋ">
+
+<!ENTITY openFileCmd.label            "…ਫਾਇਲ ਖੋਲ੍ਹੋ">
+
+<!ENTITY openRecentMenu.label         "ਤਾਜ਼ਾ ਖੋਲ੍ਹੇ">
+
+<!ENTITY revertCmd.label              "…ਰੀਵਰਟ">
+
+<!ENTITY saveFileCmd.label            "ਸੰਭਾਲੋ">
+
+<!ENTITY saveFileAsCmd.label          "…ਵਜੋਂ ਸੰਭਾਲੋ">
+
+<!ENTITY closeCmd.label               "ਬੰਦ">
+
+<!ENTITY viewMenu.label               "ਵੇਖੋ">
 
 
-
-
-
-
-
-
-
-
-
+<!ENTITY wordWrap.label                "ਟੈਕਸਟ ਸਮੇਟੋ">
 
 
  <!-- + is above this key on many keyboards -->
 
 
 
+<!ENTITY editMenu.label               "ਸੋਧ">
+
+<!ENTITY run.label                    "ਚਲਾਓ">
 
 
-
+<!ENTITY display.label                "ਡਿਸਪਲੇਅ">
 
 
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
@@ -48,8 +62,10 @@
   -  the user is evaluating against. I.e., Content (current tab) or Chrome
   -  (browser).
   -->
+<!ENTITY environmentMenu.label        "ਇੰਵਾਇਰਨਮੈਂਟ">
 
 
+<!ENTITY contentContext.label         "ਸਮੱਗਰੀ">
 
 <!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
   -  to select an execution environment for the browser window itself as opposed
@@ -57,6 +73,7 @@
   -  enabled via the devtools.chrome.enabled preference. Formerly, this label
   -  was called "Chrome".
   -->
+<!ENTITY browserContext.label         "ਝਲਕ">
 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
   -  for the help button in the menubar but Gnome does not.
