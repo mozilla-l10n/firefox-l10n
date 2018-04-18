@@ -22,6 +22,21 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] Parametrlar ichidan topish
+           *[other] Sozlamalar ichidan topish
+        }
 policies-notice =
     { PLATFORM() ->
         [windows] Tashkilotingiz ba’zi parametrlarni o‘zgartirishni bloklab qo‘ygan
@@ -30,6 +45,7 @@ policies-notice =
 pane-general-title = Umumiy
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = Uy
 pane-search-title = Izlash
 category-search =
     .tooltiptext = { pane-search-title }
@@ -52,6 +68,7 @@ feature-enable-requires-restart = Ushbu xususiyatni yoqish uchun { -brand-short-
 feature-disable-requires-restart = Ushbu xususiyatni oʻchirish uchun { -brand-short-name } qaytadan ishga tushirilishi kerak.
 should-restart-title = { -brand-short-name }`ni qayta ishga tushirish
 should-restart-ok = { -brand-short-name }ni hozir qayta ishga tushirish
+cancel-no-restart-button = Bekor qilish
 restart-later = Keyinroq qayta ishga tushirish
 
 ## Preferences UI Search Results
@@ -114,9 +131,16 @@ browser-containers-settings =
     .label = Sozlamalar
     .accesskey = s
 containers-disable-alert-title = Barcha Container oynalari yopilsinmi?
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] Konteynerda { $tabCount } ta ichki oynani yopish
+       *[other] Konteynerda { $tabCount } ta ichki oynani yopish
+    }
+containers-disable-alert-cancel-button = Yoniq qoldirish
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = Til va interfeys
 fonts-and-colors-header = Shriftlar va ranglar
 default-font = Standart shrift
     .accesskey = S
@@ -128,6 +152,7 @@ advanced-fonts =
 colors-settings =
     .label = Ranglar…
     .accesskey = R
+language-header = Til
 choose-language-description = Sahifalar ko‘rinishi kerak bo‘lgan til
 choose-button =
     .label = Tanlash…
@@ -144,6 +169,7 @@ check-user-spelling =
 
 ## General Section - Files and Applications
 
+files-and-applications-title = Fayl va ilovalar
 download-header = Yuklab olishlar
 download-save-to =
     .label = Fayllarni saqlash manzili:
@@ -179,6 +205,9 @@ update-history =
     .label = Yangilash tarixini koʻrsatish…
     .accesskey = n
 update-application-allow-description = { -brand-short-name }
+update-application-auto =
+    .label = Yangilanishlarni avtomatik o‘rnatish (tavsiya etiladi)
+    .accesskey = A
 update-application-check-choose =
     .label = Yangilanishlar uchun tekshirsin, ammo foydalanuvchining o‘zi tanlab oʻrnatsin
     .accesskey = t
