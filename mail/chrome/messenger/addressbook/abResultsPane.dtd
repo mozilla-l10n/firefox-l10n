@@ -12,6 +12,8 @@
 <!ENTITY Company.accesskey                     "z">
 <!ENTITY _PhoneticName.label                   "Nombre fonético">
 <!ENTITY _PhoneticName.accesskey               "o">
+<!ENTITY NickName.label                        "Apodo">
+<!ENTITY NickName.accesskey                    "i">
 <!ENTITY SecondEmail.label                     "Otro correo electrónico">
 <!ENTITY SecondEmail.accesskey                 "l">
 <!ENTITY Department.label                      "Departamento">
@@ -28,6 +30,8 @@
 <!ENTITY HomePhone.accesskey                   "o">
 <!ENTITY WorkPhone.label                       "Teléfono del trabajo">
 <!ENTITY WorkPhone.accesskey                   "j">
+<!ENTITY ChatName.label                        "Nombre de chat">
+<!ENTITY ChatName.accesskey                    "C">
 <!ENTITY sortAscending.label                   "Ascendente">
 <!ENTITY sortAscending.accesskey               "A">
 <!ENTITY sortDescending.label                  "Descendente">
