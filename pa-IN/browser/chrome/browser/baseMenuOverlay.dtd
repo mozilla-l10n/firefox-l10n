@@ -1,25 +1,24 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
-   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY minimizeWindow.key "m" >
-<!ENTITY minimizeWindow.label "ਨਿਊਨਤਮ" >
-<!ENTITY bringAllToFront.label "ਸਭ ਤੋਂ ਅੱਗੇ ਲਿਆਓ" >
-<!ENTITY zoomWindow.label "ਜ਼ੂਮ" >
-<!ENTITY windowMenu.label "ਵਿੰਡੋ" >
+<!ENTITY minimizeWindow.key       "m">
+<!ENTITY minimizeWindow.label     "ਨਿਊਨਤਮ">
+<!ENTITY bringAllToFront.label    "ਸਭ ਤੋਂ ਅੱਗੇ ਲਿਆਓ">
+<!ENTITY zoomWindow.label         "ਜ਼ੂਮ">
+<!ENTITY windowMenu.label         "ਵਿੰਡੋ">
 
-<!ENTITY helpMenu.label "ਮਦਦ" >
-<!ENTITY helpMenu.accesskey "H" >
+<!ENTITY helpMenu.label           "ਮਦਦ"> 
+<!ENTITY helpMenu.accesskey       "H"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label	  "ਮਦਦ" >
-<!ENTITY helpMenuWin.accesskey	  "c" >
+<!ENTITY helpMenuWin.label        "ਮਦਦ"> 
+<!ENTITY helpMenuWin.accesskey    "c">
 <!ENTITY aboutProduct2.label      "&brandShorterName; ਬਾਰੇ">
 <!ENTITY aboutProduct2.accesskey  "A">
 <!ENTITY productHelp2.label       "&brandShorterName; ਮਦਦ">
 <!ENTITY productHelp2.accesskey   "H">
 <!ENTITY helpMac.commandkey       "?">
-
 
 <!ENTITY helpKeyboardShortcuts.label     "ਕੀਬੋਰਡ ਸ਼ਾਰਟਕੱਟ">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
@@ -28,9 +27,6 @@
 <!ENTITY helpSafeMode.accesskey   "R">
 <!ENTITY helpSafeMode.stop.label       "ਐਡ-ਆਨ ਸਮਰੱਥ ਕਰਕੇ ਮੁੜ-ਚਾਲੂ ਕਰੋ">
 <!ENTITY helpSafeMode.stop.accesskey   "R">
-
-<!ENTITY healthReport2.label      "&brandShorterName; ਹਾਲਤ ਰਿਪੋਰਟ">
-<!ENTITY healthReport2.accesskey  "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "ਸਮੱਸਿਆ ਹੱਲ ਜਾਣਕਾਰੀ">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">

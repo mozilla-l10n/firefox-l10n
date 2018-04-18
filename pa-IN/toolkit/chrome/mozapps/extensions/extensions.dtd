@@ -3,11 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "ਐਡ-ਆਨ ਮੈਨੇਜਰ">
 
-<!ENTITY search.placeholder                   "ਸਭ ਐਡ-ਆਨ ਲਈ ਖੋਜ ਕਰੋ">
-
 <!ENTITY search.placeholder2                  "addons.mozilla.org ਉੱਤੇ ਖੋਜੋ">
 <!ENTITY search.buttonlabel                   "ਖੋਜੋ">
-<!-- LOCALIZATION NOTE (search.commandKey):
+<!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
@@ -16,7 +14,6 @@
 <!ENTITY listEmpty.availableUpdates.label     "ਕੋਈ ਅੱਪਡੇਟ ਨਹੀਂ ਲੱਭਿਆ">
 <!ENTITY listEmpty.recentUpdates.label        "ਤੁਸੀਂ ਹੁਣੇ ਜਿਹੇ ਕੋਈ ਵੀ ਐਡ-ਆਨ ਅੱਪਡੇਟ ਨਹੀਂ ਕੀਤੀ ਹੈ">
 <!ENTITY listEmpty.findUpdates.label          "ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕਰੋ">
-<!ENTITY listEmpty.search.label               "ਕੋਈ ਵੀ ਰਲਦੀ ਐਡ-ਆਨ ਨਹੀਂ ਲੱਭੀ ਜਾ ਸਕੀ">
 <!ENTITY listEmpty.button.label               "ਐਡ-ਆਨ ਬਾਰੇ ਹੋਰ ਜਾਣੋ">
 <!ENTITY installAddonFromFile.label           "…ਐਡ-ਆਨ ਫਾਈਲ ਤੋਂ ਇੰਸਟਾਲ ਕਰੋ">
 <!ENTITY installAddonFromFile.accesskey       "I">
@@ -24,9 +21,6 @@
 
 <!ENTITY getThemes.description                "ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਨੂੰ ਨਿੱਜੀ ਬਣਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?">
 <!ENTITY getThemes.learnMore                  "ਹਜ਼ਾਰਾਂ ਥੀਮਾਂ ਤੋਂ ਚੁਣੋ।">
-
-<!ENTITY cmd.back.tooltip                     "ਇੱਕ ਸਫ਼ਾ ਪਿੱਛੇ ਜਾਓ">
-<!ENTITY cmd.forward.tooltip                  "ਇੱਕ ਸਫ਼ਾ ਅੱਗੇ ਜਾਓ">
 
 
 <!ENTITY showUnsignedExtensions.button.label  "ਕੁਝ ਇਕਸਟੈਨਸ਼ਨਾਂ ਦੀ ਜਾਂਚ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕੀ">
@@ -44,7 +38,6 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "ਐਡ-ਆਨ ਉੱਤੇ ਸੁਰੱਖਿਆ ਚੈੱਕ ਕੀਤਾ ਜਾਂਦਾ ਹੈ">
 
 <!-- categories / views -->
-<!ENTITY view.search.label                    "ਖੋਜ">
 <!ENTITY view.discover.label                  "ਐਡ-ਆਨ ਲਵੋ">
 <!ENTITY view.recentUpdates.label             "ਤਾਜ਼ਾ ਅੱਪਡੇਟ">
 <!ENTITY view.availableUpdates.label          "ਅੱਪਡੇਟ ਮੌਜੂਦ ਹਨ">
@@ -174,16 +167,6 @@
 <!ENTITY sort.name.tooltip                    "ਨਾਂ ਨਾਲ ਲੜੀਬੱਧ ਕਰੋ">
 <!ENTITY sort.dateUpdated.label               "ਆਖਰੀ ਵਾਰ ਅੱਪਡੇਟ">
 <!ENTITY sort.dateUpdated.tooltip             "ਅੱਪਡੇਟ ਮਿਤੀ ਨਾਲ ਲੜੀਬੱਧ ਕਰੋ">
-<!ENTITY sort.relevance.label                 "ਸਭ ਵਧੀਆ ਮੇਲ">
-<!ENTITY sort.relevance.tooltip               "ਢੁੱਕਵੇਂ ਮੁਤਾਬਕ ਲੜੀਬੱਧ ਕਰੋ">
-<!ENTITY sort.price.label                     "ਮੁੱਲ">
-<!ENTITY sort.price.tooltip                   "ਮੁੱਲ ਮੁਤਾਬਕ ਲੜੀਬੱਧ">
-
-<!ENTITY search.filter2.label                 "ਖੋਜ:">
-<!ENTITY search.filter2.installed.label       "ਮੇਰੇ ਐਡ-ਆਨ">
-<!ENTITY search.filter2.installed.tooltip     "ਇੰਸਟਾਲ ਹੋਏ ਐਡ-ਆਨ ਵੇਖੋ">
-<!ENTITY search.filter2.available.label       "ਉਪਲੱਬਧ ਐਡ-ਆਨ">
-<!ENTITY search.filter2.available.tooltip     "ਇੰਸਟਾਲ ਕਰਨ ਲਈ ਉਪਲੱਬਧ ਐਡ-ਆਨ ਵੇਖੋ">
 
 <!ENTITY addon.homepage                       "ਮੁੱਖ ਸਫ਼ਾ">
 <!ENTITY addon.details.label                  "ਹੋਰ">

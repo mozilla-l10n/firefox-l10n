@@ -25,6 +25,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "ਵਰਜ਼ਨ">
 <!ENTITY aboutSupport.extensionId "ID">
 
+
 <!ENTITY aboutSupport.featuresTitle "&brandShortName; ਫ਼ੀਚਰ">
 <!ENTITY aboutSupport.featureName "ਨਾਂ">
 <!ENTITY aboutSupport.featureVersion "ਵਰਜ਼ਨ">
@@ -71,6 +72,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "ਬਹੁ-ਕਾਰਜ ਵਿੰਡੋਜ਼">
 
 <!ENTITY aboutSupport.appBasicsProcessCount "ਵੈੱਬ ਸਮੱਗਰੀ ਕਾਰਵਾਈ">
+
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Google Key">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla Location Service Key">
@@ -154,3 +156,4 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "ਚੈਨਲ">
 <!ENTITY aboutSupport.mediaDeviceRate "ਰੇਟ">
 <!ENTITY aboutSupport.mediaDeviceLatency "ਦੇਰੀ">
+

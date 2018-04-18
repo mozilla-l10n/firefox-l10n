@@ -44,5 +44,3 @@
 <!ENTITY useFirefoxSync.label             "ਇਸ਼ਾਰਾ: ਇਹ ਵੱਖਰੇ ਪਰੋਫਾਈਲ ਵਰਤਦੇ ਹਨ। ਉਹਨਾਂ ਵਿਚਾਲੇ ਡਾਟਾ ਸਾਂਝਾ ਕਰਨ ਲਈ ਸਿੰਕ ਦੀ ਵਰਤੋਂ।">
 <!ENTITY getStarted.notloggedin.label     "&syncBrand.shortName.label; ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ…">
 <!ENTITY getStarted.configured.label      "&syncBrand.shortName.label; ਮੇਰੀ ਪਸੰਦ ਖੋਲ੍ਹੋ">
-
-<!ENTITY e10sEnabled.label                "ਮਲਟੀ-ਪਰੋਸੈਸ &brandShortName; ਸਮਰੱਥ ਕਰੋ">

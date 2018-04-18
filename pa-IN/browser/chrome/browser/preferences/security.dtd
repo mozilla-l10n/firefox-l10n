@@ -13,6 +13,7 @@
 -->
 
 <!ENTITY  browsingProtection.label        "ਭਰਮਪੂਰਨ ਸਮੱਗਰੀ ਅਤੇ ਖ਼ਤਰਨਾਕ ਸਾਫਟਵੇਅਰ ਸੁਰੱਖਿਆ">
+
 <!ENTITY  enableSafeBrowsing.label        "ਖ਼ਤਰਨਾਕ ਅਤੇ ਭਰਮਪੂਰਕ ਸਮੱਗਰੀ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਓ">
 <!ENTITY  enableSafeBrowsing.accesskey    "B">
 
