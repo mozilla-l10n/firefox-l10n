@@ -484,6 +484,9 @@ privacy-header = პირადული ბრაუზერი
 ## Privacy Section - Forms
 
 forms-header = ველები და პაროლები
+forms-ask-to-save-logins =
+    .label = საიტებზე შესვლის მონაცემების დამახსოვრების მოთხოვნა
+    .accesskey = შ
 forms-exceptions =
     .label = გამონაკლისები…
     .accesskey = ნ
