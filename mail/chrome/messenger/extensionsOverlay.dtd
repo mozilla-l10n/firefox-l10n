@@ -3,3 +3,4 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY cmd.back.tooltip     "Regresar una página">
+<!ENTITY cmd.forward.tooltip  "Ir adelante una página">
