@@ -7,10 +7,6 @@
 <!ENTITY  blockPopups.label           "ਪੋਪਅੱਪ ਵਿੰਡੋ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾਓ">
 <!ENTITY  blockPopups.accesskey       "B">
 
-<!ENTITY  notificationsDoNotDisturb.label      "ਮੈਨੂੰ ਤੰਗ ਨਾ ਕਰੋ">
-<!ENTITY  notificationsDoNotDisturb.accesskey  "n">
-<!ENTITY  notificationsDoNotDisturbDetails.value "ਤੁਹਾਡੇ ਵਲੋਂ &brandShortName; ਨੂੰ ਮੁੜ-ਚਾਲੂ ਹੋਣ ਤੱਕ ਕੋਈ ਸੂਚਨਾ ਨਹੀਂ ਭੇਜੀ ਜਾਵੇਗੀ।">
-
 <!ENTITY  popupExceptions.label                                 "…ਛੋਟ">
 <!ENTITY  popupExceptions.accesskey                             "E">
 

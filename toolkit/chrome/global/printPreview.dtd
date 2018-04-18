@@ -1,7 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
-   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-   
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY print.label          "…ਪਰਿੰਟ">
 <!ENTITY print.accesskey      "P">
 <!ENTITY pageSetup.label      "…ਸਫ਼ਾ ਸੈੱਟਅੱਪ">
@@ -11,7 +11,6 @@
 <!ENTITY of.label             "ਦਾ">
 <!ENTITY scale.label          "ਸਕੇਲ:">
 <!ENTITY scale.accesskey      "S">
-
 <!ENTITY portrait.label       "ਪੋਰਟਰੇਟ">
 <!ENTITY portrait.accesskey   "t">
 <!ENTITY landscape.label      "ਲੈਂਡਸਕੇਪ">

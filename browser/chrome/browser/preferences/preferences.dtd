@@ -28,6 +28,8 @@
 
 <!ENTITY  languageAndAppearance.label   "ਭਾਸ਼ਾ ਤੇ ਦਿੱਖ">
 <!ENTITY  filesAndApplications.label    "ਫਾਈਲਾਂ ਅਤੇ ਐਪਲੀਕੇਸ਼ਨਾਂ">
+
+
 <!ENTITY  browserPrivacy.label          "ਬਰਾਊਜ਼ਰ ਪਰਦੇਦਾਰੀ">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->

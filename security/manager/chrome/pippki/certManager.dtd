@@ -38,7 +38,6 @@
 <!ENTITY certmgr.editcert.edittrust           "ਟਰੱਸਟ ਸੈਟਿੰਗਾਂ ਨੂੰ ਸੋਧੋ:">
 <!ENTITY certmgr.editcert.trustssl            "ਇਹ ਸਰਟੀਫਿਕੇਟ ਵੈੱਬ ਸਾਇਟਾਂ ਦੀ ਪਛਾਣ ਕਰ ਸਕਦਾ ਹੈ।">
 <!ENTITY certmgr.editcert.trustemail          "ਇਹ ਸਰਟੀਫਿਕੇਟ ਮੇਲ ਯੂਜ਼ਰਾਂ ਨੂੰ ਪਛਾਣ ਸਕਦਾ ਹੈ।">
-<!ENTITY certmgr.editcert.trustobjsign        "ਇਹ ਸਰਟੀਫਿਕੇਟ ਸਾਫਟਵੇਅਰ ਨਿਰਮਾਤਾ ਨੂੰ ਪਛਾਣ ਸਕਦਾ ਹੈ।">
 
 <!ENTITY certmgr.deletecert.title             "ਸਰਟੀਫਕੇਟ ਨੂੰ ਹਟਾਓ">
 
