@@ -96,7 +96,7 @@
 <!ENTITY bookmark_parent_folder "โฟลเดอร์หลัก">
 <!ENTITY bookmark_add_folder "เพิ่มโฟลเดอร์ใหม่">
 
-<!ENTITY reader_saved_offline "บันทึกไว้ออฟไลน์">
+<!ENTITY reader_saved_offline "บันทึกไว้ออฟไลน์แล้ว">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
