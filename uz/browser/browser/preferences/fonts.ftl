@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = Shriftlar:
+    .accesskey = f
 fonts-langgroup-arabic =
     .label = Arabcha
 fonts-langgroup-armenian =
@@ -71,10 +73,24 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Proporsional
+    .accesskey = P
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+fonts-proportional-size = Hajmi
+    .accesskey = j
+fonts-serif = Serif
+    .accesskey = S
+fonts-sans-serif = Sans-serif
+    .accesskey = n
+fonts-monospace = Monospace
+    .accesskey = M
+fonts-monospace-size = Hajmi
+    .accesskey = m
+fonts-minsize = Shriftning minimal hajmi
+    .accesskey = h
 fonts-minsize-none =
     .label = Yoʻq
 fonts-allow-own =
@@ -88,12 +104,14 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Legacy Content uchun matnni kodlash usuli
 fonts-languages-fallback-desc = Ushbu kodlash kodlash usuli noma’lum bo‘lgan holatlar uchun ishlatiladi.
+fonts-languages-fallback-label = Matnni muqobil kodlash
+    .accesskey = m
 fonts-languages-fallback-name-auto =
     .label = Joriy til uchun standart
 fonts-languages-fallback-name-arabic =
     .label = Arabcha
 fonts-languages-fallback-name-baltic =
-    .label = Boltibo‘yi
+    .label = Boltiqbo‘yi
 fonts-languages-fallback-name-ceiso =
     .label = Markaziy Yevropa ISO
 fonts-languages-fallback-name-cewindows =

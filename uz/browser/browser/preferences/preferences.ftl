@@ -46,6 +46,8 @@ pane-general-title = Umumiy
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Uy
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = Izlash
 category-search =
     .tooltiptext = { pane-search-title }
@@ -137,6 +139,16 @@ containers-disable-alert-ok-button =
        *[other] Konteynerda { $tabCount } ta ichki oynani yopish
     }
 containers-disable-alert-cancel-button = Yoniq qoldirish
+containers-remove-alert-title = Bu konteyner olib tashlansinmi?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Bu konteynerni olib tashlasangiz, { $count } ta konteyner oynasi yopiladi. Bu konteynerni olib tashlashni xohlaysizmi?
+       *[other] Bu konteynerni olib tashlasangiz, { $count } ta konteyner oynasi yopiladi. Bu konteynerni olib tashlashni xohlaysizmi?
+    }
+containers-remove-ok-button = Bu konteynerni olib tashlash
+containers-remove-cancel-button = Bu konteyner olib tahlanmasin
 
 ## General Section - Language & Appearance
 
@@ -237,6 +249,10 @@ performance-limit-content-process-option = Kontent jarayoni cheklovi
 performance-limit-content-process-enabled-desc = Bir nechta ichki oynalardan foydalanilganda qo‘shimcha kontent jarayoni samaradorlikni oshiradi, ammo ko‘proq xotiradan foydalanadi.
 performance-limit-content-process-disabled-desc = Kontent jarayoni miqdorini o‘zgartirish faqatgina { -brand-short-name } multijarayonlari bilan mavjud.  <a>Multijarayonlar yoqilganda tekshirish usuli</a>
 performance-limit-content-process-blocked-desc = Kontent jarayoni miqdorini o‘zgartirish faqatgina { -brand-short-name } multijarayonlari bilan mavjud.  <a data-l10n-name="learn-more">Multijarayonlar yoqilganda tekshirish usuli</a>
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (standart)
 
 ## General Section - Browsing
 
@@ -259,6 +275,8 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
+network-proxy-title = Tarmoq proksisi
+network-proxy-connection-learn-more = Batafsil ma’lumot
 network-proxy-connection-settings =
     .label = Parametrlar…
     .accesskey = e
