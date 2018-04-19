@@ -499,6 +499,12 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = היסטוריה
+history-remember-option-all =
+    .label = ישמור היסטוריה
+history-remember-option-never =
+    .label = לעולם לא ישמור היסטוריה
+history-remember-option-custom =
+    .label = ישתמש בהגדרות מותאמות אישית להיסטוריה
 history-remember-description = ‏{ -brand-short-name } יזכור את היסטורית הגלישה, ההורדות, הטפסים והחיפוש שלך.
 history-dontremember-description = { -brand-short-name } ישתמש באותן ההגדרות לגלישה פרטית, ולא יזכור היסטוריה כלשהי במהלך הגלישה שלך ברשת.
 history-private-browsing-permanent =
