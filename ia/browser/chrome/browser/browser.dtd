@@ -999,6 +999,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Disactivar le extension">
 <!ENTITY newTabControlled.disableButton.accesskey "">
 
+<!ENTITY homepageControlled.message "Un extension cambiava lo que tu vide quando tu aperi tu pagina casa. Tu pote restaurar tu parametros si tu non vole iste modification.">
+<!ENTITY homepageControlled.header.message "Tu pagina principal cambiava.">
+<!ENTITY homepageControlled.keepButton.label "Mantener le cambios">
+<!ENTITY homepageControlled.keepButton.accesskey "M">
+<!ENTITY homepageControlled.disableButton.label "Disactivar le extension">
+<!ENTITY homepageControlled.disableButton.accesskey "D">
+
 <!ENTITY pageActionButton.tooltip "Actiones del pagina">
 <!ENTITY pageAction.addToUrlbar.label "Adder al barra de adresse">
 <!ENTITY pageAction.removeFromUrlbar.label "Remover del barra de adresse">
@@ -1008,6 +1015,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "Inviar le scheda a un apparato">
 <!ENTITY sendToDevice.syncNotReady.label "Synchronisante apparatos…">
+
+<!ENTITY pageAction.shareUrl.label "Compartir">
 
 <!ENTITY libraryButton.tooltip "Vider chronologia, marcapaginas salvate, e plus">
 
