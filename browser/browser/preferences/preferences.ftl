@@ -503,6 +503,23 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Historial
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label = { -brand-short-name } podrá
+    .accesskey = o
+history-remember-option-all =
+    .label = Recordar el historial
+history-remember-option-never =
+    .label = No recordar el historial
+history-remember-option-custom =
+    .label = Usar una configuración personalizada para el historial
 history-remember-description = { -brand-short-name } recordará su historial de navegación, descargas, formularios y búsqueda.
 history-dontremember-description = { -brand-short-name } usará la misma configuración que en la navegación privada, y no recordará ningún dato de su historial mientras navega por la Web.
 history-private-browsing-permanent =
