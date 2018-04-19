@@ -503,6 +503,10 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = ისტორია
+history-remember-option-all =
+    .label = დაიმახსოვრებს ისტორიას
+history-remember-option-never =
+    .label = არასოდეს დაიმახსოვრებს ისტორიას
 history-remember-description = { -brand-short-name } დაიმახსოვრებს მონახულებული გვერდების ისტორიას, ჩამოთვირთვებს და ძიების ისტორიას.
 history-dontremember-description = { -brand-short-name } ბრაუზერი ისარგებლებს პირადი ფანჯრის პარამეტრებით და არ შეინახავს თქვენ მიერ მონახულებული საიტების ისტორიას.
 history-private-browsing-permanent =
