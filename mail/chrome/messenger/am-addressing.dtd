@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xul -->
 
 <!ENTITY addressing.label          "Pisaś a adresěrowaś">
 <!ENTITY addressingGroupTitle.label "Adresěrowanje">
@@ -16,8 +16,8 @@
 <!ENTITY directories.label         "Drugi LDAP-serwer wužywaś:">
 <!ENTITY directories.accesskey     "D">
 <!ENTITY directoriesNone.label     "Žeden">
-<!-- am-addressing.xul -->
 
+<!-- am-addressing.xul -->
 
 <!ENTITY compositionGroupTitle.label          "Pisaś">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
@@ -28,6 +28,9 @@
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY then.label                           "Pótom,">
 <!ENTITY then.accesskey                       "P">
+<!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY quoting.label                        "Pśi citěrowanju">
+<!ENTITY quoting.accesskey                    "c">
 <!ENTITY aboveQuote.label                     "wótegrono nad citatom zachopiś">
 <!ENTITY belowQuote.label                     "wótegrono pód citatom zachopiś">
 <!ENTITY selectAndQuote.label                 "citat wubraś">
