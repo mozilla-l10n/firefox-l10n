@@ -369,6 +369,10 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = سابقات
+history-remember-option-all =
+    .label = سابقات یاد رکھے
+history-remember-option-never =
+    .label = کبھی سابقات نہ یاد رکھے
 history-dontremember-description = { -brand-short-name } نجی براؤزنگ کی سیٹگنگیں استعمال کرے گا، اور آپ کے براوز کرتے وقت کوئی سابقات نہیں یاد رکھے گا۔
 history-private-browsing-permanent =
     .label = ہمیشہ نجی براوزنگ موڈ استعمال کریں
