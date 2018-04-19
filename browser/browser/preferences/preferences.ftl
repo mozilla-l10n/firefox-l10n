@@ -344,6 +344,12 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Geskiedenis
+history-remember-option-all =
+    .label = geskiedenis onthou
+history-remember-option-never =
+    .label = nooit geskiedenis onthou nie
+history-remember-option-custom =
+    .label = eie instellings vir geskiedenis gebruik
 history-dontremember-description = { -brand-short-name } gebruik dieselfde instellings as private blaaiery en sal nie enige geskiedenis onthou wanneer u die web besoek nie.
 history-private-browsing-permanent =
     .label = Gebruik altyd privaatblaai-modus
