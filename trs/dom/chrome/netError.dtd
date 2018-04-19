@@ -29,12 +29,24 @@
 <!ENTITY malformedURI.longDesc "<p>Nitaj si hua hue'è direksion. Ni'iaj sintaxis nī garahuē nut.</p>">
 
 <!ENTITY netInterrupt.title "Gire' sa duguchin nugua'an">
+<!ENTITY netInterrupt.longDesc "<p>'Iaj sun hue'è navegador sani 'ngà gayi'ij duguchinj ñanj ni gire' ma.  garahue huē ñunt.</p><ul><li>¿Na'ue na'nī a'ngo sitio web a'? Ni'iaj ni' si hua hue'ej riña si agat.</li><li>¿Hua nano na'e a'? Girina'naj 'nga nej dugui' du'uej internet riña raj.</li></ul>">
 
+<!ENTITY notCached.title "Ngà gire' ñanj na">
+<!ENTITY notCached.longDesc "<p>Nitaj ñanj nana'uit nu riña si cachê navegador na.</p><ul><li>Da' dugumint ma ni, si ga'ue gachinj ma'ān navegador nej nuguan' nitaj si huaj gini'īn dara' huìi.</li><li>Guru'ma ra'à ñun da' ni'iajt ñanj na.</li></ul>">
 
+<!ENTITY netOffline.title "Si gida'aj internet">
+<!ENTITY netOffline.longDesc2 "<p>Nitaj si 'iaj sun navegador 'ngà internet. yi'î dan nī na'ue nari'ij sa nana'uit.</p><ul><li>¿Yuma internet riña si paga' ve'ej?</li><li>Ga'ui' &quot;A'ngo ñun&quot; da' gā internet ni ga'ue ni'iajt pagina na.</li></ul>">
 
+<!ENTITY contentEncodingError.title "Gire' 'ngo chrej nana'uij sa gachrûnt">
+<!ENTITY contentEncodingError.longDesc "<p>Si ga'ue nayi'nin pagina huin ruhuat ni'iaj dadin hua 'ngo sa nitaj si 'iaj sun hue'è.</p><ul><li>gaat guni nej dugui' nikaj ñu'unj sitio na.</li></ul>">
 
+<!ENTITY unsafeContentType.title "'Ngo archivo hua ahii huin">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Gi'iaj 'ngo sunnuj ni, nanà'uì' ahui si si'iaj huin sitiô na ni gachinj na'anjt nuj huin saj gire'ej.</li> </ul>">
 
+<!ENTITY netReset.title "Gire' conexión">
+<!ENTITY netReset.longDesc "<p>Gire' ma, na'e na'nin. IGarahue nun.</p>">
 
+<!ENTITY netTimeout.title "Ganahuij diu ana'uijt">
 
 
 
