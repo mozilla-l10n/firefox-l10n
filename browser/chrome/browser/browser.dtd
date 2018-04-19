@@ -999,6 +999,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Nyahdayakan Ekstensi">
 <!ENTITY newTabControlled.disableButton.accesskey "N">
 
+<!ENTITY homepageControlled.message "Ekstensi telah mengubah apa yang dilihat dalam laman anda. Anda boleh pulihkan tetapan jika tidak mahu perubahan ini.">
+<!ENTITY homepageControlled.header.message "Laman anda telah berubah.">
+<!ENTITY homepageControlled.keepButton.label "Simpan Perubahan">
+<!ENTITY homepageControlled.keepButton.accesskey "S">
+<!ENTITY homepageControlled.disableButton.label "Nyahdayakan Ekstensi">
+<!ENTITY homepageControlled.disableButton.accesskey "N">
+
 <!ENTITY pageActionButton.tooltip "Tindakan halaman">
 <!ENTITY pageAction.addToUrlbar.label "Tambah ke Bar Alamat">
 <!ENTITY pageAction.removeFromUrlbar.label "Buang daripada Bar Alamat">
@@ -1008,6 +1015,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "Hantar Tab ke Peranti">
 <!ENTITY sendToDevice.syncNotReady.label "Sync Peranti…">
+
+<!ENTITY pageAction.shareUrl.label "Kongsi">
 
 <!ENTITY libraryButton.tooltip "Papar sejarah, tandabuku yang disimpan dan banyak lagi">
 
