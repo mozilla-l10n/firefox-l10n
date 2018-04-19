@@ -187,6 +187,9 @@ choose-button =
 translate-web-pages =
     .label = Prekladať webový obsah do iného jazyka
     .accesskey = r
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = Preložené pomocou služby <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Výnimky…
     .accesskey = m
@@ -502,6 +505,12 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = História
+history-remember-option-all =
+    .label = Pamätať si históriu prehliadania
+history-remember-option-never =
+    .label = Nikdy neukladať históriu prehliadania
+history-remember-option-custom =
+    .label = Použiť vlastné nastavenia
 history-remember-description = { -brand-short-name } si bude pamätať históriu vášho prehliadania, preberania, formulárov a vyhľadávania.
 history-dontremember-description = { -brand-short-name } použije totožné nastavenia s režimom Súkromné prehliadanie a nebude si pamätať žiadnu históriu prehliadania webu.
 history-private-browsing-permanent =
