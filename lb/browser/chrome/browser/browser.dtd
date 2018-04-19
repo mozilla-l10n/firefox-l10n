@@ -655,11 +655,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Synchroniséieren">
 
 <!ENTITY customizeMode.done "Fäerdeg">
+<!ENTITY customizeMode.lwthemes.recommended "Recommandéiert">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
+<!ENTITY customizeMode.uidensity.menuNormal.label "Normal">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Normal">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
      “Compact” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Compact). -->
+<!ENTITY customizeMode.uidensity.menuCompact.label "Kompakt">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Kompakt">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
      “Touch” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Touch), and it means that control layout is
@@ -674,8 +680,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 
+<!ENTITY pluginNotification.showAll.label "All weisen">
 
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
+<!ENTITY pluginActivateNow.label "Dës Kéier erlaben">
+<!ENTITY pluginActivateAlways.label "Erlaben a verhalen">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
@@ -683,21 +692,37 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 
+<!ENTITY uiTour.infoPanel.close "Zoumaachen">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
+<!ENTITY panicButton.view.5min                    "Fënnef Minutten">
+<!ENTITY panicButton.view.2hr                     "Zwou Stonnen">
+<!ENTITY panicButton.view.day                     "24 Stonnen">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
 
+<!ENTITY panicButton.view.undoWarning             "Dës Aktioun kann net réckgängeg gemaach ginn.">
+<!ENTITY panicButton.view.forgetButton            "Vergiessen!">
+
+<!ENTITY panicButton.thankyou.msg2                "Sécher surfen!">
+<!ENTITY panicButton.thankyou.buttonlabel         "Merci!">
 
 
+<!ENTITY updateAvailable.whatsnew.label "Kucke wat et Neies gëtt.">
+<!ENTITY updateAvailable.acceptButton.label "Update eroflueden">
+<!ENTITY updateAvailable.cancelButton.label "Net elo">
 
+<!ENTITY updateManual.whatsnew.label "Kucke wat et Neies gëtt.">
+<!ENTITY updateManual.acceptButton.label "&brandShorterName; eroflueden">
+<!ENTITY updateManual.cancelButton.label "Net elo">
 
-
+<!ENTITY updateRestart.cancelButton.label "Net elo">
+<!ENTITY updateRestart.cancelButton.accesskey "N">
 
 
 
