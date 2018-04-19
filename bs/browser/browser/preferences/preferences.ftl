@@ -474,6 +474,12 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Historija
+history-remember-option-all =
+    .label = Pamtiti historiju
+history-remember-option-never =
+    .label = Nemoj nikad pamtiti historiju
+history-remember-option-custom =
+    .label = Koristiti korisničke postavke za historiju
 history-dontremember-description = { -brand-short-name } će koristiti iste postavke kao za privatno surfanje, i neće pamtiti bilo kakvu historiju dok pregledate Web.
 history-private-browsing-permanent =
     .label = Uvijek koristi režim privatnog surfanja
