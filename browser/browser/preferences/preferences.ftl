@@ -184,6 +184,9 @@ choose-button =
 translate-web-pages =
     .label = Traduire le contenu web
     .accesskey = w
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = Traductions fournies par <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Exceptions…
     .accesskey = x
@@ -404,6 +407,15 @@ sync-signedout-account-create = Vous n’avez pas de compte ? Inscrivez-vous
 sync-signedout-account-signin =
     .label = Se connecter…
     .accesskey = S
+# This message contains two links and two icon images.
+#   `<img data-l10n-name="android-icon"/>` - Android logo icon
+#   `<a data-l10n-name="android-link">` - Link to Android Download
+#   `<img data-l10n-name="ios-icon">` - iOS logo icon
+#   `<a data-l10n-name="ios-link">` - Link to iOS Download
+#
+# They can be moved within the sentence as needed to adapt
+# to your language, but should not be changed or translated.
+sync-mobile-promo = Téléchargez Firefox pour <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> ou <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> afin de synchroniser vos données avec votre appareil mobile.
 
 ## Sync Section - Signed in
 
@@ -499,6 +511,23 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Historique
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label = Règles de conservation
+    .accesskey = R
+history-remember-option-all =
+    .label = Conserver l’historique
+history-remember-option-never =
+    .label = Ne jamais conserver l’historique
+history-remember-option-custom =
+    .label = Utiliser les paramètres personnalisés pour l’historique
 history-remember-description = { -brand-short-name } conservera les données de navigation, les téléchargements, les formulaires et l’historique de recherche.
 history-dontremember-description = { -brand-short-name } utilisera les mêmes paramètres que pour la navigation privée et ne conservera aucun historique de votre navigation.
 history-private-browsing-permanent =
