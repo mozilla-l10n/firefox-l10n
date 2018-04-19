@@ -187,6 +187,9 @@ choose-button =
 translate-web-pages =
     .label = Eadar-theangaich susbaint-lìn
     .accesskey = t
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = An t-eadar-theangachadh le <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Eisgeachdan…
     .accesskey = E
@@ -391,6 +394,15 @@ sync-signedout-account-create = Nach eil cunntas agad? Dèan toiseach-tòiseacha
 sync-signedout-account-signin =
     .label = Clàraich a-steach...
     .accesskey = I
+# This message contains two links and two icon images.
+#   `<img data-l10n-name="android-icon"/>` - Android logo icon
+#   `<a data-l10n-name="android-link">` - Link to Android Download
+#   `<img data-l10n-name="ios-icon">` - iOS logo icon
+#   `<a data-l10n-name="ios-link">` - Link to iOS Download
+#
+# They can be moved within the sentence as needed to adapt
+# to your language, but should not be changed or translated.
+sync-mobile-promo = Luchdaich a-nuas Firefox airson <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> no <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> gus sioncronachadh a dhèanamh leis an uidheam mobile agad.
 
 ## Sync Section - Signed in
 
@@ -483,6 +495,17 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Eachdraidh
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label = Nì { -brand-short-name } na leanas:
+    .accesskey = N
 history-remember-option-all =
     .label = Cuimhnich an eachdraidh
 history-remember-option-never =
