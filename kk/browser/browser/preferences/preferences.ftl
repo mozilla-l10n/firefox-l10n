@@ -184,6 +184,9 @@ choose-button =
 translate-web-pages =
     .label = Веб құрамасын аудару
     .accesskey = а
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = Аударманы ұсынған <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Осыдан бөлек…
     .accesskey = О
