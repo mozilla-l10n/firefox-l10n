@@ -187,6 +187,9 @@ choose-button =
 translate-web-pages =
     .label = Tłumaczenie stron WWW
     .accesskey = T
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = Tłumaczeń dostarcza <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Wyjątki…
     .accesskey = i
@@ -269,11 +272,11 @@ performance-limit-content-process-option = Limit liczby procesów treści:
     .accesskey = o
 performance-limit-content-process-enabled-desc = Więcej procesów treści może poprawić wydajność przy wielu otwartych kartach, ale zwiększy też zapotrzebowanie na pamięć.
 performance-limit-content-process-disabled-desc = Zmiana liczby procesów jest możliwa, jeśli { -brand-short-name } został uruchomiony z obsługą wielu procesów. <a>Jak sprawdzić, czy obsługa wielu procesów jest włączona</a>?
-performance-limit-content-process-blocked-desc=Zmiana liczby procesów jest możliwa, jeśli { -brand-short-name } został uruchomiony z obsługą wielu procesów. <a data-l10n-name="learn-more">Jak sprawdzić, czy obsługa wielu procesów jest włączona</a>?
+performance-limit-content-process-blocked-desc = Zmiana liczby procesów jest możliwa, jeśli { -brand-short-name } został uruchomiony z obsługą wielu procesów. <a data-l10n-name="learn-more">Jak sprawdzić, czy obsługa wielu procesów jest włączona</a>?
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
-    .label={ $num } (domyślnie)
+    .label = { $num } (domyślnie)
 
 ## General Section - Browsing
 
@@ -303,22 +306,25 @@ network-proxy-connection-settings =
     .accesskey = U
 
 ## Home Section
-home-new-windows-tabs-header=Nowe okna i karty
-home-new-windows-tabs-description2=Wybierz, co ma być wyświetlane przy otwieraniu strony startowej, nowych okien i kart.
-home-restore-defaults =
-    .label=Przywróć domyślne
-    .accesskey=P
-home-homepage-mode-label=Strona startowa i nowe okna:
-home-newtabs-mode-label=Nowa karta:
-home-mode-choice-default =
-    .label=Strona domowa programu Firefox (domyślnie)
-home-mode-choice-custom =
-    .label=Inne strony
-home-mode-choice-blank =
-    .label=Pusta strona
-home-homepage-custom-url=
-    .placeholder=Adres URL
 
+home-new-windows-tabs-header = Nowe okna i karty
+home-new-windows-tabs-description2 = Wybierz, co ma być wyświetlane przy otwieraniu strony startowej, nowych okien i kart.
+
+## Home Section - Home Page Customization
+
+home-homepage-mode-label = Strona startowa i nowe okna:
+home-newtabs-mode-label = Nowa karta:
+home-restore-defaults =
+    .label = Przywróć domyślne
+    .accesskey = P
+home-mode-choice-default =
+    .label = Strona domowa programu Firefox (domyślnie)
+home-mode-choice-custom =
+    .label = Inne strony
+home-mode-choice-blank =
+    .label = Pusta strona
+home-homepage-custom-url =
+    .placeholder = Adres URL
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -418,9 +424,9 @@ sync-signedin-login-failure = Zaloguj się, aby ponownie połączyć konto { $em
 sync-resend-verification =
     .label = Wyślij nową wiadomość weryfikującą
     .accesskey = W
-sync-remove-account=
-    .label=Usuń konto
-    .accesskey=U
+sync-remove-account =
+    .label = Usuń konto
+    .accesskey = U
 sync-sign-in =
     .label = Zaloguj
     .accesskey = o
@@ -498,8 +504,14 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Historia
+history-remember-option-all =
+    .label = będzie zachowywał historię
+history-remember-option-never =
+    .label = nie będzie zachowywał historii
+history-remember-option-custom =
+    .label = będzie używał ustawień użytkownika
 history-remember-description = { -brand-short-name } zachowa historię przeglądania, wyszukiwania, pobieranych plików i danych formularzy.
-history-dontremember-description={ -brand-short-name } będzie używał tych samych ustawień co w trybie prywatnym i nie będzie zachowywał historii podczas przeglądania witryn WWW.
+history-dontremember-description = { -brand-short-name } będzie używał tych samych ustawień co w trybie prywatnym i nie będzie zachowywał historii podczas przeglądania witryn WWW.
 history-private-browsing-permanent =
     .label = Zawsze aktywny tryb przeglądania prywatnego
     .accesskey = t
