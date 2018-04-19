@@ -1,0 +1,40 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+<!ENTITY places.library.title  "Bibliothéik">
+<!ENTITY places.library.width  "700">
+<!ENTITY places.library.height "500">
+<!ENTITY organize.label        "Organiséieren">
+<!ENTITY organize.accesskey    "O">
+<!ENTITY organize.tooltip      "Organiséier Deng Lieszeechen">
+
+<!ENTITY file.close.label               "Zoumaachen">
+<!ENTITY file.close.accesskey           "C">
+<!ENTITY cmd.close.key                  "w">
+<!ENTITY view.columns.label             "Kolonne weisen">
+<!ENTITY view.columns.accesskey         "C">
+<!ENTITY view.sort.label                "Zortéieren">
+<!ENTITY view.sort.accesskey            "S">
+<!ENTITY view.unsorted.label            "Net zortéiert">
+<!ENTITY view.unsorted.accesskey        "U">
+<!ENTITY view.sortAscending.label       "A > Z Zortéierschlëssel">
+<!ENTITY view.sortAscending.accesskey   "A">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

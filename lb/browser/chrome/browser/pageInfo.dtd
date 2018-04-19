@@ -15,6 +15,7 @@
 
 <!ENTITY  mediaTab              "Medien">
 <!ENTITY  mediaTab.accesskey    "M">
+<!ENTITY  mediaLocation         "Adress:">
 <!ENTITY  mediaText             "Associéierten Text:">
 <!ENTITY  mediaAltHeader        "Alternativen Text">
 <!ENTITY  mediaAddress          "Adress">
@@ -27,10 +28,10 @@
 
 <!ENTITY  feedSubscribe         "Abonnéieren">
 
+<!ENTITY  permTab               "Erlaabnisser">
 <!ENTITY  permAskAlways         "Ëmmer froen">
 <!ENTITY  permAllow             "Erlaben">
 <!ENTITY  permAllowSession      "Fir d'Sessioun erlaben">
-
 
 <!ENTITY  securityTab           "Sécherheet">
 
