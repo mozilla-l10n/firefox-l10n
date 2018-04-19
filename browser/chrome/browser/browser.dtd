@@ -999,6 +999,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Deshabilitar extensión">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
+<!ENTITY homepageControlled.message "Una extensión cambió lo que ve como su página de inicio. Puede restaurar su configuración si no desea este cambio.">
+<!ENTITY homepageControlled.header.message "Cambió su página de inicio.">
+
 <!ENTITY pageActionButton.tooltip "Acciones de página">
 <!ENTITY pageAction.addToUrlbar.label "Agregar a la barra de direcciones">
 <!ENTITY pageAction.removeFromUrlbar.label "Eliminar de la barra de direcciones">
@@ -1008,6 +1011,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "Enviar pestaña a dispositivo">
 <!ENTITY sendToDevice.syncNotReady.label "Sincronizando dispositivos…">
+
 
 <!ENTITY libraryButton.tooltip "Ver historial, marcadores guardados y más">
 
