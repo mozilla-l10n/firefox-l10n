@@ -184,6 +184,9 @@ choose-button =
 translate-web-pages =
     .label = Titzalq'omïx rupam ajk'amaya'l
     .accesskey = T
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = Tzalq'oman ruma <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Taq man relik ta…
     .accesskey = e
@@ -405,6 +408,15 @@ sync-signedout-account-create = ¿La man k'o ta jun ataqoya'l? Titikirisäx
 sync-signedout-account-signin =
     .label = Titikirisäx molojri'ïl…
     .accesskey = C
+# This message contains two links and two icon images.
+#   `<img data-l10n-name="android-icon"/>` - Android logo icon
+#   `<a data-l10n-name="android-link">` - Link to Android Download
+#   `<img data-l10n-name="ios-icon">` - iOS logo icon
+#   `<a data-l10n-name="ios-link">` - Link to iOS Download
+#
+# They can be moved within the sentence as needed to adapt
+# to your language, but should not be changed or translated.
+sync-mobile-promo = Taqasaj Firefox richin <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> chuqa' <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> richin naxïm rik'in ri awoyonib'al okisaxel.
 
 ## Sync Section - Signed in
 
@@ -500,6 +512,23 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Natab'äl
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label = { -brand-short-name } xtipo'
+    .accesskey = x
+history-remember-option-all =
+    .label = Tinatäx ri natab'äl
+history-remember-option-never =
+    .label = Mani ninatäx ri natab'äl
+history-remember-option-custom =
+    .label = Tokisäx jun ichinan runuk'ulem re natab'äl
 history-remember-description = { -brand-short-name } Xtunataj awokem pa k'amaya'l, qasanïk, nojwuj chuqa' runatab'al kanoxïk.
 history-dontremember-description = { -brand-short-name } xtrokisaj ri junam runuk'ulem achi'el pa ichinan okem pa k'amaya'l, chuqa' man xkerunataj ta ri taq rutzij natab'äl toq tajin nok pa ajk'amaya'l.
 history-private-browsing-permanent =
