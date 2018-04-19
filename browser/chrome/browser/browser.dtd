@@ -988,7 +988,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "ა">
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName;-ის გასაახლებლად, გაუშვით ხელახლა">
 
-<!ENTITY newTabControlled.message "გვერდი რომელსაც ხედავთ ახალი ჩანართის გახსნისას, ჩანაცვლებულია გაფართოების მიერ. თუ არ გსურთ ეს ცვლილება, შეგიძლიათ დააბრუნოთ ძველი პარამეტრები.">
+<!ENTITY newTabControlled.message "გვერდი რომელსაც ხედავთ ახალი ჩანართის გახსნისას, შეცვლილია გაფართოების მიერ. თუ არ გსურთ ეს ცვლილება, შეგიძლიათ დააბრუნოთ ძველი პარამეტრები.">
 
 <!ENTITY newTabControlled.header.message "ახალი ჩანართის გვერდი შეიცვალა.">
 <!ENTITY newTabControlled.keepButton.label "ცვლილებების დატოვება">
@@ -999,6 +999,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "გაფართოების ამორთვა">
 <!ENTITY newTabControlled.disableButton.accesskey "მ">
 
+<!ENTITY homepageControlled.message "საწყისი გვერდი, შეცვლილია გაფართოების მიერ. თუ არ გსურთ ეს ცვლილება, შეგიძლიათ დააბრუნოთ ძველი პარამეტრები.">
+<!ENTITY homepageControlled.header.message "თქვენი საწყისი გვერდი შეცვლილია.">
+<!ENTITY homepageControlled.keepButton.label "ცვლილებების დატოვება">
+<!ENTITY homepageControlled.keepButton.accesskey "ც">
+<!ENTITY homepageControlled.disableButton.label "გაფართოების ამორთვა">
+<!ENTITY homepageControlled.disableButton.accesskey "მ">
+
 <!ENTITY pageActionButton.tooltip "ვებგვერდზე მოქმედებები">
 <!ENTITY pageAction.addToUrlbar.label "მისამართების ზოლში დამატება">
 <!ENTITY pageAction.removeFromUrlbar.label "მისამართების ზოლიდან ამოღება">
@@ -1008,6 +1015,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "ჩანართის გაგზავნა მოწყობილობაზე">
 <!ENTITY sendToDevice.syncNotReady.label "მოწყობილობების დასინქრონება…">
+
+<!ENTITY pageAction.shareUrl.label "გაზიარება">
 
 <!ENTITY libraryButton.tooltip "იხილეთ ისტორია, შენახული სანიშნები და ა.შ.">
 
