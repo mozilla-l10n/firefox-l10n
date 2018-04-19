@@ -993,6 +993,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "ปิดใช้งานส่วนขยาย">
 <!ENTITY newTabControlled.disableButton.accesskey "ป">
 
+<!ENTITY homepageControlled.header.message "หน้าแรกของคุณมีการเปลี่ยนแปลง">
+
 <!ENTITY pageActionButton.tooltip "การกระทำของหน้า">
 <!ENTITY pageAction.addToUrlbar.label "เพิ่มไปยังแถบที่อยู่">
 <!ENTITY pageAction.removeFromUrlbar.label "เอาออกจากแถบที่อยู่">
@@ -1002,6 +1004,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "ส่งแท็บไปยังอุปกรณ์">
 <!ENTITY sendToDevice.syncNotReady.label "กำลังซิงค์อุปกรณ์…">
+
+<!ENTITY pageAction.shareUrl.label "แบ่งปัน">
 
 <!ENTITY libraryButton.tooltip "ดูประวัติ, ที่คั่นหน้าที่บันทึกไว้ และอื่น ๆ">
 
