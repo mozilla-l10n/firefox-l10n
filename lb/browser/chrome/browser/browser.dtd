@@ -725,8 +725,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 
 
+<!ENTITY newTabControlled.keepButton.label "Ännerunge bäibehalen">
+<!ENTITY newTabControlled.restoreButton.label "Astellunge restauréieren">
 
 
+<!ENTITY pageAction.disallowInUrlbar.label "Net an der Adressleescht weisen">
 
 
 
