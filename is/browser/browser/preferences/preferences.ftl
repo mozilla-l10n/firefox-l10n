@@ -184,6 +184,9 @@ choose-button =
 translate-web-pages =
     .label = Þýða innihald vefsíðu
     .accesskey = Þ
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = Þýtt af <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Undanþágur…
     .accesskey = U
