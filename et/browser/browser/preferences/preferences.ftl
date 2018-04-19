@@ -180,6 +180,9 @@ choose-button =
 translate-web-pages =
     .label = Lubatakse veebisisu tõlkimine
     .accesskey = t
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = Tõlkijaks on <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Erandid…
     .accesskey = n
@@ -495,6 +498,23 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Ajalugu
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label = { -brand-short-name }
+    .accesskey = e
+history-remember-option-all =
+    .label = säilitab ajaloo
+history-remember-option-never =
+    .label = ei säilita ajalugu
+history-remember-option-custom =
+    .label = kasutab ajaloo säilitamiseks kohandatud sätteid
 history-remember-description = { -brand-short-name } peab meeles sinu veebilehitsemise ajaloo, allalaadimised ning vormide ja otsingu ajaloo.
 history-dontremember-description = { -brand-short-name } kasutab samu sätteid, mida kasutatakse privaatse veebilehitsemise korral, veebilehitsemise ajalugu ei säilitata.
 history-private-browsing-permanent =
