@@ -468,6 +468,12 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = تاریخچه
+history-remember-option-all =
+    .label = تاریخچه را به خاطر خواهد داشت
+history-remember-option-never =
+    .label = هرگز تاریخچه را به خاطر نمی‌سپارد
+history-remember-option-custom =
+    .label = تنظیمات خاصی را برای تاریخچه استفاده می‌کند
 history-dontremember-description = { -brand-short-name } تنظیمات حالت مرور ناشناس را استفاده خواهد کرد، و هیچ تاریخچه‌ای از مرور شما در وب نگه نخواهد داشت.
 history-private-browsing-permanent =
     .label = همیشه از حالت  مرور خصوصی استفاده کن
