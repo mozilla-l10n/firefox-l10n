@@ -282,6 +282,13 @@
 <!ENTITY pref_whats_new_notification "Co je nového v aplikaci &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Zjistěte více o nových funkcích po aktualizaci">
 
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!ENTITY pref_feature_tips_notification "Tipy na produkty a funkce">
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+<!ENTITY pref_feature_tips_notification_summary "Zjistěte více o používání aplikace &brandShortName; a dalších produktech společnosti &vendorShortName;">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "Experimentální funkce">
@@ -422,7 +429,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "Zdraví aplikace &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "Sdílí data o zdraví vašeho prohlížeče s organizací &vendorShortName; a pomáhá vám porozumět výkonu vašeho prohlížeče">
-<!ENTITY datareporting_abouthr_title "Zobrazit mé Hlášení o zdraví">
 <!ENTITY datareporting_telemetry_title "Telemetrie">
 <!ENTITY datareporting_telemetry_summary "Zaznamenává data o výkonu, používání, hardware a přizpůsobení prohlížeče &brandShortName;. Data o prohlížeči jsou sdílena s organizací &vendorShortName; z důvodu jeho vylepšení.">
 <!ENTITY datareporting_crashreporter_summary "Odesílá hlášení o pádu prohlížeče &brandShortName; a pomáhá organizaci &vendorShortName; vylepšit jeho stabilitu a bezpečnost.">
