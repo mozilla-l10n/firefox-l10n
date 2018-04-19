@@ -179,6 +179,9 @@ choose-button =
 translate-web-pages =
     .label = Suqel agbur web
     .accesskey = S
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = Tasuqilt sɣuṛ <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Tisuraf…
     .accesskey = r
@@ -494,6 +497,10 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Amazray
+history-remember-option-all =
+    .label = Ḥrez amazray
+history-remember-option-never =
+    .label = Ur ḥerrez ara amazray
 history-dontremember-description = { -brand-short-name } ad isseqdec iɣewwaṛen n tunigin tusligt, u diɣen ur iḥerrez ara amazray n tunigin-inek.
 history-private-browsing-permanent =
     .label = Seqdec yal ass askar n tunigin tusligt
