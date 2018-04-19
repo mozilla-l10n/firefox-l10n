@@ -184,6 +184,9 @@ choose-button =
 translate-web-pages =
     .label = Traducir contenido web
     .accesskey = T
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = Traducciones por <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Excepciones…
     .accesskey = x
@@ -512,6 +515,23 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Historial
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label = { -brand-short-name }:
+    .accesskey = F
+history-remember-option-all =
+    .label = recordará el historial
+history-remember-option-never =
+    .label = nunca recordará el historial
+history-remember-option-custom =
+    .label = usará la configuración personalizada para el historial
 history-remember-description = { -brand-short-name } recordará su historial de navegación, descargas, formularios e historial de búsquedas.
 history-dontremember-description = { -brand-short-name } utilizará la misma configuración que para las búsquedas privadas y no recordará el historial mientras navegue por la web.
 history-private-browsing-permanent =
