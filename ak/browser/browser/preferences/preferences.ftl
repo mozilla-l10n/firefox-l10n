@@ -180,6 +180,12 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-remember-option-all =
+    .label = Kae abakɔsɛm
+history-remember-option-never =
+    .label = Mma nnkae abakɔsɛm biara
+history-remember-option-custom =
+    .label = Hyehyɛ abakɔsɛm ankorankorɛ
 history-dontremember-description = { -brand-short-name } de nhyehyɛe te sɛ brawsen praevet de bedi dwuma, na ɔrennkae wo abakɔsɛm biara wɔ bere a wo brawse Wɛb no so.
 history-private-browsing-permanent =
     .label = Fa tebea praevet a wɔde brawse di dwuma abere biara
