@@ -424,7 +424,7 @@
 <!ENTITY summary.dialog.accept.label            "Aceptar">
 <!ENTITY summary.dialog.accept.tooltiptext      "Aceptar la invitación">
 <!ENTITY summary.dialog.tentative.label         "Tentativo">
-<!ENTITY summary.dialog.tentative.tooltiptext   "Aceptar invitación tentativamente">
+<!ENTITY summary.dialog.tentative.tooltiptext   "Aceptar la invitación tentativamente">
 <!ENTITY summary.dialog.decline.label           "Declinar">
 <!ENTITY summary.dialog.decline.tooltiptext     "Declinar la invitación">
 <!ENTITY summary.dialog.dontsend.label          "No enviar una respuesta">
