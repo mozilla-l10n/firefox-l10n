@@ -175,6 +175,9 @@ choose-button =
 translate-web-pages =
     .label = Traduki teksaĵan enhavon
     .accesskey = T
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = Tradukita de <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Esceptoj…
     .accesskey = s
@@ -379,6 +382,15 @@ sync-signedout-account-create = Ĉu vi ne havas konton? Enskribiĝu
 sync-signedout-account-signin =
     .label = Komenci seancon…
     .accesskey = K
+# This message contains two links and two icon images.
+#   `<img data-l10n-name="android-icon"/>` - Android logo icon
+#   `<a data-l10n-name="android-link">` - Link to Android Download
+#   `<img data-l10n-name="ios-icon">` - iOS logo icon
+#   `<a data-l10n-name="ios-link">` - Link to iOS Download
+#
+# They can be moved within the sentence as needed to adapt
+# to your language, but should not be changed or translated.
+sync-mobile-promo = Elŝuti Firefox por <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> aŭ <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> por speguli kun via portebla aparato.
 
 ## Sync Section - Signed in
 
@@ -471,6 +483,12 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Historio
+history-remember-option-all =
+    .label = memoros historion
+history-remember-option-never =
+    .label = neniam memoros historion
+history-remember-option-custom =
+    .label = uzos personajn agordojn por la historio
 history-dontremember-description = { -brand-short-name } uzos la samajn agordojn de privata retumo, kaj ĝi ne memoros iun historion dum vi esploras la reton.
 history-private-browsing-permanent =
     .label = Ĉiam uzi la reĝimon de privata retumo
