@@ -407,6 +407,15 @@ sync-signedout-account-create = Ertu ekki með reikning? Skráðu þig
 sync-signedout-account-signin =
     .label = Innskráning…
     .accesskey = I
+# This message contains two links and two icon images.
+#   `<img data-l10n-name="android-icon"/>` - Android logo icon
+#   `<a data-l10n-name="android-link">` - Link to Android Download
+#   `<img data-l10n-name="ios-icon">` - iOS logo icon
+#   `<a data-l10n-name="ios-link">` - Link to iOS Download
+#
+# They can be moved within the sentence as needed to adapt
+# to your language, but should not be changed or translated.
+sync-mobile-promo = Hala niður Firefox fyrir <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> eða <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> til að samstilla með farsímanum.
 
 ## Sync Section - Signed in
 
@@ -502,6 +511,23 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Ferill
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label = { -brand-short-name } mun
+    .accesskey = m
+history-remember-option-all =
+    .label = Geyma feril
+history-remember-option-never =
+    .label = Aldrei geyma feril
+history-remember-option-custom =
+    .label = Nota sérsniðnar stillingar fyrir feril
 history-remember-description = { -brand-short-name } mun muna feril, niðurhöl, form innslátt og leitarsögu.
 history-dontremember-description = { -brand-short-name } mun nota sömu stillingar og í huliðsstillingu, og geyma ekki vafraferil.
 history-private-browsing-permanent =
