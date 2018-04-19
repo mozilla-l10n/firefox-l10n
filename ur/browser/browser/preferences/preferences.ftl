@@ -156,6 +156,9 @@ choose-button =
 translate-web-pages =
     .label = ترجمہ کریں ویب کے مواد کا
     .accesskey = ت
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = کی طرف سے ترجمے <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = استثنیات ...
     .accesskey = س
@@ -310,6 +313,15 @@ sync-signedout-account-create = اکائونٹ نہیں ہے؟ شروع کریں
 sync-signedout-account-signin =
     .label = سائن ان…
     .accesskey = I
+# This message contains two links and two icon images.
+#   `<img data-l10n-name="android-icon"/>` - Android logo icon
+#   `<a data-l10n-name="android-link">` - Link to Android Download
+#   `<img data-l10n-name="ios-icon">` - iOS logo icon
+#   `<a data-l10n-name="ios-link">` - Link to iOS Download
+#
+# They can be moved within the sentence as needed to adapt
+# to your language, but should not be changed or translated.
+sync-mobile-promo = Firefox ڈاؤن لوڈ کریں <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> یا <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a>آپ کے موبائل ڈیوائس کے ساتھ ہمہ وقت ساز
 
 ## Sync Section - Signed in
 
