@@ -183,6 +183,9 @@ choose-button =
 translate-web-pages =
     .label = వెబ్ కాంటెంట్ అనువదించు
     .accesskey = T
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = అనువాదాల సౌజన్యం <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = మినహాయింపులు…
     .accesskey = x
@@ -484,6 +487,23 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = చరిత్ర
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label = { -brand-short-name }
+    .accesskey = w
+history-remember-option-all =
+    .label = చరిత్రను గుర్తుపెట్టుకుంటుంది
+history-remember-option-never =
+    .label = ఎప్పుడూ చరిత్రను గుర్తుపెట్టుకోదు
+history-remember-option-custom =
+    .label = చరిత్ర కోసం అభిమత అమరికలు వాడుతుంది
 history-dontremember-description = { -brand-short-name } గోప్య వీక్షణం అమరికలనే వాడుతుంది మరియు మీ వీక్షణ చరిత్రని గుర్తుంచుకోదు.
 history-private-browsing-permanent =
     .label = ఎల్లప్పుడూ ఆంతరంగిక విహారణ రీతిని వాడు
