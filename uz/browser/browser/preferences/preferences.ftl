@@ -472,6 +472,8 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Tarix
+history-remember-option-never =
+    .label = Tarix hech qachon eslab qolinmasin
 history-dontremember-description = { -brand-short-name } xuddi shu moslamalardan shaxsiy ko‘rish sifatida foydalanadi va tarixni saqlab qolmaydi.
 history-private-browsing-permanent =
     .label = Doimo maxfiy ko‘rish usulidan foydalanish
