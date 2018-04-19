@@ -140,6 +140,9 @@ choose-button =
 translate-web-pages =
     .label = Vertaal webinhoud
     .accesskey = V
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = Vertalings deur <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Uitsonderings…
     .accesskey = i
@@ -288,6 +291,15 @@ containers-add-button =
 sync-signedout-caption = Neem die Web saam
 sync-signedout-description = Sinkroniseer boekmerke, geskiedenis, oortjies, wagwoorde, byvoegings en voorkeure oor alle toestelle.
 sync-signedout-account-title = Koppel met 'n { -fxaccount-brand-name }
+# This message contains two links and two icon images.
+#   `<img data-l10n-name="android-icon"/>` - Android logo icon
+#   `<a data-l10n-name="android-link">` - Link to Android Download
+#   `<img data-l10n-name="ios-icon">` - iOS logo icon
+#   `<a data-l10n-name="ios-link">` - Link to iOS Download
+#
+# They can be moved within the sentence as needed to adapt
+# to your language, but should not be changed or translated.
+sync-mobile-promo = Laai Firefox af vir <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> of <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> om met 'n selfoon te sinkroniseer.
 
 ## Sync Section - Signed in
 
@@ -344,6 +356,17 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Geskiedenis
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label = { -brand-short-name } sal
+    .accesskey = s
 history-remember-option-all =
     .label = geskiedenis onthou
 history-remember-option-never =
