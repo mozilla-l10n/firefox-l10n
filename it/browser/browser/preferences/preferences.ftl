@@ -184,6 +184,9 @@ choose-button =
 translate-web-pages =
     .label = Traduci contenuti web
     .accesskey = T
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = Traduzioni a cura di <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Eccezioni…
     .accesskey = z
@@ -405,6 +408,15 @@ sync-signedout-account-create = Non hai ancora un account? Scopri come crearne u
 sync-signedout-account-signin =
     .label = Accedi…
     .accesskey = d
+# This message contains two links and two icon images.
+#   `<img data-l10n-name="android-icon"/>` - Android logo icon
+#   `<a data-l10n-name="android-link">` - Link to Android Download
+#   `<img data-l10n-name="ios-icon">` - iOS logo icon
+#   `<a data-l10n-name="ios-link">` - Link to iOS Download
+#
+# They can be moved within the sentence as needed to adapt
+# to your language, but should not be changed or translated.
+sync-mobile-promo = Scarica Firefox per <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> o <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> per sincronizzare con cellulari e tablet.
 
 ## Sync Section - Signed in
 
@@ -503,6 +515,23 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Cronologia
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label = Impostazioni cronologia:
+    .accesskey = m
+history-remember-option-all =
+    .label = salva la cronologia
+history-remember-option-never =
+    .label = non salvare la cronologia
+history-remember-option-custom =
+    .label = utilizza impostazioni personalizzate
 history-remember-description = Verranno salvate la cronologia di navigazione, i download, le informazioni inserite nei moduli o nei campi di ricerca.
 history-dontremember-description = Verranno utilizzate le stesse impostazioni della Navigazione anonima: in questo modo non verrà salvata alcuna cronologia relativa alla navigazione.
 history-private-browsing-permanent =
