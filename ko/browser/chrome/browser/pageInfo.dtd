@@ -60,9 +60,6 @@
 <!ENTITY  permissionsFor        "이용 권한:">
 <!ENTITY  permPlugins           "플러그인 활성화">
 
-<!ENTITY  permClearStorage           "저장소 삭제">
-<!ENTITY  permClearStorage.accesskey "C">
-
 <!ENTITY  securityTab           "보안">
 <!ENTITY  securityTab.accesskey "S">
 <!ENTITY  securityView.certView "인증서 보기">
@@ -81,6 +78,9 @@
 <!ENTITY  securityView.privacy.cookies                  "컴퓨터 내에 각종 정보(쿠키) 저장 여부">
 <!ENTITY  securityView.privacy.viewCookies              "쿠키 정보 보기">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.siteData                 "이 웹사이트가 내 컴퓨터에 데이타를 저장하나요?">
+<!ENTITY  securityView.privacy.clearSiteData            "쿠키와 사이트 데이타 삭제">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "C">
 <!ENTITY  securityView.privacy.passwords                "현재 웹 사이트 내 각종 암호 저장 여부">
 <!ENTITY  securityView.privacy.viewPasswords            "저장 암호 보기">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">

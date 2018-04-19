@@ -45,6 +45,9 @@ policies-notice =
 pane-general-title = 일반
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = 홈
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = 검색
 category-search =
     .tooltiptext = { pane-search-title }
@@ -286,9 +289,26 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = 새 창과 탭
+home-new-windows-tabs-description2 = 홈페이지나 새창, 새탭을 열었을 때 나올 내용을 선택하세요.
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = 홈페이지와 새 창
+home-newtabs-mode-label = 새 탭
+home-restore-defaults =
+    .label = 기본값으로 복원
+    .accesskey = R
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Firefox 홈페이지(기본값)
+home-mode-choice-custom =
+    .label = 사용자 정의 URL…
+home-mode-choice-blank =
+    .label = 빈 페이지
+home-homepage-custom-url =
+    .placeholder = URL 붙여넣기…
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -388,6 +408,9 @@ sync-signedin-login-failure = { $email } 으로 로그인을 해서 다시 연�
 sync-resend-verification =
     .label = 확인 재전송
     .accesskey = d
+sync-remove-account =
+    .label = 계정 삭제
+    .accesskey = R
 sync-sign-in =
     .label = 로그인
     .accesskey = g
@@ -449,6 +472,9 @@ privacy-header = 브라우저 개인정보
 ## Privacy Section - Forms
 
 forms-header = 서식과 비밀번호
+forms-ask-to-save-logins =
+    .label = 웹사이트의 로그인과 비밀번호를 기억할지 묻기
+    .accesskey = r
 forms-exceptions =
     .label = 예외 목록…
     .accesskey = x
@@ -498,6 +524,10 @@ sitedata-block-cookies-option =
     .accesskey = B
 sitedata-keep-until = 유지 기간
     .accesskey = u
+sitedata-keep-until-expire =
+    .label = 만료 될 때까지
+sitedata-keep-until-closed =
+    .label = { -brand-short-name }가 닫힐때 까지
 sitedata-accept-third-party-desc = 제 3자 쿠키와 사이트 데이타 허용
     .accesskey = y
 sitedata-accept-third-party-always-option =
