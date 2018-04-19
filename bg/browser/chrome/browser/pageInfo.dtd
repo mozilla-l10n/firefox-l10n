@@ -60,9 +60,6 @@
 <!ENTITY  permissionsFor        "Правата на:">
 <!ENTITY  permPlugins           "Активиране на приставки">
 
-<!ENTITY  permClearStorage           "Изчистване на хранилището">
-<!ENTITY  permClearStorage.accesskey "И">
-
 <!ENTITY  securityTab           "Защита">
 <!ENTITY  securityTab.accesskey "З">
 <!ENTITY  securityView.certView "Преглед на сертификата">
@@ -81,6 +78,9 @@
 <!ENTITY  securityView.privacy.cookies                  "Съхранява ли този сайт информация (бисквитки) на компютъра ми?">
 <!ENTITY  securityView.privacy.viewCookies              "Преглед на бисквитките">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "б">
+<!ENTITY  securityView.privacy.siteData                 "Пази ли тази страница информация на компютъра?">
+<!ENTITY  securityView.privacy.clearSiteData            "Изчистване на бисквитки и данни на страници">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "И">
 <!ENTITY  securityView.privacy.passwords                "Имам ли запазени пароли за този сайт?">
 <!ENTITY  securityView.privacy.viewPasswords            "Преглед на запазените пароли">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "п">
