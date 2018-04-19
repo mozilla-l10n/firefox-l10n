@@ -1001,6 +1001,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY homepageControlled.message "Una extensión cambió lo que ve como su página de inicio. Puede restaurar su configuración si no desea este cambio.">
 <!ENTITY homepageControlled.header.message "Cambió su página de inicio.">
+<!ENTITY homepageControlled.keepButton.label "Mantener los cambios">
+<!ENTITY homepageControlled.keepButton.accesskey "K">
+<!ENTITY homepageControlled.disableButton.label "Deshabilitar la extensión">
+<!ENTITY homepageControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "Acciones de página">
 <!ENTITY pageAction.addToUrlbar.label "Agregar a la barra de direcciones">
@@ -1012,6 +1016,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.sendTabToDevice.label "Enviar pestaña a dispositivo">
 <!ENTITY sendToDevice.syncNotReady.label "Sincronizando dispositivos…">
 
+<!ENTITY pageAction.shareUrl.label "Compartir">
 
 <!ENTITY libraryButton.tooltip "Ver historial, marcadores guardados y más">
 
