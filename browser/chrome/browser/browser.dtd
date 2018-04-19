@@ -304,6 +304,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Öğeyi incele">
 <!ENTITY inspectContextMenu.accesskey "c">
 
+<!ENTITY inspectA11YContextMenu.label     "Erişilebilirlik özelliklerini denetle">
+
 <!ENTITY fileMenu.label         "Dosya">
 <!ENTITY fileMenu.accesskey       "D">
 <!ENTITY newUserContext.label             "Yeni kapsayıcı sekme">
@@ -997,6 +999,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Eklentiyi etkisizleştir">
 <!ENTITY newTabControlled.disableButton.accesskey "E">
 
+<!ENTITY homepageControlled.header.message "Giriş sayfanız değişti.">
+<!ENTITY homepageControlled.keepButton.label "Değişiklikleri koru">
+<!ENTITY homepageControlled.keepButton.accesskey "D">
+<!ENTITY homepageControlled.disableButton.label "Eklentiyi etkisizleştir">
+<!ENTITY homepageControlled.disableButton.accesskey "E">
+
 <!ENTITY pageActionButton.tooltip "Sayfa eylemleri">
 <!ENTITY pageAction.addToUrlbar.label "Adres çubuğuna ekle">
 <!ENTITY pageAction.removeFromUrlbar.label "Adres çubuğundan kaldır">
@@ -1006,6 +1014,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "Sekmeyi cihaza gönder">
 <!ENTITY sendToDevice.syncNotReady.label "Cihazlar eşitleniyor…">
+
+<!ENTITY pageAction.shareUrl.label "Paylaş">
 
 <!ENTITY libraryButton.tooltip "Geçmişinize, kayıtlı yer imlerinize ve daha fazlasına bakın">
 

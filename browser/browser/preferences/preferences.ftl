@@ -496,6 +496,9 @@ privacy-header = Tarayıcı gizliliği
 ## Privacy Section - Forms
 
 forms-header = Formlar ve parolalar
+forms-ask-to-save-logins =
+    .label = Sitelerdeki kullanıcı adı ve parolalarımı kaydetmeyi öner
+    .accesskey = r
 forms-exceptions =
     .label = İstisnalar…
     .accesskey = s
