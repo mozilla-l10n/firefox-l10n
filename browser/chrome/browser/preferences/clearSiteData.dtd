@@ -10,7 +10,7 @@
 
 <!ENTITY clearSiteData.label          "Küpsised ja saidi andmed">
 <!ENTITY clearSiteData.accesskey      "K">
-<!ENTITY clearSiteData.description    "Kustutamisel võib põhjustada saitidest väljalogimist">
+<!ENTITY clearSiteData.description    "Kustutamine võib põhjustada saitidest väljalogimist">
 
 <!ENTITY clearCache.label             "Veebisisu vahemälu">
 <!ENTITY clearCache.accesskey         "V">
