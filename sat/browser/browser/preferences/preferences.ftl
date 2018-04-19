@@ -59,6 +59,9 @@ choose-button =
 translate-web-pages =
     .label = वेब बिसोय तोरजोमाय मे  (T)
     .accesskey = T
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = दाराय ते तोरजोमा <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = बादाक् को (x)…
     .accesskey = x
@@ -188,6 +191,12 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = हिता़ल
+history-remember-option-all =
+    .label = हिताल उयहा़र दोहोय मे
+history-remember-option-never =
+    .label = हिता़ल तिस हों आलोम उयहा़र आ.
+history-remember-option-custom =
+    .label = हिता़ल ला़गित् कुसियाक् साजाव को बेभार मे.
 history-dontremember-description = { -brand-short-name } निजेराक् ब्राउसिंग लेका सोमान साजाव को बेभार मे , आर आम वेब ब्राउज लेका जाहांन हिता़ल लेका बाय उयहा़र .
 history-private-browsing-permanent =
     .label = { "  " }निजेराक् ब्राउजिंग ओबोसता जावगे बेभार मे.(p)
