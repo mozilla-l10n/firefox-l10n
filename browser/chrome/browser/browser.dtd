@@ -999,6 +999,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Kiterjesztés letiltása">
 <!ENTITY newTabControlled.disableButton.accesskey "l">
 
+<!ENTITY homepageControlled.message "Egy kiterjesztés megváltoztatta a kezdőlapot. Visszaállíthatja a beállításokat, ha nem szeretné ezt a változást.">
+<!ENTITY homepageControlled.header.message "A kezdőlap megváltozott.">
+<!ENTITY homepageControlled.keepButton.label "Módosítások megtartása">
+<!ENTITY homepageControlled.keepButton.accesskey "t">
+<!ENTITY homepageControlled.disableButton.label "Kiterjesztés letiltása">
+<!ENTITY homepageControlled.disableButton.accesskey "l">
+
 <!ENTITY pageActionButton.tooltip "Oldal műveletek">
 <!ENTITY pageAction.addToUrlbar.label "Hozzáadás a címsávhoz">
 <!ENTITY pageAction.removeFromUrlbar.label "Eltávolítás a címsávból">
@@ -1008,6 +1015,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "Lap küldése eszközre">
 <!ENTITY sendToDevice.syncNotReady.label "Eszközök szinkronizálása…">
+
+<!ENTITY pageAction.shareUrl.label "Megosztás">
 
 <!ENTITY libraryButton.tooltip "Előzmények, mentett könyvjelzők megtekintése">
 
