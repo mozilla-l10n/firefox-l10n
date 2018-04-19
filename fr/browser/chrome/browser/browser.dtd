@@ -998,6 +998,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Désactiver l’extension">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
+
 <!ENTITY pageActionButton.tooltip "Actions pour la page">
 <!ENTITY pageAction.addToUrlbar.label "Ajouter à la barre d’adresse">
 <!ENTITY pageAction.removeFromUrlbar.label "Retirer de la barre d’adresse">
@@ -1007,6 +1008,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "Envoyer l’onglet vers un appareil">
 <!ENTITY sendToDevice.syncNotReady.label "Synchronisation des appareils…">
+
+<!ENTITY pageAction.shareUrl.label "Partager">
 
 <!ENTITY libraryButton.tooltip "Consulter l’historique, les marque-pages enregistrés et plus encore">
 
