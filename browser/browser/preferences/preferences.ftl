@@ -191,6 +191,15 @@ search-keyword-warning-bookmark = You have chosen a keyword that is currently in
 
 sync-signedout-description = Synchronise your bookmarks, history, tabs, passwords, add-ons, and preferences across all your devices.
 sync-signedout-account-title = Connect with a { -fxaccount-brand-name }
+# This message contains two links and two icon images.
+#   `<img data-l10n-name="android-icon"/>` - Android logo icon
+#   `<a data-l10n-name="android-link">` - Link to Android Download
+#   `<img data-l10n-name="ios-icon">` - iOS logo icon
+#   `<a data-l10n-name="ios-link">` - Link to iOS Download
+#
+# They can be moved within the sentence as needed to adapt
+# to your language, but should not be changed or translated.
+sync-mobile-promo = Download Firefox for <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> or <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> to sync with your mobile device.
 
 ## Sync Section - Signed in
 
