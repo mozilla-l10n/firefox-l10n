@@ -361,6 +361,12 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Imbali
+history-remember-option-all =
+    .label = Khumbula imbali
+history-remember-option-never =
+    .label = Ungaze ukhumbule imbali
+history-remember-option-custom =
+    .label = Sebenzisa iisethingi zesiqhelo kwimbali
 history-dontremember-description = i-{ -brand-short-name } iya kusebenzisa iisethingi ezifanayo njengokubhrawuza kwangasese kwaye ayiyi kukhumbula nayiphi na imbali njengokuba ubhrawuza iwebhu.
 history-private-browsing-permanent =
     .label = Soloko usebenzisa imo yokubhrawuza yangasese
