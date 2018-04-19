@@ -187,6 +187,9 @@ choose-button =
 translate-web-pages =
     .label = Tulkot tīmekļa saturu
     .accesskey = T
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = Tulkojumi no <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Izņēmumi…
     .accesskey = z
@@ -503,6 +506,12 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Vēsture
+history-remember-option-all =
+    .label = Atcerēsies vēsturi
+history-remember-option-never =
+    .label = Nekad neatcerēsies vēsturi
+history-remember-option-custom =
+    .label = Izmantos pielāgotus vēstures iestatījumus
 history-remember-description = { -brand-short-name } atcerēsies jūsu pārlūkošanas, lejupielāžu, formu un meklēšanas vēsturi.
 history-dontremember-description = { -brand-short-name } izmantos tādus pat iestatījumus kā privātās pārlūkošanas režīmā un pārlūkojot internetu nesaglabās vēsturi.
 history-private-browsing-permanent =
