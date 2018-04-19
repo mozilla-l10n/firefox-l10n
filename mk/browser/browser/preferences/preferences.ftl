@@ -242,6 +242,10 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Историја
+history-remember-option-all =
+    .label = ќе ја памти историјата
+history-remember-option-never =
+    .label = никогаш нема да ја памти историјата
 history-dontremember-description = { -brand-short-name } ќе ги користи истите поставки како и за приватно прелистување, и нема да ја памти историјата додека прелистувате на интернет.
 history-private-browsing-permanent =
     .label = Секогаш користи режим за приватно прелистување
