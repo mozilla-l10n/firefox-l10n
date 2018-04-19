@@ -142,6 +142,12 @@ forms-exceptions =
 
 ## Privacy Section - History
 
+history-remember-option-all =
+    .label = Ne loon kuan güin
+history-remember-option-never =
+    .label = Na loot lu re kuan güin
+history-remember-option-custom =
+    .label = Tak thus kuey ree koo de güil
 history-private-browsing-permanent =
     .label = Lii xhin navegación privada
     .accesskey = i
