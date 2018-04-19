@@ -1,0 +1,44 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY loadError.label "Feeler beim Luede vun der Säit">
+<!ENTITY retry.label "Nach eng Kéier probéieren">
+
+<!-- Specific error messages -->
+
+
+
+<!ENTITY dnsNotFound.title "Adress net fonnt">
+
+<!ENTITY fileNotFound.title "Fichier net fonnt">
+
+
+
+
+<!ENTITY netInterrupt.title "Datentransfer ënnerbrach">
+
+<!ENTITY notCached.title "Dokument ofgelaf">
+
+
+
+
+<!ENTITY netReset.title "Verbindung ënnerbrach">
+
+
+<!ENTITY unknownProtocolFound.title "Onbekannte Protokoll">
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY inadequateSecurityError.title "Är Verbindung ass net sécher">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
