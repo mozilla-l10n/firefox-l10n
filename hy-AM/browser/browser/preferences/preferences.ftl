@@ -500,6 +500,10 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Պատմություն
+history-remember-option-all =
+    .label = Հիշել պատմությունը
+history-remember-option-never =
+    .label = Երբեք չհիշել այցելությունները
 history-remember-description = { -brand-short-name }-ը կհիշի դիտարկումների, ներբեռնումների, ձևերի և որոնումների պատմությունը:
 history-dontremember-description = { -brand-short-name }ը կօգտագործի գաղտնի դիտարկման կարգավումները և չի հիշի համացանցում ձեր դիտարկումների պատմությունը:
 history-private-browsing-permanent =
