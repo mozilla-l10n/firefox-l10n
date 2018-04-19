@@ -355,6 +355,12 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = ប្រវត្តិ
+history-remember-option-all =
+    .label = ចងចាំ​ប្រវត្តិ
+history-remember-option-never =
+    .label = កុំ​ចងចាំ​ប្រវត្តិ
+history-remember-option-custom =
+    .label = ប្រើ​ការ​កំណត់​ផ្ទាល់ខ្លួន​សម្រាប់​ប្រវត្តិ
 history-dontremember-description = { -brand-short-name } នឹង​ប្រើ​ការ​កំណត់​ដូច​គ្នា​ជា​ការ​​រក​មើល​ឯកជន ហើយ​នឹង​មិន​ចងចាំ​ប្រវត្តិ​ណាមួយ ពេល​ដែល​អ្នក​រក​មើល​តំបន់​បណ្ដាញ​នោះ​ទេ ។
 history-private-browsing-permanent =
     .label = ប្រើ​របៀប​រកមើល​ឯកជន​ជានិច្ច
