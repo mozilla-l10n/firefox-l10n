@@ -503,6 +503,12 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Тарихы
+history-remember-option-all =
+    .label = тарихты сақтайды
+history-remember-option-never =
+    .label = тарихты ешқашан сақтамайды
+history-remember-option-custom =
+    .label = қолдан көрсетілген тарих баптауын қолданады
 history-remember-description = { -brand-short-name } сіздің шолу, жүктемелер, формалар және іздеулер тарихын сақтайтын болады.
 history-dontremember-description = { -brand-short-name } жекелік шолу режимінің баптауын пайдаланады, яғни браузер тарихына ешқандай мәлімет сақталмайды.
 history-private-browsing-permanent =
