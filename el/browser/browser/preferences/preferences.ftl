@@ -179,6 +179,9 @@ choose-button =
 translate-web-pages =
     .label = Μετάφραση περιεχομένου του ιστού
     .accesskey = τ
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = Μεταφράσεις από <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Εξαιρέσεις…
     .accesskey = ξ
