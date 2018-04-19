@@ -983,6 +983,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "ม">
 <!ENTITY updateRestart.panelUI.label2 "เริ่มการทำงานใหม่เพื่ออัปเดต &brandShorterName;">
 
+<!ENTITY newTabControlled.message "ส่วนขยายได้เปลี่ยนหน้าที่คุณเห็นเมื่อคุณเปิดแท็บใหม่ คุณสามารถเรียกคืนการตั้งค่าของคุณหากคุณไม่ต้องการการเปลี่ยนแปลงนี้">
 
 <!ENTITY newTabControlled.header.message "แท็บใหม่ของคุณมีการเปลี่ยนแปลง">
 <!ENTITY newTabControlled.keepButton.label "เก็บการเปลี่ยนแปลง">
@@ -993,7 +994,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "ปิดใช้งานส่วนขยาย">
 <!ENTITY newTabControlled.disableButton.accesskey "ป">
 
+<!ENTITY homepageControlled.message "ส่วนขยายได้เปลี่ยนสิ่งที่คุณเห็นเป็นหน้าแรกของคุณ คุณสามารถเรียกคืนการตั้งค่าของคุณหากคุณไม่ต้องการการเปลี่ยนแปลงนี้">
 <!ENTITY homepageControlled.header.message "หน้าแรกของคุณมีการเปลี่ยนแปลง">
+<!ENTITY homepageControlled.keepButton.label "เก็บการเปลี่ยนแปลง">
+<!ENTITY homepageControlled.keepButton.accesskey "ก">
+<!ENTITY homepageControlled.disableButton.label "ปิดใช้งานส่วนขยาย">
+<!ENTITY homepageControlled.disableButton.accesskey "ป">
 
 <!ENTITY pageActionButton.tooltip "การกระทำของหน้า">
 <!ENTITY pageAction.addToUrlbar.label "เพิ่มไปยังแถบที่อยู่">
