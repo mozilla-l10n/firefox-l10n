@@ -184,6 +184,9 @@ choose-button =
 translate-web-pages =
     .label = Web içeriğini çevir
     .accesskey = W
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = Çeviriler: <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = İstisnalar…
     .accesskey = s
@@ -405,6 +408,15 @@ sync-signedout-account-create = Hesabınız yok mu? Hemen açın
 sync-signedout-account-signin =
     .label = Giriş yap…
     .accesskey = G
+# This message contains two links and two icon images.
+#   `<img data-l10n-name="android-icon"/>` - Android logo icon
+#   `<a data-l10n-name="android-link">` - Link to Android Download
+#   `<img data-l10n-name="ios-icon">` - iOS logo icon
+#   `<a data-l10n-name="ios-link">` - Link to iOS Download
+#
+# They can be moved within the sentence as needed to adapt
+# to your language, but should not be changed or translated.
+sync-mobile-promo = Mobil cihazınızla eşitleme yapmak isterseniz <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> veya <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> için Firefox’u indirin.
 
 ## Sync Section - Signed in
 
@@ -511,6 +523,12 @@ history-header = Geçmiş
 #   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name }
     .accesskey = i
+history-remember-option-all =
+    .label = geçmişi hatırlasın
+history-remember-option-never =
+    .label = geçmişi asla hatırlamasın
+history-remember-option-custom =
+    .label = geçmiş için özel ayarları kullansın
 history-remember-description = { -brand-short-name } gezinti, indirme, form ve arama geçmişlerinizi hatırlayacak.
 history-dontremember-description = { -brand-short-name } Gizli Gezinti ile aynı ayarları kullanacak ve siz internette gezerken geçmişle ilgili hiçbir şeyi hatırlamayacak.
 history-private-browsing-permanent =
