@@ -179,6 +179,12 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-remember-option-all =
+    .label = Kumbuka historia
+history-remember-option-never =
+    .label = Kamwe usikumbuke historia
+history-remember-option-custom =
+    .label = Tumia mipangilio maalum ya historia
 history-dontremember-description = { -brand-short-name } itatumia mipangilio sawa kama kuvinjari kwa kibinafsi, na haitakumbuka historia yoyote unapovinjari Tovuti.
 history-private-browsing-permanent =
     .label = Kila mara tumia hali ya kuvinjari ya faragha
