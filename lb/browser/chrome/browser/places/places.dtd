@@ -21,20 +21,43 @@
 <!ENTITY view.unsorted.accesskey        "U">
 <!ENTITY view.sortAscending.label       "A > Z Zortéierschlëssel">
 <!ENTITY view.sortAscending.accesskey   "A">
+<!ENTITY view.sortDescending.label      "Z > A Zortéierschlëssel">
+<!ENTITY view.sortDescending.accesskey  "Z">
+
+<!ENTITY importBookmarksFromHTML.label     "Lieszeechen am HTML Format importéieren…">
+<!ENTITY importBookmarksFromHTML.accesskey "I">
+<!ENTITY exportBookmarksToHTML.label       "Lieszeechen am HTML Format exportéieren…">
+<!ENTITY exportBookmarksToHTML.accesskey   "E">
+
+<!ENTITY cmd.restore2.label             "Restauréieren">
+
+
+<!ENTITY cmd.open.label                  "Opmaachen">
+<!ENTITY cmd.open.accesskey              "O">
+<!ENTITY cmd.open_window.label           "An enger neier Fënster opmaachen">
+<!ENTITY cmd.open_window.accesskey       "N">
+
+
+
+<!ENTITY cmd.new_bookmark.label            "Neit Lieszeechen…">
+
+
+<!ENTITY cmd.moveBookmarks.label                  "Réckelen…">
+<!ENTITY cmd.moveBookmarks.accesskey              "M">
+
+<!ENTITY col.name.label          "Numm">
+<!ENTITY col.description.label   "Beschreiwung">
+<!ENTITY col.lastmodified.label  "Zulescht geännert">
 
 
 
 
 
 
+<!ENTITY detailsPane.more.label "Méi">
+<!ENTITY detailsPane.less.label "Manner">
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY byDate.label             "No Datum">
+<!ENTITY byDate.accesskey         "D">
+<!ENTITY bySite.label             "No Site">
+<!ENTITY bySite.accesskey         "S">
