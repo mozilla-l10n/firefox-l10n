@@ -171,6 +171,9 @@ choose-button =
 translate-web-pages =
     .label = വെബിലുള്ളവ തര്‍ജ്ജമ ചെയ്യുക
     .accesskey = ത
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = തര്‍ജ്ജമ ചെയ്തത് <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = വിട്ടുവീഴ്ചകള്‍…
     .accesskey = ക
