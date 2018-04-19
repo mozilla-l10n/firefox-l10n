@@ -270,6 +270,15 @@ containers-remove-button =
 ## Sync Section - Signed out
 
 sync-signedout-caption = ඔබේ ජාලය ඔබ සමඟ ගෙනයන්න
+# This message contains two links and two icon images.
+#   `<img data-l10n-name="android-icon"/>` - Android logo icon
+#   `<a data-l10n-name="android-link">` - Link to Android Download
+#   `<img data-l10n-name="ios-icon">` - iOS logo icon
+#   `<a data-l10n-name="ios-link">` - Link to iOS Download
+#
+# They can be moved within the sentence as needed to adapt
+# to your language, but should not be changed or translated.
+sync-mobile-promo = මෙය සඳහා Firefox බාගත කරන්න <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> or <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> ඔබගේ ජංගම උපාංගය සමඟ සමමුහුර්ත කිරීමට.
 
 ## Sync Section - Signed in
 
