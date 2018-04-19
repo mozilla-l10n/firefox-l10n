@@ -410,6 +410,15 @@ sync-signedout-account-create = Nav konta? Tū var lobuot
 sync-signedout-account-signin =
     .label = Pīsasliegt…
     .accesskey = P
+# This message contains two links and two icon images.
+#   `<img data-l10n-name="android-icon"/>` - Android logo icon
+#   `<a data-l10n-name="android-link">` - Link to Android Download
+#   `<img data-l10n-name="ios-icon">` - iOS logo icon
+#   `<a data-l10n-name="ios-link">` - Link to iOS Download
+#
+# They can be moved within the sentence as needed to adapt
+# to your language, but should not be changed or translated.
+sync-mobile-promo = Lejupīluodeit Firefox <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> voi <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> to sync with your mobile device.
 
 ## Sync Section - Signed in
 
@@ -505,6 +514,12 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Viesture
+history-remember-option-all =
+    .label = Atguoduos viesturi
+history-remember-option-never =
+    .label = Nikod naatguoduos viesturi
+history-remember-option-custom =
+    .label = Izmantuots pīlāguotus viestures īstatiejumus
 history-remember-description = { -brand-short-name } pīminēs tuvu porlyukōšonys, lejupīlōžu, formu un mekliešonys viesturi.
 history-dontremember-description = { -brand-short-name } izmantuots taidus pat īstatiejumus kai privatuos puorlūkuošonys režymā i puorlūkojūt šķārsteiklu nasaglobuos viesturi.
 history-private-browsing-permanent =
