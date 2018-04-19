@@ -180,6 +180,12 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-remember-option-all =
+    .label = Gopola histori
+history-remember-option-never =
+    .label = O se ke wa gopola histori
+history-remember-option-custom =
+    .label = Diriša dipeakanyo tša tlwaelo bakeng sa histori
 history-dontremember-description = { -brand-short-name } e tla diriša dipeakanyo tše swanago le tša go praosa ga praebete, gomme e ka se gopole histori le ge e le efe ge o dutše o praosa wepe.
 history-private-browsing-permanent =
     .label = Ka mehla diriša mokgwa wa go praosa wa praebete
