@@ -44,6 +44,7 @@
 <!ENTITY  acceptThirdParty2.pre.label     "তৃতীয়-পক্ষের কুকি গ্রহণ করা হবে">
 <!ENTITY  acceptThirdParty2.pre.accesskey "y">
 
+<!ENTITY  acceptCookies4.label          "ওয়েবসাইটগুলি থেকে কুকি এবং সাইট ডাটা গ্রহণ করুন (সুপারিশকৃত)">
 <!ENTITY  acceptCookies4.accesskey      "A">
 
 <!ENTITY  blockCookies.label            "কুকি এবং সাইট ডাটা ব্লক করুন (ওয়েবসাইট ভাঙ্গতে পারে)">

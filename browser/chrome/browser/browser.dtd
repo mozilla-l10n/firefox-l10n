@@ -998,6 +998,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "এক্সটেনসন নিষ্ক্রিয় করুন">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
+<!ENTITY homepageControlled.keepButton.accesskey "K">
+<!ENTITY homepageControlled.disableButton.label "এক্সটেনশনটি নিষ্ক্রিয় করুন">
+<!ENTITY homepageControlled.disableButton.accesskey "D">
+
 <!ENTITY pageActionButton.tooltip "পাতা পদক্ষেপ">
 <!ENTITY pageAction.addToUrlbar.label "ঠিকানা বারে যোগ করুন">
 <!ENTITY pageAction.removeFromUrlbar.label "ঠিকানা  বার থেকে অপসারণ করুন">
@@ -1007,6 +1011,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "ডিভাইসে ট্যাব পাঠান">
 <!ENTITY sendToDevice.syncNotReady.label "ডিভাইস সিঙ্ক হচ্ছে…">
+
+<!ENTITY pageAction.shareUrl.label "শেয়ার">
 
 <!ENTITY libraryButton.tooltip "ইতিহাস, সংরক্ষিত বুকমার্ক এবং আরও অনেক কিছু দেখুন">
 
