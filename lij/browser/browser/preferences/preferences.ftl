@@ -184,6 +184,9 @@ choose-button =
 translate-web-pages =
     .label = Traduxi contegnui web
     .accesskey = T
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = Traduçioin a cura de <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Eceçioin…
     .accesskey = z
@@ -507,6 +510,8 @@ history-remember-option-all =
     .label = Aregòrda a stöia
 history-remember-option-never =
     .label = No aregordâ a stöia
+history-remember-option-custom =
+    .label = Adeuvia e preferense personalizæ pe a stöia
 history-remember-description = { -brand-short-name } o s'aregòrda de teu navegaçioin, descaregamenti e stöia de riçerche.
 history-dontremember-description = { -brand-short-name } o deuvia e mæxime preferense da-a navegaçion privâ, e o no se aregòrda da stöia de teu navegaçioin.
 history-private-browsing-permanent =
