@@ -430,6 +430,12 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Povijest
+history-remember-option-all =
+    .label = zapamtiti povijest
+history-remember-option-never =
+    .label = neće nikada zapamtiti povijest
+history-remember-option-custom =
+    .label = koristiti prilagođene postavke za povijest
 history-dontremember-description = { -brand-short-name } će koristiti iste postavke kao i za privatno pretraživanje, te neće pamtiti povijest pretraživanja.
 history-private-browsing-permanent =
     .label = Uvijek koristi privatni način pretraživanja
