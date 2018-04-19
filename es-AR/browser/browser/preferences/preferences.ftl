@@ -416,7 +416,7 @@ sync-signedout-account-signin =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Descargar Firefox para <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> o <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> para sincronizar con el dispositivo móvil.
+sync-mobile-promo = Descargar Firefox para <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> ou <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> para sincronizar con su dispositivo móvil.
 
 ## Sync Section - Signed in
 
@@ -527,11 +527,11 @@ history-header = Historial
 history-remember-label = { -brand-short-name }:
     .accesskey = F
 history-remember-option-all =
-    .label = recordará el historial
+    .label = Recordar el historial
 history-remember-option-never =
-    .label = nunca recordará el historial
+    .label = Nunca recordar el historial
 history-remember-option-custom =
-    .label = usará la configuración personalizada para el historial
+    .label = Usar la configuración personalizada para el historial
 history-remember-description = { -brand-short-name } recordará su historial de navegación, descargas, formularios e historial de búsquedas.
 history-dontremember-description = { -brand-short-name } utilizará la misma configuración que para las búsquedas privadas y no recordará el historial mientras navegue por la web.
 history-private-browsing-permanent =
