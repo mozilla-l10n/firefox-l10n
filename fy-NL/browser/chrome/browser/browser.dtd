@@ -999,6 +999,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Utwreiding útskeakelje">
 <!ENTITY newTabControlled.disableButton.accesskey "U">
 
+<!ENTITY homepageControlled.message "In útwreiding hat in wiziging makke yn wat jo sjogge as jo startside. As jo dizze wiziging net wolle, kinne jo jo ynstellingen weromsette.">
+<!ENTITY homepageControlled.header.message "Jo startside is wizige.">
+<!ENTITY homepageControlled.keepButton.label "Wizigingen bewarje">
+<!ENTITY homepageControlled.keepButton.accesskey "W">
+<!ENTITY homepageControlled.disableButton.label "Utwreiding útskeakelje">
+<!ENTITY homepageControlled.disableButton.accesskey "U">
+
 <!ENTITY pageActionButton.tooltip "Side-aksjes">
 <!ENTITY pageAction.addToUrlbar.label "Tafoegje oan adresbalke">
 <!ENTITY pageAction.removeFromUrlbar.label "Fuortsmite fan adresbalke">
@@ -1008,6 +1015,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "Ljepblêd nei apparaat ferstjoere">
 <!ENTITY sendToDevice.syncNotReady.label "Apparaten syngronisearje…">
+
+<!ENTITY pageAction.shareUrl.label "Diele">
 
 <!ENTITY libraryButton.tooltip "Skiednis, bewarre blêdwizers en mear besjen">
 
