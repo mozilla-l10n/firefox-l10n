@@ -63,6 +63,9 @@ choose-button =
 translate-web-pages =
     .label = वेब आशय अणकारात
     .accesskey = अ
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = अणकार करपी <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = अपवाद...
     .accesskey = व
@@ -203,6 +206,12 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = इतिहास
+history-remember-option-all =
+    .label = इतिहास उगडास धरचो
+history-remember-option-never =
+    .label = इतिहास केन्नाच उगडास धरचो न्हय
+history-remember-option-custom =
+    .label = इतिहासा खातीर कस्टम मांडावळी वापरच्यो
 history-dontremember-description = { -brand-short-name } खाजगी ब्रावजिंगाभशेन स्थापितां वापरतले, आनी तुमी वेब ब्रावज करता तेन्ना कसलोच इतिहास याद दवरचे ना.
 history-private-browsing-permanent =
     .label = सदाच खाजगी ब्रावजींग स्थिती वापरात
