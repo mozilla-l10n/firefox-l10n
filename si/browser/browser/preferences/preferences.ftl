@@ -110,6 +110,9 @@ choose-button =
 translate-web-pages =
     .label = ජාල අන්තර්ගතය පරිවර්තනය
     .accesskey = T
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = පරිවර්තනය කළේ <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = හැරදැමීම්...
     .accesskey = x
