@@ -999,6 +999,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Rozšěrjenje znjemóžnić">
 <!ENTITY newTabControlled.disableButton.accesskey "R">
 
+<!ENTITY homepageControlled.message "Rozšěrjenje je změniło, štož jako swoju startowu stronu widźiće. Móžeće swoje nastajenja wobnowić, jeli tutu změnu nochceće.">
+<!ENTITY homepageControlled.header.message "Waša startowa strona je so změniła.">
+<!ENTITY homepageControlled.keepButton.label "Změny wobchować">
+<!ENTITY homepageControlled.keepButton.accesskey "Z">
+<!ENTITY homepageControlled.disableButton.label "Rozšěrjenje znjemóžnić">
+<!ENTITY homepageControlled.disableButton.accesskey "R">
+
 <!ENTITY pageActionButton.tooltip "Akcije strony">
 <!ENTITY pageAction.addToUrlbar.label "Adresowemu polu přidać">
 <!ENTITY pageAction.removeFromUrlbar.label "Z adresoweho pola wotstronić">
@@ -1008,6 +1015,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "Rajtark na grat pósłać">
 <!ENTITY sendToDevice.syncNotReady.label "Graty so synchronizuja…">
+
+<!ENTITY pageAction.shareUrl.label "Dźělić">
 
 <!ENTITY libraryButton.tooltip "Historiju, składowane zapołožki a wjace pokazać">
 
