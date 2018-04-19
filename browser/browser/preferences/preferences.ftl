@@ -158,6 +158,12 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-remember-option-all =
+    .label = Зорчсон түүхийг хадгална
+history-remember-option-never =
+    .label = Зорчсон түүхийг хадгалахгүй
+history-remember-option-custom =
+    .label = Зорчсон түүхэнд дурын тохиргоо хэрэглэнэ
 history-dontremember-description = { -brand-short-name } хувийн зорчилттой ижил тохиргоо хэрэглэж вэбд зорчсон түүхийг хадгалахгүй байх болно.
 history-private-browsing-permanent =
     .label = Дандаа ашиглах & хувийн ачааллах загвар
