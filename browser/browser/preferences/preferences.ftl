@@ -229,6 +229,12 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = History
+history-remember-option-all =
+    .label = Remember history
+history-remember-option-never =
+    .label = Never remember history
+history-remember-option-custom =
+    .label = Use custom settings for history
 history-dontremember-description = { -brand-short-name } will use the same settings as private browsing, and will not remember any history as you browse the Web.
 history-private-browsing-permanent =
     .label = Always use private browsing mode
