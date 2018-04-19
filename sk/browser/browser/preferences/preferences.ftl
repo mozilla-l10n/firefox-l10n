@@ -308,6 +308,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Nové okná a karty
+home-new-windows-tabs-description2 = Vyberte si domovskú stránku a stránku zobrazovanú pri otvorení nových okien a kariet.
 
 ## Home Section - Home Page Customization
 
@@ -498,6 +499,9 @@ privacy-header = Súkromie
 ## Privacy Section - Forms
 
 forms-header = Formuláre a heslá
+forms-ask-to-save-logins =
+    .label = Ponúkať uloženie prihlasovacích údajov na webových stránkach
+    .accesskey = r
 forms-exceptions =
     .label = Výnimky…
     .accesskey = m
