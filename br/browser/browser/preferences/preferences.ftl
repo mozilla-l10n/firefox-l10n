@@ -189,6 +189,9 @@ choose-button =
 translate-web-pages =
     .label = Treiñ an endalc'had web
     .accesskey = T
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = Troidigezhioù gant <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Nemedennoù…
     .accesskey = N
@@ -504,6 +507,12 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Roll istor
+history-remember-option-all =
+    .label = Derc'hel soñj ar roll istor
+history-remember-option-never =
+    .label = Ne zerc'hel ket soñj ar roll istor
+history-remember-option-custom =
+    .label = Implijout arventennoù personelaet evit ar roll istor
 history-remember-description = { -brand-short-name } a zalc'ho soñj eus ho roll istor, ho pellgargadennoù, ho furmskridoù hag ho klaskoù.
 history-dontremember-description = { -brand-short-name } a implijo ar memes arventennoù hag ar merdeiñ prevez, ha ne zalc'ho ket soñj ar roll istor.
 history-private-browsing-permanent =
