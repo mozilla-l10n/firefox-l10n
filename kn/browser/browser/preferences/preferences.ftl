@@ -153,6 +153,9 @@ choose-button =
 translate-web-pages =
     .label = ಜಾಲದಲ್ಲಿನ ಕಂಟೆಂಟ್ ಅನ್ನು ಅನುವಾದಿಸು
     .accesskey = T
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = ಅನುವಾದಿಸಿದವರು <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = ಹೊರತಾದವುಗಳು...
     .accesskey = x
