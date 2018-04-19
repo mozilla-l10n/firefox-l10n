@@ -178,6 +178,10 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-remember-option-never =
+    .label = Tojjukiranga ebyafaayo
+history-remember-option-custom =
+    .label = Kozesa entegeka eyiyo ku byafaayo
 history-dontremember-description = { -brand-short-name } ejja kkozesa entegekka yemu nga enoonyereza eyo bwa nnannyini, era tejja kujjukira byafaayo nga bwo obiwamanta ku Mutimbangano.
 history-private-browsing-permanent =
     .label = Kozesanga okunonya okutongozeddwa ebiseera byoona
