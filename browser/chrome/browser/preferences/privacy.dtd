@@ -3,34 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-
-
-
-
-
-
-<!ENTITY  trackingProtectionLearnMore.label    "आओर जानू">
-
-
-<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
-
-<!ENTITY trackingProtectionPBM5.label         "निज विंडो मे ट्रैकिंग सुरक्षा उपयोग करू">
-<!ENTITY trackingProtectionPBM5.accesskey     "v">
-<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
-
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBMLearnMore.label "आओर जानू">
 
-
-
-
-
-
-
 <!ENTITY  history.label                 "इतिहास">
-
-
-
-
 
 <!ENTITY  locbar.bookmarks.label        "पुस्तकचिह्न">
 <!ENTITY  locbar.bookmarks.accesskey    "k">
@@ -48,7 +24,6 @@
 <!ENTITY  acceptThirdParty.visited.label  "भ्रमण कएलसँ">
 
 
-
 <!ENTITY  expire.label                  "हुनकर मियाद पूर्ण होइछ">
 <!ENTITY  close.label                   "हम &brandShortName; बन्न करैत छी">
 
@@ -58,30 +33,30 @@
 <!ENTITY  showCookies.label             "कुकी देखाउ...">
 <!ENTITY  showCookies.accesskey         "S">
 
-
 <!ENTITY  historyHeader.remember.label     "इतिहास याद राखू">
 <!ENTITY  historyHeader.dontremember.label "इतिहास  कहियो  याद नहि राखू">
-<!ENTITY  historyHeader.custom.label       "Use custom settings for history">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; अहाँक ब्राउजिंग, डाउनलोड, फार्म, आओर खोज इतिहास केँ याद राखताह आओर वेबसाइटसँ कुकीज जमा राखताह जखन अहाँ साइट पर जाइत छी.">
+
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  rememberActions.pre.label           "अहाँ चाह सकैत छी ">
 <!ENTITY  rememberActions.clearHistory.label  " अपन हालक इतिहास साफ कएनाइ ">
 <!ENTITY  rememberActions.middle.label        ", अथवा ">
 <!ENTITY  rememberActions.removeCookies.label "व्यक्तिगत कुकीज हटैनाइ">
 <!ENTITY  rememberActions.post.label          ".">
 
+
 <!ENTITY  dontrememberDescription.label  "&brandShortName; निज ब्राउजिंगक तरह सेटिंग प्रयोग करताह आओर अहाँक वेब ब्राउज़ करबाक दौरान कोनो इतिहास याद नहि रखताह.">
+
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  dontrememberActions.pre.label          "अहाँ ई कएनाइ चाह सकैत छी ">
 <!ENTITY  dontrememberActions.clearHistory.label "सभटा मोजुदा इतिहास साफ  करू ">
 <!ENTITY  dontrememberActions.post.label         ".">
+
 
 <!ENTITY  privateBrowsingPermanent2.label "हमेशा निज ब्राउजिंग विधिक उपयोग करू">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
@@ -97,8 +72,5 @@
 
 <!ENTITY  clearOnCloseSettings.label     "सेटिंग…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
-
-
-
 
 
