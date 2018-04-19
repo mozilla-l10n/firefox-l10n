@@ -524,14 +524,28 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY playPluginCmd.label          "Dëse Plugin aktivéieren">
 <!ENTITY hidePluginCmd.label          "Dëse Plugin verstoppen">
 <!ENTITY copyLinkCmd.label            "Linkadress kopéieren">
+<!ENTITY copyImageCmd.label           "Adress vum Bild kopéieren">
+<!ENTITY copyImageContentsCmd.label   "Bild kopéieren">
+<!ENTITY copyVideoURLCmd.label        "Adress vum Video kopéieren">
+<!ENTITY copyAudioURLCmd.label        "Adress vum Audio kopéieren">
+<!ENTITY copyEmailCmd.label           "E-Mail-Adress kopéieren">
 
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
+<!ENTITY mediaPlay.label             "Spillen">
+<!ENTITY mediaPause.label            "Paus">
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu
 items are mutually exclusive. -->
+<!ENTITY mediaMute.label             "Toun aus">
+<!ENTITY mediaUnmute.label           "Toun un">
+<!ENTITY mediaPlaybackRate2.label     "Ofspillvitesse">
+<!ENTITY mediaPlaybackRate050x2.label "Lues (×0.5)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "S">
+<!ENTITY mediaPlaybackRate100x2.label "Normal">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
 <!ENTITY mediaPlaybackRate125x2.label "Séier (×1.25)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "F">
 <!ENTITY mediaPlaybackRate150x2.label "Méi séier (×1.5)">
@@ -568,39 +582,59 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.label       "Erazoomen">
  <!-- + is above this key on many keyboards -->
 
+<!ENTITY fullZoomReduceCmd.label        "Erauszoomen">
+
+<!ENTITY fullZoomResetCmd.label         "Zrécksetzen">
+
+<!ENTITY fullZoom.label                 "Zoom">
 
 
+<!ENTITY quitApplicationCmdWin2.label       "Zoumaachen">
+<!ENTITY quitApplicationCmdWin2.tooltip     "&brandShorterName; zoumaachen">
+<!ENTITY quitApplicationCmd.label       "Verloossen">
+
+<!ENTITY closeCmd.label                 "Zoumaachen">
 
 
-
-
-
+<!ENTITY pageStyleNoStyle.label "Kee Stil">
 
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
 
 
+<!ENTITY findOnCmd.label     "Op dëser Säit sichen…">
+<!ENTITY findAgainCmd.label  "Weidersichen">
 
 
+<!ENTITY editBookmark.done.label                     "Fäerdeg">
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
 
+<!ENTITY identity.connectionSecure "Sécher Verbindung">
+<!ENTITY identity.connectionNotSecure "Verbindung ass net sécher">
+<!ENTITY identity.connectionFile "Dës Säit ass op Dengem Computer gespäichert.">
 
 <!-- Strings for connection state warnings. -->
+<!ENTITY identity.weakEncryption "Dës Säit benotzt eng schwaach Verschlësselung.">
 
 <!-- Strings for connection state warnings in the subview. -->
 
+<!ENTITY identity.learnMore "Fir méi ze wëssen">
 
+<!ENTITY identity.removeCertException.label "Ausnam läschen">
 
+<!ENTITY identity.moreInfoLinkText2 "Méi Informatiounen">
 
+<!ENTITY identity.permissions "Erlaabnesser">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 
+<!ENTITY syncedTabs.sidebar.unverified.label   "Äre Benotzerkont muss iwwerpréift ginn.">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 
@@ -608,11 +642,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
                         syncedTabs.context.openAllInTabs.accesskey):
      These access keys are identical because their associated menu items are
      mutually exclusive -->
+<!ENTITY syncedTabs.context.open.label                       "Opmaachen">
+<!ENTITY syncedTabs.context.openInNewTab.label               "An engem neien Tab opmaachen">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "An enger neier Fënster opmaachen">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "An enger neier privater Fënster opmaachen">
 
 
 
 
+<!ENTITY syncSyncNowItem.label        "Elo synchroniséieren">
+<!ENTITY syncSyncNowItem.accesskey    "S">
+<!ENTITY syncToolbarButton.label      "Synchroniséieren">
 
+<!ENTITY customizeMode.done "Fäerdeg">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
