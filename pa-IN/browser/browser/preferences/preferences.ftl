@@ -374,6 +374,15 @@ sync-signedout-account-create = ਖਾਤਾ ਨਹੀ ਹੈ? ਤਾਂ ਬਣ�
 sync-signedout-account-signin =
     .label = …ਸਾਈਨ ਇਨ
     .accesskey = I
+# This message contains two links and two icon images.
+#   `<img data-l10n-name="android-icon"/>` - Android logo icon
+#   `<a data-l10n-name="android-link">` - Link to Android Download
+#   `<img data-l10n-name="ios-icon">` - iOS logo icon
+#   `<a data-l10n-name="ios-link">` - Link to iOS Download
+#
+# They can be moved within the sentence as needed to adapt
+# to your language, but should not be changed or translated.
+sync-mobile-promo = ਫਾਇਰਫਾਕਸ ਇਸ ਲਈ ਡਾਊਨੋਡ ਕਰੋ <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">ਐਂਡਰਾਈਡ</a> ਜਾਂ <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> ਫਾਇਰਫਾਕਸ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ।
 
 ## Sync Section - Signed in
 
@@ -469,6 +478,17 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = ਅਤੀਤ
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label = { -brand-short-name } ਕਰੇਗਾ
+    .accesskey = w
 history-remember-option-all =
     .label = ਅਤੀਤ
 history-remember-option-never =
