@@ -44,6 +44,8 @@ available. -->
 <!ENTITY collectBrowserErrors.accesskey      "u">
 <!ENTITY collectBrowserErrorsLearnMore.label "Ne saber mai">
 
+<!ENTITY sendBackloggedCrashReports.label  "Permetre a &brandShortName; de mandar de rapòrt de plantatge en espèra">
+<!ENTITY sendBackloggedCrashReports.accesskey "t">
 <!ENTITY crashReporterLearnMore.label    "Ne saber mai">
 
 <!ENTITY networkTab.label                "Ret">
@@ -64,6 +66,7 @@ available. -->
 <!ENTITY siteDataSettings.accesskey      "i">
 <!ENTITY siteData1.label                 "Cookies e donadas de sites">
 <!ENTITY clearSiteData1.label            "Esfaçament de las donadas…">
+<!ENTITY clearSiteData1.accesskey        "E">
 <!ENTITY siteDataSettings1.label         "Gerir las donadas…">
 <!ENTITY siteDataSettings1.accesskey     "G">
 <!ENTITY siteDataLearnMoreLink.label     "Ne saber mai">

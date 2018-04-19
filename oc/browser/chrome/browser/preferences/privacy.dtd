@@ -44,8 +44,14 @@
 <!ENTITY  acceptThirdParty2.pre.label     "Acceptar los cookies tèrces">
 <!ENTITY  acceptThirdParty2.pre.accesskey "y">
 
+<!ENTITY  acceptCookies4.label          "Acceptar los cookies e las donadas de sites (recomandat)">
+<!ENTITY  acceptCookies4.accesskey      "A">
 
+<!ENTITY  blockCookies.label            "Blocar los cookies e donadas de sites (pòt far que de sites foncionen pas)">
+<!ENTITY  blockCookies.accesskey        "B">
 
+<!ENTITY  acceptThirdParty3.pre.label     "Acceptar los cookies e donadas de sites tèrces">
+<!ENTITY  acceptThirdParty3.pre.accesskey "t">
 <!ENTITY  acceptThirdParty.always.label   "Totjorn">
 <!ENTITY  acceptThirdParty.never.label    "Pas jamai">
 <!ENTITY  acceptThirdParty.visited.label  "Dels sites visitats">
