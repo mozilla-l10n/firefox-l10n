@@ -184,6 +184,9 @@ choose-button =
 translate-web-pages =
     .label = વેબ સમાવિષ્ટ અનુવાદ કરો
     .accesskey = T
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = નાં વડે અનુવાદ <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = અપવાદ…
     .accesskey = x
