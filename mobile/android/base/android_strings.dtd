@@ -282,6 +282,13 @@
 <!ENTITY pref_whats_new_notification "Beth sy\&apos;n newydd yn &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Dysgu am nodweddion newydd ar ôl diweddariad">
 
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!ENTITY pref_feature_tips_notification "Awgrymiadau cynnyrch a nodweddion">
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+<!ENTITY pref_feature_tips_notification_summary "Dysgu rhagor am ddefnyddio &brandShortName; a chynnyrch eraill &vendorShortName;">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "Nodweddion arbrofol">
@@ -422,7 +429,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "Adroddiad Iechyd &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "Mae\&apos;n rhannu data gyda &vendorShortName; am iechyd eich porwr ac yn cynorthwyo i ddeall perfformiad eich porwr">
-<!ENTITY datareporting_abouthr_title "Gweld fy Adroddiad Iechyd">
 <!ENTITY datareporting_telemetry_title "Telemetreg">
 <!ENTITY datareporting_telemetry_summary "Rhannu gwybodaeth am berfformiad, defnydd, caledwedd a chyfaddasu am eich porwr gyda &vendorShortName; i\&apos;n cynorthwyo i wneud &brandShortName; yn well">
 <!ENTITY datareporting_crashreporter_summary "Mae &brandShortName; yn cyflwyno adroddiadau chwalu i gynorthwyo &vendorShortName; wneud eich porwr yn fwy sefydlog a diogel">
