@@ -187,6 +187,9 @@ choose-button =
 translate-web-pages =
     .label = Tradu conținutul web
     .accesskey = T
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = Traduceri de <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Excepții…
     .accesskey = x
@@ -408,6 +411,15 @@ sync-signedout-account-create = Nu ai un cont? Începe
 sync-signedout-account-signin =
     .label = Autentifică-te…
     .accesskey = I
+# This message contains two links and two icon images.
+#   `<img data-l10n-name="android-icon"/>` - Android logo icon
+#   `<a data-l10n-name="android-link">` - Link to Android Download
+#   `<img data-l10n-name="ios-icon">` - iOS logo icon
+#   `<a data-l10n-name="ios-link">` - Link to iOS Download
+#
+# They can be moved within the sentence as needed to adapt
+# to your language, but should not be changed or translated.
+sync-mobile-promo = Descarcă Firefox pentru <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> sau <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> ca să sincronizezi datele cu dispozitivul mobil.
 
 ## Sync Section - Signed in
 
@@ -506,6 +518,21 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Istoric
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label = { -brand-short-name }:
+    .accesskey = w
+history-remember-option-all =
+    .label = Va memora istoricul
+history-remember-option-custom =
+    .label = Va folosi setări personalizate pentru istoric
 history-remember-description = { -brand-short-name } va memora istoricul navigării, descărcărilor, formularelor și căutărilor.
 history-dontremember-description = { -brand-short-name } va folosi aceleași setări ca navigarea privată și nu va memora niciun istoric pe măsură ce navighezi pe web.
 history-private-browsing-permanent =
