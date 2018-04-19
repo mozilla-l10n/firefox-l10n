@@ -503,6 +503,12 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Előzmények
+history-remember-option-all =
+    .label = Megjegyzi az előzményeket
+history-remember-option-never =
+    .label = Nem jegyzi meg az előzményeket
+history-remember-option-custom =
+    .label = Egyéni beállításokat használ az előzményekhez
 history-remember-description = A { -brand-short-name } emlékezni fog a böngészési, letöltési, űrlap és keresési előzményekre.
 history-dontremember-description = A { -brand-short-name } ugyanazokat a beállításokat fogja használni, mint a privát böngészés, és nem fogja megjegyezni az internethasználat előzményeit.
 history-private-browsing-permanent =
