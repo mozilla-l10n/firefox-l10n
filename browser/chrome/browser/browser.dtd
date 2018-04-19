@@ -999,6 +999,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Analluogi Estyniad">
 <!ENTITY newTabControlled.disableButton.accesskey "A">
 
+<!ENTITY homepageControlled.message "Mae estyniad wedi newid yr hyn rydych yn ei weld ar eich tudalen cartref. Gallwch adfer eich gosodiadau os nad ydych chi eisiau'r newid hwn.">
+<!ENTITY homepageControlled.header.message "Mae eich tudalen cartref wedi newid.">
+<!ENTITY homepageControlled.keepButton.label "Cadw'r Newidiadau">
+<!ENTITY homepageControlled.keepButton.accesskey "C">
+<!ENTITY homepageControlled.disableButton.label "Analluogi'r Estyniad">
+<!ENTITY homepageControlled.disableButton.accesskey "A">
+
 <!ENTITY pageActionButton.tooltip "Gweithredoedd tudalen">
 <!ENTITY pageAction.addToUrlbar.label "Ychwanegu i'r Llyfr Cyfeiriadau">
 <!ENTITY pageAction.removeFromUrlbar.label "Tynnu o'r Bar Cyfeiriadau">
@@ -1008,6 +1015,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "Anfon Tab i Ddyfais">
 <!ENTITY sendToDevice.syncNotReady.label "Cydweddu Dyfeisiau…">
+
+<!ENTITY pageAction.shareUrl.label "Rhannu">
 
 <!ENTITY libraryButton.tooltip "Gweld hanes, nodau tudalen wedi eu cadw, a rhagor">
 
