@@ -314,6 +314,12 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = ඉතිහාසය
+history-remember-option-all =
+    .label = අතීතය මතක තබාගන්න
+history-remember-option-never =
+    .label = කිසිවිටෙක අතීතය මතක තබා නොගන්න
+history-remember-option-custom =
+    .label = අතීතය සඳහා රිසිකරණ සැකසුම් භාවිතා කරන්න
 history-dontremember-description = { -brand-short-name } එම සැකසුම්ම පුද්ගලික ගවේෂණය සඳහා යොදාගනු ඇති අතර ඔබ ගවේෂණය කරන අතරතුර කිසිදු ඉතිහාසයක් මතකයේ තබානොගනු ඇත.
 history-private-browsing-permanent =
     .label = සෑම විටම පෞද්ගලික ගවේෂණය භාවිතා කරන්න
