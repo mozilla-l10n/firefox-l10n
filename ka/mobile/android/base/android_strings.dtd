@@ -282,6 +282,13 @@
 <!ENTITY pref_whats_new_notification "რა არის ახალი &brandShortName;-ში">
 <!ENTITY pref_whats_new_notification_summary "გაეცანით ახალ შესაძლებლობებს, განახლების შემდეგ">
 
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!ENTITY pref_feature_tips_notification "პროდუქტისა და შესაძლებლობების შესახებ">
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+<!ENTITY pref_feature_tips_notification_summary "იხილეთ ვრცლად, &brandShortName;-ისა და &vendorShortName;-ის სხვა პროდუქტების გამოყენების შესახებ">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "საცდელი შესაძლებლობები">
