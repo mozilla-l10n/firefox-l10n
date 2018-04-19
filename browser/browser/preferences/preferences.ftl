@@ -168,6 +168,12 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Historiô
+history-remember-option-all =
+    .label = Spamiãtiwô historiã
+history-remember-option-never =
+    .label = Nie spamiãtiwô historie
+history-remember-option-custom =
+    .label = Ùżiwô swòji historie
 history-dontremember-description = Program { -brand-short-name } bãdze brëkòwôł tëch sómëch nastawów co w priwatnym tribie i nie bãdze pamiãtôł historie przë przezéranim stronów WWW.
 history-private-browsing-permanent =
     .label = Wiedno ùżëwôj tribu priwatnégò przezéraniô sécë
