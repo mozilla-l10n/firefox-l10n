@@ -175,6 +175,9 @@ choose-button =
 translate-web-pages =
     .label = ترجمه محتویات وب
     .accesskey = ت
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = ترجمه با <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = استثناها…
     .accesskey = س
@@ -378,6 +381,15 @@ sync-signedout-account-create = حساب کاربری ندارید؟ شروع ک
 sync-signedout-account-signin =
     .label = ورود…
     .accesskey = I
+# This message contains two links and two icon images.
+#   `<img data-l10n-name="android-icon"/>` - Android logo icon
+#   `<a data-l10n-name="android-link">` - Link to Android Download
+#   `<img data-l10n-name="ios-icon">` - iOS logo icon
+#   `<a data-l10n-name="ios-link">` - Link to iOS Download
+#
+# They can be moved within the sentence as needed to adapt
+# to your language, but should not be changed or translated.
+sync-mobile-promo = بارگیری فایرفاکس برای <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">اندروید</a> یا <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> جهت همگام‌سازی با دستگاه همراه شما.
 
 ## Sync Section - Signed in
 
@@ -468,6 +480,17 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = تاریخچه
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label = { -brand-short-name } will
+    .accesskey = w
 history-remember-option-all =
     .label = تاریخچه را به خاطر خواهد داشت
 history-remember-option-never =
