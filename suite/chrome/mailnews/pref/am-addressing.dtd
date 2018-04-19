@@ -30,6 +30,9 @@
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY then.label                           "Maka,">
 <!ENTITY then.accesskey                       "M">
+<!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY quoting.label                        "Apabila memetik,">
+<!ENTITY quoting.accesskey                    "m">
 <!ENTITY aboveQuote.label                     "mulakan balasan di atas petikan tadi">
 <!ENTITY belowQuote.label                     "mulakan balasan di bawah petikan tadi">
 <!ENTITY selectAndQuote.label                 "pilih petikan">
