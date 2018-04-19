@@ -515,6 +515,10 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Hanes
+history-remember-option-all =
+    .label = Cofio hanes
+history-remember-option-custom =
+    .label = Defnyddio gosodiadau cyfaddasu ar gyfer hanes
 history-remember-description = Bydd { -brand-short-name } yn cofio eich hanes pori, llwytho i lawr, ffurflenni a chwilio.
 history-dontremember-description = Bydd { -brand-short-name } yn defnyddio'r un gosodiadau â phori preifat, ond ni fydd yn cofio unrhyw hanes wrth i chi bori'r We.
 history-private-browsing-permanent =
