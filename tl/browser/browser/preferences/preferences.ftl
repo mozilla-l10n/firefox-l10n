@@ -177,6 +177,9 @@ choose-button =
 translate-web-pages =
     .label = Isalin ang nilalaman ng web
     .accesskey = T
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = Mga pagsasalin sa pamamagitan ng <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Mga exceptions...
     .accesskey = x
