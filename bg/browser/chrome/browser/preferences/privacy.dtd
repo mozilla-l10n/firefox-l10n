@@ -47,6 +47,8 @@
 <!ENTITY  acceptCookies4.label          "Приемане на бисквитки и данни на страници (препоръчително)">
 <!ENTITY  acceptCookies4.accesskey      "П">
 
+<!ENTITY  blockCookies.label            "Забраняване на бисквитки и данни на страници (може е да доведе до неработещи страници)">
+<!ENTITY  blockCookies.accesskey        "з">
 
 <!ENTITY  acceptThirdParty3.pre.label     "Приемане на бисквитки и данни за сайтове от трети лица">
 <!ENTITY  acceptThirdParty3.pre.accesskey "б">
@@ -84,6 +86,7 @@
 <!ENTITY  rememberActions.removeCookies.label "да премахнете отделни бисквитки">
 <!ENTITY  rememberActions.post.label          ".">
 
+<!ENTITY  rememberDescription1.label      "&brandShortName; ще пази историята на разглеждане, изтегляния и търсене.">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; ще използва същите настройки като при поверително разглеждане и няма да помни никаква история, докато сте в интернет.">
 
