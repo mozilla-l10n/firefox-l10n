@@ -184,6 +184,9 @@ choose-button =
 translate-web-pages =
     .label = Itzuli webeko edukia
     .accesskey = I
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = Itzulpenak: <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Salbuespenak…
     .accesskey = S
@@ -496,6 +499,12 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Historia
+history-remember-option-all =
+    .label = Historia gogoratuko du
+history-remember-option-never =
+    .label = Ez du historia gogoratuko inoiz
+history-remember-option-custom =
+    .label = Ezarpen pertsonalizatuak erabiliko ditu historiarako
 history-dontremember-description = { -brand-short-name }(e)k nabigatze pribatuaren ezarpen berak erabiliko ditu, eta ez du gogoratuko historia webean nabigatzen ari zarenean.
 history-private-browsing-permanent =
     .label = Erabili beti nabigatze pribatuko modua
