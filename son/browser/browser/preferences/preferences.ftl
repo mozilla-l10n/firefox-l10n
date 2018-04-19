@@ -122,6 +122,9 @@ choose-button =
 translate-web-pages =
     .label = Interneti gundekuna berandi
     .accesskey = b
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = Berandikey <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Hasarawey…
     .accesskey = H
@@ -274,6 +277,15 @@ containers-remove-button =
 sync-signedout-caption = War internetoo kanbe war bande
 sync-signedout-description = War doo-šilbawey, taariki, kanji, šennikufaley, tontoney nda ibaayey hangandi cere war jinawey kul ga.
 sync-signedout-account-title = Ciya nda { -fxaccount-brand-name } foo
+# This message contains two links and two icon images.
+#   `<img data-l10n-name="android-icon"/>` - Android logo icon
+#   `<a data-l10n-name="android-link">` - Link to Android Download
+#   `<img data-l10n-name="ios-icon">` - iOS logo icon
+#   `<a data-l10n-name="ios-link">` - Link to iOS Download
+#
+# They can be moved within the sentence as needed to adapt
+# to your language, but should not be changed or translated.
+sync-mobile-promo = Firefox zumandi <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> wala <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> ka hangandi nda war kanbe jinaa.
 
 ## Sync Section - Signed in
 
@@ -330,10 +342,23 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Taariki
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label = { -brand-short-name } ga
+    .accesskey = g
 history-remember-option-all =
     .label = Hongu taarikoo
 history-remember-option-never =
     .label = Ma ši honga taarikoo abada
+history-remember-option-custom =
+    .label = Hanse bonse taariku se goyandi
 history-dontremember-description = { -brand-short-name } ga goy nda kayandiyan follokey kaŋ goo nda sutura ceeciyan, amma a ši taariku gaabu war tataaru ceeciroo waate.
 history-private-browsing-permanent =
     .label = Wa goy sutura naarumi alhaali ra waati kul
