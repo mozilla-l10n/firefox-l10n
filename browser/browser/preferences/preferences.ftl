@@ -403,6 +403,12 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Stair
+history-remember-option-all =
+    .label = Meabhraigh an stair
+history-remember-option-never =
+    .label = Ná meabhraigh an stair riamh
+history-remember-option-custom =
+    .label = Úsáid socruithe saincheaptha don stair
 history-dontremember-description = Úsáidfidh { -brand-short-name } na socruithe céanna mar a úsáidtear sa bhrabhsáil phríobháideach, agus ní mheabhróidh sé stair ar bith agus tú ag brabhsáil an Ghréasáin.
 history-private-browsing-permanent =
     .label = Bain úsáid as Brabhsáil Phríobháideach i gcónaí
