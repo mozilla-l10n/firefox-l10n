@@ -184,6 +184,9 @@ choose-button =
 translate-web-pages =
     .label = Kob gin manonge iye kakube
     .accesskey = K
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = Ngat ma okobo aye <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Ma kiweko woko…
     .accesskey = a
@@ -390,6 +393,15 @@ sync-signedout-account-create = Pe itye ki akaunt? Caki
 sync-signedout-account-signin =
     .label = Dony iyie…
     .accesskey = I
+# This message contains two links and two icon images.
+#   `<img data-l10n-name="android-icon"/>` - Android logo icon
+#   `<a data-l10n-name="android-link">` - Link to Android Download
+#   `<img data-l10n-name="ios-icon">` - iOS logo icon
+#   `<a data-l10n-name="ios-link">` - Link to iOS Download
+#
+# They can be moved within the sentence as needed to adapt
+# to your language, but should not be changed or translated.
+sync-mobile-promo = Gam Firefox pi <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> onyo <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> me ribo ki nyonyo mamegi me cing.
 
 ## Sync Section - Signed in
 
@@ -485,6 +497,23 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Gin mukato
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label = { -brand-short-name } obi
+    .accesskey = o
+history-remember-option-all =
+    .label = Poo ikom gin mukato
+history-remember-option-never =
+    .label = Pe i poo ikom gin mukato matwal
+history-remember-option-custom =
+    .label = Tii ki ter mamegi pi gin mukato
 history-remember-description = { -brand-short-name } bi poo ikom yeny mamegi, gam, pwom ki yeny mukato.
 history-dontremember-description = { -brand-short-name } bi tic ki ter acel calo yeny me mung, ka pe bi poo ikom gin mukato mo keken kun nongo i yenyo Kakube.
 history-private-browsing-permanent =
