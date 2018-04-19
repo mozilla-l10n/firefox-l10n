@@ -483,6 +483,12 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Eachdraidh
+history-remember-option-all =
+    .label = Cuimhnich an eachdraidh
+history-remember-option-never =
+    .label = Na cuimhnich an eachdraidh idir
+history-remember-option-custom =
+    .label = Cleachd roghainnean gnàthaichte airson na h-eachdraidh
 history-remember-description = Cuimhnichidh { -brand-short-name } eachdraidh a’ bhrabhsaidh, nam foirm, nan lorg is nan rudan a luchdaich thu a-nuas.
 history-dontremember-description = Cleachdaidh { -brand-short-name } na dearbh roghainnean 's a tha agad ann an brabhsadh prìobhaideach agus cha chuimhnich e eachdraidh sam bith 's tu a' brabhsadh an lìn.
 history-private-browsing-permanent =
