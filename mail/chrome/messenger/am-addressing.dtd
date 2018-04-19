@@ -10,7 +10,7 @@
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
 <!ENTITY useGlobal.label           "LDAP სერვერის საერთო პარამეტრების გამოყენება ამ ანგარიშისათვის">
 <!ENTITY useGlobal.accesskey       "L">
-<!ENTITY editDirectories.label     "საქაღალდეების რედაქტირება…">
+<!ENTITY editDirectories.label     "საქაღალდეების ჩასწორება…">
 <!ENTITY editDirectories.accesskey "ქ">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "სხვა LDAP სერვერის გამოყენება:">
