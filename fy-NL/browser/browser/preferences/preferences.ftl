@@ -503,6 +503,8 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Skiednis
+history-remember-option-all =
+    .label = Skiednis ûnthâlde
 history-remember-description = { -brand-short-name } sil jo browser-, download-, formulier- en sykskiednis ûnthâlde.
 history-dontremember-description = { -brand-short-name } sil deselde ynstellingen brûke as privee sneupe en sil gjin skiednis ûnthâlde as jo sneupe oer it ynternet.
 history-private-browsing-permanent =
