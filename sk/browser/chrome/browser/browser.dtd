@@ -303,6 +303,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Preskúmať prvok">
 <!ENTITY inspectContextMenu.accesskey "m">
 
+
 <!ENTITY fileMenu.label         "Súbor">
 <!ENTITY fileMenu.accesskey       "S">
 <!ENTITY newUserContext.label             "Nová kontajnerová karta">
@@ -996,6 +997,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Zakázať rozšírenie">
 <!ENTITY newTabControlled.disableButton.accesskey "Z">
 
+<!ENTITY homepageControlled.message "Rozšírenie zmenilo vašu domovskú stránku. Ak si túto zmenu neželáte, môžete obnoviť svoje nastavenia.">
+<!ENTITY homepageControlled.header.message "Vaša domovská stránka bola zmenená.">
+<!ENTITY homepageControlled.keepButton.label "Zachovať zmeny">
+<!ENTITY homepageControlled.keepButton.accesskey "Z">
+<!ENTITY homepageControlled.disableButton.label "Zakázať rozšírenie">
+<!ENTITY homepageControlled.disableButton.accesskey "r">
+
 <!ENTITY pageActionButton.tooltip "Akcie stránky">
 <!ENTITY pageAction.addToUrlbar.label "Pridať do panela s adresou">
 <!ENTITY pageAction.removeFromUrlbar.label "Odstrániť z panela s adresou">
@@ -1005,6 +1013,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "Odoslať kartu do zariadenia">
 <!ENTITY sendToDevice.syncNotReady.label "Synchronizovanie zariadení…">
+
+<!ENTITY pageAction.shareUrl.label "Zdieľať">
 
 <!ENTITY libraryButton.tooltip "Zobrazí históriu, uložené záložky a ďalšie">
 
