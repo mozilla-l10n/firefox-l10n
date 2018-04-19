@@ -172,6 +172,9 @@ choose-button =
 translate-web-pages =
     .label = แปลเนื้อหาเว็บ
     .accesskey = ป
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = แปลโดย <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = ข้อยกเว้น…
     .accesskey = อ
@@ -393,6 +396,15 @@ sync-signedout-account-create = ไม่มีบัญชี? เริ่ม�
 sync-signedout-account-signin =
     .label = ลงชื่อเข้า…
     .accesskey = ล
+# This message contains two links and two icon images.
+#   `<img data-l10n-name="android-icon"/>` - Android logo icon
+#   `<a data-l10n-name="android-link">` - Link to Android Download
+#   `<img data-l10n-name="ios-icon">` - iOS logo icon
+#   `<a data-l10n-name="ios-link">` - Link to iOS Download
+#
+# They can be moved within the sentence as needed to adapt
+# to your language, but should not be changed or translated.
+sync-mobile-promo = ดาวน์โหลด Firefox สำหรับ <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> หรือ <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> เพื่อซิงค์กับอุปกรณ์มือถือของคุณ
 
 ## Sync Section - Signed in
 
@@ -491,6 +503,12 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = ประวัติ
+history-remember-option-all =
+    .label = จดจำประวัติ
+history-remember-option-never =
+    .label = ไม่จดจำประวัติเสมอ
+history-remember-option-custom =
+    .label = ใช้การตั้งค่าที่กำหนดเองสำหรับประวัติ
 history-remember-description = { -brand-short-name } จะจดจำประวัติการท่องเว็บ, การดาวน์โหลด, แบบฟอร์ม และการค้นหาของคุณ
 history-dontremember-description = { -brand-short-name } จะใช้การตั้งค่าเดียวกับการท่องเว็บแบบส่วนตัวและจะไม่จดจำประวัติใด ๆ ขณะที่คุณท่องเว็บ
 history-private-browsing-permanent =
