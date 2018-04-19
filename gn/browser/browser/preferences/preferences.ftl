@@ -184,6 +184,9 @@ choose-button =
 translate-web-pages =
     .label = Ñanduti retepy ñe'ẽasa
     .accesskey = T
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = Ñe'ẽasaha <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Oĩ'ỹva…
     .accesskey = ĩ
@@ -405,6 +408,15 @@ sync-signedout-account-create = Nanemba'etéi gueteri piko? Ejapomi
 sync-signedout-account-signin =
     .label = Eike…
     .accesskey = I
+# This message contains two links and two icon images.
+#   `<img data-l10n-name="android-icon"/>` - Android logo icon
+#   `<a data-l10n-name="android-link">` - Link to Android Download
+#   `<img data-l10n-name="ios-icon">` - iOS logo icon
+#   `<a data-l10n-name="ios-link">` - Link to iOS Download
+#
+# They can be moved within the sentence as needed to adapt
+# to your language, but should not be changed or translated.
+sync-mobile-promo = Emboguejy Aguaratata kóvape g̃uarã:<img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> térã <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> embojuehe hag̃ua nemba'e'oka oku'éva rehe.
 
 ## Sync Section - Signed in
 
@@ -503,6 +515,23 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Tembiasakue
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label = { -brand-short-name } ikatútapa
+    .accesskey = w
+history-remember-option-all =
+    .label = Tembiasakuére ñemandu'a
+history-remember-option-never =
+    .label = Ani nemandu'a tembiasakuére
+history-remember-option-custom =
+    .label = Eiporu peteĩ ñemboheko mba'etéva tembiasakuépe g̃uarã
 history-remember-description = { -brand-short-name } imandu'áta ne kundaha, ñamboguejy, myanyhẽha ha jeheka rembiasakue rehe.
 history-dontremember-description = { -brand-short-name } oipurujeýta pe ñemboheko kundaha ñemigua pegua, ha noñongatumo'ãi mba'evéichagua mba'ekuaarã tembiasakuéva oikundahakuévo ñandutípe.
 history-private-browsing-permanent =
