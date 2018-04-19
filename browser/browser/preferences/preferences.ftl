@@ -184,6 +184,9 @@ choose-button =
 translate-web-pages =
     .label = Webynhâld oersette
     .accesskey = W
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = Oersettingen troch <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Utsûnderingen…
     .accesskey = s
@@ -505,6 +508,8 @@ forms-master-pw-change =
 history-header = Skiednis
 history-remember-option-all =
     .label = Skiednis ûnthâlde
+history-remember-option-custom =
+    .label = Oanpaste ynstellingen brûke foar skiednis
 history-remember-description = { -brand-short-name } sil jo browser-, download-, formulier- en sykskiednis ûnthâlde.
 history-dontremember-description = { -brand-short-name } sil deselde ynstellingen brûke as privee sneupe en sil gjin skiednis ûnthâlde as jo sneupe oer it ynternet.
 history-private-browsing-permanent =
