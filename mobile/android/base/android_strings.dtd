@@ -282,6 +282,13 @@
 <!ENTITY pref_whats_new_notification "Novinky v aplikácii &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Po aktualizácii si pozrite informácie o nových funkciách">
 
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!ENTITY pref_feature_tips_notification "Tipy na produkty a funkcie">
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+<!ENTITY pref_feature_tips_notification_summary "Zistite viac o používaní aplikácie &brandShortName; a ďalších produktoch organizácie &vendorShortName;">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "Experimentálne funkcie">
@@ -422,7 +429,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "Správa o kondícii prehliadača &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "Zdieľa so spoločnosťou &vendorShortName; údaje o kondícii prehliadača a zároveň Vám pomáha porozumieť jeho výkonnosti.">
-<!ENTITY datareporting_abouthr_title "Zobraziť Správu o kondícii">
 <!ENTITY datareporting_telemetry_title "Telemetria">
 <!ENTITY datareporting_telemetry_summary "Zdieľa údaje o výkonnosti, využívaní funkcií, hardvérovej konfigurácii a prispôsobení prehliadača so spoločnosťou &vendorShortName; s cieľom urobiť &brandShortName; lepším.">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; odosiela správy o zlyhaní s cieľom pomôcť spoločnosti &vendorShortName; urobiť prehliadač stabilnejším a bezpečnejším.">
