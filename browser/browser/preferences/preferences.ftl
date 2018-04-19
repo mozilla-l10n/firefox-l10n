@@ -171,6 +171,9 @@ choose-button =
 translate-web-pages =
     .label = এবং ওয়েব বিষয়বস্তু অনুবাদ করুন
     .accesskey = T
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = অনুবাদক <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = ব্যতিক্রম…
     .accesskey = x
@@ -369,6 +372,15 @@ sync-signedout-account-create = কোনো অ্যাকাউন্ট ন�
 sync-signedout-account-signin =
     .label = সাইন ইন…
     .accesskey = I
+# This message contains two links and two icon images.
+#   `<img data-l10n-name="android-icon"/>` - Android logo icon
+#   `<a data-l10n-name="android-link">` - Link to Android Download
+#   `<img data-l10n-name="ios-icon">` - iOS logo icon
+#   `<a data-l10n-name="ios-link">` - Link to iOS Download
+#
+# They can be moved within the sentence as needed to adapt
+# to your language, but should not be changed or translated.
+sync-mobile-promo = Firefox ডাউনলোড <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> বা <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> আপনার মোবাইল ডিভাইসের সাথে সুসংগত করতে।
 
 ## Sync Section - Signed in
 
@@ -428,6 +440,12 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = পূর্ববর্তী তথ্য
+history-remember-option-all =
+    .label = পূর্ববর্তী তথ্য মনে রাখা হবে
+history-remember-option-never =
+    .label = পূর্ববর্তী তথ্য কখনো মনে রাখা হবে না
+history-remember-option-custom =
+    .label = পূর্ববর্তী তথ্য সম্বন্ধীয় স্বনির্ধারিত বৈশিষ্ট্য ব্যবহার করা হবে
 history-dontremember-description = ব্যক্তিগত ব্রাউজিংয়ের জন্য ব্যবহৃত বৈশিষ্ট্যগুলি { -brand-short-name } দ্বারা ব্যবহার করা হবে, ও ওয়েব ব্রাউজ করার সময়কার কোনো পূর্ববর্তী তথ্য সংরক্ষণ করা হবে না।
 history-private-browsing-permanent =
     .label = ব্যক্তিগত ব্রাউজিং মোড সর্বদা ব্যবহার করা হবে
