@@ -282,6 +282,13 @@
 <!ENTITY pref_whats_new_notification "&brandShortName; এ নতুন কি আছে">
 <!ENTITY pref_whats_new_notification_summary "একটি হালনাগাদের পর নতুন বৈশিষ্ট্যগুলো সম্পর্কে জানুন">
 
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!ENTITY pref_feature_tips_notification "পণ্য ও ফিচার টিপস">
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+<!ENTITY pref_feature_tips_notification_summary "&brandShortName; এবং অনান্য &vendorShortName; পণ্য ব্যবহার সম্পর্কে আরও জানুন">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "পরীক্ষামূলক বৈশিষ্ট্য">
@@ -422,7 +429,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; স্বাস্থ্য প্রতিবেদন">
 <!ENTITY datareporting_fhr_summary2 "আপনার ব্রাউজারের স্বাস্থ্য সম্বন্ধে &vendorShortName; এর সাথে ডাটা শেয়ার করে যা ব্রাউজারের কার্যকারিতা অনুধাবন করতে আপনাকে সাহায্য করে">
-<!ENTITY datareporting_abouthr_title "স্বাস্থ্য প্রতিবেদন দেখাও">
 <!ENTITY datareporting_telemetry_title "টেলিমেট্রি">
 <!ENTITY datareporting_telemetry_summary "&brandShortName; কে আরও উন্নত করতে আমাদের সহযোগিতা করতে আপনার ব্রাউজারের কার্যকারিতা, ব্যবহার, হার্ডওয়্যার এবং কাস্টমাইজেশন সম্পর্কিত তথ্য &vendorShortName; এর সাথে শেয়ার করে">
 <!ENTITY datareporting_crashreporter_summary "আপনার ব্রাউজারকে আরও স্থিতিশীল এবং নিরাপদ করতে সাহায্য করার জন্য &brandShortName; &vendorShortName; কে ক্র্যাশ রিপোর্ট পাঠাচ্ছে">
