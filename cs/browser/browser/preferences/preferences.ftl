@@ -187,6 +187,9 @@ choose-button =
 translate-web-pages =
     .label = Překládat webové stránky
     .accesskey = T
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = Překlady od <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Výjimky…
     .accesskey = V
