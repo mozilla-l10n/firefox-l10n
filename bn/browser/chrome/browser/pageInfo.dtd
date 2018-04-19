@@ -78,6 +78,7 @@
 <!ENTITY  securityView.privacy.cookies                  "এই ওয়েবসাইট কি আমার কম্পিউটারে তথ্য (কুকি) সংরক্ষণ করছে?">
 <!ENTITY  securityView.privacy.viewCookies              "কুকি পরিদর্শন">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.siteData                 "ওয়েবসাইটটি কি আমার কম্পিউটারে তথ্য সংরক্ষণ করছে?">
 <!ENTITY  securityView.privacy.clearSiteData            "কুকি এবং সাইট ডাটা পরিষ্কার">
 <!ENTITY  securityView.privacy.clearSiteData.accessKey  "C">
 <!ENTITY  securityView.privacy.passwords                "এই ওয়েবসাইটের জন্য কি আমি কোনো পাসওয়ার্ড সংরক্ষণ করেছি?">
