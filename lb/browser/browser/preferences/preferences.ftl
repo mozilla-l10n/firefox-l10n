@@ -242,6 +242,7 @@ sync-device-name-save =
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = Fir méi ze wëssen
 sitedata-accept-third-party-always-option =
     .label = Ëmmer
 
