@@ -491,6 +491,12 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = 瀏覽紀錄
+history-remember-option-all =
+    .label = 保留所有歷史記錄
+history-remember-option-never =
+    .label = 不保留歷史記錄
+history-remember-option-custom =
+    .label = 使用自訂的設定
 history-remember-description = { -brand-short-name } 將記住您的瀏覽、下載、表單填寫與搜尋紀錄。
 history-dontremember-description = { -brand-short-name } 不會儲存任何瀏覽記錄，如同在隱私瀏覽狀態下執行。
 history-private-browsing-permanent =
