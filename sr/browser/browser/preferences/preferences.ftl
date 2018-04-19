@@ -518,6 +518,12 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Историјат
+history-remember-option-all =
+    .label = бележи историјат
+history-remember-option-never =
+    .label = никада не бележи историјат
+history-remember-option-custom =
+    .label = користи посебна подешавања за историјат
 history-remember-description = { -brand-short-name } ће запамтити историјат прегледања, преузимања, формулара и претраге.
 history-dontremember-description = { -brand-short-name } ће користити иста подешавања као за приватно прегледања, и неће памтити историјат прегледања веб страница.
 history-private-browsing-permanent =
