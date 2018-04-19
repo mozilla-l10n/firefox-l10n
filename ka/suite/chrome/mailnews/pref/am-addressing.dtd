@@ -4,19 +4,19 @@
 
 <!-- extracted from am-addressing.xul -->
 
-<!ENTITY addressing.label          "წერილების შედგენა და მისამართები">
-<!ENTITY addressingGroupTitle.label "მისამართები">
+<!ENTITY addressing.label          "წერილების შექმნა და დამისამართება">
+<!ENTITY addressingGroupTitle.label "დამისამართება">
 <!ENTITY autocompleteToMyDomain.label     "ჩემი დომენის ავტომატური დამატება მისამართებისთვის">
-<!ENTITY autocompleteToMyDomain.accesskey "o">
+<!ENTITY autocompleteToMyDomain.accesskey "დ">
 <!ENTITY addressingText.label      "მისამართების ძებნისას:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
-<!ENTITY useGlobal.label           "გლობალური LDAP სერვერის პარამეტრების გამოყენება ამ ანგარიშისათვის">
-<!ENTITY useGlobal.accesskey       "U">
-<!ENTITY editDirectories.label     "დასტების რედაქტირება…">
-<!ENTITY editDirectories.accesskey "E">
+<!ENTITY useGlobal.label           "LDAP სერვერის საერთო პარამეტრების გამოყენება ამ ანგარიშისათვის">
+<!ENTITY useGlobal.accesskey       "L">
+<!ENTITY editDirectories.label     "საქაღალდეების ჩასწორება…">
+<!ENTITY editDirectories.accesskey "ქ">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "სხვა LDAP სერვერის გამოყენება:">
-<!ENTITY directories.accesskey     "d">
+<!ENTITY directories.accesskey     "D">
 <!ENTITY directoriesNone.label     "არა">
 
 <!-- am-addressing.xul -->
@@ -24,26 +24,29 @@
 <!ENTITY compositionGroupTitle.label          "წერილების შედგენა">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "წერილების შედგენა HTML ფორმატში">
-<!ENTITY useHtml.accesskey                    "C">
+<!ENTITY useHtml.accesskey                    "შ">
 <!ENTITY autoQuote.label                      "პასუხისას დედნის ავტომატური ციტირება">
-<!ENTITY autoQuote.accesskey                  "m">
+<!ENTITY autoQuote.accesskey                  "დ">
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY then.label                           "შემდეგ,">
-<!ENTITY then.accesskey                       "T">
+<!ENTITY then.accesskey                       "შ">
+<!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY quoting.label                        "ციტირებისას,">
+<!ENTITY quoting.accesskey                    "ც">
 <!ENTITY aboveQuote.label                     "ჩემი პასუხის დაწყება ციტირების ზემოთ">
 <!ENTITY belowQuote.label                     "ჩემი პასუხის დაწყება ციტირების ქვემოთ">
 <!ENTITY selectAndQuote.label                 "ციტირების შერჩევა">
 <!ENTITY place.label                          "და ჩემი ხელმოწერის განთავსება">
-<!ENTITY place.accesskey                      "s">
-<!ENTITY belowText.label                      "ციტირების ქვემოთ (რეკომენდებულია)">
+<!ENTITY place.accesskey                      "ხ">
+<!ENTITY belowText.label                      "ციტირების ქვემოთ (სასურველია)">
 <!ENTITY aboveText.label                      "ჩემი პასუხის ქვემოთ (ციტირების ზემოთ)">
 <!ENTITY includeSigOnReply.label              "ხელმოწერის თანდართვა პასუხებზე">
-<!ENTITY includeSigOnReply.accesskey          "s">
+<!ENTITY includeSigOnReply.accesskey          "თ">
 <!ENTITY includeSigOnForward.label            "ხელმოწერის თანდართვა გადაგზავნისას">
-<!ENTITY includeSigOnForward.accesskey        "w">
+<!ENTITY includeSigOnForward.accesskey        "ზ">
 
 <!ENTITY globalComposingPrefs.label           "შედგენის საერთო პარამეტრები…">
-<!ENTITY globalComposingPrefs.accesskey       "G">
+<!ENTITY globalComposingPrefs.accesskey       "ო">
 
-<!ENTITY globalAddressingPrefs.label          "დამისამართების გლობალური პარამეტრები…">
-<!ENTITY globalAddressingPrefs.accesskey      "P">
+<!ENTITY globalAddressingPrefs.label          "დამისამართების საერთო პარამეტრები…">
+<!ENTITY globalAddressingPrefs.accesskey      "ა">
