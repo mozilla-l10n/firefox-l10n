@@ -184,6 +184,9 @@ choose-button =
 translate-web-pages =
     .label = ওয়েব কন্টেন্ট অনুবাদ করুন T
     .accesskey = T
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = অনুবাদ করেছেন <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = ব্যতিক্রম... x
     .accesskey = x
@@ -404,6 +407,15 @@ sync-signedout-account-create = আপনার অ্যাকাউন্ট �
 sync-signedout-account-signin =
     .label = সাইন ইন…
     .accesskey = I
+# This message contains two links and two icon images.
+#   `<img data-l10n-name="android-icon"/>` - Android logo icon
+#   `<a data-l10n-name="android-link">` - Link to Android Download
+#   `<img data-l10n-name="ios-icon">` - iOS logo icon
+#   `<a data-l10n-name="ios-link">` - Link to iOS Download
+#
+# They can be moved within the sentence as needed to adapt
+# to your language, but should not be changed or translated.
+sync-mobile-promo = Firefox ডাউনলোড <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> অথবা <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> আপনার মোবাইল ডিভাইসের সাথে সিঙ্ক করতে।
 
 ## Sync Section - Signed in
 
