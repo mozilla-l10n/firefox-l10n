@@ -436,6 +436,8 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Kasaysayan
+history-remember-option-custom =
+    .label = Gamitin ang custom settings para sa history
 history-dontremember-description = Gagamit ng parehong settings ng private browsing ang { -brand-short-name }, at hindi nito tatandaan ang kasaysayan ng pag-browse ninyo ng Web.
 history-private-browsing-permanent =
     .label = Laging gumamit ng pribadong mode ng pagba-browse
