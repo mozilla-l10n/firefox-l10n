@@ -184,6 +184,9 @@ choose-button =
 translate-web-pages =
     .label = Oversett webinnhold
     .accesskey = O
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = Oversettelser av <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Unntak …
     .accesskey = n
@@ -405,6 +408,15 @@ sync-signedout-account-create = Har du ikke en konto? Kom i gang
 sync-signedout-account-signin =
     .label = Logg inn…
     .accesskey = i
+# This message contains two links and two icon images.
+#   `<img data-l10n-name="android-icon"/>` - Android logo icon
+#   `<a data-l10n-name="android-link">` - Link to Android Download
+#   `<img data-l10n-name="ios-icon">` - iOS logo icon
+#   `<a data-l10n-name="ios-link">` - Link to iOS Download
+#
+# They can be moved within the sentence as needed to adapt
+# to your language, but should not be changed or translated.
+sync-mobile-promo = Last ned Firefox for <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> eller <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> for å synkronisere med dine mobile enheter.
 
 ## Sync Section - Signed in
 
@@ -503,6 +515,12 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Historikk
+history-remember-option-all =
+    .label = Huske historikk
+history-remember-option-never =
+    .label = Aldri huske historikk
+history-remember-option-custom =
+    .label = Bruke egne innstillinger for historikk
 history-remember-description = { -brand-short-name } vil lagre informasjon om besøkte nettsider, skjema- og søkehistorikk.
 history-dontremember-description = { -brand-short-name } vil bruke de samme innstillingene som privat nettlesing, og vil ikke huske noen historikk mens du bruker nettet.
 history-private-browsing-permanent =
