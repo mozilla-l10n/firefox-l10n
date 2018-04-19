@@ -509,6 +509,10 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Historija
+history-remember-option-all =
+    .label = Se historiju spomnjeś
+history-remember-option-custom =
+    .label = Swójske nastajenja za historiju wužywaś
 history-remember-description = { -brand-short-name } buźo se wašu pśeglědowańsku, ześěgnjeńsku, formularnu a pytańsku historiju spomnjeś.
 history-dontremember-description = { -brand-short-name } buźo te samske nastajenja ako w priwatnem modusu wužywaś a njebuźo se historiju markowaś, gaž Web pśeglědujośo.
 history-private-browsing-permanent =
