@@ -999,6 +999,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Онемогући екстензију">
 <!ENTITY newTabControlled.disableButton.accesskey "О">
 
+<!ENTITY homepageControlled.message "Екстензија је променила вашу почетну страницу. Можете вратити ваше поставке ако не желите ову промену странице.">
+<!ENTITY homepageControlled.header.message "Ваша почетна страница је промењена.">
+<!ENTITY homepageControlled.keepButton.label "Задржи промене">
+<!ENTITY homepageControlled.keepButton.accesskey "З">
+<!ENTITY homepageControlled.disableButton.label "Онемогући екстензију">
+<!ENTITY homepageControlled.disableButton.accesskey "О">
+
 <!ENTITY pageActionButton.tooltip "Радње странице">
 <!ENTITY pageAction.addToUrlbar.label "Додај адресној траци">
 <!ENTITY pageAction.removeFromUrlbar.label "Уклони са адресне траке">
@@ -1008,6 +1015,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "Пошаљи језичак на уређај">
 <!ENTITY sendToDevice.syncNotReady.label "Синхронизујем уређаје…">
+
+<!ENTITY pageAction.shareUrl.label "Подели">
 
 <!ENTITY libraryButton.tooltip "Погледајте историјат, сачуване забелешке и више">
 
