@@ -16,4 +16,9 @@
 <!ENTITY  textColor2.accesskey            "T">
 <!ENTITY  backgroundColor2.label          "Hannergrond">
 <!ENTITY  backgroundColor2.accesskey      "B">
+<!ENTITY  useSystemColors.label           "Systemfaarwe benotzen">
 
+<!ENTITY  links                           "Link Faarwen">
+<!ENTITY  linkColor2.label                "Net-besichte Linken">
+<!ENTITY  visitedLinkColor2.label         "Besichte Linken">
+<!ENTITY  visitedLinkColor2.accesskey     "V">
