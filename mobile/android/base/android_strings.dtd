@@ -282,6 +282,13 @@
 <!ENTITY pref_whats_new_notification "&brandShortName; новости">
 <!ENTITY pref_whats_new_notification_summary "Сазнајте више о новом могућностима">
 
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!ENTITY pref_feature_tips_notification "Савети за производе и могућности">
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+<!ENTITY pref_feature_tips_notification_summary "Сазнајте више о коришћењу &brandShortName;-а и других &vendorShortName; производа">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "Експерименталне могућности">
@@ -422,7 +429,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; извештај здравља">
 <!ENTITY datareporting_fhr_summary2 "Дели податке са &vendorShortName;-ом о здрављу вашег прегледача и помаже да разумете перформансе прегледача">
-<!ENTITY datareporting_abouthr_title "Прикажи мој извештај здравља">
 <!ENTITY datareporting_telemetry_title "Телеметрија">
 <!ENTITY datareporting_telemetry_summary "Делите податке о перформансама, коришћењу, хардверу и подешавањима који се тичу прегледача са &vendorShortName;-ом да бисте нам помогли да учинимо &brandShortName; бољим">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; шаље извештаје о рушењу да би помогао &vendorShortName;-и да учини прегледач још стабилнијим и још сигурнијим">
