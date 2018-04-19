@@ -502,6 +502,8 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = 历史记录
+history-remember-option-all =
+    .label = 记录历史
 history-remember-option-never =
     .label = 不记录历史
 history-remember-description = { -brand-short-name } 将记住您的浏览、下载、表单和搜索记录。
