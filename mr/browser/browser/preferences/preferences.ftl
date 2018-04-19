@@ -471,6 +471,12 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = इतिहास
+history-remember-option-all =
+    .label = इतिहास लक्षात ठेवा
+history-remember-option-never =
+    .label = इतिहास कधीच लक्षात ठेवु नका
+history-remember-option-custom =
+    .label = इतिहासा करीता मनपसंत संयोजना वापरा
 history-dontremember-description = { -brand-short-name } समान संयोजना खाजगी ब्राउझिंग म्हणून वापरतो, व वेब चाळतेवेळी कुठलाही इतिहास लक्षात ठेवत नाही.
 history-private-browsing-permanent =
     .label = नेहमी व्यक्तिगत ब्राउजिंग मोडचा वापर करा
