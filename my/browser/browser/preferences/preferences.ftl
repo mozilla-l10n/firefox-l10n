@@ -171,6 +171,9 @@ choose-button =
 translate-web-pages =
     .label = ဝဘ်စာမျက်နှာရှိ အကြောင်းအရာများကို ဘာသာပြန်ပါ
     .accesskey = T
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = ဘာသာပြန်ဆိုသူ <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = ခြွင်းချက်များ...
     .accesskey = x
