@@ -175,6 +175,9 @@ choose-button =
 translate-web-pages =
     .label = Ağ muhtevasını tercime et
     .accesskey = t
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = Tercimeler  <img data-l10n-name="logo"/> tarafındandır
 translate-exceptions =
     .label = İstisnalar…
     .accesskey = s
