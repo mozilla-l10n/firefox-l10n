@@ -61,6 +61,8 @@ can reach it easily. -->
 <!ENTITY  closeTab.label                     "Tab zoumaachen">
 <!ENTITY  closeTab.accesskey                 "c">
 
+<!ENTITY  hiddenTabs.label                   "Verstoppt Tabs">
+
 <!ENTITY  listAllTabs.label      "All Tabs oplëschten">
 
 <!ENTITY tabCmd.label "Neien Tab">
@@ -217,6 +219,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Erlaabnis zur Offro vu Canvas-Donnéeën verwalten">
 
 
+
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Dës Säit iwwersetzen">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Säitiwwersetzung geréieren">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Benotzen vun DRM Software verwalten">
@@ -245,7 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label   "Mobil Lieszeechen">
 <!ENTITY searchBookmarks.label              "An de Lieszeeche sichen">
 
-<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 <!ENTITY bookmarksGtkCmd.commandkey "o">
@@ -270,7 +273,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
+<!ENTITY inspectContextMenu.label     "Element inspizéieren">
 <!ENTITY inspectContextMenu.accesskey "Q">
+
 
 <!ENTITY fileMenu.label         "Fichier">
 <!ENTITY fileMenu.accesskey       "F">
@@ -321,14 +326,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.accesskey "s">
+<!ENTITY historyUndoMenu.label "Rezent zougemaach Tabs">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "Rezent zougemaach Fënsteren">
 
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
+<!ENTITY appMenuHistory.restoreSession.label "Vireg Sessioun restauréieren">
 <!ENTITY appMenuHelp.label "Hëllef">
 
+<!ENTITY appMenuRemoteTabs.label "Synchroniséiert Tabs">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "Keng oppen Tabs">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.label "Méi weisen">
@@ -337,7 +347,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.showAll.label "All weisen">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 
@@ -601,6 +611,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
+
+
 
 
 

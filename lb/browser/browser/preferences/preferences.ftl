@@ -155,6 +155,7 @@ update-application-auto =
 
 ## General Section - Performance
 
+performance-title = Performance
 performance-settings-learn-more = Fir méi ze wëssen
 
 ## General Section - Browsing
@@ -175,6 +176,8 @@ network-proxy-connection-settings =
 
 ## Home Section - Home Page Customization
 
+home-mode-choice-blank =
+    .label = Eidel Säit
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -195,15 +198,38 @@ restore-default =
 
 ## Search Section
 
+search-remove-engine =
+    .label = Läschen
+    .accesskey = R
 
 ## Containers Section
 
+containers-back-link = « Zréck goen
+containers-remove-button =
+    .label = Läschen
 
 ## Sync Section - Signed out
 
 
 ## Sync Section - Signed in
 
+sync-engine-bookmarks =
+    .label = Lieszeechen
+    .accesskey = L
+sync-engine-addresses =
+    .label = Adressen
+    .tooltiptext = Post-Adressen déi dir gespäichert hutt (nëmmen Desktop)
+    .accesskey = e
+sync-engine-creditcards =
+    .label = Kreditkaarten 
+    .tooltiptext = Nimm, Nummeren an Oflafsatum
+    .accesskey = C
+sync-device-name-cancel =
+    .label = Ofbriechen
+    .accesskey = n
+sync-device-name-save =
+    .label = Späicheren
+    .accesskey = v
 
 ## Privacy Section
 
@@ -216,24 +242,50 @@ restore-default =
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-always-option =
+    .label = Ëmmer
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-bookmarks-option =
+    .label = Lieszeechen
+    .accesskey = k
 
 ## Privacy Section - Tracking
 
+tracking-mode-always =
+    .label = Ëmmer
+    .accesskey = y
+tracking-mode-never =
+    .label = Ni
+    .accesskey = N
 
 ## Privacy Section - Permissions
 
+permissions-location = Standuert
+permissions-location-settings =
+    .label = Astellungen...
+    .accesskey = A
+permissions-camera = Kamera
+permissions-microphone = Mikro
+permissions-a11y-privacy-link = Fir méi ze wëssen
 
 ## Privacy Section - Data Collection
 
+collection-health-report-link = Fir méi ze wëssen
+collection-browser-errors-link = Fir méi ze wëssen
+collection-backlogged-crash-reports-link = Fir méi ze wëssen
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Sécherheet
+security-enable-safe-browsing-link = Fir méi ze wëssen
 
 ## Privacy Section - Certificates
 
+certs-select-ask-option =
+    .label = Ëmmer froen
+    .accesskey = A

@@ -5,6 +5,11 @@
 containers-window-new =
     .title = Neie Container bäisetzen
     .style = width: 45em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update =
+    .title = { $name } Container Astellungen
+    .style = width: 45em
 containers-window-close =
     .key = w
 # This is a term to store style to be applied
@@ -31,16 +36,6 @@ containers-color-label = Fuerw
 containers-button-done =
     .label = Fäerdeg
     .accesskey = D
-containers-remove-alert-title = Dëse Container läschen?
-# Variables:
-#   $count (Number) - Number of tabs that will be closed.
-containers-remove-alert-msg =
-    { $count ->
-        [one] Wanns Du dëse Container elo läschs, wäert { $count } Tab zougemaach ginn. Bass Du sécher dëse Container zou ze maachen?
-       *[other] Wanns Du dëse Container elo läschs, wäerten { $count } Tabs zougemaach ginn. Bass Du sécher dëse Container zou ze maachen?
-    }
-containers-remove-ok-button = Dëse Container läschen
-containers-remove-cancel-button = Dëse Container net läschen
 containers-color-blue =
     .label = Blo
 containers-color-turquoise =
