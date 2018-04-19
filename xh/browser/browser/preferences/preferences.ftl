@@ -141,6 +141,9 @@ choose-button =
 translate-web-pages =
     .label = Guqulela isiqulatho sewebhu
     .accesskey = G
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = Iinguqulelo ngu <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Izinxaxhi…
     .accesskey = n
