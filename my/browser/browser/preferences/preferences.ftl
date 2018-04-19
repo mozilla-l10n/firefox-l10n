@@ -387,6 +387,15 @@ containers-remove-button =
 sync-signedout-caption = ဝဘ်ကို သင့်နဲ့အတူ ခေါ်ဆောင်သွားပါ
 sync-signedout-description = သင့်ကိရိယာအားလုံးရှိ စာမှတ်များ၊ မှတ်တမ်း၊ စာမျက်နှာများ၊ စကားဝှက်များ၊ အတ်အွန်များနှင့် အပြင်အဆင်များကို တစ်ပြေးညီဖြစ်စေပါ။
 sync-signedout-account-title = { -fxaccount-brand-name } ကို အသုံးပြုပြီး ချိတ်ဆက်ရန်
+# This message contains two links and two icon images.
+#   `<img data-l10n-name="android-icon"/>` - Android logo icon
+#   `<a data-l10n-name="android-link">` - Link to Android Download
+#   `<img data-l10n-name="ios-icon">` - iOS logo icon
+#   `<a data-l10n-name="ios-link">` - Link to iOS Download
+#
+# They can be moved within the sentence as needed to adapt
+# to your language, but should not be changed or translated.
+sync-mobile-promo = ထိုစနစ်အတွက် မီးမြေခွေးကို ဆွဲယူကူးပါ၊ <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> သို့မဟုတ် <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> သင့်မိုဘိုင်းလ်ကိရိယာများကို တစ်ပြေးညီဖြစ်စေရန်
 
 ## Sync Section - Signed in
 
@@ -445,6 +454,23 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = မှတ်တမ်း
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label = { -brand-short-name } သည်
+    .accesskey = w
+history-remember-option-all =
+    .label = မှတ်တမ်းကို မှတ်ထားမည်
+history-remember-option-never =
+    .label = မှတ်တမ်းကို ဘယ်တော့မှ မမှတ်ထားပါ
+history-remember-option-custom =
+    .label = မှတ်တမ်းအတွက် စိတ်ကြိုက်အပြင်အဆင်ကို အသုံးပြုမည်
 history-dontremember-description = { -brand-short-name } က တူညီတဲ့ အပြင်အဆင်များကို သီးသန့် လှော်လှန်မှုအဖြစ် သုံးစွဲမှာ ဖြစ်ပြီး၊ ကွန်ရက်ကို သင်လှော်လှန်နေစဉ် ဘယ် မှတ်တမ်းကိုမှ မှတ်သားထားမှာ မဟုတ်ဘူး။
 history-private-browsing-permanent =
     .label = သီးသန့်ကြည့်ရှုခြင်းကို အမြဲ အသုံးပြုမည်
