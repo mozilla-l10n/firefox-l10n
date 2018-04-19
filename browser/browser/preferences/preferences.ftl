@@ -180,6 +180,9 @@ choose-button =
 translate-web-pages =
     .label = 翻译网页内容
     .accesskey = T
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = 翻译由 <img data-l10n-name="logo"/> 提供
 translate-exceptions =
     .label = 例外…
     .accesskey = x
@@ -499,6 +502,8 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = 历史记录
+history-remember-option-never =
+    .label = 不记录历史
 history-remember-description = { -brand-short-name } 将记住您的浏览、下载、表单和搜索记录。
 history-dontremember-description = { -brand-short-name } 将采用与“隐私浏览模式”相同的设置，不会记录您浏览网络的历史。
 history-private-browsing-permanent =
