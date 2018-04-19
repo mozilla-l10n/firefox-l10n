@@ -63,6 +63,9 @@ choose-button =
 translate-web-pages =
     .label = ویب کنٹینٹس کْریو ترجُم&
     .accesskey = T
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = ترجُم بذریعہ <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = غٲر مومول
     .accesskey = x
@@ -203,6 +206,12 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = تٲریخ
+history-remember-option-all =
+    .label = تٲریخ تھٲویو یاد
+history-remember-option-never =
+    .label = تٲریخ مئ  تھٲویو زَہ۪ین  یاد
+history-remember-option-custom =
+    .label = كسٹم سیٹینگس كریو استیمال تٲریخ خٲطرئ
 history-dontremember-description = &برانڈ شاٹ ناو؛ کرِ استعمال تِمے سیٹینگ یم ذن پرایویٹ براوزینگ چھ، تْہ تھأوِ نْہ یاد کانہہ ہسٹری یوتُھی توہیہ براوُز کْریو ویب۔
 history-private-browsing-permanent =
     .label = ہمیشئ كریو پوشیدئ براوزینگ موڈ
