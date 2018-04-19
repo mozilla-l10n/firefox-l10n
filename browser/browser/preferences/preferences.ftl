@@ -114,6 +114,10 @@ forms-exceptions =
 
 ## Privacy Section - History
 
+history-remember-option-all =
+    .label = வரலாற்றை நினைவிற்கொள்
+history-remember-option-never =
+    .label = வரலாற்றை நினைவிற்கொள்ளாதே
 
 ## Privacy Section - Site Data
 
