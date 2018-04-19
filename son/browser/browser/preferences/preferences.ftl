@@ -330,6 +330,10 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Taariki
+history-remember-option-all =
+    .label = Hongu taarikoo
+history-remember-option-never =
+    .label = Ma ši honga taarikoo abada
 history-dontremember-description = { -brand-short-name } ga goy nda kayandiyan follokey kaŋ goo nda sutura ceeciyan, amma a ši taariku gaabu war tataaru ceeciroo waate.
 history-private-browsing-permanent =
     .label = Wa goy sutura naarumi alhaali ra waati kul
