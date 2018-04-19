@@ -180,6 +180,12 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-remember-option-all =
+    .label = устуоруйатын долоҕойугар хатыа
+history-remember-option-never =
+    .label = устуоруйатын долоҕойоугар хатыа суоҕа
+history-remember-option-custom =
+    .label = устуоруйаны харайыы туруорууларын туһаныа
 history-dontremember-description = { -brand-short-name } бүөмнээн көрүү туруорууларын туһаныа уонна ситим-сирдэри кытта үлэҕин долоҕойугар хаалларыа суоҕа.
 history-private-browsing-permanent =
     .label = Бүөмнээн көрүү эрэсиимигэр куруук үлэлииргэ
