@@ -179,6 +179,9 @@ choose-button =
 translate-web-pages =
     .label = Traduire lo contengut web
     .accesskey = T
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = Traduccions per <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Excepcions…
     .accesskey = x
@@ -497,6 +500,12 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Istoric
+history-remember-option-all =
+    .label = Conservar l'istoric
+history-remember-option-never =
+    .label = Conservar pas jamai l'istoric
+history-remember-option-custom =
+    .label = Utilizar los paramètres personalizats per l'istoric
 history-dontremember-description = { -brand-short-name } utilizarà los meteisses paramètres que per la navegacion privada e conservarà pas cap d'istoric quand navegaretz sus internet.
 history-private-browsing-permanent =
     .label = Utilizar totjorn lo mòde de navegacion privada
