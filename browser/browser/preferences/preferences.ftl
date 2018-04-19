@@ -426,6 +426,12 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = നാള്‍വഴി
+history-remember-option-all =
+    .label = ഹിസ്റ്ററി ഓര്‍ക്കുക
+history-remember-option-never =
+    .label = ഹിസ്റ്ററി ഇനിയും മുതല്‍ ഓര്‍ക്കരുത്
+history-remember-option-custom =
+    .label = ഹിസ്റ്ററിക്കായ് ഇച്ഛാനുസൃതം  സജ്ജീകരണങ്ങള്‍ ഉപയോഗിക്കുക
 history-dontremember-description = { -brand-short-name } സ്വകാര്യ തിരയലിന്റെ സജ്ജീകരണങ്ങള്‍ ഉപയോഗിക്കും, അതിനാല്‍ നിങ്ങള്‍ വെബ് തിരയുംബോള്‍ ഹിസ്റ്ററി ഓര്‍ക്കുകയില്ല.
 history-private-browsing-permanent =
     .label = എപ്പോഴും സ്വകാര്യ ബ്രൌസിങ് മോഡ് ഉപയോഗിയ്ക്കുക
