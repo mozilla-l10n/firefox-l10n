@@ -1,0 +1,84 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like id.heading in crashes.dtd. -->
+
+<!ENTITY aboutSupport.extensionsTitle "Erweiderungen">
+<!ENTITY aboutSupport.extensionName "Numm">
+<!ENTITY aboutSupport.extensionEnabled "Aktivéiert">
+<!ENTITY aboutSupport.extensionVersion "Versioun">
+
+<!ENTITY aboutSupport.securitySoftwareType "Typ">
+<!ENTITY aboutSupport.securitySoftwareName "Numm">
+<!ENTITY aboutSupport.securitySoftwareAntivirus "Antivirus">
+
+<!ENTITY aboutSupport.featureName "Numm">
+<!ENTITY aboutSupport.featureVersion "Versioun">
+
+<!ENTITY aboutSupport.experimentName "Numm">
+<!ENTITY aboutSupport.experimentDescription "Beschreiwung">
+<!ENTITY aboutSupport.experimentActive "Aktiv">
+<!ENTITY aboutSupport.experimentEndDate "Schlussdatum">
+
+<!ENTITY aboutSupport.appBasicsName "Numm">
+<!ENTITY aboutSupport.appBasicsVersion "Versioun">
+
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
+
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+
+<!ENTITY aboutSupport.appBasicsPerformance "Performance">
+
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+
+<!ENTITY aboutSupport.appBasicsProfiles "Profiler">
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
+variant of aboutSupport.showDir.label.  This allows us to use the preferred
+"Finder" terminology on Mac. -->
+<!-- LOCALIZATION NOTE (aboutSupport.showWin2.label): This is the Windows-specific
+variant of aboutSupport.showDir.label. -->
+
+<!ENTITY aboutSupport.modifiedPrefsName "Numm">
+<!ENTITY aboutSupport.modifiedPrefsValue "Wäert">
+
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
+
+<!ENTITY aboutSupport.lockedPrefsName "Numm">
+<!ENTITY aboutSupport.lockedPrefsValue "Wäert">
+
+<!ENTITY aboutSupport.graphicsTitle "Grafiken">
+
+<!ENTITY aboutSupport.placeDatabaseIntegrity "Integritéit">
+
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+
+<!ENTITY aboutSupport.a11yActivated "Aktivéiert">
+
+
+
+
+<!ENTITY aboutSupport.sandboxTitle "Sandkëscht">
+<!ENTITY aboutSupport.sandboxSyscallAge "Viru Sekonnen">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+
+
+
+<!ENTITY aboutSupport.mediaDeviceName "Numm">
+<!ENTITY aboutSupport.mediaDeviceGroup "Grupp">
+<!ENTITY aboutSupport.mediaDeviceFormat "Format">
+
+<!ENTITY aboutSupport.intlRegionalPrefs "Regional Astellungen">
