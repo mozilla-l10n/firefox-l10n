@@ -999,6 +999,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Rozšyrjenje znjemóžniś">
 <!ENTITY newTabControlled.disableButton.accesskey "R">
 
+<!ENTITY homepageControlled.message "Rozšyrjenje jo změniło, což ako swój startowy bok wiźiśo. Móžośo swóje nastajenja wótnowiś, jolic toś tu změnu njocośo.">
+<!ENTITY homepageControlled.header.message "Waš startowy bok jo se změnił.">
+<!ENTITY homepageControlled.keepButton.label "Změny wobchowaś">
+<!ENTITY homepageControlled.keepButton.accesskey "Z">
+<!ENTITY homepageControlled.disableButton.label "Rozšyrjenje znjemóžniś">
+<!ENTITY homepageControlled.disableButton.accesskey "R">
+
 <!ENTITY pageActionButton.tooltip "Akcije boka">
 <!ENTITY pageAction.addToUrlbar.label "Adresowemu póloju pśidaś">
 <!ENTITY pageAction.removeFromUrlbar.label "Z adresowego póla wótwónoźeś">
@@ -1008,6 +1015,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "Rejtark na rěd pósłaś">
 <!ENTITY sendToDevice.syncNotReady.label "Rědy se synchronizěruju…">
+
+<!ENTITY pageAction.shareUrl.label "Źěliś">
 
 <!ENTITY libraryButton.tooltip "Historiju, skłaźone cytańske znamjenja a wěcej pokazaś">
 
