@@ -183,6 +183,9 @@ choose-button =
 translate-web-pages =
     .label = Превеждане на съдържанието на страниците
     .accesskey = П
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = Превод от <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Изключения…
     .accesskey = з
@@ -502,6 +505,10 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = История
+history-remember-option-all =
+    .label = Помни история
+history-remember-option-custom =
+    .label = Използва потребителски настройки
 history-remember-description = { -brand-short-name } ще пази историята на разглеждане, изтегляния и търсене.
 history-dontremember-description = { -brand-short-name } ще използва същите настройки като при поверително разглеждане и няма да помни никаква история, докато сте в интернет.
 history-private-browsing-permanent =
