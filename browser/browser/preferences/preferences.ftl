@@ -478,6 +478,9 @@ privacy-header = Confidencialitat del navegador
 ## Privacy Section - Forms
 
 forms-header = Formularis e senhals
+forms-ask-to-save-logins =
+    .label = Demandar per salvar los identificants e senhals dels sites
+    .accesskey = r
 forms-exceptions =
     .label = Excepcions…
     .accesskey = x
@@ -521,6 +524,9 @@ sitedata-learn-more = Ne saber mai
 sitedata-accept-cookies-option =
     .label = Acceptar los cookies e las donadas de sites (recomandat)
     .accesskey = A
+sitedata-block-cookies-option =
+    .label = Blocar los cookies e las donadas dels sites (pòt far que de sites foncionen pas)
+    .accesskey = B
 sitedata-keep-until = Las conservar fins a
     .accesskey = f
 sitedata-keep-until-expire =
