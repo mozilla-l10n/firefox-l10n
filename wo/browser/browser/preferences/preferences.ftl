@@ -174,6 +174,10 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-remember-option-all =
+    .label = Denc jaar jaar bi
+history-remember-option-never =
+    .label = Bul denc mukk jaar jaar bi
 history-dontremember-description = { -brand-short-name } dina jëfandikoo parameetar yii ci joowum biir, te du denc benn jaar jaaru joow mi.
 history-private-browsing-permanent =
     .label = Saa su nekk jëfandikoo anamu joowum biir
