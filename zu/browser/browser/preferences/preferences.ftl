@@ -179,6 +179,12 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-remember-option-all =
+    .label = Khumbula umlando
+history-remember-option-never =
+    .label = Kungalokothwa kukhunjulwe umlando
+history-remember-option-custom =
+    .label = Sebenzisa izimiso zokuzenzela uzisebenzisele umlando
 history-dontremember-description = I-{ -brand-short-name } izosebenzisa izimiso ezifana nezokuphequlula okuyimfihlo, futhi angeke ikhumbule umlando njengoba udlulisa amehlo kwi-webhu.
 history-private-browsing-permanent =
     .label = Sebenzisa njalo indlela yangasese yokudlulisa amehlo
