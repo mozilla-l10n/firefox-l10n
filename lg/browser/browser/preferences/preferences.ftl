@@ -178,6 +178,8 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-remember-option-all =
+    .label = Kujjukira ebyafaayo
 history-remember-option-never =
     .label = Tojjukiranga ebyafaayo
 history-remember-option-custom =
