@@ -14,8 +14,8 @@
 <!ENTITY FormMethod.accesskey "M">
 <!ENTITY FormEncType.label "კოდირება:">
 <!ENTITY FormEncType.accesskey "c">
-<!ENTITY FormTarget.label "სამიზნე ბლოკი:">
-<!ENTITY FormTarget.accesskey "T">
+<!ENTITY FormTarget.label "სასურველი ჩარჩო:">
+<!ENTITY FormTarget.accesskey "ე">
 
 <!ENTITY RemoveForm.label "ფორმის ამოღება">
 <!ENTITY RemoveForm.accesskey "R">
