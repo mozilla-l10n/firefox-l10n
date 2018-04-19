@@ -190,6 +190,9 @@ choose-button =
 translate-web-pages =
     .label = Webwobsah přełožować
     .accesskey = W
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = Přełožki wot <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Wuwzaća…
     .accesskey = u
@@ -411,6 +414,15 @@ sync-signedout-account-create = Nimaće konto? Započńće
 sync-signedout-account-signin =
     .label = Přizjewić…
     .accesskey = P
+# This message contains two links and two icon images.
+#   `<img data-l10n-name="android-icon"/>` - Android logo icon
+#   `<a data-l10n-name="android-link">` - Link to Android Download
+#   `<img data-l10n-name="ios-icon">` - iOS logo icon
+#   `<a data-l10n-name="ios-link">` - Link to iOS Download
+#
+# They can be moved within the sentence as needed to adapt
+# to your language, but should not be changed or translated.
+sync-mobile-promo = Firefox sćahnyć za <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> abo <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a>, zo byšće ze swojim mobilnym gratom synchronizował.
 
 ## Sync Section - Signed in
 
@@ -509,6 +521,23 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Historija
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label = { -brand-short-name } budźe
+    .accesskey = b
+history-remember-option-all =
+    .label = Sej historiju spomjatkować
+history-remember-option-never =
+    .label = Sej historiju ženje njespomjatkować
+history-remember-option-custom =
+    .label = Swójske nastajenja za historiju wužiwać
 history-remember-description = { -brand-short-name } budźe sej wašu přehladowansku, sćehnjensku, formularnu a pytansku historiju spomjatkować.
 history-dontremember-description = { -brand-short-name } budźe samsne nastajenja kaž w priwatnym modusu wužiwać a njebuźde sej historiju spomjatkować, hdyž Web přehladujeće.
 history-private-browsing-permanent =
