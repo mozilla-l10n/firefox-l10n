@@ -503,6 +503,12 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = ઇતિહાસ
+history-remember-option-all =
+    .label = ઇતિહાસ યાદ રાખો
+history-remember-option-never =
+    .label = ક્યારેય ઇતિહાસ યાદ રાખશો નહિં
+history-remember-option-custom =
+    .label = ઇતિહાસ માટે વૈવિધ્યપૂર્ણ સેટીંગ વાપરો
 history-remember-description = { -brand-short-name } તમારી બ્રાઉઝિંગ, ડાઉનલોડ, ફોર્મ અને શોધ ઇતિહાસ યાદ રાખશે.
 history-dontremember-description = { -brand-short-name } ખાનગી બ્રાઉઝીંગની જેમ જ સેટીંગ વાપરશે, અને તમે જેમ વેબ બ્રાઉઝ કરો તેમ ઇતિહાસ યાદ રાખશે નહિં.
 history-private-browsing-permanent =
