@@ -467,6 +467,12 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Riwayat
+history-remember-option-all =
+    .label = akan mengingat data riwayat
+history-remember-option-never =
+    .label = tidak akan mengingat data riwayat
+history-remember-option-custom =
+    .label = menggunakan pengaturan khusus untuk data riwayat
 history-dontremember-description = { -brand-short-name } akan menggunakan pengaturan seperti halnya pengaturan mode penjelajahan pribadi dan tidak akan menyimpan riwayat apa pun ketika Anda menjelajah Web.
 history-private-browsing-permanent =
     .label = Selalu gunakan mode penjelajahan pribadi
