@@ -171,6 +171,9 @@ choose-button =
 translate-web-pages =
     .label = Translatar cuntegn da web
     .accesskey = T
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = Translaziuns da <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Excepziuns…
     .accesskey = x
@@ -367,6 +370,15 @@ sync-signedout-account-create = Ti n'has nagin conto? Ta registrescha
 sync-signedout-account-signin =
     .label = S'annunziar…
     .accesskey = a
+# This message contains two links and two icon images.
+#   `<img data-l10n-name="android-icon"/>` - Android logo icon
+#   `<a data-l10n-name="android-link">` - Link to Android Download
+#   `<img data-l10n-name="ios-icon">` - iOS logo icon
+#   `<a data-l10n-name="ios-link">` - Link to iOS Download
+#
+# They can be moved within the sentence as needed to adapt
+# to your language, but should not be changed or translated.
+sync-mobile-promo = Telechargiar Firefox per <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> u <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> per sincronisar cun tes apparat mobil.
 
 ## Sync Section - Signed in
 
@@ -454,6 +466,23 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Cronologia
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label = { -brand-short-name } vegn a
+    .accesskey = v
+history-remember-option-all =
+    .label = Memorisar la cronologia
+history-remember-option-never =
+    .label = Mai memorisar la cronologia
+history-remember-option-custom =
+    .label = Utilisar per la cronologia ils parameters definids da l'utilisader
 history-dontremember-description = { -brand-short-name } vegn ad utilisar las medemas preferenzas sco en il modus privat e na vegn betg a far ina cronologia da tia navigaziun en l'internet.
 history-private-browsing-permanent =
     .label = Adina navigar en il modus privat
