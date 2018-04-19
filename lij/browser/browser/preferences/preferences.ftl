@@ -503,6 +503,10 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Stöia
+history-remember-option-all =
+    .label = Aregòrda a stöia
+history-remember-option-never =
+    .label = No aregordâ a stöia
 history-remember-description = { -brand-short-name } o s'aregòrda de teu navegaçioin, descaregamenti e stöia de riçerche.
 history-dontremember-description = { -brand-short-name } o deuvia e mæxime preferense da-a navegaçion privâ, e o no se aregòrda da stöia de teu navegaçioin.
 history-private-browsing-permanent =
