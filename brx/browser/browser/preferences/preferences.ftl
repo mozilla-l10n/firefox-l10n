@@ -61,6 +61,9 @@ choose-language-description = पेजफोर डिसफ्ले खाल
 choose-button =
     .label = Choose…
     .accesskey = o
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = जों राव सोलायनाय <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Exceptions…
     .accesskey = x
@@ -201,6 +204,12 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = जारिमिन
+history-remember-option-all =
+    .label = जारिमिनखौ गोसोयाव लाखि
+history-remember-option-never =
+    .label = माब्लाबाबो जारिमनखौ गोसोयाव दालाखि
+history-remember-option-custom =
+    .label = जारिमिननि थाखाय कास्टम सेटिंखौ बाहाय
 history-dontremember-description = { -brand-short-name } आ एखे सेटिंखौ प्राइभेट ब्राउजिं महरै बाहायगोन आरो नोंथाङा वेबखौ ब्राउज खालामनाय बादि जायखि जाया जारिमिनखौ गोसोखांनाय नङा।
 history-private-browsing-permanent =
     .label = अरायबो निजि ब्राउजिं म'डखौ बाहाय (p)
