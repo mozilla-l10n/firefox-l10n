@@ -999,6 +999,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Dizabilita Estenscion">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
+<!ENTITY homepageControlled.message "'Na estenscion o l'é cangiou e cöse che ti veddi inta pagina prinçipâ. Ti peu repigiâ e teu inpostaçioin se no veu sto cangio.">
+<!ENTITY homepageControlled.header.message "A pagina prinçipâ a l'é cangiâ.">
+<!ENTITY homepageControlled.keepButton.label "Mantegni i cangiamenti">
+<!ENTITY homepageControlled.keepButton.accesskey "M">
+<!ENTITY homepageControlled.disableButton.label "Dizabilita estenscion">
+<!ENTITY homepageControlled.disableButton.accesskey "D">
+
 <!ENTITY pageActionButton.tooltip "Pagina açioin">
 <!ENTITY pageAction.addToUrlbar.label "Azonzi a-a bara di indirissi">
 <!ENTITY pageAction.removeFromUrlbar.label "Leva da-a bara di indirissi">
@@ -1008,6 +1015,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "Manda feuggio a-o dispoxitivo">
 <!ENTITY sendToDevice.syncNotReady.label "Scincronizzo dispoxitivi…">
+
+<!ENTITY pageAction.shareUrl.label "Condividdi">
 
 <!ENTITY libraryButton.tooltip "Fanni vedde stöia, segnalibbri sarvæ e atro">
 
