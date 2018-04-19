@@ -60,6 +60,9 @@ choose-button =
 translate-web-pages =
     .label = Web íyano jɨaɨe úiaido jone
     .accesskey = W
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = Jɨaɨe úiaido jonega bíedo <img data-l10n-name="logo"/> .
 translate-exceptions =
     .label = Jɨ́aɨmakɨ…
     .accesskey = a
@@ -138,6 +141,15 @@ restore-default =
 
 sync-signedout-description = Dáamakɨ jone rigɨnua, jagaɨ, úitɨraɨ, fakara íemei ó gaɨga ráa ó jóriaɨmo.
 sync-signedout-account-title = Zɨtade { -fxaccount-brand-name }
+# This message contains two links and two icon images.
+#   `<img data-l10n-name="android-icon"/>` - Android logo icon
+#   `<a data-l10n-name="android-link">` - Link to Android Download
+#   `<img data-l10n-name="ios-icon">` - iOS logo icon
+#   `<a data-l10n-name="ios-link">` - Link to iOS Download
+#
+# They can be moved within the sentence as needed to adapt
+# to your language, but should not be changed or translated.
+sync-mobile-promo = Firefox yunude nɨbai <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> o <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> dáamakɨ ó jóriaɨ dɨga.
 
 ## Sync Section - Signed in
 
@@ -176,6 +188,12 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Jagaɨ
+history-remember-option-all =
+    .label = Jágaɨ úibiri
+history-remember-option-never =
+    .label = Jágaɨ úibiñeniri
+history-remember-option-custom =
+    .label = Kúe dama ñúe fɨnoyena jagaɨ
 history-dontremember-description = { -brand-short-name } ó dama ñúe fɨnoye taɨjira, ó makara jagaɨ bemomo joneniye web íyano
 history-private-browsing-permanent =
     .label = Dama& ó makara benomo íri
