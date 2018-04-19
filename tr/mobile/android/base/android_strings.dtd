@@ -282,6 +282,13 @@
 <!ENTITY pref_whats_new_notification "&brandShortName;’ta neler yeni?">
 <!ENTITY pref_whats_new_notification_summary "Güncellemeyle gelen yeni özellikleri öğrenin">
 
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!ENTITY pref_feature_tips_notification "Ürün ve özelliklerle ilgili ipuçları">
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+<!ENTITY pref_feature_tips_notification_summary "&brandShortName; kullanımı ve diğer &vendorShortName; ürünleriyle ilgili daha fazla bilgi alın">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "Deneysel özellikler">
@@ -422,7 +429,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; sağlık raporu">
 <!ENTITY datareporting_fhr_summary2 "Tarayıcınızın sağlığı hakkındaki verileri &vendorShortName; ile paylaşır ve tarayıcı performansınızı anlamanıza yardımcı olur">
-<!ENTITY datareporting_abouthr_title "Sağlık raporumu göster">
 <!ENTITY datareporting_telemetry_title "Telemetri">
 <!ENTITY datareporting_telemetry_summary "&brandShortName; tarayıcısını iyileştirmek için tarayıcınızla ilgili performans, kullanım, donanım ve özelleştirme verilerini &vendorShortName; ile paylaşır">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName;, tarayıcınızı daha kararlı ve güvenli yapmak için çökme raporlarını &vendorShortName;\&apos;ya gönderir">
