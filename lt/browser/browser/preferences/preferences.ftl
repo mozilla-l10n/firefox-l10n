@@ -187,6 +187,9 @@ choose-button =
 translate-web-pages =
     .label = Versti tinklalapių turinį
     .accesskey = V
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = Vertimą teikia <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Išimtys…
     .accesskey = š
