@@ -512,6 +512,8 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = التأريخ
+history-remember-option-never =
+    .label = لن يتذكر التأريخ أبدًا
 history-remember-description = سيتذكر { -brand-short-name } تأريخ التصفح، و التنزيلات، و الاستمارات، و البحث.
 history-dontremember-description = سيستخدم { -brand-short-name } نفس إعدادات التصفح الخاص، بحيث لن يحتفظ بأيّ تأريخ لتصفحك للوب.
 history-private-browsing-permanent =
