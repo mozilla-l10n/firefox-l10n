@@ -518,6 +518,12 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Гісторыя
+history-remember-option-all =
+    .label = памятаць гісторыю
+history-remember-option-never =
+    .label = ніколі не памятаць гісторыю
+history-remember-option-custom =
+    .label = ужываць налады для гісторыі
 history-remember-description = { -brand-short-name } будзе помніць гісторыю аглядання, сцягвання, запаўнення форм і пошуку.
 history-dontremember-description = { -brand-short-name } будзе ўжываць тыя ж налады, што і ў прыватным рэжыме, і не будзе памятаць гісторыю вашага аглядання Сеціва.
 history-private-browsing-permanent =
