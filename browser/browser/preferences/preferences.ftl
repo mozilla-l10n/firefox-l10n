@@ -184,6 +184,9 @@ choose-button =
 translate-web-pages =
     .label = Översätt webbinnehåll
     .accesskey = Ö
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = Översättningar av <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Undantag…
     .accesskey = U
@@ -504,6 +507,8 @@ history-remember-option-all =
     .label = Spara historik
 history-remember-option-never =
     .label = Inte spara någon historik
+history-remember-option-custom =
+    .label = Använda anpassade inställningar för historik
 history-remember-description = { -brand-short-name } kommer att spara information om besökta webbsidor, filhämtningar, formulär- och sökhistorik.
 history-dontremember-description = { -brand-short-name } kommer att använda samma inställningar som för privat surfning och kommer inte att spara någon historik när du surfar.
 history-private-browsing-permanent =
