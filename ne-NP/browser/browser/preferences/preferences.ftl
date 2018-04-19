@@ -397,6 +397,15 @@ sync-signedout-account-create = खाता छैन ? सुरू गर्�
 sync-signedout-account-signin =
     .label = साइन इन…
     .accesskey = I
+# This message contains two links and two icon images.
+#   `<img data-l10n-name="android-icon"/>` - Android logo icon
+#   `<a data-l10n-name="android-link">` - Link to Android Download
+#   `<img data-l10n-name="ios-icon">` - iOS logo icon
+#   `<a data-l10n-name="ios-link">` - Link to iOS Download
+#
+# They can be moved within the sentence as needed to adapt
+# to your language, but should not be changed or translated.
+sync-mobile-promo = निम्नको लागि Firefox डाउनलोड गर्नुहोस् <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> वा <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> ‌मोबाइल यन्त्रमा समक्रमण गर्नको लागि।
 
 ## Sync Section - Signed in
 
@@ -458,6 +467,12 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = इतिहास
+history-remember-option-all =
+    .label = इतिहास सम्झिनुहोस्
+history-remember-option-never =
+    .label = इतिहास कहिल्यै नसम्झिनुहोस्
+history-remember-option-custom =
+    .label = इतिहासको लागि परिस्कृत ढाँचाहरू प्रयोग गर्नुहोस्
 history-dontremember-description = { -brand-short-name } ले तपाईँको निजी ब्राउजिङ्गको सेटिङ्हरू प्रयोग गर्छ र तपाईँ को कुनै पनि ब्राउजिङ्गको कुनै पनि इतिहास सुरक्षित गर्दैन
 history-private-browsing-permanent =
     .label = सधैं निजी ब्राउजिङ्ग ढाँचा प्रयोग गर्नुहोस्
