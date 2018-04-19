@@ -367,6 +367,15 @@ sync-signedout-account-create = അക്കൗണ്ട് ഇല്ല? പു
 sync-signedout-account-signin =
     .label = പ്രവേശിക്കുക
     .accesskey = I
+# This message contains two links and two icon images.
+#   `<img data-l10n-name="android-icon"/>` - Android logo icon
+#   `<a data-l10n-name="android-link">` - Link to Android Download
+#   `<img data-l10n-name="ios-icon">` - iOS logo icon
+#   `<a data-l10n-name="ios-link">` - Link to iOS Download
+#
+# They can be moved within the sentence as needed to adapt
+# to your language, but should not be changed or translated.
+sync-mobile-promo = വേണ്ടി ഫയർഫോക്സ് ഡൌൺലോഡ് ചെയ്യുക<img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">ആന്‍ഡ്രോയിഡ്</a> അല്ലെങ്കില്‍ <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">ഐഓഎസ്</a> നിങ്ങളുടെ മൊബൈൽ ഉപകരണം ഉപയോഗിച്ച് സമന്വയിപ്പിക്കാൻ വേണ്ടി.
 
 ## Sync Section - Signed in
 
@@ -426,6 +435,17 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = നാള്‍വഴി
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label = { -brand-short-name }
+    .accesskey = w
 history-remember-option-all =
     .label = ഹിസ്റ്ററി ഓര്‍ക്കുക
 history-remember-option-never =
