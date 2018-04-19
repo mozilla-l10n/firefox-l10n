@@ -422,7 +422,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName;  Sa nata\&apos; rayi\&apos;î nej sa hua a\&apos;na\&apos;an">
 <!ENTITY datareporting_fhr_summary2 "Garasun nuguan\&apos;àn dâto ngà &vendorShortName; yi\&apos;î dàj hìo \&apos;iaj sun sa riña aché nut da\&apos; rugujñu\&apos;un sò\&apos; dàj garasun hue\&apos;êt ma doj">
-<!ENTITY datareporting_abouthr_title "Ni\&apos;iâ dàj hua rayi\&apos;î">
 <!ENTITY datareporting_telemetry_title "Telemetría">
 <!ENTITY datareporting_telemetry_summary "Garasun nugun\&apos;ùn\&apos; dàj nùkuaj ma, daj araj sun\&apos; ma, si gaga\&apos;aj ni nej nuguan\&apos; gachrûn\&apos; rayi\&apos;î\&apos; nga gayi\&apos;i\&apos; gaché nu\&apos; ngà &vendorShortName; da\&apos; ruguñu\&apos;unjt ñuj &brandShortName; nagi\&apos;iaj hue\&apos;ê ñuj">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; natà\&apos; rayi\&apos;î \&apos;ngo sa nu \&apos;iaj sun hue\&apos;ê da\&apos; rugujñu\&apos;unjt &vendorShortName; da\&apos; gi\&apos;iaj sun hue\&apos;ê doj si gagâ\&apos;t ni ga yitïnj ma doj">
@@ -809,6 +808,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 <!ENTITY unsupported_sdk_version "¡Si ga\&apos;man ruat! &brandShortName; si gui\&apos;iaj sunj riña aga\&apos; na (&formatS1;, &formatS2;). Gui\&apos;iaj suntuj u, naduninj a\&apos;ngo sa hua hue\&apos;e.">
+
+<!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
+<!ENTITY corrupt_apk "Na\&apos;ue na\&apos;nin &brandShortName;. Garahue ñu.">
 
 <!ENTITY eol_notification_title2 "&brandShortName; si ganahuin naka man">
 <!ENTITY eol_notification_summary "Ga\&apos;ui\&apos; da\&apos; guiri\&apos; doj nuguan\&apos;anj">
