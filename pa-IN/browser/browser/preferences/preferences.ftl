@@ -154,6 +154,9 @@ choose-button =
 translate-web-pages =
     .label = ਵੈੱਬ ਸਮੱਗਰੀ ਦਾ ਉਲੱਥਾ ਕਰੋ
     .accesskey = T
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = ਉਲੱਥਾ ਕੀਤਾ <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = …ਛੋਟ
     .accesskey = x
