@@ -999,6 +999,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "عطّل الامتداد">
 <!ENTITY newTabControlled.disableButton.accesskey "ط">
 
+<!ENTITY homepageControlled.message "ثمة امتداد غيّر ما تراه في صفحة البداية. يمكنك استعادة الإعداد السابق إن لم تقبل بهذا التغيير.">
+<!ENTITY homepageControlled.header.message "لقد تغيرت صفحة البداية.">
+<!ENTITY homepageControlled.keepButton.label "أبقِ التغييرات">
+<!ENTITY homepageControlled.keepButton.accesskey "غ">
+<!ENTITY homepageControlled.disableButton.label "عطّل الامتداد">
+<!ENTITY homepageControlled.disableButton.accesskey "ط">
+
 <!ENTITY pageActionButton.tooltip "إجراءات الصفحة">
 <!ENTITY pageAction.addToUrlbar.label "أضف إلى شريط العناوين">
 <!ENTITY pageAction.removeFromUrlbar.label "أزل من شريط العناوين">
@@ -1008,6 +1015,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "أرسِل اللسان إلى جهاز">
 <!ENTITY sendToDevice.syncNotReady.label "يُزامن الأجهزة…">
+
+<!ENTITY pageAction.shareUrl.label "شارِك">
 
 <!ENTITY libraryButton.tooltip "اعرض التأريخ، والعلامات المحفوظة وغيرها">
 
