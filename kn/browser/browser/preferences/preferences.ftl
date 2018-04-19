@@ -383,6 +383,12 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = ಇತಿಹಾಸ
+history-remember-option-all =
+    .label = ಇತಿಹಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುತ್ತದೆ
+history-remember-option-never =
+    .label = ಎಂದಿಗೂ ಇತಿಹಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳಬೇಡ
+history-remember-option-custom =
+    .label = ಇತಿಹಾಸಕ್ಕಾಗಿ ನಿಮ್ಮ ಇಚ್ಛೆಯ ಸಿದ್ಧತೆಗಳನ್ನು ಬಳಸಿ
 history-dontremember-description = { -brand-short-name } ಖಾಸಗಿ ಜಾಲ ವೀಕ್ಷಣದ ರೀತಿಯದ್ದೆ ಆದ ಸಿದ್ಧತೆಗಳನ್ನು ಬಳಸುತ್ತದೆ, ಹಾಗು ನೀವು ಜಾಲವನ್ನು ವೀಕ್ಷಿಸುವಾಗ ಯಾವುದೆ ಇತಿಹಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದಿಲ್ಲ.
 history-private-browsing-permanent =
     .label = ಯಾವಾಗಲೂ ಖಾಸಗಿ ವೀಕ್ಷಣೆ ಕ್ರಮವನ್ನು ಬಳಸು
