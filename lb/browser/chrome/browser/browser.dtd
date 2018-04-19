@@ -342,17 +342,26 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.label "Méi weisen">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "Méi Tabs vun dësem Apparat weisen">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showAll.label "All weisen">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "All Tabs vun dësem Apparat weisen">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.openprefs.label "Synchronisatiounsastellungen">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Synchronisatiounsastellungen opmaachen">
+<!ENTITY appMenuRemoteTabs.unverified.label "Äre Benotzerkont muss iwwerpréift ginn.">
+<!ENTITY appMenuRemoteTabs.signin.label "Alogge fir ze synchroniséieren">
+<!ENTITY appMenuRemoteTabs.managedevices.label "Apparate geréieren…">
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Aneren Apparat verbannen">
 
 
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
+<!ENTITY customizeMenu.addToPanel.label "An de Menü dobäisetzen">
 <!ENTITY customizeMenu.addToPanel.accesskey "M">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
@@ -366,11 +375,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      so they should have different access keys. customizeMenu.moveToToolbar and
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
+<!ENTITY customizeMenu.moveToPanel.label "An de Menü setzen">
 <!ENTITY customizeMenu.moveToPanel.accesskey "o">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
+<!ENTITY customizeMenu.removeFromMenu.label "Aus dem Menü ewechhuelen">
 <!ENTITY customizeMenu.removeFromMenu.accesskey "R">
+<!ENTITY customizeMenu.addMoreItems.label "Méi Elementer dobäisetzen…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
@@ -378,12 +390,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
     secondary commands. -->
 <!ENTITY moreMenu.label "Méi">
 
+<!ENTITY urlbar.placeholder2          "Sichen oder Adress aginn">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Erweiderung:">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Tipp:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Optiounen änneren…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Astellungen änneren…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
@@ -444,13 +458,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
+<!ENTITY changeSearchSettings.button  "Sichastellungen änneren">
+<!ENTITY changeSearchSettings.tooltip "Sichastellungen änneren">
 
 <!ENTITY searchInNewTab.accesskey     "T">
+<!ENTITY searchSetAsDefault.label     "Als Standard-Sichmaschinn festleeën">
 <!ENTITY searchSetAsDefault.accesskey "D">
 
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "Link an enger neier Fënster opmaachen">
 <!ENTITY openLinkCmd.accesskey        "W">
+<!ENTITY openLinkInPrivateWindowCmd.label "Link an enger neier privater Fënster opmaachen">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
 <!ENTITY openLinkCmdInCurrent.label     "Link opmaachen">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">
@@ -463,21 +481,33 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
+<!ENTITY viewPageSourceCmd.label      "Quellcode vun der Säit weisen">
 <!ENTITY viewPageSourceCmd.accesskey  "V">
 <!ENTITY viewFrameSourceCmd.accesskey "V">
+<!ENTITY viewPageInfoCmd.label        "Informatioune vun der Säit weisen">
 <!ENTITY viewPageInfoCmd.accesskey    "I">
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
+<!ENTITY reloadImageCmd.label         "Bild nei lueden">
 <!ENTITY reloadImageCmd.accesskey     "R">
 <!ENTITY viewImageCmd.label           "Bild weisen">
 <!ENTITY viewImageCmd.accesskey       "I">
+<!ENTITY viewImageInfoCmd.label       "Informatioune vum Bild weisen">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewImageDescCmd.label       "Beschreiwung weisen">
 <!ENTITY viewVideoCmd.label           "Video weisen">
+<!ENTITY viewBGImageCmd.label         "Hannergrondbild weisen">
 <!ENTITY viewBGImageCmd.accesskey     "w">
+<!ENTITY setDesktopBackgroundCmd.label      "Als Hannergrondbild astellen…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
+<!ENTITY bookmarkPageCmd2.label       "E Lieszeechen fir des Säit dobäisetzen">
 <!ENTITY bookmarkPageCmd2.accesskey   "m">
+<!ENTITY bookmarkThisLinkCmd.label      "E Lieszeechen fir des Säit dobäisetzen">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
+<!ENTITY bookmarkThisFrameCmd.label      "E Lieszeechen fir des Säit dobäisetzen">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+<!ENTITY pageAction.copyLink.label    "Link kopéieren">
+<!ENTITY copyURLFeedback.label        "Kopéiert!">
+<!ENTITY emailPageCmd.label           "Link mailen…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Säit späicheren ënner…">
 <!ENTITY savePageCmd.accesskey        "A">
@@ -485,6 +515,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.accesskey       "F">
+<!ENTITY saveLinkCmd.label            "Link späicheren ënner…">
+<!ENTITY saveImageCmd.label           "Bild späicheren ënner…">
+<!ENTITY saveVideoCmd.label           "Video späicheren ënner…">
+<!ENTITY saveAudioCmd.label           "Audio späicheren ënner…">
+<!ENTITY emailImageCmd.label          "Bild mailen…">
+<!ENTITY emailVideoCmd.label          "Video mailen…">
+<!ENTITY playPluginCmd.label          "Dëse Plugin aktivéieren">
+<!ENTITY hidePluginCmd.label          "Dëse Plugin verstoppen">
+<!ENTITY copyLinkCmd.label            "Linkadress kopéieren">
 
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
