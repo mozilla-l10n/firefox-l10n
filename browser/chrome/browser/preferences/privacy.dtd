@@ -44,6 +44,8 @@
 <!ENTITY  acceptThirdParty2.pre.label     "Разрешаване на бисквитки от трети страни">
 <!ENTITY  acceptThirdParty2.pre.accesskey "т">
 
+<!ENTITY  acceptCookies4.label          "Приемане на бисквитки и данни на страници (препоръчително)">
+<!ENTITY  acceptCookies4.accesskey      "П">
 
 
 <!ENTITY  acceptThirdParty3.pre.label     "Приемане на бисквитки и данни за сайтове от трети лица">

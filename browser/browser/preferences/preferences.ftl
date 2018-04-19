@@ -301,6 +301,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Нови прозорци и раздели
+home-new-windows-tabs-description2 = Изберете какво да виждате при отваряне на началната страница, нови прозорци или раздели.
 
 ## Home Section - Home Page Customization
 
@@ -482,6 +483,9 @@ privacy-header = Поверителност на четеца
 ## Privacy Section - Forms
 
 forms-header = Формуляри и пароли
+forms-ask-to-save-logins =
+    .label = Питане при запазване имена и пароли за вход в страниците
+    .accesskey = т
 forms-exceptions =
     .label = Изключения…
     .accesskey = к
@@ -498,6 +502,7 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = История
+history-remember-description = { -brand-short-name } ще пази историята на разглеждане, изтегляния и търсене.
 history-dontremember-description = { -brand-short-name } ще използва същите настройки като при поверително разглеждане и няма да помни никаква история, докато сте в интернет.
 history-private-browsing-permanent =
     .label = Винаги включено поверително разглеждане
@@ -522,8 +527,18 @@ history-clear-button =
 
 sitedata-header = Бисквитки и данни на страници
 sitedata-learn-more = Научете повече
+sitedata-accept-cookies-option =
+    .label = Приемане на бисквитки и данни на страници (препоръчително)
+    .accesskey = П
+sitedata-block-cookies-option =
+    .label = Забраняване на бисквитки и данни на страници (може е да доведе до неработещи страници)
+    .accesskey = З
 sitedata-keep-until = Пазене до
     .accesskey = а
+sitedata-keep-until-expire =
+    .label = загуба на валидност
+sitedata-keep-until-closed =
+    .label = затваряне на { -brand-short-name }
 sitedata-accept-third-party-desc = Приемане на бисквитки и данни за сайтове от трети лица
     .accesskey = б
 sitedata-accept-third-party-always-option =
