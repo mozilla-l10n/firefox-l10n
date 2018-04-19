@@ -349,6 +349,8 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Historial
+history-remember-option-custom =
+    .label = Usar una configuración personalizada pal historial
 history-dontremember-description = { -brand-short-name } usará los mesmos axustes que Restolar en privao u nun rescordará historial dalu cuando restoles la web.
 history-private-browsing-permanent =
     .label = Usar siempres el mou Restolar en privao
