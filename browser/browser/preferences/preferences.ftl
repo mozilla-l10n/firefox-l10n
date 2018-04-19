@@ -477,6 +477,12 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Chronik
+history-remember-option-all =
+    .label = anlegen
+history-remember-option-never =
+    .label = niemals anlegen
+history-remember-option-custom =
+    .label = nach benutzerdefinierten Einstellungen anlegen
 history-remember-description = { -brand-short-name } wird die Adressen der besuchten Webseiten, Downloads sowie eingebene Formular- und Suchdaten speichern.
 history-dontremember-description = { -brand-short-name } wird dieselben Einstellungen wie im Privaten Modus verwenden und keinerlei Chronik anlegen, während Sie &brandShortName; benutzen.
 history-private-browsing-permanent =
