@@ -127,6 +127,12 @@ sync-tos-link = Arisïksï anchikurhioka
 
 ## Privacy Section - History
 
+history-remember-option-all =
+    .label = Karakata patsakatani miántani
+history-remember-option-never =
+    .label = Karakata patsakatani nóteru miántani
+history-remember-option-custom =
+    .label = Karakata patsakatantini májku pérache
 history-dontremember-description = { -brand-short-name } ánchitarakuantku marhuataati, ka no patsapaati enkari xáni erhanharhitaka.
 history-private-browsing-permanent =
     .label = Juchiti ánchitarakuantku marhuata mentkisï
