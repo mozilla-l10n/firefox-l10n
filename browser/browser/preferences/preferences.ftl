@@ -506,6 +506,12 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Історія відвідувань
+history-remember-option-all =
+    .label = Пам’ятати історію
+history-remember-option-never =
+    .label = Ніколи не пам’ятати історії
+history-remember-option-custom =
+    .label = Використовувати власні налаштування історії
 history-remember-description = { -brand-short-name } збереже історію переглядів, завантажень, а також надісланих форм та пошукових запитів.
 history-dontremember-description = { -brand-short-name } буде використовувати ті ж налаштування, що й у приватному режимі, та не буде пам’ятати історію вашого перегляду.
 history-private-browsing-permanent =
