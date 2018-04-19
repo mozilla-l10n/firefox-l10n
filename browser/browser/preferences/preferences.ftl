@@ -184,6 +184,9 @@ choose-button =
 translate-web-pages =
     .label = Käännä sivustojen sisältö
     .accesskey = n
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = Sivujen kääntäjä <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Poikkeukset…
     .accesskey = i
@@ -500,6 +503,12 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Historiatiedot
+history-remember-option-all =
+    .label = Täydelliset historiatiedot
+history-remember-option-never =
+    .label = Ei mitään historiatietoja
+history-remember-option-custom =
+    .label = Valitut historiatiedot
 history-remember-description = { -brand-short-name } kerää ja säilyttää selaus-, lataus-, lomake- ja hakuhistorian.
 history-dontremember-description = { -brand-short-name } toimii aina kuten yksityisessä selaustilassa, eikä säilytä mitään historiatietoja.
 history-private-browsing-permanent =
