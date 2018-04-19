@@ -395,6 +395,15 @@ sync-signedout-account-create = Δεν έχετε λογαριασμό; Ξεκι
 sync-signedout-account-signin =
     .label = Σύνδεση…
     .accesskey = Σ
+# This message contains two links and two icon images.
+#   `<img data-l10n-name="android-icon"/>` - Android logo icon
+#   `<a data-l10n-name="android-link">` - Link to Android Download
+#   `<img data-l10n-name="ios-icon">` - iOS logo icon
+#   `<a data-l10n-name="ios-link">` - Link to iOS Download
+#
+# They can be moved within the sentence as needed to adapt
+# to your language, but should not be changed or translated.
+sync-mobile-promo = Κάντε λήψη του Firefox για <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> ή <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> για συγχρονισμό με την κινητή σας συσκευή.
 
 ## Sync Section - Signed in
 
@@ -464,6 +473,23 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Ιστορικό
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label = Το { -brand-short-name }
+    .accesskey = ο
+history-remember-option-all =
+    .label = Θα διατηρεί το ιστορικό
+history-remember-option-never =
+    .label = Δεν θα διατηρεί ποτέ το ιστορικό
+history-remember-option-custom =
+    .label = Θα κάνει χρήση προσαρμοσμένων ρυθμίσεων ιστορικού
 history-dontremember-description = Το { -brand-short-name } θα χρησιμοποιεί τις ίδιες ρυθμίσεις με την ιδιωτική περιήγηση και δεν θα διατηρεί το ιστορικό περιήγησης σας.
 history-private-browsing-permanent =
     .label = Μόνιμη λειτουργία ιδιωτικής περιήγησης
