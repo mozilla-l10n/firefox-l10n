@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = Manda a-o scito 'n signâ  “No traciame” coscì da faghe savei che ti no veu ese traciou
+do-not-track-description = Manda a-o scito un signâ  “No traciame” coscì da faghe savei che ti no veu ese traciou
 do-not-track-learn-more = Atre informaçioin
 do-not-track-option-default =
     .label = Solo quande ti deuvi a proteçion anti-traciamento.
