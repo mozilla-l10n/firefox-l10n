@@ -184,6 +184,9 @@ choose-button =
 translate-web-pages =
     .label = תרגום תוכן רשת
     .accesskey = ת
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = תרגום של <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = חריגות…
     .accesskey = ג
@@ -499,6 +502,17 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = היסטוריה
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label = { -brand-short-name }
+    .accesskey = F
 history-remember-option-all =
     .label = ישמור היסטוריה
 history-remember-option-never =
