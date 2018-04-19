@@ -494,6 +494,12 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = 방문 기록
+history-remember-option-all =
+    .label = 남기기
+history-remember-option-never =
+    .label = 날리기
+history-remember-option-custom =
+    .label = 이렇게 하기
 history-remember-description = { -brand-short-name }가 탐색과 다운로드, 서식, 검색 히스토리를 저장합니다.
 history-dontremember-description = { -brand-short-name }는 사생활 보호 모드와 같은 설정을 가지며 웹 사이트 방문 중 어떤 기록도 저장하지 않습니다.
 history-private-browsing-permanent =
