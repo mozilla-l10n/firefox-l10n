@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-addressing.xul -->
 
 <!ENTITY addressing.label          "Redacción y direcciones">
@@ -17,7 +21,7 @@
 
 <!-- am-addressing.xul -->
 
-<!ENTITY compositionGroupTitle.label "Redacción">
+<!ENTITY compositionGroupTitle.label          "Redacción">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Redactar mensajes en formato HTML">
 <!ENTITY useHtml.accesskey                    "R">
@@ -26,6 +30,9 @@
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY then.label                           "Entonces,">
 <!ENTITY then.accesskey                       "t">
+<!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY quoting.label                        "Cuando citando,">
+<!ENTITY quoting.accesskey                    "q">
 <!ENTITY aboveQuote.label                     "comenzar mi respuesta sobre el texto citado">
 <!ENTITY belowQuote.label                     "comenzar mi respuesta bajo el texto citado">
 <!ENTITY selectAndQuote.label                 "seleccionar el texto citado">
@@ -43,4 +50,3 @@
 
 <!ENTITY globalAddressingPrefs.label          "Preferencias globales de direcciones…">
 <!ENTITY globalAddressingPrefs.accesskey      "P">
-
