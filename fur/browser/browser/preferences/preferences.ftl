@@ -166,6 +166,12 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Cronologjie
+history-remember-option-all =
+    .label = Salve la cronologjie
+history-remember-option-never =
+    .label = No stâ mai salvâ la cronologjie
+history-remember-option-custom =
+    .label = Dopre impostazions personalizadis pe cronologjie
 history-dontremember-description = { -brand-short-name } al doprarà lis stessis impostazions de navigazion privade, e no sarà mantignude nissune cronologjie di navigazion.
 history-remember-search-option =
     .label = Memorize la cronologjie des ricercjis e dai modui
