@@ -515,6 +515,12 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Historial
+history-remember-option-all =
+    .label = Recuerde el historial
+history-remember-option-never =
+    .label = No guarde el historial
+history-remember-option-custom =
+    .label = Utilice configuraciones personalizadas para el historial
 history-remember-description = { -brand-short-name } recordará tu navegación, descargas, formularios e historial de búsqueda.
 history-dontremember-description = { -brand-short-name } usará la misma configuración de la navegación privada, es decir, no guardará ningún historial de tu navegación.
 history-private-browsing-permanent =
