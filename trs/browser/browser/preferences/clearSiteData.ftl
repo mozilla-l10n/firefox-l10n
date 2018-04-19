@@ -12,3 +12,6 @@ clear-site-data-cookies = Cookies y datos del sitio
 clear-site-data-cancel =
     .label = Duyichin'
     .accesskey = C
+clear-site-data-clear =
+    .label = Na'nïn'
+    .accesskey = l
