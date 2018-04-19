@@ -282,6 +282,13 @@
 <!ENTITY pref_whats_new_notification "&brandShortName; 有什麼新鮮事">
 <!ENTITY pref_whats_new_notification_summary "在更新後了解有哪些新功能推出">
 
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!ENTITY pref_feature_tips_notification "產品與功能秘訣">
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+<!ENTITY pref_feature_tips_notification_summary "了解 &brandShortName; 與其他 &vendorShortName; 產品的更多資訊">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "實驗功能">
@@ -422,7 +429,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; 健康檢查報告">
 <!ENTITY datareporting_fhr_summary2 "與 &vendorShortName; 分享您瀏覽器的健康狀況，幫助您了解您的瀏覽器效能">
-<!ENTITY datareporting_abouthr_title "檢視我的健康檢查報告">
 <!ENTITY datareporting_telemetry_title "Telemetry">
 <!ENTITY datareporting_telemetry_summary "分享您瀏覽器的效能、使用方式、硬體設備、與自訂功能的資料給 &vendorShortName; 以幫助我們讓 &brandShortName; 變得更好">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; 將會傳送錯誤報告，以幫助 &vendorShortName; 讓您的瀏覽器變得更穩定、更安全">
