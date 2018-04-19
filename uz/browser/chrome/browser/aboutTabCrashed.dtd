@@ -2,9 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tabCrashed.closeTab "Ushbu ichki oynani yopish">
+<!ENTITY tabCrashed.title "Ichki oynadagi nosozlik haqida xabar berish">
+
+<!ENTITY tabCrashed.closeTab2  "Ichki oynani yopish">
 <!ENTITY tabCrashed.restoreTab "Ushbu ichki oynani tiklash">
 <!ENTITY tabCrashed.restoreAll "Barcha nosozlik ro‘y bergan ichki oynalarni tiklash">
+
 <!-- LOCALIZATION NOTE (tabCrashed.header2): "Gah" is an English slang word
      used to express surprise or frustration (or both at the same time).  We
      are using it to communicate in an informal way that it is both
@@ -12,19 +15,18 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
-
 <!ENTITY tabCrashed.header2 "Iye. Ichki oynada nosozlik yuz berdi.">
-<!ENTITY tabCrashed.offerHelp "Yordam beramiz!">
-<!ENTITY tabCrashed.single.offerHelpMessage "Sahifani qayta yuklash uchun &tabCrashed.restoreTab; bandini tanlang.">
-<!ENTITY tabCrashed.multiple.offerHelpMessage "Sahifani qayta yuklash uchun &tabCrashed.restoreTab; yoki &tabCrashed.restoreAll; bandini tanlang.">
+<!ENTITY tabCrashed.offerHelp2 "Biz yordam qilamiz!">
+<!ENTITY tabCrashed.single.offerHelpMessage2 "Sahifani qayta yuklash uchun &tabCrashed.restoreTab;ni tanlang.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage2 "/pages ta sahifani tiklash uchun &tabCrashed.restoreTab; yoki &tabCrashed.restoreAll;ni tanlang.">
 <!ENTITY tabCrashed.requestHelp "Bizga yordam berasizmi?">
 <!ENTITY tabCrashed.requestHelpMessage "Nosozlik ma’lumoti bizga muammoni aniqlash va &brandShortName; dasturini takomillashtirishda yordam beradi.">
 <!ENTITY tabCrashed.requestReport "Shu ichki oyna haqida xabar berish">
-<!ENTITY tabCrashed.sendReport2 "Ko‘rilayotgan ichki oyna yuzasidan nosozlik ma’lumotini yuborish">
+<!ENTITY tabCrashed.sendReport3 "Nosozlik hisobotlarini avtomatik tarzda yuborib turing. Biz bunday muammolarni hal qilamiz.">
 <!ENTITY tabCrashed.commentPlaceholder2 "Mulohaza qoldirish (mulohazalarni hamma ko‘ra oladi)">
-<!ENTITY tabCrashed.includeURL2 "Nosozlik hisobotiga sahifa manzili ham qo‘shilsin">
+<!ENTITY tabCrashed.includeURL3 "&brandShortName;da nosozlik yuz berganda kirilgan saytlarning URLs manzillarini ham qo‘shish.">
 <!ENTITY tabCrashed.emailPlaceholder "Elektron pochta manzilingizni shu joyga kiriting">
-<!ENTITY tabCrashed.emailMe "Ko‘proq ma’lumot paydo bo‘lishi bilan menga xat jo‘natilsin">
+<!ENTITY tabCrashed.emailMe "Yana ma’lumot paydo bo‘lishi bilan menga xat jo‘natilsin">
 <!ENTITY tabCrashed.reportSent "Nosozlik ma’lumoti jo‘natilgan. &brandShortName;ni yaxshilashimizda yordam berganingiz uchun minnatdormiz!">
-<!ENTITY tabCrashed.requestAutoSubmit2 "Fon ichki oynalar bo‘yicha xabar berish">
-<!ENTITY tabCrashed.autoSubmit2 "Bu seans va keyingi seanslarga tegishli ichki oynalarda yuz bergan nosozlikar hisoboti bilan birga nosozlik ma’lumotlarini avtomatik jo‘natish uchun sozlamalarni yangilang. ">
+<!ENTITY tabCrashed.requestAutoSubmit2 "Fon oynalari bo‘yicha xabar berish">
+<!ENTITY tabCrashed.autoSubmit3 "&brandShortName;da nosozlik yuz berganda avtomatik hisobot yuborishi uchun parametrlarni yangilang.">
