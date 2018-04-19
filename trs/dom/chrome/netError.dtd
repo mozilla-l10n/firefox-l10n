@@ -23,8 +23,12 @@
 <!ENTITY fileAccessDenied.longDesc "<ul> <li> Ga'ue si ganare'ej nej si guisikïj dadin' na'ue gun ña atû'.</li> </ul>">
 
 <!ENTITY generic.title "Na'ue garayinaj sa achín ni'iat">
+<!ENTITY generic.longDesc "<p>Nitaj ni'īn nùhuin san gire' ma.</p>">
 
+<!ENTITY malformedURI.title "Nitaj si hua hue'è direksion">
+<!ENTITY malformedURI.longDesc "<p>Nitaj si hua hue'è direksion. Ni'iaj sintaxis nī garahuē nut.</p>">
 
+<!ENTITY netInterrupt.title "Gire' sa duguchin nugua'an">
 
 
 
