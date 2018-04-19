@@ -186,7 +186,7 @@ translate-web-pages =
     .accesskey = T
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
-translate-attribution = Traduçioin a cura de <img data-l10n-name="logo"/>
+translate-attribution = Traduçioin de <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Eceçioin…
     .accesskey = z
@@ -416,7 +416,7 @@ sync-signedout-account-signin =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Scarega Firefox pe <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> ò <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> pe scincronizâ co-i teu dispoxitivi mòbili.
+sync-mobile-promo = Descarega Firefox pe <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> ò <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> pe scincronizate con i dispoxitivi mòbili.
 
 ## Sync Section - Signed in
 
@@ -525,13 +525,13 @@ history-header = Stöia
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name } o se
-    .accesskey = s
+    .accesskey = o
 history-remember-option-all =
-    .label = Aregòrda a stöia
+    .label = aregordiâ a stöia
 history-remember-option-never =
-    .label = No aregordâ a stöia
+    .label = no se aregordiâ mai a stöia
 history-remember-option-custom =
-    .label = Adeuvia e preferense personalizæ pe a stöia
+    .label = Deuvia inpostaçioin personalizæ pe-a stöia
 history-remember-description = { -brand-short-name } o s'aregòrda de teu navegaçioin, descaregamenti e stöia de riçerche.
 history-dontremember-description = { -brand-short-name } o deuvia e mæxime preferense da-a navegaçion privâ, e o no se aregòrda da stöia de teu navegaçioin.
 history-private-browsing-permanent =
