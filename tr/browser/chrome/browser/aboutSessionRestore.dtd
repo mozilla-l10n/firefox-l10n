@@ -7,7 +7,7 @@
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 <!ENTITY restorepage.errorTitle2    "Özür dileriz. Sayfalarınızı geri getirmeyi beceremedik.">
-<!ENTITY restorepage.problemDesc2   "Son gezinti oturumunuzdaki sayfayı geri getirmeyi başaramadık. Yeniden denemek için “Oturumu geri getir” seçeneğini seçebilirsiniz.">
+<!ENTITY restorepage.problemDesc2   "Son gezinti oturumunuzu geri getirmeyi başaramadık. Yeniden denemek için “Oturumu geri getir” seçeneğini seçebilirsiniz.">
 <!ENTITY restorepage.tryThis2       "Yine mi olmadı? Bazen sorun tek bir sekmeden kaynaklanıyor olabilir. Önceki sekmelerinize bir bakın, geri yüklenmesi gerekmeyen sekmelerin işaretini kaldırıp yeniden deneyin.">
 
 <!ENTITY restorepage.hideTabs       "Önceki sekmeleri gizle">
