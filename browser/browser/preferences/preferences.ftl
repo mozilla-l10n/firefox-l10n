@@ -414,6 +414,15 @@ sync-signedout-account-create = Še nimate računa? Začnite
 sync-signedout-account-signin =
     .label = Prijava …
     .accesskey = P
+# This message contains two links and two icon images.
+#   `<img data-l10n-name="android-icon"/>` - Android logo icon
+#   `<a data-l10n-name="android-link">` - Link to Android Download
+#   `<img data-l10n-name="ios-icon">` - iOS logo icon
+#   `<a data-l10n-name="ios-link">` - Link to iOS Download
+#
+# They can be moved within the sentence as needed to adapt
+# to your language, but should not be changed or translated.
+sync-mobile-promo = Prenesite Firefox za <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> ali <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> za sinhroniziranje z mobilno napravo.
 
 ## Sync Section - Signed in
 
@@ -509,6 +518,12 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Zgodovina
+history-remember-option-all =
+    .label = shranjuje zgodovino
+history-remember-option-never =
+    .label = ne shranjuje zgodovine
+history-remember-option-custom =
+    .label = uporablja posebne nastavitve za zgodovino
 history-remember-description = { -brand-short-name } si bo zapomnil vašo zgodovino brskanja, prenosov, obrazcev in iskanj.
 history-dontremember-description = { -brand-short-name } bo uporabljal enake nastavitve kot pri zasebnem brskanju in med brskanjem ne bo hranil nobene zgodovine.
 history-private-browsing-permanent =
