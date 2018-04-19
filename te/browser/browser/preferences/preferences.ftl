@@ -393,6 +393,15 @@ sync-signedout-account-create = మీకు ఖాతా లేదా? మొ�
 sync-signedout-account-signin =
     .label = ప్రవేశించు…
     .accesskey = i
+# This message contains two links and two icon images.
+#   `<img data-l10n-name="android-icon"/>` - Android logo icon
+#   `<a data-l10n-name="android-link">` - Link to Android Download
+#   `<img data-l10n-name="ios-icon">` - iOS logo icon
+#   `<a data-l10n-name="ios-link">` - Link to iOS Download
+#
+# They can be moved within the sentence as needed to adapt
+# to your language, but should not be changed or translated.
+sync-mobile-promo = మీ మొబైలు పరికరంతో సింక్రనించడానికి Firefoxని <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> లేదా <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> లో దించుకోండి.
 
 ## Sync Section - Signed in
 
