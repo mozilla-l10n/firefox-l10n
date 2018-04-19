@@ -180,6 +180,12 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-remember-option-all =
+    .label = Mêjûyê bi bîr bîne
+history-remember-option-never =
+    .label = Mêjûyê qet bi bîr neyne
+history-remember-option-custom =
+    .label = Ji bo mêjûyê mîhengên takekesî bi kar bîne
 history-dontremember-description = { -brand-short-name } dê heman mîhengê ji bo gera nepen jî bi kar bîne û dê ji gera te ya webê tu tiştî bi bîr neyne.
 history-private-browsing-permanent =
     .label = Her tim moda gera nepen bi kar bîne
