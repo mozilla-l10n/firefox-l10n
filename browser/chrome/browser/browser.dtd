@@ -224,6 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Lagra data i beständig lagring">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Webbläsaren är fjärrstyrd">
 
+<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Öppna panel för webbautentisiering">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Hantera delning av din kamera och/eller mikrofon med webbplatsen">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Hantera delning av din mikrofon med webbplatsen">
@@ -998,6 +999,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Inaktivera tillägg">
 <!ENTITY newTabControlled.disableButton.accesskey "n">
 
+<!ENTITY homepageControlled.message "Ett tillägg har bytt vad du ser som din startsida. Du kan återställa till din inställning om du inte önskar denna ändring.">
+<!ENTITY homepageControlled.header.message "Din startsida har ändrats.">
+<!ENTITY homepageControlled.keepButton.label "Behåll ändringar">
+<!ENTITY homepageControlled.keepButton.accesskey "B">
+<!ENTITY homepageControlled.disableButton.label "Inaktivera tillägg">
+<!ENTITY homepageControlled.disableButton.accesskey "n">
+
 <!ENTITY pageActionButton.tooltip "Åtgärder för sida">
 <!ENTITY pageAction.addToUrlbar.label "Lägg till i adressfältet">
 <!ENTITY pageAction.removeFromUrlbar.label "Ta bort från adressfältet">
@@ -1007,6 +1015,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "Skicka flik till enhet">
 <!ENTITY sendToDevice.syncNotReady.label "Synkar enheter…">
+
+<!ENTITY pageAction.shareUrl.label "Dela">
 
 <!ENTITY libraryButton.tooltip "Visa historik, sparade bokmärken och mer">
 
