@@ -491,6 +491,8 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Sejarah
+history-remember-option-never =
+    .label = Jangan ingat sejarah
 history-remember-description = { -brand-short-name } akan mengingati sejarah pelayaran, muat turun, borang dan carian.
 history-dontremember-description = { -brand-short-name } akan menggunakan tetapan yang sama untuk pelayaran peribadi dan tidak akan mengingati sejarah pelayaran semasa anda melayari Web.
 history-private-browsing-permanent =
