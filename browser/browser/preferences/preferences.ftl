@@ -459,6 +459,12 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Lược sử
+history-remember-option-all =
+    .label = Ghi nhớ lược sử
+history-remember-option-never =
+    .label = Không bao giờ ghi nhớ lược sử
+history-remember-option-custom =
+    .label = Sử dụng thiết lập tùy biến cho lược sử
 history-dontremember-description = { -brand-short-name } sẽ dùng thiết lập giống như chế độ duyệt web riêng tư, và sẽ không ghi nhớ lược sử khi bạn duyệt Web.
 history-private-browsing-permanent =
     .label = Luôn luôn dùng chế độ duyệt web riêng tư
