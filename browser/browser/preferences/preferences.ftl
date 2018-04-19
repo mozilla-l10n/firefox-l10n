@@ -91,6 +91,7 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Retirar este contedor
 containers-remove-cancel-button = Non retirar este contedor
+
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Idioma e aparencia
@@ -257,6 +258,7 @@ search-keyword-warning-bookmark = A palabra clave que escolleu está a ser utili
 
 ## Containers Section
 
+
 ## Sync Section - Signed out
 
 sync-signedout-caption = Leve a Web con vostede
@@ -325,6 +327,8 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Historial
+history-remember-option-all =
+    .label = Gardará o historial
 history-dontremember-description = { -brand-short-name } usará a mesma configuración que na navegación privada, e non gardará ningún historial mentres navega pola Internet.
 history-private-browsing-permanent =
     .label = Usar sempre o modo de navegación privada
