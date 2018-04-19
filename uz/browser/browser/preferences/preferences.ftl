@@ -172,6 +172,9 @@ choose-button =
 translate-web-pages =
     .label = Veb saytni tarjima qilish
     .accesskey = t
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = Tarjimon: <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Istisnolar...
     .accesskey = s
@@ -374,6 +377,15 @@ sync-signedout-account-create = Hisobingiz yo‘qmi? Unda
 sync-signedout-account-signin =
     .label = Kirish
     .accesskey = i
+# This message contains two links and two icon images.
+#   `<img data-l10n-name="android-icon"/>` - Android logo icon
+#   `<a data-l10n-name="android-link">` - Link to Android Download
+#   `<img data-l10n-name="ios-icon">` - iOS logo icon
+#   `<a data-l10n-name="ios-link">` - Link to iOS Download
+#
+# They can be moved within the sentence as needed to adapt
+# to your language, but should not be changed or translated.
+sync-mobile-promo = Firefox brauzerini mobil qurilmangiz bilan sinxronlash uchun <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> yoki <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> uchun versiyalarini yuklab oling.
 
 ## Sync Section - Signed in
 
@@ -472,8 +484,12 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Tarix
+history-remember-option-all =
+    .label = Tarix eslab qolinsin
 history-remember-option-never =
     .label = Tarix hech qachon eslab qolinmasin
+history-remember-option-custom =
+    .label = Tarix uchun boshqa sozlamalardan foydalanish
 history-dontremember-description = { -brand-short-name } xuddi shu moslamalardan shaxsiy ko‘rish sifatida foydalanadi va tarixni saqlab qolmaydi.
 history-private-browsing-permanent =
     .label = Doimo maxfiy ko‘rish usulidan foydalanish
