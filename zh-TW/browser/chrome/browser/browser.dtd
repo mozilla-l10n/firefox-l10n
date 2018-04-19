@@ -999,6 +999,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "停用擴充套件">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
+<!ENTITY homepageControlled.message "有套擴充套件修改了您的首頁。若您不想要這個修改，可還原此設定。">
+<!ENTITY homepageControlled.header.message "您的「新分頁」已經變更。">
+<!ENTITY homepageControlled.keepButton.label "保留變更">
+<!ENTITY homepageControlled.keepButton.accesskey "K">
+<!ENTITY homepageControlled.disableButton.label "停用擴充套件">
+<!ENTITY homepageControlled.disableButton.accesskey "D">
+
 <!ENTITY pageActionButton.tooltip "頁面操作">
 <!ENTITY pageAction.addToUrlbar.label "新增至網址列">
 <!ENTITY pageAction.removeFromUrlbar.label "從網址列移除">
@@ -1008,6 +1015,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "將分頁傳送至裝置">
 <!ENTITY sendToDevice.syncNotReady.label "正在同步裝置…">
+
+<!ENTITY pageAction.shareUrl.label "分享">
 
 <!ENTITY libraryButton.tooltip "檢視瀏覽紀錄、已存書籤等資料">
 
