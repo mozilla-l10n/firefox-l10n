@@ -282,6 +282,13 @@
 <!ENTITY pref_whats_new_notification "A &brandShortName; újdonságai">
 <!ENTITY pref_whats_new_notification_summary "Új funkciók megismerése frissítés után">
 
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!ENTITY pref_feature_tips_notification "Termék és funkció tippek">
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+<!ENTITY pref_feature_tips_notification_summary "Tudjon meg többet a &brandShortName; és más &vendorShortName; termékek használatáról">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "Kísérleti funkciók">
@@ -422,7 +429,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; állapotjelentés">
 <!ENTITY datareporting_fhr_summary2 "Adatokat oszt meg a &vendorShortName;val a böngésző állapotáról, és segít megérteni a böngésző teljesítményét">
-<!ENTITY datareporting_abouthr_title "Állapotjelentés megjelenítése">
 <!ENTITY datareporting_telemetry_title "Telemetria">
 <!ENTITY datareporting_telemetry_summary "Adatokat küld a &vendorShortName;nak a böngésző teljesítményéről, a hardverről, a felhasználásról és az egyéni beállításokról, hogy a &brandShortName; jobb lehessen.">
 <!ENTITY datareporting_crashreporter_summary "A &brandShortName; hibajelentéseket küld, hogy a &vendorShortName; stabilabbá és biztonságosabbá tehesse a böngészőjét">
