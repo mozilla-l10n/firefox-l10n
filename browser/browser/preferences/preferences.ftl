@@ -128,6 +128,9 @@ choose-button =
 translate-web-pages =
     .label = ​បកប្រែ​មាតិកា​បណ្ដាញ
     .accesskey = T
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = ការ​បកប្រែ​ដោយ <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = ករណី​លើកលែង…
     .accesskey = x
@@ -297,6 +300,15 @@ containers-remove-button =
 sync-signedout-caption = យក​បណ្ដាញ​របស់​អ្នក​ជាមួយ​អ្នក
 sync-signedout-description = ធ្វើ​សម​កាល​កម្ម​ចំណាំ​ ប្រវត្តិ ផ្ទាំង ពាក្យ​សម្ងាត់​ កម្មវិធី​ផ្នែក​បន្ថែម​ និង​ចំណូល​ចិត្ត​របស់​អ្នក​ ចំពោះ​គ្រប់​ឧបករណ៍​របស់​អ្នក។​
 sync-signedout-account-title = ភ្ជាប់​ជាមួយ​ { -fxaccount-brand-name }
+# This message contains two links and two icon images.
+#   `<img data-l10n-name="android-icon"/>` - Android logo icon
+#   `<a data-l10n-name="android-link">` - Link to Android Download
+#   `<img data-l10n-name="ios-icon">` - iOS logo icon
+#   `<a data-l10n-name="ios-link">` - Link to iOS Download
+#
+# They can be moved within the sentence as needed to adapt
+# to your language, but should not be changed or translated.
+sync-mobile-promo = ទាញ​យក​ Firefox សម្រាប់​<img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> ឬ <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a>ធ្វើ​សម​កាល​កម្ម​​ឧបករណ៍​ចល័ត​របស់​អ្នក។
 
 ## Sync Section - Signed in
 
