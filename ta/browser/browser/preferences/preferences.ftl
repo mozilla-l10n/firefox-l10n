@@ -184,6 +184,9 @@ choose-button =
 translate-web-pages =
     .label = வலை உள்ளடக்கத்தை மொழிபெயர்
     .accesskey = T
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = ஆல் மொழிபெயர்ப்பு <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = விதிவிலக்குகள்...
     .accesskey = x
@@ -392,6 +395,15 @@ sync-signedout-account-create = கணக்கு இல்லையா? தொ
 sync-signedout-account-signin =
     .label = புகுபதிகை…
     .accesskey = I
+# This message contains two links and two icon images.
+#   `<img data-l10n-name="android-icon"/>` - Android logo icon
+#   `<a data-l10n-name="android-link">` - Link to Android Download
+#   `<img data-l10n-name="ios-icon">` - iOS logo icon
+#   `<a data-l10n-name="ios-link">` - Link to iOS Download
+#
+# They can be moved within the sentence as needed to adapt
+# to your language, but should not be changed or translated.
+sync-mobile-promo = பயர்பாக்சை <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">ஆண்ட்ராய்டு</a> (அ) <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> இயங்குதளங்களுக்குப் பதிவிறக்கி கைபேசியுடன் ஒத்திசையுங்கள்.
 
 ## Sync Section - Signed in
 
@@ -479,6 +491,23 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = வரலாறு
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label = { -brand-short-name }
+    .accesskey = w
+history-remember-option-all =
+    .label = வரலாறை நினைவில் வைக்கும்
+history-remember-option-never =
+    .label = வரலாற்றை நினைவில் வைக்காது
+history-remember-option-custom =
+    .label = வரலாறுக்கான விருப்பமை அமைவுகளைப் பாவிக்கும்
 history-dontremember-description = { -brand-short-name } தனி உலாவல் அமைப்புகளையே பயன்படுத்தும் , மற்றும் நீங்கள் இணையத்தை உலாவும் போது எந்த வரலாற்றையும் நினைவில் கொள்ளாது.
 history-private-browsing-permanent =
     .label = தனிப்பட்ட உலாவலை எப்போதும் பயன்படுத்து
