@@ -282,6 +282,12 @@
 <!ENTITY pref_whats_new_notification "Yang baru di &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Pelajari fitur baru setelah pemutakhiran">
 
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+<!ENTITY pref_feature_tips_notification_summary "Pelajari lebih lanjut tentang &brandShortName; dan produk &vendorShortName; lainnya">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "Fitur eksperimental">
@@ -422,7 +428,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "Laporan Kebugaran &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "Bagikan data tentang kebugaran peramban Anda dengan &vendorShortName; dan bantu kami memahami kinerja peramban Anda">
-<!ENTITY datareporting_abouthr_title "Tampilkan Laporan Kebugaran">
 <!ENTITY datareporting_telemetry_title "Telemetri">
 <!ENTITY datareporting_telemetry_summary "Berbagi data kinerja, penggunaan, perangkat keras, dan pengubahsuaian peramban Anda bersama &vendorShortName; untuk membuat &brandShortName; lebih baik">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; mengirimkan laporan kerusakan untuk membantu &vendorShortName; membuat peramban Anda lebih stabil dan aman">
