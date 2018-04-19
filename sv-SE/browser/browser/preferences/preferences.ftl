@@ -496,6 +496,9 @@ privacy-header = Webbläsarintegritet
 ## Privacy Section - Forms
 
 forms-header = Formulär & lösenord
+forms-ask-to-save-logins =
+    .label = Fråga för att spara inloggningar och lösenord för webbplatser
+    .accesskey = F
 forms-exceptions =
     .label = Undantag…
     .accesskey = d
