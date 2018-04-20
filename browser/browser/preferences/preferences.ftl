@@ -115,10 +115,10 @@ disable-extension =
 home-page-header = Página inicial
 tabs-group-header = Separadores
 ctrl-tab-recently-used-order =
-    .label = Ctrl+Tab atravessa em ciclo os separadores na ordem de recentemente utilizados
+    .label = Ctrl+Tab permuta em ciclo os separadores pela ordem dos mais recentemente utilizados
     .accesskey = T
 open-new-link-as-tabs =
-    .label = Abrir ligações em separadores em vez de em novas janelas
+    .label = Abrir ligações em novos separadores em vez de novas janelas
     .accesskey = j
 warn-on-close-multiple-tabs =
     .label = Avisar-lhe ao fechar múltiplos separadores
@@ -127,28 +127,28 @@ warn-on-open-many-tabs =
     .label = Avisar-lhe se a abertura de múltiplos separadores puder tornar o { -brand-short-name } lento
     .accesskey = d
 switch-links-to-new-tabs =
-    .label = Ao abrir uma ligação em novo separador, mudar para o mesmo imediatamente
+    .label = Ao abrir uma ligação num novo separador, mudar para o mesmo imediatamente
     .accesskey = o
 show-tabs-in-taskbar =
     .label = Pré-visualizar separadores na barra de tarefas do Windows
     .accesskey = s
 browser-containers-enabled =
-    .label = Ativar separadores contentores
+    .label = Ativar separadores isolados
     .accesskey = n
 browser-containers-learn-more = Saber mais
 browser-containers-settings =
     .label = Definições…
     .accesskey = i
-containers-disable-alert-title = Fechar todos os separadores contentores?
+containers-disable-alert-title = Fechar todos os separadores isolados?
 containers-disable-alert-desc =
     { $tabCount ->
-        [one] Se desativar os separadores contentores agora, { $tabCount } contentor separador será fechado. Tem a certeza de que pretende desativar os separadores contentores?
-       *[other] Se desativar os separadores contentores agora, { $tabCount } separadores contentores serão fechados. Tem a certeza de que pretende desativar os separadores contentores?
+        [one] Se desativar os separadores isolados agora, { $tabCount } separador isolado será fechado. Tem a certeza de que pretende desativar os separadores isolados?
+       *[other] Se desativar os separadores isolados agora, { $tabCount } separadores isolados serão fechados. Tem a certeza de que pretende desativar os separadores isolados?
     }
 containers-disable-alert-ok-button =
     { $tabCount ->
-        [one] Fechar { $tabCount } separador contentor
-       *[other] Fechar { $tabCount } separadores contentores
+        [one] Fechar { $tabCount } separador isolado
+       *[other] Fechar { $tabCount } separadores isolados
     }
 containers-disable-alert-cancel-button = Manter ativado
 containers-remove-alert-title = Remover este contentor?
@@ -156,8 +156,8 @@ containers-remove-alert-title = Remover este contentor?
 #   $count (Number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
-        [one] Se remover este contentor agora, { $count } separador contentor será fechado. Tem a certeza de que pretende remover este contentor?
-       *[other] Se remover este contentor agora, { $count } separadores contentores serão fechados. Tem a certeza de que pretende remover este contentor?
+        [one] Se remover este contentor agora, { $count } separador isolado será fechado. Tem a certeza de que pretende remover este contentor?
+       *[other] Se remover este contentor agora, { $count } separadores isolados serão fechados. Tem a certeza de que pretende remover este contentor?
     }
 containers-remove-ok-button = Remover este contentor
 containers-remove-cancel-button = Não remover este contentor
@@ -389,7 +389,7 @@ search-keyword-warning-bookmark = Escolheu uma palavra chave que está a ser uti
 ## Containers Section
 
 containers-back-link = « Retroceder
-containers-header = Separadores contentores
+containers-header = Separadores isolados
 containers-add-button =
     .label = Adicionar novo contentor
     .accesskey = A

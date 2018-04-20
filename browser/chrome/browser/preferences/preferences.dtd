@@ -23,11 +23,13 @@
 <!ENTITY  paneSearch.title              "Pesquisa">
 <!ENTITY  paneFilesApplications.title   "Ficheiros e Aplicações">
 <!ENTITY  panePrivacySecurity.title     "Privacidade e Segurança">
-<!ENTITY  paneContainers.title          "Separadores contentores">
+<!ENTITY  paneContainers.title          "Separadores isolados">
 <!ENTITY  paneUpdates.title             "Atualizações">
 
 <!ENTITY  languageAndAppearance.label   "Idioma e aparência">
 <!ENTITY  filesAndApplications.label    "Ficheiros e aplicações">
+
+
 <!ENTITY  browserPrivacy.label          "Privacidade do navegador">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
