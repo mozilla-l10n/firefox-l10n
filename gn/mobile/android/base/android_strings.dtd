@@ -282,6 +282,13 @@
 <!ENTITY pref_whats_new_notification "Mba\&apos;e oĩ ipyahúva &brandShortName;-pe">
 <!ENTITY pref_whats_new_notification_summary "Eikuaa tembiaporã pyahu ñembohekopyahu riregua">
 
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!ENTITY pref_feature_tips_notification "Ñe’ẽporã apopyre ha tembiapoite rehegua">
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+<!ENTITY pref_feature_tips_notification_summary "Eikuaave &brandShortName; jepuru ha ambue &vendorShortName; apopyre rehegua">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "Hesegua ha\&apos;ãramóva">
@@ -422,7 +429,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "Mba\&apos;éichapa oĩhína &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "Emoherakuã mba\&apos;ekuaarã &vendorShortName; ndive hesãi rehegua ha kundahára oipytyvõ oikumbývo kundahára rembiapokue">
-<!ENTITY datareporting_abouthr_title "Ehecha marandu tesãi rehegua">
 <!ENTITY datareporting_telemetry_title "Telemetry">
 <!ENTITY datareporting_telemetry_summary "Embohasa tembiapokue, jepuru, hardware mba\&apos;ete ha mba\&apos;ekuaarã ne kundahára &vendorShortName; ndive oipytyvõ hag̃ua &brandShortName;-pe oikoporãvévo">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; oguerahauka marandu jejavy rehegua oipytyvõ hag̃ua &vendorShortName;-pe omoheñóivo peteĩ kundahára oikoporãva">
