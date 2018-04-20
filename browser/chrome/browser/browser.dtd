@@ -999,6 +999,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Eklentiyi etkisizleştir">
 <!ENTITY newTabControlled.disableButton.accesskey "E">
 
+<!ENTITY homepageControlled.message "Bir eklenti, giriş sayfanızı değiştirdi. Bu değişikliği istemiyorsanız önceki ayarlarınızı geri yükleyebilirsiniz.">
 <!ENTITY homepageControlled.header.message "Giriş sayfanız değişti.">
 <!ENTITY homepageControlled.keepButton.label "Değişiklikleri koru">
 <!ENTITY homepageControlled.keepButton.accesskey "D">
