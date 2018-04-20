@@ -33,4 +33,5 @@ site-data-button-save =
 site-data-removing-window =
     .title = { site-data-removing-header }
 site-data-removing-header = कुकीज़ और साइट डेटा हटायें
+site-data-removing-desc = कूकीज़ तथा साइट डेटा हटाना आपको वेबसाइटों से लॉग आउट कर सकता है. क्या आप निश्चित रूप से परिवर्तन करना चाहते हैं?
 site-data-removing-table = निम्न वेबसाइटों के लिए कुकीज़ और साइट डाटा हटा दिए जायेंगे
