@@ -61,6 +61,7 @@ can reach it easily. -->
 <!ENTITY  closeTab.label                     "टैब बंद करें">
 <!ENTITY  closeTab.accesskey                 "C">
 
+
 <!ENTITY  listAllTabs.label      "सभी टैब सूचीबद्ध करें">
 
 <!ENTITY tabCmd.label "नया टैब">
@@ -222,6 +223,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "स्थायी संग्रहण में आँकड़े संचित करें">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "ब्राउज़र रिमोट कंट्रोल के तहत है">
 
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "साइट के साथ अपने कैमरे और/या माइक्रोफोन बांटने की व्यवस्था प्रबंधित करें">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "साइट के साथ अपने माइक्रोफोन बांटने की व्यवस्था प्रबंधित करें">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "साइट के साथ अपनी विंडोज या स्क्रीन साझा प्रबंधित करें">
@@ -268,7 +270,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addBookmarksMenu.label             "टूलबार पर बुकमार्क मेनू डालें">
 <!ENTITY removeBookmarksMenu.label          "टूलबार से बुकमार्क मेनू हटायें">
 
-<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 <!ENTITY bookmarksGtkCmd.commandkey "o">
@@ -299,6 +301,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY inspectContextMenu.label     "इंस्पेक्ट एलिमेंट">
 <!ENTITY inspectContextMenu.accesskey "Q">
+
 
 <!ENTITY fileMenu.label         "फ़ाइल">
 <!ENTITY fileMenu.accesskey       "F">
@@ -385,7 +388,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "टैब्स की सूची देखने के लिए अपने दुसरे उपकरणों से टैब संकलन खोले.">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "यहाँ अन्य डिवाइस से अपना टैब देखना चाहते हैं?">
@@ -993,6 +996,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "एक्सटेंशन अक्षम करें">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
+<!ENTITY homepageControlled.message "एक एक्सटेंशन ने वह बदल दिया है जिसे आप अपने होम पेज के तौर पर देखते हैं. यदि आप इस परिवर्तन को नहीं चाहते हैं तो आप अपने सेटिंग्स को पुनःप्राप्त कर सकते हैं.">
+<!ENTITY homepageControlled.header.message "आपका होम पेज को बदल दिया गया है.">
+
 <!ENTITY pageActionButton.tooltip "पृष्ठ क्रियाएँ">
 <!ENTITY pageAction.addToUrlbar.label "पतापट्टी में जोड़े">
 <!ENTITY pageAction.removeFromUrlbar.label "पतापट्टी से हटायें">
@@ -1002,6 +1008,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "टैब को उपकरण में भेजें">
 <!ENTITY sendToDevice.syncNotReady.label "उपकरण सिंक हो रहा है…">
+
 
 <!ENTITY libraryButton.tooltip "इतिहास, सहेजे गए बुकमार्क, और अधिक देखें">
 
