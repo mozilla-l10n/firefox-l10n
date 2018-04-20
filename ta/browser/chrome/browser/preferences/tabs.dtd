@@ -5,9 +5,7 @@
 <!ENTITY ctrlTabRecentlyUsedOrder.label       "Ctrl+Tab விசைக் கொண்டு அண்மையில் பாவித்த கீற்றுகளின் ஊடாக வலம் வரலாம்">
 <!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "T">
 
-<!ENTITY newWindowsAsTabs.label       "புதிய சாளரத்திற்கு பதிலாகப் புதிய கீற்றில் திற">
-<!ENTITY newWindowsAsTabs.accesskey   "w">
-
+<!ENTITY newWindowsAsTabs3.label       "தொடுப்புகளைப் புதிய சாளரத்தைத் தவிர்த்து கீற்றில் திறக்கவும்">
 <!ENTITY newWindowsAsTabs3.accesskey   "w">
 
 <!ENTITY warnOnCloseMultipleTabs.label      "பல கீற்றுகளை மூடும் போது உங்களை எச்சரிக்கும்">

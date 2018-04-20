@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "தடமறியல் பாதுகாப்பு">
-<!ENTITY  trackingProtection2.description      "தடமறிதல் என்பது பல்வேறு வலைதளங்களில் உங்கள் உலாவல் தரவின் தொகுப்பாகும். ஒரு சுயவிவரத்தைக் கட்டமைக்கவும் மற்றும் உங்கள் உலாவல் மற்றும் தனிப்பட்ட தகவல்களின் அடிப்படையில் உள்ளடக்கங்களைக் காட்டவும் தடமறிதலைப் பயன்படுத்த முடியும்.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "அறியப்பட்ட தடமறிவான்களை முடக்க தடமறியல் பாதுகாப்பைப் பயன்படுத்தவும்">
 <!ENTITY  trackingProtection3.radioGroupLabel  "அறியப்பட்ட தடமறிவான்களை முடக்க தடமறியல் பாதுகாப்பைப் பயன்படுத்தவும்">
 <!ENTITY  trackingProtectionAlways.label       "எப்போதும்">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
@@ -12,7 +10,6 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "l">
 <!ENTITY  trackingProtectionNever.label        "ஒருபோதுமில்லை">
 <!ENTITY  trackingProtectionNever.accesskey    "N">
-<!ENTITY  trackingProtectionLearnMore.label    "மேலும் அறி">
 <!ENTITY  trackingProtectionLearnMore2.label    "தடமறிதல் பாதுகாப்பு மற்றும் உங்கள் தனியுரிமை பற்றி மேலும் அறிக">
 <!ENTITY  trackingProtectionExceptions.label   "விதிவிலக்குகள்…">
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
@@ -23,11 +20,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "மேலும் அறிய">
 <!ENTITY changeBlockList2.label               "தடை பட்டியலை மாற்று...">
 <!ENTITY changeBlockList2.accesskey           "C">
-
-<!ENTITY  doNotTrack.description        "நீங்கள் தடமறியப்பட விரும்பவில்லையென்று வலைத்தளங்களுக்கு “தடமறியாதே” சைகையை அனுப்பு">
-<!ENTITY  doNotTrack.learnMore.label    "மேலும் அறிய">
-<!ENTITY  doNotTrack.default.label      "தடமறியல் பாதுகாப்பைப் பயன்படுத்தும்போது மட்டுமே">
-<!ENTITY  doNotTrack.always.label       "எப்போதும்">
 
 <!ENTITY  history.label                 "வரலாறு">
 <!ENTITY  permissions.label             "அனுமதிகள்">
@@ -50,6 +42,12 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "மூன்றாம் தரப்பு நினைவிகளை அனுமதி">
 <!ENTITY  acceptThirdParty2.pre.accesskey "y">
+
+<!ENTITY  acceptCookies4.accesskey      "a">
+
+<!ENTITY  blockCookies.accesskey        "b">
+
+<!ENTITY  acceptThirdParty3.pre.accesskey "y">
 <!ENTITY  acceptThirdParty.always.label   "எப்போதும்">
 <!ENTITY  acceptThirdParty.never.label    "ஒரு போதும் இல்லை">
 <!ENTITY  acceptThirdParty.visited.label  "பார்வையிட்டதிலிருந்து">
@@ -84,6 +82,7 @@
 <!ENTITY  rememberActions.removeCookies.label "தனி நினைவிகளை நீக்கு">
 <!ENTITY  rememberActions.post.label          ".">
 
+
 <!ENTITY  dontrememberDescription.label  "&brandShortName; தனி உலாவல் அமைப்புகளையே பயன்படுத்தும் , மற்றும் நீங்கள் இணையத்தை உலாவும் போது எந்த வரலாற்றையும் நினைவில் கொள்ளாது.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
@@ -91,6 +90,9 @@
 <!ENTITY  dontrememberActions.pre.label          "நீங்களும் இதற்கு விரும்பலாம்">
 <!ENTITY  dontrememberActions.clearHistory.label "நடப்பு வரலாற்று அனைத்தையும் துடை">
 <!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  clearHistoryButton.label       "வரலாற்றைத் துடை…">
+<!ENTITY  clearHistoryButton.accesskey   "s">
 
 <!ENTITY  privateBrowsingPermanent2.label "தனிப்பட்ட உலாவலை எப்போதும் பயன்படுத்து">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
