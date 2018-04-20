@@ -1,0 +1,28 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Placeholders for input type=time -->
+
+
+<!-- Field labels for input type=time -->
+
+<!ENTITY time.hour.label "Stonnen">
+<!ENTITY time.minute.label "Minutten">
+<!ENTITY time.second.label "Sekonnen">
+<!ENTITY time.millisecond.label "Millisekonnen">
+
+<!-- Placeholders for input type=date -->
+
+<!ENTITY date.year.placeholder "jjjj">
+<!ENTITY date.month.placeholder "mm">
+<!ENTITY date.day.placeholder "dd">
+
+<!-- Field labels for input type=date -->
+
+<!ENTITY date.year.label "Joer">
+<!ENTITY date.month.label "Mount">
+<!ENTITY date.day.label "Dag">
+
+<!-- Date/time clear button -->
+

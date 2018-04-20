@@ -1,0 +1,23 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!-- about:config warning page -->
+<!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
+<!ENTITY aboutWarningButton2.label "Ech akzeptéieren de Risiko!">
+
+<!ENTITY searchPrefs.label "Sichen:">
+
+<!-- Columns -->
+<!ENTITY typeColumn.label "Typ">
+<!ENTITY valueColumn.label "Wäert">
+
+<!-- Tooltips -->
+ 
+ 
+
+<!-- Context Menu -->
+<!ENTITY modify.label "Änneren">
+<!ENTITY reset.label "Zrécksetzen">
+<!ENTITY new.label "Nei">
