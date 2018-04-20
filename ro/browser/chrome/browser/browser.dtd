@@ -999,6 +999,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Dezactivează extensia">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
+<!ENTITY homepageControlled.message "O extensie a schimbat ce vezi ca pagină de start. Poți restaura setările dacă nu vrei această schimbare.">
+<!ENTITY homepageControlled.header.message "Pagina ta de start s-a schimbat.">
+<!ENTITY homepageControlled.keepButton.label "Păstrează modificările">
+<!ENTITY homepageControlled.keepButton.accesskey "K">
+<!ENTITY homepageControlled.disableButton.label "Dezactivează extensia">
+<!ENTITY homepageControlled.disableButton.accesskey "D">
+
 <!ENTITY pageActionButton.tooltip "Acțiuni pentru pagină">
 <!ENTITY pageAction.addToUrlbar.label "Adaugă la bara de adresă">
 <!ENTITY pageAction.removeFromUrlbar.label "Elimină din bara de adresă">
@@ -1008,6 +1015,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "Trimite fila pe dispozitiv">
 <!ENTITY sendToDevice.syncNotReady.label "Se sincronizează dispozitivele…">
+
+<!ENTITY pageAction.shareUrl.label "Împărtășește">
 
 <!ENTITY libraryButton.tooltip "Vezi istoricul, marcajele salvate și mai multe">
 
