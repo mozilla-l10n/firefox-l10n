@@ -115,7 +115,7 @@
 <!ENTITY  clearOnCloseSettings.accesskey "e">
 
 <!ENTITY  browserContainersLearnMore.label      "Saber mais">
-<!ENTITY  browserContainersEnabled.label        "Ativar separadores contentores">
+<!ENTITY  browserContainersEnabled.label        "Ativar separadores isolados">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
 <!ENTITY  browserContainersSettings.label        "Definições…">
 <!ENTITY  browserContainersSettings.accesskey    "i">
