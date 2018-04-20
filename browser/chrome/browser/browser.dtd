@@ -304,6 +304,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "উপাদান পর্যবেক্ষণ করুন">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
+<!ENTITY inspectA11YContextMenu.label     "অভিগম্যতা বৈশিষ্ট্যগুলো পর্যবেক্ষণ করুন">
 
 <!ENTITY fileMenu.label         "ফাইল">
 <!ENTITY fileMenu.accesskey       "F">
@@ -998,6 +999,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "এক্সটেনসন নিষ্ক্রিয় করুন">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
+<!ENTITY homepageControlled.header.message "আপনার নীড় পাতা পরিবর্তিত হয়েছে।">
+<!ENTITY homepageControlled.keepButton.label "পরিবর্তনগুলো রাখো">
 <!ENTITY homepageControlled.keepButton.accesskey "K">
 <!ENTITY homepageControlled.disableButton.label "এক্সটেনশনটি নিষ্ক্রিয় করুন">
 <!ENTITY homepageControlled.disableButton.accesskey "D">

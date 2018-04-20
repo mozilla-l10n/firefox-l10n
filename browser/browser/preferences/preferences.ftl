@@ -305,6 +305,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = নতুন উইন্ডো এবং ট্যাব
+home-new-windows-tabs-description2 = নীড় পাতা, নতুন ইউন্ডো এবং নতুন ট্যাব খুলে আপনি যা দেখতে চান তা নির্বাচন করুন।
 
 ## Home Section - Home Page Customization
 
@@ -495,6 +496,9 @@ privacy-header = ব্রাউজার গোপনীয়তা
 ## Privacy Section - Forms
 
 forms-header = ফরম ও পাসওয়ার্ড
+forms-ask-to-save-logins =
+    .label = ওয়েবসাইটে লগইন ও পাসওয়ার্ড সংরক্ষণে জিজ্ঞাসা কর
+    .accesskey = r
 forms-exceptions =
     .label = ব্যতিক্রম...
     .accesskey = x
@@ -553,6 +557,9 @@ history-clear-button =
 
 sitedata-header = কুকি এবং সাইট ডাটা
 sitedata-learn-more = আরও জানুন
+sitedata-accept-cookies-option =
+    .label = ওয়েবসাইট থেকে কুকি ও সাইট ডাটা গ্রহণ করুন (সুপারিশকৃত)
+    .accesskey = A
 sitedata-block-cookies-option =
     .label = কুকি এবং সাইট ডাটা ব্লক করুন (ওয়েবসাইট ভাঙ্গতে পারে)
     .accesskey = B
