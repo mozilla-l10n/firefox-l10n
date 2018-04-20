@@ -999,6 +999,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Zakázat rozšíření">
 <!ENTITY newTabControlled.disableButton.accesskey "Z">
 
+<!ENTITY homepageControlled.message "Rozšíření změnilo obsah zobrazovaný na vaší domovské stránce. Pokud tuto změnu nechcete, můžete obnovit svoje původní nastavení.">
+<!ENTITY homepageControlled.header.message "Vaše domovská stránka byla změněna.">
+<!ENTITY homepageControlled.keepButton.label "Zachovat změny">
+<!ENTITY homepageControlled.keepButton.accesskey "Z">
+<!ENTITY homepageControlled.disableButton.label "Zakázat rozšíření">
+<!ENTITY homepageControlled.disableButton.accesskey "k">
+
 <!ENTITY pageActionButton.tooltip "Akce stránky">
 <!ENTITY pageAction.addToUrlbar.label "Přidat do adresního řádku">
 <!ENTITY pageAction.removeFromUrlbar.label "Odebrat z adresního řádku">
@@ -1008,6 +1015,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "Poslat panel do zařízení">
 <!ENTITY sendToDevice.syncNotReady.label "Synchronizace zařízení…">
+
+<!ENTITY pageAction.shareUrl.label "Sdílet">
 
 <!ENTITY libraryButton.tooltip "Zobrazí historii, uložené záložky, a mnoho dalšího">
 
