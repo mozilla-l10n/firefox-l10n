@@ -82,6 +82,7 @@ search-results-empty-message =
         [windows] क्षमा करें! "<span data-l10n-name="query"></span>" हेतु विकल्पों में कोई परिणाम नहीं हैं.
        *[other] क्षमा करें! "<span data-l10n-name="query"></span>" हेतु वरीयताओं में कोई परिणाम नहीं हैं.
     }
+search-results-help-link = मदद चाहिए? <a data-l10n-name="url">{ -brand-short-name } सपोर्ट</a>देखें
 
 ## General Section
 
@@ -150,6 +151,13 @@ containers-disable-alert-ok-button =
        *[other] { $tabCount } कंटेनर टैब्स बंद करें
     }
 containers-disable-alert-cancel-button = सक्षम बनाए रखें
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] यदि आप अभी इस कंटेनर को हटाते हैं, { $count } कंटेनर टैब बंद हो जायेंगे. क्या आप निश्चित रूप से इस कंटेनर को हटाना चाहते हैं?
+       *[other] यदि आप अभी इस कंटेनर को हटाते हैं, { $count } कंटेनर टैब बंद हो जायेंगे. क्या आप निश्चित रूप से इस कंटेनर को हटाना चाहते हैं?
+    }
 
 ## General Section - Language & Appearance
 
@@ -173,6 +181,9 @@ choose-button =
 translate-web-pages =
     .label = वेब पृष्ठ का अनुवाद करें
     .accesskey = T
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = <img data-l10n-name="logo"/> के द्वारा अनुवाद
 translate-exceptions =
     .label = अपवाद...
     .accesskey = x
@@ -219,6 +230,7 @@ play-drm-content-learn-more = अधिक जानें
 update-application-title = { -brand-short-name } अद्यतन
 update-application-description = सर्वोत्तम प्रदर्शन, स्थिरता और सुरक्षा के लिए { -brand-short-name } को नवीनतम रखें.
 update-application-info = संस्करण { $version } <a>क्या नया है?</a>
+update-application-version = संस्करण { $version } <a data-l10n-name="learn-more">नया क्या है</a>
 update-history =
     .label = अद्यतन इतिहास दिखाएँ…
     .accesskey = p
