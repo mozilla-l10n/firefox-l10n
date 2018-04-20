@@ -22,6 +22,21 @@ pref-page =
 # Do not translate.
 search-input =
     .style = width: 15.4em
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] Find in Options
+           *[other] Find in Preferences
+        }
 pane-general-title = Da'ua nguéj
 category-general =
     .tooltiptext = { pane-general-title }
@@ -83,6 +98,10 @@ disable-extension =
     .label = Duyichîn' extension
 home-page-header = Ñanj ayi'ì'
 tabs-group-header = Rakïj ñaj
+browser-containers-learn-more = Gahuin chrun doj
+browser-containers-settings =
+    .label = Nagi'iô'...
+    .accesskey = N
 
 ## General Section - Language & Appearance
 
@@ -99,12 +118,18 @@ download-header = Nadunínj
 
 ## General Section - Proxy
 
+network-proxy-connection-learn-more = Gahuin chrūn doj
+network-proxy-connection-settings =
+    .label = Nagi'iô'...
+    .accesskey = N
 
 ## Home Section
 
+home-new-windows-tabs-header = Ventâna ni rakïj ñanj
 
 ## Home Section - Home Page Customization
 
+home-newtabs-mode-label = Rakïj ñanj nakàa
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -125,8 +150,15 @@ restore-default =
 
 ## Search Section
 
+search-bar-header = Riña nana'ui'
 
 ## Containers Section
+
+
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
 
 
 ## Privacy Section
