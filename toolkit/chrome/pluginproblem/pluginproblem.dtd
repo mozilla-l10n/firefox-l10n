@@ -3,10 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
-<!ENTITY pluginActivationWarning                             "সাইটি প্লাগইন ব্যবহার করছে যা &brandShortName;।">
 <!ENTITY tapToPlayPlugin                                     "প্লাগইন সক্রিয় করতে ট্যাপ করুন।">
 <!ENTITY clickToActivatePlugin                               "প্লাগইন সক্রিয় করুন।">
-<!ENTITY checkForUpdates                                     "হালনাগাদের জন্য ক্লিক করুন…">
+<!ENTITY checkForUpdates                                     "হালনাগাদের জন্য পরীক্ষা...">
 <!ENTITY blockedPlugin.label                                 "আপনার সুরক্ষার জন্য এই প্লাগইনটি ব্লক করা হয়েছে।">
 <!ENTITY hidePluginBtn.label                                 "প্লাগইন আড়াল কর">
 <!ENTITY managePlugins                                       "প্লাগইন ব্যবস্থাপনা…">
