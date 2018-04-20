@@ -36,6 +36,7 @@
 <!ENTITY newFeedAccountCmd.accesskey "B">
 <!ENTITY newIMContactCmd.label "Sohbet kişisi…">
 <!ENTITY newIMContactCmd.accesskey "k">
+<!ENTITY  newMessageCmd2.key "N">
 <!ENTITY  newMessageCmd.key "M">
 <!ENTITY  newMessageCmd.label "İleti">
 <!ENTITY  newMessageCmd.accesskey "e">

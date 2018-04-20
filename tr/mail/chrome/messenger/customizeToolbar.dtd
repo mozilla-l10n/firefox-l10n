@@ -9,6 +9,7 @@
 <!ENTITY iconsAndText.label       "Simgeler ve metinler">
 <!ENTITY icons.label              "Simgeler">
 <!ENTITY text.label               "Metinler">
+<!ENTITY iconsBesideText.label    "Simgeler metnin yanında">
 <!ENTITY useSmallIcons.label      "Küçük simgeleri kullan">
 <!ENTITY restoreDefaultSet.label  "Varsayılanları geri yükle">
 <!ENTITY addNewToolbar.label      "Yeni araç çubuğu ekle">
