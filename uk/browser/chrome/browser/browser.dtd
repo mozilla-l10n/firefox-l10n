@@ -999,6 +999,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Вимкнути розширення">
 <!ENTITY newTabControlled.disableButton.accesskey "м">
 
+<!ENTITY homepageControlled.message "Розширення змінило сторінку вашої домівки. Якщо ви не хочете цього, можете відновити налаштування.">
+<!ENTITY homepageControlled.header.message "Сторінка вашої домівки була змінена.">
+<!ENTITY homepageControlled.keepButton.label "Зберегти зміни">
+<!ENTITY homepageControlled.keepButton.accesskey "б">
+<!ENTITY homepageControlled.disableButton.label "Вимкнути розширення">
+<!ENTITY homepageControlled.disableButton.accesskey "В">
+
 <!ENTITY pageActionButton.tooltip "Дії сторінки">
 <!ENTITY pageAction.addToUrlbar.label "Додати до панелі адреси">
 <!ENTITY pageAction.removeFromUrlbar.label "Вилучити з панелі адреси">
@@ -1008,6 +1015,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "Відправити вкладку на пристрій">
 <!ENTITY sendToDevice.syncNotReady.label "Синхронізовані пристрої…">
+
+<!ENTITY pageAction.shareUrl.label "Поділитися">
 
 <!ENTITY libraryButton.tooltip "Перегляд історії, збережених закладок та інших даних">
 
