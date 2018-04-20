@@ -999,6 +999,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Slå av utvidelse">
 <!ENTITY newTabControlled.disableButton.accesskey "d">
 
+<!ENTITY homepageControlled.message "En utvidelse har endret hva du ser som din startside. Du kan tilbakestille innstillingene dine om du ikke vil ha denne endringen.">
+<!ENTITY homepageControlled.header.message "Din startside har blitt endret.">
+<!ENTITY homepageControlled.keepButton.label "Behold endringer">
+<!ENTITY homepageControlled.keepButton.accesskey "B">
+<!ENTITY homepageControlled.disableButton.label "Slå av utvidelse">
+<!ENTITY homepageControlled.disableButton.accesskey "u">
+
 <!ENTITY pageActionButton.tooltip "Sidehandlinger">
 <!ENTITY pageAction.addToUrlbar.label "Legg til i adresselinjen">
 <!ENTITY pageAction.removeFromUrlbar.label "Fjern fra adresselinjen">
@@ -1008,6 +1015,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "Send fane til enhet">
 <!ENTITY sendToDevice.syncNotReady.label "Synkroniserer enheter…">
+
+<!ENTITY pageAction.shareUrl.label "Del">
 
 <!ENTITY libraryButton.tooltip "Se historikk, lagrede bokmerker og mer">
 
