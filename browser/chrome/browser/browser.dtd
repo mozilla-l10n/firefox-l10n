@@ -61,6 +61,7 @@ can reach it easily. -->
 <!ENTITY  closeTab.label                     "Sulge kaart">
 <!ENTITY  closeTab.accesskey                 "S">
 
+
 <!ENTITY  listAllTabs.label      "Näita kõigi kaartide nimekirja">
 
 <!ENTITY tabCmd.label "Uus kaart">
@@ -222,6 +223,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Salvesta andmeid püsivalt">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Veebilehitseja on kaugjuhtimisel">
 
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Halda kaamera ja/või mikrofoni jagamist saidiga">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Halda mikrofoni jagamist saidiga">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Halda ekraani või akende jagamist saidiga">
@@ -242,7 +244,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.popupBlocked.tooltip             "Oled sellel lehel hüpikaknad blokkinud.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Oled sellel lehel keelanud kanvaa andmete ekstraktimise.">
 
-<!ENTITY urlbar.flashPluginBlocked.tooltip       "Oled sellele lehel keelanud plugina Adobe Flash kasutamise.">
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "Oled sellel lehel keelanud plugina Adobe Flash kasutamise.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Oled sellel lehel keelanud ligipääsu MIDIle.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Kuva ajalugu">
@@ -268,7 +270,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addBookmarksMenu.label             "Lisa järjehoidjate menüü tööriistaribale">
 <!ENTITY removeBookmarksMenu.label          "Eemalda järjehoidjate menüü tööriistaribalt">
 
-<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 <!ENTITY bookmarksGtkCmd.commandkey "o">
@@ -299,6 +301,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY inspectContextMenu.label     "Inspekteeri elementi">
 <!ENTITY inspectContextMenu.accesskey "n">
+
 
 <!ENTITY fileMenu.label         "Fail">
 <!ENTITY fileMenu.accesskey       "F">
@@ -385,7 +388,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Teistes seadmetes avatud kaartide nägemiseks lülita sisse kaartide sünkroniseerimine.">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Soovid näha teistes seadmetes avatud kaarte?">
@@ -993,6 +996,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Keela see laiendus">
 <!ENTITY newTabControlled.disableButton.accesskey "l">
 
+
 <!ENTITY pageActionButton.tooltip "Lehe toimingud">
 <!ENTITY pageAction.addToUrlbar.label "Lisa aadressiribale">
 <!ENTITY pageAction.removeFromUrlbar.label "Eemalda aadressiribalt">
@@ -1002,6 +1006,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "Saada kaart seadmesse">
 <!ENTITY sendToDevice.syncNotReady.label "Seadmeid sünkroniseeritakse…">
+
 
 <!ENTITY libraryButton.tooltip "Vaata ajalugu, salvestatud järjehoidjaid ja muid asju">
 
