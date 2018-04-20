@@ -999,6 +999,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Адключыць пашырэнне">
 <!ENTITY newTabControlled.disableButton.accesskey "А">
 
+<!ENTITY homepageControlled.message "Пашырэнне змяніла вашу хатнюю старонку. Калі не хочаце гэтых змен, вы можаце аднавіць наладкі.">
+<!ENTITY homepageControlled.header.message "Ваша хатняя старонка зменена.">
+<!ENTITY homepageControlled.keepButton.label "Замацаваць змены">
+<!ENTITY homepageControlled.keepButton.accesskey "З">
+<!ENTITY homepageControlled.disableButton.label "Адключыць пашырэнне">
+<!ENTITY homepageControlled.disableButton.accesskey "А">
+
 <!ENTITY pageActionButton.tooltip "Дзеянні старонкі">
 <!ENTITY pageAction.addToUrlbar.label "Дадаць у адрасны радок">
 <!ENTITY pageAction.removeFromUrlbar.label "Выдаліць з адраснага радка">
@@ -1008,6 +1015,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "Даслаць картку на прыладу">
 <!ENTITY sendToDevice.syncNotReady.label "Сінхранізацыя прылад…">
+
+<!ENTITY pageAction.shareUrl.label "Падзяліцца">
 
 <!ENTITY libraryButton.tooltip "Паказаць гісторыю, захаваныя закладкі і іншае">
 
