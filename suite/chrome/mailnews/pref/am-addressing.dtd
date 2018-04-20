@@ -30,6 +30,9 @@
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY then.label                           "Og:">
 <!ENTITY then.accesskey                       "O">
+<!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY quoting.label                        "Når du siterer,">
+<!ENTITY quoting.accesskey                    "s">
 <!ENTITY aboveQuote.label                     "start svaret ovenfor den siterte teksten">
 <!ENTITY belowQuote.label                     "start svaret nedenfor den siterte teksten">
 <!ENTITY selectAndQuote.label                 "merk den siterte teksten">
