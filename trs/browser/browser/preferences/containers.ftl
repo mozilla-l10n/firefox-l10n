@@ -40,3 +40,5 @@ containers-color-red =
     .label = Sa marè
 containers-color-pink =
     .label = Pink
+containers-icon-food =
+    .label = Nihiàa
