@@ -1,0 +1,109 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE (search.commandkey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+
+
+
+
+
+<!-- global warnings -->
+
+<!-- categories / views -->
+
+<!-- addon updates -->
+<!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
+     is a checkbox that toggles the default global behavior for add-on update
+     checking. -->
+<!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
+     Specific addons can have custom update checking behaviors ("Manually",
+     "Automatically", "Use default global behavior"). These menu items reset the
+     update checking behavior for all add-ons to the default global behavior
+     (which itself is either "Automatically" or "Manually", controlled by the
+     updates.updateAddonsAutomatically.label menu item). -->
+
+<!-- addon actions -->
+<!ENTITY cmd.preferencesWin.label             "Optiounen">
+
+<!ENTITY cmd.enableAddon.label                "Aktivéieren">
+<!ENTITY cmd.disableAddon.label               "Desaktivéieren">
+<!ENTITY cmd.disableAddon.accesskey           "D">
+<!ENTITY cmd.installAddon.label               "Installéieren">
+<!ENTITY cmd.installAddon.accesskey           "I">
+<!ENTITY cmd.uninstallAddon.label             "Ewechhuelen">
+<!ENTITY cmd.uninstallAddon.accesskey         "E">
+<!ENTITY cmd.showPreferencesUnix.label        "Astellungen">
+
+
+<!-- discovery view -->
+<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
+     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
+
+<!-- detail view -->
+<!ENTITY detail.version.label                 "Versioun">
+<!ENTITY detail.creator.label                 "Entwéckler">
+
+
+<!ENTITY detail.updateDefault.label           "Standard">
+<!ENTITY detail.updateAutomatic.label         "Un">
+<!ENTITY detail.updateManual.label            "Aus">
+<!ENTITY detail.size                          "Gréisst">
+
+<!ENTITY detail.showPreferencesWin.label      "Optiounen">
+<!ENTITY detail.showPreferencesWin.accesskey  "O">
+<!ENTITY detail.showPreferencesUnix.label     "Astellungen">
+
+
+<!-- ratings -->
+<!ENTITY rating2.label                        "Bewäertung">
+
+<!-- download/install progress -->
+<!ENTITY progress.cancel.tooltip              "Ofbriechen">
+
+
+<!-- list sorting -->
+<!ENTITY sort.name.label                      "Numm">
+
+<!ENTITY addon.details.label                  "Méi">
+<!ENTITY addon.unknownDate                    "Onbekannt">
+<!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
+     to the add-on name for extensions that are not webextensions, which
+     will stop working in Firefox 57. -->
+<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
+     to signify that an add-on is disabled, in the form
+     "<Addon name> <1.0> (disabled)" -->
+<!ENTITY addon.disabled.postfix               "(desaktivéiert)">
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
+     updates list to signify that an item is an update, in the form
+     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
+     necessary -->
+<!ENTITY addon.install.label                  "Installéieren">
+<!ENTITY addon.updateNow.label                "Elo aktualiséieren">
+<!ENTITY addon.loadingReleaseNotes.label      "Lueden…">
+
+<!ENTITY addon.createdBy.label                "Vu(n) ">
+
+
+
+<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
+     experiments are present on the "Experiments" tab of the add-ons manager.
+     This tab won't be displayed unless an Experiment add-on is installed.
+     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
+     to cause this tab to appear. -->
+<!ENTITY experiment.info.learnmore "Fir méi ze wëssen">
+<!ENTITY experiment.info.changetelemetry "Telemetrie-Astellungen">
+
+<!ENTITY setting.learnmore "Fir méi ze wëssen…">
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
+     These entities form a sentence, with
+     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
+     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
+     being a link to an external site. -->
+<!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!ENTITY pluginDeprecation.learnMore "Fir méi ze wëssen.">
+
