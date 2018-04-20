@@ -3,11 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "অ্যাড-অন ব্যবস্থাপক">
 
-<!ENTITY search.placeholder                   "সব অ্যাড-অন অনুসন্ধান">
-
 <!ENTITY search.placeholder2                  "addons.mozilla.org এ অনুসন্ধান করুন">
 <!ENTITY search.buttonlabel                   "অনুসন্ধান">
-<!-- LOCALIZATION NOTE (search.commandKey):
+<!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
@@ -16,7 +14,6 @@
 <!ENTITY listEmpty.availableUpdates.label     "কোনো হালনাগাদ পাওয়া যায়নি">
 <!ENTITY listEmpty.recentUpdates.label        "আপনি সাম্প্রতিক সময়ে কোনো অ্যাড-অন হালনাগাদ করেননি">
 <!ENTITY listEmpty.findUpdates.label          "হালনাগাদের জন্য পরীক্ষা">
-<!ENTITY listEmpty.search.label               "কোনো অন্তরমিলযুক্ত অ্যাড-অন খুঁজে পাওয়া যায়নি">
 <!ENTITY listEmpty.button.label               "অ্যাড-অন সম্পর্কে আরও শিখুন">
 <!ENTITY installAddonFromFile.label           "ফাইল থেকে অ্যাড-অন ইনস্টল… I">
 <!ENTITY installAddonFromFile.accesskey       "I">
@@ -24,9 +21,6 @@
 
 <!ENTITY getThemes.description                "আপনার ব্রাউজার নিজের মত করতে চান?">
 <!ENTITY getThemes.learnMore                  "হাজার হাজার থিম থেকে পছন্দ করুন">
-
-<!ENTITY cmd.back.tooltip                     "এক পাতা আগে যান">
-<!ENTITY cmd.forward.tooltip                  "এক পাতা পরে যান">
 
 
 <!ENTITY showUnsignedExtensions.button.label  "কিছু এক্সটেনশন ভ্যারিফাই করা হয়নি">
@@ -44,20 +38,19 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "অ্যাড-অন হালনাগাদকরন নিরাপত্তা পরীক্ষা করা সক্রিয়">
 
 <!-- categories / views -->
-<!ENTITY view.search.label                    "অনুসন্ধান">
 <!ENTITY view.discover.label                  "অ্যাড-অন নিন">
 <!ENTITY view.recentUpdates.label             "সাম্প্রতিক হালনাগাদ">
 <!ENTITY view.availableUpdates.label          "বিদ্যমান হালনাগাদ">
 
 <!-- addon updates -->
-<!ENTITY updates.checkForUpdates.label        "হালনাগাদ পরীক্ষা C">
+<!ENTITY updates.checkForUpdates.label        "হালনাগাদের জন্য পরীক্ষা">
 <!ENTITY updates.checkForUpdates.accesskey    "C">
-<!ENTITY updates.viewUpdates.label            "সাম্প্রতিক হালনাগাদ প্রদর্শন V">
+<!ENTITY updates.viewUpdates.label            "সাম্প্রতিক হালনাগাদ দেখাও">
 <!ENTITY updates.viewUpdates.accesskey        "V">
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
      checking. -->
-<!ENTITY updates.updateAddonsAutomatically.label     "স্বয়ংক্রিয়ভাবে অ্যাড-অন হালনাগাদ A">
+<!ENTITY updates.updateAddonsAutomatically.label     "স্বয়ংক্রিয়ভাবে অ্যাড-অন হালনাগাদ">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "A">
 <!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
      Specific addons can have custom update checking behaviors ("Manually",
@@ -81,7 +74,7 @@
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "আরও তথ্য প্রদর্শন করা হবে S">
 <!ENTITY cmd.showDetails.accesskey            "S">
-<!ENTITY cmd.findUpdates.label                "হালনাগাদ অনুসন্ধান করা হবে F">
+<!ENTITY cmd.findUpdates.label                "হালনাগাদ অনুসন্ধান">
 <!ENTITY cmd.findUpdates.accesskey            "F">
 <!ENTITY cmd.preferencesWin.label             "অপশন">
 <!ENTITY cmd.preferencesWin.accesskey         "O">
@@ -150,7 +143,7 @@
 <!ENTITY detail.repository                    "অ্যাড-অন প্রোফাইল">
 <!ENTITY detail.size                          "আকার">
 
-<!ENTITY detail.checkForUpdates.label         "হালনাগাদ এর জন্য পরীক্ষা f">
+<!ENTITY detail.checkForUpdates.label         "হালনাগাদের জন্য পরীক্ষা">
 <!ENTITY detail.checkForUpdates.accesskey     "f">
 <!ENTITY detail.checkForUpdates.tooltip       "এই অ্যাড-অনের জন্য হালনাগাদ পরীক্ষা">
 <!ENTITY detail.showPreferencesWin.label      "অপশন">
@@ -174,16 +167,6 @@
 <!ENTITY sort.name.tooltip                    "নামানুসারে সাজান">
 <!ENTITY sort.dateUpdated.label               "সর্বশেষ হালনাগাদকৃত">
 <!ENTITY sort.dateUpdated.tooltip             "তারিখের হালনাগাদ অনুযায়ী সাজান">
-<!ENTITY sort.relevance.label                 "সর্বোৎকৃষ্ট অন্তরমিল">
-<!ENTITY sort.relevance.tooltip               "প্রাসঙ্গিকতা অনুযায়ী সাজান">
-<!ENTITY sort.price.label                     "মূল্য">
-<!ENTITY sort.price.tooltip                   "মূল্য অনুযায়ী সাজান">
-
-<!ENTITY search.filter2.label                 "অনুসন্ধান:">
-<!ENTITY search.filter2.installed.label       "আমার অ্যাড-অন">
-<!ENTITY search.filter2.installed.tooltip     "ইনস্টলকৃত অ্যাড-অন প্রদর্শন করা হবে">
-<!ENTITY search.filter2.available.label       "বিদ্যমান অ্যাড-অন">
-<!ENTITY search.filter2.available.tooltip     "ইনস্টলের জন্য বিদ্যমান অ্যাড-অন প্রদর্শন করা হবে">
 
 <!ENTITY addon.homepage                       "নীড়পাতা">
 <!ENTITY addon.details.label                  "আরও">

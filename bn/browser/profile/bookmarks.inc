@@ -23,7 +23,7 @@
 
 # LOCALIZATION NOTE (firefox_help):
 # link title for https://www.mozilla.org/en-US/firefox/help/
-#define firefox_help সহায়তা এবং টিউটোরিয়াল
+#define firefox_help সহায়তা ও টিউটোরিয়াল
 
 # LOCALIZATION NOTE (firefox_customize):
 # link title for https://www.mozilla.org/en-US/firefox/customize/
