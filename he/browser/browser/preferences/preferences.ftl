@@ -305,6 +305,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = חלונות ולשוניות חדשים
+home-new-windows-tabs-description2 = ניתן לבחור מה יופיע בעת פתיחת דף הבית שלך, חלונות חדשים ולשוניות חדשות.
 
 ## Home Section - Home Page Customization
 
@@ -495,6 +496,9 @@ privacy-header = פרטיות דפדפן
 ## Privacy Section - Forms
 
 forms-header = טפסים וססמאות
+forms-ask-to-save-logins =
+    .label = הצגת בקשה לשמירת פרטי כניסה וססמאות לאתרים
+    .accesskey = צ
 forms-exceptions =
     .label = חריגות…
     .accesskey = ר
@@ -561,6 +565,10 @@ sitedata-block-cookies-option =
     .accesskey = ח
 sitedata-keep-until = שמירה עד ש:
     .accesskey = מ
+sitedata-keep-until-expire =
+    .label = התפוגה שלהם
+sitedata-keep-until-closed =
+    .label = ‏{ -brand-short-name } סגור
 sitedata-accept-third-party-desc = קבלת עוגיות ונתוני אתרים מצד שלישי
     .accesskey = ש
 sitedata-accept-third-party-always-option =

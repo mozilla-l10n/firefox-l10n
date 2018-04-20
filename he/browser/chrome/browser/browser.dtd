@@ -61,6 +61,8 @@ can reach it easily. -->
 <!ENTITY  closeTab.label                     "סגירת לשונית">
 <!ENTITY  closeTab.accesskey                 "ס">
 
+<!ENTITY  hiddenTabs.label                   "לשוניות מוסתרות">
+
 <!ENTITY  listAllTabs.label      "רשימת כל הלשוניות">
 
 <!ENTITY tabCmd.label "לשונית חדשה">
@@ -222,6 +224,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "שמירת נתונים באחסון קבוע">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "הדפדפן נשלט מרחוק">
 
+<!ENTITY urlbar.webAuthnAnchor.tooltip                    "פתיחת חלונית Web Authentication">
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "ניהול שיתוף המצלמה ו/או המיקרופון שלך עם האתר">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "ניהול שיתוף המיקרופון שלך עם האתר">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "ניהול שיתוף החלונות או המסך שלך עם האתר">
@@ -268,7 +272,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addBookmarksMenu.label             "הוספת תפריט הסימניות לסרגל הכלים">
 <!ENTITY removeBookmarksMenu.label          "הסרת תפריט הסימניות מסרגל הכלים">
 
-<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 <!ENTITY bookmarksGtkCmd.commandkey "o">
@@ -299,6 +303,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY inspectContextMenu.label     "חקירת רכיב">
 <!ENTITY inspectContextMenu.accesskey "ח">
+
+<!ENTITY inspectA11YContextMenu.label     "חקירת מאפייני נגישות">
 
 <!ENTITY fileMenu.label         "קובץ">
 <!ENTITY fileMenu.accesskey       "ק">
@@ -385,7 +391,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "ניתן להפעיל את סנכרון הלשוניות כדי לצפות ברשימת הלשוניות משאר ההתקנים שלך.">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "להציג כאן את הלשוניות שלך מהתקנים אחרים?">
@@ -982,7 +988,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "ל">
 <!ENTITY updateRestart.panelUI.label2 "הפעלה מחדש לעדכון &brandShorterName;">
 
-<!ENTITY newTabControlled.message "הרחבה שינתה את הדף הנראה בעת פתיחת לשונית חדשה. באפשרותך לשחזר את ההגדרות שלך אם שינוי זה אינו רצוי.">
+<!ENTITY newTabControlled.message "הרחבה שינתה את הדף המופיע בעת פתיחת לשונית חדשה. ניתן לשחזר את ההגדרות שלך אם שינוי זה אינו רצוי.">
 
 <!ENTITY newTabControlled.header.message "הלשונית החדשה שלך השתנתה.">
 <!ENTITY newTabControlled.keepButton.label "להשאיר שינויים">
@@ -993,6 +999,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "נטרול הרחבה">
 <!ENTITY newTabControlled.disableButton.accesskey "נ">
 
+<!ENTITY homepageControlled.message "הרחבה שינתה את הדף המופיע כדף הבית שלך. ניתן לשחזר את ההגדרות שלך אם שינוי זה אינו רצוי.">
+<!ENTITY homepageControlled.header.message "דף הבית שלך השתנה.">
+<!ENTITY homepageControlled.keepButton.label "שמירת השינויים">
+<!ENTITY homepageControlled.keepButton.accesskey "ש">
+<!ENTITY homepageControlled.disableButton.label "השבתת הרחבה">
+<!ENTITY homepageControlled.disableButton.accesskey "ר">
+
 <!ENTITY pageActionButton.tooltip "פעולות דף">
 <!ENTITY pageAction.addToUrlbar.label "הוספה לשורת הכתובת">
 <!ENTITY pageAction.removeFromUrlbar.label "הסרה משורת הכתובת">
@@ -1002,6 +1015,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "שליחת לשונית להתקן">
 <!ENTITY sendToDevice.syncNotReady.label "סנכרון התקנים…">
+
+<!ENTITY pageAction.shareUrl.label "שיתוף">
 
 <!ENTITY libraryButton.tooltip "צפייה בהיסטוריה, סימניות שמורות ועוד">
 

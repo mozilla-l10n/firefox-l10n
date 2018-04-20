@@ -60,9 +60,6 @@
 <!ENTITY  permissionsFor        "הרשאות עבור:">
 <!ENTITY  permPlugins           "הפעלת תוספים חיצוניים">
 
-<!ENTITY  permClearStorage           "מחיקת אחסון">
-<!ENTITY  permClearStorage.accesskey "מ">
-
 <!ENTITY  securityTab           "אבטחה">
 <!ENTITY  securityTab.accesskey "א">
 <!ENTITY  securityView.certView "הצגת אישור">
@@ -81,6 +78,9 @@
 <!ENTITY  securityView.privacy.cookies                  "האם אתר זה שומר מידע (עוגיות) על המחשב שלי?">
 <!ENTITY  securityView.privacy.viewCookies              "הצגת עוגיות">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "ע">
+<!ENTITY  securityView.privacy.siteData                 "האם אתר זה מאחסן מידע על המחשב שלי?">
+<!ENTITY  securityView.privacy.clearSiteData            "ניקוי עוגיות ונתוני אתרים">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "נ">
 <!ENTITY  securityView.privacy.passwords                "האם שמרתי ססמאות עבור אתר זה?">
 <!ENTITY  securityView.privacy.viewPasswords            "הצגת ססמאות שמורות">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "ס">
