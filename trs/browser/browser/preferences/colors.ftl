@@ -15,3 +15,5 @@ colors-page-override-option-always =
     .label = Nigànj chre
 colors-page-override-option-never =
     .label = Nitaj ama
+colors-text-header = Formatù
+    .accesskey = T
