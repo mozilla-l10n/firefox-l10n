@@ -282,6 +282,13 @@
 <!ENTITY pref_whats_new_notification "Qué hay de nuevo en &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Aprende de las nuevas funciones después de una actualización">
 
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!ENTITY pref_feature_tips_notification "Consejos del producto y sus funciones">
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+<!ENTITY pref_feature_tips_notification_summary "Aprende más sobre el uso de &brandShortName; y otros productos de &vendorShortName;">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "Funciones experimentales">
