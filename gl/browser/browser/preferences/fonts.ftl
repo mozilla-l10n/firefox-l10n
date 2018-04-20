@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = Tipos de letra para
+    .accesskey = i
 fonts-langgroup-arabic =
     .label = Árabe
 fonts-langgroup-armenian =
@@ -52,6 +54,8 @@ fonts-langgroup-malayalam =
     .label = Malaialam
 fonts-langgroup-math =
     .label = Matemáticas
+fonts-langgroup-odia =
+    .label = Oriya
 fonts-langgroup-sinhala =
     .label = Sinhala
 fonts-langgroup-tamil =
@@ -69,18 +73,29 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Proporcional
+    .accesskey = P
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
 fonts-proportional-size = Tamaño
     .accesskey = ñ
+fonts-serif = Serif
+    .accesskey = S
+fonts-sans-serif = Sans-serif
+    .accesskey = n
+fonts-monospace = Monoespazado
+    .accesskey = M
 fonts-monospace-size = Tamaño
     .accesskey = e
 fonts-minsize = Tamaño mínimo do tipo de letra
     .accesskey = o
 fonts-minsize-none =
     .label = Ningún
+fonts-allow-own =
+    .label = Permitir que as páxinas escollan os seus tipos de letra en lugar dos antes seleccionados
+    .accesskey = a
 
 ## Text Encodings
 ##
