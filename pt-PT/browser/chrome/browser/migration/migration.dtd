@@ -47,4 +47,4 @@
 <!ENTITY done.title                     "Importação concluída">
 <!ENTITY done.label                     "Os seguintes itens foram importados com sucesso:">
 
-<!ENTITY closeSourceBrowser.label       "Por favor certifique-se que o navegador selecionado está fechado.">
+<!ENTITY closeSourceBrowser.label       "Por favor certifique-se de que o navegador selecionado está fechado antes de continuar.">
