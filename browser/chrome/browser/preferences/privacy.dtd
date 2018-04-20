@@ -120,7 +120,7 @@
 <!ENTITY  browserContainersSettings.label        "Sätted…">
 <!ENTITY  browserContainersSettings.accesskey    "d">
 
-<!ENTITY  a11yPrivacy.checkbox.label     "Hõlpsusteenustel ei lubata sinu brauserile ligi pääsda">
+<!ENTITY  a11yPrivacy.checkbox.label     "Hõlpsusteenustel ei lubata sinu brauserile ligi pääseda">
 <!ENTITY  a11yPrivacy.checkbox.accesskey "H">
 <!ENTITY  a11yPrivacy.learnmore.label    "Rohkem teavet">
 <!ENTITY enableSafeBrowsingLearnMore.label "Rohkem teavet">
