@@ -403,6 +403,15 @@ sync-signedout-account-create = खाता नहीं है? शुरु�
 sync-signedout-account-signin =
     .label = साइन इन…
     .accesskey = I
+# This message contains two links and two icon images.
+#   `<img data-l10n-name="android-icon"/>` - Android logo icon
+#   `<a data-l10n-name="android-link">` - Link to Android Download
+#   `<img data-l10n-name="ios-icon">` - iOS logo icon
+#   `<a data-l10n-name="ios-link">` - Link to iOS Download
+#
+# They can be moved within the sentence as needed to adapt
+# to your language, but should not be changed or translated.
+sync-mobile-promo = Firefox डाउनलोड करें <img data-l10n-name="android-icon"/><a data-l10n-name="android-link">Android</a> या <img data-l10n-name="ios-icon"/><a data-l10n-name="ios-link">iOS के लिए</a> अपने मोबाइल उपकरण के साथ सिंक करने के लिए.
 
 ## Sync Section - Signed in
 
@@ -482,6 +491,9 @@ privacy-header = ब्राउज़र गोपनीयता
 ## Privacy Section - Forms
 
 forms-header = फ़ॉर्म व कूटशब्द
+forms-ask-to-save-logins =
+    .label = वेबसाइटों के लिए लॉग इन और पासवर्ड सहेजने के लिए पूछें
+    .accesskey = r
 forms-exceptions =
     .label = अपवाद…
     .accesskey = x
@@ -498,6 +510,24 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = इतिहास
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label = { -brand-short-name } द्वारा
+    .accesskey = w
+history-remember-option-all =
+    .label = इतिहास याद रखें
+history-remember-option-never =
+    .label = इतिहास कभी याद ना रखें
+history-remember-option-custom =
+    .label = इतिहास के लिए मनपसंद सेटिंग्स का उपयोग करें
+history-remember-description = { -brand-short-name } द्वारा आपके ब्राउज़िंग, डाउनलोड, फॉर्म तथा खोज इतिहास याद रखा जाएगा.
 history-dontremember-description = { -brand-short-name } बतौर निजी ब्राउज़िंग की तरह समान सेटिंग का उपयोग करेगा, और कोई इतिहास याद नहीं रखेगा जब आप वेब ब्राउज़ करते हैं.
 history-private-browsing-permanent =
     .label = हमेशा निजी ब्राउजिंग विधि का उपयोग करें
