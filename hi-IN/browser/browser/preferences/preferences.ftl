@@ -667,7 +667,13 @@ collection-health-report-link = अधिक जानें
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = इस निर्मित विन्यास के लिए डेटा रिपोर्टिंग को असक्रिय किया हैं
+collection-browser-errors =
+    .label = अनुमति दें { -brand-short-name } को ब्राउज़र त्रुटि रिपोर्ट (त्रुटि संदेश के साथ) { -vendor-short-name } को भेजने के लिए  
+    .accesskey = b
 collection-browser-errors-link = अधिक जानें
+collection-backlogged-crash-reports =
+    .label = अनुमति दें { -brand-short-name } को संचित कार्यों के क्रैश रिपोर्ट को आपके ओर से भेजने के लिए 
+    .accesskey = c
 collection-backlogged-crash-reports-link = अधिक जानें
 
 ## Privacy Section - Security
