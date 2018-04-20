@@ -282,6 +282,13 @@
 <!ENTITY pref_whats_new_notification "Што новага ў &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Даведацца аб новых магчымасцях пасля абнаўлення">
 
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!ENTITY pref_feature_tips_notification "Парады па прадукце і магчымасцях">
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+<!ENTITY pref_feature_tips_notification_summary "Даведайцеся больш пра выкарыстанне &brandShortName; і іншых прадуктаў &vendorShortName;">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "Эксперыментальныя функцыі">
@@ -422,7 +429,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "Справаздача пра стан &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "Дзеліцца дадзенымі з &vendorShortName; пра стан вашага браўзера і дапамагае вам даведацца пра яго прадукцыйнасць">
-<!ENTITY datareporting_abouthr_title "Пабачыць справаздачу пра стан">
 <!ENTITY datareporting_telemetry_title "Тэлеметрыя">
 <!ENTITY datareporting_telemetry_summary "Дзяліцца дадзенымі пра прадукцыйнасць, выкарыстанне, апаратнае забеспячэнне і налады вашага браўзера з &vendorShortName;, каб дапамагчы ўдасканаліць &brandShortName;">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; падае справаздачы пра крахі, каб дапамагчы &vendorShortName; зрабіць ваш азіральнік больш устойлівым і бяспечным">
