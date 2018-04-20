@@ -999,6 +999,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Eipe'aite jepysokue">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
+<!ENTITY homepageControlled.header.message "Emoambue nde kuatiarogue ñepyrũ.">
 <!ENTITY homepageControlled.keepButton.label "Eguerekóke moambuepyre">
 <!ENTITY homepageControlled.keepButton.accesskey "K">
 <!ENTITY homepageControlled.disableButton.label "Eipe'aite jepysokue">
