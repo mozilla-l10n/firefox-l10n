@@ -2,8 +2,28 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY folderProps.windowtitle.label           "Propiedades">
 
+<!ENTITY generalInfo.label                       "Información general">
+<!ENTITY folderCharsetFallback2.label            "Codificación de texto de emergencia:">
+<!ENTITY folderCharsetFallback2.accesskey        "E">
+<!ENTITY folderCharsetEnforce2.label             "Aplicar la codificación a todos los mensajes de la carpeta (la codificación de texto de mensajes individuales y la autodetección serán ignoradas)">
+<!ENTITY folderCharsetEnforce2.accesskey         "A">
+<!ENTITY folderRebuildSummaryFileTip2.label      "Reconstruir índice de archivo de resumen">
+<!ENTITY folderRebuildSummaryFile2.label         "Reparar carpeta">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "R">
+<!ENTITY folderRebuildSummaryFile.explanation    "A veces el archivo de índice de carpetas (.msf) se daña y pueden desaparecer mensajes o pueden seguir mostrándose mensajes borrados; reparar la carpeta puede corregir estos problemas.">
+<!ENTITY folderIncludeInGlobalSearch.label       "Incluir mensajes en esta carpeta en los resultados de búsqueda global">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "G">
 
+<!ENTITY retention.label "Política de retención">
+<!ENTITY retentionUseAccount.label  "Usar mi configuración de cuenta">
+<!ENTITY retentionUseAccount.accesskey "U">
+<!ENTITY daysOld.label "días">
+<!ENTITY message.label "mensajes">
+<!ENTITY retentionCleanup.label "Para recuperar espacio en disco, los mensajes antiguos serán permanentemente eliminados.">
+<!ENTITY retentionCleanupImap.label "Para recuperar espacio en disco, los mensajes antiguos serán permanentemente eliminados, tanto copias locales como los originales en el servidor remoto.">
+<!ENTITY retentionCleanupPop.label "Para recuperar espacio en disco, los mensajes antiguos serán permanentemente eliminados, incluyendo los originales en el servidor remoto.">
 <!ENTITY retentionDeleteMsg.label "Eliminar mensajes de más de">
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "No eliminar ningún mensaje">
