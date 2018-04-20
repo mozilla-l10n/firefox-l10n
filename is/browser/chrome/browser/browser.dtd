@@ -61,6 +61,7 @@ can reach it easily. -->
 <!ENTITY  closeTab.label                     "Loka flipa">
 <!ENTITY  closeTab.accesskey                 "L">
 
+
 <!ENTITY  listAllTabs.label      "Sýna alla flipa">
 
 <!ENTITY tabCmd.label "Nýr flipi">
@@ -222,6 +223,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Geyma gögn í varanlegri gagnageymslu">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Vafri er á fjarstýringu">
 
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Sýsla með deilingu á myndavél og/eða hljóðnema fyrir þetta vefsvæði">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Sýsla með að deila hljóðnema á vefsvæðinu">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Sýsla með að deila gluggum eða skjá á vefsvæðinu">
@@ -268,7 +270,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addBookmarksMenu.label             "Bæta bókamerkjavalmynd við verkfæraslá">
 <!ENTITY removeBookmarksMenu.label          "Fjarlægja bókamerkjavalmynd úr verkfæraslá">
 
-<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 <!ENTITY bookmarksGtkCmd.commandkey "o">
@@ -299,6 +301,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY inspectContextMenu.label     "Skoða einindi">
 <!ENTITY inspectContextMenu.accesskey "e">
+
 
 <!ENTITY fileMenu.label         "Skrá">
 <!ENTITY fileMenu.accesskey       "S">
@@ -385,7 +388,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Kveiktu á samstillingu flipa til að skoða lista af flipum frá öðrum tækjum.">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Viltu sjá hérna þína flipa frá öðrum tækjum?">
@@ -993,6 +996,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Slökkva á viðbót">
 <!ENTITY newTabControlled.disableButton.accesskey "ð">
 
+<!ENTITY homepageControlled.keepButton.label "Halda breytingum">
+<!ENTITY homepageControlled.keepButton.accesskey "H">
+<!ENTITY homepageControlled.disableButton.label "Slökkva á viðbót">
+<!ENTITY homepageControlled.disableButton.accesskey "ö">
+
 <!ENTITY pageActionButton.tooltip "Síðu aðgerðir">
 <!ENTITY pageAction.addToUrlbar.label "Bæta við í staðfestingarslá">
 <!ENTITY pageAction.removeFromUrlbar.label "Fjarlægja úr staðsetningarslá">
@@ -1002,6 +1010,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "Senda flipa á tæki">
 <!ENTITY sendToDevice.syncNotReady.label "Samstilli tæki…">
+
+<!ENTITY pageAction.shareUrl.label "Deila">
 
 <!ENTITY libraryButton.tooltip "Skoða feril, vistuð bókamerki, og meira">
 
