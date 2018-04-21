@@ -999,6 +999,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Отключить расширение">
 <!ENTITY newTabControlled.disableButton.accesskey "ю">
 
+<!ENTITY homepageControlled.message "Ваша домашняя страница была изменена расширением. Если вы этого не хотите, вы можете восстановить свои настройки.">
+<!ENTITY homepageControlled.header.message "Ваша домашняя страница была изменена.">
+<!ENTITY homepageControlled.keepButton.label "Сохранить изменения">
+<!ENTITY homepageControlled.keepButton.accesskey "х">
+<!ENTITY homepageControlled.disableButton.label "Отключить расширение">
+<!ENTITY homepageControlled.disableButton.accesskey "ю">
+
 <!ENTITY pageActionButton.tooltip "Действия на странице">
 <!ENTITY pageAction.addToUrlbar.label "Добавить на панель адреса">
 <!ENTITY pageAction.removeFromUrlbar.label "Удалить с панели адреса">
@@ -1008,6 +1015,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "Отправить вкладку на устройство">
 <!ENTITY sendToDevice.syncNotReady.label "Синхронизация устройств…">
+
+<!ENTITY pageAction.shareUrl.label "Поделиться">
 
 <!ENTITY libraryButton.tooltip "Просмотр истории, сохранённых закладок и многого другого">
 
