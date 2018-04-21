@@ -61,6 +61,7 @@ can reach it easily. -->
 <!ENTITY  closeTab.label                     "İlmekni Qapat">
 <!ENTITY  closeTab.accesskey                 "Q">
 
+
 <!ENTITY  listAllTabs.label      "İlmeklerniñ episini tiz">
 
 <!ENTITY tabCmd.label "Yañı İlmek">
@@ -219,6 +220,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Verilerni Sebatkâr Mağazda mağazla">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Kezici uzaqtan muraqabede">
 
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Sayt ile kamera ve/yaki mikrofonnı üleşmeni idare etiñiz">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Sayt ile mikrofonıñıznı üleşmeni idare etiñiz">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Sayt ile pencereler yaki ekranıñıznı üleşmeni idare etiñiz">
@@ -262,7 +264,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addBookmarksMenu.label             "Alet Çubuğına Saife-imleri Menüsini Ekle">
 <!ENTITY removeBookmarksMenu.label          "Alet Çubuğından Saife-imleri Menüsini Çetleştir">
 
-<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 <!ENTITY bookmarksGtkCmd.commandkey "o">
@@ -293,6 +295,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY inspectContextMenu.label     "Unsurnı Teftiş Et">
 <!ENTITY inspectContextMenu.accesskey "T">
+
 
 <!ENTITY fileMenu.label         "Dosye">
 <!ENTITY fileMenu.accesskey       "D">
@@ -355,7 +358,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Evelki Oturımnı Keri Tikle">
 
 <!ENTITY showAllHistoryCmd2.label "Bütün Keçmişni Köster">
-<!ENTITY showAllHistoryCmd.commandkey "T">
+<!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Bütün Keçmişni Köster">
 <!ENTITY appMenuHistory.clearRecent.label "Deminki Keçmişni Temizle…">
@@ -379,7 +382,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Diger cihazlardaki ilmeklerni körmek içün ilmek aynılaştırmasını açıq yapıñız.">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Diger cihazlardan ilmekleriñizni mında köresiñiz kile?">
@@ -975,11 +978,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName; yañartılsın dep kene başlat">
 
 <!ENTITY newTabControlled.message "Bir eklenti, Yañı bir İlmek açqanıñızda körgeniñiz saifeni deñiştirgendir. Bu deñişiklikni istemey iseñiz evvelki ayarlarıñıznı keri tikleybilirsiñiz.">
+
 <!ENTITY newTabControlled.header.message "Yañı İlmegiñiz deñişkendir.">
 <!ENTITY newTabControlled.keepButton.label "Deñişikliklerni Qoru">
 <!ENTITY newTabControlled.keepButton.accesskey "o">
 <!ENTITY newTabControlled.restoreButton.label "Ayarlarnı Keri Tikle">
 <!ENTITY newTabControlled.restoreButton.accesskey "K">
+
+
 
 <!ENTITY pageActionButton.tooltip "Saife amelleri">
 <!ENTITY pageAction.addToUrlbar.label "Adres Çubuğına Ekle">
@@ -990,6 +996,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "İlmekni Cihazğa Yiber">
 <!ENTITY sendToDevice.syncNotReady.label "Cihazlar Aynılaştırıla…">
+
 
 <!ENTITY libraryButton.tooltip "Keçmiş, saqlanğan saife-imleri ve daa fazlasını köster">
 
