@@ -42,9 +42,13 @@ fonts-langgroup-telugu =
     .label = Telegû
 fonts-langgroup-thai =
     .label = Tailandês
+fonts-langgroup-tibetan =
+    .label = Tibetâno
 
 ## Default fonts and their sizes
 
+fonts-default-sans-serif =
+    .label = Sans Serif
 fonts-proportional-size = Dàj yachìj man
     .accesskey = z
 fonts-serif = Serif

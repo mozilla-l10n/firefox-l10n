@@ -105,6 +105,18 @@ browser-containers-settings =
 
 ## General Section - Language & Appearance
 
+default-font-size = Dàj yachìj man
+    .accesskey = D
+advanced-fonts =
+    .label = Sa huaj ñaa
+    .accesskey = S
+colors-settings =
+    .label = Kolô
+    .accesskey = K
+language-header = Nanj a'min'
+choose-button =
+    .label = Naguī.
+    .accesskey = N
 
 ## General Section - Files and Applications
 
@@ -112,6 +124,7 @@ download-header = Nadunínj
 
 ## General Section - Performance
 
+performance-settings-learn-more = Gahuin chrun doj
 
 ## General Section - Browsing
 
@@ -151,9 +164,17 @@ restore-default =
 ## Search Section
 
 search-bar-header = Riña nana'ui'
+search-remove-engine =
+    .label = Guxūn
+    .accesskey = G
+search-find-more-link = Nadure' sa nana'ui'
 
 ## Containers Section
 
+containers-preferences-button =
+    .label = Sa arajsun' doj
+containers-remove-button =
+    .label = Dure'
 
 ## Sync Section - Signed out
 
