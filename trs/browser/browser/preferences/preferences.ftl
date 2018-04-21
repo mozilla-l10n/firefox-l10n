@@ -197,39 +197,100 @@ sync-engine-logins =
     .label = Nej riña ayi'ì' sesión
     .tooltiptext = Gara sun nej da'nga 'ngà nun sa'
     .accesskey = L
+sync-device-name-save =
+    .label = Na'nïnj sà'
+    .accesskey = N
+sync-mobilepromo-single = ga'nin' gan'an riña a'ngô aga'a
+sync-tos-link = Nuguan' da'uît gini'înt si ruhuât garasunt
+sync-fxa-privacy-notice = Notisia huìi
 
 ## Privacy Section
 
 
 ## Privacy Section - Forms
 
+forms-saved-logins =
+    .label = Sa gayi'ìt sesión ngà naginu sà'
+    .accesskey = S
+forms-master-pw-use =
+    .label = Garasun da'nga niko
+    .accesskey = G
+forms-master-pw-change =
+    .label = Nadunā Da’nga’ Huì A’nïn’ïn
+    .accesskey = N
 
 ## Privacy Section - History
 
 history-header = Daran sa gahuin
+history-clear-on-close-settings =
+    .label = Nagi'iô'...
+    .accesskey = g
+history-clear-button =
+    .label = Nadure' sa gini’iājt...
+    .accesskey = r
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = Gahuin chrūn doj
+sitedata-accept-third-party-always-option =
+    .label = Nigànj chre
 sitedata-accept-third-party-never-option =
     .label = Nitaj ama
+sitedata-clear =
+    .label = Nadurê' nuguan'an
+    .accesskey = N
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-openpage-option =
+    .label = Na'nin rakïj ñanj
+    .accesskey = N
 
 ## Privacy Section - Tracking
 
+tracking-mode-always =
+    .label = Nigànj chre
+    .accesskey = i
+tracking-mode-private =
+    .label = Ma ventana huìi
+    .accesskey = v
+tracking-mode-never =
+    .label = Nitaj ama
+    .accesskey = t
 
 ## Privacy Section - Permissions
 
+permissions-location-settings =
+    .label = Nagi'iô'...
+    .accesskey = g
+permissions-camera = Kamara
+permissions-camera-settings =
+    .label = Nagi'iô'...
+    .accesskey = N
+permissions-microphone = Aga' uxun nanèe
+permissions-microphone-settings =
+    .label = Nagi'iô'..
+    .accesskey = a
+permissions-notification = Sa ataj na'anj
+permissions-notification-settings =
+    .label = Nagi'iô'...
+    .accesskey = i
+permissions-notification-link = Gahuin chrun doj
+permissions-a11y-privacy-link = Gahuin chrun doj
 
 ## Privacy Section - Data Collection
 
+collection-privacy-notice = Noticia huìi
+collection-health-report-link = Gahuin chrūn doj
+collection-browser-errors-link = Gahuin chrūn doj
+collection-backlogged-crash-reports-link = Gahuin chrūn doj
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-enable-safe-browsing-link = Gahuin chrūn doj
 
 ## Privacy Section - Certificates
 

@@ -61,6 +61,7 @@ can reach it easily. -->
 <!ENTITY  closeTab.label                     "Ganarán riñanj">
 <!ENTITY  closeTab.accesskey                 "c">
 
+
 <!ENTITY  listAllTabs.label      "Ni'io' nej rakïj ñanj hua ni'ninj">
 
 <!ENTITY tabCmd.label "Rakïj ñanj nakàa">
@@ -127,6 +128,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Ni'io' daran' nej rakïj ñaj">
 <!ENTITY showAllTabsCmd.accesskey "A">
 <!ENTITY toggleReaderMode.key "R">
+
 
 <!ENTITY fxaSignIn.label "Gayi'ì' sesión 'ngà &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Na'nïn' &syncBrand.shortName.label; preferences">
@@ -220,6 +222,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Nachrâ so' datos da' gahuin rān ma">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Àsij gan' nikaj ñu'unj nej dugui' navegador">
 
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Gi'iaj sun sitio na 'ngà si kamarat ni mikrofono">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Gi'iaj sun sitio na 'ngà si mikrofonot">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Gi'iaj sun sitio na 'ngà riña si ago'">
@@ -229,6 +232,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Naduno' daj nanù a'ngò nânj a'min' riña pagina na">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Ganikaj ñu'ù' da' garasun' software DRM">
 
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Gi'iaj blokeandot si kamarat guenda sitio web na.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Gi'iaj blokeandot sa uxun nanèe guenda sitio web na.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Gi'iaj blokeandot da' ni si gini'iaj nej dugui' a'ngo hiuj u riña du'ua si aga't.">
@@ -236,8 +240,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Gi'iaj blokeandot da' si nahuin ra'àt nuguan'an guenda sitio web na.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Gi'iaj blokeandot da' si nachrá sa' nuguan'an guenda sitio web na.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Gi'iaj blokeandot nej pop-ups guenda sitio web na.">
-
 <!ENTITY urlbar.canvasBlocked.tooltip            "Gi'iaj blokeandot da' si gida'à nej dugui' datos canva guenda sitio web na.">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Digû' riña gaché nu'">
 
@@ -254,7 +258,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.other.label    "A'ngo sa raj sun nichrò' doj">
 <!ENTITY bookmarksMenuButton.mobile.label   "Nej marcador aché">
 
-<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 <!ENTITY bookmarksGtkCmd.commandkey "o">
@@ -263,6 +267,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyButton.label            "Sa gini’iājt">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
+<!ENTITY toolsMenu.label              "Rasun">
 <!ENTITY toolsMenu.accesskey          "T">
 
 <!ENTITY keywordfield.accesskey       "K">
@@ -281,6 +286,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
 <!ENTITY inspectContextMenu.accesskey "Q">
+
 
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.accesskey         "B">
@@ -332,20 +338,23 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoMenu.label "Rakïj ñanj hiaj narrán nakà">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 
+<!ENTITY showAllHistoryCmd.commandkey "H">
 
+<!ENTITY appMenuHelp.label "Sa ruguñu'unj un">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "Si na'nï' rakij ñanj">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showMore.label "Nadigân Doj">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
 
 
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
@@ -485,7 +494,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 
-
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
      These access keys are identical because their associated menu items are
@@ -532,6 +540,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
+
+
+
+
 
 
 
