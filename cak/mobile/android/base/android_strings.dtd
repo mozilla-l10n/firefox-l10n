@@ -282,6 +282,13 @@
 <!ENTITY pref_whats_new_notification "Achike ri k\&apos;ak\&apos;a\&apos; k\&apos;o pa &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Tawetamaj ri k\&apos;ak\&apos;a\&apos; taq samaj chi rij jun k\&apos;exoj ruwäch">
 
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!ENTITY pref_feature_tips_notification "Taq rupixa\&apos; chuqa\&apos; taq rusamaj ri tikojil">
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+<!ENTITY pref_feature_tips_notification_summary "Tetamäx ch\&apos;aqa\&apos; chik chi rij rokisaxik ri &brandShortName; chuqa\&apos; ch\&apos;aqa\&apos; chik &vendorShortName; taq tikojil">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "Soltojtob\&apos;enel taq rub\&apos;anikil">
