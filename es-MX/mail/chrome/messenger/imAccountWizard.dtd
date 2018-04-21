@@ -20,4 +20,10 @@
 <!ENTITY accountAdvanced.newMailNotification.label   "Notificar sobre nuevos mensajes">
 <!ENTITY accountAliasGroupbox.caption "Alias local">
 <!ENTITY accountAliasField.label      "Alias:">
+<!ENTITY accountProxySettings.caption "Configuración del proxy">
+<!ENTITY accountProxySettings.change.label     "Cambiar…">
+<!ENTITY accountProxySettings.change.accessKey "C">
 
+<!ENTITY accountSummaryTitle.label   "Resumen">
+<!ENTITY accountSummaryInfo.label    "Un resumen de la información que ingresaste se mostrará a continuación. Por favor, revísala antes de que la cuenta sea creada.">
+<!ENTITY accountSummary.connectNow.label "Conectar esta cuenta ahora.">
