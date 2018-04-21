@@ -8,10 +8,38 @@ clear-site-data-window =
 clear-site-data-description = Wyczyszczenie wszystkich ciasteczek i danych stron przechowywanych przez przeglądarkę może spowodować wylogowanie ze stron i usunąć treści offline. Czyszczenie danych pamięci podręcznej nie wpłynie na zachowane dane logowania.
 clear-site-data-close-key =
     .key = w
-clear-site-data-cookies = Ciasteczka i dane stron
+# The parameters in parentheses in this string describe disk usage
+# in the format ($amount $unit), e.g. "Cookies and Site Data (24 KB)"
+# Variables:
+#   $amount (Number) - Amount of site data currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+clear-site-data-cookies-with-data =
+    .label = Ciasteczka i dane stron ({ $amount } { $unit })
+    .accesskey = C
+# This string is a placeholder for while the data used to fill
+# clear-site-data-cookies-with-data is loading. This placeholder is usually
+# only shown for a very short time (< 1s), so it should be very similar
+# or the same as clear-site-data-cookies-with-data (except the amount and unit),
+# to avoid flickering.
+clear-site-data-cookies-empty =
+    .label = Ciasteczka i dane stron
     .accesskey = C
 clear-site-data-cookies-info = Może skutkować wylogowaniem ze stron po wyczyszczeniu
-clear-site-data-cache = Treści zachowane w pamięci podręcznej
+# The parameters in parentheses in this string describe disk usage
+# in the format ($amount $unit), e.g. "Cached Web Content (24 KB)"
+# Variables:
+#   $amount (Number) - Amount of cache currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+clear-site-data-cache-with-data =
+    .label = Treści zachowane w pamięci podręcznej ({ $amount } { $unit })
+    .accesskey = T
+# This string is a placeholder for while the data used to fill
+# clear-site-data-cache-with-data is loading. This placeholder is usually
+# only shown for a very short time (< 1s), so it should be very similar
+# or the same as clear-site-data-cache-with-data (except the amount and unit),
+# to avoid flickering.
+clear-site-data-cache-empty =
+    .label = Treści zachowane w pamięci podręcznej
     .accesskey = T
 clear-site-data-cache-info = Skutkuje koniecznością ponownego pobrania obrazów i innych danych przez strony
 clear-site-data-cancel =
