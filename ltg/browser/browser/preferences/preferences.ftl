@@ -308,6 +308,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Jauni lūgi i cilnes
+home-new-windows-tabs-description2 = Izavielej, kū rōdēt atdorut jaunu lopu, lūgu ci cilni.
 
 ## Home Section - Home Page Customization
 

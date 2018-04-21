@@ -304,6 +304,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Izmekleit">
 <!ENTITY inspectContextMenu.accesskey "I">
 
+<!ENTITY inspectA11YContextMenu.label     "Porbaudēt pīejameibys īstatejumus">
+
 <!ENTITY fileMenu.label         "Fails">
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "Jauna cilņu skreine">
@@ -997,6 +999,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Atslēgt paplašinojumu">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
+<!ENTITY homepageControlled.message "Lopu, kuru atrōda pi jaunas cilnes attaisiešonys, ir izmainiejs papyldynōjums. Ka tu tō nagribi, vari atcelt vysas izmaiņas.">
+<!ENTITY homepageControlled.header.message "Tova sōkuma lopa ir izmaineita.">
+<!ENTITY homepageControlled.keepButton.label "Paturēt izmaiņis">
+<!ENTITY homepageControlled.keepButton.accesskey "P">
+<!ENTITY homepageControlled.disableButton.label "Atslēgt paplašinojumu">
+<!ENTITY homepageControlled.disableButton.accesskey "A">
+
 <!ENTITY pageActionButton.tooltip "Lopys darbeibys">
 <!ENTITY pageAction.addToUrlbar.label "Davīnōt adreses laukam">
 <!ENTITY pageAction.removeFromUrlbar.label "Nūjimt nu adreses lauka">
@@ -1006,6 +1015,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "Syuteit cilni iz īreici">
 <!ENTITY sendToDevice.syncNotReady.label "Syncing Devices…">
+
+<!ENTITY pageAction.shareUrl.label "Daleitīs">
 
 <!ENTITY libraryButton.tooltip "Skateitīs viesturi, saglobōtōs grōmotzeimes i daudz kū cytu">
 
