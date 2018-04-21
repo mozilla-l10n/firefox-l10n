@@ -75,6 +75,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsProcessCount "Saityno turinio procesai">
 
+<!ENTITY aboutSupport.enterprisePolicies "Įmonės nuostatai">
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "„Google“ raktas">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "„Mozillos“ buvimo vietos nustatymo paslaugos raktas">

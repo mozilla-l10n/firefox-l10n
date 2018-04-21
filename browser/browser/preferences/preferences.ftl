@@ -499,6 +499,9 @@ privacy-header = Naršyklės privatumas
 ## Privacy Section - Forms
 
 forms-header = Formos ir slaptažodžiai
+forms-ask-to-save-logins =
+    .label = Klausti, ar norite įrašyti svetainių prisijungimus ir slaptažodžius
+    .accesskey = r
 forms-exceptions =
     .label = Išimtys…
     .accesskey = š
