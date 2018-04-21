@@ -86,6 +86,7 @@
 <!ENTITY  rememberActions.removeCookies.label "dzēst atseviškys seikdatnes">
 <!ENTITY  rememberActions.post.label          ".">
 
+<!ENTITY  rememberDescription1.label      "&brandShortName; atcerāsīs tovu porlyukōšonys, lejupīlōžu, formu un mekleišonys viesturi.">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; izmantuots taidus pat īstatiejumus kai privatuos puorlūkuošonys režymā i puorlūkojūt šķārsteiklu nasaglobuos viesturi.">
 
