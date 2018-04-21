@@ -181,6 +181,22 @@ containers-remove-button =
 
 ## Sync Section - Signed in
 
+sync-manage-account = Dugumi' Kuenda
+    .accesskey = D
+sync-sign-in =
+    .label = Gayi'i sesión
+    .accesskey = G
+sync-signedin-settings-header = Nagi'iô' daj huin ruhuô' Sync
+sync-engine-bookmarks =
+    .label = Sa raj sun nichrò' doj
+    .accesskey = S
+sync-engine-history =
+    .label = Sa gini’iājt
+    .accesskey = S
+sync-engine-logins =
+    .label = Nej riña ayi'ì' sesión
+    .tooltiptext = Gara sun nej da'nga 'ngà nun sa'
+    .accesskey = L
 
 ## Privacy Section
 
@@ -194,6 +210,8 @@ history-header = Daran sa gahuin
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-never-option =
+    .label = Nitaj ama
 
 ## Privacy Section - Address Bar
 
