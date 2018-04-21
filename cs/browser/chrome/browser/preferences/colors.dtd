@@ -6,7 +6,7 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overrideDefaultPageColors2.label       "Použít vámi nastavené barvy místo definovaných stránkou">
+<!ENTITY  overrideDefaultPageColors2.label       "Použít vámi nastavené barvy místo barev určených stránkou">
 <!ENTITY  overrideDefaultPageColors2.accesskey   "o">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Vždy">

@@ -11,7 +11,7 @@ colors-window =
         }
 colors-close-key =
     .key = w
-colors-page-override = Použít vámi nastavené barvy místo definovaných stránkou
+colors-page-override = Použít vámi nastavené barvy místo barev určených stránkou
     .accesskey = o
 colors-page-override-option-always =
     .label = Vždy
