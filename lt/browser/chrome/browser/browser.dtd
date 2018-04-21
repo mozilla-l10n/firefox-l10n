@@ -999,6 +999,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Išjungti priedą">
 <!ENTITY newTabControlled.disableButton.accesskey "I">
 
+<!ENTITY homepageControlled.message "Kažkuris priedas pakeitė tai, ką matote kaip savo pradžios tinklalapį. Jei nenorite šio pakeitimo, galite atkurti savo nuostatas.">
+<!ENTITY homepageControlled.header.message "Pasikeitė jūsų pradžios tinklalapis.">
+<!ENTITY homepageControlled.keepButton.label "Palikti pakeitimus">
+<!ENTITY homepageControlled.keepButton.accesskey "k">
+<!ENTITY homepageControlled.disableButton.label "Išjungti priedą">
+<!ENTITY homepageControlled.disableButton.accesskey "j">
+
 <!ENTITY pageActionButton.tooltip "Tinklalapio veiksmai">
 <!ENTITY pageAction.addToUrlbar.label "Pridėti į adreso lauką">
 <!ENTITY pageAction.removeFromUrlbar.label "Pašalinti iš adreso lauko">
@@ -1008,6 +1015,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "Siųsti kortelę į įrenginį">
 <!ENTITY sendToDevice.syncNotReady.label "Sinchronizuojami įrenginiai…">
+
+<!ENTITY pageAction.shareUrl.label "Dalintis">
 
 <!ENTITY libraryButton.tooltip "Peržiūrėti žurnalą, adresyno įrašus ir daugiau">
 
