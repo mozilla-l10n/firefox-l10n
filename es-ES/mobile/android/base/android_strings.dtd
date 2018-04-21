@@ -287,7 +287,7 @@
 <!ENTITY pref_feature_tips_notification "Consejos sobre productos y características">
 <!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification_summary"-->
-<!ENTITY pref_feature_tips_notification_summary "Más información sobre el uso de &brandShortName; y otros productos de &vendorShortName">
+<!ENTITY pref_feature_tips_notification_summary "Más información sobre el uso de &brandShortName; y otros productos de &vendorShortName;">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
