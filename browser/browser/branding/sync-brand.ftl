@@ -10,6 +10,6 @@
 # and kept in English.
 -fxaccount-brand-name =
     {
-	        [lowercase] compte Firefox
-	       *[uppercase] Compte Firefox
+        [lowercase] compte Firefox
+       *[uppercase] Compte Firefox
     }
