@@ -5,3 +5,6 @@
 <!ENTITY setPassword.title                 "Master-Passwuert änneren">
 <!ENTITY setPassword.oldPassword.label     "Aktuellt Passwuert:">
 <!ENTITY setPassword.newPassword.label     "Neit Passwuert aginn:">
+<!ENTITY setPassword.reenterPassword.label "Neit Passwuert (nach eng Kéier):">
+<!ENTITY setPassword.meter.label           "Qualitéit vum Passwuert">
+<!ENTITY setPassword.meter.loading         "Lueden">
