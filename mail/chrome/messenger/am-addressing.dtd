@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xul -->
 
 <!ENTITY addressing.label          "Mezuak prestatzea eta helbideratzea">
 <!ENTITY addressingGroupTitle.label "Helbideratzea">
@@ -16,8 +16,8 @@
 <!ENTITY directories.label         "Erabili beste LDAP zerbitzari bat:">
 <!ENTITY directories.accesskey     "D">
 <!ENTITY directoriesNone.label     "Bat ere ez">
-<!-- am-addressing.xul -->
 
+<!-- am-addressing.xul -->
 
 <!ENTITY compositionGroupTitle.label          "Mezuak prestatzea">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
@@ -28,6 +28,9 @@
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY then.label                           "Orduan,">
 <!ENTITY then.accesskey                       "O">
+<!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY quoting.label                        "Aipamena noiz,">
+<!ENTITY quoting.accesskey                    "A">
 <!ENTITY aboveQuote.label                     "hasi nire erantzuna aipamen-testuaren aurretik">
 <!ENTITY belowQuote.label                     "hasi nire erantzuna aipamen-testuaren ondoren">
 <!ENTITY selectAndQuote.label                 "hautatu zita">
