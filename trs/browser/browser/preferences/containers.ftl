@@ -40,5 +40,7 @@ containers-color-red =
     .label = Sa marè
 containers-color-pink =
     .label = Pink
+containers-icon-fingerprint =
+    .label = Da'nga' ra'a
 containers-icon-food =
     .label = Nihiàa

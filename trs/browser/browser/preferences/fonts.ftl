@@ -7,6 +7,41 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-georgian =
+    .label = Yeoryiâno
+fonts-langgroup-el =
+    .label = Griegôj o
+fonts-langgroup-gujarati =
+    .label = Gujaratî
+fonts-langgroup-gurmukhi =
+    .label = Gurmuki
+fonts-langgroup-japanese =
+    .label = Japonês
+fonts-langgroup-hebrew =
+    .label = Ebrêo
+fonts-langgroup-kannada =
+    .label = Kanadâ
+fonts-langgroup-khmer =
+    .label = Mêr
+fonts-langgroup-korean =
+    .label = Koreâno
+# Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+fonts-langgroup-latin =
+    .label = Latîn
+fonts-langgroup-malayalam =
+    .label = Malayalâm
+fonts-langgroup-math =
+    .label = Matematicâ
+fonts-langgroup-odia =
+    .label = Ôdia
+fonts-langgroup-sinhala =
+    .label = Sinalâ
+fonts-langgroup-tamil =
+    .label = Tamîl
+fonts-langgroup-telugu =
+    .label = Telegû
+fonts-langgroup-thai =
+    .label = Tailandês
 
 ## Default fonts and their sizes
 
