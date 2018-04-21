@@ -266,6 +266,7 @@ performance-limit-content-process-option = सामग्री प्रक्
     .accesskey = l
 performance-limit-content-process-enabled-desc = एकाधिक टैब का उपयोग करते समय अतिरिक्त सामग्री प्रक्रियाओं में सुधार हो सक हैं, लेकिन इससे अधिक मेमोरी का उपयोग होगा.
 performance-limit-content-process-disabled-desc = कंटेंट प्रक्रियाओं की संख्या केवल मल्टीप्रासेस { -brand-short-name } के साथ बदली जा सकती है. <a>जाँचना सीखें कि क्या मल्टीप्रासेस सक्रिय है</a>
+performance-limit-content-process-blocked-desc = सामग्री प्रक्रियाओं की संख्या को संशोधित करना केवल multiprocess { -brand-short-name } के साथ ही संभव है. <a data-l10n-name="learn-more"> जानें कि कैसे जांच करें यदि multiprocess सक्षम है </a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
