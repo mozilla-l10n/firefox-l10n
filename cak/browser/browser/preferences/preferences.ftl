@@ -496,6 +496,9 @@ privacy-header = Richinanem Okik'amaya'l
 ## Privacy Section - Forms
 
 forms-header = Nojwuj & Ewan taq Tzij
+forms-ask-to-save-logins =
+    .label = Tik'utüx chi rij ri kiyakik kitikirib'al taq molojri'ïl chuqa' ri ewan taq kitzij taq ruxaq ajk'amaya'l
+    .accesskey = r
 forms-exceptions =
     .label = Taq man relik ta…
     .accesskey = e

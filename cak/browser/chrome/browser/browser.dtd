@@ -999,6 +999,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Tichup ri K'amal">
 <!ENTITY newTabControlled.disableButton.accesskey "T">
 
+<!ENTITY homepageControlled.message "Jun k'amal xujäl ri ruxaq natz'ët achi'el tikirib'äl ruxaq. Yatikïr natzolij ri taq anuk'ulem we man niqa ta chawäch re jaloj re'.">
+<!ENTITY homepageControlled.header.message "Xajäl ri tikirib'äl ruxaq.">
+<!ENTITY homepageControlled.keepButton.label "Kek'oje' na ri taq Jaloj">
+<!ENTITY homepageControlled.keepButton.accesskey "K">
+<!ENTITY homepageControlled.disableButton.label "Tichup ri K'amal">
+<!ENTITY homepageControlled.disableButton.accesskey "T">
+
 <!ENTITY pageActionButton.tooltip "Taq rub'anoj ruxaq">
 <!ENTITY pageAction.addToUrlbar.label "Titz'aqatisäx ri Kikajtz'ik Ochochib'äl">
 <!ENTITY pageAction.removeFromUrlbar.label "Tiyuj el chupam ri Kikajtz'ik Ochoch">
@@ -1008,6 +1015,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "Titaq Ruwi' pan Okisaxel">
 <!ENTITY sendToDevice.syncNotReady.label "Tajin yexim ri taq Okisaxel…">
+
+<!ENTITY pageAction.shareUrl.label "Tikomonïx">
 
 <!ENTITY libraryButton.tooltip "Titz'et ri natab'äl, yakon taq yaketal, chuqa' ch'aqa' chik">
 
