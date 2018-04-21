@@ -57,7 +57,7 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.label              "ყველა ჩანართის ჩანიშვნა…">
 <!ENTITY  bookmarkAllTabs.accesskey          "შ">
 <!ENTITY  undoCloseTab.label                 "დახურული ჩანართის დაბრუნება">
-<!ENTITY  undoCloseTab.accesskey             "ხ">
+<!ENTITY  undoCloseTab.accesskey             "ბ">
 <!ENTITY  closeTab.label                     "ჩანართის დახურვა">
 <!ENTITY  closeTab.accesskey                 "უ">
 
@@ -98,7 +98,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "ყველა ჩანართის ჩანიშვნა…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "შ">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "დახურული ჩანართის დაბრუნება">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "დ">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "ბ">
 
 <!ENTITY pageSourceCmd.label "გვერდის წყარო">
 <!ENTITY pageSourceCmd.accesskey "წ">
