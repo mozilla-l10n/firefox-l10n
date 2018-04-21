@@ -999,6 +999,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Кеңейтуді сөндіру">
 <!ENTITY newTabControlled.disableButton.accesskey "д">
 
+<!ENTITY homepageControlled.message "Үй беті ретінде көретін бетті кеңейту өзгерткен. Бұл өзгерісті қаламасаңыз, өз баптауларыңызды қалпына келтіре аласыз.">
+<!ENTITY homepageControlled.header.message "Сіздің үй бетіңіз өзгертілген.">
+<!ENTITY homepageControlled.keepButton.label "Өзгерістерді сақтау">
+<!ENTITY homepageControlled.keepButton.accesskey "с">
+<!ENTITY homepageControlled.disableButton.label "Кеңейтуді сөндіру">
+<!ENTITY homepageControlled.disableButton.accesskey "д">
+
 <!ENTITY pageActionButton.tooltip "Бет әрекеттері">
 <!ENTITY pageAction.addToUrlbar.label "Адрес жолағына қосу">
 <!ENTITY pageAction.removeFromUrlbar.label "Адрес жолағынан алып тастау">
@@ -1008,6 +1015,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "Бетті құрылғыға жіберу">
 <!ENTITY sendToDevice.syncNotReady.label "Құрылғыларды синхрондау…">
+
+<!ENTITY pageAction.shareUrl.label "Бөлісу">
 
 <!ENTITY libraryButton.tooltip "Тарихты, сақталған бетбелгілерді қарау және т.б.">
 
