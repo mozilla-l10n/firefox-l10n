@@ -986,11 +986,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY newTabControlled.header.message "Stran novega zavihka se je spremenila.">
 <!ENTITY newTabControlled.keepButton.label "Ohrani spremembe">
-<!ENTITY newTabControlled.keepButton.accesskey "O">
 <!ENTITY newTabControlled.restoreButton.label "Obnovi nastavitve">
 <!ENTITY newTabControlled.restoreButton.accesskey "b">
 
 <!ENTITY newTabControlled.disableButton.label "Onemogoči razširitev">
+
 
 <!ENTITY pageActionButton.tooltip "Dejanja strani">
 <!ENTITY pageAction.addToUrlbar.label "Dodaj v naslovno vrstico">
@@ -1001,6 +1001,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "Pošlji zavihek na napravo">
 <!ENTITY sendToDevice.syncNotReady.label "Sinhroniziranje naprav ...">
+
 
 <!ENTITY libraryButton.tooltip "Prikaži zgodovino, shranjene zaznamke in drugo">
 
