@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY minimizeWindow.key       "s">
+<!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "Asğariyleştir">
 <!ENTITY bringAllToFront.label    "Episini Ögge Ketir">
 <!ENTITY zoomWindow.label         "Miqyasla">
@@ -43,9 +43,9 @@
 <!ENTITY servicesMenuMac.label          "Hızmetler">
 
 <!ENTITY hideThisAppCmdMac2.label       "&brandShorterName; Gizlensin">
-<!ENTITY hideThisAppCmdMac2.commandkey  "G">
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Digerlerini Gizle">
-<!ENTITY hideOtherAppsCmdMac.commandkey "G">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Episini Köster">
