@@ -282,6 +282,13 @@
 <!ENTITY pref_whats_new_notification "D acu i d amaynut deg &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Issin ɣef tmahilin timaynutin send aleqqem">
 
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!ENTITY pref_feature_tips_notification "Aɣeẓan akked timahaltin">
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+<!ENTITY pref_feature_tips_notification_summary "Issin ugar γef useqdec n &brandShortName; akked isenfaṛen-nniḍen &vendorShortName;">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "Timahihilin tirmitanin">
@@ -422,7 +429,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "Amazan n ineqqisen n uɣelluy &brandShortName; ">
 <!ENTITY datareporting_fhr_summary2 "Ad yebḍu isefka akked &vendorShortName; ɣef tezmert n iminig-inek, udiɣ ad d-yefk tallalt akken ad tegzuḍ timellit n iminig-inek">
-<!ENTITY datareporting_abouthr_title "Wali aneqqis-iw n tezmert">
 <!ENTITY datareporting_telemetry_title "Tilisɣelt">
 <!ENTITY datareporting_telemetry_summary "Ad yebḍu isefka n timellit, aseqdec, arrum d usugen n yiminig-inek akked &vendorShortName; akken ad aɣ-d-yefk tallalt i usnerni d useggem n &brandShortName;">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; ad yazen aneqqis n uɣelluy akken &vendorShortName; ad yizmir ad iserked u ad iɣelles ugar iminig-inek.">
