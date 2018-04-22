@@ -91,11 +91,50 @@ fonts-monospace-size = Gréisst
     .accesskey = e
 fonts-minsize = Mindestschrëftgréisst:
     .accesskey = o
+fonts-minsize-none =
+    .label = Keng
+fonts-allow-own =
+    .label = De Säiten erlaben hir eege Schrëftaarten ze wielen, amplaz vun Denger Wiel hei driwwer
+    .accesskey = A
 
 ## Text Encodings
 ##
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-header = Textcodéierung fir vereelzten Inhalt
+fonts-languages-fallback-desc = Dës Textcodéierung gëtt genotzt fir vereelzten Inhalt den seng Codéierung net ugëtt.
+fonts-languages-fallback-label = Ersatz-Textcodéierung
+    .accesskey = T
+fonts-languages-fallback-name-auto =
+    .label = Standard fir déi aktuell Sprooch
 fonts-languages-fallback-name-arabic =
     .label = Arabesch
+fonts-languages-fallback-name-baltic =
+    .label = Baltesch
+fonts-languages-fallback-name-ceiso =
+    .label = Mëtteleuropäesch, ISO
+fonts-languages-fallback-name-cewindows =
+    .label = Mëtteleuropäesch, Windows
+fonts-languages-fallback-name-simplified =
+    .label = Chinesesch, vereinfacht
+fonts-languages-fallback-name-traditional =
+    .label = Chinesesch, traditionell
+fonts-languages-fallback-name-cyrillic =
+    .label = Kyrillesch
+fonts-languages-fallback-name-greek =
+    .label = Griichesch
+fonts-languages-fallback-name-hebrew =
+    .label = Hebräesch
+fonts-languages-fallback-name-japanese =
+    .label = Japanesch
+fonts-languages-fallback-name-korean =
+    .label = Koreanesch
+fonts-languages-fallback-name-thai =
+    .label = Thai
+fonts-languages-fallback-name-turkish =
+    .label = Tierkesch
+fonts-languages-fallback-name-vietnamese =
+    .label = Vietnamesesch
+fonts-languages-fallback-name-other =
+    .label = Aner (inklusiv Westeuropäesch)

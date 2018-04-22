@@ -5,6 +5,8 @@
 languages-window =
     .title = Sproochen
     .style = width: 30em
+languages-close-key =
+    .key = w
 languages-description = Verschidden Internetsäite sinn a méi wéi enger Sprooch disponibel. Sich d'Sproochen eraus an deenen dës Säite gewise sollen ginn an der Reiefolleg vun Denge Preferenzen
 languages-customize-moveup =
     .label = No uewe réckelen
