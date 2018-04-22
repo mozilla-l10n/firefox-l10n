@@ -502,6 +502,9 @@ privacy-header = Zasebnost brskalnika
 ## Privacy Section - Forms
 
 forms-header = Obrazci in gesla
+forms-ask-to-save-logins =
+    .label = Ponujaj shranjevanje prijav in gesel za spletne strani
+    .accesskey = g
 forms-exceptions =
     .label = Izjeme …
     .accesskey = i
@@ -676,14 +679,14 @@ collection-header = Zbiranje in uporaba podatkov { -brand-short-name }a
 collection-description = Trudimo se, da vam ponudimo izbiro in da zbiramo samo tisto, kar potrebujemo za razvoj in izboljšave { -brand-short-name }a za vse uporabnike. Pred sprejemanjem osebnih podatkov vas vedno vprašamo za dovoljenje.
 collection-privacy-notice = Obvestilo o zasebnosti
 collection-health-report =
-    .label = Dovoli { -brand-short-name }u pošiljanje tehničnih podatkov in podatkov o uporabi Mozilli
+    .label = Dovoli { -brand-short-name }u pošiljanje tehničnih podatkov in podatkov o uporabi organizaciji { -vendor-short-name }
     .accesskey = h
 collection-health-report-link = Več o tem
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Pošiljanje podatkov je onemogočeno za to nastavitev graditve
 collection-browser-errors =
-    .label = Dovoli { -brand-short-name }u pošiljanje poročil o napakah brskalnika (vključno s sporočili o napakah) Mozilli
+    .label = Dovoli { -brand-short-name }u pošiljanje poročil o napakah brskalnika (vključno s sporočili o napakah) organizaciji { -vendor-short-name }
     .accesskey = b
 collection-browser-errors-link = Več o tem
 collection-backlogged-crash-reports =
