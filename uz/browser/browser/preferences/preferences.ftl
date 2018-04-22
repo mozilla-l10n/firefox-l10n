@@ -335,7 +335,7 @@ use-current-pages =
         }
     .accesskey = J
 choose-bookmark =
-    .label = Xatcho‘plardan foydalanish
+    .label = Xatcho‘pdan foydalanish
     .accesskey = X
 restore-default =
     .label = Asliga tiklash
@@ -349,9 +349,10 @@ search-bar-hidden =
 search-bar-shown =
     .label = Asboblar paneliga qidiruv panelini qo‘shish
 search-engine-default-header = Standart qidiruv tizimi
+search-engine-default-desc = Manzil va qidiruv panelida foydalanish uchun asosiy qidiruv tizimini tanlang.
 search-suggestions-option =
-    .label = Qidiruv tavsiyalarini keltirish
-    .accesskey = Q
+    .label = Izlash uchun tavsiya berish
+    .accesskey = t
 search-show-suggestions-url-bar-option =
     .label = Manzil panelida qidiruv tavsiyalari ko‘rsatilsin
     .accesskey = l
@@ -513,12 +514,24 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Tarix
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label = { -brand-short-name }
+    .accesskey = w
 history-remember-option-all =
     .label = Tarix eslab qolinsin
 history-remember-option-never =
     .label = Tarix hech qachon eslab qolinmasin
 history-remember-option-custom =
     .label = Tarix uchun boshqa sozlamalardan foydalanish
+history-remember-description = { -brand-short-name } kirilgan saytlar, yuklanmalar, anketalar va qidiruv tarixini eslab qoladi.
 history-dontremember-description = { -brand-short-name } xuddi shu moslamalardan shaxsiy ko‘rish sifatida foydalanadi va tarixni saqlab qolmaydi.
 history-private-browsing-permanent =
     .label = Doimo maxfiy ko‘rish usulidan foydalanish
@@ -543,6 +556,22 @@ history-clear-button =
 
 sitedata-header = Kuki va sayt ma’lumotlari
 sitedata-learn-more = Batafsil ma’lumot
+sitedata-accept-cookies-option =
+    .label = Sayt ma’lumot va kukilariga ruxsat bering (tavsiya qilinadi)
+    .accesskey = a
+sitedata-block-cookies-option =
+    .label = Sayt ma’lumotlari va kukilarni bloklash (saytlarning buzilishiga sabab bo‘lishi mumkin)
+    .accesskey = S
+sitedata-keep-until = Saqlash muddati
+    .accesskey = u
+sitedata-keep-until-expire =
+    .label = Eskirish muddati
+sitedata-keep-until-closed =
+    .label = { -brand-short-name } yopildi
+sitedata-accept-third-party-desc = Uchinchi tomon sayt ma’lumotlari va kukilariga rozi bo‘lish
+    .accesskey = y
+sitedata-accept-third-party-always-option =
+    .label = Doimo
 sitedata-accept-third-party-visited-option =
     .label = Kirilganlardan
 sitedata-accept-third-party-never-option =
@@ -585,12 +614,28 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Hech qachon
     .accesskey = H
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Ma’lum bo‘lgan kuzatuvchilardani bloklash uchun "Maxfiy ko‘rish" rejimida "Kuzatishdan himoyalanish" funksiyasidan foydalaning.
+    .accesskey = m
 tracking-exceptions =
     .label = Istisnolar…
     .accesskey = I
+tracking-change-block-list =
+    .label = Bloklash ro‘yxatini o‘zgartirish
+    .accesskey = n
 
 ## Privacy Section - Permissions
 
+permissions-header = Huquqlar
+permissions-location = Manzili
+permissions-location-settings =
+    .label = Sozlamalar
+    .accesskey = S
+permissions-camera = Kamera
+permissions-camera-settings =
+    .label = Sozlamalar…
+    .accesskey = s
 permissions-microphone = Mikrofon
 permissions-microphone-settings =
     .label = Sozlamalar…
@@ -600,12 +645,18 @@ permissions-notification-settings =
     .label = Sozlamalar…
     .accesskey = t
 permissions-notification-link = Batafsil ma’lumot
+permissions-notification-pause =
+    .label = { -brand-short-name } qayta ishga tushgunga qadar eslatmalar to‘xtatilsin
+    .accesskey = q
 permissions-block-popups =
     .label = Paydo bo‘luvchi oynalarni bloklash
     .accesskey = P
 permissions-block-popups-exceptions =
     .label = Istisnolar…
     .accesskey = I
+permissions-addon-install-warning =
+    .label = Saytlar qo‘shimcha dasturlarni o‘rnatishga uringanda menga ogohlantirish ko‘rsatilsin
+    .accesskey = r
 permissions-addon-exceptions =
     .label = Istisnolar
     .accesskey = I
@@ -627,6 +678,7 @@ security-header = Xavfsizlik
 security-enable-safe-browsing =
     .label = Xavfli va yolg‘on saytlarni bloklash
     .accesskey = b
+security-enable-safe-browsing-link = Batafsil ma’lumot
 security-block-downloads =
     .label = Xavfli yuklab olishlarni bloklash
     .accesskey = X
@@ -647,3 +699,9 @@ certs-select-ask-option =
 certs-enable-ocsp =
     .label = so‘rovi OCSP javob berish serverlari sertifikatlarning joriy yaroqliligini tasdiqlash uchun
     .accesskey = s
+certs-view =
+    .label = Sertifikatlarni ko‘rish
+    .accesskey = k
+certs-devices =
+    .label = Xavfsizlik qurilmalari
+    .accesskey = X
