@@ -604,6 +604,7 @@ addressbar-suggestions-settings = Qidiruv tizimi tavsiyalari uchun sozlamalarni 
 ## Privacy Section - Tracking
 
 tracking-header = Kuzatuvdan himoyalanish
+tracking-desc = "Kuzatishdan himoyalanish" funksiyasi  turli qurilmalardagi ma’lumotlaringizni yig‘adigan onlayn kuzatuvchilarni bloklaydi. <a data-l10n-name="learn-more">"Kuzatishdan himoyalanish:"va maxfiyligingiz haqida batafsil ma’lumot"
 tracking-mode-label = Ma’lum kuzatuvchilarni bloklash uchun kuzatishdan himoya vositasidan foydalaning
 tracking-mode-always =
     .label = Doimo
@@ -660,9 +661,14 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Istisnolar
     .accesskey = I
+permissions-a11y-privacy-checkbox =
+    .label = Brauzerga kiruvchi xizmatlarni bloklash
+    .accesskey = b
+permissions-a11y-privacy-link = Batafsil ma’lumot
 
 ## Privacy Section - Data Collection
 
+collection-header = { -brand-short-name } ma’lumotlarni to‘plash va foydalanish
 collection-health-report-link = Batafsil ma’lumot
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
