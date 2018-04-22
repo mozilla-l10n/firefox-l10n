@@ -279,7 +279,7 @@
 <!ENTITY pref_tracking_protection_enabled_pb "W priwatnym modusu zmóžnjeny">
 <!ENTITY pref_tracking_protection_disabled "Znjemóžnjeny">
 
-<!ENTITY pref_whats_new_notification "Što je nowe w &brandShortName;">
+<!ENTITY pref_whats_new_notification "Nowe funkcije a změny w &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Zhońće wjace wo nowych funkcijach po aktualizaciji">
 
 <!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
