@@ -238,8 +238,8 @@ play-drm-content =
 play-drm-content-learn-more = Dalšne informacije
 update-application-title = Aktualizacije { -brand-short-name }
 update-application-description = Źaržćo { -brand-short-name } aktualny, za nejlěpše wugbaśe, stabilnosć a wěstotu.
-update-application-info = Wersija { $version } <a>Co jo nowe</a>
-update-application-version = Wersija { $version } <a data-l10n-name="learn-more">Co jo nowe</a>
+update-application-info = Wersija { $version } <a>Nowe funkcije a změny</a>
+update-application-version = Wersija { $version } <a data-l10n-name="learn-more">Nowe funkcije a změny</a>
 update-history =
     .label = Aktualizacisku historiju pokazaś…
     .accesskey = h
