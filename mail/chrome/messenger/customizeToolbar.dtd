@@ -9,6 +9,7 @@
 <!ENTITY iconsAndText.label       "图标和文字">
 <!ENTITY icons.label              "图标">
 <!ENTITY text.label               "文字">
+<!ENTITY iconsBesideText.label    "文字旁的图示">
 <!ENTITY useSmallIcons.label      "使用小图标">
 <!ENTITY restoreDefaultSet.label  "恢复默认设置">
 <!ENTITY addNewToolbar.label      "添加新工具栏">
