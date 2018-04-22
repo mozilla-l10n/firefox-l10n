@@ -45,7 +45,7 @@ policies-notice =
 pane-general-title = Umumiy
 category-general =
     .tooltiptext = { pane-general-title }
-pane-home-title = Uy
+pane-home-title = Bosh sahifa
 category-home =
     .tooltiptext = { pane-home-title }
 pane-search-title = Izlash
@@ -76,6 +76,13 @@ restart-later = Keyinroq qayta ishga tushirish
 ## Preferences UI Search Results
 
 search-results-header = Qidiruv natijalari
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Sozlamalar ichidan "<span data-l10n-name="query">" topilmadi.
+       *[other] Sozlamalar ichidan "<span data-l10n-name="query">" topilmadi.
+    }
+search-results-help-link = Yordam kerakmi? <a data-l10n-name="url">{ -brand-short-name }Yordam</a> sahifasiga kiring
 
 ## General Section
 
@@ -133,6 +140,11 @@ browser-containers-settings =
     .label = Sozlamalar
     .accesskey = s
 containers-disable-alert-title = Barcha Container oynalari yopilsinmi?
+containers-disable-alert-desc =
+    { $tabCount ->
+        [one] Konteyner oynasini o‘chirib qo‘ysangiz, { $tabCount } ta konteyner oynasi yopiladi.
+       *[other] Konteyner oynasini o‘chirib qo‘ysangiz, { $tabCount } ta konteyner oynasi yopiladi.
+    }
 containers-disable-alert-ok-button =
     { $tabCount ->
         [one] Konteynerda { $tabCount } ta ichki oynani yopish
@@ -212,8 +224,13 @@ applications-type-column =
 applications-action-column =
     .label = Amal
     .accesskey = A
+drm-content-header = Raqamli huquqlar boshqaruvi (DRM) kontenti
+play-drm-content =
+    .label = DRM boshqaruvdagi kontentni ishga tushirish
+    .accesskey = D
 play-drm-content-learn-more = Batafsil ma’lumot
 update-application-title = { -brand-short-name } yangilanishlari
+update-application-description = { -brand-short-name } tez, barqaror va xavfsiz bo‘lishi uchun muntazam yangilab turing.
 update-application-info = Versiyasi{ $version } <a>Yangi xususiyatlar</a>
 update-application-version = Versiyasi{ $version } <a data-l10n-name="learn-more">Yangi xususiyatlar</a>
 update-history =
@@ -287,13 +304,14 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Yangi oyna va ichki oynalar
+home-new-windows-tabs-description2 = Bosh sahifa, yangi oyna va ichki oynalarni ochganda nima ko‘rinishi kerakligini tanlang.
 
 ## Home Section - Home Page Customization
 
 home-homepage-mode-label = Bosh sahifa va yangi oynalar
 home-newtabs-mode-label = Yangi ichki oynalar
 home-restore-defaults =
-    .label = Standart holatga tiklash
+    .label = Asliga tiklash
     .accesskey = t
 # "Firefox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
@@ -320,8 +338,8 @@ choose-bookmark =
     .label = Xatcho‘plardan foydalanish
     .accesskey = X
 restore-default =
-    .label = Standart holatiga tiklash
-    .accesskey = S
+    .label = Asliga tiklash
+    .accesskey = t
 
 ## Search Section
 
@@ -334,8 +352,19 @@ search-engine-default-header = Standart qidiruv tizimi
 search-suggestions-option =
     .label = Qidiruv tavsiyalarini keltirish
     .accesskey = Q
+search-show-suggestions-url-bar-option =
+    .label = Manzil panelida qidiruv tavsiyalari ko‘rsatilsin
+    .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Manzil panelida brauzer tarixi bo‘yicha qidiruv tavsiyalari ko‘rsatilsin
 search-suggestions-cant-show = Qidiruv tavsiyalari manzil qatorida ko‘rsatilmaydi, chunki { -brand-short-name } brauzerini tarixni eslab qolmaydigan qilib sozlagansiz.
 search-one-click-header = Bir bosishda izlash qidiruv tizimlari
+search-one-click-desc = Izlanadigan so‘zlarni manzil va qidiruv paneliga kiritganingizda  uning ostida paydo bo‘ladigan muqobil qidiruv tizimlarini tanlang.
 search-choose-engine-column =
     .label = Qidiruv tizimlari
 search-choose-keyword-column =
