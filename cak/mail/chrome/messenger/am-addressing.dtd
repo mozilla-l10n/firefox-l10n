@@ -28,6 +28,9 @@
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY then.label                           "Ruma ri',">
 <!ENTITY then.accesskey                       "R">
+<!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY quoting.label                        "Toq noyöx,">
+<!ENTITY quoting.accesskey                    "n">
 <!ENTITY aboveQuote.label                     "titikirisäx ri rutzolixik nutzij pa ruwi' ri rucholajem tzij sik'in">
 <!ENTITY belowQuote.label                     "titikirisäx ri rutzolixik nutzij chuxe' ri rucholajem tzij sik'in">
 <!ENTITY selectAndQuote.label                 "ticha' ri rucholajem tzij sik'in">
