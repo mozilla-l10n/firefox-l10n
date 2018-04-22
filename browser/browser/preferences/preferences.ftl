@@ -305,6 +305,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Nouvelles fenêtres et nouveaux onglets
+home-new-windows-tabs-description2 = Choisissez ce qui est affiché lorsque vous ouvrez votre page d’accueil, de nouvelles fenêtres ou de nouveaux onglets.
 
 ## Home Section - Home Page Customization
 
@@ -495,6 +496,9 @@ privacy-header = Vie privée
 ## Privacy Section - Forms
 
 forms-header = Formulaires et mots de passe
+forms-ask-to-save-logins =
+    .label = Proposer d’enregistrer les identifiants et les mots de passe pour les sites web
+    .accesskey = r
 forms-exceptions =
     .label = Exceptions…
     .accesskey = x
