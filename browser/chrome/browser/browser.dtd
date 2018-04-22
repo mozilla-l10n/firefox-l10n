@@ -61,6 +61,7 @@ can reach it easily. -->
 <!ENTITY  closeTab.label                     "ਟੈਬ ਨੂੰ ਬੰਦ ਕਰੋ">
 <!ENTITY  closeTab.accesskey                 "c">
 
+<!ENTITY  hiddenTabs.label                   "ਟੈਬਾਂ ਲੁਕਾਓ">
 
 <!ENTITY  listAllTabs.label      "ਸਭ ਟੈਬਾਂ ਦੀ ਲਿਸਟ">
 
@@ -223,6 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "ਪੱਕੀ ਸਟੋਰੇਜ਼ 'ਚ ਡਾਟੇ ਨੂੰ ਸਟੋਰ ਕਰੋ">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "ਬਰਾਊਜ਼ਰ ਰਿਮੋਟ ਤੋਂ ਕੰਟਰੋਲ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ">
 
+<!ENTITY urlbar.webAuthnAnchor.tooltip                    "ਵੈੱਬ ਪਰਮਾਣਕਿਤਾ ਪੈਨਲ ਨੂੰ ਖੋਲ੍ਹੋ">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "ਸਾਈਟ ਨਾਲ ਆਪਣੇ ਕੈਮਰੇ ਅਤੇ/ਜਾਂ ਮਾਈਕਰੋਫ਼ੋਨ ਦੇ ਸਾਂਝਾ ਕਰਨ ਦਾ ਪਰਬੰਧ ਕਰੋ">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "ਸਾਈਟ ਨਾਲ ਆਪਣੇ ਮਾਈਕਰੋਫ਼ੋਨ ਦੇ ਸਾਂਝਾ ਕਰਨ ਦਾ ਪਰਬੰਧ ਕਰੋ">
@@ -994,6 +996,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "ਇਕਟੈਨਸ਼ਨ ਅਸਮਰੱਥ ਕਰੋ">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
+<!ENTITY homepageControlled.header.message "ਤੁਹਾਡਾ ਮੁੱਖ ਸਫ਼ਾ ਬਦਲਿਆ ਗਿਆ ਹੈ।">
+<!ENTITY homepageControlled.keepButton.label "ਤਬਦੀਲੀਆਂ ਰੱਖੋ">
+<!ENTITY homepageControlled.keepButton.accesskey "K">
+<!ENTITY homepageControlled.disableButton.label "ਇਕਟੈਨਸ਼ਨ ਅਸਮਰੱਥ ਕਰੋ">
+<!ENTITY homepageControlled.disableButton.accesskey "D">
+
 <!ENTITY pageActionButton.tooltip "ਸਫ਼ਾ ਕਾਰਵਾਈਆਂ">
 <!ENTITY pageAction.addToUrlbar.label "ਐਡਰੈੱਸ ਪੱਟੀ 'ਚ ਜੋੜੋ">
 <!ENTITY pageAction.removeFromUrlbar.label "ਐਡਰੈੱਸ ਪੱਟੀ ਤੋਂ ਹਟਾਓ">
@@ -1003,6 +1011,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "ਟੈਬ ਨੂੰ ਡਿਵਾਈਸ 'ਤੇ ਭੇਜੋ">
 <!ENTITY sendToDevice.syncNotReady.label "…ਡਿਵਾਈਸ ਸਿੰਕ ਕੀਤੇ ਜਾ ਰਹੇ ਹਨ">
+
+<!ENTITY pageAction.shareUrl.label "ਸਾਂਝਾ ਕਰੋ">
 
 <!ENTITY libraryButton.tooltip "ਅਤੀਤ, ਸੰਭਾਲੇ ਬੁੱਕਮਾਰਕ ਅਤੇ ਹੋਰ ਨੂੰ ਵੇਖੋ">
 
