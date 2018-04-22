@@ -6,7 +6,7 @@
 
 <!ENTITY generalTab.label                "ਆਮ">
 
-<!ENTITY useCursorNavigation.label       "ਪੇਜ਼ ਵਿੱਚ ਨੇਵੀਗੇਸ਼ਨ ਦੌਰਾਨ ਹਮੇਸ਼ਾਂ ਕਰਸਰ ਸਵਿੱਚਾਂ ਵੇਖੋ">
+<!ENTITY useCursorNavigation.label       "ਸਫ਼ਿਆਂ ਵਿੱਚ ਨੇਵੀਗੇਸ਼ਨ ਦੌਰਾਨ ਹਮੇਸ਼ਾਂ ਕਰਸਰ ਸਵਿੱਚਾਂ ਵੇਖੋ">
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchOnStartTyping.label       "ਜਿਵੇਂ ਤੁਸੀਂ ਲਿਖਣਾ ਸ਼ੁਰੂ ਕਰਦੇ ਹੋ ਤਾਂ ਨਾਲ ਨਾਲ ਖੋਜੋ">
 <!ENTITY searchOnStartTyping.accesskey   "x">
@@ -15,7 +15,7 @@
 
 <!ENTITY browsing.label                  "ਬਰਾਊਜ਼ਿੰਗ">
 
-<!ENTITY useAutoScroll.label             "ਆਟੋ-ਸਕਰੋਲਿੰਗ ਨੂੰ ਵਰਤੋਂ">
+<!ENTITY useAutoScroll.label             "ਆਪੇ-ਸਕਰੋਲਿੰਗ ਨੂੰ ਵਰਤੋਂ">
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "ਸਮੂਥ ਸਕਰੋਲਿੰਗ ਨੂੰ ਵਰਤੋਂ">
 <!ENTITY useSmoothScrolling.accesskey    "m">
@@ -39,9 +39,11 @@ available. -->
 <!ENTITY alwaysSubmitCrashReports1.label  "&brandShortName; ਨੂੰ ਕਰੈਸ਼ ਰਿਪੋਰਟਾਂ ਮੌਜ਼ੀਲਾ ਨੂੰ ਭੇਜਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 
+<!ENTITY collectBrowserErrors.label          "&brandShortName; ਨੂੰ ਬਰਾਊਜ਼ਰ ਗ਼ਲਤੀ ਰਿਪੋਰਟਾਂ (ਜਿਸ ਵਿੱਚ ਗ਼ਲਤੀ ਸੁਨੇਹੇ ਸ਼ਾਮਲ ਹਨ) ਨੂੰ ਮੌਜ਼ੀਲਾ ਨੂੰ ਭੇਜਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ">
 <!ENTITY collectBrowserErrors.accesskey      "b">
 <!ENTITY collectBrowserErrorsLearnMore.label "ਹੋਰ ਜਾਣੋ">
 
+<!ENTITY sendBackloggedCrashReports.label  "&brandShortName; ਨੂੰ ਤੁਹਾਡੇ ਤੌਰ 'ਤੇ ਬੈਕ-ਲਾਗ ਕਰੈਸ਼ ਰਿਪੋਰਟਾਂ ਭੇਜਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ">
 <!ENTITY sendBackloggedCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "ਹੋਰ ਜਾਣੋ">
 
@@ -139,6 +141,8 @@ available. -->
 <!ENTITY performanceSettingsLearnMore.label
                                          "ਹੋਰ ਜਾਣੋ">
 <!ENTITY limitContentProcessOption.label "ਸਮੱਗਰੀ ਕਾਰਵਾਈ ਹੱਦ">
+<!ENTITY limitContentProcessOption.description
+                                         "ਵੱਖ-ਵੱਖ ਟੈਬਾਂ ਵਰਤਣ ਦੇ ਦੌਰਾਨ ਵਧੀਕ ਸਮੱਗਰੀ ਕਾਰਵਾਈ ਨਾਲ ਕਾਰਗੁਜ਼ਾਰੀ ਸੁਧਰ ਸਕਦੀ ਹੈ, ਪਰ ਇਸ ਨਾਲ ਵੱਧ ਮੈਮੋਰੀ ਵੀ ਵਰਤੀ ਜਾਵੇਗੀ।">
 <!ENTITY limitContentProcessOption.accesskey   "L">
 <!ENTITY limitContentProcessOption.disabledDescriptionLink
                                          "ਕੀ ਬਹੁ-ਪਰੋਸੈਸ ਸਮਰੱਥ ਹੈ ਜਾਂ ਨਹੀਂ, ਇਸ ਬਾਰੇ ਪਤਾ ਕਿਵੇਂ ਕਰੀਏ ਦੇ ਬਾਰੇ ਜਾਣੋ">
