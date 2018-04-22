@@ -28,6 +28,9 @@
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY then.label                           "Entonces,">
 <!ENTITY then.accesskey                       "T">
+<!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY quoting.label                        "Cuando citando,">
+<!ENTITY quoting.accesskey                    "q">
 <!ENTITY aboveQuote.label                     "iniciar mi respuesta sobre el texto citado">
 <!ENTITY belowQuote.label                     "iniciar mi respuesta abajo del texto citado">
 <!ENTITY selectAndQuote.label                 "seleccionar el texto citado">
