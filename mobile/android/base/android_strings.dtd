@@ -282,6 +282,13 @@
 <!ENTITY pref_whats_new_notification "Kaj je novega v &brandShortName;u">
 <!ENTITY pref_whats_new_notification_summary "Spoznajte nove možnosti po posodobitvi">
 
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!ENTITY pref_feature_tips_notification "Nasveti o zmogljivostih">
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+<!ENTITY pref_feature_tips_notification_summary "Več o uporabi &brandShortName;a in drugih izdelkih organizacije &vendorShortName;">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "Eksperimentalne funkcije">
