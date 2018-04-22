@@ -138,7 +138,7 @@
 </ul>">
 
 <!ENTITY cspBlocked.title "已依照内容安全政策而拦截">
-<!ENTITY cspBlocked.longDesc "<p>&brandShortName; 阻止了这个页面的载入，因为这个页面的内容安全政策不允许其以这种方式被载入。</p>">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; 阻止了这个页面的载入，其内容安全政策不允许其以这种方式被载入。</p>">
 
 <!ENTITY corruptedContentErrorv2.title "内容损坏错误">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>您尝试查看的页面无法显示，因为检测到传输的数据含有错误。</p><ul><li>建议向此网站的管理员反馈这个问题。</li></ul>">
