@@ -285,6 +285,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = ਨਵੀਆਂ ਵਿੰਡੋਆਂ ਅਤੇ ਟੈਬਾਂ
+home-new-windows-tabs-description2 = ਚੁਣੋ ਕਿ ਤੁਸੀਂ ਕੀ ਵੇਖਣਾ ਚਾਹੁੰਦੇ ਹੋ, ਜਦੋਂ ਤੁਸੀਂ ਆਪਣੇ ਮੁੱਖ ਸਫ਼ੇ, ਨਵੀਆਂ ਵਿੰਡੋਆਂ ਅਤੇ ਨਵੀਆਂ ਟੈਬਾਂ ਖੋਲ੍ਹਦੇ ਹੋ।
 
 ## Home Section - Home Page Customization
 
@@ -404,7 +405,7 @@ sync-profile-picture =
 sync-disconnect =
     .label = …ਡਿਸਕਨੈਕਟ ਕਰੋ
     .accesskey = D
-sync-manage-account = ਖਾਤੇ ਦਾ ਪਰਬੰਧ ਕਰੋ
+sync-manage-account = ਖਾਤੇ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
     .accesskey = o
 sync-signedin-unverified = { $email } ਜਾਂਚਿਆ ਨਹੀਂ ਹੈ।
 sync-signedin-login-failure = ਮੁੜ-ਕੁਨੈਕਟ ਕਰਨ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ ਜੀ { $email }
@@ -475,6 +476,9 @@ privacy-header = ਬਰਾਊਜ਼ਰ ਪਰਦੇਦਾਰੀ
 ## Privacy Section - Forms
 
 forms-header = ਫਾਰਮ ਤੇ ਪਾਸਵਰਡ
+forms-ask-to-save-logins =
+    .label = ਵੈੱਬਸਾਈਟਾਂ ਲਈ ਲਾਗਇਨ ਅਤੇ ਪਾਸਵਰਡ ਸੰਭਾਲਣ ਲਈ ਪੁੱਛੋ
+    .accesskey = r
 forms-exceptions =
     .label = …ਛੋਟਾਂ
     .accesskey = x
