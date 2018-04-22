@@ -37,9 +37,15 @@ search-input-box =
             [windows] An den Optioune fannen
            *[other] An den Astellunge fannen
         }
+policies-notice =
+    { PLATFORM() ->
+        [windows] Deng Organisatioun huet d'Ännere vu verschidden Optiounen desaktivéiert. 
+       *[other] Deng Organisatioun huet d'Ännere vu verschidden Astellungen desaktivéiert. 
+    }
 pane-general-title = Allgemeng
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = Accueil
 category-home =
     .tooltiptext = { pane-home-title }
 pane-search-title = Sichen
@@ -70,10 +76,22 @@ restart-later = Méi spéit nei starten
 ## Preferences UI Search Results
 
 search-results-header = Sichresultater
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Sorry, keng Resultater an den Optiounen fir “<span data-l10n-name="query"></span>”.
+       *[other] Sorry, keng Resultater an den Astellunge fir “<span data-l10n-name="query"></span>”.
+    }
+search-results-help-link = Brauchs Du Hëllef? Besich de <a data-l10n-name="url">{ -brand-short-name } Support</a>
 
 ## General Section
 
 startup-header = Start
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = Gläichzäiteg Ausféierung vun { -brand-short-name } a Firefox erlaben
+get-started-not-logged-in = Bei { -sync-brand-short-name } umellen...
 get-started-configured = { -sync-brand-short-name }-Astellungen opmaachen
 always-check-default =
     .label = Ëmmer nokucken ob { -brand-short-name } de Standard-Browser ass
