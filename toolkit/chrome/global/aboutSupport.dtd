@@ -79,6 +79,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsProcessCount "Procesi spletne vsebine">
 
+<!ENTITY aboutSupport.enterprisePolicies "Pravilniki za podjetja">
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Ključ Google">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Ključ lokacijskih storitev Mozilla">
