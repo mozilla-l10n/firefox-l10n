@@ -998,6 +998,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Désactiver l’extension">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
+<!ENTITY homepageControlled.message "Une extension a modifié votre page d’accueil. Vous pouvez restaurer vos paramètres si vous n’acceptez pas ces modifications.">
 <!ENTITY homepageControlled.header.message "La page d’accueil a été modifiée.">
 <!ENTITY homepageControlled.keepButton.label "Conserver les modifications">
 <!ENTITY homepageControlled.keepButton.accesskey "C">
