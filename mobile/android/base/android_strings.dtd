@@ -21,7 +21,7 @@
 <!ENTITY firstrun_sync_message2 "Jatka siitä, mihin jäit.">
 <!ENTITY firstrun_sync_subtext2 "Käytä Sync-palvelua löytämään kirjanmerkit, salasanat ynnä muut &brandShortName;iin tallentamasi tiedot kaikilla laitteillasi.">
 <!ENTITY firstrun_signin_message "Yhdistä ja aloita">
-<!ENTITY firstrun_signin_button "Kirjaudu sisään Synciin">
+<!ENTITY firstrun_signin_button "Kirjaudu sisään Sync-palveluun">
 <!ENTITY  onboard_start_button_browser "Aloita selaaminen">
 <!ENTITY firstrun_button_notnow "Ei nyt">
 <!ENTITY firstrun_button_next "Seuraava">
@@ -282,6 +282,11 @@
 <!ENTITY pref_whats_new_notification "Mitä uutta &brandShortName;issa">
 <!ENTITY pref_whats_new_notification_summary "Lue lisää uusista ominaisuuksista päivittämisen jälkeen">
 
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "Kokeelliset ominaisuudet">
@@ -422,7 +427,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName;in terveydentilaraportti">
 <!ENTITY datareporting_fhr_summary2 "Antaa sinulle tietoa selaimesi suorituskyvystä ja jakaa tiedot selaimesi tilasta &vendorShortName;n kanssa">
-<!ENTITY datareporting_abouthr_title "Avaa terveydentilaraportti">
 <!ENTITY datareporting_telemetry_title "Kaukomittaustiedot">
 <!ENTITY datareporting_telemetry_summary "Lähetä &vendorShortName;lle tietoja selaimen suorituskyvystä, käytöstä, muokkauksista ja käytetystä laitteistosta auttaaksesi meitä kehittämään &brandShortName;ia">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; lähettää tiedot kaatumisista &vendorShortName;lle, jotta voimme tehdä selaimestasi vakaamman ja turvallisen">
