@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "ਟਰੈਕਿੰਗ ਤੋਂ ਸੁਰੱਖਿਆ">
+<!ENTITY  trackingProtection3.description      "ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਆਨਲਾਈਨ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਉਂਦੀ ਹੈ, ਜੋ ਕਿ ਵੱਖ-ਵੱਖ ਵੈੱਬਸਾਈਟਾਂ ਦੁਆਲੇ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਡਾਟੇ ਨੂੰ ਇਕੱਤਰ ਕਰਦੇ ਹਨ।">
 <!ENTITY  trackingProtection3.radioGroupLabel  "ਜਾਣੇ-ਪਛਾਣੇ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਉਣ ਲਈ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਨੂੰ ਵਰਤੋਂ">
 <!ENTITY  trackingProtectionAlways.label       "ਹਮੇਸ਼ਾ">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
@@ -58,7 +59,7 @@
 <!ENTITY  keepUntil2.label              "ਇਸ ਤੱਕ ਰੱਖੋ">
 <!ENTITY  keepUntil2.accesskey          "u">
 
-<!ENTITY  expire.label                  "ਉਨ੍ਹਾਂ ਦੀ ਮਿਆਦ ਹੋਵੇ">
+<!ENTITY  expire.label                  "ਉਨ੍ਹਾਂ ਦੀ ਮਿਆਦ ਪੁੱਗੇ">
 <!ENTITY  close.label                   "ਜਦੋਂ ਮੈਂ &brandShortName; ਬੰਦ ਕਰਾਂ">
 
 <!ENTITY  cookieExceptions.label        "…ਛੋਟਾਂ">
@@ -85,6 +86,7 @@
 <!ENTITY  rememberActions.removeCookies.label "ਵੱਖ ਵੱਖ ਕੂਕੀਜ਼ ਹਟਾਏ ਜਾਣ">
 <!ENTITY  rememberActions.post.label          "।">
 
+<!ENTITY  rememberDescription1.label      "&brandShortName; ਤੁਹਾਡੇ ਬਰਾਊਜ਼ ਕਰਨ, ਡਾਊਨਲੋਡ , ਫਾਰਮ ਅਤੇ ਖੋਜ ਅਤੀਤ ਨੂੰ ਯਾਦ ਰੱਖੇਗਾ।">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਵਾਲੀਆਂ ਸੈਟਿੰਗਾਂ ਵਰਤੇਗਾ ਅਤੇ ਤੁਹਾਡੇ ਵਲੋਂ ਵੈੱਬ ਬਰਾਊਜ਼ ਕਰਨ ਦਾ ਕੋਈ ਵੀ ਅਤੀਤ ਯਾਦ ਨਹੀਂ ਰੱਖੇਗਾ।">
 
