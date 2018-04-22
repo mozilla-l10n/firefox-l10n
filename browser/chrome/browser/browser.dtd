@@ -224,6 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Uloží údaje do trvalého úložiska">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Prehliadač je ovládaný na diaľku">
 
+<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Otvorí kartu webovej autentifikácie">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Spravovať zdieľanie webkamery a/alebo mikrofónu so stránkou">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Spravovať zdieľanie mikrofónu so stránkou">
@@ -303,6 +304,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Preskúmať prvok">
 <!ENTITY inspectContextMenu.accesskey "m">
 
+<!ENTITY inspectA11YContextMenu.label     "Preskúmať vlastnosti zjednodušenia ovládania">
 
 <!ENTITY fileMenu.label         "Súbor">
 <!ENTITY fileMenu.accesskey       "S">
