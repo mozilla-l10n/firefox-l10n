@@ -81,6 +81,8 @@ search-results-empty-message =
     { PLATFORM() ->
         [windows] Der er ingen resultater for "<span data-l10n-name="query"></span>" i indstillingerne.
        *[other] Der er ingen resultater for "<span data-l10n-name="query"></span>" i indstillingerne.
+
+search-results-help-link = Har du brug for hjælp? Besøg <a data-l10n-name="url">Hjælp til{ -brand-short-name }</a>
     }
 
 ## General Section
@@ -493,6 +495,9 @@ privacy-header = Beskyttelse af privatliv
 ## Privacy Section - Forms
 
 forms-header = Formularer & adgangskoder
+forms-ask-to-save-logins =
+    .label = Spørg om at gemme logins og adgangskoder til websteder
+    .accesskey = l
 forms-exceptions =
     .label = Undtagelser…
     .accesskey = U
@@ -599,6 +604,7 @@ addressbar-suggestions-settings = Skift indstillinger for søgeforslag
 ## Privacy Section - Tracking
 
 tracking-header = Beskyttelse mod sporing
+tracking-desc = Beskyttelse mod sporing blokerer sporingstjenester på nettet, der indsamler dine browser-data på tværs af websteder.. <a data-l10n-name="learn-more">Learn more about Tracking Protection and your privacy</a>
 tracking-mode-label = Brug beskyttelse mod sporing for at blokere kendte sporings-tjenester
 tracking-mode-always =
     .label = Altid
