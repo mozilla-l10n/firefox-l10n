@@ -1026,6 +1026,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Deaktiver udvidelse">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
+<!ENTITY homepageControlled.message "En udvidelse har ændret din startside. Du kan nulstille dine indstillinger, hvis du ikke ønsker denne ændring.">
+<!ENTITY homepageControlled.header.message "Din startside er ændret">
+<!ENTITY homepageControlled.keepButton.label "Behold ændringer">
+<!ENTITY homepageControlled.keepButton.accesskey "B">
+<!ENTITY homepageControlled.disableButton.label "Deaktiver udvidelse">
+<!ENTITY homepageControlled.disableButton.accesskey "D">
+
 <!ENTITY pageActionButton.tooltip "Sidehandlinger">
 <!ENTITY pageAction.addToUrlbar.label "Føj til adresselinjen">
 <!ENTITY pageAction.removeFromUrlbar.label "Fjern fra adresselinjen">
