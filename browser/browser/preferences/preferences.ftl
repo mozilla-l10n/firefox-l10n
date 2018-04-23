@@ -79,8 +79,8 @@ search-results-header = Søgeresultater
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
 search-results-empty-message =
     { PLATFORM() ->
-        [windows] Der er ingen resultater for "<span data-l10n-name="query"></span>" i indstillingerne.
-       *[other] Der er ingen resultater for "<span data-l10n-name="query"></span>" i indstillingerne.
+        [windows] Der er ingen resultater for \"<span data-l10n-name="query"></span>\" i indstillingerne.
+       *[other] Der er ingen resultater for \"<span data-l10n-name="query"></span>\" i indstillingerne.
 
 search-results-help-link = Har du brug for hjælp? Besøg <a data-l10n-name="url">Hjælp til { -brand-short-name }</a>
     }
