@@ -282,6 +282,13 @@
 <!ENTITY pref_whats_new_notification "&brandShortName; இதில் புதியது என்ன">
 <!ENTITY pref_whats_new_notification_summary "புதுப்பித்தப் பின் புதிய வசதிகளைப் பற்றி வாசிக்கவும்">
 
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!ENTITY pref_feature_tips_notification "தயாரிப்பு மற்றும் வசதிக் குறிப்புகள்">
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+<!ENTITY pref_feature_tips_notification_summary "&brandShortName; மற்றும் பிற &vendorShortName; தயாரிப்புகளைப் பயன்படுத்துவது பற்றி மேலும் அறிய">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "பரிசோதனையிலுள்ள வசதிகள்">
@@ -422,7 +429,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; சுகாதார அறிக்கை">
 <!ENTITY datareporting_fhr_summary2 "&vendorShortName; உடன் தரவை பகிர்வது உங்களுடைய உலாவியின் உடல்நிலைப்பற்றியும் உலாவியின் செயற்ப்பாட்டை புரிந்துக்கொள்ளவும் உதவுகிறது">
-<!ENTITY datareporting_abouthr_title "என் சுகாதார அறிக்கையை பார்">
 <!ENTITY datareporting_telemetry_title "தொலைத்தொடர்பு">
 <!ENTITY datareporting_telemetry_summary "&brandShortName; ஐ சிறந்ததாக்க உங்களுடைய உலாவி பற்றிய செயல்திறன், பயனளவு, வன்பொருள் மற்றும் தனிப்பயனாக்க தரவு &vendorShortName; உடன் பகிர்கிறது">
 <!ENTITY datareporting_crashreporter_summary "&vendorShortName; க்கு உதவி செய்ய செயலிழப்பு அறிக்கையை &brandShortName; செலுத்தி உங்களுடைய உலாவியை உறுதியாக்கவும் பாதுகாப்பாக இருக்கவும் செய்கிறது">
