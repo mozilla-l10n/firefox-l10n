@@ -21,9 +21,11 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "వర్షన్">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.securitySoftwareTitle "భద్రతా సాఫ్ట్‌వేరు">
 <!ENTITY aboutSupport.securitySoftwareType "రకం">
 <!ENTITY aboutSupport.securitySoftwareName "పేరు">
 <!ENTITY aboutSupport.securitySoftwareAntivirus "యాంటీవైరస్">
+<!ENTITY aboutSupport.securitySoftwareAntiSpyware "యాంటీస్పైవేర్">
 <!ENTITY aboutSupport.securitySoftwareFirewall "ఫైర్వాల్">
 
 <!ENTITY aboutSupport.featuresTitle "&brandShortName; విశేషాలు">
@@ -71,6 +73,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "మల్టీప్రోసెస్ విండోలు">
 
+
+<!ENTITY aboutSupport.enterprisePolicies "ఎంటర్‌ప్రైజ్ విధానాలు">
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "గూగుల్ కీ">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "మొజిల్లా స్థాన సేవ కీ">

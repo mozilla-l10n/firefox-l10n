@@ -480,6 +480,9 @@ privacy-header = విహరిణి గోప్యత
 ## Privacy Section - Forms
 
 forms-header = ఫారాలు & సంకేతపదాలు
+forms-ask-to-save-logins =
+    .label = సైట్ల ప్రవేశాలూ, సంకేతపదాలు భద్రపరచుకోడానికి అడుగు
+    .accesskey = r
 forms-exceptions =
     .label = మినహాయింపులు…
     .accesskey = x
