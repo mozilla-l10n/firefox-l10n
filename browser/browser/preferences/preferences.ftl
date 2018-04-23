@@ -37,6 +37,11 @@ search-input-box =
             [windows] Temukan di Pilihan
            *[other] Temukan di Pengaturan
         }
+policies-notice =
+    { PLATFORM() ->
+        [windows] Organisasi Anda telah menonaktifkan kemampuan untuk mengubah beberapa pengaturan.
+       *[other] Organisasi Anda telah menonaktifkan kemampuan untuk mengubah beberapa pengaturan.
+    }
 pane-general-title = Umum
 category-general =
     .tooltiptext = { pane-general-title }
