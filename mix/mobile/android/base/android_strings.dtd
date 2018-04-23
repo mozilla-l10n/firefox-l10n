@@ -282,6 +282,13 @@
 <!ENTITY pref_whats_new_notification "Nchii yee ña tsa\&apos;a &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Kunchee nixi kuachu\&apos;un ña ta ntsinu ntu tsai">
 
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!ENTITY pref_feature_tips_notification "Tu\&apos;un tsa producto tsi característica">
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+<!ENTITY pref_feature_tips_notification_summary "Kutua nixi kuchu\&apos;un&brandShortName; tsi inka productos ña&vendorShortName;">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "Kunchee nixi kuachu\&apos;un ña">
@@ -422,7 +429,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; tu\&apos;un ña nixi kaá">
 <!ENTITY datareporting_fhr_summary2 "Chachu\&apos;un tutu nu &vendorShortName; tsaá nixi kaa navegador cha chi\&apos;nchii kutuninu nixi sachu\&apos;un navegador">
-<!ENTITY datareporting_abouthr_title "Kuncheè nixi sachu\&apos;in">
 <!ENTITY datareporting_telemetry_title "Telemetría">
 <!ENTITY datareporting_telemetry_summary "Chachu\&apos;un nixi sachuin, ña sai, hardware tsi tutu ña navegador tsi &vendorShortName; Tava chi\&apos;ncheu na saa &brandShortName; va\&apos;a ña">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; ka tu\&apos;un tava na chachuin ña kue vaa yee tava na chinchi-yo &vendorShortName; sau ña nda tuku-yo vaa-ka">
