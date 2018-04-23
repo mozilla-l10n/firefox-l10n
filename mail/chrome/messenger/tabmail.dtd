@@ -6,4 +6,4 @@
 <!ENTITY  listAllTabs.label        "Senarai semua tab">
 <!-- LOCALIZATION NOTE(defaultTabTitle.label): This is the default tab
      title to show when the tab has no title. -->
-<!ENTITY  defaultTabTitle.label    "Halaman utama">
+<!ENTITY  defaultTabTitle.label    "Laman">
