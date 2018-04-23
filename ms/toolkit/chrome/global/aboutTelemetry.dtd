@@ -27,7 +27,7 @@
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Buka dalam pemapar JSON">
 
-<!ENTITY aboutTelemetry.homeSection "Halaman utama">
+<!ENTITY aboutTelemetry.homeSection "Laman">
 <!ENTITY aboutTelemetry.generalDataSection "Data Umum">
 <!ENTITY aboutTelemetry.environmentDataSection "Data Persekitaran">
 <!ENTITY aboutTelemetry.sessionInfoSection "Maklumat Sesi">
