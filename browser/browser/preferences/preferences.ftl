@@ -82,7 +82,7 @@ search-results-empty-message =
         [windows] Der er ingen resultater for "<span data-l10n-name="query"></span>" i indstillingerne.
        *[other] Der er ingen resultater for "<span data-l10n-name="query"></span>" i indstillingerne.
 
-search-results-help-link = Har du brug for hjælp? Besøg <a data-l10n-name="url">Hjælp til{ -brand-short-name }</a>
+search-results-help-link = Har du brug for hjælp? Besøg <a data-l10n-name="url">Hjælp til { -brand-short-name }</a>
     }
 
 ## General Section
@@ -604,7 +604,7 @@ addressbar-suggestions-settings = Skift indstillinger for søgeforslag
 ## Privacy Section - Tracking
 
 tracking-header = Beskyttelse mod sporing
-tracking-desc = Beskyttelse mod sporing blokerer sporingstjenester på nettet, der indsamler dine browser-data på tværs af websteder.. <a data-l10n-name="learn-more">Learn more about Tracking Protection and your privacy</a>
+tracking-desc = Beskyttelse mod sporing blokerer sporingstjenester på nettet, der indsamler dine browser-data på tværs af websteder. <a data-l10n-name="learn-more">Læs mere om beskyttelse mod sporing og dit privatliv</a>
 tracking-mode-label = Brug beskyttelse mod sporing for at blokere kendte sporings-tjenester
 tracking-mode-always =
     .label = Altid

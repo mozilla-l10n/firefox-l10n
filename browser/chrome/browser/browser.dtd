@@ -1018,7 +1018,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.message "En udvidelse har ændret den side, du ser, når du åbner et nyt faneblad. Du kan nulstille dine indstillinger, hvis du ikke ønsker denne ændring.">
 
 <!ENTITY newTabControlled.header.message "Nyt faneblad er ændret">
-<!ENTITY newTabControlled.keepButton.label "Behold ændringer">
+<!ENTITY newTabControlled.keepButton.label "Behold ændringen">
 <!ENTITY newTabControlled.keepButton.accesskey "B">
 <!ENTITY newTabControlled.restoreButton.label "Nulstil indstillinger">
 <!ENTITY newTabControlled.restoreButton.accesskey "N">
@@ -1028,7 +1028,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY homepageControlled.message "En udvidelse har ændret din startside. Du kan nulstille dine indstillinger, hvis du ikke ønsker denne ændring.">
 <!ENTITY homepageControlled.header.message "Din startside er ændret">
-<!ENTITY homepageControlled.keepButton.label "Behold ændringer">
+<!ENTITY homepageControlled.keepButton.label "Behold ændringen">
 <!ENTITY homepageControlled.keepButton.accesskey "B">
 <!ENTITY homepageControlled.disableButton.label "Deaktiver udvidelse">
 <!ENTITY homepageControlled.disableButton.accesskey "D">

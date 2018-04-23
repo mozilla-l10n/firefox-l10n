@@ -5,7 +5,7 @@
 <!ENTITY  trackingProtectionHeader2.label      "Beskyttelse mod sporing">
 <!ENTITY  trackingProtection2.description      "Sporing betyder, at data om i dine vaner på nettet indsamles på tværs af websteder. Sporing kan bruges til at vise dig indhold på baggrund af disse data og dine personlige informationer">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Brug beskyttelse mod sporing for at blokere kendte sporings-tjenester">
-<!ENTITY  trackingProtection3.description      "Beskyttelse mod sporing blokerer sproringstjenester på nettet, der indsamler dine browser-data på tværs af websteder.">
+<!ENTITY  trackingProtection3.description      "Beskyttelse mod sporing blokerer sporingstjenester på nettet, der indsamler dine browser-data på tværs af websteder.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "Brug beskyttelse mod sporing til at blokere kendte sporingstjenester">
 <!ENTITY  trackingProtectionAlways.label       "Altid">
 <!ENTITY  trackingProtectionAlways.accesskey   "A">
