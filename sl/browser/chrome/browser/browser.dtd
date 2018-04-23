@@ -113,6 +113,8 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "Podatki o strani">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.label "Razhroščevalnik postavitve">
+<!ENTITY ldbCmd.accesskey "P">
 <!ENTITY mirrorTabCmd.label "Prezrcali zavihek">
 <!ENTITY mirrorTabCmd.accesskey "P">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -222,6 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Shrani podatke v trajni shrambi">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Brskalnik je pod daljinskim upravljanjem">
 
+<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Odpri ploščo za spletno avtentikacijo">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Upravljajte dovoljenje za uporabo kamere in/ali mikrofona na tej strani">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Upravljajte dovoljenje za uporabo mikrofona na tej strani">
@@ -244,6 +247,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.canvasBlocked.tooltip            "Za to stran ste zavrnili izločanje podatkov platna.">
 
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Tej strani ste zavrnili uporabo vtičnika Adobe Flash.">
+<!ENTITY urlbar.midiBlocked.tooltip              "Za to stran ste zavrnili uporabo MIDI.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Pokaži zgodovino">
 
@@ -300,6 +304,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Preglej element">
 <!ENTITY inspectContextMenu.accesskey "j">
 
+<!ENTITY inspectA11YContextMenu.label     "Preglej lastnosti dostopnosti">
 
 <!ENTITY fileMenu.label         "Datoteka">
 <!ENTITY fileMenu.accesskey       "D">
@@ -439,6 +444,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Iskanje ali naslov strani">
+<!ENTITY urlbar.placeholder3          "Vnesite iskalni niz ali naslov">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Razširitev:">
