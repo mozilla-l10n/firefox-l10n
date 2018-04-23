@@ -25,18 +25,28 @@
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementMessage): Message displayed
   -  when users come from using the Inspect Element menu item. -->
+<!ENTITY  aboutDevtools.enable.inspectElementMessage
+          "Preiščite in uredite HTML ter CSS s pregledovalnikom iz razvojnih orodij.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.aboutDebuggingMessage): Message displayed
   -  when users come from about:debugging. -->
+<!ENTITY  aboutDevtools.enable.aboutDebuggingMessage
+          "Razvoj in razhroščevanje razširitev, web workerjev, service workerjev in druge programske opreme s Firefoxovimi razvojnimi orodji.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.keyShortcutMessage): Message displayed when
   -  users pressed a DevTools key shortcut. -->
+<!ENTITY  aboutDevtools.enable.keyShortcutMessage
+          "Uporabili ste bližnjico razvojnih orodij. Če ste to storili ponesreči, lahko zaprete ta zavihek.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage2): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
+<!ENTITY  aboutDevtools.enable.menuMessage2
+          "Izpopolnite HTML, CSS in JavaScript svoje spletne strani z orodji, kot sta pregledovalnik in razhroščevalnik.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.commonMessage): Generic message displayed for
   -  all possible entry points (keyshortcut, menu item etc…). -->
+<!ENTITY  aboutDevtools.enable.commonMessage
+          "Firefoxova razvojna orodja smo privzeto onemogočili, da bi vam dali več nadzora nad brskalnikom.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.learnMoreLink): Text for the link to
   -  https://developer.mozilla.org/docs/Tools displayed in the top section when DevTools
@@ -48,6 +58,7 @@
 
 <!ENTITY  aboutDevtools.welcome.title "Dobrodošli v razvojnih orodjih za Firefox!">
 
+<!ENTITY  aboutDevtools.newsletter.title "Mozillina okrožnica za razvijalce">
 <!-- LOCALIZATION NOTE (aboutDevtools.newsletter.message): Subscribe form message.
   -  The newsletter is only available in english at the moment.
   -  See Bug 1415273 for support of additional languages.-->
@@ -59,6 +70,7 @@
 <!ENTITY  aboutDevtools.newsletter.thanks.message "Če v preteklosti še niste potrdili naročnine na Mozillino okrožnico, boste morda to morali storiti zdaj. Poiščite našo pošto v poštnem predalu ali mapi z neželeno pošto.">
 
 <!ENTITY  aboutDevtools.footer.title "Firefox Developer Edition">
+<!ENTITY  aboutDevtools.footer.message "Želite več kot zgolj razvojna orodja? Preskusite brskalnik Firefox, izdelan posebej za razvijalce in sodobne delovne metode.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to
   -  https://www.mozilla.org/firefox/developer/ displayed in the footer. -->
