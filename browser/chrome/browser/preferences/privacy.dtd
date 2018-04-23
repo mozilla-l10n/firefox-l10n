@@ -5,6 +5,8 @@
 <!ENTITY  trackingProtectionHeader2.label      "Beskyttelse mod sporing">
 <!ENTITY  trackingProtection2.description      "Sporing betyder, at data om i dine vaner på nettet indsamles på tværs af websteder. Sporing kan bruges til at vise dig indhold på baggrund af disse data og dine personlige informationer">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Brug beskyttelse mod sporing for at blokere kendte sporings-tjenester">
+<!ENTITY  trackingProtection3.description      "Beskyttelse mod sporing blokerer sproringstjenester på nettet, der indsamler dine browser-data på tværs af websteder.">
+<!ENTITY  trackingProtection3.radioGroupLabel  "Brug beskyttelse mod sporing til at blokere kendte sporingstjenester">
 <!ENTITY  trackingProtectionAlways.label       "Altid">
 <!ENTITY  trackingProtectionAlways.accesskey   "A">
 <!ENTITY  trackingProtectionPrivate.label      "Kun i private vinduer">
@@ -49,6 +51,18 @@
 <!ENTITY  acceptCookies2.label           "Accepter cookies fra websteder">
 <!ENTITY  acceptCookies2.accesskey       "c">
 
+<!ENTITY  acceptCookies4.label          "Accepter cookies og websteds-data fra websteder (anbefalet)">
+<!ENTITY  acceptCookies4.accesskey      "c">
+
+<!ENTITY  blockCookies.label            "Bloker cookies og websteds-data fra websteder (kan forhindre websteder i at fungere)">
+<!ENTITY  blockCookies.accesskey        "B">
+
+<!ENTITY  acceptThirdParty3.pre.label     "Accepter tredjeparts cookies og websteds-data">
+<!ENTITY  acceptThirdParty3.pre.accesskey "t">
+<!ENTITY  acceptThirdParty.always.label   "Altid">
+<!ENTITY  acceptThirdParty.never.label    "Aldrig">
+<!ENTITY  acceptThirdParty.visited.label  "Fra besøgte">
+
 <!ENTITY  acceptThirdParty2.pre.label      "Accepter tredjeparts cookies">
 <!ENTITY  acceptThirdParty2.pre.accesskey  "t">
 <!ENTITY  acceptThirdParty.always.label   "Altid">
@@ -76,6 +90,8 @@
 
 <!ENTITY  rememberDescription.label      "&brandShortName; vil gemme din browser-, filhentnings-, formular- og søgehistorik, samt gemme cookies fra de websteder, du besøger.">
 
+<!ENTITY  rememberDescription1.label      "&brandShortName; vil gemme din browser-, filhentnings-, formular- og søgehistorik.">
+
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
@@ -92,6 +108,9 @@
 <!ENTITY  dontrememberActions.pre.label          "Du har også mulighed for at ">
 <!ENTITY  dontrememberActions.clearHistory.label "rydde al din historik">
 <!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  clearHistoryButton.label       "Ryd historik…">
+<!ENTITY  clearHistoryButton.accesskey   "s">
 
 <!ENTITY  privateBrowsingPermanent2.label "Brug altid privat browsing-tilstand">
 <!ENTITY  privateBrowsingPermanent2.accesskey "P">
