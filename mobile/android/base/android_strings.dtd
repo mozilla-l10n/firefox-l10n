@@ -282,6 +282,13 @@
 <!ENTITY pref_whats_new_notification "&brandShortName; 달라진 점">
 <!ENTITY pref_whats_new_notification_summary "업데이트 후 새로운 기능에 대해 자세히 알아보기">
 
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!ENTITY pref_feature_tips_notification "제품과 기능 팁">
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+<!ENTITY pref_feature_tips_notification_summary "&brandShortName; 사용과 다른 &vendorShortName; 제품에 대해 자세히 알아보기">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "실험적인 기능">
@@ -422,7 +429,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; 상태 검사 보고서">
 <!ENTITY datareporting_fhr_summary2 "브라우저 상태를 &vendorShortName;와 공유하고 성능을 이해할 수 있도록 도움">
-<!ENTITY datareporting_abouthr_title "상태 검사 보고서 보기">
 <!ENTITY datareporting_telemetry_title "데이터 수집">
 <!ENTITY datareporting_telemetry_summary "브라우저의 성능, 사용, 그리고 설정에 대한 데이터를 &vendorShortName;와 공유하여 &brandShortName;가 보다 나아지도록 도움">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName;가 오류 보고서를 전송하여 &vendorShortName;가 브라우저를 보다 안정적이고 보안이 강화되도록 도움">
