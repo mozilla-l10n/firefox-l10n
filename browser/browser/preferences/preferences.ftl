@@ -312,8 +312,8 @@ home-new-windows-tabs-description2 = Choisissez ce qui est affiché lorsque vous
 home-homepage-mode-label = Page d’accueil et nouvelles fenêtres
 home-newtabs-mode-label = Nouveaux onglets
 home-restore-defaults =
-    .label = Réinitialiser
-    .accesskey = R
+    .label = Configuration par défaut
+    .accesskey = C
 # "Firefox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
