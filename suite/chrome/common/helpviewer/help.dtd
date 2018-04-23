@@ -20,7 +20,7 @@
 <!ENTITY selectAllCmd.accesskey         "S">
 <!ENTITY goBackCmd.commandkey           "[">
 <!ENTITY goForwardCmd.commandkey        "]">
-<!ENTITY homeButton.label               "Halaman utama">
+<!ENTITY homeButton.label               "Laman">
 <!ENTITY homeButton.tooltip             "Pergi ke Halaman Mula Bantuan">
 <!ENTITY printButton.label              "Cetak">
 <!ENTITY printButton.tooltip            "Cetak halaman ini">
