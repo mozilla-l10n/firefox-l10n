@@ -872,11 +872,11 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY fullscreen_warning "నిండు తెరలో చూస్తున్నారు">
 
 <!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
-<!ENTITY pwa_add_to_launcher_confirm "+ హోమ్ స్క్రీన్కు జోడించు">
+<!ENTITY pwa_add_to_launcher_confirm "+ ముంగిలి తెరకు చేర్చు">
 
 <!-- LOCALIZATION NOTE (pwa_add_to_launcher_badge2): Used as label in the page actions dropdown list,
 displayed when there are more than 3 actions available for a page.
 See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
-<!ENTITY pwa_add_to_launcher_badge2 "హోమ్ స్క్రీన్కు జోడించు">
+<!ENTITY pwa_add_to_launcher_badge2 "ముంగిలి తెరకు చేర్చు">
 <!ENTITY pwa_continue_to_website "వెబ్సైట్కి కొనసాగించండి">
 <!ENTITY pwa_onboarding_sumo "ఆప్ వలె తక్షణమే తెరవడానికి, వేగంగా విహరించడానికి వీలుగా ఈ వెబ్‌సైటుని తేలిగ్గా మీ ముంగిలి తెరకు చేర్చుకోవచ్చు.">
