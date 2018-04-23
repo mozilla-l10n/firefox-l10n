@@ -605,7 +605,7 @@ addressbar-suggestions-settings = Skift indstillinger for søgeforslag
 ## Privacy Section - Tracking
 
 tracking-header = Beskyttelse mod sporing
-tracking-desc = Beskyttelse mod sporing blokerer sporingstjenester på nettet, der indsamler dine browser-data på tværs af websteder. <a data-l10n-name="learn-more">Læs mere om beskyttelse mod sporing og dit privatliv</a>
+tracking-desc = Beskyttelse mod sporing blokerer sporingstjenester på nettet, der indsamler dine browser-data på tværs af websteder. <a data-l10n-name="learn-more">Læs mere om beskyttelse mod sporing og beskyttelse af dit privatliv</a>
 tracking-mode-label = Brug beskyttelse mod sporing for at blokere kendte sporings-tjenester
 tracking-mode-always =
     .label = Altid
