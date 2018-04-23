@@ -314,6 +314,12 @@ home-newtabs-mode-label = புதிய கீற்றுகள்
 home-restore-defaults =
     .label = முன்னிருப்புக்கு மீட்டமை
     .accesskey = R
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = பயர்பாக்ஸ் முகப்பு (இயல்புநிலை)
+home-mode-choice-custom =
+    .label = தனிப்பயன் உரலிகள்...
 home-mode-choice-blank =
     .label = வெற்றுப் பக்கம்
 home-homepage-custom-url =
@@ -351,6 +357,13 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = தேடல் பரிந்துரைகளை இடப்பட்டை முடிவுகளில் காண்பி
     .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = முகவரிப்பட்டை முடிவுகளில் உலாவல் வரலாற்றின் முன்னே தேடல் பரிந்துரைகளை காட்டு
 search-suggestions-cant-show = தேடல் பரிந்துரைகள் இடப்பட்டையில் காட்டப்படாது ஏனெனில் நீங்கள் { -brand-short-name } என்பதை வரலாற்றில் நினைவு கொள்ளாமல் இருக்கும்படி கட்டமைத்துள்ளீர்கள்.
 search-one-click-header = ஒரு சொடுக்கு தேடுபொறிகள்
 search-one-click-desc = நீங்கள் உள்ளிட துவங்கும்போது, இடப்பட்டை மற்றும் தேடுபட்டையின் அடியில் இடம்பெறும் மாற்று தேடுபொறியைத் தேர்ந்தெடுக
