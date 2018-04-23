@@ -15,7 +15,7 @@
 <!ENTITY deleteCmd.label "తొలగించు">
 <!ENTITY deleteCmd.accesskey "D">
 
-<!ENTITY spellAddToDictionary.label "పదకోశమునకు కలుపు">
+<!ENTITY spellAddToDictionary.label "నిఘంటువుకు కలుపు">
 <!ENTITY spellAddToDictionary.accesskey "o">
 <!ENTITY spellUndoAddToDictionary.label "నిఘంటువుకు జతచేయుటను రద్దుచేయి">
 <!ENTITY spellUndoAddToDictionary.accesskey "n">

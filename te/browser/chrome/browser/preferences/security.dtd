@@ -10,13 +10,15 @@
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
+
+
 <!ENTITY  enableSafeBrowsing.label        "ప్రమాదకరమైన, మోసపూరిత కంటెంటును నిరోధించు">
 <!ENTITY  enableSafeBrowsing.accesskey    "B">
 
 <!ENTITY  blockDownloads.label            "ప్రమాదకరమైన దింపుకోళ్ళను నిరోధించు">
 <!ENTITY  blockDownloads.accesskey        "D">
 
-<!ENTITY  blockUncommonAndUnwanted.label     "అవాంఛిత, అసాధారణ సాఫ్ట్‌వేర్ల గురించి నిన్ను హెచ్చరించు">
+<!ENTITY  blockUncommonAndUnwanted.label     "అవాంఛిత, అసాధారణ సాఫ్ట్‌వేర్ల గురించి నన్ను హెచ్చరించు">
 <!ENTITY  blockUncommonAndUnwanted.accesskey "C">
 
 <!ENTITY  addonExceptions.label         "మినహాయింపులు…">
