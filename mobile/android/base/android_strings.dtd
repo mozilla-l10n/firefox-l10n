@@ -282,6 +282,13 @@
 <!ENTITY pref_whats_new_notification "&brandShortName; માં નવું શું છે">
 <!ENTITY pref_whats_new_notification_summary "સુધારા પછીની નવી સુવિધાઓ વિશે જાણો">
 
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!ENTITY pref_feature_tips_notification "ઉત્પાદન અને વિશેષતા ટિપ્સ">
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+<!ENTITY pref_feature_tips_notification_summary "&brandShortName; નો ઉપયોગ કરવા વિશે વધુ જાણો; અને અન્ય &vendorShortName; ઉત્પાદનો">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "પ્રાયોગિક સુવિધાઓ">
@@ -422,7 +429,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; આરોગ્ય અહેવાલ">
 <!ENTITY datareporting_fhr_summary2 "તમારા બ્રાઉઝરના આરોગ્ય વિશે &vendorShortName; સાથે માહિતી વહેંચે છે અને તમને તમારી બ્રાઉઝર પસંદગી સમજવામાં મદદ કરે છે">
-<!ENTITY datareporting_abouthr_title "મારો આરોગ્ય અહેવાલ જુઓ">
 <!ENTITY datareporting_telemetry_title "ટેલીમેટ્રી">
 <!ENTITY datareporting_telemetry_summary "&brandShortName; ને સારું બનાવવા માટે પરફોર્મન્સ, વપરાશ, હાર્ડવેર અને તમારા બ્રાઉઝર વિશે વૈવિધ્યપૂર્ણ માહિતી &vendorShortName; ની સાથે વહેંચે છે">
 <!ENTITY datareporting_crashreporter_summary "&vendorShortName; ને મદદ કરવા માટે તમારું બ્રાઉઝર વધુ મજબૂત અને સુરક્ષિત બનાવવા માટે &brandShortName; ભંગાણ અહેવાલ જમા કરે છે">
