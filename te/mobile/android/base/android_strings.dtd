@@ -96,11 +96,11 @@
 <!ENTITY bookmark_parent_folder "మాతృ సంచయం">
 <!ENTITY bookmark_add_folder "కొత్త సంచికను జోడించు">
 
-<!ENTITY reader_saved_offline "ఆఫ్లైన్లో సేవ్ చేయబడింది">
+<!ENTITY reader_saved_offline "ఆఫ్‌లైన్లో భద్రమయింది">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
-<!ENTITY reader_switch_to_bookmarks "మార్చు">
+<!ENTITY reader_switch_to_bookmarks "మారు">
 
 <!ENTITY history_today_section "ఈరోజు">
 <!ENTITY history_yesterday_section "నిన్న">
@@ -162,7 +162,7 @@
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "ఇష్టాంశంగా గుర్తించు">
-<!ENTITY overlay_share_bookmark_btn_label_already "ఇప్పటికే బుక్మార్క్ చేయబడింది">
+<!ENTITY overlay_share_bookmark_btn_label_already "ఇప్పటికే ఇష్టాంశంగా ఉంది">
 <!ENTITY overlay_share_send_other "ఇతర పరికరాలకు పంపించు">
 
 <!ENTITY overlay_share_open_browser_btn_label "&brandShortName; లో తెరువండి">
@@ -185,7 +185,7 @@
 <!ENTITY pref_category_privacy_short "అంతరంగికత">
 <!ENTITY pref_category_privacy_summary4 "ట్రాకింగ్, లాగిన్, డేటా ఎంపికలు">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
-<!ENTITY pref_category_vendor_summary2 "గురించి &brandShortName;, FAQs, ఫీడ్ బాక్">
+<!ENTITY pref_category_vendor_summary2 "&brandShortName; గురించి, FAQs, ప్రతిస్పందన">
 <!ENTITY pref_category_datareporting "డేటా ఎంపికలు">
 <!ENTITY pref_category_logins "ప్రవేశాలు">
 <!ENTITY pref_learn_more "ఇంకా తెలుసుకోండి">
@@ -204,7 +204,7 @@
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-<!ENTITY pref_category_advanced_summary3 "టాబ్లు పునరుద్ధరించు, డేటా సేవర్, డెవలపర్ టూల్స్">
+<!ENTITY pref_category_advanced_summary3 "ట్యాబుల పునరుద్ధరణ, డేటా సేవర్, డెవలపర్ టూల్స్">
 <!ENTITY pref_category_notifications "గమనింపులు">
 <!ENTITY pref_category_notifications_summary "కొత్త సౌలభ్యాలు, వెబ్‌సైటు తాజాకరణలు">
 <!ENTITY pref_developer_remotedebugging_usb "USB ద్వారా రిమోట్ డీబగ్గింగ్">
@@ -280,7 +280,7 @@
 <!ENTITY pref_tracking_protection_disabled "అచేతనం">
 
 <!ENTITY pref_whats_new_notification "&brandShortName;‌ లో కొత్తదనం ఏమిటి">
-<!ENTITY pref_whats_new_notification_summary "ఒక నవీకరణ తర్వాత కొత్త లక్షణాల గురించి తెలుసుకోండి">
+<!ENTITY pref_whats_new_notification_summary "ఒక నవీకరణ తర్వాత కొత్త సౌలభ్యాల గురించి తెలుసుకోండి">
 
 <!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification"-->
@@ -311,13 +311,13 @@
 
 <!ENTITY tracking_protection_prompt_title "ఇప్పుడు ట్రాకింగ్ సంరక్షణతో ఉన్నది">
 <!ENTITY tracking_protection_prompt_text "కాబట్టి మీరు ఆందోళన చెందనవసరం లేదు చురుకుగా ట్రాకింగ్ అంశాలు బ్లాక్ చేయండి.">
-<!ENTITY tracking_protection_prompt_tip_text "ప్రైవసీ సెట్టింగుల గురించి మరింత తెలుసుకోవడానికి సందర్శించండి">
+<!ENTITY tracking_protection_prompt_tip_text "మరింత తెలుసుకోవడానికి అంతరంగిక అమరికలు చూడండి">
 <!ENTITY tracking_protection_prompt_action_button "అర్థమయింది!">
 
-<!ENTITY tab_queue_toast_message3 "&brandShortName; లో టాబ్ సేవ్ చేయండి">
+<!ENTITY tab_queue_toast_message3 "&brandShortName;‌లో ట్యాబు భద్రమయింది">
 <!ENTITY tab_queue_toast_action "ఇప్పుడే తెరువు">
-<!ENTITY tab_queue_prompt_title "బహుళ లింకులు తెరవడం?">
-<!ENTITY tab_queue_prompt_text4 "మీరు బహిరంగ &brandShortName; వరకు వాటిని సేవ్ చేయండి.">
+<!ENTITY tab_queue_prompt_title "చాలా లంకెలు తెరుస్తున్నారా?">
+<!ENTITY tab_queue_prompt_text4 "మీరు తదుపరి &brandShortName; తెరిచేవరకూ వాటిని భద్రపరుస్తుంది.">
 <!ENTITY tab_queue_prompt_tip_text2 "మీరు దీన్ని తర్వాత అమరికలలో మార్చుకోవచ్చు">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
@@ -332,7 +332,7 @@
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY tab_queue_notification_text_plural2 "&formatD; టాబ్లు వేచి ఉన్నవి">
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; ట్యాబులు వేచివున్నవి">
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
 <!ENTITY tab_queue_notification_text_singular2 "1 ట్యాబు వేచివుంది">
@@ -391,8 +391,8 @@
 <!ENTITY pref_private_data_downloadFiles2 "దింపుకోళ్ళు">
 <!ENTITY pref_private_data_syncedTabs "సింకైన ట్యాబులు">
 
-<!ENTITY pref_default_browser "డీఫాల్ట్ బ్రౌజర్ గా చేయండి">
-<!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla మద్దతు సందర్శించండి">
+<!ENTITY pref_default_browser "అప్రమేయ విహారిణి చెయ్యి">
+<!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla తోడ్పాటును చూడండి">
 <!ENTITY pref_about_firefox "&brandShortName; గురించి">
 <!ENTITY pref_vendor_faqs "సందేహాలు">
 <!ENTITY pref_vendor_feedback "అభిప్రాయాన్ని తెలియజేయండి">
@@ -436,7 +436,6 @@
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "క్రాష్ రిపోర్టర్">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; స్థాన సేవ">
-<!ENTITY datareporting_wifi_geolocation_summary4 "సహాయం &vendorShortName; ప్రపంచాన్ని మ్యాప్! మా జియోస్థానం సేవ మెరుగుపరిచేందుకు మీ పరికరం యొక్క ఉజ్జాయింపు Wi-Fi మరియు సెల్యులార్ స్థానాన్ని భాగస్వామ్యం చేయండి.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -789,7 +788,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
-<!ENTITY restrictable_feature_addons_installation "యాడ్-ఆన్స్‍">
+<!ENTITY restrictable_feature_addons_installation "పొడగింతలు">
 <!ENTITY restrictable_feature_addons_installation_description "Firefox లక్షణాలు లేదా కార్యాచరణ జోడించండి. గమనిక: ఆడ్డన్స్ నిర్దిష్ట పరిమితులను నిలిపివేయవచ్చు.">
 <!ENTITY restrictable_feature_private_browsing "అంతరంగిక విహారణ">
 <!ENTITY restrictable_feature_private_browsing_description "కుటుంబ సభ్యులు వారు సందర్శించిన సైట్లు మరియు పేజీల గురించి సమాచారాన్ని సేవ్ చేయకుండా బ్రౌజ్ చేయడానికి అనుమతిస్తుంది.">
@@ -832,7 +831,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY promotion_add_page_shortcut "పేజీ సత్వరమార్గాన్ని జోడించండి">
 
-<!ENTITY helper_first_offline_bookmark_title "ఆఫ్లైన్లో చదువు">
+<!ENTITY helper_first_offline_bookmark_title "ఆఫ్‌లైన్లో చదువు">
 <!ENTITY helper_first_offline_bookmark_message "బుక్మార్క్లు మీ రీడర్ చూడండి అంశాలను ఆఫ్లైన్లో కనుగొనండి.">
 <!ENTITY helper_first_offline_bookmark_button "ఇష్టాంశాలకు వెళ్ళండి">
 
@@ -850,7 +849,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
-<!ENTITY activity_stream_highlight_label_bookmarked "ఇష్టాంశము చేయబడినది">
+<!ENTITY activity_stream_highlight_label_bookmarked "ఇష్టాంశం చేయబడినది">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "సందర్శించినది">
