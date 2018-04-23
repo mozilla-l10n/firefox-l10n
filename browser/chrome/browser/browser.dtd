@@ -999,6 +999,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "확장기능 비활성화">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
+<!ENTITY homepageControlled.message "확장기능이 홈페이지를 변경하였습니다. 이 변경을 원하지 않으시면 설정에서 다시 복원할 수 있습니다.">
+<!ENTITY homepageControlled.header.message "홈페이지가 변경되었습니다.">
+<!ENTITY homepageControlled.keepButton.label "변경 유지">
+<!ENTITY homepageControlled.keepButton.accesskey "K">
+<!ENTITY homepageControlled.disableButton.label "확장기능 비활성화">
+<!ENTITY homepageControlled.disableButton.accesskey "D">
+
 <!ENTITY pageActionButton.tooltip "페이지 작업">
 <!ENTITY pageAction.addToUrlbar.label "주소 표시줄에 추가">
 <!ENTITY pageAction.removeFromUrlbar.label "주소 표시줄에서 제거">
@@ -1008,6 +1015,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "기기로 탭 보내기">
 <!ENTITY sendToDevice.syncNotReady.label "기기를 동기화하고 있습니다…">
+
+<!ENTITY pageAction.shareUrl.label "공유">
 
 <!ENTITY libraryButton.tooltip "방문 목록, 즐겨찾기 등 보기">
 
