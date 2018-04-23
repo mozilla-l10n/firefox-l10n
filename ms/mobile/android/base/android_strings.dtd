@@ -213,7 +213,7 @@
 <!ENTITY pref_remember_signons2 "Ingati log masuk">
 <!ENTITY pref_manage_logins "Urus log masuk">
 
-<!ENTITY pref_category_home "Rerumah">
+<!ENTITY pref_category_home "Laman">
 <!ENTITY pref_category_home_summary "Penyesuaian laman anda">
 <!ENTITY pref_category_home_panels "Panel">
 <!ENTITY pref_category_home_add_ons "Add-ons">
