@@ -61,6 +61,7 @@ can reach it easily. -->
 <!ENTITY  closeTab.label                     "Ichki oynani yopish">
 <!ENTITY  closeTab.accesskey                 "y">
 
+<!ENTITY  hiddenTabs.label                   "Yashirilgan ichki oynalar">
 
 <!ENTITY  listAllTabs.label      "Barcha ichki oynalar ro‘yxati">
 
@@ -879,6 +880,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "DRM haqida ko‘proq o‘rganish…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+
 
 
 
