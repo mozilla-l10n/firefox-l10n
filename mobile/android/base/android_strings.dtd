@@ -282,6 +282,13 @@
 <!ENTITY pref_whats_new_notification "&brandShortName;‌ లో కొత్తదనం ఏమిటి">
 <!ENTITY pref_whats_new_notification_summary "ఒక నవీకరణ తర్వాత కొత్త లక్షణాల గురించి తెలుసుకోండి">
 
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!ENTITY pref_feature_tips_notification "ఉత్పాదన, సౌలభ్యాల చిట్కాలు">
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+<!ENTITY pref_feature_tips_notification_summary "&brandShortName; వాడుకోవడం గురించి, ఇతర &vendorShortName; ఉత్పత్తుల గురించి మరింత తెలుసుకోండి">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "ప్రయోగాత్మక సౌలభ్యాలు">
@@ -422,7 +429,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; ఆరోగ్య నివేదిక">
 <!ENTITY datareporting_fhr_summary2 "మీ విహారిణి ఆరోగ్యం గురించి భోగట్టాను &vendorShortName;కి తెలియజేస్తుంది మరియు మీరు మీ విహారిణి సామర్ధ్యాన్ని అర్థం చేసుకోడానికి సహాయపడుతుంది">
-<!ENTITY datareporting_abouthr_title "ఆరోగ్య నివేదికను చూడండి">
 <!ENTITY datareporting_telemetry_title "టెలీమెట్రీ">
 <!ENTITY datareporting_telemetry_summary "&brandShortName;ను మరింత మెరుగుపరచంలో మాకు సహాయపడే మీ విహారిణి పనితనం, వాడుక, హార్డువేరు మరియు మీరు మలచుకున్న తీరు గురించిన దత్తాంశాన్ని &vendorShortName;తో పంచుకుంటుంది">
 <!ENTITY datareporting_crashreporter_summary "మీ విహారిణిని మరింత స్థిరంగా సురక్షితంగా తయారుచెయ్యడానికి &brandShortName; క్రాష్ నివేదికలను &vendorShortName;‌కి పంపిస్తుంది">
