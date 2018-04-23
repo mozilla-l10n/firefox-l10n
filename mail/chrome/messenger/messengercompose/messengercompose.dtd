@@ -88,6 +88,17 @@
 <!ENTITY reorderAttachmentsCmd.label "Organiser vedhæftede filer…">
 <!ENTITY reorderAttachmentsCmd.accesskey "r">
 <!ENTITY reorderAttachmentsCmd.key "x">
+<!ENTITY toggleAttachmentPaneCmd.label "Ruden Vedhæftede filer">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
+     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
+     as attachments.accesskey. -->
+<!ENTITY toggleAttachmentPaneCmd.accesskey "æ">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
+     With OS-specific access modifier, this defines the shortcut key for showing/
+     hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
+     toggleAttachmentPaneCmd.key and attachments.accesskey must be the same
+     for the bucket view state machinery to work. -->
+<!ENTITY toggleAttachmentPaneCmd.key "æ">
 <!ENTITY selectAllCmd.label "Marker alt">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
@@ -109,26 +120,10 @@
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Organiser vedhæftede filer">
 <!ENTITY moveAttachmentTopPanelBtn.label "Flyt til toppen">
-<!ENTITY moveAttachmentTopPanelBtn.accesskey "T">
 <!ENTITY moveAttachmentUpPanelBtn.label "Flyt op">
-<!ENTITY moveAttachmentUpPanelBtn.accesskey "p">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Flyt sammen">
-<!ENTITY moveAttachmentBundleUpPanelBtn.accesskey "y">
 <!ENTITY moveAttachmentDownPanelBtn.label "Flyt ned">
-<!ENTITY moveAttachmentDownPanelBtn.accesskey "N">
 <!ENTITY moveAttachmentBottomPanelBtn.label "Flyt til bunden">
-<!ENTITY moveAttachmentBottomPanelBtn.accesskey "B">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.label):
-     Please ensure that this translation matches
-     sortAttachmentsTogglePanelBtn.ZA.label, except for the sort direction. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.label "Sorter valgte: A-Å">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.accesskey):
-     This accesskey should be the same like
-     sortAttachmentsTogglePanelBtn.ZA.accesskey, and it should be taken from
-     the "Sort Selection:" part of the label, not from the sort direction part. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.accesskey "o">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.label "Sorter valgte: Å-A">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.accesskey "o">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -253,6 +248,7 @@
 <!ENTITY quoteButton.tooltip "Citer den foregående meddelelse">
 <!ENTITY addressButton.tooltip "Vælg en modtager fra en adressebog">
 <!ENTITY attachButton.tooltip "Vedhæft en fil">
+<!ENTITY attachButton.tooltip2 "Vedhæft en fil">
 <!ENTITY spellingButton.tooltip "Brug stavekontrol i det markerede eller i hele meddelelsen">
 <!ENTITY saveButton.tooltip "Gem denne meddelelse">
 <!ENTITY cutButton.tooltip              "Klip">
@@ -274,9 +270,14 @@
 <!ENTITY followupAddr.label "Opfølgning til:">
 <!ENTITY subject.label "Emne:">
 <!ENTITY subject.accesskey "E">
-<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
-     to the strings in attachmentCount in composeMsgs.properties -->
+<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
+     be taken from the strings in attachmentCount in composeMsgs.properties,
+     and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
+     work, as the shortcut key functionality supersedes the access key. -->
 <!ENTITY attachments.accesskey "æ">
+
+<!ENTITY attachmentBucketHeader.tooltip "Ruden Vedhæftede filer">
+<!ENTITY attachmentBucketCloseButton.tooltip "Skjul ruden Vedhæftede filer">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Indsæt smiley">
@@ -314,6 +315,7 @@
 <!ENTITY pasteQuote.label "Indsæt som citat">
 <!ENTITY pasteQuote.accesskey "c">
 
+<!-- Attachment Item and List Context Menus -->
 <!ENTITY openAttachment.label "Åbn">
 <!ENTITY openAttachment.accesskey "Å">
 <!ENTITY delete.label "Slet">
@@ -324,6 +326,8 @@
 <!ENTITY renameAttachment.accesskey "O">
 <!ENTITY reorderAttachments.label "Organiser vedhæftede filer…">
 <!ENTITY reorderAttachments.accesskey "r">
+<!ENTITY removeAllAttachments.label "Fjern alle vedhæftede filer">
+<!ENTITY removeAllAttachments.accesskey "j">
 <!ENTITY selectAll.label "Marker alt">
 <!ENTITY selectAll.accesskey "a">
 <!ENTITY attachFile.label "Vedhæft filer…">
@@ -338,6 +342,13 @@
 <!ENTITY convertRegularAttachment.accesskey "A">
 <!ENTITY attachPage.label "Vedhæft webside…">
 <!ENTITY attachPage.accesskey "h">
+
+<!-- Attachment Pane Header Bar Context Menu -->
+<!-- LOCALIZATION NOTE (initiallyShowAttachmentPane.label):
+     Should use the same wording as startExpandedCmd.label
+     in msgHdrViewOverlay.dtd. -->
+<!ENTITY initiallyShowAttachmentPane.label "Vis ruden for vedhæftninger">
+<!ENTITY initiallyShowAttachmentPane.accesskey "V">
 
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Tilføj ordbøger…">
