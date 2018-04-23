@@ -999,6 +999,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "એક્સ્ટેંશન અક્ષમ કરો">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
+<!ENTITY homepageControlled.message "એક્સટેન્શને જે તમે તમારા મુખ્ય પૃષ્ઠ તરીકે જોયું તેને બદલ્યું છે. જો તમે આ ફેરફાર ન ઇચ્છતા હો તો તમે તમારી સેટિંગ્સને પુનઃસ્થાપિત કરી શકો છો.">
+<!ENTITY homepageControlled.header.message "તમારું મુખ્યપૃષ્ઠ બદલાયું છે.">
+<!ENTITY homepageControlled.keepButton.label "પરિવર્તનો રાખો">
+<!ENTITY homepageControlled.keepButton.accesskey "K">
+<!ENTITY homepageControlled.disableButton.label "એક્સ્ટેંશન અક્ષમ કરો">
+<!ENTITY homepageControlled.disableButton.accesskey "D">
+
 <!ENTITY pageActionButton.tooltip "પૃષ્ઠ ક્રિયાઓ">
 <!ENTITY pageAction.addToUrlbar.label "સરનામાં બારમાં ઉમેરો">
 <!ENTITY pageAction.removeFromUrlbar.label "સરનામાં બારમાંથી દૂર કરો">
@@ -1008,6 +1015,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "ઉપકરણ પર ટેબ મોકલો">
 <!ENTITY sendToDevice.syncNotReady.label "સમન્વય કરતા ઉપકરણો…">
+
+<!ENTITY pageAction.shareUrl.label "વહેંચો">
 
 <!ENTITY libraryButton.tooltip "ઇતિહાસ, સાચવેલા બુકમાર્ક્સ, અને વધુ જુઓ">
 
