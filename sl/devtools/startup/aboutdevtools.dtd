@@ -30,6 +30,8 @@
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.aboutDebuggingMessage): Message displayed
   -  when users come from about:debugging. -->
+<!ENTITY  aboutDevtools.enable.aboutDebuggingMessage
+          "Razvoj in razhroščevanje razširitev, web workerjev, service workerjev in druge programske opreme s Firefoxovimi razvojnimi orodji.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.keyShortcutMessage): Message displayed when
   -  users pressed a DevTools key shortcut. -->
