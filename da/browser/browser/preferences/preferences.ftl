@@ -85,7 +85,6 @@ search-results-empty-message =
     }
 
 search-results-help-link = Har du brug for hjælp? Besøg <a data-l10n-name="url">Hjælp til { -brand-short-name }</a>
-    }
 
 ## General Section
 
