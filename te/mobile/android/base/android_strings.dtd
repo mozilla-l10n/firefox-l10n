@@ -18,7 +18,7 @@
 <!ENTITY firstrun_data_message "తక్కువ డేటా, మరింత పొదుపు">
 <!ENTITY firstrun_data_subtext2 "మీరు సందర్శించే ప్రతి సైట్ డేటాను తక్కువగా ఖర్చు పెట్టడానికి చిత్రాలు ఆపివేయండి.">
 <!ENTITY firstrun_sync_title "సింక్">
-<!ENTITY firstrun_sync_message2 "మీరు వదిలిన చోటు నుండి ప్రారంభించండి.">
+<!ENTITY firstrun_sync_message2 "మీరు వదిలిన చోటు నుండే మొదలుపెట్టండి.">
 <!ENTITY firstrun_sync_subtext2 "మీరు &brandShortName; కు సేవ్ చేసిన భద్రపరిచిన ఇష్టాంశాలు, సంకేతపదాలు మరియు ఇతర విషయాలను మీ అన్ని పరికరాల్లో కనుగొనడానికి సమకాలీకరణను ఉపయోగించండి.">
 <!ENTITY firstrun_signin_message "కనెక్ట్ చేసుకోగా, ప్రారంభించడానికి">
 <!ENTITY firstrun_signin_button "Sync లోనికి ప్రవేశించండి">
@@ -179,7 +179,7 @@
 <!ENTITY overlay_no_synced_devices "Firefox ఖాతా సంధానమైవున్న పరికరాలేమీ కనబడలేదు">
 
 <!ENTITY pref_category_search3 "వెతుకు">
-<!ENTITY pref_category_search_summary2 "డిఫాల్ట్ గా సెట్ చెయ్యండి, ప్రదర్శన సూచనలను జోడించండి">
+<!ENTITY pref_category_search_summary2 "చెర్చండి, అప్రమేయం చెయ్యండి, సలహాలు పొందండి">
 <!ENTITY pref_category_accessibility "అందుబాటు">
 <!ENTITY pref_category_accessibility_summary2 "పాఠ్య పరిమాణం, జూమ్, వాయిస్ ఇన్పుట్">
 <!ENTITY pref_category_privacy_short "అంతరంగికత">
@@ -205,12 +205,12 @@
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "టాబ్లు పునరుద్ధరించు, డేటా సేవర్, డెవలపర్ టూల్స్">
-<!ENTITY pref_category_notifications "నోటిఫికేషన్‌లు">
+<!ENTITY pref_category_notifications "గమనింపులు">
 <!ENTITY pref_category_notifications_summary "కొత్త సౌలభ్యాలు, వెబ్‌సైటు తాజాకరణలు">
 <!ENTITY pref_developer_remotedebugging_usb "USB ద్వారా రిమోట్ డీబగ్గింగ్">
 <!ENTITY pref_developer_remotedebugging_wifi "USB ద్వారా రిమోట్ డీబగ్గింగ్">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi డీబగ్గింగ్ ఒక QR కోడ్ రీడర్ అప్లికేషన్ ఇన్స్టాల్ చేయడానికి మీ పరికరం అవసరం.">
-<!ENTITY pref_remember_signons2 "లాగిన్ గుర్తుంచుకో">
+<!ENTITY pref_remember_signons2 "ప్రవేశాలను గుర్తుంచుకో">
 <!ENTITY pref_manage_logins "ప్రవేశాలను నిర్వహించండి">
 
 <!ENTITY pref_category_home "ముంగిలి">
@@ -233,7 +233,7 @@
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
-<!ENTITY home_homepage_radio_user_address "అభిమత">
+<!ENTITY home_homepage_radio_user_address "అభిమతం">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
