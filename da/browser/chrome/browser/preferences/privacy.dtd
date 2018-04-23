@@ -59,9 +59,6 @@
 
 <!ENTITY  acceptThirdParty3.pre.label     "Accepter tredjeparts cookies og websteds-data">
 <!ENTITY  acceptThirdParty3.pre.accesskey "t">
-<!ENTITY  acceptThirdParty.always.label   "Altid">
-<!ENTITY  acceptThirdParty.never.label    "Aldrig">
-<!ENTITY  acceptThirdParty.visited.label  "Fra besøgte">
 
 <!ENTITY  acceptThirdParty2.pre.label      "Accepter tredjeparts cookies">
 <!ENTITY  acceptThirdParty2.pre.accesskey  "t">
