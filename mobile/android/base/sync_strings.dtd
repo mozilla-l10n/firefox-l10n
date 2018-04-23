@@ -29,12 +29,12 @@
 <!ENTITY sync.default.client.name '&formatS2;పై &formatS1;'>
 
 <!-- Bookmark folder strings -->
-<!ENTITY bookmarks.folder.menu.label 'ఇష్టాంశముల మోనూ'>
+<!ENTITY bookmarks.folder.menu.label 'ఇష్టాంశాల మోనూ'>
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label 'ట్యాగులు'>
-<!ENTITY bookmarks.folder.toolbar.label 'ఇష్టాంశముల సాధనపట్టీ'>
-<!ENTITY bookmarks.folder.other.label 'ఇతర బుక్మార్కులు'>
-<!ENTITY bookmarks.folder.desktop.label 'డెస్కుటాప్ ఇష్టాంశములు'>
+<!ENTITY bookmarks.folder.toolbar.label 'ఇష్టాంశాల పనిముట్లపట్టీ'>
+<!ENTITY bookmarks.folder.other.label 'ఇతర ఇష్టాంశాలు'>
+<!ENTITY bookmarks.folder.desktop.label 'డెస్క్‌టాప్ ఇష్టాంశాలు'>
 <!ENTITY bookmarks.folder.mobile.label 'మొబైల్ ఇష్టాంశాలు'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label 'పిన్‌చేసినవి'>
@@ -63,7 +63,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; అమర్పు పూర్తయ్యింది; కానీ ఆటోమెటిగ్గా సింక్రనించడంలేదు. Android అమరికలు &gt; ఖాతాలు వద్ద “ఆటో-సింక్ డేటా” ఎంచుకోండి.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'మీ కొత్త Firefox ఖాతా లోనికి ప్రవేశించడానికి తాకండి.'>
 <!ENTITY fxaccount_status_choose_what 'ఏమి సమకాలీకరించాలో ఎంచుకోండి'>
-<!ENTITY fxaccount_status_bookmarks 'బుక్‌మార్కులు'>
+<!ENTITY fxaccount_status_bookmarks 'ఇష్టాంశాలు'>
 <!ENTITY fxaccount_status_history 'చరిత్ర'>
 <!ENTITY fxaccount_status_passwords2 'ప్రవేశాలు'>
 <!ENTITY fxaccount_status_tabs 'తెరిచివున్న ట్యాబులు'>
