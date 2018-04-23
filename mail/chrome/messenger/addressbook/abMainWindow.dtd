@@ -223,7 +223,7 @@ because displayed names don't have the comma in between. -->
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
 <!ENTITY contact.heading                                "Kenalan">
-<!ENTITY home.heading                                   "Halaman utama">
+<!ENTITY home.heading                                   "Laman">
 <!ENTITY other.heading                                  "Lain-lain">
 <!ENTITY chat.heading                                   "Sembang">
 <!ENTITY phone.heading                                  "Telefon">
