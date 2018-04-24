@@ -999,6 +999,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Изключване на разширението">
 <!ENTITY newTabControlled.disableButton.accesskey "и">
 
+<!ENTITY homepageControlled.message "Разширение е променило какво ще виждате при отваряне на нов раздел. Може да възстановите настройките ако такава промяна е нежелателна.">
+<!ENTITY homepageControlled.header.message "Вашата начална страница е променена.">
+<!ENTITY homepageControlled.keepButton.label "Запазване">
+<!ENTITY homepageControlled.keepButton.accesskey "з">
+<!ENTITY homepageControlled.disableButton.label "Изключване на разширението">
+<!ENTITY homepageControlled.disableButton.accesskey "и">
 
 <!ENTITY pageActionButton.tooltip "Действия със страницата">
 <!ENTITY pageAction.addToUrlbar.label "Добавяне към адресната лента">
