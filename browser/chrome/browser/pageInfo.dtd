@@ -79,6 +79,7 @@
 <!ENTITY  securityView.privacy.viewCookies              "Tampilkan Kuki">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
 <!ENTITY  securityView.privacy.clearSiteData            "Bersihkan Kuki dan Data Situs">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "B">
 <!ENTITY  securityView.privacy.passwords                "Pernahkah sandi untuk situs web ini disimpan?">
 <!ENTITY  securityView.privacy.viewPasswords            "Sandi Tersimpan">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "s">

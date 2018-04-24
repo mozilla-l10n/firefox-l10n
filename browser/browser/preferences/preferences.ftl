@@ -293,10 +293,23 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Jendela dan Tab Baru
+home-new-windows-tabs-description2 = Pilih yang akan dilihat pertama kali ketika membuka beranda, jendela baru, dan tab baru.
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Laman beranda dan jendela baru
 home-newtabs-mode-label = Tab baru
+home-restore-defaults =
+    .label = Pulihkan Bawaan
+    .accesskey = R
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Beranda Firefox (Baku)
+home-mode-choice-custom =
+    .label = URL Ubahsuai…
+home-mode-choice-blank =
+    .label = Laman Kosong
 home-homepage-custom-url =
     .placeholder = Tempel URL...
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -468,6 +481,9 @@ privacy-header = Privasi Peramban
 ## Privacy Section - Forms
 
 forms-header = Formulir & Sandi
+forms-ask-to-save-logins =
+    .label = Minta untuk menyimpan info masuk dan kata sandi untuk situs web
+    .accesskey = M
 forms-exceptions =
     .label = Pengecualian…
     .accesskey = c
@@ -501,6 +517,7 @@ history-remember-option-never =
     .label = tidak akan mengingat data riwayat
 history-remember-option-custom =
     .label = menggunakan pengaturan khusus untuk data riwayat
+history-remember-description = { -brand-short-name } akan mengingat penjelajahan, unduhan, formulir, dan riwayat pencarian Anda.
 history-dontremember-description = { -brand-short-name } akan menggunakan pengaturan seperti halnya pengaturan mode penjelajahan pribadi dan tidak akan menyimpan riwayat apa pun ketika Anda menjelajah Web.
 history-private-browsing-permanent =
     .label = Selalu gunakan mode penjelajahan pribadi
@@ -525,13 +542,20 @@ history-clear-button =
 
 sitedata-header = Kuki dan Data Situs
 sitedata-learn-more = Pelajari lebih lanjut
+sitedata-accept-cookies-option =
+    .label = Terima kuki dan situs data dari situs web (direkomendasikan)
+    .accesskey = A
 sitedata-block-cookies-option =
     .label = Blokir kuki dan data situs (bisa menyebabkan situs web macet)
     .accesskey = B
 sitedata-keep-until = Simpan hingga
     .accesskey = h
+sitedata-keep-until-expire =
+    .label = Kedaluwarsa
 sitedata-keep-until-closed =
     .label = { -brand-short-name } ditutup
+sitedata-accept-third-party-desc = Terima kuki dan data situs dari pihak ketiga
+    .accesskey = y
 sitedata-accept-third-party-always-option =
     .label = Selalu
 sitedata-accept-third-party-visited-option =
@@ -541,6 +565,9 @@ sitedata-accept-third-party-never-option =
 sitedata-clear =
     .label = Hapus Data…
     .accesskey = l
+sitedata-settings =
+    .label = Kelola Data
+    .accesskey = M
 sitedata-cookies-exceptions =
     .label = Pengecualian…
     .accesskey = e
