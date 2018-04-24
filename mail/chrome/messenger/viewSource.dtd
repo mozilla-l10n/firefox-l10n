@@ -10,22 +10,23 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifierseparator " - ">
+<!ENTITY mainWindow.preface "Lähdekoodi sivulle: ">
 
 <!ENTITY fileMenu.label "Tiedosto">
 <!ENTITY fileMenu.accesskey "T">
 <!ENTITY savePageCmd.label "Tallenna sivu nimellä…">
 <!ENTITY savePageCmd.accesskey "S">
-<!ENTITY savePageCmd.commandkey "n">
+<!ENTITY savePageCmd.commandkey "S">
 <!ENTITY pageSetupCmd.label "Sivun asetukset…">
-<!ENTITY pageSetupCmd.accesskey "a">
+<!ENTITY pageSetupCmd.accesskey "e">
 <!ENTITY printPreviewCmd.label "Tulostuksen esikatselu">
-<!ENTITY printPreviewCmd.accesskey "e">
+<!ENTITY printPreviewCmd.accesskey "k">
 <!ENTITY printCmd.label "Tulosta…">
-<!ENTITY printCmd.accesskey "u">
-<!ENTITY printCmd.commandkey "u">
+<!ENTITY printCmd.accesskey "o">
+<!ENTITY printCmd.commandkey "P">
 <!ENTITY closeCmd.label "Sulje">
-<!ENTITY closeCmd.accesskey "j">
-<!ENTITY closeCmd.commandkey "j">
+<!ENTITY closeCmd.accesskey "S">
+<!ENTITY closeCmd.commandkey "W">
 
 <!-- LOCALIZATION NOTE :
 textEnlarge.commandkey3, textReduce.commandkey2 and
@@ -35,6 +36,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY goToLineCmd.label "Siirry riville…">
+<!ENTITY goToLineCmd.accesskey "r">
+<!ENTITY goToLineCmd.commandkey "L">
 
 <!ENTITY viewMenu.label           "Näytä">
 <!ENTITY viewMenu.accesskey       "N">
@@ -45,6 +48,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_highlightSyntax.label "Syntaksin korostus">
 <!ENTITY menu_highlightSyntax.accesskey "k">
 <!ENTITY menu_textSize.label "Tekstin koko">
+<!ENTITY menu_textSize.accesskey "e">
 <!ENTITY menu_textEnlarge.label "Suurenna">
 <!ENTITY menu_textEnlarge.accesskey "S">
 <!ENTITY menu_textReduce.label "Pienennä">
@@ -53,7 +57,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_textReset.accesskey "N">
 
 <!ENTITY findOnCmd.label     "Etsi tältä sivulta…">
-<!ENTITY findOnCmd.accesskey "E">
+<!ENTITY findOnCmd.accesskey "t">
 <!ENTITY findAgainCmd.label  "Etsi uudelleen">
 <!ENTITY findAgainCmd.accesskey "u">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
