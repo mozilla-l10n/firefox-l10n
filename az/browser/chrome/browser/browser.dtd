@@ -61,6 +61,8 @@ can reach it easily. -->
 <!ENTITY  closeTab.label                     "Vərəqi qapat">
 <!ENTITY  closeTab.accesskey                 "Q">
 
+<!ENTITY  hiddenTabs.label                   "Gizli Vərəqlər">
+
 <!ENTITY  listAllTabs.label      "Bütün vərəqləri siyahıla">
 
 <!ENTITY tabCmd.label "Yeni vərəq">
@@ -222,6 +224,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Qalıcı Yaddaşda məlumat saxlama">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Səyyah uzaqdan idarədədir">
 
+<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Web Təsdiqləmə panelini aç">
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Kamera və/və ya mikrofonu saytla paylaşmağınızı idarə edin">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Mikrofonu saytla paylaşmağınızı idarə edin">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Pəncərə və ya ekranları saytla paylaşmağınızı idarə edin">
@@ -268,7 +272,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addBookmarksMenu.label             "Əlfəcinlər menyusunu Alət sətrinə əlavə et">
 <!ENTITY removeBookmarksMenu.label          "Əlfəcinlər menyusunu Alət sətrindən sil">
 
-<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 <!ENTITY bookmarksGtkCmd.commandkey "o">
@@ -299,6 +303,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY inspectContextMenu.label     "Obyekti araşdır">
 <!ENTITY inspectContextMenu.accesskey "Q">
+
+<!ENTITY inspectA11YContextMenu.label     "Əlverişlilik özəlliklərini yoxla">
 
 <!ENTITY fileMenu.label         "Fayl">
 <!ENTITY fileMenu.accesskey       "F">
@@ -385,7 +391,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Digər cihazlarınızdakı vərəqlərin siyahısını görmək üçün vərəq sinxronizasiyasını aktivləşdirin.">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Digər cihazlarınızda olan vərəqləri burada görmək istərdiniz?">
@@ -993,6 +999,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Uzantını söndür">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
+<!ENTITY homepageControlled.message "Uzantı ev səhifənizi dəyişdirdi. Əgər bu dəyişikliyi istəmirsinizsə tənzimləmələrinizi bərpa edə bilərsiz.">
+<!ENTITY homepageControlled.header.message "Ev səhifəniz dəyişdirildi.">
+<!ENTITY homepageControlled.keepButton.label "Dəyişiklikləri saxla">
+<!ENTITY homepageControlled.keepButton.accesskey "K">
+<!ENTITY homepageControlled.disableButton.label "Uzantını söndür">
+<!ENTITY homepageControlled.disableButton.accesskey "D">
+
 <!ENTITY pageActionButton.tooltip "Səhifə əməliyyatları">
 <!ENTITY pageAction.addToUrlbar.label "Ünvan sətrinə əlavə et">
 <!ENTITY pageAction.removeFromUrlbar.label "Ünvan sətrindən sil">
@@ -1002,6 +1015,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "Vərəqi cihaza göndər">
 <!ENTITY sendToDevice.syncNotReady.label "Cihazlar Sinxronlaşdırılır…">
+
+<!ENTITY pageAction.shareUrl.label "Paylaş">
 
 <!ENTITY libraryButton.tooltip "Tarixçəni, saxlanılmış əlfəcinləri və daha çox şeyi görün">
 
