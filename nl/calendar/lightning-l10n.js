@@ -6,7 +6,7 @@
 
 # the default day to start the week on
 #0=Sunday 1=Monday 2=Tuesday 3=Wednesday 4=Thursday 5=Friday 6=Saturday
-pref("calendar.week.start", 0);
+pref("calendar.week.start", 1);
 
 # default days off (not in work week)
 pref("calendar.week.d0sundaysoff", true);
