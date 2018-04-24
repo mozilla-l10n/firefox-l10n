@@ -46,7 +46,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "เอกสารหมดอายุ">
-<!ENTITY notCached.longDesc "<p>เอกสารที่ร้องขอไม่มีในแคชของ &brandShortName;</p><ul><li>ตามมาตรการรักษาความปลอดภัย &brandShortName; จะไม่ร้องขอเอกสารที่ละเอียดอ่อนให้ใหม่โดยอัตโนมัติ</li><li>คลิก ลองอีกครั้ง เพื่อร้องขอเอกสารจากเว็บไซต์ใหม่</li></ul>">
+<!ENTITY notCached.longDesc "<p>เอกสารที่ขอไม่มีในแคชของ &brandShortName;</p><ul><li>ตามมาตรการรักษาความปลอดภัย &brandShortName; จะไม่ขอเอกสารที่ละเอียดอ่อนให้ใหม่โดยอัตโนมัติ</li><li>คลิก ลองอีกครั้ง เพื่อขอเอกสารจากเว็บไซต์ใหม่</li></ul>">
 
 <!ENTITY netOffline.title "โหมดออฟไลน์">
 <!ENTITY netOffline.longDesc2 "<ul> <li>กด &quot;ลองอีกครั้ง&quot; เพื่อสลับเป็นโหมดออนไลน์และโหลดหน้าใหม่</li> </ul>">
