@@ -91,6 +91,7 @@ startup-header = Start
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = Gläichzäiteg Ausféierung vun { -brand-short-name } a Firefox erlaben
+use-firefox-sync = Tipp: dëst benotzt separat Profiller. Benotz { -sync-brand-short-name } fir Donnéeën ënnerteneen ze deelen.
 get-started-not-logged-in = Bei { -sync-brand-short-name } umellen...
 get-started-configured = { -sync-brand-short-name }-Astellungen opmaachen
 always-check-default =
@@ -103,10 +104,15 @@ set-as-my-default-browser =
     .accesskey = S
 startup-page = Wa { -brand-short-name } gestart gëtt
     .accesskey = s
+startup-user-homepage =
+    .label = Deng Startsäit weisen
 startup-blank-page =
     .label = Eng eidel Säit weisen
+startup-prev-session =
+    .label = Deng Fënsteren an Tabs vu leschter Kéier uweisen
 disable-extension =
     .label = Erweiderung desaktivéieren
+home-page-header = Startsäit
 tabs-group-header = Tabs
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab geet duerch Tabs a lescht benotzter Reiefolleg
@@ -117,6 +123,12 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Warne wa méi Tabs zougemaach ginn
     .accesskey = m
+warn-on-open-many-tabs =
+    .label = Warne wann d'Opmaachen vun méi Tabs de { -brand-short-name } méi lues kéint maachen
+    .accesskey = d
+switch-links-to-new-tabs =
+    .label = Wanns Du en neie Link op mëss, direkt dohi wiesselen
+    .accesskey = h
 browser-containers-learn-more = Fir méi ze wëssen
 browser-containers-settings =
     .label = Astellungen....
@@ -153,9 +165,22 @@ check-user-spelling =
 
 ## General Section - Files and Applications
 
+files-and-applications-title = Fichieren an Applikatiounen
+download-header = Downloads
 download-save-to =
     .label = Fichiere späicheren am Dossier
     .accesskey = V
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Auswielen…
+           *[other] Duerchsichen…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] e
+           *[other] o
+        }
 download-always-ask-where =
     .label = Ëmmer froe wou d'Fichiere gespäichert solle ginn
     .accesskey = A
@@ -194,6 +219,11 @@ network-proxy-connection-settings =
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Startsäit an nei Fënsteren
+home-newtabs-mode-label = Nei Tabs
+home-restore-defaults =
+    .label = Op de Standard zrécksetzen
+    .accesskey = R
 home-mode-choice-blank =
     .label = Eidel Säit
 # This string has a special case for '1' and [other] (default). If necessary for
