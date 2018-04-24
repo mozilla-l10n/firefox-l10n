@@ -998,6 +998,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Desactivar l’extension">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
+<!ENTITY homepageControlled.header.message "La pagina d’acuèlh es estada cambiada.">
+<!ENTITY homepageControlled.keepButton.label "Servar los cambiaments">
+<!ENTITY homepageControlled.keepButton.accesskey "S">
+<!ENTITY homepageControlled.disableButton.label "Desactivar l’extension">
+<!ENTITY homepageControlled.disableButton.accesskey "D">
+
 <!ENTITY pageActionButton.tooltip "Accions de la pagina">
 <!ENTITY pageAction.addToUrlbar.label "Apondre la barra d'adreça">
 <!ENTITY pageAction.removeFromUrlbar.label "Levar de la barra d'adreça">
@@ -1007,6 +1013,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "Mandar l’onglet al periferic">
 <!ENTITY sendToDevice.syncNotReady.label "Sincronisacion dels periferics…">
+
+<!ENTITY pageAction.shareUrl.label "Partejar">
 
 <!ENTITY libraryButton.tooltip "Veire l'istoric, salvar los marcapaginas, e mai">
 
