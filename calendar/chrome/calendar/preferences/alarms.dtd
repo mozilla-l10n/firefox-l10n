@@ -18,7 +18,7 @@
 <!ENTITY pref.calendar.alarms.sound.play.accessKey "p">
 <!ENTITY pref.showalarmbox "Vis pop op-vindue ved alarmer">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "v">
-<!ENTITY pref.missedalarms "Vis alarmer jeg gik glip af">
+<!ENTITY pref.missedalarms2 "Vis påmindelser, jeg er gået glip af i skrivbare kalendere">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "i">
 <!ENTITY pref.calendar.alarms.defaults.label "Alarm-forvalg">
 <!ENTITY pref.defalarm4events.label "Forvalgt indstilling for begivenheder:">
