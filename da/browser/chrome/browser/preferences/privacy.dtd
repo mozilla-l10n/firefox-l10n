@@ -13,6 +13,7 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "p">
 <!ENTITY  trackingProtectionNever.label        "Aldrig">
 <!ENTITY  trackingProtectionNever.accesskey    "l">
+<!ENTITY  trackingProtectionLearnMore2.label    "Læs mere om beskyttelse mod sporing og beskyttelse af dit privatliv">
 <!ENTITY  trackingProtectionLearnMore.label    "Læs mere">
 <!ENTITY  trackingProtectionExceptions.label   "Undtagelser…">
 <!ENTITY  trackingProtectionExceptions.accesskey "u">
