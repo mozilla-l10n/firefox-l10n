@@ -36,6 +36,12 @@
 <!ENTITY newFeedAccountCmd.accesskey "е">
 <!ENTITY newIMContactCmd.label "Контакт за разговор…">
 <!ENTITY newIMContactCmd.accesskey "К">
+<!ENTITY  newMessageCmd2.key "N">
+<!ENTITY  newMessageCmd.key "M">
+<!ENTITY  newMessageCmd.label "Писмо">
+<!ENTITY  newMessageCmd.accesskey "п">
+<!ENTITY  newContactCmd.label "Контакт в адресника…">
+<!ENTITY  newContactCmd.accesskey "к">
 <!ENTITY openMessageFileCmd.label "Отваряне на запазено писмо…">
 <!ENTITY openMessageFileCmd.accesskey "О">
 <!ENTITY saveAsMenu.label "Запазване като">
@@ -509,8 +515,6 @@
 <!ENTITY devToolboxCmd.label "Инструменти за разработчика">
 <!ENTITY devToolboxCmd.accesskey "р">
 <!ENTITY devToolboxCmd.commandkey "i">
-<!ENTITY addonDebugCmd.label "Дебъгер за добавки">
-<!ENTITY addonDebugCmd.accesskey "д">
 <!ENTITY debugAddonsCmd.label "Дебъгване на добавки">
 <!ENTITY debugAddonsCmd.accesskey "д">
 <!ENTITY tabsDebugCmd.label "Дебъгер на съдържащата рамка">
@@ -645,6 +649,7 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Изтегляне на писма">
 <!ENTITY folderContextGetMessages.accesskey "И">
+<!ENTITY folderContextMarkAllFoldersRead.label "Отбелязване папките като прочетени">
 <!ENTITY folderContextPauseAllUpdates.label "Спиране на всякакво обновяване">
 <!ENTITY folderContextPauseUpdates.label "Спиране на обновяване">
 <!ENTITY folderContextPauseUpdates.accesskey "о">
@@ -870,7 +875,7 @@
   -->
 <!ENTITY quickSearchCmd.key "k">
 <!-- LOCALIZATION NOTE (search.label.base1):
-      This is the base of the empty text for the global search box. We replace
+     This is the base of the empty text for the global search box. We replace
      #1 with the contents of the appropriate search.keyLabel.* value for the
      platform.
      The goal is to convey to the user that typing in the box will allow them
