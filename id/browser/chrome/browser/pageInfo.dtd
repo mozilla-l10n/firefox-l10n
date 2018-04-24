@@ -78,6 +78,7 @@
 <!ENTITY  securityView.privacy.cookies                  "Apakah situs web ini menyimpan informasi (kuki) dalam komputer saya?">
 <!ENTITY  securityView.privacy.viewCookies              "Tampilkan Kuki">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.siteData                 "Apakah situs web ini menyimpan informasi dalam komputer saya?">
 <!ENTITY  securityView.privacy.clearSiteData            "Bersihkan Kuki dan Data Situs">
 <!ENTITY  securityView.privacy.clearSiteData.accessKey  "B">
 <!ENTITY  securityView.privacy.passwords                "Pernahkah sandi untuk situs web ini disimpan?">
