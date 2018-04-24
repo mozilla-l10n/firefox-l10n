@@ -998,6 +998,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Estä laajennus">
 <!ENTITY newTabControlled.disableButton.accesskey "E">
 
+<!ENTITY homepageControlled.header.message "Aloitussivusi on muuttunut.">
+<!ENTITY homepageControlled.disableButton.label "Estä laajennus">
+
 <!ENTITY pageActionButton.tooltip "Sivun toiminnot">
 <!ENTITY pageAction.addToUrlbar.label "Lisää osoitepalkkiin">
 <!ENTITY pageAction.removeFromUrlbar.label "Poista osoitepalkista">
@@ -1007,6 +1010,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "Lähetä välilehti laitteeseen">
 <!ENTITY sendToDevice.syncNotReady.label "Synkronoidaan laitteita…">
+
+<!ENTITY pageAction.shareUrl.label "Jaa">
 
 <!ENTITY libraryButton.tooltip "Katsele historiaa, tallennettuja kirjanmerkkejä ynnä muuta">
 
