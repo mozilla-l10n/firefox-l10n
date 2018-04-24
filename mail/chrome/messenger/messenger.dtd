@@ -508,7 +508,7 @@
 <!ENTITY accountManagerCmdUnix2.accesskey "a">
 
 <!-- Developer Tools Submenu -->
-<!ENTITY devtoolsMenu.label "Kehittäjätyökalut">
+<!ENTITY devtoolsMenu.label "Kehittäjän työkalut">
 <!ENTITY devtoolsMenu.accesskey "h">
 <!ENTITY devToolboxCmd.label "Kehittäjän työkalulaatikko">
 <!ENTITY devToolboxCmd.accesskey "t">
