@@ -88,7 +88,7 @@
 <!ENTITY lightning.imipbar.btnSendSeries.tooltiptext                        "Een antwoord voor de hele serie naar de organisator verzenden">
 <!ENTITY lightning.imipbar.btnDontSend.label                                "Geen antwoord verzenden">
 <!ENTITY lightning.imipbar.btnDontSend.tooltiptext                          "Uw deelnamestatus wijzigen zonder een antwoord naar de organisator te verzenden">
-<!ENTITY lightning.imipbar.btnDontSendSeries.tooltiptext                    "Uw deelnamestatus voor de serie wijzigen zonder een een antwoord naar de organisator te verzenden">
+<!ENTITY lightning.imipbar.btnDontSendSeries.tooltiptext                    "Uw deelnamestatus voor de serie wijzigen zonder een antwoord naar de organisator te verzenden">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
