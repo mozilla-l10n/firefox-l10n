@@ -61,6 +61,7 @@ can reach it easily. -->
 <!ENTITY  closeTab.label                     "கீற்றை மூடு">
 <!ENTITY  closeTab.accesskey                 "C">
 
+<!ENTITY  hiddenTabs.label                   "மறைக்கப்பட்ட கீற்றுகள்">
 
 <!ENTITY  listAllTabs.label      "அனைத்து கீற்றுகளையும் பட்டியலிடு">
 
@@ -112,6 +113,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "பக்க தகவல்">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.label "வடிவமைப்பு வழுநீக்கி">
 <!ENTITY ldbCmd.accesskey "L">
 <!ENTITY mirrorTabCmd.label "கீற்று பிரதி">
 <!ENTITY mirrorTabCmd.accesskey "M">
@@ -128,6 +130,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "A">
 <!ENTITY toggleReaderMode.key "R">
 
+<!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; உள்நுழை">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; முன்னுரிமைகளைத் திற">
@@ -213,6 +216,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "செய்தி பலகத்தை திறக்கவும்">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "இடம் கோரும் பலகத்தை திறக்கவும்">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "கூடுதல் இணைப்பு நிறுவல் செய்திப் பலகத்தை திற">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "திரை எடுப்பு அனுமதிகளை நிர்வகி">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "இணைப்பில்லா சேமிப்பு செய்தி பலகத்தைத் திற">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "கடவுச்சொல் சேமிப்பு செய்தி பலகத்தைத் திற">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "செருகி பயன்பாட்டை நிர்வகி">
@@ -220,6 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "நிரந்தர சேமிப்பகத்தில் தரவை வை">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "தொலை கட்டுப்பாட்டில் உலாவி">
 
+<!ENTITY urlbar.webAuthnAnchor.tooltip                    "வலை உறுதிப்படுத்தல் பலகத்தைத் திற">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "தளத்துடன் உங்கள் படக்கருவி மேலும்/அல்லது ஒலிவாங்கியை பகிர்வதை நிர்வகி">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "தளத்துடன் உங்கள் ஒலிவாங்கியை பகிர்வதை நிர்வகி">
@@ -230,6 +235,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "பக்க மொழிபெயர்ப்புகளை நிர்வகி">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM மென்பொருள் பயன்பாட்டை நிர்வகிக்கவும்">
 
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "MIDI பலகத்தைத் திற">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "இந்த தளத்தில் நிழற்படக் கருவியை முடக்கியுள்ளீர்கள்.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "இத்தளத்தில் ஒலிவாங்கியை முடக்கியுள்ளீர்கள்.">
@@ -238,7 +244,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "அறிவிப்புகளை இந்த தளத்தில் முடக்கியுள்ளீர்கள்.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "நீங்கள் நிரந்தர சேமிப்பை இந்த தளத்தில் முடக்கியுள்ளீர்கள்.">
 <!ENTITY urlbar.popupBlocked.tooltip             "இத்தளத்தில் பாப்பப் அறிவுறுத்தல்களை முடக்கியுள்ளீர்கள்.">
+<!ENTITY urlbar.canvasBlocked.tooltip            "திரை தரவு எடுப்பை இந்த தளத்தில் முடக்கியுள்ளீர்கள்.">
 
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "இத்தளத்தில் அடோப் பிளாஷ் செருகியை முடக்கியுள்ளீர்கள்.">
+<!ENTITY urlbar.midiBlocked.tooltip              "இந்த தளத்தில் MIDI அணுகலை முடக்கியுள்ளீர்கள்.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "வரலாற்றைக் காட்டு">
 
@@ -294,6 +303,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY inspectContextMenu.label     "உறுப்பு ஆய்வுசெய்">
 <!ENTITY inspectContextMenu.accesskey "Q">
+
+<!ENTITY inspectA11YContextMenu.label     "அணுகல்தன்மை பண்புகளை ஆராய்க">
 
 <!ENTITY fileMenu.label         "கோப்பு">
 <!ENTITY fileMenu.accesskey       "F">
@@ -433,6 +444,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "சொல்லைத் தேடுங்கள் அல்லது முகவரியை உள்ளிடுங்கள்">
+<!ENTITY urlbar.placeholder3          "தேடல் தொடர் மற்றும் முகவரிகளை இங்கு உள்ளிடவும்">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "நீட்சிகள்:">
@@ -986,6 +998,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "துணைநிரலை முடக்கவும்">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
+
 <!ENTITY pageActionButton.tooltip "பக்க செயல்கள்">
 <!ENTITY pageAction.addToUrlbar.label "முகவரி பட்டையில் சேர்">
 <!ENTITY pageAction.removeFromUrlbar.label "முகவரி பட்டையிலிருந்து நீக்கு">
@@ -995,6 +1008,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "சாதனத்திற்கு கீற்றுகளை அனுப்பு">
 <!ENTITY sendToDevice.syncNotReady.label "சாதனங்களை ஒத்திசைக்கிறது...">
+
 
 <!ENTITY libraryButton.tooltip "வரலாறு, சேமித்த புத்தகக்குறிகள், மற்றும் பலவற்றைப் பார்">
 
