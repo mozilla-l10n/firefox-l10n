@@ -305,9 +305,25 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Yeni Pəncərələr və Vərəqlər
+home-new-windows-tabs-description2 = Ev səhifənizi, yeni pəncərə və vərəqləri açdığınızda nə gördüyünüzü seçin.
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Ev səhifəsi və yeni pəncərələr
+home-newtabs-mode-label = Yeni vərəqlər
+home-restore-defaults =
+    .label = İlkin Seçənəkləri Bərpa et
+    .accesskey = R
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Firefox Ana Səhifə (İlkin)
+home-mode-choice-custom =
+    .label = Fərdi Ünvanlar…
+home-mode-choice-blank =
+    .label = Boş Səhifə
+home-homepage-custom-url =
+    .placeholder = Ünvan Yapışdır
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -416,6 +432,9 @@ sync-signedin-login-failure = Yenidən qoşulmaq üçün daxil olun { $email }
 sync-resend-verification =
     .label = Təsdiqi təkrar göndər
     .accesskey = d
+sync-remove-account =
+    .label = Hesabı sil
+    .accesskey = R
 sync-sign-in =
     .label = Daxil ol
     .accesskey = g
@@ -477,6 +496,9 @@ privacy-header = Səyahər Məxfiliyi
 ## Privacy Section - Forms
 
 forms-header = Formlar və Parollar
+forms-ask-to-save-logins =
+    .label = Daxil olma və parolları saxlamaq üçün soruş
+    .accesskey = r
 forms-exceptions =
     .label = İstisnalar…
     .accesskey = n
@@ -510,6 +532,7 @@ history-remember-option-never =
     .label = Tarixçəni heç vaxt xatırlama
 history-remember-option-custom =
     .label = Tarixçə üçün fərdi tənzimləmələri işlət
+history-remember-description = { -brand-short-name } səyahət, endirmə, forma və axtarış tarixçənizi yadda saxlayacaq.
 history-dontremember-description = { -brand-short-name } gizli baxışdakı nizamlamalardan istifadə edəcək və siz Web-də gəzərkən keçmişlə bağlı heçnə xatırlamayacaq.
 history-private-browsing-permanent =
     .label = Həmişə gizli baxış rejimindən istifadə et
@@ -534,8 +557,20 @@ history-clear-button =
 
 sitedata-header = Çərəzlər və Sayt Məlumatları
 sitedata-learn-more = Ətraflı öyrən
+sitedata-accept-cookies-option =
+    .label = Saytların çərəz və sayt məlumatlarını qəbul et (məsləhət görülür)
+    .accesskey = A
+sitedata-block-cookies-option =
+    .label = Çərəz və sayt məlumatlarını əngəllə (bəzi saytlar işləməyə bilər)
+    .accesskey = B
 sitedata-keep-until = Saxlama limiti
     .accesskey = u
+sitedata-keep-until-expire =
+    .label = Vaxtı bitənə qədər
+sitedata-keep-until-closed =
+    .label = { -brand-short-name } qapatılana qədər
+sitedata-accept-third-party-desc = Üçüncü tərəf çərəz və sayt məlumatlarını qəbul et
+    .accesskey = y
 sitedata-accept-third-party-always-option =
     .label = Həmişə
 sitedata-accept-third-party-visited-option =

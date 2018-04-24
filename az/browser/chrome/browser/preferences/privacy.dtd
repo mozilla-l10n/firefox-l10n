@@ -44,10 +44,13 @@
 <!ENTITY  acceptThirdParty2.pre.label     "Üçüncü tərəf çərəzlərini qəbul et">
 <!ENTITY  acceptThirdParty2.pre.accesskey "y">
 
+<!ENTITY  acceptCookies4.label          "Saytların çərəz və sayt məlumatlarını qəbul et (məsləhət görülür)">
 <!ENTITY  acceptCookies4.accesskey      "A">
 
+<!ENTITY  blockCookies.label            "Çərəz və sayt məlumatlarını əngəllə (bəzi saytlar işləməyə bilər)">
 <!ENTITY  blockCookies.accesskey        "B">
 
+<!ENTITY  acceptThirdParty3.pre.label     "Üçüncü tərəf çərəz və sayt məlumatlarını qəbul et">
 <!ENTITY  acceptThirdParty3.pre.accesskey "y">
 <!ENTITY  acceptThirdParty.always.label   "Həmişə">
 <!ENTITY  acceptThirdParty.never.label    "Heç vaxt">
@@ -83,6 +86,7 @@
 <!ENTITY  rememberActions.removeCookies.label "fərdi çərəzləri silə">
 <!ENTITY  rememberActions.post.label          " bilərsiz.">
 
+<!ENTITY  rememberDescription1.label      "&brandShortName; səyahət, endirmə, forma və axtarış tarixçənizi yadda saxlayacaq.">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; gizli baxışdakı nizamlamalardan istifadə edəcək və siz Web-də gəzərkən keçmişlə bağlı heçnə xatırlamayacaq.">
 
