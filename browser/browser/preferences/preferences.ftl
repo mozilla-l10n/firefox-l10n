@@ -658,7 +658,7 @@ permissions-a11y-privacy-link = เรียนรู้เพิ่มเติ
 ## Privacy Section - Data Collection
 
 collection-header = การเก็บรวบรวมและใช้ข้อมูล { -brand-short-name }
-collection-description = เรามุ่งมั่นที่จะให้ทางเลือกกับคุณและเก็บรวบรวมเฉพาะสิ่งที่เราจำเป็นต้องจัดหาและปรับปรุง { -brand-short-name } สำหรับทุกคน เราร้องขอการอนุญาตก่อนที่จะรับข้อมูลส่วนบุคคลเสมอ
+collection-description = เรามุ่งมั่นที่จะให้ทางเลือกกับคุณและเก็บรวบรวมเฉพาะสิ่งที่เราจำเป็นต้องจัดหาและปรับปรุง { -brand-short-name } สำหรับทุกคน เราขออนุญาตก่อนที่จะรับข้อมูลส่วนบุคคลเสมอ
 collection-privacy-notice = ประกาศความเป็นส่วนตัว
 collection-health-report =
     .label = อนุญาตให้ { -brand-short-name } ส่งข้อมูลทางเทคนิคและการโต้ตอบไปยัง { -vendor-short-name }
@@ -697,7 +697,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = ใบรับรอง
-certs-personal-label = เมื่อเซิร์ฟเวอร์ร้องขอใบรับรองส่วนบุคคลของคุณ
+certs-personal-label = เมื่อเซิร์ฟเวอร์ขอใบรับรองส่วนบุคคลของคุณ
 certs-select-auto-option =
     .label = เลือกมาหนึ่งโดยอัตโนมัติ
     .accesskey = ห
