@@ -60,7 +60,7 @@
 <!ENTITY  permissionsFor        "Løyve for:">
 <!ENTITY  permPlugins           "Slå på programtillegg">
 
-<!ENTITY  securityTab           "SIkkerheit">
+<!ENTITY  securityTab           "Sikkerheit">
 <!ENTITY  securityTab.accesskey "S">
 <!ENTITY  securityView.certView "Vis sertifikat">
 <!ENTITY  securityView.accesskey "V">
