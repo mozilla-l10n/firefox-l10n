@@ -260,6 +260,7 @@ tracking-mode-never =
 
 ## Privacy Section - Permissions
 
+permissions-location = Dane' huin
 permissions-location-settings =
     .label = Nagi'iô'...
     .accesskey = g

@@ -7,6 +7,12 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-arabic =
+    .label = Arâbiko
+fonts-langgroup-armenian =
+    .label = Amêniu
+fonts-langgroup-bengali =
+    .label = Bengalî
 fonts-langgroup-georgian =
     .label = Yeoryiâno
 fonts-langgroup-el =

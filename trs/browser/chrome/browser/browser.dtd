@@ -257,6 +257,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton2.label         "Menu raj sun nichrò doj">
 <!ENTITY bookmarksMenuButton.other.label    "A'ngo sa raj sun nichrò' doj">
 <!ENTITY bookmarksMenuButton.mobile.label   "Nej marcador aché">
+<!ENTITY viewBookmarksToolbar.label         "Ni'io riña sa gara sun'">
+<!ENTITY hideBookmarksToolbar.label         "Gachrī hui' dukuâ sa raj sun'">
+<!ENTITY searchBookmarks.label              "Nana'ui' sa raj sun nichrò' doj">
+<!ENTITY bookmarkingTools.label             "Si rasun markadores">
+<!ENTITY addBookmarksMenu.label             "Nuto' dukuân sa raj sun'">
+<!ENTITY removeBookmarksMenu.label          "Gahī hui' dukuân sa raj sun'">
 
 <!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -288,10 +294,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.accesskey "Q">
 
 
+<!ENTITY fileMenu.label         "Sa ma sà'a">
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.accesskey         "B">
+<!ENTITY newNavigatorCmd.label        "Ventana nakàa">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
+<!ENTITY newPrivateWindow.label     "Nànin' 'ngo ventana huìi">
 <!ENTITY newPrivateWindow.accesskey "W">
 
 <!ENTITY editMenu.label         "Nagi'iô'">
@@ -338,8 +347,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoMenu.label "Rakïj ñanj hiaj narrán nakà">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 
+<!ENTITY showAllHistoryCmd2.label "Digû' riña gaché nu'">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
+<!ENTITY appMenuHistory.showAll.label "Digû' riña gaché nu'">
 <!ENTITY appMenuHelp.label "Sa ruguñu'unj un">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -492,6 +503,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageDescCmd.accesskey   "D">
 <!ENTITY viewVideoCmd.label           "Ni'io' bideo">
 <!ENTITY viewVideoCmd.accesskey       "I">
+<!ENTITY viewBGImageCmd.accesskey     "w">
 <!-- alternate for content area context menu -->
 
 <!-- Media (video/audio) controls -->
