@@ -123,7 +123,7 @@ warn-on-close-multiple-tabs =
     .label = పలు ట్యాబులను మూసివేస్తున్నప్పుడు మిమ్మల్ని హెచ్చరించు
     .accesskey = m
 warn-on-open-many-tabs =
-    .label = { -brand-short-name } నిదానింపు చేయగల బహుళ ట్యాబులను తెరుచునపుడు నిన్ను హెచ్చరించు
+    .label = ఎక్కువ ట్యాబులను తెరిచినప్పుడు { -brand-short-name }‌ నెమ్మదిస్తూంటే నన్ను హెచ్చరించు
     .accesskey = d
 switch-links-to-new-tabs =
     .label = నేను కొత్త ట్యాబులో లంకెను తెరిచినప్పుడు, వెంటనే దానికి మారు
@@ -665,7 +665,7 @@ security-block-downloads =
     .label = ప్రమాదకరమైన దింపుకోళ్ళను నిరోధించు
     .accesskey = D
 security-block-uncommon-software =
-    .label = అవాంఛిత, అసాధారణ సాఫ్ట్‌వేర్ల గురించి నిన్ను హెచ్చరించు
+    .label = అవాంఛిత, అసాధారణ సాఫ్ట్‌వేర్ల గురించి నన్ను హెచ్చరించు
     .accesskey = C
 
 ## Privacy Section - Certificates

@@ -15,7 +15,7 @@
 <!ENTITY  systemTypeRadio.accesskey     "U">
 <!ENTITY  WPADTypeRadio.label           "ఈ నెట్‌వర్క్ ప్రాక్సీ అమరికలను స్వయంచాలకంగా గుర్తించు">
 <!ENTITY  WPADTypeRadio.accesskey       "w">
-<!ENTITY  manualTypeRadio2.label        "మానవీక ప్రాక్సీ స్వరూపణం">
+<!ENTITY  manualTypeRadio2.label        "మానవీయ ప్రాక్సీ స్వరూపణం">
 <!ENTITY  manualTypeRadio2.accesskey    "m">
 <!ENTITY  autoTypeRadio2.label          "స్వయంచాలక ప్రాక్సీ ఆకృతీకరణ URL">
 <!ENTITY  autoTypeRadio2.accesskey      "A">

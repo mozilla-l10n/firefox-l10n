@@ -5,16 +5,13 @@
 <!ENTITY ctrlTabRecentlyUsedOrder.label       "Ctrl+Tab ట్యాబులను వరుసగా కాకుండా వాటిని ఇటీవల వాడిన క్రమంలో చుట్టుతిప్పుతుంది">
 <!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "T">
 
-<!ENTITY newWindowsAsTabs.label       "కొత్త విండోలను కొత్త ట్యాబులో తెరువు">
-<!ENTITY newWindowsAsTabs.accesskey   "t">
-
 <!ENTITY newWindowsAsTabs3.label       "లంకెలను కొత్త విండోలలో కాక ట్యాబులలో తెరువు">
 <!ENTITY newWindowsAsTabs3.accesskey   "w">
 
 <!ENTITY warnOnCloseMultipleTabs.label      "పలు ట్యాబులను మూసివేస్తున్నప్పుడు మిమ్మల్ని హెచ్చరించు">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 
-<!ENTITY warnOnOpenManyTabs.label       "&brandShortName; నిదానింపు చేయగల బహుళ ట్యాబులను తెరుచునపుడు నిన్ను హెచ్చరించు">
+<!ENTITY warnOnOpenManyTabs.label       "ఎక్కువ ట్యాబులను తెరిచినప్పుడు &brandShortName; నెమ్మదిస్తూంటే నన్ను హెచ్చరించు">
 <!ENTITY warnOnOpenManyTabs.accesskey   "d">
 
 <!ENTITY switchLinksToNewTabs.label        "నేను కొత్త ట్యాబులో లంకెను తెరిచినప్పుడు, వెంటనే దానికి మారు">
