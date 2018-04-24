@@ -78,6 +78,9 @@
 <!ENTITY  securityView.privacy.cookies                  "Bu sayt kompüterimdə məlumat (çərəzlər) saxlayırmı?">
 <!ENTITY  securityView.privacy.viewCookies              "Çərəzləri Gör">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "R">
+<!ENTITY  securityView.privacy.siteData                 "Bu sayt kompüterimdə məlumat saxlayırmı?">
+<!ENTITY  securityView.privacy.clearSiteData            "Çərəzlər və Sayt Məlumatlarını Təmizlə">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "C">
 <!ENTITY  securityView.privacy.passwords                "Bu sayta aid hər hansı bir parol saxlamışam?">
 <!ENTITY  securityView.privacy.viewPasswords            "Saxlanılmış Parolları Gör">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "P">
