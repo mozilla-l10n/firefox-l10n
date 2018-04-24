@@ -504,15 +504,71 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewVideoCmd.label           "Ni'io' bideo">
 <!ENTITY viewVideoCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.accesskey     "w">
+<!ENTITY setDesktopBackgroundCmd.accesskey  "S">
+<!ENTITY bookmarkPageCmd2.label       "Sa raj sun nichrà' doj pagina na">
+<!ENTITY bookmarkPageCmd2.accesskey   "m">
+<!ENTITY bookmarkThisLinkCmd.label      "Na'ni' enlace na riñ markador">
+<!ENTITY bookmarkThisLinkCmd.accesskey  "L">
+<!ENTITY bookmarkThisFrameCmd.label      "Sa raj sun nichrà' doj pagina na">
+<!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+<!ENTITY pageAction.copyLink.label    "nako' chrej e">
+<!ENTITY emailPageCmd.accesskey       "E">
+<!ENTITY savePageCmd.label            "Na'nïnj sà' Pâjina Gù'na…">
+<!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
+<!ENTITY savePageCmd.accesskey2       "P">
+<!ENTITY savePageCmd.commandkey       "s">
+<!ENTITY saveFrameCmd.label           "Na'nïnj sà' Pâjina Gù'na…">
+<!ENTITY saveFrameCmd.accesskey       "F">
+<!ENTITY printFrameCmd.label          "Nari ñadu'ua mârko">
+<!ENTITY printFrameCmd.accesskey      "P">
+<!ENTITY saveLinkCmd.label            "Na'ninj so' enlase...">
+<!ENTITY saveLinkCmd.accesskey        "k">
+<!ENTITY saveImageCmd.label           "Na'nïnj sà' ña du'ua Gù'na…">
+<!ENTITY saveImageCmd.accesskey       "v">
+<!ENTITY saveVideoCmd.label           "Na'ninj sa' sa siki'...">
+<!ENTITY saveVideoCmd.accesskey       "v">
+<!ENTITY saveAudioCmd.label           "Na'ninj sa' nanèe 'ngà...">
+<!ENTITY saveAudioCmd.accesskey       "v">
+<!ENTITY emailImageCmd.label          "Ga'ni' ña du'ua...">
+<!ENTITY emailImageCmd.accesskey      "g">
+<!ENTITY emailVideoCmd.label          "Ga'ni' video...">
+<!ENTITY emailVideoCmd.accesskey      "a">
+<!ENTITY emailAudioCmd.label          "Ga'ni' nanèe 'ngà korreo…">
+<!ENTITY emailAudioCmd.accesskey      "a">
+<!ENTITY playPluginCmd.label          "Dugi'iaj sun' plugin na">
+<!ENTITY playPluginCmd.accesskey      "c">
+<!ENTITY hidePluginCmd.accesskey      "H">
+<!ENTITY copyLinkCmd.accesskey        "a">
+<!ENTITY copyImageCmd.label           "Nana'uì' ñan du'ua">
+<!ENTITY copyImageCmd.accesskey       "o">
+<!ENTITY copyImageContentsCmd.label   "Guxun ña du'ua ma">
+<!ENTITY copyImageContentsCmd.accesskey  "y">
+<!ENTITY copyVideoURLCmd.label        "Guxun ña nù si link video na">
+<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.label        "Guxun ña nù si link nanè na">
+<!ENTITY copyAudioURLCmd.accesskey    "o">
+<!ENTITY copyEmailCmd.label           "Guxun' dirección korreo da' nachrun' a'ngô hiuj u">
+<!ENTITY copyEmailCmd.accesskey       "E">
+<!ENTITY thisFrameMenu.accesskey          "h">
 
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
+<!ENTITY mediaPlay.label             "Duguchro'">
+<!ENTITY mediaPlay.accesskey         "P">
+<!ENTITY mediaPause.label            "Duyichin' akuan'">
+<!ENTITY mediaPause.accesskey        "D">
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu
 items are mutually exclusive. -->
+<!ENTITY mediaMute.label             "Dín gahuin">
+<!ENTITY mediaMute.accesskey         "M">
+<!ENTITY mediaUnmute.accesskey       "m">
+<!ENTITY mediaPlaybackRate2.accesskey "d">
+<!ENTITY mediaPlaybackRate100x2.label "Da'nga' gaj">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
