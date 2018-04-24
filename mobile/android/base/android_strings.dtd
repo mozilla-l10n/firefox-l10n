@@ -282,6 +282,12 @@
 <!ENTITY pref_whats_new_notification "Novaĵoj en &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Pli da informo pri novaj trajtoj post ĝisdatigo">
 
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!ENTITY pref_feature_tips_notification "Konsiletoj pri la produkto kaj ĝiaj trajtoj">
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "Eksperimentaj trajtoj">
