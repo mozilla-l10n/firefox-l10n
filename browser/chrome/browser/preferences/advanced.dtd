@@ -43,6 +43,7 @@ available. -->
 <!ENTITY collectBrowserErrors.accesskey      "b">
 <!ENTITY collectBrowserErrorsLearnMore.label "अधिक जानें">
 
+<!ENTITY sendBackloggedCrashReports.label  "आपके निमित्त कार्यसंचित क्रेश विवरण भेजने हेतु &brandShortName; को अनुमति दें">
 <!ENTITY sendBackloggedCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "अधिक जानें">
 
