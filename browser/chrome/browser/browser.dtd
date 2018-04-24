@@ -988,6 +988,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName; உலாவியை புதுப்பிக்க மீள்துவக்கு">
 
+<!ENTITY newTabControlled.message "நீங்கள் புதிய கீற்றைத் திறக்கும்போது ஒரு துணைநிரல் நீங்கள் பார்க்கும் பக்கத்தை மாற்றியது. நீங்கள் இந்த மாற்றத்தை விரும்பவில்லையெனில் அமைப்புகளை மீட்டமைக்கலாம்.">
 
 <!ENTITY newTabControlled.header.message "உங்களது புதிய கீற்று மாறிவிட்டது.">
 <!ENTITY newTabControlled.keepButton.label "மாற்றங்களை வைத்திரு">
@@ -998,6 +999,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "துணைநிரலை முடக்கவும்">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
+<!ENTITY homepageControlled.message "ஒரு துணைநிரல் நீங்கள் பார்க்கும் முகப்புப் பக்கத்தை மாற்றியது. நீங்கள் இந்த மாற்றத்தை விரும்பவில்லையெனில் அமைப்புகளை மீட்டமைக்கலாம்.">
+<!ENTITY homepageControlled.header.message "உங்கள் முகப்பு பக்கம் மாற்றப்பட்டது.">
+<!ENTITY homepageControlled.keepButton.label "மாற்றங்களை வைத்திரு">
+<!ENTITY homepageControlled.keepButton.accesskey "K">
+<!ENTITY homepageControlled.disableButton.label "துணைநிரலை முடக்கவும்">
+<!ENTITY homepageControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "பக்க செயல்கள்">
 <!ENTITY pageAction.addToUrlbar.label "முகவரி பட்டையில் சேர்">
@@ -1009,6 +1016,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.sendTabToDevice.label "சாதனத்திற்கு கீற்றுகளை அனுப்பு">
 <!ENTITY sendToDevice.syncNotReady.label "சாதனங்களை ஒத்திசைக்கிறது...">
 
+<!ENTITY pageAction.shareUrl.label "பகிர்">
 
 <!ENTITY libraryButton.tooltip "வரலாறு, சேமித்த புத்தகக்குறிகள், மற்றும் பலவற்றைப் பார்">
 
@@ -1021,3 +1029,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
+<!ENTITY addonPostInstallMessage.label "<image class='addon-toolbar-icon'/> மெனுவில் <image class='addon-addon-icon'/> என்பதைச் சொடுக்குவதின் மூலம் உங்கள் மேற்சேர்க்கைகளை நிர்வகியுங்கள்.">
