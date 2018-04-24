@@ -20,6 +20,7 @@
 <!ENTITY fileNotFound.longDesc "સરનામા દ્વારા સ્પષ્ટ થતી ફાઇલ મળી શકી નહિ. તપાસો કે ફાઇલ અસ્તિત્વ ધરાવે છે અને તમારી પાસે જોવાની પૂરતી પરવાનગી છે.">
 
 <!ENTITY fileAccessDenied.title "ફાઇલનો પ્રવેશ નકારવામાં આવેલ હતો">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>તે દૂર, ખસેડાયેલી, અથવા ફાઇલ પરવાનગીઓ ઍક્સેસને અટકાવી શકે છે.</li></ul>">
 
 <!ENTITY generic.title "અરજી પૂર્ણ કરી શકતા નથી">
 <!ENTITY generic.longDesc "પાનુ લાવી શકાયુ નહિ કારણ કે કદાચ તે અસ્તિત્વ ધરાવતુ નથી અથવા સ્થાન ખોટુ છે. <br/> ચકાસો કે સરનામુ (URL) યોગ્ય છે અને બરાબર રીતે બંધારણ થયેલુ છે.">
@@ -72,6 +73,7 @@
 <!ENTITY securityOverride.linkText "અથવા તમે અપવાદ ઉમેરી શકો છો…">
 
 <!ENTITY cspBlocked.title "સામગ્રી સુરક્ષા નીતિ દ્વારા અવરોધિત">
+<!ENTITY cspBlocked.longDesc "<p>બ્રાઉઝર આ પૃષ્ઠને આ રીતે લોડ થવાથી અટકાવે છે કારણ કે પૃષ્ઠની એવી સામગ્રી સુરક્ષા નીતિ છે જે તેને નામંજૂર કરે છે.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "બગડેલ સમાવિષ્ટોની ક્ષતિ">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>તમે જે પાનું જોવાનો પ્રયાસ કરી રહ્યા છો તે બતાવી શકાશે નહિં કારણ કે માહિતી પરિવહનમાં ક્ષતિ મળી આવી હતી.</p><ul><li>મહેરબાની કરીને આ સમસ્યા વિશે વેબસાઇટના માલિકોને જાણ કરવા માટે તેમને સંપર્ક કરો.</li></ul>">
@@ -82,5 +84,6 @@
 <!ENTITY inadequateSecurityError.title "તમારું જોડાણ સુરક્ષિત નથી">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>સુરક્ષા તકનીકીનો ઉપયોગ કરે છે જે હુમલો કરવા માટે જૂની અને સંવેદનશીલ છે. કોઈ હુમલાખોર સરળતાથી એવી માહિતી ઉઘાડી શકે છે જે તમે સુરક્ષિત હોવાનું માનતા હતા. વેબસાઇટ સંચાલકને તમારે સાઇટની મુલાકાત લઈને પહેલાં સર્વરને ઠીક કરવાની જરૂર પડશે.</p><p>ભૂલ કોડ: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "અવરોધિત પૃષ્ઠ">
