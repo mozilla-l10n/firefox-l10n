@@ -68,6 +68,7 @@ available. -->
 <!ENTITY clearSiteData1.label            "Hapus Data…">
 <!ENTITY clearSiteData1.accesskey        "l">
 <!ENTITY siteDataSettings1.label         "Kelola Data…">
+<!ENTITY siteDataSettings1.accesskey     "K">
 <!ENTITY siteDataLearnMoreLink.label     "Pelajari lebih lanjut">
 
 <!-- LOCALIZATION NOTE:
