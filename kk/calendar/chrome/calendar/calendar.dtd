@@ -180,7 +180,19 @@
 <!ENTITY calendar.context.attendance.occurrence.label           "Бұл қайталануы">
 <!ENTITY calendar.context.attendance.all.label        "Бүкіл кездерін" >
 
+<!ENTITY calendar.context.attendance.all2.label                 "Оқиғалардың барлық қайталанулары">
+<!ENTITY calendar.context.attendance.send.label                 "Ескертуді қазір жіберу">
+<!ENTITY calendar.context.attendance.send.accesskey             "ж">
+<!ENTITY calendar.context.attendance.dontsend.label             "Ескертуді жібермеу">
+<!ENTITY calendar.context.attendance.dontsend.accesskey         "б">
 
+<!ENTITY calendar.context.attendance.occ.accepted.accesskey     "а">
+<!ENTITY calendar.context.attendance.occ.accepted.label         "Қабылданды">
+<!ENTITY calendar.context.attendance.occ.tentative.accesskey    "ы">
+<!ENTITY calendar.context.attendance.occ.tentative.label        "Мүмкін деп қабылданды">
+<!ENTITY calendar.context.attendance.occ.declined.accesskey     "м">
+<!ENTITY calendar.context.attendance.occ.declined.label         "Тайдырылды">
+<!ENTITY calendar.context.attendance.occ.delegated.accesskey    "д">
 
 <!ENTITY calendar.context.attendance.all.completed.label        "Аяқталды">
 
