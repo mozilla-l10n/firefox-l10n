@@ -5,7 +5,7 @@
 
 <!ENTITY search.placeholder2                  "ค้นหาบน addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "ค้นหา">
-<!-- LOCALIZATION NOTE (search.commandKey):
+<!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
@@ -229,7 +229,7 @@
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
 <!ENTITY disabledUnsigned.description.start "ส่วนเสริมดังต่อไปนี้ไม่ได้รับการยืนยันสำหรับใช้ใน &brandShortName; คุณสามารถ ">
 <!ENTITY disabledUnsigned.description.findAddonsLink "ค้นหาตัวทดแทน">
-<!ENTITY disabledUnsigned.description.end " หรือร้องขอนักพัฒนาให้นำส่วนเสริมไปรับการยืนยัน">
+<!ENTITY disabledUnsigned.description.end " หรือขอนักพัฒนาให้นำส่วนเสริมไปรับการยืนยัน">
 <!ENTITY disabledUnsigned.learnMore "เรียนรู้เพิ่มเติมเกี่ยวกับความพยายามของเราที่ช่วยให้คุณปลอดภัยขณะออนไลน์">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
