@@ -45,6 +45,7 @@
 <!ENTITY network.nocredentials.label "Denne adresse kræver ikke legitimationsoplysninger">
 <!ENTITY network.loading.description "Vent, mens dine kalendere bliver fundet.">
 <!ENTITY network.notfound.description "Kunne ikke finde kalendere på denne adresse. Kontrollér dine indstillinger.">
+<!ENTITY network.authfail.description "De indtastede legitimationsoplysninger blev ikke accepteret. Kontrollér dine indstillinger.">
 
 <!ENTITY network.subscribe.single.description "Vælg de kalendere, du vil abonnere på.">
 <!ENTITY network.subscribe.multiple.description "Flere kalendere er tilgængelige på denne adresse. Vælg kalendertype, og markér de kalendere, du vil abonnere på.">
