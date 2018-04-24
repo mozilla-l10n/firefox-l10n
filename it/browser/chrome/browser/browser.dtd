@@ -315,7 +315,6 @@
 <!ENTITY moreMenu.label "Altro">
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.placeholder2 "Inserisci un indirizzo o avvia una ricerca">
-<!ENTITY urlbar.placeholder3 "Inserisci i termini da cercare o un indirizzo">
 <!ENTITY urlbar.accesskey "d">
 <!ENTITY urlbar.extension.label "Estensione:">
 <!ENTITY urlbar.switchToTab.label "Passa alla scheda:">
