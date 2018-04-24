@@ -62,6 +62,8 @@
 <!ENTITY Home.accesskey                 "е">
 <!ENTITY HomeAddress.label              "Адресі:">
 <!ENTITY HomeAddress.accesskey          "д">
+<!ENTITY HomeAddress2.label             "">
+<!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "Қала:">
 <!ENTITY HomeCity.accesskey             "л">
 <!ENTITY HomeState.label                "Аймақ:">

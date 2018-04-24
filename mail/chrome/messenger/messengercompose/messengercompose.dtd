@@ -88,6 +88,17 @@
 <!ENTITY reorderAttachmentsCmd.label "Салынымдарды қайта реттеу…">
 <!ENTITY reorderAttachmentsCmd.accesskey "а">
 <!ENTITY reorderAttachmentsCmd.key "x">
+<!ENTITY toggleAttachmentPaneCmd.label "Салынымдар панелі">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
+     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
+     as attachments.accesskey. -->
+<!ENTITY toggleAttachmentPaneCmd.accesskey "м">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
+     With OS-specific access modifier, this defines the shortcut key for showing/
+     hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
+     toggleAttachmentPaneCmd.key and attachments.accesskey must be the same
+     for the bucket view state machinery to work. -->
+<!ENTITY toggleAttachmentPaneCmd.key "m">
 <!ENTITY selectAllCmd.label "Барлығын таңдау">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "Б">
@@ -109,26 +120,10 @@
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Салынымдарды қайта реттеу">
 <!ENTITY moveAttachmentTopPanelBtn.label "Үстіне жылжыту">
-<!ENTITY moveAttachmentTopPanelBtn.accesskey "т">
 <!ENTITY moveAttachmentUpPanelBtn.label "Жоғары жылжыту">
-<!ENTITY moveAttachmentUpPanelBtn.accesskey "ж">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Бірге жылжыту">
-<!ENTITY moveAttachmentBundleUpPanelBtn.accesskey "г">
 <!ENTITY moveAttachmentDownPanelBtn.label "Төмен жылжыту">
-<!ENTITY moveAttachmentDownPanelBtn.accesskey "т">
 <!ENTITY moveAttachmentBottomPanelBtn.label "Астына жылжыту">
-<!ENTITY moveAttachmentBottomPanelBtn.accesskey "а">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.label):
-     Please ensure that this translation matches
-     sortAttachmentsTogglePanelBtn.ZA.label, except for the sort direction. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.label "Таңдалғанды сұрыптау: А - Я">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.accesskey):
-     This accesskey should be the same like
-     sortAttachmentsTogglePanelBtn.ZA.accesskey, and it should be taken from
-     the "Sort Selection:" part of the label, not from the sort direction part. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.accesskey "ы">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.label "Таңдалғанды сұрыптау: Я - А">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.accesskey "ы">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -253,6 +248,7 @@
 <!ENTITY quoteButton.tooltip "Алдыңғы хабарламаны дәйексөз ретінде алу">
 <!ENTITY addressButton.tooltip "Адрестік кітапшадан алушыны таңдау">
 <!ENTITY attachButton.tooltip "Салынымды қосу">
+<!ENTITY attachButton.tooltip2 "Салынымды қосу">
 <!ENTITY spellingButton.tooltip "Таңдалғанның немесе толық хабарламаның емлесін тексеру">
 <!ENTITY saveButton.tooltip "Бұл хабарламаны сақтау">
 <!ENTITY cutButton.tooltip              "Қиып алу">
@@ -274,9 +270,14 @@
 <!ENTITY followupAddr.label "Мынаған жауап жазу:">
 <!ENTITY subject.label "Тақырыбы:">
 <!ENTITY subject.accesskey "Т">
-<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
-     to the strings in attachmentCount in composeMsgs.properties -->
+<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
+     be taken from the strings in attachmentCount in composeMsgs.properties,
+     and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
+     work, as the shortcut key functionality supersedes the access key. -->
 <!ENTITY attachments.accesskey "м">
+
+<!ENTITY attachmentBucketHeader.tooltip "Салынымдар панелі">
+<!ENTITY attachmentBucketCloseButton.tooltip "Салыным панелін жасыру">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Смайликті кірістіру">
@@ -314,6 +315,7 @@
 <!ENTITY pasteQuote.label "Дәйексөз ретінде кірістіру">
 <!ENTITY pasteQuote.accesskey "Д">
 
+<!-- Attachment Item and List Context Menus -->
 <!ENTITY openAttachment.label "Ашу">
 <!ENTITY openAttachment.accesskey "А">
 <!ENTITY delete.label "Өшіру">
@@ -324,6 +326,8 @@
 <!ENTITY renameAttachment.accesskey "р">
 <!ENTITY reorderAttachments.label "Салынымдарды қайта реттеу…">
 <!ENTITY reorderAttachments.accesskey "т">
+<!ENTITY removeAllAttachments.label "Барлық салынымды өшіру">
+<!ENTITY removeAllAttachments.accesskey "ш">
 <!ENTITY selectAll.label "Барлығын таңдау">
 <!ENTITY selectAll.accesskey "а">
 <!ENTITY attachFile.label "Файл(дар)ды тіркеу…">
@@ -338,6 +342,13 @@
 <!ENTITY convertRegularAttachment.accesskey "а">
 <!ENTITY attachPage.label "Веб парағын тіркеу…">
 <!ENTITY attachPage.accesskey "В">
+
+<!-- Attachment Pane Header Bar Context Menu -->
+<!-- LOCALIZATION NOTE (initiallyShowAttachmentPane.label):
+     Should use the same wording as startExpandedCmd.label
+     in msgHdrViewOverlay.dtd. -->
+<!ENTITY initiallyShowAttachmentPane.label "Басынан бастап салыным панелін көрсету">
+<!ENTITY initiallyShowAttachmentPane.accesskey "с">
 
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Сөздіктерді қосу…">
