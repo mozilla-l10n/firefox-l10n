@@ -193,6 +193,7 @@
 <!ENTITY calendar.context.attendance.occ.declined.accesskey     "м">
 <!ENTITY calendar.context.attendance.occ.declined.label         "Тайдырылды">
 <!ENTITY calendar.context.attendance.occ.delegated.accesskey    "д">
+<!ENTITY calendar.context.attendance.occ.delegated.label        "Тағайындалған">
 
 <!ENTITY calendar.context.attendance.all.completed.label        "Аяқталды">
 
