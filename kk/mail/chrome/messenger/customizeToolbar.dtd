@@ -9,6 +9,7 @@
 <!ENTITY iconsAndText.label       "Таңбашалар мен мәтін">
 <!ENTITY icons.label              "Таңбашалар">
 <!ENTITY text.label               "Мәтін">
+<!ENTITY iconsBesideText.label    "Таңбашалар мәтіннің қасында">
 <!ENTITY useSmallIcons.label      "Кішкентай таңбашалар">
 <!ENTITY restoreDefaultSet.label  "Бастапқы түрге келтіру">
 <!ENTITY addNewToolbar.label      "Жаңа саймандар панелін қосу">

@@ -20,3 +20,19 @@
 <!ENTITY Department.accesskey                  "м">
 <!ENTITY JobTitle.label                        "Лауазымы">
 <!ENTITY JobTitle.accesskey                    "а">
+<!ENTITY CellularNumber.label                  "Мобильді">
+<!ENTITY CellularNumber.accesskey              "М">
+<!ENTITY PagerNumber.label                     "Пейджер">
+<!ENTITY PagerNumber.accesskey                 "П">
+<!ENTITY FaxNumber.label                       "Факс">
+<!ENTITY FaxNumber.accesskey                   "Ф">
+<!ENTITY HomePhone.label                       "Үй телефоны">
+<!ENTITY HomePhone.accesskey                   "й">
+<!ENTITY WorkPhone.label                       "Жұмыс телефоны">
+<!ENTITY WorkPhone.accesskey                   "с">
+<!ENTITY ChatName.label                        "Чаттағы аты">
+<!ENTITY ChatName.accesskey                    "Ч">
+<!ENTITY sortAscending.label                   "Өсу ретімен">
+<!ENTITY sortAscending.accesskey               "у">
+<!ENTITY sortDescending.label                  "Кему ретімен">
+<!ENTITY sortDescending.accesskey              "е">

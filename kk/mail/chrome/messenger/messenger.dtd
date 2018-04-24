@@ -36,6 +36,12 @@
 <!ENTITY newFeedAccountCmd.accesskey "л">
 <!ENTITY newIMContactCmd.label "Чат контакты…">
 <!ENTITY newIMContactCmd.accesskey "Ч">
+<!ENTITY  newMessageCmd2.key "N">
+<!ENTITY  newMessageCmd.key "M">
+<!ENTITY  newMessageCmd.label "Хабарлама">
+<!ENTITY  newMessageCmd.accesskey "м">
+<!ENTITY  newContactCmd.label "Адрестік кітапша контакты…">
+<!ENTITY  newContactCmd.accesskey "к">
 <!ENTITY openMessageFileCmd.label "Сақталған хабарламаны ашу…">
 <!ENTITY openMessageFileCmd.accesskey "а">
 <!ENTITY saveAsMenu.label "Қалайша сақтау">
@@ -317,7 +323,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Чат">
 <!ENTITY goChatCmd.accesskey "а">
-<!ENTITY goChatCmd.key "I">
 <!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Жұлдызшалы хабарлама">
 <!ENTITY prevStarredMsgCmd.accesskey "Ж">
@@ -510,8 +515,6 @@
 <!ENTITY devToolboxCmd.label "Өндірушінің саймандар панелі">
 <!ENTITY devToolboxCmd.accesskey "п">
 <!ENTITY devToolboxCmd.commandkey "i">
-<!ENTITY addonDebugCmd.label "Қосымшалар жөндеуіші">
-<!ENTITY addonDebugCmd.accesskey "ы">
 <!ENTITY debugAddonsCmd.label "Қосымшаларды жөндеу">
 <!ENTITY debugAddonsCmd.accesskey "а">
 <!ENTITY tabsDebugCmd.label "Құраманың фреймі жөндеуіші">
@@ -646,6 +649,7 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Хабарламаларды алу">
 <!ENTITY folderContextGetMessages.accesskey "л">
+<!ENTITY folderContextMarkAllFoldersRead.label "Барлық бумаларды оқылған ретінде белгілеу">
 <!ENTITY folderContextPauseAllUpdates.label "Барлық жаңартуларды аялдату">
 <!ENTITY folderContextPauseUpdates.label "Жаңартуларды аялдату">
 <!ENTITY folderContextPauseUpdates.accesskey "а">
@@ -871,7 +875,7 @@
   -->
 <!ENTITY quickSearchCmd.key "k">
 <!-- LOCALIZATION NOTE (search.label.base1):
-      This is the base of the empty text for the global search box. We replace
+     This is the base of the empty text for the global search box. We replace
      #1 with the contents of the appropriate search.keyLabel.* value for the
      platform.
      The goal is to convey to the user that typing in the box will allow them
