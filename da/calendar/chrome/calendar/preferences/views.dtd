@@ -37,3 +37,5 @@
 <!ENTITY pref.numberofweeks.4 "4 uger">
 <!ENTITY pref.numberofweeks.5 "5 uger">
 <!ENTITY pref.numberofweeks.6 "6 uger">
+<!ENTITY pref.showlocation.label "Vis sted">
+<!ENTITY pref.showlocation.accesskey "D">
