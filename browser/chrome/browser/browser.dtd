@@ -999,6 +999,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Изключване на разширението">
 <!ENTITY newTabControlled.disableButton.accesskey "и">
 
+
 <!ENTITY pageActionButton.tooltip "Действия със страницата">
 <!ENTITY pageAction.addToUrlbar.label "Добавяне към адресната лента">
 <!ENTITY pageAction.removeFromUrlbar.label "Премахване от адресната лента">
@@ -1008,6 +1009,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "Изпращане на раздела до устройство">
 <!ENTITY sendToDevice.syncNotReady.label "Синхронизиране на устройства…">
+
+<!ENTITY pageAction.shareUrl.label "Споделяне">
 
 <!ENTITY libraryButton.tooltip "Преглед на история, запазени отметки и други">
 
