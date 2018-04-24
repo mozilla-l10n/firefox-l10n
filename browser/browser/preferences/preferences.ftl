@@ -448,7 +448,7 @@ sync-engine-history =
     .accesskey = r
 sync-engine-tabs =
     .label = திறந்த கீற்றுகள்
-    .tooltiptext = ஒத்திசைத்த கருவிகளில் திறந்தவற்றின் பட்டியல்
+    .tooltiptext = ஒத்திசைத்த கருவிகளில் திறந்தவைகளின் பட்டியல்
     .accesskey = t
 sync-engine-logins =
     .label = உள்நுழைவுகள்
@@ -605,6 +605,7 @@ addressbar-suggestions-settings = தேடுபொறி பரிந்து
 ## Privacy Section - Tracking
 
 tracking-header = தடமறியல் பாதுகாப்பு
+tracking-desc = தடமறியல் பாதுகாப்பு உங்கள் உலாவல் தரவைச்  சேகரிக்கும் இணைய பின்தொடரிகளை பல வலைதளங்களில் முடக்கிறது. <a data-l10n-name="learn-more">உங்கள் தனியுரிமை மற்றும் தடமறியல் பாதுகாப்பு பற்றி மேலும் அறிய</a>
 tracking-mode-label = அறியப்பட்ட தடமறிவான்களை முடக்க தடமறியல் பாதுகாப்பைப் பயன்படுத்தவும்
 tracking-mode-always =
     .label = எப்போதும்
@@ -646,6 +647,9 @@ permissions-notification-settings =
     .label = அமைவுகள்…
     .accesskey = t
 permissions-notification-link = மேலும் அறிய
+permissions-notification-pause =
+    .label = { -brand-short-name } மறுதொடங்கும் வரை அறிவிப்புகளை இடைநிறுத்து
+    .accesskey = n
 permissions-block-popups =
     .label = பாப் அப் (துள்ளும்) சாளரங்களை தடுக்கவும்
     .accesskey = ப
@@ -675,7 +679,13 @@ collection-health-report-link = மேலும் அறிய
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = இந்தக் கட்டமைப்பிற்கு தரவு அறிக்கை முடக்கப்பட்டுள்ளது
+collection-browser-errors =
+    .label = { -brand-short-name } உலாவி பிழை அறிக்கைகளை அனுப்ப அனுமதி ({ -vendor-short-name } (பிழை செய்திகள் உட்பட)
+    .accesskey = b
 collection-browser-errors-link = மேலும் அறிய
+collection-backlogged-crash-reports =
+    .label = { -brand-short-name } உங்கள் சார்பாக பின்புல சிதைவு அறிக்கையை அனுப்ப அனுமதி
+    .accesskey = c
 collection-backlogged-crash-reports-link = மேலும் அறிய
 
 ## Privacy Section - Security
@@ -684,6 +694,7 @@ collection-backlogged-crash-reports-link = மேலும் அறிய
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = பாதுகாப்பு
+security-browsing-protection = ஏமாற்று உள்ளடக்கம் மற்றும் ஆபத்தான மென்பொருள் பாதுகாப்பு
 security-enable-safe-browsing =
     .label = ஆபத்தான தீங்கிழைக்கும் உள்ளடக்கத்தைத் தடு
     .accesskey = B
