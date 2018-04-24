@@ -420,6 +420,7 @@
 
 <!-- Summary dialog -->
 <!ENTITY summary.dialog.saveclose.label         "Gem og luk">
+<!ENTITY summary.dialog.saveclose.tooltiptext   "Gem ændringer og luk vinduet uden at ændre deltagerstatussen og uden at sende et svar">
 <!ENTITY summary.dialog.accept.label            "Accepter">
 <!ENTITY summary.dialog.accept.tooltiptext      "Accepter invitationen">
 <!ENTITY summary.dialog.tentative.label         "Foreløbig">
