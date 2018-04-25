@@ -61,6 +61,7 @@ can reach it easily. -->
 <!ENTITY  closeTab.label                     "टैब बंद करें">
 <!ENTITY  closeTab.accesskey                 "C">
 
+<!ENTITY  hiddenTabs.label                   "गुप्त टैब">
 
 <!ENTITY  listAllTabs.label      "सभी टैब सूचीबद्ध करें">
 

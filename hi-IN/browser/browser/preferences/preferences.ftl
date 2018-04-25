@@ -151,6 +151,7 @@ containers-disable-alert-ok-button =
        *[other] { $tabCount } कंटेनर टैब्स बंद करें
     }
 containers-disable-alert-cancel-button = सक्षम बनाए रखें
+containers-remove-alert-title = यह कंटेनर हटायें?
 # Variables:
 #   $count (Number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
@@ -158,6 +159,8 @@ containers-remove-alert-msg =
         [one] यदि आप अभी इस कंटेनर को हटाते हैं, { $count } कंटेनर टैब बंद हो जायेंगे. क्या आप निश्चित रूप से इस कंटेनर को हटाना चाहते हैं?
        *[other] यदि आप अभी इस कंटेनर को हटाते हैं, { $count } कंटेनर टैब बंद हो जायेंगे. क्या आप निश्चित रूप से इस कंटेनर को हटाना चाहते हैं?
     }
+containers-remove-ok-button = यह कंटेनर हटायें
+containers-remove-cancel-button = इस कंटेनर को नहीं हटायें
 
 ## General Section - Language & Appearance
 
@@ -302,6 +305,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = नया विंडोज और टैब
+home-new-windows-tabs-description2 = चुनें कि आप अपने होमपेज, नयी विंडो और नए टैब को खोलते समय क्या देखेंगे.
 
 ## Home Section - Home Page Customization
 
@@ -556,8 +560,15 @@ sitedata-learn-more = अधिक जानें
 sitedata-accept-cookies-option =
     .label = वेबसाइट से कूकीज और साइट डाटा स्वीकार करें (अनुशंसित)
     .accesskey = A
+sitedata-block-cookies-option =
+    .label = कुकीज़ और साइट डेटा को ब्लॉक करें (इसके कारण वेबसाइट टूट सकती है)
+    .accesskey = B
 sitedata-keep-until = तब तक रखें जब तक
     .accesskey = u
+sitedata-keep-until-expire =
+    .label = उनकी समय सीमा समाप्त
+sitedata-keep-until-closed =
+    .label = { -brand-short-name } बंद हो चूका है
 sitedata-accept-third-party-desc = तृतीय पक्ष कूकीज और साइट डाटा स्वीकार करें
     .accesskey = y
 sitedata-accept-third-party-always-option =
