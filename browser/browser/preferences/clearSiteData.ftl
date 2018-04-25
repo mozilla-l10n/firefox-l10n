@@ -3,8 +3,20 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 clear-site-data-window =
-    .title = Limpar datos
+    .title = Borrar datos
     .style = width: 35em
+clear-site-data-description = Borrar todas as cookies e datos dos sitios almacenados polo { -brand-short-name } pode pechar as sesións e eliminar o contido web sen conexión. Borrar os datos da caché non afectará ao estado das sesións.
+clear-site-data-close-key =
+    .key = w
+clear-site-data-cookies = Cookies e datos do sitio
+    .accesskey = s
+clear-site-data-cookies-info = Se os borra, pode pechar as sesións nos sitios web 
+clear-site-data-cache = Contido web na caché
+    .accesskey = C
+clear-site-data-cache-info = Requirirá que os sitios web recarguen imaxes e datos
+clear-site-data-cancel =
+    .label = Cancelar
+    .accesskey = C
 clear-site-data-clear =
-    .label = Limpar
-    .accesskey = L
+    .label = Borrar
+    .accesskey = B
