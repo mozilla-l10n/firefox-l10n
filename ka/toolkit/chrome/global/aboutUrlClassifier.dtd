@@ -3,13 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
-<!ENTITY aboutUrlClassifier.pageTitle                   "url-classifier მონაცემები">
 <!ENTITY aboutUrlClassifier.title                       "URL მახარისხებლის მონაცემები">
 <!ENTITY aboutUrlClassifier.providerTitle               "მომწოდებელი">
 <!ENTITY aboutUrlClassifier.provider                    "მომწოდებელი">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "ბოლო განახლების დრო">
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "მომდევნო განახლების დრო">
-<!ENTITY aboutUrlClassifier.providerBackOffTime         "უკან დაბრუნების დროს">
+<!ENTITY aboutUrlClassifier.providerBackOffTime         "უკან დაბრუნების დრო">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "ბოლო განახლების მდგომარეობა">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "განახლება">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "კეში">
