@@ -415,6 +415,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
+<!ENTITY customizeMenu.addToOverflowMenu.label "Kengaytirilgan menyuga qo‘shish">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.moveToToolbar.label "Asboblar paneliga ko‘chirish">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "k">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
@@ -424,6 +426,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Menyuga ko‘chirish">
 <!ENTITY customizeMenu.moveToPanel.accesskey "k">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "Kengaytirilgan menyuga qistirish">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "Q">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Kengaytirilgan menyudan olib tashlash">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "O">
 <!ENTITY customizeMenu.removeFromToolbar.label "Asboblar panelidan o‘chirish">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "o">
 <!ENTITY customizeMenu.removeFromMenu.label "Menyudan o‘chirish">
@@ -434,15 +440,24 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
+<!ENTITY moreMenu.label "Yana">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Izlang yoki manzilni kiriting">
+<!ENTITY urlbar.placeholder3          "Qidiriladigan birikma va manzillarni bu yerga kiriting">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
+<!ENTITY urlbar.extension.label       "Kengaytma:">
 <!ENTITY urlbar.switchToTab.label     "Ichki oynaga o‘tish:">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Maslahat:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hint "Qidiruv bo‘yicha yordam kerakmi? Unda qidiruv tavsiyalari yonidagi &#x1F50E; belgisini toping.">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Sozlamalarni o‘zgartirish">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "O‘">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Parametrlarni o‘zgartirish">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
 
 <!--
   Comment duplicated from browser-sets.inc:
@@ -476,6 +491,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
      This string is displayed in the search box when the input field is empty. -->
+<!ENTITY searchInput.placeholder      "Qidirish">
+<!ENTITY searchIcon.tooltip           "Qidirish">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
