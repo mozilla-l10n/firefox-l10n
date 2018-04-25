@@ -60,9 +60,6 @@
 <!ENTITY  permissionsFor        "इसके लिए अनुमति‌:">
 <!ENTITY  permPlugins           "प्लगिन सक्रिय‌ करें">
 
-<!ENTITY  permClearStorage           "‌भंडारण साफ़ करें">
-<!ENTITY  permClearStorage.accesskey "C">
-
 <!ENTITY  securityTab           "सुरक्षा‌">
 <!ENTITY  securityTab.accesskey "S">
 <!ENTITY  securityView.certView "प्रमाणपत्र देखें‌">
@@ -81,6 +78,8 @@
 <!ENTITY  securityView.privacy.cookies                  "क्या यह वेब साइट मेरे कंप्यूटर पर सूचना (कुकी) जमा‌ कर रहा है?">
 <!ENTITY  securityView.privacy.viewCookies              "कुकी देखें‌">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.clearSiteData            "कूकीज़ तथा साइट डेटा हटायें">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "C">
 <!ENTITY  securityView.privacy.passwords                "क्या‌ मैंने कोई कूटशब्द इस वेबसाइट के लिए सहेजा है?">
 <!ENTITY  securityView.privacy.viewPasswords            "सहेजा गया कूटशब्द‌ देखें">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">

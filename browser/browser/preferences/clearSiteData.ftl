@@ -12,6 +12,7 @@ clear-site-data-cookies = कुकीज़ और साइट डेटा
 clear-site-data-cookies-info = यदि मिटाते हैं तो आप वेबसाइटों से साईन आउट हो जायेंगे
 clear-site-data-cache = कैश्च वेब कंटेंट
     .accesskey = W
+clear-site-data-cache-info = वेबसाइटों को छवियाँ तथा डेटा पुनः लोड करने की आवश्यकता होगी
 clear-site-data-cancel =
     .label = रद्द करें
     .accesskey = C
