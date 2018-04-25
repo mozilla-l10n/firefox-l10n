@@ -224,6 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Konservi datumojn en daŭra konservejo">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "La retumilo estas sub fora regado">
 
+<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Malfermi panelon de Teksaĵa aŭtentikigo">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Administri dividon de via filmilo kaj/aŭ mikrofonon kun la retejo">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Administri dividon de via mikrofono kun la retejo">
