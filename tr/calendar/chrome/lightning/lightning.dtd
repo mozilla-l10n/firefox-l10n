@@ -42,7 +42,6 @@
      These strings are used in the calendar wizard and the calendar properties dialog, but are only
      displayed when setting/using a caldav calendar -->
 <!ENTITY lightning.calendarproperties.email.label                           "E-posta:">
-
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.label            "İstemci taraflı e-posta zamanlamayı tercih et">
 <!-- LOCALIZATON NOTE(lightning.calendarproperties.forceEmailScheduling.tooltiptext1,
      lightning.calendarproperties.forceEmailScheduling.tooltiptext2)
@@ -81,6 +80,9 @@
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "Güncelle">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Takvimdeki etkinliği güncelle">
 <!ENTITY lightning.imipbar.description                                      "Bu ileti bir etkinliğe davetiyedir.">
+
+<!ENTITY lightning.imipbar.btnSend.label                                    "Hemen yanıt gönder">
+<!ENTITY lightning.imipbar.btnDontSend.label                                "Yanıt gönderme">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
