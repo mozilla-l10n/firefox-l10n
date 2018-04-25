@@ -537,7 +537,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "i">
 <!ENTITY openFrameCmd.label           "Kadrni yangi oynada ochish">
 <!ENTITY openFrameCmd.accesskey       "o">
-<!ENTITY showOnlyThisFrameCmd.label     "Faqat ushbu kadrni ko‘rsatish">
+<!ENTITY openLinkCmdInContainerTab.label "Havolani yangi konteyner oynasida ochish">
+<!ENTITY openLinkCmdInContainerTab.accesskey "b">
+<!ENTITY showOnlyThisFrameCmd.label     "Faqat ushbu ramkani ko‘rsatish">
 <!ENTITY showOnlyThisFrameCmd.accesskey "s">
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Kadrni qayta yuklash">
@@ -574,6 +576,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "H">
 <!ENTITY bookmarkThisFrameCmd.label      "Kadrni xatcho‘plarga qo‘shish">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "h">
+<!ENTITY pageAction.copyLink.label    "Havoladan nusxa olish">
+<!ENTITY copyURLFeedback.label        "Nusxa olindi!">
 <!ENTITY emailPageCmd.label           "Havolani e-pochtadan jo‘natish">
 <!ENTITY emailPageCmd.accesskey       "e">
 <!ENTITY savePageCmd.label            "Sahifani saqlash…">
@@ -637,6 +641,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate2.accesskey "I">
 <!ENTITY mediaPlaybackRate050x2.label "Sekin (0.5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "S">
+<!ENTITY mediaPlaybackRate100x2.label "Me’yorda">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
 <!ENTITY mediaPlaybackRate125x2.label "Tez (1.25×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "T">
 <!ENTITY mediaPlaybackRate150x2.label "Tezroq (1.5×)">
@@ -704,6 +710,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Chiqish">
 <!ENTITY quitApplicationCmd.accesskey   "C">
 <!ENTITY quitApplicationCmdMac2.label   "&brandShorterName;dan chiqish">
+<!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Yopish">
 <!ENTITY closeCmd.key                   "W">
@@ -745,16 +752,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Lug‘atlar qo‘shish">
 <!ENTITY spellAddDictionaries.accesskey "q">
 
+<!ENTITY editBookmark.done.label                     "Tayyor">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Sayt xavfsizligi">
 
 <!ENTITY identity.connectionSecure "Xavfsiz ulanish">
 <!ENTITY identity.connectionNotSecure "Ulanish – xavfsiz emas">
 <!ENTITY identity.connectionFile "Bu sahifa kompyuteringizda saqlangan.">
 <!ENTITY identity.connectionVerified2 "Quyidagi yordamida ishlaydigan ushbu saytga xavfli ulandingiz:">
 <!ENTITY identity.connectionInternal "Bu xavfsiz &brandShortName; sahifasi.">
+<!ENTITY identity.extensionPage "Bu sahifa kengaytmadan yuklandi.">
 <!ENTITY identity.insecureLoginForms2 "Bu sahifaga kiritilgan taxalluslar yomon oqibatlarga olib kelishi mumkin.">
 
 <!-- Strings for connection state warnings. -->
@@ -801,11 +811,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.label    "Bu yerdagi ichki oynalarni ko‘rish uchun Firefox hisobiga boshqa qurilmalardan kiring.">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Bu yerdagi ichki oynalarni boshqa qurilmalarda ko‘rishni xohlaysizmi?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Boshqa qurilmalardagi ichki oynalar ro‘yxatini ko‘rish uchun Firefox hisobiga kiring.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "Hisobingiz tasdiqlanishi kerak.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Ochiq ichki oynalar yo‘q">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "&syncBrand.shortName.label; parametrlarini ochish">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Boshqa qurilmalaridagi ichki oynalar ro‘yxatini ko‘rish uchun ichki oynalarni sinxronlashni yoqing.">
+<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Sinxronlangan oynalarni qidirish">
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Boshqa qurilmani ulash">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -824,9 +837,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.copy.label                       "Nusxa olish">
 <!ENTITY syncedTabs.context.copy.accesskey                   "N">
 
+<!ENTITY syncedTabs.context.openAllInTabs.label              "Barchasini ichki oynalarda ochish">
+<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "O">
+<!ENTITY syncedTabs.context.managedevices.label              "Qurilmalarni boshqarish">
+<!ENTITY syncedTabs.context.managedevices.accesskey          "D">
 
 
-<!ENTITY syncBrand.shortName.label    "Sinxronlash">
+<!ENTITY syncBrand.shortName.label    "Sinxronizatsiya">
 
 <!ENTITY syncSignIn.label             "&syncBrand.shortName.label; tizimiga kirish…">
 <!ENTITY syncSignIn.accesskey         "Y">
@@ -836,8 +853,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "q">
 <!ENTITY syncToolbarButton.label      "Sinx">
 
-<!ENTITY customizeMode.restoreDefaults "Standart holatni tiklash">
+<!ENTITY customizeMode.menuAndToolbars.header3 "Kerakli bandlarni asboblar paneli yoki kengaytirilgan menyuga tashlang.">
+<!ENTITY customizeMode.restoreDefaults "Asliga tiklash">
+<!ENTITY customizeMode.done "Tayyor">
 <!ENTITY customizeMode.titlebar "Sarlavha paneli">
+<!ENTITY customizeMode.extraDragSpace "Tashlash maydoni">
+<!ENTITY customizeMode.toolbars2 "Asboblar paneli">
 <!ENTITY customizeMode.lwthemes "Mavzular">
 <!ENTITY customizeMode.lwthemes.myThemes "Mening mavzularim">
 <!ENTITY customizeMode.lwthemes.recommended "Tavsiya qilingan">
