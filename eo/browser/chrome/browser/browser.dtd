@@ -998,6 +998,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Malaktivigi etendaĵon">
 <!ENTITY newTabControlled.disableButton.accesskey "e">
 
+<!ENTITY homepageControlled.message "Etendaĵo ŝanĝis vian ĉefpaĝon. Vi povas restarigi viajn agordojn se vi ne akceptas tiun ŝanĝon.">
+<!ENTITY homepageControlled.header.message "Via ĉefpaĝo ŝanĝiĝis.">
+<!ENTITY homepageControlled.keepButton.label "Gardi ŝanĝojn">
+<!ENTITY homepageControlled.keepButton.accesskey "G">
+<!ENTITY homepageControlled.disableButton.label "Malaktivigi etendaĵon">
+<!ENTITY homepageControlled.disableButton.accesskey "M">
 
 <!ENTITY pageActionButton.tooltip "Retpaĝaj agoj">
 <!ENTITY pageAction.addToUrlbar.label "Aldoni al adresa strio">
@@ -1009,6 +1015,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.sendTabToDevice.label "Sendi langeton al aparato">
 <!ENTITY sendToDevice.syncNotReady.label "Aparatoj spegulataj…">
 
+<!ENTITY pageAction.shareUrl.label "Dividi">
 
 <!ENTITY libraryButton.tooltip "Vidi historion, konservitajn legosignojn kaj pli">
 
