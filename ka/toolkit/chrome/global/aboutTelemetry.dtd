@@ -62,21 +62,15 @@ JSON მნახველში გახსნა
 <!ENTITY aboutTelemetry.environmentDataSection "
   გარემოს მონაცემები
 ">
-<!ENTITY aboutTelemetry.sessionInfoSection "
-  სეანსის ინფორმაცია
-">
+<!ENTITY aboutTelemetry.sessionInfoSection "სეანსის მონაცემები">
 <!ENTITY aboutTelemetry.scalarsSection "
   სიდიდეები
 ">
-<!ENTITY aboutTelemetry.keyedScalarsSection "
-  გასაღებებიანი სიდიდეები
-">
+<!ENTITY aboutTelemetry.keyedScalarsSection "შიფრიანი სიდიდეები">
 <!ENTITY aboutTelemetry.histogramsSection "
   გრაფიკები
 ">
-<!ENTITY aboutTelemetry.keyedHistogramsSection "
-  გასაღებებიანი გრაფიკები
-">
+<!ENTITY aboutTelemetry.keyedHistogramsSection "შიფრიანი გრაფიკები">
 <!ENTITY aboutTelemetry.eventsSection "
   მოვლენები
 ">
@@ -86,9 +80,7 @@ JSON მნახველში გახსნა
 <!ENTITY aboutTelemetry.telemetryLogSection "
   ტელემეტრიის ჟურნალი
 ">
-<!ENTITY aboutTelemetry.slowSqlSection "
-  ნელი SQL-ს განცხადებები
-">
+<!ENTITY aboutTelemetry.slowSqlSection "ნელი SQL-ს ბრძანებები">
 <!ENTITY aboutTelemetry.chromeHangsSection "
   ბრაუზერის გაშეშებები
 ">
@@ -107,8 +99,7 @@ JSON მნახველში გახსნა
 ნედლი JSON
 ">
 
-<!ENTITY aboutTelemetry.fullSqlWarning "
-  შენიშვნა: ნელი SQL-ს გამართვა ჩართულია. შესაძლოა ქვემოთ სრული SQL სტრიქონები გამოჩნდეს, მაგრამ ისინი არ გადაეგზავნებიან ტელემეტრიას.">
+<!ENTITY aboutTelemetry.fullSqlWarning "შენიშვნა: ნელი SQL-ს გამართვა ჩართულია. შესაძლოა ქვემოთ სრული SQL სტრიქონები გამოჩნდეს, მაგრამ ისინი არ გადაეგზავნება ტელემეტრიას.">
 <!ENTITY aboutTelemetry.fetchStackSymbols "
   ფუნქციების სახელების გადმოტანა სტეკებითვის
 ">
