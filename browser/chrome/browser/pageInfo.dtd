@@ -60,9 +60,6 @@
 <!ENTITY  permissionsFor        "Permesoj por:">
 <!ENTITY  permPlugins           "Aktivigi komprogramojn">
 
-<!ENTITY  permClearStorage           "Malplenigi memoron">
-<!ENTITY  permClearStorage.accesskey "M">
-
 <!ENTITY  securityTab           "Sekureco">
 <!ENTITY  securityTab.accesskey "S">
 <!ENTITY  securityView.certView "Vidi atestilon">
@@ -81,6 +78,9 @@
 <!ENTITY  securityView.privacy.cookies                  "Ĉu tiu ĉi retejo konservas datumon (kuketojn) en mia komputilo?">
 <!ENTITY  securityView.privacy.viewCookies              "Vidi kuketojn">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.siteData                 "Ĉu tiu ĉi retejo konservas informojn en mia komputilo?">
+<!ENTITY  securityView.privacy.clearSiteData            "Viŝi kuketojn kaj retejajn datumojn">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "V">
 <!ENTITY  securityView.privacy.passwords                "Ĉu mi konservis pasvortojn por tiu ĉi retejo?">
 <!ENTITY  securityView.privacy.viewPasswords            "Vidi konservitajn pasvortojn">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "v">
