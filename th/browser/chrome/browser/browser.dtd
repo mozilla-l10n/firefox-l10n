@@ -360,14 +360,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoMenu.label "แท็บที่ปิดล่าสุด">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "หน้าต่างที่ปิดล่าสุด">
-<!ENTITY historyRestoreLastSession.label "เรียกคืนวาระที่แล้ว">
+<!ENTITY historyRestoreLastSession.label "เรียกคืนวาระก่อนหน้า">
 
 <!ENTITY showAllHistoryCmd2.label "แสดงประวัติทั้งหมด">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "แสดงประวัติทั้งหมด">
 <!ENTITY appMenuHistory.clearRecent.label "ล้างประวัติล่าสุด…">
-<!ENTITY appMenuHistory.restoreSession.label "เรียกคืนวาระที่แล้ว">
+<!ENTITY appMenuHistory.restoreSession.label "เรียกคืนวาระก่อนหน้า">
 <!ENTITY appMenuHistory.viewSidebar.label "ดูแถบข้างประวัติ">
 <!ENTITY appMenuHistory.recentHistory.label "ประวัติล่าสุด">
 <!ENTITY appMenuHelp.label "ช่วยเหลือ">
