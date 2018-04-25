@@ -5,7 +5,7 @@
 <!ENTITY windowTitle.label "Seçim Listesi Özellikleri">
 
 <!ENTITY Select.label "Seçim Listesi">
-<!ENTITY SelectName.label "Liste Adı:">
+<!ENTITY SelectName.label "Liste adı:">
 <!ENTITY SelectName.accesskey "L">
 <!ENTITY SelectSize.label "Yükseklik:">
 <!ENTITY SelectSize.accesskey "Y">

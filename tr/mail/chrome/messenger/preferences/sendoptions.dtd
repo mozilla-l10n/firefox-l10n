@@ -18,9 +18,9 @@
 <!ENTITY override.label               "Not: Alıcılara özel metin biçimlerini ayarlamak için Adres Defteri'ni kullanın.">
 
 <!ENTITY domaindesc.label             "İçinde aşağıdaki alan adlarından biri geçen bir adrese ileti gönderirken, &brandShortName; bunu otomatik olarak doğru biçimde gönderir. ">
-<!ENTITY HTMLTab.label                "HTML Alan Adları">
+<!ENTITY HTMLTab.label                "HTML alan adları">
 <!ENTITY HTMLTab.accesskey            "H">
-<!ENTITY PlainTextTab.label           "Düz Metin Alan Adları">
+<!ENTITY PlainTextTab.label           "Düz metin alan adları">
 <!ENTITY PlainTextTab.accesskey       "z">
 <!ENTITY AddHtmlDomain.label          "Ekle…">
 <!ENTITY AddHtmlDomain.accesskey      "E">

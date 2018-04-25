@@ -12,8 +12,8 @@
 <!ENTITY mailingListPropertiesMenu.label    "E-posta listesi özellikleri">
 <!ENTITY mailingListPropertiesMenu.accesskey "i">
 
-<!ENTITY abContextMenuButton.tooltip        "Adres defteri içerik menüsünü göster">
-<!ENTITY addressbookPicker.label            "Adres Defteri:">
+<!ENTITY abContextMenuButton.tooltip        "Adres defteri bağlam menüsünü göster">
+<!ENTITY addressbookPicker.label            "Adres defteri:">
 <!ENTITY addressbookPicker.accesskey        "t">
 <!ENTITY searchContacts.label               "Kişilerde ara:">
 <!ENTITY searchContacts.accesskey           "a">

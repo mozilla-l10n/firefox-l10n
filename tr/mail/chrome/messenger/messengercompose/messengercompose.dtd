@@ -162,7 +162,7 @@
 <!-- Options Menu -->
 <!ENTITY optionsMenu.label "Seçenekler">
 <!ENTITY optionsMenu.accesskey "S">
-<!ENTITY checkSpellingCmd2.label "Yazım Denetimi…">
+<!ENTITY checkSpellingCmd2.label "Yazımı denetle…">
 <!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.key2 "VK_F7">
 <!ENTITY checkSpellingCmd2.accesskey "Y">
@@ -217,7 +217,7 @@
 <!ENTITY addressBookCmd.label "Adres Defteri">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd2.label "Hesap Ayarları">
+<!ENTITY accountManagerCmd2.label "Hesap ayarları">
 <!ENTITY accountManagerCmd2.accesskey "A">
 <!ENTITY accountManagerCmdUnix2.accesskey "S">
 <!ENTITY preferencesCmd2.label "Seçenekler">
@@ -228,7 +228,7 @@
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Küçült">
-<!ENTITY bringAllToFront.label "Tümünü Öne Getir">
+<!ENTITY bringAllToFront.label "Tümünü öne getir">
 <!ENTITY zoomWindow.label "Yaklaştır">
 <!ENTITY windowMenu.label "Pencere">
 

@@ -4,7 +4,7 @@
 
 <!-- extracted from am-main.xul -->
 
-<!ENTITY accountTitle.label "Hesap Ayaları">
+<!ENTITY accountTitle.label "Hesap Ayarları">
 <!ENTITY accountName.label "Hesap adı:">
 <!ENTITY accountName.accesskey "d">
 <!ENTITY identityTitle.label "Varsayılan kimlik">

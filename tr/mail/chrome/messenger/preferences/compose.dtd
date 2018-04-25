@@ -41,7 +41,7 @@
 <!ENTITY warnOnSendAccelKey.accesskey         "k">
 <!ENTITY autoSave.label                       "Her ">
 <!ENTITY autoSave.accesskey                   "e">
-<!ENTITY autoSaveEnd.label                    "dakikada bir Otomatik Kaydet">
+<!ENTITY autoSaveEnd.label                    "dakikada bir otomatik kaydet">
 
 <!ENTITY emailCollectionPicker.label           "E-posta gönderdiğim adresleri otomatik olarak buraya ekle:">
 <!ENTITY emailCollectionPicker.accesskey       "t">

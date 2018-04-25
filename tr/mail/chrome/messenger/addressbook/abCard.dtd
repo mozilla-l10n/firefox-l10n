@@ -39,7 +39,7 @@
 <!ENTITY PrimaryEmail.label             "E-posta:">
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "Ek e-posta:">
-<!ENTITY SecondEmail.accesskey          "i">
+<!ENTITY SecondEmail.accesskey          "k">
 <!ENTITY PreferMailFormat.label         "Tercih ettiği ileti alma biçimi:">
 <!ENTITY PreferMailFormat.accesskey     "b">
 <!ENTITY PlainText.label                "Düz metin">
@@ -54,12 +54,12 @@
 <!ENTITY FaxNumber.label                "Faks:">
 <!ENTITY FaxNumber.accesskey            "F">
 <!ENTITY PagerNumber.label              "Çağrı cihazı:">
-<!ENTITY PagerNumber.accesskey          "c">
+<!ENTITY PagerNumber.accesskey          "h">
 <!ENTITY CellularNumber.label           "Cep:">
 <!ENTITY CellularNumber.accesskey       "C">
 
 <!ENTITY Home.tab                       "Kişisel">
-<!ENTITY Home.accesskey                 "K">
+<!ENTITY Home.accesskey                 "e">
 <!ENTITY HomeAddress.label              "Adres:">
 <!ENTITY HomeAddress.accesskey          "d">
 <!ENTITY HomeCity.label                 "İlçe:">
@@ -100,6 +100,7 @@
 <!ENTITY WorkWebPage.accesskey          "e">
 
 <!ENTITY Other.tab                      "Diğer">
+<!ENTITY Other.accesskey                "D">
 <!ENTITY Custom1.label                  "Özel 1:">
 <!ENTITY Custom1.accesskey              "1">
 <!ENTITY Custom2.label                  "Özel 2:">
@@ -139,9 +140,12 @@
 <!ENTITY GenericPhoto.accesskey         "V">
 <!ENTITY DefaultPhoto.label             "Varsayılan">
 <!ENTITY PhotoFile.label                "Bu bilgisayarda">
+<!ENTITY PhotoFile.accesskey            "B">
 <!ENTITY BrowsePhoto.label              "Gözat">
+<!ENTITY BrowsePhoto.accesskey          "G">
 <!ENTITY PhotoURL.label                 "Web üzerinde">
 <!ENTITY PhotoURL.accesskey             "b">
 <!ENTITY PhotoURL.placeholder           "Resmin web adresini yazın veya yapıştırın">
 <!ENTITY UpdatePhoto.label              "Güncelle">
+<!ENTITY UpdatePhoto.accesskey          "n">
 <!ENTITY PhotoDropTarget.label          "Yeni fotoğrafı buraya sürükleyin">

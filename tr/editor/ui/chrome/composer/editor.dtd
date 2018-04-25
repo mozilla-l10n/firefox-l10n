@@ -61,7 +61,7 @@
 <!ENTITY HTMLSourceMode.label "HTML Kaynağı">
 <!ENTITY HTMLSourceMode.accesskey "H">
 <!ENTITY HTMLSourceMode.tooltip "HTML kaynağını düzenle">
-<!ENTITY PreviewModeTab.label "Önizleme">
-<!ENTITY PreviewMode.label "Önizleme">
+<!ENTITY PreviewModeTab.label "Ön izleme">
+<!ENTITY PreviewMode.label "Ön izleme">
 <!ENTITY PreviewMode.accesskey "z">
 <!ENTITY PreviewMode.tooltip "WYSIWYG olarak görüntüle (tarayıcıdaki gibi)">
