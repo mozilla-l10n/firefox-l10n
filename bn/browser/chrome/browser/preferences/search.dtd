@@ -18,7 +18,7 @@
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "ঠিকানা বার এবং অনুসন্ধান বার ব্যবহার করতে ডিফল্ট অনুসন্ধান ইঞ্জিন নির্বাচন করুন।">
 
-<!ENTITY provideSearchSuggestions.label        "অনুসন্ধান পরামর্শ প্রদান করুন s">
+<!ENTITY provideSearchSuggestions.label        "অনুসন্ধান পরামর্শ প্রদান করুন">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
 <!ENTITY showURLBarSuggestions2.label           "ঠিকানা বার ফলাফলে অনুসন্ধান পরামর্শ দেখাও">
