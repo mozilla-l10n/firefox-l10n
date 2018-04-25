@@ -29,7 +29,7 @@
 <!ENTITY editUserDictionaryButton.label "Düzenle…">
 <!ENTITY editUserDictionaryButton.accessKey "D">
 <!ENTITY recheckButton2.label "Metni yeniden denetle">
-<!ENTITY recheckButton2.accessKey "z">
+<!ENTITY recheckButton2.accessKey "M">
 <!ENTITY closeButton.label "Kapat">
 <!ENTITY closeButton.accessKey "K">
 <!ENTITY sendButton.label "Gönder">
