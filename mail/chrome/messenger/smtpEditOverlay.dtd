@@ -19,6 +19,6 @@
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "SMTP sunucusu">
-<!ENTITY serverPortDefault.label "Öntanımlı:">
+<!ENTITY serverPortDefault.label "Varsayılan:">
 <!ENTITY authMethod.label "Yetkilendirme yöntemi:">
 <!ENTITY authMethod.accesskey "Y">

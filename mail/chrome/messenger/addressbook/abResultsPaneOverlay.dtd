@@ -22,7 +22,7 @@
 <!ENTITY JobTitle.accesskey                    "U">
 <!ENTITY CellularNumber.label                  "Cep Telefonu">
 <!ENTITY CellularNumber.accesskey              "e">
-<!ENTITY PagerNumber.label                     "Çağrı Cihazı">
+<!ENTITY PagerNumber.label                     "Çağrı cihazı">
 <!ENTITY PagerNumber.accesskey                 "Ç">
 <!ENTITY FaxNumber.label                       "Faks">
 <!ENTITY FaxNumber.accesskey                   "F">

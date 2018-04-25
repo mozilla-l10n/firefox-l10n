@@ -7,7 +7,7 @@
 <!ENTITY enableStartPage.accesskey        "B">
 <!ENTITY location.label                   "Konum:">
 <!ENTITY location1.accesskey               "o">
-<!ENTITY useDefault.label                 "Varsayılanı Getir">
+<!ENTITY useDefault.label                 "Varsayılanı geri yükle">
 <!ENTITY useDefault.accesskey             "V">
 
 <!ENTITY changeDockIconOptions.label      "Uygulama simgesi tercihlerini değiştir">
@@ -30,7 +30,7 @@
 
 <!ENTITY play.label                       "Çal">
 <!ENTITY play.accesskey                   "l">
-<!ENTITY systemsound.label                "Yeni posta için öntanımlı sistem sesi">
+<!ENTITY systemsound.label                "Yeni posta için varsayılan sistem sesi">
 <!ENTITY systemsound.accesskey            "Y">
 <!ENTITY customsound.label                "Aşağıdaki ses dosyasını kullan">
 <!ENTITY customsound.accesskey            "d">

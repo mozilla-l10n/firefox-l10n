@@ -38,7 +38,7 @@
 
 <!ENTITY PrimaryEmail.label             "E-posta:">
 <!ENTITY PrimaryEmail.accesskey         "E">
-<!ENTITY SecondEmail.label              "Ek E-Posta:">
+<!ENTITY SecondEmail.label              "Ek e-posta:">
 <!ENTITY SecondEmail.accesskey          "o">
 <!ENTITY PreferMailFormat.label         "Tercih ettiği ileti alma biçimi:">
 <!ENTITY PreferMailFormat.accesskey     "h">
@@ -53,8 +53,8 @@
 <!ENTITY HomePhone.accesskey            "v">
 <!ENTITY FaxNumber.label                "Faks:">
 <!ENTITY FaxNumber.accesskey            "k">
-<!ENTITY PagerNumber.label              "Çağrı Cihazı:">
-<!ENTITY PagerNumber.accesskey          "C">
+<!ENTITY PagerNumber.label              "Çağrı cihazı:">
+<!ENTITY PagerNumber.accesskey          "h">
 <!ENTITY CellularNumber.label           "Cep Telefonu:">
 <!ENTITY CellularNumber.accesskey       "f">
 
@@ -106,7 +106,7 @@
 <!ENTITY WorkWebPage.accesskey          "b">
 
 <!ENTITY Other.tab                      "Diğer">
-<!ENTITY Other.accesskey                "h">
+<!ENTITY Other.accesskey                "D">
 <!ENTITY Custom1.label                  "Özel 1:">
 <!ENTITY Custom1.accesskey              "1">
 <!ENTITY Custom2.label                  "Özel 2:">

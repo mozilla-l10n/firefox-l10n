@@ -261,7 +261,7 @@
 <!ENTITY viewFeedWebPage.accesskey "W">
 <!ENTITY viewFeedSummary.label "Özet">
 <!ENTITY viewFeedSummary.accesskey "z">
-<!ENTITY viewFeedSummaryFeedPropsPref.label "Öntanımlı biçim">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "Varsayılan biçim">
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "b">
 
 <!ENTITY viewAttachmentsInlineCmd.label "Ekleri gövde içinde göster">
@@ -761,7 +761,7 @@
 <!ENTITY contextOpenNewTab.accesskey "ç">
 <!ENTITY contextOpenConversation.label "İletiyi dizi görünümünde aç">
 <!ENTITY contextOpenConversation.accesskey "d">
-<!ENTITY contextOpenContainingFolder.label "İçeren dizindeki iletiyi aç">
+<!ENTITY contextOpenContainingFolder.label "İletiyi dizin içinde aç">
 <!ENTITY contextOpenContainingFolder.accesskey "a">
 <!ENTITY contextEditMsgAsNew.label "Yeni ileti olarak düzenle">
 <!ENTITY contextEditMsgAsNew.accesskey "o">
@@ -953,7 +953,7 @@
 <!-- Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.label "Küçült">
 <!ENTITY minimizeWindow.key "m">
-<!ENTITY bringAllToFront.label "Hepsini ön plana al">
+<!ENTITY bringAllToFront.label "Tümünü öne getir">
 <!ENTITY zoomWindow.label "Yakınlaştırma">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->

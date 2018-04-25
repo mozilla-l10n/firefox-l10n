@@ -118,7 +118,7 @@
 <!ENTITY styleEm.label "Vurgu">
 <!ENTITY styleEm.accesskey "V">
 <!ENTITY styleStrong.label "Daha güçlü vurgu">
-<!ENTITY styleStrong.accesskey "g">
+<!ENTITY styleStrong.accesskey "D">
 <!ENTITY styleCite.label "Alıntı">
 <!ENTITY styleCite.accesskey "n">
 <!ENTITY styleAbbr.label "Kısaltma">
@@ -172,11 +172,11 @@
 <!ENTITY listBulletCmd.label "Madde imli">
 <!ENTITY listBulletCmd.accesskey "M">
 <!ENTITY listNumberedCmd.label "Numaralı">
-<!ENTITY listNumberedCmd.accesskey "m">
+<!ENTITY listNumberedCmd.accesskey "N">
 <!ENTITY listTermCmd.label "Terim">
 <!ENTITY listTermCmd.accesskey "T">
 <!ENTITY listDefinitionCmd.label "Tanım">
-<!ENTITY listDefinitionCmd.accesskey "T">
+<!ENTITY listDefinitionCmd.accesskey "a">
 <!ENTITY listPropsCmd.label "Liste özellikleri…">
 <!ENTITY listPropsCmd.accesskey "L">
 

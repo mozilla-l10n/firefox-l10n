@@ -8,9 +8,9 @@
 <!-- Labels and Access Keys -->
 <!ENTITY addToAddressBook.label         "Buraya ekle: ">
 <!ENTITY addToAddressBook.accesskey     "B">
-<!ENTITY ListName.label                 "Liste Adı:">
+<!ENTITY ListName.label                 "Liste adı: ">
 <!ENTITY ListName.accesskey             "L">
-<!ENTITY ListNickName.label             "Liste Takma Adı:">
+<!ENTITY ListNickName.label             "Liste takma adı: ">
 <!ENTITY ListNickName.accesskey         "t">
 <!ENTITY ListDescription.label          "Açıklama: ">
 <!ENTITY ListDescription.accesskey      "k">
