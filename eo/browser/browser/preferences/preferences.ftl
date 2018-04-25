@@ -37,9 +37,17 @@ search-input-box =
             [windows] Serĉi en elektebloj
            *[other] Serĉi en preferoj
         }
+policies-notice =
+    { PLATFORM() ->
+        [windows] Via organizaĵo malŝaltis la eblon ŝanĝi kelkajn elekteblojn.
+       *[other] Via organizaĵo malŝaltis la eblon ŝanĝi kelkajn preferojn.
+    }
 pane-general-title = Ĉefaj
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = Eka paĝo
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = Serĉi
 category-search =
     .tooltiptext = { pane-search-title }
@@ -297,9 +305,25 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Novaj fenestroj kaj langetoj
+home-new-windows-tabs-description2 = Elektu tion, kion vi volas vidi je malfermo de via eka paĝo, novaj fenestroj aŭ novaj langetoj.
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Eka paĝo kaj novaj fenestroj
+home-newtabs-mode-label = Novaj langetoj
+home-restore-defaults =
+    .label = Remeti normojn
+    .accesskey = R
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Eka paĝo de Firefox (norma)
+home-mode-choice-custom =
+    .label = Personecigitaj URL…
+home-mode-choice-blank =
+    .label = Malplena paĝo
+home-homepage-custom-url =
+    .placeholder = Alglui retadreson…
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -408,6 +432,9 @@ sync-signedin-login-failure = Bonvolu komenci seancon por rekonekti { $email }
 sync-resend-verification =
     .label = Resendi kontrolon
     .accesskey = k
+sync-remove-account =
+    .label = Forigi konton
+    .accesskey = F
 sync-sign-in =
     .label = Komenci seancon
     .accesskey = K
@@ -469,6 +496,9 @@ privacy-header = Retumila privateco
 ## Privacy Section - Forms
 
 forms-header = Formularoj kaj pasvortoj
+forms-ask-to-save-logins =
+    .label = Demandi ĉu konservi akreditilojn kaj pasvortojn por retejoj
+    .accesskey = D
 forms-exceptions =
     .label = Esceptoj…
     .accesskey = c
@@ -502,6 +532,7 @@ history-remember-option-never =
     .label = neniam memoros historion
 history-remember-option-custom =
     .label = uzos personajn agordojn por la historio
+history-remember-description = { -brand-short-name } memoros vian retuman, elŝutan, formularan kaj serĉan historiojn.
 history-dontremember-description = { -brand-short-name } uzos la samajn agordojn de privata retumo, kaj ĝi ne memoros iun historion dum vi esploras la reton.
 history-private-browsing-permanent =
     .label = Ĉiam uzi la reĝimon de privata retumo
@@ -526,11 +557,18 @@ history-clear-button =
 
 sitedata-header = Kuketoj kaj retejaj datumoj
 sitedata-learn-more = Pli da informo
+sitedata-accept-cookies-option =
+    .label = Akcepti kuketojn kaj retejajn datumon de retejoj (rekomendita)
+    .accesskey = A
 sitedata-block-cookies-option =
     .label = Bloki kuketojn kaj retejajn datumojn (tio povus misfunkciigi retejojn)
     .accesskey = B
 sitedata-keep-until = Konservi ĝis
     .accesskey = K
+sitedata-keep-until-expire =
+    .label = ilia senvalidiĝo
+sitedata-keep-until-closed =
+    .label = la fermo de { -brand-short-name }
 sitedata-accept-third-party-desc = Akcepti nerektajn kuketojn kaj retejajn datumojn
     .accesskey = n
 sitedata-accept-third-party-always-option =
@@ -542,6 +580,9 @@ sitedata-accept-third-party-never-option =
 sitedata-clear =
     .label = Viŝi datumojn…
     .accesskey = V
+sitedata-settings =
+    .label = Administri datumojn…
+    .accesskey = d
 sitedata-cookies-exceptions =
     .label = Esceptoj…
     .accesskey = t

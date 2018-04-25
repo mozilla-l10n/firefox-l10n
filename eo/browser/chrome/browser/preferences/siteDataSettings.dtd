@@ -4,7 +4,7 @@
 
 <!ENTITY     window.title                  "Agordoj - Retejaj datumoj">
 
-<!ENTITY     window1.title                 "Agordoj - Kuketoj kaj retejaj datumoj">
+<!ENTITY     window2.title                 "Administri kuketojn kaj retejajn datumojn">
 <!ENTITY     hostCol.label                 "Retejo">
 <!ENTITY     statusCol.label               "Stato">
 <!ENTITY     cookiesCol.label              "Kuketoj">
