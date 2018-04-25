@@ -95,5 +95,4 @@
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>  uzas sekurecan teĥnologion, kiu estas kaduka kaj sendefenda.  uzas sekurecan teĥnologion, kiu estas kaduka kaj sendefenda. La administranto de la retejo devos ripari la servilon antaŭ ol vi povos viziti la retejon.</p><p>Erarkodo: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
-<!ENTITY blockedByPolicyTemp.title "Paĝo blokita">
-<!ENTITY blockedByPolicyTemp.longDesc "<p>La aliro estis malebligita de via administranto.</p>">
+<!ENTITY blockedByPolicy.title "Blokita paĝo">

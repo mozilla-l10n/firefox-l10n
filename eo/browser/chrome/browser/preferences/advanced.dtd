@@ -53,8 +53,6 @@ available. -->
 <!ENTITY networkProxy.label              "Retperanto">
 
 <!ENTITY connectionDesc.label            "Agordi la manieron kiel &brandShortName; konektiĝas al la reto">
-
-<!ENTITY connectionSettingsLearnMore.label "Pli da informo">
 <!ENTITY connectionSettings.label        "Agordoj…">
 <!ENTITY connectionSettings.accesskey    "g">
 
@@ -64,11 +62,13 @@ available. -->
 <!ENTITY siteData.label                  "Retejaj datumoj">
 <!ENTITY clearSiteData.label             "Viŝi ĉiujn datumojn">
 <!ENTITY clearSiteData.accesskey         "V">
+<!ENTITY siteDataSettings.label          "Agordoj…">
+<!ENTITY siteDataSettings.accesskey      "A">
 <!ENTITY siteData1.label                 "Kuketoj kaj retejaj datumoj">
 <!ENTITY clearSiteData1.label            "Viŝi datumojn…">
 <!ENTITY clearSiteData1.accesskey        "V">
-<!ENTITY siteDataSettings.label          "Agordoj…">
-<!ENTITY siteDataSettings.accesskey      "A">
+<!ENTITY siteDataSettings1.label         "Administri datumojn…">
+<!ENTITY siteDataSettings1.accesskey     "A">
 <!ENTITY siteDataLearnMoreLink.label     "Pli da informo">
 
 <!-- LOCALIZATION NOTE:
