@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Protekto kontraŭ spurado">
-<!ENTITY  trackingProtection2.description      "Spurado estas la kolekto de viaj retumaj datumoj tra pluraj retejoj. Spurado povas esti uzita por konstrui profilon kaj montri enhavon surbaze de viaj retumaj kaj personaj informoj.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "Uzi protekton kontraŭ spurado por bloki konatajn spurilojn">
 <!ENTITY  trackingProtection3.description      "La protekto kontraŭ spurado blokas retajn spurilojn, kiuj kolektas viajn retumajn datumojn tra pluraj retejoj.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "Uzi protekton kontraŭ spurado por bloki konatajn spurilojn">
 <!ENTITY  trackingProtectionAlways.label       "Ĉiam">
@@ -13,7 +11,6 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "p">
 <!ENTITY  trackingProtectionNever.label        "Neniam">
 <!ENTITY  trackingProtectionNever.accesskey    "N">
-<!ENTITY  trackingProtectionLearnMore.label    "Pli da informo">
 <!ENTITY  trackingProtectionLearnMore2.label    "Pli da informo pri protekto kontraŭ spurado kaj via privateco">
 <!ENTITY  trackingProtectionExceptions.label   "Esceptoj…">
 <!ENTITY  trackingProtectionExceptions.accesskey "E">
@@ -24,11 +21,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "Pli da informo">
 <!ENTITY changeBlockList2.label               "Ŝanĝi liston de blokado…">
 <!ENTITY changeBlockList2.accesskey           "b">
-
-<!ENTITY  doNotTrack.description        "Sendi al retejoj sciigon, ke vi ne volas esti spurata">
-<!ENTITY  doNotTrack.learnMore.label    "Pli da informo">
-<!ENTITY  doNotTrack.default.label      "Nur dum uzo de protekto kontraŭ spurado">
-<!ENTITY  doNotTrack.always.label       "Ĉiam">
 
 <!ENTITY  history.label                 "Historio">
 <!ENTITY  permissions.label             "Permesoj">
@@ -52,8 +44,8 @@
 <!ENTITY  acceptThirdParty2.pre.label     "Akcepti nerektajn kuketojn">
 <!ENTITY  acceptThirdParty2.pre.accesskey "n">
 
-<!ENTITY  acceptCookies3.label          "Akcepti kuketojn kaj retejajn datumojn el retejoj">
-<!ENTITY  acceptCookies3.accesskey      "A">
+<!ENTITY  acceptCookies4.label          "Akcepti kuketojn kaj retejajn datumon de retejoj (rekomendita)">
+<!ENTITY  acceptCookies4.accesskey      "A">
 
 <!ENTITY  blockCookies.label            "Bloki kuketojn kaj retejajn datumojn (tio povus misfunkciigi retejojn)">
 <!ENTITY  blockCookies.accesskey        "B">
@@ -93,6 +85,8 @@
 <!ENTITY  rememberActions.middle.label        ", aŭ ">
 <!ENTITY  rememberActions.removeCookies.label "forviŝi individuajn kuketojn">
 <!ENTITY  rememberActions.post.label          ".">
+
+<!ENTITY  rememberDescription1.label      "&brandShortName; memoros vian retuman, elŝutan, formularan kaj serĉan historiojn.">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; uzos la samajn agordojn de privata retumo, kaj ĝi ne memoros iun historion dum vi esploras la reton.">
 
