@@ -77,6 +77,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsProcessCount "Teksaĵaj enhavaj taskoj">
 
+<!ENTITY aboutSupport.enterprisePolicies "Kompaniaj politikoj">
+
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Ŝlosilo de Google">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Ŝlosilo de la servo de pozicio de Mozilla">
 
