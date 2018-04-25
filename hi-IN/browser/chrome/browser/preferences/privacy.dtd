@@ -85,6 +85,7 @@
 <!ENTITY  rememberActions.removeCookies.label "अपने व्यक्तिगत कुकीज़ हटा">
 <!ENTITY  rememberActions.post.label          ".">
 
+<!ENTITY  rememberDescription1.label      "&brandShortName; आपके ब्राउज़िंग, डाउनलोड, प्रपत्र तथा खोज इतिहास को याद रखेगा.">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; बतौर निजी ब्राउज़िंग की तरह समान सेटिंग का उपयोग करेगा, और कोई इतिहास याद नहीं रखेगा जब आप वेब ब्राउज़ करते हैं.">
 
