@@ -44,6 +44,6 @@
 <!ENTITY toButton.label                     "Kime alanına ekle:">
 <!ENTITY toButton.accesskey                 "e">
 <!ENTITY ccButton.label                     "Cc alanına ekle:">
-<!ENTITY ccButton.accesskey                 "B">
+<!ENTITY ccButton.accesskey                 "C">
 <!ENTITY bccButton.label                    "Bcc alanına ekle:">
-<!ENTITY bccButton.accesskey                "G">
+<!ENTITY bccButton.accesskey                "B">
