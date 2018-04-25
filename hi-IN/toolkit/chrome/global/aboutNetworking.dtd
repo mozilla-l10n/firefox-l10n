@@ -23,6 +23,7 @@
 <!ENTITY aboutNetworking.sent                  "भेजें">
 <!ENTITY aboutNetworking.received              "हस्तगत">
 <!ENTITY aboutNetworking.family                "परिवार">
+<!ENTITY aboutNetworking.trr                   "TRR">
 <!ENTITY aboutNetworking.addresses             "पता">
 <!ENTITY aboutNetworking.expires               "समय समाप्त (सेकेंड)">
 <!ENTITY aboutNetworking.messagesSent          "संदेश प्रेषित">
