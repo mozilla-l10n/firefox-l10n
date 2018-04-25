@@ -62,6 +62,7 @@ feature-enable-requires-restart = Por aktivigi tiun ĉi trajton, { -brand-short-
 feature-disable-requires-restart = Por malaktivigi tiun ĉi trajton, { -brand-short-name } devas restarti.
 should-restart-title = Restartigi { -brand-short-name }
 should-restart-ok = Restartigi { -brand-short-name } nun
+cancel-no-restart-button = Nuligi
 restart-later = Restartigi poste
 
 ## Preferences UI Search Results
@@ -295,6 +296,7 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = Novaj fenestroj kaj langetoj
 
 ## Home Section - Home Page Customization
 
