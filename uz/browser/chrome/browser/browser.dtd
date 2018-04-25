@@ -866,16 +866,30 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Ko‘proq mavzular olish">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+<!ENTITY customizeMode.overflowList.title2 "Kengaytirilgan menyu">
+<!ENTITY customizeMode.overflowList.description "Oson foydalanish uchun kerakli vositalarni shu yerga tashlang. Faqat asboblar panelidagilar emas.">
+<!ENTITY customizeMode.uidensity "Qalinlik">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
+<!ENTITY customizeMode.uidensity.menuNormal.label "O‘rtacha">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "O‘rtacha">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "O">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
      “Compact” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Compact). -->
+<!ENTITY customizeMode.uidensity.menuCompact.label "Ixcham">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Ixcham">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "C">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
      “Touch” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Touch), and it means that control layout is
      optimized for touch devices. -->
+<!ENTITY customizeMode.uidensity.menuTouch.label "Mobil">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Mobil">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Planshet rejimiga o‘tish uchun Mobil tugmasidan foydalaning">
 
+<!ENTITY customizeMode.autoHideDownloadsButton.label "Avtomatik yashirish">
 
 <!ENTITY getUserMedia.selectCamera.label "Bo‘lishiladigan kamera:">
 <!ENTITY getUserMedia.selectCamera.accesskey "k">
@@ -946,8 +960,31 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "DRM haqida ko‘proq o‘rganish…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.message "&brandShorterName; tez ishlashi va xavfsizlingiz uchu uni yangilang.">
+<!ENTITY updateAvailable.whatsnew.label "Yangi xususiyatlar bilan tanishing.">
+<!ENTITY updateAvailable.header.message "&brandShorterName; uchun yangilanish mavjud.">
+<!ENTITY updateAvailable.acceptButton.label "Yangilashni yuklab olish">
+<!ENTITY updateAvailable.acceptButton.accesskey "D">
+<!ENTITY updateAvailable.cancelButton.label "Hozir emas">
+<!ENTITY updateAvailable.cancelButton.accesskey "N">
+<!ENTITY updateAvailable.panelUI.label "&brandShorterName; uchun yangilanishni yuklab olish">
 
+<!ENTITY updateManual.message "&brandShorterName;ning oxirgi versiyasini yuklab oling. Biz uni o‘rnatishingizda yordam beramiz.">
+<!ENTITY updateManual.whatsnew.label "Yangi xususiyatlar bilan tanishing.">
+<!ENTITY updateManual.header.message "&brandShorterName;ni oxirgi versiyaga yangilab bo‘lmaydi.">
+<!ENTITY updateManual.acceptButton.label "&brandShorterName;ni yuklab olish">
+<!ENTITY updateManual.acceptButton.accesskey "Y">
+<!ENTITY updateManual.cancelButton.label "Hozir emas">
+<!ENTITY updateManual.cancelButton.accesskey "H">
+<!ENTITY updateManual.panelUI.label "&brandShorterName;ning oxirgi versiyasini yuklab olish">
 
+<!ENTITY updateRestart.message2 "Tezkor qayta ishga tushirishdan keyin &brandShorterName; barcha ochiq qolgan oyna va ichki oynalarni tiklaydi. Faqatgina maxfiy ko‘rish rejimidagi oynalarni tiklay olmaydi.">
+<!ENTITY updateRestart.header.message2 "&brandShorterName;ni yangilash uchun uni qayta ishga tushiring">
+<!ENTITY updateRestart.acceptButton.label "Qayta ishga tushirish va tiklash">
+<!ENTITY updateRestart.acceptButton.accesskey "T">
+<!ENTITY updateRestart.cancelButton.label "Hozir emas">
+<!ENTITY updateRestart.cancelButton.accesskey "H">
+<!ENTITY updateRestart.panelUI.label2 "&brandShorterName;ni yangilash uchun uni qayta ishga tushiring">
 
 
 
