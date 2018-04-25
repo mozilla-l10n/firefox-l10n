@@ -143,7 +143,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenClose.tooltip "Yopish">
 <!ENTITY fullScreenAutohide.label "Asboblar panelini yashirish">
 <!ENTITY fullScreenAutohide.accesskey "y">
-<!ENTITY fullScreenExit.label "Butun ekran usulidan chiqish">
+<!ENTITY fullScreenExit.label "Butun ekran rejimidan chiqish">
 <!ENTITY fullScreenExit.accesskey "u">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
@@ -216,12 +216,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Xabar panelini ochish">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Joylashuvni so‘rash panelini ochish">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Qo‘shimcha dastur o‘rnatish xabari panelini ochish">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Canvas ichidagi ma’lumotlarga ruxsatni boshqarish">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Xabarlarni oflayn saqlash panelini ochish">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Parolni saqlash xabari panelini ochish">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Plaginlarni boshqarishdan foydalanilmoqda">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Saytdan eslatma olish imkoniyatini o‘zgartirish">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Ma’lumotlarni doimiy xotiraga saqlash">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Brauzer nazorat ostida!">
 
+<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Internetda tasdiqdan o‘tish panelini ochish">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Kamera yoki mikrofonni sayt bilan bo‘lishishni boshqarish">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Mikrofonni sayt bilan bo‘lishishni boshqarish">
@@ -232,16 +235,23 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Sahifani tarjima qilishi boshqarish">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM dasturidan foydalanishni boshqarish">
 
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "MIDI-panelni ochish">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Bu sayt uchun kamerani bloklab qo‘ygansiz.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Bu sayt uchun mikrofonni bloklab qo‘ygansiz.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Bu sayt uchun ekranni ulashishni bloklab qo‘ygansiz.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Bu sayt uchun joylashuv ma’lumotini bloklab qo‘ygansiz.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Bu saytdan bildirishnomalarni olishni bloklab qo‘ygansiz.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Bu sayt uchun doimiy xotirani blokladingiz.">
+<!ENTITY urlbar.popupBlocked.tooltip             "Bu sayt uchun qalqib chiquvchi oynalarni blokladingiz.">
+<!ENTITY urlbar.canvasBlocked.tooltip            "Bu sayt uchun canvas ma’lumotlarini chiqarishni blokladingiz.">
 
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "Bu saytda Adobe Flash plaginidan foydalanishni taqiqladingiz.">
+<!ENTITY urlbar.midiBlocked.tooltip              "Bu sayt uchun MIDI ruxsatini blokladingiz.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Tarixni ko‘rsatish">
 
+<!ENTITY searchItem.title             "Qidiruv">
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Uy">
@@ -249,10 +259,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "Xatcho‘plar">
 <!ENTITY bookmarksCmd.commandkey "b">
 
+<!ENTITY bookmarksSubview.label             "Xatcho‘plar">
+<!ENTITY bookmarksMenuButton2.label         "Xatcho‘plar menyusi">
 <!ENTITY bookmarksMenuButton.other.label    "Boshqa xatcho‘plar">
 <!ENTITY bookmarksMenuButton.mobile.label   "Mobil xatcho‘plar">
 <!ENTITY viewBookmarksSidebar2.label        "Xatcho‘plarni yon panelda ko‘rsatish">
+<!ENTITY hideBookmarksSidebar.label         "Xatcho‘plar yon panelini berkitish">
 <!ENTITY viewBookmarksToolbar.label         "Xatcho‘plar panelini ko‘rsatish">
+<!ENTITY hideBookmarksToolbar.label         "Xatcho‘plar panelini berkitish">
+<!ENTITY searchBookmarks.label              "Xatcho‘plarni qidirish">
+<!ENTITY bookmarkingTools.label             "Xatcho‘p vositalari">
+<!ENTITY addBookmarksMenu.label             "Xatcho‘plar menyusini panelga qo‘shish">
+<!ENTITY removeBookmarksMenu.label          "Xatcho‘plar menyusini paneldan olib tashlash">
 
 <!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -272,6 +290,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "Yuklab olishlar">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "Yuklanmalar">
 <!ENTITY downloads.accesskey          "Y">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -285,6 +304,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Elementni kuzatish">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
+<!ENTITY inspectA11YContextMenu.label     "Qulaylik xossalarini kuzatish">
 
 <!ENTITY fileMenu.label         "Fayl">
 <!ENTITY fileMenu.accesskey       "F">
@@ -336,6 +356,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label       "Moslash…">
 <!ENTITY viewCustomizeToolbar.accesskey     "M">
+<!ENTITY overflowCustomizeToolbar.label       "Asboblar panelini sozlash…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "Tarix">
 <!ENTITY historyMenu.accesskey "r">
@@ -351,6 +373,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "So‘nggi tarixni tozalash">
 <!ENTITY appMenuHistory.restoreSession.label "Oldingi seansni tiklash">
 <!ENTITY appMenuHistory.viewSidebar.label "Tarixni yon panelda ko‘rsatish">
+<!ENTITY appMenuHistory.recentHistory.label "Oxirgi tarix">
 <!ENTITY appMenuHelp.label "Yordam">
 
 <!ENTITY appMenuRemoteTabs.label "Sinxronlangan ichki oynalar">
@@ -373,11 +396,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Bu yerdagi ichki oynalarni boshqa qurilmalarda ko‘rishni xohlaysizmi?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sinxronlash parametrlari">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Sinxronizatsiya parametrlarini ochish">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Ichki oynalar ro‘yxatini boshqa qurilmalarda ko‘rish uchun Firefox hisobiga kiring.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Hisobingiz tasdiqlanishi kerak.">
 <!ENTITY appMenuRemoteTabs.signin.label "Sinxronlash uchun tizimga kiring">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Qurilmalarni boshqarish…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Sinxronlangan ichki oynalar yon panelini ko‘rish">
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Boshqa qurilmaga ulanish">
 
+<!ENTITY appMenuRecentHighlights.label "So‘nggi ajratilgan saytlar">
 
 <!ENTITY customizeMenu.addToToolbar.label "Asboblar paneliga qo‘shish">
 <!ENTITY customizeMenu.addToToolbar.accesskey "q">
