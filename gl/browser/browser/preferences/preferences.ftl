@@ -2,7 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+do-not-track-description = Enviar aos sitios web un sinal "Do not track" indicándolles que non desexa ser seguido
 do-not-track-learn-more = Máis información
+do-not-track-option-default =
+    .label = Só cando use a protección contra o seguimento
 do-not-track-option-always =
     .label = Sempre
 pref-page =
@@ -11,9 +14,40 @@ pref-page =
             [windows] Opcións
            *[other] Preferencias
         }
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input =
+    .style = width: 19em
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 19em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] Atopar nas opcións
+           *[other] Atopar nas preferencias
+        }
+policies-notice =
+    { PLATFORM() ->
+        [windows] A súa empresa desactivou a capacidade de cambiar algunhas opcións.
+       *[other] A súa empresa desactivou a capacidade de cambiar algunhas preferencias.
+    }
 pane-general-title = Xeral
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = Inicio
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = Buscar
 category-search =
     .tooltiptext = { pane-search-title }
@@ -41,6 +75,14 @@ restart-later = Reiniciar máis tarde
 
 ## Preferences UI Search Results
 
+search-results-header = Resultados da busca
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Sentímolo! Non hai resultados nas Opcións para «<span data-l10n-name="query"></span>».
+       *[other] Sentímolo! Non hai resultados nas Preferencias para «<span data-l10n-name="query"></span>».
+    }
+search-results-help-link = Precisa axuda? Visite a <a data-l10n-name="url">Asistencia do { -brand-short-name }</a>
 
 ## General Section
 
@@ -72,6 +114,12 @@ disable-extension =
     .label = Desactivar extensión
 home-page-header = Páxina de inicio
 tabs-group-header = Lapelas
+ctrl-tab-recently-used-order =
+    .label = Ctrl+Tab para alternar entre as lapelas segundo o seu uso recente
+    .accesskey = t
+open-new-link-as-tabs =
+    .label = Abrir ligazóns en lapelas en vez de en novas xanelas
+    .accesskey = g
 warn-on-close-multiple-tabs =
     .label = Avisalo ao pechar varias lapelas
     .accesskey = p
