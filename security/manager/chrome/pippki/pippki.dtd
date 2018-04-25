@@ -34,7 +34,7 @@
 <!ENTITY pkcs12.setpassword.message  "It wachtwurd foar de reservekopy fan it sertifikaat dat jo hjir ynstelle beskermt it reserverkopybestân dat jo op it punt stean te meitsjen.  Jo moatte dit wachtwurd ynstelle foardat jo fierder gean mei de reservekopy.">
 <!ENTITY pkcs12.setpassword.label1 "Wachtwurd foar de reservekopy fan it sertifikaat:">
 <!ENTITY pkcs12.setpassword.label2 "Wachtwurd foar de reservekopy fan it sertifikaat (opnij):">
-<!ENTITY pkcs12.setpassword.reminder "Wichtich: as jo jo wachtwurd foar de reservekopy fan it sertifikaat fejitte, kinne jo dizze reservekopy letter net ferhelpe.  Bewarje it op in feilich plak.">
+<!ENTITY pkcs12.setpassword.reminder "Wichtich: as jo jo wachtwurd foar de reservekopy fan it sertifikaat ferjitte, kinne jo dizze reservekopy letter net ferhelpe.  Bewarje it op in feilich plak.">
 
 <!ENTITY chooseToken.title  "Tokenkardialoochfinster">
 <!ENTITY chooseToken.message1 "Kies in token.">
