@@ -284,6 +284,7 @@
 
 <!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification"-->
+<!ENTITY pref_feature_tips_notification "Kiat dan fitur produk">
 <!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "Pelajari lebih lanjut tentang &brandShortName; dan produk &vendorShortName; lainnya">
