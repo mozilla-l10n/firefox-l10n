@@ -29,7 +29,7 @@
 <!ENTITY  font.langGroup.simpl-chinese            "จีนตัวย่อ">
 <!ENTITY  font.langGroup.trad-chinese-hk          "จีนตัวเต็ม (ฮ่องกง)">
 <!ENTITY  font.langGroup.korean                   "เกาหลี">
-<!ENTITY  font.langGroup.cyrillic                 "ซีริลลิก">
+<!ENTITY  font.langGroup.cyrillic                 "ซิริลลิก">
 <!ENTITY  font.langGroup.el                       "กรีก">
 <!ENTITY  font.langGroup.other                    "ระบบการเขียนอื่น ๆ">
 <!ENTITY  font.langGroup.thai                     "ไทย">
@@ -43,7 +43,7 @@
 <!ENTITY  font.langGroup.ethiopic                 "เอธิโอเปีย">
 <!ENTITY  font.langGroup.georgian                 "จอร์เจีย">
 <!ENTITY  font.langGroup.gujarati                 "คุชราตี">
-<!ENTITY  font.langGroup.gurmukhi                 "คุรุมุขี">
+<!ENTITY  font.langGroup.gurmukhi                 "คุรุมุขคี">
 <!ENTITY  font.langGroup.khmer                    "เขมร">
 <!ENTITY  font.langGroup.malayalam                "มะละยาลัม">
 <!ENTITY  font.langGroup.math                     "คณิตศาสตร์">
@@ -82,7 +82,7 @@
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.traditional):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.traditional "จีนตัวเต็ม">
-<!ENTITY languages.customize.Fallback.cyrillic    "ซีริลลิก">
+<!ENTITY languages.customize.Fallback.cyrillic    "ซิริลลิก">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.greek):
      Translate "Greek" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.greek       "กรีก">
