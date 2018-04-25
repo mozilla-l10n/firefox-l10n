@@ -5,6 +5,8 @@
 
 ## Settings
 
+site-data-settings-window =
+    .title = Administri kuketojn kaj retejajn datumojn
 site-data-search-textbox =
     .placeholder = Serĉi retejojn
     .accesskey = S
