@@ -64,6 +64,29 @@ should-restart-title = Reaviar { -brand-short-name }
 should-restart-ok = Reaviar ussa { -brand-short-name }
 restart-later = Reaviar pli tard
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+# This string is shown to notify the user that the default search engine
+# is being controlled by an extension.
+extension-controlled-default-search = In supplement, <img data-l10n-name="icon"/> { $name }, ha definì tia maschina da tschertgar da standard.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlled-privacy-containers = Ina extensiun, <img data-l10n-name="icon"/> { $name }, dovra tabs da container.
+# This string is shown after the user disables an extension to notify the user
+# how to enable an extension that they disabled.
+#
+# <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
+# <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
+extension-controlled-enable = Per activar il supplement, va a <img data-l10n-name="addons-icon"/> Supplements en il <img data-l10n-name="menu-icon"/> menu.
+
 ## Preferences UI Search Results
 
 search-results-header = Resultats da tschertga
