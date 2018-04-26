@@ -15,7 +15,7 @@
 <!ENTITY view.columns.accesskey         "C">
 <!ENTITY view.sort.label                "დახარისხება">
 <!ENTITY view.sort.accesskey            "S">
-<!ENTITY view.unsorted.label            "დაუხარისხებლად">
+<!ENTITY view.unsorted.label            "არეული">
 <!ENTITY view.unsorted.accesskey        "U">
 <!ENTITY view.sortAscending.label       "ანაბნურად">
 <!ENTITY view.sortAscending.accesskey   "A">
