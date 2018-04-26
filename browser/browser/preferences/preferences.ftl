@@ -73,6 +73,29 @@ should-restart-ok = 지금 { -brand-short-name } 재시작
 cancel-no-restart-button = 취소
 restart-later = 나중에 다시 시작
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = <img data-l10n-name="icon"/> { $name } 확장기능이 홈페이지를 제어하고 있습니다.
+# This string is shown to notify the user that their new tab page
+# is being controlled by an extension.
+extension-controlled-new-tab-url = <img data-l10n-name="icon"/> { $name } 확장기능이 새 탭 페이지를 제어하고 있습니다.
+# This string is shown to notify the user that their tracking protection preferences
+# are being controlled by an extension.
+extension-controlled-websites-tracking-protection-mode = <img data-l10n-name="icon"/> { $name } 확장기능이 추적 방지 기능을 제어하고 있습니다.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlled-proxy-config = <img data-l10n-name="icon"/> { $name } 확장기능이 { -brand-short-name }가 인터넷에 접근하는 방법을 제어하고 있습니다.
+
 ## Preferences UI Search Results
 
 search-results-header = 검색 결과
@@ -285,6 +308,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = 네트워크 프록시
+network-proxy-connection-description = { -brand-short-name }가 인터넷에 접근하는 방법을 설정하세요.
 network-proxy-connection-learn-more = 자세히 보기
 network-proxy-connection-settings =
     .label = 설정…
