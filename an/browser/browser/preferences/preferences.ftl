@@ -73,6 +73,41 @@ should-restart-ok = Reiniciar agora lo { -brand-short-name }
 cancel-no-restart-button = Cancelar
 restart-later = Reiniciar mas entabant
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = Una extensión, <img data-l10n-name="icon"/> { $name }, ye controlando la tuya pachina d'inicio.
+# This string is shown to notify the user that their new tab page
+# is being controlled by an extension.
+extension-controlled-new-tab-url = Una extensión, <img data-l10n-name="icon"/> { $name }, ye controlando la tuya pachina de Nueva Pestanya.
+# This string is shown to notify the user that the default search engine
+# is being controlled by an extension.
+extension-controlled-default-search = Una extensión, <img data-l10n-name="icon"/> { $name }, ha fixau lo tuyo motor de busqueda per defecto.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlled-privacy-containers = Una extensión, <img data-l10n-name="icon"/> { $name }, requiere Pestanyas Contenederas.
+# This string is shown to notify the user that their tracking protection preferences
+# are being controlled by an extension.
+extension-controlled-websites-tracking-protection-mode = Una extensión, <img data-l10n-name="icon"/> { $name }, ye controlando la protección contra seguimiento.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlled-proxy-config = Una extensión, <img data-l10n-name="icon"/> { $name }, ye controlando cómo { -brand-short-name } se connecta a internet.
+# This string is shown after the user disables an extension to notify the user
+# how to enable an extension that they disabled.
+#
+# <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
+# <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
+extension-controlled-enable = Pa activar la extensión ves ta <img data-l10n-name="addons-icon"/> extensions en o menú <img data-l10n-name="menu-icon"/>.
+
 ## Preferences UI Search Results
 
 search-results-header = Resultaus de buscar
@@ -297,6 +332,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Proxy de ret
+network-proxy-connection-description = Configurar cómo { -brand-short-name } se connecta con internet.
 network-proxy-connection-learn-more = Saber-ne mas
 network-proxy-connection-settings =
     .label = Configuración…
