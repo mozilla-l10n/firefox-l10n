@@ -64,6 +64,20 @@ should-restart-title = { -brand-short-name }ला पुन्हा सुर�
 should-restart-ok = { -brand-short-name } लगेच पुनर्रारंभित करा
 restart-later = नंतर पुनःसुरु करा
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlled-privacy-containers = एक विस्तार, <img data-l10n-name="icon"/> { $name } ला, कंटेनर टॅबची आवश्यकता आहे.
+
 ## Preferences UI Search Results
 
 search-results-header = शोध परिणाम
