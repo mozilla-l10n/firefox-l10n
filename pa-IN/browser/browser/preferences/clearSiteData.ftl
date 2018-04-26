@@ -8,10 +8,38 @@ clear-site-data-window =
 clear-site-data-description = { -brand-short-name } ਵਲੋਂ ਸੰਭਾਲੇ ਗਏ ਸਾਰੇ ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟਏ ਨੂੰ ਸਾਫ਼ ਕੀਤਾ ਜਾਵੇਗਾ, ਜਿਸ ਨਾਲ ਤੁਸੀਂ ਵੈੱਬਸਾਈਟਾਂ ਤੋਂ ਸਾਈਨ ਆਉਟ ਹੋ ਜਾਉਂਗੇ ਅਤੇ ਆਫ਼ਲਾਈਨ ਵੈੱਬ ਸਮੱਗਰੀ ਹਟਾਈ ਜਾਵੇਗੀ। ਕੈਸ਼ ਡਾਟੇ ਨੂੰ ਸਾਫ਼ ਕਰਨ ਨਾਲ ਤਹਾਡੇ ਲਾਗਇਨ ਉੱਤੇ ਕੋਈ ਫ਼ਰਕ ਨਹੀਂ ਪਵੇਗਾ।
 clear-site-data-close-key =
     .key = w
-clear-site-data-cookies = ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟਾ
+# The parameters in parentheses in this string describe disk usage
+# in the format ($amount $unit), e.g. "Cookies and Site Data (24 KB)"
+# Variables:
+#   $amount (Number) - Amount of site data currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+clear-site-data-cookies-with-data =
+    .label = ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟਾ ({ $amount } { $unit })
+    .accesskey = S
+# This string is a placeholder for while the data used to fill
+# clear-site-data-cookies-with-data is loading. This placeholder is usually
+# only shown for a very short time (< 1s), so it should be very similar
+# or the same as clear-site-data-cookies-with-data (except the amount and unit),
+# to avoid flickering.
+clear-site-data-cookies-empty =
+    .label = ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟਾ
     .accesskey = S
 clear-site-data-cookies-info = ਜੇ ਸਾਫ਼ ਕੀਤਾ ਤਾਂ ਤੁਸੀਂ ਵੈੱਬਸਾਈਟਾਂ ਤੋਂ ਸਾਈਨ ਆਉਟ ਹੋ ਸਕਦੇ ਹੋ
-clear-site-data-cache = ਕੈਸ਼ ਕੀਤੀ ਵੈੱਬ ਸਮੱਗਰੀ
+# The parameters in parentheses in this string describe disk usage
+# in the format ($amount $unit), e.g. "Cached Web Content (24 KB)"
+# Variables:
+#   $amount (Number) - Amount of cache currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+clear-site-data-cache-with-data =
+    .label = ਕੈਸ਼ ਕੀਤੀ ਵੈੱਬ ਸਮੱਗਰੀ ({ $amount } { $unit })
+    .accesskey = W
+# This string is a placeholder for while the data used to fill
+# clear-site-data-cache-with-data is loading. This placeholder is usually
+# only shown for a very short time (< 1s), so it should be very similar
+# or the same as clear-site-data-cache-with-data (except the amount and unit),
+# to avoid flickering.
+clear-site-data-cache-empty =
+    .label = ਕੈਸ਼ ਕੀਤੀ ਵੈੱਬ ਸਮੱਗਰੀ
     .accesskey = W
 clear-site-data-cache-info = ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਚਿੱਤਰ ਤੇ ਡਾਟਾ ਮੁੜ-ਲੋਡ ਕਰ ਦੀ ਲੋੜ ਹੋਵੇਗੀ
 clear-site-data-cancel =
