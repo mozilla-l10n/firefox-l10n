@@ -40,6 +40,7 @@
 
 <!ENTITY editBookmark.done.label "Kész">
 <!ENTITY editBookmark.cancel.label "Mégse">
+<!ENTITY editBookmark.removeBookmark.accessKey "e">
 
 <!-- Toolbar items --> 
 <!ENTITY backButton.label             "Vissza">
