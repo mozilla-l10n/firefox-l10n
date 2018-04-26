@@ -38,6 +38,9 @@
 <!ENTITY bookmarksToolbar.tooltip         "Traka sa zabilješkama">
 <!ENTITY navigationToolbar.tooltip        "Alatna traka za navigaciju">
 
+<!ENTITY editBookmark.done.label "Gotovo">
+<!ENTITY editBookmark.cancel.label "Otkaži">
+
 <!-- Toolbar items --> 
 <!ENTITY backButton.label             "Nazad">
 <!ENTITY backButton.tooltip           "Idi nazad jednu stranicu">
