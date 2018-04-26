@@ -73,6 +73,41 @@ should-restart-ok = Käynnistä { -brand-short-name } uudestaan nyt
 cancel-no-restart-button = Peruuta
 restart-later = Käynnistä uudestaan myöhemmin
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = Laajennus, <img data-l10n-name="icon"/> { $name }, hallitsee aloitussivua.
+# This string is shown to notify the user that their new tab page
+# is being controlled by an extension.
+extension-controlled-new-tab-url = Laajennus, <img data-l10n-name="icon"/> { $name }, hallitsee Uusi välilehti -sivua.
+# This string is shown to notify the user that the default search engine
+# is being controlled by an extension.
+extension-controlled-default-search = Laajennus, <img data-l10n-name="icon"/> { $name }, on asettanut oletushakukoneen.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlled-privacy-containers = Laajennus, <img data-l10n-name="icon"/> { $name }, vaatii luokitellut välilehdet.
+# This string is shown to notify the user that their tracking protection preferences
+# are being controlled by an extension.
+extension-controlled-websites-tracking-protection-mode = Laajennus, <img data-l10n-name="icon"/> { $name }, hallitsee seurannan suojausta.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlled-proxy-config = Laajennus, <img data-l10n-name="icon"/> { $name }, hallitsee { -brand-short-name }in verkkoyhteysasetuksia.
+# This string is shown after the user disables an extension to notify the user
+# how to enable an extension that they disabled.
+#
+# <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
+# <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
+extension-controlled-enable = Ota laajennus käyttöön siirtymällä <img data-l10n-name="addons-icon"/> Lisäosat -sivulle <img data-l10n-name="menu-icon"/>-valikosta.
+
 ## Preferences UI Search Results
 
 search-results-header = Hakutulokset
@@ -297,6 +332,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Verkon välityspalvelin
+network-proxy-connection-description = Muokkaa { -brand-short-name }in verkkoyhteysasetuksia.
 network-proxy-connection-learn-more = Lue lisää
 network-proxy-connection-settings =
     .label = Asetukset…
