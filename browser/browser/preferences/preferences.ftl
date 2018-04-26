@@ -89,6 +89,9 @@ extension-controlled-new-tab-url = Die Erweiterung "<img data-l10n-name="icon"/>
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = Die Erweiterung "<img data-l10n-name="icon"/> { $name }" hat die Standardsuchmaschine festgelegt.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlled-privacy-containers = Die Erweiterung <img data-l10n-name="icon"/> { $name } verwaltet die Tab-Umgebungen.
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = Die Erweiterung <img data-l10n-name="icon"/> { $name } steuert den Schutz vor Aktivitätenverfolgung.
