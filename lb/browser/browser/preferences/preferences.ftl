@@ -73,6 +73,17 @@ should-restart-ok = { -brand-short-name } elo nei starten
 cancel-no-restart-button = Ofbriechen
 restart-later = Méi spéit nei starten
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = Sichresultater
@@ -246,6 +257,10 @@ restore-default =
 
 ## Search Section
 
+search-choose-engine-column =
+    .label = Sichmaschinn
+search-choose-keyword-column =
+    .label = Schlësselwuert
 search-remove-engine =
     .label = Läschen
     .accesskey = R
