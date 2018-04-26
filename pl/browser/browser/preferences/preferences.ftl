@@ -95,6 +95,18 @@ extension-controlled-default-search = Rozszerzenie „<img data-l10n-name="icon"
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Rozszerzenie „<img data-l10n-name="icon"/> { $name }” wymaga włączonych „Kart z kontekstem”.
+# This string is shown to notify the user that their tracking protection preferences
+# are being controlled by an extension.
+extension-controlled-websites-tracking-protection-mode = Rozszerzenie „<img data-l10n-name="icon"/> { $name }” kontroluje ochronę przed śledzeniem.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlled-proxy-config = Rozszerzenie „%S” kontroluje, jak przeglądarka łączy się z Internetem.
+# This string is shown after the user disables an extension to notify the user
+# how to enable an extension that they disabled.
+#
+# <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
+# <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
+extension-controlled-enable = Aby włączyć rozszerzenie, przejdź do sekcji <img data-l10n-name="addons-icon"/> Dodatki w menu <img data-l10n-name="menu-icon"/>.
 
 ## Preferences UI Search Results
 
@@ -323,6 +335,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Proxy sieciowe
+network-proxy-connection-description = Konfiguruj, jak { -brand-short-name } ma się łączyć z Internetem.
 network-proxy-connection-learn-more = Więcej informacji
 network-proxy-connection-settings =
     .label = Ustawienia…
