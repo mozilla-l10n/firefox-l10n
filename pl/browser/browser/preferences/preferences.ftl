@@ -73,33 +73,11 @@ should-restart-ok = Uruchom ponownie
 cancel-no-restart-button = Anuluj
 restart-later = Później
 
-## Extension Control Notifications
-##
-## These strings are used to inform the user
-## about changes made by extensions to browser settings.
-##
-## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
-##
-## Variables:
-##   $name (String): name of the extension
-
-# This string is shown to notify the user that their home page
-# is being controlled by an extension.
-extension-controlled-homepage-override = Rozszerzenie „<img data-l10n-name="icon"/> { $name }” kontroluje stronę startową.
-# This string is shown to notify the user that their new tab page
-# is being controlled by an extension.
-extension-controlled-new-tab-url = Rozszerzenie „<img data-l10n-name="icon"/> { $name }” kontroluje stronę nowej karty.
-# This string is shown to notify the user that the default search engine
-# is being controlled by an extension.
-extension-controlled-default-search = Rozszerzenie „<img data-l10n-name="icon"/> { $name }” zmieniło domyślną wyszukiwarkę.
-# This string is shown to notify the user that Container Tabs
-# are being enabled by an extension.
-extension-controlled-privacy-containers = Rozszerzenie „<img data-l10n-name="icon"/> { $name }” wymaga włączonych „Kart z kontekstem”.
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = Rozszerzenie „<img data-l10n-name="icon"/> { $name }” kontroluje ochronę przed śledzeniem.
-# This string is shown to notify the user that their proxy configuration preferences
-# are being controlled by an extension.
+extension-controlled-homepage-override=Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> kontroluje stronę startową.
+extension-controlled-new-tab-url=Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> kontroluje stronę nowej karty.
+extension-controlled-default-search=Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> zmieniło domyślną wyszukiwarkę.
+extension-controlled-privacy-containers=Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> wymaga włączonych „Kart z kontekstem”.
+extension-controlled-websites-tracking-protection-mode=Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> kontroluje ochronę przed śledzeniem.
 extension-controlled-proxy-config = Rozszerzenie „%S” kontroluje, jak przeglądarka łączy się z Internetem.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
