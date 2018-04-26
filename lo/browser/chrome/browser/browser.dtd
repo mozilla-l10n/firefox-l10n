@@ -748,44 +748,93 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.open.accesskey                   "O">
 <!ENTITY syncedTabs.context.openInNewTab.label               "ເປີດໃນແທັບໃຫມ່">
 <!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "ເປີດໃນຫນ້າຕ່າງໃຫມ່">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "ເປີດໃນຫນ້າຕ່າງສ່ວນຕົວໃຫມ່">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "ບຸກມາກແທັບນີ້…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
+<!ENTITY syncedTabs.context.copy.label                       "ສຳເນົາ">
+<!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
+<!ENTITY syncedTabs.context.openAllInTabs.label              "ເປີດທັງຫມົດໃນແທັບ">
+<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "O">
+<!ENTITY syncedTabs.context.managedevices.label              "ຈັດການອຸປະກອນ...">
+<!ENTITY syncedTabs.context.managedevices.accesskey          "D">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
+<!ENTITY syncSignIn.label             "ລົງຊື່ເຂົ້າໃຊ້ &syncBrand.shortName.label;…">
+<!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "ເລີ່ມການເຊື່ອມຕໍ່ດຽວນີ້">
 <!ENTITY syncSyncNowItem.accesskey    "S">
+<!ENTITY syncReAuthItem.label         "ເຊື່ອມຕໍ່ກັບ &syncBrand.shortName.label; ໃຫມ່…">
+<!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "Sync">
 
+<!ENTITY customizeMode.restoreDefaults "ກູ້ຄືນຄ່າເລີ່ມຕົ້ນ">
+<!ENTITY customizeMode.done "ສຳເລັດ">
+<!ENTITY customizeMode.toolbars2 "ແຖບເຄືອງມື">
+<!ENTITY customizeMode.lwthemes "ຊຸດຕົກແຕ່ງ">
+<!ENTITY customizeMode.lwthemes.recommended "ແນະນຳ">
 <!ENTITY customizeMode.lwthemes.menuManage "ຈັດການ">
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+<!ENTITY customizeMode.uidensity "ຄວາມ​ຫນາ​ແຫນ້ນ">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
+<!ENTITY customizeMode.uidensity.menuNormal.label "ປົກກະຕິ">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "ປົກກະຕິ">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
      “Compact” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Compact). -->
+<!ENTITY customizeMode.uidensity.menuCompact.label "ກະທັດຮັດ">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "ກະທັດຮັດ">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "C">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
      “Touch” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Touch), and it means that control layout is
      optimized for touch devices. -->
+<!ENTITY customizeMode.uidensity.menuTouch.label "ສຳຜັດ">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "ສຳຜັດ">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
 
+<!ENTITY customizeMode.autoHideDownloadsButton.label "ເຊື່ອງອັດຕະໂນມັດ">
 
+<!ENTITY getUserMedia.selectCamera.label "ກ້ອງຖ່າຍຮູບທີ່ແບ່ງປັນ:">
+<!ENTITY getUserMedia.selectCamera.accesskey "C">
+<!ENTITY getUserMedia.selectMicrophone.label "ໄມໂຄຣໂຟນທີ່ແບ່ງປັນ:">
+<!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 
+<!ENTITY trackingProtection.title "ການປ້ອງກັນການຕິດຕາມ">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; ກຳລັງບັອກເນື້ອບາງສ່ວນຂອງຫນ້ານີ້ທີ່ອາດຈະເຮັດໃຫ້ການທ່ອງເວັບຂອງທ່ານຖືກຕິດຕາມ.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate.accesskey "D">
+<!ENTITY trackingProtection.block2.label "ເປີດໃຊ້ການປ້ອງກັນ">
+<!ENTITY trackingProtection.block2.accesskey "E">
 
+<!ENTITY pluginNotification.showAll.label "ສະແດງທັງຫມົດ">
+<!ENTITY pluginNotification.showAll.accesskey "S">
 
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
+<!ENTITY pluginActivateAlways.label "ອະນຸຍາດແລະຈືຈຳ">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
      blocked on a page. Should be wide enough to fit the pluginActivateNow.label
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
+<!ENTITY pluginNotification.width "28em">
 
+<!ENTITY uiTour.infoPanel.close "ປິດ">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
@@ -795,10 +844,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
+<!ENTITY panicButton.view.openNewWindow           "ເປີດຫນ້າຕ່າງວ່າງໃຫມ່">
 
+<!ENTITY panicButton.view.forgetButton            "ລືມສາ!">
 
+<!ENTITY panicButton.thankyou.msg2                "ການທ່ອງເວັບປອດໄພ!">
+<!ENTITY panicButton.thankyou.buttonlabel         "ຂອບໃຈ!">
 
+<!ENTITY emeLearnMoreContextMenu.label            "ຮຽນຮູ້ເພີ່ມເຕີມກ່ຽວກັບ DRM…">
+<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.whatsnew.label "ເບິ່ງວ່າມີຫຍັງໃໝ່.">
+<!ENTITY updateAvailable.acceptButton.label "ດາວໂຫລດອັບເດດ">
+<!ENTITY updateAvailable.acceptButton.accesskey "D">
+<!ENTITY updateAvailable.cancelButton.label "ບໍ່ແມ່ນຕອນນີ້">
+<!ENTITY updateAvailable.cancelButton.accesskey "N">
+<!ENTITY updateAvailable.panelUI.label "ດາວໂຫລດອັບເດດ &brandShorterName;">
 
 
 
