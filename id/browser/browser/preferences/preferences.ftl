@@ -73,6 +73,32 @@ should-restart-ok = Mulai ulang { -brand-short-name } sekarang
 cancel-no-restart-button = Batal
 restart-later = Mulai Ulang Nanti
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = Ekstensi <img data-l10n-name="icon"/> { $name } mengendalikan laman beranda Anda.
+# This string is shown to notify the user that the default search engine
+# is being controlled by an extension.
+extension-controlled-default-search = Ekstensi <img data-l10n-name="icon"/> { $name } telah menyetel mesin pencari baku Anda.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlled-privacy-containers = Ekstensi <img data-l10n-name="icon"/> { $name } membutuhkan Tab Kontainer.
+# This string is shown after the user disables an extension to notify the user
+# how to enable an extension that they disabled.
+#
+# <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
+# <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
+extension-controlled-enable = Untuk mengaktifkan ekstensi buka Pengaya <img data-l10n-name="addons-icon"/> di menu <img data-l10n-name="menu-icon"/>.
+
 ## Preferences UI Search Results
 
 search-results-header = Hasil Pencarian
