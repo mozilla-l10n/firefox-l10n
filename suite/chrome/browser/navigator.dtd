@@ -40,6 +40,7 @@
 
 <!ENTITY editBookmark.done.label "Ferdig">
 <!ENTITY editBookmark.cancel.label "Avbryt">
+<!ENTITY editBookmark.removeBookmark.accessKey "r">
 
 <!-- Toolbar items --> 
 <!ENTITY backButton.label             "Tilbake">
