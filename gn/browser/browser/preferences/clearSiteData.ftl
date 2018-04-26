@@ -8,6 +8,14 @@ clear-site-data-window =
 clear-site-data-description = Emopotĩ kookie ha tenda mba'ekuaarã ombyatýva { -brand-short-name } ikatu omboty ne rembiapo ijurujáva ha ombogue ñanduti retepy ñanduti'ỹreguáva. Emopotĩ kache mba'ekuaarã nombyaimo'ãi ne rembiapo ijurujáva.
 clear-site-data-close-key =
     .key = w
+# The parameters in parentheses in this string describe disk usage
+# in the format ($amount $unit), e.g. "Cookies and Site Data (24 KB)"
+# Variables:
+#   $amount (Number) - Amount of site data currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+clear-site-data-cookies-with-data =
+    .label = Kookie ha tenda mba'ekuaarã ({ $amount } { $unit })
+    .accesskey = S
 # This string is a placeholder for while the data used to fill
 # clear-site-data-cookies-with-data is loading. This placeholder is usually
 # only shown for a very short time (< 1s), so it should be very similar
@@ -17,6 +25,14 @@ clear-site-data-cookies-empty =
     .label = Kookie ha tenda mba'ekuaarã
     .accesskey = S
 clear-site-data-cookies-info = Emboguetéramo, ikatu emboty ne rembiapo ñanduti renda pegua
+# The parameters in parentheses in this string describe disk usage
+# in the format ($amount $unit), e.g. "Cached Web Content (24 KB)"
+# Variables:
+#   $amount (Number) - Amount of cache currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+clear-site-data-cache-with-data =
+    .label = Ñanduti retepy kachépe ({ $amount } { $unit })
+    .accesskey = W
 # This string is a placeholder for while the data used to fill
 # clear-site-data-cache-with-data is loading. This placeholder is usually
 # only shown for a very short time (< 1s), so it should be very similar
