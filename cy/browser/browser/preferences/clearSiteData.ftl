@@ -8,10 +8,30 @@ clear-site-data-window =
 clear-site-data-description = Gall glirio'r oll gwcis a data gwefan wedi eu cadw gan { -brand-short-name } eich allgofnodi o wefannau a thynnu cynnwys all-lein gwe. Ni fydd clirio data storfa effeithio ar eich mewngofnodion.
 clear-site-data-close-key =
     .key = w
-clear-site-data-cookies = Cwcis a Data Gwefan
+# The parameters in parentheses in this string describe disk usage
+# in the format ($amount $unit), e.g. "Cookies and Site Data (24 KB)"
+# Variables:
+#   $amount (Number) - Amount of site data currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+clear-site-data-cookies-with-data =
+    .label = Cwcis a Data Gwefan ({ $amount } { $unit })
+    .accesskey = C
+# This string is a placeholder for while the data used to fill
+# clear-site-data-cookies-with-data is loading. This placeholder is usually
+# only shown for a very short time (< 1s), so it should be very similar
+# or the same as clear-site-data-cookies-with-data (except the amount and unit),
+# to avoid flickering.
+clear-site-data-cookies-empty =
+    .label = Cwcis a Data Gwefan
     .accesskey = C
 clear-site-data-cookies-info = Efallai y cewch eich allgofnodi os fydd wedi ei glirio
-clear-site-data-cache = Cynnwys Gwe wedi ei Storio
+# This string is a placeholder for while the data used to fill
+# clear-site-data-cache-with-data is loading. This placeholder is usually
+# only shown for a very short time (< 1s), so it should be very similar
+# or the same as clear-site-data-cache-with-data (except the amount and unit),
+# to avoid flickering.
+clear-site-data-cache-empty =
+    .label = Cynnwys Gwe wedi ei Storio
     .accesskey = S
 clear-site-data-cache-info = Bydd angen i wefannau ail lwytho delweddau a data
 clear-site-data-cancel =
