@@ -73,6 +73,41 @@ should-restart-ok = Pārstartēt { -brand-short-name } tagad
 cancel-no-restart-button = Atcelt
 restart-later = Pārstartēt vēlāk
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = Paplašinājums <img data-l10n-name="icon"/> { $name } kontrolē jūsu mājas lapu.
+# This string is shown to notify the user that their new tab page
+# is being controlled by an extension.
+extension-controlled-new-tab-url = Paplašinājums <img data-l10n-name="icon"/> { $name } kontrolē jūsu jaunas cilnes lapu.
+# This string is shown to notify the user that the default search engine
+# is being controlled by an extension.
+extension-controlled-default-search = Paplašinājums <img data-l10n-name="icon"/> { $name } ir nomainījis noklusēto meklētāju.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlled-privacy-containers = Paplašinājumam <img data-l10n-name="icon"/> { $name } nepieciešamas konteineru cilnes.
+# This string is shown to notify the user that their tracking protection preferences
+# are being controlled by an extension.
+extension-controlled-websites-tracking-protection-mode = Paplašinājums <img data-l10n-name="icon"/> { $name } kontrolē izsekošanas aizsardzību.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlled-proxy-config = Paplašinājums <img data-l10n-name="icon"/> { $name } kontrolē kā { -brand-short-name } pieslēdzas internetam.
+# This string is shown after the user disables an extension to notify the user
+# how to enable an extension that they disabled.
+#
+# <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
+# <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
+extension-controlled-enable = Lai aktivētu paplašinājumu, ejiet uz <img data-l10n-name="addons-icon"/> Paplašinājumi no <img data-l10n-name="menu-icon"/> izvēlnes.
+
 ## Preferences UI Search Results
 
 search-results-header = Meklēšanas rezultāti
@@ -300,6 +335,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Tīkla starpniekserveris
+network-proxy-connection-description = Konfigurēt kā { -brand-short-name } pieslēdzas internetam.
 network-proxy-connection-learn-more = Uzzināt vairāk
 network-proxy-connection-settings =
     .label = Iestatījumi...
