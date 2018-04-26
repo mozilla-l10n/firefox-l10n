@@ -74,6 +74,12 @@ restart-later = Restartuj kasnije
 ## Variables:
 ##   $name (String): name of the extension
 
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = Ekstenzija, <img data-l10n-name="icon"/> { $name }, kontroliše vašu početnu stranicu.
+# This string is shown to notify the user that their new tab page
+# is being controlled by an extension.
+extension-controlled-new-tab-url = Ekstenzija, <img data-l10n-name="icon"/> { $name }, kotroliše vašu stranicu novog taba.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = Ekstenzija, <img data-l10n-name="icon"/> { $name }, je podesila vaš glavni pretraživač.
@@ -83,6 +89,9 @@ extension-controlled-privacy-containers = Ekstenzija, <img data-l10n-name="icon"
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = Proširenje, <img data-l10n-name="icon"/> { $name }, kontroliše zaštitu od praćenja.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlled-proxy-config = Ekstenzija, <img data-l10n-name="icon"/> { $name }, upravlja kako se { -brand-short-name } konektuje na internet.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -317,6 +326,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Mrežni proxy
+network-proxy-connection-description = Konfigurišite kako se { -brand-short-name } konektuje na internet.
 network-proxy-connection-learn-more = Saznajte više
 network-proxy-connection-settings =
     .label = Postavke…
