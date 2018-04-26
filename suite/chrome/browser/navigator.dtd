@@ -38,6 +38,10 @@
 <!ENTITY bookmarksToolbar.tooltip         "სანიშნების ხელსაწყოთა ზოლი">
 <!ENTITY navigationToolbar.tooltip        "ნავიგაციის პულტი">
 
+<!ENTITY editBookmark.done.label "მზადაა">
+<!ENTITY editBookmark.cancel.label "გაუქმება">
+<!ENTITY editBookmark.removeBookmark.accessKey "უ">
+
 <!-- Toolbar items --> 
 <!ENTITY backButton.label             "უკან">
 <!ENTITY backButton.tooltip           "უკან ერთი გვერდით">
