@@ -645,6 +645,7 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Dohvati poruke">
 <!ENTITY folderContextGetMessages.accesskey "G">
+<!ENTITY folderContextMarkAllFoldersRead.label "Označi sve direktorije pročitanim">
 <!ENTITY folderContextPauseAllUpdates.label "Zaustavi sva ažuriranja">
 <!ENTITY folderContextPauseUpdates.label "Zaustavi ažuriranja">
 <!ENTITY folderContextPauseUpdates.accesskey "U">
@@ -870,7 +871,7 @@
   -->
 <!ENTITY quickSearchCmd.key "k">
 <!-- LOCALIZATION NOTE (search.label.base1):
-      This is the base of the empty text for the global search box. We replace
+     This is the base of the empty text for the global search box. We replace
      #1 with the contents of the appropriate search.keyLabel.* value for the
      platform.
      The goal is to convey to the user that typing in the box will allow them
