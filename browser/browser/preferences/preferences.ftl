@@ -73,6 +73,38 @@ should-restart-ok = Repornește { -brand-short-name } acum
 cancel-no-restart-button = Renunță
 restart-later = Repornește mai târziu
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = O extensie, <img data-l10n-name="icon"/> { $name }, îți controlează pagina de start.
+# This string is shown to notify the user that their new tab page
+# is being controlled by an extension.
+extension-controlled-new-tab-url = O extensie, <img data-l10n-name="icon"/> { $name }, controlează pagina ta de filă nouă.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlled-privacy-containers = O extensie, <img data-l10n-name="icon"/> { $name }, necesită file container.
+# This string is shown to notify the user that their tracking protection preferences
+# are being controlled by an extension.
+extension-controlled-websites-tracking-protection-mode = O extensie, <img data-l10n-name="icon"/> { $name }, controlează protecția față de urmărire.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlled-proxy-config = O extensie, <img data-l10n-name="icon"/> { $name }, controlează modul în care { -brand-short-name } se conectează la internet.
+# This string is shown after the user disables an extension to notify the user
+# how to enable an extension that they disabled.
+#
+# <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
+# <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
+extension-controlled-enable = Pentru a activa extensia, mergi la suplimentele <img data-l10n-name="addons-icon"/> din meniul <img data-l10n-name="menu-icon"/>.
+
 ## Preferences UI Search Results
 
 search-results-header = Rezultatele căutării
@@ -300,6 +332,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Proxy pentru rețea
+network-proxy-connection-description = Configurează modul în care { -brand-short-name } se conectează la internet.
 network-proxy-connection-learn-more = Află mai multe
 network-proxy-connection-settings =
     .label = Setări…
