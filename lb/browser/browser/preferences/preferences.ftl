@@ -333,6 +333,8 @@ permissions-location-settings =
     .accesskey = A
 permissions-camera = Kamera
 permissions-microphone = Mikro
+permissions-notification = Notifikatiounen
+permissions-notification-link = Fir méi ze wëssen
 permissions-a11y-privacy-link = Fir méi ze wëssen
 
 ## Privacy Section - Data Collection
