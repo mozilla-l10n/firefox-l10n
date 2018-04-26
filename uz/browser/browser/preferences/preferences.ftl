@@ -669,10 +669,18 @@ permissions-a11y-privacy-link = Batafsil ma’lumot
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } ma’lumotlarni to‘plash va foydalanish
+collection-privacy-notice = Maxfiylik qaydlari
+collection-health-report =
+    .label = { -vendor-short-name }ga texnik va interaktiv ma’lumotlarni yuborish uchun { -brand-short-name }ga ruxsat berish
+    .accesskey = l
 collection-health-report-link = Batafsil ma’lumot
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Ma’lumotlar hisoboti moslama uchun o‘chirib qo‘yilgan
+collection-browser-errors =
+    .label = { -vendor-short-name }ga brauzerda yuz bergan xato hisobotlarini (xato xabarlari bilan) yuborish uchun { -brand-short-name }ga ruxsat berish
+    .accesskey = g
+collection-browser-errors-link = Batafsil ma’lumot
 collection-backlogged-crash-reports-link = Batafsil ma’lumot
 
 ## Privacy Section - Security
