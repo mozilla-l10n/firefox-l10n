@@ -109,6 +109,6 @@
 <!ENTITY detailsPane.fewer.accesskey "r">
 <!ENTITY detailsPane.selectAnItemText.description "Pilih item untuk dipapar dan diedit sifatnya">
 
-<!ENTITY editBookmark.done.label "Selesai">
+<!ENTITY editBookmark.done.label "Siap">
 <!ENTITY editBookmark.cancel.label "Batal">
 <!ENTITY editBookmark.removeBookmark.accessKey "B">
