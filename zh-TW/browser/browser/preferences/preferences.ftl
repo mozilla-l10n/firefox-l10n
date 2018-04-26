@@ -73,6 +73,38 @@ should-restart-ok = 立刻重新啟動 { -brand-short-name }
 cancel-no-restart-button = 取消
 restart-later = 稍後再重新啟動
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = 擴充套件「<img data-l10n-name="icon"/> { $name }」正在控制您的首頁內容。
+# This string is shown to notify the user that their new tab page
+# is being controlled by an extension.
+extension-controlled-new-tab-url = 擴充套件「<img data-l10n-name="icon"/> { $name }」正在控制您的新分頁內容。
+# This string is shown to notify the user that the default search engine
+# is being controlled by an extension.
+extension-controlled-default-search = 擴充套件「<img data-l10n-name="icon"/> { $name }」修改了您的預設搜尋引擎。
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlled-privacy-containers = 擴充套件「<img data-l10n-name="icon"/> { $name }」需要開啟容器分頁功能才能使用。
+# This string is shown to notify the user that their tracking protection preferences
+# are being controlled by an extension.
+extension-controlled-websites-tracking-protection-mode = 擴充套件「<img data-l10n-name="icon"/> { $name }」正在控制您的追蹤保護設定。
+# This string is shown after the user disables an extension to notify the user
+# how to enable an extension that they disabled.
+#
+# <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
+# <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
+extension-controlled-enable = 要啟用這套擴充套件，請到 <img data-l10n-name="menu-icon"/> 選單中的 <img data-l10n-name="addons-icon"/> 附加元件。
+
 ## Preferences UI Search Results
 
 search-results-header = 搜尋結果
@@ -285,6 +317,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = 網路代理伺服器
+network-proxy-connection-description = 設定 { -brand-short-name } 要如何連線至網際網路。
 network-proxy-connection-learn-more = 了解更多
 network-proxy-connection-settings =
     .label = 設定…
