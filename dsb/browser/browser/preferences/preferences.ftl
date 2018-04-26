@@ -73,6 +73,41 @@ should-restart-ok = { -brand-short-name } něnto znowego startowaś
 cancel-no-restart-button = Pśetergnuś
 restart-later = Pózdźej znowego startowaś
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = Rozšyrjenje <img data-l10n-name="icon"/> { $name } waš startowy bok wóźi.
+# This string is shown to notify the user that their new tab page
+# is being controlled by an extension.
+extension-controlled-new-tab-url = Rozšyrjenje <img data-l10n-name="icon"/> { $name } waš bok nowego rejtarka wóźi.
+# This string is shown to notify the user that the default search engine
+# is being controlled by an extension.
+extension-controlled-default-search = Rozšyrjenje, <img data-l10n-name="icon"/> { $name }, jo wašu standardnu pytnicu nastajiło.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlled-privacy-containers = Rozšyrjenje, <img data-l10n-name="icon"/> { $name }, se kontejnerowe rejtark pomina.
+# This string is shown to notify the user that their tracking protection preferences
+# are being controlled by an extension.
+extension-controlled-websites-tracking-protection-mode = Rozšyrjenje, <img data-l10n-name="icon"/> { $name }, slědowański šćit kontrolěrujo.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlled-proxy-config = Rozšěrjenje <img data-l10n-name="icon"/> { $name } wóźi, kak { -brand-short-name } z internetom zwězujo.
+# This string is shown after the user disables an extension to notify the user
+# how to enable an extension that they disabled.
+#
+# <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
+# <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
+extension-controlled-enable = Aby rozšěrjenje zmóžnił, pśejźćo k <img data-l10n-name="addons-icon"/> dodankam w <img data-l10n-name="menu-icon"/> meniju.
+
 ## Preferences UI Search Results
 
 search-results-header = Pytańske wuslědki
@@ -303,6 +338,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Seśowy proksy
+network-proxy-connection-description = Konfigurěrowaś, kak { -brand-short-name } z internetom zwězujo.
 network-proxy-connection-learn-more = Dalšne informacije
 network-proxy-connection-settings =
     .label = Nastajenja…
