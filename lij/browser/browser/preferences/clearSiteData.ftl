@@ -8,10 +8,22 @@ clear-site-data-window =
 clear-site-data-description = Scancelâ tutti i cookie e dæti di sciti sarvæ da{ -brand-short-name } o peu fate sciortî da-i sciti e scancelâ i contegnui feua linia. Scancelâ a chache no aviâ efetto in sci teu login.
 clear-site-data-close-key =
     .key = w
-clear-site-data-cookies = Cookie e dæti di sciti
-    .accesskey = S
 clear-site-data-cookies-info = Ti poriesci sciortî da-o scito se ti scancelli questi
-clear-site-data-cache = Contegnuo Web inta cache
+# The parameters in parentheses in this string describe disk usage
+# in the format ($amount $unit), e.g. "Cached Web Content (24 KB)"
+# Variables:
+#   $amount (Number) - Amount of cache currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+clear-site-data-cache-with-data =
+    .label = Contegnuo Web inta cache ({ $amount } { $unit })
+    .accesskey = W
+# This string is a placeholder for while the data used to fill
+# clear-site-data-cache-with-data is loading. This placeholder is usually
+# only shown for a very short time (< 1s), so it should be very similar
+# or the same as clear-site-data-cache-with-data (except the amount and unit),
+# to avoid flickering.
+clear-site-data-cache-empty =
+    .label = Contegnuo Web inta cache
     .accesskey = W
 clear-site-data-cache-info = Te saiâ domandou de recaregâ inmagini e dæti
 clear-site-data-cancel =
