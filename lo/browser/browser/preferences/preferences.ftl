@@ -257,9 +257,37 @@ containers-remove-button =
 ## Sync Section - Signed out
 
 sync-signedout-caption = ນຳເອົາເວັບຂອງທ່ານໄປກັບທ່ານ
+sync-signedout-account-create = ບໍ່ມີບັນຊີຢູ່ແລ້ວ? ເລີ່ມລົງທະບຽນເລີຍ
+    .accesskey = c
+sync-signedout-account-signin =
+    .label = ລົງຊື່ເຂົ້າໃຊ້…
+    .accesskey = I
 
 ## Sync Section - Signed in
 
+sync-disconnect =
+    .label = ຕັດການເຊື່ອມຕໍ່…
+    .accesskey = D
+sync-manage-account = ຈັດການບັນຊີ
+    .accesskey = o
+sync-sign-in =
+    .label = ລົງຊື່ເຂົ້າໃຊ້
+    .accesskey = g
+sync-signedin-settings-header = ການຕັ້ງຄ່າ Sync
+sync-engine-bookmarks =
+    .label = ບຸກມາກ
+    .accesskey = m
+sync-engine-history =
+    .label = ປະຫວັດ
+    .accesskey = r
+sync-engine-tabs =
+    .label = ແທັບທີ່ເປີດ
+    .tooltiptext = ລາຍການສິ່ງທີ່ເປີດເທິງອຸປະກອນທີ່ຊິງຄ໌ແລ້ວທັງຫມົດ
+    .accesskey = t
+sync-engine-logins =
+    .label = ການເຂົ້າສູ່ລະບົບ
+    .tooltiptext = ຊື່ຜູ້ໃຊ້ແລະລະຫັດຜ່ານທີ່ທ່ານໄດ້ບັນທຶກໄວ້
+    .accesskey = L
 
 ## Privacy Section
 
