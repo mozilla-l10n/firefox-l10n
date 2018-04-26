@@ -17,7 +17,7 @@
 <!ENTITY editContactPanelCancel.label "Batal">
 <!ENTITY editContactPanelCancel.accesskey "B">
 
-<!ENTITY editContactPanelDone.label "Selesai">
+<!ENTITY editContactPanelDone.label "Siap">
 <!ENTITY editContactPanelDone.accesskey "S">
 
 <!ENTITY contactMoveDisabledWarning.description "Anda tidak boleh ubah buku alamat kerana kenalan ada dalam senarai mel.">
