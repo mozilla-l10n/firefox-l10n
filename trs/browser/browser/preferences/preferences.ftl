@@ -295,3 +295,9 @@ security-enable-safe-browsing-link = Gahuin chrūn doj
 
 ## Privacy Section - Certificates
 
+certs-view =
+    .label = Ni'io' certificado...
+    .accesskey = N
+certs-devices =
+    .label = Nej sa dugumi...
+    .accesskey = N
