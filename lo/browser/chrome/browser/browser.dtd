@@ -594,6 +594,8 @@ items are mutually exclusive. -->
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
 <!ENTITY mediaPlaybackRate200x2.accesskey "L">
+<!ENTITY mediaLoop.label             "ວົນຮອບ">
+<!ENTITY mediaLoop.accesskey         "L">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -640,6 +642,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "ຂະຫຍາຍ">
 <!ENTITY fullZoom.accesskey             "Z">
 
+<!ENTITY sidebarCloseButton.tooltip     "ປິດແຖບຂ້າງ">
+<!ENTITY sidebarMenuClose.label         "ປິດແຖບຂ້າງ">
 
 <!ENTITY quitApplicationCmdWin2.label       "ອອກ">
 <!ENTITY quitApplicationCmdWin2.accesskey   "x">
@@ -649,11 +653,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "ອອກ">
 <!ENTITY quitApplicationCmd.accesskey   "Q">
 <!ENTITY quitApplicationCmdMac2.label   "ອອກ &brandShorterName;">
+<!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "ປິດ">
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "C">
 
+<!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "ຮູບແບບຂອງຫນ້າ">
 <!ENTITY pageStyleMenu.accesskey "y">
@@ -684,37 +690,64 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findSelectionCmd.commandkey "e">
 
-<!ENTITY spellAddDictionaries.label "ເພີ່ມດິກຊັນນາລີ...">
+<!ENTITY spellAddDictionaries.label "ເພີ່ມວັດຈະນານຸກົມ...">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                     "ສຳເລັດ">
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "ຄວາມປອດໄພຂອງເວັບໄຊທ໌">
 
+<!ENTITY identity.connectionSecure "ການເຊື່ອມຕໍ່ທີປອດໄພ">
+<!ENTITY identity.connectionInternal "ນີ້ເປັນຫນ້າ &brandShortName ທີ່ປອດໄພ.">
+<!ENTITY identity.insecureLoginForms2 "ການປ້ອນຂໍ້ມູນການລັອກອິນທີ່ໃສ່ໄວ້ເທິງຫນ້ານີ້ອາດຈະຖືກບຸກລຸກໄດ້.">
 
 <!-- Strings for connection state warnings. -->
+<!ENTITY identity.passiveLoaded "ເນື້ອຫາບາງສ່ວນໃນຫນ້ານີ້ບໍ່ມີຄວາມປອດໄພ (ເຊັ່ນວ່າຮູບພາບ)">
 
 <!-- Strings for connection state warnings in the subview. -->
 
+<!ENTITY identity.enableMixedContentBlocking.label "ເປີດໃຊ້ການປ້ອງກັນ">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "E">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "D">
+<!ENTITY identity.learnMore "ຮຽນຮູ້ເພີ່ມເຕີມ">
 
+<!ENTITY identity.removeCertException.accesskey "R">
 
+<!ENTITY identity.moreInfoLinkText2 "ຂໍ້ມູນເພີ່ມເຕີມ">
 
+<!ENTITY identity.permissions "ການອະນຸຍາດ">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "ແຖບບຣາວເສີ">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
+<!ENTITY syncTabsMenu3.label     "ແທັບທີ່ຊິງຄ໌ແລ້ວ">
 
+<!ENTITY syncedTabs.sidebar.label              "ແທັບທີ່ຊິງຄ໌ແລ້ວ">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "ຕ້ອງການໃຫ້ເຫັນແທັບທີ່ນີ້ຂອງທ່ານໄດ້ຈາກອຸປະກອນອື່ນໆບໍ່?">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "ລົງຊື່ເຂົ້າໃຊ້ເພື່ອເບິ່ງລາຍການແທັບທີ່ເປີດຢູ່ໃນອຸປະກອນອື່ນໆຂອງທ່ານ.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "ບັນຊີຂອງທ່ານຕ້ອງໄດ້ຮັບການຢືນຢັນ.">
+<!ENTITY syncedTabs.sidebar.notabs.label       "ບໍ່ມີແທັບທີ່ເປີດຢູ່">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "ເປີດການຕັ້ງຄ່າ &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "ເປີດການຊິງຄ໌ແທັບເພື່ອເບິ່ງລາຍການແທັບທີ່ເປີດຢູ່ໃນອຸປະກອນອື່ນໆຂອງທ່ານ.">
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "ເຊື່ອມຕໍ່ກັບອຸປະກອນອື່ນ">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
      These access keys are identical because their associated menu items are
      mutually exclusive -->
+<!ENTITY syncedTabs.context.open.label                       "ເປີດ">
+<!ENTITY syncedTabs.context.open.accesskey                   "O">
+<!ENTITY syncedTabs.context.openInNewTab.label               "ເປີດໃນແທັບໃຫມ່">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
 
 
 
