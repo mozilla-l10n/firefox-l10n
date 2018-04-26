@@ -470,21 +470,27 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY searchInNewTab.label         "ຊອກຫາໃນແທັບໃຫມ່">
 <!ENTITY searchInNewTab.accesskey     "T">
+<!ENTITY searchSetAsDefault.label     "ຕັ້ງເປັນເຄື່ອງມືການຊອກຫາເລີ່ມຕົ້ນ">
+<!ENTITY searchSetAsDefault.accesskey "D">
 
 <!ENTITY openLinkCmdInTab.label       "ເປີດລີ້ງໃນແຖບໃຫມ່">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "ເປີດລີ້ງໃນຫນ້າຕ່າງໃຫມ່">
 <!ENTITY openLinkCmd.accesskey        "W">
+<!ENTITY openLinkInPrivateWindowCmd.label "ເປີດລິ້ງໃນຫນ້າຕ່າງສ່ວນຕົວໃຫມ່">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
 <!ENTITY openLinkCmdInCurrent.label     "ເປີດລີ້ງ">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">
 <!ENTITY openFrameCmdInTab.label      "ເປີດເຟຣມໃນແຖບໃຫມ່">
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "ເປີດເຟຣມໃນຫນ້າຕ່າງໃຫມ່">
 <!ENTITY openFrameCmd.accesskey       "W">
+<!ENTITY openLinkCmdInContainerTab.label "ເປີດລີ້ງໃນແທັບແຍກຂໍ້ມູນໃຫມ່">
+<!ENTITY openLinkCmdInContainerTab.accesskey "b">
 <!ENTITY showOnlyThisFrameCmd.label     "ສະແດງພຽງເຟຣມນີ້ເທົ່ານັ້ນ">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
-<!ENTITY reloadFrameCmd.label         "ໂລດເຟຣມບຄື່ນໃຫມ່">
+<!ENTITY reloadFrameCmd.label         "ໂຫລດເຟຣມຄື່ນໃຫມ່">
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "ເບິ່ງແຫລ່ງຂໍ້ມູນຂອງສິ່ງທີ່ເລືອກ">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "ເບິງແຫລ່ງຂໍ້ມູນຂອງ MathML ">
@@ -499,22 +505,26 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewPageInfoCmd.accesskey    "I">
 <!ENTITY viewFrameInfoCmd.label       "ເບິ່ງຂໍ້ມູນຂອງເຟຣມ">
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
-<!ENTITY reloadImageCmd.label         "ໂລດຮູບພາບຄືນໃຫມ່">
+<!ENTITY reloadImageCmd.label         "ໂຫລດຮູບພາບຄືນໃຫມ່">
 <!ENTITY reloadImageCmd.accesskey     "R">
 <!ENTITY viewImageCmd.label           "ເບິ່ງຮູບພາບ">
 <!ENTITY viewImageCmd.accesskey       "I">
 <!ENTITY viewImageInfoCmd.label       "ເບິ່ງຂໍ້ມູນໜ້າເວັບ">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
+<!ENTITY viewImageDescCmd.accesskey   "D">
 <!ENTITY viewVideoCmd.label           "ເບິ່ງວີດີໂອ">
 <!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "ເບິ່ງພາບພື້ນຫຼັງ">
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "ກຳນົດໃຫ້ເປັນພາບພື້ນຫລັງເດສກ໌ທັອບ">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
+<!ENTITY bookmarkPageCmd2.label       "ບຸກມາກຫນ້ານີ້">
+<!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.label      "ບຸກມາກລີ້ງນີ້">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "ບຸກມາກເຟຣມນີ້">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+<!ENTITY pageAction.copyLink.label    "ສຳເນົາທີ່ຢູ່ລິ້ງ">
 <!ENTITY copyURLFeedback.label        "ສຳເນົາແລ້ວ!">
 <!ENTITY emailPageCmd.label           "ລີ້ງຈົດຫມາຍ...">
 <!ENTITY emailPageCmd.accesskey       "E">
@@ -531,12 +541,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveLinkCmd.accesskey        "k">
 <!ENTITY saveImageCmd.label           "ບັນທຶກຮູບພາບນີ້ໄວ້ທີ່...">
 <!ENTITY saveImageCmd.accesskey       "v">
+<!ENTITY saveVideoCmd.label           "ບັນທຶກວີດີໂອນີ້ໄວ້ທີ່…">
+<!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "ບັນທຶກສຽງນີ້ໄວ້ທີ່...">
 <!ENTITY saveAudioCmd.accesskey       "v">
 <!ENTITY emailImageCmd.label          "ຈົດຫມາຍ ຮູບພາບ...">
 <!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "ຈົດຫມາຍວິດີໂອ...">
 <!ENTITY emailVideoCmd.accesskey      "a">
+<!ENTITY emailAudioCmd.label          "ສົ່ງຈົດໝາຍສຽງ…">
+<!ENTITY emailAudioCmd.accesskey      "a">
+<!ENTITY playPluginCmd.label          "ເປີດໃຊ້ງານປັກອິນນີ້">
+<!ENTITY playPluginCmd.accesskey      "c">
+<!ENTITY hidePluginCmd.accesskey      "H">
 <!ENTITY copyLinkCmd.label            "ສຳເນົາທີ່ຢູ່ລີ້ງ">
 <!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyImageCmd.label           "ສຳເນົາທີ່ຢູ່ຮູບພາບ">
@@ -567,9 +584,16 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "ເປີດສຽງ">
 <!ENTITY mediaUnmute.accesskey       "m">
+<!ENTITY mediaPlaybackRate2.accesskey "d">
+<!ENTITY mediaPlaybackRate050x2.accesskey "S">
+<!ENTITY mediaPlaybackRate100x2.label "ປົກກະຕິ">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
+<!ENTITY mediaPlaybackRate125x2.accesskey "F">
+<!ENTITY mediaPlaybackRate150x2.accesskey "a">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
+<!ENTITY mediaPlaybackRate200x2.accesskey "L">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
