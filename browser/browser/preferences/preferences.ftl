@@ -89,6 +89,9 @@ extension-controlled-new-tab-url = একটি এক্সটেনসন, <im
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = এক্সটেনশন <img data-l10n-name="icon"/> { $name }-র কন্টেইনার ট্যাব প্রয়োজন।
+# This string is shown to notify the user that their tracking protection preferences
+# are being controlled by an extension.
+extension-controlled-websites-tracking-protection-mode = একটি এক্সটেনসন, <img data-l10n-name="icon"/> { $name }, ট্রাকিং সুরক্ষা নিয়ন্ত্রণ করে।
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = একটি এক্সটেনসন, <img data-l10n-name="icon"/> { $name }, কিভাবে { -brand-short-name } ইন্টারনেটের সাথে সংযোগ করে তা নিয়ন্ত্রণ করছে।
