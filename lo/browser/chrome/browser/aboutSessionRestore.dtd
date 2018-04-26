@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY restorepage.tabtitle       "ເອີ້ນຄືນ ເຊສຊັນ">
+<!ENTITY restorepage.tabtitle       "ກູ້ຄືນເຊສຊັນ">
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
@@ -11,6 +11,7 @@
 <!ENTITY restorepage.hideTabs       "ເຊື່ອງແທັບກ່ອນຫນ້າ">
 <!ENTITY restorepage.showTabs       "ເບິ່ງແທັບກ່ອນຫນ້າ">
 
+<!ENTITY restorepage.tryagainButton2 "ກູ້ຄືນເຊສຊັນ">
 <!ENTITY restorepage.restore.access2 "R">
 <!ENTITY restorepage.closeButton2    "ເລີ່ມເຊສຊັນໃຫມ່">
 <!ENTITY restorepage.close.access2   "N">
@@ -24,6 +25,7 @@
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
 
+<!ENTITY welcomeback2.restoreButton  "ໄປກັນເທາະ!">
 <!ENTITY welcomeback2.restoreButton.access "L">
 
 <!ENTITY welcomeback2.tabtitle      "ສຳເລັດ!">
