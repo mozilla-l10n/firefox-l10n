@@ -73,6 +73,41 @@ should-restart-ok = เริ่มการทำงาน { -brand-short-name 
 cancel-no-restart-button = ยกเลิก
 restart-later = เริ่มการทำงานใหม่ในภายหลัง
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = ส่วนขยาย <img data-l10n-name="icon"/> { $name } กำลังควบคุมหน้าแรกของคุณ
+# This string is shown to notify the user that their new tab page
+# is being controlled by an extension.
+extension-controlled-new-tab-url = ส่วนขยาย <img data-l10n-name="icon"/> { $name } กำลังควบคุมหน้าแท็บใหม่ของคุณ
+# This string is shown to notify the user that the default search engine
+# is being controlled by an extension.
+extension-controlled-default-search = ส่วนขยาย <img data-l10n-name="icon"/> { $name } ได้ตั้งเครื่องมือค้นหาเริ่มต้นของคุณ
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlled-privacy-containers = ส่วนขยาย <img data-l10n-name="icon"/> { $name } ต้องการแท็บแยกข้อมูล
+# This string is shown to notify the user that their tracking protection preferences
+# are being controlled by an extension.
+extension-controlled-websites-tracking-protection-mode = ส่วนขยาย <img data-l10n-name="icon"/> { $name } กำลังควบคุมการป้องกันการติดตาม
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlled-proxy-config = ส่วนขยาย <img data-l10n-name="icon"/> { $name } กำลังควบคุมวิธีที่ { -brand-short-name } เชื่อมต่อกับอินเทอร์เน็ต
+# This string is shown after the user disables an extension to notify the user
+# how to enable an extension that they disabled.
+#
+# <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
+# <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
+extension-controlled-enable = เพื่อเปิดใช้งานส่วนขยาย ไปยัง <img data-l10n-name="addons-icon"/> ส่วนเสริม ใน <img data-l10n-name="menu-icon"/> เมนู
+
 ## Preferences UI Search Results
 
 search-results-header = ผลการค้นหา
@@ -285,6 +320,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = พร็อกซีเครือข่าย
+network-proxy-connection-description = กำหนดค่าวิธีที่ { -brand-short-name } เชื่อมต่อกับอินเทอร์เน็ต
 network-proxy-connection-learn-more = เรียนรู้เพิ่มเติม
 network-proxy-connection-settings =
     .label = การตั้งค่า…
