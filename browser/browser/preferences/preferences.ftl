@@ -73,6 +73,35 @@ should-restart-ok = أعد تشغيل { -brand-short-name } الآن
 cancel-no-restart-button = ألغِ
 restart-later = أعِد التشغيل لاحقًا
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = يتحكم أحد الامتدادات (<img data-l10n-name="icon"/> { $name }) في صفحتك الرئيسية.
+# This string is shown to notify the user that their new tab page
+# is being controlled by an extension.
+extension-controlled-new-tab-url = يتحكم أحد الامتدادات (<img data-l10n-name="icon"/> { $name }) في صفحة اللسان الجديد.
+# This string is shown to notify the user that the default search engine
+# is being controlled by an extension.
+extension-controlled-default-search = ضبط أحد الامتدادات (<img data-l10n-name="icon"/> { $name }) محرك البحث المبدئي.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlled-privacy-containers = يتطلب أحد الامتدادات (<img data-l10n-name="icon"/> { $name }) الألسنة الحاوية.
+# This string is shown to notify the user that their tracking protection preferences
+# are being controlled by an extension.
+extension-controlled-websites-tracking-protection-mode = يتحكم أحد الامتدادات (<img data-l10n-name="icon"/> { $name }) في الحماية من التعقب.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlled-proxy-config = يتحكم أحد الامتدادات <img data-l10n-name="icon"/> { $name } في طريقة اتصال { -brand-short-name } بالإنترنت.
+
 ## Preferences UI Search Results
 
 search-results-header = نتائج البحث
@@ -306,6 +335,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = وسيط الشبكة
+network-proxy-connection-description = اضبط طريقة اتصال { -brand-short-name } بالإنترنت.
 network-proxy-connection-learn-more = اطّلع على المزيد
 network-proxy-connection-settings =
     .label = الإعدادات…
