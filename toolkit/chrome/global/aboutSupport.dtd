@@ -21,6 +21,12 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Versiune">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.securitySoftwareTitle "Program de securitate">
+<!ENTITY aboutSupport.securitySoftwareType "Tip">
+<!ENTITY aboutSupport.securitySoftwareName "Nume">
+<!ENTITY aboutSupport.securitySoftwareAntivirus "Antivirus">
+<!ENTITY aboutSupport.securitySoftwareAntiSpyware "Antispyware">
+<!ENTITY aboutSupport.securitySoftwareFirewall "Firewall">
 
 <!ENTITY aboutSupport.featuresTitle "Funcționalități &brandShortName;">
 <!ENTITY aboutSupport.featureName "Nume">
@@ -69,6 +75,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsProcessCount "Procese pentru conținut web">
 
+<!ENTITY aboutSupport.enterprisePolicies "Politici afacerilor">
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Cheie Google">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Cheie pentru serviciul de localizare Mozilla">
