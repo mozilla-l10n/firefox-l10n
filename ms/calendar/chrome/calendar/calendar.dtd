@@ -29,7 +29,7 @@
 <!-- LOCALIZATION NOTE(calendar.unifinder.tree.done.tooltip)
    - This label and tooltip is used for the column with the checkbox in the
    - task tree view. -->
-<!ENTITY calendar.unifinder.tree.done.label                "Selesai">
+<!ENTITY calendar.unifinder.tree.done.label                "Siap">
 <!ENTITY calendar.unifinder.tree.done.tooltip2             "Susun mengikut keselesaian">
 <!ENTITY calendar.unifinder.tree.priority.label            "Prioriti">
 <!ENTITY calendar.unifinder.tree.priority.tooltip2         "Susun mengikut prioriti">
