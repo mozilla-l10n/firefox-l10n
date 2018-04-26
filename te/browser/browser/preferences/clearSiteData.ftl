@@ -24,6 +24,14 @@ clear-site-data-cookies-empty =
     .label = కుకీలు మరియు సైటు దత్తాంశం
     .accesskey = S
 clear-site-data-cookies-info = దీన్ని తుడిచివేస్తే వెబ్‌సైట్ల నుండి మీరు సైన్ అయిట్ అవ్వవచ్చు
+# This string is a placeholder for while the data used to fill
+# clear-site-data-cache-with-data is loading. This placeholder is usually
+# only shown for a very short time (< 1s), so it should be very similar
+# or the same as clear-site-data-cache-with-data (except the amount and unit),
+# to avoid flickering.
+clear-site-data-cache-empty =
+    .label = క్యాచీ చేసిన వెబ్ విషయం
+    .accesskey = W
 clear-site-data-cancel =
     .label = రద్దుచేయి
     .accesskey = C
