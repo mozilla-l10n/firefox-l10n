@@ -73,6 +73,20 @@ should-restart-ok = Reinitiar { -brand-short-name } ora
 cancel-no-restart-button = Cancellar
 restart-later = Reinitiar depois
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlled-privacy-containers = Un extension, <img data-l10n-name="icon"/> { $name }, necessita le schedas contextual.
+
 ## Preferences UI Search Results
 
 search-results-header = Resultatos del recerca
