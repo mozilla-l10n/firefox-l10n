@@ -164,6 +164,11 @@ restore-default =
 ## Search Section
 
 search-bar-header = Riña nana'ui'
+search-choose-keyword-column =
+    .label = Nuguan huii
+search-restore-default =
+    .label = Nagi'iaj nakà nû nej sa nana'uî't gà' nikajt
+    .accesskey = N
 search-remove-engine =
     .label = Guxūn
     .accesskey = G

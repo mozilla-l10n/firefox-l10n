@@ -5,12 +5,20 @@
 
 ## Settings
 
+site-data-search-textbox =
+    .placeholder = Nana'ui' sitio web
+    .accesskey = N
 site-data-column-host =
     .label = Sîtio
 site-data-column-cookies =
     .label = Cookies
+site-data-column-storage =
+    .label = Riña ma sa' ma
 site-data-column-last-used =
     .label = Sa garajsun rukù nï't
+site-data-remove-selected =
+    .label = Guxun sa ganahui'
+    .accesskey = G
 site-data-button-cancel =
     .label = Duyichîn'
     .accesskey = D
