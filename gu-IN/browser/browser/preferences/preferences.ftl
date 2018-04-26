@@ -86,12 +86,24 @@ restart-later = પછી પુનઃશરૂ કરો
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = એક એક્સટેન્શન, <img data-l10n-name="icon"/> { $name }, તમારા નવા ટેબના પૃષ્ઠને નિયંત્રિત કરે છે.
+# This string is shown to notify the user that the default search engine
+# is being controlled by an extension.
+extension-controlled-default-search = એક્સ્ટેંશન, <img data-l10n-name="icon"/> { $name }, એ તમારું મૂળભૂત શોધ એંજીન સેટ કર્યું છે.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = એક્સ્ટેંશન, <img data-l10n-name="icon"/> { $name }, કન્ટેઈનર ટેબ્સની જરૂર છે.
+# This string is shown to notify the user that their tracking protection preferences
+# are being controlled by an extension.
+extension-controlled-websites-tracking-protection-mode = એક્સ્ટેન્શન, <img data-l10n-name="icon"/> { $name }, ટ્રેકિંગ સંરક્ષણને નિયંત્રિત કરી રહ્યું છે.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = એક એક્સ્ટેન્શન, <img data-l10n-name="icon"/> { $name }, નિયંત્રિત કરી રહ્યું છે કે { -brand-short-name } કેવી રીતે ઇન્ટરનેટ સાથે જોડાય છે.
+# This string is shown after the user disables an extension to notify the user
+# how to enable an extension that they disabled.
+#
+# <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
+# <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
+extension-controlled-enable = <img data-l10n-name="menu-icon"/> મેનૂમાં એક્સટેંશન <img data-l10n-name="addons-icon"/> ઍડ-ઑન્સ પર જવા માટે સક્ષમ કરવા.
 
 ## Preferences UI Search Results
 
