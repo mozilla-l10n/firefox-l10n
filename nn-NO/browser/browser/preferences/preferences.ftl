@@ -73,6 +73,41 @@ should-restart-ok = Start { -brand-short-name } på nytt no
 cancel-no-restart-button = Avbryt
 restart-later = Start på nytt seinare
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = Ei utviding, <img data-l10n-name="icon"/> { $name }, styrer startsida di.
+# This string is shown to notify the user that their new tab page
+# is being controlled by an extension.
+extension-controlled-new-tab-url = Ei utviding, <img data-l10n-name="icon"/> { $name }, styrer Ny fane-sida di.
+# This string is shown to notify the user that the default search engine
+# is being controlled by an extension.
+extension-controlled-default-search = Ei utviding, <img data-l10n-name="icon"/> { $name }, har endra standardsøkemotor.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlled-privacy-containers = Ei utviding, <img data-l10n-name="icon"/> { $name }, krev innhaldsfaner.
+# This string is shown to notify the user that their tracking protection preferences
+# are being controlled by an extension.
+extension-controlled-websites-tracking-protection-mode = Ei utviding, <img data-l10n-name="icon"/> { $name }, styrer sporingsvernet.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlled-proxy-config = Ei utviding, <img data-l10n-name="icon"/> { $name }, styrer korleis { -brand-short-name } koplar seg til internett.
+# This string is shown after the user disables an extension to notify the user
+# how to enable an extension that they disabled.
+#
+# <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
+# <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
+extension-controlled-enable = For å aktivere utvidinga, gå til <img data-l10n-name="addons-icon"/> Utviding i menyen <img data-l10n-name="menu-icon"/>.
+
 ## Preferences UI Search Results
 
 search-results-header = Søkeresultat
@@ -297,6 +332,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Nettverksproxy
+network-proxy-connection-description = Konfigurer korleis { -brand-short-name } koplar seg til internett.
 network-proxy-connection-learn-more = Les meir
 network-proxy-connection-settings =
     .label = Innstillingar…
