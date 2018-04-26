@@ -9,8 +9,16 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-armenian =
+    .label = ພາ​ສາ​ອາກ​ເມ​ນີ
 fonts-langgroup-bengali =
     .label = ພາສາບັງກະລາເດດ
+fonts-langgroup-simpl-chinese =
+    .label = ພາສາຈີນຕົວຫຍໍ້
+fonts-langgroup-trad-chinese-hk =
+    .label = ພາສາຈີນຕົວເຕັມ (ຮົງກົງ)
+fonts-langgroup-trad-chinese =
+    .label = ພາສາຈີນຕົວເຕັມ (ໄຕ້ຫວັນ)
 fonts-langgroup-tibetan =
     .label = ພາສາຕິເບດ
 
