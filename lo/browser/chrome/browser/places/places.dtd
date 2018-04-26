@@ -66,10 +66,20 @@
 <!ENTITY col.name.label          "ຊື່">
 <!ENTITY col.tags.label          "ແທັກ">
 <!ENTITY col.url.label           "ຕຳແຫນ່ງທີ່ຕັ້ງ">
+<!ENTITY col.visitcount.label    "ຈຳນວນຄັ້ງທີ່ຢ້ຽມຢາມ">
+<!ENTITY col.description.label   "ຄຳອະທິບາຍ">
+<!ENTITY col.dateadded.label     "ເພີ່ມເມື່ອ">
+<!ENTITY col.lastmodified.label  "ແກ້ໄຂຫລ້າສຸດເມື່ອ">
 
+<!ENTITY historySearch.placeholder  "ຊອກຫາປະຫວັດການໃຊ້ງານ">
+<!ENTITY bookmarksSearch.placeholder  "ຊອກຫາບຸກມາກ">
 
+<!ENTITY cmd.find.key  "f">
 
+<!ENTITY maintenance.accesskey  "I">
 
+<!ENTITY backButton.tooltip  "ກັບຄືນ">
 
+<!ENTITY forwardButton.tooltip  "ເດີນໜ້າ">
 
 
