@@ -83,6 +83,12 @@ restart-later = Reiniciar después
 ## Variables:
 ##   $name (String): name of the extension
 
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = La extensión <img data-l10n-name="icon"/> { $name } controla su página de inicio.
+# This string is shown to notify the user that their new tab page
+# is being controlled by an extension.
+extension-controlled-new-tab-url = Una extensión, <img data-l10n-name="icon"/> { $name }, controla la página de pestaña nueva.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = Una extensión, <img data-l10n-name="icon"/> { $name }, ha cambiado el buscador predeterminado.
@@ -326,6 +332,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Proxy de red
+network-proxy-connection-description = Configurar cómo { -brand-short-name } se conecta con Internet.
 network-proxy-connection-learn-more = Conocer más
 network-proxy-connection-settings =
     .label = Configuración…
