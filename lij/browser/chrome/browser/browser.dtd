@@ -200,7 +200,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY forwardCmd.label             "Avanti">
 <!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "Vanni avanti de 'na pagina">
-<!ENTITY backForwardButtonMenu.tooltip "Sciacca co-o pomello drito do ratto ò tegni sciacou pe vedde a stöia">
+<!ENTITY backForwardButtonMenu.tooltip "Sciacca o pomello drito do ratto ò tegni sciacou pe vedde a stöia">
 <!ENTITY backForwardButtonMenuMac.tooltip "Vanni in zu pe vedde a stöia">
 <!ENTITY reloadCmd.label              "Recarega">
 <!ENTITY reloadCmd.accesskey          "R">
@@ -444,7 +444,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Scrivi indirisso ò iniçia riçerca">
-<!ENTITY urlbar.placeholder3          "Scrivi cöse çercâ e indirissi chie">
 <!ENTITY urlbar.accesskey             "S">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Estenscioin:">
