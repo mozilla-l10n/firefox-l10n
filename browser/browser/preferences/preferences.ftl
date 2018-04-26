@@ -73,6 +73,20 @@ should-restart-ok = Перезапустити { -brand-short-name } зараз
 cancel-no-restart-button = Скасувати
 restart-later = Перезапустити потім
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlled-privacy-containers = Для роботи розширення <img data-l10n-name="icon"/> { $name } необхідні вкладки в контейнері.
+
 ## Preferences UI Search Results
 
 search-results-header = Результати пошуку
