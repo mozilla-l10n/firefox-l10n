@@ -64,6 +64,20 @@ should-restart-title = راه‌اندازی مجدد { -brand-short-name }
 should-restart-ok = هم‌اکنون { -brand-short-name } راه‌اندازی مجدد شود
 restart-later = بعداْ راه‌اندازی مجدد شود
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+# This string is shown to notify the user that their tracking protection preferences
+# are being controlled by an extension.
+extension-controlled-websites-tracking-protection-mode = یک افزونه، <img data-l10n-name="icon"/> { $name }، در حال کنترلِ سیستم محافظت در برابر ردگیری است.
+
 ## Preferences UI Search Results
 
 search-results-header = نتایج جستجو
