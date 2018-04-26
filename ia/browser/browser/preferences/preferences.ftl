@@ -83,9 +83,30 @@ restart-later = Reinitiar depois
 ## Variables:
 ##   $name (String): name of the extension
 
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = Un extension, <img data-l10n-name="icon"/> { $name }, controla tu pagina casa.
+# This string is shown to notify the user that their new tab page
+# is being controlled by an extension.
+extension-controlled-new-tab-url = Un extension, <img data-l10n-name="icon"/> { $name }, controla tu pagina de Nove scheda.
+# This string is shown to notify the user that the default search engine
+# is being controlled by an extension.
+extension-controlled-default-search = Un extension, <img data-l10n-name="icon"/> { $name }, ha definite le motor de recerca ordinari.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Un extension, <img data-l10n-name="icon"/> { $name }, necessita le schedas contextual.
+# This string is shown to notify the user that their tracking protection preferences
+# are being controlled by an extension.
+extension-controlled-websites-tracking-protection-mode = Un extension, <img data-l10n-name="icon"/> { $name }, verifica le protection de traciamento.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlled-proxy-config = Un extension, <img data-l10n-name="icon"/> { $name }, controla como { -brand-short-name } se connecte a internet.
+# This string is shown after the user disables an extension to notify the user
+# how to enable an extension that they disabled.
+#
+# <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
+# <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
+extension-controlled-enable = Pro activar le extension elige le additiones <img data-l10n-name="addons-icon"/> in le menu <img data-l10n-name="menu-icon"/>.
 
 ## Preferences UI Search Results
 
@@ -311,6 +332,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Proxy de rete
+network-proxy-connection-description = Configura como { -brand-short-name } se connecte a internet.
 network-proxy-connection-learn-more = Saper plus
 network-proxy-connection-settings =
     .label = Parametros…
