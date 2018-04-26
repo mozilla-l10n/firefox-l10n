@@ -37,13 +37,11 @@ search-input-box =
             [windows] オプションを検索
            *[other] 設定を検索
         }
-
 policies-notice =
     { PLATFORM() ->
         [windows] あなたの所属組織が一部のオプションの変更を制限しています。
        *[other] あなたの所属組織が一部の設定の変更を制限しています。
     }
-
 pane-general-title = 一般
 category-general =
     .tooltiptext = { pane-general-title }
@@ -71,6 +69,20 @@ should-restart-title = { -brand-short-name } を再起動
 should-restart-ok = { -brand-short-name } を今すぐ再起動
 cancel-no-restart-button = キャンセル
 restart-later = 後で再起動
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlled-privacy-containers = 拡張機能 <img data-l10n-name="icon"/> { $name } がコンテナータブを必要としています。
 
 ## Preferences UI Search Results
 
@@ -284,9 +296,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = ネットワークプロキシ
-
 network-proxy-connection-learn-more = 詳細
-
 network-proxy-connection-settings =
     .label = 接続設定...
     .accesskey = e
