@@ -8,10 +8,22 @@ clear-site-data-window =
 clear-site-data-description = Emopotĩ kookie ha tenda mba'ekuaarã ombyatýva { -brand-short-name } ikatu omboty ne rembiapo ijurujáva ha ombogue ñanduti retepy ñanduti'ỹreguáva. Emopotĩ kache mba'ekuaarã nombyaimo'ãi ne rembiapo ijurujáva.
 clear-site-data-close-key =
     .key = w
-clear-site-data-cookies = Kookie ha tenda mba'ekuaarã
+# This string is a placeholder for while the data used to fill
+# clear-site-data-cookies-with-data is loading. This placeholder is usually
+# only shown for a very short time (< 1s), so it should be very similar
+# or the same as clear-site-data-cookies-with-data (except the amount and unit),
+# to avoid flickering.
+clear-site-data-cookies-empty =
+    .label = Kookie ha tenda mba'ekuaarã
     .accesskey = S
 clear-site-data-cookies-info = Emboguetéramo, ikatu emboty ne rembiapo ñanduti renda pegua
-clear-site-data-cache = Ñanduti rechapyrã kachépe
+# This string is a placeholder for while the data used to fill
+# clear-site-data-cache-with-data is loading. This placeholder is usually
+# only shown for a very short time (< 1s), so it should be very similar
+# or the same as clear-site-data-cache-with-data (except the amount and unit),
+# to avoid flickering.
+clear-site-data-cache-empty =
+    .label = Ñanduti rechapyrã kachépe
     .accesskey = W
 clear-site-data-cache-info = Eikotevẽ ñanduti renda omyenyhẽjey ta'anga ha mba'ekuaarã
 clear-site-data-cancel =
