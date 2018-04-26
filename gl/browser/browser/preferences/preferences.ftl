@@ -73,6 +73,20 @@ should-restart-ok = Reiniciar o { -brand-short-name } agora
 cancel-no-restart-button = Cancelar
 restart-later = Reiniciar máis tarde
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = Unha extensión, <img data-l10n-name="icon"/> { $name }, está controlando a súa páxina de inicio.
+
 ## Preferences UI Search Results
 
 search-results-header = Resultados da busca
