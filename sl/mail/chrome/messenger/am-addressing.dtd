@@ -28,6 +28,9 @@
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY then.label                           "potem">
 <!ENTITY then.accesskey                       "o">
+<!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY quoting.label                        "Pri navajanju">
+<!ENTITY quoting.accesskey                    "v">
 <!ENTITY aboveQuote.label                     "začni moj odgovor nad navedenim besedilom">
 <!ENTITY belowQuote.label                     "začni moj odgovor pod navedenim besedilom">
 <!ENTITY selectAndQuote.label                 "izberi navedeno besedilo">
