@@ -72,6 +72,29 @@ should-restart-ok = ఇప్పుడు { -brand-short-name } ను పున
 cancel-no-restart-button = రద్దుచేయి
 restart-later = తరువాత పునఃప్రారంభించు
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = మీ ముంగిలి పేజీని <img data-l10n-name="icon"/> { $name } అను పొడగింత నియంత్రిస్తుంది.
+# This string is shown to notify the user that their new tab page
+# is being controlled by an extension.
+extension-controlled-new-tab-url = మీ కొత్తట్యాబు పేజీని <img data-l10n-name="icon"/> { $name } అను పొడగింత నియంత్రిస్తుంది.
+# This string is shown to notify the user that the default search engine
+# is being controlled by an extension.
+extension-controlled-default-search = ఒక పొడగింత, <img data-l10n-name="icon"/> { $name }, మీ అప్రమేయ సెర్చింజనుని అమర్చింది.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlled-privacy-containers = ఒక పొడగింతకి, <img data-l10n-name="icon"/> { $name }, కంటెయినర్ ట్యాబులు కావాలి.
+
 ## Preferences UI Search Results
 
 search-results-header = వెతుకుడు ఫలితాలు
