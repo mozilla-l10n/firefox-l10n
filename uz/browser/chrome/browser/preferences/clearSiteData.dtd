@@ -18,3 +18,5 @@
 
 <!ENTITY button.cancel.label          "Bekor qilish">
 <!ENTITY button.cancel.accesskey      "C">
+<!ENTITY button.clear.label           "Tozalash">
+<!ENTITY button.clear.accesskey       "l">
