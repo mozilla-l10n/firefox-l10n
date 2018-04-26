@@ -98,6 +98,9 @@ extension-controlled-privacy-containers = Ընդլայնում, <img data-l10n-n
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = Ընդլայնում, <img data-l10n-name="icon"/> { $name }, կառավարում է հետագծման պաշտպանությունը:
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlled-proxy-config = <img data-l10n-name="icon"/> { $name } ընդլայնումը ղեկավարում է, թե ինչպես { -brand-short-name }-ը կապակցվի համացանցին:
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
