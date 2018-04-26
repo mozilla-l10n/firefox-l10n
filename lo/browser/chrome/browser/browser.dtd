@@ -861,14 +861,35 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
 <!ENTITY updateAvailable.panelUI.label "ດາວໂຫລດອັບເດດ &brandShorterName;">
 
+<!ENTITY updateManual.whatsnew.label "ເບິ່ງວ່າມີຫຍັງໃໝ່.">
+<!ENTITY updateManual.acceptButton.label "ດາວໂຫລດ &brandShorterName;">
+<!ENTITY updateManual.acceptButton.accesskey "D">
+<!ENTITY updateManual.cancelButton.label "ບໍ່ແມ່ນຕອນນີ້">
+<!ENTITY updateManual.cancelButton.accesskey "N">
+
+<!ENTITY updateRestart.header.message2 "ເລີ່ມການທຳງານໃຫມ່ເພື່ອອັບເດດ &brandShorterName;.">
+<!ENTITY updateRestart.acceptButton.accesskey "R">
+<!ENTITY updateRestart.cancelButton.label "ບໍ່ແມ່ນຕອນນີ້">
+<!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateRestart.panelUI.label2 "ເລີ່ມການທຳງານໃຫມ່ເພື່ອອັບເດດ &brandShorterName;">
 
 
+<!ENTITY newTabControlled.keepButton.accesskey "K">
+<!ENTITY newTabControlled.restoreButton.label "ກູ້ຄືນການຕັ້ງຄ່າ">
+<!ENTITY newTabControlled.restoreButton.accesskey "R">
+
+<!ENTITY newTabControlled.disableButton.label "ປິດໃຊ້ສ່ວນຂະຫຍາຍ ">
+<!ENTITY newTabControlled.disableButton.accesskey "D">
+
+<!ENTITY homepageControlled.keepButton.accesskey "K">
+<!ENTITY homepageControlled.disableButton.label "ປິດໃຊ້ສ່ວນຂະຫຍາຍ ">
+<!ENTITY homepageControlled.disableButton.accesskey "D">
 
 
+<!ENTITY pageAction.sendTabToDevice.label "ສົ່ງແທັບໄປຫາອຸປະກອນ">
+<!ENTITY sendToDevice.syncNotReady.label "ກຳລັງ Sync ອຸປະກອນ…">
 
-
-
-
+<!ENTITY pageAction.shareUrl.label "ແບ່ງປັນ">
 
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
