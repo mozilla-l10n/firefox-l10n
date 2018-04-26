@@ -3,71 +3,24 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!ENTITY  copy.key              "C">
 <!ENTITY  copy.label            "ສຳເນົາ">
 <!ENTITY  copy.accesskey        "C">
-
+<!ENTITY  selectall.key         "A">
 <!ENTITY  selectall.label       "ເລືອກທັ້ງຫມົດ">
 <!ENTITY  selectall.accesskey   "A">
-
+<!ENTITY  closeWindow.key       "w">
 
 <!ENTITY  generalTab            "ທົ່ວໄປ">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY  generalTab.accesskey  "G">
 <!ENTITY  generalMetaContent    "ເນື້ອຫາ">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <!ENTITY  feedSubscribe         "ເປັນສະມາຊິກ">
 
-
-
-
-
 <!ENTITY  permAllow             "ອະນຸຍາດ">
 
-
-
-
-
-
-
 <!ENTITY  securityTab           "ຄວາມປອດໄພ">
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

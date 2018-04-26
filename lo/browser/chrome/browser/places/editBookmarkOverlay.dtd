@@ -3,3 +3,23 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY editBookmarkOverlay.name.label                      "ຊື່:">
+<!ENTITY editBookmarkOverlay.name.accesskey                  "N">
+<!ENTITY editBookmarkOverlay.location.label                  "ຕຳແຫນ່ງທີ່ຕັ້ງ:">
+<!ENTITY editBookmarkOverlay.location.accesskey              "L">
+<!ENTITY editBookmarkOverlay.feedLocation.label              "ຕຳແຫນ່ງທີ່ຕັ້ງຂອງຟີດ:">
+<!ENTITY editBookmarkOverlay.feedLocation.accesskey          "F">
+<!ENTITY editBookmarkOverlay.siteLocation.label              "ຕຳແຫນ່ງທີ່ຕັ້ງຂອງເວັບໄຊທ໌:">
+<!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
+<!ENTITY editBookmarkOverlay.folder.label                    "ໂຟນເດີ:">
+<!ENTITY editBookmarkOverlay.expanderUp.tooltip              "ເຊື່ອງ">
+<!ENTITY editBookmarkOverlay.tags.label                      "ແທັກ:">
+<!ENTITY editBookmarkOverlay.tags.accesskey                  "T">
+<!ENTITY editBookmarkOverlay.description.label               "ຄຳອະທິບາຍ:">
+<!ENTITY editBookmarkOverlay.description.accesskey           "D">
+<!ENTITY editBookmarkOverlay.keyword.label                   "ຄຳທື່ຕ້ອງການຄົ້ນຫາ:">
+<!ENTITY editBookmarkOverlay.keyword.accesskey               "K">
+<!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "ສະແດງແທັກທັງຫມົດ">
+<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "h">
+<!ENTITY editBookmarkOverlay.choose.label                    "ເລືອກ…">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "ໂຟນເດີໃຫມ່">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "o">

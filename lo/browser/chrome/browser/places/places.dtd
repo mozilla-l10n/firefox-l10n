@@ -3,20 +3,69 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+<!ENTITY places.library.title  "ຄັງ">
+<!ENTITY organize.label        "ຈັດລະບຽບ">
+<!ENTITY organize.accesskey    "O">
 
 <!ENTITY file.close.label               "ປິດ">
 <!ENTITY file.close.accesskey           "C">
+<!ENTITY cmd.close.key                  "w">
+<!ENTITY views.label                    "ມຸມມອງ">
+<!ENTITY views.accesskey                "V">
+<!ENTITY views.tooltip                  "ປ່ຽນມຸມມອງຂອງທ່ານ">
+<!ENTITY view.columns.accesskey         "C">
+<!ENTITY view.sort.label                "ລຽງ">
+<!ENTITY view.sort.accesskey            "S">
+<!ENTITY view.unsorted.accesskey        "U">
+<!ENTITY view.sortAscending.accesskey   "A">
+<!ENTITY view.sortDescending.accesskey  "Z">
 
+<!ENTITY importBookmarksFromHTML.accesskey "I">
+<!ENTITY exportBookmarksToHTML.accesskey   "E">
+<!ENTITY importOtherBrowser.accesskey      "A">
 
+<!ENTITY cmd.backup.accesskey           "B">
+<!ENTITY cmd.restore2.label             "ກູ້ຄືນ">
+<!ENTITY cmd.restore2.accesskey         "R">
+<!ENTITY cmd.restoreFromFile.label      "ເລືອກໄຟລ໌…">
+<!ENTITY cmd.restoreFromFile.accesskey  "C">
 
+<!ENTITY cmd.deleteDomainData.accesskey "F">
 
+<!ENTITY cmd.open.label                  "ເປີດ">
+<!ENTITY cmd.open.accesskey              "O">
+<!ENTITY cmd.open_window.label           "ເປີດໃນຫນ້າຕ່າງໃຫມ່">
+<!ENTITY cmd.open_window.accesskey       "N">
+<!ENTITY cmd.open_private_window.label     "ເປີດໃນຫນ້າຕ່າງສ່ວນຕົວໃຫມ່">
+<!ENTITY cmd.open_private_window.accesskey "P">
+<!ENTITY cmd.open_tab.label              "ເປິດໃນແທັບໃຫມ່">
+<!ENTITY cmd.open_tab.accesskey          "w">
+<!ENTITY cmd.open_all_in_tabs.label      "ເປີດທັງຫມົດໃນແທັບ">
+<!ENTITY cmd.open_all_in_tabs.accesskey  "O">
 
+<!ENTITY cmd.properties.label      "ຄຸນສົມບັດ">
+<!ENTITY cmd.properties.accesskey  "i">
 
+<!ENTITY cmd.sortby_name.label              "ລຽງຕາມຊື່">
+<!ENTITY cmd.sortby_name.accesskey          "S">
+<!ENTITY cmd.context_sortby_name.accesskey  "r">
 
+<!ENTITY cmd.new_bookmark.label            "ບຸກມາກໃຫມ່…">
+<!ENTITY cmd.new_bookmark.accesskey        "B">
+<!ENTITY cmd.new_folder.label              "ໂຟນເດີ…">
+<!ENTITY cmd.new_folder.accesskey          "o">
+<!ENTITY cmd.context_new_folder.accesskey  "F">
+<!ENTITY cmd.new_separator.label           "ຕົວແບ່ງໃຫມ່">
+<!ENTITY cmd.new_separator.accesskey       "S">
 
+<!ENTITY cmd.reloadLivebookmark.label      "ໂຫລດບຸກມາກສົດໃຫມ່">
+<!ENTITY cmd.reloadLivebookmark.accesskey  "R">
 
+<!ENTITY cmd.moveBookmarks.accesskey              "M">
 
-<!ENTITY col.url.label           "ຕຳແຫນ່ງທີ່ຢູ່">
+<!ENTITY col.name.label          "ຊື່">
+<!ENTITY col.tags.label          "ແທັກ">
+<!ENTITY col.url.label           "ຕຳແຫນ່ງທີ່ຕັ້ງ">
 
 
 

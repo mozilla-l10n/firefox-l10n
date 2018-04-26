@@ -56,6 +56,7 @@
 <!ENTITY cmd.show.accesskey               "F">
 <!ENTITY cmd.showMac.label                "ສະແດງໃນ Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.showDownloads.label          "ສະແດງໂຟນເດີດາວໂຫລດ">
 <!ENTITY cmd.retry.label                  "ລອງໃຫມ່ອີກຄັ້ງ">
 <!ENTITY cmd.goToDownloadPage.label       "ໄປທີ່ຫນ້າດາວໂຫລດ">
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">
@@ -76,13 +77,13 @@
      This is the tooltip of the action button shown when malware is blocked.
      -->
 <!ENTITY cmd.removeFile.label             "ລົບໄຟລອອກ">
-<!-- LOCALIZATION NOTE (cmd.chooseUnblock.tooltip):
+<!-- LOCALIZATION NOTE (cmd.chooseUnblock.label):
      This is the tooltip of the action button shown when potentially unwanted
      downloads are blocked. This opens a dialog where the user can choose
      whether to unblock or remove the download. Removing is the default option.
      -->
 <!ENTITY cmd.chooseUnblock.label          "ລົບໄຟລອອກ ຫລື ອະນຸຍາດໃຫ້ດາວໂຫລດ">
-<!-- LOCALIZATION NOTE (cmd.chooseOpen.tooltip):
+<!-- LOCALIZATION NOTE (cmd.chooseOpen.label):
      This is the tooltip of the action button shown when uncommon downloads are
      blocked.This opens a dialog where the user can choose whether to open the
      file or remove the download. Opening is the default option.
@@ -93,21 +94,25 @@
      Displayed when hovering a blocked download, indicates that it's possible to
      show more information for user to take the next action.
      -->
+<!ENTITY showMoreInformation.label        "ສະແດງຂໍ້ມູນເພີ່ມເຕີມ">
 
 <!-- LOCALIZATION NOTE (openFile.label):
      Displayed when hovering a complete download, indicates that it's possible to
      open the file using an app available in the system.
      -->
+<!ENTITY openFile.label                   "ເປີດໄຟລ໌">
 
 <!-- LOCALIZATION NOTE (retryDownload.label):
      Displayed when hovering a download which is able to be retried by users,
      indicates that it's possible to download this file again.
      -->
+<!ENTITY retryDownload.label              "ລອງດາວໂຫຼດໃໝ່">
 
 <!-- LOCALIZATION NOTE (cancelDownload.label):
      Displayed when hovering a download which is able to be cancelled by users,
      indicates that it's possible to cancel and stop the download.
      -->
+<!ENTITY cancelDownload.label             "ຍົກເລີກການດາວໂຫລດ">
 
 <!-- LOCALIZATION NOTE (blocked.label):
      Shown as a tag before the file name for some types of blocked downloads.
@@ -130,7 +135,17 @@
 <!ENTITY downloadsHistory.label           "ສະແດງການດາວໂຫລດທັງຫມົດ">
 <!ENTITY downloadsHistory.accesskey       "S​">
 
-<!ENTITY openDownloadsFolder.label       "ເປີດໂຟນເດີສຳລັບການດາວໂຫລດ">
+<!-- LOCALIZATION NOTE (downloadDetails.label):
+     This string is shown at the top of the Download Details Panel, to indicate
+     that we are showing the details of a single download.
+     -->
+<!ENTITY downloadDetails.label            "ລາຍລະອຽດການດາວໂຫລດ">
+
+<!-- LOCALIZATION NOTE (openDownloadsFolder.label):
+     This command is not currently available in the user interface, but the
+     string was preserved by bug 1362207 to be used in a future version.
+     -->
+<!ENTITY openDownloadsFolder.label        "ເປີດໂຟນເດີສຳລັບການດາວໂຫລດ">
 
 <!ENTITY clearDownloadsButton.label       "ລ້າງການດາວໂຫລດ">
 <!ENTITY clearDownloadsButton.tooltip     "ລ້າງການດາວໂຫລດທີ່ສຳເລັດແລ້ວ, ທີ່ຖືກຍົກເລີກ ແລະ ການດາວໂຫລດທີ່ລົ້ມເຫລວ.">
@@ -144,6 +159,7 @@
 <!-- LOCALIZATION NOTE (downloadsPanelEmpty.label):
      This string is shown when there are no items in the Downloads Panel.
      -->
+<!ENTITY downloadsPanelEmpty.label        "ບໍ່ມີການດາວໂຫລດໃນເຊສຊັນນີ້.">
 
 <!-- LOCALIZATION NOTE (downloadsListNoMatch.label):
      This string is shown when some search terms are specified, but there are no
