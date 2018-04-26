@@ -73,6 +73,26 @@ should-restart-ok = Перезапустить { -brand-short-name } сейча�
 cancel-no-restart-button = Отмена
 restart-later = Перезапустить позже
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = Расширение <img data-l10n-name="icon"/> { $name } контролирует вашу домашнюю страницу.
+# This string is shown to notify the user that their new tab page
+# is being controlled by an extension.
+extension-controlled-new-tab-url = Расширение <img data-l10n-name="icon"/> { $name } контролирует вашу страницу новой вкладки.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlled-proxy-config = Расширение <img data-l10n-name="icon"/> { $name } контролирует способ соединения { -brand-short-name } с Интернетом.
+
 ## Preferences UI Search Results
 
 search-results-header = Результаты поиска
@@ -300,6 +320,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Прокси-сервер
+network-proxy-connection-description = Настроить, как { -brand-short-name } соединяется с Интернетом.
 network-proxy-connection-learn-more = Подробнее
 network-proxy-connection-settings =
     .label = Настроить…
