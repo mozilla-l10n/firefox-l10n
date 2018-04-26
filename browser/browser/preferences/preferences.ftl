@@ -74,9 +74,21 @@ restart-later = नंतर पुनःसुरु करा
 ## Variables:
 ##   $name (String): name of the extension
 
+# This string is shown to notify the user that the default search engine
+# is being controlled by an extension.
+extension-controlled-default-search = एक एक्स्टेंशन, <img data-l10n-name="icon"/> { $name }, ने आपले शोध इंजिन सेट केले आहे.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = एक विस्तार, <img data-l10n-name="icon"/> { $name } ला, कंटेनर टॅबची आवश्यकता आहे.
+# This string is shown to notify the user that their tracking protection preferences
+# are being controlled by an extension.
+extension-controlled-websites-tracking-protection-mode = एक एक्स्टेंशन, <img data-l10n-name="icon"/> { $name }, ट्रॅकिंग संरक्षण नियंत्रित करत आहे.
+# This string is shown after the user disables an extension to notify the user
+# how to enable an extension that they disabled.
+#
+# <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
+# <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
+extension-controlled-enable = एक्स्टेंशन कार्यान्वित करण्यासाठी <img data-l10n-name="menu-icon"/> मेनू मध्ये <img data-l10n-name="addons-icon"/> अॅड-ऑन वर जा.
 
 ## Preferences UI Search Results
 
