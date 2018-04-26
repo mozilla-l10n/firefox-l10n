@@ -38,6 +38,10 @@
 <!ENTITY bookmarksToolbar.tooltip         "Bar alatan Tandabuku">
 <!ENTITY navigationToolbar.tooltip        "Bar Alatan Navigasi">
 
+<!ENTITY editBookmark.done.label "Siap">
+<!ENTITY editBookmark.cancel.label "Batal">
+<!ENTITY editBookmark.removeBookmark.accessKey "B">
+
 <!-- Toolbar items --> 
 <!ENTITY backButton.label             "Undur">
 <!ENTITY backButton.tooltip           "Undur satu halaman">
