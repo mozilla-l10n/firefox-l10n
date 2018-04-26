@@ -282,6 +282,12 @@
 <!ENTITY pref_whats_new_notification "Qué hai nuevo en &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Deprendi más tocante a les carauterístiques nueves dempués d\&apos;anovar">
 
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+<!ENTITY pref_feature_tips_notification_summary "Deprendi más tocante a usar &brandShortName; y otros productos de &vendorShortName;">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "Carauteurístiques esperimentales">
@@ -536,7 +542,7 @@
 <!ENTITY pref_compact_tabs_summary2 "Organiza les llingüetes en dos columnes nel mou panorámicu">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
-     any page is removed frome about:home. This includes pages that are in history,
+     any page is removed from about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Desanicióse la páxina">
 <!ENTITY folder_removed "Desanicióse la carpeta">
@@ -754,7 +760,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Cabera sincronización: &formatS;">
-<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!-- Localization note: Used when the sync has not happened yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Cabera sincronización: enxamás">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
