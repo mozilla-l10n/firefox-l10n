@@ -6,7 +6,7 @@
 <!ENTITY  button-back-mac.accesskey    "U">
 <!ENTITY  button-next-mac.label        "Teruskan">
 <!ENTITY  button-next-mac.accesskey    "a">
-<!ENTITY  button-finish-mac.label      "Selesai">
+<!ENTITY  button-finish-mac.label      "Siap">
 <!ENTITY  button-cancel-mac.label      "Batal">
 
 <!ENTITY  button-back-unix.label       "Undur">
