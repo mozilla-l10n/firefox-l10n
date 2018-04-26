@@ -73,17 +73,50 @@ should-restart-ok = Genstart { -brand-short-name } nu
 cancel-no-restart-button = Annuller
 restart-later = Genstart senere
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = Udvidelsen <img data-l10n-name="icon"/> { $name } kontrollerer din startside.
+# This string is shown to notify the user that their new tab page
+# is being controlled by an extension.
+extension-controlled-new-tab-url = Udvidelsen <img data-l10n-name="icon"/> { $name } kontrollerer siden Nyt faneblad.
+# This string is shown to notify the user that the default search engine
+# is being controlled by an extension.
+extension-controlled-default-search = Udvidelsen <img data-l10n-name="icon"/> { $name } har indstillet din standard-søgetjeneste.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlled-privacy-containers = Udvidelsen <img data-l10n-name="icon"/> { $name } kræver, at kontekst-faneblade er slået til.
+# This string is shown to notify the user that their tracking protection preferences
+# are being controlled by an extension.
+extension-controlled-websites-tracking-protection-mode = Udvidelsen <img data-l10n-name="icon"/> { $name } kontrollerer beskyttelse mod sporing.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlled-proxy-config = Udvidelsen <img data-l10n-name="icon"/> { $name } kontrollerer, hvordan { -brand-short-name } opretter forbindelse til internettet.
+# This string is shown after the user disables an extension to notify the user
+# how to enable an extension that they disabled.
+#
+# <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
+# <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
+extension-controlled-enable = Gå til tilføjelsen <img data-l10n-name="addons-icon"/> i <img data-l10n-name="menu-icon"/>-menuen for at aktivere udvidelsen.
+
 ## Preferences UI Search Results
 
 search-results-header = Søgeresultater
-
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
 search-results-empty-message =
     { PLATFORM() ->
         [windows] Der er ingen resultater for "<span data-l10n-name="query"></span>" i indstillingerne.
        *[other] Der er ingen resultater for "<span data-l10n-name="query"></span>" i indstillingerne.
     }
-
 search-results-help-link = Har du brug for hjælp? Besøg <a data-l10n-name="url">Hjælp til { -brand-short-name }</a>
 
 ## General Section
@@ -297,6 +330,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Netværks-proxy
+network-proxy-connection-description = Indstil hvordan { -brand-short-name } skal oprette forbindelse til internettet.
 network-proxy-connection-learn-more = Læs mere
 network-proxy-connection-settings =
     .label = Indstillinger…
