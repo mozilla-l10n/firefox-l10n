@@ -89,6 +89,9 @@ extension-controlled-default-search = <img data-l10n-name="icon"/> { $name }, �
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = <img data-l10n-name="icon"/> { $name }, நீட்சிக்கு கலன் கீற்றுகள் தேவைப்படுகிறது.
+# This string is shown to notify the user that their tracking protection preferences
+# are being controlled by an extension.
+extension-controlled-websites-tracking-protection-mode = <img data-l10n-name="icon"/> { $name }, நீட்சியானது தங்களது கண்காணிப்புப் பாதுகாப்பை கட்டுப்படுத்துகிறது.
 
 ## Preferences UI Search Results
 
