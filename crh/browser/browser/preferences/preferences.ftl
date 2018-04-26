@@ -64,6 +64,23 @@ should-restart-title = { -brand-short-name } tarayıcısını yeniden başlat
 should-restart-ok = { -brand-short-name } tarayıcısını yeniden başlat
 restart-later = Daha sonra yeniden başlat
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+# This string is shown to notify the user that the default search engine
+# is being controlled by an extension.
+extension-controlled-default-search = Bir eklenti, <img data-l10n-name="icon"/> { $name }, ögbelgilengen qıdırma motorıñıznı tesbit etkendir.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlled-privacy-containers = Bir eklenti, <img data-l10n-name="icon"/> { $name }, İhtivacı İlmeklerni şart qoşa.
+
 ## Preferences UI Search Results
 
 search-results-header = Qıdırma Neticeleri
