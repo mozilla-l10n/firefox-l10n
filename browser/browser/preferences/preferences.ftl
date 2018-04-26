@@ -69,6 +69,20 @@ should-restart-ok = Επανεκκίνηση του { -brand-short-name } τώρ
 cancel-no-restart-button = Ακύρωση
 restart-later = Επανεκκίνηση αργότερα
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+# This string is shown to notify the user that the default search engine
+# is being controlled by an extension.
+extension-controlled-default-search = Μια επέκταση, <img data-l10n-name="icon"/> { $name }, έχει ορίσει την προεπιλεγμένη μηχανή αναζήτησής σας.
+
 ## Preferences UI Search Results
 
 search-results-header = Αποτελέσματα αναζήτησης
