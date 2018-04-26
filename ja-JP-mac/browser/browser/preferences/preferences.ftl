@@ -80,9 +80,30 @@ restart-later = 後で再起動
 ## Variables:
 ##   $name (String): name of the extension
 
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = 拡張機能 <img data-l10n-name="icon"/> { $name } によりホームページ設定が変更されています。
+# This string is shown to notify the user that their new tab page
+# is being controlled by an extension.
+extension-controlled-new-tab-url = 拡張機能 <img data-l10n-name="icon"/> { $name } により新規タブページが変更されています。
+# This string is shown to notify the user that the default search engine
+# is being controlled by an extension.
+extension-controlled-default-search = 拡張機能 <img data-l10n-name="icon"/> { $name } によりデフォルト検索エンジンが変更されています。
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = 拡張機能 <img data-l10n-name="icon"/> { $name } がコンテナータブを必要としています。
+# This string is shown to notify the user that their tracking protection preferences
+# are being controlled by an extension.
+extension-controlled-websites-tracking-protection-mode = 拡張機能 <img data-l10n-name="icon"/> { $name } がトラッキング防止の設定を変更しています。
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlled-proxy-config = 拡張機能 <img data-l10n-name="icon"/> { $name } が { -brand-short-name } のインターネット接続方法の設定を変更しています。
+# This string is shown after the user disables an extension to notify the user
+# how to enable an extension that they disabled.
+#
+# <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
+# <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
+extension-controlled-enable = 拡張機能を有効にするには、<img data-l10n-name="menu-icon"/> メニューから <img data-l10n-name="addons-icon"/> アドオンを開きます。
 
 ## Preferences UI Search Results
 
@@ -296,6 +317,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = ネットワークプロキシ
+network-proxy-connection-description = { -brand-short-name } のインターネットへの接続方法を設定します。
 network-proxy-connection-learn-more = 詳細
 network-proxy-connection-settings =
     .label = 接続設定...
