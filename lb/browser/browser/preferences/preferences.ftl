@@ -287,6 +287,7 @@ sync-engine-creditcards =
     .label = Kreditkaarten 
     .tooltiptext = Nimm, Nummeren an Oflafsatum
     .accesskey = C
+sync-device-name-header = Numm vum Apparat
 sync-device-name-cancel =
     .label = Ofbriechen
     .accesskey = n
