@@ -145,8 +145,11 @@ startup-blank-page =
     .label = Hollu hello meho
 startup-prev-session =
     .label = Hollit kenorɗe maa ɗee e tabbe cakkitiiɗe
+startup-restore-previous-session =
+    .label = Artir rogere ɓennunde ndee
+    .accesskey = s
 disable-extension =
-    .label = Daaƴ Timmitol
+    .label = Daaƴ Jokkel
 home-page-header = Hello jaɓɓorgo
 tabs-group-header = Tabbe
 ctrl-tab-recently-used-order =
@@ -341,6 +344,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Kenorɗe Kese kam e Tabbe
+home-new-windows-tabs-description2 = Suɓo ko njiyataa so a udditii hello maa jaɓɓorgo, henorde hesere, e tabbere hesere.
 
 ## Home Section - Home Page Customization
 
@@ -531,6 +535,9 @@ privacy-header = Suturo Wanngorde
 ## Privacy Section - Forms
 
 forms-header = Formileeruuji & pinle
+forms-ask-to-save-logins =
+    .label = Laaɓndo mbele a hisnat baccooje e pinle lowe
+    .accesskey = r
 forms-exceptions =
     .label = Paltooje…
     .accesskey = a
