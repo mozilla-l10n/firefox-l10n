@@ -543,7 +543,7 @@
 <!ENTITY pref_compact_tabs_summary2 "Susun tab dua lajur dalam mod potret">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
-     any page is removed frome about:home. This includes pages that are in history,
+     any page is removed from about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Halaman telah dibuang">
 <!ENTITY folder_removed "Folder dibuang">
@@ -749,7 +749,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 <!ENTITY actionbar_menu "Menu">
-<!ENTITY actionbar_done "Selesai">
+<!ENTITY actionbar_done "Siap">
 
 <!-- Voice search in the awesome bar -->
 <!ENTITY voicesearch_prompt "Cakap sekarang">
@@ -761,7 +761,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Sync terakhir: &formatS;">
-<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!-- Localization note: Used when the sync has not happened yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Sync terakhir: jangan sesekali">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
