@@ -83,6 +83,9 @@ restart-later = Arvi torna Dòppo
 ## Variables:
 ##   $name (String): name of the extension
 
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = 'Na estenscion, <img data-l10n-name="icon"/> { $name }, a contròlla a teu pagina prinçipâ.
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = 'Na estenscion, <img data-l10n-name="icon"/> { $name }, a contròlla a teu pagina neuvo feuggio.
