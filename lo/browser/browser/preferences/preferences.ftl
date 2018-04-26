@@ -288,6 +288,28 @@ sync-engine-logins =
     .label = ການເຂົ້າສູ່ລະບົບ
     .tooltiptext = ຊື່ຜູ້ໃຊ້ແລະລະຫັດຜ່ານທີ່ທ່ານໄດ້ບັນທຶກໄວ້
     .accesskey = L
+sync-engine-addresses =
+    .label = ທີ່ຢູ່
+    .tooltiptext = ທີ່ຢູ່ໄປສະນີທີ່ທ່ານບັນທຶກໄວ້ (ສະເພາະເກືອບເທົ່ານັ້ນ)
+    .accesskey = e
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] ທາງເລືອກ
+           *[other] ຕັ້ງຄ່າ
+        }
+    .tooltiptext = ການຄັ້ງຄ່າທົ່ວໄປ, ສ່ວນໂຕ, ແລະຄວາມປອດໄພທີ່ທ່ານໄດ້ປ່ຽນແປງ
+    .accesskey = s
+sync-device-name-header = ຊື່ອຸປະກອນ
+sync-device-name-cancel =
+    .label = ຍົກເລີກ
+    .accesskey = n
+sync-device-name-save =
+    .label = ບັນທຶກ
+    .accesskey = v
+sync-mobilepromo-single = ເຊື່ອມຕໍ່ກັບອຸປະກອນອື່ນ
+sync-tos-link = ເງື່ອນໄຂການໃຫ້ບໍລິການ
+sync-fxa-privacy-notice = ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ
 
 ## Privacy Section
 
@@ -295,8 +317,11 @@ sync-engine-logins =
 ## Privacy Section - Forms
 
 forms-exceptions =
-    .label = ຍົກເວັ້ນ
+    .label = ຂໍ້ຍົກເວັ້ນ…
     .accesskey = x
+forms-saved-logins =
+    .label = ຂໍ້ມູນການເຂົ້າສູ່ລະບົບທີ່ບັນທຶກໄວ້…
+    .accesskey = L
 forms-master-pw-use =
     .label = ໃຊ້ລະຫັດຜ່ານຫຼັກ
     .accesskey = U
@@ -306,6 +331,18 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
+history-header = ປະຫວັດ
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label = { -brand-short-name } ຈະ
+    .accesskey = w
 history-remember-option-all =
     .label = ບັນທຶກປະຫວັດການໃຊ້ງານ
 history-remember-option-never =
@@ -322,43 +359,111 @@ history-remember-option =
 history-remember-search-option =
     .label = ຈົດຈຳການຄົ້ນຫາ ແລະ ຮູບແບບປະຫວັດການໃຊ້ງານ
     .accesskey = f
+history-clear-on-close-settings =
+    .label = ຕັ້ງຄ່າ…
+    .accesskey = t
+history-clear-button =
+    .label = ລ້າງປະຫວັດ…
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
+sitedata-keep-until-expire =
+    .label = ພວກມັນໝົດອາຍຸ
 sitedata-accept-third-party-always-option =
     .label = ຕະຫລອດເວລາ
 sitedata-accept-third-party-visited-option =
     .label = ຈາກການຢ້ຽມຊົມ
+sitedata-accept-third-party-never-option =
+    .label = ບໍ່ເຄີຍ
+sitedata-clear =
+    .label = ລ້າງຂໍ້ມູນ…
+    .accesskey = l
 sitedata-cookies-exceptions =
-    .label = ຍົກເວັ້ນ
+    .label = ຂໍ້ຍົກເວັ້ນ…
     .accesskey = ຍ
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-history-option =
+    .label = ປະຫວັດການທ່ອງເວັບ
+    .accesskey = ປ
+addressbar-locbar-bookmarks-option =
+    .label = ບຸກມາກ
+    .accesskey = ບ
+addressbar-locbar-openpage-option =
+    .label = ແທັບທີ່ເປີດຢູ່
+    .accesskey = ປ
 
 ## Privacy Section - Tracking
 
+tracking-header = ການປ້ອງກັນການຕິດຕາມ
+tracking-mode-always =
+    .label = ຕະຫລອດເວລາ
+    .accesskey = ຕ
+tracking-mode-private =
+    .label = ສະເພາະໃນຫນ້າຕ່າງແບບສ່ວນຕົວເທົ່ານັ້ນ
+    .accesskey = ສ
+tracking-mode-never =
+    .label = ບໍ່ເຄີຍ
+    .accesskey = ບ
+tracking-exceptions =
+    .label = ຂໍ້ຍົກເວັ້ນ…
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
+permissions-header = ການອະນຸຍາດ
+permissions-location = ຕຳແຫນ່ງທີ່ຕັ້ງ
+permissions-location-settings =
+    .label = ການຕັ້ງຄ່າ…
+    .accesskey = t
+permissions-camera = ກ້ອງຖ່າຍຮູບ
+permissions-camera-settings =
+    .label = ການຕັ້ງຄ່າ…
+    .accesskey = t
+permissions-microphone = ໄມໂຄຣໂຟນ
+permissions-microphone-settings =
+    .label = ການຕັ້ງຄ່າ…
+    .accesskey = t
+permissions-notification = ການແຈ້ງເຕືອນ
+permissions-notification-settings =
+    .label = ການຕັ້ງຄ່າ…
+    .accesskey = t
+permissions-notification-link = ຮຽນຮູ້ເພີ່ມເຕີມ
 permissions-block-popups =
     .label = ກັນຫນ້າຕ່າງປັອບອັບ
     .accesskey = ກ
 permissions-block-popups-exceptions =
-    .label = ຍົກເວັ້ນ
+    .label = ຂໍ້ຍົກເວັ້ນ…
     .accesskey = ຍ
+permissions-addon-install-warning =
+    .label = ແຈ້ງເຕືອນເມື່ອເວັບໄຊທ໌ມີຄວາມຕ້ອງການຕິດຕັ້ງໂປຣແກຣມເສີມເພີ່ມເຕີມ
+    .accesskey = ຈ
 permissions-addon-exceptions =
-    .label = ຍົກເວັ້ນ
+    .label = ຂໍ້ຍົກເວັ້ນ…
     .accesskey = ຍ
+permissions-a11y-privacy-link = ຮຽນຮູ້ເພີ່ມເຕີມ
 
 ## Privacy Section - Data Collection
 
+collection-privacy-notice = ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ
+collection-health-report-link = ຮຽນຮູ້ເພີ່ມເຕີມ
+collection-browser-errors-link = ຮຽນຮູ້ເພີ່ມເຕີມ
+collection-backlogged-crash-reports-link = ຮຽນຮູ້ເພີ່ມເຕີມ
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = ຄວາມປອດໄພ
+security-enable-safe-browsing-link = ຮຽນຮູ້ເພີ່ມເຕີມ
 
 ## Privacy Section - Certificates
 
+certs-header = ໃບຮັບຮອງ
+certs-devices =
+    .label = ອຸປະກອນຄວາມປອດໄພ…
+    .accesskey = D
