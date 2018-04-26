@@ -98,6 +98,8 @@
 <!ENTITY byDate.accesskey         "d">
 <!ENTITY bySite.label             "Por site">
 <!ENTITY bySite.accesskey         "s">
+<!ENTITY byMostVisited.label      "Por mais visitados">
+<!ENTITY byMostVisited.accesskey  "v">
 <!ENTITY byLastVisited.label      "Por última visita">
 <!ENTITY byLastVisited.accesskey  "l">
 <!ENTITY byDayAndSite.label       "Por data e site">
