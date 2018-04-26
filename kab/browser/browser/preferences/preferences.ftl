@@ -68,6 +68,29 @@ should-restart-ok = Ales asenker { -brand-short-name } tura
 cancel-no-restart-button = Sefsex
 restart-later = Ales asenker ticki
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = Azegrir, <img data-l10n-name="icon"/> { $name }, yesenqad asebter agejdan-inek.
+# This string is shown to notify the user that their new tab page
+# is being controlled by an extension.
+extension-controlled-new-tab-url = Azegrir, <img data-l10n-name="icon"/> { $name }, yesenqad iccer n usebter-inek.
+# This string is shown to notify the user that their tracking protection preferences
+# are being controlled by an extension.
+extension-controlled-websites-tracking-protection-mode = Azegrir, <img data-l10n-name="icon"/> { $name } , atan isefrak amesten mgal aḍfaṛ.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlled-proxy-config = Azegrir, <img data-l10n-name="icon"/> { $name }, isefrak amek { -brand-short-name } ad iqqen γer internet.
+
 ## Preferences UI Search Results
 
 search-results-header = Igmaḍ n unadi
@@ -292,6 +315,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Apruksi n uẓeṭṭa
+network-proxy-connection-description = Swel amek { -brand-short-name } ad iqqen γer internet.
 network-proxy-connection-learn-more = Issin ugar
 network-proxy-connection-settings =
     .label = Iɣewwaṛen…
