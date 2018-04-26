@@ -80,6 +80,9 @@ extension-controlled-default-search = Ekstenzija, <img data-l10n-name="icon"/> {
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Ekstenzija, <img data-l10n-name="icon"/> { $name }, zahtijeva Container tabove.
+# This string is shown to notify the user that their tracking protection preferences
+# are being controlled by an extension.
+extension-controlled-websites-tracking-protection-mode = Proširenje, <img data-l10n-name="icon"/> { $name }, kontroliše zaštitu od praćenja.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
