@@ -73,6 +73,20 @@ should-restart-ok = Ponovno zaženi { -brand-short-name } zdaj
 cancel-no-restart-button = Prekliči
 restart-later = Ponovno zaženi pozneje
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = Razširitev <img data-l10n-name="icon"/> { $name } nadzira vašo domačo stran.
+
 ## Preferences UI Search Results
 
 search-results-header = Rezultati iskanja
