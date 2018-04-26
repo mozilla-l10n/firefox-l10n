@@ -67,6 +67,20 @@ should-restart-ok = Mag-restart { -brand-short-name } ngayon
 cancel-no-restart-button = Kanselahin
 restart-later = I-restart Mamaya
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlled-privacy-containers = Ang extension, <img data-l10n-name="icon"/> { $name }, ay nangangailangan ng mga Tab ng Lalagyan.
+
 ## Preferences UI Search Results
 
 search-results-header = Resulta ng Paghahanap
