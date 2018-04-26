@@ -83,6 +83,30 @@ restart-later = Méi spéit nei starten
 ## Variables:
 ##   $name (String): name of the extension
 
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = D'Erweiderung <img data-l10n-name="icon"/> { $name } kontrolléiert Deng Startsäit.
+# This string is shown to notify the user that their new tab page
+# is being controlled by an extension.
+extension-controlled-new-tab-url = D'Erweiderung <img data-l10n-name="icon"/> { $name } kontrolléiert Deng Startsäit mam neien Tab.
+# This string is shown to notify the user that the default search engine
+# is being controlled by an extension.
+extension-controlled-default-search = D'Erweiderung <img data-l10n-name="icon"/> { $name } huet Deng Standard-Sichmaschinn definéiert.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlled-privacy-containers = D'Erweiderung <img data-l10n-name="icon"/> { $name } brauch Container Tabs.
+# This string is shown to notify the user that their tracking protection preferences
+# are being controlled by an extension.
+extension-controlled-websites-tracking-protection-mode = D'Erweiderung <img data-l10n-name="icon"/> { $name } kontrolléiert de Verfollegungsschutz.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlled-proxy-config = D'Erweiderung <img data-l10n-name="icon"/> { $name } kontrolléiert wéi de { -brand-short-name } sech un den Internet verbënnt.
+# This string is shown after the user disables an extension to notify the user
+# how to enable an extension that they disabled.
+#
+# <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
+# <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
+extension-controlled-enable = Fir d'Erweiderung z'aktivéieren géi op <img data-l10n-name="addons-icon"/> Add-ons am <img data-l10n-name="menu-icon"/> Menü.
 
 ## Preferences UI Search Results
 
@@ -121,6 +145,9 @@ startup-blank-page =
     .label = Eng eidel Säit weisen
 startup-prev-session =
     .label = Deng Fënsteren an Tabs vu leschter Kéier uweisen
+startup-restore-previous-session =
+    .label = Vireg Sessioun restauréieren
+    .accesskey = s
 disable-extension =
     .label = Erweiderung desaktivéieren
 home-page-header = Startsäit
@@ -235,6 +262,10 @@ home-newtabs-mode-label = Nei Tabs
 home-restore-defaults =
     .label = Op de Standard zrécksetzen
     .accesskey = R
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Firefox Home (par defaut)
 home-mode-choice-blank =
     .label = Eidel Säit
 # This string has a special case for '1' and [other] (default). If necessary for
