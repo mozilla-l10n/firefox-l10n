@@ -73,6 +73,23 @@ should-restart-ok = { -brand-short-name } இப்போதே மீட்த�
 cancel-no-restart-button = ரத்து
 restart-later = பின்னர் மீட்துவக்கு
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+# This string is shown to notify the user that the default search engine
+# is being controlled by an extension.
+extension-controlled-default-search = <img data-l10n-name="icon"/> { $name }, நீட்சியானது தங்களது புதிய இயல்புநிலை தேடு பொறியை அமைத்துள்ளது.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlled-privacy-containers = <img data-l10n-name="icon"/> { $name }, நீட்சிக்கு கலன் கீற்றுகள் தேவைப்படுகிறது.
+
 ## Preferences UI Search Results
 
 search-results-header = தேடலின் முடிவுகள்
