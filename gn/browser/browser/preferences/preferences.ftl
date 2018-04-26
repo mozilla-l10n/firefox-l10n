@@ -83,12 +83,24 @@ restart-later = Emoñepyrũjey ag̃ave
 ## Variables:
 ##   $name (String): name of the extension
 
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = Peteĩ jepysokue, <img data-l10n-name="icon"/> { $name }, oma'ẽag̃ui nde kuatiarogue ñepyrũ.
+# This string is shown to notify the user that their new tab page
+# is being controlled by an extension.
+extension-controlled-new-tab-url = Peteĩ jepysokue, <img data-l10n-name="icon"/> { $name }, oma'ẽag̃ui kuatiarogue rendayke pyahúre.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = Peteĩ moĩmbaha, <img data-l10n-name="icon"/> { $name }, omoambue Heka ku'eha reipurúva.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Peteĩ moĩmbaha, <img data-l10n-name="icon"/> { $name }, oikotevẽ Tendayke Ryru rehe.
+# This string is shown to notify the user that their tracking protection preferences
+# are being controlled by an extension.
+extension-controlled-websites-tracking-protection-mode = Peteĩ jepysokue, <img data-l10n-name="icon"/> { $name }, oma'ẽag̃ui temiñemi ñemo'ã rehe.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlled-proxy-config = Peteĩ jepysokue, <img data-l10n-name="icon"/> { $name }, oma'ẽag̃ui { -brand-short-name } ramo ojuajúvo ñanduti rehe.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -320,6 +332,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Proxy ñanduti rehegua
+network-proxy-connection-description = Emboheko { -brand-short-name } ramo ojuajúvo ñanduti rehe.
 network-proxy-connection-learn-more = Kuaave
 network-proxy-connection-settings =
     .label = Ñemboheko…
