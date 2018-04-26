@@ -12,6 +12,7 @@
 <!ENTITY restorepage.showTabs       "ເບິ່ງແທັບກ່ອນຫນ້າ">
 
 <!ENTITY restorepage.restore.access2 "R">
+<!ENTITY restorepage.closeButton2    "ເລີ່ມເຊສຊັນໃຫມ່">
 <!ENTITY restorepage.close.access2   "N">
 
 <!ENTITY restorepage.restoreHeader  "ກູ້ຄືນ">
