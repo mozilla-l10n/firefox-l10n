@@ -86,12 +86,18 @@ restart-later = Mulai Ulang Nanti
 # This string is shown to notify the user that their home page
 # is being controlled by an extension.
 extension-controlled-homepage-override = Ekstensi <img data-l10n-name="icon"/> { $name } mengendalikan laman beranda Anda.
+# This string is shown to notify the user that their new tab page
+# is being controlled by an extension.
+extension-controlled-new-tab-url = Ekstensi <img data-l10n-name="icon"/> { $name } mengendalikan laman Tab Baru Anda.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = Ekstensi <img data-l10n-name="icon"/> { $name } telah menyetel mesin pencari baku Anda.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Ekstensi <img data-l10n-name="icon"/> { $name } membutuhkan Tab Kontainer.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlled-proxy-config = Ekstensi <img data-l10n-name="icon"/> { $name } mengendalikan cara { -brand-short-name } tersambung ke internet.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
