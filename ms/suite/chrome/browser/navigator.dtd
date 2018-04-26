@@ -74,7 +74,7 @@
 <!ENTITY bookmarksToolbarChevron.tooltip "Papar tandabuku selanjutnya">
 
 <!-- Statusbar -->
-<!ENTITY  statusText.label            "Selesai">
+<!ENTITY  statusText.label            "Siap">
 
 <!ENTITY popupIcon.tooltiptext      "Buang sekatan popup laman web ini">
 

@@ -452,7 +452,7 @@
 <!ENTITY editRemoteContentSettings.accesskey "E">
 
 <!-- Statusbar -->
-<!ENTITY statusText.label "Selesai">
+<!ENTITY statusText.label "Siap">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Buka Mesej dalam Tetingkap Baru">
