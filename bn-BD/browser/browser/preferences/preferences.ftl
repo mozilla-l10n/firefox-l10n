@@ -83,6 +83,9 @@ restart-later = পরে রিস্টার্ট করা হবে
 ## Variables:
 ##   $name (String): name of the extension
 
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = একটি এক্সটেনসন, <img data-l10n-name="icon"/> { $name }, আপনার নীড় পাতা নিয়ন্ত্রণ করছে।
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = একটি এক্সটেনসন, <img data-l10n-name="icon"/> { $name }, আপনার নতুন ট্যাব পাতা নিয়ন্ত্রণ করছে।
