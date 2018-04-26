@@ -70,6 +70,41 @@ should-restart-ok = Rinise { -brand-short-name }-in tani
 cancel-no-restart-button = Anuloje
 restart-later = Riniseni Më Vonë
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = Faqen tuaj hyrëse e kontrollon një zgjerim, <img data-l10n-name="icon"/> { $name }.
+# This string is shown to notify the user that their new tab page
+# is being controlled by an extension.
+extension-controlled-new-tab-url = Faqen tuaj Skedë e Re e kontrollon një zgjerim, <img data-l10n-name="icon"/> { $name }.
+# This string is shown to notify the user that the default search engine
+# is being controlled by an extension.
+extension-controlled-default-search = Një zgjerim, <img data-l10n-name="icon"/> { $name }, ka caktuar motorin tuaj parazgjedhje për kërkime.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlled-privacy-containers = Një zgjerim, <img data-l10n-name="icon"/> { $name }, lyp Skeda Kontejneri.
+# This string is shown to notify the user that their tracking protection preferences
+# are being controlled by an extension.
+extension-controlled-websites-tracking-protection-mode = Një zgjerim, <img data-l10n-name="icon"/> { $name }, po kontrollon mbrojtjen nga gjurmimet.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlled-proxy-config = Një zgjerim, <img data-l10n-name="icon"/> { $name }, kontrollon se si lidhet në internet { -brand-short-name }-i.
+# This string is shown after the user disables an extension to notify the user
+# how to enable an extension that they disabled.
+#
+# <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
+# <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
+extension-controlled-enable = Që të aktivizoni zgjerimin, shkoni te Shtesa <img data-l10n-name="addons-icon"/> te menuja <img data-l10n-name="menu-icon"/>.
+
 ## Preferences UI Search Results
 
 search-results-header = Përfundime Kërkimi
@@ -294,6 +329,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Ndërmjetës Rrjeti
+network-proxy-connection-description = Formësoni se si lidhet në internet { -brand-short-name }-i.
 network-proxy-connection-learn-more = Mësoni Më Tepër
 network-proxy-connection-settings =
     .label = Rregullime…
