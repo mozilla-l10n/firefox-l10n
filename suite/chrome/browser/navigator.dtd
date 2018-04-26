@@ -38,6 +38,9 @@
 <!ENTITY bookmarksToolbar.tooltip         "Bokmerkelinje">
 <!ENTITY navigationToolbar.tooltip        "Navigasjonsverktøylinje">
 
+<!ENTITY editBookmark.done.label "Ferdig">
+<!ENTITY editBookmark.cancel.label "Avbryt">
+
 <!-- Toolbar items --> 
 <!ENTITY backButton.label             "Tilbake">
 <!ENTITY backButton.tooltip           "Gå tilbake en side">
