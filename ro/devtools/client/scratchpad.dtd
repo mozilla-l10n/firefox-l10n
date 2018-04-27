@@ -49,6 +49,7 @@
 
 <!ENTITY viewMenu.accesskey           "V">
 
+<!ENTITY lineNumbers.label             "Arată numerele rândurilor">
 <!ENTITY lineNumbers.accesskey         "L">
 
 <!ENTITY wordWrap.accesskey            "W">
