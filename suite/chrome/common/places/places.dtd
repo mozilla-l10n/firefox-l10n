@@ -1,0 +1,62 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+<!ENTITY organize.label        "Organizar">
+<!ENTITY organize.tooltip      "Organizar seus favoritos">
+
+<!ENTITY file.close.label               "Fechar">
+<!ENTITY views.tooltip                  "Alterar o modo de exibição">
+<!ENTITY view.columns.label             "Exibir colunas">
+<!ENTITY view.sort.label                "Ordenar">
+<!ENTITY view.unsorted.label            "Não ordenado">
+<!ENTITY view.sortAscending.label       "Ordem crescente">
+<!ENTITY view.sortDescending.label      "Ordem decrescente">
+
+<!ENTITY exportBookmarksToHTML.label       "Exportar favoritos como HTML…">
+<!ENTITY importOtherBrowser.label          "Importar dados de outro navegador…">
+
+<!ENTITY cmd.backup.label               "Backup…">
+<!ENTITY cmd.restore2.label             "Restaurar">
+<!ENTITY cmd.restoreFromFile.label      "Selecionar arquivo…">
+
+<!ENTITY cmd.deleteDomainData.label     "Limpar tudo sobre este site">
+
+<!ENTITY cmd.open.label                  "Abrir">
+<!ENTITY cmd.open_window.label           "Abrir em uma nova janela">
+<!ENTITY cmd.open_private_window.label     "Abrir em uma nova janela privativa">
+<!ENTITY cmd.open_tab.label              "Abrir em uma nova aba">
+<!ENTITY cmd.open_all_in_tabs.label      "Abrir tudo em abas">
+
+<!ENTITY cmd.properties.label      "Propriedades">
+
+<!ENTITY cmd.sortby_name.label              "Ordenar por nome">
+
+<!ENTITY cmd.new_bookmark.label            "Novo favorito…">
+<!ENTITY cmd.new_folder.label              "Nova pasta…">
+<!ENTITY cmd.new_separator.label           "Novo separador">
+
+<!ENTITY cmd.reloadLivebookmark.label      "Recarregar RSS">
+
+<!ENTITY col.name.label          "Nome">
+<!ENTITY col.tags.label          "Tags">
+<!ENTITY col.mostrecentvisit.label "Recentemente visitado">
+<!ENTITY col.visitcount.label    "Número de visitas">
+<!ENTITY col.description.label   "Descrição">
+<!ENTITY col.dateadded.label     "Adicionado">
+<!ENTITY col.lastmodified.label  "Última modificação">
+
+<!ENTITY search.placeholder  "Pesquisar">
+
+
+<!ENTITY detailsPane.more.label "Mais">
+<!ENTITY detailsPane.less.label "Menos">
+<!ENTITY detailsPane.selectAnItemText.description "Selecione um item para ver e editar as suas propriedades">
+
+<!ENTITY view.label               "Ver">
+<!ENTITY byDate.label             "Pela data">
+<!ENTITY bySite.label             "Pelo site">
+<!ENTITY byMostVisited.label      "Pelo número de visitas">
+<!ENTITY byLastVisited.label      "Pela última visita">
+<!ENTITY byDayAndSite.label       "Pela data e site">
