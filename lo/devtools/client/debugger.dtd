@@ -13,7 +13,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.closeButton.tooltip): This is the tooltip for
   -  the button that closes the debugger UI. -->
-<!ENTITY debuggerUI.closeButton.tooltip "ອອກ">
+<!ENTITY debuggerUI.closeButton.tooltip "ປິດ">
 
 <!-- LOCALIZATION NOTE (debuggerUI.panesButton.tooltip): This is the tooltip for
   -  the button that toggles the panes visible or hidden in the debugger UI. -->
@@ -87,7 +87,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
   -  in the source editor's context menu for the token search operation. -->
 
-<!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
+<!-- LOCALIZATION NOTE (debuggerUI.searchGoToLine): This is the text that appears
   -  in the source editor's context menu for the line search operation. -->
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchVariable): This is the text that appears
@@ -106,7 +106,7 @@
   -  appears in the source editor context menu for adding a conditional
   -  breakpoint. -->
 
-<!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
+<!-- LOCALIZATION NOTE (debuggerUI.seEditMenuCondBreak): This is the text that
   -  appears in the source editor context menu for editing a breakpoint. -->
 
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
@@ -118,7 +118,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.addWatch): This is the text that
   -  appears in the watch expressions context menu for adding an expression. -->
 
-<!-- LOCALIZATION NOTE (debuggerUI.removeWatch): This is the text that
+<!-- LOCALIZATION NOTE (debuggerUI.removeAllWatch): This is the text that
   -  appears in the watch expressions context menu for removing all expressions. -->
 
 <!-- LOCALIZATION NOTE (debuggerUI.stepping): These are the keycodes that
