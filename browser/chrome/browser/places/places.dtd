@@ -106,13 +106,13 @@
 
 <!ENTITY view.label               "Papar">
 <!ENTITY view.accesskey           "a">
-<!ENTITY byDate.label             "Secara Tarikh">
+<!ENTITY byDate.label             "Mengikut Tarikh">
 <!ENTITY byDate.accesskey         "c">
 <!ENTITY bySite.label             "Mengikut Laman">
 <!ENTITY bySite.accesskey         "i">
-<!ENTITY byMostVisited.label      "Mengikut Paling Banyak Dilayari">
+<!ENTITY byMostVisited.label      "Mengikut Paling Dilawati">
 <!ENTITY byMostVisited.accesskey  "k">
-<!ENTITY byLastVisited.label      "Mengikut Pelayaran Terakhir">
+<!ENTITY byLastVisited.label      "Mengikut Terakhir Dilawati">
 <!ENTITY byLastVisited.accesskey  "L">
 <!ENTITY byDayAndSite.label       "Mengikut Tarikh dan Laman">
 <!ENTITY byDayAndSite.accesskey   "t">
