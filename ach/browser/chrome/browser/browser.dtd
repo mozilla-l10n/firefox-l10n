@@ -60,6 +60,7 @@ can reach it easily. -->
 <!ENTITY  closeTab.label                     "Lor dirica matidi">
 <!ENTITY  closeTab.accesskey                 "L">
 
+
 <!ENTITY  listAllTabs.label      "Rwe dirica matino weng">
 
 <!ENTITY tabCmd.label "Drica matidi manyen">
@@ -218,6 +219,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Lok kono nyo itwero nongo jami angeya ki i kakube ne">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Ki tye ka loono layeny ki kama bor">
 
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Lo nywako lamak cal ki/onyo mikropon mamegi ki kakube">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Lo nywako mikropon mamegi ki kakube">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Lo nywako dirica onyo kio mamegi ki kakube">
@@ -261,7 +263,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addBookmarksMenu.label             "Med jami ayera me alamabuk ii Gitic">
 <!ENTITY removeBookmarksMenu.label          "Kwany jami ayera me alamabuk ki i Gitic">
 
-<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 <!ENTITY bookmarksGtkCmd.commandkey "o">
@@ -292,6 +294,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY inspectContextMenu.label     "Ngiyo gin ma i but">
 <!ENTITY inspectContextMenu.accesskey "Q">
+
 
 <!ENTITY fileMenu.label         "Pwail">
 <!ENTITY fileMenu.accesskey       "P">
@@ -378,7 +381,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Cak ribo dirica matidi me neno nying dirica matino ki i nyonyo ni mukene.">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "imito neno dirica matino ki nyonyo mukene?">
@@ -430,7 +433,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Yeny onyo ket kanonge">
-<!ENTITY urlbar.placeholder3          "Ket lok me yeny ki kanonge kany">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Lamed:">
@@ -969,6 +971,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.restoreButton.accesskey "D">
 
 
+<!ENTITY homepageControlled.header.message "Potbukki me acakki oloke oko.">
+<!ENTITY homepageControlled.keepButton.label "Gwok alokaloka">
+<!ENTITY homepageControlled.keepButton.accesskey "K">
+<!ENTITY homepageControlled.disableButton.label "Juk lamed">
+<!ENTITY homepageControlled.disableButton.accesskey "J">
+
 <!ENTITY pageActionButton.tooltip "Jami atima me potbuk">
 <!ENTITY pageAction.addToUrlbar.label "Medi i Lanyut me kanonge">
 <!ENTITY pageAction.removeFromUrlbar.label "Kwany ki i lanyut me kanonge">
@@ -978,6 +986,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "Cwal dirica matidi i nyonyo">
 <!ENTITY sendToDevice.syncNotReady.label "Ribo nyonyo…">
+
+<!ENTITY pageAction.shareUrl.label "Nywaki">
 
 <!ENTITY libraryButton.tooltip "Nen mukato, alamabuk ma kigwoko, ki mapol">
 

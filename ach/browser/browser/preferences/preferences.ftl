@@ -142,6 +142,9 @@ startup-blank-page =
     .label = Nyut pot buk ma tye nono
 startup-prev-session =
     .label = Nyut dirica ki dirca matino mamegi ma ceng ca
+startup-restore-previous-session =
+    .label = Dwok kare ma okato ni
+    .accesskey = o
 disable-extension =
     .label = Juk lamed
 home-page-header = Potbuk me acakki
@@ -514,6 +517,9 @@ privacy-header = Mung pa layeny
 ## Privacy Section - Forms
 
 forms-header = Pwom ki mung me donyo
+forms-ask-to-save-logins =
+    .label = Peny me gwoko donyo iyie ki mung me donyo pi kakube
+    .accesskey = k
 forms-exceptions =
     .label = Ma kiweko woko…
     .accesskey = a
