@@ -96,3 +96,7 @@
 <!ENTITY bySite.accesskey         "s">
 <!ENTITY byMostVisited.label      "Etter mest besøkt">
 <!ENTITY byMostVisited.accesskey  "b">
+<!ENTITY byLastVisited.label      "Etter sist besøkt">
+<!ENTITY byLastVisited.accesskey  "b">
+<!ENTITY byDayAndSite.label       "Etter dato og nettsted">
+<!ENTITY byDayAndSite.accesskey   "t">
