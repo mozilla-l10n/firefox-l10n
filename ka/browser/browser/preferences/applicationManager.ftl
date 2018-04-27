@@ -6,7 +6,7 @@ app-manager-window =
     .title = პროგრამის მონაცემები
     .style = width: 30em; min-height: 20em;
 app-manager-remove =
-    .label = ამოღება
+    .label = ამოშლა
     .accesskey = ა
 app-manager-handle-webfeeds = ვებარხები შეიძლება გაიხსნას, შემდეგი პროგრამით.
 # Variables:

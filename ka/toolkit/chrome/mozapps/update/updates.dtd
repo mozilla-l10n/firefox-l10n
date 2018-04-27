@@ -73,5 +73,5 @@
                                            განახლებაზე.">
 
 <!ENTITY  update.details.label            "ვრცლად">
-<!ENTITY  update.installedOn.label        "ჩაიდგა:">
+<!ENTITY  update.installedOn.label        "ჩადგმის თარიღი:">
 <!ENTITY  update.status.label             "მდგომარეობა:">
