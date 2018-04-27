@@ -82,6 +82,10 @@
 <!ENTITY col.dateadded.label     "Přidáno">
 <!ENTITY col.lastmodified.label  "Poslední změna">
 
+<!ENTITY search.placeholder  "Hledat">
+
+<!ENTITY cmd.find.key  "f">
+
 <!ENTITY detailsPane.more.label "Více">
 <!ENTITY detailsPane.more.accesskey "V">
 <!ENTITY detailsPane.less.label "Méně">
