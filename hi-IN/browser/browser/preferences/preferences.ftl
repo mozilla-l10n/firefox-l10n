@@ -73,6 +73,32 @@ should-restart-ok = { -brand-short-name } को अभी पुनः आर�
 cancel-no-restart-button = रद्द करें
 restart-later = कुछ देर से पुनर्प्रारंभ करें
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = एक्सटेंशन, <img data-l10n-name="icon"/> { $name }, आपके होम पेज को नियंत्रित कर रहा है.
+# This string is shown to notify the user that their new tab page
+# is being controlled by an extension.
+extension-controlled-new-tab-url = एक्सटेंशन, <img data-l10n-name="icon"/> { $name }, आपके नये टैब के पृष्ठ को नियंत्रित कर रहा है.
+# This string is shown to notify the user that the default search engine
+# is being controlled by an extension.
+extension-controlled-default-search = एक्सटेंशन, <img data-l10n-name="icon"/> { $name }, आपके डिफ़ॉल्ट खोज इंजन को नियंत्रित कर रहा है.
+# This string is shown to notify the user that their tracking protection preferences
+# are being controlled by an extension.
+extension-controlled-websites-tracking-protection-mode = एक्सटेंशन, <img data-l10n-name="icon"/> { $name }, ट्रैकिंग सुरक्षा को नियंत्रित कर रहा है.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlled-proxy-config = एक्सटेंशन, <img data-l10n-name="icon"/> { $name }, यह नियंत्रित कर रहा है { -brand-short-name } कैसे इंटरनेट से जुड़ेगा.
+
 ## Preferences UI Search Results
 
 search-results-header = खोज परिणाम
