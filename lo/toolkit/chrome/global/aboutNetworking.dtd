@@ -10,8 +10,8 @@
 <!ENTITY aboutNetworking.sockets               "Sockets">
 <!ENTITY aboutNetworking.dns                   "DNS">
 <!ENTITY aboutNetworking.websockets            "WebSockets">
-<!ENTITY aboutNetworking.refresh               "ລີເຟຣສ໌">
-<!ENTITY aboutNetworking.autoRefresh           "ລີເຟຣສ໌ຕົວເອງໃນທຸກໆ 3 ວິນາທີ">
+<!ENTITY aboutNetworking.refresh               "ຟື້ນຟູ">
+<!ENTITY aboutNetworking.autoRefresh           "ຟື້ນຟູຕົວເອງໃນທຸກໆ 3 ວິນາທີ">
 <!ENTITY aboutNetworking.hostname              "Hostname">
 <!ENTITY aboutNetworking.port                  "ພັອດ">
 <!ENTITY aboutNetworking.ssl                   "SSL">

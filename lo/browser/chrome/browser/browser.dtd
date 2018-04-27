@@ -867,7 +867,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.label "ບໍ່ແມ່ນຕອນນີ້">
 <!ENTITY updateManual.cancelButton.accesskey "N">
 
-<!ENTITY updateRestart.header.message2 "ເລີ່ມການທຳງານໃຫມ່ເພື່ອອັບເດດ &brandShorterName;.">
+<!ENTITY updateRestart.header.message2 "ເລີ່ມເຮັດວຽກໃຫມ່ເພື່ອອັບເດດ &brandShorterName;.">
+<!ENTITY updateRestart.acceptButton.label "ເລີ່ມເຮັດວຽກໃຫມ່ແລະກູ້ຄືນ">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "ບໍ່ແມ່ນຕອນນີ້">
 <!ENTITY updateRestart.cancelButton.accesskey "N">

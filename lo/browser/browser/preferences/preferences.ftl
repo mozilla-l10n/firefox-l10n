@@ -57,10 +57,10 @@ close-button =
 
 ## Browser Restart Dialog
 
-should-restart-title = ເລີ່ມຕົ້ນການທຳງານ { -brand-short-name } ໃຫມ່
-should-restart-ok = ເລີ່ມຕົ້ນການທຳງານ { -brand-short-name } ໃຫມ່ດຽວນີ້
+should-restart-title = ເລີ່ມເຮັດວຽກ { -brand-short-name } ໃຫມ່
+should-restart-ok = ເລີ່ມເຮັດວຽກ { -brand-short-name } ໃຫມ່ດຽວນີ້
 cancel-no-restart-button = ຍົກເລີກ
-restart-later = ເລີ່ມຕົ້ນໃໝ່ພາຍຫຼັງ
+restart-later = ເລີ່ມເຮັດວຽກໃຫມ່ພາຍຫລັງ
 
 ## Extension Control Notifications
 ##

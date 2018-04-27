@@ -12,13 +12,12 @@
 <!-- open menu -->
 <!-- reload app -->
 <!-- show toolbox -->
-<!-- toggle sidebar -->
 <!-- zoom -->
 
 <!ENTITY projectPanel_tabs "ແທັບ">
 
 <!-- Lense -->
-<!ENTITY details_location "ຕຳແຫນ່ງທີ່ຢູ່">
+<!ENTITY details_location "ຕຳແຫນ່ງທີ່ຕັ້ງ">
 
 <!-- New App -->
 
@@ -27,7 +26,7 @@
 
 
 <!-- Addons -->
-<!ENTITY addons_aboutaddons "ເປີດຕົວຈັດການໂປຼແກຣມເສີມ">
+<!ENTITY addons_aboutaddons "ເປີດຕົວຈັດການໂປຣແກຣມເສີມ">
 
 <!-- Prefs -->
 <!ENTITY prefs_general_title "ທົ່ວໄປ">
@@ -56,5 +55,3 @@
      user to transfer authentication info by transferring a token. -->
 
 <!-- Logs panel -->
-
-<!-- Simulator Options -->

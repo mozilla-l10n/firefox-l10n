@@ -21,6 +21,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "ລູ້ນ​">
 <!ENTITY aboutSupport.extensionId "ID">
 
+
 <!ENTITY aboutSupport.featuresTitle "ຄູນລັກສະນະຂອງ &brandShortName;">
 <!ENTITY aboutSupport.featureName "ຊື່">
 <!ENTITY aboutSupport.featureVersion "ເວີຊັນ">
@@ -65,6 +66,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsProfiles "ໂປ​ຣ​ໄຟ​ລ໌">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "ວິນໂດ Multiprocess">
+
+
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Google Key">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla Location Service Key">
@@ -124,7 +127,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.sandboxSyscallArgs "Arguments">
 
 <!ENTITY aboutSupport.safeModeTitle "ລອງໃຊ້ໂຫມດປອດໄພ">
-<!ENTITY aboutSupport.restartInSafeMode.label "Restart ແລະ ປິດການໃຊ້ງານ Add-ons">
+<!ENTITY aboutSupport.restartInSafeMode.label "ເລີ່ມເຮັດວຽກໃຫມ່ພ້ອມປິດໃຊ້ງານໂປຣແກຣມເສີມ…">
 
 <!ENTITY aboutSupport.graphicsFeaturesTitle "ຄຸນລັກສະນະ">
 <!ENTITY aboutSupport.graphicsDiagnosticsTitle "ການວິນິດໄສ">
@@ -134,3 +137,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Decision Log">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Crash Guard Disabled Features">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Workarounds">
+
+
