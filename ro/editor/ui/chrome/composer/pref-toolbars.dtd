@@ -17,7 +17,7 @@
 <!ENTITY print.label            "Tipărește">
 <!ENTITY find.label             "Găsește">
 <!ENTITY image.label            "Imagine">
-<!ENTITY hline.label            "H. Linie">
+<!ENTITY hline.label            "Linie orizontală">
 <!ENTITY table.label            "Tabel">
 <!ENTITY link.label             "Link">
 <!ENTITY anchor.label           "Ancoră">

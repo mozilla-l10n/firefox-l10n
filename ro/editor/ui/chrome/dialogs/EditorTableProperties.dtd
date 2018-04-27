@@ -25,7 +25,7 @@
 <!ENTITY tablePadding.accessKey           "p">
 <!ENTITY tablePxBetwCells.label           "pixeli între celule">
 <!ENTITY tablePxBetwBrdrCellContent.label "pixeli între marginea și conținutul celulei">
-<!ENTITY tableAlignment.label             "Aliniere tabel:">
+<!ENTITY tableAlignment.label             "Aliniamentul tabelului:">
 <!ENTITY tableAlignment.accessKey         "A">
 <!ENTITY tableCaption.label               "Explicație:">
 <!ENTITY tableCaption.accessKey           "x">
@@ -45,7 +45,7 @@
 <!ENTITY cellSelectPrevious.label         "Înapoi">
 <!ENTITY cellSelectPrevious.accessKey     "p">
 <!ENTITY applyBeforeChange.label          "Schimbările actuale vor fi aplicate înainte de schimbarea selecției.">
-<!ENTITY cellContentAlignment.label       "Aliniere conținut">
+<!ENTITY cellContentAlignment.label       "Aliniamentul conținutului">
 <!ENTITY cellHorizontal.label             "Orizontală:">
 <!ENTITY cellHorizontal.accessKey         "z">
 <!ENTITY cellVertical.label               "Verticală:">
@@ -64,8 +64,8 @@
 <!ENTITY cellAlignJustify.label           "Îndreptat">
 <!ENTITY cellInheritColor.label           "(Lasă să se vadă culoarea tabelului)">
 <!ENTITY cellUseCheckboxHelp.label        "Folosiți bifele pentru a indica ce proprietăți se aplică celulelor selectate">
-<!-- Used in both Table and Cell panels  -->
 
+<!-- Used in both Table and Cell panels  -->
 <!ENTITY size.label                       "Mărime">
 <!ENTITY pixels.label                     "pixeli">
 <!ENTITY backgroundColor.label            "Culoare fundal:">

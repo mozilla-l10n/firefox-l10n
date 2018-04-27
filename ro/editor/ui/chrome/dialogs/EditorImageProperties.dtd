@@ -48,7 +48,7 @@
 <!ENTITY removeImageMapButton.accessKey "E">
 
 <!-- These are the options for image alignment -->
-<!ENTITY alignment.label "Aliniere text cu imagine">
+<!ENTITY alignment.label "Aliniază textul cu imaginea">
 <!ENTITY bottomPopup.value "Jos">
 <!ENTITY topPopup.value "Sus">
 <!ENTITY centerPopup.value "La centru">
