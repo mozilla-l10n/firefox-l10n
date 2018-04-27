@@ -2,19 +2,45 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  trackingProtectionHeader2.label      "ການປ້ອງກັນການຕິດຕາມ">
+<!ENTITY  trackingProtection3.description      "ການປ້ອງກັນການຕິດຕາມຈະບັອກຕົວຕິດຕາມອອນລາຍເຊິ່ງເກັບກຳຂໍ້ມູນການທ່ອງເວັບຕ່າງໆຂອງທ່ານ.">
+<!ENTITY  trackingProtection3.radioGroupLabel  "ໃຊ້ການປ້ອງກັນການຕິດຕາມເພື່ອບັອກຕົວຕິດຕາມທີ່ຮູ້ຈັກ">
+<!ENTITY  trackingProtectionAlways.label       "ຕະຫລອດເວລາ">
+<!ENTITY  trackingProtectionAlways.accesskey   "ຕ">
+<!ENTITY  trackingProtectionPrivate.label      "ສະເພາະໃນຫນ້າຕ່າງສ່ວນຕົວເທົ່ານັ້ນ">
+<!ENTITY  trackingProtectionPrivate.accesskey  "ພ">
+<!ENTITY  trackingProtectionNever.label        "ບໍ່ເຄີຍ">
+<!ENTITY  trackingProtectionNever.accesskey    "ບ">
+<!ENTITY  trackingProtectionLearnMore2.label    "ຮຽນຮູ້ເພີ່ມເຕີມກ່ຽວກັບການປ້ອງກັນການຕິດຕາມແລະຄວາມເປັນສ່ວນຕົວຂອງທ່ານ">
+<!ENTITY  trackingProtectionExceptions.label   "ຂໍ້ຍົກເວັ້ນ…">
+<!ENTITY  trackingProtectionExceptions.accesskey "ຍ">
 
-<!ENTITY tracking.label                 "ຕິດຕາມ">
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
+<!ENTITY trackingProtectionPBM6.label         "ໃຊ້ການປ້ອງກັນການຕິດຕາມໃນການທ່ອງເວັບແລະສ່ວນຕົວເພື່ອບັອກຕົວຕິດຕາມທີ່ຮູ້ຈັກ">
+<!ENTITY trackingProtectionPBM6.accesskey     "ຊ">
+<!ENTITY trackingProtectionPBMLearnMore.label "ຮຽນຮູ້ເພີ່ມເຕີມ">
 
-<!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
+<!ENTITY  history.label                 "ປະຫວັດການໃຊ້ງານ">
+<!ENTITY  permissions.label             "ການອະນຸຍາດ">
+
+<!ENTITY  locbar.history2.label         "ປະຫວັດການທ່ອງເວັບ">
+<!ENTITY  locbar.history2.accesskey     "ປ">
+<!ENTITY  locbar.bookmarks.label        "ບຸກມາກ">
+<!ENTITY  locbar.bookmarks.accesskey    "ກ">
+<!ENTITY  locbar.openpage.label         "ແທັບທີ່ເປີດ">
+<!ENTITY  locbar.openpage.accesskey     "ດ">
+<!ENTITY  locbar.searches.label         "ການຊອກຫາທີ່ກ່ຽວຂ້ອງຈາກເຄື່ອງມືການຊອກຫາເລີ່ມຕົ້ນ">
+<!ENTITY  locbar.searches.accesskey     "ກ">
+
+<!ENTITY  suggestionSettings2.label     "ປ່ຽນການຕັ້ງຄ່າສຳລັບຄຳແນະນຳເຄື່ອງມືການຊອກຫາ">
+
+<!ENTITY  acceptCookies2.label          "ຍອມຮັບຄຸກກີ້ຈາກເວັບໄຊທ໌">
+<!ENTITY  acceptCookies2.accesskey      "ຍ">
+
+<!ENTITY  acceptThirdParty2.pre.label     "ຍອມຮັບຄຸກກີ້ຈາກບຸກຄົນທີ່ສາມ">
+<!ENTITY  acceptThirdParty2.pre.accesskey "ອ">
 
 
-<!ENTITY  locationBar.label             "ແຖບທີ່ຢູ່">
-
-
-
-<!ENTITY  acceptCookies.label           "ຍອມຮັບຄຸກກີຈາກເວັບ">
-<!ENTITY  acceptCookies.accesskey       "A">
 
 <!ENTITY  acceptThirdParty.always.label   "ຕະຫລອດເວລາ">
 <!ENTITY  acceptThirdParty.visited.label  "ຈາກການຢ້ຽມຊົມ">
@@ -45,6 +71,7 @@
 <!ENTITY  rememberActions.removeCookies.label "ລົບຄຸກກີ້ແຕ່ລະຢ່າງ">
 <!ENTITY  rememberActions.post.label          ".">
 
+
 <!ENTITY  dontrememberDescription.label  "&brandShortName; ຈະໃຊ້ການຕັ້ງຄ່າດຽວກັບການທ່ອງເວັບແບບສ່ວນຕົວ ແລະ ຈະບໍ່ເກັບບັນດາເວັບໄຊຕ໌ທີ່ເຄີຍເຂົ້າມາກ່ອນ.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
@@ -52,6 +79,7 @@
 <!ENTITY  dontrememberActions.pre.label          "ທ່ານອາດຈະຕ້ອງການ">
 <!ENTITY  dontrememberActions.clearHistory.label "ລືບທຸກປະຫວັດການໃຊ້ງານທີ່ມີຢຸໃນປະຈູບັນນີ້">
 <!ENTITY  dontrememberActions.post.label         ".">
+
 
 <!ENTITY  privateBrowsingPermanent2.label "ນຳໃຊ້ການຄົ້ນຫາແບບສ່ວນຕົວຕະຫລອດເວລາ">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
@@ -61,6 +89,7 @@
 
 <!ENTITY  rememberSearchForm.label       "ຈົດຈຳການຄົ້ນຫາ ແລະ ຮູບແບບປະຫວັດການໃຊ້ງານ">
 <!ENTITY  rememberSearchForm.accesskey   "f">
+
 
 
 
