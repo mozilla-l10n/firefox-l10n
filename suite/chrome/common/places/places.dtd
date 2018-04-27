@@ -14,6 +14,7 @@
 <!ENTITY view.sortAscending.label       "Ordem crescente">
 <!ENTITY view.sortDescending.label      "Ordem decrescente">
 
+<!ENTITY importBookmarksFromHTML.label     "Importar favoritos em HTML…">
 <!ENTITY exportBookmarksToHTML.label       "Exportar favoritos como HTML…">
 <!ENTITY importOtherBrowser.label          "Importar dados de outro navegador…">
 
