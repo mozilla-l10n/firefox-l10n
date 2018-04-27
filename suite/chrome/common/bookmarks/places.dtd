@@ -60,7 +60,7 @@
 <!ENTITY cmd.properties.label      "Sifat">
 <!ENTITY cmd.properties.accesskey  "i">
 
-<!ENTITY cmd.sortby_name.label              "Susun mengikut Nama">
+<!ENTITY cmd.sortby_name.label              "Susun Mengikut Nama">
 <!ENTITY cmd.sortby_name.accesskey          "s">
 
 <!ENTITY cmd.new_bookmark.label            "Tandabuku Baru…">
