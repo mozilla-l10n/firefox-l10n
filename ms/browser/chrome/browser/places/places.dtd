@@ -58,7 +58,7 @@
 <!ENTITY cmd.properties.label      "Sifat">
 <!ENTITY cmd.properties.accesskey  "i">
 
-<!ENTITY cmd.sortby_name.label              "Susun mengikut Nama">
+<!ENTITY cmd.sortby_name.label              "Susun Mengikut Nama">
 <!ENTITY cmd.sortby_name.accesskey          "S">
 <!ENTITY cmd.context_sortby_name.accesskey  "n">
 
