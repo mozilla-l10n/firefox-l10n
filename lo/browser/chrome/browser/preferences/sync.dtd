@@ -56,17 +56,32 @@ both, to better adapt this sentence to their language.
 <!ENTITY verifiedManage.accesskey     "ຈ">
 <!ENTITY disconnect3.label            "ຕັດການເຊື່ອມຕໍ່…">
 <!ENTITY disconnect3.accesskey        "ດ">
+<!ENTITY cancelSetup.label            "ຍົກເລີກການຕັ້ງຄ່າ">
+<!ENTITY cancelSetup.accesskey        "ງ">
 
+<!ENTITY signedOut.caption            "ນຳເອົາເວັບຂອງທ່ານໄປກັບທ່ານ">
+<!ENTITY signedOut.accountBox.create2 "ບໍ່ມີບັນຊີຢູ່ແລ້ວ? ເລີ່ມຕົ້ນໃຊ້ງານ">
+<!ENTITY signedOut.accountBox.create2.accesskey "ມ">
+<!ENTITY signedOut.accountBox.signin2 "ລົງຊື່ເຂົ້າໃຊ້">
+<!ENTITY signedOut.accountBox.signin2.accesskey "ຊ">
 
+<!ENTITY signedIn.settings.label       "ການຕັ້ງຄ່າ Sync">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for
      Android or iOS to sync with your mobile device." -->
 
+<!ENTITY mobilePromo3.start            "ດາວໂຫລດ Firefox ສຳລັບ">
 <!-- LOCALIZATION NOTE (mobilePromo3.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+<!ENTITY mobilePromo3.androidLink      "Android">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSBefore): This is text displayed between mobilePromo3.androidLink and mobilePromo3.iosLink -->
+<!ENTITY mobilePromo3.iOSBefore         " ຫລື ">
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
+<!ENTITY mobilePromo3.iOSLink          "iOS">
 
+<!ENTITY mobilePromo3.end              " ເພື່ອຊິງຄ໌ກັບອຸປະກອນມືຖືຂອງທ່ານ.">
 
+<!ENTITY mobilepromo.singledevice      "ເຊື່ອມຕໍ່ກັບອຸປະກອນອື່ນ">
+<!ENTITY mobilepromo.multidevice       "ຈັດການອຸປະກອນ">

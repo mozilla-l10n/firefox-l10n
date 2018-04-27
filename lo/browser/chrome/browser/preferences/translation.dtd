@@ -2,19 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
+<!ENTITY window.width                     "36em">
+<!ENTITY windowClose.key                  "w">
 
 <!ENTITY treehead.languageName.label      "ພາສາ">
+<!ENTITY removeLanguage.label             "ລຶບພາສາອອກ">
+<!ENTITY removeLanguage.accesskey         "ລ">
+<!ENTITY removeAllLanguages.label         "ລຶບພາສາທັງຫມົດອອກ">
+<!ENTITY removeAllLanguages.accesskey     "ທ">
 
-
-
-
-
-
-
-
-
-
+<!ENTITY treehead.siteName2.label         "ເວັບໄຊທ໌">
+<!ENTITY removeSite.label                 "ລຶບເວັບໄຊທ໌ອອກ">
+<!ENTITY removeSite.accesskey             "ວ">
+<!ENTITY removeAllSites.label             "ລຶບເວັບໄຊທ໌ທັງຫມົດອອກ">
+<!ENTITY removeAllSites.accesskey         "ມ">
 
 <!ENTITY button.close.label               "ປິດ">
-<!ENTITY button.close.accesskey           "C">
+<!ENTITY button.close.accesskey           "ປ">
