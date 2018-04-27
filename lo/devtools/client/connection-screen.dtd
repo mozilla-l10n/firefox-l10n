@@ -10,7 +10,7 @@
 <!ENTITY title      "ເຊື່ອມຕໍ່">
 <!ENTITY header     "ເຊື່ອມຕໍ່ກັບອຸປະກອນໄລຍະໄກ">
 <!ENTITY host       "ພື້ນທີ່:">
-<!ENTITY port       "ພອດທ໌:">
+<!ENTITY port       "ພັອດ:">
 <!ENTITY connect    "ເຊື່ອມຕໍ່">
 <!ENTITY connecting "ກຳລັງເຊື່ອມຕໍ່...">
 <!ENTITY availableAddons "ໂປຣແກຣມເສີມໄລຍະໄກທີ່ມີ:">
