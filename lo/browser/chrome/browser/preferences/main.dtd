@@ -4,24 +4,43 @@
 
 <!ENTITY startup.label             "ເລີ່ມເຮັດວຽກ">
 
+<!ENTITY startupPage2.label        "ເມື່ອ &brandShortName; ເລີ່ມ">
+<!ENTITY startupPage2.accesskey    "ມ">
+<!ENTITY startupUserHomePage.label "ສະແດງຫນ້າທຳອິດຂອງທ່ານ">
 <!ENTITY startupBlankPage.label    "ສະແດງຫນ້າເປົ່າ">
+<!ENTITY startupPrevSession.label  "ສະແດງຫນ້າຕ່າງແລະແທັບຂອງທ່ານຈາກຄັ້ງລ່າສຸດ">
 
-<!ENTITY useCurrentPage.label      "ໃຊ້ ຫນ້າປະຈຸບັນ">
-<!ENTITY useCurrentPage.accesskey  "ຫ">
+<!ENTITY homepage2.label           "ຫນ້າທຳອິດ">
+<!ENTITY homepage2.accesskey       "ຫ">
+<!ENTITY useCurrentPage.label      "ໃຊ້ຫນ້າປະຈຸບັນ">
+<!ENTITY useCurrentPage.accesskey  "ປ">
 <!ENTITY useMultiple.label         "ໃຊ້ຫນ້າປະຈຸບັນ">
-<!ENTITY chooseBookmark.label      "ໃຊ້ ບຸກມາກ">
+<!ENTITY chooseBookmark.label      "ໃຊ້ບຸກມາກ…">
 <!ENTITY chooseBookmark.accesskey  "ບ">
-<!ENTITY restoreDefault.label      "ກັບຄືນສູ່ຄ່າພື້ນຖານ">
+<!ENTITY restoreDefault.label      "ກັບຄືນສູ່ຄ່າເລີ່ມຕົ້ນ">
 <!ENTITY restoreDefault.accesskey  "ກ">
+
+<!ENTITY disableExtension.label    "ປິດໃຊ້ສ່ວນຂະຫຍາຍ">
 
 <!ENTITY downloads.label     "ດາວໂຫລດ">
 
-<!ENTITY saveTo.label "ບັນທຶກເອກະສານໃສ່">
-<!ENTITY saveTo.accesskey "v">
+<!ENTITY saveTo.label "ບັນທຶກໄຟລ໌ໄປທີ່">
+<!ENTITY saveTo.accesskey "ຟ">
 <!ENTITY chooseFolderWin.label        "ຊອກຫາ...">
-<!ENTITY chooseFolderWin.accesskey    "o">
+<!ENTITY chooseFolderWin.accesskey    "ຊ">
 <!ENTITY chooseFolderMac.label        "ເລືອກ...">
-<!ENTITY chooseFolderMac.accesskey    "e">
+<!ENTITY chooseFolderMac.accesskey    "ລ">
+<!ENTITY alwaysAskWhere.label         "ຖາມທ່ານທຸກຄັ້ງວ່າຈະບັນທຶກໄຟລ໌ໄວ້ໃສ">
+<!ENTITY alwaysAskWhere.accesskey     "ຖ">
 
+<!ENTITY alwaysCheckDefault2.label        "ກວດສອບທຸກຄັ້ງວ່າ &brandShortName; ແມ່ນບຣາວເຊີເລີ່ມຕົ້ນຂອງທ່ານຫລືບໍ່">
+<!ENTITY alwaysCheckDefault2.accesskey    "ສ">
+<!ENTITY setAsMyDefaultBrowser3.label     "ເຮັດໃຫ້ເປັນຄ່າເລີ່ມຕົ້ນ…">
+<!ENTITY setAsMyDefaultBrowser3.accesskey "ຄ">
+<!ENTITY isDefault.label                  "&brandShortName; ແມ່ນບຣາວເຊີເລີ່ມຕົ້ນຂອງທ່ານໃນຂະນະນີ້">
+<!ENTITY isNotDefault.label               "&brandShortName; ບໍ່ແມ່ນບຣາວເຊີເລີ່ມຕົ້ນຂອງທ່ານ">
 
-
+<!ENTITY separateProfileMode.label        "ອະນຸຍາດໃຫ້ &brandShortName; ແລະ Firefox ເຮັດວຽກພ້ອມກັນ">
+<!ENTITY useFirefoxSync.label             "ເຄັດລັບ: ສິ່ງນີ້ໃຊ້ໂປຣໄຟລ໌ແຍກ. ໃຊ້ Sync ເພື່ອແບ່ງປັນຂໍ້ມູນລະຫວ່າງກັນ.">
+<!ENTITY getStarted.notloggedin.label     "ລົງຊື່ເຂົ້າໃຊ້ &syncBrand.shortName.label;…">
+<!ENTITY getStarted.configured.label      "ເປີດການຕັ້ງຄ່າ &syncBrand.shortName.label;">
