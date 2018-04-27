@@ -13,6 +13,9 @@
   -  the correct grammar case to keep the same structure of the original
   -  sentence. -->
 <!ENTITY translation.thisPageIsIn.label         "ຫນ້ານີ້ເປັນພາສາ">
+<!ENTITY translation.translateThisPage.label    "ແປຫນ້ານີ້?">
+<!ENTITY translation.translate.button           "ແປ">
+<!ENTITY translation.notNow.button              "ບໍ່ແມ່ນຕອນນີ້">
 
 
 <!-- LOCALIZATION NOTE (translation.translatedFrom.label,
@@ -30,22 +33,32 @@
   -  translation.translatedToSuffix.label (empty in en-US) is for locales that
   -  need to display some text after the second drop down for the sentence to
   -  be grammatically correct. -->
+<!ENTITY translation.translatedFrom.label       "ຫນ້ານີ້ໄດ້ຖືກແປຈາກ">
+<!ENTITY translation.translatedTo.label         "ເປັນ">
 <!ENTITY translation.translatedToSuffix.label   "">
 
 
+<!ENTITY translation.errorTranslating.label     "ມີຂໍ້ຜິດພາດໃນການແປຫນ້ານີ້.">
+<!ENTITY translation.tryAgain.button            "ລອງໃຫມ່ອີກຄັ້ງ">
 
 
+<!ENTITY translation.options.menu               "ຕົວເລືອກ">
 <!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
   -                     translation.options.preferences.accesskey):
   -  The accesskey values used here should not clash with the value used for
   -  translation.options.neverForLanguage.accesskey in translation.properties
   -->
+<!ENTITY translation.options.neverForSite.label "ບໍ່ຕ້ອງແປເວັບໄຊທ໌ນີ້">
+<!ENTITY translation.options.neverForSite.accesskey "ປ">
+<!ENTITY translation.options.preferences.label  "ການຕັ້ງຄ່າການແປ">
+<!ENTITY translation.options.preferences.accesskey "ຕ">
 
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
   -  logo.
   -->
+<!ENTITY translation.options.attribution.beforeLogo "ແປໂດຍ">
 <!ENTITY translation.options.attribution.afterLogo "">
 
 <!-- LOCALIZATION NOTE (translation.options.attribution.poweredByYandex,
