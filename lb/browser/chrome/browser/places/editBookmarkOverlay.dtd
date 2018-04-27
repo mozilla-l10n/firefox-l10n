@@ -7,3 +7,16 @@
 <!ENTITY editBookmarkOverlay.location.label                  "Standuert:">
 <!ENTITY editBookmarkOverlay.location.accesskey              "L">
 <!ENTITY editBookmarkOverlay.feedLocation.label              "Feed Adress:">
+<!ENTITY editBookmarkOverlay.feedLocation.accesskey          "F">
+<!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
+<!ENTITY editBookmarkOverlay.folder.label                    "Dossier:">
+<!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Verstoppen">
+<!ENTITY editBookmarkOverlay.tags.label                      "Schlagwierder:">
+<!ENTITY editBookmarkOverlay.tags.accesskey                  "T">
+<!ENTITY editBookmarkOverlay.description.label               "Beschreiwung:">
+<!ENTITY editBookmarkOverlay.description.accesskey           "D">
+<!ENTITY editBookmarkOverlay.keyword.accesskey               "K">
+<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "h">
+<!ENTITY editBookmarkOverlay.choose.label                    "Wielen…">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "Neien Dossier">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "o">
