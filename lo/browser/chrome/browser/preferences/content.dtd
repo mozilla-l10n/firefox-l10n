@@ -2,16 +2,37 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  popups.label                "ປັອບອັບ">
+<!ENTITY  permissions.label           "ການອະນຸຍາດ">
 
-<!ENTITY  blockPopups.label           "ກັນຫນ້າຕ່າງປັອບອັບ">
+<!ENTITY  blockPopups.label           "ບັອກຫນ້າຕ່າງປັອບອັບ">
 <!ENTITY  blockPopups.accesskey       "ກ">
 
+<!ENTITY  popupExceptions.label                                 "ຂໍ້ຍົກເວັ້ນ…">
+<!ENTITY  popupExceptions.accesskey                             "ຍ">
 
-<!ENTITY  popupExceptions.label       "ຍົກເວັ້ນ">
-<!ENTITY  popupExceptions.accesskey   "ຍ">
+<!ENTITY  notificationPermissions.label                         "ການແຈ້ງເຕືອນ">
+<!ENTITY  notificationSettingsButton.label                      "ການຕັ້ງຄ່າ…">
+<!ENTITY  notificationSettingsButton.accesskey                  "ຕ">
+<!ENTITY  notificationPermissionsLearnMore.label                "ຮຽນຮູ້ເພີ່ມເຕີມ">
 
+<!ENTITY  locationPermissions.label                             "ຕຳແຫນ່ງທີ່ຕັ້ງ">
+<!ENTITY  locationSettingsButton.label                          "ການຕັ້ງຄ່າ…">
+<!ENTITY  locationSettingsButton.accesskey                      "ຕ">
 
+<!ENTITY  cameraPermissions.label                               "ກ້ອງຖ່າຍຮູບ">
+<!ENTITY  cameraSettingsButton.label                            "ການຕັ້ງຄ່າ…">
+<!ENTITY  cameraSettingsButton.accesskey                        "ຕ">
+
+<!ENTITY  microphonePermissions.label                           "ໄມໂຄຣໂຟນ">
+<!ENTITY  microphoneSettingsButton.label                        "ການຕັ້ງຄ່າ…">
+<!ENTITY  microphoneSettingsButton.accesskey                    "ຕ">
+
+<!ENTITY  fontsAndColors.label        "ແບບອັກສອນ &amp; ສີ">
+
+<!ENTITY  defaultFont2.label          "ແບບອັກສອນເລີ່ມຕົ້ນ">
+<!ENTITY  defaultFont2.accesskey      "ລ">
+<!ENTITY  defaultSize2.label          "ຂະຫນາດ">
+<!ENTITY  defaultSize2.accesskey      "ຂ">
 
 <!ENTITY  advancedFonts.label         "ຂັ້ນສູງ...">
 <!ENTITY  advancedFonts.accesskey     "ຂ">
@@ -20,13 +41,13 @@
 <!ENTITY  colors.accesskey            "ສ">
 
 
-<!ENTITY languages.label              "ພາສາ">
-<!ENTITY chooseLanguage.label         "ເລືອກພາສາທີ່ທ່ານຕ້ອງການສະແດງໃນຫນ້ານີ້">
-<!ENTITY chooseButton.label           "ເລືອກ...">
-<!ENTITY chooseButton.accesskey       "o">
+<!ENTITY language2.label              "ພາສາ">
+<!ENTITY chooseLanguage.label         "ເລືອກພາສາທີ່ທ່ານຕ້ອງການສະແດງຜົນຫນ້າຕ່າງໆ">
+<!ENTITY chooseButton.label           "ເລືອກ…">
+<!ENTITY chooseButton.accesskey       "ລ">
 
-<!ENTITY translateExceptions.label    "ຍົກເວັ້ນ...">
-<!ENTITY translateExceptions.accesskey "x">
+<!ENTITY translateExceptions.label    "ຂໍ້ຍົກເວັ້ນ…">
+<!ENTITY translateExceptions.accesskey "ຍ">
 
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
@@ -35,6 +56,8 @@
   -  The translations for these strings should match the translations in
   -  browser/translation.dtd
   -->
+<!ENTITY translation.options.attribution.beforeLogo "ແປໂດຍ">
 <!ENTITY translation.options.attribution.afterLogo "">
 
 
+<!ENTITY  playDRMContent.learnMore.label "ຮຽນຮູ້ເພີ່ມເຕີມ">
