@@ -176,14 +176,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "ແກ້ໄຂບຸກມາກນີ້">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
-<!ENTITY subscribeToPageMenupopup.label "ເປັນສະມາຊິກໜ້ານີ້">
-<!ENTITY subscribeToPageMenuitem.label "ເປັນສະມາຊິກຫນ້ານີ້...">
-<!ENTITY addCurPagesCmd.label "ບຸກມາກຂອງທຸກແຖບ...">
-<!ENTITY showAllBookmarks2.label "ສະແດງທຸກບຸກມາກ">
+<!ENTITY subscribeToPageMenupopup.label "ເປັນສະມາຊິກຫນ້ານີ້">
+<!ENTITY subscribeToPageMenuitem.label "ເປັນສະມາຊິກຫນ້ານີ້…">
+<!ENTITY addCurPagesCmd.label "ບຸກມາກແທັບທັງຫມົດ…">
+<!ENTITY showAllBookmarks2.label "ສະແດງບຸກມາກທັງຫມົດ">
 <!ENTITY recentBookmarks.label "ຫາກໍບຸກມາກມື້ກີ້ນີ້">
 <!ENTITY otherBookmarksCmd.label "ບຸກມາກອື່ນໆ">
 <!ENTITY mobileBookmarksCmd.label "ບຸກມາກມືຖື">
-<!ENTITY bookmarksToolbarChevron.tooltip "ສະແດງບຸກມາກເພີມເຕີມ">
+<!ENTITY bookmarksToolbarChevron.tooltip "ສະແດງບຸກມາກເພີ່ມເຕີມ">
 <!ENTITY showRecentlyBookmarked.label     "ສະແດງຫາກໍບຸກມາກມື້ກີ້ນີ້">
 <!ENTITY showRecentlyBookmarked.accesskey "h">
 <!ENTITY hideRecentlyBookmarked.label     "ເຊື່ອງຫາກໍບຸກມາກມື້ກີ້ນີ້">
@@ -191,20 +191,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY backCmd.label                "ກັບຄືນ">
 <!ENTITY backCmd.accesskey            "B">
-<!ENTITY backButton.tooltip           "ກັບກັບໄປໜ້າກ່ອນໜ້ານີ້">
-<!ENTITY forwardCmd.label             "ໄປໜ້າ">
+<!ENTITY backButton.tooltip           "ກັບໄປຫນຶ່ງຫນ້າ">
+<!ENTITY forwardCmd.label             "ໄປຂ້າງຫນ້າ">
 <!ENTITY forwardCmd.accesskey         "F">
-<!ENTITY forwardButton.tooltip        "ໄປໜ້າຖັດໄປ">
+<!ENTITY forwardButton.tooltip        "ໄປຫນ້າຖັດໄປ">
 <!ENTITY backForwardButtonMenu.tooltip "ຄິກຂວາ ຫລື ເລື່ອນເມົ້າລົງເພື່ອສະແດງປະຫວັດການໃຊ້ງານ">
 <!ENTITY backForwardButtonMenuMac.tooltip "ເລື່ອນເມົ້າລົງເພື່ອສະແດງປະຫວັດການໃຊ້ງານ">
-<!ENTITY reloadCmd.label              "ໂຫຼດໃໝ່">
+<!ENTITY reloadCmd.label              "ໂຫລດໃຫມ່">
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "ຢຸດ">
 <!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "ໄປຫາທີ່ຢູ່ໃນແຖບຕຳແຫນ່ງທີ່ຢູ່">
 <!ENTITY printButton.label            "ພິມ">
-<!ENTITY printButton.tooltip          "ພິມໜ້ານີ້">
+<!ENTITY printButton.tooltip          "ພິມຫນ້ານີ້">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "ເບິ່ງຂໍ້ມູນເວັບໄຊທ໌">
 
@@ -222,7 +222,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchItem.title             "ຊອກຫາ">
 
 <!-- Toolbar items -->
-<!ENTITY homeButton.label             "ໜ້າຫຼັກ">
+<!ENTITY homeButton.label             "ຫນ້າຫລັກ">
 
 <!ENTITY bookmarksButton.label          "ບຸກມາກ">
 <!ENTITY bookmarksCmd.commandkey "b">
@@ -255,10 +255,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.label           "ປ້ອນຄຳທີ່ຕ້ອງການຄົ້ນຫາໃສ່...">
 <!ENTITY keywordfield.accesskey       "K">
 
-<!ENTITY downloads.label              "ດາວໂລດ">
+<!ENTITY downloads.label              "ດາວໂຫລດ">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
-<!ENTITY libraryDownloads.label       "ດາວໂຫຼດ">
+<!ENTITY libraryDownloads.label       "ດາວໂຫລດ">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -275,11 +275,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "ໄຟລ໌">
 <!ENTITY fileMenu.accesskey       "F">
+<!ENTITY newUserContext.label             "ແທັບແຍກຂໍ້ມູນໃຫມ່">
 <!ENTITY newUserContext.accesskey         "B">
 <!ENTITY newNavigatorCmd.label        "ຫນ້າຕ່າງໃຫມ່">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
-<!ENTITY newPrivateWindow.label     "ເປີດຫນ້າຕ່າງສວນຕົວຂື້ນມາໃຫມ່">
+<!ENTITY newPrivateWindow.label     "ເປີດຫນ້າຕ່າງສ່ວນຕົວໃຫມ່">
 <!ENTITY newPrivateWindow.accesskey "W">
 
 <!ENTITY editMenu.label         "ແກ້ໄຂ">
@@ -302,14 +303,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY deleteCmd.label          "ລຶບ">
 <!ENTITY deleteCmd.key            "D">
 <!ENTITY deleteCmd.accesskey        "D">
-<!ENTITY selectAllCmd.label         "ເລືອກທັ້ງຫມົດ">
+<!ENTITY selectAllCmd.label         "ເລືອກທັງຫມົດ">
 <!ENTITY selectAllCmd.key         "A">
 <!ENTITY selectAllCmd.accesskey       "A">
 <!ENTITY preferencesCmd2.label       "ຕົວເລືອກ">
 <!ENTITY preferencesCmd2.accesskey     "O">
-<!ENTITY preferencesCmdUnix.label       "ຕັ້ງຄ່າ">
+<!ENTITY preferencesCmdUnix.label       "ການຕັ້ງຄ່າ">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
 
+<!ENTITY clearRecentHistory.label               "ລ້າງປະຫວັດການໃຊ້ງານລ່າສຸດ…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -319,7 +321,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "T">
 <!ENTITY viewSidebarMenu.label "ແຖບດ້ານຂ້າງ">
 <!ENTITY viewSidebarMenu.accesskey "e">
-<!ENTITY viewCustomizeToolbar.label       "ການດັດແກ້...">
+<!ENTITY viewCustomizeToolbar.label       "ປັບແຕ່ງ…">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
 <!ENTITY overflowCustomizeToolbar.label       "ປັບແຕ່ງແຖບເຄື່ອງມື…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
@@ -334,6 +336,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "ສະແດງປະຫວັດການໃຊ້ງານທັງຫມົດ">
+<!ENTITY appMenuHistory.clearRecent.label "ລ້າງປະຫວັດການໃຊ້ງານລ່າສຸດ…">
 <!ENTITY appMenuHelp.label "ວິທີໃຊ້">
 
 <!ENTITY appMenuRemoteTabs.label "ແທັບທີ່ຊິງຄ໌ແລ້ວ">
@@ -398,7 +401,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "ສ່ວນຂະຫຍາຍ:">
-<!ENTITY urlbar.switchToTab.label     "ຍ້າຍໄປແຖບ:">
+<!ENTITY urlbar.switchToTab.label     "ຍ້າຍໄປແທັບ:">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "ເຄັດລັບ:">
@@ -501,22 +504,23 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewPageSourceCmd.accesskey  "V">
 <!ENTITY viewFrameSourceCmd.label     "ເບິງແຫລ່ງຂໍ້ມູນຂອງເຟຣມນີ້">
 <!ENTITY viewFrameSourceCmd.accesskey "V">
-<!ENTITY viewPageInfoCmd.label        "ເບິ່ງຂໍ້ມູນໜ້າເວັບ">
+<!ENTITY viewPageInfoCmd.label        "ເບິ່ງຂໍ້ມູນຫນ້າ">
 <!ENTITY viewPageInfoCmd.accesskey    "I">
 <!ENTITY viewFrameInfoCmd.label       "ເບິ່ງຂໍ້ມູນຂອງເຟຣມ">
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
-<!ENTITY reloadImageCmd.label         "ໂຫລດຮູບພາບຄືນໃຫມ່">
+<!ENTITY reloadImageCmd.label         "ໂຫລດຮູບພາບໃຫມ່">
 <!ENTITY reloadImageCmd.accesskey     "R">
 <!ENTITY viewImageCmd.label           "ເບິ່ງຮູບພາບ">
 <!ENTITY viewImageCmd.accesskey       "I">
-<!ENTITY viewImageInfoCmd.label       "ເບິ່ງຂໍ້ມູນໜ້າເວັບ">
+<!ENTITY viewImageInfoCmd.label       "ເບິ່ງຂໍ້ມູນຫນ້າເວັບ">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
+<!ENTITY viewImageDescCmd.label       "ເບິ່ງຄຳອະທິບາຍ">
 <!ENTITY viewImageDescCmd.accesskey   "D">
 <!ENTITY viewVideoCmd.label           "ເບິ່ງວີດີໂອ">
 <!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "ເບິ່ງພາບພື້ນຫຼັງ">
 <!ENTITY viewBGImageCmd.accesskey     "w">
-<!ENTITY setDesktopBackgroundCmd.label      "ກຳນົດໃຫ້ເປັນພາບພື້ນຫລັງເດສກ໌ທັອບ">
+<!ENTITY setDesktopBackgroundCmd.label      "ກຳນົດເປັນພາບພື້ນຫລັງເດສກ໌ທັອບ…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "ບຸກມາກຫນ້ານີ້">
 <!ENTITY bookmarkPageCmd2.accesskey   "m">
@@ -599,11 +603,11 @@ fast. -->
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaShowControls.label     "ສະແດງແຜງການຄວບຄຸ່ມ">
+<!ENTITY mediaShowControls.label     "ສະແດງປຸ່ມຄວບຄຸມ">
 <!ENTITY mediaShowControls.accesskey "C">
-<!ENTITY mediaHideControls.label     "ເຊື່ອງແຜງການຄວບຄຸ່ມ">
+<!ENTITY mediaHideControls.label     "ເຊື່ອງປຸ່ມຄວບຄຸມ">
 <!ENTITY mediaHideControls.accesskey "C">
-<!ENTITY videoFullScreen.label       "ເຕັມຈໍ">
+<!ENTITY videoFullScreen.label       "ເຕັມຫນ້າຈໍ">
 <!ENTITY videoFullScreen.accesskey   "F">
 <!ENTITY videoSaveImage.label        "ບັນທຶກຮູບທີ່ຖ່າຍໄວ້ທີ່...">
 <!ENTITY videoSaveImage.accesskey    "S">
@@ -621,13 +625,13 @@ fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-<!ENTITY fullZoomEnlargeCmd.label       "ເພີມການຂະຫຍາຍຂື້ນ">
+<!ENTITY fullZoomEnlargeCmd.label       "ຂະຫຍາຍເຂົ້າ">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "I">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
-<!ENTITY fullZoomReduceCmd.label        "ລຸດການຂະຫຍາຍລົງ">
+<!ENTITY fullZoomReduceCmd.label        "ຂະຫຍາຍອອກ">
 <!ENTITY fullZoomReduceCmd.accesskey    "O">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
@@ -683,10 +687,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
-<!ENTITY findOnCmd.label     "ຊອກຫາໃນຫນ້ານີ້...">
+<!ENTITY findOnCmd.label     "ຄົ້ນຫາໃນຫນ້ານີ້…">
 <!ENTITY findOnCmd.accesskey "F">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "ຊອກຫາອີກເທື່ອຫນຶງ">
+<!ENTITY findAgainCmd.label  "ຄົ້ນຫາອີກເທື່ອຫນຶ່ງ">
 <!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
