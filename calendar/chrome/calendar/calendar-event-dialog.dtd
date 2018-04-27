@@ -430,3 +430,4 @@
 <!ENTITY summary.dialog.dontsend.label          "Send ikke et svar">
 <!ENTITY summary.dialog.dontsend.tooltiptext    "Endre din deltakelsesstatus uten å sende et svar til arrangøren og lukk vinduet">
 <!ENTITY summary.dialog.send.label              "Send et svar nå">
+<!ENTITY summary.dialog.send.tooltiptext        "Send et svar til arrangøren,  og lukk vinduet">
