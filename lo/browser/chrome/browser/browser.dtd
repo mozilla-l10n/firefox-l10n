@@ -703,7 +703,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.securityView.label "ຄວາມປອດໄພຂອງເວັບໄຊທ໌">
 
 <!ENTITY identity.connectionSecure "ການເຊື່ອມຕໍ່ທີປອດໄພ">
-<!ENTITY identity.connectionInternal "ນີ້ເປັນຫນ້າ &brandShortName ທີ່ປອດໄພ.">
+<!ENTITY identity.connectionInternal "ນີ້ເປັນຫນ້າ &brandShortName; ທີ່ປອດໄພ.">
 <!ENTITY identity.insecureLoginForms2 "ການປ້ອນຂໍ້ມູນການລັອກອິນທີ່ໃສ່ໄວ້ເທິງຫນ້ານີ້ອາດຈະຖືກບຸກລຸກໄດ້.">
 
 <!-- Strings for connection state warnings. -->
