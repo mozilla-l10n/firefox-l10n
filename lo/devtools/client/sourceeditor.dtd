@@ -15,3 +15,5 @@
   - documentation on web development on the web. -->
 
 <!ENTITY gotoLineCmd.label         "ຂ້າມໄປແຖວ…">
+<!ENTITY gotoLineCmd.key           "ຂ">
+<!ENTITY gotoLineCmd.accesskey     "ຂ">
