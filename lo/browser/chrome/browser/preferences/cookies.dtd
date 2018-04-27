@@ -4,13 +4,24 @@
 
 <!ENTITY window.width                       "36em">
 
+<!ENTITY     cookiesonsystem2.label         "ຕຸກກີ້ດັ່ງຕໍ່ໄປນີ້ແມ່ນຖືກຈັດເກັບໄວ້ໃນຄອມພິວເຕີຂອງທ່ານ">
+<!ENTITY     cookiename.label               "ຊື່ຄຸກກີ້">
+<!ENTITY     cookiedomain.label             "ເວັບ​ໄຊ​ທ໌">
 
+<!ENTITY     props.name.label               "ຊື່:">
+<!ENTITY     props.value.label              "ເນື້ອຫາ:">
 <!ENTITY     props.domain.label             "ພື້ນທີ່:">
+<!ENTITY     props.path.label               "ເສັ້ນທາງ:">
+<!ENTITY     props.secure.label             "ສົ່ງເພື່ອ:">
+<!ENTITY     props.expires.label            "ຫມົດອາຍຸ:">
+<!ENTITY     props.container.label          "ການແຍກຂໍ້ມູນ:">
 
+<!ENTITY     window.title                   "ຄຸກກີ້">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
-<!ENTITY     focusSearch2.key               "k">
 
+<!ENTITY     searchFilter.label             "ຊອກຫາ">
+<!ENTITY     searchFilter.accesskey         "S">
 
 <!ENTITY     button.close.label             "ປິດ">
 <!ENTITY     button.close.accesskey         "C">
