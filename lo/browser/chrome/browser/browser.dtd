@@ -13,15 +13,15 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(ການຄົ້ນຫາແບບສ່ວນຕົວ)">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(ການທ່ອງເວັບແບບສ່ວນຕົວ)">
 
 <!ENTITY appmenu.tooltip                     "ເປີດເມນູ">
 <!ENTITY navbarOverflow.label                "ເຄື່ອງມືເພີ່ມເຕີມ…">
 
 <!-- Tab context menu -->
-<!ENTITY  reloadTab.label                    "ໂລດແທັບຄືນໃຫມ່">
+<!ENTITY  reloadTab.label                    "ໂຫລດແທັບໃຫມ່">
 <!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  reloadAllTabs.label                "ໂຫລດແທັບທັງຫມົດຄືນໃຫມ່">
+<!ENTITY  reloadAllTabs.label                "ໂຫລດແທັບທັງຫມົດໃຫມ່">
 <!ENTITY  reloadAllTabs.accesskey            "A​">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
@@ -39,9 +39,9 @@ used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-<!ENTITY  pinTab.label                       "ປັກແທັບ">
+<!ENTITY  pinTab.label                       "ປັກຫມຸດແທັບ">
 <!ENTITY  pinTab.accesskey                   "P">
-<!ENTITY  unpinTab.label                     "ບໍ່ປັກແທັບ">
+<!ENTITY  unpinTab.label                     "ຖອນຫມຸດແທັບ">
 <!ENTITY  unpinTab.accesskey                 "b">
 <!ENTITY  sendTabToDevice.label              "ສົ່ງແທັບໄປຫາອຸປະກອນ">
 <!ENTITY  sendTabToDevice.accesskey          "D​">
@@ -55,7 +55,7 @@ can reach it easily. -->
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "ບຸກມາກແທັບທັງຫມົດ...">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
-<!ENTITY  undoCloseTab.label                 "ເອີ້ນຄືນແທັບທີ່ຫາກະປິດ">
+<!ENTITY  undoCloseTab.label                 "ເອີ້ນຄືນແທັບທີ່ຫາກໍປິດ">
 <!ENTITY  undoCloseTab.accesskey             "U">
 <!ENTITY  closeTab.label                     "ປິດແທັບ">
 <!ENTITY  closeTab.accesskey                 "C">
@@ -70,10 +70,10 @@ can reach it easily. -->
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "ເປີດຕຳແຫນ່ງທີ່ຕັ້ງ…">
-<!ENTITY openFileCmd.label "ເປີດ...">
+<!ENTITY openFileCmd.label "ເປີດໄຟລ໌...">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "ການຕັ້ງຄ່າຫນ້ານີ້">
+<!ENTITY printSetupCmd.label "ການຕັ້ງຄ່າຫນ້າເຈ້ຍ…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "ກວດເບິງຄືນກ່ອນການພິມ">
 <!ENTITY printPreviewCmd.accesskey "v">
@@ -81,17 +81,17 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY goOfflineCmd.label "ເຮັກວຽກອອບໄລນ໌">
+<!ENTITY goOfflineCmd.label "ເຮັດວຽກອອບໄລນ໌">
 <!ENTITY goOfflineCmd.accesskey "k">
 
-<!ENTITY menubarCmd.label "ແຖບລາຍການ">
+<!ENTITY menubarCmd.label "ແຖບເມນູ">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "ແຖບເຄື່ອງມືນຳທາງ">
 <!ENTITY personalbarCmd.label "ແຖບເຄື່ອງມືບຸກມາກ">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "ລາຍການຂອງແຖບເຄື່ອງມືບຸກມາກ">
 
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "ໂຫລດແທັບທັງຫມົດຄືນໃຫມ່">
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "ໂຫລດແທັບທັງຫມົດໃຫມ່">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A​">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "ບຸກມາກແທັບທັງຫມົດ...">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
@@ -116,31 +116,31 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY mirrorTabCmd.accesskey "m">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "ເຂົ້າສູ່ໂມດເຕັມຫນ້າຈໍ">
+<!ENTITY enterFullScreenCmd.label "ເຂົ້າສູ່ໂຫມດເຕັມຫນ້າຈໍ">
 <!ENTITY enterFullScreenCmd.accesskey "F">
-<!ENTITY exitFullScreenCmd.label "ອອກຈາກໂມດເຕັມຫນ້າຈໍ">
+<!ENTITY exitFullScreenCmd.label "ອອກຈາກໂຫມດເຕັມຫນ້າຈໍ">
 <!ENTITY exitFullScreenCmd.accesskey "F">
-<!ENTITY fullScreenCmd.label "ໂມດເຕັມຫນ້າຈໍ">
+<!ENTITY fullScreenCmd.label "ໂຫມດເຕັມຫນ້າຈໍ">
 <!ENTITY fullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.macCommandKey "f">
-<!ENTITY showAllTabsCmd.label "ສະແດງທຸກໆແທັບ">
+<!ENTITY showAllTabsCmd.label "ສະແດງແທັບທັງຫມົດ">
 <!ENTITY showAllTabsCmd.accesskey "A">
 <!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
-<!ENTITY fxaSignIn.label "ເຂົ້າສູ່ລະບົບເພື່ອ &syncBrand.shortName.label;">
+<!ENTITY fxaSignIn.label "ລົງຊື່ເຂົ້າໃຊ້ &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "ເປີດການຕັ້ງຄ່າ &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "ເຊື່ອມຕໍກັບ &syncBrand.shortName.label; ໃຫມ່">
 <!ENTITY fxaUnverified.label "ກວດສອບບັນຊີຂອງທ່ານ">
 
 
-<!ENTITY fullScreenMinimize.tooltip "ເຮັດໃຫ້ນ້ອຍລົງ">
+<!ENTITY fullScreenMinimize.tooltip "ຫຍໍ້ໃຫ້ນ້ອຍລົງ">
 <!ENTITY fullScreenRestore.tooltip "ກູ້ຄືນ">
 <!ENTITY fullScreenClose.tooltip "ປິດ">
 <!ENTITY fullScreenAutohide.label "ເຊື່ອງແຖບເຄືອງມື">
 <!ENTITY fullScreenAutohide.accesskey "H">
-<!ENTITY fullScreenExit.label "ອອກຈາກໂມດເຕັມຫນ້າຈໍ">
+<!ENTITY fullScreenExit.label "ອອກຈາກໂຫມດເຕັມຫນ້າຈໍ">
 <!ENTITY fullScreenExit.accesskey "F">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
@@ -155,9 +155,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-<!ENTITY exitDOMFullscreen.button "ອອກຈາກໂມດເຕັມຫນ້າຈໍ (Esc)">
-<!ENTITY exitDOMFullscreenMac.button "ອອກຈາກໂມດເຕັມຫນ້າຈໍ (Esc)">
-<!ENTITY leaveDOMFullScreen.label "ອອກຈາກໂມດເຕັມຫນ້າຈໍ">
+<!ENTITY exitDOMFullscreen.button "ອອກຈາກໂຫມດເຕັມຫນ້າຈໍ (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "ອອກຈາກໂຫມດເຕັມຫນ້າຈໍ (Esc)">
+<!ENTITY leaveDOMFullScreen.label "ອອກຈາກໂຫມດເຕັມຫນ້າຈໍ">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
