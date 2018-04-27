@@ -8,7 +8,7 @@ app-manager-window =
 app-manager-remove =
     .label = ລຶບ
     .accesskey = ລ
-app-manager-handle-webfeeds = ໂປຼແກຣມລຸ່ມນີ້ສາມາດໃຊ້ເພື່ອຈັດການ ການອັບເດດຂໍ້ມູນໃຫມ່ທາງເວັບ.
+app-manager-handle-webfeeds = ແອັບພລິເຄຊັ່ນດັ່ງຕໍ່ໄປນີ້ສາມາດໃຊ້ເພື່ອຈັດການ ຟີດເວັບ.
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = ໂປຼແກຣມລຸ່ມນີ້ສາມາດໃຊ້ເພື່ອຈັດການ { $type } ລີ້ງ.
@@ -20,4 +20,4 @@ app-manager-handle-file = ໂປຼແກຣມລຸ່ມນີ້ສາມາ
 ## by the URL or path of the application.
 
 app-manager-web-app-info = ເວັບນີ້ແມ່ນໄດ້ຖືກຝາກໄວ້ທີ່:
-app-manager-local-app-info = ເວັບນີ້ແມ່ນໄດ້ຖືກຕັ້ງຢູ່ທີ່
+app-manager-local-app-info = ເວັບນີ້ແມ່ນໄດ້ຖືກຕັ້ງຢູ່ທີ່:
