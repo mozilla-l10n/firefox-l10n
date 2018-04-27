@@ -86,4 +86,17 @@
 
 <!ENTITY cmd.find.key  "f">
 
+<!ENTITY detailsPane.selectAnItemText.description "Pilih item untuk dipapar dan diedit sifatnya">
 
+<!ENTITY view.label               "Papar">
+<!ENTITY view.accesskey           "r">
+<!ENTITY byDate.label             "Mengikut Tarikh">
+<!ENTITY byDate.accesskey         "T">
+<!ENTITY bySite.label             "Mengikut Laman">
+<!ENTITY bySite.accesskey         "L">
+<!ENTITY byMostVisited.label      "Mengikut Paling Dilawati">
+<!ENTITY byMostVisited.accesskey  "D">
+<!ENTITY byLastVisited.label      "Mengikut Terakhir Dilawati">
+<!ENTITY byLastVisited.accesskey  "T">
+<!ENTITY byDayAndSite.label       "Mengikut Tarikh dan Laman">
+<!ENTITY byDayAndSite.accesskey   "t">
