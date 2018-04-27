@@ -1,0 +1,42 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+<!ENTITY places.library.title  "Pustaka">
+<!ENTITY places.library.width  "700">
+<!ENTITY places.library.height "500">
+<!ENTITY organize.label        "Urus">
+<!ENTITY organize.accesskey    "U">
+<!ENTITY organize.tooltip      "Urus tandabuku anda">
+
+<!ENTITY file.close.label               "Tutup">
+<!ENTITY file.close.accesskey           "T">
+<!ENTITY cmd.close.key                  "w">
+<!ENTITY views.label                    "Paparan">
+<!ENTITY views.accesskey                "P">
+<!ENTITY views.tooltip                  "Tukar paparan anda">
+<!ENTITY view.columns.label             "Papar Lajur">
+<!ENTITY view.columns.accesskey         "L">
+<!ENTITY view.sort.label                "Susun">
+<!ENTITY view.sort.accesskey            "S">
+<!ENTITY view.unsorted.label            "Tidak disusun">
+<!ENTITY view.unsorted.accesskey        "T">
+<!ENTITY view.sortAscending.label       "Tertib Susunan A > Z">
+<!ENTITY view.sortAscending.accesskey   "A">
+<!ENTITY view.sortDescending.label      "Tertib Susunan Z > A">
+<!ENTITY view.sortDescending.accesskey  "Z">
+
+<!ENTITY importBookmarksFromHTML.label     "Import Tandabuku dari HTML…">
+
+
+
+
+
+
+
+
+
+
+
+
