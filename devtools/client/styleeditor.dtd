@@ -10,7 +10,6 @@
      A good criteria is the language in which you'd find the best documentation
      on web development on the web. -->
 
-
 <!ENTITY newButton.label            "Neuvo">
 <!ENTITY newButton.tooltip          "Crea e azonzi 'n neuvo feuggio de stile a-o documento">
 <!ENTITY newButton.accesskey        "N">
@@ -24,6 +23,28 @@
 <!ENTITY saveButton.label           "Sarva">
 <!ENTITY saveButton.tooltip         "Sarva sto feuggio de stile inte 'n file">
 <!ENTITY saveButton.accesskey       "S">
+
+<!ENTITY optionsButton.tooltip      " Editô do stile">
+
+<!-- LOCALIZATION NOTE  (showOriginalSources.label): This is the label on the context
+     menu item to toggle showing original sources in the editor. -->
+<!ENTITY showOriginalSources.label     "Fanni vedde sorgenti òriginali">
+
+<!-- LOCALIZATION NOTE  (showOriginalSources.accesskey): This is the access key for
+     the menu item to toggle showing original sources in the editor. -->
+<!ENTITY showOriginalSources.accesskey  "o">
+
+<!-- LOCALIZATION NOTE  (showMediaSidebar.label): This is the label on the context
+     menu item to toggle showing @media rule shortcuts in a sidebar. -->
+<!ENTITY showMediaSidebar.label     "Fanni vedde bara de scianco @media">
+
+<!-- LOCALIZATION NOTE  (showMediaSidebar.accesskey): This is the access key for
+     the menu item to toggle showing the @media sidebar. -->
+<!ENTITY showMediaSidebar.accesskey     "V">
+
+<!-- LOCALICATION NOTE  (mediaRules.label): This is shown above the list of @media rules
+     in each stylesheet editor sidebar. -->
+<!ENTITY mediaRules.label           "Regole @media">
 
 <!ENTITY editorTextbox.placeholder  "Scrivi o CSS chi.">
 
@@ -41,18 +62,6 @@
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-end.label): End of the tip sentence -->
 <!ENTITY noStyleSheet-tip-end.label    "?">
 
-<!ENTITY mediaRules.label "Regole @media">
-<!ENTITY openLinkNewTab.label "Arvi colegamento inte neuvo fueggio">
-<!ENTITY optionsButton.tooltip " Editô do stile">
-<!ENTITY showMediaSidebar.label "Fanni vedde bara de scianco @media">
-<!ENTITY showMediaSidebar.accesskey "V">
-<!ENTITY showOriginalSources.label "Fanni vedde sorgenti òriginali">
-<!ENTITY showOriginalSources.accesskey "o">
-
-
-
-
-
-
-
-
+<!-- LOCALIZATION NOTE (openLinkNewTab.label): This is the text for the
+     context menu item that opens a stylesheet in a new tab -->
+<!ENTITY openLinkNewTab.label     "Arvi colegamento in neuvo feuggio">

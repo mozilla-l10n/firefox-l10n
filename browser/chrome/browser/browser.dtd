@@ -987,7 +987,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Arvi torna pe agiornâ &brandShorterName;">
 
-<!ENTITY newTabControlled.message "'Na estenscion a l'à cangiou a pagina che ti veddi quande t'arvi 'n neuvo fueggio. Ti peu regpigiâ i teu inpostaçioin se no ti veu sto cangio.">
+<!ENTITY newTabControlled.message "'Na estenscion a l'à cangiou a pagina che ti veddi quande t'arvi 'n neuvo feuggio. Ti peu regpigiâ i teu inpostaçioin se no ti veu sto cangio.">
 
 <!ENTITY newTabControlled.header.message "A pagina neuvo feuggio a l'é cangiâ.">
 <!ENTITY newTabControlled.keepButton.label "Mantegni i cangi">
