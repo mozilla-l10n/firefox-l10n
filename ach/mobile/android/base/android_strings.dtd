@@ -181,7 +181,7 @@
 <!ENTITY pref_category_search3 "Yeny">
 <!ENTITY pref_category_search_summary2 "Med, ter makwongo, nyut tam amia">
 <!ENTITY pref_category_accessibility "Kit me nongo">
-<!ENTITY pref_category_accessibility_summary2 "Size pa coc, Medi, Kaketo dwan">
+<!ENTITY pref_category_accessibility_summary2 "Dit pa coc, kwoto, keto dwon">
 <!ENTITY pref_category_privacy_short "Mung">
 <!ENTITY pref_category_privacy_summary4 "Lubo kor, donyo iyie, yer me data">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
@@ -357,14 +357,14 @@
 
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
-<!ENTITY pref_use_system_font_size "Tii ki dit me coc pa nyonyo">
+<!ENTITY pref_use_system_font_size "Tii ki dit coc pa nyonyo">
 <!ENTITY pref_use_system_font_size_summary "Lok jami me kakube malube ki dit me coc pa nyonyo">
 
 <!ENTITY pref_media_autoplay_enabled "Ye tuko pire kene">
 <!ENTITY pref_media_autoplay_enabled_summary "Lo kacce kakube tuko video pi gi kengi ki jami mukene me poko ngec">
 <!ENTITY pref_zoom_force_enabled "Pol kare cak kwoto">
 <!ENTITY pref_zoom_force_enabled_summary "Dii tic pire kene wek i kwot potbuk mo keken">
-<!ENTITY pref_voice_input "Ket me dwon">
+<!ENTITY pref_voice_input "Keto dwon">
 <!ENTITY pref_voice_input_summary2 "Yee lok me dwon i lanyut me URL">
 <!ENTITY pref_qrcode_enabled "Lakwan kod me QR">
 <!ENTITY pref_qrcode_enabled_summary2 "Yee lameny QR i lanyut me URL">
@@ -395,7 +395,7 @@
 <!ENTITY pref_default_browser_mozilla_support_tablet "Lim Mozilla Support">
 <!ENTITY pref_about_firefox "Ikom &brandShortName;">
 <!ENTITY pref_vendor_faqs "Lapeny ma pol kare">
-<!ENTITY pref_vendor_feedback "Mi lagam">
+<!ENTITY pref_vendor_feedback "Mii adwogi">
 
 <!ENTITY pref_dialog_set_default "Ter calo makwongo">
 <!ENTITY pref_dialog_default "Bal tye iye">
@@ -639,7 +639,7 @@
 <!ENTITY pin_site_dialog_hint "Ket lok mapire tek me yeny">
 
 <!ENTITY filepicker_title "Yer Pwail">
-<!ENTITY filepicker_audio_title "Yer onyo ket tekod me dwon">
+<!ENTITY filepicker_audio_title "Yer onyo mak dwon">
 <!ENTITY filepicker_image_title "Yer onyo ter cal">
 <!ENTITY filepicker_video_title "Yer onyo ket video">
 
