@@ -11,6 +11,8 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override = Lok rangi ma potbuk ocimo ni ki ma in iyero malo ni
+    .accesskey = o
 colors-page-override-option-always =
     .label = Jwijwi
 colors-page-override-option-auto =
@@ -29,3 +31,7 @@ colors-underline-links =
     .label = Ngol te kakube
     .accesskey = l
 colors-links-header = Rangi me kakube
+colors-unvisited-links = Kakube mape kilimo
+    .accesskey = K
+colors-visited-links = Kakube ma kilimo
+    .accesskey = a

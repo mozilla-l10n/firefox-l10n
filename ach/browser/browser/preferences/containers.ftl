@@ -54,17 +54,27 @@ containers-color-purple =
     .label = Papul
 containers-icon-fingerprint =
     .label = Keto cing
+containers-icon-briefcase =
+    .label = Kicaa
 # String represents a money sign but currently uses a dollar sign
 # so don't change to local currency. See Bug 1291672.
 containers-icon-dollar =
     .label = Dollar sign
 containers-icon-cart =
     .label = Kikabo me wil
+containers-icon-circle =
+    .label = Alama
+containers-icon-vacation =
+    .label = Yweyo
 containers-icon-gift =
     .label = Mic
 containers-icon-food =
     .label = Dek
 containers-icon-fruit =
     .label = Nyig yat
+containers-icon-pet =
+    .label = Lee
 containers-icon-tree =
     .label = Yat
+containers-icon-chill =
+    .label = Ngico
