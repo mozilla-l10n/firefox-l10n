@@ -4,13 +4,37 @@
 
 <!-- The page shown when logged in... -->
 
-<!ENTITY engine.addons.label        "ໂປຼແກຣມເສີມ">
-<!ENTITY engine.addons.accesskey    "A">
+<!ENTITY engine.bookmarks.label     "ບຸກມາກ">
+<!ENTITY engine.bookmarks.accesskey "ບ">
+<!ENTITY engine.tabs.label2         "ແທັບທີ່ເປີດຢູ່">
+<!ENTITY engine.tabs.accesskey      "ທ">
+<!ENTITY engine.history.label       "ປະຫວັດການໃຊ້ງານ">
+<!ENTITY engine.history.accesskey   "ປ">
+<!ENTITY engine.logins.label        "ຂໍ້ມູນການເຂົ້າສູ່ລະບົບ">
+<!ENTITY engine.logins.accesskey    "ຂ">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, used as the checkbox which indicates if prefs are synced
+-->
+<!ENTITY engine.prefsWin.label      "ຕົວເລືອກ">
+<!ENTITY engine.prefsWin.accesskey  "ຕ">
+<!ENTITY engine.prefs.label         "ການຕັ້ງຄ່າ">
+<!ENTITY engine.prefs.accesskey     "ຄ">
+<!ENTITY engine.addons.label        "ໂປຣແກຣມເສີມ">
+<!ENTITY engine.addons.accesskey    "ສ">
+<!ENTITY engine.addresses.label     "ທີ່ຢູ່​">
+<!ENTITY engine.addresses.accesskey "ຢ">
 
 <!-- Device Settings -->
+<!ENTITY fxaSyncDeviceName.label       "ຊື່ອຸປະກອນ">
 <!ENTITY cancelChangeSyncDeviceName.label "ຍົກເລີກ">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "ຍ">
+<!ENTITY saveChangeSyncDeviceName.label "ບັນທຶກ">
+<!ENTITY saveChangeSyncDeviceName.accesskey "ບ">
 
 <!-- Footer stuff -->
+<!ENTITY prefs.tosLink.label        "ເງື່ອນໄຂການໃຫ້ບໍລິການ">
+<!ENTITY fxaPrivacyNotice.link.label "ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -26,6 +50,12 @@ both, to better adapt this sentence to their language.
 -->
 <!ENTITY signedInLoginFailure.aftername.label "">
 
+<!ENTITY signIn.label                 "ລົງຊື່ເຂົ້າໃຊ້">
+<!ENTITY signIn.accesskey             "ລ">
+<!ENTITY verifiedManage.label         "ຈັດການບັນຊີ">
+<!ENTITY verifiedManage.accesskey     "ຈ">
+<!ENTITY disconnect3.label            "ຕັດການເຊື່ອມຕໍ່…">
+<!ENTITY disconnect3.accesskey        "ດ">
 
 
 
@@ -38,4 +68,5 @@ both, to better adapt this sentence to their language.
 
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSBefore): This is text displayed between mobilePromo3.androidLink and mobilePromo3.iosLink -->
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
+
 

@@ -2,31 +2,37 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY searchBar.label                       "ແທັບຄົ້ນຫາ">
+<!ENTITY searchBar.label                       "ແຖບຊອກຫາ">
 
 <!ENTITY searchBar.hidden.label                "ນໍາໃຊ້ແທັບທີ່ຢູ່ເພື່ອຄົ້ນຫາ ແລະ ນໍາທາງ">
 <!ENTITY searchBar.shown.label                 "ເພີ່ມແທັບຄົ້ນຫາໃນແທັບເຄື່ອງມື">
 
-<!ENTITY defaultSearchEngine.label             "ເຄື່ອງມືການຄົ້ນຫາເລີ່ມຕົ້ນ">
+<!-- LOCALIZATION NOTE (showSearchSuggestionsAboveHistory.label): This string
+     describes what the user will observe when the system prioritizes search
+     suggestions over browsing history in the results that extend down from the
+     address bar. In the original English string, "ahead" refers to location
+     (appearing most proximate to), not time (appearing before). -->
+
+<!ENTITY defaultSearchEngine.label             "ເຄື່ອງມືການຊອກຫາເລີ່ມຕົ້ນ">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "ເລືອກເຄື່ອງມືການຄົ້ນຫາເລີ່ມຕົ້ນເພື່ອໃຊ້ໃນແທັບທີ່ຢູ່ ແລະ ແທັບຄົ້ນຫາ">
 
-<!ENTITY provideSearchSuggestions.label        "ໃຫ້ຄໍາແນະນໍາໃນການຄົ້ນຫາ">
-<!ENTITY provideSearchSuggestions.accesskey    "S">
+<!ENTITY provideSearchSuggestions.label        "ໃຫ້ຄໍາແນະນໍາໃນການຊອກຫາ">
+<!ENTITY provideSearchSuggestions.accesskey    "ຫ">
 
 <!ENTITY showURLBarSuggestions2.label           "ສະແດງຜົນໄດ້ຮັບໃນແທັບທີ່ຢູ່">
-<!ENTITY showURLBarSuggestions2.accesskey       "l">
+<!ENTITY showURLBarSuggestions2.accesskey       "ສ">
 
-<!ENTITY oneClickSearchEngines.label           "One-Click ເຄື່ອງມືການຄົ້ນຫາ">
+<!ENTITY oneClickSearchEngines.label           "ເຄື່ອງມືການຊອກຫາແບບ One-Click">
 
 
-<!ENTITY engineNameColumn.label                "ເຄື່ອງມືການຄົ້ນຫາ">
-<!ENTITY engineKeywordColumn.label             "ຄໍາທີ່ຕ້ອງການຄົ້ນຫາ">
+<!ENTITY engineNameColumn.label                "ເຄື່ອງມືການຊອກຫາ">
+<!ENTITY engineKeywordColumn.label             "ຄໍາທີ່ຕ້ອງການຊອກຫາ">
 
-<!ENTITY restoreDefaultSearchEngines.label     "ກູ້ຄືນເຄື່ອງມືການຄົ້ນຫາເລີ່ມຕົ້ນ">
-<!ENTITY restoreDefaultSearchEngines.accesskey "d">
+<!ENTITY restoreDefaultSearchEngines.label     "ກູ້ຄືນເຄື່ອງມືການຊອກຫາເລີ່ມຕົ້ນ">
+<!ENTITY restoreDefaultSearchEngines.accesskey "ກ">
 
 <!ENTITY removeEngine.label                    "ລຶບ">
 <!ENTITY removeEngine.accesskey                "ລ">
 
-<!ENTITY findMoreSearchEngines.label           "ໃຊ້ເຄື່ອງມືການຄົ້ນຫາເພີ່ມ">
+<!ENTITY findMoreSearchEngines.label           "ຄົ້ນຫາເຄື່ອງມືການຊອກຫາເພີ່ມເຕີມ">

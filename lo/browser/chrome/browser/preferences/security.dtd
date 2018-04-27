@@ -2,7 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  security.label                 "ຄວາມປອດໄພ">
 
+<!ENTITY  warnOnAddonInstall2.label       "ແຈ້ງເຕືອນເມື່ອເວັບໄຊທ໌ມີຄວາມຕ້ອງການຕິດຕັ້ງໂປຣແກຣມເສີມ">
+<!ENTITY  warnOnAddonInstall2.accesskey   "ຈ">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -11,16 +14,20 @@
 
 
 
-<!ENTITY  addonExceptions.label         "ຍົກເວັ້ນ">
+
+
+<!ENTITY  addonExceptions.label         "ຂໍ້ຍົກເວັ້ນ…">
 <!ENTITY  addonExceptions.accesskey     "ຍ">
 
 
 
-<!ENTITY  passwordExceptions.label      "ຍົກເວັ້ນ">
-<!ENTITY  passwordExceptions.accesskey  "x">
+<!ENTITY  passwordExceptions.label      "ຂໍ້ຍົກເວັ້ນ…">
+<!ENTITY  passwordExceptions.accesskey  "ວ">
 
 <!ENTITY  useMasterPassword.label        "ໃຊ້ລະຫັດຜ່ານຫຼັກ">
-<!ENTITY  useMasterPassword.accesskey    "U">
-<!ENTITY  changeMasterPassword.label     "ປ່ຽນລະຫັດຜ່ານຫຼັກ">
-<!ENTITY  changeMasterPassword.accesskey "M">
+<!ENTITY  useMasterPassword.accesskey    "ຊ">
+<!ENTITY  changeMasterPassword.label     "ປ່ຽນລະຫັດຜ່ານຫຼັກ…">
+<!ENTITY  changeMasterPassword.accesskey "ປ">
 
+<!ENTITY  savedLogins.label              "ຂໍ້ມູນການເຂົ້າສູ່ລະບົບທີ່ບັນທຶກໄວ້…">
+<!ENTITY  savedLogins.accesskey          "ຂ">

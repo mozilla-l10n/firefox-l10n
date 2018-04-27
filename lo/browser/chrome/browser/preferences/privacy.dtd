@@ -40,9 +40,16 @@
 <!ENTITY  acceptThirdParty2.pre.label     "ຍອມຮັບຄຸກກີ້ຈາກບຸກຄົນທີ່ສາມ">
 <!ENTITY  acceptThirdParty2.pre.accesskey "ອ">
 
+<!ENTITY  acceptCookies4.label          "ຍອມຮັບຄຸກກີ້ແລະຂໍ້ມູນເວັບໄຊທ໌ຈາກເວັບໄຊທ໌ (ແນະນຳ)">
+<!ENTITY  acceptCookies4.accesskey      "ຍ">
 
+<!ENTITY  blockCookies.label            "ບັອກຄຸກກີ້ແລະຂໍ້ມູນເວັບໄຊທ໌ (ອາດສົ່ງຜົນໃຫ້ເວັບໄຊທ໌ບໍ່ສົມບູນ)">
+<!ENTITY  blockCookies.accesskey        "ບ">
 
+<!ENTITY  acceptThirdParty3.pre.label     "ຍອມຮັບຄຸກກີ້ແລະຂໍ້ມູນເວັບໄຊທ໌ຈາກບຸກຄົນທີ່ສາມ">
+<!ENTITY  acceptThirdParty3.pre.accesskey "ອ">
 <!ENTITY  acceptThirdParty.always.label   "ຕະຫລອດເວລາ">
+<!ENTITY  acceptThirdParty.never.label    "ບໍ່ເຄີຍ">
 <!ENTITY  acceptThirdParty.visited.label  "ຈາກການຢ້ຽມຊົມ">
 
 
@@ -55,6 +62,8 @@
 <!ENTITY  showCookies.label             "ສະແດງຄຸກກີ໊">
 <!ENTITY  showCookies.accesskey         "S">
 
+<!ENTITY  historyHeader2.pre.label         "&brandShortName; ຈະ">
+<!ENTITY  historyHeader2.pre.accesskey     "ຈ">
 <!ENTITY  historyHeader.remember.label     "ບັນທຶກປະຫວັດການໃຊ້ງານ">
 <!ENTITY  historyHeader.dontremember.label "ບໍ່ເຄີຍບັນທຶກປະຫວັດການໃຊ້ງານ">
 <!ENTITY  historyHeader.custom.label       "ໃຊ້ການຕັ້ງຄ່າຕາມໃຈສຳລັບປະຫວັດການໃຊ້ງານ">
@@ -80,16 +89,25 @@
 <!ENTITY  dontrememberActions.clearHistory.label "ລືບທຸກປະຫວັດການໃຊ້ງານທີ່ມີຢຸໃນປະຈູບັນນີ້">
 <!ENTITY  dontrememberActions.post.label         ".">
 
+<!ENTITY  clearHistoryButton.label       "ລ້າງປະຫວັດການໃຊ້ງານ…">
+<!ENTITY  clearHistoryButton.accesskey   "ງ">
 
-<!ENTITY  privateBrowsingPermanent2.label "ນຳໃຊ້ການຄົ້ນຫາແບບສ່ວນຕົວຕະຫລອດເວລາ">
-<!ENTITY  privateBrowsingPermanent2.accesskey "p">
+<!ENTITY  privateBrowsingPermanent2.label "ນຳໃຊ້ການທ່ອງເວັບແບບສ່ວນຕົວຕະຫລອດເວລາ">
+<!ENTITY  privateBrowsingPermanent2.accesskey "ວ">
 
-<!ENTITY  rememberHistory2.label      "ບັນທຶກການຄົ້ນຫາຂອງຂ້ອຍ ແລະ ປະຫວັດການດາວໂຫລດ">
-<!ENTITY  rememberHistory2.accesskey  "b">
+<!ENTITY  rememberHistory2.label      "ບັນທຶກປະຫວັດການທ່ອງເວັບແລະການດາວໂຫລດຂອງຂ້ອຍ">
+<!ENTITY  rememberHistory2.accesskey  "ທ">
 
-<!ENTITY  rememberSearchForm.label       "ຈົດຈຳການຄົ້ນຫາ ແລະ ຮູບແບບປະຫວັດການໃຊ້ງານ">
-<!ENTITY  rememberSearchForm.accesskey   "f">
-
-
+<!ENTITY  rememberSearchForm.label       "ຈື່ຈຳປະຫວັດການຊອກຫາແລະແບບຟອມ">
+<!ENTITY  rememberSearchForm.accesskey   "ຟ">
 
 
+<!ENTITY  clearOnCloseSettings.label     "ການຕັ້ງຄ່າ…">
+<!ENTITY  clearOnCloseSettings.accesskey "ຕ">
+
+<!ENTITY  browserContainersLearnMore.label      "ຮຽນຮູ້ເພີ່ມເຕີມ">
+<!ENTITY  browserContainersSettings.label        "ການຕັ້ງຄ່າ…">
+<!ENTITY  browserContainersSettings.accesskey    "ກ">
+
+<!ENTITY  a11yPrivacy.learnmore.label    "ຮຽນຮູ້ເພີ່ມເຕີມ">
+<!ENTITY enableSafeBrowsingLearnMore.label "ຮຽນຮູ້ເພີ່ມເຕີມ">
