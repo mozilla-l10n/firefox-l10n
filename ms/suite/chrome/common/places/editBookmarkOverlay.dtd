@@ -24,3 +24,5 @@
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "Muatkan tandabuku ini ke dalam bar sisi">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "t">
 <!ENTITY editBookmarkOverlay.choose.label                    "Pilih…">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "Folder Baru">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "o">
