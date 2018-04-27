@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  prefWindow.titleWin     "ທາງເລືອກ">
+<!ENTITY  prefWindow.titleWin     "ຕົວເລືອກ">
 <!ENTITY  prefWindow.title        "ຕັ້ງຄ່າ">
 <!-- LOCALIZATION NOTE (prefWindow.titleGNOME): This is not used for in-content preferences -->
 <!ENTITY  prefWindow.titleGNOME   "&brandShortName; ການຕັ້ງຄ່າ">
@@ -13,8 +13,26 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 47em; min-height: 40em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 45.5em; min-height: 40.5em;">
 
+<!-- LOCALIZATION NOTE: (searchField.width): This is used to determine the width
+     of the search field in about:preferences, in order to make entire placeholder
+     string visible -->
+<!ENTITY  searchField.width             "15.4em">
+
+<!ENTITY  paneSearchResults.title       "ຜົນການຊອກຫາ">
 <!ENTITY  paneGeneral.title             "ທົ່ວໄປ">
+<!ENTITY  paneSearch.title              "ຊອກຫາ">
+<!ENTITY  paneFilesApplications.title   "ໄຟລ໌ &amp; ແອັບພລິເຄຊັ່ນ">
+<!ENTITY  panePrivacySecurity.title     "ຄວາມເປັນສ່ວນຕົວ &amp; ຄວາມປອດໄພ">
+<!ENTITY  paneContainers.title          "ແທັບແຍກຂໍ້ມູນ">
+<!ENTITY  paneUpdates.title             "ອັບເດດ">
+
+<!ENTITY  languageAndAppearance.label   "ພາສາແລະລັກສະນະທີ່ປະກົດ">
+<!ENTITY  filesAndApplications.label    "ໄຟລ໌ແລະແອັບພລິເຄຊັ່ນ">
+
+
+<!ENTITY  browserPrivacy.label          "ຄວາມເປັນສ່ວນຕົວບຣາວເຊີ">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
+<!ENTITY  paneSync1.title          "ບັນຊີ Firefox">
 
-
+<!ENTITY  helpButton2.label        "ການສະຫນັບສະຫນູນຂອງ &brandShortName;">
