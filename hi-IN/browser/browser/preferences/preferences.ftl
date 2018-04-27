@@ -98,6 +98,12 @@ extension-controlled-websites-tracking-protection-mode = एक्सटें�
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = एक्सटेंशन, <img data-l10n-name="icon"/> { $name }, यह नियंत्रित कर रहा है { -brand-short-name } कैसे इंटरनेट से जुड़ेगा.
+# This string is shown after the user disables an extension to notify the user
+# how to enable an extension that they disabled.
+#
+# <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
+# <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
+extension-controlled-enable = एक्सटेंशन को सक्षम करने के लिए <img data-l10n-name="addons-icon"/> <img data-l10n-name="menu-icon"/> मेनू में ऐड-ऑन पर जाएँ.
 
 ## Preferences UI Search Results
 
@@ -136,6 +142,9 @@ startup-blank-page =
     .label = खाली पृष्ठ दिखाएँ
 startup-prev-session =
     .label = पिछले समय से आपके विंडोज़ और टैब्स दिखाएँ
+startup-restore-previous-session =
+    .label = पिछला सत्र पुनर्बहाल करें
+    .accesskey = s
 disable-extension =
     .label = एक्सटेंशन अक्षम करें
 home-page-header = मुख पृष्ठ
@@ -323,6 +332,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = नेटवर्क प्रॉक्सी
+network-proxy-connection-description = विन्यस्त करें की { -brand-short-name } कैसे इंटरनेट से जुड़ेगा.
 network-proxy-connection-learn-more = अधिक जानें
 network-proxy-connection-settings =
     .label = सेटिंग…
