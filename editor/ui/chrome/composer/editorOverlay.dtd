@@ -189,20 +189,20 @@
 <!ENTITY advancedPropertiesCmd.accesskey "P">
 
 <!-- Align menu items -->
-<!ENTITY alignMenu.label "Aliniere">
+<!ENTITY alignMenu.label "Aliniază">
 <!ENTITY alignMenu.accesskey "A">
 <!ENTITY alignLeft.label "Stânga">
 <!ENTITY alignLeft.accesskey "S">
-<!ENTITY alignLeft.tooltip "Aliniere stânga">
+<!ENTITY alignLeft.tooltip "Aliniază la stânga">
 <!ENTITY alignCenter.label "Centrat">
 <!ENTITY alignCenter.accesskey "C">
-<!ENTITY alignCenter.tooltip "Aliniere centru">
+<!ENTITY alignCenter.tooltip "Aliniază la centru">
 <!ENTITY alignRight.label "Dreapta">
 <!ENTITY alignRight.accesskey "D">
-<!ENTITY alignRight.tooltip "Aliniere dreapta">
+<!ENTITY alignRight.tooltip "Aliniază la dreapta">
 <!ENTITY alignJustify.label "Stânga/dreapta">
 <!ENTITY alignJustify.accesskey "S">
-<!ENTITY alignJustify.tooltip "Aliniere la stânga și la dreapta">
+<!ENTITY alignJustify.tooltip "Aliniază la stânga și dreapta">
 
 <!-- Layer toolbar items -->
 <!ENTITY layer.tooltip "Strat">
@@ -296,7 +296,7 @@
 <!ENTITY spellToolbarCmd.tooltip "Verifică ortografia în zona selectată sau în întreaga pagină">
 <!ENTITY imageToolbarCmd.label "Imagine">
 <!ENTITY imageToolbarCmd.tooltip "Inserează o nouă imagine sau editează proprietățile imaginii selectate">
-<!ENTITY hruleToolbarCmd.label "Linie">
+<!ENTITY hruleToolbarCmd.label "Linie orizontală">
 <!ENTITY hruleToolbarCmd.tooltip "Inserează o linie orizontală sau editează proprietățile liniei selectate">
 <!ENTITY tableToolbarCmd.label "Tabel">
 <!ENTITY tableToolbarCmd.tooltip "Inserează un nou tabel sau editează proprietățile tabelului selectat">
@@ -320,7 +320,7 @@
 <!ENTITY numberListToolbarCmd.tooltip "Aplică sau elimină listă numerotată">
 <!ENTITY outdentToolbarCmd.tooltip "Scade indentarea textului (mută la stânga)">
 <!ENTITY indentToolbarCmd.tooltip "Crește indentarea textului (mută la dreapta)">
-<!ENTITY AlignPopupButton.tooltip "Alege alinierea textului">
+<!ENTITY AlignPopupButton.tooltip "Alege aliniamentul textului">
 <!ENTITY InsertPopupButton.tooltip "Inserează un link, ancoră, imagine, linie orizontală sau tabel">
 <!ENTITY alignLeftButton.tooltip "Aliniază textul la stânga">
 <!ENTITY alignCenterButton.tooltip "Centrează textul">

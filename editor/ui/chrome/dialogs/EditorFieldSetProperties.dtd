@@ -9,7 +9,7 @@
 
 <!ENTITY EditLegendText.label "Editează legenda:">
 <!ENTITY EditLegendText.accesskey "t">
-<!ENTITY LegendAlign.label "Aliniere legendă:">
+<!ENTITY LegendAlign.label "Aliniază legenda:">
 <!ENTITY LegendAlign.accesskey "A">
 <!ENTITY AlignDefault.label "Implicit">
 <!ENTITY AlignLeft.label "Stânga">
