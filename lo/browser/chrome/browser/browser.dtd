@@ -706,7 +706,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is the header of the security subview in the Site Identity panel. -->
 <!ENTITY identity.securityView.label "ຄວາມປອດໄພຂອງເວັບໄຊທ໌">
 
-<!ENTITY identity.connectionSecure "ການເຊື່ອມຕໍ່ທີປອດໄພ">
+<!ENTITY identity.connectionSecure "ການເຊື່ອມຕໍ່ທີ່ປອດໄພ">
 <!ENTITY identity.connectionInternal "ນີ້ເປັນຫນ້າ &brandShortName; ທີ່ປອດໄພ.">
 <!ENTITY identity.insecureLoginForms2 "ການປ້ອນຂໍ້ມູນການລັອກອິນທີ່ໃສ່ໄວ້ເທິງຫນ້ານີ້ອາດຈະຖືກບຸກລຸກໄດ້.">
 
@@ -728,7 +728,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-<!ENTITY tabsToolbar.label "ແຖບບຣາວເສີ">
+<!ENTITY tabsToolbar.label "ແທັບບຣາວເຊີ">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 <!ENTITY syncTabsMenu3.label     "ແທັບທີ່ຊິງຄ໌ແລ້ວ">
@@ -829,7 +829,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pluginNotification.showAll.accesskey "S">
 
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
-<!ENTITY pluginActivateAlways.label "ອະນຸຍາດແລະຈືຈຳ">
+<!ENTITY pluginActivateNow.label "ອະນຸຍາດດຽວນີ້">
+<!ENTITY pluginActivateAlways.label "ອະນຸຍາດແລະຈື່ຈຳ">
+<!ENTITY pluginBlockNow.label "ບັອກປັກອິນ">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
@@ -879,15 +881,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "ເລີ່ມການທຳງານໃຫມ່ເພື່ອອັບເດດ &brandShorterName;">
 
 
+<!ENTITY newTabControlled.keepButton.label "ເກັບການປ່ຽນແປງ">
 <!ENTITY newTabControlled.keepButton.accesskey "K">
 <!ENTITY newTabControlled.restoreButton.label "ກູ້ຄືນການຕັ້ງຄ່າ">
 <!ENTITY newTabControlled.restoreButton.accesskey "R">
 
-<!ENTITY newTabControlled.disableButton.label "ປິດໃຊ້ສ່ວນຂະຫຍາຍ ">
+<!ENTITY newTabControlled.disableButton.label "ປິດໃຊ້ສ່ວນຂະຫຍາຍ">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
+<!ENTITY homepageControlled.keepButton.label "ເກັບການປ່ຽນແປງ">
 <!ENTITY homepageControlled.keepButton.accesskey "K">
-<!ENTITY homepageControlled.disableButton.label "ປິດໃຊ້ສ່ວນຂະຫຍາຍ ">
+<!ENTITY homepageControlled.disableButton.label "ປິດໃຊ້ສ່ວນຂະຫຍາຍ">
 <!ENTITY homepageControlled.disableButton.accesskey "D">
 
 

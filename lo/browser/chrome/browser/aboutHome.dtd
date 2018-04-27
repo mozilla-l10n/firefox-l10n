@@ -22,7 +22,7 @@
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
 <!ENTITY abouthome.rightsSnippet "&brandFullName; ຟຣີແລະເປີດແຫຼ່ງຂໍ້ມູນຊອບແວຈາກຫາກຖານໂມຊີລາໂດຍບໍ່ຫວັງຜົນກໍາໄລ. <a>ຮູ້ຈັກສິດທິຂອງທ່ານ...</a>">
 
-<!ENTITY abouthome.bookmarksButton.label "ບຸກມາກສ໌">
+<!ENTITY abouthome.bookmarksButton.label "ບຸກມາກ">
 <!ENTITY abouthome.historyButton.label   "ປະຫວັດການໃຊ້ງານ">
 <!-- LOCALIZATION NOTE (abouthome.preferencesButtonWin.label): The label for the
      preferences/options item on about:home on Windows -->
