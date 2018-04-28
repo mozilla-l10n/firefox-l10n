@@ -394,10 +394,10 @@ search-bar-shown =
 search-engine-default-header = Výchozí vyhledávací modul
 search-engine-default-desc = Vyberte výchozí vyhledávač pro hledání z adresního řádku nebo vyhledávacího pole.
 search-suggestions-option =
-    .label = Našeptávat návrhy hledání
+    .label = Našeptávat vyhledávání
     .accesskey = n
 search-show-suggestions-url-bar-option =
-    .label = Našeptávat návrhy hledání také v adresním řádku
+    .label = Našeptávat vyhledávání také v adresním řádku
     .accesskey = e
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
@@ -405,8 +405,8 @@ search-show-suggestions-url-bar-option =
 # "ahead" refers to location (appearing most proximate to), not time
 # (appearing before).
 search-show-suggestions-above-history-option =
-    .label = Našeptávat návrhy hledání v adresním řádku nad stránkami z historie prohlížení
-search-suggestions-cant-show = Návrhy hledání nebudou v našeptávání adresního řádku uvedeny, protože jste nastavili aplikaci { -brand-short-name }, aby si nikdy nepamatovala historii.
+    .label = Našeptávat vyhledávání v adresním řádku nad stránkami z historie prohlížení
+search-suggestions-cant-show = Návrhy vyhledávání se nebudou adresním řádku zobrazovat, protože jste aplikaci { -brand-short-name } nastavili, aby si nikdy nepamatovala historii.
 search-one-click-header = Vyhledávání jedním klepnutím
 search-one-click-desc = Vyberte další vyhledávače, které se zobrazí v nabídce adresního řádku a vyhledávacího pole.
 search-choose-engine-column =
