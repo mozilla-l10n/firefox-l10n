@@ -354,6 +354,21 @@ home-new-windows-tabs-description2 = Tagh na chì thu nuair a dh’fhosglas tu a
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = An duilleag-dhachaidh is uinneagan ùra
+home-newtabs-mode-label = Tabaichean ùra
+home-restore-defaults =
+    .label = Aisig na bun-roghainnean
+    .accesskey = r
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Dachaidh Firefox (bun-roghainn)
+home-mode-choice-custom =
+    .label = URLaichean gnàthaichte...
+home-mode-choice-blank =
+    .label = Duilleag bhàn
+home-homepage-custom-url =
+    .placeholder = Cuir URL ann...
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -462,6 +477,9 @@ sync-signedin-login-failure = Clàraich a-steach airson ceangal ris a-rithist { 
 sync-resend-verification =
     .label = Cuir an dearbhadh às ùr
     .accesskey = d
+sync-remove-account =
+    .label = Thoir an cunntas air falbh
+    .accesskey = r
 sync-sign-in =
     .label = Clàraich a-steach
     .accesskey = t
@@ -523,6 +541,9 @@ privacy-header = Prìobhaideachd a’ bhrabhsair
 ## Privacy Section - Forms
 
 forms-header = Foirmean ⁊ faclan-faire
+forms-ask-to-save-logins =
+    .label = Faighnich an dèid clàraidhean a-steach is faclan-faire làraichean-lìn a shàbhaladh
+    .accesskey = r
 forms-exceptions =
     .label = Eisgeachdan…
     .accesskey = E
@@ -589,6 +610,10 @@ sitedata-block-cookies-option =
     .accesskey = B
 sitedata-keep-until = Cum gus
     .accesskey = u
+sitedata-keep-until-expire =
+    .label = Falbhaidh an ùine orra
+sitedata-keep-until-closed =
+    .label = Tha { -brand-short-name } dùinte
 sitedata-accept-third-party-desc = Gabh ri briosgaidean is dàta làraich o threas-phàrtaidhean
     .accesskey = y
 sitedata-accept-third-party-always-option =
