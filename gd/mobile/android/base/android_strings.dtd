@@ -282,6 +282,13 @@
 <!ENTITY pref_whats_new_notification "Na tha ùr ann am &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Fàs eòlach air gleusan ùra an cois ùrachaidh">
 
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!ENTITY pref_feature_tips_notification "Gliocasan bathair is ghleusan">
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+<!ENTITY pref_feature_tips_notification_summary "Faigh barrachd fiosrachaidh mu chleachdadh &brandShortName; is bathar &vendorShortName; eile">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "Gleusan deuchainneach">
@@ -422,7 +429,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "Aithisg slàinte &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "Bheir seo dàta air slàinte a’ bhrabhsair agad dha &vendorShortName; agus bheir e dhut fiosrachadh air dèanadas a’ bhrabhsair agad">
-<!ENTITY datareporting_abouthr_title "Faic an aithisg slàinte agam">
 <!ENTITY datareporting_telemetry_title "Telemeatraidh">
 <!ENTITY datareporting_telemetry_summary "Nochd fiosrachadh air dèanadas, cleachdadh is gnàthachaidhean a’ bhrabhsair dha &vendorShortName; ach an urrainn dhuinn &brandShortName; a leasachadh">
 <!ENTITY datareporting_crashreporter_summary "Cuiridh &brandShortName; aithisgean tuislidh dha &vendorShortName; airson ’s gun urrainn dhuinn am brabhsair agad a dhèanamh nas seasmhaiche agus nas tèarainte">
@@ -537,7 +543,7 @@
 <!ENTITY pref_compact_tabs_summary2 "Cuir na tabaichean ann an dà cholbh sa mhodh phortraid">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
-     any page is removed frome about:home. This includes pages that are in history,
+     any page is removed from about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Air a thoirt air falbh">
 <!ENTITY folder_removed "Chaidh am pasgan a thoirt air falbh">
@@ -752,7 +758,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Sioncronachadh mu dheireadh: &formatS;">
-<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!-- Localization note: Used when the sync has not happened yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Cha deach a shioncronachadh a-riamh">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
