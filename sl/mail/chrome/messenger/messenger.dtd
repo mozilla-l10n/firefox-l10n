@@ -317,7 +317,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Klepet">
 <!ENTITY goChatCmd.accesskey "K">
-<!ENTITY goChatCmd.key "I">
 <!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Sporočilo z zvezdico">
 <!ENTITY prevStarredMsgCmd.accesskey "z">
@@ -510,8 +509,6 @@
 <!ENTITY devToolboxCmd.label "Orodjarna za razvijalce">
 <!ENTITY devToolboxCmd.accesskey "O">
 <!ENTITY devToolboxCmd.commandkey "i">
-<!ENTITY addonDebugCmd.label "Razhroščevalnik dodatkov">
-<!ENTITY addonDebugCmd.accesskey "d">
 <!ENTITY debugAddonsCmd.label "Razhrošči dodatke">
 <!ENTITY debugAddonsCmd.accesskey "R">
 <!ENTITY tabsDebugCmd.label "Razhroščevalnik vsebinskega okvirja">
@@ -646,6 +643,7 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Prejmi sporočila">
 <!ENTITY folderContextGetMessages.accesskey "P">
+<!ENTITY folderContextMarkAllFoldersRead.label "Označi vse mape kot prebrane">
 <!ENTITY folderContextPauseAllUpdates.label "Ustavi vse posodobitve">
 <!ENTITY folderContextPauseUpdates.label "Ustavi posodobitve">
 <!ENTITY folderContextPauseUpdates.accesskey "U">
@@ -871,7 +869,7 @@
   -->
 <!ENTITY quickSearchCmd.key "k">
 <!-- LOCALIZATION NOTE (search.label.base1):
-      This is the base of the empty text for the global search box. We replace
+     This is the base of the empty text for the global search box. We replace
      #1 with the contents of the appropriate search.keyLabel.* value for the
      platform.
      The goal is to convey to the user that typing in the box will allow them
