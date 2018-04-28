@@ -12,18 +12,18 @@
      suggestions over browsing history in the results that extend down from the
      address bar. In the original English string, "ahead" refers to location
      (appearing most proximate to), not time (appearing before). -->
-<!ENTITY showSearchSuggestionsAboveHistory.label "Našeptávat návrhy hledání v adresním řádku nad stránkami z historie prohlížení">
+<!ENTITY showSearchSuggestionsAboveHistory.label "Našeptávat vyhledávání v adresním řádku nad stránkami z historie prohlížení">
 
 <!ENTITY defaultSearchEngine.label             "Výchozí vyhledávací modul">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Vyberte výchozí vyhledávač pro hledání z adresního řádku nebo vyhledávacího pole.">
 
-<!ENTITY provideSearchSuggestions.label        "Našeptávat návrhy hledání">
+<!ENTITY provideSearchSuggestions.label        "Našeptávat vyhledávání">
 <!ENTITY provideSearchSuggestions.accesskey    "n">
 
-<!ENTITY showURLBarSuggestions2.label           "Našeptávat návrhy hledání také v adresním řádku">
+<!ENTITY showURLBarSuggestions2.label           "Našeptávat vyhledávání také v adresním řádku">
 <!ENTITY showURLBarSuggestions2.accesskey       "e">
-<!ENTITY urlBarSuggestionsPermanentPB.label    "Návrhy hledání nebudou v našeptávání adresního řádku uvedeny, protože jste nastavili aplikaci &brandShortName;, aby si nikdy nepamatovala historii.">
+<!ENTITY urlBarSuggestionsPermanentPB.label    "Návrhy vyhledávání se nebudou adresním řádku zobrazovat, protože jste aplikaci &brandShortName; nastavili, aby si nikdy nepamatovala historii.">
 
 <!ENTITY oneClickSearchEngines.label           "Vyhledávání jedním klepnutím">
 
