@@ -519,7 +519,7 @@
 <!ENTITY debugAddonsCmd.accesskey "დ">
 <!ENTITY tabsDebugCmd.label "შიგთავსის კადრის გამმართველი">
 <!ENTITY tabsDebugCmd.accesskey "შ">
-<!ENTITY errorConsoleCmd.label "კონსოლის შეცდომა">
+<!ENTITY errorConsoleCmd.label "შეცდომების კონსოლი">
 <!ENTITY errorConsoleCmd.accesskey "E">
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY scratchpadCmd.label "სამუშაო დაფა">
@@ -875,7 +875,7 @@
   -->
 <!ENTITY quickSearchCmd.key "k">
 <!-- LOCALIZATION NOTE (search.label.base1):
-      This is the base of the empty text for the global search box. We replace
+     This is the base of the empty text for the global search box. We replace
      #1 with the contents of the appropriate search.keyLabel.* value for the
      platform.
      The goal is to convey to the user that typing in the box will allow them
