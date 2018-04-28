@@ -45,6 +45,9 @@ policies-notice =
 pane-general-title = Coitcheann
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = Dhachaigh
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = Lorg
 category-search =
     .tooltiptext = { pane-search-title }
@@ -142,6 +145,9 @@ startup-blank-page =
     .label = Seall duilleag bhàn
 startup-prev-session =
     .label = Seall na h-uinneagan is tabaichean a bha agad san t-seisean mu dheireadh
+startup-restore-previous-session =
+    .label = Aisig an seisean mu dheireadh
+    .accesskey = s
 disable-extension =
     .label = Cuir an leudachan à comas
 home-page-header = An duilleag-dhachaidh
@@ -343,6 +349,8 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = Uinneagan is tabaichean ùra
+home-new-windows-tabs-description2 = Tagh na chì thu nuair a dh’fhosglas tu an duilleag-dhachaidh agad no uinneag no taba ùr.
 
 ## Home Section - Home Page Customization
 
