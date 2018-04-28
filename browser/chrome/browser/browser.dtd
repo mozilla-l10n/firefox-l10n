@@ -129,7 +129,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Паказаць усе карткі">
 <!ENTITY showAllTabsCmd.accesskey "у">
 <!ENTITY toggleReaderMode.key "R">
-
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "Увайсці ў &syncBrand.shortName.label;">
@@ -189,10 +188,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Іншыя закладкі">
 <!ENTITY mobileBookmarksCmd.label "Мабільныя закладкі">
 <!ENTITY bookmarksToolbarChevron.tooltip "Паказаць больш закладак">
-<!ENTITY showRecentlyBookmarked.label     "Паказаць нядаўнія закладкі">
-<!ENTITY showRecentlyBookmarked.accesskey "а">
-<!ENTITY hideRecentlyBookmarked.label     "Схаваць нядаўнія закладкі">
-<!ENTITY hideRecentlyBookmarked.accesskey "С">
 
 <!ENTITY backCmd.label                "Назад">
 <!ENTITY backCmd.accesskey            "Н">
@@ -234,7 +229,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Перакласці гэту старонку">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Кіраваць перакладам старонкі">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Кіраваць ужываннем DRM-праграм">
-
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Адкрыць панэль MIDI">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Вы заблакавалі сваю камеру на гэтым вэб-сайце.">
@@ -245,7 +239,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Вы заблакавалі захоўванне звестак для гэтага вэб-сайта.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Вы заблакавалі выплыўныя вокны для гэтага вэб-сайта.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Вы заблакавалі выманне дадзеных canvas для гэтага вэб-сайта.">
-
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Вы забаранілі гэтаму вэб-сайту выкарыстоўваць плагін Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Вы заблакавалі MIDI доступ для гэтага вэб-сайта.">
 
@@ -395,7 +388,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Хочаце пабачыць свае карткі з іншых прылад?">
-<!ENTITY appMenuRemoteTabs.openprefs.label "Налады сінхранізацыі">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Адкрыць налады сінхранізацыі">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Увайдзіце, каб пабачыць спіс картак з іншых сваіх прылад.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Ваш уліковы запіс патрабуе пацвярджэння.">
@@ -444,7 +436,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Шукаць ці ўвесці адрас">
-<!ENTITY urlbar.placeholder3          "Уводзьце пошукавыя запыты і адрасы тут">
 <!ENTITY urlbar.accesskey             "а">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Пашырэнне:">
@@ -855,11 +846,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "П">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY customizeMode.menuAndToolbars.header3 "Перацягнуць любімыя элементы на паліцу прылад або ў меню перапаўнення.">
+<!ENTITY customizeMode.menuAndToolbars.header3 "Перацягніце ўлюбёныя элементы на паліцу прылад або ў меню перапаўнення.">
 <!ENTITY customizeMode.restoreDefaults "Аднавіць прадвызначаныя">
 <!ENTITY customizeMode.done "Гатова">
 <!ENTITY customizeMode.titlebar "Панэль загалоўка">
-<!ENTITY customizeMode.extraDragSpace "Перацягніце прагал">
+<!ENTITY customizeMode.extraDragSpace "Прагал для цягання">
 <!ENTITY customizeMode.toolbars2 "Паліцы прылад">
 <!ENTITY customizeMode.lwthemes "Тэмы">
 <!ENTITY customizeMode.lwthemes.myThemes "Мае тэмы">
@@ -988,14 +979,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "Н">
 <!ENTITY updateRestart.panelUI.label2 "Перазапуск для абнаўлення &brandShorterName;">
 
-<!ENTITY newTabControlled.message "Пашырэнне змяніла старонку, якую вы бачыце, калі адкрылі новую картку. Калі не хочаце гэтых змен, вы можаце аднавіць наладкі.">
-
 <!ENTITY newTabControlled.header.message "Ваша новая картка была зменена.">
 <!ENTITY newTabControlled.keepButton.label "Замацаваць змены">
 <!ENTITY newTabControlled.keepButton.accesskey "З">
-<!ENTITY newTabControlled.restoreButton.label "Аднавіць наладкі">
-<!ENTITY newTabControlled.restoreButton.accesskey "А">
-
 <!ENTITY newTabControlled.disableButton.label "Адключыць пашырэнне">
 <!ENTITY newTabControlled.disableButton.accesskey "А">
 
