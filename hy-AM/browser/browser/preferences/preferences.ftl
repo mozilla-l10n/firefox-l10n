@@ -145,6 +145,9 @@ startup-blank-page =
     .label = Ցուցադրել դատարկ էջ
 startup-prev-session =
     .label = Ցուցադրել ձեր նախորդ պատուհանները և ներդիրները
+startup-restore-previous-session =
+    .label = Վերականգնել նախորդ աշխատաշրջանը
+    .accesskey = s
 disable-extension =
     .label = Անջատել ընդլայնումը
 home-page-header = Տնային էջ
@@ -532,6 +535,9 @@ privacy-header = Դիտարկիչի գաղտնիություն
 ## Privacy Section - Forms
 
 forms-header = Ձևեր և գաղտնաբառեր
+forms-ask-to-save-logins =
+    .label = Հարցնել և պահպանել մուտքագրումները և գաղտնաբառրը կայքերի համար
+    .accesskey = r
 forms-exceptions =
     .label = Բացառություններ…
     .accesskey = ա
