@@ -46,19 +46,10 @@
 
 <!ENTITY  feedTab               "Նորությունների շղթա">
 <!ENTITY  feedTab.accesskey     "Ն">
-<!ENTITY  feedSubscribe         "Բաժանորդագրվել">
-<!ENTITY  feedSubscribe.accesskey "Բ">
 
 <!ENTITY  permTab               "Թույլտվություններ">
 <!ENTITY  permTab.accesskey     "Ի">
-<!ENTITY  permUseDefault        "Օգտ. լռելյայն">
-<!ENTITY  permAskAlways         "Միշտ հարցնել">
-<!ENTITY  permAllow             "Թույլատրել">
-<!ENTITY  permAllowSession      "Թույլատրել այս անգամ">
-<!ENTITY  permHide              "Թաքցնել">
-<!ENTITY  permBlock             "Արգելել">
 <!ENTITY  permissionsFor        "Թույլտվություններ՝">
-<!ENTITY  permPlugins           "Ակտիվացնել բաղադրիչները">
 
 <!ENTITY  securityTab           "Անվտանգություն">
 <!ENTITY  securityTab.accesskey "S">
@@ -78,6 +69,9 @@
 <!ENTITY  securityView.privacy.cookies                  "Այս վեբ կայքը պահո՞ւմ է տեղեկություն (քուկի) իմ համակարգչում">
 <!ENTITY  securityView.privacy.viewCookies              "Դիտել Cookie-ները">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.siteData                 "Այս կայքը տեղեկություններ պահու՞մ է համակարգչում:">
+<!ENTITY  securityView.privacy.clearSiteData            "Մաքրել Cookie-ները և կայքի տվյալները">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "C">
 <!ENTITY  securityView.privacy.passwords                "Պահպանե՞լ եմ արդյոք գաղտնաբառեր այս կայքի համար">
 <!ENTITY  securityView.privacy.viewPasswords            "Դիտել Հիշած Գաղտնաբառերը">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
