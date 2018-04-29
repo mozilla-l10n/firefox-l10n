@@ -84,6 +84,7 @@
 <!ENTITY lightning.imipbar.description                                      "Бұл хабарламада оқиғаға шақыру бар.">
 
 <!ENTITY lightning.imipbar.btnSend.label                                    "Жауапты қазір жіберу">
+<!ENTITY lightning.imipbar.btnDontSend.label                                "Жауапты жібермеу">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">

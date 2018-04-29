@@ -194,6 +194,8 @@
 <!ENTITY calendar.context.attendance.occ.declined.label         "Тайдырылды">
 <!ENTITY calendar.context.attendance.occ.delegated.accesskey    "д">
 <!ENTITY calendar.context.attendance.occ.delegated.label        "Тағайындалған">
+<!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "Т">
+<!ENTITY calendar.context.attendance.occ.needsaction.label      "Әлі де әрекетті талап етеді">
 
 <!ENTITY calendar.context.attendance.all.completed.label        "Аяқталды">
 
