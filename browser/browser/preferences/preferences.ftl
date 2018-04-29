@@ -177,6 +177,7 @@ browser-containers-learn-more = Máis información
 browser-containers-settings =
     .label = Configuración…
     .accesskey = i
+containers-disable-alert-title = Pechar todas as lapelas contedor?
 containers-disable-alert-cancel-button = Manter activado
 containers-remove-alert-title = Retirar este contedor?
 # Variables:
