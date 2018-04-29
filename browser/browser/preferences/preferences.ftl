@@ -529,7 +529,7 @@ sync-device-name-save =
 sync-mobilepromo-single = Připojit další zařízení
 sync-mobilepromo-multi = Spravovat zařízení
 sync-tos-link = Podmínky služby
-sync-fxa-privacy-notice = Zásady ochrany soukromí
+sync-fxa-privacy-notice = Zásady ochrany osobních údajů
 
 ## Privacy Section
 
@@ -713,7 +713,7 @@ permissions-a11y-privacy-link = Zjistit více
 
 collection-header = Sběr a používání dat o aplikaci { -brand-short-name }
 collection-description = Co se týče dat, dáváme vám vždy na výběr. Také sbíráme jen ta data, která nám pomohou aplikaci { -brand-short-name } dále zlepšovat. Před odesíláním osobních dat vždy žádáme o váš souhlas.
-collection-privacy-notice = Zásady ochrany soukromí
+collection-privacy-notice = Zásady ochrany osobních údajů
 collection-health-report =
     .label = Povolit aplikaci { -brand-short-name } odesílat Mozille technická data a data o interakcích
     .accesskey = z
