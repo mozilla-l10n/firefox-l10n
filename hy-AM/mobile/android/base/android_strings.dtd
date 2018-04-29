@@ -282,6 +282,13 @@
 <!ENTITY pref_whats_new_notification "Ինչն է նոր &brandShortName;-ում">
 <!ENTITY pref_whats_new_notification_summary "Իմացեք նոր յուրահատկությունների մասին թարմացումից հետո">
 
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!ENTITY pref_feature_tips_notification "Ծրագրի և յուրահատկությունների խորհուրդներ">
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+<!ENTITY pref_feature_tips_notification_summary "Իմացեք ավելին &brandShortName;-ը օգտագործելու և &vendorShortName;-ի այլ ծրագրերի մասին">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "Փորձարարական յուրահատկություններ">
@@ -422,7 +429,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName;-ի Վիճակի Զեկույց">
 <!ENTITY datareporting_fhr_summary2 "Տվյալներ է ուղարկում &vendorShortName;-ին՝ ձեր դիտարկիչի վիճակի մասին և որոշում է ձեր դիտարկիչի արագագործությունը:">
-<!ENTITY datareporting_abouthr_title "Դիտել Վիճակի զեկույցը">
 <!ENTITY datareporting_telemetry_title "Telemetry">
 <!ENTITY datareporting_telemetry_summary "Կիսվում է արագագործության, օգտագործման, սարքակազմի և ձեր դիտարկիչի կարգավորումներով &vendorShortName;-ի հետ՝ &brandShortName;-ն էլ ավելի լավարկելու համար">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName;-ը ուղարկում է Վթարների Զեկույց՝ օգնելու համար դարձնել &vendorShortName;-ը էլ ավելի կայուն և անվտանգ">
@@ -537,7 +543,7 @@
 <!ENTITY pref_compact_tabs_summary2 "Դասավորել ներդիրները երկու սյուներով՝ դիմանկար կերպով">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
-     any page is removed frome about:home. This includes pages that are in history,
+     any page is removed from about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Էջը հեռացվել է">
 <!ENTITY folder_removed "Թղթապանակը հեռացվել է">
@@ -752,7 +758,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Վերջին Սինքը. &formatS;">
-<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!-- Localization note: Used when the sync has not happened yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Վերջին սինքը. երբեք">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
