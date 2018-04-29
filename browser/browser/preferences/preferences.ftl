@@ -86,6 +86,27 @@ restart-later = Reiniciar máis tarde
 # This string is shown to notify the user that their home page
 # is being controlled by an extension.
 extension-controlled-homepage-override = Unha extensión, <img data-l10n-name="icon"/> { $name }, está controlando a súa páxina de inicio.
+# This string is shown to notify the user that their new tab page
+# is being controlled by an extension.
+extension-controlled-new-tab-url = Unha extensión, <img data-l10n-name="icon"/> { $name }, controla a páxina «Nova lapela».
+# This string is shown to notify the user that the default search engine
+# is being controlled by an extension.
+extension-controlled-default-search = Unha extensión, <img data-l10n-name="icon"/> { $name }, estabeleceu o buscador predeterminado.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlled-privacy-containers = Unha extensión, <img data-l10n-name="icon"/> { $name }, require lapelas contedor.
+# This string is shown to notify the user that their tracking protection preferences
+# are being controlled by an extension.
+extension-controlled-websites-tracking-protection-mode = Unha extesnión, <img data-l10n-name="icon"/> { $name }, controla a protección contra seguimento.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlled-proxy-config = Unha extensión, <img data-l10n-name="icon"/> { $name }, controla como { -brand-short-name } se conecta a Internet.
+# This string is shown after the user disables an extension to notify the user
+# how to enable an extension that they disabled.
+#
+# <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
+# <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
+extension-controlled-enable = Para activar a extensión vaia aos <img data-l10n-name="addons-icon"/> Complementos <img data-l10n-name="menu-icon"/> no menú.
 
 ## Preferences UI Search Results
 
@@ -124,6 +145,9 @@ startup-blank-page =
     .label = Amosar unha páxina en branco
 startup-prev-session =
     .label = Amosar as súas xanelas e lapelas da última vez
+startup-restore-previous-session =
+    .label = Restaurar a sesión anterior
+    .accesskey = s
 disable-extension =
     .label = Desactivar extensión
 home-page-header = Páxina de inicio
@@ -146,6 +170,9 @@ switch-links-to-new-tabs =
 show-tabs-in-taskbar =
     .label = Amosar previsualizacións das lapelas na barra de tarefas de Windows
     .accesskey = M
+browser-containers-enabled =
+    .label = Activar lapelas contedor
+    .accesskey = n
 browser-containers-learn-more = Máis información
 browser-containers-settings =
     .label = Configuración…
