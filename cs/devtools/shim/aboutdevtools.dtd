@@ -38,11 +38,6 @@
 <!ENTITY  aboutDevtools.enable.keyShortcutMessage
           "Aktivovali jste zkratku pro otevření vývojářských nástrojů. Pokud to bylo nechtěně, můžete tento panel zavřít.">
 
-<!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage): Message displayed when users
-  -  clicked on a "Enable Developer Tools" menu item. -->
-<!ENTITY  aboutDevtools.enable.menuMessage
-          "Zkoumejte a upravovujte HTML, CSS a JavaScript pomocí nástrojů pro vývojáře jako průzkumník nebo debugger.">
-
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage2): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
 <!ENTITY  aboutDevtools.enable.menuMessage2
@@ -59,8 +54,6 @@
 <!ENTITY  aboutDevtools.enable.learnMoreLink "Zjistit více o nástrojích pro vývojáře">
 
 <!ENTITY  aboutDevtools.enable.enableButton "Povolit nástroje pro vývojáře">
-<!ENTITY  aboutDevtools.enable.closeButton "Zavřít tuto stránku">
-
 <!ENTITY  aboutDevtools.enable.closeButton2 "Zavřít tento panel">
 
 <!ENTITY  aboutDevtools.welcome.title "Vítají vás nástroje pro vývojáře!">
@@ -71,7 +64,7 @@
   -  See Bug 1415273 for support of additional languages.-->
 <!ENTITY  aboutDevtools.newsletter.message "Nechte si posílat vývojářské novinky, triky a zdroje přímo do vaší schránky.">
 <!ENTITY  aboutDevtools.newsletter.email.placeholder "E-mail">
-<!ENTITY  aboutDevtools.newsletter.privacy.label "Souhlasím s tím, aby Mozilla zpracovávala mé informace tak, jak je popsáno v <a class='external' href='https://www.mozilla.org/privacy/'>Zásadách ochrany soukromí</a>.">
+<!ENTITY  aboutDevtools.newsletter.privacy.label "Souhlasím s tím, aby Mozilla zpracovávala mé informace tak, jak je popsáno v <a class='external' href='https://www.mozilla.org/privacy/'>zásadách ochrany osobních údajů</a>.">
 <!ENTITY  aboutDevtools.newsletter.subscribeButton "Odebírat">
 <!ENTITY  aboutDevtools.newsletter.thanks.title "Děkujeme!">
 <!ENTITY  aboutDevtools.newsletter.thanks.message "Pokud jste dříve nepotvrdili odběr zpravodaje Mozilly, budete tak muset učinit nyní. Podívejte se prosím do vaší e-mailové schránky a případně i nevyžádané pošty, jestli tam není e-mail od nás.">

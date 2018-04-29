@@ -44,7 +44,7 @@
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Podmínky služby">
-<!ENTITY fxaPrivacyNotice.link.label "Zásady ochrany soukromí">
+<!ENTITY fxaPrivacyNotice.link.label "Zásady ochrany osobních údajů">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -74,9 +74,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY resendVerification.accesskey "d">
 <!ENTITY cancelSetup.label            "Zrušit nastavení">
 <!ENTITY cancelSetup.accesskey        "r">
-
-<!ENTITY removeAccount.label          "Odebrat účet">
-<!ENTITY removeAccount.accesskey      "d">
 
 <!ENTITY signedOut.caption            "Vezměte si web s sebou">
 <!ENTITY signedOut.description        "Synchronizujte své záložky, historii, panely, hesla, doplňky a předvolby ve všech svých zařízeních.">
