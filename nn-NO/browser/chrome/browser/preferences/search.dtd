@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY searchBar.label                       "Søkelinje">
+<!ENTITY searchBar.label                       "Søkjelinje">
 
 <!ENTITY searchBar.hidden.label                "Bruk adresselinja for søk og navigering">
-<!ENTITY searchBar.shown.label                 "Legg til søkelinje i verktøylinja">
+<!ENTITY searchBar.shown.label                 "Legg til søkjelinje i verktøylinja">
 
 <!-- LOCALIZATION NOTE (showSearchSuggestionsAboveHistory.label): This string
      describes what the user will observe when the system prioritizes search

@@ -383,11 +383,11 @@ restore-default =
 
 ## Search Section
 
-search-bar-header = Søkelinje
+search-bar-header = Søkjelinje
 search-bar-hidden =
     .label = Bruk adresselinja for søk og navigering
 search-bar-shown =
-    .label = Legg til søkelinje i verktøylinja
+    .label = Legg til søkjelinje i verktøylinja
 search-engine-default-header = Standard søkemotor
 search-engine-default-desc = Vel standardsøkemotor som skal brukast i adresselinja og søkelinja.
 search-suggestions-option =
