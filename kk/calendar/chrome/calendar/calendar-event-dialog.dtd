@@ -420,6 +420,7 @@
 
 <!-- Summary dialog -->
 <!ENTITY summary.dialog.saveclose.label         "Сақтау және жабу">
+<!ENTITY summary.dialog.saveclose.tooltiptext   "Қатысу күйін өзгертпей және жауапты жібермей, өзгерістерді сақтау және терезені жабу">
 <!ENTITY summary.dialog.accept.label            "Қабылдау">
 <!ENTITY summary.dialog.accept.tooltiptext      "Шақыруды қабылдау">
 <!ENTITY summary.dialog.tentative.label         "Мүмкін деп">
@@ -427,5 +428,6 @@
 <!ENTITY summary.dialog.decline.label           "Тайдыру">
 <!ENTITY summary.dialog.decline.tooltiptext     "Шақыруды тайдыру">
 <!ENTITY summary.dialog.dontsend.label          "Жауапты жібермеу">
+<!ENTITY summary.dialog.dontsend.tooltiptext    "Ұйымдастырушыға жауапты жібермей, қатысу күйін өзгерту және терезені жабу">
 <!ENTITY summary.dialog.send.label              "Жауапты қазір жіберу">
 <!ENTITY summary.dialog.send.tooltiptext        "Ұйымдастырушыға жауапты қазір жіберіп, терезені жабу">
