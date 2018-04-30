@@ -117,9 +117,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "คัดลอกข้อมูลดิบไปยังคลิปบอร์ด">
 
 <!ENTITY aboutSupport.sandboxTitle "กระบะทราย">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
 <!ENTITY aboutSupport.sandboxSyscallPID "PID">
 <!ENTITY aboutSupport.sandboxSyscallTID "TID">
 <!ENTITY aboutSupport.sandboxSyscallProcType "ชนิดโปรเซส">
+<!ENTITY aboutSupport.sandboxSyscallArgs "อาร์กิวเมนต์">
 
 <!ENTITY aboutSupport.safeModeTitle "ลองใช้โหมดปลอดภัย">
 <!ENTITY aboutSupport.restartInSafeMode.label "เริ่มการทำงานใหม่พร้อมปิดใช้งานส่วนเสริม…">
@@ -134,6 +136,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceGroup "กลุ่ม">
 <!ENTITY aboutSupport.mediaDeviceVendor "ผู้จำหน่าย">
 <!ENTITY aboutSupport.mediaDeviceState "สถานะ">
+<!ENTITY aboutSupport.mediaDeviceRate "อัตรา">
+<!ENTITY aboutSupport.mediaDeviceLatency "เวลาแฝง">
 
 <!ENTITY aboutSupport.intlAppTitle "การตั้งค่าแอปพลิเคชัน">
 <!ENTITY aboutSupport.intlLocalesAvailable "ภาษาที่มี">
