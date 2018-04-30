@@ -38,6 +38,10 @@
 <!ENTITY bookmarksToolbar.tooltip         "Panel Záložky">
 <!ENTITY navigationToolbar.tooltip        "Navigačný panel">
 
+<!ENTITY editBookmark.done.label "Hotovo">
+<!ENTITY editBookmark.cancel.label "Zrušiť">
+<!ENTITY editBookmark.removeBookmark.accessKey "r">
+
 <!-- Toolbar items --> 
 <!ENTITY backButton.label             "Naspäť">
 <!ENTITY backButton.tooltip           "Späť o jednu stránku">
