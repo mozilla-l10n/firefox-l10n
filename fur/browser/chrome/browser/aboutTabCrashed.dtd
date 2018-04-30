@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY tabCrashed.title "Segnalazion di bloc de schede">
 
 <!ENTITY tabCrashed.closeTab2  "Siere schede">
 <!ENTITY tabCrashed.restoreTab "Ripristine la schede">
@@ -14,3 +15,18 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
+<!ENTITY tabCrashed.header2 "Orpo! La to schede a je stade blocade.">
+<!ENTITY tabCrashed.offerHelp2 "Ti judin!">
+<!ENTITY tabCrashed.single.offerHelpMessage2 "Sielç &tabCrashed.restoreTab; par tornâ a cjariâ la pagjine.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage2 "Sielç &tabCrashed.restoreTab; o &tabCrashed.restoreAll; par tornâ a cjariâ la pagjine/pages.">
+<!ENTITY tabCrashed.requestHelp "Vutu judânus?">
+<!ENTITY tabCrashed.requestHelpMessage "Lis segnalazions di bloc anormâl nus judin a identificâ i problemis e a miorâ &brandShortName;.">
+<!ENTITY tabCrashed.requestReport "Segnale chiste schede">
+<!ENTITY tabCrashed.sendReport3 "Mande une segnalazion automatiche di bloc cussì o podin risolvi problemis di chest gjenar.">
+<!ENTITY tabCrashed.commentPlaceholder2 "Coments opzionai (i coments a son visibii publichementri)">
+<!ENTITY tabCrashed.includeURL3 "Inclût lis URLs dai sîts che tu as visitât al moment dal bloc di &brandShortName;.">
+<!ENTITY tabCrashed.emailPlaceholder "Inseris la to mail culi">
+<!ENTITY tabCrashed.emailMe "Mande une mail cuant che tu as plui informazions">
+<!ENTITY tabCrashed.reportSent "Segnalazion di bloc mandade. Gracie par judânus a miorâ &brandShortName;!">
+<!ENTITY tabCrashed.requestAutoSubmit2 "Segnale lis schedis di sfont">
+<!ENTITY tabCrashed.autoSubmit3 "Inzorne lis preferencis par mandâ segnalazions automatichis cuant che &brandShortName; si bloche.">
