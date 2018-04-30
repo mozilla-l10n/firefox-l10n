@@ -34,3 +34,4 @@ site-data-removing-window =
     .title = { site-data-removing-header }
 site-data-removing-header = Gjave i cookies e i dâts dal sît
 site-data-removing-desc = Cun la eliminazion dai cookies e dai dâts dal sît, tu podis cjatâti fûr de pagjinis web. Vutu confermâ cjistu cambis?
+site-data-removing-table = Eliminazion dai cookies e dâts dai sîts di chestis pagjinis web
