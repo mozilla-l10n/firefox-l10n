@@ -8,16 +8,16 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE --> 
-<!ENTITY mainWindow.title "&brandShortName;"> 
+<!ENTITY mainWindow.title "&brandShortName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
-<!ENTITY mainWindow.titlemodifier "&brandShortName;"> 
+<!ENTITY mainWindow.titlemodifier "&brandShortName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 
 <!ENTITY mainWindow.titleprivate "Privat surfning">
 
-<!ENTITY editPageCmd.label					"Redigera sida">
-<!ENTITY editPageCmd.accesskey				"d">
+<!ENTITY editPageCmd.label "Redigera sida">
+<!ENTITY editPageCmd.accesskey "d">
 <!ENTITY editPageCmd.commandkey "e">
 
 <!ENTITY navbarCmd.label "Navigationsfält">
@@ -34,9 +34,11 @@
 <!ENTITY feedsMenu.label "Prenumerera på den här sidan">
 <!ENTITY feedsMenu.accesskey "P">
 
-<!ENTITY menuBar.tooltip              "Menyrad">
+<!ENTITY menuBar.tooltip                  "Menyrad">
 <!ENTITY bookmarksToolbar.tooltip         "Bokmärkesfältet">
 <!ENTITY navigationToolbar.tooltip        "Navigationsfält">
+
+<!ENTITY editBookmark.cancel.label "Avbryt">
 
 <!-- Toolbar items --> 
 <!ENTITY backButton.label             "Bakåt">
@@ -63,11 +65,10 @@
 
 <!ENTITY searchItem.title             "Sök">
 
-<!-- Toolbar items --> 
-<!ENTITY  bookmarksButton.label       "Bokmärken">
-<!ENTITY  bookmarksButton.tooltip     "Lista över bokmärken">
-<!ENTITY  homeButton.label            "Startsida">
-<!ENTITY  bookmarksToolbarItem.label  "Bokmärken i verktygsfältet">
+<!ENTITY bookmarksButton.label        "Bokmärken">
+<!ENTITY bookmarksButton.tooltip      "Lista över bokmärken">
+<!ENTITY homeButton.label             "Startsida">
+<!ENTITY bookmarksToolbarItem.label   "Bokmärken i verktygsfältet">
 <!ENTITY bookmarksToolbarChevron.tooltip "Visa fler bokmärken">
 
 <!-- Statusbar -->

@@ -1,0 +1,54 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+<!ENTITY places.library.title  "Bibliotek">
+<!ENTITY places.library.width  "700">
+<!ENTITY places.library.height "500">
+<!ENTITY organize.label        "Organisera">
+<!ENTITY organize.tooltip      "Organisera dina bokmärken">
+
+<!ENTITY file.close.label               "Stäng">
+<!ENTITY view.columns.label             "Visa kolumner">
+<!ENTITY view.sort.label                "Sortera">
+<!ENTITY view.unsorted.label            "Osorterat">
+
+<!ENTITY importBookmarksFromHTML.label     "Importera bokmärken från HTML…">
+<!ENTITY exportBookmarksToHTML.label       "Exportera bokmärken till HTML…">
+<!ENTITY importOtherBrowser.label          "Importera data från annan webbläsare…">
+
+<!ENTITY cmd.backup.label               "Säkerhetskopiera…">
+<!ENTITY cmd.restore2.label             "Återställ">
+<!ENTITY cmd.restoreFromFile.label      "Välj fil…">
+
+
+<!ENTITY cmd.open.label                  "Öppna">
+<!ENTITY cmd.open_window.label           "Öppna i ett nytt fönster">
+<!ENTITY cmd.open_private_window.label     "Öppna i ett nytt privat fönster">
+<!ENTITY cmd.open_tab.label              "Öppna i en ny flik">
+<!ENTITY cmd.open_all_in_tabs.label      "Öppna alla i flikar">
+
+<!ENTITY cmd.properties.label      "Egenskaper">
+
+<!ENTITY cmd.sortby_name.label              "Sortera efter namn">
+
+<!ENTITY cmd.new_bookmark.label            "Nytt bokmärke…">
+<!ENTITY cmd.new_folder.label              "Ny mapp…">
+
+
+<!ENTITY col.name.label          "Namn">
+<!ENTITY col.tags.label          "Etiketter">
+<!ENTITY col.url.label           "Plats">
+<!ENTITY col.description.label   "Beskrivning">
+<!ENTITY col.dateadded.label     "Tillagd">
+<!ENTITY col.lastmodified.label  "Senast ändrad">
+
+<!ENTITY search.placeholder  "Sök">
+
+
+<!ENTITY detailsPane.more.label "Mer">
+<!ENTITY detailsPane.less.label "Mindre">
+
+<!ENTITY view.label               "Visa">
+<!ENTITY byDate.label             "Efter datum">
