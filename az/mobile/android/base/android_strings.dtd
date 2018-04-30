@@ -282,6 +282,13 @@
 <!ENTITY pref_whats_new_notification "&brandShortName; səyyahında yeniliklər">
 <!ENTITY pref_whats_new_notification_summary "Yeniləmədən sonra yeni özəlliklər haqqında öyrənin">
 
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!ENTITY pref_feature_tips_notification "Məhsul və özəllik məsləhətləri">
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+<!ENTITY pref_feature_tips_notification_summary "&brandShortName; və digər &vendorShortName; məhsullarını necə işlədəcəyinizi öyrənin">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "Eksperimental özəlliklər">
@@ -422,7 +429,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; Sağlamlıq Hesabatı">
 <!ENTITY datareporting_fhr_summary2 "Səyyahınızın sağlamlığı ilə bağlı məlumatları &vendorShortName; ilə paylaşır və səyyahınızın məhsuldarlığını başa düşməyinizə kömək edir">
-<!ENTITY datareporting_abouthr_title "Mənim sağlamlıq hesabatımı göstər">
 <!ENTITY datareporting_telemetry_title "Telemetriya">
 <!ENTITY datareporting_telemetry_summary "&brandShortName; səyyahını yaxşılaşdırmaq üçün səyyahınızla bağlı performans, istifadə, avadanlıq və şəxsiləşdirmə məlumatlarını  &vendorShortName; ilə paylaşır">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName;, səyyahınızı daha sabit və təhlükəsiz etmək üçün çökmə məlumatlarını &vendorShortName;-ya göndərir">
@@ -537,7 +543,7 @@
 <!ENTITY pref_compact_tabs_summary2 "Vərəqləri portret rejimində 2 sütun şəklində düz">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
-     any page is removed frome about:home. This includes pages that are in history,
+     any page is removed from about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Səhifə silindi">
 <!ENTITY folder_removed "Qovluq silindi">
@@ -752,7 +758,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Son sinxronlaşdırma: &formatS;">
-<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!-- Localization note: Used when the sync has not happened yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Son sinxronlaşma: heç vaxt">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
