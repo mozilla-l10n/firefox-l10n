@@ -305,6 +305,13 @@ performance-allow-hw-accel =
     .accesskey = r
 performance-limit-content-process-option = Límite de procesos de contido
     .accesskey = L
+performance-limit-content-process-enabled-desc = Os procesos de contido adicionais poden mellorar o rendemento cando se usan moitas lapelas, pero tamén usarán máis memoria.
+performance-limit-content-process-disabled-desc = Modificar o número de procesos de contido só é posíbel con { -brand-short-name } multiproceso. <a>Coñeza máis sobre como comprobar se o multiproceso está activado</a>
+performance-limit-content-process-blocked-desc = Modificar o número de procesos de contido só é posíbel coa versión multiproceso do { -brand-short-name }. <a data-l10n-name="learn-more">Coñeza máis sobre como comprobar se o multiproceso está activado</a>
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (predeterminado)
 
 ## General Section - Browsing
 
