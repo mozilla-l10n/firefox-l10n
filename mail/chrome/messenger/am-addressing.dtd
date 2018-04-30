@@ -28,6 +28,9 @@
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY then.label                           "Τότε,">
 <!ENTITY then.accesskey                       "Τ">
+<!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY quoting.label                        "Κατά την παράθεση,">
+<!ENTITY quoting.accesskey                    "π">
 <!ENTITY aboveQuote.label                     "έναρξη της απάντησης μου πάνω από την παράθεση">
 <!ENTITY belowQuote.label                     "έναρξη της απάντησης μου κάτω από την παράθεση">
 <!ENTITY selectAndQuote.label                 "επιλογή της παράθεσης">
