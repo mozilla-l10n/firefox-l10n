@@ -196,7 +196,24 @@
 <!ENTITY calendar.context.attendance.occ.delegated.label        "Тағайындалған">
 <!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "Т">
 <!ENTITY calendar.context.attendance.occ.needsaction.label      "Әлі де әрекетті талап етеді">
+<!ENTITY calendar.context.attendance.occ.inprogress.accesskey   "О">
+<!ENTITY calendar.context.attendance.occ.inprogress.label       "Орындалуда">
+<!ENTITY calendar.context.attendance.occ.completed.accesskey    "А">
+<!ENTITY calendar.context.attendance.occ.completed.label        "Аяқталған">
 
+<!ENTITY calendar.context.attendance.all.accepted.accesskey     "ы">
+<!ENTITY calendar.context.attendance.all.accepted.label         "Қабылданған">
+<!ENTITY calendar.context.attendance.all.tentative.accesskey    "к">
+<!ENTITY calendar.context.attendance.all.tentative.label        "Мүмкін деп қабылданған">
+<!ENTITY calendar.context.attendance.all.declined.accesskey     "д">
+<!ENTITY calendar.context.attendance.all.declined.label         "Тайдырылған">
+<!ENTITY calendar.context.attendance.all.delegated.accesskey    "й">
+<!ENTITY calendar.context.attendance.all.delegated.label        "Тағайындалған">
+<!ENTITY calendar.context.attendance.all.needsaction.accesskey  "л">
+<!ENTITY calendar.context.attendance.all.needsaction.label      "Әлі де әрекетті талап етеді">
+<!ENTITY calendar.context.attendance.all.inprogress.accesskey   "р">
+<!ENTITY calendar.context.attendance.all.inprogress.label       "Орындалуда">
+<!ENTITY calendar.context.attendance.all.completed.accesskey    "т">
 <!ENTITY calendar.context.attendance.all.completed.label        "Аяқталды">
 
 <!-- Task Context Menu -->
