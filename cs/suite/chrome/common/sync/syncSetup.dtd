@@ -39,7 +39,7 @@
 <!ENTITY setup.tosAgree1.accesskey  "S">
 <!ENTITY setup.tosLink.label        "podmínkami služby">
 <!ENTITY setup.tosAgree2.label      "a">
-<!ENTITY setup.ppLink.label         "zásadami ochrany soukromí">
+<!ENTITY setup.ppLink.label         "zásadami ochrany osobních údajů">
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
