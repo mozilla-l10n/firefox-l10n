@@ -11,8 +11,13 @@
 <!ENTITY safeb.blocked.malwarePage.title "Jabchu klyeeb ik ŕiich!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Jabchu yay <span id='malware_sitename'/> hal yak yaay klyeeb ich pay kur ŕ´amch.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Jabchu paa jwakyaahay orogram jkay sak chkwaka maa tñuur mwiha mnaarhikyawa, maa mterchexhuham trchech paa jkay jwayaa pay sistem wiha tklyeebhikyawa.</p><p> Pay ñulyook yabawii ik prograam chapayt klyeebha wiyum kwimch kñkwiyhay kos ŕpoochtemum.</p>">
 
+<!ENTITY safeb.blocked.phishingPage.title3 "Jsbchu paa wakyaw!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "Jabchu yay <span id='phishing_sitename'/> wam jwa knabch paa jwkyaa ich pay tketch maa ca jan miha kur ŕpooch sak ntpach ka.">
+<!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>Wawchu paa wakyawhay o pichtem paa wilum aam chklyeeb hal mukjaabka, kabwik softwar chkwachuha o chmwiwu yañŕalum uchoach, Jabchu muul ha eeo kwar' mchkwawu eemkwawu ee paytum.</p><p> Sal chapayt webyal ñmtñur paa jkay chwichuha mknaar kyaaw yuk.</p>">
 
+<!ENTITY safeb.blocked.unwantedPage.title "Wawchu ja knabch yachuñ softwar klyeeb wiiy!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
