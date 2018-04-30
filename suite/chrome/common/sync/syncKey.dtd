@@ -14,5 +14,5 @@
 <!ENTITY syncKey.findOutMore1.label       "Zjistěte více o službě &syncBrand.fullName.label; a ochraně soukromí na ">
 <!ENTITY syncKey.findOutMore2.label       ".">
 <!ENTITY syncKey.footer1.label            "Podmínky užití služby &syncBrand.fullName.label; jsou dostupné na ">
-<!ENTITY syncKey.footer2.label            ". Zásady ochrany soukromí jsou dostupné na ">
+<!ENTITY syncKey.footer2.label            ". Zásady ochrany osobních údajů jsou dostupné na ">
 <!ENTITY syncKey.footer3.label            ".">
