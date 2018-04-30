@@ -178,6 +178,16 @@ browser-containers-settings =
     .label = Configuración…
     .accesskey = i
 containers-disable-alert-title = Pechar todas as lapelas contedor?
+containers-disable-alert-desc =
+    { $tabCount ->
+        [one] Se desactiva as lapelas contedor agora, { $tabCount } lapela contedor pecharase. Confirma que quere desactivar as lapelas contedor?
+       *[other] Se desactiva as lapelas contedor agora, { $tabCount } lapelas contedor pecharanse. Confirma que quere desactivar as lapelas contedor?
+    }
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] Pechar a lapela contedor
+       *[other] Pechar as lapelas contedor
+    }
 containers-disable-alert-cancel-button = Manter activado
 containers-remove-alert-title = Retirar este contedor?
 # Variables:
@@ -254,9 +264,14 @@ applications-action-column =
     .label = Acción
     .accesskey = A
 drm-content-header = Contido DRM (Digital Rights Management, Xestión de dereitos dixitais)
+play-drm-content =
+    .label = Reproducir contido controlado por DRM
+    .accesskey = p
 play-drm-content-learn-more = Máis información
 update-application-title = Actualizacións de { -brand-short-name }
+update-application-description = Manteña { -brand-short-name } actualizado para obter un mellor rendemento, estabilidade e seguranza.
 update-application-info = Versión { $version } <a>Novidades</a>
+update-application-version = Versión { $version } <a data-l10n-name="learn-more">Novidades</a>
 update-history =
     .label = Amosar historial de actualización…
     .accesskey = H
@@ -280,10 +295,16 @@ update-enable-search-update =
 ## General Section - Performance
 
 performance-title = Rendemento
+performance-use-recommended-settings-checkbox =
+    .label = Usar os axustes de rendemento recomendados
+    .accesskey = U
+performance-use-recommended-settings-desc = Estes axustes están optimizados para o hardware e o sistema operativo do seu computador.
 performance-settings-learn-more = Máis información
 performance-allow-hw-accel =
     .label = Usar a aceleración por hardware cando estea dispoñíbel
     .accesskey = r
+performance-limit-content-process-option = Límite de procesos de contido
+    .accesskey = L
 
 ## General Section - Browsing
 
