@@ -2,8 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tabCrashed.closeTab "Siere cheste lengute">
 
+<!ENTITY tabCrashed.closeTab2  "Siere schede">
+<!ENTITY tabCrashed.restoreTab "Ripristine la schede">
+<!ENTITY tabCrashed.restoreAll "Ripristine dutis lis schedis blocadis">
 
 <!-- LOCALIZATION NOTE (tabCrashed.header2): "Gah" is an English slang word
      used to express surprise or frustration (or both at the same time).  We
@@ -12,17 +14,3 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
