@@ -45,7 +45,7 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.learnMoreLink): Text for the link to
   -  https://developer.mozilla.org/docs/Tools displayed in the top section when DevTools
   -  are disabled. -->
-<!ENTITY  aboutDevtools.enable.learnMoreLink "Plui informazions su imprescj di svilup">
+<!ENTITY  aboutDevtools.enable.learnMoreLink "Par savê di plui su imprescj di svilup">
 
 <!ENTITY  aboutDevtools.enable.enableButton "Abilite imprescj di svilup">
 <!ENTITY  aboutDevtools.enable.closeButton2 "Siere la schede">
@@ -56,8 +56,13 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.newsletter.message): Subscribe form message.
   -  The newsletter is only available in english at the moment.
   -  See Bug 1415273 for support of additional languages.-->
+<!ENTITY  aboutDevtools.newsletter.message "Par ricevi notiziis in inglès dai svilupadôrs, trucs e risorsis diretementri in te to mail.">
+<!ENTITY  aboutDevtools.newsletter.thanks.title "Gracie!">
+<!ENTITY  aboutDevtools.newsletter.thanks.message "Se no tu lu as ancjemò fat, tu as di confermà la iscrizion al boletin di Mozilla. Cîr la nestre mail in te pueste rivade o spam.">
 
+<!ENTITY  aboutDevtools.footer.title "Edizion svilupadoôs di Mozilla">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to
   -  https://www.mozilla.org/firefox/developer/ displayed in the footer. -->
+<!ENTITY  aboutDevtools.footer.learnMoreLink "Par savê di plui">
 
