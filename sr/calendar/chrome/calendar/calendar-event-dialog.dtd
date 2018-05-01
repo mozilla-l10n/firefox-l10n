@@ -398,6 +398,7 @@
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Опште">
 <!ENTITY read.only.title.label           "Наслов:">
+<!ENTITY read.only.calendar.label        "Календар:">
 <!ENTITY read.only.event.start.label     "Почетни датум:">
 <!ENTITY read.only.task.start.label      "Почетни датум:">
 <!ENTITY read.only.event.end.label       "Завршни датум:">
@@ -416,3 +417,16 @@
 <!ENTITY read.only.attendees.label       "Полазници">
 <!ENTITY read.only.description.label     "Опис">
 <!ENTITY read.only.link.label            "Сродна веза">
+
+<!-- Summary dialog -->
+<!ENTITY summary.dialog.saveclose.label         "Сачувај и затвори">
+<!ENTITY summary.dialog.saveclose.tooltiptext   "Сачувај измене и затвори прозор без мењања стања учествовања и без слања одговора">
+<!ENTITY summary.dialog.accept.label            "Прихвати">
+<!ENTITY summary.dialog.accept.tooltiptext      "Прихвати позивницу">
+<!ENTITY summary.dialog.tentative.label         "Условно">
+<!ENTITY summary.dialog.tentative.tooltiptext   "Условно прихвати позивницу">
+<!ENTITY summary.dialog.decline.label           "Одбиј">
+<!ENTITY summary.dialog.decline.tooltiptext     "Одбиј позивницу">
+<!ENTITY summary.dialog.dontsend.label          "Не шаљи одговор">
+<!ENTITY summary.dialog.dontsend.tooltiptext    "Промени стање учествовања без слања одговора организатору па затвори прозор">
+<!ENTITY summary.dialog.send.label              "Пошаљи одговор одмах">

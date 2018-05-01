@@ -20,3 +20,32 @@
 
 <!ENTITY finishpage.shortdescription  "Календар је направљен" >
 <!ENTITY finishpage.longdescription   "Ваш календар је направљен." >
+
+<!-- Below are new strings for the revised new calendar dialog. The above strings should be
+    removed/renamed later on -->
+
+<!ENTITY sourcetabs.other.label  "Друго">
+
+<!ENTITY buttons.create.label "Направи календар">
+<!ENTITY buttons.create.accesskey "р">
+
+<!ENTITY buttons.find.label "Нађи календаре">
+<!ENTITY buttons.find.accesskey "Н">
+
+<!ENTITY buttons.back.label "Назад">
+<!ENTITY buttons.back.accesskey "з">
+
+<!ENTITY buttons.subscribe.label "Претплати се">
+<!ENTITY buttons.subscribe.accesskey "т">
+
+<!ENTITY calendartype.label "Врста календара:">
+<!ENTITY location.label "Место:">
+<!ENTITY location.placeholder "URL или име календарског сервера">
+
+<!ENTITY network.nocredentials.label "Ово место не захтева акредитиве">
+<!ENTITY network.loading.description "Сачекајте да се заврши откривање ваших календара.">
+<!ENTITY network.notfound.description "Нисам могао да нађем календаре на овом месту. Проверите ваша подешавања.">
+<!ENTITY network.authfail.description "Унети акредитиви нису прихваћени. Проверите ваша подешавања.">
+
+<!ENTITY network.subscribe.single.description "Изаберите календаре на које се желите претплатити.">
+<!ENTITY network.subscribe.multiple.description "Више врста календара је доступно за ово место. Изаберите врсту календара па онда означите календаре на које се желите претплатити.">
