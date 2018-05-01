@@ -86,9 +86,15 @@ restart-later = केहि समयपछि पुन सुचारु ग
 # This string is shown to notify the user that their home page
 # is being controlled by an extension.
 extension-controlled-homepage-override = यो एक्सटेन्सन, <img data-l10n-name="icon"/> { $name }, ले तपाईंको गृहपृष्ठ नियन्त्रण गरिरहेको छ।
+# This string is shown to notify the user that their new tab page
+# is being controlled by an extension.
+extension-controlled-new-tab-url = यो एक्सटेन्सन, <img data-l10n-name="icon"/> { $name }, ले तपाईंको नयाँ ट्याब पेज नियन्त्रण गरिरहेको छ।
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = यो एक्सटेन्सन, <img data-l10n-name="icon"/> { $name } , लाई कन्टेनर ट्याबहरू चाहिन्छ ।
+# This string is shown to notify the user that their tracking protection preferences
+# are being controlled by an extension.
+extension-controlled-websites-tracking-protection-mode = यो एक्सटेन्सन, <img data-l10n-name="icon"/> { $name }, ले ट्रयाकिङ्ग सुरक्षा नियन्त्रण गरिरहेको छ।
 
 ## Preferences UI Search Results
 
@@ -526,12 +532,19 @@ history-clear-on-close-settings =
 sitedata-learn-more = अझ जान्नुहोस्
 sitedata-keep-until = सम्म राख्नुहोस्
     .accesskey = u
+sitedata-keep-until-expire =
+    .label = तिनीहरूको समय अवधि सकियो
+sitedata-keep-until-closed =
+    .label = { -brand-short-name } बन्द गरियो
 sitedata-accept-third-party-always-option =
     .label = सधैँ
 sitedata-accept-third-party-visited-option =
     .label = पहिले हेरिएकोबाट
 sitedata-accept-third-party-never-option =
     .label = कहिले पनि होइन
+sitedata-clear =
+    .label = डेटा खालीगर्नुहोस्…
+    .accesskey = l
 sitedata-cookies-exceptions =
     .label = अपवादहरू...
     .accesskey = E
@@ -624,6 +637,7 @@ collection-health-report-link = अझ जान्नुहोस्
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = यस निर्माण कन्फिगरेसनको लागि डाटा रिपोर्टिङ अक्षम गरिएको छ
+collection-browser-errors-link = अझ जान्नुहोस्
 collection-backlogged-crash-reports-link = अझ जान्नुहोस्
 
 ## Privacy Section - Security
