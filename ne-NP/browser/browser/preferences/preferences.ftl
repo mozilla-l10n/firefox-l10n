@@ -83,6 +83,9 @@ restart-later = केहि समयपछि पुन सुचारु ग
 ## Variables:
 ##   $name (String): name of the extension
 
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = यो एक्सटेन्सन, <img data-l10n-name="icon"/> { $name }, ले तपाईंको गृहपृष्ठ नियन्त्रण गरिरहेको छ।
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = यो एक्सटेन्सन, <img data-l10n-name="icon"/> { $name } , लाई कन्टेनर ट्याबहरू चाहिन्छ ।
