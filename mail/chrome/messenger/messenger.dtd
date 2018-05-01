@@ -36,6 +36,12 @@
 <!ENTITY newFeedAccountCmd.accesskey "д">
 <!ENTITY newIMContactCmd.label "Контакт за ћаскање…">
 <!ENTITY newIMContactCmd.accesskey "к">
+<!ENTITY  newMessageCmd2.key "N">
+<!ENTITY  newMessageCmd.key "M">
+<!ENTITY  newMessageCmd.label "Порука">
+<!ENTITY  newMessageCmd.accesskey "р">
+<!ENTITY  newContactCmd.label "Контакт у именику…">
+<!ENTITY  newContactCmd.accesskey "К">
 <!ENTITY openMessageFileCmd.label "Отвори сачувану поруку…">
 <!ENTITY openMessageFileCmd.accesskey "О">
 <!ENTITY saveAsMenu.label "Сачувај као">
@@ -317,7 +323,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Ћаскање">
 <!ENTITY goChatCmd.accesskey "к">
-<!ENTITY goChatCmd.key "I">
 <!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Порука са звездицом">
 <!ENTITY prevStarredMsgCmd.accesskey "з">
@@ -510,8 +515,6 @@
 <!ENTITY devToolboxCmd.label "Програмерска алатница">
 <!ENTITY devToolboxCmd.accesskey "т">
 <!ENTITY devToolboxCmd.commandkey "i">
-<!ENTITY addonDebugCmd.label "Поправљач грешака додатака">
-<!ENTITY addonDebugCmd.accesskey "П">
 <!ENTITY debugAddonsCmd.label "Поправљај грешке додатака">
 <!ENTITY debugAddonsCmd.accesskey "г">
 <!ENTITY tabsDebugCmd.label "Поправљач грешака кадрова садржаја">
@@ -646,6 +649,7 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Добави поруке">
 <!ENTITY folderContextGetMessages.accesskey "Д">
+<!ENTITY folderContextMarkAllFoldersRead.label "Означи све фасцикле као прочитане">
 <!ENTITY folderContextPauseAllUpdates.label "Паузирај сва ажурирања">
 <!ENTITY folderContextPauseUpdates.label "Паузирај ажурирања">
 <!ENTITY folderContextPauseUpdates.accesskey "П">
@@ -871,7 +875,7 @@
   -->
 <!ENTITY quickSearchCmd.key "k">
 <!-- LOCALIZATION NOTE (search.label.base1):
-      This is the base of the empty text for the global search box. We replace
+     This is the base of the empty text for the global search box. We replace
      #1 with the contents of the appropriate search.keyLabel.* value for the
      platform.
      The goal is to convey to the user that typing in the box will allow them
