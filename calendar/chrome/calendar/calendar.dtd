@@ -172,12 +172,49 @@
 <!ENTITY calendar.context.copyevent.accesskey         "ј">
 <!ENTITY calendar.context.pasteevent.label            "Налепи">
 <!ENTITY calendar.context.pasteevent.accesskey        "п">
-<!ENTITY calendar.context.button.label                "Данашња површ" >
-<!ENTITY calendar.context.button.accesskey            "Д" >
-<!ENTITY calendar.context.attendance.menu.label       "Присуство" >
-<!ENTITY calendar.context.attendance.menu.accesskey   "и" >
-<!ENTITY calendar.context.attendance.occurrence.label "Ово понављање" >
+<!ENTITY calendar.context.button.label                "Данашња површ">
+<!ENTITY calendar.context.button.accesskey            "Д">
+
+<!ENTITY calendar.context.attendance.menu.label                 "Присуство">
+<!ENTITY calendar.context.attendance.menu.accesskey             "и">
+<!ENTITY calendar.context.attendance.occurrence.label           "Ово понављање">
 <!ENTITY calendar.context.attendance.all.label        "Сва понављања" >
+
+<!ENTITY calendar.context.attendance.all2.label                 "Заврши серију">
+<!ENTITY calendar.context.attendance.send.label                 "Пошаљи обавештење одмах">
+<!ENTITY calendar.context.attendance.send.accesskey             "П">
+<!ENTITY calendar.context.attendance.dontsend.label             "Не шаљи обавештење">
+<!ENTITY calendar.context.attendance.dontsend.accesskey         "Н">
+
+<!ENTITY calendar.context.attendance.occ.accepted.accesskey     "х">
+<!ENTITY calendar.context.attendance.occ.accepted.label         "Прихваћено">
+<!ENTITY calendar.context.attendance.occ.tentative.accesskey    "У">
+<!ENTITY calendar.context.attendance.occ.tentative.label        "Условно прихваћено">
+<!ENTITY calendar.context.attendance.occ.declined.accesskey     "б">
+<!ENTITY calendar.context.attendance.occ.declined.label         "Одбијено">
+<!ENTITY calendar.context.attendance.occ.delegated.accesskey    "г">
+<!ENTITY calendar.context.attendance.occ.delegated.label        "Делегирано">
+<!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "д">
+<!ENTITY calendar.context.attendance.occ.needsaction.label      "Потребно довршити">
+<!ENTITY calendar.context.attendance.occ.inprogress.accesskey   "т">
+<!ENTITY calendar.context.attendance.occ.inprogress.label       "У току">
+<!ENTITY calendar.context.attendance.occ.completed.accesskey    "З">
+<!ENTITY calendar.context.attendance.occ.completed.label        "Завршено">
+
+<!ENTITY calendar.context.attendance.all.accepted.accesskey     "е">
+<!ENTITY calendar.context.attendance.all.accepted.label         "Прихваћено">
+<!ENTITY calendar.context.attendance.all.tentative.accesskey    "л">
+<!ENTITY calendar.context.attendance.all.tentative.label        "Условно прихваћено">
+<!ENTITY calendar.context.attendance.all.declined.accesskey     "б">
+<!ENTITY calendar.context.attendance.all.declined.label         "Одбијено">
+<!ENTITY calendar.context.attendance.all.delegated.accesskey    "л">
+<!ENTITY calendar.context.attendance.all.delegated.label        "Делегирано">
+<!ENTITY calendar.context.attendance.all.needsaction.accesskey  "т">
+<!ENTITY calendar.context.attendance.all.needsaction.label      "Потребно довршавање">
+<!ENTITY calendar.context.attendance.all.inprogress.accesskey   "т">
+<!ENTITY calendar.context.attendance.all.inprogress.label       "У току">
+<!ENTITY calendar.context.attendance.all.completed.accesskey    "в">
+<!ENTITY calendar.context.attendance.all.completed.label        "Завршено">
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Напредак">

@@ -42,7 +42,6 @@
      These strings are used in the calendar wizard and the calendar properties dialog, but are only
      displayed when setting/using a caldav calendar -->
 <!ENTITY lightning.calendarproperties.email.label                           "Мејл:">
-
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.label            "Дај предност клијентском заказивању мејлова">
 <!-- LOCALIZATON NOTE(lightning.calendarproperties.forceEmailScheduling.tooltiptext1,
      lightning.calendarproperties.forceEmailScheduling.tooltiptext2)
@@ -77,12 +76,13 @@
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Сачувај примерак">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Чува примерак догађаја у календар, одвојено од одговарања организатору. Списак полазника ће бити испражњен.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Привремено">
-<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Прихвати позивницу на догађај привремено">
+<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Прихвати условно позивницу на догађај">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Све привремено">
-<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Прихвати привремено позивницу за све ове догађаје">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Прихвати условно позивницу за све ове догађаје">
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "Ажурирај">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Ажурирај догађај у календару">
 <!ENTITY lightning.imipbar.description                                      "Ова порука садржи позивницу на догађај.">
+
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
