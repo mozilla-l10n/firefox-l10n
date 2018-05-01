@@ -282,6 +282,13 @@
 <!ENTITY pref_whats_new_notification "&brandShortName; मा नयाँ के छ">
 <!ENTITY pref_whats_new_notification_summary "अद्यावधिक पछि नयाँ सुविधाहरूको बारेमा जान्नुहोस्">
 
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!ENTITY pref_feature_tips_notification "उत्पादन तथा सुविधा सुझावहरू">
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+<!ENTITY pref_feature_tips_notification_summary "&brandShortName; तथा अन्य &vendorShortName; उत्पादन उपयोग गर्न अझ जान्नुहोस्">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "प्रयोगात्मक सुविधाहरू">
@@ -422,7 +429,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; स्वास्थ्य विवरण">
 <!ENTITY datareporting_fhr_summary2 "तपाईँको ब्रावजरको स्वास्थ्य अवस्था &vendorShortName; सँग बाँड्छ, तपाईँलाई आफ्नो ब्राउजरको कार्यक्षमताको बारेमा बुझाउनको लागि।">
-<!ENTITY datareporting_abouthr_title "मेरो स्वास्थ्य अवस्था हेर्नुहोस्">
 <!ENTITY datareporting_telemetry_title "टेलीमेट्री">
 <!ENTITY datareporting_telemetry_summary "हामीलाई &brandShortName; राम्रो बनाउनका निम्ति; हिस्सा प्रदर्शन, प्रायोजन, यन्त्र र तपाईँको ब्राउजरले बनाएका तथ्याङ्क &vendorShortName; सँग बाँढ्दछ">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; ले &vendorShortName; लाई तपाईँको ब्राउजर अझ सुरक्षित र स्थायी राख्नको लागि सहयोगार्थ क्र्यास प्रतिवेदनहरू पेस गर्छ">
@@ -537,7 +543,7 @@
 <!ENTITY pref_compact_tabs_summary2 "चित्र मोडमा ट्याबहरूलाई दुई स्तम्भहरूमा मिलाउनुहोस्">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
-     any page is removed frome about:home. This includes pages that are in history,
+     any page is removed from about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "पृष्ठ हटाइयो">
 <!ENTITY folder_removed "फोल्डर हटाईयो">
@@ -752,7 +758,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "&formatS; मा अन्तिम पटक सिङ्क गरिएको">
-<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!-- Localization note: Used when the sync has not happened yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "अन्तिम सिङ्कः कहिल्यै गरिएन">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
