@@ -21,15 +21,17 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementTitle): Title of the top
   -  section displayed when devtools are disabled and the user triggered DevTools by using
   -  the Inspect Element menu item. -->
-<!ENTITY  aboutDevtools.enable.inspectElementTitle "Abilite i imprescj par svilupadôrs di Firefox par doprâ la funzion ispezione element">
+<!ENTITY  aboutDevtools.enable.inspectElementTitle "Abilite i imprescj di svilup di Firefox par doprâ la funzion ispezione element">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementMessage): Message displayed
   -  when users come from using the Inspect Element menu item. -->
 <!ENTITY  aboutDevtools.enable.inspectElementMessage
-          "Esamine e modifiche HTML e CSS doprant la funzion ispezione dai imprescj par svilupadôrs.">
+          "Esamine e modifiche HTML e CSS doprant la funzion ispezione dai imprescj di svilup.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.aboutDebuggingMessage): Message displayed
   -  when users come from about:debugging. -->
+<!ENTITY  aboutDevtools.enable.aboutDebuggingMessage
+          "Svilupe e fas il debug di WebExtensions, web workers, service workers e tant altri gracie a imprescj di svilup di Firefox.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.keyShortcutMessage): Message displayed when
   -  users pressed a DevTools key shortcut. -->
@@ -43,9 +45,14 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.learnMoreLink): Text for the link to
   -  https://developer.mozilla.org/docs/Tools displayed in the top section when DevTools
   -  are disabled. -->
+<!ENTITY  aboutDevtools.enable.learnMoreLink "Plui informazions su imprescj di svilup">
 
+<!ENTITY  aboutDevtools.enable.enableButton "Abilite imprescj di svilup">
+<!ENTITY  aboutDevtools.enable.closeButton2 "Siere la schede">
 
+<!ENTITY  aboutDevtools.welcome.title "Benvignût a imprescj di svilup di Firefox!">
 
+<!ENTITY  aboutDevtools.newsletter.title "Boletin par svilupadôrs di Mozilla">
 <!-- LOCALIZATION NOTE (aboutDevtools.newsletter.message): Subscribe form message.
   -  The newsletter is only available in english at the moment.
   -  See Bug 1415273 for support of additional languages.-->
