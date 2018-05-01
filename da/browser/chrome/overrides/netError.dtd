@@ -121,7 +121,7 @@
 </ul>
 ">
 
-<!ENTITY redirectLoop.title "Denne side viderefører ikke forespørgslen korrekt">
+<!ENTITY redirectLoop.title "Denne side viderestiller ikke forespørgslen korrekt">
 <!ENTITY redirectLoop.longDesc "
 <ul>
   <li>Dette problem kan nogle gange skyldes, at cookies er slået fra, eller modtagelse
