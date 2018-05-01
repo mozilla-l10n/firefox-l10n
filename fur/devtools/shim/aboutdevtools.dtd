@@ -41,6 +41,8 @@
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.commonMessage): Generic message displayed for
   -  all possible entry points (keyshortcut, menu item etc…). -->
+<!ENTITY  aboutDevtools.enable.commonMessage
+          "Par ve plui control sul to browser, i imprescj di svilup di Firefox a si disativin par difiet.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.learnMoreLink): Text for the link to
   -  https://developer.mozilla.org/docs/Tools displayed in the top section when DevTools
@@ -57,10 +59,14 @@
   -  The newsletter is only available in english at the moment.
   -  See Bug 1415273 for support of additional languages.-->
 <!ENTITY  aboutDevtools.newsletter.message "Par ricevi notiziis in inglès dai svilupadôrs, trucs e risorsis diretementri in te to mail.">
+<!ENTITY  aboutDevtools.newsletter.email.placeholder "Email">
+<!ENTITY  aboutDevtools.newsletter.privacy.label "Aceti il tratament dai mei dâts personâi da part di Mozilla come spiegât in <a class='external' href='https://www.mozilla.org/privacy/'>politiche de privacy</a>.">
+<!ENTITY  aboutDevtools.newsletter.subscribeButton "Iscriviti">
 <!ENTITY  aboutDevtools.newsletter.thanks.title "Gracie!">
 <!ENTITY  aboutDevtools.newsletter.thanks.message "Se no tu lu as ancjemò fat, tu as di confermà la iscrizion al boletin di Mozilla. Cîr la nestre mail in te pueste rivade o spam.">
 
 <!ENTITY  aboutDevtools.footer.title "Edizion svilupadoôs di Mozilla">
+<!ENTITY  aboutDevtools.footer.message "No atu avonde cun imprescj di svilup? Controle il browser di Firefox creat apueste par i svilupadôrs e i gnûfs procès di lavôr.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to
   -  https://www.mozilla.org/firefox/developer/ displayed in the footer. -->
