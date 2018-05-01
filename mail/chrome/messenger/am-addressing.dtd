@@ -28,6 +28,9 @@
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY then.label                           "Затим,">
 <!ENTITY then.accesskey                       "о">
+<!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY quoting.label                        "Када цитирам,">
+<!ENTITY quoting.accesskey                    "ц">
 <!ENTITY aboveQuote.label                     "почни мој одговор изнад цитата">
 <!ENTITY belowQuote.label                     "почни мој одговор испод цитата">
 <!ENTITY selectAndQuote.label                 "изабери цитат">
