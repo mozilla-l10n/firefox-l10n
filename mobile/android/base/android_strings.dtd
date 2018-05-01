@@ -282,6 +282,13 @@
 <!ENTITY pref_whats_new_notification "&brandShortName;(e)n berrikuntzak">
 <!ENTITY pref_whats_new_notification_summary "Jaso eginbide berriei buruzko argibideak eguneraketen ondoren">
 
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!ENTITY pref_feature_tips_notification "Produktuari eta eginbideei buruzko aholkuak">
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+<!ENTITY pref_feature_tips_notification_summary "&brandShortName; eta beste &vendorShortName; produktuak erabiltzeko argibide gehiago">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "Eginbide esperimentalak">
@@ -422,7 +429,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName;(r)en osasun-txostena">
 <!ENTITY datareporting_fhr_summary2 "Nabigatzailearen osasunari buruzko datuak partekatzen ditu &vendorShortName;(r)ekin eta nabigatzailearen errendimendua ulertzen laguntzen dizu">
-<!ENTITY datareporting_abouthr_title "Ikusi osasun-txostena">
 <!ENTITY datareporting_telemetry_title "Telemetry">
 <!ENTITY datareporting_telemetry_summary "Nabigatzailearen errendimenduaren, erabilpenaren, hardwarearen eta pertsonalizazioen inguruko datuak partekatzen ditu &vendorShortName;(r)ekin &brandShortName; hobetzen laguntzeko">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName;(e)k hutsegite-txostenak bidaltzen ditu &vendorShortName;(r)i nabigatzaile egonkorragoa eta seguruagoa egiten laguntzeko">
@@ -537,7 +543,7 @@
 <!ENTITY pref_compact_tabs_summary2 "Antolatu fitxak bi zutabetan modu bertikalean">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
-     any page is removed frome about:home. This includes pages that are in history,
+     any page is removed from about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Orria kenduta">
 <!ENTITY folder_removed "Karpeta kenduta">
@@ -752,7 +758,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Azken sinkronizazioa: &formatS;">
-<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!-- Localization note: Used when the sync has not happened yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Azken sinkronizazioa: inoiz ez">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
