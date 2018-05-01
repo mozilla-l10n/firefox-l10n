@@ -37,3 +37,5 @@
 <!ENTITY pref.numberofweeks.4 "4 недеље">
 <!ENTITY pref.numberofweeks.5 "5 недеља">
 <!ENTITY pref.numberofweeks.6 "6 недеља">
+<!ENTITY pref.showlocation.label "Прикажи место">
+<!ENTITY pref.showlocation.accesskey "м">

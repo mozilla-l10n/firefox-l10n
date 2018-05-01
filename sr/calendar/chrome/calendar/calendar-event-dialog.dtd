@@ -430,3 +430,4 @@
 <!ENTITY summary.dialog.dontsend.label          "Не шаљи одговор">
 <!ENTITY summary.dialog.dontsend.tooltiptext    "Промени стање учествовања без слања одговора организатору па затвори прозор">
 <!ENTITY summary.dialog.send.label              "Пошаљи одговор одмах">
+<!ENTITY summary.dialog.send.tooltiptext        "Пошаљи одговор организатору  па затвори прозор">
