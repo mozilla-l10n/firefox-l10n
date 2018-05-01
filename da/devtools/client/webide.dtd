@@ -124,7 +124,7 @@
 <!ENTITY runtimedetails_adbIsRoot "ADB er root: ">
 <!ENTITY runtimedetails_summonADBRoot "root-enhed">
 <!ENTITY runtimedetails_ADBRootWarning "(kræver oplåst bootloader)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "Ubegrænsede privilegier i udviklerværktøjer">
+<!ENTITY runtimedetails_unrestrictedPrivileges "Ubegrænsede privilegier i Udviklerværktøj">
 <!ENTITY runtimedetails_requestPrivileges "anmod om højere privilegier">
 <!ENTITY runtimedetails_privilegesWarning "(Genstarter enhed. Kræver root-adgang.)">
 

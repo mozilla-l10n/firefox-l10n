@@ -204,7 +204,7 @@
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-<!ENTITY pref_category_advanced_summary3 "Gendan faneblade, data-sparer, udviklerværktøjer">
+<!ENTITY pref_category_advanced_summary3 "Gendan faneblade, data-sparer, Udviklerværktøj">
 <!ENTITY pref_category_notifications "Beskeder">
 <!ENTITY pref_category_notifications_summary "Nye funktioner, opdatering af websteder">
 <!ENTITY pref_developer_remotedebugging_usb "Ekstern debugging via USB">
@@ -261,7 +261,7 @@
      “storing data”. -->
 <!ENTITY pref_category_data_saver "Data-sparer">
 <!ENTITY pref_category_media "Medie">
-<!ENTITY pref_category_developer_tools "Udviklerværktøjer">
+<!ENTITY pref_category_developer_tools "Udviklerværktøj">
 
 <!ENTITY pref_tap_to_load_images_title2 "Vis billeder">
 <!ENTITY pref_tap_to_load_images_enabled "Altid">
