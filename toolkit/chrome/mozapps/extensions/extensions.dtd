@@ -3,11 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "Eklenti Yöneticisi">
 
-<!ENTITY search.placeholder                   "Tüm eklentilerde ara">
-
 <!ENTITY search.placeholder2                  "addons.mozilla.org’da ara">
 <!ENTITY search.buttonlabel                   "Ara">
-<!-- LOCALIZATION NOTE (search.commandKey):
+<!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
@@ -16,7 +14,6 @@
 <!ENTITY listEmpty.availableUpdates.label     "Güncelleme bulunamadı">
 <!ENTITY listEmpty.recentUpdates.label        "Yakın zamanda herhangi bir eklenti güncellemediniz">
 <!ENTITY listEmpty.findUpdates.label          "Güncellemeleri denetle">
-<!ENTITY listEmpty.search.label               "Eşleşen bir eklenti bulunamadı">
 <!ENTITY listEmpty.button.label               "Eklentiler hakkında daha fazlasını öğrenin">
 <!ENTITY installAddonFromFile.label           "Dosyadan eklenti kur...">
 <!ENTITY installAddonFromFile.accesskey       "k">
@@ -24,9 +21,6 @@
 
 <!ENTITY getThemes.description                "Tarayıcınızı kişiselleştirmeye ne dersiniz?">
 <!ENTITY getThemes.learnMore                  "Binlerce tema arasından beğendiğinizi seçin.">
-
-<!ENTITY cmd.back.tooltip                     "Önceki sayfaya git">
-<!ENTITY cmd.forward.tooltip                  "Sonraki sayfaya git">
 
 
 <!ENTITY showUnsignedExtensions.button.label  "Bazı eklentiler doğrulanamadı">
@@ -44,7 +38,6 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "Eklenti güncelleme güvenliği denetimini devreye sok">
 
 <!-- categories / views -->
-<!ENTITY view.search.label                    "Arama">
 <!ENTITY view.discover.label                  "Eklentileri edinin">
 <!ENTITY view.recentUpdates.label             "Yakın zamandaki güncellemeler">
 <!ENTITY view.availableUpdates.label          "Mevcut güncellemeler">
@@ -135,7 +128,6 @@
 <!ENTITY detail.lastupdated.label             "Son güncelleme">
 <!ENTITY detail.creator.label                 "Geliştirici">
 <!ENTITY detail.homepage.label                "Ana sayfa">
-<!ENTITY detail.numberOfDownloads.label       "İndirme">
 
 <!ENTITY detail.contributions.description     "Bu eklentinin geliştiricisi, sizden ufak bir katkıda bulunarak süregelen geliştirme faaliyetlerini desteklemenizi istiyor.">
 
@@ -174,16 +166,6 @@
 <!ENTITY sort.name.tooltip                    "Ada göre sırala">
 <!ENTITY sort.dateUpdated.label               "Son güncelleme">
 <!ENTITY sort.dateUpdated.tooltip             "Güncelleme tarihine göre sırala">
-<!ENTITY sort.relevance.label                 "En çok uyuşan">
-<!ENTITY sort.relevance.tooltip               "İlgiye göre sırala">
-<!ENTITY sort.price.label                     "Fiyat">
-<!ENTITY sort.price.tooltip                   "Fiyata göre sırala">
-
-<!ENTITY search.filter2.label                 "Arama:">
-<!ENTITY search.filter2.installed.label       "Eklentilerim">
-<!ENTITY search.filter2.installed.tooltip     "Kurulu eklentileri göster">
-<!ENTITY search.filter2.available.label       "Mevcut eklentiler">
-<!ENTITY search.filter2.available.tooltip     "Kurulabilecek eklentileri göster">
 
 <!ENTITY addon.homepage                       "Ana sayfa">
 <!ENTITY addon.details.label                  "Daha fazla bilgi">
@@ -211,7 +193,7 @@
 <!ENTITY addon.install.tooltip                "Bu eklentiyi kur">
 <!ENTITY addon.updateNow.label                "Şimdi güncelle">
 <!ENTITY addon.updateNow.tooltip              "Bu eklentinin güncellemesini kur">
-<!ENTITY addon.includeUpdate.label            "Güncellemeye dâhil et">
+<!ENTITY addon.includeUpdate.label            "Güncellemeye dahil et">
 <!ENTITY addon.updateAvailable.label          "Bir güncelleme var">
 <!ENTITY addon.checkingForUpdates.label       "Güncellemeler denetleniyor…">
 <!ENTITY addon.releaseNotes.label             "Sürüm notları:">
