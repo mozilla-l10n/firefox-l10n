@@ -79,13 +79,13 @@
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableChrome.label5    "Slå chrome- og tilføjelses-debuggingsværktøjer til">
-<!ENTITY options.enableChrome.tooltip3  "Aktiverer du denne funktion, kan du bruge diverse udviklerværktøjer i en browser-kontekst (via Funktioner > Webudvikler > Browserværktøjer) og debugge tilføjelser fra fanebladet Tilføjelser">
+<!ENTITY options.enableChrome.tooltip3  "Aktiverer du denne funktion, kan du bruge diverse udviklerværktøj i en browser-kontekst (via Funktioner > Webudvikler > Browserværktøj) og debugge tilføjelser fra fanebladet Tilføjelser">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableRemote.label3    "Slå remote debugging til">
-<!ENTITY options.enableRemote.tooltip2  "Tillader at udviklerværktøjerne kan debugge eksterne Firefox-instanser som fx Firefox OS">
+<!ENTITY options.enableRemote.tooltip2  "Tillader at Udviklerværktøj kan debugge eksterne Firefox-instanser som fx Firefox OS">
 
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
@@ -97,7 +97,7 @@
   -  options.disableHTTPCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
 <!ENTITY options.disableHTTPCache.label     "Slå HTTP-cache fra (når Værktøj er åben)">
-<!ENTITY options.disableHTTPCache.tooltip   "Denne indstilling slår HTTP-cache fra for alle faneblade, der har Udviklerværktøjerne åbne. Service workers er ikke påvirket af denne indstilling.">
+<!ENTITY options.disableHTTPCache.tooltip   "Denne indstilling slår HTTP-cache fra for alle faneblade, der har Udviklerværktøj åbne. Service workers er ikke påvirket af denne indstilling.">
 
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
@@ -108,13 +108,13 @@
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
-<!ENTITY options.selectDefaultTools.label2    "Standard-udviklerværktøjer">
+<!ENTITY options.selectDefaultTools.label2    "Standard-udviklerværktøj">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool
   -  installed by add-ons. -->
-<!ENTITY options.selectAdditionalTools.label  "Udviklerværktøjer installeret af tilføjelser">
+<!ENTITY options.selectAdditionalTools.label  "Udviklerværktøj installeret af tilføjelser">
 
 <!-- LOCALIZATION NOTE (options.selectEnabledToolboxButtons.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
