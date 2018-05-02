@@ -107,6 +107,13 @@ search-keyword-warning-title = Napamindua a Balikas-tulbek
 
 ## Sync Section - Signed in
 
+sync-engine-bookmarks =
+    .label = Pannanda
+    .accesskey = m
+sync-engine-history =
+    .label = Pakasaritaan
+    .accesskey = r
+sync-tos-link = Pagannurotan ti Serbisio
 
 ## Privacy Section
 
