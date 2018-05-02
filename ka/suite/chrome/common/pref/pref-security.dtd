@@ -30,7 +30,7 @@
   meaning "reported" (and not something like "known").
 -->
 <!ENTITY safeBrowsing.label               "გვერდების უსაფრთხოდ მონახულება">
-<!ENTITY safeBrowsingIntro.label          "&brandShortName; ბრაუზერს შეუძლია შეზღუდოს სახიფათო გვერდები, რომელიც მავნე პროგრამების გავრცელებაშია შემჩნეული.">
+<!ENTITY safeBrowsingIntro.label          "&brandShortName; ბრაუზერს შეუძლია შეზღუდოს სახიფათო გვერდები, რომლებიც მავნე პროგრამების გავრცელებაშია შემჩნეული.">
 
 <!ENTITY blockAttackSites.label           "მოიერიშედ მიჩნეული საიტების (სახიფათო, ვირუსების შემცველი) შეზღუდვა">
 <!ENTITY blockAttackSites.accesskey       "ზ">
