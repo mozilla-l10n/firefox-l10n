@@ -1,0 +1,119 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like id.heading in crashes.dtd. -->
+<!ENTITY aboutSupport.crashes.id "ID ti Danon">
+
+
+
+
+<!ENTITY aboutSupport.extensionName "Nagan">
+
+<!ENTITY aboutSupport.extensionVersion "Bersion">
+
+
+
+
+
+
+
+
+<!ENTITY aboutSupport.experimentDescription "Pakabigbigan">
+
+
+<!ENTITY aboutSupport.experimentHomepage "Umuna a panid">
+
+
+<!ENTITY aboutSupport.appBasicsTitle "Kangrunaan a Kapanunotan">
+<!ENTITY aboutSupport.appBasicsName "Nagan">
+<!ENTITY aboutSupport.appBasicsVersion "Bersion">
+
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
+
+
+
+<!ENTITY aboutSupport.appBasicsProfileDir "Direktorio ti Profile">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Agtartaray nga Anay">
+
+
+
+<!ENTITY aboutSupport.appBasicsMemoryUse "Panangaramat ti Memoria">
+
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
+variant of aboutSupport.showDir.label.  This allows us to use the preferred
+"Finder" terminology on Mac. -->
+<!-- LOCALIZATION NOTE (aboutSupport.showWin2.label): This is the Windows-specific
+variant of aboutSupport.showDir.label. -->
+
+<!ENTITY aboutSupport.modifiedPrefsName "Nagan">
+
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY aboutSupport.a11yTitle "Aksesibilidad">
+
+
+
+
+
+
+<!ENTITY aboutSupport.installationHistoryTitle "Pakasaritaan ti Panaginstala">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,42 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY print.label          "Imaldit...">
+<!ENTITY print.accesskey      "P">
+<!ENTITY pageSetup.label      "Page Setup…">
+<!ENTITY pageSetup.accesskey  "u">
+
+
+
+
+
+
+
+
+
+<!ENTITY close.label          "Close">
+<!ENTITY close.accesskey      "C">
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY Custom.label         "Pangrunaen…">
+
+<!ENTITY customPrompt.title   "Naipangruna a Panambagay…">
+
+
+
+
+
+
+<!ENTITY nextarrow.tooltip    "Agtarus a panid">
+

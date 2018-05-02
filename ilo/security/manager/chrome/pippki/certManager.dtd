@@ -1,0 +1,88 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+<!ENTITY certmgr.tab.ca                       "Turay">
+<!ENTITY certmgr.tab.orphan2                  "Dadduma">
+
+
+
+
+
+
+<!ENTITY certmgr.detail.general_tab.title     "Sapasap">
+<!ENTITY certmgr.detail.general_tab.accesskey "G">
+<!ENTITY certmgr.detail.prettyprint_tab.title "Detalie">
+<!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
+
+<!ENTITY certmgr.subjectinfo.label            "Pagipaayan">
+<!ENTITY certmgr.issuerinfo.label             "Mangipaay">
+
+<!ENTITY certmgr.fingerprints.label           "Lemma">
+<!ENTITY certmgr.certdetail.title             "Detalie ti Sertipiko">
+<!ENTITY certmgr.certdetail.cn                "Sapasan a Nagan (CN)">
+<!ENTITY certmgr.certdetail.o                 "Bunggoy (O)">
+<!ENTITY certmgr.certdetail.ou                "Paset ti Bunggoy (OU)">
+<!ENTITY certmgr.certdetail.serialnumber      "Bilang ti Serie">
+
+<!ENTITY certmgr.certdetail.sha1fingerprint   "Lemma ti SHA1">
+
+<!ENTITY certmgr.editcacert.title             "Baliwan dagiti parametro ti pannakatalek ti sertipiko a CA">
+<!ENTITY certmgr.editcert.edittrust           "Baliwan dagiti parametro ti pannakatalek:">
+
+<!ENTITY certmgr.editcert.trustemail          "Mailasin daytoy a sertipiko dagiti agar-aramat ti korreo.">
+<!ENTITY certmgr.editcert.trustobjsign        "Mailasin daytoy a sertipiko dagiti mannurat ti software.">
+
+<!ENTITY certmgr.deletecert.title             "Buraen ti Sertipiko">
+
+<!ENTITY certmgr.certname                     "Nagan ti Sertipiko">
+
+
+
+
+<!ENTITY certmgr.expires                      "Panagpapaso">
+<!ENTITY certmgr.email                        "E-Mail">
+<!ENTITY certmgr.serial                       "Bilang ti Serie">
+
+<!ENTITY certmgr.close.label                  "Close">
+<!ENTITY certmgr.close.accesskey              "C">
+<!ENTITY certmgr.view2.label                  "Imatangen...">
+<!ENTITY certmgr.view2.accesskey              "V">
+<!ENTITY certmgr.edit3.label                  "Baliwan ti Panagtalek...">
+<!ENTITY certmgr.edit3.accesskey              "e">
+<!ENTITY certmgr.export.label                 "Iluas...">
+<!ENTITY certmgr.export.accesskey             "x">
+<!ENTITY certmgr.delete2.label                "Borraen">
+<!ENTITY certmgr.delete2.accesskey            "D">
+<!ENTITY certmgr.delete_builtin.label         "Borraen wenno Ipaidam...">
+<!ENTITY certmgr.delete_builtin.accesskey     "d">
+<!ENTITY certmgr.backup2.label                "Itipon...">
+<!ENTITY certmgr.backup2.accesskey            "B">
+<!ENTITY certmgr.backupall2.label             "Itipon Amin...">
+<!ENTITY certmgr.backupall2.accesskey         "k">
+
+
+<!ENTITY certmgr.details.label                "Batog ti Sertipiko">
+<!ENTITY certmgr.details.accesskey            "F">
+<!ENTITY certmgr.fields.label                 "Pateg ti Batog">
+<!ENTITY certmgr.fields.accesskey             "V">
+
+
+<!ENTITY certmgr.addException.label           "Inayon ti Laksid...">
+<!ENTITY certmgr.addException.accesskey       "x">
+
+<!ENTITY exceptionMgr.title                   "Inayon ti Laksid ti Seguridad">
+<!ENTITY exceptionMgr.exceptionButton.label   "Patalgedan ti Laksid ti Seguridad">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "C">
+<!ENTITY exceptionMgr.supplementalWarning     "Dagiti nalinteg a bangko, tienda ken pagraramanan a purok ket didakayo dawaten nga aramiden daytoy.">
+
+<!ENTITY exceptionMgr.certlocation.url        "Disso:">
+
+<!ENTITY exceptionMgr.certlocation.accesskey  "A">
+<!ENTITY exceptionMgr.certstatus.caption      "Kasasaad ti Sertipiko">
+<!ENTITY exceptionMgr.certstatus.viewCert     "Imatangen...">
+<!ENTITY exceptionMgr.certstatus.accesskey    "V">
+<!ENTITY exceptionMgr.permanent.label         "Taginayonen nga itipon daytoy a laksid">
+<!ENTITY exceptionMgr.permanent.accesskey     "p">

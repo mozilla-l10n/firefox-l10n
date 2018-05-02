@@ -1,0 +1,110 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+
+<!ENTITY places.library.title  "Katalogo">
+<!ENTITY places.library.width  "730">
+<!ENTITY places.library.height "500">
+<!ENTITY organize.label        "Urnosen">
+<!ENTITY organize.accesskey    "o">
+<!ENTITY organize.tooltip      "Urnosen ti pannanda">
+
+<!ENTITY file.close.label               "Close">
+<!ENTITY file.close.accesskey           "C">
+<!ENTITY cmd.close.key                  "w">
+
+
+<!ENTITY views.tooltip                  "Isukat ti panangipadlaw">
+
+
+<!ENTITY view.sort.label                "Itakunda">
+<!ENTITY view.sort.accesskey            "S">
+<!ENTITY view.unsorted.label            "Di-naurnos">
+<!ENTITY view.unsorted.accesskey        "u">
+
+
+
+
+
+<!ENTITY importBookmarksFromHTML.label     "Iyankat ti Pannanda manipud iti HTML...">
+<!ENTITY importBookmarksFromHTML.accesskey "H">
+<!ENTITY exportBookmarksToHTML.label       "Iluas ti pannanda iti HTML...">
+<!ENTITY exportBookmarksToHTML.accesskey   "I">
+<!ENTITY importOtherBrowser.label          "Iyangkat ti Datos manipud iti Sabali a Browser...">
+<!ENTITY importOtherBrowser.accesskey      "B">
+
+<!ENTITY cmd.backup.label               "Itipon...">
+<!ENTITY cmd.backup.accesskey           "B">
+<!ENTITY cmd.restore2.label             "Ipulang">
+<!ENTITY cmd.restore2.accesskey         "R">
+<!ENTITY cmd.restoreFromFile.label      "Pilien ti Intar...">
+<!ENTITY cmd.restoreFromFile.accesskey  "C">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY cmd.properties.label      "Pamigbigan">
+<!ENTITY cmd.properties.accesskey  "i">
+
+<!ENTITY cmd.sortby_name.label              "Urnosen segun Nagan">
+<!ENTITY cmd.sortby_name.accesskey          "s">
+<!ENTITY cmd.context_sortby_name.accesskey  "P">
+
+<!ENTITY cmd.new_bookmark.label            "Baro a Pannanda...">
+<!ENTITY cmd.new_bookmark.accesskey        "B">
+<!ENTITY cmd.new_folder.label              "Baro a Karpeta...">
+<!ENTITY cmd.new_folder.accesskey          "o">
+<!ENTITY cmd.context_new_folder.accesskey  "F">
+<!ENTITY cmd.new_separator.label           "Baro a Pagsina">
+<!ENTITY cmd.new_separator.accesskey       "s">
+
+
+
+<!ENTITY cmd.moveBookmarks.label                  "Yalis...">
+<!ENTITY cmd.moveBookmarks.accesskey              "M">
+
+<!ENTITY col.name.label          "Nagan">
+<!ENTITY col.tags.label          "Etiketa">
+<!ENTITY col.url.label           "Disso">
+
+
+<!ENTITY col.description.label   "Pakabigbigan">
+
+<!ENTITY col.lastmodified.label  "Kaudian a Panagbaliw">
+
+
+<!ENTITY cmd.find.key  "f">
+
+
+<!ENTITY maintenance.tooltip    "Iyangkat ken tiponen ti pannanda">
+
+<!ENTITY backButton.tooltip  "Agsanud">
+
+<!ENTITY forwardButton.tooltip  "Agtarus">
+
+
+<!ENTITY detailsPane.less.label "Bassit">
+<!ENTITY detailsPane.less.accesskey "e">
+
+
+
+<!ENTITY byDate.label             "Segun Petsa">
+<!ENTITY byDate.accesskey         "D">
+
+
+<!ENTITY byMostVisited.label      "Segun Nabasbasa">
+<!ENTITY byMostVisited.accesskey  "V">
+
+
+
+

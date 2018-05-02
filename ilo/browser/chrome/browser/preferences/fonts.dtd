@@ -1,0 +1,84 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+<!ENTITY  sizeProportional.accesskey              "K">
+<!ENTITY  sizeMonospace.accesskey                 "e">
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
+
+<!ENTITY  font.langGroup.trad-chinese             "Tinawtawid nga Insek (Taiwan)">
+<!ENTITY  font.langGroup.simpl-chinese            "Naiyababa nga Insek">
+<!ENTITY  font.langGroup.trad-chinese-hk          "Tinawtawid nga Insek (Hong Kong)">
+
+
+
+
+
+
+
+
+
+<!ENTITY  font.langGroup.armenian                 "Armenio">
+<!ENTITY  font.langGroup.bengali                  "Benggali">
+<!ENTITY  font.langGroup.canadian                 "Sangkamaymaysa a Silibario a Kanadiense">
+<!ENTITY  font.langGroup.ethiopic                 "Etiope">
+<!ENTITY  font.langGroup.georgian                 "Heorhio">
+
+
+
+
+
+
+
+
+
+<!ENTITY  font.langGroup.tibetan                  "Tibetano">
+<!-- Minimum font size -->
+
+<!ENTITY minSize.none                             "Awan">
+<!-- default font type -->
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
+     Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
+
+
+
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
+     Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.traditional):
+     Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
+
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.greek):
+     Translate "Greek" as an adjective for an encoding, not as the name of the language. -->
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.hebrew):
+     Translate "Hebrew" as an adjective for an encoding, not as the name of the language. -->
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.japanese):
+     Translate "Japanese" as an adjective for an encoding, not as the name of the language. -->
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.korean):
+     Translate "Korean" as an adjective for an encoding, not as the name of the language. -->
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.thai):
+     Translate "Thai" as an adjective for an encoding, not as the name of the language. -->
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
+     Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
+     Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.vietnamese  "Bietnames">
+

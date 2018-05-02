@@ -1,0 +1,84 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  pageInfoWindow.width  "600">
+
+
+<!ENTITY  copy.key              "C">
+<!ENTITY  copy.label            "Kopiaen">
+<!ENTITY  copy.accesskey        "C">
+<!ENTITY  selectall.key         "A">
+
+
+<!ENTITY  closeWindow.key       "w">
+
+<!ENTITY  generalTab            "Sapasap">
+<!ENTITY  generalTab.accesskey  "G">
+
+<!ENTITY  generalURL            "Pagtaengan:">
+<!ENTITY  generalType           "Kita:">
+<!ENTITY  generalMode           "Wagas ti Panagipaay:">
+<!ENTITY  generalSize           "Kadakkel:">
+<!ENTITY  generalReferrer       "Agturturong nga URL:">
+
+<!ENTITY  generalModified       "Panagbaliw:">
+
+<!ENTITY  generalMetaName       "Nagan">
+<!ENTITY  generalMetaContent    "Laon">
+
+<!ENTITY  mediaTab.accesskey    "M">
+<!ENTITY  mediaLocation         "Disso:">
+
+<!ENTITY  mediaAltHeader        "Sabali a Teskto">
+<!ENTITY  mediaAddress          "Pagtaengan">
+<!ENTITY  mediaType             "Kita">
+<!ENTITY  mediaSize             "Kadakkel">
+<!ENTITY  mediaCount            "Bilang">
+<!ENTITY  mediaDimension        "Gupit:">
+<!ENTITY  mediaLongdesc         "Sibubukel a Pakabigbigan:">
+<!ENTITY  mediaBlockImage.accesskey "B">
+<!ENTITY  mediaSaveAs           "Idulin kas...">
+<!ENTITY  mediaSaveAs.accesskey "A">
+<!ENTITY  mediaSaveAs2.accesskey "e">
+<!ENTITY  mediaPreview          "Pagarigan ti Media:">
+
+<!ENTITY  feedTab               "Subo">
+<!ENTITY  feedTab.accesskey     "F">
+<!ENTITY  feedSubscribe         "Pagsuskribiren">
+<!ENTITY  feedSubscribe.accesskey "u">
+
+<!ENTITY  permTab.accesskey     "P">
+
+
+<!ENTITY  permAllow             "Palubosan">
+
+<!ENTITY  permBlock             "Lapdan">
+<!ENTITY  permissionsFor        "Palubos maipaay:">
+
+
+<!ENTITY  permClearStorage           "Awangan ti Pannakaidulin">
+<!ENTITY  permClearStorage.accesskey "w">
+
+<!ENTITY  securityTab           "Seguridad">
+<!ENTITY  securityTab.accesskey "S">
+
+<!ENTITY  securityView.accesskey "V">
+
+
+<!ENTITY  securityView.identity.owner    "Akinkua:">
+
+
+
+
+
+
+
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+
+
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
+
+<!ENTITY  securityView.technical.header                 "Teknikal a Detalie">
+
+<!ENTITY  helpButton.label                              "Tulong">

@@ -1,0 +1,50 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.title "about:config">
+<!-- about:config warning page -->
+<!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
+
+<!ENTITY aboutWarningTitle.label "This might void your warranty!">
+<!ENTITY aboutWarningText.label "Makadaddael dagitoy a sagana ti nangatngato a tukad iti simpa, seguridad ken pannakaaramid daytoy nga aplikasion. Agpatuloykayo koma no siguradokayo kadagiti aramidenyo.">
+
+<!ENTITY aboutWarningCheckbox.label "Show this warning next time">
+
+<!ENTITY searchPrefs.label "Search:">
+<!ENTITY searchPrefs.accesskey "r">
+<!ENTITY focusSearch.key "P">
+
+<!-- Columns -->
+
+<!ENTITY prefColumn.label "Nagan ti Pagdumdumaan">
+<!ENTITY lockColumn.label "Kasasaad">
+<!ENTITY typeColumn.label "Kita">
+<!ENTITY valueColumn.label "Pateg">
+<!-- Tooltips -->
+
+<!ENTITY prefColumnHeader.tooltip "Klikan tapno matakunda"> 
+<!ENTITY columnChooser.tooltip "Click to select columns to display"> 
+<!-- Context Menu -->
+
+<!ENTITY copyPref.key "C">
+<!ENTITY copyPref.label "Kopiaen">
+<!ENTITY copyPref.accesskey "C">
+<!ENTITY copyName.label "Kopiaen ti Nagan">
+<!ENTITY copyName.accesskey "N">
+<!ENTITY copyValue.label "Kopiaen ti Pateg">
+<!ENTITY copyValue.accesskey "V">
+<!ENTITY modify.label "Baliwan">
+<!ENTITY modify.accesskey "M">
+<!ENTITY toggle.label "Agkasukat">
+<!ENTITY toggle.accesskey "t">
+<!ENTITY reset.label "Reset">
+<!ENTITY reset.accesskey "R">
+<!ENTITY new.label "Baro">
+<!ENTITY new.accesskey "w">
+<!ENTITY string.label "Kawar">
+<!ENTITY string.accesskey "S">
+<!ENTITY integer.label "Dagup">
+<!ENTITY integer.accesskey "I">
+<!ENTITY boolean.label "Lohiko">
+<!ENTITY boolean.accesskey "B">

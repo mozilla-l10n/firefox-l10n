@@ -1,0 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY setPassword.oldPassword.label     "Agdinama a kontrasenias:">
+
+
+
+<!ENTITY setPassword.meter.loading         "Agikarkarga">
+<!ENTITY masterPasswordDescription.label   "Ti panagaramat ti Kontrasenias a Maestro ket mangsalaknib iti napakni a damag arig kontrasenias kadagiti website. No parsuaenyo ti Kontrasenias a Maestro, dawatennakayonto nga isurat maminsan kada sessesion patinayon no mangawat ti &brandShortName; iti naidulin a damag a salsalakniban daytoy a kontrasenias.">
+
