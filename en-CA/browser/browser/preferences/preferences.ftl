@@ -145,6 +145,9 @@ startup-blank-page =
     .label = Show a blank page
 startup-prev-session =
     .label = Show your windows and tabs from last time
+startup-restore-previous-session =
+    .label = Restore previous session
+    .accesskey = s
 disable-extension =
     .label = Disable Extension
 home-page-header = Home Page
@@ -341,6 +344,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = New Windows and Tabs
+home-new-windows-tabs-description2 = Choose what you see when you open your homepage, new windows, and new tabs.
 
 ## Home Section - Home Page Customization
 
@@ -531,6 +535,9 @@ privacy-header = Browser Privacy
 ## Privacy Section - Forms
 
 forms-header = Forms & Passwords
+forms-ask-to-save-logins =
+    .label = Ask to save logins and passwords for websites
+    .accesskey = r
 forms-exceptions =
     .label = Exceptions…
     .accesskey = x
@@ -597,6 +604,10 @@ sitedata-block-cookies-option =
     .accesskey = B
 sitedata-keep-until = Keep until
     .accesskey = u
+sitedata-keep-until-expire =
+    .label = They expire
+sitedata-keep-until-closed =
+    .label = { -brand-short-name } is closed
 sitedata-accept-third-party-desc = Accept third-party cookies and site data
     .accesskey = y
 sitedata-accept-third-party-always-option =
