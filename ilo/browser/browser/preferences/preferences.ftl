@@ -46,15 +46,38 @@ should-restart-title = Irugi manen ti { -brand-short-name }
 
 ## General Section - Language & Appearance
 
+advanced-fonts =
+    .label = Nangatngato...
+    .accesskey = a
+colors-settings =
+    .label = Maris...
+    .accesskey = C
+choose-button =
+    .label = Pilien...
+    .accesskey = o
+translate-exceptions =
+    .label = Laksid...
+    .accesskey = x
 
 ## General Section - Files and Applications
 
+download-header = Downloads
+download-save-to =
+    .label = Pagidulinan ti intar
+    .accesskey = v
+update-application-use-service =
+    .label = Akinlikod a serbisio ti manginstala iti pagtarimaan
+    .accesskey = A
 
 ## General Section - Performance
 
+performance-allow-hw-accel =
+    .label = Aramaten ti Pannakapapardas iti hardware no maal-ala
+    .accesskey = A
 
 ## General Section - Browsing
 
+browsing-title = Panagsursur
 
 ## General Section - Proxy
 
@@ -64,6 +87,9 @@ should-restart-title = Irugi manen ti { -brand-short-name }
 
 ## Home Section - Home Page Customization
 
+choose-bookmark =
+    .label = Aramaten ti pannanda...
+    .accesskey = m
 
 ## Search Section
 
