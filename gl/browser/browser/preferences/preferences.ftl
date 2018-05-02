@@ -183,11 +183,6 @@ containers-disable-alert-desc =
         [one] Se desactiva as lapelas contedor agora, { $tabCount } lapela contedor pecharase. Confirma que quere desactivar as lapelas contedor?
        *[other] Se desactiva as lapelas contedor agora, { $tabCount } lapelas contedor pecharanse. Confirma que quere desactivar as lapelas contedor?
     }
-containers-disable-alert-ok-button =
-    { $tabCount ->
-        [one] Pechar a lapela contedor
-       *[other] Pechar as lapelas contedor
-    }
 containers-disable-alert-cancel-button = Manter activado
 containers-remove-alert-title = Retirar este contedor?
 # Variables:
