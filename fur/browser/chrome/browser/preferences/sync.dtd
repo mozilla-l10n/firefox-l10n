@@ -58,17 +58,41 @@ both, to better adapt this sentence to their language.
 -->
 <!ENTITY signedInLoginFailure.aftername.label "">
 
+<!ENTITY signIn.label                 "Acêt">
+<!ENTITY signIn.accesskey             "g">
+<!ENTITY profilePicture.tooltip       "Cambie foto dal profîl">
+<!ENTITY verifiedManage.label         "Gjestion account">
+<!ENTITY verifiedManage.accesskey     "o">
+<!ENTITY disconnect3.label            "Disconet…">
+<!ENTITY disconnect3.accesskey        "D">
+<!ENTITY resendVerification.label     "Torne a mandâ la verifiche">
+<!ENTITY resendVerification.accesskey "d">
+<!ENTITY cancelSetup.label            "Cancele configurazion">
+<!ENTITY cancelSetup.accesskey        "p">
 
+<!ENTITY signedOut.caption            "Puarte cun te il Web">
+<!ENTITY signedOut.description        "Sincronize i segnelibris, la storie, lis schedis, lis passwords, lis zontis e preferencis su ducj i tiei dispositîfs.">
+<!ENTITY signedOut.accountBox.title   "Conet cun une &syncBrand.fxAccount.label;">
+<!ENTITY signedOut.accountBox.create2 "No âstu ancjemò un account? Comence cumò">
+<!ENTITY signedOut.accountBox.create2.accesskey "C">
+<!ENTITY signedOut.accountBox.signin2 "Acêt…">
+<!ENTITY signedOut.accountBox.signin2.accesskey "I">
 
+<!ENTITY signedIn.settings.label       "Impostazions di sincronizazion">
+<!ENTITY signedIn.settings.description "Sincronize ce che tu as voie sul tô dispositîf cun &brandShortName;.">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for
      Android or iOS to sync with your mobile device." -->
 
+<!ENTITY mobilePromo3.start            "Discjarie Firefox par ">
 <!-- LOCALIZATION NOTE (mobilePromo3.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+<!ENTITY mobilePromo3.androidLink      "Android">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSBefore): This is text displayed between mobilePromo3.androidLink and mobilePromo3.iosLink -->
+<!ENTITY mobilePromo3.iOSBefore         " o ">
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
+<!ENTITY mobilePromo3.iOSLink          "iOS">
 
 
