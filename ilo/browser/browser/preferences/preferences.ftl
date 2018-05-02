@@ -120,12 +120,27 @@ sync-tos-link = Pagannurotan ti Serbisio
 
 ## Privacy Section - Forms
 
+forms-exceptions =
+    .label = Laksid...
+    .accesskey = x
+forms-master-pw-use =
+    .label = Aramaten ti Kontrasenias a Maestro
+    .accesskey = U
+forms-master-pw-change =
+    .label = Sukatan ti Kontrasenias a Maestro...
+    .accesskey = M
 
 ## Privacy Section - History
 
+history-private-browsing-permanent =
+    .label = Always use private browsing mode
+    .accesskey = b
 
 ## Privacy Section - Site Data
 
+sitedata-cookies-exceptions =
+    .label = Laksid...
+    .accesskey = E
 
 ## Privacy Section - Address Bar
 
@@ -135,6 +150,12 @@ sync-tos-link = Pagannurotan ti Serbisio
 
 ## Privacy Section - Permissions
 
+permissions-block-popups-exceptions =
+    .label = Laksid...
+    .accesskey = E
+permissions-addon-exceptions =
+    .label = Laksid...
+    .accesskey = E
 
 ## Privacy Section - Data Collection
 
@@ -147,3 +168,4 @@ sync-tos-link = Pagannurotan ti Serbisio
 
 ## Privacy Section - Certificates
 
+certs-header = Sertipiko
