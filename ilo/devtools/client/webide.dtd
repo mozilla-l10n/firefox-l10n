@@ -3,47 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY projectMenu_play_label "Isimpa sa Pagandaren">
 
 
 
@@ -55,72 +15,33 @@
 <!-- show toolbox -->
 <!-- zoom -->
 
-
-
-
-
 <!ENTITY projectPanel_tabs "Etiketa">
 
-
-
-
-
-
-
-
 <!-- Lense -->
-
-
 <!ENTITY details_description "Pakabigbigan">
 <!ENTITY details_location "Disso">
-
 
 <!-- New App -->
 
 
-
 <!-- Decks -->
 
-
-
 <!ENTITY deck_close "Close">
+
 <!-- Addons -->
 
 <!-- Prefs -->
-
 <!ENTITY prefs_general_title "Sapasap">
-
-
-
-
-
-
-
 
 <!-- Runtime Details -->
 
-
-
-
-
-
 <!-- Device Preferences and Settings -->
-
-
 <!ENTITY device_typeobject "Banag">
 
 <!-- Device Preferences -->
 
-
-
-
 <!-- Device Settings -->
 
-
-
-
-<!-- Monitor -->
-<!ENTITY monitor_help "Tulong">
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
@@ -135,17 +56,3 @@
      user to transfer authentication info by transferring a token. -->
 
 <!-- Logs panel -->
-<!-- Simulator Options -->
-
-
-
-
-<!ENTITY simulator_version "Bersion">
-
-
-
-
-
-
-
-

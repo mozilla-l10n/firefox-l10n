@@ -4,18 +4,8 @@
 
 
 
-
-
-
 <!ENTITY  manualUpdate.title              "Saan a Namanarimaan">
 <!ENTITY  manualUpdate.desc               "Maal-alan ti isingsingasing a pagtatarimaan ti seguridad ken simpa, ngem awan kadakayo dagiti palubos iti sistema a nasken tapno mayinstalayo isu. Kasaoyo man ti mangimaton ti sistema, wenno padasenyo nga aramaten ti kuenta nga adda ti palubos a makayinstala iti software kadaytoy a kompiuter.">
-
-
-
-
-
-
-
 
 
 
@@ -25,9 +15,8 @@
 <!ENTITY  details.link                    "Detalie">
 
 
-
-
-
+                                           
+                                           
 
 
 
@@ -35,7 +24,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Mayinstalanto ti pagtatarimaan intuno agrugi manen ti &brandShortName;. Mairugiyo manen ti &brandShortName; itan, wenno agtuloykayo santo irugiyo manen intuno madamdama.">
 
-
 <!ENTITY  update.details.label            "Detalie">
-
+<!ENTITY  update.installedOn.label        "Nagisimpaan:">
 <!ENTITY  update.status.label             "Kasasaad:">
