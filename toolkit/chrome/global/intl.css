@@ -3,13 +3,13 @@
  * file, You can obtain one at http://mozilla.org/MPL/2.0/. */
 
 /*
- * This file contains all localizable skin settings such as 
+ * This file contains all localizable skin settings such as
  *   font, layout, and geometry
  *   Contributor(s):
  *   Tsahi Asher (tsahi_75@yahoo.com)
  *   Reuven Gonen  (linxspider@yahoo.com)
  */
-window { 
+window {
   font: 3mm tahoma,arial,helvetica,sans-serif;
 }
 
@@ -41,9 +41,13 @@ parsererror {
 *********************/
 
 
-/* set LTR for url and file paths and align them to the right - Bug 289934  */
+/*
+    Set LTR for url and file paths and align them to the right - Bug 289934
+    Updates:
+    - Removed #downloadFolder (bug 1457720).
+*/
 
-#source, #path, #url, #feedurl, #downloadFolder, #urltext {
+#source, #path, #url, #feedurl, #urltext {
   direction: ltr !important;
   text-align: right !important;
 }
@@ -71,4 +75,3 @@ parsererror {
 #searchBox {
   direction: rtl !important;
 }
-
