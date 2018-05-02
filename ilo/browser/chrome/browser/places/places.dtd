@@ -13,30 +13,43 @@
 <!ENTITY file.close.label               "Close">
 <!ENTITY file.close.accesskey           "C">
 <!ENTITY cmd.close.key                  "w">
+<!ENTITY views.label                    "Panagipadlaw">
+<!ENTITY views.accesskey                "P">
 <!ENTITY views.tooltip                  "Isukat ti panangipadlaw">
 <!ENTITY view.columns.label             "Ipadlaw ti Kolumna">
+<!ENTITY view.columns.accesskey         "m">
 <!ENTITY view.sort.label                "Itakunda">
 <!ENTITY view.sort.accesskey            "S">
 <!ENTITY view.unsorted.label            "Di-naurnos">
 <!ENTITY view.unsorted.accesskey        "u">
+<!ENTITY view.sortAscending.label       "Panangpantag A > Z">
+<!ENTITY view.sortAscending.accesskey   "A">
+<!ENTITY view.sortDescending.label      "Panangpantag Z > A">
+<!ENTITY view.sortDescending.accesskey  "Z">
 
-<!ENTITY importBookmarksFromHTML.label     "Iyankat ti Pannanda manipud iti HTML...">
+<!ENTITY importBookmarksFromHTML.label     "Yankat ti Pannanda manipud iti HTML...">
 <!ENTITY importBookmarksFromHTML.accesskey "H">
 <!ENTITY exportBookmarksToHTML.label       "Iluas ti pannanda iti HTML...">
-<!ENTITY exportBookmarksToHTML.accesskey   "I">
-<!ENTITY importOtherBrowser.label          "Iyangkat ti Datos manipud iti Sabali a Browser...">
+<!ENTITY exportBookmarksToHTML.accesskey   "u">
+<!ENTITY importOtherBrowser.label          "Yangkat ti Datos manipud iti Sabali a Browser...">
 <!ENTITY importOtherBrowser.accesskey      "B">
 
 <!ENTITY cmd.backup.label               "Itipon...">
-<!ENTITY cmd.backup.accesskey           "B">
+<!ENTITY cmd.backup.accesskey           "n">
 <!ENTITY cmd.restore2.label             "Ipulang">
 <!ENTITY cmd.restore2.accesskey         "R">
 <!ENTITY cmd.restoreFromFile.label      "Pilien ti Intar...">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
+<!ENTITY cmd.deleteDomainData.label     "Lipatan Daytoy a Sitio">
 
+<!ENTITY cmd.open.label                  "Lukatan">
+<!ENTITY cmd.open_window.label           "Lukatan iti Baro a Tawa">
+<!ENTITY cmd.open_private_window.label     "Lukatan iti Baro a Napakni a Tawa">
+<!ENTITY cmd.open_tab.label              "Lukatan iti Baro a Lapayag">
+<!ENTITY cmd.open_all_in_tabs.label      "Lukatan Amin a Lapayag">
 
-<!ENTITY cmd.properties.label      "Pamigbigan">
+<!ENTITY cmd.properties.label      "Gupit">
 <!ENTITY cmd.properties.accesskey  "i">
 
 <!ENTITY cmd.sortby_name.label              "Urnosen segun Nagan">
@@ -51,16 +64,24 @@
 <!ENTITY cmd.new_separator.label           "Baro a Pagsina">
 <!ENTITY cmd.new_separator.accesskey       "s">
 
+<!ENTITY cmd.reloadLivebookmark.label      "Ikarga manen ti Siaandar a Pannanda">
 
 <!ENTITY col.name.label          "Nagan">
 <!ENTITY col.tags.label          "Etiketa">
 <!ENTITY col.url.label           "Disso">
+<!ENTITY col.mostrecentvisit.label "Kaudian a Panagbisita">
+<!ENTITY col.visitcount.label    "Panagbisita">
 <!ENTITY col.description.label   "Pakabigbigan">
+<!ENTITY col.dateadded.label     "Nanayonan">
 <!ENTITY col.lastmodified.label  "Kaudian a Panagbaliw">
 
+<!ENTITY historySearch.placeholder  "Biroken iti pakasaritaan">
+<!ENTITY bookmarksSearch.placeholder  "Biroken iti pannanda">
 
 <!ENTITY cmd.find.key  "f">
 
+<!ENTITY maintenance.label      "Yangkat ken Kopiaen">
+<!ENTITY maintenance.accesskey  "Y">
 <!ENTITY maintenance.tooltip    "Iyangkat ken tiponen ti pannanda">
 
 <!ENTITY backButton.tooltip  "Agsanud">
@@ -71,11 +92,17 @@
 <!ENTITY detailsPane.more.accesskey "u">
 <!ENTITY detailsPane.less.label "Basbassit">
 <!ENTITY detailsPane.less.accesskey "B">
+<!ENTITY detailsPane.selectAnItemText.description "Pilienyo ti maysa tapno maipadlaw sakayonto makapangbaliw kadagiti gupitna.">
 
 <!ENTITY view.label               "Ipadlaw">
+<!ENTITY view.accesskey           "w">
 <!ENTITY byDate.label             "Segun Petsa">
 <!ENTITY byDate.accesskey         "D">
 <!ENTITY bySite.label             "Segun Sitio">
+<!ENTITY bySite.accesskey         "S">
 <!ENTITY byMostVisited.label      "Segun Nabasbasa">
 <!ENTITY byMostVisited.accesskey  "V">
+<!ENTITY byLastVisited.label      "Segun Kaudian a Panagbisita">
+<!ENTITY byLastVisited.accesskey  "K">
 <!ENTITY byDayAndSite.label       "Segun Petsa ken Sitio">
+<!ENTITY byDayAndSite.accesskey   "t">
