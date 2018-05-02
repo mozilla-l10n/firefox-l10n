@@ -29,5 +29,22 @@
 
 <!ENTITY aboutTelemetry.homeSection "Home">
 <!ENTITY aboutTelemetry.generalDataSection "Dâts gjenerai">
+<!ENTITY aboutTelemetry.environmentDataSection "Dâts ambient">
 <!ENTITY aboutTelemetry.sessionInfoSection "Informazions de session">
+<!ENTITY aboutTelemetry.scalarsSection "Scjalârs">
+<!ENTITY aboutTelemetry.keyedScalarsSection "Scjalarâs cun clâf">
+<!ENTITY aboutTelemetry.histogramsSection "Istograms">
+<!ENTITY aboutTelemetry.keyedHistogramsSection "Istograms cun clâf">
+<!ENTITY aboutTelemetry.eventsSection "Events">
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "Misurazion semplice">
+<!ENTITY aboutTelemetry.telemetryLogSection "Regjistri Telemetry">
+<!ENTITY aboutTelemetry.slowSqlSection "Mostre istruzions lentis SQL">
+<!ENTITY aboutTelemetry.chromeHangsSection "Blocs dal browser">
+<!ENTITY aboutTelemetry.addonDetailsSection "Detais des zontis">
+<!ENTITY aboutTelemetry.lateWritesSection "Scrituris tardis">
+<!ENTITY aboutTelemetry.rawPayloadSection "Payload no elaborât">
+<!ENTITY aboutTelemetry.raw "JSON no elaborât">
 
+<!ENTITY aboutTelemetry.fullSqlWarning "NOTE: Al e abilitât il debug lenti di SQL. Dutis lis stringhis SQL a podin jessi visualizadis chi sot ma no a saran mandadis a Telemetry.">
+<!ENTITY aboutTelemetry.fetchStackSymbols "Recupere la funzion nons par grups">
+<!ENTITY aboutTelemetry.hideStackSymbols "Mostre insiemi di dâts no elaborâts">
