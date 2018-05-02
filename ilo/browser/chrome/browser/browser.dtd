@@ -118,6 +118,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Pagsuskribiren Daytoy a Panid…">
 <!ENTITY addCurPagesCmd.label "Bookmark All Tabs…">
 <!ENTITY showAllBookmarks2.label "Show All Bookmarks">
+<!ENTITY recentBookmarks.label "Nabiit a Napannanda">
 <!ENTITY bookmarksToolbarChevron.tooltip "Show more bookmarks">
 
 <!ENTITY backButton.tooltip           "Agsanud iti maysa a panid">
@@ -197,6 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Pagdumdumaan">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
 
+<!ENTITY clearRecentHistory.label               "Borraen ti Nabiit a Pakasaritaan…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -209,12 +211,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY historyMenu.label "Pakasaritaan">
 <!ENTITY historyMenu.accesskey "s">
-<!ENTITY historyUndoMenu.label "Recently Closed Tabs">
+<!ENTITY historyUndoMenu.label "Nairikep itay a Nabiit a Lapayag">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Recently Closed Windows">
+<!ENTITY historyUndoWindowMenu.label "Nairikep itay Nabiit a Tawa">
 
 <!ENTITY showAllHistoryCmd.commandkey "T">
 
+<!ENTITY appMenuHistory.clearRecent.label "Borraen ti Nabiit a Pakasaritaan">
+<!ENTITY appMenuHistory.recentHistory.label "Nabiit a Pakasaritaan">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
@@ -228,6 +232,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 
+<!ENTITY appMenuRecentHighlights.label "Nabiit a Tampok">
 
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
@@ -539,8 +544,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
+<!ENTITY panicButton.view.mainActionDesc          "Panagipatuloy ket:">
+<!ENTITY panicButton.view.deleteCookies           "Borraen ti Nabiit a <html:strong>Galietas</html:strong>">
+<!ENTITY panicButton.view.deleteHistory           "Borraen ti Nabiit a <html:strong>Pakasaritaan</html:strong>">
 
 
+<!ENTITY panicButton.thankyou.msg1                "Naborran ti nabiit a pakasaritaan.">
 
 
 

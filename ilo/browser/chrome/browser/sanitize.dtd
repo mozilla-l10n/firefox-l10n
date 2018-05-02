@@ -6,8 +6,9 @@
      Should be large enough to contain the item* strings on a single line.
      The column width should be set at half of the dialog width. -->
 
-<!ENTITY sanitizeDialog2.title         "Borraen Kinaudian a Pakasaritaan">
+<!ENTITY sanitizeDialog2.title         "Borraen ti Nabiit a Pakasaritaan">
 <!-- LOCALIZATION NOTE (sanitizeDialog2.width): width of the Clear Recent History dialog -->
+<!ENTITY sanitizeDialog2.width         "34em">
 
 <!ENTITY clearDataSettings3.label     "Intono ressatek ti &brandShortName;, dagusna a borraen amin ">
 

@@ -3,9 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "Mangimaton ti Raman">
 
-<!ENTITY search.placeholder                   "Birokan dagiti amin a raman">
-
-<!-- LOCALIZATION NOTE (search.commandKey):
+<!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
@@ -13,50 +11,33 @@
 <!ENTITY listEmpty.availableUpdates.label     "Awan ti nabirokan a pannarimaan">
 <!ENTITY listEmpty.recentUpdates.label        "Saan pay a nanarimaan ti raman">
 <!ENTITY listEmpty.findUpdates.label          "Palutputen ti Pannanarimaan">
-<!ENTITY listEmpty.search.label               "Saan a mabirokan ti agkaasmang a raman">
-
-
-
 <!ENTITY toolsMenu.tooltip                    "Ramit ti paganay">
-
-
-
-<!ENTITY cmd.back.tooltip                     "Agsanud iti maysa a panid">
-<!ENTITY cmd.forward.tooltip                  "Go forward one page">
 
 
 
 
 <!-- global warnings -->
-
-
 <!ENTITY warning.checkcompatibility.enable.tooltip "Pagtarayan ti panagpalutput iti panagkatunos ti raman">
-
-
 
 <!-- categories / views -->
 <!ENTITY view.discover.label                  "Biroken ti Raman">
-<!ENTITY view.recentUpdates.label             "Kaudian a Pannanarimaan">
+<!ENTITY view.recentUpdates.label             "Nabiit a Pannanarimaan">
 <!ENTITY view.availableUpdates.label          "Maal-ala a Pannanarimaan">
-<!-- addon updates -->
 
+<!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Palutputen ti Pannanarimaan">
 <!ENTITY updates.checkForUpdates.accesskey    "C">
-<!ENTITY updates.viewUpdates.label            "Ipakita ti Kaudian a Pannanarimaan">
+<!ENTITY updates.viewUpdates.label            "Ipadlaw ti Nabiit a Pannanarimaan">
 <!ENTITY updates.viewUpdates.accesskey        "V">
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
      checking. -->
-
 <!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
      Specific addons can have custom update checking behaviors ("Manually",
      "Automatically", "Use default global behavior"). These menu items reset the
      update checking behavior for all add-ons to the default global behavior
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
-
-
-
 <!ENTITY updates.updating.label               "Tartarimnen ti raman">
 <!ENTITY updates.installed.label              "Natarimaan ti raman.">
 <!ENTITY updates.downloaded.label             "Naiyulogen dagiti pannarimaan ti raman.">
@@ -64,11 +45,7 @@
 <!ENTITY updates.noneFound.label              "Awan ti nabirokan a pannarimaan">
 <!ENTITY updates.manualUpdatesFound.label     "Ipakita ti Maal-ala a Pannanarimaan">
 
-
 <!-- addon actions -->
-
-
-
 <!ENTITY cmd.preferencesWin.label             "Opsion">
 <!ENTITY cmd.preferencesWin.accesskey         "O">
 <!ENTITY cmd.preferencesUnix.label            "Pagdumdumaan">
@@ -76,59 +53,31 @@
 <!ENTITY cmd.about.label                      "Maipapan iti">
 <!ENTITY cmd.about.accesskey                  "a">
 
-
-
-
 <!ENTITY cmd.enableTheme.label                "Aramaten ti Tema">
 <!ENTITY cmd.enableTheme.accesskey            "W">
 <!ENTITY cmd.disableTheme.label               "Stop Wearing Theme">
 <!ENTITY cmd.disableTheme.accesskey           "T">
-
-
-
-
-
-
-
-
-
-
-
 <!ENTITY cmd.showPreferencesWin.label         "Opsion">
-
 <!ENTITY cmd.showPreferencesUnix.label        "Pagdumdumaan">
-
-
-
 <!ENTITY cmd.contribute.tooltip               "Aguruk iti panagpasayaat daytoy a raman">
 
 <!ENTITY cmd.showReleaseNotes.label           "Ipadlaw ti ti Panagibbat">
 <!ENTITY cmd.showReleaseNotes.tooltip         "Ipadlaw ti pakaammo ti panagibbat agpaay kadaytoy a pannanarimaan">
 
-
-
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
-
 <!-- detail view -->
-
 <!ENTITY detail.version.label                 "Bersion">
 <!ENTITY detail.lastupdated.label             "Kaudian a Panagtarimaan">
-
 <!ENTITY detail.homepage.label                "Umuna a panid">
-<!ENTITY detail.numberOfDownloads.label       "Downloads">
 
 
 <!ENTITY detail.updateDefault.label           "Default">
-
 <!ENTITY detail.updateAutomatic.label         "Nakalukat">
-
 <!ENTITY detail.updateManual.label            "Naiddep">
-
 <!ENTITY detail.home                          "Umuna a panid">
-
 <!ENTITY detail.size                          "Kadakkel">
 
 <!ENTITY detail.checkForUpdates.label         "Palutputen ti Pannanarimaan">
@@ -136,34 +85,22 @@
 <!ENTITY detail.checkForUpdates.tooltip       "Palutputen ti pananarimaan kadaytoy a raman">
 <!ENTITY detail.showPreferencesWin.label      "Opsion">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">
-
 <!ENTITY detail.showPreferencesUnix.label     "Pagdumdumaan">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
 
+
 <!-- ratings -->
+
 <!-- download/install progress -->
 <!ENTITY progress.cancel.tooltip              "Ibabawi">
+
+
 <!-- list sorting -->
-
-
 <!ENTITY sort.name.label                      "Nagan">
 <!ENTITY sort.name.tooltip                    "Urnosen iti nagan">
 <!ENTITY sort.dateUpdated.label               "Kaudian a Panagtarimaan">
 
-
-
-
-
-
-
-<!ENTITY search.filter2.installed.tooltip     "Ipadlaw ti anay a nakaistala">
-<!ENTITY search.filter2.available.label       "Maal-ala a Raman">
-<!ENTITY search.filter2.available.tooltip     "Ipadlaw ti anay a maal-ala a mainstala">
-
 <!ENTITY addon.homepage                       "Umuna a panid">
-
-
-
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
@@ -176,26 +113,15 @@
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
      necessary -->
 <!ENTITY addon.update.postfix                 "Update">
-
-
-
-
 <!ENTITY addon.restartNow.label               "Irugi manen itan">
-
 <!ENTITY addon.install.tooltip                "Iyinstala daytoy a raman">
 <!ENTITY addon.updateNow.label                "Tarimnen Ita">
 <!ENTITY addon.updateNow.tooltip              "Iyinstala ti pannanarimaan maipaay kadaytoy a pagaanay">
-
-
 <!ENTITY addon.checkingForUpdates.label       "Palutputen ti pannanarimaan...">
 
 
-
-
-
-
-
 <!ENTITY eula.accept                          "Annugotan santo Iyinstala...">
+
 
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
@@ -205,24 +131,11 @@
 <!ENTITY experiment.info.learnmore "Learn More">
 
 
-
-
-
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-
-
-
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
-
-
-
-
-
-
-
 
 
