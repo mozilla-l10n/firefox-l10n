@@ -339,9 +339,26 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = Novas xanelas e lapelas
+home-new-windows-tabs-description2 = Escolla que desexa ver cando se abren a súa páxina de inicio, novas xanelas e novas lapelas.
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Páxina de inicio e novas xanelas
+home-newtabs-mode-label = Novas lapelas
+home-restore-defaults =
+    .label = Restaurar a configuración predeterminada
+    .accesskey = R
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Páxina de inicio de Firefox (Predeterminada)
+home-mode-choice-custom =
+    .label = URLs personalizados...
+home-mode-choice-blank =
+    .label = Páxina en branco
+home-homepage-custom-url =
+    .placeholder = Pega un URL...
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -363,10 +380,25 @@ restore-default =
 ## Search Section
 
 search-bar-header = Barra de buscar
+search-bar-hidden =
+    .label = Usar a barra de enderezos para a busca e navegación
+search-bar-shown =
+    .label = Engadir unha barra de busca á barra de ferramentas
 search-engine-default-header = Buscador predeterminado
+search-engine-default-desc = Escolla o buscador predeterminado para usar na barra de enderezos e na de busca.
 search-suggestions-option =
     .label = Fornecer suxestións de busca
     .accesskey = s
+search-show-suggestions-url-bar-option =
+    .label = Amosar suxestións de busca nos resultados da barra de enderezos
+    .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Amosar suxestións de busca antes do historial de navegación nos resultados da barra de enderezos
 search-suggestions-cant-show = As suxestións de busca non se amosarán nos resultados da barra de localización porque configurou { -brand-short-name } para que non lembre o historial.
 search-one-click-header = Buscadores nun clic
 search-choose-engine-column =
