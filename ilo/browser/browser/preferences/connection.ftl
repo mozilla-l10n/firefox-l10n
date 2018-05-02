@@ -4,6 +4,8 @@
 
 connection-close-key =
     .key = w
+connection-disable-extension =
+    .label = Iddepen ti Nayon
 connection-proxy-option-no =
     .label = Awan ti proxy
     .accesskey = y

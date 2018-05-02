@@ -34,6 +34,7 @@ that require it.  -->
 <!ENTITY historySection.label         "Pakasaritaan">
 <!ENTITY dataSection.label            "Datos">
 
+<!ENTITY itemCache.label                   "Pagipempenan">
 <!ENTITY itemSitePreferences.label         "Pagdumdumaan ti Website">
 <!ENTITY itemSitePreferences.accesskey     "s">
 

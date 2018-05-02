@@ -14,6 +14,7 @@ clear-site-data-description = No borraen amin a galietas ken datos dagiti sitio 
 clear-site-data-cookies-empty =
     .label = Galietas ken Datos ti Sitio
     .accesskey = G
+clear-site-data-cookies-info = Mabalin a marsat ti sesionyo kadagiti sitio no maborra
 # This string is a placeholder for while the data used to fill
 # clear-site-data-cache-with-data is loading. This placeholder is usually
 # only shown for a very short time (< 1s), so it should be very similar
