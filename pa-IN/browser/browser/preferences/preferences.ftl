@@ -695,9 +695,6 @@ collection-health-report-link = ਹੋਰ ਜਾਣੋ
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = ਇਸ ਬਿਲਡ ਸੰਰਚਨਾ ਲਈ ਡਾਟਾ ਰਿਪੋਰਟ ਕਰਨਾ ਅਸਮਰੱਥ ਹੈ
-collection-browser-errors =
-    .label = { -brand-short-name } ਨੂੰ ਬਰਾਊਜ਼ਰ ਗ਼ਲਤੀ ਰਿਪੋਰਟਾਂ (ਜਿਸ ਵਿੱਚ ਗ਼ਲਤੀ ਸੁਨੇਹੇ ਸ਼ਾਮਲ ਹਨ) ਨੂੰ ਮੌਜ਼ੀਲਾ ਨੂੰ ਭੇਜਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ
-    .accesskey = b
 collection-browser-errors-link = ਹੋਰ ਜਾਣੋ
 collection-backlogged-crash-reports =
     .label = { -brand-short-name } ਨੂੰ ਤੁਹਾਡੇ ਤੌਰ 'ਤੇ ਬੈਕ-ਲਾਗ ਕਰੈਸ਼ ਰਿਪੋਰਟਾਂ ਭੇਜਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ
