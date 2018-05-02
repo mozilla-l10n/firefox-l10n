@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 <!ENTITY places.library.title  "Katalogo">
 <!ENTITY places.library.width  "730">
 <!ENTITY places.library.height "500">
@@ -13,19 +13,12 @@
 <!ENTITY file.close.label               "Close">
 <!ENTITY file.close.accesskey           "C">
 <!ENTITY cmd.close.key                  "w">
-
-
 <!ENTITY views.tooltip                  "Isukat ti panangipadlaw">
-
-
+<!ENTITY view.columns.label             "Ipadlaw ti Kolumna">
 <!ENTITY view.sort.label                "Itakunda">
 <!ENTITY view.sort.accesskey            "S">
 <!ENTITY view.unsorted.label            "Di-naurnos">
 <!ENTITY view.unsorted.accesskey        "u">
-
-
-
-
 
 <!ENTITY importBookmarksFromHTML.label     "Iyankat ti Pannanda manipud iti HTML...">
 <!ENTITY importBookmarksFromHTML.accesskey "H">
@@ -40,16 +33,6 @@
 <!ENTITY cmd.restore2.accesskey         "R">
 <!ENTITY cmd.restoreFromFile.label      "Pilien ti Intar...">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -69,22 +52,14 @@
 <!ENTITY cmd.new_separator.accesskey       "s">
 
 
-
-<!ENTITY cmd.moveBookmarks.label                  "Yalis...">
-<!ENTITY cmd.moveBookmarks.accesskey              "M">
-
 <!ENTITY col.name.label          "Nagan">
 <!ENTITY col.tags.label          "Etiketa">
 <!ENTITY col.url.label           "Disso">
-
-
 <!ENTITY col.description.label   "Pakabigbigan">
-
 <!ENTITY col.lastmodified.label  "Kaudian a Panagbaliw">
 
 
 <!ENTITY cmd.find.key  "f">
-
 
 <!ENTITY maintenance.tooltip    "Iyangkat ken tiponen ti pannanda">
 
@@ -92,19 +67,15 @@
 
 <!ENTITY forwardButton.tooltip  "Agtarus">
 
+<!ENTITY detailsPane.more.label "Ad-addu">
+<!ENTITY detailsPane.more.accesskey "u">
+<!ENTITY detailsPane.less.label "Basbassit">
+<!ENTITY detailsPane.less.accesskey "B">
 
-<!ENTITY detailsPane.less.label "Bassit">
-<!ENTITY detailsPane.less.accesskey "e">
-
-
-
+<!ENTITY view.label               "Ipadlaw">
 <!ENTITY byDate.label             "Segun Petsa">
 <!ENTITY byDate.accesskey         "D">
-
-
+<!ENTITY bySite.label             "Segun Sitio">
 <!ENTITY byMostVisited.label      "Segun Nabasbasa">
 <!ENTITY byMostVisited.accesskey  "V">
-
-
-
-
+<!ENTITY byDayAndSite.label       "Segun Petsa ken Sitio">

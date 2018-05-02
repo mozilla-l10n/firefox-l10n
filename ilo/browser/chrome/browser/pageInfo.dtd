@@ -21,12 +21,16 @@
 <!ENTITY  generalMode           "Wagas ti Panagipaay:">
 <!ENTITY  generalSize           "Kadakkel:">
 <!ENTITY  generalReferrer       "Agturturong nga URL:">
+<!ENTITY  generalSource         "Pagipempenan:">
 <!ENTITY  generalModified       "Panagbaliw:">
+<!ENTITY  generalEncoding2      "Panagkogido ti Teksto:">
 <!ENTITY  generalMetaName       "Nagan">
 <!ENTITY  generalMetaContent    "Laon">
 
+<!ENTITY  mediaTab              "Media">
 <!ENTITY  mediaTab.accesskey    "M">
-<!ENTITY  mediaLocation         "Disso:">
+<!ENTITY  mediaLocation         "Pangidulinan:">
+<!ENTITY  mediaText             "Nainaig a Teksto:">
 <!ENTITY  mediaAltHeader        "Sabali a Teskto">
 <!ENTITY  mediaAddress          "Pagtaengan">
 <!ENTITY  mediaType             "Kita">
@@ -43,17 +47,31 @@
 <!ENTITY  feedTab               "Subo">
 <!ENTITY  feedTab.accesskey     "F">
 
+<!ENTITY  permTab               "Pammalubos">
 <!ENTITY  permTab.accesskey     "P">
 <!ENTITY  permissionsFor        "Palubos maipaay:">
 
 <!ENTITY  securityTab           "Seguridad">
 <!ENTITY  securityTab.accesskey "S">
-<!ENTITY  securityView.accesskey "V">
+<!ENTITY  securityView.certView "Ipadlaw ti Sertipiko">
+<!ENTITY  securityView.accesskey "w">
+<!ENTITY  securityView.unknown   "Di-naammuan">
 
 
+<!ENTITY  securityView.identity.header   "Pammigbig ti Sitio">
 <!ENTITY  securityView.identity.owner    "Akinkua:">
+<!ENTITY  securityView.identity.domain   "Sitio:">
+<!ENTITY  securityView.identity.verifier "Nammaneknek:">
+<!ENTITY  securityView.identity.validity "Panagpapaso:">
 
+<!ENTITY  securityView.privacy.header                   "Polisa &amp; Pakasaritaan">
+<!ENTITY  securityView.privacy.history                  "Sakbay itatta kadi ti panagbisitak kadaytoy a sitio?">
+<!ENTITY  securityView.privacy.cookies                  "Mangiduldulin kadi daytoy a sitio iti damdamag (galietas) ditoy kompiuterko?">
+<!ENTITY  securityView.privacy.viewCookies              "Ipadlaw ti Galietas">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.siteData                 "Mangiduldulin kadi daytoy a sitio ti Web iti damdamag ditoy kompiuterko?">
+<!ENTITY  securityView.privacy.clearSiteData            "Borraen dagiti Galietas ken Datos ti Sitio">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "B">
 <!ENTITY  securityView.privacy.passwords                "Indulinko kadi uray aniaman a kontrasenias kadaytoy a sitio?">
 <!ENTITY  securityView.privacy.viewPasswords            "Ipadlaw dagiti Indulin a Kontrasenias">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
