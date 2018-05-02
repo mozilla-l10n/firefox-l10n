@@ -27,7 +27,7 @@
 
 <!ENTITY oneClickSearchEngines.label           "ერთწკაპიანი საძიებო სისტემები">
 
-<!ENTITY chooseWhichOneToDisplay2.label         "მიუთითეთ სათადარიგო საძიებო სისტემები, რომელიც გამოჩნდება მისამართებისა და ძიების ველების ქვემოთ, საძებნი ფრაზის აკრეფისას.">
+<!ENTITY chooseWhichOneToDisplay2.label         "მიუთითეთ სათადარიგო საძიებო სისტემები, რომლებიც გამოჩნდება მისამართებისა და ძიების ველების ქვემოთ, საძებნი ფრაზის აკრეფისას.">
 
 <!ENTITY engineNameColumn.label                "საძიებო სისტემა">
 <!ENTITY engineKeywordColumn.label             "საკვანძო სიტყვა">
