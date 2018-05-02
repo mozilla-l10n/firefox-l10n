@@ -8,33 +8,12 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!ENTITY importItems.title              "Mayangkatto a Banag">
 <!ENTITY importItems.label              "Pilien ti banag a mayangkat:">
 
 
-
 <!ENTITY selectProfile.title            "Pilien ti Profile">
-
 
 <!ENTITY done.title                     "Nalpas ti Panagyangkat">
 
-
+<!ENTITY closeSourceBrowser.label       "Pamnekanyo ket nakarikep ti pinili a panglayag sakbaykayo agtuloy.">
