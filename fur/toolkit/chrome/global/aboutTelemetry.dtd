@@ -1,0 +1,33 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutTelemetry.pingDataSource "Sorzint dai dâts ping:">
+<!ENTITY aboutTelemetry.showCurrentPingData "Dâts ping atuai">
+<!ENTITY aboutTelemetry.showArchivedPingData "Dâts ping archiviats">
+<!ENTITY aboutTelemetry.showSubsessionData "Mostre dâts de session inferiôr">
+<!ENTITY aboutTelemetry.choosePing "Sielç ping:">
+<!ENTITY aboutTelemetry.archivePingType "Gjenar di ping">
+<!ENTITY aboutTelemetry.archivePingHeader "Ping">
+<!ENTITY aboutTelemetry.optionGroupToday "Vuê">
+<!ENTITY aboutTelemetry.optionGroupYesterday "Îr">
+<!ENTITY aboutTelemetry.optionGroupOlder "Plui vecjo">
+<!ENTITY aboutTelemetry.payloadChoiceHeader "Payload">
+<!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
+	These strings are displayed when selecting Archived pings, and they’re
+	used to move to the next or previous ping. -->
+<!ENTITY aboutTelemetry.previousPing "&lt;&lt;">
+<!ENTITY aboutTelemetry.nextPing "&gt;&gt;">
+
+<!ENTITY aboutTelemetry.pageTitle "Dâts Telemetry">
+<!ENTITY aboutTelemetry.moreInformations "Âstu bisugne di plui informazions?">
+<!ENTITY aboutTelemetry.firefoxDataDoc "La <a>documentazion dai dâts di Firefox</a>a inclût vuidis sul funzionament dai nestris imprescj dai dâts dimostratîfs.">
+<!ENTITY aboutTelemetry.telemetryClientDoc "La <a>documentazion dal client di Firefox Telemetry</a> a inclût definizions di concets, documentazion API e referencis di dâts.">
+<!ENTITY aboutTelemetry.telemetryDashboard "Cun i <a>cruscots Telemetry</a> al e pussibil visualizâ i dâts di Mozilla ricevûts cun Telemetry.">
+
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Vierç in tal visôr JSON">
+
+<!ENTITY aboutTelemetry.homeSection "Home">
+<!ENTITY aboutTelemetry.generalDataSection "Dâts gjenerai">
+<!ENTITY aboutTelemetry.sessionInfoSection "Informazions de session">
+
