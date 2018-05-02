@@ -3,33 +3,30 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  pageInfoWindow.width  "600">
-
+<!ENTITY  pageInfoWindow.height "550">
 
 <!ENTITY  copy.key              "C">
 <!ENTITY  copy.label            "Kopiaen">
 <!ENTITY  copy.accesskey        "C">
 <!ENTITY  selectall.key         "A">
-
-
+<!ENTITY  selectall.label       "Sidadagup">
+<!ENTITY  selectall.accesskey   "A">
 <!ENTITY  closeWindow.key       "w">
 
 <!ENTITY  generalTab            "Sapasap">
 <!ENTITY  generalTab.accesskey  "G">
-
+<!ENTITY  generalTitle          "Titulo:">
 <!ENTITY  generalURL            "Pagtaengan:">
 <!ENTITY  generalType           "Kita:">
 <!ENTITY  generalMode           "Wagas ti Panagipaay:">
 <!ENTITY  generalSize           "Kadakkel:">
 <!ENTITY  generalReferrer       "Agturturong nga URL:">
-
 <!ENTITY  generalModified       "Panagbaliw:">
-
 <!ENTITY  generalMetaName       "Nagan">
 <!ENTITY  generalMetaContent    "Laon">
 
 <!ENTITY  mediaTab.accesskey    "M">
 <!ENTITY  mediaLocation         "Disso:">
-
 <!ENTITY  mediaAltHeader        "Sabali a Teskto">
 <!ENTITY  mediaAddress          "Pagtaengan">
 <!ENTITY  mediaType             "Kita">
@@ -45,38 +42,20 @@
 
 <!ENTITY  feedTab               "Subo">
 <!ENTITY  feedTab.accesskey     "F">
-<!ENTITY  feedSubscribe         "Pagsuskribiren">
-<!ENTITY  feedSubscribe.accesskey "u">
 
 <!ENTITY  permTab.accesskey     "P">
-
-
-<!ENTITY  permAllow             "Palubosan">
-
-<!ENTITY  permBlock             "Lapdan">
 <!ENTITY  permissionsFor        "Palubos maipaay:">
-
-
-<!ENTITY  permClearStorage           "Awangan ti Pannakaidulin">
-<!ENTITY  permClearStorage.accesskey "w">
 
 <!ENTITY  securityTab           "Seguridad">
 <!ENTITY  securityTab.accesskey "S">
-
 <!ENTITY  securityView.accesskey "V">
 
 
 <!ENTITY  securityView.identity.owner    "Akinkua:">
 
-
-
-
-
-
-
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
-
-
+<!ENTITY  securityView.privacy.passwords                "Indulinko kadi uray aniaman a kontrasenias kadaytoy a sitio?">
+<!ENTITY  securityView.privacy.viewPasswords            "Ipadlaw dagiti Indulin a Kontrasenias">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
 <!ENTITY  securityView.technical.header                 "Teknikal a Detalie">
