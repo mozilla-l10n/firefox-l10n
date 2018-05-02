@@ -1,0 +1,29 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+<!ENTITY privateBrowsing.title                           "Navìgacion secrèta">
+<!ENTITY privateBrowsing.title.tracking                  "Navìgacion secrèta avouèc protèccion contre la filatura">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Quando vos utilisâds una fenéhtra secrèta, Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "sârve pas">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
+
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox">
+
+
+
+
+
+
+
+
+
+
+
+
+
