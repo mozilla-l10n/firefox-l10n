@@ -41,10 +41,11 @@
 <!ENTITY aboutTelemetry.slowSqlSection "Mostre istruzions lentis SQL">
 <!ENTITY aboutTelemetry.chromeHangsSection "Blocs dal browser">
 <!ENTITY aboutTelemetry.addonDetailsSection "Detais des zontis">
+<!ENTITY aboutTelemetry.capturedStacksSection "Tassis blocadis">
 <!ENTITY aboutTelemetry.lateWritesSection "Scrituris tardis">
 <!ENTITY aboutTelemetry.rawPayloadSection "Payload no elaborât">
 <!ENTITY aboutTelemetry.raw "JSON no elaborât">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "NOTE: Al e abilitât il debug lenti di SQL. Dutis lis stringhis SQL a podin jessi visualizadis chi sot ma no a saran mandadis a Telemetry.">
-<!ENTITY aboutTelemetry.fetchStackSymbols "Recupere la funzion nons par grups">
-<!ENTITY aboutTelemetry.hideStackSymbols "Mostre insiemi di dâts no elaborâts">
+<!ENTITY aboutTelemetry.fetchStackSymbols "Recupere la funzion nons in tassis">
+<!ENTITY aboutTelemetry.hideStackSymbols "Mostre dâts in tassis no elaborâts">
