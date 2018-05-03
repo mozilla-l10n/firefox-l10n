@@ -194,6 +194,9 @@ choose-button =
 translate-web-pages =
     .label = Webinhalt iwwersetzen
     .accesskey = W
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = Iwwersetzunge vu <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Ausnamen...
     .accesskey = A
