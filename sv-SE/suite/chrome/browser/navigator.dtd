@@ -38,7 +38,9 @@
 <!ENTITY bookmarksToolbar.tooltip         "Bokmärkesfältet">
 <!ENTITY navigationToolbar.tooltip        "Navigationsfält">
 
+<!ENTITY editBookmark.done.label "Klar">
 <!ENTITY editBookmark.cancel.label "Avbryt">
+<!ENTITY editBookmark.removeBookmark.accessKey "r">
 
 <!-- Toolbar items --> 
 <!ENTITY backButton.label             "Bakåt">
