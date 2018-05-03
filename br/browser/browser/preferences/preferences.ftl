@@ -337,7 +337,6 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Prenestroù hag ivinelloù nevez
-home-new-windows-tabs-description2 = Dibabit petra vo gwelet ganeoc'h pa vezot o tigeriñ ho pennbajenn, prenestroù, pe ivinelloù nevez, 
 
 ## Home Section - Home Page Customization
 
