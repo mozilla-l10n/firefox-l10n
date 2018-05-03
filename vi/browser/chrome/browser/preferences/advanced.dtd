@@ -6,22 +6,6 @@
 
 <!ENTITY generalTab.label                "Tổng quát">
 
-<!ENTITY useCursorNavigation.label       "Cho phép dùng con trỏ để di chuyển bên trong trang">
-<!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchOnStartTyping.label       "Tìm kiếm văn bản khi bạn bắt đầu nhập">
-<!ENTITY searchOnStartTyping.accesskey   "x">
-<!ENTITY useOnScreenKeyboard.label       "Hiện bàn phím cảm ứng khi cần thiết">
-<!ENTITY useOnScreenKeyboard.accesskey   "b">
-
-<!ENTITY browsing.label                  "Duyệt">
-
-<!ENTITY useAutoScroll.label             "Tự động cuộn">
-<!ENTITY useAutoScroll.accesskey         "u">
-<!ENTITY useSmoothScrolling.label        "Cuộn uyển chuyển">
-<!ENTITY useSmoothScrolling.accesskey    "y">
-<!ENTITY checkUserSpelling.label         "Kiểm tra chính tả khi bạn gõ">
-<!ENTITY checkUserSpelling.accesskey     "t">
-
 <!ENTITY dataChoicesTab.label            "Lựa chọn dữ liệu">
 
 <!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
@@ -37,9 +21,6 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Chúng tôi cố gắng cung cấp cho bạn sự lựa chọn và chỉ thu thập những gì chúng tôi cần để cung cấp và cải thiện &brandShortName; cho tất cả mọi người. Chúng tôi luôn xin phép trước khi thu thập thông tin cá nhân.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Chính sách riêng tư">
 
-<!ENTITY alwaysSubmitCrashReports1.label  "Cho phép &brandShortName; gửi các báo cáo sự cố tới Mozilla">
-<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
-
 <!ENTITY collectBrowserErrors.label          "Cho phép &brandShortName; gửi báo cáo lỗi trình duyệt (bao gồm thông báo lỗi) cho Mozilla">
 <!ENTITY collectBrowserErrors.accesskey      "b">
 <!ENTITY collectBrowserErrorsLearnMore.label "Tìm hiểu thêm">
@@ -48,69 +29,11 @@ available. -->
 
 <!ENTITY networkTab.label                "Mạng">
 
-<!ENTITY networkProxy.label              "Mạng lưới proxy">
-
-<!ENTITY connectionDesc.label            "Cách thức &brandShortName; kết nối vào Internet">
-<!ENTITY connectionSettings.label        "Thiết lập…">
-<!ENTITY connectionSettings.accesskey    "p">
-
-<!ENTITY httpCache.label                 "Nội dung web đã được nhớ đệm">
-
 <!--  Site Data section manages sites using Storage API and is under Network -->
-<!ENTITY siteData.label                  "Dữ liệu trang web">
-<!ENTITY clearSiteData.label             "Xóa tất cả dữ liệu">
-<!ENTITY clearSiteData.accesskey         "l">
-<!ENTITY siteDataSettings.label          "Thiết lập…">
-<!ENTITY siteDataSettings.accesskey      "i">
+<!ENTITY siteData1.label                 "Cookie và dữ liệu trang">
 <!ENTITY siteDataLearnMoreLink.label     "Tìm hiểu thêm">
 
-<!-- LOCALIZATION NOTE:
-  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
-  line in preferences as follows:
-
-  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
--->
-<!ENTITY limitCacheSizeBefore.label      "Giới hạn bộ đệm còn">
-<!ENTITY limitCacheSizeBefore.accesskey  "G">
-<!ENTITY limitCacheSizeAfter.label       "MB dung lượng">
-<!ENTITY clearCacheNow.label             "Xóa Ngay">
-<!ENTITY clearCacheNow.accesskey         "a">
-<!ENTITY overrideSmartCacheSize.label    "Khống chế việc quản lí bộ đệm tự động">
-<!ENTITY overrideSmartCacheSize.accesskey "K">
-
 <!ENTITY updateTab.label                 "Cập nhật">
-
-<!-- LOCALIZATION NOTE (updateApplication.label):
-  Strings from aboutDialog.dtd are displayed in this section of the preferences.
-  Please check for possible accesskey conflicts.
--->
-<!ENTITY updateApplication.label         "Cập nhật &brandShortName;">
-<!-- LOCALIZATION NOTE (updateApplication.version.*): updateApplication.version.pre
-# is followed by a version number, keep the trailing space or replace it with a
-# different character as needed. updateApplication.version.post is displayed
-# after the version number, and is empty on purpose for English. You can use it
-# if required by your language.
- -->
-<!ENTITY updateApplicationDescription.label
-                                         "Giữ &brandShortName; luôn cập nhật để đạt được hiệu năng, sự ổn định, và bảo mật tốt nhất.">
-<!ENTITY updateApplication.version.pre   "Phiên bản ">
-<!ENTITY updateApplication.version.post  "">
-<!ENTITY updateApplication.description   "Cho phép &brandShortName;">
-<!ENTITY updateAuto3.label               "Tự động cài đặt các bản cập nhật (khuyến cáo)">
-<!ENTITY updateAuto3.accesskey           "A">
-<!ENTITY updateCheckChoose2.label        "Kiểm tra các bản cập nhật nhưng bạn sẽ lựa chọn việc cài đặt chúng">
-<!ENTITY updateCheckChoose2.accesskey    "C">
-<!ENTITY updateManual2.label             "Không bao giờ kiểm tra các bản cập nhật (không khuyến nghị)">
-<!ENTITY updateManual2.accesskey         "N">
-
-<!ENTITY updateHistory2.label            "Hiển thị lịch sử cập nhật…">
-<!ENTITY updateHistory2.accesskey        "p">
-
-<!ENTITY useService.label                "Sử dụng dịch vụ chạy nền để cài đặt các cập nhật">
-<!ENTITY useService.accesskey            "n">
-
-<!ENTITY enableSearchUpdate2.label       "Tự động cập nhật công cụ tìm kiếm">
-<!ENTITY enableSearchUpdate2.accesskey   "e">
 
 <!ENTITY certificateTab.label            "Chứng thư">
 <!ENTITY certPersonal2.description       "Khi một máy chủ yêu cầu chứng thực cá nhân của bạn">
@@ -124,23 +47,3 @@ available. -->
 <!ENTITY viewCerts2.accesskey            "C">
 <!ENTITY viewSecurityDevices2.label      "Thiết bị bảo mật…">
 <!ENTITY viewSecurityDevices2.accesskey  "D">
-
-<!ENTITY performance.label               "Hiệu suất">
-<!ENTITY useRecommendedPerformanceSettings2.label
-                                         "Sử dụng các cài đặt về hiệu suất được khuyến nghị">
-<!ENTITY useRecommendedPerformanceSettings2.description
-                                         "Các cài đặt này được thiết kế riêng cho phần cứng máy tính và hệ điều hành của bạn.">
-<!ENTITY useRecommendedPerformanceSettings2.accesskey
-                                         "U">
-<!ENTITY performanceSettingsLearnMore.label
-                                         "Tìm hiểu thêm">
-<!ENTITY limitContentProcessOption.label "Giới hạn xử lý nội dung">
-<!ENTITY limitContentProcessOption.description
-                                         "Các tiến trình xử lý nội dung bổ sung có thể cải thiện hiệu suất khi sử dụng nhiều thẻ một lúc, nhưng cũng sẽ tiêu tốn nhiều bộ nhớ.">
-<!ENTITY limitContentProcessOption.accesskey   "L">
-<!ENTITY limitContentProcessOption.disabledDescription
-                                         "Việc chỉnh sửa số tiến trình xử lý nội dung chỉ có thể thực hiện với &brandShortName; đa tiến trình.">
-<!ENTITY limitContentProcessOption.disabledDescriptionLink
-                                         "Tìm hiểu làm cách nào để kiểm tra khi chế độ đa tiến trình được bật">
-<!ENTITY allowHWAccel.label              "Dùng gia tốc hệ thống hệ thống khi có thể">
-<!ENTITY allowHWAccel.accesskey          "h">

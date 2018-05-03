@@ -5,6 +5,8 @@
 
 ## Settings
 
+site-data-settings-window =
+    .title = Quản lý cookie  và dữ liệu trang
 site-data-search-textbox =
     .placeholder = Tìm kiếm trang web
     .accesskey = S

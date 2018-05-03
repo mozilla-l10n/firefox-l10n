@@ -40,6 +40,9 @@ search-input-box =
 pane-general-title = Tổng quát
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = Trang chủ
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = Tìm kiếm
 category-search =
     .tooltiptext = { pane-search-title }
@@ -62,6 +65,7 @@ feature-enable-requires-restart = { -brand-short-name } phải khởi động l�
 feature-disable-requires-restart = { -brand-short-name } phải khởi động lại để vô hiệu hóa tính năng này.
 should-restart-title = Khởi động lại { -brand-short-name }
 should-restart-ok = Khởi động lại { -brand-short-name } ngay
+cancel-no-restart-button = Hủy
 restart-later = Khởi động lại sau
 
 ## Extension Control Notifications
@@ -322,6 +326,13 @@ network-proxy-connection-settings =
 
 ## Home Section - Home Page Customization
 
+home-newtabs-mode-label = Thẻ mới
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Trang chủ Firefox (Mặc định)
+home-mode-choice-blank =
+    .label = Trang trắng
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -430,6 +441,9 @@ sync-signedin-login-failure = Xin hãy đăng nhập để kết nối lại { $
 sync-resend-verification =
     .label = Gửi lại xác nhận
     .accesskey = d
+sync-remove-account =
+    .label = Xóa tài khoản
+    .accesskey = R
 sync-sign-in =
     .label = Đăng nhập
     .accesskey = g
@@ -540,12 +554,18 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Thiết lập…
     .accesskey = p
+history-clear-button =
+    .label = Xóa lịch sử...
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
+sitedata-header = Cookie và dữ liệu trang
 sitedata-learn-more = Tìm hiểu thêm
 sitedata-keep-until = Giữ cho đến khi
     .accesskey = u
+sitedata-keep-until-closed =
+    .label = { -brand-short-name } đã đóng
 sitedata-accept-third-party-always-option =
     .label = Luôn luôn
 sitedata-accept-third-party-visited-option =
