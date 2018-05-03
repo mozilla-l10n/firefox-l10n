@@ -31,9 +31,6 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.keyShortcutMessage): Message displayed when
   -  users pressed a DevTools key shortcut. -->
 
-<!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage): Message displayed when users
-  -  clicked on a "Enable Developer Tools" menu item. -->
-
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage2): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
 
@@ -46,8 +43,6 @@
 <!ENTITY  aboutDevtools.enable.learnMoreLink "Xem thêm về công cụ nhà phát triển">
 
 <!ENTITY  aboutDevtools.enable.enableButton "Bật công cụ phát triển">
-<!ENTITY  aboutDevtools.enable.closeButton "Đóng trang này">
-
 <!ENTITY  aboutDevtools.enable.closeButton2 "Đóng thẻ này">
 
 <!ENTITY  aboutDevtools.welcome.title "Chào mừng đến với công cụ nhà phát triển Firefox!">
@@ -56,6 +51,7 @@
   -  The newsletter is only available in english at the moment.
   -  See Bug 1415273 for support of additional languages.-->
 <!ENTITY  aboutDevtools.newsletter.email.placeholder "Thư điện tử">
+<!ENTITY  aboutDevtools.newsletter.subscribeButton "Đăng ký">
 <!ENTITY  aboutDevtools.newsletter.thanks.title "Cảm ơn!">
 
 <!ENTITY  aboutDevtools.footer.title "Phiên bản Firefox cho nhà phát triển">
