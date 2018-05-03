@@ -145,6 +145,9 @@ startup-blank-page =
     .label = Diskouez ur bajenn wenn
 startup-prev-session =
     .label = Diskouez ma frenestroù hag ivinelloù evel ar wech diwezhañ
+startup-restore-previous-session =
+    .label = Assav an estez kent
+    .accesskey = A
 disable-extension =
     .label = Diweredekaat an askouezh
 home-page-header = Pennbajenn
@@ -334,6 +337,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Prenestroù hag ivinelloù nevez
+home-new-windows-tabs-description2 = Dibabit petra vo gwelet ganeoc'h pa vezot o tigeriñ ho pennbajenn, prenestroù, pe ivinelloù nevez, 
 
 ## Home Section - Home Page Customization
 
