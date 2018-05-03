@@ -128,5 +128,7 @@ was trying to connect. -->
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> sử dụng công nghệ bảo mật lỗi thời và dễ bị tấn công. Một kẻ tấn công có thể dễ dàng làm lộ những thông tin mà bạn nghĩ là an toàn. Người quản lý trang web trước tiên sẽ cần phải sửa lỗi máy chủ trước khi bạn có thể vào trang.</p><p>Mã lỗi: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
+<!ENTITY blockedByPolicy.title "Trang bị chặn">
+
 <!ENTITY prefReset.longDesc "Dường như là cài đặt bảo mật mạng của bạn có thể gây ra điều này. Bạn có muốn khôi phục cài đặt mặc định?">
 <!ENTITY prefReset.label "Khôi phục cài đặt mặc định">

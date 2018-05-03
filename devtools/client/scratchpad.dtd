@@ -145,3 +145,4 @@
   -->
 <!ENTITY evalFunction.label "Đánh giá hàm hiện tại">
 <!ENTITY evalFunction.accesskey "g">
+<!ENTITY evalFunction.key "e">
