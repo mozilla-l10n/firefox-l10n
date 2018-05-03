@@ -7,31 +7,59 @@
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Organisera">
+<!ENTITY organize.accesskey    "O">
 <!ENTITY organize.tooltip      "Organisera dina bokmärken">
 
 <!ENTITY file.close.label               "Stäng">
+<!ENTITY file.close.accesskey           "S">
+<!ENTITY cmd.close.key                  "w">
+<!ENTITY views.label                    "Vyer">
+<!ENTITY views.accesskey                "V">
+<!ENTITY views.tooltip                  "Byt vy">
 <!ENTITY view.columns.label             "Visa kolumner">
+<!ENTITY view.columns.accesskey         "k">
 <!ENTITY view.sort.label                "Sortera">
+<!ENTITY view.sort.accesskey            "S">
 <!ENTITY view.unsorted.label            "Osorterat">
+<!ENTITY view.unsorted.accesskey        "O">
+<!ENTITY view.sortAscending.label       "Ordna A > Ö">
+<!ENTITY view.sortAscending.accesskey   "A">
+<!ENTITY view.sortDescending.label      "Ordna Ö > A">
+<!ENTITY view.sortDescending.accesskey  "Ö">
 
 <!ENTITY importBookmarksFromHTML.label     "Importera bokmärken från HTML…">
+<!ENTITY importBookmarksFromHTML.accesskey "I">
 <!ENTITY exportBookmarksToHTML.label       "Exportera bokmärken till HTML…">
+<!ENTITY exportBookmarksToHTML.accesskey   "E">
 <!ENTITY importOtherBrowser.label          "Importera data från annan webbläsare…">
+<!ENTITY importOtherBrowser.accesskey      "d">
 
 <!ENTITY cmd.backup.label               "Säkerhetskopiera…">
+<!ENTITY cmd.backup.accesskey           "k">
 <!ENTITY cmd.restore2.label             "Återställ">
+<!ENTITY cmd.restore2.accesskey         "Å">
 <!ENTITY cmd.restoreFromFile.label      "Välj fil…">
+<!ENTITY cmd.restoreFromFile.accesskey  "V">
 
+<!ENTITY cmd.deleteDomainData.label     "Rensa för hela denna webbplats">
+<!ENTITY cmd.deleteDomainData.accesskey "R">
 
 <!ENTITY cmd.open.label                  "Öppna">
+<!ENTITY cmd.open.accesskey              "p">
 <!ENTITY cmd.open_window.label           "Öppna i ett nytt fönster">
+<!ENTITY cmd.open_window.accesskey       "f">
 <!ENTITY cmd.open_private_window.label     "Öppna i ett nytt privat fönster">
+<!ENTITY cmd.open_private_window.accesskey "p">
 <!ENTITY cmd.open_tab.label              "Öppna i en ny flik">
+<!ENTITY cmd.open_tab.accesskey          "f">
 <!ENTITY cmd.open_all_in_tabs.label      "Öppna alla i flikar">
+<!ENTITY cmd.open_all_in_tabs.accesskey  "a">
 
 <!ENTITY cmd.properties.label      "Egenskaper">
+<!ENTITY cmd.properties.accesskey  "E">
 
 <!ENTITY cmd.sortby_name.label              "Sortera efter namn">
+<!ENTITY cmd.sortby_name.accesskey          "S">
 
 <!ENTITY cmd.new_bookmark.label            "Nytt bokmärke…">
 <!ENTITY cmd.new_folder.label              "Ny mapp…">
