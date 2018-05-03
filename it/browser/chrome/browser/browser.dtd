@@ -694,6 +694,11 @@
 <!ENTITY homepageControlled.keepButton.accesskey "M">
 <!ENTITY homepageControlled.disableButton.label "Disattiva estensione">
 <!ENTITY homepageControlled.disableButton.accesskey "D">
+<!ENTITY tabHideControlled.header.message "Accedi alle schede nascoste">
+<!ENTITY tabHideControlled.keepButton.label "Mantieni schede nascoste">
+<!ENTITY tabHideControlled.keepButton.accesskey "M">
+<!ENTITY tabHideControlled.disableButton.label "Disattiva estensione">
+<!ENTITY tabHideControlled.disableButton.accesskey "D">
 <!ENTITY pageActionButton.tooltip "Azioni per questa pagina">
 <!ENTITY pageAction.addToUrlbar.label "Aggiungi alla barra degli indirizzi">
 <!ENTITY pageAction.removeFromUrlbar.label "Rimuovi dalla barra degli indirizzi">
