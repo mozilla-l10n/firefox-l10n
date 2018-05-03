@@ -3,11 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "Менеджар дадаткаў">
 
-<!ENTITY search.placeholder                   "Пошук усіх дадаткаў">
-
 <!ENTITY search.placeholder2                  "Пошук на addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Пошук">
-<!-- LOCALIZATION NOTE (search.commandKey):
+<!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
@@ -16,7 +14,6 @@
 <!ENTITY listEmpty.availableUpdates.label     "Абнаўленні не знойдзеныя">
 <!ENTITY listEmpty.recentUpdates.label        "Нядаўна вы не абнаўлялі ніякіх дадаткаў">
 <!ENTITY listEmpty.findUpdates.label          "Знайсці абнаўленні">
-<!ENTITY listEmpty.search.label               "Немагчыма знайсці адпаведныя дадаткі">
 <!ENTITY listEmpty.button.label               "Падрабязней пра дадаткі">
 <!ENTITY installAddonFromFile.label           "Усталяваць дадатак з файла…">
 <!ENTITY installAddonFromFile.accesskey       "У">
@@ -24,9 +21,6 @@
 
 <!ENTITY getThemes.description                "Жадаеце наладзіць пад сябе свой браўзер?">
 <!ENTITY getThemes.learnMore                  "Выберыце сярод тысяч тэм.">
-
-<!ENTITY cmd.back.tooltip                     "Папярэдняя старонка">
-<!ENTITY cmd.forward.tooltip                  "Наступная старонка">
 
 
 <!ENTITY showUnsignedExtensions.button.label  "Некаторыя пашырэнні не могуць быць правераны">
@@ -44,13 +38,12 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "Уключыць праверку бяспечнасці абнаўленняў дадаткаў">
 
 <!-- categories / views -->
-<!ENTITY view.search.label                    "Пошук">
 <!ENTITY view.discover.label                  "Атрымаць дадаткі">
 <!ENTITY view.recentUpdates.label             "Нядаўнія абнаўленні">
 <!ENTITY view.availableUpdates.label          "Даступныя абнаўленні">
 
 <!-- addon updates -->
-<!ENTITY updates.checkForUpdates.label        "Праверка існавання абнаўленняў">
+<!ENTITY updates.checkForUpdates.label        "Праверыць наяўнасць абнаўленняў">
 <!ENTITY updates.checkForUpdates.accesskey    "і">
 <!ENTITY updates.viewUpdates.label            "Пабачыць нядаўнія абнаўленні">
 <!ENTITY updates.viewUpdates.accesskey        "б">
@@ -138,7 +131,6 @@
 <!ENTITY detail.lastupdated.label             "Апошняе абнаўленне">
 <!ENTITY detail.creator.label                 "Распрацаўнік">
 <!ENTITY detail.homepage.label                "Хатняя старонка">
-<!ENTITY detail.numberOfDownloads.label       "Сцягванні">
 
 <!ENTITY detail.contributions.description     "Распрацоўца гэтага дадатка просіць падтрымаць яго распрацоўку невялікім ахвяраваннем.">
 
@@ -177,16 +169,6 @@
 <!ENTITY sort.name.tooltip                    "Размеркаваць па імям">
 <!ENTITY sort.dateUpdated.label               "Апошняе абнаўленне">
 <!ENTITY sort.dateUpdated.tooltip             "Размеркаваць па даце абнаўлення">
-<!ENTITY sort.relevance.label                 "Лепшае супадзенне">
-<!ENTITY sort.relevance.tooltip               "Размеркаваць па дарэчнасці">
-<!ENTITY sort.price.label                     "Цана">
-<!ENTITY sort.price.tooltip                   "Размеркаваць па цане">
-
-<!ENTITY search.filter2.label                 "Пошук:">
-<!ENTITY search.filter2.installed.label       "Мае дадаткі">
-<!ENTITY search.filter2.installed.tooltip     "Паказаць усталяваныя дадаткі">
-<!ENTITY search.filter2.available.label       "Даступныя дадаткі">
-<!ENTITY search.filter2.available.tooltip     "Паказаць даступныя для ўсталявання дадаткі ">
 
 <!ENTITY addon.homepage                       "Хатняя старонка">
 <!ENTITY addon.details.label                  "Больш">
