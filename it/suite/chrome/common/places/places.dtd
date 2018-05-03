@@ -84,7 +84,7 @@
 
 <!ENTITY search.placeholder  "Cerca">
 
-<!ENTITY cmd.find.key  "C">
+<!ENTITY cmd.find.key  "f">
 
 <!ENTITY detailsPane.more.label "Altro">
 <!ENTITY detailsPane.more.accesskey "A">
