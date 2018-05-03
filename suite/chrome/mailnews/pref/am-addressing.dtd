@@ -4,7 +4,7 @@
 
 <!-- extracted from am-addressing.xul -->
 
-<!ENTITY addressing.label                     "Skriva och adressera">
+<!ENTITY addressing.label          "Skriva och adressera">
 <!ENTITY addressingGroupTitle.label "Adressera">
 <!ENTITY autocompleteToMyDomain.label     "Lägg min domän till adresser automatiskt">
 <!ENTITY autocompleteToMyDomain.accesskey "d">
@@ -21,7 +21,7 @@
 
 <!-- am-addressing.xul -->
 
-<!ENTITY compositionGroupTitle.label "Skriva">
+<!ENTITY compositionGroupTitle.label          "Skriva">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Skriv meddelanden i HTML-format">
 <!ENTITY useHtml.accesskey                    "S">
@@ -30,6 +30,9 @@
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY then.label                           "Börja med ">
 <!ENTITY then.accesskey                       "ö">
+<!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY quoting.label                        "När du citerar,">
+<!ENTITY quoting.accesskey                    "N">
 <!ENTITY aboveQuote.label                     "markören ovanför citerad text">
 <!ENTITY belowQuote.label                     "markören nedanför citerad text">
 <!ENTITY selectAndQuote.label                 "hela originalmeddelandet markerat">
