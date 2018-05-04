@@ -73,14 +73,11 @@
 <!ENTITY cmd.reloadLivebookmark.label      "โหลดที่คั่นหน้าสดใหม่">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "ห">
 
-<!ENTITY cmd.moveBookmarks.label                  "ย้าย…">
-<!ENTITY cmd.moveBookmarks.accesskey              "ย">
-
 <!ENTITY col.name.label          "ชื่อ">
 <!ENTITY col.tags.label          "ป้ายกำกับ">
 <!ENTITY col.url.label           "ตำแหน่งที่ตั้ง">
 <!ENTITY col.mostrecentvisit.label "วันที่เยี่ยมชมล่าสุด">
-<!ENTITY col.visitcount.label    "ครั้งที่เข้าชม">
+<!ENTITY col.visitcount.label    "จำนวนการเข้าชม">
 <!ENTITY col.description.label   "คำอธิบาย">
 <!ENTITY col.dateadded.label     "วันที่เพิ่ม">
 <!ENTITY col.lastmodified.label  "วันที่เปลี่ยนแปลงล่าสุด">
