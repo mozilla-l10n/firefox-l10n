@@ -34,8 +34,8 @@
 <!ENTITY bookmarks.folder.tags.label 'ป้ายกำกับ'>
 <!ENTITY bookmarks.folder.toolbar.label 'แถบเครื่องมือที่คั่นหน้า'>
 <!ENTITY bookmarks.folder.other.label 'ที่คั่นหน้าอื่น ๆ'>
-<!ENTITY bookmarks.folder.desktop.label 'ที่คั่นหน้าบนเดสก์ท็อป'>
-<!ENTITY bookmarks.folder.mobile.label 'ที่คั่นหน้าบนมือถือ'>
+<!ENTITY bookmarks.folder.desktop.label 'ที่คั่นหน้าในเดสก์ท็อป'>
+<!ENTITY bookmarks.folder.mobile.label 'ที่คั่นหน้าในมือถือ'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label 'ถูกปักหมุด'>
 
