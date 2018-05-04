@@ -129,7 +129,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Показване на всички раздели">
 <!ENTITY showAllTabsCmd.accesskey "д">
 <!ENTITY toggleReaderMode.key "R">
-
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "Вписване в &syncBrand.shortName.label;">
@@ -189,10 +188,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Други отметки">
 <!ENTITY mobileBookmarksCmd.label "Мобилни отметки">
 <!ENTITY bookmarksToolbarChevron.tooltip "Показване на повече отметки">
-<!ENTITY showRecentlyBookmarked.label     "Показване на последните отметки">
-<!ENTITY showRecentlyBookmarked.accesskey "П">
-<!ENTITY hideRecentlyBookmarked.label     "Скриване на последните отметки">
-<!ENTITY hideRecentlyBookmarked.accesskey "С">
 
 <!ENTITY backCmd.label                "Назад">
 <!ENTITY backCmd.accesskey            "з">
@@ -234,7 +229,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Превод на страницата">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Управление превеждането на страници">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Управление използването на софтуер с DRM">
-
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Отваря панела за MIDI">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Забранили сте на страницата достъп до вашата камера.">
@@ -245,7 +239,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Забранили сте на страницата достъп до хранилището за постоянни данни.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Забранили сте на страницата да отваря изскачащи прозорци.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Забранили сте достъпа до данните от canvas на тази страница.">
-
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Използването на приставката Adobe Flash е забранено за този сайт.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Забранили сте на страницата достъп до MIDI.">
 
@@ -395,7 +388,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Искате ли да видите свои раздели от други устройства тук?">
-<!ENTITY appMenuRemoteTabs.openprefs.label "Настройки на Sync">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Настройки на Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Впишете се, за да видите списък с раздели от други ваши устройства.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Сметката ви трябва да бъде потвърдена.">
@@ -444,7 +436,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Търсене или въвеждане на адрес">
-<!ENTITY urlbar.placeholder3          "Въвеждайте адреси или търсете от тук">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Разширение:">
@@ -988,14 +979,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "Н">
 <!ENTITY updateRestart.panelUI.label2 "Рестарт за обновяване на &brandShorterName;">
 
-<!ENTITY newTabControlled.message "Разширение промени страницата, която виждате при отваряне на нов раздел. Може да възстановите настройките ако такава промяна е нежелателна.">
-
 <!ENTITY newTabControlled.header.message "Новият раздел е променен">
 <!ENTITY newTabControlled.keepButton.label "Запазване">
 <!ENTITY newTabControlled.keepButton.accesskey "з">
-<!ENTITY newTabControlled.restoreButton.label "Отмяна">
-<!ENTITY newTabControlled.restoreButton.accesskey "о">
-
 <!ENTITY newTabControlled.disableButton.label "Изключване на разширението">
 <!ENTITY newTabControlled.disableButton.accesskey "и">
 
@@ -1005,6 +991,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.keepButton.accesskey "з">
 <!ENTITY homepageControlled.disableButton.label "Изключване на разширението">
 <!ENTITY homepageControlled.disableButton.accesskey "и">
+
+<!ENTITY tabHideControlled.header.message "Достъп до скритите раздели">
+<!ENTITY tabHideControlled.keepButton.label "Нека останат скрити">
+<!ENTITY tabHideControlled.keepButton.accesskey "с">
+<!ENTITY tabHideControlled.disableButton.label "Изключване на разширението">
+<!ENTITY tabHideControlled.disableButton.accesskey "и">
 
 <!ENTITY pageActionButton.tooltip "Действия със страницата">
 <!ENTITY pageAction.addToUrlbar.label "Добавяне към адресната лента">
