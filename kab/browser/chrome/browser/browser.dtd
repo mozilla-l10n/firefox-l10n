@@ -129,7 +129,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Sken akk accaren">
 <!ENTITY showAllTabsCmd.accesskey "k">
 <!ENTITY toggleReaderMode.key "R">
-
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "Qqen ɣer &syncBrand.shortName.label;">
@@ -189,10 +188,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Ticraḍ-nniḍen">
 <!ENTITY mobileBookmarksCmd.label "Ticraḍ n yisebtar n uziraz">
 <!ENTITY bookmarksToolbarChevron.tooltip "Sken ugar n tecraḍ n yisebtar">
-<!ENTITY showRecentlyBookmarked.label     "Wali wid ittwacerḍen melmi kan">
-<!ENTITY showRecentlyBookmarked.accesskey "W">
-<!ENTITY hideRecentlyBookmarked.label     "Ffer wid ittwacerḍen melmi kan">
-<!ENTITY hideRecentlyBookmarked.accesskey "F">
 
 <!ENTITY backCmd.label                "Ɣer deffir">
 <!ENTITY backCmd.accesskey            "D">
@@ -233,7 +228,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Suqel asebter-a">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Sefrek tasuqilt n usebter">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Sefrek aseqdec n useɣẓan DRM">
-
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Ldi agalis MIDI">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Tesweḥleḍ asawaḍ-ik i usmelweb-a.">
@@ -244,7 +238,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Tesweḥleḍ asekles n yisefka i usmelweb-a.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Tesweḥleḍ asfaylu udhim i usmel-agi.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Tesweḥleḍ tussfa n yisefka n ubeckil i usmelweb-a.">
-
 <!ENTITY urlbar.midiBlocked.tooltip              "Tesweḥleḍ anekcum i MIDI γer usmel-agi.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Sken amazray">
@@ -301,6 +294,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY inspectContextMenu.label     "Sweḍ aferdis">
 <!ENTITY inspectContextMenu.accesskey "S">
+
 
 <!ENTITY fileMenu.label         "Afaylu">
 <!ENTITY fileMenu.accesskey       "f">
@@ -391,7 +385,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Tebɣid ad twaliḍ da accaren-ik seg yibenkan-nniḍen?">
-<!ENTITY appMenuRemoteTabs.openprefs.label "Ismenyifen n umtawi">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Ldi amtawi n Ismenyifen">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Qqen akken ad d-tsekneḍ tabdart n waccaren seg yibenkan-ik-nniḍen.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Amiḍan-ik yeḥwaǧ ad ittusenqed.">
@@ -983,16 +976,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "T">
 <!ENTITY updateRestart.panelUI.label2 "Sker i tikkelt-nniḍen akken ad tleqqmeḍ&brandShorterName;">
 
-<!ENTITY newTabControlled.message "Yiwen n usiɣzef ibeddel asebter-a i tettwaliḍ mi teldiḍ iccer amaynut. Tzemreḍ ad d-terreḍ iɣewwaren-ik ma ur k-yeɛǧib ara ubeddel-agi.">
-
 <!ENTITY newTabControlled.header.message "Iccer-ik amaynut ibeddel.">
 <!ENTITY newTabControlled.keepButton.label "Ḥrez abeddel">
 <!ENTITY newTabControlled.keepButton.accesskey "Ḥ">
-<!ENTITY newTabControlled.restoreButton.label "Err-d iɣewwaren">
-<!ENTITY newTabControlled.restoreButton.accesskey "R">
-
 <!ENTITY newTabControlled.disableButton.label "Sens aseɣzif">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
+
+<!ENTITY homepageControlled.keepButton.label "Ḥrez abeddel">
+<!ENTITY homepageControlled.keepButton.accesskey "K">
+<!ENTITY homepageControlled.disableButton.label "Sens aseɣzif">
+<!ENTITY homepageControlled.disableButton.accesskey "D">
+
 
 <!ENTITY pageActionButton.tooltip "Asebter n tigawin">
 <!ENTITY pageAction.addToUrlbar.label "Rnu ɣeṛ yimedlis n tansa">
@@ -1003,6 +997,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "Azen iccer ɣer yibenk">
 <!ENTITY sendToDevice.syncNotReady.label "Amtawi n yibenkan…">
+
+<!ENTITY pageAction.shareUrl.label "Bḍu">
 
 <!ENTITY libraryButton.tooltip "Sken amazray, ticraḍ yettwakelsen, d wayen-nniḍen">
 
