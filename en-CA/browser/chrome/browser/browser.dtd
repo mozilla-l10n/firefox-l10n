@@ -383,7 +383,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.showAll.tooltip "Show all tabs from this device">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Turn on tab synchronising to view a list of tabs from your other devices.">
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Turn on tab synchronizing to view a list of tabs from your other devices.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
@@ -809,7 +809,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Open &syncBrand.shortName.label; Preferences">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Turn on tab synchronisation to view a list of tabs from your other devices.">
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Turn on tab synchronization to view a list of tabs from your other devices.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Search synchronized tabs">
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Connect Another Device">
 
