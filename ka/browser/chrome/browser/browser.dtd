@@ -129,7 +129,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "ყველა ჩანართის ჩვენება">
 <!ENTITY showAllTabsCmd.accesskey "ყ">
 <!ENTITY toggleReaderMode.key "R">
-
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; - შესვლა">
@@ -189,10 +188,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "სხვა სანიშნები">
 <!ENTITY mobileBookmarksCmd.label "მობილურის სანიშნები">
 <!ENTITY bookmarksToolbarChevron.tooltip "მეტი სანიშნის ჩვენება">
-<!ENTITY showRecentlyBookmarked.label     "ბოლოს ჩანიშნულების ჩვენება">
-<!ENTITY showRecentlyBookmarked.accesskey "ჩ">
-<!ENTITY hideRecentlyBookmarked.label     "ბოლოს ჩანიშნულების დამალვა">
-<!ENTITY hideRecentlyBookmarked.accesskey "დ">
 
 <!ENTITY backCmd.label                "უკან">
 <!ENTITY backCmd.accesskey            "უ">
@@ -234,7 +229,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "გვერდის თარგმნა">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "გვერდის თარგმნის მართვა">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM პროგრამის გამოყენების მართვა">
-
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "MIDI დაფის გახსნა">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "ამ საიტისთვის თქვენი კამერის გამოყენების უფლება შეზღუდული გაქვთ.">
@@ -245,7 +239,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "ამ საიტისთვის, მუდმივ მეხსიერებასთან წვდომა შეზღუდული გაქვთ.">
 <!ENTITY urlbar.popupBlocked.tooltip             "ამ საიტზე, ამომხტომი ფირნიშები შეზღუდული გაქვთ.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "ამ საიტისთვის, გრაფიკული მონაცემების გამოსახვის უფლება შეზღუდული გაქვთ.">
-
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "ამ საიტისთვის Adobe Flash მოდულის გამოყენების უფლება შეზღუდული გაქვთ.">
 <!ENTITY urlbar.midiBlocked.tooltip              "ამ საიტისთვის MIDI წვდომის უფლება შეზღუდული გაქვთ.">
 
@@ -395,7 +388,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "გსურთ სხვა მოწყობილობების ჩანართების აქ ნახვა?">
-<!ENTITY appMenuRemoteTabs.openprefs.label "სინქრონიზაციის პარამეტრები">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "სინქრონიზაციის პარამეტრები">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "შედით თქვენი სხვა მოწყობილობებიდან ჩანართების სიის სანახავად.">
 <!ENTITY appMenuRemoteTabs.unverified.label "თქვენი ანგარიში საჭიროებს დამოწმებას.">
@@ -444,7 +436,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "მოძებნეთ ან შეიყვანეთ მისამართი">
-<!ENTITY urlbar.placeholder3          "შეიყვანეთ საძიებო ფრაზა და მისამართები აქ">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "გაფართოება:">
@@ -988,14 +979,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "ა">
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName;-ის გასაახლებლად, გაუშვით ხელახლა">
 
-<!ENTITY newTabControlled.message "გვერდი რომელსაც ხედავთ ახალი ჩანართის გახსნისას, შეცვლილია გაფართოების მიერ. თუ არ გსურთ ეს ცვლილება, შეგიძლიათ დააბრუნოთ ძველი პარამეტრები.">
-
 <!ENTITY newTabControlled.header.message "ახალი ჩანართის გვერდი შეიცვალა.">
 <!ENTITY newTabControlled.keepButton.label "ცვლილებების დატოვება">
 <!ENTITY newTabControlled.keepButton.accesskey "დ">
-<!ENTITY newTabControlled.restoreButton.label "წინა პარამეტრების დაბრუნება">
-<!ENTITY newTabControlled.restoreButton.accesskey "წ">
-
 <!ENTITY newTabControlled.disableButton.label "გაფართოების ამორთვა">
 <!ENTITY newTabControlled.disableButton.accesskey "მ">
 
@@ -1005,6 +991,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.keepButton.accesskey "ც">
 <!ENTITY homepageControlled.disableButton.label "გაფართოების ამორთვა">
 <!ENTITY homepageControlled.disableButton.accesskey "მ">
+
+<!ENTITY tabHideControlled.header.message "თქვენს დამალულ ჩანართებთან წვდომა">
+<!ENTITY tabHideControlled.keepButton.label "ჩანართების დამალულად დატოვება">
+<!ENTITY tabHideControlled.keepButton.accesskey "ტ">
+<!ENTITY tabHideControlled.disableButton.label "გაფართოების ამორთვა">
+<!ENTITY tabHideControlled.disableButton.accesskey "რ">
 
 <!ENTITY pageActionButton.tooltip "ვებგვერდზე მოქმედებები">
 <!ENTITY pageAction.addToUrlbar.label "მისამართების ზოლში დამატება">
