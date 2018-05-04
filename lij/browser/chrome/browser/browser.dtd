@@ -129,7 +129,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Fanni vedde tutte e schede">
 <!ENTITY showAllTabsCmd.accesskey "a">
 <!ENTITY toggleReaderMode.key "R">
-
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "Acedi a &syncBrand.shortName.label;">
@@ -189,10 +188,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Atri Segnalibbri">
 <!ENTITY mobileBookmarksCmd.label "Segnalibbri mòbili">
 <!ENTITY bookmarksToolbarChevron.tooltip "Fanni vedde ciù segnalibbri">
-<!ENTITY showRecentlyBookmarked.label     "Fanni vedde segnalibbri reçenti">
-<!ENTITY showRecentlyBookmarked.accesskey "v">
-<!ENTITY hideRecentlyBookmarked.label     "Ascondi segnalibbri reçenti">
-<!ENTITY hideRecentlyBookmarked.accesskey "r">
 
 <!ENTITY backCmd.label                "Inderê">
 <!ENTITY backCmd.accesskey            "B">
@@ -234,7 +229,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Traduxi a pagina">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Gestion traduçion da pagina">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Gestisci l'uzo do software DRM">
-
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Arvi panello MIDI">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "T'æ blocou a fòtocamera pe sto scito.">
@@ -245,7 +239,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "T'æ blocou o sarvataggio persistente pe sto scito.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Ti æ blocou i pop-up pe sto scito.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Ti æ blocou l'estaçion dæti canvas pe sto scito.">
-
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Ti æ blocou l'izo do plugin Adobe Flash pe sto scito.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Ti æ blocou l'acesso MIDI pe sto scito.">
 
@@ -395,7 +388,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "T'eu amiâ chi i teu feuggi da atri dipoxitivi?">
-<!ENTITY appMenuRemoteTabs.openprefs.label "Preferense Sync">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Arvi preferense de scincronizaçion">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Acedi pe vedde l'elenco di feuggi averti inti atri dispoxitivi.">
 <!ENTITY appMenuRemoteTabs.unverified.label "O teu account o deve ese verificou.">
@@ -987,14 +979,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Arvi torna pe agiornâ &brandShorterName;">
 
-<!ENTITY newTabControlled.message "'Na estenscion a l'à cangiou a pagina che ti veddi quande t'arvi 'n neuvo feuggio. Ti peu regpigiâ i teu inpostaçioin se no ti veu sto cangio.">
-
 <!ENTITY newTabControlled.header.message "A pagina neuvo feuggio a l'é cangiâ.">
 <!ENTITY newTabControlled.keepButton.label "Mantegni i cangi">
 <!ENTITY newTabControlled.keepButton.accesskey "c">
-<!ENTITY newTabControlled.restoreButton.label "Repiggia inpostaçioin">
-<!ENTITY newTabControlled.restoreButton.accesskey "R">
-
 <!ENTITY newTabControlled.disableButton.label "Dizabilita Estenscion">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
@@ -1004,6 +991,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.keepButton.accesskey "M">
 <!ENTITY homepageControlled.disableButton.label "Dizabilita estenscion">
 <!ENTITY homepageControlled.disableButton.accesskey "D">
+
+<!ENTITY tabHideControlled.header.message "Acedi a-i teu feuggi ascoxi">
+<!ENTITY tabHideControlled.keepButton.label "Mantegni ascoxi i feuggi">
+<!ENTITY tabHideControlled.keepButton.accesskey "M">
+<!ENTITY tabHideControlled.disableButton.label "Dizabilita Estenscion">
+<!ENTITY tabHideControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "Pagina açioin">
 <!ENTITY pageAction.addToUrlbar.label "Azonzi a-a bara di indirissi">
