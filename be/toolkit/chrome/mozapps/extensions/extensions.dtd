@@ -44,7 +44,7 @@
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Праверыць наяўнасць абнаўленняў">
-<!ENTITY updates.checkForUpdates.accesskey    "і">
+<!ENTITY updates.checkForUpdates.accesskey    "с">
 <!ENTITY updates.viewUpdates.label            "Пабачыць нядаўнія абнаўленні">
 <!ENTITY updates.viewUpdates.accesskey        "б">
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
