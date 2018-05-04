@@ -11,8 +11,8 @@
 <!ENTITY sync.title.connect.label 'เชื่อมต่อกับ &syncBrand.shortName.label;'>
 
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label 'เพื่อเปิดใช้งานอุปกรณ์ใหม่ของคุณ เลือก “ตั้งค่า &syncBrand.shortName.label;” บนอุปกรณ์'>
-<!ENTITY sync.subtitle.pair.label 'เพื่อเปิดใช้งาน เลือก “จับคู่อุปกรณ์” บนอุปกรณ์อื่นของคุณ'>
+<!ENTITY sync.subtitle.connect.label 'เพื่อเปิดใช้งานอุปกรณ์ใหม่ของคุณ เลือก “ตั้งค่า &syncBrand.shortName.label;” ในอุปกรณ์'>
+<!ENTITY sync.subtitle.pair.label 'เพื่อเปิดใช้งาน เลือก “จับคู่อุปกรณ์” ในอุปกรณ์อื่นของคุณ'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.link.nodevice.label 'ฉันไม่มีอุปกรณ์อยู่กับตัว…'>
 
@@ -82,7 +82,7 @@
 <!ENTITY fxaccount_remove_account 'ตัดการเชื่อมต่อ&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title2 'ตัดการเชื่อมต่อจาก Sync?'>
-<!ENTITY fxaccount_remove_account_dialog_message2 'ข้อมูลการท่องเว็บของคุณจะยังคงอยู่บนอุปกรณ์นี้ แต่จะไม่ซิงค์กับบัญชีของคุณอีกต่อไป'>
+<!ENTITY fxaccount_remove_account_dialog_message2 'ข้อมูลการท่องเว็บของคุณจะยังคงอยู่ในอุปกรณ์นี้ แต่จะไม่ซิงค์กับบัญชีของคุณอีกต่อไป'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast2 'ตัดการเชื่อมต่อบัญชี Firefox &formatS; แล้ว'>
