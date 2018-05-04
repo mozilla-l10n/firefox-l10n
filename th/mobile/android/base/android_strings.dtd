@@ -814,7 +814,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
-<!ENTITY unsupported_sdk_version "ขออภัย! &brandShortName; ตัวนี้ไม่สามารถทำงานบนอุปกรณ์นี้ได้ (&formatS1;, &formatS2;) โปรดดาวน์โหลดรุ่นที่ถูกต้อง">
+<!ENTITY unsupported_sdk_version "ขออภัย! &brandShortName; ตัวนี้ไม่สามารถทำงานในอุปกรณ์นี้ได้ (&formatS1;, &formatS2;) โปรดดาวน์โหลดรุ่นที่ถูกต้อง">
 
 <!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
 <!ENTITY corrupt_apk "ไม่สามารถเปิด &brandShortName; โปรดติดตั้งใหม่และลองอีกครั้ง">
