@@ -129,7 +129,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Papar Semua Tab">
 <!ENTITY showAllTabsCmd.accesskey "P">
 <!ENTITY toggleReaderMode.key "R">
-
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "Daftar masuk ke &syncBrand.shortName.label;">
@@ -189,17 +188,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Tandabuku Lain">
 <!ENTITY mobileBookmarksCmd.label "Tandabuku Telefon">
 <!ENTITY bookmarksToolbarChevron.tooltip "Papar tandabuku selanjutnya">
-<!ENTITY showRecentlyBookmarked.label     "Papar Tandabuku Terkini">
-<!ENTITY showRecentlyBookmarked.accesskey "p">
-<!ENTITY hideRecentlyBookmarked.label     "Sorok Tandabuku Terkini">
-<!ENTITY hideRecentlyBookmarked.accesskey "S">
 
 <!ENTITY backCmd.label                "Undur">
 <!ENTITY backCmd.accesskey            "U">
 <!ENTITY backButton.tooltip           "Undur satu halaman">
 <!ENTITY forwardCmd.label             "Maju">
 <!ENTITY forwardCmd.accesskey         "M">
-<!ENTITY forwardButton.tooltip        "Langkau satu halaman">
+<!ENTITY forwardButton.tooltip        "Maju satu halaman">
 <!ENTITY backForwardButtonMenu.tooltip "Klik-kanan atau tarik turun untuk papar sejarah">
 <!ENTITY backForwardButtonMenuMac.tooltip "Tarik turun untuk papar sejarah">
 <!ENTITY reloadCmd.label              "Muat semula">
@@ -234,7 +229,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Terjemahkan halaman ini">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Urus terjemahan halaman">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Urus penggunaan perisian DRM">
-
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Buka panel MIDI">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Anda telah menyekat kamera anda untuk laman web ini.">
@@ -245,7 +239,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Anda telah menghalang storan gigih untuk laman web ini.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Anda telah menyekat pop-up untuk laman web ini.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Anda telah menyekat ekstraksi data kanvas untuk laman web ini.">
-
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Anda telah menyekat laman web ini daripada menggunakan plugin Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Anda telah menyekat akses MIDI untuk laman web ini.">
 
@@ -395,7 +388,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Mahu melihat tab anda daripada peranti lain di sini?">
-<!ENTITY appMenuRemoteTabs.openprefs.label "Sync keutamaan">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Buka Keutamaan Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Daftar masuk untuk papar senarai tab dari peranti anda yang lain.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Akaun anda perlu disahkan.">
@@ -987,14 +979,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "B">
 <!ENTITY updateRestart.panelUI.label2 "Mula semula untuk mengemaskini &brandShorterName;">
 
-<!ENTITY newTabControlled.message "Ekstensi telah mengubah halaman yang anda lihat apabila membuka Tab Baru. Anda boleh pulihkan tetapan jika tidak mahu perubahan ini.">
-
 <!ENTITY newTabControlled.header.message "Tab Baru anda telah berubah.">
 <!ENTITY newTabControlled.keepButton.label "Simpan Perubahan">
 <!ENTITY newTabControlled.keepButton.accesskey "S">
-<!ENTITY newTabControlled.restoreButton.label "Pulih Tetapan">
-<!ENTITY newTabControlled.restoreButton.accesskey "P">
-
 <!ENTITY newTabControlled.disableButton.label "Nyahdayakan Ekstensi">
 <!ENTITY newTabControlled.disableButton.accesskey "N">
 
@@ -1004,6 +991,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.keepButton.accesskey "S">
 <!ENTITY homepageControlled.disableButton.label "Nyahdayakan Ekstensi">
 <!ENTITY homepageControlled.disableButton.accesskey "N">
+
 
 <!ENTITY pageActionButton.tooltip "Tindakan halaman">
 <!ENTITY pageAction.addToUrlbar.label "Tambah ke Bar Alamat">
