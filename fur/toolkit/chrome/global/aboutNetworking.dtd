@@ -2,55 +2,44 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutNetworking.title                 "Informazions su le rêt">
 <!ENTITY aboutNetworking.showNextTime          "Torne a fâ viodi chest avîs la prossime volte">
 <!ENTITY aboutNetworking.ok                    "Va ben">
-
+<!ENTITY aboutNetworking.HTTP                  "HTTP">
 <!ENTITY aboutNetworking.sockets               "Sockets">
 <!ENTITY aboutNetworking.dns                   "DNS">
 <!ENTITY aboutNetworking.websockets            "WebSockets">
 <!ENTITY aboutNetworking.refresh               "Rinfrescje">
-
-
+<!ENTITY aboutNetworking.autoRefresh           "Inzorne ogni 3 seconts">
+<!ENTITY aboutNetworking.hostname              "Non host">
 <!ENTITY aboutNetworking.port                  "Puarte:">
-
+<!ENTITY aboutNetworking.http2                 "HTTP/2">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "Ative">
-
+<!ENTITY aboutNetworking.idle                  "Inatîf">
 <!ENTITY aboutNetworking.host                  "Servidôr:">
 <!ENTITY aboutNetworking.tcp                   "TCP">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutNetworking.sent                  "Mandadis">
+<!ENTITY aboutNetworking.received              "Ricevudis">
+<!ENTITY aboutNetworking.family                "Famee">
+<!ENTITY aboutNetworking.trr                   "TRR">
+<!ENTITY aboutNetworking.addresses             "Direzions">
+<!ENTITY aboutNetworking.expires               "Scjât tra (seconts)">
+<!ENTITY aboutNetworking.messagesSent          "Messaçs mandâts">
+<!ENTITY aboutNetworking.messagesReceived      "Messaçs ricevûts">
+<!ENTITY aboutNetworking.bytesSent             "Bytes mandâts">
+<!ENTITY aboutNetworking.bytesReceived         "Bytes ricevûts">
+<!ENTITY aboutNetworking.logging               "Regjistrazion">
+<!ENTITY aboutNetworking.logTutorial           "Viôt <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP regjistrazion</a> par consultâ lis istruzions sul ûs di chest imprescj.">
+<!ENTITY aboutNetworking.currentLogFile        "File di regjistri atuâl:">
+<!ENTITY aboutNetworking.currentLogModules     "Modui di regjistri atuai:">
+<!ENTITY aboutNetworking.setLogFile            "Imposte file di regjistri">
+<!ENTITY aboutNetworking.setLogModules         "Imposte modui di regjistri">
+<!ENTITY aboutNetworking.startLogging          "Comence regjistri">
+<!ENTITY aboutNetworking.stopLogging           "Ferme regjistri">
+<!ENTITY aboutNetworking.dnsLookup             "Ricercje DNS">
+<!ENTITY aboutNetworking.dnsLookupButton       "Risolf">
+<!ENTITY aboutNetworking.dnsDomain             "Domini">
+<!ENTITY aboutNetworking.dnsLookupTableColumn  "IPs">
+<!ENTITY aboutNetworking.rcwn                  "Statistichis RCWN">
+<!ENTITY aboutNetworking.rcwnStatus            "Stât RCWN">
