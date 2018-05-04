@@ -127,7 +127,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "แสดงแท็บทั้งหมด">
 <!ENTITY showAllTabsCmd.accesskey "ส">
 <!ENTITY toggleReaderMode.key "R">
-
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "ลงชื่อเข้า &syncBrand.shortName.label;">
@@ -185,12 +184,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "แสดงที่คั่นหน้าทั้งหมด">
 <!ENTITY recentBookmarks.label "ที่คั่นหน้าที่เพิ่มล่าสุด">
 <!ENTITY otherBookmarksCmd.label "ที่คั่นหน้าอื่น ๆ">
-<!ENTITY mobileBookmarksCmd.label "ที่คั่นหน้าบนมือถือ">
+<!ENTITY mobileBookmarksCmd.label "ที่คั่นหน้าในมือถือ">
 <!ENTITY bookmarksToolbarChevron.tooltip "แสดงที่คั่นหน้าเพิ่มเติม">
-<!ENTITY showRecentlyBookmarked.label     "แสดงที่คั่นหน้าที่เพิ่มล่าสุด">
-<!ENTITY showRecentlyBookmarked.accesskey "ส">
-<!ENTITY hideRecentlyBookmarked.label     "ซ่อนที่คั่นหน้าที่เพิ่มล่าสุด">
-<!ENTITY hideRecentlyBookmarked.accesskey "อ">
 
 <!ENTITY backCmd.label                "ย้อนกลับ">
 <!ENTITY backCmd.accesskey            "ย">
@@ -231,7 +226,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "แปลหน้านี้">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "จัดการการแปลหน้านี้">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "จัดการการใช้ซอฟต์แวร์ DRM">
-
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "เปิดแผง MIDI">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "คุณได้ปิดกั้นกล้องของคุณสำหรับเว็บไซต์นี้">
@@ -241,7 +235,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "คุณได้ปิดกั้นการแจ้งเตือนสำหรับเว็บไซต์นี้">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "คุณได้ปิดกั้นที่เก็บข้อมูลถาวรสำหรับเว็บไซต์นี้">
 <!ENTITY urlbar.popupBlocked.tooltip             "คุณได้ปิดกั้นป๊อปอัปสำหรับเว็บไซต์นี้">
-
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "คุณได้ปิดกั้นเว็บไซต์นี้จากการใช้ปลั๊กอิน Adobe Flash">
 <!ENTITY urlbar.midiBlocked.tooltip              "คุณได้ปิดกั้นการเข้าถึง MIDI สำหรับเว็บไซต์นี้">
 
@@ -258,7 +251,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksSubview.label             "ที่คั่นหน้า">
 <!ENTITY bookmarksMenuButton2.label         "เมนูที่คั่นหน้า">
 <!ENTITY bookmarksMenuButton.other.label    "ที่คั่นหน้าอื่น ๆ">
-<!ENTITY bookmarksMenuButton.mobile.label   "ที่คั่นหน้าบนมือถือ">
+<!ENTITY bookmarksMenuButton.mobile.label   "ที่คั่นหน้าในมือถือ">
 <!ENTITY viewBookmarksSidebar2.label        "ดูแถบข้างที่คั่นหน้า">
 <!ENTITY hideBookmarksSidebar.label         "ซ่อนแถบข้างที่คั่นหน้า">
 <!ENTITY viewBookmarksToolbar.label         "ดูแถบเครื่องมือที่คั่นหน้า">
@@ -391,7 +384,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "ต้องการเห็นแท็บของคุณจากอุปกรณ์อื่น ๆ ที่นี่?">
-<!ENTITY appMenuRemoteTabs.openprefs.label "ค่ากำหนด Sync">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "เปิดค่ากำหนด Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "ลงชื่อเข้าเพื่อดูรายการแท็บจากอุปกรณ์อื่น ๆ ของคุณ">
 <!ENTITY appMenuRemoteTabs.unverified.label "บัญชีของคุณจำเป็นต้องได้รับการยืนยัน">
@@ -440,7 +432,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "ค้นหาหรือป้อนที่อยู่">
-<!ENTITY urlbar.placeholder3          "ป้อนคำค้นหาและที่อยู่ที่นี่">
 <!ENTITY urlbar.accesskey             "ป">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "ส่วนขยาย:">
@@ -774,7 +765,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "การเชื่อมต่อของคุณไปยังไซต์นี้ไม่เป็นส่วนตัว ข้อมูลที่คุณแบ่งปันกับไซต์นี้สามารถดูได้โดยผู้อื่น (เช่น รหัสผ่าน, ข้อความ, บัตรเครดิต ฯลฯ)">
 <!ENTITY identity.description.insecureLoginForms "ข้อมูลการเข้าสู่ระบบที่คุณป้อนในหน้านี้ไม่ปลอดภัยและอาจถูกบุกรุกได้">
 <!ENTITY identity.description.weakCipher "การเชื่อมต่อของคุณไปยังเว็บไซต์นี้ใช้การเข้ารหัสที่อ่อนแอและไม่เป็นส่วนตัว">
-<!ENTITY identity.description.weakCipher2 "ผู้คนอื่น ๆ สามารถดูข้อมูลของคุณหรือเปลี่ยนแปลงพฤติกรรมของเว็บไซต์">
+<!ENTITY identity.description.weakCipher2 "ผู้คนอื่น ๆ สามารถดูข้อมูลของคุณหรือเปลี่ยนแปลงลักษณะการทำงานของเว็บไซต์">
 <!ENTITY identity.description.activeBlocked "&brandShortName; ได้ปิดกั้นบางส่วนของหน้านี้ที่ไม่ปลอดภัย">
 <!ENTITY identity.description.passiveLoaded "การเชื่อมต่อของคุณไม่เป็นส่วนตัวและข้อมูลที่คุณแบ่งปันกับเว็บไซต์คนอื่นสามารถดูได้">
 <!ENTITY identity.description.passiveLoaded2 "เว็บไซต์นี้มีเนื้อหาที่ไม่ปลอดภัย (อย่างเช่น ภาพ)">
@@ -983,14 +974,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "ม">
 <!ENTITY updateRestart.panelUI.label2 "เริ่มการทำงานใหม่เพื่ออัปเดต &brandShorterName;">
 
-<!ENTITY newTabControlled.message "ส่วนขยายได้เปลี่ยนหน้าที่คุณเห็นเมื่อคุณเปิดแท็บใหม่ คุณสามารถเรียกคืนการตั้งค่าของคุณหากคุณไม่ต้องการการเปลี่ยนแปลงนี้">
-
 <!ENTITY newTabControlled.header.message "แท็บใหม่ของคุณมีการเปลี่ยนแปลง">
 <!ENTITY newTabControlled.keepButton.label "เก็บการเปลี่ยนแปลง">
 <!ENTITY newTabControlled.keepButton.accesskey "ก">
-<!ENTITY newTabControlled.restoreButton.label "เรียกคืนการตั้งค่า">
-<!ENTITY newTabControlled.restoreButton.accesskey "ร">
-
 <!ENTITY newTabControlled.disableButton.label "ปิดใช้งานส่วนขยาย">
 <!ENTITY newTabControlled.disableButton.accesskey "ป">
 
@@ -1000,6 +986,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.keepButton.accesskey "ก">
 <!ENTITY homepageControlled.disableButton.label "ปิดใช้งานส่วนขยาย">
 <!ENTITY homepageControlled.disableButton.accesskey "ป">
+
 
 <!ENTITY pageActionButton.tooltip "การกระทำของหน้า">
 <!ENTITY pageAction.addToUrlbar.label "เพิ่มไปยังแถบที่อยู่">
