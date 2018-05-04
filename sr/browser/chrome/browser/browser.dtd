@@ -129,7 +129,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Прикажи све језичке">
 <!ENTITY showAllTabsCmd.accesskey "П">
 <!ENTITY toggleReaderMode.key "R">
-
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "Пријави се на &syncBrand.shortName.label;">
@@ -189,10 +188,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Остале забелешке">
 <!ENTITY mobileBookmarksCmd.label "Мобилне забелешке">
 <!ENTITY bookmarksToolbarChevron.tooltip "Прикажи још забелешки">
-<!ENTITY showRecentlyBookmarked.label     "Прикажи недавно забележене">
-<!ENTITY showRecentlyBookmarked.accesskey "н">
-<!ENTITY hideRecentlyBookmarked.label     "Сакриј недавно забележене">
-<!ENTITY hideRecentlyBookmarked.accesskey "н">
 
 <!ENTITY backCmd.label                "Назад">
 <!ENTITY backCmd.accesskey            "Н">
@@ -234,7 +229,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Преведи ову страницу">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Управљајте превођењем странице">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Управљајте употребом DRM софтвера">
-
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Отвори MIDI панел">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Блокирали сте камеру за овај веб сајт.">
@@ -245,7 +239,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Блокирали сте трајно складиштење за овај веб сајт.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Блокирали сте искачуће прозоре за овај веб сајт.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Блокирали сте екстрактовање података слике за овај веб сајт.">
-
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Блокирали сте овај веб сајт да користи Adobe Flash прикључак.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Блокирали сте MIDI приступ за овај веб сајт.">
 
@@ -395,7 +388,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Желите да овде видите језичке са осталих уређаја?">
-<!ENTITY appMenuRemoteTabs.openprefs.label "Поставке синхронизације">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Отвори поставке Sync-а">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Пријавите се да видите листу језичака са других уређаја.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Ваш налог мора бити потврђен.">
@@ -444,7 +436,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Претражи или унеси адресу">
-<!ENTITY urlbar.placeholder3          "Унесите појмове и адресе за претрагу овде">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Екстензија:">
@@ -988,14 +979,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "Н">
 <!ENTITY updateRestart.panelUI.label2 "Рестартуј да се &brandShorterName; ажурира">
 
-<!ENTITY newTabControlled.message "Екстензија је променила подразумевану страницу новог језичка. Можете вратити ваше поставке ако не желите ову промену странице.">
-
 <!ENTITY newTabControlled.header.message "Ваша страница новог језичка се променила.">
 <!ENTITY newTabControlled.keepButton.label "Задржи промене">
 <!ENTITY newTabControlled.keepButton.accesskey "З">
-<!ENTITY newTabControlled.restoreButton.label "Врати поставке">
-<!ENTITY newTabControlled.restoreButton.accesskey "В">
-
 <!ENTITY newTabControlled.disableButton.label "Онемогући екстензију">
 <!ENTITY newTabControlled.disableButton.accesskey "О">
 
@@ -1005,6 +991,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.keepButton.accesskey "З">
 <!ENTITY homepageControlled.disableButton.label "Онемогући екстензију">
 <!ENTITY homepageControlled.disableButton.accesskey "О">
+
+<!ENTITY tabHideControlled.header.message "Приступите вашим скривеним језичцима">
+<!ENTITY tabHideControlled.keepButton.label "Држи језичке скривене">
+<!ENTITY tabHideControlled.keepButton.accesskey "Д">
+<!ENTITY tabHideControlled.disableButton.label "Онемогући екстензију">
+<!ENTITY tabHideControlled.disableButton.accesskey "О">
 
 <!ENTITY pageActionButton.tooltip "Радње странице">
 <!ENTITY pageAction.addToUrlbar.label "Додај адресној траци">
