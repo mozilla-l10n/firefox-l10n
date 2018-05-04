@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutNetworking.title                 "Informazions su le rêt">
+<!ENTITY aboutNetworking.warning               "In fase sperimentâl. Doprâ nome in presince di un adult.">
 <!ENTITY aboutNetworking.showNextTime          "Torne a fâ viodi chest avîs la prossime volte">
 <!ENTITY aboutNetworking.ok                    "Va ben">
 <!ENTITY aboutNetworking.HTTP                  "HTTP">
@@ -43,3 +44,16 @@
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IPs">
 <!ENTITY aboutNetworking.rcwn                  "Statistichis RCWN">
 <!ENTITY aboutNetworking.rcwnStatus            "Stât RCWN">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "Numar de vitoriis de cache">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "Numar de vitoriis de rêt">
+<!ENTITY aboutNetworking.totalNetworkRequests  "Numar di domandis totâls de rêt">
+<!ENTITY aboutNetworking.rcwnOperation         "Operazion de cache">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "Vierç">
+<!ENTITY aboutNetworking.rcwnPerfRead          "Lei">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "Scrîf">
+<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Vôs vierç">
+<!ENTITY aboutNetworking.rcwnAvgShort          "Medie curte">
+<!ENTITY aboutNetworking.rcwnAvgLong           "Medie lungje">
+<!ENTITY aboutNetworking.rcwnStddevLong        "Deviazion standard lungje">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "Numar di voltis de cache lente">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "Numar di voltis de cache no lente">
