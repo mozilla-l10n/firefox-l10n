@@ -129,7 +129,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Az összes böngészőlap megjelenítése">
 <!ENTITY showAllTabsCmd.accesskey "m">
 <!ENTITY toggleReaderMode.key "R">
-
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "Bejelentkezés a &syncBrand.shortName.label;be">
@@ -189,10 +188,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Más könyvjelzők">
 <!ENTITY mobileBookmarksCmd.label "Mobil könyvjelzők">
 <!ENTITY bookmarksToolbarChevron.tooltip "További könyvjelzők megjelenítése">
-<!ENTITY showRecentlyBookmarked.label     "Nemrég könyvjelzőzött megjelenítése">
-<!ENTITY showRecentlyBookmarked.accesskey "N">
-<!ENTITY hideRecentlyBookmarked.label     "Nemrég könyvjelzőzött elrejtése">
-<!ENTITY hideRecentlyBookmarked.accesskey "r">
 
 <!ENTITY backCmd.label                "Vissza">
 <!ENTITY backCmd.accesskey            "V">
@@ -234,7 +229,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Oldal lefordítása">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Oldalfordítás kezelése">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM-es szoftver használatának kezelése">
-
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "MIDI panel megnyitása">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Blokkolta a kamerát ezen az oldalon.">
@@ -245,7 +239,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Blokkolta az állandó adattárolást ezen az oldalon.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Blokkolta a felugró ablakokat ezen az oldalon.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Blokkolta a vászonadatok kinyerését ezen az oldalon.">
-
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Megtiltotta ennek a webhelynek, hogy az Adobe Flash bővítményt használja.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Blokkolta a MIDI elérést ezen az oldalon.">
 
@@ -395,7 +388,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Szeretné a más eszközein megnyitott lapjait itt látni?">
-<!ENTITY appMenuRemoteTabs.openprefs.label "Szinkronizálás beállításai">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Szinkronizálási beállítások megnyitása">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Jelentkezzen be a más készülékeiről származó lapok listájának megjelenítéséhez.">
 <!ENTITY appMenuRemoteTabs.unverified.label "A fiókját ellenőrizni kell.">
@@ -444,7 +436,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Keresés vagy cím">
-<!ENTITY urlbar.placeholder3          "Adja meg a keresési kifejezéseket és címeket">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Kiterjesztés:">
@@ -988,14 +979,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "M">
 <!ENTITY updateRestart.panelUI.label2 "Újraindítás a &brandShorterName; frissítéséhez">
 
-<!ENTITY newTabControlled.message "Egy kiterjesztés megváltoztatta a lapot, amely az Új lap megnyitásakor fogadja. Visszaállíthatja a beállításokat, ha nem szeretné ezt a változást.">
-
 <!ENTITY newTabControlled.header.message "Az Új lap megváltozott.">
 <!ENTITY newTabControlled.keepButton.label "Módosítások megtartása">
 <!ENTITY newTabControlled.keepButton.accesskey "M">
-<!ENTITY newTabControlled.restoreButton.label "Beállítások visszaállítása">
-<!ENTITY newTabControlled.restoreButton.accesskey "v">
-
 <!ENTITY newTabControlled.disableButton.label "Kiterjesztés letiltása">
 <!ENTITY newTabControlled.disableButton.accesskey "l">
 
@@ -1005,6 +991,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.keepButton.accesskey "t">
 <!ENTITY homepageControlled.disableButton.label "Kiterjesztés letiltása">
 <!ENTITY homepageControlled.disableButton.accesskey "l">
+
+<!ENTITY tabHideControlled.header.message "Érje el a rejtett lapjait">
+<!ENTITY tabHideControlled.keepButton.label "Lapok rejtve tartása">
+<!ENTITY tabHideControlled.keepButton.accesskey "t">
+<!ENTITY tabHideControlled.disableButton.label "Kiterjesztés letiltása">
+<!ENTITY tabHideControlled.disableButton.accesskey "l">
 
 <!ENTITY pageActionButton.tooltip "Oldal műveletek">
 <!ENTITY pageAction.addToUrlbar.label "Hozzáadás a címsávhoz">
