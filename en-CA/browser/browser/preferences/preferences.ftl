@@ -39,8 +39,8 @@ search-input-box =
         }
 policies-notice =
     { PLATFORM() ->
-        [windows] Your organisation has disabled the ability to change some options.
-       *[other] Your organisation has disabled the ability to change some preferences.
+        [windows] Your organization has disabled the ability to change some options.
+       *[other] Your organization has disabled the ability to change some preferences.
     }
 pane-general-title = General
 category-general =
@@ -440,7 +440,7 @@ containers-remove-button =
 ## Sync Section - Signed out
 
 sync-signedout-caption = Take your Web with you
-sync-signedout-description = Synchronise your bookmarks, history, tabs, passwords, add-ons, and preferences across all your devices.
+sync-signedout-description = Synchronize your bookmarks, history, tabs, passwords, add-ons, and preferences across all your devices.
 sync-signedout-account-title = Connect with a { -fxaccount-brand-name }
 sync-signedout-account-create = Don’t have an account? Get started
     .accesskey = C
@@ -455,7 +455,7 @@ sync-signedout-account-signin =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Download Firefox for <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> or <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> to synchronise with your mobile device.
+sync-mobile-promo = Download Firefox for <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> or <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> to synchronize with your mobile device.
 
 ## Sync Section - Signed in
 
@@ -478,7 +478,7 @@ sync-sign-in =
     .label = Sign in
     .accesskey = g
 sync-signedin-settings-header = Sync Settings
-sync-signedin-settings-desc = Choose what to synchronise on your devices using { -brand-short-name }.
+sync-signedin-settings-desc = Choose what to synchronize on your devices using { -brand-short-name }.
 sync-engine-bookmarks =
     .label = Bookmarks
     .accesskey = m
@@ -487,7 +487,7 @@ sync-engine-history =
     .accesskey = r
 sync-engine-tabs =
     .label = Open Tabs
-    .tooltiptext = A list of what’s open on all synchronised devices
+    .tooltiptext = A list of what’s open on all synchronized devices
     .accesskey = T
 sync-engine-logins =
     .label = Logins

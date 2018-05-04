@@ -137,7 +137,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "Verify Your Account">
 
 
-<!ENTITY fullScreenMinimize.tooltip "Minimise">
+<!ENTITY fullScreenMinimize.tooltip "Minimize">
 <!ENTITY fullScreenRestore.tooltip "Restore">
 <!ENTITY fullScreenClose.tooltip "Close">
 <!ENTITY fullScreenAutohide.label "Hide Toolbars">
@@ -347,9 +347,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "T">
 <!ENTITY viewSidebarMenu.label "Sidebar">
 <!ENTITY viewSidebarMenu.accesskey "e">
-<!ENTITY viewCustomizeToolbar.label       "Customise…">
+<!ENTITY viewCustomizeToolbar.label       "Customize…">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
-<!ENTITY overflowCustomizeToolbar.label       "Customise Toolbar…">
+<!ENTITY overflowCustomizeToolbar.label       "Customize Toolbar…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "History">
@@ -810,7 +810,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Turn on tab synchronisation to view a list of tabs from your other devices.">
-<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Search synchronised tabs">
+<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Search synchronized tabs">
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Connect Another Device">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
@@ -840,7 +840,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "Sign In To &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
-<!ENTITY syncSyncNowItem.label        "Synchronise Now">
+<!ENTITY syncSyncNowItem.label        "Synchronize Now">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Reconnect to &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "R">

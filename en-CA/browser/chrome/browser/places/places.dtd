@@ -6,9 +6,9 @@
 <!ENTITY places.library.title  "Library">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
-<!ENTITY organize.label        "Organise">
+<!ENTITY organize.label        "Organize">
 <!ENTITY organize.accesskey    "O">
-<!ENTITY organize.tooltip      "Organise your bookmarks">
+<!ENTITY organize.tooltip      "Organize your bookmarks">
 
 <!ENTITY file.close.label               "Close">
 <!ENTITY file.close.accesskey           "C">
@@ -72,9 +72,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "Reload Live Bookmark">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
-
-<!ENTITY cmd.moveBookmarks.label                  "Move…">
-<!ENTITY cmd.moveBookmarks.accesskey              "M">
 
 <!ENTITY col.name.label          "Name">
 <!ENTITY col.tags.label          "Tags">
