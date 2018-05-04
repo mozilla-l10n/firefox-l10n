@@ -7,7 +7,7 @@
 <!ENTITY engine.bookmarks.label     "Bookmarks">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label2         "Open Tabs">
-<!ENTITY engine.tabs.title          "A list of what’s open on all synchronised devices">
+<!ENTITY engine.tabs.title          "A list of what’s open on all synchronized devices">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "History">
 <!ENTITY engine.history.accesskey   "r">
@@ -75,11 +75,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY cancelSetup.label            "Cancel Setup">
 <!ENTITY cancelSetup.accesskey        "p">
 
-<!ENTITY removeAccount.label          "Remove Account">
-<!ENTITY removeAccount.accesskey      "R">
-
 <!ENTITY signedOut.caption            "Take your Web with you">
-<!ENTITY signedOut.description        "Synchronise your bookmarks, history, tabs, passwords, add-ons, and preferences across all your devices.">
+<!ENTITY signedOut.description        "Synchronize your bookmarks, history, tabs, passwords, add-ons, and preferences across all your devices.">
 <!ENTITY signedOut.accountBox.title   "Connect with a &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create2 "Don’t have an account? Get started">
 <!ENTITY signedOut.accountBox.create2.accesskey "C">
@@ -87,7 +84,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin2.accesskey "I">
 
 <!ENTITY signedIn.settings.label       "Sync Settings">
-<!ENTITY signedIn.settings.description "Choose what to synchronise on your devices using &brandShortName;.">
+<!ENTITY signedIn.settings.description "Choose what to synchronize on your devices using &brandShortName;.">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
@@ -103,7 +100,7 @@ both, to better adapt this sentence to their language.
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
-<!ENTITY mobilePromo3.end              " to synchronise with your mobile device.">
+<!ENTITY mobilePromo3.end              " to synchronize with your mobile device.">
 
 <!ENTITY mobilepromo.singledevice      "Connect another device">
 <!ENTITY mobilepromo.multidevice       "Manage devices">
