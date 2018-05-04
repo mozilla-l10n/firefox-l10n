@@ -1,0 +1,10 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutProfiles.title "Informazions sui profîi">
+<!ENTITY aboutProfiles.subtitle "Cheste pagjine ti jude in te gjestion dai profîi. Ogni profîl al e un mont a se stant cun une storie, segnelibris, impostazions e zontis diferentis.">
+<!ENTITY aboutProfiles.create "Cree gnûf profîl">
+<!ENTITY aboutProfiles.restart.title "Torne a començâ">
+<!ENTITY aboutProfiles.restart.inSafeMode "Torne a començâ cun lis zontis disabilitadis…">
+<!ENTITY aboutProfiles.restart.normal "Torne a començâ normalmentri…">
