@@ -199,7 +199,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint2 "เคล็ดลับ: เพิ่มเว็บไซต์ใด ๆ ไปยังรายการผู้ให้บริการค้นหาของคุณโดยการแตะค้างที่ช่องค้นหาของเว็บไซต์นั้น จากนั้นสัมผัสที่ไอคอน &formatI;">
+<!ENTITY pref_search_hint2 "เคล็ดลับ: เพิ่มเว็บไซต์ใด ๆ ไปยังรายการผู้ให้บริการค้นหาของคุณโดยแตะค้างที่ช่องค้นหาของเว็บไซต์นั้น จากนั้นสัมผัสที่ไอคอน &formatI;">
 <!ENTITY pref_category_advanced "ขั้นสูง">
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
