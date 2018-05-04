@@ -129,7 +129,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Wšě rajtarki pokazać">
 <!ENTITY showAllTabsCmd.accesskey "W">
 <!ENTITY toggleReaderMode.key "R">
-
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "Pola &syncBrand.shortName.label; přizjewić">
@@ -189,10 +188,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Druhe zapołožki">
 <!ENTITY mobileBookmarksCmd.label "Mobilne zapołožki">
 <!ENTITY bookmarksToolbarChevron.tooltip "Dalše zapołožki pokazać">
-<!ENTITY showRecentlyBookmarked.label     "Njedawno jako zapołožka wotpołožene pokazać">
-<!ENTITY showRecentlyBookmarked.accesskey "d">
-<!ENTITY hideRecentlyBookmarked.label     "Njedawno jako zapołožka wotpołožene schować">
-<!ENTITY hideRecentlyBookmarked.accesskey "d">
 
 <!ENTITY backCmd.label                "Wróćo">
 <!ENTITY backCmd.accesskey            "W">
@@ -234,7 +229,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Tutu stronu přełožować">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Přełožowanje strony rjadować">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Wužiwanje softwary DRM rjadować">
-
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "MIDI-wobłuk wočinić">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Sće swoju kameru za tute websydło zablokował.">
@@ -245,7 +239,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Sće trajny składowak za tute websydło zablokował.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Sće wuskakowace wokna za tute websydło zablokował.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Sće přistup ke canvasowym datam za tute websydło zablokował.">
-
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Sće tute websydło při wužiwanju tykača Adobe Flash haćił.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Sće přistup na MIDI za tute websydło zablokował.">
 
@@ -395,7 +388,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Chceće tu swoje rajtarki z druhich gratow widźeć?">
-<!ENTITY appMenuRemoteTabs.openprefs.label "Nastajenja synchronizować">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Synchronizowanske nastajenja wočinić">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Přizjewće so, zo byšće sej lisćinu rajtarkow ze swojich druhich gratow wobhladał.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Waše konto dyrbi so wobkrućić.">
@@ -444,7 +436,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Pytać abo adresu zapodać">
-<!ENTITY urlbar.placeholder3          "Zapodajće tu pytanske wurazy a adresy">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Rozšěrjenje:">
@@ -988,14 +979,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Startujće znowa, zo byšće &brandShorterName; aktualizował">
 
-<!ENTITY newTabControlled.message "Rozšěrjenje je stronu změnił, kotruž widźiće, hdyž nowy rajtark wočinjeće. Móžeće swoje nastajenja wobnowić, jeli tutu změnu nochceće.">
-
 <!ENTITY newTabControlled.header.message "Waš nowy rajtark je so změnił.">
 <!ENTITY newTabControlled.keepButton.label "Změny wobchować">
 <!ENTITY newTabControlled.keepButton.accesskey "Z">
-<!ENTITY newTabControlled.restoreButton.label "Nastajenja wobnowić">
-<!ENTITY newTabControlled.restoreButton.accesskey "N">
-
 <!ENTITY newTabControlled.disableButton.label "Rozšěrjenje znjemóžnić">
 <!ENTITY newTabControlled.disableButton.accesskey "R">
 
@@ -1005,6 +991,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.keepButton.accesskey "Z">
 <!ENTITY homepageControlled.disableButton.label "Rozšěrjenje znjemóžnić">
 <!ENTITY homepageControlled.disableButton.accesskey "R">
+
+<!ENTITY tabHideControlled.header.message "Přistup na waše schowane rajtarki">
+<!ENTITY tabHideControlled.keepButton.label "Rajtarki schowane wobchować">
+<!ENTITY tabHideControlled.keepButton.accesskey "R">
+<!ENTITY tabHideControlled.disableButton.label "Rozšěrjenje znjemóžnić">
+<!ENTITY tabHideControlled.disableButton.accesskey "z">
 
 <!ENTITY pageActionButton.tooltip "Akcije strony">
 <!ENTITY pageAction.addToUrlbar.label "Adresowemu polu přidać">
