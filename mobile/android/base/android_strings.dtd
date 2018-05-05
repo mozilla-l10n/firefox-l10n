@@ -866,9 +866,9 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_delete_history "מחיקה מההיסטוריה">
 
 <!ENTITY private_tab_panel_title "גלישה פרטית + הגנת מעקב">
-<!ENTITY private_tab_panel_description "&brandShortName; חוסם חלקים מהדפים שעשויים לעקוב אחר פעילות הגלישה שלך.">
+<!ENTITY private_tab_panel_description "‏&brandShortName; חוסם חלקים מהדפים שעשויים לעקוב אחר פעילות הגלישה שלך.">
 <!ENTITY private_tab_panel_description2 "אנחנו לא נשמור שום היסטוריה, אבל קבצים שיורדו וסימניות חדשות שייווצרו עדיין יישמרו בהתקן שלך.">
-<!ENTITY private_tab_learn_more "רוצה לדעת עוד?">
+<!ENTITY private_tab_learn_more "מידע נוסף">
 
 <!ENTITY fullscreen_warning "עברת למסך מלא">
 
