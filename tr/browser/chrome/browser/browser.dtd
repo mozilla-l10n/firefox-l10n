@@ -129,7 +129,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Tüm sekmeleri göster">
 <!ENTITY showAllTabsCmd.accesskey "s">
 <!ENTITY toggleReaderMode.key "R">
-
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label;’e giriş yap">
@@ -189,10 +188,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Diğer yer imleri">
 <!ENTITY mobileBookmarksCmd.label "Mobil yer imleri">
 <!ENTITY bookmarksToolbarChevron.tooltip "Daha fazla yer imi göster">
-<!ENTITY showRecentlyBookmarked.label     "Yer imlerine yeni eklenenleri göster">
-<!ENTITY showRecentlyBookmarked.accesskey "e">
-<!ENTITY hideRecentlyBookmarked.label     "Yer imlerine yeni eklenenleri gizle">
-<!ENTITY hideRecentlyBookmarked.accesskey "z">
 
 <!ENTITY backCmd.label                "Geri">
 <!ENTITY backCmd.accesskey            "G">
@@ -234,7 +229,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Bu sayfayı çevir">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Sayfa çevirisini yönet">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM yazılımı kullanımını yönet">
-
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "MIDI panelini aç">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Bu sitenin kameranızı kullanmasını engellediniz.">
@@ -245,7 +239,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Bu sitenin kalıcı veri depolamasını engellediniz.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Bu sitedeki açılır pencereleri engellediniz.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Bu sitenin kanvastan veri ayıklamasını engellediniz.">
-
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Bu web sitesinin Adobe Flash yan uygulamasını kullanmasını engellediniz.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Bu sitenin MIDI erişimini engellediniz.">
 
@@ -395,7 +388,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Diğer cihazlarınızdaki sekmeleri burada görmek ister misiniz?">
-<!ENTITY appMenuRemoteTabs.openprefs.label "Eşitleme Tercihleri">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Sync tercihlerini aç">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Diğer cihazlarınızdaki sekmeleri görmek için giriş yapın.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Hesabınızın doğrulanması gerekiyor.">
@@ -444,7 +436,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Arama yapın veya adres yazın">
-<!ENTITY urlbar.placeholder3          "Aranacak terimleri ve adresleri buraya yazın">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Eklenti:">
@@ -988,14 +979,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "D">
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName; tarayıcısını güncellemek için yeniden başlat">
 
-<!ENTITY newTabControlled.message "Bir eklenti, yeni bir sekme açtığınızda gördüğünüz sayfayı değiştirdi. Bu değişikliği istemiyorsanız önceki ayarlarınızı geri yükleyebilirsiniz.">
-
 <!ENTITY newTabControlled.header.message "Yeni Sekme’niz değişti.">
 <!ENTITY newTabControlled.keepButton.label "Değişiklikleri koru">
 <!ENTITY newTabControlled.keepButton.accesskey "D">
-<!ENTITY newTabControlled.restoreButton.label "Ayarları geri yükle">
-<!ENTITY newTabControlled.restoreButton.accesskey "A">
-
 <!ENTITY newTabControlled.disableButton.label "Eklentiyi etkisizleştir">
 <!ENTITY newTabControlled.disableButton.accesskey "E">
 
@@ -1005,6 +991,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.keepButton.accesskey "D">
 <!ENTITY homepageControlled.disableButton.label "Eklentiyi etkisizleştir">
 <!ENTITY homepageControlled.disableButton.accesskey "E">
+
+<!ENTITY tabHideControlled.header.message "Gizlenen sekmelerinize ulaşın">
+<!ENTITY tabHideControlled.keepButton.label "Sekmeler gizli kalsın">
+<!ENTITY tabHideControlled.keepButton.accesskey "S">
+<!ENTITY tabHideControlled.disableButton.label "Eklentiyi etkisizleştir">
+<!ENTITY tabHideControlled.disableButton.accesskey "E">
 
 <!ENTITY pageActionButton.tooltip "Sayfa eylemleri">
 <!ENTITY pageAction.addToUrlbar.label "Adres çubuğuna ekle">
