@@ -63,3 +63,11 @@
 <!ENTITY markAsReadDelay.accesskey        "א">
 <!ENTITY secondsLabel.label               "שניות">
 <!ENTITY openMsgIn.label                  "פתיחת הודעות בתוך:">
+<!ENTITY openMsgInNewTab.label            "לשונית חדשה">
+<!ENTITY openMsgInNewTab.accesskey        "ל">
+<!ENTITY reuseExpRadio0.label             "חלון הודעה חדש">
+<!ENTITY reuseExpRadio0.accesskey         "ח">
+<!ENTITY reuseExpRadio1.label             "חלון הודעה קיים">
+<!ENTITY reuseExpRadio1.accesskey         "ק">
+<!ENTITY closeMsgOnMoveOrDelete.label     "לסגור את חלון/לשונית ההודעה בעת העברה או מחיקה">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "ס">

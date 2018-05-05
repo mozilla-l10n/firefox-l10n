@@ -5,6 +5,7 @@
 <!ENTITY windowTitle.label            "אשף חשבון צ׳אט">
 
 <!ENTITY accountProtocolTitle.label   "רשת צ׳אט">
+<!ENTITY accountProtocolInfo.label    "נא לבחור את רשת חשבון הצ׳אט שלך.">
 <!ENTITY accountProtocolField.label   "רשת:">
 <!ENTITY accountProtocolGetMore.label "קבלת עוד…">
 
@@ -12,12 +13,15 @@
 <!ENTITY accountUsernameDuplicate.label "חשבון זה כבר הוגדר!">
 
 <!ENTITY accountPasswordTitle.label   "ססמה">
+<!ENTITY accountPasswordInfo.label    "נא להקליד את הססמה שלך בתיבה שלהלן.">
 <!ENTITY accountPasswordField.label   "ססמה:">
 
 <!ENTITY accountAdvancedTitle.label   "אפשרויות מתקדמות">
+<!ENTITY accountAdvancedInfo.label    "לא חייבים לעבור את השלב הזה אם לא בא לך.">
 <!ENTITY accountAdvanced.newMailNotification.label   "התרעה על הודעה חדשה">
 <!ENTITY accountAliasGroupbox.caption "כינוי מקומי">
 <!ENTITY accountAliasField.label      "כינוי:">
+<!ENTITY accountAliasInfo.label       "שם זה יוצג בדיונים שלך, הצד המרוחק לא יוכל לראות אותו.">
 <!ENTITY accountProxySettings.caption "הגדרות שרת מתווך">
 <!ENTITY accountProxySettings.change.label     "שינוי…">
 

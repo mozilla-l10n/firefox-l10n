@@ -10,15 +10,22 @@
 <!ENTITY useDefault.label                 "שחזר ברירת מחדל">
 <!ENTITY useDefault.accesskey             "מ">
 
+<!ENTITY changeDockIconOptions.label      "שינוי ההעדפות לסמל היישום">
+<!ENTITY dockOptions.label                "אפשרויות סמל היישום…">
+<!ENTITY dockOptions.accesskey            "ס">
 
 <!ENTITY newMessagesArrive.label          "כאשר מופיעות הודעות חדשות:">
 <!ENTITY playSound.label                  "השמע צליל">
 <!ENTITY playSound1.accesskey             "צ">
+<!ENTITY playSoundMac.label               "להשמיע את קובץ הצליל הבא:">
+<!ENTITY playSoundMac.accesskey           "צ">
 <!ENTITY showAnimatedAlert.label          "הראה התרעה">
 <!ENTITY showAnimatedAlert.accesskey      "א">
 <!ENTITY customizeMailAlert.label         "התאמה אישית…">
 <!ENTITY customizeMailAlert.accesskey     "ה">
 
+<!ENTITY showTrayIcon.label               "הצגת סמל במגש המערכת">
+<!ENTITY showTrayIcon.accesskey           "ג">
 
 <!ENTITY play.label                       "נגן">
 <!ENTITY play.accesskey                   "נ">
@@ -29,3 +36,4 @@
 <!ENTITY browse.label                     "עיון…">
 <!ENTITY browse.accesskey                 "ע">
 
+<!ENTITY defaultSearchEngine.label        "מנוע חיפוש כבררת מחדל">

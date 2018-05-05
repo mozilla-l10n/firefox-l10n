@@ -11,7 +11,15 @@
 <!-- General Settings -->
 <!ENTITY enableGlodaSearch.label       "אפשר חיפוש גלובלי ואינדוקס">
 <!ENTITY enableGlodaSearch.accesskey   "ח">
+<!ENTITY dateTimeFormatting.label      "תבנית תאריך ושעה">
+<!ENTITY allowHWAccel.label            "שימוש בהאצת חומרה כשניתן">
+<!ENTITY allowHWAccel.accesskey        "ח">
+<!ENTITY storeType.label               "סוג אחסון הודעות לחשבונות חדשים:">
+<!ENTITY storeType.accesskey           "ס">
+<!ENTITY mboxStore2.label              "קובץ לכל תיקייה (mbox)">
+<!ENTITY maildirStore.label            "קובץ לכל הודעה (maildir)">
 
+<!ENTITY scrolling.label               "גלילה">
 <!ENTITY useAutoScroll.label           "שימוש בגלילה אוטומטית">
 <!ENTITY useAutoScroll.accesskey       "א">
 <!ENTITY useSmoothScrolling.label      "שימוש בגלילה חלקה">
@@ -37,19 +45,32 @@
 <!ENTITY crashReporterSection.label      "דיווח קריסות">
 <!ENTITY enableCrashReporter.label       "הפעלת דיווח קריסות">
 <!ENTITY enableCrashReporter.accesskey   "ק">
+<!ENTITY crashReporterLearnMore.label    "מידע נוסף">
 
 <!-- Update -->
 <!-- LOCALIZATION NOTE (updateApp.label):
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
   Please check for possible accesskey conflicts.
 -->
+<!ENTITY updateApp2.label                "עדכוני &brandShortName;">
 <!-- LOCALIZATION NOTE (updateApp.version.*): updateApp.version.pre is
   followed by a version number, keep the trailing space or replace it with
   a different character as needed. updateApp.version.post is displayed after
   the version number, and is empty on purpose for English. You can use it
   if required by your language.
  -->
+<!ENTITY updateApp.version.pre           "גרסה ">
+<!ENTITY updateAuto.label                "להתקין עדכונים אוטומטית (מומלץ: אבטחה משופרת)">
+<!ENTITY updateAuto.accesskey            "א">
+<!ENTITY updateCheck.label               "לבדוק עדכונים, אבל לאפשר לי לבחור האם להתקין אותם">
+<!ENTITY updateCheck.accesskey           "ב">
+<!ENTITY updateManual.label              "לעולם לא לבדוק אם יש עדכונים (לא מומלץ: סכנת אבטחה)">
+<!ENTITY updateManual.accesskey          "ל">
+<!ENTITY updateHistory.label             "הצגת היסטוריית עדכונים">
+<!ENTITY updateHistory.accesskey         "ע">
 
+<!ENTITY useService.label                "שימוש בשירות רקע כדי להתקין עדכונים">
+<!ENTITY useService.accesskey            "ר">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "הגדרות…">
@@ -62,6 +83,9 @@
 <!ENTITY showOffline.accesskey         "מ">
 
 <!ENTITY Diskspace                       "שטח דיסק">
+<!ENTITY offlineCompactFolders.label     "לדחוס את כל התיקיות כשהפעולה תחסוך למעלה מ־">
+<!ENTITY offlineCompactFolders.accesskey "ס">
+<!ENTITY offlineCompactFoldersMB.label   "מ״ב בסך הכול">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -72,6 +96,8 @@
 <!ENTITY useCacheBefore.label            "השתמש במטמון עד לשטח של">
 <!ENTITY useCacheBefore.accesskey        "ה">
 <!ENTITY useCacheAfter.label             "מ״ב">
+<!ENTITY overrideSmartCacheSize.label    "דריסת ניהול מטמון אוטומטי">
+<!ENTITY overrideSmartCacheSize.accesskey "ד">
 <!ENTITY clearCacheNow.label             "נקה כעת">
 <!ENTITY clearCacheNow.accesskey         "נ">
 
@@ -82,5 +108,7 @@
 <!ENTITY certs.ask                       "שאל אותי תמיד">
 <!ENTITY certs.ask.accesskey             "מ">
 
+<!ENTITY manageCertificates.label "ניהול אישורים">
+<!ENTITY manageCertificates.accesskey "נ">
 <!ENTITY viewSecurityDevices.label "התקני אבטחה">
 <!ENTITY viewSecurityDevices.accesskey "ה">

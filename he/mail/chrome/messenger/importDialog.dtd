@@ -3,10 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!--
-LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of 
-Netscape Communicator, Please translate using the brandname in respective 
+LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of
+Netscape Communicator, Please translate using the brandname in respective
 languages for Netscape Communicator 4 releases.
-LOCALIZATION NOTE : Do not translate any of the occurrences of the word 
+LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 "&brandShortName;" below.
 -->
 
@@ -15,6 +15,8 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importAll.accesskey      "כ">
 <!ENTITY importMail.label         "דואר">
 <!ENTITY importMail.accesskey     "ד">
+<!ENTITY importFeeds.label        "מינויים להזנות">
+<!ENTITY importFeeds.accesskey    "נ">
 <!ENTITY importAddressbook.label  "ספרי כתובות">
 <!ENTITY importAddressbook.accesskey "כ">
 <!ENTITY importSettings.label     "הגדרות">
@@ -35,6 +37,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY selectDescriptionB.label "נא לבחור בחשבון קיים או ליצור אחד חדש:">
 <!ENTITY selectDescription.accesskey "ב">
 <!ENTITY acctName.label           "שם:">
+<!ENTITY acctName.accesskey       "ש">
 <!ENTITY noModulesFound.label     "לא נמצאו יישום או קובץ לייבא מהם נתונים.">
 
 <!ENTITY back.label               "&lt; הקודם">

@@ -88,6 +88,15 @@
 <!ENTITY reorderAttachmentsCmd.label "סידור קבצים מצורפים מחדש…">
 <!ENTITY reorderAttachmentsCmd.accesskey "צ">
 <!ENTITY reorderAttachmentsCmd.key "ח">
+<!ENTITY toggleAttachmentPaneCmd.label "לוח קבצים מצורפים">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
+     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
+     as attachments.accesskey. -->
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
+     With OS-specific access modifier, this defines the shortcut key for showing/
+     hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
+     toggleAttachmentPaneCmd.key and attachments.accesskey must be the same
+     for the bucket view state machinery to work. -->
 <!ENTITY selectAllCmd.label "בחר הכול">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "ב">
@@ -95,6 +104,8 @@
 <!ENTITY findBarCmd.accesskey "ח">
 <!ENTITY findBarCmd.key "ח">
 <!ENTITY findReplaceCmd.label "חיפוש והחלפה…">
+<!ENTITY findReplaceCmd.accesskey "ל">
+<!ENTITY findReplaceCmd.key "ל">
 <!ENTITY findAgainCmd.label "מצא שוב">
 <!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.key "G">
@@ -111,15 +122,6 @@
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "העברה יחד">
 <!ENTITY moveAttachmentDownPanelBtn.label "העברה למטה">
 <!ENTITY moveAttachmentBottomPanelBtn.label "הצבה בתחתית">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.label):
-     Please ensure that this translation matches
-     sortAttachmentsTogglePanelBtn.ZA.label, except for the sort direction. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.label "סידור הבחירה: א - ת">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.accesskey):
-     This accesskey should be the same like
-     sortAttachmentsTogglePanelBtn.ZA.accesskey, and it should be taken from
-     the "Sort Selection:" part of the label, not from the sort direction part. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.label "סידור הבחירה: ת - א">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -176,6 +178,7 @@
 <!ENTITY dsnMenu.label "יידוע מצב קבלה">
 <!ENTITY dsnMenu.accesskey "י">
 <!ENTITY deliveryFormatMenu.label "תבנית העברה">
+<!ENTITY deliveryFormatMenu.accesskey "ב">
 <!ENTITY autoFormatCmd.label "זיהוי אוטומטי">
 <!ENTITY autoFormatCmd.accesskey "א">
 <!ENTITY plainTextFormatCmd.label "טקסט פשוט בלבד">
@@ -213,7 +216,10 @@
 <!ENTITY addressBookCmd.accesskey "כ">
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY accountManagerCmd2.label "הגדרות חשבון">
+<!ENTITY accountManagerCmd2.accesskey "ג">
+<!ENTITY accountManagerCmdUnix2.accesskey "ג">
 <!ENTITY preferencesCmd2.label "אפשרויות">
+<!ENTITY preferencesCmd2.accesskey "א">
 <!ENTITY preferencesCmdUnix.label "העדפות">
 <!ENTITY preferencesCmdUnix.accesskey "פ">
 
@@ -239,6 +245,7 @@
 <!ENTITY quoteButton.tooltip "צטט הודעה קודמת">
 <!ENTITY addressButton.tooltip "בחר נמען מפנקס כתובות">
 <!ENTITY attachButton.tooltip "צרף נספח">
+<!ENTITY attachButton.tooltip2 "הוספת קובץ">
 <!ENTITY spellingButton.tooltip "בדיקת איות בבחירה או בהודעה כולה">
 <!ENTITY saveButton.tooltip "שמור הודעה זו">
 <!ENTITY cutButton.tooltip              "גזירה">
@@ -260,9 +267,14 @@
 <!ENTITY followupAddr.label "מעקב־אל:">
 <!ENTITY subject.label "נושא:">
 <!ENTITY subject.accesskey "נ">
-<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
-     to the strings in attachmentCount in composeMsgs.properties -->
+<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
+     be taken from the strings in attachmentCount in composeMsgs.properties,
+     and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
+     work, as the shortcut key functionality supersedes the access key. -->
 <!ENTITY attachments.accesskey "מ">
+
+<!ENTITY attachmentBucketHeader.tooltip "לוח קבצים מצורפים">
+<!ENTITY attachmentBucketCloseButton.tooltip "הסתרת לוח קבצים מצורפים">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "הכנס פרצוף מחייך">
@@ -300,6 +312,7 @@
 <!ENTITY pasteQuote.label "הדבקה כציטוט">
 <!ENTITY pasteQuote.accesskey "צ">
 
+<!-- Attachment Item and List Context Menus -->
 <!ENTITY openAttachment.label "פתיחה">
 <!ENTITY openAttachment.accesskey "פ">
 <!ENTITY delete.label "מחק">
@@ -309,16 +322,30 @@
 <!ENTITY renameAttachment.label "שנה שם…">
 <!ENTITY renameAttachment.accesskey "ש">
 <!ENTITY reorderAttachments.label "סידור קבצים מצורפים מחדש…">
+<!ENTITY reorderAttachments.accesskey "צ">
+<!ENTITY removeAllAttachments.label "הסרת כל הקבצים המצורפים">
+<!ENTITY removeAllAttachments.accesskey "כ">
 <!ENTITY selectAll.label "בחר הכול">
 <!ENTITY selectAll.accesskey "ב">
 <!ENTITY attachFile.label "צירוף קובץ או קבצים)…">
 <!ENTITY attachFile.accesskey "ק">
 <!ENTITY attachCloud.label "קישור קובץ…">
+<!ENTITY attachCloud.accesskey "ק">
 <!ENTITY convertCloud.label "המרה אל…">
+<!ENTITY convertCloud.accesskey "ר">
 <!ENTITY cancelUpload.label "ביטול העלאה">
+<!ENTITY cancelUpload.accesskey "ע">
 <!ENTITY convertRegularAttachment.label "קובץ מצורף רגיל">
+<!ENTITY convertRegularAttachment.accesskey "צ">
 <!ENTITY attachPage.label "צירוף דף אינטרנט…">
 <!ENTITY attachPage.accesskey "א">
+
+<!-- Attachment Pane Header Bar Context Menu -->
+<!-- LOCALIZATION NOTE (initiallyShowAttachmentPane.label):
+     Should use the same wording as startExpandedCmd.label
+     in msgHdrViewOverlay.dtd. -->
+<!ENTITY initiallyShowAttachmentPane.label "הצגת חלונית הקבצים המצורפים כבר בהתחלה">
+<!ENTITY initiallyShowAttachmentPane.accesskey "צ">
 
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "הוספת מילונים…">
@@ -329,6 +356,7 @@
 
 <!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "התאמה מכתובת…">
+<!ENTITY customizeFromAddress.accesskey "כ">
 
 <!-- Status Bar -->
 <!ENTITY languageStatusButton.tooltip "שפת בדיקת האיות">
