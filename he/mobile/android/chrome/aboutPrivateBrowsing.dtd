@@ -13,7 +13,7 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "אינך במצב גלישה פרטית">
 
-<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; חוסם חלקים מהדפים שעשויים לעקוב אחר פעילות הגלישה שלך.">
+<!ENTITY privatebrowsingpage.description.trackingProtection "‏&brandShortName; חוסם חלקים מהדפים שעשויים לעקוב אחר פעילות הגלישה שלך.">
 <!ENTITY privatebrowsingpage.description.privateDetails "אנחנו לא נשמור שום היסטוריה, אבל קבצים שיורדו וסימניות חדשות שייווצרו עדיין יישמרו בהתקן שלך.">
 
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
@@ -21,5 +21,5 @@
      of the term. -->
 <!ENTITY privatebrowsingpage.description.normal2 "בגלישה פרטית, לא נשאיר שום היסטורית גלישה או עוגיות. סימניות שיתווספו וקבצים שיורדו עדיין יישמרו בהתקן שלך.">
 
-<!ENTITY privatebrowsingpage.link.private "רוצה לדעת עוד?">
+<!ENTITY privatebrowsingpage.link.private "מידע נוסף">
 <!ENTITY privatebrowsingpage.link.normal "פתיחת לשונית פרטית חדשה">
