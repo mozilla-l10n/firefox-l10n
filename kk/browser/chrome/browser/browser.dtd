@@ -129,7 +129,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Барлық беттерді көрсету">
 <!ENTITY showAllTabsCmd.accesskey "а">
 <!ENTITY toggleReaderMode.key "R">
-
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; ішіне кіру">
@@ -189,10 +188,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Басқа бетбелгілер">
 <!ENTITY mobileBookmarksCmd.label "Мобильді бетбелгілер">
 <!ENTITY bookmarksToolbarChevron.tooltip "Көбірек бетбелгілерді көрсету">
-<!ENTITY showRecentlyBookmarked.label     "Соңынан қосылғандарды көрсету">
-<!ENTITY showRecentlyBookmarked.accesskey "т">
-<!ENTITY hideRecentlyBookmarked.label     "Соңынан қосылғандарды жасыру">
-<!ENTITY hideRecentlyBookmarked.accesskey "ж">
 
 <!ENTITY backCmd.label                "Артқа">
 <!ENTITY backCmd.accesskey            "а">
@@ -234,7 +229,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Бұл парақты аудару">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Бет аудармасын басқару">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM БҚ қолдануын басқару">
-
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "MIDI панелін ашу">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Камераңызды қолдануды бұл веб-сайтқа бұғаттадыңыз.">
@@ -245,7 +239,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Сіз тұрақты деректер қоймасын қолдануды бұл вебсайтқа блоктадыңыз.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Бұл веб-сайт үшін атып шығатын терезелерді бұғаттадыңыз.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Сіз canvas деректерін тарқатуды бұл вебсайтқа блоктадыңыз.">
-
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Сіз бұл вебсайтқа Adobe Flash қолдануды блоктадыңыз.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Сіз MIDI қолдануды бұл вебсайтқа блоктадыңыз.">
 
@@ -395,7 +388,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Басқа құрылғыларыңыздан беттерді осында көргіңіз келе ме?">
-<!ENTITY appMenuRemoteTabs.openprefs.label "Синхрондау баптаулары">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Синхрондау баптауларын ашу">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Басқа құрылғыларыңыздан беттер тізімдерін қарау үшін кіріңіз.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Тіркелгіңіз расталуы тиіс.">
@@ -444,7 +436,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Іздеу немесе адрес">
-<!ENTITY urlbar.placeholder3          "Ізделетін ұғымдарды және адрестерді осында енгізіңіз">
 <!ENTITY urlbar.accesskey             "з">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Кеңейту:">
@@ -988,14 +979,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "м">
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName; жаңарту үшін қайта іске қосу">
 
-<!ENTITY newTabControlled.message "Жаңа бетті ашқан кезде көретін бетті кеңейту өзгерткен. Бұл өзгерісті қаламасаңыз, өз баптауларыңызды қалпына келтіре аласыз.">
-
 <!ENTITY newTabControlled.header.message "Сіздің жаңа бетіңіз өзгертілген.">
 <!ENTITY newTabControlled.keepButton.label "Өзгерістерді сақтау">
 <!ENTITY newTabControlled.keepButton.accesskey "с">
-<!ENTITY newTabControlled.restoreButton.label "Баптауларды қалпына келтіру">
-<!ENTITY newTabControlled.restoreButton.accesskey "р">
-
 <!ENTITY newTabControlled.disableButton.label "Кеңейтуді сөндіру">
 <!ENTITY newTabControlled.disableButton.accesskey "д">
 
@@ -1005,6 +991,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.keepButton.accesskey "с">
 <!ENTITY homepageControlled.disableButton.label "Кеңейтуді сөндіру">
 <!ENTITY homepageControlled.disableButton.accesskey "д">
+
+<!ENTITY tabHideControlled.header.message "Жасырын беттеріңізге қатынау">
+<!ENTITY tabHideControlled.keepButton.label "Беттерді жасырын етіп ұстау">
+<!ENTITY tabHideControlled.keepButton.accesskey "с">
+<!ENTITY tabHideControlled.disableButton.label "Кеңейтуді сөндіру">
+<!ENTITY tabHideControlled.disableButton.accesskey "д">
 
 <!ENTITY pageActionButton.tooltip "Бет әрекеттері">
 <!ENTITY pageAction.addToUrlbar.label "Адрес жолағына қосу">
