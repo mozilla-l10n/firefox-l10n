@@ -992,6 +992,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.disableButton.label "Nyahdayakan Ekstensi">
 <!ENTITY homepageControlled.disableButton.accesskey "N">
 
+<!ENTITY tabHideControlled.header.message "Akses Tab Tersorok Anda">
+<!ENTITY tabHideControlled.keepButton.label "Terus Sorok Tab">
+<!ENTITY tabHideControlled.keepButton.accesskey "T">
+<!ENTITY tabHideControlled.disableButton.label "Nyahdayakan Ekstensi">
+<!ENTITY tabHideControlled.disableButton.accesskey "N">
 
 <!ENTITY pageActionButton.tooltip "Tindakan halaman">
 <!ENTITY pageAction.addToUrlbar.label "Tambah ke Bar Alamat">
