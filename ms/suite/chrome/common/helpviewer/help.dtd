@@ -13,7 +13,7 @@
 <!ENTITY backButton.tooltip             "Undur satu halaman">
 <!ENTITY forwardButton.label            "Maju">
 <!ENTITY forwardButton.accesskey        "M">
-<!ENTITY forwardButton.tooltip          "Langkau satu halaman">
+<!ENTITY forwardButton.tooltip          "Maju satu halaman">
 <!ENTITY copyCmd.label                  "Salin">
 <!ENTITY copyCmd.accesskey              "S">
 <!ENTITY selectAllCmd.label             "Pilih Semua">
