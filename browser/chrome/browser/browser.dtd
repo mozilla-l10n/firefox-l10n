@@ -129,7 +129,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Mostrar todas as abas">
 <!ENTITY showAllTabsCmd.accesskey "t">
 <!ENTITY toggleReaderMode.key "R">
-
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "Entrar no &syncBrand.shortName.label;">
@@ -189,10 +188,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Outros favoritos">
 <!ENTITY mobileBookmarksCmd.label "Favoritos do celular">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar mais favoritos">
-<!ENTITY showRecentlyBookmarked.label     "Mostrar favoritos recentes">
-<!ENTITY showRecentlyBookmarked.accesskey "h">
-<!ENTITY hideRecentlyBookmarked.label     "Ocultar favoritos recentes">
-<!ENTITY hideRecentlyBookmarked.accesskey "H">
 
 <!ENTITY backCmd.label                "Voltar">
 <!ENTITY backCmd.accesskey            "V">
@@ -234,7 +229,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Traduzir esta página">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Gerenciar tradução da página">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Gerenciar o uso do software DRM">
-
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Abrir o painel MIDI">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Você bloqueou sua câmera para este site.">
@@ -245,7 +239,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Você bloqueou o armazenamento persistente para este site.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Você bloqueou pop-ups para esse site.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Você bloqueou a extração de dados da tela para este site.">
-
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Você bloqueou o uso do Adobe Flash para este site.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Você bloqueou o acesso MIDI para este site.">
 
@@ -395,7 +388,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Quer ver suas abas de outros dispositivos aqui?">
-<!ENTITY appMenuRemoteTabs.openprefs.label "Preferências do Sync">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Abrir preferências do Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Entrar para ver uma lista de abas de seus outros dispositivos.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Sua conta precisa ser verificada.">
@@ -444,7 +436,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Pesquisar ou abrir endereço">
-<!ENTITY urlbar.placeholder3          "Digite aqui os termos de pesquisa e endereços">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Extensão:">
@@ -988,14 +979,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "n">
 <!ENTITY updateRestart.panelUI.label2 "Reiniciar para atualizar o &brandShorterName;">
 
-<!ENTITY newTabControlled.message "Uma extensão alterou a página que você vê ao abrir uma nova aba. Você pode restaurar as suas configurações se não quiser esta alteração.">
-
 <!ENTITY newTabControlled.header.message "Sua nova aba foi alterada.">
 <!ENTITY newTabControlled.keepButton.label "Manter alterações">
 <!ENTITY newTabControlled.keepButton.accesskey "M">
-<!ENTITY newTabControlled.restoreButton.label "Restaurar configurações">
-<!ENTITY newTabControlled.restoreButton.accesskey "R">
-
 <!ENTITY newTabControlled.disableButton.label "Desabilitar extensão">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
@@ -1005,6 +991,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.keepButton.accesskey "M">
 <!ENTITY homepageControlled.disableButton.label "Desativar extensão">
 <!ENTITY homepageControlled.disableButton.accesskey "D">
+
+<!ENTITY tabHideControlled.header.message "Acessar suas abas ocultadas">
+<!ENTITY tabHideControlled.keepButton.label "Manter abas ocultadas">
+<!ENTITY tabHideControlled.keepButton.accesskey "M">
+<!ENTITY tabHideControlled.disableButton.label "Desativar extensão">
+<!ENTITY tabHideControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "Ações da página">
 <!ENTITY pageAction.addToUrlbar.label "Adicionar na barra de endereço">
