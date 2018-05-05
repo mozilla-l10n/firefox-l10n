@@ -27,6 +27,7 @@
 
 <!ENTITY certificates.label "אישורים">
 <!ENTITY manageCerts2.label "ניהול אישורים">
+<!ENTITY manageCerts2.accesskey "נ">
 <!ENTITY manageDevices.label "התקני אבטחה">
 <!ENTITY manageDevices.accesskey "ת">
 

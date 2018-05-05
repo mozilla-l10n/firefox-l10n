@@ -28,6 +28,8 @@
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY then.label                           "ואז,">
 <!ENTITY then.accesskey                       "ז">
+<!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY quoting.label                        "כשמצטטים,">
 <!ENTITY aboveQuote.label                     "התחל את תשובתי מעל הציטוט">
 <!ENTITY belowQuote.label                     "התחל את תשובתי מתחת לציטוט">
 <!ENTITY selectAndQuote.label                 "בחר את הציטוט">

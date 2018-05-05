@@ -18,11 +18,15 @@
 
 <!ENTITY contextDesc.label "הפעל מסננים כאשר:">
 <!ENTITY contextIncomingMail.label "קבלת הודעת דוא״ל חדשה:">
+<!ENTITY contextIncomingMail.accesskey "ק">
 <!ENTITY contextManual.label "מורץ ידנית">
+<!ENTITY contextManual.accesskey "ר">
 <!ENTITY contextBeforeCls.label "סינון לפני סיווג כזבל">
 <!ENTITY contextAfterCls.label "סינון אחרי סיווג כזבל">
 <!ENTITY contextOutgoing.label "לאחר השליחה">
+<!ENTITY contextOutgoing.accesskey "ש">
 <!ENTITY contextArchive.label "העברה לארכיון">
+<!ENTITY contextArchive.accesskey "א">
 
 <!ENTITY filterActionDesc.label "בצע פעולות אלו:">
 <!ENTITY filterActionDesc.accesskey "P">
@@ -58,3 +62,5 @@
      are truncated in the widgets.
   -->
 <!-- Flex Attribute: https://developer.mozilla.org/docs/XUL/Attribute/flex -->
+<!ENTITY filterActionTypeFlexValue "1">
+<!ENTITY filterActionTargetFlexValue "4">

@@ -32,6 +32,7 @@
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey        "ב">
 <!ENTITY preferencesCmd2.label "אפשרויות">
+<!ENTITY preferencesCmd2.accesskey "ע">
 <!ENTITY preferencesCmdUnix.label       "העדפות">
 <!ENTITY preferencesCmdUnix.accesskey     "ע">
 
