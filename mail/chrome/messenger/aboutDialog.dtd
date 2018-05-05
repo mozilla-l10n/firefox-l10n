@@ -10,7 +10,9 @@
 # the about dialog.
 -->
 <!ENTITY update.checkForUpdatesButton.label       "בדיקה אחר עדכונים">
+<!ENTITY update.checkForUpdatesButton.accesskey   "ב">
 <!ENTITY update.updateButton.label3               "יש להפעיל מחדש כדי לעדכן את &brandShorterName;">
+<!ENTITY update.updateButton.accesskey            "פ">
 
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly builds. It is only shown in this version. -->
@@ -19,6 +21,7 @@
 <!ENTITY warningDesc.telemetryDesc  "תוכנה זו שולחת אוטומטית מידע על ביצועים, חומרה, שימוש והתאמות אישיות חזרה אל &vendorShortName; כדי לסייע בשיפור &brandShortName;.">
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly builds, instead of the other "community.*" strings below. -->
+<!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       " היא ">
@@ -40,6 +43,7 @@
 <!ENTITY helpus.middle              " או ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY helpus.getInvolvedLink     "הצטרפות!">
+<!ENTITY helpus.end                 "">
 
 <!ENTITY releaseNotes.link          "הערות שחרור">
 
@@ -59,6 +63,7 @@
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "עדכונים נוטרלו על־ידי מנהל המערכת שלך">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
+<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; מעודכן באמצעות מופע אחר">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
@@ -85,6 +90,7 @@
      make the localized text short (see bug 843497 for screenshots). -->
 <!ENTITY update.unsupported.start    "לא ניתן לבצע עדכונים נוספים במערכת זו. ">
 <!ENTITY update.unsupported.linkText "מידע נוסף">
+<!ENTITY update.unsupported.end      "">
 
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this

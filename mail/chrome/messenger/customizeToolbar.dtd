@@ -8,5 +8,9 @@
 <!ENTITY iconsAndText.label       "סמלים וטקסט">
 <!ENTITY icons.label              "סמלים">
 <!ENTITY text.label               "טקסט">
+<!ENTITY iconsBesideText.label    "סמלים לצד טקסט">
 <!ENTITY useSmallIcons.label      "שימוש בסמלים קטנים">
 <!ENTITY restoreDefaultSet.label  "שחזור ערכת בררת המחדל">
+<!ENTITY addNewToolbar.label      "הוספת סרגל כלים חדש">
+<!ENTITY saveChanges.label        "סיום">
+<!ENTITY undoChanges.label        "ביטול השינויים">

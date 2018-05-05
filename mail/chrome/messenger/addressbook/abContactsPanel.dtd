@@ -3,8 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY propertiesMenu.label               "מאפיינים">
+<!ENTITY propertiesMenu.accesskey           "א">
+<!ENTITY propertiesCmd.key                  "פ">
 <!ENTITY abPropertiesMenu.label             "מאפייני פנקס כתובות">
+<!ENTITY abPropertiesMenu.accesskey         "פ">
 <!ENTITY contactPropertiesMenu.label        "מאפייני איש קשר">
+<!ENTITY contactPropertiesMenu.accesskey    "ש">
 <!ENTITY mailingListPropertiesMenu.label    "מאפייני רשימת דיוור">
 <!ENTITY mailingListPropertiesMenu.accesskey "ר">
 

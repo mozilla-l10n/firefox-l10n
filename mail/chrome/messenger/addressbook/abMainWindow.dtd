@@ -82,7 +82,9 @@
 <!ENTITY abPropertiesMenu.label                         "מאפייני פנקס כתובות">
 <!ENTITY abPropertiesMenu.accesskey                     "א">
 <!ENTITY contactPropertiesMenu.label                    "מאפייני איש קשר">
+<!ENTITY contactPropertiesMenu.accesskey                "א">
 <!ENTITY mailingListPropertiesMenu.label                "מאפייני רשימת דיוור">
+<!ENTITY mailingListPropertiesMenu.accesskey            "א">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label                                 "תצוגה">
@@ -122,6 +124,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY messengerCmd.label                             "דואר וקבוצות דיון">
 <!ENTITY messengerCmd.accesskey                         "ד">
 <!ENTITY messengerCmd.commandkey                        "1">
+<!ENTITY addressBookCmd.label                           "פנקס כתובות">
+<!ENTITY addressBookCmd.accesskey                       "פ">
+<!ENTITY addressBookCmd.key                             "כ">
 <!ENTITY searchAddressesCmd.label                       "חפש בכתובות…">
 <!ENTITY searchAddressesCmd.accesskey                   "ח">
 <!ENTITY importCmd.label                                "יבוא…">
@@ -129,6 +134,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY exportCmd.label                                "יצוא…">
 <!ENTITY exportCmd.accesskey                            "צ">
 <!ENTITY preferencesCmd2.label                          "אפשרויות">
+<!ENTITY preferencesCmd2.accesskey                      "א">
 <!ENTITY preferencesCmdUnix.label                       "העדפות">
 <!ENTITY preferencesCmdUnix.accesskey                   "ע">
 
@@ -138,16 +144,22 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newlistButton.label                            "רשימה חדשה">
 <!ENTITY newlistButton.accesskey                        "ר">
 <!ENTITY showAsDefault.label                            "תיקיית בררת מחדל בהפעלה">
+<!ENTITY showAsDefault.accesskey                        "פ">
 <!ENTITY editPropertiesButton.label                     "עריכה">
 <!ENTITY propertiesContext.label                        "מאפיינים">
+<!ENTITY propertiesContext.accesskey                    "מ">
 <!ENTITY abPropertiesContext.label                      "מאפיינים">
+<!ENTITY abPropertiesContext.accesskey                  "א">
 <!ENTITY editContactContext.label                       "עריכת איש קשר">
+<!ENTITY editContactContext.accesskey                   "ע">
 <!ENTITY editMailingListContext.label                   "עריכת רשימה">
+<!ENTITY editMailingListContext.accesskey               "ר">
 <!ENTITY newmsgButton.label                             "כתיבה">
 <!ENTITY newmsgButton.accesskey                         "כ">
 <!ENTITY newIM.label                                    "הודעה מידית">
 <!ENTITY newIM.accesskey                                "מ">
 <!ENTITY printButton.label                              "הדפסה…">
+<!ENTITY printButton.accesskey                          "פ">
 <!ENTITY deleteButton2.label                            "מחיקה">
 <!ENTITY deleteButton2.accesskey                        "מ">
 
@@ -174,11 +186,13 @@ because displayed names don't have the comma in between. -->
 
 <!-- Results Pane -->
 <!ENTITY Addrbook.label                                 "פנקס כתובות">
+<!ENTITY Addrbook.accesskey                             "פ">
 <!ENTITY GeneratedName.label                            "שם">
 <!ENTITY GeneratedName.accesskey                        "ש">
 <!ENTITY PrimaryEmail.label                             "דוא״ל">
 <!ENTITY PrimaryEmail.accesskey                         "ד">
 <!ENTITY ChatName.label                                 "שם הצ׳אט">
+<!ENTITY ChatName.accesskey                             "צ">
 <!ENTITY Company.label                                  "ארגון">
 <!ENTITY Company.accesskey                              "א">
 <!ENTITY NickName.label                                 "כינוי">

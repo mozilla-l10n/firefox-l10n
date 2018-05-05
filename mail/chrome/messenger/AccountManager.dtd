@@ -11,7 +11,9 @@
 <!ENTITY addMailAccountButton.label "הוספת חשבון דואר…">
 <!ENTITY addMailAccountButton.accesskey "ס">
 <!ENTITY addIMAccountButton.label "הוספת חשבון צ׳אט…">
+<!ENTITY addIMAccountButton.accesskey "צ">
 <!ENTITY addFeedAccountButton.label "הוספת חשבון הזנה…">
+<!ENTITY addFeedAccountButton.accesskey "ז">
 <!ENTITY addOtherAccountButton.label "הוספת חשבון אחר…">
 <!ENTITY addOtherAccountButton.accesskey "א">
 <!ENTITY setDefaultButton.label "הגדר כברירת מחדל">

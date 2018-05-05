@@ -15,7 +15,7 @@
 <!ENTITY port.label "שער:">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "ברירת מחדל:">
-<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammar dependency
         For example, in Japanese cases:
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
@@ -24,6 +24,7 @@
 <!ENTITY biffStart.accesskey "ב">
 <!ENTITY biffEnd.label "דקות">
 <!ENTITY useIdleNotifications.label "לאפשר התרעות מיידיות מהשרת בעת הגעת הודעות חדשות">
+<!ENTITY useIdleNotifications.accesskey "א">
 <!ENTITY connectionSecurity.label "אבטחת קישוריות:">
 <!ENTITY connectionSecurity.accesskey "א">
 <!ENTITY connectionSecurityType-0.label "ללא">
@@ -60,7 +61,7 @@
 <!ENTITY loginAtStartup.accesskey "C">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-   of messages between them
+    of messages between them
 -->
 <!ENTITY maxMessagesStart.label "שאל אותי לפני הורדת יותר מאשר">
 <!ENTITY maxMessagesStart.accesskey "m">
@@ -86,5 +87,6 @@
 <!ENTITY accountTitle.label "הגדרות חשבון">
 <!ENTITY accountSettingsDesc.label "הבא הוא חשבון מיוחד. אינו זהויות שמקושרות אליו.">
 <!ENTITY storeType.label "סוג אחסון הודעות:">
+<!ENTITY storeType.accesskey "ס">
 <!ENTITY mboxStore2.label "קובץ לתיקייה (mbox)">
 <!ENTITY maildirStore.label "קובץ להודעה (maildir)">

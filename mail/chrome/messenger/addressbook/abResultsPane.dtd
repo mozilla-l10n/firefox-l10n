@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY Addrbook.label                        "פנקס כתובות">
-<!ENTITY Addrbook.accesskey                    "פ">
+<!ENTITY Addrbook.accesskey                    "כ">
 <!ENTITY GeneratedName.label                   "שם">
 <!ENTITY GeneratedName.accesskey               "ש">
 <!ENTITY PrimaryEmail.label                    "דוא״ל">
@@ -13,13 +13,13 @@
 <!ENTITY _PhoneticName.label                   "שם פונטי">
 <!ENTITY _PhoneticName.accesskey               "פ">
 <!ENTITY NickName.label                        "כינוי">
-<!ENTITY NickName.accesskey                    "כ">
+<!ENTITY NickName.accesskey                    "נ">
 <!ENTITY SecondEmail.label                     "דוא״ל נוסף">
-<!ENTITY SecondEmail.accesskey                 "נ">
+<!ENTITY SecondEmail.accesskey                 "ס">
 <!ENTITY Department.label                      "מחלקה">
-<!ENTITY Department.accesskey                  "מ">
-<!ENTITY JobTitle.label                        "תפקיד">
-<!ENTITY JobTitle.accesskey                    "ת">
+<!ENTITY Department.accesskey                  "ח">
+<!ENTITY JobTitle.label                        "כותרת">
+<!ENTITY JobTitle.accesskey                    "ר">
 <!ENTITY CellularNumber.label                  "נייד">
 <!ENTITY CellularNumber.accesskey              "נ">
 <!ENTITY PagerNumber.label                     "איתורית">
@@ -29,8 +29,8 @@
 <!ENTITY HomePhone.label                       "טלפון בבית">
 <!ENTITY HomePhone.accesskey                   "ב">
 <!ENTITY WorkPhone.label                       "טלפון בעבודה">
-<!ENTITY WorkPhone.accesskey                   "ב">
-<!ENTITY ChatName.label                        "שם הצ׳אט">
+<!ENTITY WorkPhone.accesskey                   "ע">
+<!ENTITY ChatName.label                        "שם בצ׳אט">
 <!ENTITY ChatName.accesskey                    "צ">
 <!ENTITY sortAscending.label                   "עולה">
 <!ENTITY sortAscending.accesskey               "ע">

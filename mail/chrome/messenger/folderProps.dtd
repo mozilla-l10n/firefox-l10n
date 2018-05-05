@@ -6,6 +6,8 @@
 
 <!ENTITY generalInfo.label                       "מידע כללי">
 <!ENTITY folderCharsetFallback2.label            "קידוד טקסט כבררת מחדל:">
+<!ENTITY folderCharsetFallback2.accesskey        "ק">
+<!ENTITY folderCharsetEnforce2.accesskey         "ח">
 <!ENTITY folderRebuildSummaryFileTip2.label      "בנה מחדש תקציר קובץ אינדקס">
 <!ENTITY folderRebuildSummaryFile2.label         "תקן תיקייה">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "ת">
