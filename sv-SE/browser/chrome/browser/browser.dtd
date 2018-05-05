@@ -129,7 +129,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Visa alla flikar">
 <!ENTITY showAllTabsCmd.accesskey "f">
 <!ENTITY toggleReaderMode.key "R">
-
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "Logga in till &syncBrand.shortName.label;">
@@ -189,10 +188,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Andra bokmärken">
 <!ENTITY mobileBookmarksCmd.label "Mobila bokmärken">
 <!ENTITY bookmarksToolbarChevron.tooltip "Visa fler bokmärken">
-<!ENTITY showRecentlyBookmarked.label     "Visa nyligen bokmärkta">
-<!ENTITY showRecentlyBookmarked.accesskey "V">
-<!ENTITY hideRecentlyBookmarked.label     "Dölj nyligen bokmärkta">
-<!ENTITY hideRecentlyBookmarked.accesskey "D">
 
 <!ENTITY backCmd.label                "Bakåt">
 <!ENTITY backCmd.accesskey            "B">
@@ -234,7 +229,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Översätt denna sida">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Hantera sidaöversättning">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Hantera användningen av DRM-programvara">
-
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Öppna MIDI-panelen">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Du har blockerat din kamera för denna webbsida.">
@@ -245,7 +239,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Du har blockerat beständig lagring för denna webbplats.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Du har blockerat popup-fönster för den här webbplatsen.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Du har blockerat canvas-extrahering för denna webbplats.">
-
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Du har blockerat den här webbplatsen från att använda insticksmodulen Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Du har blockerat MIDI-åtkomst för denna webbplats.">
 
@@ -395,7 +388,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Vill du se dina flikar från andra enheter här?">
-<!ENTITY appMenuRemoteTabs.openprefs.label "Synkroniseringsinställningar">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Öppna synkroniseringsinställningar">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Logga in för att se en lista med flikar från dina andra enheter.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Ditt konto behöver verifieras.">
@@ -444,7 +436,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Sök eller ange adress">
-<!ENTITY urlbar.placeholder3          "Ange söktermer eller webbadresser här">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Tillägg:">
@@ -988,14 +979,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "n">
 <!ENTITY updateRestart.panelUI.label2 "Starta om för att uppdatera &brandShorterName;">
 
-<!ENTITY newTabControlled.message "Ett tillägg har ändrat den sida du ser när du öppnar en ny flik. Du kan återställa dina inställningar om du inte vill ha den här ändringen.">
-
 <!ENTITY newTabControlled.header.message "Din nya flik har ändrats.">
 <!ENTITY newTabControlled.keepButton.label "Behåll ändringar">
 <!ENTITY newTabControlled.keepButton.accesskey "B">
-<!ENTITY newTabControlled.restoreButton.label "Återställ inställningar">
-<!ENTITY newTabControlled.restoreButton.accesskey "t">
-
 <!ENTITY newTabControlled.disableButton.label "Inaktivera tillägg">
 <!ENTITY newTabControlled.disableButton.accesskey "n">
 
@@ -1005,6 +991,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.keepButton.accesskey "B">
 <!ENTITY homepageControlled.disableButton.label "Inaktivera tillägg">
 <!ENTITY homepageControlled.disableButton.accesskey "n">
+
+<!ENTITY tabHideControlled.disableButton.label "Inaktivera tillägg">
 
 <!ENTITY pageActionButton.tooltip "Åtgärder för sida">
 <!ENTITY pageAction.addToUrlbar.label "Lägg till i adressfältet">
