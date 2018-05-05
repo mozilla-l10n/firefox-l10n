@@ -46,19 +46,10 @@
 
 <!ENTITY  feedTab               "הזנות">
 <!ENTITY  feedTab.accesskey     "ה">
-<!ENTITY  feedSubscribe         "הירשם">
-<!ENTITY  feedSubscribe.accesskey "ה">
 
 <!ENTITY  permTab               "הרשאות">
 <!ENTITY  permTab.accesskey     "ר">
-<!ENTITY  permUseDefault        "בררת מחדל">
-<!ENTITY  permAskAlways         "לשאול תמיד">
-<!ENTITY  permAllow             "אפשר">
-<!ENTITY  permAllowSession      "אפשר להפעלה זו">
-<!ENTITY  permHide              "הסתרה">
-<!ENTITY  permBlock             "חסום">
 <!ENTITY  permissionsFor        "הרשאות עבור:">
-<!ENTITY  permPlugins           "הפעלת תוספים חיצוניים">
 
 <!ENTITY  securityTab           "אבטחה">
 <!ENTITY  securityTab.accesskey "א">
