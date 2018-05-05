@@ -2,17 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!--
-# Translator(s):
-#
-# Yaron <sh.yaron@gmail.com>
-#
--->
 <!ENTITY itemJunk.label          "זבל">
 <!ENTITY itemPhishing.label      "הונאות דוא״ל">
 <!ENTITY itemPasswords.label     "ססמאות">
 <!ENTITY itemAntiVirus.label     "אנטי-וירוס">
-<!ENTITY itemCookies.label       "תוכן רשת">
 
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "קבע את הגדרות ברירת המחדל שלך לדואר זבל. הגדרות דואר זבל יחודיות לכל חשבון ניתנות להגדרה בהגדרות החשבון.">
@@ -24,8 +17,8 @@
 <!ENTITY manualMarkModeDelete.accesskey "מ">
 <!ENTITY markAsReadOnSpam.label "סמן הודעות שזוהו כזבל כהודעות שנקראו">
 <!ENTITY markAsReadOnSpam.accesskey "נ">
-<!ENTITY enableJunkLogging.label "אפשר רישום מסנן הזבל">
-<!ENTITY enableJunkLogging.accesskey "ר">
+<!ENTITY enableAdaptiveJunkLogging.label "הפעלת רישום מסנן זבל מסתגל">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "פ">
 <!ENTITY openJunkLog.label "הצג יומן">
 <!ENTITY openJunkLog.accesskey "ה">
 <!ENTITY resetTrainingData.label "אפס נתוני אימון">
@@ -52,19 +45,4 @@
 <!ENTITY antiVirus.intro      "&brandShortName; יכול לגרום לתוכנות אנטי-וירוס לנתח בקלות הודעות דואר נכנס עבור וירוסים לפני שהן מאוכסנות באופן מקומי.">
 <!ENTITY antiVirus.label      "אפשר ללקוחות אנטי וירוס לבודד הודעות יחידות מתוך ההודעות הנכנסות">
 <!ENTITY antiVirus.accesskey  "ב">
-
-<!-- Cookies -->
-<!ENTITY cookies.intro                  "&brandShortName; מאפשר לך לקבוע איזה בלוגים, הזנות חדשות ואתרים אחרים מורשים להגדיר עוגיות.">
-<!ENTITY acceptCookies.label            "קבלת עוגיות מאתרים">
-<!ENTITY acceptCookies.accesskey        "ק">
-<!ENTITY keepUntil.label                "שמירה עד ש:">
-<!ENTITY keepUntil.accesskey            "מ">
-<!ENTITY expire.label                   "הן פגות">
-<!ENTITY close.label                    "אני סוגר את &brandShortName;">
-<!ENTITY askEachTime.label              "שאל אותי בכל פעם">
-<!ENTITY cookieExceptions.label         "חריגות…">
-<!ENTITY cookieExceptions.accesskey     "ח">
-<!ENTITY showCookies.label              "הצג עוגיות…">
-<!ENTITY showCookies.accesskey          "צ">
-
 

@@ -7,9 +7,10 @@
 <!ENTITY learnMore.label             "מידע נוסף אודות הזנות">
 
 <!ENTITY feedTitle.label             "כותרת:">
+<!ENTITY feedTitle.accesskey         "כ">
 
 <!ENTITY feedLocation.label          "כתובת הזנה:">
-<!ENTITY feedLocation.placeholder    "נא להזין כתובת הזנה תקנית להוספה">
+<!ENTITY feedLocation.accesskey      "ז">
 <!ENTITY feedLocation2.placeholder   "נא להזין כתובת הזנה תקנית">
 <!ENTITY locationValidate.label      "בדיקה">
 <!ENTITY validateText.label          "בדיקת וקבלת כתובת תקנית.">

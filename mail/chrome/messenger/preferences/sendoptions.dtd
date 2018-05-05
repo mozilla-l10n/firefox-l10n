@@ -4,6 +4,8 @@
 
 <!ENTITY dialog.title                 "אפשרויות שליחה">
 <!ENTITY sendMail.title               "סגנון טקסט">
+<!ENTITY autoDowngrade.label          "שליחת הודעות כטקסט פשוט אם ניתן">
+<!ENTITY autoDowngrade.accesskey      "פ">
 <!ENTITY sendMaildesc.label           "בעת משלוח הודעות בתבנית HTML ונמען אחד או יותר אינם רשומים כיכולים לקבל HTML:">
 <!ENTITY askMe.label                  "שאל אותי מה לעשות">
 <!ENTITY askMe.accesskey              "k">
@@ -33,5 +35,3 @@
 <!ENTITY add.htmldomain               "שם מתחם HTML:">
 <!ENTITY add.plaintexttitle           "הוסף שם מתחם טקסט פשוט">
 <!ENTITY add.plaintextdomain          "שם מתחם טקסט פשוט:">
-
-

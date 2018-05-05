@@ -69,6 +69,7 @@
 
 <!-- Attachment bar context menu items -->
 <!ENTITY startExpandedCmd.label    "הצגת חלונית הקבצים המצורפים כבר בהתחלה">
+<!ENTITY startExpandedCmd.accesskey    "צ">
 
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "פתח">

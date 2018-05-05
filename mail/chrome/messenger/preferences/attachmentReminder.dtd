@@ -4,5 +4,9 @@
 
 <!ENTITY attachmentReminderDialog.title   "מילות מפתח לתזכורת צירוף קבצים">
 <!ENTITY attachKeywordText.label          "&brandShortName; יזהיר אותך על קבצים מצורפים חסרים אם אתה עומד לשלוח הודעת דוא״ל המכילה אחת או יותר ממילות המפתח הבאות.">
+<!ENTITY newKeywordButton.label           "חדש…">
+<!ENTITY newKeywordButton.accesskey       "ח">
+<!ENTITY editKeywordButton1.label         "עריכה…">
+<!ENTITY editKeywordButton1.accesskey     "ע">
 <!ENTITY removeKeywordButton.label        "מחיקה">
 <!ENTITY removeKeywordButton.accesskey    "מ">

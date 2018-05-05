@@ -7,3 +7,4 @@
 <!ENTITY optional.label                 "(רשות)">
 <!ENTITY account.label                  "חשבון">
 <!ENTITY autojoin.label                 "הצטרפות אוטומטית לחדר צ׳אט זה">
+<!ENTITY autojoin.accesskey             "א">

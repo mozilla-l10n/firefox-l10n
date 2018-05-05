@@ -5,6 +5,7 @@
 <!ENTITY loginAtStartup.label          "בדוק למאמרים חדשים בעת ההפעלה">
 <!ENTITY loginAtStartup.accesskey      "ה">
 <!ENTITY biffAll.label                 "הפעלת עדכונים לכל ההזנות">
+<!ENTITY biffAll.accesskey             "פ">
 
 <!ENTITY newFeedSettings.label         "הגדרות בררת מחדל להזנות של חדשות">
 

@@ -2,21 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!--
-# Translator(s):
-#
-# elad <el.il@doom.co.il>
-#
--->
-<!--
-# Reviewer(s):
-#
-# Tomer Cohen <tomer.mozilla@tomercohen.com>
-#
--->
 <!ENTITY itemGeneral.label                   "כללי">
 <!ENTITY itemAutoComplete.label              "מיעון">
 <!ENTITY itemSpellCheck.label                "איות">
+
+<!ENTITY dialogCompose.title                 "כתיבה">
 
 <!ENTITY forwardMsg.label                     "הודעות מועברות:">
 <!ENTITY forwardMsg.accesskey                 "ה">
@@ -36,6 +26,8 @@
 <!ENTITY bgColor.accesskey                    "ר">
 <!ENTITY restoreHTMLDefaults.label            "שחזר ברירות מחדל">
 <!ENTITY restoreHTMLDefaults.accesskey        "ב">
+<!ENTITY defaultToParagraph.label             "שימוש בתבנית פסקה במקום גוף ההודעה כבררת מחדל">
+<!ENTITY defaultToParagraph.accesskey         "פ">
 
 <!ENTITY spellCheck.label                     "בדוק איות לפני שליחה">
 <!ENTITY spellCheck.accesskey                 "ב">
@@ -62,6 +54,9 @@
 <!ENTITY directoriesNone.label                 "ללא">
 <!ENTITY editDirectories.label                 "ערוך ספריות...">
 <!ENTITY editDirectories.accesskey             "ע">
+<!ENTITY showAsDefault.label                   "תיקיית בררת מחדל לפתיחת חלון פנקס הכתובות:">
+<!ENTITY showAsDefault.accesskey               "ב">
+<!ENTITY showAsDefaultLast.label               "תיקייה אחרונה שהייתה בשימוש">
 
 <!ENTITY sendOptionsDescription.label          "הגדר התנהגות סגנון טקסט">
 <!ENTITY sendOptions.label                     "אפשרויות שליחה...">
@@ -71,4 +66,3 @@
 <!ENTITY attachmentReminder.accesskey          "ח">
 <!ENTITY attachmentReminderOptions.label       "מילות מפתח…">
 <!ENTITY attachmentReminderOptions.accesskey   "מ">
-

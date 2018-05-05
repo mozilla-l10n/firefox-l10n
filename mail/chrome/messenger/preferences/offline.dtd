@@ -4,13 +4,17 @@
 
 <!ENTITY offlineDialog.title "הגדרות לא־מקוון">
 
-<!ENTITY textStartUp "בהפעלה:">
+<!ENTITY checkAutoDetect.label "לעקוב אוטומטית אחר המצב המקוון שהתגלה">
+<!ENTITY checkAutoDetect.accesskey "ג">
+<!ENTITY titleStartUp "מצב ידני עם ההתחלה:">
 <!ENTITY radioRememberPrevState.label "זכור מצב מקוון קודם">
 <!ENTITY radioRememberPrevState.accesskey "ז">
-<!ENTITY radioAskMe.label "שאל אותי למצב מקוון בעת ההפעלה">
-<!ENTITY radioAskMe.accesskey "מ">
-<!ENTITY radioAlwaysOnline.label "התחל תמיד במצב מקוון">
-<!ENTITY radioAlwaysOnline.accesskey "ה">
+<!ENTITY radioAskState.label "לשאול אותי על המצב המקוון שלי">
+<!ENTITY radioAskState.accesskey "ל">
+<!ENTITY radioAlwaysOnlineState.label "מקוון">
+<!ENTITY radioAlwaysOnlineState.accesskey "ק">
+<!ENTITY radioAlwaysOffline.label "מנותק">
+<!ENTITY radioAlwaysOffline.accesskey "נ">
 
 <!ENTITY textGoingOnline "לשלוח הודעות שלא נשלחו במעבר למצב מקוון?">
 <!ENTITY radioAutoSend.label "כן">
@@ -26,5 +30,3 @@
 <!ENTITY radioNotDownload.accesskey "ל">
 <!ENTITY radioAskDownload.label "שאל אותי">
 <!ENTITY radioAskDownload.accesskey "ש">
-
-

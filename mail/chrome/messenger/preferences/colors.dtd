@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  colorsDialog.title              "צבעים">
+<!ENTITY  window.width                    "38em">
+<!ENTITY  window.macWidth                 "41em">
 
 <!ENTITY  overridePageColors.label        "דריסת הצבעים שהוקצו על ידי התוכן עם בחירותי שלהלן:">
 <!ENTITY  overridePageColors.accesskey    "ד">
@@ -19,3 +21,10 @@
 <!ENTITY  useSystemColors.label           "שימוש בצבעי המערכת">
 <!ENTITY  useSystemColors.accesskey       "צ">
 
+<!ENTITY  underlineLinks.label            "קו מתחת לקישורים">
+<!ENTITY  underlineLinks.accesskey        "ת">
+<!ENTITY  links                           "צבעי קישורים">
+<!ENTITY  linkColor.label                 "קישורים בהם טרם ביקרת:">
+<!ENTITY  linkColor.accesskey             "ט">
+<!ENTITY  visitedLinkColor.label          "קישורים בהם ביקרת:">
+<!ENTITY  visitedLinkColor.accesskey      "ב">

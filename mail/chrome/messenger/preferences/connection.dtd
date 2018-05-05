@@ -4,6 +4,7 @@
 
 <!ENTITY  connectionsDialog.title       "הגדרות חיבור">
 <!ENTITY  window.width                  "46em">
+<!ENTITY  window.macWidth               "44em">
 
 <!ENTITY  proxyTitle.label              "קבע תצורה לשרתים מתווכים לגישה לאינטרנט">
 <!ENTITY  noProxyTypeRadio.label        "ללא שרת מתווך">
@@ -39,6 +40,7 @@
 <!ENTITY  noproxyExplain.label          "דוגמה: mozilla.org,‏ .net.il, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "השתמש בשרת מתווך זה עבור כל הפרוטוקולים">
 <!ENTITY  shareproxy.accesskey          "כ">
+<!ENTITY  autologinproxy.label          "לא לבקש אימות אם הססמה נשמרה">
 <!ENTITY  autologinproxy.accesskey      "נ">
 <!ENTITY  autologinproxy.tooltip        "אפשרות זו מאמתת אותך מאחורי הקלעים מול מתווכים שמולם שמרת פרטי אימות. אם האימות נכשל תופיע הודעה.">
 <!ENTITY  socksRemoteDNS.label          "DNS מצד המתווך בעת שימוש ב־SOCKS v5">
