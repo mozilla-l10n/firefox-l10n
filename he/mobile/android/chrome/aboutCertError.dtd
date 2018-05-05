@@ -22,6 +22,7 @@ was trying to connect. -->
 <!ENTITY certerror.whatShouldIDo.content "אם אתה בדרך־כלל מתחבר לאתר זה ללא בעיות, ייתכן שמישהו מנסה להזדהות בשם האתר, ורצוי שלא תמשיך הלאה לאתר.">
 <!ENTITY certerror.getMeOutOfHere.label "קח אותי מפה!">
 
+<!ENTITY certerror.expert.heading "הסיכונים מובנים לי">
 <!ENTITY certerror.expert.content "אם אתה מבין מה קורה, אתה יכול להורות ל־&brandShortName; להתחיל לסמוך על ההזדהות של אתר זה. 
 <b>אפילו אם אתה סומך על האתר, ייתכן ומשמעות השגיאה היא שמישהו מחבל בקישוריות שלך.</b>">
 <!ENTITY certerror.expert.contentPara2 "אל תוסיף חריגות אלא אם יש סיבה טובה לכך שהאתר לא משתמש בהזדהות נסמכת.">
