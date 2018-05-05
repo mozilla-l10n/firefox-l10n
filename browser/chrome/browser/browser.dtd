@@ -129,7 +129,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "הצגת כל הלשוניות">
 <!ENTITY showAllTabsCmd.accesskey "כ">
 <!ENTITY toggleReaderMode.key "R">
-
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "התחברות אל &syncBrand.shortName.label;">
@@ -189,10 +188,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "סימניות אחרות">
 <!ENTITY mobileBookmarksCmd.label "סימניות מהנייד">
 <!ENTITY bookmarksToolbarChevron.tooltip "הצגת סימניות נוספות">
-<!ENTITY showRecentlyBookmarked.label     "הצגת סימניות שנוספו לאחרונה">
-<!ENTITY showRecentlyBookmarked.accesskey "צ">
-<!ENTITY hideRecentlyBookmarked.label     "הסתרת סימניות שנוספו לאחרונה">
-<!ENTITY hideRecentlyBookmarked.accesskey "ס">
 
 <!ENTITY backCmd.label                "אחורה">
 <!ENTITY backCmd.accesskey            "ז">
@@ -234,7 +229,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "תרגום עמוד זה">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "ניהול תרגומי עמודים">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "ניהול השימוש בתכניות DRM">
-
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "פתיחת לוח MIDI">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "חסמת את המצלמה שלך מפני אתר זה.">
@@ -245,7 +239,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "חסמת את האתר הזה משמירת נתונים קבועים.">
 <!ENTITY urlbar.popupBlocked.tooltip             "חסמת חלונות קופצים עבור אתר זה.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "חילוץ נתוני משטחי ציור עבור אתר זה נחסמה.">
-
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "חסמת מפני האתר הזה את האפשרות להשתמש בתוסף החיצוני Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "חסמת גישת MIDI לאתר זה.">
 
@@ -395,7 +388,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "להציג כאן את הלשוניות שלך מהתקנים אחרים?">
-<!ENTITY appMenuRemoteTabs.openprefs.label "העדפות Sync">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "פתיחת העדפות Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "יש להיכנס כדי לצפות ברשימת הלשוניות שלך מהתקנים אחרים.">
 <!ENTITY appMenuRemoteTabs.unverified.label "יש לאמת את החשבון שלך.">
@@ -444,7 +436,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "חפש או הכנס כתובת">
-<!ENTITY urlbar.placeholder3          "נא להקליד כאן ביטויים לחיפוש וכתובות">
 <!ENTITY urlbar.accesskey             "ח">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "הרחבה:">
@@ -988,14 +979,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "ל">
 <!ENTITY updateRestart.panelUI.label2 "הפעלה מחדש לעדכון &brandShorterName;">
 
-<!ENTITY newTabControlled.message "הרחבה שינתה את הדף המופיע בעת פתיחת לשונית חדשה. ניתן לשחזר את ההגדרות שלך אם שינוי זה אינו רצוי.">
-
 <!ENTITY newTabControlled.header.message "הלשונית החדשה שלך השתנתה.">
 <!ENTITY newTabControlled.keepButton.label "להשאיר שינויים">
 <!ENTITY newTabControlled.keepButton.accesskey "ש">
-<!ENTITY newTabControlled.restoreButton.label "לשחזר הגדרות">
-<!ENTITY newTabControlled.restoreButton.accesskey "ה">
-
 <!ENTITY newTabControlled.disableButton.label "נטרול הרחבה">
 <!ENTITY newTabControlled.disableButton.accesskey "נ">
 
@@ -1005,6 +991,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.keepButton.accesskey "ש">
 <!ENTITY homepageControlled.disableButton.label "השבתת הרחבה">
 <!ENTITY homepageControlled.disableButton.accesskey "ר">
+
+<!ENTITY tabHideControlled.header.message "גישה ללשוניות המוסתרות שלך">
+<!ENTITY tabHideControlled.keepButton.label "להשאיר את הלשוניות מוסתרות">
+<!ENTITY tabHideControlled.keepButton.accesskey "ש">
+<!ENTITY tabHideControlled.disableButton.label "השבתת הרחבה">
+<!ENTITY tabHideControlled.disableButton.accesskey "ב">
 
 <!ENTITY pageActionButton.tooltip "פעולות דף">
 <!ENTITY pageAction.addToUrlbar.label "הוספה לשורת הכתובת">
