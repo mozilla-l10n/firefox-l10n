@@ -13,6 +13,7 @@
 -->
 
 <!ENTITY  browsingProtection.label        "תוכן מטעה והגנת תוכנה מסוכנת">
+
 <!ENTITY  enableSafeBrowsing.label        "חסימת תוכן מסוכן ומטעה">
 <!ENTITY  enableSafeBrowsing.accesskey    "ת">
 

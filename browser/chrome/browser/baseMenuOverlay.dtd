@@ -28,9 +28,6 @@
 <!ENTITY helpSafeMode.stop.label       "הפעלה מחדש עם תוספות פעילות">
 <!ENTITY helpSafeMode.stop.accesskey   "ח">
 
-<!ENTITY healthReport2.label      "דיווח בריאות עבור &brandShorterName;">
-<!ENTITY healthReport2.accesskey  "ב">
-
 <!ENTITY helpTroubleshootingInfo.label      "מידע לפתרון בעיות">
 <!ENTITY helpTroubleshootingInfo.accesskey  "מ">
 
