@@ -129,7 +129,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "सभी टैब दिखाएँ">
 <!ENTITY showAllTabsCmd.accesskey "A">
 <!ENTITY toggleReaderMode.key "R">
-
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; में साइन इन करें">
@@ -189,10 +188,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "अन्य पुस्तचिह्न">
 <!ENTITY mobileBookmarksCmd.label "मोबाइल पुस्तचिह्न">
 <!ENTITY bookmarksToolbarChevron.tooltip "अधिक पुस्तचिह्न दिखाएँ">
-<!ENTITY showRecentlyBookmarked.label     "हाल के पुस्तचिह्नित दिखाएँ">
-<!ENTITY showRecentlyBookmarked.accesskey "h">
-<!ENTITY hideRecentlyBookmarked.label     "हाल के पुस्तचिह्नित छिपायें">
-<!ENTITY hideRecentlyBookmarked.accesskey "H">
 
 <!ENTITY backCmd.label                "पीछे">
 <!ENTITY backCmd.accesskey            "B">
@@ -233,7 +228,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "इस पृष्ठ का अनुवाद करें">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "पृष्ठ अनुवाद प्रंबंधित करें">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM सॉफ्टवेयर का उपयोग प्रबंधित करे">
-
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "MIDI पैनल खोलें">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "आप इस वेबसाइट के लिए अपने कैमरा को अवरूद्ध किये हैं.">
@@ -244,7 +238,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "आपने इस वेबसाइट के लिए सतत संग्रहण को अवरुद्ध किया है.">
 <!ENTITY urlbar.popupBlocked.tooltip             "आपने इस वेबसाइट पर पॉप-अप अवरुद्ध किए हैं.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "आपने इस वेबसाइट के लिए कैनवास डेटा निष्कर्षण को अवरोधित किया है.">
-
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "आपने Adobe Flash plugin का प्रयोग कर इस वेबसाइट को अवरुद्ध कर दिया है.">
 <!ENTITY urlbar.midiBlocked.tooltip              "आपने इस वेबसाइट के लिए MIDI उपयोग अवरुद्ध कर दिया है.">
 
@@ -393,7 +386,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "यहाँ अन्य डिवाइस से अपना टैब देखना चाहते हैं?">
-<!ENTITY appMenuRemoteTabs.openprefs.label "प्राथमिकताएँ सिंक कीजिए">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "सिंक प्राथमिकतायें खोलें">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "टैब्स की सूची देखने के लिए अपने दुसरे उपकरणों से साइन इन करें.">
 <!ENTITY appMenuRemoteTabs.unverified.label "आपके खाते की पृष्टि करने की आवश्यकता है.">
@@ -442,7 +434,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "खोजें या पता दर्ज करें">
-<!ENTITY urlbar.placeholder3          "खोज शब्दों और पते यहाँ दर्ज करें">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "विस्तारक:">
@@ -986,14 +977,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName; अद्यतन करने के लिए पुन: प्रारंभ करें">
 
-<!ENTITY newTabControlled.message "किसी एक्सटेंशन ने वह पेज बदल दिया है जिसे आप नया टैब खोलते समय देखते हैं. यदि आप यह परिवर्तन नहीं चाहते हैं, तो आप अपनी सेटिंग पुनर्स्थापित कर सकते हैं.">
-
 <!ENTITY newTabControlled.header.message "आपका नया टैब बदल गया है.">
 <!ENTITY newTabControlled.keepButton.label "परिवर्तन रखें">
 <!ENTITY newTabControlled.keepButton.accesskey "K">
-<!ENTITY newTabControlled.restoreButton.label "सेटिंग्स पुनर्स्थापित करें">
-<!ENTITY newTabControlled.restoreButton.accesskey "R">
-
 <!ENTITY newTabControlled.disableButton.label "एक्सटेंशन अक्षम करें">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
@@ -1003,6 +989,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.keepButton.accesskey "K">
 <!ENTITY homepageControlled.disableButton.label "एक्सटेंशन निष्क्रिय करें">
 <!ENTITY homepageControlled.disableButton.accesskey "D">
+
+<!ENTITY tabHideControlled.header.message "अपने गुप्त टैब तक पहुंचें">
+<!ENTITY tabHideControlled.keepButton.label "टैबों को गुप्त रखें">
+<!ENTITY tabHideControlled.keepButton.accesskey "K">
+<!ENTITY tabHideControlled.disableButton.label "एक्सटेंशन अक्षम करें">
+<!ENTITY tabHideControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "पृष्ठ क्रियाएँ">
 <!ENTITY pageAction.addToUrlbar.label "पतापट्टी में जोड़े">
