@@ -129,7 +129,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Показати всі вкладки">
 <!ENTITY showAllTabsCmd.accesskey "в">
 <!ENTITY toggleReaderMode.key "R">
-
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "Увійти в Синхронізацію">
@@ -189,10 +188,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Інші закладки">
 <!ENTITY mobileBookmarksCmd.label "Мобільні закладки">
 <!ENTITY bookmarksToolbarChevron.tooltip "Показати інші закладки">
-<!ENTITY showRecentlyBookmarked.label     "Показати останні закладки">
-<!ENTITY showRecentlyBookmarked.accesskey "о">
-<!ENTITY hideRecentlyBookmarked.label     "Приховати останні закладки">
-<!ENTITY hideRecentlyBookmarked.accesskey "х">
 
 <!ENTITY backCmd.label                "Назад">
 <!ENTITY backCmd.accesskey            "Н">
@@ -234,7 +229,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Перекласти цю сторінку">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Керувати перекладом сторінок">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Керувати використанням програмного забезпечення DRM">
-
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Відкрити MIDI панель">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Ви заблокували камеру для цього веб-сайту.">
@@ -245,7 +239,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Ви заблокували постійне сховище для цього веб-сайту.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Ви заблокували виринаючі вікна для цього веб-сайту.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Ви заблокували видобування даних canvas для цього веб-сайту.">
-
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Ви заборонили використання Adobe Flash на цьому сайті.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Ви заблокували MIDI доступ для цього веб-сайту.">
 
@@ -395,7 +388,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Хочете побачити тут свої вкладки з інших пристроїв?">
-<!ENTITY appMenuRemoteTabs.openprefs.label "Налаштування синхронізації">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Відкрити налаштування синхронізації">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Увійдіть, щоб переглядати список вкладок з інших ваших пристроїв.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Ваш обліковий запис потребує підтвердження.">
@@ -444,7 +436,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Введіть пошуковий запит чи адресу">
-<!ENTITY urlbar.placeholder3          "Вводьте пошукові запити й адреси тут">
 <!ENTITY urlbar.accesskey             "с">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Розширення:">
@@ -988,14 +979,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "Н">
 <!ENTITY updateRestart.panelUI.label2 "Перезапуск для оновлення &brandShorterName;">
 
-<!ENTITY newTabControlled.message "Розширення змінило сторінку, яку ви бачите, коли ви відкрили нову вкладку. Якщо ви не хочете цих змін, ви можете відновити налаштування.">
-
 <!ENTITY newTabControlled.header.message "Ваша нова вкладка була змінена.">
 <!ENTITY newTabControlled.keepButton.label "Зберегти зміни">
 <!ENTITY newTabControlled.keepButton.accesskey "б">
-<!ENTITY newTabControlled.restoreButton.label "Відновити налаштування">
-<!ENTITY newTabControlled.restoreButton.accesskey "н">
-
 <!ENTITY newTabControlled.disableButton.label "Вимкнути розширення">
 <!ENTITY newTabControlled.disableButton.accesskey "м">
 
@@ -1005,6 +991,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.keepButton.accesskey "б">
 <!ENTITY homepageControlled.disableButton.label "Вимкнути розширення">
 <!ENTITY homepageControlled.disableButton.accesskey "В">
+
+<!ENTITY tabHideControlled.header.message "Доступ до ваших прихованих вкладок">
+<!ENTITY tabHideControlled.keepButton.label "Продовжити приховувати вкладки">
+<!ENTITY tabHideControlled.keepButton.accesskey "х">
+<!ENTITY tabHideControlled.disableButton.label "Вимкнути розширення">
+<!ENTITY tabHideControlled.disableButton.accesskey "к">
 
 <!ENTITY pageActionButton.tooltip "Дії сторінки">
 <!ENTITY pageAction.addToUrlbar.label "Додати до панелі адреси">
