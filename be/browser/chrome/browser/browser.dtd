@@ -992,6 +992,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.disableButton.label "Адключыць пашырэнне">
 <!ENTITY homepageControlled.disableButton.accesskey "А">
 
+<!ENTITY tabHideControlled.header.message "Доступ да схаваных картак">
+<!ENTITY tabHideControlled.keepButton.label "Трымаць карткі схаванымі">
+<!ENTITY tabHideControlled.keepButton.accesskey "Т">
+<!ENTITY tabHideControlled.disableButton.label "Адключыць пашырэнне">
+<!ENTITY tabHideControlled.disableButton.accesskey "А">
+
 <!ENTITY pageActionButton.tooltip "Дзеянні старонкі">
 <!ENTITY pageAction.addToUrlbar.label "Дадаць у адрасны радок">
 <!ENTITY pageAction.removeFromUrlbar.label "Выдаліць з адраснага радка">
