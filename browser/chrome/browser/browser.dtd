@@ -992,7 +992,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.disableButton.label "Inaktivera tillägg">
 <!ENTITY homepageControlled.disableButton.accesskey "n">
 
+<!ENTITY tabHideControlled.header.message "Öppna dina dolda flikar">
+<!ENTITY tabHideControlled.keepButton.label "Håll flikar gömda">
+<!ENTITY tabHideControlled.keepButton.accesskey "H">
 <!ENTITY tabHideControlled.disableButton.label "Inaktivera tillägg">
+<!ENTITY tabHideControlled.disableButton.accesskey "n">
 
 <!ENTITY pageActionButton.tooltip "Åtgärder för sida">
 <!ENTITY pageAction.addToUrlbar.label "Lägg till i adressfältet">
