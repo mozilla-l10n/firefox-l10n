@@ -10,6 +10,7 @@
 <!ENTITY engine.tabs.accesskey      "L">
 <!ENTITY engine.history.label       "Historial">
 <!ENTITY engine.history.accesskey   "r">
+<!ENTITY engine.logins.title        "Nomes de usuario e contrasinais que gardou">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, used as the checkbox which indicates if prefs are synced

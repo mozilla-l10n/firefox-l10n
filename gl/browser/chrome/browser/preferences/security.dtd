@@ -12,6 +12,7 @@
 
 
 
+
 <!ENTITY  addonExceptions.label         "Excepcións…">
 <!ENTITY  addonExceptions.accesskey     "E">
 
@@ -26,5 +27,5 @@
 <!ENTITY  changeMasterPassword.label     "Modificar o contrasinal principal…">
 <!ENTITY  changeMasterPassword.accesskey "M">
 
-<!ENTITY  savedLogins.label              "Gardáronse as identificacións…">
+<!ENTITY  savedLogins.label              "Identificacións gardadas…">
 <!ENTITY  savedLogins.accesskey          "G">
