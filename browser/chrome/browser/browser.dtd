@@ -992,7 +992,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.disableButton.label "Desactivar extensión">
 <!ENTITY homepageControlled.disableButton.accesskey "D">
 
+<!ENTITY tabHideControlled.header.message "Acceder a sus pestañas ocultas">
+<!ENTITY tabHideControlled.keepButton.label "Mantener pestañas ocultas">
+<!ENTITY tabHideControlled.keepButton.accesskey "M">
 <!ENTITY tabHideControlled.disableButton.label "Deshabilitar extensión">
+<!ENTITY tabHideControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "Acciones con la página">
 <!ENTITY pageAction.addToUrlbar.label "Añadir a la barra de direcciones">
