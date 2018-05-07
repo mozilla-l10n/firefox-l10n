@@ -14,8 +14,8 @@
 <!ENTITY aboutTelemetry.optionGroupOlder "Older">
 <!ENTITY aboutTelemetry.payloadChoiceHeader "Payload">
 <!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
-        These strings are displayed when selecting Archived pings, and they’re
-        used to move to the next or previous ping. -->
+	These strings are displayed when selecting Archived pings, and they’re
+	used to move to the next or previous ping. -->
 <!ENTITY aboutTelemetry.previousPing "&lt;&lt;">
 <!ENTITY aboutTelemetry.nextPing "&gt;&gt;">
 
@@ -23,7 +23,7 @@
 <!ENTITY aboutTelemetry.moreInformations "Looking for more information?">
 <!ENTITY aboutTelemetry.firefoxDataDoc "The <a>Firefox Data Documentation</a> contains guides about how to work with our data tools.">
 <!ENTITY aboutTelemetry.telemetryClientDoc "The <a>Firefox Telemetry client documentation</a> includes definitions for concepts, API documentation and data references.">
-<!ENTITY aboutTelemetry.telemetryDashboard "The <a>Telemetry dashboards</a> allow you to visualise the data Mozilla receives via Telemetry.">
+<!ENTITY aboutTelemetry.telemetryDashboard "The <a>Telemetry dashboards</a> allow you to visualize the data Mozilla receives via Telemetry.">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Open in the JSON viewer">
 
