@@ -60,6 +60,8 @@
 <!ENTITY Home.accesskey                 "O">
 <!ENTITY HomeAddress.label              "Naslov:">
 <!ENTITY HomeAddress.accesskey          "N">
+<!ENTITY HomeAddress2.label             "">
+<!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "Mesto:">
 <!ENTITY HomeCity.accesskey             "M">
 <!ENTITY HomeState.label                "Pokrajina:">
@@ -72,9 +74,11 @@
 <!ENTITY HomeWebPage.accesskey          "s">
 <!ENTITY Birthday.label                 "Datum rojstva:">
 <!ENTITY Birthday.accesskey             "r">
+<!ENTITY In.label                       "">
 <!ENTITY Year.placeholder               "leto">
 <!ENTITY Or.value                       "ali">
 <!ENTITY Age.placeholder                "starost">
+<!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Služba">
 <!ENTITY Work.accesskey                 "ž">
@@ -86,6 +90,8 @@
 <!ENTITY Company.accesskey              "c">
 <!ENTITY WorkAddress.label              "Naslov:">
 <!ENTITY WorkAddress.accesskey          "N">
+<!ENTITY WorkAddress2.label             "">
+<!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label                 "Mesto:">
 <!ENTITY WorkCity.accesskey             "M">
 <!ENTITY WorkState.label                "Pokrajina:">
