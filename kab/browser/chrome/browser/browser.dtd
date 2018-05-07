@@ -987,6 +987,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.disableButton.label "Sens aseɣzif">
 <!ENTITY homepageControlled.disableButton.accesskey "D">
 
+<!ENTITY tabHideControlled.keepButton.label "Eǧǧ iccaren fren">
+<!ENTITY tabHideControlled.disableButton.label "Sens aseɣzif">
 
 <!ENTITY pageActionButton.tooltip "Asebter n tigawin">
 <!ENTITY pageAction.addToUrlbar.label "Rnu ɣeṛ yimedlis n tansa">
