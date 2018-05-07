@@ -178,7 +178,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY dirTreeHeader.label                            "Imeniki">
 
 <!-- Search Bar -->
-<!ENTITY SearchNameOrEmail.label                        "Ime ali E-pošta">
+<!ENTITY SearchNameOrEmail.label                        "Ime ali e-pošta">
 <!ENTITY SearchNameOrEmail.accesskey                    "m">
 <!ENTITY advancedButton.tooltip                         "Napredno iskanje naslovov">
 <!ENTITY quickSearchCmd.key                             "k">
