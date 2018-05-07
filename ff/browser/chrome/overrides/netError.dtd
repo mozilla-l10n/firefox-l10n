@@ -130,8 +130,7 @@ was trying to connect. -->
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> ena huutoroo teknolojii kiiɗtuɗo kadi beeɓɗo janngol. Ena weeɓana janyano saaktude humpito ngo cikkataa ena hisi. Maa jiiloowo oo feewnita sarworde ndee hade maa waawde yillaade lowre ndee.</p><p>Dokkol juumre: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
-<!ENTITY blockedByPolicyTemp.title "Hello Daaƴaango">
-<!ENTITY blockedByPolicyTemp.longDesc "<p>Ko jiiloowo maa daaƴi jettagol ngol.</p>">
+<!ENTITY blockedByPolicy.title "Hello Daaƴaango">
 
 <!ENTITY prefReset.longDesc "Ena wayi hono teelte kisal laylaytol maa gaddata ɗee caɗe. Aɗa yiɗi artirde teelte goowaaɗe ɗee?">
 <!ENTITY prefReset.label "Artir teelte goowaaɗe">
