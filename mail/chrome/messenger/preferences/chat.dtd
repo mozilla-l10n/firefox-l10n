@@ -2,17 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  generalTab.label            "General">
+
 <!ENTITY  startupAction.label         "Când &brandShortName; pornește:">
 <!ENTITY  startupAction.accesskey     "p">
 <!ENTITY  startupOffline.label        "Păstrează-mi conturile de chat deconectate">
 <!ENTITY  startupConnectAuto.label    "Conectează-mă automat la conturile de chat">
+
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
 there's a field where the user can enter a number, and itemTime is
 displayed at the end of the line. The translations of the
 reportIdleAfter.label and idleTime parts don't have to mean the exact
 same thing as in English; please try instead to translate the whole
 sentence. -->
-
 <!ENTITY  reportIdleAfter.label         "Permite contactelor să știe când sunt inactiv după">
 <!ENTITY  reportIdleAfter.accesskey     "P">
 <!ENTITY  idleTime                      "minute de inactivitate">
@@ -40,3 +42,10 @@ sentence. -->
 <!ENTITY  browse.label                        "Răsfoiește…">
 <!ENTITY  browse.accesskey                    "f">
 
+<!ENTITY messageStyleTab.title             "Stilurile mesajului">
+<!ENTITY messageStylePreview.label         "Previzualizare:">
+<!ENTITY messageStyleTheme.label           "Temă:">
+<!ENTITY messageStyleTheme.accesskey       "T">
+<!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
+<!ENTITY messageStyleBubblesTheme.label    "Bule">
+<!ENTITY messageStyleDarkTheme.label       "Întunecată">

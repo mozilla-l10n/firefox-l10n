@@ -1,40 +1,41 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Subscription Dialog -->
 
+<!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "Abonamente la fluxuri">
 <!ENTITY learnMore.label             "Aflați mai multe despre fluxuri">
 
 <!ENTITY feedTitle.label             "Titlu:">
 <!ENTITY feedTitle.accesskey         "T">
 
-
-<!ENTITY feedLocation.placeholder    "Introduceți un url de flux valid pentru a fi adăugat">
+<!ENTITY feedLocation.label          "URL-ul fluxului:">
+<!ENTITY feedLocation2.placeholder   "Introduceți un url de flux valid">
 <!ENTITY locationValidate.label      "Validează">
 <!ENTITY validateText.label          "Verifică validarea și obține o adresă web corectă.">
 
 <!ENTITY feedFolder.label            "Stochează articolele în:">
 <!ENTITY feedFolder.accesskey        "S">
+
 <!-- Account Settings and Subscription Dialog -->
-
-
-
-
-
-
+<!ENTITY biffStart.label             "Verificați existența articolelor noi la fiecare ">
+<!ENTITY biffMinutes.label           "minute">
+<!ENTITY biffMinutes.accesskey       "n">
+<!ENTITY biffDays.label              "zile">
+<!ENTITY biffDays.accesskey          "z">
 
 <!ENTITY quickMode.label             "Arată sumarul articolului în loc de a încărca pagina web">
 <!ENTITY quickMode.accesskey         "u">
 
-
 <!ENTITY autotagUsePrefix.label      "Prefixare etichete cu:">
 <!ENTITY autotagUsePrefix.accesskey  "P">
 <!ENTITY autoTagPrefix.placeholder   "Introduceți un prefix de etichetă">
-<!-- Subscription Dialog -->
 
+<!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Adaugă">
 <!ENTITY button.addFeed.accesskey    "A">
+<!ENTITY button.verifyFeed.label     "Verifică">
+<!ENTITY button.verifyFeed.accesskey "V">
 <!ENTITY button.updateFeed.label     "Modifică">
 <!ENTITY button.updateFeed.accesskey "M">
 <!ENTITY button.removeFeed.label     "Șterge">

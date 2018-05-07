@@ -4,9 +4,9 @@
 
 <!ENTITY attachmentReminderDialog.title   "Cuvinte cheie pentru verificarea lipsei atașamentelor">
 <!ENTITY attachKeywordText.label          "&brandShortName; vă va avertiza dacă ați uitat să atașați fișierele pe baza cuvintelor cheie de aici care sunt găsite în mesaj.">
-
-
-
-
+<!ENTITY newKeywordButton.label           "Nou…">
+<!ENTITY newKeywordButton.accesskey       "N">
+<!ENTITY editKeywordButton1.label         "Editează…">
+<!ENTITY editKeywordButton1.accesskey     "E">
 <!ENTITY removeKeywordButton.label        "Șterge">
 <!ENTITY removeKeywordButton.accesskey    "t">

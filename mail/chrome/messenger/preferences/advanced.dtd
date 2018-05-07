@@ -11,6 +11,7 @@
 <!-- General Settings -->
 <!ENTITY enableGlodaSearch.label       "Activează căutarea globală și indexarea">
 <!ENTITY enableGlodaSearch.accesskey   "i">
+<!ENTITY dateTimeFormatting.label      "Formatarea datei și a orei">
 <!ENTITY allowHWAccel.label            "Folosește accelerarea hardware când este disponibilă">
 <!ENTITY allowHWAccel.accesskey        "h">
 <!ENTITY storeType.label               "Tipul de stocare al mesajelor pentru conturile noi:">
@@ -56,12 +57,14 @@
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
   Please check for possible accesskey conflicts.
 -->
+<!ENTITY updateApp2.label                "Actualizări &brandShortName;">
 <!-- LOCALIZATION NOTE (updateApp.version.*): updateApp.version.pre is
   followed by a version number, keep the trailing space or replace it with
   a different character as needed. updateApp.version.post is displayed after
   the version number, and is empty on purpose for English. You can use it
   if required by your language.
  -->
+<!ENTITY updateApp.version.pre           "Versiunea ">
 <!ENTITY updateApp.version.post          "">
 <!ENTITY updateAuto.label                "Instalează actualizări automat (recomandat: securitate sporită)">
 <!ENTITY updateAuto.accesskey            "a">
@@ -99,6 +102,8 @@
 <!ENTITY useCacheBefore.label            "Utilizează până la">
 <!ENTITY useCacheBefore.accesskey        "U">
 <!ENTITY useCacheAfter.label             "MB de spațiu pentru cache">
+<!ENTITY overrideSmartCacheSize.label    "Înlocuiește gestionarea automată a cache-ului">
+<!ENTITY overrideSmartCacheSize.accesskey "v">
 <!ENTITY clearCacheNow.label             "Șterge acum">
 <!ENTITY clearCacheNow.accesskey         "c">
 
