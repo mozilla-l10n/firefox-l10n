@@ -6,7 +6,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "Problèma al moment de cargar la pagina">
-<!ENTITY retry.label "Tornatz ensajar">
+<!ENTITY retry.label "Tornar ensajar">
 <!ENTITY returnToPreviousPage.label "Tornar en arrièr">
 <!ENTITY advanced.label "Avançat">
 
@@ -58,8 +58,12 @@
 <!ENTITY notCached.title "Lo document a expirat">
 <!ENTITY notCached.longDesc "<p>Lo document demandat es pas mai disponible dins lo cache de &brandShortName;.</p><ul><li>Per mesura de seguretat, &brandShortName; tòrna pas demandar automaticament de documents sensibles.</li><li>Clicatz sus Tornar ensajar per tornar demandar aqueste document del site web.</li></ul>">
 
-<!ENTITY netOffline.title "Mòde sens connexion">
-<!ENTITY netOffline.longDesc2 "<ul> <li>Clicatz sul boton &quot;Ensajatz tornarmai&quot; per tornar en mòde connectat e recargar la pagina.</li> </ul>">
+<!ENTITY netOffline.title "Mòde fòra connexion">
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>Clicatz lo boton «Tornar ensajar» per tornar en mòde connectat e recargar la pagina.</li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.title "Error d'encodatge de contengut">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Contactatz lo webmèstre del site per l'assabentar d'aqueste problèma.</li> </ul>">
