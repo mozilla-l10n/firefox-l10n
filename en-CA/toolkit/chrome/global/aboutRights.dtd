@@ -5,6 +5,7 @@
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.title "About Your Rights">
 <!ENTITY rights.intro "&brandFullName; is free and open source software, built by a community of thousands from all over the world. There are a few things you should know:">
+
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
      split into chunks for text before the link, the link text, and the text
@@ -13,7 +14,6 @@
 
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
-
 <!ENTITY rights.intro-point1a "&brandShortName; is made available to you under the terms of the ">
 <!ENTITY rights.intro-point1b "Mozilla Public Licence">
 <!ENTITY rights.intro-point1c ". This means you may use, copy and distribute &brandShortName; to others.  You are also welcome to modify the source code of &brandShortName; as you want to meet your needs. The Mozilla Public Licence also gives you the right to distribute your modified versions.">
@@ -62,7 +62,7 @@
 <!ENTITY rights.safebrowsing-b "Disabling the Safe Browsing feature is not recommended as it may result in you going to unsafe sites.  If you wish to disable the feature completely, follow these steps:">
 <!ENTITY rights.safebrowsing-term1 "Open the application preferences">
 <!ENTITY rights.safebrowsing-term2 "Select the Security selection">
-<!ENTITY rights2.safebrowsing-term3 "Untick the option to &quot;&enableSafeBrowsing.label;&quot;">
+<!ENTITY rights2.safebrowsing-term3 "Uncheck the option to \&quot;&enableSafeBrowsing.label;\&quot;">
 <!ENTITY rights.safebrowsing-term4 "Safe Browsing is now disabled">
 
 <!-- location aware browsing points for branded builds -->
