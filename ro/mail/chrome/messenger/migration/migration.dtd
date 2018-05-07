@@ -7,7 +7,7 @@
 
 <!ENTITY importFromWin.label            "Opțiuni de import, setări de cont, agende de contacte, filtre și alte date din:">
 <!ENTITY importFromNonWin.label         "Importă preferințele, setările contului, agenda de contacte, filtrele și alte date din:">
-
+<!ENTITY importSourceNotFound.label     "Nu a fost găsită nici o aplicație din care să se importe date.">
 
 <!ENTITY importFromNothing.label        "Nu importa nimic">
 <!ENTITY importFromNothing.accesskey    "u">
