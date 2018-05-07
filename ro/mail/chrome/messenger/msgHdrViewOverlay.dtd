@@ -5,7 +5,7 @@
 <!ENTITY toField4.label "Către">
 <!ENTITY fromField4.label "De la">
 <!ENTITY senderField4.label "Expeditor">
-
+<!ENTITY author.label "Autor">
 <!ENTITY organizationField4.label "Organizația">
 <!ENTITY replyToField4.label "Răspuns la">
 
@@ -24,8 +24,8 @@
 
 <!ENTITY hdrArchiveButton1.label "Arhivează">
 <!ENTITY hdrArchiveButton1.tooltip "Arhivează acest mesaj">
-
-
+<!ENTITY hdrOpenConversationButton1.label "Conversație">
+<!ENTITY hdrOpenConversationButton1.tooltip "Arată conversația din care provine acest mesaj">
 <!ENTITY hdrSmartReplyButton1.label "Răspuns rapid">
 <!ENTITY hdrReplyButton1.label "Răspunde">
 <!ENTITY hdrReplyButton2.tooltip "Răspunde expeditorului acestui mesaj">
@@ -70,12 +70,12 @@
 <!ENTITY viewSourceMenuItem1.accesskey "V">
 <!ENTITY otherActionsPrint1.label "Tipărește…">
 <!ENTITY otherActionsPrint1.accesskey "p">
-<!-- Attachment bar context menu items -->
 
+<!-- Attachment bar context menu items -->
 <!ENTITY startExpandedCmd.label    "Initially Show Attachment Pane">
 <!ENTITY startExpandedCmd.accesskey    "S">
-<!-- Attachment context menu items -->
 
+<!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Deschide">
 <!ENTITY openAttachmentCmd.accesskey    "D">
 <!ENTITY saveAsAttachmentCmd.label    "Salvează ca…">
@@ -94,8 +94,8 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
 
 <!ENTITY openAttachment.tooltip "Deschide fișierul atașat">
-<!-- Attachment toolbar items -->
 
+<!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Salvează">
 <!ENTITY saveAttachmentButton1.tooltip     "Salvează fișierul atașat">
 <!ENTITY saveAllAttachmentsButton1.label   "Salvează tot">

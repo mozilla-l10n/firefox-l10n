@@ -18,8 +18,7 @@
 <!ENTITY accountsSectionHdr.label     "Conturi">
 <!ENTITY subscribeImapFolders.label   "Gestionează abonamentele la dosare">
 <!ENTITY settingsLink.label           "Vezi setările acestui cont">
-<!ENTITY newAcctLink.label            "Creează un cont nou">
-<!ENTITY newAcct.label                "Creați un cont nou:">
+<!ENTITY setupNewAcct.label           "Configurează un cont:">
 
 <!ENTITY advFeaturesSectionHdr.label  "Opțiuni avansate">
 <!ENTITY searchMsgsLink.label         "Caută mesaje">
