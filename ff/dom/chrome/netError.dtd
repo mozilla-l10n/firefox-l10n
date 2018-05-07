@@ -4,8 +4,8 @@
 
 <!ENTITY loadError.label "Juumre Loowgol Hello">
 <!ENTITY retry.label "Fuɗɗito">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Horiima Seŋaade">
 <!ENTITY connectionFailure.longDesc "<p>Ko goonga ndee lowre ena nanndi e feewnde, wanngorde ndee horiima naatde e mayre.</p><ul><li>Maa taw lowre ndee ko uddunde seeɗa? Fuɗɗito lo ɓooyii.</li><li>A horiima naatde e lowe goɗɗe?  Ƴeewto ceŋol ordinateer oo e laylaytol.</li><li>Mbar ordinateer maa suuraaki caggal ɓalal-jaynge walla proxy? Teelɗe ɗe peewaani ena mbaawi haɗde peeragol e geese.</li></ul>">
@@ -86,3 +86,5 @@
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> ena huutoroo teknolojii kiiɗtuɗo kadi beeɓɗo janngol. Ena weeɓana janyano saaktude humpito ngo cikkataa ena hisi. Maa jiiloowo oo feewnita sarworde ndee hade maa waawde yillaade lowre ndee.</p><p>Dokkol juumre: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY blockedByPolicy.title "Hello Daaƴaango">
