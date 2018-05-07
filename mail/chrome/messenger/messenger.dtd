@@ -4,8 +4,8 @@
 
 <!ENTITY titledefault.label "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
-<!-- File Menu -->
 
+<!-- File Menu -->
 <!ENTITY newFolderCmd.label "Dosar…">
 <!ENTITY newFolderCmd.accesskey "D">
 <!ENTITY closeTabCmd2.label "Închide fila">
@@ -36,6 +36,9 @@
 <!ENTITY newFeedAccountCmd.accesskey "f">
 <!ENTITY newIMContactCmd.label "Contact chat…">
 <!ENTITY newIMContactCmd.accesskey "C">
+<!ENTITY  newMessageCmd.label "Mesaj">
+<!ENTITY  newContactCmd.label "Contact în agendă…">
+<!ENTITY  newContactCmd.accesskey "C">
 <!ENTITY openMessageFileCmd.label "Deschide un mesaj salvat…">
 <!ENTITY openMessageFileCmd.accesskey "h">
 <!ENTITY saveAsMenu.label "Salvează ca">
@@ -51,8 +54,8 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "a">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Contul actual">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "c">
-
-
+<!ENTITY getNextNMsgCmd2.label "Obține următoarele mesaje de știri">
+<!ENTITY getNextNMsgCmd2.accesskey "t">
 <!ENTITY sendUnsentCmd.label "Trimite mesajele neexpediate">
 <!ENTITY sendUnsentCmd.accesskey "d">
 <!ENTITY subscribeCmd.label "Abonare…">
@@ -85,8 +88,8 @@
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printSetupCmd.label "Aranjare în pagină…">
 <!ENTITY printSetupCmd.accesskey "j">
-<!-- Edit Menu -->
 
+<!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Șterge mesajul">
 <!ENTITY deleteMsgCmd.accesskey "g">
 <!ENTITY undeleteMsgCmd.label "Recuperează mesajul șters">
@@ -126,8 +129,8 @@
 <!ENTITY undoDefaultCmd.accesskey "l">
 <!ENTITY redoDefaultCmd.label "Refă">
 <!ENTITY redoDefaultCmd.accesskey "R">
-<!-- View Menu -->
 
+<!-- View Menu -->
 <!ENTITY menubarCmd.label "Bara cu meniul">
 <!ENTITY menubarCmd.accesskey "m">
 <!ENTITY showMessengerToolbarCmd.label "Bară de unelte pentru corespondență">
@@ -164,11 +167,11 @@
 <!ENTITY recentFolders.accesskey "R">
 <!ENTITY compactVersion.label "Mod afișare compact">
 <!ENTITY compactVersion.accesskey "c">
-
-
+<!ENTITY folderPaneBar.label "Bara de unelte a panoului dosar">
+<!ENTITY folderPaneBar.accesskey "F">
+<!ENTITY folderModeSelector.label "Vizualizări dosare">
 
 <!-- Sort Menu -->
-
 <!ENTITY sortMenu.label "Sortează după">
 <!ENTITY sortMenu.accesskey "S">
 <!ENTITY sortByDateCmd.label "Dată">
@@ -195,8 +198,8 @@
 <!ENTITY sortByFromCmd.accesskey "E">
 <!ENTITY sortByRecipientCmd.label "Destinatar">
 <!ENTITY sortByRecipientCmd.accesskey "t">
-
-
+<!ENTITY sortByCorrespondentCmd.label "Corespondenți">
+<!ENTITY sortByCorrespondentCmd.accesskey "n">
 <!ENTITY sortByUnreadCmd.label "Citire">
 <!ENTITY sortByUnreadCmd.accesskey "r">
 <!ENTITY sortByOrderReceivedCmd.label "Ordinea primirii">
@@ -266,8 +269,8 @@
 <!ENTITY pageSourceCmd.key "U">
 <!ENTITY getNewMessagesCmd.key "y">
 <!ENTITY getAllNewMessagesCmd.key "Y">
-<!-- Search Menu -->
 
+<!-- Search Menu -->
 <!ENTITY findMenu.label "Găsește">
 <!ENTITY findMenu.accesskey "G">
 <!ENTITY findCmd.label "Găsește în acest mesaj…">
@@ -284,8 +287,8 @@
 <!ENTITY searchMailCmd.key "F">
 <!ENTITY searchAddressesCmd.label "Caută adrese…">
 <!ENTITY searchAddressesCmd.accesskey "s">
-<!-- Go Menu -->
 
+<!-- Go Menu -->
 <!ENTITY goMenu.label "Mergi">
 <!ENTITY goMenu.accesskey "M">
 <!ENTITY nextMenu.label "La următorul">
@@ -317,7 +320,7 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Chat">
 <!ENTITY goChatCmd.accesskey "h">
-<!ENTITY goChatCmd.key "h">
+<!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Mesaj cu steluță">
 <!ENTITY prevStarredMsgCmd.accesskey "s">
 <!ENTITY folderMenu.label "Dosar">
@@ -326,8 +329,8 @@
 <!ENTITY goRecentlyClosedTabs.accesskey "r">
 <!ENTITY startPageCmd.label "Pagina de start a contului">
 <!ENTITY startPageCmd.accesskey "s">
-<!-- Message Menu -->
 
+<!-- Message Menu -->
 <!ENTITY msgMenu.label "Mesaj">
 <!ENTITY msgMenu.accesskey "M">
 <!ENTITY newMsgCmd.label "Mesaj nou">
@@ -366,6 +369,9 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Editează mesajele ciornă">
 <!ENTITY editDraftMsgCmd.accesskey "d">
+<!ENTITY editTemplateMsgCmd.label "Editare șablon">
+<!ENTITY newMsgFromTemplateCmd.label "Mesaj nou bazat pe șablon">
+<!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Creează filtru din mesaj…">
 <!ENTITY createFilter.accesskey "a">
 <!ENTITY moveMsgToMenu.label "Mută în">
@@ -443,11 +449,11 @@
 <!ENTITY openFeedSummary.accesskey "s">
 <!ENTITY openFeedWebPageInMP.label "Alternează pagina web și sumarul în panoul de mesaj">
 <!ENTITY openFeedWebPageInMP.accesskey "t">
+
 <!-- Windows Menu -->
-
 <!ENTITY windowMenu.label "Fereastră">
-<!-- Tools Menu -->
 
+<!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Unelte">
 <!ENTITY tasksMenu.accesskey "t">
 <!ENTITY messengerCmd.label "Corespondență și grupuri de discuții">
@@ -457,6 +463,11 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Suplimente">
 <!ENTITY addons.accesskey "S">
+<!ENTITY addonPrefs.label "Opțiuni suplimente">
+<!ENTITY addonPrefs.accesskey "O">
+<!ENTITY addonPrefsUnix.label "Preferințe suplimente">
+<!ENTITY addonPrefsUnix.accesskey "P">
+<!ENTITY addonNoPrefs.label "Nu au fost găsite setările de supliment.">
 <!ENTITY activitymanager.label "Gestionar de activitate">
 <!ENTITY activitymanager.accesskey "a">
 <!ENTITY imAccountsStatus.label "Stare chat">
@@ -493,28 +504,29 @@
      on Unix systems
   -->
 <!ENTITY accountManagerCmdUnix2.accesskey "A">
+
 <!-- Developer Tools Submenu -->
-
-
-
-
-
-
-
-
+<!ENTITY devtoolsMenu.label "Instrumente de dezvoltare">
+<!ENTITY devtoolsMenu.accesskey "e">
+<!ENTITY devToolboxCmd.label "Cutia de unelte pentru dezvoltatori">
+<!ENTITY debugAddonsCmd.label "Depanează suplimente">
+<!ENTITY tabsDebugCmd.label "Depanator cadru de conținut">
 <!ENTITY errorConsoleCmd.label "Consolă de erori">
 <!ENTITY errorConsoleCmd.accesskey "e">
 <!ENTITY errorConsoleCmd.commandkey "j">
-
+<!ENTITY scratchpadCmd.label "Ciornă">
+<!ENTITY scratchpadCmd.accesskey "S">
 
 <!--LOCALIZATION NOTE (scratchpadCmd.keycode):
     This should be a key code constant as per
     https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
     (but without the DOM_ prefix) -->
+<!ENTITY scratchpadCmd.keycode "VK_F4">
 <!--LOCALIZATION NOTE (scratchpadCmd.keytext):
     This should be the text printed on the key defined in the previous string. -->
-<!-- Mail Toolbar -->
+<!ENTITY scratchpadCmd.keytext "F4">
 
+<!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "Adu mesajele">
 <!ENTITY newMsgButton.label "Scrie">
 <!ENTITY replyButton.label "Răspunde">
@@ -523,7 +535,7 @@
 <!ENTITY forwardButton.label "Redirecționează">
 <!ENTITY fileButton.label "Îndosariază">
 <!ENTITY archiveButton.label "Arhivează">
-
+<!ENTITY openConversationButton.label "Conversație">
 <!ENTITY nextButton.label "Următorul">
 <!ENTITY nextButtonToolbarItem.label "Următorul necitit">
 <!ENTITY nextMsgButton.label "Următor">
@@ -551,8 +563,8 @@
 <!ENTITY tagButton.label "Etichetă">
 <!ENTITY compactButton.label "Compactează">
 <!ENTITY appmenuButton.label "Meniu aplicație">
-<!-- Mail Toolbar Tooltips-->
 
+<!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Căutare avansată în mesaje">
 <!ENTITY getMsgButton.tooltip "Ia mesajele noi de pe server">
 <!ENTITY getAllNewMsgCmd.label "Toate conturile">
@@ -566,7 +578,7 @@
 <!ENTITY forwardAsAttachment.tooltip "Redirecționează ca un atașament mesajul selectat">
 <!ENTITY fileButton.tooltip "Îndosariază mesajul selectat">
 <!ENTITY archiveButton.tooltip "Arhivează mesajele selectate">
-
+<!ENTITY openConversationButton.tooltip "Arată conversația mesajului selectat">
 <!ENTITY nextButton.tooltip "Trece la următorul mesaj necitit">
 <!ENTITY nextMsgButton.tooltip "Mergi la următorul mesaj">
 <!ENTITY previousButton.tooltip "Treci la precedentul mesaj necitit">
@@ -585,53 +597,53 @@
 <!ENTITY tagButton.tooltip "Etichetează mesaje">
 <!ENTITY compactButton.tooltip "Elimină mesajele șterse din dosarul selectat">
 <!ENTITY appmenuButton1.tooltip "Afișare meniu &brandShortName;">
-<!-- Toolbar Button Popup -->
 
+<!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Redirecționează intercalat">
 <!ENTITY buttonMenuForwardAsAttachment.label "Redirecționați ca atașament">
-<!-- Remote Content Button Popup -->
 
+<!-- Remote Content Button Popup -->
 <!ENTITY remoteContentOptionsAllowForMsg.label "Afișează conținutul de la distanță în acest mesaj">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "s">
 <!ENTITY editRemoteContentSettings.label "Editează opțiunile de la distanță pentru conținut…">
 <!ENTITY editRemoteContentSettings.accesskey "E">
 <!ENTITY editRemoteContentSettingsUnix.label "Editează preferințele de la distanță pentru conținut…">
 <!ENTITY editRemoteContentSettingsUnix.accesskey "E">
-<!-- Phishing Button Popup -->
 
+<!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Ignoră avertismentul pentru acest mesaj">
 <!ENTITY phishingOptionIgnore.accesskey "n">
 <!ENTITY phishingOptionSettings.label "Editează opțiunile pentru detectarea de înșelătorii…">
 <!ENTITY phishingOptionSettings.accesskey "d">
 <!ENTITY phishingOptionSettingsUnix.label "Editează preferințele pentru detectarea de înșelătorii…">
 <!ENTITY phishingOptionSettingsUnix.accesskey "d">
-<!-- AppMenu Popup -->
 
+<!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Mesaj nou">
 <!ENTITY appmenuNewContactCmd.label "Contact în agendă…">
 <!ENTITY appmenuEditMenu.label "Editare">
 <!ENTITY appmenuToolbarLayout.label "Aranjamentul barei de unelte…">
 <!ENTITY appmenuSelectThread.label "Selectează firul">
 <!ENTITY appmenuSelectFlagged.label "Selectează mesajele cu steluță">
-<!-- Tags Menu Popup -->
 
+<!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Etichetă nouă…">
 <!ENTITY addNewTag.accesskey "n">
 <!ENTITY manageTags.label "Gestionează etichete…">
 <!ENTITY manageTags.accesskey "M">
-<!-- Folder Pane -->
 
+<!-- Folder Pane -->
 <!ENTITY folderNameColumn.label "Nume">
 <!ENTITY folderUnreadColumn.label "Necitite">
 <!ENTITY folderTotalColumn.label "Total">
 <!ENTITY folderSizeColumn.label "Dimensiune">
-<!-- Folder Pane Context Menu -->
 
+<!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Adu mesajele">
 <!ENTITY folderContextGetMessages.accesskey "A">
-
-
-
+<!ENTITY folderContextMarkAllFoldersRead.label "Marchează toate dosarele ca fiind citite">
+<!ENTITY folderContextPauseAllUpdates.label "Pune pe pauză toate actualizările">
+<!ENTITY folderContextPauseUpdates.label "Pune pe pauză actualizările">
 <!ENTITY folderContextOpenInNewWindow.label "Deschide într-o fereastră nouă">
 <!ENTITY folderContextOpenInNewWindow.accesskey "o">
 <!ENTITY folderContextOpenNewTab.label "Deschide într-o filă nouă">
@@ -666,15 +678,15 @@
 <!ENTITY folderContextFavoriteFolder.accesskey "a">
 <!ENTITY folderContextSettings2.label "Setări">
 <!ENTITY folderContextSettings2.accesskey "e">
-<!-- Search Bar -->
 
+<!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Numele sau mesajul conțin:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
+
 <!-- Gloda Search Bar -->
-
 <!ENTITY glodaSearchBar.placeholder "Caută mesaje…">
-<!-- Quick Search Menu Bar -->
 
+<!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Subiect">
 <!ENTITY searchFromMenu.label "Expeditor">
 <!ENTITY searchSubjectOrFromMenu.label "Subiect sau expeditor">
@@ -682,8 +694,8 @@
 <!ENTITY searchSubjectOrRecipientMenu.label "Subiect, Către sau Cc">
 <!ENTITY searchMessageBody.label "Mesajul întreg">
 <!ENTITY saveAsVirtualFolderMenu.label "Salvează căutarea ca dosar…">
-<!-- Thread Pane -->
 
+<!-- Thread Pane -->
 <!ENTITY threadColumn.label "Conversație">
 <!ENTITY fromColumn.label "Expeditor">
 <!ENTITY recipientColumn.label "Destinatar">
@@ -704,8 +716,8 @@
 <!ENTITY locationColumn.label "Adresă">
 <!ENTITY idColumn.label "Ordinea primirii">
 <!ENTITY attachmentColumn.label "Atașamente">
-<!-- Thread Pane Tooltips -->
 
+<!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Selectează coloanele de afișat">
 <!ENTITY threadColumn2.tooltip "Afișează mesajele grupate">
 <!ENTITY fromColumn2.tooltip "Sortează după expeditor">
@@ -727,14 +739,15 @@
 <!ENTITY locationColumn2.tooltip "Sortează după locație">
 <!ENTITY idColumn2.tooltip "Sortează după data primirii">
 <!ENTITY attachmentColumn2.tooltip "Sortează după atașamente">
-<!-- Thread Pane Context Menu -->
 
+<!-- Thread Pane Context Menu -->
+<!ENTITY contextNewMsgFromTemplate.label "Mesaj nou bazat pe șablon">
 <!ENTITY contextOpenNewWindow.label "Deschide mesajul în fereastră nouă">
 <!ENTITY contextOpenNewWindow.accesskey "f">
-<!-- The key potentially conflicts with cutCmd.accessKey which is defined in
-     textcontext.dtd from toolkit. Right now, both menu items can't be visible
-     at the same time, but should someone enable copy/paste of message, this key
-     would probably need to be changed. -->
+<!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
+     cutCmd.accessKey which is defined in textcontext.dtd from toolkit. Right
+     now, both menu items can't be visible at the same time, but should someone
+     enable copy/paste of message, this key would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "Deschide mesajul într-o filă nouă">
 <!ENTITY contextOpenNewTab.accesskey "t">
 <!ENTITY contextOpenConversation.label "Deschide mesajul în conversație">
@@ -744,6 +757,7 @@
 <!ENTITY contextEditMsgAsNew.label "Editare ca mesaj nou">
 <!ENTITY contextEditMsgAsNew.accesskey "E">
 <!ENTITY contextEditDraftMsg.label "Editează mesajul ciornă">
+<!ENTITY contextEditTemplate.label "Editează șablonul">
 <!ENTITY contextArchive.label "Arhivează">
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Răspunde doar expeditorului">
@@ -771,9 +785,7 @@
 <!ENTITY contextCopyMsgMenu.label "Copiază în">
 <!ENTITY contextCopyMsgMenu.accesskey "C">
 <!ENTITY contextKillThreadMenu.label "Ignoră conversația">
-
 <!ENTITY contextKillThreadMenu.accesskey "I">
-
 <!ENTITY contextWatchThreadMenu.label "Urmărește conversația">
 <!-- LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
      In the en-US locale we ran out of access keys, so there is an empty access key for
@@ -786,12 +798,12 @@
 <!ENTITY contextPrint.accesskey "p">
 <!ENTITY contextPrintPreview.label "Previzualizare tipărire">
 <!ENTITY contextPrintPreview.accesskey "v">
+
 <!-- Thread Pane Column Picker -->
 <!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
      This option in the thread pane column picker causes us to reset the
      customizations for the thread pane columns in this folder to their default.
   -->
-
 <!ENTITY columnPicker.resetToInbox.label "Resetează coloanele la starea implicită">
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
      This option in the thread pane column picker pops up a sub-menu containing
@@ -832,9 +844,9 @@
      "File here" option for the move to/copy to widget.
   -->
 <!ENTITY columnPicker.thisFolder.label "Acest dosar">
+
+
 <!-- Media (video/audio) controls -->
-
-
 <!ENTITY contextPlay.label "Redare">
 <!ENTITY contextPlay.accesskey "R">
 <!ENTITY contextPause.label "Pauză">
@@ -843,15 +855,15 @@
 <!ENTITY contextMute.accesskey "M">
 <!ENTITY contextUnmute.label "Activează sunetul">
 <!ENTITY contextUnmute.accesskey "m">
+
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have
      not changed
   -->
-
 <!ENTITY quickSearchCmd.key "K">
 <!-- LOCALIZATION NOTE (search.label.base1):
-      This is the base of the empty text for the global search box. We replace
+     This is the base of the empty text for the global search box. We replace
      #1 with the contents of the appropriate search.keyLabel.* value for the
      platform.
      The goal is to convey to the user that typing in the box will allow them
@@ -872,8 +884,8 @@
      above, the letter should match it.
   -->
 <!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
-<!-- Message Header Context Menu -->
 
+<!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Adaugă la contacte…">
 <!ENTITY AddToAddressBook.accesskey "c">
 <!ENTITY AddDirectlyToAddressBook.label "Adaugă la agenda de contacte">
@@ -898,12 +910,12 @@
 <!ENTITY CreateFilterFrom.accesskey "f">
 <!ENTITY reportPhishingURL.label "Raportează înșelătorie prin e-mail">
 <!ENTITY reportPhishingURL.accesskey "o">
-<!-- Spell checker context menu items -->
 
+<!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Adaugă dicționare">
 <!ENTITY spellAddDictionaries.accesskey "A">
-<!-- Content Pane Context Menu -->
 
+<!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Salvează linkul ca…">
 <!ENTITY saveLinkAsCmd.accesskey "k">
 <!ENTITY saveImageAsCmd.label "Salvează imaginea ca…">
@@ -922,17 +934,17 @@
 <!ENTITY openInBrowser.accesskey "o">
 <!ENTITY openLinkInBrowser.label "Deschide linkul în browser">
 <!ENTITY openLinkInBrowser.accesskey "o">
+
 <!-- Statusbar -->
-
 <!ENTITY statusText.label "Terminat">
-<!-- Mac OS X Window Menu -->
 
+<!-- Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.label "Minimizează">
 <!ENTITY minimizeWindow.key "M">
 <!ENTITY bringAllToFront.label "Adu-le pe toate în față">
 <!ENTITY zoomWindow.label "Lupă">
-<!-- Mac OS X Application Menu (Cocoa widgets) -->
 
+<!-- Mac OS X Application Menu (Cocoa widgets) -->
 <!ENTITY preferencesCmdMac2.label       "Preferințe">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
@@ -944,8 +956,8 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Arată-le pe toate">
+
 <!-- Mac OS X Dock Icon pop-up menu -->
-
 <!ENTITY dockOptions.label              "Opțiuni pentru pictograma aplicației…">
-
-
+<!ENTITY writeNewMessageDock.label      "Scrie un mesaj nou">
+<!ENTITY openAddressBookDock.label      "Deschide agenda de contacte">

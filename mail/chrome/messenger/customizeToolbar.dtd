@@ -9,6 +9,7 @@
 <!ENTITY iconsAndText.label       "Pictograme și text">
 <!ENTITY icons.label              "Pictograme">
 <!ENTITY text.label               "Text">
+<!ENTITY iconsBesideText.label    "Pictograme alăturate textului">
 <!ENTITY useSmallIcons.label      "Folosește pictograme mici">
 <!ENTITY restoreDefaultSet.label  "Restaurează elementele implicite">
 <!ENTITY addNewToolbar.label      "Adaugă o nouă bară de instrumente">
