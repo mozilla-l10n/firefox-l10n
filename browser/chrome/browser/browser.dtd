@@ -129,7 +129,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "બધા ટૅબ્સને બતાવો">
 <!ENTITY showAllTabsCmd.accesskey "A">
 <!ENTITY toggleReaderMode.key "R">
-
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; માં પ્રવેશો">
@@ -189,10 +188,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "અન્ય બુકમાર્ક્સ">
 <!ENTITY mobileBookmarksCmd.label "મોબાઇલ બુકમાર્ક્સ">
 <!ENTITY bookmarksToolbarChevron.tooltip "વધુ બુકમાર્ક્સ બતાવો">
-<!ENTITY showRecentlyBookmarked.label     "તાજેતરમાં કરેલ બુકમાર્ક">
-<!ENTITY showRecentlyBookmarked.accesskey "h">
-<!ENTITY hideRecentlyBookmarked.label     "તાજેતરમાં કરેલ બુકમાર્ક છુપાવો">
-<!ENTITY hideRecentlyBookmarked.accesskey "H">
 
 <!ENTITY backCmd.label                "પાછળ">
 <!ENTITY backCmd.accesskey            "B">
@@ -234,7 +229,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "આ પૃષ્ઠનો અનુવાદ કરો">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "પૃષ્ઠ અનુવાદ મેનેજ કરો">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM સોફ્ટવેર ઉપયોગ મેનેજ કરો">
-
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "MIDI પેનલ ખોલો">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "તમે આ વેબસાઇટ માટે તમારો કૅમેરા અવરોધિત કર્યા છે.">
@@ -245,7 +239,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "તમે આ વેબસાઇટ માટે સતત સંગ્રહ અવરોધિત કર્યા છે.">
 <!ENTITY urlbar.popupBlocked.tooltip             "તમે આ વેબસાઇટ માટે પોપ-અપ્સને અવરોધિત કર્યા છે.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "તમે આ વેબસાઇટ માટે કેનવાસ ડેટા નિષ્કર્ષણને અવરોધિત કર્યો છે.">
-
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "તમે Adobe Flash પ્લગઇનનો ઉપયોગ કરવાથી આ વેબસાઇટને અવરોધિત કરી છે.">
 <!ENTITY urlbar.midiBlocked.tooltip              "તમે આ વેબસાઇટ માટે MIDI ઍક્સેસને અવરોધિત કરી છે.">
 
@@ -395,7 +388,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "અહીં અન્ય ઉપકરણોથી તમારા ટેબ્સ જોવા માંગો છો?">
-<!ENTITY appMenuRemoteTabs.openprefs.label "પસંદગીઓનો સમન્વયન">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "સમન્વયન પસંદગીઓ ખોલો">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "તમારા અન્ય ઉપકરણોમાંથી ટેબ્સની સૂચિ જોવા માટે સાઇન ઇન કરો.">
 <!ENTITY appMenuRemoteTabs.unverified.label "તમારા એકાઉન્ટને ચકાસવાની જરૂર છે.">
@@ -444,7 +436,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "સરનામું શોધો અથવા દાખલ કરો">
-<!ENTITY urlbar.placeholder3          "શોધ શબ્દો અને સરનામાં અહીં દાખલ કરો">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "એક્સ્ટેંન્શન:">
@@ -988,14 +979,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "અપડેટ કરવા માટે પુનઃપ્રારંભ કરો &brandShorterName;">
 
-<!ENTITY newTabControlled.message "જ્યારે તમે નવી ટૅબ ખોલો છો ત્યારે તમે જોઈ રહ્યાં છો તે પૃષ્ઠનુ એક્સટેન્શન બદલ્યું છે. જો તમે આ ફેરફાર ન ઇચ્છતા હો તો તમે તમારી સેટિંગ્સને પુનઃસ્થાપિત કરી શકો છો.">
-
 <!ENTITY newTabControlled.header.message "તમારી નવી ટૅબ બદલાઈ ગઈ છે.">
 <!ENTITY newTabControlled.keepButton.label "પરિવર્તનો રાખો">
 <!ENTITY newTabControlled.keepButton.accesskey "K">
-<!ENTITY newTabControlled.restoreButton.label "સેટિંગ્સ પુનઃસ્થાપિત કરો">
-<!ENTITY newTabControlled.restoreButton.accesskey "R">
-
 <!ENTITY newTabControlled.disableButton.label "એક્સ્ટેંશન અક્ષમ કરો">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
@@ -1005,6 +991,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.keepButton.accesskey "K">
 <!ENTITY homepageControlled.disableButton.label "એક્સ્ટેંશન અક્ષમ કરો">
 <!ENTITY homepageControlled.disableButton.accesskey "D">
+
+<!ENTITY tabHideControlled.keepButton.accesskey "K">
+<!ENTITY tabHideControlled.disableButton.label "એક્સ્ટેંશન અક્ષમ કરો">
+<!ENTITY tabHideControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "પૃષ્ઠ ક્રિયાઓ">
 <!ENTITY pageAction.addToUrlbar.label "સરનામાં બારમાં ઉમેરો">
