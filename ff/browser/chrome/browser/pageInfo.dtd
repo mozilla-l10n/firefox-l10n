@@ -46,22 +46,10 @@
 
 <!ENTITY  feedTab               "Bale">
 <!ENTITY  feedTab.accesskey     "F">
-<!ENTITY  feedSubscribe         "Lulno">
-<!ENTITY  feedSubscribe.accesskey "u">
 
 <!ENTITY  permTab               "Jamirooje">
 <!ENTITY  permTab.accesskey     "P">
-<!ENTITY  permUseDefault        "Huutoro Goowaaɗo">
-<!ENTITY  permAskAlways         "Naamno sahaa kala">
-<!ENTITY  permAllow             "Yamir">
-<!ENTITY  permAllowSession      "Yamir e Naatol">
-<!ENTITY  permHide              "Suuɗ">
-<!ENTITY  permBlock             "Falo">
 <!ENTITY  permissionsFor        "Jamirooje:">
-<!ENTITY  permPlugins           "Hurmin Ceŋe">
-
-<!ENTITY  permClearStorage           "Momtu Mooftol">
-<!ENTITY  permClearStorage.accesskey "C">
 
 <!ENTITY  securityTab           "Kisal">
 <!ENTITY  securityTab.accesskey "S">
@@ -81,6 +69,9 @@
 <!ENTITY  securityView.privacy.cookies                  "Ndee lowre ena moofta humpito (kukiije) e ordinateer am?">
 <!ENTITY  securityView.privacy.viewCookies              "Hollir Kukiije">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.siteData                 "Mate ndee lowre geese woni ko e mooftude kabaruuji e ordinateer maa?">
+<!ENTITY  securityView.privacy.clearSiteData            "Momtu Kuukiije kam e Keɓe Lowre">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "C">
 <!ENTITY  securityView.privacy.passwords                "Mi danndii finndeeji ndee lowre geese?">
 <!ENTITY  securityView.privacy.viewPasswords            "Hollu Finndeeji Danndaaɗi">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
