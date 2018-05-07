@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Huutoro Ndeenka Dewindol">
+<!ENTITY  trackingProtection3.description      "Ndeenka Dewindol ina daaƴa ñukindotooɓe waawɓe roɓindaade keɓe banngogol maa e nder lowe geese keewɗe.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "Huutoro ndeenka dewindagol ngam faddaade ñukkintooɓe anndaaɓe">
 <!ENTITY  trackingProtectionAlways.label       "Sahaa kala">
 <!ENTITY  trackingProtectionAlways.accesskey   "a">
@@ -37,12 +38,7 @@
 
 <!ENTITY  suggestionSettings2.label     "Waylu cuɓe wonande cakkitte yiylorde">
 
-<!ENTITY  acceptCookies2.label          "Jaɓ kukiije iwɗe e lowe">
-<!ENTITY  acceptCookies2.accesskey      "J">
-
-<!ENTITY  acceptThirdParty2.pre.label     "Jaɓ kukiiji jiggaaɗe">
-<!ENTITY  acceptThirdParty2.pre.accesskey "a">
-
+<!ENTITY  acceptCookies4.label          "Jaɓ kuukiije kañum e keɓe lowre ummoraade e lowe geese (ena wasiyaa)">
 <!ENTITY  acceptCookies4.accesskey      "A">
 
 <!ENTITY  blockCookies.label            "Daaƴ kuukiije kam e keɓe lowre (ina waawi taƴde lowe geese)">
@@ -63,9 +59,6 @@
 <!ENTITY  cookieExceptions.label        "Palooje…">
 <!ENTITY  cookieExceptions.accesskey    "P">
 
-<!ENTITY  showCookies.label             "Hollu kukiije…">
-<!ENTITY  showCookies.accesskey         "u">
-
 <!ENTITY  historyHeader2.pre.label         "&brandShortName; maa:">
 <!ENTITY  historyHeader2.pre.accesskey     "m">
 <!ENTITY  historyHeader.remember.label     "Siftor aslol">
@@ -73,25 +66,8 @@
 <!ENTITY  historyHeader.custom.label       "Huutoro teelte peŋtore e aslol">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; maa tesko banngagol, aawtagol, porme e njiylawu maa, moofta kukiiji lowe geese njilli-ɗaa.">
-
-<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
-<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-<!ENTITY  rememberActions.pre.label           "Aɗa waawi yiɗde ">
-<!ENTITY  rememberActions.clearHistory.label  "mumtude aslol maa cakkitiingol">
-<!ENTITY  rememberActions.middle.label        ", walla ">
-<!ENTITY  rememberActions.removeCookies.label "mumtude kukiiji keeriiɗi">
-<!ENTITY  rememberActions.post.label          ".">
-
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; maa huutoro teelte banngagol suturo ɗee tee teskotaako hay aslol gootol tuma nde mbanngoto-ɗaa e nder Geese.">
-
-<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-<!ENTITY  dontrememberActions.pre.label          "Aɗa waawi kadi yiɗde ">
-<!ENTITY  dontrememberActions.clearHistory.label "mumtude aslol gonangol fof">
-<!ENTITY  dontrememberActions.post.label         ".">
 
 <!ENTITY  clearHistoryButton.label       "Momtu Aslol…">
 <!ENTITY  clearHistoryButton.accesskey   "s">
@@ -110,12 +86,6 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Teelte…">
 <!ENTITY  clearOnCloseSettings.accesskey "e">
-
-<!ENTITY  browserContainersLearnMore.label      "Ɓeydu humpito">
-<!ENTITY  browserContainersEnabled.label        "Hurmin Tabbe Mooftirɗe">
-<!ENTITY  browserContainersEnabled.accesskey    "n">
-<!ENTITY  browserContainersSettings.label        "Teelte…">
-<!ENTITY  browserContainersSettings.accesskey    "l">
 
 <!ENTITY  a11yPrivacy.checkbox.label     "Haɗ carwooje weeɓitaare yettaade wanngorde maa">
 <!ENTITY  a11yPrivacy.checkbox.accesskey "c">
