@@ -68,6 +68,7 @@ permissions-exceptions-popup-desc = Puedes especificar los sitios web que podrá
 permissions-exceptions-saved-logins-window =
     .title = Excepciones - Inicios de sesión guardados
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = Los inicios de sesión para los siguientes sitios web no se guardarán
 
 ## Exceptions - Add-ons
 
