@@ -61,6 +61,7 @@ browser-containers-settings =
 
 ## General Section - Language & Appearance
 
+language-header = Tu'un
 
 ## General Section - Files and Applications
 
@@ -85,12 +86,36 @@ browser-containers-settings =
 
 ## Containers Section
 
+containers-remove-button =
+    .label = Xitaá
 
 ## Sync Section - Signed out
 
+sync-signedout-account-signin =
+    .label = Kitsaa
+    .accesskey = k
 
 ## Sync Section - Signed in
 
+sync-sign-in =
+    .label = Kitsaa
+    .accesskey = K
+sync-engine-bookmarks =
+    .label = Marcadores
+    .accesskey = m
+sync-engine-history =
+    .label = Ña niya'a
+    .accesskey = ñ
+sync-engine-addons =
+    .label = Add-ons
+    .tooltiptext = Add-ons
+    .accesskey = A
+sync-device-name-cancel =
+    .label = Kunchatu
+    .accesskey = k
+sync-device-name-save =
+    .label = Chika vaà
+    .accesskey = g
 
 ## Privacy Section
 
