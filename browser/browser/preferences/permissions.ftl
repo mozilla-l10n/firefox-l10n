@@ -36,3 +36,34 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = Carian laman web
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-label = Sila masukkan nama hos yang sah
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
