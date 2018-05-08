@@ -81,26 +81,34 @@ permissions-exceptions-addons-desc = Določite, katere strani smejo nameščati 
 permissions-site-notification-window =
     .title = Nastavitve – Dovoljenja obvestil
     .style = { permissions-window.style }
+permissions-site-notification-desc = Naslednja spletna mesta so zahtevala, da vam pošiljajo obvestila. Določite lahko, katere spletne strani lahko pošljejo obvestila. Prav tako lahko blokirate nove zahteve, ki zahtevajo dovoljenje za obvestila.
 permissions-site-notification-disable-label =
     .label = Zavrni nove zahteve, ki zahtevajo dovoljenje za pošiljanje obvestil
+permissions-site-notification-disable-desc = To bo preprečilo, da bi katera koli spletna mesta, ki niso navedena zgoraj, zahtevala dovoljenje za pošiljanje obvestil. Blokiranje obvestil lahko prekine nekatere funkcije spletnega mesta.
 
 ## Site Permissions - Location
 
+permissions-site-location-desc = Naslednje spletne strani so zahtevale dostop do vaše lokacije. Določite lahko, katere spletne strani lahko dostopajo do vaše lokacije. Prav tako lahko zavrnete nove zahteve za dostop do vaše lokacije.
 permissions-site-location-disable-label =
     .label = Zavrni nove zahteve, ki zahtevajo informacijo o lokaciji
+permissions-site-location-disable-desc = To bo preprečilo, da bi katera koli spletna stran, ki ni navedena zgoraj, zahtevala dovoljenje za dostop do vaše lokacije. Blokiranje dostopa do vaše lokacije lahko prekine nekatere funkcije spletnega mesta.
 
 ## Site Permissions - Camera
 
 permissions-site-camera-window =
     .title = Nastavitve – Dovoljenja kamere
     .style = { permissions-window.style }
+permissions-site-camera-desc = Te spletne strani so zahtevale dostop do kamere. Določite lahko, katere spletne strani lahko dostopajo do kamere. Prav tako lahko zavrnete nove zahteve za dostop do kamere.
 permissions-site-camera-disable-label =
     .label = Zavrni nove zahteve, ki zahtevajo dostop do kamere
+permissions-site-camera-disable-desc = To bo preprečilo, da bi katera koli spletna stran, ki ni navedena zgoraj, zahtevala dovoljenje za dostop do kamere. Blokiranje dostopa do kamere lahko prekine nekatere funkcije spletnega mesta.
 
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window =
     .title = Nastavitve – Dovoljenja mikrofona
     .style = { permissions-window.style }
+permissions-site-microphone-desc = Te spletne strani so zahtevale dostop do mikrofona. Določite lahko, katere spletne strani lahko dostopajo do mikrofona. Prav tako lahko zavrnete nove zahteve za dostop do mikrofona.
 permissions-site-microphone-disable-label =
     .label = Zavrni nove zahteve, ki zahtevajo dostop do mikrofona
+permissions-site-microphone-disable-desc = To bo preprečilo, da bi katera koli spletna stran, ki ni navedena zgoraj, zahtevala dovoljenje za dostop do mikrofona. Blokiranje dostopa do mikrofona lahko prekine nekatere funkcije spletnega mesta.
