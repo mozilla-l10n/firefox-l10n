@@ -44,19 +44,32 @@ permissions-invalid-uri-label = Cuir a-steach ainm òstair dhligheach
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = Eisgeachdan - Dìon o thracadh
+    .style = { permissions-window.style }
+permissions-exceptions-tracking-protection-desc = Chuir thu an dìon o thracadh à comas air na làraichean-lìn seo.
 
 ## Exceptions - Cookies
 
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-window =
+    .title = Làraichean-lìn le cead - Priob-uinneagan
+    .style = { permissions-window.style }
 permissions-exceptions-popup-desc = 'S urrainn dhut sònrachadh dè na làraichean-lìn as urrainn dhaibh priob-uinneagan fhosgladh. Cuir a-steach seòladh cruinn na làraich a tha thu airson cead a thoirt dha is briog air "Ceadaich" an uairsin.
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = Eisgeachdan – Clàraidhean a-steach sàbhailte
+    .style = { permissions-window.style }
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-window =
+    .title = Làraichean-lìn le cead - Stàladh thuilleadan
+    .style = { permissions-window.style }
 permissions-exceptions-addons-desc = 'S urrainn dhut sònrachadh dè na làraichean-lìn as urrainn dhaibh tuilleadan a stàladh. Cuir a-steach seòladh cruinn na làraich a tha thu airson cead a thoirt dha is briog air "Ceadaich".
 
 ## Site Permissions - Notifications
