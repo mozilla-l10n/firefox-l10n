@@ -36,3 +36,37 @@ permissions-button-ok =
     .accesskey = s
 permissions-searchbox =
     .placeholder = Websedło pytaś
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Njepłaśiwe mě hosta zapódane
+permissions-invalid-uri-label = Pšosym zapódajśo płaśiwe mě hosta
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = Móžośo pódaś, kótare websedła směju wuskokujuce wokna wócyniś. Zapišćo eksaktnu adresu sedła, kótarež cośo dowóliś a klikniśo pón na Dowóliś.
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = Móžośo pódaś, kótare websedła směju dodanki instalěrowaś. Zapišćo eksaktnu adresu sedła, kótarež cośo dowóliś a klikniśo pón na Dowóliś.
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
