@@ -36,3 +36,35 @@ permissions-button-ok =
     .accesskey = С
 permissions-searchbox =
     .placeholder = Претражите веб сајт
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Унето је неисправно име рачунара
+permissions-invalid-uri-label = Унесите исправно име хоста
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
