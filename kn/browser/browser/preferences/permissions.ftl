@@ -47,6 +47,7 @@ permissions-invalid-uri-label = ದಯವಿಟ್ಟು ಒಂದು ಮಾನ�
 permissions-exceptions-tracking-protection-window =
     .title = ಅಪವಾದಗಳು - ಜಾಡುಹಿಡಿಯುವಿಕೆ ಸುರಕ್ಷತೆ
     .style = { permissions-window.style }
+permissions-exceptions-tracking-protection-desc = ಈ ಜಾಲತಾಣಗಳಲ್ಲಿ ಜಾಡುಹಿಡಿಯುವಿಕೆ ಸುರಕ್ಷತೆಯನ್ನು ನೀವು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿದ್ದೀರಿ.
 
 ## Exceptions - Cookies
 
@@ -57,6 +58,9 @@ permissions-exceptions-popup-desc = ಯಾವ ಜಾಲತಾಣಗಳು ಪು
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = ವಿನಾಯಿತಿಗಳು - ಉಳಿಸಿದ ಲಾಗಿನ್‍ಗಳು
+    .style = { permissions-window.style }
 
 ## Exceptions - Add-ons
 
@@ -70,6 +74,12 @@ permissions-exceptions-addons-desc = ಯಾವ ಜಾಲತಾಣಗಳು ಆ�
 
 ## Site Permissions - Camera
 
+permissions-site-camera-window =
+    .title = ಕ್ಯಾಮರ ಅನುಮತಿ - ಸಿದ್ಧತೆಗಳು
+    .style = { permissions-window.style }
 
 ## Site Permissions - Microphone
 
+permissions-site-microphone-window =
+    .title = ಮೈಕ್ರೋಫೋನ್ ಅನುಮತಿ - ಸಿದ್ಧತೆಗಳು
+    .style = { permissions-window.style }
