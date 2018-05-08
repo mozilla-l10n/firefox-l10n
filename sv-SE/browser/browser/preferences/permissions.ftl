@@ -57,6 +57,9 @@ permissions-exceptions-cookie-desc = Du kan ange vilka webbplatser som alltid el
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-window =
+    .title = Tillåtna webbplatser - popup-fönster
+    .style = { permissions-window.style }
 permissions-exceptions-popup-desc = Du kan ange vilka webbplatser som får öppna popup-fönster. Skriv in adressen till platsen du vill godkänna och klicka på Tillåt.
 
 ## Exceptions - Saved Logins
@@ -68,6 +71,9 @@ permissions-exceptions-saved-logins-desc = Inloggningar för följande webbplats
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-window =
+    .title = Tillåtna webbplatser - Installation av tillägg
+    .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Du kan ange vilka webbplatser som får installera tillägg. Skriv in adressen till platsen du vill godkänna och klicka på Tillåt.
 
 ## Site Permissions - Notifications
