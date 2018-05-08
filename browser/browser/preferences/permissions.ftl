@@ -47,12 +47,20 @@ permissions-invalid-uri-label = Bonvolu tajpi validan servilan nomon
 permissions-exceptions-tracking-protection-window =
     .title = Esceptoj - Protekto kontraŭ spurado
     .style = { permissions-window.style }
+permissions-exceptions-tracking-protection-desc = Vi malaktivigis la protekton kontraŭ spurado en tiuj ĉi retejoj.
 
 ## Exceptions - Cookies
 
+permissions-exceptions-cookie-window =
+    .title = Esceptoj - Kuketoj kaj retejaj datumoj
+    .style = { permissions-window.style }
+permissions-exceptions-cookie-desc = Vi povas specifi la retejojn kiuj ĉiam aŭ neniam rajtos uzi kuketojn kaj retejajn datumojn. Tajpu la ekzaktan adreson de la retejo, kiun vi volas administri kaj poste alklaku Bloki, Permesi dum seanco, aŭ Permesi.
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-window =
+    .title = Permesitaj retejoj - ŝprucfenestroj
+    .style = { permissions-window.style }
 permissions-exceptions-popup-desc = Vi povas difini kiuj retejoj rajtas malfermi ŝprucfenestrojn. Tajpu la ekzaktan adreson de la retejo kiun vi volas rajtigi kaj alklaku Permesi.
 
 ## Exceptions - Saved Logins
@@ -60,18 +68,51 @@ permissions-exceptions-popup-desc = Vi povas difini kiuj retejoj rajtas malfermi
 permissions-exceptions-saved-logins-window =
     .title = Esceptoj - konservitaj legitimiloj
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = Akreditiloj por la jenaj retejoj ne estos konservitaj
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-window =
+    .title = Permesitaj retejoj - instalo de aldonaĵoj
+    .style = { permissions-window.style }
+permissions-exceptions-addons-desc = Vi povas difini, kiuj retejoj havos la permeson instali aldonaĵojn. Tajpu la ekzaktan adreson de la retejo al kiu vi volas doni tiun rajton kaj poste alklaku sur Permesi.
 
 ## Site Permissions - Notifications
 
+permissions-site-notification-window =
+    .title = Agordoj - Permesoj por sciigoj
+    .style = { permissions-window.style }
+permissions-site-notification-desc = La jenaj retejoj petis permeson sendi sciigojn al vi. Vi povas decidi kiuj rajtas tion fari. Vi ankaŭ povas bloki novajn petojn pri permeso sendi sciigojn.
+permissions-site-notification-disable-label =
+    .label = Bloki novajn petojn pri permeso sendi sciigojn
+permissions-site-notification-disable-desc = Tio ĉi evitos ke retejoj, kiuj ne estas listigitaj supre, petu permeson sendi sciigojn. Blokado de sciigoj povas misfunkciigi kelkajn trajtojn de retejoj.
 
 ## Site Permissions - Location
 
+permissions-site-location-window =
+    .title = Agordoj - Permesoj por pozicio
+    .style = { permissions-window.style }
+permissions-site-location-desc = La jenaj retejoj petis permeson aliri vian pozicion. Vi povas decidi kiuj rajtas tion fari. Vi ankaŭ povas bloki novajn petojn pri permeso aliri vian pozicion.
+permissions-site-location-disable-label =
+    .label = Bloki novajn petojn pri permeso aliri vian pozicion
+permissions-site-location-disable-desc = Tio ĉi evitos ke retejoj, kiuj ne estas listigitaj supre, petu permeson aliri vian pozicion. Blokado de aliro al via pozicio povas misfunkciigi kelkajn trajtojn de retejoj.
 
 ## Site Permissions - Camera
 
+permissions-site-camera-window =
+    .title = Agordoj - Permesoj por filmilo
+    .style = { permissions-window.style }
+permissions-site-camera-desc = La jenaj retejoj petis permeson aliri vian filmilon. Vi povas decidi kiuj rajtas tion fari. Vi ankaŭ povas bloki novajn petojn pri permeso aliri vian filmilon.
+permissions-site-camera-disable-label =
+    .label = Bloki novajn petojn pri permeso aliri vian filmilon
+permissions-site-camera-disable-desc = Tio ĉi evitos ke retejoj, kiuj ne estas listigitaj supre, petu permeson aliri vian filmilon. Blokado de aliro al via filmilo povas misfunkciigi kelkajn trajtojn de retejoj.
 
 ## Site Permissions - Microphone
 
+permissions-site-microphone-window =
+    .title = Agordoj - Permesoj por mikrofono
+    .style = { permissions-window.style }
+permissions-site-microphone-desc = La jenaj retejoj petis permeson aliri vian mikrofonon. Vi povas decidi kiuj rajtas tion fari. Vi ankaŭ povas bloki novajn petojn pri permeso aliri vian mikrofonon.
+permissions-site-microphone-disable-label =
+    .label = Bloki novajn petojn pri permeso aliri vian mikrofonon
+permissions-site-microphone-disable-desc = Tio ĉi evitos ke retejoj, kiuj ne estas listigitaj supre, petu permeson aliri vian mikrofonon. Blokado de aliro al via mikrofono povas misfunkciigi kelkajn trajtojn de retejoj.
