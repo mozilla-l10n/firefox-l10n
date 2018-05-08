@@ -29,18 +29,26 @@ permissions-invalid-uri-label = Tik 'n geldige gasheernaam in
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = Uitsonderings - Volgbeskerming
+    .style = { permissions-window.style }
 
 ## Exceptions - Cookies
 
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-desc = U kan spesifiseer watter webwerwe toegelaat word om opspringers te open. Tik die presiese webadres van die werf wat u wil toelaat en kliek dan Laat toe.
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = Uitsonderings - Gestoorde aanmeldings
+    .style = { permissions-window.style }
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-desc = U kan spesifiseer watter webwerwe toegelaat word om byvoegings te installeer. Tik die presiese webadres van die werf wat u wil toelaat en klik dan Laat toe.
 
 ## Site Permissions - Notifications
 
