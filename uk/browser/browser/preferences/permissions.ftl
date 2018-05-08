@@ -74,6 +74,9 @@ permissions-exceptions-addons-desc = Ви можете вказати, яким 
 
 ## Site Permissions - Notifications
 
+permissions-site-notification-window =
+    .title = Налаштування - Дозволи сповіщень
+    .style = { permissions-window.style }
 
 ## Site Permissions - Location
 
