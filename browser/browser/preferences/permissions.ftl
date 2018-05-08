@@ -36,3 +36,36 @@ permissions-button-ok =
     .accesskey = Π
 permissions-searchbox =
     .placeholder = Αναζήτηση ιστοσελίδας
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Άκυρο όνομα συστήματος
+permissions-invalid-uri-label = Παρακαλώ εισάγετε ένα έγκυρο όνομα συστήματος
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = Μπορείτε να καθορίσετε ποιες ιστοσελίδες μπορούν να ανοίγουν αναδυόμενα παράθυρα. Πληκτρολογήστε την ακριβή διεύθυνση της σελίδας που επιθυμείτε να διαχειριστείτε και μετά πατήστε Να επιτρέπεται.
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
