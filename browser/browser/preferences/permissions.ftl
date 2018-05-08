@@ -8,3 +8,34 @@ permissions-session =
 permissions-allow =
     .label = அனுமதி
     .accesskey = A
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-label = ஒரு சரியான கணினியின் பெயரை உள்ளிடுக
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
