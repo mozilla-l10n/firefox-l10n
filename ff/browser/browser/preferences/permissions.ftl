@@ -51,6 +51,7 @@ permissions-exceptions-tracking-protection-desc = A daaƴii Ndeenka Dewindol e �
 
 ## Exceptions - Cookies
 
+permissions-exceptions-cookie-desc = Aɗa waawi hollitde hol lowe geese jamiraaɗe daañaa huutoraade kuuke e keɓe lowre. Tappu ñiiɓirde lowre njiɗ-ɗaa toppitaade ndee, ndobo-ɗaa e Faddo, Yamir wonande rogere walla Yamir.
 
 ## Exceptions - Pop-ups
 
