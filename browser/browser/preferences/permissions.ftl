@@ -36,3 +36,35 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = 搜尋網站
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = 輸入的主機名稱不正確
+permissions-invalid-uri-label = 請輸入正確的主機名稱
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
