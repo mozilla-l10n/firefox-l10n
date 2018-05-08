@@ -42,6 +42,9 @@ permissions-searchbox =
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = Ngoại lệ - Chống theo dõi
+    .style = { permissions-window.style }
 
 ## Exceptions - Cookies
 
@@ -52,6 +55,9 @@ permissions-exceptions-popup-desc = Bạn có thể chỉ định những trang 
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = Ngoại lệ - Đăng nhập đã lưu
+    .style = { permissions-window.style }
 
 ## Exceptions - Add-ons
 
