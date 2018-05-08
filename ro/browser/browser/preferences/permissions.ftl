@@ -36,3 +36,58 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = Caută site web
+
+## Invalid Hostname Dialog
+
+
+## Exceptions - Tracking Protection
+
+permissions-exceptions-tracking-protection-window =
+    .title = Excepții - Protecție față de urmărire
+    .style = { permissions-window.style }
+permissions-exceptions-tracking-protection-desc = Ai dezactivat protecția față de urmărire pe aceste site-uri web.
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-window =
+    .title = Site-uri web permise - Ferestre pop-up
+    .style = { permissions-window.style }
+
+## Exceptions - Saved Logins
+
+permissions-exceptions-saved-logins-window =
+    .title = Excepții - Autentificări salvate
+    .style = { permissions-window.style }
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-window =
+    .title = Site-uri web permise - Instalare de extensii
+    .style = { permissions-window.style }
+
+## Site Permissions - Notifications
+
+permissions-site-notification-window =
+    .title = Setări - Permisiuni pentru notificări
+    .style = { permissions-window.style }
+
+## Site Permissions - Location
+
+permissions-site-location-window =
+    .title = Setări - Permisiuni pentru locație
+    .style = { permissions-window.style }
+
+## Site Permissions - Camera
+
+permissions-site-camera-window =
+    .title = Setări - Permisiuni pentru cameră
+    .style = { permissions-window.style }
+
+## Site Permissions - Microphone
+
+permissions-site-microphone-window =
+    .title = Setări - Permisiuni pentru microfon
+    .style = { permissions-window.style }
