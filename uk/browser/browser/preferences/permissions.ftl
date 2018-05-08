@@ -68,6 +68,7 @@ permissions-exceptions-popup-desc = Ви можете вказати, яким �
 permissions-exceptions-saved-logins-window =
     .title = Винятки - Збережені паролі
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = Паролі для таких веб-сайтів не буде збережено
 
 ## Exceptions - Add-ons
 
