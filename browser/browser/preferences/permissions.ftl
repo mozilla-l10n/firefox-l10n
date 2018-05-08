@@ -36,3 +36,35 @@ permissions-button-ok =
     .accesskey = s
 permissions-searchbox =
     .placeholder = Cerca el lloc web
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = S'ha introduït un nom d'ordinador central no vàlid
+permissions-invalid-uri-label = Introduïu un nom d'ordinador central vàlid
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
