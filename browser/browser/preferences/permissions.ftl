@@ -44,9 +44,16 @@ permissions-invalid-uri-label = Picatz un nom d'òste valid
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = Excepcions - Proteccion contra lo seguiment
+    .style = { permissions-window.style }
+permissions-exceptions-tracking-protection-desc = Avètz desactivat la proteccion contra lo seguiment sus aqueles sites web.
 
 ## Exceptions - Cookies
 
+permissions-exceptions-cookie-window =
+    .title = Excepcions - Cookies e donadas de sites
+    .style = { permissions-window.style }
 
 ## Exceptions - Pop-ups
 
@@ -60,6 +67,7 @@ permissions-exceptions-popup-desc = Podètz indicar los sites web qu'autorizatz 
 permissions-exceptions-saved-logins-window =
     .title = Excepcions - Senhals salvats
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = Los senhals pels sites web seguents seràn pas salvats
 
 ## Exceptions - Add-ons
 
@@ -73,18 +81,37 @@ permissions-exceptions-addons-desc = Podètz indicar los sites web qu'autorizatz
 permissions-site-notification-window =
     .title = Paramètres - Permissions de notificacion
     .style = { permissions-window.style }
+permissions-site-notification-desc = Los sites seguents an demandat a vos mandar de notificacion. Podètz causir quines sites pòdon vos en mandar. Podètz tanben blocar de novèlas demandas d’autorizacion.
+permissions-site-notification-disable-label =
+    .label = Blocar las novèlas demandas de notificacions
+permissions-site-notification-disable-desc = Aquò empacha quin que siá site pas listat dessús de demandar a vos mandar de notificacion. Lo blocatge de notificacion pòt copar de foncionalitats de sites.
 
 ## Site Permissions - Location
 
 permissions-site-location-window =
     .title = Paramètres - Permission de localizacion
     .style = { permissions-window.style }
+permissions-site-location-desc = Los sites seguents an demandat l’accès a vòstra adreça. Podètz causir quines sites pòdon i accedir. Podètz tanben blocar de novèlas demandas d’accès a vòstra adreça.
+permissions-site-location-disable-label =
+    .label = Blocar las novèlas demandas d’accès a vòstra adreça
+permissions-site-location-disable-desc = Aquò empacha quin que siá site pas listat dessús de demandar vòstra adreça. Lo blocatge d’aquel accès pòt copar de foncionalitats de sites.
 
 ## Site Permissions - Camera
 
+permissions-site-camera-window =
+    .title = Paramètres - Permission per la camèra
+    .style = { permissions-window.style }
+permissions-site-camera-desc = Los sites seguents an demandat l’accès a vòstra camèra. Podètz causir quines sites pòdon i accedir. Podètz tanben blocar de novèlas demandas d’accès a vòstra camèra.
+permissions-site-camera-disable-label =
+    .label = Blocar las novèlas demandas d’accès a la camèra
+permissions-site-camera-disable-desc = Aquò empacha quin que siá site pas listat dessús de demandar l’accès a vòstra camèra. Lo blocatge d’aquel accès pòt copar de foncionalitats de sites.
 
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window =
     .title = Paramètres - Permission pel microfòn
     .style = { permissions-window.style }
+permissions-site-microphone-desc = Los sites seguents an demandat l’accès a vòstre microfòn. Podètz causir quines sites pòdon i accedir. Podètz tanben blocar de novèlas demandas d’accès a vòstre microfòn.
+permissions-site-microphone-disable-label =
+    .label = Blocar las novèlas demandas d’accès al microfòn
+permissions-site-microphone-disable-desc = Aquò empacha quin que siá site pas listat dessús de demandar l’accès a vòstre microfòn. Lo blocatge d’aquel accès pòt copar de foncionalitats de sites.
