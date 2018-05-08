@@ -36,3 +36,36 @@ permissions-button-ok =
     .accesskey = ح
 permissions-searchbox =
     .placeholder = ابحث عن موقع
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = أُدخل اسم مستضيف غير صالح
+permissions-invalid-uri-label = رجاءً أدخل اسم مستضيف صالح
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = يمكنك تحديد أي مواقع يسمح لها بفتح نوافذ منبثقة . اكتب عنوان الموقع الذي تريد إدارته ثم انقر اسمح.
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
