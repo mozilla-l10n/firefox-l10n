@@ -64,6 +64,7 @@ permissions-exceptions-popup-desc = Þú getur skilgreint hvaða vefsvæði hefu
 permissions-exceptions-saved-logins-window =
     .title = Undantekningar - Vistaðar innskráningar
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = Innskráningar fyrir eftirfarandi svæði verða ekki vistuð
 
 ## Exceptions - Add-ons
 
