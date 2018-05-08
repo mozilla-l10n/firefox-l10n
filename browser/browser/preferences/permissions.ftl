@@ -44,29 +44,54 @@ permissions-invalid-uri-label = Pšosym zapódajśo płaśiwe mě hosta
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = Wuwześa - Slědowański šćit
+    .style = { permissions-window.style }
+permissions-exceptions-tracking-protection-desc = Sćo slědowański šćit na toś tych sedłach znjemóžnił.
 
 ## Exceptions - Cookies
 
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-window =
+    .title = Dowólone sedła - wuskokujuce wokna
+    .style = { permissions-window.style }
 permissions-exceptions-popup-desc = Móžośo pódaś, kótare websedła směju wuskokujuce wokna wócyniś. Zapišćo eksaktnu adresu sedła, kótarež cośo dowóliś a klikniśo pón na Dowóliś.
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = Wuwześa - skłaźone pśizjawjenja
+    .style = { permissions-window.style }
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-window =
+    .title = Dowólone sedła - Instalacija dodankow
+    .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Móžośo pódaś, kótare websedła směju dodanki instalěrowaś. Zapišćo eksaktnu adresu sedła, kótarež cośo dowóliś a klikniśo pón na Dowóliś.
 
 ## Site Permissions - Notifications
 
+permissions-site-notification-window =
+    .title = Nastajenja - zdźěleńske pšawa
+    .style = { permissions-window.style }
 
 ## Site Permissions - Location
 
+permissions-site-location-window =
+    .title = Nastajenja - pšawa městna
+    .style = { permissions-window.style }
 
 ## Site Permissions - Camera
 
+permissions-site-camera-window =
+    .title = Nastajenja - pšawa kamery
+    .style = { permissions-window.style }
 
 ## Site Permissions - Microphone
 
+permissions-site-microphone-window =
+    .title = Nastajenja - pšawa mikrofona
+    .style = { permissions-window.style }
