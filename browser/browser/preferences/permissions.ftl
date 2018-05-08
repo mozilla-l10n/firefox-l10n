@@ -36,3 +36,37 @@ permissions-button-ok =
     .accesskey = A
 permissions-searchbox =
     .placeholder = Mirar puesto web
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = S'ha introduciu un nombre de servidor que no ye valido
+permissions-invalid-uri-label = Introduzca un nombre de servidor valido
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = Puede especificar qué puestos web pueden ubrir finestras emerchents. Escriba l'adreza exacta d'o puesto que quiere permitir y prete Permitir.
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = Puede especificar qué puestos web pueden instalar complementos. Escriba l'adreza exacta d'o puesto que quiere permitir y prete Permitir.
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
