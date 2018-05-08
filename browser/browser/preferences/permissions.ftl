@@ -65,6 +65,9 @@ permissions-exceptions-popup-desc = Sa võid määrata, millistel veebilehtedel 
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = Erandid - Salvestatud kasutajakontod
+    .style = { permissions-window.style }
 permissions-exceptions-saved-logins-desc = Järgnevate saitide kasutajakontosid ei salvestata
 
 ## Exceptions - Add-ons
