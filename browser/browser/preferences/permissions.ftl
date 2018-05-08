@@ -44,6 +44,9 @@ permissions-invalid-uri-label = Pe piaxei inserisci un nomme de host valido
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = Eceçioin - Proteçion anti-traciamento
+    .style = { permissions-window.style }
 
 ## Exceptions - Cookies
 
@@ -54,6 +57,9 @@ permissions-exceptions-popup-desc = Ti ti peu dî quæ sciti peuan arvî barcoin
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = Eceçioin - Login sarvæ
+    .style = { permissions-window.style }
 
 ## Exceptions - Add-ons
 
