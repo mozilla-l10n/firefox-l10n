@@ -207,6 +207,7 @@
 <!ENTITY pref_category_advanced_summary3 "Gjenopprett faner, datalager, utviklerverktøy">
 <!ENTITY pref_category_notifications "Varslinger">
 <!ENTITY pref_category_notifications_summary "Nye funksjoner, nettstedsoppdateringer">
+<!ENTITY pref_category_notifications_summary2 "Nye funksjoner, produkttips">
 <!ENTITY pref_developer_remotedebugging_usb "Ekstern debugging via USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Ekstern debugging via Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi-debugging krever at enheten din har installert en QR-kodeleseapp.">
@@ -543,7 +544,7 @@
 <!ENTITY pref_compact_tabs_summary2 "Arranger faner i to kolonner i portrettmodus">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
-     any page is removed frome about:home. This includes pages that are in history,
+     any page is removed from about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Siden fjernet">
 <!ENTITY folder_removed "Mappe fjernet">
@@ -758,7 +759,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Sist synkronisert: &formatS;">
-<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!-- Localization note: Used when the sync has not happened yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Sist synkronisert: aldri">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
