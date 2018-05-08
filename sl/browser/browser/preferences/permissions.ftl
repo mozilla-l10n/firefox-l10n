@@ -44,6 +44,9 @@ permissions-invalid-uri-label = Prosim, vnesite veljaven naslov.
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = Izjeme - zaščita pred sledenjem
+    .style = { permissions-window.style }
 
 ## Exceptions - Cookies
 
@@ -54,6 +57,10 @@ permissions-exceptions-popup-desc = Določite, katere strani smejo odpirati poja
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = Izjeme - shranjene prijave
+    .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = Prijave za naslednje spletne strani ne bodo shranjene
 
 ## Exceptions - Add-ons
 
