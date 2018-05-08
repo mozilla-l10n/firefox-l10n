@@ -44,15 +44,22 @@ permissions-invalid-uri-label = لطفاً نام میزبان معتبری را
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = استثناها - محافظت در برابر ردگیری
+    .style = { permissions-window.style }
 
 ## Exceptions - Cookies
 
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-desc = شما می‌توانید مشخص کنید که کدام وب‌گاه‌ها مجازند پنجره‌های بازشو ایجاد کنند. نشانی دقیق پایگاهی را که می‌خواهید به آن اجازه دهید وارد کنید و روی «اجازه دادن» کلیک نمایید.
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = استثناها - ورودهای ذخیره شده
+    .style = { permissions-window.style }
 
 ## Exceptions - Add-ons
 
