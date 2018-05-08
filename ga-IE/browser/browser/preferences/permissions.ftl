@@ -32,6 +32,9 @@ permissions-invalid-uri-label = Cuir óstainm bailí isteach, le do thoil
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = Eisceachtaí - Cosaint ar Lorgaireacht
+    .style = { permissions-window.style }
 
 ## Exceptions - Cookies
 
@@ -42,6 +45,9 @@ permissions-exceptions-popup-desc = Is féidir na suímh a bhfuil cead acu preab
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = Eisceachtaí - Focail Fhaire a Sábháladh
+    .style = { permissions-window.style }
 
 ## Exceptions - Add-ons
 
