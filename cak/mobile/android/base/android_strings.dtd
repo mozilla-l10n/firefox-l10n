@@ -207,6 +207,7 @@
 <!ENTITY pref_category_advanced_summary3 "Kinuk\&apos;ik taq ruwi\&apos;, chajinel taq tzij, taq rusamajib\&apos;al b\&apos;anel">
 <!ENTITY pref_category_notifications "Taq rutzijol">
 <!ENTITY pref_category_notifications_summary "Ri k\&apos;ak\&apos;a\&apos; taq rub\&apos;anikil, taq k\&apos;exoj kiwäch taq ruxaq ajk\&apos;amaya\&apos;l">
+<!ENTITY pref_category_notifications_summary2 "K’ak’a’ taq samaj, kichilab’exik tikojil">
 <!ENTITY pref_developer_remotedebugging_usb "Näj chojmirisanem pa USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Näj chojmirisanem pa Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Ri chojmirisanem pa Wi-Fi nrajo\&apos; chi chupam ri awokisaxel k\&apos;o chi k\&apos;o jun chokoy richin nusik\&apos;ij taq tzib QR.">
@@ -543,7 +544,7 @@
 <!ENTITY pref_compact_tabs_summary2 "Kecholajïx taq ruwi\&apos; pa ka\&apos;i\&apos; tem pa palem">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
-     any page is removed frome about:home. This includes pages that are in history,
+     any page is removed from about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Yujun ruxaq">
 <!ENTITY folder_removed "Yujun yakwuj">
@@ -758,7 +759,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Ruk\&apos;isib\&apos;al ximojri\&apos;ïl: &formatS;">
-<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!-- Localization note: Used when the sync has not happened yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Ruk\&apos;isib\&apos;al ximojri\&apos;ïl: majub\&apos;ey">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
