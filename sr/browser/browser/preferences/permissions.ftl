@@ -68,6 +68,7 @@ permissions-exceptions-popup-desc = Можете да одредите који�
 permissions-exceptions-saved-logins-window =
     .title = Изузеци - снимљени дневници
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = Пријаве за следеће сајтове неће бити сачуване
 
 ## Exceptions - Add-ons
 
