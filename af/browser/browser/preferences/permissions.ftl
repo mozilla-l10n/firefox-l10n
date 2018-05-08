@@ -21,3 +21,35 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Stoor veranderinge
     .accesskey = S
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Ongeldige gasheernaam ingetik
+permissions-invalid-uri-label = Tik 'n geldige gasheernaam in
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
