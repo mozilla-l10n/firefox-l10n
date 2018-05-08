@@ -45,12 +45,16 @@ permissions-searchbox =
 permissions-exceptions-tracking-protection-window =
     .title = Ngoại lệ - Chống theo dõi
     .style = { permissions-window.style }
+permissions-exceptions-tracking-protection-desc = Bạn đã tắt chế độ chống theo dõi ở các trang web này.
 
 ## Exceptions - Cookies
 
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-window =
+    .title = Những trang được cho phép - Popup
+    .style = { permissions-window.style }
 permissions-exceptions-popup-desc = Bạn có thể chỉ định những trang được phép bật cửa sổ popup. Gõ chính xác địa chỉ trang bạn muốn cho phép và sau đó nhấp Cho phép.
 
 ## Exceptions - Saved Logins
@@ -58,19 +62,35 @@ permissions-exceptions-popup-desc = Bạn có thể chỉ định những trang 
 permissions-exceptions-saved-logins-window =
     .title = Ngoại lệ - Đăng nhập đã lưu
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = Đăng nhập các trang web sau sẽ không được lưu
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-window =
+    .title = Những trang được cho phép - Cài đặt tiện ích
+    .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Bạn có thể chỉ định trang web nào được phép cài tiện ích. Gõ chính xác địa chỉ trang bạn muốn cho phép và sau đó nhấp Cho phép.
 
 ## Site Permissions - Notifications
 
+permissions-site-notification-window =
+    .title = Cài đặt - Quyển thông báo
+    .style = { permissions-window.style }
 
 ## Site Permissions - Location
 
+permissions-site-location-window =
+    .title = Cài đặt - Quyền truy cập vị trí
+    .style = { permissions-window.style }
 
 ## Site Permissions - Camera
 
+permissions-site-camera-window =
+    .title = Cài đặt - Quyền sử dụng máy quay
+    .style = { permissions-window.style }
 
 ## Site Permissions - Microphone
 
+permissions-site-microphone-window =
+    .title = Cài đặt - Quyền micrô
+    .style = { permissions-window.style }
