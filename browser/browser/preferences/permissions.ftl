@@ -32,12 +32,14 @@ permissions-invalid-uri-label = Sicela ufake igama lomxhumi elisebenzayo
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-desc = Ungasho ngokuqondile ukuthi iziphi izingosi ezivunyelwe ukuvula amafasitela aqhamuka esikhaleni. Bhala ikheli eliqondile le ngosi ofuna ukuyivumela bese uchofoza okuthi Vumela.
 
 ## Exceptions - Saved Logins
 
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-desc = Ungasho ngokuqondile ukuthi imaphi amawebhusayithi avunyelwe ukufakela isenezelo. Bhala ikheli eliqondile lesayithi ofuna ukulivumela bese uchofoza okuthi Vumela.
 
 ## Site Permissions - Notifications
 
