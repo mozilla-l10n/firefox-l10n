@@ -18,3 +18,37 @@ permissions-status =
 permissions-button-cancel =
     .label = Twa-mu
     .accesskey = w
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Wo abɔ ɔhɔhogyefo din nkontompo
+permissions-invalid-uri-label = Me srɛ wo, bɔ ɔhɔhogyefo din a ɛyɛ nokware
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = Wobetumi apaw awɛbsaet titiriw a wɔwɔ kwan sɛ wobebue bue-pue-so ntokuro. Bɔ saet koro no a wopɛ sɛ woma no kwan no adrɛs na klike Ma kwan.
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = Wobetumi apaw awɛb saet a wɔwɔ kwan sɛ wɔbɛ instɔɔle nkaho. Bɔ saet koro no a wopɛ sɛ woma no kwan no adrɛs na klike Ma kwan.
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
