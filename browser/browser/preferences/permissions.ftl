@@ -44,6 +44,9 @@ permissions-invalid-uri-label = অনুগ্রহ করে কার্য�
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = ব্যতিক্রমসমূহ - ট্রাকিং সুরক্ষা
+    .style = { permissions-window.style }
 
 ## Exceptions - Cookies
 
@@ -54,6 +57,9 @@ permissions-exceptions-popup-desc = কোন ওয়েবসাইটগুল�
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = ব্যতিক্রম - সংরক্ষিত লগইন
+    .style = { permissions-window.style }
 
 ## Exceptions - Add-ons
 
