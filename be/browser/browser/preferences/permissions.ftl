@@ -47,12 +47,16 @@ permissions-invalid-uri-label = Увядзіце назву хоста
 permissions-exceptions-tracking-protection-window =
     .title = Выключэнні - Ахова ад сачэння
     .style = { permissions-window.style }
+permissions-exceptions-tracking-protection-desc = Вы адключылі ахову ад сачэння на гэтых вэб-сайтах.
 
 ## Exceptions - Cookies
 
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-window =
+    .title = Дазволеныя вэб-сайты - Выплыўныя вокны
+    .style = { permissions-window.style }
 permissions-exceptions-popup-desc = Вы можаце вызначыць, якім вэб-сайтам дазволена адкрываць выплыўныя вокны. Набярыце дакладны адрас сайта, якому вы хочаце дазволіць гэта, і пстрыкніце Дазволіць.
 
 ## Exceptions - Saved Logins
@@ -60,9 +64,13 @@ permissions-exceptions-popup-desc = Вы можаце вызначыць, які
 permissions-exceptions-saved-logins-window =
     .title = Выключэнні - Запісаныя лагіны
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = Лагіны для наступных вэб-сайтаў не будуць захаваны
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-window =
+    .title = Дазволеныя вэб-сайты - Усталяванне дадаткаў
+    .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Вы можаце вызначыць, якім вэб-сайтам дазволена ўсталёўваць дадаткі. Набярыце дакладны адрас сайта, якому вы хочаце гэта дазволіць, і пстрыкніце Дазволіць.
 
 ## Site Permissions - Notifications
@@ -70,9 +78,18 @@ permissions-exceptions-addons-desc = Вы можаце вызначыць, як�
 
 ## Site Permissions - Location
 
+permissions-site-location-window =
+    .title = Налады - Дазволы месцазнаходжання
+    .style = { permissions-window.style }
 
 ## Site Permissions - Camera
 
+permissions-site-camera-window =
+    .title = Налады - Дазволы камеры
+    .style = { permissions-window.style }
 
 ## Site Permissions - Microphone
 
+permissions-site-microphone-window =
+    .title = Налады - Дазволы мікрафона
+    .style = { permissions-window.style }
