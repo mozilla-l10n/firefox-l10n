@@ -51,6 +51,9 @@ permissions-exceptions-tracking-protection-desc = Jarraipenaren babesa desgaitu 
 
 ## Exceptions - Cookies
 
+permissions-exceptions-cookie-window =
+    .title = Salbuespenak - Cookieak eta guneen datuak
+    .style = { permissions-window.style }
 
 ## Exceptions - Pop-ups
 
@@ -64,6 +67,7 @@ permissions-exceptions-popup-desc = Popup leihoak irekitzeko baimena duten webgu
 permissions-exceptions-saved-logins-window =
     .title = Salbuespenak - Gordetako saio-hasierak
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = Ondorengo webguneetako saio-hasierak ez dira gordeko
 
 ## Exceptions - Add-ons
 
@@ -77,21 +81,37 @@ permissions-exceptions-addons-desc = Gehigarriak instalatzeko baimena duten webg
 permissions-site-notification-window =
     .title = Ezarpenak - Jakinarazpenen baimenak
     .style = { permissions-window.style }
+permissions-site-notification-desc = Ondorengo webguneek zuri jakinarazpenak bidaltzea eskatu dute. Jakinarazpenak bidal ditzaketen webguneak zehatz ditzakezu. Jakinarazpenak bidaltzeko eskaerak ere blokea ditzakezu.
+permissions-site-notification-disable-label =
+    .label = Blokeatu jakinarazpenak bidaltzeko eskaera berriak
+permissions-site-notification-disable-desc = Aukera honekin, jakinarazpenak bidaltzeko baimenak eskatzea galaraziko zaie goian zerrendatzen ez diren webguneei. Jakinarazpenak blokeatzeak webguneen zenbait eginbide hauts litzake.
 
 ## Site Permissions - Location
 
 permissions-site-location-window =
     .title = Ezarpenak - Kokapenaren baimenak
     .style = { permissions-window.style }
+permissions-site-location-desc = Ondorengo webguneek zure kokalekua ezagutzea eskatu dute. Kokalekua ezagut dezaketen webguneak zehatz ditzakezu. Kokalekua ezagutzeko eskaerak ere blokea ditzakezu.
+permissions-site-location-disable-label =
+    .label = Blokeatu zure kokalekua ezagutzeko eskaera berriak
+permissions-site-location-disable-desc = Aukera honekin, kokalekua ezagutzeko baimenak eskatzea galaraziko zaie goian zerrendatzen ez diren webguneei. Kokalekuaren ezagutza blokeatzeak webguneen zenbait eginbide hauts litzake.
 
 ## Site Permissions - Camera
 
 permissions-site-camera-window =
     .title = Ezarpenak - Kameraren baimenak
     .style = { permissions-window.style }
+permissions-site-camera-desc = Ondorengo webguneek zure kamera erabiltzea eskatu dute. Kamera erabil dezaketen webguneak zehatz ditzakezu. Kamera erabiltzeko eskaerak ere blokea ditzakezu.
+permissions-site-camera-disable-label =
+    .label = Blokeatu zure kamera erabiltzeko eskaera berriak
+permissions-site-camera-disable-desc = Aukera honekin, kamera erabiltzeko baimenak eskatzea galaraziko zaie goian zerrendatzen ez diren webguneei. Kamerarako sarbidea blokeatzeak webguneen zenbait eginbide hauts litzake.
 
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window =
     .title = Ezarpenak - Mikrofonoaren baimenak
     .style = { permissions-window.style }
+permissions-site-microphone-desc = Ondorengo webguneek zure mikrofonoa erabiltzea eskatu dute. Mikrofonoa erabil ditzaketen webguneak zehatz ditzakezu. Mikrofonoa erabiltzeko eskaerak ere blokea ditzakezu.
+permissions-site-microphone-disable-label =
+    .label = Blokeatu zure mikrofonoa erabiltzeko eskaera berriak
+permissions-site-microphone-disable-desc = Aukera honekin, mikrofonoa erabiltzeko baimenak eskatzea galaraziko zaie goian zerrendatzen ez diren webguneei. Mikrofonorako sarbidea blokeatzeak webguneen zenbait eginbide hauts litzake.
