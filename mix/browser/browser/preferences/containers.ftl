@@ -27,3 +27,7 @@ containers-color-green =
     .label = Kuii
 containers-color-red =
     .label = Kua'a
+containers-icon-pet =
+    .label = Kitíi
+containers-icon-tree =
+    .label = Tu yutu
