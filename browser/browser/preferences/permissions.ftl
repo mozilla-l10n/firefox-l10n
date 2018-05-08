@@ -36,3 +36,35 @@ permissions-button-ok =
     .accesskey = E
 permissions-searchbox =
     .placeholder = Recercar un site web
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Nom d'òste picat invalid
+permissions-invalid-uri-label = Picatz un nom d'òste valid
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
