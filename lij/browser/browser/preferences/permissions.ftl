@@ -36,3 +36,37 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = Çerca scito
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Nomme de host no valido
+permissions-invalid-uri-label = Pe piaxei inserisci un nomme de host valido
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = Ti ti peu dî quæ sciti peuan arvî barcoin de pop-up. Scrivi l'indirisso di sciti a-i quæ ti ghe veu dâ o permisso e sciacca Permetti.
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = Ti ti peu dî quæ sciti peuan arvî ò instalâ di conponenti azonti. Scrivi l'indirisso di sciti a-i quæ ti veu dâ o permisso e sciacca Permetti.
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
