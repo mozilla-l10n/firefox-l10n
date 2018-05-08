@@ -40,6 +40,7 @@ permissions-searchbox =
 ## Invalid Hostname Dialog
 
 permissions-invalid-uri-title = La direición del host nun ye válida
+permissions-invalid-uri-label = Por favor, introduz un nome de host válidu
 
 ## Exceptions - Tracking Protection
 
@@ -49,12 +50,14 @@ permissions-invalid-uri-title = La direición del host nun ye válida
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-desc = Pues especificar qué sitios web puen abrir ventanes emerxentes. Escribi la direición exauta del sitiu que quies permitir y calca Permitir.
 
 ## Exceptions - Saved Logins
 
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-desc = Pues especificar dende qué sitios web ta permitío instalar complementos. Escribi la direición exauta del sitiu que quies permitir y calca Permitir.
 
 ## Site Permissions - Notifications
 
