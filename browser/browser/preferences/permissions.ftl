@@ -72,6 +72,10 @@ permissions-exceptions-saved-logins-desc = As credenciais para os seguintes webs
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-window =
+    .title = Websites permitidos - Instalação de Extras
+    .style = { permissions-window.style }
+permissions-exceptions-addons-desc = Pode especificar quais os websites que têm permissão para instalar extras. Introduza o endereço exato do site que pretende permitir e depois clique em Permitir.
 
 ## Site Permissions - Notifications
 
