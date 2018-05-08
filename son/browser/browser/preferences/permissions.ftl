@@ -24,3 +24,35 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Barmawey gaabu
     .accesskey = g
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Zunbudoo maa laalo ka damandi
+permissions-invalid-uri-label = Taare war ma zunbudoo maa boryo dam
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
