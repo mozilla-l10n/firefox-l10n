@@ -39,9 +39,14 @@ permissions-searchbox =
 
 ## Invalid Hostname Dialog
 
+permissions-invalid-uri-title = Geçersiz sunucu adı girildi
+permissions-invalid-uri-label = Lütfen geçerli bir sunucu adı girin
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = İstisnalar - İzlenme Koruması
+    .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = Bu sitelerde İzlenme Koruması’nı devre dışı bıraktınız.
 
 ## Exceptions - Cookies
@@ -56,6 +61,7 @@ permissions-exceptions-cookie-desc = Hangi web sitelerinin çerezleri ve site ve
 permissions-exceptions-popup-window =
     .title = İzin Verilen Siteler - Açılır Pencereler
     .style = { permissions-window.style }
+permissions-exceptions-popup-desc = Hangi sitelerin açılır pencere açabileceğini belirleyebilirsiniz. İzin vermek istediğiniz sitenin tam adresini yazdıktan sonra İzin ver’e tıklayın.
 
 ## Exceptions - Saved Logins
 
@@ -68,6 +74,7 @@ permissions-exceptions-saved-logins-window =
 permissions-exceptions-addons-window =
     .title = İzin Verilen Siteler - Eklenti Yükleme
     .style = { permissions-window.style }
+permissions-exceptions-addons-desc = Hangi sitelerin eklenti yükleyebileceğini belirleyebilirsiniz. İzin vermek istediğiniz sitenin tam adresini yazdıktan sonra İzin ver’e tıklayın.
 
 ## Site Permissions - Notifications
 
