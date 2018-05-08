@@ -76,21 +76,37 @@ permissions-exceptions-addons-desc = Bạn có thể chỉ định trang web nà
 permissions-site-notification-window =
     .title = Cài đặt - Quyển thông báo
     .style = { permissions-window.style }
+permissions-site-notification-desc = Các trang web dưới đây đã yêu cầu để gửi thông báo tới bạn. Bạn có thể chỉ định những trang web nào được phép gửi bạn thông báo. Bạn cũng có thể chặn những yêu cầu mà bạn không muốn cho phép.
+permissions-site-notification-disable-label =
+    .label = Chặn các yêu cầu mới về việc cho phép gửi thông báo
+permissions-site-notification-disable-desc = Điều này sẽ ngăn chặn bất cứ trang web nào không được liệt kê ở trên gửi yêu cầu cho phép việc gửi thông báo. Chặn thông báo có thể ảnh hưởng đến một số tính năng trang web.
 
 ## Site Permissions - Location
 
 permissions-site-location-window =
     .title = Cài đặt - Quyền truy cập vị trí
     .style = { permissions-window.style }
+permissions-site-location-desc = Các trang web dưới đây đã yêu cầu quyền truy cập vị trí của bạn. Bạn có thể chỉ định những trang web nào được phép truy cập vị trí của bạn. Bạn cũng có thể chặn các yêu cầu mới về việc xin cấp quyền truy cập vị trí.
+permissions-site-location-disable-label =
+    .label = Chặn các yêu cầu mới về việc cho phép tru cập vị trí của bạn
+permissions-site-location-disable-desc = Điều này sẽ ngăn chặn bất cứ trang web nào không được liệt kê ở trên gửi yêu cầu cho phép việc truy cập vị trí của bạn. Chặn thông báo có thể ảnh hưởng đến một số tính năng trang web.
 
 ## Site Permissions - Camera
 
 permissions-site-camera-window =
     .title = Cài đặt - Quyền sử dụng máy quay
     .style = { permissions-window.style }
+permissions-site-camera-desc = Các trang web dưới đây đã yêu cầu quyền truy cập máy ảnh của bạn. Bạn có thể chỉ định những trang web nào được phép truy cập máy ảnh của bạn. Bạn cũng có thể chặn các yêu cầu mới về việc xin cấp quyền truy cập máy ảnh của bạn.
+permissions-site-camera-disable-label =
+    .label = Chặn các yêu cầu mới về việc cho phép tru cập máy ảnh của bạn
+permissions-site-camera-disable-desc = Điều này sẽ ngăn chặn bất cứ trang web nào không được liệt kê ở trên gửi yêu cầu cho phép việc truy cập máy ảnh của bạn. Chặn thông báo có thể ảnh hưởng đến một số tính năng trang web.
 
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window =
     .title = Cài đặt - Quyền micrô
     .style = { permissions-window.style }
+permissions-site-microphone-desc = Các trang web dưới đây đã yêu cầu quyền truy cập micrô của bạn. Bạn có thể chỉ định những trang web nào được phép truy cập micrô của bạn. Bạn cũng có thể chặn các yêu cầu mới về việc xin cấp quyền truy cập micrô của bạn.
+permissions-site-microphone-disable-label =
+    .label = Chặn các yêu cầu mới về việc cho phép tru cập micrô của bạn
+permissions-site-microphone-disable-desc = Điều này sẽ ngăn chặn bất cứ trang web nào không được liệt kê ở trên gửi yêu cầu cho phép việc truy cập micrô của bạn. Chặn thông báo có thể ảnh hưởng đến một số tính năng trang web.
