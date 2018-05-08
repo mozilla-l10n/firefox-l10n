@@ -44,6 +44,9 @@ permissions-invalid-uri-label = Նշեք հանգույցի վավեր անու�
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = Բացառություններ՝ Հետագծման պաշտպանություն
+    .style = { permissions-window.style }
 
 ## Exceptions - Cookies
 
@@ -54,6 +57,9 @@ permissions-exceptions-popup-desc = Դուք կարող էք նշել, թե որ
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = Բացառություններ՝ պահված մուտքագրումներ
+    .style = { permissions-window.style }
 
 ## Exceptions - Add-ons
 
