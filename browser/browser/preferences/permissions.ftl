@@ -24,3 +24,34 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Sábháil na hAthruithe
     .accesskey = S
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Óstainm neamhbhailí
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
