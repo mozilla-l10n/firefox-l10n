@@ -51,6 +51,9 @@ permissions-exceptions-tracking-protection-desc = এই সমস্ত ওয়�
 
 ## Exceptions - Cookies
 
+permissions-exceptions-cookie-window =
+    .title = ব্যতিক্রম - কুকিজ এবং সাইট ডাটা
+    .style = { permissions-window.style }
 
 ## Exceptions - Pop-ups
 
@@ -75,6 +78,9 @@ permissions-exceptions-addons-desc = কোন ওয়েবসাইটগুল
 
 ## Site Permissions - Notifications
 
+permissions-site-notification-window =
+    .title = সেটিং - বিজ্ঞপ্তির অনুমতি
+    .style = { permissions-window.style }
 permissions-site-notification-disable-label =
     .label = নোটিফিকেশন অনুমোদনের নতুন অনুরোধ ব্লক করুন
 
@@ -83,6 +89,8 @@ permissions-site-notification-disable-label =
 permissions-site-location-window =
     .title = সেটিং - অবস্থান অনুমতি
     .style = { permissions-window.style }
+permissions-site-location-disable-label =
+    .label = আপনার অবস্থানের তথ্য জানার নতুন অনুরোধ ব্লক করুন
 
 ## Site Permissions - Camera
 
