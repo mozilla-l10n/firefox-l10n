@@ -44,19 +44,32 @@ permissions-invalid-uri-label = Introduïu un nom d'ordinador central vàlid
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = Excepcions - Protecció contra el seguiment
+    .style = { permissions-window.style }
+permissions-exceptions-tracking-protection-desc = Heu desactivat la protecció contra el seguiment en aquests llocs web.
 
 ## Exceptions - Cookies
 
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-window =
+    .title = Llocs web permesos - Finestres emergents
+    .style = { permissions-window.style }
 permissions-exceptions-popup-desc = Podeu especificar quins llocs webs poden obrir finestres emergents. Escriviu l'adreça exacta del lloc que vulgueu permetre i feu clic a Permet.
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = Excepcions - Inicis de sessió desats
+    .style = { permissions-window.style }
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-window =
+    .title = Llocs web permesos - Instal·lació de complements
+    .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Podeu especificar quins llocs web poden instal·lar complements. Escriviu l'adreça exacta del lloc que vulgueu permetre i feu clic a Permet.
 
 ## Site Permissions - Notifications
