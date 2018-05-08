@@ -36,3 +36,37 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = Pretraži web stranicu
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Upisano ime poslužitelja je netočno
+permissions-invalid-uri-label = Molim vas, upišite valjano ime poslužitelja
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = Možete odrediti koje web stranice smiju prikazivati skočne prozore. Upišite točnu adresu web stranice kojoj to želite dopustiti, te kliknite na Dopusti.
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = Možete odabrati koje web stranice smiju instalirati dodatke. Upišite točnu adresu web stranice kojoj to želite dopustiti, te kliknite na Dopusti.
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
