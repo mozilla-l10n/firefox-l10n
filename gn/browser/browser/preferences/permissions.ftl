@@ -64,6 +64,7 @@ permissions-exceptions-popup-desc = Ikatu rehechauka mba'e ñanduti renda guivé
 permissions-exceptions-saved-logins-window =
     .title = Oĩ'ỹva - Emoñepyrũ tembiapo ñongatupyre
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = Mba'ekuaa jeike hag̃ua ko'ã ñandutirenda rehegua noñeñongatumo'ãi
 
 ## Exceptions - Add-ons
 
@@ -80,9 +81,18 @@ permissions-site-notification-window =
 
 ## Site Permissions - Location
 
+permissions-site-location-window =
+    .title = Ñangareko - Tenda Reimeha Rehegua
+    .style = { permissions-window.style }
 
 ## Site Permissions - Camera
 
+permissions-site-camera-window =
+    .title = Ñangareko - Camara Jepuru
+    .style = { permissions-window.style }
 
 ## Site Permissions - Microphone
 
+permissions-site-microphone-window =
+    .title = Ñangareko - Ñe'ẽmbotuichaha Jepuru
+    .style = { permissions-window.style }
