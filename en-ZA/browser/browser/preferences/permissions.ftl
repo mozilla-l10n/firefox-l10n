@@ -32,6 +32,9 @@ permissions-invalid-uri-label = Please enter a valid hostname
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = Exceptions - Tracking Protection
+    .style = { permissions-window.style }
 
 ## Exceptions - Cookies
 
