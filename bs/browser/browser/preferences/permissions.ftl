@@ -47,12 +47,16 @@ permissions-invalid-uri-label = Molimo unesite ispravno ime hosta
 permissions-exceptions-tracking-protection-window =
     .title = Izuzeci - Zaštita od praćenja
     .style = { permissions-window.style }
+permissions-exceptions-tracking-protection-desc = Onemogućili ste zaštitu od praćenja na ovim web stranicama.
 
 ## Exceptions - Cookies
 
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-window =
+    .title = Dozvoljene web stranice - Pop-up prozori
+    .style = { permissions-window.style }
 permissions-exceptions-popup-desc = Možete odrediti kojim web stranicama je dozvoljeno da otvaraju pop-up prozore. Unesite tačnu adresu stranice i kliknite na Dozvoli.
 
 ## Exceptions - Saved Logins
@@ -60,19 +64,35 @@ permissions-exceptions-popup-desc = Možete odrediti kojim web stranicama je doz
 permissions-exceptions-saved-logins-window =
     .title = Izuzeci - Spašene prijave
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = Prijave za sljedeće stranice neće biti sačuvane
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-window =
+    .title = Dozvoljene web stranice - Instalacija add-ona
+    .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Možete odrediti kojim web stranicama je dozvoljeno da instaliraju add-one. Unesite tačnu adresu stranice i zatim kliknite na Dozvoli.
 
 ## Site Permissions - Notifications
 
+permissions-site-notification-window =
+    .title = Postavke - Dozvole za obavještenja
+    .style = { permissions-window.style }
 
 ## Site Permissions - Location
 
+permissions-site-location-window =
+    .title = Postavke - Dozvole za lokaciju
+    .style = { permissions-window.style }
 
 ## Site Permissions - Camera
 
+permissions-site-camera-window =
+    .title = Postavke - Dozvole za kameru
+    .style = { permissions-window.style }
 
 ## Site Permissions - Microphone
 
+permissions-site-microphone-window =
+    .title = Postavke - Dozvole za mikrofon
+    .style = { permissions-window.style }
