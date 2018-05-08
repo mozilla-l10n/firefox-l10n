@@ -51,6 +51,10 @@ permissions-exceptions-tracking-protection-desc = You have disabled Tracking Pro
 
 ## Exceptions - Cookies
 
+permissions-exceptions-cookie-window =
+    .title = Izjāmumi - seikdatnes un kešatmiņa
+    .style = { permissions-window.style }
+permissions-exceptions-cookie-desc = Tu vari nūrōdēt, kurom lopom ir un kurom nav atļauts izmontōt seikdatnes un kešatmiņu. Īroksti precizu lopys adresi un mīdz uz Bloķēt, Atļaut iz seseji  voi Atļaut.
 
 ## Exceptions - Pop-ups
 
@@ -78,21 +82,37 @@ permissions-exceptions-addons-desc = Jius varot nūruodeit, nu kurom lopom ir at
 permissions-site-notification-window =
     .title = Īstatiejumi - paziņuojumu atļuovis
     .style = { permissions-window.style }
+permissions-site-notification-desc = Itōs lopys ir lyugušas atļauji tev syutēt paziņojumus. Tu vari nūrōdēt, kurom lopom ir atļauts syutēt paziņojumus. Tu vari ari bloķēt lyugumus par paziņojumu syutiešonu.
+permissions-site-notification-disable-label =
+    .label = Bloķēt nōkutnes lyugumus par paziņojumu syutiešonu
+permissions-site-notification-disable-desc = Tys aizlīgs vyskurom lopom, kuras nav uzskaiteitas zamōk, pīpraseit atļauju syuteit paziņojumus. Paziņojumu bloķiešona var samaitōt daļi nu lopys funkcionalitates.
 
 ## Site Permissions - Location
 
 permissions-site-location-window =
     .title = Īstatiejumi - atsarasšona vītys atļuovis
     .style = { permissions-window.style }
+permissions-site-location-desc = Itōs lopys ir pīprasejušas pīeji tova acarašonas vītai. Tu vari nūrōdēt, kurom lopom ir atļauts pīkļiut tovai acarošonas vītai. Tai pat var aizlīgt vysus nōkutnes pīprasejumus atļaut pīkļiut tovai acarošonas vītai.
+permissions-site-location-disable-label =
+    .label = Bloķēt nōkutnes pīprasejumus pīkļiut tovai acarošonas vītai
+permissions-site-location-disable-desc = Tys aizlīgs vyskurom lopom, kuras nav uzskaiteitas zamōk, pīpraseit atļauju pīkļiut tovai acarašonas vītai. Bloķiešona pīejai acarašonas vītai var samaitōt daļi nu lopys funkcionalitates.
 
 ## Site Permissions - Camera
 
 permissions-site-camera-window =
     .title = Settings - Camera Permissions
     .style = { permissions-window.style }
+permissions-site-camera-desc = Itōs lopys ir lyugušas pīeeju tovai kamerai. Tu vari nūrōdēt kurōm lopom ir atļauts piekļiut tovai kamerai. Vāļ tu vari bloķēt vysus nōkutnes lyugumus pec atļaujas pīkļiut tovai kamerai.
+permissions-site-camera-disable-label =
+    .label = Bloķēt nōkutnes pīprasejumus pīkļiut tovai kamerai
+permissions-site-camera-disable-desc = Tys aizlīgs vyskurom lopom, kuras nav uzskaiteitas zamōk, pīpraseit atļauju pīkļiut tovai kamerai. Bloķiešona pīejai kamerai var samaitōt daļi nu lopys funkcionalitates.
 
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window =
     .title = Settings - Microphone Permissions
     .style = { permissions-window.style }
+permissions-site-microphone-desc = Itōs lopys ir lyugušas pīeeju tovam mikrofonam. Tu vari nūrōdēt kurōm lopom ir atļauts piekļiut tovam mikrofonam. Vāļ tu vari bloķēt vysus nōkutnes lyugumus pec atļaujas pīkļiut tovam mikrofonam.
+permissions-site-microphone-disable-label =
+    .label = Bloķēt nōkutnes pīprasejumus pīkļiut tovam mikrofonam
+permissions-site-microphone-disable-desc = Tys aizlīgs vyskurom lopom, kuras nav uzskaiteitas zamōk, pīpraseit atļauju pīkļiut tovam mikrofonam. Bloķiešona pīejai mikrofonam var samaitōt daļi nu lopys funkcionalitates.
