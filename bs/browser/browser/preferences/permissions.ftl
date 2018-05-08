@@ -44,6 +44,9 @@ permissions-invalid-uri-label = Molimo unesite ispravno ime hosta
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = Izuzeci - Zaštita od praćenja
+    .style = { permissions-window.style }
 
 ## Exceptions - Cookies
 
@@ -54,6 +57,9 @@ permissions-exceptions-popup-desc = Možete odrediti kojim web stranicama je doz
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = Izuzeci - Spašene prijave
+    .style = { permissions-window.style }
 
 ## Exceptions - Add-ons
 
