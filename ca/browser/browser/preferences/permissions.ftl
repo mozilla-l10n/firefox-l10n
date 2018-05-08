@@ -50,12 +50,14 @@ permissions-invalid-uri-label = Introduïu un nom d'ordinador central vàlid
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-desc = Podeu especificar quins llocs webs poden obrir finestres emergents. Escriviu l'adreça exacta del lloc que vulgueu permetre i feu clic a Permet.
 
 ## Exceptions - Saved Logins
 
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-desc = Podeu especificar quins llocs web poden instal·lar complements. Escriviu l'adreça exacta del lloc que vulgueu permetre i feu clic a Permet.
 
 ## Site Permissions - Notifications
 
