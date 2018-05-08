@@ -74,12 +74,24 @@ permissions-exceptions-addons-desc = Yatikïr naya' retal pan achike ruxaq k'ama
 
 ## Site Permissions - Notifications
 
+permissions-site-notification-window =
+    .title = Taq runuk'ulem - Ya'oj Q'ij richin Rutzijol
+    .style = { permissions-window.style }
 
 ## Site Permissions - Location
 
+permissions-site-location-window =
+    .title = Taq runuk'ulem - Ya'oj Q'ij richin K'ojlib'äl
+    .style = { permissions-window.style }
 
 ## Site Permissions - Camera
 
+permissions-site-camera-window =
+    .title = Taq runuk'ulem - Ya'oj Q'ij richin Elesäy Wachib'äl
+    .style = { permissions-window.style }
 
 ## Site Permissions - Microphone
 
+permissions-site-microphone-window =
+    .title = Taq runuk'ulem - Ya'oj Q'ij richin Q'asäy Tzij
+    .style = { permissions-window.style }
