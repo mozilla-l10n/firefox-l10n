@@ -36,3 +36,34 @@ permissions-button-ok =
     .accesskey = შ
 permissions-searchbox =
     .placeholder = საიტის ძიება
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-label = გთხოვთ მიუთითოთ სერვერის მართებული სახელი
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
