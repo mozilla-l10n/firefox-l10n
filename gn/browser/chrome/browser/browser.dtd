@@ -992,7 +992,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.disableButton.label "Eipe'aite jepysokue">
 <!ENTITY homepageControlled.disableButton.accesskey "D">
 
+<!ENTITY tabHideControlled.header.message "Eike ne rendayke kañýme">
+<!ENTITY tabHideControlled.keepButton.label "Eguereko ne rendayke kañyhápe">
 <!ENTITY tabHideControlled.keepButton.accesskey "K">
+<!ENTITY tabHideControlled.disableButton.label "Eipe’aite jepysokue">
 <!ENTITY tabHideControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "Kuatiarogue rembiapo">
