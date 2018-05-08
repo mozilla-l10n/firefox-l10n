@@ -40,6 +40,7 @@ permissions-searchbox =
 ## Invalid Hostname Dialog
 
 permissions-invalid-uri-title = Nome de servidor inválido
+permissions-invalid-uri-label = Digite um nome de host válido
 
 ## Exceptions - Tracking Protection
 
@@ -52,21 +53,36 @@ permissions-exceptions-tracking-protection-window =
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-desc = Você pode especificar quais sites têm permissões para abrir janelas pop-up. Digite o endereço exato do site que deseja permitir e clique em Permitir.
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = Exceções - Contas de acesso salvas
+    .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = As contas de acesso para os seguintes sites não serão salvas
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-desc = Você pode especificar quais sites têm permissões para instalar extensões. Digite o endereço exato do site que deseja permitir e clique em Permitir.
 
 ## Site Permissions - Notifications
 
+permissions-site-notification-desc = Os seguintes sites solicitaram enviar notificações. Você pode especificar quais sites podem enviar notificações. Você também pode bloquear novas solicitações pedindo para permitir notificações.
+permissions-site-notification-disable-desc = Isto impedirá que qualquer site não listado acima solicite permissão para enviar notificações. Bloquear notificações pode quebrar algumas funcionalidades de sites.
 
 ## Site Permissions - Location
 
+permissions-site-location-desc = Os seguintes sites solicitaram acessar sua localização. Você pode especificar quais sites podem acessar sua localização. Você também pode bloquear novas solicitações pedindo acesso à sua localização.
+permissions-site-location-disable-label =
+    .label = Bloquear novas solicitações pedindo para acessar sua localização
 
 ## Site Permissions - Camera
 
+permissions-site-camera-disable-label =
+    .label = Bloquear novas solicitações pedindo para acessar sua câmera
 
 ## Site Permissions - Microphone
 
+permissions-site-microphone-disable-label =
+    .label = Bloquear novas solicitações pedindo para acessar seu microfone
