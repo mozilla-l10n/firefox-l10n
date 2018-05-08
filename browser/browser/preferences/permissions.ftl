@@ -51,6 +51,9 @@ permissions-exceptions-tracking-protection-desc = 您已对下列网站停用跟
 
 ## Exceptions - Cookies
 
+permissions-exceptions-cookie-window =
+    .title = 例外 - Cookie 和网站数据
+    .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = 您可以指定始终允许或不允许哪些网站使用 Cookie 和网站数据。请输入所要指定的完整网址，选择“阻止”、“在这次浏览器间允许”或“允许”。
 
 ## Exceptions - Pop-ups
@@ -62,6 +65,10 @@ permissions-exceptions-popup-desc = 您可以指定哪些网站可以打开弹�
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = 例外 - 已保存的登录信息
+    .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = 下列网站的登录信息将不被保存
 
 ## Exceptions - Add-ons
 
