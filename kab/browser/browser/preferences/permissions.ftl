@@ -60,6 +60,7 @@ permissions-exceptions-cookie-window =
 permissions-exceptions-popup-window =
     .title = Ismal yettwasirgen - isfuyla udhimen
     .style = { permissions-window.style }
+permissions-exceptions-popup-desc = Tzemreḍ ad d-tmuddeḍ ismal web ara teǧǧeḍ ad ldin isfuyla udhimen. Sekcem tansa n usmel tebɣiḍ ad teǧǧeḍ sakin sit ɣef Sireg.
 
 ## Exceptions - Saved Logins
 
@@ -73,9 +74,13 @@ permissions-exceptions-saved-logins-desc = Inekcumen n yismal-agi ur ttwaklasen 
 permissions-exceptions-addons-window =
     .title = Ismal ittusirgen - Asebded n izegrar
     .style = { permissions-window.style }
+permissions-exceptions-addons-desc = Tzemreḍ ad d-tmuddeḍ ismal web ara teǧǧeḍ ad sbedden izegrar. Sekcem tansa n usmel tebɣiḍ ad teǧǧeḍ u sit ɣef Sireg.
 
 ## Site Permissions - Notifications
 
+permissions-site-notification-window =
+    .title = Iɣewwaṛen - Tisirag n ilɣa
+    .style = { permissions-window.style }
 permissions-site-notification-desc = Ismal-agi web sutren-d asireg i tuzna n ilɣa. Tzemreḍ ad tferneḍ anwa ismal izemren ad ak-d-aznen ilɣa. Tzemreḍ daɣen ad teswaḥleḍ asuter imaynuten.
 permissions-site-notification-disable-label =
     .label = Sewḥel isuturen n usiregn ilɣa imaynuten
@@ -83,6 +88,9 @@ permissions-site-notification-disable-desc = Aya ad isewḥel asuter n tsirag n 
 
 ## Site Permissions - Location
 
+permissions-site-location-window =
+    .title = Iɣewwaṛen - Tisirag n ilɣa
+    .style = { permissions-window.style }
 permissions-site-location-desc = Ismal-agi web sutren-d anekcum γer wadig. tzemreḍ ad tferneḍ anwa ismal ad ikecmen γer wadig inek. Tzemreḍ daγen ad teswaḥleḍ asuter n unekcum γer wadig inek.
 permissions-site-location-disable-label =
     .label = Sewḥel isuturen imaynuten n unekcum γer wadig
@@ -90,6 +98,9 @@ permissions-site-location-disable-desc = Aya ad isewḥel asuter n tsirag n n un
 
 ## Site Permissions - Camera
 
+permissions-site-camera-window =
+    .title = Iɣewwaṛen - Tisirag n tkamirat
+    .style = { permissions-window.style }
 permissions-site-camera-desc = Ismal-agi web sutren anekcum γer tkamiṛat inek. Tzemreḍ ad tferneḍ anwa ismal ad ikecmen γer tkamiṛat inek. Tzemreḍ daγen ad teswaḥleḍ anekcum γer tkamiṛat.
 permissions-site-camera-disable-label =
     .label = Sewḥel isuturen imaynuten n unekcum ɣer tkamiṛat
@@ -97,6 +108,9 @@ permissions-site-camera-disable-desc = Aya ad isewḥel asuter n tsirag n unekcu
 
 ## Site Permissions - Microphone
 
+permissions-site-microphone-window =
+    .title = Iɣewwaṛen - Tisirag n uṣawaḍ
+    .style = { permissions-window.style }
 permissions-site-microphone-desc = Ismal-agi web sutren-d anekcum γer uṣawaḍ inek.Tzemreḍ ad tferneḍ anwa ismal ad ikecmen γer uṣawaḍ inek. Tzemreḍ daγen ad teswaḥleḍ asuter γer uṣawaḍ inek.
 permissions-site-microphone-disable-label =
     .label = Sewḥel isuturen imaynuten n unekcum ɣer usawaḍ inek
