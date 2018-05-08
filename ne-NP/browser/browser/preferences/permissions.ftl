@@ -47,12 +47,16 @@ permissions-invalid-uri-label = कृपया वैध होस्टना�
 permissions-exceptions-tracking-protection-window =
     .title = अपवाद-ट्रयाकिङ्ग संरक्षण
     .style = { permissions-window.style }
+permissions-exceptions-tracking-protection-desc = तपाईंले यी वेबसाइटहरूमा ट्रयाकिङ्ग सुरक्षा अक्षम गर्नुभएको छ ।
 
 ## Exceptions - Cookies
 
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-window =
+    .title = अनुमति दिइएको वेबसाइटहरू - पप-अपहरू
+    .style = { permissions-window.style }
 permissions-exceptions-popup-desc = You can specify which web sites are allowed to open pop-up windows. Type the exact address of the site you want to allow and then click Allow.
 
 ## Exceptions - Saved Logins
@@ -60,9 +64,13 @@ permissions-exceptions-popup-desc = You can specify which web sites are allowed 
 permissions-exceptions-saved-logins-window =
     .title = अपवादहरू - सङ्ग्रहित लग-इनहरू
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = निम्न वेबसाइटहरू को लागि लगइनहरू संग्रह गरिँदैन
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-window =
+    .title = अनुमति दिइएको वेबसाइटहरू - एड-अन स्थापना
+    .style = { permissions-window.style }
 permissions-exceptions-addons-desc = You can specify which web sites are allowed to install add-ons. Type the exact address of the site you want to allow and then click Allow.
 
 ## Site Permissions - Notifications
