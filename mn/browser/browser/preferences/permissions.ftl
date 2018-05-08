@@ -18,3 +18,35 @@ permissions-status =
 permissions-button-cancel =
     .label = Цуцал
     .accesskey = Ц
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Буруу компьютерийн нэр оруулагдсан байна
+permissions-invalid-uri-label = Зөв компьютерийн нэр оруулна уу
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
