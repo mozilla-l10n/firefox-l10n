@@ -65,6 +65,9 @@ permissions-exceptions-popup-desc = באפשרותך לציין לאלו אתר�
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = חריגות – פרטי כניסה שמורים
+    .style = { permissions-window.style }
 permissions-exceptions-saved-logins-desc = פרטי הכניסה לאתרים הבאים לא יישמרו
 
 ## Exceptions - Add-ons
@@ -79,6 +82,9 @@ permissions-exceptions-addons-desc = באפשרותך לציין לאלו אתר
 permissions-site-notification-window =
     .title = הגדרות - הרשאות להתרעות
     .style = { permissions-window.style }
+permissions-site-notification-desc = האתרים הבאים ביקשו לשלוח אליך התרעות. ניתן לציין לאילו אתרים מותר לשלוח אליך התרעות. ניתן גם לחסום בקשות חדשות לשליחת התרעות.
+permissions-site-notification-disable-label =
+    .label = חסימת בקשות חדשות להפעלת התרעות
 permissions-site-notification-disable-desc = הגדרה זו תמנע מאתרים שלא מופיעים להלן מהגשת בקשה לקבלת הרשאה לשליחת התרעות. חסימת התרעות עשויה להפריע לפעולה של מגוון תכונות באתרים.
 
 ## Site Permissions - Location
@@ -86,6 +92,9 @@ permissions-site-notification-disable-desc = הגדרה זו תמנע מאתרי
 permissions-site-location-window =
     .title = הגדרות - הרשאות מיקום
     .style = { permissions-window.style }
+permissions-site-location-desc = האתרים הבאים ביקשו לגשת למיקום שלך. באפשרותך לציין לאילו אתרים מותר לגשת למיקום שלך. ניתן גם לחסום בקשות חדשות לגשת למיקום שלך.
+permissions-site-location-disable-label =
+    .label = חסימת בקשות חדשות לגישה למיקום שלך
 permissions-site-location-disable-desc = הגדרה זו תמנע מאתרים שלא מופיעים להלן מהגשת בקשה לקבלת הרשאה לגשת למיקום שלך. חסימת הגישה למיקום שלך עשויה להפריע לפעולה של מגוון תכונות באתרים.
 
 ## Site Permissions - Camera
@@ -93,9 +102,17 @@ permissions-site-location-disable-desc = הגדרה זו תמנע מאתרים �
 permissions-site-camera-window =
     .title = הגדרות - הרשאות מצלמה
     .style = { permissions-window.style }
+permissions-site-camera-desc = האתרים הבאים ביקשו לגשת למצלמה שלך. באפשרותך לציין לאילו אתרים מותר לגשת למצלמה שלך. ניתן גם לחסום בקשות חדשות לגשת למצלמה שלך.
+permissions-site-camera-disable-label =
+    .label = חסימת בקשות חדשות לגישה למצלמה שלך
+permissions-site-camera-disable-desc = הגדרה זו תמנע מאתרים שלא מופיעים להלן מהגשת בקשה לקבלת הרשאה לגשת למצלמה שלך. חסימת הגישה למצלמה שלך עשויה להפריע לפעולה של מגוון תכונות באתר.
 
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window =
     .title = הגדרות - הרשאות מיקרופון
     .style = { permissions-window.style }
+permissions-site-microphone-desc = האתרים הבאים ביקשו לגשת למיקרופון שלך. באפשרותך לציין לאילו אתרים מותר לגשת למיקרופון שלך. ניתן גם לחסום בקשות חדשות לגשת למיקרופון שלך.
+permissions-site-microphone-disable-label =
+    .label = חסימת בקשות חדשות לגישה למיקרופון שלך
+permissions-site-microphone-disable-desc = הגדרה זו תמנע מאתרים שלא מופיעים להלן מהגשת בקשה לקבלת הרשאה לגשת למיקרופון שלך. חסימת הגישה למיקרופון שלך עשויה להפריע לפעולה של מגוון תכונות באתר.
