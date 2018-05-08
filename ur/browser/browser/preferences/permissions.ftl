@@ -44,6 +44,9 @@ permissions-invalid-uri-label = کوئی جائز نام میزبان داخل �
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = استثنیات - سراغ کاری سے حفاظت
+    .style = { permissions-window.style }
 
 ## Exceptions - Cookies
 
@@ -54,6 +57,9 @@ permissions-exceptions-popup-desc = آپ اختصاص کر سکتے ہیں کہ 
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = استثنیات ۔ محفوظ شدہ لاگ ان
+    .style = { permissions-window.style }
 
 ## Exceptions - Add-ons
 
