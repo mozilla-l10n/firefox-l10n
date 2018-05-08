@@ -50,12 +50,14 @@ permissions-invalid-uri-label = Picatz un nom d'òste valid
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-desc = Podètz indicar los sites web qu'autorizatz a dobrir de fenèstras sorgissentas. Picatz l'adreça exacta del site que volètz autorizar puèi clicatz sus Autorizar.
 
 ## Exceptions - Saved Logins
 
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-desc = Podètz indicar los sites web qu'autorizatz a installar de moduls complementaris. Picatz l'adreça exacta del site que volètz autorizar puèi clicatz sus Autorizar.
 
 ## Site Permissions - Notifications
 
