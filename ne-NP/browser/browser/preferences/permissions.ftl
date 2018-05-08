@@ -75,12 +75,24 @@ permissions-exceptions-addons-desc = You can specify which web sites are allowed
 
 ## Site Permissions - Notifications
 
+permissions-site-notification-window =
+    .title = सेटिङस् - सूचना अनुमतिहरु
+    .style = { permissions-window.style }
 
 ## Site Permissions - Location
 
+permissions-site-location-window =
+    .title = सेटिङस् - स्थान अनुमतिहरु
+    .style = { permissions-window.style }
 
 ## Site Permissions - Camera
 
+permissions-site-camera-window =
+    .title = सेटिङस् - क्यामेरा अनुमतिहरु
+    .style = { permissions-window.style }
 
 ## Site Permissions - Microphone
 
+permissions-site-microphone-window =
+    .title = सेटिङस् - माइक्रोफोन अनुमतिहरु
+    .style = { permissions-window.style }
