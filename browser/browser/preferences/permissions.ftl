@@ -43,6 +43,9 @@ permissions-invalid-uri-label = Sila masukkan nama hos yang sah
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = Pengecualian - Perlindungan Penjejakan
+    .style = { permissions-window.style }
 
 ## Exceptions - Cookies
 
