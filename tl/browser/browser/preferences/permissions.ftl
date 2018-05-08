@@ -78,12 +78,18 @@ permissions-exceptions-addons-desc = You can specify which web sites are allowed
 permissions-site-notification-window =
     .title = Mga Setting - Mga Pahintulot sa Pag-abiso
     .style = { permissions-window.style }
+permissions-site-notification-desc = Ang mga sumusunod na website ay humiling na magpadala sa iyo ng mga notification. Maaari mong tukuyin kung aling mga website ang pinapayagang magpadala sa iyo ng mga notification. Maaari mo ring i-block ang bagong mga kahilingang humihingi na payagan ang mga notification.
+permissions-site-notification-disable-label =
+    .label = I-block ang mga bagong kahilingang humihingi na payagan ang mga notification
 
 ## Site Permissions - Location
 
 permissions-site-location-window =
     .title = Mga Setting - Mga Pahintulot sa Lokasyon
     .style = { permissions-window.style }
+permissions-site-location-desc = Ang mga sumusunod na website ay humiling na ma-access ang iyong lokasyon. Maaari mong tukuyin kung aling mga website ang pinapayagan na ma-access ang iyong lokasyon. Maaari mo ring i-block ang mga bagong kahilingang humihingi ng access sa iyong lokasyon.
+permissions-site-location-disable-label =
+    .label = I-block ang mga bagong kahilingang humihingi ng access sa iyong lokasyon
 
 ## Site Permissions - Camera
 
