@@ -36,3 +36,34 @@ permissions-button-ok =
     .accesskey = i
 permissions-searchbox =
     .placeholder = Websites trochsykje
+
+## Invalid Hostname Dialog
+
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = Jo kinne oanjaan hokker siden popupfinsters iepenje meie. Typ it krekte adres fan de side dy't jo tastimming jaan wolle en klik dernei op Tastean.
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
