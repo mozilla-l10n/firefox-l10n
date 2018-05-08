@@ -47,12 +47,16 @@ permissions-invalid-uri-label = Lyudzu, īvodit dereigu resursdatora nūsaukumu
 permissions-exceptions-tracking-protection-window =
     .title = Exceptions - Tracking Protection
     .style = { permissions-window.style }
+permissions-exceptions-tracking-protection-desc = You have disabled Tracking Protection on these websites.
 
 ## Exceptions - Cookies
 
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-window =
+    .title = Atļautuos lopys - jaunī lūgi
+    .style = { permissions-window.style }
 permissions-exceptions-popup-desc = Jius varot nūruodeit, kurom lopom ir atļauts attaiseit jaunuos lūgus. Īrkostit precizu lopys adresu, kurai vālotīs atļaut attaiseit jaunuos lūgus, i nūspidit Atļaut.
 
 ## Exceptions - Saved Logins
@@ -60,19 +64,35 @@ permissions-exceptions-popup-desc = Jius varot nūruodeit, kurom lopom ir atļau
 permissions-exceptions-saved-logins-window =
     .title = Izjāmumi - Saglobuotuos paroles
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = Itū vītņu paroles natiks saglobuotys
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-window =
+    .title = Atļautuos lopys - papyldynuojumu instaliešona
+    .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Jius varot nūruodeit, nu kurom lopom ir atļauts instaleit papyldynuojums. Īrkostit precizu lopys adresu, nu kurys vālotīs atļaut papyldynuojumu instaliešonu, i nūspidit Atļaut.
 
 ## Site Permissions - Notifications
 
+permissions-site-notification-window =
+    .title = Īstatiejumi - paziņuojumu atļuovis
+    .style = { permissions-window.style }
 
 ## Site Permissions - Location
 
+permissions-site-location-window =
+    .title = Īstatiejumi - atsarasšona vītys atļuovis
+    .style = { permissions-window.style }
 
 ## Site Permissions - Camera
 
+permissions-site-camera-window =
+    .title = Settings - Camera Permissions
+    .style = { permissions-window.style }
 
 ## Site Permissions - Microphone
 
+permissions-site-microphone-window =
+    .title = Settings - Microphone Permissions
+    .style = { permissions-window.style }
