@@ -36,3 +36,34 @@ permissions-button-ok =
     .accesskey = บ
 permissions-searchbox =
     .placeholder = ค้นหาเว็บไซต์
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = ชื่อโฮสต์ที่ป้อนไม่ถูกต้อง
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
