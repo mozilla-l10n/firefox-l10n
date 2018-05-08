@@ -36,3 +36,37 @@ permissions-button-ok =
     .accesskey = s
 permissions-searchbox =
     .placeholder = Website suchen
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Ungültiger Hostname eingetragen
+permissions-invalid-uri-label = Bitte tragen Sie einen gültigen Hostnamen ein
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = Sie können festlegen, welchen Websites Sie erlauben möchten, Pop-up-Fenster zu öffnen. Geben Sie bitte die exakte Adresse der Website ein, der Sie das erlauben möchten, und klicken Sie dann auf Erlauben.
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = Sie können festlegen, welchen Websites Sie erlauben möchten, Add-ons zu installieren. Geben Sie bitte die exakte Adresse der Website ein, der Sie das erlauben möchten, und klicken Sie dann auf Erlauben.
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
