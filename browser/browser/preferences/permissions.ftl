@@ -44,6 +44,9 @@ permissions-invalid-uri-label = Zadajte platný názov servera
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = Výnimky - Ochrana pred sledovaním
+    .style = { permissions-window.style }
 
 ## Exceptions - Cookies
 
