@@ -36,3 +36,34 @@ permissions-button-ok =
     .accesskey = Պ
 permissions-searchbox =
     .placeholder = Որոնել կայք
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Նշված Հանգույցի Անունն Անվավեր էր
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
