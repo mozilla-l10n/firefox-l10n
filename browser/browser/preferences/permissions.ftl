@@ -18,3 +18,37 @@ permissions-allow =
     .accesskey = A
 permissions-status =
     .label = Xiyimo
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Ku nghenisiwile vito ro ka ri nga ri ra ntiyiso ro amukela
+permissions-invalid-uri-label = Nghenisa vito ra ntiyiso ro amukela
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = U nga boxa masayiti ya web lama faneleke ku pfula mafasitere ya pop up. Thayipa adirese leyi nga fanela ya sayiti leri u ri lavaka ku ri pfumelela ivi u tshikelela Pfumelela.
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = You can specify which web sites are allowed to install add-ons. Type the exact address of the site you want to allow and then click Allow.
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
