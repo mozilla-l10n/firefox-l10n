@@ -36,3 +36,63 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = ウェブサイトを検索
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = 無効なホスト名が入力されました
+permissions-invalid-uri-label = 有効なホスト名を入力してください
+
+## Exceptions - Tracking Protection
+
+permissions-exceptions-tracking-protection-window =
+    .title = 例外 - トラッキング防止
+    .style = { permissions-window.style }
+permissions-exceptions-tracking-protection-desc = これらのウェブサイトでは、トラッキング防止を無効に設定しています。
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-window =
+    .title = 許可サイト - ポップアップ
+    .style = { permissions-window.style }
+permissions-exceptions-popup-desc = ポップアップウインドウを開くことを許可するウェブサイトを指定できます。許可するサイトの正確なアドレスを入力して “許可” をクリックしてください。
+
+## Exceptions - Saved Logins
+
+permissions-exceptions-saved-logins-window =
+    .title = 例外 - ログイン情報の保存
+    .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = 次のウェブサイトのログイン情報は保存されません。
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-window =
+    .title = 許可サイト - アドオンのインストール
+    .style = { permissions-window.style }
+permissions-exceptions-addons-desc = アドオンのインストールを許可するウェブサイトを指定できます。許可するサイトの正確なアドレスを入力して “許可” をクリックしてください。
+
+## Site Permissions - Notifications
+
+permissions-site-notification-window =
+    .title = 設定 - 通知の許可
+    .style = { permissions-window.style }
+
+## Site Permissions - Location
+
+permissions-site-location-window =
+    .title = 設定 - 位置情報の使用許可
+    .style = { permissions-window.style }
+
+## Site Permissions - Camera
+
+permissions-site-camera-window =
+    .title = 設定 - カメラの使用許可
+    .style = { permissions-window.style }
+
+## Site Permissions - Microphone
+
+permissions-site-microphone-window =
+    .title = 設定 - マイクの使用許可
+    .style = { permissions-window.style }
