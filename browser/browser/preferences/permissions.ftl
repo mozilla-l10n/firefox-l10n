@@ -24,3 +24,36 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = වෙනස්කම් සුරකින්න
     .accesskey = S
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-label = නිවැරදි ධාරක නමක් ඇතුළත් කරන්න
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = උපත්තන කවුළු විවෘත කිරීම අවසර ඇති වෙබ් අඩවි ඔබට නිර්ණය කල හැක. ඔබට කළමනාකරණය කිරීමට අවශ්‍ය ඒවායේ නිවැරදි ලිපිනය ඇතුළත් කර අවහිර කරන්න හෝ  අනුමත කරන්න ක්ලික් කරන්න.
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = ඇඩෝන ස්ථාපනයට අවසර ඇති වෙබ් අඩවි ඔබට නිර්ණය කල හැක. ඔබට කළමනාකරණය කිරීමට අවශ්‍ය ඒවායේ නිවැරදි ලිපිනය ඇතුළත් කර අවහිර කරන්න හෝ  අනුමත කරන්න ක්ලික් කරන්න.
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
