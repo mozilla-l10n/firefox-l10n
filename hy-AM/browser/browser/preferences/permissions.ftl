@@ -47,12 +47,16 @@ permissions-invalid-uri-label = Նշեք հանգույցի վավեր անու�
 permissions-exceptions-tracking-protection-window =
     .title = Բացառություններ՝ Հետագծման պաշտպանություն
     .style = { permissions-window.style }
+permissions-exceptions-tracking-protection-desc = Դուք անջատել եք Հետագծման պաշտպանությունը այս կայքերի համար:
 
 ## Exceptions - Cookies
 
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-window =
+    .title = Թույլատրված կայքեր՝ ելնող պատուհաններ
+    .style = { permissions-window.style }
 permissions-exceptions-popup-desc = Դուք կարող էք նշել, թե որ կայքերն են իրավասու բացել Pop-up պատուհաններ: Նշեք կայքի հստակ հասցեն, այնուհետև սեղմեք Թույլատրել:
 
 ## Exceptions - Saved Logins
@@ -60,19 +64,35 @@ permissions-exceptions-popup-desc = Դուք կարող էք նշել, թե որ
 permissions-exceptions-saved-logins-window =
     .title = Բացառություններ՝ պահված մուտքագրումներ
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = Հետևյալ կայքերի մուտքագրումները չեն պահպանվի
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-window =
+    .title = Թույլատրված կայքեր՝ ընդլայնումների տեղադրում
+    .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Դուք կարող էք նշել այն վեբ կայքերը, որոնց թուլյատրվում է ավելացնել հավելումներ: Մուտքագրեք յուրաքանչյուր կայքի ճիշտ հասցեն և սեղմեք «Թույլատրել»:
 
 ## Site Permissions - Notifications
 
+permissions-site-notification-window =
+    .title = Կարգավորումներ՝ ծանուցումների թույլտվություններ
+    .style = { permissions-window.style }
 
 ## Site Permissions - Location
 
+permissions-site-location-window =
+    .title = Կարգավորումներ՝ տեղադրության թույլտվություններ
+    .style = { permissions-window.style }
 
 ## Site Permissions - Camera
 
+permissions-site-camera-window =
+    .title = Կարգավորումներ՝ խցիկի թույլտվություններ
+    .style = { permissions-window.style }
 
 ## Site Permissions - Microphone
 
+permissions-site-microphone-window =
+    .title = Կարգավորումներ՝ խոսափողի թույլտվություններ
+    .style = { permissions-window.style }
