@@ -24,3 +24,34 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Gcina Iinguqu
     .accesskey = G
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-label = Nceda ngenisa igama lomamkeli elisebenzayo
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
