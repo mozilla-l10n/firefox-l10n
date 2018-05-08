@@ -75,6 +75,9 @@ permissions-exceptions-addons-desc = Μπορείτε να καθορίσετε 
 
 ## Site Permissions - Notifications
 
+permissions-site-notification-window =
+    .title = Ρυθμίσεις - Άδειες ειδοποιήσεων
+    .style = { permissions-window.style }
 
 ## Site Permissions - Location
 
