@@ -44,29 +44,75 @@ permissions-invalid-uri-label = Vložte prosím platné jméno serveru
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = Výjimky pro používání ochrany proti sledování
+    .style = { permissions-window.style }
+permissions-exceptions-tracking-protection-desc = Na těchto serverech jste ochranu proti sledování zakázali.
 
 ## Exceptions - Cookies
 
+permissions-exceptions-cookie-window =
+    .title = Výjimky pro používání cookies a dat stránek
+    .style = { permissions-window.style }
+permissions-exceptions-cookie-desc = Zde můžete určit, které servery mohou nebo nesmí používat cookies a data stránek. Vložte přesnou adresu serveru, který chcete nastavit, a klepněte na tlačítko Blokovat, Povolit pro relaci nebo Povolit.
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-window =
+    .title = Servery, které mohou otevírat vyskakovací okna
+    .style = { permissions-window.style }
 permissions-exceptions-popup-desc = Zde můžete určit, které servery mohou otevírat vyskakovací okna. Vložte přesnou adresu serveru, kterému to chcete povolit, a klepněte na tlačítko Povolit.
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = Výjimky pro ukládání přihlašovacích údajů
+    .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = Pro následující servery se nebudou přihlašovací údaje ukládat
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-window =
+    .title = Důvěryhodné servery pro instalaci doplňků
+    .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Zde můžete určit, které servery mohou instalovat doplňky. Vložte přesnou adresu serveru, který chcete povolit, a klepněte na tlačítko Povolit.
 
 ## Site Permissions - Notifications
 
+permissions-site-notification-window =
+    .title = Oprávnění posílat oznámení
+    .style = { permissions-window.style }
+permissions-site-notification-desc = Následující servery požádaly o povolení vám posílat oznámení. Zde můžete určit, které servery mají nebo nemají povoleno vám oznámení posílat. Můžete zde také zablokovat nové žádosti o povolení.
+permissions-site-notification-disable-label =
+    .label = Blokovat nové žádosti o povolení posílat oznámení
+permissions-site-notification-disable-desc = Tímto zakážete všem serverům, které nejsou v seznamu výše, požádat o povolení vám posílat oznámení. Při blokování žádostí nemusí některé funkce webových stránek správně fungovat.
 
 ## Site Permissions - Location
 
+permissions-site-location-window =
+    .title = Oprávnění zjišťovat polohu
+    .style = { permissions-window.style }
+permissions-site-location-desc = Následující servery požádaly o přístup k vaší poloze. Zde můžete určit, které servery mají nebo nemají povoleno vaši polohu zjistit. Můžete zde také zablokovat nové žádosti o přístup.
+permissions-site-location-disable-label =
+    .label = Blokovat nové žádosti o přístup k vaší poloze
+permissions-site-location-disable-desc = Tímto zakážete všem serverům, které nejsou v seznamu výše, požádat o přístup k vaší poloze. Při blokování žádostí nemusí některé funkce webových stránek správně fungovat.
 
 ## Site Permissions - Camera
 
+permissions-site-camera-window =
+    .title = Oprávnění přístupu ke kameře
+    .style = { permissions-window.style }
+permissions-site-camera-desc = Následující servery požádaly o přístup k vaší kameře. Zde můžete určit, které servery mají nebo nemají povoleno vaši kameru používat. Můžete zde také zablokovat nové žádosti o přístup.
+permissions-site-camera-disable-label =
+    .label = Blokovat nové žádosti o přístup k vaší kameře
+permissions-site-camera-disable-desc = Tímto zakážete všem serverům, které nejsou v seznamu výše, požádat o přístup k vaší kameře. Při blokování žádostí nemusí některé funkce webových stránek správně fungovat.
 
 ## Site Permissions - Microphone
 
+permissions-site-microphone-window =
+    .title = Oprávnění přístupu k mikrofonu
+    .style = { permissions-window.style }
+permissions-site-microphone-desc = Následující servery požádaly o přístup k vašemu mikrofonu. Zde můžete určit, které servery mají nebo nemají povoleno váš mikrofon používat. Můžete zde také zablokovat nové žádosti o přístup.
+permissions-site-microphone-disable-label =
+    .label = Blokovat nové žádosti o přístup k vašemu mikrofonu
+permissions-site-microphone-disable-desc = Tímto zakážete všem serverům, které nejsou v seznamu výše, požádat o přístup k vašemu mikrofonu. Při blokování žádostí nemusí některé funkce webových stránek správně fungovat.
