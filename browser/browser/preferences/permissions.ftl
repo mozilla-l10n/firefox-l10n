@@ -51,6 +51,10 @@ permissions-exceptions-tracking-protection-desc = Ha desactivado la protección 
 
 ## Exceptions - Cookies
 
+permissions-exceptions-cookie-window =
+    .title = Excepciones: Cookies y datos del sitio
+    .style = { permissions-window.style }
+permissions-exceptions-cookie-desc = Puede especificar qué sitios web pueden o no pueden utilizar siempre cookies y datos del sitio.  Escriba la dirección exacta del sitio que quiera gestionar y haga clic en Bloquear, Permitir en esta sesión o Permitir.
 
 ## Exceptions - Pop-ups
 
