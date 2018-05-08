@@ -9,7 +9,7 @@
 <!ENTITY iconsAndText.label       "Kuvakkeet ja teksti">
 <!ENTITY icons.label              "Kuvakkeet">
 <!ENTITY text.label               "Teksti">
-<!ENTITY iconsBesideText.label    "Kuvakkeet ja teksti">
+<!ENTITY iconsBesideText.label    "Kuvakkeet tekstin vieressä">
 <!ENTITY useSmallIcons.label      "Käytä pieniä kuvakkeita">
 <!ENTITY restoreDefaultSet.label  "Palauta oletusasetukset">
 <!ENTITY addNewToolbar.label      "Lisää uusi työkalupalkki">
