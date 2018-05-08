@@ -50,6 +50,7 @@ permissions-invalid-uri-label = Kirjoita kelvollinen palvelinnimi
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-desc = Määrätyt sivustot saavat avata ponnahdusikkunoita. Kirjoita sivuston osoite ja napsauta Salli.
 
 ## Exceptions - Saved Logins
 
