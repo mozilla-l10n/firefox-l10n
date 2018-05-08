@@ -38,12 +38,14 @@ permissions-invalid-uri-label = Taare war ma zunbudoo maa boryo dam
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-desc = War ga hin ka tabatandi Interneti nungey kaŋ ga biiboŋ bata zanfuney feeri. Nungu kaŋ war ga bag'a aderesu alhakiikaa hantum, de wa Noo fondo naagu.
 
 ## Exceptions - Saved Logins
 
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-desc = War ga hin ka tabatandi Interneti nungey kaŋ ga duu fondo ka tontoney sinji. Nungoo kaŋ war ga bag'a aderesu alhakiikaa hantum, de wa Noo fondo naagu.
 
 ## Site Permissions - Notifications
 
