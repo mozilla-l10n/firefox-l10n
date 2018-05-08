@@ -65,6 +65,9 @@ permissions-exceptions-popup-desc = შეგიძლიათ მიუთი�
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = გამონაკლისები - შენახული შესვლები
+    .style = { permissions-window.style }
 permissions-exceptions-saved-logins-desc = მოცემულ საიტებზე, ანგარიშზე შესვლის მონაცემები არ შეინახება
 
 ## Exceptions - Add-ons
