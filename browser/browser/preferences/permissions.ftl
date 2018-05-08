@@ -64,6 +64,7 @@ permissions-exceptions-popup-desc = Puede especificar qué sitios web podrán ab
 permissions-exceptions-saved-logins-window =
     .title = Excepciones - Ingresos guardados
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = Los inicios de sesión para los siguientes sitios no se guardarán
 
 ## Exceptions - Add-ons
 
@@ -74,12 +75,23 @@ permissions-exceptions-addons-desc = Puede especificar qué sitios web podrán i
 
 ## Site Permissions - Notifications
 
+permissions-site-notification-window =
+    .title = Configuración: Permisos de notificación
+    .style = { permissions-window.style }
+permissions-site-notification-desc = Los siguientes sitios solicitaron enviarle notificaciones. Puede especificar los sitios autorizados a enviarle notificaciones. También puede bloquear nuevas solicitudes.
+permissions-site-notification-disable-label =
+    .label = Bloquear nuevas solicitudes de envío de notificaciones
+permissions-site-notification-disable-desc = Esto evitará que los sitios web no incluidos en la lista soliciten permiso para enviar notificaciones. Bloquear las notificaciones puede estropear algunas características de los sitios web.
 
 ## Site Permissions - Location
 
 permissions-site-location-window =
     .title = Configuración - Permisos de ubicación
     .style = { permissions-window.style }
+permissions-site-location-desc = Los siguientes sitios web solicitaron acceder a su ubicación. Puede especificar los sitios autorizados a acceder. También puede bloquear las nuevas solicitudes de acceso a su ubicación.
+permissions-site-location-disable-label =
+    .label = Bloquear las nuevas solicitudes de acceso a su ubicación
+permissions-site-location-disable-desc = Esto evitará que los sitios web no incluidos en la lista soliciten permiso para acceder a su ubicación. Bloquear el acceso a su ubicación puede estropear algunas características de los sitios web.
 
 ## Site Permissions - Camera
 
