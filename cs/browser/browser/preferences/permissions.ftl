@@ -36,3 +36,37 @@ permissions-button-ok =
     .accesskey = U
 permissions-searchbox =
     .placeholder = Hledat
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Neplatné jméno serveru
+permissions-invalid-uri-label = Vložte prosím platné jméno serveru
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = Zde můžete určit, které servery mohou otevírat vyskakovací okna. Vložte přesnou adresu serveru, kterému to chcete povolit, a klepněte na tlačítko Povolit.
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = Zde můžete určit, které servery mohou instalovat doplňky. Vložte přesnou adresu serveru, který chcete povolit, a klepněte na tlačítko Povolit.
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
