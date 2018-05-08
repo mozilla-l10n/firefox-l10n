@@ -24,3 +24,35 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = परिवर्तन सहेजू
     .accesskey = प
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = अवैध मेजबाननाम देल गेल
+permissions-invalid-uri-label = एकटा वैध मेजबाननाम डालू
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
