@@ -36,3 +36,34 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = Cerca sito web
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-label = Inserire un nome valido per il server
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
