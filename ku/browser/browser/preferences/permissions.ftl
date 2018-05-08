@@ -18,3 +18,35 @@ permissions-status =
 permissions-button-cancel =
     .label = Betal
     .accesskey = B
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Navê Hostê Nederbasdar e
+permissions-invalid-uri-label = ji kerema xwe navekî derbasdar ê hostê têkevê
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
