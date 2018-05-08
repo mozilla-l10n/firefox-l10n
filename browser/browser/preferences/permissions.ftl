@@ -47,12 +47,16 @@ permissions-invalid-uri-label = Rhoi cyfeiriad e-bost dilys
 permissions-exceptions-tracking-protection-window =
     .title = Eithriadau - Diogelu Rhag Tracio
     .style = { permissions-window.style }
+permissions-exceptions-tracking-protection-desc = Rydych wedi analluogi Diogelu Rhag Tracio ar y gwefannau hyn.
 
 ## Exceptions - Cookies
 
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-window =
+    .title = Gwefannau Caniatawyd - Llamlenni
+    .style = { permissions-window.style }
 permissions-exceptions-popup-desc = Mae modd pennu pa wefannau sy'n cael agor ffenestri llamlen. Teipiwch union gyfeiriad y wefan rydych am ei ganiatáu ac yna clicio Caniatáu.
 
 ## Exceptions - Saved Logins
@@ -63,16 +67,31 @@ permissions-exceptions-saved-logins-window =
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-window =
+    .title = Gwefannau Caniatawyd - Gosod Ychwanegion
+    .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Gallwch enwi pa wefannau sy'n cael gosod ychwanegion. Teipiwch yr union gyfeiriad gwe rydych am ei chaniatáu ac yna clicio Caniatáu.
 
 ## Site Permissions - Notifications
 
+permissions-site-notification-window =
+    .title = Gosodiadau - Caniatáu Hysbysiadau
+    .style = { permissions-window.style }
 
 ## Site Permissions - Location
 
+permissions-site-location-window =
+    .title = Gosodiadau - Caniatáu Hysbysiadau
+    .style = { permissions-window.style }
 
 ## Site Permissions - Camera
 
+permissions-site-camera-window =
+    .title = Gosodiadau - Caniatâd Camera
+    .style = { permissions-window.style }
 
 ## Site Permissions - Microphone
 
+permissions-site-microphone-window =
+    .title = Gosodiadau - Caniatâd Meicroffon
+    .style = { permissions-window.style }
