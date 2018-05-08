@@ -50,12 +50,14 @@ permissions-invalid-uri-label = 請輸入正確的主機名稱
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-desc = 您可以指定哪些網站可以開啟彈出型視窗 (Pop-up)。請輸入完整網址後按「允許」。
 
 ## Exceptions - Saved Logins
 
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-desc = 您可以指定哪些網站可以安裝附加元件。請輸入完整網址後按「允許」。
 
 ## Site Permissions - Notifications
 
