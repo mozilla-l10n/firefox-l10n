@@ -20,7 +20,7 @@
 <!ENTITY editBookmarkOverlay.description.accesskey           "P">
 <!ENTITY editBookmarkOverlay.keyword.label                   "Kľúčové slovo:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "K">
-<!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Zobraziť všetky značky">
+<!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Zobrazí všetky značky">
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "Túto záložku načítať v bočnom paneli">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "b">
 <!ENTITY editBookmarkOverlay.choose.label                    "Vybrať…">
