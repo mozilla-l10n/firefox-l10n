@@ -36,3 +36,36 @@ permissions-button-ok =
     .accesskey = с
 permissions-searchbox =
     .placeholder = Вебсайттан іздеу
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Енгізілген сервер аты қате
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = Қай сайттан "атып шығатын" терезелерді қабылдауды осында көрсете аласыз. Сайттың тура адресін енгізіп, «Рұқсат ету» батырмасын басыңыз.
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = Қай сайт кеңейтулерді орната алатынынды осында көрсете аласыз. Сайттың тура адресін енгізіп, «Рұқсат ету» батырмасын басыңыз.
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
