@@ -64,6 +64,7 @@ permissions-exceptions-popup-desc = எந்த இணையதளங்கள�
 permissions-exceptions-saved-logins-window =
     .title = விதிவிலக்குகள் - சேமிக்கப்பட்ட புகுபதிகைகள்
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = பின்வரும் தளங்களின் புகுபதிகைகள் சேமிக்கப்படாது
 
 ## Exceptions - Add-ons
 
@@ -74,12 +75,24 @@ permissions-exceptions-addons-desc = எந்த இணையதளங்கள
 
 ## Site Permissions - Notifications
 
+permissions-site-notification-window =
+    .title = அமைப்புகள் - அறிவிப்பு அனுமதிகள்
+    .style = { permissions-window.style }
 
 ## Site Permissions - Location
 
+permissions-site-location-window =
+    .title = அமைப்புகள் - இட அனுமதிகள்
+    .style = { permissions-window.style }
 
 ## Site Permissions - Camera
 
+permissions-site-camera-window =
+    .title = அமைப்புகள் - படக்கருவி அனுமதிகள்
+    .style = { permissions-window.style }
 
 ## Site Permissions - Microphone
 
+permissions-site-microphone-window =
+    .title = அமைப்புகள் - ஒலிவாங்கி அனுமதிகள்
+    .style = { permissions-window.style }
