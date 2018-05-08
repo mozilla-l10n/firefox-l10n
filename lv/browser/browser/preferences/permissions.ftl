@@ -36,3 +36,35 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = Meklēt lapas
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-label = Lūdzu, ievadiet derīgu resursdatora nosaukumu
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = Jūs varat norādīt, no kurām lapām ir atļauts instalēt papildinājumus. Ierakstiet precīzu lapas adresi, no kuras vēlaties atļaut papildinājumu instalēšanu, un nospiediet Atļaut.
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
