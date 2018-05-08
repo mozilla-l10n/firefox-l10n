@@ -32,12 +32,14 @@ permissions-invalid-uri-label = Dugalal tur bu jaadu
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-desc = Mën nga wone dalub web yi ñu may ñu ubbi ay palanteeru popup. Roofal màkaanu dal bi nga bëgg may te nga cuq ci may.
 
 ## Exceptions - Saved Logins
 
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-desc = Mën nga wone dalub web yi ñu may ñu samp ay modili mottali. Roofal màkaanu dal bi nga bëgg may te nga cuq ci may.
 
 ## Site Permissions - Notifications
 
