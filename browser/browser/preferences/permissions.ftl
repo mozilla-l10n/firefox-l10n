@@ -36,3 +36,37 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = Saytda Axtar
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Etibarsız bir domen adı daxil etdiniz
+permissions-invalid-uri-label = Lütfən etibarlı bir server adı daxil edin
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = Hansı saytların avtomatik açılan pəncərə aça biləcəyini seçə bilərsiniz. İcazə vermək istədiyiniz sytın tam ünvanını yazdıqdan sonra "İcazə ver"-ə klikləyin.
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = Hansı saytların əlavə yükləyə biləcəyini seçə bilərsiniz. İcaz vermək istədiyiniz saytın tam ünvanını yazdıqdan sonra "İcazə ver"-ə klikləyin.
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
