@@ -64,6 +64,7 @@ permissions-exceptions-popup-desc = आपण कोणत्या साइट
 permissions-exceptions-saved-logins-window =
     .title = अपवाद - संचयीत लॉगइन्स
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = खालील संकेतस्थळांकरीता लॉगिन संचयीत केले जाणार नाहीत
 
 ## Exceptions - Add-ons
 
@@ -83,3 +84,6 @@ permissions-exceptions-addons-desc = कुठल्या संकेतस्
 
 ## Site Permissions - Microphone
 
+permissions-site-microphone-window =
+    .title = सेटिंग - मायक्रोफोन परवानग्या
+    .style = { permissions-window.style }
