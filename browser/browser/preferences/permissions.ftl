@@ -44,12 +44,16 @@ permissions-invalid-uri-label = Παρακαλώ εισάγετε ένα έγκ�
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-desc = Έχετε απενεργοποιήσει την Προστασία Δεδομένων Περιήγησης σε αυτές τις ιστοσελίδες.
 
 ## Exceptions - Cookies
 
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-window =
+    .title = Επιτρεπόμενες ιστοσελίδες - Αναδυόμενα
+    .style = { permissions-window.style }
 permissions-exceptions-popup-desc = Μπορείτε να καθορίσετε ποιες ιστοσελίδες μπορούν να ανοίγουν αναδυόμενα παράθυρα. Πληκτρολογήστε την ακριβή διεύθυνση της σελίδας που επιθυμείτε να διαχειριστείτε και μετά πατήστε Να επιτρέπεται.
 
 ## Exceptions - Saved Logins
@@ -57,6 +61,10 @@ permissions-exceptions-popup-desc = Μπορείτε να καθορίσετε �
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-window =
+    .title = Επιτρεπόμενες ιστοσελίδες - Εγκατάσταση Προσθέτων
+    .style = { permissions-window.style }
+permissions-exceptions-addons-desc = Μπορείτε να καθορίσετε σε ποιες ιστοσελίδες θα επιτρέπεται να εγκαθιστούν πρόσθετα. Πληκτρολογήστε την ακριβή διεύθυνση της σελίδας και πατήστε Να επιτρέπεται.
 
 ## Site Permissions - Notifications
 
