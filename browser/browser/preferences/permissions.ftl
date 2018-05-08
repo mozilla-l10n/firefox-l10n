@@ -44,6 +44,9 @@ permissions-invalid-uri-label = Rhoi cyfeiriad e-bost dilys
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = Eithriadau - Diogelu Rhag Tracio
+    .style = { permissions-window.style }
 
 ## Exceptions - Cookies
 
@@ -54,6 +57,9 @@ permissions-exceptions-popup-desc = Mae modd pennu pa wefannau sy'n cael agor ff
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = Eithriadau - Mewngofnodion wedi eu Cadw
+    .style = { permissions-window.style }
 
 ## Exceptions - Add-ons
 
