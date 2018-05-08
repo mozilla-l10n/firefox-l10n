@@ -36,3 +36,42 @@ permissions-button-ok =
     .accesskey = K
 permissions-searchbox =
     .placeholder = Serĉi en retejo
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Nevalida servila nomo estis tajpita
+permissions-invalid-uri-label = Bonvolu tajpi validan servilan nomon
+
+## Exceptions - Tracking Protection
+
+permissions-exceptions-tracking-protection-window =
+    .title = Esceptoj - Protekto kontraŭ spurado
+    .style = { permissions-window.style }
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = Vi povas difini kiuj retejoj rajtas malfermi ŝprucfenestrojn. Tajpu la ekzaktan adreson de la retejo kiun vi volas rajtigi kaj alklaku Permesi.
+
+## Exceptions - Saved Logins
+
+permissions-exceptions-saved-logins-window =
+    .title = Esceptoj - konservitaj legitimiloj
+    .style = { permissions-window.style }
+
+## Exceptions - Add-ons
+
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
