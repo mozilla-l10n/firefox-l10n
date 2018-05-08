@@ -36,3 +36,35 @@ permissions-button-ok =
     .accesskey = G
 permissions-searchbox =
     .placeholder = Søg efter websted
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Ugyldigt værtsnavn indtastet
+permissions-invalid-uri-label = Indtast venligst et gyldigt værtsnavn
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
