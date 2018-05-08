@@ -32,6 +32,9 @@ permissions-invalid-uri-label = Nceda ngenisa igama lomamkeli elisebenzayo
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = Ezikhethekileyo - Treka Ukhuseleko
+    .style = { permissions-window.style }
 
 ## Exceptions - Cookies
 
@@ -42,6 +45,9 @@ permissions-exceptions-popup-desc = Ungabalula ukuba zeziphi na iiwebhusayithi e
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = Ezikhethekileyo - IiLogini Ezigciniweyo
+    .style = { permissions-window.style }
 
 ## Exceptions - Add-ons
 
