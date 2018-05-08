@@ -15,3 +15,37 @@ permissions-allow =
     .accesskey = К
 permissions-status =
     .label = Стаатуһа
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Алҕастаах аат киллэриллибит
+permissions-invalid-uri-label = Бука диэн сөптөөх ааты киллэр
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = Ойон тахсар түннүктэри арыйар ситим-сирдэри ыйыаххын сөп. Аадырыһын киллэр уонна "Көҥүллүүргэ" тимэҕи баттаа.
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = Ханнык ситим-сир эбиискэ туруоруон сөбүн ыйыаххын сөп. Аадырыһын киллэр уонна "Көҥүллүүргэ" тимэҕи баттаа.
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
