@@ -36,3 +36,36 @@ permissions-button-ok =
     .accesskey = s
 permissions-searchbox =
     .placeholder = Saytdan izlash
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Notogʻri host nomi kiritilgan
+permissions-invalid-uri-label = Iltimos, toʻgʻri host nomini kiriting
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = Siz xohlagan vebsaytingizga qoʻshimcha dasturlarni oʻrnatishga ruxsat berishingiz mumkin. Ruxsat bermoqchi boʻlgan saytingiz nomini yozing va "Ruxsat berish"ni bosing.
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
