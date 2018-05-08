@@ -51,6 +51,10 @@ permissions-exceptions-tracking-protection-desc = T'æ dizabilitou a proteçion 
 
 ## Exceptions - Cookies
 
+permissions-exceptions-cookie-window =
+    .title = Eceçioin - Cookie e Dæti di Sciti
+    .style = { permissions-window.style }
+permissions-exceptions-cookie-desc = Ti peu anche decidde quali sciti peuan de longo ò mai deuviâ cookie e dæti di sciti.  Scrivi ben l'indirisso ezatto di sciti che ti veu gestî e pöi sciacca Blòcca, Permetti pe sescion ò Permetti.
 
 ## Exceptions - Pop-ups
 
@@ -64,6 +68,7 @@ permissions-exceptions-popup-desc = Ti ti peu dî quæ sciti peuan arvî barcoin
 permissions-exceptions-saved-logins-window =
     .title = Eceçioin - Login sarvæ
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = I dæti d'acesso pe sti sciti no saian sarvæ
 
 ## Exceptions - Add-ons
 
