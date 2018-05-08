@@ -36,3 +36,67 @@ permissions-button-ok =
     .accesskey = h
 permissions-searchbox =
     .placeholder = Szukaj witryn
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Wprowadzono nieprawidłową nazwę hosta
+permissions-invalid-uri-label = Podaj prawidłową nazwę hosta
+
+## Exceptions - Tracking Protection
+
+permissions-exceptions-tracking-protection-window =
+    .title = Wyjątki – Ochrona przed śledzeniem
+    .style = { permissions-window.style }
+permissions-exceptions-tracking-protection-desc = Ochrona przed śledzeniem została wyłączona dla następujących witryn.
+
+## Exceptions - Cookies
+
+permissions-exceptions-cookie-window =
+    .title = Wyjątki – Ciasteczka i dane stron
+    .style = { permissions-window.style }
+permissions-exceptions-cookie-desc = Określ zasady akceptacji ciasteczek i danych stron. Podaj dokładny adres witryny, której uprawnienia chcesz zmodyfikować, a następnie naciśnij Zezwalaj, Blokuj lub Zezwalaj na czas sesji.
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-window =
+    .title = Uprawnione witryny – Wyskakujące okna
+    .style = { permissions-window.style }
+permissions-exceptions-popup-desc = Określ, które witryny mogą otwierać wyskakujące okna. Podaj dokładny adres witryny, której chcesz na to zezwolić, i naciśnij Zezwalaj.
+
+## Exceptions - Saved Logins
+
+permissions-exceptions-saved-logins-window =
+    .title = Wyjątki – zachowywanie danych logowania
+    .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = Dane logowania dla następujących witryn nie będą zachowywane.
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-window =
+    .title = Uprawnione witryny – Instalacja dodatków
+    .style = { permissions-window.style }
+permissions-exceptions-addons-desc = Określ, które witryny mogą instalować dodatki. Podaj dokładny adres witryny, której chcesz na to zezwolić, i naciśnij Zezwalaj.
+
+## Site Permissions - Notifications
+
+permissions-site-notification-window =
+    .title = Ustawienia – Powiadomienia
+    .style = { permissions-window.style }
+
+## Site Permissions - Location
+
+permissions-site-location-window =
+    .title = Ustawienia – Informacje o położeniu
+    .style = { permissions-window.style }
+
+## Site Permissions - Camera
+
+permissions-site-camera-window =
+    .title = Ustawienia – Kamera
+    .style = { permissions-window.style }
+
+## Site Permissions - Microphone
+
+permissions-site-microphone-window =
+    .title = Ustawienia – Mikrofon
+    .style = { permissions-window.style }
