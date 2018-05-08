@@ -44,15 +44,22 @@ permissions-invalid-uri-label = Iltimos, toʻgʻri host nomini kiriting
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = Istisnolar - Kuzatishdan himoyalanish
+    .style = { permissions-window.style }
 
 ## Exceptions - Cookies
 
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-desc = Siz xohlagan vebsaytlaringizga paydo boʻluvchi oynalarni ochishiga ruxsat berishingiz mumkin. Ruxsat bermoqchi boʻlgan saytingiz manzilini yozing va "Ruxsat berish" tugmasini bosing.{ " " }
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = Istisnolar - saqlangan taxalluslar
+    .style = { permissions-window.style }
 
 ## Exceptions - Add-ons
 
