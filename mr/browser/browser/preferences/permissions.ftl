@@ -75,12 +75,21 @@ permissions-exceptions-addons-desc = कुठल्या संकेतस्
 
 ## Site Permissions - Notifications
 
+permissions-site-notification-window =
+    .title = सेटिंग - सूचना परवानग्या
+    .style = { permissions-window.style }
 
 ## Site Permissions - Location
 
+permissions-site-location-window =
+    .title = सेटिंग - स्थान परवानग्या
+    .style = { permissions-window.style }
 
 ## Site Permissions - Camera
 
+permissions-site-camera-window =
+    .title = सेटिंग - कॅमेरा परवानग्या
+    .style = { permissions-window.style }
 
 ## Site Permissions - Microphone
 
