@@ -64,9 +64,18 @@ permissions-exceptions-addons-desc = באפשרותך לציין לאלו אתר
 
 ## Site Permissions - Location
 
+permissions-site-location-window =
+    .title = הגדרות - הרשאות מיקום
+    .style = { permissions-window.style }
 
 ## Site Permissions - Camera
 
+permissions-site-camera-window =
+    .title = הגדרות - הרשאות מצלמה
+    .style = { permissions-window.style }
 
 ## Site Permissions - Microphone
 
+permissions-site-microphone-window =
+    .title = הגדרות - הרשאות מיקרופון
+    .style = { permissions-window.style }
