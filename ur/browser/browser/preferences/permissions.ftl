@@ -36,3 +36,37 @@ permissions-button-ok =
     .accesskey = م
 permissions-searchbox =
     .placeholder = ویبسائٹ تلاش کریں
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = ناجائز نام میزبان داخل
+permissions-invalid-uri-label = کوئی جائز نام میزبان داخل کریں
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = آپ اختصاص کر سکتے ہیں کہ کونسی سائٹیں پاپ اپ کھولنے کے لیے اجازت دادہ ہیں۔ جس سائٹ کو اجازت دینا چاہتے ہیں اس کا ٹھیک ٹھیک پتہ ٹائپ کریں اور پھر اجازت دیں پر کلک کریں۔
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = آپ اختصاص کر سکتے ہیں کہ کونسی سائٹیں وابستہ دریچے کھولنے کےلیے اجازت دادہ ہیں۔ جس سائٹ کو اجازت دینا چاہتے ہیں اس کا ٹھیک ٹھیک پتہ ٹائپ کریں اور پھر 'ہونے دیں' پر کلک کریں۔
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
