@@ -6,3 +6,35 @@ permissions-close-key =
     .key = w
 permissions-status =
     .label = Simo
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Kufakwe libito lalovakashelwe lelingekho emtsetfweni
+permissions-invalid-uri-label = Uyacelwa faka libito lalovakashelwe lelisemtsetfweni
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
