@@ -32,6 +32,9 @@ permissions-invalid-uri-label = សូម​បញ្ចូល​ឈ្មោះ
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = ករណី​​លើកលែង - ការ​ការពារ​ការ​តាមដាន
+    .style = { permissions-window.style }
 
 ## Exceptions - Cookies
 
