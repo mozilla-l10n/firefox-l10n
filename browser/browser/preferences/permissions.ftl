@@ -36,3 +36,40 @@ permissions-button-ok =
     .accesskey = G
 permissions-searchbox =
     .placeholder = Buscar sitio web
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Nombre de Host Inválido Ingresado
+permissions-invalid-uri-label = Por favor, ingrese un nombre de host válido
+
+## Exceptions - Tracking Protection
+
+permissions-exceptions-tracking-protection-window =
+    .title = Excepciones - Protección de rastreo
+    .style = { permissions-window.style }
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = Puede especificar qué sitios web podrán abrir ventanas emergentes. Ingrese la dirección exacta del sitio que desea habilitar y luego haga clic en Habilitar.
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = Puede especificar qué sitios web podrán instalar complementos. Ingrese la dirección exacta del sitio que desea habilitar y luego haga clic en Habilitar.
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
