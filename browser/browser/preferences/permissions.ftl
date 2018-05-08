@@ -36,3 +36,38 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = Cari Situs Web
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Nama host yang Anda masukkan salah
+permissions-invalid-uri-label = Mohon masukkan nama host yang valid
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+permissions-exceptions-cookie-desc = Anda dapat menentukan situs web mana saja yang boleh atau tidak boleh menggunakan kuki dan data situs. Ketik alamat situs secara persis yang ingin Anda  kelola, kemudian klik Blok, Izinkan untuk Sesi, atau Izinkan.
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = Anda dapat menentukan situs web mana saja yang diizinkan untuk membuka jendela pop-up. Ketik alamat situs yang akan diizinkan, lalu klik Izinkan.
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = Anda dapat menentukan situs web mana saja yang diizinkan untuk memasang Pengaya. Ketik alamat situs yang akan diizinkan, lalu klik Izinkan.
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
