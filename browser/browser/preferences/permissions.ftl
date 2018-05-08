@@ -18,6 +18,8 @@ permissions-status =
 
 ## Invalid Hostname Dialog
 
+permissions-invalid-uri-title = অবৈধ হস্টনাম দিয়া হৈছে
+permissions-invalid-uri-label = এটা বৈধ হস্টনাম দিয়ক
 
 ## Exceptions - Tracking Protection
 
