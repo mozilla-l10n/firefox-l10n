@@ -36,3 +36,43 @@ permissions-button-ok =
     .accesskey = D
 permissions-searchbox =
     .placeholder = Yiylo e Lowre
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Innde Koɗol Naatnangol Moƴƴaani
+permissions-invalid-uri-label = Tiiɗno naatnu innde koɗol moƴƴol
+
+## Exceptions - Tracking Protection
+
+permissions-exceptions-tracking-protection-window =
+    .title = Paltooje - Ndeenka Dewindol
+    .style = { permissions-window.style }
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = Aɗa waawi joopaade hol lowe geese njamiraa yoo uddit kenorɗe cuppitte. Tappu ñiiɓirde laaɓtunde lowre nde njiɗ-ɗaa yamirde ndee, ndobo-ɗaa Yamir.
+
+## Exceptions - Saved Logins
+
+permissions-exceptions-saved-logins-window =
+    .title = Paltooje - Ceŋorɗe Danndaaɗi
+    .style = { permissions-window.style }
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = Aɗa waawi joopaade hol lowe geese njamiraa yoo aaf ɓeyditte. Tappu ñiiɓirde laaɓtunde lowre nde njiɗ-ɗaa yamirde ndee, ndobo-ɗaa Yamir.
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
