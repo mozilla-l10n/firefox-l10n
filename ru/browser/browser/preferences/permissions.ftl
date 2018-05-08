@@ -60,6 +60,7 @@ permissions-exceptions-popup-desc = Вы можете указать, каким
 permissions-exceptions-saved-logins-window =
     .title = Исключения — Сохранённые логины
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = Логины для следующих веб-сайтов не будут сохранены
 
 ## Exceptions - Add-ons
 
