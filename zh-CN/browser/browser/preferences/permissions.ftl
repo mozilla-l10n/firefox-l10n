@@ -36,3 +36,35 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = 搜索网站
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = 输入了非法的主机名
+permissions-invalid-uri-label = 请输入合法的主机名
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
