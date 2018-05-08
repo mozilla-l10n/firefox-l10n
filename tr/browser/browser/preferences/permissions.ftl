@@ -36,3 +36,66 @@ permissions-button-ok =
     .accesskey = D
 permissions-searchbox =
     .placeholder = Web sitesi ara
+
+## Invalid Hostname Dialog
+
+
+## Exceptions - Tracking Protection
+
+permissions-exceptions-tracking-protection-desc = Bu sitelerde İzlenme Koruması’nı devre dışı bıraktınız.
+
+## Exceptions - Cookies
+
+permissions-exceptions-cookie-window =
+    .title = İstisnalar - Çerezler ve Site Verileri
+    .style = { permissions-window.style }
+permissions-exceptions-cookie-desc = Hangi web sitelerinin çerezleri ve site verilerini her zaman kullanabileceğini veya hiç kullanmayacağını belirleyebilirsiniz.  Yönetmek istediğiniz sitenin tam adresini yazıp “Engelle”, “Oturum boyunca izin ver” veya “İzin ver”e tıklayın.
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-window =
+    .title = İzin Verilen Siteler - Açılır Pencereler
+    .style = { permissions-window.style }
+
+## Exceptions - Saved Logins
+
+permissions-exceptions-saved-logins-window =
+    .title = İstisnalar - Kayıtlı Hesaplar
+    .style = { permissions-window.style }
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-window =
+    .title = İzin Verilen Siteler - Eklenti Yükleme
+    .style = { permissions-window.style }
+
+## Site Permissions - Notifications
+
+permissions-site-notification-window =
+    .title = Ayarlar - Bildirim İzinleri
+    .style = { permissions-window.style }
+permissions-site-notification-desc = Aşağıdaki web siteleri size bildirim gönderme isteğinde bulundu. Hangi web sitelerine bildirim gönderme izni vereceğinizi seçebilirsiniz. Ayrıca yeni bildirim gönderme isteklerini tamamen engelleyebilirsiniz.
+permissions-site-notification-disable-label =
+    .label = Bildirim gönderme isteklerini sormadan engelle
+permissions-site-notification-disable-desc = Yukarıdaki listede bulunmayan hiçbir web sitesi size bildirim gönderme isteğinde bulunamayacaktır. Bildirimleri engellerseniz bazı site özellikleri çalışmayabilir.
+
+## Site Permissions - Location
+
+permissions-site-location-desc = Aşağıdaki web siteleri konumunuza erişme isteğinde bulundu. Hangi web sitelerinin konumunuzu öğrenebileceğini seçebilirsiniz. Ayrıca konumunuzu öğrenme isteklerini tamamen engelleyebilirsiniz.
+permissions-site-location-disable-label =
+    .label = Konumumu öğrenme isteklerini sormadan engelle
+permissions-site-location-disable-desc = Yukarıdaki listede bulunmayan hiçbir web sitesi konumunuzu öğrenme isteğinde bulunamayacaktır. Konumunuzun öğrenilmesini engellerseniz bazı site özellikleri çalışmayabilir.
+
+## Site Permissions - Camera
+
+permissions-site-camera-desc = Aşağıdaki web siteleri kameranıza erişme isteğinde bulundu. Hangi web sitelerinin kameranıza erişebileceğini seçebilirsiniz. Ayrıca kameranıza erişme isteklerini tamamen engelleyebilirsiniz.
+permissions-site-camera-disable-label =
+    .label = Kamerama erişme isteklerini sormadan engelle
+permissions-site-camera-disable-desc = Yukarıdaki listede bulunmayan hiçbir web sitesi kameranıza erişme isteğinde bulunamayacaktır. Kamera erişimini engellerseniz bazı site özellikleri çalışmayabilir.
+
+## Site Permissions - Microphone
+
+permissions-site-microphone-desc = Aşağıdaki web siteleri mikrofonunuza erişme isteğinde bulundu. Hangi web sitelerinin mikrofonunuza erişebileceğini seçebilirsiniz. Ayrıca mikrofonunuza erişme isteklerini tamamen engelleyebilirsiniz.
+permissions-site-microphone-disable-label =
+    .label = Mikrofonuma erişme isteklerini sormadan engelle
+permissions-site-microphone-disable-desc = Yukarıdaki listede bulunmayan hiçbir web sitesi mikrofonunuza erişme isteğinde bulunamayacaktır. Mikrofon erişimini engellerseniz bazı site özellikleri çalışmayabilir.
