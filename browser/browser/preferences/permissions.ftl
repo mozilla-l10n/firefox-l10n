@@ -18,3 +18,37 @@ permissions-allow =
     .accesskey = z
 permissions-status =
     .label = Stón
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Wpisóno lëché miono hòsta
+permissions-invalid-uri-label = Wpiszë pòprôwné miono hòsta
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = Mòżesz wëbrac, chtërne stronë mògą òtmëkac wëskakùjącé òkna. Wpiszë akùratny adres stronë, chtërny chcesz na to dac zgòdã, i klëkni na Zezwòlë.
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = Mòżesz wëbrac, chtërne stronë mògą instalowac dodôwczi. Wpiszë akùratny adres stronë, chtërny chcesz na to dac zgòdã, i klëkni na Zezwòlë.
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
