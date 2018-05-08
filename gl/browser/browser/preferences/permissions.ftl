@@ -36,3 +36,37 @@ permissions-button-ok =
     .accesskey = b
 permissions-searchbox =
     .placeholder = Buscar sitio web
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Introduciuse un nome de servidor non válido
+permissions-invalid-uri-label = Introduza un nome de servidor válido
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = Pode especificar que sitios web teñen permiso para abrir xanelas emerxentes. Escriba o enderezo exacto do sitio e despois prema Permitir.
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = Pode especificar que sitios web teñen permiso para instalar complementos. Escriba o enderezo exacto do sitio e despois prema Permitir.
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
