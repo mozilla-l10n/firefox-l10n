@@ -89,6 +89,9 @@ permissions-site-notification-disable-desc = Esto evitará que los sitios web no
 
 ## Site Permissions - Location
 
+permissions-site-location-window =
+    .title = Ajustes - Permisos de localización
+    .style = { permissions-window.style }
 permissions-site-location-desc = Los siguientes sitios web han solicitado permiso para acceder a tu ubicación. Puedes especificar que sitios web tienen acceso a tu ubicación. También puedes bloquear futuras solicitudes de acceso a tu ubicación.
 permissions-site-location-disable-label =
     .label = Bloquear futuras solicitudes de acceso a tu ubicación
@@ -96,6 +99,9 @@ permissions-site-location-disable-desc = Esto evitará que los sitios web no lis
 
 ## Site Permissions - Camera
 
+permissions-site-camera-window =
+    .title = Ajustes - Permisos de cámara
+    .style = { permissions-window.style }
 permissions-site-camera-desc = Los siguientes sitios web han solicitado permiso para acceder a tu cámara. Puedes especificar qué sitios web tienen acceso a tu cámara. También puedes bloquear futuras solicitudes para acceder a tu cámara.
 permissions-site-camera-disable-label =
     .label = Bloquear futuras solicitudes de acceso a tu cámara
@@ -103,6 +109,9 @@ permissions-site-camera-disable-desc = Esto evitará que los sitios web no lista
 
 ## Site Permissions - Microphone
 
+permissions-site-microphone-window =
+    .title = Ajustes - Permisos de micrófono
+    .style = { permissions-window.style }
 permissions-site-microphone-desc = Los siguientes sitios web han solicitado permiso para acceder a tu micrófono. Puedes especificar que sitios web tienen acceso a tu micrófono. También puedes bloquear futuras solicitudes para acceder a tu micrófono.
 permissions-site-microphone-disable-label =
     .label = Bloquear futuras solicitudes de acceso a tu micrófono
