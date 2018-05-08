@@ -44,23 +44,39 @@ permissions-invalid-uri-label = Molim vas, upišite valjano ime poslužitelja
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = Iznimke - zaštita od praćenja
+    .style = { permissions-window.style }
+permissions-exceptions-tracking-protection-desc = Na ovim stranicama ste isključili zaštitu od praćenja.
 
 ## Exceptions - Cookies
 
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-window =
+    .title = Dopuštene stranice - skočni prozori
+    .style = { permissions-window.style }
 permissions-exceptions-popup-desc = Možete odrediti koje web stranice smiju prikazivati skočne prozore. Upišite točnu adresu web stranice kojoj to želite dopustiti, te kliknite na Dopusti.
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = Iznimke - spremljene prijave
+    .style = { permissions-window.style }
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-window =
+    .title = Dopuštene stranice - Instalacija dodataka
+    .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Možete odabrati koje web stranice smiju instalirati dodatke. Upišite točnu adresu web stranice kojoj to želite dopustiti, te kliknite na Dopusti.
 
 ## Site Permissions - Notifications
 
+permissions-site-notification-window =
+    .title = Postavke - dozvole za obavijesti
+    .style = { permissions-window.style }
 
 ## Site Permissions - Location
 
