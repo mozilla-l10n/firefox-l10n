@@ -39,6 +39,8 @@ permissions-searchbox =
 
 ## Invalid Hostname Dialog
 
+permissions-invalid-uri-title = Unjildige kompjûternamme
+permissions-invalid-uri-label = Folje in jildige kompjûternamme yn
 
 ## Exceptions - Tracking Protection
 
