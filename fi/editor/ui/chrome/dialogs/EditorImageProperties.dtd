@@ -13,10 +13,10 @@
 <!ENTITY locationEditField.label "Kuvan sijainti:">
 <!ENTITY locationEditField.accessKey "K">
 <!ENTITY locationEditField.tooltip "Kirjoita kuvan tiedostonimi tai sijainti">
-<!ENTITY locationEditField.shortenedDataURI "Lyhennetty datan URI (kopioiminen sijoittaa täydellisen URIn Leikepöydälle)">
+<!ENTITY locationEditField.shortenedDataURI "Lyhennetty datan URI (kopioiminen sijoittaa täydellisen URIn leikepöydälle)">
 <!ENTITY title.label "Työkaluvihje:">
 <!ENTITY title.accessKey "T">
-<!ENTITY title.tooltip 'HTML määre "title", joka näkyy työkaluvihjeenä'>
+<!ENTITY title.tooltip "HTML-määre ”title”, joka näkyy työkaluvihjeenä">
 <!ENTITY altText.label "Vaihtoehtoinen teksti:">
 <!ENTITY altText.accessKey "V">
 <!ENTITY altTextEditField.tooltip "Kirjoita kuvan tilalla näytettävä teksti">

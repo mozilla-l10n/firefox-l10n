@@ -961,4 +961,4 @@
 <!-- Mac OS X Dock Icon pop-up menu -->
 <!ENTITY dockOptions.label              "Sovelluskuvakkeen asetukset…">
 <!ENTITY writeNewMessageDock.label      "Kirjoita uusi viesti">
-<!ENTITY openAddressBookDock.label      "Avaa Osoitekirja">
+<!ENTITY openAddressBookDock.label      "Avaa osoitekirja">
