@@ -36,3 +36,35 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = वेबसाईट शोधा
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = भरलेले यजमान नाम अवैध आहे
+permissions-invalid-uri-label = कृपया वैध यजमान नाम भरा
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
