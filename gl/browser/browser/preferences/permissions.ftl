@@ -54,6 +54,10 @@ permissions-exceptions-popup-desc = Pode especificar que sitios web teñen permi
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = Excepcións - Identificacións gardadas
+    .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = Non se gardarán as identificacións dos seguintes sitios web
 
 ## Exceptions - Add-ons
 
