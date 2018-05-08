@@ -44,6 +44,9 @@ permissions-invalid-uri-label = ದಯವಿಟ್ಟು ಒಂದು ಮಾನ�
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = ಅಪವಾದಗಳು - ಜಾಡುಹಿಡಿಯುವಿಕೆ ಸುರಕ್ಷತೆ
+    .style = { permissions-window.style }
 
 ## Exceptions - Cookies
 
