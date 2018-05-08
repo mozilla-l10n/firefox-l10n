@@ -44,6 +44,9 @@ permissions-invalid-uri-label = Introduzca un nombre de servidor valido
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = Excepcions - Protección contra lo seguimiento
+    .style = { permissions-window.style }
 
 ## Exceptions - Cookies
 
@@ -54,6 +57,9 @@ permissions-exceptions-popup-desc = Puede especificar qué puestos web pueden ub
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = Excepcions - Inicios de sesión alzaus
+    .style = { permissions-window.style }
 
 ## Exceptions - Add-ons
 
