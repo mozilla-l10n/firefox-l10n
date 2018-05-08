@@ -57,6 +57,9 @@ permissions-exceptions-popup-desc = Du kan oppgi hvilke nettsted som har tillate
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = Unntak - lagrede innlogginger
+    .style = { permissions-window.style }
 
 ## Exceptions - Add-ons
 
