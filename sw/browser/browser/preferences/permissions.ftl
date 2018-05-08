@@ -15,3 +15,37 @@ permissions-allow =
     .accesskey = R
 permissions-status =
     .label = Hadhi
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Jina Batili la Mwenyeji limeingizwa
+permissions-invalid-uri-label = Tafadhali ingiza jina sahihi la mwenyeji
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = Unaweza kubainisha ni wavuti gani zinaruhusiwa kufungua dirisha kidukizo. Andika anwani sahihi ya tovuti unayotaka kuruhusu na kisha bofya Ruhusu.
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = Unaweza kubainisha ni wavuti gani zinaruhusiwa kusakinisha programu jalizi. Andika anwani sahihi ya tovuti unayotaka kuruhusu na kisha bofya Ruhusu.
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
