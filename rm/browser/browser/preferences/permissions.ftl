@@ -64,6 +64,7 @@ permissions-exceptions-popup-desc = Ti pos definir a tge websites che ti permett
 permissions-exceptions-saved-logins-window =
     .title = Excepziuns - infurmaziuns d'annunzia memorisadas
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = Las infurmaziuns d'annunzia per las suandantas websites na vegnan betg memorisadas
 
 ## Exceptions - Add-ons
 
@@ -74,6 +75,9 @@ permissions-exceptions-addons-desc = Ti pos definir a tge websites che ti permet
 
 ## Site Permissions - Notifications
 
+permissions-site-notification-window =
+    .title = Parameters - autorisaziuns per communicaziuns
+    .style = { permissions-window.style }
 
 ## Site Permissions - Location
 
