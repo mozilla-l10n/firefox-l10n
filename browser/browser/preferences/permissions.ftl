@@ -24,3 +24,37 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = រក្សាទុក​ការ​ផ្លាស់ប្ដូរ
     .accesskey = S
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = បាន​បញ្ចូល​ឈ្មោះ​ម៉ាស៊ីន​ដែល​មិន​ត្រឹមត្រូវ
+permissions-invalid-uri-label = សូម​បញ្ចូល​ឈ្មោះ​ម៉ាស៊ីន​ត្រឹមត្រូវ
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = អ្នក​អាច​បញ្ជាក់​តំបន់បណ្ដាញ​ណាមួយ​ដែល​អនុញ្ញាត​ឲ្យ​បើក​បង្អួច​លេចឡើង ។ វាយ​អាសយដ្ឋាន​ជាក់លាក់​របស់​តំបន់បណ្ដាញ​ដែល​អ្នក​ចង់​អនុញ្ញាត បន្ទាប់មក ចុច​អនុញ្ញាត ។
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = អ្នក​អាច​បញ្ជាក់​តំបន់បណ្ដាញ​ណាមួយ​ដែល​អនុញ្ញាត​ឲ្យ​ដំឡើង​កម្មវិធី​បន្ថែម ។ វាយ​អាសយដ្ឋាន​ជាក់លាក់​របស់​តំបន់បណ្ដាញ​ដែល​អ្នក​ចង់​អនុញ្ញាត បន្ទាប់មក ចុច​អនុញ្ញាត ។
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
