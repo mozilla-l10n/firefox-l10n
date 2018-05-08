@@ -44,19 +44,32 @@ permissions-invalid-uri-label = Prašom surinkti teisingą serverio vardą
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = Išimtys – apsauga nuo stebėjimo
+    .style = { permissions-window.style }
+permissions-exceptions-tracking-protection-desc = Šiose svetainėse esate išjungę apsaugą nuo stebėjimo.
 
 ## Exceptions - Cookies
 
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-window =
+    .title = Leistinos svetainės – iškylantieji langai
+    .style = { permissions-window.style }
 permissions-exceptions-popup-desc = Čia galima nurodyti svetaines, kurioms bus leidžiama atverti iškylančiuosius langus. Surinkite tikslų svetainės adresą ir spustelėkite mygtuką „Leisti“.
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = Išimtys – įrašyti prisijungimai
+    .style = { permissions-window.style }
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-window =
+    .title = Leistinos svetainės – priedų diegimas
+    .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Čia galima nurodyti svetaines, kurioms bus leidžiama įdiegti priedus. Surinkite tikslų svetainės adresą ir spustelėkite mygtuką „Leisti“.
 
 ## Site Permissions - Notifications
