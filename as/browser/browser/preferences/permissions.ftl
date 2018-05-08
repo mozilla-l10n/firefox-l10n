@@ -15,3 +15,35 @@ permissions-allow =
     .accesskey = A
 permissions-status =
     .label = অৱস্থা
+
+## Invalid Hostname Dialog
+
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = কোনবোৰ ৱেব ছাইটে প'প-আপ উইন্ডো খুলিব পাৰে আপুনি সেইটো নিৰ্ধাৰিত কৰিব পাৰে। আপুনি আজ্ঞা দিব খোজা ছাইটৰ সঠিক ঠিকনা দিয়ক আৰু আজ্ঞা দিয়কত টিপক।
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = কোনবোৰ ৱেব ছাইটে এড-অন ইনস্টল কৰিব পাৰে আপুনি সেইটো নিৰ্ধাৰিত কৰিব পাৰে। আপুনি আজ্ঞা দিব খোজা ছাইটৰ সঠিক ঠিকনা দিয়ক আৰু আজ্ঞা দিয়কত টিপক।
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
