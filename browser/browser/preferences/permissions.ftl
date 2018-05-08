@@ -36,3 +36,35 @@ permissions-button-ok =
     .accesskey = Ы
 permissions-searchbox =
     .placeholder = Пошук па вэб-сайту
+
+## Invalid Hostname Dialog
+
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = Вы можаце вызначыць, якім вэб-сайтам дазволена адкрываць выплыўныя вокны. Набярыце дакладны адрас сайта, якому вы хочаце дазволіць гэта, і пстрыкніце Дазволіць.
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = Вы можаце вызначыць, якім вэб-сайтам дазволена ўсталёўваць дадаткі. Набярыце дакладны адрас сайта, якому вы хочаце гэта дазволіць, і пстрыкніце Дазволіць.
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
