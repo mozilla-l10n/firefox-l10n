@@ -47,6 +47,7 @@ permissions-invalid-uri-label = Prosim, vnesite veljaven naslov.
 permissions-exceptions-tracking-protection-window =
     .title = Izjeme - zaščita pred sledenjem
     .style = { permissions-window.style }
+permissions-exceptions-tracking-protection-desc = Na teh spletnih straneh ste onemogočili zaščito pred sledenjem.
 
 ## Exceptions - Cookies
 
@@ -88,6 +89,9 @@ permissions-site-notification-disable-desc = To bo preprečilo, da bi katera kol
 
 ## Site Permissions - Location
 
+permissions-site-location-window =
+    .title = Nastavitve - dovoljenja lokacije
+    .style = { permissions-window.style }
 permissions-site-location-desc = Naslednje spletne strani so zahtevale dostop do vaše lokacije. Določite lahko, katere spletne strani lahko dostopajo do vaše lokacije. Prav tako lahko zavrnete nove zahteve za dostop do vaše lokacije.
 permissions-site-location-disable-label =
     .label = Zavrni nove zahteve, ki zahtevajo informacijo o lokaciji
