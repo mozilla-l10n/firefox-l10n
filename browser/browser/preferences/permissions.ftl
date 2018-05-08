@@ -18,3 +18,37 @@ permissions-allow =
     .accesskey = о
 permissions-status =
     .label = Статус
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Внесено е погрешно име на домаќин
+permissions-invalid-uri-label = Внесете точно име на домаќин
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = Можете да одредите кои мрежни места смеат да отвораат скокачки прозорци. Внесете ја точната адреса за која сакате да дозволите и кликнете на „Дозволи“.
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = Можете да одредите од кои мрежни места смее да се инсталираат додатоци. Внесете ја точната адреса за коja сакате да дозволите и кликнете на „Дозволи“.
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
