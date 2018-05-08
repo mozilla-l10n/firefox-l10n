@@ -15,3 +15,34 @@ permissions-status =
 permissions-button-cancel =
     .label = Ibabawi
     .accesskey = C
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-label = Isuratyo man ti nagan ti serbidor
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
