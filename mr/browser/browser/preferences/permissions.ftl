@@ -44,18 +44,33 @@ permissions-invalid-uri-label = कृपया वैध यजमान ना
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = अपवाद - मागोवा सुरक्षा
+    .style = { permissions-window.style }
+permissions-exceptions-tracking-protection-desc = आपण ह्या पृष्ठावरील मागोवा सुरक्षा निष्क्रिय़ केली आहे.
 
 ## Exceptions - Cookies
 
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-window =
+    .title = अनुमतीत साइट्स - पॉपअप्स्
+    .style = { permissions-window.style }
+permissions-exceptions-popup-desc = आपण कोणत्या साइट्सना आगाऊ दृश्यचौकटी उघडण्याची परवानगी आहे हे दर्शवू शकता. परवागी द्यावयाच्या साइटचा पत्ता तंतोतंत टाइप करा आणि परवानगी द्या(Allow) वर क्लिक् करा.
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = अपवाद - संचयीत लॉगइन्स
+    .style = { permissions-window.style }
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-window =
+    .title = अनुमतीत स्थळाकरता - ॲड-ऑन्स् स्थापना
+    .style = { permissions-window.style }
+permissions-exceptions-addons-desc = कुठल्या संकेतस्थाळांना ॲड-ऑन्स् प्रतिष्ठापन करायला द्यायचे हे आपण निश्चित करू शकता. त्याकरता हव्या असलेल्या स्थळाचे अचूक पत्ता लिहा व परवानगी आहे वर क्लिक करा.
 
 ## Site Permissions - Notifications
 
