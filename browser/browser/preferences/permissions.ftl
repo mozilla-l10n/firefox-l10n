@@ -79,6 +79,8 @@ permissions-site-notification-window =
     .title = Configurações - Permissões de Notificações
     .style = { permissions-window.style }
 permissions-site-notification-desc = Os seguintes sites solicitaram enviar notificações. Você pode especificar quais sites podem enviar notificações. Você também pode bloquear novas solicitações pedindo para permitir notificações.
+permissions-site-notification-disable-label =
+    .label = Bloquear novas solicitações pedindo permissão para exibir notificações
 permissions-site-notification-disable-desc = Isto impedirá que qualquer site não listado acima solicite permissão para enviar notificações. Bloquear notificações pode quebrar algumas funcionalidades de sites.
 
 ## Site Permissions - Location
