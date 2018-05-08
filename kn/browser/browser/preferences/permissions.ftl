@@ -36,3 +36,37 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = ಜಾಲತಾಣವನ್ನು ಹುಡುಕು
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = ನಮೂದಿಸಲಾದ ಅತಿಥೇಯದ ಹೆಸರು ಅಮಾನ್ಯವಾಗಿದೆ
+permissions-invalid-uri-label = ದಯವಿಟ್ಟು ಒಂದು ಮಾನ್ಯವಾದ ಅತಿಥೇಯದ ಹೆಸರನ್ನು ನಮೂದಿಸಿ
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = ಯಾವ ಜಾಲತಾಣಗಳು ಪುಟಿಕೆ ವಿಂಡೋಗಳನ್ನು  ತೆರೆಯಲು ಅನುಮತಿ ಇದೆ ಎಂದು ನೀವು ಸೂಚಿಸಬಹುದು. ನೀವು ಅನುಮತಿಸಲು ಬಯಸುವ ತಾಣದ ನಿಖರವಾದ ವಿಳಾಸವನ್ನು ನಮೂದಿಸಿ ನಂತರ ಅನುಮತಿಸು ಅನ್ನು ಕ್ಲಿಕ್ಕಿಸಿ.
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = ಯಾವ ಜಾಲತಾಣಗಳು ಆಡ್-ಆನ್‌ಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸಲು ಅನುಮತಿ ಇದೆ ಎಂದು ನೀವು ಸೂಚಿಸಬಹುದು. ನೀವು ಅನುಮತಿಸಲು ಬಯಸುವ ತಾಣದ ನಿಖರವಾದ ವಿಳಾಸವನ್ನು ನಮೂದಿಸಿ ನಂತರ ಅನುಮತಿಸು ಅನ್ನು ಕ್ಲಿಕ್ಕಿಸಿ.
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
