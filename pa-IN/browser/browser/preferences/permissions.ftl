@@ -39,10 +39,14 @@ permissions-searchbox =
 
 ## Invalid Hostname Dialog
 
+permissions-invalid-uri-title = ਗਲਤ ਹੋਸਟ ਨਾਂ ਦਿੱਤਾ ਗਿਆ
 permissions-invalid-uri-label = ਠੀਕ ਹੋਸਟ ਨਾਂ ਦਿਓ ਜੀ
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = ਛੋਟਾਂ - ਟਰੈਕਿੰਗ ਤੋਂ ਸੁਰੱਖਿਆ
+    .style = { permissions-window.style }
 
 ## Exceptions - Cookies
 
@@ -53,6 +57,9 @@ permissions-exceptions-popup-desc = ਤੁਸੀਂ ਇਹ ਤਹਿ ਕਰ ਸ�
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = ਛੋਟਾਂ - ਸੰਭਾਲੇ ਲਾਗਇਨ
+    .style = { permissions-window.style }
 
 ## Exceptions - Add-ons
 
