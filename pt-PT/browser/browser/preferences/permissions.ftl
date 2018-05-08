@@ -36,3 +36,39 @@ permissions-button-ok =
     .accesskey = G
 permissions-searchbox =
     .placeholder = Pesquisar website
+
+## Invalid Hostname Dialog
+
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-window =
+    .title = Websites permitidos - Pop-ups
+    .style = { permissions-window.style }
+
+## Exceptions - Saved Logins
+
+permissions-exceptions-saved-logins-window =
+    .title = Exceções - Credenciais guardadas
+    .style = { permissions-window.style }
+
+## Exceptions - Add-ons
+
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
