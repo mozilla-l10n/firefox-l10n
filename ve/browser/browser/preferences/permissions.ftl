@@ -18,3 +18,37 @@ permissions-allow =
     .accesskey = A
 permissions-status =
     .label = Maimo
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Dzina ḽa Tshigwada ḽi si ho Mulayoni ḽo Dzhenisiwa
+permissions-invalid-uri-label = Ni khou humbelwa uri ni dzhenise dzina ḽa tshigwada ḽire mulayoni
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = Ni nga bula uri ndi webusaithi dzifhio dzo tendelwaho u vula mafisiṱere a u thuthuba. Thaiphani ḓiresi ya vhukuma ya saithi ine na khou ṱoḓa u i tendela u bva afho ni kiḽike Tendelani.
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = You can specify which web sites are allowed to install add-ons. Type the exact address of the site you want to allow and then click Allow.
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
