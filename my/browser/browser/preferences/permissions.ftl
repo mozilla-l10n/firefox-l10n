@@ -36,3 +36,37 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = ဝဘ်ဆိုက်ကို ရှာဖွေရန်
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = မှားယွင်းနေသောဟိုစ့်ဖြစ်နေသည်
+permissions-invalid-uri-label = အလုပ်လုပ်သောတည်ရှိနေရာကိုထည့်ပါ
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = သင်သည်မည်သည့်၀တ်ဆိုက်အားပေါ့အပ်၀င်းဒိုးခွင့်ပြုမည်ကိုခန့်ခွဲနိုင်သည်။သင်ခွင့်ပြုလိုသော၀တ်ဆိုက်လိပ်စာအတိအကျအားရိုက်ကာ ခွင့်ပြုမည်ကိုနှိပ်ပါ။
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = သင်သည်မည်သည့်၀တ်ဆိုက်အားအတ်အွန်များသွင်းခွင့်ပေးမည်ကို ခန့်ခွဲနိုင်သည်။သင်ခွင့်ပြုလိုသော၀တ်ဆိုက်အားတိကျစွာရိုက်ကာ ခွင့်ပြုမည်ကိုနှိပ်ပါ။
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
