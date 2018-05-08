@@ -51,6 +51,10 @@ permissions-exceptions-tracking-protection-desc = You have disabled Tracking Pro
 
 ## Exceptions - Cookies
 
+permissions-exceptions-cookie-window =
+    .title = Exceptions - Cookies and Site Data
+    .style = { permissions-window.style }
+permissions-exceptions-cookie-desc = You can specify which web sites are always or never allowed to use cookies and site data.  Type the exact address of the site you want to manage and then click Block, Allow for Session, or Allow.
 
 ## Exceptions - Pop-ups
 
@@ -78,21 +82,37 @@ permissions-exceptions-addons-desc = You can specify which web sites are allowed
 permissions-site-notification-window =
     .title = Settings - Notification Permissions
     .style = { permissions-window.style }
+permissions-site-notification-desc = The following web sites have requested to send you notifications. You can specify which web sites are allowed to send you notifications. You can also block new requests asking to allow notifications.
+permissions-site-notification-disable-label =
+    .label = Block new requests asking to allow notifications
+permissions-site-notification-disable-desc = This will prevent any web sites not listed above from requesting permission to send notifications. Blocking notifications may break some web site features.
 
 ## Site Permissions - Location
 
 permissions-site-location-window =
     .title = Settings - Location Permissions
     .style = { permissions-window.style }
+permissions-site-location-desc = The following web sites have requested to access your location. You can specify which web sites are allowed to access your location. You can also block new requests asking to access your location.
+permissions-site-location-disable-label =
+    .label = Block new requests asking to access your location
+permissions-site-location-disable-desc = This will prevent any web sites not listed above from requesting permission to access your location. Blocking access to your location may break some web site features.
 
 ## Site Permissions - Camera
 
 permissions-site-camera-window =
     .title = Settings - Camera Permissions
     .style = { permissions-window.style }
+permissions-site-camera-desc = The following web sites have requested to access your camera. You can specify which web sites are allowed to access your camera. You can also block new requests asking to access your camera.
+permissions-site-camera-disable-label =
+    .label = Block new requests asking to access your camera
+permissions-site-camera-disable-desc = This will prevent any web sites not listed above from requesting permission to access your camera. Blocking access to your camera may break some web site features.
 
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window =
     .title = Settings - Microphone Permissions
     .style = { permissions-window.style }
+permissions-site-microphone-desc = The following web sites have requested to access your microphone. You can specify which web sites are allowed to access your microphone. You can also block new requests asking to access your microphone.
+permissions-site-microphone-disable-label =
+    .label = Block new requests asking to access your microphone
+permissions-site-microphone-disable-desc = This will prevent any web sites not listed above from requesting permission to access your microphone. Blocking access to your microphone may break some web site features.
