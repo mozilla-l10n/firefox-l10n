@@ -44,6 +44,9 @@ permissions-invalid-uri-label = Folje in jildige kompjûternamme yn
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = Utsûnderingen - Beskerming tsjin folgjen
+    .style = { permissions-window.style }
 
 ## Exceptions - Cookies
 
