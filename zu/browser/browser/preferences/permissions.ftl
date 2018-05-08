@@ -18,3 +18,35 @@ permissions-status =
 permissions-button-cancel =
     .label = Khansela
     .accesskey = K
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Kufakwe Igama Lomxhumi Elingasebenzi
+permissions-invalid-uri-label = Sicela ufake igama lomxhumi elisebenzayo
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
