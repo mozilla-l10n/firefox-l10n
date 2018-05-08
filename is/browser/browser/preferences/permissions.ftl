@@ -36,3 +36,37 @@ permissions-button-ok =
     .accesskey = V
 permissions-searchbox =
     .placeholder = Leita í vefsvæði
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Ólöglegt vistfang slegið inn
+permissions-invalid-uri-label = Sláðu inn löglegt vistfang
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = Þú getur skilgreint hvaða vefsvæði hefur leyfi til að opna sprettiglugga. Sláðu inn nákvæma vefslóð fyrir vefsvæðið og smelltu svo á Leyfa.
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = Þú getur skilgreint hvaða vefsvæði hafa leyfi til að setja inn viðbætur. Sláðu inn nákvæma vefslóð fyrir vefsvæðið og smelltu svo á Leyfa.
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
