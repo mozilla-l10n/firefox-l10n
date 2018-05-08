@@ -36,3 +36,34 @@ permissions-button-ok =
     .accesskey = L
 permissions-searchbox =
     .placeholder = Søk på nettsida
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-label = Skriv inn eit gyldig tenarnamn
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
