@@ -44,6 +44,9 @@ permissions-invalid-uri-label = Моля, въведете валидно име
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = Изключения – защита от проследяване
+    .style = { permissions-window.style }
 
 ## Exceptions - Cookies
 
