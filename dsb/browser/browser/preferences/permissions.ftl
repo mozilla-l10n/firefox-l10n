@@ -51,6 +51,10 @@ permissions-exceptions-tracking-protection-desc = Sćo slědowański šćit na t
 
 ## Exceptions - Cookies
 
+permissions-exceptions-cookie-window =
+    .title = Wuwześa - cookieje a sedłowe daty
+    .style = { permissions-window.style }
+permissions-exceptions-cookie-desc = Móžośo pódaś, kótare websedła směju pśecej abo njesměju nigda cookieje a sedłowe daty wužywaś. Zapišćo eksaktnu adresu sedła, kótarež cośo zastojaś a klikniśo pótom na Blokěrowaś, Za pósejźenje dowóliś abo Dowóliś.
 
 ## Exceptions - Pop-ups
 
@@ -64,6 +68,7 @@ permissions-exceptions-popup-desc = Móžośo pódaś, kótare websedła směju 
 permissions-exceptions-saved-logins-window =
     .title = Wuwześa - skłaźone pśizjawjenja
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = Pśizjawjenja za slědujuce sedła njebudu se składowaś
 
 ## Exceptions - Add-ons
 
@@ -77,21 +82,37 @@ permissions-exceptions-addons-desc = Móžośo pódaś, kótare websedła směju
 permissions-site-notification-window =
     .title = Nastajenja - zdźěleńske pšawa
     .style = { permissions-window.style }
+permissions-site-notification-desc = Slědujuce websedła su pominali wam powěźeńki pósłaś. Móžośo pódaś, kótare websedła směju wam powěźeńki pósłaś. Móžośo teke nowe pominanja za dowólnosću powěźeńkow blokěrowaś.
+permissions-site-notification-disable-label =
+    .label = Nowe pominanja za dowolnosću powěźeńkow blokěrowaś
+permissions-site-notification-disable-desc = To buźo websedłam, kótarež górjejce w lisćinje pódane njejsu, pominanje za słanim powěźeńkow zajźowaś. Gaž powěźeńki blokěrujośo, móžo se staś, až někotare funkcije websedła njefunkcioněruju.
 
 ## Site Permissions - Location
 
 permissions-site-location-window =
     .title = Nastajenja - pšawa městna
     .style = { permissions-window.style }
+permissions-site-location-desc = Slědujuce websedła su pominali pśistup na wašo stojnišćo. Móžośo pódaś, kótare websedła maju pśistup na wašo stojnišćo. Móžośo teke nowe pominanja za pśistupom na wašo stojnišćo blokěrowaś.
+permissions-site-location-disable-label =
+    .label = Nowe pominanja za pśistupom na wašo stojnišćo blokěrowaś
+permissions-site-location-disable-desc = To buźo websedłam, kótarež górjejce w lisćinje pódane njejsu, pominanje za pśistupom na wašo stojnišćo zajźowaś. Gaž pśistup na wašo stojnišćo blokěrujośo, móžo se staś, až někotare funkcije websedła njefunkcioněruju.
 
 ## Site Permissions - Camera
 
 permissions-site-camera-window =
     .title = Nastajenja - pšawa kamery
     .style = { permissions-window.style }
+permissions-site-camera-desc = Slědujuce websedła su pominali pśistup na wašu kameru. Móžośo pódaś, kótare websedła maju pśistup na wašu kameru. Móžośo teke nowe pominanja za pśistupom na wašu kameru blokěrowaś.
+permissions-site-camera-disable-label =
+    .label = Nowe pominanja za pśistupom na wašu kameru blokěrowaś
+permissions-site-camera-disable-desc = To buźo websedłam, kótarež górjejce w lisćinje pódane njejsu, pominanje za pśistupom na wašu kameru zajźowaś. Gaž pśistup na wašu kameru blokěrujośo, móžo se staś, až někotare funkcije websedła njefunkcioněruju.
 
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window =
     .title = Nastajenja - pšawa mikrofona
     .style = { permissions-window.style }
+permissions-site-microphone-desc = Slědujuce websedła su pominali pśistup na waš mikrofon. Móžośo pódaś, kótare websedła maju pśistup na waš mikrofon. Móžośo teke nowe pominanja za pśistupom na waš mikrofon blokěrowaś.
+permissions-site-microphone-disable-label =
+    .label = Nowe pominanja za pśistupom na waš mikrofon blokěrowaś
+permissions-site-microphone-disable-desc = To buźo websedłam, kótarež górjejce w lisćinje pódane njejsu, pominanje za pśistupom na waš mikrofon zajźowaś. Gaž pśistup na waš mikrofon blokěrujośo, móžo se staś, až někotare funkcije websedła njefunkcioněruju.
