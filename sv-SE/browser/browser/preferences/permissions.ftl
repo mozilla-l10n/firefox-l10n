@@ -47,6 +47,7 @@ permissions-invalid-uri-label = Skriv in ett giltigt värdnamn
 permissions-exceptions-tracking-protection-window =
     .title = Undantag - Spårningsskydd
     .style = { permissions-window.style }
+permissions-exceptions-tracking-protection-desc = Du har stängt av spårningsskydd på dessa webbplatser.
 
 ## Exceptions - Cookies
 
