@@ -36,3 +36,35 @@ permissions-button-ok =
     .accesskey = L
 permissions-searchbox =
     .placeholder = Søk på nettside
+
+## Invalid Hostname Dialog
+
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = Du kan oppgi hvilke nettsted som har tillatelse til å åpne sprettoppvinduer. Skriv inn den eksakte adressen til nettstedet du vil tillate, og trykk «Tillat».
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = Du kan oppgi hvilke nettsted som har tillatelse til å installere programtillegg. Skriv inn den eksakte adressen til nettstedet du vil tillate, og trykk «Tillat».
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
