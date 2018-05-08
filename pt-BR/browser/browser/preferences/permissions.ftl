@@ -89,19 +89,24 @@ permissions-site-location-window =
 permissions-site-location-desc = Os seguintes sites solicitaram acessar sua localização. Você pode especificar quais sites podem acessar sua localização. Você também pode bloquear novas solicitações pedindo acesso à sua localização.
 permissions-site-location-disable-label =
     .label = Bloquear novas solicitações pedindo para acessar sua localização
+permissions-site-location-disable-desc = Isto impedirá que qualquer site não listado acima solicite permissão para acessar sua localização. Bloquear o acesso à sua localização pode quebrar algumas funcionalidades de sites.
 
 ## Site Permissions - Camera
 
 permissions-site-camera-window =
     .title = Configurações - Permissões da Câmera
     .style = { permissions-window.style }
+permissions-site-camera-desc = Os seguintes sites solicitaram acesso à sua câmera. Você pode especificar quais sites tem permissão para acessar sua câmera. Você também pode bloquear novas solicitações pedindo acesso à sua câmera.
 permissions-site-camera-disable-label =
     .label = Bloquear novas solicitações pedindo para acessar sua câmera
+permissions-site-camera-disable-desc = Isto impedirá que qualquer site não listado acima solicite permissão para acessar sua câmera. Bloquear o acesso à sua câmera pode quebrar algumas funcionalidades de sites.
 
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window =
     .title = Configurações - Permissões do Microfone
     .style = { permissions-window.style }
+permissions-site-microphone-desc = Os seguintes sites solicitaram acesso ao seu microfone. Você pode especificar quais sites tem permissão para acessar seu microfone. Você também pode bloquear novas solicitações pedindo acesso ao seu microfone.
 permissions-site-microphone-disable-label =
     .label = Bloquear novas solicitações pedindo para acessar seu microfone
+permissions-site-microphone-disable-desc = Isto impedirá que qualquer site não listado acima solicite permissão para acessar seu microfone. Bloquear o acesso ao seu microfone pode quebrar algumas funcionalidades de sites.
