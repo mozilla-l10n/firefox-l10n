@@ -36,3 +36,43 @@ permissions-button-ok =
     .accesskey = х
 permissions-searchbox =
     .placeholder = Поиск по веб-сайту
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Введено некорректное сетевое имя сервера
+permissions-invalid-uri-label = Введите корректное сетевое имя сервера.
+
+## Exceptions - Tracking Protection
+
+permissions-exceptions-tracking-protection-window =
+    .title = Исключения — Защита от отслеживания
+    .style = { permissions-window.style }
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = Вы можете указать, каким веб-сайтам разрешено открывать всплывающие окна. Введите точный адрес для каждого сайта и нажмите кнопку «Разрешить».
+
+## Exceptions - Saved Logins
+
+permissions-exceptions-saved-logins-window =
+    .title = Исключения — Сохранённые логины
+    .style = { permissions-window.style }
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = Вы можете указать, каким веб-сайтам разрешено устанавливать дополнения. Введите точный адрес каждого сайта и нажмите кнопку «Разрешить».
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
