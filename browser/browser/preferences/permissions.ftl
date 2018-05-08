@@ -47,12 +47,16 @@ permissions-invalid-uri-label = অনুগ্রহ করে বৈধ হো
 permissions-exceptions-tracking-protection-window =
     .title = ব্যতিক্রমসমূহ - ট্র্যাকিং প্রোটেকশন
     .style = { permissions-window.style }
+permissions-exceptions-tracking-protection-desc = আপনি এই ওয়েবসাইটগুলিতে ট্র্যাকিং প্রোটেকশন বন্ধ করেছেন।
 
 ## Exceptions - Cookies
 
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-window =
+    .title = অনুমতিপ্রাপ্ত ওয়েবসাইট - পপ-আপ
+    .style = { permissions-window.style }
 permissions-exceptions-popup-desc = কোন ওয়েব-সাইটগুলিকে পপ-আপ উইন্ডো প্রদর্শন করার অনুমতি প্রদান করা হবে আপনি তা উল্লেখ করতে পারেন। সাইটের সঠিক ঠিকানা লিখে অনুমতি প্রদান করুন ক্লিক করুন।
 
 ## Exceptions - Saved Logins
@@ -60,9 +64,13 @@ permissions-exceptions-popup-desc = কোন ওয়েব-সাইটগুল
 permissions-exceptions-saved-logins-window =
     .title = ব্যতিক্রম - সংরক্ষিত লগইন
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = নিম্নলিখিত ওয়েবসাইটগুলির জন্য লগইন সংক্রান্ত তথ্য সংরক্ষণ করা হবে না
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-window =
+    .title = অনুমতিপ্রাপ্ত ওয়েবসাইট - অ্যাড-অন ইনস্টলেশন
+    .style = { permissions-window.style }
 permissions-exceptions-addons-desc = কোন ওয়েব-সাইটগুলিকে সফ্টওয়্যার ইনস্টল করার অনুমতি প্রদান করা হবে আপনি তা উল্লেখ করতে পারেন। সাইটের সঠিক ঠিকানা লিখে অনুমতি প্রদান করুন ক্লিক করুন।
 
 ## Site Permissions - Notifications
@@ -70,9 +78,18 @@ permissions-exceptions-addons-desc = কোন ওয়েব-সাইটগু�
 
 ## Site Permissions - Location
 
+permissions-site-location-window =
+    .title = সেটিংস - অবস্থান অনুমতি
+    .style = { permissions-window.style }
 
 ## Site Permissions - Camera
 
+permissions-site-camera-window =
+    .title = সেটিংস - ক্যামেরা অনুমতি
+    .style = { permissions-window.style }
 
 ## Site Permissions - Microphone
 
+permissions-site-microphone-window =
+    .title = সেটিংস - মাইক্রোফোন অনুমতি
+    .style = { permissions-window.style }
