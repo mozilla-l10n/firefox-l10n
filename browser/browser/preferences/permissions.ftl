@@ -36,3 +36,59 @@ permissions-button-ok =
     .accesskey = M
 permissions-searchbox =
     .placeholder = Tschertgar ina website
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Ti has endatà in num da host betg valid
+permissions-invalid-uri-label = Endatescha per plaschair in num da host valid
+
+## Exceptions - Tracking Protection
+
+permissions-exceptions-tracking-protection-window =
+    .title = Excepziuns - Protecziun cunter il fastizar
+    .style = { permissions-window.style }
+permissions-exceptions-tracking-protection-desc = Ti has deactivà la protecziun cunter il fastizar sin questas websites.
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-window =
+    .title = Websites autorisadas - fanestras pop-up
+    .style = { permissions-window.style }
+permissions-exceptions-popup-desc = Ti pos definir a tge websites che ti permettas d'avrir fanestras popup. Inditgescha per plaschair l'adressa exacta da la website, a la quala ti vuls permetter quai e clicca lura sin 'Permetter'.
+
+## Exceptions - Saved Logins
+
+permissions-exceptions-saved-logins-window =
+    .title = Excepziuns - infurmaziuns d'annunzia memorisadas
+    .style = { permissions-window.style }
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-window =
+    .title = Websites autorisadas - installaziun da supplements
+    .style = { permissions-window.style }
+permissions-exceptions-addons-desc = Ti pos definir a tge websites che ti permettas d'installar supplements. Inditgescha l'adressa exacta da la website, a la quala ti vuls permetter quai e clicca sin 'Permetter'.
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+permissions-site-location-window =
+    .title = Parameters - autorisaziuns per la posiziun
+    .style = { permissions-window.style }
+
+## Site Permissions - Camera
+
+permissions-site-camera-window =
+    .title = Parameters - autorisaziuns per la camera
+    .style = { permissions-window.style }
+
+## Site Permissions - Microphone
+
+permissions-site-microphone-window =
+    .title = Parameters - autorisaziuns per il microfon
+    .style = { permissions-window.style }
