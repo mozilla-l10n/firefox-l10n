@@ -44,6 +44,9 @@ permissions-invalid-uri-label = Lūdzu, ievadiet derīgu resursdatora nosaukumu
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = Izņēmumi - Sekošanas aizsardzība
+    .style = { permissions-window.style }
 
 ## Exceptions - Cookies
 
