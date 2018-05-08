@@ -36,3 +36,37 @@ permissions-button-ok =
     .accesskey = V
 permissions-searchbox =
     .placeholder = Weboldal keresése
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Érvénytelen gépnév
+permissions-invalid-uri-label = Írjon be egy érvényes gépnevet.
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = Megadhatja azokat a webhelyeket, amelyek felugró ablakot nyithatnak. Írja be a kezelni kívánt webhely pontos nevét, majd kattintson az Engedélyezés gombra.
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = Megadhatja azokat a webhelyeket, amelyekről engedélyezett a kiegészítők telepítése. Írja be a kezelni kívánt webhely pontos nevét, majd kattintson az Engedélyezés gombra.
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
