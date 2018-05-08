@@ -50,23 +50,41 @@ permissions-invalid-uri-label = Picatz un nom d'òste valid
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-window =
+    .title = Sites web autorizats - Fenèstras sorgissentas
+    .style = { permissions-window.style }
 permissions-exceptions-popup-desc = Podètz indicar los sites web qu'autorizatz a dobrir de fenèstras sorgissentas. Picatz l'adreça exacta del site que volètz autorizar puèi clicatz sus Autorizar.
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = Excepcions - Senhals salvats
+    .style = { permissions-window.style }
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-window =
+    .title = Sites web autorizats - Moduls complementaris
+    .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Podètz indicar los sites web qu'autorizatz a installar de moduls complementaris. Picatz l'adreça exacta del site que volètz autorizar puèi clicatz sus Autorizar.
 
 ## Site Permissions - Notifications
 
+permissions-site-notification-window =
+    .title = Paramètres - Permissions de notificacion
+    .style = { permissions-window.style }
 
 ## Site Permissions - Location
 
+permissions-site-location-window =
+    .title = Paramètres - Permission de localizacion
+    .style = { permissions-window.style }
 
 ## Site Permissions - Camera
 
 
 ## Site Permissions - Microphone
 
+permissions-site-microphone-window =
+    .title = Paramètres - Permission pel microfòn
+    .style = { permissions-window.style }
