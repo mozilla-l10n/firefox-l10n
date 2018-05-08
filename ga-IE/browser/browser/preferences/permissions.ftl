@@ -28,6 +28,7 @@ permissions-button-ok =
 ## Invalid Hostname Dialog
 
 permissions-invalid-uri-title = Óstainm neamhbhailí
+permissions-invalid-uri-label = Cuir óstainm bailí isteach, le do thoil
 
 ## Exceptions - Tracking Protection
 
@@ -37,12 +38,14 @@ permissions-invalid-uri-title = Óstainm neamhbhailí
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-desc = Is féidir na suímh a bhfuil cead acu preabfhuinneoga a oscailt a shonrú. Clóscríobh seoladh cruinn an tsuímh a theastaíonn uait a cheadú agus ansin cliceáil Ceadaigh.
 
 ## Exceptions - Saved Logins
 
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-desc = Is féidir na suímh a bhfuil cead acu breiseáin a shuiteáil a shonrú. Clóscríobh seoladh cruinn an tsuímh a theastaíonn uait a cheadú agus ansin cliceáil Ceadaigh.
 
 ## Site Permissions - Notifications
 
