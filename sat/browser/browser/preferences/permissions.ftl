@@ -18,3 +18,37 @@ permissions-status =
 permissions-button-cancel =
     .label = बा़डरा़  (C)
     .accesskey = C
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = बाङ बाताव हुय होचो ञुतुम आदेराकाना
+permissions-invalid-uri-label = मित् बातावाक् हुय होचो ञुतुम आदेर मे
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = आम गोटा दाड़ेयाक् आम ओका वेब साइट को पॉप-ऑप विंडो झिज ला़गित् बाताव एमा.  आम बाताव एम सानाम कान साइट रेयाक् ओना उता़र टिका़ना आर इना़ तायोम बाताव एम ओताय मे.
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = आम गोटा दाड़ेयाक् आ ओका वेब साइट को दो एड-ऑन बोहाल ला़गित् बातावे एमा. आम बाताव एम सानाम कान साइट रेयाक् ओना उता़र ठिका़ना टाइप मे आर इना़ तायोम बाताव एम ओताय मे.
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
