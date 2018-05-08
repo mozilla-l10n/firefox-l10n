@@ -75,6 +75,9 @@ permissions-exceptions-addons-desc = কোন ওয়েব-সাইটগু�
 
 ## Site Permissions - Notifications
 
+permissions-site-notification-window =
+    .title = সেটিংস - বিজ্ঞপ্তির অনুমতি
+    .style = { permissions-window.style }
 
 ## Site Permissions - Location
 
