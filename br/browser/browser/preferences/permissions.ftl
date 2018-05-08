@@ -47,12 +47,16 @@ permissions-invalid-uri-label = Roit un anv ostiz talvoudek, mar plij
 permissions-exceptions-tracking-protection-window =
     .title = Nemedennoù - Gwarez heuliañ
     .style = { permissions-window.style }
+permissions-exceptions-tracking-protection-desc = Diweredekaet ho peus ar gwarez heuliañ war al lec'hiennoù-mañ.
 
 ## Exceptions - Cookies
 
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-window =
+    .title = Lec'hiennoù aotreet - diflugelloù
+    .style = { permissions-window.style }
 permissions-exceptions-popup-desc = Gallout a rit erspizañ pe lec'hiennoù zo aotreet da zigeriñ diflugelloù. Skrivit chomlec'h resis al lec'hienn a roit an aotre dezhi ha klikit war Aotren.
 
 ## Exceptions - Saved Logins
@@ -63,16 +67,31 @@ permissions-exceptions-saved-logins-window =
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-window =
+    .title = Lec'hiennoù aotreet - Staliadur askouezhioù
+    .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Posupl eo deoc'h erspizañ pe lec'hiennoù a vo aotreet da staliañ askouezhioù. Roit chomlec'h spis al lec'hienn da vezañ aotreet ha klikit war Aotren.
 
 ## Site Permissions - Notifications
 
+permissions-site-notification-window =
+    .title = Arventennoù - Aotreoù ar rebuzadurioù
+    .style = { permissions-window.style }
 
 ## Site Permissions - Location
 
+permissions-site-location-window =
+    .title = Arventennoù - Aotreoù al lec'hiadur
+    .style = { permissions-window.style }
 
 ## Site Permissions - Camera
 
+permissions-site-camera-window =
+    .title = Arventennoù - Aotreoù ar c'hamera
+    .style = { permissions-window.style }
 
 ## Site Permissions - Microphone
 
+permissions-site-microphone-window =
+    .title = Arventennoù - Aotreoù ar mikrofon
+    .style = { permissions-window.style }
