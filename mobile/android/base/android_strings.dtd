@@ -207,6 +207,7 @@
 <!ENTITY pref_category_advanced_summary3 "Rajtarki wobnowić, datowy serwer, wuwiwarske nastroje">
 <!ENTITY pref_category_notifications "Zdźělenja">
 <!ENTITY pref_category_notifications_summary "Nowe funkcije, aktualizacije websydłow">
+<!ENTITY pref_category_notifications_summary2 "Nowe funkcije, produktowe pokiwy">
 <!ENTITY pref_developer_remotedebugging_usb "Zdalene pytanje zmylkow přez USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Zdalene pytanje zmylkow přez WLAN">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Pytanje zmylkow přez WLAN sej žada, zo QR-kodowy čitak je na wašim graće instalowany.">
@@ -543,7 +544,7 @@
 <!ENTITY pref_compact_tabs_summary2 "Rajtarki w dwěmaj špaltomaj we wysokim formaće rjadować">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
-     any page is removed frome about:home. This includes pages that are in history,
+     any page is removed from about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Strona je so wotstroniła">
 <!ENTITY folder_removed "Rjadowak je so wotstronił">
@@ -758,7 +759,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Posledni raz synchronizowany: &formatS;">
-<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!-- Localization note: Used when the sync has not happened yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Posledni raz synchronizowany: ženje">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
