@@ -64,6 +64,7 @@ permissions-exceptions-popup-desc = Možete odrediti koje web stranice smiju pri
 permissions-exceptions-saved-logins-window =
     .title = Iznimke - spremljene prijave
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = Prijave za sljedeće stranice neće biti spremljene
 
 ## Exceptions - Add-ons
 
@@ -80,9 +81,18 @@ permissions-site-notification-window =
 
 ## Site Permissions - Location
 
+permissions-site-location-window =
+    .title = Postavke - lokacijske dozvole
+    .style = { permissions-window.style }
 
 ## Site Permissions - Camera
 
+permissions-site-camera-window =
+    .title = Postavke - dozvole pristupa kameri
+    .style = { permissions-window.style }
 
 ## Site Permissions - Microphone
 
+permissions-site-microphone-window =
+    .title = Postavke - dozvole pristupa mikrofonu
+    .style = { permissions-window.style }
