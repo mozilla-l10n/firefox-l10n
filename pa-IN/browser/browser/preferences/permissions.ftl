@@ -36,3 +36,36 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = ਵੈੱਬਾਸਾਈਟ ਨੂੰ ਲੱਭੋ
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-label = ਠੀਕ ਹੋਸਟ ਨਾਂ ਦਿਓ ਜੀ
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = ਤੁਸੀਂ ਇਹ ਤਹਿ ਕਰ ਸਕਦੇ ਹੋ ਕਿ ਕਿਹੜੀਆਂ ਵੈਬ ਸਾਇਟਾਂ ਨੂੰ ਪੋਪਅੱਪ ਵਿੰਡੋਜ਼ ਨੂੰ ਲੋਡ ਕਰ ਸਕਦੀਆਂ ਹਨ। ਸਾਇਟ ਦਾ ਸਹੀਂ ਐਡਰੈੱਸ ਦਿਓ ਅਤੇ ਫਿਰ ਸਵੀਕਾਰ ਜਾਂ ਪਾਬੰਦੀ ਦਬਾਓ।
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = ਤੁਸੀਂ ਦੱਸ ਸਕਦੇ ਹੋ ਕਿ ਕਿਹੜੀਆਂ ਵੈੱਬ ਸਾਇਟਾਂ ਤੋਂ ਐਂਡ-ਆਨ ਇੰਸਟਾਲ ਕਰਨ ਦੀ ਇਜ਼ਾਜਤ ਹੈ। ਉਸ ਵੈੱਬ ਸਾਇਟ ਦੀ ਠੀਕ ਐਡਰੈੱਸ ਦਿਓ, ਜਿਸ ਨੂੰ ਤੁਸੀਂ ਇਜ਼ਾਜਤ ਦਿੰਦੇ ਹੋ, ਅਤੇ ਇਜ਼ਾਜਤ ਹੈ ਨੂੰ ਦਬਾਓ।
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
