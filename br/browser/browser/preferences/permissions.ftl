@@ -36,3 +36,37 @@ permissions-button-ok =
     .accesskey = E
 permissions-searchbox =
     .placeholder = Klask lec'hiennoù
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Anv ostiz bet enanket didalvoudek
+permissions-invalid-uri-label = Roit un anv ostiz talvoudek, mar plij
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = Gallout a rit erspizañ pe lec'hiennoù zo aotreet da zigeriñ diflugelloù. Skrivit chomlec'h resis al lec'hienn a roit an aotre dezhi ha klikit war Aotren.
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = Posupl eo deoc'h erspizañ pe lec'hiennoù a vo aotreet da staliañ askouezhioù. Roit chomlec'h spis al lec'hienn da vezañ aotreet ha klikit war Aotren.
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
