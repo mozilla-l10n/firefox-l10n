@@ -36,3 +36,37 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = ওয়েবসাইট খুঁজুন
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = অকার্যকর হোস্ট নাম দেয়া হয়েছে
+permissions-invalid-uri-label = অনুগ্রহ করে কার্যকর হোস্ট নাম দিন
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = কোন ওয়েবসাইটগুলো পপ-আপ উইন্ডো প্রদর্শন করতে পারবে আপনি তা উল্লেখ করতে পারেন। সাইটের সঠিক ঠিকানা লিখে "অনুমোদন করা হবে" ক্লিক করুন।
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = কোন ওয়েবসাইটগুলো অ্যাড-অন ইনস্টল করতে পারবে আপনি তা উল্লেখ করতে পারেন। সাইটের সঠিক ঠিকানা লিখে "অনুমোদন করা হবে" ক্লিক করুন।
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
