@@ -18,3 +18,37 @@ permissions-status =
 permissions-button-cancel =
     .label = Scancele
     .accesskey = S
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Non dal host inserît no valit
+permissions-invalid-uri-label = Inserìs par plasê un non dal host valit
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = Tu puedis specificâ cuâi che a son i sîts che a puedin vierzi barcons pop-up. Inserìs la direzion dal sît che tu vuelis dâi il permès e frache su Permet.
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = Tu puedis specificâ cuâi che a son i sîts che a puedin instalâ lis zontis. Inserìs la direzion dal sît che tu vuelis dâi il permès e cjalcje su Permet.
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
