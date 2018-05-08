@@ -47,6 +47,7 @@ permissions-invalid-uri-label = Mohon masukkan nama host yang valid
 permissions-exceptions-tracking-protection-window =
     .title = Pengecualian - Perlindungan Pelacakan
     .style = { permissions-window.style }
+permissions-exceptions-tracking-protection-desc = Anda telah menonaktifkan Perlindungan Pelacakan di situs web ini.
 
 ## Exceptions - Cookies
 
@@ -54,23 +55,58 @@ permissions-exceptions-cookie-desc = Anda dapat menentukan situs web mana saja y
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-window =
+    .title = Situs Web yang Dibolehkan - Pop-ups
+    .style = { permissions-window.style }
 permissions-exceptions-popup-desc = Anda dapat menentukan situs web mana saja yang diizinkan untuk membuka jendela pop-up. Ketik alamat situs yang akan diizinkan, lalu klik Izinkan.
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-desc = Info masuk untuk situs berikut ini tidak akan disimpan
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-window =
+    .title = Situs Web yang Dibolehkan - Pemasangan Pengaya
+    .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Anda dapat menentukan situs web mana saja yang diizinkan untuk memasang Pengaya. Ketik alamat situs yang akan diizinkan, lalu klik Izinkan.
 
 ## Site Permissions - Notifications
 
+permissions-site-notification-window =
+    .title = Setelan - Izin Notifikasi
+    .style = { permissions-window.style }
+permissions-site-notification-desc = Situs web berikut meminta izin mengirimkan notifikasi. Anda dapat menentukan situs web mana saja yang diizinkan mengirimi Anda notifikasi. Anda juga dapat memblokir permintaan baru untuk mengirimkan notifikasi.
+permissions-site-notification-disable-label =
+    .label = Blokir permintaan baru untuk notifikasi
+permissions-site-notification-disable-desc = Ini akan mencegah situs web apa pun yang tidak tercantum di atas minta mengirim notifikasi. Memblokir notifikasi dapat menghentikan beberapa fitur situs web.
 
 ## Site Permissions - Location
 
+permissions-site-location-window =
+    .title = Setelan - Izin Lokasi
+    .style = { permissions-window.style }
+permissions-site-location-desc = Situs web berikut ini minta mengakses lokasi Anda. Anda dapat menentukan situs web apa saja yang diizinkan mengakses lokasi Anda. Anda juga dapat memblokir permintaan baru yang minta mengakses lokasi Anda.
+permissions-site-location-disable-label =
+    .label = Blokir permintaan baru untuk mengakses lokasi Anda
+permissions-site-location-disable-desc = Ini akan mencegah situs web apa pun yang tidak tercantum di atas minta mengakses lokasi Anda. Memblokir akses ke lokasi Anda dapat menghentikan beberapa fitur situs web.
 
 ## Site Permissions - Camera
 
+permissions-site-camera-window =
+    .title = Setelan - Izin Kamera
+    .style = { permissions-window.style }
+permissions-site-camera-desc = Situs web berikut ini minta mengakses kamera Anda. Anda dapat menentukan situs web apa saja yang diizinkan untuk mengakses kamera Anda. Anda juga dapat memblokir permintaan baru yang minta mengakses kamera Anda.
+permissions-site-camera-disable-label =
+    .label = Blokir permintaan baru untuk mengakses kamera Anda
+permissions-site-camera-disable-desc = Ini akan mencegah situs web apa pun yang tidak tercantum di atas minta mengakses kamera Anda. Memblokir akses ke kamera Anda dapat menghentikan beberapa fitur situs web.
 
 ## Site Permissions - Microphone
 
+permissions-site-microphone-window =
+    .title = Setelan - Izin Mikrofon
+    .style = { permissions-window.style }
+permissions-site-microphone-desc = Situs web berikut ini minta mengakses mikrofon Anda. Anda dapat menentukan situs web apa saja yang diizinkan mengakses mikrofon Anda. Anda juga dapat memblokir permintaan baru yang minta mengakses mikrofon Anda.
+permissions-site-microphone-disable-label =
+    .label = Blokir permintaan baru untuk mengakses mikrofon Anda
+permissions-site-microphone-disable-desc = Ini akan mencegah situs web apa pun yang tidak tercantum di atas minta mengakses mikrofon Anda. Memblokir akses ke mikrofon Anda dapat menghentikan beberapa fitur situs web.
