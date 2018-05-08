@@ -38,6 +38,7 @@ permissions-invalid-uri-label = ji kerema xwe navekî derbasdar ê hostê têkev
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-desc = Dikarî diyar bikî ka kîjan malper sazkirina ji bo add-onan bidestûr in. Navnîşana malpera ku dixwazî bi rê ve bibî têkevê û Destûrê Bide bitikîne.
 
 ## Site Permissions - Notifications
 
