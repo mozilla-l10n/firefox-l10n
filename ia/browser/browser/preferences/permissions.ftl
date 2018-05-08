@@ -36,3 +36,67 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = Cercar in le sito web
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Nomine de hoste inserite
+permissions-invalid-uri-label = Per favor insere un nomine de hoste valide
+
+## Exceptions - Tracking Protection
+
+permissions-exceptions-tracking-protection-window =
+    .title = Exceptiones - Protection contra le tractiamento
+    .style = { permissions-window.style }
+permissions-exceptions-tracking-protection-desc = Tu ha inactivate le protection contra le traciamento in iste sitos web.
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-window =
+    .title = Sitos web permittite - Fenestras emergente
+    .style = { permissions-window.style }
+permissions-exceptions-popup-desc = Tu pote specificar le sitos web que es permittite a aperir fenestras emergente. Scribe le adresse exacte del sito que tu vole permitter e tunc clicca sur Permitter.
+
+## Exceptions - Saved Logins
+
+permissions-exceptions-saved-logins-window =
+    .title = Exceptiones - Authenticationes salvate
+    .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = Le authenticationes al sitos web sequente non essera salvate
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-window =
+    .title = Sitos web permittite - Installation de additivos
+    .style = { permissions-window.style }
+permissions-exceptions-addons-desc = Tu pote specificar que sitos web es permittite de installar additivos. Scribe le adresse exacte del sito que tu vole permitter e tunc clicca sur Permitter.
+
+## Site Permissions - Notifications
+
+permissions-site-notification-window =
+    .title = Parametros - Permissiones de notification
+    .style = { permissions-window.style }
+
+## Site Permissions - Location
+
+permissions-site-location-window =
+    .title = Parametros - Permissiones de geolocalisation
+    .style = { permissions-window.style }
+
+## Site Permissions - Camera
+
+permissions-site-camera-window =
+    .title = Parametros - Permissiones del camera
+    .style = { permissions-window.style }
+permissions-site-camera-desc = Le sequente sitos web ha requirite de acceder a tu photo-camera. Tu pote specificar a qual sitos web es consentite de acceder a tu camera. Tu pote alsi blocar nove requestas de acceder a tu camera.
+permissions-site-camera-disable-label =
+    .label = Blocar nove requestas de acceder a tu camera
+permissions-site-camera-disable-desc = Isto impedira qualcunque sitos web non listate antea de demandar licentia a acceder a tu camera. Blocar le accesso a tu camera pote nocer alcun functionalitates del sito web.
+
+## Site Permissions - Microphone
+
+permissions-site-microphone-window =
+    .title = Parametros - permissiones del microphono
+    .style = { permissions-window.style }
