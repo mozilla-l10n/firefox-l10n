@@ -207,6 +207,7 @@
 <!ENTITY pref_category_advanced_summary3 "टैब, डाटा रक्षक, डेवलपर उपकरण पुनर्बहाल करू">
 <!ENTITY pref_category_notifications "नोटिफिकेशन">
 <!ENTITY pref_category_notifications_summary "नव फीचर, वेबसाइट अपडेट">
+<!ENTITY pref_category_notifications_summary2 "नव फीचर, प्रोडक्ट टिप्स">
 <!ENTITY pref_developer_remotedebugging_usb "USB सँ भ कए दूरस्थ दोषसुधार">
 <!ENTITY pref_developer_remotedebugging_wifi "वाई फाई सँ भ कए दूरस्थ दोषसुधार">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "वाई फाई दोषसुधार केँ अहाँक डिवाइस मे QR ऐप्प सँस्थापित हएबाक जरुरत अछि.">
