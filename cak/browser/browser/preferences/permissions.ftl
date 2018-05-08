@@ -36,3 +36,50 @@ permissions-button-ok =
     .accesskey = K
 permissions-searchbox =
     .placeholder = Tikanöx K'amaya'l
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Man ütz ta ri rochochib'al ruk'u'x samaj
+permissions-invalid-uri-label = Tatz'ib'aj ri ütz rub'i' ruk'u'x samaj
+
+## Exceptions - Tracking Protection
+
+permissions-exceptions-tracking-protection-window =
+    .title = Taq man relik ta - Chajinïk chuwäch Ojqanïk
+    .style = { permissions-window.style }
+permissions-exceptions-tracking-protection-desc = Xe'achüp ri Chajinïk chuwäch Ojqanïk pa re taq ruxaq ajk'amaya'l re'.
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-window =
+    .title = Ri taq Ruxaq Ajk'amaya'l yatikir nawokisaj - Elenel taq tzuwäch
+    .style = { permissions-window.style }
+permissions-exceptions-popup-desc = Yatikïr naya' ketal ri taq ruxaq k'amaya'l, ri yetikïr yekijäq elenel taq tzuwäch. Tatz'ib'aj ri awochochib'al chuqa' tapitz'a' pa Tiya' q'ij.
+
+## Exceptions - Saved Logins
+
+permissions-exceptions-saved-logins-window =
+    .title = Taq man relik ta - Yakon kitikirib'al taq molojri'ïl
+    .style = { permissions-window.style }
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-window =
+    .title = Taq ruxaq Ajk'amaya'l ya'on q'ij chi ke - Kiyakik taq Tz'aqat
+    .style = { permissions-window.style }
+permissions-exceptions-addons-desc = Yatikïr naya' retal pan achike ruxaq k'amaya'l niya' q'ij richin yeyak ri taq tz'aqat. Tatz'ib'aj chi ütz ri rochochib'al ruxaq k'amaya'l, ri nawajo' naya' q'ij chuqa' tapitz'a' Tiya' q'ij.
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
