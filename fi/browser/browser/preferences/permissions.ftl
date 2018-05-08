@@ -51,6 +51,9 @@ permissions-exceptions-tracking-protection-desc = Olet poistanut seurannan suoja
 
 ## Exceptions - Cookies
 
+permissions-exceptions-cookie-window =
+    .title = Poikkeukset - Evästeet ja sivustotiedot
+    .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Määrätyt sivustot saavat tai eivät saa asettaa evästeitä ja tallentaa tietoja tietokoneellesi. Kirjoita sivuston osoite ja napsauta Salli, Salli istunnon ajaksi tai Estä.
 
 ## Exceptions - Pop-ups
