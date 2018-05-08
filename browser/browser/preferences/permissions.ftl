@@ -44,29 +44,54 @@ permissions-invalid-uri-label = Sláðu inn löglegt vistfang
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = Undanþágur - Vörn gegn gagnasöfnun
+    .style = { permissions-window.style }
+permissions-exceptions-tracking-protection-desc = Þú hefur gert óvirka vörn gegn gagnasöfnun á þessum vefsvæðum.
 
 ## Exceptions - Cookies
 
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-window =
+    .title = Leyfð vefsvæði - Sprettigluggar
+    .style = { permissions-window.style }
 permissions-exceptions-popup-desc = Þú getur skilgreint hvaða vefsvæði hefur leyfi til að opna sprettiglugga. Sláðu inn nákvæma vefslóð fyrir vefsvæðið og smelltu svo á Leyfa.
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = Undantekningar - Vistaðar innskráningar
+    .style = { permissions-window.style }
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-window =
+    .title = Leyfð vefsvæði - Uppsetning á viðbótum
+    .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Þú getur skilgreint hvaða vefsvæði hafa leyfi til að setja inn viðbætur. Sláðu inn nákvæma vefslóð fyrir vefsvæðið og smelltu svo á Leyfa.
 
 ## Site Permissions - Notifications
 
+permissions-site-notification-window =
+    .title = Stillingar - Leyfðar tilkynningar
+    .style = { permissions-window.style }
 
 ## Site Permissions - Location
 
+permissions-site-location-window =
+    .title = Stillingar - Leyfðar staðsetningar
+    .style = { permissions-window.style }
 
 ## Site Permissions - Camera
 
+permissions-site-camera-window =
+    .title = Stillingar - Leyfi fyrir myndavél
+    .style = { permissions-window.style }
 
 ## Site Permissions - Microphone
 
+permissions-site-microphone-window =
+    .title = Stillingar - Leyfi fyrir hljóðnema
+    .style = { permissions-window.style }
