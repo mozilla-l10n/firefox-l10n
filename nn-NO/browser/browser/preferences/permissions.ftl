@@ -39,6 +39,7 @@ permissions-searchbox =
 
 ## Invalid Hostname Dialog
 
+permissions-invalid-uri-title = Ugyldig tenarnamn skrive inn
 permissions-invalid-uri-label = Skriv inn eit gyldig tenarnamn
 
 ## Exceptions - Tracking Protection
