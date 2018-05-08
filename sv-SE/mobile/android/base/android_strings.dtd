@@ -207,6 +207,7 @@
 <!ENTITY pref_category_advanced_summary3 "Återställ flikar, insticksmoduler, utvecklarverktyg">
 <!ENTITY pref_category_notifications "Notifieringar">
 <!ENTITY pref_category_notifications_summary "Nya funktioner, webbplatsuppdateringar">
+<!ENTITY pref_category_notifications_summary2 "Nya funktioner, produkttips">
 <!ENTITY pref_developer_remotedebugging_usb "Fjärrfelsökning via USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Fjärrfelsökning via Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi-felsökning kräver att din enhet har en app för QR-kodläsning installerad.">
@@ -543,7 +544,7 @@
 <!ENTITY pref_compact_tabs_summary2 "Ordna flikar i två kolumner i porträttläge">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
-     any page is removed frome about:home. This includes pages that are in history,
+     any page is removed from about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Sidan borttagen">
 <!ENTITY folder_removed "Mapp borttagen">
@@ -758,7 +759,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Senast synkad:  &formatS;">
-<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!-- Localization note: Used when the sync has not happened yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Senast synkad: aldrig">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
