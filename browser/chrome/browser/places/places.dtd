@@ -13,11 +13,11 @@
 <!ENTITY file.close.label               "Zavrieť">
 <!ENTITY file.close.accesskey           "e">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY views.label                    "Zobrazenia">
+<!ENTITY views.label                    "Zobrazenie">
 <!ENTITY views.accesskey                "o">
-<!ENTITY views.tooltip                  "Zmeniť pohľad">
-<!ENTITY view.columns.label             "Usporiadať stĺpce">
-<!ENTITY view.columns.accesskey         "U">
+<!ENTITY views.tooltip                  "Zmení zobrazenie">
+<!ENTITY view.columns.label             "Zobraziť stĺpce">
+<!ENTITY view.columns.accesskey         "b">
 <!ENTITY view.sort.label                "Usporiadať">
 <!ENTITY view.sort.accesskey            "s">
 <!ENTITY view.unsorted.label            "Neusporiadané">
@@ -35,9 +35,9 @@
 <!ENTITY importOtherBrowser.accesskey      "d">
 
 <!ENTITY cmd.backup.label               "Zálohovať…">
-<!ENTITY cmd.backup.accesskey           "h">
+<!ENTITY cmd.backup.accesskey           "Z">
 <!ENTITY cmd.restore2.label             "Obnoviť">
-<!ENTITY cmd.restore2.accesskey         "b">
+<!ENTITY cmd.restore2.accesskey         "O">
 <!ENTITY cmd.restoreFromFile.label      "Vybrať súbor…">
 <!ENTITY cmd.restoreFromFile.accesskey  "V">
 
@@ -72,9 +72,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "Obnoviť aktívnu záložku">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "a">
-
-<!ENTITY cmd.moveBookmarks.label                  "Presunúť…">
-<!ENTITY cmd.moveBookmarks.accesskey              "u">
 
 <!ENTITY col.name.label          "Názov">
 <!ENTITY col.tags.label          "Značky">
