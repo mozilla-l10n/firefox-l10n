@@ -36,3 +36,43 @@ permissions-button-ok =
     .accesskey = E
 permissions-searchbox =
     .placeholder = Rechercher un site web
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Nom d’hôte invalide
+permissions-invalid-uri-label = Veuillez saisir un nom d’hôte valide
+
+## Exceptions - Tracking Protection
+
+permissions-exceptions-tracking-protection-window =
+    .title = Exceptions - Protection contre le pistage
+    .style = { permissions-window.style }
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = Vous pouvez indiquer les sites web autorisés à ouvrir des fenêtres popup. Saisissez l’adresse exacte du site que vous souhaitez autoriser et cliquez sur Autoriser.
+
+## Exceptions - Saved Logins
+
+permissions-exceptions-saved-logins-window =
+    .title = Exceptions - Enregistrement des identifiants
+    .style = { permissions-window.style }
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = Vous pouvez indiquer les sites web autorisés à installer des modules complémentaires. Saisissez l’adresse exacte du site que vous souhaitez autoriser et cliquez sur Autoriser.
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
