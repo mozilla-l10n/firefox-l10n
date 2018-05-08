@@ -44,27 +44,54 @@ permissions-invalid-uri-label = Idatzi baliozko zerbitzari-izena
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = Salbuespenak - Jarraipenaren babesa
+    .style = { permissions-window.style }
+permissions-exceptions-tracking-protection-desc = Jarraipenaren babesa desgaitu duzu webgune hauetan.
 
 ## Exceptions - Cookies
 
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-window =
+    .title = Baimendutako webguneak - Popup-ak
+    .style = { permissions-window.style }
+permissions-exceptions-popup-desc = Popup leihoak irekitzeko baimena duten webguneak ezar daitezke hemen. Idatzi baimendu behar duzun webgunearen helbide zehatza eta egin klik 'Baimendu' botoian.
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = Salbuespenak - Gordetako saio-hasierak
+    .style = { permissions-window.style }
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-window =
+    .title = Baimendutako webguneak - Gehigarrien instalazioa
+    .style = { permissions-window.style }
+permissions-exceptions-addons-desc = Gehigarriak instalatzeko baimena duten webguneak ezar ditzakezu. Idatzi gunearen helbide zehatza eta egin klik 'Baimendu' botoian baimena emateko.
 
 ## Site Permissions - Notifications
 
+permissions-site-notification-window =
+    .title = Ezarpenak - Jakinarazpenen baimenak
+    .style = { permissions-window.style }
 
 ## Site Permissions - Location
 
+permissions-site-location-window =
+    .title = Ezarpenak - Kokapenaren baimenak
+    .style = { permissions-window.style }
 
 ## Site Permissions - Camera
 
+permissions-site-camera-window =
+    .title = Ezarpenak - Kameraren baimenak
+    .style = { permissions-window.style }
 
 ## Site Permissions - Microphone
 
+permissions-site-microphone-window =
+    .title = Ezarpenak - Mikrofonoaren baimenak
+    .style = { permissions-window.style }
