@@ -51,6 +51,10 @@ permissions-exceptions-tracking-protection-desc = Xe'achüp ri Chajinïk chuwäc
 
 ## Exceptions - Cookies
 
+permissions-exceptions-cookie-window =
+    .title = Taq Man Relik ta - Taq Kaxlanwey chuqa' Rutzij Ruxaq K'amaya'l
+    .style = { permissions-window.style }
+permissions-exceptions-cookie-desc = Yatikïr naya' ketal ri taq ajk'amaya'l ruxaq junelïk o majub'ey nikokisaj kaxlanwey o kitzij ruxaq.  Tatz'ib'aj ri tz'aqät rochochib'al ruxaq nawajo' nanuk'samajij k'a ri' tapitz'a' pa Tiq'at, Tiya' Q'ij chi re ri Molojri'ïl, o Tiya' Q'ij.
 
 ## Exceptions - Pop-ups
 
@@ -64,6 +68,7 @@ permissions-exceptions-popup-desc = Yatikïr naya' ketal ri taq ruxaq k'amaya'l,
 permissions-exceptions-saved-logins-window =
     .title = Taq man relik ta - Yakon kitikirib'al taq molojri'ïl
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = Man xkeyak ta kan ri kitikirib'al taq kimolojri'ïl re taq ajk'amaya'l ruxaq re'
 
 ## Exceptions - Add-ons
 
@@ -77,21 +82,37 @@ permissions-exceptions-addons-desc = Yatikïr naya' retal pan achike ruxaq k'ama
 permissions-site-notification-window =
     .title = Taq runuk'ulem - Ya'oj Q'ij richin Rutzijol
     .style = { permissions-window.style }
+permissions-site-notification-desc = Re taq ruxaq ajk'amaya'l re' xkik'utuj q'ij richin nikitäq rutzijol chawe. Yatikïr ye'ajikib'a' ri taq ruxaq ajk'amaya'l niya' q'ij chi ke richin nikitäq rutzijol chawe. Chuqa' yatikïr ye'aq'ät k'ak'a' taq k'utunïk.
+permissions-site-notification-disable-label =
+    .label = Keq'at k'ak'a' taq k'utunïk richin yetaq taq rutzijol
+permissions-site-notification-disable-desc = Re re' xtub'än chi ri taq ruxaq ajk'amaya'l man ejikib'an ta pa cholajem nikik'utuj q'ij richin yekitäq taq rutzijol. We yeq'at ri taq rutzijol nitikïr yerutz'ila' jujun taq kib'anikil ri taq ruxaq ajk'amaya'l.
 
 ## Site Permissions - Location
 
 permissions-site-location-window =
     .title = Taq runuk'ulem - Ya'oj Q'ij richin K'ojlib'äl
     .style = { permissions-window.style }
+permissions-site-location-desc = Re taq ruxaq ajk'amaya'l re' xkik'utuj q'ij richin niketamaj ri ak'ojlemal. Yatikïr ye'ajikib'a' ri taq ruxaq ajk'amaya'l niya' q'ij chi ke richin niketamaj. Chuqa' yatikïr ye'aq'ät k'ak'a' taq k'utunïk richin ye'ok pan ak'ojemal.
+permissions-site-location-disable-label =
+    .label = Keq'at k'ak'a' taq k'utunïk richin ye'ok pan ak'ojlemal
+permissions-site-location-disable-desc = Re re' xtub'än chi ri taq ruxaq ajk'amaya'l man ejikib'an ta pa cholajem nikik'utuj q'ij richin ye'ok pan ak'ojlemal. We yeq'at ri taq okem pan ak'ojlemal nitikïr yerutz'ila' jujun taq kib'anikil ri taq ruxaq ajk'amaya'l.
 
 ## Site Permissions - Camera
 
 permissions-site-camera-window =
     .title = Taq runuk'ulem - Ya'oj Q'ij richin Elesäy Wachib'äl
     .style = { permissions-window.style }
+permissions-site-camera-desc = Re taq ruxaq ajk'amaya'l re' xkik'utuj q'ij richin ye'ok pan elesäy awachib'al. Yatikïr ye'ajikib'a' ri taq ruxaq ajk'amaya'l niya' q'ij chi ke richin ye'ok pan elesäy awachib'al. Chuqa' yatikïr ye'aq'ät k'ak'a' taq k'utunïk nikik'utuj q'ij richin ye'ok pan elesäy awachib'al.
+permissions-site-camera-disable-label =
+    .label = Keq'at k'ak'a' taq k'utunïk richin ye'ok pan elesäy awachib'al
+permissions-site-camera-disable-desc = Re re' xtub'än chi ri taq ruxaq ajk'amaya'l man ejikib'an ta pa cholajem nikik'utuj q'ij richin ye'ok pan elesäy awachib'al. We yeq'at ri taq okem pan elesäy awachib'al nitikïr yerutz'ila' jujun taq kib'anikil ri taq ruxaq ajk'amaya'l.
 
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window =
     .title = Taq runuk'ulem - Ya'oj Q'ij richin Q'asäy Tzij
     .style = { permissions-window.style }
+permissions-site-microphone-desc = Re taq ruxaq ajk'amaya'l re' xkik'utuj q'ij richin ye'ok pan q'asäy atzij. Yatikïr ye'ajikib'a' ri taq ruxaq ajk'amaya'l niya' q'ij chi ke richin ye'ok pan q'asäy atzij. Chuqa' yatikïr ye'aq'ät k'ak'a' taq k'utunïk nikik'utuj q'ij richin ye'ok pan q'asäy atzij.
+permissions-site-microphone-disable-label =
+    .label = Keq'at k'ak'a' taq k'utunïk richin ye'ok pan q'asäy atzij
+permissions-site-microphone-disable-desc = Re re' xtub'än chi ri taq ruxaq ajk'amaya'l man ejikib'an ta pa cholajem nikik'utuj q'ij richin ye'ok pan elesäy awachib'al. We yeq'at ri taq okem pan elesäy awachib'al nitikïr yerutz'ila' jujun taq kib'anikil ri taq ruxaq ajk'amaya'l.
