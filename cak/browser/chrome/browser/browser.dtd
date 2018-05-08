@@ -993,6 +993,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.disableButton.accesskey "T">
 
 <!ENTITY tabHideControlled.header.message "">
+<!ENTITY tabHideControlled.keepButton.label "Ke’ewäx ri Ewan taq Ruwi’">
 
 <!ENTITY pageActionButton.tooltip "Taq rub'anoj ruxaq">
 <!ENTITY pageAction.addToUrlbar.label "Titz'aqatisäx ri Kikajtz'ik Ochochib'äl">
