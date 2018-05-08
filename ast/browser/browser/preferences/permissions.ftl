@@ -44,6 +44,10 @@ permissions-invalid-uri-label = Por favor, introduz un nome de host válidu
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = Esceiciones - Proteición de rastrexu
+    .style = { permissions-window.style }
+permissions-exceptions-tracking-protection-desc = Deshabilitasti la proteición de rastrexu nestes webs.
 
 ## Exceptions - Cookies
 
@@ -54,6 +58,9 @@ permissions-exceptions-popup-desc = Pues especificar qué sitios web puen abrir 
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = Esceiciones - Ingresos guardaos
+    .style = { permissions-window.style }
 
 ## Exceptions - Add-ons
 
