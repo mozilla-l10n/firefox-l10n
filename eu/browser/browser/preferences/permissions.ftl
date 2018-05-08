@@ -36,3 +36,35 @@ permissions-button-ok =
     .accesskey = G
 permissions-searchbox =
     .placeholder = Bilatu webgunea
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Idatzitako ostalari-izena baliogabea da
+permissions-invalid-uri-label = Idatzi baliozko zerbitzari-izena
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
