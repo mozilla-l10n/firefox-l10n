@@ -36,3 +36,37 @@ permissions-button-ok =
     .accesskey = ש
 permissions-searchbox =
     .placeholder = חיפוש אתר
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = הוכנס שם מארח לא חוקי
+permissions-invalid-uri-label = אנא הכנס שם מארח חוקי
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = באפשרותך לציין לאלו אתרים מותר לפתוח חלונות קופצים. הקלד את הכתובת המדויקת של האתר שברצונך להרשות ואז לחץ על הרשה.
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = באפשרותך לציין לאלו אתרים מותר להתקין תוספות. הקלד את הכתובת המדויקת של האתר שברצונך להרשות ואז לחץ על הרשה.
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
