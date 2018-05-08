@@ -36,3 +36,37 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = Lorg air an làrach-lìn
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Chuir thu a-steach ainm òstair mì-dhligheach
+permissions-invalid-uri-label = Cuir a-steach ainm òstair dhligheach
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = 'S urrainn dhut sònrachadh dè na làraichean-lìn as urrainn dhaibh priob-uinneagan fhosgladh. Cuir a-steach seòladh cruinn na làraich a tha thu airson cead a thoirt dha is briog air "Ceadaich" an uairsin.
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = 'S urrainn dhut sònrachadh dè na làraichean-lìn as urrainn dhaibh tuilleadan a stàladh. Cuir a-steach seòladh cruinn na làraich a tha thu airson cead a thoirt dha is briog air "Ceadaich".
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
