@@ -243,6 +243,7 @@
 
 <!ENTITY inspectContextMenu.label "Zbadaj element">
 <!ENTITY inspectContextMenu.accesskey "t">
+<!ENTITY inspectA11YContextMenu.label "Zbadaj własności dostępności">
 
 <!ENTITY fileMenu.label "Plik" >
 <!ENTITY fileMenu.accesskey "P" >
