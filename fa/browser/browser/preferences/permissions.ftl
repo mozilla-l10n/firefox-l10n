@@ -47,12 +47,16 @@ permissions-invalid-uri-label = لطفاً نام میزبان معتبری را
 permissions-exceptions-tracking-protection-window =
     .title = استثناها - محافظت در برابر ردگیری
     .style = { permissions-window.style }
+permissions-exceptions-tracking-protection-desc = شما محافظت در برابر ردگیری را در این سایت‌ها غیرفعال کرده‌اید.
 
 ## Exceptions - Cookies
 
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-window =
+    .title = سایت‌های مجاز ‐ پنجره‌های بازشو
+    .style = { permissions-window.style }
 permissions-exceptions-popup-desc = شما می‌توانید مشخص کنید که کدام وب‌گاه‌ها مجازند پنجره‌های بازشو ایجاد کنند. نشانی دقیق پایگاهی را که می‌خواهید به آن اجازه دهید وارد کنید و روی «اجازه دادن» کلیک نمایید.
 
 ## Exceptions - Saved Logins
@@ -63,16 +67,31 @@ permissions-exceptions-saved-logins-window =
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-window =
+    .title = سایت‌های مجاز ‐ نصب افزودنی‌ها
+    .style = { permissions-window.style }
 permissions-exceptions-addons-desc = شما می‌توانید مشخص کنید که کدام وب‌گاه‌ها مجازند افزودنی‌هایی نصب کنند. نشانی دقیق پایگاهی را که می‌خواهید به آن اجازه دهید وارد کنید و روی «اجازه دادن» کلیک نمایید.
 
 ## Site Permissions - Notifications
 
+permissions-site-notification-window =
+    .title = تنظیمات - مجوزهای اعلان
+    .style = { permissions-window.style }
 
 ## Site Permissions - Location
 
+permissions-site-location-window =
+    .title = تنظیمات - مجوزهای مکان
+    .style = { permissions-window.style }
 
 ## Site Permissions - Camera
 
+permissions-site-camera-window =
+    .title = تنظیمات - مجوزهای دوربین
+    .style = { permissions-window.style }
 
 ## Site Permissions - Microphone
 
+permissions-site-microphone-window =
+    .title = تنظیمات - مجوزهای میکروفون
+    .style = { permissions-window.style }
