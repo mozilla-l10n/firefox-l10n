@@ -39,6 +39,8 @@ permissions-searchbox =
 
 ## Invalid Hostname Dialog
 
+permissions-invalid-uri-title = Nhập sai tên máy chủ
+permissions-invalid-uri-label = Hãy nhập một tên máy chủ có thực
 
 ## Exceptions - Tracking Protection
 
