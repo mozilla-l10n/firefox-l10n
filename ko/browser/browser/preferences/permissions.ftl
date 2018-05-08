@@ -44,6 +44,9 @@ permissions-invalid-uri-label = 유효한 호스트명을 입력하십시오.
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = 예외 - 추적 보호
+    .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = 이 웹사이트의 추적 방지를 비활성화 하였습니다.
 
 ## Exceptions - Cookies
