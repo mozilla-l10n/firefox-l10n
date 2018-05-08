@@ -67,6 +67,7 @@ permissions-exceptions-popup-desc = તમે સ્પષ્ટ કરી શ�
 permissions-exceptions-saved-logins-window =
     .title = અપવાદો - સાચવેલા લોગિન
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = નીચેની વેબસાઇટ્સ માટેના લૉગિન્સ સંગ્રહાશે નહીં
 
 ## Exceptions - Add-ons
 
