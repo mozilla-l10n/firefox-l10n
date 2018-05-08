@@ -44,6 +44,9 @@ permissions-invalid-uri-label = Mohon masukkan nama host yang valid
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = Pengecualian - Perlindungan Pelacakan
+    .style = { permissions-window.style }
 
 ## Exceptions - Cookies
 
