@@ -51,6 +51,10 @@ permissions-exceptions-tracking-protection-desc = Þú hefur gert óvirka vörn 
 
 ## Exceptions - Cookies
 
+permissions-exceptions-cookie-window =
+    .title = Undantekningar - Smákökur og gögn vefsvæðis
+    .style = { permissions-window.style }
+permissions-exceptions-cookie-desc = Þú getur skilgreint hvaða vefsvæði hafa leyfi eða ekki til að geyma smákökur og gögn.  Sláðu inn nákvæma slóð fyrir það vefsvæði sem þú sjá um og smelltu svo á Loka, Leyfa fyrir lotu, eða leyfa.
 
 ## Exceptions - Pop-ups
 
@@ -78,21 +82,37 @@ permissions-exceptions-addons-desc = Þú getur skilgreint hvaða vefsvæði haf
 permissions-site-notification-window =
     .title = Stillingar - Leyfðar tilkynningar
     .style = { permissions-window.style }
+permissions-site-notification-desc = Eftirfarandi vefsvæði hafa beðið um að senda þér tilkynningar. Þú getur skilgreint hvaða vefsvæði hafa leyfi til að senda þér tilkynningar. Þú getur einnig lokað á nýjar beiðnir um að leyfa tilkynningar.
+permissions-site-notification-disable-label =
+    .label = Loka á nýjar beiðnir sem spyrja um hvort leyfa megi tilkynningar
+permissions-site-notification-disable-desc = Þetta kemur í veg fyrir að vefsvæði sem eru ekki hér fyrir ofan sendi beiðni um að senda tilkynningar. Ef það er lokað á tilkynningar gæti það haft áhrif á suma eiginleika vefsvæðis.
 
 ## Site Permissions - Location
 
 permissions-site-location-window =
     .title = Stillingar - Leyfðar staðsetningar
     .style = { permissions-window.style }
+permissions-site-location-desc = Eftirfarandi vefsvæði hafa beðið um að fá að aðgang að staðsetningu. Þú getur skilgreint hvaða vefsvæði hafa aðgang að staðsetningu. Þú getur einnig lokað á nýjar beiðnir um staðsetningu.
+permissions-site-location-disable-label =
+    .label = Loka á nýjar beiðnir sem spyrja um aðgang að staðsetningu
+permissions-site-location-disable-desc = Þetta kemur í veg fyrir að vefsvæði sem eru ekki hér fyrir ofan sendi beiðni um aðgang að staðsetningu. Ef það er lokað á staðsetningu gæti það haft áhrif á suma eiginleika vefsvæðis.
 
 ## Site Permissions - Camera
 
 permissions-site-camera-window =
     .title = Stillingar - Leyfi fyrir myndavél
     .style = { permissions-window.style }
+permissions-site-camera-desc = Eftirfarandi vefsvæði hafa beðið um að fá að aðgang að myndavél. Þú getur skilgreint hvaða vefsvæði hafa aðgang að myndavél. Þú getur einnig lokað á nýjar beiðnir um aðgang að myndavél.
+permissions-site-camera-disable-label =
+    .label = Loka á nýjar beiðnir sem spyrja um aðgang að myndavél
+permissions-site-camera-disable-desc = Þetta kemur í veg fyrir að vefsvæði sem eru ekki hér fyrir ofan sendi beiðni um aðgang að myndavél. Ef það er lokað á myndavél gæti það haft áhrif á suma eiginleika vefsvæðis.
 
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window =
     .title = Stillingar - Leyfi fyrir hljóðnema
     .style = { permissions-window.style }
+permissions-site-microphone-desc = Eftirfarandi vefsvæði hafa beðið um að fá að aðgang að hljóðnema. Þú getur skilgreint hvaða vefsvæði hafa aðgang að hljóðnema. Þú getur einnig lokað á nýjar beiðnir um aðgang að hljóðnema.
+permissions-site-microphone-disable-label =
+    .label = Loka á nýjar beiðnir sem spyrja um aðgang að hljóðnema
+permissions-site-microphone-disable-desc = Þetta kemur í veg fyrir að vefsvæði sem eru ekki hér fyrir ofan sendi beiðni um aðgang að hljóðnema. Ef það er lokað á hljóðnema gæti það haft áhrif á suma eiginleika vefsvæðis.
