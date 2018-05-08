@@ -47,12 +47,16 @@ permissions-invalid-uri-label = Tiiɗno naatnu innde koɗol moƴƴol
 permissions-exceptions-tracking-protection-window =
     .title = Paltooje - Ndeenka Dewindol
     .style = { permissions-window.style }
+permissions-exceptions-tracking-protection-desc = A daaƴii Ndeenka Dewindol e ɗee kelle geese.
 
 ## Exceptions - Cookies
 
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-window =
+    .title = Lowe Jamiraaɗe - Cuppitte
+    .style = { permissions-window.style }
 permissions-exceptions-popup-desc = Aɗa waawi joopaade hol lowe geese njamiraa yoo uddit kenorɗe cuppitte. Tappu ñiiɓirde laaɓtunde lowre nde njiɗ-ɗaa yamirde ndee, ndobo-ɗaa Yamir.
 
 ## Exceptions - Saved Logins
@@ -60,19 +64,35 @@ permissions-exceptions-popup-desc = Aɗa waawi joopaade hol lowe geese njamiraa 
 permissions-exceptions-saved-logins-window =
     .title = Paltooje - Ceŋorɗe Danndaaɗi
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = Baccooje e ɗeeɗoo lowe ndanndoytaake
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-window =
+    .title = Lowe Jamiraaɗe - Aafgol ɓeyditte
+    .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Aɗa waawi joopaade hol lowe geese njamiraa yoo aaf ɓeyditte. Tappu ñiiɓirde laaɓtunde lowre nde njiɗ-ɗaa yamirde ndee, ndobo-ɗaa Yamir.
 
 ## Site Permissions - Notifications
 
+permissions-site-notification-window =
+    .title = Teelte - Jamirooje Tintine
+    .style = { permissions-window.style }
 
 ## Site Permissions - Location
 
+permissions-site-location-window =
+    .title = Teelte - Jamirooje Nokkuure
+    .style = { permissions-window.style }
 
 ## Site Permissions - Camera
 
+permissions-site-camera-window =
+    .title = Teelte - Jamirooje Kameraa
+    .style = { permissions-window.style }
 
 ## Site Permissions - Microphone
 
+permissions-site-microphone-window =
+    .title = Teelte - Jamirooje Mikkoroo
+    .style = { permissions-window.style }
