@@ -207,6 +207,7 @@
 <!ENTITY pref_category_advanced_summary3 "ჩანართების აღდგენა, მონაცემების დამზოგი, შემმუშავებლის ხელსაწყოები">
 <!ENTITY pref_category_notifications "ცნობები">
 <!ENTITY pref_category_notifications_summary "ახალი შესაძლებლობები, ვებსაიტის განახლებები">
+<!ENTITY pref_category_notifications_summary2 "ახალი შესაძლებლობები, მითითებები">
 <!ENTITY pref_developer_remotedebugging_usb "დისტანციური გამართვა USB-ით">
 <!ENTITY pref_developer_remotedebugging_wifi "დისტანციური გამართვა Wi-Fi-ით">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi გამართვისთვის საჭიროა დაყენებული იყოს QR კოდის წამკითხავი.">
