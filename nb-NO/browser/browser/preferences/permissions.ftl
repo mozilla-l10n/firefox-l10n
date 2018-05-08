@@ -39,9 +39,14 @@ permissions-searchbox =
 
 ## Invalid Hostname Dialog
 
+permissions-invalid-uri-title = Ugyldig servernavn skrevet inn
+permissions-invalid-uri-label = Skriv inn et gyldig servernavn
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = Unntak - sporingsbeskyttelse
+    .style = { permissions-window.style }
 
 ## Exceptions - Cookies
 
