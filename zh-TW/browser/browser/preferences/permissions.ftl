@@ -44,6 +44,9 @@ permissions-invalid-uri-label = 請輸入正確的主機名稱
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = 追蹤保護例外
+    .style = { permissions-window.style }
 
 ## Exceptions - Cookies
 
