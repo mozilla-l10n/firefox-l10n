@@ -44,6 +44,9 @@ permissions-invalid-uri-label = Introduzca un nombre de servidor válido
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = Excepciones - Protección de rastreo
+    .style = { permissions-window.style }
 
 ## Exceptions - Cookies
 
