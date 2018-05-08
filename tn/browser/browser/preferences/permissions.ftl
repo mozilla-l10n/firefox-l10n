@@ -23,6 +23,7 @@ permissions-invalid-uri-label = Tsweetswee tsenya leina la boamaaruri la khomphi
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-desc = O ka totobatsa gore ke di webosaete dife tse di letletlelelwang go bula di window tse di tlhagelelang.. Tlanya aterese ya saete e o batlang go e letlelela mme o tobetse Letlelela.
 
 ## Exceptions - Saved Logins
 
