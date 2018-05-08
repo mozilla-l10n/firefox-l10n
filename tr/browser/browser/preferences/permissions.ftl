@@ -68,6 +68,7 @@ permissions-exceptions-popup-desc = Hangi sitelerin açılır pencere açabilece
 permissions-exceptions-saved-logins-window =
     .title = İstisnalar - Kayıtlı Hesaplar
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = Aşağıdaki sitelere giriş bilgileri kaydedilmeyecek
 
 ## Exceptions - Add-ons
 
@@ -88,6 +89,9 @@ permissions-site-notification-disable-desc = Yukarıdaki listede bulunmayan hiç
 
 ## Site Permissions - Location
 
+permissions-site-location-window =
+    .title = Ayarlar - Konum İzinleri
+    .style = { permissions-window.style }
 permissions-site-location-desc = Aşağıdaki web siteleri konumunuza erişme isteğinde bulundu. Hangi web sitelerinin konumunuzu öğrenebileceğini seçebilirsiniz. Ayrıca konumunuzu öğrenme isteklerini tamamen engelleyebilirsiniz.
 permissions-site-location-disable-label =
     .label = Konumumu öğrenme isteklerini sormadan engelle
@@ -95,6 +99,9 @@ permissions-site-location-disable-desc = Yukarıdaki listede bulunmayan hiçbir 
 
 ## Site Permissions - Camera
 
+permissions-site-camera-window =
+    .title = Ayarlar - Kamera İzinleri
+    .style = { permissions-window.style }
 permissions-site-camera-desc = Aşağıdaki web siteleri kameranıza erişme isteğinde bulundu. Hangi web sitelerinin kameranıza erişebileceğini seçebilirsiniz. Ayrıca kameranıza erişme isteklerini tamamen engelleyebilirsiniz.
 permissions-site-camera-disable-label =
     .label = Kamerama erişme isteklerini sormadan engelle
@@ -102,6 +109,9 @@ permissions-site-camera-disable-desc = Yukarıdaki listede bulunmayan hiçbir we
 
 ## Site Permissions - Microphone
 
+permissions-site-microphone-window =
+    .title = Ayarlar - Mikrofon İzinleri
+    .style = { permissions-window.style }
 permissions-site-microphone-desc = Aşağıdaki web siteleri mikrofonunuza erişme isteğinde bulundu. Hangi web sitelerinin mikrofonunuza erişebileceğini seçebilirsiniz. Ayrıca mikrofonunuza erişme isteklerini tamamen engelleyebilirsiniz.
 permissions-site-microphone-disable-label =
     .label = Mikrofonuma erişme isteklerini sormadan engelle
