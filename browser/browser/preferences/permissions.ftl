@@ -36,3 +36,37 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = വെബ്സൈറ്റ് തിരയുക
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = നിലവില്‍ ഇല്ലാത്ത ഒരു Hostname എന്റര്‍ ചെയ്തിരിക്കുന്നു{ " " }
+permissions-invalid-uri-label = ദയവായി വാലിഡായ ഒരു ഹോസ്റ്റ്‌നേയിം എന്റര്‍ ചെയ്യുക{ " " }
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = ഏതെലാം വെബ്‌ സിറ്റുകള്‍ക്ക്‌ പോപ്പപ്പ്‌ ജാലകം തുറക്കുവാന്‍ അനുവാദമുണ്ട്‌ എന്ന്‌ നിങ്ങള്‍ക്ക്‌ വ്യക്തമാക്കാം.അനുവാദിക്കേണ്ട സൈറ്റ്ന്റെ ശരിയായ വിലാസം ടൈപ്പ്‌ ചെയ്ത ശേഷം അനുവദിക്കുക ബട്ടണ്‍ ക്ലിക്ക്‌ ചെയ്യുക.
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = ഏതൊക്കെ വെബ്‌ സൈറ്റുകള്‍ ആഡ്‌-ഓണുകള്‍ ഇന്‍സ്റ്റാള്‍ ചെയ്യണം എന്ന് താങ്കള്‍ക്ക്‌ നിഷ്കര്‍ഷിക്കാം. അനുവദിക്കെണ്ട സൈറ്റിന്റെ ശരിയായ വിലാസം ടൈപ്പ്‌ ചെയ്‌ത ശേഷം, അനുവദിക്കുക ബട്ടണ്‍ ക്ലിക്ക്‌ ചെയ്യുക
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
