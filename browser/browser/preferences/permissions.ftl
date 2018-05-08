@@ -40,30 +40,79 @@ permissions-searchbox =
 ## Invalid Hostname Dialog
 
 permissions-invalid-uri-title = ชื่อโฮสต์ที่ป้อนไม่ถูกต้อง
+permissions-invalid-uri-label = โปรดป้อนชื่อโฮสต์ที่ถูกต้อง
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = ข้อยกเว้น - การป้องกันการติดตาม
+    .style = { permissions-window.style }
+permissions-exceptions-tracking-protection-desc = คุณได้ปิดใช้งานการป้องกันการติดตามในเว็บไซต์เหล่านี้
 
 ## Exceptions - Cookies
 
+permissions-exceptions-cookie-window =
+    .title = ข้อยกเว้น - คุกกี้และข้อมูลไซต์
+    .style = { permissions-window.style }
+permissions-exceptions-cookie-desc = คุณสามารถระบุเว็บไซต์ที่อนุญาตหรือไม่อนุญาตให้ใช้คุกกี้และข้อมูลไซต์เสมอ  พิมพ์ที่อยู่ของไซต์ที่คุณต้องการจัดการแล้วคลิก ปิดกั้น, อนุญาตในวาระ หรืออนุญาต
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-window =
+    .title = เว็บไซต์ที่อนุญาต - ป๊อปอัป
+    .style = { permissions-window.style }
+permissions-exceptions-popup-desc = คุณสามารถระบุเว็บไซต์ที่อนุญาตให้เปิดหน้าต่างป๊อปอัป พิมพ์ที่อยู่ของไซต์ที่คุณต้องการอนุญาตแล้วคลิก อนุญาต
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = ข้อยกเว้น - การเข้าสู่ระบบที่บันทึกไว้
+    .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = การเข้าสู่ระบบสำหรับเว็บไซต์ดังต่อไปนี้จะไม่ถูกบันทึก
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-window =
+    .title = เว็บไซต์ที่อนุญาต - การติดตั้งส่วนเสริม
+    .style = { permissions-window.style }
+permissions-exceptions-addons-desc = คุณสามารถระบุเว็บไซต์ที่อนุญาตให้ติดตั้งส่วนเสริม พิมพ์ที่อยู่ของไซต์ที่คุณต้องการอนุญาตแล้วคลิก อนุญาต
 
 ## Site Permissions - Notifications
 
+permissions-site-notification-window =
+    .title = การตั้งค่า - การอนุญาตการแจ้งเตือน
+    .style = { permissions-window.style }
+permissions-site-notification-desc = เว็บไซต์ดังต่อไปนี้ได้ขอส่งการแจ้งเตือนให้คุณ คุณสามารถระบุเว็บไซต์ที่อนุญาตให้ส่งการแจ้งเตือนให้คุณ คุณยังสามารถปิดกั้นคำขอใหม่ที่ขออนุญาตการแจ้งเตือน
+permissions-site-notification-disable-label =
+    .label = ปิดกั้นคำขอใหม่ที่ขออนุญาตการแจ้งเตือน
+permissions-site-notification-disable-desc = นี่จะป้องกันเว็บไซต์ใด ๆ ที่ไม่ได้ระบุไว้ด้านบนจากการขออนุญาตเพื่อส่งการแจ้งเตือน การปิดกั้นการแจ้งเตือนอาจทำให้คุณลักษณะบางอย่างของเว็บไซต์ไม่สมบูรณ์
 
 ## Site Permissions - Location
 
+permissions-site-location-window =
+    .title = การตั้งค่า - การอนุญาตตำแหน่งที่ตั้ง
+    .style = { permissions-window.style }
+permissions-site-location-desc = เว็บไซต์ดังต่อไปนี้ได้ขอเข้าถึงตำแหน่งที่ตั้งของคุณ คุณสามารถระบุเว็บไซต์ที่อนุญาตให้เข้าถึงตำแหน่งที่ตั้งของคุณ คุณยังสามารถปิดกั้นคำขอใหม่ที่ขอเข้าถึงตำแหน่งที่ตั้งของคุณ
+permissions-site-location-disable-label =
+    .label = ปิดกั้นคำขอใหม่ที่ขอเข้าถึงตำแหน่งที่ตั้งของคุณ
+permissions-site-location-disable-desc = นี่จะป้องกันเว็บไซต์ใด ๆ ที่ไม่ได้ระบุไว้ด้านบนจากการขออนุญาตเพื่อเข้าถึงตำแหน่งที่ตั้งของคุณ การปิดกั้นการเข้าถึงตำแหน่งที่ตั้งของคุณอาจทำให้คุณลักษณะบางอย่างของเว็บไซต์ไม่สมบูรณ์
 
 ## Site Permissions - Camera
 
+permissions-site-camera-window =
+    .title = การตั้งค่า - การอนุญาตกล้อง
+    .style = { permissions-window.style }
+permissions-site-camera-desc = เว็บไซต์ดังต่อไปนี้ได้ขอเข้าถึงกล้องของคุณ คุณสามารถระบุเว็บไซต์ที่อนุญาตให้เข้าถึงกล้องของคุณ คุณยังสามารถปิดกั้นคำขอใหม่ที่ขอเข้าถึงกล้องของคุณ
+permissions-site-camera-disable-label =
+    .label = ปิดกั้นคำขอใหม่ที่ขอเข้าถึงกล้องของคุณ
+permissions-site-camera-disable-desc = นี่จะป้องกันเว็บไซต์ใด ๆ ที่ไม่ได้ระบุไว้ด้านบนจากการขออนุญาตเพื่อเข้าถึงกล้องของคุณ การปิดกั้นการเข้าถึงกล้องของคุณอาจทำให้คุณลักษณะบางอย่างของเว็บไซต์ไม่สมบูรณ์
 
 ## Site Permissions - Microphone
 
+permissions-site-microphone-window =
+    .title = การตั้งค่า - การอนุญาตไมโครโฟน
+    .style = { permissions-window.style }
+permissions-site-microphone-desc = เว็บไซต์ดังต่อไปนี้ได้ขอเข้าถึงไมโครโฟนของคุณ คุณสามารถระบุเว็บไซต์ที่อนุญาตให้เข้าถึงไมโครโฟนของคุณ คุณยังสามารถปิดกั้นคำขอใหม่ที่ขอเข้าถึงไมโครโฟนของคุณ
+permissions-site-microphone-disable-label =
+    .label = ปิดกั้นคำขอใหม่ที่ขอเข้าถึงไมโครโฟนของคุณ
+permissions-site-microphone-disable-desc = นี่จะป้องกันเว็บไซต์ใด ๆ ที่ไม่ได้ระบุไว้ด้านบนจากการขออนุญาตเพื่อเข้าถึงไมโครโฟนของคุณ การปิดกั้นการเข้าถึงไมโครโฟนของคุณอาจทำให้คุณลักษณะบางอย่างของเว็บไซต์ไม่สมบูรณ์
