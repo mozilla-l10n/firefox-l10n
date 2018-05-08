@@ -39,6 +39,8 @@ permissions-searchbox =
 
 ## Invalid Hostname Dialog
 
+permissions-invalid-uri-title = ప్రామాణికం కాని హోస్టునామము ప్రవేశపెట్టబడింది
+permissions-invalid-uri-label = దయచేసి ప్రామాణికమైన హోస్టు నామము ప్రవేశపెట్టండి
 
 ## Exceptions - Tracking Protection
 
@@ -57,6 +59,7 @@ permissions-exceptions-cookie-window =
 permissions-exceptions-popup-window =
     .title = అనుమతించిన వెబ్‌సైట్లు - పాప్అప్‌లు
     .style = { permissions-window.style }
+permissions-exceptions-popup-desc = పాప్‌అప్ విండోలను తెరుచుటకు ఏ వెబ్ సైటులను అనుమతించాలో మీరు వివరించవచ్చు. మీరు అనుమతించాలనుకున్న వెబ్ సైటు ఖచ్చితమైన చిరునామా తెలిపి అప్పుడు అనుమతించుని నొక్కండి.
 
 ## Exceptions - Saved Logins
 
