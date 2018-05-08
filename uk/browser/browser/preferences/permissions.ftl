@@ -36,3 +36,37 @@ permissions-button-ok =
     .accesskey = З
 permissions-searchbox =
     .placeholder = Пошук по сайту
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Введено неправильне мережеве ім’я сервера
+permissions-invalid-uri-label = Введіть правильне мережеве ім’я сервера.
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = Ви можете вказати, яким сайтам дозволено відкривати виринаючі вікна. Введіть точну адресу для кожного сайту і натисніть кнопку Дозволити.
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = Ви можете вказати, яким сайтам дозволено встановлювати додатки. Введіть точну адресу кожного сайту і натисніть кнопку Дозволити.
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
