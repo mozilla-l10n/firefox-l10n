@@ -36,3 +36,37 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = Išči po spletni strani
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Neveljaven naslov
+permissions-invalid-uri-label = Prosim, vnesite veljaven naslov.
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = Določite, katere strani smejo odpirati pojavna okna. Vnesite točen naslov strani, nato pa kliknite gumb Dovoli.
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = Določite, katere strani smejo nameščati dodatke. Vnesite točen naslov strani, nato pa kliknite gumb Dovoli.
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
