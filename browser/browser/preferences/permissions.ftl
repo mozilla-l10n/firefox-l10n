@@ -36,3 +36,35 @@ permissions-button-ok =
     .accesskey = U
 permissions-searchbox =
     .placeholder = Hľadať
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Zadaný neplatný názov servera
+permissions-invalid-uri-label = Zadajte platný názov servera
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
