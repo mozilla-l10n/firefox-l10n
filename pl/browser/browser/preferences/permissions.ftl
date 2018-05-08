@@ -82,21 +82,37 @@ permissions-exceptions-addons-desc = Określ, które witryny mogą instalować d
 permissions-site-notification-window =
     .title = Ustawienia – Powiadomienia
     .style = { permissions-window.style }
+permissions-site-notification-desc = Następujące strony prosiły o możliwość wyświetlania powiadomień. Określ, które witryny mogą je wyświetlać. Można także zablokować nowe prośby.
+permissions-site-notification-disable-label =
+    .label = Blokowanie nowych próśb o możliwość wyświetlania powiadomień.
+permissions-site-notification-disable-desc = Uniemożliwi to witrynom spoza listy powyżej proszenie o możliwość wysyłania powiadomień. Zablokowanie powiadomień może spowodować, że niektóre funkcje witryny nie będą działać.
 
 ## Site Permissions - Location
 
 permissions-site-location-window =
     .title = Ustawienia – Informacje o położeniu
     .style = { permissions-window.style }
+permissions-site-location-desc = Następujące strony prosiły o możliwość uzyskiwania informacji o położeniu. Określ, które witryny mogą je uzyskiwać. Można także zablokować nowe prośby.
+permissions-site-location-disable-label =
+    .label = Blokowanie nowych próśb o możliwość uzyskiwania informacji o położeniu
+permissions-site-location-disable-desc = Uniemożliwi to witrynom spoza listy powyżej proszenie o możliwość uzyskiwania informacji o położeniu. Zablokowanie uzyskiwania informacji o położeniu może spowodować, że niektóre funkcje witryny nie będą działać.
 
 ## Site Permissions - Camera
 
 permissions-site-camera-window =
     .title = Ustawienia – Kamera
     .style = { permissions-window.style }
+permissions-site-camera-desc = Następujące strony prosiły o dostęp do kamery. Określ, które witryny mogą uzyskiwać do niej dostęp. Można także zablokować nowe prośby.
+permissions-site-camera-disable-label =
+    .label = Blokowanie nowych próśb o dostęp do kamery
+permissions-site-camera-disable-desc = Uniemożliwi to witrynom spoza listy powyżej proszenie o dostęp do kamery. Zablokowanie dostępu do kamery może spowodować, że niektóre funkcje witryny nie będą działać.
 
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window =
     .title = Ustawienia – Mikrofon
     .style = { permissions-window.style }
+permissions-site-microphone-desc = Następujące strony prosiły o dostęp do mikrofonu. Określ, które witryny mogą uzyskiwać do niego dostęp. Można także zablokować nowe prośby.
+permissions-site-microphone-disable-label =
+    .label = Blokowanie nowych próśb o dostęp do mikrofonu
+permissions-site-microphone-disable-desc = Uniemożliwi to witrynom spoza listy powyżej proszenie o dostęp do mikrofonu. Zablokowanie dostępu do mikrofonu może spowodować, że niektóre funkcje witryny nie będą działać.
