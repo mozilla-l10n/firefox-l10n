@@ -47,12 +47,16 @@ permissions-invalid-uri-label = Digite um nome de host válido
 permissions-exceptions-tracking-protection-window =
     .title = Exceções - Proteção contra rastreamento
     .style = { permissions-window.style }
+permissions-exceptions-tracking-protection-desc = Você desabilitou a proteção contra rastreamento nestes sites.
 
 ## Exceptions - Cookies
 
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-window =
+    .title = Sites permitidos - Pop-ups
+    .style = { permissions-window.style }
 permissions-exceptions-popup-desc = Você pode especificar quais sites têm permissões para abrir janelas pop-up. Digite o endereço exato do site que deseja permitir e clique em Permitir.
 
 ## Exceptions - Saved Logins
@@ -64,6 +68,9 @@ permissions-exceptions-saved-logins-desc = As contas de acesso para os seguintes
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-window =
+    .title = Sites permitidos - Instalação de extensões
+    .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Você pode especificar quais sites têm permissões para instalar extensões. Digite o endereço exato do site que deseja permitir e clique em Permitir.
 
 ## Site Permissions - Notifications
