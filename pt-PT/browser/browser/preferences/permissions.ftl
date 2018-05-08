@@ -39,6 +39,8 @@ permissions-searchbox =
 
 ## Invalid Hostname Dialog
 
+permissions-invalid-uri-title = O endereço que introduziu não é válido
+permissions-invalid-uri-label = Por favor, introduza um endereço válido
 
 ## Exceptions - Tracking Protection
 
