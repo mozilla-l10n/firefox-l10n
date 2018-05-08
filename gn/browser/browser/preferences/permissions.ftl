@@ -36,3 +36,53 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = Ñandutirenda Jeheka
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Mohendaharuvicha kundaharape ndoikóiva
+permissions-invalid-uri-label = Emoinge peteĩ mohendahavusu oikóva réra
+
+## Exceptions - Tracking Protection
+
+permissions-exceptions-tracking-protection-window =
+    .title = Oĩ'ỹva - Ñemo'ã Tapykuehógui
+    .style = { permissions-window.style }
+permissions-exceptions-tracking-protection-desc = Embojuruja tapykueho ñemo'ã ko'ã ko'ã ñanduti rendápe.
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-window =
+    .title = Tenda ñemoneĩmbyre - Ovetã apysẽ
+    .style = { permissions-window.style }
+permissions-exceptions-popup-desc = Ikatu rehechauka mba'e ñanduti renda guivépa ikatu reike ovetã apysẽme. Ehai kundaharape ha'etéva tenda remoneĩséva ha ejopy Ñemoneĩ.
+
+## Exceptions - Saved Logins
+
+permissions-exceptions-saved-logins-window =
+    .title = Oĩ'ỹva - Emoñepyrũ tembiapo ñongatupyre
+    .style = { permissions-window.style }
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-window =
+    .title = Tenda ñemoneĩmbyre - Moimbaha ñemohenda
+    .style = { permissions-window.style }
+permissions-exceptions-addons-desc = Ikatu rehechauka mba'e ñanduti renda guivépa ikatu remohenda moimbaha. Ehai kundaharape ha'etéva tenda remoneĩséva ha ejopy Moneĩ.
+
+## Site Permissions - Notifications
+
+permissions-site-notification-window =
+    .title = Ñemboheko - Momarandu ñemoneĩ
+    .style = { permissions-window.style }
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
