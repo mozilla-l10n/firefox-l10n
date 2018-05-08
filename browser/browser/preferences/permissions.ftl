@@ -44,6 +44,9 @@ permissions-invalid-uri-label = Унесите исправно име хост�
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = Изузеци - заштита од праћења
+    .style = { permissions-window.style }
 
 ## Exceptions - Cookies
 
