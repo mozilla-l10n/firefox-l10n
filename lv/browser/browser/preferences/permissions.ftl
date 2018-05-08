@@ -39,6 +39,7 @@ permissions-searchbox =
 
 ## Invalid Hostname Dialog
 
+permissions-invalid-uri-title = Ievadīts nederīgs resursdatora nosaukums
 permissions-invalid-uri-label = Lūdzu, ievadiet derīgu resursdatora nosaukumu
 
 ## Exceptions - Tracking Protection
@@ -49,6 +50,7 @@ permissions-invalid-uri-label = Lūdzu, ievadiet derīgu resursdatora nosaukumu
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-desc = Jūs varat norādīt, kurām lapām ir atļauts atvērt jaunos logus. Ierakstiet precīzu lapas adresi, kurai vēlaties atļaut atvērt jaunos logus, un nospiediet Atļaut.
 
 ## Exceptions - Saved Logins
 
