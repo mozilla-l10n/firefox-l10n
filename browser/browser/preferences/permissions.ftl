@@ -36,3 +36,35 @@ permissions-button-ok =
     .accesskey = L
 permissions-searchbox =
     .placeholder = Tìm kiếm trang web
+
+## Invalid Hostname Dialog
+
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = Bạn có thể chỉ định những trang được phép bật cửa sổ popup. Gõ chính xác địa chỉ trang bạn muốn cho phép và sau đó nhấp Cho phép.
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = Bạn có thể chỉ định trang web nào được phép cài tiện ích. Gõ chính xác địa chỉ trang bạn muốn cho phép và sau đó nhấp Cho phép.
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
