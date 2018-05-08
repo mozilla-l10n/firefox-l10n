@@ -36,3 +36,37 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = வலைத்தளத்தைத் தேடவும்
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = தவறான புரவலன் பெயர் உள்ளிடப்பட்டுள்ளது
+permissions-invalid-uri-label = ஒரு சரியான புரவலன் பெயரை உள்ளிடு
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = எந்த இணையதளங்கள் பாப்பப் சாளரங்களை திறக்க அனுமதிக்கும் என்பதைக் குறிப்பிடலாம். மேலாண்மை செய்ய வேண்டிய இணைய தளத்தின் சரியான முகவரியை தட்டச்சு செய்து பின் அனுமதி என்பதை சொடுக்கவும்.
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = எந்த இணையதளங்கள் கூடுதல் இணைப்புகளை நிறுவ அனுமதிக்கும் என்பதைக் குறிப்பிடலாம். மேலாண்மை செய்ய வேண்டிய இணைய தளத்தின் சரியான முகவரியை தட்டச்சு செய்து பின் அனுமதி என்பதை சொடுக்கவும்.
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
