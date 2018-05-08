@@ -39,6 +39,7 @@ permissions-searchbox =
 
 ## Invalid Hostname Dialog
 
+permissions-invalid-uri-title = Il nome inserito per il server non è valido
 permissions-invalid-uri-label = Inserire un nome valido per il server
 
 ## Exceptions - Tracking Protection
