@@ -36,3 +36,37 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = Sök webbplats
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Ogiltigt värdnamn
+permissions-invalid-uri-label = Skriv in ett giltigt värdnamn
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = Du kan ange vilka webbplatser som får öppna popup-fönster. Skriv in adressen till platsen du vill godkänna och klicka på Tillåt.
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = Du kan ange vilka webbplatser som får installera tillägg. Skriv in adressen till platsen du vill godkänna och klicka på Tillåt.
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
