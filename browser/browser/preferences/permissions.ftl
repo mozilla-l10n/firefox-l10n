@@ -36,3 +36,36 @@ permissions-button-ok =
     .accesskey = T
 permissions-searchbox =
     .placeholder = Etsi sivustoa
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Virheellinen palvelinnimi annettu
+permissions-invalid-uri-label = Kirjoita kelvollinen palvelinnimi
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = Lisäosia voidaan asentaa määrätyiltä sivustoilta. Kirjoita sivuston osoite ja napsauta Salli.
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
