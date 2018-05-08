@@ -81,29 +81,37 @@ permissions-exceptions-addons-desc = কোন ওয়েবসাইটগুল
 permissions-site-notification-window =
     .title = সেটিং - বিজ্ঞপ্তির অনুমতি
     .style = { permissions-window.style }
+permissions-site-notification-desc = নিম্নলিখিত ওয়েবসাইট সমূহ বিভিন্ন সময়ে আপনাকে নোটিফিকেশন পাঠাবে, সেজন্য অনুরোধ করেছে। কোন সাইট আপনাকে নোটিফিকেশন পাঠাতে পারবে বা পারবে না, সেটি আপনি নির্ধারণ করবেন। এছাড়া, নতুন সাইট আপনাকে একই অনুরোধ করতে পারবে কিনা, সেটিও ব্লক করতে পারবেন।
 permissions-site-notification-disable-label =
     .label = নোটিফিকেশন অনুমোদনের নতুন অনুরোধ ব্লক করুন
+permissions-site-notification-disable-desc = এতে করে, উপরের তালিকায় না থাকা ওয়েবসাইট, আপনাকে নোটিফিকেশন পাঠানোর অনুরোধ করতে পারবে না। নোটিফিকেশন ব্লক করলে ওয়েবসাইটের কিছু বৈশিষ্ট্যে ব্যাঘাত ঘটতে পারে।
 
 ## Site Permissions - Location
 
 permissions-site-location-window =
     .title = সেটিং - অবস্থান অনুমতি
     .style = { permissions-window.style }
+permissions-site-location-desc = নিচের ওয়েবসাইট সমূহ আপনার অবস্থানের জানতে অনুরোধ করেছে। আপনি নির্দিষ্ট করে দিতে পারেন যে, কোন ওয়েবসাইট আপনার অবস্থান জানার অনুমোদন পাবে। নতুন কোন ওয়েবসাইটের এরকম অনুরোধ সমূহ আপনি ব্লক করেও দিতে পারেন।
 permissions-site-location-disable-label =
     .label = আপনার অবস্থানের তথ্য জানার নতুন অনুরোধ ব্লক করুন
+permissions-site-location-disable-desc = এতে করে, উপরের তালিকায় না থাকা ওয়েবসাইট, আপনার অবস্থান জানতে চেয়ে অনুরোধ করতে পারবে না। যদিও অবস্থান জানতে না দিলে ওয়েবসাইটের কিছু বৈশিষ্ট্যে ব্যাঘাত ঘটতে পারে।
 
 ## Site Permissions - Camera
 
 permissions-site-camera-window =
     .title = সেটিং - ক্যামেরা ব্যবহারের অনুমতি
     .style = { permissions-window.style }
+permissions-site-camera-desc = নিচের ওয়েবসাইট সমূহ আপনার ক্যামেরা ব্যবহার করার অনুরোধ জানিয়েছে। কোন ওয়েবসাইট আপনার ক্যামেরা ব্যবহার করতে পারবে, তা আপনি আগেই বলে দিতে পারেন। নতুন কোন ওয়েবসাইট ক্যামেরা ব্যবহারের অনুরোধ যেনো পাঠাতে না পারে, সেটিও আপনি ব্লক করে দিতে পারেন।
 permissions-site-camera-disable-label =
     .label = আপনার ক্যামেরা ব্যবহারের নতুন অনুরোধ ব্লক করুন
+permissions-site-camera-disable-desc = এতে করে, উপরের তালিকায় না থাকা ওয়েবসাইট, আপনার ক্যামেরা ব্যবহার করার অনুরোধ করতে পারবে না। তবে ক্যামেরা ব্যবহার করতে না দিলে ওয়েবসাইটের কিছু বৈশিষ্ট্যে ব্যাঘাত ঘটতে পারে।
 
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window =
     .title = সেটিং - মাইক্রোফোন অনুমোদন
     .style = { permissions-window.style }
+permissions-site-microphone-desc = নিচের ওয়েবসাইট সমূহ আপনার মাইক্রোফোন ব্যবহার করার অনুরোধ জানিয়েছে। কোন ওয়েবসাইট আপনার মাইক্রোফোন ব্যবহার করতে পারবে, তা আপনি আগেই বলে দিতে পারেন। নতুন কোন ওয়েবসাইট মাইক্রোফোন ব্যবহারের অনুরোধ যেনো পাঠাতে না পারে, সেটিও আপনি ব্লক করে দিতে পারেন।
 permissions-site-microphone-disable-label =
     .label = আপনার মাইক্রোফোন ব্যবহারের নতুন অনুরোধ ব্লক করুন
+permissions-site-microphone-disable-desc = এতে করে, উপরের তালিকায় না থাকা ওয়েবসাইট, আপনার মাইক্রোফোন ব্যবহার করতে চেয়ে অনুরোধ করতে পারবে না। তবে মাইক্রোফোন ব্যবহার করতে না দিলে ওয়েবসাইটের কিছু বৈশিষ্ট্যে ব্যাঘাত ঘটতে পারে।
