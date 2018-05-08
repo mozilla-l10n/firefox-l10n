@@ -39,6 +39,8 @@ permissions-searchbox =
 
 ## Invalid Hostname Dialog
 
+permissions-invalid-uri-title = Īvadeits nadereigs resursdatora nūsaukums
+permissions-invalid-uri-label = Lyudzu, īvodit dereigu resursdatora nūsaukumu
 
 ## Exceptions - Tracking Protection
 
@@ -51,12 +53,17 @@ permissions-exceptions-tracking-protection-window =
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-desc = Jius varot nūruodeit, kurom lopom ir atļauts attaiseit jaunuos lūgus. Īrkostit precizu lopys adresu, kurai vālotīs atļaut attaiseit jaunuos lūgus, i nūspidit Atļaut.
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = Izjāmumi - Saglobuotuos paroles
+    .style = { permissions-window.style }
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-desc = Jius varot nūruodeit, nu kurom lopom ir atļauts instaleit papyldynuojums. Īrkostit precizu lopys adresu, nu kurys vālotīs atļaut papyldynuojumu instaliešonu, i nūspidit Atļaut.
 
 ## Site Permissions - Notifications
 
