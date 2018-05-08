@@ -44,6 +44,9 @@ permissions-invalid-uri-label = Παρακαλώ εισάγετε ένα έγκ�
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = Εξαιρέσεις - Προστασία από παρακολούθηση
+    .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = Έχετε απενεργοποιήσει την Προστασία Δεδομένων Περιήγησης σε αυτές τις ιστοσελίδες.
 
 ## Exceptions - Cookies
@@ -58,6 +61,10 @@ permissions-exceptions-popup-desc = Μπορείτε να καθορίσετε �
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = Εξαιρέσεις - Αποθηκευμένες συνδέσεις
+    .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = Οι συνδέσεις για τις ακόλουθες ιστοσελίδες δεν θα αποθηκεύονται
 
 ## Exceptions - Add-ons
 
@@ -71,9 +78,18 @@ permissions-exceptions-addons-desc = Μπορείτε να καθορίσετε 
 
 ## Site Permissions - Location
 
+permissions-site-location-window =
+    .title = Ρυθμίσεις - Άδειες τοποθεσίας
+    .style = { permissions-window.style }
 
 ## Site Permissions - Camera
 
+permissions-site-camera-window =
+    .title = Ρυθμίσεις - Άδειες κάμερας
+    .style = { permissions-window.style }
 
 ## Site Permissions - Microphone
 
+permissions-site-microphone-window =
+    .title = Ρυθμίσεις - Άδειες μικροφώνου
+    .style = { permissions-window.style }
