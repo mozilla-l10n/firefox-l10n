@@ -44,6 +44,9 @@ permissions-invalid-uri-label = Lütfən etibarlı bir server adı daxil edin
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = İstisnalar - İzlənmə Qoruması
+    .style = { permissions-window.style }
 
 ## Exceptions - Cookies
 
@@ -54,6 +57,9 @@ permissions-exceptions-popup-desc = Hansı saytların avtomatik açılan pəncə
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = İstisnalar - Saxlanılmış Hesablar
+    .style = { permissions-window.style }
 
 ## Exceptions - Add-ons
 
