@@ -36,3 +36,35 @@ permissions-button-ok =
     .accesskey = ບ
 permissions-searchbox =
     .placeholder = ຊອກຫາເວັບໄຊທ໌
+
+## Invalid Hostname Dialog
+
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = ທ່ານສາມາດກຳນົດເວັບໃຊ້ໃດຫນຶ່ງຂອງທ່ານທີ່ໃດ້ເປີດອະນຸຍາດໃຫ້ມີການເປີດຫນ້າຕ່າງ pop-up. ໃຫ້ຂຽນທີ່ຢູ່ແທ້ຈິງຂອງເວັບໃຊ້ທີ່ທ່ານເປີດອະນຸຍາດ ແລະ ຫລັງຈາກນັ້ນແມ່ນໃຫ້ຄິກໃສ່ອະນຸຍາດ (Allow).
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = ທ່ານສາມາດກຳນົດເວັບໃຊ້ໃດຫນຶ່ງຂອງທ່ານທີ່ໃດ້ເປີດອະນຸຍາດໃຫ້ມີການຕິດຕັ້ງໂປຼແກຣມເສີມ. ໃຫ້ຂຽນທີ່ຢູ່ແທ້ຈິງຂອງເວັບໃຊ້ທີ່ທ່ານເປີດອະນຸຍາດ ແລະ ຫລັງຈາກນັ້ນແມ່ນໃຫ້ຄິກໃສ່ອະນຸຍາດ (Allow).
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
