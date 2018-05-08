@@ -207,6 +207,7 @@
 <!ENTITY pref_category_advanced_summary3 "Restaurar separadores, poupança de dados, ferramentas de programador">
 <!ENTITY pref_category_notifications "Notificações">
 <!ENTITY pref_category_notifications_summary "Novas funcionalidades, atualizações de websites">
+<!ENTITY pref_category_notifications_summary2 "Novas funcionalidades, dicas de produtos">
 <!ENTITY pref_developer_remotedebugging_usb "Depuração remota via USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Depuração remota via Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "A depuração por Wi-Fi requer que o seu dispositivo tenha uma aplicação de leitura de códigos QR instalada.">
