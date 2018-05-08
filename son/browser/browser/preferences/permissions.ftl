@@ -32,6 +32,9 @@ permissions-invalid-uri-label = Taare war ma zunbudoo maa boryo dam
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = Hasarawey - Ganayan jejebu
+    .style = { permissions-window.style }
 
 ## Exceptions - Cookies
 
@@ -42,6 +45,9 @@ permissions-exceptions-popup-desc = War ga hin ka tabatandi Interneti nungey ka≈
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = Hasarawey - huruyan gaabuntey
+    .style = { permissions-window.style }
 
 ## Exceptions - Add-ons
 
