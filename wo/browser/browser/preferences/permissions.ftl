@@ -18,3 +18,35 @@ permissions-status =
 permissions-button-cancel =
     .label = Neenal
     .accesskey = N
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Tur bu jaaduwul
+permissions-invalid-uri-label = Dugalal tur bu jaadu
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
