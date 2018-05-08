@@ -44,6 +44,9 @@ permissions-invalid-uri-label = အလုပ်လုပ်သောတည်ရ
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = ခြွင်းချက်များ - လိုက်လံမှတ်သားမှုကာကွယ်ခြင်း
+    .style = { permissions-window.style }
 
 ## Exceptions - Cookies
 
