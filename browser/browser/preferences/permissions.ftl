@@ -39,9 +39,14 @@ permissions-searchbox =
 
 ## Invalid Hostname Dialog
 
+permissions-invalid-uri-title = Уведзена недапушчальная назва хоста
+permissions-invalid-uri-label = Увядзіце назву хоста
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = Выключэнні - Ахова ад сачэння
+    .style = { permissions-window.style }
 
 ## Exceptions - Cookies
 
@@ -52,6 +57,9 @@ permissions-exceptions-popup-desc = Вы можаце вызначыць, які
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = Выключэнні - Запісаныя лагіны
+    .style = { permissions-window.style }
 
 ## Exceptions - Add-ons
 
