@@ -44,6 +44,10 @@ permissions-invalid-uri-label = رجاءً أدخل اسم مستضيف صالح
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = الاستثنائات – الحماية من التعقّب
+    .style = { permissions-window.style }
+permissions-exceptions-tracking-protection-desc = لقد عُطلت حماية التعقب على مواقع الوِب هذه.
 
 ## Exceptions - Cookies
 
@@ -54,13 +58,23 @@ permissions-exceptions-cookie-desc = يمكنك تحديد المواقع الت
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-window =
+    .title = مواقع الوِب المسموح لها - نوافذ منبثقة
+    .style = { permissions-window.style }
 permissions-exceptions-popup-desc = يمكنك تحديد أي مواقع يسمح لها بفتح نوافذ منبثقة . اكتب عنوان الموقع الذي تريد إدارته ثم انقر اسمح.
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = الاستثناءات - جلسات الولوج المحفوظة
+    .style = { permissions-window.style }
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-window =
+    .title = مواقع الوِب المسموح لها - تنصيب الإضافات
+    .style = { permissions-window.style }
+permissions-exceptions-addons-desc = يمكنك تحديد أي مواقع يسمح لها بتنصيب إضافات. اكتب العنوان الكامل للموقع الذي تريد السماح له و اضغط اسمح.
 
 ## Site Permissions - Notifications
 
