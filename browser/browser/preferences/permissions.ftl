@@ -36,3 +36,62 @@ permissions-button-ok =
     .accesskey = s
 permissions-searchbox =
     .placeholder = Websydło pytać
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Njepłaćiwe mjeno hosta zapodate
+permissions-invalid-uri-label = Prošu zapodajće płaćiwe mjeno hosta
+
+## Exceptions - Tracking Protection
+
+permissions-exceptions-tracking-protection-window =
+    .title = Wuwzaća - Slědowanski škit
+    .style = { permissions-window.style }
+permissions-exceptions-tracking-protection-desc = Sće slědowanski škit na tutych sydłach znjemóžnił.
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-window =
+    .title = Dowolene sydła - wuskakowace wokna
+    .style = { permissions-window.style }
+permissions-exceptions-popup-desc = Móžeće podać, kotre websydła smědźa wuskakowace wokna wočinić. Zapisajće eksaktnu adresu sydła, kotrež chceće dowolić a klikńće potom na Dowolić.
+
+## Exceptions - Saved Logins
+
+permissions-exceptions-saved-logins-window =
+    .title = Wuwzaća - składowane přizjewjenja
+    .style = { permissions-window.style }
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-window =
+    .title = Dowolene sydła - Instalacija přidatkow
+    .style = { permissions-window.style }
+permissions-exceptions-addons-desc = Móžeće podać, kotre websydła smědźa přidatki instalować. Zapisajće eksaktnu adresu sydła, kotrež chceće dowolić a klikńće potom na Dowolić.
+
+## Site Permissions - Notifications
+
+permissions-site-notification-window =
+    .title = Nastajenja - zdźělenske prawa
+    .style = { permissions-window.style }
+
+## Site Permissions - Location
+
+permissions-site-location-window =
+    .title = Nastajenja - prawa městna
+    .style = { permissions-window.style }
+
+## Site Permissions - Camera
+
+permissions-site-camera-window =
+    .title = Nastajenja - prawa kamery
+    .style = { permissions-window.style }
+
+## Site Permissions - Microphone
+
+permissions-site-microphone-window =
+    .title = Nastajenja - prawa mikrofona
+    .style = { permissions-window.style }
