@@ -78,21 +78,37 @@ permissions-exceptions-addons-desc = कुठल्या संकेतस्
 permissions-site-notification-window =
     .title = सेटिंग - सूचना परवानग्या
     .style = { permissions-window.style }
+permissions-site-notification-desc = खालील संकेतस्थळांनी आपल्याला सूचना पाठवण्याची परवानगी विचारली आहे. कोणत्या संकेतस्थळांनी सूचना पाठवाव्या हे आपण निश्चित करू शकता. आपण नवीन सूचनांची परवानगी विचारणाऱ्यांना अडवू ही शकता.
+permissions-site-notification-disable-label =
+    .label = नवीन सूचनांची परवानगी विचारणाऱ्यांना अडवा
+permissions-site-notification-disable-desc = वर नमूद केलेल्या संकेतस्थळांशिवाय इतरांवर सूचना पाठवण्याची परवानगी विचारण्यास यामुळे निर्बंध बसेल. सूचना बंद केल्यामुळे संकेतस्थळाच्या काही सुविधा बंद पडतील.
 
 ## Site Permissions - Location
 
 permissions-site-location-window =
     .title = सेटिंग - स्थान परवानग्या
     .style = { permissions-window.style }
+permissions-site-location-desc = खालील संकेतस्थळांनी आपले स्थान पाहण्याची परवानगी मागितली आहे. आपले स्थान कोणती संकेतस्थळे पाहू शकतात हे आपण निश्चित करू शकता. आपले स्थान पाहू इच्छिणाऱ्या नवीन परवानग्या आपण नाकारू शकता.
+permissions-site-location-disable-label =
+    .label = आपले स्थान पाहू इच्छिणाऱ्या नवीन विनंत्या नाकारा
+permissions-site-location-disable-desc = वर नमूद न केलेल्या कोणत्याही संकेतस्थळाकडून स्थानाच्या परवानगीच्या विनंतीस यामुळे आळा बसेल. आपल्या स्थानाची माहिती अडवल्यास संकेतस्थळाच्या काही सुविधा मोडकळीस येतील.
 
 ## Site Permissions - Camera
 
 permissions-site-camera-window =
     .title = सेटिंग - कॅमेरा परवानग्या
     .style = { permissions-window.style }
+permissions-site-camera-desc = खालील संकेतस्थळांनी आपला कॅमेरा वापरायची परवानगी विचारली आहे. कोणत्या संकेतस्थळांनी कॅमेरा वापरावा हे आपण ठरवू शकता. कॅमेरा वापरण्यास विचारणाऱ्या नवीन परवानग्या आपण अडवूही शकता.
+permissions-site-camera-disable-label =
+    .label = आपला कॅमेरा वापरायची परवानगी मागणाऱ्या नवीन विनंत्यांना अडवा
+permissions-site-camera-disable-desc = उपरोक्त सूचीबद्ध केलेली कोणतीही वेबसाइट आपल्या कॅमेऱ्यामध्ये प्रवेश करण्याच्या परवानगीची विनंती करणार नाही. आपल्या कॅमेऱ्यामध्ये प्रवेश अवरोधित करणे काही वेबसाइट वैशिष्ट्ये खंडित करू शकते.
 
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window =
     .title = सेटिंग - मायक्रोफोन परवानग्या
     .style = { permissions-window.style }
+permissions-site-microphone-desc = खालील वेबसाइटने आपल्या मायक्रोफोनवर प्रवेश करण्याची विनंती केली आहे. आपण कोणत्या वेबसाइटना आपल्या मायक्रोफोनवर प्रवेश करण्यास अनुमती दिली ते निर्दिष्ट करू शकता. आपण आपल्या मायक्रोफोनवर प्रवेश करण्याबद्दल विचारणार्या नवीन विनंत्या देखील अवरोधित करू शकता.
+permissions-site-microphone-disable-label =
+    .label = आपला मायक्रोफोन वापरायची परवानगी मागणाऱ्या नवीन विनंत्यांना अडवा
+permissions-site-microphone-disable-desc = उपरोक्त सूचीबद्ध केलेली कोणतीही वेबसाइट आपल्या मायक्रोफोनवर प्रवेश करण्याच्या परवानगीशिवाय विनंती करणार नाही. आपल्या मायक्रोफोनवर प्रवेश अवरोधित करणे काही वेबसाइट वैशिष्ट्ये खंडित करू शकते.
