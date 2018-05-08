@@ -36,3 +36,37 @@ permissions-button-ok =
     .accesskey = r
 permissions-searchbox =
     .placeholder = Ieškoti svetainėje
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Surinktas neteisingas serverio vardas
+permissions-invalid-uri-label = Prašom surinkti teisingą serverio vardą
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = Čia galima nurodyti svetaines, kurioms bus leidžiama atverti iškylančiuosius langus. Surinkite tikslų svetainės adresą ir spustelėkite mygtuką „Leisti“.
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = Čia galima nurodyti svetaines, kurioms bus leidžiama įdiegti priedus. Surinkite tikslų svetainės adresą ir spustelėkite mygtuką „Leisti“.
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
