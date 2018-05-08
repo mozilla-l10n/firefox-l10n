@@ -44,6 +44,9 @@ permissions-invalid-uri-label = Skriv in ett giltigt värdnamn
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = Undantag - Spårningsskydd
+    .style = { permissions-window.style }
 
 ## Exceptions - Cookies
 
@@ -54,6 +57,9 @@ permissions-exceptions-popup-desc = Du kan ange vilka webbplatser som får öppn
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = Undantag - Sparade inloggningar
+    .style = { permissions-window.style }
 
 ## Exceptions - Add-ons
 
