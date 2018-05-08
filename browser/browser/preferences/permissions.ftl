@@ -45,6 +45,9 @@ permissions-exceptions-popup-desc = អ្នក​អាច​បញ្ជា�
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = ការ​លើកលែង - ការ​ចូល​បាន​រក្សាទុក
+    .style = { permissions-window.style }
 
 ## Exceptions - Add-ons
 
