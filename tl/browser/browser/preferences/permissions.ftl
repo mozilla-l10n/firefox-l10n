@@ -44,6 +44,10 @@ permissions-invalid-uri-label = Mangyaring magpasok ng wastong hostname
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = Mga Exception - Tracking Protection
+    .style = { permissions-window.style }
+permissions-exceptions-tracking-protection-desc = Hindi mo pinagana ang Tracking Protection sa mga website na ito.
 
 ## Exceptions - Cookies
 
