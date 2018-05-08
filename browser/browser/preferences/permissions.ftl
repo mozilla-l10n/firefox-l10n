@@ -51,6 +51,9 @@ permissions-exceptions-tracking-protection-desc = நீங்கள் இந�
 
 ## Exceptions - Cookies
 
+permissions-exceptions-cookie-window =
+    .title = விதிவிலக்குகள் - நினைவிகளும் தள தரவும்
+    .style = { permissions-window.style }
 
 ## Exceptions - Pop-ups
 
@@ -78,12 +81,16 @@ permissions-exceptions-addons-desc = எந்த இணையதளங்கள
 permissions-site-notification-window =
     .title = அமைப்புகள் - அறிவிப்பு அனுமதிகள்
     .style = { permissions-window.style }
+permissions-site-notification-disable-label =
+    .label = அறிவிப்புகளை அனுமதிக்கும் புதிய கோரிக்கைகளைத் தடு
 
 ## Site Permissions - Location
 
 permissions-site-location-window =
     .title = அமைப்புகள் - இட அனுமதிகள்
     .style = { permissions-window.style }
+permissions-site-location-disable-label =
+    .label = உங்கள் இருப்பிடத்தை அணுகும் புதிய கோரிக்கைகளைத் தடு
 
 ## Site Permissions - Camera
 
@@ -96,3 +103,5 @@ permissions-site-camera-window =
 permissions-site-microphone-window =
     .title = அமைப்புகள் - ஒலிவாங்கி அனுமதிகள்
     .style = { permissions-window.style }
+permissions-site-microphone-disable-label =
+    .label = உங்கள் ஒலிவாங்கி அணுகும் புதிய கோரிக்கைகளைத் தடு
