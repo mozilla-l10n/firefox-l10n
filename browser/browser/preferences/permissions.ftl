@@ -36,3 +36,83 @@ permissions-button-ok =
     .accesskey = R
 permissions-searchbox =
     .placeholder = Kërko Në Sajte
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = U dha Strehëemër i Pavlefshëm
+permissions-invalid-uri-label = Ju lutemi, jepni një strehëemër të vlefshëm
+
+## Exceptions - Tracking Protection
+
+permissions-exceptions-tracking-protection-window =
+    .title = Përjashtime - Mbrojtje Nga Gjurmimet
+    .style = { permissions-window.style }
+permissions-exceptions-tracking-protection-desc = E keni çaktivizuar Mbrojtjen Nga Gjurmimet në këto sajte.
+
+## Exceptions - Cookies
+
+permissions-exceptions-cookie-window =
+    .title = Përjashtime - Cookies dhe të Dhëna Sajtesh
+    .style = { permissions-window.style }
+permissions-exceptions-cookie-desc = Mund të caktoni cilëve sajte u lejohet përherë ose kurrë të përdorin cookies dhe të dhëna sajtesh. Shtypni adresën e saktë të sajtit që doni të administroni dhe mandej klikoni Bllokoje, Lejoje për Sesion, ose Lejoje.
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-window =
+    .title = Sajte të Lejuar - Flluska
+    .style = { permissions-window.style }
+permissions-exceptions-popup-desc = Mund të caktoni cilëve sajte u lejohet të hapin dritare flluska. Shtypni adresën e saktë të sajtit që doni të lejohet dhe mandej klikoni Lejoje.
+
+## Exceptions - Saved Logins
+
+permissions-exceptions-saved-logins-window =
+    .title = Përjashtime - Kredenciale Hyrjesh të Ruajtur
+    .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = Për sajtet vijues s’do të ruhen kredenciale hyrjesh
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-window =
+    .title = Sajte të Lejuar - Instalim Shtesash
+    .style = { permissions-window.style }
+permissions-exceptions-addons-desc = Mund të përcaktoni cilëve sajte u lejohet të instalojnë shtesa. Shtypni adresën e saktë të sajtit që doni të lejoni dhe mandej klikoni Lejoje
+
+## Site Permissions - Notifications
+
+permissions-site-notification-window =
+    .title = Rregullime - Leje Njoftimesh
+    .style = { permissions-window.style }
+permissions-site-notification-desc = Sajtet vijues kanë kërkuar t’ju dërgojnë njoftime. Mund të specifikoni cilët sajte lejohen t’ju dërgojnë njoftime. Mundeni edhe të bllokoni kërkesa të reja për lejim njoftimesh.
+permissions-site-notification-disable-label =
+    .label = Blloko kërkesa të reja për lejim njoftimesh
+permissions-site-notification-disable-desc = Kjo do të pengojë çfarëdo sajti jo të pranishëm më sipër të kërkojë leje për të dërguar njoftime. Bllokimi i njoftimeve mund të prishë punimin e ndonjë veçorie të sajtit.
+
+## Site Permissions - Location
+
+permissions-site-location-window =
+    .title = Rregullime - Leje Vendndodhjesh
+    .style = { permissions-window.style }
+permissions-site-location-desc = Sajtet vijues kanë kërkuar të dinë vendndodhjen tuaj. Mund të specifikoni cilët sajte lejohen të mësojnë vendndodhjen tuaj. Mundeni edhe të bllokoni kërkesa të reja për njohje vendndodhjesh.
+permissions-site-location-disable-label =
+    .label = Blloko kërkesa të reja për njohje vendndodhjesh
+permissions-site-location-disable-desc = Kjo do të pengojë çfarëdo sajti jo të pranishëm më sipër të kërkojë leje të njohë vendndodhjen tuaj. Bllokimi i njohjes së vendndodhjes tuaj mund të prishë punimin e ndonjë veçorie të sajtit.
+
+## Site Permissions - Camera
+
+permissions-site-camera-window =
+    .title = Rregullime - Leje Kamere
+    .style = { permissions-window.style }
+permissions-site-camera-desc = Sajtet vijues kanë kërkuar të përdorin kamerën tuaj. Mund të specifikoni cilët sajte lejohen të përdorin kamerën tuaj. Mundeni edhe të bllokoni kërkesa të reja për përdorim kamere.
+permissions-site-camera-disable-label =
+    .label = Bllokoni kërkesa të reja për përdorim kamere
+permissions-site-camera-disable-desc = Kjo do të pengojë çfarëdo sajti jo të pranishëm më sipër të kërkojë leje për të përdorur kamerën tuaj. Bllokimi i përdorimit të kamerës tuaj mund të prishë punimin e ndonjë veçorie të sajtit.
+
+## Site Permissions - Microphone
+
+permissions-site-microphone-window =
+    .title = Rregullime - Leje Mikrofoni
+    .style = { permissions-window.style }
+permissions-site-microphone-desc = Sajtet vijues kanë kërkuar të përdorin mikrofonin tuaj. Mund të specifikoni cilët sajte lejohen të përdorin mikrofonin tuaj. Mundeni edhe të bllokoni kërkesa të reja për përdorim të mikrofonit.
+permissions-site-microphone-disable-label =
+    .label = Bllokoni kërkesa të reja për përdorim të mikrofonit
+permissions-site-microphone-disable-desc = Kjo do të pengojë çfarëdo sajti jo të pranishëm më sipër të kërkojë leje për të përdorur mikrofonin tuaj. Bllokimi i përdorimit të mikrofonit tuaj mund të prishë punimin e ndonjë veçorie të sajtit.
