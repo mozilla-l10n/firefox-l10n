@@ -50,9 +50,16 @@ permissions-exceptions-tracking-protection-window =
 
 ## Exceptions - Cookies
 
+permissions-exceptions-cookie-window =
+    .title = Izjeme – Piškotki in podatki strani
+    .style = { permissions-window.style }
+permissions-exceptions-cookie-desc = Določite lahko, katere spletne strani lahko vedno ali ne smejo nikoli shranjevati piškotkov in podatkov strani. Vnesite točen naslov strani in nato kliknite gumb Prepovej, Dovoli v tej seji ali Dovoli.
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-window =
+    .title = Dovoljene spletne strani – Pojavna okna
+    .style = { permissions-window.style }
 permissions-exceptions-popup-desc = Določite, katere strani smejo odpirati pojavna okna. Vnesite točen naslov strani, nato pa kliknite gumb Dovoli.
 
 ## Exceptions - Saved Logins
@@ -64,16 +71,36 @@ permissions-exceptions-saved-logins-desc = Prijave za naslednje spletne strani n
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-window =
+    .title = Dovoljene spletne strani – Namestitev dodatkov
+    .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Določite, katere strani smejo nameščati dodatke. Vnesite točen naslov strani, nato pa kliknite gumb Dovoli.
 
 ## Site Permissions - Notifications
 
+permissions-site-notification-window =
+    .title = Nastavitve – Dovoljenja obvestil
+    .style = { permissions-window.style }
+permissions-site-notification-disable-label =
+    .label = Zavrni nove zahteve, ki zahtevajo dovoljenje za pošiljanje obvestil
 
 ## Site Permissions - Location
 
+permissions-site-location-disable-label =
+    .label = Zavrni nove zahteve, ki zahtevajo informacijo o lokaciji
 
 ## Site Permissions - Camera
 
+permissions-site-camera-window =
+    .title = Nastavitve – Dovoljenja kamere
+    .style = { permissions-window.style }
+permissions-site-camera-disable-label =
+    .label = Zavrni nove zahteve, ki zahtevajo dostop do kamere
 
 ## Site Permissions - Microphone
 
+permissions-site-microphone-window =
+    .title = Nastavitve – Dovoljenja mikrofona
+    .style = { permissions-window.style }
+permissions-site-microphone-disable-label =
+    .label = Zavrni nove zahteve, ki zahtevajo dostop do mikrofona
