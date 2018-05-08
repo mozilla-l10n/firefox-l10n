@@ -40,6 +40,7 @@ permissions-searchbox =
 ## Invalid Hostname Dialog
 
 permissions-invalid-uri-title = Նշված Հանգույցի Անունն Անվավեր էր
+permissions-invalid-uri-label = Նշեք հանգույցի վավեր անուն
 
 ## Exceptions - Tracking Protection
 
@@ -55,6 +56,7 @@ permissions-invalid-uri-title = Նշված Հանգույցի Անունն Ան�
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-desc = Դուք կարող էք նշել այն վեբ կայքերը, որոնց թուլյատրվում է ավելացնել հավելումներ: Մուտքագրեք յուրաքանչյուր կայքի ճիշտ հասցեն և սեղմեք «Թույլատրել»:
 
 ## Site Permissions - Notifications
 
