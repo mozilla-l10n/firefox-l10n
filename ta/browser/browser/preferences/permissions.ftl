@@ -97,6 +97,8 @@ permissions-site-location-disable-label =
 permissions-site-camera-window =
     .title = அமைப்புகள் - படக்கருவி அனுமதிகள்
     .style = { permissions-window.style }
+permissions-site-camera-disable-label =
+    .label = உங்கள் இருப்பிடத்தை அணுகும் புதிய கோரிக்கைகளைத் தடு
 
 ## Site Permissions - Microphone
 
