@@ -56,6 +56,9 @@ permissions-exceptions-tracking-protection-window =
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = Изузеци - снимљени дневници
+    .style = { permissions-window.style }
 
 ## Exceptions - Add-ons
 
