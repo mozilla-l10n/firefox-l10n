@@ -36,3 +36,36 @@ permissions-button-ok =
     .accesskey = ذ
 permissions-searchbox =
     .placeholder = جست‌وجو وب‌سایت
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = نام میزبان وارد شده معتبر نیست
+permissions-invalid-uri-label = لطفاً نام میزبان معتبری را وارد کنید
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = شما می‌توانید مشخص کنید که کدام وب‌گاه‌ها مجازند افزودنی‌هایی نصب کنند. نشانی دقیق پایگاهی را که می‌خواهید به آن اجازه دهید وارد کنید و روی «اجازه دادن» کلیک نمایید.
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
