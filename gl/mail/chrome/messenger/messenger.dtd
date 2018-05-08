@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY titledefault.label    "&brandFullName;">
+<!ENTITY titledefault.label "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
 <!-- File Menu -->
@@ -51,8 +51,6 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "s">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Conta actual">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "u">
-<!ENTITY getNextNMsgCmd.label "Obter as seguintes 500 mensaxes">
-<!ENTITY getNextNMsgCmd.accesskey "x">
 <!ENTITY sendUnsentCmd.label "Enviar mensaxes pendentes">
 <!ENTITY sendUnsentCmd.accesskey "t">
 <!ENTITY subscribeCmd.label "Subscribir…">
@@ -63,9 +61,9 @@
 <!ENTITY renameFolder.accesskey "R">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Compactar cartafoles">
-<!ENTITY compactFolders.accesskey    "r">
+<!ENTITY compactFolders.accesskey "r">
 <!ENTITY emptyTrashCmd.label "Baleirar a papeleira">
-<!ENTITY emptyTrashCmd.accesskey    "B">
+<!ENTITY emptyTrashCmd.accesskey "B">
 <!ENTITY offlineMenu.label "Sen conexión">
 <!ENTITY offlineMenu.accesskey "o">
 <!ENTITY offlineGoOfflineCmd.label "Traballar sen conexión">
@@ -314,7 +312,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Conversas">
 <!ENTITY goChatCmd.accesskey "c">
-<!ENTITY goChatCmd.key "I">
 <!ENTITY prevStarredMsgCmd.label "Mensaxe con estrela">
 <!ENTITY prevStarredMsgCmd.accesskey "n">
 <!ENTITY folderMenu.label "Cartafol">
@@ -333,25 +330,25 @@
 <!ENTITY newNewMsgCmd.accesskey "x">
 <!ENTITY archiveMsgCmd.label "Arquivo">
 <!ENTITY archiveMsgCmd.accesskey "A">
-<!ENTITY archiveMsgCmd.key  "a">
+<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY cancelNewsMsgCmd.label "Cancelar mensaxe">
 <!ENTITY cancelNewsMsgCmd.accesskey "x">
 <!ENTITY replyMsgCmd.label "Responder">
 <!ENTITY replyMsgCmd.accesskey "R">
-<!ENTITY replyMsgCmd.key  "r">
+<!ENTITY replyMsgCmd.key "r">
 <!ENTITY replySenderCmd.label "Responder só ao remitente">
 <!ENTITY replySenderCmd.accesskey "r">
 <!ENTITY replyNewsgroupCmd2.label "Responder no grupo de novas">
-<!ENTITY replyNewsgroupCmd2.accesskey  "u">
+<!ENTITY replyNewsgroupCmd2.accesskey "u">
 <!ENTITY replyToAllMsgCmd.label "Responder a todos">
-<!ENTITY replyToAllMsgCmd.accesskey  "o">
-<!ENTITY replyToAllMsgCmd.key  "r">
+<!ENTITY replyToAllMsgCmd.accesskey "o">
+<!ENTITY replyToAllMsgCmd.key "r">
 <!ENTITY replyToListMsgCmd.label "Responder á lista">
-<!ENTITY replyToListMsgCmd.accesskey  "l">
-<!ENTITY replyToListMsgCmd.key  "t">
+<!ENTITY replyToListMsgCmd.accesskey "l">
+<!ENTITY replyToListMsgCmd.key "t">
 <!ENTITY forwardMsgCmd.label "Reenviar">
 <!ENTITY forwardMsgCmd.accesskey "R">
-<!ENTITY forwardMsgCmd.key  "l">
+<!ENTITY forwardMsgCmd.key "l">
 <!ENTITY forwardAsMenu.label "Reenviar como">
 <!ENTITY forwardAsMenu.accesskey "r">
 <!ENTITY forwardAsInline.label "Inserida">
@@ -361,6 +358,7 @@
 <!ENTITY editAsNewMsgCmd.label "Editar a mensaxe como nova">
 <!ENTITY editAsNewMsgCmd.accesskey "E">
 <!ENTITY editAsNewMsgCmd.key "e">
+<!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Crear filtro a partir da mensaxe…">
 <!ENTITY createFilter.accesskey "a">
 <!ENTITY moveMsgToMenu.label "Mover a">
@@ -452,10 +450,15 @@
 <!ENTITY addressBookCmd.key "A">
 <!ENTITY addons.label "Complementos">
 <!ENTITY addons.accesskey "C">
+<!ENTITY addonPrefs.label "Opcións dos complementos">
+<!ENTITY addonPrefs.accesskey "O">
+<!ENTITY addonPrefsUnix.label "Preferencias dos complementos">
+<!ENTITY addonPrefsUnix.accesskey "P">
+<!ENTITY addonNoPrefs.label "Non se atopou a configuración dos complementos.">
 <!ENTITY activitymanager.label "Xestor de actividade">
-<!ENTITY activitymanager.accesskey "a">
+<!ENTITY activitymanager.accesskey "X">
 <!ENTITY imAccountsStatus.label "Estado das conversas">
-<!ENTITY imAccountsStatus.accesskey "c">
+<!ENTITY imAccountsStatus.accesskey "E">
 <!ENTITY imStatus.available          "Dispoñíbel">
 <!ENTITY imStatus.unavailable        "Non dispoñíbel">
 <!ENTITY imStatus.offline            "Desconectado">
@@ -463,7 +466,7 @@
 <!ENTITY joinChatCmd.label "Entrar na conversa…">
 <!ENTITY joinChatCmd.accesskey "o">
 <!ENTITY savedFiles.label "Ficheiros gardados">
-<!ENTITY savedFiles.accesskey "F">
+<!ENTITY savedFiles.accesskey "h">
 <!ENTITY savedFiles.key "j">
 <!ENTITY filtersCmd2.label "Filtros de mensaxes">
 <!ENTITY filtersCmd2.accesskey "F">
@@ -474,23 +477,34 @@
 <!ENTITY filtersApplyToMessage.label "Executar filtros nas mensaxes">
 <!ENTITY filtersApplyToMessage.accesskey "u">
 <!ENTITY runJunkControls.label "Executar controis de correo lixo no cartafol">
-<!ENTITY runJunkControls.accesskey "c">
+<!ENTITY runJunkControls.accesskey "n">
 <!ENTITY deleteJunk.label "Eliminar o correo marcado como lixo do cartafol">
 <!ENTITY deleteJunk.accesskey "d">
 <!ENTITY importCmd.label "Importar…">
 <!ENTITY importCmd.accesskey "m">
+<!ENTITY clearRecentHistory.label "Borrar historial recente…">
+<!ENTITY clearRecentHistory.accesskey "B">
+<!ENTITY accountManagerCmd2.label "Configuración da conta">
+<!ENTITY accountManagerCmd2.accesskey "g">
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey):
+     Belongs to accountManagerCmd.label, which is placed under the Edit menu
+     on Unix systems
+  -->
+<!ENTITY accountManagerCmdUnix2.accesskey "A">
+
+<!-- Developer Tools Submenu -->
+<!ENTITY devtoolsMenu.label "Ferramentas de desenvolvemento">
+<!ENTITY devtoolsMenu.accesskey "t">
 <!ENTITY errorConsoleCmd.label "Consola de erros">
 <!ENTITY errorConsoleCmd.accesskey "e">
 <!ENTITY errorConsoleCmd.commandkey "j">
-<!ENTITY clearRecentHistory.label "Borrar historial recente…">
-<!ENTITY clearRecentHistory.accesskey "h">
-<!ENTITY accountManagerCmd2.label "Configuración da conta">
-<!ENTITY accountManagerCmd2.accesskey "g">
-<!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
-        which is placed under the Edit menu on Unix systems -->
-<!ENTITY accountManagerCmdUnix2.accesskey "A">
-<!ENTITY allowRemoteDebugging.label "Permitir depuración remota">
-<!ENTITY allowRemoteDebugging.accesskey "P">
+
+<!--LOCALIZATION NOTE (scratchpadCmd.keycode):
+    This should be a key code constant as per
+    https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
+    (but without the DOM_ prefix) -->
+<!--LOCALIZATION NOTE (scratchpadCmd.keytext):
+    This should be the text printed on the key defined in the previous string. -->
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "Recibir mensaxes">
@@ -704,10 +718,10 @@
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Abrir mensaxe nunha nova xanela">
 <!ENTITY contextOpenNewWindow.accesskey "x">
-<!-- The key potentially conflicts with cutCmd.accessKey which is defined in
-     textcontext.dtd from toolkit. Right now, both menu items can't be visible
-     at the same time, but should someone enable copy/paste of message, this key
-     would probably need to be changed. -->
+<!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
+     cutCmd.accessKey which is defined in textcontext.dtd from toolkit. Right
+     now, both menu items can't be visible at the same time, but should someone
+     enable copy/paste of message, this key would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "Abrir mensaxe nunha nova lapela">
 <!ENTITY contextOpenNewTab.accesskey "m">
 <!ENTITY contextOpenConversation.label "Abrir mensaxe na conversación">
@@ -746,6 +760,10 @@
 <!ENTITY contextKillThreadMenu.accesskey "I">
 <!ENTITY contextKillSubthreadMenu.label "Ignorar fío secundario">
 <!ENTITY contextWatchThreadMenu.label "Amosar fío">
+<!-- LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
+     In the en-US locale we ran out of access keys, so there is an empty access key for
+     Watch Thread. Localizers can pick a suitable key
+  -->
 <!ENTITY contextSaveAs.label "Gardar como…">
 <!ENTITY contextSaveAs.accesskey "G">
 <!ENTITY contextPrint.label "Imprimir…">
@@ -755,47 +773,47 @@
 
 <!-- Thread Pane Column Picker -->
 <!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
-   This option in the thread pane column picker causes us to reset the
-   customizations for the thread pane columns in this folder to their default.
+     This option in the thread pane column picker causes us to reset the
+     customizations for the thread pane columns in this folder to their default.
   -->
 <!ENTITY columnPicker.resetToInbox.label "Restabelecer ás columnas predeterminadas">
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
-   This option in the thread pane column picker pops up a sub-menu containing
-   the "columnPicker.applyToFolder.label" and
-   "columnPicker.applyToFolderAndChildren.label" options.  This item indicates
-   a desire to apply the currently displayed set of columns to some other
-   folder(s).  The sub-menu items indicate whether we want to apply it to just
-   a folder or also its children.
+     This option in the thread pane column picker pops up a sub-menu containing
+     the "columnPicker.applyToFolder.label" and
+     "columnPicker.applyToFolderAndChildren.label" options. This item indicates
+     a desire to apply the currently displayed set of columns to some other
+     folder(s). The sub-menu items indicate whether we want to apply it to just
+     a folder or also its children.
   -->
 <!ENTITY columnPicker.applyTo.label "Aplicar columnas a…">
 <!-- LOCALIZATION NOTE (columnPicker.applyToFolder.label):
-   This option in the thread pane column picker is found on a sub-menu beneath
-   the "columnPicker.applyTo.label" alongside
-   "columnPicker.applyToFolderAndChildren.label".  It indicates a desire to
-   apply the currently display thread pane column settings to a single folder
-   that the user selects using the same widget as the move to/copy to
-   mechanism (via a series of popups).
+     This option in the thread pane column picker is found on a sub-menu beneath
+     the "columnPicker.applyTo.label" alongside
+     "columnPicker.applyToFolderAndChildren.label". It indicates a desire to
+     apply the currently display thread pane column settings to a single folder
+     that the user selects using the same widget as the move to/copy to
+     mechanism (via a series of popups).
   -->
 <!ENTITY columnPicker.applyToFolder.label "Cartafol…">
 <!-- LOCALIZATION NOTE (columnPicker.applyToFolderAndChildren.label):
-   This option in the thread pane column picker is found on a sub-menu beneath
-   the "columnPicker.applyTo.label" alongside
-   "columnPicker.applyToFolder.label".  It indicates a desire to
-   apply the currently display thread pane column settings to a folder and all
-   of its descendents.  The user selects the folder using the same widget as the
-   move to/copy to mechanism (via a series of popups).
+     This option in the thread pane column picker is found on a sub-menu beneath
+     the "columnPicker.applyTo.label" alongside
+     "columnPicker.applyToFolder.label". It indicates a desire to
+     apply the currently display thread pane column settings to a folder and all
+     of its descendents. The user selects the folder using the same widget as the
+     move to/copy to mechanism (via a series of popups).
   -->
 <!ENTITY columnPicker.applyToFolderAndChildren.label "O cartafol e os subcartafoles…">
 <!-- LOCALIZATION NOTE (columnPicker.thisFolder.label):
-   This is used in the folder selection widget for the
-   "columnPicker.applyToFolder.label" and
-   "columnPicker.applyToFolderAndChildren.label" menu options.  Whenever
-   a folder has children, it results in a menu popup; the first menu item
-   in that popup is given this label to indicate that that folder should be
-   selected.  For example, if folder "A" has two children, "B" and "C", then
-   when the user hovers over "A", a new popup menu will be displayed whose
-   items are "This folder", "B", and "C".  This is the equivalent of the
-   "File here" option for the move to/copy to widge.t
+     This is used in the folder selection widget for the
+     "columnPicker.applyToFolder.label" and
+     "columnPicker.applyToFolderAndChildren.label" menu options. Whenever
+     a folder has children, it results in a menu popup; the first menu item
+     in that popup is given this label to indicate that that folder should be
+     selected. For example, if folder "A" has two children, "B" and "C", then
+     when the user hovers over "A", a new popup menu will be displayed whose
+     items are "This folder", "B", and "C". This is the equivalent of the
+     "File here" option for the move to/copy to widget.
   -->
 <!ENTITY columnPicker.thisFolder.label "Este cartafol">
 
@@ -813,30 +831,29 @@
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have
-     not changed 
-     -->
+     not changed
+  -->
 <!ENTITY quickSearchCmd.key "n">
-<!-- LOCALIZATION NOTE (search.label.base):
-     This is the base of the empty text for the global search box.  We replace
+<!-- LOCALIZATION NOTE (search.label.base1):
+     This is the base of the empty text for the global search box. We replace
      #1 with the contents of the appropriate search.keyLabel.* value for the
      platform.
      The goal is to convey to the user that typing in the box will allow them
      to search for messages globally and that there is a hotkey they can press
-     to get to the box faster.  If the global indexer is disabled, the search
+     to get to the box faster. If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
-     -->
-<!ENTITY search.label.base "Buscar… #1">
+  -->
 <!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
-     windows and linux (which use the control key).  We use the key defined in
+     windows and linux (which use the control key). We use the key defined in
      the quickSearchCmd.key entity defined above, the letter should match it.
-     -->
+  -->
 <!ENTITY search.keyLabel.nonmac "&lt;CTRL+K&gt;">
 <!-- LOCALIZATION NOTE (search.keyLabel.mac):
      The description of the key-binding to get into the global search box on mac
-     systems.  We use the key defined in the quickSearchCmd.key entity defined
+     systems. We use the key defined in the quickSearchCmd.key entity defined
      above, the letter should match it.
-     -->
+  -->
 <!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
 
 <!-- Message Header Context Menu -->
@@ -890,7 +907,7 @@
 <!-- Statusbar -->
 <!ENTITY statusText.label "Feito">
 
-<!--  Mac OS X Window Menu -->
+<!-- Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.label "Minimizar">
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Traer todo á fronte">
