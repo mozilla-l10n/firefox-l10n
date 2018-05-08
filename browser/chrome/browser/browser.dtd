@@ -129,7 +129,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Zobraziť všetky karty">
 <!ENTITY showAllTabsCmd.accesskey "a">
 <!ENTITY toggleReaderMode.key "R">
-
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "Prihlásiť sa k službe &syncBrand.shortName.label;">
@@ -189,10 +188,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Ostatné záložky">
 <!ENTITY mobileBookmarksCmd.label "Záložky mobilného Firefoxu">
 <!ENTITY bookmarksToolbarChevron.tooltip "Zobraziť ďalšie záložky">
-<!ENTITY showRecentlyBookmarked.label     "Zobraziť nedávno pridané záložky">
-<!ENTITY showRecentlyBookmarked.accesskey "Z">
-<!ENTITY hideRecentlyBookmarked.label     "Skryť nedávno pridané záložky">
-<!ENTITY hideRecentlyBookmarked.accesskey "S">
 
 <!ENTITY backCmd.label                "Naspäť">
 <!ENTITY backCmd.accesskey            "N">
@@ -234,7 +229,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Preloží túto stránku">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Spravovať preklad stránky">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Spravovať používanie softvéru DRM">
-
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Otvoriť MIDI panel">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Tejto stránke ste zakázali prístup k vašej kamere.">
@@ -245,7 +239,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Tejto stránke ste zakázali ukladanie údajov do trvalého úložiska.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Pre túto stránku ste zablokovali vyskakovacie okná.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Tejto stránke ste zakázali prístup k údajom canvasu.">
-
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Tejto stránke ste zablokovali možnosť používať zásuvný modul Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Tejto stránke ste zakázali prístup k MIDI.">
 
@@ -395,7 +388,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Chceli by ste tu vidieť vaše karty z ostatných zariadení?">
-<!ENTITY appMenuRemoteTabs.openprefs.label "Nastavenia synchronizácie">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Otvoriť nastavenia synchronizácie">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Prihlásením sa zobrazíte zoznam kariet z vašich ostatných zariadení.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Váš účet musí byť overený.">
@@ -444,7 +436,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Zadajte adresu alebo výraz vyhľadávania">
-<!ENTITY urlbar.placeholder3          "Sem zadávajte výrazy vyhľadávania a adresy">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Rozšírenie:">
@@ -988,14 +979,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "n">
 <!ENTITY updateRestart.panelUI.label2 "Reštartovať a aktualizovať aplikáciu &brandShorterName;">
 
-<!ENTITY newTabControlled.message "Rozšírenie zmenilo stránku zobrazovanú pri otvorení novej karty. Ak si túto zmenu neželáte, môžete obnoviť svoje nastavenia.">
-
 <!ENTITY newTabControlled.header.message "Vaša stránka novej karty bola zmenená.">
 <!ENTITY newTabControlled.keepButton.label "Zachovať zmeny">
 <!ENTITY newTabControlled.keepButton.accesskey "Z">
-<!ENTITY newTabControlled.restoreButton.label "Obnoviť nastavenia">
-<!ENTITY newTabControlled.restoreButton.accesskey "O">
-
 <!ENTITY newTabControlled.disableButton.label "Zakázať rozšírenie">
 <!ENTITY newTabControlled.disableButton.accesskey "Z">
 
@@ -1004,7 +990,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.keepButton.label "Zachovať zmeny">
 <!ENTITY homepageControlled.keepButton.accesskey "Z">
 <!ENTITY homepageControlled.disableButton.label "Zakázať rozšírenie">
-<!ENTITY homepageControlled.disableButton.accesskey "r">
+<!ENTITY homepageControlled.disableButton.accesskey "Z">
+
+<!ENTITY tabHideControlled.disableButton.label "Zakázať rozšírenie">
+<!ENTITY tabHideControlled.disableButton.accesskey "Z">
 
 <!ENTITY pageActionButton.tooltip "Akcie stránky">
 <!ENTITY pageAction.addToUrlbar.label "Pridať do panela s adresou">
