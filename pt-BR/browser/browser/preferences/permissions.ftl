@@ -43,6 +43,9 @@ permissions-invalid-uri-title = Nome de servidor inválido
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = Exceções - Proteção contra rastreamento
+    .style = { permissions-window.style }
 
 ## Exceptions - Cookies
 
