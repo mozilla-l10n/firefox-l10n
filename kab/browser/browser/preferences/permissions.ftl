@@ -36,3 +36,41 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = Nadi asmel web
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Isem n usenneftaɣ arameɣtu
+permissions-invalid-uri-label = Ma ulac aɣilif, sekcem isem n usenneftaɣ ameɣtu
+
+## Exceptions - Tracking Protection
+
+permissions-exceptions-tracking-protection-window =
+    .title = Tasureft - Ammesten n usfuɣel
+    .style = { permissions-window.style }
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+
+## Exceptions - Saved Logins
+
+permissions-exceptions-saved-logins-window =
+    .title = Tisuraf - Inekcumen yettwakelsen
+    .style = { permissions-window.style }
+
+## Exceptions - Add-ons
+
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
