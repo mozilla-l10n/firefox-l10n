@@ -68,21 +68,33 @@ permissions-exceptions-addons-desc = Você pode especificar quais sites têm per
 
 ## Site Permissions - Notifications
 
+permissions-site-notification-window =
+    .title = Configurações - Permissões de Notificações
+    .style = { permissions-window.style }
 permissions-site-notification-desc = Os seguintes sites solicitaram enviar notificações. Você pode especificar quais sites podem enviar notificações. Você também pode bloquear novas solicitações pedindo para permitir notificações.
 permissions-site-notification-disable-desc = Isto impedirá que qualquer site não listado acima solicite permissão para enviar notificações. Bloquear notificações pode quebrar algumas funcionalidades de sites.
 
 ## Site Permissions - Location
 
+permissions-site-location-window =
+    .title = Configurações - Permissões de Localização
+    .style = { permissions-window.style }
 permissions-site-location-desc = Os seguintes sites solicitaram acessar sua localização. Você pode especificar quais sites podem acessar sua localização. Você também pode bloquear novas solicitações pedindo acesso à sua localização.
 permissions-site-location-disable-label =
     .label = Bloquear novas solicitações pedindo para acessar sua localização
 
 ## Site Permissions - Camera
 
+permissions-site-camera-window =
+    .title = Configurações - Permissões da Câmera
+    .style = { permissions-window.style }
 permissions-site-camera-disable-label =
     .label = Bloquear novas solicitações pedindo para acessar sua câmera
 
 ## Site Permissions - Microphone
 
+permissions-site-microphone-window =
+    .title = Configurações - Permissões do Microfone
+    .style = { permissions-window.style }
 permissions-site-microphone-disable-label =
     .label = Bloquear novas solicitações pedindo para acessar seu microfone
