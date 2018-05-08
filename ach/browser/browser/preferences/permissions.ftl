@@ -36,3 +36,43 @@ permissions-button-ok =
     .accesskey = G
 permissions-searchbox =
     .placeholder = Yeny kakube
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Kiketo nying lami kube mape atir
+permissions-invalid-uri-label = Tim ber iket nying lami kube matye atir
+
+## Exceptions - Tracking Protection
+
+permissions-exceptions-tracking-protection-window =
+    .title = Ma kiweko woko - Gwokke ikom lubo kor
+    .style = { permissions-window.style }
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = I twero cimo kakube mene ma kiye me yabo dirica ma pye-malo. Co kanonge kikome me kakube ma imito ye kadong i dii Ye.
+
+## Exceptions - Saved Logins
+
+permissions-exceptions-saved-logins-window =
+    .title = Ma pe gude - Donyo iyie ma kigwoko
+    .style = { permissions-window.style }
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = I twero cimo kakube mene ma kiye me keto med-ikome. Co kanonge kikome me kakube ma imito ye kadong i dii Ye.
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
