@@ -56,6 +56,7 @@
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
   Please check for possible accesskey conflicts.
 -->
+<!ENTITY updateApp2.label                "Actualizacións do &brandShortName;">
 <!-- LOCALIZATION NOTE (updateApp.version.*): updateApp.version.pre is
   followed by a version number, keep the trailing space or replace it with
   a different character as needed. updateApp.version.post is displayed after
