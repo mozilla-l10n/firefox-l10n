@@ -47,6 +47,7 @@ permissions-invalid-uri-label = অনুগ্রহ করে কার্য�
 permissions-exceptions-tracking-protection-window =
     .title = ব্যতিক্রমসমূহ - ট্রাকিং সুরক্ষা
     .style = { permissions-window.style }
+permissions-exceptions-tracking-protection-desc = এই সমস্ত ওয়েবসাইটে আপনি ট্র্যাকিং সুরক্ষা নিষ্ক্রিয় করে রেখেছেন।
 
 ## Exceptions - Cookies
 
@@ -60,6 +61,7 @@ permissions-exceptions-popup-desc = কোন ওয়েবসাইটগুল�
 permissions-exceptions-saved-logins-window =
     .title = ব্যতিক্রম - সংরক্ষিত লগইন
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = নিম্নলিখিত ওয়েবসাইটে লগইনগুলি সংরক্ষণ করা হবে না
 
 ## Exceptions - Add-ons
 
@@ -67,12 +69,27 @@ permissions-exceptions-addons-desc = কোন ওয়েবসাইটগুল
 
 ## Site Permissions - Notifications
 
+permissions-site-notification-disable-label =
+    .label = নোটিফিকেশন অনুমোদনের নতুন অনুরোধ ব্লক করুন
 
 ## Site Permissions - Location
 
+permissions-site-location-window =
+    .title = সেটিং - অবস্থান অনুমতি
+    .style = { permissions-window.style }
 
 ## Site Permissions - Camera
 
+permissions-site-camera-window =
+    .title = সেটিং - ক্যামেরা ব্যবহারের অনুমতি
+    .style = { permissions-window.style }
+permissions-site-camera-disable-label =
+    .label = আপনার ক্যামেরা ব্যবহারের নতুন অনুরোধ ব্লক করুন
 
 ## Site Permissions - Microphone
 
+permissions-site-microphone-window =
+    .title = সেটিং - মাইক্রোফোন অনুমোদন
+    .style = { permissions-window.style }
+permissions-site-microphone-disable-label =
+    .label = আপনার মাইক্রোফোন ব্যবহারের নতুন অনুরোধ ব্লক করুন
