@@ -36,3 +36,37 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = Otsi saiti
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = Sisestatud masinanimi on vigane
+permissions-invalid-uri-label = Palun sisesta korrektne masinanimi
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = Sa võid määrata, millistel veebilehtedel on hüpikakende avamine lubatud. Sisesta vastava veebilehe täpne aadress ning klõpsa Luba.
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = Sa võid määrata, millistel veebilehtedel on lubatud lisasid paigaldada. Sisesta vastava veebilehe täpne aadress ning klõpsa Luba.
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
