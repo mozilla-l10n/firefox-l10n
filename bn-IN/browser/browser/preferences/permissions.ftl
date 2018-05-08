@@ -36,3 +36,43 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = ওয়েবসাইটের অনুসন্ধান করুন
+
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = অবৈধ হোস্ট-নেম উল্লিখিত হয়েছে
+permissions-invalid-uri-label = অনুগ্রহ করে বৈধ হোস্ট-নেম উল্লেখ করুন
+
+## Exceptions - Tracking Protection
+
+permissions-exceptions-tracking-protection-window =
+    .title = ব্যতিক্রমসমূহ - ট্র্যাকিং প্রোটেকশন
+    .style = { permissions-window.style }
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+permissions-exceptions-popup-desc = কোন ওয়েব-সাইটগুলিকে পপ-আপ উইন্ডো প্রদর্শন করার অনুমতি প্রদান করা হবে আপনি তা উল্লেখ করতে পারেন। সাইটের সঠিক ঠিকানা লিখে অনুমতি প্রদান করুন ক্লিক করুন।
+
+## Exceptions - Saved Logins
+
+permissions-exceptions-saved-logins-window =
+    .title = ব্যতিক্রম - সংরক্ষিত লগইন
+    .style = { permissions-window.style }
+
+## Exceptions - Add-ons
+
+permissions-exceptions-addons-desc = কোন ওয়েব-সাইটগুলিকে সফ্টওয়্যার ইনস্টল করার অনুমতি প্রদান করা হবে আপনি তা উল্লেখ করতে পারেন। সাইটের সঠিক ঠিকানা লিখে অনুমতি প্রদান করুন ক্লিক করুন।
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
