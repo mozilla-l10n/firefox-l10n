@@ -83,9 +83,9 @@
 <!ENTITY showSettings.accesskey        "S">
 <!ENTITY proxiesConfigure.label        "როგორ დაუკავშირდეს &brandShortName; პროგრამა ინტერნეტს.">
 <!ENTITY connectionsInfo.caption       "კავშირი">
-<!ENTITY offlineInfo.caption           "ავტონომიური რეჟიმი">
-<!ENTITY offlineInfo.label             "ავტონომიური რეჟიმის პარამეტრები">
-<!ENTITY showOffline.label             "ავტონომიური რეჟიმი…">
+<!ENTITY offlineInfo.caption           "კავშირგარეშე">
+<!ENTITY offlineInfo.label             "კავშირგარეშე რეჟიმის პარამეტრები">
+<!ENTITY showOffline.label             "კავშირგარეშე…">
 <!ENTITY showOffline.accesskey         "O">
 
 <!ENTITY Diskspace                       "ადგილი დისკზე">
@@ -111,7 +111,7 @@
 <!ENTITY certSelection.description       "როცა სერვერი ჩემს პირად სერთიფიკატს ითხოვს:">
 <!ENTITY certs.auto                      "ავტომატური შერჩევა">
 <!ENTITY certs.auto.accesskey            "m">
-<!ENTITY certs.ask                       "დამეკითხე ყოველთვის">
+<!ENTITY certs.ask                       "შეკითხვა ყოველ ჯერზე">
 <!ENTITY certs.ask.accesskey             "A">
 <!ENTITY enableOCSP.label                "OCSP სერვერებისთვის სერტიფიკატების მიმდინარე მდგომარეობის კითხვა">
 <!ENTITY enableOCSP.accesskey            "ს">
