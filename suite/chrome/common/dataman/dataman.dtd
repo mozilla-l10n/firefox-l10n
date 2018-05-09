@@ -4,33 +4,33 @@
 
 <!ENTITY dataman.windowTitle "მონაცემთა მართვა">
 
-<!ENTITY selectAll.key "a">
+<!ENTITY selectAll.key "რ">
 
-<!ENTITY select.all.label "მონაცემთა ყველა ტიპი">
+<!ENTITY select.all.label "ყველა სახის მონაცემები">
 <!ENTITY select.cookies.label "მხოლოდ ფუნთუშები">
-<!ENTITY select.permissions.label "მხოლოდ უფლებები">
+<!ENTITY select.permissions.label "მხოლოდ ნებართვები">
 <!ENTITY select.preferences.label "მხოლოდ პარამეტრები">
 <!ENTITY select.passwords.label "მხოლოდ პაროლები">
 <!ENTITY select.storage.label "მხოლოდ საცავი">
 
 <!ENTITY domain.search.placeholder "დომენების ძიება">
-<!ENTITY domain.search.key "f">
+<!ENTITY domain.search.key "ძ">
 
 <!ENTITY domain.tree.domain.label "დომენი">
 
 <!ENTITY domain.ctx.forgetdomain.label "ამ დომენის დავიწყება">
-<!ENTITY domain.ctx.forgetdomain.accesskey "F">
-<!ENTITY domain.ctx.forgetglobal.label "გლობალურ მონაცემთა დავიწყება">
-<!ENTITY domain.ctx.forgetglobal.accesskey "F">
+<!ENTITY domain.ctx.forgetdomain.accesskey "წ">
+<!ENTITY domain.ctx.forgetglobal.label "საერთო მონაცემთა დავიწყება">
+<!ENTITY domain.ctx.forgetglobal.accesskey "წ">
 
 <!ENTITY data.search.key "k">
 
 <!ENTITY tab.cookies.label "ფუნთუშები">
-<!ENTITY tab.permissions.label "უფლებები">
+<!ENTITY tab.permissions.label "ნებართვები">
 <!ENTITY tab.preferences.label "პარამეტრები">
 <!ENTITY tab.passwords.label "პაროლები">
 <!ENTITY tab.storage.label "საცავი">
-<!ENTITY tab.formdata.label "ფორმის მონაცემები">
+<!ENTITY tab.formdata.label "ველების მონაცემები">
 <!ENTITY tab.forget.label "დავიწყება">
 
 <!-- cookies -->
@@ -50,20 +50,20 @@
 <!ENTITY cookies.info.sendtype.label "დანიშნულება:">
 <!ENTITY cookies.info.expires.label "ვადა:">
 
-<!ENTITY cookies.ctx.remove.label "ამოღება">
-<!ENTITY cookies.ctx.remove.accesskey "ა">
+<!ENTITY cookies.ctx.remove.label "მოცილება">
+<!ENTITY cookies.ctx.remove.accesskey "ო">
 <!ENTITY cookies.ctx.selectAll.label "ყველას მონიშვნა">
 <!ENTITY cookies.ctx.selectAll.accesskey "ყ">
 
-<!ENTITY cookies.button.remove.label "ამოღება">
-<!ENTITY cookies.button.remove.accesskey "ა">
+<!ENTITY cookies.button.remove.label "მოცილება">
+<!ENTITY cookies.button.remove.accesskey "ო">
 
-<!ENTITY cookies.blockOnRemove.label "ამოღებისას, მომავალში ფუნთუშების აკრძალვა, შემდეგი ვებსაიტებისთვის">
-<!ENTITY cookies.blockOnRemove.accesskey "კ">
+<!ENTITY cookies.blockOnRemove.label "მოცილებისას, მომავალში ფუნთუშების აკრძალვა, შემდეგი ვებსაიტებისთვის">
+<!ENTITY cookies.blockOnRemove.accesskey "ც">
 
 <!-- permissions -->
-<!ENTITY perm.UseDefault "ნაგულისხმები">
-<!ENTITY perm.AskAlways "დამეკითხე ყოველთვის">
+<!ENTITY perm.UseDefault "ნაგულისხმევი">
+<!ENTITY perm.AskAlways "შეკითხვა ყოველ ჯერზე">
 <!ENTITY perm.NeverSave "არასოდეს შეინახო">
 <!ENTITY perm.Allow "ნებართვა">
 <!ENTITY perm.AllowSameDomain "ნებართვა იგივე დომენისთვის">
@@ -130,27 +130,27 @@
 <!ENTITY fdata.tree.firstused.label "პირველი გამოყენება">
 <!ENTITY fdata.tree.lastused.label "ბოლო გამოყენება">
 
-<!ENTITY fdata.ctx.remove.label "ამოღება">
-<!ENTITY fdata.ctx.remove.accesskey "R">
+<!ENTITY fdata.ctx.remove.label "მოცილება">
+<!ENTITY fdata.ctx.remove.accesskey "ო">
 <!ENTITY fdata.ctx.selectAll.label "ყველას მონიშვნა">
-<!ENTITY fdata.ctx.selectAll.accesskey "A">
+<!ENTITY fdata.ctx.selectAll.accesskey "ყ">
 
-<!ENTITY fdata.button.remove.label "ამოღება">
-<!ENTITY fdata.button.remove.accesskey "R">
+<!ENTITY fdata.button.remove.label "მოცილება">
+<!ENTITY fdata.button.remove.accesskey "მ">
 
 <!-- forget -->
 <!ENTITY forget.cookies.label "ფუნთუშები">
 <!ENTITY forget.cookies.accesskey "ფ">
-<!ENTITY forget.permissions.label "უფლებები">
-<!ENTITY forget.permissions.accesskey "P">
+<!ENTITY forget.permissions.label "ნებართვები">
+<!ENTITY forget.permissions.accesskey "ნ">
 <!ENTITY forget.preferences.label "შიგთავსის პარამეტრები">
-<!ENTITY forget.preferences.accesskey "o">
+<!ENTITY forget.preferences.accesskey "პ">
 <!ENTITY forget.passwords.label "პაროლები">
-<!ENTITY forget.passwords.accesskey "a">
+<!ENTITY forget.passwords.accesskey "ა">
 <!ENTITY forget.storage.label "საცავი">
-<!ENTITY forget.storage.accesskey "S">
-<!ENTITY forget.formdata.label "ფორმის მონაცემები">
-<!ENTITY forget.formdata.accesskey "D">
+<!ENTITY forget.storage.accesskey "ს">
+<!ENTITY forget.formdata.label "ველების მონაცემები">
+<!ENTITY forget.formdata.accesskey "ვ">
 
 <!ENTITY forget.button.label "ამ მონაცემთა დავიწყება">
-<!ENTITY forget.button.accesskey "F">
+<!ENTITY forget.button.accesskey "დ">
