@@ -207,6 +207,7 @@
 <!ENTITY pref_category_advanced_summary3 "การเรียกคืนแท็บ, การประหยัดข้อมูล, เครื่องมือนักพัฒนา">
 <!ENTITY pref_category_notifications "การแจ้งเตือน">
 <!ENTITY pref_category_notifications_summary "คุณลักษณะใหม่, การอัปเดตเว็บไซต์">
+<!ENTITY pref_category_notifications_summary2 "คุณลักษณะใหม่, เคล็ดลับผลิตภัณฑ์">
 <!ENTITY pref_developer_remotedebugging_usb "การดีบั๊กระยะไกลผ่าน USB">
 <!ENTITY pref_developer_remotedebugging_wifi "การดีบั๊กระยะไกลผ่าน Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "การดีบั๊กผ่าน Wi-Fi จำเป็นต้องให้อุปกรณ์ของคุณมีแอปตัวอ่านรหัส QR ติดตั้งอยู่">
