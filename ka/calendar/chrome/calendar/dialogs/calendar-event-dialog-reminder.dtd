@@ -5,7 +5,7 @@
 <!ENTITY reminderdialog.title                              "შეხსენებების გამართვა">
 <!ENTITY reminder.add.label                                "დამატება">
 <!ENTITY reminder.add.accesskey                            "A">
-<!ENTITY reminder.remove.label                             "ამოღება">
+<!ENTITY reminder.remove.label                             "მოცილება">
 <!ENTITY reminder.remove.accesskey                         "R">
 
 <!ENTITY reminder.reminderDetails.label                    "შეხსენების დეტალები">
