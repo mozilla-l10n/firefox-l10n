@@ -7,9 +7,9 @@
 <!ENTITY cookiesonsystem.label             "თქვენს კომპიუტერში ინახება შემდეგი ნაჭდევები:">
 <!ENTITY cookiename.label                  "ნაჭდევის სახელი">
 <!ENTITY cookiedomain.label                "საიტი">
-<!ENTITY button.removecookie.label         "ნაჭდევის ამოღება">
+<!ENTITY button.removecookie.label         "ფუნთუშის მოცილება">
 <!ENTITY button.removecookie.accesskey     "R">
-<!ENTITY button.removeallcookies.label     "ყველა ნაჭდევის ამოღება">
+<!ENTITY button.removeallcookies.label     "ყველა ფუნთუშის მოცილება">
 <!ENTITY button.removeallcookies.accesskey "A">
 
 <!ENTITY props.name.label                  "სახელი:">

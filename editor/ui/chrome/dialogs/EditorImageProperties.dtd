@@ -44,7 +44,7 @@
 
 <!-- These controls are in the Image Map box of the expanded area -->
 <!ENTITY imagemapBox.label "ნახატის მართვა">
-<!ENTITY removeImageMapButton.label "ამოღება">
+<!ENTITY removeImageMapButton.label "მოცილება">
 <!ENTITY removeImageMapButton.accessKey "R">
 
 <!-- These are the options for image alignment -->

@@ -603,7 +603,7 @@
 <!ENTITY addressBookButton.tooltip "Go to the address book">
 <!ENTITY chatButton.tooltip "სასაუბრო დაფის ჩვენება">
 <!ENTITY tagButton.tooltip "წერილების დაჭდევება">
-<!ENTITY compactButton.tooltip "წაშლილი წერილების ამოღება შერჩეული დასტიდან">
+<!ENTITY compactButton.tooltip "წაშლილი წერილების მოცილება შერჩეული საქაღალდიდან">
 <!ENTITY appmenuButton1.tooltip "&brandShortName; მენიუს ჩვენება">
 
 <!-- Toolbar Button Popup -->

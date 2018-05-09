@@ -13,7 +13,7 @@
 <!ENTITY DictionaryList.accessKey "W">
 <!ENTITY ReplaceButton.label "შეცვლა">
 <!ENTITY ReplaceButton.accessKey "R">
-<!ENTITY RemoveButton.label "ამოღება">
+<!ENTITY RemoveButton.label "მოცილება">
 <!ENTITY RemoveButton.accessKey "e">
 
 <!ENTITY CloseButton.label "დახურვა">
