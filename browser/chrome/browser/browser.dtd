@@ -263,7 +263,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchBookmarks.label              "სანიშნების ძიება">
 <!ENTITY bookmarkingTools.label             "სანიშნების ხელსაწყოები">
 <!ENTITY addBookmarksMenu.label             "სანიშნების მენიუს დამატება ხელსაწყოთა ზოლზე">
-<!ENTITY removeBookmarksMenu.label          "სანიშნების მენიუს ამოღება ხელსაწყოთა ზოლიდან">
+<!ENTITY removeBookmarksMenu.label          "სანიშნების მენიუს მოცილება ხელსაწყოთა ზოლიდან">
 
 <!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -420,8 +420,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.moveToPanel.accesskey "გ">
 <!ENTITY customizeMenu.pinToOverflowMenu.label "ჩამოსაშლელ მენიუში მიმაგრება">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "გ">
-<!ENTITY customizeMenu.unpinFromOverflowMenu.label "ჩამოსაშლელი მენიუდან ამოღება">
-<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "ღ">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "ჩამოსაშლელი მენიუდან მოცილება">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "ც">
 <!ENTITY customizeMenu.removeFromToolbar.label "ხელსაწყოთა ზოლიდან ამოღება">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "ა">
 <!ENTITY customizeMenu.removeFromMenu.label "მენიუდან ამოღება">

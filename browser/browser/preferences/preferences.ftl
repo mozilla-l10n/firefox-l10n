@@ -414,7 +414,7 @@ search-restore-default =
     .label = ნაგულისხმევი საძიებო სისტემების აღდგენა
     .accesskey = ნ
 search-remove-engine =
-    .label = ამოღება
+    .label = ამოშლა
     .accesskey = ა
 search-find-more-link = სხვა საძიებო სისტემების მონახვა
 # This warning is displayed when the chosen keyword is already in use
@@ -435,7 +435,7 @@ containers-add-button =
 containers-preferences-button =
     .label = პარამეტრები
 containers-remove-button =
-    .label = ამოღება
+    .label = ამოშლა
 
 ## Sync Section - Signed out
 
