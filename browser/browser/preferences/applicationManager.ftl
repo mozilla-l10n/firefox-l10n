@@ -6,8 +6,8 @@ app-manager-window =
     .title = პროგრამის მონაცემები
     .style = width: 30em; min-height: 20em;
 app-manager-remove =
-    .label = ამოშლა
-    .accesskey = ა
+    .label = მოცილება
+    .accesskey = ც
 app-manager-handle-webfeeds = ვებარხები შეიძლება გაიხსნას, შემდეგი პროგრამით.
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
