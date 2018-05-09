@@ -207,6 +207,7 @@
 <!ENTITY pref_category_advanced_summary3 "Restaurar schedas, magazinos de datos, instrumentos de disveloppator">
 <!ENTITY pref_category_notifications "Notificationes">
 <!ENTITY pref_category_notifications_summary "Nove functionalitates, actualisationes de sitos del web">
+<!ENTITY pref_category_notifications_summary2 "Nove functionalitates, consilios de producto">
 <!ENTITY pref_developer_remotedebugging_usb "Depuration remote via USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Depuration remote via Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Le depuration per Wi-Fi require que tu apparato ha un application pro lector de codices QR installate.">
@@ -543,7 +544,7 @@
 <!ENTITY pref_compact_tabs_summary2 "Organisar le schedas in duo columnas in modo portrait">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
-     any page is removed frome about:home. This includes pages that are in history,
+     any page is removed from about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Pagina removite">
 <!ENTITY folder_removed "Dossier removite">
@@ -761,7 +762,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Ultime synchronisation del: &formatS;">
-<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!-- Localization note: Used when the sync has not happened yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Ultime synchronisation: jammais">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
