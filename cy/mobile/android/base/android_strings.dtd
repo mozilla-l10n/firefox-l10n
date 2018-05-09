@@ -207,6 +207,7 @@
 <!ENTITY pref_category_advanced_summary3 "Adfer tabiau, arbedwr data, offer datblygwyr">
 <!ENTITY pref_category_notifications "Hysbysiadau">
 <!ENTITY pref_category_notifications_summary "Nodweddion newydd, diweddariadau gwefan">
+<!ENTITY pref_category_notifications_summary2 "Nodweddion newydd, awgrymiadau cynnyrch">
 <!ENTITY pref_developer_remotedebugging_usb "Dadfygio pell drwy USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Dadfygio pell drwy\&apos;r diwifr">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Mae dadfygio pell drwy\&apos;r diwifr angen i\&apos;ch dyfais gael ap darllenydd QR wedi ei osod.">
