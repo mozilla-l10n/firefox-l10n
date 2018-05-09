@@ -15,7 +15,7 @@
 <!ENTITY leaveIt.label                "მიღებულ წერილებში დატოვება">
 <!ENTITY leaveIt.accesskey            "I">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
-<!ENTITY moveToSent.label             "გადატანა დასტაში &quot;გასული&quot;">
+<!ENTITY moveToSent.label             "გადატანა „გაგზავნილი“ წერილების საქაღალდეში">
 <!ENTITY moveToSent.accesskey         "M">
 <!ENTITY requestMDN.label             "მიღების დასტურის მოთხოვნის მიღებისას:">
 <!ENTITY returnSome.label             "დასტურის დაბრუნება ზოგიერთ წერილზე">
