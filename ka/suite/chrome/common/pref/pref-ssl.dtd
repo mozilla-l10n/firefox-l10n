@@ -40,5 +40,5 @@
 <!ENTITY certselect.description             "განსაზღვრეთ, თუ, როგორ შეარჩიოს &brandShortName;-მ უსაფრთხოების სერტიფიკატები გვერდებისთვის, რომლებიც მას საჭიროებენ:">
 <!ENTITY certselect.auto                    "თვითშერჩევა">
 <!ENTITY certselect.auto.accesskey          "თ">
-<!ENTITY certselect.ask                     "შეკითხვა, ყოველ ჯერზე">
+<!ENTITY certselect.ask                     "შეკითხვა ყოველ ჯერზე">
 <!ENTITY certselect.ask.accesskey           "ჯ">

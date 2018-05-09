@@ -16,7 +16,7 @@
 <!ENTITY newButton.accesskey                 "N"> 
 <!ENTITY editButton.label                    "რედაქტირება…"> 
 <!ENTITY editButton.accesskey                "E">
-<!ENTITY removeButton.label                  "ამოღება"> 
+<!ENTITY removeButton.label                  "მოცილება"> 
 <!ENTITY removeButton.accesskey              "R"> 
 <!ENTITY lookIn.label                        "ძებნა:"> 
 <!ENTITY lookIn.accesskey                    "L"> 

@@ -81,12 +81,12 @@
 <!ENTITY prefs.tree.name.label "პარამეტრი">
 <!ENTITY prefs.tree.value.label "მნიშვნელობა">
 
-<!ENTITY prefs.ctx.remove.label "ამოღება">
+<!ENTITY prefs.ctx.remove.label "მოცილება">
 <!ENTITY prefs.ctx.remove.accesskey "R">
 <!ENTITY prefs.ctx.selectAll.label "ყველას მონიშვნა">
 <!ENTITY prefs.ctx.selectAll.accesskey "A">
 
-<!ENTITY prefs.button.remove.label "ამოღება">
+<!ENTITY prefs.button.remove.label "მოცილება">
 <!ENTITY prefs.button.remove.accesskey "R">
 
 <!-- passwords -->
@@ -96,14 +96,14 @@
 <!ENTITY pwd.tree.username.label "სახელი">
 <!ENTITY pwd.tree.password.label "პაროლი">
 
-<!ENTITY pwd.ctx.remove.label "ამოღება">
+<!ENTITY pwd.ctx.remove.label "მოცილება">
 <!ENTITY pwd.ctx.remove.accesskey "R">
 <!ENTITY pwd.ctx.copyPasswordCmd.label "პაროლის ასლი">
 <!ENTITY pwd.ctx.copyPasswordCmd.accesskey "C">
 <!ENTITY pwd.ctx.selectAll.label "ყველას მონიშვნა">
 <!ENTITY pwd.ctx.selectAll.accesskey "A">
 
-<!ENTITY pwd.button.remove.label "ამოღება">
+<!ENTITY pwd.button.remove.label "მოცილება">
 <!ENTITY pwd.button.remove.accesskey "R">
 
 <!-- storage -->
@@ -113,12 +113,12 @@
 <!ENTITY storage.tree.type.label "ტიპი">
 <!ENTITY storage.tree.size.label "ზომა">
 
-<!ENTITY storage.ctx.remove.label "ამოღება">
+<!ENTITY storage.ctx.remove.label "მოცილება">
 <!ENTITY storage.ctx.remove.accesskey "R">
 <!ENTITY storage.ctx.selectAll.label "ყველას მონიშვნა">
 <!ENTITY storage.ctx.selectAll.accesskey "A">
 
-<!ENTITY storage.button.remove.label "ამოღება">
+<!ENTITY storage.button.remove.label "მოცილება">
 <!ENTITY storage.button.remove.accesskey "R">
 
 <!-- form data -->

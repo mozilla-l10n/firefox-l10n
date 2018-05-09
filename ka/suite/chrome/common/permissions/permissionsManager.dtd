@@ -5,9 +5,9 @@
 <!ENTITY windowtitle.label              "გამონაკლისები">
 <!ENTITY treehead.sitename.label        "საიტი">
 <!ENTITY treehead.status.label          "სტატუსი">
-<!ENTITY remove.label                   "საიტის ამოღება">
+<!ENTITY remove.label                   "საიტის მოცილება">
 <!ENTITY remove.accesskey               "R">
-<!ENTITY removeall.label                "ყველა საიტის ამოღება">
+<!ENTITY removeall.label                "ყველა საიტის მოცილება">
 <!ENTITY removeall.accesskey            "e">
 <!ENTITY address.label                  "ვებსაიტის მისამართი:">
 <!ENTITY address.accesskey              "d">

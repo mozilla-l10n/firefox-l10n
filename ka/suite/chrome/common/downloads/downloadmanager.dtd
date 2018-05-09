@@ -25,9 +25,9 @@
 <!ENTITY col.actionPlay.label            "პაუზა/დასრულება/ხელახლა">
 <!ENTITY col.actionPlay.accesskey        "u">
 <!ENTITY col.actionPlay.tooltip          "პაუზა/დასრულება/ხელახლა">
-<!ENTITY col.actionStop.label            "გაუქმება/ამოღება">
+<!ENTITY col.actionStop.label            "გაუქმება/მოცილება">
 <!ENTITY col.actionStop.accesskey        "C">
-<!ENTITY col.actionStop.tooltip          "გაუქმება/ამოღება">
+<!ENTITY col.actionStop.tooltip          "გაუქმება/მოცილება">
 <!ENTITY col.progress.label              "მიმდინარეობა">
 <!ENTITY col.progress.accesskey          "P">
 <!ENTITY col.progress.tooltip            "მიმდინარეობა">
@@ -76,7 +76,7 @@
 <!ENTITY cmd.retry.accesskey             "t">
 <!ENTITY cmd.cancel.label                "გაუქმება">
 <!ENTITY cmd.cancel.accesskey            "C">
-<!ENTITY cmd.remove.label                "ამოღება სიიდან">
+<!ENTITY cmd.remove.label                "სიიდან მოცილება">
 <!ENTITY cmd.remove.accesskey            "e">
 <!ENTITY cmd.open.label                  "გახსნა">
 <!ENTITY cmd.open.accesskey              "O">
