@@ -6,33 +6,33 @@
 
 <!--LOCALIZATION NOTE : FILE The 'Offline' preferences dialog -->
 <!ENTITY pref.network.title               "ავტონომიური რეჟიმი და ადგილი დისკზე">
-<!ENTITY pref.offline.caption             "ავტონომიური რეჟიმი ">
+<!ENTITY pref.offline.caption             "კავშირგარეშე რეჟიმი">
 <!ENTITY textStartUp                      "სეანსის დაწყებისას:">
-<!ENTITY textStartUp.accesskey            "W">
+<!ENTITY textStartUp.accesskey            "დ">
 <!ENTITY menuitemRememberPrevState        "წინა რეჟიმის სტატუსის შენახვა">
-<!ENTITY menuitemAskMe                    "დამეკითხე კავშირის რეჟიმზე გადასვლას დაწყებისას">
+<!ENTITY menuitemAskMe                    "შეკითხვა ყოველი გაშვებისას, კავშირზე გასვლის შესახებ">
 <!ENTITY menuitemAlwaysOnline             "დაწყება ყოველთვის კავშირის რეჟიმში">
 <!ENTITY menuitemAlwaysOffline            "დაწყება ყოველთვის ავტონომიურ რეჟიმში">
 <!ENTITY menuitemAutomatic                "თვითამოცნობა (თუ შესაძლებელია)">
 <!ENTITY textGoingOnline                  "გაიგზავნოს გასაგზავნი წერილები კავშირის რეჟიმში შესვლისას?">
 <!ENTITY radioAutoSend                    "დიახ">
-<!ENTITY radioAutoSend.accesskey          "Y">
+<!ENTITY radioAutoSend.accesskey          "დ">
 <!ENTITY radioNotSend                     "არა">
-<!ENTITY radioNotSend.accesskey           "N">
-<!ENTITY radioAskUnsent                   "დამეკითხე">
-<!ENTITY radioAskUnsent.accesskey         "s">
-<!ENTITY textGoingOffline                 "ჩამოიტვირთოს წერილები ავტონომიურ რეჟიმში სამუშაოდ?">
+<!ENTITY radioNotSend.accesskey           "ა">
+<!ENTITY radioAskUnsent                   "შეკითხვა, ყოველ ჯერზე">
+<!ENTITY radioAskUnsent.accesskey         "ე">
+<!ENTITY textGoingOffline                 "ჩამოიტვირთოს წერილები კავშირგარეშე რეჟიმში სამუშაოდ?">
 <!ENTITY radioAutoDownload                "დიახ">
-<!ENTITY radioAutoDownload.accesskey      "e">
+<!ENTITY radioAutoDownload.accesskey      "დ">
 <!ENTITY radioNotDownload                 "არა">
-<!ENTITY radioNotDownload.accesskey       "o">
-<!ENTITY radioAskDownload                 "დამეკითხე">
-<!ENTITY radioAskDownload.accesskey       "k">
+<!ENTITY radioNotDownload.accesskey       "ა">
+<!ENTITY radioAskDownload                 "შეკითხვა, ყოველ ჯერზე">
+<!ENTITY radioAskDownload.accesskey       "ე">
 <!ENTITY mailConnections.caption          "საფოსტო კავშირი">
 <!ENTITY mailnewsTimeout.label            "კავშირის ვადა:">
-<!ENTITY mailnewsTimeout.accesskey        "m">
+<!ENTITY mailnewsTimeout.accesskey        "ა">
 <!ENTITY mailnewsTimeoutSeconds.label     "წამი">
-<!ENTITY Diskspace                        "ადგილი დისკზე">
+<!ENTITY Diskspace                        "სივრცე დისკზე">
 <!ENTITY offlineCompactFolders.label      "ყველა საქაღალდის შეკუმშვა, თუ მეტ სივრცეს გამოათავისუფლებს">
-<!ENTITY offlineCompactFolders.accesskey  "C">
-<!ENTITY offlineCompactFoldersMB.label    "მბ მაინც">
+<!ENTITY offlineCompactFolders.accesskey  "უ">
+<!ENTITY offlineCompactFoldersMB.label    "მბ სულ">
