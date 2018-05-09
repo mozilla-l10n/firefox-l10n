@@ -76,7 +76,7 @@
 <!ENTITY notCached.title "დოკუმენტი ვადაგასულია">
 <!ENTITY notCached.longDesc "<p>მოთხოვნილი დოკუმენტი მიუწვდომელია &brandShortName;-ის ბუფერში.</p><ul><li>უსაფრთხოების უზრუნველსაყოფად, &brandShortName; ხელმეორედ არ მოითხოვს მნიშვნელოვან დოკუმენტებს.</li><li>Click სცადეთ დოკუმენტის ხელახლა მოთხოვნა ვებსაიტიდან.</li></ul>">
 
-<!ENTITY netOffline.title "ავტონომიური რეჟიმი">
+<!ENTITY netOffline.title "კავშირგარეშე რეჟიმი">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY netOffline.longDesc3 "
