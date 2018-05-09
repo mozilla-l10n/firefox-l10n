@@ -207,6 +207,7 @@
 <!ENTITY pref_category_advanced_summary3 "Restarigo de langetoj, datumŝparo, programistaj iloj">
 <!ENTITY pref_category_notifications "Sciigoj">
 <!ENTITY pref_category_notifications_summary "Novaj trajtoj, retejaj ĝisdatigoj">
+<!ENTITY pref_category_notifications_summary2 "Novaj trajtoj kaj konsiletoj pri la produkto">
 <!ENTITY pref_developer_remotedebugging_usb "Fora sencimigo per USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Fora sencimigo per sendrata reto">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Por sendratreta sencimigo vi aparato devas havi instalita programon kiu povas legi kodon QR.">
