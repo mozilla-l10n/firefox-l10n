@@ -207,6 +207,7 @@
 <!ENTITY pref_category_advanced_summary3 "ट्याब पुनः स्थापना गर्नुहोस्, प्लगइन, विकासक उपकरणहरू पुनःस्थापना गर्नुहोस्">
 <!ENTITY pref_category_notifications "सूचनाहरू">
 <!ENTITY pref_category_notifications_summary "नयाँ सुविधाहरू, वेबसाइट अद्यावधिकहरू">
+<!ENTITY pref_category_notifications_summary2 "नयाँ सुविधाहरू, उत्पादन सुझावहरू">
 <!ENTITY pref_developer_remotedebugging_usb "USB मार्फत Remote डिबग गर्न">
 <!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi मार्फत Remote डिबग गर्न">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi डिबगिङको लागि QR कोड पाठक अनुप्रयोग तपाईँको यन्त्रमा आवश्यक छ।">
