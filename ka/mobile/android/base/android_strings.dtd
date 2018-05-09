@@ -509,13 +509,13 @@
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
 <!ENTITY contextmenu_pin_to_top_sites "რჩეულებში დამატება">
-<!ENTITY contextmenu_unpin_from_top_sites "რჩეული საიტებიდან ამოღება">
+<!ENTITY contextmenu_unpin_from_top_sites "რჩეული საიტებიდან მოცილება">
 <!ENTITY contextmenu_add_search_engine "საძიებო სისტემის დამატება">
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
      after the user pins/unpins the currently displayed page from top sites. -->
 <!ENTITY pinned_page_to_top_sites "დამატებულია რჩეულებში">
-<!ENTITY unpinned_page_from_top_sites "ამოღებულია რჩეულებიდან">
+<!ENTITY unpinned_page_from_top_sites "რჩეულებიდან მოცილებულია">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -567,7 +567,7 @@
 <!ENTITY page_action_dropmarker_description "დამატებითი ქმედებები">
 
 <!ENTITY masterpassword_create_title "მთავარი პაროლის შექმნა">
-<!ENTITY masterpassword_remove_title "მთავარი პაროლის წაშლა">
+<!ENTITY masterpassword_remove_title "მთავარი პაროლის მოცილება">
 <!ENTITY masterpassword_password "პაროლი">
 <!ENTITY masterpassword_confirm "პაროლი ხელახლა">
 
@@ -863,7 +863,7 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_remove "ამოღება">
+<!ENTITY activity_stream_remove "მოცილება">
 <!ENTITY activity_stream_delete_history "ისტორიიდან წაშლა">
 
 <!ENTITY private_tab_panel_title "პირადი თვალიერება + თვალთვალისგან დაცვა">
