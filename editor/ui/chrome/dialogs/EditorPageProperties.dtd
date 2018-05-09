@@ -13,5 +13,5 @@
 <!ENTITY descriptionInput.label "აღწერილობა:">
 <!ENTITY descriptionInput.accessKey "D">
 <!ENTITY locationNewPage.label "[ახალი გვერდი, ჯერ არ შენხულა]">
-<!ENTITY EditHEADSource1.label "სპეციალური პარამეტრები:">
+<!ENTITY EditHEADSource1.label "გაფართოებული პარამეტრები:">
 <!ENTITY EditHEADSource2.label "სექცია &lt;თავსართის&gt; სარედაქტირებლად, მენიუდან 'ჩვენება' ან 'რედაქტირების რეჟიმის პულტი გამოიყენეთ &quot;HTML წყარო&quot; '.">
