@@ -7,9 +7,9 @@
 
 <!ENTITY treehead.sitename2.label     "საიტი">
 <!ENTITY treehead.status.label        "მდგომარეობა">
-<!ENTITY removepermission2.label      "საიტის ამოღება">
-<!ENTITY removepermission2.accesskey  "ღ">
-<!ENTITY removeallpermissions2.label  "ყველა საიტის ამოღება">
+<!ENTITY removepermission2.label      "საიტის მოცილება">
+<!ENTITY removepermission2.accesskey  "ო">
+<!ENTITY removeallpermissions2.label  "ყველა საიტის მოცილება">
 <!ENTITY removeallpermissions2.accesskey "ყ">
 <!ENTITY address2.label               "საიტის მისამართი">
 <!ENTITY address2.accesskey           "მ">

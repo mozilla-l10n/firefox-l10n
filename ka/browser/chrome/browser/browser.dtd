@@ -187,7 +187,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "ბოლოს ჩანიშნულები">
 <!ENTITY otherBookmarksCmd.label "სხვა სანიშნები">
 <!ENTITY mobileBookmarksCmd.label "მობილურის სანიშნები">
-<!ENTITY bookmarksToolbarChevron.tooltip "მეტი სანიშნის ჩვენება">
+<!ENTITY bookmarksToolbarChevron.tooltip "სხვა სანიშნების გამოჩენაც">
 
 <!ENTITY backCmd.label                "უკან">
 <!ENTITY backCmd.accesskey            "უ">
@@ -375,8 +375,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notabs.label "გახსნილი ჩანართები არაა">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
-<!ENTITY appMenuRemoteTabs.showMore.label "მეტის ჩვენება">
-<!ENTITY appMenuRemoteTabs.showMore.tooltip "მეტი ჩანართის ჩვენება ამ მოწყობილობიდან">
+<!ENTITY appMenuRemoteTabs.showMore.label "სხვების ჩვენებაც">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "სხვა ჩანართების ჩვენებაც, ამ მოწყობილობიდან">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showAll.label "ყველას ჩვენება">
@@ -422,17 +422,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "გ">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "ჩამოსაშლელი მენიუდან მოცილება">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "ც">
-<!ENTITY customizeMenu.removeFromToolbar.label "ხელსაწყოთა ზოლიდან ამოღება">
+<!ENTITY customizeMenu.removeFromToolbar.label "ხელსაწყოთა ზოლიდან მოცილება">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "ა">
-<!ENTITY customizeMenu.removeFromMenu.label "მენიუდან ამოღება">
-<!ENTITY customizeMenu.removeFromMenu.accesskey "ა">
-<!ENTITY customizeMenu.addMoreItems.label "მეტი ელემენტის დამატება…">
+<!ENTITY customizeMenu.removeFromMenu.label "მენიუდან მოცილება">
+<!ENTITY customizeMenu.removeFromMenu.accesskey "ო">
+<!ENTITY customizeMenu.addMoreItems.label "სხვა ელემენტების დამატება…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "დ">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
-<!ENTITY moreMenu.label "მეტი">
+<!ENTITY moreMenu.label "დამატებით">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "მოძებნეთ ან შეიყვანეთ მისამართი">
@@ -857,7 +857,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.recommended "სასურველია">
 <!ENTITY customizeMode.lwthemes.menuManage "მართვა">
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "მ">
-<!ENTITY customizeMode.lwthemes.menuGetMore "მეტი გაფორმების მოძიება">
+<!ENTITY customizeMode.lwthemes.menuGetMore "სხვა გაფორმებების მოძიება">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "ფ">
 <!ENTITY customizeMode.overflowList.title2 "ჩამოსაშლელი მენიუ">
 <!ENTITY customizeMode.overflowList.description "გადმოიტანეთ და მოათავსეთ ელემენტები აქ, ხელსაწყოთა ზოლის გარეთ, მაგრამ ახლოს…">
@@ -999,10 +999,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tabHideControlled.disableButton.accesskey "რ">
 
 <!ENTITY pageActionButton.tooltip "ვებგვერდზე მოქმედებები">
-<!ENTITY pageAction.addToUrlbar.label "მისამართების ზოლში დამატება">
-<!ENTITY pageAction.removeFromUrlbar.label "მისამართების ზოლიდან ამოღება">
+<!ENTITY pageAction.addToUrlbar.label "მისამართების ველში დამატება">
+<!ENTITY pageAction.removeFromUrlbar.label "მისამართების ველიდან მოცილება">
 <!ENTITY pageAction.allowInUrlbar.label "მისამართების ველში ჩვენება">
-<!ENTITY pageAction.disallowInUrlbar.label "მისამართების ველიდან ამოღება">
+<!ENTITY pageAction.disallowInUrlbar.label "მისამართების ველში ჩვენების გარეშე">
 <!ENTITY pageAction.manageExtension.label "გაფართოების მართვა…">
 
 <!ENTITY pageAction.sendTabToDevice.label "ჩანართის გაგზავნა მოწყობილობაზე">
