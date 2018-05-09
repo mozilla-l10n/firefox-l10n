@@ -10,7 +10,7 @@
 <!ENTITY subscribeNewsLink.label      "ხელმოწერა ჯგუფებზე"> 
 
 <!ENTITY accountsSectionHdr.label     "ანგარიშები"> 
-<!ENTITY subscribeImapFolders.label   "ხელმოწერების დასტების მართვა">
+<!ENTITY subscribeImapFolders.label   "ხელმოწერების დასტების მართვა"> 
 <!ENTITY settingsLink.label           "ანგარიშის პარამეტრების ჩვენება"> 
 <!ENTITY newAcctLink.label            "ახალი ანგარიშის შექმნა"> 
 
@@ -18,7 +18,8 @@
 <!ENTITY searchMsgsLink.label         "წერილების ძიება"> 
 <!ENTITY filtersLink.label            "წერილების ფილტრები">
 <!ENTITY junkSettings.label           "ჯართის პარამეტრები">
-<!ENTITY offlineLink.label            "ავტონომიური რეჟიმის პარამეტრები">
+<!ENTITY offlineLink.label            "კავშირგარეშე რეჟიმის პარამეტრები">
 
 <!ENTITY feedsSectionHdr.label        "არხები">
 <!ENTITY subscribeFeeds.label         "ხელმოწერათა მართვა">
+

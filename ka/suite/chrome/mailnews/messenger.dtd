@@ -61,11 +61,11 @@
 <!ENTITY compactFolders.accesskey		"F">
 <!ENTITY emptyTrashCmd.label "ურნის გასუფთავება">
 <!ENTITY emptyTrashCmd.accesskey		"y">
-<!ENTITY offlineMenu.label "ავტონომიური რეჟიმი">
+<!ENTITY offlineMenu.label "კავშირგარეშე რეჟიმი">
 <!ENTITY offlineMenu.accesskey "l">
 <!ENTITY synchronizeOfflineCmd.label "ჩამოტვირთვა/სინქრონიზება…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
-<!ENTITY settingsOfflineCmd.label "ავტონომიური რეჟიმის პარამეტრები…">
+<!ENTITY settingsOfflineCmd.label "კავშირგარეშე რეჟიმის პარამეტრები…">
 <!ENTITY settingsOfflineCmd.accesskey "e">
 <!ENTITY downloadSelectedCmd.label "მონიშნული წერილების მიღება">
 <!ENTITY downloadSelectedCmd.accesskey "t">
