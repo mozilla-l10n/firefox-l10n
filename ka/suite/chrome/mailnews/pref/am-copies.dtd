@@ -21,7 +21,7 @@
 <!ENTITY saveMessageDlg.label "თანხმობის დიალოგის ჩვენება წერილების შენახვისას">
 <!ENTITY saveMessageDlg.accesskey "w">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY sentFolderOn.label "&quot;გასული&quot; დასტა:">
+<!ENTITY sentFolderOn.label "„გაგზავნილი“ წერილების საქაღალდე:">
 <!ENTITY sentFolderOn.accesskey "S">
 <!ENTITY sentInOtherFolder.label "სხვა დასტა:">
 <!ENTITY sentInOtherFolder.accesskey "O">

@@ -9,11 +9,11 @@
 <!ENTITY serverSettings.label "სერვერის პარამეტრები">
 <!ENTITY serverType.label "სერვერის ტიპი:">
 <!ENTITY serverName.label "სერვერის სახელი:">
-<!ENTITY serverName.accesskey "S">
+<!ENTITY serverName.accesskey "ე">
 <!ENTITY userName.label "სახელი:">
-<!ENTITY userName.accesskey "N">
+<!ENTITY userName.accesskey "ს">
 <!ENTITY port.label "პორტი:">
-<!ENTITY port.accesskey "P">
+<!ENTITY port.accesskey "პ">
 <!ENTITY serverPortDefault.label "ძირითადი:">
 <!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
         For example, in Japanese cases:
@@ -21,68 +21,68 @@
                 biffEnd.label   "minutes for new messages Check"
 -->
 <!ENTITY biffStart.label "ახალი წერილის შემოწმება ყოველ ">
-<!ENTITY biffStart.accesskey "y">
+<!ENTITY biffStart.accesskey "ყ">
 <!ENTITY biffEnd.label "წუთში">
 <!ENTITY useIdleNotifications.label "მყისიერი შეტყობინების დაშვება, წერილის მიღებისას">
 <!ENTITY useIdleNotifications.accesskey "დ">
-<!ENTITY connectionSecurity.label " კავშირის უსაფრთხოება:">
-<!ENTITY connectionSecurity.accesskey "u">
+<!ENTITY connectionSecurity.label "კავშირის უსაფრთხოება:">
+<!ENTITY connectionSecurity.accesskey "უ">
 <!ENTITY connectionSecurityType-0.label "არა">
-<!ENTITY connectionSecurityType-1.label "STARTTLS, თუ მისაწვდომია">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, თუ ხელმისაწვდომია">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY authMethod.label "ანგარიშზე შესვლის მეთოდი:">
-<!ENTITY authMethod.accesskey "i">
+<!ENTITY authMethod.accesskey "მ">
 <!ENTITY leaveOnServer.label "წერილების დატოვება სერვერზე">
-<!ENTITY leaveOnServer.accesskey "g">
+<!ENTITY leaveOnServer.accesskey "დ">
 <!ENTITY headersOnly.label "მხოლოდ თავსართების კითხვა">
-<!ENTITY headersOnly.accesskey "e">
+<!ENTITY headersOnly.accesskey "თ">
 <!ENTITY deleteByAgeFromServer.label "არა უმეტეს">
-<!ENTITY deleteByAgeFromServer.accesskey "o">
+<!ENTITY deleteByAgeFromServer.accesskey "უ">
 <!ENTITY daysEnd.label "დღისა">
 <!ENTITY deleteOnServer2.label "წაშლამდე ან მიღებულებიდან გადმოტანამდე">
-<!ENTITY deleteOnServer2.accesskey "d">
+<!ENTITY deleteOnServer2.accesskey "გ">
 <!ENTITY downloadOnBiff.label "ახალი წერილების ავტომატურად ჩატვირთვა">
-<!ENTITY downloadOnBiff.accesskey "m">
+<!ENTITY downloadOnBiff.accesskey "ჩ">
 <!ENTITY username.label "თქვენი სახელი">
 <!ENTITY deleteMessagePrefix.label "წერილის წაშლისას:">
-<!ENTITY modelMoveToTrash.label "გადატანა დასტაში ამ დასტაში">
-<!ENTITY modelMoveToTrash.accesskey "o">
+<!ENTITY modelMoveToTrash.label "გადატანა მოცემულ საქაღალდეში:">
+<!ENTITY modelMoveToTrash.accesskey "დ">
 <!ENTITY modelMarkDeleted.label "მონიშვნა წაშლილად">
-<!ENTITY modelMarkDeleted.accesskey "k">
+<!ENTITY modelMarkDeleted.accesskey "წ">
 <!ENTITY modelDeleteImmediately.label "მყისვე ამოშლა">
-<!ENTITY modelDeleteImmediately.accesskey "d">
+<!ENTITY modelDeleteImmediately.accesskey "ყ">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "მიღებული წერილების საქაღალდის გასუფთავება (&quot;წაშლა&quot;) გასვლისას">
-<!ENTITY expungeOnExit.accesskey "E">
+<!ENTITY expungeOnExit.accesskey "მ">
 <!ENTITY emptyTrashOnExit.label "&quot;ურნის გასუფთავება&quot; გასვლისას">
-<!ENTITY emptyTrashOnExit.accesskey "x">
-<!ENTITY loginAtStartup.label "ახალი წერილის შემოწმება დაწყებისას">
-<!ENTITY loginAtStartup.accesskey "C">
+<!ENTITY emptyTrashOnExit.accesskey "ფ">
+<!ENTITY loginAtStartup.label "ახალი წერილების შემოწმება გაშვებისას">
+<!ENTITY loginAtStartup.accesskey "შ">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
 	 of messages between them
 -->
-<!ENTITY maxMessagesStart.label "დამეკითხე სანამ გადმოვწერ">
-<!ENTITY maxMessagesStart.accesskey "m">
+<!ENTITY maxMessagesStart.label "ნებართვა, წერილების ჩამოტვირთვამდე, რომელთა რაოდენობაც აჭარბებს">
+<!ENTITY maxMessagesStart.accesskey "ნ">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
-<!ENTITY maxMessagesEnd.label "-ზე მეტ წერილს">
-<!ENTITY alwaysAuthenticate.label "ამ სერვერთან დაკავშირებისას, ანგარიშზე შესვლის მოთხოვნა ყოველთვის">
-<!ENTITY alwaysAuthenticate.accesskey "w">
+<!ENTITY maxMessagesEnd.label "ერთეულს">
+<!ENTITY alwaysAuthenticate.label "ამ სერვერთან დაკავშირებისას, ანგარიშზე შესვლის მოთხოვნა ყოველ ჯერზე">
+<!ENTITY alwaysAuthenticate.accesskey "ე">
 <!ENTITY newsrcFilePath.label "ჯგუფების ფაილი:">
 <!ENTITY newsrcPicker.label "ჯგუფების ფაილის არჩევა">
 <!ENTITY abbreviate.label "წერილების დასტების პანელში ჯგუფების სახელებს ჩვენების წესის მითითება:">
 <!ENTITY abbreviateOn.label "სრული სახით (მაგალითად, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "შემოკლებულად (მაგალითად, 'n.p.m.mail-news')">
-<!ENTITY advancedButton.label "დეტალები…">
+<!ENTITY advancedButton.label "დამატებით…">
 <!ENTITY serverDefaultCharset2.label "ტექსტის ნაგულისხმევი კოდირება:">
-<!ENTITY advancedButton.accesskey "v">
-<!ENTITY localPath.label "ლოკალური დასტა:">
+<!ENTITY advancedButton.accesskey "კ">
+<!ENTITY localPath.label "ადგილობრივი საქაღლდე:">
 <!ENTITY localFolderPicker.label "ადგილობრივი დასტის არჩევა">
-<!ENTITY browseFolder.label "ნუსხა…">
-<!ENTITY browseFolder.accesskey "B">
-<!ENTITY browseNewsrc.label "ნუსხა…">
-<!ENTITY browseNewsrc.accesskey "e">
+<!ENTITY browseFolder.label "ამორჩევა…">
+<!ENTITY browseFolder.accesskey "ო">
+<!ENTITY browseNewsrc.label "ამორჩევა…">
+<!ENTITY browseNewsrc.accesskey "ე">
 
 <!ENTITY accountTitle.label "ანგარიშის პარამეტრები">
 <!ENTITY accountSettingsDesc.label "ეს სპეციალური ანგარიშია.  იგი პიროვნულად არავის ეკუთვნის.">
