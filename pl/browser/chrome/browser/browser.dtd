@@ -792,6 +792,13 @@
 <!ENTITY newTabControlled.disableButton.label "Wyłącz rozszerzenie">
 <!ENTITY newTabControlled.disableButton.accesskey "W">
 
+<!ENTITY homepageControlled.message "Rozszerzenie zmieniło stronę startową, ale można przywrócić poprzednią.">
+<!ENTITY homepageControlled.header.message "Strona startowa została zmieniona.">
+<!ENTITY homepageControlled.keepButton.label "Używaj nowej">
+<!ENTITY homepageControlled.keepButton.accesskey "U">
+<!ENTITY homepageControlled.disableButton.label "Wyłącz rozszerzenie">
+<!ENTITY homepageControlled.disableButton.accesskey "W">
+
 <!ENTITY pageActionButton.tooltip "Interakcje">
 <!ENTITY pageAction.addToUrlbar.label "Dodaj do paska adresu">
 <!ENTITY pageAction.removeFromUrlbar.label "Usuń z paska adresu">
