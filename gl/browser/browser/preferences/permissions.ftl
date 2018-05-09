@@ -47,12 +47,14 @@ permissions-invalid-uri-label = Introduza un nome de servidor válido
 permissions-exceptions-tracking-protection-window =
     .title = Excepcións - Protección contra o seguimento
     .style = { permissions-window.style }
+permissions-exceptions-tracking-protection-desc = Desactivou a protección contra seguimentos nestes sitios web.
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window =
     .title = Excepcións - Cookies e datos do sitio
     .style = { permissions-window.style }
+permissions-exceptions-cookie-desc = Pode especificar que sitios web teñen permiso ou non para usar cookies e datos do sitio. Escriba o enderezo exacto do sitio que quere xestionar e prema Bloquear, Permitir nesta sesión ou Permitir.
 
 ## Exceptions - Pop-ups
 
@@ -77,12 +79,40 @@ permissions-exceptions-addons-desc = Pode especificar que sitios web teñen perm
 
 ## Site Permissions - Notifications
 
+permissions-site-notification-window =
+    .title = Configuración - Permisos de notificacións
+    .style = { permissions-window.style }
+permissions-site-notification-desc = Os seguintes sitios web solicitaron enviarlle notificacións. Pode especificar que sitios teñen permiso para enviarlle notificacións. Tamén pode bloquear novas peticións de envío de notificacións.
+permissions-site-notification-disable-label =
+    .label = Bloquear novas peticións de envío de notificacións
+permissions-site-notification-disable-desc = Isto evitará que os sitios web non listados arriba soliciten enviar notificacións. O bloqueo das notificacións pode impedir algunhas características das páxinas web. 
 
 ## Site Permissions - Location
 
+permissions-site-location-window =
+    .title = Configuración - Permisos de localización
+    .style = { permissions-window.style }
+permissions-site-location-desc = Os seguintes sitios web solicitaron acceder á súa localización. Pode especificar que sitios teñen permiso para acceder á súa localización. Tamén pode bloquear novas peticións de acceso á localización.
+permissions-site-location-disable-label =
+    .label = Bloquear novas peticións de acceso á localización
+permissions-site-location-disable-desc = Isto evitará que os sitios web non listados arriba soliciten permiso de acceso á localización. Bloquear o acceso á localización pode impedir o funcionamento dalgunhas características dos sitios web.
 
 ## Site Permissions - Camera
 
+permissions-site-camera-window =
+    .title = Configuración - Permisos da cámara
+    .style = { permissions-window.style }
+permissions-site-camera-desc = Os seguintes sitios web solicitaron acceder á cámara. Pode especificar que sitios teñen permiso para acceder á cámara. Tamén pode bloquear novas peticións de acceso á cámara.
+permissions-site-camera-disable-label =
+    .label = Bloquear novas peticións de acceso á cámara
+permissions-site-camera-disable-desc = Isto evitará que os sitios web non listados arriba soliciten permiso de acceso á cámara. Bloquear o acceso á cámara pode impedir o funcionamento dalgunhas características dos sitios web.
 
 ## Site Permissions - Microphone
 
+permissions-site-microphone-window =
+    .title = Configuración - Permisos do micrófono
+    .style = { permissions-window.style }
+permissions-site-microphone-desc = Os seguintes sitios web solicitaron acceder ao micrófono. Pode especificar que sitios teñen permiso para acceder ao micrófono. Tamén pode bloquear novas peticións de acceso ao micrófono.
+permissions-site-microphone-disable-label =
+    .label = Bloquear novas solicitudes de acceso ao micrófono
+permissions-site-microphone-disable-desc = Isto evitará que os sitios web non listados arriba soliciten permiso de acceso ao micrófono. Bloquear o acceso ao micrófono pode impedir o funcionamento dalgunhas características dos sitios web.
