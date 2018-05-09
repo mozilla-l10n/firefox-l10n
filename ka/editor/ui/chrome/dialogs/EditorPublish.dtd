@@ -38,7 +38,7 @@
 <!ENTITY filenameExample.label        "მაგ,: &quot;mypage.html&quot;">
 <!ENTITY setDefaultButton.label       "მითითება როგორც ძირითადი">
 <!ENTITY setDefaultButton.accesskey   "D">
-<!ENTITY removeButton.label           "საიტის ამოღება">
+<!ENTITY removeButton.label           "საიტის მოცილება">
 <!ENTITY removeButton.accesskey       "R">
 
 <!-- Settings Tab Panel -->

@@ -18,7 +18,7 @@
 <!ENTITY addOtherAccountButton.accesskey "O">
 <!ENTITY setDefaultButton.label "მითითება როგორც ძირითადი">
 <!ENTITY setDefaultButton.accesskey "D">
-<!ENTITY removeButton.label "ანგარიშის ამოღება">
+<!ENTITY removeButton.label "ანგარიშის მოცილება">
 <!ENTITY removeButton.accesskey "R">
 
 <!-- AccountManager.xul -->

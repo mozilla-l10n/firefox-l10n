@@ -330,7 +330,7 @@
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "მონიშვნა">
 <!ENTITY structSelect.accesskey     "s">
-<!ENTITY structRemoveTag.label      "ჭდის ამოღება">
+<!ENTITY structRemoveTag.label      "ჭდის მოცილება">
 <!ENTITY structRemoveTag.accesskey  "r">
 <!ENTITY structChangeTag.label      "ჭდის შეცვლა">
 <!ENTITY structChangeTag.accesskey  "c">
@@ -340,7 +340,7 @@
 <!ENTITY insertTOC.accesskey      "i">
 <!ENTITY updateTOC.label          "განახლება">
 <!ENTITY updateTOC.accesskey      "u">
-<!ENTITY removeTOC.label          "ამოღება">
+<!ENTITY removeTOC.label          "მოცილება">
 <!ENTITY removeTOC.accesskey      "r">
 <!ENTITY tocMenu.label            "შინაარსი…">
 <!ENTITY tocMenu.accesskey        "b">

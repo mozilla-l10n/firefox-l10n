@@ -16,5 +16,5 @@
 <!ENTITY AlignCenter.label "ცენტრში">
 <!ENTITY AlignRight.label "მარჯვნივ">
 
-<!ENTITY RemoveFieldSet.label "ველების ამოღება">
+<!ENTITY RemoveFieldSet.label "ველების მოცილება">
 <!ENTITY RemoveFieldSet.accesskey "R">

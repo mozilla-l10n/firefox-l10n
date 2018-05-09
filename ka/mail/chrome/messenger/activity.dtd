@@ -22,7 +22,7 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.recover.accesskey            "v">
 <!ENTITY cmd.retry.label                  "ხელახლა">
 <!ENTITY cmd.retry.accesskey              "R">
-<!ENTITY cmd.removeFromList.label         "სიიდან ამოღება">
+<!ENTITY cmd.removeFromList.label         "სიიდან მოცილება">
 <!ENTITY cmd.removeFromList.accesskey     "e">
 
 <!ENTITY cmd.close.commandkey             "w">

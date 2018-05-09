@@ -26,7 +26,7 @@
 <!ENTITY closeConversationCmd.accesskey "C">
 <!ENTITY aliasCmd.label                "გადარქმევა">
 <!ENTITY aliasCmd.accesskey            "R">
-<!ENTITY deleteCmd.label               "კონტაქტის ამოღება">
+<!ENTITY deleteCmd.label               "კონტაქტის მოცილება">
 <!ENTITY deleteCmd.accesskey           "v">
 
 <!ENTITY openConversationButton.tooltip  "საუბრის დაწყება">

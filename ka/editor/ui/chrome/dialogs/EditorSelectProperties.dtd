@@ -40,7 +40,7 @@
 <!ENTITY AddOption.accesskey "O">
 <!ENTITY AddOptGroup.label "ჯგუფის დამატება">
 <!ENTITY AddOptGroup.accesskey "G">
-<!ENTITY RemoveElement.label "ამოღება">
+<!ENTITY RemoveElement.label "მოცილება">
 <!ENTITY RemoveElement.accesskey "R">
 <!ENTITY MoveElementUp.label "ზემოთ">
 <!ENTITY MoveElementUp.accesskey "U">

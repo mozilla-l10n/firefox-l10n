@@ -247,7 +247,6 @@
 <!ENTITY sendlaterButton.tooltip "წერილის მოგვიანებით გაგზავნა">
 <!ENTITY quoteButton.tooltip "საწყისი წერილის ციტირება">
 <!ENTITY addressButton.tooltip "ადრესატის არჩევა წიგნაკიდან">
-<!ENTITY attachButton.tooltip "წერილში ფაილის ჩართვა">
 <!ENTITY attachButton.tooltip2 "დანართის მიმაგრება">
 <!ENTITY spellingButton.tooltip "მონიშნულის ან მთელი წერილის მართლწერის შემოწმება">
 <!ENTITY saveButton.tooltip "წერილის შენახვა">
@@ -275,7 +274,6 @@
      and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
      work, as the shortcut key functionality supersedes the access key. -->
 <!ENTITY attachments.accesskey "m">
-
 <!ENTITY attachmentBucketHeader.tooltip "დანართების არე">
 <!ENTITY attachmentBucketCloseButton.tooltip "დანართების არის დამალვა">
 
@@ -320,7 +318,7 @@
 <!ENTITY openAttachment.accesskey "ა">
 <!ENTITY delete.label "წაშლა">
 <!ENTITY delete.accesskey "წ">
-<!ENTITY removeAttachment.label "დანართის ამოღება">
+<!ENTITY removeAttachment.label "დანართის მოცილება">
 <!ENTITY removeAttachment.accesskey "ღ">
 <!ENTITY renameAttachment.label "გადარქმევა…">
 <!ENTITY renameAttachment.accesskey "ე">

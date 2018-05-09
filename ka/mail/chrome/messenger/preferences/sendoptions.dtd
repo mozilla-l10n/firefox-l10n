@@ -7,7 +7,7 @@
 <!ENTITY autoDowngrade.label          "შეტყობინების გაგზავნა ჩვეულებრივი ტექსტის ფორმატში, თუ შესაძლებელია">
 <!ENTITY autoDowngrade.accesskey      "შ">
 <!ENTITY sendMaildesc.label           "როცა წერილების HTML ფორმატით გაგზავნისას ერთი ან რამდენიმე მიმღები არაა HTML წერილების მიმღებთა სიაში:">
-<!ENTITY askMe.label                  "დამეკითხე შემდეგ ქმედებას">
+<!ENTITY askMe.label                  "შკითხვა (არჩევანის შეთავაზება)">
 <!ENTITY askMe.accesskey              "k">
 <!ENTITY convertPlain.label           "წერილის ჩვეულებრივ ტექსტად გარდაქმნა">
 <!ENTITY convertPlain.accesskey       "C">

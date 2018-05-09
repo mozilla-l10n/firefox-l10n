@@ -4,7 +4,7 @@
 
 <!ENTITY dialog.title             "ხელსაწყოთა ზოლის მორგება">
 <!ENTITY dialog.dimensions        "width: 92ch; height: 36em;">
-<!ENTITY instructions.description "ელემენტების დამატება და ამოღება შეგიძლიათ ხელსაწყოთა ზოლიდან, ან ზოლში მათი გადაჩოჩებით.">
+<!ENTITY instructions.description "ელემენტების დამატება და მოცილება შეგიძლიათ ხელსაწყოთა ზოლიდან ან ზოლში მათი გადაჩოჩებით.">
 <!ENTITY show.label               "ჩვენება:">
 <!ENTITY iconsAndText.label       "ხატულები და ტექსტი">
 <!ENTITY icons.label              "ხატულები">
