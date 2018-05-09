@@ -207,6 +207,7 @@
 <!ENTITY pref_category_advanced_summary3 "Tabbladen herstellen, gegevensbesparing, ontwikkelaarshulpmiddelen">
 <!ENTITY pref_category_notifications "Notificaties">
 <!ENTITY pref_category_notifications_summary "Nieuwe functies, website-updates">
+<!ENTITY pref_category_notifications_summary2 "Nieuwe functies, producttips">
 <!ENTITY pref_developer_remotedebugging_usb "Remote debugging via USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Remote debugging via wifi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wifi-debugging vereist dat een QR-codelezer-app op uw apparaat is geïnstalleerd.">
