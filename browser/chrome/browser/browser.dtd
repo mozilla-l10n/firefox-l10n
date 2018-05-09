@@ -479,7 +479,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
      This string is displayed in the search box when the input field is empty. -->
-<!ENTITY searchInput.placeholder      "వెతుకు">
+<!ENTITY searchInput.placeholder      "వెతకండి">
 <!ENTITY searchIcon.tooltip           "వెతుకు">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
@@ -984,6 +984,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.keepButton.accesskey "K">
 <!ENTITY homepageControlled.disableButton.label "పొడగింతను అచేతనం చేయి">
 <!ENTITY homepageControlled.disableButton.accesskey "D">
+
 
 <!ENTITY pageActionButton.tooltip "పేజీ చర్యలు">
 <!ENTITY pageAction.addToUrlbar.label "చిరునామా పట్టీకి చేర్చండి">
