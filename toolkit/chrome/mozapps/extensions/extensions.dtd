@@ -5,7 +5,7 @@
 
 <!ENTITY search.placeholder2                  "addons.mozilla.org საიტზე მოძიება">
 <!ENTITY search.buttonlabel                   "ძიება">
-<!-- LOCALIZATION NOTE (search.commandKey):
+<!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
@@ -100,7 +100,7 @@
 <!ENTITY cmd.stateMenu.tooltip                "აირჩიეთ, როდის გაეშვას ეს დამატება">
 <!ENTITY cmd.installAddon.label               "ჩადგმა">
 <!ENTITY cmd.installAddon.accesskey           "ი">
-<!ENTITY cmd.uninstallAddon.label             "ამოღება">
+<!ENTITY cmd.uninstallAddon.label             "ამოშლა">
 <!ENTITY cmd.uninstallAddon.accesskey         "ა">
 <!ENTITY cmd.showPreferencesWin.label         "გამართვა">
 <!ENTITY cmd.showPreferencesWin.tooltip       "ამ დამატების პარამეტრების შეცვლა">
@@ -131,7 +131,6 @@
 <!ENTITY detail.lastupdated.label             "ბოლო განახლება">
 <!ENTITY detail.creator.label                 "შემმუშავებელი">
 <!ENTITY detail.homepage.label                "მთავარი გვერდი">
-<!ENTITY detail.numberOfDownloads.label       "ჩამოტვირთვები">
 
 <!ENTITY detail.contributions.description     "ამ დამატების შემქმნელი, პროგრამის მომავალი განვითარებისთვის, გთხოვთ მხარდაჭერას, მცირეოდენი შემოწირულობის სახით.">
 
