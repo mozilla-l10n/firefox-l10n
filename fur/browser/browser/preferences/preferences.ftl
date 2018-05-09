@@ -6,7 +6,7 @@ pref-page =
     .title =
         { PLATFORM() ->
             [windows] Opzions
-           *[other] Preferencis
+           *[other] Preferencis 
         }
 pane-general-title = Gjenerâl
 category-general =
@@ -26,6 +26,17 @@ close-button =
 ## Browser Restart Dialog
 
 should-restart-title = Torne a inviâ { -brand-short-name }
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
 
 ## Preferences UI Search Results
 
