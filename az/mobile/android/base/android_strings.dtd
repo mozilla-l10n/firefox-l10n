@@ -207,6 +207,7 @@
 <!ENTITY pref_category_advanced_summary3 "Vərəqləri bərpa et, məlumat saxlayıcısı, tərtibatçı alətləri">
 <!ENTITY pref_category_notifications "Bildirişlər">
 <!ENTITY pref_category_notifications_summary "Yeni özəlliklər, sayt yeniləmələri">
+<!ENTITY pref_category_notifications_summary2 "Yeni özəlliklər, məhsul məsləhətləri">
 <!ENTITY pref_developer_remotedebugging_usb "USB ilə məsafəli sazlama">
 <!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi ilə məsafəli sazlama">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi sazlama üçün cihazınızda QR kod oxuyucu tətbiqi qurulmalıdır.">
