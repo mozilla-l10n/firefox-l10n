@@ -803,6 +803,8 @@
 <!ENTITY pageAction.sendTabToDevice.label "Wyślij stronę na urządzenie">
 <!ENTITY sendToDevice.syncNotReady.label "Synchronizowanie urządzeń…">
 
+<!ENTITY pageAction.shareUrl.label "Udostępnij">
+
 <!ENTITY libraryButton.tooltip "Wyświetl historię, zapisane zakładki i jeszcze więcej">
 
 <!ENTITY accessibilityIndicator.tooltip "Aktywne usługi ułatwień dostępu">
