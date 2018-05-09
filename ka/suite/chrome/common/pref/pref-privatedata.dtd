@@ -13,7 +13,7 @@
 <!ENTITY alwaysClear.label                "ჩემი პირადი მონაცემების გასუფთავება ყოველთვის &brandShortName; ბრაუზერის დახურვისას">
 <!ENTITY alwaysClear.accesskey            "w">
 
-<!ENTITY askBeforeClear.label             "დამეკითხე პირადი მონაცემების გასუფთავებას">
+<!ENTITY askBeforeClear.label             "ნებართვა, პირადი მონაცემების გასუფთავებამდე">
 <!ENTITY askBeforeClear.accesskey         "k">
 
 <!ENTITY clearDataSettings.label          "&brandShortName; ბრაუზერისთვის პირადი მონაცემების გასუფთავების მოთხოვნისას წაიშალოს:">

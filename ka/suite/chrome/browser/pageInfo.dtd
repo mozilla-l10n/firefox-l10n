@@ -85,7 +85,7 @@
 <!ENTITY  permTab               "უფლებები">
 <!ENTITY  permTab.accesskey     "P">
 <!ENTITY  permUseDefault        "ნაგულისხმების გამოყენება">
-<!ENTITY  permAskAlways         "ყოველთვის დამეკითხე">
+<!ENTITY  permAskAlways         "შეკითხვა ყოველ ჯერზე">
 <!ENTITY  permAllow             "დაშვება">
 <!ENTITY  permAllowSession      "დაშვება სეანსზე">
 <!ENTITY  permBlock             "დაბლოკვა">

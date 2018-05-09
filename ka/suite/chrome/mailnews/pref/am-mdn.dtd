@@ -4,30 +4,30 @@
 
 <!ENTITY pane.title                   "მიღების დასტური">
 <!ENTITY useGlobalPrefs.label         "ამ ანგარიშისათვის ძირითადი პარამეტრების გამოყენება">
-<!ENTITY useGlobalPrefs.accesskey     "U">
-<!ENTITY globalReceipts.label         "გლობალური პარამეტრები…">
-<!ENTITY globalReceipts.accesskey     "G">
+<!ENTITY useGlobalPrefs.accesskey     "ა">
+<!ENTITY globalReceipts.label         "საერთო პარამეტრები…">
+<!ENTITY globalReceipts.accesskey     "ს">
 <!ENTITY useCustomPrefs.label         "მიღების დასტურის მორგება ამ ანგარიშისათვის">
-<!ENTITY useCustomPrefs.accesskey     "C">
+<!ENTITY useCustomPrefs.accesskey     "მ">
 <!ENTITY requestReceipt.label         "წერილის გაგზავნისას მიღების დასტურის ყოველთვის მოთხოვნა">
-<!ENTITY requestReceipt.accesskey     "W">
+<!ENTITY requestReceipt.accesskey     "წ">
 <!ENTITY receiptArrive.label          "დასტურის მოსვლისას:">
 <!ENTITY leaveIt.label                "მიღებულ წერილებში დატოვება">
-<!ENTITY leaveIt.accesskey            "I">
+<!ENTITY leaveIt.accesskey            "დ">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
-<!ENTITY moveToSent.label             "გადატანა დასტაში &quot;გასული&quot;">
-<!ENTITY moveToSent.accesskey         "M">
+<!ENTITY moveToSent.label             "გადატანა „გაგზავნილი“ წერილების საქაღლდეში">
+<!ENTITY moveToSent.accesskey         "მ">
 <!ENTITY requestMDN.label             "მიღების დასტურის მოთხოვნის მიღებისას:">
 <!ENTITY returnSome.label             "დასტურის დაბრუნება ზოგიერთ წერილზე">
-<!ENTITY returnSome.accesskey         "e">
-<!ENTITY never.label                  "დასტურის არასოდეს დაბრუნება">
-<!ENTITY never.accesskey              "N">
-<!ENTITY notInToCc.label              "თუ არ ვარ წერილის 'ვის' ან 'ასლი' ველებში:">
-<!ENTITY notInToCc.accesskey          "T">
+<!ENTITY returnSome.accesskey         "ზ">
+<!ENTITY never.label                  "დასტურის დაბრუნების გარეშე">
+<!ENTITY never.accesskey              "გ">
+<!ENTITY notInToCc.label              "თუ არ ვარ მითითებული წერილის ან მისი ასლის მიმღების ველებში:">
+<!ENTITY notInToCc.accesskey          "თ">
 <!ENTITY outsideDomain.label          "თუ გამომგზავნი ჩემი დომენიდან არაა:">
-<!ENTITY outsideDomain.accesskey      "s">
+<!ENTITY outsideDomain.accesskey      "ო">
 <!ENTITY otherCases.label             "ყველა სხვა შემთხვევაში:">
-<!ENTITY otherCases.accesskey         "o">
+<!ENTITY otherCases.accesskey         "ე">
 <!ENTITY askMe.label                  "დამეკითხე">
 <!ENTITY alwaysSend.label             "გაგზავნე ყოველთვის">
 <!ENTITY neverSend.label              "არასოდეს გაგზავნო ">
