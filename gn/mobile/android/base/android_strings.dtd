@@ -207,6 +207,7 @@
 <!ENTITY pref_category_advanced_summary3 "Tendayke mbojevy, mba\&apos;ekuaarã mo\&apos;ãha, mboguatahára rembipuru">
 <!ENTITY pref_category_notifications "Ñemomarandu">
 <!ENTITY pref_category_notifications_summary "Hesegua ipyahúva, ñanduti kuatiarogue ñembohekopyahu">
+<!ENTITY pref_category_notifications_summary2 "Tembiapoite pyahu, japopyre je’eporãva">
 <!ENTITY pref_developer_remotedebugging_usb "Ñemopotĩ okayguáva USB rupi">
 <!ENTITY pref_developer_remotedebugging_wifi "Okaygua ñemopotĩ Wi-Fi rupi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi ñemopotĩ oikotevẽ mba\&apos;e\&apos;oka mohendapyre oguerekóva ayvu QR rembipuru\&apos;i moñe\&apos;ẽha.">
@@ -543,7 +544,7 @@
 <!ENTITY pref_compact_tabs_summary2 "Tendayke ñemoĩporã mokõi yta oñemboývape">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
-     any page is removed frome about:home. This includes pages that are in history,
+     any page is removed from about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Kuatiarogue oguepyréva">
 <!ENTITY folder_removed "Ñongatuha mboguepyre">
@@ -758,7 +759,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Mbojuehe paháva: &formatS;">
-<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!-- Localization note: Used when the sync has not happened yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Mbojuehe paháva: araka\&apos;eve">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
