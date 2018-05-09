@@ -53,6 +53,12 @@ sentence. -->
 <!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
 <!ENTITY messageStyleBubblesTheme.label    "Kuplat">
 <!ENTITY messageStyleDarkTheme.label       "Tumma">
+<!ENTITY messageStylePaperSheetsTheme.label "Paperiarkit">
 <!ENTITY messageStyleSimpleTheme.label     "Yksinkertainen">
 <!ENTITY messageStyleDefaultTheme.label    "Oletus">
+<!ENTITY messageStyleVariant.label         "Muunnelma:">
+<!ENTITY messageStyleVariant.accesskey     "M">
+<!ENTITY messageStyleShowHeader.label      "Näytä otsikko">
+<!ENTITY messageStyleShowHeader.accesskey  "O">
 <!ENTITY messageStyleNoPreview.title       "Esikatselu ei ole käytettävissä">
+<!ENTITY messageStyleNoPreview.description "Tämä teema ei ole kelvollinen tai sitä ei tilapäisesti ole saatavilla (estetty liitännäinen, vikasietotila, …).">
