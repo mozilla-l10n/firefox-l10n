@@ -57,6 +57,8 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "K">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Valittu tili">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "V">
+<!ENTITY getNextNMsgCmd2.label "Lataa uudet viestit">
+<!ENTITY getNextNMsgCmd2.accesskey "L">
 <!ENTITY sendUnsentCmd.label "Lähetä lähtevät viestit">
 <!ENTITY sendUnsentCmd.accesskey "ä">
 <!ENTITY subscribeCmd.label "Tilaa…">
@@ -512,6 +514,9 @@
 <!ENTITY devtoolsMenu.accesskey "h">
 <!ENTITY devToolboxCmd.label "Kehittäjän työkalulaatikko">
 <!ENTITY devToolboxCmd.accesskey "t">
+<!ENTITY devToolboxCmd.commandkey "y">
+<!ENTITY debugAddonsCmd.label "Virheenkorjaa lisäosia">
+<!ENTITY debugAddonsCmd.accesskey "l">
 <!ENTITY errorConsoleCmd.label "Virhekonsoli">
 <!ENTITY errorConsoleCmd.accesskey "V">
 <!ENTITY errorConsoleCmd.commandkey "j">

@@ -42,3 +42,5 @@
 <!ENTITY  shareproxy.accesskey          "m">
 <!ENTITY  autologinproxy.label          "Älä pyydä tunnistautumista, jos salasana on tallennettu">
 <!ENTITY  autologinproxy.accesskey      "p">
+<!ENTITY  socksRemoteDNS.label          "Välipalvelimen DNS käytetäessä SOCKS v5:tä">
+<!ENTITY  socksRemoteDNS.accesskey      "D">
