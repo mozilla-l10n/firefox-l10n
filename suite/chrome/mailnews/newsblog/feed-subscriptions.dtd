@@ -11,7 +11,6 @@
 
 <!ENTITY feedLocation.label          "არხის URL:">
 <!ENTITY feedLocation.accesskey      "U">
-<!ENTITY feedLocation.placeholder    "მიუთითეთ დასამატებელი არხის მართებული URL">
 <!ENTITY feedLocation2.placeholder   "მიუთითეთ არხის მართებული URL">
 <!ENTITY locationValidate.label      "შემოწმება">
 <!ENTITY validateText.label          "მისამართების შემოწმების ჩართვა.">
@@ -44,7 +43,7 @@
 <!ENTITY button.verifyFeed.accesskey "მ">
 <!ENTITY button.updateFeed.label     "განახლება">
 <!ENTITY button.updateFeed.accesskey "გ">
-<!ENTITY button.removeFeed.label     "ამოღება">
+<!ENTITY button.removeFeed.label     "მოცილება">
 <!ENTITY button.removeFeed.accesskey "R">
 <!ENTITY button.importOPML.label     "იმპორტი">
 <!ENTITY button.importOPML.accesskey "I">

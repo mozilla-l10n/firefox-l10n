@@ -10,7 +10,7 @@
 <!ENTITY languages.customize.prefAddLangDescript        "სასურველი ენ(ებ)ის შერჩევა დასამატებლად.">
 <!ENTITY languages.customize.addButton.label            "დამატება...">
 <!ENTITY languages.customize.addButton.accesskey        "A">
-<!ENTITY languages.customize.deleteButton.label         "ამოღება">
+<!ENTITY languages.customize.deleteButton.label         "მოცილება">
 <!ENTITY languages.customize.deleteButton.accesskey     "R">
 <!ENTITY languages.customize.add.title.label            "ენების დამატება">
 <!ENTITY languages.customize.available.label            "ენები:">

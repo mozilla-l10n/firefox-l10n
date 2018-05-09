@@ -14,7 +14,7 @@
 <!ENTITY  up.accesskey              "U">
 <!ENTITY  dn.label                  "ჩამოტანა">
 <!ENTITY  dn.accesskey              "D">
-<!ENTITY  remove.label              "ამოღება">
+<!ENTITY  remove.label              "მოცილება">
 <!ENTITY  remove.accesskey          "R">
 <!ENTITY  edit.label                "საკვანძო სიტყვის რედაქცია…">
 <!ENTITY  edit.accesskey            "t">

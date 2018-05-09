@@ -19,14 +19,14 @@
 <!ENTITY radioAutoSend.accesskey          "დ">
 <!ENTITY radioNotSend                     "არა">
 <!ENTITY radioNotSend.accesskey           "ა">
-<!ENTITY radioAskUnsent                   "შეკითხვა, ყოველ ჯერზე">
+<!ENTITY radioAskUnsent                   "შეკითხვა ყოველ ჯერზე">
 <!ENTITY radioAskUnsent.accesskey         "ე">
 <!ENTITY textGoingOffline                 "ჩამოიტვირთოს წერილები კავშირგარეშე რეჟიმში სამუშაოდ?">
 <!ENTITY radioAutoDownload                "დიახ">
 <!ENTITY radioAutoDownload.accesskey      "დ">
 <!ENTITY radioNotDownload                 "არა">
 <!ENTITY radioNotDownload.accesskey       "ა">
-<!ENTITY radioAskDownload                 "შეკითხვა, ყოველ ჯერზე">
+<!ENTITY radioAskDownload                 "შეკითხვა ყოველ ჯერზე">
 <!ENTITY radioAskDownload.accesskey       "ე">
 <!ENTITY mailConnections.caption          "საფოსტო კავშირი">
 <!ENTITY mailnewsTimeout.label            "კავშირის ვადა:">

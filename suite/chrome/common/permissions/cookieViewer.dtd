@@ -37,9 +37,9 @@
 <!ENTITY     allowSite.accesskey            "A">
 <!ENTITY     allowSiteSession.label         "სეანსი">
 <!ENTITY     allowSiteSession.accesskey     "S">
-<!ENTITY     removepermission.label         "საიტის ამოღება">
+<!ENTITY     removepermission.label         "საიტის მოცილება">
 <!ENTITY     removepermission.accesskey     "R">
-<!ENTITY     removeallpermissions.label     "ყველა საიტის ამოღება">
+<!ENTITY     removeallpermissions.label     "ყველა საიტის მოცილება">
 <!ENTITY     removeallpermissions.accesskey "e">
 
 <!ENTITY     futureCookies.label            "ფუნთუშებამოშლილი საიტებისთვის, მომავალში ფუნთუშების ჩაწერის აკრძალვა">
