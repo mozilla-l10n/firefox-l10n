@@ -129,7 +129,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Montri ĉiujn langetojn">
 <!ENTITY showAllTabsCmd.accesskey "m">
 <!ENTITY toggleReaderMode.key "R">
-
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "Komenci seancon en &syncBrand.shortName.label;">
@@ -189,10 +188,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Aliaj legosignoj">
 <!ENTITY mobileBookmarksCmd.label "Poŝaparataj legosignoj">
 <!ENTITY bookmarksToolbarChevron.tooltip "Montri pliajn legosignojn">
-<!ENTITY showRecentlyBookmarked.label     "Montri ĵusajn legosignojn">
-<!ENTITY showRecentlyBookmarked.accesskey "M">
-<!ENTITY hideRecentlyBookmarked.label     "Kaŝi ĵusajn legosignojn">
-<!ENTITY hideRecentlyBookmarked.accesskey "K">
 
 <!ENTITY backCmd.label                "Malantaŭen">
 <!ENTITY backCmd.accesskey            "M">
@@ -234,7 +229,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Traduki tiun ĉi paĝon">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Administri tradukadon de paĝo">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Administri uzon de DRM programaro">
-
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Malfermi panelon MIDI">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Vi blokis vian filmilon por tiu ĉi retejo.">
@@ -245,7 +239,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Vi blokis la daŭran konservejon por ĉi tiu retejo.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Vi blokis ŝprucfenestrojn por tiu ĉi retejo.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Vi blokis la eltiron de datumoj el kanvaso por tiu ĉi retejo.">
-
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Vi blokis la kromprogramon Adobe Flash en tiu ĉi retejo.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Vi blokis la aliron MIDI por tiu ĉi retejo.">
 
@@ -395,7 +388,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Ĉu vi volas vidi ĉi tie viajn langetojn el aliaj aparatoj?">
-<!ENTITY appMenuRemoteTabs.openprefs.label "Preferoj de Spegulado">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Malfermi preferojn de spegulado">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Komencu seancon por vidi liston de langetoj el viaj aliaj aparatoj.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Via konto bezonas esti kontrolita.">
@@ -444,7 +436,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Serĉu ion aŭ tajpu adreson">
-<!ENTITY urlbar.placeholder3          "Tajpu retadresojn aŭ serĉotajn tekstojn ĉi tie">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Etendaĵo:">
@@ -988,14 +979,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Restartigu por ĝisdatigi &brandShorterName;">
 
-<!ENTITY newTabControlled.message "Etendaĵo ŝanĝis la paĝon, kiun vi vidas kiam vi malfermas novan langeton. Vi povas remeti viajn agordojn se vi ne volas tiun ĉi ŝanĝon.">
-
 <!ENTITY newTabControlled.header.message "Via nova langeto ŝanĝiĝis.">
 <!ENTITY newTabControlled.keepButton.label "Gardi ŝanĝojn">
 <!ENTITY newTabControlled.keepButton.accesskey "G">
-<!ENTITY newTabControlled.restoreButton.label "Remeti agordojn">
-<!ENTITY newTabControlled.restoreButton.accesskey "R">
-
 <!ENTITY newTabControlled.disableButton.label "Malaktivigi etendaĵon">
 <!ENTITY newTabControlled.disableButton.accesskey "e">
 
@@ -1005,6 +991,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.keepButton.accesskey "G">
 <!ENTITY homepageControlled.disableButton.label "Malaktivigi etendaĵon">
 <!ENTITY homepageControlled.disableButton.accesskey "M">
+
+<!ENTITY tabHideControlled.header.message "Aliri viajn kaŝitajn langetojn">
+<!ENTITY tabHideControlled.keepButton.label "Teni langetojn kaŝitaj">
+<!ENTITY tabHideControlled.keepButton.accesskey "k">
+<!ENTITY tabHideControlled.disableButton.label "Malaktivigi etendaĵon">
+<!ENTITY tabHideControlled.disableButton.accesskey "e">
 
 <!ENTITY pageActionButton.tooltip "Retpaĝaj agoj">
 <!ENTITY pageAction.addToUrlbar.label "Aldoni al adresa strio">
