@@ -20,7 +20,9 @@
 <!ENTITY aboutUrlClassifier.cacheShowEntries            "Afișează intrările">
 <!ENTITY aboutUrlClassifier.cacheEntries                "Intrări în cache">
 <!ENTITY aboutUrlClassifier.cachePrefix                 "Prefix">
+<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Expirare cache negativ">
 <!ENTITY aboutUrlClassifier.cacheFullhash               "Hash complet">
+<!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Expirare cache pozitiv">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Depanează">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Setează modulele de înregistrare în jurnal">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Setează fișierul pentru jurnalizare">
