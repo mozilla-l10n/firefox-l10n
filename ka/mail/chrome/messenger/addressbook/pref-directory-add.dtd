@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY newDirectoryTitle.label           "დასტების სერვერის პარამეტრები">
 <!ENTITY directoryName.label               "სახელი: ">
 <!ENTITY directoryName.accesskey           "n">
 <!ENTITY directoryHostname.label           "სერვერის სახელი: ">
@@ -16,7 +15,7 @@
 <!ENTITY directoryLogin.label              "მიბმა DN: ">
 <!ENTITY directoryLogin.accesskey          "i">
 <!ENTITY General.tab                       "ძირითადი">
-<!ENTITY Offline.tab                       "ავტონომიური">
+<!ENTITY Offline.tab                       "კავშირგარეშე">
 <!ENTITY Advanced.tab                      "დამატებითი">
 <!ENTITY portNumber.label                  "პორტის ნომერი: ">
 <!ENTITY portNumber.accesskey              "p">
@@ -31,7 +30,7 @@
 <!ENTITY return.label                      "არ გამოიტანო">
 <!ENTITY return.accesskey                  "r">
 <!ENTITY results.label                     "-ზე მეტი შედეგი">
-<!ENTITY offlineText.label                 "შეგიძლიათ ჩამოტვირთოთ ამ დასტის ლოკალური ასლი მასთან ავტონომიურ რეჟიმში სამუშაოდ.">
+<!ENTITY offlineText.label                 "შეგიძლიათ ჩამოტვირთოთ ამ საქაღალდის ლოკალური ასლი, მასზე კავშირგარეშე რეჟიმში სამუშაოდ.">
 <!ENTITY saslMechanism.label               "შესვლის მეთოდი: ">
 <!ENTITY saslMechanism.accesskey           "m">
 <!ENTITY saslOff.label                     "მარტივი">
@@ -39,7 +38,7 @@
 <!ENTITY saslGSSAPI.label                  "კერბეროსი (GSSAPI)">
 <!ENTITY saslGSSAPI.accesskey              "K">
 
-<!-- Localization note: this is here because the width of the dialog 
+<!-- Localization note: this is here because the width of the dialog
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.
 -->
