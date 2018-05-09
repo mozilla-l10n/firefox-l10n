@@ -435,7 +435,7 @@ containers-add-button =
 containers-preferences-button =
     .label = პარამეტრები
 containers-remove-button =
-    .label = ამოშლა
+    .label = წაშლა
 
 ## Sync Section - Signed out
 

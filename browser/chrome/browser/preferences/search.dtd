@@ -35,7 +35,7 @@
 <!ENTITY restoreDefaultSearchEngines.label     "ნაგულისხმევი საძიებო სისტემების აღდგენა">
 <!ENTITY restoreDefaultSearchEngines.accesskey "ნ">
 
-<!ENTITY removeEngine.label                    "ამოღება">
-<!ENTITY removeEngine.accesskey                "ა">
+<!ENTITY removeEngine.label                    "მოცილება">
+<!ENTITY removeEngine.accesskey                "ო">
 
 <!ENTITY findMoreSearchEngines.label           "სხვა საძიებო სისტემების მონახვა">
