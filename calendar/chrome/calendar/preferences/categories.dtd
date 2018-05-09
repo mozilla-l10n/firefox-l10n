@@ -13,7 +13,7 @@
 <!ENTITY pref.categories.edit.title "კატეგორიის რედაქტირება">
 <!ENTITY pref.categories.editButton.label "რედაქტირება…">
 <!ENTITY pref.categories.editButton.accesskey "E">
-<!ENTITY pref.categories.removeButton.label "ამოღება">
+<!ENTITY pref.categories.removeButton.label "მოცილება">
 <!ENTITY pref.categories.removeButton.accesskey "R">
 <!ENTITY pref.categories.name.label "სახელი">
 <!ENTITY pref.categories.color.label "ფერი">

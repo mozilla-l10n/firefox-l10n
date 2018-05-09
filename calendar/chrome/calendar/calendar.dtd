@@ -4,7 +4,7 @@
 
 <!-- General -->
 <!ENTITY calendar.calendar.label     "კალენდარი">
-<!ENTITY calendar.calendar.accesskey "C">
+<!ENTITY calendar.calendar.accesskey "კ">
 
 <!ENTITY calendar.newevent.button.tooltip         "ახალი ღონისძიების შექმნა" >
 <!ENTITY calendar.newtask.button.tooltip          "ახალი დავალების შექმნა" >
@@ -178,8 +178,6 @@
 <!ENTITY calendar.context.attendance.menu.label                 "დამსწრეები">
 <!ENTITY calendar.context.attendance.menu.accesskey             "d">
 <!ENTITY calendar.context.attendance.occurrence.label           "ჩატარების თარიღი">
-<!ENTITY calendar.context.attendance.all.label        "განმეორებითი ჩატარების ყველა თარიღი" >
-
 <!ENTITY calendar.context.attendance.all2.label                 "სრული რიგი">
 <!ENTITY calendar.context.attendance.send.label                 "შეტყობინება ახლავე">
 <!ENTITY calendar.context.attendance.send.accesskey             "შ">
@@ -276,7 +274,7 @@
       calendar is the general action of removing it, while deleting means to
       clear the data and unsubscribing means just taking it out of the calendar
       list. -->
-<!ENTITY calendar.context.removeserver.label           "კალენდრის ამოღება…">
+<!ENTITY calendar.context.removeserver.label           "კალენდრის მოცილება…">
 <!ENTITY calendar.context.removeserver.accesskey       "მ">
 <!ENTITY calendar.context.unsubscribeserver.label      "კალენდრის გამოწერის გაუქმება…">
 <!ENTITY calendar.context.unsubscribeserver.accesskey  "უ">
@@ -366,7 +364,7 @@
 <!ENTITY calendarproperties.firealarms.label               "შეხსენებათა ჩვენება">
 <!ENTITY calendarproperties.cache3.label                   "ბუფერიზაცია">
 <!ENTITY calendarproperties.enabled.label                  "ამ კალენდრის ჩართვა">
-<!ENTITY calendarproperties.forceDisabled.label            "ამ კალენდრის პროვაიდერი ვერ მოიძებნა. ხშირად ეს თქვენს მიერ გარკვეული პაკეტების ამოღების ან ამორთვის შემთხვევაში ხდება.">
+<!ENTITY calendarproperties.forceDisabled.label            "ამ კალენდრისთვის მომწოდებელი ვერ მოიძებნა. ხშირად, ეს თქვენ მიერ გარკვეული დამატებების წაშლის ან ამორთვის შემთხვევაში ხდება.">
 <!ENTITY calendarproperties.unsubscribe.label              "ხელმოწერის გაუქმება">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "U">
 
