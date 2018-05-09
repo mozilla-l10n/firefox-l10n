@@ -37,12 +37,12 @@
 <!ENTITY folderCheckForNewMessages2.label         "ამ დასტის ახალ წერილებზე შემოწმება">
 <!ENTITY folderCheckForNewMessages2.accesskey     "c">
 
-<!ENTITY offlineFolder.check.label               "დასტის არჩევა ავტონომიური მოხმარებისათვის">
+<!ENTITY offlineFolder.check.label               "საქაღალდის არჩევა კავშირგარეშე გამოყენებისთვის">
 <!ENTITY offlineFolder.check.accesskey           "S">
 <!ENTITY offlineFolder.button.label              "გადმოწერა ახლავე">
 <!ENTITY offlineFolder.button.accesskey          "D">
 
-<!ENTITY selectofflineNewsgroup.check.label      "ჯგუფის არჩევა ავტონომიური მოხმარებისათვის">
+<!ENTITY selectofflineNewsgroup.check.label      "ჯგუფის არჩევა კავშირგარეშე გამოყენებისთვის">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "o">
 <!ENTITY offlineNewsgroup.button.label           "გადმოწერა ახლავე">
 <!ENTITY offlineNewsgroup.button.accesskey       "D">

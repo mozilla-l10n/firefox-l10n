@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
+<!-- extracted from MsgSynchronize.xul and msgSelectOfflineFolders.xul-->
 
 <!ENTITY MsgSynchronize.label "წერილების გადმოწერა და სინქრონიზება">
-<!ENTITY MsgSelect.label "ელემენტები ავტონომიური მოხმარებისათვის">
+<!ENTITY MsgSelect.label "ელემენტები კავშირგარეშე მოხმარებისათვის">
 <!ENTITY MsgSyncDesc.label "თუ უკვე არჩეული გაქვთ წერილების დასტები ან ჯგუფები ავტონომიური მოხმარებისათვის, შეგიძლიათ მათი გადმოწერა და/ან სინქრონიზება. სხავ შემთხვევაში გამოიყენეთ ღილაკი &quot;არჩევა&quot; დასტებისა და ჯგუფების მისათითებლად.">
 <!ENTITY MsgSyncDirections.label "წერილების გადმოწერა და/ან სინქრონიზება:">
 <!ENTITY syncTypeMail.label "წერილები">
