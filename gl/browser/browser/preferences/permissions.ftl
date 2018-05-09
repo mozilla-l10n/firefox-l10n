@@ -44,12 +44,21 @@ permissions-invalid-uri-label = Introduza un nome de servidor válido
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = Excepcións - Protección contra o seguimento
+    .style = { permissions-window.style }
 
 ## Exceptions - Cookies
 
+permissions-exceptions-cookie-window =
+    .title = Excepcións - Cookies e datos do sitio
+    .style = { permissions-window.style }
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-window =
+    .title = Sitios web permitidos - Xanelas emerxentes
+    .style = { permissions-window.style }
 permissions-exceptions-popup-desc = Pode especificar que sitios web teñen permiso para abrir xanelas emerxentes. Escriba o enderezo exacto do sitio e despois prema Permitir.
 
 ## Exceptions - Saved Logins
@@ -61,6 +70,9 @@ permissions-exceptions-saved-logins-desc = Non se gardarán as identificacións 
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-window =
+    .title = Sitios web permitidos - Instalación de complementos
+    .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Pode especificar que sitios web teñen permiso para instalar complementos. Escriba o enderezo exacto do sitio e despois prema Permitir.
 
 ## Site Permissions - Notifications
