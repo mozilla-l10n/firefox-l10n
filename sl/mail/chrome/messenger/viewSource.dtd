@@ -36,10 +36,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY textEnlarge.commandkey "+">
 <!ENTITY textEnlarge.commandkey2 "=">
+<!ENTITY textEnlarge.commandkey3 "">
 <!ENTITY textReduce.commandkey "-">
+<!ENTITY textReduce.commandkey2 "">
 <!ENTITY textReset.commandkey "0">
+<!ENTITY textReset.commandkey2 "">
 
 <!ENTITY goToLineCmd.label "Pojdi v vrstico …">
+<!ENTITY goToLineCmd.accesskey "j">
+<!ENTITY goToLineCmd.commandkey "l">
 
 <!ENTITY viewMenu.label           "Pogled">
 <!ENTITY viewMenu.accesskey       "P">
@@ -49,6 +54,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_wrapLongLines.title "Prelomi dolge vrstice">
 <!ENTITY menu_wrapLongLines.accesskey "l">
 <!ENTITY menu_highlightSyntax.label "Označevanje skladnje">
+<!ENTITY menu_highlightSyntax.accesskey "z">
 <!ENTITY menu_textSize.label "Velikost besedila">
 <!ENTITY menu_textSize.accesskey "V">
 <!ENTITY menu_textEnlarge.label "Povečaj">
@@ -65,6 +71,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.accesskey "j">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY backCmd.label "Nazaj">
 <!ENTITY backCmd.accesskey "z">

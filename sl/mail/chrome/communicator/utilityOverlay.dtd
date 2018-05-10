@@ -52,7 +52,7 @@
 <!ENTITY quitApplicationCmd.accesskey  "h">
 
 <!ENTITY quitApplicationCmdUnix.label  "Končaj">
-<!ENTITY quitApplicationCmdUnix.accesskey  "h">
+<!ENTITY quitApplicationCmdUnix.accesskey  "K">
 
 <!ENTITY quitApplicationCmdMac.label  "Zapri &brandShortName;">
 <!ENTITY quitApplicationCmdMac.accesskey  "Z">

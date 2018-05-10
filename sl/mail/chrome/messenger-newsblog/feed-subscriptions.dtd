@@ -10,8 +10,7 @@
 <!ENTITY feedTitle.accesskey         "N">
 
 <!ENTITY feedLocation.label          "Spletni naslov vira:">
-<!ENTITY feedLocation.accesskey      "U">
-<!ENTITY feedLocation.placeholder    "Vnesite veljaven spletni naslov vira za dodajanje">
+<!ENTITY feedLocation.accesskey      "v">
 <!ENTITY feedLocation2.placeholder   "Vnesite veljaven spletni naslov vira">
 <!ENTITY locationValidate.label      "Preveri">
 <!ENTITY validateText.label          "Preveri veljavnost in pridobi veljaven spletni naslov.">
