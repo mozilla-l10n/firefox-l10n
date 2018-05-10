@@ -42,7 +42,7 @@ policies-notice =
         [windows] თქვენს ორგანიზაციას შეზღუდული აქვს გარკვეული პარამეტრების შეცვლის შესაძლებლობა.
        *[other] თქვენს ორგანიზაციას შეზღუდული აქვს გარკვეული პარამეტრების შეცვლის შესაძლებლობა.
     }
-pane-general-title = მთავარი 
+pane-general-title = მთავარი
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = საწყისი გვერდი
