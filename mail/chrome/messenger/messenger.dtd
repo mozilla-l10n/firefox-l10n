@@ -36,6 +36,10 @@
 <!ENTITY newFeedAccountCmd.accesskey "v">
 <!ENTITY newIMContactCmd.label "Stik za klepet …">
 <!ENTITY newIMContactCmd.accesskey "z">
+<!ENTITY  newMessageCmd.label "Sporočilo">
+<!ENTITY  newMessageCmd.accesskey "S">
+<!ENTITY  newContactCmd.label "Stik iz imenika …">
+<!ENTITY  newContactCmd.accesskey "t">
 <!ENTITY openMessageFileCmd.label "Odpri shranjeno sporočilo …">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY saveAsMenu.label "Shrani kot">

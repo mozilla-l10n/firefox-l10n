@@ -27,7 +27,12 @@
 <!ENTITY FaxNumber.label                       "Faks">
 <!ENTITY FaxNumber.accesskey                   "F">
 <!ENTITY HomePhone.label                       "Telefon doma">
+<!ENTITY HomePhone.accesskey                   "a">
 <!ENTITY WorkPhone.label                       "Telefon v službi">
+<!ENTITY WorkPhone.accesskey                   "ž">
 <!ENTITY ChatName.label                        "Ime za klepet">
+<!ENTITY ChatName.accesskey                    "k">
 <!ENTITY sortAscending.label                   "Naraščajoče">
+<!ENTITY sortAscending.accesskey               "N">
 <!ENTITY sortDescending.label                  "Padajoče">
+<!ENTITY sortDescending.accesskey              "č">
