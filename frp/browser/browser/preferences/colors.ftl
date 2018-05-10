@@ -6,3 +6,6 @@ colors-page-override-option-always =
     .label = Tojòrn
 colors-page-override-option-never =
     .label = Jamés
+colors-text-and-background = Tèxto et fond
+colors-text-header = Tèxto
+    .accesskey = T

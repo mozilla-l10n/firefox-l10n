@@ -95,6 +95,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!-- Toolbar items -->
+<!ENTITY homeButton.label             "Reçua">
 
 
 <!ENTITY viewBookmarksSidebar2.label        "&amp;Bârra de mârca pâges">

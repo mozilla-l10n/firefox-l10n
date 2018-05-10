@@ -4,6 +4,19 @@
 
 do-not-track-option-always =
     .label = Tojòrn
+category-general =
+    .tooltiptext = { pane-general-title }
+pane-home-title = Reçua
+category-home =
+    .tooltiptext = { pane-home-title }
+category-search =
+    .tooltiptext = { pane-search-title }
+category-privacy =
+    .tooltiptext = { pane-privacy-title }
+category-sync =
+    .tooltiptext = { pane-sync-title }
+close-button =
+    .aria-label = Sarrar
 
 ## Browser Restart Dialog
 
@@ -28,6 +41,10 @@ cancel-no-restart-button = Anular
 always-check-default =
     .label = Tojòrn vèrifiar que { -brand-short-name } est lo navìgatòr prèsèlèccionâ
     .accesskey = T
+home-page-header = Pâge de reçua
+browser-containers-settings =
+    .label = Règllajos...
+    .accesskey = R
 
 ## General Section - Language & Appearance
 
@@ -53,6 +70,10 @@ browsing-title = Navìgacion
 
 ## Home Section - Home Page Customization
 
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Reçua de Firefox
 
 ## Search Section
 
@@ -85,6 +106,9 @@ sync-device-name-cancel =
 
 ## Privacy Section - History
 
+history-clear-on-close-settings =
+    .label = Règllajos
+    .accesskey = R
 
 ## Privacy Section - Site Data
 
@@ -107,6 +131,18 @@ tracking-mode-never =
 
 ## Privacy Section - Permissions
 
+permissions-location-settings =
+    .label = Règllajos
+    .accesskey = R
+permissions-camera-settings =
+    .label = Règllajos
+    .accesskey = R
+permissions-microphone-settings =
+    .label = Règllajos
+    .accesskey = R
+permissions-notification-settings =
+    .label = Règllajos
+    .accesskey = R
 
 ## Privacy Section - Data Collection
 

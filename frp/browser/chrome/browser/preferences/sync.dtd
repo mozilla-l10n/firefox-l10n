@@ -8,8 +8,10 @@
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, used as the checkbox which indicates if prefs are synced
 -->
+<!ENTITY engine.prefsWin.label      "Opcions">
 
 <!-- Device Settings -->
+<!ENTITY fxaSyncDeviceName.label       "Nom de l’aparèly">
 <!ENTITY cancelChangeSyncDeviceName.label "Anular">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "A">
 
@@ -33,6 +35,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY cancelSetup.accesskey        "A">
 
 
+<!ENTITY signedIn.settings.label       "Règllajos de Sync">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.

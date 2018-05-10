@@ -34,8 +34,10 @@
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
 <!-- detail view -->
+<!ENTITY detail.homepage.label                "Pâge de reçua">
 
 
+<!ENTITY detail.home                          "Pâge de reçua">
 
 
 
@@ -47,6 +49,7 @@
 
 <!-- list sorting -->
 
+<!ENTITY addon.homepage                       "Pâge de reçua">
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->

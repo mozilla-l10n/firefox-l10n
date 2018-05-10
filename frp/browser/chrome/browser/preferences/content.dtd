@@ -5,38 +5,17 @@
 
 
 
+<!ENTITY  notificationSettingsButton.label                      "Règllajos…">
+<!ENTITY  notificationSettingsButton.accesskey                  "R">
 
+<!ENTITY  locationSettingsButton.label                          "Règllajos…">
+<!ENTITY  locationSettingsButton.accesskey                      "R">
 
+<!ENTITY  cameraSettingsButton.label                            "Règllajos…">
+<!ENTITY  cameraSettingsButton.accesskey                        "R">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY  microphoneSettingsButton.label                        "Règllajos…">
+<!ENTITY  microphoneSettingsButton.accesskey                    "R">
 
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
@@ -46,7 +25,3 @@
   -  browser/translation.dtd
   -->
 <!ENTITY translation.options.attribution.afterLogo "">
-
-
-
-

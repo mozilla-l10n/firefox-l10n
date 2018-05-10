@@ -60,3 +60,9 @@ containers-icon-briefcase =
 # so don't change to local currency. See Bug 1291672.
 containers-icon-dollar =
     .label = Sìnyo Dolar
+containers-icon-circle =
+    .label = Puent
+containers-icon-fruit =
+    .label = Fruta
+containers-icon-tree =
+    .label = Âbro

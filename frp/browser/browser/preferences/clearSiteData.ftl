@@ -10,3 +10,6 @@ clear-site-data-close-key =
 clear-site-data-cancel =
     .label = Anular
     .accesskey = A
+clear-site-data-clear =
+    .label = Viudar
+    .accesskey = V
