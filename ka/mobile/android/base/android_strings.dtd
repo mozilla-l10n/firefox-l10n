@@ -461,7 +461,7 @@
 <!ENTITY share_image_failed "ამ გამოსახულების გაზიარება ვერ ხერხდება">
 <!ENTITY save_as_pdf "შენახვა PDF ფორმატში">
 <!ENTITY print "დაბეჭდვა">
-<!ENTITY view_page_source "გვერდის წყაროს ჩვენება">
+<!ENTITY view_page_source "გვერდის წყარო">
 <!ENTITY find_in_page "პოვნა გვერდზე">
 <!ENTITY desktop_mode "საიტის სრული ვერსია">
 <!ENTITY page "გვერდი">
@@ -510,7 +510,7 @@
      just "Pin Site" or "Unpin Site" would mean. -->
 <!ENTITY contextmenu_pin_to_top_sites "რჩეულებში დამატება">
 <!ENTITY contextmenu_unpin_from_top_sites "რჩეული საიტებიდან მოცილება">
-<!ENTITY contextmenu_add_search_engine "საძიებო სისტემის დამატება">
+<!ENTITY contextmenu_add_search_engine "საძიებოს დამატება">
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
      after the user pins/unpins the currently displayed page from top sites. -->
