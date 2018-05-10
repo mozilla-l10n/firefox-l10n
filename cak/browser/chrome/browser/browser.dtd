@@ -994,6 +994,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY tabHideControlled.header.message "">
 <!ENTITY tabHideControlled.keepButton.label "Ke’ewäx ri Ewan taq Ruwi’">
+<!ENTITY tabHideControlled.keepButton.accesskey "K">
 <!ENTITY tabHideControlled.disableButton.label "Tichup ri K'amal">
 <!ENTITY tabHideControlled.disableButton.accesskey "T">
 
