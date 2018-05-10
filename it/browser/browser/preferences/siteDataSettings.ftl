@@ -27,6 +27,7 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Salva modifiche
     .accesskey = S
+site-usage-persistent = { site-usage-pattern } (Persistent)
 
 ## Removing
 
