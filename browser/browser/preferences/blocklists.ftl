@@ -27,3 +27,4 @@ blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-name = Disconnect.me grundlæggende beskyttelse (anbefalet).
 blocklist-item-moz-std-desc = Tillader nogle sporings-elementer, så websteder fungerer som de skal.
 blocklist-item-moz-full-name = Disconnect.me striks beskyttelse.
+blocklist-item-moz-full-desc = Blokerer kendte sporings-elementer. Nogle websteder fungerer måske ikke som de skal.
