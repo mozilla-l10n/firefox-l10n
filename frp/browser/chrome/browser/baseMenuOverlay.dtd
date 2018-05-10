@@ -28,9 +28,6 @@
 <!ENTITY helpSafeMode.stop.label       "Renrayér aglètons acitvâs…">
 <!ENTITY helpSafeMode.stop.accesskey   "R">
 
-<!ENTITY healthReport2.label      "Bilan de santâ de &brandShorterName;">
-<!ENTITY healthReport2.accesskey  "B">
-
 <!ENTITY helpTroubleshootingInfo.label      "Enformacions de dèpanajo">
 <!ENTITY helpTroubleshootingInfo.accesskey  "E">
 
@@ -45,7 +42,9 @@
 
 <!ENTITY servicesMenuMac.label          "Sèrviços">
 
+<!ENTITY hideThisAppCmdMac2.label       "Recondre &brandShorterName;">
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
-
-
+<!ENTITY hideOtherAppsCmdMac.label      "Recondre los âtros">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 

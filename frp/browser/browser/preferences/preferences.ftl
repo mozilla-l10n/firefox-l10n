@@ -47,15 +47,23 @@ browsing-title = Navìgacion
 
 ## Search Section
 
+search-remove-engine =
+    .label = Garar
+    .accesskey = G
 
 ## Containers Section
 
+containers-remove-button =
+    .label = Garar
 
 ## Sync Section - Signed out
 
 
 ## Sync Section - Signed in
 
+sync-remove-account =
+    .label = Garar lo contyo
+    .accesskey = G
 
 ## Privacy Section
 
