@@ -138,8 +138,8 @@
 
 <!ENTITY settings "პარამეტრები">
 <!ENTITY settings_title "პარამეტრები">
-<!ENTITY pref_category_general "ზოგადი">
-<!ENTITY pref_category_general_summary3 "მთავარი, ენა, ჩანართების რიგი">
+<!ENTITY pref_category_general "მთავარი">
+<!ENTITY pref_category_general_summary3 "საწყისი გვერდი, ენა, ჩანართების რიგი">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -243,7 +243,7 @@
 <!ENTITY home_homepage_hint_user_address "შეიყვანეთ მისამართი ან საძიებო ტერმინი">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
-<!ENTITY pref_header_general "საერთო">
+<!ENTITY pref_header_general "მთავარი">
 <!ENTITY pref_header_search "ძიება">
 <!ENTITY pref_header_privacy_short "პირადულობა">
 <!ENTITY pref_header_accessibility "დამხმარე საშუალებები">
