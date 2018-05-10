@@ -20,3 +20,24 @@
 
 <!ENTITY finishpage.shortdescription  "Awitay yettwarna" >
 <!ENTITY finishpage.longdescription   "Awitay-inek yettwarna." >
+
+<!-- Below are new strings for the revised new calendar dialog. The above strings should be
+    removed/renamed later on -->
+
+<!ENTITY sourcetabs.other.label  "Wiyaḍ">
+
+<!ENTITY buttons.create.label "rnu awitay">
+<!ENTITY buttons.create.accesskey "r">
+
+<!ENTITY buttons.find.label "Af-d iwitayen">
+<!ENTITY buttons.find.accesskey "w">
+
+<!ENTITY buttons.back.label "Ɣer deffir">
+<!ENTITY buttons.back.accesskey "d">
+
+<!ENTITY buttons.subscribe.label "Jerred">
+<!ENTITY buttons.subscribe.accesskey "J">
+
+<!ENTITY calendartype.label "Anaw n uwitay:">
+
+
