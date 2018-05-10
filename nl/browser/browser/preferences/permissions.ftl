@@ -40,6 +40,8 @@ permissions-capabilities-allow =
     .label = Toestaan
 permissions-capabilities-block =
     .label = Blokkeren
+permissions-capabilities-prompt =
+    .label = Altijd vragen
 
 ## Invalid Hostname Dialog
 
