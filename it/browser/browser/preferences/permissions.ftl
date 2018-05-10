@@ -36,8 +36,12 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = Cerca sito web
+permissions-capabilities-allow =
+    .label = Consenti
 permissions-capabilities-block =
     .label = Blocca
+permissions-capabilities-prompt =
+    .label = Chiedi sempre
 
 ## Invalid Hostname Dialog
 
