@@ -145,3 +145,12 @@
 <!ENTITY GenericPhoto.accesskey         "g">
 <!ENTITY DefaultPhoto.label             "Amezwer">
 <!ENTITY PhotoFile.label                "Ɣef uselkim-agi">
+<!ENTITY PhotoFile.accesskey            "k">
+<!ENTITY BrowsePhoto.label              "Snirem">
+<!ENTITY BrowsePhoto.accesskey          "s">
+<!ENTITY PhotoURL.label                 "Di web">
+<!ENTITY PhotoURL.accesskey             "b">
+<!ENTITY PhotoURL.placeholder           "Senteḍ neɣ sekcem tansa web neɣ tawlaft">
+<!ENTITY UpdatePhoto.label              "Leqqem">
+<!ENTITY UpdatePhoto.accesskey          "q">
+<!ENTITY PhotoDropTarget.label          "Zuɣer-d tawlaft tamaynut ar da">

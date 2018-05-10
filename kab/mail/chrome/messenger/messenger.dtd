@@ -36,6 +36,12 @@
 <!ENTITY newFeedAccountCmd.accesskey "m">
 <!ENTITY newIMContactCmd.label "Anermisn udiwenni usrid…">
 <!ENTITY newIMContactCmd.accesskey "d">
+<!ENTITY  newMessageCmd2.key "m">
+<!ENTITY  newMessageCmd.key "M">
+<!ENTITY  newMessageCmd.label "Izen">
+<!ENTITY  newMessageCmd.accesskey "z">
+<!ENTITY  newContactCmd.label "Anermis n imedlis n tensa…">
+<!ENTITY  newContactCmd.accesskey "n">
 <!ENTITY openMessageFileCmd.label "Ldi izen ikelsen…">
 <!ENTITY openMessageFileCmd.accesskey "L">
 <!ENTITY saveAsMenu.label "Sekles s yisem">
@@ -317,7 +323,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Adiwenni usrid">
 <!ENTITY goChatCmd.accesskey "w">
-<!ENTITY goChatCmd.key "I">
 <!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Izen s yetran">
 <!ENTITY prevStarredMsgCmd.accesskey "e">
@@ -510,8 +515,6 @@
 <!ENTITY devToolboxCmd.label "Ifecka n tneflit">
 <!ENTITY devToolboxCmd.accesskey "k">
 <!ENTITY devToolboxCmd.commandkey "i">
-<!ENTITY addonDebugCmd.label "Tamseɣtayt n izegrar">
-<!ENTITY addonDebugCmd.accesskey "ɣ">
 <!ENTITY debugAddonsCmd.label "Izegrar n tseɣtit">
 <!ENTITY debugAddonsCmd.accesskey "A">
 <!ENTITY tabsDebugCmd.label "Tamseɣtayt n ukatar n ugbur">
@@ -646,6 +649,7 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Rems-ed iznan">
 <!ENTITY folderContextGetMessages.accesskey "R">
+<!ENTITY folderContextMarkAllFoldersRead.label "Cṛeḍ akk ikaramen yettwaɣran">
 <!ENTITY folderContextPauseAllUpdates.label "Serǧu akk ileqman">
 <!ENTITY folderContextPauseUpdates.label "Serǧu ileqman">
 <!ENTITY folderContextPauseUpdates.accesskey "s">
@@ -871,7 +875,7 @@
   -->
 <!ENTITY quickSearchCmd.key "k">
 <!-- LOCALIZATION NOTE (search.label.base1):
-      This is the base of the empty text for the global search box. We replace
+     This is the base of the empty text for the global search box. We replace
      #1 with the contents of the appropriate search.keyLabel.* value for the
      platform.
      The goal is to convey to the user that typing in the box will allow them

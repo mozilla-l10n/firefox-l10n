@@ -2,6 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  windowClose.key                  "m">
+<!ENTITY  preferencesDefaultTitleMac.title "Ismenyifen">
+<!ENTITY  preferencesDefaultTitleWin.title "Iγewwaṛen">
+<!ENTITY  preferencesCloseButton.label     "Mdel">
+<!ENTITY  preferencesCloseButton.accesskey "M">
+
 <!ENTITY  prefWindow.titleWin     "Iɣewwaṛen">
 <!ENTITY  prefWindow.titleGNOME   "Ismenyifen n &brandShortName;">
 <!ENTITY  prefWindow.titleMAC     "Ismenyifen">

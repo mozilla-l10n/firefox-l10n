@@ -88,6 +88,17 @@
 <!ENTITY reorderAttachmentsCmd.label "Ales asmizzwer n ifuyla yeddan…">
 <!ENTITY reorderAttachmentsCmd.accesskey "s">
 <!ENTITY reorderAttachmentsCmd.key "x">
+<!ENTITY toggleAttachmentPaneCmd.label "Agalis n yifuyla yeddan">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
+     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
+     as attachments.accesskey. -->
+<!ENTITY toggleAttachmentPaneCmd.accesskey "f">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
+     With OS-specific access modifier, this defines the shortcut key for showing/
+     hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
+     toggleAttachmentPaneCmd.key and attachments.accesskey must be the same
+     for the bucket view state machinery to work. -->
+<!ENTITY toggleAttachmentPaneCmd.key "f">
 <!ENTITY selectAllCmd.label "Fren Imaṛṛa">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "I">
@@ -109,26 +120,10 @@
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Smizwer imeddayen">
 <!ENTITY moveAttachmentTopPanelBtn.label "Senkez s afella">
-<!ENTITY moveAttachmentTopPanelBtn.accesskey "T">
 <!ENTITY moveAttachmentUpPanelBtn.label "Ali">
-<!ENTITY moveAttachmentUpPanelBtn.accesskey "U">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Senkez akk">
-<!ENTITY moveAttachmentBundleUpPanelBtn.accesskey "v">
 <!ENTITY moveAttachmentDownPanelBtn.label "Ader">
-<!ENTITY moveAttachmentDownPanelBtn.accesskey "D">
 <!ENTITY moveAttachmentBottomPanelBtn.label "Senkez s adda">
-<!ENTITY moveAttachmentBottomPanelBtn.accesskey "B">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.label):
-     Please ensure that this translation matches
-     sortAttachmentsTogglePanelBtn.ZA.label, except for the sort direction. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.label "Smizzwer tafrant: A - Z">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.accesskey):
-     This accesskey should be the same like
-     sortAttachmentsTogglePanelBtn.ZA.accesskey, and it should be taken from
-     the "Sort Selection:" part of the label, not from the sort direction part. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.accesskey "o">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.label "Smizzwer tafrant: Z - A">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.accesskey "o">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -252,7 +247,7 @@
 <!ENTITY sendlaterButton.tooltip "Azen izen-agi ticki">
 <!ENTITY quoteButton.tooltip "Bder-d izen yezrin">
 <!ENTITY addressButton.tooltip "Fren aɣerwaḍ seg imedlis n tensa">
-<!ENTITY attachButton.tooltip "Seddu amedday">
+<!ENTITY attachButton.tooltip2 "Rnu afaylu">
 <!ENTITY spellingButton.tooltip "Seɣti taɣdira n ufran neɣ izen imeṛṛa">
 <!ENTITY saveButton.tooltip "Sekles izen-agi">
 <!ENTITY cutButton.tooltip              "Gzem">
@@ -274,9 +269,13 @@
 <!ENTITY followupAddr.label "Seḍfer-I:">
 <!ENTITY subject.label "Asentel:">
 <!ENTITY subject.accesskey "A">
-<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
-     to the strings in attachmentCount in composeMsgs.properties -->
+<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
+     be taken from the strings in attachmentCount in composeMsgs.properties,
+     and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
+     work, as the shortcut key functionality supersedes the access key. -->
 <!ENTITY attachments.accesskey "m">
+<!ENTITY attachmentBucketHeader.tooltip "Agalis n yifuyla yeddan">
+<!ENTITY attachmentBucketCloseButton.tooltip "Ffer agalis n yifuyla yeddan">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Ger udem n ucmumeḥ">
@@ -314,6 +313,7 @@
 <!ENTITY pasteQuote.label "Sented am ubder">
 <!ENTITY pasteQuote.accesskey "b">
 
+<!-- Attachment Item and List Context Menus -->
 <!ENTITY openAttachment.label "Ldi">
 <!ENTITY openAttachment.accesskey "L">
 <!ENTITY delete.label "Kkes">
@@ -324,6 +324,8 @@
 <!ENTITY renameAttachment.accesskey "n">
 <!ENTITY reorderAttachments.label "Smizwer imeddayen…">
 <!ENTITY reorderAttachments.accesskey "s">
+<!ENTITY removeAllAttachments.label "Kkes akk ifuyla yeddan">
+<!ENTITY removeAllAttachments.accesskey "d">
 <!ENTITY selectAll.label "Fren Imaṛṛa">
 <!ENTITY selectAll.accesskey "I">
 <!ENTITY attachFile.label "Seddu afaylu (i-a)…">
@@ -338,6 +340,13 @@
 <!ENTITY convertRegularAttachment.accesskey "d">
 <!ENTITY attachPage.label "Seddu asebter Web…">
 <!ENTITY attachPage.accesskey "W">
+
+<!-- Attachment Pane Header Bar Context Menu -->
+<!-- LOCALIZATION NOTE (initiallyShowAttachmentPane.label):
+     Should use the same wording as startExpandedCmd.label
+     in msgHdrViewOverlay.dtd. -->
+<!ENTITY initiallyShowAttachmentPane.label "Sken di tazwara agalis n yifuyla yeddan">
+<!ENTITY initiallyShowAttachmentPane.accesskey "s">
 
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Rnu imawalen...">
