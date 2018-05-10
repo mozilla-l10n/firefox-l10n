@@ -21,6 +21,13 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "संस्करण">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.securitySoftwareTitle "सुरक्षा सफ्टवेयर">
+<!ENTITY aboutSupport.securitySoftwareType "प्रकार">
+<!ENTITY aboutSupport.securitySoftwareName "नाम">
+<!ENTITY aboutSupport.securitySoftwareAntivirus "एन्टिवायरस">
+<!ENTITY aboutSupport.securitySoftwareAntiSpyware "एन्टिस्पायवेयर">
+<!ENTITY aboutSupport.securitySoftwareFirewall "फायरवाल">
+
 <!ENTITY aboutSupport.featuresTitle "&brandShortName; विशेषताहरु">
 <!ENTITY aboutSupport.featureName "नाम">
 <!ENTITY aboutSupport.featureVersion "संस्करण">
@@ -67,6 +74,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "बहुप्रक्रिया सञ्झ्यालहरू">
 
 <!ENTITY aboutSupport.appBasicsProcessCount "वेब सामग्री प्रक्रियाहरू">
+
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Google कुञ्जी">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla स्थान सेवा कुञ्जी">
@@ -151,3 +159,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "च्यानलहरू">
 <!ENTITY aboutSupport.mediaDeviceRate "दर">
 <!ENTITY aboutSupport.mediaDeviceLatency "विलम्बता">
+
+<!ENTITY aboutSupport.intlAppTitle "एप्लिकेसन सेटिङहरू">
