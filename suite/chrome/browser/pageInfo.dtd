@@ -23,7 +23,7 @@
 <!ENTITY  openInNewWindow.accesskey "W">
 
 <!ENTITY  generalTab            "ძირითადი">
-<!ENTITY  generalTab.accesskey  "G">
+<!ENTITY  generalTab.accesskey  "რ">
 <!ENTITY  generalURL            "მისამართი:">
 <!ENTITY  generalType           "ტიპი:">
 <!ENTITY  generalMode           "ასახვის რეჟიმი:">
@@ -35,7 +35,7 @@
 <!ENTITY  generalMetaName       "სახელი">
 <!ENTITY  generalMetaContent    "შიგთავსი">
 <!ENTITY  generalSecurityDetails           "დაწვრილებით">
-<!ENTITY  generalSecurityDetails.accesskey "D">
+<!ENTITY  generalSecurityDetails.accesskey "დ">
 
 <!ENTITY  formsTab              "ფორმები">
 <!ENTITY  formsTab.accesskey    "F">
