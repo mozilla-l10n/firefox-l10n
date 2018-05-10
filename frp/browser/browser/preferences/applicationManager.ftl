@@ -6,8 +6,8 @@ app-manager-window =
     .title = Dètalys de l’aplicacion
     .style = width: 30em; min-height: 20em;
 app-manager-remove =
-    .label = Recondre
-    .accesskey = R
+    .label = Garar
+    .accesskey = G
 app-manager-handle-webfeeds = Les aplicacions suiventes pôvont è‛tre utilisâyes pèr los flus de malyâjo.
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
