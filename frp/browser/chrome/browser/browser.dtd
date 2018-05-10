@@ -348,8 +348,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+<!ENTITY updateAvailable.cancelButton.label "Pas ôra">
+<!ENTITY updateAvailable.cancelButton.accesskey "N">
 
+<!ENTITY updateManual.cancelButton.label "Pas ôra">
+<!ENTITY updateManual.cancelButton.accesskey "N">
 
+<!ENTITY updateRestart.cancelButton.label "Pas ôra">
+<!ENTITY updateRestart.cancelButton.accesskey "N">
 
 
 

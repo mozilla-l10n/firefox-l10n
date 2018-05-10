@@ -2,15 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## Settings
-
-site-data-remove-selected =
-    .label = Garar la sèlèccion
-    .accesskey = G
-site-data-button-cancel =
-    .label = Anular
-    .accesskey = A
-
-## Removing
-
+colors-page-override-option-always =
+    .label = Tojòrn
+colors-page-override-option-never =
+    .label = Jamés

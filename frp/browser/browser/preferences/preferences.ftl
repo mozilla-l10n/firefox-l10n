@@ -2,9 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+do-not-track-option-always =
+    .label = Tojòrn
 
 ## Browser Restart Dialog
 
+cancel-no-restart-button = Anular
 
 ## Extension Control Notifications
 ##
@@ -22,12 +25,18 @@
 
 ## General Section
 
+always-check-default =
+    .label = Tojòrn vèrifiar que { -brand-short-name } est lo navìgatòr prèsèlèccionâ
+    .accesskey = T
 
 ## General Section - Language & Appearance
 
 
 ## General Section - Files and Applications
 
+download-always-ask-where =
+    .label = Tojòrn demandar onte sarvar los fôlyos
+    .accesskey = T
 
 ## General Section - Performance
 
@@ -64,6 +73,9 @@ containers-remove-button =
 sync-remove-account =
     .label = Garar lo contyo
     .accesskey = G
+sync-device-name-cancel =
+    .label = Anular
+    .accesskey = A
 
 ## Privacy Section
 
@@ -76,12 +88,22 @@ sync-remove-account =
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-always-option =
+    .label = Tojòrn
+sitedata-accept-third-party-never-option =
+    .label = Jamés
 
 ## Privacy Section - Address Bar
 
 
 ## Privacy Section - Tracking
 
+tracking-mode-always =
+    .label = Tojòrn
+    .accesskey = T
+tracking-mode-never =
+    .label = Jamés
+    .accesskey = J
 
 ## Privacy Section - Permissions
 
