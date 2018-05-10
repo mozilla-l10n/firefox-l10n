@@ -590,6 +590,11 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookies og websteds-data
+sitedata-total-size-calculating = Udregner størrelse på cache og websteds-data…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Dine gemte cookies, websteds-data og cache bruger lige nu { $value } { $unit } diskplads.
 sitedata-learn-more = Læs mere
 sitedata-accept-cookies-option =
     .label = Accepter cookies og websteds-data fra websteder (anbefalet)
