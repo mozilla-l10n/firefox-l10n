@@ -23,6 +23,7 @@
 <!ENTITY aboutNetworking.sent                  "पठाइयो">
 <!ENTITY aboutNetworking.received              "प्राप्त भयो">
 <!ENTITY aboutNetworking.family                "परिवार">
+<!ENTITY aboutNetworking.trr                   "TRR">
 <!ENTITY aboutNetworking.addresses             "ठेगानाहरू">
 <!ENTITY aboutNetworking.expires               "समाप्त हुन्छ(सेकेन्ड)">
 <!ENTITY aboutNetworking.messagesSent          "सन्देशहरू पठाइयो">

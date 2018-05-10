@@ -75,6 +75,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsProcessCount "वेब सामग्री प्रक्रियाहरू">
 
+<!ENTITY aboutSupport.enterprisePolicies "व्यापारको नीतिहरू">
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Google कुञ्जी">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla स्थान सेवा कुञ्जी">
@@ -160,4 +161,12 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceRate "दर">
 <!ENTITY aboutSupport.mediaDeviceLatency "विलम्बता">
 
+<!ENTITY aboutSupport.intlTitle "अन्तरराष्ट्रियकरण &amp; स्थानीयकरण">
 <!ENTITY aboutSupport.intlAppTitle "एप्लिकेसन सेटिङहरू">
+<!ENTITY aboutSupport.intlLocalesRequested "अनुरोध गरिएको स्थानीयताहरू">
+<!ENTITY aboutSupport.intlLocalesAvailable "उपलब्ध स्थानीयताहरू">
+<!ENTITY aboutSupport.intlLocalesSupported "एप स्थानीयताहरू">
+<!ENTITY aboutSupport.intlLocalesDefault "पूर्वनिर्धारित स्थानीयता">
+<!ENTITY aboutSupport.intlOSTitle "सञ्चालन प्रणाली">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "प्रणाली स्थानीयताहरू">
+<!ENTITY aboutSupport.intlRegionalPrefs "क्षेत्रीय प्राथमिकताहरू">
