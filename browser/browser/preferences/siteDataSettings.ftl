@@ -7,6 +7,7 @@
 
 site-data-settings-window =
     .title = Behandle infokapsler og nettstedsdata
+site-data-settings-description = Følgende nettsteder lagrer infokapsler og nettsteddata på datamaskinen. { -brand-short-name } lagrer data fra nettsteder med vedvarende lagring inntil du sletter dem og sletter data fra nettsteder med ikke-vedvarende lagring ettersom det trenges plass.
 site-data-search-textbox =
     .placeholder = Søk på nettsider
     .accesskey = S
@@ -27,11 +28,25 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Lagre endringer
     .accesskey = a
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+site-usage-pattern = { $value } { $unit }
+site-usage-persistent = { site-usage-pattern } (varig)
+site-data-remove-all =
+    .label = Fjern alle
+    .accesskey = e
+site-data-remove-shown =
+    .label = Fjern alle vist
+    .accesskey = e
 
 ## Removing
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-dialog =
+    .title = { site-data-removing-header }
+    .buttonlabelaccept = Fjern
 site-data-removing-header = Fjerner infokapsler og nettstedsdata
 site-data-removing-desc = Fjerning av infokapsler og nettstedsdata kan logge deg ut av nettsider. Er du sikker på at du vil gjøre endringene?
 site-data-removing-table = Infokapsler og nettstedsdata fra følgende nettsteder vil bli fjernet
