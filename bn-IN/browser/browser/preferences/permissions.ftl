@@ -36,6 +36,10 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = ওয়েবসাইটের অনুসন্ধান করুন
+permissions-capabilities-allow =
+    .label = অনুমতি প্রদান করা হবে
+permissions-capabilities-block =
+    .label = অবরুদ্ধ করুন
 
 ## Invalid Hostname Dialog
 
