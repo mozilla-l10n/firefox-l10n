@@ -36,6 +36,8 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = Saytda Axtar
+permissions-capabilities-allow =
+    .label = İcazə ver
 permissions-capabilities-block =
     .label = Blokla
 
