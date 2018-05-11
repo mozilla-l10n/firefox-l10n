@@ -40,6 +40,8 @@ permissions-capabilities-allow =
     .label = Tastean
 permissions-capabilities-block =
     .label = Blokkearje
+permissions-capabilities-prompt =
+    .label = Altyd freegje
 
 ## Invalid Hostname Dialog
 

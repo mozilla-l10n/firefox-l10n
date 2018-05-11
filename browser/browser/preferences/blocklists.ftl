@@ -24,4 +24,7 @@ blocklist-button-ok =
 #   $listName {string, "Standard (Recommended)."} - List name.
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
+blocklist-item-moz-std-name = Disconnect.me - basisbeskerming (Oanrekommandearre).
+blocklist-item-moz-std-desc = Stiet inkelde folgers ta, sadat websites goed funksjonearje.
 blocklist-item-moz-full-name = Disconnect.me - strange beskerming.
+blocklist-item-moz-full-desc = Blokkearret bekende folgers. Guon websites wurkje mooglik net goed.
