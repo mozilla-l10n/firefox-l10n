@@ -138,6 +138,9 @@ fonts-languages-fallback-name-vietnamese =
     .label = ভিয়েতনামিস
 fonts-languages-fallback-name-other =
     .label = অন্যান্য (incl. পশ্চিম ইউরোপীয়)
+fonts-very-large-warning-title = বড় নূন্যতম ফন্টের পরিমাপ
+fonts-very-large-warning-message = আপনি খুব বড়ো ফন্ট সাইজ নির্বাচন করেছেন (24 পিক্সেলের বেশি)। এটা হয়তো এই পেজের কিছু গুরুত্বপূর্ণ কনফিগারেশনকে অনেক কঠিন করে দিতে পারে।
+fonts-very-large-warning-accept = আমার পরিবর্তনগুলো যেরম ভাবে হোক রাখুন
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
