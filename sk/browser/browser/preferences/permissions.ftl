@@ -40,6 +40,8 @@ permissions-capabilities-allow =
     .label = Povoliť
 permissions-capabilities-block =
     .label = Zakázať
+permissions-capabilities-prompt =
+    .label = Vždy sa opýtať
 
 ## Invalid Hostname Dialog
 
