@@ -145,3 +145,5 @@ fonts-very-large-warning-accept = Változtatások megtartása mindenképp
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Alapértelmezett ({ $name })
+fonts-label-default-unnamed =
+    .label = Alapértelmezett
