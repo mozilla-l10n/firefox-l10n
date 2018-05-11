@@ -138,3 +138,10 @@ fonts-languages-fallback-name-vietnamese =
     .label = Վիետնամերեն
 fonts-languages-fallback-name-other =
     .label = Այլ (ներ. Արևմտաեվրոպականը)
+fonts-very-large-warning-title = Մեծ տառատեսակ
+fonts-very-large-warning-message = Տառատեսակի ընտրված չափը չափազանց մեծ է (24 փիքսելից մեծ): Դա անհնար կդարձնի նմանատեսակ էջերի օգտագործումը:
+fonts-very-large-warning-accept = Պահել փոփոխությունները
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = Հիմնական՝ ({ $name })

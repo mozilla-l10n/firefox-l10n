@@ -27,11 +27,24 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Պահպանել փոփոխությունները
     .accesskey = ա
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+site-usage-pattern = { $value } { $unit }
+site-data-remove-all =
+    .label = Հեռացնել բոլորը
+    .accesskey = ե
+site-data-remove-shown =
+    .label = Հեռացնել բոլոր ցուցադրվածները
+    .accesskey = ե
 
 ## Removing
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-dialog =
+    .title = { site-data-removing-header }
+    .buttonlabelaccept = Հեռացնել
 site-data-removing-header = Cookie-ների և կայքի տվյալների ջնջում
 site-data-removing-desc = Cookie-ների և կայքի տվյալների ջնջումը կարող է ձեզ դուրս բերել կայքերից: Կատարե՞լ:
 site-data-removing-table = Cookie-ների և կայքերի տվյալները հետևյալ կայքերի համար կջնջվեն:
