@@ -138,6 +138,9 @@ fonts-languages-fallback-name-vietnamese =
     .label = വിയറ്റ്നമീസ്‌
 fonts-languages-fallback-name-other =
     .label = മറ്റുള്ളവ (പടിഞ്ഞാറന്‍ യൂറോപ്പിയന്‍ ഉള്‍പ്പടെ)
+fonts-very-large-warning-title = വലിയ മിനിമം ഫോണ്ട് സൈസ്
+fonts-very-large-warning-message = നിങ്ങള്‍ വളരെ കൂടിയ ഫോണ്ട് സൈസ് ആണ്ഏറ്റവും ചെറിയതായി തെരഞ്ഞെടുത്തിരിയ്ക്കുന്നത് (24 പിക്സലുകളേക്കാള്‍ കൂടുതല്‍). അവ ഇത് പോലെ ചില പ്രധാന ക്രമീകരണ താളുകളില്‍ ഉപയോഗിയ്ക്കുവാന്‍ വളരെ ബുദ്ധിമുട്ടുണ്ടാക്കുന്നു.
+fonts-very-large-warning-accept = എന്റെ മാറ്റങ്ങള്‍ എന്തായാലും വെച്ചേക്കു
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
