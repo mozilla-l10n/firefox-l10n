@@ -16,3 +16,14 @@ blocklist-button-cancel =
 blocklist-button-ok =
     .label = ಬದಲಾವಣೆಗಳನ್ನು ಉಳಿಸು
     .accesskey = S
+# This template constructs the name of the block list in the block lists dialog.
+# It combines the list name and description.
+# e.g. "Standard (Recommended). This list does a pretty good job."
+#
+# Variables:
+#   $listName {string, "Standard (Recommended)."} - List name.
+#   $description {string, "This list does a pretty good job."} - Description of the list.
+blocklist-item-list-template = { $listName } { $description }
+blocklist-item-moz-std-name = Disconnect.me ಸಾಮಾನ್ಯ ಸುರಕ್ಷತೆ (ಶಿಫಾರಸುಮಾಡಿದ್ದು).
+blocklist-item-moz-std-desc = ಜಾಲತಾಣಗಳು ಸರಿಯಾಗಿ ಕೆಲಸಮಾಡುವಂತೆ ಕೆಲವು ಜಾಡುಹಿಡಿಯುವಿಕೆಗಳನ್ನು ಅನುಮತಿಸುತ್ತದೆ.
+blocklist-item-moz-full-name = Disconnect.me ಕಟ್ಟುನಿಟ್ಟಾದ ಸುರಕ್ಷತೆ.
