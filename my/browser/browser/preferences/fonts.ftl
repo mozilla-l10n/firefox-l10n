@@ -127,3 +127,5 @@ fonts-very-large-warning-accept = ဘယ်လိုပင်ဖြစ်နေ�
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = မူလ ({ $name })
+fonts-label-default-unnamed =
+    .label = မူရင်းအခြေအနေ

@@ -40,6 +40,8 @@ permissions-capabilities-allow =
     .label = ခွင့်ပြုပါ
 permissions-capabilities-block =
     .label = ပိတ်ဆို့ပါ
+permissions-capabilities-prompt =
+    .label = အမြဲမေးပါ
 
 ## Invalid Hostname Dialog
 
