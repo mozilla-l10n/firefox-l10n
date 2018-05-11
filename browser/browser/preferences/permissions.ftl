@@ -8,6 +8,10 @@ permissions-session =
 permissions-allow =
     .label = அனுமதி
     .accesskey = A
+permissions-capabilities-allow =
+    .label = அனுமதி
+permissions-capabilities-block =
+    .label = தடுக்க
 
 ## Invalid Hostname Dialog
 
