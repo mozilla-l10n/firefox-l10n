@@ -36,16 +36,6 @@ containers-color-label = रंग
 containers-button-done =
     .label = कर दिया है
     .accesskey = D
-containers-remove-alert-title = यह पात्र हटायें?
-# Variables:
-#   $count (Number) - Number of tabs that will be closed.
-containers-remove-alert-msg =
-    { $count ->
-        [one] यदि आप अभी इस कंटेनर को हटाते हैं, तो { $count } कंटेनर टैब बंद हो जाएगा. क्या आप वाकई इस कंटेनर को हटाना चाहते हैं?
-       *[other] यदि आप अभी इस कंटेनर को हटाते हैं, तो { $count } कंटेनर टैब बंद हो जाएंगे. क्या आप वाकई इस कंटेनर को हटाना चाहते हैं?
-    }
-containers-remove-ok-button = यह पात्र हटायें
-containers-remove-cancel-button = यह पात्र न हटायें
 containers-color-blue =
     .label = नीला
 containers-color-turquoise =
