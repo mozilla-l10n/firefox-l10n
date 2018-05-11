@@ -138,6 +138,9 @@ fonts-languages-fallback-name-vietnamese =
     .label = Fietnameg
 fonts-languages-fallback-name-other =
     .label = Eraill (gan gynnwys Gorllewin Ewrop)
+fonts-very-large-warning-title = Maint ffont lleiafswm mawr
+fonts-very-large-warning-message = Rydych wedi dewis maint ffont lleiafswm mawr (mwy na 24 picsel). Gall hyn ei gwneud yn anodd neu amhosib i ddefnyddio rhai tudalennau ffurfweddiad fel hon.
+fonts-very-large-warning-accept = Cadw fy newidiadau, beth bynnag
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
