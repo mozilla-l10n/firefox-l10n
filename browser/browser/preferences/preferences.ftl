@@ -601,6 +601,11 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Briosgaidean is dàta làraichean
+sitedata-total-size-calculating = Ag àireamhachadh meud dàta na làraich is an tasgadain...
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Tha na tha de bhriosgaidean, dàta làraichean is an tasgadan a’ cleachdadh { $value } { $unit } de dh’àite air an diosg an-dràsta.
 sitedata-learn-more = Barrachd fiosrachaidh
 sitedata-accept-cookies-option =
     .label = Gabh ri briosgaidean is dàta làraich o làraichean-lìn (mholamaid seo)

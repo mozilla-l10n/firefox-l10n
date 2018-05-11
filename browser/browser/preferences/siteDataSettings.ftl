@@ -7,6 +7,7 @@
 
 site-data-settings-window =
     .title = Stiùirich briosgaidean is dàta làraichean
+site-data-settings-description = Tha na làraichean-lìn a leanas a’ stòradh bhriosgaidean is dàta làraich air a’ choimpiutair agad. Cumaidh { -brand-short-name } dàta o làraichean-lìn le stòras buan gus an sguab thu às e agus sguabaidh e às an dàta o làraichean-lìn aig nach eil cead stòrais bhuain ma bhios feum air àite.
 site-data-search-textbox =
     .placeholder = Lorg sna làraichean-lìn
     .accesskey = S
@@ -31,6 +32,7 @@ site-data-button-save =
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 site-usage-pattern = { $value } { $unit }
+site-usage-persistent = { site-usage-pattern } (buan)
 site-data-remove-all =
     .label = Thoir air falbh a h-uile
     .accesskey = e

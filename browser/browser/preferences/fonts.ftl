@@ -145,3 +145,5 @@ fonts-very-large-warning-accept = Glèidh na dh'atharraich mi co-dhiù
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Roghainn bhunaiteach ({ $name })
+fonts-label-default-unnamed =
+    .label = Bun-roghainn
