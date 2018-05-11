@@ -145,3 +145,5 @@ fonts-very-large-warning-accept = Өзгерістерімді сонда да �
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Негізгі ({ $name })
+fonts-label-default-unnamed =
+    .label = Бастапқы
