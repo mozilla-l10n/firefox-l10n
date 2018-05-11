@@ -36,6 +36,8 @@ permissions-button-ok =
     .accesskey = G
 permissions-searchbox =
     .placeholder = Yeny kakube
+permissions-capabilities-allow =
+    .label = Ye
 
 ## Invalid Hostname Dialog
 
