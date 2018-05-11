@@ -40,6 +40,8 @@ permissions-capabilities-allow =
     .label = 允许
 permissions-capabilities-block =
     .label = 阻止
+permissions-capabilities-prompt =
+    .label = 总是询问
 
 ## Invalid Hostname Dialog
 
