@@ -25,4 +25,6 @@ blocklist-button-ok =
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-name = חסימה בסיסית של Disconnect.me (מומלץ).
+blocklist-item-moz-std-desc = אפשר חלק מרכיבי המעקב כדי לאפשר לאתרים לתפקד כראוי.
 blocklist-item-moz-full-name = חסימה קפדנית של Disconnect.me.
+blocklist-item-moz-full-desc = חסימת רכיבי מעקב מוכרים. חלק מהאתרים עשויים שלא לתפקד כראוי.

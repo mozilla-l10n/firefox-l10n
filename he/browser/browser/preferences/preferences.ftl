@@ -595,6 +595,10 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = עוגיות ונתוני אתרים
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = העוגיות, נתוני האתרים והמטמון השמורים שלך משתמשים כרגע ב־{ $value } { $unit } משטח הדיסק.
 sitedata-learn-more = מידע נוסף
 sitedata-accept-cookies-option =
     .label = קבלת עוגיות ונתוני אתרים מאתרי אינטרנט (מומלץ)

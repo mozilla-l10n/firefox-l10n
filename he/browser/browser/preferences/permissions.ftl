@@ -40,6 +40,8 @@ permissions-capabilities-allow =
     .label = הרשה
 permissions-capabilities-block =
     .label = חסום
+permissions-capabilities-prompt =
+    .label = לשאול תמיד
 
 ## Invalid Hostname Dialog
 
