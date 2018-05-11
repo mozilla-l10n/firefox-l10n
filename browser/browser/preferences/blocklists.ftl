@@ -16,3 +16,14 @@ blocklist-button-cancel =
 blocklist-button-ok =
     .label = Gcina Iinguqu
     .accesskey = G
+# This template constructs the name of the block list in the block lists dialog.
+# It combines the list name and description.
+# e.g. "Standard (Recommended). This list does a pretty good job."
+#
+# Variables:
+#   $listName {string, "Standard (Recommended)."} - List name.
+#   $description {string, "This list does a pretty good job."} - Description of the list.
+blocklist-item-list-template = I-{ $listName } { $description }
+blocklist-item-moz-std-name = Susa ukhuseleko lwam olusisiseko (Kuyanconyelwa)
+blocklist-item-moz-std-desc = Ivumela abanye abatreki ngoko iiwebhsayithi zisebenza kakuhle.
+blocklist-item-moz-full-name = Susa uqhagamshelo lwam kukhuseleko olungqongqo.
