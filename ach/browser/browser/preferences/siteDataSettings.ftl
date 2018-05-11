@@ -25,11 +25,24 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Gwok alokaloka
     .accesskey = o
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+site-usage-pattern = { $value } { $unit }
+site-data-remove-all =
+    .label = Kwany weng
+    .accesskey = a
+site-data-remove-shown =
+    .label = Kwany ma kinyuto ni weng
+    .accesskey = a
 
 ## Removing
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-dialog =
+    .title = { site-data-removing-header }
+    .buttonlabelaccept = Kwany
 site-data-removing-header = Kwanyo Angija ki Data me kakube
 site-data-removing-desc = Kwanyo angija ki data me kakube twero kwanyi woko ki ii kakube. Imoko ada ni imito timo alokaloka?
 site-data-removing-table = Ki bikwanyo woko angija ki data me kakube pi kakube magi

@@ -38,6 +38,8 @@ permissions-searchbox =
     .placeholder = Yeny kakube
 permissions-capabilities-allow =
     .label = Ye
+permissions-capabilities-block =
+    .label = Geng
 
 ## Invalid Hostname Dialog
 

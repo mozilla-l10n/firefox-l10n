@@ -136,3 +136,10 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamese
 fonts-languages-fallback-name-other =
     .label = Mukene (incl. Western European)
+fonts-very-large-warning-title = Dit me coc madongo matidi loyo
+fonts-very-large-warning-message = Iyero dit me coc madongo matidi loyo ma dongo tutwal (ma kato pixel 24). Man twero weko bedo tek onyo pe lare me tic ki potbuke mogo me ter mapi gi tego calo man.
+fonts-very-large-warning-accept = Gwok alokaloka na
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = ({ $name }) makwongo
