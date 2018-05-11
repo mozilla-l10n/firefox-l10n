@@ -138,7 +138,12 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnameze
 fonts-languages-fallback-name-other =
     .label = Të tjera (përfshi Europiane Perëndimore)
+fonts-very-large-warning-title = Madhësi minimum shkronjash e madhe
+fonts-very-large-warning-message = Keni përzgjedhur një madhësi minimum shkronjash shumë të madhe (më shumë se 24 piksel). Kjo mund ta bëjë të vështirë ose të pamundur të përdoren faqe të rëndësishme formësimi, si kjo këtu.
+fonts-very-large-warning-accept = Mbaji ndryshimet e mia, sido që të jetë
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Parazgjedhje ({ $name })
+fonts-label-default-unnamed =
+    .label = Parazgjedhje
