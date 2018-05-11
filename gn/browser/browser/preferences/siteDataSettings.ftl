@@ -27,11 +27,24 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Moambuepyre ñongatu
     .accesskey = a
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+site-usage-pattern = { $value } { $unit }
+site-data-remove-all =
+    .label = Emboguepaite
+    .accesskey = e
+site-data-remove-shown =
+    .label = Embogue opaite hechapyre
+    .accesskey = e
 
 ## Removing
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-dialog =
+    .title = { site-data-removing-header }
+    .buttonlabelaccept = Mboguete
 site-data-removing-header = Emboguete Kookie ha tenda mba'ekuaarã
 site-data-removing-desc = Emboguetéramo Kookie ha tenda mba'ekuaarã ikatu nde pe'a ñanduti rendágui. ¿Ejaposépa añetehápe ñemoambue?
 site-data-removing-table = Emboguetéta Kookie ha tenda mba'ekuaarã ko'ã ñanduti rendágui

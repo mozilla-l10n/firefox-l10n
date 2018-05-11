@@ -36,6 +36,12 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = Ñandutirenda Jeheka
+permissions-capabilities-allow =
+    .label = Moneĩ
+permissions-capabilities-block =
+    .label = Jokoha
+permissions-capabilities-prompt =
+    .label = Porandu Tapia
 
 ## Invalid Hostname Dialog
 

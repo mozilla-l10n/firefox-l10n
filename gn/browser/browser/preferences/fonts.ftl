@@ -138,3 +138,10 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamita
 fonts-languages-fallback-name-other =
     .label = Ambuekuéra (oikehápe Europeo Occidental)
+fonts-very-large-warning-title = Tuicha teñoiha michĩmíva.
+fonts-very-large-warning-message = Eiporavo peteĩ mba'e tuicháva teñoiha michĩmíva rehegua (hetave 24 píxeles-gui). Kóva ikatu ombohasy térã ndereipurukuaaivoi heta kuatiarogue imboheko mbaretéva koichagua.
+fonts-very-large-warning-accept = Eñongatu che moambuepyre upéicharõ jepe
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = Ijypykue ({ $name })
