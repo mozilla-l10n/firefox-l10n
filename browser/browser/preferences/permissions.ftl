@@ -36,6 +36,10 @@ permissions-button-ok =
     .accesskey = i
 permissions-searchbox =
     .placeholder = Websites trochsykje
+permissions-capabilities-allow =
+    .label = Tastean
+permissions-capabilities-block =
+    .label = Blokkearje
 
 ## Invalid Hostname Dialog
 
