@@ -7,6 +7,7 @@
 
 site-data-settings-window =
     .title = Gerer Cookies e Datos de sito
+site-data-settings-description = Le sequente sitos web immagazina cookies e datos de sito sur tu computator. { -brand-short-name } mantene datos ab sitos web con persistente immagazinage usque tu los dele, e dele le datos ab sitos web con immagazinage non-persistente quando le spatio es necesse.
 site-data-search-textbox =
     .placeholder = Cercar sitos web
     .accesskey = S
@@ -31,6 +32,7 @@ site-data-button-save =
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 site-usage-pattern = { $value } { $unit }
+site-usage-persistent = { site-usage-pattern } (Persistente)
 site-data-remove-all =
     .label = Remover toto
     .accesskey = e
