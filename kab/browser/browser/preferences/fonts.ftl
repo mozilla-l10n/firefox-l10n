@@ -138,6 +138,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Tavyiṭnamit
 fonts-languages-fallback-name-other =
     .label = Ayen-nniḍen (Yedda Uṛup n umalu)
+fonts-very-large-warning-title = Azal ameqqran n teɣzi n taddayt n tsefsit
 fonts-very-large-warning-message = Tferneḍ azal n teɣzi taddayt n tsefsit meqqṛen aṭas (ugar n 24 ipiksilen). Aya yezmer ad yerr aseqdec n kra n isebtar n uswel ixataren yewɛeṛ neɣ d awezɣi.
 fonts-very-large-warning-accept = Ḥrez asnifel-iw akken yebɣa yella waddad
 # Variables:
