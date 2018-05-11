@@ -138,6 +138,9 @@ fonts-languages-fallback-name-vietnamese =
     .label = वियतनामी
 fonts-languages-fallback-name-other =
     .label = अन्य (पश्चिमी यूरोपीय सहित)
+fonts-very-large-warning-title = बड़ा न्यूनतम फाँट आकार
+fonts-very-large-warning-message = You have selected a very large minimum font size (more than 24 pixels). This may make it difficult or impossible to use some important configuration pages like this one.
+fonts-very-large-warning-accept = मेरे परिवर्तन बनाए रखें
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
