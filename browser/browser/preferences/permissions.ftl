@@ -36,6 +36,8 @@ permissions-button-ok =
     .accesskey = บ
 permissions-searchbox =
     .placeholder = ค้นหาเว็บไซต์
+permissions-capabilities-allow =
+    .label = อนุญาต
 
 ## Invalid Hostname Dialog
 
