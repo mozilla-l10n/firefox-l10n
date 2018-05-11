@@ -138,6 +138,9 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vyetnamca
 fonts-languages-fallback-name-other =
     .label = Digər (Qərbi Avropa daxil olmaqla)
+fonts-very-large-warning-title = Böyük minimum şrift ölçüsü
+fonts-very-large-warning-message = Çox böyük minimum şrift ölçüsü seçmisiniz (24 pikseldən çox). Bu bu səhifə kimi vacib quraşdırma səhifələrinin istifadəsini çətin və ya mümkünsüz edə bilər.
+fonts-very-large-warning-accept = Yenə də mənim dəyişiklərimi tut
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
