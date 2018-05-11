@@ -24,6 +24,10 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Barmawey gaabu
     .accesskey = g
+permissions-capabilities-allow =
+    .label = Noo fondo
+permissions-capabilities-block =
+    .label = Gagay
 
 ## Invalid Hostname Dialog
 

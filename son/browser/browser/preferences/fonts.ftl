@@ -120,3 +120,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Wiyetinam
 fonts-languages-fallback-name-other =
     .label = Tana (nda Eropu dangay)
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = Tilasu ({ $name })
