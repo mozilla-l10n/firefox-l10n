@@ -7,6 +7,7 @@
 
 site-data-settings-window =
     .title = Správa cookies a dat stránek
+site-data-settings-description = Následující servery mají ve vašem počítači uloženy cookies a data stránek. Trvale uložená data stránek { -brand-short-name } uchovává, dokud je nesmažete. Dočasně uložená data jsou smazána, když je potřeba uvolnit místo.
 site-data-search-textbox =
     .placeholder = Hledat
     .accesskey = H
@@ -27,11 +28,19 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Uložit změny
     .accesskey = l
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+site-usage-pattern = { $value } { $unit }
+site-usage-persistent = { site-usage-pattern } (natrvalo)
 
 ## Removing
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-dialog =
+    .title = { site-data-removing-header }
+    .buttonlabelaccept = Odstranit
 site-data-removing-header = Mazání cookies a dat stránek
 site-data-removing-desc = Smazání cookies a dat stránek může způsobit vaše odhlášení z některých webových stránek. Opravdu chcete změny provést?
 site-data-removing-table = Cookies a data stránek budou smazány pro následující servery
