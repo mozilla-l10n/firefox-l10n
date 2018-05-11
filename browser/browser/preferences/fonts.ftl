@@ -145,3 +145,5 @@ fonts-very-large-warning-accept = Vseeno ohrani moje spremembe
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Privzeto ({ $name })
+fonts-label-default-unnamed =
+    .label = Privzeto
