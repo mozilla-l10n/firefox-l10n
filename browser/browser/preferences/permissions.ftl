@@ -45,6 +45,8 @@ permissions-capabilities-prompt =
 
 ## Invalid Hostname Dialog
 
+permissions-invalid-uri-title = अवैध मेजबाननाम दिया गया
+permissions-invalid-uri-label = एक वैध मेजबाननाम डालें
 
 ## Exceptions - Tracking Protection
 
