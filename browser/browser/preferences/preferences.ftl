@@ -598,6 +598,11 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Колачићи и подаци сајта
+sitedata-total-size-calculating = Рачунам податке сајта и кеш меморију…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Ваши складиштени колачићи, подаци сајта и кеш тренутно заузимају { $value } { $unit } простора.
 sitedata-learn-more = Сазнајте више
 sitedata-accept-cookies-option =
     .label = Прихватај колачиће и податке сајта (препоручено)

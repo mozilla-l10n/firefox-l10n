@@ -145,3 +145,5 @@ fonts-very-large-warning-accept = У сваком случају сачувај 
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Подразумеван ({ $name })
+fonts-label-default-unnamed =
+    .label = Подразумевано
