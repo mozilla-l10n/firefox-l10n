@@ -7,6 +7,7 @@
 
 site-data-settings-window =
     .title = Merañ an toupinoù hag ar roadennoù lec'hienn
+site-data-settings-description = Al lec'hiennoù da-heul a gadav toupinoù ha roadennoù lec'hienn war hoc'h urzhiataer. { -brand-short-name } a vir ar roadennoù eus lec'hiennoù gant kadaviñ diastal betek ma tilamfec'h anezho, ha dilemel a ra ar roadennoù eus al lec'hiennoù gant ur c'hadaviñ ha n'eo ket diastal pa vez ezhomm kaout muioc'h a blas.
 site-data-search-textbox =
     .placeholder = Klask lec'hiennoù
     .accesskey = K
@@ -27,6 +28,11 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Enrollañ ar c'hemmoù
     .accesskey = E
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+site-usage-pattern = { $value } { $unit }
+site-usage-persistent = { site-usage-pattern } (Diastal)
 site-data-remove-all =
     .label = Dilemel pep tra
     .accesskey = a

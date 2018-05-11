@@ -584,6 +584,11 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Toupinoù ha roadennoù lec'hienn
+sitedata-total-size-calculating = O jediñ ment roadennoù ha krubuilh al lec'hienn…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Ho toupinoù, roadennoù lec'hienn ha krubuilh kadavet a zo oc'h arverañ { $value } { $unit } war ho kantenn.
 sitedata-learn-more = Gouzout hiroc'h
 sitedata-accept-cookies-option =
     .label = Asantiñ an toupinoù hag ar roadennoù lec'hienn eus al lec'hiennoù web (erbedet)

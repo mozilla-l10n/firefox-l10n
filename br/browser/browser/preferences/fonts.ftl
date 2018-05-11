@@ -145,3 +145,5 @@ fonts-very-large-warning-accept = Mirout va kemmoù memestra
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Diouer ({ $name })
+fonts-label-default-unnamed =
+    .label = Dre ziouer
