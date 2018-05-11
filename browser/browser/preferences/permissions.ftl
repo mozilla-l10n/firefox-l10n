@@ -40,6 +40,8 @@ permissions-capabilities-allow =
     .label = Թույլատրել
 permissions-capabilities-block =
     .label = Արգելել
+permissions-capabilities-prompt =
+    .label = Միշտ հարցնել
 
 ## Invalid Hostname Dialog
 
