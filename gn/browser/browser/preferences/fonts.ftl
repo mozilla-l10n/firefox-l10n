@@ -145,3 +145,5 @@ fonts-very-large-warning-accept = Eñongatu che moambuepyre upéicharõ jepe
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Ijypykue ({ $name })
+fonts-label-default-unnamed =
+    .label = Ypykue
