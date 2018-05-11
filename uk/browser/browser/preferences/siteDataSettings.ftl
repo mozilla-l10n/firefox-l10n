@@ -7,6 +7,7 @@
 
 site-data-settings-window =
     .title = Керувати куками й даними сайту
+site-data-settings-description = Наступні веб-сайти зберігають куки і дані сайтів на вашому комп'ютері. { -brand-short-name } зберігає дані для веб-сайтів з постійним сховищем, доки ви їх не видалите, і видаляє дані для веб-сайтів з непостійним сховищем, коли потрібно звільнити місце.
 site-data-search-textbox =
     .placeholder = Пошук веб-сайтів
     .accesskey = П
@@ -27,6 +28,11 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Зберегти зміни
     .accesskey = З
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+site-usage-pattern = { $value } { $unit }
+site-usage-persistent = { site-usage-pattern } (Постійне)
 site-data-remove-all =
     .label = Видалити все
     .accesskey = в

@@ -145,3 +145,5 @@ fonts-very-large-warning-accept = Все одно залишити мої змі
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Типовий ({ $name })
+fonts-label-default-unnamed =
+    .label = Типово

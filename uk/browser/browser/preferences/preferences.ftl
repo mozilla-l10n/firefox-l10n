@@ -598,6 +598,11 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Куки і дані сайтів
+sitedata-total-size-calculating = Обчислення розміру даних сайтів і кешу…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Ваші збережені куки, дані сайтів і кеш використовують { $value } { $unit } дискового простору.
 sitedata-learn-more = Докладніше
 sitedata-accept-cookies-option =
     .label = Приймати куки і дані з веб-сайтів (рекомендовано)
