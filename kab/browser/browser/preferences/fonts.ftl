@@ -144,3 +144,5 @@ fonts-very-large-warning-accept = Ḥrez asnifel-iw akken yebɣa yella waddad
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = S uwennez amezwaru ({ $name })
+fonts-label-default-unnamed =
+    .label = Amezwer
