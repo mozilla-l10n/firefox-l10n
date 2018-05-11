@@ -145,3 +145,5 @@ fonts-very-large-warning-accept = 그래도 이렇게 바꾸기
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = 기본 ({ $name })
+fonts-label-default-unnamed =
+    .label = 기본
