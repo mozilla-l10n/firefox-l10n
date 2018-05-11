@@ -36,6 +36,10 @@ permissions-button-ok =
     .accesskey = D
 permissions-searchbox =
     .placeholder = Web sitesi ara
+permissions-capabilities-allow =
+    .label = İzin ver
+permissions-capabilities-block =
+    .label = Engelle
 
 ## Invalid Hostname Dialog
 
