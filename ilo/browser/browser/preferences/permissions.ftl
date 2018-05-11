@@ -15,6 +15,10 @@ permissions-status =
 permissions-button-cancel =
     .label = Ibabawi
     .accesskey = C
+permissions-capabilities-allow =
+    .label = Palubosan
+permissions-capabilities-block =
+    .label = Lapdan
 
 ## Invalid Hostname Dialog
 
