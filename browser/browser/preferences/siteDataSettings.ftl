@@ -7,6 +7,7 @@
 
 site-data-settings-window =
     .title = Kelola Kuki dan Data Situs
+site-data-settings-description = Situs web ini menyimpan kuki dan data situs pada komputer Anda. { -brand-short-name } menyimpan data dari situs web dengan penyimpanan tetap hingga Anda menghapusnya sendiri, dan menghapus data dari situs web dengan penyimpanan tidak tetap ketika memerlukan ruang penyimpanan lebih.
 site-data-search-textbox =
     .placeholder = Cari situs web
     .accesskey = C

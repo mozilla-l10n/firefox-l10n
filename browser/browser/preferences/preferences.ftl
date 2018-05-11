@@ -583,6 +583,10 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Kuki dan Data Situs
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Kuki, data situs tersimpan, dan tembolok Anda saat ini menggunakan ruang penyimpanan { $value } { $unit }.
 sitedata-learn-more = Pelajari lebih lanjut
 sitedata-accept-cookies-option =
     .label = Terima kuki dan situs data dari situs web (direkomendasikan)
