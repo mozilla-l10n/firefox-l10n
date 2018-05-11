@@ -38,6 +38,8 @@ permissions-searchbox =
     .placeholder = वेबसाइट खोज्नुहोस्
 permissions-capabilities-allow =
     .label = अनुमति दिनुहोस्
+permissions-capabilities-block =
+    .label = छेक्नुहोस्
 
 ## Invalid Hostname Dialog
 
