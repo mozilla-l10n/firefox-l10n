@@ -111,3 +111,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = भियेटनामिस
 fonts-languages-fallback-name-other =
     .label = गुबुन (सानजा इउरपखौ लाफानानै)
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = डिफल्ट ({ $name }){ " " }

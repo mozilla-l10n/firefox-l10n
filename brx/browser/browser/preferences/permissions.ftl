@@ -15,6 +15,10 @@ permissions-allow =
     .accesskey = A
 permissions-status =
     .label = थाखोमान
+permissions-capabilities-allow =
+    .label = हगार
+permissions-capabilities-block =
+    .label = ब्लक खालाम
 
 ## Invalid Hostname Dialog
 
