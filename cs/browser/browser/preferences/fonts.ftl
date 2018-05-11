@@ -138,6 +138,8 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamská
 fonts-languages-fallback-name-other =
     .label = Jiná (zahrnuje západoevropské)
+fonts-very-large-warning-title = Velká minimální velikost písma
+fonts-very-large-warning-accept = I přesto uložit změny
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
