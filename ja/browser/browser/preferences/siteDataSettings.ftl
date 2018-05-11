@@ -7,6 +7,7 @@
 
 site-data-settings-window =
     .title = Cookie とサイトデータを管理
+site-data-settings-description = 次のウェブサイトがコンピューターに Cookie とサイトデータを格納しています。{ -brand-short-name } はユーザーが削除するまで永続ストレージでウェブサイトからのデータを保持します。空き領域が必要になると非永続ストレージではウェブサイトからのデータが削除されます。
 site-data-search-textbox =
     .placeholder = ウェブサイトを検索
     .accesskey = S
@@ -31,6 +32,7 @@ site-data-button-save =
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 site-usage-pattern = { $value } { $unit }
+site-usage-persistent = { site-usage-pattern } (永続)
 site-data-remove-all =
     .label = すべて削除
     .accesskey = e
