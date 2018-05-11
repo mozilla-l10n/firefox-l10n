@@ -138,3 +138,9 @@ fonts-languages-fallback-name-vietnamese =
     .label = 越南文
 fonts-languages-fallback-name-other =
     .label = 其他（含西欧）
+fonts-very-large-warning-title = 较大的最小字体大小
+fonts-very-large-warning-accept = 确定，保存我的更改
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = 默认（{ $name }）
