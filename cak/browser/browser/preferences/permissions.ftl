@@ -40,6 +40,8 @@ permissions-capabilities-allow =
     .label = Tiya' q'ij
 permissions-capabilities-block =
     .label = Tiq'eleb'ëx
+permissions-capabilities-prompt =
+    .label = Junelïk tik'utüx pe
 
 ## Invalid Hostname Dialog
 
