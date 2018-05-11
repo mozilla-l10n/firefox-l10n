@@ -36,6 +36,12 @@ permissions-button-ok =
     .accesskey = s
 permissions-searchbox =
     .placeholder = Websydło pytać
+permissions-capabilities-allow =
+    .label = Dowolić
+permissions-capabilities-block =
+    .label = Blokować
+permissions-capabilities-prompt =
+    .label = Přeco so prašeć
 
 ## Invalid Hostname Dialog
 
