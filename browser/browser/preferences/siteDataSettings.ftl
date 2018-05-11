@@ -33,6 +33,12 @@ site-data-button-save =
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 site-usage-pattern = { $value } { $unit }
 site-usage-persistent = { site-usage-pattern } (영구)
+site-data-remove-all =
+    .label = 모두 삭제
+    .accesskey = e
+site-data-remove-shown =
+    .label = 보여지는 값 모두 삭제
+    .accesskey = e
 
 ## Removing
 
