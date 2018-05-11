@@ -40,6 +40,8 @@ permissions-capabilities-allow =
     .label = Permetti
 permissions-capabilities-block =
     .label = Blòcco
+permissions-capabilities-prompt =
+    .label = Domanda de longo
 
 ## Invalid Hostname Dialog
 

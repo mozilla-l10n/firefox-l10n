@@ -595,6 +595,7 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookie e Dæti di Sciti
+sitedata-total-size-calculating = Conto a dimenscion di dæti e da cache…
 sitedata-learn-more = Pe saveine de ciù
 sitedata-accept-cookies-option =
     .label = Acetta cookie e dæti di sciti da-i sciti (consegiou)

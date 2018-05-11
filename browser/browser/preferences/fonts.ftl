@@ -141,3 +141,9 @@ fonts-languages-fallback-name-other =
 fonts-very-large-warning-title = Dimenscion minima di caratteri tròppo erta
 fonts-very-large-warning-message = L'é inpostou 'na dimenscion minima di caratteri tròppo grande (ciù de 24 pixel). Sta cösa chi a porieiva rende difiçile ò adreitua inposcibile l’uzo de quarche pagina inportante de configuraçion.
 fonts-very-large-warning-accept = Mantegni a dimenscion seleçionâ
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = Predefinio ({ $name })
+fonts-label-default-unnamed =
+    .label = Predefinio

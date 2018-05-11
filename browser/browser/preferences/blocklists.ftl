@@ -27,3 +27,4 @@ blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-name = Disconnect.me proteçion baze (consegiou).
 blocklist-item-moz-std-desc = Permette quarche elemento ch'o tracia pe garantî o bon fonçionamento di sciti.
 blocklist-item-moz-full-name = Disconnect.me proteçion mascima.
+blocklist-item-moz-full-desc = Blòcca i elementi che tracian conosciui. Quarche scito o porieiva no fonçionâ ben.
