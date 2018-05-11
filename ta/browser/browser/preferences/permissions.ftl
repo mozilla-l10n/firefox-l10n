@@ -36,6 +36,10 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = வலைத்தளத்தைத் தேடவும்
+permissions-capabilities-allow =
+    .label = அனுமதி
+permissions-capabilities-block =
+    .label = தடு
 
 ## Invalid Hostname Dialog
 

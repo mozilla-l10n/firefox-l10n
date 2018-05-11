@@ -138,3 +138,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = வியட்னாமிய
 fonts-languages-fallback-name-other =
     .label = மற்றவை(மேற்கத்திய ஐரோப்பவையும் உள்ளடக்கியவை)
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = முன்னிருப்பு ({ $name })
