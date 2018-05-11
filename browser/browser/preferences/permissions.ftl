@@ -40,6 +40,8 @@ permissions-capabilities-allow =
     .label = Dowóliś
 permissions-capabilities-block =
     .label = Blokěrowaś
+permissions-capabilities-prompt =
+    .label = Pśecej se pšašaś
 
 ## Invalid Hostname Dialog
 
