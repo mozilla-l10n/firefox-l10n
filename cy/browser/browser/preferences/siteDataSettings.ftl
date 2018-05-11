@@ -7,6 +7,7 @@
 
 site-data-settings-window =
     .title = Rheoli Cwcis a Data Gwefan
+site-data-settings-description = Mae'r gwefannau canlynol yn cadw cwcis a data gwefan ar eich cyfrifiadur. Mae { -brand-short-name } yn cadw data o wefannau sydd â storio parhaus nes i chi eu dileu, ac yn dileu data o wefannau sydd heb storfa parhaus yn ôl yr angen am le ar ddisg.
 site-data-search-textbox =
     .placeholder = Chwilio gwefannau
     .accesskey = C
@@ -27,6 +28,11 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Cadw Newidiadau
     .accesskey = a
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+site-usage-pattern = { $value } { $unit }
+site-usage-persistent = { site-usage-pattern } (Parhaus)
 site-data-remove-all =
     .label = Tynnu Popeth
     .accesskey = P
