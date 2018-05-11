@@ -27,3 +27,4 @@ blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-name = Osnovna zaščita Disconnect.me (Priporočeno).
 blocklist-item-moz-std-desc = Dovoli nekaj sledilcev, da bo spletna stran delovala pravilno.
 blocklist-item-moz-full-name = Stroga zaščita Disconnect.me.
+blocklist-item-moz-full-desc = Zavrača znane sledilce. Nekatere spletne strani morda ne bodo delovale pravilno.
