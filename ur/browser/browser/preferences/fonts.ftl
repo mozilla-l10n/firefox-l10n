@@ -141,3 +141,5 @@ fonts-very-large-warning-accept = ویسے بھی میرا تبدیلیاں رک
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = طےشدہ ({ $name })
+fonts-label-default-unnamed =
+    .label = طے شدہ
