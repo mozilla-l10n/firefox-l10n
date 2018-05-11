@@ -138,6 +138,9 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamiečių
 fonts-languages-fallback-name-other =
     .label = Kita (įsk. Vakarų Europos)
+fonts-very-large-warning-title = Didelis mažiausias šrifto dydis
+fonts-very-large-warning-message = Jūs pasirinkote labai didelį mažiausią šrifto dydį (didesnį negu 24 pikseliai). Tai gali sukelti nepatogumų naudojantis dalimi svarbių konfigūracijos puslapių, kaip kad šis.
+fonts-very-large-warning-accept = Palikti mano pakeitimus
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

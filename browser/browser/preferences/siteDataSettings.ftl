@@ -27,11 +27,20 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Įrašyti pakeitimus
     .accesskey = a
+site-data-remove-all =
+    .label = Pašalinti visus
+    .accesskey = l
+site-data-remove-shown =
+    .label = Pašalinti visus rodomus
+    .accesskey = l
 
 ## Removing
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-dialog =
+    .title = { site-data-removing-header }
+    .buttonlabelaccept = Pašalinti
 site-data-removing-header = Šalinami slapukai ir svetainių duomenys
 site-data-removing-desc = Pašalinus slapukus ir svetainių duomenis galite būti atjungti iš svetainių. Ar tikrai norite atlikti pakeitimus?
 site-data-removing-table = Šių svetainių slapukai ir susiję duomenys bus pašalinti
