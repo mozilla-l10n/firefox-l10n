@@ -7,6 +7,7 @@
 
 site-data-settings-window =
     .title = Hantera kakor och webbplatsdata
+site-data-settings-description = Följande webbplatser lagrar kakor och webbplatsdata på din dator. { -brand-short-name } spara data från webbplatser med beständig lagring tills du raderar det och raderar data från webbplatser med icke-beständig lagringsutrymme, eftersom det behövs utrymme.
 site-data-search-textbox =
     .placeholder = Sök webbplatser
     .accesskey = S
@@ -27,11 +28,22 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Spara ändringar
     .accesskey = a
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+site-usage-pattern = { $value } { $unit }
+site-usage-persistent = { site-usage-pattern } (Beständig)
+site-data-remove-shown =
+    .label = Ta bort alla som visas
+    .accesskey = a
 
 ## Removing
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-dialog =
+    .title = { site-data-removing-header }
+    .buttonlabelaccept = Ta bort
 site-data-removing-header = Tar bort kakor och webbplatsdata
 site-data-removing-desc = Om du tar bort kakor och webbplatsdata kan du loggas ut från webbplatser. Är du säker på att du vill göra dessa ändringar?
 site-data-removing-table = Kakor och webbplatsdata för följande webbplatser kommer att tas bort

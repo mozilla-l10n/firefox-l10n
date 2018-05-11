@@ -595,6 +595,11 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Kakor och webbplatsdata
+sitedata-total-size-calculating = Beräkning av webbplatsdata och cachestorlek…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Dina lagrade kakor, webbplatsdata och cache använder för tillfället { $value } { $unit } diskutrymme.
 sitedata-learn-more = Läs mer
 sitedata-accept-cookies-option =
     .label = Tillåt kakor och webbplatsdata från webbplatser (rekommenderas)
