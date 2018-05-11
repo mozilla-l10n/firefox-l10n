@@ -36,6 +36,10 @@ permissions-button-ok =
     .accesskey = D
 permissions-searchbox =
     .placeholder = Yiylo e Lowre
+permissions-capabilities-allow =
+    .label = Yamir
+permissions-capabilities-block =
+    .label = Falo
 
 ## Invalid Hostname Dialog
 

@@ -138,3 +138,10 @@ fonts-languages-fallback-name-vietnamese =
     .label = Wiyetnamiire
 fonts-languages-fallback-name-other =
     .label = Goɗɗe (wonndude e Orop Hirnaange)
+fonts-very-large-warning-title = Ɓetol fontere mawnde lesol
+fonts-very-large-warning-message = A labiima ɓetol fontere leslesol mawnde sanne (ɓurii 24 piksele). Ɗum ena waawi saɗtinde walla haɗde kuutoragol yoga e kelle teelto bayɗe hono ngoo-ɗoo.
+fonts-very-large-warning-accept = Teeŋtin bayle am tan
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = Goowaaɗe ({ $name })

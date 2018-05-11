@@ -27,11 +27,20 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Daɗndu mbaliigaaji
     .accesskey = a
+site-data-remove-all =
+    .label = Momtu fof
+    .accesskey = o
+site-data-remove-shown =
+    .label = Momtu Kala ko Hollaa
+    .accesskey = o
 
 ## Removing
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-dialog =
+    .title = { site-data-removing-header }
+    .buttonlabelaccept = Momtu
 site-data-removing-header = Momtude Kuukiije kam e Keɓe Lowre
 site-data-removing-desc = Momtude kuukiije kam e keɓe lowre ina waawi seŋtude ma e lowe geese ɗee. Aɗa yananaa yiɗde waɗde bayle ɗee?
 site-data-removing-table = Kuukiije kam e keɓe lowre wonande ɗee lowe geese maa momtoye
