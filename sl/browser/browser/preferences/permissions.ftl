@@ -36,6 +36,10 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = Išči po spletni strani
+permissions-capabilities-allow =
+    .label = Dovoli
+permissions-capabilities-block =
+    .label = Prepovej
 
 ## Invalid Hostname Dialog
 

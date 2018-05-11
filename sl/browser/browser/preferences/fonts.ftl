@@ -138,3 +138,10 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamsko
 fonts-languages-fallback-name-other =
     .label = Drugo (tudi zahodnoevropsko)
+fonts-very-large-warning-title = Velika najmanjša velikost pisave
+fonts-very-large-warning-message = Kot najmanjšo velikost pisave ste nastavili zelo visoko vrednost (več kot 24 pik). Nekaterih pomembnih strani z nastavitvami, kot je ta, morda ne boste mogli uporabljati.
+fonts-very-large-warning-accept = Vseeno ohrani moje spremembe
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = Privzeto ({ $name })
