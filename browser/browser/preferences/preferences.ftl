@@ -592,6 +592,7 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = কুকি এবং সাইট ডাটা
+sitedata-total-size-calculating = সাইট ডাটা এবং ক্যাশ সাইজ গণনা করা হচ্ছে…
 sitedata-learn-more = আরও জানুন
 sitedata-accept-cookies-option =
     .label = ওয়েবসাইট থেকে কুকি ও সাইট ডাটা গ্রহণ করুন (সুপারিশকৃত)
