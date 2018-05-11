@@ -24,6 +24,10 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Sábháil na hAthruithe
     .accesskey = S
+permissions-capabilities-allow =
+    .label = Ceadaigh
+permissions-capabilities-block =
+    .label = Coisc
 
 ## Invalid Hostname Dialog
 
