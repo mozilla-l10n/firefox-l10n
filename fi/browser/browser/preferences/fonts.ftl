@@ -138,6 +138,9 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamilainen
 fonts-languages-fallback-name-other =
     .label = Muu (ml. länsieurooppalainen)
+fonts-very-large-warning-title = Suurikokoinen pienin mahdollinen kirjasinkoko
+fonts-very-large-warning-message = Pienimmäksi mahdolliseksi kirjasinkooksi on valittu suuri koko (yli 24 kuvapistettä). Joidenkin asetussivujen, kuten tämän, käyttö voi muodostua vaikeaksi tai mahdottomaksi näin suurella kirjasinkoolla.
+fonts-very-large-warning-accept = Tallenna muutokset tästä huolimatta
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
