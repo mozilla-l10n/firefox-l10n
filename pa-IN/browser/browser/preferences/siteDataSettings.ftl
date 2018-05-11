@@ -27,6 +27,14 @@ site-data-button-cancel =
 site-data-button-save =
     .label = ਤਬਦੀਲੀਆਂ ਨੂੰ ਸੰਭਾਲੋ
     .accesskey = a
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+site-usage-pattern = { $value } { $unit }
+site-usage-persistent = { site-usage-pattern } (ਸਥਿਰ)
+site-data-remove-all =
+    .label = ਸਾਰੇ ਹਟਾਓ
+    .accesskey = e
 site-data-remove-shown =
     .label = ਸਾਰੇ ਵੇਖਾਏ ਨੂੰ ਹਟਾਓ
     .accesskey = e
@@ -35,6 +43,9 @@ site-data-remove-shown =
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-dialog =
+    .title = { site-data-removing-header }
+    .buttonlabelaccept = ਹਟਾਓ
 site-data-removing-header = ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟਾ ਹਟਾਇਆ ਜਾ ਰਿਹਾ ਹੈ
 site-data-removing-desc = ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟੇ ਨੂੰ ਹਟਾਉਣਾ ਨਾਲ ਤੁਸੀਂ ਵੈੱਬਸਾਈਟ ਤੋਂ ਲਾਗ ਆਉਟ ਹੋ ਜਾਉਂਗੇ। ਕੀ ਤੁਸੀਂ ਤਬਦੀਲੀਆਂ ਕਰਨੀਆਂ ਚਾਹੁੰਦੇ ਹੋ?
 site-data-removing-table = ਅੱਗੇ ਦਿੱਤੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਤੋਂ ਕੂਕੀਜ਼ ਅਤੇ ਡਾਟੇ ਨੂੰ ਹਟਾਇਆ ਜਾਵੇਗਾ

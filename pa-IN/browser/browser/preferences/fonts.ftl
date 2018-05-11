@@ -138,3 +138,5 @@ fonts-very-large-warning-accept = ਕਿਵੇਂ ਵੀ ਮੇਰੀਆਂ ਤ�
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = ਡਿਫਾਲਟ ({ $name })
+fonts-label-default-unnamed =
+    .label = ਡਿਫਾਲਟ
