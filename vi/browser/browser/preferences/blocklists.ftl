@@ -27,3 +27,4 @@ blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-name = Bảo vệ cơ bản của Disconnect.me (khuyên dùng).
 blocklist-item-moz-std-desc = Cho phép một vài hệ thống theo dõi để trang hoạt động đúng.
 blocklist-item-moz-full-name = Bảo vệ nghiêm ngặt của Disconnect.me.
+blocklist-item-moz-full-desc = Chặn các trình theo dõi mà đã được nhận biết. Một số trang web có thể hoạt động không đúng.
