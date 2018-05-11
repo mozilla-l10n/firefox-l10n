@@ -141,3 +141,9 @@ fonts-languages-fallback-name-other =
 fonts-very-large-warning-title = Μεγάλο ελάχιστο μέγεθος γραμματοσειράς
 fonts-very-large-warning-message = Έχετε επιλέξει ένα πολύ μεγάλο ελάχιστο μέγεθος γραμματοσειράς (πάνω από 24 pixels). Αυτό ίσως κάνει τη χρήση κάποιων σημαντικών σελίδων ρυθμίσεων, όπως αυτή, δύσκολη ή και αδύνατη.
 fonts-very-large-warning-accept = Διατήρηση των αλλαγών όπως και να 'χει
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = Προεπιλογή ({ $name })
+fonts-label-default-unnamed =
+    .label = Προεπιλογή

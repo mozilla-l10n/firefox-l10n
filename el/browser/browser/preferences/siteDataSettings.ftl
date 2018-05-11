@@ -23,8 +23,21 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Αποθήκευση αλλαγών
     .accesskey = λ
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+site-usage-pattern = { $value } { $unit }
+site-data-remove-all =
+    .label = Αφαίρεση όλων
+    .accesskey = φ
+site-data-remove-shown =
+    .label = Αφαίρεση όλων των προβεβλημένων
+    .accesskey = φ
 
 ## Removing
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-dialog =
+    .title = { site-data-removing-header }
+    .buttonlabelaccept = Αφαίρεση
