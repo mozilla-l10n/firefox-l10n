@@ -36,6 +36,10 @@ permissions-button-ok =
     .accesskey = L
 permissions-searchbox =
     .placeholder = Søk på nettsida
+permissions-capabilities-allow =
+    .label = Tillat
+permissions-capabilities-block =
+    .label = Blokker
 
 ## Invalid Hostname Dialog
 
