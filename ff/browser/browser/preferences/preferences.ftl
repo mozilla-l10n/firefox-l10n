@@ -595,6 +595,11 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Kuukiije kam e Keɓe Lowre
+sitedata-total-size-calculating = Nana hiisoo keɓe lowre kam e ɓetol moggon…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = A mooftii kuukiije, lowre kañum moggel kuutortoo jooni ko { $value } { $unit } boowal mbeɗu nguu.
 sitedata-learn-more = Jokku taro
 sitedata-accept-cookies-option =
     .label = Jaɓ kuukiije kañum e keɓe lowre iwɗe e lowe geese (ina wasiyaa)
