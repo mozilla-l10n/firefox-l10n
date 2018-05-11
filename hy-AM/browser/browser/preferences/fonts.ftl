@@ -145,3 +145,5 @@ fonts-very-large-warning-accept = Պահել փոփոխությունները
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Հիմնական՝ ({ $name })
+fonts-label-default-unnamed =
+    .label = Լռելյայն
