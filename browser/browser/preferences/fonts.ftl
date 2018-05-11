@@ -138,3 +138,10 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamšćina
 fonts-languages-fallback-name-other =
     .label = Druhe (inkl. zapadne europske)
+fonts-very-large-warning-title = Wulka minimalna pismowa wulkosć
+fonts-very-large-warning-message = Sće jara wulku minimalnu pismowu wulkosć (přez 24 pikselow) wubrał. To móhło wužiwanje wažnych konfiguraciskich stronow kaž je tuta strona wobćežeć abo samo znjemóžnić.
+fonts-very-large-warning-accept = Moje změny najebać toho wobchować
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = Standard ({ $name })
