@@ -36,6 +36,10 @@ permissions-button-ok =
     .accesskey = U
 permissions-searchbox =
     .placeholder = Hledat
+permissions-capabilities-allow =
+    .label = Povolit
+permissions-capabilities-block =
+    .label = Blokovat
 
 ## Invalid Hostname Dialog
 
