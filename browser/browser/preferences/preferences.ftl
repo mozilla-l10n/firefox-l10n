@@ -595,6 +595,7 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookies e Dados de sites
+sitedata-total-size-calculating = Calculando o tamanho dos dados de sites e cache…
 sitedata-learn-more = Saber mais
 sitedata-accept-cookies-option =
     .label = Aceitar cookies e dados de sites (recomendado)
