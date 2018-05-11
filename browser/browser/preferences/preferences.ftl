@@ -591,6 +591,11 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Galetes i dades dels llocs
+sitedata-total-size-calculating = S'està calculant la mida de les dades dels llocs i de la memòria cau…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Les galetes, les dades dels llocs i la memòria cau actualment ocupen { $value } { $unit } d'espai de disc.
 sitedata-learn-more = Més informació
 sitedata-accept-cookies-option =
     .label = Accepta les galetes i dades dels llocs web (recomanat)

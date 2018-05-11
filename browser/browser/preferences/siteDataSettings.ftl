@@ -7,6 +7,7 @@
 
 site-data-settings-window =
     .title = Gestiona les galetes i les dades dels llocs
+site-data-settings-description = Els llocs web següents emmagatzemen dades i galetes al vostre ordinador. El { -brand-short-name } conserva les dades dels llocs web amb emmagatzematge persistent fins que les suprimiu i suprimeix les dades dels llocs web amb emmagatzematge no persistent a mesura que es necessita espai.
 site-data-search-textbox =
     .placeholder = Cerca llocs web
     .accesskey = r
@@ -31,6 +32,7 @@ site-data-button-save =
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 site-usage-pattern = { $value } { $unit }
+site-usage-persistent = { site-usage-pattern } (Persistent)
 site-data-remove-all =
     .label = Elimina-ho tot
     .accesskey = E
