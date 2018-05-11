@@ -40,6 +40,8 @@ permissions-capabilities-allow =
     .label = Permitir
 permissions-capabilities-block =
     .label = Blocar
+permissions-capabilities-prompt =
+    .label = Preguntar-me-lo siempre
 
 ## Invalid Hostname Dialog
 

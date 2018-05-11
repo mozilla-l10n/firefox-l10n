@@ -7,6 +7,7 @@
 
 site-data-settings-window =
     .title = Chestionar las cookies y datos d'o puesto
+site-data-settings-description = Los siguients puestos web almagazenan cookies y datos d'o puesto en o tuyo ordinador. { -brand-short-name } mantién los datos de webs con almagazenamiento persistent dica que los borras, y borra los datos de puestos web con almagazenamiento no persistent quan cal mas espacio.
 site-data-search-textbox =
     .placeholder = Mirar en puestos web
     .accesskey = S
@@ -27,6 +28,11 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Alzar los cambios
     .accesskey = A
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+site-usage-pattern = { $value } { $unit }
+site-usage-persistent = { site-usage-pattern } (Persistent)
 site-data-remove-all =
     .label = Borrar-lo tot
     .accesskey = r
