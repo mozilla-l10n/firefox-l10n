@@ -138,3 +138,10 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamés
 fonts-languages-fallback-name-other =
     .label = Atros (incl. europeu occidental)
+fonts-very-large-warning-title = Mida de muent minima gran
+fonts-very-large-warning-message = Ha trigau una mida de fuent minima muit gran (mas de 24 pixels). Isto puede fer dificil u imposible l'uso de bellas pachinas de configuración como ista mesma.
+fonts-very-large-warning-accept = Mantiene os míos cambios de todas trazas.
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = Por defecto ({ $name })
