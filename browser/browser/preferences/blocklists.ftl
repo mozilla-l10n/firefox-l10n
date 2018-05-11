@@ -27,3 +27,4 @@ blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-name = Disconnect.me alapszintű védelem (ajánlott).
 blocklist-item-moz-std-desc = Néhány követő engedélyezése, hogy a weboldalak megfelelően működjenek.
 blocklist-item-moz-full-name = Disconnect.me szigorú védelem.
+blocklist-item-moz-full-desc = Ismert követők blokkolása. Néhány webhely lehet, hogy nem fog megfelelően működni.

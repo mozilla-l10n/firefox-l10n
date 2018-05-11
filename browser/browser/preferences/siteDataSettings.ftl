@@ -7,6 +7,7 @@
 
 site-data-settings-window =
     .title = Sütik és oldaladatok kezelése
+site-data-settings-description = A következő webhelyek tárolnak sütiket és oldaladatok a számítógépén. A { -brand-short-name } addig tárol adatokat a tartós tárolóban, amíg Ön törli azokat, és addig tárol adatokat a nem tartós tárolóban, amíg szükség nem lesz a helyre.
 site-data-search-textbox =
     .placeholder = Weboldalak keresése
     .accesskey = S
@@ -27,6 +28,11 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Változások mentése
     .accesskey = V
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+site-usage-pattern = { $value } { $unit }
+site-usage-persistent = { site-usage-pattern } (tartós)
 site-data-remove-all =
     .label = Összes eltávolítása
     .accesskey = z
