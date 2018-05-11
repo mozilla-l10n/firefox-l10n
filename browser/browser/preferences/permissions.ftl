@@ -36,6 +36,10 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = Caută site web
+permissions-capabilities-allow =
+    .label = Permite
+permissions-capabilities-block =
+    .label = Blochează
 
 ## Invalid Hostname Dialog
 
