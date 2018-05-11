@@ -138,3 +138,8 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamita
 fonts-languages-fallback-name-other =
     .label = Outro (incl. Europa ocidental)
+fonts-very-large-warning-accept = Manter as minhas alterações
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = Predefinição ({ $name })
