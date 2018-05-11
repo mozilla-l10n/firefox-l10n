@@ -7,6 +7,7 @@
 
 site-data-settings-window =
     .title = 쿠키와 사이트 데이타 관리
+site-data-settings-description = 다음의 웹사이트가 컴퓨터에 쿠키와 사이트 데이타를 저장합니다. 사용자가 삭제하고 웹사이트에서 여유 공간이 필요해서 비영구 공간을 삭제할 때 까지 { -brand-short-name }가 웹사이트의 데이타를 영구적인 저장소로 유지합니다.
 site-data-search-textbox =
     .placeholder = 웹사이트 검색
     .accesskey = S
@@ -27,6 +28,11 @@ site-data-button-cancel =
 site-data-button-save =
     .label = 변경된 내용 저장
     .accesskey = a
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+site-usage-pattern = { $value } { $unit }
+site-usage-persistent = { site-usage-pattern } (영구)
 
 ## Removing
 
