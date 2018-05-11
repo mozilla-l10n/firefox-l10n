@@ -135,6 +135,9 @@ fonts-languages-fallback-name-vietnamese =
     .label = ವಿಯೆಟ್ನಾಮೀಸ್
 fonts-languages-fallback-name-other =
     .label = ಇತರೆ (ವೆಸ್ಟರ್ನ್ ಯುರೋಪಿಯನ್‌ ಸೇರಿದಂತೆ.)
+fonts-very-large-warning-title = ದೊಡ್ಡ ಕನಿಷ್ಠ ಅಕ್ಷರ ಶೈಲಿ ಗಾತ್ರ
+fonts-very-large-warning-message = ನೀವು ಅತಿ ದೊಡ್ಡ ಕನಿಷ್ಠ ಅಕ್ಷರ ಶೈಲಿ ಗಾತ್ರವನ್ನು (24 ಪಿಕ್ಸೆಲ್‌ಗಳಿಗಿಂದ ಹೆಚ್ಚು) ಆಯ್ಕೆ ಮಾಡಿಕೊಂಡಿದ್ದೀರಿ. ಇದು ಕಷ್ಟಕರವಾಗಬಹುದು ಅಥವಾ ಈ ರೀತಿಯ ಕೆಲವೊಂದು ಅತಿಮುಖ್ಯ ಸಂರಚನೆ ಪುಟಗಳನ್ನು ಬಳಸುವುದನ್ನು ಸಾಧ್ಯವೇ ಇಲ್ಲದಂತೆ ಮಾಡಬಹುದು.
+fonts-very-large-warning-accept = ಹೇಗಿದ್ದರೂ ನನ್ನ ಬದಲಾವಣೆಗಳನ್ನು ಇಟ್ಟುಕೋ
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
