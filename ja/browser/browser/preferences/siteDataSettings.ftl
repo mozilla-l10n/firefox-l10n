@@ -27,11 +27,24 @@ site-data-button-cancel =
 site-data-button-save =
     .label = 変更を保存
     .accesskey = a
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+site-usage-pattern = { $value } { $unit }
+site-data-remove-all =
+    .label = すべて削除
+    .accesskey = e
+site-data-remove-shown =
+    .label = 表示されたサイトデータをすべて削除
+    .accesskey = e
 
 ## Removing
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-dialog =
+    .title = { site-data-removing-header }
+    .buttonlabelaccept = 削除
 site-data-removing-header = Cookie とサイトデータの削除
 site-data-removing-desc = Cookie とサイトデータを削除すると、ウェブサイトからログアウトされます。本当に削除してもよろしいですか？
 site-data-removing-table = 次のウェブサイトの Cookie とサイトデータが削除されます
