@@ -138,6 +138,9 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnameesk
 fonts-languages-fallback-name-other =
     .label = Oars (ynkl. West-Europeesk)
+fonts-very-large-warning-title = Grut minimum lettertypegrutte
+fonts-very-large-warning-message = Jo hawwe in hiel grut minimum lettertypegrytte selektearre(mear as 24 piksels). Dit kin it swier of ûnmooglik meitsje om wichtige konfiguraasjesiden as dizze te brûken.
+fonts-very-large-warning-accept = Myn wizigigngen dochs behâlde
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
