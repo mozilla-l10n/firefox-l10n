@@ -15,6 +15,10 @@ permissions-allow =
     .accesskey = m
 permissions-status =
     .label = Imimerere
+permissions-capabilities-allow =
+    .label = Emera
+permissions-capabilities-block =
+    .label = Funga
 
 ## Invalid Hostname Dialog
 
