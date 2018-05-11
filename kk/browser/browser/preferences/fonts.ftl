@@ -138,3 +138,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Вьетнам
 fonts-languages-fallback-name-other =
     .label = Басқа (Батыс Еуропалықты қоса)
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = Негізгі ({ $name })
