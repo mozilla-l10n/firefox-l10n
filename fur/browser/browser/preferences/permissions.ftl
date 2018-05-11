@@ -18,6 +18,10 @@ permissions-status =
 permissions-button-cancel =
     .label = Scancele
     .accesskey = S
+permissions-capabilities-allow =
+    .label = Permet
+permissions-capabilities-block =
+    .label = Bloche
 
 ## Invalid Hostname Dialog
 
