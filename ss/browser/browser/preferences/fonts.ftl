@@ -56,3 +56,7 @@ fonts-languages-fallback-name-baltic =
     .label = Sibalthiki
 fonts-languages-fallback-name-turkish =
     .label = Sithekhi
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = Idifolthi ({ $name })
