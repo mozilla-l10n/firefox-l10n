@@ -36,6 +36,10 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = 搜尋網站
+permissions-capabilities-allow =
+    .label = 允許
+permissions-capabilities-block =
+    .label = 阻擋
 
 ## Invalid Hostname Dialog
 
