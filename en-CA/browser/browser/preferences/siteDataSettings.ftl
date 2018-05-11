@@ -7,6 +7,7 @@
 
 site-data-settings-window =
     .title = Manage Cookies and Site Data
+site-data-settings-description = The following web sites store cookies and site data on your computer. { -brand-short-name } keeps data from web sites with persistent storage until you delete it, and deletes data from web sites with non-persistent storage as space is needed.
 site-data-search-textbox =
     .placeholder = Search web sites
     .accesskey = S
@@ -31,6 +32,7 @@ site-data-button-save =
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 site-usage-pattern = { $value } { $unit }
+site-usage-persistent = { site-usage-pattern } (Persistent)
 site-data-remove-all =
     .label = Remove All
     .accesskey = e
