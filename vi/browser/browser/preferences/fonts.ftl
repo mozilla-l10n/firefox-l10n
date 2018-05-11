@@ -138,3 +138,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Việt
 fonts-languages-fallback-name-other =
     .label = Khác (gồm Tây Âu)
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = Mặc định ({ $name })
