@@ -592,6 +592,11 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Evästeet ja sivustotiedot
+sitedata-total-size-calculating = Lasketaan sivustotietojen ja välimuistin kokoa…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Evästeet, sivustotiedot ja välimuisti vievät tällä hetkellä { $value } { $unit } levytilaa.
 sitedata-learn-more = Lue lisää
 sitedata-accept-cookies-option =
     .label = Hyväksy evästeet ja sivustotiedot sivustoilta (suositus)

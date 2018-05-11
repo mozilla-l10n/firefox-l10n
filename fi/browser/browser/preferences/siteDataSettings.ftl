@@ -7,6 +7,7 @@
 
 site-data-settings-window =
     .title = Hallitse evästeitä ja sivustotietoja
+site-data-settings-description = Seuraavat sivustot tallentavat evästeitä ja tietoja tietokoneellesi. { -brand-short-name } säilyttää pysyvää tallennustilaa käyttävien sivustojen tiedot, kunnes poistat ne, ja poistaa muiden sivustojen tietoja sitä mukaa, kun tilaa tarvitsee vapauttaa.
 site-data-search-textbox =
     .placeholder = Etsi sivustoja
     .accesskey = E
