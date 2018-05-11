@@ -120,3 +120,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vítneamais
 fonts-languages-fallback-name-other =
     .label = Eile (Iarthar na hEorpa san áireamh)
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = Réamhshocraithe ({ $name })
