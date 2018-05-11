@@ -145,3 +145,5 @@ fonts-very-large-warning-accept = Mantendu nire aldaketak halere
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Lehenetsia ({ $name })
+fonts-label-default-unnamed =
+    .label = Lehenetsia
