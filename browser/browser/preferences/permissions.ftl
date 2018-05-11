@@ -36,6 +36,10 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = Lorg air an làrach-lìn
+permissions-capabilities-allow =
+    .label = Ceadaich
+permissions-capabilities-block =
+    .label = Cuir bacadh air
 
 ## Invalid Hostname Dialog
 
