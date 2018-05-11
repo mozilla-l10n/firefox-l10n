@@ -40,6 +40,8 @@ permissions-capabilities-allow =
     .label = Ceadaich
 permissions-capabilities-block =
     .label = Cuir bacadh air
+permissions-capabilities-prompt =
+    .label = Faighnich dhìom an-còmhnaidh
 
 ## Invalid Hostname Dialog
 
