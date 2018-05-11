@@ -138,3 +138,5 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamita
 fonts-languages-fallback-name-other =
     .label = Otro (incluido Europa oriental)
+fonts-very-large-warning-title = Tamaño mínimo de las letras
+fonts-very-large-warning-accept = Mantener mis cambios de todas maneras
