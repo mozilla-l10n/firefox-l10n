@@ -138,3 +138,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Fietnameg
 fonts-languages-fallback-name-other =
     .label = Eraill (gan gynnwys Gorllewin Ewrop)
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = Rhagosodiad ({ $name })

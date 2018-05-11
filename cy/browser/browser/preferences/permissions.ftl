@@ -36,6 +36,10 @@ permissions-button-ok =
     .accesskey = N
 permissions-searchbox =
     .placeholder = Chwilio'r Wefan
+permissions-capabilities-allow =
+    .label = Caniatáu
+permissions-capabilities-block =
+    .label = Rhwystro
 
 ## Invalid Hostname Dialog
 
