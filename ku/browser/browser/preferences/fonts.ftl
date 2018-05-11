@@ -105,3 +105,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Wiyetnamî
 fonts-languages-fallback-name-other =
     .label = Wekî din (Ewropiya Rojava jî di nav de)
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = Standard ({ $name })
