@@ -145,3 +145,5 @@ fonts-very-large-warning-accept = 确定，保存我的更改
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = 默认（{ $name }）
+fonts-label-default-unnamed =
+    .label = 默认
