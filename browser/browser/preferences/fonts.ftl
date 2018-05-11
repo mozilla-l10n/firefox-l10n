@@ -145,3 +145,5 @@ fonts-very-large-warning-accept = எனது மாற்றங்களை �
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = முன்னிருப்பு ({ $name })
+fonts-label-default-unnamed =
+    .label = இயல்புநிலை
