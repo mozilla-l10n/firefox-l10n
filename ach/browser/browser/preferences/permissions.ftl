@@ -40,6 +40,8 @@ permissions-capabilities-allow =
     .label = Ye
 permissions-capabilities-block =
     .label = Geng
+permissions-capabilities-prompt =
+    .label = Peny jwijwi
 
 ## Invalid Hostname Dialog
 

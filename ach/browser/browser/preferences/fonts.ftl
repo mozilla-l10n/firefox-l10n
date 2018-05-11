@@ -143,3 +143,5 @@ fonts-very-large-warning-accept = Gwok alokaloka na
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = ({ $name }) makwongo
+fonts-label-default-unnamed =
+    .label = Makwongo
