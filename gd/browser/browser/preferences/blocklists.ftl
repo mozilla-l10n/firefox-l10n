@@ -16,3 +16,15 @@ blocklist-button-cancel =
 blocklist-button-ok =
     .label = Sàbhail na h-atharraichean
     .accesskey = S
+# This template constructs the name of the block list in the block lists dialog.
+# It combines the list name and description.
+# e.g. "Standard (Recommended). This list does a pretty good job."
+#
+# Variables:
+#   $listName {string, "Standard (Recommended)."} - List name.
+#   $description {string, "This list does a pretty good job."} - Description of the list.
+blocklist-item-list-template = { $listName } { $description }
+blocklist-item-moz-std-name = Dìon bunasach le Disconnect.me (mholamaid seo).
+blocklist-item-moz-std-desc = Bheir seo cead do chuid a thracairean ach an obraich làraichean-lìn mar bu chòir.
+blocklist-item-moz-full-name = Dìon daingeann le Disconnect.me
+blocklist-item-moz-full-desc = Bacaidh seo tracairean air a bheil daoine eòlach. Dh’fhaoidte nach obraich gach làrach-lìn mar bu chòir.

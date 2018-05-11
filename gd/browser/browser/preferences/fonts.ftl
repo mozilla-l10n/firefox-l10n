@@ -138,6 +138,9 @@ fonts-languages-fallback-name-vietnamese =
     .label = Bhiet-Namais
 fonts-languages-fallback-name-other =
     .label = Eile (a' gabhail a-steach feadhainn na Roinn-Eòrpa an Iar)
+fonts-very-large-warning-title = Ìos-mheud mòr airson cruthan-clò
+fonts-very-large-warning-message = Thagh thu ìos-mheud air leth mòr airson cruthan-clò (nas motha na 24 piogsail). Dh'fhaoidte gum bi e doirbh no do-dhèanta cuid a dhuilleagan roghainnean mar an tè seo a chleachdadh ri rinn sin.
+fonts-very-large-warning-accept = Glèidh na dh'atharraich mi co-dhiù
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
