@@ -36,6 +36,8 @@ permissions-button-ok =
     .accesskey = G
 permissions-searchbox =
     .placeholder = Bilatu webgunea
+permissions-capabilities-block =
+    .label = Blokeatu
 
 ## Invalid Hostname Dialog
 
