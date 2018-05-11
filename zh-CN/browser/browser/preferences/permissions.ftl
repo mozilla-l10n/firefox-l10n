@@ -36,6 +36,10 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = 搜索网站
+permissions-capabilities-allow =
+    .label = 允许
+permissions-capabilities-block =
+    .label = 阻止
 
 ## Invalid Hostname Dialog
 
