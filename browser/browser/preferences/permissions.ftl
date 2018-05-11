@@ -36,6 +36,8 @@ permissions-button-ok =
     .accesskey = З
 permissions-searchbox =
     .placeholder = Търсене на страница
+permissions-capabilities-allow =
+    .label = Разрешаване
 
 ## Invalid Hostname Dialog
 
