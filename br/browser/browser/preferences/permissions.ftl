@@ -36,6 +36,10 @@ permissions-button-ok =
     .accesskey = E
 permissions-searchbox =
     .placeholder = Klask lec'hiennoù
+permissions-capabilities-allow =
+    .label = Aotren
+permissions-capabilities-block =
+    .label = Herzel
 
 ## Invalid Hostname Dialog
 

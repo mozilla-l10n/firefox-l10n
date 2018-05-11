@@ -138,3 +138,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnameg
 fonts-languages-fallback-name-other =
     .label = All (Kornôg Europa e-barzh)
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = Diouer ({ $name })
