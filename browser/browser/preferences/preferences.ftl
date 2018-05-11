@@ -601,6 +601,11 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Placki a sydłowe daty
+sitedata-total-size-calculating = Wulkosć sydłowych datow a pufrowaka so wuličuje…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Waše składowane placki, sydłowe daty a pufrowak so tuchwilu { $value } { $unit } tačeloweho ruma wužiwaja.
 sitedata-learn-more = Dalše informacije
 sitedata-accept-cookies-option =
     .label = Placki a sydłowe daty z websydłow akceptować (doporučene)

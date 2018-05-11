@@ -7,6 +7,7 @@
 
 site-data-settings-window =
     .title = Placki a sydłowe daty rjadować
+site-data-settings-description = Slědowace websydła placki a sydłowe daty na wašim ličaku składuja. { -brand-short-name } daty z websydłow z wobstajnym składowanjom wobchowuje, doniž je njezhašeće, a zhaša daty z websydłow z njewobstajnym składowanjom, jeli swobodny rum je trěbny.
 site-data-search-textbox =
     .placeholder = Websydła pytać
     .accesskey = s
@@ -27,6 +28,11 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Změny składować
     .accesskey = s
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+site-usage-pattern = { $value } { $unit }
+site-usage-persistent = { site-usage-pattern } (wobstajny)
 site-data-remove-all =
     .label = Wšě wotstronić
     .accesskey = s
