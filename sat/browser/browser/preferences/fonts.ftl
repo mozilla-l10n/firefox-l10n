@@ -107,3 +107,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = वियतनामी
 fonts-languages-fallback-name-other =
     .label = एटागाक् (वेस्टार्न युरोप रेयाक्)
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = हुड़ा़क् ({ $name })

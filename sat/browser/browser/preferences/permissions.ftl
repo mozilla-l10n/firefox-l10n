@@ -18,6 +18,10 @@ permissions-status =
 permissions-button-cancel =
     .label = बा़डरा़  (C)
     .accesskey = C
+permissions-capabilities-allow =
+    .label = बाताव एम
+permissions-capabilities-block =
+    .label = आकोट
 
 ## Invalid Hostname Dialog
 
