@@ -36,6 +36,10 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = Nadi asmel web
+permissions-capabilities-allow =
+    .label = Sireg
+permissions-capabilities-block =
+    .label = Sewḥel
 
 ## Invalid Hostname Dialog
 

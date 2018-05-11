@@ -138,3 +138,8 @@ fonts-languages-fallback-name-vietnamese =
     .label = Tavyiṭnamit
 fonts-languages-fallback-name-other =
     .label = Ayen-nniḍen (Yedda Uṛup n umalu)
+fonts-very-large-warning-accept = Ḥrez asnifel-iw akken yebɣa yella waddad
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = S uwennez amezwaru ({ $name })

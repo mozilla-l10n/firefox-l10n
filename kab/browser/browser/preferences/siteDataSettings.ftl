@@ -27,6 +27,12 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Sekles asnifel
     .accesskey = S
+site-data-remove-all =
+    .label = Kkes akk
+    .accesskey = K
+site-data-remove-shown =
+    .label = Kkes akk ayen ittwasknen
+    .accesskey = a
 
 ## Removing
 
