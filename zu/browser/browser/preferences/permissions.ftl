@@ -18,6 +18,10 @@ permissions-status =
 permissions-button-cancel =
     .label = Khansela
     .accesskey = K
+permissions-capabilities-allow =
+    .label = Vumela
+permissions-capabilities-block =
+    .label = Vimbela
 
 ## Invalid Hostname Dialog
 
