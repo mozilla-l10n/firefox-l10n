@@ -36,6 +36,8 @@ permissions-button-ok =
     .accesskey = K
 permissions-searchbox =
     .placeholder = Tikanöx K'amaya'l
+permissions-capabilities-block =
+    .label = Tiq'eleb'ëx
 
 ## Invalid Hostname Dialog
 
