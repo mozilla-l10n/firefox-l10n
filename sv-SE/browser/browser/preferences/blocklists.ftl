@@ -27,3 +27,4 @@ blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-name = Disconnect.me grundskydd (rekommenderas).
 blocklist-item-moz-std-desc = Tillåter viss spårning så att webbplatser fungerar korrekt.
 blocklist-item-moz-full-name = Disconnect.me strikt skydd.
+blocklist-item-moz-full-desc = Blockerar kända spårare. Vissa webbplatser kanske inte fungerar korrekt.
