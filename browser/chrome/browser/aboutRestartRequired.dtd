@@ -5,3 +5,4 @@
 <!ENTITY restartRequired.title "需要重新啟動">
 
 
+<!ENTITY restartButton.label "重開 &brandShortName;">
