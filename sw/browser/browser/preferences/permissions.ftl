@@ -15,6 +15,10 @@ permissions-allow =
     .accesskey = R
 permissions-status =
     .label = Hadhi
+permissions-capabilities-allow =
+    .label = Ruhusu
+permissions-capabilities-block =
+    .label = Zuia
 
 ## Invalid Hostname Dialog
 

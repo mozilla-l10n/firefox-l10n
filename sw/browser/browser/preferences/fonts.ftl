@@ -67,3 +67,7 @@ fonts-languages-fallback-name-traditional =
     .label = Kichina, Tamaduni
 fonts-languages-fallback-name-vietnamese =
     .label = Kivietnamu
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = Chaguo-msingi ({ $name })
