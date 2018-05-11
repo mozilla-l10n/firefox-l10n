@@ -120,3 +120,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = វៀតណាម
 fonts-languages-fallback-name-other =
     .label = ផ្សេង​ទៀត (អឺរ៉ុប​ខាងលិច incl.)
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = លំនាំដើម ({ $name })

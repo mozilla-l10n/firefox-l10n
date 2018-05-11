@@ -24,6 +24,10 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = រក្សាទុក​ការ​ផ្លាស់ប្ដូរ
     .accesskey = S
+permissions-capabilities-allow =
+    .label = អនុញ្ញាត
+permissions-capabilities-block =
+    .label = ទប់ស្កាត់
 
 ## Invalid Hostname Dialog
 
