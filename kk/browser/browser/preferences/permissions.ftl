@@ -40,6 +40,8 @@ permissions-capabilities-allow =
     .label = Рұқсат ету
 permissions-capabilities-block =
     .label = Болдырмау
+permissions-capabilities-prompt =
+    .label = Әрқашан сұрау
 
 ## Invalid Hostname Dialog
 

@@ -27,11 +27,24 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Өзгерістерді сақтау
     .accesskey = с
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+site-usage-pattern = { $value } { $unit }
+site-data-remove-all =
+    .label = Барлығын өшіру
+    .accesskey = а
+site-data-remove-shown =
+    .label = Көрсетілгеннің барлығын өшіру
+    .accesskey = р
 
 ## Removing
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-dialog =
+    .title = { site-data-removing-header }
+    .buttonlabelaccept = Өшіру
 site-data-removing-header = Cookies файлдары және сайт деректерін өшіру
 site-data-removing-desc = Cookies файлдарын және сайт деректерін өшіру нәтижесінде сіз сайттардан шығуыңыз мүмкін. Өзгерістерді іске асыруды қалайсыз ба?
 site-data-removing-table = Келесі веб-сайттар үшін cookies файлдары және сайттар деректері өшірілетін болады
