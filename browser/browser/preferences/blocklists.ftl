@@ -24,4 +24,7 @@ blocklist-button-ok =
 #   $listName {string, "Standard (Recommended)."} - List name.
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
+blocklist-item-moz-std-name = Βασική προστασία Disconnect.me (Προτεινόμενη).
+blocklist-item-moz-std-desc = Επιτρέπει κάποιες καταγραφές προκειμένου να λειτουργούν σωστά οι ιστοσελίδες.
+blocklist-item-moz-full-name = Αυστηρή προστασία Disconnect.me.
 blocklist-item-moz-full-desc = Αποκλεισμός γνωστών μηχανισμών παρακολούθησης. Ορισμένες ιστοσελίδες ενδέχεται να μη λειτουργήσουν σωστά.
