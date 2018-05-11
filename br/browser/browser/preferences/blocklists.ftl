@@ -27,3 +27,4 @@ blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-name = Gwarez diazez Disconnect.me (erbedet).
 blocklist-item-moz-std-desc = Aotren heulierien evit ma 'z afe al lec'hiennoù en-dro.
 blocklist-item-moz-full-name = Gwarez Disconnect.me strizh.
+blocklist-item-moz-full-desc = Stankañ an heulierien anavezet. Gallout a raio ul lodenn eus al lec'hiennoù chom hep mont en-dro.

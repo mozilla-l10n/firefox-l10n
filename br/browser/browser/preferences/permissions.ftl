@@ -40,6 +40,8 @@ permissions-capabilities-allow =
     .label = Aotren
 permissions-capabilities-block =
     .label = Herzel
+permissions-capabilities-prompt =
+    .label = Goulenn bewech
 
 ## Invalid Hostname Dialog
 
