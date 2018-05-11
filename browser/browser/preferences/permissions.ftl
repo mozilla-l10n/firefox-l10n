@@ -36,6 +36,10 @@ permissions-button-ok =
     .accesskey = ש
 permissions-searchbox =
     .placeholder = חיפוש אתר
+permissions-capabilities-allow =
+    .label = הרשה
+permissions-capabilities-block =
+    .label = חסום
 
 ## Invalid Hostname Dialog
 
