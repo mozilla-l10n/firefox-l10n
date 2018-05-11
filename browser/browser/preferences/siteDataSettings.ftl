@@ -7,6 +7,7 @@
 
 site-data-settings-window =
     .title = Pārvaldīt sīkdatnes un lapas datus
+site-data-settings-description = Šīs lapas glabā sīkdatnes un kešatmiņu jūsu datorā. { -brand-short-name } glabā mājas lapu datus pastāvīgajā krātuvē līdz brīdim, kad jūs tos izdzēšat, ne-pastāvīgās krātuves dati tiek dzēstu, kad nepieciešama papildu vieta.
 site-data-search-textbox =
     .placeholder = Meklēt lapas
     .accesskey = S
@@ -27,11 +28,25 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Saglabāt izmaiņas
     .accesskey = a
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+site-usage-pattern = { $value } { $unit }
+site-usage-persistent = { site-usage-pattern } (pastāvīga)
+site-data-remove-all =
+    .label = Izmest visas
+    .accesskey = e
+site-data-remove-shown =
+    .label = Noņemt visas redzamās
+    .accesskey = e
 
 ## Removing
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-dialog =
+    .title = { site-data-removing-header }
+    .buttonlabelaccept = Aizvākt
 site-data-removing-header = Aizvāc sīkdatnes un kešatmiņu
 site-data-removing-desc = Datu aizvākšana var pārtraukt jūsu autorizācijas sesijas lapās. Vai tiešām vēlaties veikt izmaiņas?
 site-data-removing-table = Šo vietņu sīkdatnes un kešatmiņa tiks aizvākta

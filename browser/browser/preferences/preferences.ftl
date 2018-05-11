@@ -592,6 +592,11 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Sīkdatnes un lapu dati
+sitedata-total-size-calculating = Aprēķina izmantotās vietas apjomu…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Jūsu saglabātās sīkdatnes un kešatmiņa šobrīd aizņem { $value } { $unit } vietas.
 sitedata-learn-more = Uzzināt vairāk
 sitedata-accept-cookies-option =
     .label = Pieņemt sīkdatnes un kešatmiņu no lapām (ieteicams)

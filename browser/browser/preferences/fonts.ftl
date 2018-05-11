@@ -145,3 +145,5 @@ fonts-very-large-warning-accept = Saglabāt manas izmaiņas
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Noklusētais ({ $name })
+fonts-label-default-unnamed =
+    .label = Noklusētā
