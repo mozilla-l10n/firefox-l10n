@@ -595,6 +595,11 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookie-ներ և կայքի տվյալներ
+sitedata-total-size-calculating = Հաշվում է կայքի տվյալները և շտեմի չափը…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Ձեր cookie-ները, կայքի տվյալները և շտեմը այժմ զբաղեցնում են { $value } { $unit } տեղ:
 sitedata-learn-more = Իմանալ ավելին
 sitedata-accept-cookies-option =
     .label = Ընդունել cookie-ներ և կայքի տվյալներ կայքերից (հանձնարարելի)
