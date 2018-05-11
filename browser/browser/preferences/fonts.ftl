@@ -138,6 +138,8 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamesisk
 fonts-languages-fallback-name-other =
     .label = Anna (inkl. vesteuropeisk)
+fonts-very-large-warning-title = Stor minimum-skriftstrleik
+fonts-very-large-warning-accept = Behald endringane likevel
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
