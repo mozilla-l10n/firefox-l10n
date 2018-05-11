@@ -40,6 +40,8 @@ permissions-capabilities-allow =
     .label = Дазволіць
 permissions-capabilities-block =
     .label = Блакаваць
+permissions-capabilities-prompt =
+    .label = Заўсёды пытаць
 
 ## Invalid Hostname Dialog
 
