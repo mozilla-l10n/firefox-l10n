@@ -27,3 +27,4 @@ blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-name = Disconnect.me মৌলিক সুরক্ষা (প্রস্তাবিত)।
 blocklist-item-moz-std-desc = ওয়েবসাইট সঠিকভাবে কাজ করতে পারার জন্য কিছু ট্র্যাকার অনুমোদন করা।
 blocklist-item-moz-full-name = Disconnect.me সুরক্ষা কঠোর করে।
+blocklist-item-moz-full-desc = চেনা ট্র্যাকার ব্লক করুন। কিছু ওয়েবসাইট সঠিকভাবে কাজ নাও করতে পারে।
