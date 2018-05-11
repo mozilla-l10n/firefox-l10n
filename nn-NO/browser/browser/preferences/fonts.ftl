@@ -139,8 +139,11 @@ fonts-languages-fallback-name-vietnamese =
 fonts-languages-fallback-name-other =
     .label = Anna (inkl. vesteuropeisk)
 fonts-very-large-warning-title = Stor minimum-skriftstrleik
+fonts-very-large-warning-message = Du har valt ein veldig stor minimum-skriftstorleik (meir enn 24 pikslar). Dette kan gjere det vanskeleg eller umogleg å bruke nokre viktige innstillingssider, som til dømes denne.
 fonts-very-large-warning-accept = Behald endringane likevel
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Standard ({ $name })
+fonts-label-default-unnamed =
+    .label = Standard
