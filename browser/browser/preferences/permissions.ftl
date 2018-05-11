@@ -36,6 +36,10 @@ permissions-button-ok =
     .accesskey = ذ
 permissions-searchbox =
     .placeholder = جست‌وجو وب‌سایت
+permissions-capabilities-allow =
+    .label = اجازه دادن
+permissions-capabilities-block =
+    .label = باز داشتن
 
 ## Invalid Hostname Dialog
 
