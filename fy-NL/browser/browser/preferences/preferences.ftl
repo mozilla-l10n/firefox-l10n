@@ -595,6 +595,11 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookies en websitegegevens
+sitedata-total-size-calculating = Grutte fan websitegegevens en buffer berekkenje…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Jo bewarre cookies, websitegegevens en buffer brûke op dit stuit { $value } { $unit } oan skiifromte.
 sitedata-learn-more = Mear ynfo
 sitedata-accept-cookies-option =
     .label = Cookies en websitegegevens fan websites akseptearje (oanrekommandearre)

@@ -7,6 +7,7 @@
 
 site-data-settings-window =
     .title = Cookies en websitegegevens beheare
+site-data-settings-description = De folgjende websites bewarje cookies en websitegegevens op jo kompjûter. { -brand-short-name } bewarret gegevens fan websites mei permanint ûnthâld oant jo dizze fuortsmite, en smyt gegevens fan websites mei net-permanint ûnthâld fuort sa gau as der romte nedich is.
 site-data-search-textbox =
     .placeholder = Websites trochsykje
     .accesskey = W
@@ -27,11 +28,25 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Wizigingen bewarje
     .accesskey = W
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+site-usage-pattern = { $value } { $unit }
+site-usage-persistent = { site-usage-pattern } (Permanint)
+site-data-remove-all =
+    .label = Alle fuortsmite
+    .accesskey = e
+site-data-remove-shown =
+    .label = Alle toande fuortsmite
+    .accesskey = e
 
 ## Removing
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-dialog =
+    .title = { site-data-removing-header }
+    .buttonlabelaccept = Fuortsmite
 site-data-removing-header = Cookies en websitegegevens fuortsmite
 site-data-removing-desc = It fuortsmiten fan cookies en websitegegevens kin jo by websites ôfmelde. Binne jo wis dat jo de wizigingen oanbringe wolle?
 site-data-removing-table = Cookies en websitegegevens foar de folgjende websites sille fuortsmiten wurde
