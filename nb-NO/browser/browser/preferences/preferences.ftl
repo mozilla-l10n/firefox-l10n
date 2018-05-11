@@ -595,6 +595,11 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Infokapsler og nettstedsdata
+sitedata-total-size-calculating = Regner ut størrelse på nettstedsdata og hurtiglager…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Dine lagrede infokapsler, nettstedsdata og hurtiglager bruker for øyeblikket { $value } { $unit } diskplass.
 sitedata-learn-more = Les mer
 sitedata-accept-cookies-option =
     .label = Tillat infokapsler og nettsidedata fra nettsteder (anbefalt)
