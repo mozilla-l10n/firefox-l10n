@@ -5,7 +5,7 @@
 clear-site-data-window =
     .title = Cancele i dâts
     .style = largjece: 35em
-clear-site-data-description = Se tu cancelis ducj i cookies e i dâts dal sît memorizâts in { -brand-short-name } tu podis cjatâti fûr dai sîts web dulà che tu ti jeris regjistrât. Ancje il contignût web fûr linie al vegnarà tirât vie. La pulizie de cache no a nissune conseguìnse sui toi acès. 
+clear-site-data-description = Se tu cancelis ducj i cookies e i dâts dal sît memorizâts in { -brand-short-name } tu podis cjatâti fûr dai sîts web dulà che tu ti jeris regjistrât. Ancje il contignût web fûr linie al vegnarà tirât vie. La pulizie de cache no a nissune conseguence sui tiei acès. 
 clear-site-data-close-key =
     .key = w
 # The parameters in parentheses in this string describe disk usage
