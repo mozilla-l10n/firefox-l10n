@@ -138,3 +138,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnameze
 fonts-languages-fallback-name-other =
     .label = Të tjera (përfshi Europiane Perëndimore)
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = Parazgjedhje ({ $name })
