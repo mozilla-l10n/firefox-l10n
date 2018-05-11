@@ -27,6 +27,12 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Сачувај промене
     .accesskey = С
+site-data-remove-all =
+    .label = Уклони све
+    .accesskey = с
+site-data-remove-shown =
+    .label = Уклони све приказане
+    .accesskey = к
 
 ## Removing
 
