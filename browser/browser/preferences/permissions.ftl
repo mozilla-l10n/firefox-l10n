@@ -36,6 +36,10 @@ permissions-button-ok =
     .accesskey = Π
 permissions-searchbox =
     .placeholder = Αναζήτηση ιστοσελίδας
+permissions-capabilities-allow =
+    .label = Να επιτρέπεται
+permissions-capabilities-block =
+    .label = Φραγή
 
 ## Invalid Hostname Dialog
 
