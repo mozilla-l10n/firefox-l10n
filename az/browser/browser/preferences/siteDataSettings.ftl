@@ -27,6 +27,16 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Dəyişiklikləri Yadda Saxla
     .accesskey = a
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+site-usage-pattern = { $value } { $unit }
+site-data-remove-all =
+    .label = Hamısını sil
+    .accesskey = e
+site-data-remove-shown =
+    .label = Göstərilənlərin Hamısını Sil
+    .accesskey = e
 
 ## Removing
 
