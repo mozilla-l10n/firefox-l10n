@@ -36,6 +36,10 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = Cari Situs Web
+permissions-capabilities-allow =
+    .label = Izinkan
+permissions-capabilities-block =
+    .label = Blokir
 
 ## Invalid Hostname Dialog
 
