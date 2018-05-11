@@ -65,3 +65,7 @@ fonts-minsize-none =
 
 fonts-languages-fallback-name-vietnamese =
     .label = Vietnamese
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = Анхных ({ $name })
