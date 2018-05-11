@@ -138,6 +138,9 @@ fonts-languages-fallback-name-vietnamese =
     .label = В'етнамская
 fonts-languages-fallback-name-other =
     .label = Іншая (укл. Заходне-Еўрапейскія)
+fonts-very-large-warning-title = Завялікі мінімальны памер шрыфту
+fonts-very-large-warning-message = Вы выбралі дужа вялікі мінімальны памер шрыфту (больш за 24 пікселі). Гэта можа зрабіць выкарыстанне некаторых канфігурацыйных старонак, кшталту гэтай, цяжкім або немагчымым.
+fonts-very-large-warning-accept = Запісаць мае змены ўсё адно
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

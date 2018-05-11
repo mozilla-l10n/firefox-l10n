@@ -24,5 +24,6 @@ blocklist-button-ok =
 #   $listName {string, "Standard (Recommended)."} - List name.
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
+blocklist-item-moz-std-name = Disconnect.me, базавая ахова (рэкамендуецца).
 blocklist-item-moz-std-desc = Дазваляе некаторыя трэкеры для карэктнай працы вэб-сайтаў.
 blocklist-item-moz-full-name = Disconnect.me, строгая ахова.
