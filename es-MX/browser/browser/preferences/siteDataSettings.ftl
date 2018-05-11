@@ -7,6 +7,7 @@
 
 site-data-settings-window =
     .title = Administrar cookies y datos del sitio
+site-data-settings-description = Los siguientes sitios web almacenan cookies y datos del sitio en tu equipo. { -brand-short-name } conserva los datos de los sitios web con almacenamiento persistente hasta que los elimines y cuando se necesite espacio adicional, elimina los datos de sitios sin almacenamiento persistente.
 site-data-search-textbox =
     .placeholder = Buscar sitios
     .accesskey = S
@@ -27,6 +28,11 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Guardar cambios
     .accesskey = a
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+site-usage-pattern = { $value } { $unit }
+site-usage-persistent = { site-usage-pattern } (Persistente)
 
 ## Removing
 

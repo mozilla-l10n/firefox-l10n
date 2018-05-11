@@ -595,6 +595,11 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookies y datos del sitio
+sitedata-total-size-calculating = Calculando tamaño de los datos del sitio y el caché…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Tus cookies, datos del sitio y caché almacenados ocupan actualmente un { $value } { $unit } del espacio en disco.
 sitedata-learn-more = Aprender más
 sitedata-accept-cookies-option =
     .label = Aceptar cookies y datos de los sitios web (recomendado)
