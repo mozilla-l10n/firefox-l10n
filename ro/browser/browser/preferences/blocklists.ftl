@@ -25,3 +25,6 @@ blocklist-button-ok =
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-name = Protecție de bază Disconnect.me (Recomandat).
+blocklist-item-moz-std-desc = Permite unii urmăritori astfel încât site-urile web să funcționeze corespunzător.
+blocklist-item-moz-full-name = Protecție strictă Disconnect.me.
+blocklist-item-moz-full-desc = Blochează urmăritorii cunoscuți. Este posibil ca unele site-uri web să nu funcționeze corespunzător.

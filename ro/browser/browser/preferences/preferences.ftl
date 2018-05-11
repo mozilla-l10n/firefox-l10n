@@ -598,6 +598,11 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookie-uri și date ale site-urilor
+sitedata-total-size-calculating = Se calculează datele site-urilor și dimensiunea cache-ului…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Cookie-urile stocate, datele site-urilor și cache-ul folosesc în prezent { $value } { $unit } din spațiul de pe disc.
 sitedata-learn-more = Află mai multe
 sitedata-accept-cookies-option =
     .label = Acceptă cookie-urile și datele site-urilor de la site-uri web (recomandat)
