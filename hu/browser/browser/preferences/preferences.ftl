@@ -595,6 +595,11 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Sütik és oldaladatok
+sitedata-total-size-calculating = Az oldaladatok és a gyorsítótár méretének kiszámítása…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = A tárolt sütik, oldaladatok és a gyorsítótár jelenleg { $value } { $unit } területet foglal el a lemezen.
 sitedata-learn-more = További tudnivalók
 sitedata-accept-cookies-option =
     .label = Sütik és oldaladatok elfogadása a webhelyektől (ajánlott)
