@@ -36,6 +36,10 @@ permissions-button-ok =
     .accesskey = T
 permissions-searchbox =
     .placeholder = Etsi sivustoa
+permissions-capabilities-allow =
+    .label = Salli
+permissions-capabilities-block =
+    .label = Estä
 
 ## Invalid Hostname Dialog
 
