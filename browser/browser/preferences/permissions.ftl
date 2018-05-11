@@ -91,6 +91,7 @@ permissions-site-notification-window =
 permissions-site-notification-desc = निम्नलिखित वेबसाइटों ने आपको सूचनाएँ भेजने का अनुरोध किया है. आप निर्दिष्ट कर सकते है कि किन वेबसाइटों को आपको सूचनाएं भेजने की अनुमति है. आप सूचनाओं को अनुमति देने के लिए पूछ रहे नए अनुरोधों को अवरोधित भी कर सकते हैं.
 permissions-site-notification-disable-label =
     .label = अधिसूचना की अनुमति के लिए पूछ रहे नए अनुरोधों को ब्लॉक करें
+permissions-site-notification-disable-desc = इससे किसी भी वेबसाइट को आपको अधिसूचना देने की अनुमति के लिए अनुरोध करने से नहीं रोका जा सकेगा. अधिसूचना ब्लॉक करने से कुछ वेबसाइट सुविधाएं टूट सकती हैं.
 
 ## Site Permissions - Location
 
