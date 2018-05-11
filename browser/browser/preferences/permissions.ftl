@@ -36,6 +36,10 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = వెబ్‌సైట్లను వెతకండి
+permissions-capabilities-allow =
+    .label = అనుమతించు
+permissions-capabilities-block =
+    .label = నిరోధించు
 permissions-capabilities-prompt =
     .label = ఎల్లప్పుడూ అడుగు
 

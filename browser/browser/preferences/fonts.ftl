@@ -136,6 +136,8 @@ fonts-languages-fallback-name-vietnamese =
     .label = వియత్నామీస్
 fonts-languages-fallback-name-other =
     .label = ఇతర (పశ్చిమ యూరోపియనుతో కలిపి)
+fonts-very-large-warning-title = పెద్ద కనీస ఫాంటు పరిమాణం:
+fonts-very-large-warning-message = మీరు పెద్ద కనీస ఫాంట్ పరిమాణ్ణి (24 పిక్సెల్స్ కన్నా ఎక్కువ) ఎంచుకున్నారు. అది ఈ రకమైన ముఖ్యమైన ఆకృతీకరణ పేజీలను ఉపయోగించుటను క్లిష్టతరం లేదా అసాధ్యం చేస్తుంది.
 fonts-very-large-warning-accept = ఏమైనా నా మార్పులను ఉండనివ్వు
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
