@@ -598,6 +598,7 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Куки и данные сайтов
+sitedata-total-size-calculating = Вычисление объема данных сайтов и кэша…
 sitedata-learn-more = Подробнее
 sitedata-accept-cookies-option =
     .label = Принимать куки и данные сайтов с веб-сайтов (рекомендуется)
