@@ -145,3 +145,5 @@ fonts-very-large-warning-accept = Saglobuot munys izmaiņis
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Nūkluseitais ({ $name })
+fonts-label-default-unnamed =
+    .label = Nūkluseitais

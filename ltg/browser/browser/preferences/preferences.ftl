@@ -592,6 +592,11 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookies un lopys dati
+sitedata-total-size-calculating = Aprieķina lopys datu un cache izmāru…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Tovys saglobōtōs seikdatnes un kešatmiņa itymā strāčī aizjem { $value } { $unit } vītys.
 sitedata-learn-more = Uzzynojit vairuok
 sitedata-accept-cookies-option =
     .label = Pījimt seikdatnes un kešatmiņu nu lopom (īsokams)
