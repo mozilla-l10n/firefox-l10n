@@ -138,6 +138,8 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnameză
 fonts-languages-fallback-name-other =
     .label = Alta (inclusiv vest europeană)
+fonts-very-large-warning-title = Dimensiune minimă mare a fonturilor
+fonts-very-large-warning-accept = Păstrează-mi schimbările oricum
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
