@@ -145,3 +145,5 @@ fonts-very-large-warning-accept = Tamen konservi miajn ŝanĝojn
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Norma ({ $name })
+fonts-label-default-unnamed =
+    .label = Norma
