@@ -40,6 +40,8 @@ permissions-capabilities-allow =
     .label = അനുവദിക്കുക{ " " }
 permissions-capabilities-block =
     .label = തടയുക{ " " }
+permissions-capabilities-prompt =
+    .label = എപ്പോഴും ചോദിക്കുക
 
 ## Invalid Hostname Dialog
 

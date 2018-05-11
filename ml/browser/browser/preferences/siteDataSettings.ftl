@@ -21,8 +21,21 @@ site-data-button-cancel =
 site-data-button-save =
     .label = മാറ്റങ്ങള്‍ സൂക്ഷിക്കുക
     .accesskey = a
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+site-usage-pattern = { $value } { $unit }
+site-data-remove-all =
+    .label = എല്ലാം നീക്കം ചെയ്യുക
+    .accesskey = e
+site-data-remove-shown =
+    .label = കാണിച്ചെല്ലാം നീക്കംചെയ്യുക
+    .accesskey = e
 
 ## Removing
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-dialog =
+    .title = { site-data-removing-header }
+    .buttonlabelaccept = നീക്കംചെയ്യുക
