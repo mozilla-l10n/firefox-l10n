@@ -134,6 +134,9 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamese
 fonts-languages-fallback-name-other =
     .label = دیگر (بشمول مغربی یورپی)
+fonts-very-large-warning-title = بڑا کم سے کم فانٹ سائز
+fonts-very-large-warning-message = آپ نے بہت بڈی کم از کم فانٹ سائز منتخب کی ہیں (24 دانہ سے مزید)۔ اس طرح کے کچھ اہم ترتیب صفحات کو استعمال کرنے میں یہ مشکل یا ناممکن بن سکتے ہیں.
+fonts-very-large-warning-accept = ویسے بھی میرا تبدیلیاں رکھیں
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
