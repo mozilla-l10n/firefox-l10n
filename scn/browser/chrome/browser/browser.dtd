@@ -52,6 +52,7 @@ can reach it easily. -->
 <!ENTITY  closeTab.label                     "Chiudi scheda">
 
 
+
 <!ENTITY tabCmd.label "Nova scheda">
 <!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
@@ -140,7 +141,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Mustra tutti li nzingalibbra">
 <!ENTITY otherBookmarksCmd.label "Àutri nzingalibbra">
 <!ENTITY mobileBookmarksCmd.label "Nzingalibbra dû smarfu">
-<!ENTITY hideRecentlyBookmarked.label     "Ammuccia nzingalibbra cchiú novi">
 
 <!ENTITY backCmd.label                "Nn'arredi">
 <!ENTITY backCmd.accesskey            "a">
@@ -156,9 +156,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Traduci sta pàggina">
-
-
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mustra crunuluggía">
@@ -181,7 +180,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addBookmarksMenu.label             "Agghiunci lu menú dî nzingalibbra â sbarra dî strummenta">
 <!ENTITY removeBookmarksMenu.label          "Leva lu menú dî nzingalibbra dâ sbarra dî strummenta">
 
-<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 <!ENTITY bookmarksGtkCmd.commandkey "o">
@@ -207,6 +206,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY fileMenu.label         "Pricu">
 <!ENTITY fileMenu.accesskey       "P">
 <!ENTITY newNavigatorCmd.label        "Nova finestra">
@@ -214,7 +214,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Nova finestra ammucciata">
 <!ENTITY newPrivateWindow.accesskey "a">
-<!ENTITY newNonRemoteWindow.label   "Nova finestra nun-e10s">
 
 <!ENTITY editMenu.label         "Cancia">
 <!ENTITY editMenu.accesskey       "C">
@@ -259,13 +258,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Mustra tutta la crunuluggía">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Pirsunalizza">
-<!ENTITY appMenuCustomizeExit.tooltip "Finisci di pirsunalizzari">
-
 <!ENTITY appMenuHistory.showAll.label "Mustra tutta la crunuluggía">
 <!ENTITY appMenuHistory.viewSidebar.label "Talía sbarra di ciancu dâ crunuluggía">
 <!ENTITY appMenuHelp.label "Aiutu">
-<!ENTITY appMenuHelp.tooltip "Grapi menú d'aiutu">
 
 <!ENTITY appMenuRemoteTabs.label "Schedi sincrunizzati">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -280,14 +275,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.showAll.label "Mustra tuttu">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.openprefs.label "Prifirenzi di sincrunizzazzioni">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Trasi pi taliari na lista dî schedi di l'àutri apparecchi toi.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Lu to' cuntu àvi a èssiri virificatu.">
 <!ENTITY appMenuRemoteTabs.signin.label "Trasi nna Sync">
-
 
 
 <!ENTITY customizeMenu.addToToolbar.label "Agghiunci nnâ sbarra dî strummenta">
@@ -312,6 +305,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromMenu.label "Leva dô Menu">
 <!ENTITY customizeMenu.removeFromMenu.accesskey "L">
 
+
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
@@ -319,12 +313,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.switchToTab.label     "Passa â scheda:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Cchiú nfurmazzioni…">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "No">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Sí">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "s">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Suggirimentu:">
@@ -492,6 +480,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 
+<!ENTITY sidebarCloseButton.tooltip     "Chiudi la sbarra di ciancu">
+<!ENTITY sidebarMenuClose.label         "Chiudi la sbarra di ciancu">
 
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
@@ -501,7 +491,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">
 
 <!ENTITY toggleMuteCmd.key              "M">
-
 
 
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -539,7 +528,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 
-
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
      These access keys are identical because their associated menu items are
@@ -549,7 +537,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Poi scègghiri di migghiara d'agghiuncitini">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
@@ -591,6 +578,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY emeLearnMoreContextMenu.label            "Cchiú nfurmazzioni supra lu DRM…">
+<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+
 
 
 
@@ -606,3 +596,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
      used as a textual label for the indicator used by assistive technology
      users. -->
+
+<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
+     The first <image> tag is replaced with the icon for the add-ons menu.
+     The second <image> tag is replaced with the icon for the toolbar menu. -->
