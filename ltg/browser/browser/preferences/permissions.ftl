@@ -40,6 +40,8 @@ permissions-capabilities-allow =
     .label = Atļaut
 permissions-capabilities-block =
     .label = Blokeit
+permissions-capabilities-prompt =
+    .label = Vīnmār vaicuot
 
 ## Invalid Hostname Dialog
 
