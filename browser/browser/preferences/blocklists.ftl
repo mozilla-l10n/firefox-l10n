@@ -16,3 +16,6 @@ blocklist-button-cancel =
 blocklist-button-ok =
     .label = Lưu thay đổi
     .accesskey = L
+blocklist-item-moz-std-name = Bảo vệ cơ bản của Disconnect.me (khuyên dùng).
+blocklist-item-moz-std-desc = Cho phép một vài hệ thống theo dõi để trang hoạt động đúng.
+blocklist-item-moz-full-name = Bảo vệ nghiêm ngặt của Disconnect.me.

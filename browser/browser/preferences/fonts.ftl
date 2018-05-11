@@ -138,6 +138,9 @@ fonts-languages-fallback-name-vietnamese =
     .label = Việt
 fonts-languages-fallback-name-other =
     .label = Khác (gồm Tây Âu)
+fonts-very-large-warning-title = Cỡ phông tối thiểu lớn
+fonts-very-large-warning-message = Bạn đã chọn cỡ phông tối thiểu rất lớn (hơn 24 điểm ảnh). Điều này có thể gây khó khăn hoặc bất khả thi trong việc sử dụng trang cấu hình quan trọng như trang này.
+fonts-very-large-warning-accept = Giữ các thay đổi của tôi
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
