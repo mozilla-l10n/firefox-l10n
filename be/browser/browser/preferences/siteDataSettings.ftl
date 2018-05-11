@@ -7,6 +7,7 @@
 
 site-data-settings-window =
     .title = Кіраваць кукамі і дадзенымі сайтаў
+site-data-settings-description = Наступныя вэб-сайты захоўваюць кукі і дадзеныя сайтаў на вашым камп'ютары. { -brand-short-name } трымае звесткі з сайтаў у сталым сховішчы пакуль вы не выдаліце іх, і выдаляе дадзеныя вэб-сайтаў з нясталага сховішча, калі патрэбна прастора.
 site-data-search-textbox =
     .placeholder = Пошук вэб-сайтаў
     .accesskey = П
@@ -27,6 +28,11 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Захаваць змены
     .accesskey = а
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+site-usage-pattern = { $value } { $unit }
+site-usage-persistent = { site-usage-pattern } (Стала)
 site-data-remove-all =
     .label = Выдаліць усе
     .accesskey = л
