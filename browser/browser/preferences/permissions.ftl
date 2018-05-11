@@ -18,6 +18,10 @@ permissions-allow =
     .accesskey = A
 permissions-status =
     .label = Izinga
+permissions-capabilities-allow =
+    .label = Vumela
+permissions-capabilities-block =
+    .label = Vala
 
 ## Invalid Hostname Dialog
 
