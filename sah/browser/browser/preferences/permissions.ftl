@@ -15,6 +15,10 @@ permissions-allow =
     .accesskey = К
 permissions-status =
     .label = Стаатуһа
+permissions-capabilities-allow =
+    .label = Көҥүллүүргэ
+permissions-capabilities-block =
+    .label = Бүөлээ
 
 ## Invalid Hostname Dialog
 
