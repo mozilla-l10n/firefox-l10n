@@ -27,7 +27,7 @@
 
 <!ENTITY oneClickSearchEngines.label           "Viena klikšķa meklētāji">
 
-<!ENTITY chooseWhichOneToDisplay2.label         "Izvēlieties papildu meklētāju, kas parādīsies adrešu joslā un meklēšanas joslā, kad sāksiet rakstīt. ">
+<!ENTITY chooseWhichOneToDisplay2.label         "Izvēlieties papildu meklētāju, kas parādīsies adrešu joslā un meklēšanas joslā, kad sāksiet rakstīt.">
 
 <!ENTITY engineNameColumn.label                "Meklētāji">
 <!ENTITY engineKeywordColumn.label             "Atslēgas vārds">
