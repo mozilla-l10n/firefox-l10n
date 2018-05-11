@@ -24,3 +24,6 @@ blocklist-button-ok =
 #   $listName {string, "Standard (Recommended)."} - List name.
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
+blocklist-item-moz-std-name = Osnovna zaščita Disconnect.me (Priporočeno).
+blocklist-item-moz-std-desc = Dovoli nekaj sledilcev, da bo spletna stran delovala pravilno.
+blocklist-item-moz-full-name = Stroga zaščita Disconnect.me.
