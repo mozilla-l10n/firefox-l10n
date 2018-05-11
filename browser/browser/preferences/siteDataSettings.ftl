@@ -7,6 +7,7 @@
 
 site-data-settings-window =
     .title = Çərəzlər və Sayt Məlumatlarını idarə et
+site-data-settings-description = Aşağıdakı saytlar kompüterinizdə çərəz və sayt məlumatları saxlayır. { -brand-short-name } siz silənə qədər sayt məlumatlarını daimi yaddaşda saxlayır və daimi olmayan saytların məlumatlarını yer lazım olduqda silir.
 site-data-search-textbox =
     .placeholder = Saytlarda axtar
     .accesskey = S
@@ -31,6 +32,7 @@ site-data-button-save =
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 site-usage-pattern = { $value } { $unit }
+site-usage-persistent = { site-usage-pattern } (Daimi)
 site-data-remove-all =
     .label = Hamısını sil
     .accesskey = e
