@@ -138,3 +138,6 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamitto
 fonts-languages-fallback-name-other =
     .label = Atro (incl. Ouröpa ponentinn-a)
+fonts-very-large-warning-title = Dimenscion minima di caratteri tròppo erta
+fonts-very-large-warning-message = L'é inpostou 'na dimenscion minima di caratteri tròppo grande (ciù de 24 pixel). Sta cösa chi a porieiva rende difiçile ò adreitua inposcibile l’uzo de quarche pagina inportante de configuraçion.
+fonts-very-large-warning-accept = Mantegni a dimenscion seleçionâ
