@@ -120,6 +120,9 @@ fonts-languages-fallback-name-vietnamese =
     .label = Wiyetinam
 fonts-languages-fallback-name-other =
     .label = Tana (nda Eropu dangay)
+fonts-very-large-warning-title = Šigira adadu tefayyan kayna
+fonts-very-large-warning-message = War na šigira adadu kayna suuba kaŋ ga hansa ka tefay (ka bisa biitonbi 24). Woo ga hin ka too hanseyan moo nafante fooyaŋ šendandi wal'i ganji, sanda moɲoo woo.
+fonts-very-large-warning-accept = Barmawey gaabu waati kul
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
