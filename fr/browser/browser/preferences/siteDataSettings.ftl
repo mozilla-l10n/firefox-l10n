@@ -27,6 +27,12 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Enregistrer les changements
     .accesskey = E
+site-data-remove-all =
+    .label = Tout supprimer
+    .accesskey = u
+site-data-remove-shown =
+    .label = Supprimer les sites affichés
+    .accesskey = u
 
 ## Removing
 
