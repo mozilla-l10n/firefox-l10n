@@ -138,3 +138,6 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamské
 fonts-languages-fallback-name-other =
     .label = Iné (vrátane Západoeurópske)
+fonts-very-large-warning-title = Veľká minimálna veľkosť písma
+fonts-very-large-warning-message = Zvolili ste veľmi veľkú minimálnu veľkosť písma (viac ako 24 bodov). Týmto môžete znefunkčniť niektoré dôležité konfiguračné stránky, ako napríklad tú, na ktorej sa práve nachádzate.
+fonts-very-large-warning-accept = Napriek tomu uložiť zmeny
