@@ -120,3 +120,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = IsiVietnamese
 fonts-languages-fallback-name-other =
     .label = Olunye (oluquki. EyeNtshona Yurophu)
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = Esisiseko ({ $name })
