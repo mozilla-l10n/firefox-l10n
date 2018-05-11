@@ -40,6 +40,8 @@ permissions-capabilities-allow =
     .label = 허가
 permissions-capabilities-block =
     .label = 차단
+permissions-capabilities-prompt =
+    .label = 항상 물어보기
 
 ## Invalid Hostname Dialog
 

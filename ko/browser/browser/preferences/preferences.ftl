@@ -583,6 +583,11 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = 쿠키와 사이트 데이타
+sitedata-total-size-calculating = 사이트 데이타와 캐시 크기 계산중…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = 현재 저장된 쿠키와 사이트 데이타, 캐시가 { $value } { $unit }의 디스크를 사용하고 있습니다.
 sitedata-learn-more = 더 알아보기
 sitedata-accept-cookies-option =
     .label = 웹사이트의 쿠키와 사이트 데이타 허용(권장)
