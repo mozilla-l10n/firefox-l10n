@@ -138,3 +138,10 @@ fonts-languages-fallback-name-vietnamese =
     .label = वियटनामीज
 fonts-languages-fallback-name-other =
     .label = इतर (वेस्टर्न युरोपियन समाविष्टीत)
+fonts-very-large-warning-title = मोठा किमान टंक आकार
+fonts-very-large-warning-message = आपण खूप मोठा टंक आकार निवडला आहे (24 पिक्सेल पेक्षा अधिक). याच्यामुळे या पृष्ठासारखी काही पृष्ठे वापरणे अवघड होईल किंवा अशक्य होईल.
+fonts-very-large-warning-accept = काहीही असो माझे बदल तसेच ठेवा
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = पूर्वनिर्धारित ({ $name })
