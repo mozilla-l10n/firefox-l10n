@@ -140,3 +140,8 @@ fonts-languages-fallback-name-other =
     .label = Cyti (īskaitūt Rītumeiropys)
 fonts-very-large-warning-title = Large minimum font size
 fonts-very-large-warning-message = You have selected a very large minimum font size (more than 24 pixels). This may make it difficult or impossible to use some important configuration pages like this one.
+fonts-very-large-warning-accept = Saglobuot munys izmaiņis
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = Nūkluseitais ({ $name })

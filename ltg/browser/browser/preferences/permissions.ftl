@@ -36,6 +36,10 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = Mekleit lopys
+permissions-capabilities-allow =
+    .label = Atļaut
+permissions-capabilities-block =
+    .label = Blokeit
 
 ## Invalid Hostname Dialog
 
