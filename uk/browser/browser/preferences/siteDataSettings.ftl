@@ -32,6 +32,9 @@ site-data-button-save =
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-dialog =
+    .title = { site-data-removing-header }
+    .buttonlabelaccept = Видалити
 site-data-removing-header = Видалення кук і даних сайтів
 site-data-removing-desc = Видалення кук і даних сайтів може призвести до виходу на ваших веб-сайтах. Ви справді хочете зробити ці зміни?
 site-data-removing-table = Куки і дані сайтів для наступних веб-сайтів будуть видалені
