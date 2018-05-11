@@ -7,6 +7,7 @@
 
 site-data-settings-window =
     .title = จัดการคุกกี้และข้อมูลไซต์
+site-data-settings-description = เว็บไซต์ดังต่อไปนี้จัดเก็บคุกกี้และข้อมูลไซต์ไว้ในคอมพิวเตอร์ของคุณ { -brand-short-name } เก็บข้อมูลจากเว็บไซต์ที่ใช้ที่เก็บข้อมูลถาวรจนกว่าคุณจะลบออก และลบข้อมูลจากเว็บไซต์ที่ใช้ที่เก็บข้อมูลไม่ถาวรออกเมื่อต้องการพื้นที่
 site-data-search-textbox =
     .placeholder = ค้นหาเว็บไซต์
     .accesskey = ค
@@ -27,11 +28,25 @@ site-data-button-cancel =
 site-data-button-save =
     .label = บันทึกการเปลี่ยนแปลง
     .accesskey = บ
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+site-usage-pattern = { $value } { $unit }
+site-usage-persistent = { site-usage-pattern } (ถาวร)
+site-data-remove-all =
+    .label = เอาทั้งหมดออก
+    .accesskey = ท
+site-data-remove-shown =
+    .label = เอาที่แสดงทั้งหมดออก
+    .accesskey = ท
 
 ## Removing
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-dialog =
+    .title = { site-data-removing-header }
+    .buttonlabelaccept = เอาออก
 site-data-removing-header = การเอาคุกกี้และข้อมูลไซต์ออก
 site-data-removing-desc = การเอาคุกกี้และข้อมูลไซต์ออกอาจนำคุณออกจากระบบของเว็บไซต์ คุณแน่ใจหรือไม่ว่าต้องการทำการเปลี่ยนแปลง?
 site-data-removing-table = คุกกี้และข้อมูลไซต์สำหรับเว็บไซต์ดังต่อไปนี้จะถูกเอาออก
