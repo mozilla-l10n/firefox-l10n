@@ -138,3 +138,10 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamais
 fonts-languages-fallback-name-other =
     .label = Auter (incl. Europa Occidentala)
+fonts-very-large-warning-title = Grondezza da scrittira minimala gronda
+fonts-very-large-warning-message = Ti has tschernì ina grondezza da scrittira minimala fitg gronda (passa 24 pixels). Uschia èsi grev u impussibel dad utilisar intginas paginas da configuraziun impurtantas sco questa qua.
+fonts-very-large-warning-accept = Tuttina mantegnair mias midadas
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = Standard ({ $name })

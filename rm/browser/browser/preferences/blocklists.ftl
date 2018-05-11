@@ -16,3 +16,4 @@ blocklist-button-cancel =
 blocklist-button-ok =
     .label = Memorisar las midadas
     .accesskey = S
+blocklist-item-moz-full-desc = Blochescha tut ils fastizaders enconuschents. Tschertas websites na funcziunan eventualmain betg pli correctamain.
