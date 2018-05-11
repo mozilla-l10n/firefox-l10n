@@ -138,3 +138,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vjetnamiešu
 fonts-languages-fallback-name-other =
     .label = Citi (ieskaitot Rietumeiropas)
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = Noklusētais ({ $name })

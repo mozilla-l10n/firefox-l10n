@@ -36,6 +36,10 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = Meklēt lapas
+permissions-capabilities-allow =
+    .label = Atļaut
+permissions-capabilities-block =
+    .label = Bloķēt
 
 ## Invalid Hostname Dialog
 
