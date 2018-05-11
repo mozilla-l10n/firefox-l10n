@@ -36,6 +36,10 @@ permissions-button-ok =
     .accesskey = შ
 permissions-searchbox =
     .placeholder = საიტის ძიება
+permissions-capabilities-allow =
+    .label = ნებართვა
+permissions-capabilities-block =
+    .label = აკრძალვა
 
 ## Invalid Hostname Dialog
 
