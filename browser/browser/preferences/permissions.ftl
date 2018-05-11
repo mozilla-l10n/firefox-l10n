@@ -24,6 +24,8 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = परिवर्तन सहेजू
     .accesskey = प
+permissions-capabilities-block =
+    .label = रोकू
 
 ## Invalid Hostname Dialog
 
