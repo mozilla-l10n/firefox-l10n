@@ -36,6 +36,10 @@ permissions-button-ok =
     .accesskey = V
 permissions-searchbox =
     .placeholder = Leita í vefsvæði
+permissions-capabilities-allow =
+    .label = Leyfa
+permissions-capabilities-block =
+    .label = Loka á
 
 ## Invalid Hostname Dialog
 
