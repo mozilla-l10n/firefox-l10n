@@ -584,6 +584,7 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookieak eta guneetako datuak
+sitedata-total-size-calculating = Gunearen datuen eta cachearen tamaina kalkulatzen…
 sitedata-learn-more = Argibide gehiago
 sitedata-accept-cookies-option =
     .label = Onartu webguneetako cookie eta datuak (gomendatua)
