@@ -12,3 +12,4 @@ blocklist-button-cancel =
 blocklist-button-ok =
     .label = Зачувај промени
     .accesskey = С
+blocklist-item-moz-std-desc = Дозволи одредено следење за мрежните места да бидат функционални.
