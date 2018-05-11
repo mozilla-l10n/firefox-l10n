@@ -115,3 +115,9 @@ fonts-languages-fallback-name-turkish =
     .label = ຕວກກີ
 fonts-languages-fallback-name-vietnamese =
     .label = ຫວຽດນາມ
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = ຄ່າເລີ່ມຕົ້ນ ({ $name })
+fonts-label-default-unnamed =
+    .label = ຄ່າເລີ່ມຕົ້ນ
