@@ -27,11 +27,20 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Gorde aldaketak
     .accesskey = G
+site-data-remove-all =
+    .label = Kendu denak
+    .accesskey = e
+site-data-remove-shown =
+    .label = Kendu erakutsitako denak
+    .accesskey = e
 
 ## Removing
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-dialog =
+    .title = { site-data-removing-header }
+    .buttonlabelaccept = Kendu
 site-data-removing-header = Cookieak eta guneetako datuak kentzea
 site-data-removing-desc = Cookieak eta guneetako datuak kentzeak webguneetako saioak amaitzea eragin lezake. Ziur zaude aldaketak burutu nahi dituzula?
 site-data-removing-table = Ondorengo webguneetako cookieak eta datuak kendu egingo dira

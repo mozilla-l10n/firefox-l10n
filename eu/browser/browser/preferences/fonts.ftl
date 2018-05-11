@@ -138,6 +138,9 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamdarra
 fonts-languages-fallback-name-other =
     .label = Bestelakoa (Europa mendebaldekoak barne)
+fonts-very-large-warning-title = Letra-tipoaren tamaina minimo handia
+fonts-very-large-warning-message = Letra-tipoaren tamaina minimo oso handia hautatu duzu (24 pixel baino gehiago). Honen eraginez, honen tankerako zenbait konfigurazio-orri garrantzitsu erabiltzeko zailak edo ezinezkoak gerta daitezke.
+fonts-very-large-warning-accept = Mantendu nire aldaketak halere
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
