@@ -36,6 +36,10 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = ဝဘ်ဆိုက်ကို ရှာဖွေရန်
+permissions-capabilities-allow =
+    .label = ခွင့်ပြုပါ
+permissions-capabilities-block =
+    .label = ပိတ်ဆို့ပါ
 
 ## Invalid Hostname Dialog
 
