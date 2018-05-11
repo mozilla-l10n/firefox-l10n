@@ -136,3 +136,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = వియత్నామీస్
 fonts-languages-fallback-name-other =
     .label = ఇతర (పశ్చిమ యూరోపియనుతో కలిపి)
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = అప్రమేయ ({ $name })
