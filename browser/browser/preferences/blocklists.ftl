@@ -26,5 +26,5 @@ blocklist-button-ok =
 blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-name = துண்டி.அடிப்படை தடுப்பு(பரிந்துரைக்கப்பட்டது).
 blocklist-item-moz-std-desc = வலைதளம் முறையாக இயங்க சில தடமறிகளை அனுமதி.
-blocklist-item-moz-full-name = துண்டி. கண்டிப்பு தடுப்பு(பரிந்துரைக்கப்பட்டது).{ " " }
+blocklist-item-moz-full-name = துண்டி. கண்டிப்பு தடுப்பு(பரிந்துரைக்கப்பட்டது).
 blocklist-item-moz-full-desc = தெரிந்த தடமறிகளை முடக்குகிறது. சில தளங்கள் முறையாக இயங்காமல் போகலாம்.
