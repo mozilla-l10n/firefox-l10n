@@ -27,6 +27,12 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Cadw Newidiadau
     .accesskey = a
+site-data-remove-all =
+    .label = Tynnu Popeth
+    .accesskey = P
+site-data-remove-shown =
+    .label = Tynnu Popeth Dangoswyd
+    .accesskey = y
 
 ## Removing
 
