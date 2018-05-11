@@ -136,6 +136,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = వియత్నామీస్
 fonts-languages-fallback-name-other =
     .label = ఇతర (పశ్చిమ యూరోపియనుతో కలిపి)
+fonts-very-large-warning-accept = ఏమైనా నా మార్పులను ఉండనివ్వు
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
