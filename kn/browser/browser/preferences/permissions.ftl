@@ -40,6 +40,8 @@ permissions-capabilities-allow =
     .label = ಅನುಮತಿಸು
 permissions-capabilities-block =
     .label = ನಿರ್ಬಂಧಿಸು
+permissions-capabilities-prompt =
+    .label = ಯಾವಾಗಲೂ ಕೇಳು
 
 ## Invalid Hostname Dialog
 

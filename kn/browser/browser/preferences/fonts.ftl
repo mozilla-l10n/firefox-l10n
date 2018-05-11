@@ -142,3 +142,5 @@ fonts-very-large-warning-accept = ಹೇಗಿದ್ದರೂ ನನ್ನ ಬ�
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = ಪೂರ್ವನಿಯೋಜಿತ ({ $name })
+fonts-label-default-unnamed =
+    .label = ಪೂರ್ವನಿಯೋಜಿತ
