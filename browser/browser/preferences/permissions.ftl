@@ -36,6 +36,10 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = വെബ്സൈറ്റ് തിരയുക
+permissions-capabilities-allow =
+    .label = അനുവദിക്കുക{ " " }
+permissions-capabilities-block =
+    .label = തടയുക{ " " }
 
 ## Invalid Hostname Dialog
 
