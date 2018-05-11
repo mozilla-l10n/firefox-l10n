@@ -582,6 +582,11 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Inagan n tuqna akked isefka n usmel
+sitedata-total-size-calculating = Asiḍen n teɣzi n isefka akked tuγzi n tuffirt…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Tskelseḍ inagan n tuqna,isefka n usmel akked  tuffirt seqdacen akka tura { $value } { $unit } seg adeg n tallunt n tkatut.
 sitedata-learn-more = Lmed ugar
 sitedata-block-cookies-option =
     .label = Sewḥel inagan n tuqna akked isefka n usmel (izmer ad yiṛez ismal web)

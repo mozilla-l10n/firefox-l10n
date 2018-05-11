@@ -40,6 +40,8 @@ permissions-capabilities-allow =
     .label = Sireg
 permissions-capabilities-block =
     .label = Sewḥel
+permissions-capabilities-prompt =
+    .label = Sutur yal tikelt
 
 ## Invalid Hostname Dialog
 

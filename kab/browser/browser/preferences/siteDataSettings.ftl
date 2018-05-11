@@ -27,6 +27,11 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Sekles asnifel
     .accesskey = S
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+site-usage-pattern = { $value } { $unit }
+site-usage-persistent = { site-usage-pattern } (Izgan)
 site-data-remove-all =
     .label = Kkes akk
     .accesskey = K
@@ -38,6 +43,9 @@ site-data-remove-shown =
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-dialog =
+    .title = { site-data-removing-header }
+    .buttonlabelaccept = Kkes
 site-data-removing-header = Kkes Inagan n tuqna akked isefka n usmel
 site-data-removing-desc = Tuksa n inagan n tuqna akked isefka n usmel tezmer ad k-tsufeγ seg ismal. Tebγiḍ asenfel-a?
 site-data-removing-table = Inagan n tuqna akked isefka n usmel n ismal-a ad ttwaksen

@@ -27,3 +27,4 @@ blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-name = Ammesten azadur Disconnect.me (ihul).
 blocklist-item-moz-std-desc = Sireg kra n imesfuɣal akken ismal web ad ddun akken iwata.
 blocklist-item-moz-full-name = Ammesten ufrin Disconnect.me.
+blocklist-item-moz-full-desc = Ad isewḥel imsfuɣalen irusinen. Kra n yismal zemren ur tteddun ara akken iwata.
