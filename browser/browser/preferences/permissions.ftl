@@ -36,6 +36,10 @@ permissions-button-ok =
     .accesskey = b
 permissions-searchbox =
     .placeholder = Buscar sitio web
+permissions-capabilities-allow =
+    .label = Permitir
+permissions-capabilities-block =
+    .label = Bloquear
 
 ## Invalid Hostname Dialog
 
