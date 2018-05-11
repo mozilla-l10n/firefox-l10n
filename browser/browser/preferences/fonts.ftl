@@ -141,5 +141,9 @@ fonts-languages-fallback-name-other =
 fonts-very-large-warning-title = הגודל המינימלי לגופנים מאד גדול
 fonts-very-large-warning-message = נבחר גודל מינימלי לגופנים מאד גדול (יותר מ־24 פיקסלים). פעולה זו עשויה לגרום לכך שיהיה מאד קשה או אף בלתי אפשרי להשתמש בדפי הגדרות חשובים כמו זה.{ " " }
 fonts-very-large-warning-accept = להשאיר את השינויים בכל זאת
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = בררת מחדל ({ $name })
 fonts-label-default-unnamed =
     .label = ברירת מחדל
