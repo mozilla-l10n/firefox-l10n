@@ -7,6 +7,7 @@
 
 site-data-settings-window =
     .title = Cookies файлдары және сайт деректерін басқару
+site-data-settings-description = Келесі веб-сайттар компьютеріңізде cookies файлдарын және сайт деректерін сақтайды. { -brand-short-name } тұрақты сақтауышты веб-сайттардан деректерді сіз оларды қолмен өшіргенше дейін сақтайды, ал, тұрақты емес сақтауышты веб-сайттардан деректерді орын керек болған кезде өшіреді.
 site-data-search-textbox =
     .placeholder = Сайттардан іздеу
     .accesskey = с
@@ -31,6 +32,7 @@ site-data-button-save =
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 site-usage-pattern = { $value } { $unit }
+site-usage-persistent = { site-usage-pattern } (Тұрақты)
 site-data-remove-all =
     .label = Барлығын өшіру
     .accesskey = а

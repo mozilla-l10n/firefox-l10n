@@ -595,6 +595,11 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookies файлдары және сайт деректері
+sitedata-total-size-calculating = Сайттар деректері және кэш өлшемін есептеу…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Сізде сақталған cookies файлдары, сайт деректері және кэш қазір { $value } { $unit } диск орнын қолдануда.
 sitedata-learn-more = Көбірек білу
 sitedata-accept-cookies-option =
     .label = Веб-сайттардан cookies файлдарын және сайттар деректерін қабылдау (ұсынылады)
