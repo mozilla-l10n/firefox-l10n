@@ -558,6 +558,7 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-total-size-calculating = Računam veličinu podataka web stranica i keš memorije…
 sitedata-learn-more = Saznajte više
 sitedata-keep-until = Čuvaj do
     .accesskey = u
