@@ -27,11 +27,20 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Salvar alterações
     .accesskey = a
+site-data-remove-all =
+    .label = Remover tudo
+    .accesskey = e
+site-data-remove-shown =
+    .label = Remover tudo mostrado
+    .accesskey = e
 
 ## Removing
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-dialog =
+    .title = { site-data-removing-header }
+    .buttonlabelaccept = Remover
 site-data-removing-header = Removendo cookies e dados do site
 site-data-removing-desc = Remover os cookies e dados de site podem desconectar você dos sites. Tem certeza que deseja fazer as alterações?
 site-data-removing-table = Os cookies e dados dos seguintes sites serão removidos
