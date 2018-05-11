@@ -407,11 +407,6 @@
 <!ENTITY read.only.location.label        "Kraj:">
 <!ENTITY read.only.category.label        "Kategorija:">
 <!ENTITY read.only.organizer.label       "Organizator:">
-<!ENTITY read.only.reply.label           "Odgovor:">
-<!ENTITY read.only.accept.label          "Potrjujem udeležbo">
-<!ENTITY read.only.decline.label         "Ne potrjujem udeležbe">
-<!ENTITY read.only.tentative.label       "Morebiti se udeležim">
-<!ENTITY read.only.needs.action.label    "Udeležbo potrdim kasneje">
 <!ENTITY read.only.reminder.label        "Opomnik:">
 <!ENTITY read.only.attachments.label     "Priponke:">
 <!ENTITY read.only.attendees.label       "Udeleženci">
@@ -424,4 +419,6 @@
 <!ENTITY summary.dialog.accept.tooltiptext      "Sprejmi povabilo">
 <!ENTITY summary.dialog.decline.label           "Zavrni">
 <!ENTITY summary.dialog.decline.tooltiptext     "Zavrni povabilo">
-<!ENTITY summary.dialog.dontsend.label          "Ne pošlji odgovora">
+<!ENTITY summary.dialog.dontsend.label          "Ne pošlji odziva">
+<!ENTITY summary.dialog.send.label              "Pošlji odziv zdaj">
+<!ENTITY summary.dialog.send.tooltiptext        "Pošlji organizatorju odziv  in zapri okno">
