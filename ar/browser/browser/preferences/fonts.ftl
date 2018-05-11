@@ -142,3 +142,5 @@ fonts-languages-fallback-name-other =
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = المبدئي ({ $name })
+fonts-label-default-unnamed =
+    .label = المبدئي

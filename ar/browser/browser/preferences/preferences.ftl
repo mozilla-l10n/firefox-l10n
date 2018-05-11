@@ -604,6 +604,11 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = الكعكات و بيانات المواقع
+sitedata-total-size-calculating = يحسب حجم بيانات الموقع و الخبيئة…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = تستخدم الكعكات، و بيانات الموقع، و الخبيئة المحفوظة حاليًا { $value }‏ { $unit } من مساحة القرص.
 sitedata-learn-more = اطّلع على المزيد
 sitedata-accept-cookies-option =
     .label = اقبل الكعكات و بيانات المواقع من المواقع (مستحسن)
