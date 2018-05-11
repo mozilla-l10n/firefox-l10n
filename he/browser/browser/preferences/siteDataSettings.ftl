@@ -32,6 +32,9 @@ site-data-button-save =
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-dialog =
+    .title = { site-data-removing-header }
+    .buttonlabelaccept = הסרה
 site-data-removing-header = הסרת עוגיות ונתוני אתרים
 site-data-removing-desc = הסרת עוגיות ונתוני אתרים עשוי לנתק את המשתמש שלך מאתרים. האם ברצונך להמשיך בביצוע השינויים?
 site-data-removing-table = עוגיות ונתוני אתרים עבור אתרי האינטרנט הבאים יימחקו

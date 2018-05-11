@@ -138,3 +138,6 @@ fonts-languages-fallback-name-vietnamese =
     .label = וייטנאמית
 fonts-languages-fallback-name-other =
     .label = אחר (כולל מערב אירופי)
+fonts-very-large-warning-title = הגודל המינימלי לגופנים מאד גדול
+fonts-very-large-warning-message = נבחר גודל מינימלי לגופנים מאד גדול (יותר מ־24 פיקסלים). פעולה זו עשויה לגרום לכך שיהיה מאד קשה או אף בלתי אפשרי להשתמש בדפי הגדרות חשובים כמו זה.{ " " }
+fonts-very-large-warning-accept = להשאיר את השינויים בכל זאת
