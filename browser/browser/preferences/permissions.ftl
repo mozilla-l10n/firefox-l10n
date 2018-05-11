@@ -36,6 +36,8 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = Saytda Axtar
+permissions-capabilities-block =
+    .label = Blokla
 
 ## Invalid Hostname Dialog
 
