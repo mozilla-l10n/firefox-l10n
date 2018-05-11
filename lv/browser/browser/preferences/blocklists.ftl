@@ -27,3 +27,4 @@ blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-name = Disconnect.me pamata aizsardzība (ieteiktais).
 blocklist-item-moz-std-desc = Ļauj dažiem izsekotājiem darboties, lai lapas darbotos korekti.
 blocklist-item-moz-full-name = Dizconnect.me striktā aizsardzība.
+blocklist-item-moz-full-desc = Bloķē zināmos izsekotājus. Dažas mājas lapas var nedarboties korekti.
