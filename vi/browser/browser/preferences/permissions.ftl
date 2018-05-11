@@ -40,6 +40,8 @@ permissions-capabilities-allow =
     .label = Cho phép
 permissions-capabilities-block =
     .label = Chặn
+permissions-capabilities-prompt =
+    .label = Luôn luôn hỏi
 
 ## Invalid Hostname Dialog
 
