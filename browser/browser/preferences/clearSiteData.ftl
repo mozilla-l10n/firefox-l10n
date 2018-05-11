@@ -5,6 +5,7 @@
 clear-site-data-window =
     .title = डेटा मिटायें
     .style = width: 35em
+clear-site-data-description = { -brand-short-name } द्वारा जमा सभी कूकीज तथा साइट डेटा मिटाना आपको वेबसाइटों से साइन आउट कर सकता है तथा ऑफलाइन वेब सामग्री को हटा सकता है. कैश डेटा मिटाना आपके लॉग इनो को प्रभावित नहीं करेगा.
 clear-site-data-close-key =
     .key = w
 # The parameters in parentheses in this string describe disk usage
