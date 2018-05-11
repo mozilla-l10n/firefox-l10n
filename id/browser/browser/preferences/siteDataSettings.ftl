@@ -36,6 +36,9 @@ site-usage-persistent = { site-usage-pattern } (Persisten)
 site-data-remove-all =
     .label = Hapus Seluruhnya
     .accesskey = u
+site-data-remove-shown =
+    .label = Hapus Semua Yang Muncul
+    .accesskey = u
 
 ## Removing
 
