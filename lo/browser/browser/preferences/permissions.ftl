@@ -36,6 +36,8 @@ permissions-button-ok =
     .accesskey = ບ
 permissions-searchbox =
     .placeholder = ຊອກຫາເວັບໄຊທ໌
+permissions-capabilities-allow =
+    .label = ອະນຸຍາດ
 
 ## Invalid Hostname Dialog
 
