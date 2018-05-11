@@ -141,3 +141,9 @@ fonts-languages-fallback-name-other =
 fonts-very-large-warning-title = Veľká minimálna veľkosť písma
 fonts-very-large-warning-message = Zvolili ste veľmi veľkú minimálnu veľkosť písma (viac ako 24 bodov). Týmto môžete znefunkčniť niektoré dôležité konfiguračné stránky, ako napríklad tú, na ktorej sa práve nachádzate.
 fonts-very-large-warning-accept = Napriek tomu uložiť zmeny
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = Predvolené ({ $name })
+fonts-label-default-unnamed =
+    .label = Predvolené
