@@ -18,6 +18,8 @@ permissions-status =
 permissions-button-cancel =
     .label = Betal
     .accesskey = B
+permissions-capabilities-block =
+    .label = Asteng Bike
 
 ## Invalid Hostname Dialog
 
