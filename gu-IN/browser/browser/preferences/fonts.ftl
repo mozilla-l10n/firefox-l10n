@@ -138,7 +138,11 @@ fonts-languages-fallback-name-vietnamese =
     .label = વિયેતનામીઝ
 fonts-languages-fallback-name-other =
     .label = બીજી (પશ્ર્ચિમ યુરોપિયન ઉમેરીને)
+fonts-very-large-warning-title = મોટા ન્યૂનતમ ફોન્ટ કદ
+fonts-very-large-warning-message = તમે એક મોટા લઘુત્તમ ફોન્ટનું કદ (24 પિક્સેલ કરતા વધારે)પસંદ કર્યું છે. આ આના જેવા કેટલાક મહત્વપૂર્ણ રૂપરેખાંકન પૃષ્ઠોનો ઉપયોગ મુશ્કેલ અથવા અશક્ય બનાવી શકે છે.
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = મૂળભુત ({ $name })
+fonts-label-default-unnamed =
+    .label = મૂળભૂત
