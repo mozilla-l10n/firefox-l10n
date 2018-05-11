@@ -138,6 +138,9 @@ fonts-languages-fallback-name-vietnamese =
     .label = Вьетнам
 fonts-languages-fallback-name-other =
     .label = Басқа (Батыс Еуропалықты қоса)
+fonts-very-large-warning-title = Қаріптің минималды өлшемі тым үлкен
+fonts-very-large-warning-message = Сіз қаріптің минималды өлшемін өте үлкен етіп таңдадыңыз (24 пиксельден үлкен). Бұл әрекет осы парақ сияқты баптаулар беттерін көруді қиын не мүмкін емес қылуы мүмкін.
+fonts-very-large-warning-accept = Өзгерістерімді сонда да сақтау
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
