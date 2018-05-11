@@ -32,6 +32,9 @@ site-usage-pattern = { $value } { $unit }
 site-data-remove-all =
     .label = Xóa hết
     .accesskey = e
+site-data-remove-shown =
+    .label = Xóa tất cả được hiển thị
+    .accesskey = e
 
 ## Removing
 

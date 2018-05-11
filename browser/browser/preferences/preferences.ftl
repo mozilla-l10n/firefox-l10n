@@ -561,6 +561,7 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookie và dữ liệu trang
+sitedata-total-size-calculating = Đang tính toán kích thước cache và dữ liệu trang…
 sitedata-learn-more = Tìm hiểu thêm
 sitedata-keep-until = Giữ cho đến khi
     .accesskey = u
