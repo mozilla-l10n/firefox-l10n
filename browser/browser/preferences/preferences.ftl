@@ -599,6 +599,10 @@ history-clear-button =
 
 sitedata-header = Куки и данные сайтов
 sitedata-total-size-calculating = Вычисление объема данных сайтов и кэша…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Ваши сохранённые куки, данные сайтов и кэш сейчас занимают на диске { $value } { $unit }.
 sitedata-learn-more = Подробнее
 sitedata-accept-cookies-option =
     .label = Принимать куки и данные сайтов с веб-сайтов (рекомендуется)
