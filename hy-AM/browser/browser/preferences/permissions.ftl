@@ -36,6 +36,8 @@ permissions-button-ok =
     .accesskey = Պ
 permissions-searchbox =
     .placeholder = Որոնել կայք
+permissions-capabilities-allow =
+    .label = Թույլատրել
 permissions-capabilities-block =
     .label = Արգելել
 
