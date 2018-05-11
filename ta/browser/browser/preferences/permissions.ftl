@@ -40,6 +40,8 @@ permissions-capabilities-allow =
     .label = அனுமதி
 permissions-capabilities-block =
     .label = தடு
+permissions-capabilities-prompt =
+    .label = எப்போதும் கேள்
 
 ## Invalid Hostname Dialog
 
