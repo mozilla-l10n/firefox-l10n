@@ -138,3 +138,5 @@ fonts-languages-fallback-name-vietnamese =
     .label = เวียดนาม
 fonts-languages-fallback-name-other =
     .label = อื่น ๆ (รวมถึงยุโรปตะวันตก)
+fonts-very-large-warning-title = ขนาดอักษรเล็กสุดที่ใหญ่
+fonts-very-large-warning-message = คุณได้เลือกขนาดอักษรเล็กสุดที่ใหญ่มาก (มากกว่า 24 พิกเซล) โดยอาจจะทำให้ยากหรือเป็นไปไม่ได้สำหรับการใช้งานการตั้งค่าหน้าที่สำคัญบางหน้าอย่างเช่นหน้านี้
