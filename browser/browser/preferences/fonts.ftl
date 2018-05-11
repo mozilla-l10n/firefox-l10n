@@ -138,6 +138,9 @@ fonts-languages-fallback-name-vietnamese =
     .label = الفيتناميّة
 fonts-languages-fallback-name-other =
     .label = آخر (يشمل غرب أوروبي)
+fonts-very-large-warning-title = أقل حجم خط كبير
+fonts-very-large-warning-message = لقد اخترت أقل حجم خط كبير جدا (أكبر من ٢٤ بكسل). قد يجعل هذا من الصعب أو المستحيل استخدام بعض صفحات الإعدادات المهمة، كهذه الصفحة مثلا.
+fonts-very-large-warning-accept = استخدم تغييراتي مع هذا
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
