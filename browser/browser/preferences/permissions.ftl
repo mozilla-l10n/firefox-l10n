@@ -24,6 +24,10 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Gcina Iinguqu
     .accesskey = G
+permissions-capabilities-allow =
+    .label = Vumela
+permissions-capabilities-block =
+    .label = Nqanda
 
 ## Invalid Hostname Dialog
 
