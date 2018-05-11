@@ -10,7 +10,7 @@
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 site-usage-pattern = I-{ $value } { $unit }
 site-data-remove-all =
-    .label = Susa{ " " }
+    .label = Susa
     .accesskey = u
 site-data-remove-shown =
     .label = Susa Konke
