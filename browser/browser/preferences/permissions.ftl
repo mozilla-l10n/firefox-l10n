@@ -18,6 +18,8 @@ permissions-status =
 permissions-button-cancel =
     .label = Цуцал
     .accesskey = Ц
+permissions-capabilities-allow =
+    .label = Зөвшөөр
 
 ## Invalid Hostname Dialog
 
