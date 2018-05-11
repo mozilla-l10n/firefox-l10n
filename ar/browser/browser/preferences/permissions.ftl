@@ -38,6 +38,8 @@ permissions-searchbox =
     .placeholder = ابحث عن موقع
 permissions-capabilities-allow =
     .label = اسمح
+permissions-capabilities-block =
+    .label = احجب
 permissions-capabilities-prompt =
     .label = اسأل دائمًا
 

@@ -29,11 +29,20 @@ site-data-button-save =
     .label = احفظ التغييرات
     .accesskey = ظ
 site-usage-persistent = { site-usage-pattern } (دائم)
+site-data-remove-all =
+    .label = أزِل الكل
+    .accesskey = ل
+site-data-remove-shown =
+    .label = أزِل كل المعروض
+    .accesskey = ض
 
 ## Removing
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-dialog =
+    .title = { site-data-removing-header }
+    .buttonlabelaccept = أزِل
 site-data-removing-header = إزالة الكعكات و بيانات المواقع
 site-data-removing-desc = بإزالة الكعكات و بيانات المواقع قد تخرج من مواقع الوِب. أمتأكد من إجراء هذه التغييرات؟
 site-data-removing-table = ستُزال الكعكات و بيانات المواقع للمواقع الآتية
