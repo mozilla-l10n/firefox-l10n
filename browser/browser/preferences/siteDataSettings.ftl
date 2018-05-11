@@ -7,6 +7,7 @@
 
 site-data-settings-window =
     .title = Gestisci Cookie e Dæti di Sciti
+site-data-settings-description = Sti sciti sarvan cookie into computer. { -brand-short-name } o sarva i dæti da i sciti in mòddo perscistente scinché no ti i scancelli, e i scancella quande en sarvæ in mòddo no perscistente e serve do spaçio.
 site-data-search-textbox =
     .placeholder = Çerca sciti
     .accesskey = s

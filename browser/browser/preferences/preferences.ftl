@@ -596,6 +596,10 @@ history-clear-button =
 
 sitedata-header = Cookie e Dæti di Sciti
 sitedata-total-size-calculating = Conto a dimenscion di dæti e da cache…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = I cookie, dæti do scito e cache deuvian { $value } { $unit } de spaçion in sciô disco.
 sitedata-learn-more = Pe saveine de ciù
 sitedata-accept-cookies-option =
     .label = Acetta cookie e dæti di sciti da-i sciti (consegiou)
