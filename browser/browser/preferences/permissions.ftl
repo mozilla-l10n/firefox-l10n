@@ -40,6 +40,8 @@ permissions-capabilities-allow =
     .label = Dovoli
 permissions-capabilities-block =
     .label = Prepovej
+permissions-capabilities-prompt =
+    .label = Vedno vprašaj
 
 ## Invalid Hostname Dialog
 
