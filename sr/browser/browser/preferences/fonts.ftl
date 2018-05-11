@@ -138,3 +138,10 @@ fonts-languages-fallback-name-vietnamese =
     .label = вијетнамски
 fonts-languages-fallback-name-other =
     .label = други (са западноевропским)
+fonts-very-large-warning-title = Велика минимална величина фонта
+fonts-very-large-warning-message = Изабрали сте веома велику минималну величину фонта (већу од 24 пиксела). То може отежати или онемогућити коришћење неке важне конфигурације странице попут ове.
+fonts-very-large-warning-accept = У сваком случају сачувај моје промене
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = Подразумеван ({ $name })
