@@ -37,16 +37,16 @@ permissions-button-ok =
 permissions-searchbox =
     .placeholder = വെബ്സൈറ്റ് തിരയുക
 permissions-capabilities-allow =
-    .label = അനുവദിക്കുക{ " " }
+    .label = അനുവദിക്കുക
 permissions-capabilities-block =
-    .label = തടയുക{ " " }
+    .label = തടയുക
 permissions-capabilities-prompt =
     .label = എപ്പോഴും ചോദിക്കുക
 
 ## Invalid Hostname Dialog
 
-permissions-invalid-uri-title = നിലവില്‍ ഇല്ലാത്ത ഒരു Hostname എന്റര്‍ ചെയ്തിരിക്കുന്നു{ " " }
-permissions-invalid-uri-label = ദയവായി വാലിഡായ ഒരു ഹോസ്റ്റ്‌നേയിം എന്റര്‍ ചെയ്യുക{ " " }
+permissions-invalid-uri-title = നിലവില്‍ ഇല്ലാത്ത ഒരു Hostname എന്റര്‍ ചെയ്തിരിക്കുന്നു
+permissions-invalid-uri-label = ദയവായി വാലിഡായ ഒരു ഹോസ്റ്റ്‌നേയിം എന്റര്‍ ചെയ്യുക
 
 ## Exceptions - Tracking Protection
 
