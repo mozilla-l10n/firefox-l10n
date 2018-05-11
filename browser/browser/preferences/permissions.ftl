@@ -36,6 +36,8 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = Çerca scito
+permissions-capabilities-block =
+    .label = Blòcco
 
 ## Invalid Hostname Dialog
 
