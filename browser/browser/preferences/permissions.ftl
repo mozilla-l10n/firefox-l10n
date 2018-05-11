@@ -38,6 +38,10 @@ permissions-searchbox =
     .placeholder = Otsi saiti
 permissions-capabilities-allow =
     .label = Lubatud
+permissions-capabilities-block =
+    .label = Blokitud
+permissions-capabilities-prompt =
+    .label = Alati küsitakse
 
 ## Invalid Hostname Dialog
 
