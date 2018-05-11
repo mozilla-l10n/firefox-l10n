@@ -40,6 +40,8 @@ permissions-capabilities-allow =
     .label = Leisti
 permissions-capabilities-block =
     .label = Neleisti
+permissions-capabilities-prompt =
+    .label = Visada klausti
 
 ## Invalid Hostname Dialog
 

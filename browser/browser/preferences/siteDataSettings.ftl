@@ -7,6 +7,7 @@
 
 site-data-settings-window =
     .title = Tvarkyti slapukus ir svetainių duomenis
+site-data-settings-description = Šios svetainės saugo slapukus ir svetainių duomenis jūsų kompiuteryje. „{ -brand-short-name }“ laiko duomenis iš svetainių su išliekančia atmintimi iki kol juos ištrinate, ir trina duomenis iš svetainių su neišliekančia atmintimi tada, kai prireikia vietos.
 site-data-search-textbox =
     .placeholder = Ieškoti svetainių
     .accesskey = e
@@ -27,6 +28,11 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Įrašyti pakeitimus
     .accesskey = a
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+site-usage-pattern = { $value } { $unit }
+site-usage-persistent = { site-usage-pattern } (išliekantys)
 site-data-remove-all =
     .label = Pašalinti visus
     .accesskey = l

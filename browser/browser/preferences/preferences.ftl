@@ -595,6 +595,11 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Slapukai ir svetainių duomenys
+sitedata-total-size-calculating = Skaičiuojamas svetainių duomenų ir podėlio dydis…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Saugomi slapukai, svetainių duomenys ir podėlis šiuo metu užima { $value } { $unit } disko vietos.
 sitedata-learn-more = Sužinoti daugiau
 sitedata-accept-cookies-option =
     .label = Leisti įrašyti slapukus ir svetainių duomenis (rekomenduojama)
