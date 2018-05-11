@@ -27,3 +27,4 @@ blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-name = Disconnect.me അടിസ്ഥാന സംരക്ഷണം (ശുപാര്‍ശ ചെയ്യുന്നു)
 blocklist-item-moz-std-desc = വെബ്‍സൈറ്റുകള്‍ നന്നായി പ്രവര്‍ത്തിക്കാന്‍ ചില ട്രാക്കറുകളെ അനുവദിക്കുക.
 blocklist-item-moz-full-name = Disconnect.me കർശന സംരക്ഷണം.
+blocklist-item-moz-full-desc = അറിയാവുന്ന ട്രാക്കറുകളെ തടയുന്നു. ചില വെബ്സൈറ്റുകൾ ശരിയായി പ്രവർത്തിച്ചേക്കില്ല.
