@@ -7,6 +7,7 @@
 
 site-data-settings-window =
     .title = ფუნთუშების და საიტების მონაცემების მართვა
+site-data-settings-description = ქვემოთ მოცემული ვებგვერდები, საიტის მონაცემებსა და ფუნთუშებს ინახავს თქვენს კომპიუტერში. { -brand-short-name } საიტების მონაცემებს იქამდე დატოვებს მუდმივ მეხსიერებაზე, სანამ არ წაშლით, ხოლო დროებითი მეხსიერებიდან წაშლის მაშინ, როცა ადგილი დასჭირდება.
 site-data-search-textbox =
     .placeholder = საიტების ძიება
     .accesskey = ს
@@ -27,11 +28,25 @@ site-data-button-cancel =
 site-data-button-save =
     .label = ცვლილებების შენახვა
     .accesskey = ც
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+site-usage-pattern = { $value } { $unit }
+site-usage-persistent = { site-usage-pattern } (მუდმივი მეხსიერება)
+site-data-remove-all =
+    .label = ყველაფრის წაშლა
+    .accesskey = ყ
+site-data-remove-shown =
+    .label = ყველა ნაჩვენების წაშლა
+    .accesskey = ყ
 
 ## Removing
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-dialog =
+    .title = { site-data-removing-header }
+    .buttonlabelaccept = წაშლა
 site-data-removing-header = ფუნთუშებისა და საიტის მონაცემების წაშლა
 site-data-removing-desc = ფუნთუშებისა და საიტის მონაცემების წაშლის შედეგად, შესაძლოა ვებსაიტებზე შესული ანგარიშებიდან გამოხვიდეთ. ნამდვილად გსურთ, განაგრძოთ?
 site-data-removing-table = მოცემული საიტების მონაცემები და ფუნთუშები წაიშალა
