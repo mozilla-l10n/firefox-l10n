@@ -120,6 +120,9 @@ fonts-languages-fallback-name-vietnamese =
     .label = ဗီယက်နမ်အက္ခရာဆိုင်ရာ
 fonts-languages-fallback-name-other =
     .label = အခြား (အနောက်ဥရောပ အပါအဝင်)
+fonts-very-large-warning-title = စာလုံးအကြီးဆုံးအတွက် အနိမ့်ဆုံးသတ်မှတ်ချက်
+fonts-very-large-warning-message = သင်သည် စာလုံးအကြီးများအတွက် အနိမ့်ဆုံးသတ်မှတ်ချက်ကို ရွေးထားသည် (24 pixels ထက်များသည်)။ ယခုရွေးချယ်မှုသည် ဒီစာမျက်နှာကဲ့သို့သော အရေးကြီးသည့် အပြင်အဆင် စာမျက်နှာအချို့အတွက် အသုံးပြုရန် ခက်ခဲစေနိုင်ပါသည်။
+fonts-very-large-warning-accept = ဘယ်လိုပင်ဖြစ်နေပါစေ ပြောင်းလဲမှုများကို သိမ်းပါ
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
