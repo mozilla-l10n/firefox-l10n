@@ -18,6 +18,10 @@ permissions-status =
 permissions-button-cancel =
     .label = منسوخ{ "  " }
     .accesskey = م
+permissions-capabilities-allow =
+    .label = اجازتھ
+permissions-capabilities-block =
+    .label = بلاك
 
 ## Invalid Hostname Dialog
 
