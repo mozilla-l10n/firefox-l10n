@@ -40,6 +40,8 @@ permissions-capabilities-allow =
     .label = Να επιτρέπεται
 permissions-capabilities-block =
     .label = Φραγή
+permissions-capabilities-prompt =
+    .label = Πάντα ερώτηση
 
 ## Invalid Hostname Dialog
 
