@@ -139,4 +139,11 @@ fonts-languages-fallback-name-vietnamese =
 fonts-languages-fallback-name-other =
     .label = Otro (incluido Europa oriental)
 fonts-very-large-warning-title = Tamaño mínimo de las letras
+fonts-very-large-warning-message = Has seleccionado un tamaño de tipografías mínimo muy grande (más de 24 pixeles). Esto puede hacer que sea difícil o imposible usar algunas páginas de configuración importantes, como esta.
 fonts-very-large-warning-accept = Mantener mis cambios de todas maneras
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = Predeterminado ({ $name })
+fonts-label-default-unnamed =
+    .label = Por defecto
