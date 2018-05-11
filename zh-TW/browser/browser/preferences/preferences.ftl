@@ -583,6 +583,11 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookie 與網站資料
+sitedata-total-size-calculating = 正在計算網站資料與快取大小…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = 您儲存的 Cookie、網站資料與快取目前使用了 { $value } { $unit } 磁碟空間
 sitedata-learn-more = 了解更多
 sitedata-accept-cookies-option =
     .label = 接受網站設定的 Cookie 與網站資料（建議）
