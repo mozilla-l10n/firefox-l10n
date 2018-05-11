@@ -16,22 +16,22 @@
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.title): Title of the top about:devtools
   -  section displayed when DevTools are disabled. -->
-<!ENTITY  aboutDevtools.enable.title "Abilite i imprescj di svilup di Firefox">
+<!ENTITY  aboutDevtools.enable.title "Abilite i Imprescj di svilup di Firefox">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementTitle): Title of the top
   -  section displayed when devtools are disabled and the user triggered DevTools by using
   -  the Inspect Element menu item. -->
-<!ENTITY  aboutDevtools.enable.inspectElementTitle "Abilite i imprescj di svilup di Firefox par doprâ la funzion ispezione element">
+<!ENTITY  aboutDevtools.enable.inspectElementTitle "Abilite i Imprescj di svilup di Firefox par doprâ la funzion Ispezione element">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementMessage): Message displayed
   -  when users come from using the Inspect Element menu item. -->
 <!ENTITY  aboutDevtools.enable.inspectElementMessage
-          "Esamine e modifiche HTML e CSS doprant la funzion ispezione dai imprescj di svilup.">
+          "Esamine e modifiche HTML e CSS doprant la funzion Ispezione dai Imprescj di svilup.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.aboutDebuggingMessage): Message displayed
   -  when users come from about:debugging. -->
 <!ENTITY  aboutDevtools.enable.aboutDebuggingMessage
-          "Svilupe e fas il debug di WebExtensions, web workers, service workers e tant altri gracie a imprescj di svilup di Firefox.">
+          "Svilupe e fas il debug di WebExtensions, web workers, service workers e tant altri gracie a Imprescj di svilup di Firefox.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.keyShortcutMessage): Message displayed when
   -  users pressed a DevTools key shortcut. -->
@@ -41,22 +41,22 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage2): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
 <!ENTITY  aboutDevtools.enable.menuMessage2
-          "Dopre lis funzions di ispezion e debug par miorâ HTML, CSS e JavaScript de to pagjine web.">
+          "Dopre lis funzions di Ispezion e Debug par miorâ HTML, CSS e JavaScript de to pagjine web.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.commonMessage): Generic message displayed for
   -  all possible entry points (keyshortcut, menu item etc…). -->
 <!ENTITY  aboutDevtools.enable.commonMessage
-          "Par ve plui control sul to browser, i imprescj di svilup di Firefox a si disativin par difiet.">
+          "Par ve plui control sul to browser, i Imprescj di svilup di Firefox a si disativin par difiet.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.learnMoreLink): Text for the link to
   -  https://developer.mozilla.org/docs/Tools displayed in the top section when DevTools
   -  are disabled. -->
-<!ENTITY  aboutDevtools.enable.learnMoreLink "Par savê di plui su imprescj di svilup">
+<!ENTITY  aboutDevtools.enable.learnMoreLink "Par savê di plui su Imprescj di svilup">
 
-<!ENTITY  aboutDevtools.enable.enableButton "Abilite imprescj di svilup">
+<!ENTITY  aboutDevtools.enable.enableButton "Abilite Imprescj di svilup">
 <!ENTITY  aboutDevtools.enable.closeButton2 "Siere la schede">
 
-<!ENTITY  aboutDevtools.welcome.title "Benvignût a imprescj di svilup di Firefox!">
+<!ENTITY  aboutDevtools.welcome.title "Benvignût a Imprescj di svilup di Firefox!">
 
 <!ENTITY  aboutDevtools.newsletter.title "Boletin par svilupadôrs di Mozilla">
 <!-- LOCALIZATION NOTE (aboutDevtools.newsletter.message): Subscribe form message.
