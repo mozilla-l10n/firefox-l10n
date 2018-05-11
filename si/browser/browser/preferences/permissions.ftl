@@ -24,6 +24,10 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = වෙනස්කම් සුරකින්න
     .accesskey = S
+permissions-capabilities-allow =
+    .label = අනුමත කරන්න
+permissions-capabilities-block =
+    .label = අවහිර කරන්න
 
 ## Invalid Hostname Dialog
 
