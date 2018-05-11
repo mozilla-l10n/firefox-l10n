@@ -129,7 +129,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Bütün vərəqləri göstər">
 <!ENTITY showAllTabsCmd.accesskey "s">
 <!ENTITY toggleReaderMode.key "R">
-
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; daxil ol">
@@ -189,10 +188,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Digər əlfəcinlər">
 <!ENTITY mobileBookmarksCmd.label "Mobil əlfəcinlər">
 <!ENTITY bookmarksToolbarChevron.tooltip "Daha çox əlfəcin göstər">
-<!ENTITY showRecentlyBookmarked.label     "Yeni əlfəcinlənmişləri göstər">
-<!ENTITY showRecentlyBookmarked.accesskey "s">
-<!ENTITY hideRecentlyBookmarked.label     "Yeni əlfəcinlənmişləri gizlət">
-<!ENTITY hideRecentlyBookmarked.accesskey "G">
 
 <!ENTITY backCmd.label                "Geri">
 <!ENTITY backCmd.accesskey            "B">
@@ -234,7 +229,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Bu səhifəni tərcümə et">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Səhifə tərcüməsini idarə et">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM proqramının istifadəsini idarə et">
-
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "MIDI panelini aç">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Bu sayt üçün kameranızı əngəllədiniz.">
@@ -245,7 +239,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Bu sayt üçün qalıcı yaddaşı əngəllədiniz.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Bu sayt üçün peyda olan pəncərələri əngəllədiniz.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Bu sayt üçün lövhə (canvas) məlumatı çıxartmanı əngəllədiniz.">
-
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Bu saytın Adobe Flash qoşmasını işlətməsini əngəlləmisiniz.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Bu saytın MIDI işlətməsini əngəlləmisiniz.">
 
@@ -395,7 +388,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Digər cihazlarınızda olan vərəqləri burada görmək istərdiniz?">
-<!ENTITY appMenuRemoteTabs.openprefs.label "Sync Nizamlamaları">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Sync Nizamlamalarını Aç">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Digər cihazlarınızdakı vərəqlərin siyahısını görmək üçün daxil olun.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Hesabınız təsdiqlənməlidir.">
@@ -437,6 +429,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "Daha çox element Əlavə et…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "a">
 
+<!ENTITY customizeMenu.autoHideDownloadsButton.label "Alət sətrində avtomatik gizlətmə">
+<!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
+
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
@@ -444,7 +439,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Ünvanı daxil et və ya axtar">
-<!ENTITY urlbar.placeholder3          "Axtarış ifadəsini və ünvanları buraya daxil edin">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Uzantı:">
@@ -988,14 +982,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName; yeniləmək üçün yenidən başladın">
 
-<!ENTITY newTabControlled.message "Uzantılardan biri Yeni Vərəqi açdığınızda göstərilən səhifəni dəyişdirib. Əgər bu dəyişikliyi istəmirsinizsə, tənzimləmələrinizi bərpa edə bilərsiz.">
-
 <!ENTITY newTabControlled.header.message "Yeni Vərəqiniz dəyişdirildi.">
 <!ENTITY newTabControlled.keepButton.label "Dəyişiklikləri saxla">
 <!ENTITY newTabControlled.keepButton.accesskey "K">
-<!ENTITY newTabControlled.restoreButton.label "Tənzimləmələri bərpa et">
-<!ENTITY newTabControlled.restoreButton.accesskey "R">
-
 <!ENTITY newTabControlled.disableButton.label "Uzantını söndür">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
@@ -1005,6 +994,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.keepButton.accesskey "K">
 <!ENTITY homepageControlled.disableButton.label "Uzantını söndür">
 <!ENTITY homepageControlled.disableButton.accesskey "D">
+
+<!ENTITY tabHideControlled.header.message "Gizlədilmiş vərəqləri görün">
 
 <!ENTITY pageActionButton.tooltip "Səhifə əməliyyatları">
 <!ENTITY pageAction.addToUrlbar.label "Ünvan sətrinə əlavə et">

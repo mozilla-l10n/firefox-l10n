@@ -596,6 +596,10 @@ history-clear-button =
 
 sitedata-header = Çərəzlər və Sayt Məlumatları
 sitedata-total-size-calculating = Sayt məlumatları və keş ölçüsü hesablanır…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Saxlanılan çərəz, sayt məlumatları və keşləriniz hazırda { $value } { $unit } disk işlədirlər.
 sitedata-learn-more = Ətraflı öyrən
 sitedata-accept-cookies-option =
     .label = Saytların çərəz və sayt məlumatlarını qəbul et (məsləhət görülür)
