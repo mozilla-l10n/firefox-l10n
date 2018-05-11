@@ -138,3 +138,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamilainen
 fonts-languages-fallback-name-other =
     .label = Muu (ml. länsieurooppalainen)
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = Oletus ({ $name })
