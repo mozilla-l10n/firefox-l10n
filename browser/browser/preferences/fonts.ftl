@@ -120,6 +120,9 @@ fonts-languages-fallback-name-vietnamese =
     .label = វៀតណាម
 fonts-languages-fallback-name-other =
     .label = ផ្សេង​ទៀត (អឺរ៉ុប​ខាងលិច incl.)
+fonts-very-large-warning-title = ទំហំ​ពុម្ពអក្សរ​អប្បបរមា​ធំ
+fonts-very-large-warning-message = អ្នក​បាន​ជ្រើស​ទំហំ​ពុម្ពអក្សរ​អប្បបរមា​ធំ​ពេក (ធំ​ជាង ២៤ ភីកសែល)។ វា​អាច​នាំឲ្យ​មាន​ការ​លំបាក ឬ​មិន​អាច​ប្រើ​ទំព័រ​ការ​កំណត់​រចនាសម្ព័ន្ធ​សំខាន់ៗ​ដូច​នេះ​បាន។
+fonts-very-large-warning-accept = ទោះ​យ៉ាងណា​រក្សា​ការ​ប្ដូរ​របស់​ខ្ញុំ
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
