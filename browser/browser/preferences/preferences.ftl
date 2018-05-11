@@ -601,6 +601,11 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookieje a sedłowe daty
+sitedata-total-size-calculating = Wjelikosć sedłowych datow a purfowaka se wulicijo…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Waše skłaźone cookieje, sedłowe daty a pufrowak se tuchylu { $value } { $unit } platowego ruma wužywaju.
 sitedata-learn-more = Dalšne informacije
 sitedata-accept-cookies-option =
     .label = Cookieje a sedłowe daty z websedłow akceptěrowaś (dopórucone)
