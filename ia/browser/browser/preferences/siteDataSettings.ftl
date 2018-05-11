@@ -27,11 +27,24 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Salvar le cambios
     .accesskey = a
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+site-usage-pattern = { $value } { $unit }
+site-data-remove-all =
+    .label = Remover toto
+    .accesskey = e
+site-data-remove-shown =
+    .label = Remover tote le monstrates
+    .accesskey = e
 
 ## Removing
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-dialog =
+    .title = { site-data-removing-header }
+    .buttonlabelaccept = Remover
 site-data-removing-header = Remotion de Cookies e Datos de sito
 site-data-removing-desc = Le remotion de cookies e datos de sito pote te disconnecter ab le sitos web. Desira tu vermente facer le cambios?
 site-data-removing-table = Cookies e datos de sito pro le sequente sitos web sera removite
