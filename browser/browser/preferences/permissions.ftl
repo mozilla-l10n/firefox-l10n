@@ -36,8 +36,12 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = Carian laman web
+permissions-capabilities-allow =
+    .label = Izinkan
 permissions-capabilities-block =
     .label = Sekat
+permissions-capabilities-prompt =
+    .label = Sentiasa Tanya
 
 ## Invalid Hostname Dialog
 

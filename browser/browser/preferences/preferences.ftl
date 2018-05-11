@@ -583,6 +583,11 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Kuki dan Data Laman
+sitedata-total-size-calculating = Mengira saiz data dan cache laman…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Kuki, data laman dan cache yang disimpan kini menggunakan { $value } { $unit } daripada ruang cakera.
 sitedata-learn-more = Ketahui selanjutnya
 sitedata-accept-cookies-option =
     .label = Terima kuki dan data laman dari laman web (disyorkan)
