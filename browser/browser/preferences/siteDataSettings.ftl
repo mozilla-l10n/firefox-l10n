@@ -27,6 +27,12 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Konservi ŝanĝojn
     .accesskey = K
+site-data-remove-all =
+    .label = Forigi ĉiujn
+    .accesskey = F
+site-data-remove-shown =
+    .label = Forigi ĉiujn montritajn
+    .accesskey = m
 
 ## Removing
 

@@ -36,6 +36,10 @@ permissions-button-ok =
     .accesskey = K
 permissions-searchbox =
     .placeholder = Serĉi en retejo
+permissions-capabilities-allow =
+    .label = Permesi
+permissions-capabilities-block =
+    .label = Bloki
 
 ## Invalid Hostname Dialog
 
