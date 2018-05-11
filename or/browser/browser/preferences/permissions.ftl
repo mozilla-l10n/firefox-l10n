@@ -15,6 +15,10 @@ permissions-allow =
     .accesskey = A
 permissions-status =
     .label = ଅବସ୍ଥିତି
+permissions-capabilities-allow =
+    .label = ଅନୁମତି ଦିଅନ୍ତୁ
+permissions-capabilities-block =
+    .label = Block
 
 ## Invalid Hostname Dialog
 
