@@ -138,3 +138,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamiečių
 fonts-languages-fallback-name-other =
     .label = Kita (įsk. Vakarų Europos)
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = Numatytasis ({ $name })
