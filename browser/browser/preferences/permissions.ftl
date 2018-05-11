@@ -36,6 +36,10 @@ permissions-button-ok =
     .accesskey = M
 permissions-searchbox =
     .placeholder = Tschertgar ina website
+permissions-capabilities-allow =
+    .label = Permetter
+permissions-capabilities-block =
+    .label = Bloccar
 
 ## Invalid Hostname Dialog
 
