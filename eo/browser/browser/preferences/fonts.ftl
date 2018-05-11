@@ -138,3 +138,10 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vjetnama
 fonts-languages-fallback-name-other =
     .label = Aliaj (kaj Okcidenteŭropa)
+fonts-very-large-warning-title = Tre granda minimuma tipara grando
+fonts-very-large-warning-message = Vi elektis tre grandan minimuman tiparan grando (pli ol 24 bilderoj). Tiu povas malfaciligi aŭ malebligi la uzon de kelkaj gravaj agordaj paĝoj, ekzemple tiu ĉi.
+fonts-very-large-warning-accept = Tamen konservi miajn ŝanĝojn
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = Norma ({ $name })
