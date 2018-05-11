@@ -120,6 +120,9 @@ fonts-languages-fallback-name-vietnamese =
     .label = IsiVietnamese
 fonts-languages-fallback-name-other =
     .label = Olunye (oluquki. EyeNtshona Yurophu)
+fonts-very-large-warning-title = Ubuncinane isayizi  enefonti enkulu{ " " }
+fonts-very-large-warning-message = Ukhethe ubuncinane isayizi enefonti enkulu (ngaphezulu kwama-24 yee-pixels). Oku kungenza kubenzima okanye kungenzeki ukuba kisetyenziswe amanye amaphepha abalulekileyo okungqamanisa afana neli.
+fonts-very-large-warning-accept = Zigcine iinguqu zam nakanjanina
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
