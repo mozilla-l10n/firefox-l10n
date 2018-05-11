@@ -40,6 +40,8 @@ permissions-capabilities-allow =
     .label = Permite
 permissions-capabilities-block =
     .label = Blochează
+permissions-capabilities-prompt =
+    .label = Întreabă întotdeauna
 
 ## Invalid Hostname Dialog
 
