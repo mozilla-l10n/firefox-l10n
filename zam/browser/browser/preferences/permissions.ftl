@@ -18,3 +18,37 @@ permissions-status =
 permissions-button-cancel =
     .label = B-láɁ=y
     .accesskey = l
+permissions-capabilities-allow =
+    .label = Lay
+permissions-capabilities-block =
+    .label = Naa xhal luuy
+
+## Invalid Hostname Dialog
+
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
