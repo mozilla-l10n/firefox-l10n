@@ -138,6 +138,9 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnameg
 fonts-languages-fallback-name-other =
     .label = All (Kornôg Europa e-barzh)
+fonts-very-large-warning-title = Ment nodrezh bihanañ ledan
+fonts-very-large-warning-message = Dibabet ho peus ur ment nodrezh bihanañ ledan (muioc'h eget 24 piksel). Gellout a rafe pajennoù kefluniadur pouezus evel houmañ bezañ diaes pe dibosupl da arverañ.
+fonts-very-large-warning-accept = Mirout va kemmoù memestra
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
