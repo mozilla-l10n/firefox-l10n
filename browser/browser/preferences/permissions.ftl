@@ -18,6 +18,10 @@ permissions-allow =
     .accesskey = A
 permissions-status =
     .label = Xiyimo
+permissions-capabilities-allow =
+    .label = Pfumelela
+permissions-capabilities-block =
+    .label = Siva
 
 ## Invalid Hostname Dialog
 
