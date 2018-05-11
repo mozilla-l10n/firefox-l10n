@@ -595,6 +595,7 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = עוגיות ונתוני אתרים
+sitedata-total-size-calculating = חישוב גודל נתוני אתרים ומטמון…
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
