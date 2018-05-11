@@ -36,6 +36,10 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = Maghanap ng Website
+permissions-capabilities-allow =
+    .label = Payagan
+permissions-capabilities-block =
+    .label = Harangin
 
 ## Invalid Hostname Dialog
 
