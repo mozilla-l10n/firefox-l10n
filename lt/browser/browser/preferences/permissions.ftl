@@ -36,6 +36,10 @@ permissions-button-ok =
     .accesskey = r
 permissions-searchbox =
     .placeholder = Ieškoti svetainėje
+permissions-capabilities-allow =
+    .label = Leisti
+permissions-capabilities-block =
+    .label = Neleisti
 
 ## Invalid Hostname Dialog
 
