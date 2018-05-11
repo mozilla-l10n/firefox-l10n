@@ -40,6 +40,8 @@ permissions-capabilities-allow =
     .label = Yamir
 permissions-capabilities-block =
     .label = Falo
+permissions-capabilities-prompt =
+    .label = Naamno Sahaa Kala
 
 ## Invalid Hostname Dialog
 

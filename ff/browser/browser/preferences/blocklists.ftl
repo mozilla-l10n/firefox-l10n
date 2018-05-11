@@ -27,3 +27,4 @@ blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-name = Seŋtu.am ndeenka koyka (Ena wasiyaa).
 blocklist-item-moz-std-desc = Yamir won e dewindorɗe ngam lowe mbaawa dogde no haanirta.
 blocklist-item-moz-full-name = Seŋtu.am ndeenka tekkuka.
+blocklist-item-moz-full-desc = Faloto dewindorɗe ganndaaɗe. Won e lowe maa mbaɗ caɗe yilleede.
