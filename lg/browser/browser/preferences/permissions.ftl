@@ -18,6 +18,10 @@ permissions-status =
 permissions-button-cancel =
     .label = Sazaamu
     .accesskey = S
+permissions-capabilities-allow =
+    .label = Kkiriza
+permissions-capabilities-block =
+    .label = Zibikkira
 
 ## Invalid Hostname Dialog
 
