@@ -40,6 +40,8 @@ permissions-capabilities-allow =
     .label = Salli
 permissions-capabilities-block =
     .label = Estä
+permissions-capabilities-prompt =
+    .label = Kysy aina
 
 ## Invalid Hostname Dialog
 
