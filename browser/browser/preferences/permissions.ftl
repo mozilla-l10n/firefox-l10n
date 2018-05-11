@@ -21,6 +21,8 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Stoor veranderinge
     .accesskey = S
+permissions-capabilities-allow =
+    .label = Laat toe
 permissions-capabilities-block =
     .label = Blokkeer
 
