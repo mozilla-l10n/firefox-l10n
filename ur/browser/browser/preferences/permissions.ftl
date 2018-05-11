@@ -36,6 +36,10 @@ permissions-button-ok =
     .accesskey = م
 permissions-searchbox =
     .placeholder = ویبسائٹ تلاش کریں
+permissions-capabilities-allow =
+    .label = ہونے دیں
+permissions-capabilities-block =
+    .label = بلاک کریں
 
 ## Invalid Hostname Dialog
 
