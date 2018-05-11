@@ -140,7 +140,7 @@ fonts-languages-fallback-name-other =
     .label = Annan (inkl. västeuropeisk)
 fonts-very-large-warning-title = Stor minsta typsnittsstorlek
 fonts-very-large-warning-message = Du har valt en väldigt stor minsta typsnittsstorlek (mer än 24 pixlar). Detta kan göra det svårt eller omöjligt att använda vissa viktiga konfigurationssidor som denna.
-fonts-very-large-warning-accept = Behåll mina ändringar allafall{ " " }
+fonts-very-large-warning-accept = Behåll mina ändringar allafall
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
