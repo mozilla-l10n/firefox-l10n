@@ -50,18 +50,26 @@ permissions-invalid-uri-label = एक वैध मेजबाननाम ड
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = अपवाद - ट्रैकिंग संरक्षण
+    .style = { permissions-window.style }
 
 ## Exceptions - Cookies
 
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-desc = कौन-सी वेबसाइटों की पॉपअप विंडो खुलेंगी यह आपके हाथ में है. जिनको आप यह अनुमति देना चाहते हैं उनका सही वेब पता लिखें और अनुमति दें पर क्लिक करें.
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = अपवाद - संग्रहित प्रवेश{ " " }
+    .style = { permissions-window.style }
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-desc = कौन-सी वेबसाइटें सहयुक्तियों का संस्थापन करेंगी यह आपके हाथ में है. जिनको आप यह अनुमति देना चाहते हैं उनका सही वेब पता लिखें और अनुमति दें पर क्लिक करें.
 
 ## Site Permissions - Notifications
 
