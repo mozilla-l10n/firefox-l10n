@@ -145,3 +145,5 @@ fonts-very-large-warning-accept = Păstrează-mi schimbările oricum
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Implicit ({ $name })
+fonts-label-default-unnamed =
+    .label = Implicit

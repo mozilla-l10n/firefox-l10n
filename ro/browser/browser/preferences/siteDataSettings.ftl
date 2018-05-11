@@ -36,11 +36,17 @@ site-usage-persistent = { site-usage-pattern } (Persistentă)
 site-data-remove-all =
     .label = Elimină-le toate
     .accesskey = a
+site-data-remove-shown =
+    .label = Elimină toate cele afișate
+    .accesskey = e
 
 ## Removing
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-dialog =
+    .title = { site-data-removing-header }
+    .buttonlabelaccept = Elimină
 site-data-removing-header = Eliminarea cookie-urilor și a datelor site-urilor
 site-data-removing-desc = Eliminarea cookie-urilor și a datelor site-urilor te-ar putea deconecta de pe site-uri web. Sigur vrei să efectuezi schimbările?
 site-data-removing-table = Cookie-urile și datele site-urilor pentru următoarele site-uri web vor fi eliminate
