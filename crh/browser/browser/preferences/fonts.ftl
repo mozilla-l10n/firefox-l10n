@@ -138,3 +138,12 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamca
 fonts-languages-fallback-name-other =
     .label = Diger (Ğarbiy Avropaiy dahil)
+fonts-very-large-warning-title = Balaban asğariy urufat ölçüsi
+fonts-very-large-warning-message = Çoq büyük bir asğariy urufat ölçüsi saylağan olasıñız (24 pikselden fazla). Bu, bunıñ kibi bazı müim endamlandırma saifelerini qullanmanı belki zor yaki imkânsız yapar.
+fonts-very-large-warning-accept = Denişikliklerimni kene de qoru
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = Ög-belgilengen ({ $name })
+fonts-label-default-unnamed =
+    .label = Ögbelgilengen

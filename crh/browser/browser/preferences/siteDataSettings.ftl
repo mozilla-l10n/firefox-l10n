@@ -21,8 +21,21 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Deñişikliklerni Saqla
     .accesskey = S
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+site-usage-pattern = { $value } { $unit }
+site-data-remove-all =
+    .label = Episini Çetleştir
+    .accesskey = e
+site-data-remove-shown =
+    .label = Kösterilgenlerniñ Episini Çetleştir
+    .accesskey = e
 
 ## Removing
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-dialog =
+    .title = { site-data-removing-header }
+    .buttonlabelaccept = Çetleştir

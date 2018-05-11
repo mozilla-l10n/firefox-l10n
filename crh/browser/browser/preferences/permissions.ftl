@@ -36,6 +36,12 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = Ağ-saytı Qıdır
+permissions-capabilities-allow =
+    .label = İzin Ber
+permissions-capabilities-block =
+    .label = Blokla
+permissions-capabilities-prompt =
+    .label = Er Zaman Sora
 
 ## Invalid Hostname Dialog
 
