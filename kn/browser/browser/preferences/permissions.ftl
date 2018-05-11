@@ -36,6 +36,10 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = ಜಾಲತಾಣವನ್ನು ಹುಡುಕು
+permissions-capabilities-allow =
+    .label = ಅನುಮತಿಸು
+permissions-capabilities-block =
+    .label = ನಿರ್ಬಂಧಿಸು
 
 ## Invalid Hostname Dialog
 
