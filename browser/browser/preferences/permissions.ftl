@@ -40,6 +40,8 @@ permissions-capabilities-allow =
     .label = Permetter
 permissions-capabilities-block =
     .label = Bloccar
+permissions-capabilities-prompt =
+    .label = Adina dumandar
 
 ## Invalid Hostname Dialog
 
