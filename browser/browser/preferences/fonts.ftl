@@ -145,3 +145,5 @@ fonts-very-large-warning-accept = Giữ các thay đổi của tôi
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Mặc định ({ $name })
+fonts-label-default-unnamed =
+    .label = Mặc định

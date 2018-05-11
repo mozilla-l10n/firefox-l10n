@@ -25,11 +25,21 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Lưu thay đổi
     .accesskey = a
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+site-usage-pattern = { $value } { $unit }
+site-data-remove-all =
+    .label = Xóa hết
+    .accesskey = e
 
 ## Removing
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-dialog =
+    .title = { site-data-removing-header }
+    .buttonlabelaccept = Xóa
 site-data-removing-header = Xóa cache và dữ liệu trang
 site-data-removing-desc = Xóa cookie và dữ liệu trang có thể khiến bạn bị đăng xuất khỏi trang web. Bạn có chắc chắn muốn thay đổi không?
 site-data-removing-table = Cookie và dữ liệu của các trang web sau sẽ bị xóa
