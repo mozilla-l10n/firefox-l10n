@@ -69,8 +69,8 @@
 <!ENTITY  aboutDevtools.newsletter.thanks.title "Gracie!">
 <!ENTITY  aboutDevtools.newsletter.thanks.message "Se no tu lu as ancjemò fat, tu as di confermà la iscrizion al boletin di Mozilla. Cîr la nestre mail in te pueste rivade o spam.">
 
-<!ENTITY  aboutDevtools.footer.title "Edizion svilupadoôs di Mozilla">
-<!ENTITY  aboutDevtools.footer.message "No atu avonde cun imprescj di svilup? Controle il browser di Firefox creat apueste par i svilupadôrs e i gnûfs procès di lavôr.">
+<!ENTITY  aboutDevtools.footer.title "Edizion svilupadôrs di Mozilla">
+<!ENTITY  aboutDevtools.footer.message "No âstu avonde cun imprescj di svilup? Controle il browser di Firefox creât apueste par i svilupadôrs e i gnûfs procès di lavôr.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to
   -  https://www.mozilla.org/firefox/developer/ displayed in the footer. -->
