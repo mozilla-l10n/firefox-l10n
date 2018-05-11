@@ -139,6 +139,7 @@ fonts-languages-fallback-name-vietnamese =
 fonts-languages-fallback-name-other =
     .label = Otros (incl. européu occidental)
 fonts-very-large-warning-title = Tamañu mínimu de lletra grande
+fonts-very-large-warning-message = Esbillesti un tamañu de fonte perpequeñu (más de 24 píxeles). Esto quiciabes faiga difícil o imposible l'usu de delles páxines de configuración como esta.
 fonts-very-large-warning-accept = Caltener los mios cambeos de toes formes
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
