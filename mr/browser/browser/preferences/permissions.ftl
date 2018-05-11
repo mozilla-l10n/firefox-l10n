@@ -36,6 +36,10 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = वेबसाईट शोधा
+permissions-capabilities-allow =
+    .label = परवानगी द्या
+permissions-capabilities-block =
+    .label = अडवा
 
 ## Invalid Hostname Dialog
 
