@@ -27,3 +27,4 @@ blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-name = Կապախզել ինձ բազային պաշտպանություն (խորհուրդ է տրվում)
 blocklist-item-moz-std-desc = Թույլատրել որոշ հետագծումներ, որպեսզի կայքը նորմալ աշխատի:
 blocklist-item-moz-full-name = Կապախզել խիստ պաշտպանությունը:
+blocklist-item-moz-full-desc = Արգելափակում է հայտնի հետագծիչները: Որոշ կայքեր, հնարավոր է, նորմալ չաշխատեն:
