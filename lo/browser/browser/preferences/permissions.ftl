@@ -38,6 +38,10 @@ permissions-searchbox =
     .placeholder = ຊອກຫາເວັບໄຊທ໌
 permissions-capabilities-allow =
     .label = ອະນຸຍາດ
+permissions-capabilities-block =
+    .label = ບັອກ
+permissions-capabilities-prompt =
+    .label = ຖາມທຸກຄັ້ງ
 
 ## Invalid Hostname Dialog
 
