@@ -38,3 +38,7 @@ fonts-minsize-none =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = பொது இருப்பு ({ $name })
