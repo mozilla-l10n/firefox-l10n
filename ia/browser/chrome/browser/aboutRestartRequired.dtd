@@ -4,5 +4,10 @@
 
 <!ENTITY restartRequired.title "Reinitio requirite">
 
+<!ENTITY restartRequired.header "Pardono. Nos justo necessita de facer un micre cosa pro mantener le viage.">
+<!ENTITY restartRequired.description "
+<p>Nos ha justo installate un actualisation in le fundo Clicca Reinitiar &brandShortName; pro finir de lo applicar.</p>
+<p>Nos restaurara tote tu paginas, fenestras e schedas postea, assi tu pote ser presto sur tu via.</p>
+">
 
 <!ENTITY restartButton.label "Reinitiar &brandShortName;">
