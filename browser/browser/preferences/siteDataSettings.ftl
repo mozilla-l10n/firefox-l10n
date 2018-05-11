@@ -33,6 +33,12 @@ site-data-button-save =
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 site-usage-pattern = { $value } { $unit }
 site-usage-persistent = { site-usage-pattern } (Persistente)
+site-data-remove-all =
+    .label = Eliminar todos
+    .accesskey = e
+site-data-remove-shown =
+    .label = Eliminar todos los mostrados
+    .accesskey = e
 
 ## Removing
 
