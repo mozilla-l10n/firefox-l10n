@@ -21,6 +21,8 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Stoor veranderinge
     .accesskey = S
+permissions-capabilities-block =
+    .label = Blokkeer
 
 ## Invalid Hostname Dialog
 
