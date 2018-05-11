@@ -22,6 +22,17 @@ focus-search =
 ## Browser Restart Dialog
 
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+
 ## Preferences UI Search Results
 
 
@@ -35,6 +46,7 @@ browser-containers-learn-more = Cchiú nfurmazzioni
 ## General Section - Files and Applications
 
 play-drm-content-learn-more = Cchiú nfurmazzioni
+update-application-version = Versioni { $version } <a data-l10n-name="learn-more">Cchiú nfurmazzioni</a>
 
 ## General Section - Performance
 
@@ -45,6 +57,7 @@ performance-settings-learn-more = Cchiú nfurmazzioni
 
 ## General Section - Proxy
 
+network-proxy-connection-learn-more = Cchiú nfurmazzioni
 network-proxy-connection-settings =
     .label = Mpustazzioni…
     .accesskey = M
@@ -63,6 +76,12 @@ search-bar-shown =
 ## Containers Section
 
 containers-back-link = « Torna nn'arredi
+
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
 
 ## Privacy Section
 
@@ -91,6 +110,7 @@ permissions-a11y-privacy-link = Cchiú nfurmazzioni
 ## Privacy Section - Data Collection
 
 collection-health-report-link = Cchiú nfurmazzioni
+collection-browser-errors-link = Cchiú nfurmazzioni
 collection-backlogged-crash-reports-link = Cchiú nfurmazzioni
 
 ## Privacy Section - Security
