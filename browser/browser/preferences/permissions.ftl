@@ -38,6 +38,8 @@ permissions-searchbox =
     .placeholder = ابحث عن موقع
 permissions-capabilities-allow =
     .label = اسمح
+permissions-capabilities-prompt =
+    .label = اسأل دائمًا
 
 ## Invalid Hostname Dialog
 

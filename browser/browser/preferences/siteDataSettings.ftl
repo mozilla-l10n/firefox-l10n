@@ -7,6 +7,7 @@
 
 site-data-settings-window =
     .title = أدِر الكعكات و بيانات المواقع
+site-data-settings-description = تخزّن المواقع التالية الكعكات و بيانات الموقع على حاسوبك. يبقي { -brand-short-name } البيانات من المواقع التي تستخدم تخزينًا دائمًا حتى تحذفها، و يحذف البيانات من المواقع التي لا تستخدم التخزين الدائم عندما يحتاج إلى مساحة التخزين.
 site-data-search-textbox =
     .placeholder = ابحث في المواقع
     .accesskey = ح
@@ -27,6 +28,7 @@ site-data-button-cancel =
 site-data-button-save =
     .label = احفظ التغييرات
     .accesskey = ظ
+site-usage-persistent = { site-usage-pattern } (دائم)
 
 ## Removing
 
