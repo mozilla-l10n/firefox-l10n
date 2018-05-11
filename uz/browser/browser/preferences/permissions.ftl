@@ -57,7 +57,7 @@ permissions-exceptions-tracking-protection-window =
 
 ## Exceptions - Pop-ups
 
-permissions-exceptions-popup-desc = Siz xohlagan vebsaytlaringizga paydo boʻluvchi oynalarni ochishiga ruxsat berishingiz mumkin. Ruxsat bermoqchi boʻlgan saytingiz manzilini yozing va "Ruxsat berish" tugmasini bosing.{ " " }
+permissions-exceptions-popup-desc = Siz xohlagan vebsaytlaringizga paydo boʻluvchi oynalarni ochishiga ruxsat berishingiz mumkin. Ruxsat bermoqchi boʻlgan saytingiz manzilini yozing va "Ruxsat berish" tugmasini bosing.
 
 ## Exceptions - Saved Logins
 
