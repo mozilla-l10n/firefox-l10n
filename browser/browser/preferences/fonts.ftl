@@ -145,3 +145,5 @@ fonts-very-large-warning-accept = Teeŋtin bayle am tan
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Goowaaɗe ({ $name })
+fonts-label-default-unnamed =
+    .label = Goowaaɗe
