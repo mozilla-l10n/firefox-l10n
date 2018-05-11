@@ -138,6 +138,9 @@ fonts-languages-fallback-name-vietnamese =
     .label = ویتنامی
 fonts-languages-fallback-name-other =
     .label = موراد دیگر (شامل اروپای شرقی)
+fonts-very-large-warning-title = حداقل اندازه بزرگ قلم
+fonts-very-large-warning-message = شما اندازه خیلی بزرگی برای حداقل اندازه قلم انتخاب کرده‌اید (بیش از ۲۴ پیکسل). این ممکن است باعث شود پیکربندی صفحاتی مانند این سخت یا غیرممکن بشود.
+fonts-very-large-warning-accept = به هر حال تغییرات من را نگه‌دار
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
