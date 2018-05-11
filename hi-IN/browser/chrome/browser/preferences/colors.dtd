@@ -11,7 +11,7 @@
 
 <!ENTITY  overrideDefaultPageColors.always.label "हमेशा">
 <!ENTITY  overrideDefaultPageColors.auto.label   "केवल उच्च विरोधी प्रसंग">
-<!ENTITY  overrideDefaultPageColors.never.label  "कभी न ">
+<!ENTITY  overrideDefaultPageColors.never.label  "कभी न">
 
 <!ENTITY  color                           "पाठ व पृष्ठभूमि">
 <!ENTITY  textColor2.label                "पाठ">
