@@ -38,6 +38,10 @@ permissions-searchbox =
     .placeholder = ค้นหาเว็บไซต์
 permissions-capabilities-allow =
     .label = อนุญาต
+permissions-capabilities-block =
+    .label = ปิดกั้น
+permissions-capabilities-prompt =
+    .label = ถามเสมอ
 
 ## Invalid Hostname Dialog
 

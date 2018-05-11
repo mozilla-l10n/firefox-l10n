@@ -583,6 +583,11 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = คุกกี้และข้อมูลไซต์
+sitedata-total-size-calculating = กำลังคำนวณขนาดข้อมูลไซต์และแคช…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = คุกกี้, ข้อมูลไซต์ และแคชที่ถูกจัดเก็บไว้ของคุณใช้พื้นที่ดิสก์ไป { $value } { $unit }
 sitedata-learn-more = เรียนรู้เพิ่มเติม
 sitedata-accept-cookies-option =
     .label = ยอมรับคุกกี้และข้อมูลไซต์จากเว็บไซต์ (แนะนำ)
