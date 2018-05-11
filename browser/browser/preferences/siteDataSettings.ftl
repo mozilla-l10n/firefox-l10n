@@ -27,11 +27,20 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Захаваць змены
     .accesskey = а
+site-data-remove-all =
+    .label = Выдаліць усе
+    .accesskey = л
+site-data-remove-shown =
+    .label = Выдаліць усе паказаныя
+    .accesskey = л
 
 ## Removing
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-dialog =
+    .title = { site-data-removing-header }
+    .buttonlabelaccept = Выдаліць
 site-data-removing-header = Выдаленне кукаў і дадзеных сайтаў
 site-data-removing-desc = Выдаленне кукаў і дадзеных сайтаў могуць прывесці да выхаду з вэб-сайтаў. Вы ўпэўненыя, што жадаеце ўнесці змены?
 site-data-removing-table = Кукі і дадзеныя сайтаў для наступных вэб-сайтаў будуць выдаленыя
