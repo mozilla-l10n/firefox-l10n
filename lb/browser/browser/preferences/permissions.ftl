@@ -36,3 +36,35 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = Internetsite sichen
+permissions-capabilities-allow =
+    .label = Erlaben
+
+## Invalid Hostname Dialog
+
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
