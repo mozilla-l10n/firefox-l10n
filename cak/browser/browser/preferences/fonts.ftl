@@ -138,3 +138,10 @@ fonts-languages-fallback-name-vietnamese =
     .label = aj BYETNAM
 fonts-languages-fallback-name-other =
     .label = Ch'aqa' chik (incl. aj Europa occidental)
+fonts-very-large-warning-title = Ruch'utinal ri nïm tz'ib'
+fonts-very-large-warning-message = Xacha' jun nïm, nimaläj rupalem chi tz'ib' (jotöl chuwäch ri 24 piksel). Re re' nub'än chi k'ayew xke'awoisaj jujun taq utziläj ruxaq k'amaya'l ri k'o kinuksamaj achi'el re'.
+fonts-very-large-warning-accept = Kan keyake' kan ri taq nujaloj
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = Ruk'amon wi pe ({ $name })

@@ -27,11 +27,20 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Keyak taq jaloj
     .accesskey = y
+site-data-remove-all =
+    .label = Keyuj Konojel
+    .accesskey = y
+site-data-remove-shown =
+    .label = Keyuj el konojel ri ek'utun
+    .accesskey = y
 
 ## Removing
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-dialog =
+    .title = { site-data-removing-header }
+    .buttonlabelaccept = Tiyuj
 site-data-removing-header = Yesilöx taq Kaxlanwey chuqa' Rutzij K'amaya'l
 site-data-removing-desc = We yeyuj ri taq kaxlanwey chuqa' rutzij ruxaq k'amaya'l nitikïr yerutz'apij tzijïl taq molojri'ïl. ¿La nawajo' ye'ayäk ri taq jaloj?
 site-data-removing-table = Xkeyuj el ri taq kaxlanwey chuqa' ri rutzij re taq ruxaq k'amaya'l re'
