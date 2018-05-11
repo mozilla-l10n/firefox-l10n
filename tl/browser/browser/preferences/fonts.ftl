@@ -138,3 +138,5 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamese
 fonts-languages-fallback-name-other =
     .label = Iba pa (kasama ang Western European)
+fonts-label-default-unnamed =
+    .label = Default

@@ -40,6 +40,8 @@ permissions-capabilities-allow =
     .label = Payagan
 permissions-capabilities-block =
     .label = Harangin
+permissions-capabilities-prompt =
+    .label = Palaging Magtanong
 
 ## Invalid Hostname Dialog
 
