@@ -145,3 +145,5 @@ fonts-very-large-warning-accept = Palikti mano pakeitimus
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Numatytasis ({ $name })
+fonts-label-default-unnamed =
+    .label = Numatytasis
