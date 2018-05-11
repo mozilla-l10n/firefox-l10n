@@ -36,6 +36,8 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = Otsi saiti
+permissions-capabilities-allow =
+    .label = Lubatud
 
 ## Invalid Hostname Dialog
 
