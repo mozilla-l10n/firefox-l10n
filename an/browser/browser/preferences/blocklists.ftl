@@ -16,3 +16,6 @@ blocklist-button-cancel =
 blocklist-button-ok =
     .label = Alzar os cambios
     .accesskey = A
+blocklist-item-moz-std-name = Disconnect.me, protección basica (recomendau).
+blocklist-item-moz-std-desc = Permite bell seguimiento pa que as webs funcionen correctament.
+blocklist-item-moz-full-name = Disconnect.me, protección estricta.
