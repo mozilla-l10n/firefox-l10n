@@ -36,6 +36,10 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = 웹사이트 검색
+permissions-capabilities-allow =
+    .label = 허가
+permissions-capabilities-block =
+    .label = 차단
 
 ## Invalid Hostname Dialog
 
