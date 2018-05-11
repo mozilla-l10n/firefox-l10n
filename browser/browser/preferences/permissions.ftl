@@ -36,6 +36,10 @@ permissions-button-ok =
     .accesskey = Ы
 permissions-searchbox =
     .placeholder = Пошук па вэб-сайту
+permissions-capabilities-allow =
+    .label = Дазволіць
+permissions-capabilities-block =
+    .label = Блакаваць
 
 ## Invalid Hostname Dialog
 
