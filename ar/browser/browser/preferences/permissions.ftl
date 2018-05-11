@@ -36,6 +36,8 @@ permissions-button-ok =
     .accesskey = ح
 permissions-searchbox =
     .placeholder = ابحث عن موقع
+permissions-capabilities-allow =
+    .label = اسمح
 
 ## Invalid Hostname Dialog
 
