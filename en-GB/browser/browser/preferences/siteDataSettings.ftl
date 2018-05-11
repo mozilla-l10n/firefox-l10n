@@ -27,11 +27,24 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Save Changes
     .accesskey = a
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+site-usage-pattern = { $value } { $unit }
+site-data-remove-all =
+    .label = Remove All
+    .accesskey = e
+site-data-remove-shown =
+    .label = Remove All Shown
+    .accesskey = e
 
 ## Removing
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-dialog =
+    .title = { site-data-removing-header }
+    .buttonlabelaccept = Remove
 site-data-removing-header = Removing Cookies and Site Data
 site-data-removing-desc = Removing cookies and site data may log you out of web sites. Are you sure you want to make the changes?
 site-data-removing-table = Cookies and site data for the following web sites will be removed
