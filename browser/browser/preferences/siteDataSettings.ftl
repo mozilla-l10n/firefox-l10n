@@ -7,6 +7,7 @@
 
 site-data-settings-window =
     .title = Gerir cookies e dados de sites
+site-data-settings-description = Os seguintes websites armazenam cookies e dados de sites no seu computador. O { -brand-short-name } mantém dados de websites com armazenamento persistente até os apagar, e apaga dados de websites com armazenamento não-persistente quando é necessário espaço.
 site-data-search-textbox =
     .placeholder = Pesquisar websites
     .accesskey = P
@@ -27,6 +28,11 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Guardar alterações
     .accesskey = a
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+site-usage-pattern = { $value } { $unit }
+site-usage-persistent = %1$S%2$S (persistente)
 site-data-remove-all =
     .label = Remover todos
     .accesskey = e

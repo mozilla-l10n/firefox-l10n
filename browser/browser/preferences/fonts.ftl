@@ -145,3 +145,5 @@ fonts-very-large-warning-accept = Manter as minhas alterações
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Predefinição ({ $name })
+fonts-label-default-unnamed =
+    .label = Predefinido

@@ -26,3 +26,4 @@ blocklist-button-ok =
 blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-name = Proteção básica Disconnect.me (recomendada).
 blocklist-item-moz-full-name = Proteção estrita Disconnect.me.
+blocklist-item-moz-full-desc = Bloqueia trackers conhecidos. Alguns websites podem não funcionar corretamente.
