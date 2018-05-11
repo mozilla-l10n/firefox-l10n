@@ -113,6 +113,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = වියට්නාමියානු
 fonts-languages-fallback-name-other =
     .label = වෙනත් (ඇතුළ. බටහිර යුරෝපීය)
+fonts-very-large-warning-accept = කෙසේනමුත් මාගේ වෙනස්කම් තබාගන්න
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
