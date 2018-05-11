@@ -38,6 +38,9 @@ site-usage-persistent = { site-usage-pattern } (Persistente)
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-dialog =
+    .title = { site-data-removing-header }
+    .buttonlabelaccept = Eliminar
 site-data-removing-header = Eliminando cookies y datos del sitio
 site-data-removing-desc = Eliminar cookies y datos de los sitios puede cerrar tus sesiones activas. ¿Estás seguro que deseas hacer los cambios?
 site-data-removing-table = Las cookies y los datos de los siguientes sitios web serán eliminados
