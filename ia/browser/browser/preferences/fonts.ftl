@@ -138,12 +138,12 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamese
 fonts-languages-fallback-name-other =
     .label = Altere (incl. europeo occidental)
-fonts-very-large-warning-title = Le dimension minime del typo es multo grande
+fonts-very-large-warning-title = Dimension minime del character troppo grande
 fonts-very-large-warning-message = Tu ha seligite un valor multo alte pro le dimension minime del (plus que 24 pixels). Isto pote facer difficile o impossibile de usar alcun paginas de configuration importante como iste.
-fonts-very-large-warning-accept = Mantener mi cambios malgrado isto
+fonts-very-large-warning-accept = Mantener mi cambios comocunque
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
-    .label = Predefinition ({ $name })
+    .label = Predefinite ({ $name })
 fonts-label-default-unnamed =
     .label = Predefinite

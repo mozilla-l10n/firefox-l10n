@@ -37,8 +37,8 @@ site-data-remove-all =
     .label = Remover toto
     .accesskey = e
 site-data-remove-shown =
-    .label = Remover tote le monstrates
-    .accesskey = e
+    .label = Remover tote le monstras
+    .accesskey = a
 
 ## Removing
 
