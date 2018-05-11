@@ -21,9 +21,9 @@
 <!ENTITY tabCrashed.multiple.offerHelpMessage2 "Sielç &tabCrashed.restoreTab; o &tabCrashed.restoreAll; par tornâ a cjariâ la pagjine/pages.">
 <!ENTITY tabCrashed.requestHelp "Vutu judânus?">
 <!ENTITY tabCrashed.requestHelpMessage "Lis segnalazions di bloc anormâl nus judin a identificâ i problemis e a miorâ &brandShortName;.">
-<!ENTITY tabCrashed.requestReport "Segnale chiste schede">
+<!ENTITY tabCrashed.requestReport "Segnale cheste schede">
 <!ENTITY tabCrashed.sendReport3 "Mande une segnalazion automatiche di bloc cussì o podin risolvi problemis di chest gjenar.">
-<!ENTITY tabCrashed.commentPlaceholder2 "Coments opzionai (i coments a son visibii publichementri)">
+<!ENTITY tabCrashed.commentPlaceholder2 "Coments opzionâi (i coments a son visibii publicamentri)">
 <!ENTITY tabCrashed.includeURL3 "Inclût lis URLs dai sîts che tu as visitât al moment dal bloc di &brandShortName;.">
 <!ENTITY tabCrashed.emailPlaceholder "Inseris la to mail culi">
 <!ENTITY tabCrashed.emailMe "Mande une mail cuant che tu as plui informazions">

@@ -18,7 +18,7 @@ searchreset.afterlink.pageInfo): these two string are used respectively
 before and after the "Settings page" link (searchreset.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language. -->
-<!ENTITY searchreset.beforelink.pageInfo2 "Al e pussibil cambiâ lis impostazions ogni volte che si a voie da ">
+<!ENTITY searchreset.beforelink.pageInfo2 "Si podin cambiâ lis impostazions in cualsisei moment da ">
 <!ENTITY searchreset.afterlink.pageInfo2  ".">
 
 <!ENTITY searchreset.link.pageInfo2       "Pagjine di impostazions">
