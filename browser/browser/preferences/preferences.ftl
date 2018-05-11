@@ -595,6 +595,7 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Çərəzlər və Sayt Məlumatları
+sitedata-total-size-calculating = Sayt məlumatları və keş ölçüsü hesablanır…
 sitedata-learn-more = Ətraflı öyrən
 sitedata-accept-cookies-option =
     .label = Saytların çərəz və sayt məlumatlarını qəbul et (məsləhət görülür)

@@ -27,3 +27,4 @@ blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-name = Disconnect.me başlanğıc qoruma (Məsləhət görülən).
 blocklist-item-moz-std-desc = Saytların düz işləyə bilmələri üçün bəzi izləyicilərə icazə verir.
 blocklist-item-moz-full-name = Disconnect.me qəti qoruma.
+blocklist-item-moz-full-desc = Bilinən izləyiciləri bloklayır. Bəzi saytlar düz işləməyə bilərlər.
