@@ -7,6 +7,7 @@
 
 site-data-settings-window =
     .title = કુકીઝ અને સાઇટ ડેટા મેનેજ કરો
+site-data-settings-description = નીચેની વેબસાઇટ્સ તમારા કમ્પ્યુટર પર કૂકીઝ અને સાઇટ ડેટાને સંગ્રહિત કરે છે. { -brand-short-name } જ્યાં સુધી તમે તેને કાઢી નાખો નહીં ત્યાં સુધી સતત સંગ્રહવાળી વેબસાઇટ્સમાં ડેટા રાખે છે, અને વેબસાઇટ્સની માહિતીને બિન-સ્થિરીત સંગ્રહ સાથે કાઢી નાંખે છે કારણ કે જગ્યા જરૂરી છે.
 site-data-search-textbox =
     .placeholder = વેબસાઇટ્સ શોધો
     .accesskey = S
@@ -27,11 +28,25 @@ site-data-button-cancel =
 site-data-button-save =
     .label = પરિવર્તનો સાચવો
     .accesskey = a
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+site-usage-pattern = { $value } { $unit }
+site-usage-persistent = { site-usage-pattern } (નિરંતર)
+site-data-remove-all =
+    .label = બધું દૂર કરો
+    .accesskey = e
+site-data-remove-shown =
+    .label = બધા બતાવ્યા દૂર કરો
+    .accesskey = e
 
 ## Removing
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-dialog =
+    .title = { site-data-removing-header }
+    .buttonlabelaccept = દૂર કરો
 site-data-removing-header = કુકીઝ અને સાઇટ ડેટા દૂર કરી રહ્યાં છે
 site-data-removing-desc = કૂકીઝ અને સાઇટ ડેટાને દૂર કરવાથી તમે વેબસાઇટ્સથી લૉગ આઉટ થઈ શકો છો. શું તમે ખરેખર ફેરફારો કરવા માંગો છો?
 site-data-removing-table = નીચેની વેબસાઇટ્સ માટે કૂકીઝ અને સાઇટ ડેટા દૂર કરવામાં આવશે

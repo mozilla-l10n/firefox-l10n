@@ -595,6 +595,7 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = કૂકીઝ અને સાઈટ ડેટા
+sitedata-total-size-calculating = સાઇટ ડેટા અને કેશ કદની ગણતરી કરી રહ્યું છે…
 sitedata-learn-more = વધુ શીખો
 sitedata-accept-cookies-option =
     .label = વેબસાઇટ્સથી કૂકીઝ અને સાઇટ ડેટાને સ્વીકારો (ભલામણ કરેલ).
