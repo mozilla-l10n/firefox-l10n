@@ -138,6 +138,9 @@ fonts-languages-fallback-name-vietnamese =
     .label = வியட்னாமிய
 fonts-languages-fallback-name-other =
     .label = மற்றவை(மேற்கத்திய ஐரோப்பவையும் உள்ளடக்கியவை)
+fonts-very-large-warning-title = பெரிய குறைந்த எழுத்துரு அளவு
+fonts-very-large-warning-message = நீங்கள் பெரிய குறைந்த எழுத்துரு அளவை தேர்ந்தெடுத்துள்ளீர் ( 24 பிக்சல்களுக்கு மேல்). இது போன்ற முதன்மை கட்டமைப்பு பக்கங்களை பயன்படுத்துவதை இது கடினமாக அல்லது முடியாதாதக ஆக்குகிறது.
+fonts-very-large-warning-accept = எனது மாற்றங்களை எப்படியும் வைத்திரு
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
