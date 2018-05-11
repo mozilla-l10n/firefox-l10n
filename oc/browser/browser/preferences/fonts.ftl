@@ -138,3 +138,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamian
 fonts-languages-fallback-name-other =
     .label = Autra (inclusa Euròpa occidentala)
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = Per defaut ({ $name })
