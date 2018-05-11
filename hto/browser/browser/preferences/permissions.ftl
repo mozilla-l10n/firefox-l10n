@@ -21,3 +21,37 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Fɨebiya ñúe jóne
     .accesskey = F
+permissions-capabilities-allow =
+    .label = Jɨɨ
+permissions-capabilities-block =
+    .label = Ɨ́baika
+
+## Invalid Hostname Dialog
+
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
