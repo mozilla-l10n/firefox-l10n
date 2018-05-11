@@ -145,3 +145,5 @@ fonts-very-large-warning-accept = Cadw fy newidiadau, beth bynnag
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Rhagosodiad ({ $name })
+fonts-label-default-unnamed =
+    .label = Rhagosodiad
