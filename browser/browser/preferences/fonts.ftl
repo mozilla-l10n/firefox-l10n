@@ -138,6 +138,9 @@ fonts-languages-fallback-name-vietnamese =
     .label = Víetnamska
 fonts-languages-fallback-name-other =
     .label = Annað (með Vestur-Evrópu)
+fonts-very-large-warning-title = Stór lágmarks leturstærð
+fonts-very-large-warning-message = Þú hefur valið mjög stóra lágmarks leturstærð (stærri en 24 punktar). Þetta gæti leidd til þess að það væri erfitt eða ógerlegt að nota sumar stillingarsíður eins og þessa síðu.
+fonts-very-large-warning-accept = Halda samt áfram með breytingar
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
