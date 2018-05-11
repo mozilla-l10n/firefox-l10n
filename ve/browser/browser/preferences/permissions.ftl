@@ -18,6 +18,10 @@ permissions-allow =
     .accesskey = A
 permissions-status =
     .label = Maimo
+permissions-capabilities-allow =
+    .label = Tendelani
+permissions-capabilities-block =
+    .label = Thivhelani
 
 ## Invalid Hostname Dialog
 
