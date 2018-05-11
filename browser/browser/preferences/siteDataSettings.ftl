@@ -27,6 +27,16 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Enregistrar las modificacions
     .accesskey = a
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+site-usage-pattern = { $value } { $unit }
+site-data-remove-all =
+    .label = Suprimir tot
+    .accesskey = e
+site-data-remove-shown =
+    .label = Suprimir tot çò afichat
+    .accesskey = e
 
 ## Removing
 

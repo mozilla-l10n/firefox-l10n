@@ -138,6 +138,9 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamian
 fonts-languages-fallback-name-other =
     .label = Autra (inclusa Euròpa occidentala)
+fonts-very-large-warning-title = Talha minimala de poliças grandas
+fonts-very-large-warning-message = Avètz causits una fòrça granda talha per la poliças minimala (mai de 24 pixels). Poiriá far dificil o impossible l'usatge de paginas de configuracion importanta coma aquesta.
+fonts-very-large-warning-accept = Gardar mos cambiaments çaquelà
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

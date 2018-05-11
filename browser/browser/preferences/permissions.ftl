@@ -40,6 +40,8 @@ permissions-capabilities-allow =
     .label = Autorizar
 permissions-capabilities-block =
     .label = Blocar
+permissions-capabilities-prompt =
+    .label = Demandar totjorn
 
 ## Invalid Hostname Dialog
 
