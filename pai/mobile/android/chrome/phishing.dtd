@@ -20,4 +20,8 @@
 
 <!ENTITY safeb.blocked.unwantedPage.title "Wawchu ja knabch yachuñ softwar klyeeb wiiy!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "Jabchuyay <span id='unwanted_sitename'/> yaakya jwa knabch softwar klyeeb wiyum sakyawa pay maa chmwiwuha paytum ŕ´am kwiirch.">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "Jabchuyay softwar klyeeb wiiy pay sak ntpach softwar ma sistem mwihal chkwahi kunika tklyeebhikyawa.">
 
+<!ENTITY safeb.blocked.harmfulPage.title "Web yakuyay malwar wiymaat">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; yay jabchu ya ŕ´am yay aplicacion klyeeb maa tñur mwiha o chapayr mwiiha ŕmar kyaaw yuk(kweha ulim paa tñuurch, ee jabchu ee tñur kwimch ee kwar o mchkwawu).">
