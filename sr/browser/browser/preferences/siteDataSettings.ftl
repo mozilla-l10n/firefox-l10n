@@ -7,6 +7,7 @@
 
 site-data-settings-window =
     .title = Управљај колачићима и подацима сајта
+site-data-settings-description = Следећи веб сајтови складиште колачиће и податке сајта на ваш рачунар. { -brand-short-name } чува податке веб сајтова са трајним складиште док их ви не обришете и брише податке веб сајтова без трајног складишта.
 site-data-search-textbox =
     .placeholder = Претражи веб сајтове
     .accesskey = П
@@ -27,6 +28,11 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Сачувај промене
     .accesskey = С
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+site-usage-pattern = { $value } { $unit }
+site-usage-persistent = { site-usage-pattern } (Трајно)
 site-data-remove-all =
     .label = Уклони све
     .accesskey = с
@@ -38,6 +44,9 @@ site-data-remove-shown =
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-dialog =
+    .title = { site-data-removing-header }
+    .buttonlabelaccept = Уклони
 site-data-removing-header = Брисање колачића и података сајта
 site-data-removing-desc = Брисање колачића и података сајта вас може одјавити са веб сајтова. Да ли сте сигурни да желите да направите ове измене?
 site-data-removing-table = Колачићи и подаци следећих веб сајтова ће бити обрисани
