@@ -18,6 +18,10 @@ permissions-status =
 permissions-button-cancel =
     .label = Neenal
     .accesskey = N
+permissions-capabilities-allow =
+    .label = May
+permissions-capabilities-block =
+    .label = Boloke
 
 ## Invalid Hostname Dialog
 
