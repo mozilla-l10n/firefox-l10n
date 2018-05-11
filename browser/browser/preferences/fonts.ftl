@@ -138,3 +138,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamdarra
 fonts-languages-fallback-name-other =
     .label = Bestelakoa (Europa mendebaldekoak barne)
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = Lehenetsia ({ $name })
