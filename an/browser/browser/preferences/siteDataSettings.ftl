@@ -27,11 +27,20 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Alzar los cambios
     .accesskey = A
+site-data-remove-all =
+    .label = Borrar-lo tot
+    .accesskey = r
+site-data-remove-shown =
+    .label = Borrar totz los amostraus
+    .accesskey = r
 
 ## Removing
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-dialog =
+    .title = { site-data-removing-header }
+    .buttonlabelaccept = Borrar
 site-data-removing-header = Se son borrando las cookies y los datos d'o puesto
 site-data-removing-desc = Borrar las cookies y los datos d'o puesto puede sacar-te de la sesión en bells puestos web. Seguro que quiers fer lo cambio?
 site-data-removing-table = Se van a borrar las cookies y datos d'o puesto d'os siguients puestos web
