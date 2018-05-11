@@ -598,6 +598,11 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookies a data stránek
+sitedata-total-size-calculating = Výpočet velikosti mezipaměti a dat stránek…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Velikost cookies, dat uložených stránkami a mezipaměti je { $value } { $unit }.
 sitedata-learn-more = Zjistit více
 sitedata-accept-cookies-option =
     .label = Povolit serverům ukládat cookies a data stránek (doporučeno)
