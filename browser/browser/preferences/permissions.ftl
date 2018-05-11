@@ -20,6 +20,8 @@ permissions-button-cancel =
     .accesskey = Ц
 permissions-capabilities-allow =
     .label = Зөвшөөр
+permissions-capabilities-block =
+    .label = Хорих
 
 ## Invalid Hostname Dialog
 
