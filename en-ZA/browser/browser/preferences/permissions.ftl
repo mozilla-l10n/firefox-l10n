@@ -24,6 +24,10 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Save Changes
     .accesskey = S
+permissions-capabilities-allow =
+    .label = Allow
+permissions-capabilities-block =
+    .label = Block
 
 ## Invalid Hostname Dialog
 
