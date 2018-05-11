@@ -9,6 +9,10 @@ permissions-status =
 permissions-button-cancel =
     .label = Khansela
     .accesskey = K
+permissions-capabilities-allow =
+    .label = Letlelela
+permissions-capabilities-block =
+    .label = Kgoreletsa
 
 ## Invalid Hostname Dialog
 
