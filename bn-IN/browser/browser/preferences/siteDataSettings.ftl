@@ -21,8 +21,21 @@ site-data-button-cancel =
 site-data-button-save =
     .label = পরিবর্তন সংরক্ষণ করুন
     .accesskey = a
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+site-usage-pattern = { $value } { $unit }
+site-data-remove-all =
+    .label = সব অপসারণ করুন
+    .accesskey = e
+site-data-remove-shown =
+    .label = প্রদর্শিত সব কিছু অপসারণ করুন
+    .accesskey = e
 
 ## Removing
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-dialog =
+    .title = { site-data-removing-header }
+    .buttonlabelaccept = অপসারণ করুন
