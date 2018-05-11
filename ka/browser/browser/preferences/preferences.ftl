@@ -595,6 +595,11 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = ფუნთუშები და საიტის მონაცემები
+sitedata-total-size-calculating = საიტის მონაცემებისა და კეშის მოცულობის გამოთვლა…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = თქვენ მიერ შენახული ფუნთუშები, საიტის მონაცემები და კეში, ამჟამად დისკზე იკავებს { $value } { $unit } მოცულობას.
 sitedata-learn-more = ვრცლად
 sitedata-accept-cookies-option =
     .label = ფუნთუშებისა და საიტის მონაცემების მიღება (სასურველია)

@@ -40,6 +40,8 @@ permissions-capabilities-allow =
     .label = ნებართვა
 permissions-capabilities-block =
     .label = აკრძალვა
+permissions-capabilities-prompt =
+    .label = შეკითხვა ყოველ ჯერზე
 
 ## Invalid Hostname Dialog
 
