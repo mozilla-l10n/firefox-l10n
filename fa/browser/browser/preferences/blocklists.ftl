@@ -27,3 +27,4 @@ blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-name = محافظت اولیه Disconnect.me (پیشنهاد می‌شود).
 blocklist-item-moz-std-desc = جهت عملکرد مناسب پایگاه‌ها به چند دنبال کننده اجازه فعالیت داده شود.
 blocklist-item-moz-full-name = محافظت شدید Disconnect.me.
+blocklist-item-moz-full-desc = ردیاب‌های شناخته شده را مسدود کنید. ممکن است برخی سایت‌ها درست کار نکنند.

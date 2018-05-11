@@ -40,6 +40,8 @@ permissions-capabilities-allow =
     .label = اجازه دادن
 permissions-capabilities-block =
     .label = باز داشتن
+permissions-capabilities-prompt =
+    .label = همیشه پرسیده شود
 
 ## Invalid Hostname Dialog
 
