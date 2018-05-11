@@ -588,6 +588,11 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Smákökur og gögn vefsvæðis
+sitedata-total-size-calculating = Reikna gagnastærð vefsvæðis og stærð skyndiminnis…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Geymdar smákökur, gögn fyrir vefsvæði og skyndiminni eru að nota { $value } { $unit } af diskplássi.
 sitedata-learn-more = Fræðast meira
 sitedata-accept-cookies-option =
     .label = Taka á móti smákökum og gögnum frá vefsvæðum (mælt með)
