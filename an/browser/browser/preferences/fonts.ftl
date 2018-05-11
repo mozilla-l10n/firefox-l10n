@@ -145,3 +145,5 @@ fonts-very-large-warning-accept = Mantiene os míos cambios de todas trazas.
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Por defecto ({ $name })
+fonts-label-default-unnamed =
+    .label = Per defecto

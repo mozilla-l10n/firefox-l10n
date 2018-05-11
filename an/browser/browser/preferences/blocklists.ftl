@@ -27,3 +27,4 @@ blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-name = Disconnect.me, protección basica (recomendau).
 blocklist-item-moz-std-desc = Permite bell seguimiento pa que as webs funcionen correctament.
 blocklist-item-moz-full-name = Disconnect.me, protección estricta.
+blocklist-item-moz-full-desc = Bloca los programas de seguimiento conoixius. Bells puestos webs podrían no funcionar adequadament.
