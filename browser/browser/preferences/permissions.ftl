@@ -38,6 +38,10 @@ permissions-searchbox =
     .placeholder = Търсене на страница
 permissions-capabilities-allow =
     .label = Разрешаване
+permissions-capabilities-block =
+    .label = Забраняване
+permissions-capabilities-prompt =
+    .label = Винаги да пита
 
 ## Invalid Hostname Dialog
 
