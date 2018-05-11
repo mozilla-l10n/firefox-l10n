@@ -178,17 +178,26 @@
 <!ENTITY calendar.context.attendance.menu.label                 "Prisotnost">
 <!ENTITY calendar.context.attendance.menu.accesskey             "P">
 <!ENTITY calendar.context.attendance.occurrence.label           "Ta ponovitev">
-<!ENTITY calendar.context.attendance.all.label        "Vse ponovitve" >
+<!ENTITY calendar.context.attendance.send.label                 "Pošlji obvestilo zdaj">
+<!ENTITY calendar.context.attendance.send.accesskey             "P">
+<!ENTITY calendar.context.attendance.dontsend.label             "Ne pošlji obvestila">
+<!ENTITY calendar.context.attendance.dontsend.accesskey         "N">
 
-
+<!ENTITY calendar.context.attendance.occ.accepted.accesskey     "S">
 <!ENTITY calendar.context.attendance.occ.accepted.label         "Sprejeto">
+<!ENTITY calendar.context.attendance.occ.declined.accesskey     "Z">
 <!ENTITY calendar.context.attendance.occ.declined.label         "Zavrnjeno">
+<!ENTITY calendar.context.attendance.occ.inprogress.accesskey   "t">
 <!ENTITY calendar.context.attendance.occ.inprogress.label       "V teku">
+<!ENTITY calendar.context.attendance.occ.completed.accesskey    "k">
 <!ENTITY calendar.context.attendance.occ.completed.label        "Dokončano">
 
+<!ENTITY calendar.context.attendance.all.accepted.accesskey     "j">
 <!ENTITY calendar.context.attendance.all.accepted.label         "Sprejeto">
+<!ENTITY calendar.context.attendance.all.declined.accesskey     "Z">
 <!ENTITY calendar.context.attendance.all.declined.label         "Zavrnjeno">
 <!ENTITY calendar.context.attendance.all.inprogress.label       "V teku">
+<!ENTITY calendar.context.attendance.all.completed.accesskey    "č">
 <!ENTITY calendar.context.attendance.all.completed.label        "Dokončano">
 
 <!-- Task Context Menu -->
