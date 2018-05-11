@@ -36,6 +36,10 @@ permissions-button-ok =
     .accesskey = V
 permissions-searchbox =
     .placeholder = Weboldal keresése
+permissions-capabilities-allow =
+    .label = Engedélyezés
+permissions-capabilities-block =
+    .label = Tiltás
 
 ## Invalid Hostname Dialog
 
