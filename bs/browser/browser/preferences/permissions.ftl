@@ -40,6 +40,8 @@ permissions-capabilities-allow =
     .label = Dozvoli
 permissions-capabilities-block =
     .label = Blokiraj
+permissions-capabilities-prompt =
+    .label = Uvijek pitaj
 
 ## Invalid Hostname Dialog
 
