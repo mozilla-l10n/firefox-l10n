@@ -39,5 +39,8 @@
 <!ENTITY buttons.subscribe.accesskey "J">
 
 <!ENTITY calendartype.label "Anaw n uwitay:">
+<!ENTITY location.label "Adig:">
+<!ENTITY location.placeholder "URL neɣ asenneftaɣ n uqeddac n uwitay">
 
+<!ENTITY network.nocredentials.label "Adig ur yesri ara asesteb">
 
