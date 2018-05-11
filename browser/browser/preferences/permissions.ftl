@@ -36,6 +36,10 @@ permissions-button-ok =
     .accesskey = L
 permissions-searchbox =
     .placeholder = Tìm kiếm trang web
+permissions-capabilities-allow =
+    .label = Cho phép
+permissions-capabilities-block =
+    .label = Chặn
 
 ## Invalid Hostname Dialog
 
