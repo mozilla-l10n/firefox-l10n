@@ -38,6 +38,9 @@
 <!ENTITY bookmarksToolbar.tooltip         "Barra de marcadores">
 <!ENTITY navigationToolbar.tooltip        "Barra de navegación">
 
+<!ENTITY editBookmark.done.label "Listo">
+<!ENTITY editBookmark.cancel.label "Cancelar">
+
 <!-- Toolbar items --> 
 <!ENTITY backButton.label             "Atrás">
 <!ENTITY backButton.tooltip           "Retroceder una página">
@@ -63,10 +66,10 @@
 
 <!ENTITY searchItem.title             "Buscar">
 
-<!ENTITY  bookmarksButton.label       "Marcadores">
-<!ENTITY  bookmarksButton.tooltip     "Lista de marcadores">
-<!ENTITY  homeButton.label            "Inicio">
-<!ENTITY  bookmarksToolbarItem.label  "Items de la barra de marcadores">
+<!ENTITY bookmarksButton.label        "Marcadores">
+<!ENTITY bookmarksButton.tooltip      "Lista de marcadores">
+<!ENTITY homeButton.label             "Inicio">
+<!ENTITY bookmarksToolbarItem.label   "Items de la barra de marcadores">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar más marcadores">
 
 <!-- Statusbar -->
@@ -80,4 +83,3 @@
 <!ENTITY viewCertificate.accesskey   "c">
 <!ENTITY viewCertManager.label       "Abrir administrador de certificados">
 <!ENTITY viewCertManager.accesskey   "m">
-
