@@ -24,6 +24,8 @@ permissions-remove-all =
 permissions-button-cancel =
     .label = Anular
     .accesskey = A
+permissions-capabilities-prompt =
+    .label = Tojòrn demandar
 
 ## Invalid Hostname Dialog
 
