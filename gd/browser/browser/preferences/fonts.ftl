@@ -138,3 +138,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Bhiet-Namais
 fonts-languages-fallback-name-other =
     .label = Eile (a' gabhail a-steach feadhainn na Roinn-Eòrpa an Iar)
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = Roghainn bhunaiteach ({ $name })
