@@ -40,6 +40,8 @@ permissions-capabilities-allow =
     .label = অনুমোদন করা হবে
 permissions-capabilities-block =
     .label = প্রতিরোধ করা হবে
+permissions-capabilities-prompt =
+    .label = সর্বদা জিজ্ঞাসা কর
 
 ## Invalid Hostname Dialog
 
