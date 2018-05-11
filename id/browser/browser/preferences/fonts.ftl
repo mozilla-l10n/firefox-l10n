@@ -138,6 +138,9 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnam
 fonts-languages-fallback-name-other =
     .label = Lainnya (termasuk Eropa Barat)
+fonts-very-large-warning-title = Ukuran huruf minimal yang sangat besar
+fonts-very-large-warning-message = Anda telah memilih ukuran huruf minimal yang sangat besar (lebih dari 24 piksel). Ini akan mempersulit bahkan tidak memungkinkan penggunaan laman konfigurasi seperti ini.
+fonts-very-large-warning-accept = Biarkan saja
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
