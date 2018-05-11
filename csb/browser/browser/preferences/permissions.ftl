@@ -18,6 +18,10 @@ permissions-allow =
     .accesskey = z
 permissions-status =
     .label = Stón
+permissions-capabilities-allow =
+    .label = Zezwòlë
+permissions-capabilities-block =
+    .label = Blokùjë
 
 ## Invalid Hostname Dialog
 
