@@ -138,3 +138,12 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnami
 fonts-languages-fallback-name-other =
     .label = Muu (k.a. Lääne-Euroopa)
+fonts-very-large-warning-title = Vähim fondisuurus on väga suur
+fonts-very-large-warning-message = Oled määranud vähima fondisuuruse väga suureks (rohkem kui 24 pikslit). See võib teha oluliste häälestuslehtede (nt praegune leht) kasutamise keeruliseks või üldse võimatuks.
+fonts-very-large-warning-accept = Eira hoiatust ja salvesta muudatused
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = vaikimisi ({ $name })
+fonts-label-default-unnamed =
+    .label = vaikimisi

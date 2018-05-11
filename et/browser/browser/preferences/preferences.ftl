@@ -588,6 +588,11 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Küpsised ja saidi andmed
+sitedata-total-size-calculating = Saidi andmete ja vahemälu suuruse arvutamine…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Salvestatud küpsised, saitide andmed ja vahemälu kasutavad praegu { $value } { $unit } salvestuspinda.
 sitedata-learn-more = Rohkem teavet
 sitedata-accept-cookies-option =
     .label = Küpsised ja saitide andmed võetakse veebilehtedelt vastu (soovitatav)
