@@ -40,6 +40,8 @@ permissions-capabilities-allow =
     .label = Leyfa
 permissions-capabilities-block =
     .label = Loka á
+permissions-capabilities-prompt =
+    .label = Spyrja alltaf
 
 ## Invalid Hostname Dialog
 
