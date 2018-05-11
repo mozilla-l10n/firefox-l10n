@@ -27,11 +27,25 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Tallenna muutokset
     .accesskey = m
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+site-usage-pattern = { $value } { $unit }
+site-usage-persistent = { site-usage-pattern } (pysyvästi)
+site-data-remove-all =
+    .label = Poista kaikki
+    .accesskey = s
+site-data-remove-shown =
+    .label = Poista kaikki valitut
+    .accesskey = s
 
 ## Removing
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-dialog =
+    .title = { site-data-removing-header }
+    .buttonlabelaccept = Poista
 site-data-removing-header = Evästeiden ja sivustotietojen poisto
 site-data-removing-desc = Sivustotietojen poistaminen voi kirjata sinut ulos sivustoilta. Haluatko varmasti tehdä muutokset?
 site-data-removing-table = Seuraavien sivustojen evästeet ja tiedot poistetaan
