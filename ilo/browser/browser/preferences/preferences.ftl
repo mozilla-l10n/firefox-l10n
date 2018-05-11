@@ -138,6 +138,11 @@ history-private-browsing-permanent =
 
 ## Privacy Section - Site Data
 
+sitedata-total-size-calculating = Bilbilangen ti kadakkel dagiti datos ti sitio ken impempen a damdamag …
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Dagiti indulin a galietas, datos ti sitio ken dadduma nga impempen ket agnanaed iti { $value } a { $unit } iti disk.
 sitedata-cookies-exceptions =
     .label = Laksid...
     .accesskey = E
