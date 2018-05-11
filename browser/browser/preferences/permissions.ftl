@@ -36,6 +36,10 @@ permissions-button-ok =
     .accesskey = s
 permissions-searchbox =
     .placeholder = Websedło pytaś
+permissions-capabilities-allow =
+    .label = Dowóliś
+permissions-capabilities-block =
+    .label = Blokěrowaś
 
 ## Invalid Hostname Dialog
 
