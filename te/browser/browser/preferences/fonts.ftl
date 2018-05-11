@@ -143,3 +143,5 @@ fonts-very-large-warning-accept = ఏమైనా నా మార్పుల�
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = అప్రమేయ ({ $name })
+fonts-label-default-unnamed =
+    .label = అప్రమేయం
