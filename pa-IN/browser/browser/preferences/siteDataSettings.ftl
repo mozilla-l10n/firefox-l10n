@@ -27,6 +27,9 @@ site-data-button-cancel =
 site-data-button-save =
     .label = ਤਬਦੀਲੀਆਂ ਨੂੰ ਸੰਭਾਲੋ
     .accesskey = a
+site-data-remove-shown =
+    .label = ਸਾਰੇ ਵੇਖਾਏ ਨੂੰ ਹਟਾਓ
+    .accesskey = e
 
 ## Removing
 
