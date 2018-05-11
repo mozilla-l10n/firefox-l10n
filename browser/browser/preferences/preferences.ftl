@@ -566,6 +566,11 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookies dhe të Dhëna Sajtesh
+sitedata-total-size-calculating = Po njehsohet madhësi të dhënash sajtesh dhe fshehtine…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Cookie-t, të dhënat tuaja të sajteve dhe fshehtina përdorin deri sot { $value } { $unit } hapësirë disku.
 sitedata-learn-more = Mësoni më tepër
 sitedata-accept-cookies-option =
     .label = Prano nga sajte cookies dhe të dhëna sajtesh (e këshilluar)

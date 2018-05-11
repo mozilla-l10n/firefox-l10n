@@ -36,6 +36,12 @@ permissions-button-ok =
     .accesskey = R
 permissions-searchbox =
     .placeholder = Kërko Në Sajte
+permissions-capabilities-allow =
+    .label = Lejoje
+permissions-capabilities-block =
+    .label = Bllokoje
+permissions-capabilities-prompt =
+    .label = Pyet Përherë
 
 ## Invalid Hostname Dialog
 
