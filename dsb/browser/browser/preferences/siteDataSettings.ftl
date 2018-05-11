@@ -7,6 +7,7 @@
 
 site-data-settings-window =
     .title = Cookieje a sedłowe daty zastojaś
+site-data-settings-description = Slěujuce websedła cookieje a sedłowe daty na wašom licadle składuju. { -brand-short-name } daty z websedłow z wobstawnym składowanim wobchowujo, daniž je njewulašujośo, a wulašujo daty z websedłow z njewobstawnym składowanim, jolic lichy rum jo trěbny.
 site-data-search-textbox =
     .placeholder = Websedła pytaś
     .accesskey = s
@@ -27,6 +28,11 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Změny składowaś
     .accesskey = s
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+site-usage-pattern = { $value } { $unit }
+site-usage-persistent = { site-usage-pattern } (wobstawny)
 site-data-remove-all =
     .label = Wše wótwónoźeś
     .accesskey = t
