@@ -6,6 +6,10 @@ permissions-close-key =
     .key = w
 permissions-status =
     .label = Simo
+permissions-capabilities-allow =
+    .label = Vumela
+permissions-capabilities-block =
+    .label = Vimba
 
 ## Invalid Hostname Dialog
 
