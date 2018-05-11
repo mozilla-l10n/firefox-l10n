@@ -7,6 +7,7 @@
 
 site-data-settings-window =
     .title = Upravljanje piškotkov in podatkov strani
+site-data-settings-description = Naslednje spletne strani hranijo piškotke in podatke na vašem računalniku. { -brand-short-name } hrani podatke spletnih strani s trajno shrambo, dokler jih ne izbrišete, podatke strani s kratkotrajno shrambo pa izbriše, ko je potreben prostor.
 site-data-search-textbox =
     .placeholder = Išči strani
     .accesskey = I
@@ -27,11 +28,19 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Shrani spremembe
     .accesskey = S
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+site-usage-pattern = { $value } { $unit }
+site-usage-persistent = { site-usage-pattern } (trajno)
 
 ## Removing
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-dialog =
+    .title = { site-data-removing-header }
+    .buttonlabelaccept = Odstrani
 site-data-removing-header = Odstranjevanje piškotkov in podatkov strani
 site-data-removing-desc = Izbris piškotkov in podatkov strani vas lahko odjavi iz spletnih strani. Ste prepričani, da želite to storiti?
 site-data-removing-table = Odstranjeni bodo piškotki in podatki naslednjih strani

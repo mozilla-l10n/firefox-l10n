@@ -601,6 +601,10 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Piškotki in podatki strani
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Shranjeni piškotki, podatki strani in predpomnilnik trenutno zavzemajo { $value } { $unit } prostora na disku.
 sitedata-learn-more = Več o tem
 sitedata-accept-cookies-option =
     .label = Sprejemaj piškotke in podatke spletnih strani (priporočeno)
