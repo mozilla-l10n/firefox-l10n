@@ -138,3 +138,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = الفيتناميّة
 fonts-languages-fallback-name-other =
     .label = آخر (يشمل غرب أوروبي)
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = المبدئي ({ $name })
