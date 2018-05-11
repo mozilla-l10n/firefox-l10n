@@ -40,6 +40,8 @@ permissions-capabilities-allow =
     .label = İcazə ver
 permissions-capabilities-block =
     .label = Blokla
+permissions-capabilities-prompt =
+    .label = Həmişə soruş
 
 ## Invalid Hostname Dialog
 
