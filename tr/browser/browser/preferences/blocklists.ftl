@@ -16,3 +16,5 @@ blocklist-button-cancel =
 blocklist-button-ok =
     .label = Değişiklikleri kaydet
     .accesskey = D
+blocklist-item-moz-std-name = Disconnect.me temel koruma (önerilen).
+blocklist-item-moz-full-desc = Bilinen tüm takipçiler engeller. Bazı siteler düzgün çalışmayabilir.

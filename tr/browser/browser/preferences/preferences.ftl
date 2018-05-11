@@ -595,6 +595,11 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Çerezler ve site verileri
+sitedata-total-size-calculating = Site verilerinin ve önbelleğin boyutu hesaplanıyor…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Depolanmış site verileriniz ve önbelleğiniz şu anda { $value } { $unit } disk alanı kullanıyor.
 sitedata-learn-more = Daha fazla bilgi al
 sitedata-accept-cookies-option =
     .label = Web sitelerinden gelen çerezleri ve site verilerini kabul et (Önerilir)
