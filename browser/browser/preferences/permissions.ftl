@@ -18,6 +18,10 @@ permissions-allow =
     .accesskey = о
 permissions-status =
     .label = Статус
+permissions-capabilities-allow =
+    .label = Дозволи
+permissions-capabilities-block =
+    .label = Блокирај
 
 ## Invalid Hostname Dialog
 

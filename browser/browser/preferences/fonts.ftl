@@ -82,3 +82,7 @@ fonts-languages-fallback-name-greek =
     .label = Грчки
 fonts-languages-fallback-name-hebrew =
     .label = Хебрејски
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = Основно ({ $name })
