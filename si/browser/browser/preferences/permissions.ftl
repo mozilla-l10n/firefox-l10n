@@ -31,7 +31,7 @@ permissions-capabilities-block =
 
 ## Invalid Hostname Dialog
 
-permissions-invalid-uri-title = සාවද්‍ය නමක් ඇතුළත් කරන ලඳි{ " " }
+permissions-invalid-uri-title = සාවද්‍ය නමක් ඇතුළත් කරන ලඳි
 permissions-invalid-uri-label = නිවැරදි ධාරක නමක් ඇතුළත් කරන්න
 
 ## Exceptions - Tracking Protection
