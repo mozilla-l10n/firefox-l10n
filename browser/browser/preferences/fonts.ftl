@@ -145,3 +145,5 @@ fonts-very-large-warning-accept = Biarkan saja
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Baku ({ $name })
+fonts-label-default-unnamed =
+    .label = Baku

@@ -27,3 +27,4 @@ blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-name = Perlindungan dasar Disconnect.me  (Disarankan).
 blocklist-item-moz-std-desc = Mengizinkan beberapa pelacak agar situs web berfungsi dengan baik.
 blocklist-item-moz-full-name = Perlindungan ketat Disconnect.me.
+blocklist-item-moz-full-desc = Memblokir pelacak yang dikenal. Beberapa situs web mungkin tidak berfungsi dengan baik.
