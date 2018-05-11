@@ -36,6 +36,10 @@ permissions-button-ok =
     .accesskey = s
 permissions-searchbox =
     .placeholder = Saytdan izlash
+permissions-capabilities-allow =
+    .label = Ruxsat berish
+permissions-capabilities-block =
+    .label = Bloklash
 
 ## Invalid Hostname Dialog
 
