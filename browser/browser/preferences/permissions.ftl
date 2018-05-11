@@ -18,6 +18,10 @@ permissions-allow =
     .accesskey = A
 permissions-status =
     .label = Boemo
+permissions-capabilities-allow =
+    .label = Dumella
+permissions-capabilities-block =
+    .label = Thibela
 
 ## Invalid Hostname Dialog
 
