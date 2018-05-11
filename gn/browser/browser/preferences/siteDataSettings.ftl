@@ -7,6 +7,7 @@
 
 site-data-settings-window =
     .title = Eñagareko Kookie ha tenda mba'ekuaarãre
+site-data-settings-description = Ko'ãva ñanduti renda ombyaty kookie ha mba'ekuaarã ne mohendahápe. { -brand-short-name } oguereko ñanduti renda mba'ekuaarã ñembyatypy imboguete peve, ha ombogue avei ñanduti renda mba'ekuaarã ñembyatypy oĩmba'ỹva oikotevẽ rupi pa'ũ.
 site-data-search-textbox =
     .placeholder = Ñanduti renda jeheka
     .accesskey = S
@@ -31,6 +32,7 @@ site-data-button-save =
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 site-usage-pattern = { $value } { $unit }
+site-usage-persistent = { site-usage-pattern } (Imbaretéva)
 site-data-remove-all =
     .label = Emboguepaite
     .accesskey = e

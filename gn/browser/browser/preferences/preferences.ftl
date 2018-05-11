@@ -595,6 +595,11 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Kookie ha tenda mbakuaarã
+sitedata-total-size-calculating = Eikuaase tenda mba'ekuaarã ha kache tuichakue…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Umi kookie ñembyytpyre, tenda mba'ekuaarã ha kache mandu'arenda oipuru porã ko'ag̃aite { $value } { $unit } pe disco pegua pa'ũ.
 sitedata-learn-more = Kuaave
 sitedata-accept-cookies-option =
     .label = Emoñeĩ kookie ha ñanduti renda mba'ekuaarã (jeroviapyrãva)
