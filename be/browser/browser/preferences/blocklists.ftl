@@ -27,3 +27,4 @@ blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-name = Disconnect.me, базавая ахова (рэкамендуецца).
 blocklist-item-moz-std-desc = Дазваляе некаторыя трэкеры для карэктнай працы вэб-сайтаў.
 blocklist-item-moz-full-name = Disconnect.me, строгая ахова.
+blocklist-item-moz-full-desc = Блакуе вядомыя трэкеры. Некаторыя вэб-сайты могуць некарэктна працаваць.

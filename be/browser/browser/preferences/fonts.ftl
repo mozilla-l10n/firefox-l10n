@@ -145,3 +145,5 @@ fonts-very-large-warning-accept = Запісаць мае змены ўсё ад
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Прадвызначаны ({ $name })
+fonts-label-default-unnamed =
+    .label = Прадвызначана
