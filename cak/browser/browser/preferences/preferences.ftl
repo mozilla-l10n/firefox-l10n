@@ -595,6 +595,11 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Taq Kaxlanwey chuqa' Rutzij K'amaya'l
+sitedata-total-size-calculating = Tajin nipaj kinimilem taq rutzij chuqa' rujumejyak ruxaq k'amaya'l…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Ri yakon taq kaxlanwey, rutzij ruxaq chuqa' ri rutzatzq'or taq jumejyak nikokisaj { $value } { $unit } chi re ri rupam nimayakb'äl.
 sitedata-learn-more = Tetamäx ch'aqa' chik
 sitedata-accept-cookies-option =
     .label = Kek'ul taq kaxlanwey chuqa' kitzij ruxaq kichin ajk'amaya'l taq ruxaq (chilab'en)

@@ -145,3 +145,5 @@ fonts-very-large-warning-accept = Kan keyake' kan ri taq nujaloj
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Ruk'amon wi pe ({ $name })
+fonts-label-default-unnamed =
+    .label = K'o wi
