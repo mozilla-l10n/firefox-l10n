@@ -36,6 +36,8 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = Çerca scito
+permissions-capabilities-allow =
+    .label = Permetti
 permissions-capabilities-block =
     .label = Blòcco
 
