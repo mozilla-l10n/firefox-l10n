@@ -36,6 +36,10 @@ permissions-button-ok =
     .accesskey = U
 permissions-searchbox =
     .placeholder = Hľadať
+permissions-capabilities-allow =
+    .label = Povoliť
+permissions-capabilities-block =
+    .label = Zakázať
 
 ## Invalid Hostname Dialog
 
