@@ -10,3 +10,37 @@ permissions-block =
 permissions-button-cancel =
     .label = No uétarisïtia
     .accesskey = N
+permissions-capabilities-allow =
+    .label = Jierata
+permissions-capabilities-block =
+    .label = Uraperantani
+
+## Invalid Hostname Dialog
+
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
