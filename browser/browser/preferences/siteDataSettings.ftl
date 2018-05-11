@@ -7,6 +7,7 @@
 
 site-data-settings-window =
     .title = Administri kuketojn kaj retejajn datumojn
+site-data-settings-description = La jenaj retejoj konservas kuketojn kaj retejajn datumojn en via komputilo. { -brand-short-name } tenas datumojn el retejoj kun persista konservejo ĝis kiam vi forigas ilin, kaj ĝi forigas datumojn el retejoj kun nepersista konservejo por rehavi spacon kiam tio bezonatas.
 site-data-search-textbox =
     .placeholder = Serĉi retejojn
     .accesskey = S
@@ -27,6 +28,11 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Konservi ŝanĝojn
     .accesskey = K
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+site-usage-pattern = { $value } { $unit }
+site-usage-persistent = { site-usage-pattern } (persista)
 site-data-remove-all =
     .label = Forigi ĉiujn
     .accesskey = F

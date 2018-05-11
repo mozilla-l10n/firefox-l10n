@@ -27,3 +27,4 @@ blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-name = Disconnect.me baza protekto (Rekomendata).
 blocklist-item-moz-std-desc = Permesi kelkajn spurilojn, tiel ke retejoj bone funkcios.
 blocklist-item-moz-full-name = Disconnect.me strikta protekto.
+blocklist-item-moz-full-desc = Bloki konatajn spurilojn. Kelkaj retejoj povus ne funkcii bone.

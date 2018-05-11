@@ -595,6 +595,11 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Kuketoj kaj retejaj datumoj
+sitedata-total-size-calculating = Kalkulo de datuma kaj stapla grando de retejo…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Viaj konservitaj kuketoj, retejaj datumoj kaj staplo uzas nuntempe { $value } { $unit } da diska spaco.
 sitedata-learn-more = Pli da informo
 sitedata-accept-cookies-option =
     .label = Akcepti kuketojn kaj retejajn datumon de retejoj (rekomendita)

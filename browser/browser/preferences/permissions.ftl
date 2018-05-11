@@ -40,6 +40,8 @@ permissions-capabilities-allow =
     .label = Permesi
 permissions-capabilities-block =
     .label = Bloki
+permissions-capabilities-prompt =
+    .label = Ĉiam demandi
 
 ## Invalid Hostname Dialog
 
