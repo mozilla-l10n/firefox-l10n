@@ -40,6 +40,8 @@ permissions-capabilities-allow =
     .label = Caniatáu
 permissions-capabilities-block =
     .label = Rhwystro
+permissions-capabilities-prompt =
+    .label = Gofyn bob Tro
 
 ## Invalid Hostname Dialog
 

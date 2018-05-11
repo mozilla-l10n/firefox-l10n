@@ -27,3 +27,4 @@ blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-name = Diogelwch sylfaenol Disconnect.me (Argymhellir).
 blocklist-item-moz-std-desc = Caniatáu rhai tracwyr fel bod gwefannau'n gweithio'n iawn.
 blocklist-item-moz-full-name = Diogelwch caeth Disconnect.me.
+blocklist-item-moz-full-desc = Rhwystro tracwyr hysbys. Efallai na fydd rhai gwefannau'n gweithio'n iawn.
