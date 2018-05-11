@@ -138,6 +138,9 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vijetnamski
 fonts-languages-fallback-name-other =
     .label = Ostali (uključujući zapadni europski)
+fonts-very-large-warning-title = Velika vrijednost za najmanji font
+fonts-very-large-warning-message = Postavili ste veliku vrijednost za najmanju veličinu fonta (više od 24 piksela). Ovo može uzrokovati poteškoće i ozbiljne probleme kod korištenja važnih konfiguracijskih stranica, poput ove.
+fonts-very-large-warning-accept = Svejedno zadrži moje promjene
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

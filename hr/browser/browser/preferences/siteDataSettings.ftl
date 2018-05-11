@@ -21,8 +21,21 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Spremi izmjene
     .accesskey = S
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+site-usage-pattern = { $value } { $unit }
+site-data-remove-all =
+    .label = Ukloni sve
+    .accesskey = e
+site-data-remove-shown =
+    .label = Ukloni sve prikazane
+    .accesskey = e
 
 ## Removing
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-dialog =
+    .title = { site-data-removing-header }
+    .buttonlabelaccept = Ukloni
