@@ -51,7 +51,7 @@ permissions-invalid-uri-label = Prosim, vnesite veljaven naslov.
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-tracking-protection-window =
-    .title = Izjeme - zaščita pred sledenjem
+    .title = Izjeme – Zaščita pred sledenjem
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = Na teh spletnih straneh ste onemogočili zaščito pred sledenjem.
 
@@ -72,7 +72,7 @@ permissions-exceptions-popup-desc = Določite, katere strani smejo odpirati poja
 ## Exceptions - Saved Logins
 
 permissions-exceptions-saved-logins-window =
-    .title = Izjeme - shranjene prijave
+    .title = Izjeme – Shranjene prijave
     .style = { permissions-window.style }
 permissions-exceptions-saved-logins-desc = Prijave za naslednje spletne strani ne bodo shranjene
 
@@ -96,7 +96,7 @@ permissions-site-notification-disable-desc = To bo preprečilo, da bi katera kol
 ## Site Permissions - Location
 
 permissions-site-location-window =
-    .title = Nastavitve - dovoljenja lokacije
+    .title = Nastavitve – Dovoljenja lokacije
     .style = { permissions-window.style }
 permissions-site-location-desc = Naslednje spletne strani so zahtevale dostop do vaše lokacije. Določite lahko, katere spletne strani lahko dostopajo do vaše lokacije. Prav tako lahko zavrnete nove zahteve za dostop do vaše lokacije.
 permissions-site-location-disable-label =
