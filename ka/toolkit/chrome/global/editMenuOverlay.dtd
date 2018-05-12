@@ -21,7 +21,7 @@
 <!ENTITY pasteCmd.accesskey        "ჩ">
 <!ENTITY deleteCmd.label           "წაშლა">
 <!ENTITY deleteCmd.accesskey       "წ">
-<!ENTITY selectAllCmd.label        "ყველას არჩევა">
+<!ENTITY selectAllCmd.label        "ყველაფრის მონიშვნა">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "ყ">
 <!ENTITY findCmd.label             "ძებნა">
