@@ -207,6 +207,7 @@
 <!ENTITY pref_category_advanced_summary3 "Pulih semula tab, penjimat data, alatan pembangun">
 <!ENTITY pref_category_notifications "Notifikasi">
 <!ENTITY pref_category_notifications_summary "Ciri baru, kemaskini laman web">
+<!ENTITY pref_category_notifications_summary2 "Ciri dan panduan produk baru">
 <!ENTITY pref_developer_remotedebugging_usb "Nyahpepijat jauh via USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Nyahpepijat jauh via Wifi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Menyahpepijat Wi-fi perlukan peranti anda yang sudah dipasang app pengimbas kod QR.">
