@@ -234,7 +234,7 @@
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
-<!ENTITY home_homepage_radio_user_address "ხელით">
+<!ENTITY home_homepage_radio_user_address "მითითება">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
@@ -266,7 +266,7 @@
 
 <!ENTITY pref_tap_to_load_images_title2 "სურათების ჩვენება">
 <!ENTITY pref_tap_to_load_images_enabled "ყოველთვის">
-<!ENTITY pref_tap_to_load_images_data "მხოლოდ Wi-Fi-თ">
+<!ENTITY pref_tap_to_load_images_data "მხოლოდ Wi-Fi-ით">
 <!ENTITY pref_tap_to_load_images_disabled2 "არასდროს">
 
 <!ENTITY pref_show_web_fonts "ვებშრიფტების ჩვენება">
@@ -354,7 +354,7 @@
 <!ENTITY pref_clear_on_exit_dialog_title "აირჩიეთ მონაცემები">
 <!ENTITY pref_restore_tabs "ჩანართების აღდგენა">
 <!ENTITY pref_restore_always "აღდგენა ყოველთვის">
-<!ENTITY pref_restore_quit "არ აღდგეს &brandShortName;-იდან გამოსვლის შემდეგ">
+<!ENTITY pref_restore_quit "არ აღდგეს &brandShortName;-დან გამოსვლის შემდეგ">
 
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
