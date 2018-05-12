@@ -199,7 +199,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint2 "რჩევა: დაამატეთ ნებისმიერი ვებსაიტი თქვენს საძიებო პროვაიდერებს მის საძიებო ველზე დაჭერით შემდეგ კი &formatI; ხატულაზე შეხებით.">
+<!ENTITY pref_search_hint2 "რჩევა: დაამატეთ ნებისმიერი ვებსაიტი თქვენს საძიებო სისტემებში, მის საძიებო ველზე, ხანგრძლივი დაჭერითა და შემდეგ &formatI; ხატულაზე შეხებით.">
 <!ENTITY pref_category_advanced "დამატებითი">
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
