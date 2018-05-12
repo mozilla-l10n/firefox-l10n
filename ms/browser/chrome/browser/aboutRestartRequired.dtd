@@ -4,5 +4,10 @@
 
 <!ENTITY restartRequired.title "Perlu Mula Semula">
 
+<!ENTITY restartRequired.header "Maaf. Kami hanya perlukan sedikit pembaikan untuk meneruskan.">
+<!ENTITY restartRequired.description "
+<p>Kami telah memasang kemaskini dalam latar belakang. Klik Mula semula &brandShortName; untuk melaksanakannya.</p>
+<p>Kami akan pulihkan halaman, tetingkap dan tab selepas itu supaya anda boleh meneruskan.</p>
+">
 
 <!ENTITY restartButton.label "Mula semula &brandShortName;">
