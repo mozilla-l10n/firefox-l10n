@@ -720,6 +720,9 @@ collection-health-report =
     .label = { -brand-short-name } səyyahına { -vendor-short-name }ya texniki və qarşılıqlı əlaqə məlumatlarını göndərməyə icazə ver
     .accesskey = r
 collection-health-report-link = Ətraflı
+collection-studies =
+    .label = { -brand-short-name } səyyahına tədqiqatları qurub və işlətməyə icazə ver
+collection-studies-link = { -brand-short-name } tədqiqatlarını gör
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Bu quraşdırmanın konfiqurasiyasında məlumat xəbərdarlığı söndürülüb
