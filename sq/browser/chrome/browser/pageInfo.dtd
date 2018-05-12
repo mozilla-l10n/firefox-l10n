@@ -46,19 +46,10 @@
 
 <!ENTITY  feedTab               "Prurje">
 <!ENTITY  feedTab.accesskey     "P">
-<!ENTITY  feedSubscribe         "Pajtohuni">
-<!ENTITY  feedSubscribe.accesskey "j">
 
 <!ENTITY  permTab               "Leje">
 <!ENTITY  permTab.accesskey     "L">
-<!ENTITY  permUseDefault        "Përdor Parazgjedhjen">
-<!ENTITY  permAskAlways         "Pyetmë përherë">
-<!ENTITY  permAllow             "Lejoje">
-<!ENTITY  permAllowSession      "Lejoje për Sesionin">
-<!ENTITY  permHide              "Fshihi">
-<!ENTITY  permBlock             "Bllokoje">
 <!ENTITY  permissionsFor        "Leje për:">
-<!ENTITY  permPlugins           "Aktivizo Shtojcat">
 
 <!ENTITY  securityTab           "Siguri">
 <!ENTITY  securityTab.accesskey "S">
@@ -78,6 +69,9 @@
 <!ENTITY  securityView.privacy.cookies                  "A po depoziton ky sajt të dhëna (cookies) në kompjuterin tim?">
 <!ENTITY  securityView.privacy.viewCookies              "Shihni Cookie-t">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "C">
+<!ENTITY  securityView.privacy.siteData                 "A depozitonnn ky sajt të dhëna në kompjuterin tim?">
+<!ENTITY  securityView.privacy.clearSiteData            "Pastro Cookie-t dhe të Dhëna Sajti">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "P">
 <!ENTITY  securityView.privacy.passwords                "A kam ruajtur ndonjë fjalëkalim për këtë sajt?">
 <!ENTITY  securityView.privacy.viewPasswords            "Shihni Fjalëkalime të Ruajtur">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "F">
