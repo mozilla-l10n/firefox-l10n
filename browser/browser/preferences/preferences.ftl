@@ -723,6 +723,9 @@ collection-health-report =
     .label = Дозволи { -brand-short-name }-у да шаље техничке и интерактивне податке { -vendor-short-name }-и
     .accesskey = р
 collection-health-report-link = Сазнајте више
+collection-studies =
+    .label = Дозволи { -brand-short-name }-у да инсталира и покрене студије
+collection-studies-link = Погледајте { -brand-short-name } студије
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Слање података је онемогућено за ову конфигурацију за изградњу
