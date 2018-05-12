@@ -720,6 +720,7 @@ collection-health-report =
     .label = { -brand-short-name }, teknik ve etkileşim verilerimi { -vendor-short-name }’ya gönderebilir
     .accesskey = r
 collection-health-report-link = Daha fazla bilgi al
+collection-studies-link = { -brand-short-name } araştırmalarını göster
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Bu yapılandırma için veri raporlama devre dışı bırakılmış
