@@ -720,6 +720,9 @@ collection-health-report =
     .label = { -brand-short-name }-ისთვის ნების დართვა, გადაუგზავნოს ტექნიკური მონაცემები { -vendor-short-name }-ს
     .accesskey = რ
 collection-health-report-link = იხილეთ ვრცლად
+collection-studies =
+    .label = { -brand-short-name }-ისთვის ნების დართვა, კვლევების დაყენებასა და გამართვაზე
+collection-studies-link = იხილეთ { -brand-short-name } კვლევები
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = მოხსენებები გამორთულია ანაწყობის ამ კონფიგურაციისთვის
