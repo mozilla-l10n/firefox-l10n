@@ -723,6 +723,9 @@ collection-health-report =
     .label = Povolit aplikaci { -brand-short-name } odesílat Mozille technická data a data o interakcích
     .accesskey = z
 collection-health-report-link = Zjistit více
+collection-studies =
+    .label = Povolit aplikaci { -brand-short-name } instalovat studie
+collection-studies-link = Zobrazit studie aplikace { -brand-short-name }
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Odesílání dat je zakázáno konfigurací tohoto sestavení
