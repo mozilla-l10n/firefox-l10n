@@ -708,6 +708,9 @@ collection-health-report =
     .label = 允許 { -brand-short-name } 傳送技術與互動資料給 { -vendor-short-name }
     .accesskey = r
 collection-health-report-link = 更多資訊
+collection-studies =
+    .label = 允許 { -brand-short-name } 安裝並進行研究
+collection-studies-link = 檢視 { -brand-short-name } 所進行的研究
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = 進行編譯設定時，已停用了資料回報功能
