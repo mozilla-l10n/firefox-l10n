@@ -426,6 +426,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "Rnu ugar n yiferdisen…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "n">
 
+<!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
+
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
@@ -988,6 +990,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.disableButton.accesskey "D">
 
 <!ENTITY tabHideControlled.keepButton.label "Eǧǧ iccaren fren">
+<!ENTITY tabHideControlled.keepButton.accesskey "K">
 <!ENTITY tabHideControlled.disableButton.label "Sens aseɣzif">
 
 <!ENTITY pageActionButton.tooltip "Asebter n tigawin">
