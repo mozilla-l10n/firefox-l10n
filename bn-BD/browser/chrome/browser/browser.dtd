@@ -429,6 +429,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "আরও আইটেম যোগ করুন…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
+<!ENTITY customizeMenu.autoHideDownloadsButton.label "টুলবারে অটো-হাইড করুন">
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
@@ -993,7 +994,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.disableButton.label "এক্সটেনশনটি নিষ্ক্রিয় করুন">
 <!ENTITY homepageControlled.disableButton.accesskey "D">
 
+<!ENTITY tabHideControlled.header.message "আপনার লুকানো ট্যাবে প্রবেশ করুন">
+<!ENTITY tabHideControlled.keepButton.label "ট্যাবগুলো লুকানো রাখুন">
 <!ENTITY tabHideControlled.keepButton.accesskey "K">
+<!ENTITY tabHideControlled.disableButton.label "এক্সটেনশনটি নিষ্ক্রিয় করুন">
 <!ENTITY tabHideControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "পাতা পদক্ষেপ">
