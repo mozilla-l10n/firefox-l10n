@@ -429,6 +429,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "添加更多项目…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
+
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
@@ -971,13 +972,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "下载 &brandShorterName; 的副本">
 
-<!ENTITY updateRestart.message2 "快速地重启后，&brandShorterName; 将恢复您所有在隐私浏览模式外打开的标签页和窗口。">
-<!ENTITY updateRestart.header.message2 "重启 &brandShorterName; 以更新。">
-<!ENTITY updateRestart.acceptButton.label "重启并恢复当前浏览状态">
+<!ENTITY updateRestart.message2 "稍等片刻，&brandShorterName; 重开后将恢复您所有不在隐私浏览模式中打开的标签页和窗口。">
+<!ENTITY updateRestart.header.message2 "重开 &brandShorterName; 以更新。">
+<!ENTITY updateRestart.acceptButton.label "重开并恢复当前浏览状态">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "暂时不要">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
-<!ENTITY updateRestart.panelUI.label2 "重启 &brandShorterName; 以更新">
+<!ENTITY updateRestart.panelUI.label2 "重开 &brandShorterName; 以更新">
 
 <!ENTITY newTabControlled.header.message "您的新标签页已变更。">
 <!ENTITY newTabControlled.keepButton.label "保留更改">
