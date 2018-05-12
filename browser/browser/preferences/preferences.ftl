@@ -732,6 +732,9 @@ collection-health-report =
     .label = Caniatáu i { -brand-short-name } anfon data technegol a rhyngweithio i { -vendor-short-name }
     .accesskey = r
 collection-health-report-link = Dysgu rhagor
+collection-studies =
+    .label = Caniatáu i { -brand-short-name } osod a rhedeg astudiaethau
+collection-studies-link = Gweld astudiaethau { -brand-short-name }
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Mae adrodd ar ddata wedi ei analluogi ar gyfer ffurfweddiad yr adeiledd hwn
