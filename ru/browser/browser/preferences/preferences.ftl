@@ -724,7 +724,7 @@ collection-health-report =
     .accesskey = е
 collection-health-report-link = Подробнее
 collection-studies =
-    .label = Разрешить { -brand-short-name } устанавливать и выполнять исследования
+    .label = Разрешить { -brand-short-name } устанавливать и проводить исследования
 collection-studies-link = Просмотреть исследования { -brand-short-name }
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
