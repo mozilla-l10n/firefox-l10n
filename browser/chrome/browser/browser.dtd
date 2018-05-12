@@ -551,11 +551,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewPageInfoCmd.accesskey    "მ">
 <!ENTITY viewFrameInfoCmd.label       "ჩარჩოს მონაცემების ჩვენება">
 <!ENTITY viewFrameInfoCmd.accesskey   "მ">
-<!ENTITY reloadImageCmd.label         "გამოსახულების განახლება">
+<!ENTITY reloadImageCmd.label         "სურათის განახლება">
 <!ENTITY reloadImageCmd.accesskey     "გ">
 <!ENTITY viewImageCmd.label           "სურათის ნახვა">
 <!ENTITY viewImageCmd.accesskey       "ს">
-<!ENTITY viewImageInfoCmd.label       "გამოსახულების მონაცემთა ჩვენება">
+<!ENTITY viewImageInfoCmd.label       "სურათის მონაცემები">
 <!ENTITY viewImageInfoCmd.accesskey   "ხ">
 <!ENTITY viewImageDescCmd.label       "აღწერილობის ნახვა">
 <!ENTITY viewImageDescCmd.accesskey   "ა">
