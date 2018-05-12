@@ -66,12 +66,12 @@ close-button =
 
 ## Browser Restart Dialog
 
-feature-enable-requires-restart = { -brand-short-name } 必须重新启动才能启用此功能。
-feature-disable-requires-restart = { -brand-short-name } 必须重新启动才能禁用此功能。
-should-restart-title = 重新启动 { -brand-short-name }
-should-restart-ok = 立即重启 { -brand-short-name }
+feature-enable-requires-restart = 必须重新开启 { -brand-short-name } 才能启用此功能。
+feature-disable-requires-restart = 必须重新开启 { -brand-short-name } 才能禁用此功能。
+should-restart-title = 重新开启 { -brand-short-name }
+should-restart-ok = 立即重开 { -brand-short-name }
 cancel-no-restart-button = 取消
-restart-later = 稍后重启
+restart-later = 稍后重开
 
 ## Extension Control Notifications
 ##
@@ -688,7 +688,7 @@ permissions-notification-settings =
     .accesskey = n
 permissions-notification-link = 详细了解
 permissions-notification-pause =
-    .label = 暂停通知直至 { -brand-short-name } 重新启动
+    .label = 暂停通知直至下次打开 { -brand-short-name }
     .accesskey = n
 permissions-block-popups =
     .label = 拦截弹出式窗口
@@ -716,6 +716,9 @@ collection-health-report =
     .label = 允许 { -brand-short-name } 向 { -vendor-short-name } 发送技术信息及交互数据
     .accesskey = r
 collection-health-report-link = 详细了解
+collection-studies =
+    .label = 允许 { -brand-short-name } 安装并运行一些实验项目
+collection-studies-link = 查看 { -brand-short-name } 在进行的实验
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = 在此构建配置下数据反馈被禁用
