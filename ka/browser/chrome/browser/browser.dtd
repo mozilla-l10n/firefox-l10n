@@ -700,7 +700,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin2.label       "გასვლა">
 <!ENTITY quitApplicationCmdWin2.accesskey   "ლ">
-<!ENTITY quitApplicationCmdWin2.tooltip     "&brandShorterName;-იდან გამოსვლა">
+<!ENTITY quitApplicationCmdWin2.tooltip     "&brandShorterName;-დან გამოსვლა">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "გამოსვლა">
