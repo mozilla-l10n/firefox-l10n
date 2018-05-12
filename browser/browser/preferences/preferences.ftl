@@ -714,12 +714,15 @@ permissions-a11y-privacy-link = En savoir plus
 ## Privacy Section - Data Collection
 
 collection-header = Collecte de données par { -brand-short-name } et utilisation
-collection-description = Nous nous efforçons de vous laisser le choix et de recueillir uniquement les informations dont nous avons besoin pour proposer et améliorer { -brand-short-name } pour tout le monde. Nous demandons toujours votre permission avant de recevoir des données personnelles.
+collection-description = Nous nous efforçons de vous laisser le choix et de recueillir uniquement les informations dont nous avons besoin pour proposer { -brand-short-name } et l’améliorer pour tout le monde. Nous demandons toujours votre permission avant de recevoir des données personnelles.
 collection-privacy-notice = Politique de confidentialité
 collection-health-report =
     .label = Autoriser { -brand-short-name } à envoyer des données techniques et des données d’interaction à { -vendor-short-name }
     .accesskey = A
 collection-health-report-link = En savoir plus
+collection-studies =
+    .label = Autoriser { -brand-short-name } à installer et à lancer des études
+collection-studies-link = Consulter les études de { -brand-short-name }
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = L’envoi de données est désactivé pour cette configuration de compilation
