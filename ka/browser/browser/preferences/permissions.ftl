@@ -37,9 +37,9 @@ permissions-button-ok =
 permissions-searchbox =
     .placeholder = საიტის ძიება
 permissions-capabilities-allow =
-    .label = ნებართვა
+    .label = ნებადართული
 permissions-capabilities-block =
-    .label = აკრძალვა
+    .label = შეზღუდული
 permissions-capabilities-prompt =
     .label = შეკითხვა ყოველ ჯერზე
 
