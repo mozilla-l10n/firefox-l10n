@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY restartRequired.title "Lyp Rinisje">
+
+<!ENTITY restartRequired.header "Na ndjeni. Na duhet të bëjmë një gjë të vockël për të vazhduar.">
+<!ENTITY restartRequired.description "
+<p>Sapo instaluam në prapaskenë një përditësim. Klikoni mbi Rinise &brandShortName;-in që të përfundohet zbatimi i tij.</p>
+<p>Më pas do të rikthejmë krejt faqet, dritaret dhe skedat tuaja, që të jeni prapë shpejt e shpejt në brazdën tuaj.</p>
+">
+
+<!ENTITY restartButton.label "Rinise &brandShortName;-in">
