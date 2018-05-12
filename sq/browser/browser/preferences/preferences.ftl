@@ -45,6 +45,9 @@ policies-notice =
 pane-general-title = Të përgjithshme
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = Kreu
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = Kërkim
 category-search =
     .tooltiptext = { pane-search-title }
@@ -142,6 +145,9 @@ startup-blank-page =
     .label = Shfaq një faqe të zbrazët
 startup-prev-session =
     .label = Shfaq dritaret dhe skedat e mia të herës së fundit
+startup-restore-previous-session =
+    .label = Rikthe sesionin e mëparshëm
+    .accesskey = R
 disable-extension =
     .label = Çaktivizoje Zgjerimin
 home-page-header = Faqe Hyrëse
@@ -337,9 +343,26 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = Dritare dhe Skeda të Reja
+home-new-windows-tabs-description2 = Zgjidhni çfarë shihni kur hapni faqen tuaj hyrëse, dritare të reja dhe skeda të reja.
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Faqen hyrëse dhe dritare të reja
+home-newtabs-mode-label = Skeda të reja
+home-restore-defaults =
+    .label = Rikthe Parazgjedhjet
+    .accesskey = R
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Kreu i Firefox-it (Parazgjedhje)
+home-mode-choice-custom =
+    .label = URL Vetjake…
+home-mode-choice-blank =
+    .label = Faqe të Zbrazët
+home-homepage-custom-url =
+    .placeholder = Hidhni një URL…
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -448,6 +471,9 @@ sync-signedin-login-failure = Ju lutemi, bëni hyrjen që të rilidheni { $email
 sync-resend-verification =
     .label = Ridërgo Verifikim
     .accesskey = d
+sync-remove-account =
+    .label = Hiqe Llogarinë
+    .accesskey = H
 sync-sign-in =
     .label = Hyni
     .accesskey = y
@@ -509,6 +535,9 @@ privacy-header = Privatësi Shfletuesi
 ## Privacy Section - Forms
 
 forms-header = Formularë & Fjalëkalime
+forms-ask-to-save-logins =
+    .label = Pyet të ruhen apo jo kredenciale hyrjesh dhe fjalëkalime për sajte
+    .accesskey = P
 forms-exceptions =
     .label = Përjashtime…
     .accesskey = a
@@ -580,6 +609,10 @@ sitedata-block-cookies-option =
     .accesskey = B
 sitedata-keep-until = Mbaji
     .accesskey = M
+sitedata-keep-until-expire =
+    .label = Deri sa të skadojnë
+sitedata-keep-until-closed =
+    .label = { -brand-short-name } të mbyllet
 sitedata-accept-third-party-desc = Prano cookies palësh të treta dhe të dhëna sajtesh
     .accesskey = l
 sitedata-accept-third-party-always-option =
