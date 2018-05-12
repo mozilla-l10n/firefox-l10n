@@ -726,6 +726,9 @@ collection-health-report =
     .label = { -brand-short-name } zmóžnić, techniske a interakciske daty na { -vendor-short-name } pósłać
     .accesskey = t
 collection-health-report-link = Dalše informacije
+collection-studies =
+    .label = { -brand-short-name } dowolić, studije instalować a přewjesć
+collection-studies-link = Studije { -brand-short-name } pokazać
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Datowe rozprawjenje je znjemóžnjene za tutu programowu konfiguraciju
