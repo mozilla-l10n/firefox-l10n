@@ -720,6 +720,9 @@ collection-health-report =
     .label = Permitter que { -brand-short-name } invia datos technic e de interaction a { -vendor-short-name }
     .accesskey = r
 collection-health-report-link = Saper plus
+collection-studies =
+    .label = Autorisar { -brand-short-name } a installar e a lancear studios
+collection-studies-link = Consultar le studios de { -brand-short-name }
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Le reporto de datos es inactive pro iste configuration de compilation
