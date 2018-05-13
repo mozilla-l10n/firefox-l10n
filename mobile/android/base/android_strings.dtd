@@ -284,10 +284,10 @@
 
 <!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification"-->
-<!ENTITY pref_feature_tips_notification "Tuotteen ja ominaisuuksien vihjeet">
+<!ENTITY pref_feature_tips_notification "Tuotteen ja ominaisuuksien vinkit">
 <!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification_summary"-->
-<!ENTITY pref_feature_tips_notification_summary "Lue lisää &brandShortName;n ja muiden &vendorShortName;n tuotteiden käyttämisestä">
+<!ENTITY pref_feature_tips_notification_summary "Lue lisää &brandShortName;in ja muiden &vendorShortName;n tuotteiden käyttämisestä">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
@@ -543,7 +543,7 @@
 <!ENTITY pref_compact_tabs_summary2 "Järjestä välilehdet kahteen sarakkeeseen pystyasennossa käytettäessä">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
-     any page is removed frome about:home. This includes pages that are in history,
+     any page is removed from about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Sivu poistettiin">
 <!ENTITY folder_removed "Kansio poistettu">
@@ -761,7 +761,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Viimeksi synkronoitu: &formatS;">
-<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!-- Localization note: Used when the sync has not happened yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Viimeksi synkronoitu: ei koskaan">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
