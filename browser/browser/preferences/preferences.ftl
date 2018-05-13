@@ -533,7 +533,7 @@ privacy-header = Selaimen tietosuoja
 
 forms-header = Lomakkeet ja salasanat
 forms-ask-to-save-logins =
-    .label = Ehdota verkkosivustojen käyttäjätunnusten ja salasanojen tallentamista
+    .label = Ehdota sivustojen käyttäjätunnusten ja salasanojen tallentamista
     .accesskey = v
 forms-exceptions =
     .label = Poikkeukset…
