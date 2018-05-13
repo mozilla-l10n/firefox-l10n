@@ -207,6 +207,7 @@
 <!ENTITY pref_category_advanced_summary3 "Վերականգնել ներդիրները, տվյալների սպասարկիչ, ծրագրավորողի գործիքներ">
 <!ENTITY pref_category_notifications "Ծանուցումներ">
 <!ENTITY pref_category_notifications_summary "Նոր յուրահատկություններ, կայքի թարմացումներ">
+<!ENTITY pref_category_notifications_summary2 "Նոր յուրահատկություններ, ծրագրի հուշումներ">
 <!ENTITY pref_developer_remotedebugging_usb "Հեռակա վրիպազերծում USB-ով">
 <!ENTITY pref_developer_remotedebugging_wifi "Հեռակա վրիպազերծում Wi-Fi-ով">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi վրիպազերծումը պահանջում է QR կոդը ընթերցող հավելված:">
