@@ -14,7 +14,7 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "अद्यावधिकहरूका लागि जाँच गर्नुहोस्">
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
-<!ENTITY update.updateButton.label3               "अद्यावधिक गर्न &brandShorterName; पुन: सुरु गर्नुहोस्।">
+<!ENTITY update.updateButton.label3               "&brandShorterName; अद्यावधिक गर्न पुनःसुरु गर्नुहोस्">
 <!ENTITY update.updateButton.accesskey            "R">
 
 
@@ -26,7 +26,7 @@
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       " एउटा ">
-<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!-- LOCALIZATION NOTE (community.exp.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "विश्वव्यापी समुदाय">
 <!ENTITY community.exp.end          " जसले वेबलाई खुल्ला, सार्वजनिक र सबैमा पहुँचको लागि सहकार्यमा काम गर्दैछ।">
 
@@ -65,7 +65,7 @@
 <!ENTITY update.adminDisabled       "तपाईँको प्रणाली प्रशासकद्वारा अद्यावधिकहरू असक्षम पारिएको छ">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; लाई अर्को सत्रले अद्यावधिक गर्दैछ">
-<!ENTITY update.restarting          "पुनः सुरू गरिँदै…">
+<!ENTITY update.restarting          "पुनःसुरु गरिँदै…">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into

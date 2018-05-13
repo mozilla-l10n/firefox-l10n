@@ -61,6 +61,7 @@ can reach it easily. -->
 <!ENTITY  closeTab.label                     "ट्याब बन्द गर्नुहोस्">
 <!ENTITY  closeTab.accesskey                 "C">
 
+
 <!ENTITY  listAllTabs.label      "सब ट्याबहरूको सूचि बनाउनुहोस्">
 
 <!ENTITY tabCmd.label "नयाँ ट्याब">
@@ -127,7 +128,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "सबै ट्याबहरू देखाउनुहोस्">
 <!ENTITY showAllTabsCmd.accesskey "A">
 <!ENTITY toggleReaderMode.key "R">
-
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; मा साइन इन गर्नुहोस">
@@ -187,10 +187,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "अन्य पुस्तकचिनोहरू">
 <!ENTITY mobileBookmarksCmd.label "मोबाइल पुस्तकचिनोहरू">
 <!ENTITY bookmarksToolbarChevron.tooltip "अरू पुस्तकचिनोहरू देखाउनुहोस्">
-<!ENTITY showRecentlyBookmarked.label     "हालसालै थपिएको पुस्तकचिनो देखाउनुहोस्">
-<!ENTITY showRecentlyBookmarked.accesskey "h">
-<!ENTITY hideRecentlyBookmarked.label     "हालसालै थपिएको पुस्तकचिनो हटाउनुहोस्">
-<!ENTITY hideRecentlyBookmarked.accesskey "H">
 
 <!ENTITY backCmd.label                "पछाडि जाने">
 <!ENTITY backCmd.accesskey            "B">
@@ -222,6 +218,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "डाटालाई लगातार भण्डारणमा राख्नुहोस्">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "ब्राउजर रिमोट कंट्रोल अन्तर्गत छ">
 
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "यो साइटको तपाईँको क्यामेरा र/अथवा माइक्रो फोन प्रयोग अधिकार ब्यवस्थापन गर्नुहोस्">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "यो साइटले माइक्रोफोन कसरी प्रयोग गर्छ भन्ने ब्यस्थापन गर्नुहोस्">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "आफ्नो साइटमा सञ्झ्याल वा स्क्रिन साझेदारीको प्रबन्ध मिलाउनुहोस् ">
@@ -230,7 +227,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "यो पृष्ठ अनुवाद गर्नुहोस्">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "पृष्ठ अनुवाद प्रबन्ध मिलाउनुहोस्">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM सफ्टवेयर प्रयोग प्रबन्ध मिलाउनुहोस्">
-
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "MIDI प्यानल खोल्नुहोस्">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "तपाईँले यो वेबसाइटको लागि आफ्नो क्यामेरा अवरुद्ध गर्नु भएको छ ">
@@ -241,7 +237,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "तपाईँले यो वेबसाइटको लागि लगातार भण्डारण अवरुद्ध गर्नु भएको छ।">
 <!ENTITY urlbar.popupBlocked.tooltip             "तपाईँले यो वेबसाइटको लागि पपअप अवरुद्ध गर्नु भएको छ|">
 <!ENTITY urlbar.canvasBlocked.tooltip            "तपाईँले यो वेबसाइटको लागि क्यानभस डाटाको निकास अवरुद्ध गर्नु भएको छ। ">
-
 <!ENTITY urlbar.midiBlocked.tooltip              "तपाईँले यो वेबसाइटको लागि MIDI अवरुद्ध गर्नु भएको छ। ">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "इतिहास देखाउनुहोस्">
@@ -267,7 +262,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addBookmarksMenu.label             "पुस्तकचिनो मेनु उपकरणपट्टिमा थप्नुहोस्">
 <!ENTITY removeBookmarksMenu.label          "पुस्तकचिनो मेनु उपकरणपट्टिबाट हटाउनुहोस्">
 
-<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 <!ENTITY bookmarksGtkCmd.commandkey "o">
@@ -298,6 +293,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY inspectContextMenu.label     "इन्सपेक्ट इलेमेन्ट">
 <!ENTITY inspectContextMenu.accesskey "Q">
+
 
 <!ENTITY fileMenu.label         "फाइल">
 <!ENTITY fileMenu.accesskey       "F">
@@ -384,11 +380,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "तपाईँको अन्य यन्त्रहरूबाट ट्याबहरूको सूची हेर्न ट्याब Sync सुरु गर्नुहोस्।">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "अन्य यन्त्रहरूको ट्याबहरू तपाईँ यहाँ हेर्न चाहनुहुन्छ?">
-<!ENTITY appMenuRemoteTabs.openprefs.label "Sync प्राथमिकताहरू">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Sync प्राथमिकताहरू खोल्नुहोस्">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "तपाईँको अन्य यन्त्रहरूबाट ट्याबहरूको सूची हेर्न साइन-इन गर्नुहोस्।">
 <!ENTITY appMenuRemoteTabs.unverified.label "तपाईँको खाता प्रमाणित गर्न जरुरी छ।">
@@ -429,6 +424,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromMenu.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.label "अरु वस्तुहरू थप्नुहाेस्…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
+
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -973,22 +969,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.panelUI.label "&brandShorterName; को ताजा प्रतिलिपि डाउनलोड गर्नुहोस्">
 
 <!ENTITY updateRestart.message2 "एक छिटो पुनःसुरु भएपछि, &brandShorterName; ले निजि ब्राउजिङ्ग मोडमा नभएको तपाईँको सबै खुल्ला ट्याबहरू र सञ्झ्यालहरू पुनर्स्थापना गर्नेछ।">
-<!ENTITY updateRestart.header.message2 "अद्यावधिक गर्न &brandShorterName; पुनः सुचारु गर्नुहोस्।">
+<!ENTITY updateRestart.header.message2 "&brandShorterName; अद्यावधिक गर्न पुनःसुरु गर्नुहोस् ।">
 <!ENTITY updateRestart.acceptButton.label "पुनःसुरु गर्नुहोस र पुर्वावस्थामा ल्याउनुहोस्">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "अहिले होइन">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
-<!ENTITY updateRestart.panelUI.label2 "अद्यावधिक गर्न &brandShorterName; पुनःसुरु गर्नुहोस्">
-
+<!ENTITY updateRestart.panelUI.label2 "&brandShorterName; अद्यावधिक गर्न पुनःसुरु गर्नुहोस्">
 
 <!ENTITY newTabControlled.header.message "तपाईँको नया ट्याब परिवर्तन भएको छ।">
 <!ENTITY newTabControlled.keepButton.label "परिवर्तन राख्नुहोस">
 <!ENTITY newTabControlled.keepButton.accesskey "K">
-<!ENTITY newTabControlled.restoreButton.label "सेटिङ पुन:स्थापना गर्नुहोस्">
-<!ENTITY newTabControlled.restoreButton.accesskey "R">
-
 <!ENTITY newTabControlled.disableButton.label "एक्सटेन्सन अक्षम गर्नुहोस्">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
+
+
 
 <!ENTITY pageActionButton.tooltip "पृष्ठ कार्यहरु">
 <!ENTITY pageAction.addToUrlbar.label "ठेगानापट्टिमा थप्नुहोस्">
@@ -999,6 +993,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "ट्याबलाई उपकरणमा पठाउनुहोस्">
 <!ENTITY sendToDevice.syncNotReady.label "उपकरणहरू समक्रमण गरिंदै…">
+
 
 <!ENTITY libraryButton.tooltip "इतिहास, संग्रह गरिएका पुस्तकचिनोहरू, र अन्य हेर्नुहोस्">
 
