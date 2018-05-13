@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xul -->
 
 <!ENTITY addressing.label          "التحرير و العنْوَنة">
 <!ENTITY addressingGroupTitle.label "العنْوَنة">
@@ -16,8 +16,8 @@
 <!ENTITY directories.label         "استخدم خادوم LDAP آخر:">
 <!ENTITY directories.accesskey     "ت">
 <!ENTITY directoriesNone.label     "لا شيء">
-<!-- am-addressing.xul -->
 
+<!-- am-addressing.xul -->
 
 <!ENTITY compositionGroupTitle.label          "التحرير">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
@@ -28,6 +28,9 @@
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY then.label                           "ثمّ،">
 <!ENTITY then.accesskey                       "ث">
+<!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY quoting.label                        "عند الاقتباس،">
+<!ENTITY quoting.accesskey                    "ق">
 <!ENTITY aboveQuote.label                     "ابدأ ردّي فوق الاقتباس">
 <!ENTITY belowQuote.label                     "ابدأ ردّي تحت الاقتباس">
 <!ENTITY selectAndQuote.label                 "حدد الاقتباس">
