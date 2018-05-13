@@ -46,19 +46,10 @@
 
 <!ENTITY  feedTab               "Syötteet">
 <!ENTITY  feedTab.accesskey     "S">
-<!ENTITY  feedSubscribe         "Tilaa">
-<!ENTITY  feedSubscribe.accesskey "i">
 
 <!ENTITY  permTab               "Oikeudet">
 <!ENTITY  permTab.accesskey     "O">
-<!ENTITY  permUseDefault        "Oletus">
-<!ENTITY  permAskAlways         "Kysy aina">
-<!ENTITY  permAllow             "Salli">
-<!ENTITY  permAllowSession      "Salli istunnon ajaksi">
-<!ENTITY  permHide              "Piilota">
-<!ENTITY  permBlock             "Estä">
 <!ENTITY  permissionsFor        "Oikeudet sivustolle:">
-<!ENTITY  permPlugins           "Käynnistä liitännäiset">
 
 <!ENTITY  securityTab           "Turvallisuus">
 <!ENTITY  securityTab.accesskey "T">
@@ -78,8 +69,8 @@
 <!ENTITY  securityView.privacy.cookies                  "Tallentaako sivusto tietoja (evästeitä) tietokoneelle?">
 <!ENTITY  securityView.privacy.viewCookies              "Näytä evästeet">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "e">
-<!ENTITY  securityView.privacy.siteData                 "Tallentaako tämä verkkosivusto tietoja koneelleni?">
-<!ENTITY  securityView.privacy.clearSiteData            "Tyhjennä evästeiden ja sivustojen data">
+<!ENTITY  securityView.privacy.siteData                 "Tallentaako tämä sivusto tietoja koneelleni?">
+<!ENTITY  securityView.privacy.clearSiteData            "Tyhjennä evästeet ja sivustotiedot">
 <!ENTITY  securityView.privacy.clearSiteData.accessKey  "e">
 <!ENTITY  securityView.privacy.passwords                "Onko sivuston salasanoja tallennettu?">
 <!ENTITY  securityView.privacy.viewPasswords            "Näytä tallennetut salasanat">
