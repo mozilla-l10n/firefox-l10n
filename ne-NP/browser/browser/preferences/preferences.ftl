@@ -66,12 +66,12 @@ close-button =
 
 ## Browser Restart Dialog
 
-feature-enable-requires-restart = { -brand-short-name } यो विशेषता चलाउन पुनः सुरु गर्नु पर्ने हुन्छ ।
-feature-disable-requires-restart = { -brand-short-name } यो विशेषता हटाउन पुन: सुरू गर्नु पर्ने हुन्छ।
-should-restart-title = { -brand-short-name } पुनः सुरु गर्नुहोस्
-should-restart-ok = { -brand-short-name } तत्काल पुन सुचारु गर्नुहोस
+feature-enable-requires-restart = { -brand-short-name } यो विशेषता चलाउन पुनःसुरु गर्नु पर्ने हुन्छ ।
+feature-disable-requires-restart = { -brand-short-name } यो विशेषता हटाउन पुनःसुरु गर्नु पर्ने हुन्छ।
+should-restart-title = { -brand-short-name } पुनःसुरु गर्नुहोस्
+should-restart-ok = { -brand-short-name } तत्काल पुनःसुरु गर्नुहोस्
 cancel-no-restart-button = रद्द गर्नुहोस्
-restart-later = केहि समयपछि पुन सुचारु गर्नुहोस
+restart-later = केहि समयपछि पुनःसुरु गर्नुहोस्
 
 ## Extension Control Notifications
 ##
@@ -609,7 +609,7 @@ permissions-notification-settings =
     .accesskey = t
 permissions-notification-link = अझै जान्नुहोस्
 permissions-notification-pause =
-    .label = { -brand-short-name } फेरी सुचारू नहोउन्जेलसम्म अधिसूचनाहरू रोक्नुहोस्
+    .label = { -brand-short-name } पुनःसुरु नभएसम्म सूचनाहरू रोक्नुहोस्
     .accesskey = n
 permissions-block-popups =
     .label = पप-अप सञ्झ्यालहरूलाई अवरुद्द गर्नुहोस्

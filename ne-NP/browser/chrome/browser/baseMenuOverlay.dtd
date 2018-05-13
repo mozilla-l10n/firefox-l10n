@@ -23,13 +23,10 @@
 <!ENTITY helpKeyboardShortcuts.label     "कुञ्जीपाटी सर्टकटहरू">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
 
-<!ENTITY helpSafeMode.label       "एडअनहरू अक्षम पारेर पुनः सुरु गर्नुहोस्...">
+<!ENTITY helpSafeMode.label       "एडअनहरू अक्षम पारेर पुनःसुरु गर्नुहोस् …">
 <!ENTITY helpSafeMode.accesskey   "R">
-<!ENTITY helpSafeMode.stop.label       "एडअनहरू अक्षम पारेर पुनः सुरु गर्नुहोस्">
+<!ENTITY helpSafeMode.stop.label       "एडअनहरू सक्षम पारेर पुनःसुरु गर्नुहोस्">
 <!ENTITY helpSafeMode.stop.accesskey   "R">
-
-<!ENTITY healthReport2.label      "&brandShorterName; Health Report">
-<!ENTITY healthReport2.accesskey  "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "समस्या समाधानको सूचना">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
