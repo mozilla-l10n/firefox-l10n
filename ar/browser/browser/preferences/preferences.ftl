@@ -729,6 +729,9 @@ collection-health-report =
     .label = اسمح أن يُرسل { -brand-short-name } بيانات تقنية و بيانات التفاعل إلى موزيلا
     .accesskey = ح
 collection-health-report-link = اطّلع على المزيد
+collection-studies =
+    .label = اسمح أن ينصّب { -brand-short-name } ويشغل الدراسات
+collection-studies-link = اعرض دراسات { -brand-short-name }
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = الإبلاغ عن البيانات معطّل في إعدادات البناء
