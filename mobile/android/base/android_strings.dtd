@@ -207,6 +207,7 @@
 <!ENTITY pref_category_advanced_summary3 "Välilehtien palauttaminen, datan säästäminen, kehittäjien työkalut">
 <!ENTITY pref_category_notifications "Ilmoitukset">
 <!ENTITY pref_category_notifications_summary "Uudet ominaisuudet, sivustojen päivitykset">
+<!ENTITY pref_category_notifications_summary2 "Uudet ominaisuudet, tuotevinkit">
 <!ENTITY pref_developer_remotedebugging_usb "Remote debugging via USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Remote debugging via Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi debugging requires your device to have a QR code reader app installed.">
