@@ -58,7 +58,14 @@
 <!ENTITY cmd.properties.label      "Propiedades">
 <!ENTITY cmd.properties.accesskey  "i">
 
+<!ENTITY cmd.sortby_name.label              "Ordenar por nombre">
+<!ENTITY cmd.sortby_name.accesskey          "d">
+<!ENTITY cmd.context_sortby_name.accesskey  "r">
 
+<!ENTITY cmd.new_bookmark.label            "Nuevo marcador…">
+<!ENTITY cmd.new_bookmark.accesskey        "m">
+<!ENTITY cmd.new_folder.label              "Nueva carpeta…">
+<!ENTITY cmd.new_folder.accesskey          "v">
 
 
 
