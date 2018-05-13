@@ -4,8 +4,8 @@
 
 <!ENTITY loadError.label "पृष्ठ लोड हुँदाको त्रुटि">
 <!ENTITY retry.label "पुनःप्रयास गर्नुहोस्">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "जडान गर्न असमर्थ">
 <!ENTITY connectionFailure.longDesc "<p>साइट वैध देखिएता पनि, ब्राउजर जडान स्थापन गर्न असक्षम थियो । </p><ul><li>के साइट अस्थायी रूपमा अनुपलब्ध छ ? पछि फेरि प्रयास गर्नुहोस् । </li><li>के तपाईँ अन्य साइटहरू ब्राउज गर्न असक्षम हुनुहुन्छ?  कम्प्युटरको सञ्जाल जडान जाँच गर्नुहोस् । </li><li>के तपाईँको कम्प्युटर वा सञ्जाल फायरवाल वा प्रोक्सी द्वारा सुरक्षित गरिएको हो? गलत सेटिङ्हरूले वेब ब्राउजिङ्गलाई छेक्‍न सक्छ ।</li></ul>">
@@ -41,7 +41,8 @@
 <!ENTITY contentEncodingError.longDesc "<p>तपईँले हेर्न खोजी राख्नुभएको पृष्ठ देखाउन सकिँदैन किनभने यसले अमान्य वा असमर्थित कम्प्रेसन शैलीको प्रयोग गर्दछ। </p><ul><li>कृपया यो समस्या बारे जानकारी गराउन वेबसाइट मालिकसँग सम्पर्क राख्नुहोला।</li></ul>">
 
 <!ENTITY unsafeContentType.title "असुरक्षित फाइल प्रकार">
-<!ENTITY unsafeContentType.longDesc "<ul> <li>कृपया यो समस्याको जानकारी गराउन वेबसाइट धनी लाइ सम्पर्क गर्नुहोस।</li> </ul>">
+<!ENTITY unsafeContentType.longDesc "<ul>
+  <li> कृपया यो समस्याको जानकारी गराउन वेबसाइट धनीलाई सम्पर्क गर्नुहोस् ।</li></ul>">
 
 <!ENTITY netReset.title "जडान अवरोध गरियो">
 <!ENTITY netReset.longDesc "<p>जडान लिङ्क सम्झौता गर्न खोज्दा अवरोध भएको थियो । कृपया फेरि प्रयास गर्नुहोस् ।</p>">
@@ -86,3 +87,4 @@
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> ले सुरक्षा टेक्नोलोजी चलाउछ जुन मिति गुज्रेको छ र आक्रमण प्रति असुरक्षित छ। हमलाकरिले गोप्य कुरा सजिलै खोल्न सक्छ जून तपाईँले सुरक्षित छ भनेर सोच्नु हुन्छ। वेबसाइट मुख्य प्रबन्धकले साइट हेर्नु भन्दा पहिले सर्भर निर्धारित गर्नु पर्छ.</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
