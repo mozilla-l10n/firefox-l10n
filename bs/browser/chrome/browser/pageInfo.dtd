@@ -46,22 +46,10 @@
 
 <!ENTITY  feedTab               "Feedovi">
 <!ENTITY  feedTab.accesskey     "F">
-<!ENTITY  feedSubscribe         "Preplati se">
-<!ENTITY  feedSubscribe.accesskey "P">
 
 <!ENTITY  permTab               "Dozvole">
 <!ENTITY  permTab.accesskey     "D">
-<!ENTITY  permUseDefault        "Koristi izvorno">
-<!ENTITY  permAskAlways         "Uvijek pitaj">
-<!ENTITY  permAllow             "Dozvoli">
-<!ENTITY  permAllowSession      "Dozvoli za sesiju">
-<!ENTITY  permHide              "Sakrij">
-<!ENTITY  permBlock             "Blokiraj">
 <!ENTITY  permissionsFor        "Dozvole za:">
-<!ENTITY  permPlugins           "Aktiviraj plugine">
-
-<!ENTITY  permClearStorage           "Očisti spremište">
-<!ENTITY  permClearStorage.accesskey "O">
 
 <!ENTITY  securityTab           "Sigurnost">
 <!ENTITY  securityTab.accesskey "S">
@@ -81,6 +69,9 @@
 <!ENTITY  securityView.privacy.cookies                  "Da li ova web stranica čuva podatke (kolačiće) na mom računaru?">
 <!ENTITY  securityView.privacy.viewCookies              "Prikaži kolačiće">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.siteData                 "Da li ova web stranica pohranjuje podatke na moj računar?">
+<!ENTITY  securityView.privacy.clearSiteData            "Obriši kolačiće i podatke stranice">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "O">
 <!ENTITY  securityView.privacy.passwords                "Da li sam spasio ijednu lozinku za ovu web stranicu?">
 <!ENTITY  securityView.privacy.viewPasswords            "Prikaži spašene lozinke">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">

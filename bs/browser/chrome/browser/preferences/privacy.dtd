@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Zaštita od praćenja">
-<!ENTITY  trackingProtection2.description      "Praćenje je skup podataka o vašim navikama surfanja prikupljenih sa različitih web stranica. Praćenje može biti korišteno za formiranje profila i prikaz sadržaja baziranih na vašim navikama surfanja i ličnim podacima.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "Koristi Zaštitu od praćenja radi blokiranja poznatih pratilaca">
 <!ENTITY  trackingProtection3.description      "Zaštita od praćenja blokira online tragače koji prikupljaju vaše podatke pretraživanja putem više web stranica.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "Koristi Zaštitu od praćenja radi blokiranja poznatih pratilaca">
 <!ENTITY  trackingProtectionAlways.label       "Uvijek">
@@ -13,7 +11,6 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "a">
 <!ENTITY  trackingProtectionNever.label        "Nikad">
 <!ENTITY  trackingProtectionNever.accesskey    "N">
-<!ENTITY  trackingProtectionLearnMore.label    "Saznajte više">
 <!ENTITY  trackingProtectionLearnMore2.label    "Saznajte više o Zaštiti od praćenja i vašoj privatnosti">
 <!ENTITY  trackingProtectionExceptions.label   "Izuzeci…">
 <!ENTITY  trackingProtectionExceptions.accesskey "I">
@@ -24,11 +21,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "Saznajte više">
 <!ENTITY changeBlockList2.label               "Promijeni Blok listu…">
 <!ENTITY changeBlockList2.accesskey           "B">
-
-<!ENTITY  doNotTrack.description        "Web stranicama šalji “Ne prati” signal da ne želite biti praćeni">
-<!ENTITY  doNotTrack.learnMore.label    "Saznajte više">
-<!ENTITY  doNotTrack.default.label      "Samo kada koristim Zaštitu od praćenja">
-<!ENTITY  doNotTrack.always.label       "Uvijek">
 
 <!ENTITY  history.label                 "Historija">
 <!ENTITY  permissions.label             "Dozvole">
@@ -46,11 +38,11 @@
 
 <!ENTITY  suggestionSettings2.label     "Promijenite postavke prijedloga pretraživača">
 
-<!ENTITY  acceptCookies2.label          "Prihvataj kolačiće sa web stranica">
-<!ENTITY  acceptCookies2.accesskey      "k">
+<!ENTITY  acceptCookies4.accesskey      "A">
 
-<!ENTITY  acceptThirdParty2.pre.label     "Prihvataj kolačiće trećih strana">
-<!ENTITY  acceptThirdParty2.pre.accesskey "t">
+<!ENTITY  blockCookies.accesskey        "B">
+
+<!ENTITY  acceptThirdParty3.pre.accesskey "y">
 <!ENTITY  acceptThirdParty.always.label   "Uvijek">
 <!ENTITY  acceptThirdParty.never.label    "Nikad">
 <!ENTITY  acceptThirdParty.visited.label  "Od posjećenih">
@@ -64,9 +56,6 @@
 <!ENTITY  cookieExceptions.label        "Izuzeci…">
 <!ENTITY  cookieExceptions.accesskey    "I">
 
-<!ENTITY  showCookies.label             "Prikaži kolačiće…">
-<!ENTITY  showCookies.accesskey         "k">
-
 <!ENTITY  historyHeader2.pre.label         "&brandShortName; će">
 <!ENTITY  historyHeader2.pre.accesskey     "e">
 <!ENTITY  historyHeader.remember.label     "Pamtiti historiju">
@@ -74,24 +63,10 @@
 <!ENTITY  historyHeader.custom.label       "Koristiti korisničke postavke za historiju">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; će pamtiti vašu historiju surfanja, preuzimanja, formulara i pretraživanja, te će čuvati kolačiće web stranica koje posjetite.">
-
-<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
-<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-<!ENTITY  rememberActions.pre.label           "Možda biste željeli ">
-<!ENTITY  rememberActions.clearHistory.label  "očistiti skorašnju historiju">
-<!ENTITY  rememberActions.middle.label        ", ili ">
-<!ENTITY  rememberActions.removeCookies.label "ukloni pojedine kolačiće">
-<!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; će koristiti iste postavke kao za privatno surfanje, i neće pamtiti bilo kakvu historiju dok pregledate Web.">
 
-<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-<!ENTITY  dontrememberActions.pre.label          "Možda biste takođe željeli ">
-<!ENTITY  dontrememberActions.clearHistory.label "obrisati svu trenutnu historiju">
-<!ENTITY  dontrememberActions.post.label         ".">
+<!ENTITY  clearHistoryButton.accesskey   "s">
 
 <!ENTITY  privateBrowsingPermanent2.label "Uvijek koristi režim privatnog surfanja">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
@@ -107,12 +82,6 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Postavke…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
-
-<!ENTITY  browserContainersLearnMore.label      "Saznajte više">
-<!ENTITY  browserContainersEnabled.label        "Omogući Container tabove">
-<!ENTITY  browserContainersEnabled.accesskey    "n">
-<!ENTITY  browserContainersSettings.label        "Postavke…">
-<!ENTITY  browserContainersSettings.accesskey    "t">
 
 <!ENTITY  a11yPrivacy.checkbox.label     "Spriječite servise pristupačnosti da pristupe vašem browseru">
 <!ENTITY  a11yPrivacy.checkbox.accesskey "a">

@@ -6,22 +6,6 @@
 
 <!ENTITY generalTab.label                "Opće">
 
-<!ENTITY useCursorNavigation.label       "Uvijek koristi strelice na tastaturi za kretanje po stranicama">
-<!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchOnStartTyping.label       "Traži tekst čim počnem da kucam">
-<!ENTITY searchOnStartTyping.accesskey   "k">
-<!ENTITY useOnScreenKeyboard.label       "Prikaži tastaturu za dodir kada je potrebno">
-<!ENTITY useOnScreenKeyboard.accesskey   "t">
-
-<!ENTITY browsing.label                  "Surfanje">
-
-<!ENTITY useAutoScroll.label             "Koristi autoscrolling">
-<!ENTITY useAutoScroll.accesskey         "a">
-<!ENTITY useSmoothScrolling.label        "Koristi glatko pomjeranje">
-<!ENTITY useSmoothScrolling.accesskey    "m">
-<!ENTITY checkUserSpelling.label         "Provjeravaj pravopis dok kucam">
-<!ENTITY checkUserSpelling.accesskey     "o">
-
 <!ENTITY dataChoicesTab.label            "Izbori podataka">
 
 <!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
@@ -41,77 +25,17 @@ available. -->
 <!ENTITY collectBrowserErrors.accesskey      "b">
 <!ENTITY collectBrowserErrorsLearnMore.label "Saznajte više">
 
-<!ENTITY alwaysSubmitCrashReports1.label  "Dozvoli da &brandShortName; šalje izvještaje u rušenju Mozilli">
-<!ENTITY alwaysSubmitCrashReports1.accesskey "i">
+<!ENTITY sendBackloggedCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Saznajte više">
 
 <!ENTITY networkTab.label                "Mreža">
 
-<!ENTITY networkProxy.label              "Mrežni proxy">
-
-<!ENTITY connectionDesc.label            "Konfigurišite kako se &brandShortName; konektuje na internet">
-
-<!ENTITY connectionSettingsLearnMore.label "Saznajte više">
-<!ENTITY connectionSettings.label        "Postavke…">
-<!ENTITY connectionSettings.accesskey    "e">
-
-<!ENTITY httpCache.label                 "Keširani Web sadržaj">
-
 <!--  Site Data section manages sites using Storage API and is under Network -->
-<!ENTITY siteData.label                  "Podaci stranice">
-<!ENTITY clearSiteData.label             "Očisti sve podatke">
-<!ENTITY clearSiteData.accesskey         "a">
-<!ENTITY siteDataSettings.label          "Postavke…">
-<!ENTITY siteDataSettings.accesskey      "e">
+<!ENTITY clearSiteData1.accesskey        "l">
+<!ENTITY siteDataSettings1.accesskey     "M">
 <!ENTITY siteDataLearnMoreLink.label     "Saznajte više">
 
-<!-- LOCALIZATION NOTE:
-  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
-  line in preferences as follows:
-
-  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
--->
-<!ENTITY limitCacheSizeBefore.label      "Ograniči cache na">
-<!ENTITY limitCacheSizeBefore.accesskey  "O">
-<!ENTITY limitCacheSizeAfter.label       "MB prostora">
-<!ENTITY clearCacheNow.label             "Očisti odmah">
-<!ENTITY clearCacheNow.accesskey         "O">
-<!ENTITY overrideSmartCacheSize.label    "Preskoči automatsko upravljanje cacheom">
-<!ENTITY overrideSmartCacheSize.accesskey "c">
-
 <!ENTITY updateTab.label                 "Nadogradnja">
-
-<!-- LOCALIZATION NOTE (updateApplication.label):
-  Strings from aboutDialog.dtd are displayed in this section of the preferences.
-  Please check for possible accesskey conflicts.
--->
-<!ENTITY updateApplication.label         "&brandShortName; nadogradnje">
-<!-- LOCALIZATION NOTE (updateApplication.version.*): updateApplication.version.pre
-# is followed by a version number, keep the trailing space or replace it with a
-# different character as needed. updateApplication.version.post is displayed
-# after the version number, and is empty on purpose for English. You can use it
-# if required by your language.
- -->
-<!ENTITY updateApplicationDescription.label
-                                         "Nadograđuj &brandShortName; radi najboljih performansi, stabilnosti i sigurnosti.">
-<!ENTITY updateApplication.version.pre   "Verzija ">
-<!ENTITY updateApplication.version.post  "">
-<!ENTITY updateApplication.description   "Dozvoli &brandShortName;u da">
-<!ENTITY updateAuto3.label               "Automatski instaliraj nadogradnje (preporučeno)">
-<!ENTITY updateAuto3.accesskey           "A">
-<!ENTITY updateCheckChoose2.label        "Provjeri za nadogradnju, ali me prvo pitaj da li želim instalirati">
-<!ENTITY updateCheckChoose2.accesskey    "P">
-<!ENTITY updateManual2.label             "Nikad ne provjeravaj za nadogradnju (nije preporučeno)">
-<!ENTITY updateManual2.accesskey         "N">
-
-<!ENTITY updateHistory2.label            "Prikaži historijat nadogradnji…">
-<!ENTITY updateHistory2.accesskey        "P">
-
-<!ENTITY useService.label                "Koristi pozadinski servis za instalaciju nadogradnji">
-<!ENTITY useService.accesskey            "b">
-
-<!ENTITY enableSearchUpdate2.label       "Automatski nadograđuj pretraživače">
-<!ENTITY enableSearchUpdate2.accesskey   "e">
 
 <!ENTITY certificateTab.label            "Certifikati">
 <!ENTITY certPersonal2.description       "Kada server zatraži vaš lični certifikat">
@@ -125,23 +49,3 @@ available. -->
 <!ENTITY viewCerts2.accesskey            "C">
 <!ENTITY viewSecurityDevices2.label      "Sigurnosni uređaji…">
 <!ENTITY viewSecurityDevices2.accesskey  "U">
-
-<!ENTITY performance.label               "Performanse">
-<!ENTITY useRecommendedPerformanceSettings2.label
-                                         "Koristi preporučene postavke performansi">
-<!ENTITY useRecommendedPerformanceSettings2.description
-                                         "Ove postavke su prilagođene za hardver i operativni sistem vašeg računara.">
-<!ENTITY useRecommendedPerformanceSettings2.accesskey
-                                         "K">
-<!ENTITY performanceSettingsLearnMore.label
-                                         "Saznajte više">
-<!ENTITY limitContentProcessOption.label "Limit procesa sadržaja">
-<!ENTITY limitContentProcessOption.description
-                                         "Dodatni procesi sadržaja mogu unaprijediti performanse kada koristite više tabova, ali će koristiti više memorije.">
-<!ENTITY limitContentProcessOption.accesskey   "L">
-<!ENTITY limitContentProcessOption.disabledDescription
-                                         "Promjena broja procesa sadržaja je moguća samo sa multiprocesnim &brandShortName;om.">
-<!ENTITY limitContentProcessOption.disabledDescriptionLink
-                                         "Saznajte kako provjeriti da li su multiprocesi omogućeni">
-<!ENTITY allowHWAccel.label              "Koristi hardversko ubrzanje kada je dostupno">
-<!ENTITY allowHWAccel.accesskey          "u">

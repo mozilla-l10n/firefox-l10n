@@ -61,6 +61,7 @@ can reach it easily. -->
 <!ENTITY  closeTab.label                     "Zatvori tab">
 <!ENTITY  closeTab.accesskey                 "Z">
 
+
 <!ENTITY  listAllTabs.label      "Izlistaj sve tabove">
 
 <!ENTITY tabCmd.label "Novi tab">
@@ -185,10 +186,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Druge zabilješke">
 <!ENTITY mobileBookmarksCmd.label "Mobilne zabilješke">
 <!ENTITY bookmarksToolbarChevron.tooltip "Prikaži više zabilješki">
-<!ENTITY showRecentlyBookmarked.label     "Prikaži nedavno zabilježeno">
-<!ENTITY showRecentlyBookmarked.accesskey "d">
-<!ENTITY hideRecentlyBookmarked.label     "Sakrij nedavno zabilježeno">
-<!ENTITY hideRecentlyBookmarked.accesskey "a">
 
 <!ENTITY backCmd.label                "Nazad">
 <!ENTITY backCmd.accesskey            "B">
@@ -220,6 +217,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Pohrani podatke u trajno spremište">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Browser je pod udaljenom kontrolom">
 
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Upravljajte dijeljenjem vaše kamere i/ili mikrofona sa stranicom">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Upravljajte dijeljenjem vašeg mikrofona sa stranicom">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Upravljajte dijeljenjem vaših prozora ili ekrana sa stranicom">
@@ -236,7 +234,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Blokirali ste notifikacije za ovu web stranicu.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Blokirali ste trajno spremište za ovu web stranicu.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Imate blokirane pop-up prozore za ovu web stranicu.">
-
 <!ENTITY urlbar.canvasBlocked.tooltip            "Blokirali ste ekstrakciju canvas podataka za ovu web stranicu.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Prikaži historiju">
@@ -262,7 +259,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addBookmarksMenu.label             "Dodaj meni Zabilješke u alatnu traku">
 <!ENTITY removeBookmarksMenu.label          "Ukloni meni Zabilješke iz alatne trake">
 
-<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 <!ENTITY bookmarksGtkCmd.commandkey "o">
@@ -293,6 +290,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY inspectContextMenu.label     "Inspekcija elementa">
 <!ENTITY inspectContextMenu.accesskey "Q">
+
 
 <!ENTITY fileMenu.label         "Fajl">
 <!ENTITY fileMenu.accesskey       "F">
@@ -379,19 +377,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Uključite sinhronizaciju tabova da biste vidjeli listu tabova s vaših ostalih uređaja.">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "Nema sinhroniziranih tabova… još!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Želite li vidjeti vaše tabove s drugih uređaja ovdje?">
-<!ENTITY appMenuRemoteTabs.openprefs.label "Sync postavke">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Otvori postavke za sinhronizaciju">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Prijavite se da vidite listu tabova s vaših ostalih uređaja.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Vaš račun mora biti verifikovan.">
 <!ENTITY appMenuRemoteTabs.signin.label "Prijavite se na Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Upravljanje servisima…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Prikaz trake sinhroniziranih tabova">
-
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Poveži dodatni uređaj">
 
 <!ENTITY appMenuRecentHighlights.label "Nedavno istaknuto">
@@ -426,6 +421,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromMenu.accesskey "j">
 <!ENTITY customizeMenu.addMoreItems.label "Dodaj više stavki…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "a">
+
+<!ENTITY customizeMenu.autoHideDownloadsButton.label "Automatski sakrij u alatnu traku">
+<!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -800,7 +798,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Sinhronizovani tabovi">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Prijavite se na Firefox na vašim ostalim uređajima da biste vidjeli njihove tabove ovdje.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "Nema sinhroniziranih tabova… još!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Želite li vidjeti vaše tabove s drugih uređaja ovdje?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Prijavite se da vidite listu tabova s vaših ostalih uređaja.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "Vaš račun mora biti verifikovan.">
@@ -810,7 +807,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Uključite sinhronizaciju tabova da biste vidjeli listu tabova s vaših ostalih uređaja.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Pretraži sinhronizovane tabove">
-
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Poveži dodatni uređaj">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
@@ -979,12 +975,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Restartuj za nadogradnju &brandShorterName;a">
 
-<!ENTITY newTabControlled.message "Ekstenzija je promijenila stranicu koja vam bude prikazana kada otvorite novi tab. Možete promijeniti vaše postavke ukoliko ne želite ovu promjenu.">
 <!ENTITY newTabControlled.header.message "Vaš novi tab je promijenjen.">
 <!ENTITY newTabControlled.keepButton.label "Zadrži promjene">
 <!ENTITY newTabControlled.keepButton.accesskey "Z">
-<!ENTITY newTabControlled.restoreButton.label "Vrati postavke">
-<!ENTITY newTabControlled.restoreButton.accesskey "R">
+<!ENTITY newTabControlled.disableButton.accesskey "D">
+
+<!ENTITY homepageControlled.message "Ekstenzija je promijenila ono što vidite na vašoj početnoj stranici. Ukoliko vam se ova promjena ne sviđa, možete promijeniti vaše postavke.">
+<!ENTITY homepageControlled.header.message "Vaša početna stranica je promijenjena.">
+<!ENTITY homepageControlled.keepButton.accesskey "K">
+<!ENTITY homepageControlled.disableButton.accesskey "D">
+
+<!ENTITY tabHideControlled.header.message "Pristupite vašim skrivenim tabovima">
+<!ENTITY tabHideControlled.keepButton.accesskey "K">
+<!ENTITY tabHideControlled.disableButton.label "Onemogući ekstenziju">
+<!ENTITY tabHideControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "Akcije stranice">
 <!ENTITY pageAction.addToUrlbar.label "Dodaj u adresnu traku">
@@ -995,6 +999,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "Pošalji tab na uređaj">
 <!ENTITY sendToDevice.syncNotReady.label "Sinhronizujem uređaje…">
+
+<!ENTITY pageAction.shareUrl.label "Podijeli">
 
 <!ENTITY libraryButton.tooltip "Prikaži historiju, spašene zabilješke, i više">
 
