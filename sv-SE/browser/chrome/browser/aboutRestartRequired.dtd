@@ -5,5 +5,9 @@
 <!ENTITY restartRequired.title "Omstart krävs">
 
 <!ENTITY restartRequired.header "Förlåt. Vi behöver bara göra en liten sak för att fortsätta.">
+<!ENTITY restartRequired.description "
+<p>Vi har just installerat en uppdatering i bakgrunden. Klicka på Starta om &brandShortName; för att slutföra.</p>
+<p>Vi kommer att återställa alla dina sidor, fönster och flikar efteråt, så att du snabbt kan fortsätta där du var.</p>
+">
 
 <!ENTITY restartButton.label "Starta om &brandShortName;">
