@@ -720,6 +720,9 @@ collection-health-report =
     .label = Tillåt { -brand-short-name } att automatiskt skicka teknisk och interaktionsdata till { -vendor-short-name }
     .accesskey = r
 collection-health-report-link = Läs mer
+collection-studies =
+    .label = Tillåt { -brand-short-name } att installera och köra studier
+collection-studies-link = Visa { -brand-short-name }-studier
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Datarapportering är inaktiverad för den här byggkonfigurationen
