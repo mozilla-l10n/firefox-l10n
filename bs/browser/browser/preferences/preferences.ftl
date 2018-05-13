@@ -37,6 +37,11 @@ search-input-box =
             [windows] Pronađi u Opcijama
            *[other] Pronađi u Postavkama
         }
+policies-notice =
+    { PLATFORM() ->
+        [windows] Vaša organizacija je onemogućila mogućnost promjene nekih opcija.
+       *[other] Vaša organizacija je onemogućila mogućnost promjene nekih postavki.
+    }
 pane-general-title = Opće
 category-general =
     .tooltiptext = { pane-general-title }
@@ -136,6 +141,9 @@ startup-blank-page =
     .label = Prikaži praznu stranicu
 startup-prev-session =
     .label = Prikazati vaše prozore i tabove od zadnjeg puta
+startup-restore-previous-session =
+    .label = Vrati prethodnu sesiju
+    .accesskey = s
 disable-extension =
     .label = Onemogući ekstenziju
 home-page-header = Početna stranica
@@ -334,9 +342,15 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-description2 = Izaberite šta želite vidjeti kada otvorite svoju početnu stranicu, nove prozore i nove tabove.
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Početna stranica i novi prozori
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Firefox Home (Izvorno)
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -445,6 +459,9 @@ sync-signedin-login-failure = Prijavite se za ponovno povezivanje { $email }
 sync-resend-verification =
     .label = Ponovo pošalji verifikaciju
     .accesskey = v
+sync-remove-account =
+    .label = Ukloni račun
+    .accesskey = r
 sync-sign-in =
     .label = Prijava
     .accesskey = a
@@ -506,6 +523,9 @@ privacy-header = Privatnost browsera
 ## Privacy Section - Forms
 
 forms-header = Forme & lozinke
+forms-ask-to-save-logins =
+    .label = Pitaj za pamćenje prijava i lozinki za web stranice
+    .accesskey = r
 forms-exceptions =
     .label = Izuzeci…
     .accesskey = I
@@ -539,6 +559,7 @@ history-remember-option-never =
     .label = Nemoj nikad pamtiti historiju
 history-remember-option-custom =
     .label = Koristiti korisničke postavke za historiju
+history-remember-description = { -brand-short-name } će pamtiti vašu historiju surfanja, preuzimanja, formi i pretraga.
 history-dontremember-description = { -brand-short-name } će koristiti iste postavke kao za privatno surfanje, i neće pamtiti bilo kakvu historiju dok pregledate Web.
 history-private-browsing-permanent =
     .label = Uvijek koristi režim privatnog surfanja
@@ -555,19 +576,40 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Postavke…
     .accesskey = t
+history-clear-button =
+    .label = Obriši historiju…
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
 sitedata-total-size-calculating = Računam veličinu podataka web stranica i keš memorije…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Vaši pohranjeni kolačići, podaci o stranicama i keš trenutno zauzimaju { $value } { $unit } prostora na disku.
 sitedata-learn-more = Saznajte više
+sitedata-accept-cookies-option =
+    .label = Prihvataj kolačiće i podatke stranice od web strancia (preporučeno)
+    .accesskey = a
+sitedata-block-cookies-option =
+    .label = Blokiraj kolačiće i podatke stranice (može narušiti rad web stranica)
+    .accesskey = B
 sitedata-keep-until = Čuvaj do
     .accesskey = u
+sitedata-accept-third-party-desc = Prihvataj kolačiće i podatke stranice trećih lica
+    .accesskey = h
 sitedata-accept-third-party-always-option =
     .label = Uvijek
 sitedata-accept-third-party-visited-option =
     .label = Od posjećenih
 sitedata-accept-third-party-never-option =
     .label = Nikad
+sitedata-clear =
+    .label = Obriši podatke…
+    .accesskey = i
+sitedata-settings =
+    .label = Upravljanje podacima…
+    .accesskey = m
 sitedata-cookies-exceptions =
     .label = Izuzeci…
     .accesskey = I
@@ -661,6 +703,9 @@ collection-health-report =
     .label = Omogući { -brand-short-name }u da šalje tehničke i interakcijske podatke Mozilli
     .accesskey = r
 collection-health-report-link = Saznajte više
+collection-studies =
+    .label = Dozvoli { -brand-short-name }u da instalira i pokreće studije
+collection-studies-link = Prikaži { -brand-short-name } studije
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Izvještaji s podacima su onemogućeni za ovu konfiguraciju
@@ -668,6 +713,9 @@ collection-browser-errors =
     .label = Dopusti da { -brand-short-name } šalje izvještaje Mozilli o greškama web browsera (uključujući i poruke o greškama)
     .accesskey = b
 collection-browser-errors-link = Saznajte više
+collection-backlogged-crash-reports =
+    .label = Dozvoli { -brand-short-name }u da šalje pohranjene izvještaje o rušenju u vaše ime
+    .accesskey = š
 collection-backlogged-crash-reports-link = Saznajte više
 
 ## Privacy Section - Security

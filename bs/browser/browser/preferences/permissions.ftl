@@ -57,6 +57,7 @@ permissions-exceptions-tracking-protection-desc = Onemogućili ste zaštitu od p
 
 ## Exceptions - Cookies
 
+permissions-exceptions-cookie-desc = Možete navesti kojim web stranica je uvijek ili nikad nije dozvoljeno koristiti kolačiće i podatke stranice. Unesite tačnu adresu stranice koju želite urediti i kliknite Blokiraj, Dozvoli za sesiju, ili Dozvoli.
 
 ## Exceptions - Pop-ups
 

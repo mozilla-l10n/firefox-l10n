@@ -5,6 +5,8 @@
 
 ## Settings
 
+site-data-settings-window =
+    .title = Upravljanje kolačićima i podacima stranice
 site-data-search-textbox =
     .placeholder = Pretraži web stranice
     .accesskey = S
@@ -27,6 +29,7 @@ site-data-button-save =
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 site-usage-pattern = { $value } { $unit }
+site-usage-persistent = { site-usage-pattern } (Trajno)
 site-data-remove-all =
     .label = Ukloni sve
     .accesskey = e
