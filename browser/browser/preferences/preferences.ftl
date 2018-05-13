@@ -385,7 +385,7 @@ restore-default =
 
 search-bar-header = Որոնման գոտի
 search-bar-hidden =
-    .label = Օգտագործեք հասցեի գոտին՝ որոնման և ուղորդման համար
+    .label = Օգտագործեք հասցեի գոտին՝ որոնման և ուղղորդման համար
 search-bar-shown =
     .label = Ավելացնել որոնման գոտին գործիքագոտիում
 search-engine-default-header = Հիմնական որոնիչը
@@ -720,6 +720,9 @@ collection-health-report =
     .label = Թույլատրել { -brand-short-name }-ին ուղարկել տեխնիկական և փոխազդելու տվյալներ { -vendor-short-name }-ին
     .accesskey = { "" }
 collection-health-report-link = Իմանալ ավելին
+collection-studies =
+    .label = Թույլատրել { -brand-short-name }-ին տեղադրել և կատարել հետազոտություններ
+collection-studies-link = Դիտել { -brand-short-name }-ի հետազոտությունները
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Տվյալների զեկուցումը անջատված է կազմաձևի այս կառուցման համար
