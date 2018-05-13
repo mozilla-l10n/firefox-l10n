@@ -66,6 +66,7 @@
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; će koristiti iste postavke kao za privatno surfanje, i neće pamtiti bilo kakvu historiju dok pregledate Web.">
 
+<!ENTITY  clearHistoryButton.label       "Obriši historiju…">
 <!ENTITY  clearHistoryButton.accesskey   "s">
 
 <!ENTITY  privateBrowsingPermanent2.label "Uvijek koristi režim privatnog surfanja">
@@ -77,7 +78,7 @@
 <!ENTITY  rememberSearchForm.label       "Pamti historiju formi i pretrage">
 <!ENTITY  rememberSearchForm.accesskey   "f">
 
-<!ENTITY  clearOnClose.label             "Očisti historiju kada se &brandShortName; zatvori">
+<!ENTITY  clearOnClose.label             "Obriši historiju kada se &brandShortName; zatvori">
 <!ENTITY  clearOnClose.accesskey         "r">
 
 <!ENTITY  clearOnCloseSettings.label     "Postavke…">
