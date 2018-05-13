@@ -117,6 +117,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+<!ENTITY copyCmd.label            "Copiar">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "C">
+<!ENTITY pasteCmd.label           "Gllètar">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "P">
 
 
 
@@ -151,6 +157,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.removeFromMenu.label "Garar du menu">
 <!ENTITY customizeMenu.removeFromMenu.accesskey "R">
+
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -213,11 +220,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
+<!ENTITY pageAction.copyLink.label    "Copiar lo lim">
+<!ENTITY copyURLFeedback.label        "Copiâ!">
 <!-- alternate for content area context menu -->
 <!ENTITY playPluginCmd.label          "Activar cèt’ agllèton">
 <!ENTITY playPluginCmd.accesskey      "c">
 <!ENTITY hidePluginCmd.label          "Recondre l’agllèton">
 <!ENTITY hidePluginCmd.accesskey      "H">
+<!ENTITY copyLinkCmd.label            "Copiar la localisacion du lim">
+<!ENTITY copyLinkCmd.accesskey        "a">
+<!ENTITY copyImageContentsCmd.label   "Copiar l'imâge">
 
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
@@ -297,6 +309,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
                         syncedTabs.context.openAllInTabs.accesskey):
      These access keys are identical because their associated menu items are
      mutually exclusive -->
+<!ENTITY syncedTabs.context.copy.label                       "Copiar">
 
 
 

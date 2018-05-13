@@ -74,6 +74,8 @@ browsing-title = Navìgacion
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Reçua de Firefox
+home-homepage-custom-url =
+    .placeholder = Gllètar l'adrèce
 
 ## Search Section
 
