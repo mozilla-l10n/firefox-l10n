@@ -75,6 +75,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsProcessCount "سيرورة محتوى الوب">
 
+<!ENTITY aboutSupport.enterprisePolicies "سياسات المؤسسات">
+
 <!ENTITY aboutSupport.appBasicsKeyGoogle "مفتاح جوجل">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "مفتاح خدمة التموضع من موزيلا">
 
