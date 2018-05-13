@@ -720,6 +720,9 @@ collection-health-report =
     .label = Permitir a { -brand-short-name } enviar datos técnicos y de interacción a { -vendor-short-name }
     .accesskey = P
 collection-health-report-link = Saber más
+collection-studies =
+    .label = Permitir que { -brand-short-name } instale y ejecute estudios
+collection-studies-link = Ver los estudios de { -brand-short-name }
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = La recopilación de datos está deshabilitada en esta configuración de compilación
