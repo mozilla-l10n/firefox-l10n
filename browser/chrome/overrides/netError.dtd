@@ -56,7 +56,8 @@
 <!ENTITY netOffline.longDesc2 "<ul> <li>अनलाइन मोडमा स्विच तथा पृष्ठ पुनः लोड गर्न &quot;पुनः प्रयास&quot; मा थिच्नुहोस् ।</li> </ul>">
 
 <!ENTITY contentEncodingError.title "सामग्री संकेतीकरण त्रुटी">
-<!ENTITY contentEncodingError.longDesc "<ul> <li>कृपया यो समस्याको जानकारी गराउन वेबसाइट धनीलाई सम्पर्क गर्नुहोस्।</li> </ul>">
+<!ENTITY contentEncodingError.longDesc "<ul>
+  <li> कृपया यो समस्याको जानकारी गराउन वेबसाइट धनीलाई सम्पर्क गर्नुहोस् ।</li></ul>">
 
 <!ENTITY unsafeContentType.title "असुरक्षित फाइल प्रकार">
 <!ENTITY unsafeContentType.longDesc "<ul> <li>कृपया यो समस्याको जानकारी गराउन वेबसाइट धनीलाई सम्पर्क गर्नुहोस्।</li> </ul>">
@@ -86,7 +87,9 @@
 <!ENTITY unknownSocketType.longDesc "<ul> <li>तपाईँको प्रणालीमा व्यक्तिगत सुरक्षा प्रबन्धक छ भनेर सुनिश्चित गर्न जाँच गर्नुहोस्।</li> <li>यस्तो हुनुको कारण सर्भरमा गैर मानक कन्फिगरेसनले गर्दा हुन सक्दछ।</li> </ul>">
 
 <!ENTITY nssFailure2.title "सुरक्षित जडान असफल भयो">
-<!ENTITY nssFailure2.longDesc2 "<ul> <li>प्राप्त गरेको तथ्याङ्कको प्रमाणिकरण गर्न नसकेको हुँदा तपाईँले हेर्न खोजी रहनु भएको पृष्ठ देखाउन सकिएन।</li> <li>कृपयाा वेबसाइट मालिकलाई यो समस्याको बारेमा जानकारी गराउनुहोस्।</li> </ul>">
+<!ENTITY nssFailure2.longDesc2 "<ul>
+  <li>प्राप्त गरेको तथ्याङ्कको प्रमाणीकरण गर्न नसकेको हुँदा तपाईँले हेर्न खोजिरहनुभएको पृष्ठ देखाउन सकिएन ।</li>
+  <li>कृपया वेबसाइट मालिकलाई यो समस्याको बारेमा जानकारी गराउनुहोस् ।</li></ul>">
 
 <!ENTITY certerror.longpagetitle1 "तपाईँको जडान सुरक्षित छैन">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
