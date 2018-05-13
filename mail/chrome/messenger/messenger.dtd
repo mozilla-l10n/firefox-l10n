@@ -36,6 +36,12 @@
 <!ENTITY newFeedAccountCmd.accesskey "ت">
 <!ENTITY newIMContactCmd.label "جهة اتصال دردشة…">
 <!ENTITY newIMContactCmd.accesskey "ت">
+<!ENTITY  newMessageCmd2.key "N">
+<!ENTITY  newMessageCmd.key "M">
+<!ENTITY  newMessageCmd.label "رسالة">
+<!ENTITY  newMessageCmd.accesskey "س">
+<!ENTITY  newContactCmd.label "جهة اتصال دفتر العناوين…">
+<!ENTITY  newContactCmd.accesskey "ه">
 <!ENTITY openMessageFileCmd.label "افتح رسالة محفوظة…">
 <!ENTITY openMessageFileCmd.accesskey "ف">
 <!ENTITY saveAsMenu.label "احفظ باسم">
@@ -509,8 +515,6 @@
 <!ENTITY devToolboxCmd.label "صندوق أدوات المطورين">
 <!ENTITY devToolboxCmd.accesskey "ص">
 <!ENTITY devToolboxCmd.commandkey "i">
-<!ENTITY addonDebugCmd.label "منقح الإضافات">
-<!ENTITY addonDebugCmd.accesskey "ق">
 <!ENTITY debugAddonsCmd.label "نقّح الإضافات">
 <!ENTITY debugAddonsCmd.accesskey "ن">
 <!ENTITY tabsDebugCmd.label "منقح إطار المحتوى">
@@ -645,6 +649,7 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "اجلب الرسائل">
 <!ENTITY folderContextGetMessages.accesskey "ج">
+<!ENTITY folderContextMarkAllFoldersRead.label "علّم كل المجلد مقروءة">
 <!ENTITY folderContextPauseAllUpdates.label "ألبِث كل التحديثات">
 <!ENTITY folderContextPauseUpdates.label "ألبِث التحديثات">
 <!ENTITY folderContextPauseUpdates.accesskey "ت">
@@ -870,7 +875,7 @@
   -->
 <!ENTITY quickSearchCmd.key "k">
 <!-- LOCALIZATION NOTE (search.label.base1):
-      This is the base of the empty text for the global search box. We replace
+     This is the base of the empty text for the global search box. We replace
      #1 with the contents of the appropriate search.keyLabel.* value for the
      platform.
      The goal is to convey to the user that typing in the box will allow them

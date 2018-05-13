@@ -9,6 +9,7 @@
 <!ENTITY iconsAndText.label       "أيقونات و نصّ">
 <!ENTITY icons.label              "أيقونات">
 <!ENTITY text.label               "نص">
+<!ENTITY iconsBesideText.label    "الأيقونات بجانب النص">
 <!ENTITY useSmallIcons.label      "استخدم أيقونات صغيرة">
 <!ENTITY restoreDefaultSet.label  "استعد المجموعة المبدئيّة">
 <!ENTITY addNewToolbar.label      "أضِف شريط أدوات جديد">
