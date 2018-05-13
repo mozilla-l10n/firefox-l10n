@@ -44,7 +44,19 @@
 <!ENTITY cmd.deleteDomainData.label     "Olvidar este sitio">
 <!ENTITY cmd.deleteDomainData.accesskey "O">
 
+<!ENTITY cmd.open.label                  "Abrir">
+<!ENTITY cmd.open.accesskey              "b">
+<!ENTITY cmd.open_window.label           "Abrir en nueva ventana">
+<!ENTITY cmd.open_window.accesskey       "n">
+<!ENTITY cmd.open_private_window.label     "Abrir en nueva ventana privada">
+<!ENTITY cmd.open_private_window.accesskey "p">
+<!ENTITY cmd.open_tab.label              "Abrir en nueva pestaña">
+<!ENTITY cmd.open_tab.accesskey          "t">
+<!ENTITY cmd.open_all_in_tabs.label      "Abrir todo en pestañas">
+<!ENTITY cmd.open_all_in_tabs.accesskey  "o">
 
+<!ENTITY cmd.properties.label      "Propiedades">
+<!ENTITY cmd.properties.accesskey  "i">
 
 
 
