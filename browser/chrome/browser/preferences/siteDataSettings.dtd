@@ -2,11 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY     window.title                  "అమరికలు - సైటు డేటా">
-
-<!ENTITY     window1.title                 "అమరికలు - కుకీలు, సైటు డేటా">
+<!ENTITY     window2.title                 "కుకీలు, సైటు దత్తాంశ నిర్వహణ">
 <!ENTITY     hostCol.label                 "సైటు">
-<!ENTITY     statusCol.label               "స్థితి">
 <!ENTITY     cookiesCol.label              "కుకీలు">
 <!ENTITY     usageCol.label                "నిల్వ">
 <!ENTITY     lastAccessedCol.label                "చివరి వాడుక">
@@ -18,6 +15,4 @@
 <!ENTITY     save.accesskey                "a">
 <!ENTITY     cancel.label                  "రద్దుచేయి">
 <!ENTITY     cancel.accesskey              "C">
-<!ENTITY     removingDialog.title          "సైటు డేటాను తొలగిస్తున్నాం">
-<!ENTITY     siteTree2.label               "ఈ క్రింది వెబ్‌సైట్ల కుకీలు తొలగించబడతాయి">
 <!ENTITY     removingDialog1.title         "కుకీలనూ సైటు డేటానీ తీసేస్తున్నాం">

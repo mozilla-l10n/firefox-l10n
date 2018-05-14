@@ -562,6 +562,7 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = కుకీలు మరియు సైటు డేటా
+sitedata-total-size-calculating = సైటు దత్తాంశం, కాషెల పరిమాణాన్ని లెక్కిస్తున్నాం…
 sitedata-learn-more = మరింత తెలుసుకోండి
 sitedata-accept-cookies-option =
     .label = వెబ్‌సైట్ల నుండి కుకీలు, సైటు దత్తాంశాన్ని అంగీకరించు (సిఫార్సు చేయబడింది)
