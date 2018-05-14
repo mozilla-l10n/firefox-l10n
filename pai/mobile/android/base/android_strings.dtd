@@ -205,6 +205,7 @@
 <!ENTITY pref_category_advanced_summary3 "Ch chkwachu chajanch">
 <!ENTITY pref_category_notifications "Chknabchu">
 <!ENTITY pref_category_notifications_summary "Kabyuwu baam yak, web ha baam kyakuha mtyaam">
+<!ENTITY pref_category_notifications_summary2 "Chubowchu baam yaak, chapayt m\&apos;uuyuuk yoon">
 <!ENTITY pref_developer_remotedebugging_usb "USB ham ñulyomuk tkryee">
 <!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi ham ñulyomuk tkryee">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi ham tkryehi kyawa dispositiiv mwi hay app tñur uchu codig QR wiiy yaŕaal.">
@@ -279,6 +280,13 @@
 
 <!ENTITY pref_whats_new_notification "Ñukwee jkaay yo &brandShortName; hal">
 <!ENTITY pref_whats_new_notification_summary "Ñumchjaan kabyuk oichuha mŕpo yamŕaal">
+
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!ENTITY pref_feature_tips_notification "Chapayt ya kabyuwuha m\&apos;uuya">
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+<!ENTITY pref_feature_tips_notification_summary "Chatrñerabum kabwik &brandShortName; ñumyaabchu ha ŕpo yaŕaal &vendorShortName; ham nyaam Ka">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
@@ -421,7 +429,6 @@ chab mtñur">
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "Majanuyib &brandShortName; knaaba">
 <!ENTITY datareporting_fhr_summary2 "Tñuur &vendorShortName; ham kwiim sal m amuhay januha knaabka ñwak mbtaar nkyuchya">
-<!ENTITY datareporting_abouthr_title "Jan k\&apos;amuha kwimum uuch">
 <!ENTITY datareporting_telemetry_title "Telemetriiy">
 <!ENTITY datareporting_telemetry_summary "Sal m\&apos; amuha &vendorShortName; ha kabyukwawuha ee kabwik ñumtrchechu ee hardwar ee ñwak tñur yeemi wii yoobch ha paytum mkwiim sak ntpach &brandShortName; hay janrabhikyawa">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; hay ñukwee aay blwiiytemumyus &vendorShortName; ha eem sak ntpach sal m\&apos;amuha janrabhikyawa">
@@ -535,7 +542,7 @@ chab mtñur">
 <!ENTITY pref_compact_tabs_summary2 "Ch chkwachu jwaakum mat tjipeebum mchkwa">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
-     any page is removed frome about:home. This includes pages that are in history,
+     any page is removed from about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Jabchu ujinch">
 <!ENTITY folder_removed "Tñur chkwachu ujiñch">
@@ -750,7 +757,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Ñumchblwiych ñikakwach: &formatS;">
-<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!-- Localization note: Used when the sync has not happened yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Ñumchblwiych ñikakwach: myuchliiy">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
