@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY restartRequired.title "Opnij starte fereaske">
+
+<!ENTITY restartRequired.header "Sorry. Wy moatte noch ien lyts ding dwaan om troch te gean.">
+<!ENTITY restartRequired.description "
+<p>Wy hawwe sakrekt in fernijing op de eftergrûn útfierd. Klik op &brandShortName; opnij starte om it tapassen derfan te foltôgjen.</p>
+<p>Dêrnei sille al jo siden, finsters en ljepblêden wersteld wurde, sadat jo fluch troch kinne.</p>
+">
+
+<!ENTITY restartButton.label "&brandShortName; opnij starte">
