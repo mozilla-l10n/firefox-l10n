@@ -207,6 +207,7 @@
 <!ENTITY pref_category_advanced_summary3 "Ljepblêden werombringe, gegevensbesparring, ûntwikkelersark">
 <!ENTITY pref_category_notifications "Notifikaasjes">
 <!ENTITY pref_category_notifications_summary "Nije funksjes, website-fernijingen">
+<!ENTITY pref_category_notifications_summary2 "Nije funksjes, produkttips">
 <!ENTITY pref_developer_remotedebugging_usb "Remote debugging fia USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Remote debugging fia wifi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wifi-debugging fereasket dat in QR-koadelêzer-app op jo apparaat ynstallearre is.">
@@ -543,7 +544,7 @@
 <!ENTITY pref_compact_tabs_summary2 "Ljepblêden yn steande modus oarderje yn twa kolommen">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
-     any page is removed frome about:home. This includes pages that are in history,
+     any page is removed from about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Side fuortsmiten">
 <!ENTITY folder_removed "Map fuortsmiten">
@@ -761,7 +762,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Lêst syngronisearre: &formatS;">
-<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!-- Localization note: Used when the sync has not happened yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Lêst syngronisearre: nea">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
