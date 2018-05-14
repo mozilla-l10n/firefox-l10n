@@ -720,6 +720,9 @@ collection-health-report =
     .label = Tastean dat { -brand-short-name } technyske en brûksgegevens ferstjoert nei { -vendor-short-name }
     .accesskey = r
 collection-health-report-link = Mear ynfo
+collection-studies =
+    .label = { -brand-short-name } tastean om ûndersiken te ynstallearjen en út te fieren
+collection-studies-link = { -brand-short-name }-ûndersiken werjaan
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Gegevensrapporten binne foar dizze build-konfiguraasje útskeakele
