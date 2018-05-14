@@ -207,6 +207,7 @@
 <!ENTITY pref_category_advanced_summary3 "Restauration d’onglets, économies de données, outils de développement">
 <!ENTITY pref_category_notifications "Notifications">
 <!ENTITY pref_category_notifications_summary "Nouvelles fonctionnalités, actualités des sites web">
+<!ENTITY pref_category_notifications_summary2 "Nouvelles fonctionnalités, astuces pour le logiciel">
 <!ENTITY pref_developer_remotedebugging_usb "Débogage distant par USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Débogage distant par Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Le débogage par Wi-Fi nécessite que votre appareil dispose d’une application permettant de lire les QR codes.">
@@ -281,6 +282,13 @@
 
 <!ENTITY pref_whats_new_notification "Nouveautés de &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Découvrir les nouvelles fonctionnalités après une mise à jour">
+
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!ENTITY pref_feature_tips_notification "Astuces pour le logiciel et ses fonctionnalités">
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+<!ENTITY pref_feature_tips_notification_summary "Obtenez plus d’informations sur l’utilisation de &brandShortName; et des autres logiciels de &vendorShortName;">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
@@ -422,7 +430,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "Bilan de santé de &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "Envoie des données à &vendorShortName; concernant la santé de votre navigateur et vous aide à comprendre les performances de votre navigateur.">
-<!ENTITY datareporting_abouthr_title "Voir mon bilan de santé">
 <!ENTITY datareporting_telemetry_title "Télémétrie">
 <!ENTITY datareporting_telemetry_summary "Envoie des informations sur les performances, le matériel, l’utilisation et les personnalisations à &vendorShortName; pour aider à améliorer &brandShortName;.">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; envoie des rapports de plantage pour aider &vendorShortName; à rendre votre navigateur plus stable et sécurisé.">
@@ -537,7 +544,7 @@
 <!ENTITY pref_compact_tabs_summary2 "Réorganiser les onglets en deux colonnes en mode portrait">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
-     any page is removed frome about:home. This includes pages that are in history,
+     any page is removed from about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Page retirée">
 <!ENTITY folder_removed "Dossier supprimé">
@@ -752,7 +759,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Dernière synchronisation : &formatS;">
-<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!-- Localization note: Used when the sync has not happened yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Dernière synchronisation : jamais">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
