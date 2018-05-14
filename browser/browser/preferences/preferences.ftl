@@ -720,6 +720,9 @@ collection-health-report =
     .label = Permesi al { -brand-short-name } sendi teĥnikajn kaj interagajn datumojn al { -vendor-short-name }
     .accesskey = P
 collection-health-report-link = Pli da informo
+collection-studies =
+    .label = Permesi al { -brand-short-name } instali kaj fari studojn
+collection-studies-link = Vidi studojn de { -brand-short-name }
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = La raporto de datumoj estas malŝaltita pro la agordoj de konstruo
