@@ -724,7 +724,7 @@ collection-health-report =
     .accesskey = r
 collection-health-report-link = Află mai multe
 collection-studies =
-    .label = Permite ca { -brand-short-name } să instaleze și să realizeze studii
+    .label = Permite-i lui { -brand-short-name } să instaleze și să realizeze studii
 collection-studies-link = Vezi studiile { -brand-short-name }
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
