@@ -49,24 +49,12 @@ focus-search =
 close-button =
     .aria-label = Zamknij
 
-## Browser Restart Dialog
-
 feature-enable-requires-restart = Konieczne jest ponowne uruchomienie programu { -brand-short-name }, aby włączyć tę funkcję.
 feature-disable-requires-restart = Konieczne jest ponowne uruchomienie programu { -brand-short-name }, aby wyłączyć tę funkcję.
 should-restart-title = Ponowne uruchamianie programu { -brand-short-name }
 should-restart-ok = Uruchom ponownie
 cancel-no-restart-button = Anuluj
 restart-later = Później
-
-## Extension Control Notifications
-##
-## These strings are used to inform the user
-## about changes made by extensions to browser settings.
-##
-## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
-##
-## Variables:
-##   $name (String): name of the extension
 
 extension-controlled-homepage-override = Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> kontroluje stronę startową.
 extension-controlled-new-tab-url = Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> kontroluje stronę nowej karty.
@@ -76,8 +64,6 @@ extension-controlled-websites-tracking-protection-mode = Rozszerzenie „{ $name
 extension-controlled-proxy-config = Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> kontroluje, jak przeglądarka łączy się z Internetem.
 extension-controlled-enable = Aby włączyć rozszerzenie, przejdź do sekcji <img data-l10n-name="addons-icon"/> Dodatki w menu <img data-l10n-name="menu-icon"/>.
 
-## Preferences UI Search Results
-
 search-results-header = Wyniki wyszukiwania
 search-results-empty-message =
     { PLATFORM() ->
@@ -85,8 +71,6 @@ search-results-empty-message =
        *[other] Niestety! W preferencjach niczego nie odnaleziono dla wyszukiwania „<span data-l10n-name="query"></span>”.
     }
 search-results-help-link = Potrzebujesz pomocy? Odwiedź witrynę <a data-l10n-name="url">wsparcia programu { -brand-short-name }</a>.
-
-## General Section
 
 startup-header = Uruchamianie
 separate-profile-mode =
@@ -135,10 +119,10 @@ switch-links-to-new-tabs =
 show-tabs-in-taskbar =
     .label = Podgląd kart na pasku zadań Windows
     .accesskey = W
-browser-containers-enabled =
-    .label = Karty z kontekstem
-    .accesskey = K
-browser-containers-learn-more = Więcej informacji
+browser-containers-enabled=
+  .label=Karty z kontekstem.
+  .accesskey=K
+browser-containers-learn-more=Więcej informacji
 browser-containers-settings =
     .label = Dostosuj…
     .accesskey = D
@@ -165,8 +149,6 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Usuń
 containers-remove-cancel-button = Nie usuwaj
-
-## General Section - Language & Appearance
 
 language-and-appearance-header = Język i wygląd
 fonts-and-colors-header = Czcionki i kolory
@@ -195,8 +177,6 @@ translate-exceptions =
 check-user-spelling =
     .label = Sprawdzaj pisownię podczas wprowadzania tekstu
     .accesskey = i
-
-## General Section - Files and Applications
 
 files-and-applications-title = Pliki i aplikacje
 download-header = Pobieranie
@@ -256,8 +236,6 @@ update-enable-search-update =
     .label = Automatyczne aktualizacje wyszukiwarek
     .accesskey = z
 
-## General Section - Performance
-
 performance-title = Wydajność
 performance-use-recommended-settings-checkbox =
     .label = Zalecane ustawienia wydajności.
@@ -274,8 +252,6 @@ performance-limit-content-process-disabled-desc = Zmiana liczby procesów jest m
 performance-limit-content-process-blocked-desc = Zmiana liczby procesów jest możliwa, jeśli { -brand-short-name } został uruchomiony z obsługą wielu procesów. <a data-l10n-name="learn-more">Jak sprawdzić, czy obsługa wielu procesów jest włączona</a>?
 performance-default-content-process-count =
     .label = { $num } (domyślnie)
-
-## General Section - Browsing
 
 browsing-title = Przeglądanie
 browsing-use-autoscroll =
@@ -294,8 +270,6 @@ browsing-search-on-start-typing =
     .label = Rozpoczynaj wyszukiwanie podczas wpisywania tekstu
     .accesskey = R
 
-## General Section - Proxy
-
 network-proxy-title = Proxy sieciowe
 network-proxy-connection-description = Konfiguruj, jak { -brand-short-name } ma się łączyć z Internetem.
 network-proxy-connection-learn-more = Więcej informacji
@@ -303,26 +277,22 @@ network-proxy-connection-settings =
     .label = Ustawienia…
     .accesskey = U
 
-## Home Section
-
 home-new-windows-tabs-header = Nowe okna i karty
 home-new-windows-tabs-description2 = Wybierz, co ma być wyświetlane przy otwieraniu strony startowej, nowych okien i kart.
-
-## Home Section - Home Page Customization
 
 home-homepage-mode-label = Strona startowa i nowe okna:
 home-newtabs-mode-label = Nowa karta:
 home-restore-defaults =
     .label = Przywróć domyślne
     .accesskey = P
-home-mode-choice-default =
-    .label = strona startowa programu Firefox (domyślnie)
-home-mode-choice-custom =
-    .label = inne strony
-home-mode-choice-blank =
-    .label = pusta strona
-home-homepage-custom-url =
-    .placeholder = Adres URL
+home-mode-choice-default=
+  .label=strona startowa programu Firefox (domyślnie)
+home-mode-choice-custom=
+   .label=inne strony
+home-mode-choice-blank=
+   .label=pusta strona
+home-homepage-custom-url=
+   .placeholder=Adres URL
 use-current-pages =
     .label =
         { $tabCount ->
@@ -336,8 +306,6 @@ choose-bookmark =
 restore-default =
     .label = Przywróć domyślną
     .accesskey = d
-
-## Search Section
 
 search-bar-header = Pasek wyszukiwania
 search-bar-hidden =
@@ -372,8 +340,6 @@ search-keyword-warning-title = Słowo kluczowe już istnieje
 search-keyword-warning-engine = Wybrano słowo kluczowe używane obecnie przez wyszukiwarkę { $name }. Należy wybrać inne.
 search-keyword-warning-bookmark = Wybrano słowo kluczowe używane obecnie przez zakładkę. Należy wybrać inne.
 
-## Containers Section
-
 containers-back-link = « Powrót
 containers-header = Karty z kontekstem
 containers-add-button =
@@ -384,8 +350,6 @@ containers-preferences-button =
 containers-remove-button =
     .label = Usuń
 
-## Sync Section - Signed out
-
 sync-signedout-caption = Zabierz swoją sieć ze sobą
 sync-signedout-description = Synchronizuj zakładki, historię, karty, hasła, dodatki i ustawienia między wszystkimi swoimi urządzeniami.
 sync-signedout-account-title = { -fxaccount-brand-name }
@@ -394,9 +358,7 @@ sync-signedout-account-create = Nie masz konta? Utwórz je…
 sync-signedout-account-signin =
     .label = Zaloguj się
     .accesskey = Z
-sync-mobile-promo = Pobierz Firefoksa na <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Androida</a> lub <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOSa</a>, aby synchronizować ze swoim urządzeniem przenośnym.
-
-## Sync Section - Signed in
+sync-mobile-promo=Pobierz Firefoksa na <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Androida</a> lub <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOSa</a>, aby synchronizować ze swoim urządzeniem przenośnym.
 
 sync-profile-picture =
     .tooltiptext = Zmień obraz przypisany do konta
@@ -467,16 +429,12 @@ sync-mobilepromo-multi = Zarządzaj urządzeniami
 sync-tos-link = Warunki korzystania z usługi
 sync-fxa-privacy-notice = Uwagi dotyczące prywatności
 
-## Privacy Section
-
 privacy-header = Prywatność
 
-## Privacy Section - Forms
-
 forms-header = Formularze i hasła
-forms-ask-to-save-logins =
-    .label = Pytanie o zachowywanie danych logowania do witryn
-    .accesskey = P
+forms-ask-to-save-logins=
+  .label=Pytanie o zachowywanie danych logowania do witryn
+  .accesskey=P
 forms-exceptions =
     .label = Wyjątki…
     .accesskey = i
@@ -489,8 +447,6 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Zmień hasło główne
     .accesskey = Z
-
-## Privacy Section - History
 
 history-header = Historia
 history-remember-label = Program { -brand-short-name }:
@@ -522,13 +478,8 @@ history-clear-button =
     .label = Wyczyść historię…
     .accesskey = W
 
-## Privacy Section - Site Data
-
 sitedata-header = Ciasteczka i dane stron
 sitedata-total-size-calculating = Obliczanie rozmiaru danych i pamięci podręcznej stron…
-# Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Przechowywane ciasteczka, dane i pamięć podręczna stron zajmują { $value } { $unit } na dysku.
 sitedata-learn-more = Więcej informacji
 sitedata-accept-cookies-option =
@@ -557,8 +508,6 @@ sitedata-cookies-exceptions =
     .label = Wyjątki…
     .accesskey = W
 
-## Privacy Section - Address Bar
-
 addressbar-header = Pasek adresu
 addressbar-suggest = Podpowiedzi w pasku adresu opieraj na:
 addressbar-locbar-history-option =
@@ -571,8 +520,6 @@ addressbar-locbar-openpage-option =
     .label = otwartych kartach
     .accesskey = k
 addressbar-suggestions-settings = Zmień ustawienia podpowiedzi dostarczanych przez wyszukiwarki
-
-## Privacy Section - Tracking
 
 tracking-header = Ochrona przed śledzeniem
 tracking-desc = Ochrona przed śledzeniem blokuje elementy, które zbierają informacje o przeglądaniu na wielu różnych stronach. <a data-l10n-name="learn-more">Więcej informacji o ochronie przed śledzeniem i prywatności</a>.
@@ -594,8 +541,6 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Zmień listę blokowanych…
     .accesskey = b
-
-## Privacy Section - Permissions
 
 permissions-header = Uprawnienia
 permissions-location = Położenie
@@ -635,8 +580,6 @@ permissions-a11y-privacy-checkbox =
     .accesskey = u
 permissions-a11y-privacy-link = Więcej informacji
 
-## Privacy Section - Data Collection
-
 collection-header = Dane zbierane przez program { -brand-short-name }
 collection-description = Dążymy do zapewnienia odpowiedniego wyboru i zbierania wyłącznie niezbędnych danych, aby dostarczać i doskonalić program { -brand-short-name } dla nas wszystkich. Zawsze prosimy o pozwolenie przed przesłaniem danych osobistych.
 collection-privacy-notice = Uwagi dotyczące prywatności
@@ -654,11 +597,6 @@ collection-backlogged-crash-reports =
     .accesskey = o
 collection-backlogged-crash-reports-link = Więcej informacji
 
-## Privacy Section - Security
-##
-## It is important that wording follows the guidelines outlined on this page:
-## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
-
 security-header = Bezpieczeństwo
 security-browsing-protection = Ochrona przed oszustwami i niebezpiecznym oprogramowaniem
 security-enable-safe-browsing =
@@ -671,8 +609,6 @@ security-block-downloads =
 security-block-uncommon-software =
     .label = Ostrzeganie przed niepożądanym i nietypowym oprogramowaniem
     .accesskey = n
-
-## Privacy Section - Certificates
 
 certs-header = Certyfikaty
 certs-personal-label = Kiedy serwer żąda osobistego certyfikatu użytkownika:
