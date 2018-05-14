@@ -723,6 +723,9 @@ collection-health-report =
     .label = Permite-i lui { -brand-short-name } să trimită informații tehnice și interactive către { -vendor-short-name }
     .accesskey = r
 collection-health-report-link = Află mai multe
+collection-studies =
+    .label = Permite ca { -brand-short-name } să instaleze și să realizeze studii
+collection-studies-link = Vezi studiile { -brand-short-name }
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Raportarea datelor este dezactivată în configurația folosită
