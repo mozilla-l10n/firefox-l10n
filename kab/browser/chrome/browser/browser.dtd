@@ -219,6 +219,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Err-d isefka deg uselkim">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Iminig yettwaṭṭef s wudem anmeggag">
 
+<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Ldi afeggag n usentem Web">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Sefrek beṭṭu n tkamirat-ik d/neɣ asawaḍ-ik d usmel">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Sefrek beṭṭu n usawaḍ-ik d usmel">
