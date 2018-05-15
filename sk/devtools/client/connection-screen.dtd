@@ -18,7 +18,7 @@
 <!ENTITY availableProcesses "Dostupné vzdialené procesy:">
 <!ENTITY connectionError "Chyba:">
 <!ENTITY errorTimeout "Chyba: čas pripojenia vypršal.">
-<!ENTITY errorRefused "Chyba: spojenie odmietnuté.">
+<!ENTITY errorRefused "Chyba: spojenie bolo odmietnuté.">
 <!ENTITY errorUnexpected "Neočakávaná chyba.">
 
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
