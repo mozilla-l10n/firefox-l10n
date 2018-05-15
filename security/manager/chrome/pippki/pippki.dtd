@@ -7,7 +7,7 @@
 <!ENTITY setPassword.tokenName.label "უსაფრთხოების მოწყობილობა">
 <!ENTITY setPassword.oldPassword.label "მიმდინარე პაროლი:">
 <!ENTITY setPassword.newPassword.label "ახალი პაროლი:">
-<!ENTITY setPassword.reenterPassword.label "ხალი პაროლი (კვლავ):">
+<!ENTITY setPassword.reenterPassword.label "ახალი პაროლი (კვლავ):">
 <!ENTITY setPassword.meter.label "პაროლის ხარისხის მზომი">
 
 <!-- Values for resetpassword.xul -->
@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "თქვენ გთხოვენ თქვენთვის ახალი სერთიფიკატების სააგენტოს (CA) ნდობას.">
 <!ENTITY downloadCert.trustSSL "ვებსაიტების დამოწმების ამ CA-სთვის ნდობა.">
 <!ENTITY downloadCert.trustEmail "ამ სააგენტოს ნდობა ელფოსტის კლიენტთა იდენტიფიცირებისათვის.">
-<!ENTITY downloadCert.trustObjSign "ამ სააგენტოს ნდობა პროგრამების შემქმნელთა იდენტიფიცირებისათვის.">
 <!ENTITY downloadCert.message3 "სანამ CA-ს ნდობას გამოუცხადებთ, ჯერ შეამოწმეთ მისი სერთიფიკატი, პირობები და პროცედურები (თუ გააჩნია).">
 <!ENTITY downloadCert.viewCert.label "ჩვენება">
 <!ENTITY downloadCert.viewCert.text "სააგენტოს სერთიფიკატის შემოწმება">
