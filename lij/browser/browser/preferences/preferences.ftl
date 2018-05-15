@@ -720,6 +720,9 @@ collection-health-report =
     .label = Permetti a { -brand-short-name } de mandâ dæti tecnichi e de interaçion a { -vendor-short-name }
     .accesskey = r
 collection-health-report-link = Atre informaçioin
+collection-studies =
+    .label = Pemetti a { -brand-short-name } de instalâ e xoâ studdi
+collection-studies-link = Amia i studde de { -brand-short-name }
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = O report di dæti o l'é dizabilitou pe sta configuraçion
