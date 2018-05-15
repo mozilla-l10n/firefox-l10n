@@ -5,7 +5,7 @@
 blocklist-window =
     .title = Lista ti Nalapdan
     .style = width: 55em
-blocklist-desc = Mapiliyo ania a lista nga aramaten ti { -brand-short-name } tapno palapdanna dagiti elemento ti Web nga makapangipalanad kadagiti ar-aramidenyo.
+blocklist-desc = Mapiliyo no ania a lista nga aramaten ti { -brand-short-name } tapno lapdanna dagiti elemento ti Web a surotsuroten dagiti ar-aramidenyo.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
@@ -24,5 +24,7 @@ blocklist-button-ok =
 #   $listName {string, "Standard (Recommended)."} - List name.
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
+blocklist-item-moz-std-name = Kangrunaan a salaknib a Disconnect.me (Inkalikagum).
 blocklist-item-moz-std-desc = Palubosan ti sumagmamano a mangsurotsurot tapno maitutop nga umobra ti sitio.
+blocklist-item-moz-full-name = Naiget a salaknib a Disconnect.me.
 blocklist-item-moz-full-desc = Lappedan dagiti inammo a mangsurotsurot. Addanto ti sitio a saan met a maitutop nga umobra. 
