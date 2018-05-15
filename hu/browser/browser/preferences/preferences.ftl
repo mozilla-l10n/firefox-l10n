@@ -720,6 +720,9 @@ collection-health-report =
     .label = Engedélyezés, hogy a { -brand-short-name } műszaki és interakciós adatokat küldjön a Mozillának
     .accesskey = E
 collection-health-report-link = További tudnivalók
+collection-studies =
+    .label = Engedélyezés, hogy a { -brand-short-name } tanulmányokat telepítsen és futasson
+collection-studies-link = { -brand-short-name } tanulmányok megtekintése
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Az adatjelentést letiltották ehhez a binárishoz
