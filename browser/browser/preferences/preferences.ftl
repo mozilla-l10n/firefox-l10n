@@ -729,6 +729,10 @@ history-remember-option =
     .label = Mijn navigatie- en downloadgeschiedenis onthouden
     .accesskey = v
 
+history-remember-browser-option =
+    .label = Navigatie- en downloadgeschiedenis onthouden
+    .accesskey = v
+
 history-remember-search-option =
     .label = Zoek- en formuliergeschiedenis onthouden
     .accesskey = f
