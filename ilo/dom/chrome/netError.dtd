@@ -10,7 +10,7 @@
 <!ENTITY connectionFailure.title "Napaay ti Panilpo">
 <!ENTITY connectionFailure.longDesc "<p>Though the site seems valid, the browser was unable to establish a connection.</p><ul><li>Could the site be temporarily unavailable? Try again later.</li><li>Are you unable to browse other sites?  Check the computer's network connection.</li><li>Is your computer or network protected by a firewall or proxy? Incorrect settings can interfere with Web browsing.</li></ul>">
 
-<!ENTITY deniedPortAccess.title "Port Restricted for Security Reasons">
+<!ENTITY deniedPortAccess.title "Matngel ti Siwal maipaay ti Panangsalaknib">
 <!ENTITY deniedPortAccess.longDesc "<p>The requested address specified a port (e.g. <q>mozilla.org:80</q> for port 80 on mozilla.org) normally used for purposes <em>other</em> than Web browsing. The browser has canceled the request for your protection and security.</p>">
 
 <!ENTITY dnsNotFound.title "Address Not Found">

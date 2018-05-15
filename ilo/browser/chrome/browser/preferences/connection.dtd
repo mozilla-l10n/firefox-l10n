@@ -6,40 +6,11 @@
 
 <!ENTITY  noProxyTypeRadio.label        "Awan ti proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY  port2.label                   "Siwal">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "P">
 <!ENTITY  SOCKSport.accesskey           "t">
-
-
 <!ENTITY  noproxyExplain.label          "Pagarigan: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Aramaten daytoy a proxy para iti amin a wagas">
 <!ENTITY  shareproxy.accesskey          "s">
-
-
-
