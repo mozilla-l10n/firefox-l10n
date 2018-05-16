@@ -209,7 +209,7 @@
 <!ENTITY pref_category_notifications_summary "కొత్త సౌలభ్యాలు, వెబ్‌సైటు తాజాకరణలు">
 <!ENTITY pref_category_notifications_summary2 "కొత్త విశేషాలు, ఉత్పత్తి చిట్కాలు">
 <!ENTITY pref_developer_remotedebugging_usb "USB ద్వారా రిమోట్ డీబగ్గింగ్">
-<!ENTITY pref_developer_remotedebugging_wifi "USB ద్వారా రిమోట్ డీబగ్గింగ్">
+<!ENTITY pref_developer_remotedebugging_wifi "వై-ఫై ద్వారా రిమోట్ డీబగ్గింగ్">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi డీబగ్గింగ్ ఒక QR కోడ్ రీడర్ అప్లికేషన్ ఇన్స్టాల్ చేయడానికి మీ పరికరం అవసరం.">
 <!ENTITY pref_remember_signons2 "ప్రవేశాలను గుర్తుంచుకో">
 <!ENTITY pref_manage_logins "ప్రవేశాలను నిర్వహించండి">
