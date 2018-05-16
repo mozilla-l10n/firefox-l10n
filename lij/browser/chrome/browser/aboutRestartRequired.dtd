@@ -5,5 +5,9 @@
 <!ENTITY restartRequired.title "Bezeugna che t'arvi torna">
 
 <!ENTITY restartRequired.header "Me spiaxe. Serve ancon 'na cösa picinn-a pe fonçionâ.">
+<!ENTITY restartRequired.description "
+<p>Niatro emmo instalou de fresco un agiornamento in background. Sciacca Arvi torna &brandShortName; pe finî st'instalaçion.</p>
+<p>Niatri repigiemo tutte e teu pagine, barcoin e feuggi dòppo, coscì ti pe continoâ a fate i fæti teu rapidamente.</p>
+">
 
 <!ENTITY restartButton.label "Arvi torna &brandShortName;">
