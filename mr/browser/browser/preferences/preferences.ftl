@@ -37,9 +37,17 @@ search-input-box =
             [windows] पर्यायांमध्ये शोधा
            *[other] प्राधान्यतांमध्ये शोधा
         }
+policies-notice =
+    { PLATFORM() ->
+        [windows] आपल्या संस्थेने काही पर्याय बदलण्याची क्षमता निष्क्रिय केली आहे.
+       *[other] आपल्या संस्थेने काही प्राधान्य बदलण्याची क्षमता निष्क्रिय केली आहे.
+    }
 pane-general-title = सर्वसाधारण
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = मुखपृष्ठ
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = शोधा
 category-search =
     .tooltiptext = { pane-search-title }
@@ -62,6 +70,7 @@ feature-enable-requires-restart = हे गुणविशेष सुरू �
 feature-disable-requires-restart = हे गुणविशेष बंद करण्याकरिता { -brand-short-name }ला पुन्हा सुरू करा.
 should-restart-title = { -brand-short-name }ला पुन्हा सुरू करा
 should-restart-ok = { -brand-short-name } लगेच पुनर्रारंभित करा
+cancel-no-restart-button = रद्द करा
 restart-later = नंतर पुनःसुरु करा
 
 ## Extension Control Notifications
@@ -321,9 +330,26 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = नवीन पटल आणि टॅब
+home-new-windows-tabs-description2 = आपले मुखपृष्ठ, नवीन पटल, आणि नवीन टॅब उघडल्यावर जे आपण बघता ते निवडा.
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = मुखपृष्ठ आणि नवीन पटल
+home-newtabs-mode-label = नवीन टॅब
+home-restore-defaults =
+    .label = पूर्वनिर्धारित स्थितित आणा
+    .accesskey = R
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Firefox मुखपृष्ठ (पूर्वनिर्धारित)
+home-mode-choice-custom =
+    .label = सानुकूलीत URLs... 
+home-mode-choice-blank =
+    .label = रिक्त पृष्ठ
+home-homepage-custom-url =
+    .placeholder = URL चिटकवा 
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -432,6 +458,9 @@ sync-signedin-login-failure = पुन्हा जोडणीकरिता 
 sync-resend-verification =
     .label = पडताळणी पुन्हा पाठवा
     .accesskey = d
+sync-remove-account =
+    .label = खाते काढा
+    .accesskey = R
 sync-sign-in =
     .label = साइन इन
     .accesskey = g
@@ -493,6 +522,9 @@ privacy-header = ब्राऊजर गोपनीयता
 ## Privacy Section - Forms
 
 forms-header = फॉर्म व पासवर्ड
+forms-ask-to-save-logins =
+    .label = संकेतस्थळासाठी लॉगिन आणि पासवर्ड साठवण्यासाठी विचारा
+    .accesskey = r
 forms-exceptions =
     .label = अपवाद…
     .accesskey = x
@@ -526,6 +558,7 @@ history-remember-option-never =
     .label = इतिहास कधीच लक्षात ठेवु नका
 history-remember-option-custom =
     .label = इतिहासा करीता मनपसंत संयोजना वापरा
+history-remember-description = { -brand-short-name } आपले ब्राउझिंग, डाउनलोड, फॉर्म आणि शोध इतिहास लक्षात ठेवेल.
 history-dontremember-description = { -brand-short-name } समान संयोजना खाजगी ब्राउझिंग म्हणून वापरतो, व वेब चाळतेवेळी कुठलाही इतिहास लक्षात ठेवत नाही.
 history-private-browsing-permanent =
     .label = नेहमी व्यक्तिगत ब्राउजिंग मोडचा वापर करा
@@ -542,10 +575,17 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = सेटिंग्ज…
     .accesskey = t
+history-clear-button =
+    .label = इतिहास पुसा...
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
+sitedata-header = कुकीज आणि साईट डेटा
 sitedata-learn-more = आणखी जाणा
+sitedata-accept-cookies-option =
+    .label = संकेतस्थळावरून कुकीज आणि साईट डेटा स्वीकारा (शिफारस).
+    .accesskey = A
 sitedata-keep-until = पर्यंत ठेवा
     .accesskey = u
 sitedata-accept-third-party-always-option =
