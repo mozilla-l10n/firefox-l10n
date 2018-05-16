@@ -354,6 +354,8 @@
 <!ENTITY customizeMenu.removeFromMenu.accesskey "U">
 <!ENTITY customizeMenu.addMoreItems.label "Dodaj więcej…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "w">
+<!ENTITY customizeMenu.autoHideDownloadsButton.label "Automatyczne ukrywanie na pasku narzędzi">
+<!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
 
 <!ENTITY moreMenu.label "Więcej">
 
