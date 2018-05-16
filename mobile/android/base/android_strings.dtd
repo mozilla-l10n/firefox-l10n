@@ -207,6 +207,7 @@
 <!ENTITY pref_category_advanced_summary3 "टॅब्स, प्लगइन, विकसक साधने मूळस्थितीत आणा">
 <!ENTITY pref_category_notifications "सूचना">
 <!ENTITY pref_category_notifications_summary "नवीन वैशिष्ट्ये, वेबसाइट अद्ययावत">
+<!ENTITY pref_category_notifications_summary2 "नवीन वैशिष्ट्ये, उत्पादन सल्ले">
 <!ENTITY pref_developer_remotedebugging_usb "USB द्वारे दूरस्थ डीबगिंग">
 <!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi द्वारे दूरस्थ डीबगिंग">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi डीबगिंगसाठी आपल्या उपकरणामधे QR कोड वाचक असणे आवश्यक आहे.">
@@ -281,6 +282,13 @@
 
 <!ENTITY pref_whats_new_notification "&brandShortName; मध्ये काय नविन आहे">
 <!ENTITY pref_whats_new_notification_summary "सुधारणा केल्या नंतरच्या नवीन वैशिष्ट्यांबद्दल जाणून घ्या">
+
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!ENTITY pref_feature_tips_notification "उत्पादन आणि वैशिष्ट्य सल्ले">
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+<!ENTITY pref_feature_tips_notification_summary "&brandShortName; आणि &vendorShortName; उत्पादने वापरण्याबद्दल आणखी जाणा">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
@@ -422,7 +430,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; स्वास्थ्य अहवाल">
 <!ENTITY datareporting_fhr_summary2 "आपल्या ब्राउझरच्या स्वास्थ्याबद्दल &vendorShortName; सोबत माहिती शेअर करतो आणि आपणाला आपल्या ब्राउझरची कामगिरी समझण्यासाठी मदत करतो">
-<!ENTITY datareporting_abouthr_title "माझा आरोग्य अहवाल बघा">
 <!ENTITY datareporting_telemetry_title "दूरमापन">
 <!ENTITY datareporting_telemetry_summary "आपल्या ब्राउझरची कामगिरी, प्रयोग, हार्डवेअर आणि स्वपसंती माहिती &vendorShortName; सोबत शेअर करुन &brandShortName; अधिक चांगल बनवण्यासाठी आम्हाला मदत करतो">
 <!ENTITY datareporting_crashreporter_summary "&vendorShortName;ला तुमचे ब्राउझर अधिक स्थिर व सुरक्षित बनवण्यास मदतीसाठी &brandShortName; क्रॅश अहवाल दाखल करतो">
@@ -537,7 +544,7 @@
 <!ENTITY pref_compact_tabs_summary2 "पोर्ट्रेट मोड च्या दोन स्तंभांमध्ये टॅब मांडा">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
-     any page is removed frome about:home. This includes pages that are in history,
+     any page is removed from about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "पान काढले गेले">
 <!ENTITY folder_removed "फोल्डर काढले">
@@ -752,7 +759,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "या आधिचा ताळमेळ:&formatS;">
-<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!-- Localization note: Used when the sync has not happened yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "शेवटचा ताळमेळ: कधीच नाही">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
