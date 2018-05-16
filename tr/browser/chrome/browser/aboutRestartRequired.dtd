@@ -4,5 +4,10 @@
 
 <!ENTITY restartRequired.title "Yeniden başlatma gerekiyor">
 
+<!ENTITY restartRequired.header "Kusura bakmayın, devam etmeden önce küçük bir işimiz daha var.">
+<!ENTITY restartRequired.description "
+<p>Arka planda bir güncelleme yükledik. Güncellemeyi uygulamak için “&brandShortName; yeniden başlatılsın”a tıklayın.</p>
+<p>Güncellemeden sonra hemen işlerinize devam edebilmeniz için tüm sayfalarınızı, pencereleri ve sekmeleri geri yükleyeceğiz.</p>
+">
 
 <!ENTITY restartButton.label "&brandShortName; yeniden başlasın">
