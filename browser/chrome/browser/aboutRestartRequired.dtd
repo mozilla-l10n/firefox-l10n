@@ -4,5 +4,6 @@
 
 <!ENTITY restartRequired.title "Omstart kreves">
 
+<!ENTITY restartRequired.header "Beklager. Vi trenger bare å gjøre en liten ting for å fortsette.">
 
 <!ENTITY restartButton.label "Start &brandShortName; på nytt">
