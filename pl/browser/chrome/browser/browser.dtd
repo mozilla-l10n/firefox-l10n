@@ -799,6 +799,12 @@
 <!ENTITY homepageControlled.disableButton.label "Wyłącz rozszerzenie">
 <!ENTITY homepageControlled.disableButton.accesskey "W">
 
+<!ENTITY tabHideControlled.header.message "Ukryte karty">
+<!ENTITY tabHideControlled.keepButton.label "Ukrywaj karty">
+<!ENTITY tabHideControlled.keepButton.accesskey "U">
+<!ENTITY tabHideControlled.disableButton.label "Wyłącz rozszerzenie">
+<!ENTITY tabHideControlled.disableButton.accesskey "W">
+
 <!ENTITY pageActionButton.tooltip "Interakcje">
 <!ENTITY pageAction.addToUrlbar.label "Dodaj do paska adresu">
 <!ENTITY pageAction.removeFromUrlbar.label "Usuń z paska adresu">
