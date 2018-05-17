@@ -2,6 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY restartRequired.title "Потрібен перезапуск">
 
 <!ENTITY restartRequired.header "Вибачте. Нам залишилося зробити лише одну невеличку річ, щоб продовжити роботу.">
+<!ENTITY restartRequired.description "
+<p>Поки ви займалися своїми справами, ми встановили оновлення. Натисніть Перезапустити &brandShortName; для застосування змін.</p>
+<p>Після цього ми відновимо всі ваші сторінки, вікна і вкладки, щоб ви швидко могли продовжити роботу.</p>
+">
 
+<!ENTITY restartButton.label "Перезапустити &brandShortName;">
