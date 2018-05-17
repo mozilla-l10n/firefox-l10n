@@ -527,6 +527,9 @@ privacy-header = Prevezted ar merdeer
 ## Privacy Section - Forms
 
 forms-header = Furmskridoù & Gerioù-tremen
+forms-ask-to-save-logins =
+    .label = Goulenn enrollañ an titouroù kennaskañ evit al lec'hiennoù 
+    .accesskey = G
 forms-exceptions =
     .label = Nemedennoù…
     .accesskey = m
@@ -709,6 +712,9 @@ collection-health-report =
     .label = Aotren { -brand-short-name } da gas roadennoù teknikel hag etrewerzhañ da v{ -vendor-short-name }
     .accesskey = A
 collection-health-report-link = Gouzout hiroc'h
+collection-studies =
+    .label = Aotren { -brand-short-name } da staliañ ha lañsañ studiadennoù
+collection-studies-link = Gwelout studiadennoù { -brand-short-name }
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Diweredekaet eo an danevelliñ roadennoù evit kefluniadur ar c'hempunadur-mañ

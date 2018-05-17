@@ -61,6 +61,8 @@ can reach it easily. -->
 <!ENTITY  closeTab.label                     "Serriñ an ivinell">
 <!ENTITY  closeTab.accesskey                 "e">
 
+<!ENTITY  hiddenTabs.label                   "Ivinell kuzh">
+
 <!ENTITY  listAllTabs.label      "Roll an holl ivinelloù">
 
 <!ENTITY tabCmd.label "Ivinell nevez">
@@ -127,7 +129,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Diskouez an holl ivinelloù">
 <!ENTITY showAllTabsCmd.accesskey "a">
 <!ENTITY toggleReaderMode.key "R">
-
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "En em gennaskañ ouzh &syncBrand.shortName.label;">
@@ -187,10 +188,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Sinedoù all">
 <!ENTITY mobileBookmarksCmd.label "Sinedoù hezoug">
 <!ENTITY bookmarksToolbarChevron.tooltip "Diskouez meur a sined">
-<!ENTITY showRecentlyBookmarked.label     "Diskouez ar sinedoù nevez">
-<!ENTITY showRecentlyBookmarked.accesskey "D">
-<!ENTITY hideRecentlyBookmarked.label     "Kuzhat ar sinedoù nevez">
-<!ENTITY hideRecentlyBookmarked.accesskey "K">
 
 <!ENTITY backCmd.label                "Kent">
 <!ENTITY backCmd.accesskey            "K">
@@ -222,6 +219,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Kadavin roadennoù er c'hadaviñ diastal">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Reoliet a-bell eo ar merdeer">
 
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Ardeiñ rannadur ho kamera ha/pe ho mikrofon gant al lec'hienn">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Ardeiñ rannadur ho mikrofon gant al lec'hienn">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Ardeiñ rannadur ho prenestr pe ho skramm gant al lec'hienn">
@@ -230,7 +228,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Treiñ ar bajenn-mañ">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Ardeiñ troidigezh ar bajenn">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Ardeiñ an arver meziantoù DRM">
-
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Digeriñ ar penel MIDI">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Stanket ho peus ho kamera evit al lec'hienn-mañ.">
@@ -241,7 +238,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Stanket ho peus ar c'hadaviñ diastal evit al lec'hienn-mañ.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Stanket hoc'h eus an diflugelloù evit al lec'hienn-mañ.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Stanket ho peus eztennadur ar roadennoù ar steuenn.">
-
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Difennet ho peus al lec'hienn-mañ da arverañ an enlugellad Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Stanket ho peus an haeziñ MIDI evit al lec'hienn-mañ.">
 
@@ -268,7 +264,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addBookmarksMenu.label             "Ouzhpennañ lañser ar sinedoù er varrenn ostilhoù">
 <!ENTITY removeBookmarksMenu.label          "Lemel kuit lañser ar sinedoù diouzh ar varrenn ostilhoù">
 
-<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 <!ENTITY bookmarksGtkCmd.commandkey "o">
@@ -299,6 +295,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY inspectContextMenu.label     "Ensellout an elfenn">
 <!ENTITY inspectContextMenu.accesskey "E">
+
 
 <!ENTITY fileMenu.label         "Restr">
 <!ENTITY fileMenu.accesskey       "R">
@@ -385,11 +382,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Gweredekait goubredañ an ivinelloù evit gwelout ur roll ivinelloù eus ho trevnadoù all.">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Fellout a ra deoc'h gwelout ivinelloù ho trevnadoù all amañ?">
-<!ENTITY appMenuRemoteTabs.openprefs.label "Gwellvezioù goubredañ">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Digeriñ gwellvezioù Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Kennaskit da welet ur roll ivinelloù eus ho trevnadoù all">
 <!ENTITY appMenuRemoteTabs.unverified.label "Ret eo gwiriekaat ho kont.">
@@ -431,6 +427,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "Ouzhpennañ muioc'h a elfennoù…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "m">
 
+
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
@@ -438,7 +435,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Bizskrivit un termen da glask pe ur chomlec'h">
-<!ENTITY urlbar.placeholder3          "Enankit gerioù klask ha chomlec'hioù amañ">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Askouezh:">
@@ -982,16 +978,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "D">
 <!ENTITY updateRestart.panelUI.label2 "Adloc'hit evit hizivaat &brandShorterName;">
 
-<!ENTITY newTabControlled.message "Kemmet eo bet gant un askouezh ar bajenn a welit pa tigorit un ivinell nevez. Gallout a rit he atoriñ en arventennoù.">
-
 <!ENTITY newTabControlled.header.message "Kemmet eo bet pajenn an ivinell nevez.">
 <!ENTITY newTabControlled.keepButton.label "Mirout ar c'hemmoù">
 <!ENTITY newTabControlled.keepButton.accesskey "M">
-<!ENTITY newTabControlled.restoreButton.label "Atoriñ an arventennoù">
-<!ENTITY newTabControlled.restoreButton.accesskey "A">
-
 <!ENTITY newTabControlled.disableButton.label "Diweredekaat an askouezh">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
+
+
 
 <!ENTITY pageActionButton.tooltip "Gweredoù ar bajenn">
 <!ENTITY pageAction.addToUrlbar.label "Ouzhpennañ d'ar varenn chomlec'h">
@@ -1002,6 +995,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "Kas an ivinell d'an trevnad">
 <!ENTITY sendToDevice.syncNotReady.label "Trevnadoù o c'houbredañ...">
+
 
 <!ENTITY libraryButton.tooltip "Gwelout ar roll istor, ar sinedoù enrollet ha muioc'h c'hoazh">
 
