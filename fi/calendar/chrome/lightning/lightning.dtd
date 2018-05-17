@@ -47,6 +47,8 @@
      lightning.calendarproperties.forceEmailScheduling.tooltiptext2)
      - tooltiptext1 is used in the calendar wizard when setting a new caldav calendar
      - tooltiptext2 is used in the calendar properties dialog for caldav calendars -->
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext1     "Voit ottaa tämän ominaisuuden käyttöön kalenterin asentamisen jälkeen sallimalla ominaisuuden kalenterin ominaisuusikkunassa, jos palvelin tukee ajastamista.">
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext2     "Tämä asetus on käytettävissä vain, jos kalenteripalvelin tukee ajastamista. Ominaisuuden salliminen palauttaa ajastamisen sähköpostipohjaiseen ajastukseen palvelimen suorittaman ajastuksen sijaan.">
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Hyväksy">
@@ -83,6 +85,7 @@
 
 <!ENTITY lightning.imipbar.btnSend.label                                    "Lähetä vastaus nyt">
 <!ENTITY lightning.imipbar.btnSend.tooltiptext                              "Lähetä vastaus järjestäjälle">
+<!ENTITY lightning.imipbar.btnSendSeries.tooltiptext                        "Lähetä vastaus kaikille järjestäjille">
 <!ENTITY lightning.imipbar.btnDontSend.label                                "Älä lähetä vastausta">
 <!ENTITY lightning.imipbar.btnDontSend.tooltiptext                          "Muuta osallistumistilaasi ilman vastauksen lähettämistä tapahtuman järjestäjälle">
 <!ENTITY lightning.imipbar.btnDontSendSeries.tooltiptext                    "Muuta osallistumistilaasi ilman vastauksen lähettämistä tapahtumasarjan järjestäjälle">
