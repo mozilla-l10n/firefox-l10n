@@ -429,6 +429,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "Дадаць больш элементаў…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "Д">
 
+<!ENTITY customizeMenu.autoHideDownloadsButton.label "Аўтаматычна хаваць на паліцы прылад">
+<!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "А">
+
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
