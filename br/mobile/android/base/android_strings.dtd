@@ -207,6 +207,7 @@
 <!ENTITY pref_category_advanced_summary3 "Assav an ivinelloù, esperner roadennoù, ostilhoù diorroer">
 <!ENTITY pref_category_notifications "Rebuziñ">
 <!ENTITY pref_category_notifications_summary "Keweriusterioù nevez, hizivadennoù lec\&apos;hienn">
+<!ENTITY pref_category_notifications_summary2 "Keweriusterioù nevez, tunioù evit ar meziant">
 <!ENTITY pref_developer_remotedebugging_usb "Diveugañ a-bell dre USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Diveugañ a-bell dre Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Rankout a rit kaout un arload evit lenn bonegoù QR a-benn arverañ an diveugañ dre Wi-Fi.">
@@ -281,6 +282,13 @@
 
 <!ENTITY pref_whats_new_notification "Petra nevez e &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Gouzout hiroc\&apos;h a-zivout ar c\&apos;heweriusterioù nevez goude un hizivadenn">
+
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!ENTITY pref_feature_tips_notification "Tunioù meziant ha keweriusterioù">
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+<!ENTITY pref_feature_tips_notification_summary "Deskit hiroc\&apos;h a-zivout arverañ &brandShortName; hag aozadoù all &vendorShortName;">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
@@ -422,7 +430,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "Danevell yec\&apos;hed &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "Rannañ a ra roadennoù gant &vendorShortName; diwar-benn yec\&apos;hed ho merdeer ha skoazellañ ac\&apos;hanoc\&apos;h da gompren digonusted ho merdeer.">
-<!ENTITY datareporting_abouthr_title "Gwelout ma danevell a-fet yec\&apos;hed">
 <!ENTITY datareporting_telemetry_title "Telemetry">
 <!ENTITY datareporting_telemetry_summary "Rannañ a ra roadennoù a-fet digonusted, arver, periant ha personelaat gant &vendorShortName; evit skoazellañ ac\&apos;hanomp gwellaat &brandShortName;">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; a dreuzkas danevelloù sac\&apos;hadenn evit skoazellañ &vendorShortName; lakaat ho merdeer da vezañ stabiloc\&apos;h ha diogeloc\&apos;h.">
@@ -537,7 +544,7 @@
 <!ENTITY pref_compact_tabs_summary2 "Aozañ an ivinelloù e daou vann e mod poltred">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
-     any page is removed frome about:home. This includes pages that are in history,
+     any page is removed from about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Pajenn dilamet">
 <!ENTITY folder_removed "Teuliad dilamet">
@@ -752,7 +759,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Goubredañ diwezhañ : &formatS;">
-<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!-- Localization note: Used when the sync has not happened yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Goubredañ diwezhañ : morse">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
