@@ -21,6 +21,7 @@
 <!ENTITY playSoundMac.accesskey           "ä">
 <!ENTITY showAnimatedAlert.label          "Näytä hälytys">
 <!ENTITY showAnimatedAlert.accesskey      "ä">
+<!ENTITY notificationAlertSettings2.label "Ilmoitukset ja oletusääni voidaan poistaa käytöstä Asetukset-ikkunan Ilmoitukset-paneelissa.">
 <!ENTITY customizeMailAlert.label         "Muokkaa…">
 <!ENTITY customizeMailAlert.accesskey     "M">
 

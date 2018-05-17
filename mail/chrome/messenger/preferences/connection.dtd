@@ -42,5 +42,6 @@
 <!ENTITY  shareproxy.accesskey          "m">
 <!ENTITY  autologinproxy.label          "Älä pyydä tunnistautumista, jos salasana on tallennettu">
 <!ENTITY  autologinproxy.accesskey      "p">
+<!ENTITY  autologinproxy.tooltip        "Tämä asetus kirjaa sinut automaattisesti välityspalvelimiin, jos olet tallentanut niiden kirjautumistiedot. Jos kirjautuminen epäonnistuu, sinua tiedotetaan asiasta.">
 <!ENTITY  socksRemoteDNS.label          "Välipalvelimen DNS käytettäessä SOCKS v5:tä">
 <!ENTITY  socksRemoteDNS.accesskey      "D">
