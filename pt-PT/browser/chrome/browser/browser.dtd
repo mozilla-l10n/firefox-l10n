@@ -995,7 +995,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.disableButton.label "Desativar extensão">
 <!ENTITY homepageControlled.disableButton.accesskey "D">
 
-<!ENTITY tabHideControlled.header.message "Aceder aos seus separadores ocultados">
+<!ENTITY tabHideControlled.header.message "Aceda aos seus separadores ocultados">
 <!ENTITY tabHideControlled.keepButton.label "Manter separadores ocultados">
 <!ENTITY tabHideControlled.keepButton.accesskey "M">
 <!ENTITY tabHideControlled.disableButton.label "Desativar extensão">
