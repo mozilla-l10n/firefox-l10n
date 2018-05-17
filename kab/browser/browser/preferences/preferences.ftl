@@ -591,6 +591,9 @@ sitedata-total-size-calculating = Asiḍen n teɣzi n isefka akked tuγzi n tuff
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Tskelseḍ inagan n tuqna,isefka n usmel akked  tuffirt seqdacen akka tura { $value } { $unit } seg adeg n tallunt n tkatut.
 sitedata-learn-more = Lmed ugar
+sitedata-accept-cookies-option =
+    .label = Qbel inagan n tuqqna d yisefka n usmel seg yismal (yelha)
+    .accesskey = Q
 sitedata-block-cookies-option =
     .label = Sewḥel inagan n tuqna akked isefka n usmel (izmer ad yiṛez ismal web)
     .accesskey = B
@@ -598,6 +601,8 @@ sitedata-keep-until = Ḥrez arma
     .accesskey = l
 sitedata-keep-until-expire =
     .label = Ad mten
+sitedata-keep-until-closed =
+    .label = Amdal n { -brand-short-name }
 sitedata-accept-third-party-desc = Qbel inagan n tuqna tis kraḍ akked isefka n ismal
     .accesskey = y
 sitedata-accept-third-party-always-option =
@@ -705,6 +710,9 @@ collection-health-report =
     .label = Sireg { -brand-short-name } ad yazen isefka itiknikanen ɣer { -vendor-short-name }
     .accesskey = r
 collection-health-report-link = Lmed ugar
+collection-studies =
+    .label = Sireg { -brand-short-name } ad yessebded sakin ad isenker tizrawin
+collection-studies-link = Wali tizrawin n { -brand-short-name }
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Aneqqis n isefka ur irmid ara i uswel-a n usefsu
