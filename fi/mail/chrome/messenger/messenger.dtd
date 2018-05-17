@@ -517,9 +517,13 @@
 <!ENTITY devToolboxCmd.commandkey "y">
 <!ENTITY debugAddonsCmd.label "Virheenkorjaa lisäosia">
 <!ENTITY debugAddonsCmd.accesskey "l">
+<!ENTITY tabsDebugCmd.label "Sisältökehyksen virheenkorjaus">
+<!ENTITY tabsDebugCmd.accesskey "k">
 <!ENTITY errorConsoleCmd.label "Virhekonsoli">
 <!ENTITY errorConsoleCmd.accesskey "V">
 <!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY scratchpadCmd.label "Muistio">
+<!ENTITY scratchpadCmd.accesskey "M">
 
 <!--LOCALIZATION NOTE (scratchpadCmd.keycode):
     This should be a key code constant as per
@@ -791,6 +795,7 @@
 <!ENTITY contextCopyMsgMenu.label "Kopioi kansioon">
 <!ENTITY contextCopyMsgMenu.accesskey "K">
 <!ENTITY contextKillThreadMenu.label "Ohita viestiketju">
+<!ENTITY contextKillSubthreadMenu.accesskey "a">
 <!ENTITY contextKillThreadMenu.accesskey "O">
 <!ENTITY contextKillSubthreadMenu.label "Ohita alaviestiketju">
 <!ENTITY contextWatchThreadMenu.label "Tarkkaile viestiketjua">
@@ -798,6 +803,7 @@
      In the en-US locale we ran out of access keys, so there is an empty access key for
      Watch Thread. Localizers can pick a suitable key
   -->
+<!ENTITY contextWatchThreadMenu.accesskey "">
 <!ENTITY contextSaveAs.label "Tallenna nimellä…">
 <!ENTITY contextSaveAs.accesskey "n">
 <!ENTITY contextPrint.label "Tulosta…">
