@@ -532,7 +532,7 @@
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-<!ENTITY pref_scroll_title_bar2 "การท่องเว็บแบบเต็มจอ">
+<!ENTITY pref_scroll_title_bar2 "การท่องเว็บแบบเต็มหน้าจอ">
 <!ENTITY pref_scroll_title_bar_summary2 "ซ่อนแถบเครื่องมือ &brandShortName; เมื่อเลื่อนหน้าลงมา">
 
 <!ENTITY pref_tab_queue_title3 "คิวแท็บ">
