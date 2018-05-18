@@ -708,6 +708,9 @@ collection-health-report =
     .label = อนุญาตให้ { -brand-short-name } ส่งข้อมูลทางเทคนิคและการโต้ตอบไปยัง { -vendor-short-name }
     .accesskey = อ
 collection-health-report-link = เรียนรู้เพิ่มเติม
+collection-studies =
+    .label = อนุญาตให้ { -brand-short-name } ติดตั้งและเรียกใช้การศึกษา
+collection-studies-link = ดูการศึกษาของ { -brand-short-name }
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = การรายงานข้อมูลถูกปิดใช้งานสำหรับการกำหนดค่าการสร้างนี้
