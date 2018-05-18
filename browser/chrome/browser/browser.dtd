@@ -357,14 +357,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoMenu.label "File închise recent">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Ferestre închise recent">
-<!ENTITY historyRestoreLastSession.label "Restabilește sesiunea anterioară">
+<!ENTITY historyRestoreLastSession.label "Restaurează sesiunea anterioară">
 
 <!ENTITY showAllHistoryCmd2.label "Afișează tot istoricul">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Afișează tot istoricul">
 <!ENTITY appMenuHistory.clearRecent.label "Șterge istoricul recent…">
-<!ENTITY appMenuHistory.restoreSession.label "Restabilește sesiunea anterioară">
+<!ENTITY appMenuHistory.restoreSession.label "Restaurează sesiunea anterioară">
 <!ENTITY appMenuHistory.viewSidebar.label "Vezi bara laterală cu istoricul">
 <!ENTITY appMenuHistory.recentHistory.label "Istoric recent">
 <!ENTITY appMenuHelp.label "Ajutor">
