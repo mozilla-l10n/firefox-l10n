@@ -60,7 +60,8 @@
   <li> कृपया यो समस्याको जानकारी गराउन वेबसाइट धनीलाई सम्पर्क गर्नुहोस् ।</li></ul>">
 
 <!ENTITY unsafeContentType.title "असुरक्षित फाइल प्रकार">
-<!ENTITY unsafeContentType.longDesc "<ul> <li>कृपया यो समस्याको जानकारी गराउन वेबसाइट धनीलाई सम्पर्क गर्नुहोस्।</li> </ul>">
+<!ENTITY unsafeContentType.longDesc "<ul>
+  <li> कृपया यो समस्याको जानकारी गराउन वेबसाइट धनीलाई सम्पर्क गर्नुहोस् ।</li></ul>">
 
 <!ENTITY netReset.title "यो जडान रिसेट भएको थियो">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
@@ -84,7 +85,9 @@
 <!ENTITY redirectLoop.longDesc "<ul> <li>यो समस्या कहिले कहिँ उत्पन्न हुनुको कारण कुकिज अक्षम गारिएको वा स्वीकार्न नसकिएकोले गर्दा हुने गर्दछ।</li> </ul>">
 
 <!ENTITY unknownSocketType.title "सर्भरबाट अनपेक्षित प्रतिक्रिया">
-<!ENTITY unknownSocketType.longDesc "<ul> <li>तपाईँको प्रणालीमा व्यक्तिगत सुरक्षा प्रबन्धक छ भनेर सुनिश्चित गर्न जाँच गर्नुहोस्।</li> <li>यस्तो हुनुको कारण सर्भरमा गैर मानक कन्फिगरेसनले गर्दा हुन सक्दछ।</li> </ul>">
+<!ENTITY unknownSocketType.longDesc "<ul>
+  <li>तपाईँको प्रणालीमा व्यक्तिगत सुरक्षा प्रबन्धक स्थापित छ भनेर सुनिश्चित गर्न जाँच गर्नुहोस् ।</li>
+  <li> सर्भरमा भएको गैर मानक कन्फिगरेसनको कारण यस्तो हुन सक्छ ।</li></ul>">
 
 <!ENTITY nssFailure2.title "सुरक्षित जडान असफल भयो">
 <!ENTITY nssFailure2.longDesc2 "<ul>
