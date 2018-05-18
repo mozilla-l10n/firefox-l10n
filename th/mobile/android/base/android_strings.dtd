@@ -183,10 +183,10 @@
 <!ENTITY pref_category_accessibility "การช่วยการเข้าถึง">
 <!ENTITY pref_category_accessibility_summary2 "ขนาดข้อความ, ซูม, การรับค่าด้วยเสียง">
 <!ENTITY pref_category_privacy_short "ความเป็นส่วนตัว">
-<!ENTITY pref_category_privacy_summary4 "การติดตาม, การเข้าสู่ระบบ, ตัวเลือกข้อมูล">
+<!ENTITY pref_category_privacy_summary4 "การติดตาม, การเข้าสู่ระบบ, ทางเลือกข้อมูล">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "เกี่ยวกับ &brandShortName;, คำถามที่พบบ่อย, ข้อคิดเห็น">
-<!ENTITY pref_category_datareporting "ตัวเลือกข้อมูล">
+<!ENTITY pref_category_datareporting "ทางเลือกข้อมูล">
 <!ENTITY pref_category_logins "การเข้าสู่ระบบ">
 <!ENTITY pref_learn_more "เรียนรู้เพิ่มเติม">
 <!ENTITY pref_category_installed_search_engines "เครื่องมือค้นหาที่ติดตั้งไว้">
