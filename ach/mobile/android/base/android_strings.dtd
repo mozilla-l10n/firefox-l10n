@@ -207,6 +207,7 @@
 <!ENTITY pref_category_advanced_summary3 "Dwok dirica matino, lagwok data, gitic pa ludiro">
 <!ENTITY pref_category_notifications "Jami angeya">
 <!ENTITY pref_category_notifications_summary "Jami manyen, ngec manyen me kakube">
+<!ENTITY pref_category_notifications_summary2 "Jami manyen, ngec pi jami">
 <!ENTITY pref_developer_remotedebugging_usb "Nongo bal ki iyi USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Nongo bal ki iyi Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Nongo bal ki iyi Wi-Fi mito ni nyonyo ni obed ki purugram me kwano kod me QR.">
