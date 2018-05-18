@@ -66,9 +66,9 @@
 <!ENTITY  historyHeader.custom.label       "Va folosi setări personalizate pentru istoric">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription1.label      "&brandShortName; va memora istoricul navigării, descărcărilor, formularelor și căutărilor.">
+<!ENTITY  rememberDescription1.label      "&brandShortName; îți va memora istoricul navigării, descărcărilor, formularelor și căutărilor.">
 
-<!ENTITY  dontrememberDescription.label  "&brandShortName; va folosi aceleași setări ca navigarea privată și nu va memora niciun istoric pe măsură ce navighezi pe web.">
+<!ENTITY  dontrememberDescription.label  "&brandShortName; va folosi aceleași setări ca navigarea privată și nu va memora istoricul în timp ce navighezi pe web.">
 
 <!ENTITY  clearHistoryButton.label       "Șterge istoricul…">
 <!ENTITY  clearHistoryButton.accesskey   "s">
@@ -76,7 +76,7 @@
 <!ENTITY  privateBrowsingPermanent2.label "Folosește mereu modul de navigare privată">
 <!ENTITY  privateBrowsingPermanent2.accesskey "m">
 
-<!ENTITY  rememberHistory2.label      "Memorează istoricul navigării și al descărcărilor">
+<!ENTITY  rememberHistory2.label      "Memorează-mi istoricul navigării și al descărcărilor">
 <!ENTITY  rememberHistory2.accesskey  "g">
 
 <!ENTITY  rememberSearchForm.label       "Memorează istoricul formularelor și al căutărilor">
