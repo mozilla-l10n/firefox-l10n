@@ -47,7 +47,8 @@
 <!ENTITY netOffline.longDesc3 "<ul> <li>फेरी प्रयास गर्नुहोस्। &brandShortName; ले पेज जडान सुरु गर्न र पुनः लोड गर्न प्रयास गर्ने छ। <button id='wifi'>Wi-Fi सक्षम गर्नुहोस</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "सामग्री संकेतीकरण त्रुटी">
-<!ENTITY contentEncodingError.longDesc "<ul> <li>कृपया यो समस्याको जानकारी गराउन वेबसाइट धनीलाई सम्पर्क गर्नुहोस्।</li> </ul>">
+<!ENTITY contentEncodingError.longDesc "<ul>
+  <li> कृपया यो समस्याको जानकारी गराउन वेबसाइट धनीलाई सम्पर्क गर्नुहोस् ।</li></ul>">
 
 <!ENTITY unsafeContentType.title "असुरक्षित फाइल प्रकार">
 <!ENTITY unsafeContentType.longDesc "<ul>
