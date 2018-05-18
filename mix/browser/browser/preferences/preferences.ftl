@@ -27,6 +27,8 @@ category-home =
 pane-search-title = Nda tuku
 category-search =
     .tooltiptext = { pane-search-title }
+category-privacy =
+    .tooltiptext = { pane-privacy-title }
 category-sync =
     .tooltiptext = { pane-sync-title }
 focus-search =
@@ -125,6 +127,9 @@ sync-device-name-save =
 
 ## Privacy Section - History
 
+history-clear-button =
+    .label = Stoo ña ntsinu
+    .accesskey = S
 
 ## Privacy Section - Site Data
 
