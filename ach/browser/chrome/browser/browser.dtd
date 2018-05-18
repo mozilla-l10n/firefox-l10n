@@ -60,6 +60,7 @@ can reach it easily. -->
 <!ENTITY  closeTab.label                     "Lor dirica matidi">
 <!ENTITY  closeTab.accesskey                 "L">
 
+<!ENTITY  hiddenTabs.label                   "Dirica matino ma okane">
 
 <!ENTITY  listAllTabs.label      "Rwe dirica matino weng">
 
@@ -126,7 +127,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Nyut dirica matino weng">
 <!ENTITY showAllTabsCmd.accesskey "w">
 <!ENTITY toggleReaderMode.key "R">
-
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "Dony iyie &syncBrand.shortName.label;">
@@ -186,10 +186,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Alamabuk Mukene">
 <!ENTITY mobileBookmarksCmd.label "Alamabuk me cing">
 <!ENTITY bookmarksToolbarChevron.tooltip "Nyut alama buk mukene">
-<!ENTITY showRecentlyBookmarked.label     "Nyut ma kiketo alamabuk cokki">
-<!ENTITY showRecentlyBookmarked.accesskey "t">
-<!ENTITY hideRecentlyBookmarked.label     "kan ma kiketo Alama me buk kombedi">
-<!ENTITY hideRecentlyBookmarked.accesskey "k">
 
 <!ENTITY backCmd.label                "Cen">
 <!ENTITY backCmd.accesskey            "C">
@@ -228,7 +224,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Kob pot buk man">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Lo kobo potbuk">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Lo tic ki purugram me DRM">
-
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Yab dirica me MIDI">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Igengo woko lamak cal mamegi pi kakube man.">
@@ -236,7 +231,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.screenBlocked.tooltip            "Igengo woko kakube man me nywako wang kio mamegi">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Igengo woko ngec me kabedo pi kakube man.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Igengo woko jami angeya pi kakube man.">
-
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Igengo woko kakube man me tic ki larwak me Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "I gengo woko nongo MIDI pi kakube man.">
 
@@ -385,7 +379,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "imito neno dirica matino ki nyonyo mukene?">
-<!ENTITY appMenuRemoteTabs.openprefs.label "Ter me rib">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Dony iyie me neno nying dirica matino ki i nyonyo ni mukene.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Myero ki mok ada pa akaunt mamegi.">
 <!ENTITY appMenuRemoteTabs.signin.label "Dony iyie me ribo">
@@ -425,6 +418,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromMenu.accesskey "K">
 <!ENTITY customizeMenu.addMoreItems.label "Med jami mukene…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "M">
+
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -964,19 +958,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "P">
 <!ENTITY updateRestart.panelUI.label2 "Nwo cako me keto ngec manyen i &brandShorterName;">
 
-<!ENTITY newTabControlled.message "Lamed mo oloko potbuk ma ineno ka iyabo Dirica Matidi Manyen. Itwero dwoko ter mamegi kace pe imito alokaloka man.">
-
 <!ENTITY newTabControlled.header.message "Dirica matidi ni manyen olokke.">
 <!ENTITY newTabControlled.keepButton.label "Gwok alokaloka">
-<!ENTITY newTabControlled.restoreButton.label "Dwok ter">
-<!ENTITY newTabControlled.restoreButton.accesskey "D">
+<!ENTITY newTabControlled.disableButton.label "Juk lamed">
+<!ENTITY newTabControlled.disableButton.accesskey "K">
 
-
+<!ENTITY homepageControlled.message "Lamed mo oloko ngo ma ineno calo potbuk me acakki mamegi. Itwero dwoko ter mamegi kace pe imito alokaloka man.">
 <!ENTITY homepageControlled.header.message "Potbukki me acakki oloke oko.">
 <!ENTITY homepageControlled.keepButton.label "Gwok alokaloka">
 <!ENTITY homepageControlled.keepButton.accesskey "K">
 <!ENTITY homepageControlled.disableButton.label "Juk lamed">
 <!ENTITY homepageControlled.disableButton.accesskey "J">
+
+<!ENTITY tabHideControlled.header.message "Nong dirica matino mamegi ma okane">
+<!ENTITY tabHideControlled.keepButton.label "Gwok dirica matino ma okane">
+<!ENTITY tabHideControlled.keepButton.accesskey "K">
+<!ENTITY tabHideControlled.disableButton.label "Juk lamed">
+<!ENTITY tabHideControlled.disableButton.accesskey "K">
 
 <!ENTITY pageActionButton.tooltip "Jami atima me potbuk">
 <!ENTITY pageAction.addToUrlbar.label "Medi i Lanyut me kanonge">
