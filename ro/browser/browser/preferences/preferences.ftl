@@ -287,7 +287,7 @@ update-application-check-choose =
     .accesskey = C
 update-application-manual =
     .label = Să nu caute niciodată actualizări (nerecomandat)
-    .accesskey = n
+    .accesskey = N
 update-application-use-service =
     .label = Folosește un serviciu în fundal pentru a instala actualizări
     .accesskey = b
@@ -566,7 +566,7 @@ history-header = Istoric
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label = { -brand-short-name }:
+history-remember-label = { -brand-short-name }
     .accesskey = w
 history-remember-option-all =
     .label = Va memora istoricul
