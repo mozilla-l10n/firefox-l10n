@@ -723,6 +723,9 @@ collection-health-report =
     .label = Дазволіць { -brand-short-name } адпраўляць тэхнічныя звесткі і звесткі ўзаемадзеяння ў { -vendor-short-name }
     .accesskey = к
 collection-health-report-link = Даведацца больш
+collection-studies =
+    .label = Дазволіць { -brand-short-name } усталёўваць і выконваць даследаванні
+collection-studies-link = Прагляд даследаванняў { -brand-short-name }
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Адпраўка дадзеных адключана для гэтай канфігурацыі зборкі
