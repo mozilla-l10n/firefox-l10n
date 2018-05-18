@@ -496,7 +496,7 @@ sync-engine-logins =
 sync-engine-addresses =
     .label = Adresler
     .tooltiptext = Kaydettiğiniz posta adresleri (yalnızca masaüstü)
-    .accesskey = e
+    .accesskey = A
 sync-engine-creditcards =
     .label = Kredi kartları
     .tooltiptext = Adlar, numaralar ve son kullanma tarihleri (yalnızca masaüstü)
@@ -504,7 +504,7 @@ sync-engine-creditcards =
 sync-engine-addons =
     .label = Eklentiler
     .tooltiptext = Masaüstü Firefox eklentileri ve temaları
-    .accesskey = E
+    .accesskey = t
 sync-engine-prefs =
     .label =
         { PLATFORM() ->
@@ -512,7 +512,7 @@ sync-engine-prefs =
            *[other] Tercihler
         }
     .tooltiptext = Değiştirdiğiniz Genel, Gizlilik ve Güvenlik ayarları
-    .accesskey = T
+    .accesskey = e
 sync-device-name-header = Cihaz adı
 sync-device-name-change =
     .label = Cihaz adını değiştir…
@@ -720,6 +720,8 @@ collection-health-report =
     .label = { -brand-short-name }, teknik ve etkileşim verilerimi { -vendor-short-name }’ya gönderebilir
     .accesskey = r
 collection-health-report-link = Daha fazla bilgi al
+collection-studies =
+    .label = { -brand-short-name }, araştırmalar yükleyip çalıştırabilir
 collection-studies-link = { -brand-short-name } araştırmalarını göster
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
