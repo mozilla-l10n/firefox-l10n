@@ -15,4 +15,4 @@
 <!ENTITY languages.customize.selectLanguage.label       "राख्नलाई भाषा छनोट गर्नुहोस ">
 <!ENTITY languages.customize.addButton.label            "थप्नुहोस्">
 <!ENTITY languages.customize.addButton.accesskey        "A">
-
+<!ENTITY languages.customize.spoofEnglish               "गोपानियता बढाउन वेब पेजहरूको अङ्ग्रेजी संस्करणको माग गर्नुहोस् ।">
