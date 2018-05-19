@@ -850,6 +850,7 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_delete_history "Náxitá-má nuu sɨ´ɨ nsá´ánu">
 
 <!ENTITY private_tab_panel_title "Nánuku yu´u + kumi noo´o nkuntada-ja noo´o">
+<!ENTITY private_tab_panel_description "&brandShortName; Chiyu´u daa página nita noo´o saa nánukunu.">
 <!ENTITY private_tab_panel_description2 "Naa daa nnánukunu, soma daa archivu nxinuun jii daa jiia sɨ´ɨ koo nuu ka̱a̱-nu.">
 <!ENTITY private_tab_learn_more "¿A kuvinu kutu´va-ka?">
 
