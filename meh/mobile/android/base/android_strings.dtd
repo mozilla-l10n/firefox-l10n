@@ -19,6 +19,7 @@
 <!ENTITY firstrun_data_subtext2 "Xina´va tutu nátava saa nnɨ´ɨ datos-nu ntaka ichi yɨ´ɨ-nu nuu iin sitio web.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "Kajie´e nuu nkinonu.">
+<!ENTITY firstrun_sync_subtext2 "Ni´i Sync saa nani´inu a ta´a inininu, contraseñas jii inka nantiñu chuva´anu nuu &brandShortName; ntaka daa ka̱a̱.">
 <!ENTITY firstrun_signin_message "Kivu, kajie´e">
 <!ENTITY firstrun_signin_button "Kivu Sync">
 <!ENTITY  onboard_start_button_browser "Kajie´e nánuku">
@@ -500,10 +501,14 @@
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
+<!ENTITY contextmenu_pin_to_top_sites "Tee ya´a nuu daa vii">
+<!ENTITY contextmenu_unpin_from_top_sites "Xita ya´a nuu daa a vii">
 <!ENTITY contextmenu_add_search_engine "Chisó iin ka̱a̱ nánuku">
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
      after the user pins/unpins the currently displayed page from top sites. -->
+<!ENTITY pinned_page_to_top_sites "Ntee página nuu daa vii">
+<!ENTITY unpinned_page_from_top_sites "Nxita página nuu daa vii">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
