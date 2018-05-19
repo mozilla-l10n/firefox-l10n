@@ -129,7 +129,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Rodyti visas korteles">
 <!ENTITY showAllTabsCmd.accesskey "k">
 <!ENTITY toggleReaderMode.key "R">
-
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "Jungtis prie „&syncBrand.shortName.label;“">
@@ -189,10 +188,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Kiti adresai">
 <!ENTITY mobileBookmarksCmd.label "Mobilusis adresynas">
 <!ENTITY bookmarksToolbarChevron.tooltip "Kiti adresai">
-<!ENTITY showRecentlyBookmarked.label     "Rodyti paskiausiai įtrauktus į adresyną">
-<!ENTITY showRecentlyBookmarked.accesskey "o">
-<!ENTITY hideRecentlyBookmarked.label     "Slėpti paskiausiai įtrauktus į adresyną">
-<!ENTITY hideRecentlyBookmarked.accesskey "l">
 
 <!ENTITY backCmd.label                "Atgal">
 <!ENTITY backCmd.accesskey            "A">
@@ -234,7 +229,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Išversti šį tinklalapį">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Tvarkyti tinklalapio vertimą">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Tvarkyti DRM programinės įrangos naudojimą">
-
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Atverti MIDI polangį">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Šioje svetainėje esate užblokavę savo kamerą.">
@@ -245,7 +239,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Šioje svetainėje esate užblokavę išliekančių duomenų saugojimą.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Šioje svetainėje esate užblokavę iškylančiuosius langus.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Šioje svetainėje esate užblokavę drobės duomenų išgavimą.">
-
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Šioje svetainėje esate užblokavę „Adobe Flash“ papildinio naudojimą.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Šioje svetainėje esate užblokavę MIDI naudojimą.">
 
@@ -395,7 +388,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Norite čia matyti savo korteles iš kitų įrenginių?">
-<!ENTITY appMenuRemoteTabs.openprefs.label "Sinchronizavimo nuostatos">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Atverti sinchronizavimo nuostatas">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Prisijunkite, norėdami peržiūrėti kituose įrenginiuose esančias korteles.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Jūsų paskyra turi būti patvirtinta.">
@@ -437,6 +429,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "Pridėti daugiau elementų…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "d">
 
+<!ENTITY customizeMenu.autoHideDownloadsButton.label "Priemonių juostoje slėpti automatiškai">
+<!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "a">
+
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
@@ -444,7 +439,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Įveskite adresą arba paieškos žodžius">
-<!ENTITY urlbar.placeholder3          "Veskite paieškos žodžius ir adresus čia">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Priedas:">
@@ -988,14 +982,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Perleiskite, norėdami atnaujinti „&brandShorterName;“">
 
-<!ENTITY newTabControlled.message "Kažkuris priedas pakeitė tinklalapį, matomą atvėrus naują kortelę. Jei nenorite šio pakeitimo, galite atkurti savo nuostatas.">
-
 <!ENTITY newTabControlled.header.message "Pasikeitė jūsų nauja kortelė.">
 <!ENTITY newTabControlled.keepButton.label "Palikti pakeitimus">
 <!ENTITY newTabControlled.keepButton.accesskey "k">
-<!ENTITY newTabControlled.restoreButton.label "Atkurti nuostatas">
-<!ENTITY newTabControlled.restoreButton.accesskey "r">
-
 <!ENTITY newTabControlled.disableButton.label "Išjungti priedą">
 <!ENTITY newTabControlled.disableButton.accesskey "I">
 
@@ -1005,6 +994,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.keepButton.accesskey "k">
 <!ENTITY homepageControlled.disableButton.label "Išjungti priedą">
 <!ENTITY homepageControlled.disableButton.accesskey "j">
+
+<!ENTITY tabHideControlled.header.message "Pasiekite paslėptas korteles">
+<!ENTITY tabHideControlled.keepButton.label "Korteles laikyti paslėptas">
+<!ENTITY tabHideControlled.keepButton.accesskey "K">
+<!ENTITY tabHideControlled.disableButton.label "Išjungti priedą">
+<!ENTITY tabHideControlled.disableButton.accesskey "g">
 
 <!ENTITY pageActionButton.tooltip "Tinklalapio veiksmai">
 <!ENTITY pageAction.addToUrlbar.label "Pridėti į adreso lauką">

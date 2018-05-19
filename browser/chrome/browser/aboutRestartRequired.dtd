@@ -1,0 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY restartRequired.title "Reikia paleisti iš naujo">
+
+<!ENTITY restartRequired.header "Atsiprašome. Mums reikia atlikti vieną nedidelį darbą, kad galėtume tęsti.">
+<!ENTITY restartRequired.description "<p>Mes ką tik fone įdiegėme atnaujinimą. Spustelėkite „Perleisti „&brandShortName;“, kad jis būtų užbaigtas.</p>
+<p>Mes atkursime visus atvertus tinklalapius, langus, ir korteles, tad iškart grįšite ten, kur buvote.</p>">
+
+<!ENTITY restartButton.label "Perleisti „&brandShortName;“">
