@@ -351,6 +351,8 @@
 
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
+<!ENTITY pref_use_system_font_size "Ni´i kua vaji daa tu´un">
+<!ENTITY pref_use_system_font_size_summary "Sa´a ka´nu tu´un web kua vaji nuu tu´un ka̱a̱">
 
 <!ENTITY pref_media_autoplay_enabled "Kuvi kajie´e ntu´un">
 <!ENTITY pref_media_autoplay_enabled_summary "Kumi dee kuvi daa sitios web kajie´e ntu´un daa videos a xiin daa inka-ka contenidos a xiin multimedia.">
@@ -362,6 +364,7 @@
 <!ENTITY pref_qrcode_enabled_summary2 "Kua´a kuvi nakuaxin daa códigos QR nuu barra dirección">
 
 <!ENTITY pref_use_master_password "Ni´i contraseña maestra">
+<!ENTITY pref_sync_default_title "Cuenta Firefox">
 <!ENTITY pref_sync2 "Kajie´e sesión">
 <!ENTITY pref_sync_summary2 "Saa sincronizar daa pestañas, a ta´a ini noo´o, nuu kajie´e sesión, sɨ´ɨ">
 <!ENTITY pref_search_suggestions "Xituvi daa sugerencias a nanuku">
