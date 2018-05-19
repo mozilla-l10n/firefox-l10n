@@ -145,6 +145,9 @@ startup-blank-page =
     .label = rodyti tuščią puslapį
 startup-prev-session =
     .label = atverti paskiausio seanso langus ir korteles
+startup-restore-previous-session =
+    .label = Atkurti paskiausiąjį seansą
+    .accesskey = r
 disable-extension =
     .label = Išjungti priedą
 home-page-header = Pradžios tinklalapis
@@ -720,6 +723,9 @@ collection-health-report =
     .label = Leisti „{ -brand-short-name }“ siųsti techninius ir naudojimosi duomenis „{ -vendor-short-name }i“
     .accesskey = t
 collection-health-report-link = Sužinoti daugiau
+collection-studies =
+    .label = Leisti „{ -brand-short-name }“ diegti ir atlikti tyrimus
+collection-studies-link = Peržiūrėti „{ -brand-short-name }“ tyrimus
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Duomenų siuntimas šiai darinio sąrankai yra išjungtas
