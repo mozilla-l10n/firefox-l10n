@@ -46,19 +46,10 @@
 
 <!ENTITY  feedTab               "ਫੀਡ">
 <!ENTITY  feedTab.accesskey     "F">
-<!ENTITY  feedSubscribe         "ਮੈਂਬਰੀ">
-<!ENTITY  feedSubscribe.accesskey "u">
 
 <!ENTITY  permTab               "ਅਧਿਕਾਰ">
 <!ENTITY  permTab.accesskey     "P">
-<!ENTITY  permUseDefault        "ਡਿਫਾਲਟ ਵਰਤੋਂ">
-<!ENTITY  permAskAlways         "ਹਮੇਸ਼ਾ ਪੁੱਛੋ">
-<!ENTITY  permAllow             "ਮਨਜ਼ੂਰ">
-<!ENTITY  permAllowSession      "ਸ਼ੈਸ਼ਨ ਲਈ ਮਨਜ਼ੂਰ ਕਰੋ">
-<!ENTITY  permHide              "ਲੁਕਾਓ">
-<!ENTITY  permBlock             "ਪਾਬੰਦੀ ਲਾਓ">
 <!ENTITY  permissionsFor        "ਅਧਿਕਾਰ:">
-<!ENTITY  permPlugins           "ਪਲੱਗਇਨ ਐਕਟੀਵੇਟ ਕਰੋ">
 
 <!ENTITY  securityTab           "ਸੁਰੱਖਿਆ">
 <!ENTITY  securityTab.accesskey "S">
@@ -78,6 +69,8 @@
 <!ENTITY  securityView.privacy.cookies                  "ਕੀ ਇਸ ਵੈੱਬ ਸਾਇਟ ਨੇ ਮੇਰੇ ਕੰਪਿਊਟਰ ਉੱਤੇ ਜਾਣਕਾਰੀ (ਕੂਕੀਜ਼) ਸਟੋਰ ਕੀਤੀ ਹੈ?">
 <!ENTITY  securityView.privacy.viewCookies              "ਕੂਕੀਜ਼ ਵੇਖੋ">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.clearSiteData            "ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟੇ ਨੂੰ ਸਾਫ਼ ਕਰੋ">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "C">
 <!ENTITY  securityView.privacy.passwords                "ਕੀ ਇਸ ਵੈੱਬ ਸਾਇਟ ਲਈ ਮੈਂ ਕੋਈ ਪਾਸਵਰਡ ਸੰਭਾਲੇ ਹਨ?">
 <!ENTITY  securityView.privacy.viewPasswords            "ਸੰਭਾਲੇ ਪਾਸਵਰਡ ਵੇਖੋ">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
