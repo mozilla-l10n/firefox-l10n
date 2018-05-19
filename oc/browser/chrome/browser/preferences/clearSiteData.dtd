@@ -6,7 +6,7 @@
 <!ENTITY window.width                 "35em">
 
 
-<!ENTITY clearSiteData.label          "Cookies e donadas dels sites">
+<!ENTITY clearSiteData.label          "Cookies e donadas de sites">
 <!ENTITY clearSiteData.accesskey      "s">
 <!ENTITY clearSiteData.description    "Seretz benlèu desconnectat dels sites web s’escafetz aquestas donadas">
 

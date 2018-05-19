@@ -46,6 +46,6 @@ site-data-removing-window =
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = Suprimir
-site-data-removing-header = Supression dels cookies e donadas dels sites
+site-data-removing-header = Supression dels cookies e de lasdonadas dels sites
 site-data-removing-desc = La supression dels cookies e de las donadas dels sites pòdon vos desconnectar. Volètz vertadièrament aplicar aquestas modificacions ?
 site-data-removing-table = Los cookies e las donadas ligats als sites seguents seràn suprimits
