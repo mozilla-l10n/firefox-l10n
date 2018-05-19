@@ -5,9 +5,9 @@
 <!ENTITY aboutAddons.title2                     "תוספות">
 <!ENTITY aboutAddons.header2                    "התוספות שלך">
 
-<!ENTITY addonAction.enable                     "הפעל">
-<!ENTITY addonAction.disable                    "נטרל">
-<!ENTITY addonAction.uninstall                  "הסר">
+<!ENTITY addonAction.enable                     "הפעלה">
+<!ENTITY addonAction.disable                    "ניטרול">
+<!ENTITY addonAction.uninstall                  "הסרת התקנה">
 <!ENTITY addonAction.undo                       "ביטול">
 <!ENTITY addonAction.update                     "עדכון">
 

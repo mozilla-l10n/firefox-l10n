@@ -70,7 +70,7 @@
 
 <!ENTITY url_bar_default_text2 "נא להזין ביטוי לחיפוש או כתובת">
 
-<!ENTITY bookmark "סימניה">
+<!ENTITY bookmark "הוספה לסימניות">
 <!ENTITY bookmark_remove "מחיקת סימניה">
 <!ENTITY bookmark_added "נוספה סימניה">
 <!-- Localization note (bookmark_already_added) : This string is
@@ -100,7 +100,7 @@
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
-<!ENTITY reader_switch_to_bookmarks "החלפה">
+<!ENTITY reader_switch_to_bookmarks "מעבר">
 
 <!ENTITY history_today_section "היום">
 <!ENTITY history_yesterday_section "אתמול">
@@ -207,6 +207,7 @@
 <!ENTITY pref_category_advanced_summary3 "שחזור לשוניות, חסכון בתעבורת נתונים, כלי פיתוח">
 <!ENTITY pref_category_notifications "התרעות">
 <!ENTITY pref_category_notifications_summary "תכונות חדשות, עדכוני אתרים">
+<!ENTITY pref_category_notifications_summary2 "תכונות חדשות, טיפים למוצר">
 <!ENTITY pref_developer_remotedebugging_usb "ניפוי שגיאות מרחוק דרך USB">
 <!ENTITY pref_developer_remotedebugging_wifi "ניפוי שגיאות מרחוק דרך Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "ניפוי שגיאות דרך רשת אלחוטית דורש שבהתקן שלך יותקן יישומון לקריאת קודים מסוג QR.">
@@ -297,7 +298,7 @@
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 <!ENTITY pref_custom_tabs2 "לשוניות מותאמות אישית">
-<!ENTITY pref_custom_tabs_summary4 "לאפשר ליישומונים לפתוח תוכן מקוון בלשונית מותאמת אישית עם טעינה מהירה.">
+<!ENTITY pref_custom_tabs_summary4 "לאפשר ליישומונים לפתוח תוכן מקוון בלשונית מותאמת אישית עם טעינה מהירה">
 
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
@@ -314,7 +315,7 @@
 <!ENTITY tracking_protection_prompt_tip_text "נא לעבור אל הגדרות הפרטיות למידע נוסף">
 <!ENTITY tracking_protection_prompt_action_button "הבנתי!">
 
-<!ENTITY tab_queue_toast_message3 "הלשונית נשמרה ב־&brandShortName;">
+<!ENTITY tab_queue_toast_message3 "לשונית נשמרה ב־&brandShortName;">
 <!ENTITY tab_queue_toast_action "פתיחה כעת">
 <!ENTITY tab_queue_prompt_title "האם לפתוח קישורים מרובים?">
 <!ENTITY tab_queue_prompt_text4 "שמירה עד לפתיחה הבאה של &brandShortName;.">
@@ -383,8 +384,8 @@
 <!ENTITY pref_private_data_history2 "היסטוריית גלישה">
 <!ENTITY pref_private_data_searchHistory "היסטוריית חיפוש">
 <!ENTITY pref_private_data_formdata2 "היסטוריית טפסים">
-<!ENTITY pref_private_data_cookies2 "עוגיות וכניסות פעילות">
-<!ENTITY pref_private_data_passwords2 "כניסות שמורות">
+<!ENTITY pref_private_data_cookies2 "עוגיות והתחברויות פעילות">
+<!ENTITY pref_private_data_passwords2 "התחברויות שמורות">
 <!ENTITY pref_private_data_cache "מטמון">
 <!ENTITY pref_private_data_offlineApps "נתוני אתרים לא מקוונים">
 <!ENTITY pref_private_data_siteSettings2 "הגדרות אתר">
@@ -431,7 +432,7 @@
 <!ENTITY datareporting_fhr_summary2 "משתף נתונים עם &vendorShortName; על בריאות הדפדפן ועוזר לך להבין את ביצועי הדפדפן שלך">
 <!ENTITY datareporting_telemetry_title "Telemetry">
 <!ENTITY datareporting_telemetry_summary "משתף מידע על ביצועים, חומרה, שימוש והתאמות אישיות על הדפדפן שלך עם &vendorShortName; כדי לסייע לנו בשיפור &brandShortName;">
-<!ENTITY datareporting_crashreporter_summary "&brandShortName; שולח דיווחי קריסות כדי לעזור ל־&vendorShortName; להפוך את הדפדפן שלך ליציב ובטוח יותר">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; שולח דיווחי קריסות כדי לעזור ל־&vendorShortName; להפוך את הדפדפן שלך ליציב ומאובטח יותר">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "מדווח הקריסות">
@@ -514,7 +515,7 @@
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
      after the user pins/unpins the currently displayed page from top sites. -->
 <!ENTITY pinned_page_to_top_sites "הדף הוצמד לאתרים המובילים">
-<!ENTITY unpinned_page_from_top_sites "העמוד נותק מהאתרים המובילים">
+<!ENTITY unpinned_page_from_top_sites "בוטלה הצמדה של הדף מהאתרים המובילים">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -629,8 +630,8 @@
 
 <!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
     a site is pinned or unpinned. -->
-<!ENTITY home_pinned_site "אתר מוצמד">
-<!ENTITY home_unpinned_site "אתר שאינו מוצמד">
+<!ENTITY home_pinned_site "האתר הוצמד">
+<!ENTITY home_unpinned_site "בוטלה ההצמדה של האתר">
 
 <!ENTITY remote_tabs_panel_moved_title "לאן נעלמו הלשוניות שלי?">
 <!ENTITY remote_tabs_panel_moved_desc "העברנו את הלשוניות שלך מההתקנים הנוספים לחלונית בעמוד הבית שלך אליה ניתן לגשת בקלות עם כל פתיחת לשונית חדשה.">
