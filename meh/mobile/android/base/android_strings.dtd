@@ -394,6 +394,7 @@
 <!ENTITY pref_dialog_set_default "Tee kua predeterminado">
 <!ENTITY pref_dialog_default "Predeterminado">
 <!ENTITY pref_dialog_remove "Xita">
+<!ENTITY pref_dialog_activitystream_header_content "Tu´un nnachiso">
 <!ENTITY pref_dialog_activitystream_visited "Nne´ya">
 
 <!ENTITY pref_search_last_toast "Nkuvi xita a xiin saa deshabilitar motor a nanuku tu´u.">
@@ -484,6 +485,8 @@
 <!ENTITY contextmenu_open_new_tab "Síne nuu iin pestaña jíía">
 <!ENTITY contextmenu_open_private_tab "Síne nuu iin pestaña yu´u">
 <!ENTITY contextmenu_remove "Xita">
+<!ENTITY contextmenu_add_page_shortcut "Tee iin página nuu kajie´e">
+<!ENTITY contextmenu_set_as_homepage "Tee kua tutu xina ñu´un">
 <!ENTITY contextmenu_share "Kua´a">
 <!ENTITY contextmenu_pasteandgo "Tee jee kuán´án">
 <!ENTITY contextmenu_paste "Tee">
@@ -801,6 +804,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY unsupported_sdk_version "¡Nei koo ini-nu! &brandShortName; nsatiñu nuu ka̱a̱ ya´a (&formatS1;, &formatS2;). Dee va´a ininu, xinuu iin versión ka̱a̱ iyo vatu.">
 
 <!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
+<!ENTITY corrupt_apk "Ntu nkuvi sine &brandShortName;. Nachu\&apos;un tuku jee nakajie´e.">
 
 <!ENTITY eol_notification_title2 "&brandShortName; nsa actualizar-ka">
 <!ENTITY eol_notification_summary "Kɨ´ɨ saa kuvi nɨ´ɨnu kue´e-ka kuninu">
