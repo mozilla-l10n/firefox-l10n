@@ -219,6 +219,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Kadavin roadennoù er c'hadaviñ diastal">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Reoliet a-bell eo ar merdeer">
 
+<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Digeriñ ar banell anaouadur web">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Ardeiñ rannadur ho kamera ha/pe ho mikrofon gant al lec'hienn">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Ardeiñ rannadur ho mikrofon gant al lec'hienn">
@@ -427,6 +428,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "Ouzhpennañ muioc'h a elfennoù…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "m">
 
+<!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -984,6 +986,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Diweredekaat an askouezh">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
+<!ENTITY homepageControlled.keepButton.accesskey "K">
+<!ENTITY homepageControlled.disableButton.label "Diweredekaat an askouezh">
+<!ENTITY homepageControlled.disableButton.accesskey "D">
 
 
 <!ENTITY pageActionButton.tooltip "Gweredoù ar bajenn">
