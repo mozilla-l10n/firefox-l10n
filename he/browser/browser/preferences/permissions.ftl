@@ -51,7 +51,7 @@ permissions-invalid-uri-label = אנא הכנס שם מארח חוקי
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-tracking-protection-window =
-    .title = חריגות – הגנת מעקב
+    .title = חריגות - הגנת מעקב
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = ביטלת את הגנת המעקב באתרים אלו.
 
