@@ -402,6 +402,7 @@
 <!ENTITY pref_dialog_default "Predeterminado">
 <!ENTITY pref_dialog_remove "Xita">
 <!ENTITY pref_dialog_activitystream_header_content "Tu´un nnachiso">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "A ta´a ini noo´o skuata ntee">
 <!ENTITY pref_dialog_activitystream_visited "Nne´ya">
 
 <!ENTITY pref_search_last_toast "Nkuvi xita a xiin saa deshabilitar motor a nanuku tu´u.">
@@ -539,6 +540,8 @@
 
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
+<!ENTITY pref_compact_tabs "Sá´á luli pestañas">
+<!ENTITY pref_compact_tabs_summary2 "Tee pestañas nuu uvi columnas">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed from about:home. This includes pages that are in history,
