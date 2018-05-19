@@ -428,6 +428,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "Ouzhpennañ muioc'h a elfennoù…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "m">
 
+<!ENTITY customizeMenu.autoHideDownloadsButton.label "Kuzhat ar varrenn ostilhoù ent emgefreek">
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
@@ -986,10 +987,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Diweredekaat an askouezh">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
+<!ENTITY homepageControlled.message "Kemmet eo bet ar pezh a welit war ho pennbajenn gant un askouezh. Gallout a rit assav hoc'h arventennoù ma ne fell ket deoc'h ar c'hemm-se.">
+<!ENTITY homepageControlled.header.message "Kemmet eo bet ho pennbajenn.">
+<!ENTITY homepageControlled.keepButton.label "Mirout ar c'hemmoù">
 <!ENTITY homepageControlled.keepButton.accesskey "K">
 <!ENTITY homepageControlled.disableButton.label "Diweredekaat an askouezh">
 <!ENTITY homepageControlled.disableButton.accesskey "D">
 
+<!ENTITY tabHideControlled.header.message "Haeziñ hoc'h ivinelloù kuzh">
+<!ENTITY tabHideControlled.keepButton.label "Derc'hel an ivinelloù kuzhet">
+<!ENTITY tabHideControlled.keepButton.accesskey "D">
+<!ENTITY tabHideControlled.disableButton.label "Diweredekaat an askouezhioù">
+<!ENTITY tabHideControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "Gweredoù ar bajenn">
 <!ENTITY pageAction.addToUrlbar.label "Ouzhpennañ d'ar varenn chomlec'h">
@@ -1001,6 +1010,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.sendTabToDevice.label "Kas an ivinell d'an trevnad">
 <!ENTITY sendToDevice.syncNotReady.label "Trevnadoù o c'houbredañ...">
 
+<!ENTITY pageAction.shareUrl.label "Rannañ">
 
 <!ENTITY libraryButton.tooltip "Gwelout ar roll istor, ar sinedoù enrollet ha muioc'h c'hoazh">
 

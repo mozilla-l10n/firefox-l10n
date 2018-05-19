@@ -178,6 +178,22 @@ browser-containers-settings =
     .label = Arventennoù…
     .accesskey = v
 containers-disable-alert-title = Serriñ an holl ivinelloù endalc'her?
+containers-disable-alert-desc =
+    { $tabCount ->
+        [one] Ma ziweredekait an ivinelloù endalc'her bremañ e vo serret { $tabCount } ivinell endalc'her. Sur oc'h e fell deoc'h diweredekaat an ivinelloù endalc'her?
+        [two] Ma ziweredekait an ivinelloù endalc'her bremañ e vo serret { $tabCount } ivinell endalc'her. Sur oc'h e fell deoc'h diweredekaat an ivinelloù endalc'her?
+        [few] Ma ziweredekait an ivinelloù endalc'her bremañ e vo serret { $tabCount } ivinell endalc'her. Sur oc'h e fell deoc'h diweredekaat an ivinelloù endalc'her?
+        [many] Ma ziweredekait an ivinelloù endalc'her bremañ e vo serret { $tabCount } a ivinelloù endalc'her. Sur oc'h e fell deoc'h diweredekaat an ivinelloù endalc'her?
+       *[other] Ma ziweredekait an ivinelloù endalc'her bremañ e vo serret { $tabCount } ivinell endalc'her. Sur oc'h e fell deoc'h diweredekaat an ivinelloù endalc'her?
+    }
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] Serriñ { $tabCount } ivinell endalc'her
+        [two] Serriñ { $tabCount } ivinell endalc'her
+        [few] Serriñ { $tabCount } ivinell endalc'her
+        [many] Serriñ { $tabCount } a ivinelloù endalc'her
+       *[other] Serriñ { $tabCount } ivinell endalc'her
+    }
 containers-disable-alert-cancel-button = Leuskel gweredekaet
 containers-remove-alert-title = Lemel an endalc'had kuit?
 # Variables:
@@ -337,6 +353,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Prenestroù hag ivinelloù nevez
+home-new-windows-tabs-description2 = Dibabit petra vo gwelet ganeoc'h pa vezot o tigeriñ ho pennbajenn, prenestroù, pe ivinelloù nevez.
 
 ## Home Section - Home Page Customization
 

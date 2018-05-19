@@ -46,19 +46,10 @@
 
 <!ENTITY  feedTab               "Lanvioù">
 <!ENTITY  feedTab.accesskey     "n">
-<!ENTITY  feedSubscribe         "Koumanantiñ">
-<!ENTITY  feedSubscribe.accesskey "K">
 
 <!ENTITY  permTab               "Aotreoù">
 <!ENTITY  permTab.accesskey     "t">
-<!ENTITY  permUseDefault        "Arverañ an arventennoù dre ziouer">
-<!ENTITY  permAskAlways         "Goulenn bewech">
-<!ENTITY  permAllow             "Aotren">
-<!ENTITY  permAllowSession      "Aotren evit an estez">
-<!ENTITY  permHide              "Kuzhat">
-<!ENTITY  permBlock             "Herzel">
 <!ENTITY  permissionsFor        "Aotreoù evit :">
-<!ENTITY  permPlugins           "Gweredekaat an enlugelladoù">
 
 <!ENTITY  securityTab           "Diogelroez">
 <!ENTITY  securityTab.accesskey "g">
@@ -78,6 +69,9 @@
 <!ENTITY  securityView.privacy.cookies                  "Hag al lec'hienn-mañ a vefe o kadaviñ roadennoù (toupinoù) war ma urzhiataer ?">
 <!ENTITY  securityView.privacy.viewCookies              "Gwelout an toupinoù">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "o">
+<!ENTITY  securityView.privacy.siteData                 "Daoust hag emañ al lec'hienn-mañ o kadaviñ titouroù war ma urzhiataer?">
+<!ENTITY  securityView.privacy.clearSiteData            "Skarzhañ an toupinoù ha roadennoù lec'hienn">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "S">
 <!ENTITY  securityView.privacy.passwords                "Ur ger-tremen am eus enrollet evit al lec'hienn-mañ ?">
 <!ENTITY  securityView.privacy.viewPasswords            "Gwelout ar gerioù-tremen bet enrollet">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "g">
