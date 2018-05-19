@@ -19,7 +19,7 @@ clear-site-data-cookies-with-data =
 # or the same as clear-site-data-cookies-with-data (except the amount and unit),
 # to avoid flickering.
 clear-site-data-cookies-empty =
-    .label = Cookies e donadas dels sites
+    .label = Cookies e donadas de sites
     .accesskey = s
 clear-site-data-cookies-info = Seretz benlèu desconnectat dels sites web s’escafetz aquestas donadas
 # The parameters in parentheses in this string describe disk usage
