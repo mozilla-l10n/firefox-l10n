@@ -720,6 +720,9 @@ collection-health-report =
     .label = האם לאפשר ל־{ -brand-short-name } לשלוח אל { -vendor-short-name } מידע טכני ופעולות שבוצעו בדפדפן
     .accesskey = ד
 collection-health-report-link = מידע נוסף
+collection-studies =
+    .label = לאפשר ל־{ -brand-short-name } להתקין ולהריץ מחקרים
+collection-studies-link = הצגת המחקרים של { -brand-short-name }
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = דיווח נתונים מנוטרל עבור תצורת בנייה זו

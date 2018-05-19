@@ -54,3 +54,5 @@
 <!ENTITY aboutNetworking.rcwnAvgShort          "ממוצע קצר">
 <!ENTITY aboutNetworking.rcwnAvgLong           "ממוצע ארוך">
 <!ENTITY aboutNetworking.rcwnStddevLong        "סטיית תקן ארוכה">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "ספירת אטיות במטמון">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "ספירת חוסר אטיות במטמון">
