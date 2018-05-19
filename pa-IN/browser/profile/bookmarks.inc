@@ -7,10 +7,14 @@
 # your locale code, and link to your translated pages as soon as they're
 # live.
 
+#define bookmarks_title ਬੁੱਕਮਾਰਕ
+#define bookmarks_heading ਬੁੱਕਮਾਰਕ
 
+#define bookmarks_toolbarfolder ਬੁੱਕਮਾਰਕ ਟੂਲ-ਪੱਟੀ ਫੋਲਡਰ
 
 # LOCALIZATION NOTE (getting_started):
 # link title for https://www.mozilla.org/en-US/firefox/central/
+#define getting_started ਸ਼ੁਰੂਆਤ ਕਰੋ
 
 # LOCALIZATION NOTE (firefox_heading):
 # Firefox links folder name
@@ -18,18 +22,23 @@
 
 # LOCALIZATION NOTE (firefox_help):
 # link title for https://www.mozilla.org/en-US/firefox/help/
+#define firefox_help ਮਦਦ ਅਤੇ ਸਿੱਖਣ ਲਈ ਜਾਣਕਾਰੀ
 
 # LOCALIZATION NOTE (firefox_customize):
 # link title for https://www.mozilla.org/en-US/firefox/customize/
+#define firefox_customize ਫਾਇਰਫਾਕਸ ਨੂੰ ਮਨ ਮੁਤਾਬਕ ਬਣਾਓ
 
 # LOCALIZATION NOTE (firefox_community):
 # link title for https://www.mozilla.org/en-US/contribute/
+#define firefox_community ਹਿੱਸਾ ਬਣੋ
 
 # LOCALIZATION NOTE (firefox_about):
 # link title for https://www.mozilla.org/en-US/about/
+#define firefox_about ਸਾਡੇ ਬਾਰੇ
 
 # LOCALIZATION NOTE (nightly_heading):
 # Firefox Nightly links folder name
+#define nightly_heading ਫਾਇਰਫਾਕਸ ਨਾਈਟਲੀ ਸਰੋਤ
 
 # LOCALIZATION NOTE (nightly_blog):
 # Nightly builds only, link title for https://blog.nightly.mozilla.org/

@@ -26,4 +26,5 @@
 <!ENTITY tabCrashed.emailPlaceholder "ਆਪਣਾ ਈਮੇਲ ਪਤਾ ਇੱਥੇ ਦਿਓ">
 <!ENTITY tabCrashed.emailMe "ਜਦੋਂ ਹੋਰ ਜਾਣਕਾਰੀ ਮੌਜੂਦ ਹੋਵੇ ਤਾਂ ਮੈਨੂੰ ਸੂਚਨਾ ਦਿਓ">
 <!ENTITY tabCrashed.reportSent "ਕਰੈਸ਼ ਰਿਪੋਰਟ ਭੇਜੀ ਜਾ ਚੁੱਕੀ ਹੈ; &brandShortName; ਨੂੰ ਹੋਰ ਵਧੀਆ ਬਣਾਉਣ ਲਈ ਮਦਦ ਵਾਸਤੇ ਤੁਹਾਡਾ ਧੰਨਵਾਦ ਹੈ!">
+<!ENTITY tabCrashed.requestAutoSubmit2 "ਬੈਕਗਰਾਊਂਡ ਟੈਬਾਂ ਬਾਰੇ ਜਾਣਕਾਰੀ ਦਿਓ">
 <!ENTITY tabCrashed.autoSubmit3 "ਜਦੋਂ &brandShortName; ਕਰੈਸ਼ ਹੋਵੇ ਤਾਂ ਆਪਣੇ-ਆਪ ਰਿਪੋਰਟਾਂ ਭੇਜਣ ਲਈ ਪਸੰਦ ਨੂੰ ਅੱਪਡੇਟ ਕਰੋ।">
