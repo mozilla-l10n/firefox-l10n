@@ -92,6 +92,7 @@
 <!ENTITY bookmark_folder_items "&formatD; pestañas">
 <!ENTITY bookmark_folder_one_item "1 item">
 <!ENTITY bookmark_folder_updated "Carpeta íyo actualizada">
+<!ENTITY bookmark_parent_folder "Carpeta xinañu´u">
 <!ENTITY bookmark_add_folder "Tee a jíía carpeta">
 
 <!ENTITY reader_saved_offline "Chuva´a en linea">
@@ -205,6 +206,7 @@
 <!ENTITY pref_category_advanced_summary3 "Na tee tuku pestañas, a kumi datos, ka̱a̱ sá´á sofware">
 <!ENTITY pref_category_notifications "Notificaciones">
 <!ENTITY pref_category_notifications_summary "A jíía, a jíía nuu web">
+<!ENTITY pref_category_notifications_summary2 "A jíía, a jíía ka̱a̱ ya´a">
 <!ENTITY pref_developer_remotedebugging_usb "Depuración jíká USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Depuración jíká Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Depuración jii Wi-Fi kuni a ka̱a̱-nu kumi iin app ká´vi código QR.">
@@ -279,6 +281,11 @@
 
 <!ENTITY pref_whats_new_notification "Nakuvi a jíia íyo nuu &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Kuni naku a vaji jíia saa sá´á iin actualización">
+
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
@@ -411,7 +418,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "tutu kachi de yo va´a &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "Kua´a datos jii &vendorShortName; jiee dee íyo va´a ka̱a̱ ya´a jee chinei noo´o kuni naja satiñu ka̱a̱ ya´a.">
-<!ENTITY datareporting_abouthr_title "Kune´yáni tutu kachi dee íyo va´a">
 <!ENTITY datareporting_telemetry_title "Telemetria">
 <!ENTITY datareporting_telemetry_summary "Kua´a naja satiñu ya´a, a ni´i, ka̱a̱ hardware jii datos personalización jiee ka̱a̱ ya´a jii &vendorShortName; saa chinei sá´á &brandShortName; va´a.">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; chu´un íchi tutu fallos saa chinei nuu &vendorShortName; sá´á iin ka̱a̱ ñama jee va´a">
@@ -518,7 +524,7 @@
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
 
 <!-- Localization note (page_removed): This string appears in a toast message when
-     any page is removed frome about:home. This includes pages that are in history,
+     any page is removed from about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Nxita página">
 <!ENTITY folder_removed "Nxita carpeta">
@@ -733,7 +739,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Nuu nɨ´ɨ sincronización: &formatS;">
-<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!-- Localization note: Used when the sync has not happened yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Nuu nɨ´ɨ sincronización: ni´i íchi">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
