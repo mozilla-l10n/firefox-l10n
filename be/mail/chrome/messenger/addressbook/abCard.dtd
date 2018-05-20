@@ -141,3 +141,16 @@
 
 <!ENTITY Photo.tab                      "Здымак">
 <!ENTITY Photo.accesskey                "м">
+<!ENTITY GenericPhoto.label             "Стандартны здымак">
+<!ENTITY GenericPhoto.accesskey         "С">
+<!ENTITY DefaultPhoto.label             "Прадвызначана">
+<!ENTITY PhotoFile.label                "На гэтым кампутары">
+<!ENTITY PhotoFile.accesskey            "а">
+<!ENTITY BrowsePhoto.label              "Агляд">
+<!ENTITY BrowsePhoto.accesskey          "г">
+<!ENTITY PhotoURL.label                 "У Сеціве">
+<!ENTITY PhotoURL.accesskey             "е">
+<!ENTITY PhotoURL.placeholder           "Устаўце ці набярыце сеціўны адрас здымка">
+<!ENTITY UpdatePhoto.label              "Абнавіць">
+<!ENTITY UpdatePhoto.accesskey          "а">
+<!ENTITY PhotoDropTarget.label          "Перацягніце новы здымак сюды">
