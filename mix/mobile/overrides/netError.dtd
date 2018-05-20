@@ -71,7 +71,8 @@
   <li>Kunchee configuración del Proxy.</li>
   <li>Kunchee kaa ndusuku a yee conexión Wi-Fi a datos.
     <button id='wifi'>Enable Wi-Fi</button>
-  </li> </ul><ul>">
+  </li>
+</ul>">
 
 <!ENTITY redirectLoop.title "Página yoo kue ku nuna vai">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Tu'ndoò yoo kui ri koo cookies.</li> </ul>">
