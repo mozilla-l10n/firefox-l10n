@@ -1,0 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY restartRequired.title "Omstart påkravd">
+
+<!ENTITY restartRequired.header "Beklagar. Vi treng berre å gjere ein liten ting for å fortsetje.">
+
+<!ENTITY restartButton.label "Start &brandShortName; på nytt">
