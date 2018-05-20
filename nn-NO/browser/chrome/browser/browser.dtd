@@ -129,7 +129,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Vis alle faner">
 <!ENTITY showAllTabsCmd.accesskey "V">
 <!ENTITY toggleReaderMode.key "R">
-
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "Logg inn på &syncBrand.shortName.label;">
@@ -189,10 +188,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Andre bokmerke">
 <!ENTITY mobileBookmarksCmd.label "Mobile bokmerke">
 <!ENTITY bookmarksToolbarChevron.tooltip "Vis fleire bokmerke">
-<!ENTITY showRecentlyBookmarked.label     "Vis nyleg bokmerkte">
-<!ENTITY showRecentlyBookmarked.accesskey "V">
-<!ENTITY hideRecentlyBookmarked.label     "Gøym nyleg bokmerkte">
-<!ENTITY hideRecentlyBookmarked.accesskey "G">
 
 <!ENTITY backCmd.label                "Tilbake">
 <!ENTITY backCmd.accesskey            "b">
@@ -234,7 +229,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Omset denne sida">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Handter sideomsetting">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Handter bruken av DRM-programvare">
-
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Opne MIDI-panel">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Du har blokkert kameraet for denne nettstaden.">
@@ -245,7 +239,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Du har blokkert vedvarande lagring for denne nettsida.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Du har blokkert sprettoppvindauge for denne nettstaden.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Du har blokkert canvas-datauthenting for denne nettstaden.">
-
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Du har blokkert denne sida frå å bruke Adobe Flash-programtillegget.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Du har blokkert MIDI-tilgang for denne nettsida.">
 
@@ -395,7 +388,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Vil du sjå faner frå dei andre einingane dine her?">
-<!ENTITY appMenuRemoteTabs.openprefs.label "Sync-innstillingar">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Opne synkroniseringsinnstillingar">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Logg inn for å vise ei liste over faner frå andre einingar.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Kontoen din må stadfestast.">
@@ -437,6 +429,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "Legg til fleire…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "L">
 
+<!ENTITY customizeMenu.autoHideDownloadsButton.label "Skjul automatisk i verktøylinja">
+<!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "a">
+
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
@@ -444,7 +439,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Søk eller skriv inn ei adresse">
-<!ENTITY urlbar.placeholder3          "Skriv inn søkefrase eller adresse her">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Utviding:">
@@ -988,14 +982,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "n">
 <!ENTITY updateRestart.panelUI.label2 "Start på nytt for å oppdatere &brandShorterName;">
 
-<!ENTITY newTabControlled.message "Ei utviding har endra den sida du ser når du opnar ei ny fane. Du kan tilbakestille innstillingane dine om du ikkje vil ha denne endringa.">
-
 <!ENTITY newTabControlled.header.message "Den nye fana di er endra.">
 <!ENTITY newTabControlled.keepButton.label "Behald endringane">
 <!ENTITY newTabControlled.keepButton.accesskey "B">
-<!ENTITY newTabControlled.restoreButton.label "Bygg oppatt innstillingane">
-<!ENTITY newTabControlled.restoreButton.accesskey "B">
-
 <!ENTITY newTabControlled.disableButton.label "Slå av utvidingar">
 <!ENTITY newTabControlled.disableButton.accesskey "S">
 
@@ -1005,6 +994,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.keepButton.accesskey "B">
 <!ENTITY homepageControlled.disableButton.label "Slå av utviding">
 <!ENTITY homepageControlled.disableButton.accesskey "u">
+
+<!ENTITY tabHideControlled.header.message "Få tilgang til dei skjulte fanene dine">
+<!ENTITY tabHideControlled.keepButton.label "Hald faner skjult">
+<!ENTITY tabHideControlled.keepButton.accesskey "k">
+<!ENTITY tabHideControlled.disableButton.label "Slå av utviding">
+<!ENTITY tabHideControlled.disableButton.accesskey "d">
 
 <!ENTITY pageActionButton.tooltip "Sidehandlingar">
 <!ENTITY pageAction.addToUrlbar.label "Legg til i adresselinja">
