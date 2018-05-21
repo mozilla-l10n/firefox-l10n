@@ -207,6 +207,7 @@
 <!ENTITY pref_category_advanced_summary3 "கீற்றுகளை மீட்டமை, தரவு சேமி, உருவாக்குநர் கருவிகள்">
 <!ENTITY pref_category_notifications "அறிவிப்புகள்">
 <!ENTITY pref_category_notifications_summary "புதிய வசதிகள், வலைத்தள புதுப்பிப்புகள்">
+<!ENTITY pref_category_notifications_summary2 "புதிய அம்சங்கள், தயாரிப்பு குறிப்புகள்">
 <!ENTITY pref_developer_remotedebugging_usb "USB மூலமாக தொலைநிலை வழுநீக்கல்">
 <!ENTITY pref_developer_remotedebugging_wifi "அருகலை வழி வழுநீக்கம்">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "அருகலை ஊடாக வழுநீக்க உங்கள் கருவியில் QR குறி படிக்கும் செயலி நிறுவப்பட்டிருக்க வேண்டும்.">
@@ -543,7 +544,7 @@
 <!ENTITY pref_compact_tabs_summary2 "உருவப்பட முறையில் இரண்டு பத்திகளில் கீற்றுகளை ஏற்பாடு செய்">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
-     any page is removed frome about:home. This includes pages that are in history,
+     any page is removed from about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "பக்கம் நீக்கப்பட்டது">
 <!ENTITY folder_removed "அடைவு நீக்கப்பட்டது">
@@ -758,7 +759,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "கடைசி ஒத்தசைவு: &formatS;">
-<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!-- Localization note: Used when the sync has not happened yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "கடைசி ஒத்திசைவு: இல்லை">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
