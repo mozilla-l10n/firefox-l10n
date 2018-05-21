@@ -3,11 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "Управление на добавки">
 
-<!ENTITY search.placeholder                   "Търсене във всички добавки">
-
 <!ENTITY search.placeholder2                  "Търсене в addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Търсене">
-<!-- LOCALIZATION NOTE (search.commandKey):
+<!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
@@ -16,7 +14,6 @@
 <!ENTITY listEmpty.availableUpdates.label     "Не бяха намерени обновявания">
 <!ENTITY listEmpty.recentUpdates.label        "Скоро не сте обновявали никоя добавка">
 <!ENTITY listEmpty.findUpdates.label          "Проверка за обновяване">
-<!ENTITY listEmpty.search.label               "Няма намерени съвпадащи добавки">
 <!ENTITY listEmpty.button.label               "Научете повече за добавките">
 <!ENTITY installAddonFromFile.label           "Инсталиране на добавка от файл…">
 <!ENTITY installAddonFromFile.accesskey       "И">
@@ -41,7 +38,6 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "Включване на проверка за безопасност на обновяването на добавки">
 
 <!-- categories / views -->
-<!ENTITY view.search.label                    "Търсене">
 <!ENTITY view.discover.label                  "Повече добавки">
 <!ENTITY view.recentUpdates.label             "Скорошни обновявания">
 <!ENTITY view.availableUpdates.label          "Налични обновявания">
@@ -124,15 +120,14 @@
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 <!ENTITY discover.title                       "Какво са добавките?">
-<!ENTITY discover.description2                "Добавките са приложения, с които персонализирате &brandShortName;,така че да има допълнителна функционалност или стил. Опитайте времеспестяваща странична лента, известия за времетоили нов изглед за &brandShortName;.">
-<!ENTITY discover.footer                      "Когато сте свързани с Интернет, този панел ще показванякои от най-добрите и популярни добавки, така че да може да ги опитате.">
+<!ENTITY discover.description2                "Добавките са приложения, с които персонализирате &brandShortName;, така че да има допълнителна функционалност или външен вид. Опитайте удобната странична лента, известия за времето или нов изглед за &brandShortName;.">
+<!ENTITY discover.footer                      "Когато сте свързани с Интернет, този панел ще показва някои от най-добрите и популярни добавки, така че да може да ги опитате.">
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Версия">
 <!ENTITY detail.lastupdated.label             "Последно обновяване">
 <!ENTITY detail.creator.label                 "Разработчик">
 <!ENTITY detail.homepage.label                "Страница">
-<!ENTITY detail.numberOfDownloads.label       "Изтегляния">
 
 <!ENTITY detail.contributions.description     "Разработчикът на добавката ви приканва да допринесете за бъдещото ѝ развитие, като направите скромно дарение.">
 
@@ -171,16 +166,6 @@
 <!ENTITY sort.name.tooltip                    "Сортиране по име">
 <!ENTITY sort.dateUpdated.label               "Последно обновяване">
 <!ENTITY sort.dateUpdated.tooltip             "Сортиране по дата на обновяване">
-<!ENTITY sort.relevance.label                 "Най-добро съвпадение">
-<!ENTITY sort.relevance.tooltip               "Сортиране по най-добра предполагаемост">
-<!ENTITY sort.price.label                     "Цена">
-<!ENTITY sort.price.tooltip                   "Сортиране по цена">
-
-<!ENTITY search.filter2.label                 "Търсене:">
-<!ENTITY search.filter2.installed.label       "Моите добавки">
-<!ENTITY search.filter2.installed.tooltip     "Показване на инсталираните добавки">
-<!ENTITY search.filter2.available.label       "Налични добавки">
-<!ENTITY search.filter2.available.tooltip     "Показване на добавките налични за инсталиране">
 
 <!ENTITY addon.homepage                       "Страница">
 <!ENTITY addon.details.label                  "Повече">
