@@ -720,6 +720,9 @@ collection-health-report =
     .label = Toñemoneĩ { -brand-short-name } omondo hag̃ua kuaapy aporeko rehegua { -vendor-short-name }-pe
     .accesskey = r
 collection-health-report-link = Kuaave
+collection-studies =
+    .label = Emoneĩ { -brand-short-name } omohenda ha omongu’e hag̃ua kuaarã
+collection-studies-link = Ehecha kuaarã { -brand-short-name } mba’éva
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Pe mba'ekuaarã momarandu oñemboguéma ko ñemboheko guasúpe g̃uarã

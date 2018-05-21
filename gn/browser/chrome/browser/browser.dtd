@@ -429,6 +429,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "Mba'epuruve mbojoapy…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
+<!ENTITY customizeMenu.autoHideDownloadsButton.label "Emokañy ijehegui tembipuru rendápe">
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
