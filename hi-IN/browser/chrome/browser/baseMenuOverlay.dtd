@@ -14,7 +14,7 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "मदद"> 
 <!ENTITY helpMenuWin.accesskey    "H">
-<!ENTITY aboutProduct2.label      "About &brandShorterName;">
+<!ENTITY aboutProduct2.label      "&brandShorterName; का परिचय">
 <!ENTITY aboutProduct2.accesskey  "A">
 <!ENTITY productHelp2.label       "&brandShorterName; मदद">
 <!ENTITY productHelp2.accesskey   "H">
@@ -27,9 +27,6 @@
 <!ENTITY helpSafeMode.accesskey   "R">
 <!ENTITY helpSafeMode.stop.label       "सक्षम सहयुक्तियों के साथ फिर आरंभ करें">
 <!ENTITY helpSafeMode.stop.accesskey   "R">
-
-<!ENTITY healthReport2.label      "&brandShorterName; स्वास्थ्य विवरण">
-<!ENTITY healthReport2.accesskey  "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "विघ्ननिवारण सूचना">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
