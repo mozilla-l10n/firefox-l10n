@@ -1,11 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- WARNING! This file contains UTF-8 encoded characters!
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
-
 
 <!ENTITY pref.alarmgoesoff.label "Când pornește o alarmă:">
 <!ENTITY pref.playasound "Redă un sunet">
@@ -16,9 +16,8 @@
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "f">
 <!ENTITY pref.calendar.alarms.sound.play.label "Redă">
 <!ENTITY pref.calendar.alarms.sound.play.accessKey "R">
-<!ENTITY pref.showalarmbox "Arată un mesaj cu alarma">
+<!ENTITY pref.showalarmbox "Afișează caseta de dialog pentru memento">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "j">
-<!ENTITY pref.missedalarms "Arată alarmele pierdute">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "p">
 <!ENTITY pref.calendar.alarms.defaults.label "Setări implicite pentru alarme">
 <!ENTITY pref.defalarm4events.label "Setarea implicită a alarmei pentru evenimente:">
