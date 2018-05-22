@@ -596,7 +596,7 @@ sitedata-keep-until = Tutuş zamanı
 sitedata-keep-until-expire =
     .label = Olar eskirgence
 sitedata-keep-until-closed =
-    .label = { -brand-short-name } qapatılğanca
+    .label = { -brand-short-name } qapatılğance
 sitedata-accept-third-party-desc = Üçünci-taraf çöreklerini ve sayt verilerini qabul et
     .accesskey = n
 sitedata-accept-third-party-always-option =
@@ -628,19 +628,19 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Açıq ilmekler
     .accesskey = s
-addressbar-suggestions-settings = Arama motoru önerileri için tercihleri değiştir
+addressbar-suggestions-settings = Qıdırma motorı telqinleri içün tercihlerni deñiştir
 
 ## Privacy Section - Tracking
 
-tracking-header = İzlenme Koruması
+tracking-header = İzlenme Himayesi
 tracking-desc = İzlenme İmayesi, müetaddit sayt arqalı seyran verileriñizni toplağan hat-üstü izcilerni bloklar. <a data-l10n-name="learn-more">İzlenme İmayesi ve hususiyatıñız aqqında daa çoq ögreniñiz.</a>
 tracking-mode-label = Bilinen takipçileri engellemek için İzlenme Koruması’nı kullan
 tracking-mode-always =
     .label = Er zaman
     .accesskey = H
 tracking-mode-private =
-    .label = Yalnızca gizli pencerelerde
-    .accesskey = z
+    .label = Faqat hususiy pencerelerde
+    .accesskey = h
 tracking-mode-never =
     .label = Asla
     .accesskey = A
@@ -652,13 +652,13 @@ tracking-exceptions =
     .label = İstisnalar…
     .accesskey = r
 tracking-change-block-list =
-    .label = Engelleme listesini değiştir…
-    .accesskey = E
+    .label = Bloklama listesini deñiştir…
+    .accesskey = d
 
 ## Privacy Section - Permissions
 
-permissions-header = İzinler
-permissions-location = Konum
+permissions-header = Ruhsetler
+permissions-location = Qonum
 permissions-location-settings =
     .label = Ayarlar…
     .accesskey = r
@@ -670,49 +670,52 @@ permissions-microphone = Mikrofon
 permissions-microphone-settings =
     .label = Ayarlar…
     .accesskey = r
-permissions-notification = Bildirimler
+permissions-notification = Tebliğler
 permissions-notification-settings =
     .label = Ayarlar…
     .accesskey = r
 permissions-notification-link = Daha fazlası
 permissions-notification-pause =
-    .label = { -brand-short-name } yeniden başlatılana dek bildirimleri duraklat
+    .label = { -brand-short-name } kene başlatılğance tebliğlerni tınışla
     .accesskey = b
 permissions-block-popups =
-    .label = Açılır pencereleri engelle
-    .accesskey = n
+    .label = Peyda pencerelerni blokla
+    .accesskey = b
 permissions-block-popups-exceptions =
     .label = İstisnalar…
     .accesskey = a
 permissions-addon-install-warning =
-    .label = Siteler eklenti yüklemeye çalıştığında beni uyar
-    .accesskey = u
+    .label = Saytlar eklentiler qurmağa çalışqanda meni tenbihle
+    .accesskey = t
 permissions-addon-exceptions =
     .label = İstisnalar…
     .accesskey = n
 permissions-a11y-privacy-checkbox =
-    .label = Erişilebilirlik hizmetlerinin tarayıcıma erişmesini engelle
+    .label = İrişilebilirlik hızmetleriniñ kezicime irişmesini öñle
     .accesskey = E
 permissions-a11y-privacy-link = Daha fazla bilgi al
 
 ## Privacy Section - Data Collection
 
-collection-header = { -brand-short-name } veri toplama ve kullanma izinleri
-collection-description = Yalnızca { -brand-short-name } tarayıcınızı geliştirmemize yarayacak verileri topluyoruz ve istemezseniz onları da toplamıyoruz. Kişisel verilerinizi sunucularımıza göndermeden önce mutlaka izninizi istiyoruz.
-collection-privacy-notice = Gizlilik bildirimi
+collection-header = { -brand-short-name } Veriler Toplaması ve Qullanımı
+collection-description = Biz sizge saylamlar temin etmege ğayret etemiz ve faqat { -brand-short-name } kezicisini herkes içün temin etmek ve eyileştirmek içün muhtac olğanımız verilerni toplaymız. Şahsiy verilerni yibermezden evvel her zaman ruhset soraymız.
+collection-privacy-notice = Hususiyat Tebliği
 collection-health-report =
-    .label = { -brand-short-name }, teknik ve etkileşim verilerimi { -vendor-short-name }’ya gönderebilir
+    .label = { -brand-short-name } içün, tehnikiy ve tesirleşim verilerini { -vendor-short-name }'ğa yibermege caiz olsun
     .accesskey = r
-collection-health-report-link = Daha fazla bilgi al
+collection-health-report-link = Daha çoq ögren
+collection-studies =
+    .label = { -brand-short-name } içün tedqiqlerni qurmaq ve çaptırmaq caiz olsun
+collection-studies-link = { -brand-short-name } tedqiqlerini kör
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Bu yapılandırma için veri raporlama devre dışı bırakılmış
 collection-browser-errors =
-    .label = { -brand-short-name }, tarayıcı hata raporlarını (hata mesajları da dahil olmak üzere) { -vendor-short-name }’ya gönderebilir
-    .accesskey = t
+    .label = { -brand-short-name } içün, kezici hata maruzalarını (hata mesajları dahil olmaq üzre) { -vendor-short-name }’ğa yibermek caiz olsun
+    .accesskey = e
 collection-browser-errors-link = Daha fazla bilgi al
 collection-backlogged-crash-reports =
-    .label = { -brand-short-name } geriye dönük çökme raporlarını benim adıma gönderebilir
+    .label = { -brand-short-name } içün arqa-kütüklengen çöküş maruzalarını adıñızğa yibermege caiz olsun
     .accesskey = ö
 collection-backlogged-crash-reports-link = Daha fazla bilgi al
 
@@ -721,22 +724,22 @@ collection-backlogged-crash-reports-link = Daha fazla bilgi al
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
-security-header = Güvenlik
-security-browsing-protection = Aldatıcı içerik ve tehlikeli yazılım koruması
+security-header = Emniyet
+security-browsing-protection = Aldatıcı Muhteva ve Tehlükeli Yazılım Himayesi
 security-enable-safe-browsing =
-    .label = Tehlikeli ve aldatıcı içerikleri engelle
+    .label = Tehlükeli ve aldatıcı muhtevanı blokla
     .accesskey = T
 security-enable-safe-browsing-link = Daha fazla bilgi al
 security-block-downloads =
     .label = Tehlikeli indirmeleri engelle
     .accesskey = i
 security-block-uncommon-software =
-    .label = İstenmeyen ve bilinmeyen yazılımlar hakkında beni uyar
-    .accesskey = b
+    .label = İstenmegen ve ğayrı-adetiy yazılım haqqında meni tenbihle
+    .accesskey = r
 
 ## Privacy Section - Certificates
 
-certs-header = Sertifikalar
+certs-header = Şehadetnameler
 certs-personal-label = Bir sunucu kişisel sertifikamı istediğinde
 certs-select-auto-option =
     .label = Birini kendiliğinden seç
