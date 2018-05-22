@@ -70,6 +70,15 @@
 
 <!ENTITY url_bar_default_text2 "Voer zoekterm of adres in">
 
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "Gebruik uw QR-lezer om te zoeken of voer adres in">
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "Gebruik uw microfoon om te zoeken of voer adres in">
+
 <!ENTITY bookmark "Bladwijzer">
 <!ENTITY bookmark_remove "Bladwijzer verwijderen">
 <!ENTITY bookmark_added "Bladwijzer toegevoegd">
