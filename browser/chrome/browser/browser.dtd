@@ -310,6 +310,8 @@
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 <!ENTITY customizeMenu.autoHideDownloadsButton.label "Nascondi automaticamente nella barra degli strumenti">
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "N">
+<!ENTITY customizeMenu.manageExtension.label "Gestisci estensione">
+<!ENTITY customizeMenu.manageExtension.accesskey "G">
 <!ENTITY moreMenu.label "Altro">
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.placeholder2 "Inserisci un indirizzo o avvia una ricerca">
