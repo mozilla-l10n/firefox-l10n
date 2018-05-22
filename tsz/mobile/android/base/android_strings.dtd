@@ -41,6 +41,7 @@
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Ch\&apos;a">
+<!ENTITY firstrun_account_message "Kámari &brandShortName; máteru ánchitarakwarhu?">
 
 <!ENTITY  onboard_start_restricted1 "Íni &brandShortName; Jínkoni sésimintu ánchikuri.">
 
@@ -52,6 +53,7 @@
 <!ENTITY  switch_to_tab "Eranharhikukwarhu mótsíkuni">
 
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
+<!ENTITY  tab_offline_version "Jatsïrakurhitinini exerpini">
 
 <!ENTITY  crash_reporter_title "Eyampeni &brandShortName; -eri xerekurhikwa ampe">
 <!ENTITY  crash_message2 "&brandShortName; eri, ampe ma no sési jarasti. Cheeti eranharikukwaecha xarantaati &brandShortName; rhu. Énkari méntaru úraka.">
@@ -74,23 +76,36 @@
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "Exerpitarakwarhu jatasti ya">
 <!ENTITY bookmark_removed "Kuirutsikata kéntitaakata">
 <!ENTITY bookmark_updated "Kuirutsikata jimpanherantskata">
 <!ENTITY bookmark_options "Erakwuecha">
+<!ENTITY bookmark_save "Patsani">
+<!ENTITY screenshot_added_to_bookmarks "P\&apos;ítaratarakwani exerpitarakwarhu kúparhatanhasti">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
+<!ENTITY screenshot_folder_label_in_bookmarks "P\&apos;ítaratarakwaecha">
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "Arhint\&apos;axati">
 
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
+<!ENTITY bookmark_folder_items "&formatD; jatakwaecha">
+<!ENTITY bookmark_folder_one_item "jatasti 1">
+<!ENTITY bookmark_folder_updated "Jatakwa jimpanherantskata">
+<!ENTITY bookmark_parent_folder "Jatakwa">
+<!ENTITY bookmark_add_folder "Jimpanhi jatakwa kúparhatani">
 
+<!ENTITY reader_saved_offline "Patsakukuarini">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
+<!ENTITY reader_switch_to_bookmarks "Móptakuni">
 
 <!ENTITY history_today_section "Yásï">
 <!ENTITY history_yesterday_section "Witsintekwa">
 <!ENTITY history_week_section3 "7 Jurhitikwaecha">
+<!ENTITY history_older_section3 "6 Kutsï nimateru">
 
 <!ENTITY search "Jirinhani">
 <!ENTITY reload "Winirant\&apos;ani">
@@ -102,8 +117,10 @@
 <!ENTITY edit_mode_cancel "No ampe ya">
 
 <!ENTITY close_tab "Míkani eranharhikwani">
+<!ENTITY one_tab "1erarhukwa">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs2 "&formatD; erarhukwaecha">
 <!ENTITY new_tab_opened "Jimpani eranharhikwa mítakata">
 <!ENTITY new_private_tab_opened "Jimpani eranharhikwa mítakata ">
 <!-- Localization note (switch_button_message): This string should be as short
@@ -121,10 +138,13 @@
 
 <!ENTITY settings "K\&apos;atantskua">
 <!ENTITY settings_title "Pérakurhini">
+<!ENTITY pref_category_general "Yámu">
+<!ENTITY pref_category_general_summary3 "Wénakwa, wantakwa, eranharhikwa">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
+<!ENTITY pref_category_language "Wantakwa">
 <!ENTITY pref_category_language_summary "Jirinhatarantskwaeri wantakwani mójtakuni">
 <!ENTITY pref_browser_locale "Jirinhatarantskweri wantakwa">
 
@@ -142,8 +162,10 @@
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "Exerpikwa">
+<!ENTITY overlay_share_bookmark_btn_label_already "Exerpitarakwarhu kúparhakukata">
 <!ENTITY overlay_share_send_other "Máteru ánchitarakwaecharhu axani">
 
+<!ENTITY overlay_share_open_browser_btn_label "Mítani &brandShortName; rhu">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -157,7 +179,13 @@
 <!ENTITY overlay_no_synced_devices "No ma Firefoxieri karakurhikwa exenhant\&apos;asti íni ánchitakwarhu">
 
 <!ENTITY pref_category_search3 "Jirinhant\&apos;ani">
+<!ENTITY pref_category_search_summary2 "Kuparhatani, pént\&apos;ani, exerpini">
+<!ENTITY pref_category_accessibility "Inchap\&apos;etarakwa">
+<!ENTITY pref_category_accessibility_summary2 "Kararakwa, k\&apos;enharhitakwa, kurhantikwa">
 <!ENTITY pref_category_privacy_short "Juchitik\&apos;u">
+<!ENTITY pref_category_privacy_summary4 "Éstakwa, inchakwaecha, erakukwaecha">
+<!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
+<!ENTITY pref_category_vendor_summary2 "&brandShortName; ampe, FAQs wininharhikukwa">
 <!ENTITY pref_category_datareporting "Patsakataechaeri erakukwa">
 <!ENTITY pref_category_logins "Inchani">
 <!ENTITY pref_learn_more "Sánteru jorhenani">
@@ -171,9 +199,14 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY pref_search_hint2 "TIP: Jirinhatarantskwarhu kúparhata ma eranharhikwani, karanharhikwarhu puchastsïkuparini ka tatsïkwa &formatI; p\&apos;itakatarhu.">
+<!ENTITY pref_category_advanced "Jorenati">
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
+<!ENTITY pref_category_advanced_summary3 "Erarhukwaechani pent\&apos;ani, patsaratarakwa, ánchitakwa kwiriperari">
+<!ENTITY pref_category_notifications "Ayankperakwaecha">
+<!ENTITY pref_category_notifications_summary "Jimpanhi jásïkwa, jimpanhikurhikwaecha">
 <!ENTITY pref_developer_remotedebugging_usb "Jatsïnt\&apos;ani USB jimpo">
 <!ENTITY pref_developer_remotedebugging_wifi "Jatsïnt\&apos;ani WI-FI jimpo">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "WI-FI jimpo jatsïnt\&apos;ani wétarhisïnti éska ánchitakwa úaka QR jásï arhint\&apos;ani.">
@@ -183,28 +216,40 @@
 <!ENTITY pref_category_home "Wénakwa">
 <!ENTITY pref_category_home_summary "Wénakwani pékurhint\&apos;ani">
 <!ENTITY pref_category_home_panels "Ánchitakwa jatakwa">
+<!ENTITY pref_category_home_add_ons "Kúparhakwaecha">
+<!ENTITY pref_home_updates2 "Jimpanhikurhikwaecha">
 <!ENTITY pref_home_updates_enabled "Étskunkata">
 <!ENTITY pref_home_updates_wifi "Wi-Fi jimpok\&apos;u">
 <!ENTITY pref_category_home_homepage "Wénakwahu">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "Máteru erarhukwaecharhut\&apos;u marhuatani">
 <!ENTITY home_homepage_title "Wénakwarhu pérani">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!ENTITY home_homepage_radio_default "&brandShortName; wénakwa">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
+<!ENTITY home_homepage_radio_user_address "Pékurhintskwa">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
+<!ENTITY home_homepage_hint_user_address "Kara miyurakwani o ampe mánkari jirinhant\&apos;aka">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
+<!ENTITY pref_header_general "Yamu">
+<!ENTITY pref_header_search "Jirinhant\&apos;ani">
 <!ENTITY pref_header_privacy_short "Jískakwa">
+<!ENTITY pref_header_accessibility "Inchap\&apos;etarakwa">
+<!ENTITY pref_header_notifications "Ayankperakwaecha">
+<!ENTITY pref_header_advanced "Jorenati">
 <!ENTITY pref_header_help "Jaroap\&apos;ekwa">
+<!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Étskunkata">
@@ -214,8 +259,17 @@
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
+<!ENTITY pref_category_data_saver "Jatakwa patsarakwa">
+<!ENTITY pref_category_media "Mámaru jásï">
+<!ENTITY pref_category_developer_tools "Ánchitarakwa">
 
+<!ENTITY pref_tap_to_load_images_title2 "P\&apos;itakata exerpini">
+<!ENTITY pref_tap_to_load_images_enabled "Méntku ísï">
+<!ENTITY pref_tap_to_load_images_data "Wi-Fi jimpok\&apos;u">
+<!ENTITY pref_tap_to_load_images_disabled2 "Kwarhukukata">
 
+<!ENTITY pref_show_web_fonts "Kararakwaechani xarhatani">
+<!ENTITY pref_show_web_fonts_summary2 "Kararakwaechani jatsïrakurhini enka eranharhikwa ma jatsïrakurhini jawaka">
 
 <!ENTITY pref_donottrack_title "Asï éstaku">
 <!ENTITY pref_donottrack_summary "&brandShortName; Wantant\&apos;aati eskari no estakunhaaka">
