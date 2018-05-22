@@ -249,6 +249,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Startpagina">
 
+<!ENTITY homeButton.defaultPage.tooltip "&brandShortName;-startpagina">
+
 <!ENTITY bookmarksButton.label          "Bladwijzers">
 <!ENTITY bookmarksCmd.commandkey "b">
 
@@ -431,6 +433,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY customizeMenu.autoHideDownloadsButton.label "Automatisch verbergen in werkbalk">
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "u">
+<!ENTITY customizeMenu.manageExtension.label "Extensie beheren">
+<!ENTITY customizeMenu.manageExtension.accesskey "E">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
