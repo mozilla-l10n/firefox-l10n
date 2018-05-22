@@ -38,14 +38,14 @@
 
 <!ENTITY  suggestionSettings2.label     "Qıdırma motorları telqinleri içün tercihlerni deñiştir">
 
-<!ENTITY  acceptCookies2.label          "Ağ-saytlarından çöreklerni qabul et">
-<!ENTITY  acceptCookies2.accesskey      "b">
+<!ENTITY  acceptCookies4.label          "Ağ-saytlarından çörekler ve sayt verilerini qabul et (tevsiye etilir)">
+<!ENTITY  acceptCookies4.accesskey      "A">
 
-<!ENTITY  acceptThirdParty2.pre.label     "Üçünci-taraf çöreklerini qabul et">
-<!ENTITY  acceptThirdParty2.pre.accesskey "n">
+<!ENTITY  blockCookies.label            "Çörekler ve sayt verilerini blokla (ağ-saytlarınıñ qırılmasına sebebiyet berebilir)">
+<!ENTITY  blockCookies.accesskey        "B">
 
-
-
+<!ENTITY  acceptThirdParty3.pre.label     "Üçünci-taraf çörekler ve sayt verilerini qabul et">
+<!ENTITY  acceptThirdParty3.pre.accesskey "n">
 <!ENTITY  acceptThirdParty.always.label   "Er zaman">
 <!ENTITY  acceptThirdParty.never.label    "Asla">
 <!ENTITY  acceptThirdParty.visited.label  "Ziyaret etilgenlerden">
@@ -59,9 +59,6 @@
 <!ENTITY  cookieExceptions.label        "İstisnalar…">
 <!ENTITY  cookieExceptions.accesskey    "i">
 
-<!ENTITY  showCookies.label             "Çöreklerni Köster…">
-<!ENTITY  showCookies.accesskey         "l">
-
 <!ENTITY  historyHeader2.pre.label         "&brandShortName; keçmişni">
 <!ENTITY  historyHeader2.pre.accesskey     "k">
 <!ENTITY  historyHeader.remember.label     "Hatırlaycaq">
@@ -69,26 +66,12 @@
 <!ENTITY  historyHeader.custom.label       "Şahsiyleştirilgen ayarlarğa köre hatırlaycaq">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName;, kezinüv, endirüv, forma ve qıdıruv keçmişiñizni hatırlaycaq ve ziyaret etkeniñiz ağ-saytlarınıñ çöreklerini tutacaq.">
-
-<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
-<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-<!ENTITY  rememberActions.pre.label           "İsteseñiz, ">
-<!ENTITY  rememberActions.clearHistory.label  "deminki keçmişiñizni temizleñiz">
-<!ENTITY  rememberActions.middle.label        " yaki ">
-<!ENTITY  rememberActions.removeCookies.label "ferdiy çöreklerni çetleştiriñiz">
-<!ENTITY  rememberActions.post.label          ".">
-
+<!ENTITY  rememberDescription1.label      "&brandShortName; kezinüv, endirme, forma ve qıdırma keçmişiñizni hatırlaycaq.">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; hususiy kezinüvdeki ile aynı tesbitlerni qullanacaq ve siz Ağda kezingende er angi keçmişni hatırlamaycaq.">
 
-<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-<!ENTITY  dontrememberActions.pre.label          "İsteseñiz, ">
-<!ENTITY  dontrememberActions.clearHistory.label "bütün ağımdaki keçmişni temizleñiz">
-<!ENTITY  dontrememberActions.post.label         ".">
-
+<!ENTITY  clearHistoryButton.label       "Keçmişni Temizle…">
+<!ENTITY  clearHistoryButton.accesskey   "T">
 
 <!ENTITY  privateBrowsingPermanent2.label "Er zaman hususiy kezinüv tarzını qullan">
 <!ENTITY  privateBrowsingPermanent2.accesskey "h">
@@ -104,12 +87,6 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Ayarlar…">
 <!ENTITY  clearOnCloseSettings.accesskey "T">
-
-<!ENTITY  browserContainersLearnMore.label      "Daa çoq ögren">
-<!ENTITY  browserContainersEnabled.label        "İhtivacı İlmekler Qabil Olsun">
-<!ENTITY  browserContainersEnabled.accesskey    "b">
-<!ENTITY  browserContainersSettings.label        "Ayarlar…">
-<!ENTITY  browserContainersSettings.accesskey    "l">
 
 <!ENTITY  a11yPrivacy.checkbox.label     "İrişilebilirlik hızmetleriniñ keziciñizge irişmesiniñ aldını al">
 <!ENTITY  a11yPrivacy.checkbox.accesskey "i">

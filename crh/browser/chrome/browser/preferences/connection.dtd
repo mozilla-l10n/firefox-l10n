@@ -2,46 +2,48 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY connectionsDialog.title "Bağlantı Ayarları">
-<!ENTITY window.width2 "49em">
-<!ENTITY window.macWidth2 "44em">
-<!ENTITY proxyTitle.label "İnternetke İrişmek içün Proksilerni Yapılandırıñız">
-<!ENTITY noProxyTypeRadio.label "Proksi yoq">
-<!ENTITY noProxyTypeRadio.accesskey "o">
-<!ENTITY systemTypeRadio.label "Sistem proksi ayarlarını qullan">
-<!ENTITY systemTypeRadio.accesskey "S">
-<!ENTITY WPADTypeRadio.label "Bu şebeke içün proksi ayarlarını avto-keşfet">
-<!ENTITY WPADTypeRadio.accesskey "u">
-<!ENTITY manualTypeRadio2.label "Elden proksi endamlandırması">
-<!ENTITY manualTypeRadio2.accesskey "E">
-<!ENTITY autoTypeRadio2.label "Avtomatik proksi endamlandırması URL'si">
-<!ENTITY autoTypeRadio2.accesskey "A">
-<!ENTITY reload.label "Kene yükle">
-<!ENTITY reload.accesskey "n">
-<!ENTITY ftp2.label "FTP Proksisi">
-<!ENTITY ftp2.accesskey "F">
-<!ENTITY http2.label "HTTP Proksisi">
-<!ENTITY http2.accesskey "H">
-<!ENTITY ssl2.label "SSL Proksisi">
-<!ENTITY ssl2.accesskey "L">
-<!ENTITY socks2.label "SOCKS Qonaqbayı">
-<!ENTITY socks2.accesskey "C">
-<!ENTITY socks4.label "SOCKS v4">
-<!ENTITY socks4.accesskey "K">
-<!ENTITY socks5.label "SOCKS v5">
-<!ENTITY socks5.accesskey "v">
-<!ENTITY socksRemoteDNS.label2 "SOCKS v5 qullanğanda Proksi DNS">
-<!ENTITY socksRemoteDNS.accesskey "d">
-<!ENTITY port2.label "Liman">
-<!ENTITY HTTPport.accesskey "L">
-<!ENTITY SSLport.accesskey "i">
-<!ENTITY FTPport.accesskey "m">
-<!ENTITY SOCKSport.accesskey "a">
-<!ENTITY noproxy2.label "Aşağıdakiler içün proksi qullanılmasın">
-<!ENTITY noproxy2.accesskey "m">
-<!ENTITY noproxyExplain.label "Meselâ: .mozilla.org, .com.tr, 192.168.1.0/24">
-<!ENTITY shareproxy.label "Episi protokollar içün bu proksi sunucısını qullan">
-<!ENTITY shareproxy.accesskey "e">
-<!ENTITY autologinproxy.label "Sır-söz saqlanğan ise sahihlenim içün indeme">
-<!ENTITY autologinproxy.accesskey "i">
-<!ENTITY autologinproxy.tooltip "Bu seçenek proksiler içün itimatnamelerni saqlağan olğanıñızda sizni sessizce olarğa içeri imzalandırır. Sahihlenim muvaffaqiyetsiz olsa indeneceksiñiz.">
+
+<!ENTITY  connectionsDialog.title       "Bağlantı Ayarları">
+<!ENTITY  window.width2                 "49em">
+<!ENTITY  window.macWidth2              "44em">
+
+<!ENTITY  proxyTitle.label2             "İnternet'ke Proksi İrişimini Ayarla">
+<!ENTITY  noProxyTypeRadio.label        "Proksi yoq">
+<!ENTITY  noProxyTypeRadio.accesskey    "o">
+<!ENTITY  systemTypeRadio.label         "Sistem proksi ayarlarını qullan">
+<!ENTITY  systemTypeRadio.accesskey     "S">
+<!ENTITY  WPADTypeRadio.label           "Bu şebeke içün proksi ayarlarını avto-keşfet">
+<!ENTITY  WPADTypeRadio.accesskey       "u">
+<!ENTITY  manualTypeRadio2.label        "Elden proksi endamlandırması">
+<!ENTITY  manualTypeRadio2.accesskey    "E">
+<!ENTITY  autoTypeRadio2.label          "Avtomatik proksi endamlandırması URL'si">
+<!ENTITY  autoTypeRadio2.accesskey      "A">
+<!ENTITY  reload.label                  "Kene yükle">
+<!ENTITY  reload.accesskey              "n">
+<!ENTITY  ftp2.label                    "FTP Proksisi">
+<!ENTITY  ftp2.accesskey                "F">
+<!ENTITY  http2.label                   "HTTP Proksisi">
+<!ENTITY  http2.accesskey               "H">
+<!ENTITY  ssl2.label                    "SSL Proksisi">
+<!ENTITY  ssl2.accesskey                "L">
+<!ENTITY  socks2.label                  "SOCKS Qonaqbayı">
+<!ENTITY  socks2.accesskey              "C">
+<!ENTITY  socks4.label                  "SOCKS v4">
+<!ENTITY  socks4.accesskey              "K">
+<!ENTITY  socks5.label                  "SOCKS v5">
+<!ENTITY  socks5.accesskey              "v">
+<!ENTITY  socksRemoteDNS.label2         "SOCKS v5 qullanğanda Proksi DNS">
+<!ENTITY  socksRemoteDNS.accesskey      "d">
+<!ENTITY  port2.label                   "Liman">
+<!ENTITY  HTTPport.accesskey            "L">
+<!ENTITY  SSLport.accesskey             "i">
+<!ENTITY  FTPport.accesskey             "m">
+<!ENTITY  SOCKSport.accesskey           "a">
+<!ENTITY  noproxy2.label                "Aşağıdakiler içün proksi qullanılmasın">
+<!ENTITY  noproxy2.accesskey            "m">
+<!ENTITY  noproxyExplain.label          "Meselâ: .mozilla.org, .com.tr, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Episi protokollar içün bu proksi sunucısını qullan">
+<!ENTITY  shareproxy.accesskey          "e">
+<!ENTITY  autologinproxy.label          "Sır-söz saqlanğan ise sahihlenim içün indeme">
+<!ENTITY  autologinproxy.accesskey      "i">
+<!ENTITY  autologinproxy.tooltip        "Bu seçenek proksiler içün itimatnamelerni saqlağan olğanıñızda sizni sessizce olarğa içeri imzalandırır. Sahihlenim muvaffaqiyetsiz olsa indeneceksiñiz.">

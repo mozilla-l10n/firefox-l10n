@@ -112,6 +112,8 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "Saife Malümatı">
 <!ENTITY pageInfoCmd.accesskey "M">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.label "Serim İlletsizleştiricisi">
+<!ENTITY ldbCmd.accesskey "S">
 <!ENTITY mirrorTabCmd.label "Küzgü İlmegi">
 <!ENTITY mirrorTabCmd.accesskey "K">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -126,7 +128,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Episi İlmeklerni Köster">
 <!ENTITY showAllTabsCmd.accesskey "e">
 <!ENTITY toggleReaderMode.key "R">
-
+<!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; oturımı aç">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; tercihlerini aç">
@@ -185,10 +187,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Diger Saifeimleri">
 <!ENTITY mobileBookmarksCmd.label "Mobil Saifeimleri">
 <!ENTITY bookmarksToolbarChevron.tooltip "Daa çoq saife-imi köster">
-<!ENTITY showRecentlyBookmarked.label     "Yaqınlarda İmlengenlerni Köster">
-<!ENTITY showRecentlyBookmarked.accesskey "m">
-<!ENTITY hideRecentlyBookmarked.label     "Yaqınlarda İmlengenlerni Gizle">
-<!ENTITY hideRecentlyBookmarked.accesskey "m">
 
 <!ENTITY backCmd.label                "Keri">
 <!ENTITY backCmd.accesskey            "K">
@@ -229,7 +227,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Bu saifeni tercime et">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Saife tercimesini idare et">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM yazılımı qullanımını idare et">
-
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "MİDİ panelini aç">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Bu sayt içün kamerañıznı bloklağan olasıñız.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Bu sayt içün mikrofonıñıznı bloklağan olasıñız.">
@@ -239,7 +237,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Bu sayt içün sebatkâr mağaznı bloklağan olasıñız.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Bu ağ-saytı içün peydalarnı bloklağan olasıñız.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Bu sayt içün kanaviçe veriler istihracını bloklağan olasıñız.">
-
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "Bu saytnı Adobe Flash plaginini qullanmaqtan bloklağan olasıñız.">
+<!ENTITY urlbar.midiBlocked.tooltip              "Bu sayt içün MİDİ irişimini bloklağan olasıñız.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Keçmişni köster">
 
@@ -358,7 +357,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Evelki Oturımnı Keri Tikle">
 
 <!ENTITY showAllHistoryCmd2.label "Bütün Keçmişni Köster">
-<!ENTITY showAllHistoryCmd.commandkey "H">
+<!ENTITY showAllHistoryCmd.commandkey "T">
 
 <!ENTITY appMenuHistory.showAll.label "Bütün Keçmişni Köster">
 <!ENTITY appMenuHistory.clearRecent.label "Deminki Keçmişni Temizle…">
@@ -386,7 +385,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Diger cihazlardan ilmekleriñizni mında köresiñiz kile?">
-<!ENTITY appMenuRemoteTabs.openprefs.label "Aynılaştır Tercihleri">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Sync Tercihlerini Aç">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Diger cihazlarıñızdaki ilmeklerniñ bir listesini körmek içün içeri imzalanıñız.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Esabıñız doğrulanmağa muhtac.">
 <!ENTITY appMenuRemoteTabs.signin.label "Aynılaştır'ğa İçeri İmzalan">
@@ -426,6 +425,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromMenu.accesskey "Ç">
 <!ENTITY customizeMenu.addMoreItems.label "Daa Çoq Unsur Ekle…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "E">
+
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -751,7 +751,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.securityView.label "Sayt Emniyeti">
 
 <!ENTITY identity.connectionSecure "Emniyetli Bağlantı">
-<!ENTITY identity.connectionNotSecure "Bağlantı Emniyetli Degil">
+<!ENTITY identity.connectionNotSecure "Bağlantı Emniyetli Degildir">
 <!ENTITY identity.connectionFile "Bu saife bilgisayarıñızda mağazlana.">
 <!ENTITY identity.connectionVerified2 "Aşağıdaki saipniñ bu saytına emniyetlice bağlanğan durumdasıñız:">
 <!ENTITY identity.connectionInternal "Bu emniyetli bir &brandShortName; sahifesidir.">
@@ -977,13 +977,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "D">
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName; yañartılsın dep kene başlat">
 
-<!ENTITY newTabControlled.message "Bir eklenti, Yañı bir İlmek açqanıñızda körgeniñiz saifeni deñiştirgendir. Bu deñişiklikni istemey iseñiz evvelki ayarlarıñıznı keri tikleybilirsiñiz.">
-
 <!ENTITY newTabControlled.header.message "Yañı İlmegiñiz deñişkendir.">
 <!ENTITY newTabControlled.keepButton.label "Deñişikliklerni Qoru">
 <!ENTITY newTabControlled.keepButton.accesskey "o">
-<!ENTITY newTabControlled.restoreButton.label "Ayarlarnı Keri Tikle">
-<!ENTITY newTabControlled.restoreButton.accesskey "K">
+<!ENTITY newTabControlled.disableButton.label "Eklentini Naqabilleştir">
+<!ENTITY newTabControlled.disableButton.accesskey "N">
 
 
 
@@ -1009,3 +1007,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
+<!ENTITY addonPostInstallMessage.label "<image class='addon-toolbar-icon'/> menüsinde <image class='addon-addon-icon'/> çerterek eklentileriñizni idare etiñiz.">

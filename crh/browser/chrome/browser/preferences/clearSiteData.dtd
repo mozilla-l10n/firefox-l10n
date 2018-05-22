@@ -1,0 +1,22 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.title                 "Verilerni Temizle">
+<!ENTITY window.width                 "35em">
+
+<!ENTITY window.description           "&brandShortName; tarafından mağazlanğan çöreklerni ve sayt verilerini temizlemeñiz sizni ağ-saytlarından tışarı-imzalandırabilir ve hat-tışı ağ muhtevasını çetleştirebilir. Zula verileriniñ temizlenmesi içeri-imzalanışlarıñızğa tesir etmez.">
+<!ENTITY windowClose.key              "w">
+
+<!ENTITY clearSiteData.label          "Çörekler ve Sayt Verileri">
+<!ENTITY clearSiteData.accesskey      "S">
+<!ENTITY clearSiteData.description    "Temizlense ağ-saytlarından belki tışarı-imzalandırılırsıñız">
+
+<!ENTITY clearCache.label             "Zulalanğan Ağ Muhtevası">
+<!ENTITY clearCache.accesskey         "Z">
+<!ENTITY clearCache.description       "Ağ-saytlarınıñ suret ve verilerni kene yüklemesi şart olacaq">
+
+<!ENTITY button.cancel.label          "Vazgeç">
+<!ENTITY button.cancel.accesskey      "z">
+<!ENTITY button.clear.label           "Temizle">
+<!ENTITY button.clear.accesskey       "T">
