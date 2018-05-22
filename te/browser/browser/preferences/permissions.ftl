@@ -53,6 +53,7 @@ permissions-invalid-uri-label = దయచేసి ప్రామాణిక�
 permissions-exceptions-tracking-protection-window =
     .title = మినహాయింపులు - ట్రాకింగ్ సంరక్షణ
     .style = { permissions-window.style }
+permissions-exceptions-tracking-protection-desc = ఈ వెబ్‌సైట్లలో మీరు ట్రాకింగ్ సంరక్షణను అచేతనించారు.
 
 ## Exceptions - Cookies
 

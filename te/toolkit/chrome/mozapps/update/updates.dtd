@@ -6,7 +6,7 @@
 <!ENTITY  checking.title                  "తాజాకరణలకై చూస్తున్నాం">
 <!ENTITY  updateCheck.label               "&brandShortName; కొత్త సంచికలకై చూస్తున్నాం…">
 
-<!ENTITY  noupdatesfound.title            "తాజాకరణలు ఏమీ కనబడలేదు">
+<!ENTITY  noupdatesfound.title            "తాజాకరణలు ఏమీ లేవు">
 <!ENTITY  noupdatesautoenabled.intro      "అక్కడ ఏ కొత్త నవీకరణలు అందుబాటులో లేవు. &brandShortName; సమయానుసారం కొత్తవాటి కొరకు
                                             పరశీలించవచ్చు.">
 <!ENTITY  noupdatesautodisabled.intro     "అక్కడ ఏ కొత్త నవీకరణలు అందుబాటులో లేవు. తరువాత మరలు వెతకండి లేక
