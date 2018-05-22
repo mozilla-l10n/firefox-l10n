@@ -3,11 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "పొడిగింతల నిర్వాహకి">
 
-<!ENTITY search.placeholder                   "అన్ని పొడిగింతలు వెతుకు">
-
 <!ENTITY search.placeholder2                  "addons.mozilla.orgలో వెతకండి">
 <!ENTITY search.buttonlabel                   "వెతుకు">
-<!-- LOCALIZATION NOTE (search.commandKey):
+<!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
@@ -16,7 +14,6 @@
 <!ENTITY listEmpty.availableUpdates.label     "ఏ నవీకరణలు కనుగొనలేదు">
 <!ENTITY listEmpty.recentUpdates.label        "మీరు ఇటీవల ఏ పొడిగింతలు నవీకరించలేదు">
 <!ENTITY listEmpty.findUpdates.label          "నవీకరణల కొరకు పరిశీలించు">
-<!ENTITY listEmpty.search.label               "ఎటువంటి సరిపోలు పొడిగింతలు కనుగొనలేక పోయింది">
 <!ENTITY listEmpty.button.label               "పొడిగింతలు గురించి మరింత తెలుసుకొనండి">
 <!ENTITY installAddonFromFile.label           "ఫైలు నుండి పొడిగింతను స్థాపించు…">
 <!ENTITY installAddonFromFile.accesskey       "I">
@@ -41,7 +38,6 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "పొడిగింత నవీకరణ రక్షణ పరిశీలనను చేతనముచేయి">
 
 <!-- categories / views -->
-<!ENTITY view.search.label                    "వెతుకు">
 <!ENTITY view.discover.label                  "పొడిగింతలు పొందండి">
 <!ENTITY view.recentUpdates.label             "ఇటీవలి నవీకరణలు">
 <!ENTITY view.availableUpdates.label          "అందుబాటులోని నవీకరణలు">
@@ -70,7 +66,7 @@
 <!ENTITY updates.installed.label              "మీ పొడిగింతలు తాజాకరించబడ్డాయి.">
 <!ENTITY updates.downloaded.label             "మీ పొడిగింత నవీకరణలు డౌన్‌లోడైనవి.">
 <!ENTITY updates.restart.label                "స్థాపనను పూర్తిచేయడానికి ఇప్పుడే పునఃప్రారంభించు">
-<!ENTITY updates.noneFound.label              "ఏ నవీకరణలు కనబడలేదు">
+<!ENTITY updates.noneFound.label              "తాజాకరణలు ఏమీ లేవు">
 <!ENTITY updates.manualUpdatesFound.label     "అందుబాటులోని నవీకరణలను దర్శించు">
 <!ENTITY updates.updateSelected.label         "తాజాకరణలను స్థాపించు">
 <!ENTITY updates.updateSelected.tooltip       "ఈ జాబితాలోని తాజాకరణలను స్థాపించు">
@@ -133,7 +129,6 @@
 <!ENTITY detail.lastupdated.label             "చివరిగా నవీకరించింది">
 <!ENTITY detail.creator.label                 "అభివృద్దికారి">
 <!ENTITY detail.homepage.label                "హోం పేజీ">
-<!ENTITY detail.numberOfDownloads.label       "దింపుకోళ్ళు">
 
 <!ENTITY detail.contributions.description     "ఈ పొడిగింతను అభివృద్దికారి దాని తదుపరి అభివృద్ది కొనసాగింపు కొరకు మీ నుండి కొద్ది మొత్తంలో సహాయంను కోరుచున్నారు.">
 
@@ -172,16 +167,6 @@
 <!ENTITY sort.name.tooltip                    "పేరు ప్రకారం క్రమపరచు">
 <!ENTITY sort.dateUpdated.label               "చివరిగా నవీకరించింది">
 <!ENTITY sort.dateUpdated.tooltip             "నవీకరించిన తేదీ ప్రకారం క్రమపరచు">
-<!ENTITY sort.relevance.label                 "మంచి జోడి">
-<!ENTITY sort.relevance.tooltip               "సంబంధము ప్రకారం క్రమపరచు">
-<!ENTITY sort.price.label                     "ధర">
-<!ENTITY sort.price.tooltip                   "ధర ప్రకారం క్రమపరచు">
-
-<!ENTITY search.filter2.label                 "వెతుకు:">
-<!ENTITY search.filter2.installed.label       "నా పొడిగింతలు">
-<!ENTITY search.filter2.installed.tooltip     "స్థాపిత పొడిగింతలు చూపించు">
-<!ENTITY search.filter2.available.label       "అందుబాటులోని పొడిగింతలు">
-<!ENTITY search.filter2.available.tooltip     "స్థాపించుకోడానికి అందుబాటులో ఉన్న పొడిగింతలు చూపించు">
 
 <!ENTITY addon.homepage                       "హోం పేజీ">
 <!ENTITY addon.details.label                  "ఇంకా">
