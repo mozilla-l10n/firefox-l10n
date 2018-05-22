@@ -370,7 +370,7 @@ restore-default =
 
 search-bar-header = Arama çubuğu
 search-bar-hidden =
-    .label = Adres çubuğını em qıdırma em de seyrüsefer içün qullan
+    .label = Adres çubuğını hem qıdırma hem de seyrüsefer içün qullan
 search-bar-shown =
     .label = Alet çubuğında qıdırma çubuğını ekle
 search-engine-default-header = Ögbelgilengen Qıdırma Motorı
@@ -387,21 +387,21 @@ search-show-suggestions-url-bar-option =
 # "ahead" refers to location (appearing most proximate to), not time
 # (appearing before).
 search-show-suggestions-above-history-option =
-    .label = Adres çubuğu sonuçlarında arama önerilerini gezinti geçmişinden önce göster
+    .label = Adres çubuğı neticelerinde qıdırma telqinlerini kezinti keçmişinden evvel köster
 search-suggestions-cant-show = { -brand-short-name } tarayıcısını geçmişi hatırlamayacak şekilde ayarladığınız için konum çubuğu sonuçlarında arama önerileri gösterilmeyecektir.
-search-one-click-header = Tek tıklamalı arama motorları
-search-one-click-desc = Anahtar kelimeleri yazmaya başladığınızda adres çubuğunun ve arama çubuğunun altında görünecek alternatif arama motorlarını seçin.
+search-one-click-header = Tek-çertme Qıdırma Motorları
+search-one-click-desc = Bir anahtar kelimeni kirsetmege başlağanıñızda adres çubuğınıñ ve qıdırma çubuğınıñ altında körünecek alternatif qıdırma motorlarını saylañız.
 search-choose-engine-column =
-    .label = Arama motoru
+    .label = Qıdırma Motorı
 search-choose-keyword-column =
     .label = Anahtar kelime
 search-restore-default =
-    .label = Varsayılan arama motorlarını geri yükle
-    .accesskey = V
+    .label = Ögbelgilengen Qıdırma Motorlarını Keri Tikle
+    .accesskey = b
 search-remove-engine =
-    .label = Kaldır
-    .accesskey = K
-search-find-more-link = Daha fazla arama motoru bul
+    .label = Çetleştir
+    .accesskey = r
+search-find-more-link = Daha çoq qıdırma motorı tap
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Tekrarlanan Anahtar Kelime
@@ -420,7 +420,7 @@ containers-add-button =
 containers-preferences-button =
     .label = Tercihler
 containers-remove-button =
-    .label = Sil
+    .label = Çetleştir
 
 ## Sync Section - Signed out
 
@@ -468,8 +468,8 @@ sync-engine-bookmarks =
     .label = Saifeimleri
     .accesskey = m
 sync-engine-history =
-    .label = Geçmiş
-    .accesskey = G
+    .label = Keçmiş
+    .accesskey = K
 sync-engine-tabs =
     .label = Açık sekmeler
     .tooltiptext = Eşitlenen tüm cihazlarınızdaki açık sekmelerin listesi
@@ -515,27 +515,30 @@ sync-fxa-privacy-notice = Gizlilik Bildirimi
 
 ## Privacy Section
 
-privacy-header = Tarayıcı gizliliği
+privacy-header = Kezici Hususiyatı
 
 ## Privacy Section - Forms
 
-forms-header = Formlar ve parolalar
+forms-header = Formalar ve Sır-sözler
+forms-ask-to-save-logins =
+    .label = Ağ-saytları içün içeri-imzalanışlar ve sır-sözlerni saqlamağa sora
+    .accesskey = A
 forms-exceptions =
     .label = İstisnalar…
     .accesskey = s
 forms-saved-logins =
-    .label = Kayıtlı esaplar…
-    .accesskey = K
+    .label = Saqlanğan İçeri-imzalanışlar…
+    .accesskey = S
 forms-master-pw-use =
-    .label = Ana parola kullan
+    .label = Usta sır-söz qullan
     .accesskey = n
 forms-master-pw-change =
-    .label = Ana parolayı değiştir…
+    .label = Usta Sır-sözni Deñiştir…
     .accesskey = d
 
 ## Privacy Section - History
 
-history-header = Geçmiş
+history-header = Keçmiş
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
@@ -553,7 +556,7 @@ history-remember-option-never =
     .label = Asla hatırlamaycaq
 history-remember-option-custom =
     .label = Şahsiyleştirilgen ayarlarğa köre hatırlaycaq
-history-remember-description = { -brand-short-name } gezinti, indirme, form ve arama geçmişlerinizi hatırlayacak.
+history-remember-description = { -brand-short-name } kezinüv, endirme, forma ve qıdırma keçmişiñizni hatırlayacaq.
 history-dontremember-description = { -brand-short-name } Gizli Gezinti ile aynı ayarları kullanacak ve siz internette gezerken geçmişle ilgili hiçbir şeyi hatırlamayacak.
 history-private-browsing-permanent =
     .label = Er zaman gizli gezinti kipini kullan
@@ -571,38 +574,42 @@ history-clear-on-close-settings =
     .label = Ayarlar…
     .accesskey = A
 history-clear-button =
-    .label = Geçmişi temizle…
-    .accesskey = G
+    .label = Keçmişi Temizle…
+    .accesskey = T
 
 ## Privacy Section - Site Data
 
-sitedata-header = Çerezler ve site verileri
+sitedata-header = Çörekler ve Sayt Verileri
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Saqlanğan çörekler, sayt verileri ve zulañız hal-hazırda { $value } { $unit } disk fezası qullana.
 sitedata-learn-more = Daha fazla bilgi al
 sitedata-accept-cookies-option =
-    .label = Web sitelerinden gelen çerezleri ve site verilerini kabul et (Önerilir)
+    .label = Ağ saytlarından çöreklerni ve sayt verilerini qabul et (tevsiye etilir)
     .accesskey = k
 sitedata-block-cookies-option =
-    .label = Çerezleri ve site verilerini engelle (Bazı siteler düzgün çalışmayabilir)
+    .label = Çöreklerni ve sayt verilerini blokla (ağ-saytlarınıñ sınmasına sebebiyet berebilir)
     .accesskey = z
-sitedata-keep-until = Tutma sınırı
+sitedata-keep-until = Tutuş zamanı
     .accesskey = u
 sitedata-keep-until-expire =
-    .label = Süresi dolana dek
+    .label = Olar eskirgence
 sitedata-keep-until-closed =
-    .label = { -brand-short-name } kapatılana dek
-sitedata-accept-third-party-desc = Üçüncü taraf çerezlerini ve site verilerini kabul et
-    .accesskey = ü
+    .label = { -brand-short-name } qapatılğanca
+sitedata-accept-third-party-desc = Üçünci-taraf çöreklerini ve sayt verilerini qabul et
+    .accesskey = n
 sitedata-accept-third-party-always-option =
     .label = Er zaman
 sitedata-accept-third-party-visited-option =
-    .label = Ziyaret edilenlerden
+    .label = Ziyaret etilgenlerden
 sitedata-accept-third-party-never-option =
     .label = Asla
 sitedata-clear =
-    .label = Verileri temizle…
+    .label = Verilerni Temizle…
     .accesskey = l
 sitedata-settings =
-    .label = Verileri yönet…
+    .label = Verilerni İdare Et…
     .accesskey = V
 sitedata-cookies-exceptions =
     .label = İstisnalar…
@@ -610,16 +617,16 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
-addressbar-header = Adres çubuğu
-addressbar-suggest = Adres çubuğunu kullanırken şunları öner:
+addressbar-header = Adres Çubuğı
+addressbar-suggest = Adres çubuğını qullanğanda, telqin et:
 addressbar-locbar-history-option =
-    .label = Gezinti geçmişi
+    .label = Kezinüv keçmişi
     .accesskey = G
 addressbar-locbar-bookmarks-option =
     .label = Saifeimleri
     .accesskey = m
 addressbar-locbar-openpage-option =
-    .label = Açık sekmeler
+    .label = Açıq ilmekler
     .accesskey = s
 addressbar-suggestions-settings = Arama motoru önerileri için tercihleri değiştir
 
