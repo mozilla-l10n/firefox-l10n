@@ -300,8 +300,13 @@
 
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
+<!ENTITY custom_tabs_menu_item_open_in "Xási &formatS; mitani">
+<!ENTITY custom_tabs_menu_footer "Winhaskukata &brandShortName; jimpo">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "URL p\&apos;itakata">
 
+<!ENTITY pref_pwa "Jimpanhi úratarakwaecha k\&apos;éri xurukwaeri">
+<!ENTITY pref_pwa_summary "Jiankuni eska úratarakwaecha eranharhikwarhu kúparhatakaksï">
 
 <!ENTITY tracking_protection_prompt_title "Yásï nori éstakunhaaka">
 <!ENTITY tracking_protection_prompt_text "Yásïmintu estakukwaechani kwárhukuminhaskari estakukwaechani, ásï jákurhi">
@@ -315,9 +320,12 @@
 <!ENTITY tab_queue_prompt_tip_text2 "Pekurhintskwarhu úakari mot\&apos;akunt\&apos;ani">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_positive_action_button "Ampakerani">
 <!ENTITY tab_queue_prompt_negative_action_button "Nótki">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "Pékurhintskwarhu nirani">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
@@ -340,6 +348,7 @@
 <!ENTITY pref_clear_on_exit_title3 "Kentitani ch\&apos;éeti ampek\&apos;u énkari wéntaaka">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; kéntitakuariaati méntku ísï énkari \&quot;Wéntani\&quot; erakuaaka">
 <!ENTITY pref_clear_on_exit_dialog_title "Eraku amperisï ampentarhio">
+<!ENTITY pref_restore_tabs "Erarhukwaechani pént\&apos;ani">
 <!ENTITY pref_restore_always "Jatsiintskwarhikwa">
 <!ENTITY pref_restore_quit "Énkari wéntaaka ásï pentsi &brandShortName; -ni éska na jápka">
 
@@ -351,9 +360,12 @@
 <!ENTITY pref_zoom_force_enabled "Méntku etskuntani k\&apos;énharhitarakwani">
 <!ENTITY pref_zoom_force_enabled_summary "Kararatarant\&apos;ani ka nákintaru eranharhikukwa úati k\&apos;énharhitani ">
 <!ENTITY pref_voice_input "Wantakwa ampe incharhutarakwa">
+<!ENTITY pref_voice_input_summary2 "Jiankuni aristatspekwa íni URL rhu">
 <!ENTITY pref_qrcode_enabled "QR jásï arhintsti">
 
 <!ENTITY pref_use_master_password "Mítatarakwani úrani">
+<!ENTITY pref_sync_default_title "Firefox karakurhikwa">
+<!ENTITY pref_sync2 "Inchani">
 <!ENTITY pref_sync_summary2 "Erarhukwaecha, exerpitarakwaecha, ka mítatarakwaechani terukutantsï">
 <!ENTITY pref_search_suggestions " xarhatani nena enka inchaaka pari ampema exentani">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
