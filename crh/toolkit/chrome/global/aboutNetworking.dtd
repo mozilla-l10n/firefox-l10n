@@ -2,57 +2,58 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutNetworking.title "Şebekeleme Aqqında">
-<!ENTITY aboutNetworking.warning "Bu pek tecribiydir. Baliğ közetimi olmadan qullanmañız.">
-<!ENTITY aboutNetworking.showNextTime "Bu tenbini soñraki sefer de köster">
-<!ENTITY aboutNetworking.ok "Tamam">
-<!ENTITY aboutNetworking.HTTP "HTTP">
-<!ENTITY aboutNetworking.sockets "Oyuqlar">
-<!ENTITY aboutNetworking.dns "DNS">
-<!ENTITY aboutNetworking.websockets "AğOyuqları">
-<!ENTITY aboutNetworking.refresh "Tazert">
-<!ENTITY aboutNetworking.autoRefresh "3 saniyede bir avtotazert">
-<!ENTITY aboutNetworking.hostname "Qonaqbayadı">
-<!ENTITY aboutNetworking.port "Liman">
-<!ENTITY aboutNetworking.http2 "HTTP/2">
-<!ENTITY aboutNetworking.ssl "SSL">
-<!ENTITY aboutNetworking.active "Faal">
-<!ENTITY aboutNetworking.idle "Atıl">
-<!ENTITY aboutNetworking.host "Qonaqbay">
-<!ENTITY aboutNetworking.tcp "TCP">
-<!ENTITY aboutNetworking.sent "Yiberilgen">
-<!ENTITY aboutNetworking.received "Alınğan">
-<!ENTITY aboutNetworking.family "Aile">
-<!ENTITY aboutNetworking.addresses "Adresler">
-<!ENTITY aboutNetworking.expires "Eskire (Saniye)">
-<!ENTITY aboutNetworking.messagesSent "Yiberilgen Mesajlar">
-<!ENTITY aboutNetworking.messagesReceived "Alınğan Mesajlar">
-<!ENTITY aboutNetworking.bytesSent "Yiberilgen Bayt">
-<!ENTITY aboutNetworking.bytesReceived "Alınğan Bayt">
-<!ENTITY aboutNetworking.logging "Kütükleme">
-<!ENTITY aboutNetworking.logTutorial "Bu aletniñ nasıl qullanılğanı aqqındaki talimatlar içün <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP Kütüklemesi</a>'ni körüñiz.">
-<!ENTITY aboutNetworking.currentLogFile "Cari Kütük Dosyesi:">
-<!ENTITY aboutNetworking.currentLogModules "Cari Kütük Modülleri:">
-<!ENTITY aboutNetworking.setLogFile "Kütük Dosyesini Tesbit Et">
-<!ENTITY aboutNetworking.setLogModules "Kütük Modüllerini Tesbit Et">
-<!ENTITY aboutNetworking.startLogging "Kütüklemeni Başlat">
-<!ENTITY aboutNetworking.stopLogging "Kütüklemeni Toqtat">
-<!ENTITY aboutNetworking.dnsLookup "DNS Baqıberişi">
-<!ENTITY aboutNetworking.dnsLookupButton "Çez">
-<!ENTITY aboutNetworking.dnsDomain "Saa">
-<!ENTITY aboutNetworking.dnsLookupTableColumn "IP'ler">
-<!ENTITY aboutNetworking.rcwn "RCWN İhsaiyatı">
-<!ENTITY aboutNetworking.rcwnStatus "RCWN Statusı">
-<!ENTITY aboutNetworking.rcwnCacheWonCount "Zula ğalip adedi">
-<!ENTITY aboutNetworking.rcwnNetWonCount "Safiy ğalip adedi">
-<!ENTITY aboutNetworking.totalNetworkRequests "Topyekün şebeke istemi adedi">
-<!ENTITY aboutNetworking.rcwnOperation "Zula Ameliyesi">
-<!ENTITY aboutNetworking.rcwnPerfOpen "Aç">
-<!ENTITY aboutNetworking.rcwnPerfRead "Oqu">
-<!ENTITY aboutNetworking.rcwnPerfWrite "Yaz">
-<!ENTITY aboutNetworking.rcwnPerfEntryOpen "Kirildi Açıq">
-<!ENTITY aboutNetworking.rcwnAvgShort "Qısqa Ortalama">
-<!ENTITY aboutNetworking.rcwnAvgLong "Uzun Ortalama">
-<!ENTITY aboutNetworking.rcwnStddevLong "Uzun Standart Sapma">
-<!ENTITY aboutNetworking.rcwnCacheSlow "Zula yavaş adedi">
-<!ENTITY aboutNetworking.rcwnCacheNotSlow "Zula yavaş degil adedi">
+<!ENTITY aboutNetworking.title                 "Şebekeleme Aqqında">
+<!ENTITY aboutNetworking.warning               "Bu pek tecribiydir. Baliğ közetimi olmadan qullanmañız.">
+<!ENTITY aboutNetworking.showNextTime          "Bu tenbini soñraki sefer de köster">
+<!ENTITY aboutNetworking.ok                    "Tamam">
+<!ENTITY aboutNetworking.HTTP                  "HTTP">
+<!ENTITY aboutNetworking.sockets               "Oyuqlar">
+<!ENTITY aboutNetworking.dns                   "DNS">
+<!ENTITY aboutNetworking.websockets            "AğOyuqları">
+<!ENTITY aboutNetworking.refresh               "Tazert">
+<!ENTITY aboutNetworking.autoRefresh           "3 saniyede bir avtotazert">
+<!ENTITY aboutNetworking.hostname              "Qonaqbayadı">
+<!ENTITY aboutNetworking.port                  "Liman">
+<!ENTITY aboutNetworking.http2                 "HTTP/2">
+<!ENTITY aboutNetworking.ssl                   "SSL">
+<!ENTITY aboutNetworking.active                "Faal">
+<!ENTITY aboutNetworking.idle                  "Atıl">
+<!ENTITY aboutNetworking.host                  "Qonaqbay">
+<!ENTITY aboutNetworking.tcp                   "TCP">
+<!ENTITY aboutNetworking.sent                  "Yiberilgen">
+<!ENTITY aboutNetworking.received              "Alınğan">
+<!ENTITY aboutNetworking.family                "Aile">
+<!ENTITY aboutNetworking.trr                   "TRR">
+<!ENTITY aboutNetworking.addresses             "Adresler">
+<!ENTITY aboutNetworking.expires               "Eskire (Saniye)">
+<!ENTITY aboutNetworking.messagesSent          "Yiberilgen Mesajlar">
+<!ENTITY aboutNetworking.messagesReceived      "Alınğan Mesajlar">
+<!ENTITY aboutNetworking.bytesSent             "Yiberilgen Bayt">
+<!ENTITY aboutNetworking.bytesReceived         "Alınğan Bayt">
+<!ENTITY aboutNetworking.logging               "Kütükleme">
+<!ENTITY aboutNetworking.logTutorial           "Bu aletniñ nasıl qullanılğanı aqqındaki talimatlar içün <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP Kütüklemesi</a>'ni körüñiz.">
+<!ENTITY aboutNetworking.currentLogFile        "Cari Kütük Dosyesi:">
+<!ENTITY aboutNetworking.currentLogModules     "Cari Kütük Modülleri:">
+<!ENTITY aboutNetworking.setLogFile            "Kütük Dosyesini Tesbit Et">
+<!ENTITY aboutNetworking.setLogModules         "Kütük Modüllerini Tesbit Et">
+<!ENTITY aboutNetworking.startLogging          "Kütüklemeni Başlat">
+<!ENTITY aboutNetworking.stopLogging           "Kütüklemeni Toqtat">
+<!ENTITY aboutNetworking.dnsLookup             "DNS Baqıberişi">
+<!ENTITY aboutNetworking.dnsLookupButton       "Çez">
+<!ENTITY aboutNetworking.dnsDomain             "Saa">
+<!ENTITY aboutNetworking.dnsLookupTableColumn  "IP'ler">
+<!ENTITY aboutNetworking.rcwn                  "RCWN İhsaiyatı">
+<!ENTITY aboutNetworking.rcwnStatus            "RCWN Statusı">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "Zula ğalip adedi">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "Safiy ğalip adedi">
+<!ENTITY aboutNetworking.totalNetworkRequests  "Topyekün şebeke istemi adedi">
+<!ENTITY aboutNetworking.rcwnOperation         "Zula Ameliyesi">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "Aç">
+<!ENTITY aboutNetworking.rcwnPerfRead          "Oqu">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "Yaz">
+<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Kirildi Açıq">
+<!ENTITY aboutNetworking.rcwnAvgShort          "Qısqa Ortalama">
+<!ENTITY aboutNetworking.rcwnAvgLong           "Uzun Ortalama">
+<!ENTITY aboutNetworking.rcwnStddevLong        "Uzun Standart Sapma">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "Zula yavaş adedi">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "Zula yavaş degil adedi">

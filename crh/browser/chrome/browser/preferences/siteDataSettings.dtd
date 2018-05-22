@@ -2,18 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY window.title "Ayarlar - Sayt Verileri">
-<!ENTITY hostCol.label "Sayt">
-<!ENTITY statusCol.label "Status">
-<!ENTITY usageCol.label "Mağazlama">
-<!ENTITY searchTextboxPlaceHolder "Ağ-saytlarını qıdır">
-<!ENTITY searchTextboxPlaceHolder.accesskey "A">
-<!ENTITY removeSelected.label "Saylanğannı Çetleştir">
-<!ENTITY removeSelected.accesskey "r">
-<!ENTITY save.label "Deñişikliklerni Saqla">
-<!ENTITY save.accesskey "S">
-<!ENTITY cancel.label "Vazgeç">
-<!ENTITY cancel.accesskey "z">
-<!ENTITY removingDialog.title "Sayt Verileriniñ Çetleştirilmesi">
-<!ENTITY removingSelected.description "Sayt verileriniñ çetleştirilmesi alâqalı çörekler ve hat-tışı ağ muhtevasını da çetleştirecektir. Bu, sizni ağ-saytlarından tışarı imzalandırabilir. Deñişikliklerni yapmağa istegeniñizge eminsiñizmi?">
-<!ENTITY siteTree2.label "Aşağıdaki ağ-saytı çörekleri çetleştirilecek">
+<!ENTITY     window2.title                 "Çöreklerni ve Sayt Verilerini İdare Et">
+<!ENTITY     hostCol.label                 "Sayt">
+<!ENTITY     cookiesCol.label              "Çörekler">
+<!ENTITY     usageCol.label                "Mağazlama">
+<!ENTITY     lastAccessedCol.label                "Soñ Qullanım">
+<!ENTITY     searchTextboxPlaceHolder             "Ağ-saytlarını qıdır">
+<!ENTITY     searchTextboxPlaceHolder.accesskey   "A">
+<!ENTITY     removeSelected.label          "Saylanğannı Çetleştir">
+<!ENTITY     removeSelected.accesskey      "r">
+<!ENTITY     save.label                    "Deñişikliklerni Saqla">
+<!ENTITY     save.accesskey                "S">
+<!ENTITY     cancel.label                  "Vazgeç">
+<!ENTITY     cancel.accesskey              "z">
+<!ENTITY     removingDialog1.title         "Çörekler ve Sayt Verileri Çetleştirile">
+<!ENTITY     removingSelected1.description "Çörekler ve sayt verileriniñ çetleştirilmesi belki sizni ağ-saytlarından tışarı-imzalandırır. Deñişikliklerni yapmağa istegeniñizden eminsiñizmi?">
+<!ENTITY     siteTree3.label               "Aşağıdaki saytlar içün çörekler ve sayt verileri çetleştirilecek">

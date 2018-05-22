@@ -102,3 +102,5 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY mobilePromo3.end              " içün Firefox'nı endiriñiz.">
 
+<!ENTITY mobilepromo.singledevice      "Başqa bir cihaznı bağla">
+<!ENTITY mobilepromo.multidevice       "Cihazlarnı idare et">
