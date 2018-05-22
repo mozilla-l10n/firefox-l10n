@@ -370,7 +370,7 @@ restore-default =
 
 search-bar-header = Arama çubuğu
 search-bar-hidden =
-    .label = Adres çubuğını hem qıdırma hem de seyrüsefer içün qullan
+    .label = Adres çubuğını em qıdırma em de seyrüsefer içün qullan
 search-bar-shown =
     .label = Alet çubuğında qıdırma çubuğını ekle
 search-engine-default-header = Ögbelgilengen Qıdırma Motorı
@@ -387,10 +387,10 @@ search-show-suggestions-url-bar-option =
 # "ahead" refers to location (appearing most proximate to), not time
 # (appearing before).
 search-show-suggestions-above-history-option =
-    .label = Adres çubuğı neticelerinde qıdırma telqinlerini kezinti keçmişinden evvel köster
+    .label = Adres çubuğu sonuçlarında arama önerilerini gezinti geçmişinden önce göster
 search-suggestions-cant-show = { -brand-short-name } tarayıcısını geçmişi hatırlamayacak şekilde ayarladığınız için konum çubuğu sonuçlarında arama önerileri gösterilmeyecektir.
 search-one-click-header = Tek-çertme Qıdırma Motorları
-search-one-click-desc = Bir anahtar kelimeni kirsetmege başlağanıñızda adres çubuğınıñ ve qıdırma çubuğınıñ altında körünecek alternatif qıdırma motorlarını saylañız.
+search-one-click-desc = Bir anahtar kelimeni kirsetmege başlağanıñızda adres çubuğınıñ ve qıdırma çubuğınıñ altında körünecek alternativ qıdırma motorlarını saylañız.
 search-choose-engine-column =
     .label = Qıdırma Motorı
 search-choose-keyword-column =
@@ -425,9 +425,9 @@ containers-remove-button =
 ## Sync Section - Signed out
 
 sync-signedout-caption = Ağ’ıñıznı Yanıñızda Alıñız
-sync-signedout-description = Saifeimleriñizni, keçmişiñizni, ilmekleriñizni, eklentileriñizni ve tercihleriñizni hepsi cihazlarıñız arqalı aynılaştırıñız.
+sync-signedout-description = Saifeimleriñizni, keçmişiñizni, ilmekleriñizni, eklentileriñizni ve tercihleriñizni episi cihazlarıñız arqalı aynılaştırıñız.
 sync-signedout-account-title = { -fxaccount-brand-name } ile bağlanıñız
-sync-signedout-account-create = Hesabıñız yoqmı? Başlayıberiñiz
+sync-signedout-account-create = Esabıñız yoqmı? Başlayberiñiz
     .accesskey = e
 sync-signedout-account-signin =
     .label = İçeri İmzalan…
@@ -449,15 +449,15 @@ sync-profile-picture =
 sync-disconnect =
     .label = Bağlantıyı kes…
     .accesskey = B
-sync-manage-account = Esabı yönet
+sync-manage-account = Esapnı İdare Et
     .accesskey = H
 sync-signedin-unverified = { $email } doğrulanmamış.
-sync-signedin-login-failure = Yeniden { $email } esabına bağlanmak için lütfen giriş yapın
+sync-signedin-login-failure = Yañıdan { $email } esabına bağlanmaq içün lütfen içeri imzalanıñız
 sync-resend-verification =
     .label = Doğrulamayı yeniden gönder
     .accesskey = d
 sync-remove-account =
-    .label = Esabı sil
+    .label = Esapnı sil
     .accesskey = H
 sync-sign-in =
     .label = Giriş yap
@@ -559,7 +559,7 @@ history-remember-option-custom =
 history-remember-description = { -brand-short-name } kezinüv, endirme, forma ve qıdırma keçmişiñizni hatırlayacaq.
 history-dontremember-description = { -brand-short-name } Gizli Gezinti ile aynı ayarları kullanacak ve siz internette gezerken geçmişle ilgili hiçbir şeyi hatırlamayacak.
 history-private-browsing-permanent =
-    .label = Er zaman gizli gezinti kipini kullan
+    .label = Er zaman hususiy kezinüv tarzını qullan
     .accesskey = m
 history-remember-option =
     .label = Gezinti ve indirme geçmişimi hatırla
@@ -583,7 +583,7 @@ sitedata-header = Çörekler ve Sayt Verileri
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = Saqlanğan çörekler, sayt verileri ve zulañız hal-hazırda { $value } { $unit } disk fezası qullana.
+sitedata-total-size = Saqlanğan çörekler, sayt verileri ve zulañız al-azırda { $value } { $unit } disk fezası qullana.
 sitedata-learn-more = Daha fazla bilgi al
 sitedata-accept-cookies-option =
     .label = Ağ saytlarından çöreklerni ve sayt verilerini qabul et (tevsiye etilir)
@@ -632,8 +632,8 @@ addressbar-suggestions-settings = Qıdırma motorı telqinleri içün tercihlern
 
 ## Privacy Section - Tracking
 
-tracking-header = İzlenme Himayesi
-tracking-desc = İzlenme İmayesi, müetaddit sayt arqalı seyran verileriñizni toplağan hat-üstü izcilerni bloklar. <a data-l10n-name="learn-more">İzlenme İmayesi ve hususiyatıñız aqqında daa çoq ögreniñiz.</a>
+tracking-header = İzlenme İmayesi
+tracking-desc = İzlenme İmayesi, müetaddit sayt arqalı seyran verileriñizni toplağan hat-üstü izcilerni bloklar. <a data-l10n-name="learn-more">İzlenme İmayesi ve hususiyatıñız aqqında daha çoq ögreniñiz.</a>
 tracking-mode-label = Bilinen takipçileri engellemek için İzlenme Koruması’nı kullan
 tracking-mode-always =
     .label = Er zaman
@@ -685,7 +685,7 @@ permissions-block-popups-exceptions =
     .label = İstisnalar…
     .accesskey = a
 permissions-addon-install-warning =
-    .label = Saytlar eklentiler qurmağa çalışqanda meni tenbihle
+    .label = Saytlar eklentiler qurmağa talpınğanda meni tenbile
     .accesskey = t
 permissions-addon-exceptions =
     .label = İstisnalar…
@@ -698,15 +698,15 @@ permissions-a11y-privacy-link = Daha fazla bilgi al
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } Veriler Toplaması ve Qullanımı
-collection-description = Biz sizge saylamlar temin etmege ğayret etemiz ve faqat { -brand-short-name } kezicisini herkes içün temin etmek ve eyileştirmek içün muhtac olğanımız verilerni toplaymız. Şahsiy verilerni yibermezden evvel her zaman ruhset soraymız.
+collection-description = Biz sizge saylamlar temin etmege ğayret etemiz ve faqat { -brand-short-name } kezicisini erkes içün temin etmek ve eyileştirmek içün muhtac olğanımız verilerni toplaymız. Şahsiy verilerni yibermezden evvel er zaman ruhset soraymız.
 collection-privacy-notice = Hususiyat Tebliği
 collection-health-report =
     .label = { -brand-short-name } içün, tehnikiy ve tesirleşim verilerini { -vendor-short-name }'ğa yibermege caiz olsun
     .accesskey = r
 collection-health-report-link = Daha çoq ögren
 collection-studies =
-    .label = { -brand-short-name } içün tedqiqlerni qurmaq ve çaptırmaq caiz olsun
-collection-studies-link = { -brand-short-name } tedqiqlerini kör
+    .label = { -brand-short-name } içün tetqiqlerni qurmaq ve çaptırmaq caiz olsun
+collection-studies-link = { -brand-short-name } tetqiqlerini kör
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Bu yapılandırma için veri raporlama devre dışı bırakılmış
@@ -725,7 +725,7 @@ collection-backlogged-crash-reports-link = Daha fazla bilgi al
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Emniyet
-security-browsing-protection = Aldatıcı Muhteva ve Tehlükeli Yazılım Himayesi
+security-browsing-protection = Aldatıcı Muhteva ve Tehlükeli Yazılım İmayesi
 security-enable-safe-browsing =
     .label = Tehlükeli ve aldatıcı muhtevanı blokla
     .accesskey = T
@@ -734,24 +734,24 @@ security-block-downloads =
     .label = Tehlikeli indirmeleri engelle
     .accesskey = i
 security-block-uncommon-software =
-    .label = İstenmegen ve ğayrı-adetiy yazılım haqqında meni tenbihle
+    .label = İstenmegen ve ğayrı-adetiy yazılım aqqında meni tenbile
     .accesskey = r
 
 ## Privacy Section - Certificates
 
-certs-header = Şehadetnameler
+certs-header = Şeadetnameler
 certs-personal-label = Bir sunucu kişisel sertifikamı istediğinde
 certs-select-auto-option =
     .label = Birini öz-özünden sayla
     .accesskey = B
 certs-select-ask-option =
-    .label = Her seferinde maña sora
+    .label = Er seferinde maña sora
     .accesskey = H
 certs-enable-ocsp =
-    .label = Şehadetnamelerniñ keçerliligini teyit etmek içün OCSP cevapçı sunucılarını istifsar et
+    .label = Şeadetnamelerniñ keçerliligini teyit etmek içün OCSP cevapçı sunucılarını istifsar et
     .accesskey = d
 certs-view =
-    .label = Şehadetnamelerni Köster…
+    .label = Şeadetnamelerni Köster…
     .accesskey = ö
 certs-devices =
     .label = Emniyet Cihazları…
