@@ -66,7 +66,7 @@
 <!ENTITY  crash_closing_alert "不发送崩溃报告并退出？">
 <!ENTITY  sending_crash_report "正在发送崩溃报告\u2026">
 <!ENTITY  crash_close_label "关闭">
-<!ENTITY  crash_restart_label "重启 &brandShortName;">
+<!ENTITY  crash_restart_label "重开 &brandShortName;">
 
 <!ENTITY url_bar_default_text2 "搜索或输入网址">
 
