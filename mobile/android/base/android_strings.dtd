@@ -54,8 +54,8 @@
 <!ENTITY crash_close_label "Chiudi">
 <!ENTITY crash_restart_label "Riavvia &brandShortName;">
 <!ENTITY url_bar_default_text2 "Cerca o inserisci un indirizzo">
-<!ENTITY url_bar_qrcode_text2 "Usa un codice QR per aprire un sito web">
-<!ENTITY url_bar_mic_text2 "Usa il microfono per inserire un indirizzo">
+<!ENTITY url_bar_qrcode_text2 "Utilizza il lettore QR per cercare o inserire un indirizzo">
+<!ENTITY url_bar_mic_text2 "Utilizza il microfono per cercare o inserire un indirizzo">
 <!ENTITY bookmark "Segnalibro">
 <!ENTITY bookmark_remove "Elimina segnalibro">
 <!ENTITY bookmark_added "Aggiunto segnalibro">
