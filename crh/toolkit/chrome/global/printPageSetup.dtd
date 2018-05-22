@@ -1,0 +1,66 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printSetup.title    "Saife Ayarlaması">
+
+<!ENTITY basic.tab           "Format &amp; Seçenekler">
+
+<!ENTITY formatGroup.label   "Format">
+
+<!ENTITY orientation.label   "Yöneldirim:">
+<!ENTITY portrait.label      "Portret">
+<!ENTITY portrait.accesskey  "P">
+<!ENTITY landscape.label     "Manzara">
+<!ENTITY landscape.accesskey "M">
+
+<!ENTITY scale.label         "Miqyas:">
+<!ENTITY scale.accesskey     "s">
+<!ENTITY scalePercent        "&#037;">
+
+<!ENTITY shrinkToFit.label   "Saife Kenişligine sığuv içün tarlat">
+<!ENTITY shrinkToFit.accesskey "K">
+
+<!ENTITY optionsGroup.label  "Seçenekler">
+
+<!ENTITY printBG.label       "Arqazeminni Bastır (tüsler &amp; suretler)">
+<!ENTITY printBG.accesskey   "A">
+
+<!ENTITY advanced.tab        "Kenarlar &amp; Başlıq/Ayaqlıq">
+
+<!ENTITY marginGroup.label   "Kenarlar (#1)">
+<!ENTITY marginUnits.inches  "düym">
+<!ENTITY marginUnits.metric  "millimetre">
+<!ENTITY marginTop.label     "Üst:">
+<!ENTITY marginTop.accesskey "s">
+<!ENTITY marginBottom.label  "Tüp:">
+<!ENTITY marginBottom.accesskey "T">
+<!ENTITY marginLeft.label    "Sol:">
+<!ENTITY marginLeft.accesskey "l">
+<!ENTITY marginRight.label   "Oñ:">
+<!ENTITY marginRight.accesskey "O">
+
+<!ENTITY headerFooter.label  "Başlıqlar &amp; Ayaqlıqlar">
+
+<!ENTITY hfLeft.label        "Sol:">
+<!ENTITY hfCenter.label      "Merkez:">
+<!ENTITY hfRight.label       "Oñ:">
+<!ENTITY headerLeft.tip      "Sol başlıq">
+<!ENTITY headerCenter.tip    "Merkez başlıq">
+<!ENTITY headerRight.tip     "Oñ başlıq">
+<!ENTITY footerLeft.tip      "Sol ayaqlıq">
+<!ENTITY footerCenter.tip    "Merkez ayaqlıq">
+<!ENTITY footerRight.tip     "Oñ ayaqlıq">
+
+<!ENTITY hfTitle             "Serleva">
+<!ENTITY hfURL               "Adres">
+<!ENTITY hfDateAndTime       "Tarih/Saat">
+<!ENTITY hfPage              "Saife #">
+<!ENTITY hfPageAndTotal      "Saife #/#">
+<!ENTITY hfBlank             "--boş--">
+<!ENTITY hfCustom            "Özel…">
+
+<!ENTITY customPrompt.title  "Özel…">
+<!ENTITY customPrompt.prompt "Özel başlıq/ayaqlıq metnini kirsetiñiz">
