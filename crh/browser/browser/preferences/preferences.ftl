@@ -326,6 +326,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Şebeke Proksisi
+network-proxy-connection-description = { -brand-short-name } kezicisiniñ İnternet'ke nasıl bağlanacağını endamlandırıñız.
 network-proxy-connection-learn-more = Daa Çoq Ögren
 network-proxy-connection-settings =
     .label = Ayarlar…
@@ -333,9 +334,20 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = Yañı Pencereler ve İlmekler
+home-new-windows-tabs-description2 = Ev saifeñizni, yañı pencerelerni ve yañı ilmeklerni açqanıñızda ne körgeniñizni saylañız.
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Ev-saifesi ve yañı pencereler
+home-newtabs-mode-label = Yañı ilmekler
+home-restore-defaults =
+    .label = Ögbelgilemelerni Keri Tikle
+    .accesskey = b
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Firefox Evi (Ögbelgilengen)
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -358,16 +370,16 @@ restore-default =
 
 search-bar-header = Arama çubuğu
 search-bar-hidden =
-    .label = Em arama em de gezinti için adres çubuğunu kullan
+    .label = Adres çubuğını em qıdırma em de seyrüsefer içün qullan
 search-bar-shown =
-    .label = Araç çubuğuna arama çubuğunu ekle
-search-engine-default-header = Varsayılan arama motoru
-search-engine-default-desc = Adres çubuğunda ve arama çubuğunda kullanılacak varsayılan arama motorunu seçin.
+    .label = Alet çubuğında qıdırma çubuğını ekle
+search-engine-default-header = Ögbelgilengen Qıdırma Motorı
+search-engine-default-desc = Adres çubuğında ve qıdırma çubuğında qullanılacaq ögbelgilengen qıdırma motorını sayla.
 search-suggestions-option =
-    .label = Arama önerileri sun
-    .accesskey = ö
+    .label = Qıdırma telqinleri temin et
+    .accesskey = r
 search-show-suggestions-url-bar-option =
-    .label = Adres çubuğu sonuçlarında arama önerilerini göster
+    .label = Adres çubuğı neticelerinde qıdırma telqinlerini köster
     .accesskey = l
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
@@ -403,7 +415,7 @@ search-keyword-warning-bookmark = Şu anda bir yer imi tarafından kullanılan b
 containers-back-link = « Geri dön
 containers-header = Kapsayıcı sekmeler
 containers-add-button =
-    .label = Yeni kapsayıcı ekle
+    .label = Yañı Konteyner Ekle
     .accesskey = e
 containers-preferences-button =
     .label = Tercihler
@@ -453,7 +465,7 @@ sync-sign-in =
 sync-signedin-settings-header = Sync ayarları
 sync-signedin-settings-desc = { -brand-short-name } kullanan cihazlarınız arasında eşitlenecek öğeleri seçin.
 sync-engine-bookmarks =
-    .label = Yer imleri
+    .label = Saifeimleri
     .accesskey = m
 sync-engine-history =
     .label = Geçmiş
@@ -604,8 +616,8 @@ addressbar-locbar-history-option =
     .label = Gezinti geçmişi
     .accesskey = G
 addressbar-locbar-bookmarks-option =
-    .label = Yer imleri
-    .accesskey = Y
+    .label = Saifeimleri
+    .accesskey = m
 addressbar-locbar-openpage-option =
     .label = Açık sekmeler
     .accesskey = s
