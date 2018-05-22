@@ -11,7 +11,7 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "检查更新">
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
-<!ENTITY update.updateButton.label3               "重启以更新 &brandShorterName;">
+<!ENTITY update.updateButton.label3               "重开以更新 &brandShorterName;">
 <!ENTITY update.updateButton.accesskey            "R">
 
 
