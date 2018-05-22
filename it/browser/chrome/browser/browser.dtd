@@ -175,6 +175,7 @@
 <!ENTITY urlbar.openHistoryPopup.tooltip "Visualizza cronologia">
 <!ENTITY searchItem.title "Cerca">
 <!ENTITY homeButton.label "Pagina iniziale&#173;">
+<!ENTITY homeButton.defaultPage.tooltip "Pagina iniziale di &brandShortName;">
 <!ENTITY bookmarksButton.label "Segnalibri">
 <!ENTITY bookmarksCmd.commandkey "b">
 <!ENTITY bookmarksSubview.label "Segnalibri">
