@@ -25,7 +25,7 @@
 <!ENTITY useSmoothScrolling.accesskey  "m">
 
 <!ENTITY systemIntegration.label       "Integración co sistema">
-<!ENTITY alwaysCheckDefault.label      "Sempre comprobar se &brandShortName; é o navegador predeterminado no inicio">
+<!ENTITY alwaysCheckDefault.label      "Sempre comprobar se &brandShortName; é o cliente de correo predeterminado no inicio">
 <!ENTITY alwaysCheckDefault.accesskey  "a">
 <!ENTITY searchIntegration.label       "Permitir que &searchIntegration.engineName; busque nas mensaxes">
 <!ENTITY searchIntegration.accesskey   "P">
