@@ -350,6 +350,10 @@ home-mode-choice-default =
     .label = Firefox Evi (Ögbelgilengen)
 home-mode-choice-custom =
     .label = Özel URL'ler
+home-mode-choice-blank =
+    .label = Boş saife
+home-homepage-custom-url =
+    .placeholder = Bir URL yapıştır…
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -582,11 +586,12 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Çörekler ve Sayt Verileri
+sitedata-total-size-calculating = Sayt verileri ve zula ölçüsi esaplana…
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Saqlanğan çörekler, sayt verileri ve zulañız al-azırda { $value } { $unit } disk fezası qullana.
-sitedata-learn-more = Daha fazla bilgi al
+sitedata-learn-more = Daa çoq ögren
 sitedata-accept-cookies-option =
     .label = Ağ saytlarından çöreklerni ve sayt verilerini qabul et (tevsiye etilir)
     .accesskey = k
@@ -731,7 +736,7 @@ security-browsing-protection = Aldatıcı Muhteva ve Tehlükeli Yazılım İmaye
 security-enable-safe-browsing =
     .label = Tehlükeli ve aldatıcı muhtevanı blokla
     .accesskey = T
-security-enable-safe-browsing-link = Daha fazla bilgi al
+security-enable-safe-browsing-link = Daa çoq ögren
 security-block-downloads =
     .label = Tehlükeli endirmelerni blokla
     .accesskey = T
