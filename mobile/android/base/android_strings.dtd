@@ -461,7 +461,7 @@
 <!ENTITY share_image_failed "Inposcibile condividde sta inmagine">
 <!ENTITY save_as_pdf "Sarva comme PDF">
 <!ENTITY print "Stanpa">
-<!ENTITY view_page_source "Fanni vedde sorgente pagina">
+<!ENTITY view_page_source "Sorgente da pagina">
 <!ENTITY find_in_page "Treuva inta pagina">
 <!ENTITY desktop_mode "Verscion desktop">
 <!ENTITY page "Pagina">
@@ -508,7 +508,7 @@
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
-<!ENTITY contextmenu_pin_to_top_sites "Fissa in sciti prinçipâ">
+<!ENTITY contextmenu_pin_to_top_sites "Fissa inti sciti prinçipâ">
 <!ENTITY contextmenu_unpin_from_top_sites "Leva da sciti prinçipâ">
 <!ENTITY contextmenu_add_search_engine "Azonzi motô de riçerca">
 
@@ -864,7 +864,7 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_delete_history "Scancella da-a stöia">
 
 <!ENTITY private_tab_panel_title "Navegaçion Privâ con Anti-traciamento">
-<!ENTITY private_tab_panel_description "&brandShortName; o blòcca elementi de pagine che peuan traciâ a navegaçion.">
+<!ENTITY private_tab_panel_description "&brandShortName; o blòcca i elementi de pagine che peuan traciâ a navegaçion.">
 <!ENTITY private_tab_panel_description2 "Niatri no s\&apos;aregordiemo da stöia da navegaçion, ma i file descaregæ e neuvi segnalibbri saian a ògni mòddo sarvæ into dispoxitivo.">
 <!ENTITY private_tab_learn_more "Ti veu atre informaçioin?">
 
