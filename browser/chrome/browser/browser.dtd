@@ -61,6 +61,8 @@ can reach it easily. -->
 <!ENTITY  closeTab.label                     "Κλείσιμο καρτέλας">
 <!ENTITY  closeTab.accesskey                 "Κ">
 
+<!ENTITY  hiddenTabs.label                   "Κρυμμένες καρτέλες">
+
 <!ENTITY  listAllTabs.label      "Προβολή καρτελών σε λίστα">
 
 <!ENTITY tabCmd.label "Νέα καρτέλα">
@@ -125,7 +127,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Προβολή όλων των καρτελών">
 <!ENTITY showAllTabsCmd.accesskey "λ">
 <!ENTITY toggleReaderMode.key "R">
-
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "Σύνδεση στο &syncBrand.shortName.label;">
@@ -185,10 +186,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Άλλοι σελιδοδείκτες">
 <!ENTITY mobileBookmarksCmd.label "Σελιδοδείκτες κινητού">
 <!ENTITY bookmarksToolbarChevron.tooltip "Προβολή περισσότερων σελιδοδεικτών">
-<!ENTITY showRecentlyBookmarked.label     "Προβολή πρόσφατων σελιδοδεικτών">
-<!ENTITY showRecentlyBookmarked.accesskey "φ">
-<!ENTITY hideRecentlyBookmarked.label     "Απόκρυψη πρόσφατων σελιδοδεικτών">
-<!ENTITY hideRecentlyBookmarked.accesskey "Φ">
 
 <!ENTITY backCmd.label                "Πίσω">
 <!ENTITY backCmd.accesskey            "Π">
@@ -219,6 +216,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Αποθήκευση δεδομένων στην Επίμονη Αποθήκευση">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Το πρόγραμμα περιήγησης ελέγχεται απομακρυσμένα">
 
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Διαχείριση του διαμοιρασμού της κάμερας και/ή του μικροφώνου σας για τον ιστοτόπο">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Διαχείριση του διαμοιρασμού του μικροφώνου σας για τον ιστοτόπο">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Διαχείριση του διαμοιρασμού των παραθύρων ή της οθόνης σας με τον ιστοτόπο">
@@ -228,14 +226,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Διαχείριση μετάφρασης σελίδας">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Διαχείριση χρήσης λογισμικού DRM">
 
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "Έχετε αποκλείσει την κάμερά σας για τον ιστοτόπο.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Έχετε αποκλείσει το μικρόφωνό σας για τον ιστοτόπο.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Έχετε αποκλείσει τον ιστοτόπο από το μοίρασμα της οθόνης σας.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Έχετε αποκλείσει τις πληροφορίες τοποθεσίας για τον ιστοτόπο.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Έχετε αποκλείσει τις ειδοποιήσεις για τον ιστοτόπο.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Έχετε αποκλείσει την επίμονη αποθήκευση για αυτή την ιστοσελίδα.">
-
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Προβολή ιστορικού">
 
@@ -260,7 +256,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addBookmarksMenu.label             "Προσθήκη μενού σελιδοδεικτών στη γραμμή εργαλείων">
 <!ENTITY removeBookmarksMenu.label          "Αφαίρεση μενού σελιδοδεικτών από τη γραμμή εργαλείων">
 
-<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 <!ENTITY bookmarksGtkCmd.commandkey "o">
@@ -291,6 +287,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY inspectContextMenu.label     "Έλεγχος αντικειμένου">
 <!ENTITY inspectContextMenu.accesskey "υ">
+
 
 <!ENTITY fileMenu.label         "Αρχείο">
 <!ENTITY fileMenu.accesskey       "Α">
@@ -377,11 +374,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Ενεργοποιήστε τον συγχρονισμό καρτελών για να δείτε μια λίστα από καρτέλες από τις άλλες σας συσκευές.">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Θέλετε να δείτε τις καρτέλες από τις άλλες σας συσκευές εδώ;">
-<!ENTITY appMenuRemoteTabs.openprefs.label "Προτιμήσεις συγχρονισμού">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Άνοιγμα προτιμήσεων συγχρονισμού">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Συνδεθείτε για να δείτε μία λίστα με καρτέλες από τις άλλες σας συσκευές.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Ο λογαριασμός σας πρέπει να επαληθευτεί.">
@@ -420,6 +416,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromMenu.accesskey "Ρ">
 <!ENTITY customizeMenu.addMoreItems.label "Προσθήκη περισσότερων αντικειμένων…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "α">
+
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -555,6 +552,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Ορισμός ως ταπετσαρία…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "τ">
 <!ENTITY bookmarkPageCmd2.label       "Προσθήκη στους σελιδοδείκτες">
+<!ENTITY bookmarkPageCmd2.accesskey   "θ">
 <!ENTITY bookmarkThisLinkCmd.label      "Προσθήκη στους σελιδοδείκτες">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "δ">
 <!ENTITY bookmarkThisFrameCmd.label      "Προσθήκη στους σελιδοδείκτες">
@@ -970,14 +968,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "Ό">
 <!ENTITY updateRestart.panelUI.label2 "Επανεκκίνηση για ενημέρωση του &brandShorterName;">
 
-
 <!ENTITY newTabControlled.header.message "Η νέα σας καρτέλα έχει αλλάξει.">
 <!ENTITY newTabControlled.keepButton.label "Διατήρηση αλλαγών">
 <!ENTITY newTabControlled.keepButton.accesskey "Δ">
-<!ENTITY newTabControlled.restoreButton.label "Επαναφορά ρυθμίσεων">
-<!ENTITY newTabControlled.restoreButton.accesskey "Ε">
-
 <!ENTITY newTabControlled.disableButton.label "Απενεργοποίηση Επέκτασης">
+
+
 
 <!ENTITY pageActionButton.tooltip "Ενέργειες σελίδας">
 <!ENTITY pageAction.addToUrlbar.label "Προσθήκη στη γραμμή διευθύνσεων">
@@ -988,6 +984,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "Αποστολή καρτέλας σε συσκευή">
 <!ENTITY sendToDevice.syncNotReady.label "Συγχρονισμός συσκευών…">
+
 
 <!ENTITY libraryButton.tooltip "Προβολή ιστορικού, σελιδοδεικτών και πολλών άλλων">
 
