@@ -591,7 +591,7 @@ sitedata-total-size-calculating = Sayt verileri ve zula ölçüsi esaplana…
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Saqlanğan çörekler, sayt verileri ve zulañız al-azırda { $value } { $unit } disk fezası qullana.
-sitedata-learn-more = Daa çoq ögren
+sitedata-learn-more = Daha çoq ögren
 sitedata-accept-cookies-option =
     .label = Ağ saytlarından çöreklerni ve sayt verilerini qabul et (tevsiye etilir)
     .accesskey = k
@@ -736,7 +736,7 @@ security-browsing-protection = Aldatıcı Muhteva ve Tehlükeli Yazılım İmaye
 security-enable-safe-browsing =
     .label = Tehlükeli ve aldatıcı muhtevanı blokla
     .accesskey = T
-security-enable-safe-browsing-link = Daa çoq ögren
+security-enable-safe-browsing-link = Daha çoq ögren
 security-block-downloads =
     .label = Tehlükeli endirmelerni blokla
     .accesskey = T
