@@ -10,7 +10,7 @@
 <!ENTITY firstrun_privacy_subtext "Navegaçion privâ con proteçion anti-traciamento ch\&apos;a blòcca chi o traccia a navagaçion e a no s\&apos;aregordiâ da stöia da navegaçion quande ti finisci de navegâ.">
 <!ENTITY firstrun_panel_title_customize "Personalizza">
 <!ENTITY firstrun_customize_message "Rendi &brandShortName; o teu pe davei.">
-<!ENTITY firstrun_customize_subtext "Personalizza &brandShortName; con conponenti azonti. Bòcca e publicitæ, azonzi fonoçioin, ò çerni \&apos;n tema ch\&apos;o va d\&apos;acòrdio co-a teu personalitæ.">
+<!ENTITY firstrun_customize_subtext "Personalizza &brandShortName; con conponenti azonti. Blòcca e publicitæ, azonzi fonoçioin, ò çerni \&apos;n tema ch\&apos;o va d\&apos;acòrdio co-a teu personalitæ.">
 <!ENTITY firstrun_bookmarks_title "Stöia">
 <!ENTITY firstrun_bookmarks_message "I teu preferii, davanti e a-o centro">
 <!ENTITY firstrun_bookmarks_subtext "Amia i exiti da-i teu segnalibbri e stöia tanto che ti çerchi.">
@@ -139,7 +139,7 @@
 <!ENTITY settings "Inpostaçioin">
 <!ENTITY settings_title "Inpostaçioin">
 <!ENTITY pref_category_general "Generale">
-<!ENTITY pref_category_general_summary3 "Câza, lengoa e coa di feuggi">
+<!ENTITY pref_category_general_summary3 "Pagina prinçipâ, lengoa e coa di feuggi">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -199,7 +199,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint2 "CONSEGGIO: Azonzi un scito inta teu lista de motoî de riçerca sciacandoghe srovia a longo into canpo de riçerca e sciacando pöi l\&apos;icöna &formatI;.">
+<!ENTITY pref_search_hint2 "CONSEGGIO: Azonzi un scito inta teu lista de motoî de riçerca sciacandoghe sorvia a longo into canpo de riçerca e sciacando pöi l\&apos;icöna &formatI;.">
 <!ENTITY pref_category_advanced "Avansæ">
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
@@ -298,7 +298,7 @@
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 <!ENTITY pref_custom_tabs2 "Feuggi personalizæ">
-<!ENTITY pref_custom_tabs_summary4 "Permette a-e app de arvî contegnui web inte \&apos;n feuggio personalizou che se carega a-a spedia">
+<!ENTITY pref_custom_tabs_summary4 "Permette a-e app de arvî contegnui web inte \&apos;n feuggio personalizou ch\&apos;o se carega a-a spedia">
 
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
@@ -318,7 +318,7 @@
 <!ENTITY tab_queue_toast_message3 "Feuggio sarvou in &brandShortName;">
 <!ENTITY tab_queue_toast_action "Arvi oua">
 <!ENTITY tab_queue_prompt_title "Arvî ciù colegamenti?">
-<!ENTITY tab_queue_prompt_text4 "Sarvili scinn-a a-a proscima vòtta che arvo &brandShortName;.">
+<!ENTITY tab_queue_prompt_text4 "Sarvili scinn-a a-a proscima vòtta ch\&apos;arvo &brandShortName;.">
 <!ENTITY tab_queue_prompt_tip_text2 "Ti peu cangiâ questo dòppo inte Inpostaçioin">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
@@ -342,7 +342,7 @@
      has been queued but we are missing the system permission to show an overlay. -->
 <!ENTITY tab_queue_notification_settings "Pe \&quot;Arvî ciù colegamenti\&quot;, ti devi abilitâ o permisso \&apos;Vanni sorvia e atre app\&apos; pe &brandShortName;">
 
-<!ENTITY pref_char_encoding "Show character encoding">
+<!ENTITY pref_char_encoding "Codifica carateri">
 <!ENTITY pref_char_encoding_on "Fanni vedde o menû">
 <!ENTITY pref_char_encoding_off "No fanni vedde o menû">
 <!ENTITY pref_clear_private_data2 "Scancella dæti privæ">
@@ -364,7 +364,7 @@
 <!ENTITY pref_media_autoplay_enabled "Permetti aoto-riproduçion">
 <!ENTITY pref_media_autoplay_enabled_summary "Contròlla se i sciti peuan aoto-riprodue video e atri media">
 <!ENTITY pref_zoom_force_enabled "Abilita de longo o zoom">
-<!ENTITY pref_zoom_force_enabled_summary "Fòrsa l\&apos;anâ oltre de pagine coscì ti peu fâ o zoom">
+<!ENTITY pref_zoom_force_enabled_summary "Ignòra e inpostaçioin da pagina e pemetti de longo o zoom">
 <!ENTITY pref_voice_input "Comandi vocali">
 <!ENTITY pref_voice_input_summary2 "Permetti o detou inta bara de URL">
 <!ENTITY pref_qrcode_enabled "Letô di Còdici QR">
@@ -375,7 +375,7 @@
 <!ENTITY pref_sync2 "Intra">
 <!ENTITY pref_sync_summary2 "Scincronizza feuggi, segnalibbri, acessi e stöia">
 <!ENTITY pref_search_suggestions "Veddi i sugerimenti de riçerca">
-<!ENTITY pref_history_search_suggestions "Fanni vedde stöia de riçerche">
+<!ENTITY pref_history_search_suggestions "Mostra stöia de riçerche">
 <!ENTITY pref_import_options "Inpòrta inpostaçioin">
 <!ENTITY pref_import_android_summary "Inpòrta segnalibbrie stöia da-o navegatô nativo">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
@@ -463,7 +463,7 @@
 <!ENTITY print "Stanpa">
 <!ENTITY view_page_source "Fanni vedde sorgente pagina">
 <!ENTITY find_in_page "Treuva inta pagina">
-<!ENTITY desktop_mode "Domanda verscion desktop">
+<!ENTITY desktop_mode "Verscion desktop">
 <!ENTITY page "Pagina">
 <!ENTITY tools "Atressi">
 <!ENTITY new_tab "Neuvo feuggio">
@@ -532,11 +532,11 @@
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-<!ENTITY pref_scroll_title_bar2 "Navegaçion a tutto schermo">
+<!ENTITY pref_scroll_title_bar2 "Navegaçion a schermo intrego">
 <!ENTITY pref_scroll_title_bar_summary2 "Ascondi a bara di atressi de &brandShortName; quande rebello in zu a pagina">
 
 <!ENTITY pref_tab_queue_title3 "Coa di feuggi">
-<!ENTITY pref_tab_queue_summary4 "Sarva colegamenti scinn-a a-a proscima vòtta che arvo &brandShortName;">
+<!ENTITY pref_tab_queue_summary4 "Sarva colegamenti scinn-a a-a proscima vòtta ch\&apos;arvo &brandShortName;">
 
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
@@ -729,7 +729,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "Vanni avanti">
 <!ENTITY guest_session_dialog_cancel "Anulla">
 <!ENTITY new_guest_session_title "&brandShortName; o s\&apos;arviâ torna">
-<!ENTITY new_guest_session_text2 "A persona ch\&apos;o deuvia o no poriâ vedde nisciun di teu dati de navegaçion (comme acessi sarvæ, stöia ò segnalibbri).\n\nQuande l\&apos;òspite o l\&apos;à finio, i seu dæti saian scancelæ e a teu sescion a saiâ repigiâ.">
+<!ENTITY new_guest_session_text2 "A persona ch\&apos;o deuvia a no poriâ vedde nisciun di teu dæti de navegaçion (acessi sarvæ, stöia ò segnalibbri).\n\nQuande l\&apos;òspite o l\&apos;à finio, i seu dæti saian scancelæ e-a teu sescion a saiâ repigiâ.">
 <!ENTITY guest_browsing_notification_title "Navegaçion òspite abilitâ">
 <!ENTITY guest_browsing_notification_text "Sciacca pe sciortî">
 
@@ -855,7 +855,7 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "De tentensa">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
-<!ENTITY activity_stream_highlights_empty "Iniçia a navegâ e, in sta seçion, saian mostræ articoli, video e atre pagine vixitæ de fresco ò azonti a-i segnalibbri.">
+<!ENTITY activity_stream_highlights_empty "Iniçia a navegâ e in sta seçion ti troviæ articoli, video e atre pagine vixitæ de fresco ò azonti a-i segnalibbri.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
@@ -868,7 +868,7 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY private_tab_panel_description2 "Niatri no s\&apos;aregordiemo da stöia da navegaçion, ma i file descaregæ e neuvi segnalibbri saian a ògni mòddo sarvæ into dispoxitivo.">
 <!ENTITY private_tab_learn_more "Ti veu atre informaçioin?">
 
-<!ENTITY fullscreen_warning "T\&apos;ê into mòddo a tutto schermo">
+<!ENTITY fullscreen_warning "T\&apos;ê into mòddo a schermo intrego">
 
 <!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
 <!ENTITY pwa_add_to_launcher_confirm "+ Azonzi a-a Pagina Prinçipâ">
