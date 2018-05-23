@@ -462,7 +462,7 @@
 <!ENTITY save_as_pdf "Lagre som PDF">
 <!ENTITY print "Skriv ut">
 <!ENTITY view_page_source "Vis kildekode">
-<!ENTITY find_in_page "Finn på siden">
+<!ENTITY find_in_page "Søk på siden">
 <!ENTITY desktop_mode "Vis skrivebordsversjon">
 <!ENTITY page "Side">
 <!ENTITY tools "Verktøy">
@@ -478,7 +478,7 @@
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-<!ENTITY find_text "Finn på siden">
+<!ENTITY find_text "Søk på siden">
 <!ENTITY find_prev "Forrige">
 <!ENTITY find_next "Neste">
 <!ENTITY find_close "Lukk">
