@@ -204,13 +204,13 @@
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-<!ENTITY pref_category_advanced_summary3 "Repiggi feuggi, sarvataggio dæti, strumenti svilopatoî">
+<!ENTITY pref_category_advanced_summary3 "Repiggio feuggi, sarvataggio dæti, strumenti svilopatoî">
 <!ENTITY pref_category_notifications "Notifiche">
 <!ENTITY pref_category_notifications_summary "Neuve fonçioin, agiornamenti di sciti">
 <!ENTITY pref_category_notifications_summary2 "Neuve fonçioin, conseggi do produto">
 <!ENTITY pref_developer_remotedebugging_usb "Debug remòtto via USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Debug remòtto via Wi-Fi">
-<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "O debug Wi-Fi o domanda che o dispoxitivo o l\&apos;agge instalou \&apos;n\&apos;aplicaçion che lezze i còdiceùi QR.">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "O debug Wi-Fi o domanda ch\&apos;o dispoxitivo o l\&apos;agge instalou \&apos;n\&apos;aplicaçion che lezze i còdice QR.">
 <!ENTITY pref_remember_signons2 "Aregòrda acessi">
 <!ENTITY pref_manage_logins "Gestion acessi">
 
@@ -362,7 +362,7 @@
 <!ENTITY pref_use_system_font_size_summary "Adatta o contegnuo web a segonda da dimenscion do testo de scistema">
 
 <!ENTITY pref_media_autoplay_enabled "Permetti aoto-riproduçion">
-<!ENTITY pref_media_autoplay_enabled_summary "Contròlla se i sciti peuan aoto-riprodue video e atri media">
+<!ENTITY pref_media_autoplay_enabled_summary "Contròlla se i sciti peuan aotoriprodue video e atri media">
 <!ENTITY pref_zoom_force_enabled "Abilita de longo o zoom">
 <!ENTITY pref_zoom_force_enabled_summary "Ignòra e inpostaçioin da pagina e pemetti de longo o zoom">
 <!ENTITY pref_voice_input "Comandi vocali">
