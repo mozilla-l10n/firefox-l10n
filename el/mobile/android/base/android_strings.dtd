@@ -207,6 +207,7 @@
 <!ENTITY pref_category_advanced_summary3 "Επαναφορά καρτελών, εξοικονόμηση δεδομένων, εργαλεία προγραμματιστών">
 <!ENTITY pref_category_notifications "Ειδοποιήσεις">
 <!ENTITY pref_category_notifications_summary "Νέα χαρακτηριστικά, ενημερώσεις ιστοσελίδων">
+<!ENTITY pref_category_notifications_summary2 "Συμβουλές για νέες λειτουργίες και προϊόντα">
 <!ENTITY pref_developer_remotedebugging_usb "Απομακρυσμένη αποσφαλμάτωση μέσω USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Απομακρυσμένη αποσφαλμάτωση μέσω Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Η αποσφαλμάτωση μέσω Wi-Fi προαπαιτεί την ύπαρξη εφαρμογής ανάγνωσης κωδικών QR στη συσκευή σας.">
@@ -281,6 +282,13 @@
 
 <!ENTITY pref_whats_new_notification "Τί νέο υπάρχει στον &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Μάθετε για τα νέα χαρακτηριστικά από μια ενημέρωση">
+
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!ENTITY pref_feature_tips_notification "Συμβουλές για προϊόντα και λειτουργίες">
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+<!ENTITY pref_feature_tips_notification_summary "Μάθετε περισσότερα σχετικά με τη χρήση του &brandShortName; και άλλων προϊόντων της &vendorShortName;">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
@@ -422,7 +430,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "Αναφορά Υγείας &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "Αποστέλλει πληροφορίες στο &vendorShortName; σχετικά με την υγεία του περιηγητή σας και σας βοηθά να κατανοήσετε την απόδοση του">
-<!ENTITY datareporting_abouthr_title "Εμφάνιση της αναφοράς υγείας μου">
 <!ENTITY datareporting_telemetry_title "Τηλεμετρία">
 <!ENTITY datareporting_telemetry_summary "Αποστέλλει πληροφορίες απόδοσης, χρήσης, υλικού συσκευής και εξατομίκευσης του περιηγητή σας στο &vendorShortName; έτσι ώστε να βελτιώσουμε τον &brandShortName;">
 <!ENTITY datareporting_crashreporter_summary "Ο &brandShortName; αποστέλλει αναφορές κατάρρευσης έτσι ώστε το &vendorShortName; να βελτιώσει τη σταθερότητα και ασφάλεια του περιηγητή σας">
@@ -537,7 +544,7 @@
 <!ENTITY pref_compact_tabs_summary2 "Τακτοποίηση καρτελών σε δύο στήλες στην κατακόρυφη λειτουργία">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
-     any page is removed frome about:home. This includes pages that are in history,
+     any page is removed from about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Η σελίδα αφαιρέθηκε">
 <!ENTITY folder_removed "Ο φάκελος αφαιρέθηκε">
@@ -755,7 +762,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Τελευταίος συγχρονισμός: &formatS;">
-<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!-- Localization note: Used when the sync has not happened yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Τελευταίος συγχρονισμός: ποτέ">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
