@@ -204,10 +204,10 @@
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-<!ENTITY pref_category_advanced_summary3 "Restaurează filele, economizorul de date, uneltele de dezvoltare">
+<!ENTITY pref_category_advanced_summary3 "Restaurează filele, economizorul de date, instrumentele de dezvoltare">
 <!ENTITY pref_category_notifications "Notificări">
 <!ENTITY pref_category_notifications_summary "Funcționalități noi, actualizările site-urilor web">
-<!ENTITY pref_category_notifications_summary2 "Funcționalități noi, ponturi product">
+<!ENTITY pref_category_notifications_summary2 "Funcționalități noi, ponturi referitoare la produse">
 <!ENTITY pref_developer_remotedebugging_usb "Depanare de la distanță via USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Depanare de la distanță via Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Depanarea via Wi-Fi necesită ca dispozitivul să aibă o aplicație care scanează coduri QR.">
