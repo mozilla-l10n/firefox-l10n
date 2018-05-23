@@ -4,10 +4,10 @@
 
 <!ENTITY firstrun_panel_title_welcome "Benvegnuo">
 <!ENTITY firstrun_urlbar_message2 "Graçie de çerne &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext2 "Un navegatô pe telefonin moderno da Mozilla, a societæ sensa fin de goagno ch\&apos;a s\&apos;impegna pe \&apos;na ræ libera e averta.">
+<!ENTITY firstrun_urlbar_subtext2 "Un moderno navegatô pe telefonin de Mozilla, a societæ sensa fin de goagno ch\&apos;a s\&apos;impegna pe \&apos;na ræ libera e averta.">
 <!ENTITY firstrun_panel_title_privacy "Privacy">
-<!ENTITY firstrun_privacy_message "Navega comme se nisciun o te vedesse">
-<!ENTITY firstrun_privacy_subtext "Navegaçion privâ con proteçion anti-traciamento che blòcca chi o traccia a teu navagaçion e no s\&apos;aregordiâ a stöia da navegaçion quande ti finisci de navegâ.">
+<!ENTITY firstrun_privacy_message "Navega comme se nisciun o t\&apos;amiasse">
+<!ENTITY firstrun_privacy_subtext "Navegaçion privâ con proteçion anti-traciamento ch\&apos;a blòcca chi o traccia a navagaçion e a no s\&apos;aregordiâ da stöia da navegaçion quande ti finisci de navegâ.">
 <!ENTITY firstrun_panel_title_customize "Personalizza">
 <!ENTITY firstrun_customize_message "Rendi &brandShortName; o teu pe davei.">
 <!ENTITY firstrun_customize_subtext "Personalizza &brandShortName; con conponenti azonti. Bòcca e publicitæ, azonzi fonoçioin, ò çerni \&apos;n tema ch\&apos;o va d\&apos;acòrdio co-a teu personalitæ.">
@@ -288,7 +288,7 @@
 <!ENTITY pref_feature_tips_notification "Conseggi in sciô pròduto e fonçioin">
 <!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification_summary"-->
-<!ENTITY pref_feature_tips_notification_summary "Atre informaçioin in sce&brandShortName; e i atri pròduti &vendorShortName;">
+<!ENTITY pref_feature_tips_notification_summary "Atre informaçioin in sce &brandShortName; e i atri pròduti &vendorShortName;">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
@@ -417,7 +417,7 @@
 <!ENTITY datareporting_notification_action "Çerni cöse condividde">
 <!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
 <!ENTITY datareporting_notification_action_long "Çerni informaçioin da condividde">
-<!ENTITY datareporting_notification_summary "Pe megiorâ a teu esperiensa, &brandShortName; o manda in aotomatico de informaçioin a&vendorShortName;.">
+<!ENTITY datareporting_notification_summary "Pe megiorâ a teu esperiensa, &brandShortName; o manda in aotomatico de informaçioin a &vendorShortName;.">
 <!-- When this item is removed, also remove datareporting_notification_action_long:
      it is unused in strings.xml. -->
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
