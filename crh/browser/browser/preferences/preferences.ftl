@@ -348,6 +348,8 @@ home-restore-defaults =
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Firefox Evi (Ögbelgilengen)
+home-mode-choice-custom =
+    .label = Özel URL'ler
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -674,7 +676,7 @@ permissions-notification = Tebliğler
 permissions-notification-settings =
     .label = Ayarlar…
     .accesskey = r
-permissions-notification-link = Daha fazlası
+permissions-notification-link = Daha çoq ögren
 permissions-notification-pause =
     .label = { -brand-short-name } kene başlatılğance tebliğlerni tınışla
     .accesskey = b
@@ -693,7 +695,7 @@ permissions-addon-exceptions =
 permissions-a11y-privacy-checkbox =
     .label = İrişilebilirlik hızmetleriniñ kezicime irişmesini öñle
     .accesskey = E
-permissions-a11y-privacy-link = Daha fazla bilgi al
+permissions-a11y-privacy-link = Daha çoq ögren
 
 ## Privacy Section - Data Collection
 
@@ -713,11 +715,11 @@ collection-health-report-disabled = Bu yapılandırma için veri raporlama devre
 collection-browser-errors =
     .label = { -brand-short-name } içün, kezici hata maruzalarını (hata mesajları dahil olmaq üzre) { -vendor-short-name }’ğa yibermek caiz olsun
     .accesskey = e
-collection-browser-errors-link = Daha fazla bilgi al
+collection-browser-errors-link = Daha çoq ögren
 collection-backlogged-crash-reports =
     .label = { -brand-short-name } içün arqa-kütüklengen çöküş maruzalarını adıñızğa yibermege caiz olsun
     .accesskey = ö
-collection-backlogged-crash-reports-link = Daha fazla bilgi al
+collection-backlogged-crash-reports-link = Daha çoq ögren
 
 ## Privacy Section - Security
 ##
@@ -731,8 +733,8 @@ security-enable-safe-browsing =
     .accesskey = T
 security-enable-safe-browsing-link = Daha fazla bilgi al
 security-block-downloads =
-    .label = Tehlikeli indirmeleri engelle
-    .accesskey = i
+    .label = Tehlükeli endirmelerni blokla
+    .accesskey = T
 security-block-uncommon-software =
     .label = İstenmegen ve ğayrı-adetiy yazılım aqqında meni tenbile
     .accesskey = r
@@ -740,7 +742,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Şeadetnameler
-certs-personal-label = Bir sunucu kişisel sertifikamı istediğinde
+certs-personal-label = Bir sunucı şahsiy şeadetnamemni istegeninde
 certs-select-auto-option =
     .label = Birini öz-özünden sayla
     .accesskey = B
