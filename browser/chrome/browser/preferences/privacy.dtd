@@ -35,12 +35,6 @@
 
 <!ENTITY  suggestionSettings2.label     "Αλλαγή προτιμήσεων για τις προτάσεις μηχανών αναζήτησης">
 
-<!ENTITY  acceptCookies2.label          "Αποδοχή cookies από ιστοσελίδες">
-<!ENTITY  acceptCookies2.accesskey      "Α">
-
-<!ENTITY  acceptThirdParty2.pre.label     "Αποδοχή cookies τρίτων">
-<!ENTITY  acceptThirdParty2.pre.accesskey "ν">
-
 
 
 <!ENTITY  acceptThirdParty.always.label   "Πάντα">
@@ -56,9 +50,6 @@
 <!ENTITY  cookieExceptions.label        "Εξαιρέσεις…">
 <!ENTITY  cookieExceptions.accesskey    "Ε">
 
-<!ENTITY  showCookies.label             "Προβολή cookies…">
-<!ENTITY  showCookies.accesskey         "Π">
-
 <!ENTITY  historyHeader2.pre.label         "Το &brandShortName;">
 <!ENTITY  historyHeader2.pre.accesskey     "ο">
 <!ENTITY  historyHeader.remember.label     "Θα διατηρεί το ιστορικό">
@@ -66,25 +57,9 @@
 <!ENTITY  historyHeader.custom.label       "Θα κάνει χρήση προσαρμοσμένων ρυθμίσεων ιστορικού">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "Το &brandShortName; θα διατηρεί το ιστορικό περιήγησης, λήψεων, φορμών και αναζήτησης, καθώς και τα cookies από τις ιστοσελίδες που επισκέπτεστε.">
-
-<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
-<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-<!ENTITY  rememberActions.pre.label           "Αν θέλετε, μπορείτε να ">
-<!ENTITY  rememberActions.clearHistory.label  "εκκαθαρίσετε όλο το πρόσφατο ιστορικό σας">
-<!ENTITY  rememberActions.middle.label        ", ή ">
-<!ENTITY  rememberActions.removeCookies.label "να διαγράψετε συγκεκριμένα cookies">
-<!ENTITY  rememberActions.post.label          ".">
-
+<!ENTITY  rememberDescription1.label      "Το &brandShortName; θα αποθηκεύει το ιστορικό περιήγησης, λήψεων, φορμών και αναζητήσεων.">
 
 <!ENTITY  dontrememberDescription.label  "Το &brandShortName; θα χρησιμοποιεί τις ίδιες ρυθμίσεις με την ιδιωτική περιήγηση και δεν θα διατηρεί το ιστορικό περιήγησης σας.">
-
-<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-<!ENTITY  dontrememberActions.pre.label          "Αν θέλετε, μπορείτε να ">
-<!ENTITY  dontrememberActions.clearHistory.label "εκκαθαρίσετε όλο το τρέχον ιστορικό σας">
-<!ENTITY  dontrememberActions.post.label         ".">
 
 <!ENTITY  clearHistoryButton.label       "Εκκαθάριση ιστορικού…">
 <!ENTITY  clearHistoryButton.accesskey   "σ">
@@ -103,12 +78,6 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Ρυθμίσεις…">
 <!ENTITY  clearOnCloseSettings.accesskey "θ">
-
-<!ENTITY  browserContainersLearnMore.label      "Μάθετε περισσότερα">
-<!ENTITY  browserContainersEnabled.label        "Ενεργοποίηση θεματικών καρτελών">
-<!ENTITY  browserContainersEnabled.accesskey    "ν">
-<!ENTITY  browserContainersSettings.label        "Ρυθμίσεις…">
-<!ENTITY  browserContainersSettings.accesskey    "ι">
 
 <!ENTITY  a11yPrivacy.checkbox.label     "Απαγόρευση πρόσβασης στο πρόγραμμα περιήγησής σας από υπηρεσίες προσβασιμότητας">
 <!ENTITY  a11yPrivacy.checkbox.accesskey "π">

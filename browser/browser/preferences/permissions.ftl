@@ -57,6 +57,9 @@ permissions-exceptions-tracking-protection-desc = Έχετε απενεργοπ�
 
 ## Exceptions - Cookies
 
+permissions-exceptions-cookie-window =
+    .title = Εξαιρέσεις - Cookies και δεδομένα ιστοσελίδων
+    .style = { permissions-window.style }
 
 ## Exceptions - Pop-ups
 
