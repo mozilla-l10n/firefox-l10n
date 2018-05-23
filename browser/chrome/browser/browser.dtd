@@ -560,6 +560,7 @@
 <!ENTITY identity.removeCertException.label "Elimina eccezione">
 <!ENTITY identity.removeCertException.accesskey "E">
 <!ENTITY identity.moreInfoLinkText2 "Ulteriori informazioni">
+<!ENTITY identity.clearSiteData "Elimina cookie e dati dei siti web">
 <!ENTITY identity.permissions "Permessi">
 <!ENTITY identity.permissionsEmpty "Nessun permesso speciale associato a questo sito.">
 <!ENTITY identity.permissionsReloadHint "Potrebbe essere necessario ricaricare la pagina per rendere effettive le modifiche.">
