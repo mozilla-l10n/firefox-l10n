@@ -32,7 +32,7 @@
 <!ENTITY engineNameColumn.label                "Motor de căutare">
 <!ENTITY engineKeywordColumn.label             "Cuvânt cheie">
 
-<!ENTITY restoreDefaultSearchEngines.label     "Restabilește motoarele de căutare implicite">
+<!ENTITY restoreDefaultSearchEngines.label     "Restaurează motoarele de căutare implicite">
 <!ENTITY restoreDefaultSearchEngines.accesskey "d">
 
 <!ENTITY removeEngine.label                    "Elimină">

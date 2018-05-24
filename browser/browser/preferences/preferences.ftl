@@ -381,8 +381,8 @@ choose-bookmark =
     .label = Folosește un marcaj…
     .accesskey = B
 restore-default =
-    .label = Restabilește la opțiunile implicite
-    .accesskey = F
+    .label = Restaurează la valorile implicite
+    .accesskey = R
 
 ## Search Section
 
@@ -414,8 +414,8 @@ search-choose-engine-column =
 search-choose-keyword-column =
     .label = Cuvânt cheie
 search-restore-default =
-    .label = Restabilește motoarele de căutare implicite
-    .accesskey = d
+    .label = Restaurează motoarele de căutare implicite
+    .accesskey = D
 search-remove-engine =
     .label = Elimină
     .accesskey = R
