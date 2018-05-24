@@ -49,7 +49,7 @@
 <!ENTITY  font.langGroup.math                     "Tusnakt">
 <!ENTITY  font.langGroup.odia                     "Odia">
 <!ENTITY  font.langGroup.telugu                   "Taluggut">
-<!ENTITY  font.langGroup.kannada                  "Takannadit">
+<!ENTITY  font.langGroup.kannada                  "Takannadat">
 <!ENTITY  font.langGroup.sinhala                  "Tasinhalit">
 <!ENTITY  font.langGroup.tibetan                  "Tatibitant">
 <!-- Minimum font size -->
