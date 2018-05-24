@@ -29,8 +29,8 @@
 
 <!ENTITY importBookmarksFromHTML.label     "სანიშნების შემოტანა HTML ფაილიდან…">
 <!ENTITY importBookmarksFromHTML.accesskey "ო">
-<!ENTITY exportBookmarksToHTML.label       "სანიშნების შენახვა HTML ფაილში…">
-<!ENTITY exportBookmarksToHTML.accesskey   "ხ">
+<!ENTITY exportBookmarksToHTML.label       "სანიშნების გატანა HTML ფაილად…">
+<!ENTITY exportBookmarksToHTML.accesskey   "გ">
 <!ENTITY importOtherBrowser.label          "მონაცემების გადმოტანა სხვა ბრაუზერიდან…">
 <!ENTITY importOtherBrowser.accesskey      "ვ">
 
