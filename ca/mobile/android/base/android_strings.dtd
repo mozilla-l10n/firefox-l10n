@@ -207,6 +207,7 @@
 <!ENTITY pref_category_advanced_summary3 "Restauració de pestanyes, economitzador de dades, eines per a desenvolupadors">
 <!ENTITY pref_category_notifications "Notificacions">
 <!ENTITY pref_category_notifications_summary "Característiques noves, actualitzacions de llocs web">
+<!ENTITY pref_category_notifications_summary2 "Característiques noves, consells sobre els productes">
 <!ENTITY pref_developer_remotedebugging_usb "Depuració remota per USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Depuració remota per Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "La depuració per Wi-Fi requereix que el dispositiu tingui instal·lada una aplicació de lectura de codis QR.">
@@ -281,6 +282,13 @@
 
 <!ENTITY pref_whats_new_notification "Novetats del &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Conegueu les característiques noves després d\&apos;una actualització">
+
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!ENTITY pref_feature_tips_notification "Consells sobre els productes i característiques">
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+<!ENTITY pref_feature_tips_notification_summary "Més informació sobre l\&apos;ús del &brandShortName; i altres productes de &vendorShortName;">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
@@ -536,7 +544,7 @@
 <!ENTITY pref_compact_tabs_summary2 "Disposa les pestanyes en dos columnes en mode vertical">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
-     any page is removed frome about:home. This includes pages that are in history,
+     any page is removed from about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "S\&apos;ha eliminat la pàgina">
 <!ENTITY folder_removed "S\&apos;ha eliminat la carpeta">
@@ -751,7 +759,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Última sinc.: &formatS;">
-<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!-- Localization note: Used when the sync has not happened yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Última sinc.: mai">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
