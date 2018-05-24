@@ -178,10 +178,13 @@
 <!ENTITY calendar.context.attendance.menu.label                 "Assistència">
 <!ENTITY calendar.context.attendance.menu.accesskey             "A">
 <!ENTITY calendar.context.attendance.occurrence.label           "Aquesta ocurrència">
-<!ENTITY calendar.context.attendance.all.label        "Totes les ocurrències" >
 
+<!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "E">
+<!ENTITY calendar.context.attendance.occ.needsaction.label      "Encara necessita una acció">
+<!ENTITY calendar.context.attendance.occ.inprogress.label       "En curs">
 
-
+<!ENTITY calendar.context.attendance.all.needsaction.accesskey  "n">
+<!ENTITY calendar.context.attendance.all.needsaction.label      "Encara necessita una acció">
 <!ENTITY calendar.context.attendance.all.inprogress.accesskey   "c">
 <!ENTITY calendar.context.attendance.all.inprogress.label       "En curs">
 
