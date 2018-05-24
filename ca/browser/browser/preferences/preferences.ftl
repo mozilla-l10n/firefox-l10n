@@ -534,6 +534,9 @@ privacy-header = Privadesa del navegador
 ## Privacy Section - Forms
 
 forms-header = Formularis i contrasenyes
+forms-ask-to-save-logins =
+    .label = Demana si vull desar les dades d'inici de sessió i contrasenyes dels llocs web
+    .accesskey = d
 forms-exceptions =
     .label = Excepcions…
     .accesskey = x
@@ -716,6 +719,9 @@ collection-health-report =
     .label = Permet que el { -brand-short-name } enviï dades tècniques i d'interacció a { -vendor-short-name }
     .accesskey = r
 collection-health-report-link = Més informació
+collection-studies =
+    .label = Permet al { -brand-short-name } instal·lar i executar estudis
+collection-studies-link = Mostra els estudis del { -brand-short-name }
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = L'informe de dades està desactivat en la configuració d'aquesta versió
