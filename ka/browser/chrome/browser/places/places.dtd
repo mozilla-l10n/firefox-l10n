@@ -29,8 +29,8 @@
 
 <!ENTITY importBookmarksFromHTML.label     "სანიშნების შემოტანა HTML ფაილიდან…">
 <!ENTITY importBookmarksFromHTML.accesskey "ტ">
-<!ENTITY exportBookmarksToHTML.label       "სანიშნების შენახვა HTML ფაილად…">
-<!ENTITY exportBookmarksToHTML.accesskey   "ხ">
+<!ENTITY exportBookmarksToHTML.label       "სანიშნების გატანა HTML ფაილად…">
+<!ENTITY exportBookmarksToHTML.accesskey   "გ">
 <!ENTITY importOtherBrowser.label          "მონაცემების გადმოტანა სხვა ბრაუზერიდან…">
 <!ENTITY importOtherBrowser.accesskey      "მ">
 
@@ -72,9 +72,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "პირდაპირი სანიშნის ხელახლა გახსნა">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "ნ">
-
-<!ENTITY cmd.moveBookmarks.label                  "გადატანა…">
-<!ENTITY cmd.moveBookmarks.accesskey              "ტ">
 
 <!ENTITY col.name.label          "სახელი">
 <!ENTITY col.tags.label          "ჭდეები">
