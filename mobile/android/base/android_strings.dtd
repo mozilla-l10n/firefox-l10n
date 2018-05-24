@@ -207,6 +207,7 @@
 <!ENTITY pref_category_advanced_summary3 "Obnova panelů, spořič dat, nástroje vývojáře">
 <!ENTITY pref_category_notifications "Oznámení">
 <!ENTITY pref_category_notifications_summary "Nové funkce, aktualizace webových stránek">
+<!ENTITY pref_category_notifications_summary2 "Nové funkce a tipy k používání">
 <!ENTITY pref_developer_remotedebugging_usb "Vzdálené ladění pomocí USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Vzdálené ladění pomocí Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Ladění pomocí Wi-Fi vyžaduje, aby vaše zařízení mělo nainstalovanou čtečku QR kódů.">
@@ -543,7 +544,7 @@
 <!ENTITY pref_compact_tabs_summary2 "Uspořádat panely do dvou sloupců při zobrazení na výšku">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
-     any page is removed frome about:home. This includes pages that are in history,
+     any page is removed from about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Stránka odebrána">
 <!ENTITY folder_removed "Složka byla odebrána">
@@ -758,7 +759,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Poslední synchronizace: &formatS;">
-<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!-- Localization note: Used when the sync has not happened yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Poslední synchronizace: nikdy">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
