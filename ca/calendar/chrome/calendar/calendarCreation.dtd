@@ -26,7 +26,11 @@
 
 
 
+<!ENTITY buttons.find.label "Cerca un calendari">
+<!ENTITY buttons.find.accesskey "C">
 
+<!ENTITY buttons.back.label "Enrere">
+<!ENTITY buttons.back.accesskey "E">
 
 
 <!ENTITY calendartype.label "Tipus de calendari:">
