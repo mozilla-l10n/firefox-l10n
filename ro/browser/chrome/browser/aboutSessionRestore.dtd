@@ -8,7 +8,7 @@
      and regret that we are unable to restore the session for the user -->
 <!ENTITY restorepage.errorTitle2    "Ne pare rău. Avem probleme în recuperarea paginilor tale.">
 <!ENTITY restorepage.problemDesc2   "Avem probleme cu restaurarea ultimei sesiuni de navigare. Selectează Restaurează sesiunea pentru a încerca din nou.">
-<!ENTITY restorepage.tryThis2       "Tot nu poți restabili sesiunea? Uneori o filă este cauza problemei. Vezi filele anterioare, scoate bifa de pe filele de care nu ai nevoie, apoi restabilește.">
+<!ENTITY restorepage.tryThis2       "Tot nu poți restaura sesiunea? Uneori o filă este cauza problemei. Vezi filele anterioare, scoate bifa de pe filele de care nu ai nevoie, apoi restaurează.">
 
 <!ENTITY restorepage.hideTabs       "Ascunde filele anterioare">
 <!ENTITY restorepage.showTabs       "Vezi filele anterioare">
@@ -45,7 +45,7 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
-<!ENTITY welcomeback2.beforelink.pageInfo2  "Suplimentele și personalizările au fost eliminate, iar setările browserului au fost restabilite la cele implicite. Dacă aceasta nu ți-a rezolvat problema, ">
+<!ENTITY welcomeback2.beforelink.pageInfo2  "Suplimentele și personalizările au fost eliminate, iar setările browserului au fost retaurate la cele implicite. Dacă aceasta nu ți-a rezolvat problema, ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "află mai multe despre ce poți face.">

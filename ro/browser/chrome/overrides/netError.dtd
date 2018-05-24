@@ -137,5 +137,5 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "Pagină blocată">
 
-<!ENTITY prefReset.longDesc "Se pare că setările tale de securitate a rețelei sunt de vină. Vrei să fie restabilite setările implicite?">
-<!ENTITY prefReset.label "Restabilește setările implicite">
+<!ENTITY prefReset.longDesc "Se pare că setările tale de securitate a rețelei sunt de vină. Vrei să fie restaurate setările implicite?">
+<!ENTITY prefReset.label "Restaurează setările implicite">
