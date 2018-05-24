@@ -796,6 +796,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "Meer informatie">
 
+<!ENTITY identity.clearSiteData "Cookies en websitegegevens wissen…">
+
 <!ENTITY identity.permissions "Toestemmingen">
 <!ENTITY identity.permissionsEmpty "U hebt deze website geen speciale toestemmingen gegeven.">
 <!ENTITY identity.permissionsReloadHint "Mogelijk dient u de pagina te vernieuwen om wijzigingen van kracht te laten worden.">
