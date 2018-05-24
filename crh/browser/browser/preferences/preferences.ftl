@@ -83,6 +83,12 @@ restart-later = Soñra kene başlat
 ## Variables:
 ##   $name (String): name of the extension
 
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = Bir uzantı, <img data-l10n-name="icon"/> { $name }, ev saifeñizni muraqabe ete.
+# This string is shown to notify the user that their new tab page
+# is being controlled by an extension.
+extension-controlled-new-tab-url = Bir uzantı, <img data-l10n-name="icon"/> { $name }, Yañı İlmek saifeñizni muraqabe ete.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = Bir eklenti, <img data-l10n-name="icon"/> { $name }, ögbelgilengen qıdırma motorıñıznı tesbit etkendir.
@@ -92,6 +98,9 @@ extension-controlled-privacy-containers = Bir eklenti, <img data-l10n-name="icon
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = Bir eklenti, <img data-l10n-name="icon"/> { $name }, izlenme imayesini kontrol ete.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlled-proxy-config = Bir uzantı, <img data-l10n-name="icon"/> { $name }, { -brand-short-name } uyğulamasınıñ İnternet'ke nasıl bağlanğanını  muraqabe ete.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
