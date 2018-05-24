@@ -145,6 +145,9 @@ startup-blank-page =
     .label = Parādīt tukšu lapu
 startup-prev-session =
     .label = Parādīt manus logus un cilnes no iepriekšējās reizes
+startup-restore-previous-session =
+    .label = Atjaunot iepriekšējo sesiju
+    .accesskey = s
 disable-extension =
     .label = Deaktivēt paplašinājumu
 home-page-header = Mājas lapa
@@ -535,6 +538,9 @@ privacy-header = Pārlūka privātums
 ## Privacy Section - Forms
 
 forms-header = Formas un paroles
+forms-ask-to-save-logins =
+    .label = Lūgt, lai saglabātu lietotājvārdu un paroles vietnēm
+    .accesskey = r
 forms-exceptions =
     .label = Izņēmumi...
     .accesskey = z
@@ -717,6 +723,9 @@ collection-health-report =
     .label = Atļaut { -brand-short-name } automātiski sūtīt tehnisku un mijiedarbību informāciju { -vendor-short-name }
     .accesskey = r
 collection-health-report-link = Uzzināt vairāk
+collection-studies =
+    .label = Ļaut { -brand-short-name } instalēt un palaist pētījumus
+collection-studies-link = Aplūkot { -brand-short-name } pētījumus
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Datu ziņošana ir atspējota šajā būvējuma konfigurācija
