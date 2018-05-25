@@ -64,6 +64,9 @@
 
 <!ENTITY url_bar_default_text2 "Wpisz adres lub szukaj">
 
+<!ENTITY url_bar_qrcode_text2 "Użyj czytnika kodów QR, aby wpisać adres lub wyszukać">
+<!ENTITY url_bar_mic_text2 "Użyj mikrofonu, aby wpisać adres lub wyszukać">
+
 <!ENTITY bookmark "Dodaj zakładkę">
 <!ENTITY bookmark_remove "Usuń zakładkę">
 <!ENTITY bookmark_added "Dodano zakładkę">
