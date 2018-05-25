@@ -2,6 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  windowClose.key                  "M">
+<!ENTITY  preferencesDefaultTitleMac.title "Parapëlqime">
+<!ENTITY  preferencesDefaultTitleWin.title "Mundësi">
+<!ENTITY  preferencesCloseButton.label     "Mbylle">
+<!ENTITY  preferencesCloseButton.accesskey "M">
+
 <!ENTITY  prefWindow.titleWin     "Mundësi">
 <!ENTITY  prefWindow.titleGNOME   "Parapëlqime &brandShortName;-i">
 <!ENTITY  prefWindow.titleMAC     "Parapëlqime">
@@ -9,14 +15,14 @@
 <!ENTITY  prefWindow.styleMac     "width: 60em;">
 <!ENTITY  prefWindow.styleGNOME   "width: 60em; min-height: 38em;">
 
-<!ENTITY paneGeneral.title       "Të përgjithshme">
+<!ENTITY paneGeneral.title        "Të përgjithshme">
 <!ENTITY paneDisplay.title        "Paraqitje">
 <!ENTITY paneComposition.title    "Hartim">
 <!ENTITY paneChat.title           "Fjalosje">
 <!ENTITY paneAttachments.title    "Bashkëngjitje">
 <!ENTITY panePrivacy.title        "Privatësi">
-<!ENTITY paneAdvanced.title       "Të mëtejshme">
 <!ENTITY paneSecurity.title       "Siguri">
+<!ENTITY paneAdvanced.title       "Të mëtejshme">
 <!ENTITY paneAccount.title        "Llogari">
 
 <!ENTITY okButton.title           "OK">
