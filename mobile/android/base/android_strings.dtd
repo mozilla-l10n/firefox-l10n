@@ -70,6 +70,15 @@
 
 <!ENTITY url_bar_default_text2 "खोज वा ठेगाना राख्नुहोस्।">
 
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "खोजि गर्न तपाईँको QR Reader को प्रयोग गर्नुहोस् अथवा ठेगाना प्रविष्ट गर्नुहोस्">
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "खोजि गर्न तपाईँको माइक्रोफोनको प्रयोग गर्नुहोस् अथवा ठेगाना प्रविष्ट गर्नुहोस्">
+
 <!ENTITY bookmark "पुस्तकचिनो">
 <!ENTITY bookmark_remove "पुस्तकचिनो हटाउनुहोस्">
 <!ENTITY bookmark_added "पुस्तकचिनो थपियो">
