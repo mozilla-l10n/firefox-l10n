@@ -437,7 +437,7 @@ containers-remove-button =
 
 sync-signedout-caption = 让您个性化的网络体验随身相伴
 sync-signedout-description = 在您的各种设备间同步您的书签、历史记录、标签页、密码、附加组件与首选项。
-sync-signedout-account-title = 使用 { -fxaccount-brand-name } 登录，开启同步功能
+sync-signedout-account-title = 使用 { -fxaccount-brand-name }登录，开启同步功能
 sync-signedout-account-create = 没有账户吗？注册一个吧
     .accesskey = C
 sync-signedout-account-signin =

@@ -799,7 +799,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "更多信息">
 
-<!ENTITY identity.clearSiteData "清除 Cookie 和站点数据…">
+<!ENTITY identity.clearSiteData "清除 Cookie 和网站数据…">
 
 <!ENTITY identity.permissions "权限">
 <!ENTITY identity.permissionsEmpty "您尚未授予此站点任何权限。">
