@@ -70,6 +70,15 @@
 
 <!ENTITY url_bar_default_text2 "Adresu pytać abo zapodać">
 
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "Wužiwajće swój QR-čitak, zo byšće adresu pytał abo zapodał">
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "Wužiwajće swój mikrofon, zo byšće adresu pytał abo zapodał">
+
 <!ENTITY bookmark "Zapołožka">
 <!ENTITY bookmark_remove "Zapołožku wotstronić">
 <!ENTITY bookmark_added "Zapołožka je so přidała">
