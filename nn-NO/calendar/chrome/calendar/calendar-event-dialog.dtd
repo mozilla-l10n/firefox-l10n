@@ -18,8 +18,8 @@
 <!ENTITY newevent.eventStatus.cancelled.label     "Avlyst" >
 <!ENTITY newevent.eventStatus.cancelled.accesskey "A" >
 <!ENTITY newevent.todoStatus.cancelled.label      "Avlyst" >
-<!ENTITY newevent.status.tentative.label          "Med atterhald" >
-<!ENTITY newevent.status.tentative.accesskey      "M" >
+<!ENTITY newevent.status.tentative.label          "Førebels" >
+<!ENTITY newevent.status.tentative.accesskey      "F" >
 <!ENTITY newevent.status.confirmed.label          "Stadfesta" >
 <!ENTITY newevent.status.confirmed.accesskey      "S" >
 <!ENTITY newevent.status.needsaction.label        "Treng handling" >
@@ -407,11 +407,6 @@
 <!ENTITY read.only.location.label        "Stad:">
 <!ENTITY read.only.category.label        "Kategori:">
 <!ENTITY read.only.organizer.label       "Organisert av:">
-<!ENTITY read.only.reply.label           "Svar:">
-<!ENTITY read.only.accept.label          "Eg deltek">
-<!ENTITY read.only.decline.label         "Eg deltek ikkje">
-<!ENTITY read.only.tentative.label       "Eg deltek kanskje">
-<!ENTITY read.only.needs.action.label    "Eg vil stadfeste seinare">
 <!ENTITY read.only.reminder.label        "Påminning:">
 <!ENTITY read.only.attachments.label     "Vedlegg:">
 <!ENTITY read.only.attendees.label       "Deltakarar">
@@ -423,3 +418,7 @@
 <!ENTITY summary.dialog.accept.label            "Aksepter">
 <!ENTITY summary.dialog.accept.tooltiptext      "Aksepter invitasjonen">
 <!ENTITY summary.dialog.tentative.tooltiptext   "Aksepter invitasjonen førebels">
+<!ENTITY summary.dialog.decline.label           "Avvis">
+<!ENTITY summary.dialog.decline.tooltiptext     "Avvis invitasjonen">
+<!ENTITY summary.dialog.dontsend.label          "Ikkje send eit svar">
+<!ENTITY summary.dialog.send.label              "Send eit svar no">
