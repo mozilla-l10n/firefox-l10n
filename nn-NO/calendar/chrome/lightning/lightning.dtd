@@ -78,7 +78,7 @@
 <!ENTITY lightning.imipbar.btnTentative.label                               "Med atterhald">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Godta hendingsinvitasjon med atterhald">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Alle med atterhald">
-<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Aksepter hendingsinvitasjon med atterhald, for alle oppføringar av hendinga">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Godta hendingsinvitasjon med atterhald, for alle oppføringar av hendinga">
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "Oppdater">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Oppdater hending i kalenderen">
 <!ENTITY lightning.imipbar.description                                      "Denne meldinga inneheld ein invitasjon til ei hending.">

@@ -18,8 +18,8 @@
 <!ENTITY newevent.eventStatus.cancelled.label     "Avlyst" >
 <!ENTITY newevent.eventStatus.cancelled.accesskey "A" >
 <!ENTITY newevent.todoStatus.cancelled.label      "Avlyst" >
-<!ENTITY newevent.status.tentative.label          "Førebels" >
-<!ENTITY newevent.status.tentative.accesskey      "F" >
+<!ENTITY newevent.status.tentative.label          "Med atterhald" >
+<!ENTITY newevent.status.tentative.accesskey      "M" >
 <!ENTITY newevent.status.confirmed.label          "Stadfesta" >
 <!ENTITY newevent.status.confirmed.accesskey      "S" >
 <!ENTITY newevent.status.needsaction.label        "Treng handling" >
@@ -417,7 +417,8 @@
 <!ENTITY summary.dialog.saveclose.label         "Lagre og lat att">
 <!ENTITY summary.dialog.accept.label            "Aksepter">
 <!ENTITY summary.dialog.accept.tooltiptext      "Aksepter invitasjonen">
-<!ENTITY summary.dialog.tentative.tooltiptext   "Aksepter invitasjonen førebels">
+<!ENTITY summary.dialog.tentative.label         "Med atterhald">
+<!ENTITY summary.dialog.tentative.tooltiptext   "Godta invitasjonen med atterhald">
 <!ENTITY summary.dialog.decline.label           "Avvis">
 <!ENTITY summary.dialog.decline.tooltiptext     "Avvis invitasjonen">
 <!ENTITY summary.dialog.dontsend.label          "Ikkje send eit svar">
