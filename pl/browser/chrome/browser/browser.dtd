@@ -199,7 +199,8 @@
 
 <!ENTITY searchItem.title "Znajdź" >
 
-<!ENTITY homeButton.label             "Strona startowa" >
+<!ENTITY homeButton.label "Strona startowa">
+<!ENTITY homeButton.defaultPage.tooltip "Przejdź do strony startowej">
 
 <!ENTITY bookmarksButton.label          "Zakładki">
 <!ENTITY bookmarksCmd.commandkey        "b">
