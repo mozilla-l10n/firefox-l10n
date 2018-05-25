@@ -9,7 +9,7 @@
 <!ENTITY doNothing.accesskey            "I">
 <!ENTITY openProgressDialog.label       "Opne eigen framdriftsdialog">
 <!ENTITY openProgressDialog.accesskey   "f">
-<!ENTITY openDM.label                   "Opne nedlastingslista">
+<!ENTITY openDM.label                   "Opne nedlastingar">
 <!ENTITY openDM.accesskey               "n">
 <!ENTITY flashWhenOpen.label            "Blink nedlastingsvindauget dersom det allereie er ope">
 <!ENTITY flashWhenOpen.accesskey        "B">

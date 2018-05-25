@@ -40,7 +40,7 @@
 <!ENTITY passwordExpireCmd.label "Logg ut">
 <!ENTITY passwordExpireCmd.accesskey "u">
 
-<!ENTITY downloadManagerCmd.label "Nedlastingshandsamar">
+<!ENTITY downloadManagerCmd.label "Nedlastingar">
 <!ENTITY downloadManagerCmd.accesskey "N">
 
 <!ENTITY addOnsManagerCmd.label "Utvidingshandsamar">
