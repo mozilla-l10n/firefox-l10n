@@ -2,7 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+sync-disconnect-dialog =
+    .title = ตัดการเชื่อมต่อ { -sync-brand-short-name }?
+    .style = width: 36em; min-height: 35em;
 sync-disconnect-remove-sync-caption = เอาข้อมูล { -sync-brand-name } ออก
+# Shown while the disconnect is in progress
+sync-disconnect-disconnecting = กำลังตัดการเชื่อมต่อ…
 sync-disconnect-cancel =
     .label = ยกเลิก
     .accesskey = ย
