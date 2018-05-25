@@ -70,6 +70,15 @@
 
 <!ENTITY url_bar_default_text2 "Picar un tèrme de recercar o una adreça">
 
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "Utilizatz vòstre lector de QR còdis per far una recèrca o anar a una adreça web">
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "Utilizatz vòstre microfòn per fa una recèrca o anar a una adreça web">
+
 <!ENTITY bookmark "Marcapaginas">
 <!ENTITY bookmark_remove "Suprimir lo marcapagina">
 <!ENTITY bookmark_added "Marcapagina apondut">
