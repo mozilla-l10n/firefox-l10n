@@ -36,6 +36,10 @@
 <!ENTITY newFeedAccountCmd.accesskey "P">
 <!ENTITY newIMContactCmd.label "Kontakt Fjalosjeje…">
 <!ENTITY newIMContactCmd.accesskey "K">
+<!ENTITY  newMessageCmd.label "Mesazh">
+<!ENTITY  newMessageCmd.accesskey "m">
+<!ENTITY  newContactCmd.label "Kontakt nga Libri i Adresave…">
+<!ENTITY  newContactCmd.accesskey "K">
 <!ENTITY openMessageFileCmd.label "Hapni Mesazh të Ruajtur…">
 <!ENTITY openMessageFileCmd.accesskey "H">
 <!ENTITY saveAsMenu.label "Ruaje Si">
@@ -509,8 +513,6 @@
 <!ENTITY devToolboxCmd.label "Grup Mjetesh Zhvilluesi">
 <!ENTITY devToolboxCmd.accesskey "G">
 <!ENTITY devToolboxCmd.commandkey "i">
-<!ENTITY addonDebugCmd.label "Diagnostikues Shtesash">
-<!ENTITY addonDebugCmd.accesskey "S">
 <!ENTITY debugAddonsCmd.label "Diagnostikoni Shtesa">
 <!ENTITY debugAddonsCmd.accesskey "D">
 <!ENTITY tabsDebugCmd.label "Diagnostikues Lënde Kuadri">
@@ -645,6 +647,7 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Merr Mesazhet">
 <!ENTITY folderContextGetMessages.accesskey "M">
+<!ENTITY folderContextMarkAllFoldersRead.label "Vëru Shenjë Krejt Dosjeve Si të Lexuara">
 <!ENTITY folderContextPauseAllUpdates.label "Ndali Krejt Përditësimet">
 <!ENTITY folderContextPauseUpdates.label "Ndali Përditësimet">
 <!ENTITY folderContextPauseUpdates.accesskey "N">
@@ -870,7 +873,7 @@
   -->
 <!ENTITY quickSearchCmd.key "k">
 <!-- LOCALIZATION NOTE (search.label.base1):
-      This is the base of the empty text for the global search box. We replace
+     This is the base of the empty text for the global search box. We replace
      #1 with the contents of the appropriate search.keyLabel.* value for the
      platform.
      The goal is to convey to the user that typing in the box will allow them
