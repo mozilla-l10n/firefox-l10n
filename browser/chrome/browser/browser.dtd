@@ -35,6 +35,9 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "ปิดแท็บอื่น ๆ">
 <!ENTITY  closeOtherTabs.accesskey           "น">
 
+<!ENTITY  closeSelectedTabs.label            "ปิดแท็บที่เลือก">
+<!ENTITY  closeSelectedTabs.accesskey        "ป">
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -245,6 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "หน้าแรก">
 
+
 <!ENTITY bookmarksButton.label          "ที่คั่นหน้า">
 <!ENTITY bookmarksCmd.commandkey "b">
 
@@ -427,6 +431,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY customizeMenu.autoHideDownloadsButton.label "ซ่อนอัตโนมัติในแถบเครื่องมือ">
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "อ">
+<!ENTITY customizeMenu.manageExtension.label "จัดการส่วนขยาย">
+<!ENTITY customizeMenu.manageExtension.accesskey "จ">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -786,6 +792,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.removeCertException.accesskey "อ">
 
 <!ENTITY identity.moreInfoLinkText2 "ข้อมูลเพิ่มเติม">
+
+<!ENTITY identity.clearSiteData "ล้างคุกกี้และข้อมูลไซต์…">
 
 <!ENTITY identity.permissions "การอนุญาต">
 <!ENTITY identity.permissionsEmpty "คุณไม่ได้อนุญาตไซต์นี้ด้วยสิทธิพิเศษใด ๆ">
