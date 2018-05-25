@@ -708,6 +708,9 @@ collection-health-report =
     .label = Izinkan { -brand-short-name } mengirim data teknis dan interaksi ke { -vendor-short-name }
     .accesskey = r
 collection-health-report-link = Pelajari Lebih Lanjut
+collection-studies =
+    .label = Izinkan { -brand-short-name } untuk memasang dan menjalankan kajian
+collection-studies-link = Lihat kajian { -brand-short-name }
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Pelaporan data dinonaktifkan untuk konfigurasi build ini
