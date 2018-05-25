@@ -9,6 +9,7 @@
 <!ENTITY iconsAndText.label       "Ikona dhe Tekst">
 <!ENTITY icons.label              "Ikona">
 <!ENTITY text.label               "Tekst">
+<!ENTITY iconsBesideText.label    "Ikona në krah të Tekstit">
 <!ENTITY useSmallIcons.label      "Përdor Ikona të Vogla">
 <!ENTITY restoreDefaultSet.label  "Rikthe Grupin Parazgjedhje">
 <!ENTITY addNewToolbar.label      "Shtoni Panel të Ri">
