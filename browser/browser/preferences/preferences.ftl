@@ -720,6 +720,9 @@ collection-health-report =
     .label = Salli, että { -brand-short-name } lähettää teknisiä ja käyttötilastoja { -vendor-short-name }lle
     .accesskey = S
 collection-health-report-link = Lue lisää
+collection-studies =
+    .label = Salli, että { -brand-short-name } asentaa ja suorittaa tutkimuksia
+collection-studies-link = Näytä { -brand-short-name }-tutkimukset
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Tietojen kerääminen ei ole käytössä tässä koostamiskokoonpanossa
