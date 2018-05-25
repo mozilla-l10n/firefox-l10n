@@ -7,6 +7,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-arabic =
+    .label = Arabic
 
 ## Default fonts and their sizes
 
