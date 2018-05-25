@@ -70,6 +70,15 @@
 
 <!ENTITY url_bar_default_text2 "搜索或输入网址">
 
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "使用您的二维码扫描器来搜索或输入网址">
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "使用您的麦克风来搜索或输入网址">
+
 <!ENTITY bookmark "添加书签">
 <!ENTITY bookmark_remove "移除书签">
 <!ENTITY bookmark_added "书签已添加">
