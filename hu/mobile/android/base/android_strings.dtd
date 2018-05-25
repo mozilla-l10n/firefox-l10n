@@ -70,6 +70,15 @@
 
 <!ENTITY url_bar_default_text2 "Keresés vagy cím">
 
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "Használja a QR olvasóját a kereséshez, vagy írja be a címet">
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "Használja a mikrofonját a kereséshez, vagy írja be a címet">
+
 <!ENTITY bookmark "Könyvjelző">
 <!ENTITY bookmark_remove "Könyvjelző eltávolítása">
 <!ENTITY bookmark_added "Könyvjelző hozzáadva">
