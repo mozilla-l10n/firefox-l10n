@@ -178,8 +178,6 @@
 <!ENTITY calendar.context.attendance.menu.label                 "Deltaking">
 <!ENTITY calendar.context.attendance.menu.accesskey             "D">
 <!ENTITY calendar.context.attendance.occurrence.label           "Denne førekomsten">
-<!ENTITY calendar.context.attendance.all.label        "Alle førekomstar" >
-
 <!ENTITY calendar.context.attendance.all2.label                 "Komplett serie">
 <!ENTITY calendar.context.attendance.send.label                 "Send et varsel no">
 <!ENTITY calendar.context.attendance.send.accesskey             "S">
@@ -189,7 +187,7 @@
 <!ENTITY calendar.context.attendance.occ.accepted.accesskey     "A">
 <!ENTITY calendar.context.attendance.occ.accepted.label         "Akseptert">
 <!ENTITY calendar.context.attendance.occ.tentative.accesskey    "u">
-<!ENTITY calendar.context.attendance.occ.tentative.label        "Akseptert førebels">
+<!ENTITY calendar.context.attendance.occ.tentative.label        "Godteke med atterhald">
 <!ENTITY calendar.context.attendance.occ.declined.accesskey     "s">
 <!ENTITY calendar.context.attendance.occ.declined.label         "Avvist">
 <!ENTITY calendar.context.attendance.occ.delegated.accesskey    "g">
@@ -204,7 +202,7 @@
 <!ENTITY calendar.context.attendance.all.accepted.accesskey     "F">
 <!ENTITY calendar.context.attendance.all.accepted.label         "Akseptert">
 <!ENTITY calendar.context.attendance.all.tentative.accesskey    "p">
-<!ENTITY calendar.context.attendance.all.tentative.label        "Akseptert førebels">
+<!ENTITY calendar.context.attendance.all.tentative.label        "Godteke med atterhald">
 <!ENTITY calendar.context.attendance.all.declined.accesskey     "s">
 <!ENTITY calendar.context.attendance.all.declined.label         "Avvist">
 <!ENTITY calendar.context.attendance.all.delegated.accesskey    "l">
