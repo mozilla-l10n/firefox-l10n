@@ -579,6 +579,9 @@ history-private-browsing-permanent =
 history-remember-option =
     .label = Mba mend historikun tim të shfletimit dhe shkarkimeve
     .accesskey = t
+history-remember-browser-option =
+    .label = Mba mend historik shfletimesh dhe shkarkimesh
+    .accesskey = M
 history-remember-search-option =
     .label = Mba mend historik kërkimesh dhe formularësh
     .accesskey = e
@@ -720,6 +723,9 @@ collection-health-report =
     .label = Lejojeni { -brand-short-name }-in të dërgojë të dhëna teknike dhe ndërveprimi te { -vendor-short-name }
     .accesskey = L
 collection-health-report-link = Mësoni më tepër
+collection-studies =
+    .label = Lejojeni { -brand-short-name } të instalojë dhe kryejë studime
+collection-studies-link = Shihni studime { -brand-short-name }
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Raportimi i të dhënave është i çaktivizuar për këtë formësim montimi
