@@ -70,6 +70,15 @@
 
 <!ENTITY url_bar_default_text2 "搜尋或輸入網址">
 
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "請使用您的 QR Code 掃描器來搜尋或輸入網址">
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "請使用您的麥克風來搜尋或輸入網址">
+
 <!ENTITY bookmark "加入書籤">
 <!ENTITY bookmark_remove "移除書籤">
 <!ENTITY bookmark_added "已加入書籤">
