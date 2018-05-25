@@ -60,7 +60,7 @@
 
 <!ENTITY throbber.tooltip             "转到 &vendorShortName; 主页">
 
-<!ENTITY locationBar.tooltip          "输入搜索条件、关键词或web地址">
+<!ENTITY locationBar.tooltip          "输入搜索条件、关键词或网址">
 <!ENTITY locationBar.accesskey        "d">
 <!ENTITY locationBar.title            "地址">
 <!ENTITY proxyIcon.tooltip            "拖放这个图标来建立一个对此页的链接">
