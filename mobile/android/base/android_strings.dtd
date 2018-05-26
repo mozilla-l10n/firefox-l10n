@@ -70,6 +70,15 @@
 
 <!ENTITY url_bar_default_text2 "Escriviu una cerca o adreça">
 
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "Utilitzeu un lector QR per cercar o introduir l\&apos;adreça">
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "Utilitzeu el micròfon per cercar o introduir l\&apos;adreça">
+
 <!ENTITY bookmark "Adreça d\&apos;interès">
 <!ENTITY bookmark_remove "Elimina l\&apos;adreça d\&apos;interès">
 <!ENTITY bookmark_added "S\&apos;ha afegit l\&apos;adreça d\&apos;interès">
