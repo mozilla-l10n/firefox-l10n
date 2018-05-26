@@ -35,6 +35,9 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "Fechar as outras abas">
 <!ENTITY  closeOtherTabs.accesskey           "o">
 
+<!ENTITY  closeSelectedTabs.label            "Fechar abas selecionadas">
+<!ENTITY  closeSelectedTabs.accesskey        "F">
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -249,6 +252,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Página inicial">
 
+<!ENTITY homeButton.defaultPage.tooltip "Página inicial do &brandShortName;">
+
 <!ENTITY bookmarksButton.label          "Favoritos">
 <!ENTITY bookmarksCmd.commandkey "b">
 
@@ -431,6 +436,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY customizeMenu.autoHideDownloadsButton.label "Ocultar automaticamente na barra de ferramentas">
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "O">
+<!ENTITY customizeMenu.manageExtension.label "Gerenciar extensão">
+<!ENTITY customizeMenu.manageExtension.accesskey "e">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -791,6 +798,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.removeCertException.accesskey "R">
 
 <!ENTITY identity.moreInfoLinkText2 "Mais informações">
+
+<!ENTITY identity.clearSiteData "Limpar os cookies e dados do site…">
 
 <!ENTITY identity.permissions "Permissões">
 <!ENTITY identity.permissionsEmpty "Você não concedeu permissões especiais a este site.">
