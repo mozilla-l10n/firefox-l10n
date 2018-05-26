@@ -70,6 +70,15 @@
 
 <!ENTITY url_bar_default_text2 "Nadi neɣ sekcem tansa">
 
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "Seqdec imeγri-inek QR akken ad tnadiḍ neγ sekcem tansa">
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "Seqdec asawaḍ-inek akken ad tnadiḍ neγ sekcem tansa">
+
 <!ENTITY bookmark "Creḍ asebter-agi">
 <!ENTITY bookmark_remove "Kkes tacreṭ n usebter">
 <!ENTITY bookmark_added "Tacreṭ n usebter tettwerna">
