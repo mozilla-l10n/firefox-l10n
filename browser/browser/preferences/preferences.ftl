@@ -512,7 +512,7 @@ sync-engine-prefs =
            *[other] העדפות
         }
     .tooltiptext = הגדרות כלליות, פרטיות ואבטחה ששינית
-    .accesskey = ה
+    .accesskey = ת
 sync-device-name-header = שם התקן
 sync-device-name-change =
     .label = שינוי שם התקן…
@@ -579,6 +579,9 @@ history-private-browsing-permanent =
 history-remember-option =
     .label = שמירת היסטורית גלישה והורדות
     .accesskey = ג
+history-remember-browser-option =
+    .label = שמירת היסטורית גלישה והורדות
+    .accesskey = ש
 history-remember-search-option =
     .label = שמירת חיפושים והיסטורית טפסים
     .accesskey = ט
