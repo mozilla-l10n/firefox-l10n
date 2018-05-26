@@ -10,9 +10,20 @@ sync-disconnect-remove-sync-caption = Buang Data { -sync-brand-name }
 sync-disconnect-remove-sync-data = Tandabuku, sejarah, kata laluan dsb
 sync-disconnect-remove-other-caption = Buang Data Peribadi Lain
 sync-disconnect-remove-other-data = Kuki, cache, data laman web luar talian, dsb
+# Shown while the disconnect is in progress
+sync-disconnect-disconnecting = Memutuskan...
+sync-disconnect-cancel =
+    .label = Batal
+    .accesskey = B
 
 ## Disconnect confirm Button
 ##
 ## The 2 labels which may be shown on the single "Disconnect" button, depending
 ## on the state of the checkboxes.
 
+sync-disconnect-confirm-disconnect-delete =
+    .label = Putuskan & Buang
+    .accesskey = B
+sync-disconnect-confirm-disconnect =
+    .label = Hanya Putuskan
+    .accesskey = P
