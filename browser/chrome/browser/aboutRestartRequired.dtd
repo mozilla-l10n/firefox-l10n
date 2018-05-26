@@ -4,5 +4,10 @@
 
 <!ENTITY restartRequired.title "Vyžaduje sa reštart">
 
+<!ENTITY restartRequired.header "Ospravedlňujeme sa, no ak chcete pokračovať v prehliadaní, musíte urobiť jednu malú drobnosť.">
+<!ENTITY restartRequired.description "
+<p>Na pozadí sme práve nainštalovali aktualizáciu. Pre jej dokončenie kliknite na tlačidlo „Reštartovať &brandShortName;“.</p>
+<p>Po reštarte obnovíme všetky vaše stránky, okná a karty, takže budete môcť nerušene pokračovať v prehliadaní.</p>
+">
 
 <!ENTITY restartButton.label "Reštartovať &brandShortName;">
