@@ -5,9 +5,26 @@
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 
 <!-- File Menu -->
+<!ENTITY newMenu.label "Nuevo">
+<!ENTITY newMessage.label "Mensaje">
+<!ENTITY attachMenu.label "Adjuntar">
+<!ENTITY attachFileCmd.label "Archivo(s)…">
+<!ENTITY attachPageCmd.label "Página web…">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
+<!ENTITY remindLater.label "Recordarme después">
+<!ENTITY closeCmd.label "Cerrar">
+<!ENTITY saveCmd.label "Guardar">
+<!ENTITY saveAsCmd.label "Guardar como">
+<!ENTITY saveAsFileCmd.label "Archivo…">
+<!ENTITY saveAsDraftCmd.label "Borrador">
+<!ENTITY sendNowCmd.label "Enviar ahora">
+<!ENTITY sendLaterCmd.label "Enviar más tarde">
+<!ENTITY printSetupCmd.label "Configurar página…">
+<!ENTITY printCmd.label "Imprimir…">
 
 <!-- Edit Menu -->
+<!ENTITY pasteCmd.label "Pegar">
+<!ENTITY deleteCmd.label "Eliminar">
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
      For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
      as attachments.accesskey. -->
@@ -16,6 +33,8 @@
      hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
      toggleAttachmentPaneCmd.key and attachments.accesskey must be the same
      for the bucket view state machinery to work. -->
+<!ENTITY selectAllCmd.label "Seleccionar todo">
+<!ENTITY findBarCmd.label "Buscar…">
 
 <!-- Reorder Attachment Panel -->
 
@@ -27,6 +46,7 @@
      sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
 
 <!-- View Menu -->
+<!ENTITY customizeToolbar.label "Personalizar…">
 
 
 <!-- Format Menu -->
@@ -48,6 +68,8 @@
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY fromAddr.label "De:">
+<!ENTITY toAddr.label "Para:">
 <!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
      be taken from the strings in attachmentCount in composeMsgs.properties,
      and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
