@@ -70,6 +70,15 @@
 
 <!ENTITY url_bar_default_text2 "Término de búsqueda o dirección">
 
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "Utiliza tu lector de código QR para buscar o introduce una dirección">
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "Utiliza tu micrófono para buscar o introduce una dirección">
+
 <!ENTITY bookmark "Marcador">
 <!ENTITY bookmark_remove "Elminar marcador">
 <!ENTITY bookmark_added "Marcador añadido">
