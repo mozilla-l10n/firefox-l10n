@@ -15,8 +15,19 @@
 <!ENTITY moveToNewWindow.label "Mover a ventana nueva">
 <!ENTITY newOtherAccountsCmd.label "Otras cuentas…">
 <!ENTITY  newMessageCmd.label "Mensaje">
+<!ENTITY saveAsMenu.label "Guardar como">
+<!ENTITY saveAsFileCmd.label "Archivo">
+<!ENTITY getAllNewMsgCmdPopupMenu.label "Todas las cuentas">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Cuenta actual">
+<!ENTITY offlineMenu.label "Sin conexión">
+<!ENTITY offlineGoOfflineCmd.label "Trabajar sin conexión">
+<!ENTITY printCmd.label "Imprimir…">
 
 <!-- Edit Menu -->
+<!ENTITY deleteMsgCmd.label "Borrar mensaje">
+<!ENTITY deleteMsgsCmd.label "Borrar mensajes seleccionados">
+<!ENTITY selectMenu.label "Seleccionar">
+<!ENTITY undoDefaultCmd.label "Deshacer">
 
 <!-- View Menu -->
 
