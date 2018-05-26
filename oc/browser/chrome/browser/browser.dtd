@@ -35,6 +35,7 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "Tampar los autres onglets">
 <!ENTITY  closeOtherTabs.accesskey           "t">
 
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -249,6 +250,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Acuèlh">
 
+
 <!ENTITY bookmarksButton.label          "Marcapaginas">
 <!ENTITY bookmarksCmd.commandkey "b">
 
@@ -427,6 +429,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromMenu.accesskey "r">
 <!ENTITY customizeMenu.addMoreItems.label "Apondre mai d'elements…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
+
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -769,7 +772,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "La vòstra connexion a aquel site es pas privada. Las informacions qu'enviatz pòdon èsser vistas per d’autres (coma per exemple los senhals, los messatges, las cartas de crèdit, etc.).">
 <!ENTITY identity.description.insecureLoginForms "Las informacions d’identificacion que marcatz sus aquela pagina son pas seguras e pòdon far perilh.">
 <!ENTITY identity.description.weakCipher "Vòstra connexion a aquel site web utiliza un chiframent flac e es pas privada.">
-<!ENTITY identity.description.weakCipher2 "D’autres pòdon accedir a vòstras informacions o modificar lo comportament del site web.">
+<!ENTITY identity.description.weakCipher2 "D’autres pòdon accedir a vòstras informacions o modificar lo compòrtament del site web.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; a blocat d'elements pas segurs sus aquela pagina.">
 <!ENTITY identity.description.passiveLoaded "Vòstra connexion es pas privada e las informacions que partejatz amb aquel site pòdon èsser vistas per d’autres.">
 <!ENTITY identity.description.passiveLoaded2 "Aquel site ten de contenguts pas segurs (coma d'imatges).">
@@ -787,6 +790,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.removeCertException.accesskey "L">
 
 <!ENTITY identity.moreInfoLinkText2 "que lo detentor n'es">
+
 
 <!ENTITY identity.permissions "Permissions">
 <!ENTITY identity.permissionsEmpty "Avètz donat pas cap de permission espaciala a aquel site.">
