@@ -2,6 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+sync-disconnect-dialog =
+    .title = Kople frå { -sync-brand-short-name }?
+    .style = width: 36em; min-height: 35em;
+sync-disconnect-remove-sync-caption = Fjerne { -sync-brand-name }-data
+sync-disconnect-remove-sync-data = Bokmerke, historikk, passord etc.
+sync-disconnect-remove-other-caption = Fjern andre private data
+# Shown while the disconnect is in progress
+sync-disconnect-disconnecting = Koplar frå…
 sync-disconnect-cancel =
     .label = Avbryt
     .accesskey = A
