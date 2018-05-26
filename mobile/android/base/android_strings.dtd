@@ -680,7 +680,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY doorhanger_tracking_title2 "Proteccion contra lo seguiment">
 <!ENTITY doorhanger_tracking_state_enabled "Activada">
 <!ENTITY doorhanger_tracking_state_disabled "Desactivat">
-<!ENTITY doorhanger_tracking_message_enabled1 "Avèm blocats los ensages de seguiment de vòstre comportament en linha.">
+<!ENTITY doorhanger_tracking_message_enabled1 "Avèm blocats los ensages de seguiment de vòstre compòrtament en linha.">
 <!ENTITY doorhanger_tracking_message_disabled2 "Aquesta pagina compren d’elements que pòdon pistar vòstra navegacion.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
