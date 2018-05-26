@@ -70,6 +70,15 @@
 
 <!ENTITY url_bar_default_text2 "Αναζητήστε ή εισάγετε μια διεύθυνση">
 
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "Χρησιμοποιήστε την Ανάγνωση QR για αναζήτηση ή εισαγωγή διεύθυνσης">
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "Χρησιμοποιήστε το μικρόφωνό σας για αναζήτηση ή εισαγωγή διεύθυνσης">
+
 <!ENTITY bookmark "Σελιδοδείκτης">
 <!ENTITY bookmark_remove "Διαγραφή σελιδοδείκτη">
 <!ENTITY bookmark_added "Ο σελιδοδείκτης προστέθηκε">
