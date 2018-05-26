@@ -35,6 +35,8 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "Cerrar las otras pestañas">
 <!ENTITY  closeOtherTabs.accesskey           "o">
 
+<!ENTITY  closeSelectedTabs.label            "Cerrar pestañas seleccionadas">
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -77,7 +79,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Configurar página…">
 <!ENTITY printSetupCmd.accesskey "p">
-<!ENTITY printPreviewCmd.label "Vista preliminar">
+<!ENTITY printPreviewCmd.label "Vista previa">
 <!ENTITY printPreviewCmd.accesskey "l">
 <!ENTITY printCmd.label "Imprimir…">
 <!ENTITY printCmd.accesskey "I">
@@ -249,6 +251,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Inicio">
 
+<!ENTITY homeButton.defaultPage.tooltip "Página de inicio de &brandShortName;">
+
 <!ENTITY bookmarksButton.label          "Marcadores">
 <!ENTITY bookmarksCmd.commandkey "b">
 
@@ -392,7 +396,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Inicia sesión para ver una lista de pestañas de tus otros dispositivos.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Tu cuenta necesita ser verificada.">
 <!ENTITY appMenuRemoteTabs.signin.label "Inicia sesión en Sync">
-<!ENTITY appMenuRemoteTabs.managedevices.label "Gestionar dispositivos…">
+<!ENTITY appMenuRemoteTabs.managedevices.label "Administrar dispositivos…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Ver pestañas sincronizadas en la barra lateral">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Conectar otro dispositivo">
 
@@ -792,6 +796,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "Más información">
 
+
 <!ENTITY identity.permissions "Permisos">
 <!ENTITY identity.permissionsEmpty "No tienes permitido en este sitio web ningún permiso especial.">
 <!ENTITY identity.permissionsReloadHint "Puede que tengas que recargar la página para que se apliquen los cambios.">
@@ -835,7 +840,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.context.openAllInTabs.label              "Abrir Todo en Pestañas">
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "A">
-<!ENTITY syncedTabs.context.managedevices.label              "Gestionar dispositivos…">
+<!ENTITY syncedTabs.context.managedevices.label              "Administrar dispositivos…">
 <!ENTITY syncedTabs.context.managedevices.accesskey          "D">
 
 
