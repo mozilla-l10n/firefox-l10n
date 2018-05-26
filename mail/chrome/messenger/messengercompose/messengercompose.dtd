@@ -238,7 +238,6 @@
 <!ENTITY sendlaterButton.tooltip "Trimite acest mesaj mai târziu">
 <!ENTITY quoteButton.tooltip "Citează din mesajul anterior">
 <!ENTITY addressButton.tooltip "Selectați destinatarul din agenda de contacte">
-<!ENTITY attachButton.tooltip "Include un atașament">
 <!ENTITY attachButton.tooltip2 "Adaugă un atașament">
 <!ENTITY spellingButton.tooltip "Verifică ortografia pentru zona selectată sau pentru întregul mesaj">
 <!ENTITY saveButton.tooltip "Salvează acest mesaj">
@@ -266,7 +265,6 @@
      and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
      work, as the shortcut key functionality supersedes the access key. -->
 <!ENTITY attachments.accesskey "A">
-
 <!ENTITY attachmentBucketHeader.tooltip "Panoul atașamentelor">
 <!ENTITY attachmentBucketCloseButton.tooltip "Ascunde panoul atașamentelor">
 
@@ -346,7 +344,7 @@
 <!ENTITY addressesSidebarTitle.label "Adrese">
 
 <!-- Identity popup customize menuitem -->
-<!ENTITY customizeFromAddress.label "Particularizează adresa de trimitere…">
+<!ENTITY customizeFromAddress.label "Personalizează adresa de trimitere…">
 <!ENTITY customizeFromAddress.accesskey "a">
 
 <!-- Status Bar -->
