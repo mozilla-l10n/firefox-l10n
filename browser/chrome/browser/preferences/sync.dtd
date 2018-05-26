@@ -6,7 +6,7 @@
 
 <!ENTITY engine.bookmarks.label     "סימניות">
 <!ENTITY engine.bookmarks.accesskey "ס">
-<!ENTITY engine.tabs.label2         "פתיחת לשוניות">
+<!ENTITY engine.tabs.label2         "לשוניות פתוחות">
 <!ENTITY engine.tabs.title          "רשימה של מה שפתוח בכל ההתקנים המסונכרנים">
 <!ENTITY engine.tabs.accesskey      "ל">
 <!ENTITY engine.history.label       "היסטוריה">
@@ -74,9 +74,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY resendVerification.accesskey "א">
 <!ENTITY cancelSetup.label            "ביטול ההתקנה">
 <!ENTITY cancelSetup.accesskey        "ק">
-
-<!ENTITY removeAccount.label          "הסרת חשבון">
-<!ENTITY removeAccount.accesskey      "ס">
 
 <!ENTITY signedOut.caption            "קחו את הרשת עמכם">
 <!ENTITY signedOut.description        "סנכרון הסימניות, ההיסטוריה, הלשוניות, הססמאות, ההרחבות, וההעדפות בין כל מכשיריך.">
