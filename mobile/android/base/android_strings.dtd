@@ -70,6 +70,13 @@
 
 <!ENTITY url_bar_default_text2 "Caută sau introdu adresa">
 
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+
 <!ENTITY bookmark "Marcaj">
 <!ENTITY bookmark_remove "Elimină marcajul">
 <!ENTITY bookmark_added "Marcaj adăugat">
@@ -522,7 +529,7 @@
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 <!ENTITY doorhanger_login_no_username "[Niciun nume de utilizator]">
 <!ENTITY doorhanger_login_edit_title "Editează autentificarea">
-<!ENTITY doorhanger_login_edit_username_hint "Utilizator">
+<!ENTITY doorhanger_login_edit_username_hint "Nume de utilizator">
 <!ENTITY doorhanger_login_edit_password_hint "Parolă">
 <!ENTITY doorhanger_login_edit_toggle "Afișează parola">
 <!ENTITY doorhanger_login_select_message "Copiezi parola din &formatS;?">
