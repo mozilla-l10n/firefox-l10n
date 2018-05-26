@@ -8,6 +8,7 @@ app-manager-window =
 app-manager-remove =
     .label = Sampôh
     .accesskey = S
+app-manager-handle-webfeeds = Aplikasi nyoe jeuet geungui keu peuseuleusoe Feed Web.
 
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.
