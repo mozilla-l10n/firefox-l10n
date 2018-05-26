@@ -357,7 +357,8 @@
 <!ENTITY customizeMenu.addMoreItems.accesskey "w">
 <!ENTITY customizeMenu.autoHideDownloadsButton.label "Automatyczne ukrywanie na pasku narzędzi">
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
-
+<!ENTITY customizeMenu.manageExtension.label "Zarządzaj rozszerzeniem">
+<!ENTITY customizeMenu.manageExtension.accesskey "Z">
 <!ENTITY moreMenu.label "Więcej">
 
 <!ENTITY openCmd.commandkey "l" >
