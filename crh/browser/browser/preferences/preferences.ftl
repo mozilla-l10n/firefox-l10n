@@ -100,7 +100,7 @@ extension-controlled-privacy-containers = Bir eklenti, <img data-l10n-name="icon
 extension-controlled-websites-tracking-protection-mode = Bir eklenti, <img data-l10n-name="icon"/> { $name }, izlenme imayesini kontrol ete.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
-extension-controlled-proxy-config = Bir uzantı, <img data-l10n-name="icon"/> { $name }, { -brand-short-name } uyğulamasınıñ İnternet'ke nasıl bağlanğanını  muraqabe ete.
+extension-controlled-proxy-config = Bir uzantı, <img data-l10n-name="icon"/> { $name }, { -brand-short-name } uyğulamasınıñ İnternet'ke nasıl bağlanğanını muraqabe ete.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -157,7 +157,7 @@ ctrl-tab-recently-used-order =
     .accesskey = T
 open-new-link-as-tabs =
     .label = İlişimlerni pencereler yerine yañı ilmeklerde aç
-    .accesskey = B
+    .accesskey = d
 warn-on-close-multiple-tabs =
     .label = Müteaddit ilmekni qapatqanda meni tenbile
     .accesskey = m
@@ -274,7 +274,7 @@ update-application-info = Sürüm { $version } <a>Ne bar ne yoq?</a>
 update-application-version = Sürüm{ $version } <a data-l10n-name="learn-more">Ne bar ne yoq</a>
 update-history =
     .label = Yañartma keçmişini köster…
-    .accesskey = c
+    .accesskey = k
 update-application-allow-description = { -brand-short-name } yañartmalarnı
 update-application-auto =
     .label = Avtomatik olaraq qursın (tevsiye etilir)
@@ -284,7 +284,7 @@ update-application-check-choose =
     .accesskey = T
 update-application-manual =
     .label = İç bir zaman teşkermesin (tevsiye etilmez)
-    .accesskey = H
+    .accesskey = i
 update-application-use-service =
     .label = Yañartmalarnı qurmaq içün arqazemin hizmetini qullan
     .accesskey = a
@@ -606,7 +606,7 @@ sitedata-accept-cookies-option =
     .accesskey = k
 sitedata-block-cookies-option =
     .label = Çöreklerni ve sayt verilerini blokla (ağ-saytlarınıñ sınmasına sebebiyet berebilir)
-    .accesskey = z
+    .accesskey = b
 sitedata-keep-until = Tutuş zamanı
     .accesskey = u
 sitedata-keep-until-expire =
@@ -637,13 +637,13 @@ addressbar-header = Adres Çubuğı
 addressbar-suggest = Adres çubuğını qullanğanda, telqin et:
 addressbar-locbar-history-option =
     .label = Kezinüv keçmişi
-    .accesskey = G
+    .accesskey = K
 addressbar-locbar-bookmarks-option =
     .label = Saifeimleri
     .accesskey = m
 addressbar-locbar-openpage-option =
     .label = Açıq ilmekler
-    .accesskey = s
+    .accesskey = i
 addressbar-suggestions-settings = Qıdırma motorı telqinleri içün tercihlerni deñiştir
 
 ## Privacy Section - Tracking
@@ -653,7 +653,7 @@ tracking-desc = İzlenme İmayesi, müetaddit sayt arqalı seyran verileriñizni
 tracking-mode-label = Bilinen takipçileri engellemek için İzlenme Koruması’nı kullan
 tracking-mode-always =
     .label = Er zaman
-    .accesskey = H
+    .accesskey = e
 tracking-mode-private =
     .label = Faqat hususiy pencerelerde
     .accesskey = h
@@ -762,7 +762,7 @@ certs-select-auto-option =
     .accesskey = B
 certs-select-ask-option =
     .label = Er seferinde maña sora
-    .accesskey = H
+    .accesskey = e
 certs-enable-ocsp =
     .label = Şeadetnamelerniñ keçerliligini teyit etmek içün OCSP cevapçı sunucılarını istifsar et
     .accesskey = d
@@ -771,4 +771,4 @@ certs-view =
     .accesskey = ö
 certs-devices =
     .label = Emniyet Cihazları…
-    .accesskey = ü
+    .accesskey = C
