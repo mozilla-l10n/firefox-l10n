@@ -8,6 +8,7 @@ sync-disconnect-dialog =
 sync-disconnect-remove-sync-caption = Fjerne { -sync-brand-name }-data
 sync-disconnect-remove-sync-data = Bokmerke, historikk, passord etc.
 sync-disconnect-remove-other-caption = Fjern andre private data
+sync-disconnect-remove-other-data = Infokapslar, snøgglager, fråkopla nettsidedata, etc.
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = Koplar frå…
 sync-disconnect-cancel =
