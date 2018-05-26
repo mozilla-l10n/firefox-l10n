@@ -13,6 +13,7 @@ connection-close-key =
     .key = w
 connection-disable-extension =
     .label = Eklentini Naqabilleştir
+connection-proxy-configure = İnternet'ke Proksi İrişimini Endamlandır
 connection-proxy-option-no =
     .label = Proksi yoq
     .accesskey = o

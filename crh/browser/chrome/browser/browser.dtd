@@ -35,6 +35,7 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "Diger İmeklerni Qapat">
 <!ENTITY  closeOtherTabs.accesskey           "D">
 
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -246,6 +247,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Ev">
+
+<!ENTITY homeButton.defaultPage.tooltip "&brandShortName; Ev Saifesi">
 
 <!ENTITY bookmarksButton.label          "Saife-imleri">
 <!ENTITY bookmarksCmd.commandkey "b">
@@ -787,6 +790,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "Daa Çoq Malümat">
 
+<!ENTITY identity.clearSiteData "Çöreklerni ve Sayt Verilerini İdare Et Temizle…">
+
 <!ENTITY identity.permissions "Ruhsetler">
 <!ENTITY identity.permissionsEmpty "Bu saytqa er angi mahsus ruhsetler bergen degilsiñiz.">
 <!ENTITY identity.permissionsReloadHint "Deñişikliklerniñ uyğulanması içün saifeni kene yüklemeñiz kerekebilir.">
@@ -983,6 +988,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Eklentini Naqabilleştir">
 <!ENTITY newTabControlled.disableButton.accesskey "N">
 
+<!ENTITY homepageControlled.message "Bir eklenti, ev saifeñiz olaraq ne körgeniñizni deñiştirgendir. Bu deñişiklikni istemey iseñiz ayarlarıñıznı keri tikleybilirsiñiz.">
 
 
 <!ENTITY pageActionButton.tooltip "Saife amelleri">
