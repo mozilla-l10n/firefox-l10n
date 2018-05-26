@@ -799,6 +799,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "Dalše informacije">
 
+<!ENTITY identity.clearSiteData "Placki a sydłowe daty zhašeć…">
 
 <!ENTITY identity.permissions "Prawa">
 <!ENTITY identity.permissionsEmpty "Njejsće tutomu sydłu wosebite prawa přizwolił.">
