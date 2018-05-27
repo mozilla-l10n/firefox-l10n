@@ -70,6 +70,15 @@
 
 <!ENTITY url_bar_default_text2 "Axtar və ya ünvan daxil et">
 
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "Axtarış və ya ünvan üçün QR Oxuyucunuzu işlədin">
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "Axtarış və ya ünvan üçün mikrofonunuzu işlədin">
+
 <!ENTITY bookmark "Əlfəcin">
 <!ENTITY bookmark_remove "Əlfəcini sil">
 <!ENTITY bookmark_added "Əlfəcin əlavə olundu">
