@@ -9,8 +9,8 @@
 <!ENTITY firstrun_privacy_message "Navegue como si nadie le observara">
 <!ENTITY firstrun_privacy_subtext "La navegación privada con protección contra rastreo bloquea los rastreadores mientras navega y no recuerda su historial cuando termina de navegar.">
 <!ENTITY firstrun_panel_title_customize "Personalizar">
-<!ENTITY firstrun_customize_message "Crea tu propio &brandShortName;.">
-<!ENTITY firstrun_customize_subtext "Personaliza &brandShortName; con complementos. Bloquea anuncios, agrega características o elije un nuevo tema que refleje tu personalidad.">
+<!ENTITY firstrun_customize_message "Cree su propio &brandShortName;.">
+<!ENTITY firstrun_customize_subtext "Personalice &brandShortName; con complementos. Bloquee anuncios, agregue características o elija un nuevo tema que refleje su personalidad.">
 <!ENTITY firstrun_bookmarks_title "Historial">
 <!ENTITY firstrun_bookmarks_message "Sus sitios preferidos, a la vista">
 <!ENTITY firstrun_bookmarks_subtext "Obtenga resultados de sus marcadores e historial cuando busque.">
