@@ -36,6 +36,7 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.accesskey           "ä">
 
 <!ENTITY  closeSelectedTabs.label            "Stäng valda flikar">
+<!ENTITY  closeSelectedTabs.accesskey        "v">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -436,6 +437,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.autoHideDownloadsButton.label "Dölj automatiskt i verktygsfältet">
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "a">
 <!ENTITY customizeMenu.manageExtension.label "Hantera tillägg">
+<!ENTITY customizeMenu.manageExtension.accesskey "H">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
