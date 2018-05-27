@@ -9,6 +9,9 @@ sync-disconnect-remove-sync-caption = Kkes{ -sync-brand-name } Isefka
 sync-disconnect-remove-other-caption = Kkes Isefka-nniḍen usligen
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = Tufɣa...
+sync-disconnect-cancel =
+    .label = Sefsex
+    .accesskey = S
 
 ## Disconnect confirm Button
 ##
