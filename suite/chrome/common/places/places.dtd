@@ -3,10 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+<!ENTITY places.library.title  "Biblioteca">
+<!ENTITY places.library.width  "700">
+<!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Organizar">
 <!ENTITY organize.tooltip      "Organizar seus favoritos">
 
 <!ENTITY file.close.label               "Fechar">
+<!ENTITY views.label                    "Visualizações">
 <!ENTITY views.tooltip                  "Alterar o modo de exibição">
 <!ENTITY view.columns.label             "Exibir colunas">
 <!ENTITY view.sort.label                "Ordenar">
@@ -42,6 +46,7 @@
 
 <!ENTITY col.name.label          "Nome">
 <!ENTITY col.tags.label          "Tags">
+<!ENTITY col.url.label           "Localização">
 <!ENTITY col.mostrecentvisit.label "Recentemente visitado">
 <!ENTITY col.visitcount.label    "Número de visitas">
 <!ENTITY col.description.label   "Descrição">
