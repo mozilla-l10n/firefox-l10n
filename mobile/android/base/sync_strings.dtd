@@ -81,7 +81,7 @@
 <!ENTITY fxaccount_status_linkprivacy2 'Politica de confidențialitate'>
 <!ENTITY fxaccount_remove_account 'Deconectează-te&ellipsis;'>
 
-<!ENTITY fxaccount_remove_account_dialog_title2 'Te deconectezi de la Sincronizare?'>
+<!ENTITY fxaccount_remove_account_dialog_title2 'Te deconectezi de la Sync?'>
 <!ENTITY fxaccount_remove_account_dialog_message2 'Datele de navigare vor rămâne pe acest dispozitv, însă nu se vor mai sincroniza cu contul tău.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
