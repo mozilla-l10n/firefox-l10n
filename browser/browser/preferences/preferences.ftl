@@ -145,6 +145,9 @@ startup-blank-page =
     .label = Erakutsi orri hutsa
 startup-prev-session =
     .label = Berreskuratu azken saioko fitxak eta leihoak
+startup-restore-previous-session =
+    .label = Berreskuratu aurreko saioa
+    .accesskey = B
 disable-extension =
     .label = Desgaitu hedapena
 home-page-header = Hasiera-orria
@@ -341,6 +344,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Leiho eta fitxa berriak
+home-new-windows-tabs-description2 = Aukeratu zer ikusi nahi duzun zure hasiera-orria, leiho berriak eta fitxa berriak irekitzean.
 
 ## Home Section - Home Page Customization
 
