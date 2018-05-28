@@ -2,6 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+sync-disconnect-dialog =
+    .title = Desconectar { -sync-brand-short-name }?
+    .style = width: 36em; min-height: 35em;
+sync-disconnect-heading = Você deseja remover os dados de navegação desse computador? Seu dados de { -sync-brand-name } ainda continuarão em sua conta.
+sync-disconnect-remove-sync-caption = Remover dados de { -sync-brand-name }
+sync-disconnect-remove-sync-data = Favoritos, histórico, senhas, etc.
+sync-disconnect-remove-other-caption = Remover outros dados privados
+sync-disconnect-remove-other-data = Cookies, cache, dados de site off-line, etc.
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = Desconectando...
 sync-disconnect-cancel =
