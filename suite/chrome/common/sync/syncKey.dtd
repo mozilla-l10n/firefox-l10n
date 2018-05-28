@@ -13,6 +13,6 @@
 <!ENTITY syncKey.keepItSafe4.description  " si elle est perdue. Vous en aurez besoin chaque fois que vous connecterez un nouvel ordinateur ou autre appareil à &syncBrand.fullName.label;.">
 <!ENTITY syncKey.findOutMore1.label       "Pour en savoir plus sur &syncBrand.fullName.label; et votre vie privée, consultez ">
 <!ENTITY syncKey.findOutMore2.label       ".">
-<!ENTITY syncKey.footer1.label            "Les conditions d’utilisation de &syncBrand.fullName.label; sont disponibles à l’adresse ">
+<!ENTITY syncKey.footer1.label            "Les Conditions d’utilisation de &syncBrand.fullName.label; sont disponibles à l’adresse ">
 <!ENTITY syncKey.footer2.label            ". La politique de confidentialité se trouve à l’adresse ">
 <!ENTITY syncKey.footer3.label            ".">
