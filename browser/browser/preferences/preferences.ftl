@@ -67,7 +67,7 @@ close-button =
 ## Browser Restart Dialog
 
 feature-enable-requires-restart = O { -brand-short-name } deve ser reiniciado para habilitar esta funcionalidade.
-feature-disable-requires-restart = O { -brand-short-name } deve ser reiniciado para desabilitar esta funcionalidade.
+feature-disable-requires-restart = O { -brand-short-name } deve ser reiniciado para desativar esta funcionalidade.
 should-restart-title = Reiniciar o { -brand-short-name }
 should-restart-ok = Reiniciar o { -brand-short-name } agora
 cancel-no-restart-button = Cancelar
@@ -149,7 +149,7 @@ startup-restore-previous-session =
     .label = Restaurar a sessão anterior
     .accesskey = R
 disable-extension =
-    .label = Desabilitar extensão
+    .label = Desativar extensão
 home-page-header = Página inicial
 tabs-group-header = Abas
 ctrl-tab-recently-used-order =
@@ -185,8 +185,8 @@ containers-disable-alert-desc =
     }
 containers-disable-alert-ok-button =
     { $tabCount ->
-        [one] Fechar { $tabCount } aba container
-       *[other] Fechar { $tabCount } abas container
+        [one] Fechar { $tabCount } aba contêiner
+       *[other] Fechar { $tabCount } abas contêiner
     }
 containers-disable-alert-cancel-button = Manter habilitado
 containers-remove-alert-title = Remover este contêiner?
@@ -306,7 +306,7 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Limite do processo de conteúdo
     .accesskey = L
 performance-limit-content-process-enabled-desc = Processos de conteúdo adicionais podem melhorar o desempenho ao usar várias abas, mas também usam mais memória.
-performance-limit-content-process-disabled-desc = A modificação do número de processos de conteúdo só é possível com o processo múltiplo do { -brand-short-name }. <a>Saiba como verificar se o processo múltiplo está habilitado</a>
+performance-limit-content-process-disabled-desc = A modificação do número de processos de conteúdo só é possível com o multiprocessamento do { -brand-short-name }. <a>Saiba como verificar se o multiprocessamento está habilitado</a>
 performance-limit-content-process-blocked-desc = A modificação do número de processos de conteúdo só é possível com o processo múltiplo do { -brand-short-name }. <a data-l10n-name="learn-more">Saiba como verificar se o processo múltiplo está habilitado</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
