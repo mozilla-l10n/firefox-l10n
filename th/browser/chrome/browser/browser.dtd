@@ -248,6 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "หน้าแรก">
 
+<!ENTITY homeButton.defaultPage.tooltip "หน้าแรกของ &brandShortName;">
 
 <!ENTITY bookmarksButton.label          "ที่คั่นหน้า">
 <!ENTITY bookmarksCmd.commandkey "b">
@@ -998,6 +999,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.disableButton.label "ปิดใช้งานส่วนขยาย">
 <!ENTITY homepageControlled.disableButton.accesskey "ป">
 
+<!ENTITY tabHideControlled.disableButton.label "ปิดใช้งานส่วนขยาย">
+<!ENTITY tabHideControlled.disableButton.accesskey "ป">
 
 <!ENTITY pageActionButton.tooltip "การกระทำของหน้า">
 <!ENTITY pageAction.addToUrlbar.label "เพิ่มไปยังแถบที่อยู่">
