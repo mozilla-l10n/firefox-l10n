@@ -70,6 +70,13 @@
 
 <!ENTITY url_bar_default_text2 "Recherche ou adresse">
 
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+
 <!ENTITY bookmark "Marquer cette page">
 <!ENTITY bookmark_remove "Supprimer le marque-page">
 <!ENTITY bookmark_added "Marque-page ajouté">
@@ -387,7 +394,7 @@
 <!ENTITY pref_private_data_cookies2 "Cookies et connexions actives">
 <!ENTITY pref_private_data_passwords2 "Identifiants enregistrés">
 <!ENTITY pref_private_data_cache "Cache">
-<!ENTITY pref_private_data_offlineApps "Données de site web hors connexion">
+<!ENTITY pref_private_data_offlineApps "Données de sites web hors connexion">
 <!ENTITY pref_private_data_siteSettings2 "Paramètres de site">
 <!ENTITY pref_private_data_downloadFiles2 "Téléchargements">
 <!ENTITY pref_private_data_syncedTabs "Onglets synchronisés">
