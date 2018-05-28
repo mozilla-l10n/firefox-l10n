@@ -799,7 +799,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "Daha fazla bilgi">
 
-<!ENTITY identity.clearSiteData "Çerezleri ve site verisini temizle…">
+<!ENTITY identity.clearSiteData "Çerezleri ve site verilerini temizle…">
 
 <!ENTITY identity.permissions "İzinler">
 <!ENTITY identity.permissionsEmpty "Bu siteye özel bir izin vermediniz.">

@@ -5,8 +5,8 @@
 sync-disconnect-dialog =
     .title = { -sync-brand-short-name } bağlantısı kesilsin mi?
     .style = width: 36em; min-height: 35em;
-sync-disconnect-heading = Bu bilgisayardaki tarama verisini de silmek ister misiniz? Bundan bağımsız olarak { -sync-brand-name } veriniz hesabınızda kalacak.
-sync-disconnect-remove-sync-caption = { -sync-brand-name } verisini sil
+sync-disconnect-heading = Bu bilgisayardaki tarayıcı verilerini de silmek ister misiniz? { -sync-brand-name } hesabınızdaki verilere dokunulmayacaktır.
+sync-disconnect-remove-sync-caption = { -sync-brand-name } verilerini sil
 sync-disconnect-remove-sync-data = Yer imleri, geçmiş, parolalar vb.
 sync-disconnect-remove-other-caption = Diğer kişiye özel verileri temizle
 sync-disconnect-remove-other-data = Çerezler, önbellek, çevrim dışı site verileri vb.
