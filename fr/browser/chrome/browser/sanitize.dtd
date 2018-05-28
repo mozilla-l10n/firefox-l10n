@@ -48,7 +48,7 @@ that require it.  -->
 <!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "Cache">
 <!ENTITY itemCache.accesskey               "a">
-<!ENTITY itemOfflineApps.label             "Données de site web hors connexion">
+<!ENTITY itemOfflineApps.label             "Données de sites web hors connexion">
 <!ENTITY itemOfflineApps.accesskey         "W">
 <!ENTITY itemActiveLogins.label            "Connexions actives">
 <!ENTITY itemActiveLogins.accesskey        "x">

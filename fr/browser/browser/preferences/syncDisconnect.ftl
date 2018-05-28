@@ -7,6 +7,8 @@ sync-disconnect-dialog =
     .style = width: 36em; min-height: 35em;
 sync-disconnect-remove-sync-caption = Supprimer les données de { -sync-brand-name }
 sync-disconnect-remove-sync-data = Marque-pages, historique, mots de passe, etc.
+sync-disconnect-remove-other-caption = Supprimer les autres données privées
+sync-disconnect-remove-other-data = Cookies, cache, données de sites web hors connexion, etc.
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = Déconnexion…
 sync-disconnect-cancel =
