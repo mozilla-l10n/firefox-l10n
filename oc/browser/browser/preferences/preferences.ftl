@@ -569,6 +569,9 @@ history-private-browsing-permanent =
 history-remember-option =
     .label = Conservar l'istoric de navegacion e dels telecargaments
     .accesskey = C
+history-remember-browser-option =
+    .label = Servar l'istoric de navegacion e dels telecargaments
+    .accesskey = i
 history-remember-search-option =
     .label = Conservar l'istoric de las recèrcas e dels formularis
     .accesskey = f
@@ -585,6 +588,11 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookies e donadas de sites
+sitedata-total-size-calculating = Calcul del pès de las donadas dels sites e del cache…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Los cookies, lo cache e las donadas dels sites utilizan actualament { $value } { $unit } d’espaci disc.
 sitedata-learn-more = Ne saber mai
 sitedata-accept-cookies-option =
     .label = Acceptar los cookies e las donadas de sites (recomandat)
@@ -705,6 +713,7 @@ collection-health-report =
     .label = Autorizar { -brand-short-name } a mandar de donadas tecnicas e d’interaccions a { -vendor-short-name }
     .accesskey = A
 collection-health-report-link = Ne saber mai
+collection-studies-link = Veire los estudis de { -brand-short-name }
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Lo rapòrt de donadas es desactivat per aquela configuracion de compilacion
