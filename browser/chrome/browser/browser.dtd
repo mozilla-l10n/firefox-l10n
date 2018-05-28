@@ -995,7 +995,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Desgaitu hedapena">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
+<!ENTITY homepageControlled.header.message "Zure hasiera-orria aldatu egin da.">
+<!ENTITY homepageControlled.keepButton.label "Mantendu aldaketak">
+<!ENTITY homepageControlled.keepButton.accesskey "M">
+<!ENTITY homepageControlled.disableButton.label "Desgaitu hedapena">
+<!ENTITY homepageControlled.disableButton.accesskey "D">
 
+<!ENTITY tabHideControlled.disableButton.label "Desgaitu hedapena">
+<!ENTITY tabHideControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "Orri-ekintzak">
 <!ENTITY pageAction.addToUrlbar.label "Gehitu helbide-barran">
@@ -1007,6 +1014,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.sendTabToDevice.label "Bidali fitxa gailura">
 <!ENTITY sendToDevice.syncNotReady.label "Gailuak sinkronizatzen…">
 
+<!ENTITY pageAction.shareUrl.label "Partekatu">
 
 <!ENTITY libraryButton.tooltip "Ikusi historia, gordetako laster-markak eta gehiago">
 
