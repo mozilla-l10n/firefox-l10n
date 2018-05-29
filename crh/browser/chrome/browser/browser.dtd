@@ -360,7 +360,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Evelki Oturımnı Keri Tikle">
 
 <!ENTITY showAllHistoryCmd2.label "Bütün Keçmişni Köster">
-<!ENTITY showAllHistoryCmd.commandkey "T">
+<!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Bütün Keçmişni Köster">
 <!ENTITY appMenuHistory.clearRecent.label "Deminki Keçmişni Temizle…">
