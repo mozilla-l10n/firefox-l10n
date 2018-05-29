@@ -19,7 +19,7 @@
 <!ENTITY dnsNotFound.title "kòo servidor ni ntanèe">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
-<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Kunchee direccion nchauu tatu koo error tana <strong>ww</strong>.ejemplo.com nuu  <strong>www</strong>.ejemplo.com </li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Nda ntuku</button> </div> <li>Tatu kueeku kuncheu ni iin paguina, kunchee dispositivoku a conexion Wi-Fi. <button id='wifi'>Activar Wi-Fi</button> </li> </ul>">
+<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Kunchee direccion nchauu tatu koo error tana <strong>ww</strong>.example.com nuu  <strong>www</strong>.example.com </li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Nda ntuku</button> </div> <li>Tatu kueeku kuncheu ni iin paguina, kunchee dispositivoku a conexion Wi-Fi. <button id='wifi'>Activar Wi-Fi</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "kòo tutu ni ntanèe">
 <!ENTITY fileNotFound.longDesc "<ul> <li>kunchee sivu ña vàa na koi</li> <li>kunchee tatu archivo inkài,ni ka'anti a ntamami sivi'ña.</li> </ul>">
@@ -33,7 +33,7 @@
 <!ENTITY malformedURI.title "dirección vaii">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY malformedURI.longDesc2 "<ul> <li>Tsini ñuù chauña tana <strong>http://www.ejemplo.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Nda nduku</button> </div> <li>Kunchee a nchau barra diagonal (i.e. <strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.longDesc2 "<ul> <li>Tsini ñuù chauña tana <strong>http://www.example.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Nda nduku</button> </div> <li>Kunchee a nchau barra diagonal (i.e. <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Ntasia">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
