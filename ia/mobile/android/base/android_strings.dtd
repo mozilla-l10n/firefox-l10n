@@ -70,6 +70,15 @@
 
 <!ENTITY url_bar_default_text2 "Insere un adresse o face un recerca">
 
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "Usa tu lector de QR pro cercar o inserer le adresse">
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "Usa tu microphono pro cercar o inserer le adresse">
+
 <!ENTITY bookmark "Adder marcapaginas">
 <!ENTITY bookmark_remove "Remover le marcapaginas">
 <!ENTITY bookmark_added "Marcapaginas addite">
