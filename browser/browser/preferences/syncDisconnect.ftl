@@ -5,6 +5,7 @@
 sync-disconnect-dialog =
     .title = Zwisk z { -sync-brand-short-name } dźělić?
     .style = width: 36em; min-height: 35em;
+sync-disconnect-heading = Chceće tež daty wobhladowaka na tutym ličaku wotstronić? Waše daty{ -sync-brand-name } we wašim konće najebać toho wostanu.
 sync-disconnect-remove-sync-caption = Daty { -sync-brand-name } wotstronić
 sync-disconnect-remove-sync-data = Zapołožki, historija, hesła atd.
 sync-disconnect-remove-other-caption = Druhe priwatne daty wotstronić
