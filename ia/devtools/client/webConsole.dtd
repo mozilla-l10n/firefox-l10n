@@ -43,7 +43,7 @@
 <!ENTITY btnPageLogging.accesskey3 "R">
 <!ENTITY btnConsoleErrors       "Errores">
 <!ENTITY btnConsoleInfo         "Informationes">
-<!ENTITY btnConsoleWarnings     "Advertentias">
+<!ENTITY btnConsoleWarnings     "Notificationes">
 <!ENTITY btnConsoleLog          "Log">
 <!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "Refluxos">

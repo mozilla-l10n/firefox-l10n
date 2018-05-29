@@ -44,7 +44,7 @@
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Terminos de servicio">
-<!ENTITY fxaPrivacyNotice.link.label "Advertentia de confidentialitate">
+<!ENTITY fxaPrivacyNotice.link.label "Notification de confidentialitate">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -74,9 +74,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY resendVerification.accesskey "d">
 <!ENTITY cancelSetup.label            "Cancellar le configuration">
 <!ENTITY cancelSetup.accesskey        "p">
-
-<!ENTITY removeAccount.label          "Remover le conto">
-<!ENTITY removeAccount.accesskey      "R">
 
 <!ENTITY signedOut.caption            "Porta le web con te">
 <!ENTITY signedOut.description        "Synchronisa tu marcapaginas, chronologia, contrasignos, additivos, e preferentias inter tote tu apparatos.">

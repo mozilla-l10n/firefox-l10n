@@ -526,7 +526,7 @@ sync-device-name-save =
 sync-mobilepromo-single = Connecte altere apparato
 sync-mobilepromo-multi = Gerer le apparatos
 sync-tos-link = Terminos de servicio
-sync-fxa-privacy-notice = Advertentia de confidentialitate
+sync-fxa-privacy-notice = Notification de confidentialitate
 
 ## Privacy Section
 
@@ -718,7 +718,7 @@ permissions-a11y-privacy-link = Saper plus
 
 collection-header = Collecta de datos e utilisation de { -brand-short-name }
 collection-description = Nos nos effortia pro lassar te in le commando e colliger solmente lo que nos ha necessitate pro provider e meliorar { -brand-short-name } a totes. Nos sempre demanda permission ante reciper informationes personal.
-collection-privacy-notice = Advertentia de confidentialitate
+collection-privacy-notice = Notification de confidentialitate
 collection-health-report =
     .label = Permitter que { -brand-short-name } invia datos technic e de interaction a { -vendor-short-name }
     .accesskey = r
