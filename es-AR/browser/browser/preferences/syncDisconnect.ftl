@@ -6,9 +6,24 @@ sync-disconnect-dialog =
     .title = ¿Desconectar { -sync-brand-short-name }?
     .style = ancho: 36 em; altura mínima: 35em;
 sync-disconnect-heading = ¿Quiere eliminar los datos del navegador en esta computadora también? Aunque los elimine, sus datos de { -sync-brand-name } seguirán almacenados en su cuenta.
+sync-disconnect-remove-sync-caption = Eliminar datos de { -sync-brand-name }
+sync-disconnect-remove-sync-data = Marcadores, historial, contraseñas, etc.
+sync-disconnect-remove-other-caption = Eliminar otros datos privados
+sync-disconnect-remove-other-data = Cookies, caché, datos del sitio sin conexión, etc.
+# Shown while the disconnect is in progress
+sync-disconnect-disconnecting = Desconectando...
+sync-disconnect-cancel =
+    .label = Cancelar
+    .accesskey = C
 
 ## Disconnect confirm Button
 ##
 ## The 2 labels which may be shown on the single "Disconnect" button, depending
 ## on the state of the checkboxes.
 
+sync-disconnect-confirm-disconnect-delete =
+    .label = Desconectar y eliminar
+    .accesskey = D
+sync-disconnect-confirm-disconnect =
+    .label = Solo desconectar
+    .accesskey = D
