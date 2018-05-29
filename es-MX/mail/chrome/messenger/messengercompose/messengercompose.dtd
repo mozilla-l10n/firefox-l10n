@@ -86,11 +86,19 @@
 <!ENTITY cut.label "Cortar">
 <!ENTITY copy.label "Copiar">
 <!ENTITY paste.label "Pegar">
+<!ENTITY pasteQuote.label "Pegar como cita">
 
 <!-- Attachment Item and List Context Menus -->
 <!ENTITY openAttachment.label "Abrir">
 <!ENTITY delete.label "Borrar">
+<!ENTITY removeAttachment.label "Eliminar adjunto">
+<!ENTITY renameAttachment.label "Renombrar…">
+<!ENTITY reorderAttachments.label "Reorganizar adjuntos…">
 <!ENTITY selectAll.label "Seleccionar todo">
+<!ENTITY attachFile.label "Adjuntar archivo(s)…">
+<!ENTITY convertCloud.label "Convertir a…">
+<!ENTITY cancelUpload.label "Cancelar carga">
+<!ENTITY convertRegularAttachment.label "Adjunto regular">
 
 <!-- Attachment Pane Header Bar Context Menu -->
 <!-- LOCALIZATION NOTE (initiallyShowAttachmentPane.label):
@@ -98,10 +106,12 @@
      in msgHdrViewOverlay.dtd. -->
 
 <!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Agregar diccionarios…">
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Contactos">
 
 <!-- Identity popup customize menuitem -->
+<!ENTITY customizeFromAddress.label "Personalizar desde dirección…">
 
 <!-- Status Bar -->
