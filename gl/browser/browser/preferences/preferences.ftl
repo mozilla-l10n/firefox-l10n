@@ -605,12 +605,20 @@ sitedata-keep-until-expire =
     .label = Que caduquen
 sitedata-keep-until-closed =
     .label = Pechar { -brand-short-name }
+sitedata-accept-third-party-desc = Aceptar as cookies de terceiros e os datos  do sitio
+    .accesskey = k
 sitedata-accept-third-party-always-option =
     .label = Sempre
 sitedata-accept-third-party-visited-option =
     .label = Dos visitados
 sitedata-accept-third-party-never-option =
     .label = Nunca
+sitedata-clear =
+    .label = Borrar datos...
+    .accesskey = B
+sitedata-settings =
+    .label = Xestionar datos...
+    .accesskey = X
 sitedata-cookies-exceptions =
     .label = Excepcións…
     .accesskey = E
@@ -619,31 +627,85 @@ sitedata-cookies-exceptions =
 
 addressbar-header = Barra de enderezos
 addressbar-suggest = Cando use a barra de enderezos, suxerir do
+addressbar-locbar-history-option =
+    .label = Historial de navegación
+    .accesskey = H
 addressbar-locbar-bookmarks-option =
     .label = Marcadores
     .accesskey = M
 addressbar-locbar-openpage-option =
     .label = Lapelas abertas
     .accesskey = b
+addressbar-suggestions-settings = Cambiar as preferencias relacionadas coas suxestións do buscador
 
 ## Privacy Section - Tracking
 
 tracking-header = Protección contra o seguimento
+tracking-desc = A protección contra o seguimento bloquea os elementos de seguimento que recopilan os seus datos de navegación en múltiples páxinas web. <a data-l10n-name="learn-more">Obteña máis información sobre a protección contra o seguimento e a súa privacidade</a>
+tracking-mode-label = Usar a protección contra o seguimento para bloquear elementos de seguimento coñecidos
+tracking-mode-always =
+    .label = Sempre
+    .accesskey = p
+tracking-mode-private =
+    .label = Só en xanelas privadas
+    .accesskey = l
+tracking-mode-never =
+    .label = Nunca
+    .accesskey = N
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Usar a protección contra o seguimento na navegación privada para bloquear os elementos de seguimento coñecidos
+    .accesskey = v
+tracking-exceptions =
+    .label = Excepcións...
+    .accesskey = x
+tracking-change-block-list =
+    .label = Cambiar a lista de bloqueo…
+    .accesskey = C
 
 ## Privacy Section - Permissions
 
+permissions-header = Permisos
+permissions-location = Localización
+permissions-location-settings =
+    .label = Configuración...
+    .accesskey = g
+permissions-camera = Cámara
+permissions-camera-settings =
+    .label = Configuración...
+    .accesskey = g
+permissions-microphone = Micrófono
+permissions-microphone-settings =
+    .label = Configuración...
+    .accesskey = g
+permissions-notification = Notificacións
+permissions-notification-settings =
+    .label = Configuración...
+    .accesskey = g
+permissions-notification-link = Máis información
+permissions-notification-pause =
+    .label = Interromper as notificacións ata que { -brand-short-name } se reinicie
+    .accesskey = n
 permissions-block-popups =
     .label = Bloquear xanelas emerxentes
     .accesskey = B
 permissions-block-popups-exceptions =
     .label = Excepcións…
     .accesskey = E
+permissions-addon-install-warning =
+    .label = Avisar cando os sitios web tenten instalar complementos
+    .accesskey = w
 permissions-addon-exceptions =
     .label = Excepcións…
     .accesskey = E
+permissions-a11y-privacy-checkbox =
+    .label = Impedir aos servizos de accesibilidade o acceso ao seu navegador
+    .accesskey = a
+permissions-a11y-privacy-link = Máis información
 
 ## Privacy Section - Data Collection
 
+collection-header = Recolección e uso de datos do { -brand-short-name }
 collection-health-report-link = Obter máis información
 collection-backlogged-crash-reports-link = Obter máis información
 
