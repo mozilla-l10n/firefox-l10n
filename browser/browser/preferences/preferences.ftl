@@ -322,6 +322,9 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = Utilizar desprazamento suave
     .accesskey = m
+browsing-use-onscreen-keyboard =
+    .label = Amosar un teclado táctil cando sexa necesario
+    .accesskey = c
 browsing-use-cursor-navigation =
     .label = Utilizar sempre as teclas de desprazamento para navegar nas páxinas
     .accesskey = c
@@ -332,6 +335,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Proxy de rede
+network-proxy-connection-description = Configurar o modo en que { -brand-short-name } se conecta á Internet.
 network-proxy-connection-learn-more = Obter máis información
 network-proxy-connection-settings =
     .label = Configuración…
@@ -401,6 +405,7 @@ search-show-suggestions-above-history-option =
     .label = Amosar suxestións de busca antes do historial de navegación nos resultados da barra de enderezos
 search-suggestions-cant-show = As suxestións de busca non se amosarán nos resultados da barra de localización porque configurou { -brand-short-name } para que non lembre o historial.
 search-one-click-header = Buscadores nun clic
+search-one-click-desc = Escolla os buscadores alternativos que aparecerán debaixo da barra de enderezos e de busca ao comezar a escribir unha palabra clave.
 search-choose-engine-column =
     .label = Buscador
 search-choose-keyword-column =
@@ -411,6 +416,7 @@ search-restore-default =
 search-remove-engine =
     .label = Retirar
     .accesskey = r
+search-find-more-link = Atopar máis buscadores
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Duplicar a palabra clave
@@ -421,12 +427,26 @@ search-keyword-warning-bookmark = A palabra clave que escolleu está a ser utili
 
 ## Containers Section
 
+containers-back-link = « Retroceder
+containers-header = Lapelas contedor
+containers-add-button =
+    .label = Engadir un novo contedor
+    .accesskey = a
+containers-preferences-button =
+    .label = Preferencias
+containers-remove-button =
+    .label = Retirar
 
 ## Sync Section - Signed out
 
 sync-signedout-caption = Leve a Web con vostede
 sync-signedout-description = Sincronice os marcadores, o historial, as lapelas, os contrasinais, os complementos e as preferencias en todos os seus dispositivos.
 sync-signedout-account-title = Conectar con { -fxaccount-brand-name }
+sync-signedout-account-create = Non ten unha conta? Comece aquí
+    .accesskey = c
+sync-signedout-account-signin =
+    .label = Identificarse…
+    .accesskey = I
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -448,6 +468,9 @@ sync-manage-account = Xestionar conta
     .accesskey = o
 sync-signedin-unverified = { $email } non está comprobado.
 sync-signedin-login-failure = Identifíquese para volver a conectarse { $email }
+sync-resend-verification =
+    .label = Reenviar comprobación
+    .accesskey = m
 sync-remove-account =
     .label = Retirar conta
     .accesskey = R
@@ -455,20 +478,41 @@ sync-sign-in =
     .label = Identificarse
     .accesskey = f
 sync-signedin-settings-header = Configuración de Sync
+sync-signedin-settings-desc = Use { -brand-short-name } para seleccionar o que desexa sincronizar nos seus dispositivos
 sync-engine-bookmarks =
     .label = Marcadores
     .accesskey = M
 sync-engine-history =
     .label = Historial
     .accesskey = r
+sync-engine-tabs =
+    .label = Lapelas abertas
+    .tooltiptext = Lista do que ten aberto en todos os dispositivos sincronizados
+    .accesskey = t
 sync-engine-logins =
     .label = Identificacións
     .tooltiptext = Nomes de usuario e contrasinais que gardou
     .accesskey = f
+sync-engine-addresses =
+    .label = Enderezos
+    .tooltiptext = Enderezos postais gardados (só no escritorio)
+    .accesskey = e
+sync-engine-creditcards =
+    .label = Tarxetas de crédito
+    .tooltiptext = Nomes, números e datas de caducidade (só no escritorio)
+    .accesskey = c
 sync-engine-addons =
     .label = Complementos
     .tooltiptext = Extensións e temas para o Firefox de escritorio
     .accesskey = p
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Opcións
+           *[other] Preferencias
+        }
+    .tooltiptext = Axustes xerais, de privacidade e seguranza que vostede cambiou
+    .accesskey = s
 sync-device-name-header = Nome do dispositivo
 sync-device-name-change =
     .label = Cambiar nome do dispositivo…
@@ -491,6 +535,9 @@ privacy-header = Privacidade do navegador
 ## Privacy Section - Forms
 
 forms-header = Formularios e contrasinais
+forms-ask-to-save-logins =
+    .label = Preguntar se gardar identificacións e contrasinais de acceso nos sitios web
+    .accesskey = r
 forms-exceptions =
     .label = Excepcións…
     .accesskey = p
@@ -507,18 +554,33 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Historial
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label = { -brand-short-name }
+    .accesskey = x
 history-remember-option-all =
     .label = Gardará o historial
 history-remember-option-never =
     .label = Nunca gardará o historial
 history-remember-option-custom =
     .label = Usará unha configuración personalizada para o historial
+history-remember-description = { -brand-short-name } lembrará o seu historial de navegación, descargas, formularios e buscas.
 history-dontremember-description = { -brand-short-name } usará a mesma configuración que na navegación privada, e non gardará ningún historial mentres navega pola Internet.
 history-private-browsing-permanent =
     .label = Usar sempre o modo de navegación privada
     .accesskey = p
 history-remember-option =
     .label = Lembrar o meu historial de navegación e descargas
+    .accesskey = b
+history-remember-browser-option =
+    .label = Lembrar o historial de navegación e descargas
     .accesskey = b
 history-remember-search-option =
     .label = Lembrar historial de formularios e buscas
@@ -529,9 +591,20 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Configuración…
     .accesskey = g
+history-clear-button =
+    .label = Borrar historial...
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
+sitedata-header = Cookies e datos dos sitios
+sitedata-learn-more = Máis información
+sitedata-keep-until = Manter ata
+    .accesskey = t
+sitedata-keep-until-expire =
+    .label = Que caduquen
+sitedata-keep-until-closed =
+    .label = Pechar { -brand-short-name }
 sitedata-accept-third-party-always-option =
     .label = Sempre
 sitedata-accept-third-party-visited-option =
