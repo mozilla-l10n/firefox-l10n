@@ -35,6 +35,9 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "Overige tabbladen sluiten">
 <!ENTITY  closeOtherTabs.accesskey           "e">
 
+<!ENTITY  closeSelectedTabs.label            "Geselecteerde tabbladen sluiten">
+<!ENTITY  closeSelectedTabs.accesskey        "G">
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -901,6 +904,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Alle zichtbare vensters op uw scherm worden gedeeld.">
 
 <!ENTITY trackingProtection.title "Bescherming tegen volgen">
+<!ENTITY trackingProtection.tooltip "Voorkeuren van Bescherming tegen volgen openen">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokkeert onderdelen van de pagina die uw surfgedrag zouden kunnen volgen.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Deze website bevat elementen die uw surfgedrag zouden kunnen volgen. U hebt bescherming uitgeschakeld.">
 <!ENTITY trackingProtection.notDetected3 "Geen volgelementen op deze pagina gedetecteerd.">
