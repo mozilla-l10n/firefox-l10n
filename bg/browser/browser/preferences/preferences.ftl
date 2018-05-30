@@ -547,7 +547,7 @@ forms-master-pw-use =
     .label = Използване на главна парола
     .accesskey = г
 forms-master-pw-change =
-    .label = Промяна на главна парола…
+    .label = Промяна на главна парола
     .accesskey = л
 
 ## Privacy Section - History
