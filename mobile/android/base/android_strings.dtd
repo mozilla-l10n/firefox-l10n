@@ -70,6 +70,15 @@
 
 <!ENTITY url_bar_default_text2 "Serĉu aŭ tajpu adreson">
 
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "Uzi vian QR-legilon por serĉi aŭ enigi adreson">
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "Uzi vian mikrofonon por serĉi aŭ enigi adreson">
+
 <!ENTITY bookmark "Legosignoj">
 <!ENTITY bookmark_remove "Forigi legosignon">
 <!ENTITY bookmark_added "Legosigno aldonita">
