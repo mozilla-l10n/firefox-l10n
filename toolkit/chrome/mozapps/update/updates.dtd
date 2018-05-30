@@ -45,7 +45,7 @@
 <!ENTITY  finishedPage.title              "การอัปเดตพร้อมติดตั้ง">
 <!ENTITY  finishedPage.text               "การอัปเดตจะถูกติดตั้งในครั้งถัดไปที่ &brandShortName; เริ่ม คุณสามารถเริ่มการทำงาน &brandShortName; ใหม่ตอนนี้ หรือทำงานต่อไปและเริ่มการทำงานใหม่ในภายหลัง">
 
-<!ENTITY  finishedBackgroundPage.text     "การอัปเดตความปลอดภัยและเสถียรภาพสำหรับ &brandShortName; ถูกดาวน์โหลดแล้วและพร้อมติดตั้ง">
+<!ENTITY  finishedBackgroundPage.text     "ดาวน์โหลดการอัปเดตความปลอดภัยและเสถียรภาพสำหรับ &brandShortName; แล้วและพร้อมติดตั้ง">
 <!ENTITY  finishedBackground.name         "อัปเดต:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "การอัปเดตจะถูกติดตั้งในครั้งถัดไปที่ &brandShortName; เริ่ม คุณสามารถเริ่มการทำงาน &brandShortName; ใหม่ตอนนี้ หรือทำงานต่อไปและเริ่มการทำงานใหม่ในภายหลัง">
