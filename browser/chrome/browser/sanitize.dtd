@@ -25,6 +25,8 @@
 
 <!ENTITY clearDataSettings3.label     "Når jeg afslutter &brandShortName;, skal den automatisk rydde al">
 
+<!ENTITY clearDataSettings4.label     "Når jeg lukker &brandShortName; skal den automatisk rydde al">
+
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
