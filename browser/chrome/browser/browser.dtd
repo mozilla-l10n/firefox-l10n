@@ -35,6 +35,8 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "Fermi aliajn langetojn">
 <!ENTITY  closeOtherTabs.accesskey           "o">
 
+<!ENTITY  closeSelectedTabs.label            "Fermi elektitajn langetojn">
+<!ENTITY  closeSelectedTabs.accesskey        "e">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -250,6 +252,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Eka paĝo">
 
+<!ENTITY homeButton.defaultPage.tooltip "Eka paĝo de &brandShortName;">
 
 <!ENTITY bookmarksButton.label          "Legosignoj">
 <!ENTITY bookmarksCmd.commandkey "b">
@@ -796,6 +799,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "Pli da informo">
 
+<!ENTITY identity.clearSiteData "Viŝi kuketojn kaj retejajn datumojn…">
 
 <!ENTITY identity.permissions "Permesoj">
 <!ENTITY identity.permissionsEmpty "Vi ne donis iun ajn specialan permeson al tiu ĉi retejo.">
