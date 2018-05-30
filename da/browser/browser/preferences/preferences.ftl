@@ -143,6 +143,11 @@ startup-blank-page =
     .label = Vis en tom side
 startup-prev-session =
     .label = Vis mine vinduer og faneblade fra sidste gang
+
+startup-restore-previous-session =
+    .label = Gendan forrige session
+    .accesskey = G
+
 disable-extension =
     .label = Deaktiver udvidelse
 home-page-header = Startside:
@@ -574,6 +579,11 @@ history-private-browsing-permanent =
 history-remember-option =
     .label = Husk min browser- og filhentningshistorik
     .accesskey = b
+
+history-remember-browser-option =
+    .label = Husk min browser- og filhentningshistorik
+    .accesskey = b
+
 history-remember-search-option =
     .label = Husk formular- og søgehistorik
     .accesskey = f
@@ -715,6 +725,11 @@ collection-health-report =
     .label = Tillad at { -brand-short-name } indsender tekniske data og data om brug til { -vendor-short-name }
     .accesskey = d
 collection-health-report-link = Læs mere
+
+collection-studies =
+    .label = Tillad at { -brand-short-name } installerer og afvikler studier
+collection-studies-link = Vis { -brand-short-name }-studier
+
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Data-rapportering er deaktiveret for denne build-konfiguration
