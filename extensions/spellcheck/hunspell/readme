@@ -1,7 +1,0 @@
-These are en-US and is NOT ka (Georgian) spellcheck files indeed
-included for some purposes:
-
-- there are no hunspell dictionaries for Georgian yet
-- could be useful to resolve some error in builds
-- would be useful for English spellchecking at least
- 
