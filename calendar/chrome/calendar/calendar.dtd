@@ -172,12 +172,31 @@
 <!ENTITY calendar.context.copyevent.accesskey         "K">
 <!ENTITY calendar.context.pasteevent.label            "Alglui">
 <!ENTITY calendar.context.pasteevent.accesskey        "A">
-<!ENTITY calendar.context.button.label                "Today Pane" >
-<!ENTITY calendar.context.button.accesskey            "T" >
-<!ENTITY calendar.context.attendance.menu.label       "Attendance" >
-<!ENTITY calendar.context.attendance.menu.accesskey   "d" >
-<!ENTITY calendar.context.attendance.occurrence.label "This Occurrence" >
-<!ENTITY calendar.context.attendance.all.label        "All Occurrences" >
+<!ENTITY calendar.context.button.label                "Today Pane">
+<!ENTITY calendar.context.button.accesskey            "T">
+
+<!ENTITY calendar.context.attendance.menu.label                 "Attendance">
+<!ENTITY calendar.context.attendance.menu.accesskey             "d">
+<!ENTITY calendar.context.attendance.occurrence.label           "This Occurrence">
+<!ENTITY calendar.context.attendance.all2.label                 "Tuta serio">
+<!ENTITY calendar.context.attendance.send.label                 "Sendi sciigon nun">
+<!ENTITY calendar.context.attendance.send.accesskey             "S">
+<!ENTITY calendar.context.attendance.dontsend.label             "Ne sendi sciigon">
+<!ENTITY calendar.context.attendance.dontsend.accesskey         "N">
+
+<!ENTITY calendar.context.attendance.occ.accepted.accesskey     "A">
+<!ENTITY calendar.context.attendance.occ.accepted.label         "Akceptita">
+<!ENTITY calendar.context.attendance.occ.tentative.accesskey    "p">
+<!ENTITY calendar.context.attendance.occ.tentative.label        "Provizore akceptita">
+<!ENTITY calendar.context.attendance.occ.declined.accesskey     "r">
+<!ENTITY calendar.context.attendance.occ.declined.label         "Rifuzita">
+<!ENTITY calendar.context.attendance.occ.delegated.accesskey    "g">
+<!ENTITY calendar.context.attendance.occ.delegated.label        "Delegita">
+<!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "A">
+<!ENTITY calendar.context.attendance.occ.needsaction.label      "Ago ankoraŭ bezonata">
+
+<!ENTITY calendar.context.attendance.all.completed.accesskey    "k">
+<!ENTITY calendar.context.attendance.all.completed.label        "Kompleta">
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Progreso">
