@@ -398,7 +398,7 @@
 <!ENTITY pref_private_data_cache "แคช">
 <!ENTITY pref_private_data_offlineApps "ข้อมูลเว็บไซต์ออฟไลน์">
 <!ENTITY pref_private_data_siteSettings2 "การตั้งค่าไซต์">
-<!ENTITY pref_private_data_downloadFiles2 "ดาวน์โหลด">
+<!ENTITY pref_private_data_downloadFiles2 "การดาวน์โหลด">
 <!ENTITY pref_private_data_syncedTabs "แท็บที่ซิงค์">
 
 <!ENTITY pref_default_browser "ทำให้เป็นเบราว์เซอร์เริ่มต้น">
@@ -462,7 +462,7 @@
 
 <!ENTITY addons "ส่วนเสริม">
 <!ENTITY logins "การเข้าสู่ระบบ">
-<!ENTITY downloads "ดาวน์โหลด">
+<!ENTITY downloads "การดาวน์โหลด">
 <!ENTITY char_encoding "รหัสอักขระ">
 
 <!ENTITY share "แบ่งปัน">
