@@ -2,11 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.title):
-     Please ensure this exactly matches tabs.emptyPrivateTabTitle in tabbrowser.properties -->
-<!ENTITY aboutPrivateBrowsing.title                      "การท่องเว็บแบบส่วนตัว">
-<!ENTITY aboutPrivateBrowsing.notPrivate.title           "เปิดหน้าต่างส่วนตัว?">
-
 <!ENTITY aboutPrivateBrowsing.notPrivate                 "ขณะนี้คุณไม่ได้อยู่ในหน้าต่างส่วนตัว">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "เปิดหน้าต่างส่วนตัว">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "ส">
@@ -23,7 +18,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "จะบันทึก">
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          ":">
-<!ENTITY aboutPrivateBrowsing.info.downloads             "ดาวน์โหลด">
+<!ENTITY aboutPrivateBrowsing.info.downloads             "การดาวน์โหลด">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "ที่คั่นหน้า">
 <!ENTITY aboutPrivateBrowsing.note.before                "การท่องเว็บแบบส่วนตัว">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "ไม่ได้ทำให้คุณนิรนาม">

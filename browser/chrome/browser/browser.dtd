@@ -281,10 +281,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.label           "เพิ่มคำสำคัญสำหรับการค้นหานี้…">
 <!ENTITY keywordfield.accesskey       "พ">
 
-<!ENTITY downloads.label              "ดาวน์โหลด">
+<!ENTITY downloads.label              "การดาวน์โหลด">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
-<!ENTITY libraryDownloads.label       "ดาวน์โหลด">
+<!ENTITY libraryDownloads.label       "การดาวน์โหลด">
 <!ENTITY downloads.accesskey          "ด">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
