@@ -434,6 +434,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.accesskey "t">
 
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "a">
+<!ENTITY customizeMenu.manageExtension.label "Hallitse laajennusta">
+<!ENTITY customizeMenu.manageExtension.accesskey "a">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -998,7 +1000,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.keepButton.label "Säilytä muutokset">
 <!ENTITY homepageControlled.keepButton.accesskey "S">
 <!ENTITY homepageControlled.disableButton.label "Estä laajennus">
+<!ENTITY homepageControlled.disableButton.accesskey "o">
 
+<!ENTITY tabHideControlled.header.message "Käytä piilotettuja välilehtiä">
+<!ENTITY tabHideControlled.keepButton.label "Pidä välilehdet piilossa">
 <!ENTITY tabHideControlled.keepButton.accesskey "k">
 <!ENTITY tabHideControlled.disableButton.label "Poista laajennus käytöstä">
 <!ENTITY tabHideControlled.disableButton.accesskey "P">
