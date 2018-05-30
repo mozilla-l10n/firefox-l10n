@@ -434,6 +434,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "Gehitu elementu gehiago…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "G">
 
+<!ENTITY customizeMenu.autoHideDownloadsButton.label "Ezkutatu automatikoki tresna-barran">
+<!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "z">
 <!ENTITY customizeMenu.manageExtension.label "Kudeatu hedapena">
 <!ENTITY customizeMenu.manageExtension.accesskey "h">
 
