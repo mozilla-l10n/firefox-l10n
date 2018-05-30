@@ -3,8 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
-<!ENTITY pluginActivationWarning                             "ไซต์นี้ใช้ปลั๊กอินที่อาจทำให้ &brandShortName; ช้าลง">
-<!ENTITY tapToPlayPlugin                                     "แตะที่นี่เพือเปิดใช้งานปลั๊กอิน">
+<!ENTITY tapToPlayPlugin                                     "แตะที่นี่เพื่อเปิดใช้งานปลั๊กอิน">
 <!ENTITY clickToActivatePlugin                               "เปิดใช้งานปลั๊กอิน">
 <!ENTITY checkForUpdates                                     "ตรวจสอบการอัปเดต…">
 <!ENTITY blockedPlugin.label                                 "ปลั๊กอินนี้ถูกปิดกั้นเพื่อปกป้องคุณ">
