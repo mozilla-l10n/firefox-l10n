@@ -70,6 +70,15 @@
 
 <!ENTITY url_bar_default_text2 "खोजें या पता दर्ज करें">
 
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "खोज या पता दर्ज करने के लिए अपने QR रीडर का इस्तेमाल करें">
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "खोज या पता दर्ज करने के लिए अपने माइक्रोफोन का इस्तेमाल करें">
+
 <!ENTITY bookmark "पुस्तचिह्न">
 <!ENTITY bookmark_remove "पुस्तचिह्न मिटाएँ">
 <!ENTITY bookmark_added "पुस्तचिह्न जोड़ा गया">
