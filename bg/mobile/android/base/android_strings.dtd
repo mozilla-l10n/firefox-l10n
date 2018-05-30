@@ -70,6 +70,15 @@
 
 <!ENTITY url_bar_default_text2 "Търсене или въвеждане на адрес">
 
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "Използване на четеца на QR за търсене и въвеждане">
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "Използване на микрофона за търсене и въвеждане">
+
 <!ENTITY bookmark "Отметка">
 <!ENTITY bookmark_remove "Премахване на отметка">
 <!ENTITY bookmark_added "Отметката е добавена">
