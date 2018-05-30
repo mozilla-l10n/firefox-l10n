@@ -40,7 +40,7 @@
 <!ENTITY  newMessageCmd.key "M">
 <!ENTITY  newMessageCmd.label "Писмо">
 <!ENTITY  newMessageCmd.accesskey "п">
-<!ENTITY  newContactCmd.label "Контакт в адресника…">
+<!ENTITY  newContactCmd.label "Контакт от адресника…">
 <!ENTITY  newContactCmd.accesskey "к">
 <!ENTITY openMessageFileCmd.label "Отваряне на запазено писмо…">
 <!ENTITY openMessageFileCmd.accesskey "О">
