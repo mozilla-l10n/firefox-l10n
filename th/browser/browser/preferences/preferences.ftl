@@ -223,7 +223,7 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = ไฟล์และแอปพลิเคชัน
-download-header = ดาวน์โหลด
+download-header = การดาวน์โหลด
 download-save-to =
     .label = บันทึกไฟล์ไปยัง
     .accesskey = ฟ
