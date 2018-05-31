@@ -35,6 +35,8 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "Mdel accaren-nniḍen">
 <!ENTITY  closeOtherTabs.accesskey           "M">
 
+<!ENTITY  closeSelectedTabs.label            "Mdel iccaren-agi yettwafernen">
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -247,6 +249,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Asebter agejdan">
+
 
 <!ENTITY bookmarksButton.label          "Ticraḍ n yisebtar">
 <!ENTITY bookmarksCmd.commandkey "b">
@@ -789,6 +792,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.removeCertException.accesskey "K">
 
 <!ENTITY identity.moreInfoLinkText2 "Ugar n telɣut">
+
 
 <!ENTITY identity.permissions "Tisirag">
 <!ENTITY identity.permissionsEmpty "Ur tefkiḍ ara kra n tsiregt i usmel-a.">
