@@ -6,7 +6,9 @@ sync-disconnect-dialog =
     .title = Ffeɣ{ -sync-brand-short-name }
     .style = width: 36em; min-height: 35em;
 sync-disconnect-remove-sync-caption = Kkes{ -sync-brand-name } Isefka
+sync-disconnect-remove-sync-data = Ticraḍ n yisebtar, amazray, awalen uffiren, atg.
 sync-disconnect-remove-other-caption = Kkes Isefka-nniḍen usligen
+sync-disconnect-remove-other-data = Inagan n tuqqna, isefka n usmel adigan, atg.
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = Tufɣa...
 sync-disconnect-cancel =
@@ -18,3 +20,9 @@ sync-disconnect-cancel =
 ## The 2 labels which may be shown on the single "Disconnect" button, depending
 ## on the state of the checkboxes.
 
+sync-disconnect-confirm-disconnect-delete =
+    .label = Ffeɣ & Kkes
+    .accesskey = F
+sync-disconnect-confirm-disconnect =
+    .label = Ffeɣ kan
+    .accesskey = k
