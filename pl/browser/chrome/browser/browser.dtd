@@ -638,6 +638,7 @@
 <!ENTITY identity.removeCertException.accesskey "U">
 
 <!ENTITY identity.moreInfoLinkText2 "Więcej informacji…">
+<!ENTITY identity.clearSiteData "Wyczyść ciasteczka i dane stron">
 <!ENTITY identity.permissions "Uprawnienia">
 <!ENTITY identity.permissionsEmpty "Strona korzysta z domyślnych uprawnień.">
 <!ENTITY identity.permissionsReloadHint "Ponowne wczytanie strony może być konieczne, aby wprowadzone zmiany przyniosły skutek.">
