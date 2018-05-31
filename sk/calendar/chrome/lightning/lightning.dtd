@@ -42,6 +42,7 @@
      These strings are used in the calendar wizard and the calendar properties dialog, but are only
      displayed when setting/using a caldav calendar -->
 <!ENTITY lightning.calendarproperties.email.label                           "E-mail:">
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.label            "Uprednostniť plánovanie e-mailov na strane klienta">
 <!-- LOCALIZATON NOTE(lightning.calendarproperties.forceEmailScheduling.tooltiptext1,
      lightning.calendarproperties.forceEmailScheduling.tooltiptext2)
      - tooltiptext1 is used in the calendar wizard when setting a new caldav calendar
@@ -82,7 +83,8 @@
 
 <!ENTITY lightning.imipbar.btnSend.label                                    "Odoslať odpoveď">
 <!ENTITY lightning.imipbar.btnSend.tooltiptext                              "Odošle odpoveď organizátorovi">
-<!ENTITY lightning.imipbar.btnDontSend.label                                "Neodosielať odpoveď">
+<!ENTITY lightning.imipbar.btnDontSend.label                                "Neodoslať odpoveď">
+<!ENTITY lightning.imipbar.btnDontSend.tooltiptext                          "Zmení stav vašej účasti bez odoslania odpovede organizátorovi">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">

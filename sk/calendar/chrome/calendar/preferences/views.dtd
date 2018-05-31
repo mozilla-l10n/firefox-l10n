@@ -37,4 +37,5 @@
 <!ENTITY pref.numberofweeks.4 "4 týždne">
 <!ENTITY pref.numberofweeks.5 "5 týždňov">
 <!ENTITY pref.numberofweeks.6 "6 týždňov">
-
+<!ENTITY pref.showlocation.label "Zobraziť polohu">
+<!ENTITY pref.showlocation.accesskey "l">
