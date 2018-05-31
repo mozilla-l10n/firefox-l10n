@@ -1,0 +1,10 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY restartRequired.title "راه‌اندازی مجدد لازم است">
+
+<!ENTITY restartRequired.header "متاسفیم. فقط باید یک کار کوچک بکنیم تا بتوانیم ادامه بدهیم.">
+<!ENTITY restartRequired.description "<p>ما یک بروزرسانی در پس‌زمینه نصب کردیم. بر روی راه‌اندازی مجدد &brandShortName; کلیک کنید تا تنظیم آن تمام شود.</p><p>ما تمام صفحه‌های شما، پنجره‌ها و تب‌ها را دوباره باز خواهیم کرد، تا شما به راحتی به کار خود ادامه دهید.</p>">
+
+<!ENTITY restartButton.label "راه‌اندازی مجدد &brandShortName;">
