@@ -417,4 +417,12 @@
 <!ENTITY summary.dialog.saveclose.label         "Uložiť a zavrieť">
 <!ENTITY summary.dialog.saveclose.tooltiptext   "Uloží zmeny a zavrie okno bez zmeny vašej účasti či odoslania odpovedí">
 <!ENTITY summary.dialog.accept.label            "Prijať">
+<!ENTITY summary.dialog.accept.tooltiptext      "Prijme pozvanie">
 <!ENTITY summary.dialog.tentative.label         "Predbežne prijať">
+<!ENTITY summary.dialog.tentative.tooltiptext   "Predbežne prijme pozvanie">
+<!ENTITY summary.dialog.decline.label           "Odmietnuť">
+<!ENTITY summary.dialog.decline.tooltiptext     "Odmietne pozvanie">
+<!ENTITY summary.dialog.dontsend.label          "Neodoslať odpoveď">
+<!ENTITY summary.dialog.dontsend.tooltiptext    "Zmení stav vašej účasti a zavrie okno bez odoslania odpovede organizátorovi">
+<!ENTITY summary.dialog.send.label              "Odoslať odpoveď">
+<!ENTITY summary.dialog.send.tooltiptext        "Pošle odpoveď organizátorovi a zavrie okno">
