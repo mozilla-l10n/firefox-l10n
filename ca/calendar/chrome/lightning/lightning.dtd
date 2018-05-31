@@ -84,6 +84,8 @@
 <!ENTITY lightning.imipbar.description                                      "Aquest missatge conté una invitació a una cita.">
 
 <!ENTITY lightning.imipbar.btnSend.label                                    "Envia una resposta ara">
+<!ENTITY lightning.imipbar.btnSend.tooltiptext                              "Envia una resposta a l'organitzador">
+<!ENTITY lightning.imipbar.btnSendSeries.tooltiptext                        "Envia una resposta a l'organitzador per a tota la sèrie">
 <!ENTITY lightning.imipbar.btnDontSend.label                                "No enviïs cap resposta">
 
 <!-- Lightning specific keybindings -->
