@@ -70,6 +70,15 @@
 
 <!ENTITY url_bar_default_text2 "Cari atau masukkan alamat">
 
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "Gunakan Pembaca QR untuk mencari atau memasukkan alamat">
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "Gunakan mikrofon untuk mencari atau memasukkan alamat">
+
 <!ENTITY bookmark "Markah">
 <!ENTITY bookmark_remove "Hapus markah">
 <!ENTITY bookmark_added "Markah ditambahkan">
@@ -207,6 +216,7 @@
 <!ENTITY pref_category_advanced_summary3 "Pulihkan tab, penghemat data, alat pengembang">
 <!ENTITY pref_category_notifications "Notifikasi">
 <!ENTITY pref_category_notifications_summary "Fitur baru, pembaruan situs web">
+<!ENTITY pref_category_notifications_summary2 "Fitur baru, kiat produk">
 <!ENTITY pref_developer_remotedebugging_usb "Pendebugan daring via USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Pendebugan daring via Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Pendebugan Wi-Fi mewajibkan pada peranti Anda telah terpasang aplikasi pembaca kode QR.">
@@ -543,7 +553,7 @@
 <!ENTITY pref_compact_tabs_summary2 "Atur tab menjadi dua kolom dalam mode tegak">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
-     any page is removed frome about:home. This includes pages that are in history,
+     any page is removed from about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Laman dihapus">
 <!ENTITY folder_removed "Folder dihapus">
@@ -758,7 +768,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Terakhir disinkronkan: &formatS;">
-<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!-- Localization note: Used when the sync has not happened yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Terakhir disinkronkan: tidak pernah">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
