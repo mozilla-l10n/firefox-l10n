@@ -70,6 +70,15 @@
 
 <!ENTITY url_bar_default_text2 "Bilatu edo idatzi helbidea">
 
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "Erabili zure QR irakurgailua bilatzeko edo idatzi helbidea">
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "Erabili zure mikrofonoa bilatzeko edo idatzi helbidea">
+
 <!ENTITY bookmark "Laster-marka">
 <!ENTITY bookmark_remove "Kendu laster-marka">
 <!ENTITY bookmark_added "Laster-marka gehituta">
@@ -207,6 +216,7 @@
 <!ENTITY pref_category_advanced_summary3 "Berreskuratu fitxak, datuak gordetzekoa, garatzaile-tresnak">
 <!ENTITY pref_category_notifications "Jakinarazpenak">
 <!ENTITY pref_category_notifications_summary "Eginbide berriak, webguneen eguneraketak">
+<!ENTITY pref_category_notifications_summary2 "Eginbide berriak, produktuari buruzko aholkuak">
 <!ENTITY pref_developer_remotedebugging_usb "USB bidezko urruneko arazketa">
 <!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi bidezko urruneko arazketa">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi bidezko arazketak zure gailuak QR kodeen irakugailua instalatuta izatea behar du.">
