@@ -25,6 +25,7 @@
     removed/renamed later on -->
 
 
+<!ENTITY buttons.create.label "Crea un calendari">
 
 <!ENTITY buttons.find.label "Cerca un calendari">
 <!ENTITY buttons.find.accesskey "C">
@@ -36,4 +37,5 @@
 <!ENTITY calendartype.label "Tipus de calendari:">
 <!ENTITY location.label "Ubicació:">
 
+<!ENTITY network.nocredentials.label "Aquesta ubicació no requereix credencials">
 
