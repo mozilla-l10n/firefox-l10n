@@ -47,4 +47,5 @@
 <!ENTITY network.notfound.description "V tomto umiestnení sa nepodarilo nájsť žiadne kalendáre. Prosím, skontrolujte svoje nastavenia.">
 <!ENTITY network.authfail.description "Zadané prihlasovacie údaje neboli prijaté. Prosím, skontrolujte svoje nastavenia.">
 
-<!ENTITY network.subscribe.single.description "Zvoľte kalendáre, ktoré si prajete odoberať.">
+<!ENTITY network.subscribe.single.description "Vyberte kalendáre, ktoré chcete pridať.">
+<!ENTITY network.subscribe.multiple.description "V tomto umiestnení sa nachádza viacero typov kalendárov. Prosím, vyberte typ kalendára a potom označte tie, ktoré chcete pridať.">

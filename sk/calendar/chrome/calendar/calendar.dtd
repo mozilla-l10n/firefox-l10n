@@ -178,12 +178,10 @@
 <!ENTITY calendar.context.attendance.menu.label                 "Účasť">
 <!ENTITY calendar.context.attendance.menu.accesskey             "a">
 <!ENTITY calendar.context.attendance.occurrence.label           "Tento termín">
-<!ENTITY calendar.context.attendance.all.label        "Všetky ďalšie termíny" >
-
 
 <!ENTITY calendar.context.attendance.occ.accepted.label         "Prijaté">
 <!ENTITY calendar.context.attendance.occ.tentative.accesskey    "i">
-<!ENTITY calendar.context.attendance.occ.declined.label         "Zamietnuté">
+<!ENTITY calendar.context.attendance.occ.declined.label         "Odmietnuté">
 <!ENTITY calendar.context.attendance.occ.delegated.accesskey    "m">
 
 <!ENTITY calendar.context.attendance.all.completed.label        "Dokončené">
