@@ -178,15 +178,29 @@
 <!ENTITY calendar.context.attendance.menu.label                 "Assistència">
 <!ENTITY calendar.context.attendance.menu.accesskey             "A">
 <!ENTITY calendar.context.attendance.occurrence.label           "Aquesta ocurrència">
+<!ENTITY calendar.context.attendance.send.label                 "Envia una notificació ara">
+<!ENTITY calendar.context.attendance.dontsend.label             "No enviïs cap notificació">
 
+<!ENTITY calendar.context.attendance.occ.accepted.label         "Acceptada">
+<!ENTITY calendar.context.attendance.occ.tentative.label        "Acceptada provisionalment">
+<!ENTITY calendar.context.attendance.occ.declined.accesskey     "c">
+<!ENTITY calendar.context.attendance.occ.declined.label         "Declinada">
+<!ENTITY calendar.context.attendance.occ.delegated.label        "Delegada">
 <!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "E">
 <!ENTITY calendar.context.attendance.occ.needsaction.label      "Encara necessita una acció">
 <!ENTITY calendar.context.attendance.occ.inprogress.label       "En curs">
+<!ENTITY calendar.context.attendance.occ.completed.label        "Acabada">
 
+<!ENTITY calendar.context.attendance.all.accepted.label         "Acceptada">
+<!ENTITY calendar.context.attendance.all.tentative.label        "Acceptada provisionalment">
+<!ENTITY calendar.context.attendance.all.declined.accesskey     "d">
+<!ENTITY calendar.context.attendance.all.declined.label         "Declinada">
+<!ENTITY calendar.context.attendance.all.delegated.label        "Delegada">
 <!ENTITY calendar.context.attendance.all.needsaction.accesskey  "n">
 <!ENTITY calendar.context.attendance.all.needsaction.label      "Encara necessita una acció">
 <!ENTITY calendar.context.attendance.all.inprogress.accesskey   "c">
 <!ENTITY calendar.context.attendance.all.inprogress.label       "En curs">
+<!ENTITY calendar.context.attendance.all.completed.label        "Acabada">
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Progrés">
