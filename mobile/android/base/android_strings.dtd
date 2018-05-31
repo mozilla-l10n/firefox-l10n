@@ -70,6 +70,15 @@
 
 <!ENTITY url_bar_default_text2 "ಹುಡುಕಿ ಅಥವಾ ವಿಳಾಸವನ್ನು ನಮೂದಿಸಿ">
 
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "ವಿಳಾಸ ಹುಡುಕಲು ಅಥವಾ ಸೇರಿಸಲು ನಿಮ್ಮ ‍QR ಓದುಗ ಬಳಸಿ">
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "‍‍‍‍‍‍‍‍‍‍‍‍‍‍ವಿಳಾಸ ಹುಡುಕಲು ಅಥವಾ ಸೇರಿಸಲು ನಿಮ್ಮ ಮೈಕ್ರೋಫೋನ್ ಬಳಸಿ">
+
 <!ENTITY bookmark "ಪುಟ ಗುರುತು">
 <!ENTITY bookmark_remove "ಪುಟ ಗುರುತು ತೆಗೆ">
 <!ENTITY bookmark_added "ಬುಕ್ ಮಾರ್ಕ್ ಸೇರಿಸಲಾಗಿದೆ">
@@ -207,6 +216,7 @@
 <!ENTITY pref_category_advanced_summary3 "ಟ್ಯಾಬ್‌ಗಳನ್ನು, ದತ್ತಾಂಶ ಉಳಿಕೆ, ಡೆವೆಲಪರ್ ಸಲಕರಣೆಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸಿ">
 <!ENTITY pref_category_notifications "ಸೂಚನೆಗಳು">
 <!ENTITY pref_category_notifications_summary "ಹೊಸ ವೈಶಿಷ್ಟ್ಯತೆಗಳು, ಜಾಲತಾಣ ಪರಿಷ್ಕರಣೆಗಳು">
+<!ENTITY pref_category_notifications_summary2 "‍‍ಹೊಸ ಸವಲತ್ತುಗಳು, ಉತ್ಪನ್ನ ಸಲಹೆಗಳು">
 <!ENTITY pref_developer_remotedebugging_usb "ರಿಮೋಟ್ ಡೀಬಗ್ಗಿಂಗ್ USB ಮೂಲಕ">
 <!ENTITY pref_developer_remotedebugging_wifi "ರಿಮೋಟ್ ಡೀಬಗ್ಗಿಂಗ್ Wi-Fi ಮೂಲಕ">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "ವೈ-ಫೈ ಡೀಬಗಿಂಗ್‌ಗೆ ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ ‌QR ಕೋಡ್ ರೀಡರ್ ಅಪ್ ಸ್ಥಾಪಿತಗೊಂಡಿರಬೇಕು.">
@@ -281,6 +291,13 @@
 
 <!ENTITY pref_whats_new_notification "&brandShortName; ನಲ್ಲಿ ಹೊಸತೇನಿದೆ">
 <!ENTITY pref_whats_new_notification_summary "ಪರಿಷ್ಕರಣೆಯ ನಂತರ ಹೊಸ ವೈಶಿಷ್ಟ್ಯತೆಗಳ ಬಗ್ಗೆ ತಿಳಿಯಿರಿ">
+
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!ENTITY pref_feature_tips_notification "‍ಉತ್ಪನ್ನ ಮತ್ತು ಸವಲತ್ತು ಸೂಚನೆಗಳು">
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+<!ENTITY pref_feature_tips_notification_summary "‍‍&brandShortName; ಮತ್ತು ಇತರೆ &vendorShortName; ಉತ್ಪನ್ನಗಳನ್ನು ಬಳಸುವ ಬಗ್ಗೆ ತಿಳಿಯಿರಿ">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
@@ -422,7 +439,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; ಆರೋಗ್ಯ ವರದಿ">
 <!ENTITY datareporting_fhr_summary2 "ನಿಮ್ಮ ಬ್ರೌಸರಿನ ಸ್ಥಿತಿ ಮತ್ತು ನಿರ್ವಹಣೆಯನ್ನು ತಿಳಿಯಲು &vendorShortName; ದೊಂದಿಗೆ ಮಾಹಿತಿಯನ್ನು ಹಂಚಿಕೊಳ್ಳುವುದು">
-<!ENTITY datareporting_abouthr_title "ನನ್ನ ಆರೋಗ್ಯ ವರದಿ ನೋಡು">
 <!ENTITY datareporting_telemetry_title "ಟೆಲಿಮೆಟ್ರಿ">
 <!ENTITY datareporting_telemetry_summary "&brandShortName; ಅನ್ನು ಉತ್ತಮಗೊಳಿಸಲು ನಿಮ್ಮ ಬ್ರೌಸರ್ ಕಾರ್ಯನಿರ್ವಹಣೆ, ಬಳಕೆ, ಯಂತ್ರಾಂಶ ಮತ್ತು ದತ್ತಾಂಶ ಅಗತ್ಯಾನುಗುಣಗೊಳಿಕೆಯ ಕುರಿತಾದ ಮಾಹಿತಿಯನ್ನು &vendorShortName; ನೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳುತ್ತದೆ">
 <!ENTITY datareporting_crashreporter_summary "ನಿಮ್ಮ ಜಾಲವೀಕ್ಷಕವನ್ನು ಹೆಚ್ಚು ಸ್ಥಿರ ಮತ್ತು ಸುರಕ್ಷಿತವಾಗಿಸಲು &brandShortName; ಕುಸಿತ ವರದಿಗಳನ್ನು &vendorShortName; ಗೆ ಕಳುಹಿಸುತ್ತದೆ">
@@ -537,7 +553,7 @@
 <!ENTITY pref_compact_tabs_summary2 "‍ಪೋಟ್ರೈಟ್ ಸ್ಥಿತಿಯಲ್ಲಿ ಟ್ಯಾಬ್‌ಗಳನ್ನು ಎರಡು ಲಂಬಸಾಲುಗಳಲ್ಲಿ ಜೋಡಿಸು">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
-     any page is removed frome about:home. This includes pages that are in history,
+     any page is removed from about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "ಪುಟವನ್ನು ತೆಗೆಯಲಾಗಿದೆ">
 <!ENTITY folder_removed "ಕಡತಕೋಶದ ಹೆಸರು">
@@ -752,7 +768,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "ಕಡೆಗೆ ಸಿಂಕ್ ಆದದ್ದು: &formatS;">
-<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!-- Localization note: Used when the sync has not happened yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "ಕೊನೆಗೆ ಸಿಂಕ್‌ಆದದ್ದು: ಎಂದಿಗೂ ಇಲ್ಲ">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
