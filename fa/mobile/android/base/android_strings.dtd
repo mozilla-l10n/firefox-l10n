@@ -70,6 +70,15 @@
 
 <!ENTITY url_bar_default_text2 "جستجو کنید یا آدرسی را وارد کنید">
 
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "استفاده از QRخوان برای جست‌وجو و ورود آدرس">
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "استفاده از میکروفن برای سرچ یا ورود آدرس">
+
 <!ENTITY bookmark "نشانک">
 <!ENTITY bookmark_remove "حذف نشانک">
 <!ENTITY bookmark_added "نشانک اضافه شد">
@@ -207,6 +216,7 @@
 <!ENTITY pref_category_advanced_summary3 "بازآوری زبانه‌ها، ذخیره‌کننده اطلاعات، ابزارهای توسعه">
 <!ENTITY pref_category_notifications "اعلان‌ها">
 <!ENTITY pref_category_notifications_summary "امکانات جدید، بروزرسانی‌های وب‌سایت">
+<!ENTITY pref_category_notifications_summary2 "امکانات جدید، نکاتِ محصول">
 <!ENTITY pref_developer_remotedebugging_usb "رفع اشکال از راه دور به واسطه‌ی USB">
 <!ENTITY pref_developer_remotedebugging_wifi "رفع اشکال از راه دور به وسیله Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "رفع اشکال زدایی توسط Wi-Fi نیازمند نصب برنامه ‌تشخیص کد QR بر روی دستگاه شما می باشد.">
@@ -281,6 +291,13 @@
 
 <!ENTITY pref_whats_new_notification "امکانات جدید در &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "از امکانات جدید پس از هر بروزرسانی اطلاع پیدا کنید">
+
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!ENTITY pref_feature_tips_notification "نکاتِ محصول و امکانات">
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+<!ENTITY pref_feature_tips_notification_summary "در مورد استفاده از &brandShortName; و سایر محصولات &vendorShortName; بیشتر بدانید">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
@@ -422,7 +439,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "گزارش سلامت &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "اطلاعات مربوط به سلامت مرورگر را با &vendorShortName; به‌اشتراک می‌گذارد و به شما کمک می‌کند عملکرد مرورگر خود را متوجه شوید">
-<!ENTITY datareporting_abouthr_title "گزارش سلامت مرا نشان بده">
 <!ENTITY datareporting_telemetry_title "دور سنجی">
 <!ENTITY datareporting_telemetry_summary "اطلاعات عملکرد، کاربری، سخت‌افزار و سفارشی‌سازی مرورگر شما را با &vendorShortName; به‌اشتراک می‌گذارد تا به ما کمک کند &brandShortName; را بهتر کنیم">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; گزارشهای فروپاشی را ثبت می‌کند تا به &vendorShortName; که مرورگر شما را پایدارتر و ایمن‌تر کند">
@@ -537,7 +553,7 @@
 <!ENTITY pref_compact_tabs_summary2 "مرتب کردن زبانه‌ها در دو ستون در حالت پرتره‌ای">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
-     any page is removed frome about:home. This includes pages that are in history,
+     any page is removed from about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "صفحه حذف شده">
 <!ENTITY folder_removed "پوشه حذف شد">
@@ -752,7 +768,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "آخرین همگام سازی: &formatS;">
-<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!-- Localization note: Used when the sync has not happened yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "آخرین همگام سازی: هیچ وقت">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
