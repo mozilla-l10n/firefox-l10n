@@ -5,7 +5,7 @@
 clear-site-data-window =
     .title = Vymazanie údajov
     .style = width: 35em
-clear-site-data-description = Vymazanie všetkých cookies a údajov stránky, ktoré má aplikácia { -brand-short-name } uložené, vás môže odhlásiť z webových stránok a odstrániť offline webový obsah. Vymazanie údajov vo vyrovnávacej pamäti vaše prihlásenia neovplyvní.
+clear-site-data-description = Vymazanie všetkých cookies a údajov stránok, ktoré má aplikácia { -brand-short-name } uložené, vás môže odhlásiť z webových stránok a odstrániť offline webový obsah. Vymazanie údajov vo vyrovnávacej pamäti vaše prihlásenia neovplyvní.
 clear-site-data-close-key =
     .key = w
 # The parameters in parentheses in this string describe disk usage
@@ -14,7 +14,7 @@ clear-site-data-close-key =
 #   $amount (Number) - Amount of site data currently stored on disk
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
 clear-site-data-cookies-with-data =
-    .label = Cookies a údaje stránky ({ $amount } { $unit })
+    .label = Cookies a údaje stránok ({ $amount } { $unit })
     .accesskey = s
 # This string is a placeholder for while the data used to fill
 # clear-site-data-cookies-with-data is loading. This placeholder is usually
