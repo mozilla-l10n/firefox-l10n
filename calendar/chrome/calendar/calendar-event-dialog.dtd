@@ -215,7 +215,7 @@
 <!ENTITY task.from.accesskey                              "Z">
 <!ENTITY event.to.label                                   "Koniec:" >
 <!ENTITY event.to.accesskey                               "c">
-<!ENTITY task.to.label                                    "Termín:" >
+<!ENTITY task.to.label                                    "Termín splnenia:" >
 <!ENTITY task.to.accesskey                                "T">
 <!ENTITY task.status.label                                "Stav:" >
 <!ENTITY task.status.accesskey                            "S">
