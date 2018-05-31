@@ -567,6 +567,9 @@ history-private-browsing-permanent =
 history-remember-option =
     .label = 표시한 페이지 및 파일 다운로드 기록 저장
     .accesskey = b
+history-remember-browser-option =
+    .label = 표시한 페이지 및 파일 다운로드 기록 저장
+    .accesskey = b
 history-remember-search-option =
     .label = 검색 및 입력 기록 저장
     .accesskey = f
@@ -708,6 +711,9 @@ collection-health-report =
     .label = { -brand-short-name }가 기술과 상호 작용 정보를 { -vendor-short-name }에 전송하도록 허용
     .accesskey = r
 collection-health-report-link = 더 알아보기
+collection-studies =
+    .label = { -brand-short-name }가 연구를 설치하고 실행하도록 허용
+collection-studies-link = { -brand-short-name } 연구 보기
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = 이 빌드 설정에서는 데이타 보고가 비활성화 되어 있음
