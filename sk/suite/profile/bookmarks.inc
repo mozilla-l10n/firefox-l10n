@@ -32,7 +32,7 @@
 
 # LOCALIZATION NOTE (mozilla_about):
 # link title for http://www.mozilla.org/about/
-#define mozilla_about Čo je Mozilla
+#define mozilla_about O Mozille
 
 #define extend_seamonkey Prispôsobenie SeaMonkey
 
