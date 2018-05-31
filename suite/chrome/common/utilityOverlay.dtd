@@ -6,7 +6,7 @@
 <!ENTITY  offlineGoOfflineCmd.label                 "Pracovať offline">
 <!ENTITY  offlineGoOfflineCmd.accesskey             "f">
 
-<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
 
 <!ENTITY fileMenu.label                   "Súbor">
 <!ENTITY fileMenu.accesskey               "S">
@@ -66,9 +66,9 @@
 <!ENTITY clearHistoryCmd.accesskey			"h"> 
 <!ENTITY showSuggestionsCmd.label			"Zobrazovať návrhy">  
 <!ENTITY showSuggestionsCmd.accesskey		"n"> 
-<!ENTITY preferencesCmd.label "Možnosti…">
-<!ENTITY preferencesCmd.key					"E">
-<!ENTITY preferencesCmd.accesskey "M">
+<!ENTITY preferencesCmd.label				"Možnosti…">
+<!ENTITY preferencesCmd.key					"E">  
+<!ENTITY preferencesCmd.accesskey			"M"> 
 <!ENTITY findBarCmd.key "F">
 <!-- LOCALIZATION NOTE (findBarCmd.accesskey): This accesskey should be within
      findBarCmd.label found in editorOverlay.dtd, findCmd.label in messenger.dtd
@@ -88,15 +88,15 @@
 <!ENTITY findTypeLinksCmd.label "Hľadať odkazy počas písania textu">
 <!ENTITY findTypeLinksCmd.accesskey "t">
 
-<!ENTITY viewMenu.label "Zobraziť">
-<!ENTITY viewMenu.accesskey "Z">
-<!ENTITY viewToolbarsMenu.label "Panely s nástrojmi">
-<!ENTITY viewToolbarsMenu.accesskey "P">
-<!ENTITY showTaskbarCmd.label "Stavový riadok">
-<!ENTITY showTaskbarCmd.accesskey "S">
+<!ENTITY viewMenu.label					"Zobraziť"> 
+<!ENTITY viewMenu.accesskey               "Z">
+<!ENTITY viewToolbarsMenu.label				"Panely s nástrojmi"> 
+<!ENTITY viewToolbarsMenu.accesskey			"P"> 
+<!ENTITY showTaskbarCmd.label					"Stavový riadok">  
+<!ENTITY showTaskbarCmd.accesskey				"S"> 
 
-<!ENTITY helpMenu.label					"Pomocník">
-<!ENTITY helpMenu.accesskey			"P">
+<!ENTITY helpMenu.label					"Pomocník"> 
+<!ENTITY helpMenu.accesskey				"P"> 
 
 <!ENTITY helpTroubleshootingInfo.label      "Informácie pre riešenie problémov">
 <!ENTITY helpTroubleshootingInfo.accesskey  "n">
@@ -106,24 +106,24 @@
 <!ENTITY helpSafeMode.accesskey             "R">
 <!ENTITY updateCmd.label                    "Kontrola aktualizácií…">
 <!ENTITY updateCmd.accesskey                "a">
-<!ENTITY aboutCmd.label					"O programe &brandShortName;">
+<!ENTITY aboutCmd.label					"O aplikácii &brandShortName;">
 <!ENTITY aboutCmd.accesskey				"m">
 <!ENTITY aboutCommPluginsCmd.label			"O zásuvných moduloch">
 <!ENTITY aboutCommPluginsCmd.accesskey			"z">
 
-<!ENTITY direct.label                             "Online (proxy: žiadne)">
-<!ENTITY direct.accesskey                         "n">
-<!ENTITY manual.label                             "Online (proxy: ručné)">
-<!ENTITY manual.accesskey                         "r">
-<!ENTITY pac.label                                "Online (proxy: automatické)">
-<!ENTITY pac.accesskey                            "a">
-<!ENTITY wpad.label                               "Režim online (Proxy: automatické)">
-<!ENTITY wpad.accesskey                           "u">
-<!ENTITY system.label                             "Režim online (Proxy: systémové)">
-<!ENTITY system.accesskey                         "s">
+<!ENTITY direct.label                                   "Online (proxy: žiadne)">
+<!ENTITY direct.accesskey                               "n">
+<!ENTITY manual.label                                   "Online (proxy: ručné)">
+<!ENTITY manual.accesskey                               "r">
+<!ENTITY pac.label                                      "Online (proxy: automatické)">
+<!ENTITY pac.accesskey                                  "a">
+<!ENTITY wpad.label                                     "Režim online (Proxy: automatické)">
+<!ENTITY wpad.accesskey                                 "u">
+<!ENTITY system.label                                   "Režim online (Proxy: systémové)">
+<!ENTITY system.accesskey                               "s">
 
-<!ENTITY proxy.label                              "Nastavenie proxy…">
-<!ENTITY proxy.accesskey                          "N">
+<!ENTITY proxy.label                                    "Nastavenie proxy…">
+<!ENTITY proxy.accesskey                                "N">
 
 <!ENTITY bidiSwitchTextDirectionItem.label        "Prepnúť smer textu">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "r">
