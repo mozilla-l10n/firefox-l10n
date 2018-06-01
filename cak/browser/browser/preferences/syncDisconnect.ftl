@@ -14,10 +14,16 @@ sync-disconnect-remove-other-data = Taq kaxlanwäy, jumejyak, chupül okem pa ri
 sync-disconnect-disconnecting = Nichup...
 sync-disconnect-cancel =
     .label = Tiq'at
-    .accesskey = T
+    .accesskey = q
 
 ## Disconnect confirm Button
 ##
 ## The 2 labels which may be shown on the single "Disconnect" button, depending
 ## on the state of the checkboxes.
 
+sync-disconnect-confirm-disconnect-delete =
+    .label = Tichup & Tiyuj
+    .accesskey = y
+sync-disconnect-confirm-disconnect =
+    .label = Xa xe Tichup
+    .accesskey = h
