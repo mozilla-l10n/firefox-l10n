@@ -629,10 +629,10 @@
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; อุปกรณ์ที่ถูกซ่อน">
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; อุปกรณ์ที่ซ่อนอยู่">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
-<!ENTITY home_remote_tabs_hidden_devices_title "อุปกรณ์ที่ถูกซ่อน">
+<!ENTITY home_remote_tabs_hidden_devices_title "อุปกรณ์ที่ซ่อนอยู่">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "เลิกซ่อนอุปกรณ์ที่เลือก">
