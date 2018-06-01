@@ -12,7 +12,7 @@
 <!ENTITY cmd.open.accesskey              "B">
 <!ENTITY cmd.show.label                  "Buka Kandungan Folder">
 <!ENTITY cmd.show.accesskey              "F">
-<!ENTITY cmd.goToDownloadPage.label      "Pergi Ke Halaman Muat turun">
+<!ENTITY cmd.goToDownloadPage.label      "Pergi ke Halaman Muat Turun">
 <!ENTITY cmd.goToDownloadPage.accesskey  "P">
 <!ENTITY cmd.copyDownloadLink.label      "Salin Pautan Muat Turun">
 <!ENTITY cmd.copyDownloadLink.accesskey  "M">
