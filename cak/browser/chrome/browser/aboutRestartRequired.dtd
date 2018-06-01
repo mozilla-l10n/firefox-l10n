@@ -5,4 +5,9 @@
 <!ENTITY restartRequired.title "K'o chi Nitikirisäx">
 
 <!ENTITY restartRequired.header "Takuyu'. Xa xe k'o chi niqab'än jun ko'öl wachinäq richin yojsamäj chik el.">
+<!ENTITY restartRequired.description "
+<p>K'a b'a' tiqayäk jun k'exoj pa ruka'n b'ey. Tapitz'a' pa Titikirisäx chik &brandShortName; richin nik'is rusamajixik.</p>
+<p>Xkeqatzolij konojel ri taq ruxaq, taq tzuwäch chuqa' taq ruwi', richin chanin yasamäj chik qa.</p>
+">
 
+<!ENTITY restartButton.label "Titikirisäx chik &brandShortName;">
