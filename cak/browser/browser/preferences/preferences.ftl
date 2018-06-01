@@ -579,6 +579,9 @@ history-private-browsing-permanent =
 history-remember-option =
     .label = Tinatäx ri nunatab'al richin taq qasanïk chuqa' okik'amaya'l
     .accesskey = T
+history-remember-browser-option =
+    .label = Tinatäx ri runatab'al okem pa k'amaya'l chuqa' ri qasanïk
+    .accesskey = k
 history-remember-search-option =
     .label = Tinatäx ri runatab'al kanob'äl chuqa' taq nojwuj
     .accesskey = n
@@ -720,6 +723,9 @@ collection-health-report =
     .label = Tiya' q'ij chi re { -brand-short-name } richin nitaq etamatel taq tzij chuqa' jutzijonem chi re ri { -vendor-short-name }
     .accesskey = r
 collection-health-report-link = Tetamäx ch'aqa' chik
+collection-studies =
+    .label = Tiya' q'ij chi re ri { -brand-short-name } niyakon chuqa' nusamajij tijonïk
+collection-studies-link = Ketz'et taq rutijonik { -brand-short-name }
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Chupül ri kitzijol taq tzij richin nib'an kinuk'ulem re taq alk'walaxinem re'
