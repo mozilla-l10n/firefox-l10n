@@ -62,6 +62,8 @@
 <!ENTITY Home.accesskey                 "e">
 <!ENTITY HomeAddress.label              "Adres:">
 <!ENTITY HomeAddress.accesskey          "d">
+<!ENTITY HomeAddress2.label             "">
+<!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "İlçe:">
 <!ENTITY HomeCity.accesskey             "e">
 <!ENTITY HomeState.label                "İl:">
@@ -74,9 +76,11 @@
 <!ENTITY HomeWebPage.accesskey          "e">
 <!ENTITY Birthday.label                 "Doğum günü:">
 <!ENTITY Birthday.accesskey             "D">
+<!ENTITY In.label                       "">
 <!ENTITY Year.placeholder               "Yıl">
 <!ENTITY Or.value                       "veya">
 <!ENTITY Age.placeholder                "Yaş">
+<!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "İş">
 <!ENTITY Work.accesskey                 "İ">
@@ -88,6 +92,8 @@
 <!ENTITY Company.accesskey              "r">
 <!ENTITY WorkAddress.label              "Adres:">
 <!ENTITY WorkAddress.accesskey          "d">
+<!ENTITY WorkAddress2.label             "">
+<!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label                 "İlçe:">
 <!ENTITY WorkCity.accesskey             "e">
 <!ENTITY WorkState.label                "İl:">
@@ -135,7 +141,6 @@
 
 <!ENTITY Photo.tab                      "Fotoğraf">
 <!ENTITY Photo.accesskey                "o">
-<!ENTITY PhotoDesc.label                "Aşağıdakilerden birini seçin:">
 <!ENTITY GenericPhoto.label             "Varsayılan fotoğraf">
 <!ENTITY GenericPhoto.accesskey         "V">
 <!ENTITY DefaultPhoto.label             "Varsayılan">
