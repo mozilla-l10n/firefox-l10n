@@ -70,6 +70,13 @@
 
 <!ENTITY url_bar_default_text2 "Otsi või sisesta aadress">
 
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+
 <!ENTITY bookmark "Järjehoidja">
 <!ENTITY bookmark_remove "Eemalda järjehoidja">
 <!ENTITY bookmark_added "Järjehoidja lisatud">
@@ -282,6 +289,11 @@
 <!ENTITY pref_whats_new_notification "Mis on uut &brandShortName;is?">
 <!ENTITY pref_whats_new_notification_summary "uuendamisjärgsed teavitused uue funktsionaalsuse kohta">
 
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "Eksperimentaalne funktsionaalsus">
@@ -298,6 +310,7 @@
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "URL kopeeritud">
 
+<!ENTITY pref_pwa "Progressiivsed veebirakendused">
 <!ENTITY pref_pwa_summary "Veebirakenduste lisamine avaekraanile lubatakse">
 
 <!ENTITY tracking_protection_prompt_title "Nüüd jälitamisvastase kaitsega">
@@ -534,7 +547,7 @@
 <!ENTITY pref_compact_tabs_summary2 "Vertikaalasendis paigutatakse kaardid kahte tulpa">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
-     any page is removed frome about:home. This includes pages that are in history,
+     any page is removed from about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Leht eemaldatud">
 <!ENTITY folder_removed "Kaust eemaldati">
@@ -752,7 +765,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Viimati sünkroniseeritud: &formatS;">
-<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!-- Localization note: Used when the sync has not happened yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Viimati sünkroniseeritud: mitte kunagi">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
