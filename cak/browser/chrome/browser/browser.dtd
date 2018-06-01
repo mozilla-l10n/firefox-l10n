@@ -35,6 +35,9 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "Ketz'apïx ri ch'aqa' chik taq ruwi'">
 <!ENTITY  closeOtherTabs.accesskey           "K">
 
+<!ENTITY  closeSelectedTabs.label            "Ketz'apïx Cha'on taq Ruwi'">
+<!ENTITY  closeSelectedTabs.accesskey        "C">
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -249,6 +252,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Tikirib'äl">
 
+<!ENTITY homeButton.defaultPage.tooltip "&brandShortName; Rutikirib'al Ruxaq">
+
 <!ENTITY bookmarksButton.label          "Taq yaketal">
 <!ENTITY bookmarksCmd.commandkey "b">
 
@@ -428,6 +433,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromMenu.accesskey "T">
 <!ENTITY customizeMenu.addMoreItems.label "Titz'aqatisäx apo ch'aqa' chik Samajib'äl…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "T">
+
+<!ENTITY customizeMenu.autoHideDownloadsButton.label "Ruyon-Tewüx pa Molsamajib'äl">
+<!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "R">
+<!ENTITY customizeMenu.manageExtension.label "Tinuk'samajïx K'amal">
+<!ENTITY customizeMenu.manageExtension.accesskey "K">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -788,6 +798,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.removeCertException.accesskey "T">
 
 <!ENTITY identity.moreInfoLinkText2 "Ch'aqa' chik rutzijol">
+
+<!ENTITY identity.clearSiteData "Keyuj ri Kaxlanwäy chuqa' Kitzij Ruxaq K'amaya'l…">
 
 <!ENTITY identity.permissions "Taq ya'oj q'ij">
 <!ENTITY identity.permissionsEmpty "Majun chi ya'oj q'ij ya'on chawe' pa re ruxaq k'amaya'l re'.">
