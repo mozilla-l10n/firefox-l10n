@@ -877,10 +877,18 @@ permissions-notification-link = Meer info
 permissions-notification-pause =
     .label = Notificaties pauzeren totdat { -brand-short-name } wordt herstart
     .accesskey = N
+
+permissions-block-autoplay-media =
+    .label = Automatisch afspelen van media met geluid door websites blokkeren
+    .accesskey = s
+
+permissions-block-autoplay-media-exceptions =
+    .label = Uitzonderingen…
+    .accesskey = U
+
 permissions-block-popups =
     .label = Pop-upvensters blokkeren
     .accesskey = P
-
 
 permissions-block-popups-exceptions =
     .label = Uitzonderingen…
