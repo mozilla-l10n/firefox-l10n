@@ -83,6 +83,13 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = È possibile specificare quali siti web avranno il permesso di installare componenti aggiuntivi. Inserire l’indirizzo esatto del sito web a cui dare il permesso e fare clic su Consenti.
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = Siti web con permesso - Riproduzione automatica
+    .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc = È possibile specificare quali siti web avranno il permesso di riprodurre automaticamente contenuti multimediali. Inserire l’indirizzo esatto del sito web a cui dare il permesso e fare clic su Consenti.
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
