@@ -8,8 +8,10 @@
 <!ENTITY certmgr.tab.others2                  "D'altri">
 <!ENTITY certmgr.tab.websites3                "Servidors">
 <!ENTITY certmgr.tab.ca                       "Entitats">
-<!ENTITY certmgr.tab.orphan2                  "Altres">
 
+<!ENTITY certmgr.mine2                        "Teniu certificats d'aquestes organitzacions que us identifiquen">
+<!ENTITY certmgr.others2                      "Teniu certificats al fitxer que identifiquen aquesta gent">
+<!ENTITY certmgr.cas2                         "Teniu certificats al fitxer que identifiquen aquestes entitats certificadores">
 
 <!ENTITY certmgr.detail.general_tab.title     "General">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
