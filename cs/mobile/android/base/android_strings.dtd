@@ -10,7 +10,7 @@
 <!ENTITY firstrun_privacy_subtext "Anonymní prohlížení s funkcí Ochrana proti sledování blokuje sledující prvky, zatímco prohlížíte web, a nebude si pamatovat vaši historii.">
 <!ENTITY firstrun_panel_title_customize "Přizpůsobení">
 <!ENTITY firstrun_customize_message "Udělejte si aplikaci &brandShortName; podle sebe.">
-<!ENTITY firstrun_customize_subtext "Přizpůsobte si aplikaci &brandShortName; s doplňky. Blokujte reklamy, přidávejte funkce, nebo si vyberte nový motiv, který bude odrazem vaší osobnosti.">
+<!ENTITY firstrun_customize_subtext "Přizpůsobte si aplikaci &brandShortName; s doplňky. Blokujte reklamy, přidávejte funkce, nebo si vyberte nový vzhled, který bude odrazem vaší osobnosti.">
 <!ENTITY firstrun_bookmarks_title "Historie">
 <!ENTITY firstrun_bookmarks_message "Vše, co máte rádi, přímo na očích">
 <!ENTITY firstrun_bookmarks_subtext "Při vyhledávání získáváte výsledky ze záložek a historie.">
@@ -69,6 +69,13 @@
 <!ENTITY  crash_restart_label "Restartovat &brandShortName;">
 
 <!ENTITY url_bar_default_text2 "Hledat nebo vložit adresu">
+
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
 
 <!ENTITY bookmark "Přidat do záložek">
 <!ENTITY bookmark_remove "Odebrat záložku">
@@ -185,12 +192,12 @@
 <!ENTITY pref_category_privacy_short "Soukromí">
 <!ENTITY pref_category_privacy_summary4 "Sledování, přihlašovací údaje, možnosti hlášení">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
-<!ENTITY pref_category_vendor_summary2 "O aplikaci &brandShortName;, často kladené dotazy, zpětná vazba">
+<!ENTITY pref_category_vendor_summary2 "O aplikaci &brandShortName;, časté otázky, zpětná vazba">
 <!ENTITY pref_category_datareporting "Možnosti hlášení">
 <!ENTITY pref_category_logins "Přihlašovací údaje">
 <!ENTITY pref_learn_more "Zjistit více">
 <!ENTITY pref_category_installed_search_engines "Nainstalované vyhledávací moduly">
-<!ENTITY pref_category_add_search_providers "Přidat více poskytovatelů vyhledávání">
+<!ENTITY pref_category_add_search_providers "Přidání dalších vyhledávačů">
 <!ENTITY pref_category_search_restore_defaults "Obnovit vyhledávací moduly">
 <!ENTITY pref_search_restore_defaults "Obnovit výchozí">
 <!ENTITY pref_search_restore_defaults_summary "Obnovit výchozí">
@@ -199,7 +206,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint2 "TIP: Přidejte libovolnou stránku do svého seznamu poskytovatelů vyhledávání dlouhým stiskem a následně klepněte na ikonu &formatI;.">
+<!ENTITY pref_search_hint2 "TIP: Do svého seznamu vyhledávačů můžete přidat libovolnou stránku podržením prstu na jejím vyhledávacím poli a klepnutím na ikonu &formatI;.">
 <!ENTITY pref_category_advanced "Rozšířené">
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
@@ -214,7 +221,7 @@
 <!ENTITY pref_remember_signons2 "Pamatovat si přihlašovací údaje">
 <!ENTITY pref_manage_logins "Správa přihlašovacích údajů">
 
-<!ENTITY pref_category_home "Domů">
+<!ENTITY pref_category_home "Domovská stránka">
 <!ENTITY pref_category_home_summary "Přizpůsobení vaší domovské stránky">
 <!ENTITY pref_category_home_panels "Panely">
 <!ENTITY pref_category_home_add_ons "Doplňky">
@@ -395,7 +402,7 @@
 <!ENTITY pref_default_browser "Nastavit jako výchozí prohlížeč">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Navštivte nápovědu">
 <!ENTITY pref_about_firefox "O aplikaci &brandShortName;">
-<!ENTITY pref_vendor_faqs "FAQ">
+<!ENTITY pref_vendor_faqs "Časté otázky">
 <!ENTITY pref_vendor_feedback "Zpětná vazba">
 
 <!ENTITY pref_dialog_set_default "Nastavit jako výchozí">
@@ -533,7 +540,7 @@
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "Prohlížení přes celou obrazovku">
-<!ENTITY pref_scroll_title_bar_summary2 "Při skrolování dolů skrýt lištu prohlížeče &brandShortName;">
+<!ENTITY pref_scroll_title_bar_summary2 "Při posouvání dolů skrýt lištu prohlížeče &brandShortName;">
 
 <!ENTITY pref_tab_queue_title3 "Fronta panelů">
 <!ENTITY pref_tab_queue_summary4 "Uložte si odkazy do příštího otevření aplikace &brandShortName;">
@@ -541,7 +548,7 @@
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
 <!ENTITY pref_compact_tabs "Kompaktní panely">
-<!ENTITY pref_compact_tabs_summary2 "Uspořádat panely do dvou sloupců při zobrazení na výšku">
+<!ENTITY pref_compact_tabs_summary2 "Při zobrazení na výšku uspořádat panely do dvou sloupců">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed from about:home. This includes pages that are in history,

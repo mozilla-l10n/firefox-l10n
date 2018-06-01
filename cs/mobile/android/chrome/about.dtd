@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "O aplikaci &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; je experimentální verze a může být nestabilní.">
-<!ENTITY aboutPage.telemetryStart               " Automaticky odesílá data o výkonu, hardware, používání a přizpůsobení, která slouží vývojářům z organizace ">
-<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 " k vylepšení aplikace &brandShortName;.">
 <!ENTITY aboutPage.checkForUpdates.link         "Zkontrolovat aktualizace »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Vyhledávání aktualizací…">
 <!ENTITY aboutPage.checkForUpdates.none         "Aktualizace nejsou dostupné">
@@ -14,7 +11,7 @@
 <!ENTITY aboutPage.checkForUpdates.downloaded2  "Instalace aktualizace">
 <!ENTITY aboutPage.faq.label                    "Časté otázky">
 <!ENTITY aboutPage.support.label                "Podpora">
-<!ENTITY aboutPage.privacyPolicy.label          "Ochrana soukromí">
+<!ENTITY aboutPage.privacyPolicy.label          "Zásady ochrany osobních údajů">
 <!ENTITY aboutPage.rights.label                 "Poznejte svá práva">
 <!ENTITY aboutPage.relNotes.label               "Poznámky k vydání">
 <!ENTITY aboutPage.credits.label                "Autoři">
