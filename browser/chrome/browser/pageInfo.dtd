@@ -46,22 +46,10 @@
 
 <!ENTITY  feedTab               "Canals">
 <!ENTITY  feedTab.accesskey     "C">
-<!ENTITY  feedSubscribe         "Subscriu">
-<!ENTITY  feedSubscribe.accesskey "u">
 
 <!ENTITY  permTab               "Permisos">
 <!ENTITY  permTab.accesskey     "P">
-<!ENTITY  permUseDefault        "Utilitza el valor per defecte">
-<!ENTITY  permAskAlways         "Demana-m'ho sempre">
-<!ENTITY  permAllow             "Permet">
-<!ENTITY  permAllowSession      "Permet durant la sessió">
-<!ENTITY  permHide              "Amaga">
-<!ENTITY  permBlock             "Bloca">
 <!ENTITY  permissionsFor        "Permisos per:">
-<!ENTITY  permPlugins           "Activar els connectors">
-
-<!ENTITY  permClearStorage           "Esborrar l'emmagatzematge">
-<!ENTITY  permClearStorage.accesskey "z">
 
 <!ENTITY  securityTab           "Seguretat">
 <!ENTITY  securityTab.accesskey "S">
@@ -81,6 +69,9 @@
 <!ENTITY  securityView.privacy.cookies                  "Aquest lloc web emmagatzema informació (galetes) al meu ordinador?">
 <!ENTITY  securityView.privacy.viewCookies              "Mostra les galetes">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "g">
+<!ENTITY  securityView.privacy.siteData                 "Aquest lloc web emmagatzema informació al meu ordinador?">
+<!ENTITY  securityView.privacy.clearSiteData            "Esborra les galetes i dades dels llocs">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "E">
 <!ENTITY  securityView.privacy.passwords                "He desat cap contrasenya d'aquest lloc web?">
 <!ENTITY  securityView.privacy.viewPasswords            "Mostra les contrasenyes desades">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "y">

@@ -344,6 +344,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Finestres i pestanyes noves
+home-new-windows-tabs-description2 = Trieu què voleu veure en obrir la pàgina d'inici, finestres noves i pestanyes noves.
 
 ## Home Section - Home Page Customization
 
@@ -577,6 +578,9 @@ history-private-browsing-permanent =
     .accesskey = p
 history-remember-option =
     .label = Recorda el meu historial de navegació i de baixades
+    .accesskey = b
+history-remember-browser-option =
+    .label = Recorda l'historial de navegació i de baixades
     .accesskey = b
 history-remember-search-option =
     .label = Recorda l'historial de cerques i de formularis
