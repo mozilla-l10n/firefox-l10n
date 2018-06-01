@@ -5,7 +5,7 @@
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
-<!ENTITY syncBrand.shortName.label "Sync">
+<!ENTITY syncBrand.shortName.label "సింక్">
 
 <!-- Main titles. -->
 <!ENTITY sync.title.connect.label '&syncBrand.shortName.label; కు అనుసంధానమవ్వు'>

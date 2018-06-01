@@ -14,7 +14,7 @@
 <!ENTITY newPref.stringPlaceholder     "పదబంధం ఇవ్వండి">
 <!ENTITY newPref.numberPlaceholder     "సంఖ్యను ఇవ్వండి">
 
-<!ENTITY newPref.toggleButton          "అటుదిటుచేయు">
+<!ENTITY newPref.toggleButton          "టాగిల్">
 <!ENTITY newPref.cancelButton          "రద్దుచేయి">
 
 <!ENTITY contextMenu.copyPrefName      "పేరును నకలుతీయి">
