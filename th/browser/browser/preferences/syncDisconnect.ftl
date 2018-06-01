@@ -23,3 +23,6 @@ sync-disconnect-cancel =
 sync-disconnect-confirm-disconnect-delete =
     .label = ตัดการเชื่อมต่อแล้วลบ
     .accesskey = ต
+sync-disconnect-confirm-disconnect =
+    .label = ตัดการเชื่อมต่ออย่างเดียว
+    .accesskey = ต
