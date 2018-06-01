@@ -63,7 +63,7 @@ can reach it easily. -->
 <!ENTITY  closeTab.label                     "ปิดแท็บ">
 <!ENTITY  closeTab.accesskey                 "ป">
 
-<!ENTITY  hiddenTabs.label                   "แท็บที่ถูกซ่อน">
+<!ENTITY  hiddenTabs.label                   "แท็บที่ซ่อนอยู่">
 
 <!ENTITY  listAllTabs.label      "แสดงรายการแท็บทั้งหมด">
 
@@ -999,6 +999,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.disableButton.label "ปิดใช้งานส่วนขยาย">
 <!ENTITY homepageControlled.disableButton.accesskey "ป">
 
+<!ENTITY tabHideControlled.header.message "เข้าถึงแท็บที่ซ่อนอยู่ของคุณ">
 <!ENTITY tabHideControlled.disableButton.label "ปิดใช้งานส่วนขยาย">
 <!ENTITY tabHideControlled.disableButton.accesskey "ป">
 
