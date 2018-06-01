@@ -7,7 +7,7 @@
 <!ENTITY firstrun_urlbar_subtext2 "Moderní mobilní prohlížeč od Mozilly, neziskové organizace zaměřené na otevřený web.">
 <!ENTITY firstrun_panel_title_privacy "Soukromí">
 <!ENTITY firstrun_privacy_message "Prohlížejte web, jako když se nikdo nedívá">
-<!ENTITY firstrun_privacy_subtext "Anonymní prohlížení s funkcí Ochrana proti sledování blokuje sledující prvky, zatímco prohlížíte web, a nebude si pamatovat vaši historii.">
+<!ENTITY firstrun_privacy_subtext "Anonymní prohlížení s funkcí Ochrana proti sledování blokuje sledovací prvky, zatímco prohlížíte web, a nebude si pamatovat vaši historii.">
 <!ENTITY firstrun_panel_title_customize "Přizpůsobení">
 <!ENTITY firstrun_customize_message "Udělejte si aplikaci &brandShortName; podle sebe.">
 <!ENTITY firstrun_customize_subtext "Přizpůsobte si aplikaci &brandShortName; s doplňky. Blokujte reklamy, přidávejte funkce, nebo si vyberte nový vzhled, který bude odrazem vaší osobnosti.">
