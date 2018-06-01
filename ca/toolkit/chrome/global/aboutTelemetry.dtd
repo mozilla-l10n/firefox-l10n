@@ -41,4 +41,4 @@
 <!ENTITY aboutTelemetry.raw "JSON sense processar">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  NOTA: la depuració de SQL lenta està habilitada. Es poden mostrar les cadenes SQL completes a sota però no s'enviaran per a la telemesura.">
-<!ENTITY aboutTelemetry.fetchStackSymbols "  Obtén els noms de les funcions per a les piles">
+<!ENTITY aboutTelemetry.fetchStackSymbols "Obtén els noms de les funcions per a les piles">

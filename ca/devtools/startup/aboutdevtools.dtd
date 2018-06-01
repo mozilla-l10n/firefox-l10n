@@ -16,6 +16,7 @@
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.title): Title of the top about:devtools
   -  section displayed when DevTools are disabled. -->
+<!ENTITY  aboutDevtools.enable.title "Activa les eines per a desenvolupadors del Firefox">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementTitle): Title of the top
   -  section displayed when devtools are disabled and the user triggered DevTools by using
@@ -23,6 +24,8 @@
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementMessage): Message displayed
   -  when users come from using the Inspect Element menu item. -->
+<!ENTITY  aboutDevtools.enable.inspectElementMessage
+          "Examineu i editeu HTML i CSS amb l'Inspector de les eines per a desenvolupadors.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.aboutDebuggingMessage): Message displayed
   -  when users come from about:debugging. -->
@@ -39,13 +42,22 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.learnMoreLink): Text for the link to
   -  https://developer.mozilla.org/docs/Tools displayed in the top section when DevTools
   -  are disabled. -->
+<!ENTITY  aboutDevtools.enable.learnMoreLink "Més informació sobre les eines per a desenvolupadors">
 
+<!ENTITY  aboutDevtools.enable.enableButton "Activa les eines per a desenvolupadors">
+<!ENTITY  aboutDevtools.enable.closeButton2 "Tanca aquesta pestanya">
 
+<!ENTITY  aboutDevtools.welcome.title "Us donem la benvinguda a les eines per a desenvolupadors del Firefox!">
 
+<!ENTITY  aboutDevtools.newsletter.title "Butlletí de desenvolupadors de Mozilla">
 <!-- LOCALIZATION NOTE (aboutDevtools.newsletter.message): Subscribe form message.
   -  The newsletter is only available in english at the moment.
   -  See Bug 1415273 for support of additional languages.-->
+<!ENTITY  aboutDevtools.newsletter.email.placeholder "Adreça electrònica">
+<!ENTITY  aboutDevtools.newsletter.privacy.label "Accepto que Mozilla gestioni la meva informació en els termes descrits en la <a class='external' href='https://www.mozilla.org/privacy/'>política de privadesa</a>.">
+<!ENTITY  aboutDevtools.newsletter.subscribeButton "Subscriu-m'hi">
 <!ENTITY  aboutDevtools.newsletter.thanks.title "Gràcies!">
+<!ENTITY  aboutDevtools.newsletter.thanks.message "Si anteriorment no heu confirmat la subscripció a algun butlletí de notícies relacionat amb Mozilla, és possible que ho hàgiu de fer. Comproveu la safata d'entrada o el filtre de correu brossa per veure si hi ha algun missatge de Mozilla.">
 
 <!ENTITY  aboutDevtools.footer.title "Firefox Developer Edition">
 

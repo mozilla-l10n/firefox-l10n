@@ -432,6 +432,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "Afegeix més elements…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
+<!ENTITY customizeMenu.manageExtension.label "Gestiona l'extensió">
+<!ENTITY customizeMenu.manageExtension.accesskey "e">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -793,6 +795,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "Més informació">
 
+<!ENTITY identity.clearSiteData "Esborra les galetes i dades dels llocs…">
 
 <!ENTITY identity.permissions "Permisos">
 <!ENTITY identity.permissionsEmpty "No heu donat cap permís especial a aquest lloc.">
