@@ -14,7 +14,7 @@
 <!ENTITY firstrun_bookmarks_title "చరిత్ర">
 <!ENTITY firstrun_bookmarks_message "మీ ఫేవ్స్, ముందు మరియు సెంటర్">
 <!ENTITY firstrun_bookmarks_subtext "మీరు శోధించినప్పుడు మీ బుక్మార్క్లు మరియు చరిత్ర నుండి ఫలితాలను పొందండి.">
-<!ENTITY firstrun_data_title "దత్తాంశం">
+<!ENTITY firstrun_data_title "డెట">
 <!ENTITY firstrun_data_message "తక్కువ డేటా, మరింత పొదుపు">
 <!ENTITY firstrun_data_subtext2 "మీరు సందర్శించే ప్రతి సైట్ డేటాను తక్కువగా ఖర్చు పెట్టడానికి చిత్రాలు ఆపివేయండి.">
 <!ENTITY firstrun_sync_title "సింక్">
@@ -69,6 +69,13 @@
 <!ENTITY  crash_restart_label "&brandShortName; పునఃప్రారంభించు">
 
 <!ENTITY url_bar_default_text2 "వెతకండి లేదా చిరునామాను ఇవ్వండి">
+
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
 
 <!ENTITY bookmark "ఇష్టాంశం">
 <!ENTITY bookmark_remove "ఇష్టాంశాన్ని తీసివేయి">
