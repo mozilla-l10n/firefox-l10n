@@ -21,3 +21,9 @@ sync-disconnect-cancel =
 ## The 2 labels which may be shown on the single "Disconnect" button, depending
 ## on the state of the checkboxes.
 
+sync-disconnect-confirm-disconnect-delete =
+    .label = Від'єднати і вилучити
+    .accesskey = В
+sync-disconnect-confirm-disconnect =
+    .label = Лише від'єднати
+    .accesskey = є
