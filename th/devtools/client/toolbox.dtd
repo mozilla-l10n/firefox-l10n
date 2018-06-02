@@ -121,7 +121,8 @@
 
 <!-- LOCALIZATION NOTE (options.usedeveditiontheme.*) Options under the
   -  toolbox for enabling and disabling the Developer Edition browser theme. -->
-<!ENTITY options.usedeveditiontheme.tooltip "เปิด/ปิดชุดตกแต่งเบราว์เซอร์ Developer Edition">
+<!ENTITY options.usedeveditiontheme.label   "ใช้ชุดตกแต่งเบราว์เซอร์รุ่นนักพัฒนา">
+<!ENTITY options.usedeveditiontheme.tooltip "เปิด/ปิดชุดตกแต่งเบราว์เซอร์รุ่นนักพัฒนา">
 
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
