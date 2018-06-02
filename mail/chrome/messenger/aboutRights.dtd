@@ -24,12 +24,12 @@
 <!ENTITY rights.intro-point2c ".">
 
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights.intro-point3a "Zásady ochrany soukromí pro produkty &vendorShortName; jsou dostupné ">
+<!ENTITY rights.intro-point3a "Zásady ochrany osobních údajů pro produkty &vendorShortName; jsou dostupné ">
 <!ENTITY rights.intro-point3b "zde">
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
-<!ENTITY rights.intro-point3-unbranded "Zásady ochrany soukromí nejsou pro neznačkové verze produktů k dispozici.">
+<!ENTITY rights.intro-point3-unbranded "Zásady ochrany osobních údajů nejsou pro neznačkové verze produktů k dispozici.">
 
 <!-- point 4 text for official branded builds -->
 <!ENTITY rights.intro-point4a "&brandShortName; rovněž poskytuje volitelné služby webových serverů, například službu aktualizace doplňků, a u těchto služeb není možno garantovat jejich 100&#37; správnost a bezchybnost. Více podrobností, včetně informací jak tyto služby zakázat, lze nalézt v ">

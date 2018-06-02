@@ -3,10 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!--
-LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of 
-Netscape Communicator, Please translate using the brandname in respective 
+LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of
+Netscape Communicator, Please translate using the brandname in respective
 languages for Netscape Communicator 4 releases.
-LOCALIZATION NOTE : Do not translate any of the occurrences of the word 
+LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 "&brandShortName;" below.
 -->
 
@@ -30,7 +30,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importTitle.label        "Průvodce importem aplikace &brandShortName;">
 <!ENTITY importShortDesc.label    "Import zpráv, kontaktů, nastavení a filtrů z jiných programů">
 
-<!ENTITY importDescription1.label "Tento průvodce naimportuje poštovní zprávy, kontakty, předvolby a filtry z ostatních poštovních programů nebo kontaktů v běžném formátu do aplikace &brandShortName;.">
+<!ENTITY importDescription1.label "Tento průvodce naimportuje poštovní zprávy, kontakty, kanály, předvolby anebo filtry z ostatních poštovních programů a kontaktů v běžném formátu do aplikace &brandShortName;.">
 <!ENTITY importDescription2.label "K importovaným položkám pak můžete přistupovat přímo z aplikace &brandShortName;.">
 
 <!ENTITY selectDescription.label  "Vyberte prosím typ souboru, ze kterého chcete importovat:">
