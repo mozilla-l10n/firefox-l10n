@@ -70,6 +70,15 @@
 
 <!ENTITY url_bar_default_text2 "Tikanöx chuqa\&apos; titz\&apos;ib\&apos;äx ri ochochib\&apos;äl">
 
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "Tawokisaj ri QR Asik\&apos;inel richin nakanoj o natz\&apos;ib\&apos;aj jun ochochib\&apos;äl">
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "Tawokisaj ri q\&apos;asäy atzij richin nakanoj o natz\&apos;ib\&apos;aj jun ochochib\&apos;äl">
+
 <!ENTITY bookmark "Yaketal">
 <!ENTITY bookmark_remove "Tiyuj el ri yaketal">
 <!ENTITY bookmark_added "Yaketal tz\&apos;aqatisan">
