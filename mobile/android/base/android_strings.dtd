@@ -70,6 +70,15 @@
 
 <!ENTITY url_bar_default_text2 "Kirjoita haku tai osoite">
 
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "Hae tai kirjoita osoite käyttämällä QR-lukijaasi">
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "Hae tai kirjoita osoite käyttämällä mikrofoniasi">
+
 <!ENTITY bookmark "Lisää kirjanmerkki">
 <!ENTITY bookmark_remove "Poista kirjanmerkki">
 <!ENTITY bookmark_added "Lisättiin kirjanmerkki">
