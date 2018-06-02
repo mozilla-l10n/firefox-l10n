@@ -5,6 +5,7 @@
 sync-disconnect-dialog =
     .title = Putuskan { -sync-brand-short-name }?
     .style = width: 36em; min-height: 35em;
+sync-disconnect-heading = Apakah Anda ingin menghapus data peramban di komputer ini? Data { -sync-brand-name } Anda akan tetap ada di akun Anda, apapun yang terjadi.
 sync-disconnect-remove-sync-caption = Hapus Data { -sync-brand-name }
 sync-disconnect-remove-sync-data = Markah, riwayat, sandi, dll.
 sync-disconnect-remove-other-caption = Hapus Data Pribadi yang Lainnya
