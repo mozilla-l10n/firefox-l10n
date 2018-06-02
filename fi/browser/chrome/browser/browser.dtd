@@ -434,6 +434,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "Lisää toimintoja…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "t">
 
+<!ENTITY customizeMenu.autoHideDownloadsButton.label "Piilota automaattisesti työkalupalkkiin">
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "a">
 <!ENTITY customizeMenu.manageExtension.label "Hallitse laajennusta">
 <!ENTITY customizeMenu.manageExtension.accesskey "a">
