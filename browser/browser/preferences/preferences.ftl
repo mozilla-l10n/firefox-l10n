@@ -126,7 +126,7 @@ startup-header = เริ่มการทำงาน
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = อนุญาตให้ { -brand-short-name } และ Firefox ทำงานพร้อมกัน
-use-firefox-sync = เคล็ดลับ: สิ่งนี้ใช้โปรไฟล์แยก ใช้ { -sync-brand-short-name } เพื่อแบ่งปันข้อมูลระหว่างกัน
+use-firefox-sync = เคล็ดลับ: สิ่งนี้ใช้โปรไฟล์แยก ใช้ { -sync-brand-short-name } เพื่อแบ่งปันข้อมูลระหว่างโปรไฟล์
 get-started-not-logged-in = ลงชื่อเข้า { -sync-brand-short-name }…
 get-started-configured = เปิดค่ากำหนด { -sync-brand-short-name }
 always-check-default =
@@ -268,7 +268,7 @@ update-application-auto =
     .label = ติดตั้งการอัปเดตโดยอัตโนมัติ (แนะนำ)
     .accesskey = ด
 update-application-check-choose =
-    .label = ตรวจสอบการอัปเดตแต่ให้คุณเลือกว่าจะติดตั้งหรือไม่
+    .label = ตรวจสอบการอัปเดตแต่ให้คุณเลือกว่าจะติดตั้งการอัปเดตหรือไม่
     .accesskey = ว
 update-application-manual =
     .label = ไม่ตรวจสอบการอัปเดตเสมอ (ไม่แนะนำ)
