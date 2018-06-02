@@ -11,7 +11,7 @@
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorerja">
 <!ENTITY importFromIE.accesskey         "M">
-<!ENTITY importFromEdge.label           "Microsoft Edgea">
+<!ENTITY importFromEdge.label           "Microsoft Edga">
 <!ENTITY importFromEdge.accesskey       "E">
 <!ENTITY importFromNothing.label        "Ne uvozi ničesar">
 <!ENTITY importFromNothing.accesskey    "N">
