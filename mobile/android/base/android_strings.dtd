@@ -70,6 +70,15 @@
 
 <!ENTITY url_bar_default_text2 "Введите запрос или адрес">
 
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "Используйте ваш QR-ридер для поиска или ввода адреса">
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "Используйте ваш микрофон для поиска или ввода адреса">
+
 <!ENTITY bookmark "Закладка">
 <!ENTITY bookmark_remove "Удалить закладку">
 <!ENTITY bookmark_added "Закладка добавлена">
