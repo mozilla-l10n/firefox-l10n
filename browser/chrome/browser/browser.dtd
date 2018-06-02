@@ -1002,7 +1002,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.keepButton.label "Säilytä muutokset">
 <!ENTITY homepageControlled.keepButton.accesskey "S">
 <!ENTITY homepageControlled.disableButton.label "Estä laajennus">
-<!ENTITY homepageControlled.disableButton.accesskey "o">
+<!ENTITY homepageControlled.disableButton.accesskey "E">
 
 <!ENTITY tabHideControlled.header.message "Piilotettujen välilehtien käyttäminen">
 <!ENTITY tabHideControlled.keepButton.label "Pidä välilehdet piilossa">
