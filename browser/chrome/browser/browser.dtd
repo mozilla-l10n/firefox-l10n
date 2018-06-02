@@ -35,6 +35,9 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "Tutup Tab Lainnya">
 <!ENTITY  closeOtherTabs.accesskey           "L">
 
+<!ENTITY  closeSelectedTabs.label            "Tutup Tab yang Dipilih">
+<!ENTITY  closeSelectedTabs.accesskey        "P">
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -129,7 +132,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Tampilkan Semua Tab">
 <!ENTITY showAllTabsCmd.accesskey "S">
 <!ENTITY toggleReaderMode.key "R">
-
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "Masuk ke &syncBrand.shortName.label;">
@@ -189,10 +191,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Markah Lain">
 <!ENTITY mobileBookmarksCmd.label "Markah Seluler">
 <!ENTITY bookmarksToolbarChevron.tooltip "Tampilkan markah lainnya">
-<!ENTITY showRecentlyBookmarked.label     "Tampilkan yang Baru Saja Dimarkahi">
-<!ENTITY showRecentlyBookmarked.accesskey "t">
-<!ENTITY hideRecentlyBookmarked.label     "Sembunyikan yang Baru Saja Dimarkahi">
-<!ENTITY hideRecentlyBookmarked.accesskey "S">
 
 <!ENTITY backCmd.label                "Mundur">
 <!ENTITY backCmd.accesskey            "K">
@@ -234,7 +232,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Terjemahkan laman ini">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Kelola terjemahan laman">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Kelola penggunaan perangkat lunak DRM">
-
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Buka panel MIDI">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Anda telah memblokir kamera Anda untuk situs web ini.">
@@ -245,7 +242,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Anda telah memblokir penyimpanan tetap untuk situs web ini.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Anda telah memblokir pop-up untuk situs web ini.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Anda telah memblokir ekstraksi data canvas untuk situs web ini.">
-
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Anda telah memblokir situs ini menggunakan pengaya Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Anda telah memblokir akses MIDI untuk situs web ini.">
 
@@ -255,6 +251,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Beranda">
+
+<!ENTITY homeButton.defaultPage.tooltip "Beranda &brandShortName;">
 
 <!ENTITY bookmarksButton.label          "Markah">
 <!ENTITY bookmarksCmd.commandkey "b">
@@ -395,7 +393,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Ingin melihat tab dari perangkat Anda yang lain di sini?">
-<!ENTITY appMenuRemoteTabs.openprefs.label "Pengaturan Sync">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Buka Pengaturan Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Masuk untuk melihat daftar tab dari perangkat lainnya.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Akun Anda perlu diverifikasi.">
@@ -437,6 +434,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "Tambahkan Item Lainnya…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "T">
 
+<!ENTITY customizeMenu.autoHideDownloadsButton.label "Sembunyi-Otomatis di Bilah Alat">
+<!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
+<!ENTITY customizeMenu.manageExtension.label "Kelola Ekstensi">
+<!ENTITY customizeMenu.manageExtension.accesskey "E">
+
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
@@ -444,7 +446,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Cari atau masukkan alamat">
-<!ENTITY urlbar.placeholder3          "Masukkan istilah pencarian dan alamat di sini">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Ekstensi:">
@@ -798,6 +799,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "Informasi Lebih Lanjut">
 
+<!ENTITY identity.clearSiteData "Hapus Kuki dan Data Situs…">
+
 <!ENTITY identity.permissions "Hak Akses">
 <!ENTITY identity.permissionsEmpty "Anda belum memberikan izin khusus apa pun untuk situs ini. ">
 <!ENTITY identity.permissionsReloadHint "Anda mungkin perlu memuat ulang laman untuk menerapkan perubahan.">
@@ -988,14 +991,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Mulai ulang untuk memutakhirkan &brandShorterName;">
 
-<!ENTITY newTabControlled.message "Sebuah ekstensi telah mengubah laman yang Anda lihat ketika membuka Tab Baru. Anda dapat memulihkan setelan Anda jika tidak menginginkan perubahan ini.">
-
 <!ENTITY newTabControlled.header.message "Tab Baru Anda telah berubah.">
 <!ENTITY newTabControlled.keepButton.label "Simpan Perubahan">
 <!ENTITY newTabControlled.keepButton.accesskey "S">
-<!ENTITY newTabControlled.restoreButton.label "Pulihkan Setelan">
-<!ENTITY newTabControlled.restoreButton.accesskey "P">
-
 <!ENTITY newTabControlled.disableButton.label "Nonaktifkan Ekstensi">
 <!ENTITY newTabControlled.disableButton.accesskey "N">
 
@@ -1005,6 +1003,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.keepButton.accesskey "S">
 <!ENTITY homepageControlled.disableButton.label "Nonaktifkan Ekstensi">
 <!ENTITY homepageControlled.disableButton.accesskey "N">
+
+<!ENTITY tabHideControlled.header.message "Akses Tab Tersembunyi Anda">
+<!ENTITY tabHideControlled.keepButton.label "Tetap Sembunyikan Tab">
+<!ENTITY tabHideControlled.keepButton.accesskey "T">
+<!ENTITY tabHideControlled.disableButton.label "Nonaktifkan Ekstensi">
+<!ENTITY tabHideControlled.disableButton.accesskey "N">
 
 <!ENTITY pageActionButton.tooltip "Tindakan laman">
 <!ENTITY pageAction.addToUrlbar.label "Tambahkan ke Bilah Alamat">
