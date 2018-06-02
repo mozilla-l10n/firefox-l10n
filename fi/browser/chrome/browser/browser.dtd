@@ -1002,11 +1002,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.disableButton.label "Estä laajennus">
 <!ENTITY homepageControlled.disableButton.accesskey "o">
 
-<!ENTITY tabHideControlled.header.message "Käytä piilotettuja välilehtiä">
+<!ENTITY tabHideControlled.header.message "Piilotettujen välilehtien käyttäminen">
 <!ENTITY tabHideControlled.keepButton.label "Pidä välilehdet piilossa">
-<!ENTITY tabHideControlled.keepButton.accesskey "k">
+<!ENTITY tabHideControlled.keepButton.accesskey "P">
 <!ENTITY tabHideControlled.disableButton.label "Poista laajennus käytöstä">
-<!ENTITY tabHideControlled.disableButton.accesskey "P">
+<!ENTITY tabHideControlled.disableButton.accesskey "k">
 
 <!ENTITY pageActionButton.tooltip "Sivun toiminnot">
 <!ENTITY pageAction.addToUrlbar.label "Lisää osoitepalkkiin">
