@@ -359,7 +359,7 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "ახლავე გასუფთავება">
 <!ENTITY pref_clear_on_exit_title3 "პირადი მონაცემების გასუფთავება გამოსვლისას">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; ავტომატურად გაასუფთავებს თქვენს მონაცემებს მთავრი მენიუდან \&quot;გასვლის\&quot; არჩევის დროს">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; თავად გაასუფთავებს თქვენს მონაცემებს მთავარი მენიუდან \&quot;გასვლის\&quot; არჩევის დროს">
 <!ENTITY pref_clear_on_exit_dialog_title "აირჩიეთ მონაცემები">
 <!ENTITY pref_restore_tabs "ჩანართების აღდგენა">
 <!ENTITY pref_restore_always "აღდგენა ყოველთვის">
