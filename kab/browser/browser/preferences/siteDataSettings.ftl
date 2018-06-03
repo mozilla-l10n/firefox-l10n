@@ -7,6 +7,7 @@
 
 site-data-settings-window =
     .title = Sefrek inagan n tuqna akked isefka n usmel
+site-data-settings-description = Ismal-agi ad skelsen inagan n tuqqna akked isefka n yismal ɣef uselkim-ik. { -brand-short-name } ad yeḥrez isefka seg yismal s uḥraz imezgi arama tekkseḍ-ten, sakin ad yekkes isefka n yismal n war asekles imezgi ticki ilaq umḍiq n usekles.
 site-data-search-textbox =
     .placeholder = Nadi ismal web
     .accesskey = R

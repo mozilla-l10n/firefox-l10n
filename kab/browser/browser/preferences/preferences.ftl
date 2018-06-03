@@ -37,6 +37,11 @@ search-input-box =
             [windows] Aff deg iɣewwaṛen
            *[other] Aff deg yismenyifen
         }
+policies-notice =
+    { PLATFORM() ->
+        [windows] Tuddsa-ik tessens tazmert n ubeddel n kra n yiɣewwaṛen.
+       *[other] Tuddsa-ik tessens tazmert n ubeddel n kra n yismenyifen.
+    }
 pane-general-title = Amatu
 category-general =
     .tooltiptext = { pane-general-title }
@@ -339,6 +344,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Isfuyla d iccaren imaynuten
+home-new-windows-tabs-description2 = Fren ayen ara d-yettwaseknen ticki telḍiḍ asebter agejdan, ifuyla imaynuten neɣ iccaren imaynuten.
 
 ## Home Section - Home Page Customization
 
@@ -529,6 +535,9 @@ privacy-header = Tabaḍnit n iminig
 ## Privacy Section - Forms
 
 forms-header = Tiferka & akked awalen uffiren
+forms-ask-to-save-logins =
+    .label = Suter akken ad teskelseḍ inekcam d wawalen uffiren i yismal web
+    .accesskey = s
 forms-exceptions =
     .label = Tisuraf…
     .accesskey = r
@@ -562,6 +571,7 @@ history-remember-option-never =
     .label = Ur ḥerrez ara amazray
 history-remember-option-custom =
     .label = Seqdec iɣewwaṛen udmawanen i umazray-a
+history-remember-description = { -brand-short-name } ad yeḥrez isefka n tunigin, izedman, tiferkiyin d umezruy n unadi.
 history-dontremember-description = { -brand-short-name } ad isseqdec iɣewwaṛen n tunigin tusligt, u diɣen ur iḥerrez ara amazray n tunigin-inek.
 history-private-browsing-permanent =
     .label = Seqdec yal ass askar n tunigin tusligt
@@ -569,6 +579,9 @@ history-private-browsing-permanent =
 history-remember-option =
     .label = Ḥrez amazray n tunigin d isidar
     .accesskey = t
+history-remember-browser-option =
+    .label = Cfu ɣef umezruy n tunigin d izdamen
+    .accesskey = C
 history-remember-search-option =
     .label = Ḥrez amazray n unadi d tferkit
     .accesskey = u

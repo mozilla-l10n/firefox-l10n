@@ -60,6 +60,7 @@ permissions-exceptions-tracking-protection-desc = Treremdeḍ ammesten n usfuɣe
 permissions-exceptions-cookie-window =
     .title = Tisuraf - Inagan n tuqna akked isefka n usmel
     .style = { permissions-window.style }
+permissions-exceptions-cookie-desc = Tzemreḍ ad temmleḍ ismal web yettwasirgen dima neɣ urǧin ttwasirgen ad sqedcen isefka n yismal. Sekcem tansa n usmel sakin sit ɣef Sewḥel, Sireg i tɣimit, neɣ Sireg.
 
 ## Exceptions - Pop-ups
 
