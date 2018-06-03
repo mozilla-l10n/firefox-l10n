@@ -216,7 +216,7 @@
 <!ENTITY pref_category_advanced_summary3 "恢复标签页、节省流量、开发者工具">
 <!ENTITY pref_category_notifications "通知">
 <!ENTITY pref_category_notifications_summary "新功能、网站更新">
-<!ENTITY pref_category_notifications_summary2 "新功能，产品小窍门">
+<!ENTITY pref_category_notifications_summary2 "新功能、产品小窍门">
 <!ENTITY pref_developer_remotedebugging_usb "通过 USB 远程调试">
 <!ENTITY pref_developer_remotedebugging_wifi "通过 Wi-Fi 远程调试">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "您的设备需要安装二维码扫描应用才能使用 Wi-Fi 调试。">
