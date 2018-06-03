@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY junkSettings.label "ჯართის პარამეტრები">
-<!ENTITY trainingDescription.label "თუ ჩართულია, ჯერ &brandShortName; უნდა გაავრჯიშოთ კჯართის მითითებით ჯართის პულტის ღილაკის საშუალებით. უნდ ამიუთითოთ ორივე, ჯართისა და არა ჯართის წერილები. ამის შემდეგ &brandShortName; ჯართს ავტომატურად მონიშნავს.">
+<!ENTITY trainingDescription.label "თუ ჩართულია, ჯერ &brandShortName; უნდა გაავარჯიშოთ ჯართის ამოცნობაში, არასასურველი წერილების მონიშვნით, ჯართის სამართავ ზოლში არსებული ღილაკით. უნდა მიუთითოთ ორივე, არასასურველი და საჭირო წერილები. ამის შემდეგ &brandShortName; ჯართს თავად აღნიშნავს.">
 <!ENTITY level.label "ჯართის მოქნილი კონტროლის ჩართვა ამ ანგარიშისთვის">
 <!ENTITY level.accesskey "E">
 
