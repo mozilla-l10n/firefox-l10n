@@ -20,7 +20,7 @@
 
 <!ENTITY  chooseHandlerMac.label      "בחר...">
 <!ENTITY  chooseHandlerMac.accesskey  "ח">
-<!ENTITY  chooseHandler.label         "עיון...">
+<!ENTITY  chooseHandler.label         "עיון…">
 <!ENTITY  chooseHandler.accesskey     "ע">
 
 <!ENTITY  unknownPromptText.label     "האם ברצונך לשמור קובץ זה?">
