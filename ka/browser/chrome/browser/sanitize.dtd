@@ -15,7 +15,7 @@
 
 <!ENTITY clearDataSettings3.label     "როცა &brandShortName; დაიხურება, წაიშალოს">
 
-<!ENTITY clearDataSettings4.label     "როცა დაიხურება, &brandShortName; ავტომატურად გაასუფთავებს">
+<!ENTITY clearDataSettings4.label     "როცა &brandShortName; დაიხურება, სრულად წაიშლება">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
