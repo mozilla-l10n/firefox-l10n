@@ -49,4 +49,4 @@ site-data-removing-dialog =
     .buttonlabelaccept = წაშლა
 site-data-removing-header = ფუნთუშებისა და საიტის მონაცემების წაშლა
 site-data-removing-desc = ფუნთუშებისა და საიტის მონაცემების წაშლის შედეგად, შესაძლოა ვებსაიტებზე შესული ანგარიშებიდან გამოხვიდეთ. ნამდვილად გსურთ, განაგრძოთ?
-site-data-removing-table = მოცემული საიტების მონაცემები და ფუნთუშები წაიშალა
+site-data-removing-table = მოცემული საიტების მონაცემები და ფუნთუშები წაიშლება

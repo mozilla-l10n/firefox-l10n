@@ -2,13 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY     window.title                  "პარამეტრები - საიტის მონაცემები">
-
-<!ENTITY     window1.title                 "პარამეტრები - ფუნთუშები და საიტის მონაცემები">
-
 <!ENTITY     window2.title                 "ფუნთუშების და საიტების მონაცემების მართვა">
 <!ENTITY     hostCol.label                 "საიტი">
-<!ENTITY     statusCol.label               "მდგომარეობა">
 <!ENTITY     cookiesCol.label              "ფუნთუშები">
 <!ENTITY     usageCol.label                "საცავი">
 <!ENTITY     lastAccessedCol.label                "ბოლოს გამოყენებული">
@@ -20,9 +15,6 @@
 <!ENTITY     save.accesskey                "ც">
 <!ENTITY     cancel.label                  "გაუქმება">
 <!ENTITY     cancel.accesskey              "გ">
-<!ENTITY     removingDialog.title          "საიტის მონაცემების წაშლა">
-<!ENTITY     removingSelected.description  "საიტის მონაცემების წაშლისას, ასევე წაიშლება მასთან დაკავშირებული ფუნთუშები და შიგთავსი, რის გამოც, შესული ანგარიშებიდან ავტომატურად გამოხვალთ. ნამდვილად გსურთ ცვლილებები?">
-<!ENTITY     siteTree2.label               "მოცემული ვებსაიტის ფუნთუშები წაიშლება">
 <!ENTITY     removingDialog1.title         "ფუნთუშებისა და საიტის მონაცემების წაშლა">
 <!ENTITY     removingSelected1.description "ფუნთუშებისა და საიტის მონაცემების წაშლის შედეგად, შესაძლოა ვებსაიტებზე შესული ანგარიშებიდან გამოხვიდეთ. ნამდვილად გსურთ, განაგრძოთ?">
-<!ENTITY     siteTree3.label               "მოცემული საიტების მონაცემები და ფუნთუშები წაიშალა">
+<!ENTITY     siteTree3.label               "მოცემული საიტების მონაცემები და ფუნთუშები წაიშლება">
