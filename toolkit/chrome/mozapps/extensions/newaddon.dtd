@@ -6,7 +6,7 @@
 <!ENTITY intro           "Eit anna program på datamaskina ønskjer å endre &brandShortName; med følgande utviding:">
 <!ENTITY warning         "Installer utvidingar berre frå utgjevarar du stolar på.">
 <!ENTITY allow           "Tillat denne installeringa">
-<!ENTITY later           "Du kan alltids endre meining seinare ved å opne Utvidings-handteraren">
+<!ENTITY later           "Du kan alltids endre meining seinare ved å opne Tilleggs-handteraren">
 <!ENTITY continue        "Fortset">
 <!ENTITY restartMessage  "Du må starte &brandShortName; på nytt for å fullføre installasjonen av denne utvidinga.">
 <!ENTITY restartButton   "Start &brandShortName; på nytt">

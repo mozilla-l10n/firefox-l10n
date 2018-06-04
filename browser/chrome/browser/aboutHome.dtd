@@ -30,7 +30,7 @@
 <!-- LOCALIZATION NOTE (abouthome.preferencesButtonUnix.label): The label for the
      preferences/options item on about:home on Linux and OS X -->
 <!ENTITY abouthome.preferencesButtonUnix.label  "Innstillingar">
-<!ENTITY abouthome.addonsButton.label    "Utvidingar">
+<!ENTITY abouthome.addonsButton.label    "Tillegg">
 <!ENTITY abouthome.downloadsButton.label "Nedlastingar">
 <!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
 
