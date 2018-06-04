@@ -910,12 +910,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock.label "Desabilitar a proteção neste site">
+<!ENTITY trackingProtection.unblock.label "Desativar a proteção neste site">
 <!ENTITY trackingProtection.unblock.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate.label "Desabilitar a proteção nesta sessão">
+<!ENTITY trackingProtection.unblockPrivate.label "Desativar a proteção nesta sessão">
 <!ENTITY trackingProtection.unblockPrivate.accesskey "D">
 <!ENTITY trackingProtection.block2.label "Habilitar proteção">
 <!ENTITY trackingProtection.block2.accesskey "A">
@@ -953,7 +953,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.deleteCookies           "Excluir <html:strong>cookies</html:strong> recentes">
 <!ENTITY panicButton.view.deleteHistory           "Excluir <html:strong>histórico</html:strong> recente">
 <!ENTITY panicButton.view.deleteTabsAndWindows    "Fechar todas as <html:strong>abas</html:strong> e <html:strong>janelas</html:strong>">
-<!ENTITY panicButton.view.openNewWindow           "Abrir uma nova janela">
+<!ENTITY panicButton.view.openNewWindow           "Abrir uma nova janela limpa">
 
 <!ENTITY panicButton.view.undoWarning             "Esta ação não poderá ser desfeita.">
 <!ENTITY panicButton.view.forgetButton            "Esquecer!">
@@ -984,7 +984,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.panelUI.label "Baixar uma nova copia do &brandShorterName;">
 
 <!ENTITY updateRestart.message2 "Após um reinício rápido, &brandShorterName; irá restaurar todas as suas abas abertas e janelas que não sejam de Navegação Privativa.">
-<!ENTITY updateRestart.header.message2 "Reiniciar para atualizar o &brandShorterName;.">
+<!ENTITY updateRestart.header.message2 "Reinicie para atualizar o &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Reiniciar e restaurar">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "Agora não">
@@ -994,7 +994,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.header.message "Sua nova aba foi alterada.">
 <!ENTITY newTabControlled.keepButton.label "Manter alterações">
 <!ENTITY newTabControlled.keepButton.accesskey "M">
-<!ENTITY newTabControlled.disableButton.label "Desabilitar extensão">
+<!ENTITY newTabControlled.disableButton.label "Desativar extensão">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
 <!ENTITY homepageControlled.message "Uma extensão alterou o que você vê como página inicial. Você pode restaurar a sua configuração se não quiser esta alteração.">
