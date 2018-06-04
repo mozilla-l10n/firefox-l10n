@@ -974,14 +974,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
 <!ENTITY updateAvailable.panelUI.label "Baixar atualização do &brandShorterName;">
 
-<!ENTITY updateManual.message "Baixar uma nova copia do &brandShorterName;.">
+<!ENTITY updateManual.message "Baixe uma nova cópia do &brandShorterName; e ajudaremos a instalar.">
 <!ENTITY updateManual.whatsnew.label "Veja o que há de novo.">
 <!ENTITY updateManual.header.message "Não é possível atualizar o &brandShorterName; para a versão mais recente.">
 <!ENTITY updateManual.acceptButton.label "Baixar o &brandShorterName;">
 <!ENTITY updateManual.acceptButton.accesskey "B">
 <!ENTITY updateManual.cancelButton.label "Agora não">
 <!ENTITY updateManual.cancelButton.accesskey "n">
-<!ENTITY updateManual.panelUI.label "Baixar uma nova copia do &brandShorterName;">
+<!ENTITY updateManual.panelUI.label "Baixar uma nova cópia do &brandShorterName;">
 
 <!ENTITY updateRestart.message2 "Após um reinício rápido, &brandShorterName; irá restaurar todas as suas abas abertas e janelas que não sejam de Navegação Privativa.">
 <!ENTITY updateRestart.header.message2 "Reinicie para atualizar o &brandShorterName;.">
