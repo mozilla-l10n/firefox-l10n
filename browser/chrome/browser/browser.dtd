@@ -792,7 +792,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.enableMixedContentBlocking.accesskey "e">
 <!ENTITY identity.disableMixedContentBlocking.label "Desativar proteção por enquanto">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
-<!ENTITY identity.learnMore "Saber mais">
+<!ENTITY identity.learnMore "Saiba mais">
 
 <!ENTITY identity.removeCertException.label "Remover exceção">
 <!ENTITY identity.removeCertException.accesskey "R">
@@ -962,7 +962,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg2                "Navegação segura!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Obrigado!">
 
-<!ENTITY emeLearnMoreContextMenu.label            "Saber mais sobre o DRM…">
+<!ENTITY emeLearnMoreContextMenu.label            "Saiba mais sobre DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
 <!ENTITY updateAvailable.message "Atualize o &brandShorterName; para ganhar mais velocidade e privacidade.">
