@@ -4,7 +4,7 @@
 
 <!ENTITY  security.label                 "Sikkerheit">
 
-<!ENTITY  warnOnAddonInstall2.label       "Åtvar meg når netsider vil installere utvidingar">
+<!ENTITY  warnOnAddonInstall2.label       "Åtvar meg når netsider vil installere tillegg">
 <!ENTITY  warnOnAddonInstall2.accesskey   "Å">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
@@ -13,6 +13,7 @@
 -->
 
 <!ENTITY  browsingProtection.label        "Vern mot villeiande innhald og skadeleg programvare">
+
 <!ENTITY  enableSafeBrowsing.label        "Blokker farleg og villeiande innhald">
 <!ENTITY  enableSafeBrowsing.accesskey    "B">
 
