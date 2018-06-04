@@ -5,6 +5,7 @@
 sync-disconnect-dialog =
     .title = Disconette { -sync-brand-short-name }?
     .style = width: 36em; min-height: 35em;
+sync-disconnect-heading = Ti veu anche scancelâ i dæti do navegatô inte sto computer? In ògni mòddo i dæti de { -sync-brand-name } restian in sciô teu account.
 sync-disconnect-remove-sync-caption = Scancella i dæti de { -sync-brand-name }
 sync-disconnect-remove-sync-data = Segnalibbri, stöia, poule segrete, ecc.
 sync-disconnect-remove-other-caption = Scancella i atri dæti privæ
