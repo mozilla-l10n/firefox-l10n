@@ -1,13 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY addons.windowTitle                   "Utvidingar">
-
-<!ENTITY search.placeholder                   "Søk i alle utvidingar">
+<!ENTITY addons.windowTitle                   "Handter tillegg">
 
 <!ENTITY search.placeholder2                  "Søk på addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Søk">
-<!-- LOCALIZATION NOTE (search.commandKey):
+<!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
@@ -16,7 +14,6 @@
 <!ENTITY listEmpty.availableUpdates.label     "Ingen oppdateringar funne">
 <!ENTITY listEmpty.recentUpdates.label        "Du har ikkje nyleg oppdatert utvidingane">
 <!ENTITY listEmpty.findUpdates.label          "Sjå etter oppdateringar">
-<!ENTITY listEmpty.search.label               "Klarte ikkje å finne passande utvidingar">
 <!ENTITY listEmpty.button.label               "Les meir om utvidingar">
 <!ENTITY installAddonFromFile.label           "Installer utviding frå fil…">
 <!ENTITY installAddonFromFile.accesskey       "I">
@@ -24,9 +21,6 @@
 
 <!ENTITY getThemes.description                "Ønskjer du å tilpasse nettlesaren din?">
 <!ENTITY getThemes.learnMore                  "Vel mellom tusenvis av tema.">
-
-<!ENTITY cmd.back.tooltip                     "Gå tilbake ei side">
-<!ENTITY cmd.forward.tooltip                  "Gå fram ei side">
 
 
 <!ENTITY showUnsignedExtensions.button.label  "Nokre utvidingar kunne ikkje stadfestast">
@@ -44,7 +38,6 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "Slå på tryggingskontroll av utvidingsoppdateringar">
 
 <!-- categories / views -->
-<!ENTITY view.search.label                    "Søk">
 <!ENTITY view.discover.label                  "Last ned utvidingar">
 <!ENTITY view.recentUpdates.label             "Nyleg oppdatert">
 <!ENTITY view.availableUpdates.label          "Tilgjengelege oppdateringar">
@@ -127,7 +120,7 @@
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 <!ENTITY discover.title                       "Kva er utvidingar?">
-<!ENTITY discover.description2                "Utvidingar er program som lèt deg tilpasse &brandShortName; med ekstra funksjonalitet eller stil. Prøv ein sidestolpe som sparar deg tid, vêrvarsling, eller eit tema som gjer &brandShortName; din.">
+<!ENTITY discover.description2                "Tillegg er program som lèt deg tilpasse &brandShortName; med ekstra funksjonalitet eller stil. Prøv ein sidestolpe som sparar deg tid, vêrvarsling, eller eit tema som gjer &brandShortName; din.">
 <!ENTITY discover.footer                      "Når du er kopla til nettet vil dette vindauge innehalde nokre av dei beste og mest populære utvidingane som du kan teste.">
 
 <!-- detail view -->
@@ -135,7 +128,6 @@
 <!ENTITY detail.lastupdated.label             "Sist oppdatert">
 <!ENTITY detail.creator.label                 "Utviklar">
 <!ENTITY detail.homepage.label                "Heimeside">
-<!ENTITY detail.numberOfDownloads.label       "Nedlastingar">
 
 <!ENTITY detail.contributions.description     "Utviklaren av denne utvidinga ber om at du hjelper til med å støtte vidare utvikling ved å gje eit lite bidrag.">
 
@@ -174,16 +166,6 @@
 <!ENTITY sort.name.tooltip                    "Sorter etter namn">
 <!ENTITY sort.dateUpdated.label               "Sist oppdatert">
 <!ENTITY sort.dateUpdated.tooltip             "Sorter etter dato oppdatert">
-<!ENTITY sort.relevance.label                 "Beste treff">
-<!ENTITY sort.relevance.tooltip               "Sorter etter relevans">
-<!ENTITY sort.price.label                     "Pris">
-<!ENTITY sort.price.tooltip                   "Sorter etter pris">
-
-<!ENTITY search.filter2.label                 "Søk:">
-<!ENTITY search.filter2.installed.label       "Installerte utvidingar">
-<!ENTITY search.filter2.installed.tooltip     "Vis installerte utvidingar">
-<!ENTITY search.filter2.available.label       "Tilgjengelege utvidingar">
-<!ENTITY search.filter2.available.tooltip     "Vis utvidingar som kan installerast">
 
 <!ENTITY addon.homepage                       "Heimeside">
 <!ENTITY addon.details.label                  "Meir">

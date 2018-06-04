@@ -75,9 +75,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY cancelSetup.label            "Avbryt oppsett">
 <!ENTITY cancelSetup.accesskey        "A">
 
-<!ENTITY removeAccount.label          "Fjern konto">
-<!ENTITY removeAccount.accesskey      "k">
-
 <!ENTITY signedOut.caption            "Ta med deg nettet">
 <!ENTITY signedOut.description        "Synkroniser bokmerke, historikk, faner, passord, utvidingar og innstillingar på tvers av alle einingane dine.">
 <!ENTITY signedOut.accountBox.title   "Kople til ein &syncBrand.fxAccount.label;">
