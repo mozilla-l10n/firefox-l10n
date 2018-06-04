@@ -6,7 +6,7 @@
 
 <!ENTITY dialog.title            "Programvareinstallasjon">
 <!ENTITY dialog.style            "width: 45em">
-<!ENTITY warningPrimary.label    "Installer utvidingar berre frå utgjevarar du stolar på.">
+<!ENTITY warningPrimary.label    "Installer tillegg berre frå utgjevarar du stolar på.">
 <!ENTITY warningSecondary.label  "Vondsinna programvare kan skade datamaskina, eller krenke personvernet ditt.">
 
 <!ENTITY from.label "frå:">
