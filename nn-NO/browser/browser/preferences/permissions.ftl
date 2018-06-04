@@ -79,9 +79,9 @@ permissions-exceptions-saved-logins-desc = Innloggingar frå følgjande nettsted
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window =
-    .title = Tillatne nettsider - Utvidingsinnstallering
+    .title = Tillatne nettsider - Inatallering av tillegg
     .style = { permissions-window.style }
-permissions-exceptions-addons-desc = Du kan velje kva for nettstadar som har løyve til å installera programvare. Skriv inn eksakt adresse til nettstaden du vil tillate, og trykk «Tillat».
+permissions-exceptions-addons-desc = Du kan velje kva for nettstadar som har løyve til å installere tillegg. Skriv inn eksakt adresse til nettstaden du vil tillate, og trykk «Tillat».
 
 ## Site Permissions - Notifications
 

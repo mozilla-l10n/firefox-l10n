@@ -23,13 +23,10 @@
 <!ENTITY helpKeyboardShortcuts.label     "Tastatursnarvegar">
 <!ENTITY helpKeyboardShortcuts.accesskey "T">
 
-<!ENTITY helpSafeMode.label       "Start på nytt utan utvidingar…">
+<!ENTITY helpSafeMode.label       "Start på nytt med avslåtte tillegg…">
 <!ENTITY helpSafeMode.accesskey   "S">
-<!ENTITY helpSafeMode.stop.label       "Start på nytt med utvidingar slått på">
+<!ENTITY helpSafeMode.stop.label       "Start på nytt med tillegga slått på">
 <!ENTITY helpSafeMode.stop.accesskey   "S">
-
-<!ENTITY healthReport2.label      "&brandShorterName; helserapport">
-<!ENTITY healthReport2.accesskey  "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "Feilsøking">
 <!ENTITY helpTroubleshootingInfo.accesskey  "e">
