@@ -675,6 +675,7 @@ collection-health-report-link = Μάθετε περισσότερα
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Η αναφορά δεδομένων είναι ανενεργή για αυτή την έκδοση
+collection-browser-errors-link = Μάθετε περισσότερα
 collection-backlogged-crash-reports-link = Μάθετε περισσότερα
 
 ## Privacy Section - Security

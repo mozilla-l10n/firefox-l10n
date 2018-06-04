@@ -21,6 +21,7 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Αγωνιζόμαστε για να σάς παρέχουμε επιλογές και συλλέγουμε μόνο αυτά που χρειαζόμαστε, ώστε να παρέχουμε και να βελτιώσουμε το &brandShortName; για όλους. Ζητούμε πάντα την άδεια πριν λάβουμε προσωπικές πληροφορίες.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Σημείωση απορρήτου">
 
+<!ENTITY collectBrowserErrorsLearnMore.label "Μάθετε περισσότερα">
 
 <!ENTITY crashReporterLearnMore.label    "Μάθετε περισσότερα">
 
