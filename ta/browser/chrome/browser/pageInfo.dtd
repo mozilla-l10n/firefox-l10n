@@ -46,22 +46,10 @@
 
 <!ENTITY  feedTab               "பீட்ஸ்">
 <!ENTITY  feedTab.accesskey     "F">
-<!ENTITY  feedSubscribe         "சந்தா">
-<!ENTITY  feedSubscribe.accesskey "u">
 
 <!ENTITY  permTab               "அனுமதிகள்">
 <!ENTITY  permTab.accesskey     "P">
-<!ENTITY  permUseDefault        "முன்னிருப்பைப் பயன்படுத்து">
-<!ENTITY  permAskAlways         "எப்போதும் கேள்">
-<!ENTITY  permAllow             "அனுமதி">
-<!ENTITY  permAllowSession      "அமர்வுக்கு அனுமதி">
-<!ENTITY  permHide              "மறை">
-<!ENTITY  permBlock             "தடு">
 <!ENTITY  permissionsFor        "அனுமதி:">
-<!ENTITY  permPlugins           "செருகுநிரல்களைச் செயல்படுத்து">
-
-<!ENTITY  permClearStorage           "சேமிப்பகத்தை துடை">
-<!ENTITY  permClearStorage.accesskey "C">
 
 <!ENTITY  securityTab           "பாதுகாப்பு">
 <!ENTITY  securityTab.accesskey "S">
@@ -81,6 +69,8 @@
 <!ENTITY  securityView.privacy.cookies                  "இந்த இணைய தளம் தகவல்களை (நினைவிகளை) என் கணினியில் சேமிக்கிறதா?">
 <!ENTITY  securityView.privacy.viewCookies              "நினைவிகளை பார்வையிடு">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.clearSiteData            "நினைவிகள் மற்றும் தள தரவை அழிக்கவும்">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "C">
 <!ENTITY  securityView.privacy.passwords                "இந்த இணைய தளத்தின் கடவுச்சொல்லை சேமித்துள்ளேனா?">
 <!ENTITY  securityView.privacy.viewPasswords            "சேமிக்கப்பட்ட கடவுச்சொற்களை பார்வையிடு">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
