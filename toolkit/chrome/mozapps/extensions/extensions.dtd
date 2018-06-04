@@ -38,7 +38,7 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "Slå på tryggingskontroll av utvidingsoppdateringar">
 
 <!-- categories / views -->
-<!ENTITY view.discover.label                  "Last ned utvidingar">
+<!ENTITY view.discover.label                  "Last ned tillegg">
 <!ENTITY view.recentUpdates.label             "Nyleg oppdatert">
 <!ENTITY view.availableUpdates.label          "Tilgjengelege oppdateringar">
 
