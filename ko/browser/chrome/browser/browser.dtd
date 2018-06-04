@@ -35,6 +35,9 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "다른 탭 모두 닫기">
 <!ENTITY  closeOtherTabs.accesskey           "o">
 
+<!ENTITY  closeSelectedTabs.label            "선택한 탭 닫기">
+<!ENTITY  closeSelectedTabs.accesskey        "S">
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -249,6 +252,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "홈">
 
+<!ENTITY homeButton.defaultPage.tooltip "&brandShortName; 홈 페이지">
+
 <!ENTITY bookmarksButton.label          "북마크">
 <!ENTITY bookmarksCmd.commandkey "b">
 
@@ -429,7 +434,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "더 많은 아이템 추가…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
+<!ENTITY customizeMenu.autoHideDownloadsButton.label "툴바에서 자동 숨김">
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
+<!ENTITY customizeMenu.manageExtension.label "부가 기능 관리">
+<!ENTITY customizeMenu.manageExtension.accesskey "E">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -790,6 +798,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.removeCertException.accesskey "R">
 
 <!ENTITY identity.moreInfoLinkText2 "더 보기">
+
+<!ENTITY identity.clearSiteData "쿠키와 사이트 데이타 삭제…">
 
 <!ENTITY identity.permissions "권한">
 <!ENTITY identity.permissionsEmpty "이 사이트를 특별한 권한으로 승인하지 않았습니다.">
