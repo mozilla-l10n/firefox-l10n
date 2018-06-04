@@ -13,8 +13,8 @@ permissions-block =
     .label = Bloquear
     .accesskey = B
 permissions-session =
-    .label = Excluir ao sair
-    .accesskey = x
+    .label = Permitir nesta sessão
+    .accesskey = n
 permissions-allow =
     .label = Permitir
     .accesskey = P
@@ -60,7 +60,7 @@ permissions-exceptions-tracking-protection-desc = Você desabilitou a proteção
 permissions-exceptions-cookie-window =
     .title = Exceções - Cookies e dados de sites
     .style = { permissions-window.style }
-permissions-exceptions-cookie-desc = Você pode especificar quais sites estão sempre ou nunca permitidos a usar cookies e dados de sites.  Digite o endereço exato do site que você deseja gerenciar e clique em Bloquear, Permitir por sessão ou Permitir.
+permissions-exceptions-cookie-desc = Você pode especificar quais sites estão sempre ou nunca permitidos a usar cookies e dados de sites.  Digite o endereço exato do site que você deseja gerenciar e clique em Bloquear, Permitir nesta sessão ou Permitir.
 
 ## Exceptions - Pop-ups
 
