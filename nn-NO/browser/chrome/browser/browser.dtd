@@ -1033,4 +1033,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
-<!ENTITY addonPostInstallMessage.label "Administrer utvidingane dine ved å klikke på <image class='addon-addon-icon'/> i menyen <image class='addon-toolbar-icon'/>.">
+<!ENTITY addonPostInstallMessage.label "Administrer tillegga dine ved å klikke på <image class='addon-addon-icon'/> i menyen <image class='addon-toolbar-icon'/>.">
