@@ -36,7 +36,7 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.accesskey           "m">
 
 <!ENTITY  closeSelectedTabs.label            "Sulje valitut välilehdet">
-<!ENTITY  closeSelectedTabs.accesskey        "v">
+<!ENTITY  closeSelectedTabs.accesskey        "a">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
