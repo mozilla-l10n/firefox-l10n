@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+do-not-track-description = నన్ను వెంబడించవద్దని ఆశిస్తున్నానని వెబ్‌సైట్లకు తెలిసేలా “ట్రాక్ చెయ్యవద్దు” అనే సూచనను పంపించు
 do-not-track-learn-more = ఇంకా తెలుసుకోండి
 do-not-track-option-default =
     .label = ట్రాకింగ్ సంరక్షణ వాడుతున్నప్పుడు మాత్రమే
