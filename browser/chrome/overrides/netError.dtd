@@ -148,7 +148,7 @@ de que o &brandShortName; esteja autorizado a acessar a web.</li>
 <!ENTITY errorReporting.learnMore "Saiba mais…">
 
 <!ENTITY remoteXUL.title "XUL remoto">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contate os responsáveis pelo site para informá-los deste problema.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Contate os responsáveis pelo site para informar este problema.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "Não foi possível conectar com segurança">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
