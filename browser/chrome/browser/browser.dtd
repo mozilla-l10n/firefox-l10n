@@ -35,6 +35,7 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "மீதி கீற்றுகளை மூடு">
 <!ENTITY  closeOtherTabs.accesskey           "o">
 
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -129,7 +130,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "அனைத்து கீற்றுகளையும் காட்டு">
 <!ENTITY showAllTabsCmd.accesskey "A">
 <!ENTITY toggleReaderMode.key "R">
-
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; உள்நுழை">
@@ -189,10 +189,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "இதர புத்தகக்குறிகள்">
 <!ENTITY mobileBookmarksCmd.label "கைபேசி புத்தகக்குறிகள்">
 <!ENTITY bookmarksToolbarChevron.tooltip "இன்னும் காண்பி">
-<!ENTITY showRecentlyBookmarked.label     "சமீபத்திய பு.குறிகளைக் காண்பி">
-<!ENTITY showRecentlyBookmarked.accesskey "h">
-<!ENTITY hideRecentlyBookmarked.label     "சமீபத்திய பு.குறிகளை மறை">
-<!ENTITY hideRecentlyBookmarked.accesskey "H">
 
 <!ENTITY backCmd.label                "பின்செல்">
 <!ENTITY backCmd.accesskey            "B">
@@ -234,7 +230,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "இப்பக்கத்தை மொழிபெயர்க்கவும்">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "பக்க மொழிபெயர்ப்புகளை நிர்வகி">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM மென்பொருள் பயன்பாட்டை நிர்வகிக்கவும்">
-
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "MIDI பலகத்தைத் திற">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "இந்த தளத்தில் நிழற்படக் கருவியை முடக்கியுள்ளீர்கள்.">
@@ -245,7 +240,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "நீங்கள் நிரந்தர சேமிப்பை இந்த தளத்தில் முடக்கியுள்ளீர்கள்.">
 <!ENTITY urlbar.popupBlocked.tooltip             "இத்தளத்தில் பாப்பப் அறிவுறுத்தல்களை முடக்கியுள்ளீர்கள்.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "திரை தரவு எடுப்பை இந்த தளத்தில் முடக்கியுள்ளீர்கள்.">
-
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "இத்தளத்தில் அடோப் பிளாஷ் செருகியை முடக்கியுள்ளீர்கள்.">
 <!ENTITY urlbar.midiBlocked.tooltip              "இந்த தளத்தில் MIDI அணுகலை முடக்கியுள்ளீர்கள்.">
 
@@ -255,6 +249,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "இல்லம்">
+
 
 <!ENTITY bookmarksButton.label          "புத்தகக்குறிகள்">
 <!ENTITY bookmarksCmd.commandkey "b">
@@ -395,7 +390,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "மற்ற கருவிகளிலிருந்து உங்கள் கீற்றுகளை இங்குப் பார்க்க விருப்பமா?">
-<!ENTITY appMenuRemoteTabs.openprefs.label "ஒத்திசைவு முன்னுரிமைகள்">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "ஒத்திசைவு முன்னுரிமைகளைத் திற">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "உங்கள் மற்ற கருவிகளிலிருந்து கீற்றுகளின் பட்டியலைப் பார்க்க உள்நுழை.">
 <!ENTITY appMenuRemoteTabs.unverified.label "உங்கள் கணக்கு சரிபார்க்கப்பட வேண்டும்.">
@@ -437,6 +431,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "மேலும் உருப்பிடிகளை சேர்க்க...">
 <!ENTITY customizeMenu.addMoreItems.accesskey "ச">
 
+
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
@@ -444,7 +439,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "சொல்லைத் தேடுங்கள் அல்லது முகவரியை உள்ளிடுங்கள்">
-<!ENTITY urlbar.placeholder3          "தேடல் தொடர் மற்றும் முகவரிகளை இங்கு உள்ளிடவும்">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "நீட்சிகள்:">
@@ -798,6 +792,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "கூடுதல் தகவலுக்கு...">
 
+
 <!ENTITY identity.permissions "அனுமதிகள்">
 <!ENTITY identity.permissionsEmpty "நீங்கள் இத்தளத்துக்கு சிறப்பு அனுமதிகள் எதையும் வழங்கவில்லை.">
 <!ENTITY identity.permissionsReloadHint "மாற்றங்களைச் செயற்படுத்த பக்கத்தை மீளேற்று.">
@@ -988,14 +983,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName; உலாவியை புதுப்பிக்க மீள்துவக்கு">
 
-<!ENTITY newTabControlled.message "நீங்கள் புதிய கீற்றைத் திறக்கும்போது ஒரு துணைநிரல் நீங்கள் பார்க்கும் பக்கத்தை மாற்றியது. நீங்கள் இந்த மாற்றத்தை விரும்பவில்லையெனில் அமைப்புகளை மீட்டமைக்கலாம்.">
-
 <!ENTITY newTabControlled.header.message "உங்களது புதிய கீற்று மாறிவிட்டது.">
 <!ENTITY newTabControlled.keepButton.label "மாற்றங்களை வைத்திரு">
 <!ENTITY newTabControlled.keepButton.accesskey "K">
-<!ENTITY newTabControlled.restoreButton.label "மீட்டமைப்பு அமைவுகள்">
-<!ENTITY newTabControlled.restoreButton.accesskey "R">
-
 <!ENTITY newTabControlled.disableButton.label "துணைநிரலை முடக்கவும்">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
@@ -1005,6 +995,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.keepButton.accesskey "K">
 <!ENTITY homepageControlled.disableButton.label "துணைநிரலை முடக்கவும்">
 <!ENTITY homepageControlled.disableButton.accesskey "D">
+
+<!ENTITY tabHideControlled.header.message "உங்கள் மறைக்கப்பட்ட கீற்றுகளை அணுகவும்">
+<!ENTITY tabHideControlled.keepButton.label "கீற்றுகளை மறைத்து வைக்கவும்">
+<!ENTITY tabHideControlled.keepButton.accesskey "K">
+<!ENTITY tabHideControlled.disableButton.label "துணைநிரலை முடக்கவும்">
+<!ENTITY tabHideControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "பக்க செயல்கள்">
 <!ENTITY pageAction.addToUrlbar.label "முகவரி பட்டையில் சேர்">
