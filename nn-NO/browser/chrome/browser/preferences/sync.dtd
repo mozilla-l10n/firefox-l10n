@@ -23,7 +23,7 @@
 <!ENTITY engine.prefs.label         "Innstillingar">
 <!ENTITY engine.prefs.accesskey     "n">
 <!ENTITY engine.prefs.title         "Generelle, personvern og sikkerheitsinnstillingar du har endra">
-<!ENTITY engine.addons.label        "Utvidingar">
+<!ENTITY engine.addons.label        "Tillegg">
 <!ENTITY engine.addons.title        "Utvidingar og tema for Firefox desktop">
 <!ENTITY engine.addons.accesskey    "U">
 <!ENTITY engine.addresses.label     "Adresser">
@@ -76,7 +76,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY cancelSetup.accesskey        "A">
 
 <!ENTITY signedOut.caption            "Ta med deg nettet">
-<!ENTITY signedOut.description        "Synkroniser bokmerke, historikk, faner, passord, utvidingar og innstillingar på tvers av alle einingane dine.">
+<!ENTITY signedOut.description        "Synkroniser bokmerke, historikk, faner, passord, tillegg og innstillingar på tvers av alle einingane dine.">
 <!ENTITY signedOut.accountBox.title   "Kople til ein &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create2 "Har du ikkje ein konto? Kom i gang">
 <!ENTITY signedOut.accountBox.create2.accesskey "H">
