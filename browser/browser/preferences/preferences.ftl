@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Enviar aos sites um sinal de “Não rastrear” informando que você não quer ser rastreado
-do-not-track-learn-more = Saber mais
+do-not-track-learn-more = Saiba mais
 do-not-track-option-default =
     .label = Somente quando usar a proteção contra rastreamento
 do-not-track-option-always =
@@ -173,7 +173,7 @@ show-tabs-in-taskbar =
 browser-containers-enabled =
     .label = Habilitar abas contêiner
     .accesskey = n
-browser-containers-learn-more = Saber mais
+browser-containers-learn-more = Saiba mais
 browser-containers-settings =
     .label = Configurações…
     .accesskey = i
@@ -299,11 +299,11 @@ performance-use-recommended-settings-checkbox =
     .label = Usar as configurações de desempenho recomendadas
     .accesskey = U
 performance-use-recommended-settings-desc = Essas configurações são adaptadas ao hardware e ao sistema operacional do computador.
-performance-settings-learn-more = Saber mais
+performance-settings-learn-more = Saiba mais
 performance-allow-hw-accel =
     .label = Usar aceleração de hardware quando disponível
     .accesskey = r
-performance-limit-content-process-option = Limite do processo de conteúdo
+performance-limit-content-process-option = Limite de processos de conteúdo
     .accesskey = L
 performance-limit-content-process-enabled-desc = Processos de conteúdo adicionais podem melhorar o desempenho ao usar várias abas, mas também usam mais memória.
 performance-limit-content-process-disabled-desc = A modificação do número de processos de conteúdo só é possível com o multiprocessamento do { -brand-short-name }. <a>Saiba como verificar se o multiprocessamento está habilitado</a>
@@ -336,7 +336,7 @@ browsing-search-on-start-typing =
 
 network-proxy-title = Proxy de Rede
 network-proxy-connection-description = Configure como o { -brand-short-name } se conecta à Internet.
-network-proxy-connection-learn-more = Saber mais
+network-proxy-connection-learn-more = Saiba mais
 network-proxy-connection-settings =
     .label = Configurar conexão…
     .accesskey = e
@@ -467,7 +467,7 @@ sync-disconnect =
 sync-manage-account = Gerenciar conta
     .accesskey = o
 sync-signedin-unverified = { $email } não foi verificado.
-sync-signedin-login-failure = Por favor, entrar para reconectar { $email }
+sync-signedin-login-failure = Entre para reconectar { $email }
 sync-resend-verification =
     .label = Reenviar verificação
     .accesskey = r
@@ -603,7 +603,7 @@ sitedata-total-size-calculating = Calculando o tamanho dos dados de sites e cach
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Seus cookies, dados de sites e cache armazenados estão atualmente usando { $value } { $unit } do espaço em disco.
-sitedata-learn-more = Saber mais
+sitedata-learn-more = Saiba mais
 sitedata-accept-cookies-option =
     .label = Aceitar cookies e dados de sites (recomendado)
     .accesskey = A
@@ -615,7 +615,7 @@ sitedata-keep-until = Manter até
 sitedata-keep-until-expire =
     .label = Expirarem
 sitedata-keep-until-closed =
-    .label = { -brand-short-name } está fechado
+    .label = { -brand-short-name } ser fechado
 sitedata-accept-third-party-desc = Aceitar cookies e dados de site de terceiros
     .accesskey = t
 sitedata-accept-third-party-always-option =
@@ -712,7 +712,7 @@ permissions-addon-exceptions =
 permissions-a11y-privacy-checkbox =
     .label = Impedir que os serviços de acessibilidade acessem o seu navegador
     .accesskey = a
-permissions-a11y-privacy-link = Saber mais
+permissions-a11y-privacy-link = Saiba mais
 
 ## Privacy Section - Data Collection
 
@@ -722,7 +722,7 @@ collection-privacy-notice = Nota sobre privacidade
 collection-health-report =
     .label = Permitir que o { -brand-short-name } envie dados técnicos e de interação para a { -vendor-short-name }
     .accesskey = r
-collection-health-report-link = Saber mais
+collection-health-report-link = Saiba mais
 collection-studies =
     .label = Permitir que o { -brand-short-name } instale e execute pesquisas
 collection-studies-link = Ver pesquisas do { -brand-short-name }
@@ -732,11 +732,11 @@ collection-health-report-disabled = O relatório de dados está desabilitado nes
 collection-browser-errors =
     .label = Permitir que o { -brand-short-name } envie relatórios de erro do navegador (incluindo mensagens de erro) para a { -vendor-short-name }
     .accesskey = b
-collection-browser-errors-link = Saber mais
+collection-browser-errors-link = Saiba mais
 collection-backlogged-crash-reports =
     .label = Permitir ao { -brand-short-name } enviar relatórios de travamento em seu nome
     .accesskey = e
-collection-backlogged-crash-reports-link = Saber mais
+collection-backlogged-crash-reports-link = Saiba mais
 
 ## Privacy Section - Security
 ##
@@ -748,7 +748,7 @@ security-browsing-protection = Conteúdo Enganoso e Proteção Contra Software P
 security-enable-safe-browsing =
     .label = Bloquear conteúdo perigoso e malicioso
     .accesskey = B
-security-enable-safe-browsing-link = Saber mais
+security-enable-safe-browsing-link = Saiba mais
 security-block-downloads =
     .label = Bloquear downloads perigosos
     .accesskey = d
