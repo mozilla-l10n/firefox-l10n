@@ -10,6 +10,6 @@
 <!ENTITY aboutDownloads.remove                     "Suprimir">
 <!ENTITY aboutDownloads.removeAll                  "O suprimir tot">
 <!ENTITY aboutDownloads.pause                      "Pausa">
-<!ENTITY aboutDownloads.resume                     "Tornar prene">
+<!ENTITY aboutDownloads.resume                     "Reprendre">
 <!ENTITY aboutDownloads.cancel                     "Anullar">
 <!ENTITY aboutDownloads.retry                      "Tornar ensajar">
