@@ -10,12 +10,12 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Lastar…">
-<!ENTITY listEmpty.installed.label            "Du har ingen utvidingar av denne typen installerte">
+<!ENTITY listEmpty.installed.label            "Du har ingen tillegg av denne typen installerte">
 <!ENTITY listEmpty.availableUpdates.label     "Ingen oppdateringar funne">
-<!ENTITY listEmpty.recentUpdates.label        "Du har ikkje nyleg oppdatert utvidingane">
+<!ENTITY listEmpty.recentUpdates.label        "Du har ikkje nyleg oppdatert tillegga">
 <!ENTITY listEmpty.findUpdates.label          "Sjå etter oppdateringar">
 <!ENTITY listEmpty.button.label               "Les meir om tillegg">
-<!ENTITY installAddonFromFile.label           "Installer utviding frå fil…">
+<!ENTITY installAddonFromFile.label           "Installer tillegg frå ei fil…">
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Verktøy for alle tillegg">
 
@@ -25,7 +25,7 @@
 
 <!ENTITY showUnsignedExtensions.button.label  "Nokre utvidingar kunne ikkje stadfestast">
 <!ENTITY showAllExtensions.button.label       "Vis alle utvidingar">
-<!ENTITY debugAddons.label                    "Debug tillegg">
+<!ENTITY debugAddons.label                    "Feilsøk tillegg">
 <!ENTITY debugAddons.accesskey                "D">
 
 <!-- global warnings -->
@@ -33,9 +33,9 @@
 <!ENTITY warning.checkcompatibility.label          "Kompatiblitetskonroll er avslegen. Du har kanskje ikkje-kompatible tillegg.">
 <!ENTITY warning.checkcompatibility.enable.label   "Slå på">
 <!ENTITY warning.checkcompatibility.enable.tooltip "Slå på kompatibilitetskontroll">
-<!ENTITY warning.updatesecurity.label              "Tryggingskontroll av utvidingsoppdateringar er slått av. Du er sårbar for skadelege oppdateringar.">
+<!ENTITY warning.updatesecurity.label              "Tryggingskontroll av tilleggsoppdateringar er slått av. Du er sårbar for skadelege oppdateringar.">
 <!ENTITY warning.updatesecurity.enable.label       "Slå på">
-<!ENTITY warning.updatesecurity.enable.tooltip     "Slå på tryggingskontroll av utvidingsoppdateringar">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Slå på tryggingskontroll av tilleggsoppdateringar">
 
 <!-- categories / views -->
 <!ENTITY view.discover.label                  "Last ned tillegg">
@@ -50,7 +50,7 @@
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
      checking. -->
-<!ENTITY updates.updateAddonsAutomatically.label     "Oppdater utvidingane automatisk">
+<!ENTITY updates.updateAddonsAutomatically.label     "Oppdater tillegga automatisk">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "O">
 <!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
      Specific addons can have custom update checking behaviors ("Manually",
