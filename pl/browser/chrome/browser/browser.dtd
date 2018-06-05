@@ -20,6 +20,8 @@
 <!ENTITY closeTabsToTheEnd.accesskey "p">
 <!ENTITY closeOtherTabs.label                "Zamknij inne karty" >
 <!ENTITY closeOtherTabs.accesskey            "i" >
+<!ENTITY closeSelectedTabs.label "Zamknij zaznaczone karty">
+<!ENTITY closeSelectedTabs.accesskey "Z">
 
 <!ENTITY pinTab.label "Przypnij kartę">
 <!ENTITY pinTab.accesskey "n">
