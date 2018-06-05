@@ -436,7 +436,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY customizeMenu.autoHideDownloadsButton.label "Skjul automatisk i verktøylinja">
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "a">
-<!ENTITY customizeMenu.manageExtension.label "Handter utvidingar">
+<!ENTITY customizeMenu.manageExtension.label "Handter tillegg">
 <!ENTITY customizeMenu.manageExtension.accesskey "u">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
@@ -994,7 +994,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.header.message "Den nye fana di er endra.">
 <!ENTITY newTabControlled.keepButton.label "Behald endringane">
 <!ENTITY newTabControlled.keepButton.accesskey "B">
-<!ENTITY newTabControlled.disableButton.label "Slå av utvidingar">
+<!ENTITY newTabControlled.disableButton.label "Slå av tillegg">
 <!ENTITY newTabControlled.disableButton.accesskey "S">
 
 <!ENTITY homepageControlled.message "Ei utviding har endra det du ser som di startside. Du kan stille tilbake til dine innstillingar om du ikkje vil ha denne endringa.">
@@ -1015,7 +1015,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.removeFromUrlbar.label "Fjern fra adresselinja">
 <!ENTITY pageAction.allowInUrlbar.label "Vis i adresselinja">
 <!ENTITY pageAction.disallowInUrlbar.label "Ikkje vis i adresselinja">
-<!ENTITY pageAction.manageExtension.label "Handter utvidingar…">
+<!ENTITY pageAction.manageExtension.label "Handter tillegg…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Send fane til ei eining">
 <!ENTITY sendToDevice.syncNotReady.label "Synkroniserer einingar…">
