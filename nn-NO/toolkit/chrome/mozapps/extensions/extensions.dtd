@@ -14,10 +14,10 @@
 <!ENTITY listEmpty.availableUpdates.label     "Ingen oppdateringar funne">
 <!ENTITY listEmpty.recentUpdates.label        "Du har ikkje nyleg oppdatert utvidingane">
 <!ENTITY listEmpty.findUpdates.label          "Sjå etter oppdateringar">
-<!ENTITY listEmpty.button.label               "Les meir om utvidingar">
+<!ENTITY listEmpty.button.label               "Les meir om tillegg">
 <!ENTITY installAddonFromFile.label           "Installer utviding frå fil…">
 <!ENTITY installAddonFromFile.accesskey       "I">
-<!ENTITY toolsMenu.tooltip                    "Verktøy for alle utvidingar">
+<!ENTITY toolsMenu.tooltip                    "Verktøy for alle tillegg">
 
 <!ENTITY getThemes.description                "Ønskjer du å tilpasse nettlesaren din?">
 <!ENTITY getThemes.learnMore                  "Vel mellom tusenvis av tema.">
@@ -25,12 +25,12 @@
 
 <!ENTITY showUnsignedExtensions.button.label  "Nokre utvidingar kunne ikkje stadfestast">
 <!ENTITY showAllExtensions.button.label       "Vis alle utvidingar">
-<!ENTITY debugAddons.label                    "Debug-utvidingar">
+<!ENTITY debugAddons.label                    "Debug tillegg">
 <!ENTITY debugAddons.accesskey                "D">
 
 <!-- global warnings -->
-<!ENTITY warning.safemode.label                    "Alle utvidingar er avslegne av trygg-modus.">
-<!ENTITY warning.checkcompatibility.label          "Kompatiblitetskonroll er avslegen. Du har kanskje ikkje-kompatible utvidingar.">
+<!ENTITY warning.safemode.label                    "Alle tillegg er avslegne av trygg-modus.">
+<!ENTITY warning.checkcompatibility.label          "Kompatiblitetskonroll er avslegen. Du har kanskje ikkje-kompatible tillegg.">
 <!ENTITY warning.checkcompatibility.enable.label   "Slå på">
 <!ENTITY warning.checkcompatibility.enable.tooltip "Slå på kompatibilitetskontroll">
 <!ENTITY warning.updatesecurity.label              "Tryggingskontroll av utvidingsoppdateringar er slått av. Du er sårbar for skadelege oppdateringar.">
@@ -119,7 +119,7 @@
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-<!ENTITY discover.title                       "Kva er utvidingar?">
+<!ENTITY discover.title                       "Kva er tillegg?">
 <!ENTITY discover.description2                "Tillegg er program som lèt deg tilpasse &brandShortName; med ekstra funksjonalitet eller stil. Prøv ein sidestolpe som sparar deg tid, vêrvarsling, eller eit tema som gjer &brandShortName; din.">
 <!ENTITY discover.footer                      "Når du er kopla til nettet vil dette vindauge innehalde nokre av dei beste og mest populære utvidingane som du kan teste.">
 
@@ -135,7 +135,7 @@
 <!ENTITY detail.updateDefault.label           "Standard">
 <!ENTITY detail.updateDefault.tooltip         "Installer oppdateringar automatisk berre om det er standard">
 <!ENTITY detail.updateAutomatic.label         "på">
-<!ENTITY detail.updateAutomatic.tooltip       "Installer utvidingar automatisk ">
+<!ENTITY detail.updateAutomatic.tooltip       "Installer oppdateringar automatisk">
 <!ENTITY detail.updateManual.label            "Av">
 <!ENTITY detail.updateManual.tooltip          "Ikkje installer oppdateringar automatisk">
 <!ENTITY detail.home                          "Heimeside">
@@ -222,7 +222,7 @@
 
 <!ENTITY setting.learnmore "Les meir…">
 
-<!ENTITY disabledUnsigned.heading "Nokre utvidingar er slått av">
+<!ENTITY disabledUnsigned.heading "Nokre tillegg er slått av">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
@@ -243,4 +243,4 @@
 <!ENTITY legacyWarning.showLegacy "Vis forelda utvidingar">
 <!ENTITY legacyExtensions.title "Forelda utvidingar">
 <!ENTITY legacyExtensions.description "Desse utvidingane oppfyller ikkje gjeldande standardar i &brandShortName; og er difor slått av.">
-<!ENTITY legacyExtensions.learnMore "Les meir om endringar av utvidingar">
+<!ENTITY legacyExtensions.learnMore "Les meir om endringar av tillegg">

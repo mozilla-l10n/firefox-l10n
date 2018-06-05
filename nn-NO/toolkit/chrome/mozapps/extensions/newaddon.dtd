@@ -4,7 +4,7 @@
 
 <!ENTITY title           "Installer utviding">
 <!ENTITY intro           "Eit anna program på datamaskina ønskjer å endre &brandShortName; med følgande utviding:">
-<!ENTITY warning         "Installer utvidingar berre frå utgjevarar du stolar på.">
+<!ENTITY warning         "Installer berre tillegg frå utgjevarar du stolar på.">
 <!ENTITY allow           "Tillat denne installeringa">
 <!ENTITY later           "Du kan alltids endre meining seinare ved å opne Tilleggs-handteraren">
 <!ENTITY continue        "Fortset">
