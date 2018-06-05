@@ -7,7 +7,6 @@
 <!ENTITY restartRequired.header "Desculpe. Nós só precisamos fazer uma pequena coisa para continuar.">
 <!ENTITY restartRequired.description "
 <p>Acabamos de instalar uma atualização em segundo plano. Clique em Reiniciar &brandShortName; para aplicar a mudança.</p>
-<p>Vamos restaurar todas as suas páginas, janelas e guias depois, para que você possa continuar o mais rápido possível.</p>
-">
+<p>Todas as suas páginas, janelas e abas serão restauradas, para você continuar o mais rápido possível.</p>">
 
 <!ENTITY restartButton.label "Reiniciar o &brandShortName;">
