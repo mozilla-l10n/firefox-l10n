@@ -39,7 +39,7 @@ available. -->
 <!ENTITY siteDataSettings1.accesskey     "G">
 <!ENTITY siteDataLearnMoreLink.label     "Saiba mais">
 
-<!ENTITY updateTab.label                 "Atualizações">
+<!ENTITY updateTab.label                 "Atualização">
 
 <!ENTITY certificateTab.label            "Certificados">
 <!ENTITY certPersonal2.description       "Quando um servidor solicita seu certificado pessoal">

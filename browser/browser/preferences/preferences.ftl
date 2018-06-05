@@ -269,7 +269,7 @@ play-drm-content =
     .accesskey = R
 play-drm-content-learn-more = Saiba mais
 update-application-title = Atualizações do { -brand-short-name }
-update-application-description = Manter { -brand-short-name } atualizado para uma melhor performance, estabilidade e segurança.
+update-application-description = Manter o { -brand-short-name } atualizado para melhor desempenho, estabilidade e segurança.
 update-application-info = Versão { $version } <a>Novidades</a>
 update-application-version = Versão { $version } <a data-l10n-name="learn-more">Novidades</a>
 update-history =
@@ -286,7 +286,7 @@ update-application-manual =
     .label = Nunca busque atualizações (não recomendado)
     .accesskey = N
 update-application-use-service =
-    .label = Use um serviço para instalar atualizações em segundo plano
+    .label = Usar um serviço em segundo plano para instalar atualizações
     .accesskey = s
 update-enable-search-update =
     .label = Atualize automaticamente os mecanismos de pesquisa
