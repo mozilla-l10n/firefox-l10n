@@ -582,6 +582,9 @@ history-private-browsing-permanent =
 history-remember-option =
     .label = Pamätať si históriu prehliadania a prevzatých súborov
     .accesskey = h
+history-remember-browser-option =
+    .label = Pamätať si históriu prehliadania a prevzatých súborov
+    .accesskey = b
 history-remember-search-option =
     .label = Pamätať si údaje zadané do formulárov a vyhľadávacieho panela
     .accesskey = f
@@ -723,6 +726,9 @@ collection-health-report =
     .label = Povoliť aplikácii { -brand-short-name } odosielať Mozille technické údaje a údaje o interakciách
     .accesskey = o
 collection-health-report-link = Ďalšie informácie
+collection-studies =
+    .label = Povoliť aplikácii { -brand-short-name } inštalovať a spúšťať štúdie
+collection-studies-link = Zobraziť štúdie aplikácie { -brand-short-name }
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Odosielanie údajov je v konfigurácii tohto zostavenia zakázané
