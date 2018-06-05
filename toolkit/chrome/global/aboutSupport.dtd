@@ -137,7 +137,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.sandboxSyscallArgs "Argument">
 
 <!ENTITY aboutSupport.safeModeTitle "Prøv trygg modus">
-<!ENTITY aboutSupport.restartInSafeMode.label "Start på nytt utan utvidingar…">
+<!ENTITY aboutSupport.restartInSafeMode.label "Start på nytt utan tillegg…">
 
 <!ENTITY aboutSupport.graphicsFeaturesTitle "Funksjonar">
 <!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnostikk">
