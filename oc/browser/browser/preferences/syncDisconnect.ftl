@@ -5,6 +5,8 @@
 sync-disconnect-dialog =
     .title = Desconnectar { -sync-brand-short-name } ?
     .style = width: 36em; min-height: 35em;
+sync-disconnect-remove-sync-caption = Suprimir las donadas de { -sync-brand-name }
+sync-disconnect-remove-sync-data = Marcapaginas, istoric, senhals, etc.
 sync-disconnect-cancel =
     .label = Anullar
     .accesskey = n
