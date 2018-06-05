@@ -94,7 +94,7 @@ extension-controlled-new-tab-url = Uma extensão, <img data-l10n-name="icon"/> {
 extension-controlled-default-search = Uma extensão, <img data-l10n-name="icon"/> { $name }, definiu o seu mecanismo de pesquisa padrão.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
-extension-controlled-privacy-containers = Uma extensão, <img data-l10n-name="icon"/> { $name }, requer aba contêiner.
+extension-controlled-privacy-containers = Uma extensão requer abas contêiner: <img data-l10n-name="icon"/> { $name }.
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = Uma extensão, <img data-l10n-name="icon"/> { $name }, está controlando sua proteção contra rastreamento.
@@ -180,8 +180,8 @@ browser-containers-settings =
 containers-disable-alert-title = Fechar todas as abas contêiner?
 containers-disable-alert-desc =
     { $tabCount ->
-        [one] Se você desabilitar a Aba Contêiner agora, { $tabCount } aba contêiner será fechada. Tem certeza de que deseja desativar a Aba Contêiner?
-       *[other] Se você desabilitar a Aba Contêiner agora, { $tabCount } abas contêiner serão fechadas. Tem certeza de que deseja desativar a Aba Contêiner?
+        [one] Se desativar Abas Contêiner agora, { $tabCount } aba contêiner será fechada. Tem certeza que deseja desativar Abas Contêiner?
+       *[other] Se desativar Abas Contêiner agora, { $tabCount } abas contêiner serão fechadas. Tem certeza que deseja desativar Abas Contêiner?
     }
 containers-disable-alert-ok-button =
     { $tabCount ->
@@ -194,8 +194,8 @@ containers-remove-alert-title = Remover este contêiner?
 #   $count (Number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
-        [one] Se você remover este Contêiner agora, { $count } aba contêiner será fechada. Você tem certeza que deseja remover este Contêiner?
-       *[other] Se você remover este Contêiner agora, { $count } abas contêiner serão fechadas. Você tem certeza que deseja remover este Contêiner?
+        [one] Se você remover este Contêiner agora, { $count } aba contêiner será fechada. Tem certeza que deseja remover este Contêiner?
+       *[other] Se você remover este Contêiner agora, { $count } abas contêiner serão fechadas. Tem certeza que deseja remover este Contêiner?
     }
 containers-remove-ok-button = Remover este contêiner
 containers-remove-cancel-button = Não remover este contêiner
