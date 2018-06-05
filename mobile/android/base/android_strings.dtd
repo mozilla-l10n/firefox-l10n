@@ -73,9 +73,11 @@
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "Utiliser le lecteur de QR codes pour effectuer une recherche ou saisir une adresse">
 <!-- Localization note (url_bar_mic_text2) : This text will be
      heard by non-visual users when the focus is on the Microphone
      icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "Utiliser le microphone pour effectuer une recherche ou saisir une adresse">
 
 <!ENTITY bookmark "Marquer cette page">
 <!ENTITY bookmark_remove "Supprimer le marque-page">
