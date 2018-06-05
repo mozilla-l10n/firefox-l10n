@@ -48,14 +48,12 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Zamknij
-
 feature-enable-requires-restart = Konieczne jest ponowne uruchomienie programu { -brand-short-name }, aby włączyć tę funkcję.
 feature-disable-requires-restart = Konieczne jest ponowne uruchomienie programu { -brand-short-name }, aby wyłączyć tę funkcję.
 should-restart-title = Ponowne uruchamianie programu { -brand-short-name }
 should-restart-ok = Uruchom ponownie
 cancel-no-restart-button = Anuluj
 restart-later = Później
-
 extension-controlled-homepage-override = Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> kontroluje stronę startową.
 extension-controlled-new-tab-url = Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> kontroluje stronę nowej karty.
 extension-controlled-default-search = Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> zmieniło domyślną wyszukiwarkę.
@@ -149,7 +147,6 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Usuń
 containers-remove-cancel-button = Nie usuwaj
-
 language-and-appearance-header = Język i wygląd
 fonts-and-colors-header = Czcionki i kolory
 default-font = Domyślna czcionka:
@@ -177,7 +174,6 @@ translate-exceptions =
 check-user-spelling =
     .label = Sprawdzaj pisownię podczas wprowadzania tekstu
     .accesskey = i
-
 files-and-applications-title = Pliki i aplikacje
 download-header = Pobieranie
 download-save-to =
@@ -235,7 +231,6 @@ update-application-use-service =
 update-enable-search-update =
     .label = Automatyczne aktualizacje wyszukiwarek
     .accesskey = z
-
 performance-title = Wydajność
 performance-use-recommended-settings-checkbox =
     .label = Zalecane ustawienia wydajności.
@@ -252,7 +247,6 @@ performance-limit-content-process-disabled-desc = Zmiana liczby procesów jest m
 performance-limit-content-process-blocked-desc = Zmiana liczby procesów jest możliwa, jeśli { -brand-short-name } został uruchomiony z obsługą wielu procesów. <a data-l10n-name="learn-more">Jak sprawdzić, czy obsługa wielu procesów jest włączona</a>?
 performance-default-content-process-count =
     .label = { $num } (domyślnie)
-
 browsing-title = Przeglądanie
 browsing-use-autoscroll =
     .label = Używaj automatycznego przewijania
@@ -269,14 +263,12 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Rozpoczynaj wyszukiwanie podczas wpisywania tekstu
     .accesskey = R
-
 network-proxy-title = Proxy sieciowe
 network-proxy-connection-description = Konfiguruj, jak { -brand-short-name } ma się łączyć z Internetem.
 network-proxy-connection-learn-more = Więcej informacji
 network-proxy-connection-settings =
     .label = Ustawienia…
     .accesskey = U
-
 home-new-windows-tabs-header = Nowe okna i karty
 home-new-windows-tabs-description2 = Wybierz, co ma być wyświetlane przy otwieraniu strony startowej, nowych okien i kart.
 
@@ -570,6 +562,12 @@ permissions-notification-link = Więcej informacji
 permissions-notification-pause =
     .label = Wstrzymaj powiadomienia do czasu ponownego uruchomienia Firefoksa
     .accesskey = W
+permissions-block-autoplay-media=
+  .label=Blokowanie automatycznego odtwarzania treści z dźwiękiem przez strony
+  .accesskey=B
+permissions-block-autoplay-media-exceptions=
+  .label=Wyjątki…
+  .accesskey=W
 permissions-block-popups =
     .label = Blokowanie wyskakujących okien
     .accesskey = B
