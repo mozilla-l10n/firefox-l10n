@@ -1015,7 +1015,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.removeFromUrlbar.label "Fjern fra adresselinja">
 <!ENTITY pageAction.allowInUrlbar.label "Vis i adresselinja">
 <!ENTITY pageAction.disallowInUrlbar.label "Ikkje vis i adresselinja">
-<!ENTITY pageAction.manageExtension.label "Handter tillegg…">
+<!ENTITY pageAction.manageExtension.label "Handter utviding…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Send fane til ei eining">
 <!ENTITY sendToDevice.syncNotReady.label "Synkroniserer einingar…">
