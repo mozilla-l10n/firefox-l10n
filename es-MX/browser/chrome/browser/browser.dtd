@@ -36,6 +36,7 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.accesskey           "o">
 
 <!ENTITY  closeSelectedTabs.label            "Cerrar pestañas seleccionadas">
+<!ENTITY  closeSelectedTabs.accesskey        "S">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -435,6 +436,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY customizeMenu.autoHideDownloadsButton.label "Autoocultar en la barra de herramientas">
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
+<!ENTITY customizeMenu.manageExtension.label "Gestionar extensión">
+<!ENTITY customizeMenu.manageExtension.accesskey "E">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -796,6 +799,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "Más información">
 
+<!ENTITY identity.clearSiteData "Limpiar cookies y datos del sitio…">
 
 <!ENTITY identity.permissions "Permisos">
 <!ENTITY identity.permissionsEmpty "No tienes permitido en este sitio web ningún permiso especial.">
