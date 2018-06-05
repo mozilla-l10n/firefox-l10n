@@ -5,7 +5,7 @@
 serviceworker-list-header = Service worker
 serviceworker-list-aboutdebugging = Apri <a>about:debugging</a> per service worker da altri domini
 serviceworker-worker-unregister = Deregistra
-serviceworker-worker-debug = Debug
+serviceworker-worker-debug = Avvia debug
   .title = Il debug è disponibile solo per service worker in esecuzione
 serviceworker-worker-start = Avvia
 serviceworker-worker-updated = Aggiornato il <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
