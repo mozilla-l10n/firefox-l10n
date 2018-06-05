@@ -706,6 +706,11 @@ permissions-a11y-privacy-link = Máis información
 ## Privacy Section - Data Collection
 
 collection-header = Recolección e uso de datos do { -brand-short-name }
+collection-description = Esforzámonos para darlle opcións e recoller só aquilo que precisamos para prover e perfeccionar { -brand-short-name } para todo o mundo. Sempre lle solicitaremos permiso antes de recoller información persoal.
+collection-privacy-notice = Política de privacidade
+collection-health-report =
+    .label = Permitir a { -brand-short-name } o envío de datos técnicos e de interacción a { -vendor-short-name }
+    .accesskey = r
 collection-health-report-link = Obter máis información
 collection-backlogged-crash-reports-link = Obter máis información
 
