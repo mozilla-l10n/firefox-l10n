@@ -60,7 +60,7 @@ Opne i JSON-visar
 <!ENTITY aboutTelemetry.telemetryLogSection "  Telemetri-logg">
 <!ENTITY aboutTelemetry.slowSqlSection "  Trege SQL-uttrykk">
 <!ENTITY aboutTelemetry.chromeHangsSection "  Nettlesarheng">
-<!ENTITY aboutTelemetry.addonDetailsSection "  Utvidingsdetaljar">
+<!ENTITY aboutTelemetry.addonDetailsSection "Tilleggsdetaljar">
 <!ENTITY aboutTelemetry.capturedStacksSection "
   Fanga stakkar
 ">
