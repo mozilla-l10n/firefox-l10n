@@ -132,8 +132,8 @@ get-started-configured = Abrir preferências { -sync-brand-short-name }
 always-check-default =
     .label = Sempre verificar se o { -brand-short-name } é o navegador padrão
     .accesskey = S
-is-default = O { -brand-short-name } é o seu navegador padrão
-is-not-default = O { -brand-short-name } não é o seu navegador padrão
+is-default = { -brand-short-name } é o seu navegador padrão
+is-not-default = { -brand-short-name } não é o seu navegador padrão
 set-as-my-default-browser =
     .label = Tornar padrão…
     .accesskey = D
@@ -289,7 +289,7 @@ update-application-use-service =
     .label = Usar um serviço em segundo plano para instalar atualizações
     .accesskey = s
 update-enable-search-update =
-    .label = Atualize automaticamente os mecanismos de pesquisa
+    .label = Atualizar automaticamente os mecanismos de pesquisa
     .accesskey = e
 
 ## General Section - Performance
@@ -298,7 +298,7 @@ performance-title = Desempenho
 performance-use-recommended-settings-checkbox =
     .label = Usar as configurações de desempenho recomendadas
     .accesskey = U
-performance-use-recommended-settings-desc = Essas configurações são adaptadas ao hardware e ao sistema operacional do computador.
+performance-use-recommended-settings-desc = Essas configurações são adaptadas ao hardware e sistema operacional do seu computador.
 performance-settings-learn-more = Saiba mais
 performance-allow-hw-accel =
     .label = Usar aceleração de hardware quando disponível
@@ -307,7 +307,7 @@ performance-limit-content-process-option = Limite de processos de conteúdo
     .accesskey = L
 performance-limit-content-process-enabled-desc = Processos de conteúdo adicionais podem melhorar o desempenho ao usar várias abas, mas também usam mais memória.
 performance-limit-content-process-disabled-desc = A modificação do número de processos de conteúdo só é possível com o multiprocessamento do { -brand-short-name }. <a>Saiba como verificar se o multiprocessamento está habilitado</a>
-performance-limit-content-process-blocked-desc = A modificação do número de processos de conteúdo só é possível com o processo múltiplo do { -brand-short-name }. <a data-l10n-name="learn-more">Saiba como verificar se o processo múltiplo está habilitado</a>
+performance-limit-content-process-blocked-desc = A modificação do número de processos de conteúdo só é possível com o multiprocessamento do { -brand-short-name }. <a data-l10n-name="learn-more">Saiba como verificar se o multiprocessamento está habilitado</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -326,10 +326,10 @@ browsing-use-onscreen-keyboard =
     .label = Mostrar um teclado sensível ao toque quando necessário
     .accesskey = t
 browsing-use-cursor-navigation =
-    .label = Sempre usar as teclas de cursor para navegar nas páginas
+    .label = Sempre usar as teclas de cursor para navegar dentro das páginas
     .accesskey = c
 browsing-search-on-start-typing =
-    .label = Pesquisar texto quando começa a digitar
+    .label = Procurar texto quando começar a digitar
     .accesskey = x
 
 ## General Section - Proxy
