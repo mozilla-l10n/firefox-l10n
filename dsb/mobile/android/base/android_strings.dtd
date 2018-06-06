@@ -70,6 +70,15 @@
 
 <!ENTITY url_bar_default_text2 "Adresu pytaś abo zapódaś">
 
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "Wužywajśo swój QR-cytak, aby pytał abo zapódał adresu">
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "Wužywajśo swój mikrofon, aby pytał abo zapodał adresu">
+
 <!ENTITY bookmark "Cytańske znamje">
 <!ENTITY bookmark_remove "Cytańske znamje wótpóraś">
 <!ENTITY bookmark_added "Cytańske znamje pśidane">
