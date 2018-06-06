@@ -10,7 +10,7 @@
 <!ENTITY firstrun_privacy_subtext "Privat nettlesing med sporingsvern som blokkerer sporfølgjarar medan du surfar og slettar all historikk når du er ferdig med å surfe.">
 <!ENTITY firstrun_panel_title_customize "Tilpass">
 <!ENTITY firstrun_customize_message "Gjer &brandShortName; til din eigen.">
-<!ENTITY firstrun_customize_subtext "Tilpass &brandShortName; med utvidingar. Blokkér annonsar, legg til funksjonar eller vel eit nytt tema som reflekterer personlegdommen din.">
+<!ENTITY firstrun_customize_subtext "Tilpass &brandShortName; med tillegg. Blokkér annonsar, legg til funksjonar eller vel eit nytt tema som reflekterer personlegdommen din.">
 <!ENTITY firstrun_bookmarks_title "Historikk">
 <!ENTITY firstrun_bookmarks_message "Dine favorittar, der dei er viktigast">
 <!ENTITY firstrun_bookmarks_subtext "Få treff frå bokmerka dine og historikk, når du søkjer.">
@@ -226,7 +226,7 @@
 <!ENTITY pref_category_home "Heim">
 <!ENTITY pref_category_home_summary "Tilpasse startsida.">
 <!ENTITY pref_category_home_panels "Panel">
-<!ENTITY pref_category_home_add_ons "Utvidingar">
+<!ENTITY pref_category_home_add_ons "Tillegg">
 <!ENTITY pref_home_updates2 "Innhaldsoppdateringar">
 <!ENTITY pref_home_updates_enabled "Påslått">
 <!ENTITY pref_home_updates_wifi "Berre med Wi-Fi">
@@ -460,7 +460,7 @@
 
 <!ENTITY quit "Avslutt">
 
-<!ENTITY addons "Utvidingar">
+<!ENTITY addons "Tillegg">
 <!ENTITY logins "Innloggingar">
 <!ENTITY downloads "Nedlastingar">
 <!ENTITY char_encoding "Teiknkoding">
@@ -796,7 +796,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
-<!ENTITY restrictable_feature_addons_installation "Utvidingar">
+<!ENTITY restrictable_feature_addons_installation "Tillegg">
 <!ENTITY restrictable_feature_addons_installation_description "Legg til funksjonar og funksjonalitet i Firefox. Merk: Utvidingar kan slå av diverse avgrensingar">
 <!ENTITY restrictable_feature_private_browsing "Privat nettlesing">
 <!ENTITY restrictable_feature_private_browsing_description "Tillèt familiemedlemmar å surfe utan å lagre informasjon om nettstadar eller sider dei besøker.">
