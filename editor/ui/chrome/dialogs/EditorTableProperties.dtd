@@ -46,7 +46,7 @@
 <!ENTITY cellSelectPrevious.accessKey     "e">
 <!ENTITY applyBeforeChange.label          "Aktuálne zmeny sa prejavia pri zmene výberu.">
 <!ENTITY cellContentAlignment.label       "Zarovnanie obsahu">
-<!ENTITY cellHorizontal.label             "Horizontálne:">
+<!ENTITY cellHorizontal.label             "Vodorovné:">
 <!ENTITY cellHorizontal.accessKey         "H">
 <!ENTITY cellVertical.label               "Zvislé:">
 <!ENTITY cellVertical.accessKey           "V">
