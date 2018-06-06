@@ -585,6 +585,9 @@ history-private-browsing-permanent =
 history-remember-option =
     .label = Cuimhnich an eachdraidh brabhsaidh 's luchdaidh agam
     .accesskey = b
+history-remember-browser-option =
+    .label = Cuimhnich an eachdraidh brabhsaidh 's luchdaidh
+    .accesskey = b
 history-remember-search-option =
     .label = Cuimhnich eachdraidh nan lorg is nam foirmichean
     .accesskey = f
@@ -726,6 +729,9 @@ collection-health-report =
     .label = Leig le { -brand-short-name } dàta teicnigeach is dàta mu eadar-ghabhail a chur gu { -vendor-short-name }
     .accesskey = r
 collection-health-report-link = Barrachd fiosrachaidh
+collection-studies =
+    .label = Leig le { -brand-short-name } obair-rannsachaidh a stàladh is a ruith
+collection-studies-link = Seall obair-rannsachaidh { -brand-short-name }
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Tha aithriseadh dàta à comas airson rèiteachadh a’ bhuild seo

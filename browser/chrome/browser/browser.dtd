@@ -35,6 +35,9 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "Dùin na tabaichean eile">
 <!ENTITY  closeOtherTabs.accesskey           "D">
 
+<!ENTITY  closeSelectedTabs.label            "Dùin na tabaichean a thagh thu">
+<!ENTITY  closeSelectedTabs.accesskey        "S">
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -249,6 +252,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Dhachaigh">
 
+<!ENTITY homeButton.defaultPage.tooltip "Duilleag-dhachaigh &brandShortName;">
+
 <!ENTITY bookmarksButton.label          "Comharran-lìn">
 <!ENTITY bookmarksCmd.commandkey "b">
 
@@ -428,6 +433,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromMenu.accesskey "T">
 <!ENTITY customizeMenu.addMoreItems.label "Cuir barrachd rudan ris…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "a">
+
+<!ENTITY customizeMenu.autoHideDownloadsButton.label "Falaich gu fèin-obrachail air bàr nan inneal">
+<!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
+<!ENTITY customizeMenu.manageExtension.label "Stiùirich an leudachan">
+<!ENTITY customizeMenu.manageExtension.accesskey "E">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -789,6 +799,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "Barrachd fiosrachaidh">
 
+<!ENTITY identity.clearSiteData "Falamhaich na briosgaidean is dàta nan làrach...">
+
 <!ENTITY identity.permissions "Ceadan">
 <!ENTITY identity.permissionsEmpty "Cha dug thu cead sònraichte sam bith dhan làrach seo.">
 <!ENTITY identity.permissionsReloadHint "Dh’fhaoidte gum bi agad ris an duilleag ath-luchdadh mus bi na h-atharraichean an sàs.">
@@ -991,6 +1003,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.keepButton.accesskey "K">
 <!ENTITY homepageControlled.disableButton.label "Cuir an leudachan à comas">
 <!ENTITY homepageControlled.disableButton.accesskey "D">
+
+<!ENTITY tabHideControlled.header.message "Faigh cothrom air na tabaichean falaichte agad">
+<!ENTITY tabHideControlled.keepButton.label "Cum na tabaichean falaichte">
+<!ENTITY tabHideControlled.keepButton.accesskey "K">
+<!ENTITY tabHideControlled.disableButton.label "Cuir an leudachan à comas">
+<!ENTITY tabHideControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "Gnìomhan na duilleige">
 <!ENTITY pageAction.addToUrlbar.label "Cuir ri bàr an t-seòlaidh">
