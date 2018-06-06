@@ -512,10 +512,10 @@ sync-engine-prefs =
     .label =
         { PLATFORM() ->
             [windows] Možnosti
-           *[other] Nastavenia
+           *[other] Možnosti
         }
     .tooltiptext = Možnosti v sekciách Všeobecné, Súkromie a bezpečnosť, ktoré boli zmenené
-    .accesskey = N
+    .accesskey = s
 sync-device-name-header = Názov zariadenia
 sync-device-name-change =
     .label = Zmeniť názov zariadenia…
