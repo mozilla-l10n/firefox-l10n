@@ -799,7 +799,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "Více informací">
 
-<!ENTITY identity.clearSiteData "Vymazat cookies a data stránek…">
+<!ENTITY identity.clearSiteData "Vymazat cookies a data stránky…">
 
 <!ENTITY identity.permissions "Oprávnění">
 <!ENTITY identity.permissionsEmpty "Tento server nemá žádná zvláštní oprávnění.">
