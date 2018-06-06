@@ -34,7 +34,7 @@
 <!ENTITY insertAnchorCmd.accesskey "k">
 <!ENTITY insertImageCmd.label "Obrázok…">
 <!ENTITY insertImageCmd.accesskey "b">
-<!ENTITY insertHLineCmd.label "Horizontálna čiara">
+<!ENTITY insertHLineCmd.label "Vodorovná čiara">
 <!ENTITY insertHLineCmd.accesskey "r">
 <!ENTITY insertTableCmd.label "Tabuľka…">
 <!ENTITY insertTableCmd.accesskey "t">
@@ -297,7 +297,7 @@
 <!ENTITY imageToolbarCmd.label "Obrázok">
 <!ENTITY imageToolbarCmd.tooltip "Upraviť vlastnosti označeného obrázka alebo vložiť nový">
 <!ENTITY hruleToolbarCmd.label "Čiara">
-<!ENTITY hruleToolbarCmd.tooltip "Upraviť označenú horizontálnu čiaru alebo vložiť novú">
+<!ENTITY hruleToolbarCmd.tooltip "Vloží vodorovnú čiaru alebo upraví označenú">
 <!ENTITY tableToolbarCmd.label "Tabuľka">
 <!ENTITY tableToolbarCmd.tooltip "Upraviť vybranú tabuľku alebo vložiť novú">
 <!ENTITY linkToolbarCmd.label "Odkaz">
@@ -321,7 +321,7 @@
 <!ENTITY outdentToolbarCmd.tooltip "Odsadiť text doľava">
 <!ENTITY indentToolbarCmd.tooltip "Odsadiť text doprava">
 <!ENTITY AlignPopupButton.tooltip "Nastaviť zarovnanie textu">
-<!ENTITY InsertPopupButton.tooltip "Vložiť odkaz, kotvu, obrázok, horizontálnu čiaru alebo tabuľku">
+<!ENTITY InsertPopupButton.tooltip "Vložií odkaz, kotvu, obrázok, vodorovnú čiaru alebo tabuľku">
 <!ENTITY alignLeftButton.tooltip "Zarovnať text podľa ľavého okraja">
 <!ENTITY alignCenterButton.tooltip "Zarovnať text na stred">
 <!ENTITY alignRightButton.tooltip "Zarovnať text podľa pravého okraja">
