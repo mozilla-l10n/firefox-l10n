@@ -306,8 +306,8 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Limite de processos de conteúdo
     .accesskey = L
 performance-limit-content-process-enabled-desc = Processos de conteúdo adicionais podem melhorar o desempenho ao usar várias abas, mas também usam mais memória.
-performance-limit-content-process-disabled-desc = A modificação do número de processos de conteúdo só é possível com o multiprocessamento do { -brand-short-name }. <a>Saiba como verificar se o multiprocessamento está habilitado</a>
-performance-limit-content-process-blocked-desc = A modificação do número de processos de conteúdo só é possível com o multiprocessamento do { -brand-short-name }. <a data-l10n-name="learn-more">Saiba como verificar se o multiprocessamento está habilitado</a>
+performance-limit-content-process-disabled-desc = Modificar o número de processos de conteúdo só é possível com o multiprocessamento do { -brand-short-name }. <a>Saiba como verificar se o multiprocessamento está ativado</a>
+performance-limit-content-process-blocked-desc = Modificar o número de processos de conteúdo só é possível com o multiprocessamento do { -brand-short-name }. <a data-l10n-name="learn-more">Saiba como verificar se o multiprocessamento está ativado</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =

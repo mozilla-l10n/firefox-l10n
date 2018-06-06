@@ -39,16 +39,12 @@ Abri no visualizador de JSON
 <!ENTITY aboutTelemetry.environmentDataSection "  Dados do ambiente">
 <!ENTITY aboutTelemetry.sessionInfoSection "
   Informações da sessão">
-<!ENTITY aboutTelemetry.scalarsSection "
-  Escalares">
-<!ENTITY aboutTelemetry.keyedScalarsSection "
-  Keyed Scalars
-">
-<!ENTITY aboutTelemetry.histogramsSection "  Histogramas">
-<!ENTITY aboutTelemetry.keyedHistogramsSection "  Histogramas nomeados">
-<!ENTITY aboutTelemetry.eventsSection "
-  Eventos">
-<!ENTITY aboutTelemetry.simpleMeasurementsSection "  Medições simples">
+<!ENTITY aboutTelemetry.scalarsSection "Escalares">
+<!ENTITY aboutTelemetry.keyedScalarsSection "Escalares nomeados">
+<!ENTITY aboutTelemetry.histogramsSection "Histogramas">
+<!ENTITY aboutTelemetry.keyedHistogramsSection "Histogramas nomeados">
+<!ENTITY aboutTelemetry.eventsSection "Eventos">
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "Medições simples">
 <!ENTITY aboutTelemetry.telemetryLogSection "  Registro de telemetria">
 <!ENTITY aboutTelemetry.slowSqlSection "  Instruções SQL lentas">
 <!ENTITY aboutTelemetry.chromeHangsSection "  Congelamentos do navegador">
