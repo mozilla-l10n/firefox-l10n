@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from am-server-top.xul -->
 
+<!-- extracted from am-server-top.xul -->
 
 <!ENTITY messageStorage.label "Meldingslagring">
 <!ENTITY securitySettings.label "Tryggingsinnstillingar">
@@ -15,7 +15,7 @@
 <!ENTITY port.label "Port:">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "Standard:">
-<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammar dependency
         For example, in Japanese cases:
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
@@ -25,7 +25,7 @@
 <!ENTITY biffEnd.label "minutt">
 <!ENTITY useIdleNotifications.label "Tillat umiddelbare tenarvarsel når nye meldingar vert mottekne">
 <!ENTITY useIdleNotifications.accesskey "T">
-<!ENTITY connectionSecurity.label "Tilkoplingstryggleik:">
+<!ENTITY connectionSecurity.label "Tilkoplingssikkerheit:">
 <!ENTITY connectionSecurity.accesskey "T">
 <!ENTITY connectionSecurityType-0.label "Ingen">
 <!ENTITY connectionSecurityType-1.label "STARTTLS, dersom tilgjengeleg">
@@ -61,7 +61,7 @@
 <!ENTITY loginAtStartup.accesskey "å">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-   of messages between them
+    of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Spør meg før nedlasting av meir enn">
 <!ENTITY maxMessagesStart.accesskey "S">

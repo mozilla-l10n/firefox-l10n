@@ -12,7 +12,7 @@
 <!ENTITY aboutSupport.accountsIncomingServer "Innkomande tenar">
 <!ENTITY aboutSupport.accountsOutgoingServers "Utgåande tenarar">
 <!ENTITY aboutSupport.accountsServerName "Namn">
-<!ENTITY aboutSupport.accountsConnSecurity "Tilkoplingstryggleik">
+<!ENTITY aboutSupport.accountsConnSecurity "Tilkoplingssikkerheit">
 <!ENTITY aboutSupport.accountsAuthMethod "Autentiseringsmåte">
 <!ENTITY aboutSupport.accountsDefault "Standard?">
 <!ENTITY aboutSupport.identityName "Identitet">

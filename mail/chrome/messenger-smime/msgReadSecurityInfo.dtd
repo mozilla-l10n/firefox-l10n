@@ -1,10 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE msgReadSecurityInfo.dtd UI for viewing security status when reading a received message -->
 
-
-<!ENTITY status.label "Meldingstryggleik">
+<!ENTITY status.label "Meldingssikkerheit">
 <!ENTITY signatureCert.label "Vis signatursertifikat">
 <!ENTITY encryptionCert.label "Vis krypteringssertifikat">
 

@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Tryggleik">
-<!ENTITY securityTab.label "Tryggleik">
+<!ENTITY securityTitle.label "Sikkerheit">
+<!ENTITY securityTab.label "Sikkerheit">
 <!ENTITY securityHeading.label "For å senda og ta i mot signerte eller krypterte meldingar, bør du leggje inn både eit digitalt signatur-sertifikat og eit krypterings-sertifikat.">
 <!ENTITY encryptionGroupTitle.label "Kryptering">
 <!ENTITY encryptionChoiceLabel.label "Standard krypteringsval under sending av meldingar:">
