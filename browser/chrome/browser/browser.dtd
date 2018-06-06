@@ -89,7 +89,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY goOfflineCmd.label "Trabalhar off-line">
 <!ENTITY goOfflineCmd.accesskey "o">
 
-<!ENTITY menubarCmd.label "Barra de menus">
+<!ENTITY menubarCmd.label "Barra de menu">
 <!ENTITY menubarCmd.accesskey "m">
 <!ENTITY navbarCmd.label "Barra de navegação">
 <!ENTITY personalbarCmd.label "Barra de favoritos">
