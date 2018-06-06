@@ -70,6 +70,15 @@
 
 <!ENTITY url_bar_default_text2 "Lorg no cuir seòladh ann">
 
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "Cleachd an leughadair QR agad airson lorg a dhèanamh no cuir a-steach seòladh">
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "Cleachd micreofon agad airson lorg a dhèanamh no cuir a-steach seòladh">
+
 <!ENTITY bookmark "Comharra-lìn">
 <!ENTITY bookmark_remove "Thoir an comharra-lìn air falbh">
 <!ENTITY bookmark_added "Comharra-lìn air a chur ris">
@@ -207,6 +216,7 @@
 <!ENTITY pref_category_advanced_summary3 "Aisig tabaichean, caomhnaiche dàta, innealan an luchd-leasachaidh">
 <!ENTITY pref_category_notifications "Brathan">
 <!ENTITY pref_category_notifications_summary "Gleusan ùra, ùrachaidhean làraichean-lìn">
+<!ENTITY pref_category_notifications_summary2 "Gleusan ùra, gliocasan mu bhathar">
 <!ENTITY pref_developer_remotedebugging_usb "Dì-bhugachadh cèin slighe USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Dì-bhugachadh cèin slighe WiFi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Feumaidh leughadair chòdaichean QR a bhith aig an uidheam agad mus obraich dì-bhugachadh slighe WiFi.">
