@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+
 <!ENTITY  prefWindow.titleWin     "Innstillingar">
 <!ENTITY  prefWindow.titleGNOME   "&brandShortName; Innstillingar">
 <!ENTITY  prefWindow.titleMAC     "Innstillingar">
@@ -15,7 +16,7 @@
 <!ENTITY paneChat.title           "Nettprat">
 <!ENTITY paneAttachments.title    "Vedlegg">
 <!ENTITY panePrivacy.title        "Personvern">
-<!ENTITY paneSecurity.title       "Tryggleik">
+<!ENTITY paneSecurity.title       "Sikkerheit">
 <!ENTITY paneAdvanced.title       "Avansert">
 <!ENTITY paneAccount.title        "Kontoar">
 
