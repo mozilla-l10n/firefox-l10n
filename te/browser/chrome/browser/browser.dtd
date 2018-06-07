@@ -35,6 +35,9 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "మిగతా ట్యాబులను మూసివేయి">
 <!ENTITY  closeOtherTabs.accesskey           "o">
 
+<!ENTITY  closeSelectedTabs.label            "ఎంచుకున్న ట్యాబులను మూసివేయి">
+<!ENTITY  closeSelectedTabs.accesskey        "S">
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -247,6 +250,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "ముంగిలి">
 
+<!ENTITY homeButton.defaultPage.tooltip "&brandShortName; ముంగిలి పేజీ">
+
 <!ENTITY bookmarksButton.label          "ఇష్టాంశాలు">
 <!ENTITY bookmarksCmd.commandkey "b">
 
@@ -427,6 +432,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
+<!ENTITY customizeMenu.manageExtension.label "పొడగింత నిర్వహణ">
+<!ENTITY customizeMenu.manageExtension.accesskey "E">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -787,6 +794,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.removeCertException.accesskey "R">
 
 <!ENTITY identity.moreInfoLinkText2 "మరింత సమాచారం">
+
 
 <!ENTITY identity.permissions "అనుమతులు">
 <!ENTITY identity.permissionsEmpty "ఈ సైటుకి మీరు ఎటువoటి ప్రత్యేక అనుమతులు ఇవ్వలేదు.">
