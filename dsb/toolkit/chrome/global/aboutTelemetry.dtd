@@ -31,8 +31,8 @@
 <!ENTITY aboutTelemetry.generalDataSection "  Powšykne daty">
 <!ENTITY aboutTelemetry.environmentDataSection "  Wokolinowe daty">
 <!ENTITY aboutTelemetry.sessionInfoSection "  Pósejźeńske informacije">
-<!ENTITY aboutTelemetry.scalarsSection "  Skalary">
-<!ENTITY aboutTelemetry.keyedScalarsSection "  Indicěrowane skalary">
+<!ENTITY aboutTelemetry.scalarsSection "Skalary">
+<!ENTITY aboutTelemetry.keyedScalarsSection "Skalary z klucom">
 <!ENTITY aboutTelemetry.histogramsSection "  Histogramy">
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Skoděrowane histogramy">
 <!ENTITY aboutTelemetry.eventsSection "  Tšojenja">
