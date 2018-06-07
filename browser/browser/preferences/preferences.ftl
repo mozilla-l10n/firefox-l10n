@@ -579,6 +579,9 @@ history-private-browsing-permanent =
 history-remember-option =
     .label = Менің шолу тарихымды және жүктемелер тарихын сақтау
     .accesskey = М
+history-remember-browser-option =
+    .label = Шолу және жүктемелер тарихын сақтау
+    .accesskey = т
 history-remember-search-option =
     .label = Іздеу және формалар тарих сақтау
     .accesskey = з
@@ -720,6 +723,9 @@ collection-health-report =
     .label = { -brand-short-name } үшін { -vendor-short-name } адресіне техникалық және әрекеттесу деректерін жіберуді рұқсат ету
     .accesskey = р
 collection-health-report-link = Көбірек білу
+collection-studies =
+    .label = { -brand-short-name } үшін зерттеулерді орнатып, орындауды рұқсат ету
+collection-studies-link = { -brand-short-name } зерттеулерін қарау
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Деректер есептемесін беру бұл жинақта сөндірілген
