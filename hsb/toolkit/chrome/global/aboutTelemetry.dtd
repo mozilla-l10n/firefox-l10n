@@ -31,8 +31,8 @@
 <!ENTITY aboutTelemetry.generalDataSection "  Powšitkowne daty">
 <!ENTITY aboutTelemetry.environmentDataSection "  Wokolinowe daty">
 <!ENTITY aboutTelemetry.sessionInfoSection "  Posedźenske informacije">
-<!ENTITY aboutTelemetry.scalarsSection "  Skalary">
-<!ENTITY aboutTelemetry.keyedScalarsSection "  Indizierte Skalare">
+<!ENTITY aboutTelemetry.scalarsSection "Skalary">
+<!ENTITY aboutTelemetry.keyedScalarsSection "Skalary z klučom">
 <!ENTITY aboutTelemetry.histogramsSection "  Histogramy">
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Kodowane histogramy">
 <!ENTITY aboutTelemetry.eventsSection "  Podawki">
