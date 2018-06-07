@@ -415,10 +415,14 @@
 
 <!-- Summary dialog -->
 <!ENTITY summary.dialog.saveclose.label         "Sekles sakin Mdel">
+<!ENTITY summary.dialog.saveclose.tooltiptext   "Sekles ibeddilen sakin mdel asfaylus war abeddel n waddad n uttekki sakin azen tiririt">
 <!ENTITY summary.dialog.accept.label            "Qbel">
 <!ENTITY summary.dialog.accept.tooltiptext      "Qbel tinnubga">
 <!ENTITY summary.dialog.tentative.label         "Aɛraḍ">
+<!ENTITY summary.dialog.tentative.tooltiptext   "Qbel s wudem askudan tinnubga">
 <!ENTITY summary.dialog.decline.label           "Agwi">
 <!ENTITY summary.dialog.decline.tooltiptext     "Agwi tinnubga">
 <!ENTITY summary.dialog.dontsend.label          "Ur ttazen ara tiririt">
+<!ENTITY summary.dialog.dontsend.tooltiptext    "Beddel addad n uttekki-ik s war tuzna n tririt i yimsuddes sakin mdel asfaylu">
 <!ENTITY summary.dialog.send.label              "Azen tiririt tura">
+<!ENTITY summary.dialog.send.tooltiptext        "Azen tiririt n yimsuddes sakin mdel asfaylu">
