@@ -29,8 +29,11 @@ category-search =
     .tooltiptext = { pane-search-title }
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+# The word "account" can be translated, do not translate or transliterate "Firefox".
+pane-sync-title = Cuenta Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
+help-button-label = { -brand-short-name }Soporte
 focus-search =
     .key = f
 close-button =
@@ -38,6 +41,8 @@ close-button =
 
 ## Browser Restart Dialog
 
+should-restart-title = Ndakitsa{ -brand-short-name }
+should-restart-ok = Ndakitsa{ -brand-short-name }michumi
 cancel-no-restart-button = Kunchatu
 restart-later = Ndakitsa nunu ka
 
@@ -127,6 +132,18 @@ sync-device-name-save =
 
 ## Privacy Section - History
 
+history-header = Ña niya'a
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label = { -brand-short-name } A Kuú
+    .accesskey = A
 history-clear-button =
     .label = Stoo ña ntsinu
     .accesskey = S
@@ -142,6 +159,14 @@ history-clear-button =
 
 ## Privacy Section - Permissions
 
+permissions-camera = Kamara
+permissions-microphone = Micrófono
+permissions-microphone-settings =
+    .label = Ndasama...
+    .accesskey = t
+permissions-notification-settings =
+    .label = Ndasama...
+    .accesskey = d
 
 ## Privacy Section - Data Collection
 

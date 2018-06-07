@@ -20,3 +20,37 @@ permissions-button-ok =
     .accesskey = C
 permissions-searchbox =
     .placeholder = Nduku Sitio Web
+permissions-capabilities-block =
+    .label = Kasi
+permissions-capabilities-prompt =
+    .label = Sa'ansa ndakatu'un 
+
+## Invalid Hostname Dialog
+
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
