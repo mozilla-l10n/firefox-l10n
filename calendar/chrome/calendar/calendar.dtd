@@ -307,7 +307,7 @@
 <!ENTITY calendarproperties.unsubscribe.accesskey          "B">
 
 <!-- Calendar Publish Dialog -->
-<!ENTITY calendar.publish.dialog.title              "Tayangkan Kalender">
+<!ENTITY calendar.publish.dialog.title              "Terbitkan Kalender">
 <!ENTITY calendar.publish.url.label                 "URL Penayangan">
 <!ENTITY calendar.publish.publish.button      "Tayangkan">
 <!ENTITY calendar.publish.close.button      "Tutup">
