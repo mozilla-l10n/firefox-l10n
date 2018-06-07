@@ -2,27 +2,27 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY migrationWizard.title           "იმპორტის მეგზური">
+<!ENTITY migrationWizard.title           "მონაცემთა გადმოტანის მეგზური">
 
-<!ENTITY importAllFrom.label             "ყველა ელემენტის იმპორტი პროგრამიდან:">
+<!ENTITY importAllFrom.label             "ყველაფრის გადმოტანა პროგრამიდან:">
 <!ENTITY importBookmarksFrom.label       "სანიშნების გადმოტანა:">
 
 <!ENTITY importFromThunderbird.label     "Thunderbird">
 <!ENTITY importFromThunderbird.accesskey "T">
 <!ENTITY importFromFile.label            "ფაილი">
-<!ENTITY importFromFile.accesskey        "F">
-<!ENTITY importFromNothing.label         "იმპორტის გარეშე">
-<!ENTITY importFromNothing.accesskey     "D">
+<!ENTITY importFromFile.accesskey        "ფ">
+<!ENTITY importFromNothing.label         "გადმოტანის გარეშე">
+<!ENTITY importFromNothing.accesskey     "გ">
 
 <!ENTITY importSource.title              "იმპორტის პარამეტრები და თარიღი">
-<!ENTITY importItems.title               "საიმპორტო ელემენტები">
-<!ENTITY importItems.label               "საიმპორტო ელემენტების შერჩევა:">
+<!ENTITY importItems.title               "გადმოსატანი მონაცემები">
+<!ENTITY importItems.label               "მიუთითეთ გადმოსატანი მონაცემები:">
 
 <!ENTITY selectProfile.title             "პროფილის შერჩევა">
-<!ENTITY selectProfile.label             "შესაძლებელია შემდეგი პროფილების იმპორტი პროგრამიდან:">
+<!ENTITY selectProfile.label             "შემდეგი პროფილები ხელმისაწვდომია გადმოსატანად ბრაუზერიდან:">
 
-<!ENTITY migrating.title                 "იმპორტი…">
-<!ENTITY migrating.label                 "მიმდინარეობს შემდეგი ელემენტების იმპორტი…">
+<!ENTITY migrating.title                 "გადმოტანა…">
+<!ENTITY migrating.label                 "გადმოვა შემდეგი მონაცემები…">
 
-<!ENTITY done.title                      "იმპორტი დასრულდა">
-<!ENTITY done.label                      "წარმატებით დაიმპორტდა შემდეგი ელემენტები:">
+<!ENTITY done.title                      "გადმოტანა დასრულდა">
+<!ENTITY done.label                      "გადმოტანილია შემდეგი მონაცემები:">
