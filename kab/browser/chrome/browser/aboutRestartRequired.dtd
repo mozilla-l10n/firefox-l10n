@@ -5,5 +5,7 @@
 <!ENTITY restartRequired.title "Asenker tikelt nniḍen yettwasra">
 
 <!ENTITY restartRequired.header "Suref-aɣ. Mazal kan ciṭ ad t-nseggem uqble ad tkemmleḍ.">
+<!ENTITY restartRequired.description "<p>Aql-aɣ akken i nsebded lqem deg ugilal « Ales tanekra n &brandShortName; » akken ad yeddu.</p>
+<p>Ad d-nerr meṛṛa isebtar-ik, isfuyla akked yiccaren ticki yemmed akken ad tuɣaleḍ s zreb ar wanida telliḍ.</p>">
 
 <!ENTITY restartButton.label "Ales asenker n &brandShortName;">

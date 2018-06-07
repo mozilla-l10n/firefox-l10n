@@ -36,6 +36,7 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.accesskey           "M">
 
 <!ENTITY  closeSelectedTabs.label            "Mdel iccaren-agi yettwafernen">
+<!ENTITY  closeSelectedTabs.accesskey        "M">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -241,6 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Tesweḥleḍ asekles n yisefka i usmelweb-a.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Tesweḥleḍ asfaylu udhim i usmel-agi.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Tesweḥleḍ tussfa n yisefka n ubeckil i usmelweb-a.">
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "Tesweḥleḍ asmel-agi web seg useqdec n umenṭaḍ Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Tesweḥleḍ anekcum i MIDI γer usmel-agi.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Sken amazray">
@@ -250,6 +252,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Asebter agejdan">
 
+<!ENTITY homeButton.defaultPage.tooltip "Asebter agejdan &brandShortName;">
 
 <!ENTITY bookmarksButton.label          "Ticraḍ n yisebtar">
 <!ENTITY bookmarksCmd.commandkey "b">
@@ -299,6 +302,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Sweḍ aferdis">
 <!ENTITY inspectContextMenu.accesskey "S">
 
+<!ENTITY inspectA11YContextMenu.label     "Sweḍ timeẓliyin n tnekcumt">
 
 <!ENTITY fileMenu.label         "Afaylu">
 <!ENTITY fileMenu.accesskey       "f">
@@ -432,6 +436,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY customizeMenu.autoHideDownloadsButton.label "Tufra twurmant deg ufeggag n ifecka">
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
+<!ENTITY customizeMenu.manageExtension.label "Sefrek isiɣzaf">
+<!ENTITY customizeMenu.manageExtension.accesskey "n">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -793,6 +799,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "Ugar n telɣut">
 
+<!ENTITY identity.clearSiteData "Sfeḍ inagan n tuqqna akked isefka n usme…">
 
 <!ENTITY identity.permissions "Tisirag">
 <!ENTITY identity.permissionsEmpty "Ur tefkiḍ ara kra n tsiregt i usmel-a.">
