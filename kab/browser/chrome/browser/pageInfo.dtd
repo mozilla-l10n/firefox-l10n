@@ -46,19 +46,10 @@
 
 <!ENTITY  feedTab               "Isuddam">
 <!ENTITY  feedTab.accesskey     "F">
-<!ENTITY  feedSubscribe         "Jerred">
-<!ENTITY  feedSubscribe.accesskey "J">
 
 <!ENTITY  permTab               "Tisirag">
 <!ENTITY  permTab.accesskey     "P">
-<!ENTITY  permUseDefault        "Tisirag n tazwara">
-<!ENTITY  permAskAlways         "Sutur yal tikelt">
-<!ENTITY  permAllow             "Sireg">
-<!ENTITY  permAllowSession      "Sireg i tɣimit">
-<!ENTITY  permHide              "Ffer">
-<!ENTITY  permBlock             "Sewḥel">
 <!ENTITY  permissionsFor        "Tisirag i:">
-<!ENTITY  permPlugins           "Rmed izegrar ">
 
 <!ENTITY  securityTab           "Taɣellist">
 <!ENTITY  securityTab.accesskey "S">
@@ -78,6 +69,7 @@
 <!ENTITY  securityView.privacy.cookies                  "Asmel-a web igemmer talɣut (inagan n tuqqna) ɣef uselkim-inu?">
 <!ENTITY  securityView.privacy.viewCookies              "Wali inagan n tuqqna">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "g">
+<!ENTITY  securityView.privacy.siteData                 "Asmel-agi yesseklas talɣut ɣef uselkim-iw?">
 <!ENTITY  securityView.privacy.clearSiteData            "Sfeḍ inagan n tuqna akked isefka n usmel">
 <!ENTITY  securityView.privacy.clearSiteData.accessKey  "C">
 <!ENTITY  securityView.privacy.passwords                "Skelseɣ awal uffir i usmel-a web?">

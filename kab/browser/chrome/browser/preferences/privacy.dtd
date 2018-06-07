@@ -38,12 +38,7 @@
 
 <!ENTITY  suggestionSettings2.label     "Snifel ismenyifen i yisumar n umsedday n unadi">
 
-<!ENTITY  acceptCookies2.label          "Qbel inagan n tuqqna n yismal-agi">
-<!ENTITY  acceptCookies2.accesskey      "G">
-
-<!ENTITY  acceptThirdParty2.pre.label     "Qbel inagan n tuqqna n wis kraḍ">
-<!ENTITY  acceptThirdParty2.pre.accesskey "f">
-
+<!ENTITY  acceptCookies4.label          "Qqbel inagan n tuqqna d yisefka n yismal (yekha)">
 <!ENTITY  acceptCookies4.accesskey      "A">
 
 <!ENTITY  blockCookies.label            "Sewḥel inagan n tuqna akked isefka n usmel (izmer ad yiṛez ismal web)">
@@ -64,9 +59,6 @@
 <!ENTITY  cookieExceptions.label        "Tisuraf…">
 <!ENTITY  cookieExceptions.accesskey    "s">
 
-<!ENTITY  showCookies.label             "Sken inagan n tuqqna…">
-<!ENTITY  showCookies.accesskey         "S">
-
 <!ENTITY  historyHeader2.pre.label         "&brandShortName; ad">
 <!ENTITY  historyHeader2.pre.accesskey     "l">
 <!ENTITY  historyHeader.remember.label     "Ḥrez amazray">
@@ -74,25 +66,9 @@
 <!ENTITY  historyHeader.custom.label       "Seqdec iɣewwaṛen udmawanen i umazray-a">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; ad yeḥrez isefka n tunigin, isidar , tiferkiyin, amazray n unadi, d inagan n tuqqna n yismal yettwarzan.">
-
-<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
-<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-<!ENTITY  rememberActions.pre.label           "Ahat tebɣiḍ ">
-<!ENTITY  rememberActions.clearHistory.label  "sfeḍ amazray-inek n melmi kan">
-<!ENTITY  rememberActions.middle.label        ", neγ ">
-<!ENTITY  rememberActions.removeCookies.label "kkes inagan n tuqqna ilmisen">
-<!ENTITY  rememberActions.post.label          ".">
-
+<!ENTITY  rememberDescription1.label      "&brandShortName; ad yeḥrez isefka n tunigin, asider, tiferkiyin d umezruy n unadi.">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; ad isseqdec iɣewwaṛen n tunigin tusligt, u diɣen ur iḥerrez ara amazray n tunigin-inek. ">
-
-<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-<!ENTITY  dontrememberActions.pre.label          "Ahat tebγid diγen ">
-<!ENTITY  dontrememberActions.clearHistory.label "sfeḍ akk amazray amiran">
-<!ENTITY  dontrememberActions.post.label         ".">
 
 <!ENTITY  clearHistoryButton.label       "Sfeḍ amazray…">
 <!ENTITY  clearHistoryButton.accesskey   "s">
@@ -111,12 +87,6 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Iγewwaṛen…">
 <!ENTITY  clearOnCloseSettings.accesskey "I">
-
-<!ENTITY  browserContainersLearnMore.label      "Issin ugar">
-<!ENTITY  browserContainersEnabled.label        "Rmed Iccaren imagbaren">
-<!ENTITY  browserContainersEnabled.accesskey    "g">
-<!ENTITY  browserContainersSettings.label        "Iγewwaṛen…">
-<!ENTITY  browserContainersSettings.accesskey    "I">
 
 <!ENTITY  a11yPrivacy.checkbox.label     "Sewḥel imeẓla n unekcum ad kecmen γer iminig-inek">
 <!ENTITY  a11yPrivacy.checkbox.accesskey "a">

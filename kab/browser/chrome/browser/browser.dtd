@@ -997,6 +997,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Sens aseɣzif">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
+<!ENTITY homepageControlled.message "Asiɣzef ibeddel asebter-ik agejdan. Tzemreḍ ad tbeddleḍ iɣewwaṛen ma yella ur teqbileḍ ara ibeddilen-agi.">
 <!ENTITY homepageControlled.header.message "Asebter-inek agejdan ibeddel.">
 <!ENTITY homepageControlled.keepButton.label "Ḥrez abeddel">
 <!ENTITY homepageControlled.keepButton.accesskey "K">
