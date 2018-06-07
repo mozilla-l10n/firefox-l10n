@@ -70,6 +70,15 @@
 
 <!ENTITY url_bar_default_text2 "נא להזין ביטוי לחיפוש או כתובת">
 
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "ניתן להשתמש בקורא ה־QR שלך כדי לחפש או להקליד כתובת">
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "ניתן להשתמש במיקרופון שלך כדי לחפש או להקליד כתובת">
+
 <!ENTITY bookmark "הוספה לסימניות">
 <!ENTITY bookmark_remove "מחיקת סימניה">
 <!ENTITY bookmark_added "נוספה סימניה">
