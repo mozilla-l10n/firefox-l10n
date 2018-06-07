@@ -43,4 +43,9 @@
 <!ENTITY location.placeholder "URL neɣ asenneftaɣ n uqeddac n uwitay">
 
 <!ENTITY network.nocredentials.label "Adig ur yesri ara asesteb">
+<!ENTITY network.loading.description "Ma ulac aɣilif, rǧu ticki iwitayen ttwafen.">
+<!ENTITY network.notfound.description "Ur izmir ara ad d-yaf awitay deg tansa-a. Wali iɣewwaṛen.">
+<!ENTITY network.authfail.description "Inekcam n tuqqna yettaskecmen ur ttwaqeblen ara. Wali iɣewwaṛen.">
 
+<!ENTITY network.subscribe.single.description "Ma ulac aɣilif, fren iwitayen aniɣer i tebɣiḍ ad tjerrdeḍ.">
+<!ENTITY network.subscribe.multiple.description "Ddeqs n wanawen n yiwitayen llan di tansa-a. Fren anaw n uwitay, sakin fren iwitayen aniɣer tebɣiḍ ad tjerrdeḍ.">

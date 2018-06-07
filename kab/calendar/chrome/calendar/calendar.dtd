@@ -178,6 +178,7 @@
 <!ENTITY calendar.context.attendance.menu.label                 "Tihawt">
 <!ENTITY calendar.context.attendance.menu.accesskey             "w">
 <!ENTITY calendar.context.attendance.occurrence.label           "Tamseḍrit-agi">
+<!ENTITY calendar.context.attendance.all2.label                 "Izriren ummiden">
 <!ENTITY calendar.context.attendance.send.label                 "Azen alɣu tura">
 <!ENTITY calendar.context.attendance.send.accesskey             "Z">
 <!ENTITY calendar.context.attendance.dontsend.label             "Ur ttazen ara alɣu">
@@ -185,7 +186,33 @@
 
 <!ENTITY calendar.context.attendance.occ.accepted.accesskey     "Y">
 <!ENTITY calendar.context.attendance.occ.accepted.label         "Yettwaqbel">
+<!ENTITY calendar.context.attendance.occ.tentative.accesskey    "k">
+<!ENTITY calendar.context.attendance.occ.tentative.label        "Yettwaqbel s wudem askudan">
+<!ENTITY calendar.context.attendance.occ.declined.accesskey     "g">
+<!ENTITY calendar.context.attendance.occ.declined.label         "yettwagi">
+<!ENTITY calendar.context.attendance.occ.delegated.accesskey    "f">
+<!ENTITY calendar.context.attendance.occ.delegated.label        "Yettafk i wayeḍ">
+<!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "w">
+<!ENTITY calendar.context.attendance.occ.needsaction.label      "Yesra tigawt">
+<!ENTITY calendar.context.attendance.occ.inprogress.accesskey   "I">
+<!ENTITY calendar.context.attendance.occ.inprogress.label       "Iteddu">
+<!ENTITY calendar.context.attendance.occ.completed.accesskey    "m">
+<!ENTITY calendar.context.attendance.occ.completed.label        "Immed">
 
+<!ENTITY calendar.context.attendance.all.accepted.accesskey     "l">
+<!ENTITY calendar.context.attendance.all.accepted.label         "Yettwaqbel">
+<!ENTITY calendar.context.attendance.all.tentative.accesskey    "q">
+<!ENTITY calendar.context.attendance.all.tentative.label        "Yettwaqbel s wudem askudan">
+<!ENTITY calendar.context.attendance.all.declined.accesskey     "g">
+<!ENTITY calendar.context.attendance.all.declined.label         "yettwagi">
+<!ENTITY calendar.context.attendance.all.delegated.accesskey    "w">
+<!ENTITY calendar.context.attendance.all.delegated.label        "Yettunefk i wayeḍ">
+<!ENTITY calendar.context.attendance.all.needsaction.accesskey  "g">
+<!ENTITY calendar.context.attendance.all.needsaction.label      "Yesra tigawt">
+<!ENTITY calendar.context.attendance.all.inprogress.accesskey   "I">
+<!ENTITY calendar.context.attendance.all.inprogress.label       "Iteddu">
+<!ENTITY calendar.context.attendance.all.completed.accesskey    "m">
+<!ENTITY calendar.context.attendance.all.completed.label        "Immed">
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Asfari">
