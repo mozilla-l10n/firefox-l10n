@@ -38,7 +38,7 @@
 
 <!ENTITY newContactAbContext.label          "Uusi yhteyshenkilö">
 <!ENTITY newContactAbContext.accesskey      "y">
-<!ENTITY newListAbContext.label             "Uusi luettelo">
+<!ENTITY newListAbContext.label             "Uusi lista">
 <!ENTITY newListAbContext.accesskey         "l">
 
 <!ENTITY toButton.label                     "Vastaanottaja:">
