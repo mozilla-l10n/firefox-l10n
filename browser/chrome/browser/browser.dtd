@@ -799,7 +799,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "Lisätietoja">
 
-<!ENTITY identity.clearSiteData "Tyhjennä evästeet ja sivustotiedot…">
+<!ENTITY identity.clearSiteData "Poista evästeet ja sivustotiedot…">
 
 <!ENTITY identity.permissions "Oikeudet">
 <!ENTITY identity.permissionsEmpty "Sivustolle ei ole myönnetty mitään erityisoikeuksia.">
