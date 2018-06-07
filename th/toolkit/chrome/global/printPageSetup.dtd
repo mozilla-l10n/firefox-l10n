@@ -54,7 +54,7 @@
 <!ENTITY footerCenter.tip    "ส่วนท้ายตรงกลาง">
 <!ENTITY footerRight.tip     "ส่วนท้ายด้านขวา">
 
-<!ENTITY hfTitle             "ชื่อ">
+<!ENTITY hfTitle             "ชื่อเรื่อง">
 <!ENTITY hfURL               "URL">
 <!ENTITY hfDateAndTime       "วันที่/เวลา">
 <!ENTITY hfPage              "หน้า #">
