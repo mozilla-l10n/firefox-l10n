@@ -65,6 +65,17 @@ should-restart-ok = Nayi'ì nakà { -brand-short-name } hìaj
 cancel-no-restart-button = Duyichin'
 restart-later = Nayi'i ñun' ne' rukú doj
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+
 ## Preferences UI Search Results
 
 
@@ -124,7 +135,12 @@ download-header = Nadunínj
 
 ## General Section - Performance
 
+performance-title = Daj unūkuaj ma
 performance-settings-learn-more = Gahuin chrun doj
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (dànj hua nianj)
 
 ## General Section - Browsing
 
