@@ -73,9 +73,11 @@
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "వెతకడానికి లేదా చిరునామా ఇవ్వడానికి మీ QR రీడర్ వాడండి">
 <!-- Localization note (url_bar_mic_text2) : This text will be
      heard by non-visual users when the focus is on the Microphone
      icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "వెతకడానికి లేదా చిరునామా ఇవ్వడానికి మీ మైక్రోఫోనుని వాడండి">
 
 <!ENTITY bookmark "ఇష్టాంశం">
 <!ENTITY bookmark_remove "ఇష్టాంశాన్ని తీసివేయి">
