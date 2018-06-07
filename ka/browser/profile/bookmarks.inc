@@ -7,15 +7,15 @@
 # your locale code, and link to your translated pages as soon as they're
 # live.
 
-#define bookmarks_title Bookmarks
-#define bookmarks_heading Bookmarks
+#define bookmarks_title სანიშნები
+#define bookmarks_heading სანიშნები
 
-#define bookmarks_toolbarfolder Bookmarks Toolbar Folder
-#define bookmarks_toolbarfolder_description Add bookmarks to this folder to see them displayed on the Bookmarks Toolbar
+#define bookmarks_toolbarfolder სანიშნების ხელსაწყოთა ზოლის საქაღალდე
+#define bookmarks_toolbarfolder_description დაამატეთ სანიშნები ამ საქაღალდეში, რომ იხილოთ ისინი სანიშნეთა ზოლზე
 
 # LOCALIZATION NOTE (getting_started):
 # link title for https://www.mozilla.org/en-US/firefox/central/
-#define getting_started Getting Started
+#define getting_started დაწყება
 
 # LOCALIZATION NOTE (firefox_heading):
 # Firefox links folder name
@@ -23,23 +23,23 @@
 
 # LOCALIZATION NOTE (firefox_help):
 # link title for https://www.mozilla.org/en-US/firefox/help/
-#define firefox_help Help and Tutorials
+#define firefox_help დახმარება და სახელმძღვანელო
 
 # LOCALIZATION NOTE (firefox_customize):
 # link title for https://www.mozilla.org/en-US/firefox/customize/
-#define firefox_customize Customize Firefox
+#define firefox_customize მოირგეთ Firefox
 
 # LOCALIZATION NOTE (firefox_community):
 # link title for https://www.mozilla.org/en-US/contribute/
-#define firefox_community Get Involved
+#define firefox_community შემოგვიერთდით
 
 # LOCALIZATION NOTE (firefox_about):
 # link title for https://www.mozilla.org/en-US/about/
-#define firefox_about About Us
+#define firefox_about ჩვენ შესახებ
 
 # LOCALIZATION NOTE (nightly_heading):
 # Firefox Nightly links folder name
-#define nightly_heading Firefox Nightly რესურსები
+#define nightly_heading Firefox Nightly მასალები
 
 # LOCALIZATION NOTE (nightly_blog):
 # Nightly builds only, link title for https://blog.nightly.mozilla.org/
