@@ -167,6 +167,12 @@ permissions-microphone-settings =
 permissions-notification-settings =
     .label = Ndasama...
     .accesskey = d
+permissions-block-popups-exceptions =
+    .label = Excepciones…
+    .accesskey = E
+permissions-addon-exceptions =
+    .label = Excepciones…
+    .accesskey = e
 
 ## Privacy Section - Data Collection
 
