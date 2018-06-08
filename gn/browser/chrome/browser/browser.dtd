@@ -57,6 +57,7 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "Ñeha'ãrõme (joaju'ỹre)">
 <!ENTITY  moveToNewWindow.label              "Ovetã pyahúpe jegueraha">
 <!ENTITY  moveToNewWindow.accesskey          "W">
+<!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkAllTabs.label              "Opaite tendayke mbojoapy…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "Emboguevi ha emboty tendayke">
