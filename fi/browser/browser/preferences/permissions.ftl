@@ -83,6 +83,13 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Lisäosia voidaan asentaa määrätyiltä sivustoilta. Kirjoita sivuston osoite ja napsauta Salli.
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = Sallitut sivustot - Automaattinen toisto
+    .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc = Voit valita, mitkä sivustot saavat toistaa mediaa automaattisesti. Kirjoita sivuston osoite ja napsauta Salli.
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
