@@ -83,6 +83,13 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = შეგიძლიათ მიუთითოთ საიტები, რომელთაც ყოველთვის შეეძლება დამატებების ჩადგმა. აკრიფეთ საიტის ზუსტი მისამართი, შემდეგ კი დააწკაპეთ დაშვებას.
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = ნებადართული საიტები - თვითგაშვება
+    .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc = შეგიძლიათ მიუთითოთ საიტები, რომლებზე არსებული ხმოვანი ან ვიდეოფაილების თვითგაშვება ნებადართული იქნება. აკრიფეთ საიტის ზუსტი მისამართი და დააწკაპეთ დაშვებას.
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
