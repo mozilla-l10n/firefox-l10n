@@ -37,6 +37,11 @@ search-input-box =
             [windows] Recercar dins Opcions
            *[other] Recercar dins Preferéncias
         }
+policies-notice =
+    { PLATFORM() ->
+        [windows] Vòstra organizacion a desactivat la possibilitat de cambiar unas opcions.
+       *[other] Vòstra organizacion a desactivat la possibilitat de cambiar unas preferéncias.
+    }
 pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
@@ -93,6 +98,9 @@ extension-controlled-privacy-containers = Una extension, <img data-l10n-name="ic
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = Una extension, <img data-l10n-name="icon"/> { $name }, contraròtla la proteccion contra lo seguiment.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlled-proxy-config = Una extension, <img data-l10n-name="icon"/>{ $name }, contraròtla lo biais que { -brand-short-name } se connecta a Internet.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -336,6 +344,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Novèlas fenèstras e novèls onglets
+home-new-windows-tabs-description2 = Causissètz çò que volètz veire en dobrir la pagina d’acuèlh, de fenèstras novèlas o d’onglets novèls.
 
 ## Home Section - Home Page Customization
 
@@ -562,6 +571,7 @@ history-remember-option-never =
     .label = Conservar pas jamai l'istoric
 history-remember-option-custom =
     .label = Utilizar los paramètres personalizats per l'istoric
+history-remember-description = { -brand-short-name } enregistrarà vòstres istorics, telecargaments e recèrcas.
 history-dontremember-description = { -brand-short-name } utilizarà los meteisses paramètres que per la navegacion privada e conservarà pas cap d'istoric quand navegaretz sus internet.
 history-private-browsing-permanent =
     .label = Utilizar totjorn lo mòde de navegacion privada
@@ -687,6 +697,12 @@ permissions-notification-link = Ne saber mai
 permissions-notification-pause =
     .label = Pausar las notificacions fins que { -brand-short-name } reavie
     .accesskey = n
+permissions-block-autoplay-media =
+    .label = Empachar los sites de lançar de mèdias amb lo son
+    .accesskey = E
+permissions-block-autoplay-media-exceptions =
+    .label = Excepcions…
+    .accesskey = E
 permissions-block-popups =
     .label = Blocar las fenèstras sorgissentas
     .accesskey = B
