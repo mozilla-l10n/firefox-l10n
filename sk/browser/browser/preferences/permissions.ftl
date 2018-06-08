@@ -83,6 +83,13 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Na tomto mieste môžete určiť, ktoré stránky môžu inštalovať doplnky. Zadajte presnú adresu stránky, ktorej chcete povoliť inštaláciu softvéru a potom kliknite na tlačidlo Povoliť.
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = Povolené stránky - Automatické prehrávanie
+    .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc = Na tomto mieste môžete určiť, ktoré stránky môžu automaticky prehrávať médiá. Zadajte presnú adresu stránky, ktorej chcete povoliť prehrávanie médií a potom kliknite na tlačidlo Povoliť.
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
