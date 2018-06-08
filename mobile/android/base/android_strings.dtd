@@ -216,6 +216,7 @@
 <!ENTITY pref_category_advanced_summary3 "Gendan faneblade, data-sparer, Udviklerværktøj">
 <!ENTITY pref_category_notifications "Beskeder">
 <!ENTITY pref_category_notifications_summary "Nye funktioner, opdatering af websteder">
+<!ENTITY pref_category_notifications_summary2 "Nye funktioner og tips">
 <!ENTITY pref_developer_remotedebugging_usb "Ekstern debugging via USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Ekstern debugging via wi-fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Debugging via wi-fi kræver, at din enhed har en app til skanning af QR-koder installeret.">
