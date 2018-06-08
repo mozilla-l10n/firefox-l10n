@@ -83,6 +83,13 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Du kan velje kva for nettstadar som har løyve til å installere tillegg. Skriv inn eksakt adresse til nettstaden du vil tillate, og trykk «Tillat».
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = Tillatne nettsider - Autospel
+    .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc = Du kan spesifisere kva for nettsider som automatisk har lov til å spele mediaelement. Skriv inn eksakt adresse for nettsida du vil tillate og trykk så Tillat.
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
