@@ -57,6 +57,8 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "В черзі (офлайн)">
 <!ENTITY  moveToNewWindow.label              "Перенести в нове вікно">
 <!ENTITY  moveToNewWindow.accesskey          "е">
+<!ENTITY  reopenInContainer.label            "Відкрити в контейнері">
+<!ENTITY  reopenInContainer.accesskey        "й">
 <!ENTITY  bookmarkAllTabs.label              "Закласти всі вкладки…">
 <!ENTITY  bookmarkAllTabs.accesskey          "к">
 <!ENTITY  undoCloseTab.label                 "Відновити закриту вкладку">
@@ -904,6 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Буде надано доступ до всіх видимих вікон на вашому дисплеї.">
 
 <!ENTITY trackingProtection.title "Захист від стеження">
+<!ENTITY trackingProtection.tooltip "Відкрити налаштування захисту від стеження">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; блокує частини сторінки, які можуть стежити за вашим переглядом.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Цей сайт включає елементи, які можуть стежити за вашим переглядом. Ви вимкнули захист.">
 <!ENTITY trackingProtection.notDetected3 "На цій сторінці не виявлено елементів стеження.">
