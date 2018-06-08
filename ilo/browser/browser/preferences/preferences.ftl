@@ -26,6 +26,8 @@ close-button =
 ## Browser Restart Dialog
 
 should-restart-title = Irugi manen ti { -brand-short-name }
+cancel-no-restart-button = Ibabawi
+restart-later = Irugi Manen Intono Madamdama
 
 ## Extension Control Notifications
 ##
@@ -43,9 +45,12 @@ should-restart-title = Irugi manen ti { -brand-short-name }
 
 ## General Section
 
+startup-header = Pagirugian
 
 ## General Section - Language & Appearance
 
+default-font-size = Kadakkel
+    .accesskey = K
 advanced-fonts =
     .label = Nangatngato...
     .accesskey = a

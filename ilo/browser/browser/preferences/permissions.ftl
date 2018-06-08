@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+permissions-window =
+    .title = Laksid
+    .style = width: 45em
 permissions-close-key =
     .key = w
 permissions-block =
@@ -19,6 +22,8 @@ permissions-capabilities-allow =
     .label = Palubosan
 permissions-capabilities-block =
     .label = Lapdan
+permissions-capabilities-prompt =
+    .label = Kanayon a Saludsuden
 
 ## Invalid Hostname Dialog
 
@@ -37,6 +42,9 @@ permissions-invalid-uri-label = Isuratyo man ti nagan ti serbidor
 
 
 ## Exceptions - Add-ons
+
+
+## Exceptions - Autoplay Media
 
 
 ## Site Permissions - Notifications
