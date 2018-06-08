@@ -57,6 +57,8 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "已排入佇列（離線）">
 <!ENTITY  moveToNewWindow.label              "移動到新視窗">
 <!ENTITY  moveToNewWindow.accesskey          "W">
+<!ENTITY  reopenInContainer.label            "使用容器開啟">
+<!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkAllTabs.label              "將所有分頁加入書籤…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "復原已關閉分頁">
@@ -904,6 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "將分享您畫面上所有可見的視窗。">
 
 <!ENTITY trackingProtection.title "追蹤保護">
+<!ENTITY trackingProtection.tooltip "開啟追蹤保護偏好設定">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; 已經封鎖頁面裡的部分元素，以防止您的瀏覽行為被其追蹤。">
 <!ENTITY trackingProtection.detectedNotBlocked3 "此網站包含可能會追蹤您瀏覽行為的元素，但您已停用保護。">
 <!ENTITY trackingProtection.notDetected3 "未在此頁面偵測到追蹤元素。">
