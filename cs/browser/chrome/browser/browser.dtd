@@ -57,6 +57,8 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "Ve frontě (offline)">
 <!ENTITY  moveToNewWindow.label              "Přesunout do nového okna">
 <!ENTITY  moveToNewWindow.accesskey          "k">
+<!ENTITY  reopenInContainer.label            "Otevřít v kontejnerovém panelu">
+<!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkAllTabs.label              "Přidat všechny panely do záložek…">
 <!ENTITY  bookmarkAllTabs.accesskey          "P">
 <!ENTITY  undoCloseTab.label                 "Obnovit zavřený panel">
@@ -135,7 +137,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "Přihlášení k &syncBrand.shortName.label;">
-<!ENTITY fxaSignedIn.tooltip "Otevřít předvolby služby &syncBrand.shortName.label;">
+<!ENTITY fxaSignedIn.tooltip "Otevře nastavení služby &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Opětovné připojení k &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Ověřte svůj účet">
 
@@ -904,6 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Budou sdílena všechna viditelná okna na vaší obrazovce.">
 
 <!ENTITY trackingProtection.title "Ochrana proti sledování">
+<!ENTITY trackingProtection.tooltip "Otevře nastavení ochrany proti sledování">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokuje části této stránky, které vás mohou při prohlížení sledovat.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Tato stránka obsahuje prvky, které mohou sledovat vaše prohlížení. Ochranu jste zakázali.">
 <!ENTITY trackingProtection.notDetected3 "Na této stránce nebyly zjištěny sledovací prvky.">
