@@ -18,6 +18,9 @@
 <!ENTITY accountTypeNews.label "Račun za novičarsko skupino">
 <!ENTITY accountTypeNews.accesskey "o">
 
+<!-- LOCALIZATION NOTE(accountTypeMovemail.label): do not translate 'Movemail' -->
+<!ENTITY accountTypeMovemail.accesskey "U">
+
 <!-- Entities for Identity page -->
 
 <!ENTITY identityTitle.label "Identiteta">
