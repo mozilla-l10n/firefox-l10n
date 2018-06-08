@@ -42,10 +42,13 @@
      These strings are used in the calendar wizard and the calendar properties dialog, but are only
      displayed when setting/using a caldav calendar -->
 <!ENTITY lightning.calendarproperties.email.label                           "Imayl:">
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.label            "Fren aɣawas n yimaylen seg idis n umsaɣ">
 <!-- LOCALIZATON NOTE(lightning.calendarproperties.forceEmailScheduling.tooltiptext1,
      lightning.calendarproperties.forceEmailScheduling.tooltiptext2)
      - tooltiptext1 is used in the calendar wizard when setting a new caldav calendar
      - tooltiptext2 is used in the calendar properties dialog for caldav calendars -->
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext1     "Akka tura, tzemreḍ kan ad tremdeḍ ayagi deffir uswel n uwitay-agi di tnaka n udiwenni n tmeẓliyin, ma yella aqeddac yessefrak aɣawas.">
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext2     "Aɣewwaṛ-agi yella kan ma yella aqeddac n uwitay yessefrak aɣawas. Armad ad yeǧǧ ad tuɣaleḍ ar uɣawas s yimayl deg umḍiq n tiǧǧin-is i uqaddac.">
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Qbel">
@@ -84,6 +87,8 @@
 <!ENTITY lightning.imipbar.btnSend.tooltiptext                              "Azen tiririt i umsuddes">
 <!ENTITY lightning.imipbar.btnSendSeries.tooltiptext                        "Azen tiririt ɣef wahil meṛṛa n umsuddes">
 <!ENTITY lightning.imipbar.btnDontSend.label                                "UR ttazen ara tiririt">
+<!ENTITY lightning.imipbar.btnDontSend.tooltiptext                          "Ad ibeddel addad n uttekkki war ma yuzen tiririt i yimsuddes">
+<!ENTITY lightning.imipbar.btnDontSendSeries.tooltiptext                    "Ad ibeddel addad n uttekkki-ik i umazarar  war ma yuzen tiririt i yimsuddes">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
