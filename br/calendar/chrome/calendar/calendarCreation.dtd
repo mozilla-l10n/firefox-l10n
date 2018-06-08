@@ -42,4 +42,10 @@
 <!ENTITY location.label "Lec'hiadur:">
 <!ENTITY location.placeholder "URL pe anv herbrec'hier servijer an deiziataer">
 
+<!ENTITY network.nocredentials.label "Ar chomlec'h na c'houlenn ket an anaoudadurioù kevreañ">
+<!ENTITY network.loading.description "Gortozit e-keit ha ma vez dizoloet ho teiziataerioù mar plij.">
+<!ENTITY network.notfound.description "Deiziataer ebet er chomlec'h-mañ. Gwirit an arventennoù mar plij.">
+<!ENTITY network.authfail.description "N'eo ket bet degemeret an anaouadadurioù kevreañ seziset. Gwirit hoc'h arventennoù mar plij.">
 
+<!ENTITY network.subscribe.single.description "Diuzit an deiziataerioù ho pefe c'hoant kevreañ outo.">
+<!ENTITY network.subscribe.multiple.description "Meur a zoare deiziataer a zo hegerz evit ar chomlec'h. Diuzit an doare deiziataer mar plij, diuzit da c'houde an deiziataerioù ho peus c'hoant koumanantiñ dezho.">

@@ -133,12 +133,14 @@
 <!ENTITY calendar.task.filter.current.accesskey     "b">
 
 <!ENTITY calendar.task-details.title.label           "titl">
+<!ENTITY calendar.task-details.organizer.label       "a-berzh">
 <!ENTITY calendar.task-details.priority.label        "tevet">
 <!ENTITY calendar.task-details.priority.low.label    "izel">
 <!ENTITY calendar.task-details.priority.normal.label "reizh">
 <!ENTITY calendar.task-details.priority.high.label   "uhel">
 <!ENTITY calendar.task-details.status.label          "stad">
 <!ENTITY calendar.task-details.category.label        "rummad">
+<!ENTITY calendar.task-details.repeat.label          "adlavar">
 <!ENTITY calendar.task-details.attachments.label     "stagadennoù">
 <!ENTITY calendar.task-details.start.label           "deiziad deraouiñ">
 <!ENTITY calendar.task-details.due.label             "deiziad dibenn">
@@ -170,12 +172,15 @@
 <!ENTITY calendar.context.copyevent.accesskey         "E">
 <!ENTITY calendar.context.pasteevent.label            "Pegañ">
 <!ENTITY calendar.context.pasteevent.accesskey        "e">
-<!ENTITY calendar.context.button.label                "Panell hiziv" >
-<!ENTITY calendar.context.button.accesskey            "h" >
-<!ENTITY calendar.context.attendance.menu.label       "Perzhiadur" >
-<!ENTITY calendar.context.attendance.menu.accesskey   "a" >
-<!ENTITY calendar.context.attendance.occurrence.label "Ar reveziadenn-mañ" >
-<!ENTITY calendar.context.attendance.all.label        "An holl reveziadennoù" >
+<!ENTITY calendar.context.button.label                "Panell hiziv">
+<!ENTITY calendar.context.button.accesskey            "h">
+
+<!ENTITY calendar.context.attendance.menu.label                 "Perzhiadur">
+<!ENTITY calendar.context.attendance.menu.accesskey             "a">
+<!ENTITY calendar.context.attendance.occurrence.label           "Ar reveziadenn-mañ">
+<!ENTITY calendar.context.attendance.all2.label                 "Heuliadennoù klok">
+
+
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Araokadur">
