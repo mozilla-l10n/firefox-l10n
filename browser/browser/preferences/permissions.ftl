@@ -83,6 +83,12 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Du kan ange vilka webbplatser som får installera tillägg. Skriv in adressen till platsen du vill godkänna och klicka på Tillåt.
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = Tillåtna Hemsidor - Automatisk uppspelning
+    .style = { permissions-window.style }
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =

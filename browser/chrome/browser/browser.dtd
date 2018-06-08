@@ -904,6 +904,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Alla synliga fönster på din skärm kommer att delas.">
 
 <!ENTITY trackingProtection.title "Spårningsskydd">
+<!ENTITY trackingProtection.tooltip "Öppna spårningsskydds inställningar">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blockerar delar av sidan som kan spåra din surfning.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Den här webbplatsen innehåller element som kan spåra din surfning. Ditt skydd är inaktiverat.">
 <!ENTITY trackingProtection.notDetected3 "Inga spårningselement upptäcka på den här sidan.">
