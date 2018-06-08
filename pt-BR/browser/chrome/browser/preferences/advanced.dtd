@@ -23,7 +23,7 @@ available. -->
 
 <!ENTITY collectBrowserErrors.label          "Permitir que o &brandShortName; envie relatórios de erro do navegador (incluindo mensagens de erro) para a Mozilla">
 <!ENTITY collectBrowserErrors.accesskey      "b">
-<!ENTITY collectBrowserErrorsLearnMore.label "Saber mais">
+<!ENTITY collectBrowserErrorsLearnMore.label "Saiba mais">
 
 <!ENTITY sendBackloggedCrashReports.label  "Permitir ao &brandShortName; enviar relatórios de travamento em seu nome">
 <!ENTITY sendBackloggedCrashReports.accesskey "e">
