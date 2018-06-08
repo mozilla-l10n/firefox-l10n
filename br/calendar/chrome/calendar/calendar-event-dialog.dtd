@@ -410,6 +410,7 @@
 <!-- Summary dialog -->
 <!ENTITY summary.dialog.saveclose.label         "Enrollañ ha serriñ">
 <!ENTITY summary.dialog.accept.label            "Asantiñ">
+<!ENTITY summary.dialog.accept.tooltiptext      "Asantiñ ar bedadenn">
 <!ENTITY summary.dialog.decline.label           "Nac'hañ">
 <!ENTITY summary.dialog.decline.tooltiptext     "Nac'hañ ar bedadenn">
 <!ENTITY summary.dialog.dontsend.label          "Chom hep kas ur respont">

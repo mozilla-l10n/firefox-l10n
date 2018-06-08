@@ -42,6 +42,7 @@
 <!ENTITY goTodayCmd.label                       "Hiziv">
 <!ENTITY goTodayCmd.accesskey                   "H">
 
+<!ENTITY showCurrentView.label                  "Gwel red">
 <!ENTITY showCurrentView.accesskey              "V">
 
 <!ENTITY calendar.properties.accesskey          "a">

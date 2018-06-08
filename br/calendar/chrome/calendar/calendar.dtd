@@ -187,6 +187,7 @@
 <!ENTITY calendar.context.attendance.occ.accepted.accesskey     "A">
 <!ENTITY calendar.context.attendance.occ.accepted.label         "Asantet">
 <!ENTITY calendar.context.attendance.occ.tentative.accesskey    "y">
+<!ENTITY calendar.context.attendance.occ.tentative.label        "Asantet evit ar mare">
 <!ENTITY calendar.context.attendance.occ.declined.accesskey     "c">
 <!ENTITY calendar.context.attendance.occ.declined.label         "Nac'het">
 <!ENTITY calendar.context.attendance.occ.delegated.accesskey    "g">
@@ -201,6 +202,7 @@
 <!ENTITY calendar.context.attendance.all.accepted.accesskey     "e">
 <!ENTITY calendar.context.attendance.all.accepted.label         "Asantet">
 <!ENTITY calendar.context.attendance.all.tentative.accesskey    "v">
+<!ENTITY calendar.context.attendance.all.tentative.label        "Asantet evit ar mare">
 <!ENTITY calendar.context.attendance.all.declined.accesskey     "d">
 <!ENTITY calendar.context.attendance.all.declined.label         "Nac'het">
 <!ENTITY calendar.context.attendance.all.delegated.accesskey    "l">
