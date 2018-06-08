@@ -202,8 +202,11 @@
 <!ENTITY calendar.context.attendance.all.accepted.label         "Asantet">
 <!ENTITY calendar.context.attendance.all.tentative.accesskey    "v">
 <!ENTITY calendar.context.attendance.all.declined.accesskey     "d">
+<!ENTITY calendar.context.attendance.all.declined.label         "Nac'het">
 <!ENTITY calendar.context.attendance.all.delegated.accesskey    "l">
+<!ENTITY calendar.context.attendance.all.delegated.label        "Dileuriet">
 <!ENTITY calendar.context.attendance.all.needsaction.accesskey  "l">
+<!ENTITY calendar.context.attendance.all.needsaction.label      "Goulenn a ra un ober c'hoazh">
 <!ENTITY calendar.context.attendance.all.inprogress.accesskey   "p">
 <!ENTITY calendar.context.attendance.all.inprogress.label       "War ober">
 <!ENTITY calendar.context.attendance.all.completed.accesskey    "m">
@@ -216,7 +219,7 @@
 <!ENTITY calendar.context.priority.accesskey          "T">
 <!ENTITY calendar.context.postpone.accesskey          "s">
 
-<!--=percent sign-->
+<!ENTITY percnt "&#38;#37;" ><!--=percent sign-->
 
 <!ENTITY calendar.context.markcompleted.label     "Merkañ klokaet">
 <!ENTITY calendar.context.markcompleted.accesskey "k">
@@ -274,6 +277,7 @@
 <!ENTITY calendar.context.unsubscribeserver.accesskey  "g">
 <!ENTITY calendar.context.synccalendars.label          "Goubredañ deiziataerioù">
 <!ENTITY calendar.context.synccalendars.accesskey      "b">
+<!ENTITY calendar.context.publish.label                "Embann an deiziataer…">
 <!ENTITY calendar.context.publish.accesskey            "b">
 <!ENTITY calendar.context.export.label                 "Ezporzhiañ deiziataerioù...">
 <!ENTITY calendar.context.export.accesskey             "z">
@@ -304,6 +308,7 @@
 <!ENTITY calendar.context.convertmenu.task.label         "Trevell...">
 <!ENTITY calendar.context.convertmenu.task.accesskey     "T">
 
+<!ENTITY calendar.tasks.view.minimonth.label           "Mini-Miz">
 <!ENTITY calendar.tasks.view.minimonth.accesskey       "M">
 
 <!ENTITY calendar.tasks.view.calendarlist.label        "Listenn deiziataer">

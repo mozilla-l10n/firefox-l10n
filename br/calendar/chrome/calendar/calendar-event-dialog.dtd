@@ -186,6 +186,7 @@
    - populate the form fields in the dialog, there's no other immediate action on clicking like with
    - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
+<!ENTITY counter.button.proposal.label                    "Arload ar c'hinnig">
 <!ENTITY counter.button.proposal.accesskey                "p">
 <!ENTITY counter.button.original.accesskey                "r">
 
@@ -392,6 +393,7 @@
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Hollek">
 <!ENTITY read.only.title.label           "Titl:">
+<!ENTITY read.only.calendar.label        "Deiziataer:">
 <!ENTITY read.only.event.start.label     "Eus:">
 <!ENTITY read.only.task.start.label      "Eus:">
 <!ENTITY read.only.event.end.label       "Betek:">
@@ -408,3 +410,8 @@
 <!-- Summary dialog -->
 <!ENTITY summary.dialog.saveclose.label         "Enrollañ ha serriñ">
 <!ENTITY summary.dialog.accept.label            "Asantiñ">
+<!ENTITY summary.dialog.decline.label           "Nac'hañ">
+<!ENTITY summary.dialog.decline.tooltiptext     "Nac'hañ ar bedadenn">
+<!ENTITY summary.dialog.dontsend.label          "Chom hep kas ur respont">
+<!ENTITY summary.dialog.send.label              "Kas ur respont diouzhtu">
+<!ENTITY summary.dialog.send.tooltiptext        "Kas ur respont d'an aozer  ha serriñ ar prenestr">
