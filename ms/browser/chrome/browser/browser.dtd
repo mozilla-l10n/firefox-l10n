@@ -57,6 +57,8 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "Susunan (luar talian)">
 <!ENTITY  moveToNewWindow.label              "Pindah ke Tetingkap Baru">
 <!ENTITY  moveToNewWindow.accesskey          "T">
+<!ENTITY  reopenInContainer.label            "Buka semula dalam Penyimpan">
+<!ENTITY  reopenInContainer.accesskey        "k">
 <!ENTITY  bookmarkAllTabs.label              "Tandabuku Semua Tab…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "Batal Tutup Tab">
@@ -904,6 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Semua tetingkap yang kelihatan pada skrin anda akan dikongsi.">
 
 <!ENTITY trackingProtection.title "Perlindungan Penjejakan">
+<!ENTITY trackingProtection.tooltip "Buka Keutamaan Perlindungan Penjejakan">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; sedang menyekat sebahagian halaman yang mungkin menjejaki pelayaran anda.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Laman ini mengandungi elemen yang boleh menjejaki pelayaran anda. Anda telah melumpuhkan perlindungan.">
 <!ENTITY trackingProtection.notDetected3 "Tiada elemen penjejak yang dikesan dalam halaman ini.">
