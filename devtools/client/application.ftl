@@ -52,3 +52,6 @@ serviceworker-empty-suggestions = Se a página atual deve ter um service worker,
 # Suggestion to check for errors in the Console to investigate why a service worker is not
 # registered. Clicking on the link opens the webconsole.
 serviceworker-empty-suggestions-console = Procurar por erros na consola. <a>Abrir a consola</a>
+# Suggestion to go to about:debugging in order to see Service Workers for all domains.
+# Clicking on the link will open about:debugging in a new tab.
+serviceworker-empty-suggestions-aboutdebugging = Inspecione Service Workers de outros domínios. <a>Abrir about:debugging</a>
