@@ -14,6 +14,11 @@
 
 # Header for the list of Service Workers displayed in the application panel for the current page.
 serviceworker-list-header = ตัวทำงานบริการ
+# Text for the start link displayed for a registered but not running Service Worker.
+# Clicking on the link will attempt to start the service worker.
+serviceworker-worker-start = เริ่ม
+# Text displayed next to the current status of the service worker.
+serviceworker-worker-status = สถานะ
 
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.
