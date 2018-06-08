@@ -57,6 +57,8 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "დაყოვნებულია (კავშირგარეშე)">
 <!ENTITY  moveToNewWindow.label              "ახალ ფანჯარაში გადატანა">
 <!ENTITY  moveToNewWindow.accesskey          "ფ">
+<!ENTITY  reopenInContainer.label            "ხელახლა გახსნა სათავსში">
+<!ENTITY  reopenInContainer.accesskey        "ე">
 <!ENTITY  bookmarkAllTabs.label              "ყველა ჩანართის ჩანიშვნა…">
 <!ENTITY  bookmarkAllTabs.accesskey          "შ">
 <!ENTITY  undoCloseTab.label                 "დახურული ჩანართის დაბრუნება">
@@ -904,6 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "ეკრანზე ნაჩვენები ყველა ფანჯარა გაზიარდება.">
 
 <!ENTITY trackingProtection.title "თვალთვალისგან დაცვა">
+<!ENTITY trackingProtection.tooltip "თვალთვალისგან დაცვის პარამეტრების გახსნა">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; ზღუდავს საიტის იმ ნაწილებს, რომლებსაც თქვენს მოქმედებებზე თვალყურის დევნება შეუძლია.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "საიტი შეიცავს ნაწილებს, რომელიც შესაძლოა თქვენს მოქმედებებს აღრიცხავდეს. დაცვა ამჟამად, გამორთული გაქვთ.">
 <!ENTITY trackingProtection.notDetected3 "ამ გვერდზე მოთვალთვალე ელემენტები არ აღმოჩენილა.">
