@@ -57,6 +57,8 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "Na fila (offline)">
 <!ENTITY  moveToNewWindow.label              "Mover para nova janela">
 <!ENTITY  moveToNewWindow.accesskey          "j">
+<!ENTITY  reopenInContainer.label            "Reabrir no contentor">
+<!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkAllTabs.label              "Adicionar todos os separadores aos marcadores…">
 <!ENTITY  bookmarkAllTabs.accesskey          "t">
 <!ENTITY  undoCloseTab.label                 "Reabrir separador fechado">
@@ -904,6 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Serão partilhadas todas as janelas visíveis no seu ecrã.">
 
 <!ENTITY trackingProtection.title "Proteção contra monitorização">
+<!ENTITY trackingProtection.tooltip "Abrir preferências de proteção contra monitorização">
 <!ENTITY trackingProtection.detectedBlocked3 "O &brandShortName; está a bloquear partes da página que podem monitorizar a sua navegação.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Este site incluí elementos que podem monitorizar a sua navegação. A proteção contra monitorização foi desativada por si.">
 <!ENTITY trackingProtection.notDetected3 "Não foram detetados elementos de monitorização nesta página.">
