@@ -83,6 +83,13 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Čia galima nurodyti svetaines, kurioms bus leidžiama įdiegti priedus. Surinkite tikslų svetainės adresą ir spustelėkite mygtuką „Leisti“.
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = Leidžiamos svetainės – automatinis grojimas
+    .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc = Galite nurodyti, kurioms svetainėms leidžiate automatiškai groti medijos elementus. Įveskite tikslų svetainės adresą ir spustelėkite „Leisti“.
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
