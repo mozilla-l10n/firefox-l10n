@@ -83,6 +83,13 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = คุณสามารถระบุเว็บไซต์ที่อนุญาตให้ติดตั้งส่วนเสริม พิมพ์ที่อยู่ของไซต์ที่คุณต้องการอนุญาตแล้วคลิก อนุญาต
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = เว็บไซต์ที่อนุญาต - การเล่นอัตโนมัติ
+    .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc = คุณสามารถระบุเว็บไซต์ที่อนุญาตให้เล่นองค์ประกอบสื่อโดยอัตโนมัติ พิมพ์ที่อยู่ของไซต์ที่คุณต้องการอนุญาตแล้วคลิก อนุญาต
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
