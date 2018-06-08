@@ -23,6 +23,7 @@
 
 <!ENTITY pref.default_task_none.label "Netra">
 <!ENTITY pref.default_task_tomorrow.label "Warc'hoazh">
+<!ENTITY pref.default_task_next_week.label "Ar sizhun a-zeu">
 
 <!ENTITY pref.calendar.todaypane.agenda.caption "Panell &amp;hiziv">
 <!-- LOCALIZATION NOTE (pref.soondays2.label):
