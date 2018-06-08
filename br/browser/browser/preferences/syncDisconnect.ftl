@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+sync-disconnect-dialog =
+    .title = Digevreañ { -sync-brand-short-name }?
+    .style = width: 36em; min-height: 35em;
+sync-disconnect-remove-sync-caption = Dilemel roadennoù { -sync-brand-name }
+sync-disconnect-remove-sync-data = Sinedoù, roll-istor, gerioù-tremen, hag-all hag-all.
+sync-disconnect-remove-other-caption = Dilemel roadennoù prevez all
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = O tigevreañ...
 sync-disconnect-cancel =

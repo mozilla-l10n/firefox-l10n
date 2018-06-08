@@ -83,6 +83,13 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Posupl eo deoc'h erspizañ pe lec'hiennoù a vo aotreet da staliañ askouezhioù. Roit chomlec'h spis al lec'hienn da vezañ aotreet ha klikit war Aotren.
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = Lec'hiennoù internet aotreet - Emlenn
+    .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc = Gellout a rit termeniñ peseurt lec'hiennoù a zo aotreet evit emlenn elfennoù media. Skrivit chomlec'h rik al lec'hienn ho peus c'hoant da aotren ha klikit war Aotren neuze.
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
