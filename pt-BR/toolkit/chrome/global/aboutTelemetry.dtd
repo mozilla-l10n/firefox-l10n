@@ -35,35 +35,24 @@ Abri no visualizador de JSON
 ">
 
 <!ENTITY aboutTelemetry.homeSection "Início">
-<!ENTITY aboutTelemetry.generalDataSection "  Dados gerais">
-<!ENTITY aboutTelemetry.environmentDataSection "  Dados do ambiente">
-<!ENTITY aboutTelemetry.sessionInfoSection "
-  Informações da sessão">
+<!ENTITY aboutTelemetry.generalDataSection "Dados gerais">
+<!ENTITY aboutTelemetry.environmentDataSection "Dados do ambiente">
+<!ENTITY aboutTelemetry.sessionInfoSection "Informações da sessão">
 <!ENTITY aboutTelemetry.scalarsSection "Escalares">
 <!ENTITY aboutTelemetry.keyedScalarsSection "Escalares nomeados">
 <!ENTITY aboutTelemetry.histogramsSection "Histogramas">
 <!ENTITY aboutTelemetry.keyedHistogramsSection "Histogramas nomeados">
 <!ENTITY aboutTelemetry.eventsSection "Eventos">
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "Medições simples">
-<!ENTITY aboutTelemetry.telemetryLogSection "  Registro de telemetria">
-<!ENTITY aboutTelemetry.slowSqlSection "  Instruções SQL lentas">
-<!ENTITY aboutTelemetry.chromeHangsSection "  Congelamentos do navegador">
-<!ENTITY aboutTelemetry.addonDetailsSection "
-  Detalhes da extensão">
-<!ENTITY aboutTelemetry.capturedStacksSection "
-  Pilhas capturadas">
-<!ENTITY aboutTelemetry.lateWritesSection "  Escritas atrasadas">
-<!ENTITY aboutTelemetry.rawPayloadSection "
-Dados brutos
-">
-<!ENTITY aboutTelemetry.raw "
-Raw JSON
-">
+<!ENTITY aboutTelemetry.telemetryLogSection "Registro de telemetria">
+<!ENTITY aboutTelemetry.slowSqlSection "Instruções SQL lentas">
+<!ENTITY aboutTelemetry.chromeHangsSection "Congelamentos do navegador">
+<!ENTITY aboutTelemetry.addonDetailsSection "Detalhes de extensões">
+<!ENTITY aboutTelemetry.capturedStacksSection "Pilhas capturadas">
+<!ENTITY aboutTelemetry.lateWritesSection "Escritas atrasadas">
+<!ENTITY aboutTelemetry.rawPayloadSection "Carga útil bruta">
+<!ENTITY aboutTelemetry.raw "JSON bruto">
 
-<!ENTITY aboutTelemetry.fullSqlWarning "  NOTA: a depuração de SQL lento está ativada. As strings SQL podem ser integralmente exibidas mas elas não serão enviadas pela telemetria.">
-<!ENTITY aboutTelemetry.fetchStackSymbols "
-  Carregar nomes de funções para stacks
-">
-<!ENTITY aboutTelemetry.hideStackSymbols "
-  Exibir dados brutos da stack
-">
+<!ENTITY aboutTelemetry.fullSqlWarning "NOTA: está ativada a depuração de SQL lento. Strings SQL completas podem ser exibidas abaixo, mas não serão enviadas para telemetria.">
+<!ENTITY aboutTelemetry.fetchStackSymbols "Coletar nomes de funções para pilhas">
+<!ENTITY aboutTelemetry.hideStackSymbols "Exibir dados brutos da pilha">
