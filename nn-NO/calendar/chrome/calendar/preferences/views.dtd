@@ -38,3 +38,4 @@
 <!ENTITY pref.numberofweeks.5 "5 veker">
 <!ENTITY pref.numberofweeks.6 "6 veker">
 <!ENTITY pref.showlocation.label "Vis plassering">
+<!ENTITY pref.showlocation.accesskey "L">
