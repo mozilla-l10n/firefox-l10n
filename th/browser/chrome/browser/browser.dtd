@@ -56,6 +56,8 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceFeedback.label         "ส่งแล้ว!">
 <!ENTITY  moveToNewWindow.label              "ย้ายไปยังหน้าต่างใหม่">
 <!ENTITY  moveToNewWindow.accesskey          "ม">
+<!ENTITY  reopenInContainer.label            "เปิดใหม่ในการแยกข้อมูล">
+<!ENTITY  reopenInContainer.accesskey        "ย">
 <!ENTITY  bookmarkAllTabs.label              "เพิ่มที่คั่นหน้าสำหรับแท็บทั้งหมด…">
 <!ENTITY  bookmarkAllTabs.accesskey          "บ">
 <!ENTITY  undoCloseTab.label                 "เลิกทำการปิดแท็บ">
