@@ -30,7 +30,34 @@ serviceworker-worker-start = Paleisti
 # Text displayed for the updated time of the service worker. The <time> element will
 # display the last update time of the service worker script.
 serviceworker-worker-updated = Atnaujinta <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
+# Text displayed next to the URL for the source of the service worker (e-g. "Source my/path/to/worker-js")
+serviceworker-worker-source = Išteklius
+# Text displayed next to the current status of the service worker.
+serviceworker-worker-status = Būsena
 
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.
 
+# Service Worker status. A running service worker is registered, currently executed, can
+# be debugged and stopped.
+serviceworker-worker-status-running = Vykdomas
+# Service Worker status. A stopped service worker is registered but not currently active.
+serviceworker-worker-status-stopped = Sustabdytas
+# Service Worker status. A registering service worker is not yet registered and cannot be
+# started or debugged.
+serviceworker-worker-status-registering = Registruojamas
+# Text displayed when no service workers are visible for the current page. Clicking on the
+# link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
+serviceworker-empty-intro = Norėdami čia tirti aptarnavimo scenarijų, turite jį užregistruoti. <a>Sužinoti daugiau</a>
+# Text displayed when there are no Service Workers to display for the current page,
+# introducing hints to debug Service Worker issues.
+serviceworker-empty-suggestions = Jei esamas tinklalapis turėtų aptarnavimo scenarijų, štai keletas dalykų, kuriuos galite pabandyti
+# Suggestion to check for errors in the Console to investigate why a service worker is not
+# registered. Clicking on the link opens the webconsole.
+serviceworker-empty-suggestions-console = Paieškokite klaidų pulte. <a>Atverti pultą</a>
+# Suggestion to use the debugger to investigate why a service worker is not registered.
+# Clicking on the link will switch from the Application panel to the debugger.
+serviceworker-empty-suggestions-debugger = Pažingsniuokite per savo aptarnavimo scenarijaus registraciją ir paieškokite išimčių. <a>Atverti derintuvę</a>
+# Suggestion to go to about:debugging in order to see Service Workers for all domains.
+# Clicking on the link will open about:debugging in a new tab.
+serviceworker-empty-suggestions-aboutdebugging = Tirkite aptarnavimo scenarijus iš kitų domenų. <a>Atverti about:debugging</a>
