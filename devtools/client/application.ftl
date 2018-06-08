@@ -55,6 +55,9 @@ serviceworker-empty-suggestions = 若目前頁面中應有 Service Worker，以�
 # Suggestion to check for errors in the Console to investigate why a service worker is not
 # registered. Clicking on the link opens the webconsole.
 serviceworker-empty-suggestions-console = 在主控台查看是否有錯誤發生。<a>開啟主控台</a>
+# Suggestion to use the debugger to investigate why a service worker is not registered.
+# Clicking on the link will switch from the Application panel to the debugger.
+serviceworker-empty-suggestions-debugger = 註冊您的 Service Worker，查看是否有例外發生。<a>開啟除錯器</a>
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = 檢測來自其他網域的 Service Worker。<a>開啟 about:debugging</a>
