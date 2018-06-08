@@ -190,6 +190,9 @@
 <!ENTITY calendar.context.attendance.occ.declined.accesskey     "c">
 <!ENTITY calendar.context.attendance.occ.declined.label         "Nac'het">
 <!ENTITY calendar.context.attendance.occ.delegated.accesskey    "g">
+<!ENTITY calendar.context.attendance.occ.delegated.label        "Dileuriadet">
+<!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "S">
+<!ENTITY calendar.context.attendance.occ.needsaction.label      "Goulenn a ra un ober c'hoazh">
 
 
 <!-- Task Context Menu -->
