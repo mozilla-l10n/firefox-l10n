@@ -899,6 +899,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "หน้าต่างที่ปรากฏอยู่ทั้งหมดบนหน้าจอของคุณจะถูกแบ่งปัน">
 
 <!ENTITY trackingProtection.title "การป้องกันการติดตาม">
+<!ENTITY trackingProtection.tooltip "เปิดค่ากำหนดการป้องกันการติดตาม">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; กำลังปิดกั้นบางส่วนของหน้าที่อาจติดตามการท่องเว็บของคุณ">
 <!ENTITY trackingProtection.detectedNotBlocked3 "ไซต์นี้มีองค์ประกอบที่อาจติดตามการท่องเว็บของคุณ คุณได้ปิดใช้งานการป้องกัน">
 <!ENTITY trackingProtection.notDetected3 "ไม่พบองค์ประกอบที่มีการติดตามในหน้านี้">
