@@ -42,7 +42,6 @@
      These strings are used in the calendar wizard and the calendar properties dialog, but are only
      displayed when setting/using a caldav calendar -->
 <!ENTITY lightning.calendarproperties.email.label                           "Postel :">
-
 <!-- LOCALIZATON NOTE(lightning.calendarproperties.forceEmailScheduling.tooltiptext1,
      lightning.calendarproperties.forceEmailScheduling.tooltiptext2)
      - tooltiptext1 is used in the calendar wizard when setting a new caldav calendar
@@ -55,9 +54,11 @@
 <!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Asantiñ ar bedadenn zarvoud evit an holl reveziadennoù eus an darvoud">
 <!ENTITY lightning.imipbar.btnAdd.label                                     "Ouzhpennañ">
 <!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Ouzhpennañ un darvoud d'an deiziataer">
+<!ENTITY lightning.imipbar.btnDecline.label                                 "Nac'hañ">
 <!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Nac'h ar bedadenn zarvoud">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Nac'hañ an holl">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Nac'h ar bedadenn zarvoud evit an holl reveziadennoù eus an darvoud">
+<!ENTITY lightning.imipbar.btnDeclineCounter.label                          "Nac'hañ">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Dilemel">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Dilemel eus an deiziataer">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Munudoù...">
@@ -74,12 +75,20 @@
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Hizivaat an darvoud en deiziataer">
 <!ENTITY lightning.imipbar.description                                      "Ur bedadenn d'un darvoud a zo endalc'het er gemennadenn-mañ.">
 
+
 <!-- Lightning specific keybindings -->
+<!ENTITY lightning.keys.event.showCalendar.key "C">
+<!ENTITY lightning.keys.event.showTasks.key "D">
+<!ENTITY lightning.keys.event.new "I">
+<!ENTITY lightning.keys.todo.new "D">
 
 <!-- Account Central page -->
 <!ENTITY lightning.acctCentral.newCalendar.label "Krouiñ un deiziataer nevez">
 
 <!-- today-pane-specific -->
+<!ENTITY todaypane.showMinimonth.accesskey "M">
+<!ENTITY todaypane.showMiniday.accesskey  "d">
+<!ENTITY todaypane.showNone.accesskey "N">
 <!ENTITY todaypane.showTodayPane.label "Diskouez Panell Hiziv">
 <!ENTITY todaypane.showTodayPane.accesskey "D">
 <!ENTITY todaypane.statusButton.label "Panell &amp;hiziv">

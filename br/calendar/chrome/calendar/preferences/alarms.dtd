@@ -8,9 +8,14 @@
   -->
 
 <!ENTITY pref.playasound "&amp;Seniñ ur son">
+<!ENTITY pref.calendar.alarms.playsound.accessKey "s">
+<!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "d">
+<!ENTITY pref.calendar.alarms.sound.browse.label "Furchal…">
+<!ENTITY pref.calendar.alarms.sound.browse.accessKey "B">
+<!ENTITY pref.calendar.alarms.sound.play.label "Lenn">
+<!ENTITY pref.calendar.alarms.sound.play.accessKey "P">
 <!ENTITY pref.showalarmbox "Diskouez ar voestad emziviz kounadur">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "x">
-<!ENTITY pref.missedalarms "Diskouez ar c'hounadurioù manket">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "m">
 <!ENTITY pref.calendar.alarms.defaults.label "Kounadur dre ziouer">
 <!ENTITY pref.defalarm4events.label "Arventennoù kounadur dre ziouer evit an darvoudoù :">
