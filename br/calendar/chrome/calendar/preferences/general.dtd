@@ -19,9 +19,12 @@
 <!ENTITY pref.events.label "Darvdoudoù">
 <!ENTITY pref.tasks.label "Trevelloù">
 
+<!ENTITY pref.default_event_length.label "Ment dre ziouer:" >
 <!ENTITY pref.default_event_length.accesskey "E">
 
 <!ENTITY pref.default_task_none.label "Netra">
+<!ENTITY pref.default_task_start_of_day.label "Mintinvezh">
+<!ENTITY pref.default_task_end_of_day.label "Endervezh">
 <!ENTITY pref.default_task_tomorrow.label "Warc'hoazh">
 <!ENTITY pref.default_task_next_week.label "Ar sizhun a-zeu">
 

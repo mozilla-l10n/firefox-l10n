@@ -86,8 +86,11 @@
 <!ENTITY lightning.acctCentral.newCalendar.label "Krouiñ un deiziataer nevez">
 
 <!-- today-pane-specific -->
+<!ENTITY todaypane.showMinimonth.label "Diskouez ar mini-miz">
 <!ENTITY todaypane.showMinimonth.accesskey "M">
+<!ENTITY todaypane.showMiniday.label "Diskouez ar mini-deiz">
 <!ENTITY todaypane.showMiniday.accesskey  "d">
+<!ENTITY todaypane.showNone.label "Chom hep diskouez netra">
 <!ENTITY todaypane.showNone.accesskey "N">
 <!ENTITY todaypane.showTodayPane.label "Diskouez Panell Hiziv">
 <!ENTITY todaypane.showTodayPane.accesskey "D">

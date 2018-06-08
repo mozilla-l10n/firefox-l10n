@@ -13,6 +13,8 @@
 <!ENTITY lightning.toolbar.delete.tooltip "Dilemel an darvoudoù hag an trevelloù diuzet">
 <!ENTITY lightning.toolbar.edit.label "Embann">
 <!ENTITY lightning.toolbar.edit.tooltip "Embann an darvoud pe an trevell diuzet">
+<!ENTITY lightning.toolbar.gototoday.label "Mont da hiziv">
+<!ENTITY lightning.toolbar.gototoday.tooltip "Mont da Hiziv">
 <!ENTITY lightning.toolbar.print.label "Moullañ">
 <!ENTITY lightning.toolbar.print.tooltip "Moullañ an darvoudoù pe an trevelloù">
 
@@ -20,6 +22,7 @@
 <!ENTITY lightning.toolbar.calendar.label     "Deiziataer">
 <!ENTITY lightning.toolbar.calendar.tooltip   "Mont betek ivinell an deiziataer">
 <!ENTITY lightning.toolbar.calendar.accesskey "D">
+<!ENTITY lightning.toolbar.task.label         "Trevelloù">
 <!ENTITY lightning.toolbar.task.tooltip       "Mont betek ivinell an trevelloù">
 <!ENTITY lightning.toolbar.task.accesskey     "T">
 
