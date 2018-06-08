@@ -57,6 +57,8 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "בתור (לא מקוון)">
 <!ENTITY  moveToNewWindow.label              "העברה לחלון חדש">
 <!ENTITY  moveToNewWindow.accesskey          "ה">
+<!ENTITY  reopenInContainer.label            "פתיחה מחדש במגירה">
+<!ENTITY  reopenInContainer.accesskey        "פ">
 <!ENTITY  bookmarkAllTabs.label              "יצירת סימנייה לכל הלשוניות…">
 <!ENTITY  bookmarkAllTabs.accesskey          "צ">
 <!ENTITY  undoCloseTab.label                 "ביטול סגירת לשונית">
@@ -98,7 +100,7 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "טעינה מחדש של כל הלשוניות">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "כ">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "יצירת סימניה לכל הלשוניות…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "יצירת סימנייה לכל הלשוניות…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "ס">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "ביטול סגירת לשונית">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "ב">
@@ -904,6 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "ישותפו כל החלונות הגלויים על המסך.">
 
 <!ENTITY trackingProtection.title "הגנת מעקב">
+<!ENTITY trackingProtection.tooltip "פתיחת העדפות הגנת מעקב">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; חוסם חלקים מהדף שעשויים לעקוב אחר הגלישה שלך.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "אתר זה כולל רכיבים שעשויים לעקוב אחר הגלישה שלך. נטרלת את ההגנה.">
 <!ENTITY trackingProtection.notDetected3 "לא זוהו פריטים שעוקבים אחריך בדף זה.">
