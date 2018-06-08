@@ -20,3 +20,26 @@
 
 <!ENTITY finishpage.shortdescription  "Krouet an deiziataer" >
 <!ENTITY finishpage.longdescription   "Krouet eo bet ho teiziataer." >
+
+<!-- Below are new strings for the revised new calendar dialog. The above strings should be
+    removed/renamed later on -->
+
+<!ENTITY sourcetabs.other.label  "Re all">
+
+<!ENTITY buttons.create.label "Krouiñ un deiziataer">
+<!ENTITY buttons.create.accesskey "r">
+
+<!ENTITY buttons.find.label "Kavout deiziataerioù">
+<!ENTITY buttons.find.accesskey "F">
+
+<!ENTITY buttons.back.label "Distreiñ">
+<!ENTITY buttons.back.accesskey "B">
+
+<!ENTITY buttons.subscribe.label "Koumanantiñ">
+<!ENTITY buttons.subscribe.accesskey "S">
+
+<!ENTITY calendartype.label "Doare deiziataer:">
+<!ENTITY location.label "Lec'hiadur:">
+<!ENTITY location.placeholder "URL pe anv herbrec'hier servijer an deiziataer">
+
+
