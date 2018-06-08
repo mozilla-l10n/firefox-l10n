@@ -35,6 +35,8 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "Tampar los autres onglets">
 <!ENTITY  closeOtherTabs.accesskey           "t">
 
+<!ENTITY  closeSelectedTabs.label            "Tampar los onglets seleccionats">
+<!ENTITY  closeSelectedTabs.accesskey        "T">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -55,6 +57,8 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "En renga (fòra linha)">
 <!ENTITY  moveToNewWindow.label              "Desplaçar cap a una fenèstra novèla">
 <!ENTITY  moveToNewWindow.accesskey          "n">
+<!ENTITY  reopenInContainer.label            "Tornar dobrir dins un onglet isolat">
+<!ENTITY  reopenInContainer.accesskey        "d">
 <!ENTITY  bookmarkAllTabs.label              "Marcar totes los onglets…">
 <!ENTITY  bookmarkAllTabs.accesskey          "M">
 <!ENTITY  undoCloseTab.label                 "Anullar la tampadura de l'onglet">
@@ -250,6 +254,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Acuèlh">
 
+<!ENTITY homeButton.defaultPage.tooltip "Acuèlh de &brandShortName;">
 
 <!ENTITY bookmarksButton.label          "Marcapaginas">
 <!ENTITY bookmarksCmd.commandkey "b">
@@ -430,6 +435,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "Apondre mai d'elements…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
+<!ENTITY customizeMenu.autoHideDownloadsButton.label "Amagar automaticament dins la barra d’aisinas">
+<!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
 <!ENTITY customizeMenu.manageExtension.label "Gerir l’extension">
 <!ENTITY customizeMenu.manageExtension.accesskey "e">
 
@@ -898,6 +905,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "L'ensemble de las fenèstras visiblas sus vòstre ecran seràn partejadas.">
 
 <!ENTITY trackingProtection.title "Proteccion contra lo seguiment">
+<!ENTITY trackingProtection.tooltip "Dobrir las preferéncias de proteccion contra lo seguiment">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; a blocat d'elements de la pagina que pòdon pistar vòstra navegacion.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Aquel site compren d'elements que pòdon pistar vòstra navegacion. Avètz desactivat la proteccion.">
 <!ENTITY trackingProtection.notDetected3 "Pas cap d'element de seguiment es estat detectat sus aquela pagina.">
@@ -997,6 +1005,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.disableButton.label "Desactivar l’extension">
 <!ENTITY homepageControlled.disableButton.accesskey "D">
 
+<!ENTITY tabHideControlled.header.message "Accedir als onglets amagats">
+<!ENTITY tabHideControlled.keepButton.label "Gardar los onglets amagats">
+<!ENTITY tabHideControlled.keepButton.accesskey "G">
 <!ENTITY tabHideControlled.disableButton.label "Desactivar l’extension">
 <!ENTITY tabHideControlled.disableButton.accesskey "D">
 
