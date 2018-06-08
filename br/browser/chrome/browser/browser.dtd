@@ -35,6 +35,7 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "Serriñ an ivinelloù all">
 <!ENTITY  closeOtherTabs.accesskey           "S">
 
+<!ENTITY  closeSelectedTabs.label            "Serriñ an ivinelloù diuzet">
 <!ENTITY  closeSelectedTabs.accesskey        "S">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
@@ -56,6 +57,8 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "Lakaet er roll (ezlinenn)">
 <!ENTITY  moveToNewWindow.label              "Dilec'hiañ en ur prenestr nevez">
 <!ENTITY  moveToNewWindow.accesskey          "D">
+<!ENTITY  reopenInContainer.label            "Addigeriñ en endalc'had">
+<!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkAllTabs.label              "Lakaat ur sined war an holl ivinelloù…">
 <!ENTITY  bookmarkAllTabs.accesskey          "k">
 <!ENTITY  undoCloseTab.label                 "Dizober Serriñ an ivinell">
