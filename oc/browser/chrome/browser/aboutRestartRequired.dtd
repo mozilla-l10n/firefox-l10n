@@ -4,5 +4,6 @@
 
 <!ENTITY restartRequired.title "Reaviada necessària">
 
+<!ENTITY restartRequired.header "O planhèm, manca pas gaire per poder contunhar.">
 
 <!ENTITY restartButton.label "Reaviar &brandShortName;">

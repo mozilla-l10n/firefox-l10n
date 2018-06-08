@@ -82,6 +82,12 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Podètz indicar los sites web qu'autorizatz a installar de moduls complementaris. Picatz l'adreça exacta del site que volètz autorizar puèi clicatz sus Autorizar.
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = Sites autorizats - Auto lectura
+    .style = { permissions-window.style }
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
