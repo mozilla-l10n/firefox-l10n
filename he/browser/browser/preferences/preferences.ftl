@@ -338,7 +338,7 @@ network-proxy-title = מתווך רשת
 network-proxy-connection-description = הגדרת אופן החיבור של { -brand-short-name } לאינטרנט.
 network-proxy-connection-learn-more = מידע נוסף
 network-proxy-connection-settings =
-    .label = הגדרות...
+    .label = הגדרות…
     .accesskey = ה
 
 ## Home Section
@@ -423,7 +423,7 @@ search-keyword-warning-title = מילת מפתח כפולה
 # Variables:
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = בחרת להשתמש במילת מפתח שנמצאת כרגע בשימוש עבור "{ $name }". אנא בחר במילה אחרת.
-search-keyword-warning-bookmark = בחרת להשתמש במילת מפתח שנמצאת כרגע בשימוש של סימנייה. אנא בחר במילה אחרת.
+search-keyword-warning-bookmark = בחרת להשתמש במילת מפתח שנמצאת כרגע בשימוש על ידי סימנייה. נא לבחור במילה אחרת.
 
 ## Containers Section
 
@@ -613,9 +613,9 @@ sitedata-block-cookies-option =
 sitedata-keep-until = שמירה עד ש:
     .accesskey = מ
 sitedata-keep-until-expire =
-    .label = התפוגה שלהם
+    .label = פג תוקפם
 sitedata-keep-until-closed =
-    .label = ‏{ -brand-short-name } סגור
+    .label = ‏{ -brand-short-name } ייסגר
 sitedata-accept-third-party-desc = קבלת עוגיות ונתוני אתרים מצד שלישי
     .accesskey = ש
 sitedata-accept-third-party-always-option =
@@ -680,23 +680,29 @@ permissions-header = הרשאות
 permissions-location = מיקום
 permissions-location-settings =
     .label = הגדרות…
-    .accesskey = מ
+    .accesskey = ה
 permissions-camera = מצלמה
 permissions-camera-settings =
     .label = הגדרות…
-    .accesskey = צ
+    .accesskey = ה
 permissions-microphone = מיקרופון
 permissions-microphone-settings =
     .label = הגדרות…
-    .accesskey = ק
+    .accesskey = ה
 permissions-notification = התרעות
 permissions-notification-settings =
     .label = הגדרות…
-    .accesskey = ע
+    .accesskey = ה
 permissions-notification-link = מידע נוסף
 permissions-notification-pause =
     .label = השהיית התרעות עד להפעלה מחדש של { -brand-short-name }
     .accesskey = ה
+permissions-block-autoplay-media =
+    .label = חסימת אתרים מניגון מדיה עם קול באופן אוטומטי
+    .accesskey = מ
+permissions-block-autoplay-media-exceptions =
+    .label = חריגות…
+    .accesskey = ח
 permissions-block-popups =
     .label = חסימת חלונות קופצים
     .accesskey = ח
