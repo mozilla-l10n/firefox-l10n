@@ -83,6 +83,13 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Anda boleh tentukan laman web yang diizinkan memasang add-ons. Taip alamat laman yang tepat untuk anda izinkan dan kemudian klik Izinkan.
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = Laman Web Diizinkan - Auto-main
+    .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc = Anda boleh tentukan laman web yang diizinkan secara automatik memainkan elemen media. Taip alamat tepat laman yang anda izinkan dan klik Izinkan.
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
