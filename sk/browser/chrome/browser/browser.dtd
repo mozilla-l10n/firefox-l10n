@@ -57,6 +57,8 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "V poradí (offline)">
 <!ENTITY  moveToNewWindow.label              "Presunúť do nového okna">
 <!ENTITY  moveToNewWindow.accesskey          "k">
+<!ENTITY  reopenInContainer.label            "Otvoriť v kontajneri">
+<!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkAllTabs.label              "Pridať všetky karty medzi záložky…">
 <!ENTITY  bookmarkAllTabs.accesskey          "v">
 <!ENTITY  undoCloseTab.label                 "Obnoviť zatvorenú kartu">
@@ -904,6 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Všetky okná viditeľné na vašej obrazovke budú zdieľané.">
 
 <!ENTITY trackingProtection.title "Ochrana pred sledovaním">
+<!ENTITY trackingProtection.tooltip "Otvorí nastavenia ochrany pred sledovaním">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokuje časti stránky, ktoré môžu sledovať vaše prehliadanie.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Na tejto stránke boli nájdené prvky sledovania. Ochrana pred sledovaním je však pre túto stránku vypnutá.">
 <!ENTITY trackingProtection.notDetected3 "Na tejto stránke neboli zistené žiadne prvky sledovania.">
