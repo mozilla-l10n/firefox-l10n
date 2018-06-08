@@ -179,7 +179,17 @@
 <!ENTITY calendar.context.attendance.menu.accesskey             "a">
 <!ENTITY calendar.context.attendance.occurrence.label           "Ar reveziadenn-mañ">
 <!ENTITY calendar.context.attendance.all2.label                 "Heuliadennoù klok">
+<!ENTITY calendar.context.attendance.send.label                 "Kas un notennaouenn bremañ">
+<!ENTITY calendar.context.attendance.send.accesskey             "S">
+<!ENTITY calendar.context.attendance.dontsend.label             "Chom hep kas an notennaouenn">
+<!ENTITY calendar.context.attendance.dontsend.accesskey         "D">
 
+<!ENTITY calendar.context.attendance.occ.accepted.accesskey     "A">
+<!ENTITY calendar.context.attendance.occ.accepted.label         "Asantet">
+<!ENTITY calendar.context.attendance.occ.tentative.accesskey    "y">
+<!ENTITY calendar.context.attendance.occ.declined.accesskey     "c">
+<!ENTITY calendar.context.attendance.occ.declined.label         "Nac'het">
+<!ENTITY calendar.context.attendance.occ.delegated.accesskey    "g">
 
 
 <!-- Task Context Menu -->
