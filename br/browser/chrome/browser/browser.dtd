@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Kadavin roadennoù er c'hadaviñ diastal">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Reoliet a-bell eo ar merdeer">
 
-<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Digeriñ ar banell anaouadur web">
+<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Digeriñ ar banell dilesa web">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Ardeiñ rannadur ho kamera ha/pe ho mikrofon gant al lec'hienn">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Ardeiñ rannadur ho mikrofon gant al lec'hienn">
@@ -254,7 +254,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "D'ar gêr">
 
-<!ENTITY homeButton.defaultPage.tooltip "&brandShortName; Pennbajenn">
+<!ENTITY homeButton.defaultPage.tooltip "Pennbajenn &brandShortName;">
 
 <!ENTITY bookmarksButton.label          "Sinedoù">
 <!ENTITY bookmarksCmd.commandkey "b">
@@ -304,7 +304,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Ensellout an elfenn">
 <!ENTITY inspectContextMenu.accesskey "E">
 
-<!ENTITY inspectA11YContextMenu.label     "Ensellit ar perzhioù tizhusted">
+<!ENTITY inspectA11YContextMenu.label     "Ensellit ar perzhioù haezadusted">
 
 <!ENTITY fileMenu.label         "Restr">
 <!ENTITY fileMenu.accesskey       "R">
@@ -896,7 +896,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "S">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Arverañ Stok evit ar mod taolennig">
 
-<!ENTITY customizeMode.autoHideDownloadsButton.label "Em-guzhañ">
+<!ENTITY customizeMode.autoHideDownloadsButton.label "Kuzhat emgefreek">
 
 <!ENTITY getUserMedia.selectCamera.label "Webkam da rannañ :">
 <!ENTITY getUserMedia.selectCamera.accesskey "W">

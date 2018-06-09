@@ -86,9 +86,9 @@ permissions-exceptions-addons-desc = Posupl eo deoc'h erspizañ pe lec'hiennoù 
 ## Exceptions - Autoplay Media
 
 permissions-exceptions-autoplay-media-window =
-    .title = Lec'hiennoù internet aotreet - Emlenn
+    .title = Lec'hiennoù internet aotreet - Lenn emgefreek
     .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = Gellout a rit termeniñ peseurt lec'hiennoù a zo aotreet evit emlenn elfennoù media. Skrivit chomlec'h rik al lec'hienn ho peus c'hoant da aotren ha klikit war Aotren neuze.
+permissions-exceptions-autoplay-media-desc = Gellout a rit despizañ peseurt lec'hiennoù a zo aotreet evit lenn elfennoù media ent emgefreek. Biziatait chomlec'h rik al lec'hienn ho peus c'hoant da aotren ha klikit war Aotren.
 
 ## Site Permissions - Notifications
 

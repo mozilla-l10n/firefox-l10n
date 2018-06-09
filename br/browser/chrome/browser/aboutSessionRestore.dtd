@@ -6,7 +6,7 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-<!ENTITY restorepage.errorTitle2    "Digarezit. Poan hon eus o kaout ho pajennoù en-dro.">
+<!ENTITY restorepage.errorTitle2    "Digarezit. Diaesterioù hon eus o kaout ho pajennoù en-dro.">
 <!ENTITY restorepage.problemDesc2   "Poan hon eus oc'h assav hoc'h estez merdeiñ diwezhañ. Diuzit “Assav an estez” da glask en-dro.">
 <!ENTITY restorepage.tryThis2       "Divarrek c'hoazh da assav hoc'h estez? A-wechoù eo un ivinell a zo kaoz. Gwelit an ivinelloù kent, lamit kuit al log da gevaskañ diouzh an ivinelloù n'ho peus ket c'hoant da assav, hag assavit goude-se.">
 
