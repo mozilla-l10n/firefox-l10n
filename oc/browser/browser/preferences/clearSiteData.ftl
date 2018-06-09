@@ -5,6 +5,9 @@
 clear-site-data-window =
     .title = Escafar las donadas
     .style = width: 35em
+clear-site-data-description = Escafar totes los cookoes e las dondas dels sites emmagazinats per { -brand-short-name } pòt provocar una desconnexion als sites web e suprimir de contenguts fòra linha. Escafar las donadas en cache afècta pas las sessions iniciadas. 
+clear-site-data-close-key =
+    .key = w
 # The parameters in parentheses in this string describe disk usage
 # in the format ($amount $unit), e.g. "Cookies and Site Data (24 KB)"
 # Variables:
