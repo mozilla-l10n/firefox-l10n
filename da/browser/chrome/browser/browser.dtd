@@ -57,6 +57,8 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "Sat i kø (offline)">
 <!ENTITY  moveToNewWindow.label              "Flyt til nyt vindue">
 <!ENTITY  moveToNewWindow.accesskey          "v">
+<!ENTITY  reopenInContainer.label            "Åbn igen i Kontekst">
+<!ENTITY  reopenInContainer.accesskey        "K">
 <!ENTITY  bookmarkAllTabs.label              "Bogmærk alle faneblade…">
 <!ENTITY  bookmarkAllTabs.accesskey          "o">
 <!ENTITY  undoCloseTab.label                 "Fortryd lukning af faneblad">
@@ -940,6 +942,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Alle synlige vinduer på din skærm vil blive delt.">
 
 <!ENTITY trackingProtection.title "Beskyttelse mod sporing">
+<!ENTITY trackingProtection.tooltip "Åbn indstillinger for beskyttelse mod sporing">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokerer de dele af siden, der kan spore dig på nettet.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Dette websted indeholder elementer, der kan spore dig på nettet. Du har slået beskyttelse fra.">
 <!ENTITY trackingProtection.notDetected3 "Ingen sporings-elementer fundet på denne side">
