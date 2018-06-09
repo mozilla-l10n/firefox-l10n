@@ -904,6 +904,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "L’ensemble des fenêtres visibles sur votre écran seront partagées.">
 
 <!ENTITY trackingProtection.title "Protection contre le pistage">
+<!ENTITY trackingProtection.tooltip "Ouvrir les préférences de la protection contre le pistage">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; a bloqué des éléments de la page qui peuvent pister votre navigation.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Ce site possède des éléments qui peuvent pister votre navigation. Vous avez désactivé la protection.">
 <!ENTITY trackingProtection.notDetected3 "Aucun élément de pistage détecté sur cette page.">
