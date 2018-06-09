@@ -45,4 +45,7 @@
 <!ENTITY network.nocredentials.label "Chan eil feum air ainm-cleachdaiche no facal-faire san ionad seo">
 <!ENTITY network.loading.description "Fuirich ort fhad ’s a tha sinn a’ faighinn lorg air na mìosachain agad.">
 <!ENTITY network.notfound.description "Cha b’ urrainn dhuinn mìosachan sam bith a lorg aig an ionad seo. Thoir sùil air na roghainnean agad.">
+<!ENTITY network.authfail.description "Chuir thu ainm no facal-faire a-steach a chaidh a dhiùltadh. Thoir sùil air na roghainnean agad.">
 
+<!ENTITY network.subscribe.single.description "Tagh na mìosachain a bu mhath leat fo-sgrìobhadh thuca.">
+<!ENTITY network.subscribe.multiple.description "Tha iomadh mìosachan san ionad seo. Tagh seòrsa a’ mhìosachain is comharraich an fheadhainn a bu toigh leat fo-sgrìobhadh thuca an uairsin.">
