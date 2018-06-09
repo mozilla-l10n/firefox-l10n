@@ -57,6 +57,8 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "Sa chiutha (far loidhne)">
 <!ENTITY  moveToNewWindow.label              "Gluais gu uinneag ùr">
 <!ENTITY  moveToNewWindow.accesskey          "G">
+<!ENTITY  reopenInContainer.label            "Ath-fhosgail san t-soitheach">
+<!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkAllTabs.label              "Dèan comharra-lìn de gach taba…">
 <!ENTITY  bookmarkAllTabs.accesskey          "t">
 <!ENTITY  undoCloseTab.label                 "Neo-dhèan dùnadh an taba">
@@ -904,6 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Thèid gach uinneag a tha ri fhaicinn air an sgrìn agad a cho-roinneadh.">
 
 <!ENTITY trackingProtection.title "Dìon o thracadh">
+<!ENTITY trackingProtection.tooltip "Fosgail roghainnean an dìon o thracadh">
 <!ENTITY trackingProtection.detectedBlocked3 "Tha &brandShortName; a’ bacadh nan rudan air an duilleag a dhèanadh tracadh ort.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Tha rudan air an làrach seo a nì tracadh ort ma dh’fhaoidte. Chuir thu an dìon à comas.">
 <!ENTITY trackingProtection.notDetected3 "Cha do lorg sinn dad air an duilleag a nì tracadh.">
