@@ -60,6 +60,7 @@ permissions-exceptions-tracking-protection-desc = Avètz desactivat la proteccio
 permissions-exceptions-cookie-window =
     .title = Excepcions - Cookies e donadas de sites
     .style = { permissions-window.style }
+permissions-exceptions-cookie-desc = Podètz especificar quines sites pòdon totjorn o jamai utilizar los cookies e las donadas. Picatz l’adreça del site que volètz gerir e clicar Blocar, Autorizar pendent la session, o Autorizar.
 
 ## Exceptions - Pop-ups
 
@@ -87,6 +88,7 @@ permissions-exceptions-addons-desc = Podètz indicar los sites web qu'autorizatz
 permissions-exceptions-autoplay-media-window =
     .title = Sites autorizats - Auto lectura
     .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc = Podètz especificar quines sites pòdon legir autocament los mèdias son. Picatz l’adreça exacta del site que volètz autorizar puèi clicatz Autorizar.
 
 ## Site Permissions - Notifications
 
