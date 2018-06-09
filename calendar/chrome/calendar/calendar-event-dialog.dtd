@@ -407,11 +407,6 @@
 <!ENTITY read.only.location.label        "Àite:">
 <!ENTITY read.only.category.label        "Roinn:">
 <!ENTITY read.only.organizer.label       "Eagraiche:">
-<!ENTITY read.only.reply.label           "Freagair:">
-<!ENTITY read.only.accept.label          "Bidh mi ann">
-<!ENTITY read.only.decline.label         "Cha bhi mi ann">
-<!ENTITY read.only.tentative.label       "Faodaidh gum bi mi ann">
-<!ENTITY read.only.needs.action.label    "Dearbhaichidh mi uaireigin eile">
 <!ENTITY read.only.reminder.label        "Cuimhnich:">
 <!ENTITY read.only.attachments.label     "Ceanglachain:">
 <!ENTITY read.only.attendees.label       "Freastalaichean">
@@ -420,3 +415,11 @@
 
 <!-- Summary dialog -->
 <!ENTITY summary.dialog.saveclose.label         "Sàbhail is dùin e">
+<!ENTITY summary.dialog.saveclose.tooltiptext   "Sàbhail na h-atharraichean is dùin an uinneag gun a bhith ag atharrachadh staid a’ chom-pàirteachais no freagairt a chur">
+<!ENTITY summary.dialog.accept.label            "Gabh ris">
+<!ENTITY summary.dialog.accept.tooltiptext      "Gabh ris a’ chuireadh">
+<!ENTITY summary.dialog.tentative.label         "Gun chinnt">
+<!ENTITY summary.dialog.tentative.tooltiptext   "Gabh ris a’ chuireadh ach gun chinnt">
+<!ENTITY summary.dialog.decline.label           "Diùlt">
+<!ENTITY summary.dialog.decline.tooltiptext     "Diùlt an cuireadh">
+<!ENTITY summary.dialog.dontsend.label          "Na cuir feagairt">
