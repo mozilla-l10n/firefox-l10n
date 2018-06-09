@@ -37,9 +37,17 @@ search-input-box =
             [windows] Tschertgar en las preferenzas
            *[other] Tschertgar en las preferenzas
         }
+policies-notice =
+    { PLATFORM() ->
+        [windows] Tia organisaziun ha deactivà la pussaivladad da midar tschertas preferenzas.
+       *[other] Tia organisaziun ha deactivà la pussaivladad da midar tschertas preferenzas.
+    }
 pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = Pagina da partenza
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = Tschertgar
 category-search =
     .tooltiptext = { pane-search-title }
@@ -62,6 +70,7 @@ feature-enable-requires-restart = { -brand-short-name } sto vegnir reavià per a
 feature-disable-requires-restart = { -brand-short-name } sto vegnir reavià per deactivar questa funcziun.
 should-restart-title = Reaviar { -brand-short-name }
 should-restart-ok = Reaviar ussa { -brand-short-name }
+cancel-no-restart-button = Interrumper
 restart-later = Reaviar pli tard
 
 ## Extension Control Notifications
@@ -74,12 +83,24 @@ restart-later = Reaviar pli tard
 ## Variables:
 ##   $name (String): name of the extension
 
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = Ina extensiun, <img data-l10n-name="icon"/> { $name }, administrescha tia pagina da partenza.
+# This string is shown to notify the user that their new tab page
+# is being controlled by an extension.
+extension-controlled-new-tab-url = Ina extensiun, <img data-l10n-name="icon"/> { $name }, administrescha la pagina da partenza da novs tabs.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = In supplement, <img data-l10n-name="icon"/> { $name }, ha definì tia maschina da tschertgar da standard.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Ina extensiun, <img data-l10n-name="icon"/> { $name }, dovra tabs da container.
+# This string is shown to notify the user that their tracking protection preferences
+# are being controlled by an extension.
+extension-controlled-websites-tracking-protection-mode = Ina extensiun, <img data-l10n-name="icon"/> { $name }, administrescha la protecziun cunter il fastizar.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlled-proxy-config = Ina extensiun, <img data-l10n-name="icon"/> { $name }, administrescha la moda da connexiun cun l'internet da { -brand-short-name }.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -96,6 +117,7 @@ search-results-empty-message =
         [windows] Perstgisa! Impussibel da chattar «<span data-l10n-name="query"></span>» en las preferenzas.
        *[other] Perstgisa! Impussibel da chattar «<span data-l10n-name="query"></span>» en las preferenzas.
     }
+search-results-help-link = Dovras agid? Consultescha las paginas <a data-l10n-name="url">{ -brand-short-name }d'agid</a>
 
 ## General Section
 
@@ -123,6 +145,9 @@ startup-blank-page =
     .label = Mussar ina pagina vida
 startup-prev-session =
     .label = Mussar las fanestras ed ils tabs da l'ultima sesida
+startup-restore-previous-session =
+    .label = Restaurar l'ultima sesida
+    .accesskey = s
 disable-extension =
     .label = Deactivar l'extensiun
 home-page-header = Pagina da partenza
@@ -130,6 +155,9 @@ tabs-group-header = Tabs
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab siglia dad in tab a l'auter en la successiun da l'ultima utilisaziun
     .accesskey = T
+open-new-link-as-tabs =
+    .label = Avrir colliaziuns en tabs e betg en novas fanestras
+    .accesskey = v
 warn-on-close-multiple-tabs =
     .label = Avertir, sch'ina fanestra cun plirs tabs vegn serrada
     .accesskey = f
@@ -307,15 +335,34 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Proxy da la rait
+network-proxy-connection-description = Configurar la moda da connexiun cun l'internet da { -brand-short-name }.
+network-proxy-connection-learn-more = Ulteriuras infurmaziuns
 network-proxy-connection-settings =
     .label = Parameters…
     .accesskey = P
 
 ## Home Section
 
+home-new-windows-tabs-header = Novas fanestras e tabs
+home-new-windows-tabs-description2 = Tscherna tge che vegn mussà cura che ti avras tia pagina da partenza, novas fanestras e novs tabs.
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Pagina da partenza e novas fanestras
+home-newtabs-mode-label = Novs tabs
+home-restore-defaults =
+    .label = Restaurar il standard
+    .accesskey = R
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Pagina da partenza da Firefox (predefinì)
+home-mode-choice-custom =
+    .label = Adressas d'internet persunalisadas…
+home-mode-choice-blank =
+    .label = Pagina vida
+home-homepage-custom-url =
+    .placeholder = Encollar in URL…
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -349,6 +396,13 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Mussar propostas da tschertga en ils resultats da la trav d'adressas
     .accesskey = M
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Mussar las propostas da tschertga avant la cronologia da navigaziun en ils resultats da la trav d'adressas
 search-suggestions-cant-show = Propostas da tschertgar na vegnan betg mussadas en la trav d'adressas perquai che ti has configurà { -brand-short-name } uschia che la cronologia na vegn betg memorisada.
 search-one-click-header = Maschinas da tschertgar cun-in-clic
 search-one-click-desc = Tscherna las maschinas da tschertgar alternativas che cumparan sut la trav d'adressas e la trav da tschertgar sche ti cumenzas a tippar in pled.
@@ -414,6 +468,12 @@ sync-manage-account = Administrar il conto
     .accesskey = o
 sync-signedin-unverified = L'adressa { $email } n'è anc betg verifitgada.
 sync-signedin-login-failure = T'annunzia per reconnectar cun { $email }
+sync-resend-verification =
+    .label = Reenviar la verificaziun
+    .accesskey = v
+sync-remove-account =
+    .label = Stizzar il conto
+    .accesskey = r
 sync-sign-in =
     .label = S'annunziar
     .accesskey = a
@@ -463,6 +523,8 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Memorisar
     .accesskey = m
+sync-mobilepromo-single = Connectar in auter apparat
+sync-mobilepromo-multi = Administrar ils apparats
 sync-tos-link = Contract da licenza
 sync-fxa-privacy-notice = Infurmaziuns davart la protecziun da datas
 
@@ -473,6 +535,9 @@ privacy-header = Protecziun da datas
 ## Privacy Section - Forms
 
 forms-header = Formulars & pleds-clav
+forms-ask-to-save-logins =
+    .label = Dumandar da memorisar las infurmaziuns d'annunzia ed ils pleds-clav per paginas d'internet
+    .accesskey = r
 forms-exceptions =
     .label = Excepziuns…
     .accesskey = x
@@ -506,6 +571,7 @@ history-remember-option-never =
     .label = Mai memorisar la cronologia
 history-remember-option-custom =
     .label = Utilisar per la cronologia ils parameters definids da l'utilisader
+history-remember-description = { -brand-short-name } memorisescha las adressas da las paginas d'internet visitadas, da las telechargiadas sco era infurmaziuns endatadas en formulars e maschinas da tschertgar.
 history-dontremember-description = { -brand-short-name } vegn ad utilisar las medemas preferenzas sco en il modus privat e na vegn betg a far ina cronologia da tia navigaziun en l'internet.
 history-private-browsing-permanent =
     .label = Adina navigar en il modus privat
@@ -513,6 +579,9 @@ history-private-browsing-permanent =
 history-remember-option =
     .label = Memorisar la cronologia dal navigar e da las telechargiadas
     .accesskey = r
+history-remember-browser-option =
+    .label = Memorisar la cronologia da navigaziun e da las telechargiadas
+    .accesskey = M
 history-remember-search-option =
     .label = Memorisar las endataziuns en champs da tschertgar ed en formulars
     .accesskey = f
@@ -522,18 +591,45 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Parameters…
     .accesskey = m
+history-clear-button =
+    .label = Stizzar la cronologia…
+    .accesskey = z
 
 ## Privacy Section - Site Data
 
+sitedata-header = Cookies e datas da websites
+sitedata-total-size-calculating = Calcular il volumen da datas da websites e dal cache…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Las datas da websites, il cache ed ils cookies memorisads dovran actualmain { $value } { $unit } spazi sin il disc dir.
 sitedata-learn-more = Ulteriuras infurmaziuns
-sitedata-keep-until = Memorisar enfin che
+sitedata-accept-cookies-option =
+    .label = Acceptar cookies e datas da websites (recumandà)
+    .accesskey = A
+sitedata-block-cookies-option =
+    .label = Bloccar cookies e datas da websites (po chaschunar problems cun websites)
+    .accesskey = B
+sitedata-keep-until = Memorisar enfin
     .accesskey = e
+sitedata-keep-until-expire =
+    .label = la data da scadenza
+sitedata-keep-until-closed =
+    .label = che { -brand-short-name } vegn serrà
+sitedata-accept-third-party-desc = Acceptar cookies da terzs e datas da websites
+    .accesskey = k
 sitedata-accept-third-party-always-option =
     .label = Adina
 sitedata-accept-third-party-visited-option =
     .label = Da visitads
 sitedata-accept-third-party-never-option =
     .label = Mai
+sitedata-clear =
+    .label = Stizzar las datas…
+    .accesskey = l
+sitedata-settings =
+    .label = Administrar las datas…
+    .accesskey = m
 sitedata-cookies-exceptions =
     .label = Excepziuns…
     .accesskey = E
@@ -556,6 +652,8 @@ addressbar-suggestions-settings = Midar las preferenzas per propostas da maschin
 ## Privacy Section - Tracking
 
 tracking-header = Protecziun cunter il fastizar
+tracking-desc = La protecziun cunter il fastizar blochescha fastizaders online che rimnan tias datas da navigaziun repartidas sin pliras websites. <a data-l10n-name="learn-more">Vegnir a savair dapli davart la protecziun cunter il fastizar e tia sfera privata</a>
+tracking-mode-label = Utilisar la protecziun cunter il fastizar per bloccar fastizaders enconuschents
 tracking-mode-always =
     .label = Adina
     .accesskey = A
@@ -599,6 +697,9 @@ permissions-notification-link = Ulteriuras infurmaziuns
 permissions-notification-pause =
     .label = Modus da pausa per las communicaziuns enfin che { -brand-short-name } vegn reavià
     .accesskey = n
+permissions-block-autoplay-media-exceptions =
+    .label = Excepziuns…
+    .accesskey = E
 permissions-block-popups =
     .label = Bloccar fanestras pop-up
     .accesskey = p
@@ -625,9 +726,19 @@ collection-health-report =
     .label = Permetter a { -brand-short-name } da trametter datas tecnicas e datas d'interacziun a { -vendor-short-name }
     .accesskey = r
 collection-health-report-link = Ulteriuras infurmaziuns
+collection-studies =
+    .label = Permetter a { -brand-short-name } dad installar e lantschar studis
+collection-studies-link = Vesair ils studis da { -brand-short-name }
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Rapports da datas èn deactivads per questa configuraziun da compilaziun
+collection-browser-errors =
+    .label = Permetter a { -brand-short-name } da trametter rapports da collaps (inclus ils messadis d'errur) a { -vendor-short-name }
+    .accesskey = r
+collection-browser-errors-link = Ulteriuras infurmaziuns
+collection-backlogged-crash-reports =
+    .label = Permetter a { -brand-short-name } da trametter automaticamain rapports da collaps anc betg tramess
+    .accesskey = c
 collection-backlogged-crash-reports-link = Ulteriuras infurmaziuns
 
 ## Privacy Section - Security
