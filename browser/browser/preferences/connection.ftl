@@ -13,6 +13,7 @@ connection-close-key =
     .key = w
 connection-disable-extension =
     .label = Deactivar l'extensiun
+connection-proxy-configure = Configuraziun dal server proxy per acceder a l'internet
 connection-proxy-option-no =
     .label = Nagin proxy
     .accesskey = N

@@ -57,6 +57,10 @@ permissions-exceptions-tracking-protection-desc = Ti has deactivà la protecziun
 
 ## Exceptions - Cookies
 
+permissions-exceptions-cookie-window =
+    .title = Excepziuns - Cookies e datas da websites
+    .style = { permissions-window.style }
+permissions-exceptions-cookie-desc = Ti pos definir per mintga website schebain ella dastga adina u mai utilisar cookies e datas da websites. Tippa l'adressa exacta da la website e clicca lura sin «Bloccar», «Permetter per questa sesida» u sin «Permetter».
 
 ## Exceptions - Pop-ups
 
@@ -79,26 +83,49 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Ti pos definir a tge websites che ti permettas d'installar supplements. Inditgescha l'adressa exacta da la website, a la quala ti vuls permetter quai e clicca sin 'Permetter'.
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = Websites autorisadas - Reproducziun automatica
+    .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc = Ti pos definir per mintga website schebain ella dastga far ir automaticamain elements da multimedia. Tippa l'adressa exacta da la website e clicca lura sin «Permetter».
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
     .title = Parameters - autorisaziuns per communicaziuns
     .style = { permissions-window.style }
+permissions-site-notification-desc = Las suandantas paginas han dumandà la permissiun da ta trametter communicaziuns. Ti pos definir per mintga website schebain ella ta dastga trametter communicaziuns. Ti pos era bloccar novas dumondas da pudair trametter communicaziuns.
+permissions-site-notification-disable-label =
+    .label = Bloccar novas dumondas da pudair trametter communicaziuns
+permissions-site-notification-disable-desc = Qua tras vegn impedì ch'ina pagina betg menziunada survart ta dumondia la permissiun da pudair trametter communicaziuns. Cun bloccar communicaziuns vegnan eventualmain tangadas tschertas funcziuns da paginas d'internet.
 
 ## Site Permissions - Location
 
 permissions-site-location-window =
     .title = Parameters - autorisaziuns per la posiziun
     .style = { permissions-window.style }
+permissions-site-location-desc = Las suandantas websites han dumandà l'access a tia posiziun geografica. Ti pos definir per mintga website schebain ella dastga acceder a tia posiziun. Ti pos era bloccar novas dumondas da pudair acceder a tia posiziun.
+permissions-site-location-disable-label =
+    .label = Bloccar novas dumondas d'access a tia posiziun
+permissions-site-location-disable-desc = Qua tras vegn impedì ch'ina pagina betg menziunada survart ta dumondia la permissiun da pudair acceder a tia posiziun geografica. Cun bloccar l'access a tia posiziun vegnan eventualmain tangadas tschertas funcziuns da paginas d'internet.
 
 ## Site Permissions - Camera
 
 permissions-site-camera-window =
     .title = Parameters - autorisaziuns per la camera
     .style = { permissions-window.style }
+permissions-site-camera-desc = Las suandantas paginas han dumandà l'access a tia camera. Ti pos definir per mintga website schebain ella dastga acceder a tia camera. Ti pos era bloccar novas dumondas d'access a tia camera.
+permissions-site-camera-disable-label =
+    .label = Bloccar novas dumondas d'access a tia camera
+permissions-site-camera-disable-desc = Qua tras vegn impedì ch'ina pagina betg menziunada survart ta dumondia la permissiun da pudair acceder a tia camera. Cun bloccar l'access a tia camera vegnan eventualmain tangadas tschertas funcziuns da paginas d'internet.
 
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window =
     .title = Parameters - autorisaziuns per il microfon
     .style = { permissions-window.style }
+permissions-site-microphone-desc = Las suandantas paginas han dumandà l'access a tes microfon. Ti pos definir per mintga website schebain ella dastga acceder a tes microfon. Ti pos era bloccar novas dumondas d'access a tes microfon.
+permissions-site-microphone-disable-label =
+    .label = Bloccar novas dumondas d'access a tes microfon
+permissions-site-microphone-disable-desc = Qua tras vegn impedì ch'ina pagina betg menziunada survart ta dumondia la permissiun da pudair acceder a tes microfon. Cun bloccar l'access a tes microfon vegnan eventualmain tangadas tschertas funcziuns da paginas d'internet.
