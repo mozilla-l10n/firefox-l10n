@@ -172,5 +172,7 @@ Strict Transport Security (HSTS) per inditgar che &brandShortName; dastgia mo co
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> utilisescha tecnologia da segirezza ch'è obsoleta e qua tras vulnerabla. In attatgader pudess revelar a moda simpla infurmaziuns che ti has considerà sco segiradas. L'administratur da la website vegn a stuair metter en urden ses server avant che ti possias visitar la website.</p><p>Code d'errur: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
+<!ENTITY blockedByPolicy.title "Pagina bloccada">
+
 <!ENTITY prefReset.longDesc "I para ch'ils parameters da segirezza da tia rait chaschunian quest problem. Vuls ti restaurar ils parameters da standard?">
 <!ENTITY prefReset.label "Restaurar il standard">
