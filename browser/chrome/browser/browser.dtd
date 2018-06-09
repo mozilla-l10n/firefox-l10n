@@ -57,6 +57,8 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "대기중 (오프라인)">
 <!ENTITY  moveToNewWindow.label              "새 창으로 이동">
 <!ENTITY  moveToNewWindow.accesskey          "W">
+<!ENTITY  reopenInContainer.label            "컨테이너에서 다시 열기">
+<!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkAllTabs.label              "모든 탭 북마크…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "닫았던 탭 다시 열기">
@@ -904,6 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "화면에 표시되어 있는 모든 창을 공유합니다.">
 
 <!ENTITY trackingProtection.title "추적 보호">
+<!ENTITY trackingProtection.tooltip "추적 보호 설정 열기">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName;가 사용자의 탐색을 추적할 수 있는 페이지의 부분을 차단하였습니다.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "이 사이트는 사용자의 탐색을 추적할 수 있는 요소를 포함하고 있습니다. 보호 기능이 꺼져 있습니다.">
 <!ENTITY trackingProtection.notDetected3 "페이지에서 추적을 하는 요소를 발견하지 못했습니다.">
