@@ -35,6 +35,9 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "Serrar ils auters tabs">
 <!ENTITY  closeOtherTabs.accesskey           "a">
 
+<!ENTITY  closeSelectedTabs.label            "Serrar ils tabs tschernids">
+<!ENTITY  closeSelectedTabs.accesskey        "S">
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -60,6 +63,8 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.accesskey             "R">
 <!ENTITY  closeTab.label                     "Serrar il tab">
 <!ENTITY  closeTab.accesskey                 "r">
+
+<!ENTITY  hiddenTabs.label                   "Tabs zuppentads">
 
 <!ENTITY  listAllTabs.label      "Far ina glista da tut ils tabs">
 
@@ -111,6 +116,8 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "Infurmaziuns davart la pagina">
 <!ENTITY pageInfoCmd.accesskey "s">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.label "Debugader da layout">
+<!ENTITY ldbCmd.accesskey "l">
 <!ENTITY mirrorTabCmd.label "Duplitgar il tab">
 <!ENTITY mirrorTabCmd.accesskey "p">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -125,6 +132,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Mussar tut ils tabs">
 <!ENTITY showAllTabsCmd.accesskey "t">
 <!ENTITY toggleReaderMode.key "R">
+<!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "S'annunziar tar &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Avrir las preferenzas da &syncBrand.shortName.label;">
@@ -183,10 +191,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Auters segnapaginas">
 <!ENTITY mobileBookmarksCmd.label "Segnapaginas mobils">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mussar dapli segnapaginas">
-<!ENTITY showRecentlyBookmarked.label     "Mussar ils segnapaginas agiuntads dacurt">
-<!ENTITY showRecentlyBookmarked.accesskey "M">
-<!ENTITY hideRecentlyBookmarked.label     "Zuppentar ils segnapaginas agiuntads dacurt">
-<!ENTITY hideRecentlyBookmarked.accesskey "Z">
 
 <!ENTITY backCmd.label                "Enavos">
 <!ENTITY backCmd.accesskey            "E">
@@ -218,6 +222,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Memorisar datas en la memoria durabla">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Il navigatur vegn controllà a distanza">
 
+<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Avrir la panela d'autentificaziun web">
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Administrar la cundivisiun da la camera/dal microfon cun la pagina">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Administrar la cundivisiun dal microfon cun la pagina">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Administrar la cundivisiun da fanestras u dal visur cun la pagina">
@@ -226,18 +232,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Translatar questa pagina">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Administrar la translaziun da la pagina">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Administrar l'utilisaziun da software DRM">
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Avrir la panela MIDI">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Ti has bloccà tia camera per questa website.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Ti has bloccà tes microfon per questa website.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Ti has bloccà la pussaivladad da questa website da cundivider tes visur.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Ti has bloccà las infurmaziuns da geolocalisaziun per questa website.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Ti has bloccà la pussaivladad da memorisar datas per questa website.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ti has bloccà ils messadis da questa website.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Ti has bloccà la memoria durabla per questa website.">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "Ti has bloccà pop-ups per questa website.">
-
 <!ENTITY urlbar.canvasBlocked.tooltip            "Ti has bloccà l'extracziun da datas da canvas per questa website.">
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "Ti has impedì che questa pagina d'internet utiliseschia il plug-in Adobe Flash.">
+<!ENTITY urlbar.midiBlocked.tooltip              "Ti has bloccà l'access a MIDI per questa pagina d'internet.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mussar la cronologia">
 
@@ -245,6 +251,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Pagina da partenza">
+
+<!ENTITY homeButton.defaultPage.tooltip "Pagina da partenza da &brandShortName;">
 
 <!ENTITY bookmarksButton.label          "Segnapaginas">
 <!ENTITY bookmarksCmd.commandkey "b">
@@ -262,7 +270,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addBookmarksMenu.label             "Agiuntar il menu da segnapaginas a la trav d'utensils">
 <!ENTITY removeBookmarksMenu.label          "Allontanar il menu da segnapaginas da la trav d'utensils">
 
-<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 <!ENTITY bookmarksGtkCmd.commandkey "o">
@@ -294,6 +302,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Inspectar l'element">
 <!ENTITY inspectContextMenu.accesskey "I">
 
+<!ENTITY inspectA11YContextMenu.label     "Inspectar las caracteristicas da l'accessiblitad">
+
 <!ENTITY fileMenu.label         "Datoteca">
 <!ENTITY fileMenu.accesskey       "D">
 <!ENTITY newUserContext.label             "Nov tab da container">
@@ -303,7 +313,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Nova fanestra privata">
 <!ENTITY newPrivateWindow.accesskey "e">
-<!ENTITY newNonRemoteWindow.label   "Nova fanestra betg e10s">
 
 <!ENTITY editMenu.label         "Modifitgar">
 <!ENTITY editMenu.accesskey       "M">
@@ -358,18 +367,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Mussar l'entira cronologia">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Persunalisar">
-<!ENTITY appMenuCustomize.tooltip "Persunalisar il menu e las travs d'utensils">
-<!ENTITY appMenuCustomizeExit.label "Serrar il modus da persunalisar">
-<!ENTITY appMenuCustomizeExit.tooltip "Terminar il persunalisar">
-
 <!ENTITY appMenuHistory.showAll.label "Mussar l'entira cronologia">
 <!ENTITY appMenuHistory.clearRecent.label "Stizzar la cronologia la pli nova…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurar l'ultima sesida">
 <!ENTITY appMenuHistory.viewSidebar.label "Vesair la trav laterala da la cronologia">
 <!ENTITY appMenuHistory.recentHistory.label "Cronologia nova">
 <!ENTITY appMenuHelp.label "Agid">
-<!ENTITY appMenuHelp.tooltip "Avrir il menu d'agid">
 
 <!ENTITY appMenuRemoteTabs.label "Tabs sincronisads">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -386,18 +389,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Activescha la sincronisaziun da tabs per vesair ina glista dals tabs da tes auters apparats.">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "Nagins tabs sincronisads… anc!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Vuls ti vesair qua tes tabs dad auters apparats?">
-<!ENTITY appMenuRemoteTabs.openprefs.label "Preferenzas da la sincronisaziun">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Avrir las preferenzas da Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "S'annunziar per vesair ina glista dals tabs da tes auters apparats.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Tes conto sto vegnir verifitgà.">
 <!ENTITY appMenuRemoteTabs.signin.label "S'annunziar tar Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Administrar apparats…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Mussar la trav laterala dals tabs sincronisads">
-
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Colliar in auter apparat">
 
 <!ENTITY appMenuRecentHighlights.label "Ultims accents">
@@ -433,6 +434,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "Agiuntar dapli elements…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
+<!ENTITY customizeMenu.autoHideDownloadsButton.label "Zuppentar automaticamain en la trav d'utensils">
+<!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "a">
+<!ENTITY customizeMenu.manageExtension.label "Administrar l'extensiun">
+<!ENTITY customizeMenu.manageExtension.accesskey "e">
+
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
@@ -444,14 +450,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Extensiun:">
 <!ENTITY urlbar.switchToTab.label     "Midar al tab:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "Vuls ti meglierar ils resultats da tschertga cun propostas?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Ulteriuras infurmaziuns…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Na">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Gea">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "g">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Tip:">
@@ -730,8 +728,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Stil da standard">
 <!ENTITY pageStylePersistentOnly.accesskey "S">
 
-<!ENTITY pageReportIcon.tooltip            "Midar ils parameters per las fanestras popup da questa website">
-
 <!ENTITY allowPopups.accesskey "P">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -803,6 +799,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "Mussar detagls">
 
+<!ENTITY identity.clearSiteData "Stizzar ils cookies e las datas da websites…">
+
 <!ENTITY identity.permissions "Autorisaziuns">
 <!ENTITY identity.permissionsEmpty "Ti n'has betg definì autorisaziuns spezialas per questa pagina.">
 <!ENTITY identity.permissionsReloadHint "Forsa stos ti chargiar da nov questa pagina per applitgar las midadas.">
@@ -816,7 +814,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Tabs sincronisads">
 <!ENTITY syncedTabs.sidebar.noclients.label    "T'annunzia era sin tes auters apparats tar Firefox per vesair qua lur tabs.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "Nagins tabs sincronisads… anc!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Vuls ti vesair qua tes tabs dad auters apparats?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "T'annunzia per vesair ina glista dals tabs da tes auters apparats.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "Tes conto sto vegnir verifitgà.">
@@ -826,7 +823,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Activescha la sincronisaziun da tabs per vesair ina glista dals tabs da tes auters apparats.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Tschertgar en ils tabs sincronisads">
-
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Colliar in auter apparat">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
@@ -863,8 +859,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Sincronisar">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Tira tes elements preferids en la trav d'utensils u en il menu extra.">
-<!ENTITY customizeMode.menuAndToolbars.empty "Vuls dapli utensils?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Tscherna da millis supplements">
 <!ENTITY customizeMode.restoreDefaults "Restaurar il standard">
 <!ENTITY customizeMode.done "Finì">
 <!ENTITY customizeMode.titlebar "Trav dal titel">
@@ -877,7 +871,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "A">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Telechargiar designs">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "T">
-<!ENTITY customizeMode.emptyOverflowList.description "Tira e depona qua elements che ti vuls avair per mauns ma betg en tia trav d'utensils…">
 <!ENTITY customizeMode.overflowList.title2 "Menu ord la trav d'utensils">
 <!ENTITY customizeMode.overflowList.description "Tira e depona qua elements che ti vuls avair per mauns ma betg en tia trav d'utensils…">
 <!ENTITY customizeMode.uidensity "Cumpactadad">
@@ -998,23 +991,36 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "B">
 <!ENTITY updateRestart.panelUI.label2 "Reaviar per actualisar &brandShorterName;">
 
-<!ENTITY newTabControlled.message "In supplement ha modifitgà la pagina che ti vesas cura che ti avras in nov tab. Ti pos restaurar tias preferenzas sche questa midada na ta plascha betg.">
 <!ENTITY newTabControlled.header.message "La pagina «Nov tab» è vegnida midada.">
 <!ENTITY newTabControlled.keepButton.label "Preservar las modificaziuns">
 <!ENTITY newTabControlled.keepButton.accesskey "P">
-<!ENTITY newTabControlled.restoreButton.label "Restaurar las preferenzas">
-<!ENTITY newTabControlled.restoreButton.accesskey "R">
+<!ENTITY newTabControlled.disableButton.label "Deactivar l'extensiun">
+<!ENTITY newTabControlled.disableButton.accesskey "D">
+
+<!ENTITY homepageControlled.message "Ina extensiun ha midà tia pagina da partenza. Ti pos restaurar tias preferenzas sche ti n'es betg d'accord cun questa midada.">
+<!ENTITY homepageControlled.header.message "La pagina da partenza è vegnida midada.">
+<!ENTITY homepageControlled.keepButton.label "Preservar las midadas">
+<!ENTITY homepageControlled.keepButton.accesskey "v">
+<!ENTITY homepageControlled.disableButton.label "Deactivar l'extensiun">
+<!ENTITY homepageControlled.disableButton.accesskey "D">
+
+<!ENTITY tabHideControlled.header.message "Acceder als tabs zuppentads">
+<!ENTITY tabHideControlled.keepButton.label "Cuntinuar a zuppentar ils tabs">
+<!ENTITY tabHideControlled.keepButton.accesskey "u">
+<!ENTITY tabHideControlled.disableButton.label "Deactivar l'extensiun">
+<!ENTITY tabHideControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "Acziuns da pagina">
 <!ENTITY pageAction.addToUrlbar.label "Agiuntar a la trav d'adressas">
 <!ENTITY pageAction.removeFromUrlbar.label "Allontanar da la trav d'adressas">
-
 <!ENTITY pageAction.allowInUrlbar.label "Mussar en la trav d'adressas">
 <!ENTITY pageAction.disallowInUrlbar.label "Betg mussar en la trav d'adressas">
 <!ENTITY pageAction.manageExtension.label "Administrar il supplement…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Trametter il tab ad in apparat">
 <!ENTITY sendToDevice.syncNotReady.label "Sincronisar apparats…">
+
+<!ENTITY pageAction.shareUrl.label "Cundivider">
 
 <!ENTITY libraryButton.tooltip "Mussar la cronologia, ils segnapaginas e dapli">
 
@@ -1023,3 +1029,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "Activà las funcziuns d'accessibilitad">
+
+<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
+     The first <image> tag is replaced with the icon for the add-ons menu.
+     The second <image> tag is replaced with the icon for the toolbar menu. -->
+<!ENTITY addonPostInstallMessage.label "Administrescha tes supplements cun cliccar sin <image class='addon-addon-icon'/> en il menu <image class='addon-toolbar-icon'/>.">
