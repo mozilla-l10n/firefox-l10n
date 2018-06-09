@@ -422,7 +422,7 @@
 <!ENTITY summary.dialog.tentative.tooltiptext   "Gabh ris a’ chuireadh ach gun chinnt">
 <!ENTITY summary.dialog.decline.label           "Diùlt">
 <!ENTITY summary.dialog.decline.tooltiptext     "Diùlt an cuireadh">
-<!ENTITY summary.dialog.dontsend.label          "Na cuir feagairt">
+<!ENTITY summary.dialog.dontsend.label          "Na cuir freagairt">
 <!ENTITY summary.dialog.dontsend.tooltiptext    "Atharraich staid a’ chom-pàirteachais agad gun fhreagairt a chur gun eagraiche is dùin an uinneag">
 <!ENTITY summary.dialog.send.label              "Cuir freagairt an-dràsta">
 <!ENTITY summary.dialog.send.tooltiptext        "Cuir freagairt gun eagraiche is dùin an uinneag">
