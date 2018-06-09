@@ -304,6 +304,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Ensellout an elfenn">
 <!ENTITY inspectContextMenu.accesskey "E">
 
+<!ENTITY inspectA11YContextMenu.label     "Ensellit ar perzhioù tizhusted">
 
 <!ENTITY fileMenu.label         "Restr">
 <!ENTITY fileMenu.accesskey       "R">
@@ -800,6 +801,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "Muioc'h a stlennoù">
 
+<!ENTITY identity.clearSiteData "Skarzhañ an toupinoù ha roadennoù lec'hienn…">
 
 <!ENTITY identity.permissions "Aotreoù">
 <!ENTITY identity.permissionsEmpty "N'ho peus roet aotre arbennik ebet d'al lec'hienn-mañ.">
@@ -904,6 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Rannet e vo an holl brenestroù gwelus war ho skramm.">
 
 <!ENTITY trackingProtection.title "Gwarez heuliañ">
+<!ENTITY trackingProtection.tooltip "Digeriñ arventennoù ar gwarez heuliañ">
 <!ENTITY trackingProtection.detectedBlocked3 "Stanket eo lodennoù eus ar bajenn a c'hellfe heuliañ ac'hanoc'h gant &brandShortName;.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Endalc'het eo elfennoù a c'hell heuliañ ho merdeiñ el lec'hienn. Diweredekaet ho peus ar gwarez.">
 <!ENTITY trackingProtection.notDetected3 "N'eo bet dinoet elfenn heuliañ ebet er bajenn.">
