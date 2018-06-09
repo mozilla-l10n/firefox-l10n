@@ -515,6 +515,9 @@ privacy-header = ဘရောင်ဇာ ကိုယ်ရေးကာကွ�
 ## Privacy Section - Forms
 
 forms-header = ဖောင်များ & စကားဝှက်များ
+forms-ask-to-save-logins =
+    .label = ဆိုက်များအတွက် ဝင်ရောက်မှုများနှင့် စကားဝှက်များကို မှတ်ရန် မေးပါ
+    .accesskey = r
 forms-exceptions =
     .label = ခြွင်းချက်များ...
     .accesskey = x
@@ -564,22 +567,40 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = အပြင်အဆင်များ...
     .accesskey = t
+history-clear-button =
+    .label = မှတ်တမ်းကို ရှင်းလင်းပါ...
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
+sitedata-header = ကွတ်ကီးနှင့် ဆိုက်အချက်အလက်များ
 sitedata-learn-more = ပိုမိုလေ့လာရန်
+sitedata-keep-until = ထိုအချိန်ထိ သိမ်းထားပါ
+    .accesskey = u
+sitedata-keep-until-expire =
+    .label = သက်တမ်းစေ့လျှင်
 sitedata-accept-third-party-always-option =
     .label = အမြဲတမ်း
 sitedata-accept-third-party-visited-option =
     .label = ကြည့်ရှုထားသည့် နေ့မှစ၍
 sitedata-accept-third-party-never-option =
     .label = ဘယ်တော့မှ
+sitedata-clear =
+    .label = အချက်အလက်ကို ရှင်းပါ...
+    .accesskey = l
+sitedata-settings =
+    .label = အချက်အလက်ကို စီမံပါ...
+    .accesskey = M
 sitedata-cookies-exceptions =
     .label = ခြွင်းချက်များ…
     .accesskey = E
 
 ## Privacy Section - Address Bar
 
+addressbar-header = လိပ်စာဘား
+addressbar-locbar-history-option =
+    .label = ရှာဖွေကြည့်ရှုမှု မှတ်တမ်း
+    .accesskey = h
 addressbar-locbar-bookmarks-option =
     .label = စာမှတ်များ
     .accesskey = k
@@ -606,6 +627,24 @@ tracking-exceptions =
 
 ## Privacy Section - Permissions
 
+permissions-header = ခွင့်ပြုချက်များ
+permissions-location = တည်နေရာ
+permissions-location-settings =
+    .label = အပြင်အဆင်များ...
+    .accesskey = t
+permissions-camera = ကင်မရာ
+permissions-camera-settings =
+    .label = အပြင်အဆင်များ...
+    .accesskey = t
+permissions-microphone = မိုက်ကရိုဖုန်း
+permissions-microphone-settings =
+    .label = အပြင်အဆင်များ...
+    .accesskey = t
+permissions-notification = အသိပေးချက်များ
+permissions-notification-settings =
+    .label = အပြင်အဆင်များ...
+    .accesskey = t
+permissions-notification-link = ပိုမိုလေ့လာရန်
 permissions-notification-pause =
     .label = အသိပေးချက်ကို { -brand-short-name } ပြန်လည်စတင်မှု မတိုင်ခင်ထိ ရပ်တန့်ထားပါ
     .accesskey = n
@@ -618,10 +657,13 @@ permissions-block-popups-exceptions =
 permissions-addon-exceptions =
     .label = ခြွင်းချက်များ...
     .accesskey = E
+permissions-a11y-privacy-link = ပိုမိုလေ့လာရန်
 
 ## Privacy Section - Data Collection
 
+collection-privacy-notice = ကိုယ်ရေးကာကွယ်မှု အသိပေးချက်
 collection-health-report-link = ပိုမိုလေ့လာရန်
+collection-browser-errors-link = ပိုမိုလေ့လာရန်
 collection-backlogged-crash-reports-link = ပိုမိုလေ့လာရန်
 
 ## Privacy Section - Security
@@ -633,6 +675,7 @@ security-header = လုံခြုံရေး
 security-enable-safe-browsing =
     .label = အန္တရာယ်ရှိသည့် အကြောင်းအရာတုများကို တားဆီးပါ
     .accesskey = B
+security-enable-safe-browsing-link = ပိုမိုလေ့လာရန်
 security-block-downloads =
     .label = အန္တရာယ်ရှိသည့် ဆွဲယူထားသည့်ဖိုင်များကို တားဆီးပါ
     .accesskey = d
@@ -653,3 +696,9 @@ certs-select-ask-option =
 certs-enable-ocsp =
     .label = လက်ရှိအထောက်အထားများ၏ ခိုင်လုံမှုကို အတည်ပြုရန် OSCP responder servers များကို ဆွဲထုတ်ပါ Q
     .accesskey = Q
+certs-view =
+    .label = အထောက်အထားများကို ကြည့်ရန်...
+    .accesskey = C
+certs-devices =
+    .label = လုံခြုံရေး ကိရိယာများ...
+    .accesskey = D

@@ -56,6 +56,7 @@
 <!ENTITY cmd.show.accesskey               "F">
 <!ENTITY cmd.showMac.label                "ရှာဖွေကိရိယာတွင် ဖေါ်ပြပါ">
 <!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.showDownloads.label          "ဆွဲချချက်များ ထားသိုရာဖိုင်တွဲကို ပြပါ">
 <!ENTITY cmd.retry.label                  "ထပ်မံဆောင်ရွက်ကြည့်ပါ">
 <!ENTITY cmd.goToDownloadPage.label       "ဆွဲယူရမည့် စာမျက်နှာသို့ သွားပါ">
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">
@@ -76,13 +77,13 @@
      This is the tooltip of the action button shown when malware is blocked.
      -->
 <!ENTITY cmd.removeFile.label             "ဖိုင်ကို ဖျက်ရန်">
-<!-- LOCALIZATION NOTE (cmd.chooseUnblock.tooltip):
+<!-- LOCALIZATION NOTE (cmd.chooseUnblock.label):
      This is the tooltip of the action button shown when potentially unwanted
      downloads are blocked. This opens a dialog where the user can choose
      whether to unblock or remove the download. Removing is the default option.
      -->
 <!ENTITY cmd.chooseUnblock.label          "ဖိုင်ကို ဖယ်ရှားပါ သို့မဟုတ် ဆွဲချယူခွင့်ပြုပါ">
-<!-- LOCALIZATION NOTE (cmd.chooseOpen.tooltip):
+<!-- LOCALIZATION NOTE (cmd.chooseOpen.label):
      This is the tooltip of the action button shown when uncommon downloads are
      blocked.This opens a dialog where the user can choose whether to open the
      file or remove the download. Opening is the default option.

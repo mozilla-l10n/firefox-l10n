@@ -46,21 +46,10 @@
 
 <!ENTITY  feedTab               "သတင်းစဉ်">
 <!ENTITY  feedTab.accesskey     "F">
-<!ENTITY  feedSubscribe         "စာရင်းသွင်းပါ">
-<!ENTITY  feedSubscribe.accesskey "u">
 
 <!ENTITY  permTab               "ခွင့်ပြုချက်များ">
 <!ENTITY  permTab.accesskey     "P">
-<!ENTITY  permUseDefault        "မူလသတ်မှတ်ထားသည့်အတိုင်း အသုံးပြုမည်">
-<!ENTITY  permAskAlways         "အမြဲမေးပါ">
-<!ENTITY  permAllow             "ခွင့်ပြုပါ">
-<!ENTITY  permAllowSession      "လက်ရှိကာလအတွက် ခွင့်ပြုပါ">
-<!ENTITY  permBlock             "ပိတ်ဆို့ပါ">
 <!ENTITY  permissionsFor        "ခွင့်ပြုချက်များ">
-<!ENTITY  permPlugins           "ပလက်အင်များကို ဖွင့်ပါ">
-
-<!ENTITY  permClearStorage           "သိုလှောင်ကိရိယာကို ရှင်းလင်းမည်">
-<!ENTITY  permClearStorage.accesskey "C">
 
 <!ENTITY  securityTab           "လုံခြုံရေး">
 <!ENTITY  securityTab.accesskey "S">
@@ -73,12 +62,15 @@
 <!ENTITY  securityView.identity.owner    "ပိုင်ရှင်">
 <!ENTITY  securityView.identity.domain   "ဝဘ်ဆိုက်">
 <!ENTITY  securityView.identity.verifier "စီစစ်သူ">
+<!ENTITY  securityView.identity.validity "ကုန်ဆုံးရက်။">
 
 <!ENTITY  securityView.privacy.header                   "ကိုယ်ရေးကာကွယ်မှုနှင့် မှတ်တမ်း">
 <!ENTITY  securityView.privacy.history                  "ဒီဝဘ်ဆိုက်ကို အရင်က ရောက်ဖူးပါသလား။">
 <!ENTITY  securityView.privacy.cookies                  "ဒီဝဘ်ဆိုက်သည် မိမိ၏ကွန်ပျူတာတွင် အချက်အလက်များ (ကွတ်ကီးများ)ကို သိမ်းဆည်းပါသလား။">
 <!ENTITY  securityView.privacy.viewCookies              "ကွတ်ကီးများကို ကြည့်ရန်">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.clearSiteData            "ကွတ်ကီးများနှင့် ဝဘ်ဆိုက် အချက်အလက်အားလုံးကို ရှင်းလင်းပါ">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "C">
 <!ENTITY  securityView.privacy.passwords                "ဒီဝဘ်ဆိုက်အတွက် စကားဝှက်များကို သိမ်းထားမိပါသလား။">
 <!ENTITY  securityView.privacy.viewPasswords            "သိမ်းထားသည့် စကားဝှက်များကို ကြည့်ရန်">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
