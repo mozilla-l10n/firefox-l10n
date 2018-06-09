@@ -46,22 +46,10 @@
 
 <!ENTITY  feedTab               "Feeds">
 <!ENTITY  feedTab.accesskey     "F">
-<!ENTITY  feedSubscribe         "Abunar">
-<!ENTITY  feedSubscribe.accesskey "A">
 
 <!ENTITY  permTab               "Autorisaziuns">
 <!ENTITY  permTab.accesskey     "A">
-<!ENTITY  permUseDefault        "Utilisar il standard">
-<!ENTITY  permAskAlways         "Adina dumandar">
-<!ENTITY  permAllow             "Permetter">
-<!ENTITY  permAllowSession      "Permetter per questa sesida">
-<!ENTITY  permHide              "Zuppentar">
-<!ENTITY  permBlock             "Bloccar">
 <!ENTITY  permissionsFor        "Autorisaziuns per:">
-<!ENTITY  permPlugins           "Activar ils plug-ins">
-
-<!ENTITY  permClearStorage           "Stizzar la memoria">
-<!ENTITY  permClearStorage.accesskey "z">
 
 <!ENTITY  securityTab           "Segirezza">
 <!ENTITY  securityTab.accesskey "S">
@@ -81,6 +69,9 @@
 <!ENTITY  securityView.privacy.cookies                  "Memorisescha questa website datas (cookies) sin mes computer?">
 <!ENTITY  securityView.privacy.viewCookies              "Mussar ils cookies">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.siteData                 "Memorisescha questa website infurmaziuns sin mes computer?">
+<!ENTITY  securityView.privacy.clearSiteData            "Stizzar cookies e datas da websites">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "c">
 <!ENTITY  securityView.privacy.passwords                "Hai jau memorisà pleds-clav per questa website?">
 <!ENTITY  securityView.privacy.viewPasswords            "Mussar ils pleds-clav">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "u">
