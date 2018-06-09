@@ -83,6 +83,13 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = 'S urrainn dhut sònrachadh dè na làraichean-lìn as urrainn dhaibh tuilleadan a stàladh. Cuir a-steach seòladh cruinn na làraich a tha thu airson cead a thoirt dha is briog air "Ceadaich".
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = Làraichean-lìn le cead - Fèin-chluich
+    .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc = ’S urrainn dhut sònrachadh dè na làraichean-lìn aig a bheil cead meadhanan a chluich gu fèin-obrachail. Sgrìobh seòladh na làraich a tha thu airson ceadachadh is briog air “Ceadaich” an uairsin.
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
