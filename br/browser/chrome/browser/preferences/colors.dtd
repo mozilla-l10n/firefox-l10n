@@ -6,7 +6,7 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overrideDefaultPageColors2.label       "Eillec'hiañ al livioù erspizet war ar bajenn gant va diuzadoù a-us">
+<!ENTITY  overrideDefaultPageColors2.label       "Eillec'hiañ al livioù erspizet war ar bajenn gant ma diuzadoù a-us">
 <!ENTITY  overrideDefaultPageColors2.accesskey   "E">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Atav">

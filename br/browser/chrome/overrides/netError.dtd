@@ -44,7 +44,7 @@
 
 <!ENTITY openPortalLoginPage.label2 "Digeriñ ar bajenn gennaskañ d'ar rouedad">
 
-<!ENTITY malformedURI.pageTitle "URL direizh">
+<!ENTITY malformedURI.pageTitle "URL didalvoudek">
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 <!ENTITY malformedURI.title1 "Hmm. Ne seblant ket bezañ reizh ar chomlec'h-mañ.">
 

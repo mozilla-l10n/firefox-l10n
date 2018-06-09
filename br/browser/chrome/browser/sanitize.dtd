@@ -15,7 +15,7 @@
 
 <!ENTITY clearDataSettings3.label     "Pa guitaan &brandShortName; e rank skarzhañ an elfennoù da-heul">
 
-<!ENTITY clearDataSettings4.label     "Pa vez sarret, &brandShortName; ac'h emskarzho an holl">
+<!ENTITY clearDataSettings4.label     "Pa vez serret, &brandShortName; a skarzho an holl ent emgefreek">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
