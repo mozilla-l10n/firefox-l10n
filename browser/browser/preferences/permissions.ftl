@@ -83,6 +83,13 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Gallwch enwi pa wefannau sy'n cael gosod ychwanegion. Teipiwch yr union gyfeiriad gwe rydych am ei chaniatáu ac yna clicio Caniatáu.
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = Gwefannau'n Cael eu Caniatáu - Awtochwarae
+    .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc = Gallwch bennu pa wefannau sy'n cael chwarae elfennau cyfrwng yn awtomatig. Teipiwch union gyfeiriad y wefan rydych am ei chaniatáu ac yna clicio Caniatáu.
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
