@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY restartRequired.title "Genstart påkrævet">
+
+<!ENTITY restartRequired.header "Du bliver nødt til at genstarte din browser.">
+<!ENTITY restartRequired.description "
+<p>Vi har installeret en opdatering i baggrunden. Klik på Opdater &brandShortName; for at fuldføre installationen.</p>
+<p>Vi genskaber alle dine åbne sider, vinduer og faneblade, så du hurtigt kan komme videre.</p>
+">
+
+<!ENTITY restartButton.label "Restart &brandShortName;">
