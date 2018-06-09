@@ -57,6 +57,8 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "Mewn Ciw (all-lein)">
 <!ENTITY  moveToNewWindow.label              "Symud i Ffenestr Newydd">
 <!ENTITY  moveToNewWindow.accesskey          "N">
+<!ENTITY  reopenInContainer.label            "Ail agor mewn Cynhwysydd">
+<!ENTITY  reopenInContainer.accesskey        "A">
 <!ENTITY  bookmarkAllTabs.label              "Nod Tudalen i Bob Tab…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "Dadwneud Cau'r Tab">
@@ -904,6 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Bydd pob ffenestr gweladwy ar eich sgrin yn cael eu rhannu.">
 
 <!ENTITY trackingProtection.title "Diogelwch Rhag Tracio">
+<!ENTITY trackingProtection.tooltip "Agor Dewisiadau Diogelu rhag Tracio">
 <!ENTITY trackingProtection.detectedBlocked3 "Mae &brandShortName; yn rhwystro rhannau o'r dudalen gall fod yn tracio eich pori.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Rydych wedi analluogi diogelwch ar y dudalen hon. Rydych wedi analluogi diogelwch.">
 <!ENTITY trackingProtection.notDetected3 "Nid oes elfennau tracio wedi eu canfod ar y dudalen hon.">
