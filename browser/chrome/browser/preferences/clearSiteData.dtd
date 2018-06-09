@@ -1,0 +1,22 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.title                 "Stizzar las datas">
+<!ENTITY window.width                 "45em">
+
+<!ENTITY window.description           "Cun stizzar tut ils cookies e tut las datas da websites memorisadas da &brandShortName; vegns ti eventualmain deconnectà da websites ed il cuntegn offline da websites vegn eleminà. Cun stizzar las datas dal cache na vegnan tias infurmaziuns d'annunzia betg tangadas.">
+<!ENTITY windowClose.key              "z">
+
+<!ENTITY clearSiteData.label          "Cookies e datas da websites">
+<!ENTITY clearSiteData.accesskey      "s">
+<!ENTITY clearSiteData.description    "Ti vegns eventualmain deconnectà da websites en cas che ti stizzas questas datas">
+
+<!ENTITY clearCache.label             "Cuntegn da web en il cache">
+<!ENTITY clearCache.accesskey         "w">
+<!ENTITY clearCache.description       "Las websites ston rechargiar ils maletgs e las datas">
+
+<!ENTITY button.cancel.label          "Interrumper">
+<!ENTITY button.cancel.accesskey      "I">
+<!ENTITY button.clear.label           "Stizzar">
+<!ENTITY button.clear.accesskey       "t">

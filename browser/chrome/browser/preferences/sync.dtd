@@ -62,18 +62,18 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.beforename.label "T'annunzia per reconnectar cun">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-<!ENTITY notSignedIn.label           "Ti n'es betg annunzià.">
-<!ENTITY signIn.label                "S'annunziar">
-<!ENTITY signIn.accesskey            "a">
-<!ENTITY profilePicture.tooltip      "Midar il maletg da profil">
-<!ENTITY verifiedManage.label        "Administrar il conto">
-<!ENTITY verifiedManage.accesskey    "o">
-<!ENTITY disconnect3.label           "Deconnectar…">
-<!ENTITY disconnect3.accesskey       "D">
-<!ENTITY verify.label                "Verifitgar l'adressa dad e-mail">
-<!ENTITY verify.accesskey            "V">
-<!ENTITY forget.label                "Emblidar questa adressa dad e-mail">
-<!ENTITY forget.accesskey            "q">
+<!ENTITY notSignedIn.label            "Ti n'es betg annunzià.">
+<!ENTITY signIn.label                 "S'annunziar">
+<!ENTITY signIn.accesskey             "a">
+<!ENTITY profilePicture.tooltip       "Midar il maletg da profil">
+<!ENTITY verifiedManage.label         "Administrar il conto">
+<!ENTITY verifiedManage.accesskey     "o">
+<!ENTITY disconnect3.label            "Deconnectar…">
+<!ENTITY disconnect3.accesskey        "D">
+<!ENTITY resendVerification.label     "Reenviar la verificaziun">
+<!ENTITY resendVerification.accesskey "v">
+<!ENTITY cancelSetup.label            "Interrumper la configuraziun">
+<!ENTITY cancelSetup.accesskey        "I">
 
 <!ENTITY signedOut.caption            "Prenda tes web cun tai">
 <!ENTITY signedOut.description        "Sincronisescha tes segnapaginas, tia cronologia, tes tabs, tes pleds-clav, tes supplements e tias preferenzas cun tut tes apparats.">
@@ -101,3 +101,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
 <!ENTITY mobilePromo3.end              " per sincronisar cun tes apparat mobil.">
+
+<!ENTITY mobilepromo.singledevice      "Connectar in auter apparat">
+<!ENTITY mobilepromo.multidevice       "Administrar ils apparats">

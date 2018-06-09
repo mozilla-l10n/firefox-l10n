@@ -2,10 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY     window.title                  "Parameters - Datas da websites">
+<!ENTITY     window2.title                 "Administraziun da cookies e datas da websites">
 <!ENTITY     hostCol.label                 "Website">
-<!ENTITY     statusCol.label               "Status">
+<!ENTITY     cookiesCol.label              "Cookies">
 <!ENTITY     usageCol.label                "Memoria">
+<!ENTITY     lastAccessedCol.label                "Ultima utilisaziun">
 <!ENTITY     searchTextboxPlaceHolder             "Tschertgar websites">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "s">
 <!ENTITY     removeSelected.label          "Stizzar las tschernidas">
@@ -14,6 +15,6 @@
 <!ENTITY     save.accesskey                "a">
 <!ENTITY     cancel.label                  "Interrumper">
 <!ENTITY     cancel.accesskey              "m">
-<!ENTITY     removingDialog.title          "Stizzar las datas da la website">
-<!ENTITY     removingSelected.description  "Cun allontanar las datas da la website vegnan era ils cookies ed il cuntegn offline appartegnent allontanads. Quai ta po deconnectar da websites. Vuls ti propi far questas midadas?">
-<!ENTITY     siteTree2.label               "Ils suandants cookies vegnan stizzads">
+<!ENTITY     removingDialog1.title         "Stizzar cookies e datas da websites">
+<!ENTITY     removingSelected1.description "Cun stizzar cookies e datas da websites vegns ti eventualmain deconnectà da websites. Vuls ti propi far questas midadas?">
+<!ENTITY     siteTree3.label               "Ils cookies e las datas da las suandantas websites vegnan stizzadas">
