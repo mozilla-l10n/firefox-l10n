@@ -1,13 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Entities for AccountWizard -->
 
+<!-- Entities for AccountWizard -->
 
 <!ENTITY windowTitle.label "Тіркелгілер шебері">
 <!ENTITY accountWizard.size "width: 40em; height: 38em;">
-<!-- Entities for Account Type page -->
 
+<!-- Entities for Account Type page -->
 
 <!ENTITY accountSetupInfo2.label "Хабарламаларды алу үшін, алдымен сізге тіркелгіні баптау керек.">
 <!ENTITY accountTypeTitle.label "Жаңа тіркелгіні баптау">
@@ -17,13 +17,17 @@
 <!ENTITY accountTypeMail.accesskey "л">
 <!ENTITY accountTypeNews.label "Жаңалықтар топтары тіркелгісі">
 <!ENTITY accountTypeNews.accesskey "Ж">
-<!-- Entities for Identity page -->
 
+<!-- LOCALIZATION NOTE(accountTypeMovemail.label): do not translate 'Movemail' -->
+<!ENTITY accountTypeMovemail.label "Unix жергілікті поштасы (Movemail)">
+<!ENTITY accountTypeMovemail.accesskey "ж">
+
+<!-- Entities for Identity page -->
 
 <!ENTITY identityTitle.label "Жеке мәліметтер">
 <!ENTITY identityDesc.label "Әр тіркелгінің жеке мәліметтері бар, ол арқылы басқа адамдар сіздің хабарламаларыңызда алған кезде сізді таниды.">
-<!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 
+<!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY fullnameDesc.label "Шығыс хабарламарыңыздың &quot;Кімнен&quot; өрісінде көрсеткіңіз келетін атыңызды енгізіңіз">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
   1, do not translate two of "&quot;"
@@ -35,8 +39,8 @@
 
 <!ENTITY emailLabel.label "Эл. пошта адресі:">
 <!ENTITY emailLabel.accesskey "Э">
-<!-- Entities for Incoming Server page -->
 
+<!-- Entities for Incoming Server page -->
 
 <!ENTITY incomingTitle.label "Кіріс сервер ақпараты">
 <!ENTITY incomingServerTypeDesc.label "Сіз қолданатын кіріс сервер түрін таңдаңыз.">
@@ -64,8 +68,8 @@
 <!ENTITY newsServerNameDesc.label "Жаңалық топтар сервері (NNTP) атын көрсетіңіз (мысалы, &quot;news.example.net&quot;).">
 <!ENTITY newsServerLabel.label "Жаңалық топтар сервері:">
 <!ENTITY newsServerLabel.accesskey "с">
-<!-- Entities for Outgoing Server page -->
 
+<!-- Entities for Outgoing Server page -->
 
 <!ENTITY outgoingTitle.label "Шығыс сервер ақпараты">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
@@ -75,10 +79,10 @@
 <!ENTITY outgoingUsername.description "Эл. пошта қызметін ұсынушысы сізге берген шығыс пайдаланушы атын көрсетіңіз (әдетте ол кіріс пошта пайдаланушы атына сәйкес келеді).">
 <!ENTITY outgoingUsername.label "Шығыс поштаның пайдаланушы аты:">
 <!ENTITY outgoingUsername.accesskey "п">
+
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
 -->
-
 <!ENTITY modifyOutgoing.suffix "Шығыс пошта серверлерін тіркелгі баптауларында өзгерте аласыз.">
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
@@ -98,16 +102,16 @@
 -->
 <!ENTITY haveSmtp3.prefix "Сіздің шығыс (SMTP) пошта сервері, &quot;">
 <!ENTITY haveSmtp3.suffix3 "&quot;, сіздің кіріс пошта серверімен бірдей, оған қатынау үшін кіріп пошта серверінің пайдаланушы аты қолданылатын болады.">
-<!-- Entities for Account name page -->
 
+<!-- Entities for Account name page -->
 
 <!ENTITY accnameTitle.label "Тіркелгі атауы">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
 <!ENTITY accnameDesc.label "Бұл тіркелгіні сипаттайтын атауды көрсетіңіз (мысалы, &quot;Жұмыс тіркелгісі&quot;, &quot;Үй тіркелгісі&quot; немесе &quot;Жаңалықтар тіркелгісі&quot;).">
 <!ENTITY accnameLabel.label "Тіркелгі атауы:">
 <!ENTITY accnameLabel.accesskey "а">
-<!-- Entities for Done (Congratulations) page -->
 
+<!-- Entities for Done (Congratulations) page -->
 
 <!ENTITY completionTitle.label "Құттықтаймыз!">
 <!ENTITY completionText.label "Төмендегі ақпараттың дұрыстығын растаңыз.">
