@@ -71,10 +71,18 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = အချိုးအစားမှန်သော
+    .accesskey = P
 fonts-default-serif =
     .label = အစွန်းပါ စာလုံး
 fonts-default-sans-serif =
     .label = အစွန်းမဲ့ စာလုံး
+fonts-proportional-size = အရွယ်အစား
+    .accesskey = z
+fonts-monospace-size = အရွယ်အစား
+    .accesskey = e
+fonts-minsize = အနည်းဆုံးဖောင့်ဆိုဒ်
+    .accesskey = o
 fonts-minsize-none =
     .label = မရွေးပါ
 fonts-allow-own =
