@@ -304,6 +304,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Examinar l'element">
 <!ENTITY inspectContextMenu.accesskey "x">
 
+<!ENTITY inspectA11YContextMenu.label     "Inspectar las proprietats d’accessibilitat">
 
 <!ENTITY fileMenu.label         "Fichièr">
 <!ENTITY fileMenu.accesskey       "F">
@@ -999,6 +1000,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Desactivar l’extension">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
+<!ENTITY homepageControlled.message "Una extension a cambiat vòstre pagina d’acuèlh. Podètz restablir vòstres paramètres s’acceptatz pas aquel cambiament.">
 <!ENTITY homepageControlled.header.message "La pagina d’acuèlh es estada cambiada.">
 <!ENTITY homepageControlled.keepButton.label "Servar los cambiaments">
 <!ENTITY homepageControlled.keepButton.accesskey "S">
