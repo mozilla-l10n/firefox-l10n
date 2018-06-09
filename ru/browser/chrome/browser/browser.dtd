@@ -57,6 +57,8 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "В очереди (без доступа в Интернет)">
 <!ENTITY  moveToNewWindow.label              "Переместить в новое окно">
 <!ENTITY  moveToNewWindow.accesskey          "е">
+<!ENTITY  reopenInContainer.label            "Переоткрыть в контейнере">
+<!ENTITY  reopenInContainer.accesskey        "й">
 <!ENTITY  bookmarkAllTabs.label              "Добавить все вкладки в закладки…">
 <!ENTITY  bookmarkAllTabs.accesskey          "в">
 <!ENTITY  undoCloseTab.label                 "Восстановить закрытую вкладку">
@@ -904,6 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Будет предоставлен доступ ко всем видимым окнам на вашем экране.">
 
 <!ENTITY trackingProtection.title "Защита от отслеживания">
+<!ENTITY trackingProtection.tooltip "Открыть настройки Защиты от отслеживания">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; блокирует части страницы, которые могут отслеживать ваше поведение в Интернете.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Этот сайт содержит элементы, которые могут отслеживать ваше поведение в Интернете. Вы отключили защиту.">
 <!ENTITY trackingProtection.notDetected3 "На этой странице не обнаружено ни одного отслеживающего элемента.">
