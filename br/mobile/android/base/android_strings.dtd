@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY firstrun_panel_title_welcome "Degemer mat">
+<!ENTITY firstrun_panel_title_welcome "Donemat">
 <!ENTITY firstrun_urlbar_message2 "Trugarez deoc\&apos;h evit bezañ dibabet &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Ur merdeer hezoug arnevez savet gant Mozilla, an aozadur hep pal arc\&apos;hantel gouestlet d\&apos;ur web frank ha digor.">
 <!ENTITY firstrun_panel_title_privacy "Buhez prevez">
@@ -73,11 +73,11 @@
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
-<!ENTITY url_bar_qrcode_text2 "Implijit ho lenner QR evit klask pe ebarzhiñ chomlec\&apos;hioù">
+<!ENTITY url_bar_qrcode_text2 "Arverit ho lenner QR evit klask pe enankañ chomlec\&apos;hioù">
 <!-- Localization note (url_bar_mic_text2) : This text will be
      heard by non-visual users when the focus is on the Microphone
      icon in the url bar. -->
-<!ENTITY url_bar_mic_text2 "Implijit ho mikrofon evit klask pe ebarzhiñ chomlec\&apos;hioù">
+<!ENTITY url_bar_mic_text2 "Implijit ho mikrofon evit klask pe enankañ chomlec\&apos;hioù">
 
 <!ENTITY bookmark "Sined">
 <!ENTITY bookmark_remove "Dilemel ar sined">
