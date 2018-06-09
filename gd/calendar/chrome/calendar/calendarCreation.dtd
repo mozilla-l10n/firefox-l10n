@@ -20,3 +20,29 @@
 
 <!ENTITY finishpage.shortdescription  "Chaidh am mìosachan a chruthachadh" >
 <!ENTITY finishpage.longdescription   "Chaidh am mìosachan agad a chruthachadh." >
+
+<!-- Below are new strings for the revised new calendar dialog. The above strings should be
+    removed/renamed later on -->
+
+<!ENTITY sourcetabs.other.label  "Eile">
+
+<!ENTITY buttons.create.label "Cruthaich mìosachan">
+<!ENTITY buttons.create.accesskey "r">
+
+<!ENTITY buttons.find.label "Lorg mìosachain">
+<!ENTITY buttons.find.accesskey "F">
+
+<!ENTITY buttons.back.label "Air ais">
+<!ENTITY buttons.back.accesskey "B">
+
+<!ENTITY buttons.subscribe.label "Fo-sgrìobh">
+<!ENTITY buttons.subscribe.accesskey "S">
+
+<!ENTITY calendartype.label "Seòrsa a’ mhìosachain:">
+<!ENTITY location.label "Ionad:">
+<!ENTITY location.placeholder "URL no ainm an òstair aig frithealaiche a’ mhìosachain">
+
+<!ENTITY network.nocredentials.label "Chan eil feum air ainm-cleachdaiche no facal-faire san ionad seo">
+<!ENTITY network.loading.description "Fuirich ort fhad ’s a tha sinn a’ faighinn lorg air na mìosachain agad.">
+<!ENTITY network.notfound.description "Cha b’ urrainn dhuinn mìosachan sam bith a lorg aig an ionad seo. Thoir sùil air na roghainnean agad.">
+
