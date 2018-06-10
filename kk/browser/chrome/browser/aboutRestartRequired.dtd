@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY restartRequired.title "Қайта іске қосу керек">
+
+<!ENTITY restartRequired.header "Кешіріңіз. Жалғастыру үшін кішкентай нәрсені жасауымыз керек.">
+<!ENTITY restartRequired.description "
+<p>Біз жаңа ғана фонда жаңартуды орнаттық. Оны іске асыруды аяқтау үшін, &brandShortName; қайта іске қосу батырмасын басыңыз.</p>
+<p>Одан кейін біз сіздің барлық беттер және терезелерді қалпына келтіреміз, жұмысыңызға жылдам оралуға болады.</p>
+">
+
+<!ENTITY restartButton.label "&brandShortName; қайта қосу">
