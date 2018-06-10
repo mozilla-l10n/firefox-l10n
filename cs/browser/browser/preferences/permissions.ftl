@@ -83,6 +83,13 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Zde můžete určit, které servery mohou instalovat doplňky. Vložte přesnou adresu serveru, který chcete povolit, a klepněte na tlačítko Povolit.
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = Servery, které mohou automaticky přehrávat média
+    .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc = Zde můžete určit, které servery mohou automaticky spouštět přehrávání mediálních prvků. Zadejte přesnou adresu stránky, které chcete přehrávání povolit, a klepněte na tlačítko Povolit.
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
