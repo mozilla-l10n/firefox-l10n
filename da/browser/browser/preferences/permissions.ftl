@@ -88,7 +88,7 @@ permissions-exceptions-addons-desc = Du kan angive hvilke websteder der må inst
 permissions-exceptions-autoplay-media-window =
     .title = Tilladte websteder - automatisk afspilning
     .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = Du kan angive, hvilke websteder, der har lov til automatisk at afspille medie-elementer. Indtast adressen til det websted, du vil give tilladelse, og klik så på Tillad.
+permissions-exceptions-autoplay-media-desc = Du kan angive, hvilke websteder der har lov til automatisk at afspille medie-elementer. Indtast adressen på det websted, du vil give tilladelse, og klik så på Tillad.
 
 ## Site Permissions - Notifications
 
