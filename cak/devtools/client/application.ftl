@@ -49,3 +49,15 @@ serviceworker-worker-status-registering = Nitz'ib'äx b'i'aj
 # Text displayed when no service workers are visible for the current page. Clicking on the
 # link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro = K'atzinel natz'ib'aj rub'i' jun Service Worker richin ninik'öx wawe'. <a>Tetamäx ch'aqa' chik</a>
+# Text displayed when there are no Service Workers to display for the current page,
+# introducing hints to debug Service Worker issues.
+serviceworker-empty-suggestions = We ri ruxaq k'o wakami k'o ta chi ruk'wan jun service worker, wawe' k'o jun taq rub'eyal yatikïr natojtob'ej.
+# Suggestion to check for errors in the Console to investigate why a service worker is not
+# registered. Clicking on the link opens the webconsole.
+serviceworker-empty-suggestions-console = Ke'akanoj taq sachoj pa Temeb'äl. <a>Tijaq ri Temeb'äl</a>
+# Suggestion to use the debugger to investigate why a service worker is not registered.
+# Clicking on the link will switch from the Application panel to the debugger.
+serviceworker-empty-suggestions-debugger = Tatz'eta' rutz'ib'axik ri Service Worker pa rub'eyal chuqa' ke'akanoj taq man relik ta. <a>Tijaq ri Chojmirisanel</a>
+# Suggestion to go to about:debugging in order to see Service Workers for all domains.
+# Clicking on the link will open about:debugging in a new tab.
+serviceworker-empty-suggestions-aboutdebugging = Ke'anik'oj ri Service Workers kichin ch'aqa' chik taq ajk'amal. <a>Tijaq about:debugging</a>
