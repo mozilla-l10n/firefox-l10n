@@ -571,6 +571,7 @@ history-remember-option-never =
     .label = هرگز تاریخچه را به خاطر نمی‌سپارد
 history-remember-option-custom =
     .label = تنظیمات خاصی را برای تاریخچه استفاده می‌کند
+history-remember-description = { -brand-short-name } سابقهٔ مرور، دریافت‌ها، اطلاعات فرم‌ها و تاریخچهٔ جست‌وجوهای شما را به خاطر خواهد آورد.
 history-dontremember-description = { -brand-short-name } تنظیمات حالت مرور ناشناس را استفاده خواهد کرد، و هیچ تاریخچه‌ای از مرور شما در وب نگه نخواهد داشت.
 history-private-browsing-permanent =
     .label = همیشه از حالت  مرور خصوصی استفاده کن
@@ -578,6 +579,9 @@ history-private-browsing-permanent =
 history-remember-option =
     .label = مرور و بارگذاری های مرا به خاطر بسپار
     .accesskey = خ
+history-remember-browser-option =
+    .label = ذخیرهٔ تاریخچهٔ دریافت‌ها و مرور
+    .accesskey = b
 history-remember-search-option =
     .label = اطلاعاتی که در فرم‌های صفحات وب و نوار جست‌وجو وارد می‌شوند به خاطر سپرده شود
     .accesskey = ط
@@ -587,13 +591,33 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = تنظیمات
     .accesskey = ت
+history-clear-button =
+    .label = پاک کردن تاریخچه…
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
 sitedata-header = کوکی‌ها و اطلاعات وب سایت
+sitedata-total-size-calculating = در حال محاسبهٔ اطلاعات پایگاه‌ها و اندازهٔ حافظهٔ نهان…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = کوکی‌ها، اطلاعات پایگاه‌ها و حافظهٔ نهانِ ذخیره شده در حال حاضر { $value } { $unit } از فضای دیسک شما استفاده می‌کنند.
 sitedata-learn-more = بیشتر بدانید
+sitedata-accept-cookies-option =
+    .label = پذیرفتن کوکی‌ها و اطلاعات از پایگاه‌ها (توصیه شده)
+    .accesskey = A
+sitedata-block-cookies-option =
+    .label = مسدود کردن کوکی‌ها و اطلاعات پایگاه‌ها (ممکن است باعث کار نکردن پایگاه‌ها بشود)
+    .accesskey = B
 sitedata-keep-until = نگهداری شوند تا
     .accesskey = ن
+sitedata-keep-until-expire =
+    .label = منقضی می‌شوند
+sitedata-keep-until-closed =
+    .label = { -brand-short-name } بسته است
+sitedata-accept-third-party-desc = پذیرفتن کوکی‌ها و اطلاعات پایگاه‌های ثالث
+    .accesskey = y
 sitedata-accept-third-party-always-option =
     .label = همیشه
 sitedata-accept-third-party-visited-option =
@@ -673,6 +697,12 @@ permissions-notification-link = بیشتر بدانید
 permissions-notification-pause =
     .label = توقف هوشدار تا زمانی که { -brand-short-name } مجدد راه اندازی شود
     .accesskey = n
+permissions-block-autoplay-media =
+    .label = مسدود کردن پایگاه‌ها برای پخش خودکار رسانه و صوت
+    .accesskey = B
+permissions-block-autoplay-media-exceptions =
+    .label = استثاناها…
+    .accesskey = E
 permissions-block-popups =
     .label = مسدود کردن پنجره‌های بازشو
     .accesskey = م
@@ -699,6 +729,9 @@ collection-health-report =
     .label = { -brand-short-name } اجازه دهید تا اطلاعات موارد فنی وفعال و انفعالات رابرای موزیلا ارسال کند
     .accesskey = r
 collection-health-report-link = بیشتر بدانید
+collection-studies =
+    .label = اجازه دادن به { -brand-short-name } برای نصب و اجرای studyها
+collection-studies-link = نمایش studyهای { -brand-short-name } 
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = گزارش کردن داده‌ها برای این پیکربندی ساخته شده غیرفعال شده است
