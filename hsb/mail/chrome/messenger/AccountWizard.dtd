@@ -1,13 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Entities for AccountWizard -->
 
+<!-- Entities for AccountWizard -->
 
 <!ENTITY windowTitle.label "Kontowy asistent">
 <!ENTITY accountWizard.size "width: 47em; height: 40em;">
-<!-- Entities for Account Type page -->
 
+<!-- Entities for Account Type page -->
 
 <!ENTITY accountSetupInfo2.label "Zo byšće powěsće přijał, dyrbiće najprjedy konto załožić.">
 <!ENTITY accountTypeTitle.label " Nowe konto konfigurować">
@@ -17,13 +17,17 @@
 <!ENTITY accountTypeMail.accesskey "E">
 <!ENTITY accountTypeNews.label "Konto za diskusijnu skupinu">
 <!ENTITY accountTypeNews.accesskey "K">
-<!-- Entities for Identity page -->
 
+<!-- LOCALIZATION NOTE(accountTypeMovemail.label): do not translate 'Movemail' -->
+<!ENTITY accountTypeMovemail.label "Unix Mailspool (Movemail)">
+<!ENTITY accountTypeMovemail.accesskey "U">
+
+<!-- Entities for Identity page -->
 
 <!ENTITY identityTitle.label "Identita">
 <!ENTITY identityDesc.label "Kóžde konto móže swoju identitu měć, kotraž je informacija, kotraž was napřećo druhim, kotřiž swoje powěsće dóstanu, identifikuje.">
-<!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 
+<!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY fullnameDesc.label "Zapodajće swoje mjeno tak, kaž so ma w polu &quot;Wot&quot; wašich pósłanych powěsćow zjewić">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
   1, do not translate two of "&quot;"
@@ -35,8 +39,8 @@
 
 <!ENTITY emailLabel.label "E-mejlowa adresa:">
 <!ENTITY emailLabel.accesskey "m">
-<!-- Entities for Incoming Server page -->
 
+<!-- Entities for Incoming Server page -->
 
 <!ENTITY incomingTitle.label "Informacije wo dochadnym serwerje">
 <!ENTITY incomingServerTypeDesc.label "Wubjerće typ serwera za dochadźacu e-mejl, kotryž wužiwaće.">
@@ -64,8 +68,8 @@
 <!ENTITY newsServerNameDesc.label "Zapodajće mjeno swojeho serwera za diskusijne skupiny (NNTP) (na přikład &quot;news.example.net&quot;).">
 <!ENTITY newsServerLabel.label "Serwer diskusijneho serwera:">
 <!ENTITY newsServerLabel.accesskey "S">
-<!-- Entities for Outgoing Server page -->
 
+<!-- Entities for Outgoing Server page -->
 
 <!ENTITY outgoingTitle.label "Informacije wo wuchadnym serwerje">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
@@ -75,10 +79,10 @@
 <!ENTITY outgoingUsername.description "Zapodajće mjeno wuchadneho serwera, kotrež sće wot swojeho e-mejloweho poskićowarja dóstał (to je zwjetša jenake mjeno, kaž te za dochadny serwer).">
 <!ENTITY outgoingUsername.label "Wužiwarske mjeno wuchadneho serwera:">
 <!ENTITY outgoingUsername.accesskey "u">
+
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
 -->
-
 <!ENTITY modifyOutgoing.suffix "Móžeće wuchadne serwery w kontowych nastajenjach změnić.">
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
@@ -98,16 +102,16 @@
 -->
 <!ENTITY haveSmtp3.prefix "Waš wuchadny (SMTP) serwer, &quot;">
 <!ENTITY haveSmtp3.suffix3 "&quot;, je identiski z wašim dochadnym serwerom, waše dochadne wužiwarske mjeno budźe so wužiwać, zo by na njón přistup měło.">
-<!-- Entities for Account name page -->
 
+<!-- Entities for Account name page -->
 
 <!ENTITY accnameTitle.label "Kontowe mjeno">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
 <!ENTITY accnameDesc.label "Zapodajće mjeno, z kotrymž chceće na tute konto přistup měć (na přikład &quot;Słužbne konto&quot;, &quot;Priwatne konto&quot; abo &quot;Konto za diskusijne skupiny&quot;).">
 <!ENTITY accnameLabel.label "Kontowe mjeno:">
 <!ENTITY accnameLabel.accesskey "o">
-<!-- Entities for Done (Congratulations) page -->
 
+<!-- Entities for Done (Congratulations) page -->
 
 <!ENTITY completionTitle.label "Zbožopřeće!">
 <!ENTITY completionText.label "Prošu přepruwujće deleka podate informacije.">
