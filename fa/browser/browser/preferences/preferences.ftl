@@ -535,6 +535,9 @@ privacy-header = حریم خصوصی مرورگر
 ## Privacy Section - Forms
 
 forms-header = فرم‌ها و گذرواژه‌ها
+forms-ask-to-save-logins =
+    .label = در مورد ذخیره کردن نام‌کاربری و گذرواژه‌ها برای پایگاه‌ها سوال کن
+    .accesskey = r
 forms-exceptions =
     .label = استثناها…
     .accesskey = ث
