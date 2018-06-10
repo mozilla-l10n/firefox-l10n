@@ -57,6 +57,8 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "W cakajucem rěźe (offline)">
 <!ENTITY  moveToNewWindow.label              "Do nowego wokna pśesunuś">
 <!ENTITY  moveToNewWindow.accesskey          "n">
+<!ENTITY  reopenInContainer.label            "W kontejnerje znowego wócyniś">
+<!ENTITY  reopenInContainer.accesskey        "k">
 <!ENTITY  bookmarkAllTabs.label              "Wšykne rejtarki ako cytańske znamjenja składowaś…">
 <!ENTITY  bookmarkAllTabs.accesskey          "r">
 <!ENTITY  undoCloseTab.label                 "Zacynjony rejtark wótnowiś">
@@ -904,6 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Wšykne widobne wokna na wašej wobrazowce budu se źěliś.">
 
 <!ENTITY trackingProtection.title "Slědowański šćit">
+<!ENTITY trackingProtection.tooltip "Nastajenja slědowańskego šćita wócyniś">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokěrujo źěle boka, kótarež by mógli wašo pśeglědowanje slědowaś.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Toś to sedło wopśimujo elementy, kótarež by mógli wašo pśeglědowanje slědowaś. Sćo šćit znjemóžnił.">
 <!ENTITY trackingProtection.notDetected3 "Žedne slědowańske elementy na toś tom boku namakane.">
