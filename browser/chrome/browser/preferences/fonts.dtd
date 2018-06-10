@@ -4,12 +4,22 @@
 
 <!ENTITY  fontsDialog.title                       "Tipos de letra">
 
+<!ENTITY  fonts.label                             "Tipos de letra para">
+<!ENTITY  fonts.accesskey                         "T">
 
 <!ENTITY  size2.label                             "Tamaño">
 <!ENTITY  sizeProportional.accesskey              "ñ">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
+<!ENTITY  proportional2.label                     "Proporcional">
+<!ENTITY  proportional2.accesskey                 "P">
 
+<!ENTITY  serif2.label                            "Serif">
+<!ENTITY  serif2.accesskey                        "S">
+<!ENTITY  sans-serif2.label                       "Sans-serif">
+<!ENTITY  sans-serif2.accesskey                   "n">
+<!ENTITY  monospace2.label                        "Monoespazado">
+<!ENTITY  monospace2.accesskey                    "M">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
@@ -37,6 +47,7 @@
 <!ENTITY  font.langGroup.khmer                    "Camboxano">
 <!ENTITY  font.langGroup.malayalam                "Malaialam">
 <!ENTITY  font.langGroup.math                     "Matemáticas">
+<!ENTITY  font.langGroup.odia                     "Odia">
 <!ENTITY  font.langGroup.telugu                   "Telugu">
 <!ENTITY  font.langGroup.kannada                  "Kannada">
 <!ENTITY  font.langGroup.sinhala                  "Sinhala">
@@ -50,6 +61,8 @@
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
+<!ENTITY  allowPagesToUseOwn.label                "Permitir que as páxinas escollan os seus tipos de letra en lugar dos antes seleccionados">
+<!ENTITY  allowPagesToUseOwn.accesskey            "a">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Codificación de texto para contido antigo">
 <!ENTITY languages.customize.Fallback3.label      "Codificación de texto alternativa">

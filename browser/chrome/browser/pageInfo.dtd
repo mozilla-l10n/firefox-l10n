@@ -15,6 +15,7 @@
 
 <!ENTITY  generalTab            "Xeral">
 <!ENTITY  generalTab.accesskey  "X">
+<!ENTITY  generalTitle          "Título:">
 <!ENTITY  generalURL            "Enderezo:">
 <!ENTITY  generalType           "Tipo:">
 <!ENTITY  generalMode           "Modo de visualización:">
@@ -45,21 +46,10 @@
 
 <!ENTITY  feedTab               "Fontes">
 <!ENTITY  feedTab.accesskey     "F">
-<!ENTITY  feedSubscribe         "Subscribir">
-<!ENTITY  feedSubscribe.accesskey "S">
 
 <!ENTITY  permTab               "Permisos">
 <!ENTITY  permTab.accesskey     "P">
-<!ENTITY  permUseDefault        "Usar predeterminado">
-<!ENTITY  permAskAlways         "Preguntar sempre">
-<!ENTITY  permAllow             "Permitir">
-<!ENTITY  permAllowSession      "Permitir nesta sesión">
-<!ENTITY  permBlock             "Bloquear">
 <!ENTITY  permissionsFor        "Permisos para:">
-<!ENTITY  permPlugins           "Activar engadidos">
-
-<!ENTITY  permClearStorage           "Borrar o almacenamento">
-<!ENTITY  permClearStorage.accesskey "c">
 
 <!ENTITY  securityTab           "Seguranza">
 <!ENTITY  securityTab.accesskey "e">
@@ -72,12 +62,16 @@
 <!ENTITY  securityView.identity.owner    "Propietario/a: ">
 <!ENTITY  securityView.identity.domain   "Sitio web: ">
 <!ENTITY  securityView.identity.verifier "Verificado por: ">
+<!ENTITY  securityView.identity.validity "Caduca o:">
 
 <!ENTITY  securityView.privacy.header                   "Privacidade e historial">
 <!ENTITY  securityView.privacy.history                  "Visitei este sitio web anteriormente?">
 <!ENTITY  securityView.privacy.cookies                  "Este sitio web está almacenando información (cookies) no seu computador?">
 <!ENTITY  securityView.privacy.viewCookies              "Ver cookies">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.siteData                 "Este sitio web está almacenando información no meu computador?">
+<!ENTITY  securityView.privacy.clearSiteData            "Borrar cookies e datos do sitio">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "c">
 <!ENTITY  securityView.privacy.passwords                "Gardei algún contrasinal para este sitio web?">
 <!ENTITY  securityView.privacy.viewPasswords            "Ver contrasinais gardados">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "V">

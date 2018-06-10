@@ -73,9 +73,6 @@
 <!ENTITY cmd.reloadLivebookmark.label      "Recargar marcador dinámico">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
 
-<!ENTITY cmd.moveBookmarks.label                  "Mover…">
-<!ENTITY cmd.moveBookmarks.accesskey              "M">
-
 <!ENTITY col.name.label          "Nome">
 <!ENTITY col.tags.label          "Etiquetas">
 <!ENTITY col.url.label           "Localización">
@@ -85,8 +82,8 @@
 <!ENTITY col.dateadded.label     "Engadido">
 <!ENTITY col.lastmodified.label  "Última modificación">
 
-<!ENTITY search.label                              "Buscar:">
-<!ENTITY search.accesskey                          "B">
+<!ENTITY historySearch.placeholder  "Buscar no historial">
+<!ENTITY bookmarksSearch.placeholder  "Buscar nos marcadores">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +101,6 @@
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "Seleccionar un elemento para ver e editar as súas propiedades">
 
-<!ENTITY find.label               "Buscar:">
-<!ENTITY find.accesskey           "s">
 <!ENTITY view.label               "Ver">
 <!ENTITY view.accesskey           "V">
 <!ENTITY byDate.label             "Por data">

@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem.label          "As seguintes cookies están almacenadas no computador:">
+<!ENTITY     cookiesonsystem2.label         "As seguintes cookies están almacenadas no computador">
 <!ENTITY     cookiename.label               "Nome da cookie">
 <!ENTITY     cookiedomain.label             "Sitio">
 
@@ -14,12 +14,14 @@
 <!ENTITY     props.path.label               "Ruta:">
 <!ENTITY     props.secure.label             "Enviar a:">
 <!ENTITY     props.expires.label            "Caduca:">
+<!ENTITY     props.container.label          "Contedor:">
 
 <!ENTITY     window.title                   "Cookies">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
-<!ENTITY     focusSearch2.key               "k">
 
+<!ENTITY     searchFilter.label             "Buscar">
+<!ENTITY     searchFilter.accesskey         "s">
 
 <!ENTITY     button.close.label             "Pechar">
 <!ENTITY     button.close.accesskey         "c">

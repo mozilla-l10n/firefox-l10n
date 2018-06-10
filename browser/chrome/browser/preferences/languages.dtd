@@ -15,3 +15,4 @@
 <!ENTITY languages.customize.selectLanguage.label       "Seleccione un idioma para engadilo…">
 <!ENTITY languages.customize.addButton.label            "Engadir">
 <!ENTITY languages.customize.addButton.accesskey        "E">
+<!ENTITY languages.customize.spoofEnglish               "Solicitar as versións en inglés das páxinas web para mellorar a privacidade">
