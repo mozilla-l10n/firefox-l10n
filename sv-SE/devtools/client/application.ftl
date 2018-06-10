@@ -19,6 +19,11 @@ serviceworker-list-header = Service Workers
 serviceworker-list-aboutdebugging = Öppna <a>about:debugging</a> för Service Workers från andra domäner
 # Text for the button to unregister a Service Worker. Displayed for active Service Workers.
 serviceworker-worker-unregister = Avregistrera
+# Text for the debug link displayed for an already started Service Worker. Clicking on the
+# link opens a new devtools toolbox for this service worker. The title attribute is only
+# displayed when the link is disabled.
+serviceworker-worker-debug = Avlusa
+    .title = Enbart service workers som kör kan felsökas
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start = Starta
@@ -50,6 +55,9 @@ serviceworker-empty-suggestions = Om den nuvarande sidan ska ha en service worke
 # Suggestion to check for errors in the Console to investigate why a service worker is not
 # registered. Clicking on the link opens the webconsole.
 serviceworker-empty-suggestions-console = Kolla efter fel i konsolen. <a>Öppna konsolen</a>
+# Suggestion to use the debugger to investigate why a service worker is not registered.
+# Clicking on the link will switch from the Application panel to the debugger.
+serviceworker-empty-suggestions-debugger = Stega igenom dina registrerade Service Worker och titta efter undantag. <a>Öppna avlusaren</a>
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Inspektera Service Workers från andra domäner. <a>Öppna about:debugging</a>
