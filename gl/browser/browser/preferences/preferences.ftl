@@ -607,6 +607,9 @@ sitedata-learn-more = Máis información
 sitedata-accept-cookies-option =
     .label = Aceptar as cookies e os datos dos sitios web (recomendado)
     .accesskey = A
+sitedata-block-cookies-option =
+    .label = Bloquear as cookies e os datos dos sitios web (pode facer que non funcionen)
+    .accesskey = B
 sitedata-keep-until = Manter ata
     .accesskey = t
 sitedata-keep-until-expire =
@@ -694,6 +697,12 @@ permissions-notification-link = Máis información
 permissions-notification-pause =
     .label = Interromper as notificacións ata que { -brand-short-name } se reinicie
     .accesskey = n
+permissions-block-autoplay-media =
+    .label = Bloquear a reprodución automática con son en sitios web
+    .accesskey = B
+permissions-block-autoplay-media-exceptions =
+    .label = Excepcións…
+    .accesskey = E
 permissions-block-popups =
     .label = Bloquear xanelas emerxentes
     .accesskey = B
@@ -720,6 +729,10 @@ collection-health-report =
     .label = Permitir a { -brand-short-name } o envío de datos técnicos e de interacción a { -vendor-short-name }
     .accesskey = r
 collection-health-report-link = Obter máis información
+collection-studies =
+    .label = Permitir a { -brand-short-name } instalar e executar estudios
+collection-studies-link = Ver os estudos de { -brand-short-name }
+collection-browser-errors-link = Máis información
 collection-backlogged-crash-reports-link = Obter máis información
 
 ## Privacy Section - Security
@@ -727,10 +740,31 @@ collection-backlogged-crash-reports-link = Obter máis información
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Seguranza
+security-browsing-protection = Protección contra contido enganoso e software perigoso
+security-enable-safe-browsing =
+    .label = Bloquear contido perigoso e enganoso
+    .accesskey = B
+security-enable-safe-browsing-link = Máis información
+security-block-downloads =
+    .label = Bloquear descargas perigosas
+    .accesskey = d
 
 ## Privacy Section - Certificates
 
 certs-header = Certificados
+certs-select-auto-option =
+    .label = Seleccionar un automaticamente
+    .accesskey = S
+certs-select-ask-option =
+    .label = Preguntarlle cada vez
+    .accesskey = a
 certs-enable-ocsp =
     .label = Consultar aos servidores OCSP responder para confirmar a validez dos certificados
     .accesskey = u
+certs-view =
+    .label = Ver certificados...
+    .accesskey = c
+certs-devices =
+    .label = Dispositivos de seguranza...
+    .accesskey = D

@@ -35,6 +35,9 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "Pechar as outras lapelas">
 <!ENTITY  closeOtherTabs.accesskey           "o">
 
+<!ENTITY  closeSelectedTabs.label            "Pechar as lapelas seleccionadas">
+<!ENTITY  closeSelectedTabs.accesskey        "s">
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -51,6 +54,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Enviar a ligazón ao dispositivo">
 <!ENTITY  sendLinkToDevice.accesskey         "n">
 <!ENTITY  sendToDeviceFeedback.label         "Enviadas!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "Na cola (sen conexión)">
 <!ENTITY  moveToNewWindow.label              "Mover a unha nova xanela">
 <!ENTITY  moveToNewWindow.accesskey          "x">
 <!ENTITY  bookmarkAllTabs.label              "Marcar todas as lapelas…">
@@ -59,6 +63,7 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.accesskey             "u">
 <!ENTITY  closeTab.label                     "Pechar lapela">
 <!ENTITY  closeTab.accesskey                 "c">
+
 
 <!ENTITY  listAllTabs.label      "Listar todas as lapelas">
 
@@ -125,7 +130,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "a">
 <!ENTITY toggleReaderMode.key "R">
 
-
 <!ENTITY fxaSignIn.label "Conectarse a &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Abir as preferencias de &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Volver a conectarse a &syncBrand.shortName.label;">
@@ -182,10 +186,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Outros marcadores">
 <!ENTITY mobileBookmarksCmd.label "Marcadores do móbil">
 <!ENTITY bookmarksToolbarChevron.tooltip "Amosar máis marcadores">
-<!ENTITY showRecentlyBookmarked.label     "Amosar os marcadores máis recentes">
-<!ENTITY showRecentlyBookmarked.accesskey "m">
-<!ENTITY hideRecentlyBookmarked.label     "Agochar os marcadores máis recentes">
-<!ENTITY hideRecentlyBookmarked.accesskey "m">
 
 <!ENTITY backCmd.label                "Atrás">
 <!ENTITY backButton.tooltip           "Retroceder unha páxina">
@@ -212,6 +212,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Cambia a opción se pode recibir notificacións do sitio">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "O navegador está baixo control remoto">
 
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Xestiona o uso compartido da cámara e/ou do micrófono co sitio">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Xestiona o uso compartido do micrófono co sitio">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Xestiona o uso compartido das xanelas ou da pantalla co sitio">
@@ -221,10 +222,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Xestiona a tradución da páxina">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Xestiona o uso de software DRM">
 
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "Bloqueou a cámara para este sitio web.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Bloqueou o micrófono para este sitio web.">
-
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Amosar historial">
 
@@ -232,6 +231,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Inicio">
+
 
 <!ENTITY bookmarksButton.label          "Marcadores">
 <!ENTITY bookmarksCmd.commandkey "b">
@@ -249,7 +249,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addBookmarksMenu.label             "Engadir o menú dos marcadores á barra de ferramentas">
 <!ENTITY removeBookmarksMenu.label          "Retirar o menú dos marcadores da barra de ferramentas">
 
-<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 <!ENTITY bookmarksGtkCmd.commandkey "o">
@@ -280,6 +280,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY inspectContextMenu.label     "Inspeccionar elemento">
 <!ENTITY inspectContextMenu.accesskey "I">
+
 
 <!ENTITY fileMenu.label         "Ficheiro">
 <!ENTITY fileMenu.accesskey       "F">
@@ -363,10 +364,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.showAll.tooltip "Amosar todas as lapelas deste dispositivo">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.openprefs.label "Preferencias da sincronización">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Acceda para ver unha lista de lapelas dos outros dispositivos.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Necesita comprobar a súa conta.">
 <!ENTITY appMenuRemoteTabs.signin.label "Acceda ao Sync">
@@ -398,6 +398,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromMenu.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.label "Engadir máis elementos…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "a">
+
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -752,6 +753,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "Máis información">
 
+
 <!ENTITY identity.permissions "Permisos">
 <!ENTITY identity.permissionsEmpty "Non lle concedeu ningún permiso especial a este sitio.">
 <!ENTITY identity.permissionsReloadHint "Pode ser preciso recargar a páxina para que os cambios teñan efecto.">
@@ -913,6 +915,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "Enviar a lapela ao dispositivo">
 <!ENTITY sendToDevice.syncNotReady.label "Sincronizando os dispositivos…">
+
 
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to

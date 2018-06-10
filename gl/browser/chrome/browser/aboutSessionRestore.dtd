@@ -6,6 +6,9 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
+<!ENTITY restorepage.errorTitle2    "Sentímolo. Estamos tendo problemas para recuperar as súas páxinas.">
+<!ENTITY restorepage.problemDesc2   "Estamos tendo problemas para restaurar a súa última sesión de navegación. Seleccione Restaurar sesión para tentalo outra vez.">
+<!ENTITY restorepage.tryThis2       "Aínda non puido restaurar a sesión? Pode ser causado por unha lapela. Vexa as súas lapelas anteriores, elimine a marca das que non precise recuperar e ténteo outra vez.">
 
 <!ENTITY restorepage.hideTabs       "Agochar as lapelas anteriores">
 <!ENTITY restorepage.showTabs       "Ver as lapelas anteriores">
