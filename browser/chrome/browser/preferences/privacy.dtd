@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "محافظت در برابر ردگیری">
-<!ENTITY  trackingProtection2.description      "دنبال کننده اطلاعات مرور شما از پایگاه‌های اینترنتی متعددی جمع آوری میکند. دنبال کننده همچین می‌تواند از این اطلاعات برای ایجاد یک نمایه از شما استفاده کند و از اطلاعات شخصی شما جهت نمایش محتوا مرتبط استفاده کند.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "استفاده از محافظ دنبال کردن برای مسدود کردن دنبال کنندگان ناشناس">
 <!ENTITY  trackingProtection3.description      "محافظت از ردیابی دنبال کنندگان انلاینی را که اطلاعات مرورکردن شما را از چند وب سایت مختلف دریافت می کردند مسدود کرده است.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "استفاده از محافظ ردیابی برای مسدود کردند دنبال کنندگان ناشناس">
 <!ENTITY  trackingProtectionAlways.label       "همیشه">
@@ -13,7 +11,6 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "ت">
 <!ENTITY  trackingProtectionNever.label        "هرگز">
 <!ENTITY  trackingProtectionNever.accesskey    "ه">
-<!ENTITY  trackingProtectionLearnMore.label    "اطلاعات بیشتر">
 <!ENTITY  trackingProtectionLearnMore2.label    "در مورد محافظت از ردیابی و حریم شخصی خود بیشتر بدانید">
 <!ENTITY  trackingProtectionExceptions.label   "استثناها…">
 <!ENTITY  trackingProtectionExceptions.accesskey "ت">
@@ -24,11 +21,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "اطلاعات بیشتر">
 <!ENTITY changeBlockList2.label               "تغییر فهرست مسدودی‌ها… ">
 <!ENTITY changeBlockList2.accesskey           "ت">
-
-<!ENTITY  doNotTrack.description        "ارسال یک سیگنال “من را دنبال نکن ” برای پایگاه‌های اینترنتی که شما نمی‌خواهید توسط آن ها دنبال شوید">
-<!ENTITY  doNotTrack.learnMore.label    "اطلاعات بیشتر">
-<!ENTITY  doNotTrack.default.label      "تنها زمانی که از محافظ دنبال کردن استفاده ‌می‌شود">
-<!ENTITY  doNotTrack.always.label       "همیشه">
 
 <!ENTITY  history.label                 "تاریخچه">
 <!ENTITY  permissions.label             "مجوزها">
@@ -46,11 +38,8 @@
 
 <!ENTITY  suggestionSettings2.label     "تغییر ترجیحات مربوط به پیشنهادهای موتورهای جست‌وجو">
 
-<!ENTITY  acceptCookies2.label          "اجازه استفاده از کوکی‌ها توسط پایگاه‌های اینترنتی">
-<!ENTITY  acceptCookies2.accesskey      "ک">
 
-<!ENTITY  acceptThirdParty2.pre.label     "پذیرفتن کوکی‌های شخص ثالث">
-<!ENTITY  acceptThirdParty2.pre.accesskey "ث">
+
 <!ENTITY  acceptThirdParty.always.label   "همیشه">
 <!ENTITY  acceptThirdParty.never.label    "هرگز">
 <!ENTITY  acceptThirdParty.visited.label  "از بازدید">
@@ -64,9 +53,6 @@
 <!ENTITY  cookieExceptions.label        "استثناها…">
 <!ENTITY  cookieExceptions.accesskey    "ت">
 
-<!ENTITY  showCookies.label             "نمایش کوکی‌ها…">
-<!ENTITY  showCookies.accesskey         "ک">
-
 <!ENTITY  historyHeader2.pre.label         "&brandShortName; will">
 <!ENTITY  historyHeader2.pre.accesskey     "w">
 <!ENTITY  historyHeader.remember.label     "تاریخچه را به خاطر خواهد داشت">
@@ -74,24 +60,11 @@
 <!ENTITY  historyHeader.custom.label       "تنظیمات خاصی را برای تاریخچه استفاده می‌کند">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; تاریخچهٔ مرور، بارگیری، فرم‌ها و جست‌وجوهای شما را به خاطر خواهد داشت، و کوکی‌های پایگاه‌هایی که بازدید می‌کنید را خواهد پذیرفت.">
-
-<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
-<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-<!ENTITY  rememberActions.pre.label           "ممکن است بخواهید ">
-<!ENTITY  rememberActions.clearHistory.label  "تاریخچهٔ اخیر خود را پاک کنید">
-<!ENTITY  rememberActions.middle.label        "، یا ">
-<!ENTITY  rememberActions.removeCookies.label "برخی کوکی‌ها را حذف کنید">
-<!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; تنظیمات حالت مرور ناشناس را استفاده خواهد کرد، و هیچ تاریخچه‌ای از مرور شما در وب نگه نخواهد داشت.">
 
-<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-<!ENTITY  dontrememberActions.pre.label          "ممکن است همچنین بخواهید ">
-<!ENTITY  dontrememberActions.clearHistory.label "تمام تاریخچهٔ موجود را پاک کنید">
-<!ENTITY  dontrememberActions.post.label         ".">
+<!ENTITY  clearHistoryButton.label       "پاک‌کردن تاریخچه…">
+<!ENTITY  clearHistoryButton.accesskey   "s">
 
 <!ENTITY  privateBrowsingPermanent2.label "همیشه از حالت  مرور خصوصی استفاده کن">
 <!ENTITY  privateBrowsingPermanent2.accesskey "م">
@@ -107,12 +80,6 @@
 
 <!ENTITY  clearOnCloseSettings.label     "تنظیمات">
 <!ENTITY  clearOnCloseSettings.accesskey "ت">
-
-<!ENTITY  browserContainersLearnMore.label      "اطلاعات بیشتر">
-<!ENTITY  browserContainersEnabled.label        "فعال‌سازی زبانه‌های حامل">
-<!ENTITY  browserContainersEnabled.accesskey    "ع">
-<!ENTITY  browserContainersSettings.label        "تنظیمات…">
-<!ENTITY  browserContainersSettings.accesskey    "ت">
 
 <!ENTITY  a11yPrivacy.checkbox.label     "جلوگیری از دسترسی به سرویس‌ها از طریق مرورگر شما">
 <!ENTITY  a11yPrivacy.checkbox.accesskey "a">

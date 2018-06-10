@@ -70,11 +70,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY verifiedManage.accesskey     "ح">
 <!ENTITY disconnect3.label            "قطع ارتباط…">
 <!ENTITY disconnect3.accesskey        "ق">
-<!ENTITY verify.label                "تایید پست‌الکترونیکی">
-<!ENTITY verify.accesskey            "ت">
-<!ENTITY forget.label                "این پست‌الکترونیکی را فراموش کن">
-<!ENTITY forget.accesskey            "ا">
-
 <!ENTITY resendVerification.label     "ارسال مجدد تاییدیه">
 <!ENTITY resendVerification.accesskey "d">
 <!ENTITY cancelSetup.label            "لغو نصب">
@@ -106,3 +101,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
 <!ENTITY mobilePromo3.end              " جهت همگام‌سازی با دستگاه همراه شما.">
+
+<!ENTITY mobilepromo.singledevice      "اتصالِ دستگاهی دیگر">
+<!ENTITY mobilepromo.multidevice       "مدیریت دستگاه‌ها">
