@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY providerUninstall.title                           "მომწოდებლის ამოშლა">
-<!ENTITY providerUninstall.accept.label                    "შერჩეულია ხელმოწერის გაუქმება">
+<!ENTITY providerUninstall.accept.label                    "შერჩეულია გამოწერის გაუქმება">
 <!ENTITY providerUninstall.accept.accesskey                "უ">
 <!ENTITY providerUninstall.cancel.label                    "დამატების შენარჩუნება">
 <!ENTITY providerUninstall.cancel.accesskey                "დ">
