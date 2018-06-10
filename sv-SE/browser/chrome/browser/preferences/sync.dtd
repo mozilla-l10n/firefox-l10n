@@ -8,7 +8,7 @@
 <!ENTITY engine.bookmarks.accesskey "B">
 <!ENTITY engine.tabs.label2         "Öppna flikar">
 <!ENTITY engine.tabs.title          "En lista över vad som är öppet på alla synkroniserade enheter">
-<!ENTITY engine.tabs.accesskey      "t">
+<!ENTITY engine.tabs.accesskey      "f">
 <!ENTITY engine.history.label       "Historik">
 <!ENTITY engine.history.accesskey   "o">
 <!ENTITY engine.logins.label        "Inloggningar">
@@ -74,9 +74,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY resendVerification.accesskey "g">
 <!ENTITY cancelSetup.label            "Avbryt konfiguration">
 <!ENTITY cancelSetup.accesskey        "b">
-
-<!ENTITY removeAccount.label          "Ta bort konto">
-<!ENTITY removeAccount.accesskey      "T">
 
 <!ENTITY signedOut.caption            "Ta din webb med dig">
 <!ENTITY signedOut.description        "Synkronisera dina bokmärken, historik, flikar, lösenord, tillägg och inställningar på alla dina enheter.">
