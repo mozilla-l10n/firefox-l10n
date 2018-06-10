@@ -83,6 +83,13 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Móžośo pódaś, kótare websedła směju dodanki instalěrowaś. Zapišćo eksaktnu adresu sedła, kótarež cośo dowóliś a klikniśo pón na Dowóliś.
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = Dowólone sedła - awtomatiske wótgraśe
+    .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc = Móžośo pódaś, kótare websedła směju medijowe elementy awtomatiski wótgraś. Zapódajśo eksaktnu adresu sedła, kótaremuž cośo to dowóliś a klikniśo pótom na Dowóliś.
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
