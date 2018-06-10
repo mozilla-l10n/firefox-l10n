@@ -83,6 +83,13 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Móžeće podać, kotre websydła smědźa přidatki instalować. Zapisajće eksaktnu adresu sydła, kotrež chceće dowolić a klikńće potom na Dowolić.
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = Dowolene sydła - awtomatiske wothraće
+    .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc = Móžeće podać, kotre websydła smědźa medijowe elementy awtomatisce wothrać. Zapodajće eksaktnu adresu sydła, kotremuž chceće to dowolić a klikńće potom na Dowolić.
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
