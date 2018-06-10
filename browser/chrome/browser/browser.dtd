@@ -57,6 +57,8 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "Yn wachtrige (offline)">
 <!ENTITY  moveToNewWindow.label              "Ferpleatse nei nij finster">
 <!ENTITY  moveToNewWindow.accesskey          "f">
+<!ENTITY  reopenInContainer.label            "Opnij iepenje yn kontener">
+<!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkAllTabs.label              "Blêdwizer foar alle ljepblêden meitsje…">
 <!ENTITY  bookmarkAllTabs.accesskey          "B">
 <!ENTITY  undoCloseTab.label                 "Ljepblêd slute ûngedien meitsje">
@@ -904,6 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Alle sichtbere finsters op jo skerm sille dield wurde.">
 
 <!ENTITY trackingProtection.title "Beskerming tsjin folgjen">
+<!ENTITY trackingProtection.tooltip "Foarkarren Beskerming tsjin folgjen iepenje">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokkearret ûnderdielen fan de side dy't jo sneupgedrach folgje kinne soe.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Dizze website befettet eleminten dy't jo sneupgedrach folgje kinne soe. Jo hawwe beskerming útskeakele.">
 <!ENTITY trackingProtection.notDetected3 "Gjin folcheleminten op dizze side detektearre.">
