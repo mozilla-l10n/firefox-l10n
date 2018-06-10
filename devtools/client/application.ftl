@@ -55,6 +55,9 @@ serviceworker-empty-suggestions = Jika seharusnya laman saat ini memiliki servic
 # Suggestion to check for errors in the Console to investigate why a service worker is not
 # registered. Clicking on the link opens the webconsole.
 serviceworker-empty-suggestions-console = Periksa masalah pada Konsol. <a>Buka Konsol</a>
+# Suggestion to use the debugger to investigate why a service worker is not registered.
+# Clicking on the link will switch from the Application panel to the debugger.
+serviceworker-empty-suggestions-debugger = Melangkah melalui pendaftaran Service Worker dan cari pengecualian. <a>Buka Debugger</a>
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Periksa Service Workers dari domain lainnya. <a>Buka about:debugging</a>
