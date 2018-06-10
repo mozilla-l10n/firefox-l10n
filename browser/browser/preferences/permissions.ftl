@@ -57,6 +57,9 @@ permissions-exceptions-tracking-protection-desc = شما محافظت در بر�
 
 ## Exceptions - Cookies
 
+permissions-exceptions-cookie-window =
+    .title = استثناها - کوکی‌ها و اطلاعات پایگاه‌ها
+    .style = { permissions-window.style }
 
 ## Exceptions - Pop-ups
 
@@ -78,6 +81,9 @@ permissions-exceptions-addons-window =
     .title = سایت‌های مجاز ‐ نصب افزودنی‌ها
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = شما می‌توانید مشخص کنید که کدام وب‌گاه‌ها مجازند افزودنی‌هایی نصب کنند. نشانی دقیق پایگاهی را که می‌خواهید به آن اجازه دهید وارد کنید و روی «اجازه دادن» کلیک نمایید.
+
+## Exceptions - Autoplay Media
+
 
 ## Site Permissions - Notifications
 
