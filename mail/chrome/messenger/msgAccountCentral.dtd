@@ -7,16 +7,16 @@
 <!ENTITY composeMsgLink.label         "ახალი წერილის შედგენა">
 
 <!ENTITY newsSectionHdr.label         "ჯგუფები">
-<!ENTITY subscribeNewsLink.label      "ხელმოწერა ჯგუფებზე">
+<!ENTITY subscribeNewsLink.label      "ჯგუფების გამოწერების მართვა">
 
 <!ENTITY feedsSectionHdr.label        "არხები">
-<!ENTITY subscribeFeeds.label         "ხელმოწერათა მართვა">
+<!ENTITY subscribeFeeds.label         "გამოწერების მართვა">
 
 <!ENTITY chat.label                   "ჩათი">
 <!ENTITY movemail.label               "Movemail">
 
 <!ENTITY accountsSectionHdr.label     "ანგარიშები">
-<!ENTITY subscribeImapFolders.label   "ხელმოწერების დასტების მართვა">
+<!ENTITY subscribeImapFolders.label   "საქაღალდეების გამოწერების მართვა">
 <!ENTITY settingsLink.label           "ანგარიშის პარამეტრების ჩვენება">
 <!ENTITY setupNewAcct.label           "ანგარიშის გამართვა:">
 
