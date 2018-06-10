@@ -56,7 +56,7 @@ serviceworker-worker-status-registering = Registrerer
 
 # Text displayed when no service workers are visible for the current page. Clicking on the
 # link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
-serviceworker-empty-intro = Du skal registrere en service-worker for at kunne inspicere den her<a>Læs mere</a>
+serviceworker-empty-intro = Du skal registrere en service-worker for at kunne inspicere den her. <a>Læs mere</a>
 
 # Text displayed when there are no Service Workers to display for the current page,
 # introducing hints to debug Service Worker issues.
@@ -64,7 +64,7 @@ serviceworker-empty-suggestions = Hvis den nuværende side burde have en service
 
 # Suggestion to check for errors in the Console to investigate why a service worker is not
 # registered. Clicking on the link opens the webconsole.
-serviceworker-empty-suggestions-console = Kigge efter fejl i konsollen <a>Åbn konsollen</a>
+serviceworker-empty-suggestions-console = Kigge efter fejl i konsollen. <a>Åbn konsollen</a>
 
 # Suggestion to use the debugger to investigate why a service worker is not registered.
 # Clicking on the link will switch from the Application panel to the debugger.
@@ -72,4 +72,4 @@ serviceworker-empty-suggestions-debugger = Gennemgå  registreringen for din ser
 
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
-serviceworker-empty-suggestions-aboutdebugging = Inspicerer service-workers fra andre domæner. <a>Åbn about:debugging</a>
+serviceworker-empty-suggestions-aboutdebugging = Inspicere service-workers fra andre domæner. <a>Åbn about:debugging</a>
