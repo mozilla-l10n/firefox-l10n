@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "Xestor de complementos">
 
-<!ENTITY search.placeholder                   "Buscar en todos os complementos">
+<!ENTITY search.placeholder2                  "Buscar en addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Buscar">
-<!-- LOCALIZATION NOTE (search.commandKey):
+<!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
@@ -14,17 +14,18 @@
 <!ENTITY listEmpty.availableUpdates.label     "Non se atoparon actualizacións">
 <!ENTITY listEmpty.recentUpdates.label        "Recentemente non actualizou ningún complemento">
 <!ENTITY listEmpty.findUpdates.label          "Buscar actualizacións">
-<!ENTITY listEmpty.search.label               "Non foi posíbel atopar ningún complemento que cumpra os criterios">
 <!ENTITY listEmpty.button.label               "Saber máis sobre os complementos">
 <!ENTITY installAddonFromFile.label           "Instalar complemento desde o ficheiro…">
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Ferramentas para todos os complementos">
 
-<!ENTITY cmd.back.tooltip                     "Retroceder unha páxina">
-<!ENTITY cmd.forward.tooltip                  "Avanzar unha páxina">
+<!ENTITY getThemes.learnMore                  "Escolla entre centos de temas.">
+
 
 <!ENTITY showUnsignedExtensions.button.label  "Non foi posíbel comprobar algunhas extensións">
 <!ENTITY showAllExtensions.button.label       "Amosar todas as extensións">
+<!ENTITY debugAddons.label                    "Depurar complementos">
+<!ENTITY debugAddons.accesskey                "d">
 
 <!-- global warnings -->
 <!ENTITY warning.safemode.label                    "O modo seguro desactivou todos os complementos.">
@@ -35,12 +36,7 @@
 <!ENTITY warning.updatesecurity.enable.label       "Activar">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Activar a verificación da seguranza das actualizacións dos complementos">
 
-<!-- global informations -->
-<!ENTITY info.plugincheck.label                 "Comprobe se os seus engadidos están actualizados">
-<!ENTITY info.plugincheck.tooltip               "Comprobe se os seus engadidos están actualizados">
-
 <!-- categories / views -->
-<!ENTITY view.search.label                    "Buscar">
 <!ENTITY view.discover.label                  "Obter complementos">
 <!ENTITY view.recentUpdates.label             "Actualizacións recentes">
 <!ENTITY view.availableUpdates.label          "Actualizacións dispoñíbeis">
@@ -105,8 +101,6 @@
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Eliminar">
 <!ENTITY cmd.uninstallAddon.accesskey         "r">
-<!ENTITY cmd.debugAddon.label                 "Depurar">
-<!ENTITY cmd.debugAddon.accesskey             "p">
 <!ENTITY cmd.showPreferencesWin.label         "Opcións">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Cambiar as opcións deste complemento">
 <!ENTITY cmd.showPreferencesUnix.label        "Preferencias">
@@ -119,6 +113,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Amosar as notas do lanzamento desta actualización">
 <!ENTITY cmd.hideReleaseNotes.label           "Agochar notas do lanzamento">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Agochar as notas do lanzamento desta versión">
+<!ENTITY cmd.findReplacement.label            "Atopar un substituto">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
@@ -132,7 +127,6 @@
 <!ENTITY detail.lastupdated.label             "Última actualización">
 <!ENTITY detail.creator.label                 "Desenvolvedor">
 <!ENTITY detail.homepage.label                "Páxina de inicio">
-<!ENTITY detail.numberOfDownloads.label       "Descargas">
 
 <!ENTITY detail.contributions.description     "O desenvolvedor solicítalle unha pequena doazón para axudar a continuar o desenvolvemento deste complemento.">
 
@@ -171,21 +165,15 @@
 <!ENTITY sort.name.tooltip                    "Ordenar por nome">
 <!ENTITY sort.dateUpdated.label               "Última actualización">
 <!ENTITY sort.dateUpdated.tooltip             "Ordenar por data de actualización">
-<!ENTITY sort.relevance.label                 "Mellor coincidencia">
-<!ENTITY sort.relevance.tooltip               "Ordenar por relevancia">
-<!ENTITY sort.price.label                     "Prezo">
-<!ENTITY sort.price.tooltip                   "Ordenar por prezo">
-
-<!ENTITY search.filter2.label                 "Buscar:">
-<!ENTITY search.filter2.installed.label       "Os meus complementos">
-<!ENTITY search.filter2.installed.tooltip     "Amosar os complementos instalados">
-<!ENTITY search.filter2.available.label       "Complementos dispoñíbeis">
-<!ENTITY search.filter2.available.tooltip     "Amosar os complementos dispoñíbeis para instalar">
 
 <!ENTITY addon.homepage                       "Páxina de inicio">
 <!ENTITY addon.details.label                  "Máis">
 <!ENTITY addon.details.tooltip                "Amosar máis detalles sobre este complemento">
 <!ENTITY addon.unknownDate                    "Descoñecido">
+<!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
+     to the add-on name for extensions that are not webextensions, which
+     will stop working in Firefox 57. -->
+<!ENTITY addon.legacy.label                   "HERDADO">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
@@ -247,3 +235,5 @@
 <!ENTITY disabledUnsigned.devInfo.start "Os desenvolvedores interesados en conseguir que os seus complementos sexa verificados poden continuar lendo o noso ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "manual">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+
