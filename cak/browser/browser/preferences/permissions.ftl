@@ -83,6 +83,13 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Yatikïr naya' retal pan achike ruxaq k'amaya'l niya' q'ij richin yeyak ri taq tz'aqat. Tatz'ib'aj chi ütz ri rochochib'al ruxaq k'amaya'l, ri nawajo' naya' q'ij chuqa' tapitz'a' Tiya' q'ij.
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = Ajk'amaya'l Ruxaq Ya'on q'ij - Ruyon Nitzijtäj
+    .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc = Tikirel niya' ketal ri ajk'amaya'l taq ruxaq ya'on q'ij chi ke richin ruyon yekitzïj taq kich'akulal tob'äl. Tikirel nitz'ib'äx ri rochochib'al ruxaq naya' q'ij chi re k'a ri' tapitz'a' Tiya' Q'ij.
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
