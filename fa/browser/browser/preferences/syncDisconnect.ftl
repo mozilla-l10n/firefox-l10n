@@ -5,6 +5,7 @@
 sync-disconnect-dialog =
     .title = قطع ارتباط با { -sync-brand-short-name }؟
     .style = width: 36em; min-height: 35em;
+sync-disconnect-heading = آیا همچنین می‌خواهید اطلاعات مرورگر را از این رایانه حذف کنید؟ اطلاعات { -sync-brand-name } به هر حال در حساب شما باقی خواهند ماند.
 sync-disconnect-remove-sync-caption = حذف داده‌های { -sync-brand-name }
 sync-disconnect-remove-sync-data = نشانک‌ها، تاریخچه، گذرواژه‌ها و غیره.
 sync-disconnect-remove-other-caption = حذف سایر داده‌های شخصی
