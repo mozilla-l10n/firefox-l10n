@@ -9,7 +9,7 @@
 
 <!ENTITY newFeedSettings.label "ნაგულისხმევი პარამეტრები, სიახლეების არხებისთვის">
 
-<!ENTITY manageSubscriptions.label "ხელმოწერების მართვა…">
+<!ENTITY manageSubscriptions.label "გამოწერების მართვა…">
 <!ENTITY manageSubscriptions.accesskey "M">
 
 <!-- entities from rss.rdf -->

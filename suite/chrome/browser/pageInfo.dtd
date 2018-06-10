@@ -79,8 +79,8 @@
 
 <!ENTITY  feedTab               "არხები">
 <!ENTITY  feedTab.accesskey     "F">
-<!ENTITY  feedSubscribe         "ხელმოწერა">
-<!ENTITY  feedSubscribe.accesskey "u">
+<!ENTITY  feedSubscribe         "გამოწერა">
+<!ENTITY  feedSubscribe.accesskey "ო">
 
 <!ENTITY  permTab               "უფლებები">
 <!ENTITY  permTab.accesskey     "P">
