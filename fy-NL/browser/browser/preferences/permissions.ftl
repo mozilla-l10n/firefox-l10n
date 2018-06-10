@@ -88,6 +88,7 @@ permissions-exceptions-addons-desc = Jo kinne oanjaan hokker siden add-ons ynsta
 permissions-exceptions-autoplay-media-window =
     .title = Tastiene websites - Automatysk ôfspylje
     .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc = Jo kinne opjaan hokker websites tastimming hawwe om automatysk media-eleminten ôf te spyljen. Typ it eksakte adres fan de website dy't jo tastimming jaan wolle en klik ferfolgens op Tastean.
 
 ## Site Permissions - Notifications
 
