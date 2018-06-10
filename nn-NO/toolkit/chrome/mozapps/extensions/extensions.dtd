@@ -58,13 +58,13 @@
      update checking behavior for all add-ons to the default global behavior
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAutomatic.label       "Tilbakestill alle utvidingane til å oppdatere automatisk">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Tilbakestill alle tillegga til å oppdatere automatisk">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "T">
-<!ENTITY updates.resetUpdatesToManual.label          "Tilbakestill alle utvidingane til å oppdatere manuelt">
+<!ENTITY updates.resetUpdatesToManual.label          "Tilbakestill alle tillegga til å oppdatere manuelt">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "T">
-<!ENTITY updates.updating.label               "Oppdaterer utvidingane">
-<!ENTITY updates.installed.label              "Utvidingane er oppdaterte">
-<!ENTITY updates.downloaded.label             "Oppdateringar til utvidingane er lasta ned.">
+<!ENTITY updates.updating.label               "Oppdaterer tillegga">
+<!ENTITY updates.installed.label              "Tillegga dine er oppdaterte.">
+<!ENTITY updates.downloaded.label             "Oppdateringar for tillegga dine er lasta ned.">
 <!ENTITY updates.restart.label                "Start på nytt no for å fullføre installeringa">
 <!ENTITY updates.noneFound.label              "Fann ingen oppdateringar">
 <!ENTITY updates.manualUpdatesFound.label     "Vis tilgjengelege oppdateringar">
@@ -92,23 +92,23 @@
 <!ENTITY cmd.disableTheme.label               "Slutt å bruke temaet">
 <!ENTITY cmd.disableTheme.accesskey           "b">
 <!ENTITY cmd.askToActivate.label              "Spør for å aktivere">
-<!ENTITY cmd.askToActivate.tooltip            "Spør kvar gong for å bruke denne utvidinga">
+<!ENTITY cmd.askToActivate.tooltip            "Spør kvar gong for å bruke dette tillegget">
 <!ENTITY cmd.alwaysActivate.label             "Alltid aktiver">
-<!ENTITY cmd.alwaysActivate.tooltip           "Alltid bruk denne utvidinga">
+<!ENTITY cmd.alwaysActivate.tooltip           "Alltid bruk dette tillegget">
 <!ENTITY cmd.neverActivate.label              "Aldri aktiver">
-<!ENTITY cmd.neverActivate.tooltip            "Aldri bruk denne utvidinga">
-<!ENTITY cmd.stateMenu.tooltip                "Endre når utvidinga køyrer">
+<!ENTITY cmd.neverActivate.tooltip            "Aldri bruk dette tillegget">
+<!ENTITY cmd.stateMenu.tooltip                "Endre når tillegget køyrer">
 <!ENTITY cmd.installAddon.label               "Installer">
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Slett">
 <!ENTITY cmd.uninstallAddon.accesskey         "e">
 <!ENTITY cmd.showPreferencesWin.label         "Innstillingar">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Endre innstillingane i denne utvidinga">
+<!ENTITY cmd.showPreferencesWin.tooltip       "Endre innstillingane i dette tillegget">
 <!ENTITY cmd.showPreferencesUnix.label        "Innstillingar">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Endre innstillingane i denne utvidinga">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Endre innstillingane i dette tillegget">
 <!ENTITY cmd.contribute.label                 "Ver med">
 <!ENTITY cmd.contribute.accesskey             "V">
-<!ENTITY cmd.contribute.tooltip               "Bidra til utviklinga av denne utvidinga">
+<!ENTITY cmd.contribute.tooltip               "Bidra til utviklinga av dette tillegget">
 
 <!ENTITY cmd.showReleaseNotes.label           "Vis versjonsnotat">
 <!ENTITY cmd.showReleaseNotes.tooltip         "Vis versjonsnotatet for denne oppdateringa">
@@ -129,7 +129,7 @@
 <!ENTITY detail.creator.label                 "Utviklar">
 <!ENTITY detail.homepage.label                "Heimeside">
 
-<!ENTITY detail.contributions.description     "Utviklaren av denne utvidinga ber om at du hjelper til med å støtte vidare utvikling ved å gje eit lite bidrag.">
+<!ENTITY detail.contributions.description     "Utviklaren av dette tillegget ber om at du hjelper til med å støtte vidare utvikling ved å gje eit lite bidrag.">
 
 <!ENTITY detail.updateType                    "Automatiske oppdateringar">
 <!ENTITY detail.updateDefault.label           "Standard">
@@ -139,18 +139,18 @@
 <!ENTITY detail.updateManual.label            "Av">
 <!ENTITY detail.updateManual.tooltip          "Ikkje installer oppdateringar automatisk">
 <!ENTITY detail.home                          "Heimeside">
-<!ENTITY detail.repository                    "Utvidingsprofil">
+<!ENTITY detail.repository                    "Tilleggsprofil">
 <!ENTITY detail.size                          "Storleik">
 
 <!ENTITY detail.checkForUpdates.label         "Sjå etter oppdateringar">
 <!ENTITY detail.checkForUpdates.accesskey     "S">
-<!ENTITY detail.checkForUpdates.tooltip       "Ser etter oppdateringar for denne utvidinga">
+<!ENTITY detail.checkForUpdates.tooltip       "Ser etter oppdateringar for dette tillegget">
 <!ENTITY detail.showPreferencesWin.label      "Innstillingar">
 <!ENTITY detail.showPreferencesWin.accesskey  "I">
-<!ENTITY detail.showPreferencesWin.tooltip    "Endre innstillingane i denne utvidinga">
+<!ENTITY detail.showPreferencesWin.tooltip    "Endre innstillingane for dette tillegget">
 <!ENTITY detail.showPreferencesUnix.label     "Innstillingar">
 <!ENTITY detail.showPreferencesUnix.accesskey "I">
-<!ENTITY detail.showPreferencesUnix.tooltip   "Endre innstillingane i denne utvidinga">
+<!ENTITY detail.showPreferencesUnix.tooltip   "Endre innstillingane for dette tillegget">
 
 
 <!-- ratings -->
@@ -169,7 +169,7 @@
 
 <!ENTITY addon.homepage                       "Heimeside">
 <!ENTITY addon.details.label                  "Meir">
-<!ENTITY addon.details.tooltip                "Vis meir informasjon om denne utvidinga">
+<!ENTITY addon.details.tooltip                "Vis meir informasjon om dette tillegget">
 <!ENTITY addon.unknownDate                    "Ukjent">
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
@@ -187,12 +187,12 @@
 <!ENTITY addon.undoAction.label               "Angre">
 <!ENTITY addon.undoAction.tooltip             "Angre denne handlinga">
 <!ENTITY addon.undoRemove.label               "Angre">
-<!ENTITY addon.undoRemove.tooltip             "Behald denne utvidinga installert">
+<!ENTITY addon.undoRemove.tooltip             "Behald dette tillegget installert">
 <!ENTITY addon.restartNow.label               "Start på nytt no">
 <!ENTITY addon.install.label                  "Installer">
-<!ENTITY addon.install.tooltip                "Installer denne utvidinga">
+<!ENTITY addon.install.tooltip                "Installer dette tillegget">
 <!ENTITY addon.updateNow.label                "Oppdater no">
-<!ENTITY addon.updateNow.tooltip              "Installer oppdateringa for denne utvidinga">
+<!ENTITY addon.updateNow.tooltip              "Installer oppdateringa for dette tillegget">
 <!ENTITY addon.includeUpdate.label            "Inkluder i oppdateringa">
 <!ENTITY addon.updateAvailable.label          "Ei oppdatering er tilgjengeleg">
 <!ENTITY addon.checkingForUpdates.label       "Ser etter oppdateringer…">
