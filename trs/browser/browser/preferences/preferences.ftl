@@ -144,6 +144,13 @@ performance-default-content-process-count =
 
 ## General Section - Browsing
 
+browsing-title = Aché nu'
+browsing-use-autoscroll =
+    .label = Garasun' sa unanj ma'an
+    .accesskey = G
+browsing-use-smooth-scrolling =
+    .label = Garasun' sa unanj nànaj
+    .accesskey = a
 
 ## General Section - Proxy
 
