@@ -3,10 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!--
-LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of 
-Netscape Communicator, Please translate using the brandname in respective 
+LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of
+Netscape Communicator, Please translate using the brandname in respective
 languages for Netscape Communicator 4 releases.
-LOCALIZATION NOTE : Do not translate any of the occurrences of the word 
+LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 "&brandShortName;" below.
 -->
 
@@ -15,7 +15,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importAll.accesskey      "E">
 <!ENTITY importMail.label         "ფოსტა">
 <!ENTITY importMail.accesskey     "M">
-<!ENTITY importFeeds.label        "ხელმოწერები არხებზე">
+<!ENTITY importFeeds.label        "გამოწერილი არხები">
 <!ENTITY importFeeds.accesskey    "d">
 <!ENTITY importAddressbook.label  "წიგნაკი">
 <!ENTITY importAddressbook.accesskey "A">
@@ -30,7 +30,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importTitle.label        "&brandShortName; იმპორტის მეგზური">
 <!ENTITY importShortDesc.label    "ფოსტის, წიგნაკის, პარამეტრებისა და ფილტრების იმპორტი სხვა პროგრამებიდან">
 
-<!ENTITY importDescription1.label "მეგზური სხვა საფოსტო პროგრამებიდან და წიგნაკებიდან &brandShortName; საფოსტო პროგრამაში წერილების, წიგნაკის ჩანაწერების, არხებზე ხელმოწერების, ფილტრებისა და/ან პარამეტრების იმპორტის საშუალებას მოგცემთ.">
+<!ENTITY importDescription1.label "მეგზური სხვა საფოსტო პროგრამებიდან და წიგნაკებიდან &brandShortName; საფოსტო პროგრამაში წერილების, წიგნაკის ჩანაწერების, გამოწერილის არხების, ფილტრებისა და/ან პარამეტრების გადმოტანის საშუალებას მოგცემთ.">
 <!ENTITY importDescription2.label "იმპორტის შემდეგ მათი გამოყენება დაუყოვნებლივ შეგეძლებათ &brandShortName; პროგრამაში.">
 
 <!ENTITY selectDescription.label  "გთხოვთ მიუთითოთ ფაილის ტიპი, რომლიდანაც გსურთ მონაცემთა იმპორტი:">

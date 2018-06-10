@@ -61,7 +61,7 @@
 <!ENTITY getNextNMsgCmd2.accesskey "ხ">
 <!ENTITY sendUnsentCmd.label "გასაგზავნი წერილების გაგზავნა">
 <!ENTITY sendUnsentCmd.accesskey "ს">
-<!ENTITY subscribeCmd.label "ხელმოწერა…">
+<!ENTITY subscribeCmd.label "გამოწერა…">
 <!ENTITY subscribeCmd.accesskey "ლ">
 <!ENTITY deleteFolder.label "საქაღალდის წაშლა">
 <!ENTITY deleteFolder.accesskey "ღ">
@@ -103,7 +103,7 @@
 <!ENTITY undeleteMsgsCmd.accesskey "ე">
 <!ENTITY deleteFolderCmd.label "საქაღალდის წაშლა">
 <!ENTITY deleteFolderCmd.accesskey "ქ">
-<!ENTITY unsubscribeNewsgroupCmd.label "ხელმოწერის გაუქმება">
+<!ENTITY unsubscribeNewsgroupCmd.label "გამოწერის გაუქმება">
 <!ENTITY unsubscribeNewsgroupCmd.accesskey "ლ">
 <!ENTITY selectMenu.label "შერჩევა">
 <!ENTITY selectMenu.accesskey "შ">
@@ -671,13 +671,13 @@
 <!ENTITY folderContextEmptyJunk.accesskey "J">
 <!ENTITY folderContextSendUnsentMessages.label "გასაგზავნი წერილების გაგზავნა…">
 <!ENTITY folderContextSendUnsentMessages.accesskey "d">
-<!ENTITY folderContextUnsubscribe.label "ხელმოწერის გაუქმება">
+<!ENTITY folderContextUnsubscribe.label "გამოწერის გაუქმება">
 <!ENTITY folderContextUnsubscribe.accesskey "U">
 <!ENTITY folderContextMarkNewsgroupRead.label "ჯგუფის მონიშვნა წაკითხულად">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "k">
 <!ENTITY folderContextMarkMailFolderRead.label "დასტის მონიშვნა წაკითხულად">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "k">
-<!ENTITY folderContextSubscribe.label "ხელმოწერა…">
+<!ENTITY folderContextSubscribe.label "გამოწერა…">
 <!ENTITY folderContextSubscribe.accesskey "b">
 <!ENTITY folderContextSearchForMessages.label "წერილების ძიება…">
 <!ENTITY folderContextSearchForMessages.accesskey "S">
@@ -906,7 +906,7 @@
 <!ENTITY EditContact1.accesskey "ჩ">
 <!ENTITY ViewContact.label "კონტაქტის ჩვენება">
 <!ENTITY ViewContact.accesskey "ვ">
-<!ENTITY SubscribeToNewsgroup.label "ხელმოწერა სიახლეთა ჯგუფებზე">
+<!ENTITY SubscribeToNewsgroup.label "სიახლეთა ჯგუფების გამოწერა">
 <!ENTITY SubscribeToNewsgroup.accesskey "N">
 <!ENTITY SendMessageTo.label "წერილის შექმნა -">
 <!ENTITY SendMessageTo.accesskey "s">
