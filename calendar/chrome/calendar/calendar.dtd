@@ -365,8 +365,8 @@
 <!ENTITY calendarproperties.cache3.label                   "ბუფერიზაცია">
 <!ENTITY calendarproperties.enabled.label                  "ამ კალენდრის ჩართვა">
 <!ENTITY calendarproperties.forceDisabled.label            "ამ კალენდრისთვის მომწოდებელი ვერ მოიძებნა. ხშირად, ეს თქვენ მიერ გარკვეული დამატებების წაშლის ან ამორთვის შემთხვევაში ხდება.">
-<!ENTITY calendarproperties.unsubscribe.label              "ხელმოწერის გაუქმება">
-<!ENTITY calendarproperties.unsubscribe.accesskey          "U">
+<!ENTITY calendarproperties.unsubscribe.label              "გამოწერა გაუქმება">
+<!ENTITY calendarproperties.unsubscribe.accesskey          "უ">
 
 <!-- Calendar Publish Dialog -->
 <!ENTITY calendar.publish.dialog.title              "კალენდრის გამოქვეყნება">
