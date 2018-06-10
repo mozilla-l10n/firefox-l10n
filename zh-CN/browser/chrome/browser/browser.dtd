@@ -57,6 +57,7 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "已排队 (离线)">
 <!ENTITY  moveToNewWindow.label              "移动到新窗口">
 <!ENTITY  moveToNewWindow.accesskey          "W">
+<!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkAllTabs.label              "为全部标签页添加书签…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "恢复关闭的标签页">
@@ -904,6 +905,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "您的屏幕上的所有可见窗口都将被共享。">
 
 <!ENTITY trackingProtection.title "跟踪保护">
+<!ENTITY trackingProtection.tooltip "打开跟踪保护首选项">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; 已拦截该页面可能跟踪您的浏览行为的内容。">
 <!ENTITY trackingProtection.detectedNotBlocked3 "此网站包含的某些元素可能跟踪您的浏览行为，但您已经禁用保护。">
 <!ENTITY trackingProtection.notDetected3 "此页面上未检测到跟踪元素。">
