@@ -18,6 +18,10 @@
 <!ENTITY accountTypeNews.label "Cuenta de noticias">
 <!ENTITY accountTypeNews.accesskey "n">
 
+<!-- LOCALIZATION NOTE(accountTypeMovemail.label): do not translate 'Movemail' -->
+<!ENTITY accountTypeMovemail.label "Unix Mailspool (Movemail)">
+<!ENTITY accountTypeMovemail.accesskey "U">
+
 <!-- Entities for Identity page -->
 
 <!ENTITY identityTitle.label "Identidad">
@@ -46,6 +50,8 @@
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
+<!ENTITY leaveMsgsOnSrvr.label "Dejar mensajes en el servidor">
+<!ENTITY leaveMsgsOnSrvr.accesskey "l">
 <!ENTITY portNum.label "Puerto:">
 <!ENTITY portNum.accesskey "o">
 <!ENTITY defaultPortLabel.label "Predeterminado:">
@@ -54,8 +60,6 @@
 <!ENTITY incomingServer.description "Ingrese el nombre de su servidor entrante (por ejemplo &quot;mail.ejemplo.net&quot;).">
 <!ENTITY incomingServer.label "Servidor entrante:">
 <!ENTITY incomingServer.accesskey "S">
-<!ENTITY leaveMsgsOnSrvr.label "Dejar mensajes en el servidor">
-<!ENTITY leaveMsgsOnSrvr.accesskey "l">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
 <!ENTITY incomingUsername.description "Ingrese el nombre de usuario entrante asignado por su proveedor de correo electrónico (por ejemplo &quot;jperez&quot;).">
 <!ENTITY incomingUsername.label "Nombre de usuario:">
