@@ -77,6 +77,7 @@
 <!-- Localization note (url_bar_mic_text2) : This text will be
      heard by non-visual users when the focus is on the Microphone
      icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "Brug din mikrofon til at søge på nettet eller til at angive en webadresse">
 
 <!ENTITY bookmark "Sæt bogmærke">
 <!ENTITY bookmark_remove "Fjern bogmærke">
