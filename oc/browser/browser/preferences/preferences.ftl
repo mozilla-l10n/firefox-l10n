@@ -729,6 +729,8 @@ collection-health-report =
     .label = Autorizar { -brand-short-name } a mandar de donadas tecnicas e d’interaccions a { -vendor-short-name }
     .accesskey = A
 collection-health-report-link = Ne saber mai
+collection-studies =
+    .label = Autorizar { -brand-short-name } d’installar e lançar d’estudis
 collection-studies-link = Veire los estudis de { -brand-short-name }
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
