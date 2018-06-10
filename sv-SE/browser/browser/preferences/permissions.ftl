@@ -88,6 +88,7 @@ permissions-exceptions-addons-desc = Du kan ange vilka webbplatser som får inst
 permissions-exceptions-autoplay-media-window =
     .title = Tillåtna Hemsidor - Automatisk uppspelning
     .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc = Du kan specificera vilka webbplatser som får spela upp media automatiskt. Fyll i den exakta adressen till den plats du vill tillåta och klicka sedan på Tillåt.
 
 ## Site Permissions - Notifications
 
