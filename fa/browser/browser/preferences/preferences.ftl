@@ -37,9 +37,17 @@ search-input-box =
             [windows] پیدا‌کردن در گزینه‌ها
            *[other] پیدا‌کردن در ترجیحات
         }
+policies-notice =
+    { PLATFORM() ->
+        [windows] سازمان شما امکان تغییر برخی از گزینه‌ها را غیرفعال کرده است.
+       *[other] سازمان شما امکان تغییر برخی از ترجیحات را غیرفعال کرده است.
+    }
 pane-general-title = عمومی
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = خانه
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = جست‌وجو
 category-search =
     .tooltiptext = { pane-search-title }
@@ -62,6 +70,7 @@ feature-enable-requires-restart = جهت فعال کردن این امکان، {
 feature-disable-requires-restart = شما باید برای غیرفعال کردن این امکان { -brand-short-name } را مجددا راه‌اندازی کنید.
 should-restart-title = راه‌اندازی مجدد { -brand-short-name }
 should-restart-ok = هم‌اکنون { -brand-short-name } راه‌اندازی مجدد شود
+cancel-no-restart-button = لغو
 restart-later = بعداْ راه‌اندازی مجدد شود
 
 ## Extension Control Notifications
@@ -74,6 +83,12 @@ restart-later = بعداْ راه‌اندازی مجدد شود
 ## Variables:
 ##   $name (String): name of the extension
 
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = یک افزودنی، <img data-l10n-name="icon"/>{ $name }، در کنترل صفحهٔ خانگی شماست.
+# This string is shown to notify the user that their new tab page
+# is being controlled by an extension.
+extension-controlled-new-tab-url = یک افزودنی، <img data-l10n-name="icon"/>{ $name }، در کنترل صفحهٔ زبانه‌ٔ جدید شماست.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = یک افزایه،‌<img data-l10n-name="icon"/> { $name }،‌ بر روی موتور پیش فرض شما تنظیم شده است.
@@ -83,6 +98,9 @@ extension-controlled-privacy-containers = یک افزونه، <img data-l10n-nam
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = یک افزونه، <img data-l10n-name="icon"/> { $name }، در حال کنترلِ سیستم محافظت در برابر ردگیری است.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlled-proxy-config = یک افزودنی، <img data-l10n-name="icon"/>{ $name }، در حال کنترل نحوهٔ اتصال { -brand-short-name } به اینترنت است.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -127,6 +145,9 @@ startup-blank-page =
     .label = نمایش یک صفحه خالی
 startup-prev-session =
     .label = نمایش صفحات و زبانه‌های از آخرین دفعه
+startup-restore-previous-session =
+    .label = بازنشانی نشست قبلی
+    .accesskey = s
 disable-extension =
     .label = غیرفعال سازی افزونه
 home-page-header = صفحه خانگی
@@ -314,15 +335,34 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = شبکه پراکسی
+network-proxy-connection-description = نحوهٔ اتصال { -brand-short-name } به اینترنت را پیکربندی کنید.
+network-proxy-connection-learn-more = اطلاعات بیشتر
 network-proxy-connection-settings =
     .label = تنظیمات…
     .accesskey = ت
 
 ## Home Section
 
+home-new-windows-tabs-header = پنجره‌ها و زبانه‌های جدید
+home-new-windows-tabs-description2 = انتخاب کنید چه چیزی در زمان باز کردن صفحهٔ خانگی، پنجره‌ها جدید و زبانه‌های جدید می‌بینید.
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = صفحهٔ خانگی و پنجره‌های جدید
+home-newtabs-mode-label = زبانه‌های جدید
+home-restore-defaults =
+    .label = بازنشانی پیش‌فرض‌ها
+    .accesskey = R
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = خانهٔ فایرفاکس (پیش‌فرض)
+home-mode-choice-custom =
+    .label = آدرس‌های سفارشی…
+home-mode-choice-blank =
+    .label = صفحهٔ خالی
+home-homepage-custom-url =
+    .placeholder = جای‌گذاری یک آدرس…
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -431,6 +471,9 @@ sync-signedin-login-failure = لطفا جهت ارتباط مجدد وارد ش�
 sync-resend-verification =
     .label = ارسال مجدد تاییدیه
     .accesskey = d
+sync-remove-account =
+    .label = حذف حساب
+    .accesskey = R
 sync-sign-in =
     .label = ورود
     .accesskey = و
@@ -480,6 +523,8 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = ذخیره
     .accesskey = ذ
+sync-mobilepromo-single = اتصالِ یک دستگاه دیگر
+sync-mobilepromo-multi = مدیریت دستگاه‌ها
 sync-tos-link = شرایط ارائهٔ خدمات
 sync-fxa-privacy-notice = نکات حفظ حریم خصوصی
 
