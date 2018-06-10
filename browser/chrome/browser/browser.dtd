@@ -57,6 +57,8 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "I kö (offline)">
 <!ENTITY  moveToNewWindow.label              "Flytta till nytt fönster">
 <!ENTITY  moveToNewWindow.accesskey          "t">
+<!ENTITY  reopenInContainer.label            "Återöppna i innehållsflik">
+<!ENTITY  reopenInContainer.accesskey        "i">
 <!ENTITY  bookmarkAllTabs.label              "Bokmärk alla flikar...">
 <!ENTITY  bookmarkAllTabs.accesskey          "f">
 <!ENTITY  undoCloseTab.label                 "Ångra flikstängning">
