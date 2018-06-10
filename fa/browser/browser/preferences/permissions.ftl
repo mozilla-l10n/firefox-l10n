@@ -88,6 +88,7 @@ permissions-exceptions-addons-desc = شما می‌توانید مشخص کنی�
 permissions-exceptions-autoplay-media-window =
     .title = سایت‌های مجاز - پخش خودکار
     .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc = می‌توانید مشخص کنید که چه پایگاه‌هایی می‌توانند به صورت خودکار رسانه‌های مختلف را اجرا کنند. آدرس دقیق سایت را وارد کنید و سپس کلید «اجازه دادن» را بزنید.
 
 ## Site Permissions - Notifications
 
