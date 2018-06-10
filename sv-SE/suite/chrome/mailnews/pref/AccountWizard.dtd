@@ -18,6 +18,10 @@
 <!ENTITY accountTypeNews.label "Konto för diskussionsgrupper">
 <!ENTITY accountTypeNews.accesskey "d">
 
+<!-- LOCALIZATION NOTE(accountTypeMovemail.label): do not translate 'Movemail' -->
+<!ENTITY accountTypeMovemail.label "Unix Mailspool (Movemail)">
+<!ENTITY accountTypeMovemail.accesskey "U">
+
 <!-- Entities for Identity page -->
 
 <!ENTITY identityTitle.label "Identitet">
@@ -26,8 +30,8 @@
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY fullnameDesc.label "Skriv in det namn du vill ska synas i fältet &quot;Från&quot; i meddelanden du skickar">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
-	1, do not translate two of "&quot;"
-	2, Use localized full name instead of "John Smith"
+  1, do not translate two of "&quot;"
+  2, Use localized full name instead of "John Smith"
 -->
 <!ENTITY fullnameExample.label "(exempelvis, &quot;Sven Svensson&quot;).">
 <!ENTITY fullnameLabel.label "Ditt namn:">
@@ -86,7 +90,6 @@
 -->
 <!ENTITY haveSmtp1.prefix "Din befintliga server för utgående e-post (SMTP), &quot;">
 <!ENTITY haveSmtp1.suffix3 "&quot;, kommer att användas.">
-
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
