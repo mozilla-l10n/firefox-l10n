@@ -18,6 +18,10 @@
 <!ENTITY accountTypeNews.label "Konto för diskussionsgrupper">
 <!ENTITY accountTypeNews.accesskey "n">
 
+<!-- LOCALIZATION NOTE(accountTypeMovemail.label): do not translate 'Movemail' -->
+<!ENTITY accountTypeMovemail.label "Unix Mailspool (Movemail)">
+<!ENTITY accountTypeMovemail.accesskey "U">
+
 <!-- Entities for Identity page -->
 
 <!ENTITY identityTitle.label "Identitet">
@@ -36,7 +40,7 @@
 <!ENTITY emailLabel.label "E-postadress:">
 <!ENTITY emailLabel.accesskey "E">
 
-<!-- Entities for Server page -->
+<!-- Entities for Incoming Server page -->
 
 <!ENTITY incomingTitle.label "Serverinställningar">
 <!ENTITY incomingServerTypeDesc.label "Välj vilken typ av server som ska användas för att hämta inkommande e-post.">
