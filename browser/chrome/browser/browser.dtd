@@ -35,6 +35,9 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "Басқа беттерді жабу">
 <!ENTITY  closeOtherTabs.accesskey           "с">
 
+<!ENTITY  closeSelectedTabs.label            "Таңдалған беттерді жабу">
+<!ENTITY  closeSelectedTabs.accesskey        "т">
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -54,6 +57,8 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "Кезекте (желіден тыс)">
 <!ENTITY  moveToNewWindow.label              "Жаңа терезеге жылжыту">
 <!ENTITY  moveToNewWindow.accesskey          "е">
+<!ENTITY  reopenInContainer.label            "Контейнерде қайтадан ашу">
+<!ENTITY  reopenInContainer.accesskey        "а">
 <!ENTITY  bookmarkAllTabs.label              "Барлық беттерді бетбелгілерге қосу…">
 <!ENTITY  bookmarkAllTabs.accesskey          "т">
 <!ENTITY  undoCloseTab.label                 "Жабылған бетті қайтару">
@@ -249,6 +254,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Үйге">
 
+<!ENTITY homeButton.defaultPage.tooltip "&brandShortName; үй беті">
+
 <!ENTITY bookmarksButton.label          "Бетбелгілер">
 <!ENTITY bookmarksCmd.commandkey "b">
 
@@ -428,6 +435,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromMenu.accesskey "ш">
 <!ENTITY customizeMenu.addMoreItems.label "Көбірек элементтерді қосу…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "К">
+
+<!ENTITY customizeMenu.autoHideDownloadsButton.label "Құралдар панелінде автожасыру">
+<!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "а">
+<!ENTITY customizeMenu.manageExtension.label "Кеңейтуді басқару">
+<!ENTITY customizeMenu.manageExtension.accesskey "е">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -789,6 +801,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "Көбірек білу">
 
+<!ENTITY identity.clearSiteData "Cookies файлдары және сайт деректерін тазарту…">
+
 <!ENTITY identity.permissions "Рұқсаттар">
 <!ENTITY identity.permissionsEmpty "Бұл сайтқа арнайы рұқсаттарды берген жоқсыз.">
 <!ENTITY identity.permissionsReloadHint "Өзгерістер іске асуы үшін бұл парақты қайта жүктеуіңіз керек болуы мүмкін.">
@@ -892,6 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Экраныңыздаға барлық көрінетін терезелермен бөлісетін боласыз.">
 
 <!ENTITY trackingProtection.title "Бақылаудан қорғаныс">
+<!ENTITY trackingProtection.tooltip "Бақылаудан қорғаныс баптауларын ашу">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; бұл парақтың сіздің желідегі әрекеттеріңізді бақылай алатын бөліктерін блоктаған.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Бұл сайтта сіздің желідегі әрекеттеріңізді бақылай алатын элементтер бар. Сіз бақылаудан қорғанысты сөндіргенсіз.">
 <!ENTITY trackingProtection.notDetected3 "Бұл парақта бақылайтын элементтер табылмады.">
