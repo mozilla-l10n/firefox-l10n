@@ -57,6 +57,8 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "W čakanskim rynku (offline)">
 <!ENTITY  moveToNewWindow.label              "Do noweho wokna přesunyć">
 <!ENTITY  moveToNewWindow.accesskey          "n">
+<!ENTITY  reopenInContainer.label            "W kontejnerje znowa wočinić">
+<!ENTITY  reopenInContainer.accesskey        "k">
 <!ENTITY  bookmarkAllTabs.label              "Wšě rajtarki jako zapołožki składować…">
 <!ENTITY  bookmarkAllTabs.accesskey          "r">
 <!ENTITY  undoCloseTab.label                 "Začinjeny rajtark wobnowić">
@@ -904,6 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Wšě widźomne wokna na wašej wobrazowce budu so dźělić.">
 
 <!ENTITY trackingProtection.title "Slědowanski škit">
+<!ENTITY trackingProtection.tooltip "Nastajenja slědowanskeho škita wočinić">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokuje dźěle strony, kotrež móhli waše přehladowanje slědować.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Tute sydło wobsahuje elementy, kotrež móhli waše přehladowanje slědować. Sće škit znjemóžnił.">
 <!ENTITY trackingProtection.notDetected3 "Žane slědowanske elementy na tutej stronje namakane.">
