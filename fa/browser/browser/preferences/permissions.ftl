@@ -60,6 +60,7 @@ permissions-exceptions-tracking-protection-desc = شما محافظت در بر�
 permissions-exceptions-cookie-window =
     .title = استثناها - کوکی‌ها و اطلاعات پایگاه‌ها
     .style = { permissions-window.style }
+permissions-exceptions-cookie-desc = می‌توانید تعیین که چه پایگاه‌هایی می‌توانند همیشه یا هرگز دسترسی به کوکی‌ها و اطلاعات پایگاه‌ها داشته باشند. آدرس دقیق سایتی که می‌خواهید مدیریت کنید را وارد کنید و سپس بر روی «مسدود کردن»، «اجازه دادن در این نشست»، یا «اجازه دادن» کلیک کنید.
 
 ## Exceptions - Pop-ups
 
@@ -84,6 +85,9 @@ permissions-exceptions-addons-desc = شما می‌توانید مشخص کنی�
 
 ## Exceptions - Autoplay Media
 
+permissions-exceptions-autoplay-media-window =
+    .title = سایت‌های مجاز - پخش خودکار
+    .style = { permissions-window.style }
 
 ## Site Permissions - Notifications
 
