@@ -6,8 +6,8 @@
 
 <!ENTITY restartRequired.header "Du bliver nødt til at genstarte din browser.">
 <!ENTITY restartRequired.description "
-<p>Vi har installeret en opdatering i baggrunden. Klik på Opdater &brandShortName; for at fuldføre installationen.</p>
+<p>Vi har installeret en opdatering i baggrunden. Klik på Genstart &brandShortName; for at fuldføre installationen.</p>
 <p>Vi genskaber alle dine åbne sider, vinduer og faneblade, så du hurtigt kan komme videre.</p>
 ">
 
-<!ENTITY restartButton.label "Restart &brandShortName;">
+<!ENTITY restartButton.label "Genstart &brandShortName;">
