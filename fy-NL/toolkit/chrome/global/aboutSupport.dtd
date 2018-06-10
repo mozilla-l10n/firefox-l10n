@@ -37,7 +37,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.featureVersion "Ferzje">
 <!ENTITY aboutSupport.featureId "ID">
 
-<!ENTITY aboutSupport.experimentsTitle "eksperimentele funksjes">
+<!ENTITY aboutSupport.experimentsTitle "Eksperimintele funksjes">
 <!ENTITY aboutSupport.experimentName "Namme">
 <!ENTITY aboutSupport.experimentId "ID">
 <!ENTITY aboutSupport.experimentDescription "Beskriuwing">

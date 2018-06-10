@@ -83,6 +83,12 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Jo kinne oanjaan hokker siden add-ons ynstallearje meie. Typ it krekte adres fan de side dy't jo tastimming jaan wolle en klik dernei op Tastean.
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = Tastiene websites - Automatysk ôfspylje
+    .style = { permissions-window.style }
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
