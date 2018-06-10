@@ -31,7 +31,7 @@
 <!ENTITY minimizeButton.tooltip       "მინიმიზება">
 <!ENTITY restoreButton.tooltip        "აღდგენა">
 
-<!ENTITY feedsMenu.label "ხელმოწერა ამ გვერდზე">
+<!ENTITY feedsMenu.label "გამოწერა ამ გვერდზე">
 <!ENTITY feedsMenu.accesskey "S">
 
 <!ENTITY menuBar.tooltip                  "მენიუს პანელი">

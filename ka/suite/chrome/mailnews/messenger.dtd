@@ -53,7 +53,7 @@
 <!ENTITY getNextNMsgCmd.accesskey "t">
 <!ENTITY sendUnsentCmd.label "გასაგზავნი წერილების გაგზავნა">
 <!ENTITY sendUnsentCmd.accesskey "d">
-<!ENTITY subscribeCmd.label "ხელმოწერა…">
+<!ENTITY subscribeCmd.label "გამოწერა…">
 <!ENTITY subscribeCmd.accesskey "b">
 <!ENTITY renameFolder.label "დასტის გადარქმევა…">
 <!ENTITY renameFolder.accesskey "R">
@@ -85,7 +85,7 @@
 <!ENTITY undeleteMsgsCmd.accesskey "d">
 <!ENTITY deleteFolderCmd.label "დასტის წაშლა">
 <!ENTITY deleteFolderCmd.accesskey "D">
-<!ENTITY unsubscribeNewsgroupCmd.label "ხელმოწერის გაუქმება">
+<!ENTITY unsubscribeNewsgroupCmd.label "გამოწერის გაუქმება">
 <!ENTITY unsubscribeNewsgroupCmd.accesskey "n">
 <!ENTITY selectMenu.label "შერჩევა">
 <!ENTITY selectMenu.accesskey "S">
@@ -509,7 +509,7 @@
 <!ENTITY folderContextEmptyJunk.accesskey "J">
 <!ENTITY folderContextSendUnsentMessages.label "გასაგზავნი წერილების გაგზავნა">
 <!ENTITY folderContextSendUnsentMessages.accesskey "d">
-<!ENTITY folderContextUnsubscribe.label "ხელმოწერის გაუქმება">
+<!ENTITY folderContextUnsubscribe.label "გამოწერის გაუქმება">
 <!ENTITY folderContextUnsubscribe.accesskey "U">
 <!ENTITY folderContextMarkNewsgroupRead.label "ჯგუფის მონიშვნა წაკითხულად">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "k">
@@ -517,7 +517,7 @@
 <!ENTITY folderContextMarkMailFolderRead.accesskey "k">
 <!ENTITY folderContextNew.label "ახალი ქვედასტა…">
 <!ENTITY folderContextNew.accesskey "N">
-<!ENTITY folderContextSubscribe.label "ხელმოწერა…">
+<!ENTITY folderContextSubscribe.label "გამოწერა…">
 <!ENTITY folderContextSubscribe.accesskey "b">
 <!ENTITY folderContextSearchMessages.label "წერილების ძიება…">
 <!ENTITY folderContextSearchMessages.accesskey "S">

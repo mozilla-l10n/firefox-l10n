@@ -6,7 +6,7 @@
 <!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
 <!ENTITY serverDirectory.label "IMAP სერვერის დასტა:">
 <!ENTITY serverDirectory.accesskey "d">
-<!ENTITY usingSubscription.label "მხოლოდ ხელმოწერების დასტების ჩვენება">
+<!ENTITY usingSubscription.label "მხოლოდ გამოწერილი საქაღალდეების ჩვენება">
 <!ENTITY usingSubscription.accesskey "w">
 <!ENTITY dualUseFolders.label "სერვერი მუშაობს იმ დასტებთანაც, რომლებიც ქვედასტებსა და წერილებს შეიცავენ">
 <!ENTITY dualUseFolders.accesskey "f">
