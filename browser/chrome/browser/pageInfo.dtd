@@ -46,22 +46,10 @@
 
 <!ENTITY  feedTab               "خوردها">
 <!ENTITY  feedTab.accesskey     "خ">
-<!ENTITY  feedSubscribe         "آبونه شدن">
-<!ENTITY  feedSubscribe.accesskey "آ">
 
 <!ENTITY  permTab               "مجوزها">
 <!ENTITY  permTab.accesskey     "م">
-<!ENTITY  permUseDefault        "استفاده از مقدار پیش‌فرض">
-<!ENTITY  permAskAlways         "هر بار پرسیده شود">
-<!ENTITY  permAllow             "اجازه دادن">
-<!ENTITY  permAllowSession      "اجازه دادن برای نشست">
-<!ENTITY  permHide              "پنهان کردن">
-<!ENTITY  permBlock             "باز داشتن">
 <!ENTITY  permissionsFor        "مجوزها برای:">
-<!ENTITY  permPlugins           "فعال کردن افزونه‌ها">
-
-<!ENTITY  permClearStorage           "پاک‌سازی حافظه">
-<!ENTITY  permClearStorage.accesskey "پ">
 
 <!ENTITY  securityTab           "امنیت">
 <!ENTITY  securityTab.accesskey "ا">
@@ -81,6 +69,9 @@
 <!ENTITY  securityView.privacy.cookies                  "آیا این پایگاه وب اطلاعاتی (کوکی) بر روی رایانهٔ من ذخیره کرده است؟">
 <!ENTITY  securityView.privacy.viewCookies              "مشاهدهٔ کوکی‌ها">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "ک">
+<!ENTITY  securityView.privacy.siteData                 "آیا این وب‌سایت اطلاعات خود را بر روی رایانهٔ من ذخیره می‌کند؟">
+<!ENTITY  securityView.privacy.clearSiteData            "پاک کردن کوکی‌ها و اطلاعات پایگاه‌ها">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "C">
 <!ENTITY  securityView.privacy.passwords                "آیا برای این پایگاه وب گذرواژه‌ای ذخیره کرده‌ام؟">
 <!ENTITY  securityView.privacy.viewPasswords            "مشاهدهٔ گذرواژه‌های ذخیره شده">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "گ">
