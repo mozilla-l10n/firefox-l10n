@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutNetworking.title                 "Oer netwurken">
-<!ENTITY aboutNetworking.warning               "Dit is hiel eksperimenteel. Brûk dit net sûnder âlderlik tafersjoch.">
+<!ENTITY aboutNetworking.warning               "Dit is hiel eksperiminteel. Brûk dit net sûnder âlderlik tafersjoch.">
 <!ENTITY aboutNetworking.showNextTime          "Dizze warskôging de folgjende kear toane">
 <!ENTITY aboutNetworking.ok                    "OK">
 <!ENTITY aboutNetworking.HTTP                  "HTTP">
