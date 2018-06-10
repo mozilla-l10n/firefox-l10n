@@ -83,6 +83,13 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Қай сайт кеңейтулерді орната алатынынды осында көрсете аласыз. Сайттың тура адресін енгізіп, «Рұқсат ету» батырмасын басыңыз.
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = Рұқсат етілген веб-сайттар - Автоойнату
+    .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc = Қай веб-сайттара медиа элементтерін автоойнатуға рұқсат етілгенін көрсете аласыз. Рұқсат ету үшін сайттың толық адресін жазып, Рұқсат ету батырмасын басыңыз.
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
