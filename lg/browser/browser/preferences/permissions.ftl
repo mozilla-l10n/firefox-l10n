@@ -13,15 +13,30 @@ permissions-session =
 permissions-allow =
     .label = Kkiriza
     .accesskey = K
+permissions-site-name =
+    .label = Olutimbe
 permissions-status =
     .label = Embera
+permissions-remove =
+    .label = Jjamu Olutimbe
+    .accesskey = J
+permissions-remove-all =
+    .label = Jjamu Entimbe zzona
+    .accesskey = R
 permissions-button-cancel =
     .label = Sazaamu
     .accesskey = S
+permissions-button-ok =
+    .label = Teleka By'okyusiza
+    .accesskey = T
+permissions-searchbox =
+    .placeholder = Nnonya ku Lutimbe
 permissions-capabilities-allow =
     .label = Kkiriza
 permissions-capabilities-block =
     .label = Zibikkira
+permissions-capabilities-prompt =
+    .label = Buuza bulikasera
 
 ## Invalid Hostname Dialog
 
@@ -44,6 +59,9 @@ permissions-exceptions-popup-desc = Oyinza okulondamu ebibanja ebikirizibbwa oku
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = Oyinza okulondamu ebibanja ebikkirizibwa okutekamu ebituusa. Wandika endagiriro entuffu eyomuko gwoyagala okukiriza bwo mala okoone ku Kkiriza.
+
+## Exceptions - Autoplay Media
+
 
 ## Site Permissions - Notifications
 
