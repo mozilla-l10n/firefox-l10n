@@ -83,6 +83,13 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Anda dapat menentukan situs web mana saja yang diizinkan untuk memasang Pengaya. Ketik alamat situs yang akan diizinkan, lalu klik Izinkan.
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = Situs yang Diizinkan - Putar Otomatis
+    .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc = Anda dapat merincikan situs web apa yang izinkan untuk memainkan elemen media secara otomatis. Ketika alamat tepat situs yang Anda izinkan dan kemudian klik Izinkan.
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
