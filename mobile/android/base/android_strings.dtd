@@ -70,6 +70,15 @@
 
 <!ENTITY url_bar_default_text2 "অনুসন্ধান বা ঠিকানা দিন">
 
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "সার্চ অথবা ঠিকানা দিতে আপনার QR Reader ব্যবহার করুন">
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "সার্চ অথবা ঠিকানা দিতে আপনার মাইক্রোফোন ব্যবহার করুন">
+
 <!ENTITY bookmark "বুকমার্ক">
 <!ENTITY bookmark_remove "বুকমার্ক মুছে ফেলুন">
 <!ENTITY bookmark_added "বুকমার্ক যোগ হয়েছে">
@@ -207,6 +216,7 @@
 <!ENTITY pref_category_advanced_summary3 "ট্যাব, ডাটা রক্ষক, ডেভেলপার টুলগুলো পুনরুদ্ধার করুন">
 <!ENTITY pref_category_notifications "ঘোষণা">
 <!ENTITY pref_category_notifications_summary "নতুন ফিচার, ওয়েবসাইট হালনাগাদ">
+<!ENTITY pref_category_notifications_summary2 "নতুন ফিচার, পণ্যের টিপস">
 <!ENTITY pref_developer_remotedebugging_usb "USB এর মাধ্যমে রিমোট ডিবাগিং">
 <!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi এর মাধ্যমে রিমোট ডিবাগিং">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi ডিবাগিং এর জন্য আপনার ডিভাইসে একটি QR code reader অ্যাপ ইন্সটল করা থাকতে হবে।">
@@ -543,7 +553,7 @@
 <!ENTITY pref_compact_tabs_summary2 "পোট্রেট মোডে ট্যাব দুই কলামে সাজাও">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
-     any page is removed frome about:home. This includes pages that are in history,
+     any page is removed from about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "পাতা অপসারিত হয়েছে">
 <!ENTITY folder_removed "ফোল্ডার অপসারিত">
@@ -758,7 +768,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "সর্বশেষ সিঙ্ক হয়েছে: &formatS;">
-<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!-- Localization note: Used when the sync has not happened yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "শেষ বার সিঙ্ক হয়েছে:কখনও না">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
