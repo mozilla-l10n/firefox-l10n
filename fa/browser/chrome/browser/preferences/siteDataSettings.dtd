@@ -2,10 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY     window.title                  "تنظیمات - اطلاعات پایگاه اینترنتی">
+<!ENTITY     window2.title                 "مدیریت کوکی‌ها و اطلاعات پایگاه">
 <!ENTITY     hostCol.label                 "پایگاه اینترنتی">
-<!ENTITY     statusCol.label               "وضعیت">
+<!ENTITY     cookiesCol.label              "کوکی‌ها">
 <!ENTITY     usageCol.label                "فضای ذخیره سازی">
+<!ENTITY     lastAccessedCol.label                "آخرین استفاده">
 <!ENTITY     searchTextboxPlaceHolder             "جستجوی وب‌سایت‌ها">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
 <!ENTITY     removeSelected.label          "حذف موارد انتخاب شده">
@@ -14,6 +15,6 @@
 <!ENTITY     save.accesskey                "ذ">
 <!ENTITY     cancel.label                  "لغو‌">
 <!ENTITY     cancel.accesskey              "ل">
-<!ENTITY     removingDialog.title          "در حال حذف اطلاعات سایت">
-<!ENTITY     removingSelected.description  "حذف داده‌های سایت، کوکی‌ها و اطلاعات آفلاین محتوای آن را نیز حذف خواهد کرد. این ممکن است شما را از وب‌سایت‌ها خارج کند. آیا مطمئنید که می‌خواهید این تغییرات را انجام دهید؟">
-<!ENTITY     siteTree2.label               "کوکی های پایگاه اینترنتی مقابل حذف خواهد شد">
+<!ENTITY     removingDialog1.title         "در حال حذف کوکی‌ها و اطلاعات پایگاه">
+<!ENTITY     removingSelected1.description "حذف کوکی‌ها و اطلاعات پایگاه‌ها ممکن است شما را از وب‌سایت‌ها خارج کند. آیا مطمئنید که می‌خواهید این کار را انجام دهید؟">
+<!ENTITY     siteTree3.label               "کوکی‌ها و اطلاعات پایگاه‌ها برای وب‌سایت‌های مقابل حذف خواهند شد">
