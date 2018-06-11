@@ -69,6 +69,7 @@
 <!ENTITY  securityView.privacy.cookies                  "ਕੀ ਇਸ ਵੈੱਬ ਸਾਇਟ ਨੇ ਮੇਰੇ ਕੰਪਿਊਟਰ ਉੱਤੇ ਜਾਣਕਾਰੀ (ਕੂਕੀਜ਼) ਸਟੋਰ ਕੀਤੀ ਹੈ?">
 <!ENTITY  securityView.privacy.viewCookies              "ਕੂਕੀਜ਼ ਵੇਖੋ">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.siteData                 "ਕੀ ਇਹ ਵੈੱਬਸਾਈਟ ਮੇਰੇ ਕੰਪਿਊਟਰ 'ਤੇ ਜਾਣਕਾਰੀ ਸੰਭਾਲਦੀ ਹੈ?">
 <!ENTITY  securityView.privacy.clearSiteData            "ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟੇ ਨੂੰ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY  securityView.privacy.clearSiteData.accessKey  "C">
 <!ENTITY  securityView.privacy.passwords                "ਕੀ ਇਸ ਵੈੱਬ ਸਾਇਟ ਲਈ ਮੈਂ ਕੋਈ ਪਾਸਵਰਡ ਸੰਭਾਲੇ ਹਨ?">
