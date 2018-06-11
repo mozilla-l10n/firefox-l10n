@@ -35,6 +35,8 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "Zapri ostale zavihke">
 <!ENTITY  closeOtherTabs.accesskey           "t">
 
+<!ENTITY  closeSelectedTabs.label            "Zapri izbrane zavihke">
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -129,7 +131,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Prikaži vse zavihke">
 <!ENTITY showAllTabsCmd.accesskey "A">
 <!ENTITY toggleReaderMode.key "R">
-
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "Prijava v &syncBrand.shortName.label;">
@@ -189,10 +190,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Drugi zaznamki">
 <!ENTITY mobileBookmarksCmd.label "Mobilni zaznamki">
 <!ENTITY bookmarksToolbarChevron.tooltip "Prikaži več zaznamkov">
-<!ENTITY showRecentlyBookmarked.label     "Prikaži nedavne zaznamke">
-<!ENTITY showRecentlyBookmarked.accesskey "P">
-<!ENTITY hideRecentlyBookmarked.label     "Skrij nedavne zaznamke">
-<!ENTITY hideRecentlyBookmarked.accesskey "S">
 
 <!ENTITY backCmd.label                "Nazaj">
 <!ENTITY backCmd.accesskey            "z">
@@ -234,7 +231,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Prevedi stran">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Upravljajte prevod strani">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Upravljajte uporabo programske opreme DRM">
-
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Odpri ploščo MIDI">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Za to stran ste zavrnili uporabo kamere.">
@@ -245,7 +241,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Za to spletno stran ste zavrnili trajno shrambo.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Za to stran ste zavrnili pojavna okna.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Za to stran ste zavrnili izločanje podatkov platna.">
-
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Tej strani ste zavrnili uporabo vtičnika Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Za to stran ste zavrnili uporabo MIDI.">
 
@@ -255,6 +250,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Domov">
+
 
 <!ENTITY bookmarksButton.label          "Zaznamki">
 <!ENTITY bookmarksCmd.commandkey "b">
@@ -395,7 +391,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Želite tukaj videti zavihke drugih naprav?">
-<!ENTITY appMenuRemoteTabs.openprefs.label "Možnosti sinhronizacije">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Odpri nastavitve sinhronizacije">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Prijavite se za ogled seznama zavihkov drugih naprav.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Svoj račun morate potrditi.">
@@ -437,6 +432,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "Dodaj več predmetov …">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
+
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
@@ -444,7 +440,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Iskanje ali naslov strani">
-<!ENTITY urlbar.placeholder3          "Vnesite iskalni niz ali naslov">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Razširitev:">
@@ -798,6 +793,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "Več informacij">
 
+
 <!ENTITY identity.permissions "Dovoljenja">
 <!ENTITY identity.permissionsEmpty "Tej strani niste dodelili posebnih dovoljenj.">
 <!ENTITY identity.permissionsReloadHint "Za uveljavitev sprememb boste morda morali ponovno naložiti stran.">
@@ -988,14 +984,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Ponovno zaženi za posodobitev &brandShorterName;a">
 
-<!ENTITY newTabControlled.message "Razširitev je spremenila stran novega zavihka. Če te spremembe ne želite, obnovite nastavitve.">
-
 <!ENTITY newTabControlled.header.message "Stran novega zavihka se je spremenila.">
 <!ENTITY newTabControlled.keepButton.label "Ohrani spremembe">
 <!ENTITY newTabControlled.keepButton.accesskey "h">
-<!ENTITY newTabControlled.restoreButton.label "Obnovi nastavitve">
-<!ENTITY newTabControlled.restoreButton.accesskey "b">
-
 <!ENTITY newTabControlled.disableButton.label "Onemogoči razširitev">
 <!ENTITY newTabControlled.disableButton.accesskey "n">
 
@@ -1005,6 +996,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.keepButton.accesskey "h">
 <!ENTITY homepageControlled.disableButton.label "Onemogoči razširitev">
 <!ENTITY homepageControlled.disableButton.accesskey "n">
+
+<!ENTITY tabHideControlled.disableButton.label "Onemogoči razširitev">
 
 <!ENTITY pageActionButton.tooltip "Dejanja strani">
 <!ENTITY pageAction.addToUrlbar.label "Dodaj v naslovno vrstico">
