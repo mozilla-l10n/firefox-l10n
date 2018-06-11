@@ -26,7 +26,7 @@
 <!ENTITY fileRevert.accesskey "K">
 
 <!-- Edit menu items -->
-<!ENTITY publishSettings.label "Pengaturan Situs Penayangan…">
+<!ENTITY publishSettings.label "Pengaturan Penayangan Situs…">
 <!ENTITY publishSettings.accesskey "b">
 
 <!-- Toolbar buttons/items -->
