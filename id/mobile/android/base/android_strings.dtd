@@ -217,9 +217,9 @@
 <!ENTITY pref_category_notifications "Notifikasi">
 <!ENTITY pref_category_notifications_summary "Fitur baru, pembaruan situs web">
 <!ENTITY pref_category_notifications_summary2 "Fitur baru, kiat produk">
-<!ENTITY pref_developer_remotedebugging_usb "Pendebugan daring via USB">
-<!ENTITY pref_developer_remotedebugging_wifi "Pendebugan daring via Wi-Fi">
-<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Pendebugan Wi-Fi mewajibkan pada peranti Anda telah terpasang aplikasi pembaca kode QR.">
+<!ENTITY pref_developer_remotedebugging_usb "Pendebugan jarak jauh via USB">
+<!ENTITY pref_developer_remotedebugging_wifi "Pendebugan jarak jauh via Wi-Fi">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Pendebugan Wi-Fi mewajibkan pada perangkat Anda telah terpasang aplikasi pembaca kode QR.">
 <!ENTITY pref_remember_signons2 "Ingat info masuk">
 <!ENTITY pref_manage_logins "Kelola info masuk">
 
@@ -279,7 +279,7 @@
 <!ENTITY pref_tap_to_load_images_disabled2 "Terblokir">
 
 <!ENTITY pref_show_web_fonts "Tampilkan font web">
-<!ENTITY pref_show_web_fonts_summary2 "Unduh font daring ketika memuat halaman">
+<!ENTITY pref_show_web_fonts_summary2 "Unduh font jarak jauh ketika memuat halaman">
 
 <!ENTITY pref_tracking_protection_title2 "Perlindungan Pelacakan">
 <!ENTITY pref_donottrack_title "Jangan lacak">
@@ -635,16 +635,16 @@
 <!ENTITY home_remote_tabs_hidden_devices_title "Perangkat tersembunyi">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
-<!ENTITY home_remote_tabs_unhide_selected_devices "Tampilkan perangkat dipilih">
+<!ENTITY home_remote_tabs_unhide_selected_devices "Tampilkan perangkat terpilih">
 
 <!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
     a site is pinned or unpinned. -->
 <!ENTITY home_pinned_site "Situs tersemat">
 <!ENTITY home_unpinned_site "Situs tidak disemat">
 
-<!ENTITY remote_tabs_panel_moved_title "Di mana tab saya?">
-<!ENTITY remote_tabs_panel_moved_desc "Kami telah memindahkan tab dari perangkat lain ke panel di beranda agar mudah diakses saat Anda membuka tab baru.">
-<!ENTITY remote_tabs_panel_moved_link "Buka panel baru.">
+<!ENTITY remote_tabs_panel_moved_title "Ke mana tab saya?">
+<!ENTITY remote_tabs_panel_moved_desc "Kami telah memindahkan tab Anda dari perangkat lain ke panel di beranda yang mudah diakses setiap kali Anda membuka tab baru.">
+<!ENTITY remote_tabs_panel_moved_link "Bawa saya menuju panel baru.">
 
 <!ENTITY pin_site_dialog_hint "Masukkan yang dicari">
 
