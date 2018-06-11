@@ -83,6 +83,13 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Можете да одредите којим веб сајтовима је дозвољено да инсталирају додатке. Укуцајте тачну адресу сајта којем желите да дозволите и притисните на Дозволи.
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = Дозвољени веб сајтови - Аутоматска репродукција
+    .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc = Можете да одредите којим веб сајтовима је дозвољено да аутоматски пуштају медије. Укуцајте тачну адресу сајта којем желите да дозволите и притисните на Дозволи.
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
