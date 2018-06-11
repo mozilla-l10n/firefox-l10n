@@ -70,6 +70,15 @@
 
 <!ENTITY url_bar_default_text2 "Шукаць ці ўвесці адрас">
 
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "Скарыстайцеся сканерам QR-кодаў для пошуку або ўводу адраса">
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "Скарыстайцеся мікрафонам для пошуку або ўводу адраса">
+
 <!ENTITY bookmark "Закладка">
 <!ENTITY bookmark_remove "Выдаліць закладку">
 <!ENTITY bookmark_added "Дададзена закладка">
