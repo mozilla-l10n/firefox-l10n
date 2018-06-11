@@ -83,6 +83,12 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Може да посочите страници, на които е позволено да инсталират добавки. Въведете точния адрес на страница и натиснете „Разрешаване“.
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = Разрешени страници - автоматично възпроизвеждане
+    .style = { permissions-window.style }
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
