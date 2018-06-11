@@ -83,6 +83,13 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Megadhatja azokat a webhelyeket, amelyekről engedélyezett a kiegészítők telepítése. Írja be a kezelni kívánt webhely pontos nevét, majd kattintson az Engedélyezés gombra.
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = Engedélyezett webhelyek – Automatikus lejátszás
+    .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc = Megadhatja, hogy mely weboldalak játszhatnak le automatikusan médiaelemeket. Írja be az engedélyezendő webhely pontos címét, és kattintson az Engedélyezés gombra.
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
