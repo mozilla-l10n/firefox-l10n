@@ -110,7 +110,7 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Laporkan kesalahan seperti ini untuk membantu Mozilla mengidentifikasi dan memblokir situs yang mencurigakan.">
 <!ENTITY errorReporting.learnMore "Pelajari lebih lanjut…">
 
-<!ENTITY remoteXUL.title "XUL Daring">
+<!ENTITY remoteXUL.title "XUL Jarak Jauh">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Hubungi pemilik situs web untuk memberitahukan masalah ini.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "Gagal Tersambung dengan Aman">

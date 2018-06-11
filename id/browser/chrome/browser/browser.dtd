@@ -379,7 +379,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.label "Tab yang Disinkronkan">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
-<!ENTITY appMenuRemoteTabs.notabs.label "Tidak ada tab terbuka">
+<!ENTITY appMenuRemoteTabs.notabs.label "Tak ada tab terbuka">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.label "Tampilkan Lebih Banyak">
@@ -390,18 +390,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.showAll.tooltip "Tampilkan semua tab dari perangkat ini">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Aktifkan sinkronisasi tab untuk melihat daftar tab dari perangkat lainnya.">
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Nyalakan sinkronisasi tab untuk melihat daftar tab dari perangkat Anda lainnya.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Ingin melihat tab dari perangkat Anda yang lain di sini?">
-<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Buka Pengaturan Sync">
-<!ENTITY appMenuRemoteTabs.notsignedin.label "Masuk untuk melihat daftar tab dari perangkat lainnya.">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Buka Pengaturan Sinkronisasi">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Masuk untuk melihat daftar tab dari perangkat Anda lainnya.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Akun Anda perlu diverifikasi.">
-<!ENTITY appMenuRemoteTabs.signin.label "Masuk ke Sync">
+<!ENTITY appMenuRemoteTabs.signin.label "Masuk ke Sinkronisasi">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Kelola Perangkat…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Tampilkan Bilah Samping Tab yang Disinkronkan ">
-<!ENTITY appMenuRemoteTabs.connectdevice.label "Sambungkan Peranti Lain">
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Sambungkan Perangkat Lainnya">
 
 <!ENTITY appMenuRecentHighlights.label "Sorotan Terkini">
 
