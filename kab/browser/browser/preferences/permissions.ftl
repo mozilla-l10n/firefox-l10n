@@ -83,6 +83,13 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Tzemreḍ ad d-tmuddeḍ ismal web ara teǧǧeḍ ad sbedden izegrar. Sekcem tansa n usmel tebɣiḍ ad teǧǧeḍ u sit ɣef Sireg.
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = Ismal yettwasirgen - Taɣuri tawurmant
+    .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc = Tzemreḍ ad temmleḍ anwa ismal yettwasirgen s wudem awurman akken ad uraren iferdisem imeslawen. Aru tansa tusdidt n usmel i tebɣiḍ ad teǧǧeḍ saki sit ɣef Sireg.
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =

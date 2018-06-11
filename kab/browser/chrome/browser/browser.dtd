@@ -57,6 +57,8 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "Ittraǧu (war tuqqna)">
 <!ENTITY  moveToNewWindow.label              "Senkez ɣer usfaylu amaynut">
 <!ENTITY  moveToNewWindow.accesskey          "m">
+<!ENTITY  reopenInContainer.label            "Ldi-d tikelt-nneḍen amagbar">
+<!ENTITY  reopenInContainer.accesskey        "d">
 <!ENTITY  bookmarkAllTabs.label              "Creḍ akk Accaren...">
 <!ENTITY  bookmarkAllTabs.accesskey          "c">
 <!ENTITY  undoCloseTab.label                 "Sefsex amdal n yiccer.">
