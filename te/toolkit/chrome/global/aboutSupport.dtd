@@ -164,5 +164,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.intlAppTitle "అనువర్తన అమరికలు">
 <!ENTITY aboutSupport.intlLocalesRequested "అభ్యర్థించిన భాషలు">
 <!ENTITY aboutSupport.intlLocalesAvailable "అందుబాటులోని భాషలు">
+<!ENTITY aboutSupport.intlLocalesDefault "అప్రమేయ లొకేల్">
 <!ENTITY aboutSupport.intlOSTitle "నిర్వాహక వ్యవస్థ">
 <!ENTITY aboutSupport.intlRegionalPrefs "ప్రాంతీయ అభిరుచులు">
