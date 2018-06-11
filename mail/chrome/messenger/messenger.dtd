@@ -164,8 +164,66 @@
 <!ENTITY allFolders.accesskey "A">
 <!ENTITY unreadFolders.label "Sin leer">
 <!ENTITY unreadFolders.accesskey "U">
+<!ENTITY favoriteFolders.label "Favorito">
+<!ENTITY favoriteFolders.accesskey "F">
+<!ENTITY recentFolders.label "Reciente">
+<!ENTITY recentFolders.accesskey "R">
+<!ENTITY compactVersion.label "Vista compacta">
+<!ENTITY compactVersion.accesskey "C">
+<!ENTITY folderPaneBar.label "Barra de herramientas del panel de la carpeta">
+<!ENTITY folderPaneBar.accesskey "F">
+<!ENTITY folderModeSelector.label "Vistas de carpeta">
 
 <!-- Sort Menu -->
+<!ENTITY sortMenu.label "Ordenar por">
+<!ENTITY sortMenu.accesskey "S">
+<!ENTITY sortByDateCmd.label "Fecha">
+<!ENTITY sortByDateCmd.accesskey "e">
+<!ENTITY sortByReceivedCmd.label "Recibido">
+<!ENTITY sortByReceivedCmd.accesskey "v">
+<!ENTITY sortByStarCmd.label "Destacar">
+<!ENTITY sortByStarCmd.accesskey "S">
+<!ENTITY sortByAttachmentsCmd.label "Adjuntos">
+<!ENTITY sortByAttachmentsCmd.accesskey "m">
+<!ENTITY sortByPriorityCmd.label "Prioridad">
+<!ENTITY sortByPriorityCmd.accesskey "P">
+<!ENTITY sortBySizeCmd.label "Tamaño">
+<!ENTITY sortBySizeCmd.accesskey "z">
+<!ENTITY sortByStatusCmd.label "Estado">
+<!ENTITY sortByStatusCmd.accesskey "u">
+<!ENTITY sortByTagsCmd.label "Etiquetas">
+<!ENTITY sortByTagsCmd.accesskey "g">
+<!ENTITY sortByJunkStatusCmd.label "Estado no deseado">
+<!ENTITY sortByJunkStatusCmd.accesskey "J">
+<!ENTITY sortBySubjectCmd.label "Asunto">
+<!ENTITY sortBySubjectCmd.accesskey "b">
+<!ENTITY sortByFromCmd.label "De">
+<!ENTITY sortByFromCmd.accesskey "F">
+<!ENTITY sortByRecipientCmd.label "Destinatario">
+<!ENTITY sortByRecipientCmd.accesskey "c">
+<!ENTITY sortByCorrespondentCmd.label "Corresponsales de">
+<!ENTITY sortByCorrespondentCmd.accesskey "n">
+<!ENTITY sortByUnreadCmd.label "Leer">
+<!ENTITY sortByUnreadCmd.accesskey "R">
+<!ENTITY sortByOrderReceivedCmd.label "Orden recibida">
+<!ENTITY sortByOrderReceivedCmd.accesskey "O">
+<!ENTITY sortAscending.label "Ascendente">
+<!ENTITY sortAscending.accesskey "A">
+<!ENTITY sortDescending.label "Descendente">
+<!ENTITY sortDescending.accesskey "D">
+<!ENTITY sortThreaded.label "Anidado">
+<!ENTITY sortThreaded.accesskey "T">
+<!ENTITY sortUnthreaded.label "Sin anidar">
+<!ENTITY sortUnthreaded.accesskey "h">
+<!ENTITY groupBySort.label "Agrupados por tipo">
+<!ENTITY groupBySort.accesskey "G">
+<!ENTITY msgsMenu.label "Mensajes">
+<!ENTITY msgsMenu.accesskey "M">
+<!ENTITY threads.label "Hilos">
+<!ENTITY threads.accesskey "e">
+<!ENTITY allMsgsCmd.label "Todos">
+<!ENTITY allMsgsCmd.accesskey "A">
+<!ENTITY expandAllThreadsCmd.label "Ampliar todos los hilos">
 
 
 
