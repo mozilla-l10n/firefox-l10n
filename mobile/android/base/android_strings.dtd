@@ -70,6 +70,15 @@
 
 <!ENTITY url_bar_default_text2 "ਖੋਜੋ ਜਾਂ ਐਡਰੈਸ ਨੂੰ ਲਿਖੋ">
 
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "ਖੋਜਣ ਜਾਂ ਸਿਰਨਾਵਾਂ ਦੇਣ ਲਈ ਆਪਣਾ QR ਰੀਡਰ ਵਰਤੋਂ">
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "ਖੋਜਣ ਜਾਂ ਸਿਰਨਾਵਾਂ ਦੇਣ ਲਈ ਆਪਣੇ ਮਾਈਕਰੋਫ਼ੋਨ ਨੂੰ ਵਰਤੋਂ">
+
 <!ENTITY bookmark "ਬੁੱਕਮਾਰਕ">
 <!ENTITY bookmark_remove "ਬੁੱਕਮਾਰਕ ਨੂੰ ਹਟਾਓ">
 <!ENTITY bookmark_added "ਬੁੱਕਮਾਰਕ ਨੂੰ ਜੋੜਿਆ ਗਿਆ">
@@ -207,11 +216,12 @@
 <!ENTITY pref_category_advanced_summary3 "ਟੈਬਾਂ, ਡਾਟਾ ਬੱਚਤਕਰਤਾ, ਡਿਵੈਲਪਰ ਟੂਲ ਨੂੰ ਬਹਾਲ ਕਰੋ">
 <!ENTITY pref_category_notifications "ਸੂਚਨਾਵਾਂ">
 <!ENTITY pref_category_notifications_summary "ਨਵੇਂ ਫੀਚਰ, ਵੈੱਬਸਾਈਟਾਂ ਦੇ ਅੱਪਡੇਟ">
+<!ENTITY pref_category_notifications_summary2 "ਨਵੇਂ ਫ਼ੀਚਰ, ਉਤਪਾਦ ਬਾਰੇ ਗੁਰ">
 <!ENTITY pref_developer_remotedebugging_usb "USB ਰਾਹੀਂ ਰਿਮੋਟ ਡੀਬੱਗ ਕਰੋ">
 <!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi ਰਾਹੀਂ ਰਿਮੋਟ ਡੀਬੱਗ ਕਰੋ">
-<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi  ਰਾਹੀਂ ਰਿਮੋਟ ਡੀਬੱਗ ਕਰਨ ਲਈ ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਉੱਤੇ QR ਕੋਡ ਰੀਡਰ ਐਪ ਇੰਸਟਾਲ ਚਾਹੀਦੀ ਹੈ।">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi ਰਾਹੀਂ ਰਿਮੋਟ ਡੀਬੱਗ ਕਰਨ ਲਈ ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਉੱਤੇ QR ਕੋਡ ਰੀਡਰ ਐਪ ਇੰਸਟਾਲ ਚਾਹੀਦੀ ਹੈ।">
 <!ENTITY pref_remember_signons2 "ਲਾਗਇਨਾਂ ਨੂੰ ਯਾਦ ਰੱਖੋ">
-<!ENTITY pref_manage_logins "ਲਾਗਇਨਾਂ ਦਾ ਪਰਬੰਧ ਕਰੋ">
+<!ENTITY pref_manage_logins "ਲਾਗਇਨਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ">
 
 <!ENTITY pref_category_home "ਮੁੱਖ ਸਫ਼ਾ">
 <!ENTITY pref_category_home_summary "ਆਪਣੇ ਮੁੱਖ-ਸਫ਼ੇ ਨੂੰ ਆਪਣੀ ਪਸੰਦ ਮੁਤਾਬਕ ਬਣਾਓ">
@@ -404,7 +414,7 @@
 <!ENTITY pref_dialog_activitystream_recentBookmarks "ਤਾਜ਼ਾ ਬੁੱਕਮਾਰਕ">
 <!ENTITY pref_dialog_activitystream_visited "ਖੋਲ੍ਹੇ ਗਏ">
 
-<!ENTITY pref_search_last_toast "ਤੁਸੀਂ ਆਪਣੀ ਆਖਰੀ ਖੋਜ ਇੰਜਣ ਨਹੂੰ ਹਟਾ ਨਹੀਂ ਸਕਦੇ ਹੋ।">
+<!ENTITY pref_search_last_toast "ਤੁਸੀਂ ਆਪਣੀ ਆਖਰੀ ਖੋਜ ਇੰਜਣ ਨੂੰ ਹਟਾ ਨਹੀਂ ਸਕਦੇ ਹੋ।">
 
 <!ENTITY pref_panels_show "ਦਿਖਾਓ">
 <!ENTITY pref_panels_hide "ਲੁਕਾਓ">
@@ -441,7 +451,7 @@
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload3 "ਆਪਣੇ-ਆਪ ਹੀ ਅੱਪਡੇਟ ਕਰੋ">
-<!ENTITY pref_update_autodownload_wifi "ਸਿਰਫ਼ Wi-Fi ਤੇ ਹੀ">
+<!ENTITY pref_update_autodownload_wifi "ਸਿਰਫ਼ Wi-Fi \&apos;ਤੇ ਹੀ">
 <!ENTITY pref_update_autodownload_never "ਕਦੇ ਨਹੀਂ">
 <!ENTITY pref_update_autodownload_always "ਹਮੇਸ਼ਾ">
 
@@ -513,7 +523,7 @@
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
      after the user pins/unpins the currently displayed page from top sites. -->
-<!ENTITY pinned_page_to_top_sites "ਸਿਖਰਲੇ ਸਾਈਟਾਂ \&apos;ਚ ਟੰਗਿਆਂ ਸਫ਼ਾ">
+<!ENTITY pinned_page_to_top_sites "ਸਿਖਰਲੇ ਸਾਈਟਾਂ \&apos;ਚ ਟੰਗਿਆ ਸਫ਼ਾ">
 <!ENTITY unpinned_page_from_top_sites "ਸਿਖਰਲੀਆਂ ਸਾਈਟਾਂ ਤੋਂ ਲਾਹਿਆ ਸਫ਼ਾ">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
@@ -543,7 +553,7 @@
 <!ENTITY pref_compact_tabs_summary2 "ਟੈਬਾਂ ਨੂੰ ਪੋਰਟਰੇਟ ਮੋਡ ਵਿੱਚ ਦੋ ਕਾਲਮਾਂ ਵਿੱਚ ਤਰਤੀਬ ਦਿਓ">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
-     any page is removed frome about:home. This includes pages that are in history,
+     any page is removed from about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "ਸਫ਼ਾ ਹਟਾਇਆ">
 <!ENTITY folder_removed "ਫੋਲਡਰ ਹਟਾਇਆ ਗਿਆ">
@@ -716,7 +726,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_retry2 "ਮੁੜ-ਕੋਸ਼ਿਸ਼ ਕਰਨ ਲਈ ਛੂਹੋ">
 
 <!ENTITY updater_apply_title3 "&brandShortName; ਲਈ ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕੀਤਾ">
-<!ENTITY updater_apply_select3 "ਇੰਸਟਾਲ ਕਰਨ ਲਈ ਟੱਚ ਕਰੋ">
+<!ENTITY updater_apply_select3 "ਇੰਸਟਾਲ ਕਰਨ ਲਈ ਛੂਹੋ">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
@@ -761,7 +771,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "ਆਖਰੀ ਵਾਰ ਦਾ ਸਿੰਕ: &formatS;">
-<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!-- Localization note: Used when the sync has not happened yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "ਆਖਰੀ ਵਾਰ ਦਾ ਸਿੰਕ: ਕਦੇ ਨਹੀਂ">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
@@ -830,11 +840,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "&brandShortName; ਅੱਪਡੇਟ ਹੈ">
 <!ENTITY whatsnew_notification_summary "ਪਤਾ ਕਰੋ ਕਿ ਇਸ ਨਵੇਂ ਵਰਜ਼ਨ ਵਿੱਚ ਕੀ ਨਵਾਂ ਹੈ">
 
-<!ENTITY promotion_add_page_shortcut "ਸਫ਼ਾ ਸ਼ਾਰਟਕੱਤ ਜੋੜੋ">
+<!ENTITY promotion_add_page_shortcut "ਸਫ਼ੇ ਦਾ ਸ਼ਾਰਟਕੱਟ ਜੋੜੋ">
 
 <!ENTITY helper_first_offline_bookmark_title "ਆਫ਼ਲਾਈਨ ਪੜ੍ਹੋ">
 <!ENTITY helper_first_offline_bookmark_message "ਬੁੱਕਮਾਰਕ ਵਿੱਚ ਪੜ੍ਹਨ ਦੇਖਣ ਆਈਟਮਾਂ ਨੂੰ ਲੱਭੋ, ਭਾਵੇਂ ਆਫ਼ਲਾਈਨ ਹੋਵੋ।">
-<!ENTITY helper_first_offline_bookmark_button "ਬੁੱਕਮਾਰਕ ਉੱਤੇ ਜੋੜੋ">
+<!ENTITY helper_first_offline_bookmark_button "ਬੁੱਕਮਾਰਕ ਉੱਤੇ ਜਾਓ">
 
 <!ENTITY helper_triple_readerview_open_title "ਆਫ਼ਲਾਈਨ ਲਈ ਮੌਜੂਦ">
 <!ENTITY helper_triple_readerview_open_message "ਰੀਡਰ ਝਲਕ ਆਈਟਮਾਂ ਨੂੰ ਆਫ਼ਲਾਈਨ ਪੜ੍ਹਨ ਵਾਸਤੇ ਬੁੱਕਮਾਰਕ ਕਰੋ।">
@@ -870,7 +880,7 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY private_tab_panel_description2 "ਅਸੀਂ ਕਿਸੇ ਵੀ ਅਤੀਤ ਨੂੰ ਯਾਦ ਨਹੀਂ ਰੱਖਾਂਗੇ, ਪਰ ਡਾਊਨਲੋਡ ਕੀਤੀਆਂ ਫ਼ਾਈਲਾਂ ਅਤੇ ਨਵੇਂ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਹਾਲੇ ਵੀ ਤੁਹਾਡੇ ਡਿਵਾਈਸ \&apos;ਤੇ ਸੰਭਾਲਿਆ ਜਾਵੇਗਾ।">
 <!ENTITY private_tab_learn_more "ਹੋਰ ਸਿੱਖਣਾ ਚਾਹੁੰਦੇ ਹੋ?">
 
-<!ENTITY fullscreen_warning "ਪੂਰੀ ਸਕਰੀਨ \&apos;ਤੇ">
+<!ENTITY fullscreen_warning "ਪੂਰੀ ਸਕਰੀਨ ਉੱਤੇ">
 
 <!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
 <!ENTITY pwa_add_to_launcher_confirm "+ ਮੁੱਖ ਸਕਰੀਨ \&apos;ਤੇ ਜੋੜੋ">
