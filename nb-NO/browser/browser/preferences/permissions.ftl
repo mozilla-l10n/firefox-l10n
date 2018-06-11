@@ -83,6 +83,13 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Du kan oppgi hvilke nettsted som har tillatelse til å installere programtillegg. Skriv inn den eksakte adressen til nettstedet du vil tillate, og trykk «Tillat».
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = Tillatte nettsteder - automatisk avspilling
+    .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc = Du kan spesifisere hvilke nettsider som automatisk har lov til å spille av mediaelement. Skriver inn eksakt adresse for nettsiden du vil tillate og trykk så Tillat.
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
