@@ -57,6 +57,8 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "Sorba állítva (offline)">
 <!ENTITY  moveToNewWindow.label              "Áthelyezés új ablakba">
 <!ENTITY  moveToNewWindow.accesskey          "t">
+<!ENTITY  reopenInContainer.label            "Újranyitás konténerben">
+<!ENTITY  reopenInContainer.accesskey        "j">
 <!ENTITY  bookmarkAllTabs.label              "Minden lap egy könyvjelzőbe…">
 <!ENTITY  bookmarkAllTabs.accesskey          "M">
 <!ENTITY  undoCloseTab.label                 "Lapbezárás visszavonása">
@@ -904,6 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "A képernyő minden látható ablaka meg lesz osztva.">
 
 <!ENTITY trackingProtection.title "Védelem követés ellen">
+<!ENTITY trackingProtection.tooltip "Követés elleni védelem beállításainak megnyitása">
 <!ENTITY trackingProtection.detectedBlocked3 "A &brandShortName; az oldal olyan részeit blokkolja, amelyek követhetik a böngészését.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Ez az oldal olyan elemeket tartalmaz, amelyek követhetik az Ön böngészését. A védelmet kikapcsolta.">
 <!ENTITY trackingProtection.notDetected3 "Az oldalon nem találhatók követő elemek.">
