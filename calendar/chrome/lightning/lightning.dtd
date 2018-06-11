@@ -84,6 +84,7 @@
 <!ENTITY lightning.imipbar.description                                      "Denne meldinga inneheld ein invitasjon til ei hending.">
 
 <!ENTITY lightning.imipbar.btnSend.label                                    "Send eit svar no">
+<!ENTITY lightning.imipbar.btnSend.tooltiptext                              "Send eit svar til arrangøren">
 <!ENTITY lightning.imipbar.btnDontSend.label                                "Send ikkje eit svar">
 
 <!-- Lightning specific keybindings -->
