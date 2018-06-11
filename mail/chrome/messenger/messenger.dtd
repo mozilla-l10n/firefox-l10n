@@ -7,22 +7,73 @@
 
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Carpeta…">
+<!ENTITY newFolderCmd.accesskey "F">
 <!ENTITY closeTabCmd2.label "Cerrar pestaña">
+<!ENTITY closeTabCmd2.accesskey "C">
 <!ENTITY closeOtherTabsCmd2.label "Cerrar las otras pestañas">
+<!ENTITY closeOtherTabsCmd2.accesskey "o">
 <!ENTITY recentlyClosedTabsCmd.label "Pestañas recientemente cerradas">
+<!ENTITY recentlyClosedTabsCmd.accesskey "R">
 
+<!ENTITY undoCloseTabCmd.commandkey "T">
 <!-- LOCALIZATION NOTE (moveToNewWindow.label):
      Menu option to cause the current tab to be migrated to a new Thunderbird
      window.
      -->
 <!ENTITY moveToNewWindow.label "Mover a ventana nueva">
+<!ENTITY moveToNewWindow.accesskey "W">
+<!ENTITY newVirtualFolderCmd.label "Búsqueda guardada...">
+<!ENTITY newVirtualFolderCmd.accesskey "S">
 <!ENTITY newOtherAccountsCmd.label "Otras cuentas…">
+<!ENTITY newOtherAccountsCmd.accesskey "O">
+<!ENTITY newCreateEmailAccountCmd.label "Obtener una nueva cuenta de correo...">
+<!ENTITY newCreateEmailAccountCmd.accesskey "G">
+<!ENTITY newExistingEmailAccountCmd.label "Cuenta de correo existente...">
+<!ENTITY newExistingEmailAccountCmd.accesskey "E">
+<!ENTITY newIMAccountCmd.label "Cuenta del chat…">
+<!ENTITY newIMAccountCmd.accesskey "C">
+<!ENTITY newFeedAccountCmd.label "Cuenta del canal…">
+<!ENTITY newFeedAccountCmd.accesskey "d">
+<!ENTITY newIMContactCmd.label "Contacto del chat…">
+<!ENTITY newIMContactCmd.accesskey "h">
+<!ENTITY  newMessageCmd2.key "N">
+<!ENTITY  newMessageCmd.key "M">
 <!ENTITY  newMessageCmd.label "Mensaje">
+<!ENTITY  newMessageCmd.accesskey "m">
+<!ENTITY  newContactCmd.label "Contacto de la libreta de direcciones…">
+<!ENTITY  newContactCmd.accesskey "C">
+<!ENTITY openMessageFileCmd.label "Abrir mensaje guardado...">
+<!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY saveAsMenu.label "Guardar como">
+<!ENTITY saveAsMenu.accesskey "S">
 <!ENTITY saveAsFileCmd.label "Archivo">
+<!ENTITY saveAsFileCmd.accesskey "F">
+<!ENTITY saveAsFileCmd.key "s">
+<!ENTITY saveAsTemplateCmd.label "Plantilla">
+<!ENTITY saveAsTemplateCmd.accesskey "T">
+<!ENTITY getNewMsgForCmd.label "Obtener mensajes nuevos para">
+<!ENTITY getNewMsgForCmd.accesskey "w">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Todas las cuentas">
+<!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Cuenta actual">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "C">
+<!ENTITY getNextNMsgCmd2.label "Obtener nuevos mensajes siguientes">
+<!ENTITY getNextNMsgCmd2.accesskey "t">
+<!ENTITY sendUnsentCmd.label "Enviar mensajes no enviados">
+<!ENTITY sendUnsentCmd.accesskey "d">
+<!ENTITY subscribeCmd.label "Suscribir…">
+<!ENTITY subscribeCmd.accesskey "b">
+<!ENTITY deleteFolder.label "Eliminar carpeta">
+<!ENTITY deleteFolder.accesskey "e">
+<!ENTITY renameFolder.label "Renombrar carpeta…">
+<!ENTITY renameFolder.accesskey "R">
+<!ENTITY renameFolder.key "VK_F2">
+<!ENTITY compactFolders.label "Carpetas compactas">
+<!ENTITY compactFolders.accesskey "F">
+<!ENTITY emptyTrashCmd.label "Vaciar papelera">
+<!ENTITY emptyTrashCmd.accesskey "y">
 <!ENTITY offlineMenu.label "Sin conexión">
+<!ENTITY offlineMenu.accesskey "I">
 <!ENTITY offlineGoOfflineCmd.label "Trabajar sin conexión">
 <!ENTITY printCmd.label "Imprimir…">
 
