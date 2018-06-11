@@ -906,6 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Akk isfuyla ibanen deg ugdil-ik ad ttwabḍun.">
 
 <!ENTITY trackingProtection.title "Ammesten mgal asfuɣel">
+<!ENTITY trackingProtection.tooltip "Ldi ismenyifen n ummesten mgal aḍfar">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; issewḥel kra n yiḥricen n usebter izemren ad sfuɣlen tunigin-ik.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Asmel-a igber iferdisen i izemren ad sfuɣlen tunigin-ik. Tekkseḍ ammesten.">
 <!ENTITY trackingProtection.notDetected3 "Ulac iferdisen iṭafaṛen i ittwafen ɣef usebter-a.">
