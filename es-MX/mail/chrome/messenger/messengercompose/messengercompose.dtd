@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
+<!ENTITY msgComposeWindow.title "Escribir: (sin sujeto)">
 
 <!-- File Menu -->
 <!ENTITY newMenu.label "Nuevo">
@@ -25,6 +26,8 @@
 <!-- Edit Menu -->
 <!ENTITY pasteCmd.label "Pegar">
 <!ENTITY deleteCmd.label "Eliminar">
+<!ENTITY editRewrapCmd.label "Ajuste de líneas">
+<!ENTITY toggleAttachmentPaneCmd.label "Panel del archivo adjunto">
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
      For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
      as attachments.accesskey. -->
@@ -46,6 +49,7 @@
      sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
 
 <!-- View Menu -->
+<!ENTITY showCompositionToolbarCmd.label "Barra de herramientas del compositor">
 <!ENTITY customizeToolbar.label "Personalizar…">
 
 
@@ -55,6 +59,7 @@
 
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 
+<!ENTITY dsnMenu.label "Notificación del estado de entrega">
 
 <!-- Tools Menu -->
 
@@ -63,6 +68,9 @@
 <!-- Mail Toolbar -->
 
 <!-- Mail Toolbar Tooltips -->
+<!ENTITY addressButton.tooltip "Seleccione a un destinatario de una libreta de direcciones">
+<!ENTITY attachButton.tooltip2 "Agregar un adjuntos">
+<!ENTITY spellingButton.tooltip "Revisar ortografía de selección o mensaje entero">
 <!ENTITY saveButton.tooltip "Guardar este mensaje">
 
 <!-- Headers -->
@@ -70,48 +78,100 @@
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY fromAddr.label "De:">
 <!ENTITY toAddr.label "Para:">
+<!ENTITY newsgroupsAddr.label "Grupo de noticias:">
+<!ENTITY followupAddr.label "Seguimiento a:">
+<!ENTITY subject.label "Asunto:">
+<!ENTITY subject.accesskey "S">
 <!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
      be taken from the strings in attachmentCount in composeMsgs.properties,
      and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
      work, as the shortcut key functionality supersedes the access key. -->
+<!ENTITY attachments.accesskey "m">
+<!ENTITY attachmentBucketHeader.tooltip "Panel del archivo adjunto">
+<!ENTITY attachmentBucketCloseButton.tooltip "Ocultar panel del archivo adjunto">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
+<!ENTITY SmileButton.tooltip "Insertar una cara sonriente">
 <!ENTITY smiley1Cmd.label "Sonrisa">
+<!ENTITY smiley2Cmd.label "Fruncir el ceño">
+<!ENTITY smiley3Cmd.label "Guiño">
+<!ENTITY smiley4Cmd.label "Lengua afuera">
+<!ENTITY smiley5Cmd.label "Riendo">
+<!ENTITY smiley6Cmd.label "Avergonzado">
+<!ENTITY smiley7Cmd.label "Indeciso">
+<!ENTITY smiley8Cmd.label "Sorpresa">
 <!ENTITY smiley9Cmd.label "Beso">
+<!ENTITY smiley10Cmd.label "Grito">
+<!ENTITY smiley11Cmd.label "Genial">
+<!ENTITY smiley12Cmd.label "Dinero en la boca">
+<!ENTITY smiley13Cmd.label "Pie en la boca">
 <!ENTITY smiley14Cmd.label "Inocente">
 <!ENTITY smiley15Cmd.label "Llorando">
+<!ENTITY smiley16Cmd.label "Labios sellados">
 
 <!-- Message Pane Context Menu -->
+<!ENTITY spellCheckNoSuggestions.label "No se encontraron sugerencias">
+<!ENTITY spellCheckIgnoreWord.label "Ignorar la palabra">
+<!ENTITY spellCheckIgnoreWord.accesskey "I">
+<!ENTITY spellCheckAddToDictionary.label "Agregar al diccionario">
+<!ENTITY spellCheckAddToDictionary.accesskey "n">
 <!ENTITY undo.label "Deshacer">
+<!ENTITY undo.accesskey "U">
 <!ENTITY cut.label "Cortar">
+<!ENTITY cut.accesskey "t">
 <!ENTITY copy.label "Copiar">
+<!ENTITY copy.accesskey "C">
 <!ENTITY paste.label "Pegar">
+<!ENTITY paste.accesskey "P">
 <!ENTITY pasteQuote.label "Pegar como cita">
+<!ENTITY pasteQuote.accesskey "Q">
 
 <!-- Attachment Item and List Context Menus -->
 <!ENTITY openAttachment.label "Abrir">
+<!ENTITY openAttachment.accesskey "O">
 <!ENTITY delete.label "Borrar">
+<!ENTITY delete.accesskey "D">
 <!ENTITY removeAttachment.label "Eliminar adjunto">
+<!ENTITY removeAttachment.accesskey "M">
 <!ENTITY renameAttachment.label "Renombrar…">
+<!ENTITY renameAttachment.accesskey "R">
 <!ENTITY reorderAttachments.label "Reorganizar adjuntos…">
+<!ENTITY reorderAttachments.accesskey "s">
+<!ENTITY removeAllAttachments.label "Eliminar todos los adjuntos">
+<!ENTITY removeAllAttachments.accesskey "v">
 <!ENTITY selectAll.label "Seleccionar todo">
+<!ENTITY selectAll.accesskey "A">
 <!ENTITY attachFile.label "Adjuntar archivo(s)…">
+<!ENTITY attachFile.accesskey "F">
+<!ENTITY attachCloud.label "FileLink...">
+<!ENTITY attachCloud.accesskey "i">
 <!ENTITY convertCloud.label "Convertir a…">
+<!ENTITY convertCloud.accesskey "C">
 <!ENTITY cancelUpload.label "Cancelar carga">
+<!ENTITY cancelUpload.accesskey "n">
 <!ENTITY convertRegularAttachment.label "Adjunto regular">
+<!ENTITY convertRegularAttachment.accesskey "A">
+<!ENTITY attachPage.label "Adjuntar página web…">
+<!ENTITY attachPage.accesskey "W">
 
 <!-- Attachment Pane Header Bar Context Menu -->
 <!-- LOCALIZATION NOTE (initiallyShowAttachmentPane.label):
      Should use the same wording as startExpandedCmd.label
      in msgHdrViewOverlay.dtd. -->
+<!ENTITY initiallyShowAttachmentPane.label "Mostrar inicialmente panel de archivo adjunto">
+<!ENTITY initiallyShowAttachmentPane.accesskey "S">
 
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Agregar diccionarios…">
+<!ENTITY spellAddDictionaries.accesskey "A">
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Contactos">
 
 <!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Personalizar desde dirección…">
+<!ENTITY customizeFromAddress.accesskey "A">
 
 <!-- Status Bar -->
+<!ENTITY languageStatusButton.tooltip "Corrector ortográfico del idioma">
+<!ENTITY encodingStatusPanel.tooltip "Codificación de texto">
