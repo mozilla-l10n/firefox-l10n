@@ -22,7 +22,7 @@
 <!ENTITY accountAdvanced.newMailNotification.label   "Notify on new Mail">
 <!ENTITY accountAliasGroupbox.caption "Local Alias">
 <!ENTITY accountAliasField.label      "Alias:">
-<!ENTITY accountAliasInfo.label       "This will only be displayed in your conversations when you talk, remote contacts won't see it.">
+<!ENTITY accountAliasInfo.label       "Hal ini hanya akan ditampilkan dalam percakapan ketika Anda bicara, kontak jarak jauh tidak akan melihatnya.">
 <!ENTITY accountProxySettings.caption "Proxy Settings">
 <!ENTITY accountProxySettings.change.label     "Change…">
 <!ENTITY accountProxySettings.change.accessKey "C">

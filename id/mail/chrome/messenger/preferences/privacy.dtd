@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Mail Content -->
+
+<!ENTITY acceptRemoteContent.label "Izinkan konten jarak jauh dalam pesan">
+<!ENTITY remoteContentExceptions.label "Pengecualian…">
+<!ENTITY acceptRemoteContentInfo.label "Pelajari lebih lanjut tentang isu privasi konten jarak jauh">
+
+<!-- Web Content -->
+
+

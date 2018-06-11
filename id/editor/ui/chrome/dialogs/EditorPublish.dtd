@@ -17,7 +17,7 @@
 <!ENTITY newSiteButton.accesskey      "B">
 <!ENTITY docDirList.label             "Subdirektori pada situs untuk laman ini:">
 <!ENTITY docDirList.accesskey         "S">
-<!ENTITY docDirList.tooltip           "Pilih atau masukkan nama subdirektori daring untuk laman ini">
+<!ENTITY docDirList.tooltip           "Pilih atau masukkan nama subdirektori jarak jauh untuk laman ini">
 <!ENTITY publishImgCheckbox.label     "Sertakan gambar dan berkas lainnya">
 <!ENTITY publishImgCheckbox.accesskey "g">
 <!ENTITY publishImgCheckbox.tooltip   "Tayangkan gambar dan berkas lainnya berdasarkan rujukan laman ini">

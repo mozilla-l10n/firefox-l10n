@@ -96,10 +96,11 @@ functionality specific to thunderbird. -->
 
 <!ENTITY securityOverride.warningContent "<p>Sebaiknya Anda tidak menambahkan pengecualian jika Anda sedang menggunakan jaringan internet yang tidak Anda percayai atau jika umumnya Anda tidak pernah melihat peringatan sejenis tentang server ini.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-<!ENTITY remoteXUL.title "XUL Daring">
+<!ENTITY remoteXUL.title "XUL Jarak Jauh">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Hubungi pemilik situs web untuk memberitahukan masalah ini.</li></ul></p>">
 
 <!ENTITY inadequateSecurityError.title "Sambungan Anda tidak aman">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> menggunakan teknologi yang telah usang dan rentan terhadap serangan. Penyerang dapat dengan mudah membongkar informasi yang Anda pikir aman. Administrator situs perlu memperbaiki server sebelum Anda mengunjungi situs tersebut.</p><p>Kode kesalahan:NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+

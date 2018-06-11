@@ -38,3 +38,4 @@
 <!ENTITY  noproxyExplain.label          "Contoh: .mozilla.org, .net.id, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Gunakan server proxy ini untuk semua protokol">
 <!ENTITY  shareproxy.accesskey          "y">
+<!ENTITY  socksRemoteDNS.label          "DNS proxy saat menggunakan SOCKS v5">
