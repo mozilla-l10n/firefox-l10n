@@ -57,7 +57,7 @@ serviceworker-empty-suggestions = Si la página actual debería tener un service
 serviceworker-empty-suggestions-console = Busque errores en la consola. <a>Abrir la consola</a>
 # Suggestion to use the debugger to investigate why a service worker is not registered.
 # Clicking on the link will switch from the Application panel to the debugger.
-serviceworker-empty-suggestions-debugger = Mire la registración del service worker paso a paso y busque excepciones. <a>brir el depurador</a>
+serviceworker-empty-suggestions-debugger = Mire la registración del service worker paso a paso y busque excepciones. <a>Abrir el depurador</a>
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Inspeccione service workers de otros dominios. <a>Abrir about:debugging</a>
