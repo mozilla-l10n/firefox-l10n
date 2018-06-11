@@ -83,6 +83,13 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Вы можаце вызначыць, якім вэб-сайтам дазволена ўсталёўваць дадаткі. Набярыце дакладны адрас сайта, якому вы хочаце гэта дазволіць, і пстрыкніце Дазволіць.
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = Дазволеныя вэб-сайты - Аўтапрайграванне
+    .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc = Вы можаце пазначыць, якім вэб-сайтам дазволена прайграваць медыя-элементы аўтаматычна. Упішыце дакладны адрас сайта, якому вы дазваляеце, і націсніце Дазволіць.
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =

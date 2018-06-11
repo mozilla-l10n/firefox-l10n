@@ -35,6 +35,9 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "Закрыць іншыя карткі">
 <!ENTITY  closeOtherTabs.accesskey           "і">
 
+<!ENTITY  closeSelectedTabs.label            "Закрыць выбраныя карткі">
+<!ENTITY  closeSelectedTabs.accesskey        "В">
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -54,6 +57,8 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "У чарзе (афлайн)">
 <!ENTITY  moveToNewWindow.label              "Перанесці ў новае акно">
 <!ENTITY  moveToNewWindow.accesskey          "а">
+<!ENTITY  reopenInContainer.label            "Пераадкрыць у кантэйнеры">
+<!ENTITY  reopenInContainer.accesskey        "у">
 <!ENTITY  bookmarkAllTabs.label              "Закладкі на ўсе карткі…">
 <!ENTITY  bookmarkAllTabs.accesskey          "к">
 <!ENTITY  undoCloseTab.label                 "Адмяніць закрыццё карткі">
@@ -249,6 +254,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Дадому">
 
+<!ENTITY homeButton.defaultPage.tooltip "Хатняя старонка &brandShortName;">
+
 <!ENTITY bookmarksButton.label          "Закладкі">
 <!ENTITY bookmarksCmd.commandkey "b">
 
@@ -431,6 +438,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY customizeMenu.autoHideDownloadsButton.label "Аўтаматычна хаваць на паліцы прылад">
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "А">
+<!ENTITY customizeMenu.manageExtension.label "Кіраваць пашырэннем">
+<!ENTITY customizeMenu.manageExtension.accesskey "К">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -792,6 +801,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "Падрабязней">
 
+<!ENTITY identity.clearSiteData "Выдаліць кукі і дадзеныя сайтаў…">
+
 <!ENTITY identity.permissions "Дазволы">
 <!ENTITY identity.permissionsEmpty "Вы не давалі гэтаму сайту ніякіх адмысловых дазволаў.">
 <!ENTITY identity.permissionsReloadHint "Магчыма, вам спатрэбіцца перазагрузіць старонку, каб змены пачалі дзейнічаць.">
@@ -895,6 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Усе бачныя вокны на вашым экране будуць абагулены.">
 
 <!ENTITY trackingProtection.title "Ахова ад сачэння">
+<!ENTITY trackingProtection.tooltip "Адкрыць налады аховы ад сачэння">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; блакуе асобныя часткі старонкі, якія могуць асочваць вашы паводзіны ў Інтэрнэце.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Гэты сайт змяшчае элементы, якія могуць асочваць вашы паводзіны ў інтэрнэце. Вы адключылі ахову.">
 <!ENTITY trackingProtection.notDetected3 "На гэтай старонцы не выяўлена ніводнага элемента асочвання.">
