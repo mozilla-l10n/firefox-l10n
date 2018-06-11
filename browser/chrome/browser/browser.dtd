@@ -57,6 +57,8 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "Sıraya alındı (çevrimdışı)">
 <!ENTITY  moveToNewWindow.label              "Yeni pencereye taşı">
 <!ENTITY  moveToNewWindow.accesskey          "Y">
+<!ENTITY  reopenInContainer.label            "Kapsayıcıda yeniden aç">
+<!ENTITY  reopenInContainer.accesskey        "K">
 <!ENTITY  bookmarkAllTabs.label              "Tüm sekmeleri yer imlerine ekle…">
 <!ENTITY  bookmarkAllTabs.accesskey          "ü">
 <!ENTITY  undoCloseTab.label                 "Kapatılan sekmeyi aç">
@@ -904,6 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Ekranınızdaki tüm görünür pencereler paylaşılacaktır.">
 
 <!ENTITY trackingProtection.title "İzlenme Koruması">
+<!ENTITY trackingProtection.tooltip "İzlenme Koruması tercihlerini aç">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; bu sayfanın sizi izleme ihtimali olan kısımlarını engelliyor.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Bu site, gezintinizi izleme ihtimali olan öğeler içeriyor. Korumayı devre dışı bıraktınız.">
 <!ENTITY trackingProtection.notDetected3 "Bu sayfada sizi izleyen herhangi bir öğe bulunmadı.">
