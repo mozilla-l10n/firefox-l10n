@@ -82,6 +82,12 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = పొడిగింతలను స్థాపించుటకు ఏయే వెబ్ సైట్లను అనుమతించాలో మీరు పేర్కొనవచ్చు. మీరు అనుమతించాలనుకున్న వెబ్ సైటు ఖచ్చితమైన చిరునామాను ఇచ్చి అనుమతించు బొత్తాన్ని నొక్కండి.
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = అనుమతించిన వెబ్‌సైట్లు - ఆటోప్లే
+    .style = { permissions-window.style }
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
