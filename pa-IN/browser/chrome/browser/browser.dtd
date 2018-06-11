@@ -35,6 +35,9 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "ਹੋਰ ਟੈਬਾਂ ਨੂੰ ਬੰਦ ਕਰੋ">
 <!ENTITY  closeOtherTabs.accesskey           "o">
 
+<!ENTITY  closeSelectedTabs.label            "ਚੁਣੀਆਂ ਟੈਬਾਂ ਨੂੰ ਬੰਦ ਕਰੋ">
+<!ENTITY  closeSelectedTabs.accesskey        "S">
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -54,6 +57,8 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "ਕਤਾਰਬੱਧ (ਆਫ਼ਲਾਈਨ)">
 <!ENTITY  moveToNewWindow.label              "ਨਵੀਂ ਵਿੰਡੋ 'ਚ ਭੇਜੋ">
 <!ENTITY  moveToNewWindow.accesskey          "W">
+<!ENTITY  reopenInContainer.label            "ਕਨਟਰੇਨਰ ਵਿੱਚ ਮੁੜ-ਖੋਲ੍ਹੋ">
+<!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkAllTabs.label              "…ਸਭ ਟੈਬਾਂ ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "ਬੰਦ ਕੀਤੀ ਟੈਬ ਨੂੰ ਵਾਪਸ ਖੋਲ੍ਹੋ">
@@ -248,6 +253,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "ਘਰ">
 
+<!ENTITY homeButton.defaultPage.tooltip "&brandShortName; ਮੁੱਖ ਸਫ਼ਾ">
+
 <!ENTITY bookmarksButton.label          "ਬੁੱਕਮਾਰਕ">
 <!ENTITY bookmarksCmd.commandkey "b">
 
@@ -429,6 +436,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY customizeMenu.autoHideDownloadsButton.label "ਟੂਲ-ਪੱਟੀ ਨੂੰ ਆਪੇ-ਲੁਕਾਵੋ">
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
+<!ENTITY customizeMenu.manageExtension.label "ਇਕਸਟੈਨਸ਼ਨਾਂ ਦਾ ਇੰਤਜ਼ਾਮ">
+<!ENTITY customizeMenu.manageExtension.accesskey "E">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -790,6 +799,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "ਹੋਰ ਜਾਣਕਾਰੀ">
 
+<!ENTITY identity.clearSiteData "…ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟੇ ਨੂੰ ਸਾਫ਼ ਕਰੋ">
+
 <!ENTITY identity.permissions "ਇਜਾਜ਼ਤਾਂ">
 <!ENTITY identity.permissionsEmpty "ਤੁਸੀਂ ਇਸ ਸਾਈਟ ਲਈ ਕੋਈ ਖਾਸ ਇਜਾਜ਼ਤਾਂ ਨਹੀਂ ਦਿੱਤੀਆਂ ਹਨ।">
 <!ENTITY identity.permissionsReloadHint "ਤਬਦੀਲੀਆਂ ਲਾਗੂ ਕਰਨ ਵਾਸਤੇ ਤੁਹਾਨੂੰ ਸਫ਼ੇ ਨੂੰ ਮੁੜ-ਲੋਡ ਕਰਨ ਦੀ ਲੋੜ ਹੋ ਸਕਦੀ ਹੈ।">
@@ -893,6 +904,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "ਆਪਣੀ ਸਕਰੀਨ ਤੋਂ ਸਭ ਵਿਖਾਈ ਦਿੰਦੀਆਂ ਵਿੰਡੋਜ਼ ਨੂੰ ਸਾਂਝਾ ਕੀਤਾ ਕੀਤਾ ਜਾਵੇਗਾ।">
 
 <!ENTITY trackingProtection.title "ਟਰੈਕਿੰਗ ਤੋਂ ਸੁਰੱਖਿਆ">
+<!ENTITY trackingProtection.tooltip "ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਪਸੰਦਾਂ ਨੂੰ ਖੋਲ੍ਹੋ">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; ਸਫ਼ੇ ਦੇ ਭਾਗਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾ ਰਿਹਾ ਹੈ, ਜੋ ਕਿ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ ਕਰਨ ਨੂੰ ਟਰੈਕ ਕਰ ਸਕਦੇ ਹਨ।">
 <!ENTITY trackingProtection.detectedNotBlocked3 "ਇਸ ਸਾਈਟ ਵਿੱਚ ਭਾਗ ਹਨ, ਜੋ ਕਿ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ ਕਰਨ ਨੂੰ ਟਰੈਕ ਕਰ ਸਕਦੇ ਹਨ। ਤੁਸੀਂ ਸੁਰੱਖਿਆ ਨੂੰ ਅਸਮਰੱਥ ਕਰ ਚੁੱਕੇ ਹੋ।">
 <!ENTITY trackingProtection.notDetected3 "ਇਸ ਸਫ਼ੇ ਉੱਤੇ ਕੋਈ ਵੀ ਟਰੈਕਿੰਗ ਭਾਗ ਨਹੀਂ ਮਿਲਿਆ।">

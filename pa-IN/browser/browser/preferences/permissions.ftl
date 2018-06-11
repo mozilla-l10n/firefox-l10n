@@ -82,6 +82,12 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = ਤੁਸੀਂ ਦੱਸ ਸਕਦੇ ਹੋ ਕਿ ਕਿਹੜੀਆਂ ਵੈੱਬ ਸਾਇਟਾਂ ਤੋਂ ਐਂਡ-ਆਨ ਇੰਸਟਾਲ ਕਰਨ ਦੀ ਇਜ਼ਾਜਤ ਹੈ। ਉਸ ਵੈੱਬ ਸਾਇਟ ਦੀ ਠੀਕ ਐਡਰੈੱਸ ਦਿਓ, ਜਿਸ ਨੂੰ ਤੁਸੀਂ ਇਜ਼ਾਜਤ ਦਿੰਦੇ ਹੋ, ਅਤੇ ਇਜ਼ਾਜਤ ਹੈ ਨੂੰ ਦਬਾਓ।
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = ਮਨਜ਼ੂਰੀ ਦਿੱਤੀਆਂ ਵੈੱਬਸਾਈਟਾਂ - ਆਪਣੇ-ਆਪ ਚਲਾਓ
+    .style = { permissions-window.style }
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
