@@ -5,8 +5,6 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Untuk menghemat ruang disk, jangan unduh:">
 <!ENTITY doNotDownloadNntp.label "Untuk menghemat ruang disk, jangan unduh pesan untuk penggunaan luring:">
 <!ENTITY doNotDownloadImap.label "Untuk menghemat ruang disk, pengunduhan pesan dari server dan penyimpanan luring salinan lokal dapat diatur berdasarkan umur atau besar pesan.">
-<!ENTITY allFoldersOffline.label "Tinggalkan pesan untuk akun ini pada komputer ini">
-<!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY offlineNotDownload.label "Pesan lebih besar dari">
 <!ENTITY offlineNotDownload.accesskey "P">
 <!ENTITY autosyncNotDownload.label "Jangan unduh pesan yang lebih besar dari">
@@ -19,8 +17,8 @@
 <!ENTITY nntpDownloadMsg.label "Pesan lebih dari">
 <!ENTITY nntpDownloadMsg.accesskey "e">
 <!ENTITY retentionCleanup.label "Untuk mengembalikan ruang disk, pesan yang sudah lama dapat dihapus secara permanen">
-<!ENTITY retentionCleanupImap.label "Untuk mengembalikan ruang disk, pesan yang sudah lama dapat dihapus secara permanen, termasuk salinan yang ada di komputer dan pesan asli yang disimpan di server.">
-<!ENTITY retentionCleanupPop.label "Untuk mengembalikan ruang disk, pesan yang sudah lama dapat dihapus secara permanen, termasuk pesan asli yang disimpan di server.">
+<!ENTITY retentionCleanupImap.label "Untuk mengembalikan ruang disk, pesan yang sudah usang dapat dihapus secara permanen, termasuk salinan lokal dan dan pesan asli yang disimpan di server jarak jauh.">
+<!ENTITY retentionCleanupPop.label "Untuk mengembalikan ruang disk, pesan yang sudah lama dapat dihapus secara permanen, termasuk pesan asli yang disimpan di server jarak jauh.">
 <!ENTITY retentionKeepMsg.label "Hapus pesan yang lebih dari">
 <!ENTITY retentionKeepMsg.accesskey "l">
 <!ENTITY retentionKeepAll.label "Jangan hapus pesan sama sekali">
@@ -37,13 +35,13 @@
 <!ENTITY offlineImapAdvancedOffline.accesskey "a">
 <!ENTITY syncGroupTitle.label "Proses Sinkronisasi Pesan">
 <!ENTITY diskspaceGroupTitle.label "Ruang Disk">
+
 <!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
   The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
   on a single line within the scope of useAutosync.ByAge as follows:
 
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
-
 <!ENTITY allAutosync.label               "Sinkronkan semua pesan secara lokal">
 <!ENTITY allAutosync.accesskey           "S">
 <!ENTITY ageAutosyncBefore.label         "Hanya sinkronkan yang paling baru">

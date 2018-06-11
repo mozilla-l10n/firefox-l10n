@@ -5,10 +5,6 @@
 <!ENTITY folderProps.windowtitle.label           "Keterangan:">
 
 <!ENTITY generalInfo.label                       "Informasi Umum">
-
-
-
-
 <!ENTITY folderRebuildSummaryFileTip2.label      "Buat Ulang Berkas Indeks Ringkasan">
 <!ENTITY folderRebuildSummaryFile2.label         "Perbaiki Folder">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "P">
@@ -22,8 +18,8 @@
 <!ENTITY daysOld.label "hari">
 <!ENTITY message.label "pesan">
 <!ENTITY retentionCleanup.label "Untuk mengembalikan ruang disk, pesan lama dapat dihapus secara permanen">
-<!ENTITY retentionCleanupImap.label "Untuk mengembalikan ruang disk, pesan yang sudah lama dapat dihapus secara permanen, termasuk salinan yang ada di komputer dan pesan asli yang disimpan di server.">
-<!ENTITY retentionCleanupPop.label "Untuk mengembalikan ruang disk, pesan yang sudah lama dapat dihapus secara permanen, termasuk pesan asli yang disimpan di server.">
+<!ENTITY retentionCleanupImap.label "Untuk mengembalikan ruang disk, pesan yang sudah usang dapat dihapus secara permanen, termasuk salinan lokal dan dan pesan asli yang disimpan di server jarak jauh.">
+<!ENTITY retentionCleanupPop.label "Untuk mengembalikan ruang disk, pesan yang sudah usang dapat dihapus secara permanen, termasuk salinan lokal dan dan pesan asli yang disimpan di server jarak jauh.">
 <!ENTITY retentionDeleteMsg.label "Hapus pesan yang lebih dari">
 <!ENTITY retentionDeleteMsg.accesskey "l">
 <!ENTITY retentionKeepAll.label "Jangan hapus pesan apa pun">
@@ -64,5 +60,4 @@
 <!ENTITY folderQuotaStatus.label                 "Status:">
 
 <!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
-
 <!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
