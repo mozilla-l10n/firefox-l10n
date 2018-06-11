@@ -415,6 +415,7 @@
 
 <!-- Summary dialog -->
 <!ENTITY summary.dialog.saveclose.label         "Lagre og lat att">
+<!ENTITY summary.dialog.saveclose.tooltiptext   "Lagre endringar og lukk vindauget utan å endre deltakingsstatus og utan å sende eit svar">
 <!ENTITY summary.dialog.accept.label            "Aksepter">
 <!ENTITY summary.dialog.accept.tooltiptext      "Aksepter invitasjonen">
 <!ENTITY summary.dialog.tentative.label         "Med atterhald">
@@ -422,4 +423,6 @@
 <!ENTITY summary.dialog.decline.label           "Avvis">
 <!ENTITY summary.dialog.decline.tooltiptext     "Avvis invitasjonen">
 <!ENTITY summary.dialog.dontsend.label          "Ikkje send eit svar">
+<!ENTITY summary.dialog.dontsend.tooltiptext    "Endre deltakingsstatusen din utan å sende eit svar til arrangøren og lat att vindauget">
 <!ENTITY summary.dialog.send.label              "Send eit svar no">
+<!ENTITY summary.dialog.send.tooltiptext        "Send eit svar til arrangøren,  og lat att vinduet">
