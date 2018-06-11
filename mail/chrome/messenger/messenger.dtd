@@ -75,17 +75,95 @@
 <!ENTITY offlineMenu.label "Sin conexión">
 <!ENTITY offlineMenu.accesskey "I">
 <!ENTITY offlineGoOfflineCmd.label "Trabajar sin conexión">
+<!ENTITY offlineGoOfflineCmd.accesskey "w">
+<!ENTITY synchronizeOfflineCmd.label "Descargar/Sync ahora…">
+<!ENTITY synchronizeOfflineCmd.accesskey "S">
+<!ENTITY settingsOfflineCmd2.label "Configuración sin conexión">
+<!ENTITY settingsOfflineCmd2.accesskey "e">
+<!ENTITY downloadSelectedCmd.label "Obtener mensajes seleccionados">
+<!ENTITY downloadSelectedCmd.accesskey "I">
+<!ENTITY downloadStarredCmd.label "Obtener mensajes destacados">
+<!ENTITY downloadStarredCmd.accesskey "a">
 <!ENTITY printCmd.label "Imprimir…">
+<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.key "p">
+<!ENTITY printPreviewCmd.label "Imprimir vista previa">
+<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printSetupCmd.label "Configuración de página…">
+<!ENTITY printSetupCmd.accesskey "u">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Borrar mensaje">
+<!ENTITY deleteMsgCmd.accesskey "D">
+<!ENTITY undeleteMsgCmd.label "Recuperar mensaje eliminado">
+<!ENTITY undeleteMsgCmd.accesskey "d">
 <!ENTITY deleteMsgsCmd.label "Borrar mensajes seleccionados">
+<!ENTITY deleteMsgsCmd.accesskey "D">
+<!ENTITY undeleteMsgsCmd.label "Recuperar mensajes seleccionados">
+<!ENTITY undeleteMsgsCmd.accesskey "d">
+<!ENTITY deleteFolderCmd.label "Eliminar carpeta">
+<!ENTITY deleteFolderCmd.accesskey "D">
+<!ENTITY unsubscribeNewsgroupCmd.label "Cancelar suscripción">
+<!ENTITY unsubscribeNewsgroupCmd.accesskey "b">
 <!ENTITY selectMenu.label "Seleccionar">
+<!ENTITY selectMenu.accesskey "S">
+<!ENTITY all.label "Todas">
+<!ENTITY all.accesskey "A">
+<!ENTITY selectThreadCmd.label "Hilo">
+<!ENTITY selectThreadCmd.accesskey "T">
+<!ENTITY selectThreadCmd.key "a">
+<!ENTITY selectFlaggedCmd.label "Mensajes destacados">
+<!ENTITY selectFlaggedCmd.accesskey "S">
+<!ENTITY menuFavoriteFolder.label "Carpeta de favoritos">
+<!ENTITY menuFavoriteFolder.accesskey "v">
+<!ENTITY folderPropsCmd2.label "Propiedades">
+<!ENTITY folderPropsFolderCmd2.label "Propiedades de la carpeta">
+<!ENTITY folderPropsNewsgroupCmd2.label "Propiedades de grupo de noticias">
+<!ENTITY folderPropsCmd.accesskey "o">
+<!ENTITY undoDeleteMsgCmd.label "Recuperar mensaje eliminado">
+<!ENTITY redoDeleteMsgCmd.label "Rehacer mensaje eliminado">
+<!ENTITY undoMoveMsgCmd.label "Rehacer mensaje movido">
+<!ENTITY redoMoveMsgCmd.label "Rehacer mensaje movido">
+<!ENTITY undoCopyMsgCmd.label "Rehacer mensaje copiado">
+<!ENTITY redoCopyMsgCmd.label "Rehacer mensaje copiado">
+<!ENTITY undoMarkAllCmd.label "Deshacer marcar como leídos">
+<!ENTITY redoMarkAllCmd.label "Rehacer marcar como leídos">
 <!ENTITY undoDefaultCmd.label "Deshacer">
+<!ENTITY undoDefaultCmd.accesskey "U">
+<!ENTITY redoDefaultCmd.label "Rehacer">
+<!ENTITY redoDefaultCmd.accesskey "R">
 
 <!-- View Menu -->
+<!ENTITY menubarCmd.label "Barra de menú">
+<!ENTITY menubarCmd.accesskey "M">
+<!ENTITY showMessengerToolbarCmd.label "Barra de herramientas del correo">
+<!ENTITY showMessengerToolbarCmd.accesskey "o">
+<!ENTITY customizeToolbar.label "Personalizar…">
+<!ENTITY customizeToolbar.accesskey "C">
 
+<!ENTITY messagePaneLayoutStyle.label "Diseño">
+<!ENTITY messagePaneLayoutStyle.accesskey "L">
+<!ENTITY messagePaneClassic.label "Vista clásica">
+<!ENTITY messagePaneClassic.accesskey "C">
+<!ENTITY messagePaneWide.label "Vista amplia">
+<!ENTITY messagePaneWide.accesskey "W">
+<!ENTITY messagePaneVertical.label "Vista vertical">
+<!ENTITY messagePaneVertical.accesskey "V">
+<!ENTITY showFolderPaneCmd.label "Panel de la carpeta">
+<!ENTITY showFolderPaneCmd.accesskey "F">
+<!ENTITY showFolderPaneColsCmd.label "Columnas del panel de la carpeta">
+<!ENTITY showFolderPaneColsCmd.accesskey "P">
+<!ENTITY showMessageCmd.label "Panel del mensaje">
+<!ENTITY showMessageCmd.accesskey "M">
 
+<!ENTITY folderView.label "Carpetas">
+<!ENTITY folderView.accesskey "F">
+<!ENTITY unifiedFolders.label "Unificado">
+<!ENTITY unifiedFolders.accesskey "n">
+<!ENTITY allFolders.label "Todas">
+<!ENTITY allFolders.accesskey "A">
+<!ENTITY unreadFolders.label "Sin leer">
+<!ENTITY unreadFolders.accesskey "U">
 
 <!-- Sort Menu -->
 
