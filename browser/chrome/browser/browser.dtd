@@ -57,6 +57,8 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "In coa (feua linia)">
 <!ENTITY  moveToNewWindow.label              "Mescia inte 'n neuvo barcon">
 <!ENTITY  moveToNewWindow.accesskey          "M">
+<!ENTITY  reopenInContainer.label            "Arvi torna in Contegnitô">
+<!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkAllTabs.label              "Azonzi tutti i feuggi a-i segnalibbri…">
 <!ENTITY  bookmarkAllTabs.accesskey          "t">
 <!ENTITY  undoCloseTab.label                 "Anulla særa feuggio">
@@ -904,6 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Tutte i barcoin vixibili into schermo saian condivizi.">
 
 <!ENTITY trackingProtection.title "Proteçion anti-traciamento">
+<!ENTITY trackingProtection.tooltip "Arvi e preferense da proteçion anti-traciamento">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; o blòcca di elementi da pagina che peuan traciâ a navegaçion.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "In sta pagina gh'é di elementi che peuan traciâ a navegaçion. A proteçion o l'é dizativâ.">
 <!ENTITY trackingProtection.notDetected3 "In sta pagina no gh'é di elementi che peuan traciâ a navegaçion.">

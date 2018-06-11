@@ -83,6 +83,13 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Ti ti peu dî quæ sciti peuan arvî ò instalâ di conponenti azonti. Scrivi l'indirisso di sciti a-i quæ ti veu dâ o permisso e sciacca Permetti.
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = Sciti permissi - Aoto-xeuo
+    .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc = Ti peu specificâ quæ sciti peuan xoâ in aotomatico elementi media. Scrivi ben l'indirisso do scito che ti ghe veu dâ o permisso e sciacca Permetti.
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
