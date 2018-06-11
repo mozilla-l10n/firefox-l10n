@@ -23,7 +23,7 @@
 <!ENTITY view.unsorted.label            "Não ordenado">
 <!ENTITY view.unsorted.accesskey        "N">
 <!ENTITY view.sortAscending.label       "Ordem crescente">
-<!ENTITY view.sortAscending.accesskey   "O">
+<!ENTITY view.sortAscending.accesskey   "c">
 <!ENTITY view.sortDescending.label      "Ordem decrescente">
 <!ENTITY view.sortDescending.accesskey  "d">
 
