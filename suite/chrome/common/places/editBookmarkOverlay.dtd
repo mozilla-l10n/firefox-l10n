@@ -14,7 +14,7 @@
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Mostrar todas as pastas de favoritos">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Ocultar">
 <!ENTITY editBookmarkOverlay.tags.label                      "Etiquetas:">
-<!ENTITY editBookmarkOverlay.tags.accesskey                  "T">
+<!ENTITY editBookmarkOverlay.tags.accesskey                  "E">
 <!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Separar etiquetas com vírgulas">
 <!ENTITY editBookmarkOverlay.description.label               "Descrição:">
 <!ENTITY editBookmarkOverlay.description.accesskey           "D">
