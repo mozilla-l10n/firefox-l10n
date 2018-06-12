@@ -52,3 +52,9 @@ serviceworker-empty-intro = Eikotevẽ emboheraguapy Service Worker ehechajey ha
 # Text displayed when there are no Service Workers to display for the current page,
 # introducing hints to debug Service Worker issues.
 serviceworker-empty-suggestions = Ko kuatiarogue ag̃agua oguerekótarõ service worker, ko’ápe oĩ heta mba’e ikatúva ejapo
+# Suggestion to check for errors in the Console to investigate why a service worker is not
+# registered. Clicking on the link opens the webconsole.
+serviceworker-empty-suggestions-console = Eheka jejavy mba’e’okarupápe. <a>Embojuruja mba’e’okarupa</a>
+# Suggestion to use the debugger to investigate why a service worker is not registered.
+# Clicking on the link will switch from the Application panel to the debugger.
+serviceworker-empty-suggestions-debugger = Ehecha service worker mboheraguapy jeguata ha eheka ykepeguápe. <a>Embojuruja mopotĩha</a>
