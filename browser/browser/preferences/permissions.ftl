@@ -82,6 +82,12 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Hansı saytların əlavə yükləyə biləcəyini seçə bilərsiniz. İcaz vermək istədiyiniz saytın tam ünvanını yazdıqdan sonra "İcazə ver"-ə klikləyin.
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = İcazə verilən saytlar - Avto Oxutma
+    .style = { permissions-window.style }
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
