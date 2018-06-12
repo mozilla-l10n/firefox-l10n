@@ -83,6 +83,13 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Ikatu rehechauka mba'e ñanduti renda guivépa ikatu remohenda moimbaha. Ehai kundaharape ha'etéva tenda remoneĩséva ha ejopy Moneĩ.
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = Ñanduti renda moneĩmbyre - Mboheta ijeheguíva
+    .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc = Ikatu emopeteĩ umi tenda moneĩmbyre ombohetakuaáva ijehegui mba’epuru. Emoingeva’erã tenda kundaharape emoneĩséva ha upéi ejopy Moneĩ.
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
