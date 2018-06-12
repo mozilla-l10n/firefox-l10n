@@ -27,7 +27,7 @@
 <!ENTITY columnChooser.tooltip "Klik for at vælge kolonner som skal vises">
 
 <!-- Context Menu -->
-<!ENTITY copyPref.key "K">
+<!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "Kopier">
 <!ENTITY copyPref.accesskey "K">
 <!ENTITY copyName.label "Kopier navn">
