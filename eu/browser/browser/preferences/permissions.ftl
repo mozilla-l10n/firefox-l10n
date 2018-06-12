@@ -60,6 +60,7 @@ permissions-exceptions-tracking-protection-desc = Jarraipenaren babesa desgaitu 
 permissions-exceptions-cookie-window =
     .title = Salbuespenak - Cookieak eta guneen datuak
     .style = { permissions-window.style }
+permissions-exceptions-cookie-desc = Cookieak eta gunearen datuak beti edo inoiz ez erabiltzeko baimena duten webguneak zehatz ditzakezu. Idatzi kudeatu nahi duzun gunearen helbide zehatza eta egin klik 'Blokeatu', 'Baimendu saiorako' edo 'Baimendu' botoian.
 
 ## Exceptions - Pop-ups
 
@@ -81,6 +82,13 @@ permissions-exceptions-addons-window =
     .title = Baimendutako webguneak - Gehigarrien instalazioa
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Gehigarriak instalatzeko baimena duten webguneak ezar ditzakezu. Idatzi gunearen helbide zehatza eta egin klik 'Baimendu' botoian baimena emateko.
+
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = Baimendutako webguneak - Erreprodukzio automatikoa
+    .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc = Multimedia elementuak automatikoki erreproduzitzeko baimena duten webguneak zehatz ditzakezu. Idatzi baimendu nahi duzun gunearen helbide zehatza eta egin klik 'Baimendu' botoian.
 
 ## Site Permissions - Notifications
 
