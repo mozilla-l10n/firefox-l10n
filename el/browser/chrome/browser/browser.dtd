@@ -35,6 +35,7 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "Κλείσιμο των άλλων καρτελών">
 <!ENTITY  closeOtherTabs.accesskey           "ω">
 
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -240,6 +241,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Αρχική σελίδα">
 
+
 <!ENTITY bookmarksButton.label          "Σελιδοδείκτες">
 <!ENTITY bookmarksCmd.commandkey "b">
 
@@ -417,6 +419,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "Προσθήκη περισσότερων αντικειμένων…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "α">
 
+<!ENTITY customizeMenu.manageExtension.label "Διαχείριση επέκτασης">
+<!ENTITY customizeMenu.manageExtension.accesskey "ε">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -777,6 +781,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.removeCertException.accesskey "Ρ">
 
 <!ENTITY identity.moreInfoLinkText2 "Περισσότερες πληροφορίες">
+
 
 <!ENTITY identity.permissions "Δικαιώματα">
 <!ENTITY identity.permissionsEmpty "Δεν έχετε χορηγήσει ειδικές άδειες στη σελίδα.">

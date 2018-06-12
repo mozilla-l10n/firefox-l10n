@@ -2,10 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY window.width                 "35em">
 
 
 <!ENTITY clearSiteData.label          "Cookies και δεδομένα ιστοσελίδων">
 
 
+<!ENTITY button.cancel.label          "Ακύρωση">
+<!ENTITY button.cancel.accesskey      "Α">
 <!ENTITY button.clear.label           "Εκκαθάριση">
 <!ENTITY button.clear.accesskey       "κ">
