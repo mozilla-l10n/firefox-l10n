@@ -38,12 +38,6 @@
 
 <!ENTITY  suggestionSettings2.label     "Cambiar las preferéncias per las suggestions del motor de recèrca">
 
-<!ENTITY  acceptCookies2.label          "Acceptar de cookies dels sites web">
-<!ENTITY  acceptCookies2.accesskey      "A">
-
-<!ENTITY  acceptThirdParty2.pre.label     "Acceptar los cookies tèrces">
-<!ENTITY  acceptThirdParty2.pre.accesskey "y">
-
 <!ENTITY  acceptCookies4.label          "Acceptar los cookies e las donadas de sites (recomandat)">
 <!ENTITY  acceptCookies4.accesskey      "A">
 
@@ -65,9 +59,6 @@
 <!ENTITY  cookieExceptions.label        "Excepcions…">
 <!ENTITY  cookieExceptions.accesskey    "E">
 
-<!ENTITY  showCookies.label             "Afichar los cookies…">
-<!ENTITY  showCookies.accesskey         "k">
-
 <!ENTITY  historyHeader2.pre.label         "&brandShortName;">
 <!ENTITY  historyHeader2.pre.accesskey     "w">
 <!ENTITY  historyHeader.remember.label     "Conservar l'istoric">
@@ -75,27 +66,12 @@
 <!ENTITY  historyHeader.custom.label       "Utilizar los paramètres personalizats per l'istoric">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; conservarà las donadas de navegacion, los telecargaments, los formularis e l'istoric recèrca e los cookies dels sites web que visitaretz.">
-
-<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
-<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-<!ENTITY  rememberActions.pre.label           "Benlèu que volètz">
-<!ENTITY  rememberActions.clearHistory.label  "voidar tot l'istoric recent">
-<!ENTITY  rememberActions.middle.label        ", o ">
-<!ENTITY  rememberActions.removeCookies.label "suprimir de cookies especifics">
-<!ENTITY  rememberActions.post.label          ".">
-
+<!ENTITY  rememberDescription1.label      "&brandShortName; se remembrarà de vòstre istoric de navegacion, telecargaments, formularis e recèrcas.">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; utilizarà los meteisses paramètres que per la navegacion privada e conservarà pas cap d'istoric quand navegaretz sus internet.">
 
-<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-<!ENTITY  dontrememberActions.pre.label          "Benlèu que volètz">
-<!ENTITY  dontrememberActions.clearHistory.label "escafar la totalitat de l'istoric actual">
-<!ENTITY  dontrememberActions.post.label         ".">
-
 <!ENTITY  clearHistoryButton.label       "Escafar l’istoric…">
+<!ENTITY  clearHistoryButton.accesskey   "s">
 
 <!ENTITY  privateBrowsingPermanent2.label "Utilizar totjorn lo mòde de navegacion privada">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
@@ -111,12 +87,6 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Paramètres…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
-
-<!ENTITY  browserContainersLearnMore.label      "Ne saber mai">
-<!ENTITY  browserContainersEnabled.label        "Activar los onglets de contenidor">
-<!ENTITY  browserContainersEnabled.accesskey    "a">
-<!ENTITY  browserContainersSettings.label        "Paramètres…">
-<!ENTITY  browserContainersSettings.accesskey    "t">
 
 <!ENTITY  a11yPrivacy.checkbox.label     "Empachar los servicis d’accessibilitat d’accedir a vòstre navegador">
 <!ENTITY  a11yPrivacy.checkbox.accesskey "a">
