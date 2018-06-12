@@ -57,6 +57,8 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "Ilaratuta (lineaz kanpo)">
 <!ENTITY  moveToNewWindow.label              "Eraman leiho berrira">
 <!ENTITY  moveToNewWindow.accesskey          "h">
+<!ENTITY  reopenInContainer.label            "Ireki berriro edukiontzian">
+<!ENTITY  reopenInContainer.accesskey        "b">
 <!ENTITY  bookmarkAllTabs.label              "Egin fitxa guztien laster-marka…">
 <!ENTITY  bookmarkAllTabs.accesskey          "t">
 <!ENTITY  undoCloseTab.label                 "Desegin fitxa ixtea">
@@ -904,6 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Zure pantailan ikusgai dauden leiho guztiak partekatuko dira.">
 
 <!ENTITY trackingProtection.title "Jarraipenaren babesa">
+<!ENTITY trackingProtection.tooltip "Ireki jarraipenaren babesaren hobespenak">
 <!ENTITY trackingProtection.detectedBlocked3 "Zure nabigazioaren jarraipena egin lezaketen orriaren zatiak blokeatzen ari da &brandShortName;.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Gune honek zure nabigazioaren jarraipena egin lezaketen zatiak ditu. Babesa desgaituta daukazu.">
 <!ENTITY trackingProtection.notDetected3 "Ez da jarraipeneko elementurik atzeman orri honetan.">
@@ -997,12 +1000,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Desgaitu hedapena">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
+<!ENTITY homepageControlled.message "Hasiera-orrian ikusten duzuna aldatu du hedapen batek. Zure ezarpenak lehenera ditzakezu ez baduzu aldaketa hau nahi.">
 <!ENTITY homepageControlled.header.message "Zure hasiera-orria aldatu egin da.">
 <!ENTITY homepageControlled.keepButton.label "Mantendu aldaketak">
 <!ENTITY homepageControlled.keepButton.accesskey "M">
 <!ENTITY homepageControlled.disableButton.label "Desgaitu hedapena">
 <!ENTITY homepageControlled.disableButton.accesskey "D">
 
+<!ENTITY tabHideControlled.header.message "Sartu ezkutatutako zure fitxetara">
+<!ENTITY tabHideControlled.keepButton.label "Mantendu fitxak ezkutatuta">
+<!ENTITY tabHideControlled.keepButton.accesskey "M">
 <!ENTITY tabHideControlled.disableButton.label "Desgaitu hedapena">
 <!ENTITY tabHideControlled.disableButton.accesskey "D">
 
