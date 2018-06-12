@@ -83,6 +83,13 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Вы можете указать, каким веб-сайтам разрешено устанавливать дополнения. Введите точный адрес каждого сайта и нажмите кнопку «Разрешить».
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = Разрешённые веб-сайты — Автовоспроизведение
+    .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc = Вы можете указать, каким веб-сайтам разрешено автоматически воспроизводить медиа. Введите точный адрес каждого сайта и нажмите кнопку «Разрешить».
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
