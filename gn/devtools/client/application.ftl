@@ -46,3 +46,9 @@ serviceworker-worker-status-stopped = Pytapyre
 # Service Worker status. A registering service worker is not yet registered and cannot be
 # started or debugged.
 serviceworker-worker-status-registering = Oñemboheraguapyhína
+# Text displayed when no service workers are visible for the current page. Clicking on the
+# link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
+serviceworker-empty-intro = Eikotevẽ emboheraguapy Service Worker ehechajey hag̃ua ko’ápe. <a>Kuaave</a>
+# Text displayed when there are no Service Workers to display for the current page,
+# introducing hints to debug Service Worker issues.
+serviceworker-empty-suggestions = Ko kuatiarogue ag̃agua oguerekótarõ service worker, ko’ápe oĩ heta mba’e ikatúva ejapo
