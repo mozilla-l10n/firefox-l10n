@@ -38,12 +38,6 @@
 
 <!ENTITY  suggestionSettings2.label     "Aldatu bilaketa-motorren iradokizunetarako hobespenak">
 
-<!ENTITY  acceptCookies2.label          "Onartu webguneetako cookieak">
-<!ENTITY  acceptCookies2.accesskey      "O">
-
-<!ENTITY  acceptThirdParty2.pre.label     "Onartu hirugarrenen cookieak">
-<!ENTITY  acceptThirdParty2.pre.accesskey "n">
-
 <!ENTITY  acceptCookies4.label          "Onartu webguneetako cookie eta datuak (gomendatua)">
 <!ENTITY  acceptCookies4.accesskey      "O">
 
@@ -65,9 +59,6 @@
 <!ENTITY  cookieExceptions.label        "Salbuespenak…">
 <!ENTITY  cookieExceptions.accesskey    "S">
 
-<!ENTITY  showCookies.label             "Erakutsi cookieak…">
-<!ENTITY  showCookies.accesskey         "E">
-
 <!ENTITY  historyHeader2.pre.label         "&brandShortName;(e)k">
 <!ENTITY  historyHeader2.pre.accesskey     "k">
 <!ENTITY  historyHeader.remember.label     "Historia gogoratuko du">
@@ -75,25 +66,9 @@
 <!ENTITY  historyHeader.custom.label       "Ezarpen pertsonalizatuak erabiliko ditu historiarako">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName;(e)k zure nabigatze-, deskarga- eta bilaketa-historia gogoratuko du eta bisitatzen dituzun webguneen cookieak gordeko ditu.">
-
-<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
-<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-<!ENTITY  rememberActions.pre.label           "Agian ">
-<!ENTITY  rememberActions.clearHistory.label  "zure azken historia garbitu">
-<!ENTITY  rememberActions.middle.label        " nahi duzu, edo ">
-<!ENTITY  rememberActions.removeCookies.label "cookieak banan-banan ezabatu">
-<!ENTITY  rememberActions.post.label          ".">
-
+<!ENTITY  rememberDescription1.label      "&brandShortName;(e)k zure nabigatze-, deskarga-, inprimaki- eta bilaketa-historia gogoratuko ditu.">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName;(e)k nabigatze pribatuaren ezarpen berak erabiliko ditu, eta ez du gogoratuko historia webean nabigatzen ari zarenean.">
-
-<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-<!ENTITY  dontrememberActions.pre.label          "Agian ">
-<!ENTITY  dontrememberActions.clearHistory.label "uneko historia osoa garbitu">
-<!ENTITY  dontrememberActions.post.label         " nahi duzu.">
 
 <!ENTITY  clearHistoryButton.label       "Garbitu historia…">
 <!ENTITY  clearHistoryButton.accesskey   "s">
@@ -112,12 +87,6 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Ezarpenak…">
 <!ENTITY  clearOnCloseSettings.accesskey "r">
-
-<!ENTITY  browserContainersLearnMore.label      "Argibide gehiago">
-<!ENTITY  browserContainersEnabled.label        "Gaitu edukiontzi-fitxak">
-<!ENTITY  browserContainersEnabled.accesskey    "G">
-<!ENTITY  browserContainersSettings.label        "Ezarpenak…">
-<!ENTITY  browserContainersSettings.accesskey    "r">
 
 <!ENTITY  a11yPrivacy.checkbox.label     "Eragotzi erabilgarritasun-zerbitzuei zure nabigatzailerako sarbidea">
 <!ENTITY  a11yPrivacy.checkbox.accesskey "a">
