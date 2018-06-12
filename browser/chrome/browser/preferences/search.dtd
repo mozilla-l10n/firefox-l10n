@@ -7,6 +7,13 @@
 <!ENTITY searchBar.hidden.label                "Utilisar la trav d'adressas per tschertgar e navigar">
 <!ENTITY searchBar.shown.label                 "Agiuntar la trav da tschertgar a la trav d'utensils">
 
+<!-- LOCALIZATION NOTE (showSearchSuggestionsAboveHistory.label): This string
+     describes what the user will observe when the system prioritizes search
+     suggestions over browsing history in the results that extend down from the
+     address bar. In the original English string, "ahead" refers to location
+     (appearing most proximate to), not time (appearing before). -->
+<!ENTITY showSearchSuggestionsAboveHistory.label "Mussar las propostas da tschertga avant la cronologia da navigaziun en ils resultats da la trav d'adressas">
+
 <!ENTITY defaultSearchEngine.label             "Maschina da tschertgar da standard">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Tscherna la maschina da tschertgar da standard per la trav d'adressas e la trav da tschertgar.">

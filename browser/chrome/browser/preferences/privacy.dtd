@@ -38,8 +38,14 @@
 
 <!ENTITY  suggestionSettings2.label     "Midar las preferenzas per propostas da maschinas da tschertgar">
 
+<!ENTITY  acceptCookies4.label          "Acceptar cookies e datas da websites (recumandà)">
+<!ENTITY  acceptCookies4.accesskey      "A">
 
+<!ENTITY  blockCookies.label            "Bloccar cookies e datas da websites (po chaschunar problems cun websites)">
+<!ENTITY  blockCookies.accesskey        "B">
 
+<!ENTITY  acceptThirdParty3.pre.label     "Acceptar cookies da terzs e datas da websites">
+<!ENTITY  acceptThirdParty3.pre.accesskey "k">
 <!ENTITY  acceptThirdParty.always.label   "Adina">
 <!ENTITY  acceptThirdParty.never.label    "Mai">
 <!ENTITY  acceptThirdParty.visited.label  "Da visitads">
@@ -60,9 +66,12 @@
 <!ENTITY  historyHeader.custom.label       "Utilisar per la cronologia ils parameters definids da l'utilisader">
 <!ENTITY  historyHeader.post.label         "">
 
+<!ENTITY  rememberDescription1.label      "&brandShortName; memorisescha las adressas da las paginas d'internet visitadas, da las telechargiadas sco era infurmaziuns endatadas en formulars e maschinas da tschertgar.">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; vegn ad utilisar las medemas preferenzas sco en il modus privat e na vegn betg a far ina cronologia da tia navigaziun en l'internet.">
 
+<!ENTITY  clearHistoryButton.label       "Stizzar la cronologia…">
+<!ENTITY  clearHistoryButton.accesskey   "z">
 
 <!ENTITY  privateBrowsingPermanent2.label "Adina navigar en il modus privat">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
