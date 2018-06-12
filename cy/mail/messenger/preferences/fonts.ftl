@@ -8,3 +8,5 @@ fonts-window-close =
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Rhagosodiad ({ $name })
+fonts-label-default-unnamed =
+    .label = Rhagosodiad
