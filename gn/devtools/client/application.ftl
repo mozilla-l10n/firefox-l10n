@@ -14,6 +14,9 @@
 
 # Header for the list of Service Workers displayed in the application panel for the current page.
 serviceworker-list-header = Mba'apohára oporopytyvõva
+# Text displayed next to the list of Service Workers to encourage users to check out
+# about:debugging to see all registered Service Workers.
+serviceworker-list-aboutdebugging = Embojuruja <a>about:debugging</a> Service Workers peg̃uarã ha ambue mba'etépe avei
 # Text for the button to unregister a Service Worker. Displayed for active Service Workers.
 serviceworker-worker-unregister = Eipe'a mboheraguapy
 # Text for the debug link displayed for an already started Service Worker. Clicking on the
@@ -24,6 +27,9 @@ serviceworker-worker-debug = Mopotĩ
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start = Moñepyrũ
+# Text displayed for the updated time of the service worker. The <time> element will
+# display the last update time of the service worker script.
+serviceworker-worker-updated = Hekopyahupyre <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
 # Text displayed next to the URL for the source of the service worker (e-g. "Source my/path/to/worker-js")
 serviceworker-worker-source = Teñoiha
 # Text displayed next to the current status of the service worker.
