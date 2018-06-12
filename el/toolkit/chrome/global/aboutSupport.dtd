@@ -77,6 +77,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsProcessCount "Διεργασίες διαδικτυακού περιεχομένου">
 
+<!ENTITY aboutSupport.enterprisePolicies "Πολιτικές επιχειρήσεων">
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Κλειδί Google">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Κλειδί υπηρεσίας τοποθεσίας Mozilla">
@@ -163,6 +164,9 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceLatency "Καθυστέρηση">
 
 <!ENTITY aboutSupport.intlAppTitle "Ρυθμίσεις εφαρμογής">
+<!ENTITY aboutSupport.intlLocalesRequested "Ζητούμενες γλώσσες">
+<!ENTITY aboutSupport.intlLocalesAvailable "Διαθέσιμες γλώσσες">
+<!ENTITY aboutSupport.intlLocalesSupported "Γλώσσες εφαρμογής">
 <!ENTITY aboutSupport.intlLocalesDefault "Προεπιλεγμένη γλώσσα">
 <!ENTITY aboutSupport.intlOSTitle "Λειτουργικό σύστημα">
 <!ENTITY aboutSupport.intlOSPrefsSystemLocales "Γλώσσες συστήματος">
