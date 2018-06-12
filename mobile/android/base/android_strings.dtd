@@ -70,6 +70,15 @@
 
 <!ENTITY url_bar_default_text2 "Tschertgar u tippar l\&apos;adressa">
 
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "Utilisar il lectur da QR codes per tschertgar u endatar in\&apos;adressa">
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "Utilisar il microfon per tschertgar u endatar in\&apos;adressa">
+
 <!ENTITY bookmark "Segnapagina">
 <!ENTITY bookmark_remove "Allontanar il segnapagina">
 <!ENTITY bookmark_added "Agiuntà il segnapagina">
@@ -207,6 +216,7 @@
 <!ENTITY pref_category_advanced_summary3 "Restaurar tabs, spargnar datas, utensils per sviluppaders">
 <!ENTITY pref_category_notifications "Communicaziuns">
 <!ENTITY pref_category_notifications_summary "Novas funcziuns, actualisaziuns da websites">
+<!ENTITY pref_category_notifications_summary2 "Novas funcziuns, infurmaziuns davart la software">
 <!ENTITY pref_developer_remotedebugging_usb "Debugging a distanza via USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Debugging a distanza via WLAN">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Per utilisar il debugging a distanza via WLAN sto tes apparat disponer dad ina applicaziun per leger codes QR.">
@@ -281,6 +291,13 @@
 
 <!ENTITY pref_whats_new_notification "Tge è nov en &brandShortName;?">
 <!ENTITY pref_whats_new_notification_summary "Infurmaziuns davart novas funcziuns suenter ina actualisaziun">
+
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!ENTITY pref_feature_tips_notification "Infurmaziuns davart la software e sias funcziuns">
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+<!ENTITY pref_feature_tips_notification_summary "Ulteriuras infurmaziuns davart &brandShortName; ed auters products da &vendorShortName;">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
@@ -422,7 +439,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "Analisa da la sanadad da &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "Cundivida datas davart la «sanadad» da tes navigatur cun &vendorShortName; e gida da chapir la prestaziun dal navigatur">
-<!ENTITY datareporting_abouthr_title "Mussar l\&apos;analisa da sanadad">
 <!ENTITY datareporting_telemetry_title "Telemetria">
 <!ENTITY datareporting_telemetry_summary "Cundivida datas davart la prestaziun, utilisaziun, hardware e persunalisaziun da tes navigatur cun &vendorShortName; per gidar a meglierar &brandShortName;">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; trametta rapports davart collaps per gidar &vendorShortName; da meglierar la stabilitad e la segirezza dal navigatur">
@@ -454,6 +470,7 @@
 <!ENTITY share_image_failed "Impussibel da cundivider questa grafica">
 <!ENTITY save_as_pdf "Memorisar sco PDF">
 <!ENTITY print "Stampar">
+<!ENTITY view_page_source "Mussar il code da funtauna da la pagina">
 <!ENTITY find_in_page "Tschertgar en la pagina">
 <!ENTITY desktop_mode "Pagina per visurs gronds">
 <!ENTITY page "Pagina">
@@ -485,7 +502,6 @@
 <!ENTITY contextmenu_open_new_tab "Avrir en in nov tab">
 <!ENTITY contextmenu_open_private_tab "Avrir en in tab privat">
 <!ENTITY contextmenu_remove "Allontanar">
-<!ENTITY contextmenu_add_to_launcher "Agiuntar al visur da partenza">
 <!ENTITY contextmenu_add_page_shortcut "Agiuntar ina scursanida a la pagina">
 <!ENTITY contextmenu_set_as_homepage "Definir sco pagina da partenza">
 <!ENTITY contextmenu_share "Cundivider">
@@ -537,10 +553,9 @@
 <!ENTITY pref_compact_tabs_summary2 "Mussar ils tabs en duas colonnas en il format vertical">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
-     any page is removed frome about:home. This includes pages that are in history,
+     any page is removed from about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Allontanà la pagina">
-
 <!ENTITY folder_removed "Allontanà l\&apos;ordinatur">
 
 <!ENTITY bookmark_edit_title "Modifitgar il segnapagina">
@@ -756,7 +771,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "L\&apos;ultima sincronisaziun: &formatS;">
-<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!-- Localization note: Used when the sync has not happened yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "L\&apos;ultima sincronisaziun: anc mai">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
@@ -814,6 +829,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced by the Android OS version (e.g., 14)-->
 <!ENTITY unsupported_sdk_version "Perstgisa! Quest &brandShortName; na funcziuna betg sin quest apparat (&formatS1;, &formatS2;). Telechargia p.pl. la versiun correcta. ">
 
+<!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
+<!ENTITY corrupt_apk "Impussibel dad avrir &brandShortName;. Per plaschair reinstallar ed empruvar anc ina giada.">
+
 <!ENTITY eol_notification_title2 "&brandShortName; na vegn betg pli a retschaiver actualisaziuns">
 <!ENTITY eol_notification_summary "Tutgar per ulteriuras infurmaziuns">
 
@@ -821,8 +839,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; è actual">
 <!ENTITY whatsnew_notification_summary "Ve a savair tge ch\&apos;è nov en questa versiun">
-
-<!ENTITY promotion_add_to_homescreen "Agiuntar a la pagina da partenza">
 
 <!ENTITY promotion_add_page_shortcut "Agiuntar ina scursanida a la pagina">
 
