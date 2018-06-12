@@ -5,5 +5,8 @@
 <!ENTITY restartRequired.title "Berrabiarazi egin behar da">
 
 <!ENTITY restartRequired.header "Barkatu, gauzatxo bat egin behar dugu jarraitu ahal izateko.">
+<!ENTITY restartRequired.description "
+<p>Eguneraketa bat instalatu berri dugu atzeko planoan. Hau aplikatzea bukatzeko, egin klik 'Berrabiarazi &brandShortName;' botoian.</p>
+<p>Zure orri, leiho eta fitxa guztiak berreskuratuko ditugu gero, ari zinenarekin azkar jarraitu ahal dezazun.</p>">
 
 <!ENTITY restartButton.label "Berrabiarazi &brandShortName;">

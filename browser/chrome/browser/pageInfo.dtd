@@ -46,22 +46,10 @@
 
 <!ENTITY  feedTab               "Jarioak">
 <!ENTITY  feedTab.accesskey     "J">
-<!ENTITY  feedSubscribe         "Harpidetu">
-<!ENTITY  feedSubscribe.accesskey "H">
 
 <!ENTITY  permTab               "Baimenak">
 <!ENTITY  permTab.accesskey     "B">
-<!ENTITY  permUseDefault        "Erabili lehenetsia">
-<!ENTITY  permAskAlways         "Galdetu beti">
-<!ENTITY  permAllow             "Baimendu">
-<!ENTITY  permAllowSession      "Baimendu saiorako">
-<!ENTITY  permHide              "Ezkutatu">
-<!ENTITY  permBlock             "Blokeatu">
 <!ENTITY  permissionsFor        "Honen baimenak:">
-<!ENTITY  permPlugins           "Pluginak aktibatzea">
-
-<!ENTITY  permClearStorage           "Garbitu biltegiratzea">
-<!ENTITY  permClearStorage.accesskey "G">
 
 <!ENTITY  securityTab           "Segurtasuna">
 <!ENTITY  securityTab.accesskey "S">
@@ -81,6 +69,9 @@
 <!ENTITY  securityView.privacy.cookies                  "Webgune hau informazioa (cookieak) nire ordenagailuan gordetzen ari da?">
 <!ENTITY  securityView.privacy.viewCookies              "Ikusi cookieak">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.siteData                 "Webgune hau informazioa gordetzen ari da nire ordenagailuan?">
+<!ENTITY  securityView.privacy.clearSiteData            "Garbitu cookieak eta guneetako datuak">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "G">
 <!ENTITY  securityView.privacy.passwords                "Webgune honetarako pasahitzik gorde dut?">
 <!ENTITY  securityView.privacy.viewPasswords            "Ikusi pasahitzak">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "I">
