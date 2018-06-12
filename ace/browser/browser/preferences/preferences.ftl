@@ -47,22 +47,102 @@ feature-enable-requires-restart = { -brand-short-name } suwah peuhah keulayi keu
 feature-disable-requires-restart = { -brand-short-name } suwah peuhah keulayi keu pumaté fitur nyoe.
 should-restart-title = Peuhah Keulayi { -brand-short-name }
 should-restart-ok = Peuhah keulayi { -brand-short-name } jinoe
+cancel-no-restart-button = Bateue
 restart-later = Peuhah Keulayi Euntreuk
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+
+## Preferences UI Search Results
+
 
 ## General Section
 
+browser-containers-learn-more = Meurunoë lom
 
 ## General Section - Language & Appearance
 
 
 ## General Section - Files and Applications
 
+play-drm-content-learn-more = Meurunoë lom
 
 ## General Section - Performance
 
+performance-settings-learn-more = Meurunoë lom
 
 ## General Section - Browsing
 
 
 ## General Section - Proxy
+
+network-proxy-connection-learn-more = Meurunoë Lom
+
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+
+## Search Section
+
+
+## Containers Section
+
+
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+sync-device-name-cancel =
+    .label = Bateue
+    .accesskey = B
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+
+## Privacy Section - History
+
+
+## Privacy Section - Site Data
+
+sitedata-learn-more = Meurunoë lom
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+permissions-notification-link = Meurunoë lom
+permissions-a11y-privacy-link = Meurunoë lom
+
+## Privacy Section - Data Collection
+
+collection-health-report-link = Meurunoë lom
+collection-browser-errors-link = Meurunoë lom
+collection-backlogged-crash-reports-link = Meurunoë lom
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+security-enable-safe-browsing-link = Meurunoë lom
+
+## Privacy Section - Certificates
 
