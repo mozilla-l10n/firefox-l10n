@@ -83,6 +83,12 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Tu pote specificar que sitos web es permittite de installar additivos. Scribe le adresse exacte del sito que tu vole permitter e tunc clicca sur Permitter.
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = Sitos web permittite - Reproduction automatic
+    .style = { permissions-window.style }
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
