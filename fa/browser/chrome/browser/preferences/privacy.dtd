@@ -38,8 +38,11 @@
 
 <!ENTITY  suggestionSettings2.label     "تغییر ترجیحات مربوط به پیشنهادهای موتورهای جست‌وجو">
 
+<!ENTITY  acceptCookies4.accesskey      "A">
 
+<!ENTITY  blockCookies.accesskey        "B">
 
+<!ENTITY  acceptThirdParty3.pre.accesskey "y">
 <!ENTITY  acceptThirdParty.always.label   "همیشه">
 <!ENTITY  acceptThirdParty.never.label    "هرگز">
 <!ENTITY  acceptThirdParty.visited.label  "از بازدید">
