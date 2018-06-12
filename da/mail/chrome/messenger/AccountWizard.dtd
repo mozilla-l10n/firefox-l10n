@@ -18,30 +18,56 @@
 <!ENTITY accountTypeNews.label "Nyhedsgruppekonto">
 <!ENTITY accountTypeNews.accesskey "y">
 
+<!-- LOCALIZATION NOTE(accountTypeMovemail.label): do not translate 'Movemail' -->
+<!ENTITY accountTypeMovemail.label "Unix Mailspool (Movemail)">
+<!ENTITY accountTypeMovemail.accesskey "U">
+
 <!-- Entities for Identity page -->
 
 <!ENTITY identityTitle.label "Identitet">
 <!ENTITY identityDesc.label "Hver konto har en identitet, som er de oplysninger andre ser om dig, når de læser dine meddelelser.">
+
+<!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY fullnameDesc.label "Indtast det navn du gerne vil have vist i &quot;Fra&quot; feltet i de meddelelser du sender">
+<!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
+  1, do not translate two of "&quot;"
+  2, Use localized full name instead of "John Smith"
+-->
 <!ENTITY fullnameExample.label "(fx &quot;Jens Hansen&quot;).">
 <!ENTITY fullnameLabel.label "Dit navn:">
 <!ENTITY fullnameLabel.accesskey "n">
+
 <!ENTITY emailLabel.label "Mailadresse:">
 <!ENTITY emailLabel.accesskey "E">
 
-<!-- Entities for Server page -->
+<!-- Entities for Incoming Server page -->
+
 <!ENTITY incomingTitle.label "Oplysninger om indgående server">
 <!ENTITY incomingServerTypeDesc.label "Vælg typen på din indgående server.">
+<!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
+<!ENTITY imapType.label "IMAP">
+<!ENTITY imapType.accesskey "I">
+<!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
+<!ENTITY popType.label "POP">
+<!ENTITY popType.accesskey "P">
+<!ENTITY leaveMsgsOnSrvr.label "Gem meddelelser på serveren">
+<!ENTITY leaveMsgsOnSrvr.accesskey "e">
+<!ENTITY portNum.label "Port:">
+<!ENTITY portNum.accesskey "o">
+<!ENTITY defaultPortLabel.label "Standard:">
+<!ENTITY defaultPortValue.label "">
+<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
 <!ENTITY incomingServer.description "Indtast navnet på din indgående server (fx &quot;mail.eksempel.dk&quot;).">
 <!ENTITY incomingServer.label "Indgående server:">
 <!ENTITY incomingServer.accesskey "S">
-
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
 <!ENTITY incomingUsername.description "Indtast det brugernavn for indgående server, som din mailudbyder har oplyst dig (fx &quot;jsmith&quot;).">
 <!ENTITY incomingUsername.label "Indgående brugernavn:">
 <!ENTITY incomingUsername.accesskey "b">
-
+<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "Indtast navnet på din nyhedsgruppeserver (NNTP) (fx &quot;news.eksempel.dk&quot;).">
+<!ENTITY newsServerLabel.label "Nyhedsgruppeserver:">
+<!ENTITY newsServerLabel.accesskey "N">
 
 <!-- Entities for Outgoing Server page -->
 
@@ -54,41 +80,25 @@
 <!ENTITY outgoingUsername.label "Udgående brugernavn:">
 <!ENTITY outgoingUsername.accesskey "b">
 
-<!ENTITY newsServerLabel.label "Nyhedsgruppeserver:">
-<!ENTITY newsServerLabel.accesskey "N">
-<!ENTITY imapType.label "IMAP">
-<!ENTITY imapType.accesskey "I">
-<!ENTITY popType.label "POP">
-<!ENTITY popType.accesskey "P">
-<!ENTITY leaveMsgsOnSrvr.label "Gem meddelelser på serveren">
-<!ENTITY leaveMsgsOnSrvr.accesskey "e">
-<!ENTITY portNum.label "Port:">
-<!ENTITY portNum.accesskey "o">
-<!ENTITY defaultPortLabel.label "Standard:">
-<!ENTITY defaultPortValue.label "">
-
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
 -->
 <!ENTITY modifyOutgoing.suffix "Du kan ændre indstillingerne for den udgående mailserver i Kontoindstillinger i menuen Funktioner.">
-
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "Din eksisterende udgående mailserver (SMTP), &quot;">
 <!ENTITY haveSmtp1.suffix3 "&quot;, vil blive brugt.">
-
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Brugernavnet på din eksisterende udgående mailserver (SMTP), &quot;">
 <!ENTITY haveSmtp2.suffix3 "&quot;, vil blive brugt.">
-
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Din udgående mailserver (SMTP), &quot;">
 <!ENTITY haveSmtp3.suffix3 "&quot;, er identisk med din indkommende server, dit indkommende brugernavn bliver brugt til at oprette forbindelse.">
@@ -96,6 +106,7 @@
 <!-- Entities for Account name page -->
 
 <!ENTITY accnameTitle.label "Kontonavn">
+<!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
 <!ENTITY accnameDesc.label "Indtast det navn du vil bruge til at referere til denne konto (fx &quot;Arbejdskonto&quot;, &quot;Hjemmekonto&quot; eller &quot;Nyhedskonto&quot;).">
 <!ENTITY accnameLabel.label "Kontonavn:">
 <!ENTITY accnameLabel.accesskey "n">
@@ -115,4 +126,3 @@
 <!ENTITY deferStorage.accesskey "G">
 <!ENTITY clickFinish.label "Klik på Afslut for at gemme disse indstillinger og afslutte Kontoguiden">
 <!ENTITY clickFinish.labelMac "Klik på Færdig for at gemme disse indstillinger og afslutte Kontoguiden.">
-
