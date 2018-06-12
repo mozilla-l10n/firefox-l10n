@@ -571,6 +571,7 @@ history-remember-option-never =
     .label = Ez du historia gogoratuko inoiz
 history-remember-option-custom =
     .label = Ezarpen pertsonalizatuak erabiliko ditu historiarako
+history-remember-description = { -brand-short-name }(e)k zure nabigazio-, deskarga-, inprimaki- eta bilaketa-historia gogoratuko ditu.
 history-dontremember-description = { -brand-short-name }(e)k nabigatze pribatuaren ezarpen berak erabiliko ditu, eta ez du gogoratuko historia webean nabigatzen ari zarenean.
 history-private-browsing-permanent =
     .label = Erabili beti nabigatze pribatuko modua
@@ -598,6 +599,10 @@ history-clear-button =
 
 sitedata-header = Cookieak eta guneetako datuak
 sitedata-total-size-calculating = Gunearen datuen eta cachearen tamaina kalkulatzen…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Gordetako zure cookiek, gunearen datuek eta cacheak une honetan { $value } { $unit } hartzen dute diskoan.
 sitedata-learn-more = Argibide gehiago
 sitedata-accept-cookies-option =
     .label = Onartu webguneetako cookie eta datuak (gomendatua)
@@ -607,6 +612,10 @@ sitedata-block-cookies-option =
     .accesskey = B
 sitedata-keep-until = Mantentze-epea
     .accesskey = M
+sitedata-keep-until-expire =
+    .label = Iraungitzea
+sitedata-keep-until-closed =
+    .label = { -brand-short-name } itxi arte
 sitedata-accept-third-party-desc = Onartu hirugarren guneetako cookie eta datuak
     .accesskey = h
 sitedata-accept-third-party-always-option =
@@ -688,6 +697,12 @@ permissions-notification-link = Argibide gehiago
 permissions-notification-pause =
     .label = Pausatu jakinarazpenak { -brand-short-name } berrabiarazi arte
     .accesskey = n
+permissions-block-autoplay-media =
+    .label = Blokeatu webguneak soinudun multimedia erreproduzitzetik
+    .accesskey = B
+permissions-block-autoplay-media-exceptions =
+    .label = Salbuespenak…
+    .accesskey = S
 permissions-block-popups =
     .label = Blokeatu pop-up leihoak
     .accesskey = B
@@ -714,6 +729,9 @@ collection-health-report =
     .label = Baimendu { -brand-short-name }(r)i datu tekniko eta interakziozkoak { -vendor-short-name }ra bidaltzea
     .accesskey = r
 collection-health-report-link = Argibide gehiago
+collection-studies =
+    .label = Baimendu { -brand-short-name }(e)k esperimentuak instalatu eta exekutatzea
+collection-studies-link = Ikusi { -brand-short-name } esperimentuak
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Datuen berri ematea desgaituta dago eraikitze-konfigurazio honetarako
