@@ -70,6 +70,15 @@
 
 <!ENTITY url_bar_default_text2 "தேடு/முகவரியை உள்ளிடு">
 
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "முகவரியைத் தேட அல்லது உள்ளிட கியூஆர் படிப்பானைப் பயன்படுத்துங்கள்">
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "முகவரியைத் தேட அல்லது உள்ளிட ஒலிவாங்கியைப் பயன்படுத்துங்கள்">
+
 <!ENTITY bookmark "புத்தகக்குறி">
 <!ENTITY bookmark_remove "புத்தகக்குறியை நீக்கு">
 <!ENTITY bookmark_added "புத்தகக்குறி சேர்க்கப்பட்டது">
