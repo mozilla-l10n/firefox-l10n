@@ -62,6 +62,7 @@ can reach it easily. -->
 <!ENTITY  closeTab.label                     "Tab schließen">
 <!ENTITY  closeTab.accesskey                 "c">
 
+<!ENTITY  hiddenTabs.label                   "Ausgeblendete Tabs">
 
 <!ENTITY  listAllTabs.label      "Alle Tabs auflisten">
 
@@ -219,6 +220,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Daten im dauerhaften Speicher speichern">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Browser wird ferngesteuert">
 
+<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Ansicht für Web-Authentifizierung öffnen">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Verwalten des Zugriffs auf Ihre Kamera und/oder Ihr Mikrofon durch diese Website">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Verwalten des Zugriffs auf Ihr Mikrofon durch diese Website">
@@ -297,6 +299,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Element untersuchen">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
+<!ENTITY inspectA11YContextMenu.label     "Barrierefreiheit-Eigenschaften untersuchen">
 
 <!ENTITY fileMenu.label         "Datei">
 <!ENTITY fileMenu.accesskey       "D">
@@ -987,8 +990,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Erweiterung deaktivieren">
 <!ENTITY newTabControlled.disableButton.accesskey "d">
 
+<!ENTITY homepageControlled.message "Eine Erweiterung hat die Homepage geändert. Falls Sie diese Änderung nicht wollen, können Sie die entsprechenden Einstellungen zurücksetzen.">
+<!ENTITY homepageControlled.header.message "Ihre Homepage hat sich geändert.">
+<!ENTITY homepageControlled.keepButton.label "Änderungen behalten">
+<!ENTITY homepageControlled.keepButton.accesskey "b">
 <!ENTITY homepageControlled.disableButton.label "Erweiterung deaktivieren">
+<!ENTITY homepageControlled.disableButton.accesskey "d">
 
+<!ENTITY tabHideControlled.header.message "Auf ausgeblendete Tabs zugreifen">
+<!ENTITY tabHideControlled.keepButton.label "Tabs ausgeblendet belassen">
+<!ENTITY tabHideControlled.keepButton.accesskey "a">
+<!ENTITY tabHideControlled.disableButton.label "Erweiterung deaktivieren">
+<!ENTITY tabHideControlled.disableButton.accesskey "d">
 
 <!ENTITY pageActionButton.tooltip "Aktionen für Seite">
 <!ENTITY pageAction.addToUrlbar.label "Zu Adressleiste hinzufügen">
@@ -1000,6 +1013,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.sendTabToDevice.label "Tab an Gerät senden">
 <!ENTITY sendToDevice.syncNotReady.label "Geräte werden synchronisiert…">
 
+<!ENTITY pageAction.shareUrl.label "Teilen">
 
 <!ENTITY libraryButton.tooltip "Öffnen von Chronik, Lesezeichen und mehr">
 

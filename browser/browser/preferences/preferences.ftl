@@ -45,6 +45,11 @@ policies-notice =
 pane-general-title = Allgemein
 category-general =
     .tooltiptext = { pane-general-title }
+
+pane-home-title = Startseite
+category-home =
+    .tooltiptext = { pane-home-title }
+
 pane-search-title = Suche
 category-search =
     .tooltiptext = { pane-search-title }
@@ -142,6 +147,11 @@ startup-blank-page =
     .label = Leere Seite anzeigen
 startup-prev-session =
     .label = Fenster und Tabs der letzten Sitzung anzeigen
+
+startup-restore-previous-session =
+    .label = Vorherige Sitzung wiederherstellen
+    .accesskey = V
+
 disable-extension =
     .label = Erweiterung deaktivieren
 home-page-header = Startseite
@@ -337,8 +347,33 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = Neue Fenster und Tabs
+
+home-new-windows-tabs-description2 = Legen Sie fest, was als Homepage sowie in neuen Fenstern und Tabs geöffnet wird.
 
 ## Home Section - Home Page Customization
+
+home-homepage-mode-label = Homepage und neue Fenster
+
+home-newtabs-mode-label = Neue Tabs
+
+home-restore-defaults =
+    .label = Standard wiederherstellen
+    .accesskey = w
+
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Firefox-Startseite (Standard)
+
+home-mode-choice-custom =
+    .label = Benutzerdefinierte Adressen…
+
+home-mode-choice-blank =
+    .label = Leere Seite
+
+home-homepage-custom-url =
+    .placeholder = Adresse einfügen…
 
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -448,6 +483,11 @@ sync-signedin-login-failure = Melden Sie sich an, um erneut mit { $email } zu ve
 sync-resend-verification =
     .label = E-Mail zur Verifizierung erneut senden
     .accesskey = V
+
+sync-remove-account =
+    .label = Konto entfernen
+    .accesskey = e
+
 sync-sign-in =
     .label = Anmelden
     .accesskey = m
@@ -509,6 +549,9 @@ privacy-header = Browser-Datenschutz
 ## Privacy Section - Forms
 
 forms-header = Formulare & Passwörter
+forms-ask-to-save-logins =
+    .label = Fragen, ob Zugangsdaten und Passwörter für Websites gespeichert werden sollen
+    .accesskey = Z
 forms-exceptions =
     .label = Ausnahmen…
     .accesskey = u
@@ -580,6 +623,12 @@ sitedata-block-cookies-option =
     .accesskey = b
 sitedata-keep-until = Behalten, bis
     .accesskey = B
+
+sitedata-keep-until-expire =
+    .label = sie nicht mehr gültig sind
+sitedata-keep-until-closed =
+    .label = { -brand-short-name } geschlossen wird
+
 sitedata-accept-third-party-desc = Cookies und Website-Daten von Drittanbietern akzeptieren
     .accesskey = k
 sitedata-accept-third-party-always-option =
