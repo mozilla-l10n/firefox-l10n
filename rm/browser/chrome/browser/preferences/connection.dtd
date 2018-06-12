@@ -7,7 +7,7 @@
 <!ENTITY  window.width2                 "49em">
 <!ENTITY  window.macWidth2              "44em">
 
-<!ENTITY  proxyTitle.label              "Configurar ils proxies per l'access a l'internet">
+<!ENTITY  proxyTitle.label2             "Configuraziun dal proxy server per acceder a l'internet">
 <!ENTITY  noProxyTypeRadio.label        "Nagin proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "N">
 <!ENTITY  systemTypeRadio.label         "Utilisar ils parameters da proxy dal sistem">
