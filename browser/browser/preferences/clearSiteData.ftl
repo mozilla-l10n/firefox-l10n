@@ -5,6 +5,9 @@
 clear-site-data-window =
     .title = Εκκαθάριση δεδομένων
     .style = width: 35em
+clear-site-data-description = Η εκκαθάριση όλων των cookies και των δεδομένων ιστοσελίδων που αποθηκεύονται από το { -brand-short-name } ενδέχεται να σάς αποσυνδέσει από ιστοσελίδες και να αφαιρέσει διαδικτυακό περιεχόμενο εκτός σύνδεσης. Η εκκαθάριση της προσωρινής μνήμης δεν θα επηρεάσει τις συνδέσεις σας.
+clear-site-data-close-key =
+    .key = δ
 # The parameters in parentheses in this string describe disk usage
 # in the format ($amount $unit), e.g. "Cookies and Site Data (24 KB)"
 # Variables:
