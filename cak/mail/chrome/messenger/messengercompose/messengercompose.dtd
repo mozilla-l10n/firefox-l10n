@@ -210,7 +210,7 @@
 <!ENTITY fileHereMenu.label "Yakb'äl Wawe'">
 
 <!-- Tools Menu -->
-<!ENTITY tasksMenu.label "Taq samajib'äl">
+<!ENTITY tasksMenu.label "Samajib'äl">
 <!ENTITY tasksMenu.accesskey "s">
 <!ENTITY messengerCmd.label "Taqoya'l &amp; Taq Rutzijol">
 <!ENTITY messengerCmd.accesskey "m">
@@ -247,7 +247,6 @@
 <!ENTITY sendlaterButton.tooltip "Titaq re rutzijol re' b'a' chik na">
 <!ENTITY quoteButton.tooltip "Tisik'ïx ri jun kan rutzijol">
 <!ENTITY addressButton.tooltip "Ticha' jun k'ulunel pa Kitz'ib'awuj Ochochib'äl">
-<!ENTITY attachButton.tooltip "Titz'aqatisäx jun taqoj">
 <!ENTITY attachButton.tooltip2 "Titz'aqatisäx jun taqoj">
 <!ENTITY spellingButton.tooltip "Tinik'ox rutz'ib'axik cha'oj o chijun ri rutzijol">
 <!ENTITY saveButton.tooltip "Titaq re rutzijol re'">
@@ -275,7 +274,6 @@
      and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
      work, as the shortcut key functionality supersedes the access key. -->
 <!ENTITY attachments.accesskey "m">
-
 <!ENTITY attachmentBucketHeader.tooltip "Rupas Taqoj">
 <!ENTITY attachmentBucketCloseButton.tooltip "Tewäx ri rupas taqoj">
 

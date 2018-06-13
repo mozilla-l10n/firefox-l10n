@@ -119,7 +119,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY sortMenu.accesskey                             "T">
 
 <!-- Tools Menu -->
-<!ENTITY tasksMenu.label                                "Taq samajib'äl">
+<!ENTITY tasksMenu.label                                "Samajib'äl">
 <!ENTITY tasksMenu.accesskey                            "s">
 <!ENTITY messengerCmd.label                             "Taqoya'l &amp; Taq Rutzijol">
 <!ENTITY messengerCmd.accesskey                         "T">
