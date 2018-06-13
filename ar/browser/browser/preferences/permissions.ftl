@@ -83,6 +83,13 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = يمكنك تحديد أي مواقع يسمح لها بتنصيب إضافات. اكتب العنوان الكامل للموقع الذي تريد السماح له و اضغط اسمح.
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = مواقع الوِب المسموح لها - التشغيل التلقائي
+    .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc = يمكنك تحديد المواقع المسموح لها تشغيل عناصر الوسائط تلقائيا. اكتب عنوان الموقع الذي تريد السماح له ثم انقر ”اسمح“.
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =

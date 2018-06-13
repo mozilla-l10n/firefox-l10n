@@ -35,6 +35,9 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "أغلق الألسنة الأخرى">
 <!ENTITY  closeOtherTabs.accesskey           "خ">
 
+<!ENTITY  closeSelectedTabs.label            "أغلق الألسنة المنتقاة">
+<!ENTITY  closeSelectedTabs.accesskey        "غ">
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -54,6 +57,8 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "مصطف (غير متصل)">
 <!ENTITY  moveToNewWindow.label              "انقل إلى نافذة جديدة">
 <!ENTITY  moveToNewWindow.accesskey          "ذ">
+<!ENTITY  reopenInContainer.label            "أعِد فتحها في الحاوية">
+<!ENTITY  reopenInContainer.accesskey        "ع">
 <!ENTITY  bookmarkAllTabs.label              "علّم كل الألسنة…">
 <!ENTITY  bookmarkAllTabs.accesskey          "س">
 <!ENTITY  undoCloseTab.label                 "أعِد فتح اللسان">
@@ -249,6 +254,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "البداية">
 
+<!ENTITY homeButton.defaultPage.tooltip "صفحة &brandShortName; الرئيسية">
+
 <!ENTITY bookmarksButton.label          "العلامات">
 <!ENTITY bookmarksCmd.commandkey "b">
 
@@ -431,6 +438,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY customizeMenu.autoHideDownloadsButton.label "أخفِ تلقائيا في شريط الأدوات">
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "خ">
+<!ENTITY customizeMenu.manageExtension.label "أدِر الامتداد">
+<!ENTITY customizeMenu.manageExtension.accesskey "د">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -792,6 +801,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "المزيد من المعلومات">
 
+<!ENTITY identity.clearSiteData "امسح الكعكات و بيانات المواقع…">
+
 <!ENTITY identity.permissions "التّصاريح">
 <!ENTITY identity.permissionsEmpty "لم تمنح هذا الموقع أي صلاحيات خاصة.">
 <!ENTITY identity.permissionsReloadHint "قد تحتاج إعادة تحميل الصفحة لتطبيق التغييرات.">
@@ -895,6 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "ستُشارك كل النوافذ الظاهرة على شاشتك.">
 
 <!ENTITY trackingProtection.title "الحماية من التعقّب">
+<!ENTITY trackingProtection.tooltip "افتح تفضيلات الحماية من التعقّب">
 <!ENTITY trackingProtection.detectedBlocked3 "يحجب &brandShortName; أجزاءً من الصفحة ربما تتعقب تصفّحك.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "في هذا الموقع عناصر قد تتعقّب تصفّحك. لقد عطّلتَ الحماية.">
 <!ENTITY trackingProtection.notDetected3 "لم تُكتشف أيّة عناصر تعقّب في هذه الصفحة.">
