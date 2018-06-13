@@ -57,6 +57,8 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "Encolado (sin conexión)">
 <!ENTITY  moveToNewWindow.label              "Mover a una nueva ventana">
 <!ENTITY  moveToNewWindow.accesskey          "V">
+<!ENTITY  reopenInContainer.label            "Reabrir en contenedor">
+<!ENTITY  reopenInContainer.accesskey        "r">
 <!ENTITY  bookmarkAllTabs.label              "Añadir pestañas a marcadores…">
 <!ENTITY  bookmarkAllTabs.accesskey          "A">
 <!ENTITY  undoCloseTab.label                 "Deshacer el cierre de la última pestaña">
@@ -904,6 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Se compartirán todas las ventanas visibles en su pantalla.">
 
 <!ENTITY trackingProtection.title "Protección contra rastreo">
+<!ENTITY trackingProtection.tooltip "Abrir preferencias de protección contra rastreo">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; está bloqueando partes de esta página que pueden rastrear su navegación.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Este sitio incluye elementos que pueden rastrear su navegación. Tiene la protección desactivada.">
 <!ENTITY trackingProtection.notDetected3 "No se han detectado elementos de rastreo en esta página.">
