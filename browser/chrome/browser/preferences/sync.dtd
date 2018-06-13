@@ -75,9 +75,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY cancelSetup.label            "取消設定">
 <!ENTITY cancelSetup.accesskey        "p">
 
-<!ENTITY removeAccount.label          "移除帳號">
-<!ENTITY removeAccount.accesskey      "p">
-
 <!ENTITY signedOut.caption            "把 Web 隨身帶著走">
 <!ENTITY signedOut.description        "在您所有裝置間同步書籤、歷史紀錄、分頁、密碼、附加元件與偏好設定。">
 <!ENTITY signedOut.accountBox.title   "連線到 &syncBrand.fxAccount.label;">
@@ -87,7 +84,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin2.accesskey "I">
 
 <!ENTITY signedIn.settings.label       "同步設定">
-<!ENTITY signedIn.settings.description "選擇要同步哪些資料到您其他使用 &brandShortName; 的裝置上。">
+<!ENTITY signedIn.settings.description "請選擇要同步哪些資料到您其他使用 &brandShortName; 的裝置上。">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
