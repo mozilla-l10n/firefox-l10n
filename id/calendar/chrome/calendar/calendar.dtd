@@ -14,6 +14,7 @@
 
 <!ENTITY calendar.today.button.label          "Hari Ini">
 <!ENTITY calendar.tomorrow.button.label       "Besok">
+<!ENTITY calendar.upcoming.button.label       "Mendatang">
 
 <!ENTITY calendar.events.filter.all.label "Semua Acara">
 <!ENTITY calendar.events.filter.today.label "Acara Hari Ini">
