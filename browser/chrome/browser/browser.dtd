@@ -425,10 +425,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Áthelyezés a menübe">
 <!ENTITY customizeMenu.moveToPanel.accesskey "n">
-<!ENTITY customizeMenu.pinToOverflowMenu.label "_Rögzítés a túlcsorduló menühöz">
-<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
-<!ENTITY customizeMenu.unpinFromOverflowMenu.label "_Eltávolítás a túlcsorduló menüből">
-<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "Rögzítés a túlcsorduló menühöz">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "R">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Eltávolítás a túlcsorduló menüből">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "E">
 <!ENTITY customizeMenu.removeFromToolbar.label "Eltávolítás az eszköztárról">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "e">
 <!ENTITY customizeMenu.removeFromMenu.label "Eltávolítás a menüből">
