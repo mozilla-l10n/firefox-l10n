@@ -46,11 +46,11 @@
 <!ENTITY saveFileAsCmd.label          "ఇలా దాచు…">
 <!ENTITY saveFileAsCmd.accesskey      "A">
 
-<!ENTITY closeCmd.label               "మూయి">
+<!ENTITY closeCmd.label               "మూసివేయి">
 <!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "C">
 
-<!ENTITY viewMenu.label               "దర్శించు">
+<!ENTITY viewMenu.label               "వీక్షించు">
 <!ENTITY viewMenu.accesskey           "V">
 
 <!ENTITY lineNumbers.label             "వరుస సంఖ్యలను చూపు">
@@ -59,7 +59,7 @@
 <!ENTITY wordWrap.label                "వ్రాప్ టెక్స్ట్">
 <!ENTITY wordWrap.accesskey            "W">
 
-<!ENTITY highlightTrailingSpace.label     "ట్రెయిలింగ్ స్పేస్ ఉద్దీపించు">
+<!ENTITY highlightTrailingSpace.label     "ట్రెయిలింగ్ స్పేస్ హైలైట్ చేయి">
 <!ENTITY highlightTrailingSpace.accesskey "H">
 
 <!ENTITY largerFont.label             "పెద్ద ఫాంట్">
@@ -124,7 +124,7 @@
 <!ENTITY helpMenuWin.label            "సహాయం">
 <!ENTITY helpMenuWin.accesskey        "H">
 
-<!ENTITY documentationLink.label      "MDN పై స్క్రాచ్‌పాడ్ సహాయం">
+<!ENTITY documentationLink.label      "MDN లో స్క్రాచ్‌పాడ్ సహాయం">
 <!ENTITY documentationLink.accesskey  "D">
 
 
@@ -134,7 +134,7 @@
 <!ENTITY resetContext2.label          "చరరాశులను తిరిగివుంచు">
 <!ENTITY resetContext2.accesskey      "t">
 
-<!ENTITY reloadAndRun.label           "తిరిగిలోడుచేసి నడుపు">
+<!ENTITY reloadAndRun.label           "తిరిగి లోడుచేసి నడుపు">
 <!ENTITY reloadAndRun.accesskey       "e">
 <!ENTITY reloadAndRun.key             "r">
 
