@@ -70,6 +70,15 @@
 
 <!ENTITY url_bar_default_text2 "ابحث أو أدخل عنوانا">
 
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "استخدم قارئ QR للبحث أو لإدخال عنوان">
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "استخدم المِكرفون لديك للبحث أو لإدخال عنوان">
+
 <!ENTITY bookmark "علامة">
 <!ENTITY bookmark_remove "أزل العلامة">
 <!ENTITY bookmark_added "أُضيفت العلامة">
