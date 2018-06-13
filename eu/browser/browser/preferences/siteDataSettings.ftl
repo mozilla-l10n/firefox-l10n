@@ -7,6 +7,7 @@
 
 site-data-settings-window =
     .title = Kudeatu cookieak eta guneetako datuak
+site-data-settings-description = Ondorengo webguneek cookieak eta guneen datuak biltegiratzen dituzte zure ordenagailuan. Biltegiratze iraunkorra duten webguneetako datuak zuk ezabatu arte mantentzen ditu { -brand-short-name }(e)k, eta biltegiratze ez-iraunkorra duten webguneetako datuak tokia behar ahala ezabatzen ditu.
 site-data-search-textbox =
     .placeholder = Bilatu webguneak
     .accesskey = B
