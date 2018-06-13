@@ -88,14 +88,17 @@
 <!ENTITY reorderAttachmentsCmd.label "Omorganiser vedlegg…">
 <!ENTITY reorderAttachmentsCmd.accesskey "O">
 <!ENTITY reorderAttachmentsCmd.key "x">
+<!ENTITY toggleAttachmentPaneCmd.label "Vedleggspanel">
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
      For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
      as attachments.accesskey. -->
+<!ENTITY toggleAttachmentPaneCmd.accesskey "g">
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
      With OS-specific access modifier, this defines the shortcut key for showing/
      hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
      toggleAttachmentPaneCmd.key and attachments.accesskey must be the same
      for the bucket view state machinery to work. -->
+<!ENTITY toggleAttachmentPaneCmd.key "m">
 <!ENTITY selectAllCmd.label "Merk alt">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "M">
@@ -244,7 +247,7 @@
 <!ENTITY sendlaterButton.tooltip "Send meldinga seinare">
 <!ENTITY quoteButton.tooltip "Siter føregåande melding">
 <!ENTITY addressButton.tooltip "Vel mottakar frå ei adressebok">
-<!ENTITY attachButton.tooltip "Ta med vedlegg">
+<!ENTITY attachButton.tooltip2 "Legg til eit vedlegg">
 <!ENTITY spellingButton.tooltip "Kontroller staving av merkt tekst eller heile meldinga">
 <!ENTITY saveButton.tooltip "Lagre meldinga">
 <!ENTITY cutButton.tooltip              "Klipp ut">
@@ -271,7 +274,8 @@
      and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
      work, as the shortcut key functionality supersedes the access key. -->
 <!ENTITY attachments.accesskey "d">
-
+<!ENTITY attachmentBucketHeader.tooltip "Vedleggspanel">
+<!ENTITY attachmentBucketCloseButton.tooltip "Skjul vedleggspanelet">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Set inn smilefjes">
@@ -320,6 +324,8 @@
 <!ENTITY renameAttachment.accesskey "E">
 <!ENTITY reorderAttachments.label "Omorganiser vedlegg…">
 <!ENTITY reorderAttachments.accesskey "O">
+<!ENTITY removeAllAttachments.label "Fjern alle vedlegg">
+<!ENTITY removeAllAttachments.accesskey "v">
 <!ENTITY selectAll.label "Merk alt">
 <!ENTITY selectAll.accesskey "M">
 <!ENTITY attachFile.label "Legg ved filer …">
@@ -339,6 +345,8 @@
 <!-- LOCALIZATION NOTE (initiallyShowAttachmentPane.label):
      Should use the same wording as startExpandedCmd.label
      in msgHdrViewOverlay.dtd. -->
+<!ENTITY initiallyShowAttachmentPane.label "Vis vedleggspanelet i første omgang">
+<!ENTITY initiallyShowAttachmentPane.accesskey "s">
 
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Legg til ordbøker …">
