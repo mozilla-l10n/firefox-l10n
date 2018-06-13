@@ -46,14 +46,14 @@ permissions-capabilities-prompt =
 ## Invalid Hostname Dialog
 
 permissions-invalid-uri-title = Nome de servidor inválido
-permissions-invalid-uri-label = Digite um nome de host válido
+permissions-invalid-uri-label = Digite um nome de servidor válido
 
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-tracking-protection-window =
     .title = Exceções - Proteção contra rastreamento
     .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Você desabilitou a proteção contra rastreamento nestes sites.
+permissions-exceptions-tracking-protection-desc = Você desativou a proteção contra rastreamento nestes sites.
 
 ## Exceptions - Cookies
 
