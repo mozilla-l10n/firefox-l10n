@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xul -->
 
 <!ENTITY addressing.label          "Utforming og adressering">
 <!ENTITY addressingGroupTitle.label "Adressering">
@@ -16,8 +16,8 @@
 <!ENTITY directories.label         "Bruk ein annan LDAP-tenar:">
 <!ENTITY directories.accesskey     "B">
 <!ENTITY directoriesNone.label     "Ingen">
-<!-- am-addressing.xul -->
 
+<!-- am-addressing.xul -->
 
 <!ENTITY compositionGroupTitle.label          "Utforming">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
@@ -28,6 +28,9 @@
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY then.label                           "Sitering:">
 <!ENTITY then.accesskey                       "r">
+<!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY quoting.label                        "Når du siterer,">
+<!ENTITY quoting.accesskey                    "s">
 <!ENTITY aboveQuote.label                     "Start svaret ovanfor den siterte teksten">
 <!ENTITY belowQuote.label                     "Start svaret nedanfor den siterte teksten">
 <!ENTITY selectAndQuote.label                 "Merk den siterte teksten">
