@@ -83,6 +83,13 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Hangi sitelerin eklenti yükleyebileceğini belirleyebilirsiniz. İzin vermek istediğiniz sitenin tam adresini yazdıktan sonra İzin ver’e tıklayın.
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = İzin Verilen Siteler - Otomatik Oynatma
+    .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc = Hangi sitelere medya dosyalarını otomatik oynatma izni vereceğinizi seçebilirsiniz. İzin vermek istediğiniz sitenin tam adresini yazıp İzin ver düğmesine tıklayın.
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
