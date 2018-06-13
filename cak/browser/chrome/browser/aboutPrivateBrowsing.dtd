@@ -2,11 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.title):
-     Please ensure this exactly matches tabs.emptyPrivateTabTitle in tabbrowser.properties -->
-<!ENTITY aboutPrivateBrowsing.title                      "Ichinan Okem pa K'amaya'l">
-<!ENTITY aboutPrivateBrowsing.notPrivate.title           "¿La najäq jun ichinan tzuwäch?">
-
 <!ENTITY aboutPrivateBrowsing.notPrivate                 "Wakami man at k'o ta chupam jun ichinan tzuwäch.">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Tijaq jun ichinan tzuwäch">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "i">
@@ -24,7 +19,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "xtiyak">
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " awichin:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "taq qasanïk">
-<!ENTITY aboutPrivateBrowsing.info.bookmarks             "taq yaketal">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks             "yaketal">
 <!ENTITY aboutPrivateBrowsing.note.before                "Ichinan okem pa k'amaya'l ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "man nub'än ta chawe chi man etaman ta awäch">
 <!ENTITY aboutPrivateBrowsing.note.after                 " pa k'amaya'l. Ri ya'öl ak'amaya'l o ri asamajinel, k'a nitikïr na nutzu' ri taq ruxaq k'amaya'l ri ye'atzu'.">
