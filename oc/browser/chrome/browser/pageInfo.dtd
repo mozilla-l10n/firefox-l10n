@@ -46,19 +46,10 @@
 
 <!ENTITY  feedTab               "Fluxes">
 <!ENTITY  feedTab.accesskey     "F">
-<!ENTITY  feedSubscribe         "S'abonar">
-<!ENTITY  feedSubscribe.accesskey "S">
 
 <!ENTITY  permTab               "Permissions">
 <!ENTITY  permTab.accesskey     "P">
-<!ENTITY  permUseDefault        "Utilizar las valors per defaut">
-<!ENTITY  permAskAlways         "Totjorn demandar">
-<!ENTITY  permAllow             "Autorizar">
-<!ENTITY  permAllowSession      "Autorizar pendent la session">
-<!ENTITY  permHide              "Amagar">
-<!ENTITY  permBlock             "Blocar">
 <!ENTITY  permissionsFor        "Permissions per :">
-<!ENTITY  permPlugins           "Activar los plugins">
 
 <!ENTITY  securityTab           "Seguretat">
 <!ENTITY  securityTab.accesskey "S">
@@ -78,6 +69,7 @@
 <!ENTITY  securityView.privacy.cookies                  "Aqueste site web collècta d'entresenhas (cookies) sus mon ordenador ?">
 <!ENTITY  securityView.privacy.viewCookies              "Veire los cookies">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.siteData                 "Aqueste site web collècta d'informacions sus mon ordenador ?">
 <!ENTITY  securityView.privacy.clearSiteData            "Escafar los cookies e las donadas de site">
 <!ENTITY  securityView.privacy.clearSiteData.accessKey  "E">
 <!ENTITY  securityView.privacy.passwords                "Ai enregistrat un senhal per aqueste site web ?">
