@@ -77,6 +77,7 @@
 <!-- Localization note (url_bar_mic_text2) : This text will be
      heard by non-visual users when the focus is on the Microphone
      icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "સરનામું શોધવા અથવા દાખલ કરવા માટે તમારા માઇક્રો ફોનનો ઉપયોગ કરો">
 
 <!ENTITY bookmark "બુકમાર્ક">
 <!ENTITY bookmark_remove "બુકમાર્ક કાઢો">
@@ -215,6 +216,7 @@
 <!ENTITY pref_category_advanced_summary3 "ટૅબ્સ, ડેટા સેવર, ડેવલપર ટૂલ્સ પુનઃસ્થાપિત કરો">
 <!ENTITY pref_category_notifications "સૂચનાઓ">
 <!ENTITY pref_category_notifications_summary "નવી સુવિધાઓ, વેબસાઇટ અપડેટ્સ">
+<!ENTITY pref_category_notifications_summary2 "નવી સુવિધાઓ, ઉત્પાદન ટીપ્સ">
 <!ENTITY pref_developer_remotedebugging_usb "દૂરસ્થ ડિબગીંગ USB દ્વારા">
 <!ENTITY pref_developer_remotedebugging_wifi "દૂરસ્થ ડિબગીંગ વાય ફાઇ દ્વારા">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi ડિબગીંગ માટે તમારા ઉપકરણને QR કોડ રીડર એપ્લિકેશન ઇન્સ્ટોલ કરવાની જરૂર છે.">
