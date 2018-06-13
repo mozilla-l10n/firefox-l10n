@@ -637,17 +637,27 @@
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.audioCapture.label "L’audio della scheda verrà condiviso.">
 <!ENTITY getUserMedia.allWindowsShared.message "Tutte le finestre visibili sullo schermo verranno condivise.">
+<!ENTITY trackingProtection.on "Protezione antitracciamento: ATTIVA">
+<!ENTITY trackingProtection.off "Protezione antitracciamento: DISATTIVA">
 <!ENTITY trackingProtection.title "Protezione antitracciamento">
 <!ENTITY trackingProtection.tooltip "Apri impostazioni per la protezione antitracciamento">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; sta bloccando elementi della pagina in grado di tracciare la navigazione.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "In questa pagina sono presenti elementi in grado di tracciare la navigazione. La protezione è disattivata.">
+<!ENTITY trackingProtection.detectedNotBlocked4 "Rilevati elementi traccianti in questa pagina.">
+<!ENTITY trackingProtection.notDetected4 "Nessun alemento tracciante rilevato in questa pagina.">
 <!ENTITY trackingProtection.notDetected3 "In questa pagina non sono presenti elementi in grado di tracciare la navigazione.">
 <!ENTITY trackingProtection.unblock.label "Disattiva protezione per questo sito">
 <!ENTITY trackingProtection.unblock.accesskey "D">
+<!ENTITY trackingProtection.unblock2.label "Considera questo sito affidabile">
+<!ENTITY trackingProtection.unblock2.accesskey "C">
 <!ENTITY trackingProtection.unblockPrivate.label "Disattiva protezione per questa sessione">
 <!ENTITY trackingProtection.unblockPrivate.accesskey "D">
 <!ENTITY trackingProtection.block2.label "Attiva protezione">
 <!ENTITY trackingProtection.block2.accesskey "A">
+<!ENTITY trackingProtection.unblockPrivate2.label "Considera questo sito affidabile per questa sessione">
+<!ENTITY trackingProtection.unblockPrivate2.accesskey "f">
+<!ENTITY trackingProtection.block3.label "Attiva protezione antitracciamento">
+<!ENTITY trackingProtection.block3.accesskey "A">
 <!ENTITY pluginNotification.showAll.label "Mostra tutti">
 <!ENTITY pluginNotification.showAll.accesskey "M">
 <!ENTITY pluginActivateNow.label "Consenti adesso">
