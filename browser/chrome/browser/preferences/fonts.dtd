@@ -65,6 +65,7 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "A">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "సంక్రమిత కాంటెంట్ కొరకు పాఠ్యపు ఎన్‌కోడింగు">
+<!ENTITY languages.customize.Fallback3.label      "ఆసరా పాఠ్యపు ఎన్‌కోడింగు">
 <!ENTITY languages.customize.Fallback3.accesskey  "T">
 <!ENTITY languages.customize.Fallback2.desc       "ఏదైనా సంక్రమిత పాఠ్యం దాని ఎన్‌కోడింగును వెల్లడిచేయనప్పుడు ఈ ఎన్‌కోడింగు వాడబడుతుంది.">
 

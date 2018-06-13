@@ -104,6 +104,8 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = సంక్రమిత కాంటెంట్ కొరకు పాఠ్యపు ఎన్‌కోడింగు
 fonts-languages-fallback-desc = ఏదైనా సంక్రమిత పాఠ్యం దాని ఎన్‌కోడింగును వెల్లడిచేయనప్పుడు ఈ ఎన్‌కోడింగు వాడబడుతుంది.
+fonts-languages-fallback-label = ఆసరా పాఠ్యపు ఎన్‌కోడింగు
+    .accesskey = క
 fonts-languages-fallback-name-auto =
     .label = ప్రస్తుత స్థానికపు అప్రమేయం
 fonts-languages-fallback-name-arabic =
