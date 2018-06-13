@@ -49,13 +49,20 @@
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Terima">
+<!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Terima undangan acara">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "Terima semua">
 <!ENTITY lightning.imipbar.btnAdd.label                                     "Tambah">
 <!ENTITY lightning.imipbar.btnDeclineCounter.label                          "Tolak">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Hapus">
+<!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Hapus dari kalender">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Detail…">
+<!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Tampilkan detail acara">
+<!ENTITY lightning.imipbar.btnReconfirm2.label                              "Konfirmasi ulang">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Tentatif">
 <!ENTITY lightning.imipbar.description                                      "Pesan in berisi undangan sebuah acara.">
 
+<!ENTITY lightning.imipbar.btnSend.label                                    "Kirim tanggapan sekarang">
+<!ENTITY lightning.imipbar.btnDontSend.label                                "Jangan kirim tanggapan">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">

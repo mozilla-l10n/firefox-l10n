@@ -165,7 +165,16 @@
 <!ENTITY calendar.context.attendance.occurrence.label           "Item Ini">
 
 <!ENTITY calendar.context.attendance.occ.accepted.label         "Diterima">
+<!ENTITY calendar.context.attendance.occ.declined.label         "Ditolak">
+<!ENTITY calendar.context.attendance.occ.delegated.label        "Diwakilkan">
+<!ENTITY calendar.context.attendance.occ.needsaction.label      "Masih memerlukan tindakan">
+<!ENTITY calendar.context.attendance.occ.completed.label        "Selesai">
 
+<!ENTITY calendar.context.attendance.all.accepted.label         "Diterima">
+<!ENTITY calendar.context.attendance.all.declined.label         "Ditolak">
+<!ENTITY calendar.context.attendance.all.delegated.label        "Diwakilkan">
+<!ENTITY calendar.context.attendance.all.needsaction.label      "Masih memerlukan tindakan">
+<!ENTITY calendar.context.attendance.all.completed.label        "Selesai">
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Kemajuan">
@@ -220,11 +229,14 @@
 <!ENTITY calendar.context.newserver.accesskey          "K">
 <!ENTITY calendar.context.findcalendar.label           "Cari Kalender…" >
 <!ENTITY calendar.context.findcalendar.accesskey       "C" >
+<!ENTITY calendar.context.deleteserver2.label          "Hapus Kalender…">
 
 <!-- LOCALIZATION NOTE (calendar.context.removeserver.label): Removing the
       calendar is the general action of removing it, while deleting means to
       clear the data and unsubscribing means just taking it out of the calendar
       list. -->
+<!ENTITY calendar.context.removeserver.label           "Hapus Kalender…">
+<!ENTITY calendar.context.unsubscribeserver.label      "Berhenti Berlangganan Kalender…">
 <!ENTITY calendar.context.synccalendars.label          "Sinkronkan Kalender">
 <!ENTITY calendar.context.synccalendars.accesskey      "S">
 <!ENTITY calendar.context.publish.label                "Terbitkan Kalender…">
@@ -304,6 +316,7 @@
 <!ENTITY calendarproperties.name.label                     "Nama:">
 <!ENTITY calendarproperties.readonly.label                 "Baca Saja">
 <!ENTITY calendarproperties.firealarms.label               "Tampilkan Alarm">
+<!ENTITY calendarproperties.cache3.label                   "Dukungan Luring">
 <!ENTITY calendarproperties.enabled.label                  "Aktifkan kalender ini">
 <!ENTITY calendarproperties.forceDisabled.label            "Provider kalender ini tidak ditemukan. Ini sering terjadi karena Anda telah menonaktifkan atau menghapus pemasangan pengaya tertentu.">
 <!ENTITY calendarproperties.unsubscribe.label              "Berhenti Langganan">
@@ -344,3 +357,5 @@
 <!ENTITY calendar.error.title "Terjadi kesalahan">
 
 <!-- Extract buttons in message header -->
+<!ENTITY calendar.extract.event.button         "Tambahkan sebagai acara">
+<!ENTITY calendar.extract.task.button          "Tambahkan sebagai tugas">
