@@ -11,7 +11,7 @@ colors-window =
         }
 colors-close-key =
     .key = W
-colors-page-override = Substituir as cores especificadas pela página por suas seleções acima
+colors-page-override = Substituir as cores das páginas pelas selecionadas acima
     .accesskey = S
 colors-page-override-option-always =
     .label = Sempre
