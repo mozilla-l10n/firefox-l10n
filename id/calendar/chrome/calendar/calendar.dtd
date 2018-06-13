@@ -74,6 +74,7 @@
 
 <!ENTITY calendar.newevent.button.label         "Acara Baru" >
 <!ENTITY calendar.newtask.button.label          "Tugas Baru" >
+<!ENTITY calendar.print.button.label            "Cetak" >
 
 <!ENTITY calendar.day.button.label              "Hari" >
 <!ENTITY calendar.week.button.label             "Minggu" >
@@ -163,6 +164,7 @@
 <!ENTITY calendar.context.attendance.menu.accesskey             "d">
 <!ENTITY calendar.context.attendance.occurrence.label           "Item Ini">
 
+<!ENTITY calendar.context.attendance.occ.accepted.label         "Diterima">
 
 
 <!-- Task Context Menu -->
