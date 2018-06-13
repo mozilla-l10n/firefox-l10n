@@ -8,6 +8,7 @@
 <!ENTITY iconsAndText.label       "Ikon og tekst">
 <!ENTITY icons.label              "Ikon">
 <!ENTITY text.label               "Tekst">
+<!ENTITY iconsBesideText.label    "Ikon ved sida av teksten">
 <!ENTITY useSmallIcons.label      "Bruk små ikon">
 <!ENTITY restoreDefaultSet.label  "Bygg oppatt standardinnstilling">
 <!ENTITY addNewToolbar.label      "Legg til ei ny verktøylinje">
