@@ -88,7 +88,7 @@ permissions-exceptions-addons-desc = Hangi sitelerin eklenti yükleyebileceğini
 permissions-exceptions-autoplay-media-window =
     .title = İzin Verilen Siteler - Otomatik Oynatma
     .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = Hangi sitelere medya dosyalarını otomatik oynatma izni vereceğinizi seçebilirsiniz. İzin vermek istediğiniz sitenin tam adresini yazıp İzin ver düğmesine tıklayın.
+permissions-exceptions-autoplay-media-desc = Hangi sitelere medya dosyalarını otomatik oynatma izni vereceğinizi seçebilirsiniz. İzin vermek istediğiniz sitenin tam adresini yazıp “İzin ver” düğmesine tıklayın.
 
 ## Site Permissions - Notifications
 
