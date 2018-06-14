@@ -55,3 +55,9 @@ serviceworker-empty-suggestions = Si le pagina actual debe haber un Laborante de
 # Suggestion to check for errors in the Console to investigate why a service worker is not
 # registered. Clicking on the link opens the webconsole.
 serviceworker-empty-suggestions-console = Cercar errores in le consola. <a>Aperir le consola</a>
+# Suggestion to use the debugger to investigate why a service worker is not registered.
+# Clicking on the link will switch from the Application panel to the debugger.
+serviceworker-empty-suggestions-debugger = Naviga inter le registrationes de to Laborantes de servicio e cerca le exceptiones. <a>Aperir le Depurator</a>
+# Suggestion to go to about:debugging in order to see Service Workers for all domains.
+# Clicking on the link will open about:debugging in a new tab.
+serviceworker-empty-suggestions-aboutdebugging = Inspectar le Laborantes de servicio ex altere dominios. <a>Aperir re:depuration</a>
