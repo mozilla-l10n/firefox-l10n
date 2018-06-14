@@ -27,3 +27,4 @@ blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-name = Guxun' ma riña sa dugumi (sa hua hue'e)
 blocklist-item-moz-std-desc = Ga'nin' da' gàtu sa rugujñu'unj sitio web da' gi'iaj sun hue'é ma.
 blocklist-item-moz-full-name = Gahui' riña sa dugumin
+blocklist-item-moz-full-desc = Gàrun' riña sa nuni'in. Ga'ue si hua da'aj sitio web ni si gi'iaj sun hue'ej.

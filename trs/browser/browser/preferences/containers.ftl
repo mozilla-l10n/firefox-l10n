@@ -2,6 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+containers-window-new =
+    .title = Nuto' kontenedor nakàa
+    .style = width: 45em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update =
+    .title = Daj ga kontenedor { $name }
+    .style = width: 49em
 containers-window-close =
     .key = w
 # This is a term to store style to be applied
@@ -17,6 +25,8 @@ containers-window-close =
 containers-name-label = yuguit
     .accesskey = N
     .style = { -containers-labels-style }
+containers-name-text =
+    .placeholder = Gachun si yugui 'ngo markador
 containers-icon-label = Ikono
     .accesskey = I
     .style = { -containers-labels-style }
@@ -40,7 +50,31 @@ containers-color-red =
     .label = Sa marè
 containers-color-pink =
     .label = Pink
+containers-color-purple =
+    .label = Riña yakàa
 containers-icon-fingerprint =
     .label = Da'nga' ra'a
+containers-icon-briefcase =
+    .label = Maletín
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+containers-icon-dollar =
+    .label = Si da'nga' dólar
+containers-icon-cart =
+    .label = Karrû giran' rasùun
+containers-icon-circle =
+    .label = Puntu
+containers-icon-vacation =
+    .label = Vakasiun
+containers-icon-gift =
+    .label = Sa a'ui' chre'
 containers-icon-food =
     .label = Nihiàa
+containers-icon-fruit =
+    .label = Chruj tsi'ij
+containers-icon-pet =
+    .label = Yuku dugumi'
+containers-icon-tree =
+    .label = Chrun
+containers-icon-chill =
+    .label = Nagi'iaj nuhui'
