@@ -12,9 +12,24 @@
 ### across the developer tools. A good criteria is the language in which you'd find the
 ### best documentation on web development on the web.
 
+# Header for the list of Service Workers displayed in the application panel for the current page.
+serviceworker-list-header = Servicio Laborantes
+# Text displayed next to the list of Service Workers to encourage users to check out
+# about:debugging to see all registered Service Workers.
+serviceworker-list-aboutdebugging = Aperir<a>re:depuration</a> pro Laborantes de servicio ex altere dominios
+# Text for the button to unregister a Service Worker. Displayed for active Service Workers.
+serviceworker-worker-unregister = De-registrar
+# Text for the debug link displayed for an already started Service Worker. Clicking on the
+# link opens a new devtools toolbox for this service worker. The title attribute is only
+# displayed when the link is disabled.
+serviceworker-worker-debug = Depurar
+    .title = D
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start = Initiar
+# Text displayed for the updated time of the service worker. The <time> element will
+# display the last update time of the service worker script.
+serviceworker-worker-updated = Actualisate <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
 # Text displayed next to the URL for the source of the service worker (e-g. "Source my/path/to/worker-js")
 serviceworker-worker-source = Fonte
 # Text displayed next to the current status of the service worker.
@@ -31,3 +46,12 @@ serviceworker-worker-status-stopped = Stoppate
 # Service Worker status. A registering service worker is not yet registered and cannot be
 # started or debugged.
 serviceworker-worker-status-registering = Registration
+# Text displayed when no service workers are visible for the current page. Clicking on the
+# link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
+serviceworker-empty-intro = Tu debe registrar un Laborante de servicio pro lo inspectar ci. <a>Saper plus</a>
+# Text displayed when there are no Service Workers to display for the current page,
+# introducing hints to debug Service Worker issues.
+serviceworker-empty-suggestions = Si le pagina actual debe haber un Laborante de servicio, ecce alcun cosas que tu debe probar
+# Suggestion to check for errors in the Console to investigate why a service worker is not
+# registered. Clicking on the link opens the webconsole.
+serviceworker-empty-suggestions-console = Cercar errores in le consola. <a>Aperir le consola</a>

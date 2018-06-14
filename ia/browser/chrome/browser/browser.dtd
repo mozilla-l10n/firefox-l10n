@@ -57,6 +57,8 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "In fila (sin connexion)">
 <!ENTITY  moveToNewWindow.label              "Mover a un nove fenestra">
 <!ENTITY  moveToNewWindow.accesskey          "f">
+<!ENTITY  reopenInContainer.label            "Reaperir in Container">
+<!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkAllTabs.label              "Adder marcapaginas sur tote le schedas…">
 <!ENTITY  bookmarkAllTabs.accesskey          "m">
 <!ENTITY  undoCloseTab.label                 "Reaperir le ultime scheda claudite">
@@ -904,6 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Tote le fenestras visibile super tu schermo essera compartite.">
 
 <!ENTITY trackingProtection.title "Protection contra le traciamento">
+<!ENTITY trackingProtection.tooltip "Aperir le Preferentias del protection contra le traciamento">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; bloca partes del pagina que pote traciar tu navigation.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Iste sito include elementos que pote traciar tu navigation. Tu ha inactivate le protection.">
 <!ENTITY trackingProtection.notDetected3 "Nulle elementos de traciamento detectate in iste pagina.">
