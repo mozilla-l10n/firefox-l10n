@@ -178,12 +178,22 @@
 <!ENTITY calendar.context.attendance.menu.label                 "Katılım">
 <!ENTITY calendar.context.attendance.menu.accesskey             "ı">
 <!ENTITY calendar.context.attendance.occurrence.label           "Bu sefer">
-<!ENTITY calendar.context.attendance.all.label        "Her sefer" >
-
 <!ENTITY calendar.context.attendance.send.label                 "Şimdi bildirim gönder">
 <!ENTITY calendar.context.attendance.dontsend.label             "Bildirim gönderme">
 <!ENTITY calendar.context.attendance.dontsend.accesskey         "m">
 
+<!ENTITY calendar.context.attendance.occ.accepted.accesskey     "K">
+<!ENTITY calendar.context.attendance.occ.accepted.label         "Kabul edildi">
+<!ENTITY calendar.context.attendance.occ.declined.accesskey     "R">
+<!ENTITY calendar.context.attendance.occ.declined.label         "Reddedildi">
+<!ENTITY calendar.context.attendance.occ.delegated.accesskey    "g">
+<!ENTITY calendar.context.attendance.occ.delegated.label        "Görevlendirildi">
+<!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "H">
+<!ENTITY calendar.context.attendance.occ.needsaction.label      "Hâlâ işlem gerekiyor">
+<!ENTITY calendar.context.attendance.occ.inprogress.accesskey   "D">
+<!ENTITY calendar.context.attendance.occ.inprogress.label       "Devam ediyor">
+<!ENTITY calendar.context.attendance.occ.completed.accesskey    "m">
+<!ENTITY calendar.context.attendance.occ.completed.label        "Tamamlandı">
 
 <!ENTITY calendar.context.attendance.all.accepted.label         "Kabul edildi">
 <!ENTITY calendar.context.attendance.all.declined.label         "Reddedildi">

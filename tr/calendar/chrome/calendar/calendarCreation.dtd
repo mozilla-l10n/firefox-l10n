@@ -38,5 +38,11 @@
 
 <!ENTITY calendartype.label "Takvim türü:">
 <!ENTITY location.label "Konum:">
+<!ENTITY location.placeholder "Takvim sunucusunun URL'si veya ana bilgisayar adı">
 
+<!ENTITY network.loading.description "Lütfen takvimleriniz keşfedilirken bekleyin.">
+<!ENTITY network.notfound.description "Bu konumda takvim bulunamadı. Lütfen ayarlarınızı kontrol edin.">
+<!ENTITY network.authfail.description "Girdiğiniz kimlik bilgileri kabul edilmedi. Lütfen ayarlarınızı kontrol edin.">
 
+<!ENTITY network.subscribe.single.description "Lütfen abone olmak istediğiniz takvimleri seçin.">
+<!ENTITY network.subscribe.multiple.description "Bu konum için birden çok takvim türü var. Lütfen takvim türünü seçip abone olmak istediğiniz takvimleri işaretleyin.">
