@@ -268,8 +268,8 @@ play-drm-content =
     .label = Reproduzir conteúdo controlado por DRM
     .accesskey = R
 play-drm-content-learn-more = Saiba mais
-update-application-title = Atualizações do { -brand-short-name }
-update-application-description = Manter o { -brand-short-name } atualizado para melhor desempenho, estabilidade e segurança.
+update-application-title = Atualização do { -brand-short-name }
+update-application-description = Mantenha o { -brand-short-name } atualizado para melhor desempenho, estabilidade e segurança.
 update-application-info = Versão { $version } <a>Novidades</a>
 update-application-version = Versão { $version } <a data-l10n-name="learn-more">Novidades</a>
 update-history =
