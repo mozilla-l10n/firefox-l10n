@@ -45,6 +45,7 @@
      from messenger.dtd -->
 <!ENTITY lightning.toolbar.appmenuButton.label       "Lañser an arloadoù">
 <!ENTITY lightning.toolbar.appmenuButton1.tooltip    "Diskouez al lañser &brandShortName;">
+<!ENTITY lightning.toolbar.calendarmenu.label        "Penel an deiziataer">
 <!ENTITY lightning.toolbar.calendarmenu.accesskey    "P">
 <!ENTITY lightning.toolbar.calendarpane.label        "Diskouez penel an deiziataer">
 <!ENTITY lightning.toolbar.calendarpane.accesskey    "p">

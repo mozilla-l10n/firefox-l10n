@@ -81,6 +81,8 @@
 <!ENTITY lightning.imipbar.btnSend.tooltiptext                              "Kas ur respont d'an aozer">
 <!ENTITY lightning.imipbar.btnSendSeries.tooltiptext                        "Kas ur respont d'an aozer evit an heuliadennoù a-bezh">
 <!ENTITY lightning.imipbar.btnDontSend.label                                "Chom hep kas ur respont">
+<!ENTITY lightning.imipbar.btnDontSend.tooltiptext                          "Cheñch ho statud perzhiad hep kas respont ebet d'an aozer">
+<!ENTITY lightning.imipbar.btnDontSendSeries.tooltiptext                    "Cheñch ho statud war an heuliadennoù hep kas respont ebet d'an aozer">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
