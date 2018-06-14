@@ -403,6 +403,7 @@
 <!ENTITY read.only.category.label        "Rummad:">
 <!ENTITY read.only.organizer.label       "Aozer:">
 <!ENTITY read.only.reminder.label        "Koun:">
+<!ENTITY read.only.attachments.label     "Kenstagadurioù:">
 <!ENTITY read.only.attendees.label       "Perzhidi">
 <!ENTITY read.only.description.label     "Deskrivadur">
 <!ENTITY read.only.link.label            "Ere kar">
@@ -411,6 +412,7 @@
 <!ENTITY summary.dialog.saveclose.label         "Enrollañ ha serriñ">
 <!ENTITY summary.dialog.accept.label            "Asantiñ">
 <!ENTITY summary.dialog.accept.tooltiptext      "Asantiñ ar bedadenn">
+<!ENTITY summary.dialog.tentative.label         "Argeziad">
 <!ENTITY summary.dialog.decline.label           "Nac'hañ">
 <!ENTITY summary.dialog.decline.tooltiptext     "Nac'hañ ar bedadenn">
 <!ENTITY summary.dialog.dontsend.label          "Chom hep kas ur respont">

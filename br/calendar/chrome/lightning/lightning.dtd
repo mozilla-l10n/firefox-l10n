@@ -69,12 +69,18 @@
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Kas un adkadarnadur d'an aozer">
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Enrollañ un eilad">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Enrollañ un eilad eus an darvoud war an deiziataer, distag eus ur respont d'an aozer. Roll ar berzhidi a vo goullonderet.">
+<!ENTITY lightning.imipbar.btnTentative.label                               "Argeziad">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Asantiñ ar bedadenn zarvoud evit ar mare">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Argeziad all">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Asantiñ ar bedadenn zarvoud evit holl reveziadennoù an darvoud evit ar mare">
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "Hizivaat">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Hizivaat an darvoud en deiziataer">
 <!ENTITY lightning.imipbar.description                                      "Ur bedadenn d'un darvoud a zo endalc'het er gemennadenn-mañ.">
 
+<!ENTITY lightning.imipbar.btnSend.label                                    "Kas ur respont bremañ">
+<!ENTITY lightning.imipbar.btnSend.tooltiptext                              "Kas ur respont d'an aozer">
+<!ENTITY lightning.imipbar.btnSendSeries.tooltiptext                        "Kas ur respont d'an aozer evit an heuliadennoù a-bezh">
+<!ENTITY lightning.imipbar.btnDontSend.label                                "Chom hep kas ur respont">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
