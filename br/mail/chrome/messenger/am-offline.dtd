@@ -5,8 +5,7 @@
 <!ENTITY doNotDownloadPop3Movemail.label "A-benn espern an egor kantenn, chom hep pellgargañ :">
 <!ENTITY doNotDownloadNntp.label "A-benn espern an egor kantenn, chom hep pellgargañ evit an arver ezlinenn :">
 <!ENTITY doNotDownloadImap.label "A-benn espern an egor kantenn, ar pellgargadur c'hemennadennoù diouzh an dafariad hag an eiladoù lec'hel evit an arver ezlinenn a c'hell bezañ strishaet dre oad pe ment.">
-<!ENTITY allFoldersOffline.label "Mirout ar c'hemennadennoù evit ar gont-mañ war an urzhiataer-mañ">
-<!ENTITY allFoldersOffline.accesskey "o">
+<!ENTITY allFoldersOffline2.accesskey "o">
 <!ENTITY offlineNotDownload.label "Kemennadennoù brasoc'h eget">
 <!ENTITY offlineNotDownload.accesskey "m">
 <!ENTITY autosyncNotDownload.label "Na bellgargañ kemennadennoù brasoc'h eget">
@@ -37,13 +36,13 @@
 <!ENTITY offlineImapAdvancedOffline.accesskey "e">
 <!ENTITY syncGroupTitle.label "Goubredañ ar c'hemennadennoù">
 <!ENTITY diskspaceGroupTitle.label "Egor kantenn">
+
 <!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
   The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
   on a single line within the scope of useAutosync.ByAge as follows:
 
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
-
 <!ENTITY allAutosync.label               "Goubredañ an holl gemennadennoù ent lec'hel hep dezverk oad">
 <!ENTITY allAutosync.accesskey           "o">
 <!ENTITY ageAutosyncBefore.label         "Goubredañ ar c'hemennadennoù nevesañ">

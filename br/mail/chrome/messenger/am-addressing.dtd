@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xul -->
 
 <!ENTITY addressing.label          "Aozañ ha chomlec'hiañ">
 <!ENTITY addressingGroupTitle.label "Chomlec'hiañ">
@@ -16,8 +16,8 @@
 <!ENTITY directories.label         "Ober gant un dafariad LDAP disheñvel :">
 <!ENTITY directories.accesskey     "D">
 <!ENTITY directoriesNone.label     "Tra ebet">
-<!-- am-addressing.xul -->
 
+<!-- am-addressing.xul -->
 
 <!ENTITY compositionGroupTitle.label          "Aozadur">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
@@ -28,6 +28,8 @@
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY then.label                           "Neuze,">
 <!ENTITY then.accesskey                       "z">
+<!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY quoting.accesskey                    "q">
 <!ENTITY aboveQuote.label                     "lec'hiañ ma respont war-lein an destenn meneget">
 <!ENTITY belowQuote.label                     "lec'hiañ ma respont dindan an destenn meneget">
 <!ENTITY selectAndQuote.label                 "diuzañ an destenn meneget">

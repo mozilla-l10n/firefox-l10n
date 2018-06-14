@@ -1,13 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Entities for AccountWizard -->
 
+<!-- Entities for AccountWizard -->
 
 <!ENTITY windowTitle.label "Skoazeller kontoù">
 <!ENTITY accountWizard.size "width: 50em; height: 40em;">
-<!-- Entities for Account Type page -->
 
+<!-- Entities for Account Type page -->
 
 <!ENTITY accountSetupInfo2.label "Ret eo deoc'h krouiñ ur gont evit degemer kemennadennoù.">
 <!ENTITY accountTypeTitle.label "Aozañ kontoù nevez">
@@ -17,13 +17,16 @@
 <!ENTITY accountTypeMail.accesskey "p">
 <!ENTITY accountTypeNews.label "Kont ar strolladoù-keleier">
 <!ENTITY accountTypeNews.accesskey "s">
-<!-- Entities for Identity page -->
 
+<!-- LOCALIZATION NOTE(accountTypeMovemail.label): do not translate 'Movemail' -->
+<!ENTITY accountTypeMovemail.accesskey "U">
+
+<!-- Entities for Identity page -->
 
 <!ENTITY identityTitle.label "Titouroù ar gont">
 <!ENTITY identityDesc.label "Pep kont he deus titouroù arbennik a servijo d'ober an diforc'h etrezoc'h-c'hwi hag ar re all pa resevot kemennadennoù.">
-<!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 
+<!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY fullnameDesc.label "Roit pe anv a fell deoc&apos;h gwelout e-barzh ar vaezienn &quot;A-berzh&quot; pa vez kaset kemennadennoù ganeoc&apos;h.">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
   1, do not translate two of "&quot;"
@@ -35,8 +38,8 @@
 
 <!ENTITY emailLabel.label "Chomlec'h postel :">
 <!ENTITY emailLabel.accesskey "e">
-<!-- Entities for Incoming Server page -->
 
+<!-- Entities for Incoming Server page -->
 
 <!ENTITY incomingTitle.label "Titouroù an dafariad degemer">
 <!ENTITY incomingServerTypeDesc.label "Diuzit rizh an dafariad degemer a vo implijet ganeoc'h.">
@@ -64,8 +67,8 @@
 <!ENTITY newsServerNameDesc.label "Roit anv ho tafariad strolladoù-keleier (NNTP) (&quot;news.skouer.net&quot; da skouer).">
 <!ENTITY newsServerLabel.label "Dafariad strolladoù-keleier :">
 <!ENTITY newsServerLabel.accesskey "D">
-<!-- Entities for Outgoing Server page -->
 
+<!-- Entities for Outgoing Server page -->
 
 <!ENTITY outgoingTitle.label "Titouroù an dafariad kas">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
@@ -75,10 +78,10 @@
 <!ENTITY outgoingUsername.description "Bizskrivit anv an arveriad kas roet gant ho pourchaser postelerezh (ar memes anv hag hoc'h anv degemer eo da gustum).">
 <!ENTITY outgoingUsername.label "Anv an arveriad kas :">
 <!ENTITY outgoingUsername.accesskey "n">
+
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
 -->
-
 <!ENTITY modifyOutgoing.suffix "Daskemmet e vez an dafariadoù kas dre arventennoù kont.">
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
@@ -98,16 +101,16 @@
 -->
 <!ENTITY haveSmtp3.prefix "Peurheñvel eo ho tafariad kas (SMTP), &quot;">
 <!ENTITY haveSmtp3.suffix3 "&quot;, ouzh ho tafariad degemer. Arveret e vo anv arveriad ho tafariad da zont tre evit haeziñ eñ.">
-<!-- Entities for Account name page -->
 
+<!-- Entities for Account name page -->
 
 <!ENTITY accnameTitle.label "Anv kont">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
 <!ENTITY accnameDesc.label "Bizskrivit an anv a servijo da zaveiñ ar gont-mañ (da skouer, &quot;Kont Labour&quot;, &quot;Kont Ger&quot; pe &quot;Kont Strollad-Keleier&quot;).">
 <!ENTITY accnameLabel.label "Anv ar gont :">
 <!ENTITY accnameLabel.accesskey "A">
-<!-- Entities for Done (Congratulations) page -->
 
+<!-- Entities for Done (Congratulations) page -->
 
 <!ENTITY completionTitle.label "Gourc'hemennoù !">
 <!ENTITY completionText.label "Gwiriit eo reizh an titouroù a heul.">

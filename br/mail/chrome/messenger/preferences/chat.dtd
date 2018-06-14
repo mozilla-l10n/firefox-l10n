@@ -2,17 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  generalTab.label            "Hollek">
+
 <!ENTITY  startupAction.label         "Pa loc'h &brandShortName; :">
 <!ENTITY  startupAction.accesskey     "l">
 <!ENTITY  startupOffline.label        "Mirout ma c'hontoù postelerezh prim ezlinenn">
 <!ENTITY  startupConnectAuto.label    "Kennaskañ ma c'hontoù postelerezh prim ent emgefreek">
+
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
 there's a field where the user can enter a number, and itemTime is
 displayed at the end of the line. The translations of the
 reportIdleAfter.label and idleTime parts don't have to mean the exact
 same thing as in English; please try instead to translate the whole
 sentence. -->
-
 <!ENTITY  reportIdleAfter.label         "Reiñ da c'houzout da'm darempredoù ez eo dioberiant ma c'hont goude">
 <!ENTITY  reportIdleAfter.accesskey     "R">
 <!ENTITY  idleTime                      "a vunutennoù eus dioberiantiz">
@@ -29,6 +31,8 @@ sentence. -->
 <!ENTITY  completeNotification.label          "gant anv ar c'haser hag alberz ar gemennadenn">
 <!ENTITY  buddyInfoOnly.label                 "gant anv ar c'haser nemetken">
 <!ENTITY  dummyNotification.label             "hep titour ebet">
+<!ENTITY  getAttention.accesskey              "F">
+<!ENTITY  getAttentionMac.accesskey           "o">
 <!ENTITY  chatSound.accesskey                 "S">
 <!ENTITY  chatSound.label                     "Seniñ ur son">
 <!ENTITY  play.label                          "Lenn">
@@ -40,3 +44,16 @@ sentence. -->
 <!ENTITY  browse.label                        "Furchal…">
 <!ENTITY  browse.accesskey                    "F">
 
+<!ENTITY messageStylePreview.label         "Alberz:">
+<!ENTITY messageStyleTheme.label           "Neuz:">
+<!ENTITY messageStyleTheme.accesskey       "T">
+<!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
+<!ENTITY messageStyleBubblesTheme.label    "Lagadennoù">
+<!ENTITY messageStyleDarkTheme.label       "Teñval">
+<!ENTITY messageStyleSimpleTheme.label     "Eeun">
+<!ENTITY messageStyleDefaultTheme.label    "Diouer">
+<!ENTITY messageStyleVariant.label         "Variezon:">
+<!ENTITY messageStyleVariant.accesskey     "V">
+<!ENTITY messageStyleShowHeader.label      "Diskouez talbenn">
+<!ENTITY messageStyleShowHeader.accesskey  "H">
+<!ENTITY messageStyleNoPreview.title       "Alberz ebet hegerz">

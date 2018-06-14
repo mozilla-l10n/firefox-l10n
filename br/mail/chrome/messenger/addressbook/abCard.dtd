@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY Contact.tab                     "Darempred">
+<!ENTITY Contact.accesskey               "C">
 <!ENTITY Name.box                        "Anv">
 
 <!-- LOCALIZATION NOTE:
@@ -62,6 +63,7 @@
 <!ENTITY HomeAddress.label              "Chomlec'h:">
 <!ENTITY HomeAddress.accesskey          "d">
 <!ENTITY HomeAddress2.label             "">
+<!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "Kêr:">
 <!ENTITY HomeCity.accesskey             "y">
 <!ENTITY HomeState.label                "Stad/Rannvro:">
@@ -74,9 +76,11 @@
 <!ENTITY HomeWebPage.accesskey          "e">
 <!ENTITY Birthday.label                 "Deiz-ha-bloaz:">
 <!ENTITY Birthday.accesskey             "B">
+<!ENTITY In.label                       "">
 <!ENTITY Year.placeholder               "Bloavezh">
 <!ENTITY Or.value                       "pe">
 <!ENTITY Age.placeholder                "Oad">
+<!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Labour">
 <!ENTITY Work.accesskey                 "W">
@@ -88,6 +92,8 @@
 <!ENTITY Company.accesskey              "n">
 <!ENTITY WorkAddress.label              "Chomlec'h:">
 <!ENTITY WorkAddress.accesskey          "d">
+<!ENTITY WorkAddress2.label             "">
+<!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label                 "Kêr:">
 <!ENTITY WorkCity.accesskey             "y">
 <!ENTITY WorkState.label                "Stad/Rannvro:">
