@@ -5,8 +5,8 @@
 <!ENTITY addressbookWindow.title                        "Karned chomlec'hioù">
 <!ENTITY blankResultsPaneMessage.label                  "N'eo diskouezet an darempredoù er c'harned-mañ nemet pa vez klasket">
 <!ENTITY localResultsOnlyMessage.label                  "Ne vo ket diskouezet an darempredoù o tont eus karnedoù chomlec'hioù a-bell a-raok ma vefe klasket">
-<!-- File Menu -->
 
+<!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Restr">
 <!ENTITY fileMenu.accesskey                             "R">
 <!ENTITY newMenu.label                                  "Nevez">
@@ -40,8 +40,8 @@
 <!ENTITY printContactCmd.key                            "P">
 <!ENTITY printAddressBook.label                         "Moullañ ar c'harned posteloù…">
 <!ENTITY printAddressBook.accesskey                     "a">
-<!-- Edit Menu -->
 
+<!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Embann">
 <!ENTITY editMenu.accesskey                             "E">
 <!ENTITY undoCmd.label                                  "Dizober">
@@ -85,8 +85,8 @@
 <!ENTITY contactPropertiesMenu.accesskey                "d">
 <!ENTITY mailingListPropertiesMenu.label                "Perzhioù ar roll skignañ">
 <!ENTITY mailingListPropertiesMenu.accesskey            "i">
-<!-- View Menu -->
 
+<!-- View Menu -->
 <!ENTITY viewMenu.label                                 "Gwelout">
 <!ENTITY viewMenu.accesskey                             "w">
 <!ENTITY viewToolbarsMenu.label                         "Barrennoù ostilhoù">
@@ -117,13 +117,16 @@ because displayed names don't have the comma in between. -->
 <!ENTITY displayNameCmd.accesskey                       "d">
 <!ENTITY sortMenu.label                                 "Rummañ dre">
 <!ENTITY sortMenu.accesskey                             "R">
-<!-- Tools Menu -->
 
+<!-- Tools Menu -->
 <!ENTITY tasksMenu.label                                "Ostilhoù">
 <!ENTITY tasksMenu.accesskey                            "O">
 <!ENTITY messengerCmd.label                             "Posteloù ha strolladoù-keleier">
 <!ENTITY messengerCmd.accesskey                         "P">
 <!ENTITY messengerCmd.commandkey                        "1">
+<!ENTITY addressBookCmd.label                           "Karned chomlec'hioù">
+<!ENTITY addressBookCmd.accesskey                       "a">
+<!ENTITY addressBookCmd.key                             "B">
 <!ENTITY searchAddressesCmd.label                       "Klask posteloù…">
 <!ENTITY searchAddressesCmd.accesskey                   "s">
 <!ENTITY importCmd.label                                "Enporzhiañ…">
@@ -134,8 +137,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY preferencesCmd2.accesskey                      "D">
 <!ENTITY preferencesCmdUnix.label                       "Gwellvezioù">
 <!ENTITY preferencesCmdUnix.accesskey                   "w">
-<!-- Address Book Toolbar and Context Menus -->
 
+<!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "Darempred nevez">
 <!ENTITY newContactButton.accesskey                     "a">
 <!ENTITY newlistButton.label                            "Roll nevez">
@@ -159,8 +162,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY printButton.accesskey                          "M">
 <!ENTITY deleteButton2.label                            "Dilemel">
 <!ENTITY deleteButton2.accesskey                        "D">
-<!-- Address Book Toolbar Tooltips -->
 
+<!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Krouiñ un darempred nevez">
 <!ENTITY newlistButton.tooltip                          "Krouiñ ur roll nevez">
 <!ENTITY editPropertiesButton.tooltip                   "Embann an elfenn diuzet">
@@ -170,18 +173,18 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "Kas ur postel">
 <!ENTITY newIM.tooltip                                  "Kas ur gemennadenn diadaol pe flapañ">
 <!ENTITY deleteButton2.tooltip                          "Dilemel an elfenn diuzet">
+
 <!-- Dir Tree header -->
-
 <!ENTITY dirTreeHeader.label                            "Karnedoù chomlec'hioù">
-<!-- Search Bar -->
 
+<!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Anv pe bostel :">
 <!ENTITY SearchNameOrEmail.accesskey                    "n">
 <!ENTITY advancedButton.tooltip                         "Klask postel kempleshoc'h">
 <!ENTITY quickSearchCmd.key                             "k">
 <!ENTITY searchItem.title "Klask prim">
-<!-- Results Pane -->
 
+<!-- Results Pane -->
 <!ENTITY Addrbook.label                                 "Karned chomlec'hioù…">
 <!ENTITY Addrbook.accesskey                             "c">
 <!ENTITY GeneratedName.label                            "Anv">
@@ -216,9 +219,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY sortDescending.accesskey                       "W">
 <!ENTITY _PhoneticName.label                            "Anv soniadel">
 <!ENTITY _PhoneticName.accesskey                        "o">
+
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
-
 <!ENTITY contact.heading                                "Darempred">
 <!ENTITY home.heading                                   "Er gêr">
 <!ENTITY other.heading                                  "All">
@@ -231,11 +234,11 @@ because displayed names don't have the comma in between. -->
 <!-- For Map It! -->
 <!ENTITY mapItButton.label                              "Kerc'hat ar gartenn">
 <!ENTITY mapIt.tooltip                                  "Skrammañ ur gartenn eus ar chomlec'h-mañ diouzh internet">
+
 <!-- Status Bar -->
-
 <!ENTITY statusText.label                               "">
-<!--  Mac OS X Window Menu -->
 
+<!--  Mac OS X Window Menu -->
 <!ENTITY windowMenu.label                               "Prenestr">
 <!ENTITY minimizeWindow.label                           "Bihanaat ar prenestr">
 <!ENTITY minimizeWindow.key                             "m">
