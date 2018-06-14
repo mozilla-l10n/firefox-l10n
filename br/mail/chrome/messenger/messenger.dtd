@@ -471,6 +471,7 @@
 <!ENTITY addonPrefs.accesskey "O">
 <!ENTITY addonPrefsUnix.label "Arventennoù ar molladoù">
 <!ENTITY addonPrefsUnix.accesskey "P">
+<!ENTITY addonNoPrefs.label "N'eus bet kavet gwellvezioù mollad ebet.">
 <!ENTITY activitymanager.label "Oberiantiz">
 <!ENTITY activitymanager.accesskey "O">
 <!ENTITY imAccountsStatus.label "Stadoù ar postelerezh prim">
@@ -514,6 +515,7 @@
 <!ENTITY devToolboxCmd.label "Barrenn ostilhoù an diorroer">
 <!ENTITY devToolboxCmd.accesskey "o">
 <!ENTITY devToolboxCmd.commandkey "i">
+<!ENTITY debugAddonsCmd.label "Diveugañ an askouezhioù">
 <!ENTITY debugAddonsCmd.accesskey "A">
 <!ENTITY tabsDebugCmd.label "Diveuger frammad endalc'had">
 <!ENTITY tabsDebugCmd.accesskey "f">
@@ -647,6 +649,7 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Kerc'hat ar posteloù">
 <!ENTITY folderContextGetMessages.accesskey "K">
+<!ENTITY folderContextMarkAllFoldersRead.label "Merkañ an holl deuliadoù evel lennet">
 <!ENTITY folderContextPauseAllUpdates.label "Ehanañ an holl hizivadurioù">
 <!ENTITY folderContextPauseUpdates.label "Ehanañ an hizivadurioù">
 <!ENTITY folderContextPauseUpdates.accesskey "h">
@@ -763,6 +766,7 @@
 <!ENTITY contextEditMsgAsNew.label "Embann evel ur gemennadenn nevez">
 <!ENTITY contextEditMsgAsNew.accesskey "E">
 <!ENTITY contextEditDraftMsg.label "Embann ar brouilhed kemennadenn">
+<!ENTITY contextEditTemplate.label "Aozañ ar patrom">
 <!ENTITY contextEditTemplate.accesskey "T">
 <!ENTITY contextArchive.label "Diellaouiñ">
 <!ENTITY contextArchive.accesskey "i">

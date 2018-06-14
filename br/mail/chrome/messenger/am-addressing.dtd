@@ -29,6 +29,7 @@
 <!ENTITY then.label                           "Neuze,">
 <!ENTITY then.accesskey                       "z">
 <!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY quoting.label                        "En ur venegiñ,">
 <!ENTITY quoting.accesskey                    "q">
 <!ENTITY aboveQuote.label                     "lec'hiañ ma respont war-lein an destenn meneget">
 <!ENTITY belowQuote.label                     "lec'hiañ ma respont dindan an destenn meneget">

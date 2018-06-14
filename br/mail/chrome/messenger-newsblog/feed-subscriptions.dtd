@@ -11,6 +11,7 @@
 
 <!ENTITY feedLocation.label          "URL al lanv:">
 <!ENTITY feedLocation.accesskey      "U">
+<!ENTITY feedLocation2.placeholder   "Enankit un url lanv direizh">
 <!ENTITY locationValidate.label      "Talvoudañ">
 <!ENTITY validateText.label          "Gwiriañ talvoud al lanv.">
 

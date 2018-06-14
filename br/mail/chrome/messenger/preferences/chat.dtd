@@ -44,12 +44,14 @@ sentence. -->
 <!ENTITY  browse.label                        "Furchal…">
 <!ENTITY  browse.accesskey                    "F">
 
+<!ENTITY messageStyleTab.title             "Stiloù kemennadenn">
 <!ENTITY messageStylePreview.label         "Alberz:">
 <!ENTITY messageStyleTheme.label           "Neuz:">
 <!ENTITY messageStyleTheme.accesskey       "T">
 <!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
 <!ENTITY messageStyleBubblesTheme.label    "Lagadennoù">
 <!ENTITY messageStyleDarkTheme.label       "Teñval">
+<!ENTITY messageStylePaperSheetsTheme.label "Follennoù paper">
 <!ENTITY messageStyleSimpleTheme.label     "Eeun">
 <!ENTITY messageStyleDefaultTheme.label    "Diouer">
 <!ENTITY messageStyleVariant.label         "Variezon:">
