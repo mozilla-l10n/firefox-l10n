@@ -645,7 +645,7 @@
 <!ENTITY trackingProtection.detectedNotBlocked3 "In questa pagina sono presenti elementi in grado di tracciare la navigazione. La protezione è disattivata.">
 <!ENTITY trackingProtection.detectedNotBlocked4 "Rilevati elementi traccianti in questa pagina.">
 <!ENTITY trackingProtection.notDetected3 "In questa pagina non sono presenti elementi in grado di tracciare la navigazione.">
-<!ENTITY trackingProtection.notDetected4 "Nessun alemento tracciante rilevato in questa pagina.">
+<!ENTITY trackingProtection.notDetected4 "Nessun elemento tracciante rilevato in questa pagina.">
 <!ENTITY trackingProtection.reloadRequired "La protezione antitracciamento è ora attiva. Per bloccare tutti gli elementi traccianti ricaricare la pagina.">
 <!ENTITY trackingProtection.unblock.label "Disattiva protezione per questo sito">
 <!ENTITY trackingProtection.unblock.accesskey "D">
