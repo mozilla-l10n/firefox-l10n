@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY restartRequired.title "Yêu cầu Khởi động lại">
+
+<!ENTITY restartRequired.header "Xin lỗi. Chúng tôi chỉ cần làm một việc nho nhỏ để tiếp tục.">
+<!ENTITY restartRequired.description "
+<p>Chúng tôi vừa mới cập nhật ở chế độ nền. Click Khởi động lại &brandShortName; để áp dụng các thay đổi.</p>
+<p>Chúng tôi sẽ khôi phục tất cả các trang, cửa sổ và thẻ của bạn trước đó, do đó bạn có thể tiếp tục công việc một cách nhanh chóng.</p>
+">
+
+<!ENTITY restartButton.label "Khởi động lại &brandShortName;">
