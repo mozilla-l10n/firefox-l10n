@@ -36,6 +36,12 @@
 <!ENTITY newFeedAccountCmd.accesskey "l">
 <!ENTITY newIMContactCmd.label "Kont darempred…">
 <!ENTITY newIMContactCmd.accesskey "n">
+<!ENTITY  newMessageCmd2.key "N">
+<!ENTITY  newMessageCmd.key "M">
+<!ENTITY  newMessageCmd.label "Kemennadenn">
+<!ENTITY  newMessageCmd.accesskey "m">
+<!ENTITY  newContactCmd.label "Darempred ar c'harned chomlec'hioù…">
+<!ENTITY  newContactCmd.accesskey "C">
 <!ENTITY openMessageFileCmd.label "Digeriñ ar gemennadenn enrollet …">
 <!ENTITY openMessageFileCmd.accesskey "o">
 <!ENTITY saveAsMenu.label "Enrollañ evel">
@@ -317,7 +323,7 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Postelerezh prim">
 <!ENTITY goChatCmd.accesskey "P">
-<!ENTITY goChatCmd.key "I">
+<!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Kemennadenn gant ur steredenn">
 <!ENTITY prevStarredMsgCmd.accesskey "s">
 <!ENTITY folderMenu.label "Teuliad">
@@ -366,6 +372,8 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Embann ar brouilhed kemennadenn">
 <!ENTITY editDraftMsgCmd.accesskey "b">
+<!ENTITY editTemplateMsgCmd.label "Aozañ ar patrom">
+<!ENTITY editTemplateMsgCmd.accesskey "T">
 <!ENTITY newMsgFromTemplateCmd.label "Kemennadenn nevez diwar ur patrom">
 <!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Sevel ur sil diouzh ar gemennadenn…">
@@ -459,6 +467,8 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Askouezhioù">
 <!ENTITY addons.accesskey "A">
+<!ENTITY addonPrefs.label "Ouzhpennañ dibarzhioù">
+<!ENTITY addonPrefs.accesskey "O">
 <!ENTITY activitymanager.label "Oberiantiz">
 <!ENTITY activitymanager.accesskey "O">
 <!ENTITY imAccountsStatus.label "Stadoù ar postelerezh prim">
@@ -502,8 +512,6 @@
 <!ENTITY devToolboxCmd.label "Barrenn ostilhoù an diorroer">
 <!ENTITY devToolboxCmd.accesskey "o">
 <!ENTITY devToolboxCmd.commandkey "i">
-<!ENTITY addonDebugCmd.label "Diveuger Enlugelladoù">
-<!ENTITY addonDebugCmd.accesskey "E">
 <!ENTITY tabsDebugCmd.label "Diveuger frammad endalc'had">
 <!ENTITY tabsDebugCmd.accesskey "f">
 <!ENTITY errorConsoleCmd.label "Penel ar fazioù">
@@ -859,7 +867,7 @@
   -->
 <!ENTITY quickSearchCmd.key "k">
 <!-- LOCALIZATION NOTE (search.label.base1):
-      This is the base of the empty text for the global search box. We replace
+     This is the base of the empty text for the global search box. We replace
      #1 with the contents of the appropriate search.keyLabel.* value for the
      platform.
      The goal is to convey to the user that typing in the box will allow them
