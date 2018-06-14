@@ -5,8 +5,6 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Per spargnar capacitad da memorisar, betg telechargiar:">
 <!ENTITY doNotDownloadNntp.label "Per spargnar capacitad da memorisar, betg telechargiar per l'utilisaziun senza connexiun:">
 <!ENTITY doNotDownloadImap.label "Per spargnar capacitad da memorisar, pon ins limitar tenor criteris da temp e grondezza il telechargiar da messadis dal server IMAP ed il preservar da copias localas per leger senza connexiun.">
-<!ENTITY allFoldersOffline.label "Preservar messadis per quest conto sin quest computer">
-<!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY offlineNotDownload.label "Messadis pli gronds che">
 <!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY autosyncNotDownload.label "Betg telechargiar messadis pli gronds che">
@@ -27,15 +25,13 @@
 <!ENTITY retentionKeepAll.accesskey "n">
 <!ENTITY retentionKeepRecent.label "Stizzar tuts, exclus ils pli actuals">
 <!ENTITY retentionKeepRecent.accesskey "z">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Adina stizzar messadis legids (malgrà las configuraziuns da temp!)">
 <!ENTITY retentionApplyToFlagged.label "Adina preservar messadis segnads">
 <!ENTITY retentionApplyToFlagged.accesskey "A">
 <!ENTITY nntpRemoveMsgBody.label "Stizzar cuntegns da messadis ch'èn pli vegls che">
 <!ENTITY nntpRemoveMsgBody.accesskey "z">
 <!ENTITY offlineSelectNntp.label "Tscherner gruppas da discussiun per leger offline…">
 <!ENTITY offlineSelectNntp.accesskey "S">
-<!ENTITY offlineImapAdvancedOffline.label "Extendì…">
+<!ENTITY offlineImapAdvancedOffline.label "Avanzà…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "x">
 <!ENTITY syncGroupTitle.label "Sincronisaziun da messadis">
 <!ENTITY diskspaceGroupTitle.label "Capacitad da memorisar">
