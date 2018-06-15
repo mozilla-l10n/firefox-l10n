@@ -101,7 +101,7 @@
      text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "თქვენი გამავალი ფოსტის (SMTP) სერვერი, &quot;">
-<!ENTITY haveSmtp3.suffix3 "&quot;, შემომავალი სერვერის იდენტურია, სახელიც იგივე გამოიყენება.">
+<!ENTITY haveSmtp3.suffix3 "&quot;, ემთხვევა თქვენს შემომავალ სერვერს, თქვენი შემომავალი სერვერის მომხმარებლის სახელი იქნება გამოყენებული, მასთან წვდომისთვის.">
 
 <!-- Entities for Account name page -->
 
