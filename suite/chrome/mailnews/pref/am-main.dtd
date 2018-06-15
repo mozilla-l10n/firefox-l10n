@@ -8,7 +8,7 @@
 <!ENTITY accountName.label "ანგარიშის სახელი:">
 <!ENTITY accountName.accesskey "N">
 <!ENTITY identityTitle.label "იდენტურობა">
-<!ENTITY identityDesc.label "თითოეული ანგარიში შეიცავს თქვენს საიდენტიფიკაციო მონაცემებს, რომლებსაც მიიღებენ წერილების ადრესატები.">
+<!ENTITY identityDesc.label "თითოეულ ანგარიშს გააჩნია საკუთარი მონაცემები, რომელსაც მიმღები ხედავს, თქვენი წერილების ნახვისას.">
 <!ENTITY name.label "თქვენი სახელი:">
 <!ENTITY name.accesskey "Y">
 <!ENTITY email.label "ელფოსტის მისამართი:">
