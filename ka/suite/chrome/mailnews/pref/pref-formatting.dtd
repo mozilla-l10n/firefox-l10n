@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY pref.formatting.title        "ფორმატის გაგზავნა">
-<!ENTITY sendMaildesc.label           "დაფორმატებული (HTML) წერილის გაგზავნისას ადრესატებისთვის რომელთაც მისი წაკითხვა არ შეუძლია:">
+<!ENTITY sendMaildesc.label           "გაფორმებული (HTML) წერილის გაგზავნისას, როდესაც ერთზე მეტ მიმღებს, მისი გახსნა არ შეუძლია:">
 <!ENTITY askMe.label                  "შეკითხვა (საფოსტო პროგრამა შემოგთავაზებთ სხვადასხვა არჩევანს)">
 <!ENTITY askMe.accesskey              "k">
 <!ENTITY convertPlain2.label          "წერილის, ჩვეულებრივ ტექსტურ ფაილად გარდაქმნა (გაფორმება შესაძლოა დაიკარგოს)">
