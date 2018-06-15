@@ -977,14 +977,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
 <!ENTITY updateAvailable.panelUI.label "下载 &brandShorterName; 更新">
 
-<!ENTITY updateManual.message "下载 &brandShorterName; 的副本，我们将协助您安装它。">
+<!ENTITY updateManual.message "下载 &brandShorterName; 完整包，我们将协助您安装它。">
 <!ENTITY updateManual.whatsnew.label "了解有什么新功能。">
 <!ENTITY updateManual.header.message "&brandShorterName; 无法更新到最新版本。">
 <!ENTITY updateManual.acceptButton.label "下载 &brandShorterName;">
 <!ENTITY updateManual.acceptButton.accesskey "D">
 <!ENTITY updateManual.cancelButton.label "暂时不要">
 <!ENTITY updateManual.cancelButton.accesskey "N">
-<!ENTITY updateManual.panelUI.label "下载 &brandShorterName; 的副本">
+<!ENTITY updateManual.panelUI.label "下载 &brandShorterName; 完整包">
 
 <!ENTITY updateRestart.message2 "稍等片刻，&brandShorterName; 重开后将恢复您所有不在隐私浏览模式中打开的标签页和窗口。">
 <!ENTITY updateRestart.header.message2 "重开 &brandShorterName; 以更新。">
