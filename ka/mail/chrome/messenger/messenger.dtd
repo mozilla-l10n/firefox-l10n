@@ -579,7 +579,7 @@
 <!ENTITY getAllNewMsgCmd.accesskey "G">
 <!ENTITY newMsgButton.tooltip "ახალი წერილის შექმნა">
 <!ENTITY replyButton.tooltip "პასუხი წერილს">
-<!ENTITY replyAllButton.tooltip "პასუხი გამომგზავნს და ყველა ადრესატს">
+<!ENTITY replyAllButton.tooltip "პასუხი გამომგზავნს და ყველა მიმღებს">
 <!ENTITY replyListButton.tooltip "პასუხი ჯგუფს">
 <!ENTITY forwardButton.tooltip "შერჩეული წერილის გადაგზავნა">
 <!ENTITY forwardAsInline.tooltip "შერჩეული წერილის გადაგზავნა შიდა ტექსტის სახით">

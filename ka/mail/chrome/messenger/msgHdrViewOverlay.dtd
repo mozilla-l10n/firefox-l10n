@@ -30,7 +30,7 @@
 <!ENTITY hdrReplyButton1.label "პასუხი">
 <!ENTITY hdrReplyButton2.tooltip "პასუხი ამ წერილის გამომგზავნს">
 <!ENTITY hdrReplyAllButton1.label "პასუხი ყველას">
-<!ENTITY hdrReplyAllButton1.tooltip "პასუხი გამომგზავნს და ყველა ადრესატს">
+<!ENTITY hdrReplyAllButton1.tooltip "პასუხი გამომგზავნს და ყველა მიმღებს">
 <!ENTITY hdrReplyListButton1.label "პასუხი ჯგუფს">
 <!ENTITY hdrReplyListButton1.tooltip "პასუხი დაგზავნის სიაზე">
 <!ENTITY hdrFollowupButton1.label "ადევნება">
