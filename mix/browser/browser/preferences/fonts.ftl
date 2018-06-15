@@ -99,3 +99,9 @@ fonts-minsize-none =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-name-arabic =
+    .label = Árabe
+fonts-languages-fallback-name-baltic =
+    .label = Báltico
+fonts-languages-fallback-name-ceiso =
+    .label = Centroeuropeo, ISO
