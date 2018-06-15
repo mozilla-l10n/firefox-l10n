@@ -593,7 +593,7 @@
 <!ENTITY previousMsgButton.tooltip "გადასვლა წინა წერილზე">
 <!ENTITY goForwardButton.tooltip "წინ გადასვლა ერთი წერილით">
 <!ENTITY goBackButton.tooltip "უკან დაბრუნება ერთი წერილით">
-<!ENTITY deleteButton.tooltip "მონიშნული წერილის ან დასტის წაშლა">
+<!ENTITY deleteButton.tooltip "მონიშნული წერილის ან საქაღალდის წაშლა">
 <!ENTITY undeleteButton.tooltip "მონიშნული წერილის აღდგენა">
 <!ENTITY markButton.tooltip "წერილების მონიშვნა">
 <!ENTITY printButton.tooltip "წერილის დაბეჭდვა">

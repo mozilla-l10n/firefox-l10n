@@ -7,8 +7,8 @@
 <!ENTITY accountTitle.label "ანგარიშის პარამეტრები">
 <!ENTITY accountName.label "ანგარიშის სახელი:">
 <!ENTITY accountName.accesskey "N">
-<!ENTITY identityTitle.label "იდენტურობა">
-<!ENTITY identityDesc.label "თითოეული ანგარიში შეიცავს თქვენს საიდენტიფიკაციო მონაცემებს, რომლებსაც მიიღებენ წერილების ადრესატები.">
+<!ENTITY identityTitle.label "ნაგულისხმევი მოწმობა">
+<!ENTITY identityDesc.label "თითოეულ ანგარიშს გააჩნია საკუთარი მონაცემები, რომელსაც მიმღები ხედავს, თქვენი წერილების ნახვისას.">
 <!ENTITY name.label "თქვენი სახელი:">
 <!ENTITY name.accesskey "Y">
 <!ENTITY email.label "ელფოსტის მისამართი:">
@@ -33,7 +33,7 @@
 <!ENTITY attachVCard.label "წერილებზე სავიზიტოს მიმაგრება">
 <!ENTITY attachVCard.accesskey "v">
 
-<!ENTITY manageIdentities.label "იდენტურობის პარამეტრები…">
+<!ENTITY manageIdentities.label "დამოწმების პარამეტრები…">
 <!ENTITY manageIdentities.accesskey "M">
 
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
