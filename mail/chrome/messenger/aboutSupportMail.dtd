@@ -6,7 +6,7 @@
 
 <!ENTITY aboutSupport.accountsTitle "ფოსტისა და სიახლის ანგარიშები">
 <!ENTITY aboutSupport.showPrivateData.mainText "ანგარიშების სახელების ჩათვლით">
-<!ENTITY aboutSupport.showPrivateData.explanationText "(შესაძლო საიდენტიფიკაციო მონაცემები)">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(შესაძლო მონაცემები დასამოწმებლად)">
 <!ENTITY aboutSupport.accountsID "ID">
 <!ENTITY aboutSupport.accountsName "სახელი">
 <!ENTITY aboutSupport.accountsIncomingServer "შემოსულების სევერი">

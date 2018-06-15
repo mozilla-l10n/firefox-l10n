@@ -12,7 +12,7 @@
 <!ENTITY status.certificates "სერთიფიკატები:">
 <!ENTITY view.label "ჩვენება">
 <!ENTITY view.accesskey "V">
-<!ENTITY tree.recipient "ადრესატი:">
+<!ENTITY tree.recipient "მიმღები">
 <!ENTITY tree.status "სტატუსი:">
 <!ENTITY tree.issuedDate "გამოცემული:">
 <!ENTITY tree.expiresDate "ვადა:">

@@ -24,8 +24,8 @@
 
 <!-- Entities for Identity page -->
 
-<!ENTITY identityTitle.label "იდენტურობა">
-<!ENTITY identityDesc.label "თითოეულ ანგარიშს საკუთარი იდენტურობა უნდა ჰქონდეს, რომლის საშუალებითაც წერილების თქვენეულობა დადგინდება.">
+<!ENTITY identityTitle.label "მოწმობა">
+<!ENTITY identityDesc.label "თითოეულ ანგარიშს გააჩნია საკუთარი დასამოწმებელი მონაცემები, რომლის საშუალებითაც ხდება თქვენი გამორჩევა სხვებისგან, თქვენი წერილების მიღებისას.">
 
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY fullnameDesc.label "მიუთითეთ სახელი, რომლის გამოჩენაც გსურთ გაგზავნილი წერილების &quot;ვინ&quot; ველში">
