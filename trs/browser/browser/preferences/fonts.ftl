@@ -2,17 +2,33 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+fonts-window =
+    .title = Daj ga ma
 fonts-window-close =
     .key = w
 
 ## Font groups by language
 
+fonts-langgroup-header = Fuentes guenda
+    .accesskey = F
 fonts-langgroup-arabic =
     .label = Arâbiko
 fonts-langgroup-armenian =
     .label = Amêniu
 fonts-langgroup-bengali =
     .label = Bengalî
+fonts-langgroup-simpl-chinese =
+    .label = Chinu nagi'iaj
+fonts-langgroup-trad-chinese-hk =
+    .label = Nânj Chinu a'min (Hong Kong)
+fonts-langgroup-trad-chinese =
+    .label = Nânj Chinu a'min (Taiwan)
+fonts-langgroup-cyrillic =
+    .label = Cirílico
+fonts-langgroup-devanagari =
+    .label = Devanagari
+fonts-langgroup-ethiopic =
+    .label = Etíope
 fonts-langgroup-georgian =
     .label = Yeoryiâno
 fonts-langgroup-el =
@@ -50,9 +66,17 @@ fonts-langgroup-thai =
     .label = Tailandês
 fonts-langgroup-tibetan =
     .label = Tibetâno
+fonts-langgroup-canadian =
+    .label = Daj hua ninin nuguan kanada
+fonts-langgroup-other =
+    .label = A'ngo yi'ni' nuguan gachrun'
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Guña che
+    .accesskey = G
+fonts-default-serif =
+    .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
 fonts-proportional-size = Dàj yachìj man
@@ -65,8 +89,13 @@ fonts-monospace = Monospace
     .accesskey = M
 fonts-monospace-size = Dàj yachìj man
     .accesskey = e
+fonts-minsize = Daj yachij ga letra
+    .accesskey = D
 fonts-minsize-none =
     .label = Gà' huaj
+fonts-allow-own =
+    .label = Ga'nin da' ni nej pagina nahui daj ga ma, se ru'ua sa gachin gaj.
+    .accesskey = G
 
 ## Text Encodings
 ##
