@@ -116,7 +116,7 @@
 <!ENTITY formatToolbar.tooltip "დაფორმატების პულტი">
 <!ENTITY sendButton.tooltip "ამ წერილის გაგზავნა ახლავე"> 
 <!ENTITY sendlaterButton.tooltip "ამ წერილის გაგზავნა მოგვიანებით"> 
-<!ENTITY addressButton.tooltip "ადრესატის შერჩევა წიგნაკიდან"> 
+<!ENTITY addressButton.tooltip "მიმღების შერჩევა წიგნაკიდან"> 
 <!ENTITY attachButton.tooltip "დანართის ჩათვლით"> 
 <!ENTITY saveButton.tooltip "ამ გზავნილის შენახვა"> 
 <!ENTITY stopButton.tooltip "მიმდინარე გადაცემის შეწყვეტა"> 
