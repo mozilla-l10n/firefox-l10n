@@ -83,7 +83,7 @@
 <!ENTITY deleteMsgsCmd.accesskey "D">
 <!ENTITY undeleteMsgsCmd.label "შერჩეული წერილების აღდგენა">
 <!ENTITY undeleteMsgsCmd.accesskey "d">
-<!ENTITY deleteFolderCmd.label "დასტის წაშლა">
+<!ENTITY deleteFolderCmd.label "საქაღალდის წაშლა">
 <!ENTITY deleteFolderCmd.accesskey "D">
 <!ENTITY unsubscribeNewsgroupCmd.label "გამოწერის გაუქმება">
 <!ENTITY unsubscribeNewsgroupCmd.accesskey "n">
@@ -296,7 +296,7 @@
 <!ENTITY replyToAllMsgCmd.key	"r">
 <!ENTITY replyToSenderAndNewsgroupCmd.label "პასუხი გამომგზავნს და ჯგუფს">
 <!ENTITY replyToSenderAndNewsgroupCmd.accesskey "p">
-<!ENTITY replyToAllRecipientsCmd.label "პასუხი ყველა ადრესატს">
+<!ENTITY replyToAllRecipientsCmd.label "პასუხი ყველა მიმღებს">
 <!ENTITY replyToAllRecipientsCmd.accesskey "a">
 <!ENTITY forwardMsgCmd.label "გადაგზავნა">
 <!ENTITY forwardMsgCmd.accesskey "F">
@@ -430,14 +430,14 @@
 <!ENTITY getMsgButton.tooltip "ახალი წერილების მიღება">
 <!ENTITY newMsgButton.tooltip "ახალი წერილის შექმნა">
 <!ENTITY replyButton.tooltip "პასუხი წერილს">
-<!ENTITY replyAllButton.tooltip "პასუხი გამომგზავნს და ყველა ადრესატს">
+<!ENTITY replyAllButton.tooltip "პასუხი გამომგზავნს და ყველა მიმღებს">
 <!ENTITY replyAllButtonNews.tooltip "პასუხი გამომგზავნს და ჯგუფს">
 <!ENTITY forwardButton.tooltip "არჩეული წერილის გადაგზავნა">
 <!ENTITY fileButton.tooltip "არჩეული წერილის შენახვა">
 <!ENTITY nextButton.tooltip "გადასვლა შემდეგ წასაკითხ წერილზე">
 <!ENTITY goBackButton.tooltip "უკან ერთი წერილით">
 <!ENTITY goForwardButton.tooltip "წინ ერთი წერილით">
-<!ENTITY deleteButton.tooltip "მონიშნული წერილის ან დასტის წაშლა">
+<!ENTITY deleteButton.tooltip "მონიშნული წერილის ან საქაღალდის წაშლა">
 <!ENTITY undeleteButton.tooltip "მონიშნული წერილის აღდგენა">
 <!ENTITY markButton.tooltip "წერილების მონიშვნა">
 <!ENTITY stopButton.tooltip "მიმდინარე გაგზავნის შეჩერება">
