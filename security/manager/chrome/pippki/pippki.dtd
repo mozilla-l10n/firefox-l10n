@@ -19,7 +19,7 @@
 <!ENTITY downloadCert.title "სერთიფიკატის გადმოწერა">
 <!ENTITY downloadCert.message1 "თქვენ გთხოვენ თქვენთვის ახალი სერთიფიკატების სააგენტოს (CA) ნდობას.">
 <!ENTITY downloadCert.trustSSL "ვებსაიტების დამოწმების ამ CA-სთვის ნდობა.">
-<!ENTITY downloadCert.trustEmail "ამ სააგენტოს ნდობა ელფოსტის კლიენტთა იდენტიფიცირებისათვის.">
+<!ENTITY downloadCert.trustEmail "სერტიფიკატის გამომცემლობისთვის ნდობის გამოცხადება, ელფოსტის მომხმარებელთა ამოსაცნობად.">
 <!ENTITY downloadCert.message3 "სანამ CA-ს ნდობას გამოუცხადებთ, ჯერ შეამოწმეთ მისი სერთიფიკატი, პირობები და პროცედურები (თუ გააჩნია).">
 <!ENTITY downloadCert.viewCert.label "ჩვენება">
 <!ENTITY downloadCert.viewCert.text "სააგენტოს სერთიფიკატის შემოწმება">
