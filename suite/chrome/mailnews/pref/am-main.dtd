@@ -15,7 +15,7 @@
 <!ENTITY email.accesskey "E">
 <!ENTITY replyTo.label "მისამართი პასუხისათვის:">
 <!ENTITY replyTo.accesskey "s">
-<!ENTITY replyTo.placeholder "ადრესატები უპასუხებენ ამ, სხვა, მისამართზე">
+<!ENTITY replyTo.placeholder "მიმღებები ამას უპასუხებენ სხვა მისამართზე">
 <!ENTITY organization.label "ორგანიზაცია:">
 <!ENTITY organization.accesskey "O">
 <!ENTITY signatureText.label "ხელმოწერის ტექსტი:">
