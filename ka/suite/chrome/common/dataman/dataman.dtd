@@ -64,7 +64,7 @@
 <!-- permissions -->
 <!ENTITY perm.UseDefault "ნაგულისხმევი">
 <!ENTITY perm.AskAlways "შეკითხვა ყოველ ჯერზე">
-<!ENTITY perm.NeverSave "არასოდეს შეინახო">
+<!ENTITY perm.NeverSave "არასოდეს შეინახოს">
 <!ENTITY perm.Allow "ნებართვა">
 <!ENTITY perm.AllowSameDomain "ნებართვა იგივე დომენისთვის">
 <!ENTITY perm.AllowSession "ნებართვა სეანსზე">
