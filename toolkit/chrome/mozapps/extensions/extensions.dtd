@@ -96,7 +96,7 @@
 <!ENTITY cmd.alwaysActivate.label             "ყოველთვის გაეშვას">
 <!ENTITY cmd.alwaysActivate.tooltip           "ყოველთვის გამოიყენე ეს დამატება">
 <!ENTITY cmd.neverActivate.label              "არასდროს გაეშვას">
-<!ENTITY cmd.neverActivate.tooltip            "არასდროს გამოიყენო ეს დამატება">
+<!ENTITY cmd.neverActivate.tooltip            "არასდროს გამოიყენოს ეს დამატება">
 <!ENTITY cmd.stateMenu.tooltip                "აირჩიეთ, როდის გაეშვას ეს დამატება">
 <!ENTITY cmd.installAddon.label               "ჩადგმა">
 <!ENTITY cmd.installAddon.accesskey           "ი">
