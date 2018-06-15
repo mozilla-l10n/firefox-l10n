@@ -9,7 +9,7 @@
 <!ENTITY encryptionChoiceLabel.label "დაშიფვრის ძირითადი პარამეტრები წერილების გაგზავნისას:">
 <!ENTITY neverEncrypt.label "არასოდეს (დაუშიფრავად)">
 <!ENTITY neverEncrypt.accesskey "N">
-<!ENTITY alwaysEncryptMessage.label "ყოველთვის (არ გაიგზავნება თუ ყველა ადრესატს არ გააჩნია სერთიფიკატი)">
+<!ENTITY alwaysEncryptMessage.label "ყოველთვის (არ გაიგზავნება თუ ყველა მიმღებს არ გააჩნია სერტიფიკატი)">
 <!ENTITY alwaysEncryptMessage.accesskey "u">
 <!ENTITY encryptionCert.message "ამ სერტთიფიკატის გამოყენება გამოგზავნილი წერილების დასაშიფრად და გასაშიფრად:">
 <!ENTITY digitalSign.certificate.button "შერჩევა…">

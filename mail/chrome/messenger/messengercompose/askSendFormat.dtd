@@ -5,7 +5,7 @@
 <!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
 <!ENTITY windowTitle.label "HTML წერილის თვისებები">
 
-<!ENTITY recipient.label "ზოგი ადრესატი არ არის HTML წერილების მიმღებთა სიაში.">
+<!ENTITY recipient.label "ზოგიერთ მიმღებზე არაა მითითებული, რომ HTML წერილების მიღება შეუძლია.">
 
 <!ENTITY question.label "გნებავთ წერილის ტექსტურ ფორმატში გარდაქმნა თუ მაინც HTML ვერსიის გაგზავნა?">
 

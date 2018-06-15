@@ -246,7 +246,7 @@
 <!ENTITY sendButton.tooltip "წერილის დაუყოვნებლივ გაგზავნა">
 <!ENTITY sendlaterButton.tooltip "წერილის მოგვიანებით გაგზავნა">
 <!ENTITY quoteButton.tooltip "საწყისი წერილის ციტირება">
-<!ENTITY addressButton.tooltip "ადრესატის არჩევა წიგნაკიდან">
+<!ENTITY addressButton.tooltip "მიმღების არჩევა წიგნაკიდან">
 <!ENTITY attachButton.tooltip2 "დანართის მიმაგრება">
 <!ENTITY spellingButton.tooltip "მონიშნულის ან მთელი წერილის მართლწერის შემოწმება">
 <!ENTITY saveButton.tooltip "წერილის შენახვა">

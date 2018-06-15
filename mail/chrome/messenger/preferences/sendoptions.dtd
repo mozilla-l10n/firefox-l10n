@@ -15,7 +15,7 @@
 <!ENTITY sendHTML.accesskey           "S">
 <!ENTITY sendBoth.label               "წერილის ორივე, HTML და ტექსტური ფორმატით გაგზავნა">
 <!ENTITY sendBoth.accesskey           "e">
-<!ENTITY override.label               "შენიშვნა: ადრესატებისთვის წერილების სასურველი ფორმატების მისათითებლად წიგნაკი გამოიყენეთ.">
+<!ENTITY override.label               "შენიშვნა: გამოიყენეთ წიგნაკი, ტექსტის სასურველი გაფორმებებით განსაზღვრისთვის, მიმღებებისთვის.">
 
 <!ENTITY domaindesc.label             "წერილის გაგზავნისას ქვემოთ ჩამოთვლილი დომენის შემცველ მისამართებზე, &brandShortName; წერილებს ავტომატურად გააგზავნის მართებული ფორმატით.">
 <!ENTITY HTMLTab.label                "HTML დომენები">
