@@ -36,6 +36,12 @@
 <!ENTITY newFeedAccountCmd.accesskey "d">
 <!ENTITY newIMContactCmd.label "Contact da chat…">
 <!ENTITY newIMContactCmd.accesskey "h">
+<!ENTITY  newMessageCmd2.key "N">
+<!ENTITY  newMessageCmd.key "M">
+<!ENTITY  newMessageCmd.label "Messadi">
+<!ENTITY  newMessageCmd.accesskey "m">
+<!ENTITY  newContactCmd.label "Contact en il cudeschet d'adressas…">
+<!ENTITY  newContactCmd.accesskey "C">
 <!ENTITY openMessageFileCmd.label "Avrir ina datoteca…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY saveAsMenu.label "Memorisar sco">
@@ -317,7 +323,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Chat">
 <!ENTITY goChatCmd.accesskey "c">
-<!ENTITY goChatCmd.key "I">
 <!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Messadi cun staila">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
@@ -367,6 +372,8 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Modifitgar il sboz dal messadi">
 <!ENTITY editDraftMsgCmd.accesskey "s">
+<!ENTITY editTemplateMsgCmd.label "Modifitgar il model">
+<!ENTITY editTemplateMsgCmd.accesskey "t">
 <!ENTITY newMsgFromTemplateCmd.label "Nov messadi cun agid dad in model">
 <!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Crear in filter or dal messadi…">
@@ -460,6 +467,11 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Supplements">
 <!ENTITY addons.accesskey "S">
+<!ENTITY addonPrefs.label "Preferenzas dals supplements">
+<!ENTITY addonPrefs.accesskey "P">
+<!ENTITY addonPrefsUnix.label "Preferenzas dals supplements">
+<!ENTITY addonPrefsUnix.accesskey "P">
+<!ENTITY addonNoPrefs.label "Chattà naginas preferenzas da supplements.">
 <!ENTITY activitymanager.label "Activitads">
 <!ENTITY activitymanager.accesskey "v">
 <!ENTITY imAccountsStatus.label "Status da chat">
@@ -503,8 +515,8 @@
 <!ENTITY devToolboxCmd.label "Chascha d'utensils per sviluppaders">
 <!ENTITY devToolboxCmd.accesskey "t">
 <!ENTITY devToolboxCmd.commandkey "i">
-<!ENTITY addonDebugCmd.label "Debugader per supplements">
-<!ENTITY addonDebugCmd.accesskey "m">
+<!ENTITY debugAddonsCmd.label "Debugar ils supplements">
+<!ENTITY debugAddonsCmd.accesskey "a">
 <!ENTITY tabsDebugCmd.label "Debugader per il rom da cuntegn">
 <!ENTITY tabsDebugCmd.accesskey "c">
 <!ENTITY errorConsoleCmd.label "Consola d'errurs">
@@ -637,6 +649,7 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Retschaiver messadis">
 <!ENTITY folderContextGetMessages.accesskey "R">
+<!ENTITY folderContextMarkAllFoldersRead.label "Marcar tut ils ordinaturs sco legids">
 <!ENTITY folderContextPauseAllUpdates.label "Metter en pausa tut las actualisaziuns">
 <!ENTITY folderContextPauseUpdates.label "Metter en pausa las actualisaziuns">
 <!ENTITY folderContextPauseUpdates.accesskey "u">
@@ -753,6 +766,8 @@
 <!ENTITY contextEditMsgAsNew.label "Modifitgar sco nov messadi">
 <!ENTITY contextEditMsgAsNew.accesskey "M">
 <!ENTITY contextEditDraftMsg.label "Modifitgar il sboz dal messadi">
+<!ENTITY contextEditTemplate.label "Modifitgar il model">
+<!ENTITY contextEditTemplate.accesskey "m">
 <!ENTITY contextArchive.label "Archivar">
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Respunder mo al speditur">
@@ -860,7 +875,7 @@
   -->
 <!ENTITY quickSearchCmd.key "k">
 <!-- LOCALIZATION NOTE (search.label.base1):
-      This is the base of the empty text for the global search box. We replace
+     This is the base of the empty text for the global search box. We replace
      #1 with the contents of the appropriate search.keyLabel.* value for the
      platform.
      The goal is to convey to the user that typing in the box will allow them
