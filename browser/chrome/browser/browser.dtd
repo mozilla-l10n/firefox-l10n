@@ -807,6 +807,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "U hebt deze website geen speciale toestemmingen gegeven.">
 <!ENTITY identity.permissionsReloadHint "Mogelijk dient u de pagina te vernieuwen om wijzigingen van kracht te laten worden.">
 
+<!ENTITY identity.permissionsPreferences.tooltip "Voorkeuren voor toestemmingen openen">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Browsertabbladen">
@@ -905,16 +907,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Audio van het tabblad wordt gedeeld.">
 <!ENTITY getUserMedia.allWindowsShared.message "Alle zichtbare vensters op uw scherm worden gedeeld.">
 
+<!ENTITY trackingProtection.on "Bescherming tegen volgen: AAN">
+<!ENTITY trackingProtection.off "Bescherming tegen volgen: UIT">
 <!ENTITY trackingProtection.title "Bescherming tegen volgen">
 <!ENTITY trackingProtection.tooltip "Voorkeuren van Bescherming tegen volgen openen">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokkeert onderdelen van de pagina die uw surfgedrag zouden kunnen volgen.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Deze website bevat elementen die uw surfgedrag zouden kunnen volgen. U hebt bescherming uitgeschakeld.">
 <!ENTITY trackingProtection.notDetected3 "Geen volgelementen op deze pagina gedetecteerd.">
+<!ENTITY trackingProtection.detectedNotBlocked4 "Op deze webpagina zijn volgers gedetecteerd.">
+<!ENTITY trackingProtection.notDetected4 "Geen volgers op deze pagina gedetecteerd.">
+<!ENTITY trackingProtection.reloadRequired "U hebt Bescherming tegen volgen ingeschakeld. Laad de huidige pagina opnieuw om alle volgers te blokkeren.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Bescherming voor deze website uitschakelen">
 <!ENTITY trackingProtection.unblock.accesskey "u">
+<!ENTITY trackingProtection.unblock2.label "Deze website vertrouwen">
+<!ENTITY trackingProtection.unblock2.accesskey "v">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -922,6 +931,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "u">
 <!ENTITY trackingProtection.block2.label "Bescherming inschakelen">
 <!ENTITY trackingProtection.block2.accesskey "s">
+
+<!ENTITY trackingProtection.unblockPrivate2.label "Deze website vertrouwen voor deze sessie">
+<!ENTITY trackingProtection.unblockPrivate2.accesskey "v">
+<!ENTITY trackingProtection.block3.label "Bescherming tegen volgen AANzetten">
+<!ENTITY trackingProtection.block3.accesskey "A">
+<!ENTITY trackingProtection.reload.label "Deze pagina vernieuwen">
+<!ENTITY trackingProtection.reload.accesskey "r">
 
 <!ENTITY pluginNotification.showAll.label "Alles tonen">
 <!ENTITY pluginNotification.showAll.accesskey "A">
