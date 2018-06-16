@@ -4,5 +4,5 @@
 
 <!ENTITY virtualFolderListTitle.title        "Tscherner ordinatur(s)">
 <!ENTITY virtualFolderDesc.label       "Tscherner ils ordinaturs per tschertgar:">
-
-
+<!ENTITY folderName.label "Num da l'ordinatur">
+<!ENTITY folderSearch.label "Tschertgar">

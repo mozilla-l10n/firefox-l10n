@@ -88,6 +88,17 @@
 <!ENTITY reorderAttachmentsCmd.label "Reordinar las agiuntas…">
 <!ENTITY reorderAttachmentsCmd.accesskey "s">
 <!ENTITY reorderAttachmentsCmd.key "x">
+<!ENTITY toggleAttachmentPaneCmd.label "Zona d'agiuntas">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
+     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
+     as attachments.accesskey. -->
+<!ENTITY toggleAttachmentPaneCmd.accesskey "A">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
+     With OS-specific access modifier, this defines the shortcut key for showing/
+     hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
+     toggleAttachmentPaneCmd.key and attachments.accesskey must be the same
+     for the bucket view state machinery to work. -->
+<!ENTITY toggleAttachmentPaneCmd.key "A">
 <!ENTITY selectAllCmd.label "Marcar tut">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "A">
@@ -109,47 +120,22 @@
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Reordinar agiuntas">
 <!ENTITY moveAttachmentTopPanelBtn.label "Plazzar sisum">
-<!ENTITY moveAttachmentTopPanelBtn.accesskey "u">
 <!ENTITY moveAttachmentUpPanelBtn.label "Spustar ensi">
-<!ENTITY moveAttachmentUpPanelBtn.accesskey "n">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Spustar ensemen">
-<!ENTITY moveAttachmentBundleUpPanelBtn.accesskey "m">
 <!ENTITY moveAttachmentDownPanelBtn.label "Spustar engiu">
-<!ENTITY moveAttachmentDownPanelBtn.accesskey "g">
 <!ENTITY moveAttachmentBottomPanelBtn.label "Plazzar giusut">
-<!ENTITY moveAttachmentBottomPanelBtn.accesskey "z">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.label):
-     Please ensure that this translation matches
-     sortAttachmentsTogglePanelBtn.ZA.label, except for the sort direction. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.label "Zavrar la selecziun: A - Z">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.accesskey):
-     This accesskey should be the same like
-     sortAttachmentsTogglePanelBtn.ZA.accesskey, and it should be taken from
-     the "Sort Selection:" part of the label, not from the sort direction part. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.accesskey "r">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.label "Zavrar la selecziun: Z - A">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.accesskey "r">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.Sort.ZA.label, except for the sort direction. -->
 <!ENTITY sortAttachmentsPanelBtn.Sort.AZ.label "Zavrar: A - Z">
-<!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.accesskey):
-     This accesskey should be the same like
-     sortAttachmentsPanelBtn.Sort.ZA.accesskey,
-     sortAttachmentsPanelBtn.SortSelection.AZ.accesskey, and
-     sortAttachmentsPanelBtn.SortSelection.ZA.accesskey and it should therefore be
-     taken from the word "Sort", not from "Selection" or the sort direction part. -->
-<!ENTITY sortAttachmentsPanelBtn.Sort.AZ.accesskey "r">
 <!ENTITY sortAttachmentsPanelBtn.Sort.ZA.label "Zavrar: Z - A">
-<!ENTITY sortAttachmentsPanelBtn.Sort.ZA.accesskey "r">
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.SortSelection.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
 <!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.label "Zavrar la selecziun: A - Z">
-<!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.accesskey "r">
 <!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.label "Zavrar la selecziun: Z - A">
-<!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.accesskey "r">
+<!ENTITY sortAttachmentsPanelBtn.key "-">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Vista">
@@ -261,7 +247,7 @@
 <!ENTITY sendlaterButton.tooltip "Trametter pli tard quest messadi">
 <!ENTITY quoteButton.tooltip "Citar il messadi precedent">
 <!ENTITY addressButton.tooltip "Tscherner in destinatur ord in cudeschet d'adressas">
-<!ENTITY attachButton.tooltip "Includer ina agiunta">
+<!ENTITY attachButton.tooltip2 "Agiuntar ina datoteca">
 <!ENTITY spellingButton.tooltip "Controllar l'ortografia da la part selecziunada u da l'entir messadi">
 <!ENTITY saveButton.tooltip "Memorisar quest messadi">
 <!ENTITY cutButton.tooltip              "Tagliar ora">
@@ -283,9 +269,13 @@
 <!ENTITY followupAddr.label "Followup-To:">
 <!ENTITY subject.label "Object:">
 <!ENTITY subject.accesskey "O">
-<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
-     to the strings in attachmentCount in composeMsgs.properties -->
+<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
+     be taken from the strings in attachmentCount in composeMsgs.properties,
+     and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
+     work, as the shortcut key functionality supersedes the access key. -->
 <!ENTITY attachments.accesskey "A">
+<!ENTITY attachmentBucketHeader.tooltip "Zona dad agiuntas">
+<!ENTITY attachmentBucketCloseButton.tooltip "Zuppentar la zona dad agiuntas">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Inserir in fatscha surrienta">
@@ -323,6 +313,7 @@
 <!ENTITY pasteQuote.label "Encollar sco citat">
 <!ENTITY pasteQuote.accesskey "l">
 
+<!-- Attachment Item and List Context Menus -->
 <!ENTITY openAttachment.label "Avrir">
 <!ENTITY openAttachment.accesskey "A">
 <!ENTITY delete.label "Stizzar">
@@ -333,6 +324,8 @@
 <!ENTITY renameAttachment.accesskey "R">
 <!ENTITY reorderAttachments.label "Reordinar las agiuntas…">
 <!ENTITY reorderAttachments.accesskey "s">
+<!ENTITY removeAllAttachments.label "Allontanar tut las agiuntas">
+<!ENTITY removeAllAttachments.accesskey "o">
 <!ENTITY selectAll.label "Marcar tut">
 <!ENTITY selectAll.accesskey "u">
 <!ENTITY attachFile.label "Agiuntar datoteca(s)…">
@@ -347,6 +340,13 @@
 <!ENTITY convertRegularAttachment.accesskey "A">
 <!ENTITY attachPage.label "Agiuntar ina pagina web…">
 <!ENTITY attachPage.accesskey "W">
+
+<!-- Attachment Pane Header Bar Context Menu -->
+<!-- LOCALIZATION NOTE (initiallyShowAttachmentPane.label):
+     Should use the same wording as startExpandedCmd.label
+     in msgHdrViewOverlay.dtd. -->
+<!ENTITY initiallyShowAttachmentPane.label "Mussar tenor standard la zona d'agiuntas">
+<!ENTITY initiallyShowAttachmentPane.accesskey "g">
 
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Agiuntar dicziunaris…">

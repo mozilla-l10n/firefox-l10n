@@ -28,6 +28,9 @@
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY then.label                           "e">
 <!ENTITY then.accesskey                       "e">
+<!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY quoting.label                        "Cun citar,">
+<!ENTITY quoting.accesskey                    "c">
 <!ENTITY aboveQuote.label                     "cumenzar mia resposta sur il text cità">
 <!ENTITY belowQuote.label                     "cumenzar mia resposta sut il text cità">
 <!ENTITY selectAndQuote.label                 "marcar il text cità">

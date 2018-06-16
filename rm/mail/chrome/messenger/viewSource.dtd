@@ -77,5 +77,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY backCmd.accesskey "E">
 <!ENTITY forwardCmd.label "Enavant">
 <!ENTITY forwardCmd.accesskey "v">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
 
+<!ENTITY copyLinkCmd.label "Copiar l'adressa da la colliaziun">
+<!ENTITY copyLinkCmd.accesskey "C">
+<!ENTITY copyEmailCmd.label "Copiar l'adressa dad e-mail">
+<!ENTITY copyEmailCmd.accesskey "a">
 
