@@ -17,6 +17,9 @@ serviceworker-list-header = ตัวทำงานบริการ
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start = เริ่ม
+# Text displayed for the updated time of the service worker. The <time> element will
+# display the last update time of the service worker script.
+serviceworker-worker-updated = อัปเดตเมื่อ <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
 # Text displayed next to the current status of the service worker.
 serviceworker-worker-status = สถานะ
 
