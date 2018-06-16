@@ -49,7 +49,7 @@
 
 <!-- Used just in context popup. -->
 <!ENTITY createLinkCmd.label "Sortu lotura…">
-<!ENTITY createLinkCmd.accesskey "u">
+<!ENTITY createLinkCmd.accesskey "k">
 <!ENTITY editLinkCmd.label "Editatu lotura mezu-prestatzailearen leiho berrian">
 <!ENTITY editLinkCmd.accesskey "i">
 
