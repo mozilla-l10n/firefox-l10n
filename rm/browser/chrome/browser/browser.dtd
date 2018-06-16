@@ -57,6 +57,8 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "En colonna (offline)">
 <!ENTITY  moveToNewWindow.label              "Spustar en ina nova fanestra">
 <!ENTITY  moveToNewWindow.accesskey          "n">
+<!ENTITY  reopenInContainer.label            "Avrir anc ina giada en in container">
+<!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkAllTabs.label              "Agiuntar in segnapagina per mintga tab…">
 <!ENTITY  bookmarkAllTabs.accesskey          "t">
 <!ENTITY  undoCloseTab.label                 "Restaurar il tab serrà">
@@ -904,6 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Tut las fanestras visiblas sin tes visur vegnan cundivididas.">
 
 <!ENTITY trackingProtection.title "Protecziun cunter il fastizar">
+<!ENTITY trackingProtection.tooltip "Avrir las preferenzas da la protecziun cunter il fastizar">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blochescha parts da la pagina che ta pudessan fastizar durant che ti navigheschas.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Questa pagina cuntegna elements che ta pon fastizar durant il navigar. Ti has deactivà la protecziun.">
 <!ENTITY trackingProtection.notDetected3 "Chattà nagins elements che fastizeschan sin questa pagina.">

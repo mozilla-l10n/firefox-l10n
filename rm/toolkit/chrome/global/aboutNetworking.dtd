@@ -23,6 +23,7 @@
 <!ENTITY aboutNetworking.sent                  "Tramess">
 <!ENTITY aboutNetworking.received              "Reschavì">
 <!ENTITY aboutNetworking.family                "Famiglia">
+<!ENTITY aboutNetworking.trr                   "TRR">
 <!ENTITY aboutNetworking.addresses             "Addressas">
 <!ENTITY aboutNetworking.expires               "Scroda en (secundas)">
 <!ENTITY aboutNetworking.messagesSent          "Messadis tramess">
