@@ -5,6 +5,7 @@
 <!ENTITY window.title                 "Escafar las donadas">
 <!ENTITY window.width                 "35em">
 
+<!ENTITY window.description           "Escafar totes los cookies e las dondas dels sites emmagazinats per &brandShortName; pòt provocar una desconnexion als sites web e suprimir de contenguts fòra linha. Escafar las donadas en cache afècta pas las sessions iniciadas.">
 
 <!ENTITY clearSiteData.label          "Cookies e donadas de sites">
 <!ENTITY clearSiteData.accesskey      "s">
