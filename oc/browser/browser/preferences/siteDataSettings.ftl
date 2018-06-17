@@ -7,6 +7,7 @@
 
 site-data-settings-window =
     .title = Gestion dels cookies e de las donadas de sites
+site-data-settings-description = Los sites seguents gardant de cookies e de donadas dins vòstre ordenador. { -brand-short-name } sèrva las donadas dels sites amb un emmagazinatge persistent dins que las escafetz, escafa las donadas las donadas amb cap d’emmagazinatge persistent quora es necessari mai d’espaci.
 site-data-search-textbox =
     .placeholder = Recercar de sites web
     .accesskey = S
