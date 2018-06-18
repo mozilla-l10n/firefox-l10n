@@ -20,7 +20,7 @@
 <!ENTITY closeOtherTabs.accesskey "a">
 <!ENTITY closeSelectedTabs.label "Chiudi schede selezionate">
 <!ENTITY closeSelectedTabs.accesskey "z">
-<!ENTITY pinTab.label "Blocca scheda">
+<!ENTITY pinTab.label "Fissa scheda">
 <!ENTITY pinTab.accesskey "h">
 <!ENTITY unpinTab.label "Sblocca scheda">
 <!ENTITY unpinTab.accesskey "h">
