@@ -100,7 +100,7 @@
 
 <!-- Addons -->
 <!ENTITY addons_title "Extra Components">
-<!ENTITY addons_aboutaddons "Opne tilleggshandterar">
+<!ENTITY addons_aboutaddons "Open Add-ons Manager">
 
 <!-- Prefs -->
 <!ENTITY prefs_title "Preferences">

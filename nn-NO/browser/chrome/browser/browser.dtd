@@ -401,7 +401,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Logg inn på Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Handter einingar…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Vis sidestolpe for synkroniserte faner">
-<!ENTITY appMenuRemoteTabs.connectdevice.label "KOple til ei anna eining">
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Kople til ei anna eining">
 
 <!ENTITY appMenuRecentHighlights.label "Siste høgdepunkt">
 
@@ -438,8 +438,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY customizeMenu.autoHideDownloadsButton.label "Skjul automatisk i verktøylinja">
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "a">
-<!ENTITY customizeMenu.manageExtension.label "Handter tillegg">
-<!ENTITY customizeMenu.manageExtension.accesskey "u">
+<!ENTITY customizeMenu.manageExtension.label "Handter utviding">
+<!ENTITY customizeMenu.manageExtension.accesskey "e">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
