@@ -83,6 +83,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin2.accesskey "i">
 
 <!ENTITY signedIn.settings.label       "సింక్ అమరికలు">
+<!ENTITY signedIn.settings.description "&brandShortName; వాడుతున్న మీ పరికరాల్లో ఏమేమి సింక్రనించాలో ఎంచుకోండి.">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
