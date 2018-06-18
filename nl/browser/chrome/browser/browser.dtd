@@ -215,6 +215,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Berichtpaneel openen">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Paneel voor locatieaanvraag openen">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Paneel voor automatisch afspelen openen">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Berichtpaneel voor add-on-installatie openen">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Canvas-extractietoestemming beheren">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Berichtpaneel voor offlineopslag openen">
@@ -243,6 +244,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "U hebt notificaties voor deze website geblokkeerd.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "U hebt permanente opslag voor deze website geblokkeerd.">
 <!ENTITY urlbar.popupBlocked.tooltip             "U hebt pop-ups voor deze website geblokkeerd.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "U hebt het automatisch afspelen van media met geluid voor deze website geblokkeerd.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "U hebt canvas-gegevensextractie voor deze website geblokkeerd.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "U hebt het gebruik van de Adobe Flash-plug-in voor deze website geblokkeerd.">
 <!ENTITY urlbar.midiBlocked.tooltip              "U hebt MIDI-toegang voor deze website geblokkeerd.">
