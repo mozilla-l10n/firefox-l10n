@@ -4,6 +4,7 @@
 
 <!ENTITY  security.label                 "భద్రత">
 
+<!ENTITY  warnOnAddonInstall2.label       "వెబ్‌సైట్లు పొడిగింతలను స్థాపించడానికి ప్రయత్నించినపుడు నన్ను హెచ్చరించు">
 <!ENTITY  warnOnAddonInstall2.accesskey   "W">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
@@ -27,6 +28,7 @@
 
 <!ENTITY  formsAndPasswords.label       "ఫారాలు &amp; సంకేతపదాలు">
 
+<!ENTITY  rememberLogins2.label         "వెబ్‌సైట్లలో ప్రవేశాలను, సంకేతపదాలను గుర్తుంచుకో">
 <!ENTITY  rememberLogins2.accesskey     "R">
 <!ENTITY  passwordExceptions.label      "మినహాయింపులు…">
 <!ENTITY  passwordExceptions.accesskey  "x">
