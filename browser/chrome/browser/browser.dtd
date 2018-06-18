@@ -84,7 +84,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY goOfflineCmd.label "முடக்கலை முறைமை">
+<!ENTITY goOfflineCmd.label "முடக்க நிலை">
 <!ENTITY goOfflineCmd.accesskey "k">
 
 <!ENTITY menubarCmd.label "பட்டி பட்டை">
