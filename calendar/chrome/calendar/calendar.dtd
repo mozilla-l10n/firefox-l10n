@@ -88,7 +88,6 @@
 <!ENTITY calendar.newevent.button.label         "Nov eveniment" >
 <!ENTITY calendar.newtask.button.label          "Nova incumbensa" >
 <!ENTITY calendar.print.button.label            "Stampar" >
-<!ENTITY calendar.print.button.accesskey        "S">
 
 <!ENTITY calendar.day.button.label              "Di" >
 <!ENTITY calendar.week.button.label             "Emna" >
@@ -172,12 +171,14 @@
 <!ENTITY calendar.context.copyevent.accesskey         "C">
 <!ENTITY calendar.context.pasteevent.label            "Encollar">
 <!ENTITY calendar.context.pasteevent.accesskey        "E">
-<!ENTITY calendar.context.button.label                "Lastra dad oz" >
-<!ENTITY calendar.context.button.accesskey            "L" >
-<!ENTITY calendar.context.attendance.menu.label       "Participaziun" >
-<!ENTITY calendar.context.attendance.menu.accesskey   "i" >
-<!ENTITY calendar.context.attendance.occurrence.label "Questa occurrenza" >
-<!ENTITY calendar.context.attendance.all.label        "Tut las occurrenzas" >
+<!ENTITY calendar.context.button.label                "Lastra dad oz">
+<!ENTITY calendar.context.button.accesskey            "L">
+
+<!ENTITY calendar.context.attendance.menu.label                 "Participaziun">
+<!ENTITY calendar.context.attendance.menu.accesskey             "i">
+<!ENTITY calendar.context.attendance.occurrence.label           "Questa occurrenza">
+
+
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Progress">
