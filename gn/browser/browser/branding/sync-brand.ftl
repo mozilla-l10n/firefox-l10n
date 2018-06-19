@@ -5,7 +5,7 @@
 -sync-brand-short-name = Mbojuehe
 # “Sync” can be localized, “Firefox” must be treated as a brand,
 # and kept in English.
--sync-brand-name = Sync Firefox
+-sync-brand-name = Firefox mbojuehe
 # “Account” can be localized, “Firefox” must be treated as a brand,
 # and kept in English.
 -fxaccount-brand-name = Firefox mba'ete
