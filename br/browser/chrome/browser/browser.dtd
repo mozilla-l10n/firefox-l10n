@@ -437,6 +437,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.accesskey "m">
 
 <!ENTITY customizeMenu.autoHideDownloadsButton.label "Kuzhat ar varrenn ostilhoù ent emgefreek">
+<!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
 <!ENTITY customizeMenu.manageExtension.label "Merañ an askouezh">
 <!ENTITY customizeMenu.manageExtension.accesskey "M">
 
@@ -1002,6 +1003,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.message "Kemmet eo bet ar pezh a welit war ho pennbajenn gant un askouezh. Gallout a rit assav hoc'h arventennoù ma ne fell ket deoc'h ar c'hemm-se.">
 <!ENTITY homepageControlled.header.message "Kemmet eo bet ho pennbajenn.">
 <!ENTITY homepageControlled.keepButton.label "Mirout ar c'hemmoù">
+<!ENTITY homepageControlled.keepButton.accesskey "K">
 <!ENTITY homepageControlled.disableButton.label "Diweredekaat an askouezh">
 <!ENTITY homepageControlled.disableButton.accesskey "D">
 
