@@ -968,7 +968,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "详细了解数字版权管理（DRM）…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
-<!ENTITY updateAvailable.message "更新您的 &brandShorterName;，享受最新的速度性能与隐私权保障。">
+<!ENTITY updateAvailable.message "更新您的 &brandShorterName;，享受最新速度性能与隐私权保障。">
 <!ENTITY updateAvailable.whatsnew.label "看看有什么新功能。">
 <!ENTITY updateAvailable.header.message "新版 &brandShorterName; 发布了。">
 <!ENTITY updateAvailable.acceptButton.label "下载更新">
@@ -977,8 +977,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
 <!ENTITY updateAvailable.panelUI.label "下载 &brandShorterName; 更新">
 
-<!ENTITY updateManual.message "下载 &brandShorterName; 完整包，我们将协助您安装它。">
-<!ENTITY updateManual.whatsnew.label "了解有什么新功能。">
+<!ENTITY updateManual.message "建议下载 &brandShorterName; 完整包，我们将协助您安装它。">
+<!ENTITY updateManual.whatsnew.label "看看有什么新功能。">
 <!ENTITY updateManual.header.message "&brandShorterName; 无法更新到最新版本。">
 <!ENTITY updateManual.acceptButton.label "下载 &brandShorterName;">
 <!ENTITY updateManual.acceptButton.accesskey "D">
