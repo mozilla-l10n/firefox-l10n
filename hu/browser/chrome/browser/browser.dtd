@@ -65,7 +65,6 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.accesskey             "v">
 <!ENTITY  closeTab.label                     "Lap bezárása">
 <!ENTITY  closeTab.accesskey                 "b">
-
 <!ENTITY  hiddenTabs.label                   "Rejtett lapok">
 
 <!ENTITY  listAllTabs.label      "Minden lap felsorolása">
@@ -215,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Üzenetpanel megnyitása">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Helymeghatározási kérés panel megnyitása">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Automatikus lejátszás panel megnyitása">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Kiegészítő telepítési üzenetpanel megnyitása">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Vászonból kinyerés engedélyének kezelése">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Kapcsolat nélküli tárolás üzenetpanel megnyitása">
@@ -223,7 +223,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Módosítsa, hogy kap-e értesítéseket ettől az oldaltól">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Adatok tárolása az állandó tárban">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "A böngészőt távolról irányítják">
-
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Webes hitelesítési panel megnyitása">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "A kamera és/vagy mikrofon az oldallal megosztásának kezelése">
@@ -243,6 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Blokkolta az értesítéseket ezen az oldalon.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Blokkolta az állandó adattárolást ezen az oldalon.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Blokkolta a felugró ablakokat ezen az oldalon.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Blokkolta a média automatikus hangos lejátszását ezen az oldalon.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Blokkolta a vászonadatok kinyerését ezen az oldalon.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Megtiltotta ennek a webhelynek, hogy az Adobe Flash bővítményt használja.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Blokkolta a MIDI elérést ezen az oldalon.">
@@ -807,6 +807,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Nem adott speciális jogosultságokat ennek az oldalnak.">
 <!ENTITY identity.permissionsReloadHint "Lehet hogy újra kell töltenie az oldalt a változások érvényesítéséhez.">
 
+<!ENTITY identity.permissionsPreferences.tooltip "Engedélybeállítások megnyitása">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Böngészőlapok">
@@ -905,16 +907,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "A lapról származó hang meg lesz osztva.">
 <!ENTITY getUserMedia.allWindowsShared.message "A képernyő minden látható ablaka meg lesz osztva.">
 
+<!ENTITY trackingProtection.on "Követés elleni védelem: BE">
+<!ENTITY trackingProtection.off "Követés elleni védelem: KI">
 <!ENTITY trackingProtection.title "Védelem követés ellen">
 <!ENTITY trackingProtection.tooltip "Követés elleni védelem beállításainak megnyitása">
 <!ENTITY trackingProtection.detectedBlocked3 "A &brandShortName; az oldal olyan részeit blokkolja, amelyek követhetik a böngészését.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Ez az oldal olyan elemeket tartalmaz, amelyek követhetik az Ön böngészését. A védelmet kikapcsolta.">
 <!ENTITY trackingProtection.notDetected3 "Az oldalon nem találhatók követő elemek.">
+<!ENTITY trackingProtection.detectedNotBlocked4 "Követők észlelve ezen a weboldalon.">
+<!ENTITY trackingProtection.notDetected4 "Az oldalon nem találhatók követők.">
+<!ENTITY trackingProtection.reloadRequired "Engedélyezte a követés elleni védelmet. Az összes követő blokkolásához töltse újra a jelenlegi weboldalt.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Védelem kikapcsolása ezen az oldalon">
 <!ENTITY trackingProtection.unblock.accesskey "k">
+<!ENTITY trackingProtection.unblock2.label "Megbízás ebben az oldalban">
+<!ENTITY trackingProtection.unblock2.accesskey "M">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -922,6 +931,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "k">
 <!ENTITY trackingProtection.block2.label "Védelem bekapcsolása">
 <!ENTITY trackingProtection.block2.accesskey "b">
+
+<!ENTITY trackingProtection.unblockPrivate2.label "Megbízás az oldalban ebben a munkamenetben">
+<!ENTITY trackingProtection.unblockPrivate2.accesskey "M">
+<!ENTITY trackingProtection.block3.label "Követés elleni védelem BE">
+<!ENTITY trackingProtection.block3.accesskey "K">
+<!ENTITY trackingProtection.reload.label "Oldal újratöltése">
+<!ENTITY trackingProtection.reload.accesskey "r">
 
 <!ENTITY pluginNotification.showAll.label "Mindet mutat">
 <!ENTITY pluginNotification.showAll.accesskey "m">
