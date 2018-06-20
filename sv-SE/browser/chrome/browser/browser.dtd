@@ -65,7 +65,6 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.accesskey             "g">
 <!ENTITY  closeTab.label                     "Stäng flik">
 <!ENTITY  closeTab.accesskey                 "S">
-
 <!ENTITY  hiddenTabs.label                   "Dolda flikar">
 
 <!ENTITY  listAllTabs.label      "Visa upp alla flikar">
@@ -223,7 +222,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Ändra om du kan ta emot meddelanden från webbplatsen">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Lagra data i beständig lagring">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Webbläsaren är fjärrstyrd">
-
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Öppna panel för webbautentisiering">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Hantera delning av din kamera och/eller mikrofon med webbplatsen">
@@ -807,6 +805,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Du har inte beviljat denna webbplats några särskilda rättigheter.">
 <!ENTITY identity.permissionsReloadHint "Du kan behöva ladda om sidan för att ändringarna ska verkställas.">
 
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Webbläsarflikar">
@@ -905,6 +904,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Ljud från denna fliken kommer att delas.">
 <!ENTITY getUserMedia.allWindowsShared.message "Alla synliga fönster på din skärm kommer att delas.">
 
+<!ENTITY trackingProtection.on "Spårningsskydd: PÅ">
+<!ENTITY trackingProtection.off "Spårningsskydd: AV">
 <!ENTITY trackingProtection.title "Spårningsskydd">
 <!ENTITY trackingProtection.tooltip "Öppna spårningsskydds inställningar">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blockerar delar av sidan som kan spåra din surfning.">
@@ -915,6 +916,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Inaktivera skydd för den här sidan">
 <!ENTITY trackingProtection.unblock.accesskey "I">
+<!ENTITY trackingProtection.unblock2.label "Lita på denna sidan">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -922,6 +924,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "I">
 <!ENTITY trackingProtection.block2.label "Aktivera skydd">
 <!ENTITY trackingProtection.block2.accesskey "A">
+
+<!ENTITY trackingProtection.unblockPrivate2.label "Lita på denna sidan för denna session">
+<!ENTITY trackingProtection.block3.label "Slå på Spårningsskydd">
+<!ENTITY trackingProtection.reload.label "Ladda om denna sidan">
 
 <!ENTITY pluginNotification.showAll.label "Visa alla">
 <!ENTITY pluginNotification.showAll.accesskey "V">
