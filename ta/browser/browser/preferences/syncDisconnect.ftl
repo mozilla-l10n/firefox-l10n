@@ -24,3 +24,6 @@ sync-disconnect-cancel =
 sync-disconnect-confirm-disconnect-delete =
     .label = துண்டித்து நீக்கு
     .accesskey = D
+sync-disconnect-confirm-disconnect =
+    .label = சும்மா துண்டிங்க
+    .accesskey = D
