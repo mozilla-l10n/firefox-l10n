@@ -191,7 +191,6 @@
 <!ENTITY searchItem.title "Znajdź" >
 <!ENTITY homeButton.label "Strona startowa">
 <!ENTITY homeButton.defaultPage.tooltip "Przejdź do strony startowej">
-
 <!ENTITY bookmarksButton.label          "Zakładki">
 <!ENTITY bookmarksCmd.commandkey        "b">
 <!ENTITY bookmarksSubview.label "Zakładki">
@@ -676,17 +675,27 @@
 <!ENTITY getUserMedia.audioCapture.label "Dźwięk z karty będzie udostępniany.">
 <!ENTITY getUserMedia.allWindowsShared.message "Wszystkie widoczne na ekranie okna zostaną udostępnione.">
 
+<!ENTITY trackingProtection.on "Ochrona przed śledzeniem: włączona">
+<!ENTITY trackingProtection.off "Ochrona przed śledzeniem: wyłączona">
 <!ENTITY trackingProtection.title "Ochrona przed śledzeniem">
 <!ENTITY trackingProtection.tooltip "Otwórz ustawienia ochrony przed śledzeniem">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokuje elementy strony mogące śledzić Twoją aktywność w sieci.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Strona zawiera elementy mogące śledzić Twoją aktywność w sieci, jednak ochrona przed nimi została wyłączona.">
 <!ENTITY trackingProtection.notDetected3 "Nie wykryto elementów śledzących aktywność użytkownika na tej stronie.">
+<!ENTITY trackingProtection.detectedNotBlocked4 "Wykryto elementy śledzące na tej stronie.">
+<!ENTITY trackingProtection.notDetected4 "Nie wykryto elementów śledzących na tej stronie.">
 <!ENTITY trackingProtection.unblock.label "Wyłącz ochronę dla tej witryny">
 <!ENTITY trackingProtection.unblock.accesskey "W">
+<!ENTITY trackingProtection.unblock2.label "Wyłącz dla tej witryny">
+<!ENTITY trackingProtection.unblock2.accesskey "W">
 <!ENTITY trackingProtection.unblockPrivate.label "Wyłącz ochronę w tym oknie prywatnym">
 <!ENTITY trackingProtection.unblockPrivate.accesskey "W">
+<!ENTITY trackingProtection.unblockPrivate2.label "Tymczasowo wyłącz dla tej witryny">
+<!ENTITY trackingProtection.unblockPrivate2.accesskey "T">
 <!ENTITY trackingProtection.block2.label "Włącz ochronę dla tej witryny">
 <!ENTITY trackingProtection.block2.accesskey "W">
+<!ENTITY trackingProtection.block3.label "Włącz ochronę przed śledzeniem">
+<!ENTITY trackingProtection.block3.accesskey "W">
 
 <!ENTITY pluginNotification.showAll.label "Wyświetl wszystkie">
 <!ENTITY pluginNotification.showAll.accesskey "W">
