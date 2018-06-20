@@ -27,3 +27,4 @@ blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-name = ការ​ការពារ​មូលដ្ឋាន Disconnect.me (ដែល​បាន​ផ្ដល់​អនុសាសន៍)។
 blocklist-item-moz-std-desc = អនុញ្ញាតអ្នក​តាម​ដាន​មួយ​ចំនួន​ដើម្បី​ឲ្យ​តំបន់បណ្ដាញ​ដំណើរការ​បាន​ធម្មតា។
 blocklist-item-moz-full-name = ផ្ដាច់​ខ្ញុំ ការពារ​តឹងរ៉ឹង។
+blocklist-item-moz-full-desc = ទប់ស្កាត់​កម្មវិធី​តាមដាន​ដែល​ស្គាល់។ វេបសាយ​ខ្លះ​អាច​ដំណើរការ​មិន​ល្អ។
