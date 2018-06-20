@@ -357,7 +357,19 @@
 <!ENTITY replyToListMsgCmd.key "i">
 <!ENTITY forwardMsgCmd.label "Adelante">
 <!ENTITY forwardMsgCmd.accesskey "F">
+<!ENTITY forwardAsAttachmentCmd.label "Adjunto">
+<!ENTITY editAsNewMsgCmd.label "Editar como nuevo mensaje">
+<!ENTITY editDraftMsgCmd.label "Editar mensaje borrador">
+<!ENTITY editTemplateMsgCmd.label "Editar plantilla">
 <!-- do not change "VK_RETURN" -->
+<!ENTITY createFilter.label "Crear filtro del mensaje…">
+<!ENTITY moveMsgToMenu.label "Mover a">
+<!ENTITY moveCopyMsgRecentMenu.label "Reciente">
+<!ENTITY copyMessageLocation.label "Copiar dirección del mensaje">
+<!ENTITY copyMsgToMenu.label "Copiar a">
+<!ENTITY moveToFolderAgain.label "Mover de nuevo">
+<!ENTITY killThreadMenu.label "Ignorar hilo">
+<!ENTITY killSubthreadMenu.label "Ignorar subhilo">
 
 <!-- Windows Menu -->
 
