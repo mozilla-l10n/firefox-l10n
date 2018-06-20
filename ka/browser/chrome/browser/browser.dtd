@@ -65,7 +65,6 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.accesskey             "ბ">
 <!ENTITY  closeTab.label                     "ჩანართის დახურვა">
 <!ENTITY  closeTab.accesskey                 "უ">
-
 <!ENTITY  hiddenTabs.label                   "დამალული ჩანართები">
 
 <!ENTITY  listAllTabs.label      "ყველა ჩანართის სია">
@@ -215,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "შეტყობინებების არე">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "მდებარეობის მოთხოვნის არე">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "თვითგაშვების სამართავის გახსნა">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "დამატების ჩადგმის შეტყობინების არის გახსნა">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "გრაფიკული ელემენტების გამოსახვის უფლებების მართვა">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "კავშირგარეშე საცავის შეტყობინების არის გახსნა">
@@ -223,7 +223,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "აირჩიეთ მიიღოთ თუ არა შეტყობინებები ამ საიტისგან">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "მონაცემების შენახვა მუდმივ მეხსიერებაზე">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "ბრაუზერი იმყოფება დისტანციური მართვის ქვეშ">
-
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "ვებსაიტებზე შესვლის არე">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "საიტისთვის თქვენი კამერის და/ან მიკროფონის გაზიარების მართვა">
@@ -243,6 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "ამ საიტისთვის შეტყობინებების ჩვენების უფლება შეზღუდული გაქვთ.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "ამ საიტისთვის, მუდმივ მეხსიერებასთან წვდომა შეზღუდული გაქვთ.">
 <!ENTITY urlbar.popupBlocked.tooltip             "ამ საიტზე, ამომხტომი ფირნიშები შეზღუდული გაქვთ.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "ამ საიტისთვის მედიაფაილების თვითგაშვების უფლება შეზღუდული გაქვთ.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "ამ საიტისთვის, გრაფიკული მონაცემების გამოსახვის უფლება შეზღუდული გაქვთ.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "ამ საიტისთვის Adobe Flash მოდულის გამოყენების უფლება შეზღუდული გაქვთ.">
 <!ENTITY urlbar.midiBlocked.tooltip              "ამ საიტისთვის MIDI წვდომის უფლება შეზღუდული გაქვთ.">
@@ -807,6 +807,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "ამ საიტისთვის განსაკუთრებული უფლებები არ მიგიციათ.">
 <!ENTITY identity.permissionsReloadHint "ცვლილებების ასამოქმედებლად შესაძლოა გვერდის ხელახლა ჩატვირთვა დაგჭირდეთ.">
 
+<!ENTITY identity.permissionsPreferences.tooltip "ნებართვების პარამეტრების გახსნა">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "ბრაუზერის ჩანართები">
@@ -905,16 +907,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "ჩანართიდან აუდიო გაზიარდება.">
 <!ENTITY getUserMedia.allWindowsShared.message "ეკრანზე ნაჩვენები ყველა ფანჯარა გაზიარდება.">
 
+<!ENTITY trackingProtection.on "თვალთვალისგან დაცვა: ჩართ.">
+<!ENTITY trackingProtection.off "თვალთვალისგან დაცვა: გამორთ.">
 <!ENTITY trackingProtection.title "თვალთვალისგან დაცვა">
 <!ENTITY trackingProtection.tooltip "თვალთვალისგან დაცვის პარამეტრების გახსნა">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; ზღუდავს საიტის იმ ნაწილებს, რომლებსაც თქვენს მოქმედებებზე თვალყურის დევნება შეუძლია.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "საიტი შეიცავს ნაწილებს, რომელიც შესაძლოა თქვენს მოქმედებებს აღრიცხავდეს. დაცვა ამჟამად, გამორთული გაქვთ.">
 <!ENTITY trackingProtection.notDetected3 "ამ გვერდზე მოთვალთვალე ელემენტები არ აღმოჩენილა.">
+<!ENTITY trackingProtection.detectedNotBlocked4 "ვებგვერდზე აღმოჩენილია მეთვალყურე ელემენტები.">
+<!ENTITY trackingProtection.notDetected4 "ამ გვერდზე მეთვალყურე ელემენტები არ აღმოჩენილა.">
+<!ENTITY trackingProtection.reloadRequired "თქვენ ჩართეთ თვალთვალისგან დაცვა. მეთვალყურეების შესაზღუდად, ხელახლა გახსენით გვერდი.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "ამ საიტზე დაცვის გამორთვა">
 <!ENTITY trackingProtection.unblock.accesskey "გ">
+<!ENTITY trackingProtection.unblock2.label "საიტისთვის ნდობის გამოცხადება">
+<!ENTITY trackingProtection.unblock2.accesskey "ნ">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -922,6 +931,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "გ">
 <!ENTITY trackingProtection.block2.label "დაცვის ჩართვა">
 <!ENTITY trackingProtection.block2.accesskey "რ">
+
+<!ENTITY trackingProtection.unblockPrivate2.label "საიტისთვის ნდობის გამოცხადება ამ სეანსზე">
+<!ENTITY trackingProtection.unblockPrivate2.accesskey "ნ">
+<!ENTITY trackingProtection.block3.label "თვალთვალისგან დაცვის ჩართვა">
+<!ENTITY trackingProtection.block3.accesskey "თ">
+<!ENTITY trackingProtection.reload.label "გვერდის ხელახლა გახსნა">
+<!ENTITY trackingProtection.reload.accesskey "ხ">
 
 <!ENTITY pluginNotification.showAll.label "ყველას ჩვენება">
 <!ENTITY pluginNotification.showAll.accesskey "ყ">
