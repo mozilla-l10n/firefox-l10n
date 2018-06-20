@@ -65,7 +65,6 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.accesskey             "u">
 <!ENTITY  closeTab.label                     "Særa feuggio">
 <!ENTITY  closeTab.accesskey                 "S">
-
 <!ENTITY  hiddenTabs.label                   "Feuggi ascozi">
 
 <!ENTITY  listAllTabs.label      "Lista de tutti i feuggi">
@@ -215,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Arvi panello mesaggi">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Arvi o panello de domanda de l'indirisso">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Arvi panello aoto-ezegoçion">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Arvi o panello de instalaçion conponente azonto">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Gestisci o permisso d'estraçion canvas">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Arvi o panello de mesaggio sarvataggio feua linia">
@@ -223,7 +223,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Deciddi se riçeive notifiche da sto scito">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Sarva dæti inta memöia persistente">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Navegatô in contròllo remòtto">
-
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Arvi panello de aotenticaçion">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Gestisci a condivixon de fòtocamera e/o micròfono co-o scito">
@@ -243,6 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "T'æ blocou e notifiche pe sto scito.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "T'æ blocou o sarvataggio persistente pe sto scito.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Ti æ blocou i pop-up pe sto scito.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Ti æ blocou l'aoto-ezegoçion co-o son in sto scito.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Ti æ blocou l'estaçion dæti canvas pe sto scito.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Ti æ blocou l'izo do plugin Adobe Flash pe sto scito.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Ti æ blocou l'acesso MIDI pe sto scito.">
@@ -807,6 +807,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Nisciun permisso speciale asociou a sto scito.">
 <!ENTITY identity.permissionsReloadHint "Peu dase che ti devi arvî torna a pagina pe vedde i cangiamenti.">
 
+<!ENTITY identity.permissionsPreferences.tooltip "Arvi preferense di permissi">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Feuggio do navegatô">
@@ -905,16 +907,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "L’aodio do feugio o saiâ condivizo.">
 <!ENTITY getUserMedia.allWindowsShared.message "Tutte i barcoin vixibili into schermo saian condivizi.">
 
+<!ENTITY trackingProtection.on "Proteçion anti-traciamento: AVERTO">
+<!ENTITY trackingProtection.off "Proteçion anti-traciamento: SÆROU">
 <!ENTITY trackingProtection.title "Proteçion anti-traciamento">
 <!ENTITY trackingProtection.tooltip "Arvi e preferense da proteçion anti-traciamento">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; o blòcca di elementi da pagina che peuan traciâ a navegaçion.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "In sta pagina gh'é di elementi che peuan traciâ a navegaçion. A proteçion o l'é dizativâ.">
 <!ENTITY trackingProtection.notDetected3 "In sta pagina no gh'é di elementi che peuan traciâ a navegaçion.">
+<!ENTITY trackingProtection.detectedNotBlocked4 "In sta pagina son stæti atrovæ di traciatoî.">
+<!ENTITY trackingProtection.notDetected4 "In sta pagina no son stæti atrovæ di traciatoî.">
+<!ENTITY trackingProtection.reloadRequired "T'æ abilitou a proteçion anti-traciamento. Pe blocâ tutti i traciatoî recarega a pagina corente pe piaxei.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Dizativa proteçion pe sto scito">
 <!ENTITY trackingProtection.unblock.accesskey "D">
+<!ENTITY trackingProtection.unblock2.label "Fiate de sto scito">
+<!ENTITY trackingProtection.unblock2.accesskey "F">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -922,6 +931,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "D">
 <!ENTITY trackingProtection.block2.label "Ativa proteçion">
 <!ENTITY trackingProtection.block2.accesskey "A">
+
+<!ENTITY trackingProtection.unblockPrivate2.label "Fiate pe sta sescion">
+<!ENTITY trackingProtection.unblockPrivate2.accesskey "F">
+<!ENTITY trackingProtection.block3.label "Açendi proteçion anti-traciamento">
+<!ENTITY trackingProtection.block3.accesskey "A">
+<!ENTITY trackingProtection.reload.label "Recarega sta pagina">
+<!ENTITY trackingProtection.reload.accesskey "R">
 
 <!ENTITY pluginNotification.showAll.label "Veddi tutti">
 <!ENTITY pluginNotification.showAll.accesskey "V">
