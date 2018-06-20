@@ -65,7 +65,6 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.accesskey             "B">
 <!ENTITY  closeTab.label                     "Tutup Tab">
 <!ENTITY  closeTab.accesskey                 "b">
-
 <!ENTITY  hiddenTabs.label                   "Tab Tersorok">
 
 <!ENTITY  listAllTabs.label      "Senarai semua tab">
@@ -215,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Buka panel mesej">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Buka lokasi panel permintaan">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Buka panel automain">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Buka panel mesej pemasangan add-on">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Urus izin ekstrak kanvas">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Buka panel mesej storan luar talian">
@@ -223,7 +223,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Tukar pilihan samada anda boleh menerima notifikasi dari laman">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Simpan data Persistent Storage">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Pelayar berada dalam kawalan jauh">
-
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Buka panel Pengesahan Web">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Urus perkongsian kamera dan/atau mikrofon anda dengan laman">
@@ -243,6 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Anda telah menyekat notifikasi untuk laman web ini.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Anda telah menghalang storan gigih untuk laman web ini.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Anda telah menyekat pop-up untuk laman web ini.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Anda telah menyekat media automain dengan suara untuk laman web ini.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Anda telah menyekat ekstraksi data kanvas untuk laman web ini.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Anda telah menyekat laman web ini daripada menggunakan plugin Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Anda telah menyekat akses MIDI untuk laman web ini.">
@@ -807,6 +807,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Anda tidak memberikan laman ini sebarang keizinan khas.">
 <!ENTITY identity.permissionsReloadHint "Anda mungkin perlu memuat semula halaman supaya perubahan ini dilaksanakan.">
 
+<!ENTITY identity.permissionsPreferences.tooltip "Buka Keutamaan Keizinan">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Tab pelayar">
@@ -905,16 +907,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Audio dari tab akan dikongsi.">
 <!ENTITY getUserMedia.allWindowsShared.message "Semua tetingkap yang kelihatan pada skrin anda akan dikongsi.">
 
+<!ENTITY trackingProtection.on "Perlindungan Penjejakan: AKTIF">
+<!ENTITY trackingProtection.off "Perlindungan Penjejakan: NYAHAKTIF">
 <!ENTITY trackingProtection.title "Perlindungan Penjejakan">
 <!ENTITY trackingProtection.tooltip "Buka Keutamaan Perlindungan Penjejakan">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; sedang menyekat sebahagian halaman yang mungkin menjejaki pelayaran anda.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Laman ini mengandungi elemen yang boleh menjejaki pelayaran anda. Anda telah melumpuhkan perlindungan.">
 <!ENTITY trackingProtection.notDetected3 "Tiada elemen penjejak yang dikesan dalam halaman ini.">
+<!ENTITY trackingProtection.detectedNotBlocked4 "Penjejak telah dikesan dalam halaman web ini.">
+<!ENTITY trackingProtection.notDetected4 "Tiada penjejak dikesan dalam halaman ini.">
+<!ENTITY trackingProtection.reloadRequired "Anda telah dayakan Perlindungan Penjejakan. Untuk menyekat semua penjejak, sila muat semula halaman web.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Nyahdayakan perlindungan untuk laman ini">
 <!ENTITY trackingProtection.unblock.accesskey "N">
+<!ENTITY trackingProtection.unblock2.label "Percayai laman ini">
+<!ENTITY trackingProtection.unblock2.accesskey "P">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -922,6 +931,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "N">
 <!ENTITY trackingProtection.block2.label "Dayakan perlindungan">
 <!ENTITY trackingProtection.block2.accesskey "D">
+
+<!ENTITY trackingProtection.unblockPrivate2.label "Percayai laman ini untuk sesi ini">
+<!ENTITY trackingProtection.unblockPrivate2.accesskey "P">
+<!ENTITY trackingProtection.block3.label "AKTIFKAN Perlindungan Penjejakan">
+<!ENTITY trackingProtection.block3.accesskey "A">
+<!ENTITY trackingProtection.reload.label "Muat semula Halaman Ini">
+<!ENTITY trackingProtection.reload.accesskey "M">
 
 <!ENTITY pluginNotification.showAll.label "Papar Semua">
 <!ENTITY pluginNotification.showAll.accesskey "S">
