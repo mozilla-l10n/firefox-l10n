@@ -64,7 +64,6 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.accesskey             "ด">
 <!ENTITY  closeTab.label                     "ปิดแท็บ">
 <!ENTITY  closeTab.accesskey                 "ป">
-
 <!ENTITY  hiddenTabs.label                   "แท็บที่ซ่อนอยู่">
 
 <!ENTITY  listAllTabs.label      "แสดงรายการแท็บทั้งหมด">
@@ -220,7 +219,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "เลือกว่าคุณสามารถรับการแจ้งเตือนจากไซต์ได้หรือไม่">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "จัดเก็บข้อมูลในที่เก็บข้อมูลถาวร">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "เบราว์เซอร์อยู่ภายใต้การควบคุมระยะไกล">
-
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "เปิดแผง ​Web Authentication">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "จัดการการแบ่งปันกล้องและ/หรือไมโครโฟนของคุณกับไซต์">
@@ -802,6 +800,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "คุณไม่ได้อนุญาตไซต์นี้ด้วยสิทธิพิเศษใด ๆ">
 <!ENTITY identity.permissionsReloadHint "คุณอาจจำเป็นต้องโหลดหน้าใหม่เพื่อให้การเปลี่ยนแปลงมีผล">
 
+<!ENTITY identity.permissionsPreferences.tooltip "เปิดค่ากำหนดการอนุญาต">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "แท็บเบราว์เซอร์">
@@ -900,6 +900,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "เสียงจากแท็บจะถูกแบ่งปัน">
 <!ENTITY getUserMedia.allWindowsShared.message "หน้าต่างที่ปรากฏอยู่ทั้งหมดบนหน้าจอของคุณจะถูกแบ่งปัน">
 
+<!ENTITY trackingProtection.on "การป้องกันการติดตาม: เปิด">
+<!ENTITY trackingProtection.off "การป้องกันการติดตาม: ปิด">
 <!ENTITY trackingProtection.title "การป้องกันการติดตาม">
 <!ENTITY trackingProtection.tooltip "เปิดค่ากำหนดการป้องกันการติดตาม">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; กำลังปิดกั้นบางส่วนของหน้าที่อาจติดตามการท่องเว็บของคุณ">
@@ -917,6 +919,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "ป">
 <!ENTITY trackingProtection.block2.label "เปิดใช้งานการป้องกัน">
 <!ENTITY trackingProtection.block2.accesskey "ป">
+
 
 <!ENTITY pluginNotification.showAll.label "แสดงทั้งหมด">
 <!ENTITY pluginNotification.showAll.accesskey "ส">
