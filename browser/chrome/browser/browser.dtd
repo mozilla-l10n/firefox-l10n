@@ -65,7 +65,6 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.accesskey             "U">
 <!ENTITY  closeTab.label                     "关闭标签页">
 <!ENTITY  closeTab.accesskey                 "c">
-
 <!ENTITY  hiddenTabs.label                   "隐藏标签页">
 
 <!ENTITY  listAllTabs.label      "列出全部标签页">
@@ -215,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "打开消息面板">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "打开位置请求面板">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "打开自动播放面板">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "打开附加组件安装消息面板">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "管理画布(canvas)提取权限">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "打开离线存储消息面板">
@@ -223,7 +223,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "更改您是否接收该网站发来的通知">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "在持久存储中存储数据">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "浏览器正被远程控制">
-
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "打开 Web 认证面板">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "管理您是否与该网站共享摄像头和麦克风">
@@ -243,6 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "您已阻止此网站发送通知。">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "您已阻止此网站使用持久存储。">
 <!ENTITY urlbar.popupBlocked.tooltip             "您已拦截此网站的弹出窗口。">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "您已阻止此网站自动播放有声媒体内容。">
 <!ENTITY urlbar.canvasBlocked.tooltip            "您已禁止此网站获取 Canvas 数据。">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "您已阻止此网站使用 Adobe Flash 插件。">
 <!ENTITY urlbar.midiBlocked.tooltip              "您已阻止此网站访问 MIDI。">
@@ -807,6 +807,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "您尚未授予此站点任何权限。">
 <!ENTITY identity.permissionsReloadHint "您可能需要重新载入此页面以应用更改。">
 
+<!ENTITY identity.permissionsPreferences.tooltip "打开权限偏好设置">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "浏览器标签页">
@@ -905,16 +907,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "来自此标签页的音频将被共享。">
 <!ENTITY getUserMedia.allWindowsShared.message "您的屏幕上的所有可见窗口都将被共享。">
 
+<!ENTITY trackingProtection.on "跟踪保护：开">
+<!ENTITY trackingProtection.off "跟踪保护：关">
 <!ENTITY trackingProtection.title "跟踪保护">
 <!ENTITY trackingProtection.tooltip "打开跟踪保护首选项">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; 已拦截该页面可能跟踪您的浏览行为的内容。">
 <!ENTITY trackingProtection.detectedNotBlocked3 "此网站包含的某些元素可能跟踪您的浏览行为，但您已经禁用保护。">
 <!ENTITY trackingProtection.notDetected3 "此页面上未检测到跟踪元素。">
+<!ENTITY trackingProtection.detectedNotBlocked4 "此页面上检测到跟踪器。">
+<!ENTITY trackingProtection.notDetected4 "此页面上未检测到跟踪器。">
+<!ENTITY trackingProtection.reloadRequired "您已启用跟踪保护。请重新载入当前网页以拦截所有跟踪器。">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "在此网站上禁用保护">
 <!ENTITY trackingProtection.unblock.accesskey "D">
+<!ENTITY trackingProtection.unblock2.label "信任此网站">
+<!ENTITY trackingProtection.unblock2.accesskey "T">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -922,6 +931,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "D">
 <!ENTITY trackingProtection.block2.label "启用保护">
 <!ENTITY trackingProtection.block2.accesskey "E">
+
+<!ENTITY trackingProtection.unblockPrivate2.label "在这次浏览期间信任此网站">
+<!ENTITY trackingProtection.unblockPrivate2.accesskey "T">
+<!ENTITY trackingProtection.block3.label "打开跟踪保护功能">
+<!ENTITY trackingProtection.block3.accesskey "T">
+<!ENTITY trackingProtection.reload.label "重新载入此页面">
+<!ENTITY trackingProtection.reload.accesskey "R">
 
 <!ENTITY pluginNotification.showAll.label "全部显示">
 <!ENTITY pluginNotification.showAll.accesskey "S">
