@@ -914,6 +914,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.detectedNotBlocked3 "Denne sida inneheld element som kan spore nettlesinga di. Du har slått av vern.">
 <!ENTITY trackingProtection.notDetected3 "Ingens sporingselement funne på denne sida.">
 <!ENTITY trackingProtection.detectedNotBlocked4 "Sporfølgjarar er oppdaga på denne nettsida.">
+<!ENTITY trackingProtection.notDetected4 "Ingen sporfølgjarar er oppdaga på denne nettsida.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
