@@ -70,6 +70,15 @@
 
 <!ENTITY url_bar_default_text2 "Nda tuku a chika direccion">
 
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "Kuachu\&apos;un ña kavi QR tava ndukuku a chau iin dirección">
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "Kuachu\&apos;un micrófono tava ndukuku a chau iin dirección">
+
 <!ENTITY bookmark "Marka">
 <!ENTITY bookmark_remove "Xita marka">
 <!ENTITY bookmark_added "Inkàa va´a markador">
