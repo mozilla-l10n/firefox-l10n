@@ -17,7 +17,7 @@
 <!ENTITY dnsNotFound.longDesc "<p>The browser could not find the host server for the provided address.</p><ul><li>Did you make a mistake when typing the domain? (e.g. <q><strong>ww</strong>.mozilla.org</q> instead of <q><strong>www</strong>.mozilla.org</q>)</li><li>Are you certain this domain address exists?  Its registration may have expired.</li><li>Are you unable to browse other sites?  Check your network connection and DNS server settings.</li><li>Is your computer or network protected by a firewall or proxy?  Incorrect settings can interfere with Web browsing.</li></ul>">
 
 <!ENTITY fileNotFound.title "File Not Found">
-<!ENTITY fileNotFound.longDesc "<ul><li>Could the item have been renamed, removed, or relocated?</li><li>Is there a spelling, capitalisation, or other typographical error in the address?</li><li>Do you have sufficient access permissions to the requested item?</li></ul>">
+<!ENTITY fileNotFound.longDesc "<ul><li>Could the item have been renamed, removed, or relocated?</li><li>Is there a spelling, capitalization, or other typographical error in the address?</li><li>Do you have sufficient access permissions to the requested item?</li></ul>">
 
 <!ENTITY fileAccessDenied.title "Access to the file was denied">
 <!ENTITY fileAccessDenied.longDesc "<ul><li>It may have been removed, moved, or file permissions may be preventing access.</li></ul>">

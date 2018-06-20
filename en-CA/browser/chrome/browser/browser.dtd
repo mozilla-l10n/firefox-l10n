@@ -214,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Open message panel">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Open location request panel">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Open autoplay panel">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Open add-on installation message panel">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Manage canvas extraction permission">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Open offline storage message panel">
@@ -241,6 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "You have blocked notifications for this web site.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "You have blocked persistent storage for this web site.">
 <!ENTITY urlbar.popupBlocked.tooltip             "You have blocked pop-ups for this web site.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "You have blocked autoplay media with sound for this website.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "You have blocked canvas data extraction for this web site.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "You have blocked this web site from using the Adobe Flash plugin.">
 <!ENTITY urlbar.midiBlocked.tooltip              "You have blocked MIDI access for this web site.">
@@ -805,6 +807,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "You have not granted this site any special permissions.">
 <!ENTITY identity.permissionsReloadHint "You may need to reload the page for changes to apply.">
 
+<!ENTITY identity.permissionsPreferences.tooltip "Open Permissions Preferences">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -823,7 +826,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Turn on tab synchronization to view a list of tabs from your other devices.">
-<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Search synchronized tabs">
+<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Search synced tabs">
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Connect Another Device">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
@@ -853,7 +856,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "Sign In To &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
-<!ENTITY syncSyncNowItem.label        "Synchronize Now">
+<!ENTITY syncSyncNowItem.label        "Sync Now">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Reconnect to &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "R">
@@ -904,16 +907,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Audio from the tab will be shared.">
 <!ENTITY getUserMedia.allWindowsShared.message "All visible windows on your screen will be shared.">
 
+<!ENTITY trackingProtection.on "Tracking Protection: ON">
+<!ENTITY trackingProtection.off "Tracking Protection: OFF">
 <!ENTITY trackingProtection.title "Tracking Protection">
 <!ENTITY trackingProtection.tooltip "Open Tracking Protection Preferences">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; is blocking parts of the page that may track your browsing.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "This site includes elements that may track your browsing. You have disabled protection.">
 <!ENTITY trackingProtection.notDetected3 "No tracking elements detected on this page.">
+<!ENTITY trackingProtection.detectedNotBlocked4 "Trackers have been detected on this webpage.">
+<!ENTITY trackingProtection.notDetected4 "No trackers detected on this page.">
+<!ENTITY trackingProtection.reloadRequired "You have enabled Tracking Protection. To block all trackers please reload the current webpage.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Disable protection for this site">
 <!ENTITY trackingProtection.unblock.accesskey "D">
+<!ENTITY trackingProtection.unblock2.label "Trust this site">
+<!ENTITY trackingProtection.unblock2.accesskey "T">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -922,6 +932,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Enable protection">
 <!ENTITY trackingProtection.block2.accesskey "E">
 
+<!ENTITY trackingProtection.unblockPrivate2.label "Trust this site for this session">
+<!ENTITY trackingProtection.unblockPrivate2.accesskey "T">
+<!ENTITY trackingProtection.block3.label "Turn Tracking Protection ON">
+<!ENTITY trackingProtection.block3.accesskey "T">
+<!ENTITY trackingProtection.reload.label "Reload This Page">
+<!ENTITY trackingProtection.reload.accesskey "R">
 
 <!ENTITY pluginNotification.showAll.label "Show All">
 <!ENTITY pluginNotification.showAll.accesskey "S">
@@ -1021,7 +1037,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.manageExtension.label "Manage Extension…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Send Tab to Device">
-<!ENTITY sendToDevice.syncNotReady.label "Synchronising Devices…">
+<!ENTITY sendToDevice.syncNotReady.label "Syncing Devices…">
 
 <!ENTITY pageAction.shareUrl.label "Share">
 
