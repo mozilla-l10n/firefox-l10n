@@ -923,6 +923,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblock.label "Desativar proteção para este site">
 <!ENTITY trackingProtection.unblock.accesskey "D">
 <!ENTITY trackingProtection.unblock2.label "Confiar neste site">
+<!ENTITY trackingProtection.unblock2.accesskey "C">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -931,6 +932,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Ativar proteção">
 <!ENTITY trackingProtection.block2.accesskey "e">
 
+<!ENTITY trackingProtection.unblockPrivate2.label "Confiar neste site para esta sessão">
+<!ENTITY trackingProtection.unblockPrivate2.accesskey "C">
+<!ENTITY trackingProtection.block3.label "Ligar a Proteção contra monitorização">
+<!ENTITY trackingProtection.block3.accesskey "t">
+<!ENTITY trackingProtection.reload.label "Recarregar esta página">
+<!ENTITY trackingProtection.reload.accesskey "R">
 
 <!ENTITY pluginNotification.showAll.label "Mostrar tudo">
 <!ENTITY pluginNotification.showAll.accesskey "s">
