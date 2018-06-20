@@ -14,3 +14,9 @@ sync-disconnect-cancel =
 ## The 2 labels which may be shown on the single "Disconnect" button, depending
 ## on the state of the checkboxes.
 
+sync-disconnect-confirm-disconnect-delete =
+    .label = అనుసంధానం తెంచి తొలగించు
+    .accesskey = D
+sync-disconnect-confirm-disconnect =
+    .label = కేవలం అనుసంధానం తెంచు
+    .accesskey = D

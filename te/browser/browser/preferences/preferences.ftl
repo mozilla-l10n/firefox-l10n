@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -125,20 +117,11 @@ is-not-default = { -brand-short-name } ప్రస్తుతం మీ అప
 set-as-my-default-browser =
     .label = అప్రమేయం చేయి…
     .accesskey = D
-startup-page = { -brand-short-name } మొదలైనప్పుడు
-    .accesskey = s
-startup-user-homepage =
-    .label = నా ముంగిలి పేజీని చూపించు
-startup-blank-page =
-    .label = ఖాళీ పేజీని చూపించు
-startup-prev-session =
-    .label = చివరిగా మీరు చూసిన విండోలను ట్యాబులను చూపించు
 startup-restore-previous-session =
     .label = మునుపటి సెషన్ను పునరుద్ధరించు
     .accesskey = s
 disable-extension =
     .label = పొడగింతను అచేతనించు
-home-page-header = ముంగిలి పేజీ
 tabs-group-header = ట్యాబులు
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab ట్యాబులను వరుసగా కాకుండా వాటిని ఇటీవల వాడిన క్రమంలో చుట్టుతిప్పుతుంది
@@ -252,7 +235,6 @@ applications-action-column =
     .accesskey = A
 play-drm-content-learn-more = ఇంకా తెలుసుకోండి
 update-application-title = { -brand-short-name } తాజాకరణలు
-update-application-info = సంచిక { $version } <a>కొత్తవి ఏమిటి</a>
 update-application-version = సంచిక { $version } <a data-l10n-name="learn-more">కొత్తవి ఏమిటి</a>
 update-history =
     .label = తాజాకరణ చరిత్రను చూపించు…
@@ -355,9 +337,6 @@ use-current-pages =
 choose-bookmark =
     .label = ఇష్టాంశాన్ని వాడు…
     .accesskey = B
-restore-default =
-    .label = అప్రమేయాలను పునరుద్ధరించు
-    .accesskey = R
 
 ## Search Section
 
@@ -370,6 +349,9 @@ search-engine-default-header = అప్రమేయ శోధన యంత్�
 search-suggestions-option =
     .label = వెతుకుడు సలహాలను చూపించు
     .accesskey = s
+search-show-suggestions-url-bar-option =
+    .label = వెతుకుడు సూచనలను చిరునామా పట్టీ ఫలితాలలో చూపించు
+    .accesskey = l
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
