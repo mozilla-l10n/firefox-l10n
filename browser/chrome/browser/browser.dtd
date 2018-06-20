@@ -64,7 +64,6 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.accesskey             "U">
 <!ENTITY  closeTab.label                     "ట్యాబుని మూసివేయి">
 <!ENTITY  closeTab.accesskey                 "C">
-
 <!ENTITY  hiddenTabs.label                   "దాచిన ట్యాబులు">
 
 <!ENTITY  listAllTabs.label      "అన్ని ట్యాబుల జాబితా చూపించు">
@@ -222,7 +221,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "మీరు సైటు నుండి నోటిఫికేషన్లు అందుకుంటారో లేదో మార్చండి">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "నిరంతర నిల్వ డేటాని నిల్వ చేయండి">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "విహరణి వ్యవహిత నియంత్రణ కింద ఉంది">
-
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "సైటుతో మీ కేమెరా మరియు/లేదా మైక్రోఫోన్ పంచుకోడాన్ని నిర్వహించండి">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "సైటుతో మీ మైక్రోఫోనుని పంచుకోవడాన్ని నిర్వహించండి">
@@ -801,6 +799,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "ఈ సైటుకి మీరు ఎటువoటి ప్రత్యేక అనుమతులు ఇవ్వలేదు.">
 <!ENTITY identity.permissionsReloadHint "మార్పులు ప్రతిఫలించడానికి మీరు ఈ పేజీని మళ్ళీ లోడు చెయ్యాల్సిరావచ్చు.">
 
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "విహారిణి ట్యాబులు">
@@ -906,6 +905,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "ఈ సైటులో రక్షణను అచేతనంచేయి">
 <!ENTITY trackingProtection.unblock.accesskey "D">
+<!ENTITY trackingProtection.unblock2.label "ఈ సైటును విశ్వసించు">
+<!ENTITY trackingProtection.unblock2.accesskey "T">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -913,6 +914,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "D">
 <!ENTITY trackingProtection.block2.label "రక్షణను చేతనించు">
 <!ENTITY trackingProtection.block2.accesskey "E">
+
+<!ENTITY trackingProtection.unblockPrivate2.label "ఈ సైటుని ఈ సెషనుకి విశ్వసించు">
+<!ENTITY trackingProtection.unblockPrivate2.accesskey "T">
+<!ENTITY trackingProtection.block3.label "ట్రాకింగ్ సంరక్షణను ఆన్ చెయ్యి">
+<!ENTITY trackingProtection.block3.accesskey "T">
+<!ENTITY trackingProtection.reload.label "ఈ పేజీని రీలోడ్ చెయ్యి">
+<!ENTITY trackingProtection.reload.accesskey "R">
 
 <!ENTITY pluginNotification.showAll.label "అన్నీ చూపించు">
 <!ENTITY pluginNotification.showAll.accesskey "S">
