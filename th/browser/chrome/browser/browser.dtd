@@ -912,6 +912,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "ปิดใช้งานการป้องกันสำหรับไซต์นี้">
 <!ENTITY trackingProtection.unblock.accesskey "ป">
+<!ENTITY trackingProtection.unblock2.label "เชื่อถือไซต์นี้">
+<!ENTITY trackingProtection.unblock2.accesskey "ช">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -920,6 +922,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "เปิดใช้งานการป้องกัน">
 <!ENTITY trackingProtection.block2.accesskey "ป">
 
+<!ENTITY trackingProtection.unblockPrivate2.label "เชื่อถือไซต์นี้ในวาระนี้">
+<!ENTITY trackingProtection.unblockPrivate2.accesskey "ช">
 <!ENTITY trackingProtection.block3.label "เปิดการป้องกันการติดตาม">
 <!ENTITY trackingProtection.block3.accesskey "ป">
 <!ENTITY trackingProtection.reload.label "โหลดหน้านี้ใหม่">
