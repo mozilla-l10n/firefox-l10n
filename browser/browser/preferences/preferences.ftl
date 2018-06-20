@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -136,20 +128,11 @@ is-not-default = { -brand-short-name } не е вашият стандартен
 set-as-my-default-browser =
     .label = Задаване като стандартен…
     .accesskey = с
-startup-page = Когато { -brand-short-name } стартира
-    .accesskey = с
-startup-user-homepage =
-    .label = Показва началната страница
-startup-blank-page =
-    .label = Показва празна страница
-startup-prev-session =
-    .label = Показва прозорците и разделите от последния път
 startup-restore-previous-session =
     .label = Възстановяване на предишна сесия
     .accesskey = с
 disable-extension =
     .label = Изключване на разширението
-home-page-header = Начална страница
 tabs-group-header = Раздели
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab обикаля разделите в реда на използване
@@ -269,7 +252,6 @@ play-drm-content =
 play-drm-content-learn-more = Научете повече
 update-application-title = Обновявания на { -brand-short-name }
 update-application-description = За най-добра производителност, стабилност и защита поддържайте вашия { -brand-short-name } обновен.
-update-application-info = Издание { $version } <a>Новото в това издание</a>
 update-application-version = Издание { $version } <a data-l10n-name="learn-more">Новото в това издание</a>
 update-history =
     .label = Хронология на обновяванията…
@@ -305,7 +287,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Процеси за обработка на съдържание
     .accesskey = с
 performance-limit-content-process-enabled-desc = Допълнителни процеси за обработка съдържание може да направят &brandShortName; по-отзивчив, при използване на повече раздели за сметка на повече използвана памет.
-performance-limit-content-process-disabled-desc = Променянето на броя на процесите за съдържание е възможно само при многопроцесен { -brand-short-name }. <a>Научете как да проверите дали многопроцесността е включена</a>
 performance-limit-content-process-blocked-desc = Променянето на броя на процесите за съдържание е възможно само при многопроцесен { -brand-short-name }. <a data-l10n-name="learn-more">Научете как да проверите дали многопроцесността е включена</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -376,9 +357,6 @@ use-current-pages =
 choose-bookmark =
     .label = Отметка…
     .accesskey = О
-restore-default =
-    .label = Стандартната страница
-    .accesskey = С
 
 ## Search Section
 
@@ -725,6 +703,9 @@ collection-health-report =
     .label = Разрешаване на { -brand-short-name } да изпраща техническа информация и данни за използването към { -vendor-short-name }
     .accesskey = т
 collection-health-report-link = Научете повече
+collection-studies =
+    .label = Разрешаване на { -brand-short-name } да инсталира и извършва изследвания
+collection-studies-link = Преглед на изследванията на { -brand-short-name }
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Докладването да данни е изключено за тази конфигурация на изданието
