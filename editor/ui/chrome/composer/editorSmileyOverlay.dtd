@@ -1,14 +1,14 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Smiley Menu items -->
 
+<!-- Smiley Menu items -->
 <!ENTITY insertSmiley.label "Физиономии">
 <!ENTITY insertSmiley.accesskey "м">
 
 <!ENTITY smiley1Cmd.label "Усмивка">
 <!ENTITY smiley1Cmd.accesskey "У">
-<!ENTITY smiley1Cmd.tooltip "Вмъкване на усмихнато лице">
+<!ENTITY smiley1Cmd.tooltip "Вмъкване на физиономии">
 <!ENTITY smiley2Cmd.label "Смръщване">
 <!ENTITY smiley2Cmd.accesskey "щ">
 <!ENTITY smiley2Cmd.tooltip "Вмъкване на намръщено лице">
