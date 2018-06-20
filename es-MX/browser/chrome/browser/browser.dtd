@@ -932,6 +932,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Habilitar protección">
 <!ENTITY trackingProtection.block2.accesskey "H">
 
+<!ENTITY trackingProtection.unblockPrivate2.label "Confiar en este sitio solo por esta sesión">
+<!ENTITY trackingProtection.unblockPrivate2.accesskey "T">
+<!ENTITY trackingProtection.block3.label "Activar protección de rastreo">
+<!ENTITY trackingProtection.block3.accesskey "T">
+<!ENTITY trackingProtection.reload.label "Recargar esta página">
+<!ENTITY trackingProtection.reload.accesskey "R">
 
 <!ENTITY pluginNotification.showAll.label "Mostrar todo">
 <!ENTITY pluginNotification.showAll.accesskey "M">
