@@ -65,7 +65,6 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.accesskey             "b">
 <!ENTITY  closeTab.label                     "Fechar separador">
 <!ENTITY  closeTab.accesskey                 "c">
-
 <!ENTITY  hiddenTabs.label                   "Separadores ocultados">
 
 <!ENTITY  listAllTabs.label      "Listar todos os separadores">
@@ -215,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Abrir painel de mensagem">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Abrir painel de solicitação de localização">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Abri painel de reprodução automática">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Abrir painel de mensagem de instalação de extra">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Gerir permissão de extração da tela">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Abrir painel de mensagem de armazenamento offline">
@@ -223,7 +223,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Alterar se pode ou não receber notificações do site">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Armazenar dados em armazenamento persistente">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "O navegador está sob controlo remoto">
-
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Abrir painel de Autenticação Web">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Gerir a partilha da sua câmara e/ou microfone com o site">
@@ -243,6 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Bloqueou as notificações para este website.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Bloqueou o armazenamento de dados para este website.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Bloqueou pop-ups para este website.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Bloqueou a reprodução automática de multimédia para este website.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Bloqueou a extração de dados da tela para este website.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Bloqueou este website de utilizar o plugin Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Bloqueou o acesso MIDI para este website.">
@@ -807,6 +807,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Não concedeu quaisquer permissões especiais a este site.">
 <!ENTITY identity.permissionsReloadHint "Poderá ter de recarregar a página para as alterações se aplicarem.">
 
+<!ENTITY identity.permissionsPreferences.tooltip "Abrir preferências de permissões">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Separadores do navegador">
@@ -905,16 +907,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "O áudio do separador será partilhado.">
 <!ENTITY getUserMedia.allWindowsShared.message "Serão partilhadas todas as janelas visíveis no seu ecrã.">
 
+<!ENTITY trackingProtection.on "Proteção contra monitorização: LIGADA">
+<!ENTITY trackingProtection.off "Proteção contra monitorização: DESLIGADA">
 <!ENTITY trackingProtection.title "Proteção contra monitorização">
 <!ENTITY trackingProtection.tooltip "Abrir preferências de proteção contra monitorização">
 <!ENTITY trackingProtection.detectedBlocked3 "O &brandShortName; está a bloquear partes da página que podem monitorizar a sua navegação.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Este site incluí elementos que podem monitorizar a sua navegação. A proteção contra monitorização foi desativada por si.">
 <!ENTITY trackingProtection.notDetected3 "Não foram detetados elementos de monitorização nesta página.">
+<!ENTITY trackingProtection.detectedNotBlocked4 "Foram detetados trackers nesta página web.">
+<!ENTITY trackingProtection.notDetected4 "Não foram detetados trackers nesta página.">
+<!ENTITY trackingProtection.reloadRequired "Ativou a Proteção contra monitorização. Para bloquear todos os trackers, por favor recarregue a página web atual.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Desativar proteção para este site">
 <!ENTITY trackingProtection.unblock.accesskey "D">
+<!ENTITY trackingProtection.unblock2.label "Confiar neste site">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -922,6 +930,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "D">
 <!ENTITY trackingProtection.block2.label "Ativar proteção">
 <!ENTITY trackingProtection.block2.accesskey "e">
+
 
 <!ENTITY pluginNotification.showAll.label "Mostrar tudo">
 <!ENTITY pluginNotification.showAll.accesskey "s">
