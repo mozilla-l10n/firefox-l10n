@@ -65,7 +65,6 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.accesskey             "О">
 <!ENTITY  closeTab.label                     "Затваряне на раздела">
 <!ENTITY  closeTab.accesskey                 "З">
-
 <!ENTITY  hiddenTabs.label                   "Скрити раздели">
 
 <!ENTITY  listAllTabs.label      "Показване на всички раздели">
@@ -223,7 +222,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Промяна на правото да получавате известия от уеб страницата">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Използване на хранилището за постоянни данни">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Четецът е под дистанционно управление">
-
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Отваря панела за удостоверяване през Мрежата">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Управление споделянето на вашата камера и/или микрофон със сайта">
@@ -807,6 +805,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Не сте дали специфични права на този сайт.">
 <!ENTITY identity.permissionsReloadHint "За да бъдат приложени промените може да се наложи да презаредите страницата.">
 
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Раздели на четеца">
@@ -905,11 +904,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Звукът от раздела ще бъде споделен.">
 <!ENTITY getUserMedia.allWindowsShared.message "Всички видими прозорци на вашия екран ще бъдат споделени.">
 
+<!ENTITY trackingProtection.on "Защита от проследяване: изключена">
+<!ENTITY trackingProtection.off "Защита от проследяване: изключена">
 <!ENTITY trackingProtection.title "Защита от проследяване">
 <!ENTITY trackingProtection.tooltip "Отваряне на настройките за защита от проследяване">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; блокира части от страницата, които биха могли да проследяват вашето браузване.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Този сайт включва елементи, които биха могли да проследяват вашето браузване. Защитата от проследяване е изключена.">
-<!ENTITY trackingProtection.notDetected3 "В тази страницата не са открити проследяващи елементи.">
+<!ENTITY trackingProtection.notDetected3 "На страницата не са открити проследяващи елементи.">
+<!ENTITY trackingProtection.detectedNotBlocked4 "На страницата са открити проследяващи елементи.">
+<!ENTITY trackingProtection.notDetected4 "На страницата не са открити проследяващи елементи.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
@@ -922,6 +925,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "с">
 <!ENTITY trackingProtection.block2.label "Включване на защита">
 <!ENTITY trackingProtection.block2.accesskey "В">
+
 
 <!ENTITY pluginNotification.showAll.label "Показване на всичко">
 <!ENTITY pluginNotification.showAll.accesskey "П">
