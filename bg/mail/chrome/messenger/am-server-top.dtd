@@ -15,7 +15,7 @@
 <!ENTITY port.label "Порт:">
 <!ENTITY port.accesskey "П">
 <!ENTITY serverPortDefault.label "По подразбиране:">
-<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammar dependency
         For example, in Japanese cases:
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
@@ -61,7 +61,7 @@
 <!ENTITY loginAtStartup.accesskey "П">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-   of messages between them
+    of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Запитване преди изтеглянето на повече от">
 <!ENTITY maxMessagesStart.accesskey "З">
@@ -88,5 +88,5 @@
 <!ENTITY accountSettingsDesc.label "Това е специална регистрация. Няма идентичности, свързани с нея.">
 <!ENTITY storeType.label "Вид съхранение на писмата:">
 <!ENTITY storeType.accesskey "В">
-<!ENTITY mboxStore2.label "Файл в папка (mbox)">
+<!ENTITY mboxStore2.label "Файл за всяка папка (mbox)">
 <!ENTITY maildirStore.label "Файл за всяко писмо (maildir)">

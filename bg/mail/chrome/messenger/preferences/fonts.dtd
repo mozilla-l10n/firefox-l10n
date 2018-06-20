@@ -23,7 +23,7 @@
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-<!ENTITY  font.langGroup.latin                    "Латиница">
+<!ENTITY  font.langGroup.latin                    "Латински">
 <!ENTITY  font.langGroup.japanese                 "Японски">
 <!ENTITY  font.langGroup.trad-chinese             "Традиционен китайски (Тайван)">
 <!ENTITY  font.langGroup.simpl-chinese            "Опростен китайски">
