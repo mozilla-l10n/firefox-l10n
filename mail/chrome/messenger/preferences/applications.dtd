@@ -34,5 +34,5 @@
 <!ENTITY authRequired.button.label        "Autoritza">
 <!ENTITY authRequired.button.accesskey    "u">
 
-<!ENTITY enableCloudFileAccountOffer.label "Ofereix compartir fitxer més grans de">
+<!ENTITY enableCloudFileAccountOffer.label "Ofereix compartir fitxers més grans de">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">
