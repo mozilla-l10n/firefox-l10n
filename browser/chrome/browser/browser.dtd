@@ -214,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Öppna meddelandepanel">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Öppna platsförfråganspanel">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Öppna autoplay-panelen">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Öppna meddelandepanel för tilläggsinstallation">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Hantera rättigheter för canvas-extrahering">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Öppna meddelandepanel för lagring offline">
@@ -241,6 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Du har blockerat notifieringar för denna webbsida.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Du har blockerat beständig lagring för denna webbplats.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Du har blockerat popup-fönster för den här webbplatsen.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Du har blockerat automatisk uppspelning av media med ljud för den här webbplatsen.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Du har blockerat canvas-extrahering för denna webbplats.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Du har blockerat den här webbplatsen från att använda insticksmodulen Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Du har blockerat MIDI-åtkomst för denna webbplats.">
@@ -805,6 +807,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Du har inte beviljat denna webbplats några särskilda rättigheter.">
 <!ENTITY identity.permissionsReloadHint "Du kan behöva ladda om sidan för att ändringarna ska verkställas.">
 
+<!ENTITY identity.permissionsPreferences.tooltip "Öppna behörighetsinställningar">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -911,23 +914,30 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blockerar delar av sidan som kan spåra din surfning.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Den här webbplatsen innehåller element som kan spåra din surfning. Ditt skydd är inaktiverat.">
 <!ENTITY trackingProtection.notDetected3 "Inga spårningselement upptäcka på den här sidan.">
+<!ENTITY trackingProtection.detectedNotBlocked4 "Trackers har upptäckts på denna webbsida.">
+<!ENTITY trackingProtection.notDetected4 "Inga trackers upptäckta på den här sidan.">
+<!ENTITY trackingProtection.reloadRequired "Du har aktiverat spårningsskydd. För att blockera alla trackers, ladda om aktuell webbsida.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock.label "Inaktivera skydd för den här sidan">
-<!ENTITY trackingProtection.unblock.accesskey "I">
-<!ENTITY trackingProtection.unblock2.label "Lita på denna sidan">
+<!ENTITY trackingProtection.unblock.label "Inaktivera skydd för denna webbplats">
+<!ENTITY trackingProtection.unblock.accesskey "w">
+<!ENTITY trackingProtection.unblock2.label "Lita på den här webbplatsen">
+<!ENTITY trackingProtection.unblock2.accesskey "L">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 <!ENTITY trackingProtection.unblockPrivate.label "Inaktivera skydd för denna session">
-<!ENTITY trackingProtection.unblockPrivate.accesskey "I">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "s">
 <!ENTITY trackingProtection.block2.label "Aktivera skydd">
 <!ENTITY trackingProtection.block2.accesskey "A">
 
-<!ENTITY trackingProtection.unblockPrivate2.label "Lita på denna sidan för denna session">
+<!ENTITY trackingProtection.unblockPrivate2.label "Lita på den här webbplatsen för den här sessionen">
+<!ENTITY trackingProtection.unblockPrivate2.accesskey "L">
 <!ENTITY trackingProtection.block3.label "Slå på Spårningsskydd">
+<!ENTITY trackingProtection.block3.accesskey "S">
 <!ENTITY trackingProtection.reload.label "Ladda om denna sidan">
+<!ENTITY trackingProtection.reload.accesskey "L">
 
 <!ENTITY pluginNotification.showAll.label "Visa alla">
 <!ENTITY pluginNotification.showAll.accesskey "V">
