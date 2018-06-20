@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -137,20 +129,11 @@ is-not-default = { -brand-short-name } is not your default browser
 set-as-my-default-browser =
     .label = Make Default…
     .accesskey = D
-startup-page = When { -brand-short-name } starts
-    .accesskey = s
-startup-user-homepage =
-    .label = Show your home page
-startup-blank-page =
-    .label = Show a blank page
-startup-prev-session =
-    .label = Show your windows and tabs from last time
 startup-restore-previous-session =
     .label = Restore previous session
     .accesskey = s
 disable-extension =
     .label = Disable Extension
-home-page-header = Home Page
 tabs-group-header = Tabs
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab cycles through tabs in recently used order
@@ -270,7 +253,6 @@ play-drm-content =
 play-drm-content-learn-more = Learn more
 update-application-title = { -brand-short-name } Updates
 update-application-description = Keep { -brand-short-name } up to date for the best performance, stability, and security.
-update-application-info = Version { $version } <a>What's new</a>
 update-application-version = Version { $version } <a data-l10n-name="learn-more">What's new</a>
 update-history =
     .label = Show Update History…
@@ -306,7 +288,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Content process limit
     .accesskey = L
 performance-limit-content-process-enabled-desc = Additional content processes can improve performance when using multiple tabs, but will also use more memory.
-performance-limit-content-process-disabled-desc = Modifying the number of content processes is only possible with multiprocess { -brand-short-name }. <a>Learn how to check if multiprocess is enabled</a>
 performance-limit-content-process-blocked-desc = Modifying the number of content processes is only possible with multiprocess { -brand-short-name }. <a data-l10n-name="learn-more">Learn how to check if multiprocess is enabled</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -377,9 +358,6 @@ use-current-pages =
 choose-bookmark =
     .label = Use Bookmark…
     .accesskey = B
-restore-default =
-    .label = Restore to Default
-    .accesskey = R
 
 ## Search Section
 
@@ -697,6 +675,12 @@ permissions-notification-link = Learn more
 permissions-notification-pause =
     .label = Pause notifications until { -brand-short-name } restarts
     .accesskey = n
+permissions-block-autoplay-media =
+    .label = Block websites from automatically playing media with sound
+    .accesskey = B
+permissions-block-autoplay-media-exceptions =
+    .label = Exceptions…
+    .accesskey = E
 permissions-block-popups =
     .label = Block pop-up windows
     .accesskey = B
