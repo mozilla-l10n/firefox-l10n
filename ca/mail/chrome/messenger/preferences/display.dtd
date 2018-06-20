@@ -21,12 +21,12 @@
 <!ENTITY quotedTextColor.accesskey        "o">
 <!ENTITY displayWidth.label               "Missatges en text net">
 <!ENTITY displayText.label                "Quan es mostrin missatges de text net citat:">
-<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 
+<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label        "Mostra les emoticones com a imatges">
 <!ENTITY convertEmoticons.accesskey    "M">
-<!-- labels -->
 
+<!-- labels -->
 <!ENTITY displayTagsText.label     "Les etiquetes poden utilitzar-se per classificar i donar prioritats als vostres missatges.">
 <!ENTITY newTagButton.label        "Nova…">
 <!ENTITY newTagButton.accesskey    "N">
@@ -34,8 +34,8 @@
 <!ENTITY editTagButton1.accesskey  "E">
 <!ENTITY removeTagButton.label     "Suprimeix">
 <!ENTITY removeTagButton.accesskey "x">
-<!-- Fonts and Colors -->
 
+<!-- Fonts and Colors -->
 <!ENTITY fontsAndColors1.label   "Tipus de lletra i colors">
 <!ENTITY defaultFont.label       "Tipus de lletra per defecte:">
 <!ENTITY defaultFont.accesskey   "d">
@@ -45,8 +45,8 @@
 <!ENTITY fontOptions.label       "Avançades…">
 <!ENTITY colorButton.label       "Colors…">
 <!ENTITY colorButton.accesskey   "C">
-<!-- Advanced -->
 
+<!-- Advanced -->
 <!ENTITY reading.caption                  "Lectura">
 <!ENTITY display.caption                  "Visualització">
 <!ENTITY showCondensedAddresses.label     "Ensenya només el nom a mostrar de la gent que estigui a la meva llibreta d'adreces">
@@ -69,5 +69,5 @@
 <!ENTITY reuseExpRadio0.accesskey         "f">
 <!ENTITY reuseExpRadio1.label             "Una finestra ja oberta">
 <!ENTITY reuseExpRadio1.accesskey         "j">
-<!ENTITY closeMsgOnMoveOrDelete.label     "Tanca la finestra o la pestanya de missatges quan es suprimeixi o es mogui">
+<!ENTITY closeMsgOnMoveOrDelete.label     "Tanca la finestra o la pestanya de missatges quan se suprimeixi o es mogui">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "T">
