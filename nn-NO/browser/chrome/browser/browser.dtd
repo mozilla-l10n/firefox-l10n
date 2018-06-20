@@ -65,7 +65,6 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.accesskey             "r">
 <!ENTITY  closeTab.label                     "Lat att fana">
 <!ENTITY  closeTab.accesskey                 "n">
-
 <!ENTITY  hiddenTabs.label                   "Skjulte faner">
 
 <!ENTITY  listAllTabs.label      "Vis liste over alle faner">
@@ -215,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Opne meldingspanel">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Opne panel for plasseringsførespurnad">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Opne automatisk avspeling-panelet">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Opne meldingspanel for tileggsinstallasjon">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Handter rettar for canvas-utdraging">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Opne meldingspanel for fråkopla data">
@@ -223,7 +223,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Vel om du kan ta imot varsel frå nettstaden">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Lagre data i vedvarande lagring">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Nettlesaren er under fjernstyring">
-
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Opne webautentiseringspanelet">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Handter deling av kamera og/eller mikrofon på denne nettstaden">
@@ -243,6 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Du har blokkert meldingar for denne nettstaden.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Du har blokkert vedvarande lagring for denne nettsida.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Du har blokkert sprettoppvindauge for denne nettstaden.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Du har blokkert automatisk avspeling av media med lyd på denne nettsida.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Du har blokkert canvas-datauthenting for denne nettstaden.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Du har blokkert denne sida frå å bruke Adobe Flash-programtillegget.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Du har blokkert MIDI-tilgang for denne nettsida.">
@@ -807,6 +807,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Du har ikkje gjeve denne nettstaden spesielle løyve.">
 <!ENTITY identity.permissionsReloadHint "Du må kanskje laste sida på nytt for at endringane skal gjelde.">
 
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Nettlesarfaner">
@@ -905,11 +906,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Lyd frå fana vert delt.">
 <!ENTITY getUserMedia.allWindowsShared.message "Alle synlege vindauge på skjermen vil bli delte.">
 
+<!ENTITY trackingProtection.on "Sporingsvern: PÅ">
+<!ENTITY trackingProtection.off "Sporingsvern: AV">
 <!ENTITY trackingProtection.title "Sporingsvern">
 <!ENTITY trackingProtection.tooltip "Opne innstillingar for sporingsvern">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokkerer delar av sida som kan spore nettlesinga di.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Denne sida inneheld element som kan spore nettlesinga di. Du har slått av vern.">
 <!ENTITY trackingProtection.notDetected3 "Ingens sporingselement funne på denne sida.">
+<!ENTITY trackingProtection.detectedNotBlocked4 "Sporfølgjarar er oppdaga på denne nettsida.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
@@ -922,6 +926,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "S">
 <!ENTITY trackingProtection.block2.label "Slå på vern">
 <!ENTITY trackingProtection.block2.accesskey "å">
+
 
 <!ENTITY pluginNotification.showAll.label "Vis alle">
 <!ENTITY pluginNotification.showAll.accesskey "V">

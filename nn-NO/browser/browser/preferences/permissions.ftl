@@ -86,7 +86,7 @@ permissions-exceptions-addons-desc = Du kan velje kva for nettstadar som har lø
 ## Exceptions - Autoplay Media
 
 permissions-exceptions-autoplay-media-window =
-    .title = Tillatne nettsider - Autospel
+    .title = Tillatne nettsider - automatisk avspeling
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc = Du kan spesifisere kva for nettsider som automatisk har lov til å spele mediaelement. Skriv inn eksakt adresse for nettsida du vil tillate og trykk så Tillat.
 
