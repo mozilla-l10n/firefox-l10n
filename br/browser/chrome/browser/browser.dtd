@@ -214,7 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Digeriñ penel ar c'hemennadennoù">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Digeriñ penel ar goulenn lec'hiadur">
-<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Digeriñ eml">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Digeriñ panell an emlenn">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Digeriñ penel kemennadenn staliadur an askouezh">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Merañ aotreoù eztennañ ar steuñv">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Digeriñ penel kemennadenn ar c'hadaviñ ezlinenn">
@@ -242,6 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Stanket ho peus ar rebuzadurioù evit al lec'hienn-mañ.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Stanket ho peus ar c'hadaviñ diastal evit al lec'hienn-mañ.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Stanket hoc'h eus an diflugelloù evit al lec'hienn-mañ.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Stanket ho peus an emlenn media gant ar son evit al lec'hienn-mañ.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Stanket ho peus eztennadur ar roadennoù ar steuenn.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Difennet ho peus al lec'hienn-mañ da arverañ an enlugellad Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Stanket ho peus an haeziñ MIDI evit al lec'hienn-mañ.">
@@ -806,6 +807,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "N'ho peus roet aotre arbennik ebet d'al lec'hienn-mañ.">
 <!ENTITY identity.permissionsReloadHint "Ret eo deoc'h adkargañ ar bajenn evit arloañ ar c'hemmoù.">
 
+<!ENTITY identity.permissionsPreferences.tooltip "Digeriñ aotreoù gwellvezioù">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -905,6 +907,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Rannet e vo aodio an ivinell.">
 <!ENTITY getUserMedia.allWindowsShared.message "Rannet e vo an holl brenestroù gwelus war ho skramm.">
 
+<!ENTITY trackingProtection.on "Gwarez heuliañ: ON">
+<!ENTITY trackingProtection.off "Gwarez heuliañ: OFF">
 <!ENTITY trackingProtection.title "Gwarez heuliañ">
 <!ENTITY trackingProtection.tooltip "Digeriñ gwellvezioù ar gwarez heuliañ">
 <!ENTITY trackingProtection.detectedBlocked3 "Stanket eo lodennoù eus ar bajenn a c'hellfe heuliañ ac'hanoc'h gant &brandShortName;.">
@@ -915,6 +919,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Diweredekaat ar gwarez evit al lec'hienn-mañ">
 <!ENTITY trackingProtection.unblock.accesskey "D">
+<!ENTITY trackingProtection.unblock2.label "Kaout fiziañs el lec'hienn-mañ">
 <!ENTITY trackingProtection.unblock2.accesskey "T">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
