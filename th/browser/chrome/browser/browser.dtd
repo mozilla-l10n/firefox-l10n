@@ -920,6 +920,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "เปิดใช้งานการป้องกัน">
 <!ENTITY trackingProtection.block2.accesskey "ป">
 
+<!ENTITY trackingProtection.block3.label "เปิดการป้องกันการติดตาม">
+<!ENTITY trackingProtection.block3.accesskey "ป">
+<!ENTITY trackingProtection.reload.label "โหลดหน้านี้ใหม่">
+<!ENTITY trackingProtection.reload.accesskey "ห">
 
 <!ENTITY pluginNotification.showAll.label "แสดงทั้งหมด">
 <!ENTITY pluginNotification.showAll.accesskey "ส">
