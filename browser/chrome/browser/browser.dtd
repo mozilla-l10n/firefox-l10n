@@ -65,7 +65,6 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.accesskey             "о">
 <!ENTITY  closeTab.label                     "Закрити вкладку">
 <!ENTITY  closeTab.accesskey                 "к">
-
 <!ENTITY  hiddenTabs.label                   "Приховані вкладки">
 
 <!ENTITY  listAllTabs.label      "Список усіх вкладок">
@@ -215,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Відкрити панель повідомлень">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Відкрити панель запитів розташування">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Відкрити панель автовідтворення">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Відкрити панель повідомлень встановлення додатків">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Керувати дозволом видобування canvas">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Відкрити панель повідомлень автономного сховища">
@@ -223,7 +223,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Налаштувати отримання сповіщень від сайту">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Зберігати дані в постійному сховищі">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Браузер знаходиться під віддаленим керуванням">
-
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Відкрити панель веб-авторизації">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Керувати доступом сайту до ваших камери та/або мікрофону">
@@ -243,6 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ви заблокували сповіщення для цього веб-сайту.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Ви заблокували постійне сховище для цього веб-сайту.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Ви заблокували виринаючі вікна для цього веб-сайту.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Ви заблокували автовідтворення медіа зі звуком для цього веб-сайту.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Ви заблокували видобування даних canvas для цього веб-сайту.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Ви заборонили використання Adobe Flash на цьому сайті.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Ви заблокували MIDI доступ для цього веб-сайту.">
@@ -807,6 +807,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Ви не надали цьому сайту жодних спеціальних дозволів.">
 <!ENTITY identity.permissionsReloadHint "Можливо, вам знадобиться перезавантажити сторінку для застосування змін.">
 
+<!ENTITY identity.permissionsPreferences.tooltip "Відкрити налаштування дозволів">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Вкладок браузера">
@@ -905,16 +907,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Аудіо з вкладки буде загальнодоступним.">
 <!ENTITY getUserMedia.allWindowsShared.message "Буде надано доступ до всіх видимих вікон на вашому дисплеї.">
 
+<!ENTITY trackingProtection.on "Захист від стеження: Увімкнено">
+<!ENTITY trackingProtection.off "Захист від стеження: Вимкнено">
 <!ENTITY trackingProtection.title "Захист від стеження">
 <!ENTITY trackingProtection.tooltip "Відкрити налаштування захисту від стеження">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; блокує частини сторінки, які можуть стежити за вашим переглядом.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Цей сайт включає елементи, які можуть стежити за вашим переглядом. Ви вимкнули захист.">
 <!ENTITY trackingProtection.notDetected3 "На цій сторінці не виявлено елементів стеження.">
+<!ENTITY trackingProtection.detectedNotBlocked4 "На цій веб-сторінці було виявлено стеження.">
+<!ENTITY trackingProtection.notDetected4 "На цій сторінці не виявлено стеження.">
+<!ENTITY trackingProtection.reloadRequired "Ви увімкнули захист від стеження. Для застосування змін оновіть сторінку.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Вимкнути захист для цього сайту">
 <!ENTITY trackingProtection.unblock.accesskey "В">
+<!ENTITY trackingProtection.unblock2.label "Довіряти цьому сайту">
+<!ENTITY trackingProtection.unblock2.accesskey "в">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -922,6 +931,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "В">
 <!ENTITY trackingProtection.block2.label "Увімкнути захист">
 <!ENTITY trackingProtection.block2.accesskey "У">
+
+<!ENTITY trackingProtection.unblockPrivate2.label "Довіряти цьому сайту протягом сеансу">
+<!ENTITY trackingProtection.unblockPrivate2.accesskey "в">
+<!ENTITY trackingProtection.block3.label "Увімкнути захист від стеження">
+<!ENTITY trackingProtection.block3.accesskey "в">
+<!ENTITY trackingProtection.reload.label "Оновити сторінку">
+<!ENTITY trackingProtection.reload.accesskey "О">
 
 <!ENTITY pluginNotification.showAll.label "Показати всі">
 <!ENTITY pluginNotification.showAll.accesskey "в">
