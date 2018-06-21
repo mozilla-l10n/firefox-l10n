@@ -907,8 +907,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "ჩანართიდან აუდიო გაზიარდება.">
 <!ENTITY getUserMedia.allWindowsShared.message "ეკრანზე ნაჩვენები ყველა ფანჯარა გაზიარდება.">
 
-<!ENTITY trackingProtection.on "თვალთვალისგან დაცვა: ჩართ.">
-<!ENTITY trackingProtection.off "თვალთვალისგან დაცვა: გამორთ.">
+<!ENTITY trackingProtection.on "თვალთვალი: შეზღუდულია">
+<!ENTITY trackingProtection.off "თვალთვალი: დაშვებულია">
 <!ENTITY trackingProtection.title "თვალთვალისგან დაცვა">
 <!ENTITY trackingProtection.tooltip "თვალთვალისგან დაცვის პარამეტრების გახსნა">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; ზღუდავს საიტის იმ ნაწილებს, რომლებსაც თქვენს მოქმედებებზე თვალყურის დევნება შეუძლია.">
