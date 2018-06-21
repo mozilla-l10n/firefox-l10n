@@ -65,7 +65,6 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.accesskey             "h">
 <!ENTITY  closeTab.label                     "Cerrar pestaña">
 <!ENTITY  closeTab.accesskey                 "c">
-
 <!ENTITY  hiddenTabs.label                   "Pestañas ocultas">
 
 <!ENTITY  listAllTabs.label      "Listar todas las pestañas">
@@ -215,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Abrir panel de mensajes">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Abrir panel de solicitud de ubicación">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Abrir panel de reproducción automática">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Abrir panel de mensaje de instalación de complemento">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Gestionar permisos de extracción de canvas">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Abrir panel de mensaje de almacenamiento sin conexión">
@@ -223,7 +223,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Cambiar si puedes recibir o no notificaciones del sitio">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Almacenar datos en almacenamiento persistente">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "El navegador está bajo control remoto">
-
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Abrir panel de autenticación web">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Gestionar compartición de la cámara y/o micrófono con el sitio">
@@ -243,6 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Has bloqueado las notificaciones para este sitio.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Has bloqueado el almacenamiento persistente para este sitio.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Bloqueaste las ventanas emergentes para este sitio web.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Has bloqueado la reproducción automática de medios con sonido para este sitio web.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Has bloqueado la extracción de datos de canvas para este sitio.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Has bloqueado a este sitio el uso del complemento Adobe Flash Player.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Has bloqueado el acceso MIDI para este sitio.">
@@ -807,6 +807,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "No has dado permisos especiales a este sitio.">
 <!ENTITY identity.permissionsReloadHint "Puede que tengas que recargar la página para que los cambios se apliquen.">
 
+<!ENTITY identity.permissionsPreferences.tooltip "Abrir preferencias de permisos">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Pestañas del navegador">
@@ -905,16 +907,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "El audio de la pestaña será compartido.">
 <!ENTITY getUserMedia.allWindowsShared.message "Todas las ventanas visibles en tu pantalla serán compartidas.">
 
+<!ENTITY trackingProtection.on "Protección de seguimiento: ACTIVADA">
+<!ENTITY trackingProtection.off "Protección de seguimiento: DESACTIVADA">
 <!ENTITY trackingProtection.title "Protección de seguimiento">
 <!ENTITY trackingProtection.tooltip "Abrir preferencias de protección de seguimiento">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; está bloqueando partes de la página que pueden seguir tu navegación.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Este sitio incluye elementos que siguen tu navegación. Has desactivado la protección.">
 <!ENTITY trackingProtection.notDetected3 "No se detectaron elementos de seguimiento en esta página.">
+<!ENTITY trackingProtection.detectedNotBlocked4 "Se detectaron rastreadores en esta página.">
+<!ENTITY trackingProtection.notDetected4 "No se detectaron rastreadores en esta página.">
+<!ENTITY trackingProtection.reloadRequired "Has activado la protección de seguimiento. Para bloquear todos los rastreadores, por favor recarga la página actual.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Desactivar la protección para este sitio">
 <!ENTITY trackingProtection.unblock.accesskey "D">
+<!ENTITY trackingProtection.unblock2.label "Confiar en este sitio">
+<!ENTITY trackingProtection.unblock2.accesskey "T">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -922,6 +931,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "D">
 <!ENTITY trackingProtection.block2.label "Activar protección">
 <!ENTITY trackingProtection.block2.accesskey "E">
+
+<!ENTITY trackingProtection.unblockPrivate2.label "Confiar en este sitio por esta sesión">
+<!ENTITY trackingProtection.unblockPrivate2.accesskey "T">
+<!ENTITY trackingProtection.block3.label "Activar la protección de seguimiento">
+<!ENTITY trackingProtection.block3.accesskey "T">
+<!ENTITY trackingProtection.reload.label "Recargar esta página">
+<!ENTITY trackingProtection.reload.accesskey "R">
 
 <!ENTITY pluginNotification.showAll.label "Mostrar todas">
 <!ENTITY pluginNotification.showAll.accesskey "S">
