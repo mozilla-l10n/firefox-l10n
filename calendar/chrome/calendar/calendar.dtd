@@ -178,8 +178,6 @@
 <!ENTITY calendar.context.attendance.menu.label                 "Osallistuminen">
 <!ENTITY calendar.context.attendance.menu.accesskey             "O">
 <!ENTITY calendar.context.attendance.occurrence.label           "Vain tämä esiintymä">
-<!ENTITY calendar.context.attendance.all.label        "Kaikki esiintymät" >
-
 <!ENTITY calendar.context.attendance.all2.label                 "Valmis sarja">
 <!ENTITY calendar.context.attendance.send.label                 "Lähetä ilmoitus nyt">
 <!ENTITY calendar.context.attendance.send.accesskey             "L">
@@ -327,8 +325,8 @@
 <!ENTITY calendar.alarm.location.label              "Osoite:" >
 <!ENTITY calendar.alarm.details.label               "Lisätiedot…" >
 
-<!ENTITY calendar.alarm.snoozefor.label             "Ilmoita uudelleen" >
-<!ENTITY calendar.alarm.snoozeallfor.label          "Ilmoita kaikista uudelleen" >
+<!ENTITY calendar.alarm.snoozefor.label             "Lykkää" >
+<!ENTITY calendar.alarm.snoozeallfor.label          "Lykkää kaikkia" >
 <!ENTITY calendar.alarm.title.label                 "Kalenterimuistutukset" >
 <!ENTITY calendar.alarm.dismiss.label               "Lopeta" >
 <!ENTITY calendar.alarm.dismissall.label            "Lopeta kaikki" >

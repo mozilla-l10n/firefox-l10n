@@ -281,7 +281,7 @@
 <!ENTITY event.recurrence.month.label                   "kerran kuussa" >
 <!ENTITY event.recurrence.year.label                    "kerran vuodessa" >
 
-<!ENTITY event.recurrence.pattern.every.label           "" >
+<!ENTITY event.recurrence.pattern.every.label           "Aina" >
 <!ENTITY repeat.units.days.both                         "päivän välein" >
 <!ENTITY event.recurrence.pattern.every.weekday.label   "Joka arkipäivä" >
 
@@ -407,11 +407,6 @@
 <!ENTITY read.only.location.label        "Sijainti:">
 <!ENTITY read.only.category.label        "Kategoria:">
 <!ENTITY read.only.organizer.label       "Järjestäjä:">
-<!ENTITY read.only.reply.label           "Vastaa:">
-<!ENTITY read.only.accept.label          "Osallistun">
-<!ENTITY read.only.decline.label         "En osallistu">
-<!ENTITY read.only.tentative.label       "Saatan osallistua">
-<!ENTITY read.only.needs.action.label    "Vahvistan myöhemmin">
 <!ENTITY read.only.reminder.label        "Muistuta:">
 <!ENTITY read.only.attachments.label     "Liitteet:">
 <!ENTITY read.only.attendees.label       "Osallistujat">
