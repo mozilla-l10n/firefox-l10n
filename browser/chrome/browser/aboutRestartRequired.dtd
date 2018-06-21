@@ -4,4 +4,6 @@
 
 <!ENTITY restartRequired.title "Απαιτείται Επανεκκίνηση">
 
+<!ENTITY restartRequired.header "Συγγνώμη. Θα πρέπει να κάνουμε μια μικρή εργασία για να συνεχίσουμε.">
 
+<!ENTITY restartButton.label "Επανεκκίνηση του &brandShortName;">
