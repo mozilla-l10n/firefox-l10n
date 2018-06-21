@@ -141,7 +141,6 @@
 
 <!ENTITY Photo.tab                      "ფოტო">
 <!ENTITY Photo.accesskey                "ტ">
-<!ENTITY PhotoDesc.label                "შეარჩიეთ ერთერთი შემდეგთაგან:">
 <!ENTITY GenericPhoto.label             "საერთო ფოტო">
 <!ENTITY GenericPhoto.accesskey         "თ">
 <!ENTITY DefaultPhoto.label             "ნაგულისხმევი">
