@@ -916,7 +916,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.notDetected3 "Tidak ada elemen pelacakan terdeteksi di laman ini.">
 <!ENTITY trackingProtection.detectedNotBlocked4 "Pelacak telah terdeteksi di laman web ini.">
 <!ENTITY trackingProtection.notDetected4 "Tidak ada pelacak terdeteksi di laman ini.">
-<!ENTITY trackingProtection.reloadRequired "Anda telah mengaktifkan Perlindungan Pelacakan. Untuk memblokir semua pelacak, silakan muat ulang laman web ini.">
+<!ENTITY trackingProtection.reloadRequired "Anda telah mengaktifkan Perlindungan Pelacakan. Untuk memblokir semua pelacak, muat ulang laman web ini.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
