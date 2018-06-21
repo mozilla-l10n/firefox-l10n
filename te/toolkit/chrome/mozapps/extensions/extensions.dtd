@@ -80,8 +80,6 @@
 <!ENTITY cmd.preferencesWin.accesskey         "O">
 <!ENTITY cmd.preferencesUnix.label            "అభిరుచులు">
 <!ENTITY cmd.preferencesUnix.accesskey        "P">
-<!ENTITY cmd.about.label                      "గురించి">
-<!ENTITY cmd.about.accesskey                  "A">
 
 <!ENTITY cmd.enableAddon.label                "చేతనపరచు">
 <!ENTITY cmd.enableAddon.accesskey            "E">
@@ -125,7 +123,7 @@
   మీకు కొన్ని మంచి మరియు పేరొందిన పొడిగింతలను మీరు ప్రయత్నించి చూచుటకు అందించును.">
 
 <!-- detail view -->
-<!ENTITY detail.version.label                 "వర్షన్">
+<!ENTITY detail.version.label                 "వెర్షను">
 <!ENTITY detail.lastupdated.label             "చివరిగా నవీకరించింది">
 <!ENTITY detail.creator.label                 "అభివృద్దికారి">
 <!ENTITY detail.homepage.label                "హోం పేజీ">
@@ -160,13 +158,6 @@
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "నిలుపు">
 <!ENTITY progress.cancel.tooltip              "రద్దుచేయి">
-
-
-<!-- list sorting -->
-<!ENTITY sort.name.label                      "పేరు">
-<!ENTITY sort.name.tooltip                    "పేరు ప్రకారం క్రమపరచు">
-<!ENTITY sort.dateUpdated.label               "చివరిగా నవీకరించింది">
-<!ENTITY sort.dateUpdated.tooltip             "నవీకరించిన తేదీ ప్రకారం క్రమపరచు">
 
 <!ENTITY addon.homepage                       "హోం పేజీ">
 <!ENTITY addon.details.label                  "ఇంకా">
@@ -209,17 +200,6 @@
 <!ENTITY eula.accept                          "ఆమోదించి స్థాపించు…">
 
 <!ENTITY settings.path.button.label           "విహరించు…">
-
-<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
-     experiments are present on the "Experiments" tab of the add-ons manager.
-     This tab won't be displayed unless an Experiment add-on is installed.
-     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
-     to cause this tab to appear. -->
-<!ENTITY experiment.info.label "ఇది ఏమిటి? టెలీమెట్రీ అప్పుడప్పుడూ ప్రయోగాలను స్థాపించి నడుపుతూండవచ్చు.">
-<!ENTITY experiment.info.learnmore "ఇంకా తెలుసుకోండి">
-<!ENTITY experiment.info.learnmore.accesskey "L">
-<!ENTITY experiment.info.changetelemetry "టెలీమెట్రీ అమరికలు">
-<!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 <!ENTITY setting.learnmore "ఇంకా తెలుసుకోండి…">
 
