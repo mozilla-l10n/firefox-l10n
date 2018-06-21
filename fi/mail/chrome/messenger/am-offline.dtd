@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY doNotDownloadPop3Movemail.label "Säästääksesi tilaa, älä lataa:">
-<!ENTITY doNotDownloadNntp.label "Säästääksesi tilaa, älä lataa yhteydetöntä tilaa varten:">
-<!ENTITY doNotDownloadImap.label "Levytilan säästämiseksi viestien noutamista ja säilyttämistä omalla koneella voidaan rajoittaa viestin iän ja koon mukaan.">
+<!ENTITY doNotDownloadPop3Movemail.label "Säästä tilaa lataamatta:">
+<!ENTITY doNotDownloadNntp.label "Säästä tilaa, jätä lataamatta yhteydettömään käyttöön:">
+<!ENTITY doNotDownloadImap.label "Viestien noutamista ja säilyttämistä omalla koneella voidaan rajoittaa viestin iän ja koon mukaan levytilan säästämiseksi.">
 <!ENTITY allFoldersOffline2.label "Säilytä tämän tilin kaikkien kansioiden viestejä paikallisella tietokoneella">
 <!ENTITY allFoldersOffline2.accesskey "t">
 <!ENTITY allFoldersOfflineNote.label "Huomaa: Tämän asetuksen muuttaminen vaikuttaa kaikkiin tämän tilin kansioihin. Jos haluat muuttaa yksittäisen kansion asetuksia, napsauta Lisätietoja… -painiketta.">
