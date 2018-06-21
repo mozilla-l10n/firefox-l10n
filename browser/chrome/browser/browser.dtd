@@ -980,7 +980,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.keepButton.accesskey "Δ">
 <!ENTITY newTabControlled.disableButton.label "Απενεργοποίηση Επέκτασης">
 
+<!ENTITY homepageControlled.keepButton.label "Διατήρηση αλλαγών">
+<!ENTITY homepageControlled.keepButton.accesskey "Δ">
+<!ENTITY homepageControlled.disableButton.label "Απενεργοποίηση επέκτασης">
+<!ENTITY homepageControlled.disableButton.accesskey "Α">
 
+<!ENTITY tabHideControlled.disableButton.label "Απενεργοποίηση επέκτασης">
+<!ENTITY tabHideControlled.disableButton.accesskey "Α">
 
 <!ENTITY pageActionButton.tooltip "Ενέργειες σελίδας">
 <!ENTITY pageAction.addToUrlbar.label "Προσθήκη στη γραμμή διευθύνσεων">
@@ -992,6 +998,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.sendTabToDevice.label "Αποστολή καρτέλας σε συσκευή">
 <!ENTITY sendToDevice.syncNotReady.label "Συγχρονισμός συσκευών…">
 
+<!ENTITY pageAction.shareUrl.label "Κοινή χρήση">
 
 <!ENTITY libraryButton.tooltip "Προβολή ιστορικού, σελιδοδεικτών και πολλών άλλων">
 

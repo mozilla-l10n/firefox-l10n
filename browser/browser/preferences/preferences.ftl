@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -115,20 +107,11 @@ is-not-default = Το { -brand-short-name } δεν είναι το προεπι�
 set-as-my-default-browser =
     .label = Ορισμός ως προεπιλογή…
     .accesskey = Π
-startup-page = Κατά την εκκίνηση του { -brand-short-name }
-    .accesskey = ε
-startup-user-homepage =
-    .label = Εμφάνιση αρχικής σελίδας
-startup-blank-page =
-    .label = Εμφάνιση κενής σελίδας
-startup-prev-session =
-    .label = Εμφάνιση παραθύρων και καρτελών από την τελευταία φορά
 startup-restore-previous-session =
     .label = Επαναφορά προηγούμενης συνεδρίας
     .accesskey = σ
 disable-extension =
     .label = Απενεργοποίηση επέκτασης
-home-page-header = Αρχική σελίδα
 tabs-group-header = Καρτέλες
 ctrl-tab-recently-used-order =
     .label = Εναλλαγή καρτελών με το Ctrl+Tab σε σειρά πρόσφατης χρήσης
@@ -248,7 +231,6 @@ play-drm-content =
 play-drm-content-learn-more = Μάθετε περισσότερα
 update-application-title = Ενημερώσεις του { -brand-short-name }
 update-application-description = Κρατήστε το { -brand-short-name } ενημερωμένο για καλύτερη απόδοση, σταθερότητα κι ασφάλεια.
-update-application-info = Έκδοση { $version } <a>Τι νέο υπάρχει</a>
 update-application-version = Έκδοση { $version } <a data-l10n-name="learn-more">Τι νέο υπάρχει</a>
 update-history =
     .label = Εμφάνιση ιστορικού ενημερώσεων…
@@ -284,7 +266,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Όριο διεργασιών περιεχομένου
     .accesskey = Ο
 performance-limit-content-process-enabled-desc = Οι επιπρόσθετες διεργασίες περιεχομένου μπορούν να βελτιώσουν τις επιδόσεις κατά τη χρήση πολλαπλών καρτελών, αλλά θα χρησιμοποιούν περισσότερη μνήμη.
-performance-limit-content-process-disabled-desc = Η τροποποίηση του αριθμού των διεργασιών περιεχομένου είναι δυνατή μόνο στο { -brand-short-name } με τη δυνατότητα πολλαπλών διεργασιών. <a>Μάθετε πώς μπορείτε να ελέγξετε εάν είναι ενεργοποιημένη η λειτουργία πολλαπλών διεργασιών</a>
 performance-limit-content-process-blocked-desc = Η τροποποίηση του αριθμού των διεργασιών περιεχομένου είναι δυνατή μόνο στο { -brand-short-name } με τη δυνατότητα πολλαπλών διεργασιών. <a data-l10n-name="learn-more">Μάθετε πώς μπορείτε να ελέγξετε εάν είναι ενεργοποιημένη η λειτουργία πολλαπλών διεργασιών</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -354,9 +335,6 @@ use-current-pages =
 choose-bookmark =
     .label = Χρήση σελιδοδείκτη…
     .accesskey = σ
-restore-default =
-    .label = Επαναφορά προεπιλογής
-    .accesskey = ρ
 
 ## Search Section
 
@@ -646,6 +624,9 @@ permissions-notification-settings =
     .label = Ρυθμίσεις…
     .accesskey = θ
 permissions-notification-link = Μάθετε περισσότερα
+permissions-block-autoplay-media-exceptions =
+    .label = Εξαιρέσεις…
+    .accesskey = Ε
 permissions-block-popups =
     .label = Φραγή αναδυόμενων παραθύρων
     .accesskey = Φ
