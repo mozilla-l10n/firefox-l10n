@@ -684,6 +684,7 @@
 <!ENTITY trackingProtection.notDetected3 "Nie wykryto elementów śledzących aktywność użytkownika na tej stronie.">
 <!ENTITY trackingProtection.detectedNotBlocked4 "Wykryto elementy śledzące na tej stronie.">
 <!ENTITY trackingProtection.notDetected4 "Nie wykryto elementów śledzących na tej stronie.">
+<!ENTITY trackingProtection.reloadRequired "Ochrona przed śledzeniem została włączona. Wczytaj ponownie stronę, aby zablokować elementy śledzące.">
 <!ENTITY trackingProtection.unblock.label "Wyłącz ochronę dla tej witryny">
 <!ENTITY trackingProtection.unblock.accesskey "W">
 <!ENTITY trackingProtection.unblock2.label "Wyłącz dla tej witryny">
@@ -696,6 +697,8 @@
 <!ENTITY trackingProtection.block2.accesskey "W">
 <!ENTITY trackingProtection.block3.label "Włącz ochronę przed śledzeniem">
 <!ENTITY trackingProtection.block3.accesskey "W">
+<!ENTITY trackingProtection.reload.label "Odśwież tę stronę">
+<!ENTITY trackingProtection.reload.accesskey "O">
 
 <!ENTITY pluginNotification.showAll.label "Wyświetl wszystkie">
 <!ENTITY pluginNotification.showAll.accesskey "W">
