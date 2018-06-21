@@ -85,7 +85,10 @@
 
 <!ENTITY lightning.imipbar.btnSend.label                                    "Жауапты қазір жіберу">
 <!ENTITY lightning.imipbar.btnSend.tooltiptext                              "Ұйымдастырушыға жауап жіберу">
+<!ENTITY lightning.imipbar.btnSendSeries.tooltiptext                        "Ұйымдастырушыға бүкіл қатар үшін жауапты жіберу">
 <!ENTITY lightning.imipbar.btnDontSend.label                                "Жауапты жібермеу">
+<!ENTITY lightning.imipbar.btnDontSend.tooltiptext                          "Ұйымдастырушыға жауапты жібермей, қатысу күйіңізді өзгерту">
+<!ENTITY lightning.imipbar.btnDontSendSeries.tooltiptext                    "Ұйымдастырушыға жауапты жібермей, бүкіл қатар үшін қатысу күйіңізді өзгерту">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
