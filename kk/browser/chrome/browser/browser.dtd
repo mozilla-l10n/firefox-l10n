@@ -65,7 +65,6 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.accesskey             "л">
 <!ENTITY  closeTab.label                     "Бетті жабу">
 <!ENTITY  closeTab.accesskey                 "Б">
-
 <!ENTITY  hiddenTabs.label                   "Жасырын беттер">
 
 <!ENTITY  listAllTabs.label      "Барлық беттерді тізіп шығу">
@@ -215,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Хабарлама панелін ашу">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Орналасуды сұрау панелін ашу">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Автоойнату панелін ашу">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Кеңейтулерді орнату хабарламалар панелін ашу">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Canvas ақпаратына қатынауды басқару">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Желіден тыс қойма хабарламалары панелін ашу">
@@ -223,7 +223,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Сайттан хабарламаларды ала аласыз ба, соны өзгертіңіз">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Деректерді тұрақты қоймада сақтау">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Браузер қашықтан басқарылуда">
-
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Веб аутентификация панелін ашу">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Камераңыз және/немесе микрофонмен бұл сайтпен бөлісуді басқару">
@@ -807,6 +806,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Бұл сайтқа арнайы рұқсаттарды берген жоқсыз.">
 <!ENTITY identity.permissionsReloadHint "Өзгерістер іске асуы үшін бұл парақты қайта жүктеуіңіз керек болуы мүмкін.">
 
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Браузер беттері">
@@ -922,6 +922,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "д">
 <!ENTITY trackingProtection.block2.label "Қорғанысты іске қосу">
 <!ENTITY trackingProtection.block2.accesskey "е">
+
 
 <!ENTITY pluginNotification.showAll.label "Барлығын көрсету">
 <!ENTITY pluginNotification.showAll.accesskey "с">
