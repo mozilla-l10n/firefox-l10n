@@ -18,7 +18,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionsTitle "పొడిగింపులు">
 <!ENTITY aboutSupport.extensionName "పేరు">
 <!ENTITY aboutSupport.extensionEnabled "చేతనం">
-<!ENTITY aboutSupport.extensionVersion "వర్షన్">
+<!ENTITY aboutSupport.extensionVersion "వెర్షను">
 <!ENTITY aboutSupport.extensionId "ID">
 
 <!ENTITY aboutSupport.securitySoftwareTitle "భద్రతా సాఫ్ట్‌వేరు">
@@ -33,18 +33,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.featureVersion "వెర్షను">
 <!ENTITY aboutSupport.featureId "ID">
 
-<!ENTITY aboutSupport.experimentsTitle "ప్రయోగాత్మక సౌలభ్యాలు">
-<!ENTITY aboutSupport.experimentName "పేరు">
-<!ENTITY aboutSupport.experimentId "‌ఐడీ">
-<!ENTITY aboutSupport.experimentDescription "వివరణ">
-<!ENTITY aboutSupport.experimentActive "క్రియాశీలం">
-<!ENTITY aboutSupport.experimentEndDate "ముగింపు తేది">
-<!ENTITY aboutSupport.experimentHomepage "నివాసపేజీ">
-<!ENTITY aboutSupport.experimentBranch "శాఖ">
-
 <!ENTITY aboutSupport.appBasicsTitle "అనువర్తనం ప్రాధమికాలు">
 <!ENTITY aboutSupport.appBasicsName "పేరు">
-<!ENTITY aboutSupport.appBasicsVersion "రూపాంతరం">
+<!ENTITY aboutSupport.appBasicsVersion "వెర్షను">
 <!ENTITY aboutSupport.appBasicsBuildID "బిల్డ్ ID">
 
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
