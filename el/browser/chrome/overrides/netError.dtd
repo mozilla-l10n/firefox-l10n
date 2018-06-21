@@ -192,5 +192,7 @@ HTTP Strict Transport Security (HSTS) που καθορίζει ότι το &bra
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "Το <p><span class='hostname'></span> χρησιμοποιεί παρωχημένη και ευάλωτη σε επίθεση τεχνολογία ασφάλειας. Ένας εισβολέας θα μπορούσε εύκολα να αποκαλύψει πληροφορίες που θεωρείτε ασφαλείς. Ο διαχειριστής του ιστότοπου θα πρέπει να τον διορθώσει προτού μπορέσετε να τον επισκεφθείτε.</p><p>Κωδικός σφάλματος: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
+<!ENTITY blockedByPolicy.title "Αποκλεισμένη σελίδα">
+
 <!ENTITY prefReset.longDesc "Μοιάζει να προκαλείται από τις ρυθμίσεις ασφαλείας του δικτύου σας. Θέλετε να αποκατασταθούν οι προεπιλεγμένες ρυθμίσεις;">
 <!ENTITY prefReset.label "Επαναφορά προεπιλεγμένων ρυθμίσεων">

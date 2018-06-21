@@ -28,21 +28,14 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.securitySoftwareTitle "Λογισμικό ασφαλείας">
 <!ENTITY aboutSupport.securitySoftwareType "Τύπος">
 <!ENTITY aboutSupport.securitySoftwareName "Όνομα">
+<!ENTITY aboutSupport.securitySoftwareAntivirus "Antivirus">
+<!ENTITY aboutSupport.securitySoftwareAntiSpyware "Antispyware">
 <!ENTITY aboutSupport.securitySoftwareFirewall "Τείχος προστασίας">
 
 <!ENTITY aboutSupport.featuresTitle "Χαρακτηριστικά του &brandShortName;">
 <!ENTITY aboutSupport.featureName "Όνομα">
 <!ENTITY aboutSupport.featureVersion "Έκδοση">
 <!ENTITY aboutSupport.featureId "ID">
-
-<!ENTITY aboutSupport.experimentsTitle "Πειραματικές λειτουργίες">
-<!ENTITY aboutSupport.experimentName "Όνομα">
-<!ENTITY aboutSupport.experimentId "ID">
-<!ENTITY aboutSupport.experimentDescription "Περιγραφή">
-<!ENTITY aboutSupport.experimentActive "Ενεργό">
-<!ENTITY aboutSupport.experimentEndDate "Ημερομηνία λήξης">
-<!ENTITY aboutSupport.experimentHomepage "Αρχική σελίδα">
-<!ENTITY aboutSupport.experimentBranch "Διακλάδωση">
 
 <!ENTITY aboutSupport.appBasicsTitle "Βασικά εφαρμογής">
 <!ENTITY aboutSupport.appBasicsName "Όνομα">
@@ -163,6 +156,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceRate "Ρυθμός">
 <!ENTITY aboutSupport.mediaDeviceLatency "Καθυστέρηση">
 
+<!ENTITY aboutSupport.intlTitle "Διεθνοποίηση &amp; μετάφραση">
 <!ENTITY aboutSupport.intlAppTitle "Ρυθμίσεις εφαρμογής">
 <!ENTITY aboutSupport.intlLocalesRequested "Ζητούμενες γλώσσες">
 <!ENTITY aboutSupport.intlLocalesAvailable "Διαθέσιμες γλώσσες">

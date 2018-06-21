@@ -35,6 +35,8 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "Κλείσιμο των άλλων καρτελών">
 <!ENTITY  closeOtherTabs.accesskey           "ω">
 
+<!ENTITY  closeSelectedTabs.label            "Κλείσιμο επιλεγμένων καρτελών">
+<!ENTITY  closeSelectedTabs.accesskey        "ε">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -112,6 +114,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "Πληροφορίες σελίδας">
 <!ENTITY pageInfoCmd.accesskey "λ">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.label "Αποσφαλμάτωση διάταξης">
 <!ENTITY ldbCmd.accesskey "Δ">
 <!ENTITY mirrorTabCmd.label "Άνοιγμα ίδιας καρτέλας">
 <!ENTITY mirrorTabCmd.accesskey "γ">
@@ -224,6 +227,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Μετάφραση σελίδας">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Διαχείριση μετάφρασης σελίδας">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Διαχείριση χρήσης λογισμικού DRM">
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Άνοιγμα πίνακα MIDI">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Έχετε αποκλείσει την κάμερά σας για τον ιστοτόπο.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Έχετε αποκλείσει το μικρόφωνό σας για τον ιστοτόπο.">
@@ -417,6 +421,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "Προσθήκη περισσότερων αντικειμένων…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "α">
 
+<!ENTITY customizeMenu.autoHideDownloadsButton.label "Αυτόματη απόκρυψη στη γραμμή εργαλείων">
+<!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "Α">
 <!ENTITY customizeMenu.manageExtension.label "Διαχείριση επέκτασης">
 <!ENTITY customizeMenu.manageExtension.accesskey "ε">
 
@@ -985,6 +991,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.disableButton.label "Απενεργοποίηση επέκτασης">
 <!ENTITY homepageControlled.disableButton.accesskey "Α">
 
+<!ENTITY tabHideControlled.header.message "Πρόσβαση στις κρυφές σας καρτέλες">
 <!ENTITY tabHideControlled.disableButton.label "Απενεργοποίηση επέκτασης">
 <!ENTITY tabHideControlled.disableButton.accesskey "Α">
 
