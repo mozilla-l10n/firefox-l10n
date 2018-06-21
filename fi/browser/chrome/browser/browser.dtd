@@ -57,13 +57,14 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "Jonossa (ei verkkoyhteyttä)">
 <!ENTITY  moveToNewWindow.label              "Siirrä uuteen ikkunaan">
 <!ENTITY  moveToNewWindow.accesskey          "S">
+<!ENTITY  reopenInContainer.label            "Avaa uudelleen säilössä">
+<!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkAllTabs.label              "Lisää välilehdet kirjanmerkkeihin…">
 <!ENTITY  bookmarkAllTabs.accesskey          "i">
 <!ENTITY  undoCloseTab.label                 "Kumoa välilehden sulkeminen">
 <!ENTITY  undoCloseTab.accesskey             "u">
 <!ENTITY  closeTab.label                     "Sulje välilehti">
 <!ENTITY  closeTab.accesskey                 "S">
-
 <!ENTITY  hiddenTabs.label                   "Piilotetut välilehdet">
 
 <!ENTITY  listAllTabs.label      "Listaa kaikki välilehdet">
@@ -221,7 +222,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Muuta sitä, voitko saada ilmoituksia tältä sivustolta">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Tallenna tietoja pysyvään tallennustilaan">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Selain on kauko-ohjauksessa">
-
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Avaa verkkotodennuksen paneeli">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Hallinnoi kameran tai mikrofonin jakamista sivustolle">
@@ -805,6 +805,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Sivustolle ei ole myönnetty mitään erityisoikeuksia.">
 <!ENTITY identity.permissionsReloadHint "Sivu tarvitsee ehkä päivittää, jotta muutokset tulevat voimaan.">
 
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Selaimen välilehdet">
@@ -920,6 +921,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "i">
 <!ENTITY trackingProtection.block2.label "Ota suojaus käyttöön">
 <!ENTITY trackingProtection.block2.accesskey "O">
+
 
 <!ENTITY pluginNotification.showAll.label "Näytä kaikki">
 <!ENTITY pluginNotification.showAll.accesskey "N">
