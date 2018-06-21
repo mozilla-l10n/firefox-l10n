@@ -60,14 +60,14 @@ permissions-exceptions-tracking-protection-desc = Anda telah menonaktifkan Perli
 permissions-exceptions-cookie-window =
     .title = Pengecualian - Kuki dan Data Situs
     .style = { permissions-window.style }
-permissions-exceptions-cookie-desc = Anda dapat menentukan situs web mana saja yang boleh atau tidak boleh menggunakan kuki dan data situs. Ketik alamat situs secara persis yang ingin Anda  kelola, kemudian klik Blok, Izinkan untuk Sesi, atau Izinkan.
+permissions-exceptions-cookie-desc = Anda dapat menentukan situs web mana saja yang boleh atau tidak boleh menggunakan kuki dan data situs. Ketik alamat situs secara persis yang ingin dikelola, kemudian klik Blokir, Izinkan untuk Sesi, atau Izinkan.
 
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window =
-    .title = Situs Web yang Dibolehkan - Pop-ups
+    .title = Situs Web yang Diizinkan - Pop-up
     .style = { permissions-window.style }
-permissions-exceptions-popup-desc = Anda dapat menentukan situs web mana saja yang diizinkan untuk membuka jendela pop-up. Ketik alamat situs yang akan diizinkan, lalu klik Izinkan.
+permissions-exceptions-popup-desc = Anda dapat menentukan situs web mana saja yang diizinkan untuk membuka jendela pop-up. Ketik alamat situs secara persis yang akan diizinkan, lalu klik Izinkan.
 
 ## Exceptions - Saved Logins
 
@@ -79,16 +79,16 @@ permissions-exceptions-saved-logins-desc = Info masuk untuk situs berikut ini ti
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window =
-    .title = Situs Web yang Dibolehkan - Pemasangan Pengaya
+    .title = Situs Web yang Diizinkan - Pemasangan Pengaya
     .style = { permissions-window.style }
-permissions-exceptions-addons-desc = Anda dapat menentukan situs web mana saja yang diizinkan untuk memasang Pengaya. Ketik alamat situs yang akan diizinkan, lalu klik Izinkan.
+permissions-exceptions-addons-desc = Anda dapat menentukan situs web mana saja yang diizinkan untuk memasang Pengaya. Ketik alamat situs secara persis yang akan diizinkan, lalu klik Izinkan.
 
 ## Exceptions - Autoplay Media
 
 permissions-exceptions-autoplay-media-window =
     .title = Situs yang Diizinkan - Putar Otomatis
     .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = Anda dapat merincikan situs web apa yang izinkan untuk memainkan elemen media secara otomatis. Ketika alamat tepat situs yang Anda izinkan dan kemudian klik Izinkan.
+permissions-exceptions-autoplay-media-desc = Anda dapat menentukan situs web mana saja yang diizinkan untuk memainkan elemen media secara otomatis. Ketik alamat situs secara persis yang akan diizinkan, lalu klik Izinkan.
 
 ## Site Permissions - Notifications
 
