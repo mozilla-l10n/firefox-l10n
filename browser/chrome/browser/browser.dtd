@@ -65,7 +65,6 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.accesskey             "m">
 <!ENTITY  closeTab.label                     "Ljepblêd slute">
 <!ENTITY  closeTab.accesskey                 "s">
-
 <!ENTITY  hiddenTabs.label                   "Ferstoppe ljepblêden">
 
 <!ENTITY  listAllTabs.label      "Alle ljepblêdtitels werjaan">
@@ -215,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Berjochtpaniel iepenje">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Lokaasjefersyk-paniel iepenje">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Paniel automatysk ôfspylje iepenje">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Add-on-ynstallaasjebejocht-paniel iepenje">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Canvas-ekstraksjetastimming beheare">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Offline ûnthâldberjochtpaniel iepenje">
@@ -223,7 +223,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Wizigje oft jo notifikaasjes fan de website ûntfange kinne">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Gegevens yn permaninte opslach bewarje">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Browser wurdt op ôfstân bestjoerd">
-
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Webautentikaasjepaniel iepenje">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Dielen fan jo kamera en/of mikrofoan mei de website beheare">
@@ -243,6 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Jo hawwe notifikaasjes foar dizze website blokkearre.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Jo hawwe permaninte opslach foar dizze website blokkearre.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Jo hawwe pop-ups foar dizze website blokkearre.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Jo hawwe automatysk ôfspylje foar dizze website blokkearre.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Jo hawwe canvas-gegevensekstraksje foar dizze website blokkearre.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Jo hawwe it brûken fan de Adobe Flash-ynstekker foar dizze website blokkearre.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Jo hawwe MIDI foar dizze website blokkearre.">
@@ -807,6 +807,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Jo hawwe dizze website gjin spesjale tastimmingen jûn.">
 <!ENTITY identity.permissionsReloadHint "It is mooglik dat jo de side opnij lade moatte om de wizigingen aktyf te meitsjen.">
 
+<!ENTITY identity.permissionsPreferences.tooltip "Opsjes tastimmingen iepenje">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Browserljepblêden">
@@ -905,16 +907,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Audio fan it ljepblêd wurdt dield.">
 <!ENTITY getUserMedia.allWindowsShared.message "Alle sichtbere finsters op jo skerm sille dield wurde.">
 
+<!ENTITY trackingProtection.on "Beskerming tsjin folgjen: OAN">
+<!ENTITY trackingProtection.off "Beskerming tsjin folgjen: ÚT">
 <!ENTITY trackingProtection.title "Beskerming tsjin folgjen">
 <!ENTITY trackingProtection.tooltip "Foarkarren Beskerming tsjin folgjen iepenje">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokkearret ûnderdielen fan de side dy't jo sneupgedrach folgje kinne soe.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Dizze website befettet eleminten dy't jo sneupgedrach folgje kinne soe. Jo hawwe beskerming útskeakele.">
 <!ENTITY trackingProtection.notDetected3 "Gjin folcheleminten op dizze side detektearre.">
+<!ENTITY trackingProtection.detectedNotBlocked4 "Der binne op dizze webside trackers detektearre.">
+<!ENTITY trackingProtection.notDetected4 "Der binne op dizze webside gjin trackers detektearre.">
+<!ENTITY trackingProtection.reloadRequired "Jo hawwe beskerming tsjin folgjen ynskeakele. Laad de side opnij om alle trackers te blokkearjen.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Beskerming foar dizze website útskeakelje">
 <!ENTITY trackingProtection.unblock.accesskey "t">
+<!ENTITY trackingProtection.unblock2.label "Dizze side fertrouwe">
+<!ENTITY trackingProtection.unblock2.accesskey "f">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -922,6 +931,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "s">
 <!ENTITY trackingProtection.block2.label "Beskerming ynskeakelje">
 <!ENTITY trackingProtection.block2.accesskey "s">
+
+<!ENTITY trackingProtection.unblockPrivate2.label "Dizze website foar dizze sesje fertrouwe">
+<!ENTITY trackingProtection.unblockPrivate2.accesskey "f">
+<!ENTITY trackingProtection.block3.label "Set beskerming tsjin folgjen OAN">
+<!ENTITY trackingProtection.block3.accesskey "f">
+<!ENTITY trackingProtection.reload.label "Dizze side opnij lade">
+<!ENTITY trackingProtection.reload.accesskey "D">
 
 <!ENTITY pluginNotification.showAll.label "Alles toane">
 <!ENTITY pluginNotification.showAll.accesskey "A">
