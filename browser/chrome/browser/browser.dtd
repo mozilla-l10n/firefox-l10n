@@ -57,7 +57,7 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "Antrean (luring)">
 <!ENTITY  moveToNewWindow.label              "Pindahkan ke Jendela Baru">
 <!ENTITY  moveToNewWindow.accesskey          "J">
-<!ENTITY  reopenInContainer.label            "Buka ulang di Container">
+<!ENTITY  reopenInContainer.label            "Buka ulang di Kontainer">
 <!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkAllTabs.label              "Markahi Semua Tab…">
 <!ENTITY  bookmarkAllTabs.accesskey          "S">
