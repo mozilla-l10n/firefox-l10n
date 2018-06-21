@@ -65,7 +65,6 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.accesskey             "u">
 <!ENTITY  closeTab.label                     "Clauder le scheda">
 <!ENTITY  closeTab.accesskey                 "C">
-
 <!ENTITY  hiddenTabs.label                   "Schedas celate">
 
 <!ENTITY  listAllTabs.label      "Listar tote le schedas">
@@ -215,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Aperir le pannello de messages">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Aperi le pannello de requesta de geolocalisation">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Aperir le quadro de auto-reproduction">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Aperir le pannello de messages de installation de additivos">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Gere le permission de extraction del canevas">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Aperir pannello de messages de immagazinage disconnectite">
@@ -223,7 +223,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Indicar si tu pote reciper notificationes del sito">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Stockar datos in le immagazinage persistente">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Le navigator es sub controlo remote">
-
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Aperir le quadro de authentication web">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Gerer le compartimento de tu camera e/o microphono con le sito">
@@ -243,6 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Tu ha blocate iste sito web de inviar notificationes.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Tu ha blocate le immagazinage persistente pro iste sito web.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Tu ha blocate le fenestras emergente pro iste sito web.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Tu ha blocate le reproduction de medios con sono pro iste sito web.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Tu ha blocate le extraction de datos de canevas pro iste sito web.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Tu ha blocate iste sito web per le plug-in de Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Tu ha blocate le accesso MIDI pro iste sito web.">
@@ -807,6 +807,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Tu non ha concedite ulle permission special a iste sito.">
 <!ENTITY identity.permissionsReloadHint "Il es possibile que tu debe recargar le pagina pro que le cambios se applica.">
 
+<!ENTITY identity.permissionsPreferences.tooltip "Aperir le preferentias del permissos">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Schedas del navigator">
@@ -905,16 +907,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Le audio del scheda essera compartite.">
 <!ENTITY getUserMedia.allWindowsShared.message "Tote le fenestras visibile super tu schermo essera compartite.">
 
+<!ENTITY trackingProtection.on "Protection contra le traciamento: ACTIVE">
+<!ENTITY trackingProtection.off "Protection contra le traciamento: INACTIVE">
 <!ENTITY trackingProtection.title "Protection contra le traciamento">
 <!ENTITY trackingProtection.tooltip "Aperir le Preferentias del protection contra le traciamento">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; bloca partes del pagina que pote traciar tu navigation.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Iste sito include elementos que pote traciar tu navigation. Tu ha inactivate le protection.">
 <!ENTITY trackingProtection.notDetected3 "Nulle elementos de traciamento detectate in iste pagina.">
+<!ENTITY trackingProtection.detectedNotBlocked4 "In iste pagina web traciatores esseva revelate.">
+<!ENTITY trackingProtection.notDetected4 "Nulle traciatores disvelate in iste pagina.">
+<!ENTITY trackingProtection.reloadRequired "Tu ha activate le Protection contra le traciamento. Pro blocar tote le traciatores recarga per favor le pagina web actual.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Inactivar le protection pro iste sito">
 <!ENTITY trackingProtection.unblock.accesskey "I">
+<!ENTITY trackingProtection.unblock2.label "Fider de iste sito">
+<!ENTITY trackingProtection.unblock2.accesskey "F">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -922,6 +931,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "I">
 <!ENTITY trackingProtection.block2.label "Activar protection">
 <!ENTITY trackingProtection.block2.accesskey "E">
+
+<!ENTITY trackingProtection.unblockPrivate2.label "Fider de iste sito per iste session">
+<!ENTITY trackingProtection.unblockPrivate2.accesskey "F">
+<!ENTITY trackingProtection.block3.label "ACTIVAR le protection contra le traciamento">
+<!ENTITY trackingProtection.block3.accesskey "A">
+<!ENTITY trackingProtection.reload.label "Recargar iste pagina">
+<!ENTITY trackingProtection.reload.accesskey "R">
 
 <!ENTITY pluginNotification.showAll.label "Monstrar toto">
 <!ENTITY pluginNotification.showAll.accesskey "S">
