@@ -807,6 +807,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Du har ikkje gjeve denne nettstaden spesielle løyve.">
 <!ENTITY identity.permissionsReloadHint "Du må kanskje laste sida på nytt for at endringane skal gjelde.">
 
+<!ENTITY identity.permissionsPreferences.tooltip "Opne løyve-innstillingar">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -915,11 +916,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.notDetected3 "Ingens sporingselement funne på denne sida.">
 <!ENTITY trackingProtection.detectedNotBlocked4 "Sporfølgjarar er oppdaga på denne nettsida.">
 <!ENTITY trackingProtection.notDetected4 "Ingen sporfølgjarar er oppdaga på denne nettsida.">
+<!ENTITY trackingProtection.reloadRequired "Du har slått på sporingsvern. For å blokkere alle sporfølgjarar, oppdater denne nettsida.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Slå av vern for denne sida">
 <!ENTITY trackingProtection.unblock.accesskey "S">
+<!ENTITY trackingProtection.unblock2.label "Stol på denne nettsida">
+<!ENTITY trackingProtection.unblock2.accesskey "S">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -928,6 +932,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Slå på vern">
 <!ENTITY trackingProtection.block2.accesskey "å">
 
+<!ENTITY trackingProtection.unblockPrivate2.label "Stol på denne nettsida for denne økta">
+<!ENTITY trackingProtection.unblockPrivate2.accesskey "S">
+<!ENTITY trackingProtection.block3.label "Slå sporingsvern PÅ">
+<!ENTITY trackingProtection.block3.accesskey "S">
+<!ENTITY trackingProtection.reload.label "Oppdater denne sida">
+<!ENTITY trackingProtection.reload.accesskey "O">
 
 <!ENTITY pluginNotification.showAll.label "Vis alle">
 <!ENTITY pluginNotification.showAll.accesskey "V">
