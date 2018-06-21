@@ -1029,7 +1029,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tabHideControlled.disableButton.label "Kiterjesztés letiltása">
 <!ENTITY tabHideControlled.disableButton.accesskey "l">
 
-<!ENTITY pageActionButton.tooltip "Oldal műveletek">
+<!ENTITY pageActionButton.tooltip "Oldalműveletek">
 <!ENTITY pageAction.addToUrlbar.label "Hozzáadás a címsávhoz">
 <!ENTITY pageAction.removeFromUrlbar.label "Eltávolítás a címsávból">
 <!ENTITY pageAction.allowInUrlbar.label "Megjelenítés a címsávban">
