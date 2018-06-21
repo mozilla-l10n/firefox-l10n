@@ -65,7 +65,6 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.accesskey             "D">
 <!ENTITY  closeTab.label                     "Cau Tab">
 <!ENTITY  closeTab.accesskey                 "C">
-
 <!ENTITY  hiddenTabs.label                   "Tabiau Cudd">
 
 <!ENTITY  listAllTabs.label      "Rhestru pob tab">
@@ -215,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Agor y panel negesu">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Agor panel cais y lleoliad">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Agor panel awtochwarae">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Agor panel neges gosod yr ychwanegyn">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Rheoli caniatâd tynnu canfas">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Agor y panel neges storio all-lein">
@@ -223,7 +223,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Newid p'un ai rydych yn derbyn hysbysiadau o'r wefan">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Cadw data mewn Storfa Barhaus">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Mae'r porwr o dan reolaeth bell">
-
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Agor panel Dilysu Gwe">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Rheoli rhannu eich camera a/neu feicroffon gyda'r wefan">
@@ -243,6 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Rydych wedi rhwystro hysbysiadau ar gyfer y wefan hon.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Rydych wedi rhwystro storio data parhaus ar gyfer y wefan hon.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Rydych wedi rhwystro llamlenni ar gyfer y wefan hon.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Rydych wedi rhwystro cyfrwng awtochwarae gyda seiniau ar gyfer y wefan hon.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Rydych wedi rhwystro tynnu data canvas o'r wefan hon.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Rydych wedi rhwystro'r wefan yma rhag defnyddio ategyn Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Rydych wedi rhwystro mynediad MIDI ar gyfer y wefan hon.">
@@ -807,6 +807,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Nid ydych wedi rhoi i'r wefan hon unrhyw ganiatâd arbennig.">
 <!ENTITY identity.permissionsReloadHint "Efallai y bydd angen ail lwytho'r dudalen i newidiadau ddod ar waith.">
 
+<!ENTITY identity.permissionsPreferences.tooltip "Agor Dewisiadau Caniatâd">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Tabiau porwyr">
@@ -905,16 +907,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Bydd sain o'r tab yn cael ei rannu.">
 <!ENTITY getUserMedia.allWindowsShared.message "Bydd pob ffenestr gweladwy ar eich sgrin yn cael eu rhannu.">
 
+<!ENTITY trackingProtection.on "Diogelu rhag Tracio: YMLAEN">
+<!ENTITY trackingProtection.off "Diogelu rhag Tracio: I FFWRDD">
 <!ENTITY trackingProtection.title "Diogelwch Rhag Tracio">
 <!ENTITY trackingProtection.tooltip "Agor Dewisiadau Diogelu rhag Tracio">
 <!ENTITY trackingProtection.detectedBlocked3 "Mae &brandShortName; yn rhwystro rhannau o'r dudalen gall fod yn tracio eich pori.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Rydych wedi analluogi diogelwch ar y dudalen hon. Rydych wedi analluogi diogelwch.">
 <!ENTITY trackingProtection.notDetected3 "Nid oes elfennau tracio wedi eu canfod ar y dudalen hon.">
+<!ENTITY trackingProtection.detectedNotBlocked4 "Mae tracwyr wedi eu canfod ar y dudalen we hon.">
+<!ENTITY trackingProtection.notDetected4 "Heb ganfod tracwyr ar y dudalen we hon.">
+<!ENTITY trackingProtection.reloadRequired "Rydych wedi galluogi Diogelwu rhag Tracio. I rwystro pob traciwr, ail lwythwch y dudalen we yma.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Analluogi diogelwch y wefan hon">
 <!ENTITY trackingProtection.unblock.accesskey "A">
+<!ENTITY trackingProtection.unblock2.label "Ymddiried yn y wefan hon">
+<!ENTITY trackingProtection.unblock2.accesskey "Y">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -922,6 +931,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "A">
 <!ENTITY trackingProtection.block2.label "Galluogi diogelu">
 <!ENTITY trackingProtection.block2.accesskey "G">
+
+<!ENTITY trackingProtection.unblockPrivate2.label "Ymddiried yn y wefan ar gyfer y sesiwn yma">
+<!ENTITY trackingProtection.unblockPrivate2.accesskey "Y">
+<!ENTITY trackingProtection.block3.label "Troi Diogelwch rhag Tracio YMLAEN">
+<!ENTITY trackingProtection.block3.accesskey "T">
+<!ENTITY trackingProtection.reload.label "Ail lwytho'r Dudalen Hon">
+<!ENTITY trackingProtection.reload.accesskey "A">
 
 <!ENTITY pluginNotification.showAll.label "Dangos Popeth">
 <!ENTITY pluginNotification.showAll.accesskey "P">
