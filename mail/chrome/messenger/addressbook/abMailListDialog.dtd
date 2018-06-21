@@ -15,7 +15,7 @@
 <!ENTITY ListDescription.label          "Kuvaus: ">
 <!ENTITY ListDescription.accesskey      "K">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label             "Kirjoita sähköpostiosoitteet lisätäksesi ne postituslistalle:">
+<!ENTITY AddressTitle.label             "Lisää sähköpostiosoitteet listalle kirjoittamalla:">
 <!ENTITY AddressTitle.accesskey         "s">
 <!ENTITY UpButton.label                 "Siirrä ylöspäin">
 <!ENTITY DownButton.label               "Siirrä alaspäin">

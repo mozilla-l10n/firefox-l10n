@@ -4,5 +4,5 @@
 
 <!-- New Tag Dialog -->
 <!ENTITY newTagDialog1.title     "Uusi tunnus">
-<!ENTITY name.label              "Tunnus:">
+<!ENTITY name.label              "Tunnuksen nimi:">
 <!ENTITY name.accesskey          "T">
