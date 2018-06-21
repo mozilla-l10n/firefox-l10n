@@ -56,13 +56,13 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "V čakalni vrsti (brez povezave)">
 <!ENTITY  moveToNewWindow.label              "Premakni v novo okno">
 <!ENTITY  moveToNewWindow.accesskey          "k">
+<!ENTITY  reopenInContainer.label            "Ponovno odpri v vsebniku">
 <!ENTITY  bookmarkAllTabs.label              "Dodaj vse zavihke med zaznamke …">
 <!ENTITY  bookmarkAllTabs.accesskey          "v">
 <!ENTITY  undoCloseTab.label                 "Ponovno odpri zavihek">
 <!ENTITY  undoCloseTab.accesskey             "h">
 <!ENTITY  closeTab.label                     "Zapri zavihek">
 <!ENTITY  closeTab.accesskey                 "Z">
-
 <!ENTITY  hiddenTabs.label                   "Skriti zavihki">
 
 <!ENTITY  listAllTabs.label      "Seznam vseh zavihkov">
@@ -220,7 +220,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Spremenite, ali lahko prejemate obvestila te strani">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Shrani podatke v trajni shrambi">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Brskalnik je pod daljinskim upravljanjem">
-
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Odpri ploščo za spletno overitev">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Upravljajte dovoljenje za uporabo kamere in/ali mikrofona na tej strani">
@@ -240,6 +239,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Za to stran ste zavrnili prikaz obvestil.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Za to spletno stran ste zavrnili trajno shrambo.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Za to stran ste zavrnili pojavna okna.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Za to stran ste zavrnili samodejno predvajanje večpredstavnosti z zvokom.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Za to stran ste zavrnili izločanje podatkov platna.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Tej strani ste zavrnili uporabo vtičnika Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Za to stran ste zavrnili uporabo MIDI.">
@@ -798,6 +798,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Tej strani niste dodelili posebnih dovoljenj.">
 <!ENTITY identity.permissionsReloadHint "Za uveljavitev sprememb boste morda morali ponovno naložiti stran.">
 
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Zavihki brskalnika">
@@ -912,6 +913,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "N">
 <!ENTITY trackingProtection.block2.label "Omogoči zaščito">
 <!ENTITY trackingProtection.block2.accesskey "O">
+
 
 <!ENTITY pluginNotification.showAll.label "Prikaži vse">
 <!ENTITY pluginNotification.showAll.accesskey "S">
