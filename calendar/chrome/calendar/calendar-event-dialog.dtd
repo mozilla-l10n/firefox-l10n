@@ -398,6 +398,7 @@
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "General">
 <!ENTITY read.only.title.label           "Titel:">
+<!ENTITY read.only.calendar.label        "Chalender:">
 <!ENTITY read.only.event.start.label     "Data da cumenzament:">
 <!ENTITY read.only.task.start.label      "Data da cumenzament:">
 <!ENTITY read.only.event.end.label       "Data da finiziun:">
@@ -406,13 +407,22 @@
 <!ENTITY read.only.location.label        "Lieu:">
 <!ENTITY read.only.category.label        "Categoria:">
 <!ENTITY read.only.organizer.label       "Organisatur:">
-<!ENTITY read.only.reply.label           "Respunder:">
-<!ENTITY read.only.accept.label          "Jau ma participesch">
-<!ENTITY read.only.decline.label         "Jau na ma participesch betg">
-<!ENTITY read.only.tentative.label       "Jau ma participesch forsa">
-<!ENTITY read.only.needs.action.label    "Jau respundel pli tard">
 <!ENTITY read.only.reminder.label        "Promomoria:">
 <!ENTITY read.only.attachments.label     "Agiuntas:">
 <!ENTITY read.only.attendees.label       "Participants">
 <!ENTITY read.only.description.label     "Descripziun">
 <!ENTITY read.only.link.label            "Colliaziun correspundenta">
+
+<!-- Summary dialog -->
+<!ENTITY summary.dialog.saveclose.label         "Memorisar e serrar">
+<!ENTITY summary.dialog.saveclose.tooltiptext   "Memorisar las modificaziuns e serrar la fanestra senza midar il status da participaziun e senza trametter ina resposta">
+<!ENTITY summary.dialog.accept.label            "Acceptar">
+<!ENTITY summary.dialog.accept.tooltiptext      "Acceptar l'invit">
+<!ENTITY summary.dialog.tentative.label         "Provisoric">
+<!ENTITY summary.dialog.tentative.tooltiptext   "Acceptar provisoricamain l'invit">
+<!ENTITY summary.dialog.decline.label           "Refusar">
+<!ENTITY summary.dialog.decline.tooltiptext     "Refusar l'invit">
+<!ENTITY summary.dialog.dontsend.label          "Betg trametter ina resposta">
+<!ENTITY summary.dialog.dontsend.tooltiptext    "Midar tes status da participaziun senza trametter ina resposta a l'organisatur e serrar la fanestra">
+<!ENTITY summary.dialog.send.label              "Trametter ussa ina resposta">
+<!ENTITY summary.dialog.send.tooltiptext        "Trametter ina resposta a l'organisatur  e serrar la fanestra">

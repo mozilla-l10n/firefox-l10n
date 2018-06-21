@@ -88,6 +88,7 @@
 <!ENTITY calendar.newevent.button.label         "Nov eveniment" >
 <!ENTITY calendar.newtask.button.label          "Nova incumbensa" >
 <!ENTITY calendar.print.button.label            "Stampar" >
+<!ENTITY calendar.print.button.accesskey        "p">
 
 <!ENTITY calendar.day.button.label              "Di" >
 <!ENTITY calendar.week.button.label             "Emna" >
@@ -177,8 +178,41 @@
 <!ENTITY calendar.context.attendance.menu.label                 "Participaziun">
 <!ENTITY calendar.context.attendance.menu.accesskey             "i">
 <!ENTITY calendar.context.attendance.occurrence.label           "Questa occurrenza">
+<!ENTITY calendar.context.attendance.all2.label                 "Seria cumpletta">
+<!ENTITY calendar.context.attendance.send.label                 "Trametter ussa ina notificaziun">
+<!ENTITY calendar.context.attendance.send.accesskey             "M">
+<!ENTITY calendar.context.attendance.dontsend.label             "Betg trametter ina notificaziun">
+<!ENTITY calendar.context.attendance.dontsend.accesskey         "B">
 
+<!ENTITY calendar.context.attendance.occ.accepted.accesskey     "A">
+<!ENTITY calendar.context.attendance.occ.accepted.label         "Acceptà">
+<!ENTITY calendar.context.attendance.occ.tentative.accesskey    "v">
+<!ENTITY calendar.context.attendance.occ.tentative.label        "Acceptà provisoricamain">
+<!ENTITY calendar.context.attendance.occ.declined.accesskey     "R">
+<!ENTITY calendar.context.attendance.occ.declined.label         "Refusà">
+<!ENTITY calendar.context.attendance.occ.delegated.accesskey    "g">
+<!ENTITY calendar.context.attendance.occ.delegated.label        "Delegà">
+<!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "D">
+<!ENTITY calendar.context.attendance.occ.needsaction.label      "Dovra anc ina acziun">
+<!ENTITY calendar.context.attendance.occ.inprogress.accesskey   "E">
+<!ENTITY calendar.context.attendance.occ.inprogress.label       "En elavuraziun">
+<!ENTITY calendar.context.attendance.occ.completed.accesskey    "T">
+<!ENTITY calendar.context.attendance.occ.completed.label        "Terminà">
 
+<!ENTITY calendar.context.attendance.all.accepted.accesskey     "e">
+<!ENTITY calendar.context.attendance.all.accepted.label         "Acceptà">
+<!ENTITY calendar.context.attendance.all.tentative.accesskey    "v">
+<!ENTITY calendar.context.attendance.all.tentative.label        "Acceptà provisoricamain">
+<!ENTITY calendar.context.attendance.all.declined.accesskey     "r">
+<!ENTITY calendar.context.attendance.all.declined.label         "Refusà">
+<!ENTITY calendar.context.attendance.all.delegated.accesskey    "D">
+<!ENTITY calendar.context.attendance.all.delegated.label        "Delegà">
+<!ENTITY calendar.context.attendance.all.needsaction.accesskey  "i">
+<!ENTITY calendar.context.attendance.all.needsaction.label      "Dovra anc ina acziun">
+<!ENTITY calendar.context.attendance.all.inprogress.accesskey   "E">
+<!ENTITY calendar.context.attendance.all.inprogress.label       "En elavuraziun">
+<!ENTITY calendar.context.attendance.all.completed.accesskey    "m">
+<!ENTITY calendar.context.attendance.all.completed.label        "Terminà">
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Progress">
