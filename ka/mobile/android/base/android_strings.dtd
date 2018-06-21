@@ -414,7 +414,7 @@
 <!ENTITY pref_dialog_activitystream_recentBookmarks "ბოლოს ჩანიშნულები">
 <!ENTITY pref_dialog_activitystream_visited "მონახულებული">
 
-<!ENTITY pref_search_last_toast "თქვენ არ შეგიძლიათ უკანასკნელი საძიებო სისტემის წაშლა, ან გამორთვა.">
+<!ENTITY pref_search_last_toast "თქვენ არ შეგიძლიათ უკანასკნელი საძიებო სისტემის წაშლა ან გამორთვა.">
 
 <!ENTITY pref_panels_show "ჩვენება">
 <!ENTITY pref_panels_hide "დამალვა">
