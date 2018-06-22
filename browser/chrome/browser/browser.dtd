@@ -65,7 +65,6 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.accesskey             "В">
 <!ENTITY  closeTab.label                     "Затвори језичак">
 <!ENTITY  closeTab.accesskey                 "ч">
-
 <!ENTITY  hiddenTabs.label                   "Сакривени језичци">
 
 <!ENTITY  listAllTabs.label      "Наброј све језичке">
@@ -215,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Отвори панел са порукама">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Отвори панел за захтев локације">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Отвори панел за саморепродукцију">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Отвори панел са инсталацијом додатака">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Управљајте дозволама за екстракцију слике">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Отвори панел за ванмрежно складиште">
@@ -223,7 +223,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Промените да ли сајт може да приказује обавештења">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Складишти податке у трајном складишту">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Прегледач је под удаљеним управљањем">
-
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Отвори панел за веб аутентификацију">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Управљајте дељењем ваше камере и/или микрофона са сајтом">
@@ -243,6 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Блокирали сте обавештења за овај веб сајт.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Блокирали сте трајно складиштење за овај веб сајт.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Блокирали сте искачуће прозоре за овај веб сајт.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Блокирали сте аутоматско пуштање медија са звуком за овај веб сајт.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Блокирали сте екстрактовање података слике за овај веб сајт.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Блокирали сте овај веб сајт да користи Adobe Flash прикључак.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Блокирали сте MIDI приступ за овај веб сајт.">
@@ -804,8 +804,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "Обриши колачиће и податке сајта…">
 
 <!ENTITY identity.permissions "Дозволе">
-<!ENTITY identity.permissionsEmpty "Овом сајту нису додељене никакве специјалне дозволе.">
+<!ENTITY identity.permissionsEmpty "Овом сајту нису додељене никакве посебне дозволе.">
 <!ENTITY identity.permissionsReloadHint "Можда ћете морати поново учитати страницу да примените промене.">
+
+<!ENTITY identity.permissionsPreferences.tooltip "Отвори поставке дозвола">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -905,16 +907,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Звук из овог језичка ће бити подељен.">
 <!ENTITY getUserMedia.allWindowsShared.message "Сви видљиви прозори на екрану ће бити подељени.">
 
+<!ENTITY trackingProtection.on "Заштита од праћења: УКЉУЧЕНА">
+<!ENTITY trackingProtection.off "Заштита од праћења: ИСКЉУЧЕНА">
 <!ENTITY trackingProtection.title "Заштита од праћења">
 <!ENTITY trackingProtection.tooltip "Отвори поставке заштите од праћења">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; блокира делове странице који можда прате ваше активности.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Овај сајт садржи елементе који прате ваше активности. Ви сте искључили заштиту.">
 <!ENTITY trackingProtection.notDetected3 "Елементи који прате нису пронађени на овој страници.">
+<!ENTITY trackingProtection.detectedNotBlocked4 "Пратиоци су откривени на овој веб страници.">
+<!ENTITY trackingProtection.notDetected4 "Нема пратиоца на овој страници.">
+<!ENTITY trackingProtection.reloadRequired "Омогућили сте заштиту од праћења. Да блокирате све пратиоце освежите тренутну веб страницу.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Онемогући заштиту за овај сајт">
 <!ENTITY trackingProtection.unblock.accesskey "с">
+<!ENTITY trackingProtection.unblock2.label "Веруј овом сајту">
+<!ENTITY trackingProtection.unblock2.accesskey "В">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -922,6 +931,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "н">
 <!ENTITY trackingProtection.block2.label "Омогући заштиту">
 <!ENTITY trackingProtection.block2.accesskey "О">
+
+<!ENTITY trackingProtection.unblockPrivate2.label "Веруј овом сајту за ову сесију">
+<!ENTITY trackingProtection.unblockPrivate2.accesskey "В">
+<!ENTITY trackingProtection.block3.label "Укључите заштиту од праћења">
+<!ENTITY trackingProtection.block3.accesskey "У">
+<!ENTITY trackingProtection.reload.label "Освежи ову страницу">
+<!ENTITY trackingProtection.reload.accesskey "О">
 
 <!ENTITY pluginNotification.showAll.label "Прикажи све">
 <!ENTITY pluginNotification.showAll.accesskey "С">
