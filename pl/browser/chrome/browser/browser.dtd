@@ -688,6 +688,8 @@
 <!ENTITY trackingProtection.notDetected3 "Nie wykryto elementów śledzących aktywność użytkownika na tej stronie.">
 <!ENTITY trackingProtection.detectedNotBlocked4 "Wykryto elementy śledzące na tej stronie.">
 <!ENTITY trackingProtection.notDetected4 "Nie wykryto elementów śledzących na tej stronie.">
+<!ENTITY trackingProtection.detectedException "&brandShortName; wykrył elementy mogące śledzić Twoją aktywność. Ochrona przed śledzeniem została wyłączona dla tej witryny.">
+<!ENTITY trackingProtection.notDetectedException "Nie wykryto elementów mogących śledziź aktywność na tej stronie. Ochrona przed śledzeniem została wyłączona dla tej witryny.">
 <!ENTITY trackingProtection.reloadRequired "Ochrona przed śledzeniem została włączona. Wczytaj ponownie stronę, aby zablokować elementy śledzące.">
 <!ENTITY trackingProtection.unblock.label "Wyłącz ochronę dla tej witryny">
 <!ENTITY trackingProtection.unblock.accesskey "W">
