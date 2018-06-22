@@ -14,4 +14,5 @@
 <!ENTITY makeUrlRelative.tooltip "Eskemm etre an URL daveel ha dizave. Re eo deoc'h enrollañ ar bajennad a-raok kemm an dra-se.">
 
 <!-- Shared by Link and Image dialogs -->
+<!ENTITY LinkURLEditField2.label "Enankañ lec'hiadur ur bajennad Web, ur restr lec'hel, pe ziuzañ un eor anvet pe un talbenn diouzh al lañser kendestennel:">
 <!ENTITY LinkURLEditField2.accessKey "w">
