@@ -251,6 +251,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Domov">
 
+<!ENTITY homeButton.defaultPage.tooltip "Domača stran &brandShortName;a">
 
 <!ENTITY bookmarksButton.label          "Zaznamki">
 <!ENTITY bookmarksCmd.commandkey "b">
@@ -432,6 +433,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "Dodaj več predmetov …">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
+<!ENTITY customizeMenu.autoHideDownloadsButton.label "Samodejno skrij v orodni vrstici">
+<!ENTITY customizeMenu.manageExtension.label "Upravljaj razširitev">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -793,11 +796,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "Več informacij">
 
+<!ENTITY identity.clearSiteData "Počisti piškotke in podatke strani …">
 
 <!ENTITY identity.permissions "Dovoljenja">
 <!ENTITY identity.permissionsEmpty "Tej strani niste dodelili posebnih dovoljenj.">
 <!ENTITY identity.permissionsReloadHint "Za uveljavitev sprememb boste morda morali ponovno naložiti stran.">
 
+<!ENTITY identity.permissionsPreferences.tooltip "Odpri nastavitve dovoljenj">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -897,15 +902,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Zvok zavihka bo v skupni rabi.">
 <!ENTITY getUserMedia.allWindowsShared.message "Vsa vidna okna na vašem zaslonu bodo v skupni rabi.">
 
+<!ENTITY trackingProtection.on "Zaščita pred sledenjem: vključeno">
+<!ENTITY trackingProtection.off "Zaščita pred sledenjem: izključeno">
 <!ENTITY trackingProtection.title "Zaščita pred sledenjem">
+<!ENTITY trackingProtection.tooltip "Odpri nastavitve zaščite pred sledenjem">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; zavrača dele strani, ki lahko sledijo vašemu brskanju.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Stran vsebuje elemente, ki lahko sledijo vašemu brskanju. Zaščita je onemogočena.">
 <!ENTITY trackingProtection.notDetected3 "Na strani ni bilo zaznanih elementov sledenja.">
+<!ENTITY trackingProtection.notDetected4 "Na strani ni bilo zaznanih sledilcev.">
+<!ENTITY trackingProtection.reloadRequired "Omogočili ste zaščito pred sledenjem. Za zavrnitev vseh sledilcev ponovno naložite spletno stran.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Onemogoči zaščito za to stran">
 <!ENTITY trackingProtection.unblock.accesskey "N">
+<!ENTITY trackingProtection.unblock2.label "Zaupaj tej strani">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -914,6 +925,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Omogoči zaščito">
 <!ENTITY trackingProtection.block2.accesskey "O">
 
+<!ENTITY trackingProtection.block3.label "Vključi zaščito pred sledenjem">
+<!ENTITY trackingProtection.reload.label "Ponovno naloži stran">
 
 <!ENTITY pluginNotification.showAll.label "Prikaži vse">
 <!ENTITY pluginNotification.showAll.accesskey "S">
@@ -999,6 +1012,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.disableButton.label "Onemogoči razširitev">
 <!ENTITY homepageControlled.disableButton.accesskey "n">
 
+<!ENTITY tabHideControlled.keepButton.label "Ohrani zavihke skrite">
 <!ENTITY tabHideControlled.disableButton.label "Onemogoči razširitev">
 
 <!ENTITY pageActionButton.tooltip "Dejanja strani">
