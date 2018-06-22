@@ -598,6 +598,7 @@
 <!ENTITY identity.permissions "Uprawnienia">
 <!ENTITY identity.permissionsEmpty "Strona korzysta z domyślnych uprawnień.">
 <!ENTITY identity.permissionsReloadHint "Ponowne wczytanie strony może być konieczne, aby wprowadzone zmiany przyniosły skutek.">
+<!ENTITY identity.permissionsPreferences.tooltip "Otwórz ustawienia uprawnień">
 
 <!ENTITY tabsToolbar.label "Karty przeglądarki">
 <!ENTITY syncTabsMenu3.label "Karty z innych urządzeń">
