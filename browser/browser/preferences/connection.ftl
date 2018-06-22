@@ -13,6 +13,7 @@ connection-close-key =
     .key = w
 connection-disable-extension =
     .label = Απενεργοποίηση επέκτασης
+connection-proxy-configure = Ρύθμιση διακομιστή μεσολάβησης για πρόσβαση στο διαδίκτυο
 connection-proxy-option-no =
     .label = Χωρίς διαμεσολαβητή
     .accesskey = Χ
