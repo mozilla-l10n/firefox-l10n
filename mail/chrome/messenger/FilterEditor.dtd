@@ -10,11 +10,11 @@
 <!ENTITY junk.label "Смеће">
 <!ENTITY notJunk.label "Није смеће">
 
-<!ENTITY lowestPriorityCmd.label "Најнижи">
-<!ENTITY lowPriorityCmd.label "Низак">
-<!ENTITY normalPriorityCmd.label "Обичан">
-<!ENTITY highPriorityCmd.label "Висок">
-<!ENTITY highestPriorityCmd.label "Највиши">
+<!ENTITY lowestPriorityCmd.label "Најниже">
+<!ENTITY lowPriorityCmd.label "Ниско">
+<!ENTITY normalPriorityCmd.label "Обично">
+<!ENTITY highPriorityCmd.label "Високо">
+<!ENTITY highestPriorityCmd.label "Највише">
 
 <!ENTITY contextDesc.label "Примени филтер када:">
 <!ENTITY contextIncomingMail.label "Добијам нову пошту:">
@@ -42,7 +42,7 @@
 <!ENTITY markMessageRead.label "Означи као прочитано">
 <!ENTITY markMessageUnread.label "Означи као непрочитано">
 <!ENTITY markMessageStarred.label "Додај звездицу">
-<!ENTITY setPriority.label "Подеси важност на">
+<!ENTITY setPriority.label "Подеси првенство на">
 <!ENTITY addTag.label "Означи поруку">
 <!ENTITY setJunkScore.label "Подеси стање смећа на">
 <!ENTITY deleteMessage.label "Обриши поруку">

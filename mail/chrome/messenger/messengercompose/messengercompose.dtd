@@ -176,7 +176,7 @@
 <!ENTITY attachVCard.label "Закачи визит картицу (vCard)">
 <!ENTITY attachVCard.accesskey "v">
 
-<!ENTITY returnReceiptMenu.label "Потврда о пријему">
+<!ENTITY returnReceiptMenu.label "Повратнице">
 <!ENTITY returnReceiptMenu.accesskey "т">
 <!ENTITY dsnMenu.label "Обавештење о стању доставе">
 <!ENTITY dsnMenu.accesskey "б">
@@ -190,20 +190,20 @@
 <!ENTITY htmlFormatCmd.accesskey "г">
 <!ENTITY bothFormatCmd.label "Обичан и обогаћени (HTML) текст">
 <!ENTITY bothFormatCmd.accesskey "и">
-<!ENTITY priorityMenu.label "Важност">
+<!ENTITY priorityMenu.label "Првенство">
 <!ENTITY priorityMenu.accesskey "в">
-<!ENTITY priorityButton.title "Важност">
-<!ENTITY priorityButton.tooltiptext "Промените важност поруке">
-<!ENTITY priorityButton.label "Важност:">
-<!ENTITY lowestPriorityCmd.label "Најнижа">
+<!ENTITY priorityButton.title "Првенство">
+<!ENTITY priorityButton.tooltiptext "Промените првенство поруке">
+<!ENTITY priorityButton.label "Првенство:">
+<!ENTITY lowestPriorityCmd.label "Најниже">
 <!ENTITY lowestPriorityCmd.accesskey "ј">
-<!ENTITY lowPriorityCmd.label "Ниска">
+<!ENTITY lowPriorityCmd.label "Ниско">
 <!ENTITY lowPriorityCmd.accesskey "к">
-<!ENTITY normalPriorityCmd.label "Обична">
+<!ENTITY normalPriorityCmd.label "Обично">
 <!ENTITY normalPriorityCmd.accesskey "б">
-<!ENTITY highPriorityCmd.label "Висока">
+<!ENTITY highPriorityCmd.label "Високо">
 <!ENTITY highPriorityCmd.accesskey "и">
-<!ENTITY highestPriorityCmd.label "Највиша">
+<!ENTITY highestPriorityCmd.label "Највише">
 <!ENTITY highestPriorityCmd.accesskey "Н">
 <!ENTITY fileCarbonCopyCmd.label "Пошаљи примерак на">
 <!ENTITY fileCarbonCopyCmd.accesskey "р">
@@ -247,7 +247,6 @@
 <!ENTITY sendlaterButton.tooltip "Пошаљи ову поруку касније">
 <!ENTITY quoteButton.tooltip "Цитирај претходну поруку">
 <!ENTITY addressButton.tooltip "Изаберите примаоца из именика">
-<!ENTITY attachButton.tooltip "Укључи прилог">
 <!ENTITY attachButton.tooltip2 "Додај прилог">
 <!ENTITY spellingButton.tooltip "Провери правопис одабраног дела или целе поруке">
 <!ENTITY saveButton.tooltip "Сачувај ову поруку">
@@ -275,7 +274,6 @@
      and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
      work, as the shortcut key functionality supersedes the access key. -->
 <!ENTITY attachments.accesskey "л">
-
 <!ENTITY attachmentBucketHeader.tooltip "Површ за прилоге">
 <!ENTITY attachmentBucketCloseButton.tooltip "Сакриј површ за прилоге">
 

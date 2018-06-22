@@ -32,7 +32,7 @@
 <!ENTITY useDownloadedList.accesskey "и">
 
 <!-- Passwords -->
-<!ENTITY savedPasswords.intro           "&brandShortName; може памтити лозинке за све важе налоге.">
+<!ENTITY savedPasswords.intro           "&brandShortName; може памтити лозинке за све ваше налоге.">
 <!ENTITY useMasterPassword.label        "Користи главну лозинку">
 <!ENTITY useMasterPassword.accesskey    "р">
 <!ENTITY masterPassword.intro           "Главна лозинка може заштити све ваше лозинке али је морате уносити једном по сесији.">

@@ -185,7 +185,7 @@
 <!ENTITY sortByStarCmd.accesskey "С">
 <!ENTITY sortByAttachmentsCmd.label "Прилози">
 <!ENTITY sortByAttachmentsCmd.accesskey "л">
-<!ENTITY sortByPriorityCmd.label "Важност">
+<!ENTITY sortByPriorityCmd.label "Првенство">
 <!ENTITY sortByPriorityCmd.accesskey "В">
 <!ENTITY sortBySizeCmd.label "Величина">
 <!ENTITY sortBySizeCmd.accesskey "н">
@@ -711,7 +711,7 @@
 <!ENTITY correspondentColumn.label "Дописници">
 <!ENTITY subjectColumn.label "Наслов">
 <!ENTITY dateColumn.label "Датум">
-<!ENTITY priorityColumn.label "Важност">
+<!ENTITY priorityColumn.label "Првенство">
 <!ENTITY tagsColumn.label "Ознака">
 <!ENTITY accountColumn.label "Налог">
 <!ENTITY statusColumn.label "Стање">
@@ -734,7 +734,7 @@
 <!ENTITY correspondentColumn2.tooltip "Поређај по дописницима">
 <!ENTITY subjectColumn2.tooltip "Поређај по наслову">
 <!ENTITY dateColumn2.tooltip "Поређај по датуму">
-<!ENTITY priorityColumn2.tooltip "Поређај по важности">
+<!ENTITY priorityColumn2.tooltip "Поређај по првенству">
 <!ENTITY tagsColumn2.tooltip "Поређај по ознакама">
 <!ENTITY accountColumn2.tooltip "Поређај по налогу">
 <!ENTITY statusColumn2.tooltip "Поређај на основу стања">
