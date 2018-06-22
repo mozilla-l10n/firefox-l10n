@@ -65,7 +65,6 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.accesskey             "U">
 <!ENTITY  closeTab.label                     "Tendayke mboty">
 <!ENTITY  closeTab.accesskey                 "C">
-
 <!ENTITY  hiddenTabs.label                   "Tendayke kañymby">
 
 <!ENTITY  listAllTabs.label      "Opaite tendayke jehechauka">
@@ -223,7 +222,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Emoambue eipotárõ oñemog̃uahẽ ndéve ñemomarandu ko ñandutirenda omondóva.">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Mba'ekuaarã ñembyaty, ñembyaty hi'arekuaávape">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Kundahára oĩ ñangarekoha okayguáva poguýpe">
-
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Eike pe ñanduti mboajeha rupápe">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Eñangareko moherakuã nerovetã térã mba'erechaha ko tenda ndive">
@@ -807,6 +805,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Nome'ẽi ko tenda ñemoneĩ ha'etéva.">
 <!ENTITY identity.permissionsReloadHint "Ikatu hína kuatiarogue emyanyhẽjey umi moambuepyre oñemboheko hag̃ua.">
 
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Kundahára rendayke">
@@ -915,6 +914,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Emonge ñemo'ã ko tendágui">
 <!ENTITY trackingProtection.unblock.accesskey "D">
+<!ENTITY trackingProtection.unblock2.accesskey "T">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -922,6 +922,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "D">
 <!ENTITY trackingProtection.block2.label "Ñemo'ã myandy">
 <!ENTITY trackingProtection.block2.accesskey "E">
+
+<!ENTITY trackingProtection.unblockPrivate2.accesskey "T">
+<!ENTITY trackingProtection.block3.accesskey "T">
+<!ENTITY trackingProtection.reload.accesskey "R">
 
 <!ENTITY pluginNotification.showAll.label "Techaukapa">
 <!ENTITY pluginNotification.showAll.accesskey "T">
