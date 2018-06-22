@@ -65,7 +65,6 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.accesskey             "o">
 <!ENTITY  closeTab.label                     "Tabblad sluiten">
 <!ENTITY  closeTab.accesskey                 "s">
-
 <!ENTITY  hiddenTabs.label                   "Verborgen tabbladen">
 
 <!ENTITY listAllTabs.label       "Alle tabbladtitels weergeven">
@@ -224,7 +223,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Wijzigen of u notificaties van de website kunt ontvangen">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Gegevens in permanente opslag bewaren">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Browser wordt op afstand bestuurd">
-
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Paneel Webauthenticatie openen">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Delen van uw camera en/of microfoon met de website beheren">
@@ -940,6 +938,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block3.accesskey "A">
 <!ENTITY trackingProtection.reload.label "Deze pagina vernieuwen">
 <!ENTITY trackingProtection.reload.accesskey "r">
+
+<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; blokkeert onderdelen van deze pagina die uw surfgedrag zouden kunnen volgen.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; heeft elementen gedetecteerd die uw surfgedrag zouden kunnen volgen.">
+<!ENTITY trackingProtection.detectedException "&brandShortName; heeft elementen gedetecteerd die uw surfgedrag zouden kunnen volgen. U hebt bescherming voor deze website uitgeschakeld.">
+<!ENTITY trackingProtection.notDetected5 "Geen volgelementen op deze pagina gedetecteerd.">
+<!ENTITY trackingProtection.notDetectedException "Geen volgelementen op deze pagina gedetecteerd. U hebt bescherming voor deze website uitgeschakeld.">
+
+<!ENTITY trackingProtection.reloadRequired2 "U hebt Bescherming tegen volgen ingeschakeld. Laad deze pagina opnieuw om alle trackers te blokkeren.">
+<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock3.label "Uitschakelen voor deze website">
+<!ENTITY trackingProtection.unblock3.accesskey "U">
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate3.label "Uitschakelen voor deze sessie">
+<!ENTITY trackingProtection.unblockPrivate3.accesskey "U">
+<!ENTITY trackingProtection.block4.label "Inschakelen voor deze website">
+<!ENTITY trackingProtection.block4.accesskey "n">
+<!ENTITY trackingProtection.reload2.label "Pagina vernieuwen">
+<!ENTITY trackingProtection.reload2.accesskey "r">
 
 <!ENTITY pluginNotification.showAll.label "Alles tonen">
 <!ENTITY pluginNotification.showAll.accesskey "A">
