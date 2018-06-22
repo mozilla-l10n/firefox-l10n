@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+sync-disconnect-remove-sync-caption = Odstrani podatke { -sync-brand-name }a
+sync-disconnect-remove-other-caption = Odstrani druge zasebne podatke
+# Shown while the disconnect is in progress
+sync-disconnect-disconnecting = Prekinjanje ...
 sync-disconnect-cancel =
     .label = Prekliči
     .accesskey = P

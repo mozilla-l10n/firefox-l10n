@@ -83,6 +83,13 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Določite, katere strani smejo nameščati dodatke. Vnesite točen naslov strani, nato pa kliknite gumb Dovoli.
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = Dovoljene strani – Samodejno predvajanje
+    .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc = Določite lahko, katere spletne strani smejo samodejno predvajati predstavnostne elemente. Vnesite točen naslov spletne strani, ki ji želite omogočiti samodejno predvajanje, in nato kliknite Dovoli.
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
