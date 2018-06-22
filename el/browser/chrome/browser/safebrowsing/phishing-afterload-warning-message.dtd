@@ -18,6 +18,8 @@
 <!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
 
 
+<!ENTITY safeb.blocked.malwarePage.title2 "Η επίσκεψη σε αυτή την ιστοσελίδα μπορεί να βλάψει τον υπολογιστή σας">
+<!ENTITY safeb.blocked.malwarePage.shortDesc2 "Το &brandShortName; απέκλεισε αυτή τη σελίδα, επειδή ενδέχεται να επιχειρήσει να εγκαταστήσει κακόβουλο λογισμικό που μπορεί να υποκλέψει ή να διαγράψει προσωπικές πληροφορίες στον υπολογιστή σας.">
 
 <!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 

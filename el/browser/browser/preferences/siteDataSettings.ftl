@@ -43,3 +43,4 @@ site-data-removing-window =
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = Αφαίρεση
+site-data-removing-header = Αφαίρεση των cookies και των δεδομένων ιστοσελίδων

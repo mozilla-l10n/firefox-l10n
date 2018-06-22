@@ -82,6 +82,12 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Μπορείτε να καθορίσετε σε ποιες ιστοσελίδες θα επιτρέπεται να εγκαθιστούν πρόσθετα. Πληκτρολογήστε την ακριβή διεύθυνση της σελίδας και πατήστε Να επιτρέπεται.
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = Επιτρεπόμενες ιστοσελίδες - Αυτόματη αναπαραγωγή
+    .style = { permissions-window.style }
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
