@@ -8,7 +8,7 @@
      and regret that we are unable to restore the session for the user -->
 <!ENTITY restorepage.errorTitle2    "Žal imamo težave pri obnavljanju vaših strani.">
 <!ENTITY restorepage.problemDesc2   "Imamo težave pri pri obnavljanju vaše zadnje seje brskanja. Izberite Obnovi sejo in poskusite znova.">
-<!ENTITY restorepage.tryThis2       "Še vedno ne morete obnoviti seje? To težavo včasih povzroča zavihek. Oglejte si prejšnje zavihke, odstranite zavihke, ki jih ne boste obnovili, in potem obnovite.">
+<!ENTITY restorepage.tryThis2       "Še vedno ne morete obnoviti seje? To težavo včasih povzroča kateri od zavihkov. Oglejte si prejšnje zavihke, odstranite tiste, ki jih ne boste obnovili, in potem obnovite.">
 
 <!ENTITY restorepage.hideTabs       "Skrij prejšnje zavihke">
 <!ENTITY restorepage.showTabs       "Prikaži prejšnje zavihke">
