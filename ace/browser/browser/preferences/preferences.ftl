@@ -14,14 +14,6 @@ pref-page =
             [windows] Atô
            *[other] Atô
         }
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
 pane-general-title = Umom
 category-general =
     .tooltiptext = { pane-general-title }
@@ -66,6 +58,10 @@ restart-later = Peuhah Keulayi Euntreuk
 
 ## General Section
 
+startup-restore-previous-session =
+    .label = Peuriwang sesi seugolomjih
+    .accesskey = g
+tabs-group-header = Tab
 browser-containers-learn-more = Meurunoë lom
 
 ## General Section - Language & Appearance
@@ -88,12 +84,17 @@ network-proxy-connection-learn-more = Meurunoë Lom
 
 ## Home Section
 
+home-new-windows-tabs-header = Tingkap ngon Tab Barô
 
 ## Home Section - Home Page Customization
 
+home-newtabs-mode-label = Tab barô
 
 ## Search Section
 
+search-engine-default-header = Meusén Mita Baku
+search-choose-engine-column =
+    .label = Meusén Mita
 
 ## Containers Section
 
@@ -103,6 +104,9 @@ network-proxy-connection-learn-more = Meurunoë Lom
 
 ## Sync Section - Signed in
 
+sync-engine-history =
+    .label = Riwayat
+    .accesskey = R
 sync-device-name-cancel =
     .label = Bateue
     .accesskey = B
@@ -115,10 +119,13 @@ sync-device-name-cancel =
 
 ## Privacy Section - History
 
+history-header = Riwayat
 
 ## Privacy Section - Site Data
 
 sitedata-learn-more = Meurunoë lom
+sitedata-accept-third-party-always-option =
+    .label = Sabé
 
 ## Privacy Section - Address Bar
 
@@ -142,6 +149,7 @@ collection-backlogged-crash-reports-link = Meurunoë lom
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Keuamanan
 security-enable-safe-browsing-link = Meurunoë lom
 
 ## Privacy Section - Certificates
