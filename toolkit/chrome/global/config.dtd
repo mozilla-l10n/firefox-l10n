@@ -7,7 +7,7 @@
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
 <!ENTITY aboutWarningTitle.label "Kontuz, zure bermeak baliorik gabe gera daitezke!">
-<!ENTITY aboutWarningText.label "Hobespen hauen balioak aldatzeak albo-ondorio kaltegarriak sor ditzake aplikazioaren egonkortasun, segurtasun eta eraginkortasunean. Aurrera jarraitzekotan, egon zaitez ziur zertan zabiltzan.">
+<!ENTITY aboutWarningText.label "Hobespen aurreratu hauek aldatzeak albo-kalteak sor ditzake aplikazioaren egonkortasun, segurtasun eta eraginkortasunean. Aurrera jarraitzekotan, egon zaitez ziur zertan zabiltzan.">
 <!ENTITY aboutWarningButton2.label "Arriskua onartzen dut!">
 <!ENTITY aboutWarningCheckbox.label "Erakutsi ohar hau hurrengoan">
 
