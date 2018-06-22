@@ -22,7 +22,7 @@
 <!ENTITY account.autoSignOn.accesskey "ჩ">
 <!ENTITY account.connect.label        "დაკავშირება">
 <!ENTITY account.connect.accesskey    "დ">
-<!ENTITY account.disconnect.label     "კავშირის შეწყვეტა">
+<!ENTITY account.disconnect.label     "გამოთიშვა">
 <!ENTITY account.disconnect.accesskey "შ">
 <!ENTITY account.delete.label         "წაშლა">
 <!ENTITY account.delete.accesskey     "წ">
@@ -37,5 +37,5 @@
 <!ENTITY account.showDebugLog.label     "გამართვის აღრიცხვის მონაცემები">
 <!ENTITY account.showDebugLog.accesskey "ც">
 <!ENTITY account.connecting           "დაკავშირება…">
-<!ENTITY account.disconnecting        "კავშირის გაწყვეტა…">
+<!ENTITY account.disconnecting        "ითიშება…">
 <!ENTITY account.disconnected         "არაა დაკავშირებული">
