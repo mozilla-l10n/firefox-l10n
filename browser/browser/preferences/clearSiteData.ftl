@@ -24,6 +24,7 @@ clear-site-data-cookies-with-data =
 clear-site-data-cookies-empty =
     .label = Cookies και δεδομένα ιστοσελίδων
     .accesskey = ι
+clear-site-data-cookies-info = Ενδέχεται να αποσυνδεθείτε από τις ιστοσελίδες εάν γίνει εκκαθάριση
 clear-site-data-cancel =
     .label = Ακύρωση
     .accesskey = Α

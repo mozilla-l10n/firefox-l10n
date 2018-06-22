@@ -57,6 +57,8 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "Σε ουρά (εκτός σύνδεσης)">
 <!ENTITY  moveToNewWindow.label              "Μετακίνηση σε νέο παράθυρο">
 <!ENTITY  moveToNewWindow.accesskey          "π">
+<!ENTITY  reopenInContainer.label            "Άνοιγμα ξανά σε θεματική καρτέλα">
+<!ENTITY  reopenInContainer.accesskey        "ξ">
 <!ENTITY  bookmarkAllTabs.label              "Προσθήκη όλων των καρτελών στους σελιδοδείκτες…">
 <!ENTITY  bookmarkAllTabs.accesskey          "Κ">
 <!ENTITY  undoCloseTab.label                 "Αναίρεση κλεισίματος καρτέλας">
@@ -786,11 +788,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "Περισσότερες πληροφορίες">
 
+<!ENTITY identity.clearSiteData "Διαγραφή cookies και δεδομένων ιστοσελίδων…">
 
 <!ENTITY identity.permissions "Δικαιώματα">
 <!ENTITY identity.permissionsEmpty "Δεν έχετε χορηγήσει ειδικές άδειες στη σελίδα.">
 <!ENTITY identity.permissionsReloadHint "Ίσως χρειαστεί να φορτώσετε εκ νέου τη σελίδα για εφαρμογή των αλλαγών.">
 
+<!ENTITY identity.permissionsPreferences.tooltip "Άνοιγμα προτιμήσεων δικαιωμάτων">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -893,6 +897,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.on "Προστασία από παρακολούθηση: ΕΝΕΡΓΗ">
 <!ENTITY trackingProtection.off "Προστασία από παρακολούθηση: ΑΝΕΝΕΡΓΗ">
 <!ENTITY trackingProtection.title "Προστασία από παρακολούθηση">
+<!ENTITY trackingProtection.tooltip "Άνοιγμα προτιμήσεων προστασίας παρακολούθησης">
 <!ENTITY trackingProtection.detectedBlocked3 "Το &brandShortName; αποκλείει τμήματα της σελίδας που ίσως παρακολουθούν την περιήγησή σας.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Αυτή η ιστοσελίδα περιέχει στοιχεία που μπορούν να καταγράψουν τη συμπεριφορά σας. Έχετε απενεργοποιήσει την προστασία.">
 <!ENTITY trackingProtection.notDetected3 "Κανένα στοιχείο καταγραφής σε αυτή τη σελίδα.">
