@@ -214,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Eike ñe'ẽmondo rupápe">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Tendaite jerurepy rupa ijurujáva">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Embojuruja ñemboheta ijeheguíva ra’angarupa">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Eike ñe'ẽmondo moĩmbaha ñemohenda ra'ãngarupápe">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Ñangareko Moñeĩ Oñeguehohẽ hag̃ua Canvas">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Eguereko ñangarekoha rekaha. Eikutu Esc eguereko jey hag̃ua pe ñangarekoha.">
@@ -241,6 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ejokóma ñemomarandu ko ñanduti rendápe g̃uarã.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Ejokóma mba'ekuaarã ñembyaty hi'aréva ko ñanduti renda pegua.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Ejokoukákuri ovetã apysẽva ko ñandutirendápe g̃uarã.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Ejokóma ñemboheta ijeheguíva mba’epu rehegua ko ñanduti rendápe g̃uarã.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Ejokoukákuri kuaapy canvas rehegua ñeguenohẽ ko ñandutirendápe g̃uarã.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Ejokóma ko ñanduti renda ani hag̃ua tembipuru'i Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Ejokóma MIDI pe jeike ko ñanduti rendápe g̃uarã.">
@@ -805,6 +807,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Nome'ẽi ko tenda ñemoneĩ ha'etéva.">
 <!ENTITY identity.permissionsReloadHint "Ikatu hína kuatiarogue emyanyhẽjey umi moambuepyre oñemboheko hag̃ua.">
 
+<!ENTITY identity.permissionsPreferences.tooltip "Oĩ moneĩ jeguerohoryvéva">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -904,11 +907,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Tenda'i mba'epu oñemosarambíta.">
 <!ENTITY getUserMedia.allWindowsShared.message "Oñemosarambíta opaite ovetã ojehecháva mba'erechahápe.">
 
+<!ENTITY trackingProtection.on "Jeheka mo’ãha: MYANDYPYRE">
+<!ENTITY trackingProtection.off "Jeheka mo’ãha: MBOGUEPYRE">
 <!ENTITY trackingProtection.title "Tapykueho ñemo'ã">
 <!ENTITY trackingProtection.tooltip "Embojuruja jeguerohoryvéva tapykuere mo'ãhápe">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; ojokohína kuatiarogue pehẽ ikatúva ohapykueho nekundaha.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Ko tenda oguereko mba'epuru ikatúva ohapykueho nekundaha. Nde reguereko neñemo'ã oguepyréva.">
 <!ENTITY trackingProtection.notDetected3 "Ndaipóri tapykueho mba'epuru ojejuhúva ko kuatiaroguépe.">
+<!ENTITY trackingProtection.detectedNotBlocked4 "Ojejuhu jehekaha ko ñanduti rendápe.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
