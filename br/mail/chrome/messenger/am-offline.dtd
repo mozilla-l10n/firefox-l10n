@@ -5,6 +5,7 @@
 <!ENTITY doNotDownloadPop3Movemail.label "A-benn espern an egor kantenn, chom hep pellgargañ :">
 <!ENTITY doNotDownloadNntp.label "A-benn espern an egor kantenn, chom hep pellgargañ evit an arver ezlinenn :">
 <!ENTITY doNotDownloadImap.label "A-benn espern an egor kantenn, ar pellgargadur c'hemennadennoù diouzh an dafariad hag an eiladoù lec'hel evit an arver ezlinenn a c'hell bezañ strishaet dre oad pe ment.">
+<!ENTITY allFoldersOffline2.label "Mirout ar c'hemennadennoù e-barzh an holl deulioù evit ar gont-mañ war an urzhiataer-mañ">
 <!ENTITY allFoldersOffline2.accesskey "o">
 <!ENTITY offlineNotDownload.label "Kemennadennoù brasoc'h eget">
 <!ENTITY offlineNotDownload.accesskey "m">
