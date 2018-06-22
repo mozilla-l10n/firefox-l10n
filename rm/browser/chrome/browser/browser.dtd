@@ -65,7 +65,6 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.accesskey             "R">
 <!ENTITY  closeTab.label                     "Serrar il tab">
 <!ENTITY  closeTab.accesskey                 "r">
-
 <!ENTITY  hiddenTabs.label                   "Tabs zuppentads">
 
 <!ENTITY  listAllTabs.label      "Far ina glista da tut ils tabs">
@@ -223,7 +222,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Definir sche ti vuls retschaiver notificaziuns da la pagina">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Memorisar datas en la memoria durabla">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Il navigatur vegn controllà a distanza">
-
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Avrir la panela d'autentificaziun web">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Administrar la cundivisiun da la camera/dal microfon cun la pagina">
@@ -264,7 +262,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.other.label    "Auters segnapaginas">
 <!ENTITY bookmarksMenuButton.mobile.label   "Segnapaginas mobils">
 <!ENTITY viewBookmarksSidebar2.label        "Mussar la trav laterala da segnapaginas">
-<!ENTITY hideBookmarksSidebar.label         "Zuppentar la trav laterala dals segnapaginas">
+<!ENTITY hideBookmarksSidebar.label         "Zuppentar la trav laterala da segnapaginas">
 <!ENTITY viewBookmarksToolbar.label         "Mussar la trav d'utensils da segnapaginas">
 <!ENTITY hideBookmarksToolbar.label         "Zuppentar la trav d'utensils da segnapaginas">
 <!ENTITY searchBookmarks.label              "Tschertgar en ils segnapaginas">
@@ -807,6 +805,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Ti n'has betg definì autorisaziuns spezialas per questa pagina.">
 <!ENTITY identity.permissionsReloadHint "Forsa stos ti chargiar da nov questa pagina per applitgar las midadas.">
 
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Tabs dal navigatur">
@@ -922,6 +921,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "D">
 <!ENTITY trackingProtection.block2.label "Activar la protecziun">
 <!ENTITY trackingProtection.block2.accesskey "A">
+
 
 <!ENTITY pluginNotification.showAll.label "Mussar tuts">
 <!ENTITY pluginNotification.showAll.accesskey "S">
