@@ -1,0 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY restartRequired.title "Zahtevan je ponoven zagon">
+
+<!ENTITY restartRequired.description "
+<p>Pravkar smo v ozadju namestili posodobitev. Za dokončanje namestitve kliknite Ponovno zaženi &brandShortName;.</p>
+<p>Vse vaše strani, okna in zavihke bomo obnovili, tako da boste lahko hitro nadaljevali z delom.</p>
+">
+
+<!ENTITY restartButton.label "Ponovno zaženi &brandShortName;">
