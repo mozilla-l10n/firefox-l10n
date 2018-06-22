@@ -915,6 +915,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.detectedNotBlocked3 "Ko tenda oguereko mba'epuru ikatúva ohapykueho nekundaha. Nde reguereko neñemo'ã oguepyréva.">
 <!ENTITY trackingProtection.notDetected3 "Ndaipóri tapykueho mba'epuru ojejuhúva ko kuatiaroguépe.">
 <!ENTITY trackingProtection.detectedNotBlocked4 "Ojejuhu jehekaha ko ñanduti rendápe.">
+<!ENTITY trackingProtection.notDetected4 "Ndjejuhúi jehekaha ko ñanduti rendápe.">
+<!ENTITY trackingProtection.reloadRequired "Embojurujáma jeheka mo’ãha. Ejokopaite hag̃ua umi jehekakuéra, ikatúpa emyenyhẽjey ñenduti kuatiarogue ha’etéva.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
