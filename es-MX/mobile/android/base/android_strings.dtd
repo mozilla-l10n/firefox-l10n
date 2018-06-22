@@ -180,7 +180,7 @@
      either has not set up Sync, or has no other devices to send a tab
      to. -->
 <!ENTITY overlay_share_send_tab_btn_label "Enviar a otro dispositivo">
-<!ENTITY overlay_share_no_url "No se ha encontrado el enlace para esta compartición">
+<!ENTITY overlay_share_no_url "Ningún enlace encontrado en este recurso compartido">
 <!ENTITY overlay_share_select_device "Seleccionar dispositivo">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
@@ -519,7 +519,7 @@
      just "Pin Site" or "Unpin Site" would mean. -->
 <!ENTITY contextmenu_pin_to_top_sites "Fijar en Favoritos">
 <!ENTITY contextmenu_unpin_from_top_sites "Quitar de Favoritos">
-<!ENTITY contextmenu_add_search_engine "Agregar una motor de búsqueda">
+<!ENTITY contextmenu_add_search_engine "Agregar un motor de búsqueda">
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
      after the user pins/unpins the currently displayed page from top sites. -->
@@ -672,7 +672,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; ha bloqueado contenido inseguro en esta página.">
-<!ENTITY mixed_content_blocked_some1 "&brandShortName; ha bloqueado algunos contenido inseguro en esta página.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; ha bloqueado contenido de poca confianza en esta página.">
 <!ENTITY mixed_content_display_loaded1 "Partes de esta página no son seguras (tales como imágenes).">
 <!ENTITY mixed_content_protection_disabled1 "Has desactivado la protección contra contenido inseguro.">
 
