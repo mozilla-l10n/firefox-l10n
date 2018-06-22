@@ -31,7 +31,9 @@ sentence. -->
 <!ENTITY  completeNotification.label          "gant anv ar c'haser hag alberz ar gemennadenn">
 <!ENTITY  buddyInfoOnly.label                 "gant anv ar c'haser nemetken">
 <!ENTITY  dummyNotification.label             "hep titour ebet">
+<!ENTITY  getAttention.label                  "Lakit da vlinkañ an elfenn e barrenn an drevellioù">
 <!ENTITY  getAttention.accesskey              "F">
+<!ENTITY  getAttentionMac.label               "Bevaat arlun an dock">
 <!ENTITY  getAttentionMac.accesskey           "o">
 <!ENTITY  chatSound.accesskey                 "S">
 <!ENTITY  chatSound.label                     "Seniñ ur son">
@@ -59,3 +61,4 @@ sentence. -->
 <!ENTITY messageStyleShowHeader.label      "Diskouez talbenn">
 <!ENTITY messageStyleShowHeader.accesskey  "H">
 <!ENTITY messageStyleNoPreview.title       "Alberz ebet hegerz">
+<!ENTITY messageStyleNoPreview.description "N'eo ket mat an tem-mañ pe dihegerz emañ evit ar mare (mollad lazhet, mod sur, …).">
