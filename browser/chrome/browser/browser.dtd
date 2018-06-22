@@ -641,7 +641,7 @@
 <!ENTITY getUserMedia.audioCapture.label "L’audio della scheda verrà condiviso.">
 <!ENTITY getUserMedia.allWindowsShared.message "Tutte le finestre visibili sullo schermo verranno condivise.">
 <!ENTITY trackingProtection.on "Protezione antitracciamento: ATTIVA">
-<!ENTITY trackingProtection.off "Protezione antitracciamento: DISATTIVA">
+<!ENTITY trackingProtection.off "Protezione antitracciamento: DISATTIVATA">
 <!ENTITY trackingProtection.title "Protezione antitracciamento">
 <!ENTITY trackingProtection.tooltip "Apri impostazioni per la protezione antitracciamento">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; sta bloccando elementi della pagina in grado di tracciare la navigazione.">
