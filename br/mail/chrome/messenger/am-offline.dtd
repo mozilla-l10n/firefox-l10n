@@ -7,6 +7,7 @@
 <!ENTITY doNotDownloadImap.label "A-benn espern an egor kantenn, ar pellgargadur c'hemennadennoù diouzh an dafariad hag an eiladoù lec'hel evit an arver ezlinenn a c'hell bezañ strishaet dre oad pe ment.">
 <!ENTITY allFoldersOffline2.label "Mirout ar c'hemennadennoù e-barzh an holl deulioù evit ar gont-mañ war an urzhiataer-mañ">
 <!ENTITY allFoldersOffline2.accesskey "o">
+<!ENTITY allFoldersOfflineNote.label "Notennig: Cheñch an dra-se a verko holl deulioù evit ar gont-mañ. Evit termeniñ an teuliadoù hiniennel, implijit ar bouton Araokaet…">
 <!ENTITY offlineNotDownload.label "Kemennadennoù brasoc'h eget">
 <!ENTITY offlineNotDownload.accesskey "m">
 <!ENTITY autosyncNotDownload.label "Na bellgargañ kemennadennoù brasoc'h eget">
