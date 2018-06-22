@@ -65,7 +65,6 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.accesskey             "š">
 <!ENTITY  closeTab.label                     "Užverti kortelę">
 <!ENTITY  closeTab.accesskey                 "U">
-
 <!ENTITY  hiddenTabs.label                   "Paslėptos kortelės">
 
 <!ENTITY  listAllTabs.label      "Pateikti visas korteles">
@@ -215,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Atverti pranešimo skydelį">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Atverti buvimo vietos nustatymo skydelį">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Atverti automatinio grojimo polangį">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Atverti priedo diegimo pranešimo skydelį">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Valdyti drobės išgavimo leidimą">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Atverti duomenų darbui neprisijungus pranešimo skydelį">
@@ -223,7 +223,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Pasirinkite, ar norite gauti pranešimus iš šios svetainės">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Saugoti duomenis išliekančioje atmintyje">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Naršyklė valdoma per nuotolį">
-
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Atverti „Web Authentication“ polangį">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Tvarkyti kameros ir mikrofono naudojimą svetainėje">
@@ -243,6 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Šioje svetainėje esate užblokavę pranešimus.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Šioje svetainėje esate užblokavę išliekančių duomenų saugojimą.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Šioje svetainėje esate užblokavę iškylančiuosius langus.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Šioje svetainėje esate užblokavę automatinį medijos grojimą.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Šioje svetainėje esate užblokavę drobės duomenų išgavimą.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Šioje svetainėje esate užblokavę „Adobe Flash“ papildinio naudojimą.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Šioje svetainėje esate užblokavę MIDI naudojimą.">
@@ -807,6 +807,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Šiai svetainei nesate suteikę jokių ypatingų leidimų.">
 <!ENTITY identity.permissionsReloadHint "Kad būtų pritaikyti pakeitimai, tinklalapį galimai reikia atsiųsti iš naujo.">
 
+<!ENTITY identity.permissionsPreferences.tooltip "Atverti leidimų nuostatas">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Kortelių juosta">
@@ -905,16 +907,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Bus pasiekiamas kortelės garsas.">
 <!ENTITY getUserMedia.allWindowsShared.message "Bus leidžiama matyti visus jūsų ekrane matomus langus.">
 
+<!ENTITY trackingProtection.on "Apsauga nuo stebėjimo: TAIP">
+<!ENTITY trackingProtection.off "Apsauga nuo stebėjimo: NE">
 <!ENTITY trackingProtection.title "Apsauga nuo stebėjimo">
 <!ENTITY trackingProtection.tooltip "Atverti apsaugos nuo stebėjimo nuostatas">
 <!ENTITY trackingProtection.detectedBlocked3 "„&brandShortName;“ blokuoja jūsų naršymą galinčias stebėti šio tinklalapio dalis.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Šiame tinklalapyje yra jūsų naršymą galinčių stebėti elementų. Jūsų apsauga yra išjungta.">
 <!ENTITY trackingProtection.notDetected3 "Tinklalapyje nerasta stebėjimui naudojamų elementų.">
+<!ENTITY trackingProtection.detectedNotBlocked4 "Tinklalapyje aptikta stebėjimui naudojamų elementų.">
+<!ENTITY trackingProtection.notDetected4 "Tinklalapyje neaptikta stebėjimui naudojamų elementų.">
+<!ENTITY trackingProtection.reloadRequired "Esate įjungę apsaugą nuo stebėjimo. Norėdami užblokuoti visus stebėjimo elementus, įkelkite tinklalapį iš naujo.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Išjungti apsaugą šioje svetainėje">
 <!ENTITY trackingProtection.unblock.accesskey "I">
+<!ENTITY trackingProtection.unblock2.label "Pasitikėti šia svetaine">
+<!ENTITY trackingProtection.unblock2.accesskey "P">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -922,6 +931,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "I">
 <!ENTITY trackingProtection.block2.label "Įjungti apsaugą">
 <!ENTITY trackingProtection.block2.accesskey "Į">
+
+<!ENTITY trackingProtection.unblockPrivate2.label "Pasitikėti šia svetaine šiam seansui">
+<!ENTITY trackingProtection.unblockPrivate2.accesskey "P">
+<!ENTITY trackingProtection.block3.label "Įjungti apsaugą nuo stebėjimo">
+<!ENTITY trackingProtection.block3.accesskey "g">
+<!ENTITY trackingProtection.reload.label "Įkelti iš naujo">
+<!ENTITY trackingProtection.reload.accesskey "e">
 
 <!ENTITY pluginNotification.showAll.label "Rodyti visus">
 <!ENTITY pluginNotification.showAll.accesskey "v">
