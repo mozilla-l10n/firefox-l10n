@@ -924,8 +924,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Ñemo'ã myandy">
 <!ENTITY trackingProtection.block2.accesskey "E">
 
+<!ENTITY trackingProtection.unblockPrivate2.label "Ejerovia tendáre ko tembiapópe añoite">
 <!ENTITY trackingProtection.unblockPrivate2.accesskey "T">
+<!ENTITY trackingProtection.block3.label "Emyandy jeheka mo’ãha">
 <!ENTITY trackingProtection.block3.accesskey "T">
+<!ENTITY trackingProtection.reload.label "Emyanyhẽjey ko kuatiarogue">
 <!ENTITY trackingProtection.reload.accesskey "R">
 
 <!ENTITY pluginNotification.showAll.label "Techaukapa">
