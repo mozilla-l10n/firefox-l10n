@@ -156,9 +156,11 @@
 <!ENTITY goEndCap.tooltip "Przejdź do strony o podanym adresie" >
 <!ENTITY printButton.label "Drukuj" >
 <!ENTITY printButton.tooltip "Drukuj bieżącą stronę">
+
 <!ENTITY urlbar.viewSiteInfo.label "Wyświetl informacje o stronie">
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip "Wyświetl powiadomienie">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip "Wyświetl zapytanie o położenie">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip "Wyświetl zapytanie o automatyczne odtwarzanie">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip "Wyświetl zapytanie o instalację dodatków">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip "Zarządzaj uprawnieniami odczytu danych canvas">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip "Wyświetl zapytanie o przechowywanie danych offline">
@@ -183,7 +185,8 @@
 <!ENTITY urlbar.webNotificationsBlocked.tooltip "Powiadomienia z tej witryny zostały zablokowane">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Przechowywanie danych na komputerze przez witrynę zostało zablokowane">
 <!ENTITY urlbar.popupBlocked.tooltip "Wyskakujące okna na tej stronie są blokowane">
-<!ENTITY urlbar.canvasBlocked.tooltip "Odczytywanie danych canvas przez tę witrynę zostało zablokowane">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip "Automatyczne odtwarzanie treści z dźwiękiem przez witrynę zostało zablokowane">
+<!ENTITY urlbar.canvasBlocked.tooltip "Odczytywanie danych canvas przez witrynę zostało zablokowane">
 <!ENTITY urlbar.flashPluginBlocked.tooltip "Wtyczka Adobe Flash została zablokowana na tej stronie">
 <!ENTITY urlbar.midiBlocked.tooltip "Dostęp do urządzeń MIDI tej witrynie został zablokowany">
 <!ENTITY urlbar.openHistoryPopup.tooltip "Wyświetl historię">
