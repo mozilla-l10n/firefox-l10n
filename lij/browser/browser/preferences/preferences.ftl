@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -137,20 +129,11 @@ is-not-default = { -brand-short-name } o no l'é o navegatô predefinio
 set-as-my-default-browser =
     .label = Adeuvia comme predefinio…
     .accesskey = A
-startup-page = Quande { -brand-short-name } o s'arve
-    .accesskey = s
-startup-user-homepage =
-    .label = Fanni vedde a pagina iniçiâ
-startup-blank-page =
-    .label = Fanni vedde 'na pagina gianca
-startup-prev-session =
-    .label = Fanni vedde i barcoin e feuggi averti l'urtima vòtta
 startup-restore-previous-session =
     .label = Repiggia vegia sescion
     .accesskey = s
 disable-extension =
     .label = Dizabilita estençion
-home-page-header = Pagina Prinçipâ
 tabs-group-header = feuggi
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab mostra l'anteprimma di feuggi averti
@@ -270,7 +253,6 @@ play-drm-content =
 play-drm-content-learn-more = Atre informaçioin
 update-application-title = Agiornamenti de { -brand-short-name }
 update-application-description = Mantegni { -brand-short-name } agiornou pe avei de megio prestaçioin, stabilitæ e seguessa.
-update-application-info = Verscion { $version } <a>Novitæ</a>
 update-application-version = Verscion { $version } <a data-l10n-name="learn-more">Novitæ</a>
 update-history =
     .label = Fanni vedde a stöia di agiornamenti…
@@ -306,7 +288,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Limite de contegnuo do processo
     .accesskey = l
 performance-limit-content-process-enabled-desc = Deuviâ ciù contegnui do processo o peu megiorâ e prestaçioin quande ti deuvi tanti feuggi insemme, ma te faiâ stragiâ ciù memöia.
-performance-limit-content-process-disabled-desc = Cangiâ o numero de contegnui de processo o l'é poscibile solo in { -brand-short-name } moltiprocesso. <a>Amia comme controlâ se o moltiprocesso o l'é ativo</a>
 performance-limit-content-process-blocked-desc = Cangiâ o numero de contegnui de processo o l'é poscibile solo in { -brand-short-name } moltiprocesso. <a data-l10n-name="learn-more">Amia comme controlâ se o moltiprocesso o l'é ativo</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -356,7 +337,7 @@ home-restore-defaults =
 # "Firefox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Pagina prinçipâ de Firefox (Predefinia)
+    .label = Pagina prinçipâ (Predefinia)
 home-mode-choice-custom =
     .label = Indirissi cliénti...
 home-mode-choice-blank =
@@ -377,9 +358,6 @@ use-current-pages =
 choose-bookmark =
     .label = Adeuvia o segnalibbro…
     .accesskey = s
-restore-default =
-    .label = Metti torna predefinio
-    .accesskey = R
 
 ## Search Section
 
