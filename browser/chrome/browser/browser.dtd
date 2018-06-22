@@ -65,7 +65,6 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.accesskey             "K">
 <!ENTITY  closeTab.label                     "Sekmeyi kapat">
 <!ENTITY  closeTab.accesskey                 "e">
-
 <!ENTITY  hiddenTabs.label                   "Gizli sekmeler">
 
 <!ENTITY  listAllTabs.label      "Tüm sekmeleri listele">
@@ -215,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Mesaj panelini aç">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Konum isteği panelini aç">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Otomatik oynatma panelini aç">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Eklenti yükleme mesajı panelini aç">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Kanvas çıkarma iznini yönetme">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Çevrimdışı depolama mesajı panelini aç">
@@ -223,7 +223,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Sitenin bildirim gönderip gönderemeyeceğini ayarlayın">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Kalıcı depolamada veri depola">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Tarayıcı uzaktan kontrol ediliyor">
-
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Web kimlik doğrulaması panelini aç">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Siteyle kamera ve/veya mikrofonumu paylaşmayı yönet">
@@ -807,6 +806,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Bu siteye özel bir izin vermediniz.">
 <!ENTITY identity.permissionsReloadHint "Değişikliklerin uygulanması için bu sayfayı tazelemeniz gerekebilir.">
 
+<!ENTITY identity.permissionsPreferences.tooltip "İzin tercihlerini aç">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Tarayıcı sekmeleri">
@@ -905,6 +906,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Sekmedeki sesler paylaşılacaktır.">
 <!ENTITY getUserMedia.allWindowsShared.message "Ekranınızdaki tüm görünür pencereler paylaşılacaktır.">
 
+<!ENTITY trackingProtection.on "İzlenme Koruması: AÇIK">
+<!ENTITY trackingProtection.off "İzlenme Koruması: KAPALI">
 <!ENTITY trackingProtection.title "İzlenme Koruması">
 <!ENTITY trackingProtection.tooltip "İzlenme Koruması tercihlerini aç">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; bu sayfanın sizi izleme ihtimali olan kısımlarını engelliyor.">
@@ -915,6 +918,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Bu sitede korumayı devre dışı bırak">
 <!ENTITY trackingProtection.unblock.accesskey "d">
+<!ENTITY trackingProtection.unblock2.label "Bu siteye güven">
+<!ENTITY trackingProtection.unblock2.accesskey "B">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -922,6 +927,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "d">
 <!ENTITY trackingProtection.block2.label "Korumayı etkinleştir">
 <!ENTITY trackingProtection.block2.accesskey "e">
+
+<!ENTITY trackingProtection.unblockPrivate2.label "Bu oturumda bu siteye güven">
+<!ENTITY trackingProtection.unblockPrivate2.accesskey "o">
+<!ENTITY trackingProtection.reload.label "Sayfayı tazele">
+<!ENTITY trackingProtection.reload.accesskey "S">
 
 <!ENTITY pluginNotification.showAll.label "Tümünü göster">
 <!ENTITY pluginNotification.showAll.accesskey "T">
