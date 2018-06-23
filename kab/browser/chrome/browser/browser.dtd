@@ -65,7 +65,6 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.accesskey             "S">
 <!ENTITY  closeTab.label                     "Mdel iccer">
 <!ENTITY  closeTab.accesskey                 "M">
-
 <!ENTITY  hiddenTabs.label                   "Iccaren ifren">
 
 <!ENTITY  listAllTabs.label      "Bder akk accaren">
@@ -215,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Ldi agalis n yizen">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Ldi agalis n usuter n wadeg">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Ldi agalis n urar awurman">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Ldi agalis n yizen i usebded n uzegrir">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Sefrek tasiregt n usuffeɣ n tneɣruft">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Ldi agalis n yizen n usekles aruqqin">
@@ -223,7 +223,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Beddel ma yella tebɣiḍ ad d-tremseḍ ilɣa seg usmel">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Err-d isefka deg uselkim">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Iminig yettwaṭṭef s wudem anmeggag">
-
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Ldi afeggag n usentem Web">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Sefrek beṭṭu n tkamirat-ik d/neɣ asawaḍ-ik d usmel">
@@ -243,6 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Tesweḥleḍ ilɣa i usmelweb-a.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Tesweḥleḍ asekles n yisefka i usmelweb-a.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Tesweḥleḍ asfaylu udhim i usmel-agi.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Teswaḥleḍ urar awurman n teywalt s umeslaw i usmel-agi web.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Tesweḥleḍ tussfa n yisefka n ubeckil i usmelweb-a.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Tesweḥleḍ asmel-agi web seg useqdec n umenṭaḍ Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Tesweḥleḍ anekcum i MIDI γer usmel-agi.">
@@ -807,6 +807,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Ur tefkiḍ ara kra n tsiregt i usmel-a.">
 <!ENTITY identity.permissionsReloadHint "Ahat tesriḍ ad d-tessaliḍ tikelt-nniḍen asebter akken ad yemmed wayen i tbeddleḍ.">
 
+<!ENTITY identity.permissionsPreferences.tooltip "Ldi ismenyifen n tsirag">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Accaren n yiminig">
@@ -905,16 +907,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Ameslaw seg yiccer ad ittwabḍu.">
 <!ENTITY getUserMedia.allWindowsShared.message "Akk isfuyla ibanen deg ugdil-ik ad ttwabḍun.">
 
+<!ENTITY trackingProtection.on "Ammesten mgal asfuɣel: IRMED">
+<!ENTITY trackingProtection.off "Ammesten mgal asfuɣel: OFF">
 <!ENTITY trackingProtection.title "Ammesten mgal asfuɣel">
 <!ENTITY trackingProtection.tooltip "Ldi ismenyifen n ummesten mgal aḍfar">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; issewḥel kra n yiḥricen n usebter izemren ad sfuɣlen tunigin-ik.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Asmel-a igber iferdisen i izemren ad sfuɣlen tunigin-ik. Tekkseḍ ammesten.">
 <!ENTITY trackingProtection.notDetected3 "Ulac iferdisen iṭafaṛen i ittwafen ɣef usebter-a.">
+<!ENTITY trackingProtection.detectedNotBlocked4 "Ineḍfaṛen ttwafen deg usebter-agi web.">
+<!ENTITY trackingProtection.notDetected4 "Ulac ineḍfaṛen ittwafendeg usebter-a.">
+<!ENTITY trackingProtection.reloadRequired "Tremdeḍ ammesten n usfuɣel. Akken ad teswaḥleḍ akk ineḍfaṛen ttxil-k ales tulya n usebter web amiran.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Kkes armad n ummesten n usmel-a">
 <!ENTITY trackingProtection.unblock.accesskey "K">
+<!ENTITY trackingProtection.unblock2.label "Ger laman deg usmel-agi">
+<!ENTITY trackingProtection.unblock2.accesskey "T">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -922,6 +931,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "N">
 <!ENTITY trackingProtection.block2.label "Rmed ammesten">
 <!ENTITY trackingProtection.block2.accesskey "R">
+
+<!ENTITY trackingProtection.unblockPrivate2.label "Ger laman deg usmel-agi i yiwet n tɣimit kan">
+<!ENTITY trackingProtection.unblockPrivate2.accesskey "T">
+<!ENTITY trackingProtection.block3.label "Rmed ammesten mgal asfuɣel">
+<!ENTITY trackingProtection.block3.accesskey "T">
+<!ENTITY trackingProtection.reload.label "Ales tulya n usebter">
+<!ENTITY trackingProtection.reload.accesskey "R">
 
 <!ENTITY pluginNotification.showAll.label "Sken kullec">
 <!ENTITY pluginNotification.showAll.accesskey "S">
