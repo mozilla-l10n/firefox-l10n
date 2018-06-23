@@ -145,7 +145,7 @@
 </ul>
 ">
 
-<!ENTITY certerror.longpagetitle1 "Η σύνδεση σας δεν είναι ασφαλής">
+<!ENTITY certerror.longpagetitle1 "Η σύνδεσή σας δεν είναι ασφαλής">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -171,7 +171,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButtonLabel "Προσθήκη εξαίρεσης">
 
-<!ENTITY errorReporting.automatic2 "Αναφέρετε σφάλματα όπως αυτό για να βοηθήσετε το Mozilla στον εντοπισμό και αποκλεισμό κακόβουλων ιστοσελίδων">
+<!ENTITY errorReporting.automatic2 "Αναφέρετε σφάλματα όπως αυτό για να βοηθήσετε τη Mozilla στον εντοπισμό και αποκλεισμό κακόβουλων ιστοσελίδων">
 <!ENTITY errorReporting.learnMore "Μάθετε περισσότερα…">
 
 <!ENTITY remoteXUL.title "Απομακρυσμένο XUL">
@@ -195,7 +195,7 @@ HTTP Strict Transport Security (HSTS) που καθορίζει ότι το &bra
 για αυτό το πιστοποιητικό.">
 <!ENTITY certerror.copyToClipboard.label "Αντιγραφή κειμένου στο πρόχειρο">
 
-<!ENTITY inadequateSecurityError.title "Η σύνδεση σας δεν είναι ασφαλής">
+<!ENTITY inadequateSecurityError.title "Η σύνδεσή σας δεν είναι ασφαλής">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "Το <p><span class='hostname'></span> χρησιμοποιεί παρωχημένη και ευάλωτη σε επίθεση τεχνολογία ασφάλειας. Ένας εισβολέας θα μπορούσε εύκολα να αποκαλύψει πληροφορίες που θεωρείτε ασφαλείς. Ο διαχειριστής του ιστότοπου θα πρέπει να τον διορθώσει προτού μπορέσετε να τον επισκεφθείτε.</p><p>Κωδικός σφάλματος: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
