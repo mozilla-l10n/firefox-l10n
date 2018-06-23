@@ -8,89 +8,89 @@
 <!ENTITY syncBrand.shortName.label "Sync">
 
 <!-- Main titles. -->
-<!ENTITY sync.title.connect.label 'Connect to &syncBrand.shortName.label;'>
+<!ENTITY sync.title.connect.label 'Kopla til &syncBrand.shortName.label;'>
 
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label 'To activate your new device, select “Set up &syncBrand.shortName.label;” on the device.'>
-<!ENTITY sync.subtitle.pair.label 'To activate, select “Pair a device” on your other device.'>
+<!ENTITY sync.subtitle.connect.label 'For å aktivera den nye eininga, vel «Set opp &syncBrand.shortName.label;» på eininga.'>
+<!ENTITY sync.subtitle.pair.label 'For å aktivera, vel «Par eininga» på den andre eininga.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
-<!ENTITY sync.link.nodevice.label 'I don\&apos;t have the device with me…'>
+<!ENTITY sync.link.nodevice.label 'Eg har ikkje eininga med meg…'>
 
 <!-- Configure Engines -->
-<!ENTITY sync.configure.engines.title.passwords2 'Logins'>
-<!ENTITY sync.configure.engines.title.history 'History'>
-<!ENTITY sync.configure.engines.title.tabs 'Tabs'>
+<!ENTITY sync.configure.engines.title.passwords2 'Innloggingar'>
+<!ENTITY sync.configure.engines.title.history 'Historikk'>
+<!ENTITY sync.configure.engines.title.tabs 'Faner'>
 
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
      by the model name of the Android device. Examples look like "Aurora on
      GT-I1950" and "Fennec on MI 2S". -->
-<!ENTITY sync.default.client.name '&formatS1; on &formatS2;'>
+<!ENTITY sync.default.client.name '&formatS1; på &formatS2;'>
 
 <!-- Bookmark folder strings -->
-<!ENTITY bookmarks.folder.menu.label 'Bookmarks Menu'>
+<!ENTITY bookmarks.folder.menu.label 'Bokmerkemeny'>
 <!ENTITY bookmarks.folder.places.label ''>
-<!ENTITY bookmarks.folder.tags.label 'Tags'>
-<!ENTITY bookmarks.folder.toolbar.label 'Bookmarks Toolbar'>
+<!ENTITY bookmarks.folder.tags.label 'Etikettar'>
+<!ENTITY bookmarks.folder.toolbar.label 'Bokmerkelinje'>
 <!ENTITY bookmarks.folder.other.label 'Andre bokmerke'>
-<!ENTITY bookmarks.folder.desktop.label 'Desktop Bookmarks'>
-<!ENTITY bookmarks.folder.mobile.label 'Mobile Bookmarks'>
+<!ENTITY bookmarks.folder.desktop.label 'Skrivebordsbokmerke'>
+<!ENTITY bookmarks.folder.mobile.label 'Mobile bokmerke'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
-<!ENTITY bookmarks.folder.pinned.label 'Pinned'>
+<!ENTITY bookmarks.folder.pinned.label 'Festa'>
 
 <!-- Firefox Account strings. -->
 
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
-<!ENTITY fxaccount_back_to_browsing 'Back to browsing'>
+<!ENTITY fxaccount_back_to_browsing 'Tilbake til nettlesing'>
 
-<!ENTITY fxaccount_getting_started_welcome_to_sync 'Welcome to &syncBrand.shortName.label;'>
-<!ENTITY fxaccount_getting_started_description2 'Sign in to sync your tabs, bookmarks, logins &amp; more.'>
-<!ENTITY fxaccount_getting_started_get_started 'Get started'>
-<!ENTITY fxaccount_getting_started_old_firefox 'Using an older version of &syncBrand.shortName.label;?'>
+<!ENTITY fxaccount_getting_started_welcome_to_sync 'Velkomen til &syncBrand.shortName.label;'>
+<!ENTITY fxaccount_getting_started_description2 'Logg inn for å synkronisera faner, bokmerke, innlogginger m.m.'>
+<!ENTITY fxaccount_getting_started_get_started 'Kom i gang'>
+<!ENTITY fxaccount_getting_started_old_firefox 'Brukar du ein eldre versjon av &syncBrand.shortName.label;?'>
 
-<!ENTITY fxaccount_status_auth_server 'Account server'>
-<!ENTITY fxaccount_status_sync_now 'Sync now'>
-<!ENTITY fxaccount_status_syncing2 'Syncing…'>
-<!ENTITY fxaccount_status_device_name 'Device name'>
-<!ENTITY fxaccount_status_sync_server 'Sync server'>
-<!ENTITY fxaccount_status_needs_verification2 'Your account needs to be verified. Tap to resend verification email.'>
-<!ENTITY fxaccount_status_needs_credentials 'Cannot connect. Tap to sign in.'>
-<!ENTITY fxaccount_status_needs_upgrade 'You need to upgrade &brandShortName; to sign in.'>
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; is set up, but not syncing automatically. Toggle “Auto-sync data” in Android Settings &gt; Data Usage.'>
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; is set up, but not syncing automatically. Toggle “Auto-sync data” in the menu of Android Settings &gt; Accounts.'>
-<!ENTITY fxaccount_status_needs_finish_migrating 'Tap to sign in to your new Firefox Account.'>
+<!ENTITY fxaccount_status_auth_server 'Kontoserver'>
+<!ENTITY fxaccount_status_sync_now 'Synk no'>
+<!ENTITY fxaccount_status_syncing2 'Synkroniserer…'>
+<!ENTITY fxaccount_status_device_name 'Einingsnamn'>
+<!ENTITY fxaccount_status_sync_server 'Sync-server'>
+<!ENTITY fxaccount_status_needs_verification2 'Kontoen din må stadfestast. Trykk for å sende stadfestinga på e-post igjen.'>
+<!ENTITY fxaccount_status_needs_credentials 'Klarte ikkje kople til. Trykk for å logge inn.'>
+<!ENTITY fxaccount_status_needs_upgrade 'Du må oppgradere &brandShortName; for å logga inn.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; er sett opp, men synkroniserer ikkje automatisk. Slå av/på “Auto-synkroniser data” i Android-innstillingar &gt; Databruk.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; er konfigurert, men synkroniserer ikkje automatisk. Vel «Auto-synk data» i menyen Android-innstillingar &gt; Kontoar.'>
+<!ENTITY fxaccount_status_needs_finish_migrating 'Trykk for å logge inn med den nye Firefox-kontoen din.'>
 <!ENTITY fxaccount_status_choose_what 'Vel kva som skal synkroniserast'>
-<!ENTITY fxaccount_status_bookmarks 'Bookmarks'>
-<!ENTITY fxaccount_status_history 'History'>
-<!ENTITY fxaccount_status_passwords2 'Logins'>
-<!ENTITY fxaccount_status_tabs 'Open tabs'>
+<!ENTITY fxaccount_status_bookmarks 'Bokmerke'>
+<!ENTITY fxaccount_status_history 'Historikk'>
+<!ENTITY fxaccount_status_passwords2 'Innloggingar'>
+<!ENTITY fxaccount_status_tabs 'Opne faner'>
 <!ENTITY fxaccount_status_additional_settings 'Fleire innstillingar'>
 <!ENTITY fxaccount_pref_sync_use_metered2 'Synkroniser berre med Wi-Fi'>
 <!-- Localization note: Only affects background syncing, user initiated
      syncs will still be done regardless of the connection -->
-<!ENTITY fxaccount_pref_sync_use_metered_summary2 'Hindre &brandShortName; frå å synkronisere over eit mobilnett eller eit forbruksmålt nettverk'>
-<!ENTITY fxaccount_status_legal 'Legal' >
+<!ENTITY fxaccount_pref_sync_use_metered_summary2 'Hindre &brandShortName; frå å synkronisera over eit mobilnett eller eit forbruksmålt nettverk'>
+<!ENTITY fxaccount_status_legal 'Juridisk' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos2 'Tenestevilkår'>
 <!ENTITY fxaccount_status_linkprivacy2 'Peronvernerklæring'>
-<!ENTITY fxaccount_remove_account 'Disconnect&ellipsis;'>
+<!ENTITY fxaccount_remove_account 'Kople frå &ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title2 'Kople frå Sync?'>
-<!ENTITY fxaccount_remove_account_dialog_message2 'Dine nettleserdata vil framleis vere på denne eininga, men vil ikkje lenger synkronisere med kontoen din.'>
+<!ENTITY fxaccount_remove_account_dialog_message2 'Nettlesardataa dine vil framleis vere på denne eininga, men vil ikkje lenger synkronisera med kontoen din.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast2 'Firefox-konto &formatS; kopla frå.'>
+<!ENTITY fxaccount_remove_account_toast2 'Firefox-konto &formatS; fråkopla.'>
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
 <!ENTITY fxaccount_remove_account_dialog_action_confirm 'Kople frå'>
 
-<!ENTITY fxaccount_enable_debug_mode 'Enable Debug Mode'>
+<!ENTITY fxaccount_enable_debug_mode 'Slå på debugmodus'>
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
@@ -101,15 +101,15 @@
      Account} Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
      Account. -->
-<!ENTITY fxaccount_options_title '&syncBrand.shortName.label; Options'>
-<!ENTITY fxaccount_options_configure_title 'Configure &syncBrand.shortName.label;'>
+<!ENTITY fxaccount_options_title '&syncBrand.shortName.label;-innstillingar'>
+<!ENTITY fxaccount_options_configure_title 'Konfigurer &syncBrand.shortName.label;'>
 
-<!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; is not connected'>
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; er ikkje tilkopla'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Tap to sign in as &formatS;'>
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Trykk for å logga inn som &formatS;'>
 
-<!ENTITY fxaccount_sync_finish_migrating_notification_title 'Finish upgrading &syncBrand.shortName.label;?'>
+<!ENTITY fxaccount_sync_finish_migrating_notification_title 'Fullfør oppgraderinga av &syncBrand.shortName.label;?'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_finish_migrating_notification_text 'Tap to sign in as &formatS;'>
+<!ENTITY fxaccount_sync_finish_migrating_notification_text 'Trykk for å logga inn som &formatS;'>
