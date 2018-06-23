@@ -916,11 +916,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.notDetected3 "No se detectaron elementos de rastreo en esta página.">
 <!ENTITY trackingProtection.detectedNotBlocked4 "Se detectaron rastreadores en esta página.">
 <!ENTITY trackingProtection.notDetected4 "No se detectaron rastreadores en esta página.">
+<!ENTITY trackingProtection.reloadRequired "Activó la protección de rastreo. Para bloquear todos los rastreadores, por favor recargue la página actual.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Deshabilitar protección para este sitio">
 <!ENTITY trackingProtection.unblock.accesskey "D">
+<!ENTITY trackingProtection.unblock2.label "Confiar en este sitio">
+<!ENTITY trackingProtection.unblock2.accesskey "T">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -929,6 +932,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Habilitar protección">
 <!ENTITY trackingProtection.block2.accesskey "E">
 
+<!ENTITY trackingProtection.unblockPrivate2.label "Confiar en este sitio por esta sesión">
 
 <!ENTITY pluginNotification.showAll.label "Mostrar todo">
 <!ENTITY pluginNotification.showAll.accesskey "s">
