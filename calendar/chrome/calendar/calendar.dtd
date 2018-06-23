@@ -154,9 +154,9 @@
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
 
 <!-- Context Menu -->
-<!ENTITY calendar.context.modifyorviewitem.label      "Opne">
+<!ENTITY calendar.context.modifyorviewitem.label      "Opna">
 <!ENTITY calendar.context.modifyorviewitem.accesskey  "O">
-<!ENTITY calendar.context.modifyorviewtask.label      "Opne oppgåve…">
+<!ENTITY calendar.context.modifyorviewtask.label      "Opna oppgåve…">
 <!ENTITY calendar.context.modifyorviewtask.accesskey  "o">
 <!ENTITY calendar.context.newevent.label              "Ny hending…">
 <!ENTITY calendar.context.newevent.accesskey          "N">
