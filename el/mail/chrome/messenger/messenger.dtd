@@ -288,7 +288,7 @@
 <!ENTITY searchMailCmd.label "Αναζήτηση μηνυμάτων...">
 <!ENTITY searchMailCmd.accesskey "μ">
 <!ENTITY searchMailCmd.key "ζ">
-<!ENTITY searchAddressesCmd.label "Αναζήτηση διευθύνσεων">
+<!ENTITY searchAddressesCmd.label "Αναζήτηση διευθύνσεων…">
 <!ENTITY searchAddressesCmd.accesskey "ζ">
 
 <!-- Go Menu -->

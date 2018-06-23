@@ -64,7 +64,7 @@
 <!ENTITY undoCmd.label "Αναίρεση">
 <!ENTITY undoCmd.key "Α">
 <!ENTITY undoCmd.accesskey "ν">
-<!ENTITY redoCmd.label "Αναίρεση">
+<!ENTITY redoCmd.label "Επανάληψη">
 <!ENTITY redoCmd.key "Ε">
 <!ENTITY redoCmd.accesskey "ρ">
 <!ENTITY cutCmd.label "Αποκοπή">
@@ -247,7 +247,6 @@
 <!ENTITY sendlaterButton.tooltip "Αποστολή του μηνύματος αργότερα">
 <!ENTITY quoteButton.tooltip "Παράθεση προηγούμενου μηνύματος">
 <!ENTITY addressButton.tooltip "Επιλογή παραλήπτη από το Ευρετήριο Διευθύνσεων">
-<!ENTITY attachButton.tooltip "Εισαγωγή ενός συνημμένου">
 <!ENTITY attachButton.tooltip2 "Προσθήκη ενός συνημμένου">
 <!ENTITY spellingButton.tooltip "Ορθογραφικός έλεγχος επιλογής ή ολόκληρου του μηνύματος">
 <!ENTITY saveButton.tooltip "Αποθήκευση μηνύματος">
@@ -275,7 +274,6 @@
      and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
      work, as the shortcut key functionality supersedes the access key. -->
 <!ENTITY attachments.accesskey "ν">
-
 <!ENTITY attachmentBucketHeader.tooltip "Πίνακας Συνημμένων">
 <!ENTITY attachmentBucketCloseButton.tooltip "Απόκρυψη του πίνακα συνημμένων">
 
