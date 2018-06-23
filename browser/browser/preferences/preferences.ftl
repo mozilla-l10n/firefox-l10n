@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -137,20 +129,11 @@ is-not-default = { -brand-short-name } તમારું ડિફૉલ્ટ 
 set-as-my-default-browser =
     .label = ડિફૉલ્ટ બનાવો…
     .accesskey = D
-startup-page = જ્યારે { -brand-short-name } શરૂ થાય છે
-    .accesskey = s
-startup-user-homepage =
-    .label = તમારું મુખ્ય પાનું બતાવો
-startup-blank-page =
-    .label = કોરુ પાનું બતાવો
-startup-prev-session =
-    .label = છેલ્લા સમયની તમારી વિંડોઝ અને ટેબ્સ બતાવો
 startup-restore-previous-session =
     .label = પહેલાનાં સત્રને પુન:સંગ્રહો
     .accesskey = s
 disable-extension =
     .label = એક્સ્ટેંશન અક્ષમ કરો
-home-page-header = મુખ્ય પૃષ્ઠ
 tabs-group-header = ટૅબ્સ
 ctrl-tab-recently-used-order =
     .label = તાજેતરમાં ઉપયોગમાં લેવાયેલી ક્રમમાં ટેબ દ્વારા Ctrl+Tab ચક્ર
@@ -270,7 +253,6 @@ play-drm-content =
 play-drm-content-learn-more = વધુ શીખો
 update-application-title = { -brand-short-name } સુધારો
 update-application-description = શ્રેષ્ઠ પ્રદર્શન, સ્થિરતા અને સુરક્ષા માટે { -brand-short-name } અધતન રાખો.
-update-application-info = આવૃત્તિ { $version } <a>નવું શું છે</a>
 update-application-version = આવૃત્તિ { $version } <a data-l10n-name="learn-more">નવું શું છે</a>
 update-history =
     .label = અપડેટ ઇતિહાસ બતાવો…
@@ -306,7 +288,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = સામગ્રી પ્રક્રિયા મર્યાદા
     .accesskey = L
 performance-limit-content-process-enabled-desc = બહુવિધ ટૅબ્સનો ઉપયોગ કરતી વખતે વધારાની સામગ્રી પ્રક્રિયાઓ પ્રભાવ સુધારી શકે છે, પરંતુ તે વધુ મેમરીનો પણ ઉપયોગ કરશે.
-performance-limit-content-process-disabled-desc = મલ્ટિપ્રોસેસ સાથે સામગ્રી પ્રોસેસની સંખ્યામાં ફેરફાર કરવો શક્ય છે { -brand-short-name }. <a>મલ્ટિપ્રોસેસ સક્રિય કરે છે કે નહીં તે કેવી રીતે તપાસવું તે જાણો</a>
 performance-limit-content-process-blocked-desc = મલ્ટિપ્રોસેસ સાથે સામગ્રી પ્રોસેસની સંખ્યામાં ફેરફાર કરવો શક્ય છે { -brand-short-name }. <a data-l10n-name="learn-more">મલ્ટિપ્રોસેસ સક્રિય કરે છે કે નહીં તે કેવી રીતે તપાસવું તે જાણો</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -377,9 +358,6 @@ use-current-pages =
 choose-bookmark =
     .label = બુકમાર્ક વાપરો…
     .accesskey = B
-restore-default =
-    .label = મૂળભૂતમાં પુનઃસંગ્રહો
-    .accesskey = R
 
 ## Search Section
 
@@ -697,6 +675,9 @@ permissions-notification-link = વધુ શીખો
 permissions-notification-pause =
     .label = { -brand-short-name } પુનઃપ્રારંભે ત્યા સુધી સૂચનાઓ થોભાવો
     .accesskey = n
+permissions-block-autoplay-media-exceptions =
+    .label = અપવાદો…
+    .accesskey = E
 permissions-block-popups =
     .label = પોપ-અપ વિન્ડો અટકાવો
     .accesskey = B
