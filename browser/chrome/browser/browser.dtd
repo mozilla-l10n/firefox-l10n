@@ -65,7 +65,6 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.accesskey             "u">
 <!ENTITY  closeTab.label                     "Tampar l'onglet">
 <!ENTITY  closeTab.accesskey                 "T">
-
 <!ENTITY  hiddenTabs.label                   "Onglets amagats">
 
 <!ENTITY  listAllTabs.label      "Far la lista de totes los onglets">
@@ -223,7 +222,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Gerir las notificacions per aqueste site">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Gardar las donadas dins un emmagazinatge permanent">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Lo navegador es contrarotlat a distància">
-
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Dobrir lo panèl d’identificacion">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Actualament, partejatz vòstra camèra o vòstre microfòn amb aqueste site">
@@ -398,7 +396,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Dobrir las preferéncias de sincronizacion">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Connectatz-vos per veire una lista d'onglets dels vòstres autres periferics.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Cal verificar vòstre compte.">
-<!ENTITY appMenuRemoteTabs.signin.label "Començar la session de Sync">
+<!ENTITY appMenuRemoteTabs.signin.label "Se connectar a Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Gerir los periferics…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Veire los onglets sincronizats dins la barra laterala">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Connectar un autre periferic">
@@ -799,13 +797,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.removeCertException.label "Suprimir l'excepcion">
 <!ENTITY identity.removeCertException.accesskey "L">
 
-<!ENTITY identity.moreInfoLinkText2 "que lo detentor n'es">
+<!ENTITY identity.moreInfoLinkText2 "Mai d’informacions">
 
 <!ENTITY identity.clearSiteData "Escafar los cookies e las donadas de site…">
 
 <!ENTITY identity.permissions "Permissions">
 <!ENTITY identity.permissionsEmpty "Avètz donat pas cap de permission espaciala a aquel site.">
 <!ENTITY identity.permissionsReloadHint "Benlèu deuriatz actualizar la pagina per que s'apliquen los cambiaments.">
+
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -850,7 +849,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.managedevices.accesskey          "D">
 
 
-<!ENTITY syncBrand.shortName.label    "Onglets d'autres aparelhs">
+<!ENTITY syncBrand.shortName.label    "Sync">
 
 <!ENTITY syncSignIn.label             "Se connectar a &syncBrand.shortName.label;">
 <!ENTITY syncSignIn.accesskey         "Y">
@@ -922,6 +921,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "D">
 <!ENTITY trackingProtection.block2.label "Activar la proteccion">
 <!ENTITY trackingProtection.block2.accesskey "v">
+
 
 <!ENTITY pluginNotification.showAll.label "Afichar tot">
 <!ENTITY pluginNotification.showAll.accesskey "f">
