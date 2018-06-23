@@ -783,7 +783,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
-<!ENTITY intent_uri_private_browsing_multiple_match_title "Avslutte Privat nettlesing?">
+<!ENTITY intent_uri_private_browsing_multiple_match_title "Avslutta Privat nettlesing?">
 
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
@@ -799,7 +799,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_addons_installation "Tillegg">
 <!ENTITY restrictable_feature_addons_installation_description "Legg til funksjonar og funksjonalitet i Firefox. Merk: Utvidingar kan slå av diverse avgrensingar">
 <!ENTITY restrictable_feature_private_browsing "Privat nettlesing">
-<!ENTITY restrictable_feature_private_browsing_description "Tillèt familiemedlemmar å surfe utan å lagre informasjon om nettstadar eller sider dei besøker.">
+<!ENTITY restrictable_feature_private_browsing_description "Tillèt familiemedlemmar å surfa utan å lagra informasjon om nettstadar eller sider dei besøker.">
 <!ENTITY restrictable_feature_clear_history "Tøm historikk">
 <!ENTITY restrictable_feature_clear_history_description "Tillèt familiemedlemmar å sletta informasjon om sider og nettstadar dei har besøkt.">
 <!ENTITY restrictable_feature_advanced_settings "Avanserte innstillingar">
@@ -827,7 +827,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY unsupported_sdk_version "Beklagar! Denne &brandShortName; vil ikkje fungera på denne eininga (&formatS1;, &formatS2;). Last ned den rette versjonen.">
 
 <!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
-<!ENTITY corrupt_apk "Klarte ikkje å opne &brandShortName;. Installer på nytt og prøv igjen.">
+<!ENTITY corrupt_apk "Klarte ikkje å opna &brandShortName;. Installer på nytt og prøv igjen.">
 
 <!ENTITY eol_notification_title2 "&brandShortName; vil ikkje lenger oppdaterast">
 <!ENTITY eol_notification_summary "Trykk for å lesa meir">
@@ -873,11 +873,11 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_delete_history "Slett frå historikk">
 
 <!ENTITY private_tab_panel_title "Privat nettlesing + sporingsvern">
-<!ENTITY private_tab_panel_description "&brandShortName; blokkerer delar av sidene som kan spore nettlesaraktiviteten din.">
+<!ENTITY private_tab_panel_description "&brandShortName; blokkerer delar av sidene som kan spora nettlesaraktiviteten din.">
 <!ENTITY private_tab_panel_description2 "Vi vil ikkje hugse noko historikk, men nedlasta filer og nye bokmerke vert lagra på eininga di.">
-<!ENTITY private_tab_learn_more "Vil du finne ut meir?">
+<!ENTITY private_tab_learn_more "Vil du finna ut meir?">
 
-<!ENTITY fullscreen_warning "Opne fullskjerm">
+<!ENTITY fullscreen_warning "Opna fullskjerm">
 
 <!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
 <!ENTITY pwa_add_to_launcher_confirm "+ Legg til på startskjermen">
@@ -887,4 +887,4 @@ displayed when there are more than 3 actions available for a page.
 See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "Legg til på startskjermen">
 <!ENTITY pwa_continue_to_website "Fortset til nettstaden">
-<!ENTITY pwa_onboarding_sumo "Du kan enkelt leggje til dennee nettstaden på startskjermen for å få omgåande tilgang og surfe raskare med ei app-liknande oppleving.">
+<!ENTITY pwa_onboarding_sumo "Du kan enkelt leggja til denne nettstaden på startskjermen for å få omgåande tilgang og surfa raskare med ei app-liknande oppleving.">
