@@ -20,15 +20,13 @@
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 <!ENTITY warningDesc.version        "&brandShortName; es experimental e pòt èsser instable.">
-<!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "Manda automaticament d'informacions sus las performàncias, lo material, l'utilizacion e las personalizacions a &vendorShortName; per ajudar a melhorar &brandShortName;.">
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       " es una ">
-<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!-- LOCALIZATION NOTE (community.exp.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "comunautat mondiala">
 <!ENTITY community.exp.end          " de contributors que trabalhan amassa per gardar Internet dobèrt, public e accessible a totes.">
 
@@ -74,7 +72,7 @@
      one line with linkText being wrapped in an anchor that links to a site to download
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.failed.start        "La mesa a jorn a fracassat.">
+<!ENTITY update.failed.start        "La mesa a jorn a fracassat. ">
 <!ENTITY update.failed.linkText     "Telecargar la darrièra version">
 <!ENTITY update.failed.end          "">
 
@@ -92,7 +90,7 @@
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
 <!ENTITY update.unsupported.start    "La darrièra version es pas disponibla per vòstre sistèma. ">
-<!ENTITY update.unsupported.linkText "Ne saber mai…">
+<!ENTITY update.unsupported.linkText "Ne saber mai">
 <!ENTITY update.unsupported.end      "">
 
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and
