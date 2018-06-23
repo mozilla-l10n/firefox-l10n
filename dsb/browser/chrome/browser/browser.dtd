@@ -65,7 +65,6 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.accesskey             "c">
 <!ENTITY  closeTab.label                     "Rejtark zacyniś">
 <!ENTITY  closeTab.accesskey                 "z">
-
 <!ENTITY  hiddenTabs.label                   "Schowane rejtarki">
 
 <!ENTITY  listAllTabs.label      "Wšykne rejtarki nalicyś">
@@ -215,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Wobcerk powěsćow wócyniś">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Wobcerk stojnišćowego napšašowanja wócyniś">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Wobcerk za awtomatiske wótgraśe wócyniś">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Wobcerk powěźeńki dodankoweje instalacije wócyniś">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Pšawo za ekstrahěrowanje canvas zastojaś">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Wobcerk powěźeńki składowanja offline wócyniś">
@@ -223,7 +223,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Změńśo, lěc móžośo powěźeńki wót sedła dostaś">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Daty w trajnem składowaku składowaś">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Wobglědowak se zdaloka wóźi">
-
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Wobcerk webawtentifikacije wócyniś">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Źělenje wašeje kamery a/abo wašogo mikrofona ze sedłom zastojaś">
@@ -243,6 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Sćo powěźeńki za toś to websedło zablokěrował.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Sćo trajny składowak za toś to websedło blokěrował.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Sćo wuskokujuce wokna za toś to websedło blokěrował.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Sćo zablokěrował awtomatiske wótgraśe medijow ze zukom za toś to websedło.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Sćo blokěrował pśistup ku canvasowym datam za toś to websedło.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Sćo toś tomu websedłoju wužywanje tykaca Adobe Flash zawoborał.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Sćo blokěrował pśistup na MIDI za toś to websedło.">
@@ -807,6 +807,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Njejsćo toś tomu sedłoju wósebne pšawa pśizwólił.">
 <!ENTITY identity.permissionsReloadHint "Musyśo snaź bok znowego zacytaś, aby se změny wustatkowali.">
 
+<!ENTITY identity.permissionsPreferences.tooltip "Nastajenja pšawow wócyniś">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Rejtarki wobglědowaka">
@@ -905,16 +907,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Awdio z rejtarka buźo se źěliś.">
 <!ENTITY getUserMedia.allWindowsShared.message "Wšykne widobne wokna na wašej wobrazowce budu se źěliś.">
 
+<!ENTITY trackingProtection.on "Slědowański šćit: Zašaltowany">
+<!ENTITY trackingProtection.off "Slědowański šćit: Wušaltowany">
 <!ENTITY trackingProtection.title "Slědowański šćit">
 <!ENTITY trackingProtection.tooltip "Nastajenja slědowańskego šćita wócyniś">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokěrujo źěle boka, kótarež by mógli wašo pśeglědowanje slědowaś.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Toś to sedło wopśimujo elementy, kótarež by mógli wašo pśeglědowanje slědowaś. Sćo šćit znjemóžnił.">
 <!ENTITY trackingProtection.notDetected3 "Žedne slědowańske elementy na toś tom boku namakane.">
+<!ENTITY trackingProtection.detectedNotBlocked4 "Pśeslědowaki su se namakali na toś tom websedle.">
+<!ENTITY trackingProtection.notDetected4 "Žedne pśeslědowaki na toś tom boku namakane.">
+<!ENTITY trackingProtection.reloadRequired "Sćo zmóžnił slědowański šćit. Aby wšykne pśeslědowaki blokěrował, zacytajśo pšosym aktualny webbok znowego.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Šćit za toś to sydło znjemóžniś">
 <!ENTITY trackingProtection.unblock.accesskey "n">
+<!ENTITY trackingProtection.unblock2.label "Toś tomu sedłoju dowěriś">
+<!ENTITY trackingProtection.unblock2.accesskey "T">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -922,6 +931,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "n">
 <!ENTITY trackingProtection.block2.label "Šćit zmóžniś">
 <!ENTITY trackingProtection.block2.accesskey "z">
+
+<!ENTITY trackingProtection.unblockPrivate2.label "Toś tomu sedłoju za toś to pósejźenje dowěriś">
+<!ENTITY trackingProtection.unblockPrivate2.accesskey "T">
+<!ENTITY trackingProtection.block3.label "Slědowański šćit zašaltowaś">
+<!ENTITY trackingProtection.block3.accesskey "T">
+<!ENTITY trackingProtection.reload.label "Toś ten bok znowego zacytaś">
+<!ENTITY trackingProtection.reload.accesskey "z">
 
 <!ENTITY pluginNotification.showAll.label "Wšykno pokazaś">
 <!ENTITY pluginNotification.showAll.accesskey "W">
