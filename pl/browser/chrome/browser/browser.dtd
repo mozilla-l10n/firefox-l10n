@@ -234,6 +234,8 @@
 <!ENTITY fileMenu.accesskey "P" >
 <!ENTITY newUserContext.label "Nowa karta z kontekstem">
 <!ENTITY newUserContext.accesskey "k">
+<!ENTITY manageUserContext.label "Zarządzaj kontekstami">
+<!ENTITY manageUserContext.accesskey "Z">
 <!ENTITY newNavigatorCmd.label "Nowe okno" >
 <!ENTITY newNavigatorCmd.key "N" >
 <!ENTITY newNavigatorCmd.accesskey "N" >
