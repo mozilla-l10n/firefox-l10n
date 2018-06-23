@@ -34,4 +34,4 @@
 <!ENTITY fillUsernameMenu.label       "Συμπλήρωση ονόματος χρήστη">
 <!ENTITY fillUsernameMenu.accesskey   "ο">
 <!ENTITY noLoginSuggestions.label     "(δεν υπάρχουν προτεινόμενοι λογαριασμοί)">
-<!ENTITY viewSavedLogins.label        "Προβολή λογαριασμών">
+<!ENTITY viewSavedLogins.label        "Προβολή αποθηκευμένων συνδέσεων">

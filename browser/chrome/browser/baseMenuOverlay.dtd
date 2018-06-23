@@ -28,9 +28,6 @@
 <!ENTITY helpSafeMode.stop.label       "Επανεκκίνηση με ενεργά πρόσθετα">
 <!ENTITY helpSafeMode.stop.accesskey   "π">
 
-<!ENTITY healthReport2.label      "Αναφορά υγείας του &brandShorterName;">
-<!ENTITY healthReport2.accesskey  "γ">
-
 <!ENTITY helpTroubleshootingInfo.label      "Πληροφορίες αντιμετώπισης προβλημάτων">
 <!ENTITY helpTroubleshootingInfo.accesskey  "μ">
 

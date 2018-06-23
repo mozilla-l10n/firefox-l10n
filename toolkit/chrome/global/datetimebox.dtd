@@ -15,6 +15,7 @@
 <!ENTITY time.hour.label "Ώρες">
 <!ENTITY time.minute.label "Λεπτά">
 <!ENTITY time.second.label "Δευτερόλεπτα">
+<!ENTITY time.millisecond.label "Χιλιοστά δευτερολέπτου">
 <!ENTITY time.dayperiod.label "ΠΜ/ΜΜ">
 
 <!-- Placeholders for input type=date -->

@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
-<!ENTITY pluginActivationWarning                             "Αυτή η ιστοσελίδα χρησιμοποιεί ένα άρθρωμα που ενδέχεται να επιβραδύνει το &brandShortName;.">
 <!ENTITY tapToPlayPlugin                                     "Πατήστε εδώ για ενεργοποίηση του αρθρώματος.">
 <!ENTITY clickToActivatePlugin                               "Ενεργοποίηση αρθρώματος.">
 <!ENTITY checkForUpdates                                     "Έλεγχος για ενημερώσεις…">
@@ -29,5 +28,5 @@
 
 <!ENTITY plugin.file                                         "Αρχείο">
 <!ENTITY plugin.mimeTypes                                    "Τύποι MIME">
-<!ENTITY plugin.flashProtectedMode.label                     "Ενεργοποίηση ασφαλής λειτουργίας του Adobe Flash">
+<!ENTITY plugin.flashProtectedMode.label                     "Ενεργοποίηση ασφαλούς λειτουργίας του Adobe Flash">
 <!ENTITY plugin.enableBlocklists.label                       "Φραγή επικίνδυνου και παρεμβατικού περιεχομένου Flash">

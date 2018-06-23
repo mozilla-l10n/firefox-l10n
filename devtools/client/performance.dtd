@@ -15,11 +15,6 @@
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
 <!ENTITY performanceUI.bufferStatusTooltip "Το πρόγραμμα προφίλ αποθηκεύει δείγματα σε ένα κυκλικό ρυθμιστή και μόλις ο ρυθμιστής φτάσει στο όριο για μια εγγραφή, νεότερα δείγματα αρχίζουν να αντικαθιστούν τα πρώτα δείγματα της εγγραφής.">
 
-<!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
-  -  is displayed as a message for why the real time overview graph is disabled
-  -  when running on a non-multiprocess build. -->
-<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "Η εγγραφή δεδομένων σε πραγματικό χρόνο είναι απενεργοποιημένη σε μη πολλαπλών διεργασιών Firefox.">
-
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a build that can run multiprocess Firefox, but just is not enabled. -->
@@ -29,7 +24,7 @@
   -  is displayed when the profiler's circular buffer has started to overlap. -->
 <!ENTITY performanceUI.bufferStatusFull "Ο ρυθμιστής είναι πλήρης. Τα παλαιότερα δείγματα θα αντικαθίστανται πλέον.">
 
-<!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
+<!-- LOCALIZATION NOTE (performanceUI.unavailableNoticePB): This is the label shown
   -  in the details view while the profiler is unavailable, for example, while
   -  in Private Browsing mode. -->
 <!ENTITY performanceUI.unavailableNoticePB "Η εγγραφή ενός προφίλ δεν είναι διαθέσιμη αυτή τη στιγμή. Κλείστε όλα τα παράθυρα ιδιωτικής περιήγησης και δοκιμάστε ξανά.">

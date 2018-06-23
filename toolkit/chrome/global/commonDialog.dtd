@@ -8,6 +8,6 @@
 <!ENTITY editfield1.label "Κωδικός πρόσβασης:"> 
 <!ENTITY checkbox.label   "επιλογή">
 <!ENTITY copyCmd.label    "Αντιγραφή">
-<!ENTITY copyCmd.accesskey "γ">
+<!ENTITY copyCmd.accesskey "Α">
 <!ENTITY selectAllCmd.label "Επιλογή όλων">
 <!ENTITY selectAllCmd.accesskey "λ">
