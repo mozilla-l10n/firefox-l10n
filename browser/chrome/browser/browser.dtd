@@ -65,7 +65,6 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.accesskey             "a">
 <!ENTITY  closeTab.label                     "Zavrieť kartu">
 <!ENTITY  closeTab.accesskey                 "Z">
-
 <!ENTITY  hiddenTabs.label                   "Skryté karty">
 
 <!ENTITY  listAllTabs.label      "Zoznam všetkých kariet">
@@ -223,7 +222,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Zmení, či môžete zo stránky prijímať upozornenia">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Uloží údaje do trvalého úložiska">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Prehliadač je ovládaný na diaľku">
-
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Otvorí kartu webovej autentifikácie">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Spravovať zdieľanie webkamery a/alebo mikrofónu so stránkou">
@@ -807,6 +805,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Tejto stránke ste neurčili žiadne špeciálne povolenia.">
 <!ENTITY identity.permissionsReloadHint "Pre vykonanie zmien budete možno musieť stránku obnoviť.">
 
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Karty prehliadača">
@@ -905,16 +904,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Zvuk z karty bude zdieľaný.">
 <!ENTITY getUserMedia.allWindowsShared.message "Všetky okná viditeľné na vašej obrazovke budú zdieľané.">
 
+<!ENTITY trackingProtection.on "Ochrana pred sledovaním je zapnutá">
+<!ENTITY trackingProtection.off "Ochrana pred sledovaním je vypnutá">
 <!ENTITY trackingProtection.title "Ochrana pred sledovaním">
 <!ENTITY trackingProtection.tooltip "Otvorí nastavenia ochrany pred sledovaním">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokuje časti stránky, ktoré môžu sledovať vaše prehliadanie.">
-<!ENTITY trackingProtection.detectedNotBlocked3 "Na tejto stránke boli nájdené prvky sledovania. Ochrana pred sledovaním je však pre túto stránku vypnutá.">
-<!ENTITY trackingProtection.notDetected3 "Na tejto stránke neboli zistené žiadne prvky sledovania.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Na tejto stránke boli nájdené sledovacie prvky. Ochrana pred sledovaním je však pre túto stránku vypnutá.">
+<!ENTITY trackingProtection.notDetected3 "Na tejto stránke neboli zistené žiadne sledovacie prvky.">
+<!ENTITY trackingProtection.detectedNotBlocked4 "Na tejto stránke boli zistené sledovacie prvky.">
+<!ENTITY trackingProtection.notDetected4 "Na tejto stránke neboli zistené žiadne sledovacie prvky.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Vypnúť ochranu pre túto stránku">
 <!ENTITY trackingProtection.unblock.accesskey "V">
+<!ENTITY trackingProtection.unblock2.label "Dôverovať tejto stránke">
+<!ENTITY trackingProtection.unblock2.accesskey "t">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -922,6 +927,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "c">
 <!ENTITY trackingProtection.block2.label "Zapnúť ochranu">
 <!ENTITY trackingProtection.block2.accesskey "Z">
+
+<!ENTITY trackingProtection.reload.label "Obnoviť túto stránku">
+<!ENTITY trackingProtection.reload.accesskey "O">
 
 <!ENTITY pluginNotification.showAll.label "Zobraziť všetko">
 <!ENTITY pluginNotification.showAll.accesskey "Z">
