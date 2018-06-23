@@ -212,6 +212,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Avaa viestipaneeli">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Avaa paikannustietojen pyyntöpaneeli">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Avaa automaattisen toiston paneeli">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Avaa lisäosan asentamisen viestipaneeli">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Hallinnoi kanvaksen sisällön lukemisen oikeutta">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Avaa verkkoyhteydettömän tilan tietovaraston viestipaneeli">
@@ -902,16 +903,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Välilehden äänet jaetaan.">
 <!ENTITY getUserMedia.allWindowsShared.message "Kaikki näkyvissä olevat ikkunat jaetaan.">
 
+<!ENTITY trackingProtection.on "Seurannan suojaus: PÄÄLLÄ">
+<!ENTITY trackingProtection.off "Seurannan suojaus: POIS PÄÄLTÄ">
 <!ENTITY trackingProtection.title "Seurannan suojaus">
 <!ENTITY trackingProtection.tooltip "Avaa seurannan suojauksen asetukset">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; estää sivusta osia, jotka saattavat seurata selaamistasi.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Sivusto sisältää osia, jotka saattavat seurata sinua. Seurannan suojaus on pois päältä.">
 <!ENTITY trackingProtection.notDetected3 "Sivulta ei löytynyt seuraavia osia.">
+<!ENTITY trackingProtection.detectedNotBlocked4 "Tältä sivulta löydettiin seuraajia.">
+<!ENTITY trackingProtection.notDetected4 "Tältä sivulta ei löydetty seuraajia.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Poista suojaus tältä sivustolta">
 <!ENTITY trackingProtection.unblock.accesskey "s">
+<!ENTITY trackingProtection.unblock2.label "Luota tähän sivustoon">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -920,6 +926,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Ota suojaus käyttöön">
 <!ENTITY trackingProtection.block2.accesskey "O">
 
+<!ENTITY trackingProtection.reload.label "Lataa tämä sivu uudelleen">
 
 <!ENTITY pluginNotification.showAll.label "Näytä kaikki">
 <!ENTITY pluginNotification.showAll.accesskey "N">
