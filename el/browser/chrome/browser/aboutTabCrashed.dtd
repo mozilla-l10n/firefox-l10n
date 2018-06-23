@@ -4,7 +4,7 @@
 
 <!ENTITY tabCrashed.title "Αναφορά κατάρρευσης καρτελών">
 
-<!ENTITY tabCrashed.closeTab2  "Κλείσιμο Καρτέλας">
+<!ENTITY tabCrashed.closeTab2  "Κλείσιμο καρτέλας">
 <!ENTITY tabCrashed.restoreTab "Επαναφορά καρτέλας">
 <!ENTITY tabCrashed.restoreAll "Επαναφορά όλων των καρτελών που κατέρρευσαν">
 
@@ -22,7 +22,7 @@
 <!ENTITY tabCrashed.requestHelpMessage "Οι αναφορές κατάρρευσης μάς βοηθούν στη διάγνωση προβλημάτων και στη βελτίωση του &brandShortName;.">
 <!ENTITY tabCrashed.requestReport "Αναφορά καρτέλας">
 <!ENTITY tabCrashed.commentPlaceholder2 "Προαιρετικά σχόλια (τα σχόλια είναι ορατά σε όλους)">
-<!ENTITY tabCrashed.emailPlaceholder "Εισάγετε τη διεύθυνση email σας">
+<!ENTITY tabCrashed.emailPlaceholder "Εισάγετε τη διεύθυνση email σας εδώ">
 <!ENTITY tabCrashed.emailMe "Ειδοποίηση στο email μου όταν είναι διαθέσιμες περισσότερες πληροφορίες">
 <!ENTITY tabCrashed.reportSent "Η αναφορά κατάρρευσης έχει υποβληθεί ήδη· σάς ευχαριστούμε που συμβάλλετε στη βελτίωση του &brandShortName;!">
-<!ENTITY tabCrashed.requestAutoSubmit2 "Αναφορά εργασιών παρασκηνίου">
+<!ENTITY tabCrashed.requestAutoSubmit2 "Αναφορά καρτελών παρασκηνίου">
