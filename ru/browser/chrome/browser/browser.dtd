@@ -65,7 +65,6 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.accesskey             "с">
 <!ENTITY  closeTab.label                     "Закрыть вкладку">
 <!ENTITY  closeTab.accesskey                 "а">
-
 <!ENTITY  hiddenTabs.label                   "Скрытые вкладки">
 
 <!ENTITY  listAllTabs.label      "Список всех вкладок">
@@ -215,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Открыть панель сообщений">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Открыть панель запроса местоположения">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Открыть панель автовоспроизведения">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Открыть панель сообщения об установке дополнения">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Управление доступом к информации в canvas">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Открыть панель сообщения об автономном хранилище">
@@ -223,7 +223,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Изменение того, можете ли вы получать уведомления с сайта">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Хранить данные в постоянном хранилище">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Браузер находится под удалённым управлением">
-
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Открыть панель веб-авторизации">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Управление доступом сайта к вашей камере и/или микрофону">
@@ -242,7 +241,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Вы заблокировали доступ этого веб-сайта к информации о местоположении.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Вы заблокировали уведомления с этого веб-сайта.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Вы заблокировали доступ этого веб-сайта к постоянному хранилищу.">
-<!ENTITY urlbar.popupBlocked.tooltip             "Вы заблокировали всплывающие окна с этого сайта.">
+<!ENTITY urlbar.popupBlocked.tooltip             "Вы заблокировали всплывающие окна с этого веб-сайта.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Вы заблокировали автоматическое воспроизводение медиа со звуком с этого веб-сайта.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Вы заблокировали извлечение данных canvas с этого веб-сайта.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Вы запретили этому веб-сайту использовать плагин Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Вы заблокировали доступ этого веб-сайта к MIDI.">
@@ -807,6 +807,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Вы не давали этому сайту каких-либо специальных разрешений.">
 <!ENTITY identity.permissionsReloadHint "Чтобы изменения возымели действие, вам, возможно, потребуется перезагрузить страницу.">
 
+<!ENTITY identity.permissionsPreferences.tooltip "Открыть настройки разрешений">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Вкладки браузера">
@@ -905,16 +907,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Будет предоставлен доступ к аудио из вкладки.">
 <!ENTITY getUserMedia.allWindowsShared.message "Будет предоставлен доступ ко всем видимым окнам на вашем экране.">
 
+<!ENTITY trackingProtection.on "Защита от отслеживания: ВКЛЮЧЕНА">
+<!ENTITY trackingProtection.off "Защита от отслеживания: ОТКЛЮЧЕНА">
 <!ENTITY trackingProtection.title "Защита от отслеживания">
 <!ENTITY trackingProtection.tooltip "Открыть настройки Защиты от отслеживания">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; блокирует части страницы, которые могут отслеживать ваше поведение в Интернете.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Этот сайт содержит элементы, которые могут отслеживать ваше поведение в Интернете. Вы отключили защиту.">
 <!ENTITY trackingProtection.notDetected3 "На этой странице не обнаружено ни одного отслеживающего элемента.">
+<!ENTITY trackingProtection.detectedNotBlocked4 "На этой веб-странице были обнаружены трекеры.">
+<!ENTITY trackingProtection.notDetected4 "На этой странице не обнаружено ни одного трекера.">
+<!ENTITY trackingProtection.reloadRequired "Вы включили Защиту от отслеживания. Для блокировки всех трекеров перезагрузите текущую веб-страницу.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Отключить защиту для этого сайта">
 <!ENTITY trackingProtection.unblock.accesskey "к">
+<!ENTITY trackingProtection.unblock2.label "Доверять этому сайту">
+<!ENTITY trackingProtection.unblock2.accesskey "в">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -922,6 +931,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "и">
 <!ENTITY trackingProtection.block2.label "Включить защиту">
 <!ENTITY trackingProtection.block2.accesskey "ю">
+
+<!ENTITY trackingProtection.unblockPrivate2.label "Доверять этому сайту на текущую сессию">
+<!ENTITY trackingProtection.unblockPrivate2.accesskey "е">
+<!ENTITY trackingProtection.block3.label "Включить Защиту от отслеживания">
+<!ENTITY trackingProtection.block3.accesskey "ю">
+<!ENTITY trackingProtection.reload.label "Перезагрузить эту страницу">
+<!ENTITY trackingProtection.reload.accesskey "з">
 
 <!ENTITY pluginNotification.showAll.label "Показать все">
 <!ENTITY pluginNotification.showAll.accesskey "о">
