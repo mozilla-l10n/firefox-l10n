@@ -5,7 +5,7 @@
 do-not-track-description = Αποστολή σήματος “Αποτροπή καταγραφής” που σημαίνει ότι δεν θέλετε να καταγράφεστε από τις ιστοσελίδες
 do-not-track-learn-more = Μάθετε περισσότερα
 do-not-track-option-default =
-    .label = Μόνο κατά τη χρήση προστασίας από παρακολούθηση
+    .label = Μόνο κατά τη χρήση προστασίας από καταγραφή
 do-not-track-option-always =
     .label = Πάντα
 pref-page =
@@ -78,6 +78,9 @@ restart-later = Επανεκκίνηση αργότερα
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = Μια επέκταση, <img data-l10n-name="icon"/> { $name }, έχει ορίσει την προεπιλεγμένη μηχανή αναζήτησής σας.
+# This string is shown to notify the user that their tracking protection preferences
+# are being controlled by an extension.
+extension-controlled-websites-tracking-protection-mode = Μια επέκταση, το <img data-l10n-name="icon"/> { $name }, ελέγχει την προστασία από καταγραφή.
 
 ## Preferences UI Search Results
 
@@ -592,7 +595,9 @@ addressbar-suggestions-settings = Αλλαγή προτιμήσεων για τ�
 
 ## Privacy Section - Tracking
 
-tracking-header = Προστασία από παρακολούθηση
+tracking-header = Προστασία από καταγραφή
+tracking-desc = Η προστασία από καταγραφή εμποδίζει τους διαδικτυακούς ιχνηλάτες που συλλέγουν τα δεδομένα περιήγησής σας σε πολλές ιστοσελίδες. <a data-l10n-name="learn-more">Μάθετε περισσότερα σχετικά με την προστασία από καταγραφή και το απόρρητό σας</a>
+tracking-mode-label = Χρήση της προστασίας από καταγραφή για αποκλεισμό γνωστών ιχνηλατών
 tracking-mode-always =
     .label = Πάντα
     .accesskey = α
@@ -604,7 +609,7 @@ tracking-mode-never =
     .accesskey = π
 # This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
 # This currently happens on the release and beta channel.
-tracking-pbm-label = Χρήση της προστασίας από παρακολούθηση στην ιδιωτική περιήγηση για φραγή γνωστών ιχνηλατών
+tracking-pbm-label = Χρήση της προστασίας από καταγραφή στην ιδιωτική περιήγηση για φραγή γνωστών ιχνηλατών
     .accesskey = δ
 tracking-exceptions =
     .label = Εξαιρέσεις…

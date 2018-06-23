@@ -51,9 +51,9 @@ permissions-invalid-uri-label = Παρακαλώ εισάγετε ένα έγκ�
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-tracking-protection-window =
-    .title = Εξαιρέσεις - Προστασία από παρακολούθηση
+    .title = Εξαιρέσεις - Προστασία από καταγραφή
     .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Έχετε απενεργοποιήσει την Προστασία Δεδομένων Περιήγησης σε αυτές τις ιστοσελίδες.
+permissions-exceptions-tracking-protection-desc = Έχετε απενεργοποιήσει την προστασία από καταγραφή σε αυτές τις ιστοσελίδες.
 
 ## Exceptions - Cookies
 
