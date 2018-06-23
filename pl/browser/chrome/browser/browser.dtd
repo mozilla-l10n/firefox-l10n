@@ -188,7 +188,7 @@
 <!ENTITY urlbar.autoplayMediaBlocked.tooltip "Automatyczne odtwarzanie treści z dźwiękiem przez witrynę zostało zablokowane">
 <!ENTITY urlbar.canvasBlocked.tooltip "Odczytywanie danych canvas przez witrynę zostało zablokowane">
 <!ENTITY urlbar.flashPluginBlocked.tooltip "Wtyczka Adobe Flash została zablokowana na tej stronie">
-<!ENTITY urlbar.midiBlocked.tooltip "Dostęp do urządzeń MIDI tej witrynie został zablokowany">
+<!ENTITY urlbar.midiBlocked.tooltip "Dostęp do urządzeń MIDI dla tej witryny został zablokowany">
 <!ENTITY urlbar.openHistoryPopup.tooltip "Wyświetl historię">
 
 <!ENTITY searchItem.title "Znajdź" >
