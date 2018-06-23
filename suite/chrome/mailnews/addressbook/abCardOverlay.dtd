@@ -3,10 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY Contact.tab                     "კონტაქტი">
-<!ENTITY Contact.accesskey               "C">
-<!ENTITY Name.box                        "სახელი"> 
+<!ENTITY Contact.accesskey               "კ">
+<!ENTITY Name.box                        "სახელი">
 
-<!-- LOCALIZATION NOTE: 
+<!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
  those fields are either LN or FN depends on the target country.
  "FirstName" and "LastName" can be swapped for id to change the order
@@ -15,130 +15,122 @@
 -->
 
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
-<!ENTITY NameField1.id                  "FirstName"> 
+<!ENTITY NameField1.id                  "FirstName">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
-<!ENTITY NameField2.id                  "LastName"> 
+<!ENTITY NameField2.id                  "LastName">
 <!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField1.id              "PhoneticFirstName"> 
+<!ENTITY PhoneticField1.id              "PhoneticFirstName">
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField2.id              "PhoneticLastName"> 
+<!ENTITY PhoneticField2.id              "PhoneticLastName">
 
 <!ENTITY NameField1.label               "სახელი:">
-<!ENTITY NameField1.accesskey           "F">
+<!ENTITY NameField1.accesskey           "ს">
 <!ENTITY NameField2.label               "გვარი:">
-<!ENTITY NameField2.accesskey           "L">
-<!ENTITY PhoneticField1.label           "წარმოთქმა:">
-<!ENTITY PhoneticField2.label           "წარმოთქმა:">
-<!ENTITY DisplayName.label              "ასახვა:">
-<!ENTITY DisplayName.accesskey          "D">
-<!ENTITY preferDisplayName.label        "ყოველთვის ეკრანული სახელის ასახვა წერილის თავსართში">
-<!ENTITY preferDisplayName.accesskey    "A">
+<!ENTITY NameField2.accesskey           "გ">
+<!ENTITY PhoneticField1.label           "გამოითქმის:">
+<!ENTITY PhoneticField2.label           "გამოითქმის:">
+<!ENTITY DisplayName.label              "გამოჩენა:">
+<!ENTITY DisplayName.accesskey          "ე">
+<!ENTITY preferDisplayName.label        "ყოველთვის გამოსაჩენი სახელის ასახვა წერილის თავსართში">
+<!ENTITY preferDisplayName.accesskey    "ყ">
 <!ENTITY NickName.label                 "მეტსახელი:">
-<!ENTITY NickName.accesskey             "N">
+<!ENTITY NickName.accesskey             "მ">
 
 <!ENTITY PrimaryEmail.label             "ელფოსტა:">
-<!ENTITY PrimaryEmail.accesskey         "E">
+<!ENTITY PrimaryEmail.accesskey         "ე">
 <!ENTITY SecondEmail.label              "დამატებითი ელფოსტა:">
-<!ENTITY SecondEmail.accesskey          "i">
-<!ENTITY PreferMailFormat.label         "წერილების შემდეგ ფორმატში მიღება ურჩევნია:">
-<!ENTITY PreferMailFormat.accesskey     "v">
-<!ENTITY PlainText.label                "ტექსტი">
+<!ENTITY SecondEmail.accesskey          "დ">
+<!ENTITY PreferMailFormat.label         "წერილების მიღებას ამჯობინებს შემდეგი სახით:">
+<!ENTITY PreferMailFormat.accesskey     "ჯ">
+<!ENTITY PlainText.label                "ტექსტური">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "უცნობი">
 <!ENTITY ScreenName.label               "ეკრანული სახელი:">
-<!ENTITY ScreenName.accesskey           "S">
-
-<!ENTITY allowRemoteContent1.label      "გარე მონაცემების ნებართვა.">
-<!ENTITY allowRemoteContent1.accesskey   "r">
-<!ENTITY allowRemoteContent1.tooltip     "HTML გზავნილებში შესაძლებელია
-მონაცემების ჩართვა გარე წყაროებიდან. ასეთი გზავნილის გახსნისას
-მოხდება გარე წყაროსთან დაკავშირება. ეს გზავნილის წაკითხვის დასტურის
-შესაძლებლობასაც იძლევა. ამ პარამეტრის ჩართვა ამ კონტაქტიდან HTML გზავნილებში
-მონაცემების ჩართვის ნებას იძლევა.">
+<!ENTITY ScreenName.accesskey           "კ">
 
 <!ENTITY WorkPhone.label                "სამსახური:">
-<!ENTITY WorkPhone.accesskey            "k">
+<!ENTITY WorkPhone.accesskey            "მ">
 <!ENTITY HomePhone.label                "ბინა:">
-<!ENTITY HomePhone.accesskey            "o">
+<!ENTITY HomePhone.accesskey            "ბ">
 <!ENTITY FaxNumber.label                "ფაქსი:">
-<!ENTITY FaxNumber.accesskey            "x">
+<!ENTITY FaxNumber.accesskey            "ქ">
 <!ENTITY PagerNumber.label              "პეიჯერი:">
-<!ENTITY PagerNumber.accesskey          "g">
+<!ENTITY PagerNumber.accesskey          "პ">
 <!ENTITY CellularNumber.label           "მობილური:">
-<!ENTITY CellularNumber.accesskey       "M">
+<!ENTITY CellularNumber.accesskey       "ო">
 
 <!ENTITY Home.tab                       "პირადი">
-<!ENTITY Home.accesskey                 "P">
-<!ENTITY HomeAddress.label              "მისამართი:"> 
-<!ENTITY HomeAddress.accesskey          "A">
-<!ENTITY HomeAddress2.label             ""> 
+<!ENTITY Home.accesskey                 "რ">
+<!ENTITY HomeAddress.label              "მისამართი:">
+<!ENTITY HomeAddress.accesskey          "თ">
+<!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
-<!ENTITY HomeCity.label                 "ქალაქი:"> 
-<!ENTITY HomeCity.accesskey             "y">
-<!ENTITY HomeState.label                "რეგიონი/რაიონი:"> 
-<!ENTITY HomeState.accesskey            "S">
-<!ENTITY HomeZipCode.label              "ZIP/საფოსტო კოდი:"> 
+<!ENTITY HomeCity.label                 "ქალაქი:">
+<!ENTITY HomeCity.accesskey             "ლ">
+<!ENTITY HomeState.label                "რეგიონი/რაიონი:">
+<!ENTITY HomeState.accesskey            "ნ">
+<!ENTITY HomeZipCode.label              "ZIP/საფოსტო კოდი:">
 <!ENTITY HomeZipCode.accesskey          "Z">
 <!ENTITY HomeCountry.label              "ქვეყანა:">
-<!ENTITY HomeCountry.accesskey          "u">
-<!ENTITY HomeWebPage.label              "ვებ-გვერდი:"> 
-<!ENTITY HomeWebPage.accesskey          "e">
+<!ENTITY HomeCountry.accesskey          "ე">
+<!ENTITY HomeWebPage.label              "ვებგვერდი:">
+<!ENTITY HomeWebPage.accesskey          "ვ">
 <!ENTITY Birthday.label                 "დაბადების დღე:">
-<!ENTITY Birthday.accesskey             "B">
+<!ENTITY Birthday.accesskey             "ბ">
 <!ENTITY In.label                       "">
 <!ENTITY Year.placeholder               "წელი">
 <!ENTITY Or.value                       "ან">
 <!ENTITY Age.placeholder                "ასაკი">
 <!ENTITY YearsOld.label                 "">
 
-<!ENTITY Work.tab                       "სამსახური"> 
-<!ENTITY Work.accesskey                 "W">
-<!ENTITY JobTitle.label                 "თანამდებობა"> 
-<!ENTITY JobTitle.accesskey             "i">
-<!ENTITY Department.label               "განყოფილება:"> 
-<!ENTITY Department.accesskey           "m">
-<!ENTITY Company.label                  "ორგანიზაცია:"> 
-<!ENTITY Company.accesskey              "O">
-<!ENTITY WorkAddress.label              "მისამართი:"> 
-<!ENTITY WorkAddress.accesskey          "A">
-<!ENTITY WorkAddress2.label             ""> 
+<!ENTITY Work.tab                       "სამუშაო">
+<!ENTITY Work.accesskey                 "ს">
+<!ENTITY JobTitle.label                 "თანამდებობა">
+<!ENTITY JobTitle.accesskey             "ნ">
+<!ENTITY Department.label               "განყოფილება:">
+<!ENTITY Department.accesskey           "ფ">
+<!ENTITY Company.label                  "ორგანიზაცია:">
+<!ENTITY Company.accesskey              "ო">
+<!ENTITY WorkAddress.label              "მისამართი:">
+<!ENTITY WorkAddress.accesskey          "მ">
+<!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
-<!ENTITY WorkCity.label                 "ქალაქი:"> 
-<!ENTITY WorkCity.accesskey             "y">
-<!ENTITY WorkState.label                "რეგიონი/რაიონი:"> 
-<!ENTITY WorkState.accesskey            "S">
-<!ENTITY WorkZipCode.label              "ZIP/საფოსტო კოდი:"> 
+<!ENTITY WorkCity.label                 "ქალაქი:">
+<!ENTITY WorkCity.accesskey             "ლ">
+<!ENTITY WorkState.label                "რეგიონი/რაიონი:">
+<!ENTITY WorkState.accesskey            "რ">
+<!ENTITY WorkZipCode.label              "ZIP/საფოსტო კოდი:">
 <!ENTITY WorkZipCode.accesskey          "Z">
 <!ENTITY WorkCountry.label              "ქვეყანა:">
-<!ENTITY WorkCountry.accesskey          "u">
-<!ENTITY WorkWebPage.label              "ვებ-გვერდი:"> 
-<!ENTITY WorkWebPage.accesskey          "e">
+<!ENTITY WorkCountry.accesskey          "ყ">
+<!ENTITY WorkWebPage.label              "ვებგვერდი:">
+<!ENTITY WorkWebPage.accesskey          "ვ">
 
 <!ENTITY Other.tab                      "სხვა">
-<!ENTITY Other.accesskey                "h">
-<!ENTITY Custom1.label                  "საკუთარი 1:">
-<!ENTITY Custom1.accesskey              "1">
-<!ENTITY Custom2.label                  "საკუთარი 2:">
+<!ENTITY Other.accesskey                "ხ">
+<!ENTITY Custom1.label                  "დამატებითი 1:">
+<!ENTITY Custom1.accesskey              "შ">
+<!ENTITY Custom2.label                  "დამატებითი 2:">
 <!ENTITY Custom2.accesskey              "2">
-<!ENTITY Custom3.label                  "საკუთარი 3:">
+<!ENTITY Custom3.label                  "დამატებითი 3:">
 <!ENTITY Custom3.accesskey              "3">
-<!ENTITY Custom4.label                  "საკუთარი 4:">
+<!ENTITY Custom4.label                  "დამატებითი 4:">
 <!ENTITY Custom4.accesskey              "4">
-<!ENTITY Notes.label                      "შენიშვნები:">
-<!ENTITY Notes.accesskey                "N">
+<!ENTITY Notes.label                    "შენიშვნები:">
+<!ENTITY Notes.accesskey                "შ">
 
 <!ENTITY Photo.tab                      "ფოტო">
-<!ENTITY Photo.accesskey                "o">
+<!ENTITY Photo.accesskey                "ო">
 <!ENTITY PhotoDesc.label                "შეარჩიეთ ერთერთი შემდეგთაგან:">
-<!ENTITY GenericPhoto.label             "სტანდარტული ფოტო">
-<!ENTITY GenericPhoto.accesskey         "G">
-<!ENTITY DefaultPhoto.label             "ნაგულისხმები">
-<!ENTITY PhotoFile.label                "ამ კომპიუტრეში">
-<!ENTITY PhotoFile.accesskey            "n">
-<!ENTITY BrowsePhoto.label              "ნუსხა">
-<!ENTITY BrowsePhoto.accesskey          "r">
-<!ENTITY PhotoURL.label                 "ინტერნეტში">
-<!ENTITY PhotoURL.accesskey             "b">
-<!ENTITY PhotoURL.placeholder           "ჩასვით ან მიუთითეთ ფოტოს ვებ მისამართი">
+<!ENTITY GenericPhoto.label             "საერთო ფოტო">
+<!ENTITY GenericPhoto.accesskey         "თ">
+<!ENTITY DefaultPhoto.label             "ნაგულისხმევი">
+<!ENTITY PhotoFile.label                "ამ კომპიუტერიდან">
+<!ENTITY PhotoFile.accesskey            "კ">
+<!ENTITY BrowsePhoto.label              "ამორჩევა">
+<!ENTITY BrowsePhoto.accesskey          "ჩ">
+<!ENTITY PhotoURL.label                 "ინტერნეტიდან">
+<!ENTITY PhotoURL.accesskey             "ნ">
+<!ENTITY PhotoURL.placeholder           "ჩასვით ან აკრიფეთ ფოტოს ვებმისამართი">
 <!ENTITY UpdatePhoto.label              "განახლება">
-<!ENTITY UpdatePhoto.accesskey          "u">
+<!ENTITY UpdatePhoto.accesskey          "ხ">
