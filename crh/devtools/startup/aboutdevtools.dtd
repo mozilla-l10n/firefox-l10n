@@ -54,7 +54,7 @@
 <!ENTITY  aboutDevtools.enable.learnMoreLink "İnkişafçı Aletleri aqqında daa çoq ögren">
 
 <!ENTITY  aboutDevtools.enable.enableButton "İnkişafçı Aletleri'ni Qabilleştir">
-<!ENTITY  aboutDevtools.enable.closeButton2 "Bu ilmekni qapat">
+<!ENTITY  aboutDevtools.enable.closeButton2 "Bu İlmekni qapat">
 
 <!ENTITY  aboutDevtools.welcome.title "Firefox İnkişafçı Aletleri'ne Hoş Keldiñiz!">
 
@@ -65,7 +65,7 @@
 <!ENTITY  aboutDevtools.newsletter.message "İnkişafçı haberleri, marifetleri ve qaynaqlarını doğrudan Kelgen qutuñızğa yibertiñiz.">
 <!ENTITY  aboutDevtools.newsletter.email.placeholder "E-poçta">
 <!ENTITY  aboutDevtools.newsletter.privacy.label "Mozilla'nıñ malümatımnı bu <a class='external' href='https://www.mozilla.org/privacy/'>Hususiyat Siyaseti</a>nde añlatılğanı kibi qollamasına icazet berem.">
-<!ENTITY  aboutDevtools.newsletter.subscribeButton "Abune ol">
+<!ENTITY  aboutDevtools.newsletter.subscribeButton "Abune Ol">
 <!ENTITY  aboutDevtools.newsletter.thanks.title "Teşekkürler!">
 <!ENTITY  aboutDevtools.newsletter.thanks.message "Daa evvel bir Mozilla haber-mektübine abune olmadı iseñiz abuneligiñizni belki teyit etmeñiz kerekir. Lütfen Kelgen qutuñıznı yaki Abur-çubur süzgüzçiñizni bizden bir e-poçta içün teşkeriñiz.">
 
