@@ -520,26 +520,26 @@ addressbar-locbar-openpage-option =
     .accesskey = k
 addressbar-suggestions-settings = Zmień ustawienia podpowiedzi dostarczanych przez wyszukiwarki
 
-tracking-header = Ochrona przed śledzeniem
-tracking-desc = Ochrona przed śledzeniem blokuje elementy, które zbierają informacje o przeglądaniu na wielu różnych stronach. <a data-l10n-name="learn-more">Więcej informacji o ochronie przed śledzeniem i prywatności</a>.
-tracking-mode-label = Chroń przed śledzeniem przez znane elementy śledzące:
-tracking-mode-always =
-    .label = Zawsze
-    .accesskey = Z
-tracking-mode-private =
-    .label = W oknach prywatnych
-    .accesskey = o
-tracking-mode-never =
-    .label = Nigdy
-    .accesskey = N
-tracking-pbm-label = Ochrona przed śledzeniem przez znane elementy śledzące w oknach prywatnych.
-    .accesskey = r
+tracking-header=Ochrona przed śledzeniem
+tracking-desc=Ochrona przed śledzeniem blokuje elementy, które zbierają informacje o przeglądaniu na wielu różnych stronach. <a data-l10n-name="learn-more">Więcej informacji o ochronie przed śledzeniem i prywatności</a>.
+tracking-mode-label=Chroń przed śledzeniem przez znane elementy śledzące:
+tracking-mode-always=
+  .label=zawsze
+  .accesskey=z
+tracking-mode-private=
+  .label=w oknach prywatnych
+  .accesskey=w
+tracking-mode-never=
+  .label=nigdy
+  .accesskey=n
+tracking-pbm-label=Ochrona przed śledzeniem przez znane elementy śledzące w oknach prywatnych.
+  .accesskey=O
 tracking-exceptions =
-    .label = Wyjątki…
-    .accesskey = W
-tracking-change-block-list =
-    .label = Zmień listę blokowanych…
-    .accesskey = b
+  .label=Wyjątki…
+  .accesskey=W
+tracking-change-block-list=
+  .label=Zmień listę blokowanych…
+  .accesskey=Z
 
 permissions-header = Uprawnienia
 permissions-location = Położenie
