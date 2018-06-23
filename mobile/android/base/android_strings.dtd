@@ -36,7 +36,7 @@
 
 <!ENTITY firstrun_readerview_title "Άρθρα">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
-<!ENTITY firstrun_readerview_message "Τακτοποιημένη εμφάνιση">
+<!ENTITY firstrun_readerview_message "Κρατήστε την ουσία">
 <!ENTITY firstrun_readerview_subtext "Χρησιμοποιήστε την προβολή ανάγνωσης για πιο ευανάγνωστα άρθρα, διαθέσιμα ακόμα και χωρίς σύνδεση.">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
