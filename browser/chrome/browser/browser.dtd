@@ -242,6 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Сіз хабарламаларды бұл вебсайтқа блоктадыңыз.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Сіз тұрақты деректер қоймасын қолдануды бұл вебсайтқа блоктадыңыз.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Бұл веб-сайт үшін атып шығатын терезелерді бұғаттадыңыз.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Бұл веб-сайт үшін дыбысы бар медианы автоойнатуды бұғаттағансыз.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Сіз canvas деректерін тарқатуды бұл вебсайтқа блоктадыңыз.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Сіз бұл вебсайтқа Adobe Flash қолдануды блоктадыңыз.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Сіз MIDI қолдануды бұл вебсайтқа блоктадыңыз.">
@@ -806,6 +807,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Бұл сайтқа арнайы рұқсаттарды берген жоқсыз.">
 <!ENTITY identity.permissionsReloadHint "Өзгерістер іске асуы үшін бұл парақты қайта жүктеуіңіз керек болуы мүмкін.">
 
+<!ENTITY identity.permissionsPreferences.tooltip "Рұқсаттар баптауларын ашу">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -905,16 +907,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Беттің аудиосымен бөлісетін боласыз.">
 <!ENTITY getUserMedia.allWindowsShared.message "Экраныңыздаға барлық көрінетін терезелермен бөлісетін боласыз.">
 
+<!ENTITY trackingProtection.on "Бақылаудан қорғаныс: Іске қосылған">
+<!ENTITY trackingProtection.off "Бақылаудан қорғаныс: Сөндірілген">
 <!ENTITY trackingProtection.title "Бақылаудан қорғаныс">
 <!ENTITY trackingProtection.tooltip "Бақылаудан қорғаныс баптауларын ашу">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; бұл парақтың сіздің желідегі әрекеттеріңізді бақылай алатын бөліктерін блоктаған.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Бұл сайтта сіздің желідегі әрекеттеріңізді бақылай алатын элементтер бар. Сіз бақылаудан қорғанысты сөндіргенсіз.">
 <!ENTITY trackingProtection.notDetected3 "Бұл парақта бақылайтын элементтер табылмады.">
+<!ENTITY trackingProtection.detectedNotBlocked4 "Бұл бетте бақылайтын элементтер табылды.">
+<!ENTITY trackingProtection.notDetected4 "Бұл бетте бақылайтын элементтер табылмады.">
+<!ENTITY trackingProtection.reloadRequired "Сіз бақылаудан қорғанысты іске қостыңыз. Барлық трекерлерді бұғаттау үшін, парақты қайта жүктеңіз.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Бұл сайтта қорғанысты сөндіру">
 <!ENTITY trackingProtection.unblock.accesskey "д">
+<!ENTITY trackingProtection.unblock2.label "Бұл сайтқа сену">
+<!ENTITY trackingProtection.unblock2.accesskey "с">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -923,6 +932,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Қорғанысты іске қосу">
 <!ENTITY trackingProtection.block2.accesskey "е">
 
+<!ENTITY trackingProtection.unblockPrivate2.label "Бұл сайтқа осы сессияда сену">
+<!ENTITY trackingProtection.unblockPrivate2.accesskey "с">
+<!ENTITY trackingProtection.block3.label "Бақылаудан қорғанысты іске қосу">
+<!ENTITY trackingProtection.block3.accesskey "с">
+<!ENTITY trackingProtection.reload.label "Бетті қайта жүктеу">
+<!ENTITY trackingProtection.reload.accesskey "й">
 
 <!ENTITY pluginNotification.showAll.label "Барлығын көрсету">
 <!ENTITY pluginNotification.showAll.accesskey "с">
