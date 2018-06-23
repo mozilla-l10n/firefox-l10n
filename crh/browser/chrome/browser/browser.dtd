@@ -61,7 +61,7 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.accesskey             "K">
 <!ENTITY  closeTab.label                     "İlmekni Qapat">
 <!ENTITY  closeTab.accesskey                 "Q">
-
+<!ENTITY  hiddenTabs.label                   "Gizli İlmekler">
 
 <!ENTITY  listAllTabs.label      "İlmeklerniñ episini tiz">
 
@@ -218,7 +218,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Sayttan tebliğler alabilip bilmegeniñizni deñiştiriñiz">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Verilerni Sebatkâr Mağazda mağazla">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Kezici uzaqtan muraqabede">
-
+<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Ağ Sahihlenim panelini aç">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Sayt ile kamera ve/yaki mikrofonnı üleşmeni idare etiñiz">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Sayt ile mikrofonıñıznı üleşmeni idare etiñiz">
@@ -298,6 +298,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Unsurnı Teftiş Et">
 <!ENTITY inspectContextMenu.accesskey "T">
 
+<!ENTITY inspectA11YContextMenu.label     "İrişilebilirlik Hasiyetlerini Teftiş Et">
 
 <!ENTITY fileMenu.label         "Dosye">
 <!ENTITY fileMenu.accesskey       "D">
@@ -529,7 +530,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "k">
 <!ENTITY openFrameCmd.label           "Çerçiveni Yañı Pencerede Aç">
 <!ENTITY openFrameCmd.accesskey       "E">
-<!ENTITY openLinkCmdInContainerTab.label "İlişimni Yañi Konteyner İlmeginde Aç">
+<!ENTITY openLinkCmdInContainerTab.label "İlişimni Yañı Konteyner İlmeginde Aç">
 <!ENTITY openLinkCmdInContainerTab.accesskey "K">
 <!ENTITY showOnlyThisFrameCmd.label     "Tek Bu Çerçiveni Köster">
 <!ENTITY showOnlyThisFrameCmd.accesskey "T">
@@ -796,6 +797,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Bu saytqa er angi mahsus ruhsetler bergen degilsiñiz.">
 <!ENTITY identity.permissionsReloadHint "Deñişikliklerniñ uyğulanması içün saifeni kene yüklemeñiz kerekebilir.">
 
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Kezici ilmekleri">
@@ -911,6 +913,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "İmayeni qabilleştir">
 <!ENTITY trackingProtection.block2.accesskey "a">
 
+
 <!ENTITY pluginNotification.showAll.label "Episini Köster">
 <!ENTITY pluginNotification.showAll.accesskey "e">
 
@@ -988,8 +991,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Eklentini Naqabilleştir">
 <!ENTITY newTabControlled.disableButton.accesskey "N">
 
-<!ENTITY homepageControlled.message "Bir eklenti, ev saifeñiz olaraq ne körgeniñizni deñiştirgendir. Bu deñişiklikni istemey iseñiz ayarlarıñıznı keri tikleybilirsiñiz.">
+<!ENTITY homepageControlled.message "Bir uzantı ev saifeñiz olaraq neni körgeniñizni deñiştirgendir. Bu deñişiklikni istemey iseñiz ayarlarıñıznı keri tikleybilirsiñiz.">
+<!ENTITY homepageControlled.header.message "Ev saifeñiz deñişkendir.">
+<!ENTITY homepageControlled.keepButton.label "Deñişikliklerni Qoru">
+<!ENTITY homepageControlled.keepButton.accesskey "o">
+<!ENTITY homepageControlled.disableButton.label "Eklentini Naqabilleştir">
+<!ENTITY homepageControlled.disableButton.accesskey "b">
 
+<!ENTITY tabHideControlled.header.message "Gizli İlmekleriñizge İrişiñiz">
+<!ENTITY tabHideControlled.keepButton.label "İlmeklerni Gizli Tut">
+<!ENTITY tabHideControlled.keepButton.accesskey "T">
+<!ENTITY tabHideControlled.disableButton.label "Eklentini Naqabilleştir">
+<!ENTITY tabHideControlled.disableButton.accesskey "b">
 
 <!ENTITY pageActionButton.tooltip "Saife amelleri">
 <!ENTITY pageAction.addToUrlbar.label "Adres Çubuğına Ekle">
@@ -1001,6 +1014,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.sendTabToDevice.label "İlmekni Cihazğa Yiber">
 <!ENTITY sendToDevice.syncNotReady.label "Cihazlar Aynılaştırıla…">
 
+<!ENTITY pageAction.shareUrl.label "Üleş">
 
 <!ENTITY libraryButton.tooltip "Keçmiş, saqlanğan saife-imleri ve daa fazlasını köster">
 
