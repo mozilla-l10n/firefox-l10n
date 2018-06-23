@@ -19,9 +19,9 @@
 <!ENTITY lightning.menupopup.new.calendar.accesskey "K">
 
 <!-- Open menu popup in File menu -->
-<!ENTITY lightning.menupopup.open.label               "Opne">
+<!ENTITY lightning.menupopup.open.label               "Opna">
 <!ENTITY lightning.menupopup.open.accesskey           "O">
-<!ENTITY lightning.menupopup.open.message.label       "Lagre melding…">
+<!ENTITY lightning.menupopup.open.message.label       "Lagra melding…">
 <!ENTITY lightning.menupopup.open.message.accesskey   "L">
 <!ENTITY lightning.menupopup.open.calendar.label      "Kalenderfil…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "K">
@@ -73,8 +73,8 @@
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Sender ei ny stadfesting til hendingsinnkallar">
 <!ENTITY lightning.imipbar.btnReschedule.label                              "Planlegg på nytt">
 <!ENTITY lightning.imipbar.btnReschedule.tooltiptext                        "Planlegge hendinga på nytt">
-<!ENTITY lightning.imipbar.btnSaveCopy.label                                "Lagre ein kopi">
-<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Lagre ein kopi av hendinga i kalenderen, uavhengig om du svarer organisator. Deltakarlista vert sletta.">
+<!ENTITY lightning.imipbar.btnSaveCopy.label                                "Lagra ein kopi">
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Lagra ein kopi av hendinga i kalenderen, uavhengig om du svarar organisator. Deltakarlista vert sletta.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Med atterhald">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Godta hendingsinvitasjon med atterhald">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Alle med atterhald">

@@ -165,14 +165,14 @@
 <!ENTITY event.remove.attendee.accesskey                  "e">
 
 <!-- Toolbar -->
-<!ENTITY  event.toolbar.save.label2                       "Lagre">
-<!ENTITY  event.toolbar.saveandclose.label                "Lagre og lat att">
+<!ENTITY  event.toolbar.save.label2                       "Lagra">
+<!ENTITY  event.toolbar.saveandclose.label                "Lagra og lat att">
 <!ENTITY  event.toolbar.delete.label                      "Slett">
 <!ENTITY  event.toolbar.attendees.label                   "Inviter deltakarar">
 <!ENTITY  event.toolbar.privacy.label                     "Personvern">
 
-<!ENTITY  event.toolbar.save.tooltip2                     "Lagre">
-<!ENTITY  event.toolbar.saveandclose.tooltip              "Lagre og lat att">
+<!ENTITY  event.toolbar.save.tooltip2                     "Lagra">
+<!ENTITY  event.toolbar.saveandclose.tooltip              "Lagra og lat att">
 <!ENTITY  event.toolbar.delete.tooltip                    "Slett">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Inviter deltakarar">
 <!ENTITY  event.toolbar.attachments.tooltip               "Nytt vedlegg">
@@ -235,7 +235,7 @@
 <!ENTITY event.attachments.url.accesskey                  "N">
 <!ENTITY event.attachments.popup.remove.label             "Fjern" >
 <!ENTITY event.attachments.popup.remove.accesskey         "F" >
-<!ENTITY event.attachments.popup.open.label               "Opne" >
+<!ENTITY event.attachments.popup.open.label               "Opna" >
 <!ENTITY event.attachments.popup.open.accesskey           "O" >
 <!ENTITY event.attachments.popup.removeAll.label          "Fjern alle" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "a" >
@@ -414,8 +414,8 @@
 <!ENTITY read.only.link.label            "Relatert lenke">
 
 <!-- Summary dialog -->
-<!ENTITY summary.dialog.saveclose.label         "Lagre og lat att">
-<!ENTITY summary.dialog.saveclose.tooltiptext   "Lagre endringar og lukk vindauget utan å endre deltakingsstatus og utan å sende eit svar">
+<!ENTITY summary.dialog.saveclose.label         "Lagra og lat att">
+<!ENTITY summary.dialog.saveclose.tooltiptext   "Lagra endringar og lat att vindauget utan å endra deltakingsstatus og utan å senda eit svar">
 <!ENTITY summary.dialog.accept.label            "Aksepter">
 <!ENTITY summary.dialog.accept.tooltiptext      "Aksepter invitasjonen">
 <!ENTITY summary.dialog.tentative.label         "Med atterhald">
