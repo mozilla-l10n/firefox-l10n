@@ -21,6 +21,14 @@
 <!ENTITY dnsNotFound.pageTitle "Δε βρέθηκε ο διακομιστής">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 <!ENTITY dnsNotFound.title1 "Χμ. Έχουμε πρόβλημα στην εύρεση του ιστοτόπου.">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>Αν η διεύθυνση είναι σωστή, ορίστε τρία ακόμη πράγματα που μπορείτε να δοκιμάσετε:</strong>
+<ul>
+  <li>Προσπαθήστε ξανά αργότερα.</li>
+  <li>Ελέγξτε τη σύνδεση δικτύου σας.</li>
+  <li>Αν έχετε συνδεθεί, αλλά υπό την εποπτεία ενός τείχους προστασίας, ελέγξτε αν το &brandShortName; έχει άδεια για πρόσβαση στο διαδίκτυο.</li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "Το αρχείο δεν βρέθηκε">
 <!ENTITY fileNotFound.longDesc "

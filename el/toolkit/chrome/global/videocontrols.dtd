@@ -7,7 +7,7 @@
 <!ENTITY muteButton.muteLabel "Σίγαση">
 <!ENTITY muteButton.unmuteLabel "Άρση σίγασης">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Πλήρης οθόνη">
-<!ENTITY fullscreenButton.exitfullscreenlabel "Έξοδο από την πλήρη οθόνη">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Έξοδος από την πλήρη οθόνη">
 <!ENTITY castingButton.castingLabel "Μετάδοση σε οθόνη">
 <!ENTITY closedCaption.off "Ανενεργό">
 

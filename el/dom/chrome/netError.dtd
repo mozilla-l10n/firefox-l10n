@@ -94,3 +94,5 @@
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p>Το <span class='hostname'></span> χρησιμοποιεί παρωχημένες τεχνολογίες ασφαλείας που είναι ευάλωτες σε επίθεση. Ένας επιτιθέμενος μπορεί εύκολα να αποκαλύψει πληροφορίες που πιστεύατε ότι είναι ασφαλείς. Ο διαχειριστής του ιστοτόπου θα πρέπει να διορθώσει τον διακομιστή προτού επισκεφθείτε τον ιστοτόπο.</p><p>Κωδικός σφάλματος: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY blockedByPolicy.title "Αποκλεισμένη σελίδα">
