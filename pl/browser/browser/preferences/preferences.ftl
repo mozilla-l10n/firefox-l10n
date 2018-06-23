@@ -350,7 +350,7 @@ sync-signedout-account-create = Nie masz konta? Utwórz je…
 sync-signedout-account-signin =
     .label = Zaloguj się
     .accesskey = Z
-sync-mobile-promo=Pobierz Firefoksa na <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Androida</a> lub <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOSa</a>, aby synchronizować ze swoim urządzeniem przenośnym.
+sync-mobile-promo=Pobierz Firefoksa na <a data-l10n-name="android-link">Androida</a> <img data-l10n-name="android-icon"/> lub <a data-l10n-name="ios-link">iOSa</a> <img data-l10n-name="ios-icon"/>, aby synchronizować ze swoim urządzeniem przenośnym.
 
 sync-profile-picture =
     .tooltiptext = Zmień obraz przypisany do konta
