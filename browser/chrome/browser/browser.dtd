@@ -221,6 +221,8 @@
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY newUserContext.label "Nuova scheda contenitore">
 <!ENTITY newUserContext.accesskey "c">
+<!ENTITY manageUserContext.label "Gestisci contenitori">
+<!ENTITY manageUserContext.accesskey "G">
 <!ENTITY newNavigatorCmd.label "Nuova finestra&#173;">
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "f">
