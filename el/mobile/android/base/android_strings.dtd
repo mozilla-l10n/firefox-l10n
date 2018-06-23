@@ -68,7 +68,7 @@
 <!ENTITY  crash_close_label "Κλείσιμο">
 <!ENTITY  crash_restart_label "Επανεκκίνηση του &brandShortName;">
 
-<!ENTITY url_bar_default_text2 "Αναζητήστε ή εισάγετε μια διεύθυνση">
+<!ENTITY url_bar_default_text2 "Αναζήτηση ή εισαγωγή διεύθυνσης">
 
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
@@ -314,7 +314,7 @@
 <!ENTITY custom_tabs_menu_item_open_in "Άνοιγμα στο &formatS;">
 <!ENTITY custom_tabs_menu_footer "Με την υποστήριξη του &brandShortName;">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
-<!ENTITY custom_tabs_hint_url_copy "Το URL αντεγράφη">
+<!ENTITY custom_tabs_hint_url_copy "Το URL αντιγράφτηκε">
 
 <!ENTITY pref_pwa "Προοδευτικές διαδικτυακές εφαρμογές">
 <!ENTITY pref_pwa_summary "Να επιτρέπεται η προσθήκη διαδικτυακών εφαρμογών στην αρχική οθόνη">
@@ -646,7 +646,7 @@
 <!ENTITY remote_tabs_panel_moved_desc "Έχουμε μετακινήσει τις καρτέλες από άλλες συσκευές σας σε ένα πλαίσιο στην αρχική σελίδα για εύκολη πρόσβαση κάθε φορά που ανοίγετε μια νέα καρτέλα.">
 <!ENTITY remote_tabs_panel_moved_link "Μετάβαση στον νέο μου πλαίσιο.">
 
-<!ENTITY pin_site_dialog_hint "Εισάγετε έναν όρο αναζήτησης">
+<!ENTITY pin_site_dialog_hint "Εισάγετε μια λέξη-κλειδί αναζήτησης">
 
 <!ENTITY filepicker_title "Επιλογή αρχείου">
 <!ENTITY filepicker_audio_title "Επιλέξτε ή εγγράψτε έναν ήχο">
@@ -677,7 +677,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_protection_disabled1 "Έχετε απενεργοποιήσει την προστασία από μη ασφαλές περιεχόμενο σε αυτήν τη σελίδα.">
 
 <!-- Tracking content notifications in site identity popup -->
-<!ENTITY doorhanger_tracking_title2 "Προστασία δεδομένων περιήγησης">
+<!ENTITY doorhanger_tracking_title2 "Προστασία από καταγραφή">
 <!ENTITY doorhanger_tracking_state_enabled "Ενεργοποιημένη">
 <!ENTITY doorhanger_tracking_state_disabled "Απενεργοποιημένη">
 <!ENTITY doorhanger_tracking_message_enabled1 "Απετράπησαν προσπάθειες καταγραφής της συμπεριφοράς περιήγησης σας.">
@@ -707,7 +707,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
       via the search engine that uses the icon they clicked. This text is used
       for screen reader users when they hover each icon - &formatS; will be
       replaced with the name of the currently highlighted icon. -->
-<!ENTITY search_bar_item_desc "Αναζήτηση με τη μηχανή &formatS;">
+<!ENTITY search_bar_item_desc "Αναζήτηση με &formatS;">
 
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
@@ -718,7 +718,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
  <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Διατίθεται ενημέρωση για τον &brandShortName;">
-<!ENTITY updater_start_select2 "Πατήστε για την λήψη">
+<!ENTITY updater_start_select2 "Πατήστε για λήψη">
 
 <!ENTITY updater_downloading_title2 "Γίνεται λήψη του &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "Η λήψη απέτυχε">
@@ -726,7 +726,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_retry2 "Πατήστε για νέα προσπάθεια">
 
 <!ENTITY updater_apply_title3 "Ελήφθη ενημέρωση για το &brandShortName;">
-<!ENTITY updater_apply_select3 "Αγγίξτε για εγκατάσταση">
+<!ENTITY updater_apply_select3 "Πατήστε για εγκατάσταση">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
@@ -759,7 +759,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 <!ENTITY actionbar_menu "Μενού">
-<!ENTITY actionbar_done "Ολοκληρώθηκε">
+<!ENTITY actionbar_done "Τέλος">
 
 <!-- Voice search in the awesome bar -->
 <!ENTITY voicesearch_prompt "Μιλήστε τώρα">
