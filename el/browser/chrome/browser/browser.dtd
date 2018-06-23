@@ -894,13 +894,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Θα μοιραστεί ο ήχος από την καρτέλα.">
 <!ENTITY getUserMedia.allWindowsShared.message "Θα μοιραστούν όλα τα ορατά παράθυρα της οθόνη σας.">
 
-<!ENTITY trackingProtection.on "Προστασία από παρακολούθηση: ΕΝΕΡΓΗ">
-<!ENTITY trackingProtection.off "Προστασία από παρακολούθηση: ΑΝΕΝΕΡΓΗ">
-<!ENTITY trackingProtection.title "Προστασία από παρακολούθηση">
-<!ENTITY trackingProtection.tooltip "Άνοιγμα προτιμήσεων προστασίας παρακολούθησης">
+<!ENTITY trackingProtection.on "Προστασία από καταγραφή: ΕΝΕΡΓΗ">
+<!ENTITY trackingProtection.off "Προστασία από καταγραφή: ΑΝΕΝΕΡΓΗ">
+<!ENTITY trackingProtection.title "Προστασία από καταγραφή">
+<!ENTITY trackingProtection.tooltip "Άνοιγμα προτιμήσεων προστασίας από καταγραφή">
 <!ENTITY trackingProtection.detectedBlocked3 "Το &brandShortName; αποκλείει τμήματα της σελίδας που ίσως παρακολουθούν την περιήγησή σας.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Αυτή η ιστοσελίδα περιέχει στοιχεία που μπορούν να καταγράψουν τη συμπεριφορά σας. Έχετε απενεργοποιήσει την προστασία.">
 <!ENTITY trackingProtection.notDetected3 "Κανένα στοιχείο καταγραφής σε αυτή τη σελίδα.">
+<!ENTITY trackingProtection.detectedNotBlocked4 "Έχουν ανιχνευθεί ιχνηλάτες σε αυτή την ιστοσελίδα.">
+<!ENTITY trackingProtection.notDetected4 "Δεν ανιχνεύθηκαν ιχνηλάτες σε αυτή τη σελίδα.">
+<!ENTITY trackingProtection.reloadRequired "Έχετε ενεργοποιήσει την προστασία από καταγραφή. Για αποκλεισμό όλων των ιχνηλατών, παρακαλούμε φορτώστε εκ νέου την τρέχουσα ιστοσελίδα.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
@@ -914,6 +917,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Ενεργοποίηση προστασίας">
 <!ENTITY trackingProtection.block2.accesskey "Ε">
 
+<!ENTITY trackingProtection.reload.label "Εκ νέου φόρτωση σελίδας">
+<!ENTITY trackingProtection.reload.accesskey "Ε">
 
 <!ENTITY pluginNotification.showAll.label "Προβολή όλων">
 <!ENTITY pluginNotification.showAll.accesskey "β">

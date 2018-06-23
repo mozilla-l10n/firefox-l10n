@@ -47,7 +47,7 @@
 
 # LOCALIZATION NOTE (bugzilla):
 # Nightly builds only, link title for https://bugzilla.mozilla.org/
-#define bugzilla Παρακολούθηση σφαλμάτων Mozilla
+#define bugzilla Καταγραφή σφαλμάτων Mozilla
 
 # LOCALIZATION NOTE (mdn):
 # Nightly builds only, link title for https://developer.mozilla.org/
