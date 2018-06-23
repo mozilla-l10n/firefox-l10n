@@ -349,7 +349,7 @@
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-<!ENTITY tab_queue_notification_settings "For å \&quot;Opna fleire lenker\&quot;, slå på \&apos;Skriv over andre appar\&apos;-modusen for &brandShortName;">
+<!ENTITY tab_queue_notification_settings "For å «Opna fleire lenker», slå på \&apos;Skriv over andre appar\&apos;-modusen for &brandShortName;">
 
 <!ENTITY pref_char_encoding "Teiknkoding">
 <!ENTITY pref_char_encoding_on "Vis meny">
@@ -359,7 +359,7 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Tøm no">
 <!ENTITY pref_clear_on_exit_title3 "Tøm private data ved avslutting">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; vil automatisk sletta dine data kvar gong du vel \&quot;Quit\&quot; frå hovudmenyen">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; vil automatisk sletta dataa dine kvar gong du vel «Avslutt» frå hovudmenyen">
 <!ENTITY pref_clear_on_exit_dialog_title "Vel kva for data som skal slettast">
 <!ENTITY pref_restore_tabs "Gjenopprett faner">
 <!ENTITY pref_restore_always "Alltid gjenopprett">
@@ -389,7 +389,7 @@
 <!ENTITY pref_import_android_summary "Importer bokmerke og historikk frå den opphavelege nettlesaren">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
-<!ENTITY pref_private_data_openTabs "Opne faner">
+<!ENTITY pref_private_data_openTabs "Opna faner">
 <!ENTITY pref_private_data_history2 "Nettlesarhistorikk">
 <!ENTITY pref_private_data_searchHistory "Søkjehistorikk">
 <!ENTITY pref_private_data_formdata2 "Skjemahistorikk">
@@ -404,7 +404,7 @@
 <!ENTITY pref_default_browser "Vel som standard nettlesar">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Besøk Mozilla Support">
 <!ENTITY pref_about_firefox "Om &brandShortName;">
-<!ENTITY pref_vendor_faqs "FAQ/OSS(Ofte Stilte Spørsmål)">
+<!ENTITY pref_vendor_faqs "Vanlege spørsmål (FAQ)">
 <!ENTITY pref_vendor_feedback "Gje tilbakemelding">
 
 <!ENTITY pref_dialog_set_default "Vel som standard">
@@ -414,11 +414,11 @@
 <!ENTITY pref_dialog_activitystream_recentBookmarks "Siste bokmerke">
 <!ENTITY pref_dialog_activitystream_visited "Besøkte">
 
-<!ENTITY pref_search_last_toast "Du kan ikkje fjerne eller deaktivere den siste søkemotoren.">
+<!ENTITY pref_search_last_toast "Du kan ikkje fjerna eller deaktivere den siste søkemotoren.">
 
 <!ENTITY pref_panels_show "Vis">
 <!ENTITY pref_panels_hide "Gøym">
-<!ENTITY pref_panels_reorder "Endra rekkjefylgje">
+<!ENTITY pref_panels_reorder "Endra rekkjefølgje">
 <!ENTITY pref_panels_move_up "Flytt opp">
 <!ENTITY pref_panels_move_down "Flytt ned">
 
@@ -446,7 +446,7 @@
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Krasjrapportering">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; stadteneste">
-<!ENTITY datareporting_wifi_geolocation_summary4 "Hjelp &vendorShortName;med å kartleggja verda! Del (omlag) Wi-Fi- og mobilplassering for eininga di for å betra geolokasjons-tenesta vår.">
+<!ENTITY datareporting_wifi_geolocation_summary4 "Hjelp &vendorShortName; med å kartleggja verda! Del den omtrentlege Wi-Fi- og mobilplasseringa for eininga di for å betra geolokasjonstenesta vår.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
