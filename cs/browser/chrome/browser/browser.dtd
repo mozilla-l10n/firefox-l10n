@@ -438,7 +438,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY customizeMenu.autoHideDownloadsButton.label "Automaticky skrývat">
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
-<!ENTITY customizeMenu.manageExtension.label "Správa rozšíření">
+<!ENTITY customizeMenu.manageExtension.label "Nastavení tohoto rozšíření">
 <!ENTITY customizeMenu.manageExtension.accesskey "e">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
@@ -1034,7 +1034,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.removeFromUrlbar.label "Odebrat z adresního řádku">
 <!ENTITY pageAction.allowInUrlbar.label "Zobrazit v adresním řádku">
 <!ENTITY pageAction.disallowInUrlbar.label "Nezobrazovat v adresním řádku">
-<!ENTITY pageAction.manageExtension.label "Správa rozšíření…">
+<!ENTITY pageAction.manageExtension.label "Nastavení tohoto rozšíření">
 
 <!ENTITY pageAction.sendTabToDevice.label "Poslat panel do zařízení">
 <!ENTITY sendToDevice.syncNotReady.label "Synchronizace zařízení…">
