@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Kukuèni">
-<!ENTITY firstrun_urlbar_message2 "Ta tsavu ni ki\&apos;un &brandShortName;">
+<!ENTITY firstrun_urlbar_message2 "Tatsavu ni ki\&apos;un &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Iin nu nuduku ña\&apos;a Mozilla, kue ndukukue xu\&apos;un kunikue koo iin web ña\&apos;a nti\&apos;o.">
 <!ENTITY firstrun_panel_title_privacy "Ña meu">
 <!ENTITY firstrun_privacy_message "Nduku tana ko\&apos;ona nche\&apos;eyo">
@@ -85,7 +85,7 @@
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
-<!ENTITY bookmark_already_added "Tsa in\&apos;kai nu marca">
+<!ENTITY bookmark_already_added "Tsa inkai nu markador">
 <!ENTITY bookmark_removed "Tsa n\&apos;do marca">
 <!ENTITY bookmark_updated "Inkàa va´a marcador ">
 <!ENTITY bookmark_options "Nduku">
