@@ -10,6 +10,6 @@
 <!ENTITY aboutDownloads.remove                     "Slett">
 <!ENTITY aboutDownloads.removeAll                  "Slett alle">
 <!ENTITY aboutDownloads.pause                      "Pause">
-<!ENTITY aboutDownloads.resume                     "Hald fram">
+<!ENTITY aboutDownloads.resume                     "Fortset">
 <!ENTITY aboutDownloads.cancel                     "Avbryt">
 <!ENTITY aboutDownloads.retry                      "Prøv igjen">
