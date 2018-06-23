@@ -524,7 +524,7 @@
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
      after the user pins/unpins the currently displayed page from top sites. -->
 <!ENTITY pinned_page_to_top_sites "Festa side til populære nettstadar">
-<!ENTITY unpinned_page_from_top_sites "Løyste side frå populære nettsadar">
+<!ENTITY unpinned_page_from_top_sites "SIde fjerna frå toppliste">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -541,7 +541,7 @@
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-<!ENTITY pref_scroll_title_bar2 "Fullskjerm-nettlesing">
+<!ENTITY pref_scroll_title_bar2 "Nettlesing i fullskjerm">
 <!ENTITY pref_scroll_title_bar_summary2 "Gøym &brandShortName;-verktøylinja ved rulling ned ei side">
 
 <!ENTITY pref_tab_queue_title3 "Fane-kø">
@@ -612,7 +612,7 @@
 <!ENTITY home_closed_tabs_number "&formatD; faner">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_closed_tabs_one "1 fane">
-<!ENTITY home_most_recent_empty "Nettstad som du sist vitja vert vist her.">
+<!ENTITY home_most_recent_empty "Nettsider som du nyleg besøkte vil visast her.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: Om du brukar &formatS1;Ny privat fane&formatS2; vert historikken ikkje lagra.">
@@ -639,8 +639,8 @@
 
 <!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
     a site is pinned or unpinned. -->
-<!ENTITY home_pinned_site "Låst nettstad">
-<!ENTITY home_unpinned_site "Ulåst nettstad">
+<!ENTITY home_pinned_site "Festa nettside">
+<!ENTITY home_unpinned_site "Ikkje-festa nettside">
 
 <!ENTITY remote_tabs_panel_moved_title "Kvar forsvann fanene mine?">
 <!ENTITY remote_tabs_panel_moved_desc "Me har flytta fanene dine frå andre einingar til eit panel på startsida, som du enkelt kan få tilgang til kvar gong du opnar ei ny fane.">
@@ -695,7 +695,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_both "Importerer bokmerke og historikk frå Android">
 <!ENTITY bookmarkhistory_import_bookmarks "Importerer bokmerke frå Android">
 <!ENTITY bookmarkhistory_import_history "Importerer historikk frå Android">
-<!ENTITY bookmarkhistory_import_wait "Vent …">
+<!ENTITY bookmarkhistory_import_wait "Vent…">
 
 <!ENTITY suggestions_prompt3 "Vil du slå på søkjeforslag?">
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
@@ -719,7 +719,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_downloading_title2 "Lastar ned &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "Nedlasting feila">
-<!ENTITY updater_downloading_select2 "Trykk for å installera når ferdig nedlasta">
+<!ENTITY updater_downloading_select2 "Trykk for å installera etter ferdig nedlasting">
 <!ENTITY updater_downloading_retry2 "Trykk for å prøva på nytt">
 
 <!ENTITY updater_apply_title3 "Oppdatering er lasta ned for &brandShortName;">
@@ -738,7 +738,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "Hald fram">
 <!ENTITY guest_session_dialog_cancel "Avbryt">
 <!ENTITY new_guest_session_title "&brandShortName; vil starta på nytt no">
-<!ENTITY new_guest_session_text2 "Personen som brukar den vil ikkje kunne sjå dine personlige nettleserdata (som lagra innloggingar, historikk eller bokmerke).\n\nNår gjesten er ferdig, vert vedkomande sine nettlesardata sletta, og økta di vert gjenoppretta.">
+<!ENTITY new_guest_session_text2 "Personen som brukar den vil ikkje kunna sjå dei personlege nettleserdataa dine (som lagra innloggingar, historikk eller bokmerke).\n\nNår gjesten er ferdig, vert nettlesardataa til vedkomande sletta, og økta di vert gjenoppretta.">
 <!ENTITY guest_browsing_notification_title "Gjestenettlesing er slått på">
 <!ENTITY guest_browsing_notification_text "Trykk for å avslutta">
 
