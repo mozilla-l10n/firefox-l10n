@@ -3,12 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "Περί &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "Ο &brandShortName; είναι πειραματικός και ενδεχομένως ασταθής.">
-<!ENTITY aboutPage.telemetryStart               " Αποστέλλει αυτόματα πληροφορίες απόδοσης, υλικού συσκευής, χρήσης και εξατομίκευσης στο ">
-<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 " για να συμβάλλει στη βελτίωση του &brandShortName;.">
 <!ENTITY aboutPage.checkForUpdates.link         "Έλεγχος για ενημερώσεις »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Αναζήτηση για ενημερώσεις…">
-<!ENTITY aboutPage.checkForUpdates.none         "Δεν βρέθηκαν ενημερώσεις">
+<!ENTITY aboutPage.checkForUpdates.none         "Καμία διαθέσιμη ενημέρωση">
 <!ENTITY aboutPage.checkForUpdates.available2   "Λήψη ενημέρωσης">
 <!ENTITY aboutPage.checkForUpdates.downloading  "Γίνεται λήψη ενημέρωσης…">
 <!ENTITY aboutPage.checkForUpdates.downloaded2  "Εγκατάσταση ενημέρωσης">

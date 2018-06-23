@@ -7,7 +7,7 @@
 <!ENTITY firstrun_urlbar_subtext2 "Ένα σύγχρονο πρόγραμμα περιήγησης για κινητά από τη Mozilla, τον μη κερδοσκοπικό οργανισμό, που έχει αφοσιωθεί σε ένα ελεύθερο και ανοικτό διαδίκτυο.">
 <!ENTITY firstrun_panel_title_privacy "Απόρρητο">
 <!ENTITY firstrun_privacy_message "Περιηγηθείτε σαν να μην βλέπει κανείς">
-<!ENTITY firstrun_privacy_subtext "Η ιδιωτική περιήγηση με προστασία από παρακολούθηση αποκλείει ιχνηλάτες ενώ περιηγείστε και θα διαγράψει το ιστορικό σας όταν τελειώσετε με την περιήγηση.">
+<!ENTITY firstrun_privacy_subtext "Η ιδιωτική περιήγηση με προστασία από καταγραφή αποκλείει ιχνηλάτες ενώ περιηγείστε και θα διαγράψει το ιστορικό σας όταν τελειώσετε με την περιήγηση.">
 <!ENTITY firstrun_panel_title_customize "Προσαρμογή">
 <!ENTITY firstrun_customize_message "Κάντε το &brandShortName; δικό σας.">
 <!ENTITY firstrun_customize_subtext "Προσαρμόστε το &brandShortName; με πρόσθετα. Αποκλείστε διαφημίσεις, προσθέστε λειτουργίες ή επιλέξτε ένα νέο θέμα για να αναδείξετε την προσωπικότητά σας.">
@@ -281,13 +281,13 @@
 <!ENTITY pref_show_web_fonts "Εμφάνιση web γραμματοσειρών">
 <!ENTITY pref_show_web_fonts_summary2 "Λήψη απομακρυσμένων γραμματοσειρών κατά την φόρτωση σελίδων">
 
-<!ENTITY pref_tracking_protection_title2 "Προστασία δεδομένων περιήγησης">
-<!ENTITY pref_donottrack_title "Αποτροπή καταγραφής (Do Not Track)">
-<!ENTITY pref_donottrack_summary "Ο &brandShortName; θα γνωστοποιεί στις ιστοσελίδες ότι δεν επιθυμείτε την καταγραφή της συμπεριφοράς περιήγησης σας">
+<!ENTITY pref_tracking_protection_title2 "Προστασία από καταγραφή">
+<!ENTITY pref_donottrack_title "Αποτροπή καταγραφής">
+<!ENTITY pref_donottrack_summary "Το &brandShortName; θα γνωστοποιεί στις ιστοσελίδες ότι δεν επιθυμείτε να καταγραφείτε">
 
-<!ENTITY pref_tracking_protection_enabled "Ενεργοποιημένη">
+<!ENTITY pref_tracking_protection_enabled "Ενεργή">
 <!ENTITY pref_tracking_protection_enabled_pb "Μόνο στην ιδιωτική περιήγηση">
-<!ENTITY pref_tracking_protection_disabled "Απενεργοποιημένη">
+<!ENTITY pref_tracking_protection_disabled "Ανενεργή">
 
 <!ENTITY pref_whats_new_notification "Τί νέο υπάρχει στον &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Μάθετε για τα νέα χαρακτηριστικά από μια ενημέρωση">
@@ -319,10 +319,10 @@
 <!ENTITY pref_pwa "Προοδευτικές διαδικτυακές εφαρμογές">
 <!ENTITY pref_pwa_summary "Να επιτρέπεται η προσθήκη διαδικτυακών εφαρμογών στην αρχική οθόνη">
 
-<!ENTITY tracking_protection_prompt_title "Τώρα και με προστασία δεδομένων περιήγησης">
-<!ENTITY tracking_protection_prompt_text "Ενεργή φραγή της καταγραφής δεδομένων περιήγησης έτσι ώστε να μην χρειάζεται να ανησυχείτε.">
+<!ENTITY tracking_protection_prompt_title "Τώρα με προστασία από καταγραφή">
+<!ENTITY tracking_protection_prompt_text "Φραγή στοιχείων καταγραφής έτσι, ώστε να μην χρειάζεται να ανησυχείτε.">
 <!ENTITY tracking_protection_prompt_tip_text "Μεταβείτε στις ρυθμίσεις απορρήτου για να μάθετε περισσότερα">
-<!ENTITY tracking_protection_prompt_action_button "Το κατάλαβα!">
+<!ENTITY tracking_protection_prompt_action_button "Το \&apos;πιασα!">
 
 <!ENTITY tab_queue_toast_message3 "Η καρτέλα αποθηκεύτηκε στον &brandShortName;">
 <!ENTITY tab_queue_toast_action "Άνοιγμα τώρα">
@@ -678,8 +678,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Tracking content notifications in site identity popup -->
 <!ENTITY doorhanger_tracking_title2 "Προστασία από καταγραφή">
-<!ENTITY doorhanger_tracking_state_enabled "Ενεργοποιημένη">
-<!ENTITY doorhanger_tracking_state_disabled "Απενεργοποιημένη">
+<!ENTITY doorhanger_tracking_state_enabled "Ενεργή">
+<!ENTITY doorhanger_tracking_state_disabled "Ανενεργή">
 <!ENTITY doorhanger_tracking_message_enabled1 "Απετράπησαν προσπάθειες καταγραφής της συμπεριφοράς περιήγησης σας.">
 <!ENTITY doorhanger_tracking_message_disabled2 "Αυτή η σελίδα περιλαμβάνει στοιχεία που ενδέχεται να καταγράφουν την περιήγηση σας.">
 
@@ -875,8 +875,8 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "Αφαίρεση">
 <!ENTITY activity_stream_delete_history "Διαγραφή από ιστορικό">
 
-<!ENTITY private_tab_panel_title "Ιδιωτική Περιήγηση + Προστασία Παρακολούθησης">
-<!ENTITY private_tab_panel_description "Ο &brandShortName; αποκλείει τμήματα των σελίδων τα οποία ενδέχεται να καταγράφουν την περιήγηση σας.">
+<!ENTITY private_tab_panel_title "Ιδιωτική περιήγηση + Προστασία από καταγραφή">
+<!ENTITY private_tab_panel_description "Το &brandShortName; αποκλείει τμήματα σελίδων που ενδέχεται να καταγράφουν την περιήγηση σας.">
 <!ENTITY private_tab_panel_description2 "Δεν θα διατηρείται το ιστορικό, ωστόσο τα ληφθέντα αρχεία και οι νέοι σελιδοδείκτες θα αποθηκεύονται στη συσκευή σας.">
 <!ENTITY private_tab_learn_more "Θέλετε να μάθετε περισσότερα;">
 
