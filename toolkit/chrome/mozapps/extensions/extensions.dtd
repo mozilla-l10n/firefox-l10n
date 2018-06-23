@@ -3,11 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "Διαχείριση προσθέτων">
 
-<!ENTITY search.placeholder                   "Αναζήτηση σε όλα τα πρόσθετα">
-
 <!ENTITY search.placeholder2                  "Αναζήτηση στο addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Αναζήτηση">
-<!-- LOCALIZATION NOTE (search.commandKey):
+<!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
@@ -16,7 +14,6 @@
 <!ENTITY listEmpty.availableUpdates.label     "Δεν βρέθηκαν ενημερώσεις">
 <!ENTITY listEmpty.recentUpdates.label        "Δεν έχετε ενημερώσει πρόσφατα κάποιο από τα πρόσθετα σας">
 <!ENTITY listEmpty.findUpdates.label          "Έλεγχος για ενημερώσεις">
-<!ENTITY listEmpty.search.label               "Αδυναμία εύρεσης προσθέτων που να ταιριάζουν">
 <!ENTITY listEmpty.button.label               "Μάθετε περισσότερα για τα πρόσθετα">
 <!ENTITY installAddonFromFile.label           "Εγκατάσταση πρόσθετου από αρχείο…">
 <!ENTITY installAddonFromFile.accesskey       "γ">
@@ -24,9 +21,6 @@
 
 <!ENTITY getThemes.description                "Ψάχνετε για εξατομίκευση του προγράμματος περιήγησής σας;">
 <!ENTITY getThemes.learnMore                  "Επιλέξτε από χιλιάδες θεμάτων.">
-
-<!ENTITY cmd.back.tooltip                     "Μετάβαση πίσω μια σελίδα">
-<!ENTITY cmd.forward.tooltip                  "Μετάβαση μπροστά μια σελίδα">
 
 
 <!ENTITY showUnsignedExtensions.button.label  "Δεν ήταν δυνατή η επαλήθευση ορισμένων πρόσθετων">
@@ -44,7 +38,6 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "Ενεργοποίηση ελέγχου ασφαλείας ενημερώσεων προσθέτων">
 
 <!-- categories / views -->
-<!ENTITY view.search.label                    "Αναζήτηση">
 <!ENTITY view.discover.label                  "Λήψη προσθέτων">
 <!ENTITY view.recentUpdates.label             "Πρόσφατες ενημερώσεις">
 <!ENTITY view.availableUpdates.label          "Διαθέσιμες ενημερώσεις">
@@ -87,8 +80,6 @@
 <!ENTITY cmd.preferencesWin.accesskey         "λ">
 <!ENTITY cmd.preferencesUnix.label            "Προτιμήσεις">
 <!ENTITY cmd.preferencesUnix.accesskey        "Π">
-<!ENTITY cmd.about.label                      "Πληροφορίες">
-<!ENTITY cmd.about.accesskey                  "ε">
 
 <!ENTITY cmd.enableAddon.label                "Ενεργοποίηση">
 <!ENTITY cmd.enableAddon.accesskey            "Ε">
@@ -138,7 +129,6 @@
 <!ENTITY detail.lastupdated.label             "Τελευταία ενημέρωση">
 <!ENTITY detail.creator.label                 "Προγραμματιστής">
 <!ENTITY detail.homepage.label                "Αρχική σελίδα">
-<!ENTITY detail.numberOfDownloads.label       "Αριθμός λήψεων">
 
 <!ENTITY detail.contributions.description     "Ο προγραμματιστής αυτού του προσθέτου σας ζητάει να βοηθήσετε να συνεχίζει την ανάπτυξη του με μια μικρή συνεισφορά.">
 
@@ -170,23 +160,6 @@
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Παύση">
 <!ENTITY progress.cancel.tooltip              "Ακύρωση">
-
-
-<!-- list sorting -->
-<!ENTITY sort.name.label                      "Όνομα">
-<!ENTITY sort.name.tooltip                    "Ταξινόμηση κατά όνομα">
-<!ENTITY sort.dateUpdated.label               "Τελευταία ενημέρωση">
-<!ENTITY sort.dateUpdated.tooltip             "Ταξινόμηση κατά ημερομηνία ενημέρωσης">
-<!ENTITY sort.relevance.label                 "Καλύτερο ταίριασμα">
-<!ENTITY sort.relevance.tooltip               "Ταξινόμηση βάσει συνάφειας">
-<!ENTITY sort.price.label                     "Τιμή">
-<!ENTITY sort.price.tooltip                   "Ταξινόμηση κατά τιμή">
-
-<!ENTITY search.filter2.label                 "Αναζήτηση:">
-<!ENTITY search.filter2.installed.label       "Τα πρόσθετα μου">
-<!ENTITY search.filter2.installed.tooltip     "Προβολή εγκατεστημένων προσθέτων">
-<!ENTITY search.filter2.available.label       "Διαθέσιμα πρόσθετα">
-<!ENTITY search.filter2.available.tooltip     "Προβολή διαθέσιμων πρόσθετων για εγκατάσταση">
 
 <!ENTITY addon.homepage                       "Αρχική σελίδα">
 <!ENTITY addon.details.label                  "Περισσότερα">
@@ -229,17 +202,6 @@
 <!ENTITY eula.accept                          "Αποδοχή και Εγκατάσταση…">
 
 <!ENTITY settings.path.button.label           "Περιήγηση…">
-
-<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
-     experiments are present on the "Experiments" tab of the add-ons manager.
-     This tab won't be displayed unless an Experiment add-on is installed.
-     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
-     to cause this tab to appear. -->
-<!ENTITY experiment.info.label "Τι είναι αυτό; Η Τηλεμετρία μπορεί να εγκαθιστά και να τρέχει περιοδικά πειράματα.">
-<!ENTITY experiment.info.learnmore "Μάθετε περισσότερα">
-<!ENTITY experiment.info.learnmore.accesskey "μ">
-<!ENTITY experiment.info.changetelemetry "Ρυθμίσεις Τηλεμετρίας">
-<!ENTITY experiment.info.changetelemetry.accesskey "η">
 
 <!ENTITY setting.learnmore "Μάθετε περισσότερα…">
 
