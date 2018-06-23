@@ -40,17 +40,17 @@
 <!ENTITY PrimaryEmail.accesskey         "ე">
 <!ENTITY SecondEmail.label              "დამატებითი ელფოსტა:">
 <!ENTITY SecondEmail.accesskey          "დ">
-<!ENTITY PreferMailFormat.label         "წერილების მიღებისას, სასურველია ტექსტი იყოს:">
-<!ENTITY PreferMailFormat.accesskey     "ღ">
-<!ENTITY PlainText.label                "ჩვეულებრივი სახით">
-<!ENTITY HTML.label                     "HTML სახით">
-<!ENTITY Unknown.label                  "უცნობი სახით">
+<!ENTITY PreferMailFormat.label         "წერილების მიღებას ამჯობინებს შემდეგი სახით:">
+<!ENTITY PreferMailFormat.accesskey     "ჯ">
+<!ENTITY PlainText.label                "ტექსტური">
+<!ENTITY HTML.label                     "HTML">
+<!ENTITY Unknown.label                  "უცნობი">
 <!ENTITY chatName.label                 "სახელი სასაუბროსთვის:">
 
 <!ENTITY WorkPhone.label                "სამსახური:">
 <!ENTITY WorkPhone.accesskey            "მ">
-<!ENTITY HomePhone.label                "სახლი:">
-<!ENTITY HomePhone.accesskey            "ხ">
+<!ENTITY HomePhone.label                "ბინა:">
+<!ENTITY HomePhone.accesskey            "ბ">
 <!ENTITY FaxNumber.label                "ფაქსი:">
 <!ENTITY FaxNumber.accesskey            "ქ">
 <!ENTITY PagerNumber.label              "პეიჯერი:">
@@ -77,21 +77,21 @@
 <!ENTITY Birthday.label                 "დაბადების დღე:">
 <!ENTITY Birthday.accesskey             "ბ">
 <!ENTITY In.label                       "">
-<!ENTITY Year.placeholder               "წელიწადი">
+<!ENTITY Year.placeholder               "წელი">
 <!ENTITY Or.value                       "ან">
 <!ENTITY Age.placeholder                "ასაკი">
 <!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "სამუშაო">
-<!ENTITY Work.accesskey                 "მ">
-<!ENTITY JobTitle.label                 "დასახელება:">
-<!ENTITY JobTitle.accesskey             "ხ">
+<!ENTITY Work.accesskey                 "ს">
+<!ENTITY JobTitle.label                 "თანამდებობა:">
+<!ENTITY JobTitle.accesskey             "ნ">
 <!ENTITY Department.label               "განყოფილება:">
 <!ENTITY Department.accesskey           "ფ">
 <!ENTITY Company.label                  "ორგანიზაცია:">
 <!ENTITY Company.accesskey              "ო">
 <!ENTITY WorkAddress.label              "მისამართი:">
-<!ENTITY WorkAddress.accesskey          "ს">
+<!ENTITY WorkAddress.accesskey          "მ">
 <!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label                 "ქალაქი:">
@@ -144,11 +144,11 @@
 <!ENTITY GenericPhoto.label             "საერთო ფოტო">
 <!ENTITY GenericPhoto.accesskey         "თ">
 <!ENTITY DefaultPhoto.label             "ნაგულისხმევი">
-<!ENTITY PhotoFile.label                "ამ კომპიუტრში">
-<!ENTITY PhotoFile.accesskey            "მ">
+<!ENTITY PhotoFile.label                "ამ კომპიუტერიდან">
+<!ENTITY PhotoFile.accesskey            "კ">
 <!ENTITY BrowsePhoto.label              "ამორჩევა">
-<!ENTITY BrowsePhoto.accesskey          "რ">
-<!ENTITY PhotoURL.label                 "ინტერნეტში">
+<!ENTITY BrowsePhoto.accesskey          "ჩ">
+<!ENTITY PhotoURL.label                 "ინტერნეტიდან">
 <!ENTITY PhotoURL.accesskey             "ნ">
 <!ENTITY PhotoURL.placeholder           "ჩასვით ან აკრიფეთ ფოტოს ვებმისამართი">
 <!ENTITY UpdatePhoto.label              "განახლება">
