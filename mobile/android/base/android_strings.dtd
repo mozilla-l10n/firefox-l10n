@@ -478,7 +478,7 @@
 <!ENTITY new_tab "Ny fane">
 <!ENTITY new_private_tab "Ny privat fane">
 <!ENTITY close_all_tabs "Lat att alle faner">
-<!ENTITY close_private_tabs "Lat att private fane">
+<!ENTITY close_private_tabs "Lat att private faner">
 <!ENTITY tabs_normal "Faner">
 <!ENTITY tabs_private "Privat">
 <!ENTITY set_image_fail "Klarte ikkje å velja bilde">
@@ -499,13 +499,13 @@
 <!ENTITY media_pause "Pause">
 <!ENTITY media_stop "Stopp">
 
-<!ENTITY contextmenu_open_new_tab "Opne i ny fane">
-<!ENTITY contextmenu_open_private_tab "Opne i privat fane">
+<!ENTITY contextmenu_open_new_tab "Opna i ny fane">
+<!ENTITY contextmenu_open_private_tab "Opna i privat fane">
 <!ENTITY contextmenu_remove "Slett">
 <!ENTITY contextmenu_add_page_shortcut "Legg til snarveg">
 <!ENTITY contextmenu_set_as_homepage "Bruk som startside">
 <!ENTITY contextmenu_share "Del">
-<!ENTITY contextmenu_pasteandgo "Lim inn og opne">
+<!ENTITY contextmenu_pasteandgo "Lim inn og opna">
 <!ENTITY contextmenu_paste "Lim inn">
 <!ENTITY contextmenu_copyurl "Kopier adresse">
 <!ENTITY contextmenu_edit_bookmark "Rediger">
@@ -517,8 +517,8 @@
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
-<!ENTITY contextmenu_pin_to_top_sites "Fest til populære nettstadar">
-<!ENTITY contextmenu_unpin_from_top_sites "Løys frå populære nettstadar">
+<!ENTITY contextmenu_pin_to_top_sites "Fest til toppliste">
+<!ENTITY contextmenu_unpin_from_top_sites "Løys frå toppliste">
 <!ENTITY contextmenu_add_search_engine "Legg til ein søkjemotor">
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
