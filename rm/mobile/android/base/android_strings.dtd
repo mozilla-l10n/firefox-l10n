@@ -370,7 +370,7 @@
 <!ENTITY pref_use_system_font_size "Utilisar la grondezza da scrittira dal sistem">
 <!ENTITY pref_use_system_font_size_summary "Adattar il cuntegn da web a la grondezza da scrittira dal sistem">
 
-<!ENTITY pref_media_autoplay_enabled "Adina far ir automaticamain">
+<!ENTITY pref_media_autoplay_enabled "Permetter da far ir automaticamain">
 <!ENTITY pref_media_autoplay_enabled_summary "Definescha sche paginas pon far ir automaticamain videos ed auter cuntegn multimedial">
 <!ENTITY pref_zoom_force_enabled "Adina activar il zoom">
 <!ENTITY pref_zoom_force_enabled_summary "Surscriver las valurs da la pagina per pudair engrondir mintga pagina">
