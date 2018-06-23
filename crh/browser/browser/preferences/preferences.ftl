@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -137,20 +129,11 @@ is-not-default = { -brand-short-name } ögbelgilengen keziciñiz degildir
 set-as-my-default-browser =
     .label = Ögbelgilengen Yap…
     .accesskey = a
-startup-page = { -brand-short-name } açılğanında
-    .accesskey = a
-startup-user-homepage =
-    .label = Ev saifemni köster
-startup-blank-page =
-    .label = Boş bir saife köster
-startup-prev-session =
-    .label = Soñ oturımdaki pencereler ve ilmeklerni köster
 startup-restore-previous-session =
     .label = Evvelki oturımnı keri tikle
     .accesskey = E
 disable-extension =
     .label = Uzantını naqabilleştir
-home-page-header = Ev Saifesi
 tabs-group-header = İlmekler
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab, ilmekler arasında yaqınlarda qullanılğanları sıra ile dolaşır
@@ -270,7 +253,6 @@ play-drm-content =
 play-drm-content-learn-more = Daa çoq ögren
 update-application-title = { -brand-short-name } Yañartmaları
 update-application-description = Eñ yahşı icraat, istiqrar ve emniyet içün { -brand-short-name } küncel tutulsın.
-update-application-info = Sürüm { $version } <a>Ne bar ne yoq?</a>
 update-application-version = Sürüm{ $version } <a data-l10n-name="learn-more">Ne bar ne yoq</a>
 update-history =
     .label = Yañartma keçmişini köster…
@@ -306,7 +288,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Muhteva süreci haddi
     .accesskey = H
 performance-limit-content-process-enabled-desc = Ek muhteva süreçleri müteaddit ilmekni qullanğanda icraatnı yahşılaştırabilir, amma daa çoq hafiza da qullanacaq.
-performance-limit-content-process-disabled-desc = Muhteva süreçleri sayısını deñiştirmek faqat çoqsüreçli { -brand-short-name } ile mümkündir. <a>Çoqsüreçniñ qabilleştirilgen olıp olmağanınıñ nasıl teşkerilebilgenini ögreniñiz</a>
 performance-limit-content-process-blocked-desc = Muhteva süreçleri sayısınıñ başqalaştırılması ancaq çoq-süreçli { -brand-short-name } ile mümkündir. <a data-l10n-name="learn-more">Çoqlu-süreçniñ qabilleştirilgen olıp olmağanınıñ nasıl teşkerilgenini ögreniñiz</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -377,9 +358,6 @@ use-current-pages =
 choose-bookmark =
     .label = Saifeimi qullan…
     .accesskey = m
-restore-default =
-    .label = Ögbelgilemege keri tikle
-    .accesskey = r
 
 ## Search Section
 
@@ -579,6 +557,9 @@ history-private-browsing-permanent =
 history-remember-option =
     .label = Gezinti ve indirme geçmişimi hatırla
     .accesskey = h
+history-remember-browser-option =
+    .label = Kezinti ve endirme keçmişini hatırla
+    .accesskey = T
 history-remember-search-option =
     .label = Arama ve form geçmişini hatırla
     .accesskey = f
@@ -694,6 +675,12 @@ permissions-notification-link = Daha çoq ögren
 permissions-notification-pause =
     .label = { -brand-short-name } kene başlatılğance tebliğlerni tınışla
     .accesskey = b
+permissions-block-autoplay-media =
+    .label = ağ-saytlarınıñ sesli muhtevanı avtomatik olaraq oynatmasını blokla
+    .accesskey = o
+permissions-block-autoplay-media-exceptions =
+    .label = İstisnalar…
+    .accesskey = s
 permissions-block-popups =
     .label = Peyda pencerelerni blokla
     .accesskey = b

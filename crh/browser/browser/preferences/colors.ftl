@@ -3,35 +3,35 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 colors-window =
-    .title = Tüsler
+    .title = Renkler
     .style =
         { PLATFORM() ->
-            [macos] width: 42em
-           *[other] width: 42em
+            [macos] width: 41em
+           *[other] width: 38em
         }
 colors-close-key =
     .key = w
-colors-page-override = Saife tarafından belirtilgen tüslerniñ üstünden yuqarıdaki saylamlarıñız ile ayda
-    .accesskey = d
+colors-page-override = Sayfada tanımlanan renkler yerine yukarıdaki tercihlerimi kullan
+    .accesskey = r
 colors-page-override-option-always =
     .label = Er zaman
 colors-page-override-option-auto =
-    .label = Faqat Yüksek Tezatlı Temalar ile
+    .label = Yalnızca yüksek karşıtlık temalarında
 colors-page-override-option-never =
     .label = Asla
-colors-text-and-background = Metin ve Arqazemin
+colors-text-and-background = Metin ve arka plan
 colors-text-header = Metin
     .accesskey = M
-colors-background = Arqa-zemin
+colors-background = Arka plan
     .accesskey = A
 colors-use-system =
-    .label = Sistem tüslerini qullan
+    .label = Sistem renklerini kullan
     .accesskey = S
 colors-underline-links =
-    .label = İlişimlerni alt-sızıqla
-    .accesskey = t
-colors-links-header = İlişim Tüsleri
-colors-unvisited-links = Ziyaret Etilmegen İlişimler
-    .accesskey = m
-colors-visited-links = Ziyaret Etilgen İlişimler
+    .label = Bağlantıların altını çiz
+    .accesskey = B
+colors-links-header = Bağlantı renkleri
+colors-unvisited-links = Ziyaret edilmemiş bağlantılar
     .accesskey = Z
+colors-visited-links = Ziyaret edilmiş bağlantılar
+    .accesskey = a

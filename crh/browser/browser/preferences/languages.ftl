@@ -9,7 +9,7 @@ languages-close-key =
     .key = w
 languages-description = Ağ saifeleri bazan birden çoq tilde teklif etilir. Bu ağ saifelerini köstermek içün tillerni saylañız, tercih sırasında:
 languages-customize-spoof-english =
-    .label = Yükseltilgen hususiyat içün ağ saifeleriniñ İnglizce sürümlerini istemle
+    .label = Yükseltilgen hususiyat içün ağ saifeleriniñ İnglizce sürümlerini rica et
 languages-customize-moveup =
     .label = Yuqarığa
     .accesskey = Y
@@ -35,4 +35,4 @@ languages-customize-add =
 #   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
 #   $code (String) - Locale code of the locale (for example: "is", "es-CL")
 languages-code-format =
-    .label = { $locale }  [{ $code }]
+    .label = { $locale } [{ $code }]
