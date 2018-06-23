@@ -2,22 +2,25 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY prefWindow.titleWin     "Valikud">
-<!ENTITY prefWindow.titleGNOME   "&brandShortName;i eelistused">
-<!ENTITY  prefWindow.titleMAC    "Eelistused">
-<!ENTITY prefWindow.styleWindows "width: 49em; min-height: 38.5em;">
-<!ENTITY prefWindow.styleMac     "width: 49em;">
-<!ENTITY prefWindow.styleGNOME   "width: 49em; min-height: 40em;">
+<!ENTITY  preferencesDefaultTitleMac.title "Eelistused">
+<!ENTITY  preferencesDefaultTitleWin.title "Sätted">
 
-<!ENTITY paneGeneral.title       "Üldine">
-<!ENTITY paneDisplay.title       "Kuvamine">
-<!ENTITY paneComposition.title   "Koostamine">
-<!ENTITY paneChat.title          "Kiirsuhtlus">
-<!ENTITY paneAttachments.title   "Manused">
-<!ENTITY panePrivacy.title       "Privaatsus">
-<!ENTITY paneSecurity.title      "Turvalisus">
-<!ENTITY paneAdvanced.title      "Muud">
-<!ENTITY paneAccount.title       "Kontod">
+<!ENTITY  prefWindow.titleWin     "Valikud">
+<!ENTITY  prefWindow.titleGNOME   "&brandShortName;i eelistused">
+<!ENTITY  prefWindow.titleMAC     "Eelistused">
+<!ENTITY  prefWindow.styleWindows "width: 49em; min-height: 38.5em;">
+<!ENTITY  prefWindow.styleMac     "width: 49em;">
+<!ENTITY  prefWindow.styleGNOME   "width: 49em; min-height: 40em;">
 
-<!ENTITY okButton.title          "Sobib">
-<!ENTITY okButton.accesskey      "S">
+<!ENTITY paneGeneral.title        "Üldine">
+<!ENTITY paneDisplay.title        "Kuvamine">
+<!ENTITY paneComposition.title    "Koostamine">
+<!ENTITY paneChat.title           "Kiirsuhtlus">
+<!ENTITY paneAttachments.title    "Manused">
+<!ENTITY panePrivacy.title        "Privaatsus">
+<!ENTITY paneSecurity.title       "Turvalisus">
+<!ENTITY paneAdvanced.title       "Muud">
+<!ENTITY paneAccount.title        "Kontod">
+
+<!ENTITY okButton.title           "Sobib">
+<!ENTITY okButton.accesskey       "S">
