@@ -62,7 +62,7 @@
 <!ENTITY sendUnsentCmd.label "გასაგზავნი წერილების გაგზავნა">
 <!ENTITY sendUnsentCmd.accesskey "ს">
 <!ENTITY subscribeCmd.label "გამოწერა…">
-<!ENTITY subscribeCmd.accesskey "ლ">
+<!ENTITY subscribeCmd.accesskey "მ">
 <!ENTITY deleteFolder.label "საქაღალდის წაშლა">
 <!ENTITY deleteFolder.accesskey "ღ">
 <!ENTITY renameFolder.label "საქაღალდის გადარქმევა…">
@@ -219,15 +219,15 @@
 <!ENTITY groupBySort.accesskey "ჯ">
 <!ENTITY msgsMenu.label "წერილები">
 <!ENTITY msgsMenu.accesskey "წ">
-<!ENTITY threads.label "საქაღალდეები">
-<!ENTITY threads.accesskey "e">
+<!ENTITY threads.label "საუბრები">
+<!ENTITY threads.accesskey "ე">
 <!ENTITY allMsgsCmd.label "ყველა">
 <!ENTITY allMsgsCmd.accesskey "ყ">
-<!ENTITY expandAllThreadsCmd.label "ყველა საქაღალდის გახსნა">
+<!ENTITY expandAllThreadsCmd.label "ყველა საუბრის ჩამოშლა">
 <!ENTITY expandAllThreadsCmd.accesskey "E">
 <!ENTITY expandAllThreadsCmd.key "*">
-<!ENTITY collapseAllThreadsCmd.label "ყველა საქაღალდის შეკუმშვა">
-<!ENTITY collapseAllThreadsCmd.accesskey "C">
+<!ENTITY collapseAllThreadsCmd.label "ყველა საუბრის აკეცვა">
+<!ENTITY collapseAllThreadsCmd.accesskey "ც">
 <!ENTITY collapseAllThreadsCmd.key "\">
 <!ENTITY unreadMsgsCmd.label "წასაკითხი">
 <!ENTITY unreadMsgsCmd.accesskey "U">
