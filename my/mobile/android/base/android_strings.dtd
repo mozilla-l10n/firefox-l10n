@@ -70,6 +70,15 @@
 
 <!ENTITY url_bar_default_text2 "ရှာဖွေ (သို့) လိပ်စာ ထည့်သွင်းပါ">
 
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "ရှာဖွေရန် QR ကုဒ်ဖတ်စက်ကို သုံးပါ သို့မဟုတ် လိပ်စာကို ရိုက်ပါ">
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "ရှာဖွေရန် မိုက္ကရိုဖုန်းကို သုံးပါ သို့မဟုတ် လိပ်စာကို ရိုက်ပါ">
+
 <!ENTITY bookmark "စာမှတ်">
 <!ENTITY bookmark_remove "စာမှတ်ကို ဖျက်ရန်">
 <!ENTITY bookmark_added "စာမှတ် မှတ်ပြီး">
@@ -103,7 +112,7 @@
 <!ENTITY reader_switch_to_bookmarks "လှည့်ပြောင်းရန်">
 
 <!ENTITY history_today_section "ဒီနေ့">
-<!ENTITY history_yesterday_section "မနေ့">
+<!ENTITY history_yesterday_section "မနေ့က">
 <!ENTITY history_week_section3 "လွန်ခဲ့သော ၇ ရက်က">
 <!ENTITY history_older_section3 "၆ လထက် ပို၍ ဟောင်းနွမ်းနေပြီ">
 
@@ -207,6 +216,7 @@
 <!ENTITY pref_category_advanced_summary3 "တပ်ဗ်များ၊ ဒေတာချွေတာစနစ်၊ ဖန်တီးသူများသုံး ကိရိယာများကို ပြန်လည်ထုတ်သုံးပါ">
 <!ENTITY pref_category_notifications "အသိပေးချက်များ">
 <!ENTITY pref_category_notifications_summary "စွမ်းဆောင်ချက်အသစ်များ၊ ဝဘ်ဆိုက် မြှင့်တင်မှုများ">
+<!ENTITY pref_category_notifications_summary2 "စွမ်းဆောင်ရည်အသစ်များ၊ ထုတ်ကုန် အသုံးပြုနည်းများ">
 <!ENTITY pref_developer_remotedebugging_usb "USB မှတဆင့် Remote debugging">
 <!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi မှတဆင့် Remote debugging">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi debugging ကို ဆောင်ရွက်မည်ဆိုလျှင် သင့်ကိရိယာတွင် QR ကုဒ်ဖတ်အက်ပ် ထည့်သွင်းထားရန် လိုသည်။">
@@ -281,6 +291,13 @@
 
 <!ENTITY pref_whats_new_notification "&brandShortName; တွင် ဘာအသစ်တွေ ပါလဲ။">
 <!ENTITY pref_whats_new_notification_summary "မြှင့်တင်မှု ဆောင်ရွက်ပြီးပါက စွမ်းဆောင်ရည်အသစ်များအကြောင်း ပိုမိုလေ့လာပါ">
+
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!ENTITY pref_feature_tips_notification "ထုတ်ကုန်နှင့် လုပ်ဆောင်ချက် အသုံးပြုပုံများ">
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+<!ENTITY pref_feature_tips_notification_summary "&brandShortName; နှင့် အခြား &vendorShortName; ထုတ်ကုန်များ အသုံးပြုခြင်းအကြောင်း ပိုမိုလေ့လာပါ">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
@@ -536,7 +553,7 @@
 <!ENTITY pref_compact_tabs_summary2 "ဒေါင်လိုက်ပုံစံတွင် တပ်ဗ်များကို အတိုင်နှစ်တိုင်ပုံစံ စီစဉ်ပါ">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
-     any page is removed frome about:home. This includes pages that are in history,
+     any page is removed from about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "စာမျက်နှာကို ဖယ်ရှားပြီး">
 <!ENTITY folder_removed "စာတွဲကို ဖယ်ရှားပြီးပြီ">
@@ -751,7 +768,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "နောက်ဆုံးချိတ်ခဲ့ချိန်- &formatS;">
-<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!-- Localization note: Used when the sync has not happened yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "နောက်ဆုံး ထပ်တူပြုသည့်အချိန် : မရှိပါ">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
