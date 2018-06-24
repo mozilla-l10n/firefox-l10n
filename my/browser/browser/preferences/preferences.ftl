@@ -661,8 +661,20 @@ permissions-a11y-privacy-link = ပိုမိုလေ့လာရန်
 
 collection-header = { -brand-short-name } ချက်လက်စုစည်းမှုနှင့်အသုံးပြုမှု
 collection-privacy-notice = ကိုယ်ရေးကာကွယ်မှု အသိပေးချက်
+collection-health-report =
+    .label = { -vendor-short-name } သို့နည်းပညာဆိုင်ရာချက်လက်များပို့ရန်{ -brand-short-name } ကို ခွင့်ပြုပါ
+    .accesskey = r
 collection-health-report-link = ပိုမိုလေ့လာရန်
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = တည်ဆောက်မှုဆိုင်ရာ ယခုအပြင်အဆင်အတွက် အချက်အလက်အစီရင်ခံခြင်းကို ပိတ်ထားသည်
+collection-browser-errors =
+    .label = { -vendor-short-name } သို့ပျက်စီးမှုအစီရင်ခံစာမျးပို့ရန်{ -brand-short-name } ကို ခွင့်ပြုပါ
+    .accesskey = b
 collection-browser-errors-link = ပိုမိုလေ့လာရန်
+collection-backlogged-crash-reports =
+    .label = မတင်ပို့ရသေးသော ပျက်စီးမှုအစီရင်ခံစာများကို ကိုယ်စားပေးပို့ရန် { -brand-short-name } ကို ခွင့်ပေးပါ။
+    .accesskey = c
 collection-backlogged-crash-reports-link = ပိုမိုလေ့လာရန်
 
 ## Privacy Section - Security
@@ -671,6 +683,7 @@ collection-backlogged-crash-reports-link = ပိုမိုလေ့လာရ�
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = လုံခြုံရေး
+security-browsing-protection = အချက်အလက်အတုနှင့် အန္တရာယ်ရှိသော ဆော့ဖ်ဝဲ ကာကွယ်မှု
 security-enable-safe-browsing =
     .label = အန္တရာယ်ရှိသည့် အကြောင်းအရာတုများကို တားဆီးပါ
     .accesskey = B
