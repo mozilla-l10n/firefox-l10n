@@ -182,51 +182,51 @@
 <!ENTITY threads.accesskey "ბ">
 <!ENTITY allMsgsCmd.label "ყველა">
 <!ENTITY allMsgsCmd.accesskey "A">
-<!ENTITY expandAllThreadsCmd.label "ყველა საქაღალდის ჩამოშლა">
-<!ENTITY expandAllThreadsCmd.accesskey "E">
+<!ENTITY expandAllThreadsCmd.label "ყველა საუბრის ჩამოშლა">
+<!ENTITY expandAllThreadsCmd.accesskey "ჩ">
 <!ENTITY expandAllThreadsCmd.key "*">
-<!ENTITY collapseAllThreadsCmd.label "ყველა საქაღალდის აკეცვა">
-<!ENTITY collapseAllThreadsCmd.accesskey "C">
+<!ENTITY collapseAllThreadsCmd.label "ყველა საუბრის აკეცვა">
+<!ENTITY collapseAllThreadsCmd.accesskey "ც">
 <!ENTITY collapseAllThreadsCmd.key "\">
 <!ENTITY unreadMsgsCmd.label "წასაკითხი">
-<!ENTITY unreadMsgsCmd.accesskey "U">
-<!ENTITY threadsWithUnreadCmd.label "საქაღალდეები წასაკითხებით">
-<!ENTITY threadsWithUnreadCmd.accesskey "T">
-<!ENTITY watchedThreadsWithUnreadCmd.label "წასაკითხი საქაღალდეების თვალის მიდევნება">
-<!ENTITY watchedThreadsWithUnreadCmd.accesskey "W">
-<!ENTITY ignoredThreadsCmd.label "იგნორირებული საქაღალდეები">
-<!ENTITY ignoredThreadsCmd.accesskey "i">
+<!ENTITY unreadMsgsCmd.accesskey "წ">
+<!ENTITY threadsWithUnreadCmd.label "საუბრები წასაკითხებით">
+<!ENTITY threadsWithUnreadCmd.accesskey "ს">
+<!ENTITY watchedThreadsWithUnreadCmd.label "წასაკითხი საუბრებისთვის თვალის მიდევნება">
+<!ENTITY watchedThreadsWithUnreadCmd.accesskey "ვ">
+<!ENTITY ignoredThreadsCmd.label "უგულებელყოფილი საუბრები">
+<!ENTITY ignoredThreadsCmd.accesskey "უ">
 
 <!ENTITY headersMenu.label "თავსართები">
-<!ENTITY headersMenu.accesskey "H">
+<!ENTITY headersMenu.accesskey "ს">
 <!ENTITY headersAllCmd.label "ყველა">
-<!ENTITY headersAllCmd.accesskey "A">
+<!ENTITY headersAllCmd.accesskey "ყ">
 <!ENTITY headersNormalCmd.label "ჩვეულებრივი">
-<!ENTITY headersNormalCmd.accesskey "N">
+<!ENTITY headersNormalCmd.accesskey "ჩ">
 <!ENTITY bodyMenu.label "წერილის შიგთავსი">
-<!ENTITY bodyMenu.accesskey "B">
+<!ENTITY bodyMenu.accesskey "შ">
 <!ENTITY bodyAllowHTML.label "საწყისი HTML">
 <!ENTITY bodyAllowHTML.accesskey "H">
 <!ENTITY bodySanitized.label "მარტივი HTML">
-<!ENTITY bodySanitized.accesskey "S">
+<!ENTITY bodySanitized.accesskey "მ">
 <!ENTITY bodyAsPlaintext.label "ტექსტი">
-<!ENTITY bodyAsPlaintext.accesskey "P">
+<!ENTITY bodyAsPlaintext.accesskey "ტ">
 <!ENTITY bodyAllParts.label "სრული შიგთავსი">
-<!ENTITY bodyAllParts.accesskey "A">
+<!ENTITY bodyAllParts.accesskey "რ">
 
 <!ENTITY bodyMenuFeed.label "არხის წერილის წარმოდგენა როგორც">
-<!ENTITY bodyMenuFeed.accesskey "B">
-<!ENTITY viewFeedWebPage.label "ვებ გვერდი">
-<!ENTITY viewFeedWebPage.accesskey "W">
-<!ENTITY viewFeedSummary.label "რეზიუმე">
-<!ENTITY viewFeedSummary.accesskey "m">
+<!ENTITY bodyMenuFeed.accesskey "ხ">
+<!ENTITY viewFeedWebPage.label "ვებგვერდი">
+<!ENTITY viewFeedWebPage.accesskey "ვ">
+<!ENTITY viewFeedSummary.label "შეჯამება">
+<!ENTITY viewFeedSummary.accesskey "ჯ">
 <!ENTITY viewFeedSummaryFeedPropsPref.label "ნაგულისხმები ფორმატი">
-<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "D">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "ნ">
 
 <!ENTITY viewAttachmentsInlineCmd.label "დანართების წერილშივე ჩვენება">
-<!ENTITY viewAttachmentsInlineCmd.accesskey "A">
+<!ENTITY viewAttachmentsInlineCmd.accesskey "დ">
 <!ENTITY reloadCmd.label "განახლება">
-<!ENTITY reloadCmd.accesskey "R">
+<!ENTITY reloadCmd.accesskey "გ">
 <!ENTITY stopCmd.label "შეჩერება">
 <!ENTITY stopCmd.accesskey "S">
 <!ENTITY pageSourceCmd.label "წერილის პირველწყარო">
