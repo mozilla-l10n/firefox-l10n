@@ -20,7 +20,7 @@
 <!ENTITY toolsMenu.tooltip                    "Εργαλεία για όλα τα πρόσθετα">
 
 <!ENTITY getThemes.description                "Ψάχνετε για εξατομίκευση του προγράμματος περιήγησής σας;">
-<!ENTITY getThemes.learnMore                  "Επιλέξτε από χιλιάδες θεμάτων.">
+<!ENTITY getThemes.learnMore                  "Επιλέξτε ανάμεσα σε χιλιάδες θέματα.">
 
 
 <!ENTITY showUnsignedExtensions.button.label  "Δεν ήταν δυνατή η επαλήθευση ορισμένων πρόσθετων">
