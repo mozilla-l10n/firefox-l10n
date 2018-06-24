@@ -565,7 +565,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageCmd.label           "სურათის ნახვა">
 <!ENTITY viewImageCmd.accesskey       "ს">
 <!ENTITY viewImageInfoCmd.label       "სურათის მონაცემები">
-<!ENTITY viewImageInfoCmd.accesskey   "ხ">
+<!ENTITY viewImageInfoCmd.accesskey   "მ">
 <!ENTITY viewImageDescCmd.label       "აღწერილობის ნახვა">
 <!ENTITY viewImageDescCmd.accesskey   "ა">
 <!ENTITY viewVideoCmd.label           "ვიდეოს ნახვა">
