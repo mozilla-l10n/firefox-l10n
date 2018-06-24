@@ -910,6 +910,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.notDetected3 "ไม่พบองค์ประกอบที่มีการติดตามในหน้านี้">
 <!ENTITY trackingProtection.detectedNotBlocked4 "ตรวจพบตัวติดตามในหน้าเว็บนี้">
 <!ENTITY trackingProtection.notDetected4 "ไม่พบตัวติดตามในหน้านี้">
+<!ENTITY trackingProtection.reloadRequired "คุณได้เปิดใช้งานการป้องกันการติดตาม เพื่อปิดกั้นตัวติดตามทั้งหมด โปรดโหลดหน้าเว็บปัจจุบันใหม่">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
