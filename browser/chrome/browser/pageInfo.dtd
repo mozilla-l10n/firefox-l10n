@@ -23,7 +23,7 @@
 <!ENTITY  generalReferrer       "Tilvisande URL:">
 <!ENTITY  generalSource         "Snøgglagerkjelde:">
 <!ENTITY  generalModified       "Sist endra:">
-<!ENTITY  generalEncoding2      "Tekstkoding:">
+<!ENTITY  generalEncoding2      "Teiknkoding:">
 <!ENTITY  generalMetaName       "Namn">
 <!ENTITY  generalMetaContent    "Innhald">
 
@@ -46,19 +46,10 @@
 
 <!ENTITY  feedTab               "RSS-kjelder">
 <!ENTITY  feedTab.accesskey     "R">
-<!ENTITY  feedSubscribe         "Abonner">
-<!ENTITY  feedSubscribe.accesskey "A">
 
 <!ENTITY  permTab               "Løyve">
 <!ENTITY  permTab.accesskey     "L">
-<!ENTITY  permUseDefault        "Bruk standard">
-<!ENTITY  permAskAlways         "Spør alltid">
-<!ENTITY  permAllow             "Tillat">
-<!ENTITY  permAllowSession      "Tillat for programøkta">
-<!ENTITY  permHide              "Gøym">
-<!ENTITY  permBlock             "Blokker">
 <!ENTITY  permissionsFor        "Løyve for:">
-<!ENTITY  permPlugins           "Slå på programtillegg">
 
 <!ENTITY  securityTab           "Sikkerheit">
 <!ENTITY  securityTab.accesskey "S">
@@ -75,9 +66,6 @@
 
 <!ENTITY  securityView.privacy.header                   "Personvern og historikk">
 <!ENTITY  securityView.privacy.history                  "Har eg besøkt denne nettstaden tidlegare?">
-<!ENTITY  securityView.privacy.cookies                  "Lagrar denne nettstaden informasjon (infokapslar) på datamaskina mi?">
-<!ENTITY  securityView.privacy.viewCookies              "Vis infokapslar">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "V">
 <!ENTITY  securityView.privacy.siteData                 "Lagrar denne nettstaden informasjon på datamaskina mi?">
 <!ENTITY  securityView.privacy.clearSiteData            "Fjern infokapslar og nettsidedata">
 <!ENTITY  securityView.privacy.clearSiteData.accessKey  "k">
