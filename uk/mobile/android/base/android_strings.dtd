@@ -412,7 +412,7 @@
 <!ENTITY pref_dialog_remove "Вилучити">
 <!ENTITY pref_dialog_activitystream_header_content "Додатковий вміст">
 <!ENTITY pref_dialog_activitystream_recentBookmarks "Недавно закладені">
-<!ENTITY pref_dialog_activitystream_visited "Відвідано">
+<!ENTITY pref_dialog_activitystream_visited "Відвідані">
 
 <!ENTITY pref_search_last_toast "Ви не можете вилучити чи вимкнути ваш останній засіб пошуку.">
 
