@@ -9,6 +9,7 @@
 <!-- Specific error messages -->
 
 
+<!ENTITY deniedPortAccess.longDesc "">
 
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
@@ -54,4 +55,5 @@ was trying to connect. -->
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
 
