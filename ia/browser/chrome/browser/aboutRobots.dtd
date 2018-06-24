@@ -12,11 +12,11 @@
 <!-- Movie: Logan's Run... Box (cybog): "Welcome Humans! I am ready for you." -->
 <!ENTITY robots.errorTitleText "Salute, humanos!">
 <!-- Movie: The Day The Earth Stood Still. Spoken by Klaatu. -->
-<!ENTITY robots.errorShortDescText "Nos ha venite pro visitar te in pace e con bon voler!">
+<!ENTITY robots.errorShortDescText "Nos ha venite pro visitar te in pace e con bon voluntate!">
 <!-- Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics -->
 <!ENTITY robots.errorLongDesc1 "Un robot non pote nocer un esser human o, per inaction, permitter que un esser human suffre damnos.">
 <!-- Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..." -->
-<!ENTITY robots.errorLongDesc2 "Le robots ha vidite cosas que vos, le humanos, non poterea creder.">
+<!ENTITY robots.errorLongDesc2 "Le robots ha vidite cosas que vos humanos non poterea creder.">
 <!-- Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots. -->
 <!ENTITY robots.errorLongDesc3 "Le robot es tu agradabile companion de plastico.">
 <!-- TV: Futurama. Bender's first line is "Bite my shiny metal ass." -->
