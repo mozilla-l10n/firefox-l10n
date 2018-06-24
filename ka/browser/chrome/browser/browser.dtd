@@ -768,12 +768,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionNotSecure "კავშირი დაუცველია">
 <!ENTITY identity.connectionFile "ეს გვერდი თქვენს კომპიუტერში ინახება.">
 <!ENTITY identity.connectionVerified2 "თქვენ საიმედოდ ხართ დაკავშირებული საიტთან, რომლის მფლობელიცაა:">
-<!ENTITY identity.connectionInternal "ეს &brandShortName;-ის უსაფრთხო გვერდია.">
+<!ENTITY identity.connectionInternal "ეს დაცული &brandShortName; გვერდია.">
 <!ENTITY identity.extensionPage "ეს გვერდი გახსნილია გაფართოების მიერ.">
 <!ENTITY identity.insecureLoginForms2 "ამ გვერდზე შეყვანილი ანგარიშის მონაცემები შესაძლოა მოიპარონ.">
 
 <!-- Strings for connection state warnings. -->
-<!ENTITY identity.activeBlocked "&brandShortName;-მა გვერდის დაუცველი ნაწილები შეზღუდა.">
+<!ENTITY identity.activeBlocked "&brandShortName; ზღუდავს გვერდის დაუცველ ნაწილებს.">
 <!ENTITY identity.passiveLoaded "ამ გვერდის გარკვეული ნაწილი დაუცველია (როგორიცაა სურათები).">
 <!ENTITY identity.activeLoaded "ამ გვერდზე დაცვა გამორთული გაქვთ.">
 <!ENTITY identity.weakEncryption "ეს გვერდი სუსტ დაშიფვრას იყენებს.">
@@ -783,10 +783,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecureLoginForms "ამ გვერდზე შეყვანილი ანგარიშის მონაცემები დაუცველია და შესაძლოა მოიპარონ.">
 <!ENTITY identity.description.weakCipher "საიტთან კავშირი სუსტ დაშიფვრას იყენებს და დაუცველია.">
 <!ENTITY identity.description.weakCipher2 "სხვებსაც შეუძლიათ თქვენი ინფორმაციის ნახვა ან ვებსაიტის ქცევის შეცვლა.">
-<!ENTITY identity.description.activeBlocked "&brandShortName;-მა გვერდის დაუცველი ნაწილები შეზღუდა.">
+<!ENTITY identity.description.activeBlocked "&brandShortName; ზღუდავს გვერდის დაუცველ ნაწილებს.">
 <!ENTITY identity.description.passiveLoaded "კავშირი დაუცველია და თქვენ მიერ ამ საიტთან გაზიარებული პირადი მონაცემები, შესაძლოა სხვებმაც ნახონ.">
 <!ENTITY identity.description.passiveLoaded2 "ეს ვებსაიტი შეიცავს შიგთავსს, რომელიც დაუცველია (როგორიცაა სურათები).">
-<!ENTITY identity.description.passiveLoaded3 "მიუხედავად იმისა, რომ &brandShortName;-მა გარკვეული შიგთავსი შეზღუდა, დაუცველი ნაწილი მაინც დარჩა (როგორიცაა სურათები).">
+<!ENTITY identity.description.passiveLoaded3 "მიუხედავად იმისა, რომ &brandShortName; ზღუდავს გარკვეულ შიგთავსს, დაუცველი ნაწილი მაინც დარჩა (როგორიცაა სურათები).">
 <!ENTITY identity.description.activeLoaded "საიტი შეიცავს შიგთავსს, რომელიც დაუცველია (როგორიცაა სკრიპტები) და მასთან კავშირი, ვერ უზრუნველყოფს პირადი მონაცემების უსაფრთხოებას.">
 <!ENTITY identity.description.activeLoaded2 "ინფორმაცია, რომელსაც ამ საიტს გაუზიარებთ შესაძლოა სხვებმაც ნახონ (მაგალითად პაროლები, შეტყობინებები, საკრედიტო ბარათები, ა.შ.).">
 
