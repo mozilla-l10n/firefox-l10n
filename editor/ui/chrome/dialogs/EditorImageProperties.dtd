@@ -43,7 +43,7 @@
 <!ENTITY constrainCheckbox.tooltip "Selalu jaga perbandingan lebar/tinggi">
 
 <!-- These controls are in the Image Map box of the expanded area -->
-<!ENTITY imagemapBox.label "Map Gambar">
+<!ENTITY imagemapBox.label "Gambar Peta">
 <!ENTITY removeImageMapButton.label "Hapus">
 <!ENTITY removeImageMapButton.accessKey "H">
 

@@ -8,7 +8,7 @@
 <!ENTITY itemAntiVirus.label     "Antivirus">
 
 <!-- Junk Mail Controls -->
-<!ENTITY junkMail.intro "Atur pengaturan email junk default. Pengaturan email junk masing-masing akun dapat diatur pada Pengaturan Akun.">
+<!ENTITY junkMail.intro "Atur pengaturan surel sampah bawaan. Pengaturan surel sampah masing-masing akun dapat diatur pada Pengaturan Akun.">
 <!ENTITY manualMark.label "Saat menandai pesan sebagai pesan junk:">
 <!ENTITY manualMark.accesskey "S">
 <!ENTITY manualMarkModeMove.label "Pindahkan ke folder &quot;Junk&quot; akun">

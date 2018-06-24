@@ -9,7 +9,7 @@
 
 <!ENTITY EditLabelText.label "Sunting Teks:">
 <!ENTITY EditLabelText.accesskey "t">
-<!ENTITY LabelFor.label "Untuk Kontrol:">
+<!ENTITY LabelFor.label "Untuk Kendali:">
 <!ENTITY LabelFor.accesskey "k">
 <!ENTITY AccessKey.label "Kunci Akses:">
 <!ENTITY AccessKey.accesskey "K">

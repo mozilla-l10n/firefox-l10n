@@ -3,8 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY junkSettings.label "Pengaturan Pesan Junk">
-
-<!ENTITY level.label "Gunakan kontrol email junk adaptif untuk akun ini">
+<!ENTITY level.label "Gunakan kendali surel sampah yang adaptif untuk akun ini">
 <!ENTITY level.accesskey "a">
 
 <!ENTITY move.label "Pindahkan pesan junk ke:">
@@ -18,11 +17,8 @@
 <!ENTITY purge2.label "hari">
 
 
-
 <!ENTITY ispHeaders.label "Percayai header email junk yang dikirim oleh: ">
 <!ENTITY ispHeaders.accesskey "P">
 
 <!ENTITY junkClassification.label "Pilihan">
-
-
 

@@ -389,7 +389,7 @@
 <!ENTITY markAsNotJunkCmd.label "Bukan Junk">
 <!ENTITY markAsNotJunkCmd.accesskey "B">
 <!ENTITY markAsNotJunkCmd.key "j">
-<!ENTITY recalculateJunkScoreCmd.label "Jalankan Pengontrol Email Junk">
+<!ENTITY recalculateJunkScoreCmd.label "Jalankan Pengendali Surel Sampah">
 <!ENTITY recalculateJunkScoreCmd.accesskey "J">
 <!ENTITY openMessageWindowCmd.label "Buka Pesan">
 <!ENTITY openMessageWindowCmd.accesskey "P">
@@ -430,7 +430,7 @@
 <!ENTITY filtersApplyToSelection.accesskey "J">
 <!ENTITY filtersApplyToMessage.label "Jalankan Filter pada Pesan">
 <!ENTITY filtersApplyToMessage.accesskey "p">
-<!ENTITY runJunkControls.label "Jalankan Pengontrol Email Junk pada Folder">
+<!ENTITY runJunkControls.label "Jalankan Pengendali Surel Sampah pada Folder">
 <!ENTITY runJunkControls.accesskey "o">
 <!ENTITY deleteJunk.label "Hapus Email bertanda Junk dalam Folder">
 <!ENTITY deleteJunk.accesskey "l">
