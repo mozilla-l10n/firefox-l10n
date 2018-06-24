@@ -242,6 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Bu sitenin bildirim göndermesini engellediniz.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Bu sitenin kalıcı veri depolamasını engellediniz.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Bu sitedeki açılır pencereleri engellediniz.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Bu sitenin sesli medya dosyalarını otomatik oynatmasını engellediniz.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Bu sitenin kanvastan veri ayıklamasını engellediniz.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Bu web sitesinin Adobe Flash yan uygulamasını kullanmasını engellediniz.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Bu sitenin MIDI erişimini engellediniz.">
@@ -913,6 +914,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; bu sayfanın sizi izleme ihtimali olan kısımlarını engelliyor.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Bu site, gezintinizi izleme ihtimali olan öğeler içeriyor. Korumayı devre dışı bıraktınız.">
 <!ENTITY trackingProtection.notDetected3 "Bu sayfada sizi izleyen herhangi bir öğe bulunmadı.">
+<!ENTITY trackingProtection.detectedNotBlocked4 "Bu web sayfasında takipçiler tespit edildi.">
+<!ENTITY trackingProtection.notDetected4 "Bu sayfada hiç takipçi tespit edilmedi.">
+<!ENTITY trackingProtection.reloadRequired "İzlenme Koruması’nı açtınız. Tüm takipçileri engellemek için lütfen bu web sayfasını tazeleyin.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
@@ -930,6 +934,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.unblockPrivate2.label "Bu oturumda bu siteye güven">
 <!ENTITY trackingProtection.unblockPrivate2.accesskey "o">
+<!ENTITY trackingProtection.block3.label "İzlenme Koruması’nı AÇ">
+<!ENTITY trackingProtection.block3.accesskey "K">
 <!ENTITY trackingProtection.reload.label "Sayfayı tazele">
 <!ENTITY trackingProtection.reload.accesskey "S">
 
