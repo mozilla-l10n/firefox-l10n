@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -137,20 +129,11 @@ is-not-default = { -brand-short-name } es pas vòstre navegador per defaut
 set-as-my-default-browser =
     .label = Definir per defaut…
     .accesskey = D
-startup-page = A l'aviada de { -brand-short-name }
-    .accesskey = a
-startup-user-homepage =
-    .label = Afichar vòstra pagina d'acuèlh
-startup-blank-page =
-    .label = Afichar una pagina voida
-startup-prev-session =
-    .label = Afichar vòstras fenèstras e onglets de la darrièra visita
 startup-restore-previous-session =
     .label = Restablir la session precedenta
     .accesskey = s
 disable-extension =
     .label = Desactivar l’extension
-home-page-header = Pagina d'acuèlh
 tabs-group-header = Onglets
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab fa passar los onglets dins l'òrdre de darrièra utilizacion
@@ -270,7 +253,6 @@ play-drm-content =
 play-drm-content-learn-more = Ne saber mai
 update-application-title = Mesas a jorn de { -brand-short-name }
 update-application-description = Manténer { -brand-short-name } a jorn per de performança, estabilitat, e seguretat melhoras.
-update-application-info = Version { $version } <a>Novetats</a>
 update-application-version = Version { $version } <a data-l10n-name="learn-more">Novetats</a>
 update-history =
     .label = Afichar l'istoric de las mesas a jorn…
@@ -306,7 +288,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Limita del procediment del contengut
     .accesskey = L
 performance-limit-content-process-enabled-desc = De procediments de contengut suplementaris pòdon melhorar las performanças en utiliazar d'onglets multiples, pasmens aquò utiliza mai de memòria.
-performance-limit-content-process-disabled-desc = Modificar lo nombre de procediments de contenguts es possible sonque amb la version multiprocediment de { -brand-short-name }. <a>Aprendre a verificar se de multiprocediments son activats</a>
 performance-limit-content-process-blocked-desc = Modificar lo nombre de procediments de contenguts es possible sonque amb la version multiprocediment de { -brand-short-name }. <a data-l10n-name="learn-more">Aprendre a verificar se de multiprocediments son activats</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -377,9 +358,6 @@ use-current-pages =
 choose-bookmark =
     .label = Favorits…
     .accesskey = s
-restore-default =
-    .label = Restablir la configuracion per defaut
-    .accesskey = R
 
 ## Search Section
 
@@ -440,7 +418,7 @@ containers-remove-button =
 ## Sync Section - Signed out
 
 sync-signedout-caption = Emportatz vòstre Web pertot
-sync-signedout-description = Sincronizar vòstres marcapaginas, istoric, onglets, senhals, moduls, e preferéncias per totes vòstres periferics.
+sync-signedout-description = Sincronizatz vòstres marcapaginas, istoric, onglets, senhals, moduls, e preferéncias per totes vòstres periferics.
 sync-signedout-account-title = Se connectar amb un { -fxaccount-brand-name }
 sync-signedout-account-create = Avètz pas cap de compte ? Marcatz-vos
     .accesskey = C
@@ -455,7 +433,7 @@ sync-signedout-account-signin =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Telecargar Firefox per <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> o <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> per sincronizar vòstre periferic mobil.
+sync-mobile-promo = Telecargatz Firefox per <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> o <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> per sincronizar vòstre periferic mobil.
 
 ## Sync Section - Signed in
 
