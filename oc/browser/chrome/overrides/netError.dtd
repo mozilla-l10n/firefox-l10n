@@ -80,10 +80,10 @@
 <!ENTITY unknownProtocolFound.title "La connexion es pas estada compresa">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Benlèu qu'es necessari d'installar una autra aplicacion per dobrir aqueste tipe d'adreça.</li> </ul>">
 
-<!ENTITY proxyConnectFailure.title "Lo servidor mandatòri refusa las connexions">
+<!ENTITY proxyConnectFailure.title "Lo servidor mandatari refusa las connexions">
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Verificatz que los paramètres del proxy son corrèctes ;</li> <li>Contactatz vòstre administrator de ret per vos assegurar que lo servidor proxy fonciona.</li> </ul>">
 
-<!ENTITY proxyResolveFailure.title "Impossible de trobar lo servidor mandatòri">
+<!ENTITY proxyResolveFailure.title "Impossible de trobar lo servidor mandatari">
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Verificatz que los paramètres del proxy son corrèctes ;</li> <li>Verificatz que la connexion ret de vòstre ordenador fonciona ;</li> <li>Se vòstre ordenador o vòstra ret es protegit per un parafuòc o un proxy,asseguratz-vos que &brandShortName; a l'autorizacion d'accedir al Web.</li> </ul>">
 
 <!ENTITY redirectLoop.title "Redireccion de pagina incorrècta">

@@ -805,6 +805,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Avètz donat pas cap de permission espaciala a aquel site.">
 <!ENTITY identity.permissionsReloadHint "Benlèu deuriatz actualizar la pagina per que s'apliquen los cambiaments.">
 
+<!ENTITY identity.permissionsPreferences.tooltip "Dobrir las preferéncias d’autorizacions">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -904,11 +905,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "L’àudio de l’onglet serà partejat.">
 <!ENTITY getUserMedia.allWindowsShared.message "L'ensemble de las fenèstras visiblas sus vòstre ecran seràn partejadas.">
 
+<!ENTITY trackingProtection.on "Proteccion contra lo seguiment : ACTIVADA">
+<!ENTITY trackingProtection.off "Proteccion contra lo seguiment : DESACTIVADA">
 <!ENTITY trackingProtection.title "Proteccion contra lo seguiment">
 <!ENTITY trackingProtection.tooltip "Dobrir las preferéncias de proteccion contra lo seguiment">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; a blocat d'elements de la pagina que pòdon pistar vòstra navegacion.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Aquel site compren d'elements que pòdon pistar vòstra navegacion. Avètz desactivat la proteccion.">
 <!ENTITY trackingProtection.notDetected3 "Pas cap d'element de seguiment es estat detectat sus aquela pagina.">
+<!ENTITY trackingProtection.detectedNotBlocked4 "Avèm trobat de traçadors sus aquesta pagina web.">
+<!ENTITY trackingProtection.notDetected4 "Avèm pas trobat cap de traçadors sus aquesta pagina.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
@@ -922,6 +927,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Activar la proteccion">
 <!ENTITY trackingProtection.block2.accesskey "v">
 
+<!ENTITY trackingProtection.reload.label "Actualizar la pagina">
 
 <!ENTITY pluginNotification.showAll.label "Afichar tot">
 <!ENTITY pluginNotification.showAll.accesskey "f">
