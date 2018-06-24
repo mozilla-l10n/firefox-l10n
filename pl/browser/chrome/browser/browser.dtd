@@ -694,7 +694,7 @@
 <!ENTITY trackingProtection.notDetected4 "Nie wykryto elementów śledzących na tej stronie.">
 <!ENTITY trackingProtection.notDetected5 "Nie wykryto elementów śledzących na tej stronie.">
 <!ENTITY trackingProtection.detectedException "&brandShortName; wykrył elementy mogące śledzić Twoją aktywność. Ochrona przed śledzeniem została wyłączona dla tej witryny.">
-<!ENTITY trackingProtection.notDetectedException "Nie wykryto elementów mogących śledziź aktywność na tej stronie. Ochrona przed śledzeniem została wyłączona dla tej witryny.">
+<!ENTITY trackingProtection.notDetectedException "Nie wykryto elementów mogących śledzić aktywność na tej stronie. Ochrona przed śledzeniem została wyłączona dla tej witryny.">
 <!ENTITY trackingProtection.reloadRequired "Ochrona przed śledzeniem została włączona. Wczytaj ponownie stronę, aby zablokować elementy śledzące.">
 <!ENTITY trackingProtection.reloadRequired2 "Ochrona przed śledzeniem została włączona. Odśwież bieżącą stronę, aby zablokować elementy śledzące.">
 <!ENTITY trackingProtection.unblock.label "Wyłącz ochronę dla tej witryny">
