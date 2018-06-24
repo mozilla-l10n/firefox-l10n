@@ -11,7 +11,7 @@
 <!ENTITY disableAddons.label              "Matikan semua Pengaya">
 <!ENTITY disableAddons.accesskey          "M">
 
-<!ENTITY resetToolbars.label              "Setel ulang bilah alat dan kontrol">
+<!ENTITY resetToolbars.label              "Setel ulang bilah alat dan kendali">
 <!ENTITY resetToolbars.accesskey          "k">
 
 <!ENTITY changeAndRestartButton.label     "Simpan Perubahan dan Mulai Ulang">
