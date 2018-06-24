@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -136,17 +128,8 @@ is-not-default = { -brand-short-name } သည် ပုံသေဘရောက�
 set-as-my-default-browser =
     .label = စံသတ်မှတ်...
     .accesskey = D
-startup-page = { -brand-short-name } စတင်သောအခါ
-    .accesskey = s
-startup-user-homepage =
-    .label = မူလစာမျက်နှာကို ပြပါ
-startup-blank-page =
-    .label = စာမျက်နှာ အလွတ်ကို ပြပေးပါ
-startup-prev-session =
-    .label = နောက်ဆုံးအသုံးပြုခဲ့သော ဝင်းဒိုးများ နှင့် တပ်ဗ်များကို ပြန်ဖွင့်ပါ
 disable-extension =
     .label = တိုးချဲ့မှု အားပိတ်ထားပါ
-home-page-header = အဖွင့်စာမျက်နှာ
 tabs-group-header = တပ်ဗ်များ
 ctrl-tab-recently-used-order =
     .label = Ctrl+tab သည် အရင်သုံးခဲ့ဖူးသည့် တပ်ဗ်များကို အစဉ်လိုက် ပြောင်းပေးသွားမည်
@@ -254,7 +237,6 @@ play-drm-content =
 play-drm-content-learn-more = ပိုမိုလေ့လာရန်
 update-application-title = { -brand-short-name } မွမ်းမံမှုများ
 update-application-description = အကောင်းဆုံးစွမ်းရည်၊ တည်ငြိမ်မှုနှင့် လုံခြုံရေး ရရှိစေရန် { -brand-short-name } ကို နောက်ဆုံးပေါ် ဖြစ်စေပါ။
-update-application-info = ဗားရှင်း { $version } <a>အသစ်များ</a>
 update-history =
     .label = မြှင့်တင်မှုမှတ်တမ်းကို ပြပါ…
     .accesskey = p
@@ -289,7 +271,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = အကြောင်းအရာပရောဆက်အကန့်အသတ်
     .accesskey = I
 performance-limit-content-process-enabled-desc = ထပ်ပေါင်း အကြောင်းအရာပရောဆက်များသည် တပ်ဗ်များကို အသုံးပြုသောအခါ စွမ်းဆောင်ရည်ကို တိုးတက်စေသော်လည်း မှတ်ဉာဏ်ကို ပိုမိုအသုံးပြုသည်။
-performance-limit-content-process-disabled-desc = အကြောင်းအရာပရောဆက်များအရေအတွက်ကို ပြင်ဆင်ခြင်းသည် မာလ်တီပရောဆက်ပါဝင်သော { -brand-short-name } တွင်သာ ရရှိနိုင်သည်။ <a>မာလ်တီပရောဆက် အထောက်အပံ့ရ/မရ စစ်ဆေးနည်း လေ့လာရန်</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -357,9 +338,6 @@ use-current-pages =
 choose-bookmark =
     .label = စာမှတ်ကို အသုံးပြုပါ…
     .accesskey = B
-restore-default =
-    .label = မူလသတ်မှတ်ချက်အတိုင်း ပြန်ထားပါ
-    .accesskey = R
 
 ## Search Section
 
@@ -551,6 +529,7 @@ history-remember-option-never =
     .label = မှတ်တမ်းကို ဘယ်တော့မှ မမှတ်ထားပါ
 history-remember-option-custom =
     .label = မှတ်တမ်းအတွက် စိတ်ကြိုက်အပြင်အဆင်ကို အသုံးပြုမည်
+history-remember-description = { -brand-short-name }သည် သင့်၏ရှာဖွေမှု၊ဆွဲယူမှု၊ရှာဖွေမှတ်တမ်းများကို မှတ်သားမည်။
 history-dontremember-description = { -brand-short-name } က တူညီတဲ့ အပြင်အဆင်များကို သီးသန့် လှော်လှန်မှုအဖြစ် သုံးစွဲမှာ ဖြစ်ပြီး၊ ကွန်ရက်ကို သင်လှော်လှန်နေစဉ် ဘယ် မှတ်တမ်းကိုမှ မှတ်သားထားမှာ မဟုတ်ဘူး။
 history-private-browsing-permanent =
     .label = သီးသန့်ကြည့်ရှုခြင်းကို အမြဲ အသုံးပြုမည်
@@ -575,10 +554,17 @@ history-clear-button =
 
 sitedata-header = ကွတ်ကီးနှင့် ဆိုက်အချက်အလက်များ
 sitedata-learn-more = ပိုမိုလေ့လာရန်
+sitedata-block-cookies-option =
+    .label = ကွတ်ကီးနှင့်ဆိုက်ဒေတာများကိုတားဆီးမည် (ဝဘ်ဆိုက်များ ကောင်းစွာ ဆောင်ရွက်နိုင်မည်မဟုတ်)
+    .accesskey = B
 sitedata-keep-until = ထိုအချိန်ထိ သိမ်းထားပါ
     .accesskey = u
 sitedata-keep-until-expire =
     .label = သက်တမ်းစေ့လျှင်
+sitedata-keep-until-closed =
+    .label = { -brand-short-name } ကို ပိတ်သည်
+sitedata-accept-third-party-desc = ကွတ်ကီးများနှင့် ဝဘ်ဆိုက် အချက်အလက်များကို လက်ခံပါ
+    .accesskey = y
 sitedata-accept-third-party-always-option =
     .label = အမြဲတမ်း
 sitedata-accept-third-party-visited-option =
@@ -598,6 +584,7 @@ sitedata-cookies-exceptions =
 ## Privacy Section - Address Bar
 
 addressbar-header = လိပ်စာဘား
+addressbar-suggest = လိပ်စာဘားတန်းတွင်ရှာဖွေပါက အကြံပေးပါ
 addressbar-locbar-history-option =
     .label = ရှာဖွေကြည့်ရှုမှု မှတ်တမ်း
     .accesskey = h
@@ -612,6 +599,7 @@ addressbar-suggestions-settings = ရှာဖွေရေးယန္တရာ�
 ## Privacy Section - Tracking
 
 tracking-header = ခြေရာခံ ကာကွယ်မှု
+tracking-mode-label = ခြေရာခံသူများကို တားဆီးရန် ခြေရာခံကာကွယ်မှုအသုံးပြုပါ
 tracking-mode-always =
     .label = အမြဲတမ်း
     .accesskey = y
@@ -621,9 +609,16 @@ tracking-mode-private =
 tracking-mode-never =
     .label = ဘယ်တော့မှ
     .accesskey = n
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = ခြေရာခံသူများကို တားဆီးရန် ကိုယ်ရေးရှာဖွေမှုဆိုင်ရာတွင် ခြေရာခံကာကွယ်မှုအသုံးပြုပါ
+    .accesskey = v
 tracking-exceptions =
     .label = ခြွင်းချက်များ…
     .accesskey = x
+tracking-change-block-list =
+    .label = ပိတ်ပင်ထားသည့်စာရင်းကိုပြင်ရန်
+    .accesskey = C
 
 ## Privacy Section - Permissions
 
@@ -654,6 +649,9 @@ permissions-block-popups =
 permissions-block-popups-exceptions =
     .label = ခြွင်းချက်များ...
     .accesskey = E
+permissions-addon-install-warning =
+    .label = ဝဘ်ဆိုက်များက အတ်အွန်များ တပ်ဆင်လိုသည့်အခါ အသိပေးပါ
+    .accesskey = W
 permissions-addon-exceptions =
     .label = ခြွင်းချက်များ...
     .accesskey = E
@@ -661,6 +659,7 @@ permissions-a11y-privacy-link = ပိုမိုလေ့လာရန်
 
 ## Privacy Section - Data Collection
 
+collection-header = { -brand-short-name } ချက်လက်စုစည်းမှုနှင့်အသုံးပြုမှု
 collection-privacy-notice = ကိုယ်ရေးကာကွယ်မှု အသိပေးချက်
 collection-health-report-link = ပိုမိုလေ့လာရန်
 collection-browser-errors-link = ပိုမိုလေ့လာရန်
