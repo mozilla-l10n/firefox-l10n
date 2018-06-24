@@ -8,13 +8,11 @@
 <!ENTITY certmgr.tab.others2                  "Personar">
 <!ENTITY certmgr.tab.websites3                "Tenarar">
 <!ENTITY certmgr.tab.ca                       "Utskrivarar">
-<!ENTITY certmgr.tab.orphan2                  "Andre">
 
 <!ENTITY certmgr.mine2                        "Du har sertifikat frå desse organisasjonene som identifiserer deg">
 <!ENTITY certmgr.others2                      "Du har lagra sertifikat som identifiserer desse personane">
 <!ENTITY certmgr.websites3                    "Du har lagra sertifikat som identifiserer desse serverane">
 <!ENTITY certmgr.cas2                         "Du har lagra sertifikat som identifiserer desse sertifikatutskrivarane">
-<!ENTITY certmgr.orphans2                     "Du har lagra sertifikater som ikkje passar i dei andre kategoriane">
 
 <!ENTITY certmgr.detail.general_tab.title     "Generelt">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
@@ -38,7 +36,6 @@
 <!ENTITY certmgr.editcert.edittrust           "Rediger tiltru:">
 <!ENTITY certmgr.editcert.trustssl            "Dette sertifikatet kan identifisera nettsider.">
 <!ENTITY certmgr.editcert.trustemail          "Dette sertifikatet kan identifisera e-postbrukarar.">
-<!ENTITY certmgr.editcert.trustobjsign        "Dette sertifikatet kan identifisera programutviklarar.">
 
 <!ENTITY certmgr.deletecert.title             "Slett sertifikat">
 
