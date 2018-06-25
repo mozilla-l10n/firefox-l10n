@@ -13,12 +13,49 @@ fonts-langgroup-bengali =
     .label = Banggali
 fonts-langgroup-cyrillic =
     .label = Kiril
+fonts-langgroup-hebrew =
+    .label = Ibrani
+fonts-langgroup-korean =
+    .label = Korèa
+# Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+fonts-langgroup-latin =
+    .label = Latèn
+fonts-langgroup-math =
+    .label = Matematika
+fonts-langgroup-tamil =
+    .label = Tamil
+fonts-langgroup-thai =
+    .label = Thai
 
 ## Default fonts and their sizes
 
+fonts-default-serif =
+    .label = Serif
+fonts-default-sans-serif =
+    .label = Sans Serif
+fonts-serif = Serif
+    .accesskey = S
+fonts-sans-serif = Sans-serif
+    .accesskey = n
+fonts-monospace = Monospace
+    .accesskey = M
 
 ## Text Encodings
 ##
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-name-arabic =
+    .label = Arab
+fonts-languages-fallback-name-greek =
+    .label = Yunani
+fonts-languages-fallback-name-japanese =
+    .label = Jeupun
+fonts-languages-fallback-name-korean =
+    .label = Korèa
+fonts-languages-fallback-name-thai =
+    .label = Thai
+fonts-languages-fallback-name-turkish =
+    .label = Turuki
+fonts-languages-fallback-name-vietnamese =
+    .label = Viètnam
