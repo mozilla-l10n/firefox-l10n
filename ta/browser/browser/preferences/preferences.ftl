@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 16.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -83,6 +75,12 @@ restart-later = பின்னர் மீட்துவக்கு
 ## Variables:
 ##   $name (String): name of the extension
 
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = உங்களின் அகப்பக்கத்தை ஒரு, <img data-l10n-name="icon"/> { $name }, நீட்டிப்பு கட்டுப்படுத்துகிறது.
+# This string is shown to notify the user that their new tab page
+# is being controlled by an extension.
+extension-controlled-new-tab-url = உங்களின் புதிய கீற்றுப் பக்கத்தை ஒரு, <img data-l10n-name="icon"/> { $name }, நீட்டிப்பு கட்டுப்படுத்துகிறது.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = <img data-l10n-name="icon"/> { $name }, நீட்சியானது தங்களது புதிய இயல்புநிலை தேடு பொறியை அமைத்துள்ளது.
@@ -122,20 +120,11 @@ is-not-default = { -brand-short-name } உங்களுடைய முன்�
 set-as-my-default-browser =
     .label = முன்னிருப்பாக்கு…
     .accesskey = D
-startup-page = { -brand-short-name } துவக்கப்படும் போது
-    .accesskey = s
-startup-user-homepage =
-    .label = உங்களுடைய முகப்பு பக்கத்தைக் காட்டவும்
-startup-blank-page =
-    .label = ஒரு வெற்று பக்கத்தைக் காட்டு
-startup-prev-session =
-    .label = கடைசி நேரத்திலிருந்த உங்களுடைய சாளரங்கள் மற்றும் கீற்றுகளைக் காட்டவும்
 startup-restore-previous-session =
     .label = முந்தைய அமர்வை மீட்டமை
     .accesskey = s
 disable-extension =
     .label = துணைநிரலை முடக்கவும்
-home-page-header = முகப்பு பக்கம்
 tabs-group-header = கீற்றுகள்
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab விசைக் கொண்டு அண்மையில் பாவித்த கீற்றுகளின் ஊடாக வலம் வரலாம்
@@ -255,7 +244,6 @@ play-drm-content =
 play-drm-content-learn-more = மேலும் அறிய
 update-application-title = { -brand-short-name } மேம்படுத்தல்கள்
 update-application-description = சிறந்த செயல்திறன், நிலைப்புத்தன்மை மற்றும் பாதுகாப்பிற்காக { -brand-short-name } என்பதை இற்றைப்படுத்தி வைக்கவும்.
-update-application-info = பதிப்பு { $version } <a>புதியவைகள்</a>
 update-application-version = பதிப்பு { $version } <a data-l10n-name="learn-more">புதியவைகள்</a>
 update-history =
     .label = புதுப்பித்தல் வரலாறு…
@@ -291,7 +279,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = உள்ளடக்க செயல்முறை வரம்பு
     .accesskey = l
 performance-limit-content-process-enabled-desc = பல கீற்றுகளைப் பயன்படுத்தும் போது கூடுதல் உள்ளடக்க செயலாக்கங்கள் செயல்திறனை மேம்படுத்தும், ஆனால் அது அதிக நினைவகத்தைப் பயன்படுத்தும்.
-performance-limit-content-process-disabled-desc = உள்ளடக்க செயல்முறைகளின் எண்ணிக்கையை மாற்றியமைத்தல் பல செயல்முறை கொண்ட { -brand-short-name } உலாவியுடன் மட்டுமே சாத்தியமாகும் . <a>பன்செயல்முறை உள்ளதா என்பதைச் சோதிக்க கற்றுக்கொள்ளுங்கள்</a>
 performance-limit-content-process-blocked-desc = உள்ளடக்க செயல்முறைகளின் எண்ணிக்கையை மாற்றியமைத்தல் பல செயல்முறை கொண்ட { -brand-short-name } உலாவியுடன் மட்டுமே சாத்தியமாகும் . <a data-l10n-name="learn-more">பன்செயல்முறை உள்ளதா என்பதைச் சோதிக்க கற்றுக்கொள்ளுங்கள்</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -361,9 +348,6 @@ use-current-pages =
 choose-bookmark =
     .label = புத்தககுறியை பயன்படுத்தவும்...
     .accesskey = ப
-restore-default =
-    .label = முன்னிருப்பு
-    .accesskey = R
 
 ## Search Section
 
@@ -673,6 +657,9 @@ permissions-notification-link = மேலும் அறிய
 permissions-notification-pause =
     .label = { -brand-short-name } மறுதொடங்கும் வரை அறிவிப்புகளை இடைநிறுத்து
     .accesskey = n
+permissions-block-autoplay-media-exceptions =
+    .label = விதிவிலக்குகள்...
+    .accesskey = E
 permissions-block-popups =
     .label = பாப் அப் (துள்ளும்) சாளரங்களை தடுக்கவும்
     .accesskey = ப
@@ -699,6 +686,9 @@ collection-health-report =
     .label = தொழில்நுட்ப மற்றும் தொடர்புத் தரவுகளை மொசில்லாவிற்கு அனுப்ப { -brand-short-name } உலாவியை அனுமதி
     .accesskey = r
 collection-health-report-link = மேலும் அறிய
+collection-studies =
+    .label = நிறுவ { -brand-short-name } அனுமதித்து பாடத்திட்டங்களை இயக்கு
+collection-studies-link = { -brand-short-name } பாடத்திட்டங்களைக் காண்க
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = இந்தக் கட்டமைப்பிற்கு தரவு அறிக்கை முடக்கப்பட்டுள்ளது
