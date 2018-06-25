@@ -13,20 +13,29 @@
 <!-- open menu -->
 <!-- reload app -->
 <!-- show toolbox -->
+<!ENTITY key_toggleToolbox "VK_F12">
 <!-- zoom -->
+<!ENTITY key_zoomin "+">
+<!ENTITY key_zoomin2 "=">
+<!ENTITY key_zoomout "-">
+<!ENTITY key_resetzoom "0">
 
+<!ENTITY projectPanel_tabs "Tab">
 
 <!-- Lense -->
 
 <!-- New App -->
+<!ENTITY newAppWindowTitle "Aplikasi Barô">
 
 
 <!-- Decks -->
 
+<!ENTITY deck_close "Tôp">
 
 <!-- Addons -->
 
 <!-- Prefs -->
+<!ENTITY prefs_general_title "Umom">
 
 <!-- Runtime Details -->
 
