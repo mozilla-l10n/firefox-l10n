@@ -27,6 +27,7 @@ that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
 
+<!ENTITY tabCmd.label "Tab Barô">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->

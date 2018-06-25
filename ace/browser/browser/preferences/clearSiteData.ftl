@@ -25,6 +25,22 @@ clear-site-data-cookies-empty =
     .label = Cookies ngön Data Situs
     .accesskey = S
 clear-site-data-cookies-info = Meunyo neusampôh data situs, Droeneuh jeuet teuteubiet nibak situs wèb
+# The parameters in parentheses in this string describe disk usage
+# in the format ($amount $unit), e.g. "Cached Web Content (24 KB)"
+# Variables:
+#   $amount (Number) - Amount of cache currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+clear-site-data-cache-with-data =
+    .label = Asoë Cache Web { $amount } { $unit }
+    .accesskey = W
+# This string is a placeholder for while the data used to fill
+# clear-site-data-cache-with-data is loading. This placeholder is usually
+# only shown for a very short time (< 1s), so it should be very similar
+# or the same as clear-site-data-cache-with-data (except the amount and unit),
+# to avoid flickering.
+clear-site-data-cache-empty =
+    .label = Asoë Cache Web
+    .accesskey = W
 clear-site-data-cancel =
     .label = Bateue
     .accesskey = B
