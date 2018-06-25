@@ -58,6 +58,10 @@ restart-later = Peuhah Keulayi Euntreuk
 
 ## General Section
 
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = Peu-idin { -brand-short-name } ngön Firefox teuhah beusigö
 startup-restore-previous-session =
     .label = Peuriwang sesi seugolomjih
     .accesskey = g
@@ -87,6 +91,9 @@ download-choose-folder =
 download-always-ask-where =
     .label = Beusabé tanyöng pat teumpat keu keubah beureukaih
     .accesskey = B
+applications-header = Aplikasi
+applications-filter =
+    .placeholder = Mita jeunèh beureukaih atawa aplikasi
 applications-type-column =
     .label = Jeunèh Kontèn
     .accesskey = J
@@ -128,6 +135,8 @@ search-choose-engine-column =
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Gantoë gamba profil
 sync-engine-history =
     .label = Riwayat
     .accesskey = R
