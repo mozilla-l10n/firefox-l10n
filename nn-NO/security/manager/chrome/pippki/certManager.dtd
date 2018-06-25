@@ -50,11 +50,11 @@
 
 <!ENTITY certmgr.close.label                  "Lat att">
 <!ENTITY certmgr.close.accesskey              "L">
-<!ENTITY certmgr.view2.label                  "Vis …">
+<!ENTITY certmgr.view2.label                  "Vis…">
 <!ENTITY certmgr.view2.accesskey              "V">
-<!ENTITY certmgr.edit3.label                  "Rediger tiltru …">
+<!ENTITY certmgr.edit3.label                  "Rediger tiltru…">
 <!ENTITY certmgr.edit3.accesskey              "R">
-<!ENTITY certmgr.export.label                 "Eksporter …">
+<!ENTITY certmgr.export.label                 "Eksporter…">
 <!ENTITY certmgr.export.accesskey             "k">
 <!ENTITY certmgr.delete2.label                "Slett…">
 <!ENTITY certmgr.delete2.accesskey            "S">
@@ -62,9 +62,9 @@
 <!ENTITY certmgr.delete_builtin.accesskey     "e">
 <!ENTITY certmgr.backup2.label                "Tryggingskopiar …">
 <!ENTITY certmgr.backup2.accesskey            "r">
-<!ENTITY certmgr.backupall2.label             "Tryggingskopier alt …">
+<!ENTITY certmgr.backupall2.label             "Tryggingskopier alt…">
 <!ENTITY certmgr.backupall2.accesskey         "s">
-<!ENTITY certmgr.restore2.label               "Importer …">
+<!ENTITY certmgr.restore2.label               "Importer…">
 <!ENTITY certmgr.restore2.accesskey           "m">
 <!ENTITY certmgr.details.label                "Sertifikatfelt">
 <!ENTITY certmgr.details.accesskey            "r">
@@ -72,11 +72,11 @@
 <!ENTITY certmgr.fields.accesskey             "F">
 <!ENTITY certmgr.hierarchy.label              "Sertifikathierarki">
 <!ENTITY certmgr.hierarchy.accesskey2         "k">
-<!ENTITY certmgr.addException.label           "Legg til unnatak …">
+<!ENTITY certmgr.addException.label           "Legg til unntak…">
 <!ENTITY certmgr.addException.accesskey       "e">
 
-<!ENTITY exceptionMgr.title                   "Legg til tryggingsunnatak …">
-<!ENTITY exceptionMgr.exceptionButton.label   "Stadfest tryggingsunnatak">
+<!ENTITY exceptionMgr.title                   "Legg til tryggingsunntak">
+<!ENTITY exceptionMgr.exceptionButton.label   "Stadfest tryggingsunntak">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "S">
 <!ENTITY exceptionMgr.supplementalWarning     "Lovlege bankar, butikkar, og andre offentlege nettsider vil ikkje be deg om å gjera dette.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Tenar">
@@ -84,7 +84,7 @@
 <!ENTITY exceptionMgr.certlocation.download   "Hent sertifikat">
 <!ENTITY exceptionMgr.certlocation.accesskey  "H">
 <!ENTITY exceptionMgr.certstatus.caption      "Sertifikatstatus">
-<!ENTITY exceptionMgr.certstatus.viewCert     "Vis …">
+<!ENTITY exceptionMgr.certstatus.viewCert     "Vis…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "V">
-<!ENTITY exceptionMgr.permanent.label         "Lagra dette unnataket permanent">
+<!ENTITY exceptionMgr.permanent.label         "Lagre dette unntaket permanent">
 <!ENTITY exceptionMgr.permanent.accesskey     "L">
