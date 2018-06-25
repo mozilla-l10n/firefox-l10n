@@ -678,9 +678,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Tracking content notifications in site identity popup -->
 <!ENTITY doorhanger_tracking_title2 "跟踪保护">
-<!ENTITY doorhanger_tracking_state_enabled "启用">
+<!ENTITY doorhanger_tracking_state_enabled "已启用">
 <!ENTITY doorhanger_tracking_state_disabled "已停用">
-<!ENTITY doorhanger_tracking_message_enabled1 "跟踪您的在线行为的企图已被阻止。">
+<!ENTITY doorhanger_tracking_message_enabled1 "跟踪您在线行为的企图已被阻止。">
 <!ENTITY doorhanger_tracking_message_disabled2 "此页面包含可能跟踪您的浏览行为的元素。">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
