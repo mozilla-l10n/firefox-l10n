@@ -4,5 +4,6 @@
 
 <!ENTITY restartRequired.title "పునఃప్రారంభం అవసరం">
 
+<!ENTITY restartRequired.header "క్షమించండి. ఇదిలాగే పనిచేయాలంటే మనమొక చిన్న పని చేస్తే చాలు.">
 
 <!ENTITY restartButton.label "&brandShortName;‌ను పునఃప్రారంభించు">

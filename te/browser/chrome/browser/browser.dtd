@@ -830,7 +830,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
 <!ENTITY syncedTabs.context.openInNewWindow.label            "కొత్త విండోలో తెరువు">
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "కొత్త ప్రైవేట్ విండోలో తెరువు">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "కొత్త అంతరంగిక విండోలో తెరువు">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "ఈ ట్యాబును ఇష్టాంశంగా చేయి…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
