@@ -22,6 +22,7 @@ that require it.  -->
 
 <!ENTITY historySection.label         "Riwayat">
 
+<!ENTITY itemCookies.label                 "Kuki">
 
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
