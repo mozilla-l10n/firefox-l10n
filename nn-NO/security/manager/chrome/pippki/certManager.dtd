@@ -19,7 +19,7 @@
 <!ENTITY certmgr.detail.prettyprint_tab.title "Detaljar">
 <!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
 
-<!ENTITY certmgr.pending.label                "Verifiserer sertifikatet …">
+<!ENTITY certmgr.pending.label                "Stadfestar sertifikatet…">
 <!ENTITY certmgr.subjectinfo.label            "Skrive ut til">
 <!ENTITY certmgr.issuerinfo.label             "Skrive ut av">
 <!ENTITY certmgr.periodofvalidity.label       "Gjeld i perioden" >
@@ -60,7 +60,7 @@
 <!ENTITY certmgr.delete2.accesskey            "S">
 <!ENTITY certmgr.delete_builtin.label         "Slett/opphev tiltru…">
 <!ENTITY certmgr.delete_builtin.accesskey     "e">
-<!ENTITY certmgr.backup2.label                "Tryggingskopiar …">
+<!ENTITY certmgr.backup2.label                "Tryggingskopiar…">
 <!ENTITY certmgr.backup2.accesskey            "r">
 <!ENTITY certmgr.backupall2.label             "Tryggingskopier alt…">
 <!ENTITY certmgr.backupall2.accesskey         "s">
@@ -78,7 +78,7 @@
 <!ENTITY exceptionMgr.title                   "Legg til tryggingsunntak">
 <!ENTITY exceptionMgr.exceptionButton.label   "Stadfest tryggingsunntak">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "S">
-<!ENTITY exceptionMgr.supplementalWarning     "Lovlege bankar, butikkar, og andre offentlege nettsider vil ikkje be deg om å gjera dette.">
+<!ENTITY exceptionMgr.supplementalWarning     "Lovlege bankar, butikkar, og andre offentlege nettsider vil ikkje be deg om å gjere dette.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Tenar">
 <!ENTITY exceptionMgr.certlocation.url        "Adresse:">
 <!ENTITY exceptionMgr.certlocation.download   "Hent sertifikat">
