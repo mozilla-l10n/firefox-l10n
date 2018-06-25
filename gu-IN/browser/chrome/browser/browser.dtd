@@ -57,6 +57,7 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "કતારબદ્ધ (ઑફલાઇન)">
 <!ENTITY  moveToNewWindow.label              "નવી વિન્ડોમાં ખસેડો">
 <!ENTITY  moveToNewWindow.accesskey          "W">
+<!ENTITY  reopenInContainer.label            "કન્ટેઈનર માં ફરીથી ખોલો">
 <!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkAllTabs.label              "બધા ટૅબ્સને બુકમાર્ક કરો…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
@@ -213,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "સંદેશ પેનલ ખોલો">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "સ્થાન વિનંતી પેનલ ખોલો">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "ઓપન ઑટોપ્લે પેનલ">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "ઍડ-ઑન ઇન્સ્ટોલેશન મેસેજ પેનલ ખોલો">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "કેનવાસ નિષ્કર્ષણ પરવાનગી વહીવટ કરો">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "ઑફલાઇન સંગ્રહ સંદેશ પેનલ ખોલો">
@@ -803,6 +805,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "તમે આ સાઇટને કોઈ વિશેષ મંજૂરીઓ આપ્યા નથી.">
 <!ENTITY identity.permissionsReloadHint "ફેરફારો લાગુ કરવા માટે તમને પૃષ્ઠને ફરીથી લોડ કરવાની જરૂર પડી શકે છે.">
 
+<!ENTITY identity.permissionsPreferences.tooltip "ઓપન પરવાનગીઓ પસંદગીઓ">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -902,10 +905,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "ટેબમાંથી ઑડિઓ શેર કરવામાં આવશે.">
 <!ENTITY getUserMedia.allWindowsShared.message "તમારી સ્ક્રીન પર બધી દૃશ્યમાન વિન્ડો વહેંચાયેલ હશે.">
 
+<!ENTITY trackingProtection.on "ટ્રેકિંગ પ્રોટેક્શન: ચાલુ">
+<!ENTITY trackingProtection.off "ટ્રેકિંગ પ્રોટેક્શન: OFF">
 <!ENTITY trackingProtection.title "ટ્રેકિંગ રક્ષણ">
+<!ENTITY trackingProtection.tooltip "ખોલો ટ્રેકિંગ પ્રોટેક્શન પસંદગીઓ">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; તે પૃષ્ઠનાં ભાગોને અવરોધિત કરે છે જે તમારી બ્રાઉઝિંગને ટ્રૅક કરી શકે છે.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "આ સાઇટમાં ઘટકો શામેલ છે જે તમારા બ્રાઉઝિંગને ટ્રૅક કરી શકે છે. તમે રક્ષણ અક્ષમ કર્યું છે.">
 <!ENTITY trackingProtection.notDetected3 "આ પૃષ્ઠ પર કોઈ ટ્રેકિંગ તત્વો મળ્યાં નથી.">
+<!ENTITY trackingProtection.detectedNotBlocked4 "ટ્રેકર્સ આ વેબપૃષ્ઠ પર દેખાયો છે.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
