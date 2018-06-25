@@ -6,38 +6,38 @@
 ## Settings
 
 site-data-settings-window =
-    .title = Çerezleri ve Site Verilerini Yönet
-site-data-settings-description = Aşağıdaki web siteleri bilgisayarınızda ve çerez ve site verisi depoluyor. { -brand-short-name } kalıcı depolama yapan web sitelerinin verilerini siz silene dek saklar, geçici depolama yapan web sitelerinin verilerini ise yer ihtiyacı olduğunda siler.
+    .title = Çörekler ve Sayt Verilerini İdare Et
+site-data-settings-description = Aşağıdaki as-saytları bilgisayarıñızda çörekler ve sayt verileri mağazlay. { -brand-short-name } sebatkâr mağazlamalı saytlarnıñ verilerini siz silgengece tutar, na-sebatkâr mağazlamalı saytlarnıñ verilerini ise feza ihtiyacı olğanında siler.
 site-data-search-textbox =
-    .placeholder = Web sitelerinde ara
-    .accesskey = W
+    .placeholder = Ağ-saytlarını qıdır
+    .accesskey = A
 site-data-column-host =
-    .label = Site
+    .label = Sayt
 site-data-column-cookies =
     .label = Çerez
 site-data-column-storage =
-    .label = Depolama
+    .label = Mağazlama
 site-data-column-last-used =
-    .label = Son kullanım
+    .label = Soñ qullanım
 site-data-remove-selected =
-    .label = Seçilenleri sil
-    .accesskey = S
+    .label = Saylanğannı Çetleştir
+    .accesskey = r
 site-data-button-cancel =
     .label = Vazgeç
     .accesskey = z
 site-data-button-save =
-    .label = Değişiklikleri kaydet
-    .accesskey = a
+    .label = Deñişikliklerni Saqla
+    .accesskey = S
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 site-usage-pattern = { $value } { $unit }
-site-usage-persistent = { site-usage-pattern } (Kalıcı)
+site-usage-persistent = { site-usage-pattern } (Sebatkâr)
 site-data-remove-all =
-    .label = Episini sil
+    .label = Episini Çetleştir
     .accesskey = e
 site-data-remove-shown =
-    .label = Görünenlerin episini sil
+    .label = Kösterilgenlerniñ Episini Çetleştir
     .accesskey = e
 
 ## Removing
@@ -46,7 +46,7 @@ site-data-removing-window =
     .title = { site-data-removing-header }
 site-data-removing-dialog =
     .title = { site-data-removing-header }
-    .buttonlabelaccept = Sil
-site-data-removing-header = Çerezler ve site verileri siliniyor
-site-data-removing-desc = Çerezleri ve site verilerini silerseniz bazı sitelerdeki oturumlarınız kapanabilir. Bu değişiklikleri yapmak istediğinizden emin misiniz?
-site-data-removing-table = Aşağıdaki web sitelerine ait çerezler ve site verileri silinecektir
+    .buttonlabelaccept = Çetleştir
+site-data-removing-header = Çörekler ve Sayt Verileri Çetleştirile
+site-data-removing-desc = Çörekler ve sayt verileriñ çetleştirilmesi sizni saytlardan tışarı imzalandırabilir. Bu deñişikliklerni yapmağa istegeniñizden eminsiñizmi?
+site-data-removing-table = Aşağıdaki ağ-saytlarına ait çörekler ve sayt verileri çetleştirilecek

@@ -3,6 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 select-bookmark-window =
-    .title = Giriş sayfasını ayarla
+    .title = Ev Saifesini Tesbit Et
     .style = width: 32em;
-select-bookmark-desc = Giriş sayfanız olacak yer imini seçin. Eğer bir klasör seçerseniz o klasördeki yer imleri sekmelerde açılır.
+select-bookmark-desc = Ev Saifeñiz olmaq üzre bir Saife-imi saylañız. Eger bir cilbent saylasañız, o cilbentteki Saife-imleri İlmeklerde açılacaq.

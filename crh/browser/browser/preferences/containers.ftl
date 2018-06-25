@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 containers-window-new =
-    .title = Yeni kapsayıcı ekle
+    .title = Yañı Konteyner Ekle
     .style = width: 45em
 # Variables
 #   $name (String) - Name of the container
 containers-window-update =
-    .title = { $name } Kapsayıcısı Tercihleri
+    .title = { $name } Konteyner Tercihleri
     .style = width: 45em
 containers-window-close =
     .key = w
@@ -22,59 +22,59 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
-containers-name-label = Ad
-    .accesskey = A
+containers-name-label = İsim
+    .accesskey = s
     .style = { -containers-labels-style }
 containers-name-text =
-    .placeholder = Bir kapsayıcı ismi yazın
-containers-icon-label = Simge
-    .accesskey = S
+    .placeholder = Bir konteyner ismi kirsetiñiz
+containers-icon-label = Timsal
+    .accesskey = a
     .style = { -containers-labels-style }
-containers-color-label = Renk
-    .accesskey = R
+containers-color-label = Tüs
+    .accesskey = T
     .style = { -containers-labels-style }
 containers-button-done =
     .label = Tamam
-    .accesskey = m
+    .accesskey = T
 containers-color-blue =
-    .label = Mavi
+    .label = Kök
 containers-color-turquoise =
-    .label = Turkuaz
+    .label = Firüze
 containers-color-green =
     .label = Yeşil
 containers-color-yellow =
     .label = Sarı
 containers-color-orange =
-    .label = Turuncu
+    .label = Portaqal
 containers-color-red =
-    .label = Kırmızı
+    .label = Qızıl
 containers-color-pink =
-    .label = Pembe
+    .label = Pempe
 containers-color-purple =
     .label = Mor
 containers-icon-fingerprint =
-    .label = Parmak izi
+    .label = Parmaq-izi
 containers-icon-briefcase =
-    .label = Çanta
+    .label = Portfel
 # String represents a money sign but currently uses a dollar sign
 # so don't change to local currency. See Bug 1291672.
 containers-icon-dollar =
-    .label = Dolar işareti
+    .label = Dollar işareti
 containers-icon-cart =
     .label = Alışveriş arabası
 containers-icon-circle =
-    .label = Nokta
+    .label = Noqta
 containers-icon-vacation =
     .label = Tatil
 containers-icon-gift =
     .label = Hediye
 containers-icon-food =
-    .label = Yemek
+    .label = Rızq
 containers-icon-fruit =
     .label = Meyve
 containers-icon-pet =
-    .label = Ayvan
+    .label = Evcil Ayvan
 containers-icon-tree =
     .label = Ağaç
 containers-icon-chill =
-    .label = Soğuk
+    .label = Serinleş

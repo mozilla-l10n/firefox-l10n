@@ -11,10 +11,10 @@ permissions-address = Ağ-saytı adresi
     .accesskey = d
 permissions-block =
     .label = Blokla
-    .accesskey = E
+    .accesskey = B
 permissions-session =
-    .label = Oturım boyunca İzin Ber
-    .accesskey = r
+    .label = Oturım içün İzin Ber
+    .accesskey = O
 permissions-allow =
     .label = İzin Ber
     .accesskey = z
@@ -30,102 +30,102 @@ permissions-remove-all =
     .accesskey = e
 permissions-button-cancel =
     .label = Vazgeç
-    .accesskey = a
+    .accesskey = z
 permissions-button-ok =
     .label = Deñişikliklerni Saqla
-    .accesskey = D
+    .accesskey = S
 permissions-searchbox =
-    .placeholder = Ağ-saytını Qıdır
+    .placeholder = Ağ-saytı Qıdır
 permissions-capabilities-allow =
-    .label = İzin ver
+    .label = İzin Ber
 permissions-capabilities-block =
-    .label = Engelle
+    .label = Blokla
 permissions-capabilities-prompt =
-    .label = Er zaman sor
+    .label = Er Zaman Sora
 
 ## Invalid Hostname Dialog
 
-permissions-invalid-uri-title = Geçersiz sunucu adı girildi
-permissions-invalid-uri-label = Lütfen geçerli bir sunucu adı girin
+permissions-invalid-uri-title = Keçersiz Qonaqbay-İsmi Kirsetildi
+permissions-invalid-uri-label = Lütfen keçerli bir qonaqbay-ismi kirsetiñiz
 
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-tracking-protection-window =
-    .title = İstisnalar - İzlenme Koruması
+    .title = İstisnalar - İzlenme İmayesi
     .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Bu sitelerde İzlenme Koruması’nı devre dışı bıraktınız.
+permissions-exceptions-tracking-protection-desc = Bu ağ-saytlarında İzlenme İmayesini naqabilleştirgen olasıñız.
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window =
-    .title = İstisnalar - Çerezler ve Site Verileri
+    .title = İstisnalar - Çörekler ve Sayt Verileri
     .style = { permissions-window.style }
-permissions-exceptions-cookie-desc = Angi web sitelerinin çerezleri ve site verilerini er zaman kullanabileceğini veya iç kullanmayacağını belirleyebilirsiniz.  Yönetmek istediğiniz sitenin tam adresini yazıp “Engelle”, “Oturum boyunca izin ver” veya “İzin ver”e tıklayın.
+permissions-exceptions-cookie-desc = Angi ağ-saytlarınınñ çöreklerni ve sayt verilerini er zaman qullanabilecegini yaki iç qullanalmaycağını belgileybilirsiñiz. İdare etmege istegeniñiz saytnıñ tam adresini yazıp “Blokla”, “Oturım içün İzin Ber” yaki “İzin Ber”ge çertiñiz.
 
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window =
-    .title = İzin Verilen Siteler - Açılır Pencereler
+    .title = İzin Berilgen Ağ-saytları - Peydalar
     .style = { permissions-window.style }
-permissions-exceptions-popup-desc = Angi sitelerin açılır pencere açabileceğini belirleyebilirsiniz. İzin vermek istediğiniz sitenin tam adresini yazdıktan sonra İzin ver’e tıklayın.
+permissions-exceptions-popup-desc = Qaysı ağ-saytlarına peyda pencereler açmağa izin berilgenini belirtebilirsiñiz. İzin bermege istegeniñiz saytnıñ tam adresini kirsetiñiz ve ondan soñ İzin Ber çertiñiz.
 
 ## Exceptions - Saved Logins
 
 permissions-exceptions-saved-logins-window =
-    .title = İstisnalar - Kayıtlı Esaplar
+    .title = İstisnalar - Saqlanğan İçeri İmzalanışlar
     .style = { permissions-window.style }
-permissions-exceptions-saved-logins-desc = Aşağıdaki sitelere giriş bilgileri kaydedilmeyecek
+permissions-exceptions-saved-logins-desc = Aşağıdaki saytlar içün içeri-imzalanışlar saqlanmaycaq
 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window =
-    .title = İzin Verilen Siteler - Eklenti Yükleme
+    .title = İzin Berilgen Ağ-saytları - Eklentiler Qurulımı
     .style = { permissions-window.style }
-permissions-exceptions-addons-desc = Angi sitelerin eklenti yükleyebileceğini belirleyebilirsiniz. İzin vermek istediğiniz sitenin tam adresini yazdıktan sonra İzin ver’e tıklayın.
+permissions-exceptions-addons-desc = Qaysı ağ-saytlarına eklentiler qurmağa izin berilgenini belirtebilirsiñiz. İzin bermege istegeniñiz saytnıñ tam adresini kirsetiñiz ve ondan soñ İzin Ber çertiñiz.
 
 ## Exceptions - Autoplay Media
 
 permissions-exceptions-autoplay-media-window =
-    .title = İzin Verilen Siteler - Otomatik Oynatma
+    .title = İzin Berilgen Saytlar - Avtomatik Oynatma
     .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = Angi sitelere medya dosyalarını otomatik oynatma izni vereceğinizi seçebilirsiniz. İzin vermek istediğiniz sitenin tam adresini yazıp “İzin ver” düğmesine tıklayın.
+permissions-exceptions-autoplay-media-desc = Angi saytlarğa vasat unsurlarını avtomatik oynatmağa caiz olğanını belirtebilirsiñiz. İzin bermege istgeniñiz saytnıñ tam adresini yazıp “İzin Ber”ge çertiñiz.
 
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
-    .title = Ayarlar - Bildirim İzinleri
+    .title = Ayarlar - Tebliğler Ruhsetleri
     .style = { permissions-window.style }
-permissions-site-notification-desc = Aşağıdaki web siteleri size bildirim gönderme isteğinde bulundu. Angi web sitelerine bildirim gönderme izni vereceğinizi seçebilirsiniz. Ayrıca yeni bildirim gönderme isteklerini tamamen engelleyebilirsiniz.
+permissions-site-notification-desc = Aşağıdaki ağ-saytları sizge tebliğler yibermege rica etkendir. Angi ağ-saytları içün sizge tebliğler yibermege caiz olğanını belirtebilirsiñiz. Bir de tebliğler izni sorağan yañı istemlerni bloklaybilirsiñiz.
 permissions-site-notification-disable-label =
-    .label = Bildirim gönderme isteklerini sormadan engelle
-permissions-site-notification-disable-desc = Yukarıdaki listede bulunmayan hiçbir web sitesi size bildirim gönderme isteğinde bulunamayacaktır. Bildirimleri engellerseniz bazı site özellikleri çalışmayabilir.
+    .label = Tebliğler izni sorağan yañı istemlerni blokla
+permissions-site-notification-disable-desc = Bu, yuqarıda listelenmegen er angi ağ-saytınıñ tebliğler yiberme ruhsetini soramasınıñ aldını alacaq. Tebliğlerni bloklamaq bazı sayt hususiyetlerini qırabilir.
 
 ## Site Permissions - Location
 
 permissions-site-location-window =
-    .title = Ayarlar - Konum İzinleri
+    .title = Ayarlar - Qonum Ruhsetleri
     .style = { permissions-window.style }
-permissions-site-location-desc = Aşağıdaki web siteleri konumunuza erişme isteğinde bulundu. Angi web sitelerinin konumunuzu öğrenebileceğini seçebilirsiniz. Ayrıca konumunuzu öğrenme isteklerini tamamen engelleyebilirsiniz.
+permissions-site-location-desc = Aşağıdaki ağ-saytları qonumıñızğa irişmege rica etkendir. Angi ağ-saytları içün qonumıñızğa irişmege caiz olğanını belirtebilirsiñiz. Bir de qonumıñızğa irişmege sorağan yañı istemlerni bloklaybilirsiñiz.
 permissions-site-location-disable-label =
-    .label = Konumumu öğrenme isteklerini sormadan engelle
-permissions-site-location-disable-desc = Yukarıdaki listede bulunmayan hiçbir web sitesi konumunuzu öğrenme isteğinde bulunamayacaktır. Konumunuzun öğrenilmesini engellerseniz bazı site özellikleri çalışmayabilir.
+    .label = Qonumıñızğa irişmege sorağan yañı istemlerni blokla
+permissions-site-location-disable-desc = Bu, yuqarıda listelenmegen ağ-saytlarınıñ hepisiniñ qonumıñızğa irişme ruhsetini rica etmesini öñleycek. Qonumıñızğa irişimniñ bloklanması belki bazı sayt hususiyetlerini qırar.
 
 ## Site Permissions - Camera
 
 permissions-site-camera-window =
-    .title = Ayarlar - Kamera İzinleri
+    .title = Ayarlar - Kamera Ruhsetleri
     .style = { permissions-window.style }
-permissions-site-camera-desc = Aşağıdaki web siteleri kameranıza erişme isteğinde bulundu. Angi web sitelerinin kameranıza erişebileceğini seçebilirsiniz. Ayrıca kameranıza erişme isteklerini tamamen engelleyebilirsiniz.
+permissions-site-camera-desc = Aşağıdaki ağ-saytları kamerañızğa irişmege rica etkendir. Angi ağ-saytları içün kamerañızğa irişmege caiz olğanını belirtebilirsiñiz. Bir de kamerañızğa irişmege sorağan yañı istemlerni bloklaybilirsiñiz.
 permissions-site-camera-disable-label =
-    .label = Kamerama erişme isteklerini sormadan engelle
-permissions-site-camera-disable-desc = Yukarıdaki listede bulunmayan hiçbir web sitesi kameranıza erişme isteğinde bulunamayacaktır. Kamera erişimini engellerseniz bazı site özellikleri çalışmayabilir.
+    .label = Kamerañızğa irişmege sorağan yañı istemlerni blokla
+permissions-site-camera-disable-desc = Bu, yuqarıda listelenmegen ağ-saytlarınıñ hepisiniñ kamerañızğa irişme ruhsetini rica etmesini öñleycek. Kamerañızğa irişimniñ bloklanması belki bazı sayt hususiyetlerini sındırır.
 
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window =
-    .title = Ayarlar - Mikrofon İzinleri
+    .title = Ayarlar - Mikrofon Ruhsetleri
     .style = { permissions-window.style }
-permissions-site-microphone-desc = Aşağıdaki web siteleri mikrofonunuza erişme isteğinde bulundu. Angi web sitelerinin mikrofonunuza erişebileceğini seçebilirsiniz. Ayrıca mikrofonunuza erişme isteklerini tamamen engelleyebilirsiniz.
+permissions-site-microphone-desc = Aşağıdaki ağ-saytları mikrofonıñızğa irişmege rica etkendir. Angi ağ-saytları içün mikrofonıñızğa irişmege caiz olğanını belirtebilirsiñiz. Bir de mikrofonıñızğa irişmege sorağan yañı istemlerni bloklaybilirsiñiz.
 permissions-site-microphone-disable-label =
-    .label = Mikrofonuma erişme isteklerini sormadan engelle
-permissions-site-microphone-disable-desc = Yukarıdaki listede bulunmayan hiçbir web sitesi mikrofonunuza erişme isteğinde bulunamayacaktır. Mikrofon erişimini engellerseniz bazı site özellikleri çalışmayabilir.
+    .label = Mikrofonıñızğa irişmege sorağan yañı istemlerni blokla
+permissions-site-microphone-disable-desc = Bu, yuqarıda listelenmegen er angi ağ-saytınıñ mikrofonıñızğa irişme ruhsetini soramasınıñ aldını alacaq. Mikrofonıñızğa irişimniñ bloklanması belki bazı sayt hususiyetlerini sındırır.

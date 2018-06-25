@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 blocklist-window =
-    .title = Engelleme Listeleri
+    .title = Blok Listeleri
     .style = width: 55em
-blocklist-desc = Gezinti etkinliğinizi izleyebilecek web öğelerini engellemek için { -brand-short-name }’un angi listeyi kullanacağını seçebilirsiniz.
+blocklist-desc = Kezinti faaliyetiñizni izleybilecek Ağ unsurlarını bloklamaq içün { -brand-short-name }'nıñ angi listeni qullanacağını saylaybilirsiñiz.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
@@ -14,8 +14,8 @@ blocklist-button-cancel =
     .label = Vazgeç
     .accesskey = V
 blocklist-button-ok =
-    .label = Değişiklikleri kaydet
-    .accesskey = D
+    .label = Deñişikliklerni Saqla
+    .accesskey = S
 # This template constructs the name of the block list in the block lists dialog.
 # It combines the list name and description.
 # e.g. "Standard (Recommended). This list does a pretty good job."
@@ -24,7 +24,7 @@ blocklist-button-ok =
 #   $listName {string, "Standard (Recommended)."} - List name.
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
-blocklist-item-moz-std-name = Disconnect.me temel koruma (önerilen).
-blocklist-item-moz-std-desc = Web sitelerinin düzgün çalışması için bazı takipçilere izin verir.
-blocklist-item-moz-full-name = Disconnect.me sıkı koruma.
-blocklist-item-moz-full-desc = Bilinen tüm takipçiler engeller. Bazı siteler düzgün çalışmayabilir.
+blocklist-item-moz-std-name = Disconnect.me temel imaye (Tevsiye etilir).
+blocklist-item-moz-std-desc = Ağ saytlarınıñ tüzgün işlemesi içün bazı izleyicilerge izin berir.
+blocklist-item-moz-full-name = Disconnect.me sıqı imaye.
+blocklist-item-moz-full-desc = Malüm izleyicilerni bloklar. Bazı saytlar belki münasip işlemez.
