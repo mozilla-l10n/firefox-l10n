@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -137,17 +129,11 @@ is-not-default = { -brand-short-name } no ye o suyo navegador por defecto
 set-as-my-default-browser =
     .label = Definir per defecto…
     .accesskey = D
-startup-page = Quan s'enchegue lo { -brand-short-name }:
-    .accesskey = e
-startup-user-homepage =
-    .label = Amostrar la mía pachina d'inicio
-startup-blank-page =
-    .label = Amostrar una pachina en blanco
-startup-prev-session =
-    .label = Amostrar las mías finestras y pestanyas d'a zaguer vegada
+startup-restore-previous-session =
+    .label = Restaurar la sesión anterior
+    .accesskey = s
 disable-extension =
     .label = Desactivar extensión
-home-page-header = Pachina d'inicio
 tabs-group-header = Pestanyas
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab cambia de pestanya en orden d'uso mas recient
@@ -267,7 +253,6 @@ play-drm-content =
 play-drm-content-learn-more = Mas información
 update-application-title = Actualizacions d'o { -brand-short-name }:
 update-application-description = Mantener { -brand-short-name } a lo día pa tener lo millor rendimiento, estabilidat y seguranza.
-update-application-info = Versión { $version } <a>Novedatz</a>
 update-application-version = Versión { $version } <a data-l10n-name="learn-more">Novedatz</a>
 update-history =
     .label = Amostrar l'historial d'actualizacions
@@ -303,7 +288,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Limite de procesado de conteniu
     .accesskey = L
 performance-limit-content-process-enabled-desc = Los procesos de conteniu adicional pueden millorar las prestacions quan se fan servir multiples pestanyas, pero tamién usarán mas memoria.
-performance-limit-content-process-disabled-desc = Modificar lo numero de procesos de contenius no ye posible soque con la versión multiproceso de { -brand-short-name }. <a>Aprender a comprebar si los multiprocesos son activaus</a>
 performance-limit-content-process-blocked-desc = Modificar lo numero de procesos de contenius no ye posible soque con la versión multiproceso de { -brand-short-name }. <a data-l10n-name="learn-more">Aprender a comprebar si los multiprocesos son activaus</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -341,6 +325,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Nuevas finestras y pestanyas
+home-new-windows-tabs-description2 = Triar qué ye lo que se vei quan s'ubre la pachina d'inicio, finestras nuevas y pestanyas nuevas.
 
 ## Home Section - Home Page Customization
 
@@ -373,9 +358,6 @@ use-current-pages =
 choose-bookmark =
     .label = Usar o marcapachinas…
     .accesskey = m
-restore-default =
-    .label = Restaurar ta la valura por defecto
-    .accesskey = v
 
 ## Search Section
 
@@ -531,6 +513,9 @@ privacy-header = Privacidat d'o navegador
 ## Privacy Section - Forms
 
 forms-header = Formularios & Claus
+forms-ask-to-save-logins =
+    .label = Demandar alzar usuarios y claus d'os puestos web
+    .accesskey = r
 forms-exceptions =
     .label = Excepcions…
     .accesskey = x
@@ -572,6 +557,9 @@ history-private-browsing-permanent =
 history-remember-option =
     .label = Remerar o mío historial de navegación y descargas
     .accesskey = m
+history-remember-browser-option =
+    .label = Fer acordanza de l'historial de navegación y descargas
+    .accesskey = r
 history-remember-search-option =
     .label = Remerar l'historial de formularios y buscas
     .accesskey = f
@@ -602,6 +590,10 @@ sitedata-block-cookies-option =
     .accesskey = B
 sitedata-keep-until = Alzar dica
     .accesskey = u
+sitedata-keep-until-expire =
+    .label = Vencen
+sitedata-keep-until-closed =
+    .label = { -brand-short-name } ye zarrau
 sitedata-accept-third-party-desc = Acceptar cookies de tercers y datos d'o puesto
     .accesskey = t
 sitedata-accept-third-party-always-option =
@@ -683,6 +675,12 @@ permissions-notification-link = Saber-ne mas
 permissions-notification-pause =
     .label = Notificacions de pausa dica que { -brand-short-name } se reinicie
     .accesskey = n
+permissions-block-autoplay-media =
+    .label = Privar que las webs reproduzcan automaticament fichers multimedia con soniu
+    .accesskey = b
+permissions-block-autoplay-media-exceptions =
+    .label = Excepcions…
+    .accesskey = E
 permissions-block-popups =
     .label = Blocar finestras emerchents
     .accesskey = B
@@ -709,6 +707,9 @@ collection-health-report =
     .label = Permitir que { -brand-short-name } ninvie datos tecnicos y d'interacción ta { -vendor-short-name }
     .accesskey = r
 collection-health-report-link = Saber-ne mas
+collection-studies =
+    .label = Permitir que { -brand-short-name } instale y execute estudios
+collection-studies-link = Veyer estudios de { -brand-short-name }
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Lo reporte de datos ye desactivau en esta configuración de programa

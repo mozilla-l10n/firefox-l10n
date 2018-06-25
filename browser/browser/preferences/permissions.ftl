@@ -83,6 +83,13 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Puede especificar qué puestos web pueden instalar complementos. Escriba l'adreza exacta d'o puesto que quiere permitir y prete Permitir.
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = Webs permitidas - Autorreproducción
+    .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc = Puede especificar qué puestos web se permite que reproduzan elementos multimedia automaticament. Escriba l'adreza exacta d'o puesto que quiere autorizar y dimpués faga clic en Permitir.
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
