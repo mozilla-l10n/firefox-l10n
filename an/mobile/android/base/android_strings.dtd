@@ -70,6 +70,15 @@
 
 <!ENTITY url_bar_default_text2 "Mirar u escribir adreza">
 
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "Fe servir lo tuyo lector de QR pa buscar u escribir l\&apos;adreza">
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "Fe servir lo tuyo microfono pa buscar u escribir l\&apos;adreza">
+
 <!ENTITY bookmark "Marcapachinas">
 <!ENTITY bookmark_remove "Eliminar o marcapachinas">
 <!ENTITY bookmark_added "S\&apos;ha adhibiu o marcapachinas">
@@ -207,6 +216,7 @@
 <!ENTITY pref_category_advanced_summary3 "Restaurar pestanyas, complementos, ferramientas de desembolicador">
 <!ENTITY pref_category_notifications "Notificacions">
 <!ENTITY pref_category_notifications_summary "Nuevas caracteristicas, actualizacions de puestos web">
+<!ENTITY pref_category_notifications_summary2 "Nuevas caracteristicas, consellos sobre los productos">
 <!ENTITY pref_developer_remotedebugging_usb "Depuración remota vía USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Depuración remota vía Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "A depuración Wi-Fi requiere que o tuyo dispositivo tienga instalada un app lectora de codigo QR.">
@@ -281,6 +291,13 @@
 
 <!ENTITY pref_whats_new_notification "Pestanya alzada en &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Saber-ne mas sobre las nuevas caracteristicas dimpués d\&apos;una actualización">
+
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!ENTITY pref_feature_tips_notification "Consellos y estrucias sobre lo producto y las suyas caracteristicas">
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+<!ENTITY pref_feature_tips_notification_summary "Aprender mas sobre cómo usar &brandShortName; y atros productos de &vendorShortName;">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
@@ -422,7 +439,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "Informe de salut de &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "Ninviar a &vendorShortName; información quanto a o estau d\&apos;o navegador ta comprender millor as suyas caracteristicas">
-<!ENTITY datareporting_abouthr_title "Amostrar l\&apos;informe d\&apos;estau">
 <!ENTITY datareporting_telemetry_title "Telemetria">
 <!ENTITY datareporting_telemetry_summary "Ninviar a &vendorShortName; qualques datos quanto a o rendimiento, uso, hardware y personalización d\&apos;o navegador ta aduyar a amillorar &brandShortName;">
 <!ENTITY datareporting_crashreporter_summary "Ninviar a &brandShortName; informes de fallas ta aduyar a &vendorShortName; a fer o navegador mas estable y seguro">
@@ -537,7 +553,7 @@
 <!ENTITY pref_compact_tabs_summary2 "Organizar las pestanyas en dos columnas verticals">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
-     any page is removed frome about:home. This includes pages that are in history,
+     any page is removed from about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "S\&apos;ha eliminau a pachina">
 <!ENTITY folder_removed "Carpeta eliminada">
@@ -752,7 +768,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Zaguera sincronización: &formatS;">
-<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!-- Localization note: Used when the sync has not happened yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Zaguera sincronización: nunca">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
