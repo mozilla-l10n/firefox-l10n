@@ -41,6 +41,7 @@ clear-site-data-cache-with-data =
 clear-site-data-cache-empty =
     .label = Asoë Cache Web
     .accesskey = W
+clear-site-data-cache-info = Situs wèb peureulèe geupeuhah ulang gamba ngön data
 clear-site-data-cancel =
     .label = Bateue
     .accesskey = B
