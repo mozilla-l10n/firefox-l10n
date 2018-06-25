@@ -675,6 +675,9 @@ permissions-notification-link = વધુ શીખો
 permissions-notification-pause =
     .label = { -brand-short-name } પુનઃપ્રારંભે ત્યા સુધી સૂચનાઓ થોભાવો
     .accesskey = n
+permissions-block-autoplay-media =
+    .label = અવાજ સાથે મીડિયાને આપમેળે ચલાવવાથી વેબસાઇટ્સને બ્લૉક કરો
+    .accesskey = B
 permissions-block-autoplay-media-exceptions =
     .label = અપવાદો…
     .accesskey = E
@@ -704,6 +707,9 @@ collection-health-report =
     .label = { -brand-short-name } ને મંજૂરી આપો { -vendor-short-name } ને ટેક્નિકલ અને ક્રિયાપ્રતિક્રિયા ડેટા મોકલવા માટે.
     .accesskey = r
 collection-health-report-link = વધારે શીખો
+collection-studies =
+    .label = { -brand-short-name } અભ્યાસને ઇન્સ્ટોલ અને ચલાવવાની મંજૂરી આપો
+collection-studies-link = { -brand-short-name } અભ્યાસો જુઓ
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = આ તૈચાર કરેલ રૂપરેખાંકન માટે ડેટા અહેવાલ અક્ષમ કરેલું છે
