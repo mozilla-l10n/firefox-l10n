@@ -3,6 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY aboutDialog.title          "&brandFullName; గురించి">
 
+<!-- LOCALIZATION NOTE (update.*):
+# These strings are also used in the update pane of preferences.
+# See about:preferences#general.
+-->
 <!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*):
 # Only one button is present at a time.
 # The button when displayed is located directly under the Firefox version in
@@ -16,15 +20,13 @@
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 <!ENTITY warningDesc.version        "&brandShortName; ప్రయోగాత్మకమైనది మరియు స్థిరంగా ఉండకపోవచ్చు.">
-<!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "&brandShortName;‌ను మరింతగా మెరుగుపరచడానికి ఉపయోగపడే పనితనం, హార్డువేరు, వాడుక మరియు అనురూపనల గురించిన సమాచారాన్ని &vendorShortName;కు స్వయంచాలకంగా పంపిస్తుంది.">
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       " అనేది ">
-<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!-- LOCALIZATION NOTE (community.exp.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "ప్రపంచవ్యాప్త సముదాయం">
 <!ENTITY community.exp.end          ". వీరు జాలాన్ని స్వేచ్ఛగా, బహిరంగంగా, అందరికీ అందుబాటులో ఉంచేందుకు కలిసి కృషి చేస్తున్నారు.">
 
@@ -37,7 +39,7 @@
 <!ENTITY community.end3             " వీరు జాలాన్ని స్వేచ్ఛగా, బహిరంగంగా, అందరికీ అందుబాటులో ఉంచేందుకు కలిసి కృషి చేస్తున్నారు.">
 
 <!ENTITY helpus.start               "తోడ్పడాలని అనుకుంటున్నారా? ">
-<!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
+<!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://donate.mozilla.org/?utm_source=firefox&utm_medium=referral&utm_campaign=firefox_about&utm_content=firefox_about. -->
 <!ENTITY helpus.donateLink          "విరాళమివ్వండి">
 <!ENTITY helpus.middle              " లేక ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
@@ -50,7 +52,7 @@
 <!ENTITY bottomLinks.license        "లైసెన్సింగ్ సమాచారం">
 
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
-<!ENTITY bottomLinks.rights         "అంతిమ వాడుకరి హక్కులు">
+<!ENTITY bottomLinks.rights         "అంతిమ-వాడుకరి హక్కులు">
 
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
 <!ENTITY bottomLinks.privacy        "గోప్యతా విధానం">
@@ -91,7 +93,7 @@
 <!ENTITY update.unsupported.linkText "ఇంకా తెలుసుకోండి">
 <!ENTITY update.unsupported.end      "">
 
-<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
+<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).
