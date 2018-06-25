@@ -10,6 +10,7 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Jeunajah Rahsia)">
 
 
 <!-- Tab context menu -->
@@ -305,6 +306,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The translation should do the same. -->
 
 
+<!ENTITY panicButton.thankyou.buttonlabel         "Sabah!">
 
 <!ENTITY emeLearnMoreContextMenu.label            "Meurunoë lom bhah DRM…">
 
