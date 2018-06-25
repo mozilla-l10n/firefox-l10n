@@ -90,6 +90,15 @@ extension-controlled-privacy-containers = <img data-l10n-name="icon"/> { $name }
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = <img data-l10n-name="icon"/> { $name }, நீட்சியானது தங்களது கண்காணிப்புப் பாதுகாப்பை கட்டுப்படுத்துகிறது.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlled-proxy-config = <img data-l10n-name="icon"/> { $name }, நீட்டிப்பு { -brand-short-name } இணையத்துடன் எவ்வாறு இணைய முடியும் என்பதைக் கட்டுப்படுத்துகிறது.
+# This string is shown after the user disables an extension to notify the user
+# how to enable an extension that they disabled.
+#
+# <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
+# <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
+extension-controlled-enable = <img data-l10n-name="menu-icon"/> பட்டியலிலுள்ள <img data-l10n-name="addons-icon"/> கூடுதல் இணைப்புகளுக்குச் செல்ல நீட்டிப்பைச் செயற்படுத்து.
 
 ## Preferences UI Search Results
 
@@ -307,6 +316,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = வலைப்பின்னல் பதிலாள்
+network-proxy-connection-description = { -brand-short-name } எவ்வாறு இணையத்துடன் இணைய வேண்டும் என்பதைக் கட்டமை.
 network-proxy-connection-learn-more = மேலும் அறிய
 network-proxy-connection-settings =
     .label = அமைவுகள்…
@@ -547,6 +557,9 @@ history-private-browsing-permanent =
 history-remember-option =
     .label = என் உலாவல் மற்றும் பதிவிறக்க வரலாற்றை நினைவில் கொள்
     .accesskey = வ
+history-remember-browser-option =
+    .label = உலாவல் மற்றும் பதிவிறக்க வரலாற்றை நினைவுப்படுத்து
+    .accesskey = b
 history-remember-search-option =
     .label = தேடும் மற்றும் படிவ வரலாற்றை நினைவில் கொள்
     .accesskey = f
@@ -563,6 +576,11 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = நினைவிகள் மற்றும் தள தரவு
+sitedata-total-size-calculating = தள தரவு மற்றும் இடையக அளவைக் கணக்கிடுகிறது...
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = நீங்கள் சேமித்த நினைவிகள், தள தரவு மற்றும் இடையகத்தின் தற்போதைய பயனளவு வன்தட்டில் { $value }{ $unit } அளவு பயன்படுத்தியுள்ளது.
 sitedata-learn-more = மேலும் அறிய
 sitedata-accept-cookies-option =
     .label = வலைத்தளங்களிலிருந்து நினைவி மற்றும் தள தரவை ஏற்றுக்கொள்ளுங்கள் (பரிந்துரைக்கப்பட்டது)
@@ -657,6 +675,9 @@ permissions-notification-link = மேலும் அறிய
 permissions-notification-pause =
     .label = { -brand-short-name } மறுதொடங்கும் வரை அறிவிப்புகளை இடைநிறுத்து
     .accesskey = n
+permissions-block-autoplay-media =
+    .label = ஊடகங்ளை சத்தத்துடன் தானாக இயக்கும் தளங்களைத் தடு
+    .accesskey = B
 permissions-block-autoplay-media-exceptions =
     .label = விதிவிலக்குகள்...
     .accesskey = E
