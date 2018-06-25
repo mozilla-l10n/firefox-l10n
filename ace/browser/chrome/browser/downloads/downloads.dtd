@@ -71,6 +71,7 @@
      Displayed when hovering a complete download, indicates that it's possible to
      open the file using an app available in the system.
      -->
+<!ENTITY openFile.label                   "Peuhah Beureukaih">
 
 <!-- LOCALIZATION NOTE (retryDownload.label):
      Displayed when hovering a download which is able to be retried by users,
