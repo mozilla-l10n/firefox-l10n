@@ -310,6 +310,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "B">
 <!ENTITY newUserContext.label             "Nieuw containertabblad">
 <!ENTITY newUserContext.accesskey         "c">
+<!ENTITY manageUserContext.label          "Containers beheren">
+<!ENTITY manageUserContext.accesskey      "o">
 <!ENTITY newNavigatorCmd.label        "Nieuw venster">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -412,8 +414,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
-     in the location bar. These labels are only used in Photon, where you can put
-     items into this menu permanently (pinned). -->
+     in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Toevoegen aan overloopmenu">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "m">
 <!ENTITY customizeMenu.moveToToolbar.label "Verplaatsen naar werkbalk">
@@ -425,6 +426,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Verplaatsen naar menu">
 <!ENTITY customizeMenu.moveToPanel.accesskey "V">
+<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
+     can appear on the same context menu as menubarCmd and personalbarCmd,
+     so they should have different access keys.  -->
 <!ENTITY customizeMenu.pinToOverflowMenu.label "Vastmaken aan overloopmenu">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "V">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Losmaken van overloopmenu">
@@ -910,20 +914,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.on "Bescherming tegen volgen: AAN">
 <!ENTITY trackingProtection.off "Bescherming tegen volgen: UIT">
 <!ENTITY trackingProtection.title "Bescherming tegen volgen">
-<!ENTITY trackingProtection.tooltip "Voorkeuren van Bescherming tegen volgen openen">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokkeert onderdelen van de pagina die uw surfgedrag zouden kunnen volgen.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Deze website bevat elementen die uw surfgedrag zouden kunnen volgen. U hebt bescherming uitgeschakeld.">
 <!ENTITY trackingProtection.notDetected3 "Geen volgelementen op deze pagina gedetecteerd.">
-<!ENTITY trackingProtection.detectedNotBlocked4 "Op deze webpagina zijn volgers gedetecteerd.">
-<!ENTITY trackingProtection.notDetected4 "Geen volgers op deze pagina gedetecteerd.">
-<!ENTITY trackingProtection.reloadRequired "U hebt Bescherming tegen volgen ingeschakeld. Laad de huidige pagina opnieuw om alle volgers te blokkeren.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Bescherming voor deze website uitschakelen">
 <!ENTITY trackingProtection.unblock.accesskey "u">
-<!ENTITY trackingProtection.unblock2.label "Deze website vertrouwen">
-<!ENTITY trackingProtection.unblock2.accesskey "v">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -932,13 +930,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Bescherming inschakelen">
 <!ENTITY trackingProtection.block2.accesskey "s">
 
-<!ENTITY trackingProtection.unblockPrivate2.label "Deze website vertrouwen voor deze sessie">
-<!ENTITY trackingProtection.unblockPrivate2.accesskey "v">
-<!ENTITY trackingProtection.block3.label "Bescherming tegen volgen AANzetten">
-<!ENTITY trackingProtection.block3.accesskey "A">
-<!ENTITY trackingProtection.reload.label "Deze pagina vernieuwen">
-<!ENTITY trackingProtection.reload.accesskey "r">
-
+<!ENTITY trackingProtection.tooltip "Voorkeuren van Bescherming tegen volgen openen">
 <!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; blokkeert onderdelen van deze pagina die uw surfgedrag zouden kunnen volgen.">
 <!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; heeft elementen gedetecteerd die uw surfgedrag zouden kunnen volgen.">
 <!ENTITY trackingProtection.detectedException "&brandShortName; heeft elementen gedetecteerd die uw surfgedrag zouden kunnen volgen. U hebt bescherming voor deze website uitgeschakeld.">
