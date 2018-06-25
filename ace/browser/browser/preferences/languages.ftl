@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+languages-window =
+    .title = Bahsa
+    .style = width: 30em
 # The pattern used to generate strings presented to the user in the
 # locale selection list.
 #

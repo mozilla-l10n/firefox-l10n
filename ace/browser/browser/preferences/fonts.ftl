@@ -13,19 +13,35 @@ fonts-langgroup-bengali =
     .label = Banggali
 fonts-langgroup-cyrillic =
     .label = Kiril
+fonts-langgroup-georgian =
+    .label = Gèorgia
+fonts-langgroup-el =
+    .label = Yunani
+fonts-langgroup-gujarati =
+    .label = Gujarat
+fonts-langgroup-japanese =
+    .label = Jeupun
 fonts-langgroup-hebrew =
     .label = Ibrani
+fonts-langgroup-khmer =
+    .label = Khmer
 fonts-langgroup-korean =
     .label = Korèa
 # Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
 fonts-langgroup-latin =
     .label = Latèn
+fonts-langgroup-malayalam =
+    .label = Malayalam
 fonts-langgroup-math =
     .label = Matematika
 fonts-langgroup-tamil =
     .label = Tamil
+fonts-langgroup-telugu =
+    .label = Telugu
 fonts-langgroup-thai =
     .label = Thai
+fonts-langgroup-tibetan =
+    .label = Tibèt
 
 ## Default fonts and their sizes
 
@@ -49,6 +65,8 @@ fonts-languages-fallback-name-arabic =
     .label = Arab
 fonts-languages-fallback-name-greek =
     .label = Yunani
+fonts-languages-fallback-name-hebrew =
+    .label = Ibrani
 fonts-languages-fallback-name-japanese =
     .label = Jeupun
 fonts-languages-fallback-name-korean =
