@@ -46,22 +46,10 @@
 
 <!ENTITY  feedTab               "Canals">
 <!ENTITY  feedTab.accesskey     "C">
-<!ENTITY  feedSubscribe         "Conducir-se">
-<!ENTITY  feedSubscribe.accesskey "u">
 
 <!ENTITY  permTab               "Permisos">
 <!ENTITY  permTab.accesskey     "P">
-<!ENTITY  permUseDefault        "Usar as valuras por defecto">
-<!ENTITY  permAskAlways         "Preguntar siempre">
-<!ENTITY  permAllow             "Permitir">
-<!ENTITY  permAllowSession      "Permitir en ista sesión">
-<!ENTITY  permHide              "Amagar">
-<!ENTITY  permBlock             "Blocar">
 <!ENTITY  permissionsFor        "Permisos ta:">
-<!ENTITY  permPlugins           "Activar os plugins">
-
-<!ENTITY  permClearStorage           "Limpiar l'almagazenamiento">
-<!ENTITY  permClearStorage.accesskey "c">
 
 <!ENTITY  securityTab           "Seguranza">
 <!ENTITY  securityTab.accesskey "S">
@@ -78,9 +66,9 @@
 
 <!ENTITY  securityView.privacy.header                   "Privacidat y historia">
 <!ENTITY  securityView.privacy.history                  "He visitau iste puesto web antes de hue?">
-<!ENTITY  securityView.privacy.cookies                  "Iste puesto web almagazena información (cookies) en o mío ordinador?">
-<!ENTITY  securityView.privacy.viewCookies              "Veyer as cookies">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.siteData                 "Ye almagazenando esta pachina garra información en o mío ordinador?">
+<!ENTITY  securityView.privacy.clearSiteData            "Borrar cookies y datos d'o puesto">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "C">
 <!ENTITY  securityView.privacy.passwords                "Ha alzau garra clau d'iste puesto web?">
 <!ENTITY  securityView.privacy.viewPasswords            "Veyer as claus alzadas">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "v">
