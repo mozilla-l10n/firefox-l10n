@@ -25,3 +25,6 @@ blocklist-button-ok =
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-name = Peulindông dasar Disconnect.me (Geupeusaran).
+blocklist-item-moz-std-desc = Peubiyeuë peulacak mangat web meufungsi ngön göt
+blocklist-item-moz-full-name = Lindông arat Disconnet.me.
+blocklist-item-moz-full-desc = Blokir peulacak nyang dituri. Padit-padit boh website mungkén h'an jitém meufungsi ngön göt.
