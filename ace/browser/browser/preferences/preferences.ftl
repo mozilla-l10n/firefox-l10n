@@ -69,6 +69,30 @@ browser-containers-learn-more = Meurunoë lom
 
 ## General Section - Files and Applications
 
+files-and-applications-title = Beureukaih ngön Aplikasi
+download-save-to =
+    .label = Keubah beureukaih bak
+    .accesskey = b
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Piléh...
+           *[other] Mita...
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] P
+           *[other] M
+        }
+download-always-ask-where =
+    .label = Beusabé tanyöng pat teumpat keu keubah beureukaih
+    .accesskey = B
+applications-type-column =
+    .label = Jeunèh Kontèn
+    .accesskey = J
+applications-action-column =
+    .label = Aksi
+    .accesskey = A
 play-drm-content-learn-more = Meurunoë lom
 
 ## General Section - Performance
