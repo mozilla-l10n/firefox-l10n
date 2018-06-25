@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -137,20 +129,11 @@ is-not-default = { -brand-short-name }가 기본 브라우저가 아닙니다.
 set-as-my-default-browser =
     .label = 기본값으로…
     .accesskey = D
-startup-page = { -brand-short-name } 가 시작될 때
-    .accesskey = s
-startup-user-homepage =
-    .label = 홈 페이지 보기
-startup-blank-page =
-    .label = 빈 페이지 보기
-startup-prev-session =
-    .label = 지난번 창과 탭 보기
 startup-restore-previous-session =
     .label = 이전 세션 복원
     .accesskey = s
 disable-extension =
     .label = 확장기능 비활성화
-home-page-header = 홈 페이지
 tabs-group-header = 탭
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab으로 최근 사용한 순서대로 탭 순환
@@ -222,7 +205,7 @@ check-user-spelling =
 
 ## General Section - Files and Applications
 
-files-and-applications-title = 파일과 어플리케이션
+files-and-applications-title = 파일과 애플리케이션
 download-header = 다운로드
 download-save-to =
     .label = 저장 위치
@@ -241,10 +224,10 @@ download-choose-folder =
 download-always-ask-where =
     .label = 파일 저장 위치 항상 묻기
     .accesskey = A
-applications-header = 어플리케이션
+applications-header = 애플리케이션
 applications-description = { -brand-short-name } 가 다운로드 받은 파일이나 브라우저에서 사용하고 있는 응용프로그램에 대해 어떻게 처리할 지 선택하십시오.
 applications-filter =
-    .placeholder = 파일 타입 혹은 어플리케이션 검색
+    .placeholder = 파일 타입 혹은 애플리케이션 검색
 applications-type-column =
     .label = 파일 형식
     .accesskey = T
@@ -258,7 +241,6 @@ play-drm-content =
 play-drm-content-learn-more = 더 알아보기
 update-application-title = { -brand-short-name } 업데이트
 update-application-description = { -brand-short-name }가 최상의 성능, 안정성, 보안을 유지할 수 있도록 최신 버전으로 유지힙니다.
-update-application-info = 버전 { $version } <a>새로운 기능</a>
 update-application-version = 버전 { $version } <a data-l10n-name="learn-more">새로운 기능</a>
 update-history =
     .label = 업데이트 기록 보기…
@@ -294,7 +276,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = 컨텐트 프로세스 제한
     .accesskey = L
 performance-limit-content-process-enabled-desc = 추가 컨텐트 프로세스는 다중 탭을 사용 하는 경우 성능을 향상 시킬 수 있지만 더 많은 메모리를 사용 합니다.
-performance-limit-content-process-disabled-desc = 컨텐트 프로세스 갯수 변경은 멀티 프로세스 { -brand-short-name }에서만 가능합니다. <a>멀티 프로세스가 활성화 되었는지 확인하는 방법</a>
 performance-limit-content-process-blocked-desc = 컨텐트 프로세스 갯수 변경은 멀티 프로세스 { -brand-short-name }에서만 가능합니다. <a data-l10n-name="learn-more">멀티 프로세스가 활성화 되었는지 확인하는 방법</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -365,9 +346,6 @@ use-current-pages =
 choose-bookmark =
     .label = 북마크 사용…
     .accesskey = B
-restore-default =
-    .label = 초기 설정
-    .accesskey = R
 
 ## Search Section
 
