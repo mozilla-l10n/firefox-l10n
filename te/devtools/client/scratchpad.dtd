@@ -39,7 +39,7 @@
 <!ENTITY revertCmd.label              "తిప్పివుంచు…">
 <!ENTITY revertCmd.accesskey          "t">
 
-<!ENTITY saveFileCmd.label            "దాయి">
+<!ENTITY saveFileCmd.label            "భద్రపరుచు">
 <!ENTITY saveFileCmd.accesskey        "S">
 <!ENTITY saveFileCmd.commandkey       "s">
 
