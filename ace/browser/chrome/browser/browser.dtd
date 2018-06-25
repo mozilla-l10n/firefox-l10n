@@ -27,7 +27,6 @@ that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
 
-
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
@@ -74,7 +73,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
 <!-- Toolbar items -->
 
 
@@ -84,6 +82,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 
+<!ENTITY historyButton.label            "Riwayat">
 
 
 
@@ -98,6 +97,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+<!ENTITY historyMenu.label "Riwayat">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 
 
@@ -243,6 +243,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -278,6 +279,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+
 
 
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
