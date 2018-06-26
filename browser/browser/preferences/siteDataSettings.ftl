@@ -47,3 +47,5 @@ site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = Αφαίρεση
 site-data-removing-header = Αφαίρεση των cookies και των δεδομένων ιστοσελίδων
+site-data-removing-desc = Η αφαίρεση των cookies και των δεδομένων ιστοσελίδων ενδέχεται να σάς αποσυνδέσει από ιστοσελίδες. Θέλετε σίγουρα να κάνετε τις αλλαγές;
+site-data-removing-table = Θα αφαιρεθούν τα cookies και τα δεδομένα ιστοσελίδων για τις εξής ιστοσελίδες

@@ -22,7 +22,7 @@
 <!ENTITY  reloadTab.label                    "Ανανέωση καρτέλας">
 <!ENTITY  reloadTab.accesskey                "Α">
 <!ENTITY  reloadAllTabs.label                "Ανανέωση όλων των καρτελών">
-<!ENTITY  reloadAllTabs.accesskey            "λ">
+<!ENTITY  reloadAllTabs.accesskey            "Α">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "Αντιγραφή καρτέλας">
@@ -98,7 +98,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY bookmarksToolbarItem.label "Στοιχεία γραμμής σελιδοδεικτών">
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "Ανανέωση όλων των καρτελών">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "ο">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "Α">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Προσθήκη όλων των καρτελών στους σελιδοδείκτες…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "Κ">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Αναίρεση κλεισίματος καρτέλας">
@@ -214,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Άνοιγμα πλαισίου μηνυμάτων">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Άνοιγμα πλαισίου αίτησης τοποθεσίας">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Άνοιγμα πλαισίου αυτόματης αναπαραγωγής">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Άνοιγμα πλαισίου μηνυμάτων εγκατάστασης προσθέτων">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Διαχείριση δικαιώματος εξαγωγής καμβά">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Άνοιγμα πλαισίου μηνυμάτων αποθηκευμένων εκτός σύνδεσης">
@@ -222,6 +223,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Αλλαγή του αν θα λαμβάνετε ειδοποιήσεις από τον ιστοτόπο">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Αποθήκευση δεδομένων στην Επίμονη Αποθήκευση">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Το πρόγραμμα περιήγησης ελέγχεται απομακρυσμένα">
+<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Άνοιγμα πίνακα διαδικτυακής ταυτοποίησης">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Διαχείριση του διαμοιρασμού της κάμερας και/ή του μικροφώνου σας για τον ιστοτόπο">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Διαχείριση του διαμοιρασμού του μικροφώνου σας για τον ιστοτόπο">
@@ -233,13 +235,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Διαχείριση χρήσης λογισμικού DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Άνοιγμα πίνακα MIDI">
 
-<!ENTITY urlbar.cameraBlocked.tooltip            "Έχετε αποκλείσει την κάμερά σας για τον ιστοτόπο.">
-<!ENTITY urlbar.microphoneBlocked.tooltip        "Έχετε αποκλείσει το μικρόφωνό σας για τον ιστοτόπο.">
+<!ENTITY urlbar.cameraBlocked.tooltip            "Έχετε αποκλείσει την κάμερά σας για αυτή την ιστοσελίδα.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Έχετε αποκλείσει το μικρόφωνό σας για αυτή την ιστοσελίδα.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Έχετε αποκλείσει τον ιστοτόπο από το μοίρασμα της οθόνης σας.">
-<!ENTITY urlbar.geolocationBlocked.tooltip       "Έχετε αποκλείσει τις πληροφορίες τοποθεσίας για τον ιστοτόπο.">
-<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Έχετε αποκλείσει τις ειδοποιήσεις για τον ιστοτόπο.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Έχετε αποκλείσει τις πληροφορίες τοποθεσίας για αυτή την ιστοσελίδα.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Έχετε αποκλείσει τις ειδοποιήσεις για αυτή την ιστοσελίδα.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Έχετε αποκλείσει την επίμονη αποθήκευση για αυτή την ιστοσελίδα.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Έχετε αποκλείσει τα αναδυόμενα παράθυρα για αυτή την ιστοσελίδα.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Έχετε αποκλείσει πολυμέσα αυτόματης αναπαραγωγής για αυτή την ιστοσελίδα.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Έχετε αποκλείσει την εξαγωγή δεδομένων καμβά για αυτή την ιστοσελίδα.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Έχετε αποκλείσει τη χρήση του αρθρώματος Adobe Flash για αυτή την ιστοσελίδα.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Έχετε αποκλείσει την πρόσβαση MIDI για αυτή την ιστοσελίδα.">
@@ -400,6 +403,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.sidebar.label "Δείτε την πλευρική στήλη του Συγχρονισμού">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Σύνδεση άλλης συσκευής">
 
+<!ENTITY appMenuRecentHighlights.label "Πρόσφατες κορυφαίες στιγμές">
 
 <!ENTITY customizeMenu.addToToolbar.label "Προσθήκη στη γραμμή εργαλείων">
 <!ENTITY customizeMenu.addToToolbar.accesskey "Α">
@@ -763,7 +767,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Ασφαλής σύνδεση">
 <!ENTITY identity.connectionNotSecure "Η σύνδεση δεν είναι ασφαλής">
 <!ENTITY identity.connectionFile "Αυτή η σελίδα είναι αποθηκευμένη στον υπολογιστή σας.">
-<!ENTITY identity.connectionVerified2 "Έχετε συνδεθεί με ασφαλή τρόπο στον ιστότοπο, που είναι ιδιοκτησία του:">
+<!ENTITY identity.connectionVerified2 "Έχετε συνδεθεί με ασφαλή τρόπο στην ιστοσελίδα, που ανήκει σε:">
 <!ENTITY identity.connectionInternal "Αυτή είναι μια ασφαλής σελίδα του &brandShortName;.">
 <!ENTITY identity.extensionPage "Αυτή η σελίδα φορτώθηκε από μια επέκταση.">
 <!ENTITY identity.insecureLoginForms2 "Τα στοιχεία σύνδεσης που πληκτρολογήσατε σε αυτή την σελίδα μπορεί να διαρεύσουν.">

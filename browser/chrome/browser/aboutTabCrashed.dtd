@@ -22,6 +22,7 @@
 <!ENTITY tabCrashed.requestHelpMessage "Οι αναφορές κατάρρευσης μάς βοηθούν στη διάγνωση προβλημάτων και στη βελτίωση του &brandShortName;.">
 <!ENTITY tabCrashed.requestReport "Αναφορά καρτέλας">
 <!ENTITY tabCrashed.commentPlaceholder2 "Προαιρετικά σχόλια (τα σχόλια είναι ορατά σε όλους)">
+<!ENTITY tabCrashed.includeURL3 "Συμπεριλάβετε τα URLs των ιστοσελίδων όπου ήσασταν όταν το &brandShortName; κατέρρευσε.">
 <!ENTITY tabCrashed.emailPlaceholder "Εισάγετε τη διεύθυνση email σας εδώ">
 <!ENTITY tabCrashed.emailMe "Ειδοποίηση στο email μου όταν είναι διαθέσιμες περισσότερες πληροφορίες">
 <!ENTITY tabCrashed.reportSent "Η αναφορά κατάρρευσης έχει υποβληθεί ήδη· σάς ευχαριστούμε που συμβάλλετε στη βελτίωση του &brandShortName;!">
