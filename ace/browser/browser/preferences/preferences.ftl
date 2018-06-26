@@ -170,6 +170,7 @@ sitedata-accept-third-party-always-option =
 
 ## Privacy Section - Permissions
 
+permissions-camera = Kamèra
 permissions-notification-link = Meurunoë lom
 permissions-a11y-privacy-link = Meurunoë lom
 

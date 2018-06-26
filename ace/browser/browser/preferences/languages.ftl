@@ -5,6 +5,8 @@
 languages-window =
     .title = Bahsa
     .style = width: 30em
+languages-close-key =
+    .key = w
 # The pattern used to generate strings presented to the user in the
 # locale selection list.
 #

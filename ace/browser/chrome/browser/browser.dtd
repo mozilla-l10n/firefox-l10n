@@ -297,6 +297,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      optimized for touch devices. -->
 
 
+<!ENTITY getUserMedia.selectCamera.accesskey "K">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
