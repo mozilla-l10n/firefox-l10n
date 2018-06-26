@@ -11,3 +11,4 @@
 <!ENTITY storage.popupMenu.deleteAllLabel "அனைத்தையும் அழி">
 
 <!-- LOCALIZATION NOTE : Label of popup menu action to delete all session cookies. -->
+<!ENTITY storage.popupMenu.deleteAllSessionCookiesLabel "அமர்வின் அனைத்து நினைவிகளையும் அழி">
