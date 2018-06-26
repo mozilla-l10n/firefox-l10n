@@ -23,6 +23,10 @@ permissions-button-ok =
     .accesskey = K
 permissions-searchbox =
     .placeholder = Mita Situs Wèb
+permissions-capabilities-block =
+    .label = Tham
+permissions-capabilities-prompt =
+    .label = Tanyöng Sabé
 
 ## Invalid Hostname Dialog
 

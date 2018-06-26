@@ -57,6 +57,14 @@ restart-later = Peuhah Keulayi Euntreuk
 
 ## Preferences UI Search Results
 
+search-results-header = Hasé Mita
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Meu'ah, hana hasé bak Piléhan keu<span data-l10n-name="query"></span>".
+       *[other] Meu'ah, hana hasé bak Piléhan keu "<span data-l10n-name="query"></span>".
+    }
+search-results-help-link = Peureulèë tulông? Saweuë Dukôngan <a data-l10n-name="url">{ -brand-short-name }</a>
 
 ## General Section
 
