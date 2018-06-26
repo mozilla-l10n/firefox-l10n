@@ -30,3 +30,4 @@ colors-use-system =
 colors-underline-links =
     .label = Bôh garéh di yup peunawôt
     .accesskey = U
+colors-links-header = Wareuna Peunawôt
