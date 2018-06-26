@@ -241,6 +241,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ti has bloccà ils messadis da questa website.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Ti has bloccà la memoria durabla per questa website.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Ti has bloccà pop-ups per questa website.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Ti has bloccà la reproducziun automatica dad elements da multimedia cun tun.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Ti has bloccà l'extracziun da datas da canvas per questa website.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Ti has impedì che questa pagina d'internet utiliseschia il plug-in Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Ti has bloccà l'access a MIDI per questa pagina d'internet.">
@@ -805,6 +806,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Ti n'has betg definì autorisaziuns spezialas per questa pagina.">
 <!ENTITY identity.permissionsReloadHint "Forsa stos ti chargiar da nov questa pagina per applitgar las midadas.">
 
+<!ENTITY identity.permissionsPreferences.tooltip "Avrir las preferenzas da las permissiuns">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -904,16 +906,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Audio dal tab vegn cundividì.">
 <!ENTITY getUserMedia.allWindowsShared.message "Tut las fanestras visiblas sin tes visur vegnan cundivididas.">
 
+<!ENTITY trackingProtection.on "Protecziun cunter il fastizar: ACTIVADA">
+<!ENTITY trackingProtection.off "Protecziun cunter il fastizar: DEACTIVADA">
 <!ENTITY trackingProtection.title "Protecziun cunter il fastizar">
 <!ENTITY trackingProtection.tooltip "Avrir las preferenzas da la protecziun cunter il fastizar">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blochescha parts da la pagina che ta pudessan fastizar durant che ti navigheschas.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Questa pagina cuntegna elements che ta pon fastizar durant il navigar. Ti has deactivà la protecziun.">
 <!ENTITY trackingProtection.notDetected3 "Chattà nagins elements che fastizeschan sin questa pagina.">
+<!ENTITY trackingProtection.detectedNotBlocked4 "Chattà fastizaders sin questa pagina web.">
+<!ENTITY trackingProtection.notDetected4 "Chattà nagins fastizaders sin questa pagina.">
+<!ENTITY trackingProtection.reloadRequired "Ti has activà la protecziun cunter il fastizar. Per bloccar tut ils fastizaders, rechargia p.pl. la pagina web actuala.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Deactivar la protecziun per questa pagina">
 <!ENTITY trackingProtection.unblock.accesskey "D">
+<!ENTITY trackingProtection.unblock2.label "Fidar a questa website">
+<!ENTITY trackingProtection.unblock2.accesskey "F">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -922,6 +931,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Activar la protecziun">
 <!ENTITY trackingProtection.block2.accesskey "A">
 
+<!ENTITY trackingProtection.unblockPrivate2.label "Fidar a questa website per questa sesida">
+<!ENTITY trackingProtection.unblockPrivate2.accesskey "F">
+<!ENTITY trackingProtection.block3.label "Activar la protecziun cunter il fastizar">
+<!ENTITY trackingProtection.block3.accesskey "A">
+<!ENTITY trackingProtection.reload.label "Rechargiar la pagina">
+<!ENTITY trackingProtection.reload.accesskey "R">
 
 <!ENTITY pluginNotification.showAll.label "Mussar tuts">
 <!ENTITY pluginNotification.showAll.accesskey "S">
