@@ -10,6 +10,11 @@ languages-close-key =
 languages-customize-moveup =
     .label = Gèsèë u Ateuh
     .accesskey = A
+languages-customize-select-language =
+    .placeholder = Piléh bahsa keu tamah...
+languages-customize-add =
+    .label = Tamah
+    .accesskey = T
 # The pattern used to generate strings presented to the user in the
 # locale selection list.
 #

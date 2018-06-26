@@ -4,9 +4,15 @@
 
 permissions-close-key =
     .key = w
+permissions-block =
+    .label = Theun
+    .accesskey = T
 permissions-button-cancel =
     .label = Bateue
     .accesskey = B
+permissions-button-ok =
+    .label = Keubah Neuubah
+    .accesskey = K
 
 ## Invalid Hostname Dialog
 

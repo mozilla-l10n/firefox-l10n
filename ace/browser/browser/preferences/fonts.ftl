@@ -51,18 +51,22 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Seunanteuët
+    .accesskey = S
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+fonts-proportional-size = Ukôran
+    .accesskey = a
 fonts-serif = Serif
     .accesskey = S
 fonts-sans-serif = Sans-serif
     .accesskey = n
 fonts-monospace = Monospace
     .accesskey = M
-fonts-monospace-size = Rayek
-    .accesskey = R
+fonts-monospace-size = Ukôran
+    .accesskey = n
 fonts-minsize-none =
     .label = Hana
 
