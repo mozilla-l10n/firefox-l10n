@@ -65,6 +65,10 @@ fonts-monospace = Monospace
 
 fonts-languages-fallback-name-arabic =
     .label = Arab
+fonts-languages-fallback-name-ceiso =
+    .label = Iërupa Teungoh, ISO
+fonts-languages-fallback-name-cewindows =
+    .label = Iërupa Teungoh, Microsoft
 fonts-languages-fallback-name-greek =
     .label = Yunani
 fonts-languages-fallback-name-hebrew =
