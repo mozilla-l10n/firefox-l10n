@@ -18,7 +18,7 @@
 <!ENTITY pref.calendar.alarms.sound.play.accessKey "F">
 <!ENTITY pref.showalarmbox "Mussar il dialog da promemoria">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "g">
-<!ENTITY pref.missedalarms "Mussar promemorias manchentadas">
+<!ENTITY pref.missedalarms2 "Mussar las promemorias manchentadas per ils chalenders modifitgabels">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "m">
 <!ENTITY pref.calendar.alarms.defaults.label "Standards per promemorias">
 <!ENTITY pref.defalarm4events.label "Configuraziun da standard per eveniments:">
