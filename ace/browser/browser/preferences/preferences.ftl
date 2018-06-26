@@ -117,7 +117,7 @@ network-proxy-connection-learn-more = Meurunoë Lom
 
 ## Home Section
 
-home-new-windows-tabs-header = Tingkap ngon Tab Barô
+home-new-windows-tabs-header = Tingkap ngön Tab Barô
 
 ## Home Section - Home Page Customization
 
