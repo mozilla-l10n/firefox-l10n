@@ -123,9 +123,7 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; એ <span id='wrongSystemTimeWithoutReference_URL'/> ની સાથે જોડાય નહી શકે કારણકે તમારાં કમ્પ્યુટરની ઘડિયાળ ખોટો સમય બતાવી રહી છે અને આ સુરક્ષિત જોડાણમાં રુકાવટ ઊભી કરે છે.</p> <p> તમારું કમ્પ્યુટર <span id='wrongSystemTimeWithoutReference_systemDate'/> માં મૂકેલું છે. આ સમસ્યાનાં ઉકેલ માટે, સાચા સમય સાથે સમાનરુપ થવા તમારા તારીખ અને સમયનાં સેટીંંગ્સ બદલો.</p>">
 
 <!ENTITY certerror.pagetitle1  "અસુરક્ષિત જોડાણ">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "આ સાઇટ HTTP નો ઉપયોગ કરે છે
-તે સ્પષ્ટ કરવા માટે સખત પરિવહન સુરક્ષા (HSTS) અને &brandShortName; માત્ર સુરક્ષિત રીતે જોડાણ                          કરી શકે છે. તે સુરક્ષિત રીતે પરિણામે, આ માટે અપવાદ ઉમેરવા શક્ય નથી 
-પ્રમાણપત્ર.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "આ સાઇટ HTTP નો ઉપયોગ કરે છે તે સ્પષ્ટ કરવા માટે સખત પરિવહન સુરક્ષા (HSTS) અને &brandShortName; માત્ર સુરક્ષિત રીતે જોડાણ                          કરી શકે છે. તે સુરક્ષિત રીતે પરિણામે, આ માટે અપવાદ ઉમેરવા શક્ય નથી પ્રમાણપત્ર.">
 <!ENTITY certerror.copyToClipboard.label "ક્લિપબોર્ડમાં લખાણની નકલ કરો">
 
 <!ENTITY inadequateSecurityError.title "તમારું જોડાણ સુરક્ષિત નથી">
