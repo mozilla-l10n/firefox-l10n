@@ -2,11 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+fonts-window =
+    .title = Tulésan
 fonts-window-close =
     .key = w
 
 ## Font groups by language
 
+fonts-langgroup-header = Tulésan keu
+    .accesskey = T
 fonts-langgroup-arabic =
     .label = Arab
 fonts-langgroup-armenian =
