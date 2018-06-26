@@ -494,6 +494,9 @@ privacy-header = Απόρρητο προγράμματος περιήγησης
 ## Privacy Section - Forms
 
 forms-header = Φόρμες & κωδικοί πρόσβασης
+forms-ask-to-save-logins =
+    .label = Ερώτηση για αποθήκευση συνδέσεων και κωδικών πρόσβασης για ιστοσελίδες
+    .accesskey = β
 forms-exceptions =
     .label = Εξαιρέσεις…
     .accesskey = ξ
@@ -554,13 +557,23 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookies και δεδομένα ιστοσελίδων
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Τα αποθηκευμένα cookies, δεδομένα ιστοσελίδων και η προσωρινή μνήμη, αυτή τη στιγμή, καταλαμβάνουν { $value } { $unit } χώρου στο δίσκο.
 sitedata-learn-more = Μάθετε περισσότερα
+sitedata-accept-cookies-option =
+    .label = Αποδοχή cookies και δεδομένων ιστοσελίδων από ιστοσελίδες (συνίσταται)
+    .accesskey = Α
+sitedata-block-cookies-option =
+    .label = Αποκλεισμός cookies και δεδομένων ιστοσελίδων (πιθανή δυσλειτουργία ιστοσελίδων)
+    .accesskey = Α
 sitedata-keep-until = Διατήρηση μέχρι
     .accesskey = μ
 sitedata-keep-until-expire =
-    .label = Λήγουν
+    .label = να λήξουν
 sitedata-keep-until-closed =
-    .label = Το { -brand-short-name } είναι κλειστό
+    .label = να κλείσει το { -brand-short-name }
 sitedata-accept-third-party-desc = Αποδοχή cookies και δεδομένα ιστοσελίδων τρίτων
     .accesskey = ν
 sitedata-accept-third-party-always-option =
@@ -639,6 +652,9 @@ permissions-notification-settings =
     .label = Ρυθμίσεις…
     .accesskey = θ
 permissions-notification-link = Μάθετε περισσότερα
+permissions-notification-pause =
+    .label = Παύση ειδοποιήσεων μέχρι να επανεκκινηθεί το { -brand-short-name }
+    .accesskey = ε
 permissions-block-autoplay-media-exceptions =
     .label = Εξαιρέσεις…
     .accesskey = Ε
@@ -674,7 +690,13 @@ collection-studies-link = Προβολή μελετών του { -brand-short-na
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Η αναφορά δεδομένων είναι ανενεργή για αυτή την έκδοση
+collection-browser-errors =
+    .label = Να επιτρέπεται στο { -brand-short-name } η αποστολή αναφορών σφαλμάτων (καθώς και των μηνυμάτων σφαλμάτων) στη { -vendor-short-name }
+    .accesskey = π
 collection-browser-errors-link = Μάθετε περισσότερα
+collection-backlogged-crash-reports =
+    .label = Να επιτρέπεται στο { -brand-short-name } η αποστολή αναφορών σφαλμάτων που εκκρεμούν εκ μέρους σας
+    .accesskey = σ
 collection-backlogged-crash-reports-link = Μάθετε περισσότερα
 
 ## Privacy Section - Security
