@@ -926,6 +926,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Включване на защита">
 <!ENTITY trackingProtection.block2.accesskey "В">
 
+<!ENTITY trackingProtection.reload.label "Презареждане на страницата">
 
 <!ENTITY pluginNotification.showAll.label "Показване на всичко">
 <!ENTITY pluginNotification.showAll.accesskey "П">
