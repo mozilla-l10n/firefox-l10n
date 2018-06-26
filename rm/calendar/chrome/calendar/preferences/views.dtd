@@ -37,3 +37,5 @@
 <!ENTITY pref.numberofweeks.4 "4 emnas">
 <!ENTITY pref.numberofweeks.5 "5 emnas">
 <!ENTITY pref.numberofweeks.6 "6 emnas">
+<!ENTITY pref.showlocation.label "Mussar il lieu">
+<!ENTITY pref.showlocation.accesskey "l">
