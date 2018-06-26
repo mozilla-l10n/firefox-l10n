@@ -4,4 +4,7 @@
 
 <!ENTITY restartRequired.title "Restarto postulata">
 
+<!ENTITY restartRequired.header "Bedaŭrinde ankoraŭ restas detaleto farenda, post tio ni daŭrigos.">
+<!ENTITY restartRequired.description "<p>Ni jam fone instalis ĝisdatigon. Alklaku “Restartigi &brandShortName;” por fini la taskon.</p>
+<p>Ĉiuj viaj paĝoj, fenestroj kaj langetoj estos restarigitaj post la restarto, tiel ke vi povos repreni vian vojon rapide.</p>">
 
