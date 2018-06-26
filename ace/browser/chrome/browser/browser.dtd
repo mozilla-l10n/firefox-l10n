@@ -15,8 +15,10 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Jeunajah Rahsia)">
 
+<!ENTITY appmenu.tooltip                     "Peuhah menu">
 
 <!-- Tab context menu -->
+<!ENTITY  reloadTab.accesskey                "R">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
@@ -32,6 +34,8 @@ can reach it easily. -->
 
 
 <!ENTITY tabCmd.label "Tab Barô">
+<!ENTITY tabCmd.accesskey "T">
+<!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
@@ -50,6 +54,8 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
+<!ENTITY fxaSignIn.label "Tamöng u &syncBrand.shortName.label;">
+<!ENTITY fxaSignedIn.tooltip "Peuhah geunalak &syncBrand.shortName.label;">
 
 
 
@@ -149,6 +155,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Gantoe atô…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Gantoe geunalak…">
 
 <!--
   Comment duplicated from browser-sets.inc:
