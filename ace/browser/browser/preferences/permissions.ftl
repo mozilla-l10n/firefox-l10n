@@ -7,12 +7,22 @@ permissions-close-key =
 permissions-block =
     .label = Theun
     .accesskey = T
+permissions-site-name =
+    .label = Situs Wèb
+permissions-remove =
+    .label = Sampôh Situs Wèb
+    .accesskey = S
+permissions-remove-all =
+    .label = Sampôh Bandum Situs Wèb
+    .accesskey = a
 permissions-button-cancel =
-    .label = Bateue
+    .label = Bateuë
     .accesskey = B
 permissions-button-ok =
     .label = Keubah Neuubah
     .accesskey = K
+permissions-searchbox =
+    .placeholder = Mita Situs Wèb
 
 ## Invalid Hostname Dialog
 
