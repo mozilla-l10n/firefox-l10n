@@ -11,7 +11,7 @@
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Όταν πλοηγείστε σε ένα Ιδιωτικό Παράθυρο, το Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "δεν αποθηκεύει">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
-<!ENTITY aboutPrivateBrowsing.info.visited               "Επισκεφθείσες σελίδες">
+<!ENTITY aboutPrivateBrowsing.info.visited               "Σελίδες που έχετε επισκεφθεί">
 <!ENTITY aboutPrivateBrowsing.info.searches              "Αναζητήσεις">
 <!ENTITY aboutPrivateBrowsing.info.cookies               "Cookies">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "Προσωρινά αρχεία">
