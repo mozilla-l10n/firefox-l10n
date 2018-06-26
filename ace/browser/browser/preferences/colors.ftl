@@ -31,3 +31,7 @@ colors-underline-links =
     .label = Bôh garéh di yup peunawôt
     .accesskey = U
 colors-links-header = Wareuna Peunawôt
+colors-unvisited-links = Peunawôt Hana Geusaweuë
+    .accesskey = L
+colors-visited-links = Peunawôt Geusaweuë
+    .accesskey = V

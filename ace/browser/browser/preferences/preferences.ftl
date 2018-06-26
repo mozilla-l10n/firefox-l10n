@@ -91,7 +91,7 @@ download-choose-folder =
            *[other] M
         }
 download-always-ask-where =
-    .label = Beusabé tanyöng pat teumpat keu keubah beureukaih
+    .label = Sabé tanyöng pat keubah beureukaih
     .accesskey = B
 applications-header = Aplikasi
 applications-filter =
