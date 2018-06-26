@@ -27,3 +27,4 @@ blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-name = Disconnect.me ప్రాథమిక సంరక్షణ (సిఫార్సుచేస్తున్నాం).
 blocklist-item-moz-std-desc = వెబ్‌సైట్లు సరిగా పనిచేయడం కోసం కొన్ని ట్రాకర్లను అనుమతిస్తుంది.
 blocklist-item-moz-full-name = Disconnect.me కఠిన సంరక్షణ.
+blocklist-item-moz-full-desc = తెలిసిన ట్రాకర్లను నిరోధిస్తుంది. కొన్ని వెబ్‌సైట్లు సరిగా పనిచేయకపోవచ్చు.

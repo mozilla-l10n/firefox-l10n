@@ -13,7 +13,7 @@
 
 <!ENTITY stats.media "మాధ్యమం">
 <!ENTITY stats.size "పరిమాణం">
-<!ENTITY stats.activity "క్రియాశీలత">
+<!ENTITY stats.activity "కార్యకలాపం">
 <!ENTITY stats.activityPaused "నిలిపివుంచబడెను">
 <!ENTITY stats.activityPlaying "నడుపుతోంది">
 <!ENTITY stats.activityEnded "ముగించెను">

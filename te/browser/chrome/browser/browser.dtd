@@ -795,11 +795,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "మరింత సమాచారం">
 
+<!ENTITY identity.clearSiteData "కుకీలను, సైటు డేటాను తుడిచివేయి…">
 
 <!ENTITY identity.permissions "అనుమతులు">
 <!ENTITY identity.permissionsEmpty "ఈ సైటుకి మీరు ఎటువoటి ప్రత్యేక అనుమతులు ఇవ్వలేదు.">
 <!ENTITY identity.permissionsReloadHint "మార్పులు ప్రతిఫలించడానికి మీరు ఈ పేజీని మళ్ళీ లోడు చెయ్యాల్సిరావచ్చు.">
 
+<!ENTITY identity.permissionsPreferences.tooltip "అనుమతుల అభిరుచులను తెరువు">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -897,10 +899,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "ట్యాబు నుండి వచ్చే ఆడియో పంచుకోబడుతుంది.">
 <!ENTITY getUserMedia.allWindowsShared.message "మీ తెర మీద కనిపించే అన్ని విండోలు పంచుకోబడతాయి.">
 
+<!ENTITY trackingProtection.on "ట్రాకింగ్ సంరక్షణ: ఆన్">
+<!ENTITY trackingProtection.off "ట్రాకింగ్ సంరక్షణ: ఆఫ్">
 <!ENTITY trackingProtection.title "ట్రాకింగ్ సంరక్షణ">
+<!ENTITY trackingProtection.tooltip "ట్రాకింగ్ సంరక్షణ అభిరుచులు తెరువు">
 <!ENTITY trackingProtection.detectedBlocked3 "ఈ పేజీలో మీ విహరణ జాడ తెలుసుకునే భాగాలను &brandShortName; నిరోధిస్తోంది.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "ఈ సైటులో మీ విహరణ జాడ తెలుసుకొనే ఎలిమెంట్లు ఉన్నాయి. మీరు రక్షణను అచేతనించారు.">
 <!ENTITY trackingProtection.notDetected3 "ఈ పేజీలో జాడ తెలుసుకొనే ఎలిమెంట్లు ఏమీ కనబడలేదు.">
+<!ENTITY trackingProtection.detectedNotBlocked4 "ఈ వెబ్‌పేజీలు ట్రాకర్లు గుర్తించబడ్డాయి.">
+<!ENTITY trackingProtection.notDetected4 "ఈ పేజీలో ట్రాకర్లు ఏమీ కనబడలేదు.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
