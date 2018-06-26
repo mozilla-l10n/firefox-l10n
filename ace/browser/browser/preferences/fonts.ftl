@@ -71,6 +71,8 @@ fonts-monospace = Monospace
     .accesskey = M
 fonts-monospace-size = Ukôran
     .accesskey = n
+fonts-minsize = Ukôran tulésan teuubeuët
+    .accesskey = e
 fonts-minsize-none =
     .label = Hana
 
@@ -99,3 +101,6 @@ fonts-languages-fallback-name-turkish =
     .label = Turuki
 fonts-languages-fallback-name-vietnamese =
     .label = Viètnam
+fonts-very-large-warning-title = Ukôran tulésan teuubeuët leupah raya
+fonts-very-large-warning-message = Droëneuh ka neupiléh ukôran tulésan teuubeuët, tapi ukôran nyan leupah raya (leubèh nibak 24 piksel). Nyoë jeuët jipeususah atawa pih han mungkén keu ngui miëng konfigurasi peunténg lagèë nyoë.
+fonts-very-large-warning-accept = Hana peuë, keubah neuubah lôn
