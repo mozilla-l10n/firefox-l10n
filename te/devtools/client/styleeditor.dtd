@@ -14,7 +14,7 @@
 <!ENTITY newButton.tooltip          "పత్రమునకు కొత్త శైలి షీట్‌ను సృష్టించు మరియు జేర్చు">
 <!ENTITY newButton.accesskey        "N">
 
-<!ENTITY importButton.label         "దిగుమతిచేయి…">
+<!ENTITY importButton.label         "దిగుమతి చేయి…">
 <!ENTITY importButton.tooltip       "ఇప్పటికే వున్న శైలి షీట్‌ను దిగుమతి చేసి పత్రమునకు జేర్చు">
 <!ENTITY importButton.accesskey     "I">
 
@@ -46,7 +46,7 @@
      in each stylesheet editor sidebar. -->
 <!ENTITY mediaRules.label           "@media నియమాలు">
 
-<!ENTITY editorTextbox.placeholder  "CSS ఇచట టైపుచేయి.">
+<!ENTITY editorTextbox.placeholder  "ఇక్కడ CSS టైపుచెయ్యండి.">
 
 <!-- LOCALICATION NOTE  (noStyleSheet.label): This is shown when a page has no
      stylesheet. -->

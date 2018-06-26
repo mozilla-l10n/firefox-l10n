@@ -5,10 +5,9 @@
 <!ENTITY certmgr.title                       "ధృవీకరణపత్ర నిర్వాహకుడు">
 
 <!ENTITY certmgr.tab.mine                     "మీ ధృవీకరణపత్రాలు">
-<!ENTITY certmgr.tab.others2                  "పీపుల్">
+<!ENTITY certmgr.tab.others2                  "ప్రజలు">
 <!ENTITY certmgr.tab.websites3                "సేవికలు">
 <!ENTITY certmgr.tab.ca                       "అధారిటీలు">
-<!ENTITY certmgr.tab.orphan2                  "ఇతరులు">
 
 
 <!ENTITY certmgr.detail.general_tab.title     "సాధారణం">
@@ -33,7 +32,6 @@
 <!ENTITY certmgr.editcert.edittrust           "నమ్మిక అమరికలను సరిచేయి:">
 <!ENTITY certmgr.editcert.trustssl            "ఈ ధృవీకరణపత్రం వెబ్ సైటులను గుర్తించగలదు.">
 <!ENTITY certmgr.editcert.trustemail          "ఈ ధృవీకరణపత్రం మెయిల్ వాడుకరులను గుర్తించగలదు.">
-<!ENTITY certmgr.editcert.trustobjsign        "ఈ ధృవీకరణపత్రం సాఫ్టువేరు తయారీదారులను గుర్తించగలదు.">
 
 <!ENTITY certmgr.deletecert.title             "ధృవీకరణపత్రంను తొలగించు">
 

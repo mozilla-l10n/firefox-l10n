@@ -31,7 +31,7 @@
 <!ENTITY  connecting.label                "నవీకరణ సేవికకు అనుసంధానించబడుతోంది...">
 <!ENTITY  verificationFailedText.label    "&brandShortName; అది డౌనులోడు  చేసిన  పురోగమన నవీకరణ యొక్క ఐక్యతను  నిర్దారించలేకపోతోంది,అందుకని అది యిప్పుడు  పూర్తి  నవీకరణ ప్యాకేజ్‌ను డౌనులోడుచేస్తోంది.">
 
-<!ENTITY  viewDetails.tooltip             "ఈ నవీకరణ వివరాలు చూడు">
+<!ENTITY  viewDetails.tooltip             "ఈ తాజాకరణ వివరాలు చూడండి">
 
 <!ENTITY  details.link                    "వివరాలు">
 
