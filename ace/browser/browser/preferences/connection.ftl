@@ -13,6 +13,7 @@ connection-close-key =
     .key = w
 connection-disable-extension =
     .label = Pumaté Èkstènsi
+connection-proxy-configure = Atô Aksès Proxy u Internèt
 connection-proxy-option-no =
     .label = Hana pakèk proxy
     .accesskey = y
