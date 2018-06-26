@@ -106,7 +106,7 @@ always-check-default =
     .label = Να γίνεται πάντα έλεγχος για το αν το { -brand-short-name } είναι το προεπιλεγμένο πρόγραμμα περιήγησής σας
     .accesskey = Π
 is-default = Αυτήν τη στιγμή, το { -brand-short-name } είναι το προεπιλεγμένο πρόγραμμα περιήγησής σας
-is-not-default = Το { -brand-short-name } δεν είναι το προεπιλεγμένο πρόγραμμα περιήγησής σας
+is-not-default = Το { -brand-short-name } δεν είναι το προεπιλεγμένο πρόγραμμα περιήγησης
 set-as-my-default-browser =
     .label = Ορισμός ως προεπιλογή…
     .accesskey = Π
@@ -306,6 +306,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Νέα παράθυρα και καρτέλες
+home-new-windows-tabs-description2 = Επιλέξτε τι θα βλέπετε όταν ανοίγετε την αρχική σας σελίδα, νέα παράθυρα και νέες καρτέλες.
 
 ## Home Section - Home Page Customization
 
@@ -319,7 +320,7 @@ home-restore-defaults =
 home-mode-choice-default =
     .label = Αρχική σελίδα Firefox (Προεπιλογή)
 home-mode-choice-custom =
-    .label = Προσαρμοσμένα URL…
+    .label = Προσαρμοσμένα URLs…
 home-mode-choice-blank =
     .label = Κενή σελίδα
 home-homepage-custom-url =
