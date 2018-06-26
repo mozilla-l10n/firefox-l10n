@@ -29,7 +29,7 @@
 <!ENTITY newWindowCmd.accesskey       "N">
 <!ENTITY newWindowCmd.commandkey      "n">
 
-<!ENTITY openFileCmd.label            "ఫైలు తెరువు…">
+<!ENTITY openFileCmd.label            "ఫైలుని తెరువు…">
 <!ENTITY openFileCmd.accesskey        "O">
 <!ENTITY openFileCmd.commandkey       "o">
 
@@ -43,7 +43,7 @@
 <!ENTITY saveFileCmd.accesskey        "S">
 <!ENTITY saveFileCmd.commandkey       "s">
 
-<!ENTITY saveFileAsCmd.label          "ఇలా దాచు…">
+<!ENTITY saveFileAsCmd.label          "ఇలా భద్రపరచు…">
 <!ENTITY saveFileAsCmd.accesskey      "A">
 
 <!ENTITY closeCmd.label               "మూసివేయి">
