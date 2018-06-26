@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 clear-site-data-window =
-    .title = Peusoh Data
+    .title = Sampôh Data
     .style = width: 35em
 clear-site-data-description = Pumeusoh mandum cookies ngön data situs nyang geukeubah lé { -brand-short-name } jeuët jipeuteubiët droëneuh nibak situs dan jisampôh asoë web nyang offline. Pumeusoh data cache hana peungarôh keu login Droeneuh.
 clear-site-data-close-key =

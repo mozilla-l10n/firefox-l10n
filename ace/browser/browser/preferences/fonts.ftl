@@ -15,6 +15,8 @@ fonts-langgroup-bengali =
     .label = Banggali
 fonts-langgroup-cyrillic =
     .label = Kiril
+fonts-langgroup-devanagari =
+    .label = Dèwanagari
 fonts-langgroup-georgian =
     .label = Gèorgia
 fonts-langgroup-el =
@@ -44,6 +46,8 @@ fonts-langgroup-thai =
     .label = Thai
 fonts-langgroup-tibetan =
     .label = Tibèt
+fonts-langgroup-other =
+    .label = Sistem Teumuléh Laén
 
 ## Default fonts and their sizes
 
@@ -57,6 +61,10 @@ fonts-sans-serif = Sans-serif
     .accesskey = n
 fonts-monospace = Monospace
     .accesskey = M
+fonts-monospace-size = Rayek
+    .accesskey = R
+fonts-minsize-none =
+    .label = Hana
 
 ## Text Encodings
 ##
