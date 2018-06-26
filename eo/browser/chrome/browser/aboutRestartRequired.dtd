@@ -8,3 +8,4 @@
 <!ENTITY restartRequired.description "<p>Ni jam fone instalis ĝisdatigon. Alklaku “Restartigi &brandShortName;” por fini la taskon.</p>
 <p>Ĉiuj viaj paĝoj, fenestroj kaj langetoj estos restarigitaj post la restarto, tiel ke vi povos repreni vian vojon rapide.</p>">
 
+<!ENTITY restartButton.label "Restartigi &brandShortName;">
