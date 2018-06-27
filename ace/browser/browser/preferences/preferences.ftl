@@ -87,6 +87,18 @@ extension-controlled-default-search = Sabôh ekstensi, <img data-l10n-name="icon
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Sabôh ekstensi, <img data-l10n-name="icon"/>, peureulé Tab Kontener
+# This string is shown to notify the user that their tracking protection preferences
+# are being controlled by an extension.
+extension-controlled-websites-tracking-protection-mode = Sabôh ekstensi, <img data-l10n-name="icon"/>, jipeuatô proteksi tracking
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlled-proxy-config = Sabôh ekstensi, <img data-l10n-name="icon"/>, jipeuatô kiban cara { -brand-short-name } meutaloe ngën internet
+# This string is shown after the user disables an extension to notify the user
+# how to enable an extension that they disabled.
+#
+# <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
+# <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
+extension-controlled-enable = Keu peu udép ekstensi neu peuhah add-on <img data-l10n-name="addons-icon"/>  i dalam menu <img data-l10n-name="menu-icon"/>
 
 ## Preferences UI Search Results
 
@@ -101,15 +113,19 @@ search-results-help-link = Peureulèë tulông? Saweuë Dukôngan <a data-l10n-n
 
 ## General Section
 
+startup-header = Peuphôn
 # { -brand-short-name } will be 'Firefox Developer Edition',
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = Peu-idin { -brand-short-name } ngön Firefox teuhah beusigö
+use-firefox-sync = Tip: Nyoe meungui profil keudroe droe. Neungui { -sync-brand-short-name }  keu share data lam kawan nyan
 get-started-not-logged-in = Tamöng u { -sync-brand-short-name }...
 get-started-configured = Peuhah piléhan { -sync-brand-short-name }
 always-check-default =
     .label = Parèksa sabé peuë { -brand-short-name } nakeuh browser baku
     .accesskey = p
+is-default = { -brand-short-name } nyankeuh browser default droen jinoe
+is-not-default = { -brand-short-name } kën default browser droen jinoe
 set-as-my-default-browser =
     .label = Peugot Baku
     .accesskey = B
@@ -119,6 +135,27 @@ startup-restore-previous-session =
 disable-extension =
     .label = Pumaté Èkstènsi
 tabs-group-header = Tab
+ctrl-tab-recently-used-order =
+    .label = Ctrl+Tab keu peugantoe antar tab nyang ban meungui
+    .accesskey = t
+open-new-link-as-tabs =
+    .label = Peuhah link lam tab bék lam windows barô
+    .accesskey = P
+warn-on-close-multiple-tabs =
+    .label = Peugah bak droen watéi meutôb meupadub bôh tab sigë rön
+    .accesskey = P
+warn-on-open-many-tabs =
+    .label = Peuingat droen watéi lë meubuka tab wab jeut meulék { -brand-short-name }
+    .accesskey = P
+switch-links-to-new-tabs =
+    .label = Watéi neupeuhah sabôh link nibak tab barô, gantoe laju beusigra
+    .accesskey = W
+show-tabs-in-taskbar =
+    .label = Peu dëuh tab preview bak taskbar windows
+    .accesskey = P
+browser-containers-enabled =
+    .label = Peu udép tab kontener
+    .accesskey = k
 browser-containers-learn-more = Meurunoë lom
 browser-containers-settings =
     .label = Peuatô...
