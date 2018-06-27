@@ -310,8 +310,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "B">
 <!ENTITY newUserContext.label             "Tab Kontainer Baru">
 <!ENTITY newUserContext.accesskey         "K">
-<!ENTITY manageUserContext.label          "Atur Kontainer">
-<!ENTITY manageUserContext.accesskey      "O">
+<!ENTITY manageUserContext.label          "Kelola Kontainer">
+<!ENTITY manageUserContext.accesskey      "K">
 <!ENTITY newNavigatorCmd.label        "Jendela Baru">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "J">
@@ -931,27 +931,27 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.accesskey "A">
 
 <!ENTITY trackingProtection.tooltip "Buka Pengaturan Perlindungan Pelacakan">
-<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; menghalangi bagian dari laman ini yang mungkin mengikuti penjelajahan Anda.">
+<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; memblokir bagian dari laman ini yang mungkin mengikuti penjelajahan Anda.">
 <!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; telah mendeteksi elemen yang mungkin mengikuti penjelajahan Anda.">
 <!ENTITY trackingProtection.detectedException "&brandShortName; telah mendeteksi elemen yang mungkin mengikuti penjelajahan Anda. Anda telah mematikan perlindungan untuk situs ini.">
 <!ENTITY trackingProtection.notDetected5 "Tidak ada elemen pelacakan terdeteksi di laman ini.">
 <!ENTITY trackingProtection.notDetectedException "Tidak ada elemen pelacakan terdeteksi di laman ini. Anda telah mematikan perlindungan untuk situs ini.">
 
-<!ENTITY trackingProtection.reloadRequired2 "Anda telah mengaktifkan Perlindungan Pelacakan. Muat-ulang laman ini untuk menghalangi semua pelacak.">
+<!ENTITY trackingProtection.reloadRequired2 "Anda telah mengaktifkan Perlindungan Pelacakan. Muat ulang laman ini untuk menghalangi semua pelacak.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock3.label "Matikan untuk Situs Ini">
-<!ENTITY trackingProtection.unblock3.accesskey "D">
+<!ENTITY trackingProtection.unblock3.accesskey "M">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 <!ENTITY trackingProtection.unblockPrivate3.label "Matikan untuk Sesi Ini">
-<!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
+<!ENTITY trackingProtection.unblockPrivate3.accesskey "M">
 <!ENTITY trackingProtection.block4.label "Aktifkan untuk Situs Ini">
-<!ENTITY trackingProtection.block4.accesskey "E">
-<!ENTITY trackingProtection.reload2.label "Muat-ulang Laman">
-<!ENTITY trackingProtection.reload2.accesskey "R">
+<!ENTITY trackingProtection.block4.accesskey "A">
+<!ENTITY trackingProtection.reload2.label "Muat Ulang Laman">
+<!ENTITY trackingProtection.reload2.accesskey "U">
 
 <!ENTITY pluginNotification.showAll.label "Tampilkan Semua">
 <!ENTITY pluginNotification.showAll.accesskey "a">
