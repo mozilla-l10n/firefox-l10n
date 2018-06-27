@@ -70,6 +70,15 @@
 
 <!ENTITY url_bar_default_text2 "Leitaðu eða sláðu inn vistfang">
 
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "Notaðu QR skannan til að leita eða slá inn vistfang">
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "Notaðu hljóðnemann þinn til að leita eða skrá inn vistfang">
+
 <!ENTITY bookmark "Bókamerki">
 <!ENTITY bookmark_remove "Fjarlægja bókamerki">
 <!ENTITY bookmark_added "Bókamerki bætt við">
@@ -207,6 +216,7 @@
 <!ENTITY pref_category_advanced_summary3 "Endurheimta flipa, bjargvættur gagna, verkfærakista forritarans">
 <!ENTITY pref_category_notifications "Tilkynningar">
 <!ENTITY pref_category_notifications_summary "Ný virkni, uppfærslur á vefsvæði">
+<!ENTITY pref_category_notifications_summary2 "Nýir eiginleikar, ábendingar">
 <!ENTITY pref_developer_remotedebugging_usb "Kembt með fjartengingu með USB tengi">
 <!ENTITY pref_developer_remotedebugging_wifi "Kembt með fjartengingu með Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi kembun krefst þess að tækið þitt hafi uppsett QR kóða lestrar smáforrit.">
@@ -281,6 +291,13 @@
 
 <!ENTITY pref_whats_new_notification "Hvað er nýtt í &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Læra um nýja virkni eftir uppfærslu">
+
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!ENTITY pref_feature_tips_notification "Ábendingar um vöru eða eiginleika">
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+<!ENTITY pref_feature_tips_notification_summary "Fræðast meira um noktun á &brandShortName; og öðrum &vendorShortName; vörum">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
@@ -422,7 +439,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; ástandsskoðun">
 <!ENTITY datareporting_fhr_summary2 "Deila gögnum með &vendorShortName; um heilsufar vafrans þín og hjálpar þér að skilja afköst vafrans þíns">
-<!ENTITY datareporting_abouthr_title "Líta á ástandsskoðunina">
 <!ENTITY datareporting_telemetry_title "Fjarmælingar">
 <!ENTITY datareporting_telemetry_summary "Miðla &vendorShortName; afköstum, notkun, vélbúnaði og sérsníðnum gögnum um vafrann þinn til að hjálpa okkur að gera &brandShortName; betri">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; sendir hrunaskýrslu til að hjálpa &vendorShortName; gera vafrann þinn stöðugri og öruggari">
@@ -537,7 +553,7 @@
 <!ENTITY pref_compact_tabs_summary2 "Raða flipum í tvo dálka í skammsniði">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
-     any page is removed frome about:home. This includes pages that are in history,
+     any page is removed from about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Síða fjarlægð">
 <!ENTITY folder_removed "Mappa fjarlægð">
@@ -752,7 +768,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Síðasta samstilling: &formatS;">
-<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!-- Localization note: Used when the sync has not happened yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Síðasta samstilling: aldrei">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
