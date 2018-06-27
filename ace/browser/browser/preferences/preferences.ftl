@@ -72,6 +72,8 @@ search-results-help-link = Peureulèë tulông? Saweuë Dukôngan <a data-l10n-n
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = Peu-idin { -brand-short-name } ngön Firefox teuhah beusigö
+get-started-not-logged-in = Tamöng u { -sync-brand-short-name }...
+get-started-configured = Peuhah piléhan { -sync-brand-short-name }
 startup-restore-previous-session =
     .label = Peuriwang sesi seugolomjih
     .accesskey = g
