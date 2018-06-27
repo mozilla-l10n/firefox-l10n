@@ -310,6 +310,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "D">
 <!ENTITY newUserContext.label             "Nowy kontejnerowy rejtark">
 <!ENTITY newUserContext.accesskey         "k">
+<!ENTITY manageUserContext.label          "Kontejnery zastojaś">
+<!ENTITY manageUserContext.accesskey      "K">
 <!ENTITY newNavigatorCmd.label        "Nowe wokno">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -412,8 +414,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
-     in the location bar. These labels are only used in Photon, where you can put
-     items into this menu permanently (pinned). -->
+     in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Pśeběgowy meni pśidás">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "m">
 <!ENTITY customizeMenu.moveToToolbar.label "Do symboloweje rědki pśesunuś">
@@ -425,6 +426,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Do menija pśesunuś">
 <!ENTITY customizeMenu.moveToPanel.accesskey "o">
+<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
+     can appear on the same context menu as menubarCmd and personalbarCmd,
+     so they should have different access keys.  -->
 <!ENTITY customizeMenu.pinToOverflowMenu.label "Pśeběgowy meni pśipěś">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Pśeběgowy meni wótpěś">
@@ -910,20 +914,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.on "Slědowański šćit: Zašaltowany">
 <!ENTITY trackingProtection.off "Slědowański šćit: Wušaltowany">
 <!ENTITY trackingProtection.title "Slědowański šćit">
-<!ENTITY trackingProtection.tooltip "Nastajenja slědowańskego šćita wócyniś">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokěrujo źěle boka, kótarež by mógli wašo pśeglědowanje slědowaś.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Toś to sedło wopśimujo elementy, kótarež by mógli wašo pśeglědowanje slědowaś. Sćo šćit znjemóžnił.">
 <!ENTITY trackingProtection.notDetected3 "Žedne slědowańske elementy na toś tom boku namakane.">
-<!ENTITY trackingProtection.detectedNotBlocked4 "Pśeslědowaki su se namakali na toś tom websedle.">
-<!ENTITY trackingProtection.notDetected4 "Žedne pśeslědowaki na toś tom boku namakane.">
-<!ENTITY trackingProtection.reloadRequired "Sćo zmóžnił slědowański šćit. Aby wšykne pśeslědowaki blokěrował, zacytajśo pšosym aktualny webbok znowego.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Šćit za toś to sydło znjemóžniś">
 <!ENTITY trackingProtection.unblock.accesskey "n">
-<!ENTITY trackingProtection.unblock2.label "Toś tomu sedłoju dowěriś">
-<!ENTITY trackingProtection.unblock2.accesskey "T">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -932,12 +930,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Šćit zmóžniś">
 <!ENTITY trackingProtection.block2.accesskey "z">
 
-<!ENTITY trackingProtection.unblockPrivate2.label "Toś tomu sedłoju za toś to pósejźenje dowěriś">
-<!ENTITY trackingProtection.unblockPrivate2.accesskey "T">
-<!ENTITY trackingProtection.block3.label "Slědowański šćit zašaltowaś">
-<!ENTITY trackingProtection.block3.accesskey "T">
-<!ENTITY trackingProtection.reload.label "Toś ten bok znowego zacytaś">
-<!ENTITY trackingProtection.reload.accesskey "z">
+<!ENTITY trackingProtection.tooltip "Nastajenja slědowańskego šćita wócyniś">
+<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; blokěrujo źěle toś togo boka, kótarež by mógli wašo pśeglědowanje slědowaś.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; jo elementy namakał, kótarež mógli wašo pśeglědowanje slědowaś.">
+<!ENTITY trackingProtection.detectedException "&brandShortName; jo elementy namakał, kótarež mógli waš pśeglědowanje slědowaś. Sćo znjemóžnił šćit za toś to sedło.">
+<!ENTITY trackingProtection.notDetected5 "Žedne slědujuce elementy na toś tom boku namakane.">
+<!ENTITY trackingProtection.notDetectedException "Žedne slědujuce elementy na toś tom boku namakane. Sćo znjemóžnił šćit za toś to sedło.">
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
 
 <!ENTITY pluginNotification.showAll.label "Wšykno pokazaś">
 <!ENTITY pluginNotification.showAll.accesskey "W">
