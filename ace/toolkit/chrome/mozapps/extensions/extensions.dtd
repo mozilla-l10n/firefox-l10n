@@ -16,6 +16,8 @@
 <!-- categories / views -->
 
 <!-- addon updates -->
+<!ENTITY updates.checkForUpdates.label        "Paréksa Vèrsi Barô">
+<!ENTITY updates.checkForUpdates.accesskey    "P">
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
      checking. -->
@@ -39,6 +41,7 @@
 
 <!ENTITY detail.repository                    "Profil Peungaya">
 
+<!ENTITY detail.checkForUpdates.label         "Paréksa Vèrsi Barô">
 
 
 <!-- ratings -->
@@ -56,6 +59,7 @@
      updates list to signify that an item is an update, in the form
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
      necessary -->
+<!ENTITY addon.checkingForUpdates.label       "Paréksa vèrsi barô…">
 
 
 

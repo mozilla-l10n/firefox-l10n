@@ -292,6 +292,10 @@ performance-default-content-process-count =
 
 ## General Section - Browsing
 
+browsing-title = Peuhah Situs
+browsing-use-autoscroll =
+    .label = Peuseuk otomatis
+    .accesskey = s
 
 ## General Section - Proxy
 
