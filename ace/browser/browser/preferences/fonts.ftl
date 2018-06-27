@@ -66,6 +66,8 @@ fonts-langgroup-thai =
     .label = Thai
 fonts-langgroup-tibetan =
     .label = Tibèt
+fonts-langgroup-canadian =
+    .label = Peusapat narit awak Kanada
 fonts-langgroup-other =
     .label = Sistem Teumuléh Laén
 
@@ -91,6 +93,9 @@ fonts-minsize = Ukôran tulésan teuubeuët
     .accesskey = e
 fonts-minsize-none =
     .label = Hana
+fonts-allow-own =
+    .label = Peuidin pilèh font droe, lagé nyang ka di ateuh
+    .accesskey = P
 
 ## Text Encodings
 ##
