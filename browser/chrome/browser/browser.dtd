@@ -63,7 +63,6 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.accesskey             "u">
 <!ENTITY  closeTab.label                     "Aizvērt cilni">
 <!ENTITY  closeTab.accesskey                 "c">
-
 <!ENTITY  hiddenTabs.label                   "Slēptās cilnes">
 
 <!ENTITY  listAllTabs.label      "Visu ciļņu saraksts">
@@ -221,7 +220,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Izmainiet vai varat saņemt paziņojumus no šīs lapas">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Glabāt datus pastāvīgajā krātuvē">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Pārlūks tiek attālināti kontrolēts">
-
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Atver autentifikācijas paneli">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Pārvaldiet kameras un/vai mikrofona koplietošanu ar šo lapu">
@@ -455,7 +453,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Padoms:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hint "Lai vieglāk atrastu vajadzīgo, Meklējiet &#x1F50E; meklēšanas ieteikumos.">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Mainītu opcijas…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Mainīt iestatījumus…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Mainīt iestatījumus…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
@@ -805,6 +803,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Šai lapai nav piešķirtas nekādas īpašas atļaujas.">
 <!ENTITY identity.permissionsReloadHint "Lai redzētu izmaiņas iespējams būs nepieciešama lapas pārlāde.">
 
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Pārlūka cilnes">
@@ -919,6 +918,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "D">
 <!ENTITY trackingProtection.block2.label "Aktivēt aizsardzību">
 <!ENTITY trackingProtection.block2.accesskey "b">
+
 
 <!ENTITY pluginNotification.showAll.label "Rādīt visus">
 <!ENTITY pluginNotification.showAll.accesskey "s">
