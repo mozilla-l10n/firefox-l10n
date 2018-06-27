@@ -410,8 +410,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
-     in the location bar. These labels are only used in Photon, where you can put
-     items into this menu permanently (pinned). -->
+     in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Ajouter au menu de dépassement">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "m">
 <!ENTITY customizeMenu.moveToToolbar.label "Déplacer vers la barre d’outils">
@@ -423,6 +422,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Déplacer vers le menu">
 <!ENTITY customizeMenu.moveToPanel.accesskey "D">
+<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
+     can appear on the same context menu as menubarCmd and personalbarCmd,
+     so they should have different access keys.  -->
 <!ENTITY customizeMenu.pinToOverflowMenu.label "Épingler au menu de dépassement">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "n">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Retirer du menu de dépassement">
@@ -908,20 +910,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.on "Protection contre le pistage : ACTIVÉE">
 <!ENTITY trackingProtection.off "Protection contre le pistage : DÉSACTIVÉE">
 <!ENTITY trackingProtection.title "Protection contre le pistage">
-<!ENTITY trackingProtection.tooltip "Ouvrir les préférences de la protection contre le pistage">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; a bloqué des éléments de la page qui peuvent pister votre navigation.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Ce site possède des éléments qui peuvent pister votre navigation. Vous avez désactivé la protection.">
 <!ENTITY trackingProtection.notDetected3 "Aucun élément de pistage détecté sur cette page.">
-<!ENTITY trackingProtection.detectedNotBlocked4 "Des traqueurs ont été détectés sur cette page web.">
-<!ENTITY trackingProtection.notDetected4 "Aucun traqueur détecté sur cette page.">
-<!ENTITY trackingProtection.reloadRequired "Vous avez activé la protection contre le pistage. Pour bloquer tous les traqueurs, veuillez actualiser la page courante.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Désactiver la protection pour ce site">
 <!ENTITY trackingProtection.unblock.accesskey "D">
-<!ENTITY trackingProtection.unblock2.label "Faire confiance à ce site">
-<!ENTITY trackingProtection.unblock2.accesskey "F">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -930,12 +926,24 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Activer la protection">
 <!ENTITY trackingProtection.block2.accesskey "A">
 
-<!ENTITY trackingProtection.unblockPrivate2.label "Faire confiance à ce site pour cette session">
-<!ENTITY trackingProtection.unblockPrivate2.accesskey "F">
-<!ENTITY trackingProtection.block3.label "Activer la protection contre le pistage">
-<!ENTITY trackingProtection.block3.accesskey "A">
-<!ENTITY trackingProtection.reload.label "Actualiser la page">
-<!ENTITY trackingProtection.reload.accesskey "A">
+<!ENTITY trackingProtection.tooltip "Ouvrir les préférences de la protection contre le pistage">
+<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; bloque des éléments de cette page qui pourraient pister votre navigation.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; a détecté des éléments susceptibles de pister votre navigation.">
+<!ENTITY trackingProtection.detectedException "&brandShortName; a détecté des éléments susceptibles de pister votre navigation. Vous avez désactivé la protection contre le pistage pour ce site.">
+<!ENTITY trackingProtection.notDetected5 "Aucun traqueur n’a été détecté sur cette page.">
+<!ENTITY trackingProtection.notDetectedException "Aucun traqueur n’a été détecté sur cette page. Vous avez désactivé la protection contre le pistage pour ce site.">
+
+<!ENTITY trackingProtection.reloadRequired2 "Vous avez activé la protection contre le pistage. Actualisez cette page pour bloquer tous les traqueurs.">
+<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock3.label "Désactiver pour ce site">
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate3.label "Désactiver pour cette session">
+<!ENTITY trackingProtection.block4.label "Activer pour ce site">
+<!ENTITY trackingProtection.reload2.label "Actualiser la page">
 
 <!ENTITY pluginNotification.showAll.label "Tout afficher">
 <!ENTITY pluginNotification.showAll.accesskey "T">
