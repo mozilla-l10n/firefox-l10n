@@ -14,6 +14,21 @@ pref-page =
             [windows] Atô
            *[other] Atô
         }
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] Mita bak Piléhan
+           *[other] Mita bak Piléhan
+        }
 pane-general-title = Umom
 category-general =
     .tooltiptext = { pane-general-title }
@@ -193,9 +208,18 @@ sitedata-accept-third-party-never-option =
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-openpage-option =
+    .label = Peuhah tab
+    .accesskey = P
 
 ## Privacy Section - Tracking
 
+tracking-mode-always =
+    .label = Sabé
+    .accesskey = S
+tracking-mode-never =
+    .label = Han tom
+    .accesskey = H
 
 ## Privacy Section - Permissions
 
@@ -219,3 +243,6 @@ security-enable-safe-browsing-link = Meurunoë lom
 
 ## Privacy Section - Certificates
 
+certs-select-ask-option =
+    .label = Tanyöng tiëp watèë
+    .accesskey = e

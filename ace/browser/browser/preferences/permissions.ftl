@@ -4,9 +4,14 @@
 
 permissions-close-key =
     .key = w
+permissions-address = Alamat situs wèb
+    .accesskey = l
 permissions-block =
     .label = Theun
     .accesskey = T
+permissions-allow =
+    .label = Peuidin
+    .accesskey = P
 permissions-site-name =
     .label = Situs Wèb
 permissions-remove =
@@ -23,6 +28,8 @@ permissions-button-ok =
     .accesskey = K
 permissions-searchbox =
     .placeholder = Mita Situs Wèb
+permissions-capabilities-allow =
+    .label = Peuidin
 permissions-capabilities-block =
     .label = Tham
 permissions-capabilities-prompt =
@@ -39,6 +46,9 @@ permissions-capabilities-prompt =
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-window =
+    .title = Situs Wèb nyang Jipeuidin - Pop-up
+    .style = { permissions-window.style }
 
 ## Exceptions - Saved Logins
 
