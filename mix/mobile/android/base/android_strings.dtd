@@ -86,7 +86,7 @@
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
 <!ENTITY bookmark_already_added "Tsa inkai nu markador">
-<!ENTITY bookmark_removed "Tsa n\&apos;do marca">
+<!ENTITY bookmark_removed "Tsa ndo marka">
 <!ENTITY bookmark_updated "Inkàa va´a marcador ">
 <!ENTITY bookmark_options "Nduku">
 <!ENTITY bookmark_save "Chika vaà">
@@ -116,7 +116,7 @@
 <!ENTITY history_week_section3 "Ña ni yàa u\&apos;tsa kii">
 <!ENTITY history_older_section3 "Ni yàa u\&apos;tsa yòo">
 
-<!ENTITY search "Nda tuku">
+<!ENTITY search "Nduku">
 <!ENTITY reload "Kitsa tuku">
 <!ENTITY forward "Inka">
 <!ENTITY menu "N\&apos;da tuku">
