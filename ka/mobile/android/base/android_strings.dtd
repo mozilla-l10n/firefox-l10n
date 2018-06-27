@@ -668,7 +668,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "დაცული კავშირი">
 <!ENTITY identity_connection_insecure "დაუცველი კავშირი">
-<!ENTITY identity_connection_chromeui "ეს &brandShortName;-ის დაცული გვერდია">
+<!ENTITY identity_connection_chromeui "ეს უსაფრთხო &brandShortName; გვერდია">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName;-მა ამ გვერდზე დაუცველი შიგთავსი შეზღუდა.">
