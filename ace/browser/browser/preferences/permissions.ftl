@@ -85,9 +85,17 @@ permissions-exceptions-addons-desc = Droen jeut neu pasoe web tëh nyang meupeui
 
 ## Exceptions - Autoplay Media
 
+permissions-exceptions-autoplay-media-window =
+    .title = Peuidin lama web - ijak keudroe (Autoplay)
+    .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc = Droen jeut neu atô laman web tëh nyang meupeuidin otomatis udép keudroe elemen media. Thép àlamat nyang beutoi nibak situs nyang neukeuneuk peudin dan lheuh nyan klik peuidin (Allow)
 
 ## Site Permissions - Notifications
 
+permissions-site-notification-window =
+    .title = Peuatô - Lake idin notifikasi
+    .style = { permissions-window.style }
+permissions-site-notification-desc = Laman web dimiyub nyoe ka ilakéi kirém notifikasi keu droen. Droen jeut neuatô lakan web tëh nyang meupeuidin kirém notofikasi keudroen. Droen jeut syit neu tham soe na lakéi lôm peuidin notifikasi.
 
 ## Site Permissions - Location
 
