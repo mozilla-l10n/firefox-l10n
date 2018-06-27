@@ -310,6 +310,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "Nove scheda contextual">
 <!ENTITY newUserContext.accesskey         "c">
+<!ENTITY manageUserContext.label          "Gerer le continitores">
+<!ENTITY manageUserContext.accesskey      "o">
 <!ENTITY newNavigatorCmd.label        "Nove fenestra">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -931,8 +933,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.tooltip "Aperir le Preferentias del protection contra le traciamento">
 <!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; bloca partes de iste pagina que pote traciar tu navigation.">
 <!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; ha revelate elementos que potera traciar tu navigation.">
-<!ENTITY trackingProtection.detectedException "&brandShortName; ha disvelate elementos que pote traciar tu navigation. Tu ha disactivate le protection.">
+<!ENTITY trackingProtection.detectedException "&brandShortName; ha disvelate elementos que pote traciar tu navigation. Tu ha disactivate le protection pro iste sito.">
+<!ENTITY trackingProtection.notDetected5 "Nulle elementos de traciamento disvelate in iste pagina.">
+<!ENTITY trackingProtection.notDetectedException "Nulle elementos de traciamento disvelate in iste pagina. Tu ha disactivate le protection pro iste sito.">
 
+<!ENTITY trackingProtection.reloadRequired2 "Tu ha activate le protection contra le traciamento. Recarga iste pagina pro blocar tote le traciatores.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
