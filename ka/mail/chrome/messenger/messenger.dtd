@@ -230,37 +230,37 @@
 <!ENTITY collapseAllThreadsCmd.accesskey "ც">
 <!ENTITY collapseAllThreadsCmd.key "\">
 <!ENTITY unreadMsgsCmd.label "წასაკითხი">
-<!ENTITY unreadMsgsCmd.accesskey "U">
-<!ENTITY threadsWithUnreadCmd.label "საქაღალდეები წასაკითხებით">
-<!ENTITY threadsWithUnreadCmd.accesskey "T">
-<!ENTITY watchedThreadsWithUnreadCmd.label "წასაკითხი საქაღალდეების თვალის მიდევნება">
-<!ENTITY watchedThreadsWithUnreadCmd.accesskey "W">
-<!ENTITY ignoredThreadsCmd.label "იგნორირებული საქაღალდეები">
-<!ENTITY ignoredThreadsCmd.accesskey "i">
+<!ENTITY unreadMsgsCmd.accesskey "ს">
+<!ENTITY threadsWithUnreadCmd.label "საუბრები წასაკითხებით">
+<!ENTITY threadsWithUnreadCmd.accesskey "უ">
+<!ENTITY watchedThreadsWithUnreadCmd.label "წასაკითხი საუბრებისთვის თვალის მიდევნება">
+<!ENTITY watchedThreadsWithUnreadCmd.accesskey "თ">
+<!ENTITY ignoredThreadsCmd.label "უგულებელყოფილი საუბრები">
+<!ENTITY ignoredThreadsCmd.accesskey "გ">
 
 <!ENTITY headersMenu.label "თავსართები">
-<!ENTITY headersMenu.accesskey "H">
+<!ENTITY headersMenu.accesskey "ვ">
 <!ENTITY headersAllCmd.label "ყველა">
-<!ENTITY headersAllCmd.accesskey "A">
+<!ENTITY headersAllCmd.accesskey "ყ">
 <!ENTITY headersNormalCmd.label "ჩვეულებრივი">
-<!ENTITY headersNormalCmd.accesskey "N">
+<!ENTITY headersNormalCmd.accesskey "ლ">
 <!ENTITY bodyMenu.label "წერილის შიგთავსი">
-<!ENTITY bodyMenu.accesskey "B">
+<!ENTITY bodyMenu.accesskey "შ">
 <!ENTITY bodyAllowHTML.label "საწყისი HTML">
 <!ENTITY bodyAllowHTML.accesskey "H">
 <!ENTITY bodySanitized.label "მარტივი HTML">
-<!ENTITY bodySanitized.accesskey "S">
+<!ENTITY bodySanitized.accesskey "მ">
 <!ENTITY bodyAsPlaintext.label "ტექსტი">
-<!ENTITY bodyAsPlaintext.accesskey "P">
+<!ENTITY bodyAsPlaintext.accesskey "ე">
 <!ENTITY bodyAllParts.label "სრული შიგთავსი">
-<!ENTITY bodyAllParts.accesskey "A">
+<!ENTITY bodyAllParts.accesskey "ს">
 
 <!ENTITY bodyMenuFeed.label "არხის წერილის წარმოდგენა როგორც">
-<!ENTITY bodyMenuFeed.accesskey "B">
-<!ENTITY viewFeedWebPage.label "ვებ გვერდი">
-<!ENTITY viewFeedWebPage.accesskey "W">
-<!ENTITY viewFeedSummary.label "რეზიუმე">
-<!ENTITY viewFeedSummary.accesskey "m">
+<!ENTITY bodyMenuFeed.accesskey "რ">
+<!ENTITY viewFeedWebPage.label "ვებგვერდი">
+<!ENTITY viewFeedWebPage.accesskey "ვ">
+<!ENTITY viewFeedSummary.label "შეჯამება">
+<!ENTITY viewFeedSummary.accesskey "ჯ">
 <!ENTITY viewFeedSummaryFeedPropsPref.label "ნაგულისხმები ფორმატი">
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "D">
 
