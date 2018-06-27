@@ -49,6 +49,7 @@ permissions-capabilities-prompt =
 permissions-exceptions-popup-window =
     .title = Situs Wèb nyang Jipeuidin - Pop-up
     .style = { permissions-window.style }
+permissions-exceptions-popup-desc = Droëneuh jeuët neupeuteuntèë töh situs wèb nyang jipeuidin keu peuhah tingkap pop-up. Tuléh beubeutôi alamat situs wèb nyang keuneuk neupeuidin, lheuëh nyan klik Peuidin.
 
 ## Exceptions - Saved Logins
 
