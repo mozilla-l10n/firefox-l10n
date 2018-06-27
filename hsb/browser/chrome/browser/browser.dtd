@@ -310,6 +310,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "D">
 <!ENTITY newUserContext.label             "Nowy kontenerowy rajtark">
 <!ENTITY newUserContext.accesskey         "k">
+<!ENTITY manageUserContext.label          "Kontejnery rjadować">
+<!ENTITY manageUserContext.accesskey      "K">
 <!ENTITY newNavigatorCmd.label        "Nowe wokno">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -412,8 +414,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
-     in the location bar. These labels are only used in Photon, where you can put
-     items into this menu permanently (pinned). -->
+     in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Přeběhowy meni přidać">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "m">
 <!ENTITY customizeMenu.moveToToolbar.label "Do symboloweje lajsty přesunyć">
@@ -425,6 +426,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Do menija přesunyć">
 <!ENTITY customizeMenu.moveToPanel.accesskey "o">
+<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
+     can appear on the same context menu as menubarCmd and personalbarCmd,
+     so they should have different access keys.  -->
 <!ENTITY customizeMenu.pinToOverflowMenu.label "Přeběhowy meni připjeć">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Přeběhowy meni wotpjeć">
@@ -910,20 +914,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.on "Slědowanski škit: Zapinjeny">
 <!ENTITY trackingProtection.off "Slědowanski škit: Wupinjeny">
 <!ENTITY trackingProtection.title "Slědowanski škit">
-<!ENTITY trackingProtection.tooltip "Nastajenja slědowanskeho škita wočinić">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokuje dźěle strony, kotrež móhli waše přehladowanje slědować.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Tute sydło wobsahuje elementy, kotrež móhli waše přehladowanje slědować. Sće škit znjemóžnił.">
 <!ENTITY trackingProtection.notDetected3 "Žane slědowanske elementy na tutej stronje namakane.">
-<!ENTITY trackingProtection.detectedNotBlocked4 "Přesćěhowaki su so na tutym websydle wotkryli.">
-<!ENTITY trackingProtection.notDetected4 "Žane přesćěhowaki na tutej stronje wotkryte.">
-<!ENTITY trackingProtection.reloadRequired "Sće slědowanski škit zmóžnił. Zo byšće wšě přesćěhowaki blokował, začitajće prošu aktualnu webstronu znowa.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Škit za tute sydło znjemóžnić">
 <!ENTITY trackingProtection.unblock.accesskey "n">
-<!ENTITY trackingProtection.unblock2.label "Tutomu sydłu dowěrić">
-<!ENTITY trackingProtection.unblock2.accesskey "T">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -932,12 +930,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Škit zmóžnić">
 <!ENTITY trackingProtection.block2.accesskey "z">
 
-<!ENTITY trackingProtection.unblockPrivate2.label "Tutomu sydłu za tute posedźenje dowěrić">
-<!ENTITY trackingProtection.unblockPrivate2.accesskey "T">
-<!ENTITY trackingProtection.block3.label "Slědowanski škit zapinyć">
-<!ENTITY trackingProtection.block3.accesskey "S">
-<!ENTITY trackingProtection.reload.label "Tutu stronu znowa začitać">
-<!ENTITY trackingProtection.reload.accesskey "z">
+<!ENTITY trackingProtection.tooltip "Nastajenja slědowanskeho škita wočinić">
+<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; blokuje dźěle tuteje strony, kotrež móhli waše přehladowanje slědować.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; je elementy namakał, kotrež móhli waše přehladowanje slědować.">
+<!ENTITY trackingProtection.detectedException "&brandShortName; je elementy namakał, kotrež móhli waše přehladowanje slědować. Sće škit za tute sydło znjemóžnił.">
+<!ENTITY trackingProtection.notDetected5 "Žane slědowanske elementy na tutej stronje namakane.">
+<!ENTITY trackingProtection.notDetectedException "Žane slědowace elementy na tutej stronje namakane. Sće škit za tute sydło znjemóžnił.">
+
+<!ENTITY trackingProtection.reloadRequired2 "Sće slědowanski škit zmóžnił. Začitajće tutu stronu znowa, zo byšće wšě přesćěhowaki blokował.">
+<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock3.label "Za tute sydło znjemóžnić">
+<!ENTITY trackingProtection.unblock3.accesskey "Z">
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate3.label "Za tute posedźenje znjemóžnić">
+<!ENTITY trackingProtection.unblockPrivate3.accesskey "Z">
+<!ENTITY trackingProtection.block4.label "Za tute sydło zmóžnić">
+<!ENTITY trackingProtection.block4.accesskey "m">
+<!ENTITY trackingProtection.reload2.label "Stronu znowa začitać">
+<!ENTITY trackingProtection.reload2.accesskey "S">
 
 <!ENTITY pluginNotification.showAll.label "Wšě pokazać">
 <!ENTITY pluginNotification.showAll.accesskey "W">
