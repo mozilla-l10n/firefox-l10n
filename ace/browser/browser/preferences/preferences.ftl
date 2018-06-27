@@ -29,9 +29,15 @@ search-input-box =
             [windows] Mita bak Piléhan
            *[other] Mita bak Piléhan
         }
+policies-notice =
+    { PLATFORM() ->
+        [windows] Preferensi awak droen ka meupeulën ladôm 
+       *[other] Piléhan keu atô ata awak droen ka meupeulën ladôm
+    }
 pane-general-title = Umom
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = Rümôh (Home)
 category-home =
     .tooltiptext = { pane-home-title }
 pane-search-title = Mita
@@ -69,6 +75,18 @@ restart-later = Peuhah Keulayi Euntreuk
 ## Variables:
 ##   $name (String): name of the extension
 
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = Sabôh ekstensi, <img data-l10n-name="icon"/>, jiatô laman keu droen (Home Page)
+# This string is shown to notify the user that their new tab page
+# is being controlled by an extension.
+extension-controlled-new-tab-url = Sabôh ekstensi, <img data-l10n-name="icon"/>, jiatô laman Tab Barô droen
+# This string is shown to notify the user that the default search engine
+# is being controlled by an extension.
+extension-controlled-default-search = Sabôh ekstensi, <img data-l10n-name="icon"/>, kalheuh ji set meusén seumeutët (search engine) droen nyang default
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlled-privacy-containers = Sabôh ekstensi, <img data-l10n-name="icon"/>, peureulé Tab Kontener
 
 ## Preferences UI Search Results
 

@@ -125,3 +125,7 @@ permissions-site-camera-disable-desc = Nyoe keu peutheun situs web laén nyang h
 permissions-site-microphone-window =
     .title = Peuatô - lakéi idin ngui mic
     .style = { permissions-window.style }
+permissions-site-microphone-desc = Situs web imiyub nyoe kalheuh ilakéi akses ngui mic droen. Droen jeut neuatô keulai situs web tëh nyang meupeuidin akses ngui mic droen. Droen jeut syit neu tham soe nyang neuk lakéi idin akses ngui mic droen
+permissions-site-microphone-disable-label =
+    .label = Tham soe nyang neuk lakéi akses ngui mic droen
+permissions-site-microphone-disable-desc = Nyoe keu peutheun situs web laén nyang hana lam list diateuh nibak ilakéi idin akses mic. Tham akses u mic jeut meuubah ladôm fitur situs web
