@@ -285,6 +285,7 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Ceue proses asoe jih
     .accesskey = C
 performance-limit-content-process-enabled-desc = Proses asoe tambahan jeut meutamah gêt performa watéi meungui lë tab, tapih meungui memori syit lom
+performance-limit-content-process-blocked-desc = Modifikasi leumboi dari proses asoe jih han keumah ta peulaku kecuali ngën multiproses { -brand-short-name }. <a data-l10n-name="learn-more"> i meurunoe kiban caea ta cek meunyô multiproses na udép
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -299,6 +300,9 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = Peuseuk alôih
     .accesskey = a
+browsing-use-onscreen-keyboard =
+    .label = peudëh kibod model cukéh wate peureulé
+    .accesskey = p
 
 ## General Section - Proxy
 
