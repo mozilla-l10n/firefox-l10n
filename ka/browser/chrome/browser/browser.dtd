@@ -941,11 +941,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock3.label "გამორთვა ამ საიტისთვის">
+<!ENTITY trackingProtection.unblock3.label "დაცვის გამორთვა ამ საიტისთვის">
 <!ENTITY trackingProtection.unblock3.accesskey "გ">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate3.label "დაცვის გამორთვა ამ სეანსისთვის">
+<!ENTITY trackingProtection.unblockPrivate3.accesskey "გ">
+<!ENTITY trackingProtection.block4.label "დაცვის ჩართვა ამ საიტისთვის">
+<!ENTITY trackingProtection.block4.accesskey "ჩ">
+<!ENTITY trackingProtection.reload2.label "გვერდის ხელახლა გახსნა">
+<!ENTITY trackingProtection.reload2.accesskey "ხ">
 
 <!ENTITY pluginNotification.showAll.label "ყველას ჩვენება">
 <!ENTITY pluginNotification.showAll.accesskey "ყ">
