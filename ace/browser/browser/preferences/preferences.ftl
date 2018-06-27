@@ -74,6 +74,9 @@ separate-profile-mode =
     .label = Peu-idin { -brand-short-name } ngön Firefox teuhah beusigö
 get-started-not-logged-in = Tamöng u { -sync-brand-short-name }...
 get-started-configured = Peuhah piléhan { -sync-brand-short-name }
+always-check-default =
+    .label = Parèksa sabé peuë { -brand-short-name } nakeuh browser baku
+    .accesskey = p
 startup-restore-previous-session =
     .label = Peuriwang sesi seugolomjih
     .accesskey = g
@@ -82,6 +85,14 @@ browser-containers-learn-more = Meurunoë lom
 
 ## General Section - Language & Appearance
 
+default-font-size = Seunipat
+    .accesskey = S
+colors-settings =
+    .label = Wareuna...
+    .accesskey = W
+choose-button =
+    .label = Piléh...
+    .accesskey = P
 
 ## General Section - Files and Applications
 
@@ -138,6 +149,9 @@ home-newtabs-mode-label = Tab barô
 search-engine-default-header = Meusén Mita Baku
 search-choose-engine-column =
     .label = Meusén Mita
+search-remove-engine =
+    .label = Sampôh
+    .accesskey = S
 
 ## Containers Section
 
@@ -155,6 +169,9 @@ sync-engine-history =
 sync-device-name-cancel =
     .label = Bateue
     .accesskey = B
+sync-device-name-save =
+    .label = Keubah
+    .accesskey = K
 
 ## Privacy Section
 
@@ -171,6 +188,8 @@ history-header = Riwayat
 sitedata-learn-more = Meurunoë lom
 sitedata-accept-third-party-always-option =
     .label = Sabé
+sitedata-accept-third-party-never-option =
+    .label = H`an Tom
 
 ## Privacy Section - Address Bar
 

@@ -107,6 +107,8 @@ fonts-languages-fallback-name-simplified =
     .label = Cina, Jipeusadarana
 fonts-languages-fallback-name-traditional =
     .label = Cina, Tradisional
+fonts-languages-fallback-name-cyrillic =
+    .label = Sirilik
 fonts-languages-fallback-name-greek =
     .label = Yunani
 fonts-languages-fallback-name-hebrew =
@@ -124,3 +126,9 @@ fonts-languages-fallback-name-vietnamese =
 fonts-very-large-warning-title = Ukôran tulésan teuubeuët leupah raya
 fonts-very-large-warning-message = Droëneuh ka neupiléh ukôran tulésan teuubeuët, tapi ukôran nyan leupah raya (leubèh nibak 24 piksel). Nyoë jeuët jipeususah atawa pih han mungkén keu ngui miëng konfigurasi peunténg lagèë nyoë.
 fonts-very-large-warning-accept = Hana peuë, keubah neuubah lôn
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = Baku ({ $name })
+fonts-label-default-unnamed =
+    .label = Baku
