@@ -649,31 +649,20 @@
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; sta bloccando elementi della pagina in grado di tracciare la navigazione.">
 <!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; sta bloccando elementi in questa pagina in grado di tracciare la navigazione.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "In questa pagina sono presenti elementi in grado di tracciare la navigazione. La protezione è disattivata.">
-<!ENTITY trackingProtection.detectedNotBlocked4 "Rilevati elementi traccianti in questa pagina.">
 <!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; ha rilevato elementi in questa pagina in grado di tracciare la navigazione.">
 <!ENTITY trackingProtection.notDetected3 "In questa pagina non sono presenti elementi in grado di tracciare la navigazione.">
-<!ENTITY trackingProtection.notDetected4 "Nessun elemento tracciante rilevato in questa pagina.">
 <!ENTITY trackingProtection.notDetected5 "Nessun elemento tracciante rilevato in questa pagina.">
-<!ENTITY trackingProtection.reloadRequired "La protezione antitracciamento è ora attiva. Per bloccare tutti gli elementi traccianti ricaricare la pagina.">
 <!ENTITY trackingProtection.reloadRequired2 "La protezione antitracciamento è ora attiva. Per bloccare tutti gli elementi traccianti ricaricare la pagina.">
 <!ENTITY trackingProtection.detectedException "Rilevati elementi in grado di tracciare la navigazione. La protezione antitracciamento è stata disattivata per questo sito.">
 <!ENTITY trackingProtection.notDetectedException "Nessun elemento tracciante rilevato in questa pagina. La protezione antitracciamento è stata disattivata per questo sito.">
 <!ENTITY trackingProtection.unblock.label "Disattiva protezione per questo sito">
 <!ENTITY trackingProtection.unblock.accesskey "D">
-<!ENTITY trackingProtection.unblock2.label "Considera questo sito affidabile">
-<!ENTITY trackingProtection.unblock2.accesskey "C">
 <!ENTITY trackingProtection.unblock3.label "Disattiva per questo sito">
 <!ENTITY trackingProtection.unblock3.accesskey "s">
 <!ENTITY trackingProtection.unblockPrivate.label "Disattiva protezione per questa sessione">
 <!ENTITY trackingProtection.unblockPrivate.accesskey "D">
 <!ENTITY trackingProtection.block2.label "Attiva protezione">
 <!ENTITY trackingProtection.block2.accesskey "A">
-<!ENTITY trackingProtection.unblockPrivate2.label "Considera questo sito affidabile per questa sessione">
-<!ENTITY trackingProtection.unblockPrivate2.accesskey "f">
-<!ENTITY trackingProtection.block3.label "Attiva protezione antitracciamento">
-<!ENTITY trackingProtection.block3.accesskey "A">
-<!ENTITY trackingProtection.reload.label "Ricarica questa pagina">
-<!ENTITY trackingProtection.reload.accesskey "R">
 <!ENTITY trackingProtection.unblockPrivate3.label "Disattiva per questa sessione">
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
 <!ENTITY trackingProtection.block4.label "Attiva per questo sito">
