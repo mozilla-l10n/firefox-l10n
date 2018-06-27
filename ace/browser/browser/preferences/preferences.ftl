@@ -296,6 +296,9 @@ browsing-title = Peuhah Situs
 browsing-use-autoscroll =
     .label = Peuseuk otomatis
     .accesskey = s
+browsing-use-smooth-scrolling =
+    .label = Peuseuk alôih
+    .accesskey = a
 
 ## General Section - Proxy
 
