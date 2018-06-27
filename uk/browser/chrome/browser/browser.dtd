@@ -310,6 +310,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "Ф">
 <!ENTITY newUserContext.label             "Нова вкладка в контейнері">
 <!ENTITY newUserContext.accesskey         "н">
+<!ENTITY manageUserContext.label          "Керувати контейнерами">
+<!ENTITY manageUserContext.accesskey      "К">
 <!ENTITY newNavigatorCmd.label        "Нове вікно">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "в">
@@ -412,8 +414,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
-     in the location bar. These labels are only used in Photon, where you can put
-     items into this menu permanently (pinned). -->
+     in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Додати до розширеного меню">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "ш">
 <!ENTITY customizeMenu.moveToToolbar.label "Перенести на панель">
@@ -425,6 +426,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Перенести в меню">
 <!ENTITY customizeMenu.moveToPanel.accesskey "м">
+<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
+     can appear on the same context menu as menubarCmd and personalbarCmd,
+     so they should have different access keys.  -->
 <!ENTITY customizeMenu.pinToOverflowMenu.label "Прикріпити до розширеного меню">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "к">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Відкріпити від розширеного меню">
@@ -910,20 +914,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.on "Захист від стеження: Увімкнено">
 <!ENTITY trackingProtection.off "Захист від стеження: Вимкнено">
 <!ENTITY trackingProtection.title "Захист від стеження">
-<!ENTITY trackingProtection.tooltip "Відкрити налаштування захисту від стеження">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; блокує частини сторінки, які можуть стежити за вашим переглядом.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Цей сайт включає елементи, які можуть стежити за вашим переглядом. Ви вимкнули захист.">
 <!ENTITY trackingProtection.notDetected3 "На цій сторінці не виявлено елементів стеження.">
-<!ENTITY trackingProtection.detectedNotBlocked4 "На цій веб-сторінці було виявлено стеження.">
-<!ENTITY trackingProtection.notDetected4 "На цій сторінці не виявлено стеження.">
-<!ENTITY trackingProtection.reloadRequired "Ви увімкнули захист від стеження. Для застосування змін оновіть сторінку.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Вимкнути захист для цього сайту">
 <!ENTITY trackingProtection.unblock.accesskey "В">
-<!ENTITY trackingProtection.unblock2.label "Довіряти цьому сайту">
-<!ENTITY trackingProtection.unblock2.accesskey "в">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -932,12 +930,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Увімкнути захист">
 <!ENTITY trackingProtection.block2.accesskey "У">
 
-<!ENTITY trackingProtection.unblockPrivate2.label "Довіряти цьому сайту протягом сеансу">
-<!ENTITY trackingProtection.unblockPrivate2.accesskey "в">
-<!ENTITY trackingProtection.block3.label "Увімкнути захист від стеження">
-<!ENTITY trackingProtection.block3.accesskey "в">
-<!ENTITY trackingProtection.reload.label "Оновити сторінку">
-<!ENTITY trackingProtection.reload.accesskey "О">
+<!ENTITY trackingProtection.tooltip "Відкрити налаштування захисту від стеження">
+<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; блокує частини цієї сторінки, що можуть за вами стежити.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; виявив елементи, що можуть за вами стежити.">
+<!ENTITY trackingProtection.detectedException "&brandShortName; виявив елементи, що можуть за вами стежити. Ви вимкнули захист для цього сайту.">
+<!ENTITY trackingProtection.notDetected5 "На цій сторінці не виявлено елементів стеження.">
+<!ENTITY trackingProtection.notDetectedException "На цій сторінці не виявлено елементів стеження. Ви вимкнули захист для цього сайту.">
+
+<!ENTITY trackingProtection.reloadRequired2 "Ви увімкнули захист від стеження. Перезавантажте сторінку для активації.">
+<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock3.label "Вимкнути для цього сайту">
+<!ENTITY trackingProtection.unblock3.accesskey "В">
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate3.label "Вимкнути для цього сеансу">
+<!ENTITY trackingProtection.unblockPrivate3.accesskey "с">
+<!ENTITY trackingProtection.block4.label "Увімкнути для цього сайту">
+<!ENTITY trackingProtection.block4.accesskey "У">
+<!ENTITY trackingProtection.reload2.label "Перезавантажити сторінку">
+<!ENTITY trackingProtection.reload2.accesskey "з">
 
 <!ENTITY pluginNotification.showAll.label "Показати всі">
 <!ENTITY pluginNotification.showAll.accesskey "в">
