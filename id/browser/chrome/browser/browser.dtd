@@ -310,6 +310,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "B">
 <!ENTITY newUserContext.label             "Tab Kontainer Baru">
 <!ENTITY newUserContext.accesskey         "K">
+<!ENTITY manageUserContext.label          "Atur Kontainer">
+<!ENTITY manageUserContext.accesskey      "O">
 <!ENTITY newNavigatorCmd.label        "Jendela Baru">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "J">
@@ -412,8 +414,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
-     in the location bar. These labels are only used in Photon, where you can put
-     items into this menu permanently (pinned). -->
+     in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Tambahkan ke Menu Luapan">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.moveToToolbar.label "Pindahkan ke Bilah Alat">
@@ -425,6 +426,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Pindahkan ke Menu">
 <!ENTITY customizeMenu.moveToPanel.accesskey "i">
+<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
+     can appear on the same context menu as menubarCmd and personalbarCmd,
+     so they should have different access keys.  -->
 <!ENTITY customizeMenu.pinToOverflowMenu.label "Pasangkan ke Menu Luapan">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Lepaskan dari Menu Luapan">
@@ -910,20 +914,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.on "Perlindungan Pelacakan: AKTIF">
 <!ENTITY trackingProtection.off "Perlindungan Pelacakan: NONAKTIF">
 <!ENTITY trackingProtection.title "Perlindungan Pelacakan">
-<!ENTITY trackingProtection.tooltip "Buka Pengaturan Perlindungan Pelacakan">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; memblokir bagian dari laman yang mungkin melacak penjelajahan Anda.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Situs ini mengandung elemen yang mungkin melacak penjelajahan Anda. Anda telah menonaktifkan perlindungan.">
 <!ENTITY trackingProtection.notDetected3 "Tidak ada elemen pelacakan terdeteksi di laman ini.">
-<!ENTITY trackingProtection.detectedNotBlocked4 "Pelacak telah terdeteksi di laman web ini.">
-<!ENTITY trackingProtection.notDetected4 "Tidak ada pelacak terdeteksi di laman ini.">
-<!ENTITY trackingProtection.reloadRequired "Anda telah mengaktifkan Perlindungan Pelacakan. Untuk memblokir semua pelacak, muat ulang laman web ini.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Nonaktifkan perlindungan untuk situs web ini">
 <!ENTITY trackingProtection.unblock.accesskey "N">
-<!ENTITY trackingProtection.unblock2.label "Percayai situs ini">
-<!ENTITY trackingProtection.unblock2.accesskey "P">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -932,12 +930,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Aktifkan perlindungan">
 <!ENTITY trackingProtection.block2.accesskey "A">
 
-<!ENTITY trackingProtection.unblockPrivate2.label "Percayai situs ini untuk sesi kali ini">
-<!ENTITY trackingProtection.unblockPrivate2.accesskey "P">
-<!ENTITY trackingProtection.block3.label "Aktifkan Pelindungan Pelacakan">
-<!ENTITY trackingProtection.block3.accesskey "A">
-<!ENTITY trackingProtection.reload.label "Muat ulang Laman Ini">
-<!ENTITY trackingProtection.reload.accesskey "M">
+<!ENTITY trackingProtection.tooltip "Buka Pengaturan Perlindungan Pelacakan">
+<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; menghalangi bagian dari laman ini yang mungkin mengikuti penjelajahan Anda.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; telah mendeteksi elemen yang mungkin mengikuti penjelajahan Anda.">
+<!ENTITY trackingProtection.detectedException "&brandShortName; telah mendeteksi elemen yang mungkin mengikuti penjelajahan Anda. Anda telah mematikan perlindungan untuk situs ini.">
+<!ENTITY trackingProtection.notDetected5 "Tidak ada elemen pelacakan terdeteksi di laman ini.">
+<!ENTITY trackingProtection.notDetectedException "Tidak ada elemen pelacakan terdeteksi di laman ini. Anda telah mematikan perlindungan untuk situs ini.">
+
+<!ENTITY trackingProtection.reloadRequired2 "Anda telah mengaktifkan Perlindungan Pelacakan. Muat-ulang laman ini untuk menghalangi semua pelacak.">
+<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock3.label "Matikan untuk Situs Ini">
+<!ENTITY trackingProtection.unblock3.accesskey "D">
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate3.label "Matikan untuk Sesi Ini">
+<!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
+<!ENTITY trackingProtection.block4.label "Aktifkan untuk Situs Ini">
+<!ENTITY trackingProtection.block4.accesskey "E">
+<!ENTITY trackingProtection.reload2.label "Muat-ulang Laman">
+<!ENTITY trackingProtection.reload2.accesskey "R">
 
 <!ENTITY pluginNotification.showAll.label "Tampilkan Semua">
 <!ENTITY pluginNotification.showAll.accesskey "a">
