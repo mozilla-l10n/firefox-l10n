@@ -5,6 +5,7 @@
 <!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 
+<!ENTITY listEmpty.findUpdates.label          "Paréksa Vèrsi Barô">
 <!ENTITY listEmpty.button.label               "Meurunoë lom bhah peungaya">
 
 

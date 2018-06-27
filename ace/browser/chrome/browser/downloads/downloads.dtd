@@ -41,15 +41,25 @@
      -->
 <!ENTITY downloadsSummary.minWidth2       "21ch">
 
+<!ENTITY cmd.pause.accesskey              "P">
+<!ENTITY cmd.resume.accesskey             "R">
 <!ENTITY cmd.cancel.label                 "Bateue">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
      cmd.showMac.accesskey):
      The show and showMac commands are never shown together, thus they can share
      the same access key (though the two access keys can also be different).
      -->
+<!ENTITY cmd.show.accesskey               "F">
+<!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.goToDownloadPage.accesskey   "G">
+<!ENTITY cmd.copyDownloadLink.accesskey   "L">
+<!ENTITY cmd.removeFromHistory.accesskey  "e">
+<!ENTITY cmd.clearList2.accesskey         "a">
+<!ENTITY cmd.clearDownloads.accesskey     "D">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
      This command is shown in the context menu when downloads are blocked.
      -->
+<!ENTITY cmd.unblock2.accesskey           "o">
 <!-- LOCALIZATION NOTE (cmd.removeFile.label):
      This is the tooltip of the action button shown when malware is blocked.
      -->
@@ -102,6 +112,7 @@
      downloads fit in the available space, or when there are no downloads in
      the panel at all.
      -->
+<!ENTITY downloadsHistory.accesskey       "S">
 
 <!-- LOCALIZATION NOTE (downloadDetails.label):
      This string is shown at the top of the Download Details Panel, to indicate
