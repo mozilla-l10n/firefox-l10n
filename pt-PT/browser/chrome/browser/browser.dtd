@@ -310,6 +310,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "Novo separador contentor">
 <!ENTITY newUserContext.accesskey         "c">
+<!ENTITY manageUserContext.label          "Gerir contentores">
+<!ENTITY manageUserContext.accesskey      "O">
 <!ENTITY newNavigatorCmd.label        "Nova janela">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -412,8 +414,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
-     in the location bar. These labels are only used in Photon, where you can put
-     items into this menu permanently (pinned). -->
+     in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Adicionar ao menu de excesso">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "m">
 <!ENTITY customizeMenu.moveToToolbar.label "Mover para a barra de ferramentas">
@@ -425,6 +426,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Mover para o menu">
 <!ENTITY customizeMenu.moveToPanel.accesskey "o">
+<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
+     can appear on the same context menu as menubarCmd and personalbarCmd,
+     so they should have different access keys.  -->
 <!ENTITY customizeMenu.pinToOverflowMenu.label "Afixar ao menu de excesso">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "A">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Desafixar do menu de excesso">
@@ -910,20 +914,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.on "Proteção contra monitorização: LIGADA">
 <!ENTITY trackingProtection.off "Proteção contra monitorização: DESLIGADA">
 <!ENTITY trackingProtection.title "Proteção contra monitorização">
-<!ENTITY trackingProtection.tooltip "Abrir preferências de proteção contra monitorização">
 <!ENTITY trackingProtection.detectedBlocked3 "O &brandShortName; está a bloquear partes da página que podem monitorizar a sua navegação.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Este site incluí elementos que podem monitorizar a sua navegação. A proteção contra monitorização foi desativada por si.">
 <!ENTITY trackingProtection.notDetected3 "Não foram detetados elementos de monitorização nesta página.">
-<!ENTITY trackingProtection.detectedNotBlocked4 "Foram detetados trackers nesta página web.">
-<!ENTITY trackingProtection.notDetected4 "Não foram detetados trackers nesta página.">
-<!ENTITY trackingProtection.reloadRequired "Ativou a Proteção contra monitorização. Para bloquear todos os trackers, por favor recarregue a página web atual.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Desativar proteção para este site">
 <!ENTITY trackingProtection.unblock.accesskey "D">
-<!ENTITY trackingProtection.unblock2.label "Confiar neste site">
-<!ENTITY trackingProtection.unblock2.accesskey "C">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -932,12 +930,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Ativar proteção">
 <!ENTITY trackingProtection.block2.accesskey "e">
 
-<!ENTITY trackingProtection.unblockPrivate2.label "Confiar neste site para esta sessão">
-<!ENTITY trackingProtection.unblockPrivate2.accesskey "C">
-<!ENTITY trackingProtection.block3.label "Ligar a Proteção contra monitorização">
-<!ENTITY trackingProtection.block3.accesskey "t">
-<!ENTITY trackingProtection.reload.label "Recarregar esta página">
-<!ENTITY trackingProtection.reload.accesskey "R">
+<!ENTITY trackingProtection.tooltip "Abrir preferências de proteção contra monitorização">
+<!ENTITY trackingProtection.detectedBlocked4 "O &brandShortName; está a bloquear partes desta página que podem monitorizar a sua navegação.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "O &brandShortName; detetou elementos que podem monitorizar a sua navegação.">
+<!ENTITY trackingProtection.detectedException "O &brandShortName; detetou elementos que podem monitorizar a sua navegação. Tem a proteção desativada para este site.">
+<!ENTITY trackingProtection.notDetected5 "Não foram detetados elementos de monitorização nesta página.">
+<!ENTITY trackingProtection.notDetectedException "Não foram detetados elementos de monitorização nesta página. Tem a proteção desativada para este site.">
+
+<!ENTITY trackingProtection.reloadRequired2 "Ativou a Proteção contra monitorização. Recarregue esta página para bloquear todos os trackers.">
+<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock3.label "Desativar para este site">
+<!ENTITY trackingProtection.unblock3.accesskey "D">
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate3.label "Desativar para esta sessão">
+<!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
+<!ENTITY trackingProtection.block4.label "Ativar para este site">
+<!ENTITY trackingProtection.block4.accesskey "e">
+<!ENTITY trackingProtection.reload2.label "Recarregar página">
+<!ENTITY trackingProtection.reload2.accesskey "R">
 
 <!ENTITY pluginNotification.showAll.label "Mostrar tudo">
 <!ENTITY pluginNotification.showAll.accesskey "s">
