@@ -310,6 +310,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "Ny innhaldsfane">
 <!ENTITY newUserContext.accesskey         "i">
+<!ENTITY manageUserContext.label          "Handter behaldarar">
+<!ENTITY manageUserContext.accesskey      "H">
 <!ENTITY newNavigatorCmd.label        "Nytt vindauge">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -412,8 +414,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
-     in the location bar. These labels are only used in Photon, where you can put
-     items into this menu permanently (pinned). -->
+     in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Legg til i overflytsmenyen">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "m">
 <!ENTITY customizeMenu.moveToToolbar.label "Flytt til verktøylinje">
@@ -425,6 +426,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Flytt til meny">
 <!ENTITY customizeMenu.moveToPanel.accesskey "t">
+<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
+     can appear on the same context menu as menubarCmd and personalbarCmd,
+     so they should have different access keys.  -->
 <!ENTITY customizeMenu.pinToOverflowMenu.label "Fest til overflytsmenyen">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "F">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Fjern frå overflytsmenyen">
@@ -910,20 +914,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.on "Sporingsvern: PÅ">
 <!ENTITY trackingProtection.off "Sporingsvern: AV">
 <!ENTITY trackingProtection.title "Sporingsvern">
-<!ENTITY trackingProtection.tooltip "Opne innstillingar for sporingsvern">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokkerer delar av sida som kan spore nettlesinga di.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Denne sida inneheld element som kan spore nettlesinga di. Du har slått av vern.">
 <!ENTITY trackingProtection.notDetected3 "Ingens sporingselement funne på denne sida.">
-<!ENTITY trackingProtection.detectedNotBlocked4 "Sporfølgjarar er oppdaga på denne nettsida.">
-<!ENTITY trackingProtection.notDetected4 "Ingen sporfølgjarar er oppdaga på denne nettsida.">
-<!ENTITY trackingProtection.reloadRequired "Du har slått på sporingsvern. For å blokkere alle sporfølgjarar, oppdater denne nettsida.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Slå av vern for denne sida">
 <!ENTITY trackingProtection.unblock.accesskey "S">
-<!ENTITY trackingProtection.unblock2.label "Stol på denne nettsida">
-<!ENTITY trackingProtection.unblock2.accesskey "S">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -932,12 +930,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Slå på vern">
 <!ENTITY trackingProtection.block2.accesskey "å">
 
-<!ENTITY trackingProtection.unblockPrivate2.label "Stol på denne nettsida for denne økta">
-<!ENTITY trackingProtection.unblockPrivate2.accesskey "S">
-<!ENTITY trackingProtection.block3.label "Slå sporingsvern PÅ">
-<!ENTITY trackingProtection.block3.accesskey "S">
-<!ENTITY trackingProtection.reload.label "Oppdater denne sida">
-<!ENTITY trackingProtection.reload.accesskey "O">
+<!ENTITY trackingProtection.tooltip "Opne innstillingar for sporingsvern">
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock3.label "Slå av på denne sida">
+<!ENTITY trackingProtection.unblock3.accesskey "S">
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate3.label "Slå av for denne økta">
+<!ENTITY trackingProtection.unblockPrivate3.accesskey "ø">
 
 <!ENTITY pluginNotification.showAll.label "Vis alle">
 <!ENTITY pluginNotification.showAll.accesskey "V">
