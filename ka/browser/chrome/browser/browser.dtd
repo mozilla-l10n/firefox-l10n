@@ -310,6 +310,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "ფ">
 <!ENTITY newUserContext.label             "ახალი სათავსი ჩანართი">
 <!ENTITY newUserContext.accesskey         "ს">
+<!ENTITY manageUserContext.label          "სათავსების მართვა">
+<!ENTITY manageUserContext.accesskey      "ა">
 <!ENTITY newNavigatorCmd.label        "ახალი ფანჯარა">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "ა">
@@ -412,8 +414,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
-     in the location bar. These labels are only used in Photon, where you can put
-     items into this menu permanently (pinned). -->
+     in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "ჩამოსაშლელ მენიუში დამატება">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "ჩ">
 <!ENTITY customizeMenu.moveToToolbar.label "ხელსაწყოთა ზოლში გადატანა">
@@ -425,6 +426,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "მენიუში გადატანა">
 <!ENTITY customizeMenu.moveToPanel.accesskey "გ">
+<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
+     can appear on the same context menu as menubarCmd and personalbarCmd,
+     so they should have different access keys.  -->
 <!ENTITY customizeMenu.pinToOverflowMenu.label "ჩამოსაშლელ მენიუში მიმაგრება">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "გ">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "ჩამოსაშლელი მენიუდან მოცილება">
@@ -910,20 +914,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.on "თვალთვალი: შეზღუდულია">
 <!ENTITY trackingProtection.off "თვალთვალი: დაშვებულია">
 <!ENTITY trackingProtection.title "თვალთვალისგან დაცვა">
-<!ENTITY trackingProtection.tooltip "თვალთვალისგან დაცვის პარამეტრების გახსნა">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; ზღუდავს საიტის იმ ნაწილებს, რომლებსაც თქვენს მოქმედებებზე თვალყურის დევნება შეუძლია.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "საიტი შეიცავს ნაწილებს, რომელიც შესაძლოა თქვენს მოქმედებებს აღრიცხავდეს. დაცვა ამჟამად, გამორთული გაქვთ.">
 <!ENTITY trackingProtection.notDetected3 "ამ გვერდზე მოთვალთვალე ელემენტები არ აღმოჩენილა.">
-<!ENTITY trackingProtection.detectedNotBlocked4 "ვებგვერდზე აღმოჩენილია მეთვალყურე ელემენტები.">
-<!ENTITY trackingProtection.notDetected4 "ამ გვერდზე მეთვალყურე ელემენტები არ აღმოჩენილა.">
-<!ENTITY trackingProtection.reloadRequired "თქვენ ჩართეთ თვალთვალისგან დაცვა. მეთვალყურეების შესაზღუდად, ხელახლა გახსენით გვერდი.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "ამ საიტზე დაცვის გამორთვა">
 <!ENTITY trackingProtection.unblock.accesskey "გ">
-<!ENTITY trackingProtection.unblock2.label "საიტისთვის ნდობის გამოცხადება">
-<!ENTITY trackingProtection.unblock2.accesskey "ნ">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -932,12 +930,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "დაცვის ჩართვა">
 <!ENTITY trackingProtection.block2.accesskey "რ">
 
-<!ENTITY trackingProtection.unblockPrivate2.label "საიტისთვის ნდობის გამოცხადება ამ სეანსზე">
-<!ENTITY trackingProtection.unblockPrivate2.accesskey "ნ">
-<!ENTITY trackingProtection.block3.label "თვალთვალისგან დაცვის ჩართვა">
-<!ENTITY trackingProtection.block3.accesskey "თ">
-<!ENTITY trackingProtection.reload.label "გვერდის ხელახლა გახსნა">
-<!ENTITY trackingProtection.reload.accesskey "ხ">
+<!ENTITY trackingProtection.tooltip "თვალთვალისგან დაცვის პარამეტრების გახსნა">
+<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; ზღუდავს გვერდის იმ ნაწილებს, რომლებსაც თქვენს მოქმედებებზე თვალყურის დევნება შეუძლია.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName;-მა აღმოაჩინა ელემენტები, რომლებიც შესაძლოა თვალს ადევნდებდეს თქვენს გადაადგილებას.">
+<!ENTITY trackingProtection.detectedException "&brandShortName;-მა აღმოაჩინა ელემენტები, რომლებიც შესაძლოა თვალს ადევნდებდეს თქვენს გადაადგილებას. ამ საიტისთვის დაცვა გამორთული გაქვთ.">
+<!ENTITY trackingProtection.notDetected5 "ამ გვერდზე მეთვალყურე ელემენტები არ აღმოჩენილა.">
+<!ENTITY trackingProtection.notDetectedException "ამ გვერდზე მეთვალყურე ელემენტები არ აღმოჩენილა. ამ საიტისთვის დაცვა გამორთული გაქვთ.">
+
+<!ENTITY trackingProtection.reloadRequired2 "თქვენ ჩართეთ თვალთვალისგან დაცვა. ხელახლა გახსენით გვერდი მეთვალყურეების შესაზღუდად.">
+<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock3.label "გამორთვა ამ საიტისთვის">
+<!ENTITY trackingProtection.unblock3.accesskey "გ">
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
 
 <!ENTITY pluginNotification.showAll.label "ყველას ჩვენება">
 <!ENTITY pluginNotification.showAll.accesskey "ყ">
