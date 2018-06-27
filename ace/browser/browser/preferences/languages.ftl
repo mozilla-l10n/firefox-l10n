@@ -7,6 +7,7 @@ languages-window =
     .style = width: 30em
 languages-close-key =
     .key = w
+languages-description = ôn web sigë gë jijôk meu padub bôh bahsa. Neupiléh bahsa nyang deuh bak ôn nyoe, lagé teuatô nibak preferen
 languages-customize-moveup =
     .label = Gèsèë u Ateuëh
     .accesskey = A
