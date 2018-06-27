@@ -310,6 +310,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "D">
 <!ENTITY newUserContext.label             "Yeni kapsayıcı sekme">
 <!ENTITY newUserContext.accesskey         "k">
+<!ENTITY manageUserContext.label          "Kapsayıcıları yönet">
+<!ENTITY manageUserContext.accesskey      "K">
 <!ENTITY newNavigatorCmd.label        "Yeni pencere">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "Y">
@@ -412,8 +414,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
-     in the location bar. These labels are only used in Photon, where you can put
-     items into this menu permanently (pinned). -->
+     in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Adres çubuğu menüsüne ekle">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "m">
 <!ENTITY customizeMenu.moveToToolbar.label "Araç çubuğuna taşı">
@@ -425,6 +426,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Menüye taşı">
 <!ENTITY customizeMenu.moveToPanel.accesskey "t">
+<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
+     can appear on the same context menu as menubarCmd and personalbarCmd,
+     so they should have different access keys.  -->
 <!ENTITY customizeMenu.pinToOverflowMenu.label "Adres çubuğu menüsüne sabitle">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "s">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Adres çubuğu menüsünden kaldır">
@@ -910,20 +914,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.on "İzlenme Koruması: AÇIK">
 <!ENTITY trackingProtection.off "İzlenme Koruması: KAPALI">
 <!ENTITY trackingProtection.title "İzlenme Koruması">
-<!ENTITY trackingProtection.tooltip "İzlenme Koruması tercihlerini aç">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; bu sayfanın sizi izleme ihtimali olan kısımlarını engelliyor.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Bu site, gezintinizi izleme ihtimali olan öğeler içeriyor. Korumayı devre dışı bıraktınız.">
 <!ENTITY trackingProtection.notDetected3 "Bu sayfada sizi izleyen herhangi bir öğe bulunmadı.">
-<!ENTITY trackingProtection.detectedNotBlocked4 "Bu web sayfasında takipçiler tespit edildi.">
-<!ENTITY trackingProtection.notDetected4 "Bu sayfada hiç takipçi tespit edilmedi.">
-<!ENTITY trackingProtection.reloadRequired "İzlenme Koruması’nı açtınız. Tüm takipçileri engellemek için lütfen bu web sayfasını tazeleyin.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Bu sitede korumayı devre dışı bırak">
 <!ENTITY trackingProtection.unblock.accesskey "d">
-<!ENTITY trackingProtection.unblock2.label "Bu siteye güven">
-<!ENTITY trackingProtection.unblock2.accesskey "B">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -932,12 +930,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Korumayı etkinleştir">
 <!ENTITY trackingProtection.block2.accesskey "e">
 
-<!ENTITY trackingProtection.unblockPrivate2.label "Bu oturumda bu siteye güven">
-<!ENTITY trackingProtection.unblockPrivate2.accesskey "o">
-<!ENTITY trackingProtection.block3.label "İzlenme Koruması’nı AÇ">
-<!ENTITY trackingProtection.block3.accesskey "K">
-<!ENTITY trackingProtection.reload.label "Sayfayı tazele">
-<!ENTITY trackingProtection.reload.accesskey "S">
+<!ENTITY trackingProtection.tooltip "İzlenme Koruması tercihlerini aç">
+<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; bu sayfanın sizi izleme ihtimali olan kısımlarını engelliyor.">
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
 
 <!ENTITY pluginNotification.showAll.label "Tümünü göster">
 <!ENTITY pluginNotification.showAll.accesskey "T">

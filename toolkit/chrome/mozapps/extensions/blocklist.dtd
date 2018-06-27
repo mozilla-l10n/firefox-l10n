@@ -10,7 +10,7 @@
 <!ENTITY blocklist.softandhard       "Yüksek derecede kararlılık veya güvenlik sorunu yaratabilecek eklentiler engellendi. Diğerleri daha az risk taşıyor ama onları da devre dışı bırakıp uygulamayı yeniden başlatmanız şiddetle tavsiye edilir.">
 <!ENTITY blocklist.moreinfo          "Daha fazla bilgi">
 
-<!ENTITY blocklist.accept.label      "&brandShortName; yeniden başlasın">
+<!ENTITY blocklist.accept.label      "&brandShortName; yeniden başlatılsın">
 <!ENTITY blocklist.accept.accesskey  "b">
 
 <!ENTITY blocklist.blocked.label     "Engellendi">
