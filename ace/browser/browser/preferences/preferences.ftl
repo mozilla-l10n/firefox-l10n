@@ -97,9 +97,35 @@ startup-restore-previous-session =
     .accesskey = g
 tabs-group-header = Tab
 browser-containers-learn-more = Meurunoë lom
+browser-containers-settings =
+    .label = Peuatô...
+    .accesskey = P
+containers-disable-alert-title = Tôb mandum Tab kontener
+containers-disable-alert-desc =
+    { $tabCount ->
+       *[other] Miseu neupeulön tab kontener jinoe,{ $tabCount } tab kontener i keuneuk tôb. Pue droen yakin neupeulön tab kontener?
+    }
+containers-disable-alert-ok-button =
+    { $tabCount ->
+       *[other] Tôb { $tabCount } tab kontener
+    }
+containers-disable-alert-cancel-button = Peu udép sabē
+containers-remove-alert-title = Böh kontener nyôe?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+       *[other] Miseu neubëh kontener nyôe jinoe,{ $count } tab kontener geu tôb ju. Pue droeneuh neu keuneuk bëh kontener nyôe?
+    }
+containers-remove-ok-button = Bëh kontener nyôe
+containers-remove-cancel-button = Bék neubëh kontener nyôe
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = Basa dan hi
+fonts-and-colors-header = Font & wareuna
+default-font = Font ata kana
+    .accesskey = F
 default-font-size = Seunipat
     .accesskey = S
 colors-settings =
