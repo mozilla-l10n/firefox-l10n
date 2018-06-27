@@ -96,12 +96,32 @@ permissions-site-notification-window =
     .title = Peuatô - Lake idin notifikasi
     .style = { permissions-window.style }
 permissions-site-notification-desc = Laman web dimiyub nyoe ka ilakéi kirém notifikasi keu droen. Droen jeut neuatô lakan web tëh nyang meupeuidin kirém notofikasi keudroen. Droen jeut syit neu tham soe na lakéi lôm peuidin notifikasi.
+permissions-site-notification-disable-label =
+    .label = Tham soe nyang lakéi keulai keu peuidin notifikasi
+permissions-site-notification-disable-desc = Nyoe keu peutheun laman web laen nyang hana rôh lam list diateuh nibak ilakéi idin kirem notifikasi. Tham notifikasi jeut meukureueng fitur ladôm laman web.
 
 ## Site Permissions - Location
 
+permissions-site-location-window =
+    .title = Peuatô - laké idin lokasi
+    .style = { permissions-window.style }
+permissions-site-location-desc = Laman web imiyub nyoe kalheuh geulakéi idin akses lokasi droen. Droen jeut neuatô lôm situs web tëh nyang meupeuidin akses lokasi droen. Droen jeut neu tham soe nyang laké lôm nibak akses lokasi droen.
+permissions-site-location-disable-label =
+    .label = Tham soe nyang laké lom nibak akses lokasi drôen
+permissions-site-location-disable-desc = Nyôe keu peutheun situs web laén nyang hana rôh lam list diateuh nibak ilakéi idin akses lokasi droen. Tham akses u lokasi droen jeut meuubah ladôm fitur situs web
 
 ## Site Permissions - Camera
 
+permissions-site-camera-window =
+    .title = Peuatô - laké idin kamera
+    .style = { permissions-window.style }
+permissions-site-camera-desc = Situs web dimiyub nyoe kalheuh geulakéi idin akses kamera droen. Droen jeut neuatô keulai situs web tëh nyang meupeuidin akses kamera droen. Droen jeut syit neu tham soe nyang lakéi idin lom nibak akses kamera droen
+permissions-site-camera-disable-label =
+    .label = Tham soe nyang keuneuk lakéi idin akses kamera droen
+permissions-site-camera-disable-desc = Nyoe keu peutheun situs web laén nyang hana lam list diateuh nibak lakéi idin akses kamera droen. Tham akses u kamera droen jeut meuubah ladôm fitur situs web
 
 ## Site Permissions - Microphone
 
+permissions-site-microphone-window =
+    .title = Peuatô - lakéi idin ngui mic
+    .style = { permissions-window.style }
