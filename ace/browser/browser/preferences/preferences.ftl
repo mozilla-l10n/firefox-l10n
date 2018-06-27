@@ -284,6 +284,7 @@ performance-allow-hw-accel =
     .accesskey = N
 performance-limit-content-process-option = Ceue proses asoe jih
     .accesskey = C
+performance-limit-content-process-enabled-desc = Proses asoe tambahan jeut meutamah gêt performa watéi meungui lë tab, tapih meungui memori syit lom
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
