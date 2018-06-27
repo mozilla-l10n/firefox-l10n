@@ -931,8 +931,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.accesskey "b">
 
 <!ENTITY trackingProtection.tooltip "Követés elleni védelem beállításainak megnyitása">
+<!ENTITY trackingProtection.detectedBlocked4 "A &brandShortName; blokkolja az oldal azon részeit, amelyek követhetik a böngészését.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "A &brandShortName; olyan elemeket talált, amelyek követhetik az Ön böngészését.">
+<!ENTITY trackingProtection.detectedException "A &brandShortName; olyan elemeket talált, amelyek követhetik az Ön böngészését. A védelmet kikapcsolta ezen az oldalon.">
 <!ENTITY trackingProtection.notDetected5 "Az oldalon nem találhatók követő elemek.">
-<!ENTITY trackingProtection.notDetectedException "Az oldalon nem találhatók követő elemek. Letiltotta a védelmet ezen az oldalon.">
+<!ENTITY trackingProtection.notDetectedException "Az oldalon nem találhatók követő elemek. A védelmet kikapcsolta ezen az oldalon.">
 
 <!ENTITY trackingProtection.reloadRequired2 "Engedélyezte a követés elleni védelmet. Töltse újra az oldalt a követők letiltásához.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
