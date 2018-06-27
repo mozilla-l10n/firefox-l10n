@@ -214,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Otvorí panel správ">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Otvorí panel so žiadosťou o polohu">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Otvorí panel automatického prehrávania">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Otvorí panel správ inštalácie doplnkov">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Správa povolení prístupu k informáciám canvasu">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Otvorí panel správ offline úložiska">
@@ -410,8 +411,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
-     in the location bar. These labels are only used in Photon, where you can put
-     items into this menu permanently (pinned). -->
+     in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Pridať do rozširujúcej ponuky">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "k">
 <!ENTITY customizeMenu.moveToToolbar.label "Presunúť na panel nástrojov">
@@ -423,6 +423,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Presunúť do ponuky">
 <!ENTITY customizeMenu.moveToPanel.accesskey "u">
+<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
+     can appear on the same context menu as menubarCmd and personalbarCmd,
+     so they should have different access keys.  -->
 <!ENTITY customizeMenu.pinToOverflowMenu.label "Pripnúť do rozširujúcej ponuky">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Zrušiť pripnutie v rozširujúcej ponuke">
@@ -907,19 +910,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.on "Ochrana pred sledovaním je zapnutá">
 <!ENTITY trackingProtection.off "Ochrana pred sledovaním je vypnutá">
 <!ENTITY trackingProtection.title "Ochrana pred sledovaním">
-<!ENTITY trackingProtection.tooltip "Otvorí nastavenia ochrany pred sledovaním">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokuje časti stránky, ktoré môžu sledovať vaše prehliadanie.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Na tejto stránke boli nájdené sledovacie prvky. Ochrana pred sledovaním je však pre túto stránku vypnutá.">
 <!ENTITY trackingProtection.notDetected3 "Na tejto stránke neboli zistené žiadne sledovacie prvky.">
-<!ENTITY trackingProtection.detectedNotBlocked4 "Na tejto stránke boli zistené sledovacie prvky.">
-<!ENTITY trackingProtection.notDetected4 "Na tejto stránke neboli zistené žiadne sledovacie prvky.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Vypnúť ochranu pre túto stránku">
 <!ENTITY trackingProtection.unblock.accesskey "V">
-<!ENTITY trackingProtection.unblock2.label "Dôverovať tejto stránke">
-<!ENTITY trackingProtection.unblock2.accesskey "t">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -928,8 +926,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Zapnúť ochranu">
 <!ENTITY trackingProtection.block2.accesskey "Z">
 
-<!ENTITY trackingProtection.reload.label "Obnoviť túto stránku">
-<!ENTITY trackingProtection.reload.accesskey "O">
+<!ENTITY trackingProtection.tooltip "Otvorí nastavenia ochrany pred sledovaním">
+<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; blokuje časti stránky, ktoré môžu sledovať vaše prehliadanie.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; objavil prvky, ktoré môžu sledovať vaše prehliadanie.">
+<!ENTITY trackingProtection.notDetected5 "Na tejto stránke neboli zistené žiadne sledovacie prvky.">
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.reload2.label "Obnoviť stránku">
+<!ENTITY trackingProtection.reload2.accesskey "b">
 
 <!ENTITY pluginNotification.showAll.label "Zobraziť všetko">
 <!ENTITY pluginNotification.showAll.accesskey "Z">
