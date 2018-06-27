@@ -16,6 +16,12 @@ site-data-button-cancel =
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 site-usage-pattern = { $value } { $unit }
+site-data-remove-all =
+    .label = Sampoh Bandum
+    .accesskey = a
+site-data-remove-shown =
+    .label = Sampoh Bandum Yang Leumah
+    .accesskey = e
 
 ## Removing
 

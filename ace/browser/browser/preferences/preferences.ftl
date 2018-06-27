@@ -92,6 +92,9 @@ get-started-configured = Peuhah piléhan { -sync-brand-short-name }
 always-check-default =
     .label = Parèksa sabé peuë { -brand-short-name } nakeuh browser baku
     .accesskey = p
+set-as-my-default-browser =
+    .label = Peugot Baku
+    .accesskey = B
 startup-restore-previous-session =
     .label = Peuriwang sesi seugolomjih
     .accesskey = g
@@ -238,6 +241,9 @@ performance-default-content-process-count =
 
 network-proxy-title = Proksi Jaringan
 network-proxy-connection-learn-more = Meurunoë Lom
+network-proxy-connection-settings =
+    .label = Peuatos...
+    .accesskey = e
 
 ## Home Section
 
@@ -246,9 +252,17 @@ home-new-windows-tabs-header = Tingkap ngön Tab Barô
 ## Home Section - Home Page Customization
 
 home-newtabs-mode-label = Tab barô
+home-restore-defaults =
+    .label = Peubalek Baku
+    .accesskey = P
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Firefox Rumoh (Baku)
 
 ## Search Section
 
+search-bar-header = Mita Bar
 search-engine-default-header = Meusén Mita Baku
 search-choose-engine-column =
     .label = Meusén Mita
@@ -258,14 +272,26 @@ search-remove-engine =
 
 ## Containers Section
 
+containers-back-link = « Gisa
+containers-remove-button =
+    .label = Sampoh
 
 ## Sync Section - Signed out
 
+sync-signedout-account-signin =
+    .label = Tamong...
+    .accesskey = T
 
 ## Sync Section - Signed in
 
 sync-profile-picture =
     .tooltiptext = Gantoë gamba profil
+sync-remove-account =
+    .label = Sampoh Akun
+    .accesskey = A
+sync-sign-in =
+    .label = Tamong
+    .accesskey = g
 sync-engine-history =
     .label = Riwayat
     .accesskey = R
@@ -285,6 +311,9 @@ sync-device-name-save =
 ## Privacy Section - History
 
 history-header = Riwayat
+history-clear-on-close-settings =
+    .label = Peuatoe...
+    .accesskey = t
 
 ## Privacy Section - Site Data
 
@@ -293,6 +322,12 @@ sitedata-accept-third-party-always-option =
     .label = Sabé
 sitedata-accept-third-party-never-option =
     .label = H`an Tom
+sitedata-clear =
+    .label = Peugleh Data...
+    .accesskey = l
+sitedata-settings =
+    .label = Uroh Data...
+    .accesskey = U
 
 ## Privacy Section - Address Bar
 
@@ -311,7 +346,19 @@ tracking-mode-never =
 
 ## Privacy Section - Permissions
 
+permissions-location-settings =
+    .label = Peuatoe...
+    .accesskey = t
 permissions-camera = Kamèra
+permissions-camera-settings =
+    .label = Peuatoe...
+    .accesskey = t
+permissions-microphone-settings =
+    .label = Peuatoe...
+    .accesskey = t
+permissions-notification-settings =
+    .label = Peuatoe
+    .accesskey = t
 permissions-notification-link = Meurunoë lom
 permissions-a11y-privacy-link = Meurunoë lom
 
