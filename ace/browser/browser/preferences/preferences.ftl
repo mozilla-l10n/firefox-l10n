@@ -326,6 +326,10 @@ home-restore-defaults =
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Firefox Rumoh (Baku)
+home-mode-choice-custom =
+    .label = Atô URL...
+home-mode-choice-blank =
+    .label = Laman sôh
 
 ## Search Section
 
