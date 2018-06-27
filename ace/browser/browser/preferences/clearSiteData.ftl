@@ -46,5 +46,5 @@ clear-site-data-cancel =
     .label = Bateuë
     .accesskey = B
 clear-site-data-clear =
-    .label = Sampôh
+    .label = Peusoh
     .accesskey = S
