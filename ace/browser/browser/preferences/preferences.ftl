@@ -174,6 +174,7 @@ download-always-ask-where =
     .label = Sabé tanyöng pat keubah beureukaih
     .accesskey = B
 applications-header = Aplikasi
+applications-description = Neupiléh kiban { -brand-short-name } i peuberéh file nyang ka neu donlod dari web atawa aplikasi nyang neu ngui wate browsing
 applications-filter =
     .placeholder = Mita jeunèh beureukaih atawa aplikasi
 applications-type-column =
@@ -182,10 +183,37 @@ applications-type-column =
 applications-action-column =
     .label = Aksi
     .accesskey = A
+drm-content-header = Asoe DRM (Digital Right Management)
+play-drm-content =
+    .label = Peu udép asoe DRM-controlled
+    .accesskey = P
 play-drm-content-learn-more = Meurunoë lom
+update-application-title = { -brand-short-name } Apdét
+update-application-description = Peubiyeue { -brand-short-name } updét sabé keu jrôh performen, stabiliti, dan sekuriti.
+update-application-version = Versi{ $version }<a data-l10n-name="learn-more"> Ata barô</a>
+update-history =
+    .label = Kalën Riwayat Peuseubarô
+    .accesskey = K
+update-application-allow-description = Peuidin { -brand-short-name } keu
+update-application-auto =
+    .label = Otomatis pasang peuseubarô (leubéh jrôh)
+    .accesskey = t
+update-application-check-choose =
+    .label = Neu cék pue nyang barô tapih neupasang keudroe ri nyang galak
+    .accesskey = e
+update-application-manual =
+    .label = Bék sagai neu cék ata barô (hana jrôh)
+    .accesskey = B
+update-application-use-service =
+    .label = Ngui servis i liköt keu pasang ata barô
+    .accesskey = N
+update-enable-search-update =
+    .label = Otomatis peuseubarô meusén seumeutët
+    .accesskey = O
 
 ## General Section - Performance
 
+performance-title = Performen
 performance-settings-learn-more = Meurunoë lom
 
 ## General Section - Browsing
