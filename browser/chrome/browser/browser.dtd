@@ -310,6 +310,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "Neuvo feuggio contenitô">
 <!ENTITY newUserContext.accesskey         "c">
+<!ENTITY manageUserContext.label          "Gestisci contegnitoî">
+<!ENTITY manageUserContext.accesskey      "O">
 <!ENTITY newNavigatorCmd.label        "Neuvo barcon">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -412,8 +414,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
-     in the location bar. These labels are only used in Photon, where you can put
-     items into this menu permanently (pinned). -->
+     in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Azonzi a-o menû Overflow">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "m">
 <!ENTITY customizeMenu.moveToToolbar.label "Mescia inta bara di strumenti">
@@ -425,6 +426,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Mescia into menû">
 <!ENTITY customizeMenu.moveToPanel.accesskey "o">
+<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
+     can appear on the same context menu as menubarCmd and personalbarCmd,
+     so they should have different access keys.  -->
 <!ENTITY customizeMenu.pinToOverflowMenu.label "Azonzi a-o menû Overflow">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "A">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Leva da-o menû Overflow">
@@ -910,20 +914,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.on "Proteçion anti-traciamento: AVERTO">
 <!ENTITY trackingProtection.off "Proteçion anti-traciamento: SÆROU">
 <!ENTITY trackingProtection.title "Proteçion anti-traciamento">
-<!ENTITY trackingProtection.tooltip "Arvi e preferense da proteçion anti-traciamento">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; o blòcca di elementi da pagina che peuan traciâ a navegaçion.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "In sta pagina gh'é di elementi che peuan traciâ a navegaçion. A proteçion o l'é dizativâ.">
 <!ENTITY trackingProtection.notDetected3 "In sta pagina no gh'é di elementi che peuan traciâ a navegaçion.">
-<!ENTITY trackingProtection.detectedNotBlocked4 "In sta pagina son stæti atrovæ di traciatoî.">
-<!ENTITY trackingProtection.notDetected4 "In sta pagina no son stæti atrovæ di traciatoî.">
-<!ENTITY trackingProtection.reloadRequired "T'æ abilitou a proteçion anti-traciamento. Pe blocâ tutti i traciatoî recarega a pagina corente pe piaxei.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Dizativa proteçion pe sto scito">
 <!ENTITY trackingProtection.unblock.accesskey "D">
-<!ENTITY trackingProtection.unblock2.label "Fiate de sto scito">
-<!ENTITY trackingProtection.unblock2.accesskey "F">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -932,12 +930,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Ativa proteçion">
 <!ENTITY trackingProtection.block2.accesskey "A">
 
-<!ENTITY trackingProtection.unblockPrivate2.label "Fiate pe sta sescion">
-<!ENTITY trackingProtection.unblockPrivate2.accesskey "F">
-<!ENTITY trackingProtection.block3.label "Açendi proteçion anti-traciamento">
-<!ENTITY trackingProtection.block3.accesskey "A">
-<!ENTITY trackingProtection.reload.label "Recarega sta pagina">
-<!ENTITY trackingProtection.reload.accesskey "R">
+<!ENTITY trackingProtection.tooltip "Arvi e preferense da proteçion anti-traciamento">
+<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; o blòcca di elementi da pagina che peuan traciâ a navegaçion.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; o l'à trovou di elementi che peuan traciâ a navegaçion.">
+<!ENTITY trackingProtection.detectedException "&brandShortName; o l'à trovou di elementi che peuan traciâ a navegaçion. Ti æ dizabilitou a proteçion pe sto scito.">
+<!ENTITY trackingProtection.notDetected5 "In sta pagina no gh'é di elementi che peuan traciâ.">
+<!ENTITY trackingProtection.notDetectedException "Nisciun elemento ch'o traccia in sta pagina. Ti æ dizabilitou a proteçion pe sto scito.">
+
+<!ENTITY trackingProtection.reloadRequired2 "Ti æ abilitou a Proteçion anti-traciamento. Recarega a pagina pe blocâ tutti i traciatoî.">
+<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock3.label "Dizabilita pe sto scito">
+<!ENTITY trackingProtection.unblock3.accesskey "D">
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate3.label "Dizabilita pe sta sescion">
+<!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
+<!ENTITY trackingProtection.block4.label "Abilita pe sto scito">
+<!ENTITY trackingProtection.block4.accesskey "A">
+<!ENTITY trackingProtection.reload2.label "Carega torna a pagina">
+<!ENTITY trackingProtection.reload2.accesskey "C">
 
 <!ENTITY pluginNotification.showAll.label "Veddi tutti">
 <!ENTITY pluginNotification.showAll.accesskey "V">
