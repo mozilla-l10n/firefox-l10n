@@ -95,6 +95,8 @@ always-check-default =
 startup-restore-previous-session =
     .label = Peuriwang sesi seugolomjih
     .accesskey = g
+disable-extension =
+    .label = Pumaté Èkstènsi
 tabs-group-header = Tab
 browser-containers-learn-more = Meurunoë lom
 browser-containers-settings =
@@ -224,12 +226,17 @@ performance-allow-hw-accel =
     .accesskey = N
 performance-limit-content-process-option = Ceue proses asoe jih
     .accesskey = C
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (baku)
 
 ## General Section - Browsing
 
 
 ## General Section - Proxy
 
+network-proxy-title = Proksi Jaringan
 network-proxy-connection-learn-more = Meurunoë Lom
 
 ## Home Section

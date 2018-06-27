@@ -5,6 +5,8 @@
 
 ## Settings
 
+site-data-column-host =
+    .label = Situs
 site-data-column-cookies =
     .label = Kukis
 site-data-button-cancel =
@@ -19,3 +21,6 @@ site-usage-pattern = { $value } { $unit }
 
 site-data-removing-window =
     .title = { site-data-removing-header }
+site-data-removing-dialog =
+    .title = { site-data-removing-header }
+    .buttonlabelaccept = Sampôh
