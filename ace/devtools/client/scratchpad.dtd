@@ -23,6 +23,7 @@
 
 <!ENTITY fileMenu.label               "Beureukaih">
 
+<!ENTITY newWindowCmd.label           "Tingkap Barô">
 
 <!ENTITY openFileCmd.label            "Peuhah Beureukaih…">
 
@@ -30,6 +31,7 @@
 
 
 
+<!ENTITY closeCmd.label               "Tôp">
 
 
 
