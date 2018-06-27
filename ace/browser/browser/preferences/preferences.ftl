@@ -128,16 +128,34 @@ default-font = Font ata kana
     .accesskey = F
 default-font-size = Seunipat
     .accesskey = S
+advanced-fonts =
+    .label = Seuneumöng...
+    .accesskey = L
 colors-settings =
     .label = Wareuna...
     .accesskey = W
+language-header = Basa
+choose-language-description = Neupiléh basa nyang droen galak mangat deuh bak ôn keu
 choose-button =
     .label = Piléh...
     .accesskey = P
+translate-web-pages =
+    .label = Teujemah asoe web
+    .accesskey = T
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = Ubah basa lé <img data-l10n-name="logo"/>
+translate-exceptions =
+    .label = Kecuali...
+    .accesskey = K
+check-user-spelling =
+    .label = Ci neukalen keulai speling droen lagé neu tép
+    .accesskey = C
 
 ## General Section - Files and Applications
 
 files-and-applications-title = Beureukaih ngön Aplikasi
+download-header = Donlod
 download-save-to =
     .label = Keubah beureukaih bak
     .accesskey = b
