@@ -2,6 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+containers-window-new =
+    .title = Tamah kontener barô
+    .style = width: 45em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update =
+    .title = { $name } Peuatô kontener
+    .style = with: 45em
 containers-window-close =
     .key = w
 # This is a term to store style to be applied
@@ -44,6 +52,10 @@ containers-color-pink =
     .label = Mirah Jambèë
 containers-color-purple =
     .label = Ungu
+containers-icon-fingerprint =
+    .label = Cap jaroe
+containers-icon-briefcase =
+    .label = Beureukah
 # String represents a money sign but currently uses a dollar sign
 # so don't change to local currency. See Bug 1291672.
 containers-icon-dollar =
@@ -52,6 +64,8 @@ containers-icon-cart =
     .label = Raga beulanja
 containers-icon-circle =
     .label = Titèk
+containers-icon-vacation =
+    .label = Meuramien
 containers-icon-gift =
     .label = Jeuneujôk
 containers-icon-food =
@@ -62,3 +76,5 @@ containers-icon-pet =
     .label = Peularaan
 containers-icon-tree =
     .label = Bak Kayèë
+containers-icon-chill =
+    .label = Sijuek
