@@ -102,6 +102,10 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-header = Enkoding teunuléh keu Legacy Content
+fonts-languages-fallback-desc = Encoding teunuléh nyôe teungui keu legacy content nyang han jeut keu declare encoding jih
+fonts-languages-fallback-label = Encoding teunuléh fallback
+    .accesskey = E
 fonts-languages-fallback-name-arabic =
     .label = Arab
 fonts-languages-fallback-name-ceiso =

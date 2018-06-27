@@ -214,7 +214,16 @@ update-enable-search-update =
 ## General Section - Performance
 
 performance-title = Performen
+performance-use-recommended-settings-checkbox =
+    .label = Ngui peuatô performan nyang jrôh
+    .accesskey = N
+performance-use-recommended-settings-desc = Peuatô nyoe meukeumat bak hadwer komputer droen ngen operating sistem ban mandum
 performance-settings-learn-more = Meurunoë lom
+performance-allow-hw-accel =
+    .label = Ngui peubagah  hadwer meunyô na
+    .accesskey = N
+performance-limit-content-process-option = Ceue proses asoe jih
+    .accesskey = C
 
 ## General Section - Browsing
 
