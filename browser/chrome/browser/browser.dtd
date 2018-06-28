@@ -937,6 +937,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.notDetected5 "未在此頁面偵測到追蹤元素。">
 <!ENTITY trackingProtection.notDetectedException "未在此頁面偵測到追蹤元素，但您也對此網站關閉了追蹤保護。">
 
+<!ENTITY trackingProtection.reloadRequired2 "您開啟了追蹤保護，請重新載入頁面即可封鎖所有追蹤器。">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
