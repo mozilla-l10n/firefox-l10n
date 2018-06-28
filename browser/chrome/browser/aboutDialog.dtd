@@ -14,21 +14,19 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "হালনাগাদ যাচাই">
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
-<!ENTITY update.updateButton.label3               "&brandShorterName; হালনাগাদ করতে রিস্টার্ট করুন">
+<!ENTITY update.updateButton.label3               "&brandShorterName; হালনাগাদ করতে পুনরায় চালু করুন">
 <!ENTITY update.updateButton.accesskey            "R">
 
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
-<!ENTITY warningDesc.version        "&brandShortName; হচ্ছে পরীক্ষামূলক এবং সম্ভবত পরিবর্তনশীল।">
-<!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "এটি স্বয়ংক্রিয়ভাবে কার্যকারীতা, হার্ডওয়ার, ব্যবহার এবং স্বনির্বাচনগুলোর তথ্য &vendorShortName; এর নিকটপ্রদান করে; যাতে &brandShortName; কে আরও ভালভাবে তৈরী করা যায়।">
+<!ENTITY warningDesc.version        "&brandShortName; হচ্ছে পরীক্ষামূলক সংস্করণ এবং অস্থিতিশীল।">
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
-<!ENTITY community.exp.middle       " হচ্ছে একটি ">
-<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.middle       " হচ্ছে ">
+<!-- LOCALIZATION NOTE (community.exp.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "আন্তর্জাতিক সম্প্রদায়">
 <!ENTITY community.exp.end          " যারা ওয়েব কে মুক্ত, সার্বজনীন ও প্রবেশযোগ্য রাখতে, একসাথে কাজ করে যাচ্ছে।">
 
@@ -41,7 +39,7 @@
 <!ENTITY community.end3             " যারা ওয়েব কে মুক্ত, সার্বজনীন ও প্রবেশযোগ্য রাখতে, একসাথে কাজ করে যাচ্ছে।">
 
 <!ENTITY helpus.start               "সাহায্য করতে চান? ">
-<!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
+<!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://donate.mozilla.org/?utm_source=firefox&utm_medium=referral&utm_campaign=firefox_about&utm_content=firefox_about. -->
 <!ENTITY helpus.donateLink          "দান করুন">
 <!ENTITY helpus.middle              " অথবা ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
