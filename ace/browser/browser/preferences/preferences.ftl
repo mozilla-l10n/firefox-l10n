@@ -363,6 +363,7 @@ search-bar-hidden =
 search-bar-shown =
     .label = Tamah bar seumeutët bak toolbar
 search-engine-default-header = Meusén Mita Baku
+search-engine-default-desc = Piléh meusén mita teutap keu neungui bak kutak alamat ngön kutak mita
 search-choose-engine-column =
     .label = Meusén Mita
 search-remove-engine =
