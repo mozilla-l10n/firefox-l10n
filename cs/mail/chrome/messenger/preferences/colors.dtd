@@ -10,7 +10,7 @@
 <!ENTITY  overridePageColors.accesskey    "m">
 
 <!ENTITY  overridePageColors.always.label "Vždy">
-<!ENTITY  overridePageColors.auto.label   "Pouze pro motivy s vysokým kontrastem">
+<!ENTITY  overridePageColors.auto.label   "Pouze pro vzhled s vysokým kontrastem">
 <!ENTITY  overridePageColors.never.label  "Nikdy">
 
 <!ENTITY  color                           "Text a pozadí">
