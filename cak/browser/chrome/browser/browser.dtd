@@ -310,6 +310,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "Y">
 <!ENTITY newUserContext.label             "K'ak'a' k'ojlib'äl ruwi'">
 <!ENTITY newUserContext.accesskey         "w">
+<!ENTITY manageUserContext.label          "Kenuk'samajïx K'wayöl">
+<!ENTITY manageUserContext.accesskey      "O">
 <!ENTITY newNavigatorCmd.label        "K'ak'a' tzuwäch">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "K">
@@ -809,6 +811,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Majun chi ya'oj q'ij ya'on chawe' pa re ruxaq k'amaya'l re'.">
 <!ENTITY identity.permissionsReloadHint "Rik'in jub'a' k'o chi yatok chik pa ruxaq richin yesamäj ri taq k'exoj.">
 
+<!ENTITY identity.permissionsPreferences.tooltip "Kejaq Taq Rajowaxik Ya'oj Q'ij">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -908,6 +911,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Xtikomonïx ri q'ojom k'o pa ruwi'.">
 <!ENTITY getUserMedia.allWindowsShared.message "Xkekomonïx konojel ri tz'etel taq tzuwäch e k'o pa ri ruwäch.">
 
+<!ENTITY trackingProtection.on "Chajinïk chuwäch Ojqanïk: TZIJÏL">
+<!ENTITY trackingProtection.off "Chajinïk chuwäch Ojqanïk: OFF">
 <!ENTITY trackingProtection.title "Chajinïk chuwäch Ojqanïk">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; yeruq'ät jujun taq peraj chi re ri ruxaq, ri nitikïr yatrïl pa okik'amaya'l.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Re ruxaq k'amaya'l re' k'o taq ruch'akulal ri yetikïr nikïl ri awokem pa k'amaya'l. Achupun ri achajinik.">
@@ -926,6 +931,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.accesskey "T">
 
 <!ENTITY trackingProtection.tooltip "Tijaq taq Rajowaxik Chajinïk chuwäch Ojqanem">
+<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; yeruq'ät jujun taq ruperaj re ruxaq re', ri nitikïr yatrïl pan okik'amaya'l.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; xerïl taq ch'akulal ri yetikïr nikikanoj ri awokem pa k'amaya'l.">
+<!ENTITY trackingProtection.detectedException "&brandShortName; xerïl taq ch'akulal ri yetikïr nikikanoj ri awokem pa k'amaya'l. Achupun ri achajinik pa re ruxaq re'.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
