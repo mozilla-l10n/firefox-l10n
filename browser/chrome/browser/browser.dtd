@@ -310,6 +310,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "S">
 <!ENTITY newUserContext.label             "Nový kontejnerový panel">
 <!ENTITY newUserContext.accesskey         "j">
+<!ENTITY manageUserContext.label          "Správa kontejnerů">
+<!ENTITY manageUserContext.accesskey      "k">
 <!ENTITY newNavigatorCmd.label        "Nové okno">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -412,8 +414,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
-     in the location bar. These labels are only used in Photon, where you can put
-     items into this menu permanently (pinned). -->
+     in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Přidat do rozšiřující nabídky">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "P">
 <!ENTITY customizeMenu.moveToToolbar.label "Přesunout na lištu">
@@ -425,6 +426,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Přesunout do nabídky">
 <!ENTITY customizeMenu.moveToPanel.accesskey "P">
+<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
+     can appear on the same context menu as menubarCmd and personalbarCmd,
+     so they should have different access keys.  -->
 <!ENTITY customizeMenu.pinToOverflowMenu.label "Přesunout do rozšiřující nabídky">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Přesunout na lištu">
@@ -910,20 +914,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.on "Ochrana proti sledování je zapnuta">
 <!ENTITY trackingProtection.off "Ochrana proti sledování je vypnuta">
 <!ENTITY trackingProtection.title "Ochrana proti sledování">
-<!ENTITY trackingProtection.tooltip "Otevře nastavení ochrany proti sledování">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokuje části této stránky, které vás mohou při prohlížení sledovat.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Tato stránka obsahuje prvky, které mohou sledovat vaše prohlížení. Ochranu jste zakázali.">
 <!ENTITY trackingProtection.notDetected3 "Na této stránce nebyly zjištěny sledovací prvky.">
-<!ENTITY trackingProtection.detectedNotBlocked4 "Na této stránce byly rozpoznány sledovací prvky.">
-<!ENTITY trackingProtection.notDetected4 "Na této stránce nebyly zjištěny žádné sledovací prvky.">
-<!ENTITY trackingProtection.reloadRequired "Zapnuli jste ochranu proti sledování. Pro zablokování všech sledovacích prvků prosím webovou stránku obnovte.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Zakázat ochranu pro tento server">
 <!ENTITY trackingProtection.unblock.accesskey "a">
-<!ENTITY trackingProtection.unblock2.label "Důvěřovat tomuto serveru">
-<!ENTITY trackingProtection.unblock2.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -932,12 +930,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Povolit ochranu">
 <!ENTITY trackingProtection.block2.accesskey "P">
 
-<!ENTITY trackingProtection.unblockPrivate2.label "Důvěřovat serveru pro tuto relaci">
-<!ENTITY trackingProtection.unblockPrivate2.accesskey "D">
-<!ENTITY trackingProtection.block3.label "Zapnout ochranu proti sledování">
-<!ENTITY trackingProtection.block3.accesskey "Z">
-<!ENTITY trackingProtection.reload.label "Obnovit tuto stránku">
-<!ENTITY trackingProtection.reload.accesskey "O">
+<!ENTITY trackingProtection.tooltip "Otevře nastavení ochrany proti sledování">
+<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; blokuje části této stránky, které vás mohou při prohlížení sledovat.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "Aplikace &brandShortName; nalezla na této stránce prvky, které mohou sledovat vaše prohlížení.">
+<!ENTITY trackingProtection.detectedException "Aplikace &brandShortName; nalezla prvky, které vás mohou sledovat. Ochranu proti sledování jste ale pro tento server vypnuli.">
+<!ENTITY trackingProtection.notDetected5 "Na této stránce nebyly zjištěny žádné sledovací prvky.">
+<!ENTITY trackingProtection.notDetectedException "Na této stránce nebyly zjištěny žádné sledovací prvky. Ochranu proti sledování jste pro tento server vypnuli.">
+
+<!ENTITY trackingProtection.reloadRequired2 "Ochrana proti sledování byla zapnuta. Obnovte tuto stránku pro zablokování všech sledovacích prvků.">
+<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock3.label "Vypnout pro tento server">
+<!ENTITY trackingProtection.unblock3.accesskey "V">
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate3.label "Vypnout pro tuto relaci">
+<!ENTITY trackingProtection.unblockPrivate3.accesskey "V">
+<!ENTITY trackingProtection.block4.label "Zapnout pro tento server">
+<!ENTITY trackingProtection.block4.accesskey "Z">
+<!ENTITY trackingProtection.reload2.label "Obnovit stránku">
+<!ENTITY trackingProtection.reload2.accesskey "O">
 
 <!ENTITY pluginNotification.showAll.label "Zobrazit vše">
 <!ENTITY pluginNotification.showAll.accesskey "Z">
