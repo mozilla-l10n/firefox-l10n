@@ -310,6 +310,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "A">
 <!ENTITY newUserContext.label             "Nueva pestaña contenedora">
 <!ENTITY newUserContext.accesskey         "c">
+<!ENTITY manageUserContext.label          "Gestionar contenedores">
+<!ENTITY manageUserContext.accesskey      "O">
 <!ENTITY newNavigatorCmd.label        "Nueva ventana">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -412,8 +414,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
-     in the location bar. These labels are only used in Photon, where you can put
-     items into this menu permanently (pinned). -->
+     in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Añadir al menú de desbordamiento">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.moveToToolbar.label "Mover a la barra de herramientas">
@@ -425,6 +426,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Mover al menú">
 <!ENTITY customizeMenu.moveToPanel.accesskey "o">
+<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
+     can appear on the same context menu as menubarCmd and personalbarCmd,
+     so they should have different access keys.  -->
 <!ENTITY customizeMenu.pinToOverflowMenu.label "Anclar al menú de desbordamiento">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Desanclar del menú de desbordamiento">
@@ -910,20 +914,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.on "Protección de rastreo: ACTIVADA">
 <!ENTITY trackingProtection.off "Protección de rastreo: DESACTIVADA">
 <!ENTITY trackingProtection.title "Protección contra rastreo">
-<!ENTITY trackingProtection.tooltip "Abrir las Preferencias de protección de rastreo">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; está bloqueando partes de la página que pueden rastrear tu navegación.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Este sitio incluye elementos que pueden rastrear tu navegación. Tienes deshabilitada la protección.">
 <!ENTITY trackingProtection.notDetected3 "No se han detectado elementos de rastreo en esta página.">
-<!ENTITY trackingProtection.detectedNotBlocked4 "Se han detectado rastreadores en este sitio web.">
-<!ENTITY trackingProtection.notDetected4 "No se han detectado rastreadores en este sitio web.">
-<!ENTITY trackingProtection.reloadRequired "Habilitaste la protección de rastreo. Para bloquear a todos los rastreadores, por favor, recarga la página web actual.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Deshabilitar la protección para este sitio">
 <!ENTITY trackingProtection.unblock.accesskey "D">
-<!ENTITY trackingProtection.unblock2.label "Confiar en este sitio">
-<!ENTITY trackingProtection.unblock2.accesskey "T">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -932,12 +930,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Habilitar protección">
 <!ENTITY trackingProtection.block2.accesskey "H">
 
-<!ENTITY trackingProtection.unblockPrivate2.label "Confiar en este sitio solo por esta sesión">
-<!ENTITY trackingProtection.unblockPrivate2.accesskey "T">
-<!ENTITY trackingProtection.block3.label "Activar protección de rastreo">
-<!ENTITY trackingProtection.block3.accesskey "T">
-<!ENTITY trackingProtection.reload.label "Recargar esta página">
-<!ENTITY trackingProtection.reload.accesskey "R">
+<!ENTITY trackingProtection.tooltip "Abrir las Preferencias de protección de rastreo">
+<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; está bloqueando partes de esta página que puede rastrear tu navegador.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; ha detectado elementos que puede rastrear tu navegador.">
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
 
 <!ENTITY pluginNotification.showAll.label "Mostrar todo">
 <!ENTITY pluginNotification.showAll.accesskey "M">
