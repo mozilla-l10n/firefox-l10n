@@ -523,7 +523,7 @@
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
      after the user pins/unpins the currently displayed page from top sites. -->
-<!ENTITY pinned_page_to_top_sites "முக்கியத் தளங்களில் பக்கத்தைப் பொருத்து">
+<!ENTITY pinned_page_to_top_sites "முக்கியத் தளங்களின் பக்கத்தைப் பொருத்து">
 <!ENTITY unpinned_page_from_top_sites "முக்கிய தளங்களில் பக்கத்தை நீக்கு">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
