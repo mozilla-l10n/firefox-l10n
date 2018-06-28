@@ -13,11 +13,18 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
+# Please keep the placeholder string short to avoid truncation.
+#
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
 # is the name of the CSS property. It is intended only to adjust the element's width.
 # Do not translate.
-search-input =
-    .style = width: 15.4em
+search-input-box =
+    .style = width: 18.5em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] Nduku nu opciones
+           *[other] Ndane'e nu configuraciones
+        }
 pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
@@ -59,25 +66,49 @@ restart-later = Ndakitsa nunu ka
 
 ## Preferences UI Search Results
 
+search-results-header = Nduku resultados
 
 ## General Section
 
+startup-header = Xina
+get-started-configured = Kuna preferencias ña { -sync-brand-short-name }
 browser-containers-settings =
     .label = Nda sama...
     .accesskey = n
 
 ## General Section - Language & Appearance
 
+colors-settings =
+    .label = Kolor
+    .accesskey = K
 language-header = Tu'un
 
 ## General Section - Files and Applications
 
+download-header = Snuu
+download-save-to =
+    .label = Chika va'a tutu nu
+    .accesskey = C
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Kaxi…
+           *[other] Nduku…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] E
+           *[other] x
+        }
+applications-header = Aplicaciones
 
 ## General Section - Performance
 
+performance-settings-learn-more = Kavi
 
 ## General Section - Browsing
 
+browsing-title = Sucha
 
 ## General Section - Proxy
 
@@ -87,9 +118,21 @@ language-header = Tu'un
 
 ## Home Section - Home Page Customization
 
+home-newtabs-mode-label = Xikua tsa'a
+home-mode-choice-blank =
+    .label = Página yaa
+home-homepage-custom-url =
+    .placeholder = Chistiín iin URL...
+choose-bookmark =
+    .label = Kuachu'un  markador…
+    .accesskey = m
 
 ## Search Section
 
+search-bar-header = Barra de búsqueda
+search-remove-engine =
+    .label = Xitaá
+    .accesskey = x
 
 ## Containers Section
 
@@ -113,6 +156,14 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Ña niya'a
     .accesskey = ñ
+sync-engine-tabs =
+    .label = Kuna xikua
+    .tooltiptext = Iin  ña nuna nu ntii kaa ndusu itaán
+    .accesskey = t
+sync-engine-logins =
+    .label = Kitsa
+    .tooltiptext = Nivi tsi tu'un see nchikavau
+    .accesskey = L
 sync-engine-addons =
     .label = Add-ons
     .tooltiptext = Add-ons
@@ -150,6 +201,11 @@ history-clear-button =
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-never-option =
+    .label = Miki
+sitedata-clear =
+    .label = Stoó tutu
+    .accesskey = S
 
 ## Privacy Section - Address Bar
 

@@ -2,8 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+permissions-window =
+    .title = Kaxi tutu ndatavana
+    .style = width: 45em
 permissions-close-key =
     .key = w
+permissions-address = Dirección sitio web
+    .accesskey = d
 permissions-block =
     .label = Kasi
     .accesskey = K
@@ -41,6 +46,9 @@ permissions-capabilities-prompt =
 
 
 ## Exceptions - Add-ons
+
+
+## Exceptions - Autoplay Media
 
 
 ## Site Permissions - Notifications
