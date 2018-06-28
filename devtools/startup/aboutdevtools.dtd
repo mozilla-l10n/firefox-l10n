@@ -42,6 +42,7 @@
 
 <!ENTITY  aboutDevtools.enable.closeButton2 "Κλείσιμο της Καρτέλας">
 
+<!ENTITY  aboutDevtools.welcome.title "Καλωσορίσατε στα Εργαλεία Προγραμματιστή Firefox!">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.newsletter.message): Subscribe form message.
   -  The newsletter is only available in english at the moment.
