@@ -934,13 +934,24 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; yeruq'ät jujun taq ruperaj re ruxaq re', ri nitikïr yatrïl pan okik'amaya'l.">
 <!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; xerïl taq ch'akulal ri yetikïr nikikanoj ri awokem pa k'amaya'l.">
 <!ENTITY trackingProtection.detectedException "&brandShortName; xerïl taq ch'akulal ri yetikïr nikikanoj ri awokem pa k'amaya'l. Achupun ri achajinik pa re ruxaq re'.">
+<!ENTITY trackingProtection.notDetected5 "Majun ojqanel ch'akulal xilitäj chupam re ruxaq wuj re'.">
+<!ENTITY trackingProtection.notDetectedException "Majun ojqanel ch'akulal xilitäj pa re ruxaq re'. Xachüp ri chajinïk pa re ruxaq k'amaya'l re'.">
 
+<!ENTITY trackingProtection.reloadRequired2 "Xatzïj ri Ojqanem chuwäch chajinïk. Katok chik chupam ri ruxaq richin ye'aq'ät konojel ri ojqanela'.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock3.label "Tichup Pa Re Ruxaq Re'">
+<!ENTITY trackingProtection.unblock3.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate3.label "Tichup Pa Re Molojri'ïl Re'">
+<!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
+<!ENTITY trackingProtection.block4.label "Titzij Pa Re Ruxaq Re'">
+<!ENTITY trackingProtection.block4.accesskey "E">
+<!ENTITY trackingProtection.reload2.label "Tok chik pa ri Ruxaq">
+<!ENTITY trackingProtection.reload2.accesskey "R">
 
 <!ENTITY pluginNotification.showAll.label "Tik'ut pe ronojel">
 <!ENTITY pluginNotification.showAll.accesskey "T">
