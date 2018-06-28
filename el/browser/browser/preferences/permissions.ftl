@@ -60,13 +60,14 @@ permissions-exceptions-tracking-protection-desc = Έχετε απενεργοπ�
 permissions-exceptions-cookie-window =
     .title = Εξαιρέσεις - Cookies και δεδομένα ιστοσελίδων
     .style = { permissions-window.style }
+permissions-exceptions-cookie-desc = Μπορείτε να καθορίσετε σε ποιες ιστοσελίδες επιτρέπεται πάντα ή δεν επιτρέπεται ποτέ η χρήση των cookies και των δεδομένων ιστοσελίδων. Πληκτρολογήστε την ακριβή διεύθυνση της ιστοσελίδας που θέλετε να διαχειριστείτε και, στη συνέχεια, επιλέξτε "Φραγή", "Αποδοχή για αυτή τη συνεδρία, ή "Αποδοχή".
 
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window =
     .title = Επιτρεπόμενες ιστοσελίδες - Αναδυόμενα
     .style = { permissions-window.style }
-permissions-exceptions-popup-desc = Μπορείτε να καθορίσετε ποιες ιστοσελίδες μπορούν να ανοίγουν αναδυόμενα παράθυρα. Πληκτρολογήστε την ακριβή διεύθυνση της σελίδας που επιθυμείτε να διαχειριστείτε και μετά πατήστε Να επιτρέπεται.
+permissions-exceptions-popup-desc = Μπορείτε να καθορίσετε ποιες ιστοσελίδες μπορούν να ανοίγουν αναδυόμενα παράθυρα. Πληκτρολογήστε την ακριβή διεύθυνση της ιστοσελίδας που θέλετε να διαχειριστείτε και, στη συνέχεια, κάντε κλικ στο "Αποδοχή".
 
 ## Exceptions - Saved Logins
 
@@ -80,19 +81,21 @@ permissions-exceptions-saved-logins-desc = Οι συνδέσεις για τις
 permissions-exceptions-addons-window =
     .title = Επιτρεπόμενες ιστοσελίδες - Εγκατάσταση Προσθέτων
     .style = { permissions-window.style }
-permissions-exceptions-addons-desc = Μπορείτε να καθορίσετε σε ποιες ιστοσελίδες θα επιτρέπεται να εγκαθιστούν πρόσθετα. Πληκτρολογήστε την ακριβή διεύθυνση της σελίδας και πατήστε Να επιτρέπεται.
+permissions-exceptions-addons-desc = Μπορείτε να καθορίσετε σε ποιες ιστοσελίδες επιτρέπεται η εγκατάσταση προσθέτων. Πληκτρολογήστε την ακριβή διεύθυνση της ιστοσελίδας που θέλετε να επιτρέψετε και, στη συνέχεια, κάντε κλικ στο "Αποδοχή".
 
 ## Exceptions - Autoplay Media
 
 permissions-exceptions-autoplay-media-window =
     .title = Επιτρεπόμενες ιστοσελίδες - Αυτόματη αναπαραγωγή
     .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc = Μπορείτε να καθορίσετε σε ποιες ιστοσελίδες επιτρέπεται η αυτόματη αναπαραγωγή στοιχείων πολυμέσων. Πληκτρολογήστε την ακριβή διεύθυνση της ιστοσελίδας που θέλετε να επιτρέψετε και, στη συνέχεια, κάντε κλικ στο "Αποδοχή".
 
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
     .title = Ρυθμίσεις - Άδειες ειδοποιήσεων
     .style = { permissions-window.style }
+permissions-site-notification-desc = Οι παρακάτω ιστοσελίδες έχουν αιτηθεί να σάς στέλνουν ειδοποιήσεις. Μπορείτε να καθορίσετε σε ποιες ιστοσελίδες επιτρέπεται η αποστολή ειδοποιήσεων. Μπορείτε επίσης να αποκλείσετε νέα αιτήματα για την αποδοχή ειδοποιήσεων.
 
 ## Site Permissions - Location
 
