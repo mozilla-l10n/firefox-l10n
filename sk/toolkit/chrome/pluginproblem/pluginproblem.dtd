@@ -3,9 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
-<!ENTITY pluginActivationWarning                             "Táto stránka používa zásuvný modul, ktorý môže aplikáciu &brandShortName; spomaľovať.">
 <!ENTITY tapToPlayPlugin                                     "Ťuknutím sem aktivujete zásuvný modul">
-<!ENTITY clickToActivatePlugin                               "Aktivovať zásuvný modul">
+<!ENTITY clickToActivatePlugin                               "Aktivovať zásuvný modul.">
 <!ENTITY checkForUpdates                                     "Skontrolovať aktualizácie…">
 <!ENTITY blockedPlugin.label                                 "Tento zásuvný modul bol pre vašu ochranu zakázaný.">
 <!ENTITY hidePluginBtn.label                                 "Skryť zásuvný modul">
@@ -21,7 +20,7 @@
 <!ENTITY report.please                                       "Odoslať správu o zlyhaní">
 <!ENTITY report.submitting                                   "Správa sa odosiela…">
 <!ENTITY report.submitted                                    "Správa o zlyhaní bola odoslaná.">
-<!ENTITY report.disabled                                     "Odosielanie správ o zlyhaní zakázané.">
+<!ENTITY report.disabled                                     "Odosielanie správ o zlyhaní bolo zakázané.">
 <!ENTITY report.failed                                       "Odoslanie zlyhalo.">
 <!ENTITY report.unavailable                                  "Nie je dostupná žiadna správa.">
 <!ENTITY report.comment                                      "Pridať komentár (komentáre sú verejne dostupné)">
