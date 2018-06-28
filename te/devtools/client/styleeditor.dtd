@@ -28,7 +28,7 @@
 
 <!-- LOCALIZATION NOTE  (showOriginalSources.label): This is the label on the context
      menu item to toggle showing original sources in the editor. -->
-<!ENTITY showOriginalSources.label     "వాస్తవ మూలాలను చూపు">
+<!ENTITY showOriginalSources.label     "అసలు మూలాలను చూపించు">
 
 <!-- LOCALIZATION NOTE  (showOriginalSources.accesskey): This is the access key for
      the menu item to toggle showing original sources in the editor. -->
@@ -36,7 +36,7 @@
 
 <!-- LOCALIZATION NOTE  (showMediaSidebar.label): This is the label on the context
      menu item to toggle showing @media rule shortcuts in a sidebar. -->
-<!ENTITY showMediaSidebar.label     "@media పక్కపట్టీ చూపు">
+<!ENTITY showMediaSidebar.label     "@media పక్కపట్టీ చూపించు">
 
 <!-- LOCALIZATION NOTE  (showMediaSidebar.accesskey): This is the access key for
      the menu item to toggle showing the @media sidebar. -->
@@ -50,7 +50,7 @@
 
 <!-- LOCALICATION NOTE  (noStyleSheet.label): This is shown when a page has no
      stylesheet. -->
-<!ENTITY noStyleSheet.label         "ఈ పేజీ యే శైలి షీట్‌ను కలిగిలేదు.">
+<!ENTITY noStyleSheet.label         "ఈ పేజీకి శైలి షీట్ ఏమీ లేదు.">
 
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-start.label): This is the start of a
      tip sentence shown when there is no stylesheet. It suggests to create a new

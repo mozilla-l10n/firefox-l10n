@@ -29,3 +29,4 @@
 <!ENTITY plugin.file                                         "దస్త్రం">
 <!ENTITY plugin.mimeTypes                                    "MIME రకాలు">
 <!ENTITY plugin.flashProtectedMode.label                     "Adobe Flash రక్షిత మోడ్ ని ప్రారంభించు">
+<!ENTITY plugin.enableBlocklists.label                       "ప్రమాదకరమైన, అనుచితమైన ఫ్లాష్ కంటెంట్ను నిరోధించు">

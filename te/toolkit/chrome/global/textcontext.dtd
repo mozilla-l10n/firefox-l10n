@@ -21,7 +21,7 @@
 <!ENTITY spellUndoAddToDictionary.accesskey "n">
 <!ENTITY spellCheckToggle.label "స్పెల్లింగ్‌ను పరిశీలించు">
 <!ENTITY spellCheckToggle.accesskey "g">
-<!ENTITY spellNoSuggestions.label "(ఏ స్పెల్లింగ్ సలహాలు లేవు)">
+<!ENTITY spellNoSuggestions.label "(స్పెల్లింగ్ సూచనలేమీ లేవు)">
 <!ENTITY spellDictionaries.label "భాషలు">
 <!ENTITY spellDictionaries.accesskey "L">
 
