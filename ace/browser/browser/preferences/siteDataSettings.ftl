@@ -9,9 +9,15 @@ site-data-column-host =
     .label = Situs
 site-data-column-cookies =
     .label = Kukis
+site-data-remove-selected =
+    .label = Sampoh Teupileh
+    .accesskey = u
 site-data-button-cancel =
     .label = Bateue
     .accesskey = B
+site-data-button-save =
+    .label = Keubah Peubah
+    .accesskey = a
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
