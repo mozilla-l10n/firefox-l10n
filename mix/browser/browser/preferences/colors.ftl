@@ -17,3 +17,5 @@ colors-page-override-option-never =
     .label = Mikíi
 colors-text-header = Tu'un
     .accesskey = t
+colors-background = Sata
+    .accesskey = S
