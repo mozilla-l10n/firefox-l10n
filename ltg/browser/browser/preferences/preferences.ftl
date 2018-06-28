@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -137,17 +129,11 @@ is-not-default = { -brand-short-name } itūbreid nav jiusu nūkluseitais puorlū
 set-as-my-default-browser =
     .label = Padareit par nūkluseitū…
     .accesskey = d
-startup-page = Kod { -brand-short-name } palaižys
-    .accesskey = p
-startup-user-homepage =
-    .label = Ruodeit sātys lopu
-startup-blank-page =
-    .label = Paruodeit tukšu lopu
-startup-prev-session =
-    .label = Paruodeit munus lūgus i cilnes nu īprīkšejuos reizes
+startup-restore-previous-session =
+    .label = Atjaunōt īprīkšejū seseji
+    .accesskey = t
 disable-extension =
     .label = Deaktivēt paplošynuojumu
-home-page-header = Sātys lopa
 tabs-group-header = Cilnes
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab porzaslādz storp cilnem izmontōšonys seceibā
@@ -270,7 +256,6 @@ play-drm-content =
 play-drm-content-learn-more = Uzzynojit vairuok
 update-application-title = { -brand-short-name } atjaunynuojumi
 update-application-description = Vysod atjaunini { -brand-short-name }, kab dabōt lobōkū drūšeibu, stabilitati un ōtrdarbeibu.
-update-application-info = Verseja { $version } <a>Kas jauns</a>
 update-application-version = Verseja { $version } <a data-l10n-name="learn-more">Kas jauns</a>
 update-history =
     .label = Paruodeit atjaunynuojumu viesturi…
@@ -306,7 +291,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Satura procesu limits
     .accesskey = l
 performance-limit-content-process-enabled-desc = Papyldu satura procesi var uzlobōt veiktspieji, izmontojut vairōkys cilnes, bet prasēs papyldu atmiņu.
-performance-limit-content-process-disabled-desc = Modificeit satura procesu skaitu ir īspiejama tikai ar vairuoku procesu { -brand-short-name }. <a>Kai puorbaudeit, voi pīejams vairuoku procesu režyms</a>
 performance-limit-content-process-blocked-desc = Modificeit satura procesu skaitu ir īspiejama tikai ar vairuoku procesu { -brand-short-name }. <a data-l10n-name="learn-more">Kai puorbaudeit, voi pīejams vairuoku procesu režyms</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -377,9 +361,6 @@ use-current-pages =
 choose-bookmark =
     .label = Lītuot gruomotzeimi…
     .accesskey = g
-restore-default =
-    .label = Atjaunōt iz nūkluseitū
-    .accesskey = A
 
 ## Search Section
 
@@ -535,6 +516,9 @@ privacy-header = Puorlūka privatums
 ## Privacy Section - Forms
 
 forms-header = Formys i paroles
+forms-ask-to-save-logins =
+    .label = Vaicōt, kab saglobōt lopu pīzasaciešonas informaceji
+    .accesskey = i
 forms-exceptions =
     .label = Izjāmumi...
     .accesskey = z
@@ -576,6 +560,9 @@ history-private-browsing-permanent =
 history-remember-option =
     .label = Atguoduot munu puorlūkuošonys i lejupīluožu viesturi
     .accesskey = A
+history-remember-browser-option =
+    .label = Atgōdōt munu porlyukōšonys i lejupīlōžu viesturi
+    .accesskey = g
 history-remember-search-option =
     .label = Atguoduot mekliešonys i formu viesturi
     .accesskey = v
