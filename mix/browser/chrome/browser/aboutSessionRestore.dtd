@@ -2,11 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY restorepage.tabtitle       "Ndakitsa sesión">
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 
 
+<!ENTITY restorepage.tryagainButton2 "Ndakitsa sesión">
 <!ENTITY restorepage.restore.access2 "R">
 <!ENTITY restorepage.close.access2   "N">
 

@@ -14,19 +14,19 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Nda nduku ña tsaá">
 <!ENTITY update.checkForUpdatesButton.accesskey   "N">
+<!ENTITY update.updateButton.label3               "Ndakitsa tava na ntutsai&brandShorterName;">
 <!ENTITY update.updateButton.accesskey            "R">
 
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 <!ENTITY warningDesc.version        "&brandShortName; ña prueba kui cha ku sa ntasia.">
-<!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       "kui inn ñaa">
-<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!-- LOCALIZATION NOTE (community.exp.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "ñani ña yivii">
 <!ENTITY community.exp.end          " sachu'un ntio taba na koo in web nuna, ña ntio cha nu nti'ina na kuu kuachui.">
 

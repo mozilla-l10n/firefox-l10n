@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY minimizeWindow.key       "m">
+<!ENTITY windowMenu.label         "Yee lu">
 
 <!ENTITY helpMenu.label           "Chinchee"> 
 <!ENTITY helpMenu.accesskey       "H"> 

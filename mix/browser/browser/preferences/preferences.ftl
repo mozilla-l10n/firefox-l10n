@@ -206,6 +206,9 @@ sitedata-accept-third-party-never-option =
 sitedata-clear =
     .label = Stoó tutu
     .accesskey = S
+sitedata-settings =
+    .label = Katsi tutu…
+    .accesskey = M
 
 ## Privacy Section - Address Bar
 
@@ -232,6 +235,8 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Data Collection
 
+collection-browser-errors-link = Kavi
+collection-backlogged-crash-reports-link = Kavi
 
 ## Privacy Section - Security
 ##

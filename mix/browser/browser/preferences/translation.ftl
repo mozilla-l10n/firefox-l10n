@@ -6,3 +6,6 @@ translation-close-key =
     .key = w
 translation-languages-column =
     .label = Tu'un
+translation-button-close =
+    .label = Kasi
+    .accesskey = K
