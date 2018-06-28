@@ -15,7 +15,7 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
-<!ENTITY tabCrashed.header2 "Ups. Fana di krasja.">
+<!ENTITY tabCrashed.header2 "Ops. Fana di krasja.">
 <!ENTITY tabCrashed.offerHelp2 "Vi kan hjelpe!">
 <!ENTITY tabCrashed.single.offerHelpMessage2 "Vel &tabCrashed.restoreTab; for å laste inn sida på nytt.">
 <!ENTITY tabCrashed.multiple.offerHelpMessage2 "Vel &tabCrashed.restoreTab; eller &tabCrashed.restoreAll; for å laste inn sida/sidene på nytt.">
