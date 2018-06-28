@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -83,6 +75,9 @@ restart-later = नंतर पुनःसुरु करा
 ## Variables:
 ##   $name (String): name of the extension
 
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = एक विस्तार, <img data-l10n-name="icon"/> { $name }, आपले मुख्य पृष्ठ नियंत्रित करत आहे.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = एक एक्स्टेंशन, <img data-l10n-name="icon"/> { $name }, ने आपले शोध इंजिन सेट केले आहे.
@@ -128,17 +123,8 @@ is-not-default = { -brand-short-name } सध्या आपले पूर्
 set-as-my-default-browser =
     .label = पूर्वनिर्धारित बनवा…
     .accesskey = D
-startup-page = जेव्हा { -brand-short-name } सुरू होते
-    .accesskey = s
-startup-user-homepage =
-    .label = माझे मुख्य पृष्ठ दाखवा
-startup-blank-page =
-    .label = रिक्त पृष्ठ दाखवा
-startup-prev-session =
-    .label = शेवटच्या वेळे पासून माझ्या विंडोज आणि टॅब्स दाखवा
 disable-extension =
     .label = वाढीव कार्यक्रम निष्क्रिय करा
-home-page-header = मुख्य पृष्ठ
 tabs-group-header = टॅब्ज
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab वापरलेल्या क्रमामध्ये टॅब्स बदली करते
@@ -258,7 +244,6 @@ play-drm-content =
 play-drm-content-learn-more = आणखी शिका
 update-application-title = { -brand-short-name } सुधारणा
 update-application-description = सर्वोत्तम कामगिरी, स्थिरता आणि सुरक्षिततेसाठी { -brand-short-name } अद्ययावत ठेवा.
-update-application-info = आवृत्ती{ $version } <a>काय नवीन आहे</a>
 update-application-version = आवृत्ती{ $version } <a data-l10n-name="learn-more">काय नवीन आहे</a>
 update-history =
     .label = अद्ययावत इतिहास दाखवा…
@@ -294,7 +279,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = मजकूर प्रक्रिया मर्यादा
     .accesskey = l
 performance-limit-content-process-enabled-desc = अनेक टॅब वापरल्यास, अतिरिक्त मजकूर प्रक्रिया कार्यक्षमता वाढवू  शकतात, पण त्या अधिक मेमरी देखील वापरातील.
-performance-limit-content-process-disabled-desc = मजकूर प्रक्रियांची गणना बदलणे फक्त मल्टिप्रोसेस { -brand-short-name } सोबत शक्य आहे. <a>मल्टिप्रोसेस कार्यान्वित आहेत की नाही कसे तपासायचे ते जाणा</a>
 performance-limit-content-process-blocked-desc = मजकूर प्रक्रियांची गणना बदलणे फक्त मल्टिप्रोसेस { -brand-short-name } सोबत शक्य आहे. <a data-l10n-name="learn-more">मल्टिप्रोसेस कार्यान्वित आहेत की नाही कसे तपासायचे ते जाणा</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -364,9 +348,6 @@ use-current-pages =
 choose-bookmark =
     .label = वाचनखूणाचा वापर करा…
     .accesskey = B
-restore-default =
-    .label = पूर्वनिर्धारित स्थितीत आणा
-    .accesskey = R
 
 ## Search Section
 
@@ -586,14 +567,29 @@ sitedata-learn-more = आणखी जाणा
 sitedata-accept-cookies-option =
     .label = संकेतस्थळावरून कुकीज आणि साईट डेटा स्वीकारा (शिफारस).
     .accesskey = A
+sitedata-block-cookies-option =
+    .label = कुकीज आणि साईट माहिती अवरोधित करा(संकेतस्थळ खंडित होऊ शकते) 
+    .accesskey = B
 sitedata-keep-until = पर्यंत ठेवा
     .accesskey = u
+sitedata-keep-until-expire =
+    .label = ते कालबाह्य होतात
+sitedata-keep-until-closed =
+    .label = { -brand-short-name } बंद आहे 
+sitedata-accept-third-party-desc = तृतीय-पक्ष कुकीज आणि साईट माहिती स्वीकारा.
+    .accesskey = y
 sitedata-accept-third-party-always-option =
     .label = नेहमी
 sitedata-accept-third-party-visited-option =
     .label = भेट दिलेल्यांमधून
 sitedata-accept-third-party-never-option =
     .label = कधीच नाही
+sitedata-clear =
+    .label = माहिती पुसा... 
+    .accesskey = l
+sitedata-settings =
+    .label = डेटा व्यवस्थापित करा...
+    .accesskey = M
 sitedata-cookies-exceptions =
     .label = अपवाद…
     .accesskey = E
@@ -661,6 +657,9 @@ permissions-notification-link = आणखी जाणा
 permissions-notification-pause =
     .label = सूचना { -brand-short-name } पुन्हा सुरु होईपर्यंत स्थगित करा
     .accesskey = n
+permissions-block-autoplay-media-exceptions =
+    .label = अपवाद…
+    .accesskey = E
 permissions-block-popups =
     .label = पॉपअप पटल अडवा
     .accesskey = B
@@ -690,6 +689,9 @@ collection-health-report-link = आणखी जाणा
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = माहिती अहवाल देणे या बांधणी संरचनेमध्ये निष्क्रिय केलेले आहे
+collection-browser-errors =
+    .label = { -brand-short-name } ला { -vendor-short-name } यास ब्राऊजरच्या चुकांचा अहवाल(चुकीचे संदेश धरून) पाठवण्यास परवानगी द्या
+    .accesskey = b
 collection-browser-errors-link = आणखी जाणा
 collection-backlogged-crash-reports-link = आणखी जाणा
 

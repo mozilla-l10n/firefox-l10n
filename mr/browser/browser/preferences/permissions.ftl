@@ -79,6 +79,12 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = कुठल्या संकेतस्थाळांना ॲड-ऑन्स् प्रतिष्ठापन करायला द्यायचे हे आपण निश्चित करू शकता. त्याकरता हव्या असलेल्या स्थळाचे अचूक पत्ता लिहा व परवानगी आहे वर क्लिक करा.
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = अनुमती दिलेल्या साइट - स्वयंचलित
+    .style = { permissions-window.style }
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
