@@ -303,10 +303,17 @@ browsing-use-smooth-scrolling =
 browsing-use-onscreen-keyboard =
     .label = peudëh kibod model cukéh wate peureulé
     .accesskey = p
+browsing-use-cursor-navigation =
+    .label = Sabé neungui kursor keu navigasi lam laman
+    .accesskey = S
+browsing-search-on-start-typing =
+    .label = Seutöt teunuléh watéi ta peuphôn thép
+    .accesskey = S
 
 ## General Section - Proxy
 
 network-proxy-title = Proksi Jaringan
+network-proxy-connection-description = Meuatô kiban { -brand-short-name } meuhubông u internet
 network-proxy-connection-learn-more = Meurunoë Lom
 network-proxy-connection-settings =
     .label = Peuatos...
@@ -315,9 +322,11 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Tingkap ngön Tab Barô
+home-new-windows-tabs-description2 = Piléh pue nyang meukalën watéi neupeuhah laman home, window barô, ngën tab barô
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Laman home dan window barô
 home-newtabs-mode-label = Tab barô
 home-restore-defaults =
     .label = Peubalek Baku
@@ -330,10 +339,29 @@ home-mode-choice-custom =
     .label = Atô URL...
 home-mode-choice-blank =
     .label = Laman sôh
+home-homepage-custom-url =
+    .placeholder = Paste sabôh URL...
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+           *[other] Ngui laman jinoe
+        }
+    .accesskey = N
+choose-bookmark =
+    .label = Ngui bookmark...
+    .accesskey = g
 
 ## Search Section
 
-search-bar-header = Mita Bar
+search-bar-header = Bar seumeutët
+search-bar-hidden =
+    .label = Ngui bar àlamat keu seumeutët dan navigasi
+search-bar-shown =
+    .label = Tamah bar seumeutët bak toolbar
 search-engine-default-header = Meusén Mita Baku
 search-choose-engine-column =
     .label = Meusén Mita

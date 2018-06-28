@@ -36,7 +36,9 @@ used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
+<!ENTITY  pinTab.label                       "Pin Tab">
 <!ENTITY  pinTab.accesskey                   "P">
+<!ENTITY  unpinTab.label                     "Unpin Tab">
 <!ENTITY  unpinTab.accesskey                 "b">
 <!ENTITY  sendTabToDevice.accesskey          "n">
 <!ENTITY  sendPageToDevice.accesskey         "n">
@@ -151,6 +153,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+<!ENTITY searchItem.title             "Mita">
 
 <!-- Toolbar items -->
 
@@ -211,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY deleteCmd.label          "Sampoh">
 <!ENTITY deleteCmd.key            "D">
 <!ENTITY deleteCmd.accesskey        "D">
+<!ENTITY selectAllCmd.label         "Pileh Bandum">
 <!ENTITY selectAllCmd.key         "A">
 <!ENTITY selectAllCmd.accesskey       "A">
 <!ENTITY preferencesCmd2.accesskey     "O">
@@ -234,11 +238,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.restoreSession.label "Peuriwang Sesi Seugolomjih">
+<!ENTITY appMenuHelp.label "Beunatu">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showMore.label "Peuleumah Leubeh">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showAll.label "Peuleumah Bandum">
