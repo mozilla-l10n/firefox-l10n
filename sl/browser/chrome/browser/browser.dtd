@@ -307,6 +307,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "D">
 <!ENTITY newUserContext.label             "Nov vsebniški zavihek">
 <!ENTITY newUserContext.accesskey         "v">
+<!ENTITY manageUserContext.label          "Upravljanje vsebnikov">
 <!ENTITY newNavigatorCmd.label        "Novo okno">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -409,8 +410,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
-     in the location bar. These labels are only used in Photon, where you can put
-     items into this menu permanently (pinned). -->
+     in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Dodaj v meni prekoračitve">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.moveToToolbar.label "Premakni v orodno vrstico">
@@ -422,6 +422,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Premakni v meni">
 <!ENTITY customizeMenu.moveToPanel.accesskey "e">
+<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
+     can appear on the same context menu as menubarCmd and personalbarCmd,
+     so they should have different access keys.  -->
 <!ENTITY customizeMenu.pinToOverflowMenu.label "Pripni v meni prekoračitve">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Odpni iz menija prekoračitve">
@@ -905,18 +908,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.on "Zaščita pred sledenjem: vključeno">
 <!ENTITY trackingProtection.off "Zaščita pred sledenjem: izključeno">
 <!ENTITY trackingProtection.title "Zaščita pred sledenjem">
-<!ENTITY trackingProtection.tooltip "Odpri nastavitve zaščite pred sledenjem">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; zavrača dele strani, ki lahko sledijo vašemu brskanju.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Stran vsebuje elemente, ki lahko sledijo vašemu brskanju. Zaščita je onemogočena.">
 <!ENTITY trackingProtection.notDetected3 "Na strani ni bilo zaznanih elementov sledenja.">
-<!ENTITY trackingProtection.notDetected4 "Na strani ni bilo zaznanih sledilcev.">
-<!ENTITY trackingProtection.reloadRequired "Omogočili ste zaščito pred sledenjem. Za zavrnitev vseh sledilcev ponovno naložite spletno stran.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Onemogoči zaščito za to stran">
 <!ENTITY trackingProtection.unblock.accesskey "N">
-<!ENTITY trackingProtection.unblock2.label "Zaupaj tej strani">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -925,8 +924,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Omogoči zaščito">
 <!ENTITY trackingProtection.block2.accesskey "O">
 
-<!ENTITY trackingProtection.block3.label "Vključi zaščito pred sledenjem">
-<!ENTITY trackingProtection.reload.label "Ponovno naloži stran">
+<!ENTITY trackingProtection.tooltip "Odpri nastavitve zaščite pred sledenjem">
+<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; zavrača dele strani, ki lahko sledijo vašemu brskanju.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; je zaznal elemente, ki bi lahko sledili vašemu brskanju.">
+<!ENTITY trackingProtection.notDetected5 "Na strani ni bilo zaznanih elementov sledenja.">
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock3.label "Onemogoči za to stran">
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate3.label "Onemogoči za to sejo">
+<!ENTITY trackingProtection.block4.label "Omogoči za to stran">
+<!ENTITY trackingProtection.reload2.label "Ponovno naloži stran">
 
 <!ENTITY pluginNotification.showAll.label "Prikaži vse">
 <!ENTITY pluginNotification.showAll.accesskey "S">
