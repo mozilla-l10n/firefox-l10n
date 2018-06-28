@@ -24,8 +24,11 @@
 
 <!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.malwarePage.errorDesc.override "Το <span id='malware_sitename'/> έχει <a id='error_desc_link'> αναφερθεί ότι περιέχει κακόβουλο λογισμικό</a>. Μπορείτε να <a id='report_detection'>αναφέρετε το πρόβλημα</a> ή να <a id='ignore_warning_link'> αγνοήσετε τον κίνδυνο</a> και να μεταβείτε σε αυτή την επισφαλή ιστοσελίδα.">
 
+<!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "Το <span id='malware_sitename'/> έχει <a id='error_desc_link'> αναφερθεί ότι περιέχει κακόβουλο λογισμικό</a>. Μπορείτε να <a id='report_detection'>αναφέρετε το πρόβλημα</a>.">
 
+<!ENTITY safeb.blocked.malwarePage.learnMore "Μάθετε περισσότερα σχετικά με το επιβλαβές διαδικτυακό περιεχόμενο, όπως ιοί και άλλο κακόβουλο λογισμικό, καθώς και το πώς να προστατέψετε τον υπολογιστή σας στο <a id='learn_more_link'>StopBadware.org</a>. Μάθετε περισσότερα σχετικά με την προστασία από ηλεκτρονικό ψάρεμα και κακόβουλο λογισμικό του &brandShortName; στο <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 <!ENTITY safeb.blocked.unwantedPage.title2 "Η ακόλουθη ιστοσελίδα ενδέχεται να περιέχει επιβλαβή προγράμματα">
@@ -33,9 +36,9 @@
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
-<!ENTITY safeb.blocked.unwantedPage.errorDesc.override "Το <span id='unwanted_sitename'/> έχει <a id='error_desc_link'>αναφερθεί καθώς περιέχει επιβλαβές λογισμικό</a>. Μπορείτε να <a id='ignore_warning_link'>αγνοήσετε τον κίνδυνο</a> και να συνεχίσετε σε αυτή την επισφαλή ιστοσελίδα.">
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.override "Το <span id='unwanted_sitename'/> έχει <a id='error_desc_link'>αναφερθεί ότι περιέχει επιβλαβές λογισμικό</a>. Μπορείτε να <a id='ignore_warning_link'>αγνοήσετε τον κίνδυνο</a> και να συνεχίσετε σε αυτή την επισφαλή ιστοσελίδα.">
 
-<!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "Το <span id='unwanted_sitename'/> έχει <a id='error_desc_link'>αναφερθεί καθώς περιέχει επιβλαβές λογισμικό</a>.">
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "Το <span id='unwanted_sitename'/> έχει <a id='error_desc_link'>αναφερθεί ότι περιέχει επιβλαβές λογισμικό</a>.">
 
 <!ENTITY safeb.blocked.unwantedPage.learnMore "Μάθετε περισσότερα σχετικά με το επιβλαβές και ανεπιθύμητο λογισμικό στην <a id='learn_more_link'>Πολιτική ανεπιθύμητου λογισμικού</a>. Μάθετε περισσότερα σχετικά με την προστασία από ηλεκτρονικό ψάρεμα και κακόβουλο λογισμικό του &brandShortName; στο <a id='firefox_support'>support.mozilla.org</a>.">
 
@@ -46,12 +49,17 @@
 <!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 <!ENTITY safeb.blocked.phishingPage.errorDesc.override "Το <span id='phishing_sitename'/> έχει <a id='error_desc_link'>αναφερθεί ως παραπλανητική ιστοσελίδα</a>. Μπορείτε να <a id='report_detection'>αναφέρετε το πρόβλημα</a> ή να <a id='ignore_warning_link'>αγνοήσετε τον κίνδυνο</a> και να συνεχίσετε σε αυτή την επισφαλή ιστοσελίδα.">
 
+<!ENTITY safeb.blocked.phishingPage.errorDesc.noOverride "Το <span id='phishing_sitename'/> έχει <a id='error_desc_link'>αναφερθεί ως παραπλανητική ιστοσελίδα</a>. Μπορείτε να <a id='report_detection'>αναφέρετε το πρόβλημα</a>.">
 
+<!ENTITY safeb.blocked.phishingPage.learnMore "Μάθετε περισσότερα σχετικά με τις παραπλανητικές ιστοσελίδες και το ηλεκτρονικό ψάρεμα στο <a id='learn_more_link'>www.antiphishing.org</a>. Μάθετε περισσότερα σχετικά με την προστασία από ηλεκτρονικό ψάρεμα και κακόβουλο λογισμικό του &brandShortName; στο <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 <!ENTITY safeb.blocked.harmfulPage.title "Η ιστοσελίδα αυτή ενδέχεται να περιέχει κακόβουλο λογισμικό">
 <!ENTITY safeb.blocked.harmfulPage.shortDesc2 "Το &brandShortName; απέκλεισε αυτή τη σελίδα, επειδή ενδέχεται να αποπειραθεί να εγκαταστήσει επικίνδυνες εφαρμογές, που υποκλέπτουν ή διαγράφουν τις πληροφορίες σας (για παράδειγμα, φωτογραφίες, κωδικοί πρόσβασης, μηνύματα και πιστωτικές κάρτες).">
 
 <!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.override "Το <span id='harmful_sitename'/> έχει <a id='error_desc_link'>αναφερθεί ότι περιέχει πιθανώς επιβλαβή εφαρμογή</a>. Μπορείτε να <a id='ignore_warning_link'>αγνοήσετε τον κίνδυνο</a> και να συνεχίσετε σε αυτή την επισφαλή ιστοσελίδα.">
 
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "Το <span id='harmful_sitename'/> έχει <a id='error_desc_link'>αναφερθεί ότι περιέχει πιθανώς επιβλαβή εφαρμογή</a>.">
 
+<!ENTITY safeb.blocked.harmfulPage.learnMore "Μάθετε περισσότερα σχετικά με την προστασία από ηλεκτρονικό ψάρεμα και κακόβουλο λογισμικό του &brandShortName; στο <a id='firefox_support'>support.mozilla.org</a>.">
