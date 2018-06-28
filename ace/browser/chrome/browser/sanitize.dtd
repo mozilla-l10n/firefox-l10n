@@ -5,15 +5,21 @@
 <!-- LOCALIZATION NOTE (sanitizePrefs2.modal.width): width of the Clear History on Shutdown dialog.
      Should be large enough to contain the item* strings on a single line.
      The column width should be set at half of the dialog width. -->
+<!ENTITY sanitizePrefs2.modal.width    "34em">
+<!ENTITY sanitizePrefs2.column.width   "17em">
 
 <!-- LOCALIZATION NOTE (sanitizeDialog2.width): width of the Clear Recent History dialog -->
+<!ENTITY sanitizeDialog2.width         "34em">
 
 
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
+<!ENTITY clearTimeDuration.accesskey      "T">
+<!ENTITY clearTimeDuration.lastHour       "Akhe Jeum">
 <!ENTITY clearTimeDuration.today          "Uroë Nyoë">
+<!ENTITY clearTimeDuration.everything     "Beurangkapeu">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearTimeDuration.suffix         "">
@@ -22,10 +28,19 @@ that require it.  -->
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
 <!ENTITY detailsProgressiveDisclosure.label     "Rincian">
+<!ENTITY detailsProgressiveDisclosure.accesskey "e">
 
 <!ENTITY historySection.label         "Riwayat">
+<!ENTITY dataSection.label            "Data">
 
+<!ENTITY itemHistoryAndDownloads.accesskey "B">
+<!ENTITY itemFormSearchHistory.accesskey   "F">
 <!ENTITY itemCookies.label                 "Kuki">
+<!ENTITY itemCookies.accesskey             "C">
+<!ENTITY itemCache.accesskey               "A">
+<!ENTITY itemOfflineApps.accesskey         "O">
+<!ENTITY itemActiveLogins.accesskey        "L">
+<!ENTITY itemSitePreferences.accesskey     "S">
 
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
