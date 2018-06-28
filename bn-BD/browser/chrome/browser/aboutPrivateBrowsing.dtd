@@ -2,19 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.title):
-     Please ensure this exactly matches tabs.emptyPrivateTabTitle in tabbrowser.properties -->
-<!ENTITY aboutPrivateBrowsing.title                      "ব্যক্তিগত ব্রাউজিং">
-<!ENTITY aboutPrivateBrowsing.notPrivate.title           "ব্যক্তিগত উইন্ডো খুলবেন?">
-
 <!ENTITY aboutPrivateBrowsing.notPrivate                 "আপনি বর্তমানে কোনো ব্যক্তিগত উইন্ডোতে নেই।">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "একটি ব্যক্তিগত উইন্ডো খুলুন">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
 <!ENTITY privateBrowsing.title                           "ব্যক্তিগত ব্রাউজিং">
 <!ENTITY privateBrowsing.title.tracking                  "ট্র্যাকিং সুরক্ষার সাথে ব্যক্তিগত ব্রাউজিং">
-<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "যখন আপনি একটি ব্যক্তিগত উইন্ডো ব্রাউজ করেন, Firefox ">
-<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "সংরক্ষিণ করবে না">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "যখন আপনি কোন ব্যক্তিগত উইন্ডো ব্রাউজ করেন, Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "সংরক্ষণ করবে না">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
 <!ENTITY aboutPrivateBrowsing.info.visited               "দেখে ফেলা পেজসমূহ">
 <!ENTITY aboutPrivateBrowsing.info.searches              "অনুসন্ধান">
@@ -33,5 +28,5 @@
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           "।">
 
 <!ENTITY trackingProtection.title                        "ট্র্যাকিং সুরক্ষা">
-<!ENTITY trackingProtection.description2                 "কিছু ওয়েবসাইট ট্র্যাক্যার ব্যবহার করে যেটা ইন্টারনেটের সাহায্যে আপনার কার্যকলাপ লক্ষ্য করতে পারে। ট্র্যাকিং প্রটেকসন ব্যবহার করে Firefox এমন অনেক ট্র্যাক্যার ব্লক করবে যারা আপনার ব্রাউজ সম্পর্কে তথ্য সংগ্রহ করে।">
+<!ENTITY trackingProtection.description2                 "কিছু ওয়েবসাইট ট্র্যাকার ব্যবহার করে যেটা ইন্টারনেটের সাহায্যে আপনার কার্যকলাপ পর্যবেক্ষণ করতে পারে। ট্র্যাকিং প্রোটেকশন ব্যবহার করে Firefox এমন অনেক ট্র্যাক্যার ব্লক করবে যারা আপনার ব্রাউজিং আচরণ সম্পর্কে তথ্য সংগ্রহ করে।">
 <!ENTITY trackingProtection.startTour1                   "দেখুন এটা কিভাবে কাজ করে">
