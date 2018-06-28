@@ -937,7 +937,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.notDetected5 "Na této stránce nebyly zjištěny žádné sledovací prvky.">
 <!ENTITY trackingProtection.notDetectedException "Na této stránce nebyly zjištěny žádné sledovací prvky. Ochranu proti sledování jste pro tento server vypnuli.">
 
-<!ENTITY trackingProtection.reloadRequired2 "Ochrana proti sledování byla zapnuta. Obnovte tuto stránku pro zablokování všech sledovacích prvků.">
+<!ENTITY trackingProtection.reloadRequired2 "Ochrana proti sledování byla zapnuta. Pro zablokování všech sledovacích prvků obnovte tuto stránku.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
