@@ -75,12 +75,30 @@ restart-later = Επανεκκίνηση αργότερα
 ## Variables:
 ##   $name (String): name of the extension
 
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = Μια επέκταση, το <img data-l10n-name="icon"/> { $name }, ελέγχει την αρχική σελίδα σας.
+# This string is shown to notify the user that their new tab page
+# is being controlled by an extension.
+extension-controlled-new-tab-url = Μια επέκταση, το <img data-l10n-name="icon"/> { $name }, ελέγχει τη σελίδα "Νέα καρτέλα" σας.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = Μια επέκταση, <img data-l10n-name="icon"/> { $name }, έχει ορίσει την προεπιλεγμένη μηχανή αναζήτησής σας.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlled-privacy-containers = Μια επέκταση, το <img data-l10n-name="icon"/> { $name }, απαιτεί θεματικές καρτέλες.
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = Μια επέκταση, το <img data-l10n-name="icon"/> { $name }, ελέγχει την προστασία από καταγραφή.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlled-proxy-config = Μια επέκταση, το <img data-l10n-name="icon"/> { $name }, ελέγχει τον τρόπο σύνδεσης του { -brand-short-name } με το διαδίκτυο.
+# This string is shown after the user disables an extension to notify the user
+# how to enable an extension that they disabled.
+#
+# <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
+# <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
+extension-controlled-enable = Για να ενεργοποιήσετε την επέκταση, μεταβείτε στο <img data-l10n-name="addons-icon"/> "Πρόσθετα" στο μενού <img data-l10n-name="menu-icon"/>.
 
 ## Preferences UI Search Results
 
@@ -91,6 +109,7 @@ search-results-empty-message =
         [windows] Λυπούμαστε! Δεν υπάρχουν αποτελέσματα για το “<span data-l10n-name="query"></span>” στις Επιλογές.
        *[other] Λυπούμαστε! Δεν υπάρχουν αποτελέσματα για το “<span data-l10n-name="query"></span>” στις Προτιμήσεις.
     }
+search-results-help-link = Χρειάζεστε βοήθεια; Επισκεφθείτε την <a data-l10n-name="url">Υποστήριξη { -brand-short-name }</a>
 
 ## General Section
 
@@ -557,6 +576,7 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookies και δεδομένα ιστοσελίδων
+sitedata-total-size-calculating = Υπολογισμός μεγέθους δεδομένων ιστοσελίδας και προσωρινής μνήμης...
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
@@ -655,6 +675,9 @@ permissions-notification-link = Μάθετε περισσότερα
 permissions-notification-pause =
     .label = Παύση ειδοποιήσεων μέχρι να επανεκκινηθεί το { -brand-short-name }
     .accesskey = ε
+permissions-block-autoplay-media =
+    .label = Αποκλεισμός ιστοσελίδων με αυτόματη αναπαραγωγή πολυμέσων ήχου
+    .accesskey = Α
 permissions-block-autoplay-media-exceptions =
     .label = Εξαιρέσεις…
     .accesskey = Ε
