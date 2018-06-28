@@ -56,7 +56,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Ενεργά αρθρώματα">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Ρύθμιση δομής">
-<!ENTITY aboutSupport.appBasicsUserAgent "Λειτουργία χρήσης">
+<!ENTITY aboutSupport.appBasicsUserAgent "Πλατφόρμα χρήστη">
 <!ENTITY aboutSupport.appBasicsOS "ΛΣ">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Χρήση μνήμης">
 <!ENTITY aboutSupport.appBasicsPerformance "Επιδόσεις">
