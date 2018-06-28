@@ -12,6 +12,7 @@
   -  global/languageNames.properties file; for some locales it may not be in
   -  the correct grammar case to keep the same structure of the original
   -  sentence. -->
+<!ENTITY translation.notNow.button              "Bek Jinoe">
 
 
 <!-- LOCALIZATION NOTE (translation.translatedFrom.label,
@@ -29,6 +30,7 @@
   -  translation.translatedToSuffix.label (empty in en-US) is for locales that
   -  need to display some text after the second drop down for the sentence to
   -  be grammatically correct. -->
+<!ENTITY translation.translatedTo.label         "keu">
 <!ENTITY translation.translatedToSuffix.label   "">
 
 
@@ -39,6 +41,8 @@
   -  The accesskey values used here should not clash with the value used for
   -  translation.options.neverForLanguage.accesskey in translation.properties
   -->
+<!ENTITY translation.options.neverForSite.accesskey "e">
+<!ENTITY translation.options.preferences.accesskey "T">
 
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
