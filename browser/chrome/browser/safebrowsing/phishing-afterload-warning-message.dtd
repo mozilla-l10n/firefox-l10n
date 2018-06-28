@@ -16,6 +16,7 @@
 <!ENTITY safeb.palm.notdeceptive.accesskey "δ">
 
 <!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
+<!ENTITY safeb.palm.advisory.desc2 "Παροχή υποδείξεων από <a id='advisory_provider'/>.">
 
 
 <!ENTITY safeb.blocked.malwarePage.title2 "Η επίσκεψη σε αυτή την ιστοσελίδα μπορεί να βλάψει τον υπολογιστή σας">

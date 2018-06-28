@@ -27,6 +27,9 @@ serviceworker-worker-debug = Αποσφαλμάτωση
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start = Έναρξη
+# Text displayed for the updated time of the service worker. The <time> element will
+# display the last update time of the service worker script.
+serviceworker-worker-updated = Ενημέρωση: <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
 # Text displayed next to the URL for the source of the service worker (e-g. "Source my/path/to/worker-js")
 serviceworker-worker-source = Πηγή
 # Text displayed next to the current status of the service worker.
@@ -43,3 +46,18 @@ serviceworker-worker-status-stopped = Σε διακοπή
 # Service Worker status. A registering service worker is not yet registered and cannot be
 # started or debugged.
 serviceworker-worker-status-registering = Γίνεται καταχώρηση
+# Text displayed when no service workers are visible for the current page. Clicking on the
+# link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
+serviceworker-empty-intro = Θα πρέπει να καταχωρήσετε ένα Service Worker για να επιθεωρηθεί εδώ. <a>Μάθετε περισσότερα</a>
+# Text displayed when there are no Service Workers to display for the current page,
+# introducing hints to debug Service Worker issues.
+serviceworker-empty-suggestions = Εάν η τρέχουσα σελίδα πρέπει να έχει ένα service worker, ορίστε μερικά πράγματα που μπορείτε να δοκιμάσετε
+# Suggestion to check for errors in the Console to investigate why a service worker is not
+# registered. Clicking on the link opens the webconsole.
+serviceworker-empty-suggestions-console = Αναζήτηση σφαλμάτων στην κονσόλα. <a>Άνοιγμα κονσόλας</a>
+# Suggestion to use the debugger to investigate why a service worker is not registered.
+# Clicking on the link will switch from the Application panel to the debugger.
+serviceworker-empty-suggestions-debugger = Διερευνήστε την καταχώρηση Service Worker προς αναζήτηση εξαιρέσεων. <a>Άνοιγμα αποσφαλμάτωσης</a>
+# Suggestion to go to about:debugging in order to see Service Workers for all domains.
+# Clicking on the link will open about:debugging in a new tab.
+serviceworker-empty-suggestions-aboutdebugging = Επιθεωρήστε Service Workers από άλλους τομείς. <a>Άνοιγμα about:debugging</a>
