@@ -931,13 +931,27 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.accesskey "Ε">
 
 <!ENTITY trackingProtection.tooltip "Άνοιγμα προτιμήσεων προστασίας από καταγραφή">
+<!ENTITY trackingProtection.detectedBlocked4 "Το &brandShortName; αποκλείει μέρη της σελίδας αυτής που ενδέχεται να καταγράφουν τη δραστηριότητα περιήγησής σας.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "Το &brandShortName; έχει ανιχνεύσει στοιχεία που ενδέχεται να καταγράφουν τη δραστηριότητα περιήγησής σας.">
+<!ENTITY trackingProtection.detectedException "Το &brandShortName; έχει ανιχνεύσει στοιχεία που ενδέχεται να καταγράφουν τη δραστηριότητα περιήγησής σας. Έχετε απενεργοποιήσει την προστασία για αυτή την ιστοσελίδα.">
+<!ENTITY trackingProtection.notDetected5 "Δεν ανιχνεύθηκαν στοιχεία καταγραφής σε αυτή τη σελίδα.">
+<!ENTITY trackingProtection.notDetectedException "Δεν ανιχνεύθηκαν στοιχεία καταγραφής σε αυτή τη σελίδα. Έχετε απενεργοποιήσει την προστασία για αυτή την ιστοσελίδα.">
 
+<!ENTITY trackingProtection.reloadRequired2 "Έχετε ενεργοποιήσει την προστασία από παρακολούθηση. Φορτώστε εκ νέου τη σελίδα για αποκλεισμό όλων των ιχνηλατών.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock3.label "Απενεργοποίηση για την ιστοσελίδα">
+<!ENTITY trackingProtection.unblock3.accesskey "Α">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate3.label "Απενεργοποίηση για αυτή τη συνεδρία">
+<!ENTITY trackingProtection.unblockPrivate3.accesskey "Α">
+<!ENTITY trackingProtection.block4.label "Ενεργοποίηση για την ιστοσελίδα">
+<!ENTITY trackingProtection.block4.accesskey "Ε">
+<!ENTITY trackingProtection.reload2.label "Ανανέωση σελίδας">
+<!ENTITY trackingProtection.reload2.accesskey "Α">
 
 <!ENTITY pluginNotification.showAll.label "Προβολή όλων">
 <!ENTITY pluginNotification.showAll.accesskey "β">
