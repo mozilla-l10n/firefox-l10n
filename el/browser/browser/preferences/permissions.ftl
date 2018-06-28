@@ -37,7 +37,7 @@ permissions-button-ok =
 permissions-searchbox =
     .placeholder = Αναζήτηση ιστοσελίδας
 permissions-capabilities-allow =
-    .label = Να επιτρέπεται
+    .label = Αποδοχή
 permissions-capabilities-block =
     .label = Φραγή
 permissions-capabilities-prompt =
@@ -79,7 +79,7 @@ permissions-exceptions-saved-logins-desc = Οι συνδέσεις για τις
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window =
-    .title = Επιτρεπόμενες ιστοσελίδες - Εγκατάσταση Προσθέτων
+    .title = Επιτρεπόμενες ιστοσελίδες - Εγκατάσταση προσθέτων
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Μπορείτε να καθορίσετε σε ποιες ιστοσελίδες επιτρέπεται η εγκατάσταση προσθέτων. Πληκτρολογήστε την ακριβή διεύθυνση της ιστοσελίδας που θέλετε να επιτρέψετε και, στη συνέχεια, κάντε κλικ στο "Αποδοχή".
 
@@ -97,7 +97,7 @@ permissions-site-notification-window =
     .style = { permissions-window.style }
 permissions-site-notification-desc = Οι παρακάτω ιστοσελίδες έχουν αιτηθεί να σάς στέλνουν ειδοποιήσεις. Μπορείτε να καθορίσετε σε ποιες ιστοσελίδες επιτρέπεται η αποστολή ειδοποιήσεων. Μπορείτε επίσης να αποκλείσετε νέα αιτήματα για την αποδοχή ειδοποιήσεων.
 permissions-site-notification-disable-label =
-    .label = Αποκλεισμός νέων αιτημάτων για την αποδοχή ειδοποιήσεων
+    .label = Αποκλεισμός νέων αιτημάτων για αποδοχή ειδοποιήσεων
 permissions-site-notification-disable-desc = Αυτό θα εμποδίσει όλες τις ιστοσελίδες που δεν αναγράφονται παραπάνω να αιτηθούν άδεια για αποστολή ειδοποιήσεων. Η φραγή ειδοποιήσεων πιθανόν να διακόψει ορισμένες λειτουργίες των ιστοσελίδων.
 
 ## Site Permissions - Location
@@ -117,3 +117,5 @@ permissions-site-camera-window =
 permissions-site-microphone-window =
     .title = Ρυθμίσεις - Άδειες μικροφώνου
     .style = { permissions-window.style }
+permissions-site-microphone-disable-label =
+    .label = Αποκλεισμός νέων αιτημάτων για πρόσβαση στο μικρόφωνο
