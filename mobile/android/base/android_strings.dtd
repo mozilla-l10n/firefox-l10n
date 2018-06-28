@@ -70,6 +70,15 @@
 
 <!ENTITY url_bar_default_text2 "पत्ता शोधा किंवा द्या">
 
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "शोधण्यासाठी आपला QR वाचक वापरा अथवा पत्ता द्या">
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "शोधण्यासाठी आपला मायक्रोफोन वापरा अथवा पत्ता द्या">
+
 <!ENTITY bookmark "वाचनखूण">
 <!ENTITY bookmark_remove "वाचनखूण काढा">
 <!ENTITY bookmark_added "वाचनखूण समाविष्ट">
@@ -126,7 +135,7 @@
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
-<!ENTITY switch_button_message "SWITCH">
+<!ENTITY switch_button_message "बदला">
 <!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
      visible in the UI, but rather used as a text-to-speech content description
      for sight-impaired a11y users. The content description is set on a tab
