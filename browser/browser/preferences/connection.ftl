@@ -13,6 +13,7 @@ connection-close-key =
     .key = w
 connection-disable-extension =
     .label = పొడగింతను అచేతనించు
+connection-proxy-configure = అంతర్జాలానికి ప్రాక్సీ అందుబాటును స్వరూపించండి
 connection-proxy-option-no =
     .label = ప్రాక్సీ ఏమీలేదు
     .accesskey = y

@@ -5,6 +5,7 @@
 clear-site-data-window =
     .title = డేటాని తుడిచివేయి
     .style = width: 35em
+clear-site-data-description = { -brand-short-name } భద్రపరచుకున్న కుకీలను, సైట్ల డేటానూ తుడిచివేయడం వలన మీరు ప్రవేశించిన వెబ్‌సైట్ల నుండి నిష్క్రమించే అవకాశం ఉంది, వాటి ఆఫ్‌లైన్ డేటా కూడా తొలగిపోతుంది. క్యాషె డేటాను తుడిచివెయ్యండం మీ ప్రవేశాలపై ప్రభావం చూపదు.
 clear-site-data-close-key =
     .key = w
 # The parameters in parentheses in this string describe disk usage

@@ -11,6 +11,8 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override = పేజీలు పేర్కొన్న రంగులను పైన నా ఎంపికలతో మార్చు
+    .accesskey = O
 colors-page-override-option-always =
     .label = ఎల్లప్పుడూ
 colors-page-override-option-auto =
