@@ -377,6 +377,8 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Peudeuih saran mita di ateueh riwayat peuhah wèb lam hasé kutak alamat
+search-suggestions-cant-show = Saran mita hana geupeudeuih lam hasé kutak teumpat keureuna droeneuh ka neuatô { -brand-short-name } mangat bèk jiingat riwayat 
+search-one-click-header = Meusén Mita Sigo-Teugön
 search-choose-engine-column =
     .label = Meusén Mita
 search-remove-engine =
