@@ -65,7 +65,6 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.accesskey             "А">
 <!ENTITY  closeTab.label                     "Закрыць картку">
 <!ENTITY  closeTab.accesskey                 "З">
-
 <!ENTITY  hiddenTabs.label                   "Схаваныя карткі">
 
 <!ENTITY  listAllTabs.label      "Пералічыць усе карткі">
@@ -215,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Адкрыць панэль паведамленняў">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Адкрыць панэль запытаў месцазнаходжання">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Адкрыць панэль аўтапрайгравання">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Адкрыць панэль паведамленняў аб усталяванні дадатка">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Кіраванне доступам да інфармацыі ў canvas">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Адкрыць панэль паведамленняў пазасеткавага сховішча">
@@ -223,7 +223,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Змяніць магчымасць атрымліваць апавяшчэнні з гэтага сайта">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Захоўваць звесткі ў Сталым Сховішчы (Persistent Storage)">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Браўзер знаходзіцца пад аддаленым кіраваннем">
-
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Адкрыць панэль вэб-аўтарызацыі">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Кіраваць доступам сайта да вашай камеры і/або мікрафона">
@@ -243,6 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Вы заблакавалі апавяшчэнні з гэтага вэб-сайта.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Вы заблакавалі захоўванне звестак для гэтага вэб-сайта.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Вы заблакавалі выплыўныя вокны для гэтага вэб-сайта.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Вы заблакавалі аўтапрайграванне медый з гукам на гэтым вэб-сайце.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Вы заблакавалі выманне дадзеных canvas для гэтага вэб-сайта.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Вы забаранілі гэтаму вэб-сайту выкарыстоўваць плагін Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Вы заблакавалі MIDI доступ для гэтага вэб-сайта.">
@@ -310,6 +310,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "Ф">
 <!ENTITY newUserContext.label             "Новая картка кантэйнера">
 <!ENTITY newUserContext.accesskey         "К">
+<!ENTITY manageUserContext.label          "Кіраваць кантэйнерамі">
+<!ENTITY manageUserContext.accesskey      "К">
 <!ENTITY newNavigatorCmd.label        "Новае акно">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "Н">
@@ -412,8 +414,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
-     in the location bar. These labels are only used in Photon, where you can put
-     items into this menu permanently (pinned). -->
+     in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Дадаць у меню перапаўнення">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "Д">
 <!ENTITY customizeMenu.moveToToolbar.label "Перамясціць на паліцу прылад">
@@ -425,6 +426,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Перамясціць у меню">
 <!ENTITY customizeMenu.moveToPanel.accesskey "р">
+<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
+     can appear on the same context menu as menubarCmd and personalbarCmd,
+     so they should have different access keys.  -->
 <!ENTITY customizeMenu.pinToOverflowMenu.label "Замацаваць у меню перапаўнення">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "З">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Адмацаваць з меню перапаўнення">
@@ -807,6 +811,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Вы не давалі гэтаму сайту ніякіх адмысловых дазволаў.">
 <!ENTITY identity.permissionsReloadHint "Магчыма, вам спатрэбіцца перазагрузіць старонку, каб змены пачалі дзейнічаць.">
 
+<!ENTITY identity.permissionsPreferences.tooltip "Адкрыць налады дазволаў">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Карткі браўзера">
@@ -905,8 +911,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Гуказапіс з карткі будзе абагулены.">
 <!ENTITY getUserMedia.allWindowsShared.message "Усе бачныя вокны на вашым экране будуць абагулены.">
 
+<!ENTITY trackingProtection.on "Ахова ад сачэння: УКЛ">
+<!ENTITY trackingProtection.off "Ахова ад сачэння: ВЫКЛ">
 <!ENTITY trackingProtection.title "Ахова ад сачэння">
-<!ENTITY trackingProtection.tooltip "Адкрыць налады аховы ад сачэння">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; блакуе асобныя часткі старонкі, якія могуць асочваць вашы паводзіны ў Інтэрнэце.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Гэты сайт змяшчае элементы, якія могуць асочваць вашы паводзіны ў інтэрнэце. Вы адключылі ахову.">
 <!ENTITY trackingProtection.notDetected3 "На гэтай старонцы не выяўлена ніводнага элемента асочвання.">
@@ -922,6 +929,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "А">
 <!ENTITY trackingProtection.block2.label "Уключыць ахову">
 <!ENTITY trackingProtection.block2.accesskey "У">
+
+<!ENTITY trackingProtection.tooltip "Адкрыць налады аховы ад сачэння">
+<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; блакуе асобныя часткі старонкі, якія могуць асочваць вашы паводзіны ў Інтэрнэце.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; выявіў элементы, якія могуць за вамі сачыць.">
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
 
 <!ENTITY pluginNotification.showAll.label "Паказаць усе">
 <!ENTITY pluginNotification.showAll.accesskey "у">
