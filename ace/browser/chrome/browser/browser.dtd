@@ -36,9 +36,9 @@ used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-<!ENTITY  pinTab.label                       "Pin Tab">
+<!ENTITY  pinTab.label                       "Peukeumat Tab">
 <!ENTITY  pinTab.accesskey                   "P">
-<!ENTITY  unpinTab.label                     "Unpin Tab">
+<!ENTITY  unpinTab.label                     "Pinah Tab">
 <!ENTITY  unpinTab.accesskey                 "b">
 <!ENTITY  sendTabToDevice.accesskey          "n">
 <!ENTITY  sendPageToDevice.accesskey         "n">
@@ -92,9 +92,9 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.accesskey "F">
-<!ENTITY exitFullScreenCmd.label "Teubiet Peunoh Layeu">
+<!ENTITY exitFullScreenCmd.label "Teubiet Layeue Peunoh">
 <!ENTITY exitFullScreenCmd.accesskey "F">
-<!ENTITY fullScreenCmd.label "Peunoh Layeu">
+<!ENTITY fullScreenCmd.label "Layeue Peunoh">
 <!ENTITY fullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Peuleumah Bandum Tabs">
@@ -118,12 +118,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-<!ENTITY fullscreenWarning.afterDomain.label "jinoe nakeuh layeu peunoh">
+<!ENTITY fullscreenWarning.afterDomain.label "jinoe nakeuh layeue peunoh">
 
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-<!ENTITY exitDOMFullscreen.button "Teubiet Peunoh Layeu (ESC)">
+<!ENTITY exitDOMFullscreen.button "Teubiet Layeue Peunoh (ESC)">
 <!ENTITY exitDOMFullscreenMac.button "Teubiet Peunoh Layeu (esc)">
 <!ENTITY leaveDOMFullScreen.label "Teubiet Peunoh Layeu">
 <!ENTITY leaveDOMFullScreen.accesskey "u">

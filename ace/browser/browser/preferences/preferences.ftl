@@ -316,7 +316,7 @@ network-proxy-title = Proksi Jaringan
 network-proxy-connection-description = Meuatô kiban { -brand-short-name } meuhubông u internet
 network-proxy-connection-learn-more = Meurunoë Lom
 network-proxy-connection-settings =
-    .label = Peuatos...
+    .label = Atô...
     .accesskey = e
 
 ## Home Section
@@ -334,7 +334,7 @@ home-restore-defaults =
 # "Firefox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Firefox Rumoh (Baku)
+    .label = Seuramoe Firefox (Baku)
 home-mode-choice-custom =
     .label = Atô URL...
 home-mode-choice-blank =
