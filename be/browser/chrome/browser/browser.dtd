@@ -933,13 +933,25 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.tooltip "Адкрыць налады аховы ад сачэння">
 <!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; блакуе асобныя часткі старонкі, якія могуць асочваць вашы паводзіны ў Інтэрнэце.">
 <!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; выявіў элементы, якія могуць за вамі сачыць.">
+<!ENTITY trackingProtection.detectedException "&brandShortName; выявіў элементы, якія могуць асочваць вашы паводзіны ў інтэрнэце. Вы адключылі ахову для гэтага сайта.">
+<!ENTITY trackingProtection.notDetected5 "На гэтай старонцы не выяўлена ніводнага элемента асочвання.">
+<!ENTITY trackingProtection.notDetectedException "На гэтай старонцы не выяўлена ніводнага элемента асочвання. Вы адключылі ахову для гэтага сайта.">
 
+<!ENTITY trackingProtection.reloadRequired2 "Вы ўключылі Ахову ад сачэння. Абнавіце гэту старонку, каб блакаваць элементы сачэння.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock3.label "Адключыць для гэтага сайта">
+<!ENTITY trackingProtection.unblock3.accesskey "А">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate3.label "Адключыць для гэтага сеансу">
+<!ENTITY trackingProtection.unblockPrivate3.accesskey "А">
+<!ENTITY trackingProtection.block4.label "Уключыць для гэтага сайта">
+<!ENTITY trackingProtection.block4.accesskey "У">
+<!ENTITY trackingProtection.reload2.label "Абнавіць старонку">
+<!ENTITY trackingProtection.reload2.accesskey "к">
 
 <!ENTITY pluginNotification.showAll.label "Паказаць усе">
 <!ENTITY pluginNotification.showAll.accesskey "у">
