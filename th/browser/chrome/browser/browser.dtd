@@ -305,6 +305,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "ฟ">
 <!ENTITY newUserContext.label             "แท็บแยกข้อมูลใหม่">
 <!ENTITY newUserContext.accesskey         "ย">
+<!ENTITY manageUserContext.label          "จัดการการแยกข้อมูล">
+<!ENTITY manageUserContext.accesskey      "จ">
 <!ENTITY newNavigatorCmd.label        "หน้าต่างใหม่">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "ห">
@@ -407,8 +409,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
-     in the location bar. These labels are only used in Photon, where you can put
-     items into this menu permanently (pinned). -->
+     in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "เพิ่มไปยังเมนูล้น">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "พ">
 <!ENTITY customizeMenu.moveToToolbar.label "ย้ายไปยังแถบเครื่องมือ">
@@ -420,6 +421,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "ย้ายไปยังเมนู">
 <!ENTITY customizeMenu.moveToPanel.accesskey "ย">
+<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
+     can appear on the same context menu as menubarCmd and personalbarCmd,
+     so they should have different access keys.  -->
 <!ENTITY customizeMenu.pinToOverflowMenu.label "ปักหมุดไปยังเมนูล้น">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "ป">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "ถอนหมุดจากเมนูล้น">
@@ -904,20 +908,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.on "การป้องกันการติดตาม: เปิด">
 <!ENTITY trackingProtection.off "การป้องกันการติดตาม: ปิด">
 <!ENTITY trackingProtection.title "การป้องกันการติดตาม">
-<!ENTITY trackingProtection.tooltip "เปิดค่ากำหนดการป้องกันการติดตาม">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; กำลังปิดกั้นบางส่วนของหน้าที่อาจติดตามการท่องเว็บของคุณ">
 <!ENTITY trackingProtection.detectedNotBlocked3 "ไซต์นี้มีองค์ประกอบที่อาจติดตามการท่องเว็บของคุณ คุณได้ปิดใช้งานการป้องกัน">
 <!ENTITY trackingProtection.notDetected3 "ไม่พบองค์ประกอบที่มีการติดตามในหน้านี้">
-<!ENTITY trackingProtection.detectedNotBlocked4 "ตรวจพบตัวติดตามในหน้าเว็บนี้">
-<!ENTITY trackingProtection.notDetected4 "ไม่พบตัวติดตามในหน้านี้">
-<!ENTITY trackingProtection.reloadRequired "คุณได้เปิดใช้งานการป้องกันการติดตาม เพื่อปิดกั้นตัวติดตามทั้งหมด โปรดโหลดหน้าเว็บปัจจุบันใหม่">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "ปิดใช้งานการป้องกันสำหรับไซต์นี้">
 <!ENTITY trackingProtection.unblock.accesskey "ป">
-<!ENTITY trackingProtection.unblock2.label "เชื่อถือไซต์นี้">
-<!ENTITY trackingProtection.unblock2.accesskey "ช">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -926,12 +924,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "เปิดใช้งานการป้องกัน">
 <!ENTITY trackingProtection.block2.accesskey "ป">
 
-<!ENTITY trackingProtection.unblockPrivate2.label "เชื่อถือไซต์นี้ในวาระนี้">
-<!ENTITY trackingProtection.unblockPrivate2.accesskey "ช">
-<!ENTITY trackingProtection.block3.label "เปิดการป้องกันการติดตาม">
-<!ENTITY trackingProtection.block3.accesskey "ป">
-<!ENTITY trackingProtection.reload.label "โหลดหน้านี้ใหม่">
-<!ENTITY trackingProtection.reload.accesskey "ห">
+<!ENTITY trackingProtection.tooltip "เปิดค่ากำหนดการป้องกันการติดตาม">
+<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; กำลังปิดกั้นบางส่วนของหน้านี้ที่อาจติดตามการท่องเว็บของคุณ">
+
+<!ENTITY trackingProtection.reloadRequired2 "คุณได้เปิดใช้งานการป้องกันการติดตาม โหลดหน้านี้ใหม่เพื่อปิดกั้นตัวติดตามทั้งหมด">
+<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate3.label "ปิดใช้งานในวาระนี้">
+<!ENTITY trackingProtection.unblockPrivate3.accesskey "ป">
+<!ENTITY trackingProtection.reload2.label "โหลดหน้าใหม่">
+<!ENTITY trackingProtection.reload2.accesskey "ห">
 
 <!ENTITY pluginNotification.showAll.label "แสดงทั้งหมด">
 <!ENTITY pluginNotification.showAll.accesskey "ส">
