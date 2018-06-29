@@ -258,6 +258,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
+<!ENTITY customizeMenu.addToPanel.label "Tamah u Menu">
 <!ENTITY customizeMenu.addToPanel.accesskey "M">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
@@ -270,6 +271,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      so they should have different access keys. customizeMenu.moveToToolbar and
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
+<!ENTITY customizeMenu.moveToPanel.label "Pinah u Menu">
 <!ENTITY customizeMenu.moveToPanel.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
      can appear on the same context menu as menubarCmd and personalbarCmd,

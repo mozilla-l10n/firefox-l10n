@@ -401,6 +401,9 @@ sync-signedout-account-signin =
 
 sync-profile-picture =
     .tooltiptext = Gantoë gamba profil
+sync-resend-verification =
+    .label = Kirem Klayi Verifikasi
+    .accesskey = K
 sync-remove-account =
     .label = Sampoh Akun
     .accesskey = A
