@@ -937,6 +937,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.block4.label "Aktivera för den här sidan">
 <!ENTITY trackingProtection.reload2.label "Ladda om sida">
 
 <!ENTITY pluginNotification.showAll.label "Visa alla">
