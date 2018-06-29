@@ -635,7 +635,7 @@
 <!ENTITY appmenuSelectFlagged.label "Pilih Mesej Berbintang">
 
 <!-- Tags Menu Popup -->
-<!ENTITY addNewTag.label "Tab Baru…">
+<!ENTITY addNewTag.label "Tag Baru…">
 <!ENTITY addNewTag.accesskey "B">
 <!ENTITY manageTags.label "Urus Tag…">
 <!ENTITY manageTags.accesskey "U">
