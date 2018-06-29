@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 19em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -137,20 +129,11 @@ is-not-default = { -brand-short-name } non é o navegador predeterminado
 set-as-my-default-browser =
     .label = Estabelecer como predeterminado...
     .accesskey = D
-startup-page = Cando { -brand-short-name } se inicia
-    .accesskey = s
-startup-user-homepage =
-    .label = Amosar a súa páxina de inicio
-startup-blank-page =
-    .label = Amosar unha páxina en branco
-startup-prev-session =
-    .label = Amosar as súas xanelas e lapelas da última vez
 startup-restore-previous-session =
     .label = Restaurar a sesión anterior
     .accesskey = s
 disable-extension =
     .label = Desactivar extensión
-home-page-header = Páxina de inicio
 tabs-group-header = Lapelas
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab para alternar entre as lapelas segundo o seu uso recente
@@ -270,7 +253,6 @@ play-drm-content =
 play-drm-content-learn-more = Máis información
 update-application-title = Actualizacións de { -brand-short-name }
 update-application-description = Manteña { -brand-short-name } actualizado para obter un mellor rendemento, estabilidade e seguranza.
-update-application-info = Versión { $version } <a>Novidades</a>
 update-application-version = Versión { $version } <a data-l10n-name="learn-more">Novidades</a>
 update-history =
     .label = Amosar historial de actualización…
@@ -306,7 +288,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Límite de procesos de contido
     .accesskey = L
 performance-limit-content-process-enabled-desc = Os procesos de contido adicionais poden mellorar o rendemento cando se usan moitas lapelas, pero tamén usarán máis memoria.
-performance-limit-content-process-disabled-desc = Modificar o número de procesos de contido só é posíbel con { -brand-short-name } multiproceso. <a>Coñeza máis sobre como comprobar se o multiproceso está activado</a>
 performance-limit-content-process-blocked-desc = Modificar o número de procesos de contido só é posíbel coa versión multiproceso do { -brand-short-name }. <a data-l10n-name="learn-more">Coñeza máis sobre como comprobar se o multiproceso está activado</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -377,9 +358,6 @@ use-current-pages =
 choose-bookmark =
     .label = Usar marcador…
     .accesskey = U
-restore-default =
-    .label = Restaurar os predeterminados
-    .accesskey = R
 
 ## Search Section
 
@@ -732,6 +710,12 @@ collection-health-report-link = Obter máis información
 collection-studies =
     .label = Permitir a { -brand-short-name } instalar e executar estudios
 collection-studies-link = Ver os estudos de { -brand-short-name }
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = O envío de informes está desactivado nesta configuración de compilación
+collection-browser-errors =
+    .label = Permitir a { -brand-short-name } o envío de informes de erro (incluídas as mensaxes de erro) a { -vendor-short-name }
+    .accesskey = v
 collection-browser-errors-link = Máis información
 collection-backlogged-crash-reports-link = Obter máis información
 
