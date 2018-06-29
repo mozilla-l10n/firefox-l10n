@@ -934,7 +934,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; menyekat sebahagian halaman ini yang mungkin menjejaki pelayaran anda.">
 <!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; telah mengesan unsur yang boleh menjejaki pelayaran anda.">
 <!ENTITY trackingProtection.detectedException "&brandShortName; telah mengesan unsur yang boleh menjejaki pelayaran anda. Anda telah menyahdayakan perlindungan untuk laman ini.">
-<!ENTITY trackingProtection.notDetected5 "Tiada unsur penjejakan yang dikesan dalam halaman ini.">
+<!ENTITY trackingProtection.notDetected5 "Tiada elemen penjejak yang dikesan dalam halaman ini.">
 <!ENTITY trackingProtection.notDetectedException "Tiada unsur penjejakan yang dikesan dalam halaman ini. Anda telah menyahdayakan perlindungan untuk laman ini.">
 
 <!ENTITY trackingProtection.reloadRequired2 "Anda telah dayakan Perlindungan Penjejakan. Muat semula halaman ini untuk menyekat semua penjejak.">
