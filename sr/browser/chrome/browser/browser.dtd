@@ -937,12 +937,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.notDetected5 "На овој страници нису откривени елементи који вас прате.">
 <!ENTITY trackingProtection.notDetectedException "На овој страници нису откривени елементи који вас прате. Онемогућили сте заштиту за овај сајт.">
 
+<!ENTITY trackingProtection.reloadRequired2 "Омогућили сте заштиту од праћења. Обновите страницу да блокирате све пратиоце.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock3.label "Онемогући за овај сајт">
+<!ENTITY trackingProtection.unblock3.accesskey "О">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate3.label "Омогући за ову сесију">
+<!ENTITY trackingProtection.unblockPrivate3.accesskey "О">
+<!ENTITY trackingProtection.block4.label "Омогући за овај сајт">
+<!ENTITY trackingProtection.block4.accesskey "О">
+<!ENTITY trackingProtection.reload2.label "Обнови страницу">
+<!ENTITY trackingProtection.reload2.accesskey "О">
 
 <!ENTITY pluginNotification.showAll.label "Прикажи све">
 <!ENTITY pluginNotification.showAll.accesskey "С">
