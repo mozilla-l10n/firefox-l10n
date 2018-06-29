@@ -717,6 +717,9 @@ collection-browser-errors =
     .label = Permitir a { -brand-short-name } o envío de informes de erro (incluídas as mensaxes de erro) a { -vendor-short-name }
     .accesskey = v
 collection-browser-errors-link = Máis información
+collection-backlogged-crash-reports =
+    .label = Permitir que { -brand-short-name } envíe informes de erros pendentes no seu nome
+    .accesskey = m
 collection-backlogged-crash-reports-link = Obter máis información
 
 ## Privacy Section - Security
@@ -733,10 +736,14 @@ security-enable-safe-browsing-link = Máis información
 security-block-downloads =
     .label = Bloquear descargas perigosas
     .accesskey = d
+security-block-uncommon-software =
+    .label = Avisalo sobre software non desexado e pouco habitual
+    .accesskey = c
 
 ## Privacy Section - Certificates
 
 certs-header = Certificados
+certs-personal-label = Cando un servidor lle solicita un certificado persoal
 certs-select-auto-option =
     .label = Seleccionar un automaticamente
     .accesskey = S
