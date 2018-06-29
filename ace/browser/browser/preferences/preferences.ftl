@@ -364,6 +364,19 @@ search-bar-shown =
     .label = Tamah bar seumeutët bak toolbar
 search-engine-default-header = Meusén Mita Baku
 search-engine-default-desc = Piléh meusén mita teutap keu neungui bak kutak alamat ngön kutak mita
+search-suggestions-option =
+    .label = Seudia saran mita
+    .accesskey = s
+search-show-suggestions-url-bar-option =
+    .label = Peudeuih saran mita lam hasé kutak alamat
+    .accesskey = d
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Peudeuih saran mita di ateueh riwayat peuhah wèb lam hasé kutak alamat
 search-choose-engine-column =
     .label = Meusén Mita
 search-remove-engine =
