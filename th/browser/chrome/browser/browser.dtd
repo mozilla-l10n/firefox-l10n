@@ -926,16 +926,24 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.tooltip "เปิดค่ากำหนดการป้องกันการติดตาม">
 <!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; กำลังปิดกั้นบางส่วนของหน้านี้ที่อาจติดตามการท่องเว็บของคุณ">
+<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; ตรวจพบองค์ประกอบที่อาจติดตามการท่องเว็บของคุณ">
+<!ENTITY trackingProtection.detectedException "&brandShortName; ตรวจพบองค์ประกอบที่อาจติดตามการท่องเว็บของคุณ คุณได้ปิดใช้งานการป้องกันสำหรับไซต์นี้">
+<!ENTITY trackingProtection.notDetected5 "ไม่พบองค์ประกอบที่มีการติดตามในหน้านี้">
+<!ENTITY trackingProtection.notDetectedException "ไม่พบองค์ประกอบที่มีการติดตามในหน้านี้ คุณได้ปิดใช้งานการป้องกันสำหรับไซต์นี้">
 
 <!ENTITY trackingProtection.reloadRequired2 "คุณได้เปิดใช้งานการป้องกันการติดตาม โหลดหน้านี้ใหม่เพื่อปิดกั้นตัวติดตามทั้งหมด">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock3.label "ปิดใช้งานสำหรับไซต์นี้">
+<!ENTITY trackingProtection.unblock3.accesskey "ป">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 <!ENTITY trackingProtection.unblockPrivate3.label "ปิดใช้งานในวาระนี้">
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "ป">
+<!ENTITY trackingProtection.block4.label "เปิดใช้งานสำหรับไซต์นี้">
+<!ENTITY trackingProtection.block4.accesskey "ป">
 <!ENTITY trackingProtection.reload2.label "โหลดหน้าใหม่">
 <!ENTITY trackingProtection.reload2.accesskey "ห">
 
