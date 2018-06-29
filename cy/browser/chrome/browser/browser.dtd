@@ -310,6 +310,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "Tab Cynhwysydd Newydd">
 <!ENTITY newUserContext.accesskey         "y">
+<!ENTITY manageUserContext.label          "Rheoli Cynhwysyddion">
+<!ENTITY manageUserContext.accesskey      "R">
 <!ENTITY newNavigatorCmd.label        "Ffenestr Newydd">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -412,8 +414,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
-     in the location bar. These labels are only used in Photon, where you can put
-     items into this menu permanently (pinned). -->
+     in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Ychwanegu at y Ddewislen Ychwanegol">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "D">
 <!ENTITY customizeMenu.moveToToolbar.label "Symud i'r Bar Offer">
@@ -425,6 +426,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Symud i'r Ddewislen">
 <!ENTITY customizeMenu.moveToPanel.accesskey "m">
+<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
+     can appear on the same context menu as menubarCmd and personalbarCmd,
+     so they should have different access keys.  -->
 <!ENTITY customizeMenu.pinToOverflowMenu.label "Pinio i'r Ddewislen Ychwanegol">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Dadbinio o'r Ddewislen Ychwanegol">
@@ -910,20 +914,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.on "Diogelu rhag Tracio: YMLAEN">
 <!ENTITY trackingProtection.off "Diogelu rhag Tracio: I FFWRDD">
 <!ENTITY trackingProtection.title "Diogelwch Rhag Tracio">
-<!ENTITY trackingProtection.tooltip "Agor Dewisiadau Diogelu rhag Tracio">
 <!ENTITY trackingProtection.detectedBlocked3 "Mae &brandShortName; yn rhwystro rhannau o'r dudalen gall fod yn tracio eich pori.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Rydych wedi analluogi diogelwch ar y dudalen hon. Rydych wedi analluogi diogelwch.">
 <!ENTITY trackingProtection.notDetected3 "Nid oes elfennau tracio wedi eu canfod ar y dudalen hon.">
-<!ENTITY trackingProtection.detectedNotBlocked4 "Mae tracwyr wedi eu canfod ar y dudalen we hon.">
-<!ENTITY trackingProtection.notDetected4 "Heb ganfod tracwyr ar y dudalen we hon.">
-<!ENTITY trackingProtection.reloadRequired "Rydych wedi galluogi Diogelwu rhag Tracio. I rwystro pob traciwr, ail lwythwch y dudalen we yma.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Analluogi diogelwch y wefan hon">
 <!ENTITY trackingProtection.unblock.accesskey "A">
-<!ENTITY trackingProtection.unblock2.label "Ymddiried yn y wefan hon">
-<!ENTITY trackingProtection.unblock2.accesskey "Y">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -932,12 +930,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Galluogi diogelu">
 <!ENTITY trackingProtection.block2.accesskey "G">
 
-<!ENTITY trackingProtection.unblockPrivate2.label "Ymddiried yn y wefan ar gyfer y sesiwn yma">
-<!ENTITY trackingProtection.unblockPrivate2.accesskey "Y">
-<!ENTITY trackingProtection.block3.label "Troi Diogelwch rhag Tracio YMLAEN">
-<!ENTITY trackingProtection.block3.accesskey "T">
-<!ENTITY trackingProtection.reload.label "Ail lwytho'r Dudalen Hon">
-<!ENTITY trackingProtection.reload.accesskey "A">
+<!ENTITY trackingProtection.tooltip "Agor Dewisiadau Diogelu rhag Tracio">
+<!ENTITY trackingProtection.detectedBlocked4 "Mae &brandShortName; yn rhwystro rhannau o'r dudalen hon gall fod yn tracio eich pori.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "Mae &brandShortName; wedi canfod elfennau gall fod yn tracio eich pori.">
+<!ENTITY trackingProtection.detectedException "Mae &brandShortName; wedi canfod elfennau gall fod yn tracio eich pori. Rydych wedi analluogi diogelu ar y wefan hon.">
+<!ENTITY trackingProtection.notDetected5 "Dim elfennau tracio wedi eu canfod ar y dudalen hon.">
+<!ENTITY trackingProtection.notDetectedException "Dim elfennau tracio wedi eu canfod ar y dudalen hon. Rydych wedi analluogi diogelu ar y wefan hon.">
+
+<!ENTITY trackingProtection.reloadRequired2 "Rydych wedi galluogi Diogelu rhag Tracio. Llwythwch y dudalen hon eto i rwystro pob traciwr.">
+<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock3.label "Analluogi ar Gyfer y Wefan Hon">
+<!ENTITY trackingProtection.unblock3.accesskey "A">
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate3.label "Analluogi ar Gyfer y Sesiwn Hwn">
+<!ENTITY trackingProtection.unblockPrivate3.accesskey "A">
+<!ENTITY trackingProtection.block4.label "Galluogi ar gyfer y Wefan Hon">
+<!ENTITY trackingProtection.block4.accesskey "G">
+<!ENTITY trackingProtection.reload2.label "Ail-lwytho Tudalen">
+<!ENTITY trackingProtection.reload2.accesskey "T">
 
 <!ENTITY pluginNotification.showAll.label "Dangos Popeth">
 <!ENTITY pluginNotification.showAll.accesskey "P">
