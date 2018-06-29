@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -137,20 +129,11 @@ is-not-default = { -brand-short-name } är redan standardwebbläsare
 set-as-my-default-browser =
     .label = Ange som standard…
     .accesskey = s
-startup-page = När { -brand-short-name } startar
-    .accesskey = s
-startup-user-homepage =
-    .label = Visa din startsida
-startup-blank-page =
-    .label = Visa en tom sida
-startup-prev-session =
-    .label = Visa dina fönster och flikar från förra gången
 startup-restore-previous-session =
     .label = Återställ föregående session
     .accesskey = s
 disable-extension =
     .label = Inaktivera tillägg
-home-page-header = Startsida
 tabs-group-header = Flikar
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab växlar mellan flikarna i nyligen använd ordning
@@ -268,9 +251,8 @@ play-drm-content =
     .label = Spela DRM-kontrollerat innehåll
     .accesskey = S
 play-drm-content-learn-more = Lär dig mer
-update-application-title = { -brand-short-name } uppdaterar
+update-application-title = Uppdateringar för { -brand-short-name }
 update-application-description = Håll { -brand-short-name } uppdaterad för bästa prestanda, stabilitet och säkerhet.
-update-application-info = Version { $version } <a>Vad är nytt</a>
 update-application-version = Version { $version } <a data-l10n-name="learn-more">Vad är nytt</a>
 update-history =
     .label = Visa uppdateringshistorik…
@@ -306,7 +288,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Gräns för innehållsprocesser
     .accesskey = G
 performance-limit-content-process-enabled-desc = Ytterligare innehållsprocesser kan förbättra prestanda när du använder flera flikar, men kommer också att använda mer minne.
-performance-limit-content-process-disabled-desc = Ändring av antalet innehållsprocesser är endast möjligt med multiprocess { -brand-short-name }. <a>Lär dig hur du kontrollerar om multiprocess är aktiverat</a>
 performance-limit-content-process-blocked-desc = Ändring av antalet innehållsprocesser är endast möjligt med multiprocess { -brand-short-name }. <a data-l10n-name="learn-more">Lär dig hur du kontrollerar om multiprocess är aktiverat</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -377,9 +358,6 @@ use-current-pages =
 choose-bookmark =
     .label = Använd bokmärke…
     .accesskey = d
-restore-default =
-    .label = Återställ standard
-    .accesskey = Å
 
 ## Search Section
 
