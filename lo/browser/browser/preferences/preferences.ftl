@@ -98,6 +98,8 @@ browser-containers-settings =
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = ພາສາແລະລັກສະນະທີ່ປະກົດ
+fonts-and-colors-header = ແບບຕົວຫນັງສື & ສີ
 default-font = ແບບອັກສອນເລີ່ມຕົ້ນ
     .accesskey = ລ
 default-font-size = ຂະຫນາດ
@@ -119,6 +121,7 @@ translate-exceptions =
 
 ## General Section - Files and Applications
 
+files-and-applications-title = ໄຟລ໌ແລະແອັບພລິເຄຊັນ
 download-header = ດາວໂຫລດ
 download-save-to =
     .label = ບັນທຶກເອກະສານໃສ່
@@ -181,6 +184,7 @@ browsing-title = ການທ່ອງເວັບ
 
 ## General Section - Proxy
 
+network-proxy-title = ພຣັອກຊີເຄືອຂ່າຍ
 network-proxy-connection-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 network-proxy-connection-settings =
     .label = ການຕັ້ງຄ່າ…
@@ -189,9 +193,11 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = ວິນໂດແລະແທັບໃຫມ່
+home-new-windows-tabs-description2 = ເລືອກສິ່ງທີ່ທ່ານຕ້ອງການເຫັນເມື່ອທ່ານເປີດຫນ້າຫລັກ, ຫນ້າຕ່າງໃຫມ່, ແລະແທັບໃຫມ່ຂອງທ່ານ.
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = ຫນ້າຫລັກແລະຫນ້າຕ່າງໃຫມ່
 home-newtabs-mode-label = ແທັບໃຫມ່
 home-restore-defaults =
     .label = ກູ້ຄືນຄ່າເລີ່ມຕົ້ນ
@@ -202,6 +208,10 @@ home-mode-choice-default =
     .label = ຫນ້າທຳອິດຂອງ Firefox (ຄ່າເລີ່ມຕົ້ນ)
 home-mode-choice-custom =
     .label = URLs ທີ່ກຳນົດເອງ…
+home-mode-choice-blank =
+    .label = ຫນ້າເປົ່າ
+home-homepage-custom-url =
+    .placeholder = ວາງ URL…
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -357,9 +367,14 @@ sync-fxa-privacy-notice = ນະໂຍບາຍຄວາມເປັນສ່ວ
 
 ## Privacy Section
 
+privacy-header = ຄວາມເປັນສ່ວນຕົວຂອງບຣາວເຊີ
 
 ## Privacy Section - Forms
 
+forms-header = ແບບຟອມ & ລະຫັດຜ່ານ
+forms-ask-to-save-logins =
+    .label = ຖາມເພື່ອບັນທຶກການເຂົ້າສູ່ລະບົບແລະລະຫັດຜ່ານສຳລັບເວັບໄຊ
+    .accesskey = r
 forms-exceptions =
     .label = ຂໍ້ຍົກເວັ້ນ…
     .accesskey = x
@@ -426,8 +441,20 @@ sitedata-total-size-calculating = ກຳລັງຄຳນວນຂໍ້ມູ�
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = ຄຸກກີ້, ຂໍ້ມູນເວັບໄຊ ແລະແຄຊທີ່ຖືກຈັດເກັບໄວ້ຂອງທ່ານໃຊ້ພື້ນທີ່ດິສກ໌ { $value } { $unit }.
 sitedata-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
+sitedata-accept-cookies-option =
+    .label = ຍອມຮັບຄຸກກີ້ແລະຂໍ້ມູນເວັບໄຊຈາກເວັບໄຊ (ແນະນຳ)
+    .accesskey = A
+sitedata-block-cookies-option =
+    .label = ບັອກຄຸກກີ້ແລະຂໍ້ມູນເວັບໄຊ (ອາດສົ່ງຜົນໃຫ້ເວັບໄຊບໍ່ສົມບູນ)
+    .accesskey = B
+sitedata-keep-until = ເກັບຈົນກວ່າ
+    .accesskey = u
 sitedata-keep-until-expire =
     .label = ພວກມັນໝົດອາຍຸ
+sitedata-keep-until-closed =
+    .label = { -brand-short-name } ຖືກປິດ
+sitedata-accept-third-party-desc = ຍອມຮັບຄຸກກີ້ແລະຂໍ້ມູນເວັບໄຊຈາກບຸກຄົນທີ່ສາມ
+    .accesskey = y
 sitedata-accept-third-party-always-option =
     .label = ຕະຫລອດເວລາ
 sitedata-accept-third-party-visited-option =
@@ -437,12 +464,17 @@ sitedata-accept-third-party-never-option =
 sitedata-clear =
     .label = ລ້າງຂໍ້ມູນ…
     .accesskey = l
+sitedata-settings =
+    .label = ຈັດການຂໍ້ມູນ…
+    .accesskey = M
 sitedata-cookies-exceptions =
     .label = ຂໍ້ຍົກເວັ້ນ…
     .accesskey = ຍ
 
 ## Privacy Section - Address Bar
 
+addressbar-header = ແຖບທີ່ຢູ່
+addressbar-suggest = ເມື່ອໃຊ້ແຖບທີ່ຢູ່, ແນະນຳ
 addressbar-locbar-history-option =
     .label = ປະຫວັດການທ່ອງເວັບ
     .accesskey = ປ
@@ -456,6 +488,8 @@ addressbar-locbar-openpage-option =
 ## Privacy Section - Tracking
 
 tracking-header = ການປ້ອງກັນການຕິດຕາມ
+tracking-desc = ການປ້ອງກັນການຕິດຕາມຈະບັອກຕົວຕິດຕາມອອນລາຍທີ່ເກັບລວບລວມຂໍ້ມູນການທ່ອງເວັບຂອງທ່ານໃນຫລາຍໆເວັບໄຊ. <a data-l10n-name="learn-more">ຮຽນຮູ້ເພີ່ມເຕີມກ່ຽວກັບການປ້ອງກັນການຕິດຕາມ ແລະຄວາມເປັນສ່ວນຕົວຂອງທ່ານ</a>
+tracking-mode-label = ໃຊ້ການປ້ອງກັນການຕິດຕາມເພື່ອບັອກຕົວຕິດຕາມທີ່ຮູ້ຈັກ
 tracking-mode-always =
     .label = ຕະຫລອດເວລາ
     .accesskey = ຕ
@@ -465,9 +499,16 @@ tracking-mode-private =
 tracking-mode-never =
     .label = ບໍ່ເຄີຍ
     .accesskey = ບ
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = ໃຊ້ການປ້ອງກັນການຕິດຕາມໃນການທ່ອງເວັບແບບສ່ວນຕົວເພື່ອບັອກຕົວຕິດຕາມທີ່ຮູ້ຈັກ
+    .accesskey = v
 tracking-exceptions =
     .label = ຂໍ້ຍົກເວັ້ນ…
     .accesskey = x
+tracking-change-block-list =
+    .label = ປ່ຽນລາຍການບັອກ…
+    .accesskey = C
 
 ## Privacy Section - Permissions
 
@@ -489,6 +530,15 @@ permissions-notification-settings =
     .label = ການຕັ້ງຄ່າ…
     .accesskey = t
 permissions-notification-link = ຮຽນຮູ້ເພີ່ມເຕີມ
+permissions-notification-pause =
+    .label = ຢຸດການແຈ້ງເຕືອນຊົ່ວຄາວຈົນກວ່າ { -brand-short-name } ເລີ່ມເຮັດວຽກໃຫມ່
+    .accesskey = n
+permissions-block-autoplay-media =
+    .label = ບັອກເວັບໄຊບໍ່ໃຫ້ຫລິ້ນສື່ທີ່ມີສຽງໂດຍອັດຕະໂນມັດ
+    .accesskey = B
+permissions-block-autoplay-media-exceptions =
+    .label = ຂໍ້ຍົກເວັ້ນ…
+    .accesskey = E
 permissions-block-popups =
     .label = ກັນຫນ້າຕ່າງປັອບອັບ
     .accesskey = ກ
@@ -501,10 +551,14 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = ຂໍ້ຍົກເວັ້ນ…
     .accesskey = ຍ
+permissions-a11y-privacy-checkbox =
+    .label = ປ້ອງກັນບໍ່ໃຫ້ບໍລິການການຊ່ວຍການເຂົ້າເຖິງເຂົ້າເຖິງບຣາວເຊີຂອງທ່ານ
+    .accesskey = a
 permissions-a11y-privacy-link = ຮຽນຮູ້ເພີ່ມເຕີມ
 
 ## Privacy Section - Data Collection
 
+collection-header = ການເກັບລວບລວມແລະໃຊ້ຂໍ້ມູນ { -brand-short-name }
 collection-privacy-notice = ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ
 collection-health-report-link = ຮຽນຮູ້ເພີ່ມເຕີມ
 collection-browser-errors-link = ຮຽນຮູ້ເພີ່ມເຕີມ
@@ -516,11 +570,34 @@ collection-backlogged-crash-reports-link = ຮຽນຮູ້ເພີ່ມເ�
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = ຄວາມປອດໄພ
+security-browsing-protection = ການປ້ອງກັນເນື້ອຫາຫລອກລວງແລະຊອບແວທີ່ເປັນອັນຕະລາຍ
+security-enable-safe-browsing =
+    .label = ບັອກເນື້ອຫາທີ່ເປັນອັນຕະລາຍແລະຫລອກລວງ
+    .accesskey = B
 security-enable-safe-browsing-link = ຮຽນຮູ້ເພີ່ມເຕີມ
+security-block-downloads =
+    .label = ບັອກການດາວໂຫລດທີ່ເປັນອັນຕະລາຍ
+    .accesskey = d
+security-block-uncommon-software =
+    .label = ເຕືອນທ່ານກ່ຽວກັບຊອບແວບໍ່ພຶງປະສົງແລະບໍ່ປົກກະຕິ
+    .accesskey = c
 
 ## Privacy Section - Certificates
 
 certs-header = ໃບຮັບຮອງ
+certs-personal-label = ເມື່ອເຊີບເວີຂໍໃບຮັບຮອງສ່ວນບຸກຄົນຂອງທ່ານ
+certs-select-auto-option =
+    .label = ເລືອກມາອັນຫນຶ່ງໂດຍອັດຕະໂນມັດ
+    .accesskey = S
+certs-select-ask-option =
+    .label = ຖາມທ່ານກ່ອນທຸກຄັ້ງ
+    .accesskey = A
+certs-enable-ocsp =
+    .label = ສືບຄົ້ນເຊີບເວີຕອບກັບ OCSP ເພື່ອຢືນຢັນຄວາມຖືກຕ້ອງຂອງໃບຮັບຮອງປະຈຸບັນ
+    .accesskey = Q
+certs-view =
+    .label = ເບິ່ງໃບຮັບຮອງ…
+    .accesskey = C
 certs-devices =
     .label = ອຸປະກອນຄວາມປອດໄພ…
     .accesskey = D
