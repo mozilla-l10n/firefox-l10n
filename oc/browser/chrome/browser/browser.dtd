@@ -214,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Mostrar la notificacion">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Mostrar la demanda de geolocalizacion">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Dobrir lo panèl de lectura automatica">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Mostrar lo messatge d'installation del modul">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Gerir las permission d’extraccion de canvas">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Mostrar lo messatge sus l'emmagazinatge fòra linha">
@@ -241,6 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Avètz blocat las notificacions per aquel site.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Avètz empachat aquel site de gardar de biais persistent de donadas.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Avètz blocat la fenèstras surgentas per aqueste site.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Avètz blocat la lectura automatica dels mèdias amb son per aqueste site.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Avètz empachat aqueste site de traire d’informacions de canvas.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Avètz blocat l’utilizacion d’Adobe Flash en aqueste site.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Avètz blocat l’accès MIDI per aqueste site web.">
@@ -927,13 +929,24 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.accesskey "v">
 
 <!ENTITY trackingProtection.tooltip "Dobrir las preferéncias de proteccion contra lo seguiment">
+<!ENTITY trackingProtection.notDetected5 "Pas cap d'element de seguiment es estat detectat sus aquela pagina.">
+<!ENTITY trackingProtection.notDetectedException "Pas cap d'element de seguiment es estat detectat sus aquela pagina. Avètz desactivat la proteccion per aqueste site.">
 
+<!ENTITY trackingProtection.reloadRequired2 "Avètz activat la proteccion contra lo seguiment. Actualizatz la pagina per blocar totes los traçadors.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock3.label "Desactivar per aqueste site">
+<!ENTITY trackingProtection.unblock3.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate3.label "Desactivar per aquesta session">
+<!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
+<!ENTITY trackingProtection.block4.label "Activar per aqueste site">
+<!ENTITY trackingProtection.block4.accesskey "A">
+<!ENTITY trackingProtection.reload2.label "Actualizar la pagina">
+<!ENTITY trackingProtection.reload2.accesskey "A">
 
 <!ENTITY pluginNotification.showAll.label "Afichar tot">
 <!ENTITY pluginNotification.showAll.accesskey "f">
