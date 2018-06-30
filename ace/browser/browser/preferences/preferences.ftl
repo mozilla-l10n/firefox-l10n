@@ -413,6 +413,7 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = Cok Web Droen Ngön Droen
 sync-signedout-account-signin =
     .label = Tamong...
     .accesskey = T
