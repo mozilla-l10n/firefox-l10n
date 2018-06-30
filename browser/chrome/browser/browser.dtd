@@ -931,7 +931,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.accesskey "å">
 
 <!ENTITY trackingProtection.tooltip "Opne innstillingar for sporingsvern">
+<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; blokkerer delar av denne sida som kan spore nettlesinga di.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; har oppdaga element som kan spore nettlesinga di.">
+<!ENTITY trackingProtection.detectedException "&brandShortName; har oppdaga element som kan spore nettlesinga di. Du har slått av vern på denne sida.">
+<!ENTITY trackingProtection.notDetected5 "Ingen sporingselement er oppdaga på denne sida.">
+<!ENTITY trackingProtection.notDetectedException "Ingen sporingselement er oppdaga på denne sida. Du har slått av vern på denne sida.">
 
+<!ENTITY trackingProtection.reloadRequired2 "Du har slått på Sporingsvern. Oppdater denne sida for å blokkere alle sporfølgjarar.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
@@ -942,6 +948,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 <!ENTITY trackingProtection.unblockPrivate3.label "Slå av for denne økta">
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "ø">
+<!ENTITY trackingProtection.block4.label "Slå på, på denne sida">
+<!ENTITY trackingProtection.block4.accesskey "S">
+<!ENTITY trackingProtection.reload2.label "Oppdater sida">
+<!ENTITY trackingProtection.reload2.accesskey "O">
 
 <!ENTITY pluginNotification.showAll.label "Vis alle">
 <!ENTITY pluginNotification.showAll.accesskey "V">
