@@ -310,6 +310,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "f">
 <!ENTITY newUserContext.label             "Iccer amagbar amaynut">
 <!ENTITY newUserContext.accesskey         "m">
+<!ENTITY manageUserContext.label          "Sefrek imagbaren">
+<!ENTITY manageUserContext.accesskey      "O">
 <!ENTITY newNavigatorCmd.label        "Asfaylu amaynut">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "s">
@@ -929,17 +931,25 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.accesskey "R">
 
 <!ENTITY trackingProtection.tooltip "Ldi ismenyifen n ummesten mgal aḍfar">
+<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; issewḥel kra n yiḥricen n usebter-a izemren ad sfuɣlen tunigin-ik.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; yufa-d iferdisen i izemren ad sfuɣlen tunigin-inek.">
+<!ENTITY trackingProtection.detectedException "&brandShortName; yufa-d iferdisen i izemren ad sfuɣlen tunigin-ik. Tekkseḍ ammesten.">
+<!ENTITY trackingProtection.notDetected5 "Ulac iferdisen iṭafaṛen i ittwafen ɣef usebter-a.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock3.label "Sens i usmel-agi">
+<!ENTITY trackingProtection.unblock3.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 <!ENTITY trackingProtection.unblockPrivate3.label "Sens i tiɣimit-agi">
+<!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
 <!ENTITY trackingProtection.block4.label "Rmed i usmel-agi">
+<!ENTITY trackingProtection.block4.accesskey "E">
 <!ENTITY trackingProtection.reload2.label "Smiren asebter">
+<!ENTITY trackingProtection.reload2.accesskey "R">
 
 <!ENTITY pluginNotification.showAll.label "Sken kullec">
 <!ENTITY pluginNotification.showAll.accesskey "S">
