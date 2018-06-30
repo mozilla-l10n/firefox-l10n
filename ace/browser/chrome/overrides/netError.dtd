@@ -5,6 +5,7 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
+<!ENTITY returnToPreviousPage.label "Gisa Balek">
 
 <!-- Specific error messages -->
 
@@ -17,6 +18,7 @@
 <!ENTITY fileNotFound.title "Beureukaih hana jiteumèë">
 
 
+<!ENTITY generic.title "Oops.">
 
 
 
