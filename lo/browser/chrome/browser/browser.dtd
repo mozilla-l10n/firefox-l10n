@@ -25,6 +25,7 @@
 <!ENTITY  reloadAllTabs.accesskey            "A​">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
+<!ENTITY  duplicateTab.label                 "ເປີດແທັບທີ່ຊ້ຳກັນ">
 <!ENTITY  duplicateTab.accesskey             "D">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
@@ -33,6 +34,9 @@ left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.accesskey        "i">
 <!ENTITY  closeOtherTabs.label               "ປິດແທັບອື່ນໆ">
 <!ENTITY  closeOtherTabs.accesskey           "o">
+
+<!ENTITY  closeSelectedTabs.label            "ປິດແທັບທີ່ເລືອກໄວ້">
+<!ENTITY  closeSelectedTabs.accesskey        "S">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -53,13 +57,15 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "ຢູ່ໃນຄິວ (ອອບລາຍ)">
 <!ENTITY  moveToNewWindow.label              "ຍ້າຍໄປຫນ້າຕ່າງໃຫມ່">
 <!ENTITY  moveToNewWindow.accesskey          "W">
+<!ENTITY  reopenInContainer.label            "ເປີດຄືນໃຫມ່ໃນການແຍກຂໍ້ມູນ">
+<!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkAllTabs.label              "ບຸກມາກແທັບທັງຫມົດ...">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "ເອີ້ນຄືນແທັບທີ່ຫາກໍປິດ">
 <!ENTITY  undoCloseTab.accesskey             "U">
 <!ENTITY  closeTab.label                     "ປິດແທັບ">
 <!ENTITY  closeTab.accesskey                 "C">
-
+<!ENTITY  hiddenTabs.label                   "ແທັບທີ່ເຊື່ອງຢູ່">
 
 <!ENTITY  listAllTabs.label      "ສະແດງລາຍຊື່ແຖບທັງໝົດ">
 
@@ -111,6 +117,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "ຂໍ້ມູນຂອງຫນ້ານີ້">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.label "ໂຕດີບັກເຄົ້າໂຄງ">
 <!ENTITY ldbCmd.accesskey "L">
 <!ENTITY mirrorTabCmd.label "ສະທ້ອນແທັບ">
 <!ENTITY mirrorTabCmd.accesskey "m">
@@ -126,7 +133,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "ສະແດງແທັບທັງຫມົດ">
 <!ENTITY showAllTabsCmd.accesskey "A">
 <!ENTITY toggleReaderMode.key "R">
-
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "ລົງຊື່ເຂົ້າໃຊ້ &syncBrand.shortName.label;">
@@ -166,6 +172,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY pointerlockWarning.beforeDomain.label "">
+<!ENTITY pointerlockWarning.afterDomain.label "ໄດ້ຄວບຄຸມຄົວຊີ້ຂອງທ່ານ. ກົດ Esc ເພື່ອເອົາການຄວບຄຸມກັບຄືນມາ.">
+<!ENTITY pointerlockWarning.generic.label "ເອກະສານນີ້ໄດ້ຄວບຄຸມຕົວຊີ້ຂອງທ່ານ. ກົດ Esc ເພື່ອເອົາການຄວບຄຸມກັບຄືນມາ.">
 
 <!ENTITY closeWindow.label "ປິດຫນ້າຕ່າງ">
 <!ENTITY closeWindow.accesskey "d">
@@ -184,10 +192,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "ບຸກມາກອື່ນໆ">
 <!ENTITY mobileBookmarksCmd.label "ບຸກມາກມືຖື">
 <!ENTITY bookmarksToolbarChevron.tooltip "ສະແດງບຸກມາກເພີ່ມເຕີມ">
-<!ENTITY showRecentlyBookmarked.label     "ສະແດງຫາກໍບຸກມາກມື້ກີ້ນີ້">
-<!ENTITY showRecentlyBookmarked.accesskey "h">
-<!ENTITY hideRecentlyBookmarked.label     "ເຊື່ອງຫາກໍບຸກມາກມື້ກີ້ນີ້">
-<!ENTITY hideRecentlyBookmarked.accesskey "H">
 
 <!ENTITY backCmd.label                "ກັບຄືນ">
 <!ENTITY backCmd.accesskey            "B">
@@ -211,10 +215,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "ຈັດການການໃຊ້ປັກອິນ">
 
 
-
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "ແປຫນ້ານີ້">
-
-
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "ສະແດງປະຫວັດການໃຊ້ງານ">
@@ -223,6 +224,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "ຫນ້າຫລັກ">
+
+<!ENTITY homeButton.defaultPage.tooltip "ຫນ້າຫລັກ &brandShortName;">
 
 <!ENTITY bookmarksButton.label          "ບຸກມາກ">
 <!ENTITY bookmarksCmd.commandkey "b">
@@ -272,11 +275,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "ກວດກາອົງປະກອບ">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
+<!ENTITY inspectA11YContextMenu.label     "ກວດສອບຄຸນສົມບັດການຊ່ວຍການເຂົ້າເຖິງ">
 
 <!ENTITY fileMenu.label         "ໄຟລ໌">
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "ແທັບແຍກຂໍ້ມູນໃຫມ່">
 <!ENTITY newUserContext.accesskey         "B">
+<!ENTITY manageUserContext.label          "ຈັດການການແຍກຂໍ້ມູນ">
+<!ENTITY manageUserContext.accesskey      "O">
 <!ENTITY newNavigatorCmd.label        "ຫນ້າຕ່າງໃຫມ່">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -331,12 +337,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoMenu.label "ແຖບທີ່ຫາກໍ່ປິດໄປມື້ກີ້ນີ້">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "ຫນ້າຕ່າງທີ່ຫາກໍ່ປິດໄປມື້ກີ້ນີ້">
+<!ENTITY historyRestoreLastSession.label "ເອີ້ນຄືນເຊສຊັນກ່ອນຫນ້າ">
 
 <!ENTITY showAllHistoryCmd2.label "ສະແດງປະຫວັດການໃຊ້ງານທັງຫມົດ">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "ສະແດງປະຫວັດການໃຊ້ງານທັງຫມົດ">
 <!ENTITY appMenuHistory.clearRecent.label "ລ້າງປະຫວັດການໃຊ້ງານລ່າສຸດ…">
+<!ENTITY appMenuHistory.restoreSession.label "ເອີ້ນຄືນເຊສຊັນກ່ອນຫນ້າ">
+<!ENTITY appMenuHistory.viewSidebar.label "ເບິ່ງແຖບຂ້າງປະຫວັດການໃຊ້ງານລ່າສຸດ">
+<!ENTITY appMenuHistory.recentHistory.label "ປະຫວັດການໃຊ້ງານລ່າສຸດ">
 <!ENTITY appMenuHelp.label "ວິທີໃຊ້">
 
 <!ENTITY appMenuRemoteTabs.label "ແທັບທີ່ຊິງຄ໌ແລ້ວ">
@@ -358,23 +368,25 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "ຕ້ອງການໃຫ້ເຫັນແທັບທີ່ນີ້ຂອງທ່ານໄດ້ຈາກອຸປະກອນອື່ນໆບໍ່?">
-<!ENTITY appMenuRemoteTabs.openprefs.label "ການຕັ້ງຄ່າ Sync">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "ເປີດການຕັ້ງຄ່າ Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "ລົງຊື່ເຂົ້າໃຊ້ເພື່ອເບິ່ງລາຍການແທັບທີ່ເປີດຢູ່ໃນອຸປະກອນອື່ນໆຂອງທ່ານ.">
 <!ENTITY appMenuRemoteTabs.unverified.label "ບັນຊີຂອງທ່ານຕ້ອງໄດ້ຮັບການຢືນຢັນ.">
 <!ENTITY appMenuRemoteTabs.signin.label "ລົງຊື່ເຂົ້າໃຊ້ເພື່ອ Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "ຈັດການອຸປະກອນ...">
+<!ENTITY appMenuRemoteTabs.sidebar.label "ເບິ່ງແຖບຂ້າງແທັບທີ່ຊິງຄ໌ແລ້ວ">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "ເຊື່ອມຕໍ່ກັບອຸປະກອນອື່ນ">
 
+<!ENTITY appMenuRecentHighlights.label "ລາຍການເດັ່ນລ່າສຸດ">
 
 <!ENTITY customizeMenu.addToToolbar.label "ເພີ່ມລົງໃນແຖບເຄື່ອງມື">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
+<!ENTITY customizeMenu.addToPanel.label "ເພີ່ມລົງໃນເມນູ">
 <!ENTITY customizeMenu.addToPanel.accesskey "M">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
-     in the location bar. These labels are only used in Photon, where you can put
-     items into this menu permanently (pinned). -->
+     in the location bar. -->
+<!ENTITY customizeMenu.addToOverflowMenu.label "ເພີ່ມລົງໃນເມນູລົ້ນ">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.moveToToolbar.label "ຍ້າຍໄປທີ່ແຖບເຄື່ອງມື">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "o">
@@ -384,12 +396,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.accesskey "o">
+<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
+     can appear on the same context menu as menubarCmd and personalbarCmd,
+     so they should have different access keys.  -->
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
 <!ENTITY customizeMenu.removeFromToolbar.label "ເອົາອອກຈາກແຖບເຄື່ອງມື">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.removeFromMenu.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
+
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -724,7 +740,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "ຂໍ້ມູນເພີ່ມເຕີມ">
 
+
 <!ENTITY identity.permissions "ການອະນຸຍາດ">
+
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -825,6 +843,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "ເປີດໃຊ້ການປ້ອງກັນ">
 <!ENTITY trackingProtection.block2.accesskey "E">
 
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+
 <!ENTITY pluginNotification.showAll.label "ສະແດງທັງຫມົດ">
 <!ENTITY pluginNotification.showAll.accesskey "S">
 
@@ -880,12 +906,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "ເລີ່ມການທຳງານໃຫມ່ເພື່ອອັບເດດ &brandShorterName;">
 
-
 <!ENTITY newTabControlled.keepButton.label "ເກັບການປ່ຽນແປງ">
 <!ENTITY newTabControlled.keepButton.accesskey "K">
-<!ENTITY newTabControlled.restoreButton.label "ກູ້ຄືນການຕັ້ງຄ່າ">
-<!ENTITY newTabControlled.restoreButton.accesskey "R">
-
 <!ENTITY newTabControlled.disableButton.label "ປິດໃຊ້ສ່ວນຂະຫຍາຍ">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
@@ -893,6 +915,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.keepButton.accesskey "K">
 <!ENTITY homepageControlled.disableButton.label "ປິດໃຊ້ສ່ວນຂະຫຍາຍ">
 <!ENTITY homepageControlled.disableButton.accesskey "D">
+
 
 
 <!ENTITY pageAction.sendTabToDevice.label "ສົ່ງແທັບໄປຫາອຸປະກອນ">
