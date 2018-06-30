@@ -402,6 +402,12 @@ search-keyword-warning-bookmark = Droeneuh ka neupiléh narit gunci nyang jinoe 
 ## Containers Section
 
 containers-back-link = « Gisa
+containers-header = Tab Kontainer
+containers-add-button =
+    .label = Tamah Kontainer Barô
+    .accesskey = T
+containers-preferences-button =
+    .label = Atô
 containers-remove-button =
     .label = Sampoh
 
