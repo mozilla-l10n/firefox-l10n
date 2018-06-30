@@ -3,5 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 select-bookmark-window =
-    .title = ຕັ້ງໃຫ້ໜ້ານີ້ເປັນໜ້າທຳອິດ
+    .title = ຕັ້ງຫນ້າຫລັກ
     .style = width: 32em;
+select-bookmark-desc = ເລືອກບຸກມາກທີ່ທ່ານຕ້ອງການຕັ້ງເປັນຫນ້າຫລັກ. ຖ້າທ່ານເລືອກໂຟນເດີ, ບຸກມາກທັງຫມົດໃນໂຟນເດີດັ່ງກ່າວຈະຖືກເປີດໃນແທັບ.

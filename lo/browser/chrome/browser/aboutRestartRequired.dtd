@@ -1,0 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY restartRequired.title "ຕ້ອງເລີ່ມເຮັດວຽກໃຫມ່">
+
+<!ENTITY restartRequired.header "ຂໍອະໄພ. ພວກເຮົາຈຳເປັນຕ້ອງເຮັດສິ່ງນ້ອຍໆອີກຫນຶ່ງຢ່າງເພື່ອດຳເນີນການຕໍ່.">
+<!ENTITY restartRequired.description "
+<p>ເຮົາໄດ້ເຮັດການຕິດຕັ້ງການອັບເດດໃນພື້ນຫລັງແລ້ວ. ກົດ ເລີ່ມເຮັດວຽກ &brandShortName; ໃຫມ່ເພື່ອໃຫ້ການອັບເດດສຳເລັດສົມບູນ.</p>
+<p>ພວກເຮົາຈະເອີ້ນຄືນຫນ້າ, ຫນ້າຕ່າງ ແລະແທັບທັງຫມົດຂອງທ່ານຫລັງຈາກການຕິດຕັ້ງສຳເລັດແລ້ວ, ເຊິ່ງທ່ານສາມາດກັບມາເຮັດວຽກຂອງທ່ານຕໍ່ໄດ້ຢ່າງວ່ອງໄວ.</p>">
+
+<!ENTITY restartButton.label "ເລີ່ມເຮັດວຽກ &brandShortName; ໃຫມ່">
