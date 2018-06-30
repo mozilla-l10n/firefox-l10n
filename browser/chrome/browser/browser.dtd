@@ -20,6 +20,10 @@
 <!ENTITY closeOtherTabs.accesskey "a">
 <!ENTITY closeSelectedTabs.label "Chiudi schede selezionate">
 <!ENTITY closeSelectedTabs.accesskey "z">
+<!ENTITY pinSelectedTabs.label "Appunta schede">
+<!ENTITY pinSelectedTabs.accesskey "h">
+<!ENTITY unpinSelectedTabs.label "Rilascia schede">
+<!ENTITY unpinSelectedTabs.accesskey "h">
 <!ENTITY pinTab.label "Appunta scheda">
 <!ENTITY pinTab.accesskey "h">
 <!ENTITY unpinTab.label "Rilascia scheda">
