@@ -310,6 +310,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "Ф">
 <!ENTITY newUserContext.label             "Новая вкладка в контейнере">
 <!ENTITY newUserContext.accesskey         "а">
+<!ENTITY manageUserContext.label          "Управление контейнерами">
+<!ENTITY manageUserContext.accesskey      "й">
 <!ENTITY newNavigatorCmd.label        "Новое окно">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "Н">
@@ -931,13 +933,25 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.tooltip "Открыть настройки Защиты от отслеживания">
 <!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; блокирует части этой страницы, которые могут отслеживать ваше поведение в Интернете.">
 <!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; определил элементы, которые могут отслеживать ваше поведение в Интернете.">
+<!ENTITY trackingProtection.detectedException "&brandShortName; определил элементы, которые могут отслеживать ваше поведение в Интернете. Вы отключили защиту для этого сайта.">
+<!ENTITY trackingProtection.notDetected5 "На этой странице не обнаружено ни одного отслеживающего элемента.">
+<!ENTITY trackingProtection.notDetectedException "На этой странице не обнаружено ни одного отслеживающего элемента. Вы отключили защиту для этого сайта.">
 
+<!ENTITY trackingProtection.reloadRequired2 "Вы включили Защиту от отслеживания. Перезагрузите эту страницу, чтобы заблокировать все трекеры.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock3.label "Отключить для этого сайта">
+<!ENTITY trackingProtection.unblock3.accesskey "ю">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate3.label "Отключить на эту сессию">
+<!ENTITY trackingProtection.unblockPrivate3.accesskey "ю">
+<!ENTITY trackingProtection.block4.label "Включить для этого сайта">
+<!ENTITY trackingProtection.block4.accesskey "л">
+<!ENTITY trackingProtection.reload2.label "Перезагрузить страницу">
+<!ENTITY trackingProtection.reload2.accesskey "з">
 
 <!ENTITY pluginNotification.showAll.label "Показать все">
 <!ENTITY pluginNotification.showAll.accesskey "о">
