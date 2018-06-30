@@ -21,7 +21,7 @@
 <!ENTITY safeb.blocked.unwantedPage.title "Pagina que compòrta de logicials pas desirats !">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "La pagina web de <span id='unwanted_sitename'/> es estat raportat coma un site d’atac e l’avèm blocat en nos basar sus vòstras preferéncias de seguretat.">
-<!ENTITY safeb.blocked.unwantedPage.longDesc "De paginas d’un logicial pas desirat ensajan d’installar un logicial que pòt èsser enganaire e tocar vòstre sistèma d’un biais imprevist.">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "De paginas d’un logicial pas desirat ensajan d’installar de logicials que pòdon èsser enganaires e tocar vòstre sistèma d’un biais imprevist.">
 
 <!ENTITY safeb.blocked.harmfulPage.title "Aqueste site pòt conténer de logicials malvolents">
 <!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; a blocat aquesta pagina qu’auriá pogut installar d’aplicacions perilhosas capablas de raubar o suprimir vòstras donadas (per exemple, fotografias, senhals, messatges e cartas de crèdit).">
