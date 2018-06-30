@@ -193,7 +193,7 @@ advanced-fonts =
     .accesskey = L
 colors-settings =
     .label = Wareuna...
-    .accesskey = W
+    .accesskey = a
 language-header = Basa
 choose-language-description = Neupiléh basa nyang droen galak mangat deuh bak ôn keu
 choose-button =
@@ -357,7 +357,7 @@ choose-bookmark =
 
 ## Search Section
 
-search-bar-header = Bar seumeutët
+search-bar-header = Bar seumeutöt
 search-bar-hidden =
     .label = Ngui bar àlamat keu seumeutët dan navigasi
 search-bar-shown =
