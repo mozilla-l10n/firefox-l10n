@@ -12,11 +12,19 @@
 ### across the developer tools. A good criteria is the language in which you'd find the
 ### best documentation on web development on the web.
 
+# Text displayed next to the list of Service Workers to encourage users to check out
+# about:debugging to see all registered Service Workers.
+serviceworker-list-aboutdebugging = ניתן לפתוח את <a>about:debugging</a> עבור Service Workers ממתחמים אחרים
+# Text for the button to unregister a Service Worker. Displayed for active Service Workers.
+serviceworker-worker-unregister = ביטול רישום
 # Text for the debug link displayed for an already started Service Worker. Clicking on the
 # link opens a new devtools toolbox for this service worker. The title attribute is only
 # displayed when the link is disabled.
 serviceworker-worker-debug = ניפוי שגיאות
     .title = ניתן לנפות שגיאות רק ב־service workers פעילים
+# Text for the start link displayed for a registered but not running Service Worker.
+# Clicking on the link will attempt to start the service worker.
+serviceworker-worker-start = התחלה
 # Text displayed for the updated time of the service worker. The <time> element will
 # display the last update time of the service worker script.
 serviceworker-worker-updated = התעדכן ב־<time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
@@ -33,6 +41,9 @@ serviceworker-worker-status = מצב
 serviceworker-worker-status-running = פועל
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = נעצר
+# Service Worker status. A registering service worker is not yet registered and cannot be
+# started or debugged.
+serviceworker-worker-status-registering = בהליך הרשמה
 # Text displayed when no service workers are visible for the current page. Clicking on the
 # link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro = עליך לרשום Service Worker כדי לחקור אותו כאן. <a>מידע נוסף</a>
