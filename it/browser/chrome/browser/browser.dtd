@@ -537,6 +537,8 @@
 <!ENTITY spellAddDictionaries.label "Aggiungi dizionari…">
 <!ENTITY spellAddDictionaries.accesskey "z">
 <!ENTITY editBookmark.done.label "Fatto">
+<!ENTITY editBookmark.showForNewBookmarks.label "Visualizza editor quando si salva">
+<!ENTITY editBookmark.showForNewBookmarks.accesskey "V">
 <!ENTITY editBookmark.removeBookmark.accessKey "s">
 <!ENTITY identity.securityView.label "Sicurezza del sito">
 <!ENTITY identity.connectionSecure "Connessione sicura">
