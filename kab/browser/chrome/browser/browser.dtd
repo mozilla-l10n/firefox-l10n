@@ -939,6 +939,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 <!ENTITY trackingProtection.unblockPrivate3.label "Sens i tiɣimit-agi">
 <!ENTITY trackingProtection.block4.label "Rmed i usmel-agi">
+<!ENTITY trackingProtection.reload2.label "Smiren asebter">
 
 <!ENTITY pluginNotification.showAll.label "Sken kullec">
 <!ENTITY pluginNotification.showAll.accesskey "S">
