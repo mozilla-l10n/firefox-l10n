@@ -134,7 +134,7 @@ startup-restore-previous-session =
     .accesskey = g
 disable-extension =
     .label = Pumaté Èkstènsi
-tabs-group-header = Tab
+tabs-group-header = Tab tab
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab keu peugantoe antar tab nyang ban meungui
     .accesskey = t
@@ -178,7 +178,7 @@ containers-remove-alert-msg =
        *[other] Miseu neubëh kontener nyôe jinoe,{ $count } tab kontener geu tôb ju. Pue droeneuh neu keuneuk bëh kontener nyôe?
     }
 containers-remove-ok-button = Bëh kontener nyôe
-containers-remove-cancel-button = Bék neubëh kontener nyôe
+containers-remove-cancel-button = Bék neuböh kontener nyôe
 
 ## General Section - Language & Appearance
 
@@ -413,15 +413,28 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
-sync-signedout-caption = Cok Web Droen Ngön Droen
+sync-signedout-caption = Cok Web Droen Sajan Droen
+sync-signedout-description = Sinkron bookmark droen, history, tab, lageuem rahsia, add-on, dan preferensi antara mandum peukakah droen.
+sync-signedout-account-title = Meuhubông ngön saboh { -fxaccount-brand-name }
+sync-signedout-account-create = Hana akun lom? Jak ta peuphôn
+    .accesskey = J
 sync-signedout-account-signin =
-    .label = Tamong...
+    .label = Tamöng...
     .accesskey = T
+# This message contains two links and two icon images.
+#   `<img data-l10n-name="android-icon"/>` - Android logo icon
+#   `<a data-l10n-name="android-link">` - Link to Android Download
+#   `<img data-l10n-name="ios-icon">` - iOS logo icon
+#   `<a data-l10n-name="ios-link">` - Link to iOS Download
+#
+# They can be moved within the sentence as needed to adapt
+# to your language, but should not be changed or translated.
+sync-mobile-promo = Donlod Firefox keu <img data-l10n-name="android-icon"/><a data-l10n-name="android-link"> Android </a> atawa <img data-l10n-name="ios-icon"/><a data-l10n-name="ios-link"> iOS</a> bah jeut saban hi lam peukakah mobile droen.
 
 ## Sync Section - Signed in
 
 sync-profile-picture =
-    .tooltiptext = Gantoë gamba profil
+    .tooltiptext = Gantoe gamba profil
 sync-resend-verification =
     .label = Kirem Klayi Verifikasi
     .accesskey = K
