@@ -938,6 +938,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 <!ENTITY trackingProtection.unblockPrivate3.label "Sens i tiɣimit-agi">
+<!ENTITY trackingProtection.block4.label "Rmed i usmel-agi">
 
 <!ENTITY pluginNotification.showAll.label "Sken kullec">
 <!ENTITY pluginNotification.showAll.accesskey "S">
