@@ -80,13 +80,13 @@
 <!ENTITY url_bar_mic_text2 "ניתן להשתמש במיקרופון שלך כדי לחפש או להקליד כתובת">
 
 <!ENTITY bookmark "הוספה לסימניות">
-<!ENTITY bookmark_remove "מחיקת סימניה">
-<!ENTITY bookmark_added "נוספה סימניה">
+<!ENTITY bookmark_remove "מחיקת סימנייה">
+<!ENTITY bookmark_added "נוספה סימנייה">
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
-<!ENTITY bookmark_already_added "סימניה כבר קיימת">
-<!ENTITY bookmark_removed "סימניה נמחקה">
+<!ENTITY bookmark_already_added "כבר נוצרה סימנייה">
+<!ENTITY bookmark_removed "סימנייה נמחקה">
 <!ENTITY bookmark_updated "סימניה עודכנה">
 <!ENTITY bookmark_options "אפשרויות">
 <!ENTITY bookmark_save "שמירה">
@@ -160,7 +160,7 @@
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
-<!ENTITY locale_system_default "בררת מחדל של המערכת">
+<!ENTITY locale_system_default "ברירת מחדל של המערכת">
 
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
@@ -170,8 +170,8 @@
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
-<!ENTITY overlay_share_bookmark_btn_label "הוספת סימניה">
-<!ENTITY overlay_share_bookmark_btn_label_already "כבר נוצרה סימניה">
+<!ENTITY overlay_share_bookmark_btn_label "הוספה לסימניות">
+<!ENTITY overlay_share_bookmark_btn_label_already "כבר נוצרה סימנייה">
 <!ENTITY overlay_share_send_other "שליחה להתקנים אחרים">
 
 <!ENTITY overlay_share_open_browser_btn_label "פתיחה ב־&brandShortName;">
@@ -188,7 +188,7 @@
 <!ENTITY overlay_no_synced_devices "לא אותרו התקנים המחוברים ל־Firefox Account">
 
 <!ENTITY pref_category_search3 "חיפוש">
-<!ENTITY pref_category_search_summary2 "הוספה, הגדרת בררת מחדל, הצגת הצעות">
+<!ENTITY pref_category_search_summary2 "הוספה, הגדרת ברירת מחדל, הצגת הצעות">
 <!ENTITY pref_category_accessibility "נגישות">
 <!ENTITY pref_category_accessibility_summary2 "גודל טקסט, מרחק מתצוגה, קלט קולי">
 <!ENTITY pref_category_privacy_short "פרטיות">
@@ -401,14 +401,14 @@
 <!ENTITY pref_private_data_downloadFiles2 "הורדות">
 <!ENTITY pref_private_data_syncedTabs "לשוניות מסונכרנות">
 
-<!ENTITY pref_default_browser "הגדרה כדפדפן בררת המחדל">
+<!ENTITY pref_default_browser "הגדרה כדפדפן ברירת המחדל">
 <!ENTITY pref_default_browser_mozilla_support_tablet "ביקור באתר התמיכה של Mozilla">
 <!ENTITY pref_about_firefox "מידע על &brandShortName;">
 <!ENTITY pref_vendor_faqs "תשובות לשאלות נפוצות">
 <!ENTITY pref_vendor_feedback "שליחת משוב">
 
-<!ENTITY pref_dialog_set_default "הגדרה כבררת מחדל">
-<!ENTITY pref_dialog_default "בררת מחדל">
+<!ENTITY pref_dialog_set_default "הגדרה כברירת מחדל">
+<!ENTITY pref_dialog_default "ברירת מחדל">
 <!ENTITY pref_dialog_remove "מחיקה">
 <!ENTITY pref_dialog_activitystream_header_content "תכנים נוספים">
 <!ENTITY pref_dialog_activitystream_recentBookmarks "סימניות אחרונות">
@@ -558,7 +558,7 @@
 <!ENTITY page_removed "הדף הוסר">
 <!ENTITY folder_removed "התיקיה הוסרה">
 
-<!ENTITY bookmark_edit_title "עריכת סימניה">
+<!ENTITY bookmark_edit_title "עריכת סימנייה">
 <!ENTITY bookmark_edit_folder_title "עריכת תיקייה">
 <!ENTITY bookmark_edit_name "שם">
 <!ENTITY bookmark_edit_location "מיקום">
@@ -608,7 +608,7 @@
 <!ENTITY home_bookmarks_empty "סימניות שנשמרו יופיעו כאן.">
 <!ENTITY home_closed_tabs_title2 "נסגרו לאחרונה">
 <!ENTITY home_last_tabs_empty "הלשוניות האחרונות שלך יופיעו כאן.">
-<!ENTITY home_restore_all "שחזור הכול">
+<!ENTITY home_restore_all "שחזור הכל">
 <!ENTITY home_closed_tabs_number "&formatD; לשוניות">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_closed_tabs_one "לשונית אחת">
@@ -847,7 +847,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_first_offline_bookmark_button "מעבר לסימניות">
 
 <!ENTITY helper_triple_readerview_open_title "‏‏זמין במצב לא מקוון">
-<!ENTITY helper_triple_readerview_open_message "ניתן להוסיף סימניה של פריטי תצוגת הקריאה כדי לקרוא אותם ללא חיבור לאינטרנט.">
+<!ENTITY helper_triple_readerview_open_message "ניתן להוסיף סימנייה של פריטי תצוגת הקריאה כדי לקרוא אותם ללא חיבור לאינטרנט.">
 <!ENTITY helper_triple_readerview_open_button "הוספה לסימניות">
 
 <!ENTITY activity_stream_topsites "אתרים מובילים">
@@ -860,7 +860,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
-<!ENTITY activity_stream_highlight_label_bookmarked "נשמר בסימניות">
+<!ENTITY activity_stream_highlight_label_bookmarked "שמור כסימנייה">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "ביקורים קודמים">
