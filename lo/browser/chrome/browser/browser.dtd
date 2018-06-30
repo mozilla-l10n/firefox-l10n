@@ -930,7 +930,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "ບໍ່ແມ່ນຕອນນີ້">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
-<!ENTITY updateRestart.panelUI.label2 "ເລີ່ມການທຳງານໃຫມ່ເພື່ອອັບເດດ &brandShorterName;">
+<!ENTITY updateRestart.panelUI.label2 "ເລີ່ມເຮັດວຽກໃຫມ່ເພື່ອອັບເດດ &brandShorterName;">
 
 <!ENTITY newTabControlled.keepButton.label "ເກັບການປ່ຽນແປງ">
 <!ENTITY newTabControlled.keepButton.accesskey "K">
@@ -942,6 +942,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.disableButton.label "ປິດໃຊ້ສ່ວນຂະຫຍາຍ">
 <!ENTITY homepageControlled.disableButton.accesskey "D">
 
+<!ENTITY tabHideControlled.header.message "ເຂົ້າເຖິງແທັບທີ່ເຊື່ອງຢູ່ຂອງທ່ານ">
+<!ENTITY tabHideControlled.keepButton.label "ເຊື່ອງແທັບຕໍ່ໄປ">
+<!ENTITY tabHideControlled.keepButton.accesskey "K">
+<!ENTITY tabHideControlled.disableButton.label "ປິດໃຊ້ສ່ວນຂະຫຍາຍ">
+<!ENTITY tabHideControlled.disableButton.accesskey "D">
 
 
 <!ENTITY pageAction.sendTabToDevice.label "ສົ່ງແທັບໄປຫາອຸປະກອນ">

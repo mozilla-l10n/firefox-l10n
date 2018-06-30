@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -41,9 +33,12 @@ pane-general-title = ທົ່ວໄປ
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = ຫນ້າທຳອິດ
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = ຊອກຫາ
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title = ຄວາມເປັນສ່ວນຕົວ & ຄວາມປອດໄພ
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 # The word "account" can be translated, do not translate or transliterate "Firefox".
@@ -83,17 +78,8 @@ startup-header = ເລີ່ມເຮັດວຽກ
 set-as-my-default-browser =
     .label = ເຮັດໃຫ້ເປັນຄ່າເລີ່ມຕົ້ນ…
     .accesskey = ຄ
-startup-page = ເມື່ອ { -brand-short-name } ເລີ່ມການທຳງານ
-    .accesskey = ລ
-startup-user-homepage =
-    .label = ສະແດງຫນ້າທຳອິດຂອງທ່ານ
-startup-blank-page =
-    .label = ສະແດງຫນ້າເປົ່າ
-startup-prev-session =
-    .label = ສະແດງຫນ້າຕ່າງແລະແທັບຂອງທ່ານຈາກຄັ້ງລ່າສຸດ
 disable-extension =
     .label = ປິດໃຊ້ສ່ວນຂະຫຍາຍ
-home-page-header = ຫນ້າທຳອິດ
 tabs-group-header = ແທັບ
 warn-on-close-multiple-tabs =
     .label = ແຈ້ງເຕືອນທ່ານເມື່ອມີການປີດຫຼາຍໜ້າຕ່າງພ້ອມກັນ
@@ -207,9 +193,6 @@ use-current-pages =
 choose-bookmark =
     .label = ໃຊ້ບຸກມາກ…
     .accesskey = ບ
-restore-default =
-    .label = ກັບຄືນສູ່ຄ່າພື້ນຖານ
-    .accesskey = ກ
 
 ## Search Section
 
