@@ -83,6 +83,13 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = באפשרותך לציין לאלו אתרים מותר להתקין תוספות. הקלד את הכתובת המדויקת של האתר שברצונך להרשות ואז לחץ על הרשה.
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = אתרים מורשים - הפעלה אוטומטית
+    .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc = באפשרותך לציין לאלו אתרים מותר לנגן באופן אוטומטי רכיבי מדיה. הקלד את הכתובת המדויקת של האתר שברצונך להרשות ואז לחץ על הרשה.
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =

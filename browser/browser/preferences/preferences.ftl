@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -137,20 +129,11 @@ is-not-default = { -brand-short-name } אינו דפדפן בררת המחדל �
 set-as-my-default-browser =
     .label = הגדרה כדפדפן בררת המחדל…
     .accesskey = ב
-startup-page = כאשר { -brand-short-name } מופעל
-    .accesskey = כ
-startup-user-homepage =
-    .label = יוצג דף הבית
-startup-blank-page =
-    .label = יוצג דף ריק
-startup-prev-session =
-    .label = יוצגו החלונות והלשוניות מהפעם האחרונה
 startup-restore-previous-session =
     .label = שחזור הפעלה קודמת
     .accesskey = ש
 disable-extension =
     .label = נטרול הרחבה
-home-page-header = דף הבית
 tabs-group-header = לשוניות
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab מחליף את הלשוניות לפי סדר השימוש בהן
@@ -212,7 +195,7 @@ advanced-fonts =
     .label = מתקדם...
     .accesskey = מ
 colors-settings =
-    .label = צבעים...
+    .label = צבעים…
     .accesskey = צ
 language-header = שפה
 choose-language-description = בחירת השפה המועדפת עליך להצגת דפים
@@ -270,7 +253,6 @@ play-drm-content =
 play-drm-content-learn-more = מידע נוסף
 update-application-title = עדכוני { -brand-short-name }
 update-application-description = כדאי להשאיר את { -brand-short-name } עדכני לטובת ביצועים, יציבות ואבטחה ברמה הטובה ביותר.
-update-application-info = גרסה { $version } <a>מה חדש</a>
 update-application-version = גרסה { $version } <a data-l10n-name="learn-more">מה חדש</a>
 update-history =
     .label = הצגת היסטורית עדכונים…
@@ -306,7 +288,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = הגבלת תהליך תוכן
     .accesskey = ה
 performance-limit-content-process-enabled-desc = תהליכי תוכן נוספים עשויים לשפר את הביצועים בעת שימוש במספר לשוניות, עם זאת יעשה שימוש ביותר זיכרון.
-performance-limit-content-process-disabled-desc = שינוי מספר תהליכי תוכן אפשרי רק עם { -brand-short-name } מרובה תהליכים. <a>כיצד לבדוק אם ריבוי תהליכים מופעל</a>
 performance-limit-content-process-blocked-desc = שינוי מספר תהליכי תוכן אפשרי רק עם { -brand-short-name } מרובה תהליכים. <a data-l10n-name="learn-more">כיצד לבדוק אם ריבוי תהליכים מופעל</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -356,7 +337,7 @@ home-restore-defaults =
 # "Firefox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = דף הבית של Firefox (ברירת מחדל)
+    .label = מסך הבית של Firefox (ברירת מחדל)
 home-mode-choice-custom =
     .label = כתובות מותאמות אישית…
 home-mode-choice-blank =
@@ -377,9 +358,6 @@ use-current-pages =
 choose-bookmark =
     .label = שימוש בסימנייה…
     .accesskey = ס
-restore-default =
-    .label = שחזור לבררת המחדל
-    .accesskey = ש
 
 ## Search Section
 
