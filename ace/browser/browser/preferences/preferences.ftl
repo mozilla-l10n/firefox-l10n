@@ -397,6 +397,7 @@ search-keyword-warning-title = Narit Gunci Ganda
 # Variables:
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Droeneuh ka neupiléh narit gunci nyang jinoe jingui lé { $name }. Neupiléh narit gunci la'én.
+search-keyword-warning-bookmark = Droeneuh ka neupiléh narit gunci nyang jinoe jingui lé bookmark. Neupiléh nyang la'én.
 
 ## Containers Section
 
