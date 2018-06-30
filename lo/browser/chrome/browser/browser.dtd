@@ -411,6 +411,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "ເພີ່ມລາຍການຕື່ມ…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
+<!ENTITY customizeMenu.autoHideDownloadsButton.label "ເຊື່ອງອັດຕະໂນມັດໃນແຖບເຄື່ອງມື">
+<!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
+<!ENTITY customizeMenu.manageExtension.label "ຈັດການສ່ວນຂະຫຍາຍ">
+<!ENTITY customizeMenu.manageExtension.accesskey "E">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -427,6 +431,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "ເຄັດລັບ:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hint "ຮັບຄວາມຊ່ວຍເຫລືອໃນການຄົ້ນຫາສິ່ງຕ່າງໆ! ມອງຫາ &#x1F50E; ຖັດຈາກຄຳແນະນຳການຊອກຫາ.">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "ປ່ຽນຕົວເລືອກ…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "ປ່ຽນແປງການຕັ້ງຄ່າ…">
@@ -848,15 +853,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectMicrophone.label "ໄມໂຄຣໂຟນທີ່ແບ່ງປັນ:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 
+<!ENTITY trackingProtection.on "ການປ້ອງກັນການຕິດຕາມ: ເປີດ">
+<!ENTITY trackingProtection.off "ການປ້ອງກັນການຕິດຕາມ: ປິດ">
 <!ENTITY trackingProtection.title "ການປ້ອງກັນການຕິດຕາມ">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; ກຳລັງບັອກເນື້ອບາງສ່ວນຂອງຫນ້ານີ້ທີ່ອາດຈະເຮັດໃຫ້ການທ່ອງເວັບຂອງທ່ານຖືກຕິດຕາມ.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock.label "ປິດການປ້ອງກັນສຳລັບເວັບໄຊທ໌ນີ້">
 <!ENTITY trackingProtection.unblock.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate.label "ປິດການປ້ອງກັນສຳລັບເຊສຊັນນີ້">
 <!ENTITY trackingProtection.unblockPrivate.accesskey "D">
 <!ENTITY trackingProtection.block2.label "ເປີດໃຊ້ການປ້ອງກັນ">
 <!ENTITY trackingProtection.block2.accesskey "E">
@@ -897,22 +906,34 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
+<!ENTITY panicButton.view.mainTimeframeDesc       "ລືມກ່ອນຫນ້ານີ້:">
+<!ENTITY panicButton.view.5min                    "5 ນາທີ">
+<!ENTITY panicButton.view.2hr                     "2 ຊົ່ວໂມງ">
+<!ENTITY panicButton.view.day                     "24 ຊົ່ວໂມງ">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
+<!ENTITY panicButton.view.mainActionDesc          "ການດຳເນີນການຕໍ່ຈະ:">
+<!ENTITY panicButton.view.deleteCookies           "ລຶບ<html:strong>ຄຸກກີ້</html:strong>ລ່າສຸດ">
+<!ENTITY panicButton.view.deleteHistory           "ລຶບ<html:strong>ປະຫວັດ</html:strong>ລ່າສຸດ">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "ປິດ<html:strong>ແທັບ</html:strong>ແລະ<html:strong>ຫນ້າຕ່າງ</html:strong>ທັງຫມົດ">
 <!ENTITY panicButton.view.openNewWindow           "ເປີດຫນ້າຕ່າງວ່າງໃຫມ່">
 
+<!ENTITY panicButton.view.undoWarning             "ການກະທຳນີ້ບໍ່ສາມາດຍົກເລີກໄດ້.">
 <!ENTITY panicButton.view.forgetButton            "ລືມສາ!">
 
+<!ENTITY panicButton.thankyou.msg1                "ປະຫວັດການໃຊ້ງານລ່າສຸດຂອງທ່ານຖືກລ້າງແລ້ວ.">
 <!ENTITY panicButton.thankyou.msg2                "ການທ່ອງເວັບປອດໄພ!">
 <!ENTITY panicButton.thankyou.buttonlabel         "ຂອບໃຈ!">
 
 <!ENTITY emeLearnMoreContextMenu.label            "ຮຽນຮູ້ເພີ່ມເຕີມກ່ຽວກັບ DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.message "ອັບເດດ &brandShorterName; ເພື່ອຄວາມໄວແລະຄວາມເປັນສ່ວນຕົວລ່າສຸດ.">
 <!ENTITY updateAvailable.whatsnew.label "ເບິ່ງວ່າມີຫຍັງໃໝ່.">
+<!ENTITY updateAvailable.header.message "ມີການອັບເດດ &brandShorterName; ໃຫມ່.">
 <!ENTITY updateAvailable.acceptButton.label "ດາວໂຫລດອັບເດດ">
 <!ENTITY updateAvailable.acceptButton.accesskey "D">
 <!ENTITY updateAvailable.cancelButton.label "ບໍ່ແມ່ນຕອນນີ້">
@@ -948,12 +969,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tabHideControlled.disableButton.label "ປິດໃຊ້ສ່ວນຂະຫຍາຍ">
 <!ENTITY tabHideControlled.disableButton.accesskey "D">
 
+<!ENTITY pageActionButton.tooltip "ການກະທຳຂອງຫນ້າ">
+<!ENTITY pageAction.addToUrlbar.label "ເພີ່ມລົງໃນແຖບທີຢູ່">
+<!ENTITY pageAction.removeFromUrlbar.label "ລຶບອອກຈາກແຖບທີ່ຢູ່">
+<!ENTITY pageAction.allowInUrlbar.label "ສະແດງໃນແຖບທີ່ຢູ່">
+<!ENTITY pageAction.disallowInUrlbar.label "ບໍ່ຕ້ອງສະແດງໃນແຖບທີ່ຢູ່">
+<!ENTITY pageAction.manageExtension.label "ຈັດການສ່ວນຂະຫຍາຍ…">
 
 <!ENTITY pageAction.sendTabToDevice.label "ສົ່ງແທັບໄປຫາອຸປະກອນ">
 <!ENTITY sendToDevice.syncNotReady.label "ກຳລັງ Sync ອຸປະກອນ…">
 
 <!ENTITY pageAction.shareUrl.label "ແບ່ງປັນ">
 
+<!ENTITY libraryButton.tooltip "ເບິ່ງປະຫວັດການໃຊ້ງານ, ບຸກມາກທີ່ບັນທຶກໄວ້, ແລະອື່ນໆ">
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
