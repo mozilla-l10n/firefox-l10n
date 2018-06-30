@@ -951,6 +951,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block4.label "Ativar para este site">
 <!ENTITY trackingProtection.block4.accesskey "E">
 <!ENTITY trackingProtection.reload2.label "Recarregar página">
+<!ENTITY trackingProtection.reload2.accesskey "R">
 
 <!ENTITY pluginNotification.showAll.label "Mostrar tudo">
 <!ENTITY pluginNotification.showAll.accesskey "x">
