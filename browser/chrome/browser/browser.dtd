@@ -181,7 +181,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.label "Marcapaginas">
 <!ENTITY bookmarksMenu.accesskey "M">
 <!ENTITY bookmarkThisPageCmd.label "Marcar aquesta pagina">
-<!ENTITY editThisBookmarkCmd.label "Modificar aqueste marcapaginas">
+<!ENTITY editThisBookmarkCmd.label "Modificar aqueste marcapagina">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY subscribeToPageMenupopup.label "S'abonar a aquesta pagina">
@@ -410,8 +410,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
-     in the location bar. These labels are only used in Photon, where you can put
-     items into this menu permanently (pinned). -->
+     in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Apondre al menú desbordament">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.moveToToolbar.label "Desplaçar cap a la barra d'aisinas">
@@ -423,6 +422,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Desplaçar cap al menú">
 <!ENTITY customizeMenu.moveToPanel.accesskey "D">
+<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
+     can appear on the same context menu as menubarCmd and personalbarCmd,
+     so they should have different access keys.  -->
 <!ENTITY customizeMenu.pinToOverflowMenu.label "Penjar al menú de desbordament">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Levar del menú de desbordament">
@@ -908,12 +910,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.on "Proteccion contra lo seguiment : ACTIVADA">
 <!ENTITY trackingProtection.off "Proteccion contra lo seguiment : DESACTIVADA">
 <!ENTITY trackingProtection.title "Proteccion contra lo seguiment">
-<!ENTITY trackingProtection.tooltip "Dobrir las preferéncias de proteccion contra lo seguiment">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; a blocat d'elements de la pagina que pòdon pistar vòstra navegacion.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Aquel site compren d'elements que pòdon pistar vòstra navegacion. Avètz desactivat la proteccion.">
 <!ENTITY trackingProtection.notDetected3 "Pas cap d'element de seguiment es estat detectat sus aquela pagina.">
-<!ENTITY trackingProtection.detectedNotBlocked4 "Avèm trobat de traçadors sus aquesta pagina web.">
-<!ENTITY trackingProtection.notDetected4 "Avèm pas trobat cap de traçadors sus aquesta pagina.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
@@ -927,7 +926,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Activar la proteccion">
 <!ENTITY trackingProtection.block2.accesskey "v">
 
-<!ENTITY trackingProtection.reload.label "Actualizar la pagina">
+<!ENTITY trackingProtection.tooltip "Dobrir las preferéncias de proteccion contra lo seguiment">
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
 
 <!ENTITY pluginNotification.showAll.label "Afichar tot">
 <!ENTITY pluginNotification.showAll.accesskey "f">

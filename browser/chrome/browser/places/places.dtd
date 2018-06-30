@@ -70,11 +70,8 @@
 <!ENTITY cmd.new_separator.label           "Separator novèl">
 <!ENTITY cmd.new_separator.accesskey       "S">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Tornar cargar lo marcapaginas dinamic">
+<!ENTITY cmd.reloadLivebookmark.label      "Tornar cargar lo marcapagina dinamic">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "T">
-
-<!ENTITY cmd.moveBookmarks.label                  "Desplaçar…">
-<!ENTITY cmd.moveBookmarks.accesskey              "D">
 
 <!ENTITY col.name.label          "Nom">
 <!ENTITY col.tags.label          "Etiquetas">
