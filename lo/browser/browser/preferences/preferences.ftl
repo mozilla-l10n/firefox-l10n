@@ -45,6 +45,7 @@ category-privacy =
 pane-sync-title = ບັນຊີ Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
+help-button-label = ການສະຫນັບສະຫນູນ { -brand-short-name }
 focus-search =
     .key = f
 close-button =
@@ -78,12 +79,18 @@ startup-header = ເລີ່ມເຮັດວຽກ
 set-as-my-default-browser =
     .label = ເຮັດໃຫ້ເປັນຄ່າເລີ່ມຕົ້ນ…
     .accesskey = ຄ
+startup-restore-previous-session =
+    .label = ເອີ້ນຄືນເຊສຊັນກ່ອນຫນ້າ
+    .accesskey = s
 disable-extension =
     .label = ປິດໃຊ້ສ່ວນຂະຫຍາຍ
 tabs-group-header = ແທັບ
 warn-on-close-multiple-tabs =
     .label = ແຈ້ງເຕືອນທ່ານເມື່ອມີການປີດຫຼາຍໜ້າຕ່າງພ້ອມກັນ
     .accesskey = ຫ
+browser-containers-enabled =
+    .label = ເປີດໃຊ້ງານແທັບແຍກຂໍ້ມູນ
+    .accesskey = n
 browser-containers-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 browser-containers-settings =
     .label = ການຕັ້ງຄ່າ…
@@ -142,6 +149,22 @@ update-application-title = ອັບເດດ { -brand-short-name }
 update-history =
     .label = ສະແດງປະຫວັດການອັບເດດ…
     .accesskey = ອ
+update-application-allow-description = ອະນຸຍາດໃຫ້ { -brand-short-name }
+update-application-auto =
+    .label = ຕິດຕັ້ງອັບເດດອັດຕະໂນມັດ (ແນະນຳ)
+    .accesskey = A
+update-application-check-choose =
+    .label = ກວດຫາການອັບເດດແຕ່ໃຫ້ທ່ານເລືອກວ່າຈະຕິດຕັ້ງພາຍຫລັງບໍ່
+    .accesskey = C
+update-application-manual =
+    .label = ບໍ່ຕ້ອງກວດຫາການອັບເດດ (ບໍ່ແນະນຳ)
+    .accesskey = N
+update-application-use-service =
+    .label = ໃຊ້ບໍລິການພື້ນຫລັງໃນການຕິດຕັ້ງການອັບເດດ
+    .accesskey = b
+update-enable-search-update =
+    .label = ອັບເດດເຄື່ອງມືການຊອກຫາໂດຍອັດຕະໂນມັດ
+    .accesskey = e
 
 ## General Section - Performance
 
@@ -232,6 +255,10 @@ search-keyword-warning-bookmark = ທ່ານໄດ້ເລືອກເອົ�
 ## Containers Section
 
 containers-back-link = « ກັບຄືນ
+containers-header = ແທັບແຍກຂໍ້ມູນ
+containers-add-button =
+    .label = ເພີ່ມການແຍກຂໍ້ມູນໃຫມ່
+    .accesskey = A
 containers-preferences-button =
     .label = ຕັ້ງຄ່າ
 containers-remove-button =
@@ -240,11 +267,22 @@ containers-remove-button =
 ## Sync Section - Signed out
 
 sync-signedout-caption = ນຳເອົາເວັບຂອງທ່ານໄປກັບທ່ານ
+sync-signedout-description = ເຊື່ອມຂໍ້ມູນບຸກມາກ, ປະຫວັດການໃຊ້ງານລ່າສຸດ, ແທັບ, ລະຫັດຜ່ານ, ສ່ວນເສີມ, ແລະການຕັ້ງຄ່າຂອງທ່ານໃຫ້ກົງກັນໃນທຸກໆອຸປະກອນ.
+sync-signedout-account-title = ເຊື່ອມຕໍ່ດ້ວຍ { -fxaccount-brand-name }
 sync-signedout-account-create = ບໍ່ມີບັນຊີຢູ່ແລ້ວ? ເລີ່ມລົງທະບຽນເລີຍ
     .accesskey = c
 sync-signedout-account-signin =
     .label = ລົງຊື່ເຂົ້າໃຊ້…
     .accesskey = I
+# This message contains two links and two icon images.
+#   `<img data-l10n-name="android-icon"/>` - Android logo icon
+#   `<a data-l10n-name="android-link">` - Link to Android Download
+#   `<img data-l10n-name="ios-icon">` - iOS logo icon
+#   `<a data-l10n-name="ios-link">` - Link to iOS Download
+#
+# They can be moved within the sentence as needed to adapt
+# to your language, but should not be changed or translated.
+sync-mobile-promo = ດາວໂຫລດ Firefox ສຳລັບ <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> ຫລື <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> ເພື່ອຊິງຄ໌ກັບອຸປະກອນມືຖືຂອງທ່ານ.
 
 ## Sync Section - Signed in
 
