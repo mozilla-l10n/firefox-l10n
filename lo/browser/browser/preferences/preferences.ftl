@@ -286,15 +286,26 @@ sync-mobile-promo = ດາວໂຫລດ Firefox ສຳລັບ <img data-l10n
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = ປ່ຽນຮູບປະຈຳຕົວ
 sync-disconnect =
     .label = ຕັດການເຊື່ອມຕໍ່…
     .accesskey = D
 sync-manage-account = ຈັດການບັນຊີ
     .accesskey = o
+sync-signedin-unverified = { $email } ຍັງບໍ່ທັນຖືກກວດສອບ.
+sync-signedin-login-failure = ກະລຸນາລົງຊື່ເຂົ້າໃຊ້ເພື່ອເຊື່ອມຕໍ່ { $email } ໃຫມ່
+sync-resend-verification =
+    .label = ສົ່ງການກວດສອບໃຫມ່
+    .accesskey = d
+sync-remove-account =
+    .label = ລຶບບັນຊີ
+    .accesskey = R
 sync-sign-in =
     .label = ລົງຊື່ເຂົ້າໃຊ້
     .accesskey = g
 sync-signedin-settings-header = ການຕັ້ງຄ່າ Sync
+sync-signedin-settings-desc = ເລືອກຂໍ້ມູນທີ່ຈະເຊື່ອມໃນອຸປະກອນຂອງທ່ານໂດຍໃຊ້ { -brand-short-name }
 sync-engine-bookmarks =
     .label = ບຸກມາກ
     .accesskey = m
@@ -313,6 +324,14 @@ sync-engine-addresses =
     .label = ທີ່ຢູ່
     .tooltiptext = ທີ່ຢູ່ໄປສະນີທີ່ທ່ານບັນທຶກໄວ້ (ສະເພາະເກືອບເທົ່ານັ້ນ)
     .accesskey = e
+sync-engine-creditcards =
+    .label = ບັດເຄດິດ
+    .tooltiptext = ຊື່, ຫມາຍເລກ ແລະວັນຫມົດອາຍຸ (ເດສທອບເທົ່ານັ້ນ)
+    .accesskey = C
+sync-engine-addons =
+    .label = ໂປແກມເສີມ
+    .tooltiptext = ສ່ວນເສີມແລະຊຸດຕົກແຕ່ງສຳລັບເດສທອບ Firefox
+    .accesskey = A
 sync-engine-prefs =
     .label =
         { PLATFORM() ->
@@ -322,6 +341,9 @@ sync-engine-prefs =
     .tooltiptext = ການຄັ້ງຄ່າທົ່ວໄປ, ສ່ວນໂຕ, ແລະຄວາມປອດໄພທີ່ທ່ານໄດ້ປ່ຽນແປງ
     .accesskey = s
 sync-device-name-header = ຊື່ອຸປະກອນ
+sync-device-name-change =
+    .label = ປ່ຽນຊື່ອຸປະກອນ…
+    .accesskey = h
 sync-device-name-cancel =
     .label = ຍົກເລີກ
     .accesskey = n
@@ -329,6 +351,7 @@ sync-device-name-save =
     .label = ບັນທຶກ
     .accesskey = v
 sync-mobilepromo-single = ເຊື່ອມຕໍ່ກັບອຸປະກອນອື່ນ
+sync-mobilepromo-multi = ຈັດການອຸປະກອນ
 sync-tos-link = ເງື່ອນໄຂການໃຫ້ບໍລິການ
 sync-fxa-privacy-notice = ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ
 
@@ -378,9 +401,15 @@ history-private-browsing-permanent =
 history-remember-option =
     .label = ບັນທຶກການຄົ້ນຫາຂອງຂ້ອຍ ແລະ ປະຫວັດການດາວໂຫລດ
     .accesskey = b
+history-remember-browser-option =
+    .label = ບັນທຶກການຄົ້ນຫາ ແລະ ປະຫວັດການດາວໂຫລດ
+    .accesskey = b
 history-remember-search-option =
-    .label = ຈົດຈຳການຄົ້ນຫາ ແລະ ຮູບແບບປະຫວັດການໃຊ້ງານ
+    .label = ບັນທຶກການຄົ້ນຫາ ແລະ ປະຫວັດແບບຟອມ
     .accesskey = f
+history-clear-on-close-option =
+    .label = ລ້າງປະຫວັດການໃຊ້ງານເມື່ອປິດ { -brand-short-name }
+    .accesskey = r
 history-clear-on-close-settings =
     .label = ຕັ້ງຄ່າ…
     .accesskey = t
@@ -390,6 +419,12 @@ history-clear-button =
 
 ## Privacy Section - Site Data
 
+sitedata-header = ຄຸກກີ້ແລະຂໍ້ມູນເວັບໄຊ
+sitedata-total-size-calculating = ກຳລັງຄຳນວນຂໍ້ມູນເວັບໄຊ…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = ຄຸກກີ້, ຂໍ້ມູນເວັບໄຊ ແລະແຄຊທີ່ຖືກຈັດເກັບໄວ້ຂອງທ່ານໃຊ້ພື້ນທີ່ດິສກ໌ { $value } { $unit }.
 sitedata-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 sitedata-keep-until-expire =
     .label = ພວກມັນໝົດອາຍຸ
