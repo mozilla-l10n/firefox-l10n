@@ -65,7 +65,6 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.accesskey             "ב">
 <!ENTITY  closeTab.label                     "סגירת לשונית">
 <!ENTITY  closeTab.accesskey                 "ס">
-
 <!ENTITY  hiddenTabs.label                   "לשוניות מוסתרות">
 
 <!ENTITY  listAllTabs.label      "רשימת כל הלשוניות">
@@ -215,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "פתיחת חלונית הודעות">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "פתיחת חלונית בקשת מיקום">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "פתיחת לוח ניגון אוטומטי">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "פתיחת חלונית ההודעות של התקנת תוספות">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "ניהול הרשאות חילוץ ממשטח ציור">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "פתיחת חלונית הודעת אחסון לא מקוון">
@@ -223,7 +223,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "החלפת מצב קבלת התרעות מהאתר">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "שמירת נתונים באחסון קבוע">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "הדפדפן נשלט מרחוק">
-
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "פתיחת חלונית Web Authentication">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "ניהול שיתוף המצלמה ו/או המיקרופון שלך עם האתר">
@@ -234,7 +233,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "תרגום עמוד זה">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "ניהול תרגומי עמודים">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "ניהול השימוש בתכניות DRM">
-<!ENTITY urlbar.midiNotificationAnchor.tooltip            "פתיחת לוח MIDI">
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "פתיחת חלונית MIDI">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "חסמת את המצלמה שלך מפני אתר זה.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "חסמת את המיקרופון שלך מפני אתר זה.">
@@ -243,6 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "האפשרות להציג הודעות נחסמה מפני אתר זה.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "חסמת את האתר הזה משמירת נתונים קבועים.">
 <!ENTITY urlbar.popupBlocked.tooltip             "חסמת חלונות קופצים עבור אתר זה.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "חסמת ניגון אוטומטי של מדיה עם קול באתר הזה.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "חילוץ נתוני משטחי ציור עבור אתר זה נחסמה.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "חסמת מפני האתר הזה את האפשרות להשתמש בתוסף החיצוני Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "חסמת גישת MIDI לאתר זה.">
@@ -310,6 +310,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "ק">
 <!ENTITY newUserContext.label             "מגירת לשוניות חדשה">
 <!ENTITY newUserContext.accesskey         "ג">
+<!ENTITY manageUserContext.label          "ניהול מגירות">
+<!ENTITY manageUserContext.accesskey      "ג">
 <!ENTITY newNavigatorCmd.label        "חלון חדש">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "ח">
@@ -412,8 +414,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
-     in the location bar. These labels are only used in Photon, where you can put
-     items into this menu permanently (pinned). -->
+     in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "הוספה לתפריט הצף">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "ס">
 <!ENTITY customizeMenu.moveToToolbar.label "העברה לסרגל כלים">
@@ -425,6 +426,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "העברה לתפריט">
 <!ENTITY customizeMenu.moveToPanel.accesskey "ע">
+<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
+     can appear on the same context menu as menubarCmd and personalbarCmd,
+     so they should have different access keys.  -->
 <!ENTITY customizeMenu.pinToOverflowMenu.label "הצמדה לתפריט הצף">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "צ">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "הסרת הצמדה מהתפריט הצף">
@@ -745,7 +749,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "כ">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
-<!ENTITY findOnCmd.label     "מצא בדף זה…">
+<!ENTITY findOnCmd.label     "חיפוש בדף זה…">
 <!ENTITY findOnCmd.accesskey "מ">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "מצא שוב">
@@ -806,6 +810,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions "הרשאות">
 <!ENTITY identity.permissionsEmpty "לא סופקו לאתר זה הרשאות מיוחדות.">
 <!ENTITY identity.permissionsReloadHint "יתכן שיהיה עליך לרענן את העמוד כדי שהשינויים ייכנסו לתוקף.">
+
+<!ENTITY identity.permissionsPreferences.tooltip "פתיחת העדפות הרשאות">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -905,8 +911,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "השמע מהלשונית יהיה שיתופי.">
 <!ENTITY getUserMedia.allWindowsShared.message "ישותפו כל החלונות הגלויים על המסך.">
 
+<!ENTITY trackingProtection.on "הגנת מעקב: פעילה">
+<!ENTITY trackingProtection.off "הגנת מעקב: כבויה">
 <!ENTITY trackingProtection.title "הגנת מעקב">
-<!ENTITY trackingProtection.tooltip "פתיחת העדפות הגנת מעקב">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; חוסם חלקים מהדף שעשויים לעקוב אחר הגלישה שלך.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "אתר זה כולל רכיבים שעשויים לעקוב אחר הגלישה שלך. נטרלת את ההגנה.">
 <!ENTITY trackingProtection.notDetected3 "לא זוהו פריטים שעוקבים אחריך בדף זה.">
@@ -922,6 +929,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "נ">
 <!ENTITY trackingProtection.block2.label "הפעלת הגנה">
 <!ENTITY trackingProtection.block2.accesskey "פ">
+
+<!ENTITY trackingProtection.tooltip "פתיחת העדפות הגנת מעקב">
+<!ENTITY trackingProtection.detectedBlocked4 "‏&brandShortName; חוסם חלקים מהעמוד הזה שעשויים לעקוב אחר הגלישה שלך.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "‏&brandShortName; זיהה רכיבים שעשויים לעקוב אחר הגלישה שלך.">
+<!ENTITY trackingProtection.detectedException "‏&brandShortName; זיהה רכיבים שעשויים לעקוב אחר הגלישה שלך. השבתת את ההגנה לאתר זה.">
+<!ENTITY trackingProtection.notDetected5 "לא זוהו רכיבי מעקב בעמוד זה.">
+<!ENTITY trackingProtection.notDetectedException "לא זוהו רכיבי מעקב בעמוד זה. השבתת את ההגנה לאתר זה.">
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock3.label "השבתה לאתר זה">
+<!ENTITY trackingProtection.unblock3.accesskey "ש">
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate3.label "השבתה להפעלה זו">
+<!ENTITY trackingProtection.unblockPrivate3.accesskey "ש">
+<!ENTITY trackingProtection.block4.label "השבתה לאתר זה">
+<!ENTITY trackingProtection.block4.accesskey "א">
 
 <!ENTITY pluginNotification.showAll.label "הצגת הכול">
 <!ENTITY pluginNotification.showAll.accesskey "כ">
