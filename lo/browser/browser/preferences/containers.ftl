@@ -2,6 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+containers-window-new =
+    .title = ເພີ່ມການແຍກຂໍ້ມູນໃຫມ່
+    .style = width: 45em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update =
+    .title = ການຕັ້ງຄ່າການແຍກຂໍ້ມູນ { $name }
+    .style = width: 45em
 containers-window-close =
     .key = w
 # This is a term to store style to be applied
@@ -17,6 +25,8 @@ containers-window-close =
 containers-name-label = ຊື່
     .accesskey = ຊ
     .style = { -containers-labels-style }
+containers-name-text =
+    .placeholder = ໃສ່ຊື່ການແຍກຂໍ້ມູນ
 containers-icon-label = ໄອຄອນ
     .accesskey = ອ
     .style = { -containers-labels-style }
@@ -46,12 +56,22 @@ containers-icon-fingerprint =
     .label = ລາຍນິ້ວມື
 containers-icon-briefcase =
     .label = ກະເປົາໃສ່ເອກະສານ
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+containers-icon-dollar =
+    .label = ເຄື່ອງຫມາຍໂດລາ
+containers-icon-cart =
+    .label = ລົດເຂັນ
 containers-icon-circle =
     .label = ຈຸດ
 containers-icon-vacation =
     .label = ເວລາພັກຜ່ອນ
+containers-icon-gift =
+    .label = ຂອງຂວັນ
 containers-icon-food =
     .label = ອາຫານ
+containers-icon-fruit =
+    .label = ຫມາກໄມ້
 containers-icon-pet =
     .label = ສັດລ້ຽງ
 containers-icon-tree =

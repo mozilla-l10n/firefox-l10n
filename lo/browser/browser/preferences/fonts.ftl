@@ -3,18 +3,20 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 fonts-window =
-    .title = ຟັອນ
+    .title = ແບບຕົວຫນັງສື
 fonts-window-close =
     .key = w
 
 ## Font groups by language
 
+fonts-langgroup-header = ແບບຕົວຫນັງສືສຳລັບ
+    .accesskey = F
 fonts-langgroup-arabic =
-    .label = ອາຣັບ
+    .label = ພາສາອາຣັບ
 fonts-langgroup-armenian =
-    .label = ​ອາກ​ເມ​ນີ
+    .label = ພາສາອາກເມນີ
 fonts-langgroup-bengali =
-    .label = ບັງກະລາເດດ
+    .label = ພາສາບັງກະລາເດດ
 fonts-langgroup-simpl-chinese =
     .label = ພາສາຈີນຕົວຫຍໍ້
 fonts-langgroup-trad-chinese-hk =
@@ -64,9 +66,15 @@ fonts-langgroup-thai =
     .label = ໄທ
 fonts-langgroup-tibetan =
     .label = ຕິເບດ
+fonts-langgroup-canadian =
+    .label = ອັກສອນພະຍາງພື້ນເມືອງການາດາ
+fonts-langgroup-other =
+    .label = ລະບົບການຂຽນອື່ນໆ
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = ຄວາມກວ້າງຕາມສັດສ່ວນ
+    .accesskey = P
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
@@ -77,16 +85,29 @@ fonts-serif = Serif
     .accesskey = S
 fonts-sans-serif = Sans-serif
     .accesskey = n
+fonts-monospace = ຄວາມກວ້າງຄົງທີ່
+    .accesskey = M
 fonts-monospace-size = ຂະຫນາດ
     .accesskey = ຂ
+fonts-minsize = ຂະຫນາດແບບຕົວຫນັງສືຕ່ຳສຸດ
+    .accesskey = o
 fonts-minsize-none =
     .label = ບໍ່ມີ
+fonts-allow-own =
+    .label = ອະນຸຍາດໃຫ້ຫນ້າຕ່າງໆເລືອກໃຊ້ແບບຕົວຫນັງສືຂອງຕົວເອງ, ແທນທີ່ຈະເປັນທີ່ທ່ານເລືອກໄວ້ດ້ານເທິງ
+    .accesskey = A
 
 ## Text Encodings
 ##
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-header = ການເຂົ້າລະຫັດຂໍ້ຄວາມສຳລັບເນື້ອຫາແບບເກົ່າ
+fonts-languages-fallback-desc = ການເຂົ້າລະຫັດຂໍ້ຄວາມນີ້ຖືກໃຊ້ສຳລັບເນື້ອຫາແບບເກົ່າທີ່ບໍ່ສາມາດປະກາດການເຂົ້າລະຫັດໄດ້.
+fonts-languages-fallback-label = ການເຂົ້າລະຫັດຂໍ້ຄວາມທີ່ໃຊ້ສະແດງແທນ
+    .accesskey = T
+fonts-languages-fallback-name-auto =
+    .label = ຄ່າເລີ່ມຕົ້ນສຳລັບພາສາຖິ່ນປະຈຸບັນ
 fonts-languages-fallback-name-arabic =
     .label = ອາຣັບ
 fonts-languages-fallback-name-baltic =
@@ -115,6 +136,10 @@ fonts-languages-fallback-name-turkish =
     .label = ຕວກກີ
 fonts-languages-fallback-name-vietnamese =
     .label = ຫວຽດນາມ
+fonts-languages-fallback-name-other =
+    .label = ອື່ນໆ (ລວມທັງເອີລົບຕາເວັນຕົກ)
+fonts-very-large-warning-title = ຂະຫນາດແບບຕົວຫນັງສືຕ່ຳສຸດທີ່ໃຫຍ່
+fonts-very-large-warning-accept = ເກັບການປ່ຽນແປງຂອງຂ້ອຍຕໍ່ໄປ
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
