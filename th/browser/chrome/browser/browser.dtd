@@ -1032,6 +1032,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.disableButton.accesskey "ป">
 
 <!ENTITY tabHideControlled.header.message "เข้าถึงแท็บที่ซ่อนอยู่ของคุณ">
+<!ENTITY tabHideControlled.keepButton.label "ซ่อนแท็บต่อไป">
+<!ENTITY tabHideControlled.keepButton.accesskey "อ">
 <!ENTITY tabHideControlled.disableButton.label "ปิดใช้งานส่วนขยาย">
 <!ENTITY tabHideControlled.disableButton.accesskey "ป">
 
