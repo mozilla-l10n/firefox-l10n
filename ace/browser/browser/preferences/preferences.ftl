@@ -379,11 +379,24 @@ search-show-suggestions-above-history-option =
     .label = Peudeuih saran mita di ateueh riwayat peuhah wèb lam hasé kutak alamat
 search-suggestions-cant-show = Saran mita hana geupeudeuih lam hasé kutak teumpat keureuna droeneuh ka neuatô { -brand-short-name } mangat bèk jiingat riwayat 
 search-one-click-header = Meusén Mita Sigo-Teugön
+search-one-click-desc = Piléh meusén mita geunantoe nyang leumah di yup kutak alamat ngön kutak mita watèe neumulai peutamong narit gunci
 search-choose-engine-column =
     .label = Meusén Mita
+search-choose-keyword-column =
+    .label = Narit Gunci
+search-restore-default =
+    .label = Peuriwang Meusén Mita Teutap
+    .accesskey = P
 search-remove-engine =
     .label = Sampôh
     .accesskey = S
+search-find-more-link = Kalön meusén mita la'én
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Narit Gunci Ganda
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Droeneuh ka neupiléh narit gunci nyang jinoe jingui lé { $name }. Neupiléh narit gunci la'én.
 
 ## Containers Section
 
