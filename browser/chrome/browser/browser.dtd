@@ -412,8 +412,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
-     in the location bar. These labels are only used in Photon, where you can put
-     items into this menu permanently (pinned). -->
+     in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Қайта аймалау мәзіріне қосу">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "м">
 <!ENTITY customizeMenu.moveToToolbar.label "Құралдар панеліне жылжыту">
@@ -425,6 +424,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Мәзірге жылжыту">
 <!ENTITY customizeMenu.moveToPanel.accesskey "ы">
+<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
+     can appear on the same context menu as menubarCmd and personalbarCmd,
+     so they should have different access keys.  -->
 <!ENTITY customizeMenu.pinToOverflowMenu.label "Қайта аймалау мәзіріне жапсыру">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "п">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Қайта аймалау мәзіріне жапсыруды алып тастау">
@@ -910,20 +912,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.on "Бақылаудан қорғаныс: Іске қосылған">
 <!ENTITY trackingProtection.off "Бақылаудан қорғаныс: Сөндірілген">
 <!ENTITY trackingProtection.title "Бақылаудан қорғаныс">
-<!ENTITY trackingProtection.tooltip "Бақылаудан қорғаныс баптауларын ашу">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; бұл парақтың сіздің желідегі әрекеттеріңізді бақылай алатын бөліктерін блоктаған.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Бұл сайтта сіздің желідегі әрекеттеріңізді бақылай алатын элементтер бар. Сіз бақылаудан қорғанысты сөндіргенсіз.">
 <!ENTITY trackingProtection.notDetected3 "Бұл парақта бақылайтын элементтер табылмады.">
-<!ENTITY trackingProtection.detectedNotBlocked4 "Бұл бетте бақылайтын элементтер табылды.">
-<!ENTITY trackingProtection.notDetected4 "Бұл бетте бақылайтын элементтер табылмады.">
-<!ENTITY trackingProtection.reloadRequired "Сіз бақылаудан қорғанысты іске қостыңыз. Барлық трекерлерді бұғаттау үшін, парақты қайта жүктеңіз.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Бұл сайтта қорғанысты сөндіру">
 <!ENTITY trackingProtection.unblock.accesskey "д">
-<!ENTITY trackingProtection.unblock2.label "Бұл сайтқа сену">
-<!ENTITY trackingProtection.unblock2.accesskey "с">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -932,12 +928,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Қорғанысты іске қосу">
 <!ENTITY trackingProtection.block2.accesskey "е">
 
-<!ENTITY trackingProtection.unblockPrivate2.label "Бұл сайтқа осы сессияда сену">
-<!ENTITY trackingProtection.unblockPrivate2.accesskey "с">
-<!ENTITY trackingProtection.block3.label "Бақылаудан қорғанысты іске қосу">
-<!ENTITY trackingProtection.block3.accesskey "с">
-<!ENTITY trackingProtection.reload.label "Бетті қайта жүктеу">
-<!ENTITY trackingProtection.reload.accesskey "й">
+<!ENTITY trackingProtection.tooltip "Бақылаудан қорғаныс баптауларын ашу">
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.reload2.label "Бетті қайта жүктеу">
 
 <!ENTITY pluginNotification.showAll.label "Барлығын көрсету">
 <!ENTITY pluginNotification.showAll.accesskey "с">
