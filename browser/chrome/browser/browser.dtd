@@ -931,13 +931,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.accesskey "A">
 
 <!ENTITY trackingProtection.tooltip "Abrir preferências de proteção contra rastreamento">
+<!ENTITY trackingProtection.detectedBlocked4 "O &brandShortName; está bloqueando partes desta página que podem rastrear a sua navegação.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "O &brandShortName; detectou elementos que podem rastrear sua navegação.">
+<!ENTITY trackingProtection.detectedException "O &brandShortName; detectou elementos que podem rastrear sua navegação. Você desativou a proteção para este site.">
+<!ENTITY trackingProtection.notDetected5 "Nenhum elemento de rastreamento detectado nesta página.">
+<!ENTITY trackingProtection.notDetectedException "Nenhum elemento de rastreamento detectado nesta página. Você desabilitou a proteção para este site.">
 
+<!ENTITY trackingProtection.reloadRequired2 "Você ativou a proteção contra rastreamento. Recarregue esta página para bloquear todos os rastreadores.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock3.label "Desabilitar para este site">
+<!ENTITY trackingProtection.unblock3.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate3.label "Desabilitar para esta sessão">
+<!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
+<!ENTITY trackingProtection.block4.label "Ativar para este site">
+<!ENTITY trackingProtection.block4.accesskey "E">
+<!ENTITY trackingProtection.reload2.label "Recarregar página">
 
 <!ENTITY pluginNotification.showAll.label "Mostrar tudo">
 <!ENTITY pluginNotification.showAll.accesskey "x">
