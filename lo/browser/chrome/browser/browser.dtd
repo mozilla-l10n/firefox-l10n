@@ -395,15 +395,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      so they should have different access keys. customizeMenu.moveToToolbar and
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
+<!ENTITY customizeMenu.moveToPanel.label "ຍ້າຍໄປທີ່ເມນູ">
 <!ENTITY customizeMenu.moveToPanel.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
      can appear on the same context menu as menubarCmd and personalbarCmd,
      so they should have different access keys.  -->
+<!ENTITY customizeMenu.pinToOverflowMenu.label "ປັກຫມຸດລົງໃນເມນູລົ້ນ">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "ຖອນຫມຸດອອກຈາກເມນູລົ້ນ">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
 <!ENTITY customizeMenu.removeFromToolbar.label "ເອົາອອກຈາກແຖບເຄື່ອງມື">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
+<!ENTITY customizeMenu.removeFromMenu.label "ເອົາອອກຈາກເມນູ">
 <!ENTITY customizeMenu.removeFromMenu.accesskey "R">
+<!ENTITY customizeMenu.addMoreItems.label "ເພີ່ມລາຍການຕື່ມ…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
 
@@ -422,6 +427,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "ເຄັດລັບ:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "ປ່ຽນຕົວເລືອກ…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "ປ່ຽນແປງການຕັ້ງຄ່າ…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
@@ -573,6 +579,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "ເປີດໃຊ້ງານປັກອິນນີ້">
 <!ENTITY playPluginCmd.accesskey      "c">
+<!ENTITY hidePluginCmd.label          "ເຊື່ອງປັກອິນນີ້">
 <!ENTITY hidePluginCmd.accesskey      "H">
 <!ENTITY copyLinkCmd.label            "ສຳເນົາທີ່ຢູ່ລີ້ງ">
 <!ENTITY copyLinkCmd.accesskey        "a">
@@ -604,15 +611,20 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "ເປີດສຽງ">
 <!ENTITY mediaUnmute.accesskey       "m">
+<!ENTITY mediaPlaybackRate2.label     "ຄວາມໄວໃນການຫຼີ້ນ">
 <!ENTITY mediaPlaybackRate2.accesskey "d">
+<!ENTITY mediaPlaybackRate050x2.label "ຊ້າ (0.5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "S">
 <!ENTITY mediaPlaybackRate100x2.label "ປົກກະຕິ">
 <!ENTITY mediaPlaybackRate100x2.accesskey "N">
+<!ENTITY mediaPlaybackRate125x2.label "ໄວ (1.25×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "F">
+<!ENTITY mediaPlaybackRate150x2.label "ໄວຫລາຍ (1.5×)">
 <!ENTITY mediaPlaybackRate150x2.accesskey "a">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
+<!ENTITY mediaPlaybackRate200x2.label "ໄວທີ່ສຸດ (2×)">
 <!ENTITY mediaPlaybackRate200x2.accesskey "L">
 <!ENTITY mediaLoop.label             "ວົນຮອບ">
 <!ENTITY mediaLoop.accesskey         "L">
@@ -733,16 +745,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.enableMixedContentBlocking.label "ເປີດໃຊ້ການປ້ອງກັນ">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "E">
+<!ENTITY identity.disableMixedContentBlocking.label "ປິດການປ້ອງກັນສຳລັບຕອນນີ້">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "ຮຽນຮູ້ເພີ່ມເຕີມ">
 
+<!ENTITY identity.removeCertException.label "ລຶບຂໍ້ຍົກເວັ້ນ">
 <!ENTITY identity.removeCertException.accesskey "R">
 
 <!ENTITY identity.moreInfoLinkText2 "ຂໍ້ມູນເພີ່ມເຕີມ">
 
+<!ENTITY identity.clearSiteData "ລ້າງຄຸກກີ້ແລະຂໍ້ມູນເວັບໄຊ…">
 
 <!ENTITY identity.permissions "ການອະນຸຍາດ">
+<!ENTITY identity.permissionsEmpty "ທ່ານຍັງບໍ່ໄດ້ມອບການອະນຸຍາດພິເສດໃດໆໃຫ້ກັບເວັບໄຊນີ້.">
+<!ENTITY identity.permissionsReloadHint "ທ່ານອາດຕ້ອງໂຫລດຫນ້າຄືນໃຫມ່ເພື່ອໃຫ້ການປ່ຽນແປງມີຜົນ.">
 
+<!ENTITY identity.permissionsPreferences.tooltip "ເປີດການຕັ້ງຄ່າການອະນຸຍາດ">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -847,9 +865,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock3.label "ປິດໃຊ້ງານສຳລັບເວັບໄຊນີ້">
+<!ENTITY trackingProtection.unblock3.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate3.label "ປິດໃຊ້ງານສຳລັບເຊສຊັນນີ້">
+<!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
+<!ENTITY trackingProtection.block4.label "ເປີດໃຊ້ງານສຳລັບເວັບໄຊນີ້">
+<!ENTITY trackingProtection.block4.accesskey "E">
+<!ENTITY trackingProtection.reload2.label "ໂຫລດຫນ້າໃຫມ່">
+<!ENTITY trackingProtection.reload2.accesskey "R">
 
 <!ENTITY pluginNotification.showAll.label "ສະແດງທັງຫມົດ">
 <!ENTITY pluginNotification.showAll.accesskey "S">
