@@ -509,6 +509,15 @@ privacy-header = Privasi Browser
 ## Privacy Section - Forms
 
 forms-header = Formulir & Lageuem Rahsia
+forms-ask-to-save-logins =
+    .label = Lakèe keubah info tamong ngön lageuem rahsia keu situs wèb
+    .accesskey = L
+forms-exceptions =
+    .label = Keucuali
+    .accesskey = K
+forms-saved-logins =
+    .label = Info Tamong Teukeubah...
+    .accesskey = I
 
 ## Privacy Section - History
 
