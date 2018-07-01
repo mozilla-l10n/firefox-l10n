@@ -522,6 +522,10 @@ forms-saved-logins =
 ## Privacy Section - History
 
 history-header = Riwayat
+history-remember-option-all =
+    .label = Peuingat jeujak
+history-remember-option-never =
+    .label = Peuingat bek tuwe jeujak
 history-clear-on-close-settings =
     .label = Peuatoe...
     .accesskey = t
