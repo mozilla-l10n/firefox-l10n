@@ -326,8 +326,8 @@
 <!ENTITY killThreadMenu.label "საქაღალდის იგნორირება">
 <!ENTITY killThreadMenu.accesskey "I">
 <!ENTITY killThreadMenu.key "k">
-<!ENTITY killSubthreadMenu.label "ქვესაქაღალდის იგნორირება">
-<!ENTITY killSubthreadMenu.accesskey "S">
+<!ENTITY killSubthreadMenu.label "საუბრის განშტოების უგულებელყოფა">
+<!ENTITY killSubthreadMenu.accesskey "შ">
 <!ENTITY killSubthreadMenu.key "k">
 <!ENTITY watchThreadMenu.label "საქაღალდის თვალმიდევნება">
 <!ENTITY watchThreadMenu.accesskey "W">
