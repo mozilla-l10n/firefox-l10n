@@ -83,6 +83,13 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Aɗa waawi joopaade hol lowe geese njamiraa yoo aaf ɓeyditte. Tappu ñiiɓirde laaɓtunde lowre nde njiɗ-ɗaa yamirde ndee, ndobo-ɗaa Yamir.
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = Lowe Jamiraaɗe - Tarol Jaajol
+    .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc = Aɗa waawi joopaade hol lowe geese njamiraa tarde jaajol geɗon mejaa. Tappu ñiiɓirde laaɓtunde lowre nde njiɗɗaa yamirde ndee tee dobo Yamir.
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
