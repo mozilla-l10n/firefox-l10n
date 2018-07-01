@@ -504,6 +504,7 @@ sync-fxa-privacy-notice = Bri thëe privasi
 
 ## Privacy Section
 
+privacy-header = Privasi Browser
 
 ## Privacy Section - Forms
 
