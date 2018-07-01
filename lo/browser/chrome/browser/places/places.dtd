@@ -16,23 +16,32 @@
 <!ENTITY views.label                    "ມຸມມອງ">
 <!ENTITY views.accesskey                "V">
 <!ENTITY views.tooltip                  "ປ່ຽນມຸມມອງຂອງທ່ານ">
+<!ENTITY view.columns.label             "ສະແດງຖັນ">
 <!ENTITY view.columns.accesskey         "C">
 <!ENTITY view.sort.label                "ລຽງ">
 <!ENTITY view.sort.accesskey            "S">
+<!ENTITY view.unsorted.label            "ບໍ່ລຽງ">
 <!ENTITY view.unsorted.accesskey        "U">
+<!ENTITY view.sortAscending.label       "ລຽງ A > Z">
 <!ENTITY view.sortAscending.accesskey   "A">
+<!ENTITY view.sortDescending.label      "ລຽງ Z > A">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
+<!ENTITY importBookmarksFromHTML.label     "ນຳເຂົ້າບຸກມາກຈາກ HTML…">
 <!ENTITY importBookmarksFromHTML.accesskey "I">
+<!ENTITY exportBookmarksToHTML.label       "ສົ່ງອອກບຸກມາກເປັນ HTML…">
 <!ENTITY exportBookmarksToHTML.accesskey   "E">
+<!ENTITY importOtherBrowser.label          "ນຳເຂົ້າຂໍ້ມູນຈາກບຣາວເຊີອື່ນ…">
 <!ENTITY importOtherBrowser.accesskey      "A">
 
+<!ENTITY cmd.backup.label               "ສຳຮອງຂໍ້ມູນ…">
 <!ENTITY cmd.backup.accesskey           "B">
 <!ENTITY cmd.restore2.label             "ກູ້ຄືນ">
 <!ENTITY cmd.restore2.accesskey         "R">
 <!ENTITY cmd.restoreFromFile.label      "ເລືອກໄຟລ໌…">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
+<!ENTITY cmd.deleteDomainData.label     "ລືມກ່ຽວກັບໄຊທ໌ນີ້">
 <!ENTITY cmd.deleteDomainData.accesskey "F">
 
 <!ENTITY cmd.open.label                  "ເປີດ">
@@ -67,20 +76,40 @@
 <!ENTITY col.name.label          "ຊື່">
 <!ENTITY col.tags.label          "ແທັກ">
 <!ENTITY col.url.label           "ຕຳແຫນ່ງທີ່ຕັ້ງ">
-<!ENTITY col.visitcount.label    "ຈຳນວນຄັ້ງທີ່ຢ້ຽມຢາມ">
+<!ENTITY col.mostrecentvisit.label "ເຂົ້າເບິ່ງລ່າສຸດ">
+<!ENTITY col.visitcount.label    "ຈຳນວນຄັ້ງທີ່ເຂົ້າເບິ່ງ">
 <!ENTITY col.description.label   "ຄຳອະທິບາຍ">
 <!ENTITY col.dateadded.label     "ເພີ່ມເມື່ອ">
-<!ENTITY col.lastmodified.label  "ແກ້ໄຂຫລ້າສຸດເມື່ອ">
+<!ENTITY col.lastmodified.label  "ດັດແກ້ລ່າສຸດເມື່ອ">
 
 <!ENTITY historySearch.placeholder  "ຊອກຫາປະຫວັດການໃຊ້ງານ">
 <!ENTITY bookmarksSearch.placeholder  "ຊອກຫາບຸກມາກ">
 
 <!ENTITY cmd.find.key  "f">
 
+<!ENTITY maintenance.label      "ນຳເຂົ້າແລະສຳຮອງຂໍ້ມູນ">
 <!ENTITY maintenance.accesskey  "I">
+<!ENTITY maintenance.tooltip    "ນຳເຂົ້າແລະສຳຮອງຂໍ້ມູນບຸກມາກຂອງທ່ານ">
 
 <!ENTITY backButton.tooltip  "ກັບຄືນ">
 
-<!ENTITY forwardButton.tooltip  "ເດີນໜ້າ">
+<!ENTITY forwardButton.tooltip  "ໄປຂ້າງຫນ້າ">
 
+<!ENTITY detailsPane.more.label "ເພີ່ມເຕີມ">
+<!ENTITY detailsPane.more.accesskey "e">
+<!ENTITY detailsPane.less.label "ນ້ອຍລົງ">
+<!ENTITY detailsPane.less.accesskey "e">
+<!ENTITY detailsPane.selectAnItemText.description "ເລືອກລາຍການທີ່ຈະເບິ່ງແລະແກ້ໄຂຄຸນສົມບັດຂອງມັນ">
 
+<!ENTITY view.label               "ມູມມອງ">
+<!ENTITY view.accesskey           "w">
+<!ENTITY byDate.label             "ຕາມວັນທີ">
+<!ENTITY byDate.accesskey         "D">
+<!ENTITY bySite.label             "ຕາມເວັບໄຊທ໌">
+<!ENTITY bySite.accesskey         "S">
+<!ENTITY byMostVisited.label      "ຕາມທີ່ເຂົ້າເບິ່ງຫລາຍສຸດ">
+<!ENTITY byMostVisited.accesskey  "V">
+<!ENTITY byLastVisited.label      "ຕາມທີ່ເຂົ້າເບິ່ງລ່າສຸດ">
+<!ENTITY byLastVisited.accesskey  "L">
+<!ENTITY byDayAndSite.label       "ຕາມວັນທີແລະເວັບໄຊທ໌">
+<!ENTITY byDayAndSite.accesskey   "t">
