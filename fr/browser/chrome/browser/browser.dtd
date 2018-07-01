@@ -214,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Afficher une notification">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Afficher la demande de géolocalisation">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Ouvrir le panneau de lecture automatique">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Afficher le message d’installation du module complémentaire">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Gérer les permissions d’extraction de canvas">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Afficher le message concernant le stockage de données hors connexion">
