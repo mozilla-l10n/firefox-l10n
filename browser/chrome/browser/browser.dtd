@@ -310,6 +310,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "Nauja sudėtinė kortelė">
 <!ENTITY newUserContext.accesskey         "s">
+<!ENTITY manageUserContext.label          "Tvarkyti sudėtines korteles">
+<!ENTITY manageUserContext.accesskey      "u">
 <!ENTITY newNavigatorCmd.label        "Naujas langas">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "l">
@@ -412,8 +414,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
-     in the location bar. These labels are only used in Photon, where you can put
-     items into this menu permanently (pinned). -->
+     in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Pridėti į perpildymo meniu">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "m">
 <!ENTITY customizeMenu.moveToToolbar.label "Perkelti į priemonių juostą">
@@ -425,6 +426,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Perkelti į meniu">
 <!ENTITY customizeMenu.moveToPanel.accesskey "P">
+<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
+     can appear on the same context menu as menubarCmd and personalbarCmd,
+     so they should have different access keys.  -->
 <!ENTITY customizeMenu.pinToOverflowMenu.label "Įsegti į perpildymo meniu">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "s">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Išsegti iš perpildymo meniu">
@@ -910,20 +914,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.on "Apsauga nuo stebėjimo: TAIP">
 <!ENTITY trackingProtection.off "Apsauga nuo stebėjimo: NE">
 <!ENTITY trackingProtection.title "Apsauga nuo stebėjimo">
-<!ENTITY trackingProtection.tooltip "Atverti apsaugos nuo stebėjimo nuostatas">
 <!ENTITY trackingProtection.detectedBlocked3 "„&brandShortName;“ blokuoja jūsų naršymą galinčias stebėti šio tinklalapio dalis.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Šiame tinklalapyje yra jūsų naršymą galinčių stebėti elementų. Jūsų apsauga yra išjungta.">
 <!ENTITY trackingProtection.notDetected3 "Tinklalapyje nerasta stebėjimui naudojamų elementų.">
-<!ENTITY trackingProtection.detectedNotBlocked4 "Tinklalapyje aptikta stebėjimui naudojamų elementų.">
-<!ENTITY trackingProtection.notDetected4 "Tinklalapyje neaptikta stebėjimui naudojamų elementų.">
-<!ENTITY trackingProtection.reloadRequired "Esate įjungę apsaugą nuo stebėjimo. Norėdami užblokuoti visus stebėjimo elementus, įkelkite tinklalapį iš naujo.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Išjungti apsaugą šioje svetainėje">
 <!ENTITY trackingProtection.unblock.accesskey "I">
-<!ENTITY trackingProtection.unblock2.label "Pasitikėti šia svetaine">
-<!ENTITY trackingProtection.unblock2.accesskey "P">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -932,12 +930,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Įjungti apsaugą">
 <!ENTITY trackingProtection.block2.accesskey "Į">
 
-<!ENTITY trackingProtection.unblockPrivate2.label "Pasitikėti šia svetaine šiam seansui">
-<!ENTITY trackingProtection.unblockPrivate2.accesskey "P">
-<!ENTITY trackingProtection.block3.label "Įjungti apsaugą nuo stebėjimo">
-<!ENTITY trackingProtection.block3.accesskey "g">
-<!ENTITY trackingProtection.reload.label "Įkelti iš naujo">
-<!ENTITY trackingProtection.reload.accesskey "e">
+<!ENTITY trackingProtection.tooltip "Atverti apsaugos nuo stebėjimo nuostatas">
+<!ENTITY trackingProtection.detectedBlocked4 "„&brandShortName;“ blokuoja jūsų naršymą galinčias stebėti šio tinklalapio dalis.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "„&brandShortName;“ aptiko jūsų naršymą galinčių stebėti elementų.">
+<!ENTITY trackingProtection.detectedException "„&brandShortName;“ aptiko jūsų naršymą galinčių stebėti elementų. Jūsų apsauga šioje svetainėje yra išjungta.">
+<!ENTITY trackingProtection.notDetected5 "Tinklalapyje nerasta stebėjimui naudojamų elementų.">
+<!ENTITY trackingProtection.notDetectedException "Tinklalapyje nerasta stenėjimui naudojamų elementų. Jūsų apsauga šioje svetainėje yra išjungta.">
+
+<!ENTITY trackingProtection.reloadRequired2 "Jūs įjungėte apsaugą nuo stebėjimo. Norėdami blokuoti visus stebėjimo elementus, įkelkite šį tinklalapį iš naujo.">
+<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock3.label "Išjungti šioje svetainei">
+<!ENTITY trackingProtection.unblock3.accesskey "I">
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate3.label "Išjungti šiame seanse">
+<!ENTITY trackingProtection.unblockPrivate3.accesskey "I">
+<!ENTITY trackingProtection.block4.label "Įjungti šioje svetainėje">
+<!ENTITY trackingProtection.block4.accesskey "j">
+<!ENTITY trackingProtection.reload2.label "Įkelti tinklalapį iš naujo">
+<!ENTITY trackingProtection.reload2.accesskey "k">
 
 <!ENTITY pluginNotification.showAll.label "Rodyti visus">
 <!ENTITY pluginNotification.showAll.accesskey "v">
