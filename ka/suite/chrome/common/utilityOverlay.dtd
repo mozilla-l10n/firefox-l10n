@@ -132,7 +132,7 @@
 <!ENTITY customizeToolbarContext.label            "მორგება…">
 <!ENTITY customizeToolbarContext.accesskey        "C">
 
-<!ENTITY customizeToolbar.toolbarmode.label       "პარამეტრები ამ პულტისთვის">
+<!ENTITY customizeToolbar.toolbarmode.label       "ხელსაწყოთა ზოლის პარამეტრები">
 <!ENTITY customizeToolbar.toolbarmode.accesskey   "e">
 <!ENTITY customizeToolbar.iconsAndText.label      "პიქტოგრამები და ტექსტი">
 <!ENTITY customizeToolbar.iconsAndText.accesskey  "a">
