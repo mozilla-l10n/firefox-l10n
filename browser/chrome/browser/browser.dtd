@@ -809,7 +809,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Дозволи">
 <!ENTITY identity.permissionsEmpty "Ви не надали цьому сайту жодних спеціальних дозволів.">
-<!ENTITY identity.permissionsReloadHint "Можливо, вам знадобиться перезавантажити сторінку для застосування змін.">
+<!ENTITY identity.permissionsReloadHint "Для застосування змін, вам, можливо, доведеться перезавантажити сторінку.">
 
 <!ENTITY identity.permissionsPreferences.tooltip "Відкрити налаштування дозволів">
 
