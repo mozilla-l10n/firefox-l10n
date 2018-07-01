@@ -943,16 +943,16 @@
 <!ENTITY reloadCmd.label "განახლება">
 <!ENTITY reloadCmd.accesskey "ა">
 <!ENTITY openInBrowser.label "გახსნა ბრაუზერში">
-<!ENTITY openInBrowser.accesskey "O">
-<!ENTITY openLinkInBrowser.label "ბმის გახსნა ბრაუზერში">
-<!ENTITY openLinkInBrowser.accesskey "O">
+<!ENTITY openInBrowser.accesskey "ბ">
+<!ENTITY openLinkInBrowser.label "ბმულის გახსნა ბრაუზერში">
+<!ENTITY openLinkInBrowser.accesskey "ხ">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label "მზადაა">
 
 <!-- Mac OS X Window Menu -->
-<!ENTITY minimizeWindow.label "მინიმიზება">
-<!ENTITY minimizeWindow.key "m">
+<!ENTITY minimizeWindow.label "ჩაკეცვა">
+<!ENTITY minimizeWindow.key "ჩ">
 <!ENTITY bringAllToFront.label "ყველას წინ გადატანა">
 <!ENTITY zoomWindow.label "მასშტაბი">
 
@@ -960,12 +960,12 @@
 <!ENTITY preferencesCmdMac2.label       "პარამეტრები">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
-<!ENTITY servicesMenuMac.label          "მომსახურება">
+<!ENTITY servicesMenuMac.label          "მომსახურებები">
 <!ENTITY hideThisAppCmdMac.label        "&brandShortName; პროგრამის დამალვა">
 <!ENTITY hideThisAppCmdMac.commandkey   "დ">
 <!ENTITY hideThisAppCmdMac.modifiers    "accel">
 <!ENTITY hideOtherAppsCmdMac.label      "სხვების დამალვა">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+<!ENTITY hideOtherAppsCmdMac.commandkey "დ">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "ყველას ჩვენება">
 
