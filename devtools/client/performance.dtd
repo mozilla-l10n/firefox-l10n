@@ -15,11 +15,6 @@
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
 <!ENTITY performanceUI.bufferStatusTooltip "Profiler ukládá vzorky v kruhové vyrovnávací paměti a poté, co vyrovnávací paměť dosáhne limitu pro nahrávání, novější vzorky začnou přepisovat vzorky na začátku záznamu.">
 
-<!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
-  -  is displayed as a message for why the real time overview graph is disabled
-  -  when running on a non-multiprocess build. -->
-<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "Záznam dat v reálném čase je zakázán na ne-multiprocesovém Firefoxu.">
-
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a build that can run multiprocess Firefox, but just is not enabled. -->
@@ -29,7 +24,7 @@
   -  is displayed when the profiler's circular buffer has started to overlap. -->
 <!ENTITY performanceUI.bufferStatusFull "Vyrovnávací paměť je plná. Starší vzorky jsou přepisovány.">
 
-<!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
+<!-- LOCALIZATION NOTE (performanceUI.unavailableNoticePB): This is the label shown
   -  in the details view while the profiler is unavailable, for example, while
   -  in Private Browsing mode. -->
 <!ENTITY performanceUI.unavailableNoticePB "Nahrávání profilu je momentálně nedostupné. Zavřete prosím všechna anonymní okna a zkuste to znovu.">
@@ -63,7 +58,7 @@
 <!ENTITY performanceUI.table.samples                  "Vzorky">
 <!ENTITY performanceUI.table.samples.tooltip          "Čas této funkci na zásobníku, když profiler vzal vzorek.">
 <!ENTITY performanceUI.table.function                 "Funkce">
-<!ENTITY performanceUI.table.function.tooltip         "Jméno a adresa zdroje vzorkové funkce.">
+<!ENTITY performanceUI.table.function.tooltip         "Název a adresa zdroje vzorkové funkce.">
 <!ENTITY performanceUI.table.totalAlloc               "Celkový počet vzorků alokací">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Celkový počet vzorků alokovaných objektů v tomto umístění a ve volaných.">
 <!ENTITY performanceUI.table.selfAlloc                "Vlastních vzorků alokací">
