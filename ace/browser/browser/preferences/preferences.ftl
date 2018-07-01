@@ -467,12 +467,38 @@ sync-engine-logins =
     .label = Tamöng
     .tooltiptext = Nan ureung ngui dan lageum rahsia nyang ka neu keubah
     .accesskey = T
+sync-engine-addresses =
+    .label = Àlamat rumôh
+    .tooltiptext = Àlamat rumôh nyan ka neu keubah ( bak desktop sagai)
+    .accesskey = l
+sync-engine-creditcards =
+    .label = Kartu kredit
+    .tooltiptext = Nan, lumbôi ngön uroe buleuen abéh masa (desktop sagai)
+    .accesskey = K
+sync-engine-addons =
+    .label = Add-ons
+    .tooltiptext = Ekstensi ngön tema keu desktop Firefox
+    .accesskey = y
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Piléhan
+           *[other] Preferensi
+        }
+    .tooltiptext = Awam, privasi, dan peuatô keuamanan nyangka meu ubah
+    .accesskey = P
+sync-device-name-header = Nan Peukakah
+sync-device-name-change =
+    .label = Gantoe Nan Peukakah...
+    .accesskey = G
 sync-device-name-cancel =
-    .label = Bateue
+    .label = Hanasi
     .accesskey = B
 sync-device-name-save =
     .label = Keubah
     .accesskey = K
+sync-mobilepromo-single = Seumöng peukakah laen
+sync-mobilepromo-multi = Atô peukakah
 
 ## Privacy Section
 
