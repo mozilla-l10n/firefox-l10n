@@ -342,5 +342,5 @@
 <!ENTITY updateTOC.accesskey      "u">
 <!ENTITY removeTOC.label          "მოცილება">
 <!ENTITY removeTOC.accesskey      "r">
-<!ENTITY tocMenu.label            "შინაარსი…">
+<!ENTITY tocMenu.label            "სარჩევი…">
 <!ENTITY tocMenu.accesskey        "b">
